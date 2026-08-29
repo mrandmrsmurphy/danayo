@@ -1873,3 +1873,21 @@ Next: 噴火.
 噴's own `stand_in` field is 噴火 — already documented. Filled blank `vietnamese: phún hoả` (verified). No homophones. Stamped `date-last-perfect: 2026-08-28`.
 
 Next: 嚴禁.
+
+### 2026-08-28, iteration 1366 — [[words/嚴禁|嚴禁]]
+
+No stand-in relationship (厳 is its own stand-in; 禁's own is [[禁止]]). Frontmatter already fully correct; filled missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 四季.
+
+### 2026-08-28, iteration 1367 — [[words/四季|四季]]
+
+No stand-in relationship (四 is its own stand-in; 季's own is [[季節]]). Fixed malformed `japanese`/`vietnamese` YAML-lists → plain scalars; removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 四川.
+
+### 2026-08-28, iteration 1368 — [[words/四川|四川]]
+
+Page was already nearly complete. No stand-in relationship (both independent) — added the note. No homophones. Stamped `date-last-perfect: 2026-08-28`.
+
+Next: 四書.
