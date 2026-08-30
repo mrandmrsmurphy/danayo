@@ -3823,3 +3823,27 @@ Next: 懐疑.
 疑's own `stand_in` is 懐疑 — added the stand-in note. Documented a real-Korean-only coincidence with 会議/會議 ("meeting") that does not extend to the Dan'a'yo level. Added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 懲罰.
+
+### 2026-08-30, iteration 1688 — [[words/懲罰|懲罰]]
+
+Both 懲 and 罰's own `stand_in` is 懲罰 — added the note. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懸.
+
+### 2026-08-30, iteration 1689 — [[words/懸|懸]]
+
+This word is the stand-in for its own character. Filled missing `pos`/`japanese`/`vietnamese`/`kwin`; the three-way homophone callout with [[玄]]/[[県]] was already correct and fully reciprocated on all three pages. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懸垂.
+
+### 2026-08-30, iteration 1690 — [[words/懸垂|懸垂]]
+
+No stand-in relationship (懸's own stand-in is itself; 垂's own is [[垂掛]]). Filled blank `korean`/`vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懸壅垂.
+
+### 2026-08-30, iteration 1691 — [[words/懸壅垂|懸壅垂]]
+
+No stand-in relationship (懸/壅 are both their own stand-ins; 垂's own is [[垂掛]]). Filled blank `cantonese`, kept korean 목젖/vietnamese lưỡi gà as genuine native-equivalent "uvula" terms. Fixed missing "(char)" suffixes. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戌月.
