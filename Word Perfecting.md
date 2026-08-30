@@ -3489,3 +3489,27 @@ Next: 恭賀.
 No stand-in relationship (恭's own stand-in is [[恭敬]]; 賀's own is itself). Filled blank `korean`/`vietnamese`, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
 
 Next: 悠久.
+
+### 2026-08-29, iteration 1633 — [[words/悠久|悠久]]
+
+This word is the stand-in for 悠 (too bounded to stand alone). Fixed missing "(char)" suffix, filled blank `vietnamese`, quoted fields. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 患.
+
+### 2026-08-30, iteration 1634 — [[words/患|患]] & [[words/換|換]]
+
+Discovered genuine Dan'a'yo homophone pair (both hwam/홤). Both had the character-vs-word `注音` divergence bug already documented this session (火, 屎/破/即, 恩/慣, 調/酒): the word pages stored the spelled-out literal ㄏㄨㄚㄇ instead of the vault's canonical single-glyph rime notation `ㄏ⺢ㄇ`, which their own character pages already used correctly. Fixed both, added reciprocal `>[!warning] Homophones` callouts, filled missing pos/japanese/vietnamese (both had literal `vietnamese: null`), reformatted both from the malformed single-character template. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 悪.
+
+### 2026-08-30, iteration 1635 — [[words/悪|悪]] & [[words/軛|軛]]
+
+Discovered genuine Dan'a'yo homophone pair (both 'ag/악/ㄚㄎ). Fixed real bug on 軛: `korean` had been stored as the literal string "null" — corrected to compositional 액. Both had missing glide apostrophes on `羅馬字` (ag→'ag). Added reciprocal callouts, filled missing pos/japanese/vietnamese/kwin. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 悪劣.
+
+### 2026-08-30, iteration 1636 — [[words/悪劣|悪劣]]
+
+No stand-in relationship (悪/劣 are both their own stand-ins). Fixed real bug: `cantonese`/`japanese`/`korean` had all been contaminated with the reversed-order sibling word 劣悪's readings — corrected to this word's own compositional forms and removed 劣悪 from `aliases`. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 悪化.
