@@ -4273,3 +4273,27 @@ Next: 挟攻.
 No stand-in relationship (both 挟 and 攻's own stand-ins are themselves). Page was already richly documented; filled blank `vietnamese: giáp công` (a genuine standard term for 夾攻), quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 振.
+
+### 2026-08-30, iteration 1763 — [[words/振|振]] / [[words/真|真]]
+
+Both had literal `vietnamese: null` and were malformed (missing pos/japanese/hsk_level/kwin/date-last-perfect); both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄐㄧㄋ) — checked twelve other candidates (㐱/尽/塵/診/賑/陳/震/晋/津/娠/秦/進) and confirmed none independent at this reading. 振's `vietnamese` (chấn) required going outside the character's own stored list, which is missing this well-attested reading — flagged for a future character-level check. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 振動.
+
+### 2026-08-30, iteration 1764 — [[words/振動|振動]] / [[words/震動|震動]]
+
+Fixed a significant contamination bug: 振動's `mandarin`/`cantonese`/`japanese`/`korean` had all been swapped for an incorrect reading (zhàndòng/zin3 dung6/せんどう/전동), apparently under the mistaken belief that 振動 needed to substitute for pageless 顫 (顫動 "tremble") — but no substitution was needed at all, since 振動 (zhèndòng, "vibrate") is an ordinary standalone word in its own right. Removed the erroneous `顫動` alias and strikethrough Etymology note, restored correct compositional readings. In the process discovered a genuine three-way coincidence: 振 and 震 are homophones in real Mandarin (both zhèn) as well as Dan'a'yo, so [[振動]] and [[震動]] (already stamped 2026-05-18, itself the stand-in for 震) are homophones at every level (both 注音 ㄐㄧㄋㄉㄛㄫ) — added canonical reciprocal callouts to both, also fixing an incorrect stand_in reference for 動 (its own stand-in is itself, not [[運動]]) on both pages. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 振動音.
+
+### 2026-08-30, iteration 1765 — [[words/振動音|振動音]]
+
+No stand-in relationship (振's own stand-in is itself; 動's own is itself; 音's own is [[音楽]]). Fixed the same contamination bug found on [[振動]]: `mandarin`/`cantonese`/`japanese`/`korean` had all been swapped for an incorrect reading under the same mistaken 顫-substitution rationale — no substitution was needed. Removed erroneous `顫音`/`顫動音` aliases and strikethrough Etymology. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 振子.
+
+### 2026-08-30, iteration 1766 — [[words/振子|振子]]
+
+No stand-in relationship (振's own stand-in is itself; 子's own is [[児子]]). Fixed real bug: `mandarin` was contaminated with bǎi (reading of the unrelated 擺/摆, from the native Chinese word for "pendulum"), corrected to compositional zhènzǐ. Filled blank `cantonese: zan3 zi2` (compositional). Japanese ふりこ/Vietnamese con lắc documented as native equivalents. Omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 振幅.
