@@ -3533,3 +3533,27 @@ No stand-in relationship (悪/毒 are both their own stand-ins). Fixed real bug:
 This completes the full run of 悪-initial compounds swept this stretch: [[悪]]/[[悪劣]]/[[悪化]]/[[悪心]]/[[悪毒]] are now all uniformly perfected.
 
 Next: 悲.
+
+### 2026-08-30, iteration 1640 — [[words/悲|悲]] & [[words/比|比]]
+
+Discovered genuine Dan'a'yo homophone pair (both biǝ/븨/ㄅㄧㄜ) — 比 already had this reading fully explained in its own detailed linguistics note but was missing the reciprocal callout (a required criterion), so its stamp is refreshed. Fixed 悲's malformed single-character pattern (missing pos/japanese/vietnamese, bare `# Notes`), added reciprocal callouts to both, removed redundant `品詞` on 比. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 悲傷.
+
+### 2026-08-30, iteration 1641 — [[words/悲傷|悲傷]]
+
+No stand-in relationship (悲's own stand-in is itself; 傷's own is [[傷害]]). Removed redundant self-referential alias and the reversed-order 傷悲/伤悲 forms (distinct synonym, not a spelling variant). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 悲痛.
+
+### 2026-08-30, iteration 1642 — [[words/悲痛|悲痛]]
+
+No stand-in relationship (悲's own stand-in is itself; 痛's own is [[苦痛]]). Filled blank `vietnamese`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 悼.
+
+### 2026-08-30, iteration 1643 — [[words/悼|悼]]
+
+This word is the stand-in for its own character. Fixed literal `vietnamese: null`→điệu, missing `pos`/`japanese` filled 事詞/とう. Reformatted `characters`, wrote `## Notes` (was bare `# Notes`); homophone callout to [[道]] was already correct and reciprocated. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 情勢.
