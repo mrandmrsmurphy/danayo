@@ -1037,3 +1037,21 @@ Next: 晩.
 This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to vãn. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (checked seven candidates). Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 晩飯.
+
+### 2026-08-30, iteration 1955 — [[words/晩飯|晩飯]]
+
+No stand-in relationship (晩's own stand-in is itself; 飯's own is [[米飯]]). Simplified `korean` from native paraphrase to compositional 만반. Filled blank `vietnamese: vãn phạn` (compositional). Removed mismatched-character `夕食` from `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晩餐.
+
+### 2026-08-30, iteration 1956 — [[words/晩餐|晩餐]]
+
+No stand-in relationship (both 晩 and 餐's own stand-ins are themselves). Fixed real bug: `mandarin`/`cantonese` had both been contaminated with sibling word [[晩飯]]'s readings — corrected to compositional wǎncān/maan5 caan1. Removed mismatched-character `晚飯` from `aliases`. Filled blank `vietnamese: vãn xan`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 普通.
+
+### 2026-08-30, iteration 1957 — [[words/普通|普通]]
+
+This word is itself the stand-in that legitimizes the character 普 (通's own stand-in is itself). Removed redundant `品詞`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 普通話.
