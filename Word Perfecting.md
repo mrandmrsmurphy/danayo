@@ -4129,3 +4129,27 @@ Next: 拉金.
 Periodic-table neologism (rutherfordium). Flagged but did not resolve a naming-architecture anomaly: unlike sibling person-eponym elements ([[居里金]]/[[愛因金]]/[[費米金]]/[[諾貝金]]/[[門捷金]]/[[羅倫金]], all two-character surname reductions), 拉金 uses only one character for Rutherford — documented for future dedicated review rather than renamed unilaterally. Removed redundant `品詞`, cleaned up inline-flow fields to scalars where single-valued. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 拉麺.
+
+### 2026-08-30, iteration 1739 — [[words/拉麺|拉麺]]
+
+No stand-in relationship (both 拉 and 麺's own stand-ins are themselves). Japanese ラーメン/Korean 라면/Vietnamese ramen are international loanword forms, documented as expected. Fixed missing "(char)" suffixes, simplified single-item `vietnamese` list to scalar, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拌和.
+
+### 2026-08-30, iteration 1740 — [[words/拌和|拌和]]
+
+This word is itself the stand-in that legitimizes the character 拌 (和's own stand-in is [[和平]]). Filled blank `japanese: はんわ`, added missing `kwin: true`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拍.
+
+### 2026-08-30, iteration 1741 — [[words/拍|拍]] / [[words/鞄|鞄]]
+
+Both were malformed (拍 had literal `vietnamese: null`, missing pos/japanese/hsk_level/kwin/date-last-perfect; 鞄 missing the same set) and both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄆㄚㄎ) — checked other candidates (朴/珀) and confirmed neither has an independent word at this reading. Japanese かばん (native) for 鞄 documented as expected. Filled blank fields on both, added canonical reciprocal `>[!warning] Homophones` callouts. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拍手.
+
+### 2026-08-30, iteration 1742 — [[words/拍手|拍手]]
+
+No stand-in relationship (both 拍 and 手's own stand-ins are themselves). Filled blank `vietnamese: phách thủ` (compositional), fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拘束.
