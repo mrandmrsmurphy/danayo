@@ -3961,3 +3961,27 @@ Next: 手巾.
 This word is itself the stand-in that legitimizes the character 巾 (手's own stand-in is itself). Filled blank `pos: 名詞`, `vietnamese: thủ cân` (compositional, noting native cognate khăn in prose), fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 手帖.
+
+### 2026-08-30, iteration 1711 — [[words/手帖|手帖]]
+
+No stand-in relationship (both 手 and 帖's own stand-ins are themselves). Fixed real bugs: `諺文`/`羅馬字` (슈텁/syuteb→슈톱/syutob) and `cantonese` (tip1→tip3), both not matching 帖's own citation despite 注音 already being correct. Modernized garbled/archaic `japanese` ててふ→てちょう. Removed mismatched-character synonym `手帳` (uses 帳, not 帖) from `aliases`. Filled blank `pos`/`vietnamese`, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 手掌.
+
+### 2026-08-30, iteration 1712 — [[words/手掌|手掌]] / [[words/首長|首長]]
+
+Genuine Dan'a'yo-level homophone pair (both 注音 ㄙ⼜ㄐㄚㄫ), previously only noted as plain-text "Homophones: X - gloss" lines — converted both to canonical `>[!warning] Homophones` reciprocal callouts. 手掌: this word is itself the stand-in for its own character 掌 (手's own is itself); Japanese てのひら/Korean 손바닥 are native equivalents (documented as expected, not contamination). 首長: this word is itself the stand-in for its own character 首 (長's own stand-in is [[長]]); filled blank `vietnamese: thủ trưởng` (compositional). Both had inline-flow `characters` fixed to block lists and blank `hsk_level`/`swadesh`/empty-list `aliases` omitted. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 手足.
+
+### 2026-08-30, iteration 1713 — [[words/手足|手足]]
+
+No stand-in relationship (both 手 and 足's own stand-ins are themselves). Filled blank `pos: 名詞`, `vietnamese: thủ túc` (compositional), added missing `kwin: false`. Simplified `korean` from comma-joined "수족, 손발" to compositional 수족, moved native synonym 손발 to prose. Fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 才能.
+
+### 2026-08-30, iteration 1714 — [[words/才能|才能]]
+
+No stand-in relationship (才's own stand-in is [[天才]]; 能's own is [[技能]]). Filled blank `vietnamese: tài năng` (compositional), omitted blank `aliases`/`swadesh`, added `## Notes` section. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 打算.
