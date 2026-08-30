@@ -1163,3 +1163,27 @@ Next: 暦数.
 Filled blank `japanese`/`korean`/`vietnamese` compositionally (れきすう, 력수, lịch số), added `kwin: false` (諺文 럭수 ≠ real Korean 력수), removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. Noted (not a bug) that this compound's `cantonese` sou3 reflects 数's noun sense, distinct from its own citation's verb-sense sou2 (used in its stand-in 計数). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 暴.
+
+### 2026-08-30, iteration 1976 — [[words/暴|暴]]
+
+This word is itself the stand-in for 暴. Added missing `pos`/`japanese` fields, fixed literal `vietnamese: null` → bộc, added `hsk_level: "3"`. No word-level homophones (bound characters 僕/剝/卜/瀑/爆 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴徒.
+
+### 2026-08-30, iteration 1977 — [[words/暴徒|暴徒]]
+
+No stand-in relationship (both 暴 and 徒's own stand-ins are themselves). Filled blank `vietnamese` with the real reading bạo đồ; flagged that Korean 폭도 and Vietnamese bạo đồ use real alternate readings of 暴 (폭/bạo) missing from the character's own citation (only 포/bộc stored) — a character-level gap for future perfecting, not fixed here. Reformatted `characters` to block-list YAML, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴怒.
+
+### 2026-08-30, iteration 1978 — [[words/暴怒|暴怒]]
+
+No stand-in relationship (both 暴 and 怒's own stand-ins are themselves). Filled blank `korean`/`vietnamese` with the real readings 폭노/bạo nộ, matching the same 暴-as-first-element citation gap flagged on [[暴徒]] and consistent with sibling compounds 暴風/暴飲/暴政/暴食. Added `kwin: false`, removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴政.
+
+### 2026-08-30, iteration 1979 — [[words/暴政|暴政]]
+
+No stand-in relationship (both 暴 and 政's own stand-ins are themselves). Korean/Vietnamese already correctly used the 폭/bạo alternate readings of 暴 (same pattern flagged on [[暴徒]]). Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴虐.
