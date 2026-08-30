@@ -1073,3 +1073,27 @@ Next: 景致.
 No stand-in relationship (景's own stand-in is [[景色]]; 致's own is itself). Fixed missing space in `cantonese`, filled blank `vietnamese: cảnh trí` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 景色.
+
+### 2026-08-30, iteration 1961 — [[words/景色|景色]]
+
+This word is itself the stand-in that legitimizes the character 景 (色's own stand-in is [[色彩]]); synonymous with [[風景]]. Fixed real bug: `cantonese` had the wrong initial (sing2→ging2). Filled missing `korean: 경색` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晴朗.
+
+### 2026-08-30, iteration 1962 — [[words/晴朗|晴朗]]
+
+This word is itself the stand-in that legitimizes the character 晴 (朗's own stand-in is [[明朗]]). Filled blank `vietnamese: thanh lãng` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晶金.
+
+### 2026-08-30, iteration 1963 — [[words/晶金|晶金]]
+
+Periodic-table neologism (zirconium). Fixed a stray non-breaking space (U+00A0) in `japanese` via byte-level substitution, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 智慧.
+
+### 2026-08-30, iteration 1964 — [[words/智慧|智慧]]
+
+This word is itself the stand-in that legitimizes the character 智 (慧's own stand-in is itself). Fixed missing space in `cantonese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暑.
