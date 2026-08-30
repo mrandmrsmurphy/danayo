@@ -1097,3 +1097,27 @@ Next: 智慧.
 This word is itself the stand-in that legitimizes the character 智 (慧's own stand-in is itself). Fixed missing space in `cantonese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 暑.
+
+### 2026-08-30, iteration 1965 — [[words/暑|暑]] / [[words/所|所]]
+
+Both are stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both syo/쇼/ㄙ⼄), previously undocumented — checked thirteen other candidates (序/庶/徐/屿/抒/叙/恕/書/署/緒/胥/黍/鼠) and confirmed none independent at this reading. 所's own page was already richly documented but had a redundant `品詞` and a bloated three-way `vietnamese` list, simplified to sở. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暖.
+
+### 2026-08-30, iteration 1966 — [[words/暖|暖]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to noãn (rejecting the character's contaminating alternate reading hoãn, "postpone"). Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (難 bound to [[困難]]). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗.
+
+### 2026-08-30, iteration 1967 — [[words/暗|暗]]
+
+This word is itself the stand-in for its own character. Fixed real bugs: literal `vietnamese: null` and `羅馬字` missing its leading glottal marker (am→'am). Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗暗.
+
+### 2026-08-30, iteration 1968 — [[words/暗暗|暗暗]]
+
+A reduplication of [[暗]]; no stand-in relationship applies. Filled missing `korean`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗証番号.
