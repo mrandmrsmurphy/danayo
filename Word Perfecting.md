@@ -3557,3 +3557,27 @@ Next: 悼.
 This word is the stand-in for its own character. Fixed literal `vietnamese: null`→điệu, missing `pos`/`japanese` filled 事詞/とう. Reformatted `characters`, wrote `## Notes` (was bare `# Notes`); homophone callout to [[道]] was already correct and reciprocated. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 情勢.
+
+### 2026-08-30, iteration 1644 — [[words/情勢|情勢]]
+
+No stand-in relationship (情's own stand-in is [[感情]]; 勢's own is [[勢力]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 情報.
+
+### 2026-08-30, iteration 1645 — [[words/情報|情報]]
+
+No stand-in relationship (情's own stand-in is [[感情]]; 報's own is itself). Removed 諜報 from `aliases` (distinct synonym on a different first character, not a spelling variant). Fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 惜.
+
+### 2026-08-30, iteration 1646 — [[words/惜|惜]]
+
+This word is the stand-in for its own character. Fixed literal `vietnamese: null`→tiếc, missing `pos`/`japanese` filled 事詞/せき. Reformatted `characters`, wrote `## Notes` (was bare `# Notes`); homophone callout to [[石]] was already correct and richly reciprocated. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 惨.
+
+### 2026-08-30, iteration 1647 — [[words/惨|惨]]
+
+This word is the stand-in for its own character. Fixed real bug: `korean` had been stored as the literal string "null" — corrected to compositional 참. Also fixed literal `vietnamese: null`→thảm, missing `pos`/`japanese`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愈愈.
