@@ -3847,3 +3847,21 @@ Next: 懸壅垂.
 No stand-in relationship (懸/壅 are both their own stand-ins; 垂's own is [[垂掛]]). Filled blank `cantonese`, kept korean 목젖/vietnamese lưỡi gà as genuine native-equivalent "uvula" terms. Fixed missing "(char)" suffixes. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 戌月.
+
+### 2026-08-30, iteration 1692 — [[words/戌月|戌月]]
+
+No stand-in relationship (戌 is proper-noun-only; 月's own is itself). Removed redundant `品詞`, added opening character-linking bullet, expanded compositional-readings paragraph. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 成.
+
+### 2026-08-30, iteration 1693 — [[words/成|成]]
+
+This word is the stand-in for its own character. Fixed real bug: `cantonese` was truncated to the single letter "z" — corrected to sing4. Trimmed malformed comma-joined `vietnamese` to single thành. Removed redundant `品詞`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 成功.
+
+### 2026-08-30, iteration 1694 — [[words/成功|成功]]
+
+No stand-in relationship (成's own stand-in is itself; 功's own is [[功績]]). Filled blank `pos: 事詞`, quoted `hsk_level`, fixed missing "(char)" suffix, omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 成熟.
