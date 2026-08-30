@@ -4153,3 +4153,27 @@ Next: 拍手.
 No stand-in relationship (both 拍 and 手's own stand-ins are themselves). Filled blank `vietnamese: phách thủ` (compositional), fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 拘束.
+
+### 2026-08-30, iteration 1743 — [[words/拘束|拘束]]
+
+This word is itself the stand-in that legitimizes the character 拘 (束's own stand-in is itself). Fixed real bug: `cantonese` had wrong initial (ceoi1→keoi1). Fixed unindented `characters` list and missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拘泥.
+
+### 2026-08-30, iteration 1744 — [[words/拘泥|拘泥]]
+
+No stand-in relationship (拘's own stand-in is [[拘束]]; 泥's own is itself). Fixed real bugs: `cantonese` missing space and wrong reading (nei6→nai4, matching 泥's own citation). Filled blank `vietnamese: câu nê` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拘禁.
+
+### 2026-08-30, iteration 1745 — [[words/拘禁|拘禁]]
+
+No stand-in relationship (拘's own stand-in is [[拘束]]; 禁's own is [[禁止]]). Added missing `kwin: false`, quoted unquoted fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拝.
+
+### 2026-08-30, iteration 1746 — [[words/拝|拝]]
+
+This word is itself the stand-in for its own character. Fixed real bugs: literal `vietnamese: null` and `korean: "null"`, both corrected using the character's own citation. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (俳 bound to [[俳優]]). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拠点.
