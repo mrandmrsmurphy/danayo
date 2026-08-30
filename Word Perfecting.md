@@ -3733,3 +3733,27 @@ Next: 慷慨.
 慷's own `stand_in` is 慷慨 — added the stand-in note (慨's own is itself). Stripped a stray invisible Unicode mark from `vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 憂慮.
+
+### 2026-08-30, iteration 1673 — [[words/憂慮|憂慮]]
+
+憂's own `stand_in` is 憂慮 — added the stand-in note (慮's own is [[考慮]]). Filled blank `pos`/`vietnamese`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憎悪.
+
+### 2026-08-30, iteration 1674 — [[words/憎悪|憎悪]]
+
+憎's own `stand_in` is 憎悪 — added the stand-in note (悪's own is itself). Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憑.
+
+### 2026-08-30, iteration 1675 — [[words/憑|憑]] & [[words/餅|餅]]
+
+Discovered genuine Dan'a'yo homophone pair (both bing/빙/ㄅㄧㄫ, unrelated "rely on" vs "pastry") — completed both with reciprocal callouts. 餅 had the recurring malformed single-character pattern (missing japanese, bare `# Notes`). Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 憤怒.
+
+### 2026-08-30, iteration 1676 — [[words/憤怒|憤怒]]
+
+No stand-in relationship (憤's own stand-in is [[憤慨]]; 怒's own is itself). Removed a stray zero-width character from `japanese`, filled blank `vietnamese`, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憤慨.
