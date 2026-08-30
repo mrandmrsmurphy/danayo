@@ -3581,3 +3581,21 @@ Next: 惨.
 This word is the stand-in for its own character. Fixed real bug: `korean` had been stored as the literal string "null" — corrected to compositional 참. Also fixed literal `vietnamese: null`→thảm, missing `pos`/`japanese`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 愈愈.
+
+### 2026-08-30, iteration 1648 — [[words/愈愈|愈愈]]
+
+This word is the stand-in for its own character 愈 (cannot appear independently). Fixed real bug: `諺文`/`羅馬字` were missing 愈's final coda (유유→윰윰, matching the already-correct 注音 and 愈's own citation). Simplified `mandarin`/`cantonese` from ellipsis-notation to plain doubled forms. Omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 意味.
+
+### 2026-08-30, iteration 1649 — [[words/意味|意味]]
+
+意's own `stand_in` is 意味 — added the note (味's own is [[味覚]]). Fixed real bug: `諺文`/`羅馬字` had 意's syllable using the wrong reading 이/'i instead of 으/'ǝ (already-correct 注音 confirmed the fix). Trimmed `korean`'s comma-joined native contamination (뜻). Filled blank `pos`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愚.
+
+### 2026-08-30, iteration 1650 — [[words/愚|愚]], [[words/遇|遇]], [[words/于|于]] & [[words/雨|雨]]
+
+Discovered and completed a genuine four-way Dan'a'yo homophone cluster (all 'u/우/ㄨ): 愚 ("foolish"), 遇 ("meet, encounter") — both previously malformed single-character pages with literal `vietnamese: null` and mangled `羅馬字: '''u'` — plus already-stamped 于 and 雨, which had never received their reciprocal callouts despite being in this cluster the whole time. Rewrote all four with full reciprocal `>[!warning] Homophones` callouts, fixed malformed fields throughout. Stamped all four `date-last-perfect: 2026-08-30`.
+
+Next: 愛.
