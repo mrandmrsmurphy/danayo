@@ -3641,3 +3641,29 @@ Next: 感嘆詞.
 No stand-in relationship (感's own stand-in is [[感触]]; 嘆's own is itself; 詞's own is [[単詞]]). Removed redundant self-referential alias and distinct-character synonyms from `aliases`, keeping only the genuine simplified spelling. Fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 感恩.
+
+### 2026-08-30, iteration 1658 — [[words/感恩|感恩]]
+
+No stand-in relationship (感's own stand-in is [[感触]]; 恩's own is [[恩寵]]). Trimmed comma-joined `vietnamese` to single form. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感情.
+
+### 2026-08-30, iteration 1659 — [[words/感情|感情]]
+
+情's own `stand_in` is 感情 — added the note (感's own is [[感触]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感覚.
+
+### 2026-08-30, iteration 1660 — [[words/感覚|感覚]]
+
+覚's own `stand_in` is 感覚 — added the stand-in note (感's own is [[感触]]). Fixed missing space in `cantonese`, quoted `hsk_level`, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感触.
+
+### 2026-08-30, iteration 1661 — [[words/感触|感触]]
+
+感's own `stand_in` is 感触 — added the note (触's own is [[接触]]). Reformatted `aliases`, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+This completes the full run of 感-initial compounds swept this stretch: [[感嘆]]/[[感嘆詞]]/[[感恩]]/[[感情]]/[[感覚]]/[[感触]] are now all uniformly perfected.
+
+Next: 慄.
