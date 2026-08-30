@@ -3889,3 +3889,27 @@ Next: 戦争.
 Homophone pair (both 注音 ㄐㄝㄋㄐㄚㄫ), previously stamped with non-canonical `>[!tip]` callouts — converted both to canonical `>[!warning] Homophones` reciprocal format. 戦争: this word is the stand-in for its own character 戦 (争's own stand-in is [[抗争]]); filled blank `aliases` (战争/戰爭), omitted blank `hsk_level`/`swadesh`; noted Korean 전쟁's native-shifted 쟁 vs compositional 장 (kwin: false, pre-existing correct). 戦場: no stand-in relationship (戦's own is [[戦争]]; 場's own is [[市場]]); trimmed malformed comma-duplicate `mandarin` (zhàncháng variant) to single zhànchǎng. Both stamped `date-last-perfect: 2026-08-30`.
 
 Next: 戦国.
+
+### 2026-08-30, iteration 1699 — [[words/戦国|戦国]]
+
+No stand-in relationship (戦's own stand-in is [[戦争]]; 国's own is [[国家]]). Rewrote loose "namely:" body line into proper `## Notes` with stand-in bullet and compositional-readings prose. Omitted blank `hsk_level`/`swadesh`/`aliases`, cleaned stray trailing spaces in frontmatter keys. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戦時.
+
+### 2026-08-30, iteration 1700 — [[words/戦時|戦時]]
+
+No stand-in relationship (戦's own stand-in is [[戦争]]; 時's own is itself). Filled blank `cantonese` (zin3 si4) and `vietnamese` (chiến thời), both compositional. Reformatted inline-flow `aliases` to block list, fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. Fixed callout spacing to canonical (blank line after header). Confirmed homophone of [[展翅]] (already cross-referenced from that side, per 展翅's own log entry). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戦艦.
+
+### 2026-08-30, iteration 1701 — [[words/戦艦|戦艦]]
+
+No stand-in relationship (戦's own stand-in is [[戦争]]; 艦's own is [[艦船]]). Reformatted inline-flow `aliases` and `characters` to proper block-list indentation, omitted blank `hsk_level`/`swadesh`, rewrote `## Etymology` as `## Notes` with stand-in bullet and compositional-readings prose. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戴.
+
+### 2026-08-30, iteration 1702 — [[words/戴|戴]] (three-way homophone with [[帯]], [[太]])
+
+戴 was malformed (missing pos/japanese/hsk_level/kwin/date-last-perfect, unquoted `characters`, list-dash-without-indent `english`). This word is itself the stand-in for its own character. Filled blank `japanese: たい` (on-reading), `pos: 事詞`, `hsk_level: "4"` from character citation. 太/帯/戴 three-way homophone (all 注音 ㄊㄚㄧ) — was already fully cross-referenced on all three pages content-wise; fixed callout spacing to canonical (blank line after header) on 戴 and 帯, and removed redundant `品詞` from 太. Stamped `date-last-perfect: 2026-08-30` on 戴.
+
+Next: 戸籍.
