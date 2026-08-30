@@ -3465,3 +3465,27 @@ No stand-in relationship (恩's own stand-in is [[恩寵]]; 愛's own is itself)
 **Swept the rest of the 恩-family for this bug**: found and fixed one more instance on already-stamped [[恩人]] (안닌→은닌, re-stamped); confirmed [[恩意]]/[[恩寵]]/[[恩徳]]/[[恩典]]/[[恩施]] are all already clean. This closes out the systemic 恩-syllable bug across the whole family.
 
 Next: 恭喜.
+
+### 2026-08-29, iteration 1629 — [[words/恭喜|恭喜]]
+
+No stand-in relationship (恭's own stand-in is [[恭敬]]; 喜's own is itself). Fixed real bug: `japanese`/`korean` had been contaminated with native colloquial congratulatory phrases (おめでとう, 축하해) — corrected to compositional きょうき/공희. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恭喜発財.
+
+### 2026-08-29, iteration 1630 — [[words/恭喜発財|恭喜発財]]
+
+No stand-in relationship (恭's own stand-in is [[恭敬]]; 喜/発 are both their own stand-ins; 財's own is [[財産]]). Fixed multiple real bugs: a stray backspace control character corrupting `諺文`; 発's syllable mistyped pad→fad in 諺文/羅馬字; `japanese`/`korean` contaminated with full native-sentence greetings instead of compositional readings. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恭敬.
+
+### 2026-08-29, iteration 1631 — [[words/恭敬|恭敬]]
+
+恭's own `stand_in` is 恭敬 — added the stand-in note (敬's own is [[尊敬]]). Fixed real bug: `japanese` had been contaminated with くぎょう, the reading of the unrelated word 公卿 — corrected to compositional きょうけい. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恭賀.
+
+### 2026-08-29, iteration 1632 — [[words/恭賀|恭賀]]
+
+No stand-in relationship (恭's own stand-in is [[恭敬]]; 賀's own is itself). Filled blank `korean`/`vietnamese`, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 悠久.
