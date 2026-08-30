@@ -3937,3 +3937,27 @@ Next: 所在.
 Discovered systemic bug: 所+X compounds (所在/所有/所謂/所以, where 所 is the FIRST syllable) had `諺文`/`羅馬字` using the free-standing word 所's register (쇼/syo, from `words/所.md`) instead of the bound-character citation (스/sǝ, from `characters/所 (char).md`) used consistently in X+所 compounds ([[厠所]]/[[居所]]/[[所属]]/[[事務所]]) — the `注音` field was already correct (ㄙㄜ-based) in all cases, only 諺文/羅馬字 were wrong. Fixed 所在 (스재/sǝjai) forward, and retroactively fixed already-stamped siblings [[所有]] (스유/sǝ'yu) and [[所以]] (스이/sǝ'i). [[所謂]] carries the same bug but is not yet stamped — left for its own turn. No stand-in relationship, no homophones on 所在. Filled blank `pos`/`vietnamese`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. Stamped `date-last-perfect: 2026-08-30` on 所在.
 
 Next: 所謂.
+
+### 2026-08-30, iteration 1707 — [[words/所謂|所謂]]
+
+This word is itself the stand-in that legitimizes the character 謂. Closed out the systemic 所+X bug (see [[所在]]): fixed `諺文`/`羅馬字` 쇼위/syowi → 스위/sǝwi, matching the already-correct 注音. Also modernized archaic kana いはゆる→いわゆる (native idiom, not compositional — expected). Simplified `korean` from semicolon-joined "소위; 이른바" to just 소위 (compositional), moved native synonym 이른바 to prose. Omitted blank `hsk_level`/`swadesh`/empty-list `aliases`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 扇子.
+
+### 2026-08-30, iteration 1708 — [[words/扇子|扇子]]
+
+This word is itself the stand-in that legitimizes the character 扇 (子's own stand-in is [[児子]]). Fixed real bug: `諺文`/`羅馬字` used minority reading 지/ji for 子 instead of majority-established 즈/jǝ — corrected to 션즈/syenjǝ, matching the already-correct 注音. Filled blank `pos`/`vietnamese`, quoted `hsk_level`, fixed inline-flow `characters` to block list, omitted empty-list `aliases`/blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 扉.
+
+### 2026-08-30, iteration 1709 — [[words/扉|扉]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese: ひ`, `hsk_level: "無"`. Checked apparent homophone match (注音 ㄈㄨㄧ shared with bound characters 斐/緋) and confirmed it does NOT extend to the word level: 斐 alone can't stand independently (its stand-in [[斐然]] has a different multi-syllable reading), and 緋 is name-only (`stand_in: 名専字`) with no independent word — documented in Notes rather than stamped as a homophone. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 手巾.
+
+### 2026-08-30, iteration 1710 — [[words/手巾|手巾]]
+
+This word is itself the stand-in that legitimizes the character 巾 (手's own stand-in is itself). Filled blank `pos: 名詞`, `vietnamese: thủ cân` (compositional, noting native cognate khăn in prose), fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 手帖.
