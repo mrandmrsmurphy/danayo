@@ -1001,3 +1001,21 @@ Next: 昼間.
 This word is itself the stand-in that legitimizes the character 昼 (間's own stand-in is [[之間]]). Fixed real bug: `mandarin` was the unrelated phrase 黎明之間 instead of compositional zhòujiān. Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 時代.
+
+### 2026-08-30, iteration 1949 — [[words/時代|時代]]
+
+This word is itself the stand-in that legitimizes the character 時 (代's own stand-in is [[世代]]). Fixed real bug: `cantonese` was missing its initial consonant (i4doi6→si4 doi6). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 時宜.
+
+### 2026-08-30, iteration 1950 — [[words/時宜|時宜]]
+
+No stand-in relationship (時's own stand-in is itself; 宜's own is [[適宜]]). Fixed real bug: `諺文`/`羅馬字`/`注音` had all used the wrong second syllable (위/wi/ㄨㄧ instead of 읫/'ǝi/ㄜㄧ, the same 'ǝi/wi minority-pattern bug documented elsewhere in this vault, e.g. on 議). Filled blank `vietnamese: thì nghi`. No homophones at the corrected reading. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 時相.
+
+### 2026-08-30, iteration 1951 — [[words/時相|時相]]
+
+No stand-in relationship (時's own stand-in is itself; 相's own is [[相互]]). Page was already richly documented; filled blank `cantonese`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 時節.
