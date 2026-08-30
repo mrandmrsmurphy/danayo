@@ -3513,3 +3513,23 @@ Next: 悪劣.
 No stand-in relationship (悪/劣 are both their own stand-ins). Fixed real bug: `cantonese`/`japanese`/`korean` had all been contaminated with the reversed-order sibling word 劣悪's readings — corrected to this word's own compositional forms and removed 劣悪 from `aliases`. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 悪化.
+
+### 2026-08-30, iteration 1637 — [[words/悪化|悪化]]
+
+No stand-in relationship (悪/化 are both their own stand-ins). Fixed real bug: `cantonese` had 悪's syllable mistyped ngok3→ok3 (confirmed against 6 sibling 悪-compounds). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 悪心.
+
+### 2026-08-30, iteration 1638 — [[words/悪心|悪心]]
+
+No stand-in relationship (悪/心 are both their own stand-ins). Trimmed malformed comma-joined `mandarin`/`cantonese`, filled blank `vietnamese`. Verified japanese/korean/vietnamese as genuine native-equivalent "nausea" terms, not compositional errors. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 悪毒.
+
+### 2026-08-30, iteration 1639 — [[words/悪毒|悪毒]]
+
+No stand-in relationship (悪/毒 are both their own stand-ins). Fixed real bug: `諺文` had 悪's syllable missing its final coda (아→악, matching already-correct 羅馬字/注音). Filled blank `japanese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+This completes the full run of 悪-initial compounds swept this stretch: [[悪]]/[[悪劣]]/[[悪化]]/[[悪心]]/[[悪毒]] are now all uniformly perfected.
+
+Next: 悲.
