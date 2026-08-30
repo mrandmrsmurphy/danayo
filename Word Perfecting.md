@@ -3715,3 +3715,21 @@ Next: 慰安.
 慰's own `stand_in` is 慰安 — added the stand-in note (安's own is [[平安]]). Filled blank `pos`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 慶.
+
+### 2026-08-30, iteration 1670 — [[words/慶|慶]] & [[words/卿|卿]]
+
+Completed a Dan'a'yo homophone pair (kyeng/켱/ㄎ⼶ㄫ) that [[卿]] had already anticipated in its own Notes prose. Fixed 慶's malformed single-character pattern (literal `vietnamese: null`, missing pos/japanese, bare `# Notes`), added the reciprocal callout, and updated 卿's prose now that the pair is complete. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 慶祝.
+
+### 2026-08-30, iteration 1671 — [[words/慶祝|慶祝]]
+
+祝's own `stand_in` is 慶祝 — added the stand-in note (慶's own is itself). Fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慷慨.
+
+### 2026-08-30, iteration 1672 — [[words/慷慨|慷慨]]
+
+慷's own `stand_in` is 慷慨 — added the stand-in note (慨's own is itself). Stripped a stray invisible Unicode mark from `vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憂慮.
