@@ -3667,3 +3667,27 @@ Next: 感触.
 This completes the full run of 感-initial compounds swept this stretch: [[感嘆]]/[[感嘆詞]]/[[感恩]]/[[感情]]/[[感覚]]/[[感触]] are now all uniformly perfected.
 
 Next: 慄.
+
+### 2026-08-30, iteration 1662 — [[words/慄|慄]] & [[words/栗|栗]]
+
+Discovered genuine Dan'a'yo homophone pair (both lid/릳/ㄌㄧㄊ, unrelated "tremble" vs "chestnut") — completed both with reciprocal callouts. Both had the same malformed single-character pattern (missing japanese/pos, literal `vietnamese: null` on 栗). Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 慈善.
+
+### 2026-08-30, iteration 1663 — [[words/慈善|慈善]]
+
+慈's own `stand_in` is 慈善 — added the stand-in note (善's own is itself). Filled blank `cantonese`/`vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慈姑.
+
+### 2026-08-30, iteration 1664 — [[words/慈姑|慈姑]] & [[words/事故|事故]]
+
+Completed a Dan'a'yo homophone pair (jigo/지고/ㄐㄧㄍㄛ) that had a non-canonical `>[!tip]` callout on each side instead of the standard `>[!warning] Homophones` format — rewrote both. Fixed real bug on 慈姑: archaic kana japanese くわゐ→くわい; filled blank korean/vietnamese. Wrote full Notes sections on both (事故 had none before). Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 慙愧.
+
+### 2026-08-30, iteration 1665 — [[words/慙愧|慙愧]]
+
+Both 慙 and 愧's own `stand_in` is 慙愧 (cranberry, matching existing tag) — corrected the note, which previously only credited both but is now explicit. Quoted `mandarin`/`cantonese`/`korean` for consistency. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慣用.
