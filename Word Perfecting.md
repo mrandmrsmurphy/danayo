@@ -1061,3 +1061,15 @@ Next: 普通話.
 No stand-in relationship (普's own stand-in is [[普通]]; 通/話's own are themselves). Removed redundant `品詞`, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 普遍.
+
+### 2026-08-30, iteration 1959 — [[words/普遍|普遍]]
+
+No stand-in relationship (普's own stand-in is [[普通]]; 遍's own is itself). Quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 景致.
+
+### 2026-08-30, iteration 1960 — [[words/景致|景致]]
+
+No stand-in relationship (景's own stand-in is [[景色]]; 致's own is itself). Fixed missing space in `cantonese`, filled blank `vietnamese: cảnh trí` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 景色.
