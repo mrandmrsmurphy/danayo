@@ -4249,3 +4249,27 @@ Next: 挑発.
 No stand-in relationship (挑's own stand-in is [[挑戦]]; 発's own is itself). Trimmed verb-forming する from `japanese` for consistency with sibling entries. Filled blank `vietnamese: khiêu phát` (compositional), fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 挙.
+
+### 2026-08-30, iteration 1759 — [[words/挙|挙]] / [[words/鋸|鋸]]
+
+挙 was malformed (literal `vietnamese: null`, `korean: "null"`, missing pos/japanese/hsk_level). 鋸 (already stamped) had a bloated three-way `vietnamese` list simplified to the character's own single citation, and was missing its half of a genuine Dan'a'yo-level homophone with 挙 (both 注音 ㄍ⼄) — checked seven other candidates (巨/拒/拠/渠/遽/距/裾) and confirmed none independent at this reading. Both are the stand-ins for their own characters. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挟.
+
+### 2026-08-30, iteration 1760 — [[words/挟|挟]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to hiệp. Checked candidate homophone characters (侠/協/脅) and confirmed none has an independent word at this reading. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挟撃.
+
+### 2026-08-30, iteration 1761 — [[words/挟撃|挟撃]]
+
+No stand-in relationship (both 挟 and 撃's own stand-ins are themselves). Page was already richly documented; filled blank `vietnamese: giáp kích` (a genuine standard term for 夾擊), quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挟攻.
+
+### 2026-08-30, iteration 1762 — [[words/挟攻|挟攻]]
+
+No stand-in relationship (both 挟 and 攻's own stand-ins are themselves). Page was already richly documented; filled blank `vietnamese: giáp công` (a genuine standard term for 夾攻), quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 振.
