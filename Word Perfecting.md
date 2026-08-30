@@ -3419,3 +3419,27 @@ Next: 恒等式.
 No stand-in relationship (恒's own stand-in is [[恒久]]; 等's own is itself; 式's own is [[様式]]). Filled blank `cantonese`/`korean`/`vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-29`.
 
 Next: 恣意.
+
+### 2026-08-29, iteration 1622 — [[words/恣意|恣意]]
+
+恣's own `stand_in` is 恣意 — added the stand-in note. Filled blank `vietnamese`, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恥辱.
+
+### 2026-08-29, iteration 1623 — [[words/恥辱|恥辱]]
+
+恥's own `stand_in` is 恥辱 — added the stand-in note (辱's own is [[羞辱]]). Trimmed malformed `mandarin`, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恥骨.
+
+### 2026-08-29, iteration 1624 — [[words/恥骨|恥骨]]
+
+No stand-in relationship (恥's own stand-in is [[恥辱]]; 骨's own is itself). Fixed real bug: `kwin` was wrongly true (諺文 치곧 ≠ korean 치골 in final coda). Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恨.
+
+### 2026-08-29, iteration 1625 — [[words/恨|恨]] & [[words/汗|汗]]
+
+Discovered genuine Dan'a'yo homophone pair (both ㄏㄚㄋ/han/한, unrelated "hate/grudge" vs "sweat") — completed both with reciprocal callouts. Both had the same malformed single-character pattern (literal `vietnamese: null`, missing japanese/pos on 恨, bare `# Notes`). Stamped both `date-last-perfect: 2026-08-29`.
+
+Next: 恩恵.
