@@ -1019,3 +1019,21 @@ Next: 時相.
 No stand-in relationship (時's own stand-in is itself; 相's own is [[相互]]). Page was already richly documented; filled blank `cantonese`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 時節.
+
+### 2026-08-30, iteration 1952 — [[words/時節|時節]]
+
+No stand-in relationship (both 時 and 節's own stand-ins are themselves). Filled blank `pos`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晒.
+
+### 2026-08-30, iteration 1953 — [[words/晒|晒]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`, quoted `hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晩.
+
+### 2026-08-30, iteration 1954 — [[words/晩|晩]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to vãn. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (checked seven candidates). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 晩飯.
