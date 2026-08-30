@@ -4297,3 +4297,33 @@ Next: 振子.
 No stand-in relationship (振's own stand-in is itself; 子's own is [[児子]]). Fixed real bug: `mandarin` was contaminated with bǎi (reading of the unrelated 擺/摆, from the native Chinese word for "pendulum"), corrected to compositional zhènzǐ. Filled blank `cantonese: zan3 zi2` (compositional). Japanese ふりこ/Vietnamese con lắc documented as native equivalents. Omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 振幅.
+
+### 2026-08-30, iteration 1767 — [[words/振幅|振幅]]
+
+No stand-in relationship (振's own stand-in is itself; 幅's own is [[幅度]]). Filled blank `vietnamese: chấn bức` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挽回.
+
+### 2026-08-30, iteration 1768 — [[words/挽回|挽回]]
+
+This word is itself the stand-in that legitimizes the character 挽 (回's own stand-in is itself). Filled blank `vietnamese: vãn hồi` (a genuine standard term), fixed unindented `characters` list and missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挿入.
+
+### 2026-08-30, iteration 1769 — [[words/挿入|挿入]]
+
+This word is itself the stand-in that legitimizes the character 挿 (入's own stand-in is itself). Fixed unindented `characters` list, missing "(char)" suffix, reformatted inline-flow `aliases` to block list, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捌.
+
+### 2026-08-30, iteration 1770 — [[words/捌|捌]]
+
+This word is itself the stand-in for its own character. Filled blank `vietnamese: bát` and `japanese: はち`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捕.
+
+### 2026-08-30, iteration 1771 — [[words/捕|捕]]
+
+This word is itself the stand-in for its own character. Checked ten candidate homophone characters (圃/哺/布/歩/補/簿/菩/蒲/譜/葡) sharing 注音 ㄅㄛ and confirmed none has an independent word at this reading. Filled blank `pos`/`japanese`/`vietnamese`/`hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捕獲.
