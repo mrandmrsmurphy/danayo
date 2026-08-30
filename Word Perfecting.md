@@ -827,3 +827,159 @@ Next: 昇天.
 No stand-in relationship (昇's own stand-in is [[上昇]]; 天's own is itself). Filled blank `pos`, converted loose body line into proper `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 昇級.
+
+### 2026-08-30, iteration 1920 — [[words/昇級|昇級]]
+
+No stand-in relationship (昇's own stand-in is [[上昇]]; 級's own is [[等級]]). Clarified this entry documents 升级/Shēngjí (the card game, hence the proper-noun `pos`/Japanese transliteration); filled blank `korean`/`vietnamese` with the compositional forms, which double as the genuine terms for the common "promotion, level up" sense. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明.
+
+### 2026-08-30, iteration 1921 — [[words/明|明]] / [[words/鳴|鳴]] (completing three-way homophone with [[皿]])
+
+明 had a bloated four-way `vietnamese` list (three variants belonging to unrelated homophone characters, same contamination class already documented on [[皿]]); 鳴 was missing pos/vietnamese. Both are stand-ins for their own characters. Completed the three-way Dan'a'yo homophone group (all myeng/명/ㄇ⼶ㄫ) that [[皿]] had already anticipated and richly documented — reformatted all three pages to canonical multi-line reciprocal callouts. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明君.
+
+### 2026-08-30, iteration 1922 — [[words/明君|明君]]
+
+No stand-in relationship (both 明 and 君's own stand-ins are themselves). Page was already richly documented; quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明徳.
+
+### 2026-08-30, iteration 1923 — [[words/明徳|明徳]]
+
+No stand-in relationship (both 明 and 徳's own stand-ins are themselves). Filled blank `vietnamese: minh đức` (a genuine standard Confucian term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明月.
+
+### 2026-08-30, iteration 1924 — [[words/明月|明月]]
+
+No stand-in relationship (both 明 and 月's own stand-ins are themselves). Fixed missing "(char)" suffix, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明様.
+
+### 2026-08-30, iteration 1925 — [[words/明様|明様]]
+
+No stand-in relationship (both 明 and 様's own stand-ins are themselves). Fixed real bug: every field held native descriptive phrases instead of the compositional 明+様 adverbializer form (mandarin míngliàng de, Japanese あかるく, Korean 밝게/똑똑히, Vietnamese trong sáng) — all corrected to compositional. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明白.
+
+### 2026-08-30, iteration 1926 — [[words/明白|明白]]
+
+No stand-in relationship (both 明 and 白's own stand-ins are themselves). Trimmed malformed comma-duplicate `mandarin`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 明確.
+
+### 2026-08-30, iteration 1927 — [[words/明確|明確]]
+
+No stand-in relationship (明's own stand-in is itself; 確's own is [[確実]]). Quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昔日.
+
+### 2026-08-30, iteration 1928 — [[words/昔日|昔日]]
+
+This word is itself the stand-in that legitimizes the character 昔 (日's own stand-in is itself). Trimmed malformed comma-duplicate `mandarin`. Filled missing `korean`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星.
+
+### 2026-08-30, iteration 1929 — [[words/星|星]]
+
+This word is itself the stand-in for its own character. Filled blank `pos`/`japanese`, simplified single-item `vietnamese` list to scalar. No word-level homophones (猩/醒 bound elsewhere). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星坐.
+
+### 2026-08-30, iteration 1930 — [[words/星坐|星坐]]
+
+No stand-in relationship (both 星 and 坐's own stand-ins are themselves). Fixed `vietnamese`: chòm sao was native rather than the compositional standard term — corrected to tinh toạ. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星条旗.
+
+### 2026-08-30, iteration 1931 — [[words/星条旗|星条旗]]
+
+No stand-in relationship (星/条's own stand-ins are themselves; 旗's own is [[旗幟]]). Removed mismatched-character `花旗` from `aliases` (built on 花, a distinct real-world name for the same flag). Filled blank `vietnamese: tinh điều kì` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星洲.
+
+### 2026-08-30, iteration 1932 — [[words/星洲|星洲]]
+
+No stand-in relationship (both 星 and 洲's own stand-ins are themselves). Quoted string fields, added missing `kwin`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星群.
+
+### 2026-08-30, iteration 1933 — [[words/星群|星群]]
+
+No stand-in relationship (星's own stand-in is itself; 群's own is [[群衆]]). Filled blank `vietnamese: tinh quần` (compositional; 群's half required going outside the character's own stored citation — flagged, same gap class as [[振]]/[[摂]]/[[騒]]/[[昂揚]]). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星雲.
+
+### 2026-08-30, iteration 1934 — [[words/星雲|星雲]]
+
+No stand-in relationship (both 星 and 雲's own stand-ins are themselves). Omitted blank `hsk_level`/`swadesh`, reformatted inline-flow `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 星霜.
+
+### 2026-08-30, iteration 1935 — [[words/星霜|星霜]]
+
+No stand-in relationship (both 星 and 霜's own stand-ins are themselves). Fixed real bug: `注音` had a typo (wrong final on 星's syllable, ㄙㄝㄋ→ㄙㄝㄫ). No homophones at the corrected reading. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 春.
+
+### 2026-08-30, iteration 1936 — [[words/春|春]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to xuân. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (椿/蠢 bound elsewhere/name-only). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 春季.
+
+### 2026-08-30, iteration 1937 — [[words/春季|春季]]
+
+No stand-in relationship (春's own stand-in is itself; 季's own is [[季節]]); synonymous with bare [[春]]. Filled blank `vietnamese: xuân quý` (a genuine standard term), quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 春秋.
+
+### 2026-08-30, iteration 1938 — [[words/春秋|春秋]]
+
+No stand-in relationship (both 春 and 秋's own stand-ins are themselves). Removed redundant `品詞`, added `## Notes` summarizing compositional readings (rich `## Definition` content preserved as-is). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昧.
+
+### 2026-08-30, iteration 1939 — [[words/昧|昧]] / [[words/苺|苺]] (completing three-way homophone with [[呆]])
+
+Both were malformed (苺 had literal `vietnamese: null`, and my own first-pass fix mistakenly used the wrong Vietnamese value before catching it against the character's own citation — corrected to môi); both are stand-ins for their own characters. Completed the three-way Dan'a'yo homophone group (all mai/매/ㄇㄚㄧ) that [[呆]] had already anticipated and richly documented — reformatted all three pages to canonical multi-line reciprocal callouts. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昨.
+
+### 2026-08-30, iteration 1940 — [[words/昨|昨]] / [[words/作|作]]
+
+昨 had a literal `vietnamese: null` and was malformed (missing pos/japanese/hsk_level); both words are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄐㄚㄎ), previously undocumented — checked eleven other candidates (宅/捉/搾/爵/灼/炸/窄/責/酢/酌/雀) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to both, filled 作's missing `hsk_level` and removed its redundant `品詞`. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昨世紀.
+
+### 2026-08-30, iteration 1941 — [[words/昨世紀|昨世紀]]
+
+No stand-in relationship (昨's own stand-in is itself; 世's own is [[世界]]; 紀's own is [[世紀]]). Fixed real bug: `korean` was a native paraphrase (지난세기) instead of compositional 작세기 — corrected. Filled blank `vietnamese: tạc thế kỷ` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昨年.
+
+### 2026-08-30, iteration 1942 — [[words/昨年|昨年]]
+
+No stand-in relationship (both 昨 and 年's own stand-ins are themselves). Simplified `korean` (작년, 지난해→compositional 작년, native moved to prose). Filled blank `vietnamese: tạc niên` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昨月.
+
+### 2026-08-30, iteration 1943 — [[words/昨月|昨月]]
+
+No stand-in relationship (both 昨 and 月's own stand-ins are themselves). Fixed real bugs: `mandarin` was the unrelated compound 上個月 (different character composition) and `korean` was native 지난달 — both corrected to compositional. Removed mismatched-character alias, filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昨週.
+
+### 2026-08-30, iteration 1944 — [[words/昨週|昨週]] / [[words/酌酒|酌酒]]
+
+Fixed real contamination bug (same class as [[昨月]]): 昨週's `mandarin`/`cantonese`/`korean` had been the unrelated compound 上周 instead of compositional zuózhōu — corrected. This surfaced a genuine Dan'a'yo-level homophone with [[酌酒]] (both 注音 ㄐㄚㄎㄐㄨㄛ, both stand-ins for their own characters, 昨's own stand-in is itself/週's own is [[週日]]) — added canonical reciprocal callouts to both, filled 酌酒's blank `cantonese`/`vietnamese`. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昭.
+
+### 2026-08-30, iteration 1945 — [[words/昭|昭]] / [[words/焦|焦]] / [[words/照|照]]
+
+焦 had a literal `vietnamese: null`; all three words were malformed (missing pos/japanese/hsk_level/date-last-perfect); all three are stand-ins for their own characters. Discovered genuine three-way Dan'a'yo homophone group (all jou/좃/ㄐㄛㄨ), previously undocumented — checked six other candidates (俎/沼/椒/藻/蕉/詔) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to all three. All three stamped `date-last-perfect: 2026-08-30`.
+
+Next: 是日.
