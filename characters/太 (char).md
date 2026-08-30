@@ -71,5 +71,5 @@ boundedness: 90
 - <ruby>[[太陽暦]]<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "solar calendar"
 - <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
-- <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄊㄍ⼔ㄋ</rt></ruby> "Taijiquan; tai chi"
+- <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄎㄍ⼔ㄋ</rt></ruby> "Taijiquan; tai chi"
 - <ruby>[[太様]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "greatly; exceedingly"

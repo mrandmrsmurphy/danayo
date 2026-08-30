@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[日報]]<rt>ㄋㄧㄊㄅㄚㄨ</rt></ruby> "daily newspaper"
 - <ruby>[[飛報]]<rt>ㄈㄝㄧㄅㄚㄨ</rt></ruby> "to report rapidly"
 - <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
-- <ruby>[[報告]]<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby> "to report; inform; advize"
+- <ruby>[[報告]]<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby> "to report; inform; advise"
 - <ruby>[[報知]]<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby> "to inform; report; notify"
 - <ruby>[[報道]]<rt>ㄅㄚㄨㄉㄚㄨ</rt></ruby> "to cover news; report on"
 - <ruby>[[画報]]<rt>ㄏ⺢ㄎㄅㄚㄨ</rt></ruby> "pictorial; picture magazine"

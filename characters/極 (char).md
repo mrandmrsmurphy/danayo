@@ -61,7 +61,7 @@ boundedness: 80
 - <ruby>[[極限]]<rt>ㄍㄧㄎㄏㄚㄋ</rt></ruby> "limit (mathematics)"
 - <ruby>[[無極]]<rt>ㄇㄜㄍㄧㄎ</rt></ruby> "limitless"
 - <ruby>[[太極]]<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby> "Supreme Ultimate"
-- <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄊㄍ⼔ㄋ</rt></ruby> "Tai Chi"
+- <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄎㄍ⼔ㄋ</rt></ruby> "Tai Chi"
 - <ruby>[[極東]]<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby> "Far East"
 - <ruby>[[極左]]<rt>ㄍㄧㄎㄐㄚ</rt></ruby> "far-left"
 - <ruby>[[極右]]<rt>ㄍㄧㄎ⼜</rt></ruby> "far-right"
