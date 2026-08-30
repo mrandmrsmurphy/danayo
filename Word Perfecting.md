@@ -1139,3 +1139,27 @@ Next: 暗示.
 No stand-in relationship (暗's own stand-in is itself; 示's own is [[開示]]). Fixed real bug: `cantonese` had the wrong tone (am4→am3). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 暗黒.
+
+### 2026-08-30, iteration 1972 — [[words/暗黒|暗黒]]
+
+No stand-in relationship (both 暗 and 黒's own stand-ins are themselves). Filled blank `korean`/`vietnamese` compositionally (암흑, ám hắc), added `kwin: false` (諺文 암훅 ≠ real Korean 암흑), reformatted `characters`/`aliases` to block-list YAML, and removed `暗黑的`/`黑暗的` from `aliases` (adjectival `的`-suffixed forms, not the noun) while keeping the genuine variant `闇黒`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暢達.
+
+### 2026-08-30, iteration 1973 — [[words/暢達|暢達]]
+
+This word is itself the stand-in for 暢; 達's own stand-in is itself (has its own word page). Corrected an inaccurate Etymology note claiming 達's `vietnamese` lacked "đạt" (it's actually listed there). Reformatted `mandarin` (removed stray space), `characters` to block-list YAML with "(char)" suffix on 達, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暦.
+
+### 2026-08-30, iteration 1974 — [[words/暦|暦]]
+
+This word is itself the stand-in for 暦. Added the missing `japanese` field (れき) and `hsk_level: "3"`, both matching the character's own citation exactly otherwise. No word-level homophones (bound characters 歴/栃 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暦数.
+
+### 2026-08-30, iteration 1975 — [[words/暦数|暦数]]
+
+Filled blank `japanese`/`korean`/`vietnamese` compositionally (れきすう, 력수, lịch số), added `kwin: false` (諺文 럭수 ≠ real Korean 력수), removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. Noted (not a bug) that this compound's `cantonese` sou3 reflects 数's noun sense, distinct from its own citation's verb-sense sou2 (used in its stand-in 計数). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴.
