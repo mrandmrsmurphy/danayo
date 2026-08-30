@@ -467,3 +467,183 @@ Next: 敦厚.
 This word is itself the stand-in that legitimizes the character 敦 (厚's own stand-in is itself). Trimmed stray space in `mandarin`, fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 敬語.
+
+### 2026-08-30, iteration 1860 — [[words/敬語|敬語]] / [[words/鯨魚|鯨魚]]
+
+Genuine Dan'a'yo-level homophone pair (both gyeng'yo/경요/ㄍ⼶ㄫ⼄), previously undocumented on either side. 敬語: no stand-in relationship (敬's own is [[尊敬]]; 語's own is [[言語]]); filled blank `vietnamese: kính ngữ` (compositional). 鯨魚: this word is itself the stand-in for its own character 鯨 (魚's own stand-in is itself); simplified comma-joined `korean` (경어,고래→compositional 경어, native 고래 moved to prose), documented Japanese くじら as native equivalent. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 数詞.
+
+### 2026-08-30, iteration 1861 — [[words/数詞|数詞]]
+
+No stand-in relationship (数's own stand-in is [[計数]]; 詞's own is [[単詞]]). Fixed real bugs: `korean` contaminated with 數字's reading (숫자→수사) and `vietnamese` a loose native paraphrase rather than the standard term (chữ số→số từ). Removed mismatched-character `數字` from `aliases`. Filled blank `pos`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 数量.
+
+### 2026-08-30, iteration 1862 — [[words/数量|数量]]
+
+This word is itself the stand-in that legitimizes the character 量 (数's own stand-in is [[計数]]). Filled blank `pos`, reformatted inline-flow `characters`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敲.
+
+### 2026-08-30, iteration 1863 — [[words/敲|敲]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`/`hsk_level`. No word-level homophones (喬/巧 bound elsewhere). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 整.
+
+### 2026-08-30, iteration 1864 — [[words/整|整]] / [[words/錠|錠]]
+
+Both had literal `vietnamese: null` and were malformed (missing pos/japanese/hsk_level/kwin/date-last-perfect); both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄐㄝㄫ) — checked eight other candidates (定/征/浄/精/箏/鄭/静/頂) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 整斉.
+
+### 2026-08-30, iteration 1865 — [[words/整斉|整斉]]
+
+No stand-in relationship (整's own stand-in is itself; 斉's own is [[一斉]]). Filled blank `vietnamese: chỉnh tề` (a genuine standard term), reformatted inline-flow `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 整理.
+
+### 2026-08-30, iteration 1866 — [[words/整理|整理]] / [[words/精子|精子]]
+
+Fixed a significant contamination bug (same pattern as [[採集]]/[[菜汁]]): 整理's `諺文`/`注音` had been given the wrong second-syllable reading (정지/ㄐㄝㄫㄐㄧ) instead of the correct compositional 정리/ㄐㄝㄫㄌㄧ (matching 理's own citation); `羅馬字` jengli was already correct. This invalidated a false homophone claim both pages carried against each other — removed from both sides; no genuine homophone exists at either corrected reading. Neither word has a stand-in relationship. Filled both pages' blank `vietnamese` (chỉnh lý / tinh tử, both genuine standard terms). Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敵人.
+
+### 2026-08-30, iteration 1867 — [[words/敵人|敵人]]
+
+This word is itself the stand-in for 敵, deliberately splitting the concrete-adversary sense from [[仇恨]]'s abstract-grudge sense (a mirror pattern to [[仇敵]]). Page was already richly documented; filled blank `vietnamese: địch nhân` (compositional), quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敷.
+
+### 2026-08-30, iteration 1868 — [[words/敷|敷]] / [[words/賦|賦]] (retroactive fix)
+
+Fixed a significant identical contamination bug on both pages: `諺文`/`羅馬字`/`注音` had used the wrong initial (푸/pu/ㄆㄨ instead of the character's own 뿌/fu/ㄈㄨ) on both 敷 and the already-stamped 賦 — corrected both. This surfaced a genuine Dan'a'yo-level homophone between them (both 注音 ㄈㄨ, both stand-ins for their own characters) that was invisible while the bug masked it — checked eight other candidates (俘/俯/付/斧/孚/府/撫/黼) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Fixed literal `vietnamese: null` on 敷 and removed redundant `品詞` on 賦. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文化圏.
+
+### 2026-08-30, iteration 1869 — [[words/文化圏|文化圏]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 化's own is itself; 圏's own is itself). Filled blank `vietnamese: văn hoá khuyên` (compositional), reformatted inline-flow `characters`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文字.
+
+### 2026-08-30, iteration 1870 — [[words/文字|文字]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 字's own is itself). Simplified `korean` from comma-joined "글자, 문자" to compositional 문자 (moved native 글자 to prose); fixed erroneous title-case `vietnamese` (Văn Tự→văn tự). Added missing `kwin: false` (諺文 문지 diverges from real Korean 문자). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文書.
+
+### 2026-08-30, iteration 1871 — [[words/文書|文書]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 書's own is [[書本]]). Simplified `vietnamese` from a native-paraphrase pair to the standard compositional term văn thư. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文武.
+
+### 2026-08-30, iteration 1872 — [[words/文武|文武]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 武's own is itself). Fixed missing space in `cantonese`, filled blank `japanese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文法.
+
+### 2026-08-30, iteration 1873 — [[words/文法|文法]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 法's own is itself). Filled blank `vietnamese: văn pháp` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 文献.
+
+### 2026-08-30, iteration 1874 — [[words/文献|文献]]
+
+No stand-in relationship (文's own stand-in is [[文化]]; 献's own is [[献上]]). Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 斉国.
+
+### 2026-08-30, iteration 1875 — [[words/斉国|斉国]]
+
+No stand-in relationship (斉's own stand-in is [[一斉]]; 国's own is [[国家]]). Fixed real bug: `japanese` was missing the 国 half entirely (せい→せいこく). Filled blank `cantonese: cai4 gwok3`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 斑点.
+
+### 2026-08-30, iteration 1876 — [[words/斑点|斑点]]
+
+This word is itself the stand-in that legitimizes the character 斑 (点's own stand-in is itself). Filled blank `vietnamese: ban điểm` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 料槽.
+
+### 2026-08-30, iteration 1877 — [[words/料槽|料槽]]
+
+This word is itself the stand-in that legitimizes the character 槽 (料's own stand-in is [[材料]]). Filled blank `vietnamese: liệu tào` (compositional), added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 斟酌.
+
+### 2026-08-30, iteration 1878 — [[words/斟酌|斟酌]]
+
+This word is itself the stand-in that legitimizes the character 斟 (酌's own stand-in is [[酌酒]]). Filled blank `vietnamese: châm chước` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 斧子.
+
+### 2026-08-30, iteration 1879 — [[words/斧子|斧子]]
+
+This word is itself the stand-in that legitimizes the character 斧 (子's own stand-in is [[児子]]). Filled blank `vietnamese: phủ tử` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 斬.
+
+### 2026-08-30, iteration 1880 — [[words/斬|斬]] / [[words/蚕|蚕]]
+
+蚕 had a literal `vietnamese: null`; both words are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄐㄚㄇ), previously undocumented — checked three other candidates (慙/暫/站) and confirmed none independent at this reading. Korean 천 on 蚕 diverges from compositional 잠 (a genuine, pre-existing Sino-Korean divergence, kwin: false, not a bug). Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 断念.
+
+### 2026-08-30, iteration 1881 — [[words/断念|断念]]
+
+No stand-in relationship (断's own stand-in is [[割断]]; 念's own is [[念頭]]). Fixed missing space in `cantonese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 断頭台.
+
+### 2026-08-30, iteration 1882 — [[words/断頭台|断頭台]]
+
+No stand-in relationship (all three characters' own stand-ins point elsewhere). Fixed missing "(char)" suffixes, reformatted inline-flow `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 新星.
+
+### 2026-08-30, iteration 1883 — [[words/新星|新星]]
+
+No stand-in relationship (both 新 and 星's own stand-ins are themselves). Added missing `kwin: true`, quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 新芽.
+
+### 2026-08-30, iteration 1884 — [[words/新芽|新芽]]
+
+This word is itself the stand-in that legitimizes the character 芽 (新's own stand-in is itself). Simplified `korean` (움→신아, compositional) and `vietnamese` (búp/chồi→tân nha, compositional), moving native equivalents to prose. Documented Japanese しんめ as a genuine hybrid on+native reading (expected). Filled blank `pos`, added missing `kwin: true`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 新語.
+
+### 2026-08-30, iteration 1885 — [[words/新語|新語]]
+
+No stand-in relationship (新's own stand-in is itself; 語's own is [[言語]]). Fixed missing space in `cantonese`, filled blank `vietnamese: tân ngữ` (compositional), removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 方法.
+
+### 2026-08-30, iteration 1886 — [[words/方法|方法]]
+
+No stand-in relationship (方's own stand-in is [[方向]]; 法's own is itself). Fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 方言.
+
+### 2026-08-30, iteration 1887 — [[words/方言|方言]]
+
+No stand-in relationship (方's own stand-in is [[方向]]; 言's own is itself). Fixed real bug: `諺文`/`羅馬字`/`注音` had all used the wrong initial (방/pang/ㄆㄚㄫ instead of 방's real Dan'a'yo reading 빵/fang/ㄈㄚㄫ) — corrected, which also corrected `kwin` from an erroneous `true` to the true `false` (諺文 빵언 ≠ korean 방언). Removed redundant `品詞`. No homophones at the corrected reading. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 方針.
+
+### 2026-08-30, iteration 1888 — [[words/方針|方針]]
+
+No stand-in relationship (方's own stand-in is [[方向]]; 針's own is itself). Already correctly compositional; omitted blank `hsk_level`/`swadesh`, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 方響.
+
+### 2026-08-30, iteration 1889 — [[words/方響|方響]] / [[words/芳香|芳香]] (completing three-way homophone with [[方向]])
+
+方響 was missing vietnamese/hsk_level/date-last-perfect and had archaic kana (はうきやう→ほうきょう). 芳香 (already stamped) was missing vietnamese/date-last-perfect and is itself the stand-in for 芳 (香's own is [[香気]]). Both already anticipated the three-way homophone with [[方向]] (all 注音 ㄈㄚㄫㄏ⼘ㄫ) but with non-canonical single-line callouts — reformatted all three pages to canonical multi-line reciprocal callouts. Filled blank `vietnamese` on both (phương hưởng / phương hương, both compositional). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 施行.
