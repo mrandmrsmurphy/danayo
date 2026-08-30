@@ -3691,3 +3691,27 @@ Next: 慙愧.
 Both 慙 and 愧's own `stand_in` is 慙愧 (cranberry, matching existing tag) — corrected the note, which previously only credited both but is now explicit. Quoted `mandarin`/`cantonese`/`korean` for consistency. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 慣用.
+
+### 2026-08-30, iteration 1666 — [[words/慣用|慣用]]
+
+No stand-in relationship (慣's own stand-in is [[習慣]]; 用's own is itself). Filled blank `vietnamese`, quoted fields. Verified 慣's own citation already matches this word's 注音 (no character-vs-word divergence bug here). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慧.
+
+### 2026-08-30, iteration 1667 — [[words/慧|慧]] & [[words/毀|毀]]
+
+Discovered genuine Dan'a'yo homophone pair (both hwei/훼/ㄏ⼔ㄧ, unrelated "bright" vs "destroy") — completed both with reciprocal callouts. Both had the same malformed pattern (missing japanese/pos/vietnamese fields). Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 慧眼.
+
+### 2026-08-30, iteration 1668 — [[words/慧眼|慧眼]]
+
+No stand-in relationship (慧's own stand-in is itself; 眼's own is [[眼球]]). Trimmed comma-joined `vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慰安.
+
+### 2026-08-30, iteration 1669 — [[words/慰安|慰安]]
+
+慰's own `stand_in` is 慰安 — added the stand-in note (安's own is [[平安]]). Filled blank `pos`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 慶.
