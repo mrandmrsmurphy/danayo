@@ -3913,3 +3913,27 @@ Next: 戴.
 戴 was malformed (missing pos/japanese/hsk_level/kwin/date-last-perfect, unquoted `characters`, list-dash-without-indent `english`). This word is itself the stand-in for its own character. Filled blank `japanese: たい` (on-reading), `pos: 事詞`, `hsk_level: "4"` from character citation. 太/帯/戴 three-way homophone (all 注音 ㄊㄚㄧ) — was already fully cross-referenced on all three pages content-wise; fixed callout spacing to canonical (blank line after header) on 戴 and 帯, and removed redundant `品詞` from 太. Stamped `date-last-perfect: 2026-08-30` on 戴.
 
 Next: 戸籍.
+
+### 2026-08-30, iteration 1703 — [[words/戸籍|戸籍]]
+
+No stand-in relationship (戸's own stand-in is [[門戸]]; 籍's own is [[書籍]]). Fixed unindented `characters` list, omitted blank `hsk_level`/`swadesh`/`aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 房.
+
+### 2026-08-30, iteration 1704 — [[words/房|房]] (homophone with [[棚]])
+
+房 was malformed (missing pos/japanese/hsk_level/kwin/date-last-perfect). This word is itself the stand-in for its own character. Filled blank `japanese: ぼう`, `vietnamese: phòng` (compositional), `pos: 名詞`, `hsk_level: "1"`, `kwin: true` (諺文=korean). Fixed self-referential homophone callout bug on both 房 (was citing itself, "[[房]] is a homophone of [[棚]]") and 棚 (same bug, reversed) — both rewritten to canonical reciprocal format citing the OTHER word. Fixed 棚's unquoted bare-string `characters` field. Stamped `date-last-perfect: 2026-08-30` on 房 (棚 already stamped 2026-07-11, untouched otherwise).
+
+Next: 房室.
+
+### 2026-08-30, iteration 1705 — [[words/房室|房室]]
+
+This word is itself the stand-in that legitimizes the character 室 (房's own stand-in is itself). Fixed real bug: `vietnamese` was contaminated with "tâm nhĩ thất" (medical term for "cardiac atrium"), corrected to compositional phòng thất. Filled blank `pos: 名詞`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 所在.
+
+### 2026-08-30, iteration 1706 — [[words/所在|所在]]
+
+Discovered systemic bug: 所+X compounds (所在/所有/所謂/所以, where 所 is the FIRST syllable) had `諺文`/`羅馬字` using the free-standing word 所's register (쇼/syo, from `words/所.md`) instead of the bound-character citation (스/sǝ, from `characters/所 (char).md`) used consistently in X+所 compounds ([[厠所]]/[[居所]]/[[所属]]/[[事務所]]) — the `注音` field was already correct (ㄙㄜ-based) in all cases, only 諺文/羅馬字 were wrong. Fixed 所在 (스재/sǝjai) forward, and retroactively fixed already-stamped siblings [[所有]] (스유/sǝ'yu) and [[所以]] (스이/sǝ'i). [[所謂]] carries the same bug but is not yet stamped — left for its own turn. No stand-in relationship, no homophones on 所在. Filled blank `pos`/`vietnamese`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. Stamped `date-last-perfect: 2026-08-30` on 所在.
+
+Next: 所謂.
