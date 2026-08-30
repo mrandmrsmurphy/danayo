@@ -3617,3 +3617,27 @@ Next: 愛情.
 No stand-in relationship (愛's own stand-in is itself; 情's own is [[感情]]). Verified vietnamese tình yêu as a genuine native-equivalent term. Omitted blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 愛惜.
+
+### 2026-08-30, iteration 1654 — [[words/愛惜|愛惜]]
+
+No stand-in relationship (愛/惜 are both their own stand-ins). Trimmed malformed comma-joined `mandarin`/`cantonese`. Filled blank `vietnamese`, omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愛護.
+
+### 2026-08-30, iteration 1655 — [[words/愛護|愛護]]
+
+No stand-in relationship (愛/護 are both their own stand-ins). Documented a real-Korean-only coincidence with [[愛好]] (both 애호 in Korean since 好/護 share 호) that does not extend to the Dan'a'yo level. Filled blank `vietnamese`, omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感嘆.
+
+### 2026-08-30, iteration 1656 — [[words/感嘆|感嘆]]
+
+No stand-in relationship (感's own stand-in is [[感触]]; 嘆's own is itself). Filled blank `vietnamese`, fixed missing "(char)" suffix, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感嘆詞.
+
+### 2026-08-30, iteration 1657 — [[words/感嘆詞|感嘆詞]]
+
+No stand-in relationship (感's own stand-in is [[感触]]; 嘆's own is itself; 詞's own is [[単詞]]). Removed redundant self-referential alias and distinct-character synonyms from `aliases`, keeping only the genuine simplified spelling. Fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 感恩.
