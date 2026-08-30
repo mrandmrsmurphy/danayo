@@ -4200,4 +4200,28 @@ Next: 拱.
 
 拱 was malformed (missing japanese/hsk_level/kwin/date-last-perfect). 共 was already richly documented (already stamped 2026-06-29) but had a redundant `品詞` and was missing its half of a genuine Dan'a'yo-level homophone with 拱 (both 注音 ㄍ⼄ㄫ) — checked other candidates (囧/供/恭/憬) and confirmed none independent at this reading. Both are the stand-ins for their own characters. Added canonical reciprocal `>[!warning] Homophones` callouts to both, removed 共's redundant `品詞`. Both stamped `date-last-perfect: 2026-08-30`.
 
-Next: 拳.
+Next: 拳頭.
+
+### 2026-08-30, iteration 1751 — [[words/拳頭|拳頭]]
+
+No stand-in relationship (拳's own stand-in is [[拳骨]]; 頭's own is itself). Fixed a stray zero-width space in `japanese` and completed the reading (けん→けんとう, was missing the 頭 half entirely). Fixed `cantonese` missing the 頭 half (kyun4-2→kyun4-2 tau4, noting the regular tone-change). Simplified comma-joined `korean` to compositional 권두, moved native 주먹 to prose. Filled blank `vietnamese: quyền đầu`, fixed inline-flow `aliases`/`characters` and missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拳骨.
+
+### 2026-08-30, iteration 1752 — [[words/拳骨|拳骨]]
+
+This word is itself the stand-in that legitimizes the character 拳 (骨's own stand-in is itself). Fixed real bugs: `mandarin` and `cantonese` had both been contaminated with [[拳頭]]'s readings (quántou / blank→kyun4 gwat1) instead of this word's own compositional readings (quángǔ / kyun4 gwat1). Removed mismatched-character `拳頭` from `aliases` (a distinct compound). Filled blank `vietnamese: quyền cốt`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拿捕.
+
+### 2026-08-30, iteration 1753 — [[words/拿捕|拿捕]]
+
+This word is itself the stand-in that legitimizes the character 拿 (捕's own stand-in is itself). Trimmed stray space in `mandarin`, filled blank `cantonese: naa4 bou6` and `vietnamese: nã bổ` (both compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 指示詞.
+
+### 2026-08-30, iteration 1754 — [[words/指示詞|指示詞]]
+
+No stand-in relationship (指's own stand-in is [[手指]]; 示's own is [[開示]]; 詞's own is [[単詞]]). Filled blank `vietnamese: chỉ thị tờ` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 指関節.
