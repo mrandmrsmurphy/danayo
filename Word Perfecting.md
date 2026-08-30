@@ -4057,3 +4057,27 @@ Next: 抗拒.
 This word is itself the stand-in that legitimizes the character 拒 (抗's own stand-in is [[抵抗]]). Filled blank `vietnamese: kháng cự` (compositional, a genuine standard term), omitted blank `hsk_level`/`swadesh`/`aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 折衷.
+
+### 2026-08-30, iteration 1727 — [[words/折衷|折衷]]
+
+No stand-in relationship (折's own stand-in is [[折畳]]; 衷's own is [[衷情]]). Page was already well-formed and richly documented; added the missing stand-in bullet and `date-last-perfect`. No homophones (注音 ㄐㄝㄊㄊㄨㄫ unique across both words and characters). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 披.
+
+### 2026-08-30, iteration 1728 — [[words/披|披]]
+
+This word is itself the stand-in for its own character. Simplified `vietnamese` from a raw six-way dictionary dump to phi (attested in 披露/phi lộ). Filled blank `pos`/`japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 披歴.
+
+### 2026-08-30, iteration 1729 — [[words/披歴|披歴]]
+
+No stand-in relationship (披's own stand-in is itself; 歴's own is [[歴史]]). Documented a deliberate character substitution: the real-world word is 披瀝/披沥 (using 瀝, "drip"), but since 瀝 has no page in this vault, 披歴 substitutes the phonetically identical 歴 — explaining the existing `aliases`. Filled blank `vietnamese: phi lệch` (compositional), omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 披露.
+
+### 2026-08-30, iteration 1730 — [[words/披露|披露]]
+
+No stand-in relationship (both 披 and 露's own stand-ins are themselves). Filled blank `vietnamese: phi lộ` (a genuine standard term). Documented Japanese ひろう/Korean 피로's coincidental match with 疲労 ("fatigue") as a real-world-only coincidence, not a Dan'a'yo homophone. Fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抱擁.
