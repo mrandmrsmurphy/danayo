@@ -1055,3 +1055,9 @@ Next: 普通.
 This word is itself the stand-in that legitimizes the character 普 (通's own stand-in is itself). Removed redundant `品詞`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 普通話.
+
+### 2026-08-30, iteration 1958 — [[words/普通話|普通話]]
+
+No stand-in relationship (普's own stand-in is [[普通]]; 通/話's own are themselves). Removed redundant `品詞`, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 普遍.
