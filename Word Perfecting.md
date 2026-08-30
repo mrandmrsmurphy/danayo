@@ -3599,3 +3599,21 @@ Next: 愚.
 Discovered and completed a genuine four-way Dan'a'yo homophone cluster (all 'u/우/ㄨ): 愚 ("foolish"), 遇 ("meet, encounter") — both previously malformed single-character pages with literal `vietnamese: null` and mangled `羅馬字: '''u'` — plus already-stamped 于 and 雨, which had never received their reciprocal callouts despite being in this cluster the whole time. Rewrote all four with full reciprocal `>[!warning] Homophones` callouts, fixed malformed fields throughout. Stamped all four `date-last-perfect: 2026-08-30`.
 
 Next: 愛.
+
+### 2026-08-30, iteration 1651 — [[words/愛|愛]]
+
+This word is the stand-in for its own character. Fixed missing glide apostrophe on `羅馬字` (ai→'ai), missing `pos`/`japanese`. Homophone callouts to [[唉]]/[[崖]] were already correct and fully reciprocated on both sides. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愛好.
+
+### 2026-08-30, iteration 1652 — [[words/愛好|愛好]]
+
+No stand-in relationship (愛/好 are both their own stand-ins). Filled blank `vietnamese`, reformatted `characters`/`aliases`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愛情.
+
+### 2026-08-30, iteration 1653 — [[words/愛情|愛情]]
+
+No stand-in relationship (愛's own stand-in is itself; 情's own is [[感情]]). Verified vietnamese tình yêu as a genuine native-equivalent term. Omitted blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 愛惜.
