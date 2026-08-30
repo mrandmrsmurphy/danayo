@@ -983,3 +983,21 @@ Next: 昭.
 焦 had a literal `vietnamese: null`; all three words were malformed (missing pos/japanese/hsk_level/date-last-perfect); all three are stand-ins for their own characters. Discovered genuine three-way Dan'a'yo homophone group (all jou/좃/ㄐㄛㄨ), previously undocumented — checked six other candidates (俎/沼/椒/藻/蕉/詔) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to all three. All three stamped `date-last-perfect: 2026-08-30`.
 
 Next: 是日.
+
+### 2026-08-30, iteration 1946 — [[words/是日|是日]]
+
+No stand-in relationship (both 是 and 日's own stand-ins are themselves); an archaic expression for [[今日]]. Filled blank `japanese`/`vietnamese`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昴宿星団.
+
+### 2026-08-30, iteration 1947 — [[words/昴宿星団|昴宿星団]]
+
+This word is itself the stand-in that legitimizes the character 昴 (宿's own stand-in is [[寄宿]]; 団's own is [[集団]]). Fixed a stray space in `mandarin`, simplified malformed native+compositional `japanese` field to compositional ぼうしゅくせいだん (native スバル noted in prose). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昼間.
+
+### 2026-08-30, iteration 1948 — [[words/昼間|昼間]]
+
+This word is itself the stand-in that legitimizes the character 昼 (間's own stand-in is [[之間]]). Fixed real bug: `mandarin` was the unrelated phrase 黎明之間 instead of compositional zhòujiān. Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 時代.
