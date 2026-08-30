@@ -293,3 +293,177 @@ Next: 支付.
 This word is itself the stand-in that legitimizes the character 付 (支's own stand-in is [[支部]]). Quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 支那.
+
+### 2026-08-30, iteration 1831 — [[words/支那|支那]]
+
+No stand-in relationship (支's own stand-in is [[支部]]; 那's own is itself); a phonetic compound (old exonym for China). Removed redundant `品詞`, converted loose Notes line into proper prose. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 支部.
+
+### 2026-08-30, iteration 1832 — [[words/支部|支部]]
+
+This word is itself the stand-in that legitimizes the character 支 (部's own stand-in is itself). Filled blank `vietnamese: chi bộ` (a genuine standard term), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 支配.
+
+### 2026-08-30, iteration 1833 — [[words/支配|支配]]
+
+No stand-in relationship (支's own stand-in is [[支部]]; 配's own is itself). Fixed unindented `characters` list, omitted blank `hsk_level`/`swadesh`/`aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 改善.
+
+### 2026-08-30, iteration 1834 — [[words/改善|改善]]
+
+No stand-in relationship (both 改 and 善's own stand-ins are themselves). Omitted blank `hsk_level`/`swadesh`/empty-list `aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 攻.
+
+### 2026-08-30, iteration 1835 — [[words/攻|攻]] / [[words/公|公]]
+
+Both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄍㄛㄫ), previously undocumented — checked four other candidates (功/工/貢/龔) and confirmed none independent at this reading. Removed a redundant `品詞` from 公's already-rich page. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 攻防.
+
+### 2026-08-30, iteration 1836 — [[words/攻防|攻防]]
+
+No stand-in relationship (攻's own stand-in is itself; 防's own is [[防護]]). Filled blank `vietnamese: công phòng` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 放棄.
+
+### 2026-08-30, iteration 1837 — [[words/放棄|放棄]]
+
+This word is itself the stand-in that legitimizes the character 棄 (放's own stand-in is [[釈放]]). Filled blank `pos: 事詞`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 放火.
+
+### 2026-08-30, iteration 1838 — [[words/放火|放火]] / [[words/防火|防火]]
+
+Genuine, meaning-inverted homophone pair (both 注音 ㄅㄚㄫㄏ⺢: "arson" vs. "fireproofing"), previously flagged with non-canonical `>[!warning]`/`>[!tip]` single-sided notes — converted both to canonical reciprocal `>[!warning] Homophones` callouts. 放火 has no stand-in relationship (放's own is [[釈放]]; 火's own is itself), same for 防火 (防's own is [[防護]]). Modernized archaic kana on 放火 (はうくわ→ほうか). Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 放素.
+
+### 2026-08-30, iteration 1839 — [[words/放素|放素]]
+
+Periodic-table neologism (radium). Page already richly documented explaining the naming logic (放 reserved for radium as the "ray-emitter," pairing with [[射素]] for radon). Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 放置.
+
+### 2026-08-30, iteration 1840 — [[words/放置|放置]]
+
+No stand-in relationship (放's own stand-in is [[釈放]]; 置's own is itself). Filled blank `pos: 事詞`, `vietnamese: phóng trí` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 政党.
+
+### 2026-08-30, iteration 1841 — [[words/政党|政党]]
+
+This word is itself the stand-in that legitimizes the character 党 (政's own stand-in is [[政治]]). Removed self-referential `政党` from `aliases` (matched the filename itself), kept genuine traditional variant 政黨. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 政治.
+
+### 2026-08-30, iteration 1842 — [[words/政治|政治]]
+
+This word is itself the stand-in that legitimizes the character 政 (治's own stand-in is [[統治]]). Fixed real bug: `羅馬字` had a garbled/contaminated value (jing'yog→jingci). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 政治学.
+
+### 2026-08-30, iteration 1843 — [[words/政治学|政治学]]
+
+No stand-in relationship (政's own stand-in is [[政治]] itself; 治's own is [[統治]]; 学's own is [[学習]]). Fixed the same `羅馬字` contamination bug found on [[政治]] (jing'yoghag→jingcihag). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 故人.
+
+### 2026-08-30, iteration 1844 — [[words/故人|故人]]
+
+No stand-in relationship (故's own stand-in is [[緣故]]; 人's own is itself). Omitted blank `hsk_level`/`swadesh`/empty-list `aliases`, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 故意.
+
+### 2026-08-30, iteration 1845 — [[words/故意|故意]]
+
+No stand-in relationship (故's own stand-in is [[緣故]]; 意's own is [[意味]]). Added missing `kwin: false`, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 故郷.
+
+### 2026-08-30, iteration 1846 — [[words/故郷|故郷]]
+
+This word is itself the stand-in that legitimizes the character 郷 (故's own stand-in is [[緣故]]). Filled blank `vietnamese: cố hương` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敏感.
+
+### 2026-08-30, iteration 1847 — [[words/敏感|敏感]]
+
+No stand-in relationship (敏's own stand-in is itself; 感's own is [[感触]]). Quoted `hsk_level`, omitted blank `swadesh`/`aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 救偕.
+
+### 2026-08-30, iteration 1848 — [[words/救偕|救偕]]
+
+No stand-in relationship (救's own stand-in is [[救援]]; 偕's own is [[偕同]]). A semantic-compositional coined name for Jesus ("the one who saves and accompanies"), not a phonetic loan — filled the five blank cross-linguistic fields with the standard real-world loanword names for Jesus in each language (Yēsū/je1 sou1/イエス/예수/Giê-su), since no compositional reading of 救偕 itself exists outside this vault; documented this reasoning explicitly. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 救援.
+
+### 2026-08-30, iteration 1849 — [[words/救援|救援]]
+
+This word is itself the stand-in that legitimizes the character 救 (援's own stand-in is [[援手]]). Filled blank `vietnamese: cứu vin` (compositional), omitted blank `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教会.
+
+### 2026-08-30, iteration 1850 — [[words/教会|教会]]
+
+No stand-in relationship (教's own stand-in is [[教授]]; 会's own is itself). Fixed real bug: `諺文`/`羅馬字`/`注音` all used the old minority "gyau" for 教 instead of majority-established "gyou" (same bug class as [[撹拌]]/[[援交]]) — corrected. Likely a systemic issue across other 教-compounds; will check and retroactively fix each as encountered going forward. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教化.
+
+### 2026-08-30, iteration 1851 — [[words/教化|教化]]
+
+No stand-in relationship (教's own stand-in is [[教授]]; 化's own is itself). Already correctly used majority "gyou" (no bug here). Fixed empty-string `vietnamese`/`swadesh`, filled `vietnamese: giáo hoá` (a genuine standard term). Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教員.
+
+### 2026-08-30, iteration 1852 — [[words/教員|教員]]
+
+No stand-in relationship (教's own stand-in is [[教授]]; 員's own is [[人員]]). Fixed real bug: `羅馬字` used old minority "gyau" instead of majority "gyou". No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教授.
+
+### 2026-08-30, iteration 1853 — [[words/教授|教授]] (retroactive fix)
+
+This word is itself the stand-in for 教 (授's own stand-in is [[授与]]). Retroactively fixed the same systemic "gyau"→"gyou" bug found on [[教会]]/[[教員]] on this already-stamped page. Filled blank `vietnamese: giáo thụ`. No homophones. Re-stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教堂.
+
+### 2026-08-30, iteration 1854 — [[words/教堂|教堂]]
+
+No stand-in relationship (教's own stand-in is [[教授]]; 堂's own is [[会堂]]). Already correctly used majority "gyou". Filled blank `vietnamese: giáo đường` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教学.
+
+### 2026-08-30, iteration 1855 — [[words/教学|教学]]
+
+No stand-in relationship (教's own stand-in is [[教授]]; 学's own is [[学習]]). Filled missing `korean: 교학`/`vietnamese: giáo học`, removed redundant `品詞`, fixed empty-string `swadesh` and bare-string `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 教師.
+
+### 2026-08-30, iteration 1856 — [[words/教師|教師]]
+
+This word is itself the stand-in that legitimizes the character 師 (教's own stand-in is [[教授]]). Fixed real bug: `羅馬字` used old minority "gyau" instead of majority "gyou". Filled blank `vietnamese: giáo sư` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敢為.
+
+### 2026-08-30, iteration 1857 — [[words/敢為|敢為]]
+
+This word is itself the stand-in that legitimizes the character 敢 (為's own stand-in is itself). Filled blank `cantonese`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 散布.
+
+### 2026-08-30, iteration 1858 — [[words/散布|散布]] (completing homophone with [[散歩]])
+
+This word is itself the stand-in for its own character 散. Removed self-referential `散布` from `aliases` (flagged from [[散歩]]'s own earlier turn), kept genuine traditional variant 散佈. Fixed callout spacing to canonical. Filled blank `vietnamese: tán bố` (compositional). Homophone with [[散歩]] (both sanbo/산보/ㄙㄚㄇㄅㄛ) already cross-referenced from that side. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敦厚.
+
+### 2026-08-30, iteration 1859 — [[words/敦厚|敦厚]]
+
+This word is itself the stand-in that legitimizes the character 敦 (厚's own stand-in is itself). Trimmed stray space in `mandarin`, fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 敬語.
