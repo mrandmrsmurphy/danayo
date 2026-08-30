@@ -3799,3 +3799,27 @@ Next: 懇切.
 懇's own `stand_in` is 懇切 — added the note (切's own is itself). Fixed missing "(char)" suffix, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 懍懍.
+
+### 2026-08-30, iteration 1684 — [[words/懍懍|懍懍]]
+
+This word is 懍's own stand-in (reduplicative ideophone). Fixed non-standard katakana `japanese` to hiragana, filled blank `vietnamese`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懐.
+
+### 2026-08-30, iteration 1685 — [[words/懐|懐]] & [[words/話|話]]
+
+Discovered genuine Dan'a'yo homophone pair (both hwai/홰/ㄏ⺢ㄧ, unrelated "miss/think of" vs "speak on"). Fixed real bug on 懐: `korean` had been stored as the literal string "null" — corrected to compositional 회. Both had the recurring malformed single-character pattern. Added reciprocal callouts. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 懐抱.
+
+### 2026-08-30, iteration 1686 — [[words/懐抱|懐抱]]
+
+No stand-in relationship (懐's own stand-in is itself; 抱's own is [[抱擁]]). Filled blank `vietnamese`, fixed missing "(char)" suffix, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懐疑.
+
+### 2026-08-30, iteration 1687 — [[words/懐疑|懐疑]]
+
+疑's own `stand_in` is 懐疑 — added the stand-in note. Documented a real-Korean-only coincidence with 会議/會議 ("meeting") that does not extend to the Dan'a'yo level. Added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懲罰.
