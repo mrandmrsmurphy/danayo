@@ -3395,3 +3395,27 @@ Next: 恒例.
 No stand-in relationship (恒's own stand-in is [[恒久]]; 例's own is [[実例]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
 
 Next: 恒常.
+
+### 2026-08-29, iteration 1618 — [[words/恒常|恒常]]
+
+No stand-in relationship (恒's own stand-in is [[恒久]]; 常's own is [[日常]]). Fixed real bug: `korean` had comma-joined native adverb appended; `vietnamese` was a descriptive phrase rather than a compositional reading. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒星.
+
+### 2026-08-29, iteration 1619 — [[words/恒星|恒星]]
+
+No stand-in relationship (恒's own stand-in is [[恒久]]; 星's own is itself). Fixed real bug: `vietnamese` had been swapped for the native everyday word "ngôi sao" — corrected to compositional astronomical term hằng tinh. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒星系.
+
+### 2026-08-29, iteration 1620 — [[words/恒星系|恒星系]]
+
+No stand-in relationship (恒's own stand-in is [[恒久]]; 星/系 are both their own stand-ins). Verified japanese ぎんが/vietnamese thiên hà as genuine native-equivalent "galaxy" terms (Milky Way imagery), not compositional errors. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒等式.
+
+### 2026-08-29, iteration 1621 — [[words/恒等式|恒等式]]
+
+No stand-in relationship (恒's own stand-in is [[恒久]]; 等's own is itself; 式's own is [[様式]]). Filled blank `cantonese`/`korean`/`vietnamese`, fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恣意.
