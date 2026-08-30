@@ -4225,3 +4225,27 @@ Next: 指示詞.
 No stand-in relationship (指's own stand-in is [[手指]]; 示's own is [[開示]]; 詞's own is [[単詞]]). Filled blank `vietnamese: chỉ thị tờ` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 指関節.
+
+### 2026-08-30, iteration 1755 — [[words/指関節|指関節]]
+
+No stand-in relationship (指's own stand-in is [[手指]]; both 関 and 節's own are themselves). Filled blank `korean: 지관절` and `vietnamese: chỉ quan tiết` (both compositional), added missing `kwin: false`, fixed missing "(char)" suffixes, reformatted inline-flow `aliases`/`characters` to block lists, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 按摩.
+
+### 2026-08-30, iteration 1756 — [[words/按摩|按摩]]
+
+This word is itself the stand-in that legitimizes the character 按 (摩 remains pageless in this vault). Filled blank `vietnamese: án ma` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挑戦.
+
+### 2026-08-30, iteration 1757 — [[words/挑戦|挑戦]]
+
+This word is itself the stand-in that legitimizes the character 挑 (戦's own stand-in is [[戦争]]). Omitted blank `hsk_level`/`swadesh`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挑発.
+
+### 2026-08-30, iteration 1758 — [[words/挑発|挑発]]
+
+No stand-in relationship (挑's own stand-in is [[挑戦]]; 発's own is itself). Trimmed verb-forming する from `japanese` for consistency with sibling entries. Filled blank `vietnamese: khiêu phát` (compositional), fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 挙.
