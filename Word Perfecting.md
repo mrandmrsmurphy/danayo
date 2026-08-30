@@ -647,3 +647,183 @@ Next: 方響.
 方響 was missing vietnamese/hsk_level/date-last-perfect and had archaic kana (はうきやう→ほうきょう). 芳香 (already stamped) was missing vietnamese/date-last-perfect and is itself the stand-in for 芳 (香's own is [[香気]]). Both already anticipated the three-way homophone with [[方向]] (all 注音 ㄈㄚㄫㄏ⼘ㄫ) but with non-canonical single-line callouts — reformatted all three pages to canonical multi-line reciprocal callouts. Filled blank `vietnamese` on both (phương hưởng / phương hương, both compositional). Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 施行.
+
+### 2026-08-30, iteration 1890 — [[words/施行|施行]]
+
+This word is itself the stand-in that legitimizes the character 施 (行's own stand-in is itself). Filled blank `vietnamese: thi hành` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旁胱.
+
+### 2026-08-30, iteration 1891 — [[words/旁胱|旁胱]]
+
+This word is itself the stand-in for its own character 胱. Modernized archaic kana ばうくわう→ぼうこう. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旅鼠.
+
+### 2026-08-30, iteration 1892 — [[words/旅鼠|旅鼠]]
+
+No stand-in relationship (旅's own stand-in is [[旅行]]; 鼠's own is [[熊鼠]]). Fixed real bug: `korean` was the loanword 레밍 ("lemming") instead of compositional 려서 — corrected. Filled blank `cantonese`/`vietnamese`, simplified `japanese` (moved loanword レミング to prose). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 族群.
+
+### 2026-08-30, iteration 1893 — [[words/族群|族群]]
+
+No stand-in relationship (族's own stand-in is [[家族]]; 群's own is [[群衆]]). Filled missing `korean: 족군`/`vietnamese: tộc quần` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 族譜.
+
+### 2026-08-30, iteration 1894 — [[words/族譜|族譜]]
+
+No stand-in relationship (族's own stand-in is [[家族]]; 譜's own is [[楽譜]]). Filled blank `vietnamese: tộc phả` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旗幟.
+
+### 2026-08-30, iteration 1895 — [[words/旗幟|旗幟]]
+
+This word is itself the stand-in that legitimizes the character 旗 (幟's own stand-in is itself). Filled blank `vietnamese: kì xí` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旗艦.
+
+### 2026-08-30, iteration 1896 — [[words/旗艦|旗艦]]
+
+No stand-in relationship (旗's own stand-in is [[旗幟]]; 艦's own is [[艦船]]). Fixed `vietnamese`: soái hạm uses a different character (帥) not derived from 旗 — corrected to compositional kì hạm, noting soái hạm as the more common everyday term. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 既以.
+
+### 2026-08-30, iteration 1897 — [[words/既以|既以]]
+
+This word is itself the stand-in that legitimizes the character 既 (以's own stand-in is itself). Fixed real bug: `korean` was 既's own native reading (이미) instead of compositional 기이. Filled blank `pos`/`cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 既往.
+
+### 2026-08-30, iteration 1898 — [[words/既往|既往]]
+
+No stand-in relationship (既's own stand-in is [[既以]]; 往's own is itself). Filled blank `vietnamese: kí vãng` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 既遂.
+
+### 2026-08-30, iteration 1899 — [[words/既遂|既遂]]
+
+This word is itself the stand-in that legitimizes the character 遂 (既's own stand-in is [[既以]]). Quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日出.
+
+### 2026-08-30, iteration 1900 — [[words/日出|日出]]
+
+No stand-in relationship (both 日 and 出's own stand-ins are themselves). Filled blank `vietnamese: nhật xuất` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日刊.
+
+### 2026-08-30, iteration 1901 — [[words/日刊|日刊]]
+
+No stand-in relationship (both 日 and 刊's own stand-ins are themselves). Filled blank `vietnamese: nhật san` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日報.
+
+### 2026-08-30, iteration 1902 — [[words/日報|日報]]
+
+No stand-in relationship (both 日 and 報's own stand-ins are themselves). Fixed real bug: `cantonese` had the wrong tone (jat4→jat6). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日常.
+
+### 2026-08-30, iteration 1903 — [[words/日常|日常]]
+
+This word is itself the stand-in that legitimizes the character 常. Filled blank `vietnamese: nhật thường` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日月.
+
+### 2026-08-30, iteration 1904 — [[words/日月|日月]]
+
+No stand-in relationship (both 日 and 月's own stand-ins are themselves). Fixed missing "(char)" suffixes, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日本.
+
+### 2026-08-30, iteration 1905 — [[words/日本|日本]]
+
+No stand-in relationship (both 日 and 本's own stand-ins are themselves). Simplified `japanese` from comma-joined にっぽん/にほん to the single primary reading にほん, moving the equally-official にっぽん to prose. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日本語.
+
+### 2026-08-30, iteration 1906 — [[words/日本語|日本語]]
+
+No stand-in relationship (日/本's own stand-ins are themselves; 語's own is [[言語]]). Documented Vietnamese tiếng Nhật as the standard everyday term (not compositional). Converted loose body line into proper `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日耳曼.
+
+### 2026-08-30, iteration 1907 — [[words/日耳曼|日耳曼]]
+
+A phonetic transliteration of "Germanic"; no stand-in relationship (日/耳's own are themselves; 曼's is name-only). Filled blank `cantonese: jat6 ji5 maan6` (compositional), documented Japanese/Korean as direct international loanwords (expected). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日記.
+
+### 2026-08-30, iteration 1908 — [[words/日記|日記]]
+
+No stand-in relationship (日's own stand-in is itself; 記's own is [[記憶]]). Fixed missing "(char)" suffix, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 日食.
+
+### 2026-08-30, iteration 1909 — [[words/日食|日食]]
+
+No stand-in relationship (both 日 and 食's own stand-ins are themselves). Page was already well-formed; added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旦夕.
+
+### 2026-08-30, iteration 1910 — [[words/旦夕|旦夕]]
+
+No stand-in relationship (旦's own stand-in is [[元旦]]; 夕's own is [[夕陽]]). Trimmed malformed comma-duplicate `mandarin`, filled missing `korean`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旧.
+
+### 2026-08-30, iteration 1911 — [[words/旧|旧]] / [[words/糾|糾]] (completing three-way homophone with [[臼]])
+
+Both had literal `vietnamese: null` and were malformed (missing pos/japanese/hsk_level/date-last-perfect); both are stand-ins for their own characters. Completed the three-way Dan'a'yo homophone group (all gyuo/귯/ㄍ⼜ㄛ) that [[臼]] had already anticipated and richly documented from its own earlier turn (including having already fixed 旧's `korean: "null"` bug and ruled out 求/舅 as a fourth homophone) — reformatted all three pages to canonical multi-line reciprocal callouts. Filled blank fields on 旧/糾. All three stamped/updated `date-last-perfect: 2026-08-30`.
+
+Next: 旧金山.
+
+### 2026-08-30, iteration 1912 — [[words/旧金山|旧金山]]
+
+No stand-in relationship (all three characters' own stand-ins are themselves). Documented Japanese/Korean as direct phonetic transliterations of "San Francisco" (expected), Mandarin/Cantonese/Vietnamese as the Sinitic calque "Old Gold Mountain." Fixed missing "(char)" suffixes, reformatted inline-flow `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 早.
+
+### 2026-08-30, iteration 1913 — [[words/早|早]] / [[words/朝|朝]] / [[words/繰|繰]]
+
+All three had literal `vietnamese: null` and were malformed (missing pos/japanese/hsk_level/date-last-perfect); all three are stand-ins for their own characters. Discovered genuine three-way Dan'a'yo homophone group (all jau/잣/ㄐㄚㄨ), previously undocumented — checked thirteen other candidates (兆/巣/槽/漕/曹/棗/礁/肇/趙/躁/糟/蚤/遭) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to all three. All three stamped `date-last-perfect: 2026-08-30`.
+
+Next: 旱災.
+
+### 2026-08-30, iteration 1914 — [[words/旱災|旱災]]
+
+This word is itself the stand-in that legitimizes the character 旱 (災's own stand-in is [[災害]]). Removed mismatched-character `旱魃`/`干魃` from `aliases` (use 魃, a distinct character). Filled blank `vietnamese: hạn tai` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昂揚.
+
+### 2026-08-30, iteration 1915 — [[words/昂揚|昂揚]]
+
+No stand-in relationship (昂's own stand-in is [[昂然]]; 揚's own is itself). Filled missing `korean: 앙양`/`vietnamese: ngang dương` (compositional; 揚's half required going outside the character's own stored citation — flagged, same gap class as [[振]]/[[摂]]/[[騒]]). Documented Japanese こうよう's irregular on-reading as expected, not a bug. Quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昂然.
+
+### 2026-08-30, iteration 1916 — [[words/昂然|昂然]]
+
+This word is itself the stand-in that legitimizes the character 昂 (然's own stand-in is itself). Filled missing `korean: 앙연`/`vietnamese: ngang nhiên` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昆.
+
+### 2026-08-30, iteration 1917 — [[words/昆|昆]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`/`hsk_level`. No word-level homophones (鯤 bound to [[鯤魚]]). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昇叙.
+
+### 2026-08-30, iteration 1918 — [[words/昇叙|昇叙]]
+
+No stand-in relationship (昇's own stand-in is [[上昇]]; 叙's own is [[叙述]]). Fixed garbled `japanese` (a stray kanji embedded mid-reading). Filled blank `pos`/`korean`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昇天.
+
+### 2026-08-30, iteration 1919 — [[words/昇天|昇天]]
+
+No stand-in relationship (昇's own stand-in is [[上昇]]; 天's own is itself). Filled blank `pos`, converted loose body line into proper `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 昇級.
