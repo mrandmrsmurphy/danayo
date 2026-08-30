@@ -4033,3 +4033,27 @@ Next: 抑止.
 This word is itself the stand-in that legitimizes the character 抑 (止's own stand-in is [[中止]]). Filled blank `pos: 事詞`, `vietnamese: ức chỉ` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 投.
+
+### 2026-08-30, iteration 1723 — [[words/投|投]] (three-way homophone with [[斗]], [[豆]])
+
+投 was malformed (literal `vietnamese: null`, missing pos/japanese/hsk_level/date-last-perfect). This word is itself the stand-in for its own character. Fixed real bug: `vietnamese` corrected null→đầu (compositional, matching 投資/投票 usage), rejecting the character's contaminating alternate reading nhầu ("wrinkled," an unrelated native word). Three-way homophone with [[斗]]/[[豆]] (all 注音 ㄉㄛㄨ) was already fully cross-referenced content-wise from both sibling sides (which are richly documented, previously-perfected pages) — only needed the callout spacing fixed to canonical (blank line after header) on all three pages. Stamped `date-last-perfect: 2026-08-30` on 投.
+
+Next: 投票率.
+
+### 2026-08-30, iteration 1724 — [[words/投票率|投票率]]
+
+No stand-in relationship (both 投 and 票's own stand-ins are themselves; 率's own is [[比率]]). Fixed missing "(char)" suffixes, added missing `kwin: false`, quoted unquoted string fields for consistency. Documented Korean 투표율's regular 률→율 liaison sound-change as expected, not a compositionality break. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抗争.
+
+### 2026-08-30, iteration 1725 — [[words/抗争|抗争]]
+
+This word is itself the stand-in that legitimizes the character 争 (抗's own stand-in is [[抵抗]]). Filled blank `vietnamese: kháng tranh` (compositional), noted Korean 항쟁's native-shifted 쟁 (same 争-divergence pattern as [[戦争]]). Fixed unindented `characters` list, reformatted inline-flow `aliases` to block list, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抗拒.
+
+### 2026-08-30, iteration 1726 — [[words/抗拒|抗拒]]
+
+This word is itself the stand-in that legitimizes the character 拒 (抗's own stand-in is [[抵抗]]). Filled blank `vietnamese: kháng cự` (compositional, a genuine standard term), omitted blank `hsk_level`/`swadesh`/`aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 折衷.
