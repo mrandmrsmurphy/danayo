@@ -4081,3 +4081,27 @@ Next: 披露.
 No stand-in relationship (both 披 and 露's own stand-ins are themselves). Filled blank `vietnamese: phi lộ` (a genuine standard term). Documented Japanese ひろう/Korean 피로's coincidental match with 疲労 ("fatigue") as a real-world-only coincidence, not a Dan'a'yo homophone. Fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 抱擁.
+
+### 2026-08-30, iteration 1731 — [[words/抱擁|抱擁]]
+
+This word is itself the stand-in that legitimizes BOTH characters (both 抱's and 擁's own `stand_in` is 抱擁). Trimmed malformed comma-duplicate `mandarin` to single bàoyōng. Filled blank `vietnamese: bão ủng` (compositional), reformatted inline-flow `characters`/`aliases` to block lists, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抵抗.
+
+### 2026-08-30, iteration 1732 — [[words/抵抗|抵抗]]
+
+This word is itself the stand-in that legitimizes BOTH characters (both 抵's and 抗's own `stand_in` is 抵抗) — transitivity holds, confirming the existing `#cranberry` tag. Filled blank `vietnamese: để kháng` (a genuine standard term). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抹.
+
+### 2026-08-30, iteration 1733 — [[words/抹|抹]] / [[words/沫|沫]]
+
+Both were malformed (抹 had literal `vietnamese: null`, missing pos/japanese/hsk_level/kwin; 沫 was missing pos/japanese/hsk_level/kwin/date-last-perfect) and both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄇㄚㄊ, and coincidentally sharing the same Japanese on-reading MATSU) — checked other candidates sharing this reading (末/茉) and confirmed neither has an independent word at this exact reading. Filled blank fields on both, added canonical reciprocal `>[!warning] Homophones` callouts. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 押.
+
+### 2026-08-30, iteration 1734 — [[words/押|押]] / [[words/鴨|鴨]]
+
+Both are the stand-ins for their own characters; genuine Dan'a'yo-level homophone pair (both 注音 ㄚㄆ), previously undocumented on either side. 押 was malformed (literal `vietnamese: null`, `羅馬字` missing leading glottal marker 'ab). 鴨 (already stamped 2026-04-04) had garbled/non-standard `japanese` あふ→corrected to おう (Sino-Japanese on-reading), redundant `品詞` removed, and pos corrected 固有名詞→名詞 (duck is a common noun, matching the character's own citation). Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 押韻.
