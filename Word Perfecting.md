@@ -4351,3 +4351,21 @@ Next: 捧.
 This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to bổng. Filled blank `pos`/`japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 捨.
+
+### 2026-08-30, iteration 1776 — [[words/捨|捨]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to xả. Completed the reciprocal homophone callout with [[卸]] (both 注音 ㄙ⼘), which had already anticipated this pairing from its own earlier turn; checked ten other candidates (写/射/奢/斜/社/紗/舎/謝/赦/邪) and confirmed none independent at this reading. Filled blank `pos`/`japanese`/`hsk_level`. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捺.
+
+### 2026-08-30, iteration 1777 — [[words/捺|捺]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`/`vietnamese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捻.
+
+### 2026-08-30, iteration 1778 — [[words/捻|捻]] / [[words/摂|摂]]
+
+Both had literal `null` bugs (捻: vietnamese; 摂: both vietnamese and korean) and both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄋㄝㄆ), previously undocumented on either side. 摂's `vietnamese` (nhiếp) required going outside the character's own stored (blank) field — flagged for future character-level check. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 掃帚..
