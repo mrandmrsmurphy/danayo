@@ -4177,3 +4177,27 @@ Next: 拝.
 This word is itself the stand-in for its own character. Fixed real bugs: literal `vietnamese: null` and `korean: "null"`, both corrected using the character's own citation. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (俳 bound to [[俳優]]). Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 拠点.
+
+### 2026-08-30, iteration 1747 — [[words/拠点|拠点]]
+
+No stand-in relationship (拠's own stand-in is [[依拠]]; 点's own is itself). Fixed real bug: `羅馬字` typo (gyudem→gyodem). Filled blank `vietnamese: cứ điểm` (a genuine standard term), reformatted inline-flow `characters`/`aliases` to block lists, fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拡大.
+
+### 2026-08-30, iteration 1748 — [[words/拡大|拡大]]
+
+This word is itself the stand-in that legitimizes the character 拡. Fixed real bug: `cantonese` had the wrong reading (kwong3→kwok3, likely confused with phonetic component 広/kwong). Quoted `hsk_level`, omitted blank `swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拡張.
+
+### 2026-08-30, iteration 1749 — [[words/拡張|拡張]]
+
+This word is itself the stand-in that legitimizes the character 張 (already documented in prose). Filled blank `vietnamese: khuếch trương` (compositional), quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拱.
+
+### 2026-08-30, iteration 1750 — [[words/拱|拱]] / [[words/共|共]]
+
+拱 was malformed (missing japanese/hsk_level/kwin/date-last-perfect). 共 was already richly documented (already stamped 2026-06-29) but had a redundant `品詞` and was missing its half of a genuine Dan'a'yo-level homophone with 拱 (both 注音 ㄍ⼄ㄫ) — checked other candidates (囧/供/恭/憬) and confirmed none independent at this reading. Both are the stand-ins for their own characters. Added canonical reciprocal `>[!warning] Homophones` callouts to both, removed 共's redundant `品詞`. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拳.
