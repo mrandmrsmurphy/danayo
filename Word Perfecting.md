@@ -3371,3 +3371,27 @@ Next: 恐惧.
 惧's own `stand_in` is 恐惧 — added the stand-in note (恐's own is [[恐慌]]). Filled blank `vietnamese`, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
 
 Next: 恐慌.
+
+### 2026-08-29, iteration 1614 — [[words/恐慌|恐慌]]
+
+Both 恐 and 慌's own `stand_in` is 恐慌 — added the note. Frontmatter already fully correct; wrote `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恐龍.
+
+### 2026-08-29, iteration 1615 — [[words/恐龍|恐龍]]
+
+No stand-in relationship (恐's own stand-in is [[恐慌]]; 龍's own is itself). Fixed missing "(char)" suffix on `characters`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒久.
+
+### 2026-08-29, iteration 1616 — [[words/恒久|恒久]]
+
+恒's own `stand_in` is 恒久 — added the stand-in note (久's own is itself). Fixed missing "(char)" suffix. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒例.
+
+### 2026-08-29, iteration 1617 — [[words/恒例|恒例]]
+
+No stand-in relationship (恒's own stand-in is [[恒久]]; 例's own is [[実例]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恒常.
