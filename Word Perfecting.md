@@ -125,3 +125,171 @@ Next: 推測.
 No stand-in relationship (推's own stand-in is itself; 測's own is [[測量]]). Fixed `vietnamese`: was a native paraphrase ("đoán ra, nghĩ ra") instead of the Hán Việt compositional reading — corrected to suy trắc. Reformatted inline-flow `characters`/`aliases`, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 推薦.
+
+### 2026-08-30, iteration 1803 — [[words/推薦|推薦]]
+
+This word is itself the stand-in that legitimizes the character 薦 (推's own stand-in is itself). Filled blank `vietnamese: suy tiến` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 措置.
+
+### 2026-08-30, iteration 1804 — [[words/措置|措置]]
+
+This word is itself the stand-in for its own character (a synonym compound with 置). Fixed unindented `characters` list and missing "(char)" suffix, quoted `cantonese`, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 掲.
+
+### 2026-08-30, iteration 1805 — [[words/掲|掲]]
+
+This word is itself the stand-in for its own character. Filled blank `pos`/`japanese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 掻.
+
+### 2026-08-30, iteration 1806 — [[words/掻|掻]] / [[words/騒|騒]]
+
+騒 was malformed (empty `品詞`/`pos`, blank `vietnamese`); both words are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄙㄚㄨ) — checked five other candidates (嫂/愁/掃/燥/驟) and confirmed none independent at this reading. 騒's `vietnamese` (tao) required going outside the character's own stored (blank) field — flagged for future character-level check. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 揄伽.
+
+### 2026-08-30, iteration 1807 — [[words/揄伽|揄伽]]
+
+No stand-in relationship (揄's own stand-in is [[揶揄]]; 伽's own is name-only, used here as a common-noun exception). This vault's rendering of the Buddhist loanword 瑜伽 ("yoga"), substituting the phonetically identical 揄 for 瑜 (which coincidentally shares its reading across every language, so no avoided-character documentation was needed beyond the substitution). Fixed real bug: `諺文`/`羅馬字` had dropped 揄's own coda (윰/yum→유/yu), corrected to match the already-correct 注音. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 提案.
+
+### 2026-08-30, iteration 1808 — [[words/提案|提案]]
+
+This word is itself the stand-in that legitimizes the character 案 (提's own stand-in is [[提示]]). Filled blank `vietnamese: chề án` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 提示.
+
+### 2026-08-30, iteration 1809 — [[words/提示|提示]]
+
+This word is itself the stand-in that legitimizes the character 提 (示's own stand-in is [[開示]]). Filled blank `vietnamese: chề thị` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 揚.
+
+### 2026-08-30, iteration 1810 — [[words/揚|揚]] / [[words/陽|陽]] (completing three-way homophone with [[様]])
+
+揚 and 陽 were both malformed (blank vietnamese, missing several fields); all three are the stand-ins for their own characters. Discovered genuine three-way Dan'a'yo homophone group (all 'yang/양/⼘ㄫ), previously undocumented — checked eight other candidates (央/仰/洋/殃/羊/楊/瘍/養) and confirmed none independent at this reading. Filled blank fields on 揚/陽, removed a redundant `品詞` on 様. Added canonical reciprocal `>[!warning] Homophones` callouts to all three pages. All three stamped `date-last-perfect: 2026-08-30`.
+
+Next: 握窄.
+
+### 2026-08-30, iteration 1811 — [[words/握窄|握窄]]
+
+No stand-in relationship (握's own stand-in is [[把握]]; 窄's own is [[狭窄]]). Confirmed and documented as a deliberate phonetic substitution (same pattern as [[披歴]]/[[拉金]]): renders the real term 齷齪/龌龊 (wòchuò) using 握窄, since 齷/齪 have no pages. Filled blank `vietnamese: ác trác` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 援交.
+
+### 2026-08-30, iteration 1812 — [[words/援交|援交]]
+
+No stand-in relationship (援's own stand-in is [[援手]]; 交's own is itself). Fixed real bugs: `諺文` had the wrong final consonant for 援's syllable (옹→온) and `羅馬字` used the old minority reading "gyau" for 交 instead of majority-established "gyou" — both corrected. Filled blank `pos`/`vietnamese`, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 援助.
+
+### 2026-08-30, iteration 1813 — [[words/援助|援助]]
+
+This word is itself the stand-in that legitimizes the character 助 (援's own stand-in is [[援手]]). Fixed real bug: `cantonese` had a spurious duplicate syllable (jyun4 zo6, wun4 zo6) — trimmed to compositional wun4 zo6. Filled blank `pos`/`vietnamese` (trợ inferred for 助 since the character's own citation is missing it — flagged). Omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 揶揄.
+
+### 2026-08-30, iteration 1814 — [[words/揶揄|揶揄]]
+
+This word is itself the stand-in that legitimizes BOTH characters (both 揶's and 揄's own `stand_in` is 揶揄) — same underlying pattern already seen on [[技能]] and [[揄伽]]. Fixed real bug: `諺文`/`羅馬字`/`注音` had dropped 揄's own coda (윰/yum) — corrected. Filled blank `vietnamese: da du` (a genuine standard term). No homophones at the corrected reading. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 揺.
+
+### 2026-08-30, iteration 1815 — [[words/揺|揺]] / [[words/窯|窯]]
+
+Both had real bugs: `羅馬字` on both missing the leading glottal marker (you→'you), plus 揺 had literal `vietnamese: null`/`korean: "null"`. Both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ⼄ㄨ) — checked nine other candidates (夭/姚/曜/腰/耀/要/窈/謡/遥) and confirmed none independent at this reading. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 搬送.
+
+### 2026-08-30, iteration 1816 — [[words/搬送|搬送]]
+
+This word is itself the stand-in that legitimizes the character 搬 (送's own stand-in is itself). Filled blank `vietnamese: ban tống` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 搭載.
+
+### 2026-08-30, iteration 1817 — [[words/搭載|搭載]]
+
+No stand-in relationship (搭's own stand-in is [[搭乗]]; 載's own is itself). Filled blank `pos: 事詞`, `vietnamese: đáp tải` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 摂食.
+
+### 2026-08-30, iteration 1818 — [[words/摂食|摂食]]
+
+No stand-in relationship (both 摂 and 食's own stand-ins are themselves). Filled blank `vietnamese: nhiếp thực` (compositional, reusing the previously-flagged 摂 reading). Fixed missing "(char)" suffixes, reformatted inline-flow `aliases`, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撃.
+
+### 2026-08-30, iteration 1819 — [[words/撃|撃]] / [[words/劇|劇]]
+
+撃 was malformed (literal `vietnamese: null`, `korean: "null"`); both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄍㄝㄎ), previously undocumented on either side — checked two other candidates (戟/激) and confirmed neither independent at this reading. 撃's `vietnamese` (kích) required going outside the character's own stored (blank) field — flagged for future check. Added canonical reciprocal callouts to both, cleaned up 劇's malformed single-string `english` and unquoted fields. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撇.
+
+### 2026-08-30, iteration 1820 — [[words/撇|撇]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`/`hsk_level`. No word-level homophones (瞥 bound to [[一瞥]]). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撞球.
+
+### 2026-08-30, iteration 1821 — [[words/撞球|撞球]]
+
+No stand-in relationship (both 撞 and 球's own stand-ins are themselves). Simplified `japanese` from a comma-joined loanword+compositional dump to compositional どうきゅう, moved the loanword ビリヤード to prose. Filled blank `vietnamese: tràng cầu` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撤.
+
+### 2026-08-30, iteration 1822 — [[words/撤|撤]]
+
+This word is itself the stand-in for its own character. Filled blank `japanese`/`hsk_level`. No word-level homophones (checked 姪/窒/跌). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 播種.
+
+### 2026-08-30, iteration 1823 — [[words/播種|播種]]
+
+This word is itself the stand-in that legitimizes the character 播 (種's own stand-in is [[種類]]). Trimmed malformed comma-triplet `mandarin` to single bōzhǒng. Filled blank `vietnamese: bá chõng` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撮.
+
+### 2026-08-30, iteration 1824 — [[words/撮|撮]]
+
+This word is itself the stand-in for its own character. Simplified `vietnamese` from a three-way list to its primary reading. Filled blank `japanese`. No word-level homophones (拶 is name-only). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撲.
+
+### 2026-08-30, iteration 1825 — [[words/撲|撲]]
+
+This word is itself the stand-in for its own character. Filled blank `pos`/`japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 撹拌.
+
+### 2026-08-30, iteration 1826 — [[words/撹拌|撹拌]]
+
+This word is itself the stand-in for its own character. Fixed real bug: `羅馬字` used the old minority "gyau" instead of majority-established "gyou". Filled blank `vietnamese: cảo bạn` (compositional), reformatted inline-flow `characters`/`aliases`, merged duplicate `## Words`/`## Etymology` into `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 擦.
+
+### 2026-08-30, iteration 1827 — [[words/擦|擦]]
+
+This word is itself the stand-in for its own character. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones (刹/察 bound to other compounds). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 擬.
+
+### 2026-08-30, iteration 1828 — [[words/擬|擬]] / [[words/以|以]]
+
+擬 was malformed (`羅馬字` missing leading glottal marker, missing japanese/hsk_level/date-last-perfect); both are stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄧ), previously undocumented — checked four other candidates (異/疑/飴/頤) and confirmed none independent at this reading. Removed a redundant `品詞` from 以's already-rich page. Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 攘夷.
+
+### 2026-08-30, iteration 1829 — [[words/攘夷|攘夷]]
+
+This word is itself the stand-in that legitimizes the character 攘 (夷's own stand-in is [[東夷]]). Page was already richly documented; quoted string fields, added missing `kwin`/`tags`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 支付.
+
+### 2026-08-30, iteration 1830 — [[words/支付|支付]]
+
+This word is itself the stand-in that legitimizes the character 付 (支's own stand-in is [[支部]]). Quoted string fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 支那.
