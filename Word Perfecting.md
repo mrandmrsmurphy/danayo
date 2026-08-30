@@ -4326,4 +4326,28 @@ Next: 捕.
 
 This word is itself the stand-in for its own character. Checked ten candidate homophone characters (圃/哺/布/歩/補/簿/菩/蒲/譜/葡) sharing 注音 ㄅㄛ and confirmed none has an independent word at this reading. Filled blank `pos`/`japanese`/`vietnamese`/`hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
 
-Next: 捕獲.
+Next: 捕手.
+
+### 2026-08-30, iteration 1772 — [[words/捕手|捕手]]
+
+No stand-in relationship (both 捕 and 手's own stand-ins are themselves). Filled blank `vietnamese: bổ thủ` (compositional), fixed unindented `characters` list and missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捕捉.
+
+### 2026-08-30, iteration 1773 — [[words/捕捉|捕捉]]
+
+This word is itself the stand-in that legitimizes the character 捉 (捕's own stand-in is itself). Filled blank `vietnamese: bổ tróc` (compositional), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捕鯨.
+
+### 2026-08-30, iteration 1774 — [[words/捕鯨|捕鯨]]
+
+No stand-in relationship (捕's own stand-in is itself; 鯨's own is [[鯨魚]]). Fixed real bug: `english` gave "whale" (the animal) instead of "whaling" (the activity this compound actually denotes) — corrected, and `pos` corrected 性詞→名詞 to match. Filled blank `vietnamese: bổ canh` (compositional), reformatted inline-flow `characters`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捧.
+
+### 2026-08-30, iteration 1775 — [[words/捧|捧]]
+
+This word is itself the stand-in for its own character. Fixed real bug: literal `vietnamese: null`, corrected to bổng. Filled blank `pos`/`japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 捨.
