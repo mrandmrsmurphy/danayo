@@ -3781,3 +3781,21 @@ Next: 憫.
 Discovered genuine Dan'a'yo homophone pair (both min/민/ㄇㄧㄋ, unrelated "pity" vs "fast/clever") — 敏 was already stamped but missing the reciprocal callout. Rewrote both with full reciprocal `>[!warning] Homophones` callouts, filled missing japanese on 憫 and literal `vietnamese: null` on 敏. Stamped both `date-last-perfect: 2026-08-30`.
 
 Next: 憬悟.
+
+### 2026-08-30, iteration 1681 — [[words/憬悟|憬悟]]
+
+This word is the stand-in for 憬 (already documented, with an unusually thorough set of pre-existing collision caveats on Japanese けいご/敬語 and Vietnamese cảnh ngộ/境遇 preserved as-is). Quoted `mandarin`/`cantonese`/`korean` for consistency. No new homophones found. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憲法.
+
+### 2026-08-30, iteration 1682 — [[words/憲法|憲法]]
+
+憲's own `stand_in` is 憲法 — added the stand-in note (法's own is itself). Omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懇切.
+
+### 2026-08-30, iteration 1683 — [[words/懇切|懇切]]
+
+懇's own `stand_in` is 懇切 — added the note (切's own is itself). Fixed missing "(char)" suffix, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 懍懍.
