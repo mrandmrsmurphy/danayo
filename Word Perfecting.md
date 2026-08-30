@@ -4105,3 +4105,27 @@ Next: 押.
 Both are the stand-ins for their own characters; genuine Dan'a'yo-level homophone pair (both 注音 ㄚㄆ), previously undocumented on either side. 押 was malformed (literal `vietnamese: null`, `羅馬字` missing leading glottal marker 'ab). 鴨 (already stamped 2026-04-04) had garbled/non-standard `japanese` あふ→corrected to おう (Sino-Japanese on-reading), redundant `品詞` removed, and pos corrected 固有名詞→名詞 (duck is a common noun, matching the character's own citation). Added canonical reciprocal `>[!warning] Homophones` callouts to both. Both stamped `date-last-perfect: 2026-08-30`.
 
 Next: 押韻.
+
+### 2026-08-30, iteration 1735 — [[words/押韻|押韻]]
+
+This word is itself the stand-in that legitimizes the character 韻 (押's own stand-in is itself). Fixed real bug: `cantonese` had wrong tone (wan5→wan6). Filled blank `vietnamese: áp vận` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拂.
+
+### 2026-08-30, iteration 1736 — [[words/拂|拂]]
+
+This word is itself the stand-in for its own character. Checked candidate homophone characters (弗/沸/黻/彿) sharing 注音 ㄈㄨㄊ and confirmed none has an independent word at this reading. Filled blank `japanese: ふつ`, quoted `hsk_level: "無"`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拉.
+
+### 2026-08-30, iteration 1737 — [[words/拉|拉]]
+
+This word is itself the stand-in for its own character. Checked candidate homophone characters (蠟/臘) sharing 注音 ㄌㄚㄆ and confirmed neither has an independent word at this reading. Filled blank `pos`/`japanese`/`hsk_level`. No word-level homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拉金.
+
+### 2026-08-30, iteration 1738 — [[words/拉金|拉金]]
+
+Periodic-table neologism (rutherfordium). Flagged but did not resolve a naming-architecture anomaly: unlike sibling person-eponym elements ([[居里金]]/[[愛因金]]/[[費米金]]/[[諾貝金]]/[[門捷金]]/[[羅倫金]], all two-character surname reductions), 拉金 uses only one character for Rutherford — documented for future dedicated review rather than renamed unilaterally. Removed redundant `品詞`, cleaned up inline-flow fields to scalars where single-valued. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 拉麺.
