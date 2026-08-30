@@ -3985,3 +3985,27 @@ Next: 才能.
 No stand-in relationship (才's own stand-in is [[天才]]; 能's own is [[技能]]). Filled blank `vietnamese: tài năng` (compositional), omitted blank `aliases`/`swadesh`, added `## Notes` section. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 打算.
+
+### 2026-08-30, iteration 1715 — [[words/打算|打算]]
+
+No stand-in relationship (打's own stand-in is [[打撃]]; 算's own is itself). Filled blank `korean: 타산`, `vietnamese: đả toán` (both compositional), added missing `kwin: true` (諺文=korean), fixed unindented `characters` list and missing "(char)" suffix on 算, omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 扮.
+
+### 2026-08-30, iteration 1716 — [[words/扮|扮]]
+
+This word is itself the stand-in for its own character. Fixed real bug: `諺文`/`羅馬字`/`注音` had all been contaminated with 分/粉's reading (분/bun/ㄅㄨㄋ) instead of 扮's own citation (삔/fin/ㄈㄧㄋ, per `characters/扮 (char).md`) — likely a copy-paste error from a sibling character page. Filled blank `pos`/`japanese`/`hsk_level`, fixed literal `vietnamese: null` to phẫn (compositional). No homophones at the corrected reading. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 扶.
+
+### 2026-08-30, iteration 1717 — [[words/扶|扶]] / [[words/附|附]]
+
+Both were malformed (literal `vietnamese: null`, missing pos/japanese/hsk_level/kwin/date-last-perfect) and both are the stand-ins for their own characters. Discovered genuine Dan'a'yo-level homophone pair (both 注音 ㄅㄨ) — checked all other candidate characters sharing this reading (傅/埠/父/符/輔/釜) and confirmed none have an independent word at this exact reading (all bound to longer stand-in compounds, or 傅 name-only). Filled blank fields on both, added canonical reciprocal `>[!warning] Homophones` callouts. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 批判.
+
+### 2026-08-30, iteration 1718 — [[words/批判|批判]]
+
+This word is itself the stand-in that legitimizes the character 批 (判's own stand-in is [[判断]]). Fixed inline-flow `characters` to block list, quoted `hsk_level`, omitted blank `swadesh`/empty-list `aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 技巧.
