@@ -3443,3 +3443,25 @@ Next: 恨.
 Discovered genuine Dan'a'yo homophone pair (both ㄏㄚㄋ/han/한, unrelated "hate/grudge" vs "sweat") — completed both with reciprocal callouts. Both had the same malformed single-character pattern (literal `vietnamese: null`, missing japanese/pos on 恨, bare `# Notes`). Stamped both `date-last-perfect: 2026-08-29`.
 
 Next: 恩恵.
+
+### 2026-08-29, iteration 1626 — [[words/恩恵|恩恵]]
+
+恵's own `stand_in` is 恩恵 — added the stand-in note (恩's own is [[恩寵]]). Fixed real bug: `諺文`/`羅馬字`/`注音` all had 恩's syllable using the wrong reading 안/'an/ㄚㄋ instead of 은/'ǝn/ㄜㄋ (confirmed against 恩's own citation and siblings [[恩典]]/[[恩徳]]/[[恩施]]/[[感恩]]). No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+**Flagged for next iteration**: [[恩情]] has the identical bug pattern.
+
+Next: 恩情.
+
+### 2026-08-29, iteration 1627 — [[words/恩情|恩情]]
+
+No stand-in relationship (恩's own stand-in is [[恩寵]]; 情's own is [[心情]]). Fixed the flagged bug: `諺文`/`羅馬字`/`注音` had the same 恩-syllable error as [[恩恵]] (안→은). Also fixed real contamination: `korean` had been set to the literal Vietnamese value "ân tình" — corrected to compositional 은정, with the genuine Vietnamese filled into its own field. Omitted empty-list `aliases`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+Next: 恩愛.
+
+### 2026-08-29, iteration 1628 — [[words/恩愛|恩愛]]
+
+No stand-in relationship (恩's own stand-in is [[恩寵]]; 愛's own is itself). Fixed the same recurring 恩-syllable bug (안→은), flipping `kwin` false→true accordingly. Filled blank `vietnamese`, omitted empty-list `aliases`, quoted `hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-29`.
+
+**Swept the rest of the 恩-family for this bug**: found and fixed one more instance on already-stamped [[恩人]] (안닌→은닌, re-stamped); confirmed [[恩意]]/[[恩寵]]/[[恩徳]]/[[恩典]]/[[恩施]] are all already clean. This closes out the systemic 恩-syllable bug across the whole family.
+
+Next: 恭喜.
