@@ -4009,3 +4009,27 @@ Next: 批判.
 This word is itself the stand-in that legitimizes the character 批 (判's own stand-in is [[判断]]). Fixed inline-flow `characters` to block list, quoted `hsk_level`, omitted blank `swadesh`/empty-list `aliases`, rewrote `## Etymology` as `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 技巧.
+
+### 2026-08-30, iteration 1719 — [[words/技巧|技巧]]
+
+No stand-in relationship (技's own stand-in is [[技能]]; 巧's own is [[巧妙]]). Fixed unindented `characters` list, quoted `hsk_level`, omitted blank `swadesh`/`aliases`, added `## Notes`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 技能.
+
+### 2026-08-30, iteration 1720 — [[words/技能|技能]]
+
+This word is itself the stand-in that legitimizes BOTH characters (技's own `stand_in` is 技能, and 能's own is also 技能). Fixed real bug: `羅馬字` used "nung" instead of "nǝng" (schwa), not matching 能's own citation. Added missing space in `cantonese`, filled blank `vietnamese: kỹ năng` (a genuine common compositional term), omitted blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 把手.
+
+### 2026-08-30, iteration 1721 — [[words/把手|把手]]
+
+This word is itself the stand-in that legitimizes the character 把 (手's own stand-in is itself). Removed non-compositional Japanese synonym とりて (garbled 取っ手, a different compound), filled blank `korean: 파수`, `vietnamese: bả thủ` (both compositional), fixed inline-flow `characters` to block list, omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 抑止.
+
+### 2026-08-30, iteration 1722 — [[words/抑止|抑止]]
+
+This word is itself the stand-in that legitimizes the character 抑 (止's own stand-in is [[中止]]). Filled blank `pos: 事詞`, `vietnamese: ức chỉ` (compositional), omitted blank `hsk_level`/`swadesh`/empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 投.
