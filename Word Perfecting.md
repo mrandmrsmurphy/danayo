@@ -1120,4 +1120,22 @@ Next: 暗暗.
 
 A reduplication of [[暗]]; no stand-in relationship applies. Filled missing `korean`/`vietnamese` (both compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
-Next: 暗証番号.
+Next: 暗殺.
+
+### 2026-08-30, iteration 1969 — [[words/暗殺|暗殺]]
+
+No stand-in relationship (both 暗 and 殺's own stand-ins are themselves). Quoted `hsk_level`, reformatted inline-flow `characters`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗礁.
+
+### 2026-08-30, iteration 1970 — [[words/暗礁|暗礁]]
+
+This word is itself the stand-in that legitimizes the character 礁. Filled blank `vietnamese: ám tiêu` (compositional). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗示.
+
+### 2026-08-30, iteration 1971 — [[words/暗示|暗示]]
+
+No stand-in relationship (暗's own stand-in is itself; 示's own is [[開示]]). Fixed real bug: `cantonese` had the wrong tone (am4→am3). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暗黒.
