@@ -3757,3 +3757,27 @@ Next: 憤怒.
 No stand-in relationship (憤's own stand-in is [[憤慨]]; 怒's own is itself). Removed a stray zero-width character from `japanese`, filled blank `vietnamese`, reformatted `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 憤慨.
+
+### 2026-08-30, iteration 1677 — [[words/憤慨|憤慨]]
+
+This word is the stand-in for 憤 (too bounded to appear alone). Filled blank `vietnamese`, fixed missing "(char)" suffix. Preserved the existing rich Notes prose. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憧憧.
+
+### 2026-08-30, iteration 1678 — [[words/憧憧|憧憧]]
+
+This word is 憧's own stand-in (already documented in the existing rich Notes prose). Filled blank `vietnamese`, quoted fields. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憧憬.
+
+### 2026-08-30, iteration 1679 — [[words/憧憬|憧憬]]
+
+No stand-in relationship (already documented — the compound predates and blurs the two now-separate senses carried by [[憧憧]] and [[憬悟]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 憫.
+
+### 2026-08-30, iteration 1680 — [[words/憫|憫]] & [[words/敏|敏]]
+
+Discovered genuine Dan'a'yo homophone pair (both min/민/ㄇㄧㄋ, unrelated "pity" vs "fast/clever") — 敏 was already stamped but missing the reciprocal callout. Rewrote both with full reciprocal `>[!warning] Homophones` callouts, filled missing japanese on 憫 and literal `vietnamese: null` on 敏. Stamped both `date-last-perfect: 2026-08-30`.
+
+Next: 憬悟.
