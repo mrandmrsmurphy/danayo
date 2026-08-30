@@ -3865,3 +3865,27 @@ Next: 成功.
 No stand-in relationship (成's own stand-in is itself; 功's own is [[功績]]). Filled blank `pos: 事詞`, quoted `hsk_level`, fixed missing "(char)" suffix, omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 成熟.
+
+### 2026-08-30, iteration 1695 — [[words/成熟|成熟]]
+
+This word is itself the stand-in that legitimizes the character [[characters/熟|熟]] (成's own stand-in is itself). Filled blank `pos: 事詞`, trimmed malformed comma-duplicate `mandarin` to single chéngshú, filled blank `vietnamese: thành thục`, quoted `hsk_level`, fixed missing "(char)" suffix, omitted empty-list `aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 成立.
+
+### 2026-08-30, iteration 1696 — [[words/成立|成立]]
+
+No stand-in relationship (成's own stand-in is itself; 立's own is itself). Fixed real bug: `諺文` typo 신립→싱립 (ㅇ→ㄴ, not matching compositional 싱+립). Trimmed redundant alternate-spelling `cantonese` variant, filled blank `pos: 事詞`, quoted `hsk_level`, fixed missing "(char)" suffix, omitted empty-list `aliases`/blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 成語.
+
+### 2026-08-30, iteration 1697 — [[words/成語|成語]]
+
+No stand-in relationship (成's own stand-in is itself; 語's own is [[言語]]). Removed mismatched synonym `四字熟語` from `aliases` (a distinct character composition, not an orthographic variant), kept genuine simplified alias `成语`. Filled blank `pos: 名詞`, fixed missing "(char)" suffix, omitted blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戦争.
+
+### 2026-08-30, iteration 1698 — [[words/戦争|戦争]] / [[words/戦場|戦場]]
+
+Homophone pair (both 注音 ㄐㄝㄋㄐㄚㄫ), previously stamped with non-canonical `>[!tip]` callouts — converted both to canonical `>[!warning] Homophones` reciprocal format. 戦争: this word is the stand-in for its own character 戦 (争's own stand-in is [[抗争]]); filled blank `aliases` (战争/戰爭), omitted blank `hsk_level`/`swadesh`; noted Korean 전쟁's native-shifted 쟁 vs compositional 장 (kwin: false, pre-existing correct). 戦場: no stand-in relationship (戦's own is [[戦争]]; 場's own is [[市場]]); trimmed malformed comma-duplicate `mandarin` (zhàncháng variant) to single zhànchǎng. Both stamped `date-last-perfect: 2026-08-30`.
+
+Next: 戦国.
