@@ -1187,3 +1187,27 @@ Next: 暴政.
 No stand-in relationship (both 暴 and 政's own stand-ins are themselves). Korean/Vietnamese already correctly used the 폭/bạo alternate readings of 暴 (same pattern flagged on [[暴徒]]). Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 暴虐.
+
+### 2026-08-30, iteration 1980 — [[words/暴虐|暴虐]]
+
+This word is itself the stand-in for 虐; 暴's own stand-in is itself. Filled blank `cantonese`/`vietnamese` (bou6 joek6, bạo ngược). Noted korean 포학 correctly uses 暴's standalone 포 reading (a real lexical exception to the 폭-pattern seen in sibling 暴-compounds). Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴食.
+
+### 2026-08-30, iteration 1981 — [[words/暴食|暴食]]
+
+No stand-in relationship (both 暴 and 食's own stand-ins are themselves). Filled blank `vietnamese` (bạo thực, using the same 暴 alternate reading pattern flagged on [[暴徒]]). Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 暴飲.
+
+### 2026-08-30, iteration 1982 — [[words/暴飲|暴飲]]
+
+No stand-in relationship (both 暴 and 飲's own stand-ins are themselves). Filled blank `vietnamese` (bạo ẩm, same 暴 alternate reading pattern flagged on [[暴徒]]). Removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML (kept genuine simplified variant 暴饮). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 曇.
+
+### 2026-08-30, iteration 1983 — [[words/曇|曇]]
+
+This word is itself the stand-in for 曇. Added missing `pos`/`japanese` fields and `hsk_level: "無"`. Discovered a genuine homophone with [[痰]] (both ㄉㄚㄇ) — fully fixed and cross-referenced both sides: 痰.md got literal `vietnamese: null` → đàm fixed, `pos: 名詞`/`japanese: たん`/`hsk_level: "4"` added (its own stand-in), plus the reciprocal Homophones callout. No other candidates (湛/啖/担/淡/胆/譚/談 all share the 注音 but are bound with no independent word pages). Stamped `date-last-perfect: 2026-08-30` on both.
+
+Next: 曜日.
