@@ -1253,3 +1253,27 @@ Next: 更迭.
 This word is itself the stand-in for 迭. Flagged that `mandarin`/`korean` use real alternate readings of 更 (gēng/경, "change" sense) missing from its citation, same gap as [[更新]]. Filled blank `vietnamese` (canh điệt), added `hsk_level: "無"` (matching 迭). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 書房.
+
+### 2026-08-30, iteration 1991 — [[words/書房|書房]]
+
+This word is itself the stand-in for 房; 書's own stand-in is [[書本]]. Added missing `pos: 名詞`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 書法.
+
+### 2026-08-30, iteration 1992 — [[words/書法|書法]]
+
+This word is itself the stand-in for 法; 書's own stand-in is [[書本]]. Fixed real bug: `japanese` しょはう → しょほう (法's on-reading is ほう, not はう). Removed redundant `品詞`, filled `pos: 名詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 書簡.
+
+### 2026-08-30, iteration 1993 — [[words/書簡|書簡]]
+
+No stand-in relationship (書's own stand-in is [[書本]]; 簡's own is [[簡単]]). Fixed real bug: `cantonese` was contaminated (sau2 zi2 → syu1 gaan2). Filled blank `vietnamese`/`pos`, removed synonym entries 片紙/便紙/手紙 from `aliases` (unrelated character 紙, not orthographic variants). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 書籍.
+
+### 2026-08-30, iteration 1994 — [[words/書籍|書籍]]
+
+This word is itself the stand-in for 籍; 書's own stand-in is [[書本]]. Filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 曼魚.
