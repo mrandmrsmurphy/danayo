@@ -1301,3 +1301,27 @@ Next: 最.
 This word is itself the stand-in for 最. Fixed literal `vietnamese: null` → tối, added missing `pos`/`japanese`/`hsk_level`, `kwin: false` (諺文 줘 ≠ real Korean 최, a genuine divergence). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 最善.
+
+### 2026-08-30, iteration 1999 — [[words/最善|最善]]
+
+No stand-in relationship (both 最 and 善's own stand-ins are themselves). Filled blank `vietnamese` (tối thiện), removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 最大.
+
+### 2026-08-30, iteration 2000 — [[words/最大|最大]]
+
+No stand-in relationship (both 最 and 大's own stand-ins are themselves). Filled blank `vietnamese` (tối đại), reformatted `characters` with "(char)" quoting. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 最高点.
+
+### 2026-08-30, iteration 2001 — [[words/最高点|最高点]]
+
+No stand-in relationship (最, 高, 点's own stand-ins are all themselves). Filled blank `vietnamese` (tối cao điểm), quoted `characters` values consistently. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月中.
+
+### 2026-08-30, iteration 2002 — [[words/月中|月中]]
+
+No stand-in relationship (both 月 and 中's own stand-ins are themselves). Filled blank `korean`/`japanese`/`vietnamese`, added `kwin: false` (same 月-coda divergence documented on [[月]]), removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月刊.
