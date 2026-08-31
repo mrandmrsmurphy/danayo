@@ -1997,3 +1997,15 @@ Next: 桜桃.
 No stand-in relationship (桜's own stand-in is itself; 桃's own is [[桃子]]). Confirmed Korean 앵두 is a real lexicalized irregular form (compositional would be 앵도), not a bug. Added missing `pos`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 桶.
+
+### 2026-08-31, iteration 2115 — [[words/桶|桶]]
+
+This word is itself the stand-in for 桶. Added missing `japanese`/`hsk_level`. Completed the genuine 3-way homophone group with [[冬]] (already complete, anticipating both) and [[通]] (all 통) — fully fixed and cross-referenced all three: 通.md got missing `pos`/`japanese`/`hsk_level` added, blank `vietnamese` filled. Stamped `date-last-perfect: 2026-08-31` on 桶 and 通 (冬 was already stamped 2026-07-26; only its Notes text updated).
+
+Next: 梁.
+
+### 2026-08-31, iteration 2116 — [[words/梁|梁]]
+
+This word is itself the stand-in for 梁. Fixed literal `vietnamese: null` → lương, added missing `pos`/`japanese`/`hsk_level`. Completed the genuine 3-way homophone group with [[両]] (already complete, anticipating both) and [[糧]] (all 량) — fully fixed and cross-referenced all three: 糧.md got the same literal-null fix plus missing `pos`/`japanese`/`hsk_level` added. Also removed a redundant `品詞` field on 両.md. Stamped `date-last-perfect: 2026-08-31` on 梁 and 糧 (両 was already stamped 2026-07-26; only its Notes/frontmatter cleanup updated).
+
+Next: 梅花.
