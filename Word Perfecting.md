@@ -2009,3 +2009,15 @@ Next: 梁.
 This word is itself the stand-in for 梁. Fixed literal `vietnamese: null` → lương, added missing `pos`/`japanese`/`hsk_level`. Completed the genuine 3-way homophone group with [[両]] (already complete, anticipating both) and [[糧]] (all 량) — fully fixed and cross-referenced all three: 糧.md got the same literal-null fix plus missing `pos`/`japanese`/`hsk_level` added. Also removed a redundant `品詞` field on 両.md. Stamped `date-last-perfect: 2026-08-31` on 梁 and 糧 (両 was already stamped 2026-07-26; only its Notes/frontmatter cleanup updated).
 
 Next: 梅花.
+
+### 2026-08-31, iteration 2117 — [[words/梅花|梅花]]
+
+This word is itself the stand-in for 梅; 花's own stand-in is [[草花]]. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 梅雨.
+
+### 2026-08-31, iteration 2118 — [[words/梅雨|梅雨]]
+
+No stand-in relationship (梅's own stand-in is [[梅花]]; 雨's own is itself). Simplified `japanese` to the everyday つゆ reading (dropped secondary formal ばいう). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 梨木.
