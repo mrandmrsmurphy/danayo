@@ -1397,3 +1397,27 @@ Next: 朔日.
 This word is itself the stand-in for 朔; 日's own stand-in is itself. Fixed stray space in `mandarin`, filled blank `vietnamese`/`hsk_level: "無"`, removed empty `aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 朝鮮.
+
+### 2026-08-30, iteration 2015 — [[words/朝鮮|朝鮮]]
+
+No stand-in relationship (朝's own stand-in is itself; 鮮's own is [[新鮮]]). Documented a genuine sense-specific reading split on 鮮 (셤/-m for "fresh" vs 션/-n reserved for this country name and [[朝鮮正音]]/旗幟鮮明), confirmed consistent across the vault rather than a bug. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 期.
+
+### 2026-08-30, iteration 2016 — [[words/期|期]]
+
+This word is itself the stand-in for 期. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[起]] (both ㄎㄧ) — fully fixed and cross-referenced both sides: 起.md got literal `vietnamese: null` → khởi fixed, missing `pos`/`japanese`/`hsk_level` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-30` on both.
+
+Next: 期間.
+
+### 2026-08-30, iteration 2017 — [[words/期間|期間]]
+
+No stand-in relationship (期's own stand-in is itself; 間's own is [[之間]]). Simplified `mandarin` (dropped extra tone-sandhi variant), filled blank `vietnamese`, fixed bare-integer `hsk_level`, removed blank `swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 木偶.
+
+### 2026-08-30, iteration 2018 — [[words/木偶|木偶]]
+
+This word is itself the stand-in for 偶; 木's own stand-in is itself. Fixed real bug: `vietnamese` was contaminated with an unrelated native phrase (tượng gỗ) — corrected to compositional mộc ngẫu. Confirmed Japanese でく is a genuine jukujikun, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 木星.
