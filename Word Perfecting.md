@@ -2051,3 +2051,15 @@ Next: 森羅.
 No stand-in relationship (森's own stand-in is [[森林]]; 羅's own is [[羅馬]]). Fixed real bug: `羅馬字`/`諺文` (simlo/심로) didn't match 森's own citation or the word's own 注音 — corrected to sumlo/숨로. Filled blank `vietnamese`/`pos`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 棲息.
+
+### 2026-08-31, iteration 2124 — [[words/棲息|棲息]]
+
+This word is itself the stand-in for 棲; 息's own stand-in is [[気息]]. Confirmed `korean` 서식 is compositional (棲's own korean/諺文 divergence is a pre-existing character-level pattern, not a bug here). Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 棺.
+
+### 2026-08-31, iteration 2125 — [[words/棺|棺]]
+
+This word is itself the stand-in for 棺. Fixed literal `vietnamese: null` → quan, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[滾]] (both 관) — fully fixed and cross-referenced both sides: 滾.md got literal `vietnamese: null` → cuộn fixed and missing `japanese` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 椋鳥.
