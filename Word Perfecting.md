@@ -1775,3 +1775,27 @@ Next: 柵.
 This word is itself the stand-in for 柵. Added missing `japanese`/`kwin`. Discovered a genuine homophone with [[冊]] (already stamped 2026-06-29, missing its half) — retroactively added the reciprocal Homophones callout, removed a redundant `品詞` field, and quoted scalars for consistency. Stamped `date-last-perfect: 2026-08-31` on both.
 
 Next: 査問.
+
+### 2026-08-31, iteration 2078 — [[words/査問|査問]]
+
+No stand-in relationship (査's own stand-in is [[調査]]; 問's own is [[質問]]). Flagged that `mandarin` cháwèn uses 査's real alternate reading chá, missing from its own citation (only zhā stored) — character-level gap for future perfecting. Filled blank `japanese`/`korean`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柿木.
+
+### 2026-08-31, iteration 2079 — [[words/柿木|柿木]]
+
+This word is itself the stand-in for 柿. Fixed real bug: `mandarin` was garbled with the unrelated word 柿子's pinyin (shì zi → shìmù). Fixed `korean` (native 감 → compositional 시목), filled blank `vietnamese`, added `hsk_level: "無"`. Confirmed `japanese` カキノキ is a genuine species-name katakana convention, not a bug. Flagged an internal inconsistency on 柿's own character page for future perfecting. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 栄辱.
+
+### 2026-08-31, iteration 2080 — [[words/栄辱|栄辱]]
+
+No stand-in relationship (栄's own stand-in is [[光栄]]; 辱's own is [[羞辱]]). Simplified `mandarin` (dropped extra variant), filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 栓.
+
+### 2026-08-31, iteration 2081 — [[words/栓|栓]]
+
+This word is itself the stand-in for 栓. Added missing `japanese`/`hsk_level`. No word-level homophones (旋/選 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 栗鼠.
