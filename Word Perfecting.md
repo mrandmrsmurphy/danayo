@@ -1727,3 +1727,27 @@ Next: 枯.
 This word is itself the stand-in for 枯. Fixed literal `vietnamese: null` → khô, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine 3-way homophone group with [[苦]] and [[袴]] (all 코) — fully fixed and cross-referenced all three: 苦.md got missing `pos`/`japanese`/`hsk_level`/`vietnamese` filled (flagged a malformed comma-joined vietnamese string on 苦's own character citation for future perfecting), 袴.md got missing `japanese` filled, plus full mutual Homophones callouts on all three. Stamped `date-last-perfect: 2026-08-31` on all three.
 
 Next: 柄.
+
+### 2026-08-31, iteration 2070 — [[words/柄|柄]]
+
+This word is itself the stand-in for 柄. Added missing `japanese`/`hsk_level`. Confirmed the existing 3-way homophone group with [[丙]] and [[坪]] (all 병) was already correctly cross-referenced on all three pages. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柄国.
+
+### 2026-08-31, iteration 2071 — [[words/柄国|柄国]]
+
+No stand-in relationship (柄's own stand-in is itself; 国's own is [[国家]]). Fixed real bugs: `mandarin` extra unsupported variant, `cantonese` wrong vowel (bing3→beng3). Filled blank `japanese`/`korean`/`vietnamese`. Removed 秉國 from `aliases` (different character, near-synonym), kept genuine variant 柄國. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柔.
+
+### 2026-08-31, iteration 2072 — [[words/柔|柔]]
+
+This word is itself the stand-in for 柔. Fixed literal `vietnamese: null` → nhu, added missing `pos`/`japanese`/`hsk_level`. Confirmed the existing homophone with [[牛]] (both 뉴) was already correctly cross-referenced. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柔道.
+
+### 2026-08-31, iteration 2073 — [[words/柔道|柔道]]
+
+No stand-in relationship (both 柔 and 道's own stand-ins are themselves). Fixed real bug: `japanese` used an obsolete historical kana spelling (じうだう) instead of modern じゅうどう (verified against 5+ other 道-compounds). Removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柱.
