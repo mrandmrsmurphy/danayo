@@ -2105,3 +2105,21 @@ Next: 楊樹.
 No stand-in relationship (楊's own stand-in is [[楊柳]]; 樹's own is [[樹木]]). Confirmed `japanese`/`korean` loanwords (real-world standard for poplar) are correct, same pattern as [[板球]]/[[果醤]]. Filled blank `vietnamese` compositionally. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 楓樹.
+
+### 2026-08-31, iteration 2133 — [[words/楓樹|楓樹]]
+
+This word is itself the stand-in for 楓. Discovered a genuine homophone with [[風水]] (both 뿡수) — fully fixed and cross-referenced both sides: 風水.md got `mandarin` simplified (dropped extra tone variant), blank `hsk_level`/`swadesh` removed, plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 極.
+
+### 2026-08-31, iteration 2134 — [[words/極|極]]
+
+This word is itself the stand-in for 極. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. No word-level homophones (棘 shares the reading but has no independent word page). Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極刑.
+
+### 2026-08-31, iteration 2135 — [[words/極刑|極刑]]
+
+No stand-in relationship (極's own stand-in is itself; 刑's own is [[刑罰]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極右.
