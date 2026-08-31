@@ -1445,3 +1445,27 @@ Next: 末梢.
 This word is itself the stand-in for 梢; 末's own stand-in is [[末端]]. Filled blank `vietnamese` (mạt tiêu). No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 末端.
+
+### 2026-08-30, iteration 2023 — [[words/末端|末端]]
+
+Confirmed `#cranberry` tag is correct: both 末 and 端's own stand-ins point to this compound (transitivity holds, A=B=AB). Filled blank `vietnamese` (mạt đoan). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 本.
+
+### 2026-08-30, iteration 2024 — [[words/本|本]]
+
+This word is itself the stand-in for 本. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. No word-level homophones (坂/奔/飯 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 本塁打.
+
+### 2026-08-30, iteration 2025 — [[words/本塁打|本塁打]]
+
+No stand-in relationship (本's own stand-in is itself; 塁's own is [[壁塁]]; 打's own is [[打撃]]). Filled blank `vietnamese`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 本来.
+
+### 2026-08-30, iteration 2026 — [[words/本来|本来]]
+
+No stand-in relationship (both 本 and 来's own stand-ins are themselves). Filled blank `vietnamese`, fixed bare-integer `hsk_level`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 本校.
