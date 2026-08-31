@@ -1637,3 +1637,21 @@ Next: 東端.
 No stand-in relationship (東's own stand-in is [[東方]]; 端's own is [[末端]]). Filled blank `cantonese`/`vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 東芝.
+
+### 2026-08-31, iteration 2055 — [[words/東芝|東芝]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 芝's own is 名専字, name-only). Filled blank `vietnamese`. Reformatted the existing homophone callout with [[同志]] to the canonical multi-line format on both pages; also fixed a bare-integer `hsk_level` bug on 同志.md while there. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 東部.
+
+### 2026-08-31, iteration 2056 — [[words/東部|東部]]
+
+This word is itself the stand-in for 部; 東's own stand-in is [[東方]]. Fixed real bug: `cantonese` had the same garbled pinyin-style spelling as [[東方]] (dong1 bou6 → dung1 bou6). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 松.
+
+### 2026-08-31, iteration 2057 — [[words/松|松]]
+
+This word is itself the stand-in for 松. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[訟]] (both 숑) — fully fixed and cross-referenced both sides: 訟.md (already stamped 2026-08-10, missing its half) got the reciprocal Homophones callout added retroactively. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 松竹梅.
