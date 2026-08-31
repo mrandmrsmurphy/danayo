@@ -1847,3 +1847,21 @@ Next: 校舎.
 No stand-in relationship (校's own stand-in is [[学校]]; 舎's own is [[宿舎]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 校訂.
+
+### 2026-08-31, iteration 2090 — [[words/校訂|校訂]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 訂's own is itself). Confirmed `mandarin`/`cantonese` use the same 校 "proofread" polyphonic reading already flagged on [[校正]] — consistent, not a new bug. Reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校門.
+
+### 2026-08-31, iteration 2091 — [[words/校門|校門]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 門's own is [[大門]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 株.
+
+### 2026-08-31, iteration 2092 — [[words/株|株]]
+
+This word is itself the stand-in for 株. Fixed literal `vietnamese: null` → châu, added missing `pos`/`japanese`/`hsk_level`. Flagged an internal inconsistency on 株's own character page (諺文/羅馬字 두/du vs its own korean 주) for future perfecting. Completed the genuine homophone with [[兜]] (already anticipated by 兜's own Notes, awaiting this turn) — both pages now fully cross-referenced. Stamped `date-last-perfect: 2026-08-31` on 株 (兜 was already stamped 2026-07-26; only its Notes text updated).
+
+Next: 核.
