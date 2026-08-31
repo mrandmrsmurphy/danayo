@@ -1565,3 +1565,27 @@ Next: 来日.
 No stand-in relationship (both 来 and 日's own stand-ins are themselves). Fixed severe contamination: `mandarin`/`cantonese`/`vietnamese`/`japanese` had all been copied/garbled from the unrelated compound [[明日]] — corrected to 来+日's own compositional readings. Fixed `korean` South Korean 두음법칙 shift (내일→래일) per the North Korean vault convention. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 来月.
+
+### 2026-08-31, iteration 2043 — [[words/来月|来月]]
+
+No stand-in relationship (both 来 and 月's own stand-ins are themselves). Fixed real bug: `korean` was a garbled comma-joined pair mixing a South Korean shifted form with a native phrase — corrected to single North Korean form 래월. Filled blank `vietnamese`, added `kwin: false` (same 月-coda divergence as [[月]]), removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来臨.
+
+### 2026-08-31, iteration 2044 — [[words/来臨|来臨]]
+
+This word is itself the stand-in for 臨. Fixed real bugs: `korean` was a native verb (다가가다) instead of the compositional form — corrected to 래림; removed stray する suffix from `japanese`. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来週.
+
+### 2026-08-31, iteration 2045 — [[words/来週|来週]]
+
+No stand-in relationship (来's own stand-in is itself; 週's own is [[週日]]). Fixed severe contamination: `mandarin`/`cantonese` had been copied from unrelated compound 下週/下周 — corrected to 来's/週's own compositional readings; `korean` held a native phrase (다음주) instead of the compositional 래주. Filled blank `vietnamese`, removed 下周/下週 from `aliases` (different character, not an orthographic variant). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 杪小.
+
+### 2026-08-31, iteration 2046 — [[words/杪小|杪小]]
+
+This word is itself the stand-in for 杪. Filled blank `vietnamese`. Fixed wrong field name `alias:` and removed `渺小` (a homophone-based near-synonym using a different character, not a genuine alias). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東亜.
