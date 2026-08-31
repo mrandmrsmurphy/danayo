@@ -2135,3 +2135,15 @@ Next: 極左.
 No stand-in relationship (極's own stand-in is itself; 左's own is [[左側]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 極東.
+
+### 2026-08-31, iteration 2138 — [[words/極東|極東]]
+
+No stand-in relationship (極's own stand-in is itself; 東's own is [[東方]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極端.
+
+### 2026-08-31, iteration 2139 — [[words/極端|極端]]
+
+No stand-in relationship (極's own stand-in is itself; 端's own is [[末端]]). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極限.
