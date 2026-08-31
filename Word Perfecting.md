@@ -2093,3 +2093,15 @@ Next: 楊柳.
 This word is itself the stand-in for 楊 (bound, cannot stand alone). Filled blank `vietnamese`. Confirmed the already-noted irregular Japanese fused reading やなぎ, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 楊梅.
+
+### 2026-08-31, iteration 2131 — [[words/楊梅|楊梅]]
+
+No stand-in relationship (楊's own stand-in is [[楊柳]]; 梅's own is [[梅花]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楊樹.
+
+### 2026-08-31, iteration 2132 — [[words/楊樹|楊樹]]
+
+No stand-in relationship (楊's own stand-in is [[楊柳]]; 樹's own is [[樹木]]). Confirmed `japanese`/`korean` loanwords (real-world standard for poplar) are correct, same pattern as [[板球]]/[[果醤]]. Filled blank `vietnamese` compositionally. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楓樹.
