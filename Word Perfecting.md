@@ -1373,3 +1373,27 @@ Next: 有様.
 Discovered this is a rebus-substitution word: 有 stands in for the pageless character 宥 ("forgiving, lenient"), matching the 曼魚 pattern — `mandarin`/`cantonese`/`japanese` already correctly held 宥's real readings (yòu/jau6/ゆるす), not 有's own (yǒu/jau5). Filled blank `korean`/`vietnamese` with 宥's corresponding readings (유, hựu), added `kwin: false`. Flagged that 有's own character page doesn't yet document this substitution (unlike 曼's page for 鰻) — worth adding on a future character-perfecting pass. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 有生.
+
+### 2026-08-30, iteration 2011 — [[words/有生|有生]]
+
+No stand-in relationship (有's own stand-in is itself; 生's own is [[生活]]). Filled blank `japanese`/`korean`/`vietnamese` compositionally. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 服務員.
+
+### 2026-08-30, iteration 2012 — [[words/服務員|服務員]]
+
+No stand-in relationship (服's own stand-in is [[服事]]; 務's own is [[服務]]; 員's own is [[人員]]). Filled blank `japanese`/`korean`/`vietnamese`, added `kwin: false`, fixed bare-integer `hsk_level`. Flagged that 員's own stored Korean citation (운) diverges from the real-world standard 원 — character-level question for future perfecting. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 服従.
+
+### 2026-08-30, iteration 2013 — [[words/服従|服従]]
+
+This word is itself the stand-in for 従; 服's own stand-in is [[服事]]. Filled blank `vietnamese` (phục tùng). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 朔日.
+
+### 2026-08-30, iteration 2014 — [[words/朔日|朔日]]
+
+This word is itself the stand-in for 朔; 日's own stand-in is itself. Fixed stray space in `mandarin`, filled blank `vietnamese`/`hsk_level: "無"`, removed empty `aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 朝鮮.
