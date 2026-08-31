@@ -1751,3 +1751,27 @@ Next: 柔道.
 No stand-in relationship (both 柔 and 道's own stand-ins are themselves). Fixed real bug: `japanese` used an obsolete historical kana spelling (じうだう) instead of modern じゅうどう (verified against 5+ other 道-compounds). Removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 柱.
+
+### 2026-08-31, iteration 2074 — [[words/柱|柱]]
+
+This word is itself the stand-in for 柱. Fixed literal `vietnamese: null` → trụ, added missing `pos`/`japanese`/`hsk_level`. No word-level homophones (many bound characters share the reading but none has an independent word page). Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柳.
+
+### 2026-08-31, iteration 2075 — [[words/柳|柳]]
+
+This word is itself the stand-in for 柳. Fixed literal `vietnamese: null` → liễu, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[留]] (both 류) — fully fixed and cross-referenced both sides: 留.md got missing `pos`/`japanese` added, `vietnamese` reformatted, and stray lookup-page bullets removed (belonged on the character page), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 柴棍.
+
+### 2026-08-31, iteration 2076 — [[words/柴棍|柴棍]]
+
+This word is itself the stand-in for 柴; 棍's own stand-in is [[棍棒]]. Confirmed `mandarin`/`cantonese` correctly hold the real exonym 西貢's reading (avoided-name pattern, per [[丹金]]) rather than a bug; documented this explicitly. Reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 柵.
+
+### 2026-08-31, iteration 2077 — [[words/柵|柵]]
+
+This word is itself the stand-in for 柵. Added missing `japanese`/`kwin`. Discovered a genuine homophone with [[冊]] (already stamped 2026-06-29, missing its half) — retroactively added the reciprocal Homophones callout, removed a redundant `品詞` field, and quoted scalars for consistency. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 査問.
