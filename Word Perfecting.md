@@ -1211,3 +1211,21 @@ Next: 曇.
 This word is itself the stand-in for 曇. Added missing `pos`/`japanese` fields and `hsk_level: "無"`. Discovered a genuine homophone with [[痰]] (both ㄉㄚㄇ) — fully fixed and cross-referenced both sides: 痰.md got literal `vietnamese: null` → đàm fixed, `pos: 名詞`/`japanese: たん`/`hsk_level: "4"` added (its own stand-in), plus the reciprocal Homophones callout. No other candidates (湛/啖/担/淡/胆/譚/談 all share the 注音 but are bound with no independent word pages). Stamped `date-last-perfect: 2026-08-30` on both.
 
 Next: 曜日.
+
+### 2026-08-30, iteration 1984 — [[words/曜日|曜日]]
+
+This word is itself the stand-in for 曜; 日's own stand-in is itself. Filled blank `cantonese`/`vietnamese` compositionally (jiu6 jat6, diệu nhật). Flagged that 曜's own `hsk_level` is an empty string rather than "無" despite its HSK-No lookup listing — character-level gap, not fixed here. Removed blank `hsk_level`/`swadesh`/`aliases: []`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 曰.
+
+### 2026-08-30, iteration 1985 — [[words/曰|曰]]
+
+This word is itself the stand-in for 曰. Simplified `cantonese`/`japanese` to match the character's own citation (dropped unsupported extra variant readings jyut6/をち), filled `hsk_level: "4"`, removed blank `swadesh`, empty `aliases: []`, and the stray character-schema field `hanmun_edu_level`. Reformatted the existing 3-way homophone group with [[月]] and [[越]] (all 注音 ⼔ㄊ) to the canonical multi-line callout on all three pages; also fully perfected [[越]] in the process (was missing `pos`/`japanese`/`vietnamese`/`hsk_level`) and re-stamped [[月]] for the formatting fix. Stamped `date-last-perfect: 2026-08-30` on all three.
+
+Next: 曲折.
+
+### 2026-08-30, iteration 1986 — [[words/曲折|曲折]]
+
+No stand-in relationship (曲's own stand-in is [[歌曲]]; 折's own is [[折畳]]). Filled blank `vietnamese` (khúc chiết), removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 更.
