@@ -1913,3 +1913,27 @@ Next: 格助詞.
 No stand-in relationship (格's own stand-in is itself; 助's own is [[援助]]; 詞's own is [[単詞]]). Fixed real bugs: `mandarin`/`cantonese` were entirely blank, filled compositionally; `vietnamese` held placeholder text "sd" instead of real content, corrected to cách trợ từ. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 格式.
+
+### 2026-08-31, iteration 2101 — [[words/格式|格式]]
+
+No stand-in relationship (格's own stand-in is itself; 式's own is [[様式]]). Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桁.
+
+### 2026-08-31, iteration 2102 — [[words/桁|桁]]
+
+This word is itself the stand-in for 桁. Added missing `japanese`/`hsk_level`. Reformatted the existing 3-way homophone group with [[行]] (already complete) and [[項]] (all 항) to the canonical multi-line callout on all three pages; also fully perfected [[項]] in the process (fixed literal `vietnamese: null`, added missing `pos`/`japanese`). Stamped `date-last-perfect: 2026-08-31` on 桁 and 項 (行 was already stamped 2026-08-03; only its callout format updated).
+
+Next: 桂月.
+
+### 2026-08-31, iteration 2103 — [[words/桂月|桂月]]
+
+No stand-in relationship (桂's own stand-in is [[肉桂]]; 月's own is itself). Confirmed `japanese`/`vietnamese` correctly follow the established poetic-month native-kun'yomi convention. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桃子.
+
+### 2026-08-31, iteration 2104 — [[words/桃子|桃子]]
+
+This word is itself the stand-in for 桃; 子's own stand-in is [[児子]]. Confirmed all readings already correct (japanese とうし verified compositional). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桃月.
