@@ -1967,3 +1967,15 @@ Next: 桌.
 This word is itself the stand-in for 桌. Simplified comma-joined `mandarin`/`cantonese`/`vietnamese` to primary forms, flagged the same malformed-string issue on 桌's own character citation for future perfecting. Added missing `pos`/`japanese`/`hsk_level`. No word-level homophones (橐/拓/卓/琢/託 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 桌球.
+
+### 2026-08-31, iteration 2110 — [[words/桌球|桌球]]
+
+No stand-in relationship (both 桌 and 球's own stand-ins are themselves). Fixed real bugs: `cantonese` garbled initial (zoek3→cheuk3), `japanese` obsolete kana (たくきう→たくきゅう). Filled blank `vietnamese`/`pos`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桑木.
+
+### 2026-08-31, iteration 2111 — [[words/桑木|桑木]]
+
+This word is itself the stand-in for 桑. Fixed real bugs: `mandarin`/`cantonese` were copied from unrelated compound 桑樹/桑树; `korean` was 桑's own native word (뽕나무) instead of compositional 상목. Confirmed Japanese くわ is a genuine native term, not a bug. Filled blank `vietnamese`, removed 桑樹/桑树 from `aliases` (different character, near-synonym). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桑田.
