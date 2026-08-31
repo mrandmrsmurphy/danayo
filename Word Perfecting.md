@@ -1703,3 +1703,27 @@ Next: 果醤.
 This word is itself the stand-in for 醤. Confirmed `japanese`/`korean` loanwords (no real-world compositional term exists for jam) are correct, same pattern as [[板球]]. Filled blank `vietnamese` with the compositional form. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 枢.
+
+### 2026-08-31, iteration 2066 — [[words/枢|枢]]
+
+This word is itself the stand-in for 枢. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine 3-way homophone group with [[臭]] and [[趨]] (all 추) — fully fixed and cross-referenced all three: 臭.md got blank `japanese`/`vietnamese` filled, 趨.md got blank `japanese` filled, plus full mutual Homophones callouts on all three. Stamped `date-last-perfect: 2026-08-31` on all three.
+
+Next: 枢机.
+
+### 2026-08-31, iteration 2067 — [[words/枢机|枢机]]
+
+No stand-in relationship (枢's own stand-in is itself; 机's own is [[机会]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 枢机卿.
+
+### 2026-08-31, iteration 2068 — [[words/枢机卿|枢机卿]]
+
+No stand-in relationship (枢's own stand-in is itself; 机's own is [[机会]]; 卿's own is itself). Fixed real bug: `mandarin` was missing the 卿 syllable entirely (shūjī → shūjīqīng). Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 枯.
+
+### 2026-08-31, iteration 2069 — [[words/枯|枯]]
+
+This word is itself the stand-in for 枯. Fixed literal `vietnamese: null` → khô, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine 3-way homophone group with [[苦]] and [[袴]] (all 코) — fully fixed and cross-referenced all three: 苦.md got missing `pos`/`japanese`/`hsk_level`/`vietnamese` filled (flagged a malformed comma-joined vietnamese string on 苦's own character citation for future perfecting), 袴.md got missing `japanese` filled, plus full mutual Homophones callouts on all three. Stamped `date-last-perfect: 2026-08-31` on all three.
+
+Next: 柄.
