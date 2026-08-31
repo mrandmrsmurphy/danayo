@@ -1799,3 +1799,21 @@ Next: 栓.
 This word is itself the stand-in for 栓. Added missing `japanese`/`hsk_level`. No word-level homophones (旋/選 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 栗鼠.
+
+### 2026-08-31, iteration 2082 — [[words/栗鼠|栗鼠]]
+
+No stand-in relationship (栗 has its own word page; 鼠's own stand-in is [[熊鼠]]). Fixed real bug: `korean` was a native word (다람쥐) instead of compositional 률서. Confirmed `japanese` りす is a genuine native term, not a bug. Filled blank `vietnamese`, added `hsk_level: "無"`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校内.
+
+### 2026-08-31, iteration 2083 — [[words/校内|校内]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 内's own is [[内部]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校区.
+
+### 2026-08-31, iteration 2084 — [[words/校区|校区]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 区's own is [[区域]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校外.
