@@ -1979,3 +1979,21 @@ Next: 桑木.
 This word is itself the stand-in for 桑. Fixed real bugs: `mandarin`/`cantonese` were copied from unrelated compound 桑樹/桑树; `korean` was 桑's own native word (뽕나무) instead of compositional 상목. Confirmed Japanese くわ is a genuine native term, not a bug. Filled blank `vietnamese`, removed 桑樹/桑树 from `aliases` (different character, near-synonym). No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 桑田.
+
+### 2026-08-31, iteration 2112 — [[words/桑田|桑田]]
+
+No stand-in relationship (桑's own stand-in is [[桑木]]; 田's own is [[田野]]). Filled blank `cantonese`/`korean`/`vietnamese`, removed empty `aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桜.
+
+### 2026-08-31, iteration 2113 — [[words/桜|桜]]
+
+This word is itself the stand-in for 桜. Fixed malformed `羅馬字` (ang → 'ang, restoring the null-initial apostrophe), added missing `japanese`/`hsk_level`. Discovered a genuine homophone with [[硬]] (both 앙) — fully fixed and cross-referenced both sides: 硬.md got the same 羅馬字 fix, missing `japanese`/`hsk_level` added, blank `vietnamese` filled, plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 桜桃.
+
+### 2026-08-31, iteration 2114 — [[words/桜桃|桜桃]]
+
+No stand-in relationship (桜's own stand-in is itself; 桃's own is [[桃子]]). Confirmed Korean 앵두 is a real lexicalized irregular form (compositional would be 앵도), not a bug. Added missing `pos`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桶.
