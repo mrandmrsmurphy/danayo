@@ -1229,3 +1229,27 @@ Next: 曲折.
 No stand-in relationship (曲's own stand-in is [[歌曲]]; 折's own is [[折畳]]). Filled blank `vietnamese` (khúc chiết), removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 更.
+
+### 2026-08-30, iteration 1987 — [[words/更|更]]
+
+This word is itself the stand-in for 更. Filled blank `vietnamese` (cánh, the "more" sense, distinct from canh used for the "change" sense in [[更新]]), added missing `pos`/`japanese`/`hsk_level`. No word-level homophones (many bound characters share the reading but none has an independent word page). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 更少.
+
+### 2026-08-30, iteration 1988 — [[words/更少|更少]]
+
+No stand-in relationship (both 更 and 少's own stand-ins are themselves). Replaced contaminated `japanese`/`korean` (よりなく native phrase, 더 unrelated native "more") with correct compositional forms (こうしょう, 갱소), filled blank `cantonese`/`vietnamese`, fixed stray space in `mandarin`, removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML with "(char)" suffix on both (each has its own word page). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 更新.
+
+### 2026-08-30, iteration 1989 — [[words/更新|更新]]
+
+No stand-in relationship (both 更 and 新's own stand-ins are themselves). Flagged that `mandarin` gēngxīn uses 更's "change" reading (gēng), missing from the character's own citation (only "gèng" stored) — character-level gap for future perfecting. Removed blank `hsk_level`/`swadesh`/`aliases`, reformatted `characters` to block-list YAML with "(char)" suffix on both. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 更迭.
+
+### 2026-08-30, iteration 1990 — [[words/更迭|更迭]]
+
+This word is itself the stand-in for 迭. Flagged that `mandarin`/`korean` use real alternate readings of 更 (gēng/경, "change" sense) missing from its citation, same gap as [[更新]]. Filled blank `vietnamese` (canh điệt), added `hsk_level: "無"` (matching 迭). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 書房.
