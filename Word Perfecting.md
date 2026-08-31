@@ -1325,3 +1325,27 @@ Next: 月中.
 No stand-in relationship (both 月 and 中's own stand-ins are themselves). Filled blank `korean`/`japanese`/`vietnamese`, added `kwin: false` (same 月-coda divergence documented on [[月]]), removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 月刊.
+
+### 2026-08-30, iteration 2003 — [[words/月刊|月刊]]
+
+No stand-in relationship (both 月 and 刊's own stand-ins are themselves). Fixed real bug: `vietnamese` typo (guyệt san → nguyệt san). Removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月初.
+
+### 2026-08-30, iteration 2004 — [[words/月初|月初]]
+
+No stand-in relationship (月's own stand-in is itself; 初's own is [[最初]]). Fixed real bug: `cantonese` was contaminated (yue2 cu1 → jyut6 co1). Filled blank `vietnamese`, corrected `kwin` true→false (same 月-coda divergence as [[月]]), removed redundant `品詞`, reformatted `japanese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月曜日.
+
+### 2026-08-30, iteration 2005 — [[words/月曜日|月曜日]]
+
+No stand-in relationship (this compound is itself 曜's stand-in; 月/日's own stand-ins are themselves). Confirmed `vietnamese` thứ hai (native weekday name) matches the established convention on 日曜日/火曜日/水曜日 rather than being a bug. Removed the stray character-schema field `graphemic_classification`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月経.
+
+### 2026-08-30, iteration 2006 — [[words/月経|月経]]
+
+No stand-in relationship (both 月 and 経's own stand-ins are themselves). Filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月虹.
