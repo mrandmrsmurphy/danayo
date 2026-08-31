@@ -2123,3 +2123,15 @@ Next: 極刑.
 No stand-in relationship (極's own stand-in is itself; 刑's own is [[刑罰]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 極右.
+
+### 2026-08-31, iteration 2136 — [[words/極右|極右]]
+
+No stand-in relationship (極's own stand-in is itself; 右's own is [[右側]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極左.
+
+### 2026-08-31, iteration 2137 — [[words/極左|極左]]
+
+No stand-in relationship (極's own stand-in is itself; 左's own is [[左側]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 極東.
