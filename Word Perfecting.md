@@ -1817,3 +1817,33 @@ Next: 校区.
 No stand-in relationship (校's own stand-in is [[学校]]; 区's own is [[区域]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 校外.
+
+### 2026-08-31, iteration 2085 — [[words/校外|校外]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 外's own is [[外部]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校服.
+
+### 2026-08-31, iteration 2086 — [[words/校服|校服]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 服's own is [[服事]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校歌.
+
+### 2026-08-31, iteration 2087 — [[words/校歌|校歌]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 歌's own is [[歌曲]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校正.
+
+### 2026-08-31, iteration 2088 — [[words/校正|校正]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 正's own is itself). Flagged that `mandarin`/`cantonese` use 校's real "proofread" polyphonic reading (jiào/gaau3), missing from the character's own citation (only xiào/haau6 stored) — character-level gap for future perfecting. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校舎.
+
+### 2026-08-31, iteration 2089 — [[words/校舎|校舎]]
+
+No stand-in relationship (校's own stand-in is [[学校]]; 舎's own is [[宿舎]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 校訂.
