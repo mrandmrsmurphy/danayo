@@ -2147,3 +2147,15 @@ Next: 極端.
 No stand-in relationship (極's own stand-in is itself; 端's own is [[末端]]). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 極限.
+
+### 2026-08-31, iteration 2140 — [[words/極限|極限]]
+
+No stand-in relationship (極's own stand-in is itself; 限's own is [[限度]]). Fixed real bug: `vietnamese` was a native descriptive phrase (giới hạn) instead of the compositional form — corrected to cực hạn. Removed blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楷.
+
+### 2026-08-31, iteration 2141 — [[words/楷|楷]]
+
+This word is itself the stand-in for 楷. Added missing `japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楼閣.
