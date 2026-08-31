@@ -2069,3 +2069,15 @@ Next: 椋鳥.
 This word is itself the stand-in for 椋. Fixed real bug: `諺文` first syllable 령→량; `korean` was a native bird name (찌르레기) instead of compositional 량조. Confirmed Japanese むくどり is a genuine native term. Removed redundant `品詞`; left `vietnamese` blank and flagged a character-level gap (椋's own citation stores only a null marker). No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 植物.
+
+### 2026-08-31, iteration 2127 — [[words/植物|植物]]
+
+This word is itself the stand-in for 植; 物's own stand-in is itself. Added missing `pos`, removed empty `aliases: []`. While verifying the existing homophone with [[食物]], discovered and fixed a real contamination bug on that page: `mandarin`/`cantonese` had been copied from its own alias 食品's readings instead of 食物's own compositional forms; also filled its blank `vietnamese`. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 椎菌.
+
+### 2026-08-31, iteration 2128 — [[words/椎菌|椎菌]]
+
+No stand-in relationship (椎's own stand-in is [[脊椎]]; 菌's own is [[細菌]]). Confirmed this is a Dan'a'yo-only coinage (椎 used in its Japanese "shii-tree" sense, echoing real 椎茸 etymology): mandarin/cantonese/korean/vietnamese correctly hold real terms for shiitake, not compositional readings, since no real Chinese/Korean/Vietnamese term derives from 椎+菌. Reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 検証.
