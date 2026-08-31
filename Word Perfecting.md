@@ -2063,3 +2063,9 @@ Next: 棺.
 This word is itself the stand-in for 棺. Fixed literal `vietnamese: null` → quan, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[滾]] (both 관) — fully fixed and cross-referenced both sides: 滾.md got literal `vietnamese: null` → cuộn fixed and missing `japanese` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
 
 Next: 椋鳥.
+
+### 2026-08-31, iteration 2126 — [[words/椋鳥|椋鳥]]
+
+This word is itself the stand-in for 椋. Fixed real bug: `諺文` first syllable 령→량; `korean` was a native bird name (찌르레기) instead of compositional 량조. Confirmed Japanese むくどり is a genuine native term. Removed redundant `品詞`; left `vietnamese` blank and flagged a character-level gap (椋's own citation stores only a null marker). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 植物.
