@@ -1865,3 +1865,27 @@ Next: 株.
 This word is itself the stand-in for 株. Fixed literal `vietnamese: null` → châu, added missing `pos`/`japanese`/`hsk_level`. Flagged an internal inconsistency on 株's own character page (諺文/羅馬字 두/du vs its own korean 주) for future perfecting. Completed the genuine homophone with [[兜]] (already anticipated by 兜's own Notes, awaiting this turn) — both pages now fully cross-referenced. Stamped `date-last-perfect: 2026-08-31` on 株 (兜 was already stamped 2026-07-26; only its Notes text updated).
 
 Next: 核.
+
+### 2026-08-31, iteration 2093 — [[words/核|核]]
+
+This word is itself the stand-in for 核. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. Completed the genuine 3-way homophone group with [[嚇]] (already complete, anticipating both) and [[鶴]] (all 학) — fully fixed and cross-referenced all three: 鶴.md got a real Japanese voicing bug fixed (がく→かく), redundant `品詞` removed, `hsk_level: "無"` added. Stamped `date-last-perfect: 2026-08-31` on 核 and 鶴 (嚇 was already stamped 2026-07-27; only its Notes text updated).
+
+Next: 核金.
+
+### 2026-08-31, iteration 2094 — [[words/核金|核金]]
+
+Periodic-table neologism (ytterbium); confirmed `mandarin`/`cantonese` correctly hold the avoided real character 镱's reading, matching the [[丹金]] pattern. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 根.
+
+### 2026-08-31, iteration 2095 — [[words/根|根]]
+
+This word is itself the stand-in for 根. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 根拠.
+
+### 2026-08-31, iteration 2096 — [[words/根拠|根拠]]
+
+No stand-in relationship (根's own stand-in is itself; 拠's own is [[依拠]]). Fixed bare-integer `hsk_level`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 根本.
