@@ -2165,3 +2165,15 @@ Next: 楼閣.
 No stand-in relationship (楼's own stand-in is [[望楼]]; 閣's own is [[内閣]]). Fixed real bug: `korean` was 누각, the South Korean shifted form — corrected to North Korean 루각 (the prior prose had incorrectly documented the shifted form as standard). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 楽経.
+
+### 2026-08-31, iteration 2143 — [[words/楽経|楽経]]
+
+No stand-in relationship (楽's own stand-in is [[快楽]]; 経's own is itself). Confirmed mandarin/cantonese/korean/vietnamese all correctly use 楽's real "music" reading (yuè-sense), missing from the character's own citation (only "pleasure"-sense lè stored) — character-level gap flagged for future perfecting. Filled blank `vietnamese`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楽譜.
+
+### 2026-08-31, iteration 2144 — [[words/楽譜|楽譜]]
+
+This word is itself the stand-in for 譜. Confirmed mandarin/cantonese use 楽's real "music" reading, consistent with [[楽経]]'s character-level gap. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 概.
