@@ -2177,3 +2177,15 @@ Next: 楽譜.
 This word is itself the stand-in for 譜. Confirmed mandarin/cantonese use 楽's real "music" reading, consistent with [[楽経]]'s character-level gap. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 概.
+
+### 2026-08-31, iteration 2145 — [[words/概|概]]
+
+This word is itself the stand-in for 概. Fixed literal `vietnamese: null` and literal quoted-string `korean: "null"` → khái/개, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[改]] (already stamped 2026-06-27, missing its half) — retroactively filled 改's blank `vietnamese` and added the reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 概要.
+
+### 2026-08-31, iteration 2146 — [[words/概要|概要]]
+
+No stand-in relationship (概's own stand-in is itself; 要's own is [[重要]]). Fixed empty-string `vietnamese`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 榜文.
