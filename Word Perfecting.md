@@ -1517,3 +1517,27 @@ Next: 杏月.
 No stand-in relationship (杏's own stand-in is [[杏子]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established native-kun'yomi + zodiac/poetic-name convention (see [[寅月]], [[卯月]], [[未月]]). Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 材木.
+
+### 2026-08-30, iteration 2035 — [[words/材木|材木]]
+
+No stand-in relationship (材's own stand-in is [[材料]]; 木's own is itself). Fixed severe contamination: `mandarin`/`cantonese`/`japanese` had all been swapped for the reversed-order compound 木材's readings instead of 材木's own; `korean` held 제목 ("title," an unrelated word); `vietnamese` held two garbled native phrases instead of a real translation. Removed 木料/木材 from `aliases` (distinct synonym compounds, not orthographic variants). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 杖.
+
+### 2026-08-30, iteration 2036 — [[words/杖|杖]]
+
+This word is itself the stand-in for 杖. Added missing `japanese`/`hsk_level`. Reformatted the existing 3-way homophone group with [[長]] (already complete) and [[章]] (all 注音 ㄐㄚㄫ) to the canonical multi-line callout on all three pages; also fully perfected [[章]] in the process (removed redundant `品詞`, added Notes). Stamped `date-last-perfect: 2026-08-30` on both 杖 and 章.
+
+Next: 杜金.
+
+### 2026-08-30, iteration 2037 — [[words/杜金|杜金]]
+
+Periodic-table neologism (dubnium); confirmed `mandarin`/`cantonese` use 杜's own reading directly (not an avoided-character substitution, unlike [[丹金]]'s pattern), and `korean`/`japanese`/`vietnamese` correctly hold IUPAC loanword transcriptions. Confirmed existing reciprocal homophone tip with [[鍍金]] is correct and consistent. Quoted/reformatted YAML. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 束縛.
+
+### 2026-08-30, iteration 2038 — [[words/束縛|束縛]]
+
+This word is itself the stand-in for 縛; 束's own stand-in is itself. Simplified `mandarin`, filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 条約.
