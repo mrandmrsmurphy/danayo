@@ -1655,3 +1655,51 @@ Next: 松.
 This word is itself the stand-in for 松. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[訟]] (both 숑) — fully fixed and cross-referenced both sides: 訟.md (already stamped 2026-08-10, missing its half) got the reciprocal Homophones callout added retroactively. Stamped `date-last-perfect: 2026-08-31` on both.
 
 Next: 松竹梅.
+
+### 2026-08-31, iteration 2058 — [[words/松竹梅|松竹梅]]
+
+No stand-in relationship (松's own stand-in is itself; 竹's own is itself; 梅's own is [[梅花]]). Fixed a real byte-level bug: `諺文`'s first syllable was the visually-similar-but-distinct codepoint 쇽 (U+C1FD) instead of 숑 (U+C211), while `羅馬字` already had it right. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 板球.
+
+### 2026-08-31, iteration 2059 — [[words/板球|板球]]
+
+No stand-in relationship (板's own stand-in is [[木板]]; 球's own is itself). Confirmed `japanese`/`korean` loanwords (no real-world compositional term exists for cricket in these languages) are correct as-is, not a bug. Filled blank `vietnamese` (loanword, same reasoning). Removed empty `aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 枕頭.
+
+### 2026-08-31, iteration 2060 — [[words/枕頭|枕頭]]
+
+This word is itself the stand-in for 枕; 頭's own stand-in is itself. Fixed real bug: `korean` was 枕's native-Korean field value (베개) instead of its compositional 침 — corrected to 침두. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 林.
+
+### 2026-08-31, iteration 2061 — [[words/林|林]]
+
+This word is itself the stand-in for 林. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[淋]] (both 림) — fully fixed and cross-referenced both sides: 淋.md got missing `japanese`/`kwin` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 林業.
+
+### 2026-08-31, iteration 2062 — [[words/林業|林業]]
+
+No stand-in relationship (both 林 and 業's own stand-ins are themselves). Fixed real bugs: `cantonese` missing internal space; `japanese` used an obsolete historical kana spelling (りんげふ) instead of modern りんぎょう (verified against every other 業-compound in the vault); `korean` was the South Korean shifted form (임업) instead of North Korean 림업. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 果子.
+
+### 2026-08-31, iteration 2063 — [[words/果子|果子]]
+
+No stand-in relationship (果's own stand-in is [[果実]]; 子's own is [[児子]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 果汁.
+
+### 2026-08-31, iteration 2064 — [[words/果汁|果汁]]
+
+No stand-in relationship (果's own stand-in is [[果実]]; 汁's own is itself). Fixed real bug: `vietnamese` was a native descriptive phrase (Nước sinh tố) instead of the compositional form — corrected to quả chấp. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 果醤.
+
+### 2026-08-31, iteration 2065 — [[words/果醤|果醤]]
+
+This word is itself the stand-in for 醤. Confirmed `japanese`/`korean` loanwords (no real-world compositional term exists for jam) are correct, same pattern as [[板球]]. Filled blank `vietnamese` with the compositional form. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 枢.
