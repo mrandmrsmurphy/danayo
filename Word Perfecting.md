@@ -2039,3 +2039,15 @@ Next: 棍棒.
 Confirmed `#cranberry` tag is correct: both 棍 and 棒's own stand-ins point to this compound (transitivity holds, A=B=AB). Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 棗椰.
+
+### 2026-08-31, iteration 2122 — [[words/棗椰|棗椰]]
+
+This word is itself the stand-in for 棗; 椰's own stand-in is [[椰子]]. Confirmed `japanese`/`vietnamese` are correct real-world species terms, not bugs. Fixed real bugs: `mandarin` had stray "zi" suffix, `cantonese` was blank, `korean` was 棗's native word (대추) instead of compositional 조야. Removed `棗樹`/`枣树` from `aliases` (different character, near-synonym). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 森羅.
+
+### 2026-08-31, iteration 2123 — [[words/森羅|森羅]]
+
+No stand-in relationship (森's own stand-in is [[森林]]; 羅's own is [[羅馬]]). Fixed real bug: `羅馬字`/`諺文` (simlo/심로) didn't match 森's own citation or the word's own 注音 — corrected to sumlo/숨로. Filled blank `vietnamese`/`pos`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 棲息.
