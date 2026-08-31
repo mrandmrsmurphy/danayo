@@ -1349,3 +1349,27 @@ Next: 月経.
 No stand-in relationship (both 月 and 経's own stand-ins are themselves). Filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 月虹.
+
+### 2026-08-30, iteration 2007 — [[words/月虹|月虹]]
+
+This word is itself the stand-in for 虹; 月's own stand-in is itself. Fixed real bug: `korean` was garbled with an unclear extra value, simplified to clean compositional 월홍. Filled blank `vietnamese`, added `kwin: false` (same 月-coda divergence as [[月]]). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 月食.
+
+### 2026-08-30, iteration 2008 — [[words/月食|月食]]
+
+No stand-in relationship (both 月 and 食's own stand-ins are themselves). Fixed real bug: `cantonese` typo (jyu6 → jyut6). Corrected `kwin` true→false (same 月-coda divergence as [[月]]). Filled `pos`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 有机.
+
+### 2026-08-30, iteration 2009 — [[words/有机|有机]]
+
+No stand-in relationship (有's own stand-in is itself; 机's own is [[机会]]). Removed self-referential `有机` from `aliases`, kept genuine traditional variant `有機`. Removed blank `hsk_level`/`swadesh`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 有様.
+
+### 2026-08-30, iteration 2010 — [[words/有様|有様]]
+
+Discovered this is a rebus-substitution word: 有 stands in for the pageless character 宥 ("forgiving, lenient"), matching the 曼魚 pattern — `mandarin`/`cantonese`/`japanese` already correctly held 宥's real readings (yòu/jau6/ゆるす), not 有's own (yǒu/jau5). Filled blank `korean`/`vietnamese` with 宥's corresponding readings (유, hựu), added `kwin: false`. Flagged that 有's own character page doesn't yet document this substitution (unlike 曼's page for 鰻) — worth adding on a future character-perfecting pass. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 有生.
