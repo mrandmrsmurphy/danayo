@@ -2021,3 +2021,9 @@ Next: 梅雨.
 No stand-in relationship (梅's own stand-in is [[梅花]]; 雨's own is itself). Simplified `japanese` to the everyday つゆ reading (dropped secondary formal ばいう). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 梨木.
+
+### 2026-08-31, iteration 2119 — [[words/梨木|梨木]]
+
+This word is itself the stand-in for 梨. Fixed real bugs: `mandarin`/`cantonese` copied from unrelated compound 梨樹/梨树; `korean` was a native genus-level term instead of compositional 리목; `vietnamese` was truncated (missing 木's half). Confirmed Japanese なし is a genuine native term, not a bug. Removed 梨樹/梨树 from `aliases` (different character, near-synonym). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 梳.
