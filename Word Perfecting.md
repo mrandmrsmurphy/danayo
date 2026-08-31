@@ -1469,3 +1469,51 @@ Next: 本来.
 No stand-in relationship (both 本 and 来's own stand-ins are themselves). Filled blank `vietnamese`, fixed bare-integer `hsk_level`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 本校.
+
+### 2026-08-30, iteration 2027 — [[words/本校|本校]]
+
+No stand-in relationship (本's own stand-in is itself; 校's own is [[学校]]). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 本質.
+
+### 2026-08-30, iteration 2028 — [[words/本質|本質]]
+
+No stand-in relationship (本's own stand-in is itself; 質's own is [[質素]]). Simplified `mandarin` (dropped extra variant), removed self-referential `本質` from `aliases` (kept genuine simplified 本质), removed blank `swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 札.
+
+### 2026-08-30, iteration 2029 — [[words/札|札]]
+
+This word is itself the stand-in for 札. Fixed literal `vietnamese: null` → trát, added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[紮]] (both ㄐㄚㄊ) — fully fixed and cross-referenced both sides: 紮.md got missing `japanese`/`hsk_level` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-30` on both.
+
+Next: 朱沙.
+
+### 2026-08-30, iteration 2030 — [[words/朱沙|朱沙]]
+
+This word is itself the stand-in for 沙, and (per 朱's own Words section) also for 朱, despite 朱's frontmatter stand_in field reading "朱砂" instead of "朱沙" — flagged as a minor character-level inconsistency for future perfecting. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 朴木.
+
+### 2026-08-30, iteration 2031 — [[words/朴木|朴木]]
+
+This word is itself the stand-in for 朴; 木's own stand-in is itself. Fixed real bugs: `mandarin` had the wrong tone and was missing the 木 half (pò → pǔmù); `cantonese` was likewise missing the 木 half (pok3 → pok3 muk6). Confirmed Japanese ほほのき is a genuine native term, not a bug. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 机械.
+
+### 2026-08-30, iteration 2032 — [[words/机械|机械]]
+
+This word is itself the stand-in for 械 (机's graphemic form of 機). All readings already correct/compositional. Quoted scalar values for consistency, reformatted field order. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 杆.
+
+### 2026-08-30, iteration 2033 — [[words/杆|杆]]
+
+This word is itself the stand-in for 杆. Added missing `pos`/`japanese`/`hsk_level`/`kwin: true`. No word-level homophones (many bound characters share the reading but none has an independent word page). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 杏月.
+
+### 2026-08-30, iteration 2034 — [[words/杏月|杏月]]
+
+No stand-in relationship (杏's own stand-in is [[杏子]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established native-kun'yomi + zodiac/poetic-name convention (see [[寅月]], [[卯月]], [[未月]]). Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 材木.
