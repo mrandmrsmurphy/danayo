@@ -1277,3 +1277,27 @@ Next: 書籍.
 This word is itself the stand-in for 籍; 書's own stand-in is [[書本]]. Filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 曼魚.
+
+### 2026-08-30, iteration 1995 — [[words/曼魚|曼魚]]
+
+Rebus-substitution word (曼 stands in for the pageless real character 鰻 "eel", per 曼's own documented Notes). Fixed real bug: `korean` was the native descriptive word 뱀장어, replaced with the compositional Sino-Korean form 만어. Cleaned `mandarin` (dropped the extra mányú variant to a prose note), added `hsk_level: "無"`, reformatted `characters`/`aliases` to block-list YAML. Confirmed `japanese` むなぎ is a genuine archaic form, not a typo. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 曽.
+
+### 2026-08-30, iteration 1996 — [[words/曽|曽]]
+
+This word is itself the stand-in for 曽. Filled blank `vietnamese` (từng, matching the character's citation) and added missing `pos`/`japanese`/`hsk_level`; flagged that the real-world standard reading "tằng" is missing from the character's own citation, a character-level gap for future perfecting. No word-level homophones (増/憎/贈 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 曽子.
+
+### 2026-08-30, iteration 1997 — [[words/曽子|曽子]]
+
+No stand-in relationship (曽's own stand-in is itself; 子's own is [[児子]]). Removed a false "same sound as 中指" tip callout — checked all five languages plus 注音, none actually match. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 最.
+
+### 2026-08-30, iteration 1998 — [[words/最|最]]
+
+This word is itself the stand-in for 最. Fixed literal `vietnamese: null` → tối, added missing `pos`/`japanese`/`hsk_level`, `kwin: false` (諺文 줘 ≠ real Korean 최, a genuine divergence). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 最善.
