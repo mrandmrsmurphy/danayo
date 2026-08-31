@@ -2027,3 +2027,15 @@ Next: 梨木.
 This word is itself the stand-in for 梨. Fixed real bugs: `mandarin`/`cantonese` copied from unrelated compound 梨樹/梨树; `korean` was a native genus-level term instead of compositional 리목; `vietnamese` was truncated (missing 木's half). Confirmed Japanese なし is a genuine native term, not a bug. Removed 梨樹/梨树 from `aliases` (different character, near-synonym). No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 梳.
+
+### 2026-08-31, iteration 2120 — [[words/梳|梳]]
+
+This word is itself the stand-in for 梳. Added missing `japanese`/`hsk_level`. Reformatted the existing homophone callout with [[小]] (already complete) to the canonical multi-line format. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 棍棒.
+
+### 2026-08-31, iteration 2121 — [[words/棍棒|棍棒]]
+
+Confirmed `#cranberry` tag is correct: both 棍 and 棒's own stand-ins point to this compound (transitivity holds, A=B=AB). Filled blank `cantonese`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 棗椰.
