@@ -1589,3 +1589,51 @@ Next: 杪小.
 This word is itself the stand-in for 杪. Filled blank `vietnamese`. Fixed wrong field name `alias:` and removed `渺小` (a homophone-based near-synonym using a different character, not a genuine alias). No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 東亜.
+
+### 2026-08-31, iteration 2047 — [[words/東亜|東亜]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 亜's own is [[亜細亜]]). Simplified `mandarin` (dropped extra variant), removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東京.
+
+### 2026-08-31, iteration 2048 — [[words/東京|東京]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 京's own is [[京城]]). Simplified `korean` to the compositional Sino-Korean exonym 동경 (dropped modern loanword 도쿄), matching sibling city-name convention ([[北京]]). Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東北.
+
+### 2026-08-31, iteration 2049 — [[words/東北|東北]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 北's own is [[北方]]). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東南.
+
+### 2026-08-31, iteration 2050 — [[words/東南|東南]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 南's own is [[南方]]). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東南亜.
+
+### 2026-08-31, iteration 2051 — [[words/東南亜|東南亜]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 南's own is [[南方]]; 亜's own is [[亜細亜]]). Confirmed `japanese` とうなんあ is the vault's compositional convention (distinct from real-world 東南アジア), not a bug. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東夷.
+
+### 2026-08-31, iteration 2052 — [[words/東夷|東夷]]
+
+This word is itself the stand-in for 夷; 東's own stand-in is [[東方]]. Filled blank `japanese`/`vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東方.
+
+### 2026-08-31, iteration 2053 — [[words/東方|東方]]
+
+This word is itself the stand-in for 東 (has no independent word page); 方's own stand-in is [[方向]]. Fixed real bug: `cantonese` was garbled with pinyin-style spelling instead of Jyutping (dong1 fang1 → dung1 fong1). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東端.
+
+### 2026-08-31, iteration 2054 — [[words/東端|東端]]
+
+No stand-in relationship (東's own stand-in is [[東方]]; 端's own is [[末端]]). Filled blank `cantonese`/`vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 東芝.
