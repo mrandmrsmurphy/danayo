@@ -1937,3 +1937,21 @@ Next: 桃子.
 This word is itself the stand-in for 桃; 子's own stand-in is [[児子]]. Confirmed all readings already correct (japanese とうし verified compositional). No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 桃月.
+
+### 2026-08-31, iteration 2105 — [[words/桃月|桃月]]
+
+No stand-in relationship (桃's own stand-in is [[桃子]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established poetic-month convention. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桃果.
+
+### 2026-08-31, iteration 2106 — [[words/桃果|桃果]]
+
+No stand-in relationship (桃's own stand-in is [[桃子]]; 果's own is [[果実]]). Fixed severe contamination: `mandarin` copied from unrelated [[桃子]]; `cantonese` garbled; `japanese` was bare native もも instead of compositional; `korean` was the native word 복숭아 instead of compositional 도과. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桃金.
+
+### 2026-08-31, iteration 2107 — [[words/桃金|桃金]]
+
+Periodic-table neologism (erbium); confirmed `mandarin`/`cantonese` correctly hold the avoided real character 铒's reading, matching the [[丹金]] pattern. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 案件.
