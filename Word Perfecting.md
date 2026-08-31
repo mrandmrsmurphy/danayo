@@ -2081,3 +2081,15 @@ Next: 椎菌.
 No stand-in relationship (椎's own stand-in is [[脊椎]]; 菌's own is [[細菌]]). Confirmed this is a Dan'a'yo-only coinage (椎 used in its Japanese "shii-tree" sense, echoing real 椎茸 etymology): mandarin/cantonese/korean/vietnamese correctly hold real terms for shiitake, not compositional readings, since no real Chinese/Korean/Vietnamese term derives from 椎+菌. Reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 検証.
+
+### 2026-08-31, iteration 2129 — [[words/検証|検証]]
+
+No stand-in relationship (検's own stand-in is [[検査]]; 証's own is [[証明]]). Fixed stray space in `mandarin`, filled blank `cantonese`, left `vietnamese` blank and flagged that 検's own citation has no vietnamese value at all (character-level gap). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楊柳.
+
+### 2026-08-31, iteration 2130 — [[words/楊柳|楊柳]]
+
+This word is itself the stand-in for 楊 (bound, cannot stand alone). Filled blank `vietnamese`. Confirmed the already-noted irregular Japanese fused reading やなぎ, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楊梅.
