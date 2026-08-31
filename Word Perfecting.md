@@ -1889,3 +1889,27 @@ Next: 根拠.
 No stand-in relationship (根's own stand-in is itself; 拠's own is [[依拠]]). Fixed bare-integer `hsk_level`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 根本.
+
+### 2026-08-31, iteration 2097 — [[words/根本|根本]]
+
+No stand-in relationship (both 根 and 本's own stand-ins are themselves). Fixed missing space in `cantonese` (gan1bun2 → gan1 bun2), removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 根源.
+
+### 2026-08-31, iteration 2098 — [[words/根源|根源]]
+
+This word is itself the stand-in for 源. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 格.
+
+### 2026-08-31, iteration 2099 — [[words/格|格]]
+
+This word is itself the stand-in for 格. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. Completed the genuine 3-way homophone group with [[各]] and [[隔]] (all 각), already anticipated by both siblings — fully cross-referenced all three. Also removed a redundant `品詞` field on 隔.md while there. Stamped `date-last-perfect: 2026-08-31` on 格 and 隔 (各 was already stamped 2026-07-26; only its Notes text updated).
+
+Next: 格助詞.
+
+### 2026-08-31, iteration 2100 — [[words/格助詞|格助詞]]
+
+No stand-in relationship (格's own stand-in is itself; 助's own is [[援助]]; 詞's own is [[単詞]]). Fixed real bugs: `mandarin`/`cantonese` were entirely blank, filled compositionally; `vietnamese` held placeholder text "sd" instead of real content, corrected to cách trợ từ. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 格式.
