@@ -1421,3 +1421,27 @@ Next: 木偶.
 This word is itself the stand-in for 偶; 木's own stand-in is itself. Fixed real bug: `vietnamese` was contaminated with an unrelated native phrase (tượng gỗ) — corrected to compositional mộc ngẫu. Confirmed Japanese でく is a genuine jukujikun, not a bug. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 木星.
+
+### 2026-08-30, iteration 2019 — [[words/木星|木星]]
+
+This word is itself the stand-in for 星; 木's own stand-in is itself. Simplified doubled `vietnamese` ("Sao Mộc, Mộc tinh") to a single form matching the already-perfected sibling [[土星]]'s format. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 木版.
+
+### 2026-08-30, iteration 2020 — [[words/木版|木版]]
+
+No stand-in relationship (木's own stand-in is itself; 版's own is itself). Filled blank `vietnamese`. Discovered a genuine homophone with [[木板]] ("board, plank," both ㄇㄛㄎㄆㄚㄋ) — fully fixed and cross-referenced both sides: 木板.md got missing `japanese`/`vietnamese` filled, `kwin` corrected false→true, plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-30` on both.
+
+Next: 未月.
+
+### 2026-08-30, iteration 2021 — [[words/未月|未月]]
+
+This word is itself the stand-in for 未. Confirmed `japanese`/`vietnamese` already correctly follow the established native-kun'yomi + zodiac-name convention (see [[寅月]], [[卯月]]) rather than being bugs. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 末梢.
+
+### 2026-08-30, iteration 2022 — [[words/末梢|末梢]]
+
+This word is itself the stand-in for 梢; 末's own stand-in is [[末端]]. Filled blank `vietnamese` (mạt tiêu). No homophones. Stamped `date-last-perfect: 2026-08-30`.
+
+Next: 末端.
