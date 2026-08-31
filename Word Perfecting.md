@@ -2189,3 +2189,15 @@ Next: 概要.
 No stand-in relationship (概's own stand-in is itself; 要's own is [[重要]]). Fixed empty-string `vietnamese`, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 榜文.
+
+### 2026-08-31, iteration 2147 — [[words/榜文|榜文]]
+
+This word is itself the stand-in for 榜; 文's own stand-in is [[文化]]. Confirmed the existing "near-homophone with 訪問" note is Korean-only, not a genuine Dan'a'yo-level homophone (different 注音 initials, ㄆ vs ㄈ). Filled blank `vietnamese`. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 榴弾.
+
+### 2026-08-31, iteration 2148 — [[words/榴弾|榴弾]]
+
+No stand-in relationship (榴's own stand-in is [[石榴]]; 弾's own is [[弾丸]]). Fixed real bugs: `cantonese` malformed hybrid tone notation, `japanese` obsolete kana (りうだん→りゅうだん), `korean` South Korean shifted form (유탄→류단). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 榴月.
