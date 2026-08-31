@@ -1541,3 +1541,27 @@ Next: 束縛.
 This word is itself the stand-in for 縛; 束's own stand-in is itself. Simplified `mandarin`, filled blank `vietnamese`/`pos`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-30`.
 
 Next: 条約.
+
+### 2026-08-31, iteration 2039 — [[words/条約|条約]]
+
+No stand-in relationship (条's own stand-in is itself; 約's own is [[約束]]). Fixed bare-integer `hsk_level`, reformatted `characters` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来世紀.
+
+### 2026-08-31, iteration 2040 — [[words/来世紀|来世紀]]
+
+No stand-in relationship (来's own stand-in is itself; builds on [[世紀]], itself the stand-in for 紀; 世's own is [[世界]]). Fixed real bug: `korean` was a native descriptive phrase (다음세기) instead of the compositional form — corrected to 래세기. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来年.
+
+### 2026-08-31, iteration 2041 — [[words/来年|来年]]
+
+No stand-in relationship (both 来 and 年's own stand-ins are themselves). Fixed real bug: `korean` was the South Korean 두음법칙-shifted form 내년 — corrected to North Korean/문화어 래년 per the permanent vault convention. Filled blank `vietnamese`, reformatted YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来日.
+
+### 2026-08-31, iteration 2042 — [[words/来日|来日]]
+
+No stand-in relationship (both 来 and 日's own stand-ins are themselves). Fixed severe contamination: `mandarin`/`cantonese`/`vietnamese`/`japanese` had all been copied/garbled from the unrelated compound [[明日]] — corrected to 来+日's own compositional readings. Fixed `korean` South Korean 두음법칙 shift (내일→래일) per the North Korean vault convention. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 来月.
