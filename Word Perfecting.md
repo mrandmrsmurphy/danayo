@@ -1955,3 +1955,15 @@ Next: 桃金.
 Periodic-table neologism (erbium); confirmed `mandarin`/`cantonese` correctly hold the avoided real character 铒's reading, matching the [[丹金]] pattern. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 案件.
+
+### 2026-08-31, iteration 2108 — [[words/案件|案件]]
+
+No stand-in relationship (案's own stand-in is [[提案]]; 件's own is [[事件]]). Fixed a malformed hybrid tone notation in `cantonese` (gin6-2 → gin6), fixed bare-integer `hsk_level`, removed empty `aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桌.
+
+### 2026-08-31, iteration 2109 — [[words/桌|桌]]
+
+This word is itself the stand-in for 桌. Simplified comma-joined `mandarin`/`cantonese`/`vietnamese` to primary forms, flagged the same malformed-string issue on 桌's own character citation for future perfecting. Added missing `pos`/`japanese`/`hsk_level`. No word-level homophones (橐/拓/卓/琢/託 share the reading but have no independent word pages). Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 桌球.
