@@ -2159,3 +2159,9 @@ Next: 楷.
 This word is itself the stand-in for 楷. Added missing `japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 楼閣.
+
+### 2026-08-31, iteration 2142 — [[words/楼閣|楼閣]]
+
+No stand-in relationship (楼's own stand-in is [[望楼]]; 閣's own is [[内閣]]). Fixed real bug: `korean` was 누각, the South Korean shifted form — corrected to North Korean 루각 (the prior prose had incorrectly documented the shifted form as standard). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 楽経.
