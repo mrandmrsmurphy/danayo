@@ -2285,3 +2285,21 @@ Next: 模範.
 This word is itself the stand-in for 範; 模's own stand-in is [[模擬]]. All fields already correct; cleaned up quoting. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 権威.
+
+### 2026-08-31, iteration 2163 — [[words/権威|権威]]
+
+No stand-in relationship (権's own stand-in is [[権利]]; 威's own is [[威力]]). Flagged that 権's own citation has a blank `vietnamese` field (character-level gap, not fixed here). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 横幅.
+
+### 2026-08-31, iteration 2164 — [[words/横幅|横幅]]
+
+No stand-in relationship (横's own stand-in is [[横断]]; 幅's own is [[幅度]]). All fields already correct. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 樹懶.
+
+### 2026-08-31, iteration 2165 — [[words/樹懶|樹懶]]
+
+No stand-in relationship (樹's own stand-in is [[樹木]]; 懶's own is [[懶惰]]). Confirmed `japanese` loanword-equivalent ナマケモノ (real native term, no compositional Sino-Japanese form in use) matches the [[板球]]/[[果醤]]/[[楊樹]] pattern. Filled blank `korean`/`vietnamese` compositionally. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 樹木.
