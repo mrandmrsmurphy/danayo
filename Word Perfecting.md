@@ -2327,3 +2327,9 @@ Next: 橋梁.
 No stand-in relationship (both 橋 and 梁's own stand-ins are themselves). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 橘.
+
+### 2026-08-31, iteration 2170 — [[words/橘|橘]]
+
+This word is itself the stand-in for 橘. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 檀木.
