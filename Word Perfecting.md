@@ -2423,3 +2423,21 @@ Next: 欽敬.
 This word is itself the stand-in for 欽; 敬's own stand-in is [[尊敬]]. Filled blank `japanese`, removed blank `hsk_level`/`swadesh`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 款.
+
+### 2026-09-01, iteration 2186 — [[words/款|款]]
+
+This word is itself the stand-in for 款. Added missing `pos`/`japanese`/`hsk_level`. No word-level homophones (寛 shares the reading but has no independent word page). Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 歌曲.
+
+### 2026-09-01, iteration 2187 — [[words/歌曲|歌曲]]
+
+Discovered this qualifies for the `#cranberry` tag (both 歌 and 曲's own stand-ins point to this compound, transitivity holds A=B=AB) and was missing it — added. Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 歌謡.
+
+### 2026-09-01, iteration 2188 — [[words/歌謡|歌謡]]
+
+This word is itself the stand-in for 謡; 歌's own stand-in is itself (own word page). Filled blank `vietnamese`, flagged that 謡's own citation has no vietnamese value at all — character-level gap for future perfecting. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 歓呼.
