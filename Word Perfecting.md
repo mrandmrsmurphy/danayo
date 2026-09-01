@@ -2231,3 +2231,15 @@ Next: 槐月.
 No stand-in relationship (槐's own stand-in is [[槐樹]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established poetic-month convention. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 様態格.
+
+### 2026-08-31, iteration 2154 — [[words/様態格|様態格]]
+
+No stand-in relationship (様's own stand-in is [[様式]]; 態's own is [[態度]]; 格's own is itself). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 標準.
+
+### 2026-08-31, iteration 2155 — [[words/標準|標準]]
+
+This word is itself the stand-in for 準; 標's own stand-in is [[標識]]. Fixed bare-integer `hsk_level`, removed self-referential `標準` from `aliases`, kept genuine variants. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 標誌.
