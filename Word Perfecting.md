@@ -2375,3 +2375,9 @@ Next: 欣喜.
 This word is itself the stand-in for 欣; 喜's own stand-in is itself (own word page). Filled blank `korean`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欧圓.
+
+### 2026-09-01, iteration 2178 — [[words/欧圓|欧圓]]
+
+No stand-in relationship (欧's own stand-in is [[欧羅巴]]; 圓's own is itself). Confirmed `japanese`/`korean`/`vietnamese` loanwords for "Euro" are correct real-world usage, same pattern as [[板球]]/[[果醤]]/[[楊樹]]/[[樹懶]]/[[橄欖球]]. Removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欧洲.
