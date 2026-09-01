@@ -2411,3 +2411,15 @@ Next: 欲求.
 No stand-in relationship (欲's own stand-in is itself; 求's own is [[要求]]). Filled blank `cantonese`/`vietnamese`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欺𥈞.
+
+### 2026-09-01, iteration 2184 — [[words/欺瞞|欺瞞]] (found via duplicate at 欺𥈞)
+
+Discovered `words/欺𥈞.md` was a stray duplicate of the already-consolidated, already-stamped `words/欺瞞.md` (which lists 欺𥈞 as its own alias, per a documented 2026-06-13 decision to merge both spellings into one file). Deleted the duplicate, removed a corresponding stray "欺𥈞" bullet from [[欺]]'s own character-page Words section (which had wrongly listed it as a second word), and lightly re-perfected `欺瞞.md` (reformatted `vietnamese` list→scalar, quoted scalars). Stamped `date-last-perfect: 2026-09-01` on 欺瞞.
+
+Next: 欽敬.
+
+### 2026-09-01, iteration 2185 — [[words/欽敬|欽敬]]
+
+This word is itself the stand-in for 欽; 敬's own stand-in is [[尊敬]]. Filled blank `japanese`, removed blank `hsk_level`/`swadesh`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 款.
