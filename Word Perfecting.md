@@ -2381,3 +2381,15 @@ Next: 欧圓.
 No stand-in relationship (欧's own stand-in is [[欧羅巴]]; 圓's own is itself). Confirmed `japanese`/`korean`/`vietnamese` loanwords for "Euro" are correct real-world usage, same pattern as [[板球]]/[[果醤]]/[[楊樹]]/[[樹懶]]/[[橄欖球]]. Removed blank `hsk_level`/`swadesh`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欧洲.
+
+### 2026-09-01, iteration 2179 — [[words/欧洲|欧洲]]
+
+No stand-in relationship (欧's own stand-in is [[欧羅巴]]; 洲's own is itself). Confirmed korean 구주 correctly uses 欧's genuine older placename Sino-Korean reading 구 (documented on its own character page), not a bug. Removed self-referential `欧洲` from `aliases` and redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欧羅巴.
+
+### 2026-09-01, iteration 2180 — [[words/欧羅巴|欧羅巴]]
+
+This word is itself the stand-in for 欧; 羅's own stand-in is [[羅馬]]; 巴's own is itself. Fixed severe contamination: `mandarin`/`cantonese` had been copied from the unrelated word [[欧洲]] — corrected to 欧羅巴's own compositional forms. Fixed a truncated `vietnamese` (Châu Â → Châu Âu). Confirmed loanword `japanese`/`korean` are correct. Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欧金.
