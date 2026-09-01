@@ -2255,3 +2255,9 @@ Next: 標識.
 This word is itself the stand-in for 標; 識's own stand-in is [[認識]]. Confirmed mandarin biāozhì correctly uses 識's alternate zhì reading, already documented on the character's own citation. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 標題.
+
+### 2026-08-31, iteration 2158 — [[words/標題|標題]]
+
+This word is itself the stand-in for 題; 標's own stand-in is [[標識]]. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 樟脳.
