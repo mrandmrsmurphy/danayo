@@ -2261,3 +2261,15 @@ Next: 標題.
 This word is itself the stand-in for 題; 標's own stand-in is [[標識]]. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 樟脳.
+
+### 2026-08-31, iteration 2159 — [[words/樟脳|樟脳]]
+
+This word is itself the stand-in for 樟; 脳's own stand-in is itself. Fixed real bug: `cantonese` had the wrong initial (zeong1→zoeng1). No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 模倣.
+
+### 2026-08-31, iteration 2160 — [[words/模倣|模倣]]
+
+This word is itself the stand-in for 倣; 模's own stand-in is [[模擬]]. Filled blank `vietnamese`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 模擬.
