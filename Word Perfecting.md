@@ -2315,3 +2315,15 @@ Next: 橄欖.
 Confirmed `#cranberry` tag is correct: both 橄 and 欖's own stand-ins point to this compound (transitivity holds, A=B=AB). Simplified doubled `cantonese` to primary form, flagging a real divergence with 橄's own stored citation (gam2 vs. real-world gaam3) as a character-level gap. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 橄欖球.
+
+### 2026-08-31, iteration 2168 — [[words/橄欖球|橄欖球]]
+
+No stand-in relationship (橄/欖's own stand-ins point to [[橄欖]]; 球's own is itself). Confirmed `japanese`/`korean` loanwords and Vietnamese descriptive term are correct real-world usage, same pattern as [[板球]]/[[果醤]]/[[楊樹]]/[[樹懶]]. Fixed real bug: `cantonese` malformed hybrid tone notation, corrected to match [[橄欖]]'s simplified form. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 橋梁.
+
+### 2026-08-31, iteration 2169 — [[words/橋梁|橋梁]]
+
+No stand-in relationship (both 橋 and 梁's own stand-ins are themselves). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 橘.
