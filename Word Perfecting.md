@@ -2333,3 +2333,15 @@ Next: 橘.
 This word is itself the stand-in for 橘. Added missing `pos`/`japanese`/`hsk_level`, filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 檀木.
+
+### 2026-08-31, iteration 2171 — [[words/檀木|檀木]]
+
+This word is itself the stand-in for 檀; 木's own stand-in is itself. All fields already correct; cleaned quoting. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 檳榔.
+
+### 2026-08-31, iteration 2172 — [[words/檳榔|檳榔]]
+
+Confirmed `#cranberry` tag is correct: both 檳 and 榔's own stand-ins point to this compound (transitivity holds, A=B=AB). Fixed real bug: `japanese` obsolete kana (びんらう→びんろう). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 櫛.
