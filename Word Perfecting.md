@@ -2273,3 +2273,15 @@ Next: 模倣.
 This word is itself the stand-in for 倣; 模's own stand-in is [[模擬]]. Filled blank `vietnamese`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 模擬.
+
+### 2026-08-31, iteration 2161 — [[words/模擬|模擬]]
+
+No stand-in relationship (both 模 and 擬's own stand-ins are themselves). Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 模範.
+
+### 2026-08-31, iteration 2162 — [[words/模範|模範]]
+
+This word is itself the stand-in for 範; 模's own stand-in is [[模擬]]. All fields already correct; cleaned up quoting. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 権威.
