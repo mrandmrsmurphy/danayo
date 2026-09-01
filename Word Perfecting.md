@@ -2441,3 +2441,15 @@ Next: 歌謡.
 This word is itself the stand-in for 謡; 歌's own stand-in is itself (own word page). Filled blank `vietnamese`, flagged that 謡's own citation has no vietnamese value at all — character-level gap for future perfecting. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 歓呼.
+
+### 2026-09-01, iteration 2189 — [[words/歓呼|歓呼]]
+
+No stand-in relationship (歓's own stand-in is [[歓喜]]; 呼's own is itself). Fixed real bugs: `japanese` was garbled with an obsolete kana spelling and a duplicate value containing an invisible zero-width character — corrected to modern かんこ. Flagged that 歓's own citation has no vietnamese value stored. Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 歓喜.
+
+### 2026-09-01, iteration 2190 — [[words/歓喜|歓喜]]
+
+This word is itself the stand-in for 歓; 喜's own stand-in is itself (own word page). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 正.
