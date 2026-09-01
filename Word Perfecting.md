@@ -2345,3 +2345,15 @@ Next: 檳榔.
 Confirmed `#cranberry` tag is correct: both 檳 and 榔's own stand-ins point to this compound (transitivity holds, A=B=AB). Fixed real bug: `japanese` obsolete kana (びんらう→びんろう). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 櫛.
+
+### 2026-08-31, iteration 2173 — [[words/櫛|櫛]]
+
+This word is itself the stand-in for 櫛. Added missing `japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 欄杆.
+
+### 2026-09-01, iteration 2174 — [[words/欄杆|欄杆]]
+
+This word is itself the stand-in for 欄; 杆's own stand-in is itself. Fixed real bug: `korean` was the South Korean shifted form (난간) — corrected to North Korean 란간. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欠伸.
