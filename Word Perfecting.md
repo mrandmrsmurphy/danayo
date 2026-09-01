@@ -2243,3 +2243,15 @@ Next: 標準.
 This word is itself the stand-in for 準; 標's own stand-in is [[標識]]. Fixed bare-integer `hsk_level`, removed self-referential `標準` from `aliases`, kept genuine variants. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 標誌.
+
+### 2026-08-31, iteration 2156 — [[words/標誌|標誌]]
+
+This word is itself the stand-in for 誌; 標's own stand-in is the similar sibling word [[標識]]. Fixed real bugs: `mandarin` had an extra variant borrowed from 標識's reading; `japanese` combined an obsolete kana spelling with a syllable belonging to 識, not 誌 — corrected to ひょうし. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 標識.
+
+### 2026-08-31, iteration 2157 — [[words/標識|標識]]
+
+This word is itself the stand-in for 標; 識's own stand-in is [[認識]]. Confirmed mandarin biāozhì correctly uses 識's alternate zhì reading, already documented on the character's own citation. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 標題.
