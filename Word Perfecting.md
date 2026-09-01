@@ -2219,3 +2219,15 @@ Next: 槌.
 This word is itself the stand-in for 槌. Confirmed korean 퇴's mismatch with 諺文/羅馬字 is a pre-existing character-level divergence, not a bug, and set `kwin: false` accordingly. Added missing `japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 槍.
+
+### 2026-08-31, iteration 2152 — [[words/槍|槍]]
+
+This word is itself the stand-in for 槍. Added missing `japanese`/`hsk_level`, simplified doubled `vietnamese`. Discovered a genuine homophone with [[蒼]] (both 촹) — fully fixed and cross-referenced both sides: 蒼.md got missing `pos`/`japanese`/`hsk_level` added and blank `vietnamese` filled (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-08-31` on both.
+
+Next: 槐月.
+
+### 2026-08-31, iteration 2153 — [[words/槐月|槐月]]
+
+No stand-in relationship (槐's own stand-in is [[槐樹]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established poetic-month convention. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 様態格.
