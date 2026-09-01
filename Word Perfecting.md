@@ -2465,3 +2465,9 @@ Next: 正割.
 No stand-in relationship (both 正 and 割's own stand-ins are themselves, each with its own word page). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 正午.
+
+### 2026-09-01, iteration 2193 — [[words/正午|正午]]
+
+This word is itself the stand-in for 午. Fixed real bug: `vietnamese` was a native descriptive phrase (buổi trưa) instead of the compositional form — corrected to chính ngọ. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 正字.
