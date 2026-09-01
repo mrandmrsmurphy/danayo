@@ -2393,3 +2393,15 @@ Next: 欧羅巴.
 This word is itself the stand-in for 欧; 羅's own stand-in is [[羅馬]]; 巴's own is itself. Fixed severe contamination: `mandarin`/`cantonese` had been copied from the unrelated word [[欧洲]] — corrected to 欧羅巴's own compositional forms. Fixed a truncated `vietnamese` (Châu Â → Châu Âu). Confirmed loanword `japanese`/`korean` are correct. Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欧金.
+
+### 2026-09-01, iteration 2181 — [[words/欧金|欧金]]
+
+Periodic-table neologism (europium); confirmed `mandarin`/`cantonese` correctly hold the avoided real character 铕's reading, matching the [[丹金]] pattern. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欲望.
+
+### 2026-09-01, iteration 2182 — [[words/欲望|欲望]]
+
+This word is itself the stand-in for 欲; 望's own stand-in is [[希望]]. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欲求.
