@@ -2303,3 +2303,15 @@ Next: 樹懶.
 No stand-in relationship (樹's own stand-in is [[樹木]]; 懶's own is [[懶惰]]). Confirmed `japanese` loanword-equivalent ナマケモノ (real native term, no compositional Sino-Japanese form in use) matches the [[板球]]/[[果醤]]/[[楊樹]] pattern. Filled blank `korean`/`vietnamese` compositionally. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 樹木.
+
+### 2026-08-31, iteration 2166 — [[words/樹木|樹木]]
+
+This word is itself the stand-in for 樹; 木's own stand-in is itself. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`/`aliases: []`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 橄欖.
+
+### 2026-08-31, iteration 2167 — [[words/橄欖|橄欖]]
+
+Confirmed `#cranberry` tag is correct: both 橄 and 欖's own stand-ins point to this compound (transitivity holds, A=B=AB). Simplified doubled `cantonese` to primary form, flagging a real divergence with 橄's own stored citation (gam2 vs. real-world gaam3) as a character-level gap. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 橄欖球.
