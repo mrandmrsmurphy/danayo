@@ -2453,3 +2453,15 @@ Next: 歓喜.
 This word is itself the stand-in for 歓; 喜's own stand-in is itself (own word page). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 正.
+
+### 2026-09-01, iteration 2191 — [[words/正|正]]
+
+This word is itself the stand-in for 正. Added missing `pos`/`japanese`/`hsk_level`. Discovered a genuine homophone with [[蒸]] (both 징) — fully fixed and cross-referenced both sides: 蒸.md got literal `vietnamese: null` → chưng fixed and missing `pos`/`japanese`/`hsk_level` added (its own stand-in), plus reciprocal Homophones callout. Stamped `date-last-perfect: 2026-09-01` on both.
+
+Next: 正割.
+
+### 2026-09-01, iteration 2192 — [[words/正割|正割]]
+
+No stand-in relationship (both 正 and 割's own stand-ins are themselves, each with its own word page). Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 正午.
