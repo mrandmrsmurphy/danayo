@@ -2207,3 +2207,15 @@ Next: 榴月.
 No stand-in relationship (榴's own stand-in is [[石榴]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established poetic-month convention; `korean` was already correctly North Korean form. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 構造.
+
+### 2026-08-31, iteration 2150 — [[words/構造|構造]]
+
+No stand-in relationship (構's own stand-in is [[構築]]; 造's own is [[創造]]). All fields already correct. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 槌.
+
+### 2026-08-31, iteration 2151 — [[words/槌|槌]]
+
+This word is itself the stand-in for 槌. Confirmed korean 퇴's mismatch with 諺文/羅馬字 is a pre-existing character-level divergence, not a bug, and set `kwin: false` accordingly. Added missing `japanese`/`hsk_level`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 槍.
