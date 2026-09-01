@@ -2363,3 +2363,15 @@ Next: 欠伸.
 This word is itself the stand-in for 欠; 伸's own stand-in is [[伸長]]. Confirmed Japanese あくび is a genuine irregular jukujikun, not a bug. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 次第.
+
+### 2026-09-01, iteration 2176 — [[words/次第|次第]]
+
+This word is itself the stand-in for 次; 第's own stand-in is itself. Fixed missing space in `cantonese`, filled blank `korean`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欣喜.
+
+### 2026-09-01, iteration 2177 — [[words/欣喜|欣喜]]
+
+This word is itself the stand-in for 欣; 喜's own stand-in is itself (own word page). Filled blank `korean`/`vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欧圓.
