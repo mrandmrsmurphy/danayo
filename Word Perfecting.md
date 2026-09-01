@@ -2201,3 +2201,9 @@ Next: 榴弾.
 No stand-in relationship (榴's own stand-in is [[石榴]]; 弾's own is [[弾丸]]). Fixed real bugs: `cantonese` malformed hybrid tone notation, `japanese` obsolete kana (りうだん→りゅうだん), `korean` South Korean shifted form (유탄→류단). Removed blank `hsk_level`/`swadesh`. No homophones. Stamped `date-last-perfect: 2026-08-31`.
 
 Next: 榴月.
+
+### 2026-08-31, iteration 2149 — [[words/榴月|榴月]]
+
+No stand-in relationship (榴's own stand-in is [[石榴]]; 月's own is itself). Confirmed `japanese`/`vietnamese` follow the established poetic-month convention; `korean` was already correctly North Korean form. Removed redundant `品詞`, reformatted `japanese`/`vietnamese` list→scalar. No homophones. Stamped `date-last-perfect: 2026-08-31`.
+
+Next: 構造.
