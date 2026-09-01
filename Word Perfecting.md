@@ -2357,3 +2357,9 @@ Next: 欄杆.
 This word is itself the stand-in for 欄; 杆's own stand-in is itself. Fixed real bug: `korean` was the South Korean shifted form (난간) — corrected to North Korean 란간. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欠伸.
+
+### 2026-09-01, iteration 2175 — [[words/欠伸|欠伸]]
+
+This word is itself the stand-in for 欠; 伸's own stand-in is [[伸長]]. Confirmed Japanese あくび is a genuine irregular jukujikun, not a bug. Filled blank `vietnamese`. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 次第.
