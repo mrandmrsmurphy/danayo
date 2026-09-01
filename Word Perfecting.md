@@ -2405,3 +2405,9 @@ Next: 欲望.
 This word is itself the stand-in for 欲; 望's own stand-in is [[希望]]. Filled blank `vietnamese`, removed blank `hsk_level`/`swadesh`, reformatted `aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
 
 Next: 欲求.
+
+### 2026-09-01, iteration 2183 — [[words/欲求|欲求]]
+
+No stand-in relationship (欲's own stand-in is itself; 求's own is [[要求]]). Filled blank `cantonese`/`vietnamese`, reformatted `characters`/`aliases` to block-list YAML. No homophones. Stamped `date-last-perfect: 2026-09-01`.
+
+Next: 欺𥈞.
