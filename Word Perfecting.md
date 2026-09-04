@@ -5630,6 +5630,30 @@ No cranberry (社's own stand-in is [[社会]], 交's is [[交]] itself). Filled
 
 Next: 社会主義.
 
+### 2026-09-04, iteration 2718 — [[words/社会主義|社会主義]]
+
+No cranberry (all four constituents' own stand-ins point elsewhere: 社→[[社会]], 会→[[会]], 主→[[主人]], 義→[[意義]]). Filled a completely blank `pos`(名詞). Normalized a non-standard `cantonese` tone-change notation (wui6-2→wui2, same class of fix as 盧魚/睾丸 earlier). No homophones (注音 ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ / 羅馬字 syahweju'wi unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 社会学.
+
+### 2026-09-04, iteration 2719 — [[words/社会学|社会学]]
+
+No cranberry (学's own stand-in is [[学習]], not this word). **Fixed a truncated `japanese` bug**: was "しゃかいが", missing 学's final く — corrected to しゃかいがく. Filled a completely blank `pos`(名詞). Normalized `cantonese` tone-change notation (wui6-2→wui2, matching the sibling 社会主義 fix). No homophones (注音 ㄙ⼘ㄏ⼔ㄏㄚㄎ / 羅馬字 syahwehag unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 社会科.
+
+### 2026-09-04, iteration 2720 — [[words/社会科|社会科]]
+
+No cranberry (科's own stand-in is [[学科]], not this word). Filled a completely blank `pos`(名詞), normalized `cantonese` tone notation (matching the pattern fixed on 社会主義/社会学). Fixed `## Etymology` heading to `## Notes`, contrasting this school-subject term with the academic discipline [[社会学]]. No homophones (注音 ㄙ⼘ㄏ⼔ㄎ⺢ / 羅馬字 syahwekwa unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 社会科学.
+
+### 2026-09-04, iteration 2721 — [[words/社会科学|社会科学]]
+
+No cranberry (all four constituents' own stand-ins point elsewhere). **Fixed another truncated `japanese` bug**: was "しゃかいかが", missing 学's final く — corrected to しゃかいかがく (same class of fix as 社会学's earlier one). Filled a completely blank `pos`(名詞), normalized `cantonese` tone notation. No homophones (注音 ㄙ⼘ㄏ⼔ㄎ⺢ㄏㄚㄎ / 羅馬字 syahwekwahag unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祈祷.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
