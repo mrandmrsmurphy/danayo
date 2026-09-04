@@ -5804,3 +5804,36 @@ Next: 禁欲.
 No cranberry (禁's own stand-in is [[禁止]], 欲's is [[欲望]]) — neither constituent legitimized by this word. Pronunciation fields (gim'yog/김욕/ㄍㄧㄇ⼄ㄎ, including the retained null-onset apostrophe before 欲's own "'yog") already verified as the correct concatenation — no bug. Fixed flow-style `characters` indentation, filled blank vietnamese(cấm dục), removed blank hsk_level/swadesh/aliases, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 禁欲主義.
+
+### 2026-09-04, out-of-sequence fix — the 'wi/읫 (義) bug, remaining instances
+
+While reading 禁欲主義's cited words, discovered its Notes' cross-reference [[主義]] still carried the `'wi`/위 misreading of 義's own `'ǝi`/읫 — a bug already identified and fixed on [[官僚主義]]/[[定義]]/[[定義域]]/[[正義]] earlier in the session, whose iteration log explicitly flagged [[主義]], [[社会主義]], and [[大義]] as still-outstanding instances "worth a dedicated check when each of those comes up in the sweep." Rather than wait, fixed all three now since already fully diagnosed:
+- `words/主義.md` — `羅馬字`/`諺文` corrected ju'wi/주위→ju'ǝi/주읫; also brought the rest of the page up to full checklist compliance (blank Notes, missing kwin/date-last-perfect) since it was otherwise unstamped.
+- `words/社会主義.md` — `羅馬字`/`諺文` corrected syahweju'wi/샤훠주위→syahweju'ǝi/샤훠주읫. This word had already been stamped `date-last-perfect` earlier today (iteration ~2718) without the bug caught — another old-stamp-isn't-a-guarantee case.
+- `words/大義.md` — same fix, but here the bug also reached `注音` itself (ㄨㄧ→ㄜㄧ, not just 羅馬字/諺文 as in every other instance) — the only case this session where 注音 wasn't the reliable "correct" tell. Also fixed the same wrong rt-annotation on `characters/義.md` and `characters/大 (char).md`'s own Words-list citations. Corrected a Notes explanation that had wrongly attributed the bad reading to "deliberate Sino-Korean divergence" rather than recognizing it as this bug; `kwin: false` still holds post-fix since the corrected 대읫 genuinely still diverges from real Sino-Korean 대의.
+
+Re-ran `grep -xF` on all corrected forms — no homophones introduced. This closes out the 義-final `'wi`/읫 bug pattern vault-wide (all 7 known instances — 官僚主義, 定義, 定義域, 正義, 主義, 社会主義, 大義 — now fixed).
+
+### 2026-09-04, iteration 2745 — [[words/禁欲主義|禁欲主義]]
+
+No cranberry (none of the four constituents' own stand-ins point here: 禁→[[禁止]], 欲→[[欲望]], 主→[[主人]], 義→[[意義]]). Pronunciation fields (gim'yogju'ǝi/김욕주읫/ㄍㄧㄇ·⼄ㄎㄐㄨ·ㄜㄧ) already verified as the correct four-way concatenation — no bug. **Fixed a truncated `japanese`**: きんよくしゅ was missing its final mora — corrected to きんよくしゅぎ, matching [[主義]]'s own しゅぎ. Removed redundant duplicate `品詞` (already had `pos: 名詞`), filled blank vietnamese(cấm dục chủ nghĩa), wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁止.
+
+### 2026-09-04, iteration 2746 — [[words/禁止|禁止]]
+
+No cranberry: 禁's own stand-in is this exact compound, but 止's own is [[中止]]; transitivity fails, though 禁 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gimji/김지/ㄍㄧㄇㄐㄧ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 금하다, a native Korean verb form, rather than the plain Sino-Korean reading 금지 (the actual everyday Korean word for "prohibition"). Converted comma-joined `vietnamese` string to a proper list. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁漁.
+
+### 2026-09-04, iteration 2747 — [[words/禁漁|禁漁]]
+
+No cranberry (禁's own stand-in is [[禁止]], 漁's is [[釣漁]]) — neither constituent legitimized by this word. Pronunciation fields (gim'yo/김요/ㄍㄧㄇ·⼄) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section (contrasted with 禁猟). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁煙.
+
+### 2026-09-04, iteration 2748 — [[words/禁煙|禁煙]]
+
+No cranberry (禁's own stand-in is [[禁止]], 煙's is [[煙気]]) — neither constituent legitimized by this word. Pronunciation fields (gim'en/김언/ㄍㄧㄇ·ㄝㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section. **Also fixed a missing "(stand-in for 煙)" annotation** on `characters/煙.md`'s own Words-list citation of 煙気. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁獵.

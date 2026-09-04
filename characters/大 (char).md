@@ -92,7 +92,7 @@ boundedness: 90
 - <ruby>[[大指]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "thumb; big toe"
 - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> "big river; Yangtze"
 - <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"
-- <ruby>[[大義]]<rt>ㄉㄚㄧ·ㄨㄧ</rt></ruby> "principles of justice; be truly righteous"
+- <ruby>[[大義]]<rt>ㄉㄚㄧ·ㄜㄧ</rt></ruby> "principles of justice; be truly righteous"
 - <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
 - <ruby>[[大門]]<rt>ㄉㄚㄧㄇㄛㄋ</rt></ruby> "main gate; entrance"
 - <ruby>[[大麻]]<rt>ㄉㄚㄧㄇㄚ</rt></ruby> "hemp; cannabis"
