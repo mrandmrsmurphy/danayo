@@ -5250,6 +5250,60 @@ Next: 監獄.
 
 Next: 監禁.
 
+### 2026-09-04, iteration 2655 — [[words/監禁|監禁]]
+
+No cranberry (監's own stand-in is [[監督]], 禁's is [[禁止]]). Quoted `mandarin`/`cantonese`/`korean`, added missing `kwin: false`, added simplified alias 监禁 (a very common real word). Notes distinguishes this word (the act of confining) from [[監獄]] (the institution), and notes giam cầm as the more common everyday Vietnamese verb versus this word's compositional giám cấm. No homophones (注音 ㄍㄚㄇㄍㄧㄇ / 羅馬字 gamgim unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盤古.
+
+### 2026-09-04, iteration 2656 — [[words/盤古|盤古]]
+
+No cranberry (盤's own stand-in is [[盤]] itself, 古's is [[古代]]). Fixed `pos` from 名詞 to 固有名詞, matching this vault's established convention for mythological/deity proper nouns. Quoted `mandarin`/`cantonese`/`korean`. Expanded terse two-bullet Notes into full substantive paragraphs on the Pangu creation myth (cosmic egg, 18,000 years separating heaven and earth, body becoming the world upon death). **Homophone-check correction**: an initial `grep -F` pass flagged [[辦公]]/[[辦公室]] as false-positive homophones — they only share a *prefix* substring (ㄅㄚㄋㄍㄛ vs their real ㄅㄚㄋㄍㄛㄫ, an extra final ㄫ), not the whole syllable string; re-verified with `grep -xF` (exact whole-line match) and confirmed no real homophones exist. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盧森堡.
+
+### 2026-09-04, iteration 2657 — [[words/盧森堡|盧森堡]]
+
+No cranberry (none of the three constituents' own stand-ins point here; 盧's is even the special 名専字 proper-name-only marker). **Found and fixed a real reading bug, inverse of the usual pattern**: `羅馬字`/`諺文` used 森's *real Korean* reading (sam/삼) instead of its *Dan'a'yo-internal* reading (sum/숨) — `注音` (ㄌㄛㄙㄨㄇㄅㄚㄨ) was already correct and gave away the mismatch (森's own 諺文/羅馬字 on its character page are 숨/sum, distinct from its `korean` field 삼). Corrected losambau/로산밧 → losumbau/로숨밧. Filled blank `vietnamese`(Lúc-xăm-bua, the real French-derived exonym), added simplified alias 卢森堡. Notes explains this is a phono-semantic transliteration of the European country name, not a compositional description, and that Japanese/Korean/Vietnamese all transliterate independently from a European source rather than through the Chinese-character intermediary. No homophones after correction (注音 ㄌㄛㄙㄨㄇㄅㄚㄨ / 羅馬字 losumbau unique — confirmed the corrected form didn't exist anywhere in the vault before this edit). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盧魚.
+
+### 2026-09-04, iteration 2658 — [[words/盧魚|盧魚]]
+
+盧 here is a 借代字 clipped phonetic stand-in for the fuller 鱸魚 (per 盧's own Notes), not itself meaning "fish"; already correctly captured in aliases 鱸魚/鲈鱼. Fixed `characters` order (was listing 魚 before 盧, opposite of the actual word/filename order). Fixed a malformed `cantonese` ("ou4 jyu4-2", missing the initial l and using non-standard tone notation) → "lou4 jyu2" (a real, documented colloquial changed-tone reading for 魚 in fish/food compounds). **Fixed `korean` from a South Korean 두음법칙-shifted form (노어) to the required North Korean/문화어 form (로어)**, per the vault's standing rule (see [[feedback_korean_reading_north]]). Filled blank `vietnamese`(lư ngư). Fixed the homophone callout from a non-standard `[!tip]` sentence to proper `[!warning] Homophones` format on both this word and its homophone [[露語]] (fixed reciprocally; verified exact match on 注音/羅馬字/諺文, all three identical). No other homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 目宿.
+
+### 2026-09-04, iteration 2659 — [[words/目宿|目宿]]
+
+No cranberry (目's own stand-in is [[目]] itself, 宿's is [[寄宿]]) — used purely phonetically here, an early transliteration variant of 苜蓿 (already correctly captured as alias), not a borrowed-glyph 借代字 case like 鷲/鷺/盧 since 目 and 宿 are themselves ordinary, independently-meaningful characters just repurposed for sound. Fixed comma-joined `mandarin`("mùxu, mùsù"→mùxu, the modern standard reading; mùsù noted as the classical alternate in prose). Fixed `## Etymology` heading to `## Notes` and wrote real etymology — alfalfa's Han-dynasty introduction via Zhang Qian's mission to Dayuan/Ferghana as horse fodder, and the character choice as a foreign-sound transliteration. Normalized `characters` indentation and `aliases` to block style. No homophones (注音 ㄇㄨㄎㄙㄨㄎ / 羅馬字 mugsug unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 目標.
+
+### 2026-09-04, iteration 2660 — [[words/目標|目標]]
+
+No cranberry (標's own stand-in is [[標識]], not this word). Left an unusual `注音`/`羅馬字` pattern unchanged: the compound adds an extra ㄨ/u to 標's normal reading (byo→byou), consistent across both this word file and 標's own character-page citation of 目標 — an established compound-specific alternation, not a typo, per the same reasoning as the 皺紋 interpunct case. Removed redundant duplicate `品詞` field. Fixed `## Etymology` heading to `## Notes`, added simplified alias 目标. No homophones (注音 ㄇㄨㄎㄅ⼄ㄨ / 羅馬字 mugbyou unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盲人.
+
+### 2026-09-04, iteration 2661 — [[words/盲人|盲人]]
+
+No cranberry (盲's own stand-in is [[盲目]], 人's is [[人]] itself). All pronunciation fields already correct and compositional (mandarin mángrén, cantonese maang4 jan4, japanese もうじん, korean 맹인, 注音/羅馬字/諺文). Filled blank `vietnamese`(manh nhân, compositional — noted native người mù as the everyday alternative), normalized `characters` from flow-style to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, wrote a missing `## Notes` section. No homophones (注音 ㄇㄚㄫㄋㄧㄋ / 羅馬字 mangnin unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盲従.
+
+### 2026-09-04, iteration 2662 — [[words/盲従|盲従]]
+
+No cranberry (従's own stand-in is [[従]] itself, 盲's is [[盲目]]). Already had strong, substantive Notes — kept as-is, extended lightly for the newly-filled vietnamese. Quoted `mandarin`/`cantonese`/`korean`, filled blank `vietnamese`(manh tùng), quoted `従 (char)` citation for consistency. No homophones (注音 ㄇㄚㄫㄐㄛㄫ / 羅馬字 mangjong unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盲目.
+
+### 2026-09-04, iteration 2663 — [[words/盲目|盲目]]
+
+盲's own stand-in is this exact compound, but 目's own is [[目]] itself — transitivity fails, no `#cranberry`, though 盲 is legitimized specifically by this word. Fixed comma-joined `vietnamese`("mù, đui mù"→mù, the standard native word; đui mù noted as a fuller synonymous expression in prose). All other pronunciation fields already correct and compositional. Wrote a missing `## Notes` section — the word's dominant modern use is figurative ("blind" love/faith/obedience) rather than literal loss of sight. No homophones (注音 ㄇㄚㄫㄇㄨㄎ / 羅馬字 mangmug unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 直.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
