@@ -5366,6 +5366,30 @@ Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: nul
 
 Next: 県.
 
+### 2026-09-04, iteration 2674 — [[words/県|県]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`→huyện (character's own vietnamese field was completely empty on its char page, no options to draw from — used independent real-world knowledge that 縣/県's Sino-Vietnamese reading huyện is a live administrative term in Vietnam itself), missing `pos`(名詞)/`japanese`(けん)/`kwin`(false). Verified the existing homophone callout ([[玄]]/[[懸]]) via exact grep — correct and complete; 絢/萱 also share the syllable but aren't standalone words. In passing: `characters/県 (char).md` has an empty-string `hsk_level: ""` bug (same class as 色/翁, flagged not fixed). Wrote a substantive `## Notes` section on 県's varying rank by country (Chinese county, Japanese prefecture, Vietnamese district) and its "to hang" etymology. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 眼前.
+
+### 2026-09-04, iteration 2675 — [[words/眼前|眼前]]
+
+No cranberry (眼's own stand-in is [[眼球]], 前's is [[前]] itself). Filled a completely blank `pos`(名詞). Fixed comma-joined `korean`("안전, 눈앞"→눈앞, the native unambiguous term) — flagged that the Sino-compositional 안전 would collide with the far more common unrelated word 安全 "safety". Filled blank `vietnamese`(nhãn tiền, a real attested term). Added missing `kwin: true` (Dan'a'yo 안전 matches literal Sino-Korean exactly). Fixed `## Etymology` heading to `## Notes`. No homophones (注音 ㄚㄋㄐㄝㄋ / 羅馬字 'anjen unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 眼球.
+
+### 2026-09-04, iteration 2676 — [[words/眼球|眼球]]
+
+眼's own stand-in is this exact compound, but 球's own is [[球]] itself — transitivity fails, no `#cranberry`, though 眼 is legitimized specifically by this word. Removed redundant duplicate `品詞` field. Filled blank `vietnamese`(nhãn cầu, the real anatomical term). Left an unusual `注音` pattern unchanged: 球's syllable renders as the split "ㄍ·ㄨ" instead of the compact ⼄-style glyph ㄍ⼜ used in every other 球-compound on 球's own page (排球/台球/蹴球) — but consistently so across 3 independent citations (this word, and both 眼's and 球's own character-page citations of 眼球 specifically), so treated as an established compound-specific quirk rather than a typo. No homophones (注音 ㄚㄋㄍ·ㄨ / 羅馬字 'angyu unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 眼睛.
+
+### 2026-09-04, iteration 2677 — [[words/眼睛|眼睛]]
+
+睛's own stand-in is this exact compound, but 眼's own is [[眼球]] — transitivity fails, no `#cranberry`, though 睛 is legitimized specifically by this word. Fixed relative links missing `../` prefix. Notes flags a real Korean-internal homophone (안정 = both this word and the unrelated 安定 "stability"). Normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄚㄋㄐㄧㄫ / 羅馬字 'anjing unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 着.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
