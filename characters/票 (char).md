@@ -54,7 +54,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[票]]<rt>ㄆ⼘ㄨ</rt></ruby> "ballot, ticket"
+- <ruby>[[票]]<rt>ㄆ⼘ㄨ</rt></ruby> "ballot, ticket" (stand-in for 票)
 - <ruby>[[郵票]]<rt>ㄨㄛㄆ⼘ㄨ</rt></ruby> "stamp, postage stamp"
 - <ruby>[[投票率]]<rt>ㄉㄛㄨㄆ⼘ㄨㄌㄨㄊ</rt></ruby> "voter turnout, voting rate"
 

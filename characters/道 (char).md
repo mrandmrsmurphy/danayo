@@ -63,7 +63,7 @@ boundedness: 70
 - <ruby>[[修道院]]<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby> "monastery; abbey; convent"
 - <ruby>[[道教]]<rt>ㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Daoism"
 - <ruby>[[神道]]<rt>ㄙㄧㄋㄉㄚㄨ</rt></ruby> "natural law"
-- <ruby>[[神道教]]<rt>ㄙㄧㄋㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Sintoism"
+- <ruby>[[神道教]]<rt>ㄙㄧㄋㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Shintoism"
 - <ruby>[[孝道]]<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby> "filial piety"
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
 - <ruby>[[跆拳道]]<rt>ㄊㄛㄧㄍ⼔ㄋㄉㄚㄨ</rt></ruby> "taekwando"

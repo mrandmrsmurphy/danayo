@@ -5750,3 +5750,33 @@ Next: 神道.
 No cranberry (神's own stand-in is [[神]], 道's is [[道]] itself) — neither constituent legitimized by this word. Pronunciation fields (sindau/신닷/ㄙㄧㄋㄉㄚㄨ) already verified as the correct concatenation — no bug. Fixed `characters` to block list, filled blank `pos`(名詞), removed empty `aliases: []`/blank `hsk_level`/`swadesh`, wrote a full `## Notes` section from scratch (body was previously empty beyond the meta-bind-embed) distinguishing classical-philosophy "natural law" sense from [[神道教]] "Sintoism." No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 神道教.
+
+### 2026-09-04, iteration 2736 — [[words/神道教|神道教]]
+
+No cranberry (neither 神's nor 道's own stand-in points here, and 教's own is [[教授]]) — no constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had sindaugyau/신닷걋, with 教's final vowel wrong (ya instead of yo) — 教's own value is gyou/굣 (`注音` ㄍ⼄ㄨ was already correctly reflected here). Corrected to sindaugyou/신닷굣. Confirmed via `grep -xF`/`grep -rn` that the wrong forms appeared nowhere else and no homophone exists for either form. Also normalized a propagated English typo, "Sintoism"→"Shintoism," across this word's own `english` field and the same citation on `characters/道 (char).md` and `characters/教.md` (`characters/神 (char).md`'s citation already said "Shinto" correctly). Filled blank `pos`(固有名詞)/`japanese`(しんとうきょう)/`vietnamese`(Thần đạo giáo), wrote a full Notes section (body was previously empty beyond the meta-bind-embed) distinguishing this from [[神道]]'s classical-philosophy sense. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神霊.
+
+### 2026-09-04, iteration 2737 — [[words/神霊|神霊]]
+
+No cranberry (神's own stand-in is [[神]], 霊's is [[霊魂]]) — neither constituent legitimized by this word. Pronunciation fields (sinleng/신렁/ㄙㄧㄋㄌㄝㄫ) already verified as the correct concatenation — no bug. This word already had an unusually thorough, encyclopedic body (cosmological/religious-tradition survey across Confucian/Daoist/Buddhist/folk contexts plus a CJKV cross-linguistic section) — kept nearly all of it intact, just renamed `## Definition and Etymology`→`## Notes` and prepended the required character-linking opening bullet. Fixed `characters` field order (was 霊 before 神 (char); reordered to match the compound's actual character order), removed redundant duplicate `品詞: 名詞` (already had `pos: 名詞`). **In passing**, fixed the 9th instance of the empty-string field bug on `characters/霊.md` (`hsk_level: ""`). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 票.
+
+### 2026-09-04, iteration 2738 — [[words/票|票]]
+
+Single-character stand-in word (confirmed via `characters/票 (char).md`'s own `stand_in: 票`). Pronunciation fields already correct (matches the character's own pyau/퍗/ㄆ⼘ㄨ, as expected for a stand-in). Fixed `vietnamese: null`→phiếu, bare-string `characters`→block list, added missing `pos`(名詞)/`kwin`(false)/`japanese`(ふだ). Renamed `# Notes`→`## Notes`, added the stand-in bullet and wrote real content (会意 etymology, Japanese kun- vs on-reading split). **Also fixed a missing "(stand-in for 票)" annotation** on `characters/票 (char).md`'s own Words-list citation of this same word. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祭祀.
+
+### 2026-09-04, iteration 2739 — [[words/祭祀|祭祀]]
+
+No cranberry (祀's own stand-in is this exact compound, 祭's own is [[祭典]]) — transitivity fails, though 祀 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had jesi/저시, an "-i" ending that doesn't belong to 祀's own syllable (sǝ/스, confirmed against `syllables/ㄙㄜ.md`) — `注音` ㄐㄝㄙㄜ was already correct, the usual tell for this bug class. Corrected to jesǝ/저스; `grep -xF` confirms no homophone for either form. Fixed relative links (missing `../`), filled blank vietnamese(tế tự), removed empty aliases/blank hsk_level/swadesh. `pos: 実詞` and `kwin: false` both already correct. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁制.
+
+### 2026-09-04, iteration 2740 — [[words/禁制|禁制]]
+
+No cranberry (禁's own stand-in is [[禁止]], 制's is [[抑制]]) — neither constituent legitimized by this word. Pronunciation fields (gimjei/김제/ㄍㄧㄇㄐㄝㄧ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 禁 is individually false), quoted pronunciation fields, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁忌.
