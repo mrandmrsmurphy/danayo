@@ -5304,6 +5304,68 @@ Next: 盲目.
 
 Next: 直.
 
+### 2026-09-04, iteration 2664 — [[words/直|直]]
+
+Single-character stand-in word. **Found and fixed a real, corroborated bug on the already-perfected `characters/直 (char).md` page itself**: its own `羅馬字`/`諺文`/`kwin` were stored as jig/직/true, but every other character sharing this exact syllable — 質, 疾, 嫉, 膣, 蛭 — independently uses jid/짇 (matching `syllables/ㄐㄧㄊ.md`'s canonical values); corrected 直's own page to jid/짇/false. The old wrong 직 happened to coincide with 直's own real Korean reading (also 직 in real-world Korean), which is likely why the error went unnoticed. Propagated the fix to this word file. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(性詞)/`japanese`(ちょく). **Found a three-way homophone**, all previously uncallout'd: [[直]]/[[膣]]/[[蛭]] all share 注音 ㄐㄧㄊ / 羅馬字 jid exactly — added callouts to all three (質/疾/嫉 also share the syllable but aren't themselves standalone words, so don't need the callout). Fixed tip-callout link to include `(char)` suffix, wrote a substantive `## Notes` section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 直線.
+
+### 2026-09-04, iteration 2665 — [[words/直線|直線]]
+
+線's own stand-in is this exact compound, but 直's own is [[直]] itself — transitivity fails, no `#cranberry`, though 線 is legitimized specifically by this word. **This word independently corroborated the 直-syllable bug found last iteration**: it had yet a *third* wrong variant for 直's portion (jing/징, distinct from both the correct jid/짇 and the previously-fixed-on-the-character-page wrong jig/직) — corrected to jidsyen/짇션 (線's own portion, syen/션, was already correct). Fixed `characters` from flow-style to block list. Filled blank `vietnamese`(trực tuyến) and flagged a real semantic drift: it now means "online/live" in everyday Vietnamese, not "straight line" (Vietnamese math uses native đường thẳng instead). Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄐㄧㄊㄙ⼶ㄋ / 羅馬字 jidsyen unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 直観.
+
+### 2026-09-04, iteration 2666 — [[words/直観|直観]]
+
+観's own stand-in is [[観察]], not this word; 直's own is [[直]] itself — no cranberry. Fixed the same 直-syllable bug (jing/징→jid/짇) found in the last two iterations. Fixed `characters` from flow-style to block list, fixed `## Etymology` heading to `## Notes`, wrote substantive content on intuition's philosophical register (phenomenology, Kantian *Anschauung*). No homophones (注音 ㄐㄧㄊㄍ⺢ㄋ / 羅馬字 jidgwan unique). Stamped `date-last-perfect: 2026-09-04`.
+
+### 2026-09-04, out-of-sequence fix — the 直-syllable bug, vault-wide
+
+With the bug now confirmed on 3 consecutive words (直, 直線, 直観) plus the root cause found on `characters/直 (char).md` itself, ran a targeted grep across all word files citing 直 for the same wrong `羅馬字` pattern (jig/jing instead of jid). Found and fixed 5 more affected files: **already-perfected** `words/垂直.md` (juijig→juijid, 쥐직→쥐짇 — also had to rewrite part of its own kwin-reasoning prose, which had explicitly argued "Dan'a'yo 직 = Sino-Korean 직" based on the since-corrected wrong value), `words/直径.md` (jiggeng→jidgeng), `words/率直.md` (ludjig→ludjid); **not-yet-perfected** `words/直角.md` and `words/硬直.md` (syllable only fixed, `硬直` left otherwise unperfected — alphabetically still ahead in the sweep, correctly not yet reached). `直角` was reached naturally by the sweep in the very next iteration below and got a full pass. Total confirmed instances of this bug: 8 (直, 直線, 直観, 垂直, 直径, 率直, 直角, 硬直).
+
+### 2026-09-04, iteration 2667 — [[words/直角|直角]]
+
+Reached naturally by the sweep, already had its 直-syllable bug fixed above. No cranberry (角's own stand-in is [[角]] itself). Fixed `characters` missing "(char)" suffix on both 直 and 角 (角's file is `角 (char).md`), fixed `## Etymology` heading to `## Notes`, removed blank `hsk_level`/`swadesh`/`aliases`. Notes notes Vietnamese's native góc vuông rather than a Sino-Vietnamese compound. No homophones (注音 ㄐㄧㄊㄍㄛㄎ / 羅馬字 jidgog unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 相互.
+
+### 2026-09-04, iteration 2668 — [[words/相互|相互]]
+
+**Cranberry confirmed**: both 相's own stand-in and 互's own stand-in are this exact compound — transitivity holds, added the `#cranberry` tag (was missing). Fixed comma-joined `korean`("상호,서로"→상호, the formal/written form; 서로, the native everyday word both characters independently cite as their own native gloss, moved to prose). Normalized `characters` from flow-style to block list, added missing `kwin: true` (Dan'a'yo 상호 matches literal Sino-Korean exactly), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, fixed `## Etymology` heading to `## Notes`. No homophones (注音 ㄙㄚㄫㄏㄛ / 羅馬字 sangho unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 相当.
+
+### 2026-09-04, iteration 2669 — [[words/相当|相当]]
+
+No cranberry (相's own stand-in is [[相互]], 当's is [[当]] itself). Already had strong Notes on the verb/degree-adverb double duty — kept as-is. Quoted `mandarin`/`cantonese`/`korean`, filled blank `vietnamese`(tương đương, a real, very common standard term). No homophones (注音 ㄙㄚㄫㄉㄚㄫ / 羅馬字 sangdang unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 相思.
+
+### 2026-09-04, iteration 2670 — [[words/相思|相思]]
+
+No cranberry (思's own stand-in is [[思考]], 相's is [[相互]]). **Fixed a truncated `諺文`**: was just "상" (one syllable) instead of "상사" (matching the two-syllable `羅馬字`/`注音` already present). Fixed `kwin` from false to true — Dan'a'yo 상사 (once corrected) exactly matches literal Sino-Korean 상사 (相's 상 + 思's 사). Wrote real content — Wang Wei's famous 相思 poem and the "lovesickness beans" (相思豆) motif. Normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄙㄚㄫㄙㄚ / 羅馬字 sangsa unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盾.
+
+### 2026-09-04, iteration 2671 — [[words/盾|盾]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(名詞)/`japanese`(じゅん)/`kwin`(false). Checked homophone syllable ㄐㄨㄋ — shared with 准/俊/樽/純/準/遵, but none of them are standalone words (all have compound-based stand-ins), so no homophone callout needed. Wrote a substantive `## Notes` section, including the 矛盾 ("spear and shield," i.e. contradiction) idiom. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 眉.
+
+### 2026-09-04, iteration 2672 — [[words/眉|眉]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(名詞)/`japanese`(び)/`kwin`(false). Checked homophone syllable ㄇㄧㄜ — shared with 寐/薇/魅, none of which are standalone words, so no callout needed. Wrote a substantive `## Notes` section (焦眉 idiom, 眉間). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 看.
+
+### 2026-09-04, iteration 2673 — [[words/看|看]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(事詞)/`japanese`(かん)/`kwin`(false). Completed a homophone callout that [[刊]] had already anticipated (its own Notes literally said "the reciprocal half will be completed when it comes up") — added the `[!warning] Homophones` callout here and tidied 刊's forward-looking sentence into a plain statement now that both sides are done. Wrote a substantive `## Notes` section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 県.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
