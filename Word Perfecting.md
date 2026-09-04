@@ -5899,3 +5899,27 @@ Next: 禿.
 Single-character stand-in word. Pronunciation fields already correct. **Completed a homophone callout already anticipated by [[啄]]'s own page**: both share tog/톡/ㄊㄛㄎ. Added missing `japanese`(とく), kept both of the character's own vietnamese candidates as a list, added missing "(stand-in for 禿)" annotation on `characters/禿 (char).md`'s own Words-list citation. Wrote a real Notes section (noting かむろ specifically means a hairstyle, not baldness, and doesn't correspond to this sense). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 禿就.
+
+### 2026-09-04, iteration 2758 — [[words/禿就|禿就]]
+
+No cranberry (both 禿's and 就's own stand-ins point to themselves). Pronunciation fields (togjuo/톡줏/ㄊㄛㄎㄐㄨㄛ) already verified as the correct concatenation of 禿's own reading and 就's *alias* reading (juo/줏/ㄐㄨㄛ, used when 就 borrows for 鷲 — confirmed against [[就鳥]]'s established documentation of this substitution) — no bug. Removed unnecessary quoting from `characters`, filled blank vietnamese(thốc thứu, built on 就's alias-reading thứu), removed blank hsk_level/swadesh, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秀.
+
+### 2026-09-04, iteration 2759 — [[words/秀|秀]]
+
+Single-character stand-in word. Pronunciation fields already correct. **Found a genuine homophone**: [[袖]] ("sleeve") shares this exact reading — added reciprocal callouts to both (袖 was otherwise left unperfected — bare-string characters, no pos/kwin/japanese, blank Notes — full pass deferred to its own turn). Filled blank vietnamese/japanese, added missing "(stand-in for 秀)" citation on `characters/秀 (char).md`'s own Words list (had been completely absent). Wrote a real Notes section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秀麗.
+
+### 2026-09-04, iteration 2760 — [[words/秀麗|秀麗]]
+
+No cranberry: 麗's own stand-in is this exact compound, but 秀's own is [[秀]] itself; transitivity fails, though 麗 is legitimized as an independent Dan'a'yo entry by this word (already thoroughly documented in the existing prose, including the contrast with [[華美]]/[[華麗]]). Pronunciation fields (suole/숫러/ㄙㄨㄛㄌㄝ) already verified as the correct concatenation — no bug. Quoted pronunciation fields, filled blank vietnamese(tú lệ). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 私立.
+
+### 2026-09-04, iteration 2761 — [[words/私立|私立]]
+
+No cranberry: 私's own stand-in is this exact compound, but 立's own is [[立]] itself; transitivity fails, though 私 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (siǝlib/싀립/ㄙㄧㄜㄌㄧㄆ) already verified as the correct concatenation — no bug. Fixed flow-style `characters`, filled blank `pos`(名詞)/vietnamese(tư lập), converted comma-joined `cantonese` into a proper two-item list (colloquial si1 laap6 vs literal si1 lap6), removed empty `aliases: []`/blank hsk_level/swadesh, renamed `## Etymology`→`## Notes` with substantive content. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秋.
