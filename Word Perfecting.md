@@ -5726,3 +5726,27 @@ Next: 神秘.
 No cranberry (神's own stand-in is [[神]], 秘's is [[秘密]]) — neither constituent legitimized by this word. Pronunciation fields (sinbiǝ/신븨/ㄙㄧㄋㄅㄧㄜ) already verified as the correct concatenation — no bug. Fixed flow-style `characters` to block list, filled blank `pos`(名詞), removed blank `hsk_level`/`swadesh`, renamed `## Etymology`→`## Notes` and wrote substantive content (contrasting 神秘 with [[秘密]] via the numinous/divine sense 神 adds). No homophones (`grep -xF` all unique). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 神経.
+
+### 2026-09-04, iteration 2732 — [[words/神経|神経]]
+
+No cranberry (神's own stand-in is [[神]], 経's is [[経]] itself) — neither constituent legitimized by this word. **New bug subtype found**: `諺文` had 싱겅 — the first syllable's final ㄴ had been place-assimilated to ㅇ before the following velar ㄱ (신경→싱겅), but `grammar/文法 - 02音韻論.md` line 150 explicitly forbids any cross-syllable sandhi/assimilation in Dan'a'yo. `羅馬字`/`注音` (singeng/ㄙㄧㄋㄍㄝㄫ) were already correctly un-assimilated. Corrected `諺文` to straight concatenation 신겅. Confirmed via `grep -rn` that 싱겅 appeared nowhere else in the vault (isolated instance). Fixed `pos` (固有名詞→名詞, since the primary sense "nerve" is a common noun, unlike the proper-noun classic titles it's patterned after). Quoted pronunciation fields, removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神話.
+
+### 2026-09-04, iteration 2733 — [[words/神話|神話]]
+
+No cranberry (神's own stand-in is [[神]], 話's is [[話]] itself) — neither constituent legitimized by this word. Pronunciation fields (sinhwai/신홰/ㄙㄧㄋㄏ⺢ㄧ) already verified as the correct concatenation — no bug. Fixed flow-style `characters` and `aliases` to block lists, filled blank `pos`(名詞), removed blank `hsk_level`/`swadesh`, renamed `## Etymology`→`## Notes` and wrote substantive content (distinguishing 神話 from 伝説/童話). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神農.
+
+### 2026-09-04, iteration 2734 — [[words/神農|神農]]
+
+No cranberry (神's own stand-in is [[神]], 農's is [[農業]]) — neither constituent legitimized by this word. Pronunciation fields (sinnong/신농/ㄙㄧㄋㄋㄛㄫ) already verified as the correct concatenation — no bug; `pos: 固有名詞` correctly kept (Shennong is a genuine proper noun, unlike 神経's earlier miscategorized "nerve"). Fixed flow-style `characters`, removed empty `aliases: []`/blank `hsk_level`/`swadesh`, renamed `## Etymology`→`## Notes` and wrote substantive content (Three Sovereigns, TCM founder, Vietnamese folk-religion veneration). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神道.
+
+### 2026-09-04, iteration 2735 — [[words/神道|神道]]
+
+No cranberry (神's own stand-in is [[神]], 道's is [[道]] itself) — neither constituent legitimized by this word. Pronunciation fields (sindau/신닷/ㄙㄧㄋㄉㄚㄨ) already verified as the correct concatenation — no bug. Fixed `characters` to block list, filled blank `pos`(名詞), removed empty `aliases: []`/blank `hsk_level`/`swadesh`, wrote a full `## Notes` section from scratch (body was previously empty beyond the meta-bind-embed) distinguishing classical-philosophy "natural law" sense from [[神道教]] "Sintoism." No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神道教.
