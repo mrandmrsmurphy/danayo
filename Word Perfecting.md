@@ -5166,6 +5166,42 @@ No cranberry (both constituents' own stand-ins point to themselves). Fixed `japa
 
 Next: 白鷺.
 
+### 2026-09-04, iteration 2641 — [[words/白鷺|白鷺]]
+
+Same class of bug as 白頭鷺... i.e. [[白頭鷲]]: `characters` cited bare "鷺", which has no character page of its own — it's an alias/借代字 substitute for [[路]] (per 路's own `### 借代字` section and existing precedent on [[蒼路]] "crane"). Corrected `characters` to cite "路". Unlike the 就/鷲 case, 路 and 鷺 are true Mandarin/Cantonese homophones (lù/lou6), so 路's own regular Dan'a'yo reading already applied correctly with no separate alias-reading needed — all pronunciation fields were already right, only blank `vietnamese`(bạch lộ) needed filling. Added simplified alias 白鹭, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Added the missing companion citation to `characters/路.md`'s own `## Words` list. No homophones (注音 ㄅㄚㄎㄌㄛ / 羅馬字 baglo unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百事.
+
+### 2026-09-04, iteration 2642 — [[words/百事|百事]]
+
+Sweep reached this word naturally — earlier (iteration 2632, [[白止]]) only its homophone callout format had been fixed in passing; completed the rest of the checklist now. No cranberry (both constituents' own stand-ins point to themselves). Fixed `characters` bare "百"→"百 (char)" (file has the suffix). Filled blank `japanese`(ひゃくじ)/`vietnamese`(bách sự), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Wrote a real `## Notes` section (was just a bare opening bullet) — 百事 is an idiom of comprehensiveness ("all matters, everything"), not a literal count; noted 百事可樂 (Pepsi) as a phono-semantic pun on it. Homophone callout to [[白止]] confirmed already correct (fixed earlier). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百分率.
+
+### 2026-09-04, iteration 2643 — [[words/百分率|百分率]]
+
+No cranberry (all three constituents' own stand-ins point elsewhere: 百→[[百]], 分→[[分]], 率→[[比率]]). Fixed `characters` missing "(char)" suffix on 百 (率's bare form was already correct — its file has no suffix). Quoted `mandarin`/`cantonese`/`korean`, added missing `kwin: false`. Notes documents a real Korean spelling rule (率 shifts 률→율 after ㄴ/vowel-final syllables, giving 백분율 not the mechanical 백분률). Added the missing companion citation to `characters/分 (char).md`'s own Words list. No homophones (注音 ㄅㄚㄎㄅㄨㄋㄌㄨㄊ / 羅馬字 bagbunlud unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百家.
+
+### 2026-09-04, iteration 2644 — [[words/百家|百家]]
+
+No cranberry (家's own stand-in is [[家庭]], not this word). Already had a strong, substantive `## Notes` section on 諸子百家/the Hundred Schools — kept as-is, extended to cover the newly-added vietnamese. Quoted `mandarin`/`cantonese`/`korean`, filled missing `vietnamese`(bách gia, real term, as in Chư tử bách gia). No homophones (注音 ㄅㄚㄎㄍㄚ / 羅馬字 bagga unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百済.
+
+### 2026-09-04, iteration 2645 — [[words/百済|百済]]
+
+No cranberry (a historical proper noun, not a semantically-compositional pair). Fixed `characters` missing "(char)" suffix on 百, fixed comma-joined `japanese`("くだら, ひゃくさい"→くだら, the old native reading reflecting Baekje's historical ties to Japan, matching real usage — mentioned ひゃくさい as the on'yomi alternate in prose), removed redundant duplicate `品詞` field (already covered by `pos`), fixed `## Etymology` heading to `## Notes` and wrote real historical content (Three Kingdoms of Korea, transmission of Buddhism/literacy to Japan, fall in 660 AD). No homophones (注音 ㄅㄚㄎㄐㄝㄧ / 羅馬字 bagjei unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百科.
+
+### 2026-09-04, iteration 2646 — [[words/百科|百科]]
+
+No cranberry (科's own stand-in is [[学科]], not this word). Fixed a real `cantonese` typo (bak3→baak3, missing the extra a matching 百's own baak3). Fixed `characters` missing "(char)" suffix, fixed `## Etymology` heading to `## Notes` and wrote real content — 百科 functions chiefly as a bound "encyclopedic/comprehensive" prefix (百科事典, and institutional "polytechnic" naming) rather than standing alone. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄚㄎㄍ⺢ / 羅馬字 bagkwa unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 百科事典.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
