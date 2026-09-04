@@ -5005,3 +5005,23 @@ Next: 痘痕.
 痘's own stand-in is this exact compound, but 痕's own is [[痕跡]] — transitivity fails, no `#cranberry`, though 痘 is legitimized specifically by this word. Mandarin dòuhén, Korean 두흔 already correct. Japanese あばた (real native term) confirmed correct as-is. Filled blank `cantonese`(dau6 han4)/`vietnamese`(đậu ngân). No homophones (注音 ㄉㄛㄨㄏㄜㄋ unique). Stamped `date-last-perfect: 2026-09-03`.
 
 Next: 痩.
+
+### 2026-09-04, iteration 2615 — [[words/痩|痩]]
+
+Single-character stand-in word (like 嫩, 多): 痩 legitimizes its own character, `#cranberry` not applicable (not a multi-character compound). Frontmatter was malformed — `characters` was a bare string instead of a list, `pos` and `japanese` were missing entirely (both always-required fields). Fixed `characters` to list form, added `pos: 性詞` (from character page) and `japanese: そう` (on'yomi, lowercased from character's `SOU`). Fixed the tip-callout character link to include the `(char)` suffix per sibling convention. Verified homophones via exact grep on both `注音: ㄙ⼜` and `羅馬字: syu` — confirmed [[手]] "hand" and [[銹]] "rust" are the only matches; existing callout already correct and already cross-linked from both sibling pages. Wrote a substantive `## Notes` section (was empty, wrong heading level `#`) covering the 形声 etymology and the JA verb-vs-adjective divergence (痩せる vs Chinese/Cantonese stative usage). Stamped `date-last-perfect: 2026-09-04`.
+
+Note for later: while checking homophones, found [[words/銹|銹]] itself is not yet perfect — `characters` also a bare string, missing `japanese` field, `# Notes` instead of `## Notes`, no `date-last-perfect`. Out of scope today (alphabetically far past current sweep position); leaving as a flagged gap for [[project_perfection_era_methodology]] or a future targeted pass.
+
+Next: 痴情.
+
+### 2026-09-04, iteration 2616 — [[words/痴情|痴情]]
+
+痴's own stand-in is [[痴漢]], 情's own is [[感情]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. Removed three blank fields (`hsk_level`, `swadesh`, `aliases`). All pronunciation fields (mandarin chīqíng, cantonese ci1 cing4, japanese ちじょう, korean 치정, vietnamese si tình, 注音/羅馬字/諺文) were already correct and fully compositional — no changes needed there. Rewrote the wrong `## Etymology` heading as `## Notes` with a real opening bullet plus substantive paragraphs on meaning and the Mandarin/Cantonese (admiring, "devoted") vs. Japanese/Korean (crime-of-passion, legal register) usage split. No homophones (注音 ㄑㄧㄑㄧㄫ / 羅馬字 cicing unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 痴漢.
+
+### 2026-09-04, iteration 2617 — [[words/痴漢|痴漢]]
+
+痴's own stand-in is this exact compound, but 漢's own is [[漢族]] — transitivity fails, no `#cranberry`, though 痴 is legitimized specifically by this word (same shape as 痘痕/痘). Filled blank `korean`(치한)/`vietnamese`(si hán, compositional), removed blank `hsk_level`/`swadesh`/`aliases`, added missing `kwin: true` (Dan'a'yo 치한 happens to coincide exactly with Korean 치한, matching both constituent characters' own `kwin: true`), normalized `characters` list indentation. Wrote a real `## Notes` section covering the word's narrowing from generic "disreputable man" to specifically "molester/pervert" — strongest in Japanese/Korean (legal/public-safety register), retained more broadly in Mandarin/Cantonese. No homophones (注音 ㄑㄧㄏㄚㄋ / 羅馬字 cihan unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 癌症.
