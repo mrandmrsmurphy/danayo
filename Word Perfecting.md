@@ -5492,6 +5492,36 @@ No cranberry (音's own stand-in is [[音楽]], 短's is [[短]] itself). Filled
 
 Next: 矮.
 
+### 2026-09-04, iteration 2695 — [[words/矮|矮]]
+
+Single-character stand-in word. Fixed bare-string `characters`, missing `japanese`(わい)/`kwin`(true — Dan'a'yo 왜 matches Korean exactly). Checked homophone syllable ⺢ㄧ — shared with 厓/外/歪, none of which are standalone words, so no callout needed. In passing: `characters/矮 (char).md` has an empty-string `hsk_level: ""` bug (4th instance of this pattern found this session, after 色/翁/県). Wrote a substantive `## Notes` section (矮 vs 短 distinction — person vs object/duration; 矮行星/矮星 astronomy terms). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 矮行星.
+
+### 2026-09-04, iteration 2696 — [[words/矮行星|矮行星]]
+
+No cranberry (all three constituents' own stand-ins point to themselves). Quoted `mandarin`/`cantonese`/`korean`, added missing `kwin: false`. Expanded Notes with real astronomical content (IAU 2006 dwarf-planet definition, Pluto's reclassification, Ceres/Eris/Haumea/Makemake). No homophones (注音 ⺢ㄧㄏㄚㄫㄙㄝㄫ / 羅馬字 'waihangseng unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 石素.
+
+### 2026-09-04, iteration 2697 — [[words/石素|石素]]
+
+A Dan'a'yo-internal periodic-table neologism (echoing real 鋰/锂's "stone element" etymology), not a compositionally-cross-linguistic word — the other CJKV daughters converge on international borrowed forms instead (리튬/リチウム/liti), correctly already set. No cranberry (both constituents' own stand-ins point elsewhere). Fixed comma-joined `vietnamese`("lithi, liti"→liti), removed redundant duplicate `品詞`. Expanded Notes with the real-world etymological background of 鋰/锂. No homophones (注音 ㄙㄝㄎㄙㄛ / 羅馬字 segso unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 石英.
+
+### 2026-09-04, iteration 2698 — [[words/石英|石英]]
+
+No cranberry (英's own stand-in is [[英雄]], 石's is [[石]] itself). All pronunciation fields already correct and compositional. Fixed `## Etymology` heading to `## Notes` and wrote real content — quartz's uses in jewelry, sand/granite, and piezoelectric electronics. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄙㄝㄎㄝㄫ / 羅馬字 seg'eng unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 砕.
+
+### 2026-09-04, iteration 2699 — [[words/砕|砕]]
+
+Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(事詞)/`japanese`(さい)/`kwin`(false). Checked homophone syllable ㄙㄛㄧ — only 砕/砕 (char) cite it, no other homophone. In passing: `characters/砕 (char).md` has an empty-string `hsk_level: ""` bug (5th instance of this pattern found this session — 色/翁/県/矮/砕). Wrote a substantive `## Notes` section (粉骨砕身 idiom). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 破.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
