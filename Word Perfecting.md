@@ -5546,6 +5546,36 @@ Next: 破綻.
 
 Next: 破裂.
 
+### 2026-09-04, iteration 2704 — [[words/破裂|破裂]]
+
+裂's own stand-in is this exact compound, but 破's own is [[破]] itself — transitivity fails, no `#cranberry`, though 裂 is legitimized specifically by this word. **Found and fixed a real reading bug, now a two-part version of the recurring 破 issue**: `羅馬字`/`諺文` had BOTH the recurring 破-portion bug (pa/파 instead of pǝ/프) AND a separate, distinct typo on 裂's own portion (leg/럭 instead of 裂's actual led/럳) — `注音` (ㄆㄜㄌㄝㄊ) was already fully correct throughout and gave away both mismatches. Corrected paleg/파럭 → pǝled/프럳. Filled blank `vietnamese`(phá liệt), quoted `hsk_level: 4`→`"4"`, removed empty-list `aliases: []`, fixed `## Etymology` heading to `## Notes`. No homophones (注音 ㄆㄜㄌㄝㄊ / 羅馬字 pǝled unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 硬直.
+
+### 2026-09-04, iteration 2705 — [[words/硬直|硬直]]
+
+No cranberry (both constituents' own stand-ins point to themselves). Closed out a known gap flagged several iterations ago: this word's 直-syllable bug had already been fixed as part of the vault-wide sweep, so today's pass was just the remaining checklist — filled blank `vietnamese`(ngạnh trực), quoted `mandarin`/`cantonese`, expanded Notes. No homophones (注音 ㄚㄫㄐㄧㄊ / 羅馬字 'angjid unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 硬金.
+
+### 2026-09-04, iteration 2706 — [[words/硬金|硬金]]
+
+A periodic-table neologism (molybdenum) with already-extensive, thorough Notes (etymology of "molybdenum," why 硬 was chosen over the collision-prone 鉛/重, comparison across CJKV forms) — left substantively as-is. Removed redundant duplicate `品詞`, added aliases for the real characters 鉬/钼. No homophones (注音 ㄚㄫㄍㄧㄇ / 羅馬字 'anggim unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 硼砂.
+
+### 2026-09-04, iteration 2707 — [[words/硼砂|硼砂]]
+
+硼's own stand-in is this exact compound, but 沙's own is [[沙]] itself — transitivity fails, no `#cranberry`, though 硼 is legitimized specifically by this word. Confirmed the title's use of 砂 (alias) vs `characters:` citing the parent "沙 (char)" is correct per vault convention. Filled blank `vietnamese`(hàn the, the real standard term, not itself compositional from 硼's own reading), quoted `mandarin`/`cantonese`/`korean`. In passing: `characters/硼.md` has real quality issues (duplicate `## Notes` headers, empty OC values, dangling unlinked lookup tags) despite being dated "perfected" back in March — flagged, not fixed (character-page issue outside today's scope). No homophones (注音 ㄅㄛㄫㄙㄚ / 羅馬字 bongsa unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 碗.
+
+### 2026-09-04, iteration 2708 — [[words/碗|碗]]
+
+Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(名詞)/`japanese`(わん). **Found a missing homophone**: [[腕]] (still unperfected, alphabetically ahead) shares the exact syllable 'wan/완/⺢ㄋ — added reciprocal callouts to both. Checked 玩/翫/頑, also sharing the syllable, but none are standalone words. Wrote a substantive `## Notes` section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 碧玉.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
