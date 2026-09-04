@@ -5057,3 +5057,27 @@ Next: 発情.
 発's own stand-in is [[発]] itself, 情's own is [[感情]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation fields were already correct and compositional (mandarin fāqíng, cantonese faat3 cing4, japanese はつじょう, korean 발정, 注音/羅馬字/諺文); `pos: 実詞` left as-is (an established, widely-used category distinct from `事詞`, not a typo — verified ~343 other files use it). Filled blank `vietnamese`(phát tình — noted in Notes as drifting toward the interpersonal "falling for someone" sense rather than the zoological "estrus" sense the other four languages share), removed blank `hsk_level`/`swadesh`. Wrote a real `## Notes` section. No homophones (注音 ㄈㄚㄊㄑㄧㄫ / 羅馬字 fadcing unique). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 発明.
+
+### 2026-09-04, iteration 2623 — [[words/発明|発明]]
+
+発's own stand-in is [[発]] itself, 明's own is [[明]] itself — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation fields already correct and compositional (mandarin fāmíng, cantonese faat3 ming4, japanese はつめい, korean 발명, 注音/羅馬字/諺文); `hsk_level: "2"` already properly formatted, left as-is. Filled blank `vietnamese`(phát minh — the actual standard Vietnamese word for "invention," not just a compositional guess), added `aliases`(發明/发明) matching the established convention on sibling 発-compounds (発展/発見/発生/発電 all carry traditional+simplified aliases), removed blank `swadesh`. No homophones (注音 ㄈㄚㄊㄇ⼶ㄫ / 羅馬字 fadmyeng unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発熱.
+
+### 2026-09-04, iteration 2624 — [[words/発熱|発熱]]
+
+発's own stand-in is [[発]] itself, 熱's own is [[熱]] itself — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. Fixed a self-referential `aliases` typo (list included the word's own name "発熱" instead of the intended traditional form) — corrected to proper traditional/simplified pair 發熱/发热, kept the pre-existing colloquial-synonym pair 發燒/发烧 (Mandarin's more common everyday "have a fever," following the same precedent already set on 熱 (char)'s own perfected `aliases`). Filled blank `vietnamese`(phát nhiệt, real attested term), removed blank `swadesh`; `hsk_level: "4"` already correctly formatted, left as-is. No homophones (注音 ㄈㄚㄊㄋ⼶ㄊ / 羅馬字 fadnyed unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発財.
+
+### 2026-09-04, iteration 2625 — [[words/発財|発財]]
+
+発's own stand-in is [[発]] itself, 財's own is [[財産]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. **Found and fixed a real reading bug**: `羅馬字`/`諺文` used 財's syllable as "cai"/"채" instead of 財's actual reading "jai"/"재" (confirmed via `syllables/ㄐㄚㄧ.md` and 財's own frontmatter) — corrected fadcai→fadjai, 빧채→빧재; `注音` (ㄈㄚㄊㄐㄚㄧ) was already right, so this was purely a romanization/hangul-transcription slip, not a syllable-identity confusion like the 合/ㄎㄚㄆ bug. Also fixed `korean` from the semantic-substitution "부자" ("rich person," written with unrelated hanja 富者) to the real compositional Sino-Korean 발재. Filled blank `japanese`(はつざい, compositional — noted in Notes that JA/KR lack the Lunar New Year greeting tradition that keeps this word living in Mandarin/Cantonese/Vietnamese), added missing simplified alias 发财 alongside existing 發財, removed blank `swadesh`. No homophones (注音 ㄈㄚㄊㄐㄚㄧ / 羅馬字 fadjai unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発電.
+
+### 2026-09-04, iteration 2626 — [[words/発電|発電]]
+
+発's own stand-in is [[発]] itself, 電's own is [[電気]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation/alias fields already correct (mandarin fādiàn, cantonese faat3 din6, japanese はつでん, korean 발전, 注音/羅馬字/諺文, aliases 发电/發電). Filled blank `vietnamese`(phát điện, real attested term), removed blank `swadesh`; `hsk_level: "3"` left as-is. Notes section flags a genuine Korean homophony worth documenting: 발전 is ambiguous between 發電 (this word) and 發展 ("development") since 展 and 電 share the same Korean syllable 전 — not a vault error, a real feature of the language. No word-level homophones (注音 ㄈㄚㄊㄉㄝㄋ / 羅馬字 fadden unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発音.
