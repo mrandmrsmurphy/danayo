@@ -5654,6 +5654,36 @@ No cranberry (all four constituents' own stand-ins point elsewhere). **Fixed ano
 
 Next: 祈祷.
 
+### 2026-09-04, iteration 2722 — [[words/祈祷|祈祷]]
+
+Cranberry already correctly confirmed and tagged (neither 祈 nor 祷 has independent life elsewhere; both native readings identical between the two characters). Fixed a real `japanese` typo (きたう→きとう, real word for "prayer," kitō — と/た visual/keyboard-adjacent slip). Quoted `mandarin`/`cantonese`/`korean`, fixed relative links missing `../`. In passing: `characters/祈.md` has an empty-string `hsk_level: ""` bug (8th instance of this pattern found this session). No homophones (注音 ㄍㄧㄜㄉㄚㄨ / 羅馬字 giǝdau unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祖国.
+
+### 2026-09-04, iteration 2723 — [[words/祖国|祖国]]
+
+No cranberry (祖's own stand-in is [[祖先]], 国's is [[国家]]). **Found and fixed a real reading bug**: `羅馬字`/`諺文` used "jo/조" instead of 祖's real Dan'a'yo reading "jǝ/즈" — `注音` (ㄐㄜㄍㄛㄎ) was already correct and gave away the mismatch, matching the same failure mode as 盧森堡/破暁/破裂. Corrected jogog/조곡 → jǝgog/즈곡. Normalized `characters`/`aliases` to block style. No homophones (注音 ㄐㄜㄍㄛㄎ / 羅馬字 jǝgog unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祖母.
+
+### 2026-09-04, iteration 2725 — [[words/祖父|祖父]]
+
+No cranberry (祖's own stand-in is [[祖先]], 父's is [[父親]]). Checked proactively per last iteration's note — found the same 祖-syllable bug, but this time only in `羅馬字` (jobu→jǝbu); `諺文` (즈부) was already correct, `注音` also already correct. Filled blank `vietnamese`(ông nội), quoted `hsk_level: 3`→`"3"`, fixed `## Etymology` heading to `## Notes`, wrote content mirroring [[祖母]]'s formal-vs-colloquial (祖父 vs 爺爺) register split. No homophones (注音 ㄐㄜㄅㄨ / 羅馬字 jǝbu unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祝賀.
+
+### 2026-09-04, iteration 2726 — [[words/祝賀|祝賀]]
+
+賀's own stand-in is this exact compound, but 祝's own is [[慶祝]] — transitivity fails, no `#cranberry`, though 賀 is legitimized specifically by this word. All pronunciation fields were already correct and compositional (no 祝-syllable bug this time). Filled blank `vietnamese`(chúc hạ), added simplified alias 祝贺, fixed `## Etymology` heading to `## Notes` (and a typo, "congradulate"→"congratulate"). No homophones (注音 ㄐㄨㄎㄏㄚ / 羅馬字 jugha unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神.
+
+### 2026-09-04, iteration 2724 — [[words/祖母|祖母]]
+
+No cranberry (祖's own stand-in is [[祖先]], 母's is [[母親]]). **Same recurring reading bug again**: `羅馬字`/`諺文` had 祖's wrong "jo/조" instead of "jǝ/즈" — `注音` already correct (5th instance of this exact bug class this session, following 盧森堡/破暁/破裂/祖国). Corrected jomou/조못 → jǝmou/즈못. Quoted `hsk_level: 3`→`"3"`, removed empty-list `aliases: []`. Turned a stray body line ("suppletive diminutive 婆婆") into a proper `## Notes` section discussing the formal-vs-colloquial (祖母 vs 奶奶/婆婆) register split. No homophones (注音 ㄐㄜㄇㄛㄨ / 羅馬字 jǝmou unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 祖父.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
