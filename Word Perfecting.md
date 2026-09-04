@@ -5226,6 +5226,30 @@ Next: 皺紋.
 
 Next: 盆.
 
+### 2026-09-04, iteration 2651 — [[words/盆|盆]]
+
+Single-character stand-in word (like 嫩/多/痩/癖/発). Fixed bare-string `characters` to list form, added missing `pos`(名詞)/`japanese`(ぼん)/`kwin`. Added a missing `>[!warning] Homophones` callout — found via exact grep that [[紛]] shares 注音 ㄆㄨㄋ/羅馬字 pun exactly; added the reciprocal callout on `words/紛.md` too (not otherwise perfected, out of scope until the sweep reaches it). Fixed tip-callout link to include `(char)` suffix. Wrote a substantive `## Notes` section, including the coincidental unrelated etymology of お盆 (Obon festival, from Sanskrit ullambana) sharing the same character. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盛衰.
+
+### 2026-09-04, iteration 2652 — [[words/盛衰|盛衰]]
+
+No cranberry (盛's own stand-in is [[全盛]], 衰's is [[衰弱]]). Filled a completely blank `pos`(名詞) and `vietnamese`(thịnh suy, real attested term), normalized `characters` from flow-style to block list, fixed `## Etymology` heading to `## Notes` and wrote real content — the classical/Buddhist idiom 盛者必衰 and its famous opening-line echo in the *Tale of the Heike*. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄙㄧㄫㄙ⼔ㄧ / 羅馬字 singswei unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盟誓.
+
+### 2026-09-04, iteration 2653 — [[words/盟誓|盟誓]]
+
+誓's own stand-in is this exact compound, but 盟's own is [[連盟]] — transitivity fails, no `#cranberry`, though 誓 is legitimized specifically by this word. Fixed comma-joined `mandarin`("méngshì, míngshì"→méngshì, the second variant wasn't attested on 盟's own character page). Filled blank `vietnamese`(minh thệ). Notes documents a real Korean lexicalized sound change: modern standard 맹세 rather than the mechanically-compositional 맹서 (already correctly set in `korean`, explained rather than "corrected"). Normalized `characters` list indentation, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄇ⼶ㄫㄙㄝ / 羅馬字 myengse unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 監獄.
+
+### 2026-09-04, iteration 2654 — [[words/監獄|監獄]]
+
+獄's own stand-in is this exact compound, but 監's own is [[監督]] — transitivity fails, no `#cranberry`, though 獄 is legitimized specifically by this word. All pronunciation fields already correct and fully compositional (mandarin jiānyù, cantonese gaam1 juk6, japanese かんごく, korean 감옥, 注音/羅馬字/諺文). Filled blank `vietnamese`(giám ngục) and flagged a real semantic drift: the Sino-Vietnamese compound has come to mean "prison warden" rather than "prison" itself, with native nhà tù preferred for the institution. Added simplified alias 监狱, normalized `characters` list indentation, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄍㄚㄇ⼄ㄎ / 羅馬字 gam'yog unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 監禁.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
