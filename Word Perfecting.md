@@ -5118,6 +5118,30 @@ No cranberry (a graphemic simplification, not a compound of two independently-st
 
 Next: 白熊.
 
+### 2026-09-04, iteration 2633 — [[words/白熊|白熊]]
+
+No cranberry (熊's own stand-in is [[熊]] itself, 白's is [[白]] itself). Added missing `kwin: false` (Dan'a'yo 박웅 diverges from literal Sino-Korean 백웅). Wrote a `## Notes` section on an interesting cross-linguistic split: mandarin/cantonese use straightforward Sino compounds, but japanese しろくま/korean 흰곰/vietnamese gấu trắng all use native calques instead, since polar bears have no traditional presence in the Sinosphere's temperate range. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄚㄎ·ㄨㄫ / 羅馬字 bag'ung unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白狐.
+
+### 2026-09-04, iteration 2634 — [[words/白狐|白狐]]
+
+No cranberry (狐's own stand-in is [[狐狸]], not this word). Fixed `japanese` typo びやくこ (big や) → corrected to びゃっこ (small ゃ, with gemination) — the real, attested reading for the mythological white fox associated with Inari, not just a straightforward compositional concatenation. Filled blank `vietnamese`(bạch hồ), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Notes flags a real Korean-internal homophone worth knowing (백호 = both 白狐 and the unrelated 白虎 "white tiger," disambiguated only by context/hanja — not a Dan'a'yo-level homophone requiring this vault's own callout system). No Dan'a'yo homophones (注音 ㄅㄚㄎㄏㄛ / 羅馬字 bagho unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白色.
+
+### 2026-09-04, iteration 2635 — [[words/白色|白色]]
+
+No cranberry (色's own stand-in is [[色彩]], not this word). Fixed comma-joined dual values in both `korean`("백색,하양"→백색, single compositional value) and `vietnamese`("bạch, trắng"→bạch sắc) — matching the precedent set on 甘藷's `korean` fix, native alternatives (하양, trắng) now noted in prose instead. Added missing `kwin: false`. Confirmed via `lexipedia/Swadesh.md` that Swadesh #175 "white" maps to the bare word [[白]], not this compound, so `swadesh` stays correctly omitted rather than blank-then-guessed. Also noted in passing: `色` (char)'s own already-perfected frontmatter has an empty-string `pos: ""` bug — flagged, not fixed (out of scope for word sweep). No homophones (注音 ㄅㄚㄎㄙㄧㄎ / 羅馬字 bagsig unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白菜.
+
+### 2026-09-04, iteration 2636 — [[words/白菜|白菜]]
+
+No cranberry (菜's own stand-in is [[野菜]], not this word). Verified `羅馬字`/`諺文`/`注音` (bagcai/박채/ㄅㄚㄎㄑㄚㄧ) were already correct — confirmed via `syllables/ㄑㄚㄧ.md` that 菜 genuinely belongs to the ㄑ-series "cai" syllable, distinct from 財's ㄐ-series "jai" fixed a few iterations ago; not the same bug recurring. Fixed comma-joined dual `korean`("배추,백채"→배추, the real everyday word, kimchi's base vegetable) and unquoted `hsk_level: 2`→`"2"`. Added missing `kwin: false`. Removed blank `swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄚㄎㄑㄚㄧ / 羅馬字 bagcai unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白領.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
