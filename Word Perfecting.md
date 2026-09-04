@@ -5390,6 +5390,54 @@ Next: 眼睛.
 
 Next: 着.
 
+### 2026-09-04, iteration 2678 — [[words/着|着]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(事詞)/`japanese`(ちゃく)/`kwin`(false). Completed a homophone callout that [[勺]] had already anticipated (its own Notes said "the reciprocal half will be completed when it comes up") — added the callout here and tidied 勺's forward-looking sentence. Wrote a substantive `## Notes` section, including 着's distinct grammatical-particle use in Mandarin (durative aspect marker) alongside the "wear" sense. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 睡眠.
+
+### 2026-09-04, iteration 2679 — [[words/睡眠|睡眠]]
+
+**Cranberry confirmed**: both 睡's own stand-in and 眠's own stand-in are this exact compound — added the missing `#cranberry` tag. **Found and fixed a stale-syllable bug spanning 4 files**: 眠's real assigned syllable is ㄇㄝㄇ/멈/mem, deliberately shifted to avoid a crowded ㄇㄝㄋ slot (already holding 麺) per `Lookup/CC/finals/韻 先開.md` — but this word's own frontmatter, 睡's own Words-list citation, 眠's own Words-list citation, and even `syllables/ㄇㄝㄇ.md`'s own worked example had all been left with the older, pre-shift ㄇㄝㄋ ending. Fixed all four. Filled a completely blank `pos`(名詞) and `vietnamese`(thụy miên), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones after correction. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 睾丸.
+
+### 2026-09-04, iteration 2680 — [[words/睾丸|睾丸]]
+
+睾's own stand-in is this exact compound, but 丸's own is [[薬丸]] — transitivity fails, no `#cranberry`, though 睾 is legitimized specifically by this word. Fixed a non-standard `cantonese` tone-change notation ("jyun4-2"→jyun2, same class of fix as 盧魚's earlier). Filled blank `vietnamese`(tinh hoàn, the real medical term — substitutes 精 for 睾 compared to the other daughters). Normalized `characters` indentation, fixed `## Etymology` heading to `## Notes`, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄍㄚㄨㄏ⺢ㄋ / 羅馬字 gauhwan unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞬間.
+
+### 2026-09-04, iteration 2681 — [[words/瞬間|瞬間]]
+
+No cranberry (瞬's own stand-in is [[一瞬]], 間's is [[之間]]). Filled a completely blank `pos`(名詞) and `vietnamese`(thuấn gian; noted native khoảnh khắc as the everyday term), normalized `characters`/`aliases` from flow-style to block, normalized `cantonese` to match 瞬's own citation (seun3, not seon3). No homophones (注音 ㄙ⼜ㄋㄍㄚㄋ / 羅馬字 syungan unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞭然.
+
+### 2026-09-04, iteration 2682 — [[words/瞭然|瞭然]]
+
+No cranberry (瞭's own stand-in is [[明瞭]], 然's is [[然]] itself). Already had strong Notes explaining Vietnamese's lack of a Hán-Việt compound reading here — added `vietnamese: rõ ràng` to the frontmatter itself (matching the already-documented native substitution) rather than leaving the field entirely absent, for consistency with the rest of the vault. Normalized `cantonese` first syllable to match 瞭's own citation (liu4, not liu5). Quoted `korean`. No homophones (注音 ㄌ⼘ㄨㄋ⼶ㄋ / 羅馬字 lyaunyen unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞳孔.
+
+### 2026-09-04, iteration 2683 — [[words/瞳孔|瞳孔]]
+
+瞳's own stand-in is this exact compound, but 孔's own is [[孔]] itself — transitivity fails, no `#cranberry`, though 瞳 is legitimized specifically by this word. Fixed `characters` missing "(char)" suffix on 孔, normalized from flow-style to block list. Filled blank `vietnamese`(đồng khổng) and flagged a real structural divergence: everyday Vietnamese uses đồng tử (瞳+子), not 瞳孔's own 瞳+孔 pairing. Rebuilt the body from a bare "synonymous with 眼睛" line into proper `## Notes` structure. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄉㄛㄫㄎㄛㄫ / 羅馬字 dongkong unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞻仰.
+
+### 2026-09-04, iteration 2684 — [[words/瞻仰|瞻仰]]
+
+瞻's own stand-in is this exact compound, but 仰's own is [[仰望]] — transitivity fails, no `#cranberry` (already correctly noted in existing Notes, rephrased to match standard wording). All pronunciation fields already correct and fully compositional (mandarin zhānyǎng, cantonese zim1 joeng5, japanese せんぎょう, korean 첨앙, vietnamese chiêm ngưỡng, 注音/羅馬字/諺文). Quoted `mandarin`/`cantonese`. Expanded Notes with real usage detail — 瞻仰 is used for solemn visits to memorials/shrines (瞻仰遺容, 瞻仰毛主席紀念堂). No homophones (注音 ㄐㄝㄇ·⼘ㄫ / 羅馬字 jem'yang unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞻余.
+
+### 2026-09-04, iteration 2685 — [[words/瞻余|瞻余]]
+
+A 聯綿詞 phonetic substitution for 蟾蜍 ("toad"), not a semantically-compositional pair — 瞻/余 stand in purely for sound. **Found and fixed a real truncation bug**: `注音` was just the single glyph "⼄" (余's portion alone), missing 瞻's ㄐㄝㄇ entirely — corrected to ㄐㄝㄇ⼄, matching the already-correct two-syllable `羅馬字`/`諺文` (jemjo/점요). The same truncated citation existed on `characters/余.md`'s own Words list (fixed) and was entirely absent from `characters/瞻.md`'s own Words list (added). Filled blank `vietnamese`(thiềm thừ, the classical Sino-Vietnamese term used for the moon-toad legend). Wrote a substantive `## Notes` section covering the money-toad and moon-toad folklore. No homophones (注音 ㄐㄝㄇ⼄ / 羅馬字 jemjo unique, confirmed after correction). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 瞻妄.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
