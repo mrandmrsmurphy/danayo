@@ -5081,3 +5081,27 @@ Next: 発電.
 発's own stand-in is [[発]] itself, 電's own is [[電気]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation/alias fields already correct (mandarin fādiàn, cantonese faat3 din6, japanese はつでん, korean 발전, 注音/羅馬字/諺文, aliases 发电/發電). Filled blank `vietnamese`(phát điện, real attested term), removed blank `swadesh`; `hsk_level: "3"` left as-is. Notes section flags a genuine Korean homophony worth documenting: 발전 is ambiguous between 發電 (this word) and 發展 ("development") since 展 and 電 share the same Korean syllable 전 — not a vault error, a real feature of the language. No word-level homophones (注音 ㄈㄚㄊㄉㄝㄋ / 羅馬字 fadden unique). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 発音.
+
+### 2026-09-04, iteration 2627 — [[words/発音|発音]]
+
+発's own stand-in is [[発]] itself, 音's own is [[音楽]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation fields already correct and fully compositional (mandarin fāyīn, cantonese faat3 jam1, japanese はつおん, korean 발음, vietnamese phát âm, 注音/羅馬字/諺文). Added missing simplified alias 发音 alongside existing 發音, removed blank `hsk_level`/`swadesh`. No homophones (注音 ㄈㄚㄊ·ㄨㄇ / 羅馬字 fad'um unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白亜.
+
+### 2026-09-04, iteration 2628 — [[words/白亜|白亜]]
+
+亜's own stand-in is [[亜細亜]], 白's own is [[白]] itself — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word (亜 already legitimized elsewhere as the daiyōji stand-in for both 亞/Asia-sense and, separately, 堊/chalk-sense, per its own frontmatter aliases). Already had a strong, substantive `## Notes` section explaining the 亜→堊 daiyōji substitution — kept nearly as-is, just extended the "uses 堊's readings, not 亜's" observation to newly-added cantonese/vietnamese. Filled missing `vietnamese`(bạch ác, following 堊's Sino-Vietnamese reading per the same substitution pattern as mandarin/korean), quoted `mandarin`/`cantonese`/`korean` for consistency, added missing simplified alias 白垩 alongside existing 白堊. No homophones (注音 ㄅㄚㄎㄚ / 羅馬字 bag'a unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白亜紀.
+
+### 2026-09-04, iteration 2629 — [[words/白亜紀|白亜紀]]
+
+Same 亜→堊 daiyōji substitution as [[白亜]]; 紀's own stand-in is [[世紀]], not this word, so transitivity still fails, no `#cranberry`. Already had a strong, substantive `## Notes` section (real geological/historical content) — kept nearly as-is, extended the readings-follow-堊-not-亜 observation to cover this word too. Filled missing `vietnamese`(bạch ác kỷ), quoted `mandarin`/`cantonese`/`korean`, added missing simplified alias 白垩纪 alongside existing 白堊紀. No homophones (注音 ㄅㄚㄎㄚㄍㄧ / 羅馬字 bag'agi unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白内障.
+
+### 2026-09-04, iteration 2630 — [[words/白内障|白内障]]
+
+No cranberry situation (a plain descriptive tri-syllable compound, none of the three constituents' own stand-ins point here). **Fixed a real bug**: `japanese` was truncated to "くないしょう", missing the initial は — corrected to はくないしょう (hakunaishō), matching 白's own HAKU on'yomi. Filled blank `vietnamese`(bạch nội chướng, a real attested Sino-Vietnamese medical term), added missing traditional alias 白內障 (內 differs from shinjitai 内), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Wrote a missing `## Notes` section. No homophones (注音 ㄅㄚㄎㄋㄛㄧㄐㄚㄫ / 羅馬字 bagnoijang unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白日夢.
