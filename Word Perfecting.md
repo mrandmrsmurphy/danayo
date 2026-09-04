@@ -5837,3 +5837,27 @@ Next: 禁煙.
 No cranberry (禁's own stand-in is [[禁止]], 煙's is [[煙気]]) — neither constituent legitimized by this word. Pronunciation fields (gim'en/김언/ㄍㄧㄇ·ㄝㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section. **Also fixed a missing "(stand-in for 煙)" annotation** on `characters/煙.md`'s own Words-list citation of 煙気. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 禁獵.
+
+### 2026-09-04, iteration 2749 — [[words/禁獵|禁獵]]
+
+No cranberry (禁's own stand-in is [[禁止]], 獵's is [[獵]] itself) — neither constituent legitimized by this word. Pronunciation fields (gimlob/김롭/ㄍㄧㄇㄌㄛㄆ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section noting a real-world Japanese-reading coincidence with [[禁漁]] (both きんりょう, unrelated to Dan'a'yo's own distinct 注音). No Dan'a'yo homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁苑.
+
+### 2026-09-04, iteration 2750 — [[words/禁苑|禁苑]]
+
+No cranberry: 苑's own stand-in is this exact compound, but 禁's own is [[禁止]]; transitivity fails, though 苑 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gim'on/김온/ㄍㄧㄇ·ㄛㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section. **Also fixed a missing "(stand-in for 苑)" annotation** on `characters/苑.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁酒.
+
+### 2026-09-04, iteration 2751 — [[words/禁酒|禁酒]]
+
+No cranberry (禁's own stand-in is [[禁止]], 酒's is [[酒精]]) — neither constituent legitimized by this word. Pronunciation fields (gimjuo/김줏/ㄍㄧㄇㄐㄨㄛ) already verified as the correct concatenation — no bug. **Found a genuine homophone**: [[今週]] ("this week") shares this exact reading — confirmed via `grep -xF`, exactly two matches. Added reciprocal callouts to both pages (今週 was otherwise left unperfected — still missing vietnamese, blank hsk_level/swadesh handling, etc. — full pass deferred to when the sweep reaches it). Added missing `kwin: false` on 禁酒, quoted pronunciation fields, wrote a real Notes section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禍事.
+
+### 2026-09-04, iteration 2752 — [[words/禍事|禍事]]
+
+No cranberry: 禍's own stand-in is this exact compound, but 事's own is [[事]] itself; transitivity fails, though 禍 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (hwaji/화지/ㄏ⺢ㄐㄧ) already verified as the correct concatenation — no bug. Fixed flow-style `aliases`, filled blank vietnamese(hoạ sự), removed blank hsk_level/swadesh, wrote a real Notes section (noting Japanese まがごと preserves an older native reading of 禍 distinct from bare-character わざわい). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禍害.
