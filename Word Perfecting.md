@@ -5025,3 +5025,35 @@ Next: 痴漢.
 痴's own stand-in is this exact compound, but 漢's own is [[漢族]] — transitivity fails, no `#cranberry`, though 痴 is legitimized specifically by this word (same shape as 痘痕/痘). Filled blank `korean`(치한)/`vietnamese`(si hán, compositional), removed blank `hsk_level`/`swadesh`/`aliases`, added missing `kwin: true` (Dan'a'yo 치한 happens to coincide exactly with Korean 치한, matching both constituent characters' own `kwin: true`), normalized `characters` list indentation. Wrote a real `## Notes` section covering the word's narrowing from generic "disreputable man" to specifically "molester/pervert" — strongest in Japanese/Korean (legal/public-safety register), retained more broadly in Mandarin/Cantonese. No homophones (注音 ㄑㄧㄏㄚㄋ / 羅馬字 cihan unique). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 癌症.
+
+### 2026-09-04, iteration 2618 — [[words/癌症|癌症]]
+
+癌's own stand-in is this exact compound, but 症's own is [[病症]] — transitivity fails, no `#cranberry`, though 癌 is legitimized specifically by this word. Fixed `korean` from a malformed draft value `"암 (증)"` to the real bare Korean word 암 (Korean doesn't use the compound, unlike Mandarin/Cantonese/Japanese — noted in Notes). Filled blank `vietnamese`(nham chứng, compositional), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, normalized `characters` from flow-style `[癌, 症]` to block list. No homophones (注音 ㄚㄇㄐㄧㄫ / 羅馬字 'amjing unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 癒合.
+
+### 2026-09-04, iteration 2619 — [[words/癒合|癒合]]
+
+癒's own stand-in is this exact compound, but 合's own is [[合]] itself — transitivity fails, no `#cranberry`, though 癒 is legitimized specifically by this word. **Found and fixed a real reading bug**: the file had `合` rendered with the syllable ㄎㄚㄆ/kab/캅 (which actually belongs to 恰/怯 per `syllables/ㄎㄚㄆ.md`) instead of 合's own correct ㄍㄛㄆ/gob/곱 (per `syllables/ㄍㄛㄆ.md` and 合 (char)'s own frontmatter) — corrected `羅馬字` 'yukab→'yugob, `諺文` 유캅→유곱, `注音` ⼜ㄎㄚㄆ→⼜ㄍㄛㄆ. Filled blank `pos`(事詞, from both constituents) and `vietnamese`(dũ hợp, compositional), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones after correction (注音 ⼜ㄍㄛㄆ / 羅馬字 'yugob unique). Stamped `date-last-perfect: 2026-09-04`.
+
+**Same bug found (not fixed today, out of alphabetical scope) in three sibling 合-words**: [[words/合金|合金]] (羅馬字 kabgim, should be gobgim), [[words/混合|混合]] (honkab, should be honkab→honkob... i.e. -kab→-kob), [[words/組合|組合]] (jokap, should be jokob) — all substitute 合's reading with the unrelated ㄎㄚㄆ syllable. [[words/結合|結合]] already has it correct (gedgob). Flagging for a future targeted pass; likely a copy-paste propagation from one bad source.
+
+Next: 癖.
+
+### 2026-09-04, iteration 2620 — [[words/癖|癖]]
+
+Single-character stand-in word (like 嫩, 多, 痩). Frontmatter had `characters` as a bare string, `vietnamese: null`, and missing `pos`/`japanese`. Fixed `characters` to list form, added `pos: 名詞` and `japanese: へき` (on'yomi from character), replaced `null` vietnamese with `phích`, added missing `kwin: false`. Fixed tip-callout link to include `(char)` suffix. Checked homophone syllable ㄆㄝㄎ/peg — shared with character 僻, but 僻's own stand-in is [[窮僻]] (no bare 僻 word file exists), so no homophone callout needed. Wrote a substantive `## Notes` section on 癖 as a productive habit/fixation suffix and the JA/KR native-word-vs-Sino-compound-suffix split. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発.
+
+### 2026-09-04, iteration 2621 — [[words/発|発]]
+
+Single-character stand-in word (like 嫩, 多, 痩, 癖). Fixed a real bug: `kwin` was `true`, contradicting the character page's own already-perfected `kwin: false` (Dan'a'yo 빧 vs Korean 발 genuinely differ) — corrected to `false`. Fixed bare-string `characters` to list form, added missing `pos`(事詞)/`japanese`(はつ, primary on'yomi)/`korean`(발)/`vietnamese`(phát). Fixed tip-callout link to include `(char)` suffix. Checked homophone syllable ㄈㄚㄊ/fad — shared with character 髪, but no `words/髪.md` exists (not its own standalone word), so no homophone callout needed. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発情.
+
+### 2026-09-04, iteration 2622 — [[words/発情|発情]]
+
+発's own stand-in is [[発]] itself, 情's own is [[感情]] — transitivity fails both ways, no `#cranberry`, neither constituent legitimized by this word. All pronunciation fields were already correct and compositional (mandarin fāqíng, cantonese faat3 cing4, japanese はつじょう, korean 발정, 注音/羅馬字/諺文); `pos: 実詞` left as-is (an established, widely-used category distinct from `事詞`, not a typo — verified ~343 other files use it). Filled blank `vietnamese`(phát tình — noted in Notes as drifting toward the interpersonal "falling for someone" sense rather than the zoological "estrus" sense the other four languages share), removed blank `hsk_level`/`swadesh`. Wrote a real `## Notes` section. No homophones (注音 ㄈㄚㄊㄑㄧㄫ / 羅馬字 fadcing unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 発明.
