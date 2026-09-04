@@ -5202,6 +5202,30 @@ No cranberry (科's own stand-in is [[学科]], not this word). Fixed a real `ca
 
 Next: 百科事典.
 
+### 2026-09-04, iteration 2647 — [[words/百科事典|百科事典]]
+
+No cranberry (all four constituents' own stand-ins point elsewhere). **Fixed a real, truncated `japanese` bug**: field was just "じてん" (事典 alone), missing the 百科 (hyakka) portion entirely — corrected to ひゃっかじてん, the real standard Japanese word for encyclopedia. Fixed comma-joined `korean`("백과사전, 백과전서"→백과사전, matching this word's own 事典-based characters; kept 백과전서 as a real alternate mentioned in prose, since it uses different characters 全書 rather than being a simple reading variant). Fixed `characters` missing "(char)" suffix on 百. Rebuilt the body from a bare "百科 + 事典" line into proper `## Notes` structure, linking the two meaningful sub-compounds [[百科]]/[[事典]] per the multi-character-component convention. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, added missing `kwin: false`. No homophones (注音 ㄅㄚㄎㄎ⺢ㄐㄧㄉㄝㄋ / 羅馬字 bagkwajiden unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 皇帝.
+
+### 2026-09-04, iteration 2648 — [[words/皇帝|皇帝]]
+
+皇's own stand-in is this exact compound, but 帝's own is [[帝王]] — transitivity fails, no `#cranberry`, though 皇 is legitimized specifically by this word. All pronunciation fields were already correct and fully compositional (mandarin huángdì, cantonese wong4 dai3, japanese こうてい, korean 황제, vietnamese hoàng đế, 注音/羅馬字/諺文). Wrote a missing `## Notes` section from scratch — Qin Shi Huang's 221 BC coinage fusing 皇 (Three Sovereigns) and 帝 (Five Emperors/上帝) into a title above 王 "king," and its later politically-loaded adoption by Japan/Korea/Vietnam for their own monarchs. Removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄏ⺢ㄫㄊㄝㄧ / 羅馬字 hwangtei unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 皮革.
+
+### 2026-09-04, iteration 2649 — [[words/皮革|皮革]]
+
+**Cranberry confirmed**: both 皮's own stand-in and 革's own stand-in are this exact compound — transitivity holds, added the `#cranberry` tag (was missing). Fixed comma-joined `cantonese`("pei4 gaak3, pei4 gaap3"→pei4 gaak3, matching 革's own citation — the second value wasn't attested on 革's own character page either). Filled blank `vietnamese`(bì cách), normalized `characters` from flow-style `[皮, 革]` to block list, fixed `## Etymology` heading to `## Notes` and wrote real content distinguishing 皮 (raw hide) from 革 (tanned leather). Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄧㄎㄧㄎ / 羅馬字 bikig unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 皺紋.
+
+### 2026-09-04, iteration 2650 — [[words/皺紋|皺紋]]
+
+皺's own stand-in is this exact compound, but 紋's own is [[紋]] itself — transitivity fails, no `#cranberry`, though 皺 is legitimized specifically by this word. Checked the unusual interpunct in `注音`/rt-annotations (ㄐㄨ·ㄇㄨㄋ, between two syllables where the second has a normal consonant initial, not the usual null-initial trigger) — left unchanged since it's already consistently applied across three independently-dated citations (this word plus both 皺 and 紋's own character pages), so it's an established convention rather than a propagated typo like the 日/ㄞ case. Fixed relative links in the opening bullet (were missing `../` prefix, resolving to word-file paths instead of character pages). Quoted `mandarin`/`cantonese`/`korean`. Notes flags a real Korean-internal homophone (추문 = both this word and the unrelated, far more common 醜聞 "scandal"). No Dan'a'yo-level homophones (注音 ㄐㄨ·ㄇㄨㄋ / 羅馬字 jumun unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 盆.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
