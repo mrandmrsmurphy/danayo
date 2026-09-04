@@ -5576,6 +5576,36 @@ Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(�
 
 Next: 碧玉.
 
+### 2026-09-04, iteration 2709 — [[words/碧玉|碧玉]]
+
+No cranberry (碧's own stand-in is [[碧色]], 玉's is [[玉]] itself). Fixed a real `cantonese` typo (碧's portion showed "ik1" missing the initial b, matching 碧's own citation of "bik1") — corrected to bik1 juk6. Filled blank `vietnamese`(bích ngọc), fixed `## Etymology` heading to `## Notes`. No homophones (注音 ㄅ⼶ㄎ·⼄ㄎ / 羅馬字 byeg'yog unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 碧色.
+
+### 2026-09-04, iteration 2710 — [[words/碧色|碧色]]
+
+碧's own stand-in is this exact compound, but 色's own is [[色彩]] — transitivity fails, no `#cranberry`, though 碧 is legitimized specifically by this word (already correctly noted). Fixed relative links missing `../` prefix. Quoted `mandarin`/`cantonese`/`korean`. Expanded Notes contrasting 碧色 with plainer 緑色. No homophones (注音 ㄅ⼶ㄎㄙㄧㄎ / 羅馬字 byegsig unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 確定.
+
+### 2026-09-04, iteration 2711 — [[words/確定|確定]]
+
+No cranberry (確's own stand-in is [[確実]], 定's is [[決定]]). All pronunciation fields already correct and compositional. Quoted `hsk_level: 2`→`"2"`, normalized `characters` to block list, removed blank `aliases`, wrote a substantive `## Notes` section. No homophones (注音 ㄎㄚㄎㄐㄝㄫ / 羅馬字 kagjeng unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 碼.
+
+### 2026-09-04, iteration 2712 — [[words/碼|碼]]
+
+Single-character stand-in word. Added missing `japanese`(ま). **Found a three-way homophone**: 碼/磨/馬 all share the exact syllable ma/마/ㄇㄚ, none previously cross-linked — added callouts to all three. While fixing [[磨]]: fixed bare-string `characters`, `vietnamese: null`, missing `pos`/`japanese`/`kwin`. While fixing the already-"perfected" (dated 2026-03-21) [[馬]]: fixed `kwin: "TRUE"` (a string, not the boolean `true`), removed redundant duplicate `品詞`, wrote a substantive `## Notes` section (was completely empty despite the stamp). Stamped all three `date-last-perfect: 2026-09-04`.
+
+Next: 磁性.
+
+### 2026-09-04, iteration 2713 — [[words/磁性|磁性]]
+
+磁's own stand-in is this exact compound, but 性's own is [[性別]] — transitivity fails, no `#cranberry`, though 磁 is legitimized specifically by this word. Filled blank `cantonese`(ci4 sing3) and `vietnamese`(từ tính, the real standard physics term), normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/`aliases`. No homophones (注音 ㄐㄧㄙㄧㄫ / 羅馬字 jising unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 磁金.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
