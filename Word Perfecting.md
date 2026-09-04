@@ -5606,6 +5606,30 @@ Next: 磁性.
 
 Next: 磁金.
 
+### 2026-09-04, iteration 2714 — [[words/磁金|磁金]]
+
+A periodic-table neologism (neodymium) with already-extensive Notes (Nd-Fe-B permanent magnets as the motivating property, contrast with 韮金 praseodymium). Verified `mandarin: "nǚ"`/`cantonese: "neoi5"` are NOT errors — they're the real readings of 钕 (neodymium's actual Chinese character, phonetically built on 女), already correctly set. Removed redundant duplicate `品詞`, added alias 钕. No homophones (注音 ㄐㄧㄍㄧㄇ / 羅馬字 jigim unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 礼.
+
+### 2026-09-04, iteration 2715 — [[words/礼|礼]]
+
+Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(名詞)/`japanese`(れい)/`vietnamese`(lễ)/`kwin`(false). Checked homophone syllable ㄌㄝㄧ — shared with 犂/莉/醴/隷/離/黎, none of which are standalone words. Consolidated an empty `## Notes` + stray `## Ancient` heading into one proper `## Notes` section covering the Five Rites (五禮) and 礼's place among the Six Arts. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 礼拝.
+
+### 2026-09-04, iteration 2716 — [[words/礼拝|礼拝]]
+
+No cranberry (both constituents' own stand-ins point to themselves). Converted the comma-joined `japanese`(らいはい, れいはい) into a proper YAML list — verified BOTH readings are genuinely real and distinct (Buddhist vs Christian/Shinto worship registers), not a single-value bug. Fixed a malformed `aliases` entry: "禮拝" mixed traditional 禮 with the Japanese-specific shinjitai glyph 拝, an orthographic hybrid that doesn't correspond to any real language's actual spelling — corrected to the real traditional/simplified pair 禮拜/礼拜. Fixed `## Etymology` heading to `## Notes`, normalized `characters` to block list. No homophones (注音 ㄌㄝㄧㄅ⼶ / 羅馬字 leibye unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 社交.
+
+### 2026-09-04, iteration 2717 — [[words/社交|社交]]
+
+No cranberry (社's own stand-in is [[社会]], 交's is [[交]] itself). Filled a completely blank `pos`(名詞) and `vietnamese`(xã giao, real standard term). Fixed `cantonese` missing space (se5gaau1→se5 gaau1). Normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. In passing: `characters/交 (char).md` has an empty-string `pos: ""` bug (7th instance of this pattern found this session). No homophones (注音 ㄙ⼘ㄍ⼄ㄨ / 羅馬字 syagyau unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 社会主義.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
