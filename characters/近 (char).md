@@ -9,7 +9,10 @@ japanese:
 japanese_native: ちか
   - ちか-い
 vietnamese:
-  - cận, cặn, gàn, gần
+  - cận
+  - cặn
+  - gàn
+  - gần
 middle_chinese_initial: g
 middle_chinese_final: ɨn
 stroke_count: 7

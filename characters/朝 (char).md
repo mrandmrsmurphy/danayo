@@ -6,7 +6,6 @@ korean_native: 아침
 japanese:
   - CHOU
 japanese_native: あさ
-  - あさ
 vietnamese:
   - triều
   - triêu

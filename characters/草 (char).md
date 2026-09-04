@@ -7,7 +7,9 @@ japanese:
   - SOU
 japanese_native: くさ
 vietnamese:
-  - thảo, tháu, xáo
+  - thảo
+  - tháu
+  - xáo
 middle_chinese_initial: t͡sʰ
 middle_chinese_final: ɑu
 stroke_count: 9

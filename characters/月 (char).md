@@ -30,7 +30,8 @@ mc_id: 56
 graphemic_classification: 象形
 stand_in: 月
 aliases:
-  - 𡇹, 𠥱
+  - 𡇹
+  - 𠥱
 swadesh: "148"
 注音: ⼔ㄊ
 date-last-perfect: 2026-07-16

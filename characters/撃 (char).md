@@ -9,6 +9,7 @@ japanese:
 japanese_native:
   - う
 vietnamese:
+  - kích
 middle_chinese_initial: k
 middle_chinese_final: "ek"
 stroke_count: 15
@@ -23,7 +24,7 @@ english:
 羅馬字: geg
 諺文: "걱"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: "高等"
 danayo_id: 6402
 mc_id: 259

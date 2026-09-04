@@ -7,7 +7,9 @@ japanese:
   - I
 japanese_native: す - さだ
 vietnamese:
-  - vi, vị, vĩ
+  - vi
+  - vị
+  - vĩ
 middle_chinese_initial: ø
 middle_chinese_final: ɣiuᴇ
 stroke_count: 9

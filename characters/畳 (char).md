@@ -2,7 +2,9 @@
 mandarin: dié
 cantonese: dip6
 korean: 첩
-korean_native: 겹치다, 포개다
+korean_native:
+  - 겹치다
+  - 포개다
 japanese:
   - JOU
   - CHOU

@@ -7,7 +7,8 @@ japanese:
   - SHI
 japanese_native: かみ
 vietnamese:
-  - chỉ, giấy
+  - chỉ
+  - giấy
 middle_chinese_initial: t͡ɕ
 middle_chinese_final: iᴇ
 stroke_count: 10

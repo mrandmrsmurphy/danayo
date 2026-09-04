@@ -24,7 +24,7 @@ english:
 諺文: 벙
 joyo_level: 高等
 hsk_level: "2"
-hanmun_edu_level: "2"
+hanmun_edu_level: "高等"
 danayo_id: 6339
 mc_id: 4170
 graphemic_classification: 并

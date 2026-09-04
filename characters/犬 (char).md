@@ -6,7 +6,6 @@ korean_native: 개
 japanese:
   - KEN
 japanese_native: いぬ
-  - いぬ
 vietnamese:
   - khuyển
 middle_chinese_initial: kʰ

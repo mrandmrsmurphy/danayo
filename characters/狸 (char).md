@@ -31,7 +31,7 @@ stand_in: 狸
 aliases:
   - 貍
 注音: ㄌㄜ
-kwin: true
+kwin: false
 tags:
   - character
 boundedness: 30

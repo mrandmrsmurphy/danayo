@@ -18,7 +18,7 @@ grade_level: "名"
 pos: "名詞"
 english:
   - kite
-羅馬字: "'yeng"
+羅馬字: "'yen"
 諺文: "연"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"

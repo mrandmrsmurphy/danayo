@@ -6,9 +6,16 @@ korean_native: 갑옷
 japanese:
   - KOU
   - KAN
-japanese_native: よろい, つめ, きのえ
+japanese_native:
+  - よろい
+  - つめ
+  - きのえ
 vietnamese:
-  - giáp, giẹp, kép, nháp, ráp
+  - giáp
+  - giẹp
+  - kép
+  - nháp
+  - ráp
 middle_chinese_initial: k
 middle_chinese_final: ɣap
 stroke_count: 5

@@ -9,7 +9,13 @@ japanese:
   - GATSU
 japanese_native: あ-う,あ-わす,あ-わせる
 vietnamese:
-  - hợp, cáp, cóp, góp, gộp, họp, hạp
+  - hợp
+  - cáp
+  - cóp
+  - góp
+  - gộp
+  - họp
+  - hạp
 middle_chinese_initial: k
 middle_chinese_final: ʌp
 stroke_count: 6

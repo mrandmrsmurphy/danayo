@@ -7,6 +7,7 @@ japanese:
   - GA
 japanese_native: われ,わ
 vietnamese:
+  - ngã
   - tôi
   - anh
   - tao
