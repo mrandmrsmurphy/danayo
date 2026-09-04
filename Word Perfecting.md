@@ -5142,6 +5142,30 @@ No cranberry (菜's own stand-in is [[野菜]], not this word). Verified `羅馬
 
 Next: 白領.
 
+### 2026-09-04, iteration 2637 — [[words/白領|白領]]
+
+No cranberry (領's own stand-in is [[領土]], not this word). Notable case: mandarin/cantonese render this 20th-century sociological loan-translation as a native Sino compound, but japanese ホワイトカラー and korean 화이트칼라 borrow the English term wholesale instead (already correctly set, verified as real usage). Filled blank `vietnamese`(cổ cồn trắng, a direct English calque rather than Sino-Vietnamese), added simplified alias 白领, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄚㄎㄌㄧㄫ / 羅馬字 bagling unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白頭翁.
+
+### 2026-09-04, iteration 2638 — [[words/白頭翁|白頭翁]]
+
+No cranberry (all three constituents' own stand-ins point to themselves, not this word). Fixed `japanese` typo はくとうをう (using を) → corrected to はくとうおう (お, matching 翁's real on'yomi OU). Filled blank `cantonese`(baak6 tau4 jung1) and `vietnamese`(bạch đầu ông, real attested TCM term), added simplified alias 白头翁, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Wrote a `## Notes` section covering all three senses (elder, light-vented bulbul, Pulsatilla root). In passing: `characters/翁 (char).md` (already-perfected) has an empty-string `hsk_level: ""` bug — flagged, not fixed. No homophones (注音 ㄅㄚㄎㄊㄛㄨ·ㄨㄫ / 羅馬字 bagtou'ong unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白頭鷲.
+
+### 2026-09-04, iteration 2639 — [[words/白頭鷲|白頭鷲]]
+
+**Found and fixed a real, structural bug**: `characters` cited bare "鷲" directly, but 鷲 has no character page of its own in this vault — it's only an alias of [[就 (char)|就]] (per 就's own Notes and its established sibling pattern on [[就鳥]]/[[禿就]]/[[海就]], all of which correctly cite "就 (char)" and explain the 借代字 substitution in their own Notes). Corrected `characters` to cite "就 (char)"; also found `mandarin` had been badly mixed up — "báitóu hǎidiāo" spliced in an unrelated word (海雕 "sea eagle") instead of using 鷲's real reading jiù — corrected to báitóujiù (matching the compositional pattern already established on 海就/就鳥). Filled blank `cantonese`(baak6 tau4 zau6, using 就/鷲's shared real Cantonese reading zau6) and `vietnamese`(đại bàng đầu trắng, the real native species name). Verified japanese ハクトウワシ and korean 대머리독수리 were already correct real zoological species names (not vault-internal substitution readings, appropriately so). Added the missing companion citation on `characters/就 (char).md`'s own `## Words` list, which had never listed this word despite `characters:` now correctly pointing there. Added simplified alias 白头鹫. No homophones (注音 ㄅㄚㄎㄊㄛㄨㄐㄨㄛ / 羅馬字 bagtoujuo unique, already correct pre-fix). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白鳥.
+
+### 2026-09-04, iteration 2640 — [[words/白鳥|白鳥]]
+
+No cranberry (both constituents' own stand-ins point to themselves). Fixed `japanese` はくてう (historical kana 歴史的仮名遣い) → modernized to はくちょう (hakuchō), the real everyday Japanese word for "swan." Notes documents a real semantic split: mandarin/cantonese/vietnamese keep the literal "white bird" sense (their actual "swan" words — 天鵝/thiên nga — are unrelated), while japanese/korean 백조 have narrowed 白鳥 into the standard word for swan itself. Filled blank `vietnamese`(bạch điểu), added simplified alias 白鸟, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄅㄚㄎㄑㄛㄨ / 羅馬字 bagcou unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白鷺.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.

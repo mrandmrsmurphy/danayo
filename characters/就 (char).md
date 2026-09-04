@@ -57,6 +57,7 @@ boundedness: 95
 - <ruby>[[就鳥]]<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby> "vulture"
 - <ruby>[[禿就]]<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby> "old world vulture"
 - <ruby>[[海就]]<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby> "sea eagle"
+- <ruby>[[白頭鷲]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
 
 ## Derived Characters
 - <ruby>[[蹴 (char)|蹴]]<rt>ㄑㄨㄎ</rt></ruby> "to kick"
