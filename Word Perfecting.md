@@ -5678,6 +5678,12 @@ Next: 祝賀.
 
 Next: 神.
 
+### 2026-09-04, iteration 2727 — [[words/神|神]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`→thần, missing `pos`(名詞)/`japanese`(しん). **Found a missing homophone**: [[新]] "new" — already dated (2026-03-17) but had no callout, a blank vietnamese, and a completely empty Notes despite the stamp. Fixed both sides: added reciprocal callouts, filled 新's blank `vietnamese`(tân)/`japanese`(しん)/`pos`(性詞)/`kwin`(true), normalized its `characters` field, fixed its `# Notes`→`## Notes`, and wrote real content. Stamped both `date-last-perfect: 2026-09-04`.
+
+Next: 神仙.
+
 ### 2026-09-04, iteration 2724 — [[words/祖母|祖母]]
 
 No cranberry (祖's own stand-in is [[祖先]], 母's is [[母親]]). **Same recurring reading bug again**: `羅馬字`/`諺文` had 祖's wrong "jo/조" instead of "jǝ/즈" — `注音` already correct (5th instance of this exact bug class this session, following 盧森堡/破暁/破裂/祖国). Corrected jomou/조못 → jǝmou/즈못. Quoted `hsk_level: 3`→`"3"`, removed empty-list `aliases: []`. Turned a stray body line ("suppletive diminutive 婆婆") into a proper `## Notes` section discussing the formal-vs-colloquial (祖母 vs 奶奶/婆婆) register split. No homophones (注音 ㄐㄜㄇㄛㄨ / 羅馬字 jǝmou unique). Stamped `date-last-perfect: 2026-09-04`.
@@ -5696,3 +5702,27 @@ Ran a vault-wide grep for both patterns and fixed every genuine instance (leavin
 - `characters/白 (char).md`, `characters/夢 (char).md`, `characters/秋 (char).md`, `characters/六 (char).md` — their own citations of the same compounds corrected
 
 Post-fix grep confirms zero remaining ㄞ usage outside this log and the grammar doc that documents the prohibition, and zero remaining wrong ㄋㄞㄊ/ㄋㄝㄊ-for-日 citations anywhere. `words/六日.md`/`二十六日.md` were only spot-fixed for this specific bug, not given a full checklist pass (they're well outside today's alphabetical sweep position and remain otherwise unperfected).
+
+### 2026-09-04, iteration 2728 — [[words/神仙|神仙]]
+
+No cranberry: 仙's own stand-in is this exact compound, but 神's own is [[神]] itself — transitivity fails, though 仙 is legitimized as an independent Dan'a'yo entry by this word (same pattern as 祝賀/賀). `羅馬字`/`諺文`/`注音` all verified as correct concatenations of 神's (sin/신/ㄙㄧㄋ) and 仙's (syen/션/ㄙ⼶ㄋ) own fields — no bug here. Fixed missing space in `cantonese` (san4sin1→san4 sin1), converted flow-style `characters` to block list, removed blank `hsk_level`/`swadesh`/empty `aliases: []`, filled blank `pos`(名詞). **Found and fixed a transposed `japanese`**: せんしん (SEN+SHIN order) was backwards — the real word is しんせん (shinsen, SHIN+SEN, matching character order), confirmed against 神/仙's own char-page japanese fields. Filled blank `vietnamese: thần tiên` (compositional, and independently a real Vietnamese word for "fairy, immortal"). No homophones (`grep -xF` on 羅馬字/諺文/注音 all unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神巫.
+
+### 2026-09-04, iteration 2729 — [[words/神巫|神巫]]
+
+No cranberry (神's own stand-in is [[神]], 巫's is [[巫女]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字`/`諺文`/`注音` had sinmun/신문/ㄙㄧㄋㄇㄨㄋ — an extra final ㄋ/n that doesn't belong to 巫's own syllable (mu/무/ㄇㄨ, confirmed against `syllables/ㄇㄨ.md`), and which happens to exactly match a *different* word, [[新聞]] ("newspaper/news") — the two pages had cross-linked each other as "Homophones" on the strength of this shared wrong reading. Corrected to sinmu/신무/ㄙㄧㄋㄇㄨ and removed the now-false Homophones callout from both this page and 新聞's; also fixed the same wrong rt-annotation on `characters/巫.md` and `characters/神 (char).md`'s own `## Words` citations. Re-ran `grep -xF` on the corrected values — no other homophone found. Also fixed `japanese`: みこ was the reading for the alias 神子 (already listed in `aliases:`), not for 神巫 itself — corrected to かんなぎ, the same reading used for bare 巫 (神巫 is one of several classical alternate spellings of that word). Filled blank `vietnamese: thần vu` (compositional). Wrote a real Notes section (Korean 강신무 as a genuine ethnographic shamanism term, distinguished from 巫女). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神父.
+
+### 2026-09-04, iteration 2730 — [[words/神父|神父]]
+
+No cranberry (神's own stand-in is [[神]], 父's is [[父親]]) — neither constituent legitimized by this word. Pronunciation fields (羅馬字/諺文/注音 sinbu/신부/ㄙㄧㄋㄅㄨ) already verified as the correct concatenation of 神's and 父's own values — no bug. Quoted mandarin/cantonese/korean, filled blank `vietnamese: thần phụ` (compositional), wrote a real Notes section (address-term vs. clerical-office distinction, contrasted with [[司鈬]]/[[牧師]]). No homophones (`grep -xF` all unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神秘.
+
+### 2026-09-04, iteration 2731 — [[words/神秘|神秘]]
+
+No cranberry (神's own stand-in is [[神]], 秘's is [[秘密]]) — neither constituent legitimized by this word. Pronunciation fields (sinbiǝ/신븨/ㄙㄧㄋㄅㄧㄜ) already verified as the correct concatenation — no bug. Fixed flow-style `characters` to block list, filled blank `pos`(名詞), removed blank `hsk_level`/`swadesh`, renamed `## Etymology`→`## Notes` and wrote substantive content (contrasting 神秘 with [[秘密]] via the numinous/divine sense 神 adds). No homophones (`grep -xF` all unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 神経.

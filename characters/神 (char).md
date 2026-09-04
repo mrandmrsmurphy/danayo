@@ -65,7 +65,7 @@ boundedness: 90
 - <ruby>[[神道教]]<rt>ㄙㄧㄋㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Shinto"
 - <ruby>[[神霊]]<rt>ㄙㄧㄋㄌㄝㄫ</rt></ruby> "spirit"
 - <ruby>[[神学院]]<rt>ㄙㄧㄋㄏㄚㄎ⼔ㄋ</rt></ruby> "seminary"
-- <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "shaman, wizard"
+- <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨ</rt></ruby> "shaman, wizard"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
 - <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth"
 
