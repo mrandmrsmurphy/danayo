@@ -5861,3 +5861,41 @@ Next: 禍事.
 No cranberry: 禍's own stand-in is this exact compound, but 事's own is [[事]] itself; transitivity fails, though 禍 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (hwaji/화지/ㄏ⺢ㄐㄧ) already verified as the correct concatenation — no bug. Fixed flow-style `aliases`, filled blank vietnamese(hoạ sự), removed blank hsk_level/swadesh, wrote a real Notes section (noting Japanese まがごと preserves an older native reading of 禍 distinct from bare-character わざわい). No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 禍害.
+
+### 2026-09-04, iteration 2753 — [[words/禍害|禍害]]
+
+No cranberry (禍's own stand-in is [[禍事]], 害's is [[残害]]) — neither constituent legitimized by this word. Pronunciation fields (hwahai/화해/ㄏ⺢ㄏㄚㄧ) already verified as the correct concatenation — no bug. **Fixed a real bug**: the old body text wrongly claimed this word was the `stand_in` legitimizer for 禍 — 禍's own character page has always pointed to [[禍事]] instead, not this word. `pos`/`kwin` both already correct. Wrote a proper Notes section replacing the bare Etymology heading. No homophones (`grep`/`rg` both confirm unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 福.
+
+### 2026-09-04, iteration 2754 — [[words/福|福]]
+
+Single-character stand-in word. **Found and fixed a real bug already anticipated by [[副]]'s own page**: `羅馬字`/`諺文` had pug/푹 instead of the character's own authoritative fug/뿍 (`注音` ㄈㄨㄎ already correct) — [[副]]'s iteration had already documented this exact fix as pending "when 福 comes up." Completed the three-way homophone group: added the Homophones callout to 福 (linking [[副]]/[[腹]]) and to [[腹]] (still otherwise unperfected — bare-string characters, null vietnamese, single-# Notes heading, left for its own turn). Converted comma-joined `vietnamese` to a list, removed contaminating character-only fields (`joyo_level`, `hanmun_edu_level`) that don't belong on a word page, wrote a real Notes section (倒福 New Year tradition, さいはひ archaic kana). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 福祉.
+
+### 2026-09-04, out-of-sequence fix — the 福-family pug/fug bug, remaining instances
+
+While diagnosing 福祉's own bug, discovered the same 福-`pug`-vs-`fug` misreading (established just one iteration ago via [[福]]'s own fix) also affected its other two compounds cited on `characters/福 (char).md`:
+- `words/幸福.md` — `羅馬字` had hangpug (諺文 항뿍 was already correct); already stamped `date-last-perfect` since 07-23 without this caught. Corrected to hangfug.
+- `words/艶福.md` — both `羅馬字`/`諺文` had 'yempug/염푹; corrected to 'yemfug/염뿍. This word otherwise remains unperfected (blank pos, `## Etymology` heading) — left for its own turn in the sweep.
+
+Re-ran `grep`/`rg` on all corrected forms — no homophones introduced. This closes out the 福-family reading bug across all 4 known instances (福, 幸福, 福祉, 艶福).
+
+### 2026-09-04, iteration 2755 — [[words/福祉|福祉]]
+
+No cranberry: 祉's own stand-in is this exact compound, but 福's own is [[福]] itself; transitivity fails, though 祉 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed the same 福-family bug**: `羅馬字`/`諺文` had pugci/푹치 instead of fugci/뿍치 (`注音` already correct). Removed redundant duplicate `品詞`, filled blank vietnamese(phúc chỉ), wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禾稲.
+
+### 2026-09-04, iteration 2756 — [[words/禾稲|禾稲]]
+
+No cranberry (禾's own stand-in is [[禾]] itself, 稲's is [[水稲]]) — neither constituent legitimized by this word. Pronunciation fields (hwadau/화닷/ㄏ⺢ㄉㄚㄨ) already verified as the correct concatenation — no bug. Fixed a missing `(char)` suffix on `characters` (禾→禾 (char)), filled blank cantonese(wo4 dou6)/vietnamese(hoà đạo), removed blank hsk_level/swadesh/aliases, wrote a real Notes section (contrasted with [[水稲]]; noted イネ katakana convention for species names). No homophones — switched to a Python exact-line-match check after `rg -F -x` hung on the ⺢ glyph even after backgrounding (killed and replaced with a small inline Python script, much faster and reliable for rare CJK glyphs going forward). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禿.
+
+### 2026-09-04, iteration 2757 — [[words/禿|禿]]
+
+Single-character stand-in word. Pronunciation fields already correct. **Completed a homophone callout already anticipated by [[啄]]'s own page**: both share tog/톡/ㄊㄛㄎ. Added missing `japanese`(とく), kept both of the character's own vietnamese candidates as a list, added missing "(stand-in for 禿)" annotation on `characters/禿 (char).md`'s own Words-list citation. Wrote a real Notes section (noting かむろ specifically means a hairstyle, not baldness, and doesn't correspond to this sense). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禿就.

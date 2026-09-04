@@ -53,5 +53,5 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄷ](Lookup/Korean/Korean%20Name%20ㄷ.md)
 
 ## Words
-- <ruby>[[禿]]<rt>ㄊㄛㄎ</rt></ruby> "bald"
+- <ruby>[[禿]]<rt>ㄊㄛㄎ</rt></ruby> "bald" (stand-in for 禿)
 - <ruby>[[禿就]]<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby> "old world vulture"
