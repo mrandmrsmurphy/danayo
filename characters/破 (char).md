@@ -8,6 +8,7 @@ japanese:
 japanese_native: やぶ
 vietnamese:
   - vỡ
+  - phá
 middle_chinese_initial: "pʰ"
 middle_chinese_final: "uɑ"
 stroke_count: 10

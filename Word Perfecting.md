@@ -5522,6 +5522,30 @@ Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(�
 
 Next: 破.
 
+### 2026-09-04, iteration 2700 — [[words/破|破]]
+
+Single-character stand-in word. Fixed bare-string `characters`, missing `pos`(事詞)/`japanese`(は)/`vietnamese`(vỡ, the only option 破's own character page lists — worth a future look, since "phá" is arguably the more standard Sino-Vietnamese reading actually seen in this character's own compounds like 破産/破壊, but not something to unilaterally overwrite without touching the character page). No homophones (注音 ㄆㄜ / 羅馬字 pǝ unique). Wrote a substantive `## Notes` section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 破戒.
+
+### 2026-09-04, iteration 2701 — [[words/破戒|破戒]]
+
+No cranberry (戒's own stand-in is [[警戒]], 破's is [[破]] itself). This word's own `vietnamese: phá giới` confirmed the gap flagged last iteration — added `phá` to `characters/破 (char).md`'s own `vietnamese` list (alongside the already-present native `vỡ`), since both are genuinely attested: `vỡ` for the native "shatter/break" sense, `phá` for the Sino-compound "destroy/violate" sense used here and in 破's other listed compounds (破壊, 破産). Fixed `## Etymology` heading to `## Notes` and wrote real content on the Buddhist precept-breaking sense (五戒, monastic discipline). Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. No homophones (注音 ㄆㄜㄍ⼶ / 羅馬字 pegye unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 破暁.
+
+### 2026-09-04, iteration 2702 — [[words/破暁|破暁]]
+
+暁's own stand-in is this exact compound, but 破's own is [[破]] itself — transitivity fails, no `#cranberry`, though 暁 is legitimized specifically by this word. **Found and fixed a real reading bug**: `羅馬字`/`諺文` used 破's real Mandarin-adjacent form "pa/파" instead of its Dan'a'yo-internal "pǝ/프" — `注音` (ㄆㄜㄏ⼘ㄨ) was already correct and gave away the mismatch, matching the same failure mode as 盧森堡's earlier fix. Corrected pahyau/파햣 → pǝhyau/프햣. Filled blank `cantonese`/`japanese`/`korean`/`vietnamese`, removed a stray unfinished editorial comment ("perhaps too C...") from the body, fixed `## Etymology` heading to `## Notes`. In passing: `characters/暁.md` has an empty-string `hsk_level: ""` bug (6th instance of this pattern found this session). No homophones (注音 ㄆㄜㄏ⼘ㄨ / 羅馬字 pǝhyau unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 破綻.
+
+### 2026-09-04, iteration 2703 — [[words/破綻|破綻]]
+
+綻's own stand-in is this exact compound, but 破's own is [[破]] itself — transitivity fails, no `#cranberry` (already correctly noted). This word's own existing Notes had *independently* flagged the same 破/vỡ-vs-phá vietnamese issue fixed on `characters/破 (char).md` two iterations ago — good corroboration that fix was right. Quoted `mandarin`/`cantonese`/`korean`. Expanded Notes slightly with figurative usage (破綻を来す). No homophones (注音 ㄆㄜㄉㄚㄋ / 羅馬字 pǝdan unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 破裂.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
