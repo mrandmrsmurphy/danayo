@@ -5438,6 +5438,60 @@ A 聯綿詞 phonetic substitution for 蟾蜍 ("toad"), not a semantically-compos
 
 Next: 瞻妄.
 
+### 2026-09-04, iteration 2686 — [[words/瞻妄|瞻妄]]
+
+Another 瞻-as-借代字 case, this time standing in for [[譫]] "delirious talk" (a distinct character) rather than its own regular sense — uses an alias reading ㄙㄝㄇ, different from 瞻's regular ㄐㄝㄇ (already correctly established via [[瞻仰]]/[[瞻余]]). Verified this is deliberate rather than a bug: `kwin: true` shows Dan'a'yo 섬망 was chosen to exactly match 譫's real Sino-Korean reading 섬, a design signal that wouldn't make sense if "sem" were an accidental typo. Added the missing citation (with an explanatory note) to `characters/瞻.md`'s own Words list. Filled blank `vietnamese`(thiêm vọng, using 譫's own Sino-Vietnamese reading rather than 瞻's). Fixed `## Etymology` heading to `## Notes`. No homophones (注音 ㄙㄝㄇㄇㄚㄫ / 羅馬字 semmang unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 矣.
+
+### 2026-09-04, iteration 2687 — [[words/矣|矣]]
+
+Single-character stand-in word (a Classical Chinese sentence-final particle). Fixed bare-string `characters`, added missing `japanese`(い)/`kwin`(false). Confirmed no homophones (注音 ⼔ / 羅馬字 'we unique). Wrote a substantive `## Notes` section on its literary/kanbun-only register. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 知性.
+
+### 2026-09-04, iteration 2688 — [[words/知性|知性]]
+
+No cranberry (知's own stand-in is [[知]] itself, 性's is [[性別]]). All pronunciation fields already correct and fully compositional. Filled blank `vietnamese`(tri tính), normalized `characters` from flow-style to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, wrote a substantive `## Notes` section. No homophones (注音 ㄐㄨㄧㄙㄧㄫ / 羅馬字 juising unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 知識.
+
+### 2026-09-04, iteration 2689 — [[words/知識|知識]]
+
+No cranberry (識's own stand-in is [[認識]], not this word). Fixed comma-joined `mandarin`("zhīshi, zhīshì"→zhīshi, the real modern standard reading — the second value looked like 識's own separate shí/zhì reading ambiguity bleeding into the compound where it doesn't apply) and slash-joined `cantonese`("zi1 sik1 / zi3 sik1"→zi1 sik1, matching 知's own citation, no zi3 alternate documented there). Normalized `characters`/`aliases` to block style. No homophones (注音 ㄐㄨㄧㄙㄧㄎ / 羅馬字 juisig unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 知音.
+
+### 2026-09-04, iteration 2690 — [[words/知音|知音]]
+
+No cranberry (知's own stand-in is [[知]] itself, 音's is [[音楽]]). All pronunciation fields already correct and fully compositional. Normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Wrote a substantive `## Notes` section on the Bo Ya/Zhong Ziqi guqin story (伯牙絕弦). No homophones (注音 ㄐㄨㄧㄨㄇ / 羅馬字 jui'um unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 矩.
+
+### 2026-09-04, iteration 2691 — [[words/矩|矩]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`, missing `pos`(名詞)/`japanese`(く)/`kwin`(false). Completed a homophone callout that [[去]] had already anticipated (its own Notes said "the reciprocal half will be completed when it comes up") — added the callout here and tidied 去's forward-looking sentence. Wrote a substantive `## Notes` section, including the 規矩/踰矩 idioms and 矩's physics sense (moment/torque). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 短.
+
+### 2026-09-04, iteration 2692 — [[words/短|短]]
+
+Single-character stand-in word. Fixed bare-string `characters`, `vietnamese: null`→đoản (native ngắn noted as the everyday word), missing `pos`(性詞)/`japanese`(たん)/`kwin`(false). **Found a missing homophone**: [[段]] — already fully perfected (dated 2026-06-29) — shares the exact syllable dwan/돤/ㄉ⺢ㄋ but had no callout at all; added reciprocal callouts to both, and removed a redundant duplicate `品詞` field from 段 while there. Wrote a substantive `## Notes` section (長/短 antonym pairing, 一長一短 idiom). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 短期.
+
+### 2026-09-04, iteration 2693 — [[words/短期|短期]]
+
+No cranberry (期's own stand-in is [[期]] itself, 短's is [[短]] itself). Already had correct pronunciation fields and decent Notes; quoted `mandarin`/`cantonese`/`korean`, expanded Notes with real usage examples (短期記憶, 短期借款, 短期目標 vs 長期). No homophones (注音 ㄉ⺢ㄋㄎㄧ / 羅馬字 dwanki unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 短音.
+
+### 2026-09-04, iteration 2694 — [[words/短音|短音]]
+
+No cranberry (音's own stand-in is [[音楽]], 短's is [[短]] itself). Filled blank `vietnamese`(đoản âm), normalized `characters` to block list, removed blank `hsk_level`/`swadesh`/`aliases`, wrote a substantive `## Notes` section (contrast with 長音, Japanese vowel-length minimal pairs). No homophones (注音 ㄉ⺢ㄋㄨㄇ / 羅馬字 dwan'um unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 矮.
+
 ### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
 
 User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
