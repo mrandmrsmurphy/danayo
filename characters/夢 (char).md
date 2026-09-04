@@ -60,4 +60,4 @@ boundedness: 50
 
 ## Words
 - <ruby>[[夢嫌]]<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby> "nightmare"
-- <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄞㄊㄇㄨㄫ</rt></ruby> "daydream"
+- <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby> "daydream"

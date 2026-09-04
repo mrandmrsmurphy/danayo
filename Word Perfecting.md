@@ -5105,3 +5105,28 @@ Next: 白内障.
 No cranberry situation (a plain descriptive tri-syllable compound, none of the three constituents' own stand-ins point here). **Fixed a real bug**: `japanese` was truncated to "くないしょう", missing the initial は — corrected to はくないしょう (hakunaishō), matching 白's own HAKU on'yomi. Filled blank `vietnamese`(bạch nội chướng, a real attested Sino-Vietnamese medical term), added missing traditional alias 白內障 (內 differs from shinjitai 内), removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`. Wrote a missing `## Notes` section. No homophones (注音 ㄅㄚㄎㄋㄛㄧㄐㄚㄫ / 羅馬字 bagnoijang unique). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 白日夢.
+
+### 2026-09-04, iteration 2631 — [[words/白日夢|白日夢]]
+
+No cranberry (plain descriptive compound). **Found and fixed a real, more widespread reading bug**: the word's own `注音` used ㄋㄞㄊ for 日 instead of 日's real, only-existing syllable ㄋㄧㄊ/nid/닏 (confirmed no `syllables/ㄋㄞㄊ.md` page exists at all) — corrected to ㄅㄚㄎㄋㄧㄊㄇㄨㄫ; the word's own `羅馬字`/`諺文` (bagnidmung/박닏뭉) were already independently correct, so this was purely a `注音` typo within the file itself. **This same wrong ㄋㄞㄊ/ㄋㄝㄊ pattern also appears, uncorrected, in the already-"perfected" [[characters/日 (char)|日 (char)]] and [[characters/夢 (char)|夢 (char)]] pages' own `## Words` rt-annotations** (白日夢, 六日/十六日/二十六日 series, and chengyu 一日三秋) — flagging as a real, wider-reaching bug for a future targeted pass; did not touch those already-stamped character pages today, out of scope for the word sweep. Filled blank `vietnamese`(bạch nhật mộng), added simplified alias 白日梦, removed blank `hsk_level`/`swadesh`/empty-list `aliases: []`, wrote a missing `## Notes` section. No word-level homophones (注音 ㄅㄚㄎㄋㄧㄊㄇㄨㄫ / 羅馬字 bagnidmung unique). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白止.
+
+### 2026-09-04, iteration 2632 — [[words/白止|白止]]
+
+No cranberry (a graphemic simplification, not a compound of two independently-standing constituents). This word actually writes 白芷 (Angelica dahurica) using 止 in place of 芷 — no character page for 芷 exists in this vault, but since 芷 is itself 形声 with 止 as its phonetic component, the readings are identical either way, so no pronunciation fields needed correction; documented the substitution in Notes and added 白芷 as an alias. Fixed the homophone callout from a non-standard `>[!tip] ...` sentence into the proper `>[!warning] Homophones` form (verified exact match on 注音 ㄅㄚㄎㄐㄧ / 羅馬字 bagji — only [[百事]]). **Also fixed the reciprocal callout on `words/百事.md`** (same non-standard `[!tip]` form) so both sides of the homophone pair now cross-link correctly — did not otherwise touch 百事's remaining checklist gaps (blank japanese/vietnamese, no date-last-perfect), which are out of scope until the sweep reaches it alphabetically. Removed blank `hsk_level`/`swadesh`/empty-list `aliases: []` on 白止, wrote a real `## Notes` section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 白熊.
+
+### 2026-09-04, out-of-sequence fix — the ㄞ/日 bug, vault-wide
+
+User flagged that the ㄞ/ㄋㄝㄊ-for-日 bug found in the 白日夢 iteration was worse than described: per `grammar/文法 - 03文字法.md` line 156, ㄞ (and ㄟ/ㄠ/ㄡ/ㄢ/ㄣ/ㄤ) are **explicitly forbidden** Mandarin-style diphthongs in Dan'a'yo, not merely unused — confirmed against the full official glyph inventory in `grammar/Bopomofo.md`, which has no compound-final glyphs at all beyond the vault's own custom blends (⼄⼔⼘⼜⼶⺢). ㄋㄝㄊ, by contrast, is a real, legitimately-catalogued syllable (`syllables/ㄋㄝㄊ.md`) — but it belongs to 涅/捏, not 日, so its use for 日 was still wrong even though the glyph itself is legal.
+
+Ran a vault-wide grep for both patterns and fixed every genuine instance (leaving legitimate 涅/捏 citations of ㄋㄝㄊ untouched):
+- `words/六日.md`, `words/二十六日.md` — `注音` corrected (羅馬字/諺文 were already right)
+- `chengyu/一日三秋.md` — `注音` corrected; `chengyu/Misc. Chengyu.md` citation corrected
+- `lexipedia/Calendar.md` — 六日 citation corrected
+- `characters/日 (char).md` — 5 wrong rt-annotations corrected (白日夢, 六日, 十六日, 二十六日, 一日三秋); left its legitimate 涅 citation alone
+- `characters/白 (char).md`, `characters/夢 (char).md`, `characters/秋 (char).md`, `characters/六 (char).md` — their own citations of the same compounds corrected
+
+Post-fix grep confirms zero remaining ㄞ usage outside this log and the grammar doc that documents the prohibition, and zero remaining wrong ㄋㄞㄊ/ㄋㄝㄊ-for-日 citations anywhere. `words/六日.md`/`二十六日.md` were only spot-fixed for this specific bug, not given a full checklist pass (they're well outside today's alphabetical sweep position and remain otherwise unperfected).

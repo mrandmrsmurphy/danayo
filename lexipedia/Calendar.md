@@ -91,7 +91,7 @@ Or a poetic one:
 3. <ruby>[三日](/words/三日.md)<rt>ㄙㄚㄇㄋㄧㄊ</rt></ruby>
 4. <ruby>[四日](/words/四日.md)<rt>ㄙㄧㄜㄋㄧㄊ</rt></ruby>
 5. <ruby>[五日](/words/五日.md)<rt>ㄛㄋㄧㄊ</rt></ruby>
-6. <ruby>[六日](/words/六日.md)<rt>ㄌㄨㄎㄋㄝㄊ</rt></ruby>
+6. <ruby>[六日](/words/六日.md)<rt>ㄌㄨㄎㄋㄧㄊ</rt></ruby>
 7. <ruby>[七日](/words/七日.md)<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby>
 8. [[八日]]
 9. <ruby>[九日](/words/九日.md)<rt>ㄎ⼜ㄋㄧㄊ</rt></ruby>

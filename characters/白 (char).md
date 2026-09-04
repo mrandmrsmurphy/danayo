@@ -53,7 +53,7 @@ boundedness: 100
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - <ruby>[[白粉]]<rt>ㄅㄚㄎㄅㄨㄋ</rt></ruby> "white powder; face powder"
 - <ruby>[[白内障]]<rt>ㄅㄚㄎㄋㄛㄧㄐㄚㄫ</rt></ruby> "cataract"
-- <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄞㄊㄇㄨㄫ</rt></ruby> "daydream"
+- <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby> "daydream"
 - <ruby>[[白領]]<rt>ㄅㄚㄎㄌㄧㄫ</rt></ruby> "white-collar"
 - <ruby>[[白色]]<rt>ㄅㄚㄎㄙㄧㄎ</rt></ruby> "white"
 - <ruby>[[白菜]]<rt>ㄅㄚㄎㄑㄚㄧ</rt></ruby> "bok choy"
