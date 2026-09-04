@@ -5780,3 +5780,27 @@ Next: 禁制.
 No cranberry (禁's own stand-in is [[禁止]], 制's is [[抑制]]) — neither constituent legitimized by this word. Pronunciation fields (gimjei/김제/ㄍㄧㄇㄐㄝㄧ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 禁 is individually false), quoted pronunciation fields, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 禁忌.
+
+### 2026-09-04, iteration 2741 — [[words/禁忌|禁忌]]
+
+No cranberry (禁's own stand-in is [[禁止]], 忌's is [[忌諱]]) — neither constituent legitimized by this word. Pronunciation fields (gimgi/김기/ㄍㄧㄇㄍㄧ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section (contrasting the culturally-avoided sense with [[禁制]]'s formal/administrative one, plus the medical "contraindication" sense). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁断.
+
+### 2026-09-04, iteration 2742 — [[words/禁断|禁断]]
+
+No cranberry (禁's own stand-in is [[禁止]], 断's is [[割断]]) — neither constituent legitimized by this word. Pronunciation fields (gimdwan/김돤/ㄍㄧㄇㄉ⺢ㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section (contrasting with [[禁忌]]/[[禁制]], covering both the absolute-prohibition and medical-withdrawal senses). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁書.
+
+### 2026-09-04, iteration 2743 — [[words/禁書|禁書]]
+
+No cranberry (禁's own stand-in is [[禁止]], 書's is [[書本]]) — neither constituent legitimized by this word. Pronunciation fields (gimsyo/김쇼/ㄍㄧㄇㄙ⼄) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section (焚書坑儒 reference). **Found and fixed a missing back-citation**: `characters/書.md`'s own `## Words` list didn't cite this word at all, despite `characters/禁.md` already citing it — added it. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁欲.
+
+### 2026-09-04, iteration 2744 — [[words/禁欲|禁欲]]
+
+No cranberry (禁's own stand-in is [[禁止]], 欲's is [[欲望]]) — neither constituent legitimized by this word. Pronunciation fields (gim'yog/김욕/ㄍㄧㄇ⼄ㄎ, including the retained null-onset apostrophe before 欲's own "'yog") already verified as the correct concatenation — no bug. Fixed flow-style `characters` indentation, filled blank vietnamese(cấm dục), removed blank hsk_level/swadesh/aliases, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 禁欲主義.
