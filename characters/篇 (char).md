@@ -48,6 +48,9 @@ boundedness: 80
 - 819th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](../syllables/ㄆ⼶ㄋ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Words
+- <ruby>[[篇]]<rt>ㄆ⼶ㄋ</rt></ruby> "article, piece of writing" (stand-in for 篇)
+
 ## Derived Characters
 - <ruby>[[偏 (char)|偏]]<rt>ㄆ⼶ㄋ</rt></ruby> "slanted; inclined"
 - <ruby>[[騙 (char)|騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive; defraud"

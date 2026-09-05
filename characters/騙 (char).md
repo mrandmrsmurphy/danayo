@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](Lookup/Korean/Korean%20Name%20ㅍ.md)
 
 ## Words
-- <ruby>[[騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive, defraud"
+- <ruby>[[騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive, defraud" (stand-in for 騙)

@@ -53,7 +53,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[略]]<rt>ㄌ⼘ㄎ</rt></ruby> "abbreviate; plan"
+- <ruby>[[略]]<rt>ㄌ⼘ㄎ</rt></ruby> "abbreviate; plan" (stand-in for 略)
 - <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"
 - <ruby>[[簡略]]<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby> "brief; simplified; concise"
 - <ruby>[[侵略]]<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby> "invade"

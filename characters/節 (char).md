@@ -58,7 +58,7 @@ boundedness: 70
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[節]]<rt>ㄐㄝㄊ</rt></ruby> "node, joint, festival"
+- <ruby>[[節]]<rt>ㄐㄝㄊ</rt></ruby> "node, joint, festival" (stand-in for 節)
 - <ruby>[[季節]]<rt>ㄍㄨㄧㄐㄝㄊ</rt></ruby> "season"
 - <ruby>[[時節]]<rt>ㄙㄧㄐㄝㄊ</rt></ruby> "seasons"
 - <ruby>[[音節]]<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"

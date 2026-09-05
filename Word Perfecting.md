@@ -6313,3 +6313,51 @@ Next: 箸.
 Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(はし), filled `vietnamese: null`(đũa, itself the everyday Vietnamese word for chopsticks). No word-level homophones (only character-page duplicates of the syllable). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 節.
+
+### 2026-09-04, iteration 2827 — [[words/節|節]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(せつ), filled `vietnamese: null`(tiết). Fixed a missing "(stand-in for 節)" annotation on the char page. No word-level homophones (only character-page duplicates). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 節減.
+
+### 2026-09-04, iteration 2828 — [[words/節減|節減]]
+
+No cranberry (節's own stand-in is [[節]] itself, 減's is [[減算]]) — neither constituent legitimized by this word. Pronunciation fields (jedgam/젇감/ㄐㄝㄊㄍㄚㄇ) and `kwin: true` both already correct. Filled blank cantonese/vietnamese(tiết giảm, itself a real common Vietnamese term), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 篇.
+
+### 2026-09-05, iteration 2829 — [[words/篇|篇]]
+
+Single-character stand-in word. [[偏]] (already fully perfected) had already documented a three-way homophone group anticipating both this word and [[騙]] — gave [[騙]] a full pass too since it was still incomplete (no callout, no Notes, no date stamp). Added missing `pos`/`japanese` to 篇, wrote real Notes sections for both, added the three-way callout to each, and fixed missing "(stand-in for X)" annotations / a completely missing `## Words` section on `characters/篇 (char).md` and `characters/騙 (char).md`. Stamped both `date-last-perfect: 2026-09-05`.
+
+Next: 簡潔.
+
+### 2026-09-05, iteration 2830 — [[words/簡潔|簡潔]]
+
+No cranberry (簡's own stand-in is [[簡単]], 潔's is [[清潔]]) — neither constituent legitimized by this word. Pronunciation fields (ganged/간걷/ㄍㄚㄋㄍㄝㄊ) already verified as the correct concatenation — no bug. Quoted pronunciation fields, filled blank vietnamese(giản khiết, matching established precedent from [[簡単]]/[[簡易]]/[[簡略]]/[[清潔]]). Existing Notes prose was already good, just added the cranberry-check line. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 簡略.
+
+### 2026-09-05, iteration 2831 — [[words/簡略|簡略]]
+
+No cranberry (簡's own stand-in is [[簡単]], 略's is [[略]] itself) — neither constituent legitimized by this word. Pronunciation fields (ganlyag/간략/ㄍㄚㄋㄌ⼘ㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `kwin` was stored false, but both constituents are individually `kwin: true` and the concatenated Dan'a'yo form matches real Sino-Korean with no divergence — corrected to true. Quoted pronunciation fields. **In passing**, fixed a missing "(stand-in for 略)" annotation on `characters/略 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 籠.
+
+### 2026-09-05, iteration 2832 — [[words/籠|籠]]
+
+Single-character stand-in word. Homophone callout with [[弄]] was already in place (added during 弄's own iteration). Pronunciation fields already correct. Added missing `pos`/`japanese`(かご), filled blank vietnamese(lồng, itself the everyday Vietnamese word for "cage"). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 籠球.
+
+### 2026-09-05, iteration 2833 — [[words/籠球|籠球]]
+
+No cranberry (both 籠's and 球's own stand-ins point to themselves). Pronunciation fields (longgyu/롱규/ㄌㄛㄫㄍ⼜) already verified as the correct concatenation — no bug. **Found and fixed real bugs**: `mandarin`/`vietnamese` had lánqiú/bóng rổ — both belonging to the alias 籃球 (real standard Chinese basketball term) and a native Vietnamese term respectively, not this headword's own compositional readings — corrected to lóngqiú/lung cầu. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 米粟.
+
+### 2026-09-05, iteration 2834 — [[words/米粟|米粟]]
+
+No cranberry: 粟's own stand-in is this exact compound, but 米's own is [[米]] itself; transitivity fails, though 粟 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (meisyog/메쇽/ㄇㄝㄧㄙ⼄ㄎ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 粉.
