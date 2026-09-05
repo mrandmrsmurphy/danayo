@@ -203,3 +203,33 @@ Next: 翌世紀.
 No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields ('igsegi/익서기/ㄧㄎㄙㄝㄍㄧ) already verified as the correct three-way concatenation — no bug. Filled blank vietnamese (dực thế kỷ, compositional). **In passing**, found and fixed two real bugs on `characters/世.md`: a double-space formatting bug in `諺文`, and a real bug where `vietnamese` stored "thế giới" (the full compound meaning "world," i.e. 世界's own value) instead of 世's own atomic reading "thế" — corrected. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 翌年.
+
+### 2026-09-05, iteration 2956 — [[words/翌年|翌年]]
+
+No cranberry (both 翌's and 年's own `stand_in` point to themselves). Pronunciation fields ('ignen/익넌/ㄧㄎㄋㄝㄋ) already verified as the correct concatenation — no bug. Filled blank vietnamese (dực niên, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 翌週.
+
+### 2026-09-05, iteration 2957 — [[words/翌週|翌週]]
+
+No cranberry (翌's own stand-in is [[翌]] itself, 週's is [[週日]]). Pronunciation fields ('igjuo/익줏/ㄧㄎㄐㄨㄛ) already verified as the correct concatenation — no bug. Filled blank vietnamese (dực chu, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 習俗.
+
+### 2026-09-05, iteration 2958 — [[words/習俗|習俗]]
+
+No cranberry (習's own stand-in is [[練習]], 俗's is [[俗]] itself). **Found and fixed a real bug**: `羅馬字`/`注音` (and 諺文) had an i-vowel first syllable (sibsog/십속/ㄙㄧㄆㄙㄛㄎ), mismatching 習's real ǝ-vowel reading (sǝb/습/ㄙㄜㄆ, confirmed via `syllables/ㄙㄜㄆ.md`) — corrected to sǝbsog/습속/ㄙㄜㄆㄙㄛㄎ. The same wrong 注音 was independently duplicated on `characters/習.md`'s own citation, fixed there too. Also corrected `kwin` (false→true per AND-rule). Filled the two empty-string fields (`vietnamese: ""`, `swadesh: ""`) and removed the redundant duplicate `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 翠色.
+
+### 2026-09-05, iteration 2959 — [[words/翠色|翠色]]
+
+No cranberry (翠's own stand-in is this exact compound, but 色's own is [[色彩]]) — transitivity fails, though 翠 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (cuisig/취식/ㄑㄨㄧㄙㄧㄎ) already verified as the correct concatenation — no bug. Filled three empty-string fields (`cantonese: ""`, `korean: ""`, `vietnamese: ""` — all compositional), added missing `kwin: false`, removed redundant duplicate `品詞` field. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 翠金.
+
+### 2026-09-05, iteration 2960 — [[words/翠金|翠金]]
+
+Periodic-table neologism (terbium), rebuilt to match the established template from sibling elements like [[石素]]/[[紫素]]. No cranberry (neither 翠's nor 金's own `stand_in` points here). Pronunciation fields (cuigim/취김/ㄑㄨㄧㄍㄧㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug**: word file had `kwin: false`, but the AND-rule requires true (both 翠 and 金 are individually `kwin: true`) — corrected. Mandarin tè/cantonese tik1 (the real element's own readings, via 铽) and korean/japanese/vietnamese international borrowings all confirmed as the expected pattern for chemical-element neologisms. Removed the redundant duplicate `品詞` field and replaced a long essay-style Notes section (headers, bold labels, a "Comparative CJKV forms" list) with the vault's standard concise neologism-Notes format. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: [awk lookup needed].
