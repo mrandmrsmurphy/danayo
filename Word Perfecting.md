@@ -431,3 +431,57 @@ Next: 肖像.
 No cranberry (肖's own stand-in is this exact compound, but 像's own is [[彫像]]) — transitivity fails, though 肖 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (syousyang/숏샹/ㄙ⼄ㄨㄙ⼘ㄫ) already verified as the correct concatenation — no bug. Fixed a blank `pos:` field (→ 名詞). Filled blank vietnamese (tiếu tượng, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 肘.
+
+### 2026-09-05, iteration 2994 — [[words/肘|肘]]
+
+Single-character stand-in word. Pronunciation fields (jum/줌/ㄐㄨㄇ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → khuỷu. Found a genuine homophone with [[朕]] ("we, royal") — an already-perfected but old (2026-03-29) pass that predates this session's homophone-check convention and had no callout at all; added reciprocal callouts to both, and while touching 朕.md also fixed a bare-string `characters:` field, removed a redundant duplicate `品詞`, and quoted several previously-unquoted string fields. **In passing**, fixed the 18th empty-string field bug on `characters/肘 (char).md` (`hsk_level: ""` → "無"). Stamped `date-last-perfect: 2026-09-05` on all three files.
+
+Next: 股.
+
+### 2026-09-05, iteration 2995 — [[words/股|股]]
+
+Single-character stand-in word, old bare-string `characters:` format rewritten into current template. Pronunciation fields (go/고/ㄍㄛ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (こ, on'yomi matching the same reading used on [[鼓]]). Re-verified the existing 3-way homophone group with [[鼓]] and [[錮]] (already fully cross-linked from 鼓's earlier perfecting pass, which had also confirmed no fourth homophone exists among the other ㄍㄛ-reading characters). Wrote full Notes covering the 會意 etymology and the 溝股/Pythagorean-Theorem citation. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肢体.
+
+### 2026-09-05, iteration 2996 — [[words/肢体|肢体]]
+
+No cranberry (肢's own stand-in is this exact compound, but 体's own is [[体系]]) — transitivity fails, though 肢 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jetei/저테/ㄐㄝㄊㄝㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct per the AND-rule. Filled blank cantonese (zi1tai2) and vietnamese (chi thể, standard attested term). Removed blank `hsk_level`/`swadesh` (character-page-only fields, not standard on word pages), converted bare-array `characters:`/`aliases:` YAML to proper list formatting, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肥大.
+
+### 2026-09-05, iteration 2997 — [[words/肥大|肥大]]
+
+No cranberry (肥's own stand-in is [[肥満]], 大's own is [[大]] itself) — neither constituent legitimized by this word. Pronunciation fields (buidai/뷔대/ㄅㄨㄧㄉㄚㄧ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 肥 is false despite 大 being true). Removed a stray space from `cantonese` (fei4 daai6→fei4daai6), quoted several previously-unquoted string fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肥桶.
+
+### 2026-09-05, iteration 2998 — [[words/肥桶|肥桶]]
+
+No cranberry (肥's own stand-in is [[肥満]], 桶's own is [[桶]] itself) — neither constituent legitimized by this word. Pronunciation fields (buitong/뷔통/ㄅㄨㄧㄊㄛㄫ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 肥 is false despite 桶 being true). Removed a stray space from `cantonese` (fei4 tung2→fei4tung2), quoted several previously-unquoted string fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肥満.
+
+### 2026-09-05, iteration 2999 — [[words/肥満|肥満]]
+
+No cranberry (肥's own stand-in is this exact compound, but 満's own is [[満]] itself) — transitivity fails, though 肥 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (buiman/뷔만/ㄅㄨㄧㄇㄚㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 肥 is false despite 満 being true). Removed a stray space from `cantonese` (fei4 mun5→fei4mun5), quoted several previously-unquoted string fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肥育.
+
+### 2026-09-05, iteration 3000 — [[words/肥育|肥育]]
+
+No cranberry (肥's own stand-in is [[肥満]], 育's own is [[育]] itself) — neither constituent legitimized by this word. Pronunciation fields (bui'yug/뷔육/ㄅㄨㄧ·⼜ㄎ) already verified as the correct concatenation, including the null-onset syllable break — no bug. Added missing `kwin: false` (AND-rule: 肥 is false despite 育 being true). Removed a stray space from `cantonese` (fei4 juk6→fei4juk6), quoted several previously-unquoted string fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肥脊.
+
+### 2026-09-05, iteration 3001 — [[words/肥脊|肥脊]]
+
+No cranberry (肥's own stand-in is [[肥満]], 脊's own is [[脊椎]]) — neither constituent legitimized by this word. Pronunciation fields (buijeg/뷔적/ㄅㄨㄧㄐㄝㄎ) already verified as the correct concatenation — no bug. **Found and fixed two real bugs**: `cantonese` had zik1 instead of 脊's own zik3 (fei4 zik1→fei4zik3); `vietnamese` had tịch instead of 脊's own tích (phì tịch→phì tích). Added missing `kwin: false` (AND-rule). Kept the word's already-thorough existing Notes (documents 脊 standing in for its own alias 瘠 via the shared Dan'a'yo syllable). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肩甲骨.
+
+### 2026-09-05, iteration 3002 — [[words/肩甲骨|肩甲骨]]
+
+No cranberry (none of the three constituents' own stand-ins point here — 肩/甲/骨 all point to themselves). Pronunciation fields (gengabgod/건갑곧/ㄍㄝㄋㄍㄚㄆㄍㄛㄊ) already verified as the correct concatenation — no bug; `kwin: false` already correct per the AND-rule. **Found and fixed three real bugs**: `mandarin`/`cantonese`/`korean` were all truncated, missing 骨's own final syllable entirely (jiānjiǎ→jiānjiǎgǔ; gin1 gaap3→gin1gaap3gwat1; 견갑→견갑골). Fixed redlinked bare-character citations in `characters:` (肩/甲/骨→disambiguated `(char)` filenames — these bare names belong to the *word* pages, not the character pages). Filled blank vietnamese (kiên giáp cốt). Fixed `aliases`: removed 肩膀 (an unrelated near-synonym meaning "shoulder," not "shoulder blade") and corrected truncated 肩胛→肩胛骨 (the genuine modern-standard alternate spelling, using specialized 胛 in place of the phonetic loan 甲). Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肩章.

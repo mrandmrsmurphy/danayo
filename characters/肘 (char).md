@@ -21,7 +21,7 @@ english:
 羅馬字: jum
 諺文: "줌"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6061
 mc_id: 2578
@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 肘.
 >For the word, see [肘](words/肘.md)
