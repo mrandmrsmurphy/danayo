@@ -6867,3 +6867,21 @@ Next: 緯線.
 No cranberry (緯's own stand-in is this exact compound, but 線's own is [[直線]]) — transitivity fails, though 緯 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (wisyen/위션/ㄨㄧㄙ⼶ㄋ) already verified as the correct concatenation — no bug. All fields were already filled and correct (vietnamese already confirmed via hvdic in a prior pass) — just cleanup: removed blank hsk_level/swadesh/aliases, converted loose note into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 縁故.
+
+### 2026-09-05, iteration 2919 — [[words/緣故|縁故]] (duplicate file resolved, not a fresh perfecting pass)
+
+`words/縁故.md` (the word due next in the sweep) turned out to be a duplicate of an already-perfected word: `words/緣故.md` (the traditional-variant spelling, perfected 2026-06-13) already lists 縁故 as its own alias and its Notes explicitly explain that 縁/緣 are true variants with identical readings — no separate word page should have existed. Confirmed with the user, then deleted `words/縁故.md` outright (matching the vault's established character-page convention of unifying variants onto one page rather than maintaining duplicates). `characters/故.md`'s own Words list had independently duplicated the same word under both spellings (line with the proper stand-in annotation citing [[緣故]], and a redundant bare duplicate citing [[縁故]]) — removed the redundant line. Obsidian will resolve any existing `[[縁故]]` links to `緣故.md` automatically via its frontmatter `aliases:` field. No new pronunciation work needed — `緣故.md` was already fully correct and re-verified with the homophone-check script (no collisions).
+
+Next: 縄.
+
+### 2026-09-05, iteration 2920 — [[words/縄|縄]]
+
+Single-character stand-in word. Pronunciation fields (sǝng/승/ㄙㄜㄫ) already matched the character's own values — no bug. Added missing pos/japanese (native なわ); kwin was already correctly set. No homophones (丞/僧 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 縦.
+
+### 2026-09-05, iteration 2921 — [[words/縦|縦]]
+
+Single-character stand-in word. Pronunciation fields (jom/좀/ㄐㄛㄇ) already matched the character's own values — no bug. Fixed the literal-string `korean: "null"` bug (→ 종, matching real pattern e.g. 穣/譲). Added missing pos/kwin/japanese; left vietnamese omitted since the character page itself has no candidates stored at all (no data to draw from, not fabricated). **In passing**, fixed the 17th empty-string field bug on `characters/縦 (char).md` (`hsk_level: ""` → "無") and the same disambiguator-suffix stand-in-annotation bug seen on 納/絡/綴. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 縮.

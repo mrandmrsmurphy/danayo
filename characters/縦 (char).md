@@ -21,7 +21,7 @@ english:
 羅馬字: jom
 諺文: 좀
 joyo_level: "6"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 5152
 mc_id: 1065
@@ -35,7 +35,7 @@ tags:
   - character
   - hapax
 boundedness: 65
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 縦.
 >For the word, see [縦](words/縦.md)
@@ -51,5 +51,5 @@ date-last-perfect: 2026-08-07
 - [Grade 5](lookup/Grade%205.md), [No HSK](lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[縦]]<rt>ㄐㄛㄇ</rt></ruby> "selfish, arbitrary" (stand-in for 縦 (char))
+- <ruby>[[縦]]<rt>ㄐㄛㄇ</rt></ruby> "selfish, arbitrary" (stand-in for 縦)
 - <ruby>[[縦縞]]<rt>ㄐㄛㄇㄍㄚㄨ</rt></ruby> "vertical stripes"
