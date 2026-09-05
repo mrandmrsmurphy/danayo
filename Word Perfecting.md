@@ -665,3 +665,27 @@ Next: 脳.
 Single-character stand-in word. Pronunciation fields (nau/낫/ㄋㄚㄨ) already matched the character's own values — no bug. **Found and fixed two real bugs**: `korean` and `vietnamese` both held the literal string `"null"` — fixed to 뇌 and não. Added missing pos/japanese (なずき). Found a genuine homophone with [[悩]] ("angered, mad," already perfected but missing its callout) — added reciprocal callouts to both. No homophones beyond that. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 脹脛.
+
+### 2026-09-05, iteration 3033 — [[words/脹脛|脹脛]]
+
+No cranberry (脹's own stand-in is [[腫脹]], 脛's own is [[脛骨]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `mandarin` had been contaminated with the alias 小腿's own reading (xiǎotuǐ) instead of the compositional zhàngjìng. Fixed cantonese's stray space (using 脛's own ging3 of its two stored candidates). Filled blank vietnamese. Verified japanese ふくらはぎ/korean 종아리 as genuine attested native terms, not bugs. Fixed a plain-link citation on `characters/脹.md` and a completely missing citation on `characters/脛.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脾臓.
+
+### 2026-09-05, iteration 3034 — [[words/脾臓|脾臓]]
+
+No cranberry (脾's own stand-in is this exact compound, but 臓's own is [[内臓]]) — transitivity fails, though 脾 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (bijang/비장/ㄅㄧㄐㄚㄫ) already verified as the correct concatenation — no bug; `kwin: true` already correct. Filled blank vietnamese. Incorporated a stray body sentence about the TCM spleen/pancreas conflation into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腎臓.
+
+### 2026-09-05, iteration 3035 — [[words/腎臓|腎臓]]
+
+No cranberry (腎's own stand-in is this exact compound, but 臓's own is [[内臓]]) — transitivity fails, though 腎 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `cantonese` had san6, mismatching 腎's own san5 (a tone error) — corrected to san5zong6. `kwin: true` already correct. Filled blank vietnamese. Re-verified the existing homophone with [[伸長]] — confirmed no third word shares this reading. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腕.
+
+### 2026-09-05, iteration 3036 — [[words/腕|腕]]
+
+Single-character stand-in word. Pronunciation fields ('wan/완/⺢ㄋ) already matched the character's own values — no bug. Added missing pos/japanese (うで, native kun-reading), filled `vietnamese: null`→oản. Re-verified the existing homophone with [[碗]] (already fully cross-linked). Checked the three other ⺢ㄋ-reading characters (玩, 翫, 頑) — none has a self-pointing `stand_in`, confirming no third homophone. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腫脹.
