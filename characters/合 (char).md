@@ -39,40 +39,40 @@ stand_in: 合
 aliases:
   - 閤
 注音: ㄍㄛㄆ
-date-last-perfect: 2026-03-10
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
->[!tip] This is about the character
+>[!tip] This is a page about the character 合.
 >For the word, see [合](words/合.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - Also pronounced /ɣʌp/ in MC: our pronunciation is a merger of the two.
-- 会意: [亼](characters/集.md) + [口](Radical%20030) (“mouth”) : Two mouths speaking together.
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [ㄍㄛㄆ](../syllables/ㄍㄛㄆ.md)
-- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 2](lookup/Grade%202.md)
-
-Descendants
-- [恰 (char)](characters/恰%20(char).md)
-- [蛤](characters/蛤.md) - clam
-- <ruby>[拿](/characters/拿.md)<rt>ㄋㄚ</rt></ruby> - grasp
+- 会意: [[集]] (亼) + [[Radical 030|口]] ("mouth") — two mouths speaking together.
+- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
+- 260th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄍㄛㄆ](syllables/ㄍㄛㄆ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby> "join; fit together; combine"
-- <ruby>[合金](/words/合金.md)<rt>ㄎㄚㄆㄍㄧㄇ</rt></ruby> - alloy
-- <ruby>[混合](/words/混合.md)<rt>ㄏㄛㄋㄎㄚㄆ</rt></ruby> - blend
-- <ruby>[癒合](/words/癒合.md)<rt>⼜ㄎㄚㄆ</rt></ruby> - recover
-- <ruby>[組合](/words/組合.md)<rt>ㄐㄛㄎㄚㄆ</rt></ruby> - assemble
+- <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby> "join; fit together; combine" (stand-in for 合)
+- <ruby>[[合金]]<rt>ㄍㄛㄆㄍㄧㄇ</rt></ruby> "alloy"
+- <ruby>[[混合]]<rt>ㄏㄛㄋㄍㄛㄆ</rt></ruby> "blend"
+- <ruby>[[癒合]]<rt>⼜ㄍㄛㄆ</rt></ruby> "recover"
+- <ruby>[[組合]]<rt>ㄐㄛㄍㄛㄆ</rt></ruby> "assemble"
 - <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[結合]]<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby> "combine; unite"
 - <ruby>[[合成]]<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby> "synthesis; compound"
 
-Chengyu
+## Chengyu
 - [合漢再決](chengyu/合漢再決.md)
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 合]]
+
+## Derived Characters
+- [[恰 (char)|恰]]
+- <ruby>[[蛤]]<rt></rt></ruby> "clam"
+- <ruby>[[拿]]<rt>ㄋㄚ</rt></ruby> "grasp"

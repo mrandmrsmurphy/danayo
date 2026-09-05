@@ -6627,3 +6627,27 @@ Next: 終身.
 No cranberry (終's own stand-in is [[終了]], 身's is [[身体]]). Pronunciation fields (jungsin/중신/ㄐㄨㄫㄙㄧㄋ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (chung thân, compositional). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 組合.
+
+### 2026-09-05, iteration 2879 — [[words/組合|組合]]
+
+No cranberry (組's own stand-in is this exact compound, but 合's own is [[合]] itself) — transitivity fails, though 組 is legitimized as an independent Dan'a'yo entry by this word. **Closed out the long-flagged vault-wide 合-syllable bug** (`ㄎㄚㄆ`/kab instead of 合's real `ㄍㄛㄆ`/gob, confirmed via `syllables/ㄍㄛㄆ.md` size 1 vs `syllables/ㄎㄚㄆ.md` size 2 belonging to 恰/怯): fixed on this word (jokap/조캅/ㄐㄛㄎㄚㄆ → jogob/조곱/ㄐㄛㄍㄛㄆ) and on `characters/合 (char).md`'s own Words-list citation. While there, discovered that an earlier "perfected" pass on `words/合金.md` had *rationalized* this exact bug as a genuine sense-dependent split ("mixture/blend" compounds reading kab vs "join/unite" compounds reading gob) — disproven by [[癒合]], an already-correctly-gob-reading sibling that serves as the "control." Corrected `words/合金.md` (kabgim/캅김/ㄎㄚㄆㄍㄧㄇ → gobgim/곱김/ㄍㄛㄆㄍㄧㄇ) and `words/混合.md` (which had a mixed state — 諺文 already correctly 혼곱, but 羅馬字/注音 still wrong — corrected to hongob/혼곱/ㄏㄛㄋㄍㄛㄆ throughout), rewriting both Notes to remove the false split claim. Also fixed the same syllable bug on the still-unperfected `words/融合.md` (융캅/'yungkab → 융곱/'yunggob) without giving it a full pass. `合(char).md` additionally got a light cleanup while touched (heading levels, non-standard word-citation link format, missing stand-in annotation, dangling raw CC-lookup links integrated into a proper bullet). 組's own syllable in this compound (jo/조/ㄐㄛ, vs. its standalone jǝ/즈/ㄐㄜ) reconfirmed as a genuine, independently-attested compound-specific alternation — not part of this bug. No homophones on any of the four corrected words. Stamped `date-last-perfect: 2026-09-05` on 組合/合金/混合/`合 (char)` (融合 left unstamped, still needs a full pass).
+
+Next: 経.
+
+### 2026-09-05, iteration 2880 — [[words/経|経]]
+
+Single-character stand-in word. Pronunciation fields (geng/겅/ㄍㄝㄫ) already matched the character's own values — no bug. **Found and fixed a real `kwin` bug**: word file had `kwin: true`, but should be `kwin: false` per the established single-character-word convention (word's kwin mirrors the character's own — 経(char)'s is `kwin: false`). Fixed a missing `korean` field entirely (blank, not even a bare colon) → 경. Added missing pos/japanese. **In passing**, added a missing "(stand-in for 経)" citation of [[経]] itself, absent entirely from `characters/経 (char).md`'s Words list. No homophones (径/巠 share the same syllable at the character level, but neither has an independent word page). Stamped `date-last-perfect: 2026-09-05` on both files. **Flagged, not fixed**: `characters/経 (char).md` has a blank `boundedness:` value — left unset rather than guessed, since this field's derivation isn't independently verifiable from other stored data.
+
+Next: 経典.
+
+### 2026-09-05, iteration 2881 — [[words/経典|経典]]
+
+No cranberry (経's own stand-in is [[経]] itself, 典's is [[事典]]). Pronunciation fields (gengden/겅던/ㄍㄝㄫㄉㄝㄋ) already verified as the correct concatenation — no bug. Fixed a missing `## Notes` heading (Notes bullet was floating directly under the embed with no heading at all). Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 経営.
+
+### 2026-09-05, iteration 2882 — [[words/経営|経営]]
+
+No cranberry (営's own stand-in is this exact compound, but 経's own is [[経]] itself) — transitivity fails, though 営 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (geng'yeng/겅영/ㄍㄝㄫ⼶ㄫ) already verified as the correct concatenation — no bug. **Gave `characters/営.md` a full formatting overhaul** while touched: rewrote a badly jumbled Notes section (mixed dash/asterisk bullets, unformatted raw wikilinks for SKIP/Stroke/CC-lookup, a stray uncategorized citation) into the standard structure, added a proper `## Words` section (経営 with stand-in annotation, plus 営養/国営/陣営 pulled from a vault-wide citation search) that had been missing entirely. Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting on the word page. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files. **Flagged, not fixed**: `characters/営.md`'s blank `boundedness:` value, same unresolvable-without-research gap as `経 (char).md`'s from the previous iteration.
+
+Next: 経済学.

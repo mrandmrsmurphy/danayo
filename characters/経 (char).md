@@ -33,7 +33,7 @@ aliases:
   - 經
   - 经
 注音: ㄍㄝㄫ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
@@ -53,6 +53,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[経]]<rt>ㄍㄝㄫ</rt></ruby> "classic, channel, warp" (stand-in for 経)
 - <ruby>[[経験]]<rt>ㄍㄝㄫㄝㄇ</rt></ruby> "experience"
 - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby> "economy"
 - <ruby>[[経済学]]<rt>ㄍㄝㄫㄐㄝㄧㄏㄚㄎ</rt></ruby> "economics"
