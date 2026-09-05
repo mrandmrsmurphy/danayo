@@ -5923,3 +5923,27 @@ Next: 私立.
 No cranberry: 私's own stand-in is this exact compound, but 立's own is [[立]] itself; transitivity fails, though 私 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (siǝlib/싀립/ㄙㄧㄜㄌㄧㄆ) already verified as the correct concatenation — no bug. Fixed flow-style `characters`, filled blank `pos`(名詞)/vietnamese(tư lập), converted comma-joined `cantonese` into a proper two-item list (colloquial si1 laap6 vs literal si1 lap6), removed empty `aliases: []`/blank hsk_level/swadesh, renamed `## Etymology`→`## Notes` with substantive content. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 秋.
+
+### 2026-09-04, iteration 2762 — [[words/秋|秋]]
+
+Single-character stand-in word. Pronunciation fields already correct. **Found a genuine homophone**: [[鵰]] ("eagle," already stamped since 04-04) shares this exact reading — added reciprocal callouts to both (鵰's own other issues — bare-string characters, redundant 品詞, questionable `固有名詞` pos for a common noun, trailing space in vietnamese — left for its own re-visit, not fixed now). Filled blank vietnamese(thu)/japanese(あき). Wrote a real Notes section. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秋波.
+
+### 2026-09-04, iteration 2763 — [[words/秋波|秋波]]
+
+No cranberry (秋's own stand-in is [[秋]] itself, 波's is [[波浪]]) — neither constituent legitimized by this word. Pronunciation fields (cuoba/춧바/ㄑㄨㄛㄅㄚ) already verified as the correct concatenation — no bug. Fixed a missing `(char)` suffix on `characters` (秋→秋 (char)), filled blank vietnamese(thu ba), removed blank hsk_level/swadesh/aliases, renamed `## Etymology`→`## Notes` (kept the existing Li Bai/Su Shi historical note, already good content). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 科挙.
+
+### 2026-09-04, iteration 2764 — [[words/科挙|科挙]]
+
+No cranberry (科's own stand-in is [[学科]], 挙's is [[挙]] itself) — neither constituent legitimized by this word. Pronunciation fields (kwagyo/콰교/ㄎ⺢ㄍ⼄) already verified as the correct concatenation — no bug. Converted comma-joined `vietnamese` to a list (khoa cử compositional vs. khoa bảng, Vietnam's own historical term), removed blank hsk_level/swadesh, wrote a full Notes section (body was empty beyond the meta-bind-embed). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秘密.
+
+### 2026-09-04, iteration 2765 — [[words/秘密|秘密]]
+
+No cranberry: 秘's own stand-in is this exact compound, but 密's own is [[密]] itself; transitivity fails, though 秘 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (biǝmid/븨믿/ㄅㄧㄜㄇㄧㄊ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `aliases` had wrongly self-listed this word's own headword (秘密) as its own alias — trimmed to just the genuine traditional variant 祕密. Fixed flow-style `characters`, quoted `hsk_level`, removed blank `swadesh`, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 租金.
