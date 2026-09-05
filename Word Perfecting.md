@@ -6651,3 +6651,27 @@ Next: 経営.
 No cranberry (営's own stand-in is this exact compound, but 経's own is [[経]] itself) — transitivity fails, though 営 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (geng'yeng/겅영/ㄍㄝㄫ⼶ㄫ) already verified as the correct concatenation — no bug. **Gave `characters/営.md` a full formatting overhaul** while touched: rewrote a badly jumbled Notes section (mixed dash/asterisk bullets, unformatted raw wikilinks for SKIP/Stroke/CC-lookup, a stray uncategorized citation) into the standard structure, added a proper `## Words` section (経営 with stand-in annotation, plus 営養/国営/陣営 pulled from a vault-wide citation search) that had been missing entirely. Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting on the word page. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files. **Flagged, not fixed**: `characters/営.md`'s blank `boundedness:` value, same unresolvable-without-research gap as `経 (char).md`'s from the previous iteration.
 
 Next: 経済学.
+
+### 2026-09-05, iteration 2883 — [[words/経済学|経済学]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (gengjeihag/겅제학/ㄍㄝㄫㄐㄝㄧㄏㄚㄎ) already verified as the correct three-way concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Removed blank hsk_level/swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 経緯.
+
+### 2026-09-05, iteration 2884 — [[words/経緯|経緯]]
+
+No cranberry (経's own stand-in is [[経]] itself, 緯's is [[緯線]]). Pronunciation fields (geng'wi/겅위/ㄍㄝㄫㄨㄧ) already verified as the correct concatenation — no bug. Filled blank vietnamese (kinh vĩ, compositional). **In passing**, fixed an unquoted `hsk_level: 無` on `characters/緯.md` (→ quoted string). `middle_chinese_initial: ø` on the same file double-checked and confirmed as an established vault convention (28 other instances) for the null-initial class, not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 経費.
+
+### 2026-09-05, iteration 2885 — [[words/経費|経費]]
+
+No cranberry (both 経's and 費's own `stand_in` point to themselves). Pronunciation fields (gengfai/겅빼/ㄍㄝㄫㄈㄚㄧ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (kinh phí, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 結.
+
+### 2026-09-05, iteration 2886 — [[words/結|結]]
+
+Single-character stand-in word. Pronunciation fields (ged/걷/ㄍㄝㄊ) already matched the character's own values — no bug; double-checked the apparent 諺文-final-ㄷ-vs-注音-final-ㄊ mismatch and confirmed it's a consistent, established vault-wide convention (14+ other characters follow the same pattern) representing neutralized coda realization, not an error. Added missing pos/kwin/japanese (native むす), filled `vietnamese: null` → kết. No homophones (偈/傑/桔/潔 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 結加夫坐.
