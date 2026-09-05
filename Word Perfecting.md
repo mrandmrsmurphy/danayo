@@ -6675,3 +6675,39 @@ Next: 結.
 Single-character stand-in word. Pronunciation fields (ged/걷/ㄍㄝㄊ) already matched the character's own values — no bug; double-checked the apparent 諺文-final-ㄷ-vs-注音-final-ㄊ mismatch and confirmed it's a consistent, established vault-wide convention (14+ other characters follow the same pattern) representing neutralized coda realization, not an error. Added missing pos/kwin/japanese (native むす), filled `vietnamese: null` → kết. No homophones (偈/傑/桔/潔 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 結加夫坐.
+
+### 2026-09-05, iteration 2887 — [[words/結加夫坐|結加夫坐]]
+
+No cranberry (none of the four constituents' `stand_in` points here). **Found and fixed a major bug**: the four characters were stored out of order in the frontmatter (結,坐,加,夫 — matching neither the headword's own literal character sequence 結,加,夫,坐 nor the real word 結跏趺坐's order), and 羅馬字 was additionally garbled ("gedgabujwa," a "bu" segment matching no constituent's real reading). Rebuilt the `characters:` order and 羅馬字/諺文/注音 from scratch (gedgafǝjwa/걷가쁘좌/ㄍㄝㄊㄍㄚㄈㄜㄐ⺢), then propagated the corrected ruby reading to all four sibling characters' own Words-list citations (結, 加, 夫, 坐 — all previously showed the old wrong reading). Filled blank cantonese/vietnamese, fixed the odd space in `mandarin`. **In passing**, fixed a malformed comma-joined `vietnamese` value on `characters/加.md` ("gia, chơ" → proper two-item list). No homophones. Stamped `date-last-perfect: 2026-09-05` on all affected files.
+
+Next: 結合.
+
+### 2026-09-05, iteration 2888 — [[words/結合|結合]]
+
+No cranberry (both 結's and 合's own `stand_in` point to themselves). Pronunciation fields (gedgob/걷곱/ㄍㄝㄊㄍㄛㄆ) reconfirmed correct — this was the sibling already spot-checked during the 合-syllable bug closeout, no bug here. All other-language fields confirmed standard and genuinely attested. Mostly just needed quoting-convention cleanup (mandarin/cantonese/korean unquoted → quoted) and the `date-last-perfect` stamp it had been missing despite otherwise being in good shape. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 結婚.
+
+### 2026-09-05, iteration 2889 — [[words/結婚|結婚]]
+
+No cranberry (婚's own stand-in is this exact compound, but 結's own is [[結]] itself) — transitivity fails, though 婚 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gedhon/걷혼/ㄍㄝㄊㄏㄛㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `cantonese` had jie2 hun1, a garbled reading matching neither constituent's own jyutping (結's is git3, 婚's is fan1) — corrected to git3 fan1. Fixed a duplicate-headword `aliases` entry (結婚 listed as its own alias, alongside the genuine simplified 结婚) and a comma-joined `mandarin` string (converted to a proper list, jiéhūn/jiēhūn). **In passing**, discovered and fixed a truncated `諺文` on the still-unperfected sibling `words/結婚礼.md` (걷혼 → 걷혼레, missing 礼's own final syllable entirely) while investigating a stray homophone-check hit. No genuine homophones. Stamped `date-last-perfect: 2026-09-05` on `words/結婚.md`.
+
+Next: 結婚礼.
+
+### 2026-09-05, iteration 2890 — [[words/結婚礼|結婚礼]]
+
+No cranberry (none of the three constituents' `stand_in` points here). This word's `諺文` truncation bug (걷혼 → 걷혼레) was already fixed in passing during the previous iteration; the rest of the pronunciation fields were already correct — reconfirmed with the fixed homophone script. Filled blank cantonese/japanese/vietnamese. Korean 혼례 double-checked: it's a genuine, independently attested 2-character Korean term (not a compositional 3-character reading, since it drops 結) — left as-is, not "fixed" to a fabricated 결혼례. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 絡.
+
+### 2026-09-05, iteration 2891 — [[words/絡|絡]]
+
+Single-character stand-in word. Pronunciation fields (lag/락/ㄌㄚㄎ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native から), filled `vietnamese: null` → lạc. **In passing**, fixed the same disambiguator-suffix stand-in-annotation bug found earlier on 納 — "(stand-in for 絡 (char))" → "(stand-in for 絡)" on `characters/絡 (char).md`. No homophones (楽/洛/落/酪/駱 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 統一.
+
+### 2026-09-05, iteration 2892 — [[words/統一|統一]]
+
+No cranberry (統's own stand-in is [[統率]], 一's is [[一]] itself). **Found and fixed two real bugs**: `羅馬字` had tong'it (t-final), mismatching 一's own d-final 'id (confirmed via `syllables/ㄧㄊ.md`) — corrected to tong'id (諺文/注音 were already correct, including the established mid-dot separator convention before a vowel/glide-initial syllable). `kwin` was true, but the AND-rule requires false (一 is individually `kwin: false`) — corrected. Removed the redundant duplicate `品詞` field. No homophones. Stamped `date-last-perfect: 2026-09-05`. **In passing**, fixed the single directly-relevant citation line on `characters/一 (char).md` (a bare `[[統一]]` with no ruby at all) but otherwise left that page alone — it's in far worse shape than a quick touch-up can fix (mixed `*`/`-` bullets, most `rt` tags showing *real Korean hangul readings* of each compound instead of Dan'a'yo's own 注音, non-standard heading levels/names) and is flagged below as a major known gap requiring a dedicated future pass, not incidental cleanup.
+
+Next: 統治.

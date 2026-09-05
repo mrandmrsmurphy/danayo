@@ -54,7 +54,7 @@ boundedness: 80
 - <ruby>[[坐]]<rt>ㄐ⺢</rt></ruby> "to sit" (stand-in for 坐)
 - <ruby>[[坐位]]<rt>ㄐ⺢⼔ㄧ</rt></ruby> "seat"
 - <ruby>[[坐席]]<rt>ㄐ⺢ㄙㄝㄎ</rt></ruby> "seat; mat"
-- <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄐ⺢ㄍㄚㄈㄜ</rt></ruby> "to sit in lotus position"
+- <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "to sit in lotus position"
 - <ruby>[[星坐]]<rt>ㄙㄝㄫㄐ⺢</rt></ruby> "constellation"
 
 ## Derived Characters

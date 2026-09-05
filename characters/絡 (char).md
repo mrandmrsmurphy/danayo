@@ -31,7 +31,7 @@ stand_in: "絡"
 aliases:
   - 络
 注音: "ㄌㄚㄎ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -49,4 +49,4 @@ boundedness: 90
 - [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[絡]]<rt>ㄌㄚㄎ</rt></ruby> "enmesh; wrap around" (stand-in for 絡 (char))
+- <ruby>[[絡]]<rt>ㄌㄚㄎ</rt></ruby> "enmesh; wrap around" (stand-in for 絡)

@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[丈夫]]<rt>ㄐㄚㄫㄅㄨ</rt></ruby> "husband"
 - <ruby>[[大夫]]<rt>ㄉㄚㄧㄅㄨ</rt></ruby> "official"
 - <ruby>[[漁夫]]<rt>⼄ㄈㄜ</rt></ruby> "fisherman"
-- <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄐ⺢ㄍㄚㄈㄜ</rt></ruby> "sit in lotus position"
+- <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "sit in lotus position"
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
