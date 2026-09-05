@@ -6595,3 +6595,35 @@ Next: 紳士.
 No cranberry (紳's own stand-in is this exact compound, but 士's own is [[士]] itself) — transitivity fails, though 紳 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (sinsai/신새/ㄙㄧㄋㄙㄚㄧ) already verified as the correct concatenation — no bug. Cantonese san1 si6-2 confirmed as legitimate real tone-change reading, not a typo. Fixed a blank `pos:` field (→ 名詞). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`. Noted but left alone: `characters/紳.md`'s `korean_native: ""` — an empty string, but matching a widespread (48-instance) vault convention for characters with no simple native Korean gloss, out of scope for this sweep.
 
 Next: 紺.
+
+### 2026-09-05, iteration 2874 — [[words/紺|紺]]
+
+Single-character stand-in word (bare unquoted-string `characters` format), fully rewritten into the current template. Pronunciation fields (gam/감/ㄍㄚㄇ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → cám. Existing Homophones callout with [[甘]] re-verified and confirmed still correct/complete after the tooling fix below (no other word-level collision despite several other same-syllable characters). Stamped `date-last-perfect: 2026-09-05`.
+
+**Critical tooling bug found and fixed while re-checking this iteration's homophones**: the standing `homophone_check.py` script (in the scratchpad) had been invoked with bare romanization/hangul/zhuyin values as patterns (e.g. `'houdo' '홋도' 'ㄏㄛㄨㄉㄛ'`) rather than full field lines (`羅馬字: houdo`, etc.) — meaning every homophone check since resuming this session (iterations 2848–2873: 糊塗, 糖, 糞, 糟糠, 糸線, 系統, 紀元, 紀元前, 紀元後, 約束, 紅茶, 紅鶴, 紋, 納, 純粋, 紙鳶, 紛, 紛争, 素描, 素数, 紡, 紡錘, 紫丁香, 紫禁城, 紫素, 紳士) silently returned "no output" regardless of whether real collisions existed, and was trusted as "no homophones" each time. Rewrote the script to build proper `羅馬字:`/`諺文:`/`注音:` field-line patterns (both quoted and unquoted) and take exactly 3 positional args. Retroactively re-ran all 26 affected words against the fixed script: found and fixed two real missed homophone groups — 紋/聞/蚊 (3-way, mun/문/ㄇㄨㄋ) and 紡/肪 (2-way, fang/빵/ㄈㄚㄫ) — adding proper callouts to all five pages (聞/蚊/肪 are themselves still unperfected, so only the callout was added, not a full pass). All other 24 words confirmed genuinely homophone-free under the corrected script. 紺/甘 (this iteration) was independently re-verified as already correct.
+
+Next: 紺色.
+
+### 2026-09-05, iteration 2875 — [[words/紺色|紺色]]
+
+No cranberry (紺's own stand-in is [[紺]] itself, 色's is [[色彩]]). Pronunciation fields (gamsig/감식/ㄍㄚㄇㄙㄧㄎ) already verified as the correct concatenation — no bug (re-confirmed with the newly-fixed homophone-check script). Filled blank cantonese/vietnamese. **In passing**, fixed the long-flagged `characters/色.md` `pos: ""` empty-string bug (→ 名詞), previously noted in memory as one of the original 5 instances found. Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 終了.
+
+### 2026-09-05, iteration 2876 — [[words/終了|終了]]
+
+No cranberry (終's own stand-in is this exact compound, but 了's own is [[了]] itself) — transitivity fails, though 終 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (junglyau/중럇/ㄐㄨㄫㄌ⼘ㄨ) already verified as the correct concatenation — no bug. Fixed a comma-joined `korean` field ("종료, 끝마침" — a native Korean gloss wrongly appended to the compositional reading) to just 종료. Filled blank cantonese/vietnamese, added missing `kwin: false`. **In passing**, added a missing "(stand-in for 了)" citation of [[了]] itself, absent entirely from `characters/了 (char).md`'s Words list. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 終点.
+
+### 2026-09-05, iteration 2877 — [[words/終点|終点]]
+
+No cranberry (終's own stand-in is [[終了]], 点's is [[点]] itself). Pronunciation fields (jungdem/중덤/ㄐㄨㄫㄉㄝㄇ) already verified as the correct concatenation — no bug. Fixed `hsk_level: 4` (bare number → quoted string "4"). Filled blank vietnamese. Dropped a loose "opp. 始点" note — `始点` (and `起点`) don't exist anywhere in the vault as a redlink target, so no valid antonym callout could be made; left unlinked rather than pointing to nothing. Fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 終身.
+
+### 2026-09-05, iteration 2878 — [[words/終身|終身]]
+
+No cranberry (終's own stand-in is [[終了]], 身's is [[身体]]). Pronunciation fields (jungsin/중신/ㄐㄨㄫㄙㄧㄋ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (chung thân, compositional). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 組合.

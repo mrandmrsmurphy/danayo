@@ -40,7 +40,7 @@ stand_in: "了"
 aliases:
   - 瞭
 注音: "ㄌ⼘ㄨ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
@@ -58,6 +58,7 @@ boundedness: 100
 - 3820th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄌ⼘ㄨ](../syllables/ㄌ⼘ㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
+- <ruby>[[了]]<rt>ㄌ⼘ㄨ</rt></ruby> "done, finished, over" (stand-in for 了)
 - <ruby>[[完了]]<rt>ㄏ⺢ㄋㄌ⼘ㄨ</rt></ruby> "completion; perfective (aspect)"
 - <ruby>[[終了]]<rt>ㄐㄨㄫㄌ⼘ㄨ</rt></ruby> "end, conclusion"
 - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby> "understand, comprehend, learn"
