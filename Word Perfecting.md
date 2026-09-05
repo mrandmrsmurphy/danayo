@@ -232,4 +232,28 @@ Next: 翠金.
 
 Periodic-table neologism (terbium), rebuilt to match the established template from sibling elements like [[石素]]/[[紫素]]. No cranberry (neither 翠's nor 金's own `stand_in` points here). Pronunciation fields (cuigim/취김/ㄑㄨㄧㄍㄧㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug**: word file had `kwin: false`, but the AND-rule requires true (both 翠 and 金 are individually `kwin: true`) — corrected. Mandarin tè/cantonese tik1 (the real element's own readings, via 铽) and korean/japanese/vietnamese international borrowings all confirmed as the expected pattern for chemical-element neologisms. Removed the redundant duplicate `品詞` field and replaced a long essay-style Notes section (headers, bold labels, a "Comparative CJKV forms" list) with the vault's standard concise neologism-Notes format. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
-Next: [awk lookup needed].
+Next: 翻.
+
+### 2026-09-05, iteration 2961 — [[words/翻|翻]]
+
+Single-character stand-in word. **Found and fixed a real bug**: `羅馬字`/`諺文`/`注音` had pon/폰/ㄆㄛㄋ (p-initial), mismatching 翻's real f-initial reading (fon/뽄/ㄈㄛㄋ, per the vault's established ㄈ→ㅃ convention) — corrected. Added missing pos/kwin/japanese, filled `vietnamese: null` → phiên. This exposed a genuine Dan'a'yo homophone with [[反]] (already perfected, whose own Notes had independently fixed the identical p/f bug and flagged 販/返 as sharing the phonetic family without word pages) — added reciprocal callouts to both. No other collisions. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 翻訳.
+
+### 2026-09-05, iteration 2962 — [[words/翻訳|翻訳]]
+
+No cranberry (訳's own stand-in is this exact compound, but 翻's own is [[翻]] itself) — transitivity fails, though 訳 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had pon'yeg/폰역 (p-initial), inheriting the same 翻/p-f confusion fixed on the previous word — `注音` (ㄈㄛㄋ⼶ㄎ) had stayed correct as the tell. Filled blank cantonese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 翻身.
+
+### 2026-09-05, iteration 2963 — [[words/翻身|翻身]]
+
+No cranberry (翻's own stand-in is [[翻]] itself, 身's is [[身体]]). **Found and fixed two real bugs**: inherited the same 翻 p/f confusion in `羅馬字`/`諺文` (`注音` stayed correct throughout, the tell); `cantonese` was garbled (saan1san1, missing a space and mismatching 翻's own faan1) — corrected to faan1 san1. Filled blank korean/vietnamese, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 老人学.
+
+### 2026-09-05, iteration 2964 — [[words/老人学|老人学]]
+
+No cranberry (none of the three constituents' `stand_in` points here). **Found and fixed a real bug**: `羅馬字`/`諺文` had lyau/럇 (a glide-inserted first syllable), mismatching 老's real lau/랏 — `注音` (ㄌㄚㄨㄋㄧㄋㄏㄚㄎ) had stayed correct throughout, the usual tell. Filled blank vietnamese (lão nhân học, standard attested term). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 老子.
