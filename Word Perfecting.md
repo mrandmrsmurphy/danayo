@@ -329,3 +329,33 @@ Next: 耽.
 Single-character stand-in word. Pronunciation fields (dom/돔/ㄉㄛㄇ) already matched the character's own values — no bug. Added missing kwin/japanese (native ふける); pos/vietnamese were already correctly set. **In passing**, added a missing "(stand-in for 耽)" annotation on `characters/耽 (char).md`'s own self-citation. No homophones (彤 shares the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 聊.
+
+### 2026-09-05, iteration 2977 — [[words/聊|聊]]
+
+Single-character stand-in word. Pronunciation fields (lyau/럇/ㄌ⼘ㄨ) already matched the character's own values — no bug. Added missing kwin/japanese (native いささか). Completed the genuine Dan'a'yo homophone with [[了]] (already perfected, had pre-emptively documented and anticipated this exact pairing, including a note on 了's own corpus-noise vietnamese candidates) — reciprocal callout already in place, cross-referenced here. No other collisions (寮/料/瞭/蓼/遼/陋 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 聖人.
+
+### 2026-09-05, iteration 2978 — [[words/聖人|聖人]]
+
+No cranberry (聖's own stand-in is [[神聖]], 人's is [[人]] itself). Pronunciation fields (singnin/싱닌/ㄙㄧㄫㄋㄧㄋ) already verified as the correct concatenation — no bug. Filled entirely-blank cantonese/vietnamese (compositional, both standard attested terms). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 聘.
+
+### 2026-09-05, iteration 2979 — [[words/聘|聘]]
+
+Single-character stand-in word. Pronunciation fields (ping/핑/ㄆㄧㄫ) already matched the character's own values — no bug. Added missing kwin/japanese (native めす); pos/vietnamese were already correctly set. No homophones (no other character shares this syllable). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 聚集.
+
+### 2026-09-05, iteration 2980 — [[words/聚集|聚集]]
+
+No cranberry (聚's own stand-in is this exact compound, but 集's own is [[集合]]) — transitivity fails, though 聚 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (cuijib/취집/ㄑㄨㄧㄐㄧㄆ) already verified as the correct concatenation — no bug. Added missing `kwin: true` (entirely absent from the file). Converted a loose "Japanese conflates these two characters" comment into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 聞.
+
+### 2026-09-05, iteration 2981 — [[words/聞|聞]]
+
+Single-character stand-in word. Pronunciation fields (mun/문/ㄇㄨㄋ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native きく), filled `vietnamese: null` → văn. Completed the 3-way Dan'a'yo homophone group with [[紋]] and [[蚊]] (established earlier this sweep, reciprocal callout already in place) — re-verified complete with the fixed homophone script (吻/問/文 share the syllable at the character level only). **In passing**, added a missing "(stand-in for 聞)" annotation on `characters/聞 (char).md`'s own self-citation. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 聡明.

@@ -30,7 +30,7 @@ stand_in: "聞"
 aliases:
   - 闻
 注音: "ㄇㄨㄋ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -50,7 +50,7 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[聞]]<rt>ㄇㄨㄋ</rt></ruby> "hear"
+- <ruby>[[聞]]<rt>ㄇㄨㄋ</rt></ruby> "hear" (stand-in for 聞)
 - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"
 - <ruby>[[令聞]]<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby> "good name, reputation"
 
