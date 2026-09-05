@@ -6439,3 +6439,27 @@ Next: 精鋭.
 No cranberry (精's own stand-in is [[精神]], 鋭's is [[鋭利]]) — neither constituent legitimized by this word. Pronunciation fields (jeng'ye/정여/ㄐㄝㄫ⼶) already verified as the correct concatenation — no bug. Filled blank vietnamese(tinh nhuệ, itself the standard Vietnamese military term for "elite"), removed blank hsk_level/swadesh. **In passing**, fixed the 12th empty-string field bug on `characters/鋭.md` (`hsk_level: ""`). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 糊塗.
+
+### 2026-09-05, iteration 2848 — [[words/糊塗|糊塗]]
+
+Found and fixed a real bug: the stored pronunciation fields (hodo/호도/ㄏㄛㄉㄛ) were a copy-paste confusion with the visually similar character 弧 (own reading ho/호/ㄏㄛ) rather than 糊's own reading (hou/홋/ㄏㄛㄨ) — corrected to the true concatenation houdo/홋도/ㄏㄛㄨㄉㄛ. This also meant the pre-existing reciprocal Homophones callout with [[弧度]] was spurious (the two words only coincided under the wrong reading); removed from both pages, with an explanatory note left on each so the near-miss isn't rediscovered as a "missing" homophone later. No cranberry (糊's own stand-in is this exact compound, but 塗's own is [[塗抹]]) — transitivity fails, though 糊 is legitimized as an independent Dan'a'yo entry by this word. Corrected `kwin` true→false per the AND-rule (塗 is individually `kwin: true`, but 糊 is `kwin: false`). Removed blank hsk_level/swadesh/aliases. **In passing**, fixed the 13th empty-string field bug on `characters/塗.md` (`pos: ""` → `事詞`), plus non-standard curly-quote characters embedded as literal YAML values on the same file's `graphemic_classification`, `stand_in`, and `注音` fields (should be plain straight-quoted strings, per vault-wide convention — corrected). Updated both `characters/糊.md` and `characters/塗.md`'s own `## Words` citations to the corrected ㄏㄛㄨㄉㄛ ruby reading. Stamped `date-last-perfect: 2026-09-05` on `words/糊塗.md`, `words/弧度.md`, `characters/糊.md`, and `characters/塗.md`.
+
+Next: 糖.
+
+### 2026-09-05, iteration 2849 — [[words/糖|糖]]
+
+Single-character stand-in word (old bare-string `characters` format), fully rewritten into the current template. Pronunciation fields (dwang/돵/ㄉ⺢ㄫ) already matched the character's own values — no bug. Filled `vietnamese: null` → đường, added missing `pos`/`kwin`/`japanese`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 糞.
+
+### 2026-09-05, iteration 2850 — [[words/糞|糞]]
+
+Single-character stand-in word (old bare-string `characters` format), fully rewritten into the current template. Pronunciation fields (fum/뿜/ㄈㄨㄇ) already matched the character's own values, including the deliberate -m final (dodging the crowded ㄈㄨㄋ cluster shared with 奮/芬/粉/雰) — no bug. Added missing `japanese`/`kwin`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 糟糠.
+
+### 2026-09-05, iteration 2851 — [[words/糟糠|糟糠]]
+
+No cranberry (糟's own stand-in is this exact compound, but 糠's own is [[比糠]]) — transitivity fails, though 糟 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jaukang/잣캉/ㄐㄚㄨㄎㄚㄫ) already verified as the correct concatenation — no bug. Filled blank vietnamese (tao khang, itself the standard Sino-Vietnamese compound attested in 糟糠之妻/tao khang chi thê). Removed blank hsk_level/swadesh. **In passing**, found and fixed a real copy-paste bug on `characters/糟.md`: its `vietnamese` field wrongly duplicated 糠's own value ("khang") instead of 糟's real Sino-Vietnamese reading ("tao") — same failure mode as the earlier 弧/糊 confusion, caught by the same "tao khang" compound-word cross-check. Also gave `characters/糟.md` a full formatting pass while there (heading level `#`→`##`, rewrote a stale non-standard Notes block into current convention with OC reconstruction/CC lookup/missing `## Words` section) and fixed the 14th empty-string field bug on `characters/糠.md` (`pos: ""` → `名詞`). No homophones. Stamped `date-last-perfect: 2026-09-05` on all three files.
+
+Next: 糸線.
