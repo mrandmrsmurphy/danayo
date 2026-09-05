@@ -55,4 +55,5 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[脱]]<rt>ㄉ⺢ㄊ</rt></ruby> "undress" (stand-in for 脱)
 - <ruby>[[脱稿]]<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby> "complete a manuscript"

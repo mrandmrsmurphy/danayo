@@ -641,3 +641,27 @@ Next: 脚.
 Single-character stand-in word. Pronunciation fields (gyag/갹/ㄍ⼘ㄎ) already matched the character's own values — no bug. Added missing pos/japanese (あし, native kun-reading), filled `vietnamese: null`→cước. Fixed a missing "(stand-in for 脚)" annotation on the char page's own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 脚踝.
+
+### 2026-09-05, iteration 3029 — [[words/脚踝|脚踝]]
+
+No cranberry (踝's own stand-in is this exact compound, but 脚's own is [[脚]] itself) — transitivity fails, though 踝 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gyaghwa/갹화/ㄍ⼘ㄎㄏ⺢) already verified as the correct concatenation — no bug; `kwin: false` already correct. Converted comma-joined japanese and vietnamese into proper lists — all real attested native terms, none compositional. Verified korean 발목 as a genuine real word (not a bug). Fixed cantonese stray space. Fixed a completely missing `## Words` section on `characters/踝.md` (added the stand-in citation). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脱.
+
+### 2026-09-05, iteration 3030 — [[words/脱|脱]]
+
+Single-character stand-in word. Pronunciation fields (dwad/돧/ㄉ⺢ㄊ) already matched the character's own values — no bug. **Found and fixed two real bugs**: `korean` and `vietnamese` both held the literal string `"null"` — fixed to 탈 and thoát respectively. Added missing pos/japanese (ぬぐ, native kun-reading). Fixed a self-citation entirely missing from the char page's own Words list (only 脱稿 had been listed). Checked the one other ㄉ⺢ㄊ-reading character, 奪 — its own `stand_in` is [[奪取]], so no homophone. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脱稿.
+
+### 2026-09-05, iteration 3031 — [[words/脱稿|脱稿]]
+
+No cranberry (脱's own stand-in is [[脱]] itself, 稿's own is [[稿]] itself) — neither constituent legitimized by this word. Pronunciation fields (dwadgau/돧갓/ㄉ⺢ㄊㄍㄚㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脳.
+
+### 2026-09-05, iteration 3032 — [[words/脳|脳]]
+
+Single-character stand-in word. Pronunciation fields (nau/낫/ㄋㄚㄨ) already matched the character's own values — no bug. **Found and fixed two real bugs**: `korean` and `vietnamese` both held the literal string `"null"` — fixed to 뇌 and não. Added missing pos/japanese (なずき). Found a genuine homophone with [[悩]] ("angered, mad," already perfected but missing its callout) — added reciprocal callouts to both. No homophones beyond that. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脹脛.
