@@ -6711,3 +6711,27 @@ Next: 統一.
 No cranberry (統's own stand-in is [[統率]], 一's is [[一]] itself). **Found and fixed two real bugs**: `羅馬字` had tong'it (t-final), mismatching 一's own d-final 'id (confirmed via `syllables/ㄧㄊ.md`) — corrected to tong'id (諺文/注音 were already correct, including the established mid-dot separator convention before a vowel/glide-initial syllable). `kwin` was true, but the AND-rule requires false (一 is individually `kwin: false`) — corrected. Removed the redundant duplicate `品詞` field. No homophones. Stamped `date-last-perfect: 2026-09-05`. **In passing**, fixed the single directly-relevant citation line on `characters/一 (char).md` (a bare `[[統一]]` with no ruby at all) but otherwise left that page alone — it's in far worse shape than a quick touch-up can fix (mixed `*`/`-` bullets, most `rt` tags showing *real Korean hangul readings* of each compound instead of Dan'a'yo's own 注音, non-standard heading levels/names) and is flagged below as a major known gap requiring a dedicated future pass, not incidental cleanup.
 
 Next: 統治.
+
+### 2026-09-05, iteration 2893 — [[words/統治|統治]]
+
+No cranberry (治's own stand-in is this exact compound, but 統's own is [[統率]]) — transitivity fails, though 治 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (tongci/통치/ㄊㄛㄫㄑㄧ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (thống trị, compositional). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 統率.
+
+### 2026-09-05, iteration 2894 — [[words/統率|統率]]
+
+No cranberry (統's own stand-in is this exact compound, but 率's own is [[比率]]) — transitivity fails, though 統 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (tongsud/통숟/ㄊㄛㄫㄙㄨㄊ) double-checked against `characters/率.md`, which explicitly documents this as a deliberate alternate reading (ㄙㄨㄊ, shared with [[率性]]) distinct from 率's bare-citation ㄌㄨㄊ — confirmed intentional, not a bug. Fixed a missing space in `cantonese` (tung2seot1 → tung2 seot1). Filled blank vietnamese (thống suất, standard attested term). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 統計.
+
+### 2026-09-05, iteration 2895 — [[words/統計|統計]]
+
+No cranberry (統's own stand-in is [[統率]], 計's is [[計画]]). Pronunciation fields (tonggei/통게/ㄊㄛㄫㄍㄝㄧ) already verified as the correct concatenation — no bug. Fixed a missing space in `cantonese` (tung2gai3 → tung2 gai3). Removed blank hsk_level/swadesh. Converted a loose disambiguating sentence into proper `## Notes` prose (avoided creating a dangling wikilink to the not-yet-existing 統計学 — left as plain text). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 絵画.
+
+### 2026-09-05, iteration 2896 — [[words/絵画|絵画]]
+
+**Genuine `#cranberry` case**: both 絵's and 画's own `stand_in` point to this exact compound, so transitivity holds (A=B=AB). **Found and fixed a real bug**: `羅馬字` had hwaihwak (k-final), mismatching 画's own g-final hwag (per the established gob/kab-style voicing convention) — corrected to hwaihwag (諺文/注音 were already correct). Fixed a malformed space-separated `aliases` flow-list. Filled blank korean (회화, using 画's alternate 화-reading rather than its char-page default 획 — a genuine compound-specific alternation, analogous to 率/統率) and vietnamese (hội hoạ, the standard real term). Added missing `kwin: false`. **In passing**, fixed the 16th empty-string field bug on `characters/絵.md` (`hsk_level: ""` → "無"). No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 絶.
