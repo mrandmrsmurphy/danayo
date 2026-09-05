@@ -50,4 +50,4 @@ boundedness: 75
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
-- <ruby>[[筐]]<rt>ㄎ⺢ㄫ</rt></ruby> "bamboo basket"
+- <ruby>[[筐]]<rt>ㄎ⺢ㄫ</rt></ruby> "bamboo basket" (stand-in for 筐)

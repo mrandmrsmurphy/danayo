@@ -55,7 +55,7 @@ boundedness: 80
 - don't use 對答
 
 ## Words
-- <ruby>[[答]]<rt>ㄉㄚㄆ</rt></ruby> "answer, reply"
+- <ruby>[[答]]<rt>ㄉㄚㄆ</rt></ruby> "answer, reply" (stand-in for 答)
 - <ruby>[[回答]]<rt>ㄏㄛㄧㄉㄚㄆ</rt></ruby> "respond; reply"
 - <ruby>[[報答]]<rt>ㄅㄚㄨㄉㄚㄆ</rt></ruby> "reward; requite"
 

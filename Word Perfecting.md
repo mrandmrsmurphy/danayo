@@ -6259,3 +6259,27 @@ Next: 等待.
 No cranberry: 待's own stand-in is this exact compound, but 等's own is [[等]] itself; transitivity fails, though 待 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted on the character page). Pronunciation fields (dungdai/둥대/ㄉㄨㄫㄉㄚㄧ) already verified as the correct concatenation — no bug. Double-checked `korean` 등대 (looked suspicious, matching the real word for "lighthouse") — confirmed a genuine coincidental homograph, not a bug; documented in Notes. Corrected `japanese` from まつ (待's bare native verb, not sourced from either constituent's own stored fields — 待's own `japanese_native` is explicitly `ø`) to the compositional on-yomi とうたい. Filled blank vietnamese(đẳng đãi). No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 等級.
+
+### 2026-09-04, iteration 2818 — [[words/等級|等級]]
+
+No cranberry: 級's own stand-in is this exact compound, but 等's own is [[等]] itself; transitivity fails, though 級 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). **Found and fixed a real bug**: `羅馬字` had dunggip instead of the correct dunggib (級's own reading is gib/깁, confirmed against `syllables/ㄍㄧㄆ.md`) — `諺文`/`注音` were already correct, the usual tell. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筋肉.
+
+### 2026-09-04, iteration 2819 — [[words/筋肉|筋肉]]
+
+No cranberry: 筋's own stand-in is this exact compound, but 肉's own is [[肉]] itself; transitivity fails, though 筋 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (ginnug/긴눅/ㄍㄧㄋㄋㄨㄎ) already verified as the correct concatenation — no bug. Quoted `hsk_level`, filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筐.
+
+### 2026-09-04, iteration 2820 — [[words/筐|筐]]
+
+Single-character stand-in word. Homophone callout with [[光]] was already in place (added during 光's own iteration, anticipating this one). Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(かご), filled `vietnamese: null`(khuông), wrote a real Notes section. Fixed a missing "(stand-in for 筐)" annotation on the char page, and removed a redundant duplicate `品詞` on 光's own page while there. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筒.
+
+### 2026-09-04, iteration 2821 — [[words/筒|筒]]
+
+Single-character stand-in word. Both [[銅]] and [[動]] already documented a three-way homophone group anticipating this word's own turn. Pronunciation fields already correct. Added missing `japanese`(つつ), wrote a real Notes section. In passing, cleaned up `words/銅.md` (redundant duplicate `品詞`, trailing space in vietnamese, one-line "1. copper" Notes replaced with a real section). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 答.
