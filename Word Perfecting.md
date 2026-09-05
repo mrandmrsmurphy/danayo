@@ -6103,3 +6103,27 @@ Next: 突厥.
 No cranberry: 厥's own stand-in is this exact compound, but 突's own is [[突然]]; transitivity fails, though 厥 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (todkud/톧쿧/ㄊㄛㄊㄎㄨㄊ) already verified as the correct concatenation — no bug. Fixed `pos` (名詞→固有名詞, "Turks" is a proper ethnonym), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. **Also fixed a missing "(stand-in for 厥)" annotation** on `characters/厥.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 窃盗.
+
+### 2026-09-04, iteration 2792 — [[words/窃盗|窃盗]]
+
+No cranberry: 盗's own stand-in is this exact compound, but 窃's own is [[窃取]]; transitivity fails, though 盗 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (ceddau/첟닷/ㄑㄝㄊㄉㄚㄨ) already verified as the correct concatenation — no bug. Quoted pronunciation fields, filled blank vietnamese(thiết đạo). **In passing**, fixed a duplicated `## Chengyu` section on `characters/盗.md`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窒息.
+
+### 2026-09-04, iteration 2793 — [[words/窒息|窒息]]
+
+No cranberry: 窒's own stand-in is this exact compound, but 息's own is [[気息]]; transitivity fails, though 窒 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (dedsig/덛식/ㄉㄝㄊㄙㄧㄎ) already verified as the correct concatenation — no bug. Fixed cantonese missing space, quoted pronunciation fields, filled blank vietnamese(trất tức). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窓口.
+
+### 2026-09-04, iteration 2794 — [[words/窓口|窓口]]
+
+No cranberry: 窓's own stand-in is this exact compound, but 口's own is [[口]] itself; transitivity fails, though 窓 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (cwangkou/촹콧/ㄑ⺢ㄫㄎㄛㄨ) already verified as the correct concatenation — no bug. **Fixed a real formatting bug on both sides of an existing homophone pair**: both this page and [[瘡口]] (already stamped) had documented their shared reading only as prose ("Homophone of...") rather than the required `>[!warning] Homophones` callout — converted both to proper callouts. Split comma-joined `korean` (was mixing this word's own compositional 창구 with the unrelated, more-common real word 창문, built from a different second character 門 — moved that to Notes prose instead). Added missing `(char)` suffix on `characters`. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窟.
+
+### 2026-09-04, iteration 2795 — [[words/窟|窟]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(あな), filled `vietnamese: null`(quật), wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窪地.
