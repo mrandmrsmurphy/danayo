@@ -689,3 +689,27 @@ Next: 腕.
 Single-character stand-in word. Pronunciation fields ('wan/완/⺢ㄋ) already matched the character's own values — no bug. Added missing pos/japanese (うで, native kun-reading), filled `vietnamese: null`→oản. Re-verified the existing homophone with [[碗]] (already fully cross-linked). Checked the three other ⺢ㄋ-reading characters (玩, 翫, 頑) — none has a self-pointing `stand_in`, confirming no third homophone. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 腫脹.
+
+### 2026-09-05, iteration 3037 — [[words/腫脹|腫脹]]
+
+No cranberry (脹's own stand-in is this exact compound, but 腫's own is [[腫瘍]]) — transitivity fails, though 脹 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jongcang/종창/ㄐㄛㄫㄑㄚㄫ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `kwin` was false, but the AND-rule requires true (both constituents individually true). Fixed cantonese's stray space. Fixed a missing citation on `characters/腫.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腰部.
+
+### 2026-09-05, iteration 3038 — [[words/腰部|腰部]]
+
+No cranberry (腰's own stand-in is this exact compound, but 部's own is [[部]] itself) — transitivity fails, though 腰 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('youbou/욧봇/⼄ㄨㄅㄛㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese (yêu bộ, using 腰's alternate reading). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腰骨.
+
+### 2026-09-05, iteration 3039 — [[words/腰骨|腰骨]]
+
+No cranberry (腰's own stand-in is [[腰部]], 骨's own is [[骨]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `mandarin`/`cantonese`/`korean`/`vietnamese` had all been contaminated with the alias 髋骨's own readings (kuāngǔ/fun1 gwat1/관골; 볼기뼈/Xương chậu) instead of the compositional yāogǔ/jiu1gwat1/요골/yêu cốt — same class as [[脹脛]]'s earlier mandarin fix, but affecting all four fields here. Noted korean 요골 is a coincidental false friend (real word for "radius," unrelated). Japanese こしぼね was already correct. Pronunciation fields ('yougod/욧곧/⼄ㄨㄍㄛㄊ) already verified as the correct concatenation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腹.
+
+### 2026-09-05, iteration 3040 — [[words/腹|腹]]
+
+Single-character stand-in word — closes the previously-flagged known gap. Pronunciation fields (fug/뿍/ㄈㄨㄎ) already matched the character's own values — no bug. Added missing pos/japanese (はら, native kun-reading), filled `vietnamese: null`→phúc. Re-verified the existing 3-way homophone group with [[福]]/[[副]] (already fully cross-linked). Checked the three other ㄈㄨㄎ-reading characters (幅, 蝠, 覆) — none has a self-pointing `stand_in`, confirming no fourth homophone. Fixed a missing "(stand-in for 腹)" annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 腹部.

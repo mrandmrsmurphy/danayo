@@ -53,5 +53,5 @@ boundedness: 80
 - [Grade 5](lookup/Grade%205.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby> "stomach, belly, abdomen"
+- <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby> "stomach, belly, abdomen" (stand-in for 腹)
 - <ruby>[[腹部]]<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby> "abdomen"
