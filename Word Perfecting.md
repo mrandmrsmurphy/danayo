@@ -101,3 +101,27 @@ Next: 羅馬字.
 No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (lomaji/로마지/ㄌㄛㄇㄚㄐㄧ) already verified as the correct three-way concatenation — no bug. Filled blank vietnamese (la mã tự, compositional). **In passing**, fixed `characters/字 (char).md`'s own citation of this word (non-standard `[text](path)` link format with a lowercase, singular gloss → proper ruby wikilink with the standard plural gloss). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 羅馬語.
+
+### 2026-09-05, iteration 2939 — [[words/羅馬語|羅馬語]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (loma'yo/로마요/ㄌㄛㄇㄚ·⼄) already verified as the correct three-way concatenation — no bug. Double-checked mandarin/cantonese/korean/japanese: all reflect the real, attested name for "Latin" in each language (拉丁語/lādīngyǔ etc., already correctly documented via the `aliases` field) rather than a compositional reading of the Dan'a'yo-internal coinage 羅馬語 itself — confirmed intentional, not a bug, matching the periodic-table-neologism pattern. Removed the redundant duplicate `品詞` field and a leading-space formatting bug on `japanese`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 羊毛.
+
+### 2026-09-05, iteration 2940 — [[words/羊毛|羊毛]]
+
+No cranberry (羊's own stand-in is [[綿羊]], 毛's is [[毛]] itself). Pronunciation fields ('yangmau/양맛/⼘ㄫㄇㄚㄨ) already verified as the correct concatenation — no bug. Filled blank vietnamese (dương mao, compositional). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 羊頭.
+
+### 2026-09-05, iteration 2941 — [[words/羊頭|羊頭]]
+
+No cranberry (羊's own stand-in is [[綿羊]], 頭's is [[頭]] itself). Pronunciation fields ('yangtou/양톳/⼘ㄫㄊㄛㄨ) already verified as the correct concatenation — no bug. Filled blank vietnamese (dương đầu, compositional). **In passing**, added a missing citation of 羊頭 to `characters/羊.md`'s own Words list (it had only been cited inside the chengyu section, not as its own regular word entry — `characters/頭 (char).md` already had it correctly). No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 羊駝.
+
+### 2026-09-05, iteration 2942 — [[words/羊駝|羊駝]]
+
+No cranberry (羊's own stand-in is [[綿羊]], 駝's is [[駝背]]). Pronunciation fields ('yangda/양다/⼘ㄫㄉㄚ) already verified as the correct concatenation — no bug. Double-checked korean/japanese/vietnamese: all directly transliterate "alpaca" (a New World species with no traditional term in those languages), confirmed genuine, not a bug. Removed redundant duplicate `品詞` field. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 美.
