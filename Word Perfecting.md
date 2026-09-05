@@ -407,3 +407,27 @@ Next: 肉湯.
 No cranberry (both 肉's and 湯's own `stand_in` point to themselves). Pronunciation fields (nugtang/눅탕/ㄋㄨㄎㄊㄚㄫ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 국물, the everyday native word for "broth" rather than 肉湯's own compositional reading — corrected to 육탕. Filled blank japanese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 肋骨.
+
+### 2026-09-05, iteration 2990 — [[words/肋骨|肋骨]]
+
+No cranberry (肋's own stand-in is this exact compound, but 骨's own is [[骨]] itself) — transitivity fails, though 肋 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `羅馬字` had luggod (mismatching 肋's real -ǝ- vowel, lǝg — 諺文/注音 had already been correct, an unusual single-field-only instance of this bug); `kwin` was true, but the AND-rule requires false. Filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肌理.
+
+### 2026-09-05, iteration 2991 — [[words/肌理|肌理]]
+
+No cranberry (肌's own stand-in is [[肌膚]], 理's is [[理由]]). Pronunciation fields (giǝli/긔리/ㄍㄧㄜㄌㄧ) already verified as the correct concatenation — no bug. Fixed a comma-joined `japanese` string (きめ, きり — both genuine readings) into a proper list. Filled blank korean (기리, compositional and attested) and vietnamese (cơ lý), added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肌膚.
+
+### 2026-09-05, iteration 2992 — [[words/肌膚|肌膚]]
+
+No cranberry (肌's own stand-in is this exact compound, but 膚's own is [[皮膚]]) — transitivity fails, though 肌 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had giǝpu/긔푸 (p-initial), mismatching 膚's real f-initial reading (fǝ/쁘) — `注音` (ㄍㄧㄜㄈㄜ) had stayed correct throughout, matching the ㄈ→ㅃ p/f-confusion class seen repeatedly this session. Filled blank korean/vietnamese, added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肖像.
+
+### 2026-09-05, iteration 2993 — [[words/肖像|肖像]]
+
+No cranberry (肖's own stand-in is this exact compound, but 像's own is [[彫像]]) — transitivity fails, though 肖 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (syousyang/숏샹/ㄙ⼄ㄨㄙ⼘ㄫ) already verified as the correct concatenation — no bug. Fixed a blank `pos:` field (→ 名詞). Filled blank vietnamese (tiếu tượng, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肘.
