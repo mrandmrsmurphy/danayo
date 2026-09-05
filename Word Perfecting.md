@@ -791,3 +791,57 @@ Next: 自得.
 No cranberry (自's own stand-in is [[自身]], 得's own is [[獲得]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had jiǝdug (d-initial, wrong vowel), mismatching 得's real t-initial reading (tǝg) — corrected to jiǝtǝg; `諺文`/`注音` had already stayed correct. Added missing `kwin: false` (AND-rule). Filled blank korean and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 自我.
+
+### 2026-09-05, iteration 3054 — [[words/自我|自我]]
+
+No cranberry (自's own stand-in is [[自身]], 我's own is [[我]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝ'a/즤아/ㄐㄧㄜ·ㄚ) already verified as the correct concatenation, including the null-onset syllable break — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. Kept the existing thoughtful Definition/Function/Usage-Principle prose. Fixed a self-citation entirely missing from `characters/我 (char).md`'s own Words list, plus its missing 自我 citation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自然.
+
+### 2026-09-05, iteration 3055 — [[words/自然|自然]]
+
+No cranberry (自's own stand-in is [[自身]], 然's own is [[然]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝnyen/즤년/ㄐㄧㄜㄋ⼶ㄋ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space. Verified japanese しぜん uses 自's genuine alternate on'yomi シ (not ジ) — not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自由.
+
+### 2026-09-05, iteration 3056 — [[words/自由|自由]]
+
+No cranberry (自's own stand-in is [[自身]], 由's own is [[由]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `japanese` had じいう (vowel-insertion error) instead of the correct じゆう. Pronunciation fields (jiǝ'yuo/즤윳/ㄐㄧㄜ⼜ㄛ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自禁.
+
+### 2026-09-05, iteration 3057 — [[words/自禁|自禁]]
+
+No cranberry (自's own stand-in is [[自身]], 禁's own is [[禁止]]) — neither constituent legitimized by this word. Pronunciation fields (jiǝgim/즤김/ㄐㄧㄜㄍㄧㄇ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Translated a stray Chinese-language editorial note ("古代. 使用『自制』請.") into proper English Notes prose (archaic, prefer [[自制]]). Filled blank japanese/vietnamese, fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自立.
+
+### 2026-09-05, iteration 3058 — [[words/自立|自立]]
+
+No cranberry (自's own stand-in is [[自身]], 立's own is [[立]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝlib/즤립/ㄐㄧㄜㄌㄧㄆ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space. Fixed a self-citation entirely missing from `characters/立 (char).md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自給.
+
+### 2026-09-05, iteration 3059 — [[words/自給|自給]]
+
+No cranberry (自's own stand-in is [[自身]], 給's own is [[補給]]) — neither constituent legitimized by this word. Pronunciation fields (jiǝgib/즤깁/ㄐㄧㄜㄍㄧㄆ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Verified mandarin zìjǐ uses 給's genuine literary jǐ reading (as in 供給) — not contamination from the coincidentally-homophonous 自己. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自足.
+
+### 2026-09-05, iteration 3060 — [[words/自足|自足]]
+
+No cranberry (自's own stand-in is [[自身]], 足's own is [[足]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝjog/즤족/ㄐㄧㄜㄐㄛㄎ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese (tự túc, matching the real idiom). Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自身.
+
+### 2026-09-05, iteration 3061 — [[words/自身|自身]]
+
+No cranberry (自's own stand-in is this exact compound, but 身's own is [[身体]]) — transitivity fails, though 自 is legitimized as an independent Dan'a'yo entry by this word (already documented in the existing Notes). Pronunciation fields (jiǝsin/즤신/ㄐㄧㄜㄙㄧㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `vietnamese` had mình, a native colloquial pronoun not decomposable from either constituent's own stored reading — corrected to tự thân, matching this word's specific ontic/intrinsic register. Added missing `kwin: false`, quoted pronunciation fields, kept the existing thoughtful Definition/Function/Usage-Principle prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自転車.
+
+### 2026-09-05, iteration 3062 — [[words/自転車|自転車]]
+
+No cranberry (none of the three constituents' own stand-ins point here). **Found and fixed a real bug**: `羅馬字` missing 車's own -w- glide (jiǝjwenca→jiǝjwencwa), same single-field-only class as [[自動車]]'s earlier fix — `諺文`/`注音` had already stayed correct. Filled blank cantonese. Verified korean 자전거 (alternate 거 reading of 車, specific to this compound) and vietnamese xe đạp (a genuine native term) as real, not bugs. Fixed a missing "(stand-in for 転)" annotation and a completely missing 自転車 citation on `characters/転.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 至日.

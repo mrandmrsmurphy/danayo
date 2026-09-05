@@ -49,6 +49,7 @@ boundedness: 90
 - 92nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄌㄧㄆ](../syllables/ㄌㄧㄆ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby> "stand" (stand-in for 立)
 - <ruby>[[独立]]<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby> "independence, independent"
 - <ruby>[[立憲]]<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby> "constitutional governance; constitutionalism"
 - <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"

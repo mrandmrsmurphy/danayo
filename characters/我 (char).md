@@ -54,7 +54,9 @@ boundedness: 65
 ```
 
 ## Words
+- <ruby>[[我]]<rt>ㄚ</rt></ruby> "I, me" (stand-in for 我)
 - <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
+- <ruby>[[自我]]<rt>ㄐㄧㄜ·ㄚ</rt></ruby> "self-conscious, self-aware"
 
 # Notes
 - Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.  Pronounced [[ㄚ]].
