@@ -47,7 +47,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 納.
 >For the word, see [納](words/納.md)
@@ -63,6 +63,6 @@ date-last-perfect: 2026-08-07
 - [Grade 5](lookup/Grade%205.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[納]]<rt>ㄋㄚㄆ</rt></ruby> "receive, accept" (stand-in for 納 (char))
+- <ruby>[[納]]<rt>ㄋㄚㄆ</rt></ruby> "receive, accept" (stand-in for 納)
 - <ruby>[[帰納]]<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby> "induction (logic)"
 - <ruby>[[田納素]]<rt>ㄉㄝㄋㄋㄚㄆㄙㄛ</rt></ruby> "tennessine"

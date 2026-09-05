@@ -6517,3 +6517,33 @@ Next: 紋.
 Single-character stand-in word (old bare-string `characters` format), fully rewritten into the current template. Pronunciation fields (mun/문/ㄇㄨㄋ) already matched the character's own values — no bug. Added missing `pos`/`kwin`/`japanese` (モン, on-reading, since no native kun-reading is stored). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 納.
+
+### 2026-09-05, iteration 2861 — [[words/納|納]]
+
+Single-character stand-in word (bare unquoted-string `characters` format), fully rewritten into the current template. Pronunciation fields (nab/납/ㄋㄚㄆ) already matched the character's own values — no bug. Added missing `pos`/`kwin`/`japanese` (ノウ, on-reading), filled blank vietnamese (nạp, the standard Sino-Vietnamese reading, one of a dozen stored candidates). **In passing**, fixed a malformed stand-in annotation on `characters/納 (char).md`'s own Words list — "(stand-in for 納 (char))" wrongly included the disambiguator suffix, corrected to "(stand-in for 納)". No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 純粋.
+
+### 2026-09-05, iteration 2862 — [[words/純粋|純粋]]
+
+**Genuine `#cranberry` case**: both 純's and 粋's own `stand_in` point to this exact compound, so transitivity holds (A=B=AB). Pronunciation fields (junsui/준쉬/ㄐㄨㄋㄙㄨㄧ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (thuần túy, standard attested word); noticed `characters/粋.md`'s own `vietnamese` field was entirely empty despite a real, well-established reading (túy) existing — added it there too. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紙鳶.
+
+### 2026-09-05, iteration 2863 — [[words/紙鳶|紙鳶]]
+
+No cranberry (neither 紙's nor 鳶's own `stand_in` points here — both are stand-ins for themselves). Pronunciation fields (je'yen/저연/ㄐㄝ⼶ㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `mandarin` had fēngzheng, the reading of the different-character colloquial synonym 風箏 (already correctly stored as an alias) rather than 紙鳶's own compositional zhǐyuān. `japanese` たこ was double-checked and confirmed (via web search) to be a directly attested jukujikun reading of 紙鳶 itself, not a borrowed-word bug — left unchanged. Corrected `korean` from the bare native word 연 to the compositional Sino-Korean 지연. Filled blank cantonese (compositional). **In passing**, added a missing "(stand-in for 鳶)" annotation on `characters/鳶 (char).md`'s own citation. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紛.
+
+### 2026-09-05, iteration 2864 — [[words/紛|紛]]
+
+Single-character stand-in word. **Found and fixed a major bug**: the stored pronunciation fields (pun/푼/ㄆㄨㄋ) were entirely copy-pasted from the unrelated character 盆 ("basin") rather than 紛's own real reading (fǝn/쁜/ㄈㄜㄋ, confirmed against `characters/紛 (char).md`) — same failure mode as the earlier 弧/糊 confusion. This also meant the pre-existing reciprocal Homophones callout with [[盆]] (itself already perfected on 2026-09-04) was spurious; removed from both pages with an explanatory note on each. Added missing pos/kwin/japanese, filled `vietnamese: null` → phân. No genuine homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紛争.
+
+### 2026-09-05, iteration 2865 — [[words/紛争|紛争]]
+
+No cranberry (紛's own stand-in is [[紛]] itself, 争's is [[抗争]]). **Found and fixed a real bug**: this compound had inherited the same 紛/盆 copy-paste contamination fixed last iteration — `羅馬字`/`諺文` were punjang/푼장 (from 盆's pun) instead of the correct fǝnjang/쁜장, while `注音` (ㄈㄜㄋㄐㄚㄫ) had stayed correct throughout, the usual tell for this bug class. Corrected to the true concatenation. All other-language fields (mandarin fēnzhēng, cantonese fan1 zang1, japanese ふんそう, korean 분쟁) confirmed standard and genuinely attested. Filled blank vietnamese (phân tranh, standard attested compound). Removed blank hsk_level/swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 素描.

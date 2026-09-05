@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 鳶.
 >For the word, see [鳶](words/鳶.md)
@@ -50,5 +50,5 @@ date-last-perfect: 2026-08-18
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
-- <ruby>[[鳶]]<rt>⼶ㄋ</rt></ruby> "kite (bird)"
+- <ruby>[[鳶]]<rt>⼶ㄋ</rt></ruby> "kite (bird)" (stand-in for 鳶)
 - <ruby>[[紙鳶]]<rt>ㄐㄝ⼶ㄋ</rt></ruby> "paper kite"
