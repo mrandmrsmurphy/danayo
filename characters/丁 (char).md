@@ -7,7 +7,10 @@ japanese:
   - TEI
   - CHOU
   - TOU
-japanese_native: [ひのと, あたる, よぼろ]
+japanese_native:
+  - ひのと
+  - あたる
+  - よぼろ
 vietnamese:
   - đinh
 middle_chinese_initial: t
@@ -31,7 +34,7 @@ stand_in: 丁
 aliases:
   - 𠆤
 注音: ㄉㄝㄫ
-date-last-perfect: 2026-05-25
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character

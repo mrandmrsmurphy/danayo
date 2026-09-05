@@ -6547,3 +6547,51 @@ Next: 紛争.
 No cranberry (紛's own stand-in is [[紛]] itself, 争's is [[抗争]]). **Found and fixed a real bug**: this compound had inherited the same 紛/盆 copy-paste contamination fixed last iteration — `羅馬字`/`諺文` were punjang/푼장 (from 盆's pun) instead of the correct fǝnjang/쁜장, while `注音` (ㄈㄜㄋㄐㄚㄫ) had stayed correct throughout, the usual tell for this bug class. Corrected to the true concatenation. All other-language fields (mandarin fēnzhēng, cantonese fan1 zang1, japanese ふんそう, korean 분쟁) confirmed standard and genuinely attested. Filled blank vietnamese (phân tranh, standard attested compound). Removed blank hsk_level/swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 素描.
+
+### 2026-09-05, iteration 2866 — [[words/素描|素描]]
+
+No cranberry (描's own stand-in is this exact compound, but 素's own is [[要素]]) — transitivity fails, though 描 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (somyau/소먓/ㄙㄛㄇ⼘ㄨ) already verified as the correct concatenation — no bug. Fixed a blank `pos:` field (→ 名詞). Filled blank vietnamese (tố miêu, compositional; noted the more common idiomatic term is phác họa). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 素数.
+
+### 2026-09-05, iteration 2867 — [[words/素数|素数]]
+
+No cranberry (素's own stand-in is [[要素]], 数's is [[計数]]) — neither constituent legitimized by this word. Pronunciation fields (sosu/소수/ㄙㄛㄙㄨ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `cantonese` had "sou3sou3" (素's own reading duplicated, missing a space) instead of the correct sou3 sou2 (数's own stored cantonese is sou2, not sou3 — confirmed via web search that 素數 is genuinely read sou3 sou2 in Cantonese). Fixed a blank `pos:` field (→ 名詞). Vietnamese số nguyên tố confirmed as the standard real term, reordered relative to the Chinese characters. Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紡.
+
+### 2026-09-05, iteration 2868 — [[words/紡|紡]]
+
+Single-character stand-in word (bare unquoted-string `characters` format), fully rewritten into the current template. Pronunciation fields (fang/빵/ㄈㄚㄫ) already matched the character's own values — no bug. Added missing `pos`/`kwin`/`japanese` (native つむ), filled blank vietnamese (phưởng). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紡錘.
+
+### 2026-09-05, iteration 2869 — [[words/紡錘|紡錘]]
+
+No cranberry (錘's own stand-in is this exact compound, but 紡's own is [[紡]] itself) — transitivity fails, though 錘 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had pangcui/팡취 (a p-initial), matching the same f/p confusion pattern as the earlier vault-wide 福-family bug, while this word's own `注音` (ㄈㄚㄫㄑㄨㄧ) had stayed correct — corrected to fangcui/빵취. The same p/f error was independently duplicated on `characters/錘.md`'s own citation ruby (ㄆㄚㄫㄑㄨㄧ), fixed there too. Added missing `kwin: false` per the AND-rule. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紫丁香.
+
+### 2026-09-05, iteration 2870 — [[words/紫丁香|紫丁香]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (jedenghyang/저덩향/ㄐㄝㄉㄝㄫㄏ⼘ㄫ) already verified as the correct three-way concatenation — no bug. **Found and fixed a real bug**: `mandarin` had an extraneous huā suffix (zǐdīngxiānghuā) — confirmed via web search that the plant's standard Mandarin name is exactly zǐdīngxiāng (3 syllables, no 花), corrected. Double-checked `japanese` むらさきはしどい: confirmed via web search as the genuinely standard Japanese name, attested for the fuller written form 紫丁香花 — left unchanged, not a bug (the Mandarin and Japanese cases look identical on the surface but resolved oppositely). Filled blank cantonese/vietnamese (tử đinh hương, standard compositional term). **In passing**, fixed a flow-list YAML formatting inconsistency on `characters/丁 (char).md`'s `japanese_native` field. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紫禁城.
+
+### 2026-09-05, iteration 2871 — [[words/紫禁城|紫禁城]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (jegimsing/저김싱/ㄐㄝㄍㄧㄇㄙㄧㄫ) already verified as the correct three-way concatenation — no bug. All other-language fields confirmed standard and genuinely attested (proper-noun capitalization convention matches sibling place-name words like 香港/北京). Added missing `kwin: false` per the AND-rule, quoted cantonese/korean per convention. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紫素.
+
+### 2026-09-05, iteration 2872 — [[words/紫素|紫素]]
+
+Periodic-table neologism (indium), rebuilt to match the established template from sibling elements like [[石素]] (lithium). No cranberry (素's own stand-in is [[要素]]) — legitimate Dan'a'yo-internal coinage, not a cranberry candidate. Pronunciation fields (jeso/저소/ㄐㄝㄙㄛ) already verified as the correct concatenation — no bug. Mandarin yīn/cantonese jan1 (the real element's own readings) and korean/japanese/vietnamese international borrowings all confirmed as the expected pattern for chemical-element neologisms, not bugs. Removed the redundant duplicate `品詞` field and replaced a sprawling, essay-style Notes section (headers, external links, unrelated tangents about an "abbreviated formula system") with the vault's standard concise neologism-Notes format. Added real-element aliases (銦, 铟). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紳士.
+
+### 2026-09-05, iteration 2873 — [[words/紳士|紳士]]
+
+No cranberry (紳's own stand-in is this exact compound, but 士's own is [[士]] itself) — transitivity fails, though 紳 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (sinsai/신새/ㄙㄧㄋㄙㄚㄧ) already verified as the correct concatenation — no bug. Cantonese san1 si6-2 confirmed as legitimate real tone-change reading, not a typo. Fixed a blank `pos:` field (→ 名詞). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`. Noted but left alone: `characters/紳.md`'s `korean_native: ""` — an empty string, but matching a widespread (48-instance) vault convention for characters with no simple native Korean gloss, out of scope for this sweep.
+
+Next: 紺.
