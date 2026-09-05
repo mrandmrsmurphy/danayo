@@ -49,7 +49,7 @@ boundedness: 100
 - Dropped from the Korean HS list in 2000.
 
 ## Words
-- <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby> "acidic; sour"
+- <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby> "acidic; sour" (stand-in for 酸)
 - <ruby>[[胃酸]]<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby> "stomach acid; gastric acid"
 
 ## Derived Characters

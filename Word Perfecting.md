@@ -6283,3 +6283,33 @@ Next: 筒.
 Single-character stand-in word. Both [[銅]] and [[動]] already documented a three-way homophone group anticipating this word's own turn. Pronunciation fields already correct. Added missing `japanese`(つつ), wrote a real Notes section. In passing, cleaned up `words/銅.md` (redundant duplicate `品詞`, trailing space in vietnamese, one-line "1. copper" Notes replaced with a real section). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 答.
+
+### 2026-09-04, iteration 2822 — [[words/答|答]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(こたえる), filled `vietnamese: null`(đáp). Fixed a missing "(stand-in for 答)" annotation on the char page. Incorporated a stray "don't use 對答" fragment note into proper Notes prose, clarifying 對答 names a distinct, more formal exchange rather than a synonym. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 算.
+
+### 2026-09-04, iteration 2823 — [[words/算|算]]
+
+Single-character stand-in word. **Found a genuine homophone**: [[酸]] ("acidic, sour") shares this exact reading — since 酸 was also otherwise entirely unperfected, gave it a full pass too. Added reciprocal callouts to both, added missing pos/kwin/japanese/vietnamese to both, wrote real Notes sections, and fixed missing "(stand-in for X)" annotations on both `characters/算 (char).md` and `characters/酸 (char).md`. Stamped both `date-last-perfect: 2026-09-04`.
+
+Next: 算術.
+
+### 2026-09-04, iteration 2824 — [[words/算術|算術]]
+
+No cranberry (both 算's and 術's own stand-ins point to themselves) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had dasud, missing 算's own reading entirely (`諺文`/`注音` were already correct 솬숟/ㄙ⺢ㄋㄙㄨㄊ) — corrected to swansud. Filled blank vietnamese(toán thuật). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 箱.
+
+### 2026-09-04, iteration 2825 — [[words/箱|箱]]
+
+Single-character stand-in word. **Found a genuine homophone**: [[甥]] ("sororal niece/nephew," already thoroughly perfected) shares this exact reading — added reciprocal callouts to both, and removed a redundant duplicate `品詞` on 甥's page while there. Added missing `pos`/`kwin`/`japanese`, filled `vietnamese: null`(rương). No homophones beyond the documented pair. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 箸.
+
+### 2026-09-04, iteration 2826 — [[words/箸|箸]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(はし), filled `vietnamese: null`(đũa, itself the everyday Vietnamese word for chopsticks). No word-level homophones (only character-page duplicates of the syllable). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 節.
