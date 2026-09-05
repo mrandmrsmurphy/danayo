@@ -6463,3 +6463,33 @@ Next: 糟糠.
 No cranberry (糟's own stand-in is this exact compound, but 糠's own is [[比糠]]) — transitivity fails, though 糟 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jaukang/잣캉/ㄐㄚㄨㄎㄚㄫ) already verified as the correct concatenation — no bug. Filled blank vietnamese (tao khang, itself the standard Sino-Vietnamese compound attested in 糟糠之妻/tao khang chi thê). Removed blank hsk_level/swadesh. **In passing**, found and fixed a real copy-paste bug on `characters/糟.md`: its `vietnamese` field wrongly duplicated 糠's own value ("khang") instead of 糟's real Sino-Vietnamese reading ("tao") — same failure mode as the earlier 弧/糊 confusion, caught by the same "tao khang" compound-word cross-check. Also gave `characters/糟.md` a full formatting pass while there (heading level `#`→`##`, rewrote a stale non-standard Notes block into current convention with OC reconstruction/CC lookup/missing `## Words` section) and fixed the 14th empty-string field bug on `characters/糠.md` (`pos: ""` → `名詞`). No homophones. Stamped `date-last-perfect: 2026-09-05` on all three files.
 
 Next: 糸線.
+
+### 2026-09-05, iteration 2852 — [[words/糸線|糸線]]
+
+No cranberry (糸's own stand-in is this exact compound, but 線's own is [[直線]]) — transitivity fails, though 糸 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (sasyen/사션/ㄙㄚㄙ⼶ㄋ) already verified as the correct concatenation — no bug. **Found and fixed two real bugs**: `japanese` had きぬじ, a real reading of the unrelated word 絹糸 ("silk thread," kenshi/kinuito, confirmed via web search) rather than a reading of 糸線 itself — corrected to compositional シセン; `korean` had 비단, a real unrelated Korean word meaning "silk (fabric)" — corrected to compositional 사선. Filled blank vietnamese (tơ tuyến, compositional). Fixed bare-array `characters:`/`aliases:` YAML formatting. Added the missing "(stand-in for 糸)" annotation on `characters/糸.md`'s own Words list. Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 系統.
+
+### 2026-09-05, iteration 2853 — [[words/系統|系統]]
+
+No cranberry (系's own stand-in is this exact compound, but 統's own is [[統率]]) — transitivity fails, though 系 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (heitong/헤통/ㄏㄝㄧㄊㄛㄫ) already verified as the correct concatenation — no bug. All other-language fields (mandarin xìtǒng, cantonese hai6 tung2, japanese けいとう, korean 계통, vietnamese hệ thống) confirmed as standard, fully compositional, and genuinely attested — 系統 is itself a common real word for "system" across all five languages. Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紀元.
+
+### 2026-09-05, iteration 2854 — [[words/紀元|紀元]]
+
+No cranberry (紀's own stand-in is [[世紀]], 元's is [[元素]]) — neither constituent legitimized by this word. Pronunciation fields (gi'wen/기원/ㄍㄧ⼔ㄋ) already verified as the correct concatenation — no bug. Filled blank vietnamese (kỷ nguyên, itself the standard Vietnamese word for "era"). Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紀元前.
+
+### 2026-09-05, iteration 2855 — [[words/紀元前|紀元前]]
+
+No cranberry (紀's own stand-in is [[世紀]], 元's is [[元素]], 前's is [[前]] itself) — none of the three constituents legitimized by this word. Pronunciation fields (gi'wenjen/기원전/ㄍㄧ⼔ㄋㄐㄝㄋ) already verified as the correct three-way concatenation — no bug. Fixed a malformed YAML string (`japanese: きげんぜん"` — stray trailing quote), a spaced-out `mandarin` value ("jì yuán qián" → "jìyuánqián"), added missing cantonese (compositional, and itself a real attested reading), filled blank vietnamese (compositional kỷ nguyên tiền — noted the idiomatic Vietnamese phrase is instead native "trước Công Nguyên"). Standardized the `aliases:` flow-list and added a proper `>[!info] Opposite` callout for [[紀元後]] replacing loose "opposite:" text. No homophones. Stamped `date-last-perfect: 2026-09-05`. **Flagged, not fixed**: `words/紀元後.md` is itself unperfected and has several real issues (empty-string cantonese/vietnamese, redundant duplicate `品詞` field, and a `mandarin: "gōngyuán"` that looks like it was copied from the unrelated word 公元 rather than being 紀元後's own reading) — documented in memory as a known gap for when the sweep reaches it.
+
+Next: 紀元後.
+
+### 2026-09-05, iteration 2856 — [[words/紀元後|紀元後]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (gi'wenhuo/기원훗/ㄍㄧ⼔ㄋㄏㄨㄛ) already verified as the correct three-way concatenation — no bug. `kwin: false` confirmed correct per the AND-rule (後 is individually `kwin: false`) despite looking suspicious at first glance. **Found and fixed two real bugs**: `mandarin` had gōngyuán, copied from the unrelated word 公元 rather than 紀元後's own compositional jìyuánhòu; `japanese` had せいき, a real reading of the unrelated word 世紀 ("century") rather than a reading of 紀元後 itself — corrected to compositional きげんご (confirmed via web search). Added missing cantonese (compositional), filled blank vietnamese (compositional kỷ nguyên hậu, noting the idiomatic native alternative sau Công Nguyên). Removed the redundant duplicate `品詞` field. Replaced loose "opposite:" text with a proper `>[!info] Opposite` callout for [[紀元前]]. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 約束.
