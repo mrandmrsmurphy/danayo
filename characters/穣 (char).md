@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-19
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md#Redirects), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
-- <ruby>[[穣]]<rt>ㄋ⼘ㄫ</rt></ruby> "stalks of grain"
+- <ruby>[[穣]]<rt>ㄋ⼘ㄫ</rt></ruby> "stalks of grain" (stand-in for 穣)

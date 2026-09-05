@@ -47,6 +47,9 @@ boundedness:
 - 616th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](../syllables/ㄋ⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md) — `hsk_level` stored blank, treated as absent per existing vault precedent (e.g. [[徴]])
 
+## Words
+- <ruby>[[譲]]<rt>ㄋ⼘ㄫ</rt></ruby> "permit" (stand-in for 譲)
+
 ## Derived Characters
 - <ruby>[[穣 (char)|穣]]<rt>ㄋ⼘ㄫ</rt></ruby> "stalks of grain"
 - <ruby>[[壌]]<rt>ㄋ⼘ㄫ</rt></ruby> "soil; loam"

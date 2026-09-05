@@ -6025,3 +6025,27 @@ Next: 穂.
 Single-character stand-in word. Pronunciation fields already correct. **Found a genuine homophone**: [[雖]] ("although," already stamped) shares this exact reading — added reciprocal callouts to both; also removed a redundant duplicate `品詞` on 雖's page while there. Fixed body element ordering (meta-bind-embed was after `# Notes`, wrong per checklist), added missing `pos`/`japanese`(ほ). Also fixed `characters/穂 (char).md`, which had no `## Words` section at all — added one with the stand-in citation. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 積極.
+
+### 2026-09-04, iteration 2779 — [[words/積極|積極]]
+
+No cranberry (積's own stand-in is [[蓄積]], 極's is [[極]] itself) — neither constituent legitimized by this word. Pronunciation fields (jeggig/적긱/ㄐㄝㄎㄍㄧㄎ) already verified as the correct concatenation — no bug. **Fixed a real typo**: `japanese` had せききよく instead of せっきょく (sekkyoku). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穣.
+
+### 2026-09-04, iteration 2780 — [[words/穣|穣]]
+
+Single-character stand-in word. **Found and fixed a new bug variant**: both `korean` and `vietnamese` held the literal string `"null"` instead of either a real value or an omitted key — corrected `korean` to 양, filled `vietnamese` with nhương. **Found a genuine homophone**: [[譲]] ("permit") shares this exact reading and had the *identical* `"null"`-string bug — fixed it too (korean→양, vietnamese removed since the character page itself stores none), added reciprocal callouts to both. Also fixed missing "(stand-in for 穣)" annotation on `characters/穣 (char).md`'s existing citation, and added a completely missing `## Words` section (with stand-in citation) to `characters/譲 (char).md`, which had none at all. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穹蒼.
+
+### 2026-09-04, iteration 2781 — [[words/穹蒼|穹蒼]]
+
+No cranberry (穹's own stand-in is [[穹窿]], 蒼's is [[蒼]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had kungcang/쿵창, missing 蒼's own glide (cwang/촹, confirmed against `characters/蒼 (char).md` and `syllables/ㄑ⺢ㄫ.md`) — `注音` ㄎㄨㄫㄑ⺢ㄫ was already correct, the usual tell. This word already had an unusually thorough, encyclopedic body (cosmological/theological survey covering Classical Chinese, biblical, and modern usage) — kept nearly all of it intact, just retitled the first heading to `## Notes` with the required opening bullet, demoted the remaining top-level headings to `###`/`####` to nest properly under it. Converted comma-joined `mandarin`/`cantonese` (both word-order variants) into proper lists, cleaned up a mixed-up `japanese` field (was two differently-ordered historical-kana readings comma-joined; kept just きゅうそう matching this headword's own character order, per the body's own already-correct analysis), trimmed `korean` to just 궁창 (the real biblical term the body documents; dropped an unrelated 천궁), filled blank vietnamese(khung thương, matching the body's own documented Vietnamese Bible usage). Added missing `kwin: false`. **In passing**, fixed the 10th empty-string field bug on `characters/穹.md` (`pos: ""`). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空中.
+
+### 2026-09-04, iteration 2782 — [[words/空中|空中]]
+
+No cranberry (both 空's and 中's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (kongjung/콩중/ㄎㄛㄫㄐㄨㄫ) already verified as the correct concatenation — no bug. Quoted pronunciation fields, filled blank vietnamese(không trung — a real, common Vietnamese word for "in the air/aerial"). Body was already thorough and well-written, just added the cranberry-check line. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空前.
