@@ -31,7 +31,7 @@ graphemic_classification: "會意"
 stand_in: "罪"
 aliases:
 注音: "ㄐㄛㄧ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -51,6 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[罪]]<rt>ㄐㄛㄧ</rt></ruby> "sin, crime" (stand-in for 罪)
 - <ruby>[[原罪]]<rt>⼔ㄋㄐㄛㄧ</rt></ruby> "original sin"
 - <ruby>[[犯罪]]<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby> "crime"
 - <ruby>[[軽罪]]<rt>ㄎㄧㄫㄐㄛㄧ</rt></ruby> "misdemeanor"
