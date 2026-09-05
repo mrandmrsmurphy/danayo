@@ -281,3 +281,27 @@ Next: 考察.
 No cranberry (察's own stand-in is this exact compound, but 考's own is [[考慮]]) — transitivity fails, though 察 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (kaucad/캇찯/ㄎㄚㄨㄑㄚㄊ) already verified as the correct concatenation — no bug. All fields already correctly filled — just cleanup: removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 考慮.
+
+### 2026-09-05, iteration 2969 — [[words/考慮|考慮]]
+
+**Genuine `#cranberry` case**: both 考's and 慮's own `stand_in` point to this exact compound. Pronunciation fields (kaulyo/캇료/ㄎㄚㄨㄌ⼄) already verified as the correct concatenation — no bug. Filled blank vietnamese (khảo lự, compositional). Removed blank hsk_level/swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 考試.
+
+### 2026-09-05, iteration 2970 — [[words/考試|考試]]
+
+No cranberry (試's own stand-in is this exact compound, but 考's own is [[考慮]]) — transitivity fails, though 試 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (kausi/캇시/ㄎㄚㄨㄙㄧ) already verified as the correct concatenation — no bug. All fields already correctly filled — just cleanup: removed blank swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 而後.
+
+### 2026-09-05, iteration 2971 — [[words/而後|而後]]
+
+No cranberry (both 而's and 後's own `stand_in` point to themselves). Pronunciation fields (nihuo/니훗/ㄋㄧㄏㄨㄛ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `japanese`/`korean` had native paraphrases (その後/그 후) rather than 而後's own attested readings — confirmed via web search that 而後 is genuinely read じご (jigo, using 而's on-reading ジ) in Japanese; corrected japanese to じご and korean to the paralleling compositional 이후. Converted a loose "archaic" comment into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 耐.
+
+### 2026-09-05, iteration 2972 — [[words/耐|耐]]
+
+Single-character stand-in word. Pronunciation fields (nai/내/ㄋㄚㄧ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → nại. Completed the genuine Dan'a'yo homophone with [[乃]] (already perfected, had pre-emptively documented and anticipated this exact pairing) — reciprocal callout already in place, cross-referenced here. **In passing**, cleaned up a stray dangling numbered list left over on `words/乃.md`'s own page (duplicating its single `english:` gloss). No other collisions. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 耳根.
