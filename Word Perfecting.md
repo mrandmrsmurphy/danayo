@@ -6830,4 +6830,28 @@ Next: 綿花.
 
 No cranberry (綿's own stand-in is this exact compound, but 花's own is [[草花]]) — transitivity fails, though 綿 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (myenhwa/면화/ㄇ⼶ㄋㄏ⺢) already verified as the correct concatenation — no bug. Fixed `hsk_level: 2` (bare number → quoted string). Filled blank vietnamese (miên hoa, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
-Next: [awk lookup needed].
+Next: 総主教.
+
+### 2026-09-05, iteration 2913 — [[words/総主教|総主教]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (jongjugyou/종주굣/ㄐㄛㄫㄐㄨㄍ⼄ㄨ) already verified as the correct three-way concatenation — no bug. **Found and fixed a real `kwin` bug**: word file had `kwin: true`, but the AND-rule requires false (総 and 教 are each individually `kwin: false`) — corrected. Filled blank vietnamese (tổng chủ giáo, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 緑色.
+
+### 2026-09-05, iteration 2914 — [[words/緑色|緑色]]
+
+No cranberry (緑's own stand-in is [[緑]] itself, 色's is [[色彩]]). Pronunciation fields (logsig/록식/ㄌㄛㄎㄙㄧㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `cantonese` had nu2 se2, a garbled reading matching neither constituent's own jyutping (緑's is luk6, 色's is sik1) — corrected to luk6 sik1. Fixed a duplicate-headword `aliases` entry (緑色 listed as its own alias). Filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 締.
+
+### 2026-09-05, iteration 2915 — [[words/締|締]]
+
+Single-character stand-in word. Pronunciation fields (tei/테/ㄊㄝㄧ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → đế. Completed the genuine 3-way Dan'a'yo homophone group with [[剃]] (already perfected, had pre-emptively documented this exact group awaiting 締/諦) and [[諦]] (still unperfected) — reciprocal callout already in place on both, cross-referenced here. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 編集.
+
+### 2026-09-05, iteration 2916 — [[words/編集|編集]]
+
+No cranberry (編's own stand-in is this exact compound, but 集's own is [[集合]]) — transitivity fails, though 編 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (byenjib/변집/ㄅ⼶ㄋㄐㄧㄆ) already verified as the correct concatenation — no bug. Filled entirely-blank cantonese/korean/vietnamese (compositional, all standard attested terms), added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 緩慢.
