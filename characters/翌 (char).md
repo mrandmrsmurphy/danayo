@@ -22,7 +22,7 @@ english:
 羅馬字: "'ig"
 諺文: 익
 joyo_level: "6"
-hsk_level: 無
+hsk_level: "無"
 hanmun_edu_level: 名
 danayo_id: 7541
 mc_id: 5320
@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 翌.
 >For the word, see [翌](../words/翌.md)
@@ -50,5 +50,5 @@ date-last-perfect: 2026-08-16
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](Lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
-- <ruby>[翌](../words/翌.md)<rt>ㄧㄎ</rt></ruby> "the following"
+- <ruby>[[翌]]<rt>ㄧㄎ</rt></ruby> "the following" (stand-in for 翌)
 - <ruby>[[翌月]]<rt>ㄧㄎ⼔ㄊ</rt></ruby> "the following month"

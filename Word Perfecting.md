@@ -179,3 +179,27 @@ Next: 群島.
 No cranberry (群's own stand-in is [[群衆]], 島's is [[島]] itself). Pronunciation fields (guntau/군탓/ㄍㄨㄋㄊㄚㄨ) already verified as the correct concatenation — no bug. Fixed the `characters:` list citing bare "島" (a redlink, since the actual page is `島 (char).md`) → "島 (char)". Removed blank hsk_level/swadesh, fixed bare-array YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 羨慕.
+
+### 2026-09-05, iteration 2952 — [[words/羨慕|羨慕]]
+
+No cranberry (羨's own stand-in is this exact compound, but 慕's own is [[思慕]]) — transitivity fails, though 羨 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('iǝmo/의모/ㄧㄜㄇㄛ) already verified as the correct concatenation — no bug. All fields already correctly filled — just cleanup: removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 翅鞘.
+
+### 2026-09-05, iteration 2953 — [[words/翅鞘|翅鞘]]
+
+No cranberry (翅's own stand-in is [[魚翅]], 鞘's is [[刀鞘]]). Pronunciation fields (siso/시소/ㄙㄧㄙㄛ) already verified as the correct concatenation — no bug. Filled blank vietnamese (sí sao, compositional). Fixed unquoted mandarin/cantonese/korean strings (quoting convention). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 翌.
+
+### 2026-09-05, iteration 2954 — [[words/翌|翌]]
+
+Single-character stand-in word. Pronunciation fields ('ig/익/ㄧㄎ) already matched the character's own values — no bug. **Found and fixed two real bugs**: `pos` had been set to 格助詞 (a specific closed class of twelve case particles 翌 doesn't belong to) — corrected to 修飾語, matching the character page's own value and 翌's actual role as a temporal modifier; `japanese` had いき, which turned out not to be an attested reading of 翌 at all (confirmed via web search — real readings are ヨク on'yomi and あくる kun'yomi) — corrected to ヨク. Removed the redundant duplicate `品詞` field. **In passing**, fixed `characters/翌 (char).md`'s own citation (non-standard `[text](path)` link format, missing stand-in annotation) and an unquoted `hsk_level: 無`. No homophones (億/憶/抑/翼/臆 share the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 翌世紀.
+
+### 2026-09-05, iteration 2955 — [[words/翌世紀|翌世紀]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields ('igsegi/익서기/ㄧㄎㄙㄝㄍㄧ) already verified as the correct three-way concatenation — no bug. Filled blank vietnamese (dực thế kỷ, compositional). **In passing**, found and fixed two real bugs on `characters/世.md`: a double-space formatting bug in `諺文`, and a real bug where `vietnamese` stored "thế giới" (the full compound meaning "world," i.e. 世界's own value) instead of 世's own atomic reading "thế" — corrected. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 翌年.
