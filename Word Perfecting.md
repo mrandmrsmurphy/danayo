@@ -383,3 +383,27 @@ Next: 職業.
 No cranberry (職's own stand-in is this exact compound, but 業's own is [[業]] itself) — transitivity fails, though 職 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jig'eb/직업/ㄐㄧㄎㄝㄆ) already verified as the correct concatenation — no bug. Fixed the `characters:` list citing bare "業" (a redlink, since the actual page is `業 (char).md`) → "業 (char)". Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 肇造.
+
+### 2026-09-05, iteration 2986 — [[words/肇造|肇造]]
+
+No cranberry (肇's own stand-in is this exact compound, but 造's own is [[創造]]) — transitivity fails, though 肇 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jaucau/잣찻/ㄐㄚㄨ·ㄑㄚㄨ) already verified as the correct concatenation — no bug. All other-language fields (including the pre-existing cantonese) confirmed standard and genuinely compositional. Filled blank vietnamese (triệu tạo, compositional), added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肉桂.
+
+### 2026-09-05, iteration 2987 — [[words/肉桂|肉桂]]
+
+No cranberry (桂's own stand-in is this exact compound, but 肉's own is [[肉]] itself) — transitivity fails, though 桂 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (nuggwei/눅궤/ㄋㄨㄎㄍ⼔ㄧ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 계피, the real word for cinnamon but built from the unrelated compound 桂皮 rather than 肉桂's own compositional reading — corrected to 육계 (the real pharmacological Sino-Korean term). Filled blank vietnamese (nhục quế, standard attested term). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肉汁.
+
+### 2026-09-05, iteration 2988 — [[words/肉汁|肉汁]]
+
+No cranberry (both 肉's and 汁's own `stand_in` point to themselves). **Found and fixed two real bugs**: `羅馬字`/`諺文` had nugjib/눅집, mismatching 汁's real -ǝ- vowel reading (jǝb/즙) — `注音` (ㄋㄨㄎㄐㄜㄆ) had stayed correct throughout; `korean`/`vietnamese` had 그레이비 (an English loanword transliteration of "gravy") and nước chấm (an unrelated native Vietnamese dipping-sauce term) rather than 肉汁's own compositional readings — corrected to 육즙/nhục trấp. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肉湯.
+
+### 2026-09-05, iteration 2989 — [[words/肉湯|肉湯]]
+
+No cranberry (both 肉's and 湯's own `stand_in` point to themselves). Pronunciation fields (nugtang/눅탕/ㄋㄨㄎㄊㄚㄫ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 국물, the everyday native word for "broth" rather than 肉湯's own compositional reading — corrected to 육탕. Filled blank japanese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肋骨.
