@@ -539,3 +539,27 @@ Next: 胃酸.
 No cranberry (胃's own stand-in is [[胃]] itself, 酸's own is [[酸]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had a spurious extra leading apostrophe ('wiswan), same recurring class as the last three 胃-compounds — corrected to wiswan; `諺文`/`注音` had already stayed correct. Filled blank pos and vietnamese. `kwin: false` already correct per the AND-rule. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 胆嚢.
+
+### 2026-09-05, iteration 3012 — [[words/胆嚢|胆嚢]]
+
+**Genuine `#cranberry`**: both 胆's and 嚢's own stand-ins point here (3rd cranberry found this session, after [[程度]]/[[種類]]). Pronunciation fields (damnang/담낭/ㄉㄚㄇㄋㄚㄫ) already verified as the correct concatenation. **Found and fixed a real bug**: `kwin` was stored true, but the AND-rule requires false (胆 is individually false despite 嚢 being true). Filled blank vietnamese (đảm nang). Fixed a missing "(stand-in for 嚢)" annotation on `characters/嚢.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 背.
+
+### 2026-09-05, iteration 3013 — [[words/背|背]]
+
+Single-character stand-in word. Pronunciation fields (boi/뵈/ㄅㄛㄧ) already matched the character's own values — no bug. Added missing pos/japanese (せなか, native kun-reading), filled `vietnamese: null`→bối. Found a genuine **three-way homophone group** with [[杯]] (already perfected but missing its callout, now added) and [[陪]] (still otherwise unperfected — gave it a full pass too: fixed pos/kwin/japanese/vietnamese, fixed missing stand-in annotation on `characters/陪 (char).md`). All three coincide at boi/뵈/ㄅㄛㄧ and share the same Sino-Korean reading 배 as well. Checked the two other ㄅㄛㄧ-reading characters, 悖 and 賠 — neither has a self-pointing `stand_in` (悖's is the special `名専字` marker, 賠's own is [[賠償]]), so no fourth homophone. Stamped `date-last-perfect: 2026-09-05` on all three word pages.
+
+Next: 背後.
+
+### 2026-09-05, iteration 3014 — [[words/背後|背後]]
+
+No cranberry (背's own stand-in is [[背]] itself, 後's own is [[後]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字`/`諺文`/`注音` all had a vowel-order transposition on 後's own syllable (hou/홋/ㄏㄛㄨ instead of the character's real huo/훗/ㄏㄨㄛ) — corrected to boihuo/뵈훗/ㄅㄛㄧㄏㄨㄛ. Flagged the same transposition on several other 後-citations (最後, 以後, 前後 on 後's own character page) for a future check when the sweep reaches them. `kwin: false` already correct. Filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 背景.
+
+### 2026-09-05, iteration 3015 — [[words/背景|背景]]
+
+No cranberry (背's own stand-in is [[背]] itself, 景's own is [[景色]]) — neither constituent legitimized by this word. Pronunciation fields (boigyeng/뵈경/ㄅㄛㄧㄍ⼶ㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct per the AND-rule. Removed a redundant `品詞` duplicate of `pos`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 背骨.

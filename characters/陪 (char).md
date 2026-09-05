@@ -50,4 +50,4 @@ boundedness: 80
 - [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
-- <ruby>[[陪]]<rt>ㄅㄛㄧ</rt></ruby> "accompany, be with, keep company"
+- <ruby>[[陪]]<rt>ㄅㄛㄧ</rt></ruby> "accompany, be with, keep company" (stand-in for 陪)
