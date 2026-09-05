@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-18
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
-- <ruby>[[鮎]]<rt>ㄋㄝㄇ</rt></ruby> "sweetfish; sheatfish"
+- <ruby>[[鮎]]<rt>ㄋㄝㄇ</rt></ruby> "sweetfish; sheatfish" (stand-in for 鮎)

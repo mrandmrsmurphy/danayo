@@ -6361,3 +6361,57 @@ Next: 米粟.
 No cranberry: 粟's own stand-in is this exact compound, but 米's own is [[米]] itself; transitivity fails, though 粟 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (meisyog/메쇽/ㄇㄝㄧㄙ⼄ㄎ) already verified as the correct concatenation — no bug. Added missing `kwin: false`, quoted pronunciation fields, wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 粉.
+
+### 2026-09-05, iteration 2835 — [[words/粉|粉]]
+
+Single-character stand-in word. **Found and fixed a real bug**: `羅馬字`/`諺文`/`注音` all held bun/분/ㄅㄨㄋ — the reading of this character's own phonetic component 分, not 粉's own independently assigned syllable (fun/뿐/ㄈㄨㄋ, confirmed against `characters/粉 (char).md` and `syllables/ㄈㄨㄋ.md`) — a new bug variant (all three fields wrong, unlike the usual pattern where 注音 stays correct). Added missing `pos`/`kwin`/`japanese`, filled `vietnamese: null`(phấn). No homophones for the corrected form. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 粉末.
+
+### 2026-09-05, iteration 2836 — [[words/粉末|粉末]]
+
+No cranberry (粉's own stand-in is [[粉]] itself, 末's is [[末端]]) — neither constituent legitimized by this word. **Found and fixed the same 粉 bug propagated here**: `羅馬字` had bunmad instead of the corrected funmad (諺文/注音 already correctly used 粉's fixed form). Also fixed `korean`, which mixed the compositional 분말 with 粉's own native gloss 가루 — trimmed to just 분말. Filled blank vietnamese(phấn mạt). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 粗糙.
+
+### 2026-09-05, iteration 2837 — [[words/粗糙|粗糙]]
+
+Special case: 粗's own stand-in is this exact compound (legitimizing it), but 糙 has no character page of its own in this vault, so `#cranberry` can't be fully evaluated. Double-checked that 粗's own jo/조/ㄐㄛ (used here) is a genuinely distinct, legitimate syllable class from the earlier-session 祖/jǝ/즈 bug — confirmed via `syllables/ㄐㄛ.md`, not the same failure mode. Left `vietnamese` unset since 糙 has no independently verified reading in that language (rather than guessing). Added missing `kwin: true`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 粘.
+
+### 2026-09-05, iteration 2838 — [[words/粘|粘]]
+
+Single-character stand-in word. Pronunciation fields already correct. **Found a genuine homophone**: [[鮎]] ("sweetfish, sheatfish") shares this exact reading — since 鮎 was also otherwise entirely unperfected (blank pos, empty `品詞`, blank vietnamese, no callout), gave it a full pass too. Added reciprocal callouts to both, added missing pos/japanese/vietnamese to both, wrote real Notes sections (noting 鮎's unique Japanese semantic divergence, sheatfish→sweetfish), and fixed a missing "(stand-in for 鮎)" annotation on `characters/鮎 (char).md`. Stamped both `date-last-perfect: 2026-09-05`.
+
+Next: 粤語.
+
+### 2026-09-05, iteration 2839 — [[words/粤語|粤語]]
+
+No cranberry: 粤's own stand-in is this exact compound, but 語's own is [[言語]]; transitivity fails, though 粤 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('wed'yo/웓요/⼔ㄊ·⼄) already verified as the correct concatenation — no bug in the word file itself. **Found and fixed a real bug on the character page**: `characters/粤.md`'s own `羅馬字` had man'wet (an extraneous prefix, plus the wrong final consonant t instead of d) — corrected to 'wed, matching `syllables/⼔ㄊ.md`. Added missing `kwin: false`, removed redundant duplicate `品詞`, filled blank vietnamese(việt ngữ, noting a real ambiguity with unrelated 越 "Viet"). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 粥.
+
+### 2026-09-05, iteration 2840 — [[words/粥|粥]]
+
+Single-character stand-in word. Homophone callout with [[竹]] was already in place (from 竹's own iteration). Pronunciation fields already correct. Added missing `kwin`/`japanese`(かゆ), renamed `# Notes`→`## Notes` and wrote real content. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精密.
+
+### 2026-09-05, iteration 2841 — [[words/精密|精密]]
+
+No cranberry (精's own stand-in is [[精神]], 密's is [[密]] itself) — neither constituent legitimized by this word. Pronunciation fields (jengmid/정믿/ㄐㄝㄫㄇㄧㄊ) and `kwin: false` both already correct — verified the kwin value reflects a genuine divergence (Dan'a'yo 정믿 vs real Sino-Korean 정밀 in 密's second syllable), not an error, so left it alone rather than "fixing" it like the earlier 簡略 case. Filled blank vietnamese(tinh mật). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精巣.
+
+### 2026-09-05, iteration 2842 — [[words/精巣|精巣]]
+
+No cranberry (精's own stand-in is [[精神]], 巣's is [[鳥巣]]) — neither constituent legitimized by this word. Pronunciation fields (jengjau/정잣/ㄐㄝㄫㄐㄚㄨ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 불알, a native colloquial word, instead of the compositional 정소 (itself a real, standard medical term). Fixed cantonese missing space, removed blank hsk_level/swadesh/aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精油.
+
+### 2026-09-05, iteration 2843 — [[words/精油|精油]]
+
+No cranberry (精's own stand-in is [[精神]], 油's is [[油]] itself) — neither constituent legitimized by this word. Pronunciation fields (jeng'yu/정유/ㄐㄝㄫ⼜) and `kwin: true` both already correct. Fixed flow-style `characters`, filled blank vietnamese(tinh dầu — a mixed Sino/native compound but genuinely the standard everyday term), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精液.
