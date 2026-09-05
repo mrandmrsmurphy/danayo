@@ -6855,3 +6855,15 @@ Next: 編集.
 No cranberry (編's own stand-in is this exact compound, but 集's own is [[集合]]) — transitivity fails, though 編 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (byenjib/변집/ㄅ⼶ㄋㄐㄧㄆ) already verified as the correct concatenation — no bug. Filled entirely-blank cantonese/korean/vietnamese (compositional, all standard attested terms), added missing `kwin: false`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 緩慢.
+
+### 2026-09-05, iteration 2917 — [[words/緩慢|緩慢]]
+
+**Genuine `#cranberry` case**: both 緩's and 慢's own `stand_in` point to this exact compound. Pronunciation fields (hwanman/환만/ㄏ⺢ㄋㄇㄚㄋ) already verified as the correct concatenation — no bug. Converted a comma-joined `cantonese` string to a proper 2-item list (both tonal variants genuinely attested). Filled blank vietnamese (hoãn mạn, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 緯線.
+
+### 2026-09-05, iteration 2918 — [[words/緯線|緯線]]
+
+No cranberry (緯's own stand-in is this exact compound, but 線's own is [[直線]]) — transitivity fails, though 緯 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (wisyen/위션/ㄨㄧㄙ⼶ㄋ) already verified as the correct concatenation — no bug. All fields were already filled and correct (vietnamese already confirmed via hvdic in a prior pass) — just cleanup: removed blank hsk_level/swadesh/aliases, converted loose note into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 縁故.
