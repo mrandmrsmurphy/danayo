@@ -9,7 +9,8 @@ japanese:
 japanese_native: こま
   - ほそ-い
 vietnamese:
-  - tế, tới
+  - tế
+  - tới
 middle_chinese_initial: s
 middle_chinese_final: ei
 stroke_count: 11
@@ -34,7 +35,7 @@ stand_in: 細
 aliases:
   - 细
 注音: ㄙㄝㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
