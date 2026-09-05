@@ -21,7 +21,7 @@ english:
 諺文: "괃"
 joyo_level: "日本人名用漢字"
 hsk_level: "無"
-hanmun_edu_level: ""
+hanmun_edu_level: "名"
 danayo_id: 7442
 mc_id: 8377
 graphemic_classification: "舌"
@@ -49,4 +49,4 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
-- <ruby>[[筈]]<rt>ㄍ⺢ㄊ</rt></ruby> "nock"
+- <ruby>[[筈]]<rt>ㄍ⺢ㄊ</rt></ruby> "nock" (stand-in for 筈)

@@ -6205,3 +6205,57 @@ Next: 第.
 Single-character stand-in word. Already part of a documented three-way homophone group with [[底]] (already fully perfected) and [[蹄]] (still incomplete) — gave [[蹄]] a full pass too. Added missing `pos`/`japanese` to both 第 and 蹄, fixed a missing "(stand-in for 蹄)" annotation on `characters/蹄 (char).md`, wrote real Notes sections for both while preserving 第's existing `### Links`/Numerals-navigation embed. Stamped both `date-last-perfect: 2026-09-04`.
 
 Next: 第一.
+
+### 2026-09-04, iteration 2809 — [[words/第一|第一]]
+
+No cranberry (both 第's and 一's own stand-ins point to themselves). Pronunciation fields (dei'id/데읻/ㄉㄝㄧ·ㄧㄊ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `cantonese` had di4 yi2, matching neither constituent's own reading — corrected to dai6 jat1. Filled blank vietnamese(đệ nhất, itself a real common Vietnamese term). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 第三.
+
+### 2026-09-04, iteration 2810 — [[words/第三|第三]]
+
+No cranberry (both 第's and 三's own stand-ins point to themselves). Pronunciation fields (deisam/데삼/ㄉㄝㄧㄙㄚㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had 셋째, 三's own native ordinal gloss, not this word's Sino-Korean reading — corrected to 제삼. Removed redundant duplicate `品詞`, filled blank vietnamese(đệ tam). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 第二.
+
+### 2026-09-04, iteration 2811 — [[words/第二|第二]]
+
+No cranberry (both 第's and 二's own stand-ins point to themselves). Pronunciation fields (deiniǝ/데늬/ㄉㄝㄧㄋㄧㄜ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `vietnamese` had thứ nhì, a native ordinal, instead of the compositional đệ nhị (itself a real, standard Vietnamese term). Removed redundant duplicate `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 第八.
+
+### 2026-09-04, iteration 2812 — [[words/第八|第八]]
+
+No cranberry (both 第's and 八's own stand-ins point to themselves). Pronunciation fields (deibad/데받/ㄉㄝㄧㄅㄚㄊ) already verified as the correct concatenation — no bug. Quoted pronunciation fields; Notes were already good. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筆.
+
+### 2026-09-04, iteration 2813 — [[words/筆|筆]]
+
+Single-character stand-in word. Pronunciation fields already correct. Fixed a malformed single-item `vietnamese` list holding "bút, phút" as one comma-joined string — the character's own page only stores "bút"; "phút" (unrelated, means "minute") looked like accidental contamination, so trimmed to just bút. Added missing `pos`/`japanese`(ふで). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筆記.
+
+### 2026-09-04, iteration 2814 — [[words/筆記|筆記]]
+
+No cranberry (筆's own stand-in is [[筆]] itself, 記's is [[記憶]]) — neither constituent legitimized by this word. Pronunciation fields (pudgi/푿기/ㄆㄨㄊㄍㄧ) already verified as the correct concatenation — no bug. Filled blank vietnamese(bút ký, itself a real Vietnamese literary term). Renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 筈.
+
+### 2026-09-04, iteration 2815 — [[words/筈|筈]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(はず, noting its figurative "expectation, supposed to" drift). Fixed a missing "(stand-in for 筈)" annotation on `characters/筈 (char).md`, and in passing fixed the 11th empty-string field bug (`hanmun_edu_level: ""`) — filled with a best-guess "名" based on the plurality pattern among other 先進-graded characters (not fully independently confirmable). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 等分.
+
+### 2026-09-04, iteration 2816 — [[words/等分|等分]]
+
+No cranberry (both 等's and 分's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (dungbun/둥분/ㄉㄨㄫㄅㄨㄋ) already verified as the correct concatenation — no bug. Fixed cantonese missing space, filled blank vietnamese(đẳng phân), removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 等待.
+
+### 2026-09-04, iteration 2817 — [[words/等待|等待]]
+
+No cranberry: 待's own stand-in is this exact compound, but 等's own is [[等]] itself; transitivity fails, though 待 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted on the character page). Pronunciation fields (dungdai/둥대/ㄉㄨㄫㄉㄚㄧ) already verified as the correct concatenation — no bug. Double-checked `korean` 등대 (looked suspicious, matching the real word for "lighthouse") — confirmed a genuine coincidental homograph, not a bug; documented in Notes. Corrected `japanese` from まつ (待's bare native verb, not sourced from either constituent's own stored fields — 待's own `japanese_native` is explicitly `ø`) to the compositional on-yomi とうたい. Filled blank vietnamese(đẳng đãi). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 等級.
