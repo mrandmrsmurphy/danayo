@@ -743,3 +743,27 @@ Next: 臘月.
 No cranberry (臘's own stand-in is [[臘八]], 月's own is [[月]] itself) — neither constituent legitimized by this word. Pronunciation fields (lab'wed/랍웓/ㄌㄚㄆ·⼔ㄊ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `korean` had 납월, a 두음법칙-shifted (South Korean) form — corrected to 랍월 per the vault's standing North-Korean-pronunciation rule. Fixed cantonese's stray space, removed redundant `品詞`. Verified vietnamese tháng Chạp as a genuine attested native term, not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 臣民.
+
+### 2026-09-05, iteration 3046 — [[words/臣民|臣民]]
+
+No cranberry (臣's own stand-in is [[大臣]], 民's own is [[人民]]) — neither constituent legitimized by this word. Pronunciation fields (sinmin/신민/ㄙㄧㄋㄇㄧㄋ) already verified as the correct concatenation — no bug; `kwin: true` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自主.
+
+### 2026-09-05, iteration 3047 — [[words/自主|自主]]
+
+No cranberry (自's own stand-in is [[自身]], 主's own is [[主人]]) — neither constituent legitimized by this word. Pronunciation fields (jiǝju/즤주/ㄐㄧㄜㄐㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自分.
+
+### 2026-09-05, iteration 3048 — [[words/自分|自分]]
+
+No cranberry (自's own stand-in is [[自身]], 分's own is [[分]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝbun/즤분/ㄐㄧㄜㄅㄨㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule). Mandarin zìfèn uses 分's genuine alternate fèn tone (the "status/duty" sense) rather than the character's stored primary fēn — not a bug. Filled blank cantonese/korean/vietnamese. Verified japanese じぶん as the real, common Japanese word (broader meaning "oneself" than the narrower literary Chinese sense here) — not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自制.
+
+### 2026-09-05, iteration 3049 — [[words/自制|自制]]
+
+No cranberry (自's own stand-in is [[自身]], 制's own is [[抑制]]) — neither constituent legitimized by this word. Pronunciation fields (jiǝjei/즤제/ㄐㄧㄜㄐㄝㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自動詞.
