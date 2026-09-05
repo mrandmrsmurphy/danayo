@@ -54,4 +54,4 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- [誦](words/誦.md) "recite; chant; repeat" — 誦 stands alone as a word in Dan'a'yo.
+- <ruby>[[誦]]<rt>ㄙㄛㄫ</rt></ruby> "recite; chant; repeat" (stand-in for 誦)

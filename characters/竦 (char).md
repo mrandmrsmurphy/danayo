@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
-- [竦](words/竦.md) "awe" — 竦 stands alone as a word in Dan'a'yo.
+- <ruby>[[竦]]<rt>ㄙㄛㄫ</rt></ruby> "awe" (stand-in for 竦)

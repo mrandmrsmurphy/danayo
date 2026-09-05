@@ -49,6 +49,7 @@ boundedness: 80
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[送]]<rt>ㄙㄛㄫ</rt></ruby> "give" (stand-in for 送)
 - <ruby>[[輸送]]<rt>ㄙㄨㄇㄙㄛㄫ</rt></ruby> "transportation, transport"
 - <ruby>[[送還]]<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby> "repatriate; send back"
 - <ruby>[[逓送]]<rt>ㄊㄝㄧㄙㄛㄫ</rt></ruby> "send; forward"

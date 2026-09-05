@@ -6157,3 +6157,27 @@ Next: 章程.
 No cranberry (章's own stand-in is [[章]] itself, 程's is [[程度]]) — neither constituent legitimized by this word. Pronunciation fields (jangding/장딩/ㄐㄚㄫㄉㄧㄫ) already verified as the correct concatenation — no bug. Double-checked `vietnamese: chương trình` against a suspicion it might be misplaced-word contamination (matches the modern Vietnamese word for "program") — confirmed genuinely compositional (章's chương + 程's trình), a coincidental match rather than a bug. Quoted `hsk_level`, removed blank swadesh/aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 章魚.
+
+### 2026-09-04, iteration 2801 — [[words/章魚|章魚]]
+
+No cranberry (both 章's and 魚's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (jang'yo/장요/ㄐㄚㄫ⼄) already verified as the correct concatenation — no bug. **Fixed a real typo**: `mandarin` had hāngyú instead of zhāngyú. Cleaned up `korean` (was comma-joining the mechanical compositional 장어 with 문어, the real distinct Korean word for octopus, written with a different first character and already preserved as the alias 文魚) — kept just 장어, explained the coincidental "eel" collision in Notes. Filled blank vietnamese(chương ngư). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 竦.
+
+### 2026-09-04, iteration 2802 — [[words/竦|竦]]
+
+Single-character stand-in word. **Found a genuine three-way homophone group**: [[送]] ("give") and [[誦]] ("recite, chant") both also share song/송/ㄙㄛㄫ. All three were single-character stand-in words in varying states of incompleteness, so gave all three a full pass: added the three-way callout to each, filled missing pos/kwin/japanese/vietnamese fields, wrote real Notes sections cross-referencing the group. Also normalized non-standard Words-list citation formats (bare markdown links instead of ruby/rt + stand-in parenthetical) on `characters/竦 (char).md` and `characters/誦 (char).md`, and added a completely missing self-citation to `characters/送 (char).md`'s own Words list. Stamped all three `date-last-perfect: 2026-09-04`.
+
+Next: 端緒.
+
+### 2026-09-04, iteration 2803 — [[words/端緒|端緒]]
+
+No cranberry (端's own stand-in is [[末端]], 緒's is [[心緒]]) — neither constituent legitimized by this word. Pronunciation fields (dwansyo/돤쇼/ㄉ⺢ㄋㄙ⼄) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `korean` had comma-joined 단서, 실마리 — 실마리 is 緒's own *native* Korean gloss, not part of this word's own compositional Sino-Korean reading. Trimmed to just 단서. Added missing `kwin: false`, filled blank vietnamese(đoan tự). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 競争.
+
+### 2026-09-04, iteration 2804 — [[words/競争|競争]]
+
+No cranberry: 競's own stand-in is this exact compound, but 争's own is [[抗争]]; transitivity fails, though 競 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gyengjang/경장/ㄍ⼶ㄫㄐㄚㄫ) already verified as the correct concatenation — no bug. Removed blank hsk_level/swadesh, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 競走.
