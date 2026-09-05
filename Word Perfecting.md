@@ -509,3 +509,33 @@ Next: 肺臓.
 No cranberry (肺's own stand-in is this exact compound, but 臓's own is [[内臓]]) — transitivity fails, though 肺 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `羅馬字`/`諺文` had pyejang/펴장 (p-initial), mismatching 肺's real f-initial reading (fe/뻐) — same ㄈ→ㅍ (should be ㅃ) failure class as the 福-family bug; `注音` had already stayed correct. `korean` had 폐장; 허파, wrongly appending 肺's own native gloss 허파 onto the correct compositional 폐장 — trimmed to just 폐장. Filled blank vietnamese (phế tạng). Added missing `kwin: false` (AND-rule: 肺 is false despite 臓 being true), removed a stray space from cantonese, converted bare-array YAML. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 胃.
+
+### 2026-09-05, iteration 3007 — [[words/胃|胃]]
+
+Single-character stand-in word. Pronunciation fields (wi/위/ㄨㄧ) already matched the character's own values — no bug. Added missing pos/japanese (イ, on-reading since no native kun exists), filled `vietnamese: null`→vị. Checked the six other ㄨㄧ-reading characters (偉/囲/緯/謂/違/韋) — none has a self-pointing `stand_in` (韋's is the special `名専字` name-only marker), so no homophone. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胃炎.
+
+### 2026-09-05, iteration 3008 — [[words/胃炎|胃炎]]
+
+No cranberry (胃's own stand-in is [[胃]] itself, 炎's own is [[炎症]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had a spurious extra leading apostrophe ('wi'em) — 胃's own reading (wi) carries no null-onset marker, only 炎's own ('em) does — corrected to wi'em; `諺文`/`注音` had already stayed correct. Filled blank pos, korean (위염, the real attested medical term), and vietnamese (vị viêm). Added missing `kwin: false` (AND-rule: 炎 is false despite 胃 being true). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胃痛.
+
+### 2026-09-05, iteration 3009 — [[words/胃痛|胃痛]]
+
+No cranberry (胃's own stand-in is [[胃]] itself, 痛's own is [[苦痛]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had a spurious extra leading apostrophe ('witong), same class as 胃炎's fix two iterations ago — corrected to witong; `諺文`/`注音` had already stayed correct. `kwin: true` was already correct (both constituents individually true). Filled blank pos and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胃癌.
+
+### 2026-09-05, iteration 3010 — [[words/胃癌|胃癌]]
+
+No cranberry (胃's own stand-in is [[胃]] itself, 癌's own is [[癌症]]) — neither constituent legitimized by this word. **Found and fixed two real bugs**: `羅馬字` had a spurious extra leading apostrophe ('wi'am), same class as 胃炎/胃痛's earlier fixes — corrected to wi'am; `諺文`/`注音` had already stayed correct. `mandarin` was comma-joined with a stray second value, wèiyán — the *pre-1962* reading of 癌 (documented on `characters/癌.md`: Mandarin ái was a deliberate 1962 change away from yán specifically to avoid clinical confusion with homophonous 炎, i.e. with [[胃炎]]), not a live alternate — trimmed to just wèi'ái. Filled blank vietnamese (vị nham). `kwin: true` already correct. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胃酸.
+
+### 2026-09-05, iteration 3011 — [[words/胃酸|胃酸]]
+
+No cranberry (胃's own stand-in is [[胃]] itself, 酸's own is [[酸]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had a spurious extra leading apostrophe ('wiswan), same recurring class as the last three 胃-compounds — corrected to wiswan; `諺文`/`注音` had already stayed correct. Filled blank pos and vietnamese. `kwin: false` already correct per the AND-rule. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胆嚢.
