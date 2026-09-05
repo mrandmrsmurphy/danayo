@@ -29,7 +29,7 @@ mc_id: 594
 graphemic_classification: 子
 stand_in: 字
 注音: ㄐㄧ
-date-last-perfect: 2026-03-08
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
@@ -50,7 +50,7 @@ boundedness: 90
 - <ruby>[[代用字]]<rt>ㄉㄚㄧ⼄ㄫㄐㄧ</rt></ruby> "substitute character"
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - Chinese character
 - <ruby>[漢字](/words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> - Chinese character
-- <ruby>[羅馬字](/words/羅馬字.md)<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> - Latin letter
+- <ruby>[[羅馬字]]<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> "Latin letters, Roman alphabet, romanization"
 - <ruby>[卍字](/words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby> - swastika
 - <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
 - <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
