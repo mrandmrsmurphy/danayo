@@ -6415,3 +6415,27 @@ Next: 精油.
 No cranberry (精's own stand-in is [[精神]], 油's is [[油]] itself) — neither constituent legitimized by this word. Pronunciation fields (jeng'yu/정유/ㄐㄝㄫ⼜) and `kwin: true` both already correct. Fixed flow-style `characters`, filled blank vietnamese(tinh dầu — a mixed Sino/native compound but genuinely the standard everyday term), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 精液.
+
+### 2026-09-05, iteration 2844 — [[words/精液|精液]]
+
+No cranberry (精's own stand-in is [[精神]], 液's is [[液体]]) — neither constituent legitimized by this word. Pronunciation fields (jeng'yeg/정역/ㄐㄝㄫ⼶ㄎ) already verified as the correct concatenation — no bug. Converted comma-joined `mandarin` (two attested readings) into a proper list, removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精緻.
+
+### 2026-09-05, iteration 2845 — [[words/精緻|精緻]]
+
+No cranberry: 緻's own stand-in is this exact compound, but 精's own is [[精神]]; transitivity fails, though 緻 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jengdiǝ/정듸/ㄐㄝㄫㄉㄧㄜ) already verified as the correct concatenation — no bug. Double-checked `korean` 정치 (matches the real word for "politics") — confirmed genuinely compositional and coincidental, not a bug; documented in Notes. Filled blank vietnamese(tinh trí). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精舎.
+
+### 2026-09-05, iteration 2846 — [[words/精舎|精舎]]
+
+No cranberry (精's own stand-in is [[精神]], 舎's is [[宿舎]]) — neither constituent legitimized by this word. Pronunciation fields (jengsya/정샤/ㄐㄝㄫㄙ⼘) already verified as the correct concatenation — no bug. Added missing `kwin: false`, filled blank cantonese/korean/vietnamese(tinh xá, itself the standard Vietnamese Buddhist term for vihara), removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 精鋭.
+
+### 2026-09-05, iteration 2847 — [[words/精鋭|精鋭]]
+
+No cranberry (精's own stand-in is [[精神]], 鋭's is [[鋭利]]) — neither constituent legitimized by this word. Pronunciation fields (jeng'ye/정여/ㄐㄝㄫ⼶) already verified as the correct concatenation — no bug. Filled blank vietnamese(tinh nhuệ, itself the standard Vietnamese military term for "elite"), removed blank hsk_level/swadesh. **In passing**, fixed the 12th empty-string field bug on `characters/鋭.md` (`hsk_level: ""`). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 糊塗.
