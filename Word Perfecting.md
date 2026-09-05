@@ -563,3 +563,27 @@ Next: 背景.
 No cranberry (背's own stand-in is [[背]] itself, 景's own is [[景色]]) — neither constituent legitimized by this word. Pronunciation fields (boigyeng/뵈경/ㄅㄛㄧㄍ⼶ㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct per the AND-rule. Removed a redundant `品詞` duplicate of `pos`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 背骨.
+
+### 2026-09-05, iteration 3016 — [[words/背骨|背骨]]
+
+No cranberry (背's own stand-in is [[背]] itself, 骨's own is [[骨]] itself) — neither constituent legitimized by this word. Pronunciation fields (boigod/뵈곧/ㄅㄛㄧㄍㄛㄊ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: both constituents individually false). Filled blank cantonese and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胎児.
+
+### 2026-09-05, iteration 3017 — [[words/胎児|胎児]]
+
+No cranberry (胎's own stand-in is this exact compound, but 児's own is [[児]] itself) — transitivity fails, though 胎 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `諺文` had 타에 (ㅏ vowel), mismatching 胎's real ㅐ-vowel reading (태) — corrected to 태에; `羅馬字`/`注音` had already stayed correct. Also cleaned a stray zero-width-space character embedded in `japanese`. Filled blank pos. `kwin: false` already correct per the AND-rule. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胎盤.
+
+### 2026-09-05, iteration 3018 — [[words/胎盤|胎盤]]
+
+No cranberry (胎's own stand-in is [[胎児]], 盤's own is [[盤]] itself) — neither constituent legitimized by this word. Pronunciation fields (taiban/태반/ㄊㄚㄧㄅㄚㄋ) already verified as the correct concatenation — no bug; `kwin: true` already correct. Filled blank pos and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胞衣.
+
+### 2026-09-05, iteration 3019 — [[words/胞衣|胞衣]]
+
+No cranberry (胞's own stand-in is this exact compound, but 衣's own is [[衣類]]) — transitivity fails, though 胞 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (byau'iǝ/뱟의/ㄅ⼘ㄨㄧㄜ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 胞 is false despite 衣 being true). Filled blank vietnamese (bào y, the classical Sino-Vietnamese medical term). Confirmed japanese えな is a genuine irregular reading (熟字訓-type), not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胡志明市.
