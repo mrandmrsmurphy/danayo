@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 耽.
 >For the word, see [耽](words/耽.md)
@@ -47,7 +47,7 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words
-- <ruby>[[耽]]<rt>ㄉㄛㄇ</rt></ruby> "indulge in"
+- <ruby>[[耽]]<rt>ㄉㄛㄇ</rt></ruby> "indulge in" (stand-in for 耽)
 - <ruby>[[耽耽]]<rt>ㄉㄛㄇㄉㄛㄇ</rt></ruby> "glaring covetously" (alias: 眈眈)
 
 ## Chengyu

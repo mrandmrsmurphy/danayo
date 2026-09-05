@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 耶.
 >For the word, see [耶](words/耶.md)
@@ -47,10 +47,10 @@ date-last-perfect: 2026-08-12
 - 1818th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [⼶](syllables/⼶.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
-### Derived Characters
-- <ruby>[爺](characters/爺.md)<rt>⼘</rt></ruby> "grandpa"
-- <ruby>[椰](characters/椰.md)<rt>⼘</rt></ruby> "coconut"
-- <ruby>[揶](characters/揶.md)<rt>⼘</rt></ruby> "ridicule"
-
 ## Words
 - <ruby>[[耶]]<rt>⼶</rt></ruby> "questioning particle; yeah" (stand-in for 耶)
+
+## Derived Characters
+- <ruby>[[爺]]<rt>⼘</rt></ruby> "grandpa"
+- <ruby>[[椰]]<rt>⼘</rt></ruby> "coconut"
+- <ruby>[[揶]]<rt>⼘</rt></ruby> "ridicule"

@@ -305,3 +305,27 @@ Next: 耐.
 Single-character stand-in word. Pronunciation fields (nai/내/ㄋㄚㄧ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → nại. Completed the genuine Dan'a'yo homophone with [[乃]] (already perfected, had pre-emptively documented and anticipated this exact pairing) — reciprocal callout already in place, cross-referenced here. **In passing**, cleaned up a stray dangling numbered list left over on `words/乃.md`'s own page (duplicating its single `english:` gloss). No other collisions. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 耳根.
+
+### 2026-09-05, iteration 2973 — [[words/耳根|耳根]]
+
+No cranberry (both 耳's and 根's own `stand_in` point to themselves). **Found and fixed a real bug**: `羅馬字`/`諺文` had nigan/니간 (mismatching 根's real -ǝ- vowel reading, gǝn/근) — `注音` (ㄋㄧㄍㄜㄋ) had stayed correct throughout. All other fields already correctly filled. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 耳目.
+
+### 2026-09-05, iteration 2974 — [[words/耳目|耳目]]
+
+No cranberry (both 耳's and 目's own `stand_in` point to themselves). Pronunciation fields (nimug/니묵/ㄋㄧㄇㄨㄎ) already verified as the correct concatenation — no bug. Filled blank vietnamese (nhĩ mục, standard attested term). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 耶.
+
+### 2026-09-05, iteration 2975 — [[words/耶|耶]]
+
+Single-character stand-in word. Pronunciation fields ('ye/여/⼶) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native か); vietnamese was already correctly filled. No homophones (叡/曳/裔/鋭 share the syllable at the character level only). **In passing**, fixed `characters/耶 (char).md`'s Derived Characters section (wrong `###` heading level, non-standard `[text](path)` link format, misplaced before `## Words`) — moved after Words and reformatted to proper ruby wikilinks. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 耽.
+
+### 2026-09-05, iteration 2976 — [[words/耽|耽]]
+
+Single-character stand-in word. Pronunciation fields (dom/돔/ㄉㄛㄇ) already matched the character's own values — no bug. Added missing kwin/japanese (native ふける); pos/vietnamese were already correctly set. **In passing**, added a missing "(stand-in for 耽)" annotation on `characters/耽 (char).md`'s own self-citation. No homophones (彤 shares the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 聊.
