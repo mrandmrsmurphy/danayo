@@ -485,3 +485,27 @@ Next: 肩甲骨.
 No cranberry (none of the three constituents' own stand-ins point here — 肩/甲/骨 all point to themselves). Pronunciation fields (gengabgod/건갑곧/ㄍㄝㄋㄍㄚㄆㄍㄛㄊ) already verified as the correct concatenation — no bug; `kwin: false` already correct per the AND-rule. **Found and fixed three real bugs**: `mandarin`/`cantonese`/`korean` were all truncated, missing 骨's own final syllable entirely (jiānjiǎ→jiānjiǎgǔ; gin1 gaap3→gin1gaap3gwat1; 견갑→견갑골). Fixed redlinked bare-character citations in `characters:` (肩/甲/骨→disambiguated `(char)` filenames — these bare names belong to the *word* pages, not the character pages). Filled blank vietnamese (kiên giáp cốt). Fixed `aliases`: removed 肩膀 (an unrelated near-synonym meaning "shoulder," not "shoulder blade") and corrected truncated 肩胛→肩胛骨 (the genuine modern-standard alternate spelling, using specialized 胛 in place of the phonetic loan 甲). Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 肩章.
+
+### 2026-09-05, iteration 3003 — [[words/肩章|肩章]]
+
+No cranberry (肩's own stand-in is [[肩]] itself, 章's own is [[章]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `諺文` had 겅장, an illegal cross-syllable nasal-place assimilation of 肩's own final ㄴ→ㅇ (forbidden per `grammar/文法 - 02音韻論.md` line 150) — corrected to the straight concatenation 건장; `羅馬字`/`注音` had already stayed correct throughout. `kwin: false` already correct per the AND-rule. Filled blank pos and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`. **Tooling note**: the vault's filesystem is running unusually slow right now (~85s just to scan all of `words/`+`characters/` once) — `homophone_check.py` timed out and was killed twice before recognizing it wasn't hung, just slow; ran to completion fine in the background on the third attempt. Not an infinite loop — just budget more wall-clock time (backgrounded, don't kill early) if this recurs.
+
+Next: 肪.
+
+### 2026-09-05, iteration 3004 — [[words/肪|肪]]
+
+Single-character stand-in word. Pronunciation fields (fang/빵/ㄈㄚㄫ) already matched the character's own values — no bug. Added missing pos/japanese (ボウ, on-reading since no native kun exists), filled `vietnamese: null`→phòng. Re-verified the genuine homophone with [[紡]] (already fully cross-linked from 紡's own retroactive-recheck pass), and confirmed no third homophone exists among the other ㄈㄚㄫ-reading characters (倣/坊/妨/放/方/芳/訪 — none has a self-pointing `stand_in`). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 育.
+
+### 2026-09-05, iteration 3005 — [[words/育|育]]
+
+Single-character stand-in word. **Found and fixed a real bug**: `羅馬字` was missing the leading null-onset apostrophe (yug→'yug; 諺文/注音 already correct). Fixed a typo in `english` (nuture→nurture), added missing pos/japanese (そだつ, native kun-reading), filled `vietnamese: null`→dục, added missing `kwin: true`. Checked the one other ⼜ㄎ-reading character, 郁 — its `stand_in` is the special `名専字` (name-only) marker, not a real word, so no homophone. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肺臓.
+
+### 2026-09-05, iteration 3006 — [[words/肺臓|肺臓]]
+
+No cranberry (肺's own stand-in is this exact compound, but 臓's own is [[内臓]]) — transitivity fails, though 肺 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `羅馬字`/`諺文` had pyejang/펴장 (p-initial), mismatching 肺's real f-initial reading (fe/뻐) — same ㄈ→ㅍ (should be ㅃ) failure class as the 福-family bug; `注音` had already stayed correct. `korean` had 폐장; 허파, wrongly appending 肺's own native gloss 허파 onto the correct compositional 폐장 — trimmed to just 폐장. Filled blank vietnamese (phế tạng). Added missing `kwin: false` (AND-rule: 肺 is false despite 臓 being true), removed a stray space from cantonese, converted bare-array YAML. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胃.
