@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](Lookup/Korean/Korean%20Name%20ㄴ.md)
 
 ## Words
-- <ruby>[[膿]]<rt>ㄋㄛㄫ</rt></ruby> "pus"
+- <ruby>[[膿]]<rt>ㄋㄛㄫ</rt></ruby> "pus" (stand-in for 膿)

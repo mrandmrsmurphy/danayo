@@ -713,3 +713,33 @@ Next: 腹.
 Single-character stand-in word — closes the previously-flagged known gap. Pronunciation fields (fug/뿍/ㄈㄨㄎ) already matched the character's own values — no bug. Added missing pos/japanese (はら, native kun-reading), filled `vietnamese: null`→phúc. Re-verified the existing 3-way homophone group with [[福]]/[[副]] (already fully cross-linked). Checked the three other ㄈㄨㄎ-reading characters (幅, 蝠, 覆) — none has a self-pointing `stand_in`, confirming no fourth homophone. Fixed a missing "(stand-in for 腹)" annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 腹部.
+
+### 2026-09-05, iteration 3041 — [[words/腹部|腹部]]
+
+No cranberry (腹's own stand-in is [[腹]] itself, 部's own is [[部]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had bugbou — an exact copy-paste of the unrelated word [[北部]]'s own reading — instead of the correct fugbou (腹's real f-initial); `諺文`/`注音` had already stayed correct. This meant the pre-existing "homophone of 北部" claim was spurious (北部 is bugbou/북봇/ㄅㄨㄎㄅㄛㄨ, genuinely different) — removed the false claim from both pages. Filled blank vietnamese. No genuine homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 膃肭.
+
+### 2026-09-05, iteration 3042 — [[words/膃肭|膃肭]]
+
+**Genuine `#cranberry`** (already correctly tagged): both 腽's and 肭's own stand-ins point here (5th cranberry this session, after [[程度]]/[[種類]]/[[胆嚢]]/[[脊椎]]). Pronunciation fields ('wabnud/왑눋/⺢ㄆㄋㄨㄊ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Added a completely missing vietnamese field (oát nạp, compositional). Fixed missing "(stand-in for X)" annotations on both `characters/腽.md` and `characters/肭.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 膣.
+
+### 2026-09-05, iteration 3043 — [[words/膣|膣]]
+
+Single-character stand-in word. Pronunciation fields (jid/짇/ㄐㄧㄊ) already matched the character's own values — no bug. Confirmed english "cunt" is intentional (char page explicitly documents this as the vulgar term, distinct from neutral [[陰道]]). **Found and fixed a real bug**: character page's `japanese_native: ちち` was unverifiable/almost certainly erroneous (no real dictionary attests ちち for this meaning) — corrected to `ø`, and set the word's own japanese to the on-reading チツ. Removed redundant `品詞`, normalized the header to the standard `>[!tip]` format. Fixed a self-citation entirely missing from the char page's own Words list. Re-verified the existing 3-way homophone group with [[直]]/[[蛭]] and confirmed no fourth homophone among the other ㄐㄧㄊ-reading characters (嫉, 疾, 質). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 膿.
+
+### 2026-09-05, iteration 3044 — [[words/膿|膿]]
+
+Single-character stand-in word. Pronunciation fields (nong/농/ㄋㄛㄫ) already matched the character's own values — no bug. Added missing pos/japanese (う, native kun-reading), filled `vietnamese: null`→nung. Checked the two other ㄋㄛㄫ-reading characters (濃, 農) — neither has a self-pointing `stand_in`, confirming no homophone. Fixed a missing "(stand-in for 膿)" annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 臘月.
+
+### 2026-09-05, iteration 3045 — [[words/臘月|臘月]]
+
+No cranberry (臘's own stand-in is [[臘八]], 月's own is [[月]] itself) — neither constituent legitimized by this word. Pronunciation fields (lab'wed/랍웓/ㄌㄚㄆ·⼔ㄊ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `korean` had 납월, a 두음법칙-shifted (South Korean) form — corrected to 랍월 per the vault's standing North-Korean-pronunciation rule. Fixed cantonese's stray space, removed redundant `品詞`. Verified vietnamese tháng Chạp as a genuine attested native term, not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 臣民.

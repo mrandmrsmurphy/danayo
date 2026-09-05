@@ -5,7 +5,7 @@ korean: "질"
 korean_native: 보지
 japanese:
   - CHITSU
-japanese_native: ちち
+japanese_native: ø
 vietnamese:
   - chất
   - trất
@@ -49,6 +49,7 @@ boundedness: 65
 - [[Korean Name ㅈ]], [[Hyōgai]], Not on HSK, [[Grade Advanced]]
 
 ## Words
+- <ruby>[[膣]]<rt>ㄐㄧㄊ</rt></ruby> "cunt" (stand-in for 膣)
 - <ruby>[[臭膣]]<rt>ㄑㄨㄐㄧㄊ</rt></ruby> - bitch (neologism)
 [[Lookup/CC/initials/聲 知]]
 [[Lookup/CC/finals/韻 質開]]
