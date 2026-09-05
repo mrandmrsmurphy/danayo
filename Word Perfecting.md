@@ -587,3 +587,27 @@ Next: 胞衣.
 No cranberry (胞's own stand-in is this exact compound, but 衣's own is [[衣類]]) — transitivity fails, though 胞 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (byau'iǝ/뱟의/ㄅ⼘ㄨㄧㄜ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule: 胞 is false despite 衣 being true). Filled blank vietnamese (bào y, the classical Sino-Vietnamese medical term). Confirmed japanese えな is a genuine irregular reading (熟字訓-type), not a bug. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 胡志明市.
+
+### 2026-09-05, iteration 3020 — [[words/胡志明市|胡志明市]]
+
+No cranberry (none of the four constituents' own stand-ins point here). **Found and fixed a real bug**: `羅馬字`/`諺文` had ho/호 instead of 胡's real reading hou/홋 — corrected to houjimyengsi/홋지명시; `注音` had already stayed correct throughout. `kwin: false` already correct per the AND-rule. Filled blank cantonese. As a proper place name, mandarin/japanese/korean/vietnamese legitimately hold the real attested name/transliteration rather than a compositional gloss. Fixed a malformed plain-link citation (missing ruby/rt formatting) on `characters/胡.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胡瓜.
+
+### 2026-09-05, iteration 3021 — [[words/胡瓜|胡瓜]]
+
+No cranberry (瓜's own stand-in is this exact compound, but 胡's own is [[胡乱]]) — transitivity fails, though 瓜 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字` was missing 胡's own -u- glide (hogwa→hougwa) — a rare single-field-only instance, since `諺文`/`注音` had already stayed correct. `kwin: false` already correct. Converted `japanese`'s semicolon-joined value (きゅうり/きうり) into a proper list — both are genuine irregular readings, neither compositional. Kept `korean` 오이 as the real native word (matches 瓜's own `korean_native`), not a bug. Filled blank vietnamese (hồ qua). Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胡芦.
+
+### 2026-09-05, iteration 3022 — [[words/胡芦|胡芦]]
+
+No cranberry (胡's own stand-in is [[胡乱]], 芦's own is [[芦葦]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` was missing 胡's own -u- glide (holo→houlo), same single-field-only class as [[胡瓜]]'s fix — `諺文`/`注音` had already stayed correct. `kwin: false` already correct. Verified vietnamese hồ lô is a genuine attested loanword (not compositional from 芦's own "lư," but independently real) — not a bug. Fixed cantonese's stray space. Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胡麻.
+
+### 2026-09-05, iteration 3023 — [[words/胡麻|胡麻]]
+
+No cranberry (胡's own stand-in is [[胡乱]], 麻's own is [[大麻]]) — neither constituent legitimized by this word. **Found and fixed several real bugs**: `羅馬字` missing 胡's -u- glide (homa→houma), 3rd occurrence of this exact bug in a row across the 胡-compounds ([[胡瓜]], [[胡芦]], now this). `mandarin`/`cantonese` had been contaminated with the alias 芝麻's own readings (hīma/zi1 ma2→húmá/wu4maa4). `korean` held a native phrase (참깨속) instead of the real Sino-Korean term 호마. Filled blank vietnamese (hồ ma). Japanese ごま (using 胡's alternate on'yomi GO) was already correct. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胰臓.
