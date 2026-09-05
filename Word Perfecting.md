@@ -6079,3 +6079,27 @@ Next: 空虚.
 No cranberry (both 空's and 虚's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (konghyo/콩효/ㄎㄛㄫㄏ⼄) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `vietnamese` had trống không, a native compound unrelated to either constituent's own reading — corrected to không hư (空's không + 虚's hư), which the page's own extensive body prose already documented correctly. This word already had an unusually thorough philosophical/etymological essay (Buddhist/Daoist śūnyatā vs. 虛 discussion) — kept nearly all of it, retitled the first heading to `## Notes` with the required opening bullet, demoted the rest to `###`/`####`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 空軍.
+
+### 2026-09-04, iteration 2788 — [[words/空軍|空軍]]
+
+No cranberry (空's own stand-in is [[空]] itself, 軍's is [[軍隊]]) — neither constituent legitimized by this word. Pronunciation fields (konggun/콩군/ㄎㄛㄫㄍㄨㄋ) already verified as the correct concatenation — no bug. Quoted `hsk_level`, removed blank swadesh/empty aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穿孔机.
+
+### 2026-09-04, iteration 2789 — [[words/穿孔机|穿孔机]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (cenkonggiǝ/천콩긔/ㄑㄝㄋㄎㄛㄫㄍㄧㄜ) already verified as the correct concatenation — no bug. Filled blank vietnamese(xuyên khổng cơ), removed blank hsk_level/swadesh/aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穿山甲.
+
+### 2026-09-04, iteration 2790 — [[words/穿山甲|穿山甲]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (censangab/천산갑/ㄑㄝㄋㄙㄚㄋㄍㄚㄆ) and `kwin: true` (all three constituents individually true) both already correct. Fixed missing `(char)` suffixes on `characters` (山, 甲 → 山 (char), 甲 (char)), renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 突厥.
+
+### 2026-09-04, iteration 2791 — [[words/突厥|突厥]]
+
+No cranberry: 厥's own stand-in is this exact compound, but 突's own is [[突然]]; transitivity fails, though 厥 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (todkud/톧쿧/ㄊㄛㄊㄎㄨㄊ) already verified as the correct concatenation — no bug. Fixed `pos` (名詞→固有名詞, "Turks" is a proper ethnonym), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. **Also fixed a missing "(stand-in for 厥)" annotation** on `characters/厥.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窃盗.
