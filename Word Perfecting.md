@@ -359,3 +359,27 @@ Next: 聞.
 Single-character stand-in word. Pronunciation fields (mun/문/ㄇㄨㄋ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native きく), filled `vietnamese: null` → văn. Completed the 3-way Dan'a'yo homophone group with [[紋]] and [[蚊]] (established earlier this sweep, reciprocal callout already in place) — re-verified complete with the fixed homophone script (吻/問/文 share the syllable at the character level only). **In passing**, added a missing "(stand-in for 聞)" annotation on `characters/聞 (char).md`'s own self-citation. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 聡明.
+
+### 2026-09-05, iteration 2982 — [[words/聡明|聡明]]
+
+No cranberry (聡's own stand-in is this exact compound, but 明's own is [[明]] itself) — transitivity fails, though 聡 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (congmyeng/총명/ㄑㄛㄫㄇ⼶ㄫ) already verified as the correct concatenation — no bug. Fixed the `characters:` list citing bare "明" (a redlink, since the actual page is `明 (char).md`) → "明 (char)". Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 聴.
+
+### 2026-09-05, iteration 2983 — [[words/聴|聴]]
+
+Single-character stand-in word. Pronunciation fields (ceng/청/ㄑㄝㄫ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native きく); vietnamese left blank since no candidate is stored on the character page at all. Existing homophone callout with [[青]] re-verified as complete with the fixed homophone-check script (庁/錆/鯖 share the syllable at the character level only). **In passing**, added a missing "(stand-in for 聴)" self-citation, absent entirely from `characters/聴 (char).md`'s Words list. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 聴取.
+
+### 2026-09-05, iteration 2984 — [[words/聴取|聴取]]
+
+No cranberry (聴's own stand-in is [[聴]] itself, 取's is [[取得]]). Pronunciation fields (cengcou/청촛/ㄑㄝㄫㄑㄛㄨ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `cantonese` had teng1 ceoi2, mismatching 聴's real ting1 — corrected to ting1 ceoi2. Vietnamese deliberately left blank since 聴's own character page has no candidate stored at all. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 職業.
+
+### 2026-09-05, iteration 2985 — [[words/職業|職業]]
+
+No cranberry (職's own stand-in is this exact compound, but 業's own is [[業]] itself) — transitivity fails, though 職 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jig'eb/직업/ㄐㄧㄎㄝㄆ) already verified as the correct concatenation — no bug. Fixed the `characters:` list citing bare "業" (a redlink, since the actual page is `業 (char).md`) → "業 (char)". Removed blank hsk_level/swadesh, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 肇造.

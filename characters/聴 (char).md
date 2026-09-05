@@ -30,7 +30,7 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄫ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -50,5 +50,6 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[聴]]<rt>ㄑㄝㄫ</rt></ruby> "listen" (stand-in for 聴)
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"
 - <ruby>[[聴取]]<rt>ㄑㄝㄫㄑㄛㄨ</rt></ruby> "listen to; take in"
