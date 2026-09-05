@@ -6049,3 +6049,33 @@ Next: 空中.
 No cranberry (both 空's and 中's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (kongjung/콩중/ㄎㄛㄫㄐㄨㄫ) already verified as the correct concatenation — no bug. Quoted pronunciation fields, filled blank vietnamese(không trung — a real, common Vietnamese word for "in the air/aerial"). Body was already thorough and well-written, just added the cranberry-check line. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 空前.
+
+### 2026-09-04, iteration 2783 — [[words/空前|空前]]
+
+No cranberry (both 空's and 前's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (kongjen/콩전/ㄎㄛㄫㄐㄝㄋ) already verified as the correct concatenation — no bug. Renamed `## Etymology`→`## Notes`, wrote a real Notes section (noting the [[空前絶後]] chengyu pairing and its Vietnamese idiom parallel). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空手.
+
+### 2026-09-04, iteration 2784 — [[words/空手|空手]]
+
+No cranberry (both 空's and 手's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (kongsyu/콩슈/ㄎㄛㄫㄙ⼜) already verified as the correct concatenation — no bug. Added missing `kwin: false`, filled blank korean(공수, matching real Korean 공수도 "karate")/vietnamese(không thủ), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空手道.
+
+### 2026-09-04, iteration 2785 — [[words/空手道|空手道]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (kongsyudau/콩슈닷/ㄎㄛㄫㄙ⼜ㄉㄚㄨ) already verified as the correct concatenation — no bug. **Fixed a real bug**: `vietnamese` had an erroneous "vỏ" prefix (either a stray typo or a misspelling of "võ") in front of the already-correct compositional "không thủ đạo" — trimmed to just không thủ đạo, itself the standard Vietnamese term for karate. Removed blank hsk_level/swadesh/empty aliases. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空白.
+
+### 2026-09-04, iteration 2786 — [[words/空白|空白]]
+
+No cranberry (both 空's and 白's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (kongbag/콩박/ㄎㄛㄫㄅㄚㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `aliases` wrongly listed 余白/餘白 as orthographic variants of 空白, when they're actually a distinct near-synonym compound (not a spelling variant) — removed. The same contamination had leaked into `korean`, comma-joining this word's own 공백 with 余白's own 여백 and an unrelated native word 빈 — trimmed to just 공백. Added missing `kwin: false`, filled blank vietnamese(không bạch). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空虚.
+
+### 2026-09-04, iteration 2787 — [[words/空虚|空虚]]
+
+No cranberry (both 空's and 虚's own stand-ins point to themselves) — neither constituent legitimized by this word. Pronunciation fields (konghyo/콩효/ㄎㄛㄫㄏ⼄) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `vietnamese` had trống không, a native compound unrelated to either constituent's own reading — corrected to không hư (空's không + 虚's hư), which the page's own extensive body prose already documented correctly. This word already had an unusually thorough philosophical/etymological essay (Buddhist/Daoist śūnyatā vs. 虛 discussion) — kept nearly all of it, retitled the first heading to `## Notes` with the required opening bullet, demoted the rest to `###`/`####`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 空軍.
