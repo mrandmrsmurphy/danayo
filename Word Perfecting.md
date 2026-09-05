@@ -257,3 +257,27 @@ Next: 老人学.
 No cranberry (none of the three constituents' `stand_in` points here). **Found and fixed a real bug**: `羅馬字`/`諺文` had lyau/럇 (a glide-inserted first syllable), mismatching 老's real lau/랏 — `注音` (ㄌㄚㄨㄋㄧㄋㄏㄚㄎ) had stayed correct throughout, the usual tell. Filled blank vietnamese (lão nhân học, standard attested term). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 老子.
+
+### 2026-09-05, iteration 2965 — [[words/老子|老子]]
+
+No cranberry (老's own stand-in is [[老]] itself, 子's is [[児子]]). **Found and fixed a real bug**: `羅馬字`/`諺文` had lyaujǝ/럇즈 (the same 老-syllable mismatch just fixed on [[老人学]]) — `注音` (ㄌㄚㄨㄐㄜ) had stayed correct throughout. All other fields already correctly filled. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 老師.
+
+### 2026-09-05, iteration 2966 — [[words/老師|老師]]
+
+No cranberry (老's own stand-in is [[老]] itself, 師's is [[教師]]). Pronunciation fields (lausiǝ/랏싀/ㄌㄚㄨㄙㄧㄜ) already verified as the correct concatenation — no bug (老's syllable was already correct here, unlike the previous two 老-words). Fixed `hsk_level: 1` (bare number → quoted string). Converted a loose "not a plain 'teacher'" note into proper Notes prose distinguishing 老師 from [[教師]]. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 老爺.
+
+### 2026-09-05, iteration 2967 — [[words/老爺|老爺]]
+
+No cranberry (爺's own stand-in is this exact compound, but 老's own is [[老]] itself) — transitivity fails, though 爺 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had lyau'ya/럇야 (the third instance of the 老-syllable mismatch, after [[老人学]] and [[老子]]) — `注音` had stayed correct throughout. Filled blank vietnamese (lão gia, standard attested term). Converted a loose "Stand-in for [[爺]]" note into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 考察.
+
+### 2026-09-05, iteration 2968 — [[words/考察|考察]]
+
+No cranberry (察's own stand-in is this exact compound, but 考's own is [[考慮]]) — transitivity fails, though 察 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (kaucad/캇찯/ㄎㄚㄨㄑㄚㄊ) already verified as the correct concatenation — no bug. All fields already correctly filled — just cleanup: removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 考慮.
