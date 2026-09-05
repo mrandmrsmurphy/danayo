@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-19
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 鶴.
 >For the word, see [鶴](words/鶴.md)
@@ -51,6 +51,7 @@ date-last-perfect: 2026-08-19
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[鶴]]<rt>ㄏㄚㄎ</rt></ruby> "crane" (stand-in for 鶴)
 - <ruby>[[鸛鶴]]<rt>ㄍ⺢ㄋㄏㄚㄎ</rt></ruby> "stork"
 - <ruby>[[紅鶴]]<rt>ㄏㄛㄫㄏㄚㄎ</rt></ruby> "flamingo"
 

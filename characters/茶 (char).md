@@ -33,7 +33,7 @@ graphemic_classification: "余"
 stand_in: "茶"
 aliases:
 注音: "ㄑㄚ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
@@ -53,6 +53,7 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[茶]]<rt>ㄑㄚ</rt></ruby> "tea (drink); tea (plant)" (stand-in for 茶)
 - <ruby>[[麦茶]]<rt>ㄇㄚㄎㄑㄚ</rt></ruby> "barley tea"
 - <ruby>[[大麦茶]]<rt>ㄉㄚㄧㄇㄚㄎㄑㄚ</rt></ruby> "barley tea"
 - <ruby>[[茶色]]<rt>ㄑㄚㄙㄧㄎ</rt></ruby> "brown"

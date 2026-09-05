@@ -32,7 +32,7 @@ stand_in: 紅
 aliases:
   - 红
 注音: ㄏㄛㄫ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -52,7 +52,7 @@ boundedness: 65
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[紅]]<rt>ㄏㄛㄫ</rt></ruby> "crimson, red"
+- <ruby>[[紅]]<rt>ㄏㄛㄫ</rt></ruby> "crimson, red" (stand-in for 紅)
 - <ruby>[[紅茶]]<rt>ㄏㄛㄫㄑㄚ</rt></ruby> "black tea, red tea"
 - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby> "lipstick"
 - <ruby>[[紅玉]]<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby> "ruby"

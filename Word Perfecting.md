@@ -6493,3 +6493,27 @@ Next: 紀元後.
 No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (gi'wenhuo/기원훗/ㄍㄧ⼔ㄋㄏㄨㄛ) already verified as the correct three-way concatenation — no bug. `kwin: false` confirmed correct per the AND-rule (後 is individually `kwin: false`) despite looking suspicious at first glance. **Found and fixed two real bugs**: `mandarin` had gōngyuán, copied from the unrelated word 公元 rather than 紀元後's own compositional jìyuánhòu; `japanese` had せいき, a real reading of the unrelated word 世紀 ("century") rather than a reading of 紀元後 itself — corrected to compositional きげんご (confirmed via web search). Added missing cantonese (compositional), filled blank vietnamese (compositional kỷ nguyên hậu, noting the idiomatic native alternative sau Công Nguyên). Removed the redundant duplicate `品詞` field. Replaced loose "opposite:" text with a proper `>[!info] Opposite` callout for [[紀元前]]. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 約束.
+
+### 2026-09-05, iteration 2857 — [[words/約束|約束]]
+
+No cranberry (約's own stand-in is this exact compound, but 束's own is [[束]] itself) — transitivity fails, though 約 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('yagsyog/약쇽/⼘ㄎㄙ⼄ㄎ) already verified as the correct concatenation — no bug. All other-language fields (mandarin yuēshù, cantonese joek3 cuk1, japanese やくそく, korean 약속) confirmed as standard and genuinely attested. Filled blank vietnamese (ước thúc, compositional and itself attested, though leaning toward "restraint" rather than "promise" in actual Vietnamese usage). Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 紅茶.
+
+### 2026-09-05, iteration 2858 — [[words/紅茶|紅茶]]
+
+No cranberry (neither 紅's nor 茶's own `stand_in` points here — both are stand-ins for themselves). Pronunciation fields (hongca/홍차/ㄏㄛㄫㄑㄚ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug**: word file had `kwin: true`, but the AND-rule requires false (茶 is individually `kwin: false`) — corrected. All other-language fields confirmed standard and genuinely attested. **In passing**, fixed two missing "(stand-in for X)" annotations: `characters/紅 (char).md`'s own citation of [[紅]], and a citation of [[茶]] itself missing entirely from `characters/茶 (char).md`'s Words list (added). No homophones. Stamped `date-last-perfect: 2026-09-05` on all three files. **Flagged, not fixed**: `words/茶.md` is itself unperfected (old bare-string format, `vietnamese: null`, no pos/kwin/japanese) — alphabetically ahead of 紅茶 (comes up later in the sweep), documented in memory.
+
+Next: 紅鶴.
+
+### 2026-09-05, iteration 2859 — [[words/紅鶴|紅鶴]]
+
+No cranberry (neither 紅's nor 鶴's own `stand_in` points here — both are stand-ins for themselves). Pronunciation fields (honghag/홍학/ㄏㄛㄫㄏㄚㄎ) already verified as the correct concatenation — no bug. `kwin: true` confirmed correct per the AND-rule. Cantonese hung4 hok6-2 confirmed as legitimate vault-standard tone-2-change notation, not a typo. Fixed a real bug: `aliases` list had `[紅鶴, 红鹤]` — the first entry duplicated the headword itself; removed, leaving only the genuine simplified-form alias 红鹤. **In passing**, added a missing "(stand-in for 鶴)" citation of [[鶴]] itself, absent entirely from `characters/鶴 (char).md`'s Words list. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 紋.
+
+### 2026-09-05, iteration 2860 — [[words/紋|紋]]
+
+Single-character stand-in word (old bare-string `characters` format), fully rewritten into the current template. Pronunciation fields (mun/문/ㄇㄨㄋ) already matched the character's own values — no bug. Added missing `pos`/`kwin`/`japanese` (モン, on-reading, since no native kun-reading is stored). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 納.
