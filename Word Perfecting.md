@@ -767,3 +767,27 @@ Next: 自制.
 No cranberry (自's own stand-in is [[自身]], 制's own is [[抑制]]) — neither constituent legitimized by this word. Pronunciation fields (jiǝjei/즤제/ㄐㄧㄜㄐㄝㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 自動詞.
+
+### 2026-09-05, iteration 3050 — [[words/自動詞|自動詞]]
+
+No cranberry (none of the three constituents' own stand-ins point here). Pronunciation fields (jiǝdongsa/즤동사/ㄐㄧㄜㄉㄛㄫㄙㄚ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese (tự động từ, matching the established grammatical-term convention). Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自動車.
+
+### 2026-09-05, iteration 3051 — [[words/自動車|自動車]]
+
+No cranberry (none of the three constituents' own stand-ins point here). **Found and fixed two real bugs**: `羅馬字` missing 車's own -w- glide (jiǝdongca→jiǝdongcwa; 諺文/注音 had already stayed correct — rare single-field-only instance); `japanese` had じどうしや (small-kana error) instead of じどうしゃ. Fixed redlinked bare-character citations in `characters:` (動/車→disambiguated `(char)` filenames). Fixed cantonese's stray spaces. Filled blank vietnamese. `kwin: false` already correct. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自在.
+
+### 2026-09-05, iteration 3052 — [[words/自在|自在]]
+
+No cranberry (自's own stand-in is [[自身]], 在's own is [[在]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝjai/즤재/ㄐㄧㄜㄐㄚㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed a redlinked bare-character citation (在→在 (char)). Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自得.
+
+### 2026-09-05, iteration 3053 — [[words/自得|自得]]
+
+No cranberry (自's own stand-in is [[自身]], 得's own is [[獲得]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had jiǝdug (d-initial, wrong vowel), mismatching 得's real t-initial reading (tǝg) — corrected to jiǝtǝg; `諺文`/`注音` had already stayed correct. Added missing `kwin: false` (AND-rule). Filled blank korean and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 自我.
