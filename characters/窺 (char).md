@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
-- <ruby>[[窺]]<rt>ㄎㄨㄧ</rt></ruby> "spy on"
+- <ruby>[[窺]]<rt>ㄎㄨㄧ</rt></ruby> "spy on" (stand-in for 窺)

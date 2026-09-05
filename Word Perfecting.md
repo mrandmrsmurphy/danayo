@@ -6127,3 +6127,33 @@ Next: 窟.
 Single-character stand-in word. Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`(あな), filled `vietnamese: null`(quật), wrote a real Notes section. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 窪地.
+
+### 2026-09-04, iteration 2796 — [[words/窪地|窪地]]
+
+No cranberry: 窪's own stand-in is this exact compound, but 地's own is [[地]] itself; transitivity fails, though 窪 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('wadiǝ/와듸/⺢ㄉㄧㄜ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `japanese` had ぼち, the reading for the completely unrelated word 墓地 ("cemetery") — apparent copy-paste contamination from an adjacent entry on `characters/地 (char).md`'s own Words list. Corrected to わち (窪's WA + 地's CHI). Filled blank pos/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 窺.
+
+### 2026-09-04, iteration 2797 — [[words/窺|窺]]
+
+Single-character stand-in word. **Found a genuine homophone**: [[軌]] ("track, path, rut") shares this exact reading — since 軌 was also otherwise entirely unperfected (no pos/kwin/japanese/Notes), gave it a full pass too rather than just a bare callout. Added reciprocal callouts to both, added missing `pos`/`kwin`/`japanese` to both, wrote real Notes sections for both, and fixed a missing "(stand-in for 窺)" annotation on `characters/窺 (char).md`'s own Words-list citation. Stamped both `date-last-perfect: 2026-09-04`.
+
+Next: 立憲.
+
+### 2026-09-04, iteration 2798 — [[words/立憲|立憲]]
+
+No cranberry (立's own stand-in is [[立]] itself, 憲's is [[憲法]]) — neither constituent legitimized by this word. Pronunciation fields (libhen/립헌/ㄌㄧㄆㄏㄝㄋ) already verified as the correct concatenation — no bug. Added missing `kwin: true` (AND-rule: both constituents individually true). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 竟.
+
+### 2026-09-04, iteration 2799 — [[words/竟|竟]]
+
+Single-character stand-in word. **Found a genuine homophone**: [[鏡]] ("mirror; lens") shares this exact reading — genuinely related too, since 竟 is 鏡's own phonetic component. Since 鏡 was also otherwise entirely unperfected (`vietnamese: null`, no pos/kwin/japanese), gave it a full pass too. Added reciprocal callouts to both, added missing `pos`/`kwin`/`japanese` to both, wrote real Notes sections. Stamped both `date-last-perfect: 2026-09-04`.
+
+Next: 章程.
+
+### 2026-09-04, iteration 2800 — [[words/章程|章程]]
+
+No cranberry (章's own stand-in is [[章]] itself, 程's is [[程度]]) — neither constituent legitimized by this word. Pronunciation fields (jangding/장딩/ㄐㄚㄫㄉㄧㄫ) already verified as the correct concatenation — no bug. Double-checked `vietnamese: chương trình` against a suspicion it might be misplaced-word contamination (matches the modern Vietnamese word for "program") — confirmed genuinely compositional (章's chương + 程's trình), a coincidental match rather than a bug. Quoted `hsk_level`, removed blank swadesh/aliases, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 章魚.
