@@ -611,3 +611,33 @@ Next: 胡麻.
 No cranberry (胡's own stand-in is [[胡乱]], 麻's own is [[大麻]]) — neither constituent legitimized by this word. **Found and fixed several real bugs**: `羅馬字` missing 胡's -u- glide (homa→houma), 3rd occurrence of this exact bug in a row across the 胡-compounds ([[胡瓜]], [[胡芦]], now this). `mandarin`/`cantonese` had been contaminated with the alias 芝麻's own readings (hīma/zi1 ma2→húmá/wu4maa4). `korean` held a native phrase (참깨속) instead of the real Sino-Korean term 호마. Filled blank vietnamese (hồ ma). Japanese ごま (using 胡's alternate on'yomi GO) was already correct. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 胰臓.
+
+### 2026-09-05, iteration 3024 — [[words/胰臓|胰臓]]
+
+No cranberry (胰's own stand-in is this exact compound, but 臓's own is [[内臓]]) — transitivity fails, though 胰 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('iǝjang/의장/ㄧㄜㄐㄚㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Converted comma-joined vietnamese to a list. Verified that japanese すいぞう/korean 췌장/vietnamese tụy are all genuine attested readings tied to the alias spelling 膵臓 (a Japanese kokuji distinct from 胰) rather than compositional derivations or bugs — documented in Notes, not "fixed." Fixed a missing "(stand-in for 胰)" annotation on `characters/胰.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 胸臆.
+
+### 2026-09-05, iteration 3025 — [[words/胸臆|胸臆]]
+
+No cranberry (臆's own stand-in is this exact compound, but 胸's own is [[胸部]]) — transitivity fails, though 臆 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (hyong'ig/횽익/ㄏ⼄ㄫㄧㄎ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank cantonese and vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 能力.
+
+### 2026-09-05, iteration 3026 — [[words/能力|能力]]
+
+No cranberry (能's own stand-in is [[技能]], 力's own is [[力]] itself) — neither constituent legitimized by this word. Pronunciation fields (nǝnglig/능릭/ㄋㄜㄫㄌㄧㄎ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Body was already unusually thorough — kept nearly all of it, just added the opening cranberry-check bullet and quoted pronunciation fields, fixed cantonese stray space. Fixed a missing "(stand-in for 力)" annotation on `characters/力 (char).md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脊椎.
+
+### 2026-09-05, iteration 3027 — [[words/脊椎|脊椎]]
+
+**Genuine `#cranberry`**: both 脊's and 椎's own stand-ins point here (4th cranberry this session, after [[程度]]/[[種類]]/[[胆嚢]]). Pronunciation fields (jegcui/적취/ㄐㄝㄎㄑㄨㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Converted comma-joined mandarin (jǐzhuī, jízhuī — a genuinely attested dual reading) and cantonese (matching zek3/zik3 variation) into proper lists. Filled blank vietnamese. Fixed a missing "(stand-in for 椎)" annotation on `characters/椎.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脚.
+
+### 2026-09-05, iteration 3028 — [[words/脚|脚]]
+
+Single-character stand-in word. Pronunciation fields (gyag/갹/ㄍ⼘ㄎ) already matched the character's own values — no bug. Added missing pos/japanese (あし, native kun-reading), filled `vietnamese: null`→cước. Fixed a missing "(stand-in for 脚)" annotation on the char page's own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 脚踝.

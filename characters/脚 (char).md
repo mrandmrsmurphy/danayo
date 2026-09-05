@@ -51,6 +51,6 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[脚]]<rt>ㄍ⼘ㄎ</rt></ruby> "leg"
+- <ruby>[[脚]]<rt>ㄍ⼘ㄎ</rt></ruby> "leg" (stand-in for 脚)
 - <ruby>[[脚踝]]<rt>ㄍ⼘ㄎㄏ⺢</rt></ruby> "ankle"
 - <ruby>[[馬脚]]<rt>ㄇㄚㄍ⼘ㄎ</rt></ruby> "horse feet; cloven feet; sore thumb"
