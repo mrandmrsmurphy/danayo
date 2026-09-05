@@ -6735,3 +6735,33 @@ Next: 絵画.
 **Genuine `#cranberry` case**: both 絵's and 画's own `stand_in` point to this exact compound, so transitivity holds (A=B=AB). **Found and fixed a real bug**: `羅馬字` had hwaihwak (k-final), mismatching 画's own g-final hwag (per the established gob/kab-style voicing convention) — corrected to hwaihwag (諺文/注音 were already correct). Fixed a malformed space-separated `aliases` flow-list. Filled blank korean (회화, using 画's alternate 화-reading rather than its char-page default 획 — a genuine compound-specific alternation, analogous to 率/統率) and vietnamese (hội hoạ, the standard real term). Added missing `kwin: false`. **In passing**, fixed the 16th empty-string field bug on `characters/絵.md` (`hsk_level: ""` → "無"). No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 絶.
+
+### 2026-09-05, iteration 2897 — [[words/絶|絶]]
+
+Single-character stand-in word. Pronunciation fields (jwed/줟/ㄐ⼔ㄊ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native た), filled `vietnamese: null` → tuyệt. Found a genuine homophone with [[綴]] (still unperfected, alphabetically just behind — its own turn will come up soon); added reciprocal callouts to both. No other collisions (拙 shares the syllable at the character level only). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 絶対.
+
+### 2026-09-05, iteration 2898 — [[words/絶対|絶対]]
+
+No cranberry (絶's own stand-in is [[絶]] itself, 対's is [[反対]]). Pronunciation fields (jweddoi/줟되/ㄐ⼔ㄊㄉㄛㄧ) already verified as the correct concatenation — no bug. Fixed `hsk_level: 2` (bare number → quoted string). Filled blank vietnamese (tuyệt đối, standard attested term). **In passing**, fixed two malformed multi-value fields on `characters/対.md`: `japanese_native` (a scalar plus a dangling list continuation → proper 2-item list) and `vietnamese` (a single list item containing 7 comma-joined words → proper 7-item list). No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 絶後.
+
+### 2026-09-05, iteration 2899 — [[words/絶後|絶後]]
+
+No cranberry (both 絶's and 後's own `stand_in` point to themselves). Pronunciation fields (jwedhuo/줟훗/ㄐ⼔ㄊㄏㄨㄛ) already verified as the correct concatenation — no bug. Filled entirely-blank japanese/korean/vietnamese (compositional), added missing `kwin: false`. Converted a loose quoted-string note ("to break the mould") into proper Notes prose. Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 絹.
+
+### 2026-09-05, iteration 2900 — [[words/絹|絹]]
+
+Single-character stand-in word. Pronunciation fields (gwen/권/ㄍ⼔ㄋ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native きぬ). Existing 3-way Homophones callout with [[圏]]/[[巻]] re-verified and confirmed complete/correct with the fixed homophone-check script (倦/拳/権 share the syllable at the character level only). No new bugs. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 継承.
+
+### 2026-09-05, iteration 2901 — [[words/継承|継承]]
+
+No cranberry (承's own stand-in is this exact compound, but 継's own is [[継続]]) — transitivity fails, though 承 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (geisung/게숭/ㄍㄝㄧㄙㄨㄫ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. **In passing**, added a missing "(stand-in for 承)" annotation on `characters/承.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 継母.
