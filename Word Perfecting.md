@@ -5947,3 +5947,33 @@ Next: 秘密.
 No cranberry: 秘's own stand-in is this exact compound, but 密's own is [[密]] itself; transitivity fails, though 秘 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (biǝmid/븨믿/ㄅㄧㄜㄇㄧㄊ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `aliases` had wrongly self-listed this word's own headword (秘密) as its own alias — trimmed to just the genuine traditional variant 祕密. Fixed flow-style `characters`, quoted `hsk_level`, removed blank `swadesh`, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 租金.
+
+### 2026-09-04, iteration 2766 — [[words/租金|租金]]
+
+No cranberry: 租's own stand-in is this exact compound, but 金's own is [[金]] itself; transitivity fails, though 租 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted in existing prose). Pronunciation fields (jǝgim/즈김/ㄐㄜㄍㄧㄇ) already verified as the correct concatenation — no bug (note: 租's own reading correctly uses jǝ/즈, the schwa-syllable pattern, not the earlier-session 祖-syllable bug's wrong jo/조 — 租 and 祖 are different characters, this one was never wrong). Added missing `kwin: false`, filled blank vietnamese(to kim, noting everyday Korean/Vietnamese both prefer native terms instead). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 秩序.
+
+### 2026-09-04, iteration 2767 — [[words/秩序|秩序]]
+
+No cranberry: 秩's own stand-in is this exact compound, but 序's own is [[順序]]; transitivity fails, though 秩 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (didsyo/딛쇼/ㄉㄧㄊㄙ⼄) already verified as the correct concatenation — no bug. **Found and fixed a missing back-citation**: `characters/序.md`'s own `## Words` list didn't cite this word at all, despite `characters/秩.md` already citing it — added it. Quoted `hsk_level`, removed blank `swadesh`/`aliases`, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 移動.
+
+### 2026-09-04, iteration 2768 — [[words/移動|移動]]
+
+No cranberry: 移's own stand-in is this exact compound, but 動's own is [[動]] itself; transitivity fails, though 移 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had 'yedong/여동, missing/altering 移's own final -i (correct syllable 'yei/예, confirmed against `syllables/⼶ㄧ.md`) — `注音` ⼶ㄧㄉㄛㄫ was already correct, the usual tell. Corrected to 'yeidong/예동; `grep`/python check confirms no homophone introduced. Fixed flow-style `characters`, filled blank vietnamese(di động — itself a real everyday Vietnamese word, in điện thoại di động "mobile phone"), removed blank hsk_level/swadesh/empty aliases, renamed `## Etymology`→`## Notes`. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 程度.
+
+### 2026-09-04, iteration 2769 — [[words/程度|程度]]
+
+**`#cranberry`**: both 程's and 度's own `stand_in` point to this exact compound — transitivity holds (A=B=AB), a genuine cranberry case (rarer than the usual partial-legitimization pattern this session). Pronunciation fields (dingdo/딩도/ㄉㄧㄫㄉㄛ) already verified as the correct concatenation — no bug. Filled blank vietnamese(trình độ — a real, extremely common Vietnamese word for "level, degree of proficiency"), removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 稍.
+
+### 2026-09-04, iteration 2770 — [[words/稍|稍]]
+
+Single-character stand-in word. Pronunciation fields already correct. Added missing `japanese`(やや), kept both of the character's own vietnamese candidates as a list. Fixed a non-standard Words-list citation format on `characters/稍 (char).md` (bare markdown link instead of the usual ruby/rt + stand-in-parenthetical convention). No homophones (only character-page duplicates of the syllable exist, no colliding word). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 税金.

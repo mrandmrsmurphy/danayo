@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- [稍](words/稍.md) "slightly, rather" — 稍 stands alone as a word in Dan'a'yo.
+- <ruby>[[稍]]<rt>ㄙ⼘ㄨ</rt></ruby> "slightly, rather" (stand-in for 稍)
