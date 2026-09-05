@@ -50,3 +50,6 @@ date-last-perfect: 2026-08-24
 - [SKIP-1-5-10](Lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
 - 3379th most used character in Classical Chinese (filled — was blank; `CC 3000.md`: `3379. 穗`). Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙㄨㄧ](syllables/ㄙㄨㄧ.md)
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Words
+- <ruby>[[穂]]<rt>ㄙㄨㄧ</rt></ruby> "ear of grain" (stand-in for 穂)

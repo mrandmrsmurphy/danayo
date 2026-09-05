@@ -52,5 +52,5 @@ date-last-perfect: 2026-08-06
 - [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[稿]]<rt>ㄍㄚㄨ</rt></ruby> "manuscript, copy, rough draft" (stand-in for 稿 (char))
+- <ruby>[[稿]]<rt>ㄍㄚㄨ</rt></ruby> "manuscript, copy, rough draft" (stand-in for 稿)
 - <ruby>[[脱稿]]<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby> "complete a manuscript"

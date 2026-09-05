@@ -6001,3 +6001,27 @@ Next: 種類.
 **`#cranberry`**: both 種's and 類's own `stand_in` point here — transitivity holds (A=B=AB), a genuine cranberry case (2nd one found this session, after [[程度]]). Pronunciation fields (jonglui/종뤼/ㄐㄛㄫㄌㄨㄧ) already verified as the correct concatenation — no bug. Wrote a real Notes section, noting 類's own char page already documents it as the sole correlative-chart member that can never stand alone. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 稿.
+
+### 2026-09-04, iteration 2775 — [[words/稿|稿]]
+
+Single-character stand-in word. Homophone callout with [[高]] was already in place (added during 高's own thorough iteration, which already fully documented this genuine phonetic-family homophone). Pronunciation fields already correct. Added missing `pos`/`kwin`/`japanese`, filled `vietnamese: null`, wrote a real Notes section. Also fixed a cosmetic annotation bug on `characters/稿 (char).md`'s own Words-list citation ("(stand-in for 稿 (char))" → "(stand-in for 稿)", matching convention elsewhere). Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穀倉.
+
+### 2026-09-04, iteration 2776 — [[words/穀倉|穀倉]]
+
+No cranberry: 倉's own stand-in is this exact compound, but 穀's own is [[穀物]]; transitivity fails, though 倉 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a new bug variant**: `羅馬字` was missing 倉's own glide (gogcang instead of gogcwang) while `諺文`/`注音` were already correctly glide-inclusive — the first instance this session where only 羅馬字 alone carried the error. Confirmed correction against `syllables/ㄑ⺢ㄫ.md`; no homophone introduced. Fixed flow-style `characters`, filled blank vietnamese(cốc thương), removed blank hsk_level/swadesh/aliases. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穀金.
+
+### 2026-09-04, iteration 2777 — [[words/穀金|穀金]]
+
+Periodic-table neologism (cerium). No bug in `羅馬字`/`諺文`/`注音` (goggim/곡김/ㄍㄛㄎㄍㄧㄇ, correct concatenation); `mandarin`/`cantonese` legitimately give the real CJK element-character readings (鈰/铈, shì/si5) rather than a compositional reading, per the established periodictable-neologism convention (already documented on [[蛍金]]). Removed redundant duplicate `品詞`, added missing `aliases`(鈰, 铈, matching the convention on [[蛍金]]/[[磁金]]/[[硬金]]). Kept the existing distinctive etymology-breakdown prose style (already an accepted sub-genre convention for `periodictable` pages, per already-stamped [[蛍金]]) — fixed a malformed double-dash bullet, wikilinked cross-references to [[護金]]/[[狼金]], and removed leftover second-person "your rule"/"your register" phrasing. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 穂.
+
+### 2026-09-04, iteration 2778 — [[words/穂|穂]]
+
+Single-character stand-in word. Pronunciation fields already correct. **Found a genuine homophone**: [[雖]] ("although," already stamped) shares this exact reading — added reciprocal callouts to both; also removed a redundant duplicate `品詞` on 雖's page while there. Fixed body element ordering (meta-bind-embed was after `# Notes`, wrong per checklist), added missing `pos`/`japanese`(ほ). Also fixed `characters/穂 (char).md`, which had no `## Words` section at all — added one with the stand-in citation. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 積極.
