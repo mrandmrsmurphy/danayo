@@ -155,3 +155,27 @@ Next: 美洲.
 No cranberry (both 美's and 洲's own `stand_in` point to themselves). Pronunciation fields (mijuo/미줏/ㄇㄧㄐㄨㄛ) already verified as the correct concatenation — no bug. Filled blank japanese (びしゅう, compositional). Removed redundant duplicate `品詞` field, converted loose "Combines..." note into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 羚羊.
+
+### 2026-09-05, iteration 2948 — [[words/羚羊|羚羊]]
+
+No cranberry (羚's own stand-in is this exact compound, but 羊's own is [[綿羊]]) — transitivity fails, though 羚 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (leng'yang/렁양/ㄌㄝㄫ·⼘ㄫ) already verified as the correct concatenation — no bug. Filled blank vietnamese (linh dương, standard attested term). **In passing**, added a missing citation of 羚羊 to `characters/羊.md`'s own Words list (羚's own page already had it correctly). Converted loose "See also" text into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 羞恥.
+
+### 2026-09-05, iteration 2949 — [[words/羞恥|羞恥]]
+
+No cranberry (羞's own stand-in is this exact compound, but 恥's own is [[恥辱]]) — transitivity fails, though 羞 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (suoci/숫치/ㄙㄨㄛㄑㄧ) already verified as the correct concatenation — no bug. All fields already correctly filled — just cleanup: removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 羞辱.
+
+### 2026-09-05, iteration 2950 — [[words/羞辱|羞辱]]
+
+No cranberry (辱's own stand-in is this exact compound, but 羞's own is [[羞恥]]) — transitivity fails, though 辱 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (suonog/숫녹/ㄙㄨㄛㄋㄛㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `japanese`/`korean` had くつじょく/굴욕, the real readings of the unrelated near-synonym 屈辱 (a different compound, different first character, no vault page) rather than 羞辱's own compositional readings — corrected to しゅうじょく/수욕. Removed the erroneous `屈辱` alias entry (it's a distinct word, not a variant spelling). Converted comma-joined `mandarin` to a proper list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 群島.
+
+### 2026-09-05, iteration 2951 — [[words/群島|群島]]
+
+No cranberry (群's own stand-in is [[群衆]], 島's is [[島]] itself). Pronunciation fields (guntau/군탓/ㄍㄨㄋㄊㄚㄨ) already verified as the correct concatenation — no bug. Fixed the `characters:` list citing bare "島" (a redlink, since the actual page is `島 (char).md`) → "島 (char)". Removed blank hsk_level/swadesh, fixed bare-array YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 羨慕.
