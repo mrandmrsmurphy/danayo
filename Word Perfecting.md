@@ -5977,3 +5977,27 @@ Next: 稍.
 Single-character stand-in word. Pronunciation fields already correct. Added missing `japanese`(やや), kept both of the character's own vietnamese candidates as a list. Fixed a non-standard Words-list citation format on `characters/稍 (char).md` (bare markdown link instead of the usual ruby/rt + stand-in-parenthetical convention). No homophones (only character-page duplicates of the syllable exist, no colliding word). Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 税金.
+
+### 2026-09-04, iteration 2771 — [[words/税金|税金]]
+
+No cranberry: 税's own stand-in is this exact compound, but 金's own is [[金]] itself; transitivity fails, though 税 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (segim/서김/ㄙㄝㄍㄧㄇ) already verified as the correct concatenation — no bug. **Filled `korean` using the compound-context reading**: 金's own char page stores its surname reading 김, but real compounds (established across [[基金]]/[[黄金]]/[[金属]]) use 금 instead — filled 세금, not the mechanical-but-wrong 서김. Filled blank vietnamese(thuế kim), removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 稟告.
+
+### 2026-09-04, iteration 2772 — [[words/稟告|稟告]]
+
+No cranberry: 稟's own stand-in is this exact compound, but 告's own is [[告訴]]; transitivity fails, though 稟 is legitimized as an independent Dan'a'yo entry by this word (already correctly noted). Pronunciation fields (bumgau/붐갓/ㄅㄨㄇㄍㄚㄨ) and `korean`(품고, straightforward concatenation, no special-case ambiguity like 税金's 金) all already verified correct — no bug. Quoted pronunciation fields, filled blank vietnamese(bẩm cáo, noting bẩm's own classical Vietnamese survival as a deferential reporting verb). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 種苗.
+
+### 2026-09-04, iteration 2773 — [[words/種苗|種苗]]
+
+No cranberry: 苗's own stand-in is this exact compound, but 種's own is [[種類]]; transitivity fails, though 苗 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jongmyau/종먓/ㄐㄛㄫㄇ⼘ㄨ) already verified as the correct concatenation — no bug. Fixed flow-style `characters`, filled blank cantonese(zung2 miu4)/vietnamese(chủng miêu), removed blank hsk_level/swadesh/aliases, renamed `## Etymology`→`## Notes` (noted the 종묘 homograph clash with 宗廟). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 種類.
+
+### 2026-09-04, iteration 2774 — [[words/種類|種類]]
+
+**`#cranberry`**: both 種's and 類's own `stand_in` point here — transitivity holds (A=B=AB), a genuine cranberry case (2nd one found this session, after [[程度]]). Pronunciation fields (jonglui/종뤼/ㄐㄛㄫㄌㄨㄧ) already verified as the correct concatenation — no bug. Wrote a real Notes section, noting 類's own char page already documents it as the sole correlative-chart member that can never stand alone. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 稿.
