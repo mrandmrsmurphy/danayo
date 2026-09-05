@@ -6181,3 +6181,27 @@ Next: 競争.
 No cranberry: 競's own stand-in is this exact compound, but 争's own is [[抗争]]; transitivity fails, though 競 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (gyengjang/경장/ㄍ⼶ㄫㄐㄚㄫ) already verified as the correct concatenation — no bug. Removed blank hsk_level/swadesh, renamed `## Etymology`→`## Notes`. No homophones. Stamped `date-last-perfect: 2026-09-04`.
 
 Next: 競走.
+
+### 2026-09-04, iteration 2805 — [[words/競走|競走]]
+
+No cranberry (競's own stand-in is [[競争]], 走's is [[走]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had gyengjou instead of the correct gyengsou (走's own reading; `諺文`/`注音` were already correctly using sou/솟) — a new bug variant (wrong consonant letter, not a missing glide this time). Also normalized `japanese` from obsolete historical kana きやうそう to modern きょうそう, and noted its genuine real-world homophone coincidence with [[競争]] (both きょうそう, unrelated to the two words' distinct Dan'a'yo readings). Filled blank vietnamese(cạnh tẩu). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 竿竹.
+
+### 2026-09-04, iteration 2806 — [[words/竿竹|竿竹]]
+
+No cranberry: 竿's own stand-in is this exact compound, but 竹's own is [[竹]] itself; transitivity fails, though 竿 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (ganjug/간죽/ㄍㄚㄋㄐㄨㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real bug**: `mandarin` had gānzi, the reading for the colloquial alias 竿子 rather than headword 竿竹 — corrected to gānzhú. Added missing `kwin: true`, filled blank cantonese/korean/vietnamese. **Also fixed**: `characters/竿.md` had a malformed Notes section (floating unlinked reference lines, a bare wikilink instead of a proper ruby-annotated Words section) — cleaned up and added the missing stand-in annotation. No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 符水.
+
+### 2026-09-04, iteration 2807 — [[words/符水|符水]]
+
+No cranberry (符's own stand-in is [[符号]], 水's is [[水]] itself) — neither constituent legitimized by this word. Pronunciation fields (busu/부수/ㄅㄨㄙㄨ) already verified as the correct concatenation — no bug there. **Found and fixed a new bug class**: `japanese`/`korean` held プスイ/푸수이 — katakana/hangul *transliterations of the Dan'a'yo pronunciation itself*, not real readings in either language. Corrected to the genuine compositional ふすい/부수. Also fixed `kwin` (false→true, both constituents individually true). No homophones. Stamped `date-last-perfect: 2026-09-04`.
+
+Next: 第.
+
+### 2026-09-04, iteration 2808 — [[words/第|第]]
+
+Single-character stand-in word. Already part of a documented three-way homophone group with [[底]] (already fully perfected) and [[蹄]] (still incomplete) — gave [[蹄]] a full pass too. Added missing `pos`/`japanese` to both 第 and 蹄, fixed a missing "(stand-in for 蹄)" annotation on `characters/蹄 (char).md`, wrote real Notes sections for both while preserving 第's existing `### Links`/Numerals-navigation embed. Stamped both `date-last-perfect: 2026-09-04`.
+
+Next: 第一.
