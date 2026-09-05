@@ -29,7 +29,7 @@ stand_in: "徳"
 aliases:
   - 德
 注音: "ㄊㄨㄎ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-09-05
 kwin: false
 tags:
   - character
@@ -49,7 +49,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[美徳]]<rt>ㄇㄧㄉㄨㄎ</rt></ruby> "virtue"
+- <ruby>[[美徳]]<rt>ㄇㄧㄊㄨㄎ</rt></ruby> "virtue"
 - <ruby>[[恩徳]]<rt>ㄜㄋㄊㄨㄎ</rt></ruby> "benevolence"
 - <ruby>[[仁徳]]<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby> "benevolence, goodness"
 - <ruby>[[明徳]]<rt>ㄇ⼶ㄫㄉㄨㄎ</rt></ruby> "bright virtue, show virtue"

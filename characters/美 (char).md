@@ -34,7 +34,7 @@ graphemic_classification: 象形
 stand_in: 美
 aliases:
 注音: ㄇㄧ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-05
 kwin: true
 tags:
   - character
@@ -54,7 +54,7 @@ boundedness: 65
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> "beautiful, pretty"
+- <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> "beautiful, pretty" (stand-in for 美)
 - <ruby>[[美洲]]<rt>ㄇㄧㄐㄨㄛ</rt></ruby> "the Americas"
 - <ruby>[[美国]]<rt>ㄇㄧㄍㄛㄎ</rt></ruby> "America, U.S.A."
 - <ruby>[[美国人]]<rt>ㄇㄧㄍㄛㄎㄋㄧㄋ</rt></ruby> "American person"
@@ -65,6 +65,6 @@ boundedness: 65
 - <ruby>[[美洲金]]<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby> "americium"
 - <ruby>[[華美]]<rt>ㄏ⺢ㄇㄧ</rt></ruby> "gorgeous, resplendent"
 - <ruby>[[鮮美]]<rt>ㄙ⼶ㄇㄇㄧ</rt></ruby> "delicious, tasty"
-- <ruby>[[美徳]]<rt>ㄇㄧㄉㄨㄎ</rt></ruby> "virtue"
+- <ruby>[[美徳]]<rt>ㄇㄧㄊㄨㄎ</rt></ruby> "virtue"
 - <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
 - <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"

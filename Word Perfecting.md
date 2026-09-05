@@ -125,3 +125,33 @@ Next: 羊駝.
 No cranberry (羊's own stand-in is [[綿羊]], 駝's is [[駝背]]). Pronunciation fields ('yangda/양다/⼘ㄫㄉㄚ) already verified as the correct concatenation — no bug. Double-checked korean/japanese/vietnamese: all directly transliterate "alpaca" (a New World species with no traditional term in those languages), confirmed genuine, not a bug. Removed redundant duplicate `品詞` field. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 美.
+
+### 2026-09-05, iteration 2943 — [[words/美|美]]
+
+Single-character stand-in word. Pronunciation fields (mi/미/ㄇㄧ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native うつくしい), filled `vietnamese: null` → mĩ. **In passing**, added a missing "(stand-in for 美)" annotation on `characters/美 (char).md`'s own bare self-citation. No homophones (no other character shares this syllable). Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 美国.
+
+### 2026-09-05, iteration 2944 — [[words/美国|美国]]
+
+No cranberry (美's own stand-in is [[美]] itself, 国's is [[国家]]). Pronunciation fields (migog/미곡/ㄇㄧㄍㄛㄎ) already verified as the correct concatenation — no bug. Double-checked japanese べいこく (built on the alias form 米国, which is already documented in `aliases:`) — confirmed genuine, not a bug. All other fields already correctly filled. Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 美国人.
+
+### 2026-09-05, iteration 2945 — [[words/美国人|美国人]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (migognin/미곡닌/ㄇㄧㄍㄛㄎㄋㄧㄋ) already verified as the correct three-way concatenation — no bug. Japanese アメリカ人 double-checked as genuine (loanword compound). Fixed a comma-joined `vietnamese` string (two genuinely distinct attested forms) into a proper list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 美徳.
+
+### 2026-09-05, iteration 2946 — [[words/美徳|美徳]]
+
+No cranberry (both 美's and 徳's own `stand_in` point to themselves). **Found and fixed a real bug**: `羅馬字`/`注音` had midug/ㄇㄧㄉㄨㄎ (徳 misread with a d-initial), mismatching 徳's real t-initial reading (tug/ㄊㄨㄎ) — 諺文 (미툭) had already been correct, the reverse of the usual "注音 stays correct" tell. Corrected to mitug/ㄇㄧㄊㄨㄎ, and propagated the fix to both `characters/美 (char).md`'s and `characters/徳 (char).md`'s own duplicate-wrong citations. All other fields already correctly filled. No homophones. Stamped `date-last-perfect: 2026-09-05` on all three files.
+
+Next: 美洲.
+
+### 2026-09-05, iteration 2947 — [[words/美洲|美洲]]
+
+No cranberry (both 美's and 洲's own `stand_in` point to themselves). Pronunciation fields (mijuo/미줏/ㄇㄧㄐㄨㄛ) already verified as the correct concatenation — no bug. Filled blank japanese (びしゅう, compositional). Removed redundant duplicate `品詞` field, converted loose "Combines..." note into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 羚羊.
