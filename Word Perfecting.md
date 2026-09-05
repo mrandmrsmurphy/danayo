@@ -6765,3 +6765,69 @@ Next: 継承.
 No cranberry (承's own stand-in is this exact compound, but 継's own is [[継続]]) — transitivity fails, though 承 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (geisung/게숭/ㄍㄝㄧㄙㄨㄫ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. **In passing**, added a missing "(stand-in for 承)" annotation on `characters/承.md`'s own Words-list citation. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
 
 Next: 継母.
+
+### 2026-09-05, iteration 2902 — [[words/継母|継母]]
+
+No cranberry (継's own stand-in is [[継続]], 母's is [[母親]]). Pronunciation fields (geimou/게못/ㄍㄝㄧㄇㄛㄨ) already verified as the correct concatenation — no bug. Filled blank vietnamese (kế mẫu, compositional). Removed blank hsk_level/swadesh, fixed bare-array `characters:`/`aliases:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 維持.
+
+### 2026-09-05, iteration 2903 — [[words/維持|維持]]
+
+No cranberry (維's own stand-in is this exact compound, but 持's own is [[持]] itself) — transitivity fails, though 維 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('yeidi/예디/⼶ㄧㄉㄧ) already verified as the correct concatenation — no bug. All other-language fields confirmed standard and genuinely attested. Filled blank vietnamese (duy trì, standard attested term). Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 綱要.
+
+### 2026-09-05, iteration 2904 — [[words/綱要|綱要]]
+
+No cranberry (綱's own stand-in is [[大綱]], 要's is [[重要]]). **Found and fixed a real bug**: `注音` had ㄍㄚㄋ·⼄ㄨ (n-coda) instead of 綱's real -ng coda ㄍㄚㄫ — 羅馬字/諺文 had already been correct (the reverse of the usual "注音 stays correct" tell). The same wrong 注音 was independently duplicated on both `characters/綱.md`'s and `characters/要.md`'s own citations, fixed there too. Filled blank vietnamese (cương yếu, standard attested term), removed a redundant duplicate `品詞` field and two empty-string fields (vietnamese/swadesh). No homophones. Stamped `date-last-perfect: 2026-09-05` on all three files.
+
+Next: 網.
+
+### 2026-09-05, iteration 2905 — [[words/網|網]]
+
+Single-character stand-in word. Pronunciation fields (mang/망/ㄇㄚㄫ) already matched the character's own values — no bug. Added missing pos/kwin/japanese (native あみ). No homophones (11 other characters share the syllable at the character level only). **Gave `characters/網 (char).md` a full formatting overhaul** while touched: fixed a typo'd `</riby>` closing tag, non-bulleted dangling wikilinks, an empty stray bullet, `# Notes` → `## Notes`, non-ruby Words entries; also **found and fixed a real bug**: `aliases` wrongly included 纲 (綱's simplified form, an unrelated character meaning "outline/rope"), removed; split a 3-character glued alias string (`𮉦𦋟𦁒`) into proper separate list items. Added missing "(stand-in for 網)" self-citation. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 網球.
+
+### 2026-09-05, iteration 2906 — [[words/網球|網球]]
+
+No cranberry (both 網's and 球's own `stand_in` point to themselves). Pronunciation fields (manggyu/망규/ㄇㄚㄫㄍ⼜) already verified as the correct concatenation — no bug. Double-checked japanese テニス/korean 테니스 (English loanwords, not compositional Sino-readings) and vietnamese quần vợt (a native calque) — confirmed all three are genuinely how these languages refer to tennis in reality, not bugs; converted the existing loose "Very C, but its the only one with a native word" comment into proper Notes prose explaining why. Removed blank hsk_level/swadesh/aliases, fixed bare-array `characters:` YAML formatting. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 網球場.
+
+### 2026-09-05, iteration 2907 — [[words/網球場|網球場]]
+
+No cranberry (網's and 球's own `stand_in` are stand-ins for themselves, 場's is [[市場]]). Pronunciation fields (manggyujang/망규장/ㄇㄚㄫㄍ⼜ㄐㄚㄫ) already verified as the correct three-way concatenation — no bug. Converted a comma-joined `mandarin` string to a proper list. Filled blank vietnamese (sân quần vợt, the standard native term). Converted a loose "Contraction of..." comment into proper Notes prose. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 網語.
+
+### 2026-09-05, iteration 2908 — [[words/網語|網語]]
+
+No cranberry (網's own stand-in is [[網]] itself, 語's is [[言語]]). Pronunciation fields (mang'yo/망요/ㄇㄚㄫ·⼄) already verified as the correct concatenation — no bug. Added missing `kwin: false`, removed redundant duplicate `品詞` field. Deliberately left japanese/korean/vietnamese blank rather than filling with unattested compositional guesses — this word's sibling [[網語体]] already established (with its own documented rationale) that this compound's real-world usage leans on Mandarin/Cantonese internet-culture jargon specifically, without a fixed equivalent term elsewhere; kept internally consistent with that precedent. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 網語体.
+
+### 2026-09-05, iteration 2909 — [[words/網語体|網語体]]
+
+No cranberry (none of the three constituents' `stand_in` points here). Pronunciation fields (mang'yotei/망요테/ㄇㄚㄫ⼄ㄊㄝㄧ) already verified as the correct three-way concatenation — no bug. This word's pre-existing rationale for leaving japanese/korean/vietnamese blank (a Mandarin/Cantonese-specific internet-culture term) reconfirmed and kept, matching the consistency established on its sibling [[網語]] in the previous iteration. Removed blank hsk_level/swadesh/aliases. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 綴.
+
+### 2026-09-05, iteration 2910 — [[words/綴|綴]]
+
+Single-character stand-in word. Pronunciation fields (jwed/줟/ㄐ⼔ㄊ) already matched the character's own values — no bug. Added missing pos/kwin/japanese, filled `vietnamese: null` → xuyết. Genuine homophone with [[絶]] (flagged during 絶's own iteration) now fully cross-referenced — reciprocal callout already in place. **In passing**, fixed the same disambiguator-suffix stand-in-annotation bug found earlier on 納/絡 — "(stand-in for 綴 (char))" → "(stand-in for 綴)" on `characters/綴 (char).md`. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 綿羊.
+
+### 2026-09-05, iteration 2911 — [[words/綿羊|綿羊]]
+
+No cranberry (羊's own stand-in is this exact compound, but 綿's own is [[綿花]]) — transitivity fails, though 羊 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (myen'yang/면양/ㄇ⼶ㄋ⼘ㄫ) already verified as the correct concatenation — no bug. Cantonese tone-2 change and Japanese/Vietnamese native (non-compositional) readings double-checked and confirmed genuine, not bugs. **Gave `characters/羊.md` a full formatting overhaul** while touched: fixed inconsistent bullet/arrow notation, dangling raw CC-lookup links integrated into a proper ranked bullet, and — most importantly — a missing self-citation of [[綿羊]] with its "(stand-in for 羊)" annotation, entirely absent from the page despite 羊's own `stand_in` pointing there. No homophones. Stamped `date-last-perfect: 2026-09-05` on both files.
+
+Next: 綿花.
+
+### 2026-09-05, iteration 2912 — [[words/綿花|綿花]]
+
+No cranberry (綿's own stand-in is this exact compound, but 花's own is [[草花]]) — transitivity fails, though 綿 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (myenhwa/면화/ㄇ⼶ㄋㄏ⺢) already verified as the correct concatenation — no bug. Fixed `hsk_level: 2` (bare number → quoted string). Filled blank vietnamese (miên hoa, compositional). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: [awk lookup needed].

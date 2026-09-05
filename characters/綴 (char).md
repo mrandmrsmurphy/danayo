@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-09-05
 ---
 >[!tip] This is a page about the character 綴.
 >For the word, see [綴](../words/綴.md)
@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-16
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](Lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- <ruby>[[綴]]<rt>ㄐ⼔ㄊ</rt></ruby> "bind, stop" (stand-in for 綴 (char))
+- <ruby>[[綴]]<rt>ㄐ⼔ㄊ</rt></ruby> "bind, stop" (stand-in for 綴)
