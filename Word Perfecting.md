@@ -1860,6 +1860,30 @@ No cranberry (補's own stand-in is [[修補]], 習's is [[練習]]). **Found an
 
 Next: 裸.
 
+### 2026-09-05, iteration 3234 — [[words/裸|裸]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. **Found and fixed a real bug**: korean 나 (두음법칙-shifted) → 라 (unshifted, per standing rule). Added missing pos/kwin/japanese. Reformatted a malformed vietnamese string into a proper list. Checked five candidate homophones — none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 製作.
+
+### 2026-09-05, iteration 3235 — [[words/製作|製作]]
+
+製's own stand-in is this exact compound; 作's own is [[作]] itself — transitivity fails, no cranberry. Pronunciation fields (jejag/저작/ㄐㄝㄐㄚㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional (vietnamese chế tác also a real term). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 製品.
+
+### 2026-09-05, iteration 3236 — [[words/製品|製品]]
+
+No cranberry (製's own stand-in is [[製作]], 品's is [[品]] itself). Pronunciation fields (jepum/저품/ㄐㄝㄆㄨㄇ) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin/japanese/korean confirmed real common terms; vietnamese confirmed a legitimate real-term substitution. Fixed cantonese stray space and a missing stand-in annotation on `characters/品 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 複数.
+
+### 2026-09-05, iteration 3237 — [[words/複数|複数]]
+
+No cranberry (複's own stand-in is [[重複]], 数's is [[計数]]). Pronunciation fields (bugsu/북수/ㄅㄨㄎㄙㄨ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: cantonese fuk1 sou3 didn't match 数's own sou2 (wrong tone) — corrected. Other fields confirmed standard and compositional. Filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 褐.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**

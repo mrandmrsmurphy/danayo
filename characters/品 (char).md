@@ -48,7 +48,7 @@ boundedness: 75
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[品]]<rt>ㄆㄨㄇ</rt></ruby> "article; item"
+- <ruby>[[品]]<rt>ㄆㄨㄇ</rt></ruby> "article; item" (stand-in for 品)
 - <ruby>[[新品]]<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> "new products; new arrivals"
 - <ruby>[[製品]]<rt>ㄐㄝㄆㄨㄇ</rt></ruby> "product; produce; goods"
 - <ruby>[[貢品]]<rt>ㄍㄛㄫㄆㄨㄇ</rt></ruby> "tribute; tribute goods"
