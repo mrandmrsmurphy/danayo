@@ -1782,6 +1782,30 @@ No cranberry (表's own stand-in is [[表現]], 示's is [[開示]]). Pronunciat
 
 Next: 衰弱.
 
+### 2026-09-05, iteration 3221 — [[words/衰弱|衰弱]]
+
+衰's own stand-in is this exact compound; 弱's own is [[弱]] itself — transitivity fails, no cranberry. Pronunciation fields (sweinyag/쉐냑/ㄙ⼔ㄧㄋ⼘ㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Filled blank pos. Other fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衰退.
+
+### 2026-09-05, iteration 3222 — [[words/衰退|衰退]]
+
+No cranberry (衰's own stand-in is [[衰弱]], 退's is [[退]] itself). Pronunciation fields (sweitiǝ/쉐틔/ㄙ⼔ㄧㄊㄧㄜ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Removed redundant 品詞. Fixed cantonese stray space and missing stand-in annotation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 袂.
+
+### 2026-09-05, iteration 3223 — [[words/袂|袂]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug; kwin:false already correct. Added missing japanese. Homophone callout with [[弥]] already correctly in place — re-verified, no additional matches. Fixed a missing stand-in annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 袋.
+
+### 2026-09-05, iteration 3224 — [[words/袋|袋]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug; kwin:true already correct. Added missing pos/japanese. Homophone callout with [[大]]/[[台]] already correctly in place — re-verified, checked seven additional candidates, none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 袋鼠.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**

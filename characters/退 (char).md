@@ -58,7 +58,7 @@ boundedness: 80
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[退]]<rt>ㄊㄧㄜ</rt></ruby> "retreat, recede, withdraw"
+- <ruby>[[退]]<rt>ㄊㄧㄜ</rt></ruby> "retreat, recede, withdraw" (stand-in for 退)
 - <ruby>[[辞退]]<rt>ㄑㄧㄊㄧㄜ</rt></ruby> "decline, refuse"
 - <ruby>[[衰退]]<rt>ㄙ⼔ㄧㄊㄧㄜ</rt></ruby> "decline"
 - <ruby>[[退職]]<rt>ㄊㄛㄧㄐㄧㄎ</rt></ruby> "retire, resign"

@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
-- <ruby>[[袂]]<rt>ㄇㄝ</rt></ruby> "sleeve"
+- <ruby>[[袂]]<rt>ㄇㄝ</rt></ruby> "sleeve" (stand-in for 袂)
