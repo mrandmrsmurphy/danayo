@@ -56,3 +56,6 @@ date-last-perfect: 2026-08-23
 - [SKIP-2-3-5](Lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](Lookup/Stroke/Stroke%2008.md))
 - 7750th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄊㄛㄧ](syllables/ㄊㄛㄧ.md)
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Words
+- <ruby>[[苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss, lichen" (stand-in for 苔)

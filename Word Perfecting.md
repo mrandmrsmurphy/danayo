@@ -1019,3 +1019,119 @@ Next: 花栗鼠.
 No cranberry (none of the three constituents' own stand-ins point here). Pronunciation fields (hwalidsyo/화릳쇼/ㄏ⺢ㄌㄧㄊㄙ⼄) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray spaces. Verified japanese シマリス/korean 다람쥐/vietnamese sóc chuột as genuine native terms, not bugs. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 花粉.
+
+### 2026-09-05, iteration 3092 — [[words/花粉|花粉]]
+
+No cranberry. **Found and fixed two real bugs**: `羅馬字`/`諺文` had the 粉/分-confusion misreading (hwabun/화분→hwafun/화뿐), the same class already fixed on [[粉]]/[[粉末]] but which had slipped through here — `注音` had already stayed correct. `kwin` was true, corrected to false per the AND-rule (粉 individually false). Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芳香族.
+
+### 2026-09-05, iteration 3093 — [[words/芳香族|芳香族]]
+
+No cranberry (none of the three constituents' own stand-ins point here). **Found and fixed a real bug**: `羅馬字`/`諺文` had a p-initial reading (panghyangjog/팡향족), mismatching 芳's real f-initial — same ㄈ→ㅍ confusion class as the 福-family bug — corrected to fanghyangjog/빵향족; `注音` had already stayed correct. `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芸人.
+
+### 2026-09-05, iteration 3094 — [[words/芸人|芸人]]
+
+No cranberry (芸's own stand-in is [[芸術]], 人's own is [[人]] itself) — neither constituent legitimized by this word. Pronunciation fields ('enin/어닌/ㄝㄋㄧㄋ) already verified as the correct concatenation, including the null-onset syllable break — no bug. Added missing `kwin: false`. Filled blank korean. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芸妓.
+
+### 2026-09-05, iteration 3095 — [[words/芸妓|芸妓]]
+
+No cranberry (妓's own stand-in is this exact compound, but 芸's own is [[芸術]]) — transitivity fails, though 妓 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('egi/어기/ㄝㄍㄧ) already verified as the correct concatenation, including the null-onset syllable break — no bug. Added missing `kwin: false`. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芸術.
+
+### 2026-09-05, iteration 3096 — [[words/芸術|芸術]]
+
+No cranberry (芸's own stand-in is this exact compound, but 術's own is [[術]] itself) — transitivity fails, though 芸 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('esud/어숟/ㄝㄙㄨㄊ) already verified as the correct concatenation, including the null-onset syllable break — no bug; `kwin: false` already correct. Filled blank pos. Converted comma-joined mandarin (yìshù/yìshu, both genuinely attested, tracking donor 藝 not 芸's own yún) into a proper list. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苔.
+
+### 2026-09-05, iteration 3097 — [[words/苔|苔]]
+
+Single-character stand-in word. Pronunciation fields (toi/퇴/ㄊㄛㄧ) already matched the character's own values — no bug. Added missing pos/japanese/kwin, filled `vietnamese: null`→đài. Checked the one other ㄊㄛㄧ-reading character, 跆 — its own `stand_in` is [[跆籍]], not a self-citation, so no homophone. Fixed a completely missing `## Words` section on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苗族.
+
+### 2026-09-05, iteration 3098 — [[words/苗族|苗族]]
+
+No cranberry (苗's own stand-in is [[種苗]], 族's own is [[家族]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had a wrong final consonant (myaujok→myaujog); `諺文`/`注音` had already stayed correct. `kwin: false` already correct. Filled blank japanese (ミャオ族)/vietnamese (Miêu tộc). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苛刻.
+
+### 2026-09-05, iteration 3099 — [[words/苛刻|苛刻]]
+
+No cranberry (苛's own stand-in is this exact compound, but 刻's own is [[刻印]]) — transitivity fails, though 苛 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (hakug/하쿡/ㄏㄚㄎㄨㄎ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苦土素.
+
+### 2026-09-05, iteration 3100 — [[words/苦土素|苦土素]]
+
+No cranberry. Periodic-table neologism (magnesium). Pronunciation fields (kotoso/코토소/ㄎㄛㄊㄛㄙㄛ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `japanese` had くどそ, a kana spelling of this word's own internal Dan'a'yo reading rather than a real Japanese term — corrected to マグネシウム, matching the established convention already followed by mandarin měi/korean 마그네슘/vietnamese magiê. Removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-05`. **Milestone: 3,100th logged iteration.**
+
+Next: 苦悶.
+
+### 2026-09-05, iteration 3101 — [[words/苦悶|苦悶]]
+
+No cranberry (悶's own stand-in is this exact compound, but 苦's own is [[苦]] itself) — transitivity fails, though 悶 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (komon/코몬/ㄎㄛㄇㄛㄋ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space and a missing "(stand-in for 悶)" annotation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苦渋.
+
+### 2026-09-05, iteration 3102 — [[words/苦渋|苦渋]]
+
+No cranberry (渋's own stand-in is this exact compound, but 苦's own is [[苦]] itself) — transitivity fails, though 渋 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `japanese` had にがい (native "bitter," contaminated from 苦's own gloss) instead of the real compound reading くじゅう; `korean` had 쓰다 (native verb, same contamination) instead of the compositional 고삽. Pronunciation fields (kosib/코십/ㄎㄛㄙㄧㄆ) already verified as the correct concatenation — no bug. Converted comma-joined cantonese into a proper list. Filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苦瓜.
+
+### 2026-09-05, iteration 3103 — [[words/苦瓜|苦瓜]]
+
+No cranberry (苦's own stand-in is [[苦]] itself, 瓜's own is [[胡瓜]]) — neither constituent legitimized by this word. Pronunciation fields (kogwa/코과/ㄎㄛㄍ⺢) already verified as the correct concatenation — no bug; `kwin: false` already correct. Verified japanese にがうり as genuinely compositional from both characters' own native readings (unlike [[苦渋]]'s contamination bug) — not a bug. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 苦痛.
+
+### 2026-09-05, iteration 3104 — [[words/苦痛|苦痛]]
+
+No cranberry (痛's own stand-in is this exact compound, but 苦's own is [[苦]] itself) — transitivity fails, though 痛 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (kotong/코통/ㄎㄛㄊㄛㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英俊.
+
+### 2026-09-05, iteration 3105 — [[words/英俊|英俊]]
+
+No cranberry (英's own stand-in is [[英雄]], 俊's own is [[俊傑]]) — neither constituent legitimized by this word. **Found and fixed two real bugs**: `羅馬字`/`諺文` had a wrong final consonant on 俊's syllable (-ng instead of -n); `注音` had already stayed correct throughout. `japanese` had ひでとし (Hidetoshi), a Japanese given-name reading of the same characters, instead of the real word reading えいしゅん. Filled blank pos/vietnamese. Fixed cantonese's stray space and a missing citation on `characters/俊.md`'s own Words list. No genuine homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英吉利.
+
+### 2026-09-05, iteration 3106 — [[words/英吉利|英吉利]]
+
+No cranberry (none of the three constituents' own stand-ins point here). Pronunciation fields ('enggidliǝ/엉긷릐/ㄝㄫㄍㄧㄊㄌㄧㄜ) already verified as the correct concatenation — no bug. Added missing `kwin: false`. Filled blank korean (영길리, a genuine historical parallel transliteration). As a proper place name, mandarin/japanese/vietnamese legitimately hold the real attested name. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英語.
+
+### 2026-09-05, iteration 3107 — [[words/英語|英語]]
+
+No cranberry (英's own stand-in is [[英雄]], 語's own is [[言語]]) — neither constituent legitimized by this word. Pronunciation fields ('eng'yo/엉요/ㄝㄫ·⼄) already verified as the correct concatenation, including the null-onset syllable break — no bug; `kwin: false` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英語圏.
+
+### 2026-09-05, iteration 3108 — [[words/英語圏|英語圏]]
+
+No cranberry (none of the three constituents' own stand-ins point here; 圏's own stand-in is [[圏]] itself). Pronunciation fields ('eng'yogwen/엉요권/ㄝㄫ⼄ㄍ⼔ㄋ) already verified as the correct concatenation — no bug; `kwin: false` already correct (AND-rule). Fixed cantonese's stray spaces. Vietnamese left blank (no verifiable distinct real term). Removed blank hsk_level/swadesh. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英語学.
+
+### 2026-09-05, iteration 3109 — [[words/英語学|英語学]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields ('eng'yohag/엉요학/ㄝㄫ⼄ㄏㄚㄎ) already verified as the correct concatenation — no bug. Added missing `kwin: false` (AND-rule). Filled blank pos (名詞, matching other `-学` compounds), korean (영어학), vietnamese (Anh ngữ học). Fixed cantonese's stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 英雄.
+
+### 2026-09-05, iteration 3110 — [[words/英雄|英雄]]
+
+英's own stand-in is this exact compound; 雄's own is [[雄]] itself — transitivity fails, no cranberry. Pronunciation fields ('eng'ung/엉웅/ㄝㄫㄨㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct (AND-rule). Filled blank pos (名詞). Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+(Several already-stamped words follow alphabetically — 英語欄/英語辞典-type entries and 苹果 — skipped via the standard unstamped-scan.)
+
+Next: 茄子.
