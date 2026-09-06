@@ -1982,7 +1982,19 @@ No cranberry (親's own stand-in is this exact compound, 戚's own stand-in is [
 ### 2026-09-06, iteration 3260 — [[words/親族|親族]]
 No cranberry (親's own stand-in is [[親戚]], 族's own stand-in is [[家族]]). Pronunciation fields (cinjog/친족/ㄑㄧㄋㄐㄛㄎ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule: both individually true). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 観測.
+### 2026-09-06, iteration 3261 — [[words/観測|観測]]
+No cranberry (観's own stand-in is [[観察]], 測's own stand-in is [[測量]]). **Found and fixed a real bug**: 羅馬字 had gwancig instead of 測's own gwancǝg (諺文/注音 already correct). kwin true already correct (AND-rule: both individually true). Filled blank vietnamese (quan trắc, real standard scientific term) — in passing, added 観's own previously-blank vietnamese reading (quan) to `characters/観.md`. Fixed cantonese stray space, quoted hsk_level. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3262 — [[words/角逐|角逐]]
+No cranberry (角's own stand-in is [[角]] itself, 逐's own stand-in is [[追逐]]). Pronunciation fields (gogdug/곡둑/ㄍㄛㄎㄉㄨㄎ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Converted comma-joined mandarin into a list (角 carries an irregular secondary jué reading here, kept alongside its own jiǎo). Fixed cantonese stray space. Filled blank vietnamese (giác trục, compositional). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3263 — [[words/解|解]]
+Single-character stand-in word (解's own stand-in is 解 itself). Pronunciation fields (gyai/걔/ㄍ⼘ㄧ) already matched the character's own stored reading — no bug. Added missing pos/japanese. Completed a genuine homophone callout already anticipated by [[佳]]'s own page (both share gyai/걔/ㄍ⼘ㄧ) — checked [[街]], which shares the same syllable but isn't independently legitimized, so no callout needed there. Fixed a missing "(stand-in for 解)" citation entirely absent from `characters/解 (char).md`'s own Words list.
+
+### 2026-09-06, iteration 3264 — [[words/解剖|解剖]]
+No cranberry (解's own stand-in is [[解]] itself, 剖's own stand-in is this exact compound). Pronunciation fields (gyaifou/걔뽓/ㄍ⼘ㄧㄈㄛㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+Next: 解放.
 
 **[Milestone: 3,200th logged iteration.]**
 

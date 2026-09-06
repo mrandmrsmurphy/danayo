@@ -49,6 +49,7 @@ boundedness: 100
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[解]]<rt>ㄍ⼘ㄧ</rt></ruby> "explain" (stand-in for 解)
 - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby> "understand"
 - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby> "comprehend; understand"
 - <ruby>[[解放]]<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby> "liberate; free"
