@@ -1806,6 +1806,30 @@ Single-character stand-in word. Pronunciation fields already matched the charact
 
 Next: 袋鼠.
 
+### 2026-09-05, iteration 3225 — [[words/袋鼠|袋鼠]]
+
+No cranberry (袋's own stand-in is [[袋]] itself, 鼠's is [[熊鼠]]). Pronunciation fields (daisyo/대쇼/ㄉㄚㄧㄙ⼄) already verified as the correct concatenation — no bug; kwin:false already correct. Japanese/korean/vietnamese all confirmed genuine real-term substitutions. Fixed cantonese stray space and a missing back-citation on `characters/鼠.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 袖.
+
+### 2026-09-05, iteration 3226 — [[words/袖|袖]]
+
+Single-character stand-in word — closes out the previously-flagged known gap. Pronunciation fields already matched the character's own values — no bug; kwin:false already correct. Added missing pos/japanese. Homophone callout with [[秀]] already correctly in place — re-verified, checked five additional candidates, none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 裁縫.
+
+### 2026-09-05, iteration 3227 — [[words/裁縫|裁縫]]
+
+裁's own stand-in is this exact compound; 縫's own is [[縫製]] — transitivity fails, no cranberry. Pronunciation fields (caibong/채봉/ㄑㄚㄧㄅㄛㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese. Removed redundant 品詞, fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 装置.
+
+### 2026-09-05, iteration 3228 — [[words/装置|装置]]
+
+No cranberry (both 装's and 置's own stand-ins point to themselves). Pronunciation fields (jwangci/좡치/ㄐ⺢ㄫㄑㄧ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese (a coincidental collision with an unrelated word). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 裏面.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
