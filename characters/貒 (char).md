@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-20
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Missing](Lookup/Korean/Korean%20Missing.md)
 
 ## Words
-- <ruby>[[words/貒|貒]]<rt>ㄊ⺢ㄋ</rt></ruby> "wild boar"
+- <ruby>[[貒]]<rt>ㄊ⺢ㄋ</rt></ruby> "wild boar" (stand-in for 貒 (char))

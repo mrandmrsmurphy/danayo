@@ -2257,7 +2257,49 @@ No cranberry (豆's own stand-in is [[豆]] itself, 腐's own stand-in is [[腐�
 ### 2026-09-06, iteration 3351 — [[words/豊富|豊富]]
 **Genuine `#cranberry`** (both 豊's and 富's own stand-ins point here — full transitivity, tag added). **Found and fixed a real bug**: 羅馬字/諺文 had pungbuo/푼붓 instead of the correct pungfuo/풍뿟 (注音 already correct throughout). kwin false already correct (AND-rule). Filled blank vietnamese (phong phú, real standard term). Quoted hsk_level. Both character-page citations already correctly annotated. homophone_check.py found no independent homophones.
 
-Next: 豊尭.
+### 2026-09-06, iteration 3352 — [[words/豊尭|豊尭]]
+Not a literal cranberry (豊's own stand-in is [[豊富]]; 尭's own stand_in field is the forbidden-character placeholder 名専字, so its use here as a borrowed stand-in for its alias 饒 is a documented special case, not a normal cranberry). Pronunciation fields (pung'yau/풍얏/ㄆㄨㄫ⼘ㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (phong nhiêu, using 饒's own real reading). Fixed cantonese stray space. Confirmed stored aliases (豊饒/豐饒/丰饶) are the genuine real spellings using 饒 itself. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3353 — [[words/豚肉|豚肉]]
+No cranberry (豚's own stand-in is [[豚]] itself, 肉's own stand-in is [[肉]] itself). Found and fixed a real bug: 羅馬字 had donnug instead of 豚's own tunnug (諺文/注音 already correct). Mandarin/cantonese/korean/vietnamese legitimately cite the real common words for pork (built on unrelated 豬/猪, matching the [[詞彙]] precedent, not a bug). Found and removed a false alias (豬肉 — a distinct compound on 猪 with its own different reading). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3354 — [[words/象形|象形]]
+No cranberry (象's own stand-in is [[大象]], 形's own stand-in is [[形]] itself). Pronunciation fields (syangheng/샹헝/ㄙ⼘ㄫㄏㄝㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, removed redundant duplicate 品詞. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3355 — [[words/豪傑|豪傑]]
+No cranberry (豪's own stand-in is [[豪華]], 傑's own stand-in is [[傑出]]). Pronunciation fields (hauged/핫걷/ㄏㄚㄨㄍㄝㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Removed blank hsk_level/swadesh. Added missing simplified alias 豪杰. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3356 — [[words/豪洲|豪洲]]
+No cranberry (豪's own stand-in is [[豪華]], 洲's own stand-in is [[洲]] itself). Pronunciation fields (haujuo/핫줏/ㄏㄚㄨㄐㄨㄛ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Mandarin/cantonese/japanese legitimately cite the real (more common) names for Australia, matching the [[詞彙]]/[[豚肉]] precedent. Filled blank vietnamese (Úc). Fixed cantonese stray space. **Found and removed a false alias**: 澳洲 (unrelated character 澳, no vault presence) — kept 豪州 (valid, 州 shares 洲's exact reading) and 濠洲/濠州 (valid, 濠 is 豪's own alias). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3357 — [[words/豪華|豪華]]
+No cranberry (豪's own stand-in is this exact compound, 華's own stand-in is [[華美]]). Pronunciation fields (hauhwa/핫화/ㄏㄚㄨㄏ⺢) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (hào hoa, real standard term). Fixed cantonese stray space, quoted hsk_level, added missing simplified alias 豪华. Removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3358 — [[words/貒|貒]]
+Single-character stand-in word (貒's own stand-in is 貒 itself). Pronunciation fields (twan/퇀/ㄊ⺢ㄋ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed two real bugs**: vietnamese/korean held the literal string "null" — vietnamese removed (genuinely empty ø on the character page), korean corrected to 단. Fixed a malformed non-ruby, unannotated citation on the character page. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3359 — [[words/貝類|貝類]]
+No cranberry (貝's own stand-in is this exact compound, 類's own stand-in is [[種類]]). Pronunciation fields (bailui/배뤼/ㄅㄚㄧㄌㄨㄧ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed three real bugs**: japanese held only かい (missing 類 entirely) → かいるい; korean held 貝's own native gloss 조개 (not compositional) → 배류; vietnamese held ốc ("snail," unrelated) → bối loại (compositional). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3360 — [[words/貞潔|貞潔]]
+No cranberry (貞's own stand-in is this exact compound, 潔's own stand-in is [[清潔]]). Pronunciation fields (tingged/팅걷/ㄊㄧㄫㄍㄝㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule); all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3361 — [[words/貢献|貢献]]
+No cranberry (貢's own stand-in is [[貢品]], 献's own stand-in is [[献上]]). Pronunciation fields (gonghen/공헌/ㄍㄛㄫㄏㄝㄋ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (true, AND-rule). Split comma-joined korean, keeping compositional 공헌 (native 이바지 moved to prose). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3362 — [[words/貧乏|貧乏]]
+No cranberry (貧's own stand-in is this exact compound, 乏's own stand-in is [[欠乏]]). Pronunciation fields (binbab/빈밥/ㄅㄧㄋㄅㄚㄆ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (bần phập). Fixed cantonese stray space, added missing simplified alias. In passing, fixed an empty-string `pos: ""` bug and a missing stand-in citation on `characters/乏.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3363 — [[words/貧窮|貧窮]]
+No cranberry (貧's own stand-in is [[貧乏]], 窮's own stand-in is this exact compound). Pronunciation fields (bingung/빈궁/ㄅㄧㄋㄍㄨㄫ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). **Found and fixed a real bug**: mandarin pinyin ordering typo (pínqíong→pínqióng). Filled blank vietnamese (bần cùng). Fixed cantonese stray space, added missing simplified alias. Fixed a missing "(stand-in for 窮)" annotation on `characters/窮.md`'s own Words list. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3364 — [[words/貨幣|貨幣]]
+No cranberry (貨's own stand-in is [[貨物]], 幣's own stand-in is [[幣]] itself). Pronunciation fields (hwape/화퍼/ㄏ⺢ㄆㄝ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Split comma-joined korean (native 돈 moved to prose). Filled blank vietnamese (hoá tệ). Fixed cantonese stray space, added missing simplified alias 货币. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3365 — [[words/貨物|貨物]]
+No cranberry (貨's own stand-in is this exact compound, 物's own stand-in is [[物]] itself). Found and fixed a real bug: 羅馬字 hwamut→hwamud (諺文/注音 already correct). Added missing kwin (true, AND-rule). Split comma-joined korean, filled blank vietnamese, fixed cantonese stray space, added missing simplified alias. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 販売.
 
 **[Milestone: 3,200th logged iteration.]**
 
