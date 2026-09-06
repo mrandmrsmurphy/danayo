@@ -55,4 +55,4 @@ boundedness: 90
 - pronunciation altered to get a free syllable
 
 ## Words
-- <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter"
+- <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter" (stand-in for 課 (char))

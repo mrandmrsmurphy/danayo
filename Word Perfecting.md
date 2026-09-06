@@ -2174,7 +2174,21 @@ No cranberry (読's own stand-in is [[閲読]], 書's own stand-in is [[書本]]
 ### 2026-09-06, iteration 3324 — [[words/読点|読点]]
 No cranberry (読's own stand-in is [[閲読]], 点's own stand-in is [[点]] itself). Pronunciation fields (dogdem/독덤/ㄉㄛㄎㄉㄝㄇ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank mandarin/cantonese/korean/vietnamese (korean 독점 compositionally coincides with an unrelated real word, not a bug). homophone_check.py found no independent homophones.
 
-Next: 課.
+### 2026-09-06, iteration 3325 — [[words/課|課]]
+Single-character stand-in word (課's own stand-in is 課 itself). Pronunciation fields (kwam/쾀/ㄎ⺢ㄇ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin, filled blank vietnamese (khoá). Fixed a missing "(stand-in for 課 (char))" annotation on the character page's own Words list. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3326 — [[words/調整|調整]]
+No cranberry (調's own stand-in is this exact compound, 整's own stand-in is [[整]] itself). Pronunciation fields (juojeng/줏정/ㄐㄨㄐㄝㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, removed blank hsk_level/swadesh. Confirmed genuine, already reciprocally documented homophone with [[酒精]]. homophone_check.py found no other homophones.
+
+### 2026-09-06, iteration 3327 — [[words/調査|調査]]
+No cranberry (調's own stand-in is [[調整]], 査's own stand-in is this exact compound). Pronunciation fields (juoja/줏자/ㄐㄨㄛㄐㄚ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank korean (조사) and vietnamese (điều tra, real standard term). Fixed cantonese stray space. Removed blank hsk_level/swadesh. Added genuine simplified alias 调查. homophone_check.py found no independent homophones.
+
+**Correction to iteration 3326 ([[調整]])**: while verifying 調査's own reading, discovered that 調整's `注音` had been left ㄐㄨㄐㄝㄫ (missing 調's own ㄛ) — corrected to ㄐㄨㄛㄐㄝㄫ, fixed also on `characters/調.md` and `characters/整 (char).md`'s citations. The same bug independently affected [[酒精]] (a genuine coincidental homophone of 調整 — 酒 shares 調's exact own reading juo/줏/ㄐㄨㄛ) — fixed there too, plus citations on `characters/酒.md` and `characters/精.md`. The homophone relationship between 調整 and 酒精 survives the correction.
+
+### 2026-09-06, iteration 3328 — [[words/諂|諂]]
+Single-character stand-in word (諂's own stand-in is 諂 itself). Pronunciation fields (cem/첨/ㄑㄝㄇ) already matched the character's own stored reading — no bug. Added missing pos/japanese. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to siểm. **Found a genuine, previously undocumented homophone** with [[鹸]] ("base, alkali") — added reciprocal callouts to both pages. homophone_check.py found no other homophones.
+
+Next: 談判.
 
 **[Milestone: 3,200th logged iteration.]**
 

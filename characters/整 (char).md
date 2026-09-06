@@ -58,4 +58,4 @@ boundedness: 45
 ## Words
 - <ruby>[[整斉]]<rt>ㄐㄝㄫㄐㄝㄧ</rt></ruby> "arrange, straighten, rectify, order"
 - <ruby>[[整理]]<rt>ㄐㄝㄫㄐㄧ</rt></ruby> "straighten, arrange, order, tidy"
-- <ruby>[[調整]]<rt>ㄐㄨㄐㄝㄫ</rt></ruby> "adjust, transfer"
+- <ruby>[[調整]]<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby> "adjust, transfer"
