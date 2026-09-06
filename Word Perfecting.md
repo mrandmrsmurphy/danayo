@@ -2215,7 +2215,19 @@ No cranberry (諸's own stand-in is [[諸]] itself, 語's own stand-in is [[言�
 ### 2026-09-06, iteration 3337 — [[words/諺文|諺文]]
 No cranberry (諺's own stand-in is this exact compound, 文's own stand-in is [[文化]]). **Found and fixed a major real bug**: 羅馬字/諺文/注音 had nyenmun/년문/ㄋ⼶ㄋㄇㄨㄋ, not matching 諺's own stored 'en/언/ㄝㄋ at all — corrected to 'enmun/언문/ㄝㄋㄇㄨㄋ, fixed also on `characters/文.md`'s citation. Fixed cantonese stray space. Filled blank vietnamese (ngạn văn). **Found and removed a false alias**: 韩文/韓文 represent a rejected alternative naming (a different character 韓), not orthographic variants, as the body text itself already explained. Flagged `characters/諺.md` as badly under-filled (no Words section despite its own stand_in, stub Notes, likely wrong english gloss) — added the missing stand-in citation, left the rest for a dedicated cleanup pass. homophone_check.py found no independent homophones.
 
-Next: 諾.
+### 2026-09-06, iteration 3338 — [[words/諾|諾]]
+Single-character stand-in word (諾's own stand-in is 諾 itself). Pronunciation fields (nag/낙/ㄋㄚㄎ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to nặc. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3339 — [[words/謀求|謀求]]
+No cranberry (謀's own stand-in is [[謀]] itself, 求's own stand-in is [[要求]]). Pronunciation fields (muogyuo/뭇귯/ㄇㄨㄛㄍ⼜ㄛ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank japanese (ぼうきゅう, compositional). **Found and fixed a real bug**: korean held native/mixed verb forms (꾀하다, 도모하다) instead of compositional 모구 — corrected, kept the originals as prose equivalents. Fixed cantonese stray space. Added missing simplified alias 谋求. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3340 — [[words/謁|謁]]
+Single-character stand-in word (謁's own stand-in is 謁 itself). **Found and fixed a real bug**: 羅馬字 was missing the character's own leading null-onset apostrophe (ed→'ed; 諺文/注音 already correct). Added missing japanese/kwin. In passing, fixed an empty-string `hsk_level: ""` bug on `characters/謁 (char).md` and added it to `lookup/HSK/HSK No.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3341 — [[words/謂之|謂之]]
+No cranberry (謂's own stand-in is [[所謂]], 之's own stand-in is [[之]] itself). Pronunciation fields (witi/위티/ㄨㄧㄊㄧ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank cantonese/korean/japanese/vietnamese, all compositional. Removed redundant duplicate 品詞, fixed mandarin's stray space. Fixed a missing citation on `characters/之 (char).md`'s own Words list. homophone_check.py found no independent homophones.
+
+Next: 謄録.
 
 **[Milestone: 3,200th logged iteration.]**
 

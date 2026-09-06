@@ -981,6 +981,7 @@ tags: [lookup]
 [[瞰]]
 [[甕]]
 [[誅]]
+[[謁 (char)]]
 
 ## Datacheck
 ```base
