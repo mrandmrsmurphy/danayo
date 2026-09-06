@@ -64,6 +64,7 @@ boundedness: 80
 - <ruby>[[水星]]<rt>ㄙㄨㄙㄝㄫ</rt></ruby> "Mercury (planet)"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus, evening star"
+- <ruby>[[行星]]<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby> "planet"
 - <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair, the Cowherd Star"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"

@@ -1666,6 +1666,64 @@ Single-character stand-in word. Pronunciation fields already matched the charact
 
 Next: 蟹.
 
+### 2026-09-05, iteration 3201 — [[words/蟹|蟹]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/kwin/japanese, fixed vietnamese null→giải. **Found a genuine homophone** with [[鞋]] ("shoe") — added reciprocal callout, gave 鞋 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3202 — [[words/鞋|鞋]]
+
+Single-character stand-in word (companion to 蟹's homophone group). All other fields were already correctly filled; removed redundant 品詞. In passing, fixed the 25th empty-string field bug on `characters/鞋 (char).md` (hsk_level). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衆多.
+
+### 2026-09-05, iteration 3203 — [[words/衆多|衆多]]
+
+No cranberry (衆's own stand-in is [[大衆]], 多's is [[多]] itself). **Found and fixed three real bugs**: 羅馬字 jungda had a wrong vowel on 多's syllable (諺文/注音 already correct) → jungdǝ; japanese had a hidden zero-width space (しゅ​うた→しゅうた); korean 많은 was a native gloss, not the Sino-Korean reading (→중다). kwin:false already correct. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衆議.
+
+### 2026-09-05, iteration 3204 — [[words/衆議|衆議]]
+
+No cranberry (衆's own stand-in is [[大衆]], 議's is [[議論]]). **Found and fixed a real bug**: 羅馬字 jung'wi was a recurrence of the resolved 義-family misreading (諺文/注音 already correct) → jung'ǝi. Added missing kwin:true. Other fields confirmed standard and compositional. Filled blank korean/vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衆議院.
+
+### 2026-09-05, iteration 3205 — [[words/衆議院|衆議院]]
+
+No cranberry (none of the three constituents' stand-ins point here). **Found and fixed the same 議-family 羅馬字 bug as [[衆議]]** (jung'wi'wen→jung'ǝi'wen; 諺文/注音 already correct). Added missing kwin:true. Mandarin/japanese confirmed real common terms. Filled blank korean/vietnamese. Fixed cantonese stray spaces (kept tone-sandhi notation). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 行事.
+
+### 2026-09-05, iteration 3206 — [[words/行事|行事]]
+
+No cranberry (both 行's and 事's own stand-ins point to themselves). Pronunciation fields (hangji/항지/ㄏㄚㄫㄐㄧ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional (vietnamese hành sự also a real attested term). Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 行列.
+
+### 2026-09-05, iteration 3207 — [[words/行列|行列]]
+
+No cranberry (行's own stand-in is [[行]] itself, 列's is [[配列]]). Pronunciation fields (hangled/항럳/ㄏㄚㄫㄌㄝㄊ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: japanese ぎやうれつ used obsolete historical kana → modern ぎょうれつ. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 行動.
+
+### 2026-09-05, iteration 3208 — [[words/行動|行動]]
+
+No cranberry (both 行's and 動's own stand-ins point to themselves). Pronunciation fields (hangdong/항동/ㄏㄚㄫㄉㄛㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Fixed cantonese stray space and a missing back-citation on `characters/動 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 行星.
+
+### 2026-09-05, iteration 3209 — [[words/行星|行星]]
+
+No cranberry (both 行's and 星's own stand-ins point to themselves). Pronunciation fields (hangseng/항성/ㄏㄚㄫㄙㄝㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Japanese わくせい confirmed a legitimate real-term substitution (惑星, already an alias). Fixed cantonese stray space and a missing back-citation on `characters/星 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 街区.
+
+### 2026-09-05, iteration 3210 — [[words/街区|街区]]
+
+No cranberry (街's own stand-in is [[街道]], 区's is [[区域]]). Pronunciation fields (gyaiku/걔쿠/ㄍ⼘ㄧㄎㄨ) already verified as the correct concatenation — no bug. Added missing kwin:false. Mandarin/japanese confirmed real common terms. Filled blank cantonese/korean/vietnamese. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 街道.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**

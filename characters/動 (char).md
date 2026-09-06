@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> "animal"
 - <ruby>[[動詞]]<rt>ㄉㄛㄫㄙㄚ</rt></ruby> "verb"
 - <ruby>[[流動]]<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> "flow; spread; circulate"
+- <ruby>[[行動]]<rt>ㄏㄚㄫㄉㄛㄫ</rt></ruby> "act; action"
 - <ruby>[[他動詞]]<rt>ㄊㄚㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
 - <ruby>[[自動詞]]<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby> "intransitive verb"
 - <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"
