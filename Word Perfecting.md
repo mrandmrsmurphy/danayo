@@ -2096,7 +2096,19 @@ No cranberry (詩's own stand-in is this exact compound, 歌's own stand-in is [
 ### 2026-09-06, iteration 3298 — [[words/詩経|詩経]]
 No cranberry (詩's own stand-in is [[詩歌]], 経's own stand-in is [[経]] itself). Pronunciation fields (sigeng/시겅/ㄙㄧㄍㄝㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct, real proper-noun transliterations. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 該.
+### 2026-09-06, iteration 3299 — [[words/該|該]]
+Single-character stand-in word (該's own stand-in is 該 itself). Pronunciation fields (goi/괴/ㄍㄛㄧ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to cai (compositional). homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3300 — [[words/詳細|詳細]]
+No cranberry (詳's own stand-in is this exact compound, 細's own stand-in is [[細]] itself). Pronunciation fields (sangsei/상세/ㄙㄚㄫㄙㄝㄧ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank vietnamese (tường tế, compositional). Fixed cantonese stray space. In passing, fixed a non-standard jyutping romanization (cheung4→coeng4) and converted malformed comma-joined mandarin/vietnamese/aliases fields into proper YAML lists on `characters/詳.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3301 — [[words/誅殺|誅殺]]
+No cranberry (誅's own stand-in is this exact compound, 殺's own stand-in is [[殺]] itself). Pronunciation fields (jusad/주삳/ㄐㄨㄙㄚㄊ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (true, AND-rule). Filled blank vietnamese (tru sát, compositional). Fixed cantonese stray space. In passing, fixed an empty-string `hsk_level: ""` bug on `characters/誅.md` (→ 無) and added it to `lookup/HSK/HSK No.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3302 — [[words/誇示|誇示]]
+No cranberry (誇's own stand-in is [[誇]] itself, 示's own stand-in is [[開示]]). Pronunciation fields (kwage/콰거/ㄎ⺢ㄍㄝ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank cantonese (kwaa1si6) and vietnamese (khoa thị, compositional). Fixed bare-string characters entry. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 認証.
 
 **[Milestone: 3,200th logged iteration.]**
 
