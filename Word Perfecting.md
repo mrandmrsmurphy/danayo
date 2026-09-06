@@ -1453,3 +1453,27 @@ Next: 藍木.
 No cranberry (both 藍's and 木's own stand-ins point to themselves). Pronunciation fields (lammog/람목/ㄌㄚㄇㄇㄛㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Confirmed mandarin/korean legitimately use the reversed real-term order (木藍, already an alias), same pattern as [[薬丸]]. Japanese confirmed a genuine botanical-name substitution. Filled blank cantonese/vietnamese (reversed order). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 藍色.
+
+### 2026-09-05, iteration 3165 — [[words/藍色|藍色]]
+
+No cranberry (藍's own stand-in is [[藍]] itself, 色's is [[色彩]]). Pronunciation fields (lamsig/람식/ㄌㄚㄇㄙㄧㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Japanese confirmed genuine (native-reading compositional, matching -色 convention). **Found and fixed two real bugs**: korean 두음법칙-shifted form → 람색; vietnamese cây chàm (wrong sense, "plant" not "color") → màu chàm. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 藍領.
+
+### 2026-09-05, iteration 3166 — [[words/藍領|藍領]]
+
+No cranberry (藍's own stand-in is [[藍]] itself, 領's is [[領土]]). **Found and fixed two real bugs**: 羅馬字 lamlig missing 領's -ng final (諺文/注音 already correct) → lamling; cantonese leng5 didn't match 領's own ling5 → laam4ling5. kwin:false already correct. Japanese/korean confirmed genuine English-loanword substitutions. Filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蘇連.
+
+### 2026-09-05, iteration 3167 — [[words/蘇連|蘇連]]
+
+No cranberry (蘇's own stand-in is [[蘇生]], 連's is [[連]] itself). Pronunciation fields (solyen/소련/ㄙㄛㄌ⼶ㄋ) already verified as the correct concatenation — no bug; kwin:true already correct. Cantonese confirmed to legitimately use 聯's own reading (real term 蘇聯), just fixed the stray space. **Found and fixed a real bug**: japanese mixed katakana/hiragana (ソれん) → uniform katakana ソレン. Filled blank vietnamese (Liên Xô). Fixed a missing back-citation on `characters/蘇.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蘭月.
+
+### 2026-09-05, iteration 3168 — [[words/蘭月|蘭月]]
+
+No cranberry (蘭's own stand-in is [[蘭花]], 月's is [[月]] itself). Pronunciation fields (lan'wed/란웓/ㄌㄚㄋ·⼔ㄊ) already verified as the correct concatenation — no bug; kwin:false already correct. Korean already correctly unshifted. Japanese らんつき confirmed genuine, matching the on'yomi-only poetic-month precedent set by [[菊月]]. Fixed cantonese stray space, removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蘭花.
