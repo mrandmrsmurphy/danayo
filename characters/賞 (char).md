@@ -49,6 +49,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[賞]]<rt>ㄙ⼘ㄫ</rt></ruby> "reward" (stand-in for 賞 (char))
 - <ruby>[[受賞]]<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby> "win an award"
 
 ## Derived Characters

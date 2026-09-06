@@ -2329,8 +2329,24 @@ Single-character stand-in word (費's own stand-in is 費 itself). Pronunciation
 ### 2026-09-06, iteration 3375 — [[words/貼|貼]]
 Single-character stand-in word (貼's own stand-in is 貼 itself). Pronunciation fields (teb/텁/ㄊㄝㄆ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. homophone_check.py found no independent homophones.
 
-Next: 資本.
+### 2026-09-06, iteration 3376 — [[words/資本|資本]]
+No cranberry (資's own stand-in is this exact compound, 本's own stand-in is [[本]] itself). Pronunciation fields (jiǝbon/즤본/ㄐㄧㄜㄅㄛㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule); all other fields already correct and standard. Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3377 — [[words/賞|賞]]
+Single-character stand-in word (賞's own stand-in is 賞 itself). Pronunciation fields (syang/샹/ㄙ⼘ㄫ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to thưởng. Confirmed existing [[尚]]/[[上]] homophone callouts complete. Fixed a missing "(stand-in for 賞 (char))" citation entirely absent from the character page's own Words list. homophone_check.py found no other homophones.
+
+Next: 賢明.
 
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
+
+### 2026-09-06, iteration 3378 — [[words/賢明|賢明]]
+No cranberry (賢's own stand-in is this exact compound, 明's own stand-in is [[明]] itself). Pronunciation fields (henmyeng/헌명/ㄏㄝㄋㄇ⼶ㄫ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule: 賢 false, 明 true). Added missing cantonese (jin4ming4) and vietnamese (hiền minh). **Found and fixed a real bug**: japanese held a stray trailing quotation mark ("けんめい\"") — corrected to けんめい. Added simplified alias 贤明. homophone_check.py found no independent homophones.
+
+Next: 質問.
+
+### 2026-09-06, iteration 3379 — [[words/質問|質問]]
+No cranberry (問's own stand-in is this exact compound, but 質's own is [[質素]]) — transitivity fails, though 問 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `羅馬字` had jitmun (t-final), mismatching 質's real d-final reading (jid) — `諺文`/`注音` had already stayed correct; `cantonese` held "zhíwèn," garbled Mandarin-pinyin-like text rather than a real Cantonese reading — corrected to zat1man6. Filled blank vietnamese (chất vấn, standard attested term). Removed blank hsk_level/swadesh/aliases, added simplified alias 质问. homophone_check.py found no independent homophones.
+
+Next: 質素.
