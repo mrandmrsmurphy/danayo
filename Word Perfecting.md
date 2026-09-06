@@ -1135,3 +1135,55 @@ Next: 英雄.
 (Several already-stamped words follow alphabetically — 英語欄/英語辞典-type entries and 苹果 — skipped via the standard unstamped-scan.)
 
 Next: 茄子.
+
+### 2026-09-05, iteration 3111 — [[words/茄子|茄子]]
+
+茄's own stand-in is this exact compound; 子's own is [[児子]] — transitivity fails, no cranberry. Pronunciation fields (gajǝ/가즈/ㄍㄚㄐㄜ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (true→false, AND-rule). Fixed cantonese's stray space (kept legitimate tone-sandhi notation). **Removed a stale false-homophone callout** with [[家事]] — the two words' own readings are genuinely different (ㄍㄚㄐㄜ vs ㄍㄚㄐㄧ); 家事's own page already documented the real (cross-system, not same-system) coincidence. No genuine homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茅草.
+
+### 2026-09-05, iteration 3112 — [[words/茅草|茅草]]
+
+茅's own stand-in is this exact compound; 草's own is [[草]] itself — transitivity fails, no cranberry. Pronunciation fields (myaucau/먓찻/ㄇ⼘ㄨㄑㄚㄨ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: japanese held みょう (only half the compound, 草's part entirely missing) — corrected to compositional みょうそう. Fixed cantonese stray space. Vietnamese left blank. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茉莉.
+
+### 2026-09-05, iteration 3113 — [[words/茉莉|茉莉]]
+
+**Genuine `#cranberry`** (both 茉's and 莉's own stand-ins point here, full transitivity; tag already correctly present). Pronunciation fields (madlei/맏레/ㄇㄚㄊㄌㄝㄧ) already verified as the correct concatenation — no bug; kwin:false already correct. All other-language fields confirmed standard, compositional, and genuinely attested. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茎.
+
+### 2026-09-05, iteration 3114 — [[words/茎|茎]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing kwin (false). Filled blank japanese (くき). Added missing alias 莖. **Found a genuine homophone** with [[軽]] ("light, not heavy") — added reciprocal callout, gave 軽 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3115 — [[words/軽|軽]]
+
+Single-character stand-in word (companion to 茎's homophone group). **Found and fixed a real `kwin` bug** (true→false, contradicted the character's own field). Filled blank pos/korean/japanese/vietnamese. Added missing aliases. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茜素.
+
+### 2026-09-05, iteration 3116 — [[words/茜素|茜素]]
+
+No cranberry (茜's own stand-in is [[茜草]], 素's is [[要素]]). Periodic-table neologism (rubidium). Pronunciation fields (censo/천소/ㄑㄝㄋㄙㄛ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Mandarin/cantonese/korean/japanese/vietnamese all confirmed real element-name terms, per established convention. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茫然.
+
+### 2026-09-05, iteration 3117 — [[words/茫然|茫然]]
+
+No cranberry (茫's own stand-in is [[茫茫]], 然's is [[然]] itself). Pronunciation fields (mangnyen/망년/ㄇㄚㄫㄋ⼶ㄋ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed compositional (japanese ぼうぜん = BOU+ZEN). Fixed cantonese stray space, quoted hsk_level. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 茶.
+
+### 2026-09-05, iteration 3118 — [[words/茶|茶]]
+
+Single-character stand-in word (previously-flagged known gap: old bare-string `characters`, `vietnamese: null`, no pos/kwin/japanese). Pronunciation fields already matched the character's own values — no bug. Added missing kwin (false). Fixed `vietnamese: null` → trà (avoided chè, which means "dessert soup" in Southern usage). Filled blank japanese (ちゃ). **Found a genuine homophone** with [[者]] (agentive suffix "-er") — added reciprocal callout. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 草原.
+
+### 2026-09-05, iteration 3119 — [[words/草原|草原]]
+
+No cranberry (草's own stand-in is [[草]] itself, 原's is [[原始]]). Pronunciation fields (cau'wen/찻원/ㄑㄚㄨ·⼔ㄋ) already verified as the correct concatenation, including the null-onset syllable break — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 草木.
