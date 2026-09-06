@@ -60,6 +60,6 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[葉]]<rt>⼄ㄆ</rt></ruby> "leaf"
+- <ruby>[[葉]]<rt>⼄ㄆ</rt></ruby> "leaf" (stand-in for 葉)
 - <ruby>[[枝葉]]<rt>ㄐㄝ⼄ㄆ</rt></ruby> "branches and leaves; trivial details"
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"

@@ -1289,3 +1289,27 @@ Next: 落下傘.
 No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (lakhasan/락하산/ㄌㄚㄎㄏㄚㄙㄚㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Confirmed mandarin/cantonese legitimately track the real distinct term 降落伞. **Found and fixed two real bugs**: japanese らくかさん missing well-established 促音便 gemination → らっかさん; korean 낙하산 was 두음법칙-shifted → 락하산 (unshifted North Korean form, per standing rule). Fixed cantonese stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 落花.
+
+### 2026-09-05, iteration 3137 — [[words/落花|落花]]
+
+No cranberry (落's own stand-in is [[落下]], 花's is [[草花]]). Pronunciation fields (laghwa/락화/ㄌㄚㄎㄏ⺢) already verified as the correct concatenation — no bug. Added missing kwin:true. **Found and fixed a real bug**: korean comma-joined "락화,낙화" mixed the correct unshifted form with a 두음법칙-shifted variant — trimmed to 락화. Japanese らっか confirmed genuine (real-world homograph coincidence with 落下, not a Dan'a'yo-internal homophone). Filled blank vietnamese (lạc hoa, a real classical term). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 葉.
+
+### 2026-09-05, iteration 3138 — [[words/葉|葉]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. **Found and fixed a real bug**: korean 섭 (belonging to a different character) → 엽 (matching the character's own stored value). Added missing pos/kwin/japanese, filled blank vietnamese. Fixed a missing stand-in annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 葛.
+
+### 2026-09-05, iteration 3139 — [[words/葛|葛]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Fixed `vietnamese: null` → cát. Added missing pos/kwin/japanese. Fixed missing stand-in annotation on char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 葡萄.
+
+### 2026-09-05, iteration 3140 — [[words/葡萄|葡萄]]
+
+**Genuine `#cranberry`** (both 葡's and 萄's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (bodau/보닷/ㄅㄛㄉㄚㄨ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: cantonese "pu2 tao2" was invalid romanization matching neither character's own jyutping — corrected to pou4tou4. Other fields confirmed standard and compositional. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 葡萄牙.

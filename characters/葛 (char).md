@@ -48,4 +48,4 @@ date-last-perfect: 2026-08-18
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
-- <ruby>[[葛]]<rt>ㄍ⼘ㄊ</rt></ruby> "kudzu"
+- <ruby>[[葛]]<rt>ㄍ⼘ㄊ</rt></ruby> "kudzu" (stand-in for 葛)
