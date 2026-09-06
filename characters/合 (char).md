@@ -68,6 +68,7 @@ boundedness: 100
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[結合]]<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby> "combine; unite"
 - <ruby>[[合成]]<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby> "synthesis; compound"
+- <ruby>[[融合]]<rt>⼜ㄫㄍㄛㄆ</rt></ruby> "fuse, blend, integrate"
 
 ## Chengyu
 - [合漢再決](chengyu/合漢再決.md)

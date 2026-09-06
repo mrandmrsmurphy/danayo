@@ -1612,4 +1612,34 @@ Next: 蝙蝠.
 
 Next: 蝸牛.
 
+### 2026-09-05, iteration 3192 — [[words/蝸牛|蝸牛]]
+
+蝸's own stand-in is this exact compound; 牛's own is [[牛]] itself — transitivity fails, no cranberry. Pronunciation fields (gwanyu/과뉴/ㄍ⺢ㄋ⼜) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin dual reading converted to list. Japanese/vietnamese confirmed genuine real terms. Fixed cantonese stray space and a missing Words section on `characters/蝸.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 融.
+
+### 2026-09-05, iteration 3193 — [[words/融|融]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug; kwin:true already correct. Added missing pos/japanese, filled blank vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 融化.
+
+### 2026-09-05, iteration 3194 — [[words/融化|融化]]
+
+No cranberry (both 融's and 化's own stand-ins point to themselves). Pronunciation fields ('yunghwa/융화/⼜ㄫㄏ⺢) already verified as the correct concatenation — no bug; kwin:true already correct. Other fields confirmed standard and compositional. Fixed an english typo, filled blank pos/vietnamese, fixed cantonese stray space, quoted hsk_level. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 融合.
+
+### 2026-09-05, iteration 3195 — [[words/融合|融合]]
+
+No cranberry (both 融's and 合's own stand-ins point to themselves) — closes out this previously-flagged known gap. Pronunciation fields ('yunggob/융곱/⼜ㄫㄍㄛㄆ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank pos/vietnamese, fixed cantonese stray space and a missing back-citation on `characters/合 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 融資.
+
+### 2026-09-05, iteration 3196 — [[words/融資|融資]]
+
+No cranberry (融's own stand-in is [[融]] itself, 資's is [[資本]]). **Found and fixed a real bug**: 羅馬字/諺文 'yongjiǝ/용즤 had a wrong vowel on 融's own syllable (注音 already correct) → 'yungjiǝ/융즤. kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 螳螂.
+
 **[Milestone: 3,170th logged iteration.]**
