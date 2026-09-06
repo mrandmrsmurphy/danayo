@@ -1955,7 +1955,34 @@ No cranberry (要's own stand-in is [[重要]], 約's own stand-in is [[約束]]
 ### 2026-09-06, iteration 3251 — [[words/要素|要素]]
 No cranberry (要's own stand-in is [[重要]]; 素's own stand-in is [[要素]] itself, but transitivity fails since 要's doesn't match — one-sided legitimization, not cranberry). Pronunciation fields ('youso/욧소/⼄ㄨㄙㄛ) already matched the straightforward concatenation — no bug. kwin AND-rule (要 false, 素 true → false) already correct. **Found and fixed a real bug**: japanese had えうそ, obsolete historical kana — corrected to modern ようそ. Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 覆蓋.
+### 2026-09-06, iteration 3252 — [[words/覆蓋|覆蓋]]
+**Genuine `#cranberry`** (both 覆's and 蓋's own stand-ins point to this exact compound — full transitivity). **Found and fixed a real bug**: 羅馬字/諺文 had puggai/푹개 instead of 覆's own fug/뿍 (注音 already correct — same failure class as the earlier 福-family voiced/voiceless confusion bug). Filled blank korean (복개) and vietnamese (phủ cái, compositional). Converted comma-joined cantonese into a proper list (all three attested real readings). Added missing kwin (false, AND-rule). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3253 — [[words/覇権|覇権]]
+No cranberry (覇's own stand-in is this exact compound; 権's own stand-in is [[権利]]). Pronunciation fields (bagwen/바권/ㄅㄚㄍ⼔ㄋ) already matched the straightforward concatenation — no bug. kwin AND-rule (覇 false, 権 true → false) already correct. Fixed cantonese stray space. Filled blank vietnamese (bá quyền, real standard term). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3254 — [[words/規則|規則]]
+No cranberry (規's own stand-in is [[規律]], 則's own stand-in is [[法則]]). Pronunciation fields (guijug/귀죽/ㄍㄨㄧㄐㄨㄎ) already matched the straightforward concatenation — no bug. kwin AND-rule (both false → false) already correct. **Found and fixed a real bug**: stray body text wrongly claimed this word was 則's stand-in legitimizer (same failure mode as 禍害's earlier fix) — removed, replaced with proper Notes. Fixed cantonese stray space, removed blank hsk_level/swadesh, and a typo ("principial"→"principle") on `characters/則.md`'s own citation. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3255 — [[words/視|視]]
+Single-character stand-in word (視's own stand-in is 視 itself). Pronunciation fields (siǝ/싀/ㄙㄧㄜ) already matched the character's own stored reading — no bug. Added missing pos/kwin/japanese. homophone_check.py confirmed existing [[四]]/[[矢]] callouts complete — several other characters (師/死/氏/獅/私/肆/諡) share this syllable but none has its own independently legitimized word page.
+
+### 2026-09-06, iteration 3256 — [[words/視覚|視覚]]
+No cranberry (視's own stand-in is [[視]] itself, 覚's own stand-in is [[感覚]]). Pronunciation fields (siǝgag/싀각/ㄙㄧㄜㄍㄚㄎ) already matched the straightforward concatenation — no bug. kwin AND-rule (視 false, 覚 true → false) already correct. Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3257 — [[words/覚醒|覚醒]]
+No cranberry (覚's own stand-in is [[感覚]], 醒's own stand-in is this exact compound). Pronunciation fields (gagseng/각성/ㄍㄚㄎㄙㄝㄫ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (true, AND-rule: both constituents individually true). Filled blank korean (각성) and vietnamese (giác tỉnh, compositional). Converted comma-joined cantonese into a proper list (both attested real readings). Removed blank hsk_level/swadesh. Fixed a grammar typo ("be disillusion"→"be disillusioned") propagated on both character pages' citations — caught and corrected an accidental duplicate line created while fixing `characters/覚.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3258 — [[words/親切|親切]]
+No cranberry (親's own stand-in is [[親戚]], 切's own stand-in is [[切]] itself). **Found and fixed two real bugs**: 羅馬字 had cincet instead of 切's own cinced (諺文/注音 already correct); vietnamese held the literal placeholder "2" — corrected to thân thiết (compositional, also the real standard term). kwin false already correct (AND-rule: 親 true, 切 false). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3259 — [[words/親戚|親戚]]
+No cranberry (親's own stand-in is this exact compound, 戚's own stand-in is [[哀戚]]). Pronunciation fields (cinceg/친척/ㄑㄧㄋㄑㄝㄎ) already matched the straightforward concatenation — no bug. **Found and fixed two real bugs**: kwin was stored false despite both constituents individually true — corrected to true; korean had 차척 instead of compositional/real 친척. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3260 — [[words/親族|親族]]
+No cranberry (親's own stand-in is [[親戚]], 族's own stand-in is [[家族]]). Pronunciation fields (cinjog/친족/ㄑㄧㄋㄐㄛㄎ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule: both individually true). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 観測.
 
 **[Milestone: 3,200th logged iteration.]**
 
