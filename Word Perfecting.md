@@ -1884,6 +1884,34 @@ No cranberry (複's own stand-in is [[重複]], 数's is [[計数]]). Pronunciat
 
 Next: 褐.
 
+### 2026-09-05, iteration 3238 — [[words/褐|褐]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Fixed vietnamese null→hạt. Added missing pos/japanese. **Found a genuine homophone** with [[轄]] ("linchpin, control") — added reciprocal callout, gave 轄 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3239 — [[words/轄|轄]]
+
+Single-character stand-in word (companion to 褐's homophone group). Added missing japanese. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 褐金.
+
+### 2026-09-05, iteration 3240 — [[words/褐金|褐金]]
+
+No cranberry (both 褐's and 金's own stand-ins point to themselves). Periodic-table neologism (holmium). Pronunciation fields (hadgim/핟김/ㄏㄚㄊㄍㄧㄇ) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin/cantonese confirmed to track the real modern element name 钬; korean/japanese/vietnamese all genuine transliterations. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 褒.
+
+### 2026-09-05, iteration 3241 — [[words/褒|褒]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug; kwin:false already correct. Confirmed the unusual-looking 諺文 팟 (vowel-final syllable with a batchim) is the vault's established consistent convention, matching both the character page and the syllable master page — not a bug. Added missing pos/japanese. Fixed vietnamese null→bao. Checked three candidate homophones — none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西北.
+
+### 2026-09-05, iteration 3242 — [[words/西北|西北]]
+
+No cranberry (西's own stand-in is [[西方]], 北's is [[北方]]). Pronunciation fields (seibug/세북/ㄙㄝㄧㄅㄨㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional (vietnamese tây bắc also a real region name). Fixed cantonese stray space, quoted hsk_level. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西方.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
