@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- [諦](words/諦.md) "truth (Buddhist)" — 諦 stands alone as a word in Dan'a'yo.
+- <ruby>[[諦]]<rt>ㄊㄝㄧ</rt></ruby> "truth (Buddhist)" (stand-in for 諦 (char))

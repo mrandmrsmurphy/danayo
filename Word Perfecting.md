@@ -2188,7 +2188,22 @@ No cranberry (調's own stand-in is [[調整]], 査's own stand-in is this exact
 ### 2026-09-06, iteration 3328 — [[words/諂|諂]]
 Single-character stand-in word (諂's own stand-in is 諂 itself). Pronunciation fields (cem/첨/ㄑㄝㄇ) already matched the character's own stored reading — no bug. Added missing pos/japanese. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to siểm. **Found a genuine, previously undocumented homophone** with [[鹸]] ("base, alkali") — added reciprocal callouts to both pages. homophone_check.py found no other homophones.
 
-Next: 談判.
+### 2026-09-06, iteration 3329 — [[words/談判|談判]]
+No cranberry (談's own stand-in is [[談話]], 判's own stand-in is [[判断]]). Pronunciation fields (dampan/담판/ㄉㄚㄇㄆㄚㄋ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, filled blank aliases (谈判). Removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3330 — [[words/請|請]]
+Single-character stand-in word (請's own stand-in is 請 itself). Pronunciation fields (cing/칭/ㄑㄧㄫ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed a real bug**: vietnamese held the literal string "null" — corrected to thỉnh. **Found a genuine, previously undocumented homophone** with [[逞]] ("indulge, brag") — added reciprocal callouts to both pages, plus a missing "(stand-in for 請 (char))" citation entirely absent from the character page's own Words list. Checked five other candidates (情/懲/晴/清/称), none independently legitimized.
+
+### 2026-09-06, iteration 3331 — [[words/諒解|諒解]]
+No cranberry (諒's own stand-in is this exact compound, 解's own stand-in is [[解]] itself). Pronunciation fields (lyanggyai/량걔/ㄌ⼘ㄫㄍ⼘ㄧ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, filled blank aliases (谅解). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3332 — [[words/論争|論争]]
+No cranberry (論's own stand-in is [[理論]], 争's own stand-in is [[抗争]]). Pronunciation fields (lonjang/론장/ㄌㄛㄋㄐㄚㄫ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). **Found and fixed real bugs**: korean was a comma-joined mixed-form string (논쟁,쟁론) — reformatted to a list and corrected the first value's 두음법칙-shifted 논 to the vault's standing North Korean 론 (론쟁), kept 쟁론 as a genuine reversed-order alternate reading; aliases wrongly listed 爭論/争论 (would be a distinct compound with a different reading, janglon not lonjang) — kept only genuine 論爭, same false-alias pattern as [[言語]]'s earlier fix. Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3333 — [[words/諦|諦]]
+Single-character stand-in word (諦's own stand-in is 諦 itself). Pronunciation fields (tei/테/ㄊㄝㄧ) already matched the character's own stored reading — no bug. Added missing japanese/kwin. Confirmed existing [[締]]/[[剃]] homophone callouts complete. Fixed a malformed non-ruby, unannotated Words-list citation on the character page. homophone_check.py confirmed no other homophones.
+
+Next: 諭示.
 
 **[Milestone: 3,200th logged iteration.]**
 
