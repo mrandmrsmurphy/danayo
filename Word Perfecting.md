@@ -1371,3 +1371,31 @@ Single-character stand-in word. Pronunciation fields already matched the charact
 Single-character stand-in word (companion to 蓄's homophone group). Fixed `vietnamese: null` → xúc. Added missing pos/kwin/japanese. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 蓬藁.
+
+### 2026-09-05, iteration 3151 — [[words/蓬藁|蓬藁]]
+
+蓬's own stand-in is this exact compound; 藁 is used as a `借代字` for the pageless 蒿, so 蓬藁 represents 蓬蒿 (already an alias). **Found and fixed two real bugs**: 羅馬字/諺文 (bonggao/봉, the latter truncated) both failed to match 注音's already-correct ㄅㄛㄫㄏㄚㄨ — corrected to bonghau/봉핫. **Found and fixed a real `kwin` bug** (true→false, AND-rule: 藁's own field is false). Confirmed mandarin/cantonese/japanese/korean all correctly use 蒿's own real reading, not 藁's — no bug there. Filled blank vietnamese (bồng cao). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蓮.
+
+### 2026-09-05, iteration 3152 — [[words/蓮|蓮]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Fixed `vietnamese: null` → liên. Added missing pos/kwin/japanese. **Found a genuine homophone** with [[連]] ("mutual, successive") — added reciprocal callout, gave 連 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3153 — [[words/連|連]]
+
+Single-character stand-in word (companion to 蓮's homophone group). All fields were already correctly filled; fixed double-spaced japanese, removed redundant 品詞. Fixed a missing stand-in annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蕃息.
+
+### 2026-09-05, iteration 3154 — [[words/蕃息|蕃息]]
+
+蕃's own stand-in is this exact compound; 息's own is [[気息]] — transitivity fails, no cranberry. Pronunciation fields (fansig/빤식/ㄈㄚㄋㄙㄧㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese (phồn tức). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蕤素.
+
+### 2026-09-05, iteration 3155 — [[words/蕤素|蕤素]]
+
+No cranberry (蕤's own stand-in is [[萎蕤]], 素's is [[要素]]). Periodic-table neologism (thallium). Pronunciation fields (nuiso/뉘소/ㄋㄨㄧㄙㄛ) already verified as the correct concatenation — no bug. Real-language fields confirmed genuine element-name terms. Removed redundant 品詞. In passing, fixed the 23rd empty-string field bug (`characters/蕤.md` vietnamese) and added its missing kwin (false, computed from its own reading vs. Korean mismatch). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蕪青.

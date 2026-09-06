@@ -50,7 +50,7 @@ boundedness: 90
 - As in Japanese, we officially merge 聯/联 into this character — hence 連合 not 聯合, 連盟 not 聯盟, 国連 not 國聯, 連邦 not 聯邦.
 
 ## Words
-- <ruby>[[連]]<rt>ㄌ⼶ㄋ</rt></ruby> "mutual, successive"
+- <ruby>[[連]]<rt>ㄌ⼶ㄋ</rt></ruby> "mutual, successive" (stand-in for 連)
 - <ruby>[[連日]]<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby> "successive days"
 - <ruby>[[連週]]<rt>ㄌ⼶ㄋㄐㄨㄛ</rt></ruby> "week after week"
 - <ruby>[[連月]]<rt>ㄌ⼶ㄋ⼔ㄊ</rt></ruby> "month after month"
