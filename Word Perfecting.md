@@ -2021,7 +2021,19 @@ No cranberry (討's own stand-in is this exact compound, 論's own stand-in is [
 ### 2026-09-06, iteration 3273 — [[words/記者|記者]]
 No cranberry (記's own stand-in is [[記憶]], 者's own stand-in is [[者]] itself). Pronunciation fields (gica/기차/ㄍㄧㄑㄚ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (ký giả, real standard term). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 記載.
+### 2026-09-06, iteration 3274 — [[words/記載|記載]]
+No cranberry (記's own stand-in is [[記憶]], 載's own stand-in is [[載]] itself). Pronunciation fields (gijai/기재/ㄍㄧㄐㄚㄧ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank vietnamese (ký tải, compositional, same ký- pattern as [[記者]]/[[記憶]]). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3275 — [[words/記録|記録]]
+No cranberry (記's own stand-in is [[記憶]], 録's own stand-in is [[抄録]]). Pronunciation fields (gilog/기록/ㄍㄧㄌㄛㄎ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). **Found and fixed a real bug**: stray body text wrongly claimed this word was the stand-in for both 記 and 録 — neither is true (same failure mode as 規則's earlier fix). Filled blank vietnamese (ký lục). Fixed cantonese stray space. Removed blank hsk_level/swadesh. Confirmed stored aliases are genuine real orthographic variants. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3276 — [[words/訥|訥]]
+Single-character stand-in word (訥's own stand-in is 訥 itself). Pronunciation fields (nod/녿/ㄋㄛㄊ) already matched the character's own stored reading — no bug. Added missing kwin/japanese, fixed bare-string characters format. Fixed a missing "(stand-in for 訥 (char))" annotation on `characters/訥 (char).md`'s own Words list. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3277 — [[words/訪問|訪問]]
+No cranberry (訪's own stand-in is this exact compound, 問's own stand-in is [[質問]]). **Found and fixed a real bug**: 羅馬字/諺文 had pangmun/팡문 instead of 訪's own fangmun/빵문 (注音 already correct — same failure class as the 福/覆蓋/解放-family voiced/voiceless confusion bug). kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, removed blank swadesh. homophone_check.py found no independent homophones.
+
+Next: 設備.
 
 **[Milestone: 3,200th logged iteration.]**
 

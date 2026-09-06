@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](lookup/Korean/Korean%20Name%20ㄴ.md)
 
 ## Words
-- <ruby>[[訥]]<rt>ㄋㄛㄊ</rt></ruby> "mumble; stammer"
+- <ruby>[[訥]]<rt>ㄋㄛㄊ</rt></ruby> "mumble; stammer" (stand-in for 訥 (char))
