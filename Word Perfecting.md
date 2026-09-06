@@ -1564,4 +1564,28 @@ Single-character stand-in word (companion to 蛍's homophone group). Added missi
 
 Next: 蛭.
 
+### 2026-09-05, iteration 3184 — [[words/蛭|蛭]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/kwin/japanese. Fixed `vietnamese: null` → điệt. Homophone callout with [[直]]/[[膣]] (three-way group) already correctly in place — re-verified with no additional matches (checked 嫉/疾/質). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蛮人.
+
+### 2026-09-05, iteration 3185 — [[words/蛮人|蛮人]]
+
+蛮's own stand-in is this exact compound; 人's own is [[人]] itself — transitivity fails, no cranberry. Pronunciation fields (mannin/만닌/ㄇㄚㄋㄋㄧㄋ) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin/japanese confirmed real common terms; korean confirmed a coincidental homophone with an unrelated word. Filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蜘蛛.
+
+### 2026-09-05, iteration 3186 — [[words/蜘蛛|蜘蛛]]
+
+**Genuine `#cranberry`** (both 蜘's and 蛛's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (jiju/지주/ㄐㄧㄐㄨ) already verified as the correct concatenation — no bug; kwin:true already correct. **Found and fixed two real bugs**: cantonese z1 zyu1 was malformed (missing a vowel) → zi1zyu1; japanese ちしゅ,ちちゅ was an inconsistent partial-on'yomi guess → くも, the real standard word for "spider." Korean/vietnamese confirmed compositional. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蜜月.
+
+### 2026-09-05, iteration 3187 — [[words/蜜月|蜜月]]
+
+No cranberry (蜜's own stand-in is [[蜂蜜]], 月's is [[月]] itself). **Found and fixed a real bug**: 羅馬字 mid'wet had a wrong final consonant on 月's syllable (諺文/注音 already correct) → mid'wed. **Found and fixed a real `kwin` bug** (true→false, AND-rule). Other fields confirmed standard and compositional (all real common terms). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蜜柑.
+
 **[Milestone: 3,170th logged iteration.]**
