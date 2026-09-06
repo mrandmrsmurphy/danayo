@@ -1187,3 +1187,33 @@ Next: 草原.
 No cranberry (草's own stand-in is [[草]] itself, 原's is [[原始]]). Pronunciation fields (cau'wen/찻원/ㄑㄚㄨ·⼔ㄋ) already verified as the correct concatenation, including the null-onset syllable break — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 草木.
+
+### 2026-09-05, iteration 3120 — [[words/草木|草木]]
+
+No cranberry (both 草's and 木's own stand-ins point to themselves). Pronunciation fields (caumog/찻목/ㄑㄚㄨㄇㄛㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional. Filled blank vietnamese (thảo mộc, a real common word). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 荷担.
+
+### 2026-09-05, iteration 3121 — [[words/荷担|荷担]]
+
+担's own stand-in is this exact compound; 荷's own is [[荷物]] — transitivity fails, no cranberry. Pronunciation fields (hadam/하담/ㄏㄚㄉㄚㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (true→false, AND-rule). Confirmed mandarin hèdān's tone alternation (hè "carry" vs hé "lotus") is genuine, not a bug. Filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 荷月.
+
+### 2026-09-05, iteration 3122 — [[words/荷月|荷月]]
+
+No cranberry (荷's own stand-in is [[荷物]], 月's is [[月]] itself). Pronunciation fields (ha'wed/하웓/ㄏㄚ·⼔ㄊ) already verified as the correct concatenation — no bug. Japanese はすつき confirmed genuine, matching the established poetic-month convention (native kun'yomi descriptor + つき, see 桃月/榴月/杏月/桂月/槐月). Fixed cantonese stray space, removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 荷物.
+
+### 2026-09-05, iteration 3123 — [[words/荷物|荷物]]
+
+荷's own stand-in is this exact compound; 物's own is [[物]] itself — transitivity fails, no cranberry. Pronunciation fields (hamud/하묻/ㄏㄚㄇㄨㄊ) already verified as the correct concatenation — no bug. Added missing `kwin: true` (AND-rule). Filled blank cantonese/korean/vietnamese (하물 confirmed a real Sino-Korean cargo term). Genuine homophone with [[何物]] already documented on both sides; standardized the callout format. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 莱金.
+
+### 2026-09-05, iteration 3124 — [[words/莱金|莱金]]
+
+No cranberry (莱's own stand-in is [[蓬莱]], 金's is [[金]] itself). Periodic-table neologism (rhenium). Pronunciation fields (laigim/래김/ㄌㄚㄧㄍㄧㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Mandarin/cantonese confirmed to match the real element name 铼; korean/japanese/vietnamese all genuine international transliterations. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菊.
