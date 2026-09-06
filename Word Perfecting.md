@@ -2299,7 +2299,19 @@ No cranberry (貨's own stand-in is [[貨物]], 幣's own stand-in is [[幣]] it
 ### 2026-09-06, iteration 3365 — [[words/貨物|貨物]]
 No cranberry (貨's own stand-in is this exact compound, 物's own stand-in is [[物]] itself). Found and fixed a real bug: 羅馬字 hwamut→hwamud (諺文/注音 already correct). Added missing kwin (true, AND-rule). Split comma-joined korean, filled blank vietnamese, fixed cantonese stray space, added missing simplified alias. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 販売.
+### 2026-09-06, iteration 3366 — [[words/販売|販売]]
+**Genuine `#cranberry`** (both 販's and 売's own stand-ins point here — full transitivity, already correctly tagged). Found and fixed a real bug: 羅馬字 bonmai→fonmai (諺文/注音 already correct). Filled blank vietnamese (phán mại) — in passing added 売's own previously-blank vietnamese (mại) to its character page, plus a missing "(stand-in for both 販 and 売)" annotation matching 販's own citation. Fixed cantonese stray space. Confirmed stored aliases are genuine real orthographic variants. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3367 — [[words/貪官|貪官]]
+No cranberry (貪's own stand-in is [[貪]] itself, 官's own stand-in is [[官人]]). Pronunciation fields (tamgwan/탐관/ㄊㄚㄇㄍ⺢ㄋ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank pos (名詞) and vietnamese (tham quan). Fixed cantonese stray space. **Found and fixed a real bug**: aliases wrongly self-listed the word's own headword (貪官) as its own alias — removed, kept genuine simplified 贪官. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3368 — [[words/貪林|貪林]]
+Not a cranberry (貪's own stand-in is [[貪]] itself; 林's own stand_in is 林 itself, so its use here as borrowed stand-in for alias 婪 is a documented special case, not a cranberry). Pronunciation fields (tamlim/탐림/ㄊㄚㄇㄌㄧㄇ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Confirmed real-language fields legitimately cite 婪's own readings (not 林's), matching the [[豊尭]] precedent. Fixed cantonese stray space, fixed a real spelling typo (avacious→avaricious). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3369 — [[words/責任|責任]]
+**Genuine `#cranberry`** (both 責's and 任's own stand-ins point here — full transitivity, tag added). Pronunciation fields (jagnim/작님/ㄐㄚㄎㄋㄧㄇ) already matched the straightforward concatenation — no bug. Fixed cantonese stray space, added missing simplified alias 责任. Fixed a missing "(stand-in for 責)" annotation on `characters/責.md`'s own Words list. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 貯蔵.
 
 **[Milestone: 3,200th logged iteration.]**
 
