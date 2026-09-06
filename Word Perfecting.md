@@ -1399,3 +1399,27 @@ Next: 蕤素.
 No cranberry (蕤's own stand-in is [[萎蕤]], 素's is [[要素]]). Periodic-table neologism (thallium). Pronunciation fields (nuiso/뉘소/ㄋㄨㄧㄙㄛ) already verified as the correct concatenation — no bug. Real-language fields confirmed genuine element-name terms. Removed redundant 品詞. In passing, fixed the 23rd empty-string field bug (`characters/蕤.md` vietnamese) and added its missing kwin (false, computed from its own reading vs. Korean mismatch). No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 蕪青.
+
+### 2026-09-05, iteration 3156 — [[words/蕪青|蕪青]]
+
+蕪's own stand-in is this exact compound; 青's own is [[青]] itself — transitivity fails, no cranberry. Here 青 stands in for its own alias 菁, matching the classical etymology 蕪菁. Pronunciation fields (muceng/무청/ㄇㄨㄑㄝㄫ) already verified as the correct concatenation — no bug; kwin:true already correct. Japanese かぶら confirmed a legitimate real-term substitution (matching 蕪's own native reading). Filled blank vietnamese (vu thanh). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薄命.
+
+### 2026-09-05, iteration 3157 — [[words/薄命|薄命]]
+
+No cranberry (薄's own stand-in is [[希薄]], 命's is [[運命]]). Pronunciation fields (bagmyeng/박명/ㄅㄚㄎㄇ⼶ㄫ) already verified as the correct concatenation — no bug; kwin:true already correct. Other-language fields confirmed standard and compositional (vietnamese matching the famous idiom hồng nhan bạc mệnh). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薄弱.
+
+### 2026-09-05, iteration 3158 — [[words/薄弱|薄弱]]
+
+No cranberry (薄's own stand-in is [[希薄]], 弱's is [[弱]] itself). **Found and fixed a real bug**: 注音 had a wrong final consonant on 弱's syllable (ㄫ instead of ㄎ) — 羅馬字/諺文 had already stayed correct (reverse of the usual pattern). Fixed matching rt-tags on both `characters/薄.md` and `characters/弱 (char).md`. kwin:false already correct. Other fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薄荷.
+
+### 2026-09-05, iteration 3159 — [[words/薄荷|薄荷]]
+
+No cranberry (薄's own stand-in is [[希薄]], 荷's is [[荷物]]). Pronunciation fields (bagha/박하/ㄅㄚㄎㄏㄚ) already verified as the correct concatenation — no bug; kwin:true already correct. Mandarin bòhe confirmed using 薄's special reading, genuine. **Found and fixed a real bug**: japanese はくか missing 促音便 gemination → はっか (same class as [[落下傘]]/落下). Korean/vietnamese confirmed real standard terms. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薔薇.

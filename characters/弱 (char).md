@@ -54,7 +54,7 @@ boundedness: 80
 - <ruby>[[弱]]<rt>ㄋ⼘ㄎ</rt></ruby> "weak" (stand-in for 弱)
 - <ruby>[[羸弱]]<rt>ㄌㄨㄧㄋ⼘ㄎ</rt></ruby> "frail; weak"
 - <ruby>[[衰弱]]<rt>ㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "to fall away; waste away; weaken"
-- <ruby>[[薄弱]]<rt>ㄅㄚㄎㄋ⼘ㄫ</rt></ruby> "weak; feeble"
+- <ruby>[[薄弱]]<rt>ㄅㄚㄎㄋ⼘ㄎ</rt></ruby> "weak; feeble"
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
