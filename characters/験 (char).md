@@ -49,8 +49,8 @@ boundedness:
 - [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md)) - [ㄝㄇ](../syllables/ㄝㄇ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
 ## Words
-- <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine"
+- <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine" (stand-in for 験 (char))
 - <ruby>[[経験]]<rt>ㄍㄝㄫㄝㄇ</rt></ruby> "experience"
-- [[試験]] "test, examine"
+- <ruby>[[試験]]<rt>ㄙㄧ·ㄝㄇ</rt></ruby> "test, examine"
 [[Lookup/CC/initials/聲 疑]]
 [[Lookup/CC/finals/韻 鹽B三]]

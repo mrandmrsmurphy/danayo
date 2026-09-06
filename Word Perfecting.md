@@ -2084,7 +2084,19 @@ No cranberry (詠's own stand-in is [[詠]] itself, 春's own stand-in is [[春]
 ### 2026-09-06, iteration 3294 — [[words/詣|詣]]
 Single-character stand-in word (詣's own stand-in is 詣 itself). Pronunciation fields ('ei/에/ㄝㄧ) already matched the character's own stored reading — no bug. Added missing kwin/japanese. Completed a genuine homophone callout already anticipated by [[児]]'s own page (both share 'ei/에/ㄝㄧ). Checked [[羿]]/[[霓]], which share the syllable but aren't independently legitimized — no callout needed. homophone_check.py confirmed no other homophones.
 
-Next: 試験.
+### 2026-09-06, iteration 3295 — [[words/試験|試験]]
+No cranberry (試's own stand-in is [[考試]], 験's own stand-in is this exact compound). Pronunciation fields (si'em/시엄/ㄙㄧ·ㄝㄇ) already matched the straightforward concatenation, including the correct null-onset dot — no bug. kwin false already correct (AND-rule). Korean 시험 legitimately diverges from the Dan'a'yo-internal assignment (real word vs. assigned syllable). Fixed cantonese stray space, removed redundant duplicate 品詞 field. In passing, fixed a missing "(stand-in for 験 (char))" annotation and a malformed non-ruby citation on `characters/験 (char).md`'s own Words list. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3296 — [[words/詩人|詩人]]
+No cranberry (詩's own stand-in is [[詩歌]], 人's own stand-in is [[人]] itself). Pronunciation fields (sinin/시닌/ㄙㄧㄋㄧㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard (already-thorough Notes kept). homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3297 — [[words/詩歌|詩歌]]
+No cranberry (詩's own stand-in is this exact compound, 歌's own stand-in is [[歌曲]]). **Found and fixed two real bugs**: 羅馬字/諺文/注音 all had siga/시가/ㄙㄧㄍㄚ instead of the correct sigǝ/시그/ㄙㄧㄍㄜ (歌's own reading is gǝ/그/ㄍㄜ, not ga/가/ㄍㄚ) — fixed also on `characters/詩.md` and `characters/歌.md`'s own citations (caught and corrected an accidental duplicate line created while fixing 詩.md); kwin was stored true despite 歌 being individually false — corrected to false (AND-rule). Filled blank vietnamese (thi ca, real standard term). Fixed cantonese stray space, removed redundant duplicate 品詞. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3298 — [[words/詩経|詩経]]
+No cranberry (詩's own stand-in is [[詩歌]], 経's own stand-in is [[経]] itself). Pronunciation fields (sigeng/시겅/ㄙㄧㄍㄝㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct, real proper-noun transliterations. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 該.
 
 **[Milestone: 3,200th logged iteration.]**
 
