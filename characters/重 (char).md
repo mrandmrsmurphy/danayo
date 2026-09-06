@@ -58,6 +58,7 @@ boundedness: 90
 - abbreviation for <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby> "barium" in periodic-table formulae — see [[Periodic Table]]
 
 ## Words
+- <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby> "heavy" (stand-in for 重)
 - <ruby>[[重複]]<rt>ㄑㄛㄫㄅㄨㄎ</rt></ruby> "repeat; duplicate"
 - <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby> "double; twofold"
 - <ruby>[[軽重]]<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby> "relative importance"

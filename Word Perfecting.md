@@ -1724,6 +1724,34 @@ No cranberry (街's own stand-in is [[街道]], 区's is [[区域]]). Pronunciat
 
 Next: 街道.
 
+### 2026-09-05, iteration 3211 — [[words/街道|街道]]
+
+街's own stand-in is this exact compound; 道's own is [[道]] itself — transitivity fails, no cranberry. Pronunciation fields (gyaidau/걔닷/ㄍ⼘ㄧㄉㄚㄨ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衝.
+
+### 2026-09-05, iteration 3212 — [[words/衝|衝]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Fixed vietnamese null→xung. Added missing pos/japanese. Genuine three-way homophone with [[塚]] (already perfected) and [[重]] (given a full pass too) — already documented on all pages. Checked four additional candidates, none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3213 — [[words/重|重]]
+
+Single-character stand-in word (companion to 衝's homophone group). Added missing pos/japanese (real kun'yomi, correcting an unverifiable stored native reading), filled blank vietnamese. Fixed a missing self-citation on `characters/重 (char).md`. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衣服.
+
+### 2026-09-05, iteration 3214 — [[words/衣服|衣服]]
+
+No cranberry (衣's own stand-in is [[衣類]], 服's is [[服事]]). Pronunciation fields ('iǝbug/의북/ㄧㄜㄅㄨㄎ) already verified as the correct concatenation — no bug. Added missing kwin:false, pos. Split comma-joined korean (kept 의복, moved native 옷 to prose). Other fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衣襟.
+
+### 2026-09-05, iteration 3215 — [[words/衣襟|衣襟]]
+
+襟's own stand-in is this exact compound; 衣's own is [[衣類]] — transitivity fails, no cranberry. Pronunciation fields ('iǝgim/의김/ㄧㄜㄍㄧㄇ) already verified as the correct concatenation — no bug. Added missing kwin:false. Fixed three empty-string field bugs (korean/japanese/vietnamese all `""`) — filled with compositional readings. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衣類.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
