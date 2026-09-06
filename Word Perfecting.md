@@ -2072,7 +2072,19 @@ No cranberry (評's own stand-in is [[評価]], 論's own stand-in is [[理論]]
 ### 2026-09-06, iteration 3290 — [[words/詞典|詞典]]
 No cranberry (詞's own stand-in is [[単詞]], 典's own stand-in is [[事典]]). Pronunciation fields (saden/사던/ㄙㄚㄉㄝㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed two real bugs**: vietnamese had tự điển (contaminated from sibling word [[字典]]'s own reading) instead of the real từ điển; aliases wrongly listed 辭典/辞典/辞書 as orthographic variants — 辭/辞 is a distinct character with its own separate Dan'a'yo reading (ci/치/ㄑㄧ, own stand-in [[辞職]]), same false-alias failure mode as [[言語]]'s earlier fix. Kept only the genuine simplified alias 词典. Fixed cantonese stray space, quoted hsk_level. homophone_check.py found no independent homophones.
 
-Next: 詞句.
+### 2026-09-06, iteration 3291 — [[words/詞句|詞句]]
+No cranberry (詞's own stand-in is [[単詞]], 句's own stand-in is [[句]] itself). Pronunciation fields (sagu/사구/ㄙㄚㄍㄨ) already matched the straightforward concatenation — no bug. **Found and fixed several real bugs**: kwin false→true (both constituents individually true, AND-rule); japanese/korean/vietnamese all held readings contaminated from the unrelated sibling term 語句 (built on 語 not 句) — corrected to compositional じく/사구/từ cú. Mandarin cíjù confirmed genuinely real and standard. Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3292 — [[words/詞彙|詞彙]]
+No cranberry (詞's own stand-in is [[単詞]], 彙's own stand-in is [[彙]] itself). Pronunciation fields (sahu/사후/ㄙㄚㄏㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed a real bug**: cantonese had wui6, not matching 彙's own stored wai6 — corrected to ci4wai6. In passing, fixed a malformed comma-joined vietnamese field on `characters/彙 (char).md`. Japanese/korean correctly left blank (real term uses 語彙, not 詞彙) — already documented. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3293 — [[words/詠春拳|詠春拳]]
+No cranberry (詠's own stand-in is [[詠]] itself, 春's own stand-in is [[春]] itself, 拳's own stand-in is [[拳骨]]). Pronunciation fields ('wingcungwen/윙춘권/ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). All other-language fields confirmed standard, real-attested transliterations of this martial-art proper noun. Fixed cantonese stray spaces. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3294 — [[words/詣|詣]]
+Single-character stand-in word (詣's own stand-in is 詣 itself). Pronunciation fields ('ei/에/ㄝㄧ) already matched the character's own stored reading — no bug. Added missing kwin/japanese. Completed a genuine homophone callout already anticipated by [[児]]'s own page (both share 'ei/에/ㄝㄧ). Checked [[羿]]/[[霓]], which share the syllable but aren't independently legitimized — no callout needed. homophone_check.py confirmed no other homophones.
+
+Next: 試験.
 
 **[Milestone: 3,200th logged iteration.]**
 

@@ -7,7 +7,10 @@ japanese:
   - I
 japanese_native: はりねずみ
 vietnamese:
-  - vừng, vị, vựng, hối
+  - vừng
+  - vị
+  - vựng
+  - hối
 middle_chinese_initial: ø
 middle_chinese_final: ʉi
 stroke_count: 13
