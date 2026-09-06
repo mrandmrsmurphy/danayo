@@ -7,8 +7,8 @@ japanese:
   - YO
 japanese_native: とも
 vietnamese:
-  - và
-  - với
+  - dữ
+  - dự
 middle_chinese_initial: j
 middle_chinese_final: ɨʌ
 stroke_count: 3
@@ -46,9 +46,8 @@ boundedness: 80
 - 会意 : Originally a picture of an 牙 (ivory tusk?) being carried on the should? (舁, itself made up of [臼](Radical%20134) "hands" + 廾 "hands")
 - In the historical Kangxi dictionary, this character is written with four strokes: ⿱⺊⿹𠃌一. In modern Japanese (and hence, Dan'a'yo), the character is written slightly differently, with the final 一 stroke extending across ㇉.
 - [Grade 1](../lookup/Grade%201.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md)
-- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md), [Stroke 03](../lookup/Stroke/Stroke%2003.md), [⼄](../syllables/⼄.md)
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 魚]]
+- 32nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以]] + [[Lookup/CC/finals/韻 魚]] → [⼄](../syllables/⼄.md), [Stroke 03](../lookup/Stroke/Stroke%2003.md), [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md)
 
 ## Words
+- <ruby>[[贈与]]<rt>ㄐㄜㄫ·⼄</rt></ruby> "donate, present, bestow"
 - <ruby>[[与格]]<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"

@@ -2370,3 +2370,23 @@ Next: 購買.
 Genuine `#cranberry` case (both 購's and 買's own stand-in point to this exact compound, already correctly annotated on both character pages). Pronunciation fields (goumai/곳매/ㄍㄛㄨㄇㄚㄧ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: cantonese had "kau3" (k-initial), mismatching 購's real g-initial reading (gau3) — same bug as [[購入]]. Fixed stray space. **In passing**, fixed a real bug on `characters/買.md`: its own vietnamese field held four unrelated syllables instead of the real Sino-Vietnamese reading "mãi" — corrected. Filled blank vietnamese (cấu mãi). Quoted previously-unquoted mandarin/korean. Added simplified alias 购买. homophone_check.py found no independent homophones.
 
 Next: 贈与.
+
+### 2026-09-06, iteration 3384 — [[words/贈与|贈与]]
+No cranberry (贈's own stand-in is this exact compound, but 与's own is [[与]] itself) — transitivity fails, though 贈 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jǝng'yo/증요/ㄐㄜㄫ·⼄) already matched the straightforward concatenation — no bug. Added missing `kwin: false` (AND-rule). Fixed a typo in english ("bestor"→bestow). Filled blank cantonese/korean. **In passing**, found and fixed a real bug on `characters/与 (char).md`: vietnamese held native glosses (và/với) instead of the real Sino-Vietnamese reading — corrected to dữ/dự, confirmed via the real compound this word forms (tặng dữ). Filled this word's blank vietnamese accordingly. Also added a missing citation of 贈与 and folded orphaned CC-lookup wikilinks into Notes prose on `与 (char).md`. homophone_check.py found no independent homophones.
+
+Next: 赤道.
+
+### 2026-09-06, iteration 3385 — [[words/赤道|赤道]]
+No cranberry (both 赤's and 道's own stand-in point to themselves). Pronunciation fields (cegdau/척닷/ㄑㄝㄎㄉㄚㄨ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). All other-language fields already correctly filled and standard. Fixed the `characters:` list citing bare "赤"/"道" (redlinks, actual pages are "赤 (char).md"/"道 (char).md"). Fixed cantonese stray space. Removed blank hsk_level/swadesh/aliases. **In passing**, fixed `characters/赤 (char).md`'s bare, gloss-less Words citation of 赤道 and folded orphaned CC-lookup wikilinks into Notes prose. homophone_check.py found no independent homophones.
+
+Next: 赴.
+
+### 2026-09-06, iteration 3386 — [[words/赴|赴]]
+Single-character stand-in word (赴's own stand-in is 赴 itself). Pronunciation fields (fuo/뿟/ㄈㄨㄛ) already matched the character's own stored reading — no bug. Added missing pos/japanese. Fixed the unquoted, non-list `characters:` field. homophone_check.py found 富/訃 sharing this syllable at the character level only (neither independently legitimized) — no genuine collision.
+
+Next: 起伏.
+
+### 2026-09-06, iteration 3387 — [[words/起伏|起伏]]
+No cranberry (both 起's and 伏's own stand-in point to themselves). Pronunciation fields (kibug/키북/ㄎㄧㄅㄨㄎ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's verbal gloss and 起's own 事詞 — corrected to 事詞. Fixed cantonese stray space. Filled blank vietnamese (khởi phục). Fixed the `characters:` list citing bare "起"/"伏" redlinks. homophone_check.py found no independent homophones.
+
+Next: 起床.
