@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- <ruby>[[蟄]]<rt>ㄑㄧㄆ</rt></ruby> "hibernate"
+- <ruby>[[蟄]]<rt>ㄑㄧㄆ</rt></ruby> "hibernate" (stand-in for 蟄)

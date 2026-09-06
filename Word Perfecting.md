@@ -1642,4 +1642,30 @@ No cranberry (融's own stand-in is [[融]] itself, 資's is [[資本]]). **Foun
 
 Next: 螳螂.
 
+### 2026-09-05, iteration 3197 — [[words/螳螂|螳螂]]
+
+**Genuine `#cranberry`** (both 螳's and 螂's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (danglang/당랑/ㄉㄚㄫㄌㄚㄫ) already verified as the correct concatenation — no bug; kwin:true already correct. Vietnamese confirmed a genuine real-term substitution. **Found and fixed a real bug**: japanese たうらう used obsolete historical kana with the wrong on'yomi entirely → とうろう. Fixed cantonese stray space and a missing stand-in annotation on `characters/螂.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 螺旋.
+
+### 2026-09-05, iteration 3198 — [[words/螺旋|螺旋]]
+
+螺's own stand-in is this exact compound; 旋's own is [[旋転]] — transitivity fails, no cranberry. Pronunciation fields (laswen/라숸/ㄌㄚㄙ⼔ㄋ) already verified as the correct concatenation — no bug. Added missing kwin:false. Other fields confirmed standard and compositional (real common terms). Filled blank korean/vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 螺鈿.
+
+### 2026-09-05, iteration 3199 — [[words/螺鈿|螺鈿]]
+
+No cranberry (螺's own stand-in is [[螺旋]], 鈿's is a `名専字`). Pronunciation fields (laden/라던/ㄌㄚㄉㄝㄋ) already verified as the correct concatenation — no bug. Added missing kwin:false. Fixed an english typo (laquer→lacquer). Filled blank cantonese/korean/vietnamese. Fixed a missing Words section on `characters/鈿.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蟄.
+
+### 2026-09-05, iteration 3200 — [[words/蟄|蟄]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing kwin/japanese. Fixed a missing stand-in annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蟹.
+
+**[Milestone: 3,200th logged iteration.]**
+
 **[Milestone: 3,170th logged iteration.]**
