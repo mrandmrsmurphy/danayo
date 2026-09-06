@@ -2123,7 +2123,19 @@ No cranberry (誕's own stand-in is this exact compound, 生's own stand-in is [
 ### 2026-09-06, iteration 3307 — [[words/誘拐|誘拐]]
 No cranberry (誘's own stand-in is [[誘発]], 拐's own stand-in is this exact compound). Pronunciation fields ('yuogwai/윳괘/⼜ㄛㄍ⺢ㄧ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank cantonese (jau5gwaai2) and vietnamese (dụ quải, compositional). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 誘発.
+### 2026-09-06, iteration 3308 — [[words/誘発|誘発]]
+No cranberry (誘's own stand-in is this exact compound, 発's own stand-in is [[発]] itself). Pronunciation fields ('yuofad/윳빧/⼜ㄛㄈㄚㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (dụ phát, compositional). Fixed cantonese stray space. In passing, fixed a malformed comma-joined vietnamese field on `characters/発 (char).md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3309 — [[words/誘餌|誘餌]]
+No cranberry (誘's own stand-in is [[誘発]], 餌's own stand-in is this exact compound). Pronunciation fields ('yuoni/윳니/⼜ㄛㄋㄧ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Fixed cantonese stray space. Removed blank hsk_level/swadesh; other fields already thoroughly researched and documented. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3310 — [[words/語彙|語彙]]
+No cranberry (語's own stand-in is [[言語]], 彙's own stand-in is [[彙]] itself). Pronunciation fields ('yohu/요후/⼄ㄏㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed two real bugs**: vietnamese held the literal empty string "" — corrected to ngữ vựng; aliases wrongly listed [[詞彙]] (a distinct separately-perfected word built on 詞, different reading) — corrected to genuine simplified 语汇, same false-alias pattern as [[言語]]'s earlier fix. Removed redundant duplicate 品詞. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3311 — [[words/語感|語感]]
+No cranberry (語's own stand-in is [[言語]], 感's own stand-in is [[感触]]). Pronunciation fields ('yogam/요감/⼄ㄍㄚㄇ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 語族.
 
 **[Milestone: 3,200th logged iteration.]**
 

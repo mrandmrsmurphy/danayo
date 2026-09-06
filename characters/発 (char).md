@@ -9,7 +9,9 @@ japanese:
   - HATSU
 japanese_native: た
 vietnamese:
-  - phát, phắt, phết
+  - phát
+  - phắt
+  - phết
 middle_chinese_initial: f
 middle_chinese_final: ʉɐt
 stroke_count: 9
