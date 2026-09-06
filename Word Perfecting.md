@@ -2135,7 +2135,34 @@ No cranberry (語's own stand-in is [[言語]], 彙's own stand-in is [[彙]] it
 ### 2026-09-06, iteration 3311 — [[words/語感|語感]]
 No cranberry (語's own stand-in is [[言語]], 感's own stand-in is [[感触]]). Pronunciation fields ('yogam/요감/⼄ㄍㄚㄇ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 語族.
+### 2026-09-06, iteration 3312 — [[words/語族|語族]]
+No cranberry (語's own stand-in is [[言語]], 族's own stand-in is [[家族]]). Pronunciation fields ('yojog/요족/⼄ㄐㄛㄎ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, simplified single-item vietnamese list to a scalar. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3313 — [[words/語気|語気]]
+No cranberry (語's own stand-in is [[言語]], 気's own stand-in is [[気]] itself). Pronunciation fields ('yokiǝ/요킈/⼄ㄎㄧㄜ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (ngữ khí). **Found and fixed a real bug**: aliases wrongly listed 口調/声色/語調 (unrelated synonym compounds on different characters) as orthographic variants — kept only genuine traditional 語氣. Investigated a false 注音 collision with [[浴衣]] (same bopomofo string, different segmentation) and found it stemmed from a genuine separate bug: 浴衣 was missing its own null-onset separator dot before 衣's syllable — fixed on `words/浴衣.md` and both its character-page citations. Fixed cantonese stray space. Removed blank hsk_level/swadesh. No genuine homophones.
+
+### 2026-09-06, iteration 3314 — [[words/語気助詞|語気助詞]]
+No cranberry (none of the four constituents' own stand-ins point here). Pronunciation fields ('yokiǝjosa/요킈조사/⼄ㄎㄧㄜㄐㄛㄙㄚ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank mandarin/cantonese/japanese/korean/vietnamese, all compositional (mandarin also independently real). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3315 — [[words/語法|語法]]
+No cranberry (語's own stand-in is [[言語]], 法's own stand-in is [[法]] itself). **Found and fixed a real bug**: 羅馬字/諺文 had 'yopab/요팝 instead of 法's own 'yofab/요빱 (注音 already correct — same failure class as the 福/覆蓋/解放/訪問-family voiced/voiceless confusion bug). kwin false already correct (AND-rule). Filled blank japanese (ごほう). Fixed cantonese stray space, quoted hsk_level. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3316 — [[words/語用|語用]]
+No cranberry (語's own stand-in is [[言語]], 用's own stand-in is [[使用]]). Pronunciation fields ('yo'yong/요용/⼄·⼄ㄫ) already matched the straightforward concatenation, including the null-onset dot — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank cantonese/korean/vietnamese (korean 어용 compositionally coincides with an unrelated real word, not a bug). Removed redundant duplicate 品詞. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3317 — [[words/誠実|誠実]]
+No cranberry (誠's own stand-in is this exact compound, 実's own stand-in is [[真実]]). Pronunciation fields (singsid/싱싣/ㄙㄧㄫㄙㄧㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank pos (性詞) and vietnamese (thành thực, real standard term). Fixed cantonese stray space, quoted hsk_level. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3318 — [[words/誠心|誠心]]
+No cranberry (誠's own stand-in is [[誠実]], 心's own stand-in is [[心]] itself). Pronunciation fields (singsim/싱심/ㄙㄧㄫㄙㄧㄇ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank pos (性詞). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3319 — [[words/誠意|誠意]]
+No cranberry (誠's own stand-in is [[誠実]], 意's own stand-in is [[意味]]). Pronunciation fields (sing'ǝ/싱으/ㄙㄧㄫㄜ) already matched the straightforward concatenation, consistent with the established no-dot precedent on `characters/意.md`'s own citation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank pos (動詞). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3320 — [[words/誤差|誤差]]
+No cranberry (誤's own stand-in is [[錯誤]], 差's own stand-in is [[差別]]). Pronunciation fields ('oca/오차/ㄛㄑㄚ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank pos (名詞) and vietnamese (ngộ sai, compositional). Fixed cantonese stray space. Removed blank hsk_level/swadesh. In passing, converted a malformed space-joined mandarin field on `characters/差.md` into a proper list. homophone_check.py found no independent homophones.
+
+Next: 誤謬.
 
 **[Milestone: 3,200th logged iteration.]**
 
