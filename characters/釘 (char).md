@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-17
 - [Grade Name](Lookup/Grade%20Name.md), [Old HSK 6](Lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
-- <ruby>[[釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail"
+- <ruby>[[釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail" (stand-in for 釘)

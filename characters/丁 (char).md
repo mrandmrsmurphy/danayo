@@ -52,6 +52,7 @@ boundedness: 80
 - [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[丁]]<rt>ㄉㄝㄫ</rt></ruby> "fourth on a list of four" (stand-in for 丁)
 - <ruby>[[丁丁]]<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby> "clang, clash"
 - <ruby>[[丁香]]<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby> "clove"
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"

@@ -905,3 +905,117 @@ Next: 航空母艦.
 No cranberry (none of the four constituents' own stand-ins point here). **Found and fixed a real bug**: `japanese` had かうくうぼかん instead of こうくうぼかん, same class as [[航空]]'s earlier fix. Pronunciation fields (hangkongmouham/항콩못함/ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 船尾.
+
+### 2026-09-05, iteration 3073 — [[words/船尾|船尾]]
+
+No cranberry (船's own stand-in is [[船舶]], 尾's own is [[尾]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had jwenmui, using 船's minority cross-word syllable (already flagged on `characters/船.md` as inconsistent between the majority swem-group and the [[艦船]]/[[宇宙船]] jwen-outliers) instead of this word's own already-correct `諺文`/`注音` (matching the majority swem group) — corrected to swemmui. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 船籍.
+
+### 2026-09-05, iteration 3074 — [[words/船籍|船籍]]
+
+No cranberry (船's own stand-in is [[船舶]], 籍's own is [[書籍]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字` had jwenjeg (船's minority cross-word syllable, same class as [[船尾]]'s just-fixed bug) instead of the correct swemjeg matching `諺文`/`注音`. Added missing `kwin: false`. Filled blank cantonese/korean/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 船舶.
+
+### 2026-09-05, iteration 3075 — [[words/船舶|船舶]]
+
+**Genuine `#cranberry`** (already correctly tagged): both 船's and 舶's own stand-ins point here (6th cranberry this session). Pronunciation fields (swembag/쉄박/ㄙ⼔ㄇㄅㄚㄎ) already correctly used 船's majority syllable — no bug here, unlike the jwen-mistakes just fixed on [[船尾]]/[[船籍]]. `kwin: false` already correct. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 艇.
+
+### 2026-09-05, iteration 3076 — [[words/艇|艇]]
+
+Single-character stand-in word. Pronunciation fields (deng/덩/ㄉㄝㄫ) already matched the character's own values — Dan'a'yo's d-initial legitimately diverges from Mandarin's t-initial (MC 定 derivation), not a bug. Added missing japanese/vietnamese. Found a genuine **three-way homophone group** with [[丁]] (already stamped but missing callouts and carrying a trailing-space/redundant-`品詞` issue, both fixed) and [[釘]] (still otherwise unperfected — gave it a full pass, fixed a literal-`"null"`-string vietnamese bug, added missing pos/kwin/japanese). Checked the other five ㄉㄝㄫ-reading characters (亭, 停, 庭, 廷, 挺) — no fourth homophone. Fixed missing self-citations on `characters/丁 (char).md` and `characters/釘 (char).md`. Stamped `date-last-perfect: 2026-09-05` on all three word pages.
+
+Next: 艦船.
+
+### 2026-09-05, iteration 3077 — [[words/艦船|艦船]]
+
+No cranberry (艦's own stand-in is this exact compound, but 船's own is [[船舶]]) — transitivity fails, though 艦 is legitimized as an independent Dan'a'yo entry by this word. **Resolved the flagged `characters/船.md` discrepancy**: 艦船's own `諺文` had already correctly stored swem's hangul (쉄) all along, while `羅馬字`/`注音` alone had drifted to a different reading (jwen) — corrected to match, closing out one of the two flagged outliers ([[宇宙船]] remains to be checked). Fixed the wrong rt-tag and a duplicate citation on `characters/艦.md`'s own Words list. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 良好.
+
+### 2026-09-05, iteration 3078 — [[words/良好|良好]]
+
+No cranberry (良's own stand-in is this exact compound, but 好's own is [[好]] itself) — transitivity fails, though 良 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (lyanghau/량핫/ㄌ⼘ㄫㄏㄚㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `korean` was 두음법칙-shifted (양호→량호), per the standing North-Korean-pronunciation rule. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 良月.
+
+### 2026-09-05, iteration 3079 — [[words/良月|良月]]
+
+No cranberry (良's own stand-in is [[良好]], 月's own is [[月]] itself) — neither constituent legitimized by this word. Pronunciation fields (lyang'wed/량웓/ㄌ⼘ㄫ·⼔ㄊ) already verified as the correct concatenation, including the null-onset syllable break — no bug; `kwin: false` already correct. Verified japanese よいつき (native よい+つき) and vietnamese tháng lương (native word order, like [[臘月]]) as genuine attested terms, not bugs. Fixed cantonese's stray space, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 色金.
+
+### 2026-09-05, iteration 3080 — [[words/色金|色金]]
+
+No cranberry (色's own stand-in is [[色彩]], 金's own is [[金]] itself). Periodic-table neologism (chromium); pronunciation fields already correct; real-element-reading fields (mandarin gè, korean 크로뮴, japanese クロム, vietnamese crôm) legitimately non-compositional per established convention. Removed redundant `品詞`. Kept the existing thorough etymology essay. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 艶福.
+
+### 2026-09-05, iteration 3081 — [[words/艶福|艶福]]
+
+No cranberry (艶's own stand-in is [[艶]] itself, 福's own is [[福]] itself) — neither constituent legitimized by this word. Pronunciation fields already correct (the 福-family pug/fug bug was fixed out-of-sequence on 2026-09-04). `kwin: false` already correct. Filled blank pos. Fixed cantonese's stray space. No homophones. In passing, fixed the 20th empty-string field bug on `characters/艶 (char).md` (`hsk_level: ""` → "無"). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 艾灸.
+
+### 2026-09-05, iteration 3082 — [[words/艾灸|艾灸]]
+
+No cranberry (灸's own stand-in is this exact compound, but 艾's own is [[艾草]]) — transitivity fails, though 灸 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields ('aigyu/애규/ㄚㄧㄍ⼜) already verified as the correct concatenation — no bug. Added missing `kwin: false`. Fixed a typo in english (muxibustion→moxibustion). Filled blank korean. Fixed cantonese's stray space and a missing "(stand-in for 灸)" annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芝草.
+
+### 2026-09-05, iteration 3083 — [[words/芝草|芝草]]
+
+No cranberry (芝's own stand-in is the special `名専字` name-only marker; 草's own is [[草]] itself). Pronunciation fields (jicau/지찻/ㄐㄧㄑㄚㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Kept the existing thorough Notes (Korean/Japanese homograph discussion). Quoted pronunciation fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芝麻醤.
+
+### 2026-09-05, iteration 3084 — [[words/芝麻醤|芝麻醤]]
+
+No cranberry (none of the three constituents' own stand-ins point here). Pronunciation fields (jimajang/지마장/ㄐㄧㄇㄚㄐㄚㄫ) already verified as the correct concatenation — no bug; `kwin: true` already correct. Filled blank vietnamese. Fixed cantonese's stray spaces. Kept the existing thorough Notes. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芦葦.
+
+### 2026-09-05, iteration 3085 — [[words/芦葦|芦葦]]
+
+**Genuine `#cranberry`** (already correctly tagged): both 芦's and 葦's own stand-ins point here (7th cranberry this session). Pronunciation fields (lohui/로휘/ㄌㄛㄏㄨㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `japanese` listed る/ろ/あし, but る doesn't correspond to any documented reading — trimmed to ろ/あし. Verified korean 갈대/vietnamese sậy as genuine native terms, not bugs. Fixed cantonese's stray space and a missing "(stand-in for 葦)" annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芬蘭.
+
+### 2026-09-05, iteration 3086 — [[words/芬蘭|芬蘭]]
+
+No cranberry (芬's own stand-in is [[芬芳]], 蘭's own is [[蘭花]]). **Found and fixed a real bug**: `羅馬字`/`諺文`/`注音` all had a p-initial reading (Punlan/푼란/ㄆㄨㄋㄌㄚㄋ), mismatching 芬's real f-initial — same ㄈ→ㅍ confusion class as the 福-family bug — corrected to funlan/뿐란/ㄈㄨㄋㄌㄚㄋ (also normalized stray capitalization). `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. As a proper place name, real-language fields legitimately hold the attested name/transliteration. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 芭蕉.
+
+### 2026-09-05, iteration 3087 — [[words/芭蕉|芭蕉]]
+
+No cranberry (芭's own stand-in is this exact compound, but 蕉's own is [[甘蕉]]) — transitivity fails, though 芭 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed a real bug**: `mandarin` had ājiāo, missing 芭's own b-initial entirely — corrected to bājiāo. Pronunciation fields (bajou/바좃/ㄅㄚㄐㄛㄨ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray space and a missing "(stand-in for 芭)" annotation on the char page. Kept the existing thoughtful three-way comparison Notes. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 花卉.
+
+### 2026-09-05, iteration 3088 — [[words/花卉|花卉]]
+
+No cranberry (卉's own stand-in is this exact compound, but 花's own is [[草花]]) — transitivity fails, though 卉 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (hwahui/화휘/ㄏ⺢ㄏㄨㄧ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space, a missing "(stand-in for 卉)" annotation, and a malformed nested-list `tags:` field on `characters/花.md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 花店.
+
+### 2026-09-05, iteration 3089 — [[words/花店|花店]]
+
+No cranberry (花's own stand-in is [[草花]], 店's own is [[商店]]) — neither constituent legitimized by this word. **Found and fixed a real bug**: `羅馬字`/`諺文` had a final -n instead of 店's real final -m (hwaden/화던→hwadem/화덤); `注音` had already stayed correct. `kwin: false` already correct. Filled blank vietnamese. Verified japanese はなや/korean 꽃집 as genuine real terms, not bugs. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 花弁.
+
+### 2026-09-05, iteration 3090 — [[words/花弁|花弁]]
+
+No cranberry (花's own stand-in is [[草花]], 弁's own is [[弁]] itself) — neither constituent legitimized by this word. Pronunciation fields (hwabyan/화뱐/ㄏ⺢ㄅ⼘ㄋ) already verified as the correct concatenation — no bug; `kwin: false` already correct. **Found and fixed a real bug**: `cantonese` had a stray space and wrong initial (faa1 faan6-2→faa1baan6), consistent with `korean` 화판 genuinely tracking the semantic donor 瓣's own reading rather than 弁's own stored value (same pattern as [[胰臓]]/膵). Filled blank vietnamese. No homophones. In passing, fixed the 21st empty-string field bug on `characters/弁 (char).md` (hsk_level). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 花栗鼠.
+
+### 2026-09-05, iteration 3091 — [[words/花栗鼠|花栗鼠]]
+
+No cranberry (none of the three constituents' own stand-ins point here). Pronunciation fields (hwalidsyo/화릳쇼/ㄏ⺢ㄌㄧㄊㄙ⼄) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray spaces. Verified japanese シマリス/korean 다람쥐/vietnamese sóc chuột as genuine native terms, not bugs. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 花粉.
