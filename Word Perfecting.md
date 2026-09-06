@@ -2009,7 +2009,19 @@ No cranberry (訃's own stand-in is this exact compound, 告's own stand-in is [
 ### 2026-09-06, iteration 3269 — [[words/計画|計画]]
 No cranberry (計's own stand-in is this exact compound, 画's own stand-in is [[絵画]]). Pronunciation fields (geihwag/게확/ㄍㄝㄧㄏ⺢ㄎ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Confirmed the stored aliases (計劃/计划) are genuine real orthographic variants, unlike the false-alias bug just fixed on [[言語]]. Quoted hsk_level, removed blank swadesh. homophone_check.py found no independent homophones.
 
-Next: 討伐.
+### 2026-09-06, iteration 3270 — [[words/討伐|討伐]]
+No cranberry (討's own stand-in is [[討論]], 伐's own stand-in is this exact compound). Pronunciation fields (taufed/탓뻗/ㄊㄚㄨㄈㄝㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). In passing, fixed an empty-string `pos: ""` bug on `characters/討.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3271 — [[words/討論|討論]]
+No cranberry (討's own stand-in is this exact compound, 論's own stand-in is [[理論]]). Pronunciation fields (taulon/탓론/ㄊㄚㄨㄌㄛㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3272 — [[words/記憶|記憶]]
+**Genuine `#cranberry`** (both 記's and 憶's own stand-ins point to this exact compound — full transitivity). **Found and fixed a real bug**: 注音 was missing the null-onset separator dot before 憶's vowel-initial syllable (ㄍㄧㄧㄎ→ㄍㄧ·ㄧㄎ), matching the already-correct 羅馬字/諺文 — same failure class as 西洋's earlier fix. Fixed also on `characters/記.md` and `characters/憶.md`'s own citations, and added a missing "(stand-in for 憶)" annotation that was entirely absent from `characters/憶.md`. kwin false already correct (AND-rule). Filled blank vietnamese (ký ức). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3273 — [[words/記者|記者]]
+No cranberry (記's own stand-in is [[記憶]], 者's own stand-in is [[者]] itself). Pronunciation fields (gica/기차/ㄍㄧㄑㄚ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank vietnamese (ký giả, real standard term). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 記載.
 
 **[Milestone: 3,200th logged iteration.]**
 
