@@ -45,17 +45,18 @@ boundedness: 70
 ```
 ## Notes
 - [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], HSK 2
-- [[ㄋㄧㄆ]], [[Stroke 02]], [[SKIP-4-2-4]]
+- 96th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日]] + [[Lookup/CC/finals/韻 緝A三]] → [[ㄋㄧㄆ]], [[Stroke 02]], [[SKIP-4-2-4]]
 
-## Chengyu
-- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 緝A三]]
+## Words
+- <ruby>[[購入]]<rt>ㄍㄛㄨㄋㄧㄆ</rt></ruby> "purchase"
 - <ruby>[[侵入]]<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby> "to invade; to intrude"
-- [[入籍]] "enter"
-- [[入口]] "entrance"
-- [[入場]] "enter a venue"
+- <ruby>[[入籍]]<rt>ㄋㄧㄆㄐㄝㄎ</rt></ruby> "enter"
+- <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
+- <ruby>[[入場]]<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby> "enter a venue"
 - <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
 - <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
 - <ruby>[[滲入]]<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby> "seep into"
+
+## Chengyu
+- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"

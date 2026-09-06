@@ -2350,3 +2350,23 @@ Next: 質問.
 No cranberry (問's own stand-in is this exact compound, but 質's own is [[質素]]) — transitivity fails, though 問 is legitimized as an independent Dan'a'yo entry by this word. **Found and fixed two real bugs**: `羅馬字` had jitmun (t-final), mismatching 質's real d-final reading (jid) — `諺文`/`注音` had already stayed correct; `cantonese` held "zhíwèn," garbled Mandarin-pinyin-like text rather than a real Cantonese reading — corrected to zat1man6. Filled blank vietnamese (chất vấn, standard attested term). Removed blank hsk_level/swadesh/aliases, added simplified alias 质问. homophone_check.py found no independent homophones.
 
 Next: 質素.
+
+### 2026-09-06, iteration 3380 — [[words/質素|質素]]
+No cranberry (質's own stand-in is this exact compound, but 素's own is [[要素]]) — transitivity fails, though 質 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (jidso/짇소/ㄐㄧㄊㄙㄛ) already matched the straightforward concatenation — no bug. Added missing `kwin: true` (AND-rule). **Found and fixed a real bug**: mandarin held a spurious comma-joined second reading "zhísù" (質 has no zhí reading) — corrected to the single real zhìsù. Fixed cantonese stray space. Japanese しっそ confirmed a real attested word, kept as-is. Filled blank korean (질소) and vietnamese (chất tố). Removed blank hsk_level/swadesh/aliases. homophone_check.py found no independent homophones.
+
+Next: 賭博.
+
+### 2026-09-06, iteration 3381 — [[words/賭博|賭博]]
+No cranberry (賭's own stand-in is this exact compound, but 博's own is [[博大]]) — transitivity fails, though 賭 is legitimized as an independent Dan'a'yo entry by this word. Pronunciation fields (dobag/도박/ㄉㄛㄅㄚㄎ) already matched the straightforward concatenation — no bug; kwin true already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's verbal sense and 賭's own 事詞 — corrected to 事詞. Fixed cantonese stray space. Filled blank vietnamese (đổ bác). Added simplified alias 赌博. homophone_check.py found no independent homophones.
+
+Next: 購入.
+
+### 2026-09-06, iteration 3382 — [[words/購入|購入]]
+No cranberry (neither 購's own stand-in [[購買]] nor 入's own stand-in [[入]] points here). Pronunciation fields (gounib/곳닙/ㄍㄛㄨㄋㄧㄆ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed two real bugs**: cantonese had "kau3" (k-initial), mismatching 購's real g-initial reading (gau3); japanese had こうにふ, an unattested spelling — corrected to こうにゅう. Fixed cantonese stray space. Filled blank vietnamese (cấu nhập). Added simplified alias 购入. **In passing**, fully repaired `characters/入 (char).md`'s malformed Words/Chengyu structure: moved orphaned CC-lookup wikilinks into Notes prose, split the mislabeled "## Chengyu" section (which held ordinary compound words) into proper "## Words" (adding the missing 購入 citation and ruby-formatting two bare-link entries, 入籍/入口/入場) and "## Chengyu" (単刀直入 only). homophone_check.py found no independent homophones.
+
+Next: 購買.
+
+### 2026-09-06, iteration 3383 — [[words/購買|購買]]
+Genuine `#cranberry` case (both 購's and 買's own stand-in point to this exact compound, already correctly annotated on both character pages). Pronunciation fields (goumai/곳매/ㄍㄛㄨㄇㄚㄧ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: cantonese had "kau3" (k-initial), mismatching 購's real g-initial reading (gau3) — same bug as [[購入]]. Fixed stray space. **In passing**, fixed a real bug on `characters/買.md`: its own vietnamese field held four unrelated syllables instead of the real Sino-Vietnamese reading "mãi" — corrected. Filled blank vietnamese (cấu mãi). Quoted previously-unquoted mandarin/korean. Added simplified alias 购买. homophone_check.py found no independent homophones.
+
+Next: 贈与.
