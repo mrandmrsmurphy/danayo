@@ -2108,7 +2108,22 @@ No cranberry (誅's own stand-in is this exact compound, 殺's own stand-in is [
 ### 2026-09-06, iteration 3302 — [[words/誇示|誇示]]
 No cranberry (誇's own stand-in is [[誇]] itself, 示's own stand-in is [[開示]]). Pronunciation fields (kwage/콰거/ㄎ⺢ㄍㄝ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank cantonese (kwaa1si6) and vietnamese (khoa thị, compositional). Fixed bare-string characters entry. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 認証.
+### 2026-09-06, iteration 3303 — [[words/認証|認証]]
+No cranberry (認's own stand-in is [[認識]], 証's own stand-in is [[証明]]). Pronunciation fields (ninjing/닌징/ㄋㄧㄋㄐㄧㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Confirmed genuine homophone with [[人証]] (認's own reading coincidentally matches 人's own reading exactly). Filled blank vietnamese (nhận chứng, compositional). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py confirmed no other homophones.
+
+### 2026-09-06, iteration 3304 — [[words/認識|認識]]
+**Genuine `#cranberry`** (both 認's and 識's own stand-ins point to this exact compound — full transitivity). Pronunciation fields (ninsig/닌식/ㄋㄧㄋㄙㄧㄎ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, filled blank aliases (认识). Removed blank swadesh. In passing, fixed a missing "(stand-in for 識)" annotation and a malformed space-joined mandarin field on `characters/識.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3305 — [[words/誓約|誓約]]
+No cranberry (誓's own stand-in is [[盟誓]], 約's own stand-in is [[約束]]). Pronunciation fields (se'yag/서약/ㄙㄝ⼘ㄎ) already matched the straightforward concatenation — no bug (no null-onset dot needed before 約, consistent with the established precedent from [[公約]]/[[制約]]/[[条約]]). kwin true already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3306 — [[words/誕生|誕生]]
+No cranberry (誕's own stand-in is this exact compound, 生's own stand-in is [[生活]]). Pronunciation fields (dansang/단상/ㄉㄚㄋㄙㄚㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule); all other fields already correct and standard. Added missing aliases: []. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3307 — [[words/誘拐|誘拐]]
+No cranberry (誘's own stand-in is [[誘発]], 拐's own stand-in is this exact compound). Pronunciation fields ('yuogwai/윳괘/⼜ㄛㄍ⺢ㄧ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank cantonese (jau5gwaai2) and vietnamese (dụ quải, compositional). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 誘発.
 
 **[Milestone: 3,200th logged iteration.]**
 
