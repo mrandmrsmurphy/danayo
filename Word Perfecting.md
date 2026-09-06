@@ -2390,3 +2390,8 @@ Next: 起伏.
 No cranberry (both 起's and 伏's own stand-in point to themselves). Pronunciation fields (kibug/키북/ㄎㄧㄅㄨㄎ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's verbal gloss and 起's own 事詞 — corrected to 事詞. Fixed cantonese stray space. Filled blank vietnamese (khởi phục). Fixed the `characters:` list citing bare "起"/"伏" redlinks. homophone_check.py found no independent homophones.
 
 Next: 起床.
+
+### 2026-09-06, iteration 3388 — [[words/起床|起床]]
+No cranberry (both 起's and 床's own stand-in point to themselves). Pronunciation fields (kisyam/키샴/ㄎㄧㄙ⼘ㄇ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's verbal gloss and 起's own 事詞 — corrected to 事詞. Fixed cantonese stray space, quoted bare hsk_level. Filled blank vietnamese (khởi sàng). Fixed the `characters:` list citing bare "起"/"床" redlinks. homophone_check.py found no independent homophones.
+
+Next: 起死.
