@@ -44,7 +44,7 @@ date-last-perfect: 2026-08-19
 ```
 
 ## Words
-- <ruby>[[菱]]<rt>ㄌㄜㄫ</rt></ruby> "water chestnut"
+- <ruby>[[菱]]<rt>ㄌㄜㄫ</rt></ruby> "water chestnut" (stand-in for 菱)
 - <ruby>[[菱形]]<rt>ㄌㄜㄫㄏㄝㄫ</rt></ruby> "rhombus, diamond shape"
 
 ## Notes

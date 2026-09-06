@@ -1241,3 +1241,27 @@ Next: 菩薩.
 **Genuine `#cranberry`** (both 菩's and 薩's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (bosad/보삳/ㄅㄛㄙㄚㄊ) already verified as the correct concatenation — no bug; kwin:true already correct. Mandarin/japanese/korean confirmed standard and attested. Filled blank vietnamese (bồ tát, a real standard term). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 華美.
+
+### 2026-09-05, iteration 3129 — [[words/華美|華美]]
+
+華's own stand-in is this exact compound; 美's own is [[美]] itself — transitivity fails, no cranberry. Pronunciation fields (hwami/화미/ㄏ⺢ㄇㄧ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Filled blank vietnamese (hoa mỹ, a real standard term). Fixed cantonese stray space, added simplified alias 华美. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 華麗.
+
+### 2026-09-05, iteration 3130 — [[words/華麗|華麗]]
+
+No cranberry (華's own stand-in is [[華美]], 麗's is [[秀麗]] — already documented). Pronunciation fields (hwale/화러/ㄏ⺢ㄌㄝ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional (korean/vietnamese also real attested terms). Filled blank cantonese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菱.
+
+### 2026-09-05, iteration 3131 — [[words/菱|菱]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/japanese, filled blank vietnamese. Checked two candidate homophones (凌, 陵) — neither independently legitimized, so no genuine homophone. Fixed a missing stand-in annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菱形.
+
+### 2026-09-05, iteration 3132 — [[words/菱形|菱形]]
+
+No cranberry (both 菱's and 形's own stand-ins point to themselves). Pronunciation fields (lǝngheng/릉헝/ㄌㄜㄫㄏㄝㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional. Filled blank vietnamese (lăng hình, compositional). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 萌芽.
