@@ -1217,3 +1217,27 @@ Next: 莱金.
 No cranberry (莱's own stand-in is [[蓬莱]], 金's is [[金]] itself). Periodic-table neologism (rhenium). Pronunciation fields (laigim/래김/ㄌㄚㄧㄍㄧㄇ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Mandarin/cantonese confirmed to match the real element name 铼; korean/japanese/vietnamese all genuine international transliterations. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 菊.
+
+### 2026-09-05, iteration 3125 — [[words/菊|菊]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing kwin/pos/japanese. Checked two candidate homophones (掬, 鞠) — neither has its own independent word-level entry, so no genuine homophone. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菊月.
+
+### 2026-09-05, iteration 3126 — [[words/菊月|菊月]]
+
+No cranberry (both 菊's and 月's own stand-ins point to themselves). Pronunciation fields (gug'wed/국웓/ㄍㄨㄎ·⼔ㄊ) already verified as the correct concatenation — no bug. Japanese きくつき confirmed genuine, matching the poetic-month convention. Fixed cantonese stray space, removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菜蔬.
+
+### 2026-09-05, iteration 3127 — [[words/菜蔬|菜蔬]]
+
+蔬's own stand-in is this exact compound; 菜's own is [[野菜]] — transitivity fails, no cranberry (already documented). Pronunciation fields (caisǝ/채스/ㄑㄚㄧㄙㄜ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional (korean 채소 also the real common word). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 菩薩.
+
+### 2026-09-05, iteration 3128 — [[words/菩薩|菩薩]]
+
+**Genuine `#cranberry`** (both 菩's and 薩's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (bosad/보삳/ㄅㄛㄙㄚㄊ) already verified as the correct concatenation — no bug; kwin:true already correct. Mandarin/japanese/korean confirmed standard and attested. Filled blank vietnamese (bồ tát, a real standard term). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 華美.
