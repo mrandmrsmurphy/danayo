@@ -50,6 +50,6 @@ date-last-perfect: 2026-08-18
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
-- <ruby>[[蝉]]<rt>ㄙㄝㄋ</rt></ruby> "cicada"
+- <ruby>[[蝉]]<rt>ㄙㄝㄋ</rt></ruby> "cicada" (stand-in for 蝉)
 - <ruby>[[寒蝉]]<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby> "winter cicada; one who dares not speak (figurative)"
 - <ruby>[[蝉冠]]<rt>ㄙㄝㄋㄍ⺢ㄋ</rt></ruby> "ancient hat"

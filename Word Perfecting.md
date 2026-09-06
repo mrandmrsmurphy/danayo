@@ -1588,4 +1588,28 @@ No cranberry (蜜's own stand-in is [[蜂蜜]], 月's is [[月]] itself). **Foun
 
 Next: 蜜柑.
 
+### 2026-09-05, iteration 3188 — [[words/蜜柑|蜜柑]]
+
+柑's own stand-in is this exact compound; 蜜's own is [[蜂蜜]] — transitivity fails, no cranberry. Pronunciation fields (midgam/믿감/ㄇㄧㄊㄍㄚㄇ) already verified as the correct concatenation — no bug; kwin:true already correct. Fixed a typo in english ("mandarinn"→"mandarin"). Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space, missing back-citation on 柑.md. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蝉冠.
+
+### 2026-09-05, iteration 3189 — [[words/蝉冠|蝉冠]]
+
+No cranberry (蝉's own stand-in is [[蝉]] itself, 冠's is [[王冠]]). Pronunciation fields (sengwan/선관/ㄙㄝㄋㄍ⺢ㄋ) already verified as the correct concatenation — no bug; kwin:true already correct. Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space and a missing stand-in annotation on `characters/蝉 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蝎.
+
+### 2026-09-05, iteration 3190 — [[words/蝎|蝎]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug; kwin:false already correct. Confirmed cantonese kit3 is a genuine irregular real-world reading, not a bug. Removed redundant 品詞, converted comma-joined vietnamese to a list. In passing on `characters/蝎 (char).md`: converted comma-joined vietnamese to list, added a missing Words section with self-citation, and properly integrated dangling CC-lookup links. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蝙蝠.
+
+### 2026-09-05, iteration 3191 — [[words/蝙蝠|蝙蝠]]
+
+**Genuine `#cranberry`** (both 蝙's and 蝠's own stand-ins point here, full transitivity; tag was already present on both char pages but missing from the word page — added here). Pronunciation fields (benfug/번뿍/ㄅㄝㄋㄈㄨㄎ) already verified as the correct concatenation — no bug. Added missing kwin:false. Mandarin dual reading converted to list. **Found and fixed a real bug**: cantonese bin2 didn't match 蝙's own bin1 — corrected. Split comma-joined korean (moved native 박쥐 to prose). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蝸牛.
+
 **[Milestone: 3,170th logged iteration.]**

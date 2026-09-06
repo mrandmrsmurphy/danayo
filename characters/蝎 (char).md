@@ -7,7 +7,10 @@ japanese:
   - GACHI
 japanese_native: さそり
   - すくもむし
-vietnamese: hiết, hạt, yết
+vietnamese:
+  - hiết
+  - hạt
+  - yết
 middle_chinese_initial: x
 middle_chinese_final: ɨɐt
 stroke_count: 15
@@ -41,6 +44,8 @@ boundedness: 30
 [[nav/char_info]]
 ```
 ## Notes
-- [虫](Radical%20142) + [曷](characters/喝%20(char).md)
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 月開]]
+- 形声: semantic [虫](Radical%20142) ("insect") + phonetic [曷](characters/喝%20(char).md) — "scorpion."
+- Absent from the Classical Chinese usage ranking's verifiable range (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 曉]] + [[Lookup/CC/finals/韻 月開]] → [ㄏ⼶ㄊ](syllables/ㄏ⼶ㄊ.md)
+
+## Words
+- <ruby>[[蝎]]<rt>ㄏ⼶ㄊ</rt></ruby> "scorpion" (stand-in for 蝎)
