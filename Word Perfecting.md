@@ -1752,6 +1752,36 @@ Next: 衣襟.
 
 Next: 衣類.
 
+### 2026-09-05, iteration 3216 — [[words/衣類|衣類]]
+
+衣's own stand-in is this exact compound; 類's own is [[種類]] — transitivity fails, no cranberry (already documented). Pronunciation fields ('iǝlui/의뤼/ㄧㄜㄌㄨㄧ) already verified as the correct concatenation — no bug; kwin:false already correct. All other fields were already correctly filled. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 表彰.
+
+### 2026-09-05, iteration 3217 — [[words/表彰|表彰]]
+
+No cranberry (表's own stand-in is [[表現]], 彰's is [[彰明]]). Pronunciation fields (byaucang/뱟창/ㄅ⼘ㄨㄑㄚㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 表明.
+
+### 2026-09-05, iteration 3218 — [[words/表明|表明]]
+
+No cranberry (表's own stand-in is [[表現]], 明's is [[明]] itself). Pronunciation fields (byaumyeng/뱟명/ㄅ⼘ㄨㄇ⼶ㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese, quoted hsk_level. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 表現.
+
+### 2026-09-05, iteration 3219 — [[words/表現|表現]]
+
+表's own stand-in is this exact compound; 現's own is [[現]] itself — transitivity fails, no cranberry. Pronunciation fields (byauhyen/뱟현/ㄅ⼘ㄨㄏ⼶ㄋ) already verified as the correct concatenation — no bug; kwin:false already correct. All other fields confirmed standard and compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 表示.
+
+### 2026-09-05, iteration 3220 — [[words/表示|表示]]
+
+No cranberry (表's own stand-in is [[表現]], 示's is [[開示]]). Pronunciation fields (byauge/뱟거/ㄅ⼘ㄨㄍㄝ) already verified as the correct concatenation — no bug; kwin:false already correct. Confirmed 示's own divergent MC-derived syllable (ge/거/ㄍㄝ vs modern shì-like reflex) is genuine, matching the char page. Other fields confirmed standard and compositional. Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 衰弱.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
