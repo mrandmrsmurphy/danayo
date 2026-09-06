@@ -1343,3 +1343,31 @@ Next: 蒸汽.
 汽's own stand-in is this exact compound; 蒸's own is [[蒸]] itself — transitivity fails, no cranberry. Pronunciation fields (jingkiǝ/징킈/ㄐㄧㄫㄎㄧㄜ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese (chưng khí). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 蒼海.
+
+### 2026-09-05, iteration 3146 — [[words/蒼海|蒼海]]
+
+No cranberry (蒼's own stand-in is [[蒼]] itself, 海's is [[海洋]]). **Found and fixed two real bugs**: 羅馬字 canghai was missing 蒼's own glide (諺文/注音 already correct) → cwanghai; japanese さうかい used obsolete historical kana → modern そうかい. kwin:false already correct. Filled blank vietnamese (thương hải, matching the idiom 滄海桑田). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒼路.
+
+### 2026-09-05, iteration 3147 — [[words/蒼路|蒼路]]
+
+No cranberry (蒼's own stand-in is [[蒼]] itself, 路's is [[道路]]). Here 路 is a `借代字` for 鷺, so 蒼路 = 蒼鷺 "grey heron." **Found and fixed the same 蒼-glide bug as [[蒼海]]**: 羅馬字/諺文 canglo/창로 missing the glide (注音 already correct) → cwanglo/촹로. Confirmed japanese/korean/vietnamese are all real bird-name substitutions, not compositional. Filled blank cantonese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒼鉛.
+
+### 2026-09-05, iteration 3148 — [[words/蒼鉛|蒼鉛]]
+
+No cranberry (both 蒼's and 鉛's own stand-ins point to themselves). Pronunciation fields already correct concatenation — this one did NOT have the glide bug seen on [[蒼海]]/[[蒼路]]. kwin:false already correct. **Found and fixed a real bug**: cantonese bit1 was the modern replacement-element reading, inconsistent with mandarin's own deliberately-historical cāngqiān — corrected to the parallel historical-binome cong1jyun4. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蓄.
+
+### 2026-09-05, iteration 3149 — [[words/蓄|蓄]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/kwin/japanese. **Found a genuine homophone** with [[蹴]] ("kick") — added reciprocal callout, gave 蹴 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3150 — [[words/蹴|蹴]]
+
+Single-character stand-in word (companion to 蓄's homophone group). Fixed `vietnamese: null` → xúc. Added missing pos/kwin/japanese. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蓬藁.
