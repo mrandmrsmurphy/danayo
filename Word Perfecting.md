@@ -1530,4 +1530,38 @@ Single-character stand-in word. Pronunciation fields already matched the charact
 
 Next: 蚊帳.
 
+### 2026-09-05, iteration 3178 — [[words/蚊帳|蚊帳]]
+
+帳's own stand-in is this exact compound; 蚊's own is [[蚊]] itself — transitivity fails, no cranberry. Pronunciation fields (munjwang/문좡/ㄇㄨㄋㄐ⺢ㄫ) already verified as the correct concatenation — no bug. Added missing kwin:false. **Found and fixed three real bugs**: mandarin typo (wénzhàn→wénzhàng); cantonese mis-transcribed vowel order (zeong3→zoeng3); japanese naive on'yomi instead of the real jukujikun reading (ぶんちょう→かや). Filled blank korean/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蚕箔.
+
+### 2026-09-05, iteration 3179 — [[words/蚕箔|蚕箔]]
+
+箔's own stand-in is this exact compound; 蚕's own is [[蚕]] itself — transitivity fails, no cranberry. Pronunciation fields (jambag/잠박/ㄐㄚㄇㄅㄚㄎ) already verified as the correct concatenation — no bug. Added missing kwin:false and pos. Filled blank japanese/korean (천박, a coincidental collision with the unrelated common word "vulgar"). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蛇.
+
+### 2026-09-05, iteration 3180 — [[words/蛇|蛇]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Confirmed mandarin tā reflects a deliberate, already-documented vault choice (minority MC reading, anti-homophony) — not a bug, kept as-is. Removed redundant 品詞. Checked six candidate homophones — none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蛋白.
+
+### 2026-09-05, iteration 3181 — [[words/蛋白|蛋白]]
+
+蛋's own stand-in is this exact compound; 白's own is [[白]] itself — transitivity fails, no cranberry. Pronunciation fields (danbag/단박/ㄉㄚㄋㄅㄚㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional (all also real common "protein" terms). Filled blank vietnamese. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蛍.
+
+### 2026-09-05, iteration 3182 — [[words/蛍|蛍]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/kwin/japanese. **Found a genuine homophone** with [[迥]] ("distant, far") — added reciprocal callout, gave 迥 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3183 — [[words/迥|迥]]
+
+Single-character stand-in word (companion to 蛍's homophone group). Added missing pos/kwin/japanese. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蛭.
+
 **[Milestone: 3,170th logged iteration.]**
