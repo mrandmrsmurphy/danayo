@@ -14,7 +14,7 @@ stroke_count: 8
 radical: "虍"
 skip_number: 3-4-4
 grade_level: "3"
-pos: ""
+pos: 名詞
 english:
   - tiger
 羅馬字: ho
@@ -48,6 +48,7 @@ boundedness: 75
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby> "tiger" (stand-in for 虎)
 - <ruby>[[虎鯨]]<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby> "orca; killer whale"
 
 ## Chengyu

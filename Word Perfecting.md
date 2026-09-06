@@ -1477,3 +1477,33 @@ Next: 蘭月.
 No cranberry (蘭's own stand-in is [[蘭花]], 月's is [[月]] itself). Pronunciation fields (lan'wed/란웓/ㄌㄚㄋ·⼔ㄊ) already verified as the correct concatenation — no bug; kwin:false already correct. Korean already correctly unshifted. Japanese らんつき confirmed genuine, matching the on'yomi-only poetic-month precedent set by [[菊月]]. Fixed cantonese stray space, removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 蘭花.
+
+### 2026-09-05, iteration 3169 — [[words/蘭花|蘭花]]
+
+蘭's own stand-in is this exact compound; 花's own is [[草花]] — transitivity fails, no cranberry. Pronunciation fields (lanhwa/란화/ㄌㄚㄋㄏ⺢) already verified as the correct concatenation — no bug. Added missing kwin:true. **Found and fixed a real bug**: japanese ランの花 (a phrase, not a word) → ラン, the standard word. Filled blank korean/vietnamese (hoa lan, real term, reversed order). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虎.
+
+### 2026-09-05, iteration 3170 — [[words/虎|虎]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/kwin/japanese. **Completed a three-way homophone group** with [[乎]]/[[呼]] (both already perfected and already anticipating this callout) — added the reciprocal callout here. In passing, fixed the 24th empty-string field bug (`characters/虎 (char).md` pos) and a missing self-citation on its own Words list. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虚.
+
+### 2026-09-05, iteration 3171 — [[words/虚|虚]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing pos/japanese, filled blank korean/vietnamese. **Found a genuine homophone** with [[許]] ("permit, allow") — added reciprocal callout, gave 許 a full pass too. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-05, iteration 3172 — [[words/許|許]]
+
+Single-character stand-in word (companion to 虚's homophone group). Fixed `vietnamese: null` → hứa. Added missing pos/kwin/japanese. Fixed a missing stand-in annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虚偽.
+
+### 2026-09-05, iteration 3173 — [[words/虚偽|虚偽]]
+
+No cranberry (both 虚's and 偽's own stand-ins point to themselves). Pronunciation fields (hyo'wei/효웨/ㄏ⼄⼔ㄧ) already verified as the correct concatenation — no bug. Added missing kwin:false. Mandarin dual reading converted to list. **Found and fixed a real bug**: korean 허위의 had a stray genitive suffix — corrected to 허위. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虱.
+
+**[Milestone: 3,170th logged iteration.]**

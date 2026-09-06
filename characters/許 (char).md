@@ -59,6 +59,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[許]]<rt>ㄏ⼄</rt></ruby> "permit, allow" (stand-in for 許)
 - <ruby>[[許可]]<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission; authorization"
 - <ruby>[[准許]]<rt>ㄐㄨㄋㄏ⼄</rt></ruby> "allow; permit"
 - <ruby>[[允許]]<rt>⼜ㄋㄏ⼄</rt></ruby> "grant; allow"
