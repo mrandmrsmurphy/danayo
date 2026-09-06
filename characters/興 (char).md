@@ -56,7 +56,7 @@ boundedness: 100
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[興]]<rt>ㄏㄜㄫ</rt></ruby> "entertain"
+- <ruby>[[興]]<rt>ㄏㄜㄫ</rt></ruby> "entertain" (stand-in for 興)
 - <ruby>[[興旺]]<rt>ㄏㄜㄫ⺢ㄫ</rt></ruby> "thriving; prosperous"
 - <ruby>[[興起]]<rt>ㄏㄜㄫㄎㄧ</rt></ruby> "to rise up, emerge"
 - <ruby>[[勃興]]<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby> "rise"

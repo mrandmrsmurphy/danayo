@@ -49,7 +49,8 @@ boundedness: 35
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md) — promoted from Korean HS to MS in 2000.
 
 ## Words
-- <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄨㄋ</rt></ruby> "root of the tongue, taste faculty"
+- <ruby>[[舌]]<rt>ㄙㄝㄊ</rt></ruby> "tongue" (stand-in for 舌)
+- <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby> "root of the tongue, taste faculty"
 - <ruby>[[尭舌]]<rt>⼘ㄨㄙㄝㄊ</rt></ruby> "talkative; MC-ing"
 
 ## Derived Characters

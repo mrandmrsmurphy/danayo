@@ -845,3 +845,63 @@ Next: 自転車.
 No cranberry (none of the three constituents' own stand-ins point here). **Found and fixed a real bug**: `羅馬字` missing 車's own -w- glide (jiǝjwenca→jiǝjwencwa), same single-field-only class as [[自動車]]'s earlier fix — `諺文`/`注音` had already stayed correct. Filled blank cantonese. Verified korean 자전거 (alternate 거 reading of 車, specific to this compound) and vietnamese xe đạp (a genuine native term) as real, not bugs. Fixed a missing "(stand-in for 転)" annotation and a completely missing 自転車 citation on `characters/転.md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 至日.
+
+### 2026-09-05, iteration 3063 — [[words/至日|至日]]
+
+No cranberry (至's own stand-in is [[至]] itself, 日's own is [[日]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝnid/즤닏/ㄐㄧㄜㄋㄧㄊ) already verified as the correct concatenation — no bug (至 and 自 coincidentally share the exact same syllable jiǝ/즤/ㄐㄧㄜ, confirmed genuine, not contamination). Added missing `kwin: false`. Filled a completely missing vietnamese field. Quoted pronunciation fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 至極.
+
+### 2026-09-05, iteration 3064 — [[words/至極|至極]]
+
+No cranberry (至's own stand-in is [[至]] itself, 極's own is [[極]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝgig/즤긱/ㄐㄧㄜㄍㄧㄎ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Filled blank vietnamese. Fixed cantonese's stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 至点.
+
+### 2026-09-05, iteration 3065 — [[words/至点|至点]]
+
+No cranberry (至's own stand-in is [[至]] itself, 点's own is [[点]] itself) — neither constituent legitimized by this word. Pronunciation fields (jiǝdem/즤덤/ㄐㄧㄜㄉㄝㄇ) already verified as the correct concatenation — no bug. Added missing `kwin: false`. Fixed cantonese's stray space and quoted pronunciation fields. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 致.
+
+### 2026-09-05, iteration 3066 — [[words/致|致]]
+
+Single-character stand-in word. Pronunciation fields (ciǝ/츼/ㄑㄧㄜ) already matched the character's own values — no bug. Added missing pos/japanese/vietnamese. Found a genuine homophone with [[遅]] ("late, slow") — gave it a full pass too since otherwise unperfected (fixed two literal-`"null"`-string bugs on korean/vietnamese, added missing pos/kwin/japanese), added reciprocal callouts. Checked the third ㄑㄧㄜ-reading character, 次 — its own `stand_in` is [[次第]], no third homophone. Fixed a self-citation entirely missing from `characters/致 (char).md`'s own Words list. Stamped `date-last-perfect: 2026-09-05` on both word pages.
+
+Next: 致使.
+
+### 2026-09-05, iteration 3067 — [[words/致使|致使]]
+
+No cranberry (致's own stand-in is [[致]] itself, 使's own is [[使者]]) — neither constituent legitimized by this word. Pronunciation fields (ciǝsi/츼시/ㄑㄧㄜㄙㄧ) already verified as the correct concatenation — no bug. Added missing `kwin: false`. Filled blank japanese/korean/vietnamese, fixed cantonese's stray space, removed redundant `品詞`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 興.
+
+### 2026-09-05, iteration 3068 — [[words/興|興]]
+
+Single-character stand-in word. Pronunciation fields (hǝng/흥/ㄏㄜㄫ) already matched the character's own values — no bug. Added missing pos/japanese (おこ, native kun-reading), filled blank vietnamese. Fixed a missing "(stand-in for 興)" annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 舌根.
+
+### 2026-09-05, iteration 3069 — [[words/舌根|舌根]]
+
+No cranberry (舌's own stand-in is [[舌]] itself, 根's own is [[根]] itself) — neither constituent legitimized by this word. **Found and fixed two real bugs**: `羅馬字`/`諺文` had a vowel mismatch on 根's syllable (sedgan/섣간→sedgǝn/섣근; `注音` had already stayed correct); `cantonese` had a tone error (sit6→sit3, matching 舌's own sit3). Fixed a wrong rt-annotation (ㄍㄨㄋ→ㄍㄜㄋ) and a missing self-citation on `characters/舌 (char).md`'s own Words list. Fixed a comma-joined `vietnamese` on `characters/根 (char).md` into a proper list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 舗.
+
+### 2026-09-05, iteration 3070 — [[words/舗|舗]]
+
+Single-character stand-in word. Pronunciation fields (pou/폿/ㄆㄛㄨ) already matched the character's own values — no bug. Added missing pos/japanese (ホ, on-reading since no native kun exists). No homophones. In passing, fixed the 19th empty-string field bug on `characters/舗 (char).md` (`hsk_level: ""` → "無"). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 航空.
+
+### 2026-09-05, iteration 3071 — [[words/航空|航空]]
+
+No cranberry (航's own stand-in is [[航行]], 空's own is [[空]] itself) — neither constituent legitimized by this word. **Found and fixed a real bug**: `japanese` had かうくう instead of こうくう (koukuu). Pronunciation fields (hangkong/항콩/ㄏㄚㄫㄎㄛㄫ) already verified as the correct concatenation — no bug; `kwin: false` already correct. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 航空母艦.
+
+### 2026-09-05, iteration 3072 — [[words/航空母艦|航空母艦]]
+
+No cranberry (none of the four constituents' own stand-ins point here). **Found and fixed a real bug**: `japanese` had かうくうぼかん instead of こうくうぼかん, same class as [[航空]]'s earlier fix. Pronunciation fields (hangkongmouham/항콩못함/ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ) already verified as the correct concatenation — no bug; `kwin: false` already correct. Fixed cantonese's stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 船尾.

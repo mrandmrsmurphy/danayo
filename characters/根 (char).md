@@ -7,7 +7,9 @@ japanese:
   - KON
 japanese_native: ね
 vietnamese:
-  - căn, cằn, cỗi
+  - căn
+  - cằn
+  - cỗi
 middle_chinese_initial: k
 middle_chinese_final: ən
 stroke_count: 10

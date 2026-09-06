@@ -50,6 +50,7 @@ boundedness: 40
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[致]]<rt>ㄑㄧㄜ</rt></ruby> "cause" (stand-in for 致)
 - <ruby>[[致使]]<rt>ㄑㄧㄜㄙㄧ</rt></ruby> "that; resulting in"
 - <ruby>[[景致]]<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby> "scenery"
 - <ruby>[[一致]]<rt>ㄧㄊㄑㄧㄜ</rt></ruby> "be unanimous with; agree with"
