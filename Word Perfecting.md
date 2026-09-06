@@ -2162,7 +2162,19 @@ No cranberry (誠's own stand-in is [[誠実]], 意's own stand-in is [[意味]]
 ### 2026-09-06, iteration 3320 — [[words/誤差|誤差]]
 No cranberry (誤's own stand-in is [[錯誤]], 差's own stand-in is [[差別]]). Pronunciation fields ('oca/오차/ㄛㄑㄚ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank pos (名詞) and vietnamese (ngộ sai, compositional). Fixed cantonese stray space. Removed blank hsk_level/swadesh. In passing, converted a malformed space-joined mandarin field on `characters/差.md` into a proper list. homophone_check.py found no independent homophones.
 
-Next: 誤謬.
+### 2026-09-06, iteration 3321 — [[words/誤謬|誤謬]]
+No cranberry (誤's own stand-in is [[錯誤]], 謬's own stand-in is this exact compound). Pronunciation fields ('omyu/오뮤/ㄛㄇ⼜) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3322 — [[words/説明|説明]]
+No cranberry (説's own stand-in is [[学説]], 明's own stand-in is [[明]] itself). Pronunciation fields (swedmyeng/숻명/ㄙ⼔ㄊㄇ⼶ㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank pos (動詞) and vietnamese (thuyết minh, real standard term). Fixed cantonese stray space. Removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3323 — [[words/読書|読書]]
+No cranberry (読's own stand-in is [[閲読]], 書's own stand-in is [[書本]]). Pronunciation fields (dogsyo/독쇼/ㄉㄛㄎㄙ⼄) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, filled blank aliases (读书). In passing, added 読's own previously-blank vietnamese reading (đọc) to `characters/読.md`. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3324 — [[words/読点|読点]]
+No cranberry (読's own stand-in is [[閲読]], 点's own stand-in is [[点]] itself). Pronunciation fields (dogdem/독덤/ㄉㄛㄎㄉㄝㄇ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank mandarin/cantonese/korean/vietnamese (korean 독점 compositionally coincides with an unrelated real word, not a bug). homophone_check.py found no independent homophones.
+
+Next: 課.
 
 **[Milestone: 3,200th logged iteration.]**
 
