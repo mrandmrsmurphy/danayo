@@ -1942,6 +1942,21 @@ No cranberry (西's own stand-in is [[西方]], 瓜's is [[胡瓜]]). Pronunciat
 
 Next: 西端.
 
+### 2026-09-05, iteration 3248 — [[words/西端|西端]]
+
+No cranberry (西's own stand-in is [[西方]], 端's is [[末端]]). Pronunciation fields (seidwan/세돤/ㄙㄝㄧㄉ⺢ㄋ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+### 2026-09-06, iteration 3249 — [[words/西部|西部]]
+Verified concatenation (sei/세/ㄙㄝㄧ + bou/봇/ㄅㄛㄨ = seibou/세봇/ㄙㄝㄧㄅㄛㄨ) already matched stored fields — no bug. 西's own stand_in is 西方; 部's own stand_in is 部 itself — no cranberry. kwin AND-rule (西 false, 部 false → false) already correct. Fixed cantonese's stray space (sai1 bou6 → sai1bou6). Filled blank vietnamese (tây bộ, compositional). Removed blank hsk_level/swadesh. Fixed a missing "(stand-in for 部)" annotation on `characters/部 (char).md`'s own [[部]] citation. homophone_check.py found no independent homophones. Wrote Notes/Etymology sections.
+
+### 2026-09-06, iteration 3250 — [[words/要約|要約]]
+No cranberry (要's own stand-in is [[重要]], 約's own stand-in is [[約束]]). Pronunciation fields ('you'yag/욧약/⼄ㄨ⼘ㄎ) already matched the straightforward concatenation — no bug. kwin AND-rule (要 false, 約 true → false) already correct. Filled blank mandarin (yāoyuē, real legal term "offer"), cantonese (jiu3joek3), and vietnamese (yếu ước, compositional using each constituent's own established compound-context reading). Added missing simplified alias 要约. Converted characters to flow-style YAML. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3251 — [[words/要素|要素]]
+No cranberry (要's own stand-in is [[重要]]; 素's own stand-in is [[要素]] itself, but transitivity fails since 要's doesn't match — one-sided legitimization, not cranberry). Pronunciation fields ('youso/욧소/⼄ㄨㄙㄛ) already matched the straightforward concatenation — no bug. kwin AND-rule (要 false, 素 true → false) already correct. **Found and fixed a real bug**: japanese had えうそ, obsolete historical kana — corrected to modern ようそ. Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 覆蓋.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**

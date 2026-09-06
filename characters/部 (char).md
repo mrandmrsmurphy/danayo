@@ -49,7 +49,7 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[部]]<rt>ㄅㄛㄨ</rt></ruby> "part"
+- <ruby>[[部]]<rt>ㄅㄛㄨ</rt></ruby> "part" (stand-in for 部)
 - <ruby>[[北部]]<rt>ㄅㄨㄎㄅㄛㄨ</rt></ruby> "north, northern area"
 - <ruby>[[南部]]<rt>ㄋㄚㄇㄅㄛㄨ</rt></ruby> "south, southern area"
 - <ruby>[[東部]]<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby> "east, eastern part"
