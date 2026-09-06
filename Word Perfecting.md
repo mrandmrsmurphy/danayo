@@ -1994,7 +1994,22 @@ Single-character stand-in word (解's own stand-in is 解 itself). Pronunciation
 ### 2026-09-06, iteration 3264 — [[words/解剖|解剖]]
 No cranberry (解's own stand-in is [[解]] itself, 剖's own stand-in is this exact compound). Pronunciation fields (gyaifou/걔뽓/ㄍ⼘ㄧㄈㄛㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
 
-Next: 解放.
+### 2026-09-06, iteration 3265 — [[words/解放|解放]]
+No cranberry (解's own stand-in is [[解]] itself, 放's own stand-in is [[釈放]]). **Found and fixed a real bug**: 羅馬字/諺文 had gyaibang/걔방 instead of 放's own gyaifang/걔빵 (注音 already correct — same failure class as the 福/覆蓋-family voiced/voiceless confusion bug). kwin false already correct (AND-rule). Filled blank pos (動詞). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3266 — [[words/解禁|解禁]]
+No cranberry (解's own stand-in is [[解]] itself, 禁's own stand-in is [[禁止]]). Pronunciation fields (gyaigim/걔김/ㄍ⼘ㄧㄍㄧㄇ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3267 — [[words/言語|言語]]
+No cranberry (言's own stand-in is [[言]] itself, 語's own stand-in is this exact compound). Pronunciation fields ('en'yo/언요/ㄝㄋ·⼄) already matched the straightforward concatenation, including the correct null-onset separator dot — no bug. kwin false already correct (AND-rule). Mandarin/cantonese legitimately cite the same real term as [[語言]] (Mandarin/Cantonese have no reversed-order word); japanese/korean/vietnamese correctly reflect this word's own 言-then-語 order. **Found and fixed a real bug**: `aliases` wrongly listed [[語言]]/语言 as orthographic variants — 語言 is a distinct, separately-perfected word with its own different reading, not an alias; corrected to genuine simplified variant 言语. Fixed cantonese stray space, removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3268 — [[words/訃告|訃告]]
+No cranberry (訃's own stand-in is this exact compound, 告's own stand-in is [[告訴]]). Pronunciation fields (fuogau/뿟갓/ㄈㄨㄛㄍㄚㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3269 — [[words/計画|計画]]
+No cranberry (計's own stand-in is this exact compound, 画's own stand-in is [[絵画]]). Pronunciation fields (geihwag/게확/ㄍㄝㄧㄏ⺢ㄎ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Confirmed the stored aliases (計劃/计划) are genuine real orthographic variants, unlike the false-alias bug just fixed on [[言語]]. Quoted hsk_level, removed blank swadesh. homophone_check.py found no independent homophones.
+
+Next: 討伐.
 
 **[Milestone: 3,200th logged iteration.]**
 
