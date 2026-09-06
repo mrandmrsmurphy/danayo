@@ -1423,3 +1423,33 @@ Next: 薄荷.
 No cranberry (薄's own stand-in is [[希薄]], 荷's is [[荷物]]). Pronunciation fields (bagha/박하/ㄅㄚㄎㄏㄚ) already verified as the correct concatenation — no bug; kwin:true already correct. Mandarin bòhe confirmed using 薄's special reading, genuine. **Found and fixed a real bug**: japanese はくか missing 促音便 gemination → はっか (same class as [[落下傘]]/落下). Korean/vietnamese confirmed real standard terms. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 薔薇.
+
+### 2026-09-05, iteration 3160 — [[words/薔薇|薔薇]]
+
+**Genuine `#cranberry`** (both 薔's and 薇's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (cwangmiǝ/촹믜/ㄑ⺢ㄫㄇㄧㄜ) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin/korean/vietnamese confirmed standard and genuine. **Found and fixed a real bug**: japanese comma-joined ばら with しやうび, obsolete historical kana for しょうび — modernized, converted to list. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薬.
+
+### 2026-09-05, iteration 3161 — [[words/薬|薬]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Removed redundant 品詞. Checked three candidate homophones (約, 虐, 躍) — none independently legitimized, so no genuine homophone. Fixed a missing stand-in annotation on the char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 薬丸.
+
+### 2026-09-05, iteration 3162 — [[words/薬丸|薬丸]]
+
+丸's own stand-in is this exact compound; 薬's own is [[薬]] itself — transitivity fails, no cranberry. Pronunciation fields ('yaghwan/약환/⼘ㄎㄏ⺢ㄋ) already verified as the correct concatenation — no bug. Added missing kwin:true. Filled blank japanese/korean/vietnamese — all real terms, but each in the reversed order (丸薬/환약/hoàn dược), matching this word's own already-listed reversed-order aliases. Fixed cantonese stray space (kept tone-sandhi notation). **Noted a romanization-style inconsistency** for future attention: `characters/薬 (char).md` and `words/薬.md` both use Yale-style cantonese "yeuk6" while this word correctly uses jyutping "joek6" for the same character — worth reconciling later. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 藍.
+
+### 2026-09-05, iteration 3163 — [[words/藍|藍]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. **Found and fixed a real bug**: korean 남 (두음법칙-shifted) → 람 (unshifted, per standing rule). Fixed vietnamese null→lam. Added missing pos/kwin/japanese. Checked six candidate homophones — none independently legitimized. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 藍木.
+
+### 2026-09-05, iteration 3164 — [[words/藍木|藍木]]
+
+No cranberry (both 藍's and 木's own stand-ins point to themselves). Pronunciation fields (lammog/람목/ㄌㄚㄇㄇㄛㄎ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Confirmed mandarin/korean legitimately use the reversed real-term order (木藍, already an alias), same pattern as [[薬丸]]. Japanese confirmed a genuine botanical-name substitution. Filled blank cantonese/vietnamese (reversed order). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 藍色.

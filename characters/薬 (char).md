@@ -54,7 +54,7 @@ boundedness: 55
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[薬]]<rt>⼘ㄎ</rt></ruby> "medicine, drug"
+- <ruby>[[薬]]<rt>⼘ㄎ</rt></ruby> "medicine, drug" (stand-in for 薬)
 - <ruby>[[薬丸]]<rt>⼘ㄎㄏ⺢ㄋ</rt></ruby> "pill, tablet"
 - <ruby>[[薬剤]]<rt>⼘ㄎㄐㄝㄧ</rt></ruby> "medicine; pharmaceutical; drug"
 - <ruby>[[炸薬]]<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby> "explosive"
