@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
-- <ruby>[[謎]]<rt>ㄇㄝㄧ</rt></ruby> "riddle; mystery; enigma"
+- <ruby>[[謎]]<rt>ㄇㄝㄧ</rt></ruby> "riddle; mystery; enigma" (stand-in for 謎 (char))

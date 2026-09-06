@@ -2227,7 +2227,37 @@ Single-character stand-in word (謁's own stand-in is 謁 itself). **Found and f
 ### 2026-09-06, iteration 3341 — [[words/謂之|謂之]]
 No cranberry (謂's own stand-in is [[所謂]], 之's own stand-in is [[之]] itself). Pronunciation fields (witi/위티/ㄨㄧㄊㄧ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank cantonese/korean/japanese/vietnamese, all compositional. Removed redundant duplicate 品詞, fixed mandarin's stray space. Fixed a missing citation on `characters/之 (char).md`'s own Words list. homophone_check.py found no independent homophones.
 
-Next: 謄録.
+### 2026-09-06, iteration 3342 — [[words/謄録|謄録]]
+No cranberry (謄's own stand-in is this exact compound, 録's own stand-in is [[抄録]]). Pronunciation fields (dǝnglog/등록/ㄉㄜㄫㄌㄛㄎ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Filled blank vietnamese (đằng lục, compositional). Fixed a missing "(stand-in for 謄)" annotation on `characters/謄.md`'s own Words list. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3343 — [[words/謎|謎]]
+Single-character stand-in word (謎's own stand-in is 謎 itself). Pronunciation fields (mei/메/ㄇㄝㄧ) already matched the character's own stored reading — no bug. Added missing japanese/kwin. Confirmed existing [[米]]/[[迷]] homophone callouts complete. Fixed a missing "(stand-in for 謎 (char))" annotation on the character page's own Words list. homophone_check.py found no other homophones.
+
+### 2026-09-06, iteration 3344 — [[words/謹慎|謹慎]]
+**Genuine `#cranberry`** (both 謹's and 慎's own stand-ins point here — full transitivity, already correctly tagged). Pronunciation fields (ginsin/긴신/ㄍㄧㄋㄙㄧㄋ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule) and **found and fixed a real bug**: cantonese had sen6, not matching 慎's own stored san6 — corrected to gan2san6. Filled blank korean (근신) and vietnamese (cẩn thận). Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3345 — [[words/識字|識字]]
+No cranberry (識's own stand-in is [[認識]], 字's own stand-in is [[字]] itself). **Found and fixed a real bug**: 羅馬字 had sikji instead of 識's own sigji (諺文/注音 already correct — Hangul batchim doesn't distinguish g/k). kwin false already correct (AND-rule). Converted two real mandarin readings into a list. Filled blank pos (名詞) and vietnamese (thức tự). Fixed cantonese stray space, removed redundant duplicate 品詞. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3346 — [[words/議員|議員]]
+No cranberry (議's own stand-in is [[議論]], 員's own stand-in is [[人員]]). **Found and fixed a real bug**: 羅馬字/諺文 had 'wi'un/위운 instead of 議's own 'ǝi'un/읫운 (注音 already correct — 議 carries 義 as phonetic component and inherited the same historical misreading bug fixed 7 times earlier this session for 義-final compounds). Added missing kwin (true, AND-rule). Fixed cantonese stray space. Removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3347 — [[words/議定|議定]]
+No cranberry (議's own stand-in is [[議論]], 定's own stand-in is [[決定]]). Found and fixed a real bug: 羅馬字/諺文 had 'wijeng/위정 instead of 議's own 'ǝijeng/읫정 (注音 already correct — same 議/義-family misreading bug as [[議員]]). Added missing kwin (true, AND-rule). Filled blank pos (動詞) and vietnamese (nghị định). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3348 — [[words/議論|議論]]
+No cranberry (議's own stand-in is this exact compound, 論's own stand-in is [[理論]]). Pronunciation fields already correctly used 議's own 'ǝi form (no bug here, unlike the sibling compounds). Added missing kwin (false, AND-rule). Filled blank vietnamese (nghị luận). Fixed cantonese stray space. Added missing simplified alias 议论. **Out-of-sequence fix**: while checking for other instances of the 議-misreading bug, found and fixed the same bug on still-unperfected `words/会議.md` (hwe'wi→hwe'ǝi) — confirmed all other 議-compounds (協議/衆議/衆議院/思議/諌議) were already correctly stamped with 'ǝi from their own original perfecting passes. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3349 — [[words/護金|護金]]
+No cranberry (護's own stand-in is [[守護]], 金's own stand-in is [[金]] itself). Pronunciation fields (hogim/호김/ㄏㄛㄍㄧㄇ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Periodic-table neologism (palladium); cantonese paa4 confirmed to legitimately track the real element name 钯. **Found and fixed a real bug**: mandarin had the wrong tone (bā→bǎ, matching 钯's real reading). Removed redundant duplicate 品詞, simplified single-item lists to scalars. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3350 — [[words/豆腐|豆腐]]
+No cranberry (豆's own stand-in is [[豆]] itself, 腐's own stand-in is [[腐敗]]). Pronunciation fields (doupu/돗푸/ㄉㄛㄨㄆㄨ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Converted comma-joined mandarin and vietnamese into proper YAML lists. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3351 — [[words/豊富|豊富]]
+**Genuine `#cranberry`** (both 豊's and 富's own stand-ins point here — full transitivity, tag added). **Found and fixed a real bug**: 羅馬字/諺文 had pungbuo/푼붓 instead of the correct pungfuo/풍뿟 (注音 already correct throughout). kwin false already correct (AND-rule). Filled blank vietnamese (phong phú, real standard term). Quoted hsk_level. Both character-page citations already correctly annotated. homophone_check.py found no independent homophones.
+
+Next: 豊尭.
 
 **[Milestone: 3,200th logged iteration.]**
 
