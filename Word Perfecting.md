@@ -2057,7 +2057,22 @@ No cranberry (証's own stand-in is [[証明]], 人's own stand-in is [[人]] it
 ### 2026-09-06, iteration 3285 — [[words/証券|証券]]
 No cranberry (証's own stand-in is [[証明]], 券's own stand-in is [[券]] itself). Pronunciation fields (jingkon/징콘/ㄐㄧㄫㄎㄛㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 証拠.
+### 2026-09-06, iteration 3286 — [[words/証拠|証拠]]
+No cranberry (証's own stand-in is [[証明]], 拠's own stand-in is [[依拠]]). Pronunciation fields (jinggyo/징교/ㄐㄧㄫㄍ⼄) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level. Confirmed stored aliases are genuine real orthographic variants. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3287 — [[words/証明|証明]]
+No cranberry (証's own stand-in is this exact compound, 明's own stand-in is [[明]] itself). Pronunciation fields (jingmyeng/징명/ㄐㄧㄫㄇ⼶ㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3288 — [[words/評価|評価]]
+No cranberry (評's own stand-in is this exact compound, 価's own stand-in is [[価格]]). Pronunciation fields (byengga/병가/ㄅ⼶ㄫㄍㄚ) already matched the straightforward concatenation — no bug. **Added missing `kwin`** (false, AND-rule). Filled blank vietnamese (bình giá, real standard term). Fixed cantonese stray space. Confirmed stored alias is a genuine real orthographic variant. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3289 — [[words/評論|評論]]
+No cranberry (評's own stand-in is [[評価]], 論's own stand-in is [[理論]]). Pronunciation fields (byenglon/병론/ㄅ⼶ㄫㄌㄛㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank pos (名詞). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3290 — [[words/詞典|詞典]]
+No cranberry (詞's own stand-in is [[単詞]], 典's own stand-in is [[事典]]). Pronunciation fields (saden/사던/ㄙㄚㄉㄝㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed two real bugs**: vietnamese had tự điển (contaminated from sibling word [[字典]]'s own reading) instead of the real từ điển; aliases wrongly listed 辭典/辞典/辞書 as orthographic variants — 辭/辞 is a distinct character with its own separate Dan'a'yo reading (ci/치/ㄑㄧ, own stand-in [[辞職]]), same false-alias failure mode as [[言語]]'s earlier fix. Kept only the genuine simplified alias 词典. Fixed cantonese stray space, quoted hsk_level. homophone_check.py found no independent homophones.
+
+Next: 詞句.
 
 **[Milestone: 3,200th logged iteration.]**
 
