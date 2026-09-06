@@ -1265,3 +1265,27 @@ Next: 菱形.
 No cranberry (both 菱's and 形's own stand-ins point to themselves). Pronunciation fields (lǝngheng/릉헝/ㄌㄜㄫㄏㄝㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional. Filled blank vietnamese (lăng hình, compositional). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 萌芽.
+
+### 2026-09-05, iteration 3133 — [[words/萌芽|萌芽]]
+
+萌's own stand-in is this exact compound; 芽's own is [[新芽]] — transitivity fails, no cranberry (already documented). Pronunciation fields (mǝng'a/믕아/ㄇㄜㄫ·ㄚ) already verified as the correct concatenation — no bug; kwin:false already correct. Other-language fields confirmed standard and compositional (vietnamese already attested via hvdic). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 萎縮.
+
+### 2026-09-05, iteration 3134 — [[words/萎縮|萎縮]]
+
+萎's own stand-in is this exact compound; 縮's own is [[縮]] itself — transitivity fails, no cranberry (already documented). Pronunciation fields ('weisug/웨숙/⼔ㄧㄙㄨㄎ) already verified as the correct concatenation — no bug; kwin:false already correct. Mandarin's dual reading confirmed genuine (matches 萎's own), converted to list. Other fields confirmed compositional. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 萬物.
+
+### 2026-09-05, iteration 3135 — [[words/萬物|萬物]]
+
+萬's own stand-in is this exact compound; 物's own is [[物]] itself — transitivity fails, no cranberry. Pronunciation fields (monmud/몬묻/ㄇㄛㄋㄇㄨㄊ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a documentation bug**: this page's own `aliases` field wrongly listed [[万物]] as an alias — 万物 is actually a full independent word page (the 大字 anti-falsification orthographic counterpart), matching the established 萬/万 character-level precedent of NOT cross-aliasing; removed the wrong alias entry. Other fields confirmed standard and compositional. Fixed cantonese stray space. No genuine homophones (万物 duplicate excluded, intentional). Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 落下傘.
+
+### 2026-09-05, iteration 3136 — [[words/落下傘|落下傘]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (lakhasan/락하산/ㄌㄚㄎㄏㄚㄙㄚㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Confirmed mandarin/cantonese legitimately track the real distinct term 降落伞. **Found and fixed two real bugs**: japanese らくかさん missing well-established 促音便 gemination → らっかさん; korean 낙하산 was 두음법칙-shifted → 락하산 (unshifted North Korean form, per standing rule). Fixed cantonese stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 落花.
