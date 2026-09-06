@@ -56,7 +56,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[班]]<rt>ㄆㄚㄋ</rt></ruby> "group, party, section"
+- <ruby>[[班]]<rt>ㄆㄚㄋ</rt></ruby> "group, party, section" (stand-in for 班)
 - <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
 - <ruby>[[西班牙]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby> "Spain"
-- <ruby>[[西班牙語]]<rt>ㄙㄝㄧㄆㄚㄋㄚ⼄</rt></ruby> "Spanish language"
+- <ruby>[[西班牙語]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ⼄</rt></ruby> "Spanish language"

@@ -1912,6 +1912,36 @@ No cranberry (西's own stand-in is [[西方]], 北's is [[北方]]). Pronunciat
 
 Next: 西方.
 
+### 2026-09-05, iteration 3243 — [[words/西方|西方]]
+
+西's own stand-in is this exact compound; 方's own is [[方向]] — transitivity fails, no cranberry. Pronunciation fields (seifang/세빵/ㄙㄝㄧㄈㄚㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: cantonese xi1 fang1 was invalid jyutping — corrected to sai1fong1. Other fields confirmed standard and compositional. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西洋.
+
+### 2026-09-05, iteration 3244 — [[words/西洋|西洋]]
+
+No cranberry (西's own stand-in is [[西方]], 洋's is [[大洋]]). **Found and fixed a real bug**: 注音 was missing the null-onset separator before 洋's own vowel-initial syllable (ㄙㄝㄧ⼘ㄫ→ㄙㄝㄧ·⼘ㄫ), matching the established convention already used on [[大洋]] — fixed the matching citations on both `characters/洋.md` and `characters/西.md`. kwin:false already correct. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西班牙.
+
+### 2026-09-05, iteration 3245 — [[words/西班牙|西班牙]]
+
+No cranberry (none of the three constituents' stand-ins point here). Pronunciation fields (seipan'a/세판아/ㄙㄝㄧㄆㄚㄋ·ㄚ) already verified as the correct concatenation, including the null-onset syllable break — no bug; kwin:false already correct. As a proper place name, other-language fields legitimately hold the real attested name/transliteration. Fixed cantonese stray spaces and a missing stand-in annotation on `characters/班 (char).md`. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西班牙語.
+
+### 2026-09-05, iteration 3246 — [[words/西班牙語|西班牙語]]
+
+No cranberry (all four constituents separately legitimized elsewhere). **Found and fixed two real bugs**: 注音 was missing the null-onset separator before 牙's syllable (matching [[西班牙]]'s own established pattern) — fixed here and on the matching citations on `characters/班 (char).md`, `characters/牙.md`, and `characters/語.md`; aliases wrongly self-listed the headword as its own alias — removed. kwin:false already correct. Other fields confirmed genuine real attested terms. Fixed cantonese stray spaces. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西瓜.
+
+### 2026-09-05, iteration 3247 — [[words/西瓜|西瓜]]
+
+No cranberry (西's own stand-in is [[西方]], 瓜's is [[胡瓜]]). Pronunciation fields (seigwa/세과/ㄙㄝㄧㄍ⺢) already verified as the correct concatenation — no bug. Added missing kwin:false. **Found and fixed a real bug**: japanese すいくわ used obsolete historical kana → modern すいか. Split comma-joined korean (moved native 수박 to prose). Filled blank vietnamese (real term). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 西端.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
