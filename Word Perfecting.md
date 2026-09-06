@@ -2203,7 +2203,19 @@ No cranberry (論's own stand-in is [[理論]], 争's own stand-in is [[抗争]]
 ### 2026-09-06, iteration 3333 — [[words/諦|諦]]
 Single-character stand-in word (諦's own stand-in is 諦 itself). Pronunciation fields (tei/테/ㄊㄝㄧ) already matched the character's own stored reading — no bug. Added missing japanese/kwin. Confirmed existing [[締]]/[[剃]] homophone callouts complete. Fixed a malformed non-ruby, unannotated Words-list citation on the character page. homophone_check.py confirmed no other homophones.
 
-Next: 諭示.
+### 2026-09-06, iteration 3334 — [[words/諭示|諭示]]
+No cranberry (諭's own stand-in is this exact compound, 示's own stand-in is [[開示]]). **Found and fixed a real bug**: 羅馬字/諺文 had 'yuge/유거 instead of 諭's own 'yumge/윰거 (注音 already correct — missing final -m, same class as the福/覆蓋/解放/訪問/語法-family bugs). kwin false already correct (AND-rule). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3335 — [[words/諱|諱]]
+Single-character stand-in word (諱's own stand-in is 諱 itself). Pronunciation fields (hui/휘/ㄏㄨㄧ) already matched the character's own stored reading — no bug. Fixed bare-string characters format. Checked seven candidates sharing this syllable (卉/徽/戯/揮/犠/葦/輝), none independently legitimized. Fixed a malformed non-ruby citation on the character page. homophone_check.py found no genuine homophones.
+
+### 2026-09-06, iteration 3336 — [[words/諸語|諸語]]
+No cranberry (諸's own stand-in is [[諸]] itself, 語's own stand-in is [[言語]]). Pronunciation fields (ja'yo/자요/ㄐㄚ⼄) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space. Filled blank vietnamese (chư ngữ, compositional). Added missing simplified alias 诸语. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3337 — [[words/諺文|諺文]]
+No cranberry (諺's own stand-in is this exact compound, 文's own stand-in is [[文化]]). **Found and fixed a major real bug**: 羅馬字/諺文/注音 had nyenmun/년문/ㄋ⼶ㄋㄇㄨㄋ, not matching 諺's own stored 'en/언/ㄝㄋ at all — corrected to 'enmun/언문/ㄝㄋㄇㄨㄋ, fixed also on `characters/文.md`'s citation. Fixed cantonese stray space. Filled blank vietnamese (ngạn văn). **Found and removed a false alias**: 韩文/韓文 represent a rejected alternative naming (a different character 韓), not orthographic variants, as the body text itself already explained. Flagged `characters/諺.md` as badly under-filled (no Words section despite its own stand_in, stub Notes, likely wrong english gloss) — added the missing stand-in citation, left the rest for a dedicated cleanup pass. homophone_check.py found no independent homophones.
+
+Next: 諾.
 
 **[Milestone: 3,200th logged iteration.]**
 

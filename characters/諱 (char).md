@@ -50,5 +50,5 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
-- [諱](words/諱.md) "shun, avoid saying the name of" — 諱 stands alone as a word in Dan'a'yo.
+- <ruby>[[諱]]<rt>ㄏㄨㄧ</rt></ruby> "shun, avoid saying the name of" (stand-in for 諱 (char))
 - <ruby>[[忌諱]]<rt>ㄍㄧㄏㄨㄧ</rt></ruby> "taboo"
