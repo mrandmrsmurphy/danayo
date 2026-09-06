@@ -2311,7 +2311,25 @@ Not a cranberry (貪's own stand-in is [[貪]] itself; 林's own stand_in is 林
 ### 2026-09-06, iteration 3369 — [[words/責任|責任]]
 **Genuine `#cranberry`** (both 責's and 任's own stand-ins point here — full transitivity, tag added). Pronunciation fields (jagnim/작님/ㄐㄚㄎㄋㄧㄇ) already matched the straightforward concatenation — no bug. Fixed cantonese stray space, added missing simplified alias 责任. Fixed a missing "(stand-in for 責)" annotation on `characters/責.md`'s own Words list. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
 
-Next: 貯蔵.
+### 2026-09-06, iteration 3370 — [[words/貯蔵|貯蔵]]
+No cranberry (貯's own stand-in is this exact compound, 蔵's own stand-in is [[収蔵]]). Pronunciation fields (jocang/조창/ㄐㄛ·ㄑㄚㄫ) already matched the straightforward concatenation, including the separator dot — no bug. Added missing kwin (false, AND-rule). **Found and fixed a real bug**: `characters/蔵.md`'s own mandarin had zāng, matching neither of 藏's real readings — corrected to cáng (verb sense); the word's own mandarin inherited the same error, also fixed. Filled blank vietnamese (trữ tàng). Fixed cantonese stray space. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3371 — [[words/貴族|貴族]]
+No cranberry (貴's own stand-in is [[貴重]], 族's own stand-in is [[家族]]). Pronunciation fields (guijog/귀족/ㄍㄨㄧㄐㄛㄎ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Fixed cantonese stray space, added missing simplified alias. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3372 — [[words/貴重|貴重]]
+No cranberry (貴's own stand-in is this exact compound, 重's own stand-in is [[重]] itself). Pronunciation fields (guicong/귀총/ㄍㄨㄧㄑㄛㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed a real bug**: cantonese had zung6, not matching 重's own stored cung5 — corrected to gwai3cung5. Filled blank vietnamese (quí trọng). Added missing simplified alias. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3373 — [[words/貸出|貸出]]
+No cranberry (貸's own stand-in is this exact compound, 出's own stand-in is [[出]] itself). Pronunciation fields (taicud/태춛/ㄊㄚㄧㄑㄨㄊ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Japanese かしだし confirmed a real, common native reading, kept as-is. Filled blank pos (動詞) and vietnamese (thải xuất). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3374 — [[words/費|費]]
+Single-character stand-in word (費's own stand-in is 費 itself). Pronunciation fields (fai/빼/ㄈㄚㄧ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. **Found and fixed a real bug**: vietnamese held phía ("direction," unrelated) instead of phí ("expense," matching meaning and also the real common word) — corrected. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3375 — [[words/貼|貼]]
+Single-character stand-in word (貼's own stand-in is 貼 itself). Pronunciation fields (teb/텁/ㄊㄝㄆ) already matched the character's own stored reading — no bug. Added missing pos/japanese/kwin. homophone_check.py found no independent homophones.
+
+Next: 資本.
 
 **[Milestone: 3,200th logged iteration.]**
 
