@@ -1830,6 +1830,36 @@ No cranberry (both 装's and 置's own stand-ins point to themselves). Pronuncia
 
 Next: 裏面.
 
+### 2026-09-05, iteration 3229 — [[words/裏面|裏面]]
+
+裏's own stand-in is this exact compound; 面's own is [[表面]] — transitivity fails, no cranberry. **Found and fixed a real bug**: 注音 had a spurious null-onset separator and wrong vowel (羅馬字/諺文 already correct) → ㄌㄧㄇ⼶ㄋ. **Found and fixed a real `kwin` bug** (false→true). **Found and fixed two more real bugs**: japanese うちがわ (unrelated word 内側) → りめん (the real reading of 裏面 itself); korean 안 (unrelated native gloss) → 이면 (real Sino-Korean reading). Filled blank vietnamese. Fixed cantonese stray space and matching rt-tags on both character pages. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 補充.
+
+### 2026-09-05, iteration 3230 — [[words/補充|補充]]
+
+No cranberry (補's own stand-in is [[修補]], 充's is [[充填]]). Pronunciation fields (bocung/보충/ㄅㄛㄑㄨㄫ) already verified as the correct concatenation — no bug; kwin:true already correct. Other fields confirmed standard and compositional. Fixed cantonese stray space, quoted hsk_level. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 補助.
+
+### 2026-09-05, iteration 3231 — [[words/補助|補助]]
+
+No cranberry (補's own stand-in is [[修補]], 助's is [[援助]]). Pronunciation fields (bojo/보조/ㄅㄛㄐㄛ) already verified as the correct concatenation — no bug; kwin:true already correct. Mandarin/japanese/korean confirmed real common terms; vietnamese confirmed a legitimate real-term substitution. Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 補給.
+
+### 2026-09-05, iteration 3232 — [[words/補給|補給]]
+
+給's own stand-in is this exact compound; 補's own is [[修補]] — transitivity fails, no cranberry (already documented). Pronunciation fields (bogib/보깁/ㄅㄛㄍㄧㄆ) already verified as the correct concatenation — no bug; kwin:false already correct. Filled blank cantonese/vietnamese. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 補習.
+
+### 2026-09-05, iteration 3233 — [[words/補習|補習]]
+
+No cranberry (補's own stand-in is [[修補]], 習's is [[練習]]). **Found and fixed a real bug**: 羅馬字/諺文 bosib/보십 didn't match 習's own sǝb/습 (注音 already correct) → bosǝb/보습. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Other fields confirmed standard and compositional. Filled blank vietnamese, quoted hsk_level, fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 裸.
+
 **[Milestone: 3,200th logged iteration.]**
 
 **[Milestone: 3,170th logged iteration.]**
