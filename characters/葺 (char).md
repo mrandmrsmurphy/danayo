@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
-- <ruby>[[葺]]<rt>ㄑㄨㄆ</rt></ruby> "roofed with"
+- <ruby>[[葺]]<rt>ㄑㄨㄆ</rt></ruby> "roofed with" (stand-in for 葺)

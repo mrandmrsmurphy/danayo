@@ -1313,3 +1313,33 @@ Next: 葡萄.
 **Genuine `#cranberry`** (both 葡's and 萄's own stand-ins point here, full transitivity; tag already present). Pronunciation fields (bodau/보닷/ㄅㄛㄉㄚㄨ) already verified as the correct concatenation — no bug; kwin:false already correct. **Found and fixed a real bug**: cantonese "pu2 tao2" was invalid romanization matching neither character's own jyutping — corrected to pou4tou4. Other fields confirmed standard and compositional. No homophones. Stamped `date-last-perfect: 2026-09-05`.
 
 Next: 葡萄牙.
+
+### 2026-09-05, iteration 3141 — [[words/葡萄牙|葡萄牙]]
+
+No cranberry (葡/萄's own stand-in is [[葡萄]], 牙's is [[長牙]]). Pronunciation fields (bodau'a/보닷아/ㄅㄛㄉㄚㄨ·ㄚ) already verified as the correct concatenation, including the null-onset syllable break — no bug; kwin:false already correct. As a proper place name, other-language fields legitimately hold the real attested name. Fixed cantonese stray spaces. In passing, fixed the 22nd empty-string field bug on `characters/牙.md` (pos). No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 葺.
+
+### 2026-09-05, iteration 3142 — [[words/葺|葺]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing kwin/japanese. Fixed a missing stand-in annotation on the char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒙朧.
+
+### 2026-09-05, iteration 3143 — [[words/蒙朧|蒙朧]]
+
+朧's own stand-in is this exact compound; 蒙's own is [[蒙古]] — transitivity fails, no cranberry. Pronunciation fields (monglong/몽롱/ㄇㄛㄫㄌㄛㄫ) already verified as the correct concatenation — no bug; kwin:true already correct. Filled blank vietnamese (mông lung, a real common word). Other fields confirmed standard and compositional. Fixed missing stand-in annotation on 朧's char page. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒲公英.
+
+### 2026-09-05, iteration 3144 — [[words/蒲公英|蒲公英]]
+
+No cranberry (蒲's own stand-in is [[香蒲]], 公's is [[公]] itself, 英's is [[英雄]]). Pronunciation fields (bogong'eng/보공엉/ㄅㄛㄍㄛㄫㄝㄫ) already verified as the correct concatenation — no bug; kwin:false already correct. Vietnamese/mandarin confirmed real standard terms; japanese たんぽぽ confirmed a legitimate real-term substitution (not compositional). Fixed cantonese stray spaces. Fixed a missing back-citation on `characters/公 (char).md`'s own Words list. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒸汽.
+
+### 2026-09-05, iteration 3145 — [[words/蒸汽|蒸汽]]
+
+汽's own stand-in is this exact compound; 蒸's own is [[蒸]] itself — transitivity fails, no cranberry. Pronunciation fields (jingkiǝ/징킈/ㄐㄧㄫㄎㄧㄜ) already verified as the correct concatenation — no bug; kwin:false already correct. Other fields confirmed standard and compositional. Filled blank vietnamese (chưng khí). Fixed cantonese stray space. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蒼海.

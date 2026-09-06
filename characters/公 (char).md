@@ -65,3 +65,4 @@ boundedness: 100
 - [[公民]] "citizen,civics"
 - [[公司]] "company,firm"
 - <ruby>[[公館]]<rt>ㄍㄛㄫㄍ⺢ㄋ</rt></ruby> "official residence"
+- <ruby>[[蒲公英]]<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby> "dandelion"
