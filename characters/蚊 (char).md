@@ -49,5 +49,5 @@ date-last-perfect: 2026-08-17
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](Lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
-- <ruby>[[蚊]]<rt>ㄇㄨㄋ</rt></ruby> "mosquito, gnat"
+- <ruby>[[蚊]]<rt>ㄇㄨㄋ</rt></ruby> "mosquito, gnat" (stand-in for 蚊)
 - <ruby>[[蚊帳]]<rt>ㄇㄨㄋㄐ⺢ㄫ</rt></ruby> "mosquito net, tent screen"

@@ -1506,4 +1506,28 @@ No cranberry (both 虚's and 偽's own stand-ins point to themselves). Pronuncia
 
 Next: 虱.
 
+### 2026-09-05, iteration 3174 — [[words/虱|虱]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Added missing japanese, filled blank vietnamese. In passing on `characters/虱 (char).md`: fixed bare-string aliases, removed redundant 品詞, fixed a missing self-citation, and properly integrated two dangling CC-lookup links into a formatted bullet. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虹尊.
+
+### 2026-09-05, iteration 3175 — [[words/虹尊|虹尊]]
+
+No cranberry (虹's own stand-in is [[彩虹]], 尊's is [[尊厳]]; 尊 stands in for its own alias 鱒/鳟, matching the already-listed alias 虹鱒 and paralleling [[尊魚]]). Pronunciation fields (hongjon/홍존/ㄏㄛㄫㄐㄛㄋ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Mandarin/japanese confirmed genuine real terms. Fixed a stray space in korean, filled blank cantonese/vietnamese. Fixed a truncated rt-tag on `characters/尊.md`'s own citation. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 虹素.
+
+### 2026-09-05, iteration 3176 — [[words/虹素|虹素]]
+
+No cranberry (虹's own stand-in is [[彩虹]], 素's is [[要素]]). Periodic-table neologism (neon). Pronunciation fields (hongso/홍소/ㄏㄛㄫㄙㄛ) already verified as the correct concatenation — no bug. **Found and fixed a real `kwin` bug** (false→true, AND-rule). Mandarin/cantonese confirmed to track the real modern element character 氖; korean/japanese/vietnamese all genuine transliterations. Removed redundant 品詞. No homophones. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蚊.
+
+### 2026-09-05, iteration 3177 — [[words/蚊|蚊]]
+
+Single-character stand-in word. Pronunciation fields already matched the character's own values — no bug. Filled blank pos/vietnamese. Homophone callout with [[紋]]/[[聞]] (the previously-flagged three-way group) already in place — re-verified with no additional matches (checked 吻/問/文). Fixed missing stand-in annotation on char page. Stamped `date-last-perfect: 2026-09-05`.
+
+Next: 蚊帳.
+
 **[Milestone: 3,170th logged iteration.]**

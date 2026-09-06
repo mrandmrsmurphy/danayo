@@ -27,10 +27,10 @@ danayo_id: 8063
 mc_id: 4234
 graphemic_classification: 卂
 stand_in: 虱
-aliases: 蝨
+aliases:
+  - 蝨
 注音: ㄙㄛㄊ
 date-last-perfect: 2026-03-13
-品詞: 名詞
 kwin: false
 tags:
   - character
@@ -43,9 +43,9 @@ boundedness: 75
 ```
 ## Notes
 - [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
+- 4234th most used character in Classical Chinese (trusted long-tail, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 心]] + [[Lookup/CC/finals/韻 櫛]]
 - [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), No HSK, [Hyōgai](lookup/Japanese/Hyōgai.md), [Grade Advanced](lookup/Grade%20Advanced.md)
 
 ## Words
+- <ruby>[[虱]]<rt>ㄙㄛㄊ</rt></ruby> "louse (lice)" (stand-in for 虱)
 - <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> - tick, bedbug
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 櫛]]
