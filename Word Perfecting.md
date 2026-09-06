@@ -2045,7 +2045,19 @@ No cranberry (設's own stand-in is [[建設]], 計's own stand-in is [[計画]]
 ### 2026-09-06, iteration 3281 — [[words/許可|許可]]
 No cranberry (both 許's and 可's own stand-ins point to themselves). Pronunciation fields (hyokǝ/효크/ㄏ⼄ㄎㄜ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space. Filled blank vietnamese (hứa khả, compositional). homophone_check.py found no independent homophones.
 
-Next: 訴訟.
+### 2026-09-06, iteration 3282 — [[words/訴訟|訴訟]]
+No cranberry (訴's own stand-in is this exact compound, 訟's own stand-in is [[訟]] itself). Pronunciation fields (sosyong/소숑/ㄙㄛㄙ⼄ㄫ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Filled blank pos (動詞) and vietnamese (tố tụng, real standard term). Fixed cantonese stray space. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3283 — [[words/診断|診断]]
+No cranberry (診's own stand-in is this exact compound, 断's own stand-in is [[割断]]). Pronunciation fields (jindwan/진돤/ㄐㄧㄋㄉ⺢ㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). **Found and fixed a real bug**: cantonese had the wrong tone (dyun3) not matching 断's own stored dyun6 — corrected both attested variants. Filled blank vietnamese (chẩn đoán, real standard term). Quoted hsk_level. Confirmed stored aliases are genuine real orthographic variants. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3284 — [[words/証人|証人]]
+No cranberry (証's own stand-in is [[証明]], 人's own stand-in is [[人]] itself). Pronunciation fields (jingnin/징닌/ㄐㄧㄫㄋㄧㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space, removed blank hsk_level/swadesh. **Flagged (not fixed)**: `characters/人 (char).md` is in the same badly-degraded state as `characters/一 (char).md` (mixed list styles, missing rt tags including this word's own citation) — needs its own dedicated cleanup pass. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3285 — [[words/証券|証券]]
+No cranberry (証's own stand-in is [[証明]], 券's own stand-in is [[券]] itself). Pronunciation fields (jingkon/징콘/ㄐㄧㄫㄎㄛㄋ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+Next: 証拠.
 
 **[Milestone: 3,200th logged iteration.]**
 
