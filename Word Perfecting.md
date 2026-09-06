@@ -2033,7 +2033,19 @@ Single-character stand-in word (訥's own stand-in is 訥 itself). Pronunciation
 ### 2026-09-06, iteration 3277 — [[words/訪問|訪問]]
 No cranberry (訪's own stand-in is this exact compound, 問's own stand-in is [[質問]]). **Found and fixed a real bug**: 羅馬字/諺文 had pangmun/팡문 instead of 訪's own fangmun/빵문 (注音 already correct — same failure class as the 福/覆蓋/解放-family voiced/voiceless confusion bug). kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, removed blank swadesh. homophone_check.py found no independent homophones.
 
-Next: 設備.
+### 2026-09-06, iteration 3278 — [[words/設備|設備]]
+No cranberry (設's own stand-in is [[建設]], 備's own stand-in is [[準備]]). Pronunciation fields (sedbiǝ/섣븨/ㄙㄝㄊㄅㄧㄜ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3279 — [[words/設置|設置]]
+No cranberry (設's own stand-in is [[建設]], 置's own stand-in is [[置]] itself). Pronunciation fields (sedci/섣치/ㄙㄝㄊㄑㄧ) already matched the straightforward concatenation — no bug. kwin true already correct (AND-rule). Fixed cantonese stray space; all other fields already correct and standard. Removed blank hsk_level/swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3280 — [[words/設計|設計]]
+No cranberry (設's own stand-in is [[建設]], 計's own stand-in is [[計画]]). **Found and fixed a real bug**: 注音 had ㄙㄝㄊㄐㄝㄧ instead of the correct ㄙㄝㄊㄍㄝㄧ (計's own 注音 is ㄍㄝㄧ) — unusually, 羅馬字/諺文 (sedgei/섣게) were already correct, the reverse of the usual failure direction. Fixed also on `characters/設.md` and `characters/計.md`'s own citations. kwin false already correct (AND-rule). Fixed cantonese stray space, quoted hsk_level, removed blank swadesh. homophone_check.py found no independent homophones.
+
+### 2026-09-06, iteration 3281 — [[words/許可|許可]]
+No cranberry (both 許's and 可's own stand-ins point to themselves). Pronunciation fields (hyokǝ/효크/ㄏ⼄ㄎㄜ) already matched the straightforward concatenation — no bug. kwin false already correct (AND-rule). Fixed cantonese stray space. Filled blank vietnamese (hứa khả, compositional). homophone_check.py found no independent homophones.
+
+Next: 訴訟.
 
 **[Milestone: 3,200th logged iteration.]**
 
