@@ -2395,3 +2395,8 @@ Next: 起床.
 No cranberry (both 起's and 床's own stand-in point to themselves). Pronunciation fields (kisyam/키샴/ㄎㄧㄙ⼘ㄇ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's verbal gloss and 起's own 事詞 — corrected to 事詞. Fixed cantonese stray space, quoted bare hsk_level. Filled blank vietnamese (khởi sàng). Fixed the `characters:` list citing bare "起"/"床" redlinks. homophone_check.py found no independent homophones.
 
 Next: 起死.
+
+### 2026-09-06, iteration 3389 — [[words/起死|起死]]
+No cranberry (起's own stand_in is 起 itself, 死's own is [[死亡]]) — neither constituent legitimized by this word. Pronunciation fields (kisiǝ/키싀/ㄎㄧㄙㄧㄜ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). **Found and fixed a real bug**: pos was 性詞, mismatching the word's clearly verbal English gloss ("bring the dead back to life") and 起's own 事詞 — corrected to 事詞 (same bug shape as [[起伏]]/[[起床]]). Filled blank cantonese (hei2sei2, compositional) and vietnamese (khởi tử, attested in khởi tử hồi sinh = [[起死回生]]). Fixed the `characters:` list citing a bare "起" redlink. Removed blank hsk_level/swadesh/aliases. Built the `## Notes` section ahead of the existing `## Etymology`. Both character pages already cite the word with correct ruby/gloss; their [[起死回生]] citations resolve to the existing `chengyu/起死回生.md` — no in-passing fixes needed. Exact-match homophone check (scratchpad script absent from this vault; run as equivalent direct greps on 羅馬字/諺文/注音 across words/ and characters/) found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 釈珈文尼.
