@@ -17,7 +17,7 @@ grade_level: "6"
 pos: 名詞
 english:
   - cheek
-羅馬字: gep
+羅馬字: geb
 諺文: 겁
 joyo_level: 高等
 hsk_level: "4"
@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-09-07
 ---
 >[!tip] This is about the character.
 >For the word, see [頬](words/頬.md)

@@ -5,7 +5,7 @@ korean: 협
 korean_native: 집게
 japanese:
   - KYOU
-japanese_native: つるぎ
+japanese_native: はさみ
 vietnamese:
   - giáp
   - khiếp
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-09-07
 ---
 >[!tip] This is a page about the character 鋏.
 >For the word, see [鋏](words/鋏.md)
