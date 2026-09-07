@@ -2575,3 +2575,18 @@ Next: 鎖.
 Single-character stand-in word (鎖's own stand_in is 鎖 itself). Pronunciation fields (swa/솨/ㄙ⺢) already matched the character's own stored reading — no bug. **Found and fixed** (the 針/鈴/鉗/銃/鋏/鍋/鍵/鎌 cluster): `vietnamese` held the literal string "null" — filled with the real Sino-Vietnamese reading toả; `characters:` unquoted non-list scalar → `["鎖 (char)"]`; missing `pos` (名詞), `kwin` (false), `japanese` (さ, from the character's own SA) added; empty `# Notes` rebuilt as `## Notes`. Exact-match homophone check found 唆 sharing the syllable at the character level only (stand-in 教唆) — no genuine collision. Stamped `date-last-perfect: 2026-09-07`.
 
 Next: 鎧球.
+
+### 2026-09-07, iteration 3425 — [[words/鎧球|鎧球]]
+No cranberry (鎧's own stand_in is this exact compound, but 球's own is 球 itself) — transitivity fails, though 鎧 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (kaigyu/캐규/ㄎㄚㄧㄍ⼜) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). Fixed cantonese's stray spaces (mei5sik1zuk1kau4 — the reading of the alias 美式足球, the attested CJK term, since 鎧球 is a Dan'a'yo calque "armor ball"). Filled blank vietnamese (bóng bầu dục Mỹ, attested modern term). korean 미식축구 confirmed attested; japanese がいきゅう kept as the compositional on'yomi reading (Japanese otherwise uses アメフト). Removed blank hsk_level/swadesh. Folded the orphaned headingless line "橄欖球 = rugby" into Notes as a linked disambiguation bullet. Built the missing `## Notes` section. Both character pages already cite the word with correct ruby (鎧's annotated as its stand-in) — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 鏡鑑.
+
+### 2026-09-07, iteration 3426 — [[words/鏡鑑|鏡鑑]]
+No cranberry (鏡's own stand_in is 鏡 itself; 鑑's own is this exact compound) — transitivity fails, though 鑑 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (gyenggam/경감/ㄍ⼶ㄫㄍㄚㄇ) already matched the straightforward concatenation — no bug; kwin **true** already correct (both constituents true). Filled blank cantonese (geng3gaam3, compositional) and vietnamese (gương, the attested living term). mandarin "jìngzi" confirmed as the reading of the alias 鏡子 (鏡鑑 is not a living Mandarin compound). Removed blank hsk_level/swadesh. Built the missing `## Notes` and `## Etymology` sections. Both character pages already cite the word with correct ruby (鑑's annotated as its stand-in) — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 鑽石.
+
+### 2026-09-07, iteration 3427 — [[words/鑽石|鑽石]]
+No cranberry (鑽's own stand_in is this exact compound, but 石's own is 石 itself) — transitivity fails, though 鑽 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (janseg/잔석/ㄐㄚㄋㄙㄝㄎ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). Fixed cantonese's stray space (zyun3sek6). Filled blank vietnamese (kim cương, the attested living term). japanese ダイヤモンド/korean 다이아몬드 confirmed as the attested loanword forms. Removed blank hsk_level/swadesh/aliases. Built the missing `## Notes` section, noting 鑽's own page's pointer to [[金剛石]] for the carbon-crystal mineral specifically. Both character pages already cite the word with correct ruby — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 長期.
