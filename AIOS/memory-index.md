@@ -35,6 +35,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia pages are where D's own semantic ranges organically diverge from source languages; let it happen naturally, then backfill D-centric definitions into word pages
 - [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC-derived pronunciation when `mc_id: 0` and daughters show independent borrowing (see 檸檬)
 - [Element-abbreviation characters](memory/feedback_element_abbreviation_characters.md) — a character's "abbreviation for [element]" note (e.g. 多→gadolinium) is a permanent character-level fact; keep it as its own Notes bullet, don't fold it into the coined word's Words-section entry
+- [Word bug taxonomy](memory/feedback_word_bug_taxonomy.md) — internal-reading bugs (羅馬字/諺文/注音 concatenation drift) vs. cross-linguistic-field bugs (native gloss/unrelated word substituted for the real compositional reading) are distinct checks; plus the recurring structural bug list from the word-perfecting sweep
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
