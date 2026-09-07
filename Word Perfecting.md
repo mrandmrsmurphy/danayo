@@ -2525,3 +2525,23 @@ Next: 鋼鉄.
 No cranberry (鋼's own stand_in is this exact compound, but 鉄's own is 鉄 itself) — transitivity fails, though 鋼 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (gangted/강턷/ㄍㄚㄫㄊㄝㄊ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — 鉄 false). All cross-linguistic fields already correct (cantonese gong3tit3 already space-free; vietnamese thép confirmed as the living Vietnamese term; japanese こうてつ/korean 강철 attested). Built the missing `## Notes` and `## Etymology` sections — the page's only real gap. Both character pages already cite the word with correct ruby (鋼's annotated as its stand-in) — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
 
 Next: 錦繍.
+
+### 2026-09-07, iteration 3415 — [[words/錦繍|錦繍]]
+**Genuine `#cranberry` case** (tag already present): both 錦's and 繍's own stand_in point to this exact compound, and both character pages already carry the "(stand-in for …)" annotation — no in-passing fixes needed. Pronunciation fields (komsyu/콤슈/ㄎㄛㄇㄙ⼜) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — both false). Fixed: quoted the bare mandarin (jǐnxiù) and korean (금수) strings; cantonese stray space → gam2sau3; filled blank vietnamese (cẩm tú, compositional/attested); removed blank hsk_level/swadesh. japanese きんしゅう confirmed attested. Added the verification summary bullet to the existing Notes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 錦鯉.
+
+### 2026-09-07, iteration 3416 — [[words/錦鯉|錦鯉]]
+No cranberry (錦's own stand_in is [[錦繍]]; 鯉's own is this exact compound) — transitivity fails, though 鯉 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (komli/콤리/ㄎㄛㄇㄌㄧ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — 錦 false). Fixed cantonese's stray space (gam2lei5). **Found and fixed a real bug**: vietnamese held "cá chép" — plain "carp" (鯉's equivalent), not the ornamental brocade carp this word names — replaced with cá koi, the attested modern Vietnamese term (narrower-term bug shape). japanese にしきごい/korean 비단잉어 confirmed attested. Removed blank hsk_level/swadesh/aliases. Built the missing `## Notes` and `## Etymology` sections. **In passing**: added the missing 錦鯉 citation to `characters/錦.md`'s Words list (鯉's was already present and annotated) — re-stamped. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 錮.
+
+### 2026-09-07, iteration 3417 — [[words/錮|錮]]
+Single-character stand-in word (錮's own stand_in is 錮 itself) — a newer-batch page already in good shape (block-list characters, pos 事詞, kwin true correct, vietnamese cố correct, homophone callout present). Pronunciation fields (go/고/ㄍㄛ) already matched the character's own stored reading — no bug. **Fixed**: missing `japanese` filled (こ/く, from the character's own KO/KU); the Notes bullet's link was missing the `../` prefix ((characters/錮%20(char).md) → (../characters/錮%20(char).md)). Homophone group already fully adjudicated and cross-linked in 鼓's perfecting pass (鼓/股/錮 three-way; the other ㄍㄛ-reading characters — 孤/顧/故/固/姑/古 — confirmed character-level only). Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 錯誤.
+
+### 2026-09-07, iteration 3418 — [[words/錯誤|錯誤]]
+**Genuine `#cranberry` case**: both 錯's and 誤's own stand_in point to this exact compound (both character pages already annotated) — added the missing cranberry tag. 羅馬字 (cag'o) and 諺文 (착오) already matched the straightforward concatenation — but **found and fixed a real bug**: 注音 held ㄑㄚㄎㄛ, missing the null-onset syllable break before 誤's vowel-only ㄛ (the · convention, cf. 良月/金髪碧眼 — and ㄑㄚㄎㄛ is genuinely ambiguous, parseable as ㄑㄚ+ㄎㄛ) — corrected to ㄑㄚㄎ·ㄛ; the same unbroken form was baked into the 錯誤 and 時代錯誤 ruby citations on both character pages — all four fixed in passing. **Also fixed**: pos 性詞 → 事詞 (verbal gloss, same bug shape as 起伏/起床/起死); cantonese stray space → co3ng6; bare `hsk_level: 1` → quoted "1"; filled blank vietnamese (sai lầm, the attested living term); removed blank swadesh. japanese さくご/korean 착오 confirmed attested; kwin true already correct (both constituents true). Built the missing `## Notes` and `## Etymology` sections. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07` on all three files.
+
+Next: 録音.
