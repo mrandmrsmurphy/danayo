@@ -32,7 +32,7 @@ aliases:
   - 𠊍
   - 𨤾
 注音: ㄍㄧㄇ
-date-last-perfect: 2026-03-12
+date-last-perfect: 2026-09-06
 tags:
   - character
 kwin: true
@@ -48,23 +48,22 @@ boundedness: 90
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), HSK 2
 - 形声 (OC \*krɯm): semantic 士 (“upside-down ritual axe perhaps made of precious materials”) + semantic 呂 (“two blocks of metal”) + phonetic 亼 (OC \*krɯm). The semantic component in folk etymology is very often misinterpreted as 王. The blocks of metal were originally drawn as : and then as 丷.  The upper component 亼 is the ancient form for 今 (OC \*krɯm) and it represents an open mouth flipped upside down; it indicates the original pronunciation of the whole character.  Shuowen interprets it as an image of metal in the earth (Xu Shen writes "象金在土中形") with 亼 as phonetic. But the most ancient versions do not contain the pictogram of the earth.  Originally referred to copper, first used during the Copper Age and the Jade Age in China (hence before the Bronze Age, during which the first bronzes were produced); later the meaning was extended to metal as a whole, and then to gold.
 - [SKIP-2-2-6](lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
-## Words
+- 244th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
 - The most common surname in [Korea](../lookup/Korean/Korea.md).
+## Words
 - <ruby>[[租金]]<rt>ㄐㄜㄍㄧㄇ</rt></ruby> "rent"
-- <ruby>[黄金](/words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> - gold
-- <ruby>[金属](/words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> - metal
-- <ruby>[金曜日](/words/金曜日.md)<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> - Friday
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 侵B]]
-- [[金髪碧眼]] "blonde hair blue eyes"
-- [[金柑]] "umquat"
-- [[金山]] "gold mine"
-- [[金融]] "finance"
-- [[金庫]] "treasury, safe"
+- <ruby>[[黄金]]<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> "gold"
+- <ruby>[[金属]]<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> "metal"
+- <ruby>[[金曜日]]<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> "Friday"
+- <ruby>[[金髪碧眼]]<rt>ㄍㄧㄇㄈㄚㄊㄅ⼶ㄎ·ㄚㄋ</rt></ruby> "blonde hair, blue eyes"
+- <ruby>[[金柑]]<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby> "kumquat"
+- <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"
+- <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
+- <ruby>[[金庫]]<rt>ㄍㄧㄇㄎㄛ</rt></ruby> "treasury, safe"
 - <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"
 - <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"
 - <ruby>[[金色]]<rt>ㄍㄧㄇㄙㄧㄎ</rt></ruby> "gold"
-- [[蛍金]] "yttrium" (periodic table neologism)
+- <ruby>[[蛍金]]<rt>ㄏㄧㄫㄍㄧㄇ</rt></ruby> "yttrium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
 
