@@ -2495,3 +2495,13 @@ Next: 銃.
 Single-character stand-in word (銃's own stand_in is 銃 itself). Pronunciation fields (cung/충/ㄑㄨㄫ) already matched the character's own stored reading — no bug; vietnamese súng/korean 총 confirmed attested. **Found and fixed** (the 針/鈴/鉗 cluster): `characters:` unquoted non-list scalar → `["銃 (char)"]`; missing `kwin` (false) and `japanese` (じゅう/しゅう, from the character's own JUU/SHUU) added; empty single-hash `# Notes` heading rebuilt as a proper `## Notes` section. Exact-match homophone check found 充/噌/沖 sharing the syllable at the character level only (stand-ins 充填/噌噌/沖積; none independently legitimized) — no genuine collision. Stamped `date-last-perfect: 2026-09-06`.
 
 Next: 銅鑼.
+
+### 2026-09-06, iteration 3409 — [[words/銅鑼|銅鑼]]
+No cranberry (銅's own stand_in is 銅 itself; 鑼's own is this exact compound) — transitivity fails, though 鑼 is legitimized by this word (stand-in note added to the Etymology bullet). Pronunciation fields (dongla/동라/ㄉㄛㄫㄌㄚ) already matched the straightforward concatenation — no bug. **Found and fixed**: `kwin` was missing — added **true** (AND-rule — both 銅 and 鑼 are true); cantonese stray space fixed (tung4lo4); previously-unquoted korean quoted. Filled blank vietnamese (đồng la, compositional — matching 鑼's own stored la). japanese どら confirmed attested native term. Built the missing `## Notes` and `## Etymology` sections. Both character pages already cite the word with correct ruby (鑼's annotated as its stand-in) — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 銘文.
+
+### 2026-09-06, iteration 3410 — [[words/銘文|銘文]]
+No cranberry (銘's own stand_in is this exact compound, but 文's own is [[文化]]) — transitivity fails, though 銘 is legitimized by this word (stand-in note already present in the page's substantive Notes). Pronunciation fields (mengmun/멍문/ㄇㄝㄫㄇㄨㄋ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — 銘 false). This page was already in good shape (proper opening bullet + substantive prose). Fixed: quoted the bare mandarin (míngwén) and korean (명문) strings; cantonese stray space → ming4man4; filled missing vietnamese (minh văn, compositional Sino-Vietnamese). **In passing**: 銘's own Words citation of 銘文 lacked the "(stand-in for 銘)" annotation (cf. 竿竹/銅鑼 convention) — added and re-stamped. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 銹.
