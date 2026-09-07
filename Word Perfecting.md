@@ -2485,3 +2485,13 @@ Next: 銀河系.
 No cranberry (銀's own stand_in is 銀 itself, 河's is [[小河]], 系's is [[系統]]). Pronunciation fields ('inhahei/인하헤/ㄧㄋㄏㄚㄏㄝㄧ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — 銀 and 系 false). Fixed cantonese's stray spaces (ngan4ho4hai6). vietnamese "Ngân Hà" confirmed as the standard attested Vietnamese term for the Milky Way galaxy (not a missing-系 truncation). Removed blank hsk_level/swadesh and empty `aliases: []`. Built the missing `## Notes` and `## Etymology` sections. **In passing**: added the missing 銀河系 citation to `characters/系.md`'s Words list (銀/河 already cited it correctly) — re-stamped. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
 
 Next: 銀行.
+
+### 2026-09-06, iteration 3407 — [[words/銀行|銀行]]
+No cranberry (both 銀's and 行's own stand_in point to themselves). Pronunciation fields ('inhang/인항/ㄧㄋㄏㄚㄫ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). Fixed cantonese's stray space (ngan4hong4). japanese ぎんこう/korean 은행/vietnamese ngân hàng all confirmed attested. Removed blank hsk_level/swadesh and empty `aliases: []`. Built the missing `## Notes` section. Both character pages already cite the word with correct ruby — no in-passing fixes. Homophone check: [[進行]] (jinhang/진항) surfaced as a substring false positive only — no genuine homophones. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 銃.
+
+### 2026-09-06, iteration 3408 — [[words/銃|銃]]
+Single-character stand-in word (銃's own stand_in is 銃 itself). Pronunciation fields (cung/충/ㄑㄨㄫ) already matched the character's own stored reading — no bug; vietnamese súng/korean 총 confirmed attested. **Found and fixed** (the 針/鈴/鉗 cluster): `characters:` unquoted non-list scalar → `["銃 (char)"]`; missing `kwin` (false) and `japanese` (じゅう/しゅう, from the character's own JUU/SHUU) added; empty single-hash `# Notes` heading rebuilt as a proper `## Notes` section. Exact-match homophone check found 充/噌/沖 sharing the syllable at the character level only (stand-ins 充填/噌噌/沖積; none independently legitimized) — no genuine collision. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 銅鑼.
