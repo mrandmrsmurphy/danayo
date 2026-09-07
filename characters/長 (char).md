@@ -39,7 +39,7 @@ aliases:
   - 𡕣
   - 𠇬
 注音: ㄐㄚㄫ
-date-last-perfect: 2026-03-01
+date-last-perfect: 2026-09-07
 kwin: true
 tags:
   - character
@@ -52,20 +52,22 @@ boundedness: 75
 [[nav/char_info]]
 ```
 
-# Notes
+## Notes
 - [List of 象形](lookup/List%20of%20象形.md): an old man with long hair; an ancient variant still used is 镸 (e.g., ⾽ and 鬓).  Compare 彡 and the top component of 老 and its variant 考.
 - While this is under [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)), there are no characters that look like those parts.
 - [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 - Pronounced [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md), a very common syllable.
-[[Lookup/CC/initials/聲 澄]]
-[[Lookup/CC/finals/韻 陽開]]
+- 95th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md)
+
+## Words
 - <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby> "fang; tusk"
 - <ruby>[[長矛]]<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby> "spear; lance"
-- [[長期]] "long time"
-- [[長上]] "elder, superior"
+- <ruby>[[長期]]<rt>ㄐㄚㄫㄎㄧ</rt></ruby> "long time"
+- <ruby>[[長上]]<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby> "elder, superior"
 - <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"
 - <ruby>[[長靴]]<rt>ㄐㄚㄫㄏ⺢</rt></ruby> "boot"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
+
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
