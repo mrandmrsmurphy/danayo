@@ -2445,3 +2445,13 @@ Next: 鉄砧.
 No cranberry (鉄's own stand_in is 鉄 itself; 砧's own is this exact compound) — transitivity fails, though 砧 is legitimized as an independent Dan'a'yo entry by this word (stand-in note added to the Etymology bullet). Pronunciation fields (teddum/턷둠/ㄊㄝㄊㄉㄨㄇ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). Fixed cantonese's stray space (tit3zam1). japanese かなとこ and korean 모루 confirmed as genuine attested native terms. Filled blank vietnamese (đe, the attested native term). Removed blank hsk_level/swadesh. Aliases 金床/鉄床/鐵砧/铁砧 confirmed real variants. Built the missing `## Notes` and `## Etymology` sections. Both character pages already cite the word with correct ruby (砧's annotated as its stand-in) — no in-passing fixes. Exact-match homophone check (direct greps across words/ and characters/) found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
 
 Next: 鉄道.
+
+### 2026-09-06, iteration 3399 — [[words/鉄道|鉄道]]
+No cranberry (both 鉄's and 道's own stand_in point to themselves). Pronunciation fields (teddau/턷닷/ㄊㄝㄊㄉㄚㄨ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule). Fixed cantonese's stray space (tit3dou6). Filled blank vietnamese (thiết đạo, compositional). Removed blank swadesh and empty `aliases: []`. japanese てつどう/korean 철도 confirmed attested; hsk_level "4" already quoted. Built the missing `## Notes` and `## Etymology` sections. Both character pages already cite the word with correct ruby — no in-passing fixes. Exact-match homophone check (direct greps across words/ and characters/) found no independent homophones. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 鉗.
+
+### 2026-09-06, iteration 3400 — [[words/鉗|鉗]]
+Single-character stand-in word (鉗's own stand_in is 鉗 itself). Pronunciation fields (gem/검/ㄍㄝㄇ) already matched the character's own stored reading — no bug; vietnamese kiềm already correct. **Found and fixed** (lighter variant of the 針/鈴 cluster): `characters:` unquoted non-list scalar → `["鉗 (char)"]`; missing `kwin` (false) and `japanese` (かん/けん, from the character's own KAN/KEN) added; empty single-hash `# Notes` heading rebuilt as a proper `## Notes` section. **Homophone callout added**: gem/검/ㄍㄝㄇ is shared with the independently-legitimized stand-in word [[兼]] ("double as"), which already carried its half of the callout explicitly awaiting 鉗's turn — pair completed; 兼 needed no changes. 倹/検/瞼 share the syllable at the character level only (stand-ins 倹素/検査/眼瞼) — no genuine collision. Stamped `date-last-perfect: 2026-09-06`.
+
+Next: 鉛筆.
