@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 35
-date-last-perfect: 2026-08-06
+date-last-perfect: 2026-09-06
 ---
 >[!tip] This is a page about the character 鉛.
 >For the word, see [鉛](words/鉛.md)
@@ -50,6 +50,6 @@ date-last-perfect: 2026-08-06
 
 ## Words
 - <ruby>[[鉛]]<rt>⼶ㄋ</rt></ruby> "lead" (stand-in for 鉛 (char))
-- <ruby>[[鉛筆]]<rt>⼶ㄇㄅㄧㄊ</rt></ruby> "pencil"
+- <ruby>[[鉛筆]]<rt>⼶ㄋㄆㄨㄊ</rt></ruby> "pencil"
 - <ruby>[[亜鉛]]<rt>ㄚ·⼶ㄋ</rt></ruby> "zinc"
 - <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby> "bismuth"
