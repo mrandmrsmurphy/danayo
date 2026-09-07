@@ -2565,3 +2565,13 @@ Next: 鍵盤.
 No cranberry (both 鍵's and 盤's own stand_in point to themselves). Pronunciation fields (gyenban/견반/ㄍ⼶ㄋㄅㄚㄋ) already matched the straightforward concatenation — no bug; kwin false already correct (AND-rule — 鍵 false). **Found and fixed**: `characters:` cited bare "鍵"/"盤" redlinks (actual files are 鍵 (char).md/盤 (char).md) — fixed; cantonese stray space → gin6pun4; filled blank vietnamese (bàn phím, attested modern term); removed blank hsk_level/swadesh/aliases; an orphaned headingless prose line ("musical keyboard, computer keyboard") folded into the new `## Notes` section. Built the missing `## Etymology` section. Both character pages already cite the word with correct ruby — no in-passing fixes. Exact-match homophone check found no independent homophones. Stamped `date-last-perfect: 2026-09-07`.
 
 Next: 鎌.
+
+### 2026-09-07, iteration 3423 — [[words/鎌|鎌]]
+Single-character stand-in word (鎌's own stand_in is 鎌 itself). Pronunciation fields (lem/럼/ㄌㄝㄇ) already matched the character's own stored reading — no bug; vietnamese liêm already correct; pos 名詞 already present. **Found and fixed** (the 針/鈴/鉗/銃/鋏/鍋/鍵 cluster): `characters:` unquoted non-list scalar → `["鎌 (char)"]`; missing `kwin` (false) and `japanese` (れん, from the character's own REN) added; empty `# Notes` rebuilt as `## Notes`. Exact-match homophone check found 簾 sharing the syllable at the character level only (stand-in 暖簾 — not independently legitimized) — no genuine collision. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 鎖.
+
+### 2026-09-07, iteration 3424 — [[words/鎖|鎖]]
+Single-character stand-in word (鎖's own stand_in is 鎖 itself). Pronunciation fields (swa/솨/ㄙ⺢) already matched the character's own stored reading — no bug. **Found and fixed** (the 針/鈴/鉗/銃/鋏/鍋/鍵/鎌 cluster): `vietnamese` held the literal string "null" — filled with the real Sino-Vietnamese reading toả; `characters:` unquoted non-list scalar → `["鎖 (char)"]`; missing `pos` (名詞), `kwin` (false), `japanese` (さ, from the character's own SA) added; empty `# Notes` rebuilt as `## Notes`. Exact-match homophone check found 唆 sharing the syllable at the character level only (stand-in 教唆) — no genuine collision. Stamped `date-last-perfect: 2026-09-07`.
+
+Next: 鎧球.
