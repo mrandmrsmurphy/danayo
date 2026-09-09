@@ -68,6 +68,7 @@ boundedness: 70
 - [[籠]] basket
 - [[龐]] tall, huge
 ## Words
+- <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)
 - [[烏龍]] - Wulong
 - [[地龍]] - earthworm
 - [[龍蝦]] - lobster
