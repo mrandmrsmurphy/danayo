@@ -1347,3 +1347,23 @@ Next: 一百.
 No `#cranberry` (both 一's and 百's own `stand_in` point to themselves). Character page already cited 一百 correctly. **Fixed the recurring `characters:` disambiguation bug**: bare "百" despite `words/百.md` existing (a genuine miss, unlike the many already-correct 一-cluster words checked so far). **Fixed a real japanese bug**: `いち ひゃく` (bare space-joined, no assimilation) → `いっぴゃく` (regular sokuon + h→p devoicing, same pattern as 一半/一体/一千). Vietnamese một trăm confirmed correct (real native numeral, matching 一万/一千's established preference). Fixed the duplicate `品詞` field and added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 一瞥.
+
+### 2026-09-09, iteration 3824 — [[words/一瞥|一瞥]]
+Legitimizing note (瞥's own `stand_in` is this exact compound; 一's own is 一 itself — transitivity fails, no `#cranberry`), already essentially present in prose, labeled explicitly. Character page already cited 一瞥 correctly. All pronunciation and real-language fields already matched `characters/瞥.md` exactly, `kwin: false` correct. A fully clean pass — added a brief explanatory pronunciation paragraph and refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 一瞬.
+
+### 2026-09-09, iteration 3825 — [[words/一瞬|一瞬]]
+Legitimizing note (瞬's own `stand_in` is this exact compound; 一's own is 一 itself — transitivity fails, no `#cranberry`). Character page already cited 一瞬 correctly. Filled entirely missing `pos`, `korean: 일순`, `vietnamese: nhất thuấn`, and `kwin: false` (AND-rule: both false). **Fixed a real spelling-consistency bug**: `cantonese` was `jat1 seon3` — corrected to `jat1 seun3`, matching both 瞬's own stored cantonese and the already-perfected sibling [[瞬間]]'s own field. Japanese いっしゅん already correctly assimilated. Added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一端.
+
+### 2026-09-09, iteration 3826 — [[words/一端|一端]]
+No `#cranberry` (端's own `stand_in` is [[末端]], 一's is 一 itself — neither points here). Character page already cited 一端 correctly. All pronunciation and real-language fields, `kwin: false`, already correct from a prior thorough pass (including a nicely-documented coincidental cross-language homophone with [[一旦]] in Japanese specifically, いったん, despite the two being semantically unrelated). A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no Dan'a'yo-level collision.
+
+Next: 一致.
+
+### 2026-09-09, iteration 3827 — [[words/一致|一致]]
+No `#cranberry` (both 一's and 致's own `stand_in` point to themselves). `characters:` already correctly disambiguated, character page already cited 一致 correctly. All pronunciation and real-language fields already matched, `kwin: false` correct. Fixed the duplicate `品詞`/`pos` field, quoted `hsk_level`, and added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一般.
