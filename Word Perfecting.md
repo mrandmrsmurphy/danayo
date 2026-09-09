@@ -950,3 +950,28 @@ Next: 鸚哥.
 No cranberry (鸚's own `stand_in` is [[鸚鵡]], 哥's is [[哥哥]] — neither points here). Pronunciation fields ('anggǝ/앙그/ㄚㄫㄍㄜ) already matched constituents exactly — no bug. Both character pages already cited 鸚哥 correctly. Filled entirely blank `japanese: おうか`/`vietnamese: anh ca` (compositional; noted everyday Vietnamese prefers native vẹt) and added missing `kwin: false` (AND-rule: both false). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 鸚鵡.
+
+### 2026-09-09, iteration 3745 — [[words/鸚鵡|鸚鵡]]
+Already correctly `#cranberry`-tagged — verified both 鸚's and 鵡's own `stand_in` point to [[鸚鵡]] itself, matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields ('angmu/앙무/ㄚㄫㄇㄨ), `kwin: false` (AND-rule: 鸚 false, 鵡 true), and all real-language fields already correct — `vietnamese: vẹt` confirmed as the real everyday native word (vs. the less common compositional anh vũ), documented in Notes. **Found and fixed the same structural gap as 鴛/鴦**: `characters/鵡.md` had no `## Words` section at all despite documenting the cranberry relationship extensively in prose — added a proper citation with stand-in annotation. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check (precise 注音-only match, ruling out earlier broad substring hits) found no genuine collision.
+
+Next: 鸛鶴.
+
+### 2026-09-09, iteration 3746 — [[words/鸛鶴|鸛鶴]]
+Legitimizing note already substantively documented (鸛's own `stand_in` is [[鸛鶴]] itself). Pronunciation fields (gwanhag/관학/ㄍ⺢ㄋㄏㄚㄎ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. Both character pages already cited 鸛鶴 correctly. Filled entirely missing `vietnamese: quán hạc`. Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鹸.
+
+### 2026-09-09, iteration 3747 — [[words/鹸|鹸]]
+Self-standing bare-character word. Pronunciation fields (cem/첨/ㄑㄝㄇ) and `kwin: true` already matched the character's own stored values exactly — the existing homophone warning with [[諂]] confirmed genuine (own `stand_in` points to itself, per that page's own prior perfecting notes referencing a `homophone_check.py` script). Reformatted the Notes from an unconventional numbered list into proper prose, keeping the useful content: 鹸 serves as the periodic-table abbreviation prefix for sodium via [[鹸素]]. Fixed a bare-string `characters:` field.
+
+Next: 鹸素.
+
+### 2026-09-09, iteration 3748 — [[words/鹸素|鹸素]]
+Periodic-table neologism series (sodium): already correctly following convention — `mandarin`/`cantonese` give the avoided real element character 鈉/钠's readings; `korean`/`japanese`/`vietnamese` (나트륨/ナトリウム/natri) are loanwords from "Natrium"; `kwin: false` correctly compares Dan'a'yo against Korean. Dan'a'yo pronunciation fields (cemso/첨소/ㄑㄝㄇㄙㄛ) correctly follow normal compositional concatenation of 鹸+素. `characters:` disambiguation already correct (`words/鹸.md` exists, `words/素.md` doesn't). Both character pages already cited 鹸素 correctly. Rich existing Notes already comparing this semantic (not phonetic) coinage to [[巨金]]/[[惰素]] kept intact. No changes needed — a clean pass.
+
+Next: 鹿.
+
+### 2026-09-09, iteration 3749 — [[words/鹿|鹿]]
+Already fully perfected (stamped 2026-08-03): self-standing bare-character word with a detailed record of a prior real `korean` bug fix (녹→록, the same North-Korean-form pattern as [[老]]), and the genuine homophone with [[緑]] confirmed correct — verified 緑's own `stand_in` points to itself, exact-matching reading. `characters/鹿 (char).md`'s own remaining rough state was already flagged as out-of-scope for a future character-perfection sweep, not this word. No changes needed — a clean pass.
+
+Next: 鹿砦.
