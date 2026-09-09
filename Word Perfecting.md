@@ -975,3 +975,23 @@ Next: 鹿.
 Already fully perfected (stamped 2026-08-03): self-standing bare-character word with a detailed record of a prior real `korean` bug fix (녹→록, the same North-Korean-form pattern as [[老]]), and the genuine homophone with [[緑]] confirmed correct — verified 緑's own `stand_in` points to itself, exact-matching reading. `characters/鹿 (char).md`'s own remaining rough state was already flagged as out-of-scope for a future character-perfection sweep, not this word. No changes needed — a clean pass.
 
 Next: 鹿砦.
+
+### 2026-09-09, iteration 3750 — [[words/鹿砦|鹿砦]]
+Legitimizing note added (砦's own `stand_in` is [[鹿砦]] itself, already annotated in its own citation; 鹿's own `stand_in` is 鹿 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (logjai/록재/ㄌㄛㄎㄐㄚㄧ) already matched constituents exactly — no bug. **In passing, fixed a real gap**: `characters/砦.md`'s own citation of 鹿砦 was missing its "(stand-in for 砦)" annotation. Filled blank `korean: 록채`/`vietnamese: lộc trại` and added missing `kwin: false` (AND-rule: 鹿 true, 砦 false). Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麒麟.
+
+### 2026-09-09, iteration 3751 — [[words/麒麟|麒麟]]
+Already correctly `#cranberry`-tagged — verified both 麒's and 麟's own `stand_in` point to [[麒麟]] itself, matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields (gilin/기린/ㄍㄧㄌㄧㄋ), `kwin: true` (AND-rule: both true), and all real-language fields already correct. **Unlike 鴛/鴦 and 鵡, both character pages already had proper `## Words` sections** — but both were missing the "(stand-in for X)" annotation despite their own `stand_in` pointing here; fixed both. Removed blank `hsk_level`/`swadesh`/empty `aliases`, quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麒麟羚羊.
+
+### 2026-09-09, iteration 3752 — [[words/麒麟羚羊|麒麟羚羊]]
+No cranberry (none of the four constituents' own `stand_in` points here). Pronunciation fields (gilinleng'yang/기린렁양/ㄍㄧㄌㄧㄋㄌㄝㄫ⼘ㄫ) and `kwin: false` (AND-rule: 麒 true, 麟 true, 羚 false, 羊 true → false) already matched constituents exactly — no bug. **Found and fixed the most severe real-language field bug this sweep**: `mandarin: zhōnggúo` was literally "中国" ("China," entirely unrelated) and `cantonese: yǔwén1` was likewise unrelated garbage ("語文"-ish, "language and literature") — both corrected to the compositional qílínlíngyáng/kei4leon4ling4joeng4. Filled entirely missing `vietnamese: kỳ lân linh dương`. **In passing, fixed a real citation gap** on `characters/羊.md`, whose own Words list was missing 麒麟羚羊 entirely. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麟史.
+
+### 2026-09-09, iteration 3753 — [[words/麟史|麟史]]
+No cranberry (麟's own `stand_in` is [[麒麟]], 史's is [[歴史]] — neither points here). Pronunciation fields (linsi/린시/ㄌㄧㄋㄙㄧ) and `kwin: false` (AND-rule: 麟 true, 史 false) already matched constituents exactly — no bug. Both character pages already cited 麟史 correctly. `pos: 固有名詞` already correctly a proper noun (a specific historical text's alternate name, unlike the recent bird-species mistagging cases). **Investigated `korean: 인사`, which deviates from 麟's own stored 린 (the North-Korean-consistent compositional form would be 린사)** — cross-checked the sibling word [[麟経]], which documents the identical 두음법칙 pattern (인경, also deviating from 린) with a specific real-world-attestation rationale; treated as a deliberate, already-reasoned exception rather than a bug, and left unchanged. Only fix was the recurring duplicate `pos`/`品詞` bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麟経.
