@@ -1855,3 +1855,43 @@ Next: 且.
 Self-standing bare-character word ("also, too"). **Fixed a real self-reference bug in the reciprocal homophone callout**: both this page and [[処]]'s own page had their callouts pointing to themselves instead of the other party ("[[且]] is a homophone of [[処]]" written ON 且's own page, and the mirror-image error on 処's) — corrected both to the standard format naming only the OTHER word. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 且爵.
+
+### 2026-09-09, iteration 3925 — [[words/且爵|且爵]]
+Both character pages already cited 且爵 correctly. **Fixed the non-canonical `pos: 動詞`** → `事詞`. Clarified an imprecise prose claim: 爵's "stand-in for 嚼" role here is a special ad-hoc graphemic reuse specific to this one compound only, distinct from 爵's own official `stand_in` ([[男爵]], "baron," unrelated in meaning) — corrected the character-page citation format label too ("stand-in for 嚼"→"stand-in for 咀嚼", matching 爵's own page). Deliberately-blank vietnamese already correctly justified. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世仇.
+
+### 2026-09-09, iteration 3926 — [[words/世仇|世仇]]
+`characters:` already correctly bare (no words/世.md or words/仇.md). Both character pages already cited 世仇 correctly. Filled entirely missing `vietnamese: thế cừu` and added missing `date-last-perfect: 2026-09-09`. Quoted fields. `kwin: false` correct.
+
+Next: 世代.
+
+### 2026-09-09, iteration 3927 — [[words/世代|世代]]
+Legitimizing note (代's own `stand_in` is this exact compound). Both character pages already cited 世代 correctly. Fixed a missing word-space in `cantonese`. Added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世宗.
+
+### 2026-09-09, iteration 3928 — [[words/世宗|世宗]]
+Both character pages already cited 世宗 correctly. Added missing `kwin: false` (AND-rule: 世 false, 宗 true). Quoted `korean`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世界.
+
+### 2026-09-09, iteration 3929 — [[words/世界|世界]]
+Legitimizing note (世's own `stand_in` is this exact compound; 界's own is [[境界]] — transitivity fails, no `#cranberry`). **Fixed a real 注音 typo** propagated onto `characters/世.md`'s own citation (ㄙㄝㄐ⼶→ㄙㄝㄍ⼶, wrong onset). Added an entirely missing `## Notes` section and `date-last-perfect: 2026-09-09`.
+
+Next: 世界観.
+
+### 2026-09-09, iteration 3930 — [[words/世界観|世界観]]
+No `#cranberry`. All three character pages already cited 世界観 correctly. Added an entirely missing `## Notes` section and `date-last-perfect: 2026-09-09`.
+
+Next: 世界語.
+
+### 2026-09-09, iteration 3931 — [[words/世界語|世界語]]
+No `#cranberry`. All three character pages already cited 世界語 correctly (界's own citation clarifies "Esperanto" specifically). Added an entirely missing `## Notes` section clarifying the specific Esperanto referent and `date-last-perfect: 2026-09-09`.
+
+Next: 世紀.
+
+### 2026-09-09, iteration 3932 — [[words/世紀|世紀]]
+Legitimizing note (紀's own `stand_in` is this exact compound) already present. Both character pages already cited 世紀 correctly, along with a large family of sibling 世紀-compounds. A fully clean pass — only refreshed the date stamp.
+
+Next: 世紀中.
