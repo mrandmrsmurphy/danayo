@@ -46,9 +46,11 @@ boundedness: 100
 - 1123rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄌㄛ](../syllables/ㄌㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[露]]<rt>ㄌㄛ</rt></ruby> "dew" (stand-in for 露)
 - <ruby>[[甘露]]<rt>ㄍㄚㄇㄌㄛ</rt></ruby> "honeydew, nectar, amrita"
 - <ruby>[[披露]]<rt>ㄆㄨㄧㄌㄛ</rt></ruby> "announce, display"
 - <ruby>[[露月]]<rt>ㄌㄛ⼔ㄊ</rt></ruby> "dew month (10th month)"
+- <ruby>[[露国]]<rt>ㄌㄛㄍㄛㄎ</rt></ruby> "Russia"
 - <ruby>[[露金]]<rt>ㄌㄛㄍㄧㄇ</rt></ruby> "ruthenium"
 - <ruby>[[露語]]<rt>ㄌㄛ·⼄</rt></ruby> "Russian language"
 - <ruby>[[露斯亜]]<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby> "Russia"

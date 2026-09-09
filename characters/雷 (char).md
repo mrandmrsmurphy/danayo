@@ -50,7 +50,7 @@ date-last-perfect: 2026-08-07
 - [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[雷](words/雷.md)<rt>ㄌㄛㄧ</rt></ruby> "thunder" (stand-in for 雷)
+- <ruby>[[雷]]<rt>ㄌㄛㄧ</rt></ruby> "thunder" (stand-in for 雷)
 - <ruby>[[雷電]]<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby> "thunder and lightning"
 - <ruby>[[魚雷]]<rt>⼄ㄌㄛㄧ</rt></ruby> "torpedo"
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium"

@@ -54,6 +54,7 @@ boundedness: 65
 - <ruby>[[視]]<rt>ㄙㄧㄜ</rt></ruby> "look at, inspect"
 - <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"
 - <ruby>[[視覚]]<rt>ㄙㄧㄜㄍㄚㄎ</rt></ruby> "vision; sight"
+- <ruby>[[電視]]<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby> "television"
 
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"

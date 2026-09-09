@@ -49,4 +49,4 @@ date-last-perfect: 2026-08-17
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
-- <ruby>[[隼]]<rt>ㄙ⼜ㄫ</rt></ruby> "peregrine falcon"
+- <ruby>[[隼]]<rt>ㄙ⼜ㄫ</rt></ruby> "peregrine falcon" (stand-in for 隼)

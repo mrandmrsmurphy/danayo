@@ -49,3 +49,4 @@ date-last-perfect: 2026-08-16
 
 ## Words
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby> "troops"
+- <ruby>[[隊伍]]<rt>ㄉㄛㄧㄛ</rt></ruby> "rank, contingent, line of troops"

@@ -15,7 +15,7 @@ stroke_count: 6
 radical: 亠
 skip_number: 2-2-4
 grade_level: "1"
-pos: ""
+pos: "事詞"
 english:
   - mix
   - exchange
@@ -71,7 +71,7 @@ boundedness: 80
 - [[外交]] "foreign relations; diplomacy"
 - [[援交]] "compensated dating"
 - [[社交]] "social interaction; socializing"
-- [[雑交]] "crossbreeding; hybridization"
+- <ruby>[[雑交]]<rt>ㄐㄚㄆㄍ⼄ㄨ</rt></ruby> "crossbreeding; hybridization"
 - [[性交]] "sexual intercourse"
 - <ruby>[[交替]]<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby> "alternation; to take turns"
 

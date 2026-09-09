@@ -19,7 +19,7 @@ english:
   - broad
   - wide
 羅馬字: kwad
-諺文: "괃"
+諺文: "콷"
 joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: "名"
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-09-08
 ---
 >[!tip] This is a page about the character 闊.
 >For the word, see [闊](words/闊.md)

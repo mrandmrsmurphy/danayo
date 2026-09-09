@@ -58,7 +58,7 @@ boundedness: 100
 - <ruby>[[陰陽]]<rt>ㄧㄇ⼘ㄫ</rt></ruby> "yin-yang"
 - <ruby>[[陰影]]<rt>ㄧㄇ⼶ㄫ</rt></ruby> "shadow"
 - <ruby>[[太陰]]<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby> "moon"
-- <ruby>[陰性](../words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby> "negativity, feminine gender"
+- <ruby>[[陰性]]<rt>ㄧㄇㄙㄧㄫ</rt></ruby> "negativity, feminine gender"
 - <ruby>[[陰極]]<rt>ㄧㄇㄍㄧㄎ</rt></ruby> "cathode"
 - <ruby>[[陰道]]<rt>ㄧㄇㄉㄚㄨ</rt></ruby> "vagina"
 - <ruby>[[陰門]]<rt>ㄧㄇㄇㄛㄋ</rt></ruby> "vulva"

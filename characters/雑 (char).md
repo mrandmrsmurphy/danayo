@@ -8,6 +8,7 @@ japanese:
   - ZOU
 japanese_native: まじ
 vietnamese:
+  - tạp
 middle_chinese_initial: d͡z
 middle_chinese_final: ʌp
 stroke_count: 14

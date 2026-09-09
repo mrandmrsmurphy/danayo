@@ -52,7 +52,7 @@ boundedness: 90
 	- [啡](characters/啡.md)
 [[Lookup/CC/initials/聲 非]]
 [[Lookup/CC/finals/韻 微合]]
-- [[非常]] "extreme, unusual"
+- <ruby>[[非常]]<rt>ㄈㄧㄙ⼘ㄫ</rt></ruby> "extreme, unusual"
 - <ruby>[[非洲]]<rt>ㄈㄧㄐㄨㄛ</rt></ruby> "Africa"
 - <ruby>[[非志]]<rt>ㄈㄧㄐㄧ</rt></ruby> "Fiji"
 - <ruby>[[南非]]<rt>ㄋㄚㄇㄈㄧ</rt></ruby> "South Africa"

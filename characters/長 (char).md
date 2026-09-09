@@ -67,6 +67,7 @@ boundedness: 75
 - <ruby>[[延長]]<rt>⼶ㄋㄐㄚㄫ</rt></ruby> "to extend; to prolong"
 - <ruby>[[長靴]]<rt>ㄐㄚㄫㄏ⺢</rt></ruby> "boot"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
+- <ruby>[[霊長類]]<rt>ㄌㄝㄫㄐㄚㄫㄌㄨㄧ</rt></ruby> "primate"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

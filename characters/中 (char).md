@@ -75,6 +75,7 @@ boundedness: 80
 - <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
 - <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> "in the air, midair, the sky"
+- <ruby>[[雨中]]<rt>ㄨㄐㄨㄫ</rt></ruby> "in the rain"
 - <ruby>[[中秋節]]<rt>ㄐㄨㄫㄑㄨㄛㄐㄝㄊ</rt></ruby> "Mid-Autumn Festival"
 - <ruby>[[中亜]]<rt>ㄐㄨㄫㄚ</rt></ruby> "Central Asia"
 - <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> "Mediterranean Sea"

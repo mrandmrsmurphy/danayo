@@ -54,7 +54,7 @@ boundedness:
 ## Words
 - <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close"
 - <ruby>[[机関]]<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby> "machine; organization"
-- <ruby>[[関島]]<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby> "Gwam (island)"
+- <ruby>[[関島]]<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby> "Guam"
 - <ruby>[[関数]]<rt>ㄍ⺢ㄇㄙㄨ</rt></ruby> "function"
 - <ruby>[[関係]]<rt>ㄍ⺢ㄇㄍㄝㄧ</rt></ruby> "relationship, related"
 - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby> "be concerned about, care for"
