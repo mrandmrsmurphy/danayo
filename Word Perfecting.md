@@ -1060,3 +1060,28 @@ Next: 黄昏.
 Legitimizing note added (昏's own `stand_in` is [[黄昏]] itself, already annotated in its own citation; 黄's own `stand_in` is 黄 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (hwanghon/황혼/ㄏ⺢ㄫㄏㄛㄋ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug**: bare "黄" despite `words/黄.md` existing (Etymology already correctly cited "黄 (char)"). Both character pages already cited 黄昏 correctly. All real-language fields already correct standard readings. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 黄檗.
+
+### 2026-09-09, iteration 3767 — [[words/黄檗|黄檗]]
+Legitimizing note added (檗's own `stand_in` is [[黄檗]] itself, already annotated in its own citation; 黄's own `stand_in` is 黄 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (hwangbag/황박/ㄏ⺢ㄫㄅㄚㄎ) already matched constituents exactly — no bug. **Found and fixed two real bugs**: `cantonese` had two slash-separated candidates ("wong4 baak3 / wong4 paak3") — kept only paak3, matching 檗's own stored field exactly; `kwin: true` contradicted the AND-rule (檗's own kwin is false) — corrected to `false`. **In passing, fixed a missing stand-in annotation** on 檗's own citation. Filled entirely missing `vietnamese: hoàng bách`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄沙.
+
+### 2026-09-09, iteration 3768 — [[words/黄沙|黄沙]]
+No cranberry (both 黄's and 沙's own `stand_in` point to themselves — neither points here). Pronunciation fields (hwangsa/황사/ㄏ⺢ㄫㄙㄚ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. Both character pages already cited 黄沙 correctly. Filled entirely missing `japanese: こうさ`, using 黄's first-listed KOU reading (over OU, the reading its own bare word page uses) — こうさ matches the real, standard Japanese term for this weather phenomenon exactly (though modern Japanese conventionally spells it 黄砂). Filled entirely missing `vietnamese: hoàng sa`, flagging its coincidental overlap with the Paracel Islands' Vietnamese name. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄泉.
+
+### 2026-09-09, iteration 3769 — [[words/黄泉|黄泉]]
+No cranberry (黄's own `stand_in` is 黄 itself, 泉's is [[源泉]] — neither points here). Pronunciation fields (hwangjwen/황줜/ㄏ⺢ㄫㄐ⼔ㄋ) and `kwin: false` (AND-rule: 黄 true, 泉 false) already matched constituents exactly — no bug. Both character pages already cited 黄泉 correctly. **Fixed a real contamination bug**: `japanese: よみ,こうせん` comma-joined two forms — kept よみ, the real, culturally significant term for the Japanese mythological underworld. `korean: 황천` already correctly compositional. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄海.
+
+### 2026-09-09, iteration 3770 — [[words/黄海|黄海]]
+No cranberry (both 黄's and 海's own `stand_in` point elsewhere — neither points here). Pronunciation fields (hwanghai/황해/ㄏ⺢ㄫㄏㄚㄧ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. Both character pages already cited 黄海 correctly. Decoded a stray note ("Koreans call it 西海") into a proper Notes sentence, explaining the Korean colloquial 西海/서해 preference alongside the formal 황해 already used in this word's own `korean` field (kept, since both are genuinely real Korean usage). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄金.
+
+### 2026-09-09, iteration 3771 — [[words/黄金|黄金]]
+Already fully perfected (stamped 2026-07-27): a real, established compound for gold (unlike the invented-calque periodictable neologisms elsewhere this sweep), correctly tagged `periodictable` without `neologism`, with `kwin: true` correctly following the normal AND-rule rather than the special neologism convention. Verified pronunciation fields (hwanggim/황김/ㄏ⺢ㄫㄍㄧㄇ) and both character-page citations still correct. No changes needed — a clean pass.
+
+Next: 黄銅.
