@@ -905,3 +905,28 @@ Next: 鵖鴔.
 Already correctly `#cranberry`-tagged — verified both 鵖's and 鴔's own `stand_in` point to [[鵖鴔]] itself, matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields (bubbib/붑빕/ㄅㄨㄆㄅㄧㄆ) already matched constituents exactly — no bug. **Found and fixed a real bug**: `pos: 固有名詞` was wrong for a bird species name (a common noun) — corrected to `名詞`, matching both constituent characters. **Decoded a terse stray note** ("Different from a 戴勝") into proper Notes: 鵖鴔 is a classical/archaic hoopoe name distinct from the modern standard 戴勝; filled `japanese: ヤツガシラ`/`korean: 핍핍` (compositional) and flattened `vietnamese` from a list to scalar `đầu rìu`. Flagged, without resolving, an apparent discrepancy on 鵖's own character page (its native gloss points to goldcrest, not hoopoe). In passing fixed a missing stand-in annotation on 鵖's citation and the recurring duplicate `pos`/`品詞` bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
 
 Next: 鵝鳥.
+
+### 2026-09-09, iteration 3736 — [[words/鵝鳥|鵝鳥]]
+Legitimizing note added (鵝's own `stand_in` is [[鵝鳥]] itself, already annotated in its own citation; 鳥's own `stand_in` is 鳥 itself, so transitivity fails — no `#cranberry`). Pronunciation fields ('acou/아촛/ㄚㄑㄛㄨ) and `kwin: false` (AND-rule: 鵝 true, 鳥 false) already matched constituents exactly — no bug. **Fixed a real bug**: `mandarin: è` was missing 鳥's own reading entirely — corrected to compositional éniǎo. Filled blank `cantonese: ngo4 niu5`/`vietnamese: nga điểu` (compositional; noted the everyday native word ngỗng). `japanese: がちょう`/`korean: 거위` already correctly native. In passing, fixed 鵝's own citation, which was missing its "(stand-in for 鵝)" annotation. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only a substring false-positive on 詐取 — no genuine collision.
+
+Next: 鵰.
+
+### 2026-09-09, iteration 3737 — [[words/鵰|鵰]]
+Self-standing bare-character word. Pronunciation fields (cuo/춧/ㄑㄨㄛ) already matched the character's own stored values exactly — the existing homophone warning with [[秋]] confirmed genuine (own `stand_in` points to itself). **Found and fixed the same recurring `pos: 固有名詞`→`名詞` bug** seen on 鴎/鴻鵠 — "eagle" is a common noun, not a proper noun, matching the character's own `pos`. Fixed duplicate `pos`/`品詞`, a bare-string `characters:` field, and a stray trailing space on `vietnamese`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鶏.
+
+### 2026-09-09, iteration 3738 — [[words/鶏|鶏]]
+Self-standing bare-character word. `pos: 名詞` already correct this time (unlike the recent 鴎/鴻鵠/鵰 mistagging pattern). Pronunciation fields (gei/게/ㄍㄝㄧ) already matched the character's own stored values exactly — checked the full ㄍㄝㄧ syllable set (係/稽/計/継), none self-standing, so no homophone. Fixed duplicate `pos`/`品詞`, a bare-string `characters:` field, and flattened single-item `japanese`/`vietnamese` lists to scalars. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鶏卵.
+
+### 2026-09-09, iteration 3739 — [[words/鶏卵|鶏卵]]
+No cranberry (鶏's own `stand_in` is 鶏 itself, 卵's is [[卵子]] — neither points here). Pronunciation fields (geilan/게란/ㄍㄝㄧㄌㄚㄋ) and `kwin: false` (AND-rule: 鶏 false, 卵 true) already matched constituents exactly — no bug. Both character pages already cited 鶏卵 correctly. **Fixed a real bug**: `cantonese: ji1 dan4` matched neither constituent's own reading (dan4/蛋 being a different, unrelated Cantonese word for "egg") — corrected to gai1 leon2. **Fixed a malformed `vietnamese` field**: had an odd embedded parenthetical "trứng (thức ăn)" — replaced with the cleaner real term trứng gà, a native word-order reversal joining the vault's documented set of such cases. Removed blank `hsk_level`/`swadesh`, consolidated Etymology into `## Notes`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鶏肉.
+
+### 2026-09-09, iteration 3740 — [[words/鶏肉|鶏肉]]
+No cranberry (both 鶏's and 肉's own `stand_in` point to themselves — neither points here). Pronunciation fields (geinug/게눅/ㄍㄝㄧㄋㄨㄎ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鶏肉 correctly. Rich existing Notes on the JA on'yomi/native-hybrid readings and cross-language native-vs-Sino divergence kept intact. Filled entirely missing `vietnamese: kê nhục` (compositional; already correctly described in prose as losing out to native thịt gà, now named explicitly). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鶏鳴.
