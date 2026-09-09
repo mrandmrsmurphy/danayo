@@ -1750,3 +1750,108 @@ Next: 不可.
 Fixed a real citation gap on `characters/不 (char).md`'s Words list (可's own list already had it). Korean 불가 already correctly following the 不→불 assimilation rule. Added an entirely missing `## Notes` section and `date-last-perfect: 2026-09-09`.
 
 Next: 不可不.
+
+### 2026-09-09, iteration 3904 — [[words/不可不|不可不]]
+No `#cranberry`. Both character pages already cited 不可不 correctly. Filled entirely missing `cantonese: bat1 ho2 bat1`. Added missing `date-last-perfect: 2026-09-09`. Completes the modal square with [[可]]/[[不可]]/[[可不]] already cross-linked in prose.
+
+Next: 不可以.
+
+### 2026-09-09, iteration 3905 — [[words/不可以|不可以]]
+All three character pages already cited 不可以 correctly. All content already correct from an exceptionally thorough prior pass (deliberate blank japanese/korean already justified, Vietnamese attestation caveat already documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 不同.
+
+### 2026-09-09, iteration 3906 — [[words/不同|不同]]
+Both character pages already cited 不同 correctly. Korean 부동 confirmed correct (no 불 assimilation here; the famous 不同/不動 homophone-collision already well documented). Fixed a missing word-space in `cantonese`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 不均.
+
+### 2026-09-09, iteration 3907 — [[words/不均|不均]]
+Both character pages already cited 不均 correctly. Filled entirely missing `japanese: ふきん` and `korean: 불균` — the real attested reading (confirmed via 불균형 "imbalance"), following the 不→불 assimilation rule (3rd confirmed instance: 不信/不及/不均). Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不安.
+
+### 2026-09-09, iteration 3908 — [[words/不安|不安]]
+Both character pages already cited 不安 correctly. All content already correct from an exceptionally thorough prior pass (Heidegger/Kierkegaard translation history, 不穏 contrast all well documented). Korean 불안 already correctly following the assimilation rule. Only quoted fields and refreshed the date stamp.
+
+Next: 不定.
+
+### 2026-09-09, iteration 3909 — [[words/不定|不定]]
+Both character pages already cited 不定 correctly. All content already correct from an exceptionally thorough prior pass (grammatical/mathematical/general-usage tricategorization all well documented). Fixed a stray internal space in `mandarin` (bù dìng→bùdìng). Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不平.
+
+### 2026-09-09, iteration 3910 — [[words/不平|不平]]
+Both character pages already cited 不平 correctly. Fixed a missing word-space in `cantonese` and quoted `hsk_level`. Korean 불평 already correctly following the assimilation rule (4th confirmed instance), additionally the everyday word for "complaint." Added an entirely missing `## Notes` section and removed blank `swadesh`/`aliases`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不幸.
+
+### 2026-09-09, iteration 3911 — [[words/不幸|不幸]]
+Both character pages already cited 不幸 correctly. Fixed a missing word-space in `cantonese` and quoted `hsk_level`. Korean 불행 already correctly following the assimilation rule. Added an entirely missing `## Notes` section and removed blank `swadesh`/`aliases`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不当.
+
+### 2026-09-09, iteration 3912 — [[words/不当|不当]]
+Both character pages already cited 不当 correctly. Korean 부당 confirmed correct (不→불 assimilation does not apply before this consonant, a genuine non-application). Added an entirely missing `## Notes` section and removed blank `hsk_level`/`swadesh`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不断.
+
+### 2026-09-09, iteration 3913 — [[words/不断|不断]]
+Both character pages already cited 不断 correctly. All content already correct from an exceptionally thorough prior pass (行/朝-style Vietnamese reading-split, ふだん/普段 true-homophone documentation both well done). **Fixed a comma-joined `cantonese` contamination bug**: `"bat1 dyun6, bat1 tyun5"` — kept bat1 dyun6, matching 断's own stored reading. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不満.
+
+### 2026-09-09, iteration 3914 — [[words/不満|不満]]
+Both character pages already cited 不満 correctly. Pronunciation fields, `kwin: false`, already correct. Korean 불만 confirmed correct. Added an entirely missing Notes prose paragraph. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不用.
+
+### 2026-09-09, iteration 3915 — [[words/不用|不用]]
+Both character pages already cited 不用 correctly. This word's own prose independently CONFIRMS the exact 不→불/부 rule already deduced this stretch ("不 reads 부 mainly before ㄷ/ㅈ-initial syllables and 불 otherwise") — nice corroboration. Also documents a genuine Japanese 不用/不要 near-homophone collision and a real Vietnamese gap (no calque exists, honestly left blank). Fixed a missing word-space in `cantonese`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不穏.
+
+### 2026-09-09, iteration 3916 — [[words/不穏|不穏]]
+Both character pages already cited 不穏 correctly. All content already correct from an exceptionally thorough prior pass (Chinese-concrete/Japanese-ominous/Korean-politically-charged register comparison already well documented). Fixed a stray internal space in `mandarin`. Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不穏素.
+
+### 2026-09-09, iteration 3917 — [[words/不穏素|不穏素]]
+Periodic-table neologism series (astatine): already correctly following convention (mandarin/cantonese give the avoided real element character 砹's own reading; korean/japanese/vietnamese are IUPAC-name loanwords; `kwin: false` correctly compares Dan'a'yo against Korean). Fixed a real citation gap: `characters/不 (char).md`'s Words list was missing this entry. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不要.
+
+### 2026-09-09, iteration 3918 — [[words/不要|不要]]
+Both character pages already cited 不要 correctly. All content already correct from a thorough prior pass (Mandarin-prohibitive vs Japanese/Korean-descriptive-only false-friend split already well documented). Fixed a missing word-space in `cantonese`. Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不許.
+
+### 2026-09-09, iteration 3919 — [[words/不許|不許]]
+Both character pages already cited 不許 correctly. All content already correct from a prior thorough pass. A fully clean pass — only refreshed the date stamp.
+
+Next: 不過.
+
+### 2026-09-09, iteration 3920 — [[words/不過|不過]]
+Both character pages already cited 不過 correctly. All content already correct from a prior thorough pass (dual limiting-adverb/conjunction sense, deliberate blank japanese, Vietnamese exact-match all well documented). A fully clean pass — only refreshed the date stamp. This closes out the 不-prefixed word cluster.
+
+Next: 与.
+
+### 2026-09-09, iteration 3921 — [[words/与|与]]
+Self-standing bare-character word ("and, with"), reciprocal three-way Homophones callout with [[魚]]/[[輿]] already correctly cross-linked on all three pages. All content already correct from an exceptionally thorough prior pass (full CJKV conjunction-vocabulary comparison, MC-vowel-correspondence explanation already well documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 与格.
+
+### 2026-09-09, iteration 3922 — [[words/与格|与格]]
+Both character pages already cited 与格 correctly. All content already correct from a prior thorough pass (case-name suffix pattern cross-linking to 8 sibling case-terms already documented). Fixed the duplicate `品詞` field, quoted fields, tidied trailing blank lines. Stamped `date-last-perfect: 2026-09-09`. This closes out the 与-prefixed word cluster.
+
+Next: 丑月.
+
+### 2026-09-09, iteration 3923 — [[words/丑月|丑月]]
+No `#cranberry`. `kwin: false` (AND-rule: 丑 true, 月 false) correct. Fixed a real citation gap: `characters/丑.md` had no `## Words` section at all — added minimal section with the self-relevant citation, leaving the page's other rough spots (duplicate `## Notes` heading, dangling CC wikilinks) flagged out-of-scope. Fixed the duplicate `品詞` field and normalized single-item `japanese`/`vietnamese` lists to bare strings. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 且.
+
+### 2026-09-09, iteration 3924 — [[words/且|且]]
+Self-standing bare-character word ("also, too"). **Fixed a real self-reference bug in the reciprocal homophone callout**: both this page and [[処]]'s own page had their callouts pointing to themselves instead of the other party ("[[且]] is a homophone of [[処]]" written ON 且's own page, and the mirror-image error on 処's) — corrected both to the standard format naming only the OTHER word. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 且爵.
