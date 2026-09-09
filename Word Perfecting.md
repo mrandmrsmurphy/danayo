@@ -1925,3 +1925,23 @@ Next: 丘引.
 `characters:` already correctly disambiguated. Both character pages already cited 丘引 correctly. Filled entirely missing `vietnamese: giun đất` (real native word, matching the established real-attested-usage convention) and added a missing `## Notes` section. Japanese みみず confirmed correct (real native word, not compositional きゅういん). `kwin` false correct (AND-rule: 丘 false alone determines the result). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 丙.
+
+### 2026-09-09, iteration 3939 — [[words/丙|丙]]
+Self-standing bare-character word ("third class, tertiary"). **Fixed stale wording**: the three-way homophone group with [[坪]]/[[柄]] was described as "still awaiting their own turn" — both are now already perfected, so corrected to reflect the completed mutual cross-link (matching the established 鮑/報-style stale-wording fix pattern). Filled a previously-missing `japanese: へい` field. In passing, fixed a stray blank line inside [[柄]]'s own Homophones callout. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 両.
+
+### 2026-09-09, iteration 3940 — [[words/両|両]]
+Self-standing bare-character word ("both"), reciprocal three-way Homophones callout with [[梁]]/[[糧]] already correctly cross-linked. All content already correct from a prior thorough pass (兩/両/輛 shinjitai-collapse history, tael/vehicle-classifier senses, Korean North-Korean-form note all well documented). Normalized single-item `japanese`/`vietnamese` lists to bare strings. In passing, fixed the same stray-blank-line glitch (already seen on 柄) in both [[梁]]'s and [[糧]]'s own Homophones callouts. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 両親.
+
+### 2026-09-09, iteration 3941 — [[words/両親|両親]]
+Both character pages already cited 両親 correctly. All content already correct from an exceptionally thorough prior pass (父母 register comparison, 双親/song thân Vietnamese near-synonym caveat, Korean 두음법칙-adjacent divergence all well documented). Cantonese loeng5 (vs 両's own stored loeng2) confirmed as a real, standard Cantonese tone divergence for this specific compound, not a bug — left as-is. A fully clean pass — only refreshed the date stamp.
+
+Next: 並.
+
+### 2026-09-09, iteration 3942 — [[words/並|並]]
+Self-standing bare-character word ("side by side"). **Fixed stale wording**: [[瓶]] was described as "still awaiting its own turn" — it's already perfected and already reciprocally cross-linked, so corrected the phrasing. Filled a previously-missing `japanese: へい` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 並列.
