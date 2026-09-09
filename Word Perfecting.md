@@ -930,3 +930,23 @@ Next: 鶏肉.
 No cranberry (both 鶏's and 肉's own `stand_in` point to themselves — neither points here). Pronunciation fields (geinug/게눅/ㄍㄝㄧㄋㄨㄎ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鶏肉 correctly. Rich existing Notes on the JA on'yomi/native-hybrid readings and cross-language native-vs-Sino divergence kept intact. Filled entirely missing `vietnamese: kê nhục` (compositional; already correctly described in prose as losing out to native thịt gà, now named explicitly). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 鶏鳴.
+
+### 2026-09-09, iteration 3741 — [[words/鶏鳴|鶏鳴]]
+No cranberry (both 鶏's and 鳴's own `stand_in` point to themselves — neither points here). **Fixed the recurring `characters:` disambiguation bug on BOTH constituents**: bare "鶏"/"鳴" despite `words/鶏.md` and `words/鳴.md` both existing. Pronunciation fields (geimyeng/게명/ㄍㄝㄧㄇ⼶ㄫ) already matched constituents exactly — no bug. Both character pages already cited 鶏鳴 correctly. Filled blank `cantonese: gai1 ming4`/`korean: 계명`/`vietnamese: ke minh` and added missing `kwin: false` (AND-rule: 鶏 false, 鳴 true). Removed blank `hsk_level`/`swadesh`, consolidated Etymology into `## Notes`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only substring hits on the longer chengyu 鶏鳴狗盗 — no genuine collision.
+
+Next: 鶴.
+
+### 2026-09-09, iteration 3742 — [[words/鶴|鶴]]
+Already fully perfected (stamped 2026-08-31): self-standing bare-character word, pronunciation fields (hag/학/ㄏㄚㄎ), `kwin: true`, and the documented genuine 3-way homophone group with [[核]]/[[嚇]] all confirmed correct — verified both are themselves legitimized bare words. No changes needed — a clean pass.
+
+Next: 鷹.
+
+### 2026-09-09, iteration 3743 — [[words/鷹|鷹]]
+Already fully perfected (stamped 2026-08-29): self-standing bare-character word, pronunciation fields ('ing/잉/ㄧㄫ), `kwin: false`, and the homophone warning with [[応]] all confirmed correct — 応's own `stand_in` points to itself, exact-matching reading. No changes needed — a clean pass.
+
+Next: 鸚哥.
+
+### 2026-09-09, iteration 3744 — [[words/鸚哥|鸚哥]]
+No cranberry (鸚's own `stand_in` is [[鸚鵡]], 哥's is [[哥哥]] — neither points here). Pronunciation fields ('anggǝ/앙그/ㄚㄫㄍㄜ) already matched constituents exactly — no bug. Both character pages already cited 鸚哥 correctly. Filled entirely blank `japanese: おうか`/`vietnamese: anh ca` (compositional; noted everyday Vietnamese prefers native vẹt) and added missing `kwin: false` (AND-rule: both false). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鸚鵡.
