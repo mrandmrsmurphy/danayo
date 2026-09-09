@@ -1302,3 +1302,23 @@ Next: 一半.
 Legitimizing note (半's own `stand_in` is this exact compound; 一's own is 一 itself — transitivity fails, no `#cranberry`). Character page already cited 一半 correctly, reciprocal Homophones callout with [[一般]] already correctly cross-linked on both pages. **Fixed a real comma-joined `mandarin` contamination bug**: `"yībànr,yībàn"` — kept the standard yībàn, moved the Beijing-dialect erhua variant to prose (already separately recorded among `aliases`). **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (一 false, 半 true) — corrected to `false`. **New pattern noted**: `japanese: いっぱん` is not a bug despite superficially resembling 一般's own reading — it's the phonologically regular sokuon-assimilated form of いち+はん (半's own on'yomi HAN), and coincidentally matches 一般's real pronunciation exactly, a genuine cross-language homophone paralleling the already-documented Dan'a'yo-level one. Fixed the duplicate `品詞`/`pos` field. Kept `hsk_level`/`swadesh`/`aliases` per the numeral-word convention. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 一定.
+
+### 2026-09-09, iteration 3815 — [[words/一定|一定]]
+No `#cranberry` (定's own `stand_in` is [[決定]], 一's is 一 itself — neither points here). Character page already cited 一定 correctly. All pronunciation and real-language fields (`'idjeng`/읻정/ㄧㄊㄐㄝㄫ, mandarin, cantonese, japanese いってい, korean, vietnamese nhất định) already matched `characters/定.md` exactly, `kwin: false` already correct — this word is the source of the earlier-documented 一(char) root-cause `kwin` fix. A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 一斉.
+
+### 2026-09-09, iteration 3816 — [[words/一斉|一斉]]
+Legitimizing note (斉's own `stand_in` is this exact compound) already correctly documented. Both character pages already cited 一斉 correctly. Confirmed `pos: 副詞` (adverb) is a legitimate category, widely used across 32 other files — not part of the confirmed `動詞`-only bug pattern. All pronunciation/real-language fields and `kwin: false` already correct from a prior thorough pass (which itself documented the same 一-root-cause kwin fix found on [[一定]]). A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 一日.
+
+### 2026-09-09, iteration 3817 — [[words/一日|一日]]
+No `#cranberry` (both 一's and 日's own `stand_in` point to themselves — neither points here). `characters:` already correctly disambiguated. Both character pages already cited 一日 correctly. Pronunciation fields and `kwin: false` already matched. Fixed a stray trailing "l" typo in `mandarin` (`yīrìl`→`yīrì`). **Fixed a comma-joined `japanese` contamination bug**: `"ついたち, いちにち"` — this compound genuinely covers two senses that Japanese splits into two distinct real words (ついたち for "1st of the month," いちにち for "one day" duration); kept ついたち as the field value (matching the word's first-listed calendrical sense) with いちにち documented in prose as the sense-specific alternate for the duration meaning. Restructured a stray `## Etymology` heading below a numbered `## Notes` list into a single standard `## Notes` template. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一旦.
+
+### 2026-09-09, iteration 3818 — [[words/一旦|一旦]]
+Character page already cited 一旦 correctly. Confirmed `pos: 副用名詞` is a legitimate, widely-used category (38 files). All pronunciation/real-language fields and `kwin: false` already correct from a prior thorough pass (structural + korean contamination bugs already fixed there). A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 一月.
