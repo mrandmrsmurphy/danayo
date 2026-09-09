@@ -1105,3 +1105,23 @@ Next: 黒暗.
 No cranberry (both 黒's and 暗's own `stand_in` point to themselves — neither points here), added to the extensive existing philosophical/cosmological essay covering Daoist 玄, yin, Buddhist 無明, and the moral light/darkness polarity. Pronunciation fields (hug'am/훅암/ㄏㄨㄎ·ㄚㄇ) and `kwin: false` (AND-rule: 黒 false, 暗 true) already matched constituents exactly — no bug. **Found and fixed two real bugs where the frontmatter directly contradicted the essay's own prose**: `korean: 암흑` had the syllables reversed (the prose itself already correctly says 흑암) — corrected; `vietnamese: bóng tối` was a native phrase entirely different from the compositional form the prose explicitly names (hắc ám) — corrected. Also fixed a duplicated "hắc ám or hắc ám" typo in the prose itself, and a real citation gap on `characters/黒 (char).md`, whose Words list was missing 黒暗 entirely. Added missing `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only an incidental Bible-translation mention — no genuine collision.
 
 Next: 黒板.
+
+### 2026-09-09, iteration 3776 — [[words/黒板|黒板]]
+No cranberry (黒's own `stand_in` is 黒 itself, 板's is [[木板]] — neither points here). Pronunciation fields (hugpan/훅판/ㄏㄨㄎㄆㄚㄋ) and `kwin: false` (AND-rule: 黒 false, 板 true) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug**: bare "黒" despite `words/黒.md` existing. Both character pages already cited 黒板 correctly. Filled entirely missing `vietnamese: hắc bản`, quoted `hsk_level`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒洞.
+
+### 2026-09-09, iteration 3777 — [[words/黒洞|黒洞]]
+No cranberry (黒's own `stand_in` is 黒 itself, 洞's is [[洞窟]] — neither points here). Pronunciation fields (hugdong/훅동/ㄏㄨㄎㄉㄛㄫ) and `kwin: false` (AND-rule: 黒 false, 洞 true) already matched constituents exactly — no bug. Both character pages already cited 黒洞 correctly. `japanese: ブラックホール`/`korean: 블랙홀` already correctly English loanwords. Filled entirely missing `vietnamese: hố đen`, a real native word-order-reversed term. Fixed a stray blank Etymology gloss for 黒. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒猩.
+
+### 2026-09-09, iteration 3778 — [[words/黒猩|黒猩]]
+No cranberry (黒's own `stand_in` is 黒 itself, 猩's is [[猩猩]] — neither points here). Pronunciation fields (hugseng/훅성/ㄏㄨㄎㄙㄝㄫ) and `kwin: false` (AND-rule: 黒 false, 猩 true) already matched constituents exactly — no bug. Both character pages already cited 黒猩 correctly. Rich existing Notes on the 黒猩猩 abbreviation pattern (paralleling 大猩/倭猩) and Jane Goodall's Gombe research kept intact. Only fix was quoting `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒色.
+
+### 2026-09-09, iteration 3779 — [[words/黒色|黒色]]
+No cranberry (黒's own `stand_in` is 黒 itself, 色's is [[色彩]] — neither points here). Pronunciation fields (hugsig/훅식/ㄏㄨㄎㄙㄧㄎ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug** and **a real comma-joined `vietnamese` contamination bug** (kept đen, the real native word; hắc mentioned as the compositional alternate in Notes). Documented `japanese: くろ`/`korean: 검정` as legitimate real-native-word choices over the compositional こくしょく/흑색, previously unexplained. Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒貂.
