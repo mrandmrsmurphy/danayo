@@ -54,6 +54,7 @@ boundedness: 100
 ## Words
 - <ruby>[[黒色]]<rt>ㄏㄨㄎㄙㄧㄎ</rt></ruby> "black, the color black"
 - <ruby>[[黒板]]<rt>ㄏㄨㄎㄆㄚㄋ</rt></ruby> "blackboard"
+- <ruby>[[黒暗]]<rt>ㄏㄨㄎ·ㄚㄇ</rt></ruby> "pure blackness, darkness"
 - <ruby>[[暗黒]]<rt>ㄚㄇㄏㄨㄎ</rt></ruby> "dark, pitch black"
 - <ruby>[[黒貂]]<rt>ㄏㄨㄎㄑㄛ</rt></ruby> "sable"
 - <ruby>[[黒洞]]<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby> "blackhole"

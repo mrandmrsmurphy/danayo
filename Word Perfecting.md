@@ -1085,3 +1085,23 @@ Next: 黄金.
 Already fully perfected (stamped 2026-07-27): a real, established compound for gold (unlike the invented-calque periodictable neologisms elsewhere this sweep), correctly tagged `periodictable` without `neologism`, with `kwin: true` correctly following the normal AND-rule rather than the special neologism convention. Verified pronunciation fields (hwanggim/황김/ㄏ⺢ㄫㄍㄧㄇ) and both character-page citations still correct. No changes needed — a clean pass.
 
 Next: 黄銅.
+
+### 2026-09-09, iteration 3772 — [[words/黄銅|黄銅]]
+No cranberry (both 黄's and 銅's own `stand_in` point to themselves — neither points here). Pronunciation fields (hwangdong/황동/ㄏ⺢ㄫㄉㄛㄫ) already matched constituents exactly — no bug. Both character pages already cited 黄銅 correctly. **Fixed a likely typo**: `japanese: わうどう` used the archaic historical kana spelling — corrected to おうどう, matching the modern form already established on the sibling word [[黄金]]. Filled blank `korean: 황동`/`vietnamese: hoàng đồng` (compositional; noted native đồng thau) and added missing `kwin: true` (AND-rule: both true). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黎明.
+
+### 2026-09-09, iteration 3773 — [[words/黎明|黎明]]
+Legitimizing note added (黎's own `stand_in` is [[黎明]] itself, already annotated in its own citation; 明's own `stand_in` is 明 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (leimyeng/레명/ㄌㄝㄧㄇ⼶ㄫ) and `kwin: false` (AND-rule: 黎 false, 明 true) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug**: bare "明" despite `words/明.md` existing (Etymology already correctly cited "明 (char)"). **Fixed a real content bug**: the Etymology gloss for 黎 was literally its own romanization "Liǝ" rather than a meaning — corrected to "black" (黎's own stored English gloss), explaining the "black-bright" transition-to-dawn logic. Filled entirely missing `vietnamese: lê minh`. In passing fixed curly quotes and a missing stand-in annotation on 黎's own citation. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒.
+
+### 2026-09-09, iteration 3774 — [[words/黒|黒]]
+Already fully perfected (stamped 2026-08-03): self-standing bare-character word with a rich Notes section on the soot/smoke-blackened 象形 origin (paralleling [[青]]'s pigment-based etymology), the periodic-table hassium prefix role via [[黒金]], and a detailed kwin explanation. Verified pronunciation fields (hug/훅/ㄏㄨㄎ) and `kwin: false` still match the character page exactly. No changes needed — a clean pass.
+
+Next: 黒暗.
+
+### 2026-09-09, iteration 3775 — [[words/黒暗|黒暗]]
+No cranberry (both 黒's and 暗's own `stand_in` point to themselves — neither points here), added to the extensive existing philosophical/cosmological essay covering Daoist 玄, yin, Buddhist 無明, and the moral light/darkness polarity. Pronunciation fields (hug'am/훅암/ㄏㄨㄎ·ㄚㄇ) and `kwin: false` (AND-rule: 黒 false, 暗 true) already matched constituents exactly — no bug. **Found and fixed two real bugs where the frontmatter directly contradicted the essay's own prose**: `korean: 암흑` had the syllables reversed (the prose itself already correctly says 흑암) — corrected; `vietnamese: bóng tối` was a native phrase entirely different from the compositional form the prose explicitly names (hắc ám) — corrected. Also fixed a duplicated "hắc ám or hắc ám" typo in the prose itself, and a real citation gap on `characters/黒 (char).md`, whose Words list was missing 黒暗 entirely. Added missing `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only an incidental Bible-translation mention — no genuine collision.
+
+Next: 黒板.
