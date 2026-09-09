@@ -800,3 +800,23 @@ Next: 鰌魚.
 Legitimizing note already substantively documented (鰌's own `stand_in` is [[鰌魚]] itself). **Found and fixed a real gap**: `characters/鰌.md`'s own citation of 鰌魚 was missing its "(stand-in for 鰌)" annotation despite 鰌's own `stand_in` pointing there. Pronunciation fields (cuyo/추요/ㄑㄨ⼄) and `kwin: false` (AND-rule: 鰌 true, 魚 false) already matched constituents exactly — no bug. Exceptionally rich existing Notes on the loach's barometric-sensitivity folklore, Edo-period 柳川鍋/どじょう-ya culture, and Korean 추어탕/Jeolla regional cuisine kept fully intact. Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 鰐梨.
+
+### 2026-09-09, iteration 3715 — [[words/鰐梨|鰐梨]]
+No cranberry (鰐's own `stand_in` is [[鰐魚]], 梨's is 梨 itself — neither points here). Pronunciation fields ('agliǝ/악릐/ㄚㄎㄌㄧㄜ) and `kwin: false` (AND-rule: 鰐 true, 梨 false) already matched constituents exactly — no bug. `characters:` disambiguation already correct. Both character pages already cited 鰐梨 correctly. **Fixed a likely-wrong real-language field**: `japanese: ワニナシ` (a literal "alligator-pear" calque) was swapped for アボカド, the overwhelmingly dominant real modern Japanese word — matching Korean's already-correct loanword 아보카도. Filled entirely missing `vietnamese: bơ` (native, from French *beurre*, "butter"). Removed blank `hsk_level`/`swadesh`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鰐魚.
+
+### 2026-09-09, iteration 3716 — [[words/鰐魚|鰐魚]]
+Legitimizing note added (鰐's own `stand_in` is [[鰐魚]] itself, already annotated in its own citation; 魚's own `stand_in` is 魚 itself, so transitivity fails — no `#cranberry`). Pronunciation fields ('ag'yo/악요/ㄚㄎ·⼄) and `kwin: false` (AND-rule: 鰐 true, 魚 false) already matched constituents exactly — no bug. **In passing, fixed 鰐's own citation**, which was missing its "(stand-in for 鰐)" annotation. Filled entirely missing `vietnamese: ngạc ngư` (compositional; noted native cá sấu). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鱏.
+
+### 2026-09-09, iteration 3717 — [[words/鱏|鱏]]
+Self-standing bare-character word (own `stand_in` is 鱏 itself). Pronunciation fields (him/힘/ㄏㄧㄇ) and `kwin: false` already matched the character's own stored values exactly — no homophone. **Fixed a real bug**: `pos`/`品詞` were both entirely blank (duplicate empty fields) — consolidated to a single `pos: 名詞`, matching the character page. Filled entirely missing `vietnamese: tầm`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鱗.
+
+### 2026-09-09, iteration 3718 — [[words/鱗|鱗]]
+Self-standing bare-character word. **Found and fixed a real gap — a previously undocumented homophone**: checked the full ㄌㄧㄋ syllable set and found [[隣]] ("neighbor") is itself a legitimized self-standing bare word with the exact same reading lin/린/ㄌㄧㄋ, yet neither page had ever documented this collision (checked 吝/燐/麟 too — none is self-standing, confirming the cluster is exactly these two). Added reciprocal `>[!warning] Homophones` callouts to both. Fixed duplicate `pos`/`品詞` and a bare-string `characters:` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鳥.
