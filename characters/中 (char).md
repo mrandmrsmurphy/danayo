@@ -56,6 +56,7 @@ boundedness: 80
 	- short for [[中国]]
 
 ## Words
+- <ruby>[[世紀中]]<rt>ㄙㄝㄍㄧㄐㄨㄫ</rt></ruby> "middle of the century"
 - <ruby>[[中止]]<rt>ㄐㄨㄫㄐㄧ</rt></ruby> "to discontinue, cancel, call off"
 - [[中原]]
 - [[中国人]]

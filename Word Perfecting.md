@@ -1895,3 +1895,28 @@ Next: 世紀.
 Legitimizing note (紀's own `stand_in` is this exact compound) already present. Both character pages already cited 世紀 correctly, along with a large family of sibling 世紀-compounds. A fully clean pass — only refreshed the date stamp.
 
 Next: 世紀中.
+
+### 2026-09-09, iteration 3933 — [[words/世紀中|世紀中]]
+No `#cranberry`. Fixed a real citation gap on `characters/中 (char).md`'s Words list (世/紀's own lists already had it). Filled entirely missing `vietnamese: giữa thế kỷ` (native word-order-reversed, real natural phrase). Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世紀初.
+
+### 2026-09-09, iteration 3934 — [[words/世紀初|世紀初]]
+No `#cranberry`. All three character pages already cited 世紀初 correctly. Filled entirely missing `vietnamese: đầu thế kỷ` (native word-order-reversed, matching sibling 世紀中's pattern). Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世紀末.
+
+### 2026-09-09, iteration 3935 — [[words/世紀末|世紀末]]
+No `#cranberry`. All three character pages already cited 世紀末 correctly. Filled entirely missing `vietnamese: cuối thế kỷ` (matching sibling 世紀中/世紀初 pattern). Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 世間.
+
+### 2026-09-09, iteration 3936 — [[words/世間|世間]]
+Both character pages already cited 世間 correctly. All content already correct from an exceptionally thorough prior pass (Ruth Benedict/Chie Nakane cultural-concept documentation, 間's own reading-split correctly using the "between" default sense, not "interval"). Only quoted fields and refreshed the date stamp. This closes out the 世-prefixed word cluster.
+
+Next: 丘.
+
+### 2026-09-09, iteration 3937 — [[words/丘|丘]]
+Self-standing bare-character word ("hill"), reciprocal Homophones callout with [[九]] already correctly cross-linked. All content already correct from a prior thorough pass (Confucius naming-taboo, khâu/khưu Vietnamese variant, native おか/언덕 alternates all well documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 丘引.
