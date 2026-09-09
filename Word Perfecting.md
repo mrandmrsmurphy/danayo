@@ -1625,3 +1625,128 @@ Next: 上位.
 Both character pages already cited 上位 correctly. All fields and `kwin: false` already correct from a prior thorough pass. A fully clean pass — only quoted fields and refreshed the date stamp.
 
 Next: 上半期.
+
+### 2026-09-09, iteration 3879 — [[words/上半期|上半期]]
+No `#cranberry`. All three character pages already cited 上半期 correctly. Pronunciation fields, `kwin: false`, already matched. Filled entirely missing `vietnamese: thượng bán kì`. Quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 上帝.
+
+### 2026-09-09, iteration 3880 — [[words/上帝|上帝]]
+No `#cranberry` (帝's own `stand_in` is [[帝王]], 上's is 上 itself — neither points here). Fixed a real citation gap on `characters/上 (char).md`'s Words list. **Fixed a cantonese spelling-consistency bug**: `soeng6 dai3` → `seong6 dai3`, matching 上's own stored cantonese; noted a genuine seong6/soeng6 split exists across the vault's 上-word family (roughly half each way) worth a fuller audit later. `kwin: false` already correct. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 上弦.
+
+### 2026-09-09, iteration 3881 — [[words/上弦|上弦]]
+No `#cranberry`. Fixed a real citation gap on `characters/上 (char).md`'s Words list (弦's own list already had it). Filled entirely missing `vietnamese: thượng huyền`. Quoted real-language fields. `kwin: false` correct. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 上旬.
+
+### 2026-09-09, iteration 3882 — [[words/上旬|上旬]]
+No `#cranberry` (旬's own `stand_in` is [[旬日]], 上's is 上 itself). **Fixed a real garbage-value bug**: `cantonese` was `sang4 xun2` — neither syllable real Jyutping; `xun2` appears to be leftover Mandarin pinyin (旬's own mandarin is xún) misplaced into the cantonese field — corrected to `seong6 ceon4`. Fixed a missing citation on `characters/上 (char).md`'s Words list and the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 上昇.
+
+### 2026-09-09, iteration 3883 — [[words/上昇|上昇]]
+Legitimizing note already present (昇's own `stand_in` is this exact compound). All content already correct from a prior thorough pass. Fixed the recurring cantonese `soeng6`→`seong6` spelling bug and a missing citation on `characters/上 (char).md`'s Words list. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 上海.
+
+### 2026-09-09, iteration 3884 — [[words/上海|上海]]
+No `#cranberry`. Reciprocal homophone with [[傷害]] already correctly cross-linked. **Fixed a structural bug**: the Homophones callout sat before the meta-bind-embed block, violating the required order — moved. Fixed the recurring cantonese `soeng6`→`seong6` spelling bug and a missing citation on `characters/上 (char).md`'s Words list. Japanese しゃんはい confirmed correct (real proper-noun reading). Stamped `date-last-perfect: 2026-09-09`. This finishes the run of 上(char) citation-gap fixes found this stretch (上帝/上弦/上旬/上/上半期/上昇/上海 — seven gaps in a row).
+
+Next: 上知.
+
+### 2026-09-09, iteration 3885 — [[words/上知|上知]]
+Both character pages already cited 上知 correctly. All content already correct from a prior thorough pass (Analects/Joseon-scholar historical detail already well documented). Fixed the recurring cantonese `soeng6`→`seong6` spelling bug and quoted fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 上述.
+
+### 2026-09-09, iteration 3886 — [[words/上述|上述]]
+Both character pages already cited 上述 correctly (上's own citation in the already-flagged rough bare-link format). All content already correct from a prior thorough pass. Fixed the recurring cantonese `soeng6`→`seong6` spelling bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 上面.
+
+### 2026-09-09, iteration 3887 — [[words/上面|上面]]
+Both character pages already cited 上面 correctly. All content already correct from a prior thorough pass (register-comparison across five languages already well documented). Fixed the recurring cantonese `soeng6`→`seong6` spelling bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision. This closes out the 上-prefixed word cluster.
+
+Next: 下.
+
+### 2026-09-09, iteration 3888 — [[words/下|下]]
+Self-standing bare-character word ("down, under"), reciprocal Homophones callout with [[何]] already correctly cross-linked. Pronunciation fields and `kwin: true` already matched. Fixed the duplicate `品詞`/`pos` field and normalized single-item `japanese`/`vietnamese` lists to bare strings. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 下位.
+
+### 2026-09-09, iteration 3889 — [[words/下位|下位]]
+Both character pages already cited 下位 correctly. All content already correct, including japanese かい (correctly compositional KA+I). A fully clean pass — only quoted fields and refreshed the date stamp.
+
+Next: 下半期.
+
+### 2026-09-09, iteration 3890 — [[words/下半期|下半期]]
+No `#cranberry`. All three character pages already cited 下半期 correctly. Filled entirely missing `vietnamese: hạ bán kì` (matching sibling 上半期's own pattern). Quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 下弦.
+
+### 2026-09-09, iteration 3891 — [[words/下弦|下弦]]
+Both character pages already cited 下弦 correctly. Filled entirely missing `vietnamese: hạ huyền` (matching sibling 上弦's own thượng huyền). Quoted real-language fields. `kwin: false` correct. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 下愚.
+
+### 2026-09-09, iteration 3892 — [[words/下愚|下愚]]
+Both character pages already cited 下愚 correctly. `kwin: true` (AND-rule: both true) already correct; the注音 dot-disambiguation from [[好]]/[[毫]] (both genuinely ㄏㄚㄨ without a dot) already correctly explained in prose — confirmed not a real collision, just a documented near-miss. Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 下旬.
+
+### 2026-09-09, iteration 3893 — [[words/下旬|下旬]]
+No `#cranberry`. Both character pages already cited 下旬 correctly. **Fixed a real garbage-value bug identical to the one found on [[上旬]]**: `cantonese` was `xia4 xun2` — leftover Mandarin pinyin syllables mistakenly placed in the cantonese field — corrected to `haa6 ceon4`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 下痢.
+
+### 2026-09-09, iteration 3894 — [[words/下痢|下痢]]
+Legitimizing note (痢's own `stand_in` is this exact compound) already essentially present, labeled explicitly. Character page already cited 下痢 correctly. All content already correct from an exceptionally thorough prior pass (Korean 설사-vs-하리 divergence, Japanese げり coincidental-match, Vietnamese classical-vs-modern register all well documented). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 下降.
+
+### 2026-09-09, iteration 3895 — [[words/下降|下降]]
+Legitimizing note (降's own `stand_in` is this exact compound). Both character pages already cited 下降 correctly. Filled entirely missing `vietnamese: hạ giáng` and added an entirely missing `## Notes` section. `kwin: true` (AND-rule: both true) correct. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 下顎.
+
+### 2026-09-09, iteration 3896 — [[words/下顎|下顎]]
+Legitimizing note (顎's own `stand_in` is this exact compound). **Fixed a real 注音 typo**: missing middle-dot before 顎's vowel-initial reading (ㄏㄚㄚㄎ→ㄏㄚ·ㄚㄎ), matching the already-correct citation on `characters/下 (char).md` but fixing the same wrong typo propagated onto `characters/顎.md`'s own citation. **Fixed a real `kwin` bug**: was `false`, contradicting the AND-rule (both 下 and 顎 individually true) — corrected to `true`. Japanese あご/Korean 턱/Vietnamese xương hàm all confirmed correct (real native words). Removed blank `hsk_level`/`swadesh`/`aliases`. Stamped `date-last-perfect: 2026-09-09`. This closes out the 下-prefixed word cluster.
+
+Next: 不.
+
+### 2026-09-09, iteration 3897 — [[words/不|不]]
+Self-standing bare-character word ("not"), the core negation particle. Pronunciation fields and `kwin: false` already matched. Confirmed `pos: 修飾語` legitimate. Fixed the duplicate `品詞`/`pos` field and quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 不丹.
+
+### 2026-09-09, iteration 3898 — [[words/不丹|不丹]]
+Both character pages already cited 不丹 correctly, reciprocal homophone with [[不但]] already correctly cross-linked. All content already correct from an exceptionally thorough prior pass (Bhutan etymology, Dzongkha name, UN history all well documented). Only quoted fields and refreshed the date stamp.
+
+Next: 不亦V乎.
+
+### 2026-09-09, iteration 3899 — [[words/不亦V乎|不亦V乎]]
+Special discontinuous-circumfix entry (Classical Chinese rhetorical-question frame, 不亦……乎), already thoroughly perfected with well-reasoned deliberate-blank-field justification for the daughter-language fields (no independent life outside Classical Chinese literary grammar). Fixed a real citation gap: `characters/不 (char).md`'s Words list was missing this entry (亦/乎's own lists already had it). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不但.
+
+### 2026-09-09, iteration 3900 — [[words/不但|不但]]
+Reciprocal homophone with [[不丹]] already correctly cross-linked. Deliberate blank japanese/korean/vietnamese fields already correctly justified (a genuinely Mandarin-specific grammatical particle with no cross-linguistic parallel at all). **Fixed the recurring `characters:` disambiguation bug**: bare "但" despite `words/但.md` existing — corrected to "但 (char)", and fixed the prose's stale claim to match. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 不信.
+
+### 2026-09-09, iteration 3901 — [[words/不信|不信]]
+Both character pages already cited 不信 correctly. Pronunciation fields and `kwin: false` already correct. Documented Korean 불신 (not 부신) as a real regular Sino-Korean assimilation rule (matching 불가능/불편), not a bug. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 不及.
+
+### 2026-09-09, iteration 3902 — [[words/不及|不及]]
+Both character pages already cited 不及 correctly. **Fixed a real bug**: `korean` was `부급` (naive concatenation) — the real attested reading (confirmed via the famous idiom 과유불급) is `불급`, following the same 不→불 assimilation rule just documented on [[不信]]. Quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 不可.
+
+### 2026-09-09, iteration 3903 — [[words/不可|不可]]
+Fixed a real citation gap on `characters/不 (char).md`'s Words list (可's own list already had it). Korean 불가 already correctly following the 不→불 assimilation rule. Added an entirely missing `## Notes` section and `date-last-perfect: 2026-09-09`.
+
+Next: 不可不.

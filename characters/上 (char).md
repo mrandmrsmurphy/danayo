@@ -49,6 +49,13 @@ boundedness: 70
 - 29th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
 
 ## Words
+- <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> "above" (stand-in for 上)
+- <ruby>[[上半期]]<rt>ㄙ⼘ㄫㄅㄚㄋㄎㄧ</rt></ruby> "first half of the year"
+- <ruby>[[上昇]]<rt>ㄙ⼘ㄫㄙㄨㄫ</rt></ruby> "ascend"
+- <ruby>[[上海]]<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby> "Shanghai"
+- <ruby>[[上帝]]<rt>ㄙ⼘ㄫㄊㄝㄧ</rt></ruby> "Shangdi; God"
+- <ruby>[[上弦]]<rt>ㄙ⼘ㄫㄏㄝㄋ</rt></ruby> "first quarter moon"
+- <ruby>[[上旬]]<rt>ㄙ⼘ㄫㄙ⼜ㄋ</rt></ruby> "beginning of the month"
 - <ruby>[[上面]]<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby> "surface, outward appearance"
 - <ruby>[[上知]]<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby> "those wise from birth; innate wisdom"
 - [[上述]] The aforementioned

@@ -11,7 +11,7 @@ english:
   - "<circumfix for rhetorical Qs>"
 pos: 修飾語
 kwin: false
-date-last-perfect: 2026-08-03
+date-last-perfect: 2026-09-09
 tags:
   - word
 ---
