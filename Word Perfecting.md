@@ -1945,3 +1945,23 @@ Next: 並.
 Self-standing bare-character word ("side by side"). **Fixed stale wording**: [[瓶]] was described as "still awaiting its own turn" — it's already perfected and already reciprocally cross-linked, so corrected the phrasing. Filled a previously-missing `japanese: へい` field. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 並列.
+
+### 2026-09-09, iteration 3943 — [[words/並列|並列]]
+No `#cranberry`. `characters:` already correctly disambiguated/bare as appropriate, both character pages already cited 並列 correctly. Filled entirely missing `vietnamese: tịnh liệt`. **Fixed a redundant self-referential `aliases: [並列]` entry** — same bug variant previously fixed on [[熊鼠]]/[[鼠色]]. Quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 並立.
+
+### 2026-09-09, iteration 3944 — [[words/並立|並立]]
+Both character pages already cited 並立 correctly. All content already correct from a prior thorough pass (five-way cross-linguistic attestation, including Vietnamese tịnh lập confirmed via web search, all well documented). A fully clean pass — only refreshed the date stamp. This closes out the 並-prefixed word cluster.
+
+Next: 中.
+
+### 2026-09-09, iteration 3945 — [[words/中|中]]
+Self-standing bare-character word (the progressive aspect marker "-ing"). Pronunciation fields and `kwin: true` already matched. All content already correct from a prior thorough pass (full CJKV progressive-aspect comparison chart, [[公]] phonological parallel already documented). Fixed the duplicate `品詞`/`pos` field and quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 中世.
+
+### 2026-09-09, iteration 3946 — [[words/中世|中世]]
+Both character pages already cited 中世 correctly. All content already correct from a prior thorough pass (Vietnamese trung thế's narrower Japanese-periodization-specific scope vs. broader trung đại/trung cổ already well documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 中亜.
