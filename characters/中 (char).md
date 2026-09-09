@@ -56,10 +56,19 @@ boundedness: 80
 	- short for [[中国]]
 
 ## Words
+- <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> "-ing; progressive; in the midst of" (stand-in for 中)
+- <ruby>[[中子]]<rt>ㄐㄨㄫㄐㄜ</rt></ruby> "middle son"
+- <ruby>[[中庸]]<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby> "moderation; neutrality"
+- <ruby>[[中指]]<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby> "middle finger; middle toe"
+- <ruby>[[中華]]<rt>ㄐㄨㄫㄏ⺢</rt></ruby> "Chinese culture"
+- <ruby>[[中国]]<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> "China"
+- <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ·⼔ㄊ</rt></ruby> "CJKV"
+- <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
 - <ruby>[[世紀中]]<rt>ㄙㄝㄍㄧㄐㄨㄫ</rt></ruby> "middle of the century"
 - <ruby>[[中止]]<rt>ㄐㄨㄫㄐㄧ</rt></ruby> "to discontinue, cancel, call off"
-- [[中原]]
-- [[中国人]]
+- <ruby>[[中原]]<rt>ㄐㄨㄫ·⼔ㄋ</rt></ruby> "Central Plains"
+- <ruby>[[中古]]<rt>ㄐㄨㄫㄍㄛ</rt></ruby> "secondhand; medieval; middle period"
+- <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
 - [[中国語]]
 - [[中学校]]
 - [[中庭]]

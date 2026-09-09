@@ -1965,3 +1965,23 @@ Next: 中世.
 Both character pages already cited 中世 correctly. All content already correct from a prior thorough pass (Vietnamese trung thế's narrower Japanese-periodization-specific scope vs. broader trung đại/trung cổ already well documented). A fully clean pass — only refreshed the date stamp.
 
 Next: 中亜.
+
+### 2026-09-09, iteration 3947 — [[words/中亜|中亜]]
+Both character pages already cited 中亜 correctly. Added missing `kwin: true` (AND-rule: both 中 and 亜 individually true). Quoted `korean`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中原.
+
+### 2026-09-09, iteration 3948 — [[words/中原|中原]]
+**Fixed a real bug the word's own prose had already diagnosed but never corrected**: `japanese` was なかはら, a coincidental Japanese surname/placename unrelated in meaning — the prose itself said so, but the wrong value stayed in the field — corrected to ちゅうげん, the real on'yomi compositional reading used in Japanese sinological writing. Filled an entirely missing `注音` field. Fixed real citation gaps on both `characters/中 (char).md` (was a bare unformatted wikilink) and `characters/原.md`'s (missing entirely) Words lists. Fixed the duplicate `品詞` field.
+
+Next: 中古.
+
+### 2026-09-09, iteration 3949 — [[words/中古|中古]]
+**Fixed a real garbled-value bug**: `vietnamese` was `đồ đả dùng qua` (wrong word "đả" for "đã," non-standard word order) — corrected to trung cổ, the real, standard Sino-Vietnamese word for "medieval," matching the word's own senses 2/3; noted the real native phrase (đồ đã qua sử dụng) for the distinct "secondhand goods" sense in prose. Fixed a missing citation on `characters/中 (char).md`'s Words list. Normalized `english` from a bare string to a proper list. Quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中国.
+
+### 2026-09-09, iteration 3950 — [[words/中国|中国]]
+**Fixed a real citation gap my own earlier full-scan false-negatived**: `characters/中 (char).md` had no proper `## Words` citation for 中国, only a bare "short for [[中国]]" mention under a separate `## Definitions` list — the earlier scan's substring match wrongly counted that as satisfying the check. Added the proper ruby-formatted citation. Fixed the duplicate `品詞` field. `国`'s own citation and the systematic 곡/국 divergence explanation (already generalized to [[中国人]]/[[中国語]]/[[中華民国]]) were already correct. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中国人.

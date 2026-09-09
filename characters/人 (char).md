@@ -55,6 +55,7 @@ boundedness: 75
 - <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
 ## Words
 - <ruby>[[丈人]]<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"
+- <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
 - <ruby>[[人民]]<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby> "people; public; citizen"
 - <ruby>[[猿人]]<rt>ㄛㄋㄋㄧㄋ</rt></ruby> "apeman"
 - <ruby>[[倭人]]<rt>⼔ㄧㄋㄧㄋ</rt></ruby> "Wajin; Japanese person (archaic)"
