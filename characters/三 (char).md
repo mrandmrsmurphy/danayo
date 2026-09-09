@@ -57,6 +57,7 @@ boundedness: 75
 - <ruby>[[三綱]]<rt>ㄙㄚㄇ강</rt></ruby> - the three relationships
 - <ruby>[[三菱]]<rt>ㄙㄚㄇ링</rt></ruby> - Mitsubishi
 - <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "triangle"
+- <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby> "trigonometry"
 	- <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> - Trinity
 

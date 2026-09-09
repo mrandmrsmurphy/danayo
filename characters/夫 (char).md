@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[夫人]]<rt>ㄈㄜㄋㄧㄋ</rt></ruby> "madam; lady; (someone else's) wife"
 - <ruby>[[夫婦]]<rt>ㄅㄨㄅ⼜</rt></ruby> "couple"
 - <ruby>[[夫子]]<rt>ㄈㄜㄐㄜ</rt></ruby> "Confucius; master"
-- <ruby>[[丈夫]]<rt>ㄐㄚㄫㄅㄨ</rt></ruby> "husband"
+- <ruby>[[丈夫]]<rt>ㄑㄚㄫㄈㄜ</rt></ruby> "husband"
 - <ruby>[[大夫]]<rt>ㄉㄚㄧㄅㄨ</rt></ruby> "official"
 - <ruby>[[漁夫]]<rt>⼄ㄈㄜ</rt></ruby> "fisherman"
 - <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "sit in lotus position"

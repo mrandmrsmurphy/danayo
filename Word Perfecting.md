@@ -1490,3 +1490,138 @@ Next: 万年.
 Both character pages already cited 万年 correctly. Pronunciation and real-language fields already correct — cantonese already correctly `maan6` (no propagated `mak6` typo here, unlike [[万乗]]). Only fix was the duplicate `品詞`/`pos` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 万歳.
+
+### 2026-09-09, iteration 3852 — [[words/万歳|万歳]]
+Both character pages already cited 万歳 correctly. Confirmed `pos: 感詞` (interjection) is a legitimate category (19 files). All pronunciation/real-language fields, `kwin: false`, already correct from an exceptionally thorough prior pass (Japanese ばんざい/まんざい dual-reading split, Korean 3.1 Movement history, Chinese imperial-taboo history all well documented). Only fix was the duplicate `品詞`/`pos` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 万物.
+
+### 2026-09-09, iteration 3853 — [[words/万物|万物]]
+No `#cranberry` (万's own `stand_in` is [[一万]], 物's is 物 itself — neither points here). **Fixed a real citation gap**: `characters/万.md`'s `## Words` list was missing 万物 entirely (物's own list already had it). Confirmed the 萬物/万物 大字 (anti-falsification) pairing already correctly documented on 萬物's own page — mirrored that documentation onto this page, keeping `aliases: []` empty per the established 萬/万 non-cross-listing precedent. Fixed the duplicate `品詞` field and normalized `vietnamese` from a single-item list to a bare string. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 万象.
+
+### 2026-09-09, iteration 3854 — [[words/万象|万象]]
+No `#cranberry` (万's own `stand_in` is [[一万]], 象's is [[大象]] — neither points here). Both character pages already cited 万象 correctly. Pronunciation fields, `kwin: false`, already matched. **Fixed a real semantic-mismatch bug**: `vietnamese` was capitalized `Vạn Tượng` — the real Vietnamese name for Vientiane (capital of Laos), a coincidentally-homographic but completely unrelated proper noun — corrected to lowercase `vạn tượng`, matching 象's own stored reading and the word's actual meaning. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 万邦.
+
+### 2026-09-09, iteration 3855 — [[words/万邦|万邦]]
+No `#cranberry` (万's own `stand_in` is [[一万]], 邦's is [[連邦]] — neither points here). Both character pages already cited 万邦 correctly. Filled an entirely missing `cantonese: maan6 bong1`. Fixed the duplicate `品詞` field. `kwin: false` already correct. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision. This closes out the 万-prefixed word cluster.
+
+Next: 丈.
+
+### 2026-09-09, iteration 3856 — [[words/丈|丈]]
+Self-standing bare-character word ("zhang," unit of length). Pronunciation fields and `kwin: false` already matched `characters/丈 (char).md` exactly. Fixed the duplicate `品詞`/`pos` field and normalized single-item `japanese`/`vietnamese` lists to bare strings. **Fixed a real citation gap**: the character page had no `## Words` section at all (only a nonstandard `## Definition` heading) — added a minimal `## Words` section with the missing self-citation, leaving the rest of the rough character page for the character-perfection sweep. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 丈人.
+
+### 2026-09-09, iteration 3857 — [[words/丈人|丈人]]
+`characters:` already correctly disambiguated. **Fixed a real internal-consistency bug**: `羅馬字`/`注音` had been stored using the wrong unaspirated onset (`jangnin`/`ㄐㄚㄫㄋㄧㄋ`) — inconsistent with this word's own already-correct `諺文: 창닌` and with 丈's own stored triple (cang/창/ㄑㄚㄫ) — corrected to `cangnin`/`ㄑㄚㄫㄋㄧㄋ`. The identical typo had also propagated into this word's own citation on `characters/丈 (char).md`'s Words list, fixed there too. Fixed a real citation gap on `characters/人 (char).md`'s Words list (missing 丈人 entirely). `kwin: false` already correct regardless. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 丈夫.
+
+### 2026-09-09, iteration 3858 — [[words/丈夫|丈夫]]
+No `#cranberry` (both 丈's and 夫's own `stand_in` point to themselves). **Found and fixed a significant real bug**: `羅馬字`/`諺文`/`注音` had been built from the SINO-KOREAN compositional reading (jangbu/장부/ㄐㄚㄫㄅㄨ, i.e. 丈's own Korean 장 + 夫's own Korean 부) rather than Dan'a'yo's own derivation — corrected to the proper mechanical concatenation of each constituent's own stored Dan'a'yo triple (cangfǝ/창쁘/ㄑㄚㄫㄈㄜ). The identical error had propagated into this word's own citations on both `丈 (char).md` and `夫 (char).md`'s Words lists, fixed there too. Documented Japanese じょうぶ as a genuine false-friend divergence (means "robust/healthy" in Japanese, not "husband," despite being the real reading of this exact written compound) and Korean 장부's own real meaning ("a great man," not "husband" — reinforcing why the native 남편 is correctly used instead). Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 丈母.
+
+### 2026-09-09, iteration 3859 — [[words/丈母|丈母]]
+No `#cranberry` (丈's own `stand_in` is 丈 itself, 母's is [[母親]] — neither points here). **Fixed the same Sino-Korean-vs-Dan'a'yo mix-up already found on [[丈夫]]**: `羅馬字`/`諺文`/`注音` had been built from 丈's Korean 장 rather than Dan'a'yo's own 창 — corrected to `cangmou`/`창못`/`ㄑㄚㄫㄇㄛㄨ`. Same propagated typo fixed on both character-page citations. Filled entirely missing `vietnamese: mẹ vợ` (real native compound, matching [[丈人]]'s "bố vợ"). Normalized single-item `japanese` list to a bare string. Stamped `date-last-perfect: 2026-09-09`. This closes out the 丈-prefixed word cluster.
+
+Next: 三.
+
+### 2026-09-09, iteration 3860 — [[words/三|三]]
+Self-standing bare-character word ("three"). Pronunciation fields and `kwin: true` already matched `characters/三 (char).md` exactly (self-standing). **Found and corrected a real over-claim in the prose**: the Notes asserted 三 "has a dedicated anti-forgery/financial variant... [[参]]," matching the completed [[一]]/[[壱]] and [[七]]/[[漆]] pairs — but `characters/参.md`'s own `stand_in` actually points to [[参加]], not to itself, and no `words/参.md` exists; corrected the claim to flag this as NOT yet implemented rather than asserting it as done. Fixed the duplicate `品詞`/`pos` field and removed a stray misplaced `hanmun_edu_level` field (a character-page-only field that had leaked into this word file). Normalized the non-standard opening tip line to the standard `>[!tip]` callout format. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 三位一体.
+
+### 2026-09-09, iteration 3861 — [[words/三位一体|三位一体]]
+No `#cranberry` (none of the four constituents' own `stand_in` points here). All four character pages already cited 三位一体 correctly. All pronunciation and real-language fields, `kwin: false`, already correct. Japanese さんみいったい confirmed correct (a real special classical/Buddhist alternate on'yomi for 位, み instead of い — not a bug). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三十.
+
+### 2026-09-09, iteration 3862 — [[words/三十|三十]]
+Both character pages already cited 三十 correctly. Pronunciation fields and `kwin: true` (AND-rule: both true) already matched. **Fixed the recurring `characters:` disambiguation bug**: bare "十" despite `words/十.md` existing. Vietnamese ba mươi and Japanese みそじ/さんじゅう split already correctly documented. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三十一日.
+
+### 2026-09-09, iteration 3863 — [[words/三十一日|三十一日]]
+No stand-in relationship (all four constituents independent). **Fixed several real bugs**: `mandarin`/`cantonese` had been entirely blank; `japanese` held a stray middle-dot separator instead of plain concatenation; `vietnamese` held the cardinal-number phrase "ba mươi mốt" ("thirty-one") rather than the compositional day-of-month form matching sibling words [[十一日]]/[[七日]]. Fixed the recurring `characters:` disambiguation bug and the duplicate `品詞` field. Confirmed (matching precedent on [[十一日]]) that day-numbered compounds like this one are not systematically cross-cited on every constituent character's own Words list, only on 日's — not a bug, left as-is. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三十日.
+
+### 2026-09-09, iteration 3864 — [[words/三十日|三十日]]
+No stand-in relationship. Character page already cited 三十日 correctly. Japanese みそか confirmed correct (real special native reading, not the expected compositional さんじゅうにち — same "last day of month" irregular-reading family as [[一日]]'s ついたち). Filled entirely missing `vietnamese: tam thập nhật`. Fixed the recurring `characters:` disambiguation bug and the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三叉.
+
+### 2026-09-09, iteration 3865 — [[words/三叉|三叉]]
+`characters:` already correctly disambiguated. Both character pages already cited 三叉 correctly. All pronunciation and real-language fields, `kwin: false`, already correct from a prior thorough pass (trigeminal-nerve medical-vocabulary cross-check, Vietnamese native-phrase divergence both already documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 三国.
+
+### 2026-09-09, iteration 3866 — [[words/三国|三国]]
+Both character pages already cited 三国 correctly. Pronunciation fields, `kwin: false`, already matched. **Fixed a structural formatting bug**: the reciprocal homophone with [[三角]] was expressed as a non-standard `>[!tip]` line before the meta-bind-embed block instead of a proper `>[!warning] Homophones` callout — converted (the identical issue exists on 三角's own reciprocal side, flagged for when that word is reached). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 三日.
+
+### 2026-09-09, iteration 3867 — [[words/三日|三日]]
+No stand-in relationship. Character page already cited 三日 correctly. Japanese みっか confirmed correct (real special native reading, same irregular-day-reading family as 一日/三十日). Filled entirely missing `mandarin`/`cantonese`/`vietnamese`. Fixed the duplicate `品詞` field. `kwin: false` correct. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三月.
+
+### 2026-09-09, iteration 3868 — [[words/三月|三月]]
+No stand-in relationship. **Fixed three real bugs, the same family already found on [[一月]]/[[七月]]**: `cantonese` missing 月's glide (jut6→jyut6); `注音` carrying the ⼔ㄋ-for-⼔ㄊ typo (fixed here and in this word's own citation on `月 (char).md`); `kwin: true` contradicting the AND-rule (三 true, 月 false) — corrected to `false`. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 三焦.
+
+### 2026-09-09, iteration 3869 — [[words/三焦|三焦]]
+No stand-in relationship. Both character pages already cited 三焦 correctly. **Fixed a real orthography bug**: `japanese` was obsolete historical kana (さんせう) instead of modern さんしょう, the same bug family as [[龍王]]. Filled entirely missing `vietnamese: tam tiêu` (real standard TCM term). Fixed the duplicate `品詞` field. **Found a genuine new Dan'a'yo homophone**: shares its exact reading with [[参照]] ("refer to, cross-reference") — added reciprocal `>[!warning] Homophones` callouts on both pages; in passing on 参照 also fixed its non-canonical `pos: 動詞`→`事詞` and quoted its real-language fields. Stamped `date-last-perfect: 2026-09-09` on both files.
+
+Next: 三猿.
+
+### 2026-09-09, iteration 3870 — [[words/三猿|三猿]]
+`characters:` fine (猿 bound but usable in other compounds beyond its own stand_in legitimizer [[猿猩]]). Character citation present (bare-format, on the already-flagged rough 三(char) page). **Fixed a comma-joined `japanese` contamination bug**: さんざる (the real, famous popular reading for this cultural icon, Nikkō Tōshō-gū's "see/hear/speak no evil" monkeys) kept, さんえん removed as a less-common alternate. **Fixed a real garbage-value bug**: `vietnamese` was `phiên âm` ("phonetic transcription," totally unrelated) → `tam viên` (compositional, matching 猿's own stored `viên`). Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三稜鏡.
+
+### 2026-09-09, iteration 3871 — [[words/三稜鏡|三稜鏡]]
+All three character pages already cited 三稜鏡 correctly. All pronunciation and real-language fields, `kwin: false`, already correct from an exceptionally thorough prior pass (Korean loanword divergence, Vietnamese etymology cross-check both already documented). Added an explicit legitimizing-note label (稜's own `stand_in` is this exact compound). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三綱.
+
+### 2026-09-09, iteration 3872 — [[words/三綱|三綱]]
+Character page already cited 三綱 correctly. All pronunciation and real-language fields, `kwin: true` (AND-rule: both true), already correct from a prior thorough pass (Dong Zhongshu/Chunqiu Fanlu history, Vietnamese scholarship cross-check already documented). A fully clean pass — only refreshed the date stamp.
+
+Next: 三菱.
+
+### 2026-09-09, iteration 3873 — [[words/三菱|三菱]]
+Fixed a real citation gap on `characters/菱 (char).md`'s Words list. Added missing `kwin: true` (AND-rule: both true) and filled missing `vietnamese: Mitsubishi` (loanword, matching Korean's own phonetic-loan approach). Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三角.
+
+### 2026-09-09, iteration 3874 — [[words/三角|三角]]
+Both character pages already cited 三角 correctly. Pronunciation fields, `kwin: false`, already matched. **Fixed the reciprocal structural bug already flagged from [[三国]]'s own page**: non-standard `>[!tip]` homophone line before the meta-bind-embed block — converted to a proper `>[!warning] Homophones` callout. Fixed the duplicate `品詞` field and quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 三角形.
+
+### 2026-09-09, iteration 3875 — [[words/三角形|三角形]]
+No `#cranberry` (none of the three constituents' own `stand_in` points here). Fixed a real citation gap on `characters/角 (char).md`'s Words list. Fixed the duplicate `品詞` field, added an entirely missing `## Notes` section. All other fields already correct — this is the source precedent for the vietnamese hình-N-góc polygon-naming pattern later applied to 七角形. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 三角法.
+
+### 2026-09-09, iteration 3876 — [[words/三角法|三角法]]
+No `#cranberry`. Fixed real citation gaps on both `characters/三 (char).md` and `characters/角 (char).md`'s Words lists (法's own list already had it). Fixed the duplicate `品詞` field, added an entirely missing `## Notes` section. Vietnamese lượng giác học confirmed correct (real standard term, not a calque). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision. This closes out the 三-prefixed word cluster.
+
+Next: 上.
+
+### 2026-09-09, iteration 3877 — [[words/上|上]]
+Self-standing bare-character word ("above"), reciprocal three-way Homophones callout with [[尚]]/[[賞]] already correctly cross-linked on all three pages. Pronunciation fields and `kwin: false` already matched. **Fixed a real YAML-structure bug**: `characters: 上 (char)` was a bare scalar instead of a proper list. Fixed the duplicate `品詞`/`pos` field and normalized single-item `japanese`/`vietnamese` lists to bare strings. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 上位.
+
+### 2026-09-09, iteration 3878 — [[words/上位|上位]]
+Both character pages already cited 上位 correctly. All fields and `kwin: false` already correct from a prior thorough pass. A fully clean pass — only quoted fields and refreshed the date stamp.
+
+Next: 上半期.

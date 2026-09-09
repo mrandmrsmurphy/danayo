@@ -46,6 +46,7 @@ date-last-perfect: 2026-08-19
 ## Words
 - <ruby>[[菱]]<rt>ㄌㄜㄫ</rt></ruby> "water chestnut" (stand-in for 菱)
 - <ruby>[[菱形]]<rt>ㄌㄜㄫㄏㄝㄫ</rt></ruby> "rhombus, diamond shape"
+- <ruby>[[三菱]]<rt>ㄙㄚㄇㄌㄜㄫ</rt></ruby> "Mitsubishi"
 
 ## Notes
 - 形声: semantic [[艹]] ("plant") + phonetic [[夌]] — "water chestnut; water caltrop."

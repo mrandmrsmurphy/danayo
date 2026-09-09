@@ -48,14 +48,17 @@ boundedness: 80
 ### Derived Character
 - [[杖]] = 木 + 丈
 
+## Words
+- <ruby>[[丈]]<rt>ㄑㄚㄫ</rt></ruby> "zhang" (stand-in for 丈)
+
 ## Definition
 1. An ancient unit of length, about 3.3m
 	1. <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄐㄚㄫ</rt></ruby> - agitated from a 10,000 ft tall wave
 	2. When used alone
 2. gentlemen, husband
-	1. <ruby>[丈夫](/words/丈夫.md)<rt>ㄐㄚㄫㄅㄨ</rt></ruby> - husband
-	2. <ruby>[丈人](/words/丈人.md)<rt>ㄐㄚㄫㄋㄧㄋ</rt></ruby> - father in law
-	3. <ruby>[丈母](/words/丈母.md)<rt>ㄐㄚㄫㄇㄛㄨ</rt></ruby> - mother in law
+	1. <ruby>[丈夫](/words/丈夫.md)<rt>ㄑㄚㄫㄈㄜ</rt></ruby> - husband
+	2. <ruby>[丈人](/words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> - father in law
+	3. <ruby>[丈母](/words/丈母.md)<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby> - mother in law
 	4. <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby> - father's sister's husband
 [[Lookup/CC/initials/聲 澄]]
 [[Lookup/CC/finals/韻 陽開]]
