@@ -52,6 +52,7 @@ boundedness: 75
 - 472nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄨㄇ](../syllables/ㄨㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[飲]]<rt>ㄨㄇ</rt></ruby> "drink" (stand-in for 飲)
 - <ruby>[[飲食]]<rt>ㄨㄇㄙㄧㄎ</rt></ruby> "eat and drink"
 - <ruby>[[飲食物]]<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby> "foods and drinks"
 - <ruby>[[暴飲]]<rt>ㄅㄛㄎㄨㄇ</rt></ruby> "binge drink"

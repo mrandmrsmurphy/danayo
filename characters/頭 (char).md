@@ -7,7 +7,9 @@ japanese:
   - TOU
   - ZU
   - TO
-japanese_native: ø
+japanese_native:
+  - あたま
+  - かしら
 vietnamese:
   - đầu
 middle_chinese_initial: d
@@ -58,7 +60,7 @@ boundedness: 100
 - <ruby>[[白頭鷲]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
 - <ruby>[[乳頭]]<rt>ㄋㄨㄊㄛㄨ</rt></ruby> "nipple"
 - <ruby>[[額頭]]<rt>ㄚㄎㄊㄛㄨ</rt></ruby> "forehead; plaque"
-- <ruby>[[饅頭]]<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby> "wonton"
+- <ruby>[[饅頭]]<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby> "steamed bun"
 - <ruby>[[亀頭]]<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby> "glans penis"
 - <ruby>[[羊頭]]<rt>⼘ㄫㄊㄛㄨ</rt></ruby> "goat's head"
 - <ruby>[[拳頭]]<rt>ㄍ⼔ㄋㄊㄛㄨ</rt></ruby> "fist"

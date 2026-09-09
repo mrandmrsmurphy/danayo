@@ -91,7 +91,7 @@ boundedness: 75
 26. [[故人]]
 27. [[老人学]]
 28. [[人員]]
-29. [[高人]]
+29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
 30. [[人間]]
 31. [[別人]]
 32. [[人望]]
@@ -111,6 +111,7 @@ boundedness: 75
 - <ruby>[[詩人]]<rt>ㄙㄧㄋㄧㄋ</rt></ruby> "poet"
 - <ruby>[[仙人掌]]<rt>ㄙ⼶ㄋㄋㄧㄋㄐㄚㄫ</rt></ruby> "cactus"
 - <ruby>[[人称]]<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
+- <ruby>[[類人猿]]<rt>ㄌㄨㄧㄋㄧㄋㄛㄋ</rt></ruby> "simian"
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
 - [[造人像形]]

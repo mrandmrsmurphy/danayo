@@ -57,7 +57,7 @@ boundedness: 85
 * <ruby>[[三叉]]<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby> "three-forked, tripartite; trident"
 * [[音叉]] tuning fork
 * [[夜叉]] yaksha
-* [[魚叉]] harpoon
+- <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
 * [[叉勺]] spork
 * [[交叉]] - intersection ("fork in the road"!)
 [[Lookup/CC/initials/聲 初]]

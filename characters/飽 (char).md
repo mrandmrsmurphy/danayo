@@ -52,4 +52,5 @@ boundedness: 75
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[飽]]<rt>ㄅ⼘ㄨ</rt></ruby> "sated, full" (stand-in for 飽)
 - <ruby>[[飽足]]<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby> "satisfied, satiated"

@@ -9,6 +9,7 @@ japanese:
 japanese_native: たむろ
 vietnamese:
   - truân
+  - đồn
 middle_chinese_initial: d
 middle_chinese_final: uən
 stroke_count: 4

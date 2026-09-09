@@ -54,6 +54,7 @@ boundedness: 90
 - <ruby>[[壌土]]<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby> "loam; loamy soil"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
 - <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
+- <ruby>[[領土]]<rt>ㄌㄧㄫㄊㄛ</rt></ruby> "territory"
 
 ## Derived Characters
 - <ruby>[[杜]]<rt>ㄉㄛ</rt></ruby> "careless, sloppy, fabricating"

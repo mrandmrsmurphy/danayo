@@ -52,7 +52,7 @@ boundedness: 90
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[風]]<rt>ㄆㄨㄫ</rt></ruby> "wind" (stand-in for 風)
+- <ruby>[[風]]<rt>ㄈㄨㄫ</rt></ruby> "wind" (stand-in for 風)
 - <ruby>[[台風]]<rt>ㄉㄚㄧㄈㄨㄫ</rt></ruby> "typhoon"
 - <ruby>[[屏風]]<rt>ㄅㄧㄫㄈㄨㄫ</rt></ruby> "folding screen"
 - <ruby>[[狂風]]<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby> "gale; violent wind"

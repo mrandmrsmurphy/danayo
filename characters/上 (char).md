@@ -46,6 +46,7 @@ boundedness: 70
 - [List of 指事](lookup/List%20of%20指事.md): A drawing of the idea of "above", [Radical 001](lookup/Radicals/Radical%20001.md)
 - [SKIP-4-3-2](lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) - [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
 - [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
+- 29th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
 
 ## Words
 - <ruby>[[上面]]<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby> "surface, outward appearance"
@@ -53,5 +54,4 @@ boundedness: 70
 - [[上述]] The aforementioned
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 - <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
-[[Lookup/CC/initials/聲 禪]]
-[[Lookup/CC/finals/韻 陽開]]
+- <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"

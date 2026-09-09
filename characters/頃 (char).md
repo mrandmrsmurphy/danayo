@@ -55,4 +55,4 @@ boundedness: 80
 - [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[頃]]<rt>ㄎㄝㄫ</rt></ruby> "moment; occasion" (stand-in for 頃 (char))
+- <ruby>[[頃]]<rt>ㄎㄝㄫ</rt></ruby> "moment; occasion" (stand-in for 頃)

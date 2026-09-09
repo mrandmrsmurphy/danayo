@@ -30,8 +30,6 @@ graphemic_classification: 象形
 stand_in: 馬
 aliases:
   - 马
-  - 瑪
-  - 碼
 注音: ㄇㄚ
 date-last-perfect: 2026-07-23
 kwin: true
@@ -64,7 +62,7 @@ boundedness: 90
 - <ruby>[[海馬]]<rt>ㄏㄚㄧㄇㄚ</rt></ruby> "seahorse"
 - <ruby>[[羅馬]]<rt>ㄌㄛㄇㄚ</rt></ruby> "Roman"
 - <ruby>[[馬厩]]<rt>ㄇㄚㄍ⼜</rt></ruby> "stable"
-- <ruby>[[馬𡿺]]<rt>ㄇㄚㄋㄛ</rt></ruby> "agate"
+- <ruby>[[馬𡿺]]<rt>ㄇㄚㄋㄚㄨ</rt></ruby> "agate"
 - <ruby>[[羅馬字]]<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> "Latin letters; Roman alphabet; romanization"
 - <ruby>[[羅馬語]]<rt>ㄌㄛㄇㄚ·⼄</rt></ruby> "Latin"
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby> "Malaysia"

@@ -57,4 +57,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[装置]]<rt>ㄐ⺢ㄫㄑㄧ</rt></ruby> "equipment, device"
 - <ruby>[[装飾]]<rt>ㄐ⺢ㄫㄙㄧㄎ</rt></ruby> "decoration, ornament" (alias: 裝飾)
 - <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package"
-- <ruby>[[鞍装]]<rt>ㄚㄋㄐ⺢ㄋㄫ</rt></ruby> "saddle"
+- <ruby>[[鞍装]]<rt>ㄚㄋㄐ⺢ㄫ</rt></ruby> "saddle"

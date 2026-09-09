@@ -56,7 +56,7 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- [餐](words/餐.md) "eat; dine" — 餐 stands alone as a word in Dan'a'yo.
+- <ruby>[[餐]]<rt>ㄑㄚㄋ</rt></ruby> "eat; dine" (stand-in for 餐)
 - <ruby>[[聖餐]]<rt>ㄙㄧㄫㄑㄚㄋ</rt></ruby> "communion; the Eucharist"
 - <ruby>[[晩餐]]<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> "supper"
 - <ruby>[[午餐]]<rt>ㄛㄑㄚㄋ</rt></ruby> "lunch"

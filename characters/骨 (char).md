@@ -58,7 +58,7 @@ boundedness: 20
 - <ruby>[[骨盤]]<rt>ㄍㄛㄊㄅㄚㄋ</rt></ruby> "pelvis"
 - <ruby>[[骨肉]]<rt>ㄍㄛㄊㄋㄨㄎ</rt></ruby> "flesh and bone"
 - <ruby>[[骸骨]]<rt>ㄏ⼶ㄍㄛㄊ</rt></ruby> "skeleton"
-- <ruby>[[頭骨]]<rt>ㄊㄛㄨㄍㄨㄊ</rt></ruby> "cranium"
+- <ruby>[[頭骨]]<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby> "cranium"
 - <ruby>[[背骨]]<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby> "spine"
 - <ruby>[[脛骨]]<rt>ㄏㄝㄫㄍㄛㄊ</rt></ruby> "tibia; shinbone"
 - <ruby>[[踵骨]]<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby> "heel bone"

@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- [馳](words/馳.md) "run fast; drive quickly" — 馳 stands alone as a word in Dan'a'yo.
+- <ruby>[[馳]]<rt>ㄑㄜ</rt></ruby> "run fast; drive quickly" (stand-in for 馳)

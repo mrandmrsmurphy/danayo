@@ -7,6 +7,7 @@ japanese:
   - SOU
 japanese_native: さわ
 vietnamese:
+  - tao
 middle_chinese_initial: s
 middle_chinese_final: ɑu
 stroke_count: 18

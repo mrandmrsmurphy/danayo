@@ -63,6 +63,7 @@ boundedness: 35
 - <ruby>[[章魚]]<rt>ㄐㄚㄫ⼄</rt></ruby> "octopus"
 - <ruby>[[雪魚]]<rt>ㄙ⼔ㄊ·⼄</rt></ruby> "whiting; cod"
 - <ruby>[[魚翅]]<rt>⼄ㄙㄧ</rt></ruby> "shark fin"
+- <ruby>[[魚類]]<rt>⼄ㄌㄨㄧ</rt></ruby> "fish-kind"
 - <ruby>[[鮫魚]]<rt>ㄍ⼄ㄨ⼄</rt></ruby> "shark"
 - <ruby>[[鯖魚]]<rt>ㄑㄝㄫ⼄</rt></ruby> "mackerel"
 - <ruby>[[鯨魚]]<rt>ㄍ⼶ㄫ⼄</rt></ruby> "whale"

@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-15
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
-- <ruby>[[颯]]<rt>ㄙㄚㄆ</rt></ruby> "sound of wind, gale"
+- <ruby>[[颯]]<rt>ㄙㄚㄆ</rt></ruby> "sound of wind, gale" (stand-in for 颯)

@@ -1,5 +1,5 @@
 ---
-size: 46
+size: 47
 tags: [lookup]
 ---
 # 連綿詞 — Transitive Compounds
@@ -62,6 +62,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 - <ruby>[[words/閑暇|閑暇]]<rt>ㄏㄚㄋㄏㄚ</rt></ruby> "free time; leisure" = <ruby>[[characters/閑|閑]]<rt>ㄏㄚㄋ</rt></ruby> + <ruby>[[characters/暇|暇]]<rt>ㄏㄚ</rt></ruby>
 - <ruby>[[words/雴霫|雴霫]]<rt>ㄊㄨㄆㄙㄨㄆ</rt></ruby> "heavy rain" = <ruby>[[characters/雴|雴]]<rt>ㄊㄨㄆ</rt></ruby> + <ruby>[[characters/霫|霫]]<rt>ㄙㄨㄆ</rt></ruby>
 - <ruby>[[words/飢餓|飢餓]]<rt>ㄍㄧㄜ·ㄚ</rt></ruby> "hungry; starving" = <ruby>[[characters/飢|飢]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/餓|餓]]<rt>ㄚ</rt></ruby>
+- <ruby>[[words/鬚髯|鬚髯]]<rt>ㄙㄨㄋㄛㄇ</rt></ruby> "beard; whiskers" = <ruby>[[characters/鬚|鬚]]<rt>ㄙㄨ</rt></ruby> + <ruby>[[characters/髯|髯]]<rt>ㄋㄛㄇ</rt></ruby>
 - <ruby>[[words/鳳凰|鳳凰]]<rt>ㄆㄨㄫㄏ⺢ㄫ</rt></ruby> "phoenix" = <ruby>[[characters/鳳|鳳]]<rt>ㄆㄨㄫ</rt></ruby> + <ruby>[[characters/凰|凰]]<rt>ㄏ⺢ㄫ</rt></ruby>
 - <ruby>[[words/鴛鴦|鴛鴦]]<rt>ㄛㄋ·ㄚㄫ</rt></ruby> "mandarin duck" = <ruby>[[characters/鴛|鴛]]<rt>ㄛㄋ</rt></ruby> + <ruby>[[characters/鴦|鴦]]<rt>ㄚㄫ</rt></ruby>
 - <ruby>[[words/鵖鴔|鵖鴔]]<rt>ㄅㄨㄆㄅㄧㄆ</rt></ruby> "hoopoe" = <ruby>[[characters/鵖|鵖]]<rt>ㄅㄨㄆ</rt></ruby> + <ruby>[[characters/鴔|鴔]]<rt>ㄅㄧㄆ</rt></ruby>
