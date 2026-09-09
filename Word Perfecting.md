@@ -1367,3 +1367,23 @@ Next: 一致.
 No `#cranberry` (both 一's and 致's own `stand_in` point to themselves). `characters:` already correctly disambiguated, character page already cited 一致 correctly. All pronunciation and real-language fields already matched, `kwin: false` correct. Fixed the duplicate `品詞`/`pos` field, quoted `hsk_level`, and added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 一般.
+
+### 2026-09-09, iteration 3828 — [[words/一般|一般]]
+No `#cranberry` (both 一's and 般's own `stand_in` point to themselves). `characters:` already correctly disambiguated, character page already cited 一般 correctly, reciprocal Homophones callout with [[一半]] already correctly cross-linked (fixed a few iterations ago). `mandarin: yìbān` already correctly reflects regular tone-sandhi (一's yī→yì before a 1st-tone syllable) — clarified in prose, not a bug. **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (一 false, 般 true) — corrected to `false`, the same recurring 一-root-cause pattern found repeatedly this stretch. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 一角獣.
+
+### 2026-09-09, iteration 3829 — [[words/一角獣|一角獣]]
+`characters:` already correctly disambiguated (角's own word file exists, 獣's doesn't). All pronunciation and real-language fields, `kwin: false` (AND-rule: all three constituents false), already correct from a prior exceptionally thorough pass — including well-documented real divergences: cantonese/mandarin using the actually-attested 獨角獸/独角兽 alias form rather than a literal calque, and Vietnamese's genuine terminological conflation with the unrelated native 麒麟/qilin creature (kỳ lân), both correctly left as real cross-linguistic facts rather than "fixed." **Found a real citation gap**: `characters/角 (char).md`'s `## Words` list was missing 一角獣 entirely (獣's own list already had it). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 丁.
+
+### 2026-09-09, iteration 3830 — [[words/丁|丁]]
+Self-standing bare-character word ("fourth on a list of four"), reciprocal three-way Homophones callout with [[艇]]/[[釘]] already correctly cross-linked on all three pages. All pronunciation and real-language fields already matched `characters/丁 (char).md` exactly, `kwin: false` correct. Confirmed `pos: 修飾語` (a widely-used category, 52 files) is a legitimate divergence from the character's own stored `名詞` — the word's specific ordinal-modifier sense differs grammatically from the character's general noun sense. A fully clean pass — only refreshed the date stamp.
+
+Next: 丁丁.
+
+### 2026-09-09, iteration 3831 — [[words/丁丁|丁丁]]
+Self-reduplication of [[丁]] (no cranberry logic needed). Character page already cited 丁丁 correctly. Confirmed `pos: 擬詞` (onomatopoeia) is a legitimate category (13 files). Pronunciation fields and `kwin: false` already correct, with a nicely-flagged classical-commentary detail (a historical zhēngzhēng reading distinct from the vault's modern dīng-based convention, left as a documented note rather than overhauled). Fixed a missing word-space in `cantonese` (`ding1ding1`→`ding1 ding1`). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 丁香.

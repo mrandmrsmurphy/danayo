@@ -57,6 +57,7 @@ boundedness: 100
 
 ## Words
 - <ruby>[[角]]<rt>ㄍㄛㄎ</rt></ruby> "horn, angle" (stand-in for 角)
+- <ruby>[[一角獣]]<rt>ㄧㄊㄍㄛㄎㄙ⼜</rt></ruby> "unicorn"
 - <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "triangle"
 - <ruby>[[直角]]<rt>ㄐㄧㄊㄍㄛㄎ</rt></ruby> "right angle"
 - <ruby>[[角逐]]<rt>ㄍㄛㄎㄉㄨㄎ</rt></ruby> "compete, contend for"
