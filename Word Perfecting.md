@@ -1015,3 +1015,28 @@ Next: 麦茶.
 No cranberry (both 麦's and 茶's own `stand_in` point elsewhere — neither points here). Pronunciation fields (magca/막차/ㄇㄚㄎㄑㄚ) already matched constituents exactly — no bug. `characters:` disambiguation already correct. Both character pages already cited 麦茶 correctly. Left `korean` deliberately blank per the existing well-reasoned note (real Korean has no attested Sino form at all, using only native 보리차). Added missing `kwin: false` (AND-rule: both false) and filled entirely missing `vietnamese: mạch trà` (compositional). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 麦酒.
+
+### 2026-09-09, iteration 3758 — [[words/麦酒|麦酒]]
+No cranberry (麦's own `stand_in` is [[大麦]], 酒's is [[酒精]] — neither points here). Pronunciation fields (magjuo/막줏/ㄇㄚㄎㄐㄨㄛ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 麦酒 correctly. **Investigated and explained a real divergence, previously undocumented**: `mandarin`/`cantonese` (píjiǔ/be1zau2) don't match compositional màijiǔ/mak6zau2 — confirmed this is deliberate, giving the real modern standard word 啤酒 (already listed as this word's alias) instead, since 麦酒 itself is the historical Japanese-coined term now largely displaced by ビール — the same real-name-over-compositional convention seen elsewhere; documented in Notes. Removed blank `hsk_level`/`swadesh`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麺.
+
+### 2026-09-09, iteration 3759 — [[words/麺|麺]]
+Self-standing bare-character word. Pronunciation fields (men/먼/ㄇㄝㄋ) already matched the character's own stored values exactly — no homophone. Kept the existing explanation of the flour→noodle metonymy and cross-reference to [[拉麺]] intact. Fixed duplicate `pos`/`品詞` and flattened single-item `japanese`/`vietnamese` lists to scalars. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 麺包.
+
+### 2026-09-09, iteration 3760 — [[words/麺包|麺包]]
+No cranberry (麺's own `stand_in` is 麺 itself, 包's is [[包装]] — neither points here). Pronunciation fields (menbyau/먼뱟/ㄇㄝㄋㄅ⼘ㄨ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 麺包 correctly. `japanese: パン`/`korean: 빵` already correctly loanwords from Portuguese *pão*. Decoded a stray note ("for pastries and sweet bread, use 餅") into a proper Notes sentence. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only an incidental Bible-translation mention — no genuine collision.
+
+Next: 麻布.
+
+### 2026-09-09, iteration 3761 — [[words/麻布|麻布]]
+No cranberry (麻's own `stand_in` is [[大麻]], 布's is [[亜麻布]] — neither points here). Pronunciation fields (mabo/마보/ㄇㄚㄅㄛ) and `kwin: false` (AND-rule: 麻 true, 布 false) already matched constituents exactly — no bug. **Fixed a real contamination bug**: `japanese: あさふ,あさぬの` comma-joined two forms — kept あさぬの (the more naturally-attested compound). **Fixed a malformed citation** on `characters/麻.md` (markdown-link syntax mixed with orphaned ruby tags instead of the standard wikilink template). Filled entirely missing `vietnamese: ma bố`. Removed blank `hsk_level`/`swadesh`/empty `aliases`, consolidated Etymology into `## Notes`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麻痺.
+
+### 2026-09-09, iteration 3762 — [[words/麻痺|麻痺]]
+Legitimizing note added (痺's own `stand_in` is [[麻痺]] itself, already annotated in its own citation; 麻's own `stand_in` is [[大麻]], so transitivity fails — no `#cranberry`). Pronunciation fields (mabi/마비/ㄇㄚㄅㄧ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. **Fixed the same malformed-citation pattern found on 麻布, and swept the rest of `characters/麻.md`'s Words list while there**: 麻痺's own citation plus 麻雀/淡麻/胡麻 all used markdown-link syntax instead of wikilinks, and 亜麻 had no ruby/注音 at all — reformatted all five to the standard template (亜麻's 注音 verified against its own word file rather than guessed). **In passing, fixed a real gap**: `characters/痺.md`'s citation was missing its "(stand-in for 痺)" annotation. Filled entirely missing `vietnamese: ma tê`, extending the existing rich Notes on the shared hemp-metaphor etymology. Rich existing content on medical/figurative senses (脳性麻痺, 都市機能が麻痺する) kept intact. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麻雀.
