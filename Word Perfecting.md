@@ -885,3 +885,23 @@ Next: 鴛鴦.
 Already correctly `#cranberry`-tagged — verified both 鴛's and 鴦's own `stand_in` point to [[鴛鴦]] itself with genuine transitivity (both independently mean "mandarin duck"), matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields ('on'ang/온앙/ㄛㄋ·ㄚㄫ), `kwin: false` (AND-rule: 鴛 false, 鴦 true), and all real-language fields already correct. **Found and fixed a real structural gap**: both `characters/鴛.md` and `characters/鴦.md` had no `## Words` section at all despite each documenting the cranberry relationship extensively in prose — added proper citation entries with stand-in annotations to both. Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
 
 Next: 鴨.
+
+### 2026-09-09, iteration 3732 — [[words/鴨|鴨]]
+Already fully perfected (stamped 2026-08-30): self-standing bare-character word with a detailed explanation of the Cantonese/Japanese sub-syllable distinction Dan'a'yo's coarser 注音 merges (aap3 vs. 押's aat3; corrected on-reading おう vs. garbled あふ). Verified pronunciation fields ('ab/압/ㄚㄆ), `kwin: true`, and the homophone warning with [[押]] all still correct — 押's own `stand_in` points to itself, exact-matching reading. No changes needed — a clean pass.
+
+Next: 鴻鵠.
+
+### 2026-09-09, iteration 3733 — [[words/鴻鵠|鴻鵠]]
+Legitimizing note already substantively documented (鵠's own `stand_in` is [[鴻鵠]] itself). Pronunciation fields (honghog/홍혹/ㄏㄛㄫㄏㄛㄎ) and `kwin: false` (AND-rule: 鴻 true, 鵠 false) already matched constituents exactly — no bug. Both character pages already cited 鴻鵠 correctly. **Found and fixed a real bug**: `pos: 事詞` was wrong for a noun ("swan") — corrected to `名詞`, matching both constituent characters' own `pos`. Rich existing Notes on the Shiji's 燕雀安知鴻鵠之志哉 saying and 鴻's 名専字 status kept intact. Fixed duplicate `pos`/`品詞`, quoted real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鵉鳳.
+
+### 2026-09-09, iteration 3734 — [[words/鵉鳳|鵉鳳]]
+Legitimizing note reworded to convention (鵉's own `stand_in` is [[鵉鳳]] itself; 鳳's own `stand_in` is [[鳳凰]], so transitivity fails — no `#cranberry`) — the existing Notes already said this substantively. Pronunciation fields (lanpung/란풍/ㄌㄚㄋㄆㄨㄫ) and `kwin: false` (AND-rule: 鵉 true, 鳳 false) already matched constituents exactly — no bug. Both character pages already cited 鵉鳳 correctly. Filled entirely missing `japanese: らんほう`/`vietnamese: loan phượng`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鵖鴔.
+
+### 2026-09-09, iteration 3735 — [[words/鵖鴔|鵖鴔]]
+Already correctly `#cranberry`-tagged — verified both 鵖's and 鴔's own `stand_in` point to [[鵖鴔]] itself, matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields (bubbib/붑빕/ㄅㄨㄆㄅㄧㄆ) already matched constituents exactly — no bug. **Found and fixed a real bug**: `pos: 固有名詞` was wrong for a bird species name (a common noun) — corrected to `名詞`, matching both constituent characters. **Decoded a terse stray note** ("Different from a 戴勝") into proper Notes: 鵖鴔 is a classical/archaic hoopoe name distinct from the modern standard 戴勝; filled `japanese: ヤツガシラ`/`korean: 핍핍` (compositional) and flattened `vietnamese` from a list to scalar `đầu rìu`. Flagged, without resolving, an apparent discrepancy on 鵖's own character page (its native gloss points to goldcrest, not hoopoe). In passing fixed a missing stand-in annotation on 鵖's citation and the recurring duplicate `pos`/`品詞` bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
+
+Next: 鵝鳥.
