@@ -995,3 +995,23 @@ Next: 麟史.
 No cranberry (麟's own `stand_in` is [[麒麟]], 史's is [[歴史]] — neither points here). Pronunciation fields (linsi/린시/ㄌㄧㄋㄙㄧ) and `kwin: false` (AND-rule: 麟 true, 史 false) already matched constituents exactly — no bug. Both character pages already cited 麟史 correctly. `pos: 固有名詞` already correctly a proper noun (a specific historical text's alternate name, unlike the recent bird-species mistagging cases). **Investigated `korean: 인사`, which deviates from 麟's own stored 린 (the North-Korean-consistent compositional form would be 린사)** — cross-checked the sibling word [[麟経]], which documents the identical 두음법칙 pattern (인경, also deviating from 린) with a specific real-world-attestation rationale; treated as a deliberate, already-reasoned exception rather than a bug, and left unchanged. Only fix was the recurring duplicate `pos`/`品詞` bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 麟経.
+
+### 2026-09-09, iteration 3754 — [[words/麟経|麟経]]
+No cranberry (麟's own `stand_in` is [[麒麟]], 経's is 経 itself — neither points here). Pronunciation fields (lingeng/린겅/ㄌㄧㄋㄍㄝㄫ) and `kwin: false` (AND-rule: 麟 true, 経 false) already matched constituents exactly — no bug. `characters:` disambiguation already correct. Both character pages already cited 麟経 correctly. `korean: 인경` already correctly the documented deliberate exception (matching 麟史's identical pattern, confirmed last iteration). Only fix was the recurring duplicate `pos`/`品詞` bug and quoting real-language fields. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麦芽.
+
+### 2026-09-09, iteration 3755 — [[words/麦芽|麦芽]]
+No cranberry (麦's own `stand_in` is [[大麦]], 芽's is [[新芽]] — neither points here). Pronunciation fields (mag'a/막아/ㄇㄚㄎㄚ) and `kwin: false` (AND-rule: 麦 false, 芽 true) already matched constituents exactly — no bug (noted the 注音 lacks a syllable-boundary dot before the vowel-initial 芽, unlike some other vowel-initial-second-syllable words this sweep — but 麦's own character page uses the identical undotted form consistently across its own citations, so left as an established pattern rather than guessed at). Both character pages already cited 麦芽 correctly. All real-language fields already correct standard readings. Removed blank `hsk_level`/`swadesh`, consolidated Etymology into `## Notes`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麦芽糖.
+
+### 2026-09-09, iteration 3756 — [[words/麦芽糖|麦芽糖]]
+No cranberry (none of the three constituents' own `stand_in` points here). Pronunciation fields (mag'adwang/막아돵/ㄇㄚㄎㄚㄉ⺢ㄫ) already matched constituents exactly — no bug (same consistently-undotted pattern as [[麦芽]], left alone). **Fixed the recurring `characters:` disambiguation bug**: bare "糖" despite `words/糖.md` existing (Etymology already correctly cited "糖 (char)"). Both character pages already cited 麦芽糖 correctly. Filled entirely missing `vietnamese: mạch nha đường`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麦茶.
+
+### 2026-09-09, iteration 3757 — [[words/麦茶|麦茶]]
+No cranberry (both 麦's and 茶's own `stand_in` point elsewhere — neither points here). Pronunciation fields (magca/막차/ㄇㄚㄎㄑㄚ) already matched constituents exactly — no bug. `characters:` disambiguation already correct. Both character pages already cited 麦茶 correctly. Left `korean` deliberately blank per the existing well-reasoned note (real Korean has no attested Sino form at all, using only native 보리차). Added missing `kwin: false` (AND-rule: both false) and filled entirely missing `vietnamese: mạch trà` (compositional). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麦酒.
