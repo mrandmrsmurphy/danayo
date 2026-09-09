@@ -865,3 +865,23 @@ Next: 鳳笙.
 Legitimizing note added (笙's own `stand_in` is [[鳳笙]] itself, already annotated in its own citation; 鳳's own `stand_in` is [[鳳凰]], so transitivity fails — no `#cranberry`). Pronunciation fields (pungsang/풍상/ㄆㄨㄫㄙㄚㄫ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鳳笙 correctly. Rich existing Notes on the gagaku ほうしょう's technical vs. Chinese poetic register kept intact. Filled entirely missing `vietnamese: phượng sinh`. Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 鳴.
+
+### 2026-09-09, iteration 3728 — [[words/鳴|鳴]]
+Already fully perfected (stamped 2026-08-30): self-standing bare-character word, pronunciation fields (myeng/명/ㄇ⼶ㄫ), `kwin: true`, and the documented genuine 3-way homophone group with [[皿]]/[[明]] all confirmed correct — verified both are themselves legitimized bare words with exact-matching readings. No changes needed — a clean pass.
+
+Next: 鳶.
+
+### 2026-09-09, iteration 3729 — [[words/鳶|鳶]]
+Already fully perfected (stamped 2026-09-03) with an unusually thorough Notes section documenting its own prior romanization-typo fix and a genuine 3-way homophone discovery (演/鉛), already cross-checked against the full ⼶ㄋ syllable set. Verified pronunciation fields ('yen/연/⼶ㄋ) and `kwin: true` still match the character page exactly. No changes needed — a clean pass.
+
+Next: 鴎.
+
+### 2026-09-09, iteration 3730 — [[words/鴎|鴎]]
+Self-standing bare-character word (own `stand_in` is 鴎 itself). Pronunciation fields ('ou/옷/ㄛㄨ) already matched the character's own stored values exactly — no homophone (checked full ㄛㄨ syllable set: 偶/殴/𧦅/呕/欧, none self-standing). **Found and fixed a real bug**: `pos` was `固有名詞` (proper noun) despite "seagull" plainly being a common noun — corrected to `名詞`, matching the character's own `pos`. Fixed the recurring duplicate `pos`/`品詞` bug and bare-string `characters:` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鴛鴦.
+
+### 2026-09-09, iteration 3731 — [[words/鴛鴦|鴛鴦]]
+Already correctly `#cranberry`-tagged — verified both 鴛's and 鴦's own `stand_in` point to [[鴛鴦]] itself with genuine transitivity (both independently mean "mandarin duck"), matching its listed entry on `lookup/List of 連綿詞`. Pronunciation fields ('on'ang/온앙/ㄛㄋ·ㄚㄫ), `kwin: false` (AND-rule: 鴛 false, 鴦 true), and all real-language fields already correct. **Found and fixed a real structural gap**: both `characters/鴛.md` and `characters/鴦.md` had no `## Words` section at all despite each documenting the cranberry relationship extensively in prose — added proper citation entries with stand-in annotations to both. Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
+
+Next: 鴨.
