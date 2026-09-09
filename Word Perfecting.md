@@ -1920,3 +1920,8 @@ Next: 丘.
 Self-standing bare-character word ("hill"), reciprocal Homophones callout with [[九]] already correctly cross-linked. All content already correct from a prior thorough pass (Confucius naming-taboo, khâu/khưu Vietnamese variant, native おか/언덕 alternates all well documented). A fully clean pass — only refreshed the date stamp.
 
 Next: 丘引.
+
+### 2026-09-09, iteration 3938 — [[words/丘引|丘引]]
+`characters:` already correctly disambiguated. Both character pages already cited 丘引 correctly. Filled entirely missing `vietnamese: giun đất` (real native word, matching the established real-attested-usage convention) and added a missing `## Notes` section. Japanese みみず confirmed correct (real native word, not compositional きゅういん). `kwin` false correct (AND-rule: 丘 false alone determines the result). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 丙.
