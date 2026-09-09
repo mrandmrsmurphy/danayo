@@ -1322,3 +1322,28 @@ Next: 一旦.
 Character page already cited 一旦 correctly. Confirmed `pos: 副用名詞` is a legitimate, widely-used category (38 files). All pronunciation/real-language fields and `kwin: false` already correct from a prior thorough pass (structural + korean contamination bugs already fixed there). A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
 
 Next: 一月.
+
+### 2026-09-09, iteration 3819 — [[words/一月|一月]]
+No `#cranberry` (both 一's and 月's own `stand_in` point to themselves). Both character pages already cited 一月, though with a typo. **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (一 false, 月 false) — corrected to `false`, the same recurring 一-root-cause pattern. **Fixed a real cantonese bug**: `jat1jut6` — missing both the word-space and the glide in 月's own stored `jyut6` — corrected to `jat1 jyut6`. **Fixed a real 注音 typo**: `ㄧㄊ·⼔ㄋ` (wrong final consonant) → `ㄧㄊ·⼔ㄊ`, fixed both in this word's own frontmatter and in its citation on `characters/月 (char).md`'s `## Words` list. **Flagged, not fixed**: the identical typo appears to also affect [[三月]]/[[十一月]]'s own citations on the same character page — left for when the sweep reaches those words directly. Vietnamese `tháng giêng` confirmed correct (a real native idiom specific to January, distinct from every other numbered month). Fixed the duplicate `品詞`/`pos` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 一朝.
+
+### 2026-09-09, iteration 3820 — [[words/一朝|一朝]]
+No `#cranberry` (both 一's and 朝's own `stand_in` point to themselves). `characters:` already correctly disambiguated, character page already cited 一朝 correctly. Pronunciation fields and `kwin: false` already correct from a prior thorough pass. **Extended the already-documented reading-split observation**: confirmed the same by-sense split already noted for Vietnamese (triêu "morning" vs triều "dynasty") also holds for Mandarin (zhāo vs the character page's stored default cháo) and Cantonese (ziu1 vs stored ciu4) — all three now correctly using the morning-sense reading, not a bug. Fixed a stale cross-reference: the prose noted the reciprocal structural bug on [[一兆]] as "not yet fixed since perfecting it is a separate task" — 一兆 has since been perfected earlier in this sweep, so updated the wording. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 一溝.
+
+### 2026-09-09, iteration 3821 — [[words/一溝|一溝]]
+`characters:` already correctly disambiguated. Pronunciation/real-language fields and `kwin: false` already correct from a prior thorough pass (including a deliberate, correctly-justified blank `vietnamese`). Japanese いっこう confirmed correct (regular sokuon assimilation of いち+こう). **Fixed a real citation gap**: `characters/一 (char).md`'s `## Words` list was missing 一溝 entirely (溝's own list already had it). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一点.
+
+### 2026-09-09, iteration 3822 — [[words/一点|一点]]
+No `#cranberry` (both 一 and 点 are bare self-standing characters, own `stand_in` pointing to themselves). `characters:` already correctly disambiguated, both character pages already cited 一点 correctly. Pronunciation fields and `kwin: false` already correct from a prior thorough pass (including a real content bug already fixed there: gloss corrected from the literal "dot, speck" to the primary everyday "a little, a bit" quantifier sense). A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 一百.
+
+### 2026-09-09, iteration 3823 — [[words/一百|一百]]
+No `#cranberry` (both 一's and 百's own `stand_in` point to themselves). Character page already cited 一百 correctly. **Fixed the recurring `characters:` disambiguation bug**: bare "百" despite `words/百.md` existing (a genuine miss, unlike the many already-correct 一-cluster words checked so far). **Fixed a real japanese bug**: `いち ひゃく` (bare space-joined, no assimilation) → `いっぴゃく` (regular sokuon + h→p devoicing, same pattern as 一半/一体/一千). Vietnamese một trăm confirmed correct (real native numeral, matching 一万/一千's established preference). Fixed the duplicate `品詞` field and added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一瞥.

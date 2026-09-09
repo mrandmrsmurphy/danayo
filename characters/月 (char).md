@@ -80,7 +80,7 @@ boundedness: 80
 - <ruby>[[隔月]]<rt>ㄍㄚㄎ⼔ㄊ</rt></ruby> "every other month"
 - <ruby>[[満月]]<rt>ㄇㄚㄋ⼔ㄊ</rt></ruby> "full month; month anniversary"
 - <ruby>[[閏月]]<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> "intercalary month; leap month"
-- <ruby>[[一月]]<rt>ㄧㄊ·⼔ㄋ</rt></ruby> "January"
+- <ruby>[[一月]]<rt>ㄧㄊ·⼔ㄊ</rt></ruby> "January"
 - <ruby>[[二月]]<rt>ㄋㄧㄜ·⼔ㄊ</rt></ruby> "February"
 - <ruby>[[三月]]<rt>ㄙㄚㄇ·⼔ㄋ</rt></ruby> "March"
 - <ruby>[[四月]]<rt>ㄙㄧㄜ·⼔ㄊ</rt></ruby> "April"

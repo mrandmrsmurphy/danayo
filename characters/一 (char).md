@@ -68,6 +68,7 @@ Characters using it as an element without sound-borrowing:
 ## Words
 In compounds, it appears in many, many words.  To disambiguate various numbers, it is sometimes put in front of 溝, 兆, 億, 万, 千, 百, 十, or 半.
 
+* <ruby>[[一溝]]<rt>ㄧㄊㄍㄛㄨ</rt></ruby> "hundred nonillion (10³²)"
 * <ruby>[[一兆]]<rt>ㄧㄊㄐㄚㄨ</rt></ruby> "one trillion"
 * <ruby>[[一億]]<rt>ㄧㄊ·ㄧㄎ</rt></ruby> "hundred million"
 * <ruby>[[一万]]<rt>ㄧㄊㄇㄛㄋ</rt></ruby> "ten thousand"
