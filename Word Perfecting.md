@@ -845,3 +845,23 @@ Next: 鳥類.
 No cranberry (鳥's own `stand_in` is 鳥 itself, 類's is [[種類]] — neither points here). Pronunciation fields (coului/촛뤼/ㄑㄛㄨㄌㄨㄧ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鳥類 correctly. Filled entirely missing `vietnamese: điểu loại`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
 
 Next: 鳩鳥.
+
+### 2026-09-09, iteration 3724 — [[words/鳩鳥|鳩鳥]]
+Legitimizing note added (鳩's own `stand_in` is [[鳩鳥]] itself; 鳥's own `stand_in` is 鳥 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (kyucou/큐촛/ㄎ⼜ㄑㄛㄨ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. **Found and fixed a cluster of real bugs**: `mandarin: jiū` was missing 鳥's own reading entirely (corrected to jiūniǎo); `cantonese` comma-joined an unexplained extra "kau1" and was missing 鳥's own niu5 (corrected to gau1 niu5); `japanese` comma-joined the correct はと with an unrecognizable "きう" matching neither of 鳩's own on'yomi (dropped); `vietnamese` was over-specified "domestic pigeon" relative to this word's plain sense (simplified to bồ câu). **Also fixed `characters/鳩.md` itself**: its own `## Words` list was missing a citation of 鳩鳥 entirely, the [[狙鳩]] entry had no ruby/gloss, [[斑鳩]] used an inconsistent asterisk bullet, and its Classical-Chinese-frequency line was the same dangling-bare-wikilinks bug seen before — all reformatted/reconstructed. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鳳凰.
+
+### 2026-09-09, iteration 3725 — [[words/鳳凰|鳳凰]]
+Already fully perfected (stamped 2026-06-27) and correctly tagged `#cranberry` — verified both 鳳's and 凰's own `stand_in` point to [[鳳凰]] itself, confirming genuine transitivity for this "dead paired-gender" compound, matching its own listed category on `lookup/List of 連綿詞`. Rich existing Notes on the Shangshu/Zuozhuan omen tradition and the 龍鳳 imperial pairing kept intact. **Found and fixed a real gap**: `characters/凰.md`'s own citation of 鳳凰 was missing its "(stand-in for 凰)" annotation despite 凰's own `stand_in` pointing there (鳳's citation already had it). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鳳梨.
+
+### 2026-09-09, iteration 3726 — [[words/鳳梨|鳳梨]]
+No cranberry (鳳's own `stand_in` is [[鳳凰]], 梨's is 梨 itself — neither points here). Pronunciation fields (pungliǝ/풍릐/ㄆㄨㄫㄌㄧㄜ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. **Fixed a real bug**: `japanese: ほうり` was a compositional Sino reading, but real Japanese universally uses the loanword パイナップル (matching Korean's already-correct 파인애플) — swapped. Fixed a malformed citation on `characters/鳳.md` (bare "[[鳳梨]] "pineapple"" with no ruby/注音). Filled entirely missing `vietnamese: dứa` — the real native word. Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鳳笙.
+
+### 2026-09-09, iteration 3727 — [[words/鳳笙|鳳笙]]
+Legitimizing note added (笙's own `stand_in` is [[鳳笙]] itself, already annotated in its own citation; 鳳's own `stand_in` is [[鳳凰]], so transitivity fails — no `#cranberry`). Pronunciation fields (pungsang/풍상/ㄆㄨㄫㄙㄚㄫ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鳳笙 correctly. Rich existing Notes on the gagaku ほうしょう's technical vs. Chinese poetic register kept intact. Filled entirely missing `vietnamese: phượng sinh`. Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鳴.
