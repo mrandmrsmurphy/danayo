@@ -1145,3 +1145,28 @@ Next: 黙黙.
 Self-reduplication of [[黙]] (own `stand_in` is [[沈黙]], no cranberry logic needed for a same-character pair). Pronunciation fields (mugmug/묵묵/ㄇㄨㄎㄇㄨㄎ) already matched constituents exactly — no bug. Character page already cited 黙黙 correctly. Added missing `kwin: true` (AND-rule: both instances true) and filled entirely missing `vietnamese: mặc mặc`. Quoted `korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 黼黻.
+
+### 2026-09-09, iteration 3784 — [[words/黼黻|黼黻]]
+Already correctly `#cranberry`-tagged, matching its listed entry on `lookup/List of 連綿詞`. **Investigated a suspected romanization mismatch and resolved it as legitimate**: 黼's own `羅馬字` "fu" appeared to conflict with its own `諺文` "뿌" (a tense ㅃ), but cross-checking `middle_chinese_initial` confirmed both 黼 and 黻 share the same MC f- initial, and the tense-ㅃ 諺文 spelling is a consistent vault convention for approximating this class (Korean lacking a native /f/) — the word's own concatenation (뿌뿓/ㄈㄨㄈㄨㄊ) already correctly follows this pattern; left `黼 (char).md`'s own possibly-inconsistent `羅馬字` alone rather than guess-fix it. Filled entirely missing `vietnamese: phủ phất`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鼈.
+
+### 2026-09-09, iteration 3785 — [[words/鼈|鼈]]
+Self-standing bare-character word. **Found a real homophone already anticipated by its counterpart**: `words/別.md` already carried a homophone warning for 鼈 (correctly flagging it as "awaiting its own turn") — added the reciprocal warning here and fixed the now-stale wording on 別.md. Pronunciation fields (bed/벋/ㄅㄝㄊ) already matched the character's own stored values exactly — checked the full ㄅㄝㄊ syllable set (閥/罰), neither self-standing, confirming the cluster is exactly 鼈/別. Filled entirely missing `japanese: すっぽん`, the real native word (a well-known culinary delicacy) rather than a Sino on'yomi. Fixed `# Notes` heading level, bare-string `characters:`, and added missing `pos`/`kwin`/`date-last-perfect`.
+
+Next: 鼎.
+
+### 2026-09-09, iteration 3786 — [[words/鼎|鼎]]
+Already fully perfected (stamped 2026-08-03): self-standing bare-character word with the anticipated reciprocal homophone callout to [[呈]] completed, and the character page's own rough state already flagged out-of-scope (a tenth instance of that pattern this sweep). Verified pronunciation fields (ding/딩/ㄉㄧㄫ) and `kwin: false` still match the character page exactly. No changes needed — a clean pass.
+
+Next: 鼓.
+
+### 2026-09-09, iteration 3787 — [[words/鼓|鼓]]
+Self-standing bare-character word, already largely perfected: pronunciation fields (go/고/ㄍㄛ), `pos: 名詞`, `kwin: true`, and all real-language fields already matched `characters/鼓 (char).md` exactly, and the real three-way homophone group with [[股]]/[[錮]] was already fully cross-linked from a previous pass. **Fixed a stale-note bug**: the word's own Notes claimed `characters/鼓 (char).md` was "genuinely unperfected" (blank `pos`, dangling CC wikilinks, no `date-last-perfect`) — but the character page is actually already fully perfected (stamped 2026-08-05, proper `## Words` list, complete `mc_id`/`stand_in`), evidently completed by a separate later pass after this word's own note was written. Corrected the Notes accordingly and aligned the etymology description with the character page's own documented components (壴 + 攴, not "支"). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鼓舞.
+
+### 2026-09-09, iteration 3788 — [[words/鼓舞|鼓舞]]
+No cranberry (鼓's own `stand_in` is 鼓 itself, 舞's is [[跳舞]] — neither points here). Fixed the recurring `characters:` disambiguation bug (bare "鼓" despite `words/鼓.md` existing; "舞" correctly left bare, no `words/舞.md`). Pronunciation fields (gomu/고무/ㄍㄛㄇㄨ) and `kwin: true` (AND-rule: both true) already matched constituents exactly. **Found a genuine hidden-character bug**: the `japanese` field's displayed text "こぶ" silently contained a zero-width space (U+200B) between the two kana — invisible on render but a corrupted field value; removed it. Converted lone `## Etymology` heading to standard `## Notes` template with cranberry-status line and explanatory prose (Japanese こぶ real attested on'yomi compound, Vietnamese cổ vũ real everyday verb). Removed blank `hsk_level`/`swadesh`/`aliases`. Added missing `date-last-perfect: 2026-09-09`. Both character pages' `## Words` citations already correct. Background exact-match homophone check found no collision.
+
+Next: 鼠色.
