@@ -1040,3 +1040,23 @@ Next: 麻痺.
 Legitimizing note added (痺's own `stand_in` is [[麻痺]] itself, already annotated in its own citation; 麻's own `stand_in` is [[大麻]], so transitivity fails — no `#cranberry`). Pronunciation fields (mabi/마비/ㄇㄚㄅㄧ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. **Fixed the same malformed-citation pattern found on 麻布, and swept the rest of `characters/麻.md`'s Words list while there**: 麻痺's own citation plus 麻雀/淡麻/胡麻 all used markdown-link syntax instead of wikilinks, and 亜麻 had no ruby/注音 at all — reformatted all five to the standard template (亜麻's 注音 verified against its own word file rather than guessed). **In passing, fixed a real gap**: `characters/痺.md`'s citation was missing its "(stand-in for 痺)" annotation. Filled entirely missing `vietnamese: ma tê`, extending the existing rich Notes on the shared hemp-metaphor etymology. Rich existing content on medical/figurative senses (脳性麻痺, 都市機能が麻痺する) kept intact. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 麻雀.
+
+### 2026-09-09, iteration 3763 — [[words/麻雀|麻雀]]
+No cranberry (麻's own `stand_in` is [[大麻]], 雀's is [[麻雀鳥]] — neither points here). Pronunciation fields (majag/마작/ㄇㄚㄐㄚㄎ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. **Decoded the design behind this word**: 麻雀 is deliberately reserved for "mahjong" while the literal "sparrow" sense uses the extended [[麻雀鳥]] (雀's own actual legitimizer) — documented this disambiguation explicitly in Notes. **In passing, fixed a real citation gap**: `characters/雀.md`'s own Words list was missing 麻雀 entirely (had only its own stand-in 麻雀鳥) — added, and added the missing "(stand-in for 雀)" annotation to the existing 麻雀鳥 citation. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 麻雀鳥.
+
+### 2026-09-09, iteration 3764 — [[words/麻雀鳥|麻雀鳥]]
+Legitimizing note added (雀's own `stand_in` is [[麻雀鳥]] itself, already annotated in its own citation; neither 麻's nor 鳥's own `stand_in` points here — no `#cranberry`). Pronunciation fields (majagcou/마작촛/ㄇㄚㄐㄚㄎㄑㄛㄨ) and `kwin: false` (AND-rule: 麻 true, 雀 true, 鳥 false → false) already matched constituents exactly — no bug. All three character pages already cited 麻雀鳥 correctly. `japanese: すずめ`/`korean: 참새` already correctly native. Filled entirely missing `vietnamese: ma tước điểu`. Self-caught and fixed a tone-typo (maa5→maa4) I introduced while drafting the Notes prose. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄.
+
+### 2026-09-09, iteration 3765 — [[words/黄|黄]]
+Self-standing bare-character word. Pronunciation fields (hwang/황/ㄏ⺢ㄫ) and `kwin: true` already matched the character's own stored values exactly — checked the full ㄏ⺢ㄫ syllable set (徨/横/凰/皇/幌/煌/況/慌/晃/荒), none self-standing, so no homophone. **Found and fixed a real bug**: `cantonese: huang2` was a Mandarin-pinyin-style romanization, not valid Jyutping — corrected to wong4, matching the character's own stored field. Fixed duplicate `pos`/`品詞` and a bare-string `characters:` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 黄昏.
+
+### 2026-09-09, iteration 3766 — [[words/黄昏|黄昏]]
+Legitimizing note added (昏's own `stand_in` is [[黄昏]] itself, already annotated in its own citation; 黄's own `stand_in` is 黄 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (hwanghon/황혼/ㄏ⺢ㄫㄏㄛㄋ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug**: bare "黄" despite `words/黄.md` existing (Etymology already correctly cited "黄 (char)"). Both character pages already cited 黄昏 correctly. All real-language fields already correct standard readings. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黄檗.
