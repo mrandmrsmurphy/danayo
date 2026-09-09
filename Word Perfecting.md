@@ -820,3 +820,28 @@ Next: 鱗.
 Self-standing bare-character word. **Found and fixed a real gap — a previously undocumented homophone**: checked the full ㄌㄧㄋ syllable set and found [[隣]] ("neighbor") is itself a legitimized self-standing bare word with the exact same reading lin/린/ㄌㄧㄋ, yet neither page had ever documented this collision (checked 吝/燐/麟 too — none is self-standing, confirming the cluster is exactly these two). Added reciprocal `>[!warning] Homophones` callouts to both. Fixed duplicate `pos`/`品詞` and a bare-string `characters:` field. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 鳥.
+
+### 2026-09-09, iteration 3719 — [[words/鳥|鳥]]
+Self-standing bare-character word, already richly perfected with a detailed kwin explanation (Dan'a'yo 촛 vs Korean 조, the shared MC 端母+蕭韻 palatalization with different aspiration/diphthong outcomes). Checked the full ㄑㄛㄨ syllable set (招/湊/彫/釣/取) for a homophone — none is itself a legitimized bare word, so none exists. Only fix was the recurring duplicate `pos`/`品詞` bug. Re-stamped `date-last-perfect: 2026-09-09`.
+
+Next: 鳥嘴.
+
+### 2026-09-09, iteration 3720 — [[words/鳥嘴|鳥嘴]]
+Legitimizing note added (嘴's own `stand_in` is [[鳥嘴]] itself, already annotated in its own citation; 鳥's own `stand_in` is 鳥 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (coucui/촛취/ㄑㄛㄨㄑㄨㄧ) and `kwin: false` (AND-rule: 鳥 false, 嘴 true) already matched constituents exactly — no bug. `japanese: くちばし`/`korean: 부리` already correctly the real native everyday words, matching 嘴's own `japanese_native`/`korean_native` fields exactly. **In passing, fixed a real gap**: `characters/嘴.md`'s own citation of 鳥嘴 was missing its "(stand-in for 嘴)" annotation. Filled entirely missing `vietnamese: điểu chuỷ` (compositional; noted native mỏ). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only an incidental mention in `lexipedia/Body.md` — no genuine collision.
+
+Next: 鳥巣.
+
+### 2026-09-09, iteration 3721 — [[words/鳥巣|鳥巣]]
+Legitimizing note added (巣's own `stand_in` is [[鳥巣]] itself, already annotated in its own citation; 鳥's own `stand_in` is 鳥 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (coujau/촛잣/ㄑㄛㄨㄐㄚㄨ) already matched constituents exactly — no bug. **Fixed a real contamination bug**: `korean: 둥지, 새집` comma-joined two native synonyms — kept 둥지 (standard), moved 새집 to prose. **Fixed a real semantic-mismatch bug**: `vietnamese: làm tổ` was a verb phrase ("to build a nest") rather than the noun this word actually is — corrected to tổ chim. Filled blank `cantonese: niu5 caau4` and added missing `kwin: false` (AND-rule: both false). Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鳥籠.
+
+### 2026-09-09, iteration 3722 — [[words/鳥籠|鳥籠]]
+No cranberry (both 鳥's and 籠's own `stand_in` point to themselves — neither points here). Pronunciation fields (coulong/촛롱/ㄑㄛㄨㄌㄛㄫ) and `kwin: false` (AND-rule: 鳥 false, 籠 true) already matched constituents exactly — no bug. `characters:` disambiguation already correct. Both character pages already cited 鳥籠 correctly. `japanese: とりかご`/`korean: 새장` already correctly native compounds. Filled entirely missing `vietnamese: lồng chim` — a real, reversed-word-order term, a 4th confirmed instance of the Vietnamese reversal pattern. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 鳥類.
+
+### 2026-09-09, iteration 3723 — [[words/鳥類|鳥類]]
+No cranberry (鳥's own `stand_in` is 鳥 itself, 類's is [[種類]] — neither points here). Pronunciation fields (coului/촛뤼/ㄑㄛㄨㄌㄨㄧ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. Both character pages already cited 鳥類 correctly. Filled entirely missing `vietnamese: điểu loại`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no genuine collision.
+
+Next: 鳩鳥.
