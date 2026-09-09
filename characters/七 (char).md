@@ -54,7 +54,7 @@ boundedness: 75
 * <ruby>[[七日]]<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby> - seventh day of the month
 * <ruby>[[七月]]<rt>ㄑㄧㄊ·⼔ㄊ</rt></ruby> - July
 * <ruby>[[七夕]]<rt>ㄑㄧㄊㄙㄝㄎ</rt></ruby> - Qixi (Chinese Valentines)
-* <ruby>[[words/七情]]<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby> - the Seven Emotions (traditional)
+* <ruby>[[七情]]<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby> - the Seven Emotions (traditional)
 * <ruby>[[七宝]]<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby> - Seven Treasures (<ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>)
 * <ruby>[[七事]]<rt>ㄑㄧㄊㄐㄧ</rt></ruby> - Seven Duties of a Sovereign
 * <ruby>[[七対子]]<rt>ㄑㄧㄊㄉㄛㄧㄐㄧ</rt></ruby> - Seven Pairs (Majong)

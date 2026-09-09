@@ -1387,3 +1387,106 @@ Next: 丁丁.
 Self-reduplication of [[丁]] (no cranberry logic needed). Character page already cited 丁丁 correctly. Confirmed `pos: 擬詞` (onomatopoeia) is a legitimate category (13 files). Pronunciation fields and `kwin: false` already correct, with a nicely-flagged classical-commentary detail (a historical zhēngzhēng reading distinct from the vault's modern dīng-based convention, left as a documented note rather than overhauled). Fixed a missing word-space in `cantonese` (`ding1ding1`→`ding1 ding1`). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 丁香.
+
+### 2026-09-09, iteration 3832 — [[words/丁香|丁香]]
+Both character pages already cited 丁香 correctly. All pronunciation and real-language fields, `kwin: false` (AND-rule: 丁 false, 香 true → false), already correct from a prior thorough pass — including a nicely-documented note on Japanese's more common but differently-written 丁子/丁字 (ちょうじ) form versus this word's own literal-spelling ちょうこう reading. A fully clean pass — only refreshed the date stamp. Background exact-match homophone check found no collision.
+
+Next: 七.
+
+### 2026-09-09, iteration 3833 — [[words/七|七]]
+Self-standing bare-character word ("seven"), reciprocal Homophones callout with [[漆]] already correctly cross-linked. All pronunciation and real-language fields, `kwin: false`, already correct from a prior thorough pass. Fixed the duplicate `品詞`/`pos` field bug. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision beyond the already-documented 漆.
+
+Next: 七万.
+
+### 2026-09-09, iteration 3834 — [[words/七万|七万]]
+All pronunciation and real-language fields, `kwin: false`, already correct from a prior thorough pass (which had already caught and fixed a serious prior bug: the whole page had once been a mistaken copy of [[七千]]'s content). **Fixed a real citation gap**: `characters/万.md`'s `## Words` list was missing 七万 entirely (七's own list already had it). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七事.
+
+### 2026-09-09, iteration 3835 — [[words/七事|七事]]
+No `#cranberry` (both 七's and 事's own `stand_in` point to themselves). `characters:` already correctly disambiguated, both character pages already cited 七事 correctly. Pronunciation/kwin already correct. Filled entirely missing `vietnamese: thất sự` (plain compositional, classical/historical term). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七十.
+
+---
+**LOOP MODE CHANGE**: user said "stop the loop and switch to continuous word perfecting" — cron job 070ee753 cancelled via CronDelete; processing now continues back-to-back within this single turn per [[feedback_continuous_loop_trigger]], no more waiting for 5-minute cron fires.
+
+### 2026-09-09, iteration 3836 — [[words/七十|七十]]
+No `#cranberry` (both 七's and 十's own `stand_in` point to themselves). Both character pages already cited 七十 correctly. **Fixed the recurring `characters:` disambiguation bug**: bare "十" despite `words/十.md` existing. **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (七 false, 十 true) — corrected to `false`. Fixed two empty-string bugs (`vietnamese: ""`, `swadesh: ""`) and filled `vietnamese: bảy mươi`, the real native tens-numeral for "seventy." Japanese ななじゅう already correctly using native なな over しち. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七千.
+
+### 2026-09-09, iteration 3837 — [[words/七千|七千]]
+Both character pages already cited 七千 correctly. All fields and `kwin: false` already correct from a prior thorough pass (this word was itself the source of the 七(char) kwin root-cause fix and the discovery of 七万's duplicated-content bug). A fully clean pass — only refreshed the date stamp.
+
+Next: 七夕.
+
+### 2026-09-09, iteration 3838 — [[words/七夕|七夕]]
+No `#cranberry` (夕's own `stand_in` is [[夕陽]], 七's is 七 itself — neither points here). Character page already cited 七夕 correctly. **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (七 false, 夕 true) — corrected to `false`. Fixed a missing word-space in `cantonese` (`cat1zik6`→`cat1 zik6`) and the duplicate `品詞` field. Japanese たなばた confirmed correct (a real native jukujikun reading for the whole compound, not built from individual on'yomi). Added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七宝.
+
+### 2026-09-09, iteration 3839 — [[words/七宝|七宝]]
+No `#cranberry` (宝's own `stand_in` is [[宝物]], 七's is 七 itself — neither points here). Character page already cited 七宝 correctly. Pronunciation fields and `kwin: false` already matched. **Fixed a real bug**: `japanese` was しちほう, a bare unassimilated concatenation — corrected to しっぽう (real word, sokuon+devoicing, same pattern as 一半/一百). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七対子.
+
+### 2026-09-09, iteration 3840 — [[words/七対子|七対子]]
+No `#cranberry` (none of the three constituents' own `stand_in` points here). Both remaining character pages already cited 七対子 correctly. Pronunciation fields, `kwin: false`, and Japanese ちいといつ (previously fixed malformed hiragana) already correct. Documented the deliberately-blank `vietnamese` field (no attested Vietnamese mahjong term found). Quoted `mandarin`/`cantonese`/`korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七情.
+
+### 2026-09-09, iteration 3841 — [[words/七情|七情]]
+Both character pages already cited 七情 correctly (fixed a trivial `[[words/七情]]`→`[[七情]]` wikilink-path formatting slip on `七 (char).md` while there). All pronunciation and real-language fields, `kwin: false`, already correct from an exceptionally thorough prior pass (three-tradition emotion-enumeration comparison, Vietnamese idiom cross-check). A fully clean pass content-wise — only refreshed the date stamp.
+
+Next: 七日.
+
+### 2026-09-09, iteration 3842 — [[words/七日|七日]]
+Both character pages already cited 七日 correctly. All pronunciation and real-language fields, `kwin: false`, already correct from a prior thorough pass, including a well-documented irregular native Japanese calendar reading (なのか, part of the same fossilized day-counting family as 一日/八日). A fully clean pass — only refreshed the date stamp.
+
+Next: 七星.
+
+### 2026-09-09, iteration 3843 — [[words/七星|七星]]
+No `#cranberry` (both 七's and 星's own `stand_in` point to themselves). Both character pages already cited 七星 correctly. Pronunciation fields and `kwin: false` already matched. Filled entirely missing `vietnamese: thất tinh` and quoted the other real-language fields. Korean 칠성 confirmed as a real, well-known term (the Big Dipper deity in Korean folk religion/Buddhism). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七曜.
+
+### 2026-09-09, iteration 3844 — [[words/七曜|七曜]]
+No `#cranberry` (曜's own `stand_in` is [[曜日]], 七's is 七 itself — neither points here). Character page already cited 七曜 correctly. Pronunciation fields and `kwin: false` already matched. Filled entirely missing `vietnamese: thất diệu` (a real Vietnamese astrological term). In passing, fixed an empty-string `hsk_level: ""` bug on `characters/曜.md` itself → `無`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七月.
+
+### 2026-09-09, iteration 3845 — [[words/七月|七月]]
+No `#cranberry` (both 七's and 月's own `stand_in` point to themselves). Both character pages already cited 七月 correctly (no typo this time, unlike 一月's earlier ⼔ㄋ bug). **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (七 false, 月 false) — corrected to `false`. **Fixed a real cantonese bug**: `cat1jut6` — missing both the word-space and the glide in 月's own stored `jyut6` — corrected to `cat1 jyut6`, the identical bug pattern already found on [[一月]]. Fixed the duplicate `品詞` field. Vietnamese tháng bảy confirmed correct (real native month-name). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七百.
+
+### 2026-09-09, iteration 3846 — [[words/七百|七百]]
+Both character pages already cited 七百 correctly. All fields and `kwin: false` already correct from a prior thorough pass. A fully clean pass — only refreshed the date stamp.
+
+Next: 七色.
+
+### 2026-09-09, iteration 3847 — [[words/七色|七色]]
+No `#cranberry` (色's own `stand_in` is [[色彩]], 七's is 七 itself — neither points here). Both character pages already cited 七色 correctly. Pronunciation and real-language fields, `kwin: false`, already correct. Japanese なないろ confirmed correct (real everyday word, not compositional しちしょく). Added missing `date-last-perfect: 2026-09-09` and quoted fields.
+
+Next: 七角形.
+
+### 2026-09-09, iteration 3848 — [[words/七角形|七角形]]
+No `#cranberry` (none of the three constituents' own `stand_in` points here). All three character pages already cited 七角形 correctly. Pronunciation fields, `kwin: false` (AND-rule: all three false), already matched. Filled entirely missing `vietnamese: hình bảy góc`, matching the native "hình + number + góc" polygon-naming pattern already established on sibling [[三角形]]'s "hình ba góc" (not a Sino-Vietnamese thất giác form). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 七面鳥.
+
+### 2026-09-09, iteration 3849 — [[words/七面鳥|七面鳥]]
+No `#cranberry` (面's own `stand_in` is [[表面]], 七's and 鳥's are themselves — none points here). All three character pages already cited 七面鳥 correctly. Pronunciation fields, `kwin: false`, already matched. Filled entirely missing `vietnamese: gà tây` ("western chicken," the real everyday Vietnamese word, no compositional connection to the "seven faces" imagery — matching the real-attested-usage convention). Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 万乗.
+
+### 2026-09-09, iteration 3850 — [[words/万乗|万乗]]
+No `#cranberry` (both 万's and 乗's own `stand_in` point to themselves). **Fixed a real citation gap**: `characters/万.md`'s `## Words` list was missing 万乗 entirely. **Fixed two real bugs**: `mandarin` had a stray internal space (`wàn chéng`), and `cantonese` carried the same `mak6` typo for 万 already found and fixed on the character page — corrected to `maan6 sing4`. Filled entirely missing `vietnamese: vạn thừa`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 万年.
+
+### 2026-09-09, iteration 3851 — [[words/万年|万年]]
+Both character pages already cited 万年 correctly. Pronunciation and real-language fields already correct — cantonese already correctly `maan6` (no propagated `mak6` typo here, unlike [[万乗]]). Only fix was the duplicate `品詞`/`pos` field. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 万歳.
