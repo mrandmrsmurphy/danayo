@@ -1125,3 +1125,23 @@ Next: 黒色.
 No cranberry (黒's own `stand_in` is 黒 itself, 色's is [[色彩]] — neither points here). Pronunciation fields (hugsig/훅식/ㄏㄨㄎㄙㄧㄎ) and `kwin: false` (AND-rule: both false) already matched constituents exactly — no bug. **Fixed the recurring `characters:` disambiguation bug** and **a real comma-joined `vietnamese` contamination bug** (kept đen, the real native word; hắc mentioned as the compositional alternate in Notes). Documented `japanese: くろ`/`korean: 검정` as legitimate real-native-word choices over the compositional こくしょく/흑색, previously unexplained. Removed blank `hsk_level`/`swadesh`/empty `aliases`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
 
 Next: 黒貂.
+
+### 2026-09-09, iteration 3780 — [[words/黒貂|黒貂]]
+Legitimizing note added (貂's own `stand_in` is [[黒貂]] itself, already annotated in its own citation; 黒's own `stand_in` is 黒 itself, so transitivity fails — no `#cranberry`). Pronunciation fields (hugco/훅초/ㄏㄨㄎㄑㄛ) and `kwin: false` (AND-rule: 黒 false, 貂 true) already matched constituents exactly — no bug. Fixed the recurring `characters:` disambiguation bug. `japanese: くろてん`/`korean: 검은담비` already correctly native compounds. In passing, fixed a missing stand-in annotation on 貂's own citation. Filled entirely missing `vietnamese: hắc điêu`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黒金.
+
+### 2026-09-09, iteration 3781 — [[words/黒金|黒金]]
+Periodic-table neologism series (hassium): already correctly following convention and richly documented — the toponymic coincidence between 黒 ("black") and 黑森州 (Hesse, where hassium was discovered) explained alongside parallels to [[海金]]/[[冥金]]. `mandarin`/`cantonese` give the avoided real element character 𨭆's own reading; `korean`/`japanese`/`vietnamese` are IUPAC-name loanwords; `kwin: false` correctly compares Dan'a'yo against Korean. `characters/金 (char).md` doesn't cite 黒金, consistent with that character's already-documented, deliberately out-of-scope citation gap. No changes needed — a clean pass.
+
+Next: 黙想.
+
+### 2026-09-09, iteration 3782 — [[words/黙想|黙想]]
+No cranberry (黙's own `stand_in` is [[沈黙]], 想's is [[思想]] — neither points here). Pronunciation fields (mugsang/묵상/ㄇㄨㄎㄙㄚㄫ) and `kwin: true` (AND-rule: both true) already matched constituents exactly — no bug. Both character pages already cited 黙想 correctly. Filled blank `cantonese: mak6 soeng2`/`vietnamese: mặc tưởng`. Removed blank `hsk_level`/`swadesh`/empty `aliases`, consolidated Etymology into `## Notes`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黙黙.
+
+### 2026-09-09, iteration 3783 — [[words/黙黙|黙黙]]
+Self-reduplication of [[黙]] (own `stand_in` is [[沈黙]], no cranberry logic needed for a same-character pair). Pronunciation fields (mugmug/묵묵/ㄇㄨㄎㄇㄨㄎ) already matched constituents exactly — no bug. Character page already cited 黙黙 correctly. Added missing `kwin: true` (AND-rule: both instances true) and filled entirely missing `vietnamese: mặc mặc`. Quoted `korean`. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 黼黻.
