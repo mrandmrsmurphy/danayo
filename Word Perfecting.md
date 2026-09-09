@@ -1237,3 +1237,23 @@ Next: 㪘.
 First iteration of the sweep's second pass. Self-standing bare-character word ("to gather, collect, restrain"), reciprocal Homophones callout with [[廉]] already correctly in place on both pages. `characters:` already correctly disambiguated. Pronunciation fields (lyem/렴/ㄌ⼶ㄇ) and `kwin: true` already matched. **Fixed the non-canonical `pos: 動詞`** on both this word page and `characters/㪘 (char).md` → `事詞`. **Fixed an empty-string `hsk_level: ""` bug** on the character page → `無` (not ranked). Quoted `mandarin`/`cantonese`/`korean` for consistency. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found only itself and 廉, both already cross-linked.
 
 Next: 䋇.
+
+### 2026-09-09, iteration 3802 — [[words/䋇|䋇]]
+Self-standing bare-character word ("unravel, explain"). Reciprocal Homophones callout with [[駅]] (coincidental phonetic-series collision, already explained in prose) already correctly in place on both pages. All pronunciation and real-language fields (`'yeg`/역/⼶ㄎ, mandarin yì, cantonese jik6, korean 역, japanese やく, vietnamese dịch) already matched `characters/䋇 (char).md` exactly; `kwin: true` and `pos: 事詞` both correct. A fully clean pass — only quoted `mandarin`/`cantonese`/`korean` for consistency and refreshed the date stamp.
+
+Next: 䔥国.
+
+### 2026-09-09, iteration 3803 — [[words/䔥国|䔥国]]
+Legitimizing note (䔥's own `stand_in` is this exact compound; 国's own is [[国家]] — transitivity fails, no `#cranberry`), already essentially present in prose, labeled explicitly. `characters:` already correctly bare (no `words/䔥.md`/`words/国.md`). Both character pages already cited 䔥国 correctly. Pronunciation fields (syaugog/샷곡/ㄙ⼘ㄨㄍㄛㄎ) and `kwin: false` (AND-rule: both false) already matched. Normalized `mandarin` from spaced lowercase "xiāo guó" to capitalized-proper-noun "Xiāoguó," matching sibling ancient-state words ([[蜀国]], [[鄂国]], [[斉国]]). Filled entirely missing `vietnamese: Tiêu quốc`, same capitalization convention. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 䦧.
+
+### 2026-09-09, iteration 3804 — [[words/䦧|䦧]]
+Self-standing bare-character word ("quarrel"). `characters:` already correctly disambiguated. Character page already cited 䦧 correctly. Pronunciation fields (heg/헉/ㄏㄝㄎ), `kwin: false`, and `pos: 事詞` all matched the character page exactly; japanese せめぐ already correctly the real native kun-reading over rarer on'yomi. **Fixed a comma-joined `vietnamese` contamination bug**: `"huých, huỵch"` — kept huých (the character's own stored reading), removed huỵch (an unrelated onomatopoeia for a thudding sound). Quoted `mandarin`/`cantonese`/`korean` for consistency. Stamped `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 䦧神星.
+
+### 2026-09-09, iteration 3805 — [[words/䦧神星|䦧神星]]
+Celestial-body proper noun ("Eris, dwarf planet"), no stand-in relationship (all three constituents are their own stand-ins). All three character pages already cited 䦧神星 correctly. Pronunciation fields (hegsinseng/헉신성/ㄏㄝㄎㄙㄧㄋㄙㄝㄫ) and japanese けきしんせい already matched compositionally. **Added missing `kwin: false`** (AND-rule: 䦧 false, 神 true, 星 true — this word follows the plain AND-rule, not the periodic-table-neologism exception, consistent with sibling celestial words 冥王星/天王星). **Fixed `vietnamese` capitalization**: lowercase "huých thần tinh" → "Huých Thần Tinh," matching the proper-noun capitalization convention already used on 冥王星's "Diêm Vương Tinh" and 天王星's "Thiên Vương Tinh". Quoted `mandarin`/`cantonese`/`korean`. Added missing `date-last-perfect: 2026-09-09`. Background exact-match homophone check found no collision.
+
+Next: 一.
