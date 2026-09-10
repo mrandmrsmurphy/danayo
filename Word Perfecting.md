@@ -2090,3 +2090,28 @@ Next: 中間.
 Found the systemic missing-注音 bug: frontmatter had no `注音` field at all. Derived and added ㄐㄨㄫㄍㄚㄋ (中's ㄐㄨㄫ + 間's own ㄍㄚㄋ), matching 間.md's own citation. Also upgraded 中(char)'s still-bare citation (`[[中間]]`) to proper ruby format, fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese. `kwin: true` confirmed via AND-rule (中/間 both true). Content already thorough (間's "interval/gap" contrast with 中心's "core/hub" sense). No homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the 中-prefixed word cluster; next word begins a new initial (串).
 
 Next: 串.
+
+### 2026-09-09, iteration 3972 — [[words/串|串]]
+Found a missing `japanese` field entirely absent from frontmatter despite Notes discussing both Japanese readings (セン/カン on'yomi, くし kun'yomi). Established (via cross-checking 上/丁/丙, all of which pick their character page's first-listed on'yomi for the stand-in word) that the vault convention is: first-listed on'yomi wins. 串(char)'s own `japanese: [SEN, KAN]` → added せん. Documented the convention explicitly in the word's own Notes. `kwin: false` trivially confirmed (single constituent, character's own kwin false). No homophone collision on ㄐ⺢ㄇ. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 丹砂.
+
+### 2026-09-09, iteration 3973 — [[words/丹砂|丹砂]]
+Already fully correct from a prior pass: `characters:` bare 丹 confirmed right (no `words/丹.md` exists), `沙 (char)` disambiguation correct, `kwin: true` confirmed via AND-rule, legitimizing note (丹's own `stand_in: 丹砂`) confirmed, citations correctly ruby-formatted on both character pages, and the reciprocal Homophones callout with [[単詞]] (real, anchored-grep-confirmed collision on 注音 ㄉㄚㄋㄙㄚ) already in standard format on both pages. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 丹金.
+
+### 2026-09-09, iteration 3974 — [[words/丹金|丹金]]
+Periodic-table-neologism word (hafnium, via Copenhagen→Denmark→丹 two-step toponymic reduction) — `kwin` correctly uses the neologism exception (compares word's own 諺文 vs its own korean field directly, not constituent AND-rule), already thoroughly explained in Notes. Found and fixed a missing citation on `金 (char).md` (丹金 wasn't listed at all); added it with the periodic-table-neologism annotation matching its siblings (蛍金/隠金/難金/雷金). No homophone collision on ㄉㄚㄋㄍㄧㄇ. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 丹麦.
+
+### 2026-09-09, iteration 3975 — [[words/丹麦|丹麦]]
+Fixed an unspaced cantonese field ("daan1mak6"→"daan1 mak6") to match the vault's overwhelming space-separated-syllable convention. `characters:` bare 丹/麦 both confirmed correct (neither has a `words/*.md` conflict). `kwin: false` confirmed via AND-rule (丹 true, 麦 false). Citations correct on both character pages. No homophone collision. Cross-checked the terse "Purely phonetic" Notes style against [[瑞典]] (same pattern) — confirmed this is the accepted vault convention for transliterated country names, not a content gap; noted 瑞典's own separate bugs (duplicate 品詞, malformed vietnamese field) for when its turn comes up alphabetically. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主人.
+
+### 2026-09-09, iteration 3976 — [[words/主人|主人]]
+Substantially incomplete: `date-last-perfect` entirely absent, dangling empty `swadesh`/`aliases` fields, vietnamese wrongly capitalized ("Chủ nhân"→"chủ nhân", common noun not proper noun), and no `## Notes` section at all. Wrote full Notes covering the legitimizing note (主's own `stand_in: 主人`), cross-CJKV usage (主人公/女主人/男主人, Japanese しゅじん's "one's own husband" sense, 주인공/주인의식, chủ nhân của), and the kwin explanation (人's MC 日-initial n-/∅ split, same as [[中国人]]/[[中耳]]). Found and fixed a missing citation on `人(char).md`. `kwin: false` confirmed via AND-rule (主 true, 人 false). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主婦.

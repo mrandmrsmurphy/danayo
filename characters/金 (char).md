@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[雷金]]<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby> "thorium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
+- <ruby>[[丹金]]<rt>ㄉㄚㄋㄍㄧㄇ</rt></ruby> "hafnium" (periodic table neologism)
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
