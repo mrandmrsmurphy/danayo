@@ -58,6 +58,7 @@ boundedness: 100
 
 ## Words
 - <ruby>[[乾]]<rt>ㄍ⼶ㄋ</rt></ruby> "heavenly"
+- <ruby>[[乾坤]]<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby> "heaven and earth"
 - <ruby>[[乾浄]]<rt>ㄍ⼶ㄋㄐㄝㄫ</rt></ruby> "clean; neat; tidy"
 - <ruby>[[乾達婆]]<rt>ㄍ⼶ㄋㄊㄚㄊㄅㄚ</rt></ruby> "gandharva (celestial musician)"
 - <ruby>[[乾燥]]<rt>ㄍ⼶ㄋㄙㄚㄨ</rt></ruby> "arid; dry"

@@ -2415,3 +2415,23 @@ Next: 乳色.
 Quoted mandarin/cantonese/korean, expanded Notes (cross-language compositional confirmation, kwin explanation). Flagged vietnamese nhũ sắc honestly as unverified (compositionally sound, but this session's search budget remains exhausted; native alternatives màu kem/trắng sữa noted as possibilities) rather than asserting or guessing. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 乳酪.
+
+### 2026-09-10, iteration 4037 — [[words/乳酪|乳酪]]
+Already fully correct from a prior pass: legitimizing note present (酪's `stand_in: "乳酪"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 乳頭.
+
+### 2026-09-10, iteration 4038 — [[words/乳頭|乳頭]]
+Found a real bug: `japanese` stored a garbled mix "乳首,にゅうとう" (a comma-joined mash of the everyday word's kanji spelling and a compositional on'yomi reading) — corrected to just にゅうとう (compositional 乳's NYUU + 頭's TOU), moving 乳首's everyday-usage role into prose. Also fixed vietnamese capitalization (Núm vú→núm vú, common noun), removed dangling empty fields, added missing `date-last-perfect`, wrote full Notes. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the 乳-prefixed word cluster; next word begins a new initial (乾).
+
+Next: 乾.
+
+### 2026-09-10, iteration 4039 — [[words/乾|乾]]
+Found the missing-`japanese`-field bug again (7th time this sweep). Applied first-listed-on'yomi convention (乾(char)'s `[KAN, KEN, GEN]` → かん). Also found and fixed a one-sided stale claim: Notes said [[鍵]] was "still awaiting its own turn," but 鍵 was perfected 2026-09-07 (after 乾's own last-perfect date) and its own page already confirms the 3-way cross-link with [[見]] is complete — updated the claim. `kwin: false` trivially confirmed (single constituent). Content otherwise excellent (qián/gān dual-sense unification, 干/幹 disambiguation, Vietnamese càn/kiền attested-vs-corpus-noise candidate sorting). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾坤.
+
+### 2026-09-10, iteration 4040 — [[words/乾坤|乾坤]]
+Found and fixed: (1) a missing legitimizing note (坤's own `stand_in: "乾坤"` not documented reciprocally), (2) a missing citation on `乾(char).md` (乾坤 entirely absent from its Words section), and (3) an inconsistent vietnamese capitalization (frontmatter "Càn Khôn" vs the prose's own lowercase "càn khôn" example — càn khôn is a common expression, not a proper noun, so standardized to lowercase). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content otherwise excellent (八卦 trigram cosmology, xoay chuyển càn khôn idiom). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾浄.
