@@ -51,6 +51,7 @@ boundedness: 75
 
 
 ## Words
+- <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
 * [[平等]] equal, even
 * [[恒等式]]
 * [[等分]]

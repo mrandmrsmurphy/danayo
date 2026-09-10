@@ -81,7 +81,7 @@ boundedness: 75
 10. [[軍人]]
 11. [[佳人]]
 12. [[芸人]]
-13. [[人等]]
+13. <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
 14. [[奄人]]
 15. [[病人]]
 16. <ruby>[[人工]]<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby> "artificial; man-made"
@@ -89,7 +89,7 @@ boundedness: 75
 18. [[工人]]
 19. [[証人]]
 20. [[夫人]]
-21. [[人生]]
+21. <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
 22. [[人道]]
 23. [[為人]]
 24. [[無人]]
@@ -98,6 +98,7 @@ boundedness: 75
 27. [[老人学]]
 28. <ruby>[[人員]]<rt>ㄋㄧㄋㄨㄋ</rt></ruby> "staff, personnel"
 29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
+30. <ruby>[[人証]]<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby> "personal evidence"
 30. [[人間]]
 31. [[別人]]
 32. <ruby>[[人望]]<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby> "popularity, being well-regarded"

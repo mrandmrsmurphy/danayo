@@ -3025,3 +3025,23 @@ Next: 人民.
 Reworded the existing informal stand-in note into the standard legitimizing-note phrasing (matching the established convention), and added explicit `kwin` AND-rule reasoning and homophone-check statement that were implied but not stated. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (人(char) false overrides 民(char)'s own true), no homophone collision. Content already outstanding (the honest, well-researched treatment of 인민's North Korean political connotation vs. neutral 국민). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 人生.
+
+### 2026-09-10, iteration 4159 — [[words/人生|人生]]
+Wrote missing Notes section entirely (word had none). Fixed mis-capitalized vietnamese (Nhân sinh→nhân sinh), removed dangling empty `swadesh`/`aliases` fields, added missing `date-last-perfect`. Upgraded a bare numbered-list citation on `人(char).md` (item 21); `生.md`'s own citation was already correct. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人称.
+
+### 2026-09-10, iteration 4160 — [[words/人称|人称]]
+Fixed duplicate `pos`/`品詞` (kept pos). `characters:` confirmed correct (bare 称, no conflicting words/称.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Content already outstanding (thorough MC 日母-retention explanation cross-referencing the whole pronoun system, honest note on Vietnamese ngôi vs. formal nhân xưng). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人等.
+
+### 2026-09-10, iteration 4161 — [[words/人等|人等]]
+Found and fixed a real missing-citation bug: 人等 was entirely absent from `等(char).md`'s Words list — added. Upgraded a bare numbered-list citation on `人(char).md` (item 13). `characters:` confirmed correct (both require disambiguation, conflicting words/等.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent and admirably honest about attestation limits (classical/legal register distinct from colloquial 人們, readings given as formal cross-reference rather than claimed natural usage). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人証.
+
+### 2026-09-10, iteration 4162 — [[words/人証|人証]]
+Fixed a missing `korean` field entirely (filled 인증, compositional from each constituent's own field), mis-capitalized vietnamese, missing `kwin` field entirely (added false, confirmed via AND-rule), removed dangling empty `hsk_level`/`swadesh`. Standardized the non-standard `>[!warn]` callout to the established `>[!warning] Homophones` format. Fixed relative-link Notes paths (missing `../` prefix), properly incorporated the bare "Contrast with 物証" text as a wikilink within Notes, and honestly flagged that Vietnamese nhân chứng more commonly means "witness" than "personal evidence" itself. Found and fixed a missing-citation bug: 人証 was entirely absent from `人(char).md`'s Words list — added. `証.md`'s own citation was already correct. `characters:` confirmed correct (bare 証, no conflicting words/証.md exists). Homophone with [[認証]] re-verified via anchored grep — genuine, and confirmed both share the same kwin-divergence pattern. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人道.
