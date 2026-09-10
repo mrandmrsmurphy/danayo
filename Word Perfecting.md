@@ -2115,3 +2115,23 @@ Next: 主人.
 Substantially incomplete: `date-last-perfect` entirely absent, dangling empty `swadesh`/`aliases` fields, vietnamese wrongly capitalized ("Chủ nhân"→"chủ nhân", common noun not proper noun), and no `## Notes` section at all. Wrote full Notes covering the legitimizing note (主's own `stand_in: 主人`), cross-CJKV usage (主人公/女主人/男主人, Japanese しゅじん's "one's own husband" sense, 주인공/주인의식, chủ nhân của), and the kwin explanation (人's MC 日-initial n-/∅ split, same as [[中国人]]/[[中耳]]). Found and fixed a missing citation on `人(char).md`. `kwin: false` confirmed via AND-rule (主 true, 人 false). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 主婦.
+
+### 2026-09-09, iteration 3977 — [[words/主婦|主婦]]
+Already fully correct from a prior pass: `characters:` disambiguation confirmed right on both sides (bare 主, disambiguated `婦 (char)`), `kwin: false` confirmed via AND-rule, citations correctly ruby-formatted on both character pages, no homophone collision confirmed via anchored grep. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 主宰.
+
+### 2026-09-09, iteration 3978 — [[words/主宰|主宰]]
+Found a missing legitimizing note: 宰's own page carries `stand_in: "主宰"`, but this word's own Notes never documented the reciprocal relationship. Added it. `characters:` confirmed correct (bare 主/宰, neither has a conflicting `words/*.md`), `kwin: true` confirmed via AND-rule, citations correctly ruby-formatted on both character pages (including the sibling compound 主宰万物), no homophone collision. Content otherwise already thorough (cosmic/philosophical vs mundane administrative sense, Vietnamese chủ tể's matching dual weight). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主導.
+
+### 2026-09-09, iteration 3979 — [[words/主導|主導]]
+Same missing-legitimizing-note pattern as the previous iteration: 導's own page carries `stand_in: "主導"`, not documented reciprocally here — added it. `characters:` confirmed correct (bare 主/導), `kwin: false` confirmed via AND-rule, citations correctly ruby-formatted on both character pages, no homophone collision. Content otherwise already thorough (主導 vs 主宰 register contrast, the yet-uncreated 指導/引導/領導 family noted). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主席.
+
+### 2026-09-09, iteration 3980 — [[words/主席|主席]]
+Substantially incomplete: `date-last-perfect` entirely absent, dangling empty `swadesh`/`aliases` fields, and no real `## Notes` — just a stray non-standard homophone line. `characters:` confirmed correct (bare 主/席, no conflicting words/*.md; 席's own `stand_in` is a different word, 坐席, so no legitimizing note applies here). `kwin: true` confirmed via AND-rule. Reformatted the homophone claim into the standard `>[!warning] Homophones` callout and verified it's real via anchored grep (both 主席 and [[朱錫]] share 注音 ㄐㄨㄙㄝㄎ). Wrote full Notes (国家主席 head-of-state usage, North Korean 주석 as a historical head-of-state title, Vietnamese Chủ tịch nước parallel). **Flagged for later**: 朱錫.md's own side of this homophone still uses a non-standard callout format and carries a stray gibberish line ("This very K word is necessary because 'seg' is so full") — awaiting its alphabetical turn. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主幹.
