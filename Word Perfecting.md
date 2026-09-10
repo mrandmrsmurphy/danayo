@@ -2010,3 +2010,23 @@ Next: 中子.
 All content already exceptionally thoroughly documented from a prior pass (the "middle son" vs. "neutron" homograph carefully disambiguated, Vietnamese deliberately left blank with full justification). **Fixed a real duplicate-citation bug**: `characters/中 (char).md`'s Words list had cited 中子 twice — once correctly and once erroneously glossed "neutron" with a garbled non-matching 注音 — removed the erroneous duplicate (this vault has no separate neutron word file). Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 中学校.
+
+### 2026-09-09, iteration 3956 — [[words/中学校|中学校]]
+**Fixed a real missing-field bug**: `注音` was entirely absent — added `ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ`, matching 学's own citation. Fixed a real citation gap on `characters/校.md` (missing entirely) and upgraded a bare unformatted citation on `characters/中 (char).md`. Fixed the duplicate `品詞` field.
+
+Next: 中庭.
+
+### 2026-09-09, iteration 3957 — [[words/中庭|中庭]]
+Legitimizing note (庭's own `stand_in` is this exact compound). **Fixed several real bugs**: `注音` was entirely missing — added `ㄐㄨㄫㄉㄝㄫ`, matching 庭's own citation; upgraded a bare unformatted citation on `characters/中 (char).md`; removed the duplicate `品詞` field.
+
+Next: 中庸.
+
+### 2026-09-09, iteration 3958 — [[words/中庸|中庸]]
+No `#cranberry`. Both character pages already cited 中庸 correctly. **Fixed the recurring `characters:` disambiguation bug**: both "中" and "庸" needed the "(char)" suffix (both `words/中.md` and `words/庸.md` exist) — a double instance in one word. `kwin: true` (AND-rule: both true) correct. Removed blank `hsk_level`/`swadesh`/`aliases`. Added an entirely missing `## Notes` section.
+
+Next: 中心.
+
+### 2026-09-09, iteration 3959 — [[words/中心|中心]]
+Both character pages already cited 中心 correctly (中's own upgraded from bare to proper ruby format). All other content already correct from a prior thorough pass. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中性子.

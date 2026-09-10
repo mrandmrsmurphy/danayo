@@ -70,9 +70,9 @@ boundedness: 80
 - <ruby>[[中古]]<rt>ㄐㄨㄫㄍㄛ</rt></ruby> "secondhand; medieval; middle period"
 - <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
 - <ruby>[[中国語]]<rt>ㄐㄨㄫㄍㄛㄎ⼄</rt></ruby> "Chinese language; Mandarin Chinese"
-- [[中学校]]
-- [[中庭]]
-- [[中心]]
+- <ruby>[[中学校]]<rt>ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ</rt></ruby> "middle school; junior high school"
+- <ruby>[[中庭]]<rt>ㄐㄨㄫㄉㄝㄫ</rt></ruby> "courtyard; inner garden; atrium"
+- <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"
 - [[中性子]]
 - [[中文]]
 - [[中旬]]
