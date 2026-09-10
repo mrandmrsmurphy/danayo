@@ -2525,3 +2525,23 @@ Next: 事典.
 Found and fixed a missing legitimizing note: 典's own `stand_in: "事典"` wasn't documented reciprocally on this page — added. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages (including sibling 百科事典), and the real homophone with [[字典]] confirmed reciprocally documented (a genuine minimal pair distinguishing topic/fact-organized vs. character-organized reference works). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 事務所.
+
+### 2026-09-10, iteration 4059 — [[words/事務所|事務所]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (務 true, 事(char)/所(char) both false), citations correct on all three character pages, no homophone collision. Content already excellent (弁護士事務所/会計事務所 professional-practice register vs. generic 会社/オフィス, Vietnamese sự vụ sở vs. văn phòng distinction). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 事宜.
+
+### 2026-09-10, iteration 4060 — [[words/事宜|事宜]]
+Quoted mandarin/cantonese/korean. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Content already excellent (事's 会意 flag-and-hand etymology, 宜's cross-linked [[時宜]]/[[便宜]] family, bureaucratic-register "practical specifics vs. substance" distinction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事実.
+
+### 2026-09-10, iteration 4061 — [[words/事実|事実]]
+Fixed a malformed `vietnamese` field (comma-joined, capitalized "Sự thật,Sự thực" string) into a proper lowercase two-item list. Missing `date-last-perfect` entirely, dangling empty `swadesh`, no Notes at all — wrote full content. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (事(char) false, 実 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事情.
+
+### 2026-09-10, iteration 4062 — [[words/事情|事情]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (事物 concrete-thing contrast, Japanese 事情がある polite-deflection idiom, Korean 사정이 있다 parallel idiom). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 事故.
