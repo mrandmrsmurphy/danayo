@@ -3356,3 +3356,23 @@ Next: 伍.
 Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以). Upgraded a raw-markdown-link citation on `伍 (char).md`'s own Words list to a proper wikilink. Re-verified the 4-way homophone group (五/汚/於/伍) via anchored grep as complete and accurate — several character-only matches (誤/悟/嗚/娯/烏/呉/午) have no independent word pages. Content already outstanding (financial anti-forgery numeral role cross-referenced with 壱/貳/漆/玖). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 伎倆.
+
+### 2026-09-10, iteration 4225 — [[words/伎倆|伎倆]]
+Reworded the informal stand-in note into the standard legitimizing-note phrasing. Deliberately left `vietnamese` undocumented rather than fabricated: the naive compositional reading "kỹ lưỡng" (伎's kĩ/kỹ + 両's lưỡng) is already a real, unrelated Vietnamese word meaning "careful, thorough," not "skill/trick" — using it would introduce a misleading false-friend, so the honest gap is noted instead. `characters:` confirmed correct (bare 伎, no conflicting words/伎.md exists; 両 correctly cites the parent glyph rather than the alias 倆), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伎(char) false overrides 両(char)'s own true), no homophone collision. Content already excellent (honest register-shift note between classical-neutral and modern-negative Mandarin senses, Japanese 技量 spelling-variant cross-reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伏.
+
+### 2026-09-10, iteration 4226 — [[words/伏|伏]]
+Fixed a missing `japanese` field entirely (filled ふく, 伏(char)'s own first-listed on'yomi FUKU, per the established convention). Added the standard self-referential legitimizing-note phrasing. Found and fixed a real missing-citation bug: the word 伏 itself was entirely absent from `伏(char).md`'s own Words list despite being its stand-in — added. Verified several character-only homophone matches (復/複/蔔/北/畐/服) have no independent word pages, so aren't real word-level collisions. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 休息.
+
+### 2026-09-10, iteration 4227 — [[words/休息|休息]]
+Filled a missing `vietnamese` field (nghỉ ngơi, the real standard everyday phrase, matching 休's own already-stored reading). Added the standard legitimizing-note phrasing (休's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 休/息, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 休息室.
+
+### 2026-09-10, iteration 4228 — [[words/休息室|休息室]]
+Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a stray unheaded paragraph and a non-standard `## Etymology` heading into `## Notes`. Upgraded a bare-format citation on `休.md`; `息.md`'s and `室.md`'s own citations were already correct. `characters:` confirmed correct (bare 室, no conflicting words/室.md exists). `kwin: false` confirmed correct (compares against the real 휴게실-based Korean field, not a naive AND-rule, matching the established real-term-exception pattern). No homophone collision. Verified the page's own "休憩 isn't [attested]" claim against [[休憩]] (which now exists as its own word) — confirmed [[休憩]]'s own Notes already document this, self-consciously, as outdated-but-historically-accurate context, so left unchanged per that word's own guidance. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 休憩.

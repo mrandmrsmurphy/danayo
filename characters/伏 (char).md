@@ -52,5 +52,6 @@ boundedness: 100
 - 561st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄅㄨㄎ](../syllables/ㄅㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[伏]]<rt>ㄅㄨㄎ</rt></ruby> "crouch; prostrate; surrender" (stand-in for 伏)
 - <ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "hide, lurk, lie low"
 - <ruby>[[起伏]]<rt>ㄎㄧㄅㄨㄎ</rt></ruby> "undulate, fluctuate"
