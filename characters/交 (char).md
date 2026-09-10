@@ -56,7 +56,7 @@ boundedness: 80
 - <ruby>[[交友]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friends"
 - <ruby>[[交遊]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friendship; form companionship"
 - <ruby>[[交流]]<rt>ㄍ⼄ㄨㄌ⼜</rt></ruby> "exchange; interaction; to mingle"
-- [[交互]] "reciprocal; mutual; alternate"
+- <ruby>[[交互]]<rt>ㄍ⼄ㄨㄏㄛ</rt></ruby> "in turn, mutually, each other"
 - [[交付]] "to hand over; to deliver"
 - [[交尾]] "mating; copulation"
 - [[交差]] "intersection"

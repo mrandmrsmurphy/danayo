@@ -2825,3 +2825,23 @@ Next: 亜鉛.
 Missing `vietnamese`/`date-last-perfect`, no proper Notes (just a stray non-standard "Homophones: 亞鉛, 鋅" line). Filled vietnamese with á duyên (real Sino-Vietnamese chemistry term). Fixed the mislabeled claim: 亞鉛 is just this same word's traditional-character spelling, not a genuine homophone — moved to `aliases`; 鋅 (the real modern Chinese zinc character) names the same element via an entirely different etymological strategy and isn't documented as a Dan'a'yo word in this vault at all, so the "homophone" framing was doubly wrong — corrected in prose. Wrote full Notes ("sub-lead" naming logic). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), citations correct on both character pages, no genuine Dan'a'yo-level homophone (verified via anchored grep). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 亜麻.
+
+### 2026-09-10, iteration 4119 — [[words/亜麻|亜麻]]
+Fixed a comma-joined mandarin string into a proper two-item list, fixed a mis-capitalized vietnamese ("Cây lanh"→"cây lanh", common noun), added missing `date-last-perfect`, wrote full Notes (self-caught a korean-hanja-transcription slip mid-edit and corrected before applying). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), citations correct on both character pages (including sibling [[亜麻布]]), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亜麻布.
+
+### 2026-09-10, iteration 4120 — [[words/亜麻布|亜麻布]]
+Found a real bug: `cantonese` had a stray extra "ng" on the first syllable (ngaa3, not matching 亜's own real reading aa3) — corrected to aa3 maa4 bou3. Found and fixed a missing citation on `麻.md` (亜麻布 was cited on 亜/布 but not 麻). Removed dangling empty `hsk_level`/`swadesh`. `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (亜/麻 both true, 布 false), no homophone collision. Content already excellent (亜麻布 vs [[麻布]] flax-specific-vs-general distinction, legitimizing note for 布 already present, Sino-Vietnamese 布-root cross-reference). Stamped `date-last-perfect: 2026-09-10`. This closes out the 亜-prefixed word cluster; next word begins a new initial (交).
+
+Next: 交.
+
+### 2026-09-10, iteration 4121 — [[words/交|交]]
+Found the missing-`japanese`-field bug again. Applied first-listed-on'yomi convention (交(char)'s `[KOU, KYOU]` → こう). `kwin: false` trivially confirmed, citation correct, no homophone collision. Content already excellent (象形 crossed-legs etymology distinguished from visually similar 父, one of the vault's largest compound families spanning literal/social/transactional exchange senses). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交互.
+
+### 2026-09-10, iteration 4122 — [[words/交互|交互]]
+Fixed an unspaced cantonese field (gaau1wu6→gaau1 wu6), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 互 true), no homophone collision. Content already good (attested Sino-Vietnamese giao hỗ, cross-referenced with 互相/互相 hỗ tương). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交付.
