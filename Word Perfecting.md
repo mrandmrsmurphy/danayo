@@ -3090,3 +3090,23 @@ Next: 今.
 Fixed duplicate `pos`/`品詞` (kept pos), fixed a missing `japanese` field entirely (filled こん, 今(char)'s own first-listed on'yomi KON, per the established convention). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人 exact wording). `characters:` confirmed correct (bare `今 (char)`), citation already correct on the character page. Re-verified the genuine homophone with [[金]] via anchored grep (also confirmed 襟/禁 are character-only matches with no independent word pages, so not real word-level homophones). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 今世紀.
+
+### 2026-09-10, iteration 4172 — [[words/今世紀|今世紀]]
+Found and fixed a real content bug: `korean` was "이번세기" (unidiomatic native phrase), corrected to 금세기 — the standard, common Korean word for "this century" (compositional from 今's own 금 + 世紀's own 세기). Filled a missing `vietnamese` field with the natural native phrase thế kỷ này, preferred over a forced Sino-Vietnamese compound. Added missing `date-last-perfect`, expanded thin Notes. Found and fixed a missing-citation bug: 今世紀 was entirely absent from `今(char).md`'s Words list — added; `世.md`'s and `紀.md`'s own citations were already correct. `characters:` confirmed correct (bare 世/紀, no conflicting words exist). `kwin: false` confirmed via AND-rule (今 and 世 independently false, despite 紀 itself being kwin:true). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今夜.
+
+### 2026-09-10, iteration 4173 — [[words/今夜|今夜]]
+Fixed missing disambiguation on both constituents (bare `今`/`夜`→`今 (char)`/`夜 (char)`, since both words/今.md and words/夜.md exist), normalized inline-flow `aliases: [今晚]` to block-list format, removed dangling empty `hsk_level`/`swadesh`. Upgraded a bare-format citation on `今(char).md`; `夜(char).md`'s own citation was already correct. `kwin: false` confirmed correct (Dan'a'yo 김야 vs. native-Korean 오늘밤, not a Sino-Korean compositional comparison). No homophone collision. Content already good (attested kim dạ). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今夜安.
+
+### 2026-09-10, iteration 4174 — [[words/今夜安|今夜安]]
+Found and fixed a real content bug: `mandarin`/`cantonese` were "dàishù"/"doi6 sou3" — an evident copy-paste leftover from the unrelated word 代数 ("algebra"), corrected to the real greeting terms (wǎnshàng hǎo, matching the alias already stored; maan5soeng6 hou2 as a flagged, honestly-uncertain Cantonese derivation). Fixed `japanese` (今晩は→こんばんは, matching the reading-not-orthography convention used on sibling greetings). Fixed a malformed comma-joined duplicate `vietnamese` value. Removed dangling empty `hsk_level`/`swadesh`, added missing `date-last-perfect`. `characters:` confirmed correct (bare 安, no conflicting words/安.md exists). Upgraded a bare-format citation on `今(char).md`; `夜(char).md`'s and `安.md`'s own citations were already correct. `kwin: false` confirmed correct (native-greeting-based Korean field, not compositional). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今年.
+
+### 2026-09-10, iteration 4175 — [[words/今年|今年]]
+Already in excellent shape. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already outstanding (honest treatment of Korean 금년 formal vs. native 올해 everyday, Vietnamese kim niên compositional vs. native năm nay). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 今日.

@@ -51,8 +51,9 @@ boundedness: 90
 
 ## Words
 - <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby> "now"
-- [[今夜]] "tonight"
-- [[今夜安]] "good evening"
+- <ruby>[[今世紀]]<rt>ㄍㄧㄇㄙㄝㄍㄧ</rt></ruby> "this century"
+- <ruby>[[今夜]]<rt>ㄍㄧㄇ⼘</rt></ruby> "tonight"
+- <ruby>[[今夜安]]<rt>ㄍㄧㄇ⼘ㄚㄋ</rt></ruby> "good evening"
 - <ruby>[[今年]]<rt>ㄍㄧㄇㄋㄝㄋ</rt></ruby> "this year"
 - [[今昼安]] "good afternoon"
 - [[今朝安]] "good morning"
