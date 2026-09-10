@@ -3201,3 +3201,28 @@ Next: 代数.
 Confirmed this word itself is the legitimate source of the mandarin/cantonese "dàishù"/"doi6 sou3" values that turned up as a copy-paste leftover bug on 今夜安 earlier — this page's own values are correct for its own meaning. Fixed mis-capitalized vietnamese (Đại số→đại số), removed dangling empty `hsk_level`/`swadesh`, normalized inline-flow `aliases: [代數]` to block-list format, added missing `date-last-perfect`. Replaced a malformed stray line ("For the study theoreof , see 代数学") with a proper Notes section and wikilink to [[代数学]] (confirmed to exist). Found and added a genuine, previously undocumented homophone with [[大水]] ("flood") — added the Homophones callout here and reciprocally on 大水's own page (which was also missing a `vietnamese` field, filled with lũ lụt). Both character-page citations already correctly ruby-formatted, `kwin: true` confirmed via AND-rule (both constituents independently true). Stamped `date-last-perfect: 2026-09-10` on both words.
 
 Next: 代数学.
+
+### 2026-09-10, iteration 4194 — [[words/代数学|代数学]]
+Fixed mis-capitalized vietnamese (Đại số học→đại số học), removed dangling empty `hsk_level`/`swadesh`, normalized inline-flow `aliases: [代數學]` to block-list format, added missing `date-last-perfect`, wrote missing Notes distinguishing it from [[代数]]. `characters:` confirmed correct, all three character-page citations already correctly ruby-formatted, `kwin: true` confirmed via AND-rule (all three constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代替.
+
+### 2026-09-10, iteration 4195 — [[words/代替|代替]]
+Fixed unspaced cantonese (doi6tai3→doi6 tai3), reworded the informal stand-in note into the standard legitimizing-note phrasing. `characters:` confirmed correct (bare 替, no conflicting words/替.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently match Sino-Korean exactly), no homophone collision. Content already outstanding (honest register notes on Japanese 代わる/Korean 대체로/Vietnamese thay thế alternatives). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代用.
+
+### 2026-09-10, iteration 4196 — [[words/代用|代用]]
+Already in excellent shape. `characters:` confirmed correct (bare 用, no conflicting words/用.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents match Sino-Korean exactly), no homophone collision. Content already thorough (cross-references to 代表/作用, honest connotation note on "making do"). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 代用字.
+
+### 2026-09-10, iteration 4197 — [[words/代用字|代用字]]
+Filled a missing `vietnamese` field (đại dụng tự, honest Sino-Vietnamese compositional reading, no direct attestation found). `characters:` confirmed correct (`字 (char)` required, conflicting words/字.md exists), all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (字(char) false overrides 代/用's own true), no homophone collision. Content already outstanding (concrete 包/雹, 厳/儼, 井/丼 examples of the alias-authorization mechanism, careful Japanese だいようじ vs. Dan'a'yo coda-preservation phonological comparison). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代表.
+
+### 2026-09-10, iteration 4198 — [[words/代表|代表]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. `characters:` confirmed correct (bare 表, no conflicting words/表.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (代(char) true, 表(char) false). Homophone with [[大砲]] re-verified via anchored grep — genuine. Content already good (previously-fixed vietnamese capitalization and homophone-callout-format bugs still hold, correctly notes no stand-in relationship applies here). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代表之.
