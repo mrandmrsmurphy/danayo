@@ -3396,3 +3396,28 @@ Next: 会.
 Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以/伏). Citation on `会 (char).md` already correct, no homophone collision. Content already excellent (honest distinction between everyday hội and the specifically-Vietnamese hụi rotating-credit-circle loanword sense). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 会員.
+
+### 2026-09-10, iteration 4233 — [[words/会員|会員]]
+Normalized `characters:` indentation, fixed a typo ("personel"→"personnel"), removed dangling empty `swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (会(char) false overrides 員(char)'s own true), no homophone collision. Verified the `-2` tone-sandhi cantonese notation as the established legitimate convention, not a bug. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会堂.
+
+### 2026-09-10, iteration 4234 — [[words/会堂|会堂]]
+Normalized `characters:`/`aliases: [會堂]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`, added legitimizing-note phrasing (堂's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 堂, no conflicting words/堂.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (会(char) false overrides 堂(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会意.
+
+### 2026-09-10, iteration 4235 — [[words/会意|会意]]
+Fixed duplicate `pos`/`品詞` (kept pos). Verified `vietnamese: hội ý` is the real, standard Vietnamese Han-Nom term for this 六書 category (lục thư: tượng hình/chỉ sự/hội ý/hình thanh/chuyển chú/giả tá), not a false-friend — confirmed correct, not a bug. Re-verified the Korean-only homophone claim with [[会議]]: 会議's own 注音 (ㄏ⼔ㄜㄧ) differs from this word's (ㄏ⼔ㄜ), confirming it's genuinely just a Sino-Korean coincidence (both 회의), not a Dan'a'yo-level homophone — matches the established genuine-vs-Korean-only-coincidence distinction pattern. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false). Content already outstanding (信/休 worked examples, 象形→指事→会意→形声 abstraction progression). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会社.
+
+### 2026-09-10, iteration 4236 — [[words/会社|会社]]
+Normalized `characters:`/`aliases: [會社]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (bare 社, no conflicting words/社.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (honest confirmation that 會社/会社 is a real, if dated/regional, Mandarin/Cantonese term, not a Japanese-only fabrication). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会社員.
+
+### 2026-09-10, iteration 4237 — [[words/会社員|会社員]]
+Fixed a spaced `mandarin` ("huì shè yuán"→"huìshèyuán"), a typo ("personel"→"personnel"), normalized inline-flow `characters:`/`aliases: [會社員]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct, all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (会/社 both false, despite 員 itself being kwin:true), no homophone collision. Content already good (honest note on everyday nhân viên công ty vs. compositional hội xã viên). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会話.
