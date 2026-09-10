@@ -2180,3 +2180,23 @@ Next: 主権.
 Quoted mandarin/cantonese/korean fields. Expanded a one-line Notes into full cross-language coverage (主権国家/主権在民/領土主権 collocations, Vietnamese chủ quyền's everyday political usage, kwin explanation). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 主義.
+
+### 2026-09-09, iteration 3990 — [[words/主義|主義]]
+Content already thoroughly perfected in a very recent prior pass (2026-09-04, the ju'wi/읫-confusion cleanup shared with 官僚主義/定義/定義域/正義). Investigated the kwin:false vs AND-heuristic (主 true, 義 true → expected true) discrepancy: 主義's own kwin:false is directly justified by its own field comparison (諺文 주읫 vs korean 주의 diverge in the final coda) — correct as stored. **Flagged an unresolved open question** rather than acting unilaterally: 義(char)'s own page has the identical 읫/의 divergence yet marks its own `kwin: true`, which doesn't obviously reconcile with the AND-heuristic; documented in this word's Notes for future investigation rather than touched here. `characters:` confirmed correct, citations correct on both character pages (including 官僚主義/社会主義/禁欲主義 siblings), no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主要.
+
+### 2026-09-09, iteration 3991 — [[words/主要|主要]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision confirmed. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 主頁.
+
+### 2026-09-09, iteration 3992 — [[words/主頁|主頁]]
+Substantially incomplete: `characters:` had bare undisambiguated `頁` despite `words/頁.md` existing (fixed to `頁 (char)`), `date-last-perfect` entirely absent, dangling empty `hsk_level`/`swadesh`, inline-flow `aliases`, no Notes at all, and a missing citation on `頁 (char).md`'s own Words section (added). Found and fixed three fabricated/non-standard readings: japanese しゅページ (a half-Sino/half-loanword hybrid that isn't real Japanese) → ホームページ, korean 메인페이지 (literal "main page" transliteration, less standard) → 홈페이지 ("homepage," the actually universal term), vietnamese Trang Chính (the specific proper-noun title of, e.g., Wikipedia's own main page) → trang chủ (the real generic everyday term for a website's homepage) — all three replaced with genuinely attested real-world usage per the vault's real-usage-over-compositional convention, since Chinese/Cantonese build this IT term compositionally from Sino roots but Japanese/Korean/Vietnamese don't. `kwin: false` confirmed via AND-rule (主 true, 頁(char) false). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主題.
+
+### 2026-09-09, iteration 3993 — [[words/主題|主題]]
+Missing `date-last-perfect`, dangling empty fields, and no Notes at all. Wrote full Notes (contrast with 主旨/主格/主語, cross-language compositional readings, 主題曲/主題公園 collocations, kwin explanation via 題's own 테/제 divergence). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the long 主-prefixed word cluster; next word begins a new initial (乃).
+
+Next: 乃.

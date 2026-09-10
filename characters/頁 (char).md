@@ -55,3 +55,4 @@ date-last-perfect: 2026-08-12
 
 ## Words
 - <ruby>[[頁]]<rt>ㄏㄝㄊ</rt></ruby> "page" (stand-in for 頁)
+- <ruby>[[主頁]]<rt>ㄐㄨㄏㄝㄊ</rt></ruby> "main page; homepage"
