@@ -2435,3 +2435,28 @@ Next: 乾坤.
 Found and fixed: (1) a missing legitimizing note (坤's own `stand_in: "乾坤"` not documented reciprocally), (2) a missing citation on `乾(char).md` (乾坤 entirely absent from its Words section), and (3) an inconsistent vietnamese capitalization (frontmatter "Càn Khôn" vs the prose's own lowercase "càn khôn" example — càn khôn is a common expression, not a proper noun, so standardized to lowercase). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content otherwise excellent (八卦 trigram cosmology, xoay chuyển càn khôn idiom). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 乾浄.
+
+### 2026-09-10, iteration 4041 — [[words/乾浄|乾浄]]
+Fixed duplicate `pos`/`品詞` (which also disagreed: 性詞 vs 形容詞), quoted mandarin/cantonese/korean, normalized `japanese` from a single-item list to a scalar. Missing `vietnamese` filled with càn tịnh — but found a real bug while researching it: `浄.md`'s own stored vietnamese candidates (tĩnh, tạnh) belong to entirely unrelated characters (靜 "quiet" and an unrelated weather term), not 浄 at all; the real Sino-Vietnamese reading of 浄 is tịnh (thanh tịnh, tịnh xá) — flagged for 浄's own alphabetical turn rather than fixed there. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乾(char) false, 浄 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾溜.
+
+### 2026-09-10, iteration 4042 — [[words/乾溜|乾溜]]
+Quoted korean field. Verified the vietnamese "can" (vs 乾's other stored candidates càn/càng used elsewhere for the "heavenly"/other senses) is a deliberate, correct sense-appropriate reading choice, not an inconsistency. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乾(char) false, 溜 true), citations correct on both character pages, no homophone collision. Content already excellent, including an honest self-documented "search quota exhausted" caveat for the Vietnamese chemistry-term attestation (same pattern as this session's own). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾燥.
+
+### 2026-09-10, iteration 4043 — [[words/乾燥|乾燥]]
+Already fully correct from a prior pass: legitimizing note present (燥's `stand_in: "乾燥"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision, `swadesh: 195` confirmed a legitimate numbered field per vault convention. Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 乾芻.
+
+### 2026-09-10, iteration 4044 — [[words/乾芻|乾芻]]
+Found a real bug: `korean` field stored 간추, but 乾's own Sino-Korean reading is 건 (not 간) — corrected to 건추 (乾's 건 + 芻's own 추, both in frontmatter and prose). Quoted mandarin/cantonese. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乾(char) false, 芻 true), citations correct on both character pages, no homophone collision. Content already exceptional (芻狗/芻言/芻議 classical compound family, 道德經 citation, military-logistics fodder-supply context). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾達婆.
+
+### 2026-09-10, iteration 4045 — [[words/乾達婆|乾達婆]]
+Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`, no Notes at all. Wrote full Notes explaining this is a pure Sanskrit phonetic transliteration (gandharva → 乾達婆), not a compositional Chinese coinage — the three characters carry no combined semantic meaning. Confirmed vietnamese Càn Thát Bà's capitalization is correct (a genuine proper noun, naming a specific class of celestial being). `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (all three constituents independently false), citations correct on all three character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乾酪.
