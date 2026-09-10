@@ -48,6 +48,7 @@ date-last-perfect: 2026-08-16
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet" (stand-in for 洲 (char))
+- <ruby>[[亜洲]]<rt>ㄚㄐㄨㄛ</rt></ruby> "Asia"
 - <ruby>[[非洲]]<rt>ㄈㄧㄐㄨㄛ</rt></ruby> "Africa"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet; Singapore"
 - <ruby>[[北美洲]]<rt>ㄅㄨㄎㄇㄧㄐㄨㄛ</rt></ruby> "North American continent"

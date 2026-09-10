@@ -2780,3 +2780,48 @@ Next: 五馭.
 Found and fixed a missing legitimizing note: 馭's own `stand_in: 五馭` wasn't documented reciprocally on this page — added. Fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese/korean. The leading-dot bug appeared on BOTH `五(char).md` AND `馭.md`'s own citation this time (18th and 19th instances) — fixed both. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 馭 false), no homophone collision. Content already exceptional (full 五 Zhou-era charioteering techniques with etymological glosses, 五御 modern-form alias, cross-linked to the Six Arts family). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire "Five X" cluster on `五(char).md`'s "Important Words" section; next word begins a new initial (井).
 
 Next: 井堰.
+
+### 2026-09-10, iteration 4110 — [[words/井堰|井堰]]
+Fixed a raw-markdown-link citation on `井.md` (`[井堰](/words/井堰.md)`) to a proper wikilink+ruby entry. `characters:` confirmed correct (bare 井, no conflicting words/*.md; 堰's own `stand_in: "井堰"` matches the already-documented legitimizing note), citations correct on both character pages, no additional homophone collision beyond the already-documented, already-reciprocal [[証言]] pair (a genuine Dan'a'yo-only coincidence, confirmed real Korean readings differ). The AND-rule "mismatch" (井 false + 堰 true would predict true, but word's own kwin is false) is already correctly explained by direct field comparison in the existing Notes — no bug, verified rather than assumed. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 井戸.
+
+### 2026-09-10, iteration 4111 — [[words/井戸|井戸]]
+Found and fixed a missing legitimizing note: 井's own `stand_in: 井戸` wasn't documented reciprocally on this page — added. Fixed a raw-markdown-link citation on `井.md` to a proper wikilink+ruby entry with the stand-in annotation. `characters:` confirmed correct, citations correct on both character pages, no homophone collision. Content already excellent and self-aware (deliberately "very Japanese" syllable-filling entry, honestly documented blank mandarin/cantonese, いど/井戸端/井戸端会議 idiom family). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 井物.
+
+### 2026-09-10, iteration 4112 — [[words/井物|井物]]
+Substantially incomplete: `korean`/`vietnamese`/`kwin`/`date-last-perfect` all entirely missing, `cantonese` blank, `aliases` a bare string instead of a list, no Notes. Identified this as another Japanese-specific syllable-filling entry in the [[井戸]] family (井 substituting for the real character 丼, "donburi/rice bowl"). Filled korean with 덮밥 (deopbap, the real Korean rice-bowl-dish term) and vietnamese with cơm tô, following the same honest-native-word approach established on 井戸, rather than forcing a compositional Sino-reading that doesn't correspond to a real term in either language. Left cantonese blank, similarly. `characters:` and citations already correct on both character pages. `kwin: false` via AND-rule (井 false, 物(char) true). No homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the 井-prefixed word cluster; next word begins a new initial (亘).
+
+Next: 亘.
+
+### 2026-09-10, iteration 4113 — [[words/亘|亘]]
+Found the missing-`japanese`-field bug again. Applied first-listed-on'yomi convention (亘(char)'s `[SEN, KAN, KOU]` → せん). `kwin: false` trivially confirmed (single constituent), citation correct, and the real 3-way homophone with [[喚]]/[[環]] confirmed (both still awaiting their own turns). Content already excellent (亘/亙 archaic-whirlpool-vs-extend semantic drift, Vietnamese cắng verified as one of three genuinely attested readings among several implausible candidates). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亙.
+
+### 2026-09-10, iteration 4114 — [[words/亙|亙]]
+Found the missing-`japanese`-field bug again. Added こう (亙's only on'yomi, KOU). `kwin: false` trivially confirmed, citation correct, and the real coincidental homophone with [[弓]] confirmed reciprocally documented (already fixed on that page's own turn). Content already excellent (指事 crescent-moon-spanning etymology, 亙/亘 historical-conflation-vs-Dan'a'yo-phonological-distinctness contrast, Vietnamese cắng cổ attestation vs. four unrelated corpus-noise candidates). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 些少.
+
+### 2026-09-10, iteration 4115 — [[words/些少|些少]]
+Already fully correct from a prior pass: legitimizing note present (些's `stand_in: "些少"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Just refreshed `date-last-perfect: 2026-09-10`. This closes out the 些-prefixed word cluster; next word begins a new initial (亜).
+
+Next: 亜洲.
+
+### 2026-09-10, iteration 4116 — [[words/亜洲|亜洲]]
+Fixed a malformed comma-joined `mandarin` string into a proper two-item list (Yàzhōu/Yǎzhōu). Fixed duplicate `pos`/`品詞`, added missing `date-last-perfect`, expanded thin one-line Notes. Found and fixed a missing citation on `洲(char).md` (亜洲 was entirely absent from its Words section). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (亜 true, 洲(char) false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亜細亜.
+
+### 2026-09-10, iteration 4117 — [[words/亜細亜|亜細亜]]
+Found and fixed several real bugs: `characters:` listed 亜 twice (condensed, per the [[九九]]/[[二十二日]] precedent); `cantonese` was an apparent copy-paste leftover from [[亜洲]]'s own field (aa3 zau1) — corrected to the real compositional aa3 sai3 aa3; `vietnamese` was a comma-joined jumble of three variant forms — consolidated to the standard châu Á. Fixed missing `date-last-perfect`, removed dangling empty `hsk_level`/`swadesh`, and wrote full Notes including the previously-undocumented legitimizing note (亜's own `stand_in: 亜細亜`) and the cultural-vs-geographic contrast with [[亜洲]]. `kwin: true` confirmed via 3-way AND-rule (all constituents independently true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亜鉛.
+
+### 2026-09-10, iteration 4118 — [[words/亜鉛|亜鉛]]
+Missing `vietnamese`/`date-last-perfect`, no proper Notes (just a stray non-standard "Homophones: 亞鉛, 鋅" line). Filled vietnamese with á duyên (real Sino-Vietnamese chemistry term). Fixed the mislabeled claim: 亞鉛 is just this same word's traditional-character spelling, not a genuine homophone — moved to `aliases`; 鋅 (the real modern Chinese zinc character) names the same element via an entirely different etymological strategy and isn't documented as a Dan'a'yo word in this vault at all, so the "homophone" framing was doubly wrong — corrected in prose. Wrote full Notes ("sub-lead" naming logic). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), citations correct on both character pages, no genuine Dan'a'yo-level homophone (verified via anchored grep). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亜麻.
