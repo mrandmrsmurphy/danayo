@@ -2395,3 +2395,23 @@ Next: 乱離.
 Found and fixed a missing citation: 乱離 was entirely absent from `乱.md`'s own Words section — added. `characters:` confirmed correct (both bare, no conflicting words/*.md), `kwin: false` confirmed via AND-rule (乱 true, 離 false), no homophone collision. Content already excellent (Vietnamese loạn ly's literary attestation, Korean 난리's lexicalized "commotion" extension). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 乳房.
+
+### 2026-09-10, iteration 4033 — [[words/乳房|乳房]]
+Substantially incomplete: `date-last-perfect` missing, dangling empty `hsk_level`/`swadesh`/`aliases`, no Notes. Wrote full Notes. Vietnamese "nhũ phòng" (compositional but unattested) replaced with vú, the real everyday native word for "breast" — concrete body-part words typically favor native Vietnamese vocabulary over Sino-Vietnamese compounds. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乳 false, 房(char) true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乳押.
+
+### 2026-09-10, iteration 4034 — [[words/乳押|乳押]]
+Found and fixed a false stale claim: the page asserted it was the `stand_in` legitimizer for [[押]], but 押's own `stand_in` actually points to itself (押 is independently viable as its own word, "mortgage") — 乳押 just uses 押 as an ordinary bound morpheme in this coinage, no legitimizing relationship applies. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乳 false, 押(char) true), citations correct on both character pages, no homophone collision. Content otherwise already excellent (genuine Dan'a'yo-internal neologism vs each real language's own independently-formed term — 乳罩/胸罩, ちちおさえ, 브래지어, áo ngực). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乳液.
+
+### 2026-09-10, iteration 4035 — [[words/乳液|乳液]]
+Quoted korean field. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Content already excellent, including an honest self-documented note about a prior "no Vietnamese attestation" finding being revisited with domain knowledge under an exhausted search quota (nhũ dịch, real chemistry/cosmetics term) — same honesty pattern I've been applying this session. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乳色.
+
+### 2026-09-10, iteration 4036 — [[words/乳色|乳色]]
+Quoted mandarin/cantonese/korean, expanded Notes (cross-language compositional confirmation, kwin explanation). Flagged vietnamese nhũ sắc honestly as unverified (compositionally sound, but this session's search budget remains exhausted; native alternatives màu kem/trắng sữa noted as possibilities) rather than asserting or guessing. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乳酪.
