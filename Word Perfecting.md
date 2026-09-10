@@ -2370,3 +2370,28 @@ Next: 九龍.
 Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`/`aliases`, no Notes at all. Wrote full Notes on the genuine multi-referent nature: Kowloon (Hong Kong district) vs Vietnamese Cửu Long (the Mekong Delta's nine tributary mouths) — the same "nine dragons" naming logic applied to two unrelated geographic features. Upgraded bare-format citations on BOTH `九(char).md` and `龍(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (九(char) false, 龍(char) true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 九-prefixed word cluster; next word begins a new initial (乞).
 
 Next: 乞.
+
+### 2026-09-10, iteration 4028 — [[words/乞|乞]]
+Found the missing-`japanese`-field bug again (5th time this sweep: 串, 中間, 乃, 乗, now 乞). Applied first-listed-on'yomi convention (乞(char)'s `[KOTSU, KI]` → こつ), documented in Notes. `kwin: false` trivially confirmed (single constituent). Citation correct, no homophone collision. Content already excellent (乞丐/乞食/Buddhist alms-begging cross-references, Vietnamese khất disambiguated from unrelated gật/khắt candidates). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乞丐.
+
+### 2026-09-10, iteration 4029 — [[words/乞丐|乞丐]]
+Found a real bug: `japanese` stored かたい, an unrelated real Japanese word ("hard, solid, strict") that doesn't match either constituent's own on'yomi at all — corrected to こつかい (compositional first-listed-on'yomi concatenation, 乞's KOTSU + 丐's KAI). Also fixed an unspaced cantonese field and added a missing legitimizing note (丐's own `stand_in: 乞丐`, not previously documented reciprocally). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乞(char) false, 丐 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 也.
+
+### 2026-09-10, iteration 4030 — [[words/也|也]]
+Found the missing-`japanese`-field bug again (6th time this sweep). Added や (也's only on'yomi, YA). Quoted mandarin/cantonese/korean. `kwin: true` trivially confirmed (single constituent), citation correct, and the real homophone with [[夜]] confirmed (still awaiting its own turn). Content already excellent (disputed pictographic origin, Sino-Tibetan grammaticalization, なり functional parallel). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乱漫.
+
+### 2026-09-10, iteration 4031 — [[words/乱漫|乱漫]]
+Substantially incomplete: `date-last-perfect` and `vietnamese` both entirely missing, and the file used a non-standard `## Etymology` heading instead of the vault's standard `## Notes`. Fixed the heading, wrote full Notes (floral-profusion sense + 天真乱漫 personality extension), filled vietnamese with hồn nhiên (real native term for "innocent, artless" — no fixed Sino-Vietnamese compound attested from 乱/漫's own stored readings). `characters:` confirmed correct (both bare, no conflicting words/*.md), `kwin: true` confirmed via AND-rule (both constituents independently true), citations correct on both character pages (including sibling 天真乱漫), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乱離.
+
+### 2026-09-10, iteration 4032 — [[words/乱離|乱離]]
+Found and fixed a missing citation: 乱離 was entirely absent from `乱.md`'s own Words section — added. `characters:` confirmed correct (both bare, no conflicting words/*.md), `kwin: false` confirmed via AND-rule (乱 true, 離 false), no homophone collision. Content already excellent (Vietnamese loạn ly's literary attestation, Korean 난리's lexicalized "commotion" extension). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 乳房.
