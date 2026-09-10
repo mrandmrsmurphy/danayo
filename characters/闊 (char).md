@@ -51,7 +51,7 @@ date-last-perfect: 2026-09-08
 
 ## Words
 - <ruby>[[闊]]<rt>ㄎ⺢ㄊ</rt></ruby> "broad; wide"
-- <ruby>[久闊](/words/久闊.md)<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
+- <ruby>[[久闊]]<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
 
 ## Chengyu

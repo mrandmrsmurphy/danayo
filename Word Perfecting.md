@@ -2200,3 +2200,23 @@ Next: 主題.
 Missing `date-last-perfect`, dangling empty fields, and no Notes at all. Wrote full Notes (contrast with 主旨/主格/主語, cross-language compositional readings, 主題曲/主題公園 collocations, kwin explanation via 題's own 테/제 divergence). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the long 主-prefixed word cluster; next word begins a new initial (乃).
 
 Next: 乃.
+
+### 2026-09-09, iteration 3994 — [[words/乃|乃]]
+Found the systemic missing-`japanese` field bug again: absent from frontmatter despite Notes discussing all three on'yomi. Applied the established first-listed-on'yomi convention (乃(char)'s `[DAI, AI, NAI]` → だい), documented explicitly in the word's own Notes. `kwin: true` trivially confirmed (single constituent, character's own kwin true). Citation correct, and the reciprocal real homophone with [[耐]] already correctly documented on both pages. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 久.
+
+### 2026-09-09, iteration 3995 — [[words/久|久]]
+Already fully correct from a very recent prior pass: legitimizing note present, `kwin: false` confirmed (single constituent), citation correct, and the reciprocal real homophone with [[球]] already correctly documented on both pages. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 久闊.
+
+### 2026-09-09, iteration 3996 — [[words/久闊|久闊]]
+Substantially incomplete: `korean`, `vietnamese`, and `kwin` fields all entirely missing, and Notes were a single bare constituent-breakdown bullet. Added korean 구활 (compositional concatenation) and vietnamese cửu khoát (compositional, flagged as not independently attested — 久闊 appears to be primarily a Sino-Japanese/Mandarin literary expression), `kwin: false` via AND-rule (both constituents independently false). Also fixed a citation-format inconsistency on `闊 (char).md` (was using a raw markdown link instead of a wikilink). Wrote full Notes on the formal-greeting-after-long-absence register. No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 之.
+
+### 2026-09-09, iteration 3997 — [[words/之|之]]
+Found a missing self-legitimizing citation: 之 (char)'s own `stand_in: 之` (i.e. itself) wasn't cited in its own Words section at all — added it. Also fixed a raw-markdown-link-instead-of-wikilink citation for the sibling 之間 on the same page (added its missing gloss too) while there. Fixed duplicate `pos`/`品詞` and quoted cantonese. `kwin: false` trivially confirmed (single constituent). Content otherwise already excellent (attested classical usage across all five languages, MC palatal-onset mapping explanation). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 之間.
