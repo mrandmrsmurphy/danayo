@@ -3461,3 +3461,23 @@ Next: 伯爵.
 Removed a stray duplicate `## Etymology` section left over below `## Notes`, repeating the same character breakdown with worse/inconsistent glosses ("uncle"/"baron" instead of the Notes' own "count-rank"/"noble title"). Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. `characters:` confirmed correct (bare 爵, no conflicting words/爵.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伯(char) false overrides 爵(char)'s own true), no homophone collision. Content already good (公侯伯子男 five-rank peerage cross-reference). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 伯父.
+
+### 2026-09-10, iteration 4246 — [[words/伯父|伯父]]
+Removed dangling empty `swadesh`/`aliases: []`. Found the real legitimizing relationship: `伯(char).md`'s own `stand_in` is this exact word (not a "bare self-standing character" as assumed while processing its siblings [[伯伯]]/[[伯母]]/[[伯爵]]) — added the legitimizing-note phrasing here specifically, since this is the one word that actually legitimizes 伯. `characters:` confirmed correct (bare 父, no conflicting words/父.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伯(char) false overrides 父(char)'s own true), no homophone collision. Content already excellent (honest bá phụ vs. thúc phụ paternal-uncle-age distinction). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 伯-prefixed word cluster.
+
+Next: 伴侶.
+
+### 2026-09-10, iteration 4247 — [[words/伴侶|伴侶]]
+Removed dangling empty `hsk_level`/`swadesh` fields, added legitimizing-note phrasing (侶's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 伴/侶, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伴(char) true, 侶(char) false), no homophone collision. Content already good (attested bạn lữ life-companion term, 伴侶動物 usage example). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伶俐.
+
+### 2026-09-10, iteration 4248 — [[words/伶俐|伶俐]]
+Fixed relative-link paths in Notes (missing `../` prefix), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Verified the `#cranberry` tag: both 伶's and 俐's own `stand_in` fields genuinely point to this exact compound, transitivity holds. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already good (previously-fixed hidden-zero-width-space Japanese bug still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伸展.
+
+### 2026-09-10, iteration 4249 — [[words/伸展|伸展]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (展's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 伸/展, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伸長.
