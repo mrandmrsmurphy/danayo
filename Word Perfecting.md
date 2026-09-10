@@ -2480,3 +2480,23 @@ Next: 了.
 Found the missing-`japanese`-field bug again (9th time this sweep). Added りょう (了's only on'yomi, RYOU). `kwin: false` trivially confirmed (single constituent), citation correct, and the real homophone with [[聊]] confirmed (still awaiting its own turn). Content already excellent (free word vs. grammaticalized aspect-particle role, cross-reference to [[了解]]'s own corpus-noise vietnamese candidates). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 了解.
+
+### 2026-09-10, iteration 4050 — [[words/了解|了解]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (瞭解 alias etymology, Japanese りょうかい's narrower "roger!" pragmatic function vs Chinese's general verb sense, Korean 요해/이해 register contrast, Vietnamese liễu giải/giải liễu doublet-order note). Just refreshed `date-last-perfect: 2026-09-10`. This closes out the 了-prefixed word cluster; next word begins a new initial (予).
+
+Next: 予定.
+
+### 2026-09-10, iteration 4051 — [[words/予定|予定]]
+Missing `vietnamese` entirely; filled with dự định, the real everyday Vietnamese word for "plan, intend to," using 予's real Sino-Vietnamese reading dự — flagging `予.md`'s own stored vietnamese candidates (dư/dừ) as belonging to an unrelated character (餘/余, "surplus"), a bug for 予's own turn. Quoted mandarin/cantonese/korean, expanded thin Notes (careful note distinguishing this word's own 여정 reading from the unrelated, far more common 예정 which uses the separate character 豫). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (予 false, 定 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 予州.
+
+### 2026-09-10, iteration 4052 — [[words/予州|予州]]
+Verified 豫 is genuinely registered as 予's own `aliases` entry (confirming this word's own 豫州 alias field is correct) and connected this to last iteration's 予定/예정 note — the same alias relationship explains why the everyday Korean word 예정 (written with 豫) shares a root with 予定's own compositional 여정 reading, retroactively clarifying rather than contradicting that earlier caution. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Content already excellent (《禹貢》 Tribute of Yu fertile-soil ranking, modern Henan continuity). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 予様.
+
+### 2026-09-10, iteration 4053 — [[words/予様|予様]]
+Already fully correct from a prior pass: legitimizing note present (予's `stand_in: "予様"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (Dan'a'yo-internal coinage vs each language's own real independent word for "beforehand," cross-referenced with [[乳押]]'s same coinage pattern). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 予習.
