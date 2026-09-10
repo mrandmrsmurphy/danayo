@@ -3110,3 +3110,34 @@ Next: 今年.
 Already in excellent shape. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already outstanding (honest treatment of Korean 금년 formal vs. native 올해 everyday, Vietnamese kim niên compositional vs. native năm nay). Just refreshed `date-last-perfect: 2026-09-10`.
 
 Next: 今日.
+
+### 2026-09-10, iteration 4176 — [[words/今日|今日]]
+Found and fixed a real content bug: `mandarin`/`cantonese` were "jīntiān"/"gam1 tin1" — both using 天's own tiān/tin1 reading (the alias 今天's pronunciation) rather than 日's own rì/jat6, corrected to the headword's own compositional jīnrì/gam1 jat6. Fixed relative-link paths in Notes (missing `../` prefix, raw-markdown-link citations upgraded to wikilinks). Found and fixed a missing-citation bug: 今日 was entirely absent from `今(char).md`'s Words list — added; `日(char).md`'s own citation was already correct. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今日安.
+
+### 2026-09-10, iteration 4177 — [[words/今日安|今日安]]
+Found and fixed a missing-citation bug: 今日安 was entirely absent from `今(char).md`'s Words list despite being present on `日(char).md` and `安.md` — added. `characters:` confirmed correct (bare 安, no conflicting words/安.md exists), no homophone collision. Content already good and consistent with the sibling greeting family (matches 今昼安's own mandarin/cantonese/japanese/korean/vietnamese values exactly, both being general-purpose "hello" greetings for unknown time-of-day). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今昼安.
+
+### 2026-09-10, iteration 4178 — [[words/今昼安|今昼安]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Upgraded a bare-format citation on `今(char).md` (adjusted gloss to "good day," matching the word's own stored english field); `昼.md`'s and `安.md`'s own citations were already correct. `characters:` confirmed correct (bare 昼, no conflicting words/昼.md exists). `kwin: false` confirmed correct. No homophone collision. Content already good (Dan'a'yo-internal coinage, honest documentation that no source language has a real compound built from these same three characters). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今晩安.
+
+### 2026-09-10, iteration 4179 — [[words/今晩安|今晩安]]
+**Major finding and self-correction**: discovered that [[今夜安]] (processed last iteration, 4174) has its own `english: good night` — a distinct bedtime/parting farewell — but had been mistakenly filled with "good evening" arrival-greeting equivalents (晚上好/こんばんは/chào buổi tối) in that pass. Went back and corrected 今夜安 properly to the real "good night" farewell terms in each language: mandarin 晚安 (matching its own already-stored alias), cantonese maan5 on1, japanese おやすみなさい, korean 안녕히 주무세요 (a genuinely distinct sleep-specific farewell, unlike the general-purpose 안녕하세요 used by sibling greetings), vietnamese chúc ngủ ngon; also fixed its citation gloss on `今(char).md` from "good evening" to "good night." This resolves what looked like a same-meaning duplication between 今夜安 and today's word — they're a deliberate arrival/departure pair, like English "good evening" vs. "good night."
+For 今晩安 itself ("good evening," arrival greeting): fixed `pos` (名詞→感詞, matching sibling greetings), `vietnamese` (generic "xin chào"→evening-specific chào buổi tối), normalized `mandarin` from bare hanzi to pinyin, removed dangling empty fields, added `aliases: [晚上好]`. Found and fixed a missing-citation bug on `今(char).md` (entirely absent) and upgraded a raw-markdown-link citation on `晩(char).md` to a proper wikilink. `characters:` confirmed correct (bare 安, no conflicting words/安.md; 晩 already disambiguated, conflicting words/晩.md exists). `kwin: false` confirmed correct. No homophone collision. Stamped `date-last-perfect: 2026-09-10` on both words.
+
+Next: 今月.
+
+### 2026-09-10, iteration 4180 — [[words/今月|今月]]
+Found and fixed a real content bug: `korean` was a malformed comma-joined duplicate value ("이번달,금월"); split apart, keeping the formal Sino-Korean 금월 as the primary field (matching the [[今年]] convention) and moving native 이번달 into Notes. Filled a missing `vietnamese` field (kim nguyệt, honest compositional, noting native tháng này as the everyday alternative), added missing `kwin`/`date-last-perfect` fields entirely, wrote fuller Notes. Found and fixed a missing-citation bug on `今(char).md`; `月(char).md`'s own citation was already correct. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今朝.
+
+### 2026-09-10, iteration 4181 — [[words/今朝|今朝]]
+Fixed missing disambiguation on both constituents (bare `今`/`朝`→`今 (char)`/`朝 (char)`, since both words/今.md and words/朝.md exist), normalized inline-flow `aliases: [今晨]` to block-list format, removed dangling empty `hsk_level`/`swadesh`. Found and fixed a missing-citation bug on `今(char).md`; `朝(char).md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (previously-fixed 朝(char) malformed-vietnamese-list bug still holds, honest tone-distinction between triêu/triều). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今朝安.

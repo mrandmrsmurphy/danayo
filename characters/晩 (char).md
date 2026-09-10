@@ -46,7 +46,7 @@ boundedness:
 - [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) · [ㄇㄛㄋ](syllables/ㄇㄛㄋ.md) · [[Lookup/CC/initials/聲 微|ɱ]] [[Lookup/CC/finals/韻 元合|ʉɐn]]
 
 ## Word
-- <ruby>[今晩安](/words/今晩安.md)<rt>ㄍㄧㄇㄇㄛㄋ·ㄚㄋ</rt></ruby> - good evening
+- <ruby>[[今晩安]]<rt>ㄍㄧㄇㄇㄛㄋ·ㄚㄋ</rt></ruby> "good evening"
 - <ruby>[晩飯](/words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby> - dinner
 - <ruby>[晩餐](/words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> - supper
 ## Chengyu
