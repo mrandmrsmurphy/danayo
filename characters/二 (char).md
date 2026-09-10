@@ -51,7 +51,7 @@ boundedness: 80
 - <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two"
 - <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
 - [[二百]] - two hundred
-- [[二千]] - two thousand
+- <ruby>[[二千]]<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby> "two thousand"
 - <ruby>[[二万]]<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby> "twenty thousand"
 - [[二日]] - second day of the month
 - [[二月]] - February
@@ -65,6 +65,10 @@ boundedness: 80
 - <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
 - <ruby>[[二十二日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twenty-second day of the month"
 - <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
+- <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
+- <ruby>[[二十六日]]<rt>ㄋㄧㄜㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby> "twenty-sixth day of the month"
+- <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
+- <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 日]]

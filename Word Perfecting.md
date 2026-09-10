@@ -2610,3 +2610,23 @@ Next: 二十五日.
 Same bug pattern (6th instance): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十/五 (only 日 had it). Fixed identically: vietnamese ngày hai mươi lăm (using the irregular lăm final-digit form Vietnamese requires for 5 from 15+ onward, not the plain năm), added citations to all three character pages. `kwin: false` confirmed via 4-way AND-rule (五 true, 二/十/日 all false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 二十八日.
+
+### 2026-09-10, iteration 4076 — [[words/二十八日|二十八日]]
+Same bug pattern (7th instance): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十/八 (only 日 had it). Fixed identically, preserved the existing "last day of February in common years" content note. `kwin: false` confirmed via 4-way AND-rule (all four independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十六日.
+
+### 2026-09-10, iteration 4077 — [[words/二十六日|二十六日]]
+Same bug pattern (8th instance), with a variant: `六(char).md` and `日(char).md` already had this word cited, but `二(char).md`/`十(char).md` did not — added to those two only. Fixed disambiguation, vietnamese ngày hai mươi sáu, date, duplicate pos/品詞, japanese-as-list, thin Notes — same template as the rest of the cluster. `kwin: false` confirmed via 4-way AND-rule (all four independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十四日.
+
+### 2026-09-10, iteration 4078 — [[words/二十四日|二十四日]]
+Same bug pattern (9th instance): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, thin Notes, citations missing from 二/十/四 (only 日 had it). Fixed identically; preserved and expanded the existing japanese-irregularity note (にじゅうよっか, using the native counter よっか rather than compositional にじゅうしにち, consistent with bare [[四日]]'s own irregularity). `kwin: false` confirmed via 4-way AND-rule (all four independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`. Note: 二十日 (the bare 20th, no ones-digit) is still due next — the 二十N日 cluster isn't quite closed out yet.
+
+Next: 二十日.
+
+### 2026-09-10, iteration 4079 — [[words/二十日|二十日]]
+Final instance (10th) of the 二十N日 bug pattern: bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese-as-list, thin Notes, citations missing from 二/十 (only 日 had it). Fixed identically; preserved and expanded the existing japanese-irregularity note (はつか, one of Japanese's irregular native day-counting readings alongside ついたち...とおか/よっか). `kwin: false` confirmed via 3-way AND-rule (all three independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`. **This genuinely closes out the entire 二十N日 date-word cluster** (二十日, 二十一日 through 二十九日 — 10 words total, all now fixed); next word (二千) moves to a different compound entirely.
+
+Next: 二千.

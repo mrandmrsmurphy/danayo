@@ -65,3 +65,4 @@ boundedness: 75
 ## Words
 - <ruby>[[四川]]<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby> "Sichuan"
 - [[四面]] "four cardinal directions, all sides, all around"
+- <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
