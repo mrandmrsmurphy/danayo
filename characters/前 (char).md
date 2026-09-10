@@ -53,6 +53,7 @@ boundedness: 100
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[前]]<rt>ㄐㄝㄋ</rt></ruby> "front; before" (stand-in for 前)
+- <ruby>[[以前]]<rt>ㄧㄐㄝㄋ</rt></ruby> "before; ago"
 - <ruby>[[目前]]<rt>ㄇㄨㄎㄐㄝㄋ</rt></ruby> "present; right before one's eyes"
 - <ruby>[[前置詞]]<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
 - <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄛㄨ</rt></ruby> "front and rear; before and after; from beginning to end"

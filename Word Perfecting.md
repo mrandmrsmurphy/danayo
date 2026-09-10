@@ -3266,3 +3266,28 @@ Next: 以.
 Fixed a broken Homophones callout (a stray blank line was breaking the Obsidian callout syntax, splitting the [[擬]] line out of the box). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令). Re-verified the genuine homophone with [[擬]] via anchored grep, confirming several character-only matches (疑/飴/頤/異) aren't real word-level collisions. `characters:` confirmed correct, citation on `以 (char).md` already correct. Content already outstanding (thorough instrumental-case comparison chart, honest note on 以→用 diachronic shift in spoken Mandarin). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 以便.
+
+### 2026-09-10, iteration 4207 — [[words/以便|以便]]
+Normalized inline-flow `characters:` to block-list format, removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. `characters:` otherwise confirmed correct (both require disambiguation, conflicting words/便.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (以(char) true, 便(char) false), no homophone collision. Content already good (attested Vietnamese để purpose-clause conjunction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 以前.
+
+### 2026-09-10, iteration 4208 — [[words/以前|以前]]
+Normalized inline-flow `characters:` to block-list format, removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. Found and fixed a missing-citation bug: 以前 was entirely absent from `前(char).md`'s Words list — added; `以(char).md`'s own citation was already correct. `kwin: true` confirmed (both constituents independently true), no homophone collision. Content already good (consistent 以-family pattern with 以後/以上). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 以後.
+
+### 2026-09-10, iteration 4209 — [[words/以後|以後]]
+Already in excellent shape. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (以(char) true, 後(char) false), no homophone collision. Content already good (honest note on modern Vietnamese preferring native sau đó/sau này over classical dĩ hậu). Just refreshed `date-last-perfect: 2026-09-10`. This closes out the entire 以-prefixed word cluster.
+
+Next: 仮借.
+
+### 2026-09-10, iteration 4210 — [[words/仮借|仮借]]
+Fixed a missing `korean` field entirely (filled 가차, compositional, and confirmed as the real standard Korean term for this linguistic concept). Removed dangling empty `hsk_level`/`swadesh`, added missing `kwin`/`date-last-perfect`, wrote missing Notes explaining the 六書 phonetic-loan concept plus legitimizing-note phrasing (仮's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 仮, no conflicting words/仮.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仮定.
+
+### 2026-09-10, iteration 4211 — [[words/仮定|仮定]]
+**Real content bug found and fixed on both this word and `仮.md`'s own character page**: `仮(char).md` itself had stored `mandarin: fǎn`/`cantonese: faan2` — the readings of the unrelated character 反, not 假/仮's real jiǎ/gaa2 (confirmed by cross-checking against its own internally-consistent korean 가/諺文 가/注音 ㄍㄚ, all pointing to "ga," and against sibling word [[仮借]]'s own already-correct cantonese gaa2 ze3) — corrected on the character page itself. This word's own `cantonese` had inherited the same wrong faan2 compositionally; corrected to gaa2 ding6. `characters:` confirmed correct (bare 定, no conflicting words/定.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true — unaffected by the mandarin/cantonese fix since kwin only compares 諺文/korean), no homophone collision. Stamped `date-last-perfect: 2026-09-10` on both files.
+
+Next: 仮面.
