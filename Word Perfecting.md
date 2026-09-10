@@ -3291,3 +3291,23 @@ Next: 仮定.
 **Real content bug found and fixed on both this word and `仮.md`'s own character page**: `仮(char).md` itself had stored `mandarin: fǎn`/`cantonese: faan2` — the readings of the unrelated character 反, not 假/仮's real jiǎ/gaa2 (confirmed by cross-checking against its own internally-consistent korean 가/諺文 가/注音 ㄍㄚ, all pointing to "ga," and against sibling word [[仮借]]'s own already-correct cantonese gaa2 ze3) — corrected on the character page itself. This word's own `cantonese` had inherited the same wrong faan2 compositionally; corrected to gaa2 ding6. `characters:` confirmed correct (bare 定, no conflicting words/定.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true — unaffected by the mandarin/cantonese fix since kwin only compares 諺文/korean), no homophone collision. Stamped `date-last-perfect: 2026-09-10` on both files.
 
 Next: 仮面.
+
+### 2026-09-10, iteration 4212 — [[words/仮面|仮面]]
+Confirmed the same inherited-wrong-cantonese bug found on [[仮定]]: `cantonese` was faan2 min6 (反's reading) instead of gaa2 min6 (仮's own now-corrected reading) — fixed. Merged a non-standard `## Etymology` heading into `## Notes`, removed dangling empty `hsk_level`/`swadesh`. `characters:` confirmed correct (bare 面, no conflicting words/面.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (already correctly resolved in a previous pass), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 仮-prefixed word cluster — the wrong-cantonese bug was found on 2 of 3 compounds (仮定, 仮面; 仮借 was already correct).
+
+Next: 仰望.
+
+### 2026-09-10, iteration 4213 — [[words/仰望|仰望]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. Added legitimizing-note phrasing (仰's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 仰, no conflicting words/仰.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (仰(char) false overrides 望(char)'s own true), no homophone collision. Content already good (attested ぎょうぼう/ngưỡng vọng). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仲介.
+
+### 2026-09-10, iteration 4214 — [[words/仲介|仲介]]
+Already in excellent shape. Verified the `#cranberry` tag: both 仲's and 介's own `stand_in` fields genuinely point to this exact compound, so transitivity holds and the tag is legitimate (double-checked after briefly second-guessing it against an unrelated memory of 介's stand_in — confirmed no conflict, that was 紹's own stand_in from a different word). `characters:` confirmed correct (bare 仲, no conflicting words/仲.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 仲冬.
+
+### 2026-09-10, iteration 4215 — [[words/仲冬|仲冬]]
+Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. Verified the capitalized single-item-list `vietnamese: [Trọng Đông]` format against sibling seasonal words (仲春/仲夏/仲秋 all use the identical "Trọng X" capitalized pattern) — confirmed as the vault's deliberate, consistent style for this family, not a bug; left unchanged. `characters:` confirmed correct (`冬 (char)` required, conflicting words/冬.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision.
+
+Next: 仲夏.
