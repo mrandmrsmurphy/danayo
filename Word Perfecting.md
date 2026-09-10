@@ -3421,3 +3421,23 @@ Next: 会社員.
 Fixed a spaced `mandarin` ("huì shè yuán"→"huìshèyuán"), a typo ("personel"→"personnel"), normalized inline-flow `characters:`/`aliases: [會社員]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct, all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (会/社 both false, despite 員 itself being kwin:true), no homophone collision. Content already good (honest note on everyday nhân viên công ty vs. compositional hội xã viên). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 会話.
+
+### 2026-09-10, iteration 4238 — [[words/会話|会話]]
+Already in excellent shape. `characters:` confirmed correct (both require disambiguation, conflicting words/話.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (会話文/日常会話 real usage examples, correctly-preserved -2 tone-sandhi cantonese notation). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 会議.
+
+### 2026-09-10, iteration 4239 — [[words/会議|会議]]
+Fixed a missing `kwin` field entirely (added false, confirmed via AND-rule), normalized inline-flow `characters:`/`aliases: [會議]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, wrote missing Notes (merged from a non-standard `## Etymology` heading), explicitly cross-referencing the Korean-only near-homophone [[会意]]. `characters:` confirmed correct (bare 議, no conflicting words/議.md exists), both character-page citations already correctly ruby-formatted. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 会-prefixed word cluster.
+
+Next: 伝播.
+
+### 2026-09-10, iteration 4240 — [[words/伝播|伝播]]
+Fixed a malformed comma-joined `mandarin` (an incorrect tone variant crammed in alongside the correct chuánbō) — trimmed to the single correct value. Filled a missing `vietnamese` field (truyền bá, directly attested and extremely common). Added legitimizing-note phrasing (伝's own `stand_in` is this exact compound), wrote fuller Notes. `characters:` confirmed correct (bare 伝, no conflicting words/伝.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伝統.
+
+### 2026-09-10, iteration 4241 — [[words/伝統|伝統]]
+Normalized inline-flow `characters:`/`aliases: [傳統]` to block-list format, removed dangling empty `swadesh`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct (bare 統, no conflicting words/統.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伝(char) false overrides 統(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伝説.
