@@ -3246,3 +3246,23 @@ Next: 令和.
 Fixed duplicate `pos`/`品詞` (kept pos), a missing `kwin` field entirely (added false, confirmed via AND-rule), and broken relative-link paths in Notes (missing `../` prefix). Found and fixed a missing-citation bug on `令(char).md`; `和.md`'s own citation was already correct. `characters:` confirmed correct (bare 和, no conflicting words/和.md exists). No homophone collision. Content already outstanding (traced the etymology through the Man'yōshū foreword back to Zhang Heng's 歸田賦, correctly kept capitalized as a genuine proper noun/era name). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 令圄.
+
+### 2026-09-10, iteration 4203 — [[words/令圄|令圄]]
+Found and fixed a real content bug: `korean` had been set to the South-Korean 두음법칙-shifted form 영어 (coincidentally homophonic with 英語, "English") instead of the vault's standard unshifted North-Korean 령어. Explained the deliberate, correct split where mandarin/cantonese/japanese/vietnamese follow 囹圄's own real attested reading (령's alias 囹) while the Dan'a'yo-internal fields and korean follow 令's own regular identity, per the vault's alias-borrowing convention. Normalized inline-flow `characters:` to block-list format, fixed duplicate `pos`/`品詞`, added missing `date-last-perfect`, wrote missing Notes with legitimizing-note phrasing (圄's own `stand_in` is this word). Found and fixed a missing-citation bug on `令(char).md`; `圄.md`'s own citation was already correct. No homophone collision.
+
+Next: 令聞.
+
+### 2026-09-10, iteration 4204 — [[words/令聞|令聞]]
+Found and fixed the same real content bug just found on [[令圄]]: `korean` had been set to the South-Korean 두음법칙-shifted form 영문 (coincidentally homophonic with 英文, "English text") instead of the vault's standard unshifted North-Korean 령문, compositional from 令's own 령 + 聞's own 문. Removed a dangling empty `swadesh: ""`. Found and fixed a missing-citation bug on `令(char).md`; `聞 (char).md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (令(char) false overrides 聞(char)'s own true), no homophone collision. Content otherwise already excellent (previously-fixed 令(char) missing-vietnamese-readings gap still holds). Stamped `date-last-perfect: 2026-09-10`. **Watch for this same 두음법칙 bug pattern on remaining 令-compounds** (令色 due next).
+
+Next: 令色.
+
+### 2026-09-10, iteration 4205 — [[words/令色|令色]]
+Confirmed the same 두음법칙-shift bug a third consecutive time: `korean` was 영색 instead of the correct unshifted 령색. Fixed missing disambiguation (bare `令`→`令 (char)`), removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a non-standard `## Etymology` heading into `## Notes`. Upgraded a bare-format citation on `令(char).md`; `色.md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. This closes out the entire 令-prefixed word cluster — the 두음법칙 korean-field bug was confirmed on all 3 compounds checked (令圄/令聞/令色), so the whole cluster has now been fully swept for it.
+
+Next: 以.
+
+### 2026-09-10, iteration 4206 — [[words/以|以]]
+Fixed a broken Homophones callout (a stray blank line was breaking the Obsidian callout syntax, splitting the [[擬]] line out of the box). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令). Re-verified the genuine homophone with [[擬]] via anchored grep, confirming several character-only matches (疑/飴/頤/異) aren't real word-level collisions. `characters:` confirmed correct, citation on `以 (char).md` already correct. Content already outstanding (thorough instrumental-case comparison chart, honest note on 以→用 diachronic shift in spoken Mandarin). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 以便.

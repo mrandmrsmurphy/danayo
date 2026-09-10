@@ -61,8 +61,10 @@ boundedness: 85
 ## Words
 - <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"
 - <ruby>[[令和]]<rt>ㄌㄝㄫㄏ⺢</rt></ruby> "Reiwa (era)"
+- <ruby>[[令圄]]<rt>ㄌㄝㄫ·⼄</rt></ruby> "prison"
+- <ruby>[[令聞]]<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby> "good name, reputation"
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
-- [[令色]] "flattering looks; sycophantic expression"
+- <ruby>[[令色]]<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby> "flattering looks; sycophantic expression"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
