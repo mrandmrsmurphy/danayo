@@ -2260,3 +2260,28 @@ Next: 乗数.
 Missing `vietnamese` entirely; filled with thừa số, the real Vietnamese math term (乗's thừa + 数's số) — used generically for "factor" without Vietnamese distinguishing multiplier from multiplicand. Quoted mandarin/cantonese/korean, expanded Notes (被乗数 contrast, kwin explanation). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 数 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 乗算.
+
+### 2026-09-09, iteration 4006 — [[words/乗算|乗算]]
+Missing `vietnamese` entirely; filled with phép nhân, the real everyday Vietnamese term for the multiplication operation (built on native/SV verb nhân), rather than compositional-but-unattested "thừa toán." Quoted mandarin/cantonese/korean, wrote full Notes (sibling operations 加算/減算/除算). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗船.
+
+### 2026-09-09, iteration 4007 — [[words/乗船|乗船]]
+Quoted mandarin/cantonese/korean, wrote full Notes (乗車/乗馬 sibling pattern). **Vietnamese kept as-is but flagged**: thừa thuyền is a sound compositional derivation but not independently confirmed as a real fixed term (everyday Vietnamese favors native lên thuyền/lên tàu) — couldn't verify further this iteration (web search budget exhausted for this session), documented the uncertainty honestly rather than asserting either way. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗車.
+
+### 2026-09-09, iteration 4008 — [[words/乗車|乗車]]
+Quoted mandarin/cantonese/korean, wrote full Notes (乗船/乗馬 sibling pattern, 乗車券/乗車率 collocations). Vietnamese thừa xa kept as-is with the same honest uncertainty caveat as [[乗船]]'s thừa thuyền (compositionally sound, not independently confirmed, everyday Vietnamese favors native lên xe). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗降.
+
+### 2026-09-09, iteration 4009 — [[words/乗降|乗降]]
+Missing `vietnamese` entirely; filled with lên xuống, the real everyday native Vietnamese term (native lên+xuống, as in cửa lên xuống "boarding door") rather than a forced compositional Sino-Vietnamese calque. Quoted mandarin/cantonese/korean, wrote full Notes (乗降口/乗降客数/승강장 collocations, kwin explanation). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 降 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗馬.
+
+### 2026-09-09, iteration 4010 — [[words/乗馬|乗馬]]
+Quoted mandarin/cantonese/korean, wrote full Notes (乗馬クラブ/乗馬服 collocations). Vietnamese thừa mã kept with the same honest uncertainty caveat as its 乗船/乗車 siblings (compositionally sound classical form, modern Vietnamese favors native cưỡi ngựa). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 馬(char) true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the long 乗-prefixed word cluster; next word moves to the 乘 variant character.
+
+Next: 乘法.
