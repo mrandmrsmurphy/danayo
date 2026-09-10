@@ -75,7 +75,7 @@ boundedness: 75
 4. [[男人]]
 5. [[個人]]
 6. [[隣人]]
-7. [[人手]]
+7. <ruby>[[人手]]<rt>ㄋㄧㄋㄙ⼜</rt></ruby> "manpower; person's hand"
 8. [[盲人]]
 9. <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
 10. [[軍人]]
@@ -84,7 +84,7 @@ boundedness: 75
 13. [[人等]]
 14. [[奄人]]
 15. [[病人]]
-16. [[人工]]
+16. <ruby>[[人工]]<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby> "artificial; man-made"
 17. [[女人]]
 18. [[工人]]
 19. [[証人]]
@@ -100,7 +100,7 @@ boundedness: 75
 29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
 30. [[人間]]
 31. [[別人]]
-32. [[人望]]
+32. <ruby>[[人望]]<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby> "popularity, being well-regarded"
 33. [[人類]]
 34. [[此人]]
 35. [[人類学]]

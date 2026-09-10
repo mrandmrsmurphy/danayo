@@ -3000,3 +3000,28 @@ Next: 人員.
 Wrote missing Notes section entirely (word had none). Fixed mis-capitalized vietnamese (Nhân viên→nhân viên), removed dangling empty `swadesh`/`aliases` fields, added missing `人员` simplified-variant alias and `date-last-perfect`. Added legitimizing-note phrasing (員's own `stand_in` is this exact compound). Upgraded a bare numbered-list citation on `人(char).md` (item 28) to proper ruby format; `員.md`'s own citation was already correct. `characters:` confirmed correct (bare 員, no conflicting words/員.md exists). `kwin: false` confirmed via AND-rule (人(char) false overrides 員(char)'s own true). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 人工.
+
+### 2026-09-10, iteration 4154 — [[words/人工|人工]]
+Fixed missing disambiguation (bare `人`→`人 (char)`, since `words/人.md` exists), mis-capitalized vietnamese (Nhân công→nhân công), removed dangling empty `swadesh`/`aliases`. Wrote missing Notes section, honestly flagging that Vietnamese nhân công is a partial semantic match ("labor/workforce" rather than exactly "artificial"). Upgraded a bare numbered-list citation on `人(char).md` (item 16); `工.md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (人(char) false overrides 工(char)'s own true). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人手.
+
+### 2026-09-10, iteration 4155 — [[words/人手|人手]]
+Fixed a missing `kwin` field entirely (added `kwin: false`, confirmed via AND-rule — both constituents independently false). Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Upgraded a bare numbered-list citation on `人(char).md` (item 7); `手(char).md`'s own citation was already correct. `characters:` confirmed correct, no homophone collision. Content already excellent (attested nhân thủ/인수). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人数.
+
+### 2026-09-10, iteration 4156 — [[words/人数|人数]]
+Already in excellent shape. `characters:` confirmed correct (bare 数, no conflicting words/数.md exists), `kwin: false` confirmed via AND-rule (人(char) false overrides 数(char)'s own true). Both character-page citations already correctly ruby-formatted, no homophone collision. Content already outstanding (thorough contrast with 人口/人員, rendaku explanation for にんずう, honest note on vernacular số người preference in Vietnamese). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 人望.
+
+### 2026-09-10, iteration 4157 — [[words/人望|人望]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Upgraded a bare numbered-list citation on `人(char).md` (item 32, used the fuller "popularity" gloss instead of the bare literal calque); `望.md`'s own citation was already correct. `characters:` confirmed correct (bare 望, no conflicting words/望.md exists), `kwin: false` confirmed via AND-rule (人(char) false overrides 望(char)'s own true), no homophone collision. Content already excellent (attested nhân vọng, contrast with [[声望]], the previously-fixed 声望 vietnamese bug still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人民.
+
+### 2026-09-10, iteration 4158 — [[words/人民|人民]]
+Reworded the existing informal stand-in note into the standard legitimizing-note phrasing (matching the established convention), and added explicit `kwin` AND-rule reasoning and homophone-check statement that were implied but not stated. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (人(char) false overrides 民(char)'s own true), no homophone collision. Content already outstanding (the honest, well-researched treatment of 인민's North Korean political connotation vs. neutral 국민). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人生.
