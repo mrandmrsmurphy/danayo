@@ -2500,3 +2500,28 @@ Next: 予様.
 Already fully correct from a prior pass: legitimizing note present (予's `stand_in: "予様"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (Dan'a'yo-internal coinage vs each language's own real independent word for "beforehand," cross-referenced with [[乳押]]'s same coinage pattern). Just refreshed `date-last-perfect: 2026-09-10`.
 
 Next: 予習.
+
+### 2026-09-10, iteration 4054 — [[words/予習|予習]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content exceptional — this page definitively confirms the 予/豫/預 cognate-reading-borrowing pattern I'd been navigating cautiously across [[予定]]/[[予州]] (예/여 substitution in Korean, jyu6/jyu4 substitution in Cantonese), and the deliberately-left-blank Vietnamese field is well-justified (no fixed compound; descriptive phrase used instead), not an omission. Just refreshed `date-last-perfect: 2026-09-10`. This closes out the 予-prefixed word cluster; next word begins a new initial (争).
+
+Next: 争端.
+
+### 2026-09-10, iteration 4055 — [[words/争端|争端]]
+Substantially incomplete: `date-last-perfect` and `vietnamese` both entirely missing, and Notes were absent (just the homophone callout with no explanation). Wrote full Notes. Filled vietnamese with tranh đoan, using 争's real Sino-Vietnamese reading tranh — not the chanh/danh currently stored on `争.md`'s own character page, which look like a separate bug flagged for later. `characters:` confirmed correct (both bare, no conflicting words/*.md), `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, and the real homophone with [[長短]] confirmed reciprocally documented (already fixed on that page's own turn). Stamped `date-last-perfect: 2026-09-10`. This closes out the 争-prefixed word cluster; next word begins a new initial (事).
+
+Next: 事.
+
+### 2026-09-10, iteration 4056 — [[words/事|事]]
+Quoted cantonese field. Polished the self-legitimizing note phrasing to match the standard convention (same pattern as [[之]]'s own fix earlier this sweep). `kwin: false` confirmed trivially, citation correct, and the real homophone with [[字]] confirmed reciprocally documented (already fixed on that page's own turn). Content already excellent (事/物 processual-vs-object contrast, correlative row generation, MC affricate-devoicing kwin explanation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事件.
+
+### 2026-09-10, iteration 4057 — [[words/事件|事件]]
+Substantially incomplete: `date-last-perfect` missing, dangling empty `hsk_level`/`swadesh`/`aliases`, no Notes, wrong vietnamese capitalization (Sự kiện→sự kiện, common noun), and a minor `characters:` indentation inconsistency (normalized to match vault style). Wrote full Notes including a missing legitimizing note (件's own `stand_in: 事件`, not previously documented). Verified the unusual cantonese `si6 gin6-2` tone-sandhi notation is a legitimate, established vault convention (confirmed via other `-2`-suffixed cantonese fields elsewhere), not a bug. `characters:` otherwise confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事典.
+
+### 2026-09-10, iteration 4058 — [[words/事典|事典]]
+Found and fixed a missing legitimizing note: 典's own `stand_in: "事典"` wasn't documented reciprocally on this page — added. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages (including sibling 百科事典), and the real homophone with [[字典]] confirmed reciprocally documented (a genuine minimal pair distinguishing topic/fact-organized vs. character-organized reference works). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事務所.
