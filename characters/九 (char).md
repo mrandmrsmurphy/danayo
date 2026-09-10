@@ -56,13 +56,13 @@ boundedness: 75
 - [[words/九日]] - ninth day of the month
 - [[九州]] - biggest Japanese island
 - [[九泉]] - nether world
-- [[九天]] - Highest Heaven
-- [[九卿]] - the Nine Ministers
+- <ruby>[[九天]]<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby> "the Ninth Heaven"
+- <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
 - [九經](../words/九経.md) - the nine classics
 - [[十九]] - nineteen 
-- [[九十]] - ninety 
+- <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 - [[九族]] - nine generations
-- [[九官鳥]] - starling
+- <ruby>[[九官鳥]]<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby> "common hill myna"
 - [[九尾狐]] - nine-tailed fox
 - [[九州]] - Kyushu
 

@@ -74,7 +74,7 @@ boundedness: 75
 - [[words/六十]] - 60
 - [[七十]] - 70
 - [[八十]] - 80
-- [[九十]] - 90
+- <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 ## Chengyu
 - [[十人不滅]] - (Biblical) "For ten I will not destroy"
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"

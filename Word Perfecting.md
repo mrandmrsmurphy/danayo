@@ -2305,3 +2305,23 @@ Next: 九九.
 Substantially incomplete: `characters:` was a malformed scalar string instead of a YAML list, `羅馬字` was un-doubled (kyu, inconsistent with the doubled 諺文 큐큐/注音 ㄎ⼜ㄎ⼜) — fixed to kyukyu, `date-last-perfect` and `vietnamese` both entirely missing, duplicate `pos`/`品詞`, and no Notes at all. Filled vietnamese with bảng cửu chương (the real, universally-known Vietnamese term for the multiplication table) rather than a literal cửu-cửu reduplication. Also upgraded a bare-format citation on `九(char).md` to proper ruby format. Wrote full Notes on the reduplication naming pattern (九九八十一 chant, 구구단). `kwin: false` confirmed (inherits 九's own mismatch in both syllables). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 九十.
+
+### 2026-09-09, iteration 4015 — [[words/九十|九十]]
+Found a missing disambiguation: `characters:` had bare `十` despite `十 (char)` (and a conflicting `words/十.md`) existing — fixed. Also found and fixed empty-string `vietnamese`/`swadesh` fields (vietnamese filled with cửu thập, the classical Sino-Vietnamese numeral, distinct from everyday native chín mươi), duplicate `pos`/`品詞`, missing `date-last-perfect`, and no Notes at all. Upgraded bare-format citations on BOTH character pages (九(char) and 十(char)) to proper ruby format. `kwin: false` confirmed via AND-rule (九(char) false, 十(char) true). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 九卿.
+
+### 2026-09-10, iteration 4016 — [[words/九卿|九卿]]
+Missing `vietnamese` entirely; filled with cửu khanh, a real attested classical Sino-Vietnamese term (Vietnam's own Nguyễn-dynasty imperial bureaucracy borrowed the same "Nine Ministers" concept directly from the Chinese model). Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `九(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (Zhou/Han/later-dynasty compositional variation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九天.
+
+### 2026-09-10, iteration 4017 — [[words/九天|九天]]
+Content already excellent from a prior pass (Daoist Nine Heavens cosmology, Vietnamese Cửu Thiên compositional parallel, kwin explanation). Found and fixed one gap: `九(char).md`'s own citation was still bare-format — upgraded to proper ruby. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九官鳥.
+
+### 2026-09-10, iteration 4018 — [[words/九官鳥|九官鳥]]
+Missing `vietnamese` entirely; filled with yểng, the real standard native Vietnamese name for the hill myna, rather than a forced Sino-Vietnamese compositional calque (cửu quan điểu, unattested) — concrete animal names typically carry native terms across the sphere. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `九(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (官 true, 九/鳥 both false), no homophone collision. Content already excellent (九品 official-rank etymology theory). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九尾狐.
