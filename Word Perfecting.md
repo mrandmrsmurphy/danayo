@@ -2135,3 +2135,23 @@ Next: 主席.
 Substantially incomplete: `date-last-perfect` entirely absent, dangling empty `swadesh`/`aliases` fields, and no real `## Notes` — just a stray non-standard homophone line. `characters:` confirmed correct (bare 主/席, no conflicting words/*.md; 席's own `stand_in` is a different word, 坐席, so no legitimizing note applies here). `kwin: true` confirmed via AND-rule. Reformatted the homophone claim into the standard `>[!warning] Homophones` callout and verified it's real via anchored grep (both 主席 and [[朱錫]] share 注音 ㄐㄨㄙㄝㄎ). Wrote full Notes (国家主席 head-of-state usage, North Korean 주석 as a historical head-of-state title, Vietnamese Chủ tịch nước parallel). **Flagged for later**: 朱錫.md's own side of this homophone still uses a non-standard callout format and carries a stray gibberish line ("This very K word is necessary because 'seg' is so full") — awaiting its alphabetical turn. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 主幹.
+
+### 2026-09-09, iteration 3981 — [[words/主幹|主幹]]
+Already fully correct from a prior pass: legitimizing note present (幹's `stand_in: 主幹` correctly documented), `characters:` confirmed correct, `kwin: true` confirmed via AND-rule, citations correctly ruby-formatted on both character pages, no homophone collision. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 主従.
+
+### 2026-09-09, iteration 3982 — [[words/主従|主従]]
+Found: `date-last-perfect` entirely absent, `vietnamese` field entirely missing, mandarin/cantonese/korean unquoted, and caught my own recurring korean-hanja-instead-of-Hangul transcription slip on the first Edit attempt (corrected on retry). Filled vietnamese with chủ tớ — the real, everyday native+SV idiom for "master and servant" (quan hệ chủ tớ), preferred over the compositional-but-unattested chủ tùng. `characters:` confirmed correct (従's own `stand_in` is itself, not this compound — so no legitimizing note needed here despite the 主-compound cluster pattern). `kwin: true` confirmed via AND-rule. Citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主意.
+
+### 2026-09-09, iteration 3983 — [[words/主意|主意]]
+Found two real bugs: `kwin` field entirely missing from frontmatter (added `false`, via AND-rule: 主 true + 意 false = false), and a citation inconsistency on `主.md` — its 主意 entry used rt `ㄐㄨ·ㄧ` while the word's own stored `注音` and `意.md`'s own citation both correctly use `ㄐㄨ·ㄜ`; fixed `主.md`'s citation to match. `characters:` confirmed correct (both bare, no conflicting words/*.md). Content already excellent (the 主意/注意 homophone pair thoroughly cross-explained, cross-strait Mandarin tone split, Korean's identical collision). No other homophone collisions beyond the already-documented 注意. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主掌.
+
+### 2026-09-09, iteration 3984 — [[words/主掌|主掌]]
+Fixed duplicate `pos`/`品詞` field and quoted mandarin/cantonese/korean (self-caught a transcription slip mid-edit: the korean field was already correct Hangul 주장, not hanja as I first mistyped in old_string). `characters:` confirmed correct (bare 主/掌, no conflicting words/*.md). `kwin: true` confirmed via AND-rule. Citations correct on both character pages. Verified no Dan'a'yo-level homophone collision (注音 ㄐㄨㄐㄚㄫ unique) — the Korean-only 主張/主掌 collision already well-documented in prose is real but Korean-specific, not a Dan'a'yo pair (主張 doesn't even exist as a word file yet). Content otherwise already excellent (周禮 citation). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主教.
