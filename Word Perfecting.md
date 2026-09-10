@@ -2935,3 +2935,28 @@ Next: 亥月.
 Already in excellent shape. `characters:` confirmed correct (bare `亥` is right, no conflicting words/亥.md exists). `japanese: いつき` verified as correct against the sibling zodiac-month native-kun+kun compound pattern (丑月→うしつき, 未月→ひつじつき, no の inserted) — not a bug. `kwin: false` confirmed via AND-rule (亥(char) true, 月(char) false). Both character-page citations (亥.md, 月(char).md) already correctly ruby-formatted. No homophone collision (注音 ㄏㄚㄧ·⼔ㄊ unique). Just refreshed `date-last-perfect: 2026-09-10`.
 
 Next: 亦.
+
+### 2026-09-10, iteration 4141 — [[words/亦|亦]]
+Removed dangling empty `aliases` field. Added the missing self-referential "Legitimizing note" phrasing (亦(char)'s own `stand_in` is this exact word, itself), matching the exact established wording pattern from 事/于/之, plus a short usage example. `characters:` confirmed correct (亦 (char) required, since words/亦.md itself conflicts with a bare filename). `kwin: false` self-consistent (single-character word). Noted a 注音-level match with 厄(char) but no words/厄.md exists (厄's own stand_in is 災厄, not itself) so this isn't a real word-level homophone collision — not documented as one. Citation on 亦(char).md already correct. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亨通.
+
+### 2026-09-10, iteration 4142 — [[words/亨通|亨通]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added the missing legitimizing-note phrasing (亨's own `stand_in` is this exact compound; 通's own `stand_in` is itself, so transitivity fails and #cranberry doesn't apply). `characters:` confirmed correct (bare `亨` is right, no conflicting words/亨.md exists). `kwin: false` confirmed via AND-rule (亨 false overrides 通(char)'s own true). Both character-page citations already correctly ruby-formatted. No homophone collision. Content already excellent (attested Vietnamese hanh thông blessing usage, genuine Japanese homophone cross-reference with 交通 noted). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 享受.
+
+### 2026-09-10, iteration 4143 — [[words/享受|享受]]
+Wrote missing Notes section entirely (word had none). Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields, added missing `date-last-perfect`. Added legitimizing-note phrasing (享's own `stand_in` is this exact compound; 受's own `stand_in` is [[接受]], so transitivity fails and #cranberry doesn't apply). `characters:` confirmed correct (bare 享/受, no conflicting words/享.md or words/受.md exist). `kwin: false` confirmed via AND-rule (享(char) true, 受(char) false). Both character-page citations already correctly ruby-formatted. No homophone collision. Filled reasoning for already-good hưởng thụ/きょうじゅ fields. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 京城.
+
+### 2026-09-10, iteration 4144 — [[words/京城|京城]]
+Fixed unspaced cantonese (ging1sing4→ging1 sing4), removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added legitimizing-note phrasing (京's own `stand_in` is this exact compound; 城's own `stand_in` is [[城郭]], so transitivity fails and #cranberry doesn't apply). `characters:` confirmed correct (bare 京/城, no conflicting words exist). `kwin: false` confirmed via AND-rule (京(char) true, 城(char) false). Both character-page citations already correctly ruby-formatted. No homophone collision. Content already excellent (Kinh thành Huế real-world reference, honest note on the Japanese-colonial Gyeongseong/Seoul toponym history). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 京畿.
+
+### 2026-09-10, iteration 4145 — [[words/京畿|京畿]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added legitimizing-note phrasing (畿's own `stand_in` is this exact compound; 京's own `stand_in` is [[京城]], not this word, so transitivity fails and #cranberry doesn't apply). `characters:` confirmed correct (bare 京/畿, no conflicting words exist). `kwin: false` confirmed via AND-rule (京(char) true, 畿(char) false). Both character-page citations already correctly ruby-formatted; cantonese already spaced. No homophone collision. Content already excellent (attested kinh kỳ, live modern-Korean Gyeonggi Province continuation noted). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亭子.
