@@ -3070,3 +3070,23 @@ Next: 仁徳.
 Fixed a stray space in `mandarin` ("rén dé"→"réndé", matching the vault's unspaced-mandarin convention). Removed dangling empty `hsk_level`/`swadesh` fields. `characters:` confirmed correct (bare 仁, no conflicting words/仁.md exists). `kwin: false` confirmed via AND-rule (both constituents independently false). Both character-page citations already correctly ruby-formatted, no homophone collision. Content already excellent (previously-fixed 徳(char) blank-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 仁慈.
+
+### 2026-09-10, iteration 4168 — [[words/仁慈|仁慈]]
+Fixed unspaced cantonese (jan4ci4→jan4 ci4), removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added legitimizing-note phrasing (仁's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 慈, no conflicting words/慈.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false). Both character-page citations already correctly ruby-formatted. Homophone with [[人事]] re-verified via anchored grep — genuine. Content already good (nhân từ real everyday term, classical-vs-Dan'a'yo scope distinction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仇恨.
+
+### 2026-09-10, iteration 4169 — [[words/仇恨|仇恨]]
+Fixed a missing `vietnamese` field entirely — filled cừu hận, a direct attested compositional match (仇's own cừu + 恨's own hận), consistent with the Notes' already-established Mandarin/Cantonese-centered pattern. Added missing `date-last-perfect`, and the standard legitimizing-note phrasing alongside the existing informal prose (仇's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 仇, no conflicting words/仇.md exists). `kwin: false` confirmed via AND-rule (仇(char) false overrides 恨(char)'s own true). Both character-page citations already correctly ruby-formatted, no homophone collision. Content already outstanding (the deliberate 仇/敵 semantic split from [[仇敵]], honest cross-linguistic divergence note). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仇敵.
+
+### 2026-09-10, iteration 4170 — [[words/仇敵|仇敵]]
+Fixed missing `korean`/`vietnamese`/`kwin`/`date-last-perfect` fields entirely (word had none of these) — filled compositionally (구적, cừu địch), both directly attested real terms. Wrote missing Notes, explicitly cross-referencing the deliberate 仇/敵 semantic split into [[仇恨]]/[[敵人]] already documented on those pages. `characters:` confirmed correct (bare 仇/敵, no conflicting words exist). `kwin: false` confirmed via AND-rule (both constituents independently false). Both character-page citations already correctly ruby-formatted, no homophone collision. Confirmed neither constituent's own `stand_in` points to this compound, so no legitimizing note applies here. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今.
+
+### 2026-09-10, iteration 4171 — [[words/今|今]]
+Fixed duplicate `pos`/`品詞` (kept pos), fixed a missing `japanese` field entirely (filled こん, 今(char)'s own first-listed on'yomi KON, per the established convention). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人 exact wording). `characters:` confirmed correct (bare `今 (char)`), citation already correct on the character page. Re-verified the genuine homophone with [[金]] via anchored grep (also confirmed 襟/禁 are character-only matches with no independent word pages, so not real word-level homophones). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今世紀.
