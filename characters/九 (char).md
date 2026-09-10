@@ -53,18 +53,17 @@ boundedness: 75
 - [[九龍]]- Kowloon
 - [[九月]] - September
 - <ruby>[[九九]]<rt>ㄎ⼜ㄎ⼜</rt></ruby> "times table; multiplication table"
-- [[words/九日]] - ninth day of the month
-- [[九州]] - biggest Japanese island
+- <ruby>[[九日]]<rt>ㄎ⼜ㄋㄧㄊ</rt></ruby> "ninth day"
 - [[九泉]] - nether world
 - <ruby>[[九天]]<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby> "the Ninth Heaven"
 - <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
 - [九經](../words/九経.md) - the nine classics
 - [[十九]] - nineteen 
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
-- [[九族]] - nine generations
+- <ruby>[[九族]]<rt>ㄎ⼜ㄐㄛㄎ</rt></ruby> "nine generations of one's family"
 - <ruby>[[九官鳥]]<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby> "common hill myna"
-- [[九尾狐]] - nine-tailed fox
-- [[九州]] - Kyushu
+- <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
+- <ruby>[[九州]]<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby> "Nine Provinces, Kyushu"
 
 ### Links
 ![[nav/Numerals]]

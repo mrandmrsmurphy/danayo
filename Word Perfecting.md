@@ -2325,3 +2325,28 @@ Next: 九官鳥.
 Missing `vietnamese` entirely; filled with yểng, the real standard native Vietnamese name for the hill myna, rather than a forced Sino-Vietnamese compositional calque (cửu quan điểu, unattested) — concrete animal names typically carry native terms across the sphere. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `九(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (官 true, 九/鳥 both false), no homophone collision. Content already excellent (九品 official-rank etymology theory). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 九尾狐.
+
+### 2026-09-10, iteration 4019 — [[words/九尾狐|九尾狐]]
+Verified japanese きゅうびこ is correct (compositional on'yomi concatenation of 九/尾/狐's own KYUU/BI/KO), not a bug, despite everyday Japanese always using the mixed on-kun 九尾の狐 (documented in Notes already, now explicitly cross-referenced to explain the frontmatter/prose divergence). Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `九(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (狐 true, 九/尾 both false), no homophone collision. Content already excellent (山海経 origin, Korean malevolent-shapeshifter tradition, Tamamo-no-Mae/殺生石 legend). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九州.
+
+### 2026-09-10, iteration 4020 — [[words/九州|九州]]
+Found and fixed a duplicate-citation bug on `九(char).md`: two separate bare-format entries for 九州 ("biggest Japanese island" and "Kyushu") — merged into one proper ruby-formatted entry. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (genuine two-referent word: Yu the Great's legendary nine provinces vs Japan's Kyushu, Korean 구주/규슈 register split). **Noted for later** (not fixed, out of alphabetical scope): `九(char).md` still has several other bare/raw-link citations (九日, 九経 via raw markdown link, 十九 with trailing space, 九族) awaiting their own turns. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九数.
+
+### 2026-09-10, iteration 4021 — [[words/九数|九数]]
+Fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese/korean. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (九(char) false, 数 true), citations correct on both character pages, no homophone collision. Content already excellent (周禮 Six Arts curriculum, full Zheng Xuan/Zheng Zhong Nine Numbers enumeration, 九章算術 lineage). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九族.
+
+### 2026-09-10, iteration 4022 — [[words/九族|九族]]
+Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `九(char).md` to proper ruby format (one of the previously-flagged pending gaps, now cleared). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (九(char) false, 族 true), no homophone collision. Content already excellent (full nine-degree kinship enumeration, 尚書 origin, 誅九族 imperial-law collective punishment doctrine). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九日.
+
+### 2026-09-10, iteration 4023 — [[words/九日|九日]]
+Substantially incomplete: `date-last-perfect` entirely absent, duplicate `pos`/`品詞`, vietnamese was a lazy placeholder ("ngày 9" mixing digit with word) rather than proper Vietnamese — fixed to mùng chín, the standard everyday way to name a date in this range. Verified japanese ここのか is correct (the real native day-counting reading, not a compositional bug — same convention as ついたち/ふつか/みっか through とおか). Expanded the bare 3-item list into full Notes (multi-sense word: calendar date / duration / Hou Yi nine-suns myth, cross-referenced with [[中秋節]]). Also upgraded an odd bare citation (`[[words/九日]]`, unusual path-prefixed link syntax) on `九(char).md` to proper ruby format — clearing another previously-flagged gap. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九月.
