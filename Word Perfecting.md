@@ -2220,3 +2220,23 @@ Next: 之.
 Found a missing self-legitimizing citation: 之 (char)'s own `stand_in: 之` (i.e. itself) wasn't cited in its own Words section at all — added it. Also fixed a raw-markdown-link-instead-of-wikilink citation for the sibling 之間 on the same page (added its missing gloss too) while there. Fixed duplicate `pos`/`品詞` and quoted cantonese. `kwin: false` trivially confirmed (single constituent). Content otherwise already excellent (attested classical usage across all five languages, MC palatal-onset mapping explanation). Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 之間.
+
+### 2026-09-09, iteration 3998 — [[words/之間|之間]]
+Fixed duplicate `pos`/`品詞` field. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (之(char) false, 間 true), citations correct on both character pages (之(char)'s own citation now correct after last iteration's fix), no homophone collision. Content already excellent (legitimizing note for 間, the frontmatter-vs-everyday-equivalent distinction for particle words, full kwin mismatch explanation). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乎.
+
+### 2026-09-09, iteration 3999 — [[words/乎|乎]]
+Already fully correct from a prior pass: `kwin: true` confirmed (single constituent), citation correct on the character page, and the 3-way homophone claim with [[呼]]/[[虎]] confirmed real via anchored grep (both still awaiting their own turn, consistent with the Notes' own claim). Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 乖巧.
+
+### 2026-09-09, iteration 4000 — [[words/乖巧|乖巧]]
+**4000th iteration of this sweep.** Already fully correct from a prior pass: legitimizing note present (乖's `stand_in: "乖巧"` correctly documented, distinct from 巧's own `stand_in: "巧妙"`), `characters:` confirmed correct (neither has a conflicting words/*.md), `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 乗.
+
+### 2026-09-09, iteration 4001 — [[words/乗|乗]]
+Found the missing-`japanese`-field bug again (4th time this sweep: 串, 中間, 乃, now 乗). Applied the established first-listed-on'yomi convention (乗(char)'s `[JOU, SHOU]` → じょう), documented in Notes. `kwin: false` trivially confirmed (single constituent). Citation correct, and the real homophone with [[升]] confirmed (still awaiting its own turn). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗務.
