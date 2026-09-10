@@ -73,8 +73,8 @@ boundedness: 80
 - <ruby>[[中学校]]<rt>ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ</rt></ruby> "middle school; junior high school"
 - <ruby>[[中庭]]<rt>ㄐㄨㄫㄉㄝㄫ</rt></ruby> "courtyard; inner garden; atrium"
 - <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"
-- [[中性子]]
-- [[中文]]
+- <ruby>[[中性子]]<rt>ㄐㄨㄫㄙㄧㄫㄐㄜ</rt></ruby> "neutron"
+- <ruby>[[中文]]<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby> "Chinese language; Chinese writing; Chinese culture"
 - [[中旬]]
 - [[中耳]]
 - [[中華民国]]

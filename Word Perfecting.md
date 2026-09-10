@@ -2030,3 +2030,23 @@ Next: 中心.
 Both character pages already cited 中心 correctly (中's own upgraded from bare to proper ruby format). All other content already correct from a prior thorough pass. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 中性子.
+
+### 2026-09-09, iteration 3960 — [[words/中性子|中性子]]
+Confirms [[中子]]'s own claim: this IS the vault's separate "neutron" word (中 "neutral" + 性 "charge/nature" + 子 "particle"), distinct from 中子's "middle son" sense — no conflict. All content already exceptionally thoroughly documented (Chadwick 1932 discovery, Japanese Meiji-Taishō scientific-coinage system, Vietnamese phonetic-borrowing choice all well documented). Upgraded two bare unformatted citations on `characters/子.md` and `characters/中 (char).md` to proper ruby format. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中指.
+
+### 2026-09-09, iteration 3961 — [[words/中指|中指]]
+No `#cranberry`. Both character pages already cited 中指 correctly. **Fixed a real cantonese bug**: `zong1 zi3` → `zung1 zi2`, the proper compositional concatenation. **Removed a false, already-disproven homophone claim**: the page asserted "same sound as [[曽子]]," but [[曽子]]'s own page had already investigated and rejected this exact claim (注音 ㄐㄜㄫㄐㄜ vs this word's ㄐㄨㄫㄐㄧㄜ, no match) — the reciprocal stale claim on this side was simply never cleaned up. Restructured into standard `## Notes` template. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中文.
+
+### 2026-09-09, iteration 3962 — [[words/中文|中文]]
+Both character pages already cited 中文 correctly (中's own upgraded from bare to proper ruby format). All other content already correct from a prior thorough pass. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中日韓越.
+
+### 2026-09-09, iteration 3963 — [[words/中日韓越|中日韓越]]
+`characters:` already correctly disambiguated/bare as appropriate. **Fixed several real bugs**: `cantonese` used non-breaking spaces (U+00A0) instead of regular spaces AND was missing 越's own syllable entirely — required a Python-based fix since the invisible NBSP characters didn't match ordinary Edit tool string matching; `mandarin` had a tone-mark placement typo (Yùe→Yuè, matching 越's own stored yuè). Fixed a missing citation on `characters/韓.md`'s Words list and the duplicate `品詞` field. Added an entirely missing `## Notes` section.
+
+Next: 中旬.
