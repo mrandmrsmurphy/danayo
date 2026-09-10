@@ -2695,3 +2695,28 @@ Next: 五十.
 **Self-correction**: caught my own error from earlier iterations in this session — I had been stating `十(char)`'s own kwin as false in several recent log entries (二十, 二十N日 series) without re-verifying; it is actually `kwin: true`. This didn't affect any of those words' own stamped kwin values (still correctly false, since 二's own kwin is false regardless), only my prose attribution of which constituent caused it — not retroactively corrected across all those entries, but flagging here for accuracy going forward. Found missing disambiguation on `characters:` (十→十(char)) and missing vietnamese (filled with ngũ thập, matching [[九十]]'s cửu thập convention). Fixed the same leading-middle-dot citation bug on `五(char).md` (2nd instance) and upgraded a bare-format citation on `十(char).md`. `kwin: true` confirmed via AND-rule (both constituents independently true — genuinely correct this time). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 五官.
+
+### 2026-09-10, iteration 4093 — [[words/五官|五官]]
+Missing `vietnamese` entirely; filled with ngũ quan (real, compositional, standard term). Quoted mandarin/cantonese/korean. Found and fixed a genuinely garbled citation on `五(char).md` (3rd leading-dot instance, but this one ALSO had a wrong rt value — ㄍㄨㄚㄋ instead of 官's real ㄍ⺢ㄋ) — corrected both issues at once. `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), no homophone collision. Content already exceptional (classical TCM five-sense-organ/五臓/element correspondence table, diagnostic-window theory, modern colloquial facial-features sense with 五官端正/五官立体 idioms). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五射.
+
+### 2026-09-10, iteration 4094 — [[words/五射|五射]]
+Fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese/korean. Found the leading-dot citation bug on BOTH `五(char).md` and, this time, `射.md`'s own citation too (not unique to 五's page as previously assumed) — fixed both. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 射 false), no homophone collision. Content already exceptional (《周禮》 Six Arts curriculum, all five named archery techniques with etymological glosses, 弓道/궁도 transmission to Japan/Korea). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五常.
+
+### 2026-09-10, iteration 4095 — [[words/五常|五常]]
+Found and fixed a genuinely garbled citation on `五(char).md` (wrong rt "ㄙ·ㄚㄫ" instead of 常's real ㄙ⼘ㄫ, plus the recurring leading dot — 5th confirmed instance). Also found and fixed a missing citation on `常.md` (五常 wasn't cited there at all). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 常 false), no homophone collision. Content already excellent (三綱五常 combined formula, Dong Zhongshu systematization, cross-referenced with [[五倫]]'s relational counterpart and [[三綱]]'s own Vietnamese tam cương ngũ thường). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五戒.
+
+### 2026-09-10, iteration 4096 — [[words/五戒|五戒]]
+Quoted mandarin/cantonese/korean. Fixed the recurring leading-dot citation bug on `五(char).md` (6th confirmed instance; the rt syllable itself was correct this time, just the stray dot). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 戒 false), citations correct on both character pages otherwise, no homophone collision. Content already exceptional (full 5-precept enumeration with Sanskrit-derived Chinese terms, Theravāda Pātimokkha monastic-code contrast, Confucian-Buddhist 五常/五戒 virtue-mapping synthesis). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五指.
+
+### 2026-09-10, iteration 4097 — [[words/五指|五指]]
+Missing `vietnamese` entirely; filled with ngũ chỉ (real compositional term). Quoted mandarin/cantonese/korean. Found and fixed another garbled citation on `五(char).md` (wrong rt ㄐㄨㄛ vs real ㄐㄧㄜ, plus the recurring dot — 7th instance). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 指 false), no homophone collision. Content already excellent (full traditional finger-naming table, 無名指 "nameless finger" cross-linguistic coinage parallel with German Ringfinger/French annulaire, Japanese 五指に入る/五指に余る idioms, 五指の別 equality-within-hierarchy metaphor). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五方.
