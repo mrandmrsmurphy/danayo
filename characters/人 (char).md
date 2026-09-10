@@ -90,7 +90,7 @@ boundedness: 75
 19. [[証人]]
 20. [[夫人]]
 21. <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
-22. [[人道]]
+22. <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
 23. [[為人]]
 24. [[無人]]
 25. [[客人]]
@@ -99,12 +99,12 @@ boundedness: 75
 28. <ruby>[[人員]]<rt>ㄋㄧㄋㄨㄋ</rt></ruby> "staff, personnel"
 29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
 30. <ruby>[[人証]]<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby> "personal evidence"
-30. [[人間]]
+30. <ruby>[[人間]]<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby> "mortals; human world"
 31. [[別人]]
 32. <ruby>[[人望]]<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby> "popularity, being well-regarded"
-33. [[人類]]
+33. <ruby>[[人類]]<rt>ㄋㄧㄋㄌㄨㄧ</rt></ruby> "humanity, human, humankind"
 34. [[此人]]
-35. [[人類学]]
+35. <ruby>[[人類学]]<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "anthropology"
 36. [[愛人]]
 37. [[小人]]
 38. [[死亡人数]]

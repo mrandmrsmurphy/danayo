@@ -3045,3 +3045,28 @@ Next: 人証.
 Fixed a missing `korean` field entirely (filled 인증, compositional from each constituent's own field), mis-capitalized vietnamese, missing `kwin` field entirely (added false, confirmed via AND-rule), removed dangling empty `hsk_level`/`swadesh`. Standardized the non-standard `>[!warn]` callout to the established `>[!warning] Homophones` format. Fixed relative-link Notes paths (missing `../` prefix), properly incorporated the bare "Contrast with 物証" text as a wikilink within Notes, and honestly flagged that Vietnamese nhân chứng more commonly means "witness" than "personal evidence" itself. Found and fixed a missing-citation bug: 人証 was entirely absent from `人(char).md`'s Words list — added. `証.md`'s own citation was already correct. `characters:` confirmed correct (bare 証, no conflicting words/証.md exists). Homophone with [[認証]] re-verified via anchored grep — genuine, and confirmed both share the same kwin-divergence pattern. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 人道.
+
+### 2026-09-10, iteration 4163 — [[words/人道|人道]]
+Wrote missing Notes section entirely (word had none). Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields, added missing `date-last-perfect`. Found and fixed a missing-citation bug: 人道 was entirely absent from `道(char).md`'s Words list — added. Upgraded a bare numbered-list citation on `人(char).md` (item 22). `characters:` confirmed correct (both require disambiguation, conflicting words/道.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人間.
+
+### 2026-09-10, iteration 4164 — [[words/人間|人間]]
+Found and fixed a real content bug: `mandarin` was "rénjiā" (wrong reading, matches an unrelated word 人家), corrected to "rénjiān" (verified against 間(char)'s own stored jiān reading). Fixed mis-capitalized vietnamese (Nhân gian→nhân gian), removed dangling empty `hsk_level`/`swadesh` fields, added missing `date-last-perfect`, wrote missing Notes. Upgraded a bare numbered-list citation on `人(char).md` (item 30); `間.md`'s own citation was already correct. `characters:` confirmed correct (bare 間, no conflicting words/間.md exists), `kwin: false` confirmed via AND-rule (人(char) false overrides 間(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人類.
+
+### 2026-09-10, iteration 4165 — [[words/人類|人類]]
+Fixed mis-capitalized vietnamese (Loài người→loài người, a real native term correctly preferred over a forced Sino-Vietnamese reading), removed dangling empty `swadesh`, added missing `date-last-perfect`, wrote missing Notes. Upgraded two bare numbered-list citations on `人(char).md` (items 33 and 35, 人類 and 人類学 — the latter opportunistically since trivial and directly adjacent); `類.md`'s own citations were already correct. `characters:` confirmed correct (bare 類, no conflicting words/類.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人類学.
+
+### 2026-09-10, iteration 4166 — [[words/人類学|人類学]]
+Fixed missing disambiguation (bare `人`→`人 (char)`, since `words/人.md` exists), mis-capitalized vietnamese (Nhân loại học→nhân loại học), normalized inline-flow `aliases: [人類學]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, added missing `date-last-perfect`, wrote missing Notes. `characters:` otherwise confirmed correct (bare 類/学, no conflicting words/類.md or words/学.md exist). `kwin: false` confirmed via AND-rule (人 and 類 both false override 学(char)'s own true). All three character-page citations (人(char), 類, 学) already correctly ruby-formatted, no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 人-prefixed word cluster.
+
+Next: 仁徳.
+
+### 2026-09-10, iteration 4167 — [[words/仁徳|仁徳]]
+Fixed a stray space in `mandarin` ("rén dé"→"réndé", matching the vault's unspaced-mandarin convention). Removed dangling empty `hsk_level`/`swadesh` fields. `characters:` confirmed correct (bare 仁, no conflicting words/仁.md exists). `kwin: false` confirmed via AND-rule (both constituents independently false). Both character-page citations already correctly ruby-formatted, no homophone collision. Content already excellent (previously-fixed 徳(char) blank-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仁慈.

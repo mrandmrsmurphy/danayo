@@ -52,6 +52,7 @@ boundedness: 70
 
 ## Words
 - <ruby>[[道]]<rt>ㄉㄚㄨ</rt></ruby> "way" (stand-in for 道)
+- <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
 - <ruby>[[道理]]<rt>ㄉㄚㄨㄌㄧ</rt></ruby> "logic"
 - <ruby>[[陰道]]<rt>ㄧㄇㄉㄚㄨ</rt></ruby> "vagina"
 - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby> "road"
