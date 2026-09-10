@@ -57,7 +57,7 @@ boundedness: 75
 * <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
 * <ruby>[[五馭]]<rt>·ㄛ⼄</rt></ruby> - The Five Charioteering Techniques
 * <ruby>[[../words/五経]]<rt>·ㄛㄍㄝㄫ</rt></ruby> - The Five Classics
-* <ruby>[[五月]]<rt>·ㄛ·ㄨㄝㄊ</rt></ruby> - May
+* <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
 * <ruby>[[五行]]<rt>·ㄛㄏㄚㄫ</rt></ruby> - The Five Elements
 * <ruby>[[五臓]]<rt>·ㄛㄐㄚㄫ</rt></ruby> - The Five Internal Organs
 * <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
@@ -65,13 +65,14 @@ boundedness: 75
 * <ruby>[[五戒]]<rt>ㄛㄍ⼶</rt></ruby> "the Five Buddhist Precepts"
 * <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
 * <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
-* <ruby>[[五方]]<rt>·ㄛㄆㄚㄫ</rt></ruby> - The Five Cardinal Directions
+* <ruby>[[五方]]<rt>ㄛㄈㄚㄫ</rt></ruby> "the Five Cardinal Directions"
 * <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> - pentagon
 * <ruby>[[五穀]]<rt>·ㄛㄍㄛㄎ</rt></ruby> - The Five Grains
-* <ruby>[[五更]]<rt>·ㄛㄍㄚㄫ</rt></ruby> - the five watches of the night
+* <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
 * <ruby>[[五指]]<rt>ㄛㄐㄧㄜ</rt></ruby> "the five fingers"
 * <ruby>[[五官]]<rt>ㄛㄍ⺢ㄋ</rt></ruby> "the five sense organs; facial features"
 * <ruby>[[words/四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> - rounding
+* <ruby>[[五日]]<rt>ㄛㄋㄧㄊ</rt></ruby> "fifth"
 * <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"

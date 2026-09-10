@@ -2720,3 +2720,23 @@ Next: 五指.
 Missing `vietnamese` entirely; filled with ngũ chỉ (real compositional term). Quoted mandarin/cantonese/korean. Found and fixed another garbled citation on `五(char).md` (wrong rt ㄐㄨㄛ vs real ㄐㄧㄜ, plus the recurring dot — 7th instance). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 指 false), no homophone collision. Content already excellent (full traditional finger-naming table, 無名指 "nameless finger" cross-linguistic coinage parallel with German Ringfinger/French annulaire, Japanese 五指に入る/五指に余る idioms, 五指の別 equality-within-hierarchy metaphor). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 五方.
+
+### 2026-09-10, iteration 4098 — [[words/五方|五方]]
+Quoted mandarin/cantonese/korean. Found and fixed another garbled citation on `五(char).md` (wrong initial consonant ㄆㄚㄫ vs real ㄈㄚㄫ, plus the recurring dot — 8th instance). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 方 false), no homophone collision. Content already exceptional (full Five Directions/Colors/Elements/Seasons/Guardian-Creature correspondence table, four-outer-plus-center cosmology unique to East Asian systems, Han/Tang/Goguryeo/Japanese guardian-beast visual-culture spread, 五方雜處 cosmopolitan-population secondary sense). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五日.
+
+### 2026-09-10, iteration 4099 — [[words/五日|五日]]
+Found and fixed a missing citation on `五(char).md`: bare 五日 itself was absent (only sibling 二十五日 was cited there). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 日(char) false), no homophone collision. Content already excellent (いつか native-reading irregularity cross-referenced with [[七日]]'s なのか, cross-linked to [[一日]]/[[二日]]/[[七日]]/[[八日]] day-counting family). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五更.
+
+### 2026-09-10, iteration 4100 — [[words/五更|五更]]
+Quoted mandarin/cantonese/korean. Replaced compositional vietnamese ngũ canh with canh năm, the real living Vietnamese idiom for this exact watch — already correctly identified in the word's own prose but not carried into the frontmatter field. Fixed the recurring leading-dot citation bug on `五(char).md` (9th instance). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 更(char) false), no homophone collision. Content already exceptional (full five-watches timekeeping table with traditional names, 三更/五更's contrasting cultural associations — ghosts/lovers vs. dawn court rush — Du Fu poetry reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五月.
+
+### 2026-09-10, iteration 4101 — [[words/五月|五月]]
+Found a real bug: `kwin` was stamped `true`, but the word's own 諺文 (오웓) and stored `korean` field (오월) actually diverge in the second syllable's coda (웓 vs 월) — corrected to `false`, matching both the AND-rule and its exact homophone sibling [[午月]]'s own already-correct `kwin: false` (independently verified — 午月 has the identical 諺文/korean divergence). Fixed the recurring leading-dot citation bug on `五(char).md`, which also had a wrong syllable inside (10th instance). `characters:` confirmed correct, no additional homophone collision beyond the already-documented [[午月]] pair. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五礼.
