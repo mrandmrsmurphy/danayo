@@ -50,6 +50,7 @@ boundedness: 100
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[企業]]<rt>ㄎㄝㄝㄆ</rt></ruby> "enterprise, firm"
 - <ruby>[[工業]]<rt>ㄍㄛㄫㄝㄆ</rt></ruby> "industry"
 - <ruby>[[作業]]<rt>ㄐㄚㄎㄝㄆ</rt></ruby> "work; operate; task"
 - <ruby>[[業業]]<rt>ㄝㄆㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideophone)

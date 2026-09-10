@@ -3331,3 +3331,28 @@ Next: 仲秋.
 Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. `characters:` confirmed correct (`秋 (char)` required, conflicting words/秋.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. This closes out the entire 仲-prefixed word cluster.
 
 Next: 企劃.
+
+### 2026-09-10, iteration 4220 — [[words/企劃|企劃]]
+Filled a missing `vietnamese` field (xí hoạch, honest compositional, noting the far more common real term kế hoạch belongs to the near-synonym 計劃 instead). Added legitimizing-note phrasing (企's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 企, no conflicting words/企.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 企図.
+
+### 2026-09-10, iteration 4221 — [[words/企図|企図]]
+Fixed unspaced cantonese (kei5tou4→kei5 tou4), removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (bare 図, no conflicting words/図.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (企(char) false overrides 図(char)'s own true), no homophone collision. Content already good (previously-fixed 図's own blank-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 企業.
+
+### 2026-09-10, iteration 4222 — [[words/企業|企業]]
+Fixed unspaced cantonese (kei5jip6→kei5 jip6), removed dangling empty `swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). Found and fixed a missing-citation bug: 企業 was entirely absent from `業(char).md`'s Words list — added; `企.md`'s own citation was already correct. `characters:` confirmed correct (`業 (char)` required, conflicting words/業.md exists), `kwin: false` confirmed via AND-rule (企(char) false overrides 業(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 企鵝.
+
+### 2026-09-10, iteration 4223 — [[words/企鵝|企鵝]]
+Normalized inline-flow `characters:`/`aliases: [人鳥]` to block-list format, added missing `date-last-perfect`, merged a non-standard `## Etymology` heading into `## Notes` with fuller content — correctly identified 企's role here as its own well-documented "tiptoe" etymology (a goose standing upright like a person on tiptoe) rather than its usual "plan, scheme" sense, verified against 企(char)'s own stored Notes. `characters:` confirmed correct (bare 鵝, no conflicting words/鵝.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (企(char) false overrides 鵝(char)'s own true), no homophone collision. Content already good (real natural terms 펭귄/chim cánh cụt correctly preferred over compositional readings). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 企-prefixed word cluster.
+
+Next: 伍.
+
+### 2026-09-10, iteration 4224 — [[words/伍|伍]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以). Upgraded a raw-markdown-link citation on `伍 (char).md`'s own Words list to a proper wikilink. Re-verified the 4-way homophone group (五/汚/於/伍) via anchored grep as complete and accurate — several character-only matches (誤/悟/嗚/娯/烏/呉/午) have no independent word pages. Content already outstanding (financial anti-forgery numeral role cross-referenced with 壱/貳/漆/玖). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伎倆.

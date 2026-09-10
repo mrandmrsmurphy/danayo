@@ -48,5 +48,5 @@ date-last-perfect: 2026-08-16
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
-- <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby> "troops"
+- <ruby>[[伍]]<rt>ㄛ</rt></ruby> "troops" (stand-in for 伍)
 - <ruby>[[隊伍]]<rt>ㄉㄛㄧㄛ</rt></ruby> "rank, contingent, line of troops"
