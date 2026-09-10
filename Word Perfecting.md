@@ -2460,3 +2460,23 @@ Next: 乾達婆.
 Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`, no Notes at all. Wrote full Notes explaining this is a pure Sanskrit phonetic transliteration (gandharva → 乾達婆), not a compositional Chinese coinage — the three characters carry no combined semantic meaning. Confirmed vietnamese Càn Thát Bà's capitalization is correct (a genuine proper noun, naming a specific class of celestial being). `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (all three constituents independently false), citations correct on all three character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 乾酪.
+
+### 2026-09-10, iteration 4046 — [[words/乾酪|乾酪]]
+Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (cross-referenced with [[乳酪]]'s own nhũ lạc, French loanword phô mai contrast). Just refreshed `date-last-perfect: 2026-09-10`. This closes out the 乾-prefixed word cluster; next word begins a new initial (亀).
+
+Next: 亀.
+
+### 2026-09-10, iteration 4047 — [[words/亀|亀]]
+Found the missing-`japanese`-field bug again (8th time this sweep). Applied first-listed-on'yomi convention (亀(char)'s `[KI, KYUU, KIN]` → き). `kwin: false` trivially confirmed (single constituent), citation correct, no homophone collision. Content already excellent (shinjitai-over-simplified-Chinese rationale, 亀裂/龜裂 unrelated-sense disambiguation, Kim Quy golden-turtle legend). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亀頭.
+
+### 2026-09-10, iteration 4048 — [[words/亀頭|亀頭]]
+Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`, no Notes at all. Wrote full Notes. Found and fixed a missing citation on `亀(char).md`: 亀頭 was entirely absent from its own Words section — added. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. **Noted for later** (not fixed, out of scope): 亀(char).md still has two other bare-format citations (海亀, 陸亀) awaiting their own turns. This closes out the 亀-prefixed word cluster; next word begins a new initial (了).
+
+Next: 了.
+
+### 2026-09-10, iteration 4049 — [[words/了|了]]
+Found the missing-`japanese`-field bug again (9th time this sweep). Added りょう (了's only on'yomi, RYOU). `kwin: false` trivially confirmed (single constituent), citation correct, and the real homophone with [[聊]] confirmed (still awaiting its own turn). Content already excellent (free word vs. grammaticalized aspect-particle role, cross-reference to [[了解]]'s own corpus-noise vietnamese candidates). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 了解.
