@@ -77,8 +77,8 @@ boundedness: 80
 - <ruby>[[中文]]<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby> "Chinese language; Chinese writing; Chinese culture"
 - <ruby>[[中旬]]<rt>ㄐㄨㄫㄙ⼜ㄋ</rt></ruby> "middle ten days of the month"
 - <ruby>[[中耳]]<rt>ㄐㄨㄫㄋㄧ</rt></ruby> "middle ear"
-- [[中華民国]]
-- [[中間]]
+- <ruby>[[中華民国]]<rt>ㄐㄨㄫㄏ⺢ㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of China; Taiwan"
+- <ruby>[[中間]]<rt>ㄐㄨㄫㄍㄚㄋ</rt></ruby> "middle; midway"
 - [[暗中]]
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 - <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"

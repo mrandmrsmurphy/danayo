@@ -2070,3 +2070,23 @@ Next: 中等.
 Found and fixed a duplicate-citation bug on `characters/等 (char).md`: an old bare-format `## Words` list (中等/初等/同等/優等/劣等, plus still-unique 平等/恒等式/等分/等待) sat alongside a newer properly ruby-formatted list further down that had re-added 高等/中等/初等/同等/優等/劣等 with correct 注音. Removed the 5 confirmed-duplicated old bare entries, keeping 平等/恒等式/等分/等待 (not yet migrated) untouched. `kwin: false` on 中等 itself confirmed correct via AND-rule (中's kwin true + 等's own kwin false = false). Content (三-tier 初等/中等/高等 hierarchy, 等's bamboo-tablet etymology) already thorough from a prior pass. Quoted mandarin/cantonese/korean fields, no homophone collision on ㄐㄨㄫㄉㄨㄫ. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 中耳.
+
+### 2026-09-09, iteration 3968 — [[words/中耳|中耳]]
+Citation on `中(char)` was still bare-format (`[[中耳]]`); upgraded to proper ruby-formatted entry matching `耳(char)`'s already-correct citation. Fixed duplicate `pos`/`品詞` field, quoted mandarin/cantonese. `kwin: false` confirmed correct via AND-rule (中 true + 耳's own kwin false = false). No homophone collision on ㄐㄨㄫㄋㄧ. Content already thorough (anatomy, MC 日-initial n-/∅ split cross-referenced with 中国人's 人). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中華.
+
+### 2026-09-09, iteration 3969 — [[words/中華|中華]]
+Substantially incomplete before this pass: `characters:` used undisambiguated `中` despite `words/中.md` existing, `date-last-perfect` was entirely absent, `hsk_level`/`swadesh` sat as dangling empty fields, `pos` was 性詞 (adjective-like) rather than 固有名詞 to match sibling proper-noun culture/place terms (中国/中亜/中日韓越), and the whole Notes section was a single stray fragment ("syn . 台湾") instead of real content. Disambiguated 中→中 (char), removed empty fields, fixed pos, normalized aliases to block-list form, wrote full Notes (civilizational-vs-political contrast with 中国, 中華民国/中華人民共和国, 中華料理 in Japanese, Vietnamese Trung Hoa vs Trung Quốc). `kwin: true` confirmed correct via AND-rule (中/華 both true). Citations already present and correctly ruby-formatted on both `中(char)` and `華.md`. No homophone collision on ㄐㄨㄫㄏ⺢. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中華民国.
+
+### 2026-09-09, iteration 3970 — [[words/中華民国|中華民国]]
+Citation on `中(char)` was still bare-format (`[[中華民国]]`); upgraded to proper ruby entry matching the already-correct citations on 華/民/国. Fixed duplicate `pos`/`品詞` field, quoted mandarin/cantonese, caught my own mistyped korean old_string on the first Edit attempt (typed hanja 中華民国 instead of the actually-stored Hangul 중화민국 — same recurring self-transcription error) and corrected on retry. `kwin: false` confirmed via 4-way AND-rule (中/華/民 true, 国 false). Content already thorough (ROC vs PRC distinction, 곡/국 divergence cross-referenced with 中国人/中国語). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中間.
+
+### 2026-09-09, iteration 3971 — [[words/中間|中間]]
+Found the systemic missing-注音 bug: frontmatter had no `注音` field at all. Derived and added ㄐㄨㄫㄍㄚㄋ (中's ㄐㄨㄫ + 間's own ㄍㄚㄋ), matching 間.md's own citation. Also upgraded 中(char)'s still-bare citation (`[[中間]]`) to proper ruby format, fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese. `kwin: true` confirmed via AND-rule (中/間 both true). Content already thorough (間's "interval/gap" contrast with 中心's "core/hub" sense). No homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the 中-prefixed word cluster; next word begins a new initial (串).
+
+Next: 串.
