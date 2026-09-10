@@ -61,6 +61,10 @@ boundedness: 80
 - [[二次元]] - 2D
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
+- <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
+- <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
+- <ruby>[[二十二日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twenty-second day of the month"
+- <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 日]]

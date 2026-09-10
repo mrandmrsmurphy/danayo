@@ -2590,3 +2590,23 @@ Next: 二十七日.
 Identical bug pattern to [[二十一日]] (same cluster of 二十N日 date words): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin raw-markdown-link Notes, and citations missing from THREE of four constituent character pages (二/十/七 — only 日 had it). Fixed all of it identically: disambiguation, vietnamese ngày hai mươi bảy (native, matching [[二十一日]]/[[二十]] convention), full Notes, added missing citations to all three pages. `kwin: false` confirmed via 4-way AND-rule. No homophone collision. Stamped `date-last-perfect: 2026-09-10`. **Expect the same pattern on remaining 二十N日 siblings** (二十三日 next, etc.) — apply the same fix template each time rather than re-deriving from scratch.
 
 Next: 二十三日.
+
+### 2026-09-10, iteration 4072 — [[words/二十三日|二十三日]]
+Same bug pattern as [[二十一日]]/[[二十七日]]: bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十/三 (only 日 had it). Fixed identically: disambiguation, vietnamese ngày hai mươi ba, full Notes, added citations to all three character pages. `kwin: false` confirmed via 4-way AND-rule (三 true, 二/十/日 all false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十九日.
+
+### 2026-09-10, iteration 4073 — [[words/二十九日|二十九日]]
+Same bug pattern (4th instance in this cluster): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十/九 (only 日 had it). Fixed identically: disambiguation, vietnamese ngày hai mươi chín, full Notes, added citations to all three character pages. `kwin: false` confirmed via 4-way AND-rule (all four independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十二日.
+
+### 2026-09-10, iteration 4074 — [[words/二十二日|二十二日]]
+Same bug pattern (5th instance): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十 (only 日 had it). Fixed identically, plus a small variant: 二 appears twice in the reading (twenty + ones-digit) but was previously listed twice in `characters:` — condensed to a single entry, consistent with the established [[九九]] precedent (list each distinct constituent once regardless of repeat occurrences). `kwin: false` confirmed via AND-rule. No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十五日.
+
+### 2026-09-10, iteration 4075 — [[words/二十五日|二十五日]]
+Same bug pattern (6th instance): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin Notes, citations missing from 二/十/五 (only 日 had it). Fixed identically: vietnamese ngày hai mươi lăm (using the irregular lăm final-digit form Vietnamese requires for 5 from 15+ onward, not the plain năm), added citations to all three character pages. `kwin: false` confirmed via 4-way AND-rule (五 true, 二/十/日 all false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十八日.

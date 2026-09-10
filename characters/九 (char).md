@@ -64,6 +64,7 @@ boundedness: 75
 - <ruby>[[九官鳥]]<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby> "common hill myna"
 - <ruby>[[九尾狐]]<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
 - <ruby>[[九州]]<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby> "Nine Provinces, Kyushu"
+- <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
 
 ### Links
 ![[nav/Numerals]]

@@ -60,6 +60,7 @@ boundedness: 75
 - <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby> "trigonometry"
 	- <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> - Trinity
+- <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
 
 ### Links
 ![[nav/Numerals]]
