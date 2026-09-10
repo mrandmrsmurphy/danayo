@@ -48,7 +48,7 @@ boundedness: 80
 - It is the only [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md)).  Pronounced [[ㄋㄧㄜ]]
 - [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 ## Words
-- [[二]] - two
+- <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two"
 - [[二十]] - twenty
 - [[二百]] - two hundred
 - [[二千]] - two thousand

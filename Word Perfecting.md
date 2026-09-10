@@ -2545,3 +2545,23 @@ Next: 事情.
 Already fully correct from a prior pass: `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (事物 concrete-thing contrast, Japanese 事情がある polite-deflection idiom, Korean 사정이 있다 parallel idiom). Just refreshed `date-last-perfect: 2026-09-10`.
 
 Next: 事故.
+
+### 2026-09-10, iteration 4063 — [[words/事故|事故]]
+Removed dangling empty `swadesh`/`aliases` fields. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (事(char) false, 故 true), citations correct on both character pages, and the real coincidental homophone with [[慈姑]] confirmed reciprocally documented. Content already excellent (no-stand-in-relationship clarification cross-referencing 故's own [[緣故]]). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事物.
+
+### 2026-09-10, iteration 4064 — [[words/事物|事物]]
+Fixed an unspaced cantonese field (si6mat6→si6 mat6), removed dangling empty `swadesh`/`aliases` fields, wrote full Notes (cross-referencing the 事/物 processual-vs-concrete pairing already noted on [[事]]'s own page). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (事(char) false, 物(char) true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 事詞.
+
+### 2026-09-10, iteration 4065 — [[words/事詞|事詞]]
+Substantially incomplete: `mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese`/`kwin` were all entirely missing, and duplicate `pos`/`品詞` present. Filled all readings compositionally, matching the exact pattern established on sibling grammatical-category word [[性詞]] (careful to use 詞's real correct vietnamese reading từ, not its own first-listed-but-wrong candidate tờ — same lesson as 性詞's own precedent). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (事(char) false, 詞 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the 事-prefixed word cluster; next word begins a new initial (二).
+
+Next: 二.
+
+### 2026-09-10, iteration 4066 — [[words/二|二]]
+Fixed duplicate `pos`/`品詞`. Upgraded a bare-format citation on `二(char).md` to proper ruby format. `kwin: false` trivially confirmed (single constituent), and the real homophone with [[貳]] confirmed (still awaiting its own turn). Content already excellent (指事 stroke-duplication etymology, 貳 anti-forgery variant cross-referenced with 一/壱, 七/漆, 九/玖; Vietnamese nhị/nhì/hai three-way reading distinction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二万.
