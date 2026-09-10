@@ -2740,3 +2740,23 @@ Next: 五月.
 Found a real bug: `kwin` was stamped `true`, but the word's own 諺文 (오웓) and stored `korean` field (오월) actually diverge in the second syllable's coda (웓 vs 월) — corrected to `false`, matching both the AND-rule and its exact homophone sibling [[午月]]'s own already-correct `kwin: false` (independently verified — 午月 has the identical 諺文/korean divergence). Fixed the recurring leading-dot citation bug on `五(char).md`, which also had a wrong syllable inside (10th instance). `characters:` confirmed correct, no additional homophone collision beyond the already-documented [[午月]] pair. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 五礼.
+
+### 2026-09-10, iteration 4102 — [[words/五礼|五礼]]
+Fixed duplicate `pos`/`品詞`, quoted fields. Found and fixed a broken wikilink: `[[六書|六芸]]` pointed at `六書` (which actually means "Six Writings," one item within the Six Arts) while displaying "六芸" — corrected to `[[六芸]]`, the real dedicated Six-Arts umbrella page. **Major finding, not resolved today**: `六芸.md` documents the Six Arts using an entirely different, non-count-prefixed set of word pages ([[礼]], [[音楽]], [[words/射術]], [[words/御術]], [[words/書法]], [[数学]]) than the count-prefixed cluster this sweep has been processing (五礼/五射/五馭/六書/九数/六楽) — two apparently-parallel documentation systems for the same concept exist in the vault. Flagged for a future dedicated investigation/reconciliation, well beyond today's single-word scope. Fixed the leading-dot citation bug on `五(char).md` (11th instance). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 礼(char) false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五穀.
+
+### 2026-09-10, iteration 4103 — [[words/五穀|五穀]]
+Quoted mandarin/cantonese/korean. Fixed the recurring leading-dot citation bug on `五(char).md` (12th instance; syllable itself correct). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), no homophone collision. Content already exceptional (northern-vs-southern classical grain-list disputes, 籍田禮 imperial Plowing Ceremony and its Mandate-of-Heaven stakes, 五穀豐登 auspicious New Year phrase, Korean 오곡밥 lunar new year dish). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五経.
+
+### 2026-09-10, iteration 4104 — [[words/五経|五経]]
+Fixed duplicate `pos`/`品詞`, reformatted Notes (dangling list with no intro sentence, now proper prose). Fixed a raw-path-prefixed-link citation on `五(char).md` (`[[../words/五経]]`, plus the recurring dot — 13th instance) to a proper wikilink+ruby entry. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (full 五経 enumeration with variant-character forms, cross-linked to [[四書五経]]). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五臓.
+
+### 2026-09-10, iteration 4105 — [[words/五臓|五臓]]
+Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`, no Notes at all. Found a real bug: `japanese` stored as ござう, not matching either of 臓's own on'yomi (ZOU/SOU) — corrected to ごぞう (compositional, first-listed ZOU). Wrote full Notes (TCM Five Solid Organs, 五臓六府 pairing with the Six Hollow Organs, cross-referenced with [[五官]]). Fixed the leading-dot citation bug on `五(char).md` (14th instance). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五色.
