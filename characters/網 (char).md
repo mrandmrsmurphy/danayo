@@ -55,6 +55,7 @@ date-last-perfect: 2026-09-05
 
 ## Words
 - <ruby>[[網]]<rt>ㄇㄚㄫ</rt></ruby> "netting, net, network" (stand-in for 網)
+- <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby> "internet"
 - <ruby>[[網球]]<rt>ㄇㄚㄫㄍ⼜</rt></ruby> "tennis, tennis ball, net ball"
 - <ruby>[[網球場]]<rt>ㄇㄚㄫㄍ⼜ㄐㄚㄫ</rt></ruby> "tennis court"
 - <ruby>[[網語体]]<rt>ㄇㄚㄫ⼄ㄊㄝㄧ</rt></ruby> "internet-language register"

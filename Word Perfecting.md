@@ -2655,3 +2655,23 @@ Next: 二次元.
 Missing `vietnamese` entirely; filled with nhị thứ nguyên, compositional from 次元's own standard Vietnamese math translation thứ nguyên — flagged as not independently confirmed for the otaku-slang sense, where Vietnamese fans more often just borrow the English loanword "2D" directly. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct (both 次/元 bare, no conflicting words/*.md), `kwin: false` confirmed via 3-way AND-rule (元 true, 二/次 both false), no homophone collision. Content already excellent (math dimension sense vs. otaku 二次元/三次元 fiction-vs-reality slang split, 1990s-2000s Japanese origin, spread to Korean/Chinese fandom). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 二百.
+
+### 2026-09-10, iteration 4085 — [[words/二百|二百]]
+Found a missing disambiguation: `characters:` had bare `百` despite `百 (char)` (and a conflicting `words/百.md`) existing — fixed. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (standalone-hundred-unit East Asian numeral logic, 弍/佰 anti-counterfeiting variants, cross-referenced with [[二十]]/[[二千]]/[[二万]]). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二重.
+
+### 2026-09-10, iteration 4086 — [[words/二重|二重]]
+Missing `vietnamese` entirely; filled with nhị trùng, using 重's real Sino-Vietnamese reading trùng — found a real bug while researching it: `重(char)`'s own stored vietnamese candidates (chuộng/chõng/chùng) all look unrelated to 重's "double/heavy" sense, flagged for that page's own turn. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (二重奏/二重唱/二重国籍/二重課税 domain list, ふたえ double-eyelid cultural significance). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 二-prefixed word cluster; next word begins a new initial (于).
+
+Next: 于.
+
+### 2026-09-10, iteration 4087 — [[words/于|于]]
+Found a real character-page gap: `于 (char).md` had no `## Words` section at all — the self-legitimizing citation for 于 itself was entirely missing — added it, and while there also removed a duplicate `pos`/`品詞` on that same character page. Quoted cantonese and polished the self-legitimizing note phrasing (same pattern as [[之]]/[[事]]'s own earlier fixes). `kwin: true` trivially confirmed, and the real 4-way homophone group (于/雨/遇/愚, all reading ㄨ) verified via anchored grep. Content already excellent (与格 dative case, animate-goal vs. 於's inanimate-locative split, MC 云母 null-initial+虞韻 alignment). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 互連網.
+
+### 2026-09-10, iteration 4088 — [[words/互連網|互連網]]
+Found a missing disambiguation: `characters:` had bare undisambiguated `連`/`網` despite `連 (char)`/`網 (char)` (and conflicting `words/連.md`/`words/網.md`) existing — fixed both. Found and fixed a missing citation on `網 (char).md` (互連網 was cited on 互/連 but not 網). Verified the AND-rule mismatch (all three constituents independently `kwin: true`, but the word's own `kwin: false`) is the established loanword/neologism exception, since the word's own korean field is the real loanword 인터넷 rather than a compositional reading — already correctly explained, now made more explicit. Content already excellent (net/web abbreviation parallel, Vietnamese liên mạng real-world abbreviated form). Stamped `date-last-perfect: 2026-09-10`. This closes out the 互-prefixed word cluster; next word begins a new initial (五).
+
+Next: 五.

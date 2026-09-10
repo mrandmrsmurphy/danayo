@@ -34,8 +34,7 @@ aliases:
   - 亐
   - 於
 注音: ㄨ
-品詞: 格助詞
-date-last-perfect: 2026-02-20
+date-last-perfect: 2026-09-10
 kwin: true
 tags:
   - character
@@ -48,5 +47,10 @@ boundedness: 70
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-[[Lookup/CC/initials/聲 云]]
-[[Lookup/CC/finals/韻 虞]]
+
+## Notes
+- [[Lookup/CC/initials/聲 云]]
+- [[Lookup/CC/finals/韻 虞]]
+
+## Words
+- <ruby>[[于]]<rt>ㄨ</rt></ruby> "to; dative" (stand-in for 于)
