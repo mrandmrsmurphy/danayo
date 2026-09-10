@@ -3481,3 +3481,28 @@ Next: 伸展.
 Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (展's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 伸/展, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 伸長.
+
+### 2026-09-10, iteration 4250 — [[words/伸長|伸長]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (伸's own `stand_in` is this exact compound). Found and fixed a missing-citation bug: 伸長 was entirely absent from `長(char).md`'s Words list — added. `characters:` confirmed correct (`長 (char)` required, conflicting words/長.md exists). Re-verified the genuine homophone with [[腎臓]]. Noted (not fixed, out of this word's scope) that `長(char).md`'s own Words list is also missing a citation for the bare word [[長]] itself — flagged for that word's own alphabetical turn. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伺候.
+
+### 2026-09-10, iteration 4251 — [[words/伺候|伺候]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (伺's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 伺/候, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false). Homophone with [[時候]] re-verified via anchored grep — genuine. Content already good (special cì reading distinction, literary-vs-everyday hầu register note). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 似.
+
+### 2026-09-10, iteration 4252 — [[words/似|似]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以/伏/会/伍). Re-verified the genuine homophone with [[沙]] via anchored grep, confirming several character-only matches (飼/思/些/司/祠/寺/詞/糸) have no independent word pages. Citation on `似 (char).md` already correct. Content already outstanding (thorough similative-vs-comparative contrast with 比, extensive cross-linguistic examples). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 但.
+
+### 2026-09-10, iteration 4253 — [[words/但|但]]
+Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以/伏/会/伍/似). Re-verified the genuine homophone with [[壇]] via anchored grep, confirming several character-only matches (単/丹/蛋/誕/弾/惮/旦/綻/檀/亶/簞) have no independent word pages. Citation on `但 (char).md` already correct. Content already outstanding (contrast with 不過, kwin phonological breakdown). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佇立.
+
+### 2026-09-10, iteration 4254 — [[words/佇立|佇立]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields, added legitimizing-note phrasing (佇's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 佇, no conflicting words/佇.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (佇(char) false overrides 立(char)'s own true), no homophone collision. Content already honest (no fixed Vietnamese idiom found, presented as compositional rather than fabricated attestation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 位相.

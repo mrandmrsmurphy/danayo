@@ -60,6 +60,7 @@ boundedness: 75
 - 95th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md)
 
 ## Words
+- <ruby>[[伸長]]<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby> "extend, stretch"
 - <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby> "fang; tusk"
 - <ruby>[[長矛]]<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby> "spear; lance"
 - <ruby>[[長期]]<rt>ㄐㄚㄫㄎㄧ</rt></ruby> "long time"
