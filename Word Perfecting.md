@@ -2760,3 +2760,23 @@ Next: 五臓.
 Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`, no Notes at all. Found a real bug: `japanese` stored as ござう, not matching either of 臓's own on'yomi (ZOU/SOU) — corrected to ごぞう (compositional, first-listed ZOU). Wrote full Notes (TCM Five Solid Organs, 五臓六府 pairing with the Six Hollow Organs, cross-referenced with [[五官]]). Fixed the leading-dot citation bug on `五(char).md` (14th instance). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 五色.
+
+### 2026-09-10, iteration 4106 — [[words/五色|五色]]
+Quoted mandarin/cantonese/korean. Fixed the recurring leading-dot citation bug on `五(char).md` (15th instance; syllable correct). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 色 false), no homophone collision. Content already exceptional (full Five Colors/Elements/Directions/Seasons/Animal correspondence table, Han-dynasty codification, imperial-yellow exclusivity, Chinese-vs-Western mourning-color inversion, Dhyāni Buddha association, 五顔六色 modern idiom, contrasted with [[七色]]'s spectral rainbow). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五行.
+
+### 2026-09-10, iteration 4107 — [[words/五行|五行]]
+Substantially incomplete: missing `date-last-perfect`, dangling empty `hsk_level`/`swadesh`/`aliases`, no Notes, `characters:` in inline-flow format (normalized). Found a real bug: `japanese` stored as ごぎょうしそう (the longer "五行思想" expanded compound), not this word's own bare 五行 reading — corrected to ごぎょう, noting 行 uses its GYOU reading specifically for this sense rather than the first-listed KOU. Wrote full Notes (Five Phases enumeration, cross-referenced with [[五色]]/[[五方]]). Fixed the leading-dot citation bug on `五(char).md` (16th instance). `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五角形.
+
+### 2026-09-10, iteration 4108 — [[words/五角形|五角形]]
+Missing `vietnamese` entirely; filled with ngũ giác, the real standard Vietnamese geometry term (the US Pentagon is even called Lầu Ngũ Giác in Vietnamese) — noted this diverges from 角's own currently-stored (and apparently wrong) vietnamese candidates chác/dạc, flagged for that page's own turn. Quoted mandarin/cantonese/korean. Fixed the leading-dot citation bug on `五(char).md` (17th instance — this appears to be the LAST entry in that "Important Words" list, so the cleanup pass may now be complete). `characters:` confirmed correct, `kwin: false` confirmed via 3-way AND-rule (all three constituents independently false), no homophone collision. Content already excellent (-角形 productive polygon-naming morpheme, golden-ratio/pentagram mathematics, US Pentagon building name contrast with Japanese ペンタゴン loanword, Shinto 五芒星/Abe no Seimei association). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五馭.
+
+### 2026-09-10, iteration 4109 — [[words/五馭|五馭]]
+Found and fixed a missing legitimizing note: 馭's own `stand_in: 五馭` wasn't documented reciprocally on this page — added. Fixed duplicate `pos`/`品詞`, quoted mandarin/cantonese/korean. The leading-dot bug appeared on BOTH `五(char).md` AND `馭.md`'s own citation this time (18th and 19th instances) — fixed both. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 馭 false), no homophone collision. Content already exceptional (full 五 Zhou-era charioteering techniques with etymological glosses, 五御 modern-form alias, cross-linked to the Six Arts family). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire "Five X" cluster on `五(char).md`'s "Important Words" section; next word begins a new initial (井).
+
+Next: 井堰.

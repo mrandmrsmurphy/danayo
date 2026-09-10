@@ -55,18 +55,18 @@ boundedness: 75
 * <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
 * <ruby>[[五礼]]<rt>ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
 * <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
-* <ruby>[[五馭]]<rt>·ㄛ⼄</rt></ruby> - The Five Charioteering Techniques
+* <ruby>[[五馭]]<rt>ㄛ⼄</rt></ruby> "the Five Charioteering Techniques"
 * <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "the Five Classics"
 * <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
-* <ruby>[[五行]]<rt>·ㄛㄏㄚㄫ</rt></ruby> - The Five Elements
+* <ruby>[[五行]]<rt>ㄛㄏㄚㄫ</rt></ruby> "Wu Xing"
 * <ruby>[[五臓]]<rt>ㄛㄐㄚㄫ</rt></ruby> "the Five Internal Organs"
 * <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
 * <ruby>[[五常]]<rt>ㄛㄙ⼘ㄫ</rt></ruby> "the Five Constant Virtues"
 * <ruby>[[五戒]]<rt>ㄛㄍ⼶</rt></ruby> "the Five Buddhist Precepts"
 * <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
-* <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
+* <ruby>[[五色]]<rt>ㄛㄙㄧㄎ</rt></ruby> "the five traditional colors"
 * <ruby>[[五方]]<rt>ㄛㄈㄚㄫ</rt></ruby> "the Five Cardinal Directions"
-* <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> - pentagon
+* <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 * <ruby>[[五穀]]<rt>ㄛㄍㄛㄎ</rt></ruby> "the Five Grains"
 * <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
 * <ruby>[[五指]]<rt>ㄛㄐㄧㄜ</rt></ruby> "the five fingers"
