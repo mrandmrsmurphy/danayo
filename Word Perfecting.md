@@ -3161,3 +3161,23 @@ Next: 介詞.
 Fixed a missing `cantonese` field entirely (filled gaai3 ci4, compositional from each constituent's own reading). Removed dangling empty `hsk_level`/`swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes. `characters:` confirmed correct (bare 介/詞, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (介(char) false overrides 詞(char)'s own true), no homophone collision. (Self-corrected an accidental stray non-schema field I briefly introduced mid-edit before catching and removing it.) Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 仍.
+
+### 2026-09-10, iteration 4186 — [[words/仍|仍]]
+Expanded thin Notes and added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今). Clarified that `vietnamese: nhưng` is the real Sino-Vietnamese reading of 仍, distinct from (though homographic with) the common native conjunction "nhưng" ("but") — verified as correct, not a mix-up. `characters:` confirmed correct, citation on `仍 (char).md` already correct, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仍旧.
+
+### 2026-09-10, iteration 4187 — [[words/仍旧|仍旧]]
+Fixed missing disambiguation on both constituents (bare `仍`/`旧`→`仍 (char)`/`旧 (char)`, since both words/仍.md and words/旧.md exist), unspaced cantonese (jing4gau6→jing4 gau6), normalized inline-flow `aliases: [仍舊, 仍是, 亦是]` to block-list format, removed dangling empty `hsk_level`/`swadesh`. `kwin: false` confirmed via AND-rule (both constituents independently false — not merely "trivial" via the blank korean field as the old Notes phrased it). Both character-page citations already correctly ruby-formatted, no homophone collision. Content already good and honest about the Japanese/Korean attestation gap. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 他.
+
+### 2026-09-10, iteration 4188 — [[words/他|他]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍). Found and fixed a real missing-citation bug: the word 他 itself was entirely absent from `他(char).md`'s own Words list despite being its stand-in — added. `characters:` confirmed correct (`他 (char)` required, no bare `characters/他.md`). No homophone collision. Noted (not fixed, out of this word's scope) that the compounds 他鄉/他動詞 cited on the character page use a different 注音 vowel (ㄊㄚ) than this word's own stored ㄊㄜ — flagged for their own alphabetical turns. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 他動詞.
+
+### 2026-09-10, iteration 4189 — [[words/他動詞|他動詞]]
+**Major real content bug found and fixed**: `諺文`/`羅馬字`/`注音`/`kwin` had all been set by directly copying the Korean reading (타동사/tadongsa/ㄊㄚㄉㄛㄫㄙㄚ/true) wholesale, rather than compositing from each constituent's own Dan'a'yo reading — 他's own genuine 트/tǝ/ㄊㄜ (not 타/ta) had been dropped entirely. Corrected to the real compositional reading 트동사/tǝdongsa/ㄊㄜㄉㄛㄫㄙㄚ, with `kwin` following to false (confirmed via AND-rule: 他 false overrides 動/詞's own true). This required correcting the citation glyph on all three constituent character pages (他(char)/動(char)/詞), which had all inherited the same wrong vowel. Also fixed missing `pos` (blank), removed dangling `aliases: []`, filled missing `vietnamese` (ngoại động từ, real attested grammar term), added missing `date-last-perfect`, wrote missing Notes. No homophone collision with the corrected reading. **Discovered the same bug pattern on `words/他鄉.md`** (due next) — its own 諺文/羅馬字/注音/kwin are likewise a direct Korean-reading copy rather than a genuine composition from 他's own 트; will fix on its own turn next.
+
+Next: 他鄉.
