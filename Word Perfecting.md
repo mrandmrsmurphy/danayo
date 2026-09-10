@@ -3181,3 +3181,23 @@ Next: 他動詞.
 **Major real content bug found and fixed**: `諺文`/`羅馬字`/`注音`/`kwin` had all been set by directly copying the Korean reading (타동사/tadongsa/ㄊㄚㄉㄛㄫㄙㄚ/true) wholesale, rather than compositing from each constituent's own Dan'a'yo reading — 他's own genuine 트/tǝ/ㄊㄜ (not 타/ta) had been dropped entirely. Corrected to the real compositional reading 트동사/tǝdongsa/ㄊㄜㄉㄛㄫㄙㄚ, with `kwin` following to false (confirmed via AND-rule: 他 false overrides 動/詞's own true). This required correcting the citation glyph on all three constituent character pages (他(char)/動(char)/詞), which had all inherited the same wrong vowel. Also fixed missing `pos` (blank), removed dangling `aliases: []`, filled missing `vietnamese` (ngoại động từ, real attested grammar term), added missing `date-last-perfect`, wrote missing Notes. No homophone collision with the corrected reading. **Discovered the same bug pattern on `words/他鄉.md`** (due next) — its own 諺文/羅馬字/注音/kwin are likewise a direct Korean-reading copy rather than a genuine composition from 他's own 트; will fix on its own turn next.
 
 Next: 他鄉.
+
+### 2026-09-10, iteration 4190 — [[words/他鄉|他鄉]]
+Confirmed and fixed the same Korean-reading-copy bug flagged last iteration: `諺文`/`羅馬字`/`注音`/`kwin` had been set to a direct copy of the Korean reading (타향/tahyang/ㄊㄚㄏ⼘ㄫ/true) instead of compositing from 他's own genuine 트/tǝ/ㄊㄜ — corrected to 트향/tǝhyang/ㄊㄜㄏ⼘ㄫ/kwin:false. Also found and fixed a real alias-vs-parent bug: `characters:` cited the alias glyph `鄉` instead of the parent filename `郷` (鄉/鄕/乡 are all documented aliases of 郷) — corrected per the established convention. Fixed the citation glyph on `他(char).md` and added a missing citation entirely on `郷.md`. Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. No homophone collision with the corrected reading. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仙人掌.
+
+### 2026-09-10, iteration 4191 — [[words/仙人掌|仙人掌]]
+Filled a missing `vietnamese` field with the real, universal native term xương rồng ("dragon bone"), preferred over a forced Sino-Vietnamese "tiên nhân chưởng" compositional reading — paralleling this word's own already-documented Japanese サボテン loanword pattern. `characters:` confirmed correct (bare 仙/掌, no conflicting words exist), all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (仙 and 人 both independently false, despite 掌 itself being kwin:true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代名詞.
+
+### 2026-09-10, iteration 4192 — [[words/代名詞|代名詞]]
+Added missing `date-last-perfect` (only gap found). `characters:` confirmed correct (bare 代, no conflicting words/代.md exists), all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (名(char) false makes the whole AND false, despite 代/詞 both being kwin:true), no homophone collision. Content already excellent (honest note on colloquial đại từ shortening, cross-references to 代用/代用字/形容詞). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代数.
+
+### 2026-09-10, iteration 4193 — [[words/代数|代数]]
+Confirmed this word itself is the legitimate source of the mandarin/cantonese "dàishù"/"doi6 sou3" values that turned up as a copy-paste leftover bug on 今夜安 earlier — this page's own values are correct for its own meaning. Fixed mis-capitalized vietnamese (Đại số→đại số), removed dangling empty `hsk_level`/`swadesh`, normalized inline-flow `aliases: [代數]` to block-list format, added missing `date-last-perfect`. Replaced a malformed stray line ("For the study theoreof , see 代数学") with a proper Notes section and wikilink to [[代数学]] (confirmed to exist). Found and added a genuine, previously undocumented homophone with [[大水]] ("flood") — added the Homophones callout here and reciprocally on 大水's own page (which was also missing a `vietnamese` field, filled with lũ lụt). Both character-page citations already correctly ruby-formatted, `kwin: true` confirmed via AND-rule (both constituents independently true). Stamped `date-last-perfect: 2026-09-10` on both words.
+
+Next: 代数学.
