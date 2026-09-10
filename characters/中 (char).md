@@ -51,7 +51,7 @@ boundedness: 80
 ## Definitions
 1. present tense
 2. midst, middle, center
-	- short for [[中央]]
+	- short for <ruby>[[中央]]<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby> "center; middle"
 3. China ("middle kingdom")
 	- short for [[中国]]
 
@@ -69,7 +69,7 @@ boundedness: 80
 - <ruby>[[中原]]<rt>ㄐㄨㄫ·⼔ㄋ</rt></ruby> "Central Plains"
 - <ruby>[[中古]]<rt>ㄐㄨㄫㄍㄛ</rt></ruby> "secondhand; medieval; middle period"
 - <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
-- [[中国語]]
+- <ruby>[[中国語]]<rt>ㄐㄨㄫㄍㄛㄎ⼄</rt></ruby> "Chinese language; Mandarin Chinese"
 - [[中学校]]
 - [[中庭]]
 - [[中心]]
@@ -80,7 +80,6 @@ boundedness: 80
 - [[中華民国]]
 - [[中間]]
 - [[暗中]]
-- <ruby>[中子](/words/中子.md)<rt>ㄐㄨㄫㄐㄧ</rt></ruby> - neutron
 - <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
 - <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"

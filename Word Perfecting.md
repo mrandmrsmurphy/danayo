@@ -1985,3 +1985,28 @@ Next: 中国.
 **Fixed a real citation gap my own earlier full-scan false-negatived**: `characters/中 (char).md` had no proper `## Words` citation for 中国, only a bare "short for [[中国]]" mention under a separate `## Definitions` list — the earlier scan's substring match wrongly counted that as satisfying the check. Added the proper ruby-formatted citation. Fixed the duplicate `品詞` field. `国`'s own citation and the systematic 곡/국 divergence explanation (already generalized to [[中国人]]/[[中国語]]/[[中華民国]]) were already correct. Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 中国人.
+
+### 2026-09-09, iteration 3951 — [[words/中国人|中国人]]
+**Fixed a real missing-field bug**: `注音` was entirely absent from the frontmatter — added `ㄐㄨㄫㄍㄛㄎㄋㄧㄋ`, matching 国's own citation. Fixed real citation gaps on both `characters/中 (char).md` (was a bare unformatted wikilink) and `characters/人 (char).md` (missing entirely). Fixed the duplicate `品詞` field and lowercased an over-capitalized `vietnamese` ("Người Trung Quốc"→"người Trung Quốc," only the country name warrants capitals).
+
+Next: 中国語.
+
+### 2026-09-09, iteration 3952 — [[words/中国語|中国語]]
+**Fixed a real missing-field bug**: `注音` was entirely absent — added `ㄐㄨㄫㄍㄛㄎ⼄`, matching 語's/国's own citations. Fixed a real citation gap on `characters/中 (char).md` (bare unformatted wikilink). Fixed the duplicate `品詞` field and an over-capitalized `vietnamese` ("Tiếng Trung Quốc"→"tiếng Trung Quốc," matching [[中国人]]'s fix).
+
+Next: 中央.
+
+### 2026-09-09, iteration 3953 — [[words/中央|中央]]
+Legitimizing note (央's own `stand_in` is this exact compound). **Fixed a real `kwin` bug**: was `true`, contradicting the AND-rule (中 true, 央 false) — corrected to `false`. Fixed a citation gap on `characters/中 (char).md` (bare "short for" mention upgraded to proper ruby citation). Quoted `hsk_level`, removed blank `swadesh`/`aliases`. Added an entirely missing `## Notes` section. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中央情報局.
+
+### 2026-09-09, iteration 3954 — [[words/中央情報局|中央情報局]]
+`characters:` already correctly bare/disambiguated. All five constituent character pages already cited 中央情報局 correctly. All content already correct from a prior thorough pass (CIA/1947 National Security Act history, KCIA borrowing history both well documented). `kwin: false` correct. A fully clean pass — only refreshed the date stamp.
+
+Next: 中子.
+
+### 2026-09-09, iteration 3955 — [[words/中子|中子]]
+All content already exceptionally thoroughly documented from a prior pass (the "middle son" vs. "neutron" homograph carefully disambiguated, Vietnamese deliberately left blank with full justification). **Fixed a real duplicate-citation bug**: `characters/中 (char).md`'s Words list had cited 中子 twice — once correctly and once erroneously glossed "neutron" with a garbled non-matching 注音 — removed the erroneous duplicate (this vault has no separate neutron word file). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中学校.
