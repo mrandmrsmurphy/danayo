@@ -2865,3 +2865,28 @@ Next: 交尾.
 Fixed an unspaced cantonese field (gaau1mei5→gaau1 mei5), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (giao vĩ vs. the unrelated-root giao phối distinction, honestly documented). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 交差.
+
+### 2026-09-10, iteration 4127 — [[words/交差|交差]]
+Found and fixed a real content bug: `交(char).md`'s own citation for this word carried the wrong gloss ("intersection," which is actually [[交叉]]'s meaning) instead of this vault's own repurposed "report in, get debriefed" sense — corrected the gloss and upgraded to proper ruby format. Fixed a `characters:` indentation inconsistency, removed dangling empty `hsk_level`/`swadesh`/`aliases`, and fixed a stray typo in the tip callout ("This is a word about the word"→"This is a page about the word"). `characters:` otherwise confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 差 true), citation on `差.md` already correct, no homophone collision. Content already excellent from a prior pass (回去交差 idiom, [[交叉]] look-alike distinction already documented, かうさ historical-kana bug already fixed there too). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交情.
+
+### 2026-09-10, iteration 4128 — [[words/交情|交情]]
+Fixed a `characters:` indentation inconsistency, removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (literary/classical Vietnamese giao tình register note). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交接.
+
+### 2026-09-10, iteration 4129 — [[words/交接|交接]]
+Fixed an unspaced cantonese field (gaau1zip3→gaau1 zip3), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (giao tiếp everyday-usage confirmation, euphemistic sense-extension parallel with Mandarin original). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交換.
+
+### 2026-09-10, iteration 4130 — [[words/交換|交換]]
+Fixed an unspaced cantonese field (gaau1wun6→gaau1 wun6), a mis-capitalized vietnamese ("Giao hoán"→"giao hoán"), missing `date-last-perfect`, dangling empty `swadesh`/`aliases`, and no Notes at all — wrote full content (交換留学/交換手/交換機 domain examples, Vietnamese trao đổi near-synonym). Upgraded a bare-format citation on `交(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交易.
+
+### 2026-09-10, iteration 4131 — [[words/交易|交易]]
+Fixed a `characters:` indentation inconsistency, removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 易 true), no homophone collision. Content already good (giao dịch everyday-banking-and-commerce-usage confirmation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交替.
