@@ -2675,3 +2675,23 @@ Next: 互連網.
 Found a missing disambiguation: `characters:` had bare undisambiguated `連`/`網` despite `連 (char)`/`網 (char)` (and conflicting `words/連.md`/`words/網.md`) existing — fixed both. Found and fixed a missing citation on `網 (char).md` (互連網 was cited on 互/連 but not 網). Verified the AND-rule mismatch (all three constituents independently `kwin: true`, but the word's own `kwin: false`) is the established loanword/neologism exception, since the word's own korean field is the real loanword 인터넷 rather than a compositional reading — already correctly explained, now made more explicit. Content already excellent (net/web abbreviation parallel, Vietnamese liên mạng real-world abbreviated form). Stamped `date-last-perfect: 2026-09-10`. This closes out the 互-prefixed word cluster; next word begins a new initial (五).
 
 Next: 五.
+
+### 2026-09-10, iteration 4089 — [[words/五|五]]
+Found a missing self-legitimizing citation: 五 (char)'s own `stand_in: 五` (itself) wasn't cited in its own "Important Words" section at all — added, and documented the legitimizing note explicitly in the word's own Notes (previously absent). Fixed duplicate `pos`/`品詞`. `kwin: true` trivially confirmed. Content already excellent (crossed-counting-sticks origin theory, 伍 anti-forgery variant, huge "Five X" canonical-compound family, 4-way homophone group with 伍/於/汚 — a prior pass already corrected 於's own malformed callout to cross-link properly). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五代十国.
+
+### 2026-09-10, iteration 4090 — [[words/五代十国|五代十国]]
+Substantially incomplete: `characters:` had bare undisambiguated `十` despite `十 (char)`/conflicting `words/十.md` existing, `japanese` was entirely empty, duplicate `pos`/`品詞`, missing `date-last-perfect`, and Notes were completely empty (just the bare heading). Filled japanese with ごだいじゅうこく (compositional), wrote full Notes on this 907–979 CE interregnum period. Found and fixed a missing citation on `五(char).md` and upgraded a raw-markdown-link citation on `十(char).md`. `kwin: false` confirmed via 4-way AND-rule (代 true, 十/国 both false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五倫.
+
+### 2026-09-10, iteration 4091 — [[words/五倫|五倫]]
+Found and fixed a formatting bug on `五(char).md`'s citation: an erroneous leading middle-dot ("·ㄛㄌㄨㄋ") that doesn't match the word's own 注音 (ㄛㄌㄨㄋ, no dot) or 倫's own matching citation — removed. **Noted for later**: this same leading-dot pattern appears to affect most/all of `五(char).md`'s "Important Words" entries (五礼, 五射, 五馭, 五経, 五月, 五行, etc.) — likely a systemic copy-paste artifact worth a dedicated cleanup pass across that whole file, not fixed wholesale here since only 五倫 is due today. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (五(char) true, 倫 false), no homophone collision. Content already excellent (五倫 vs [[三綱]] fuller/narrower relationship-framework contrast). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五十.
+
+### 2026-09-10, iteration 4092 — [[words/五十|五十]]
+**Self-correction**: caught my own error from earlier iterations in this session — I had been stating `十(char)`'s own kwin as false in several recent log entries (二十, 二十N日 series) without re-verifying; it is actually `kwin: true`. This didn't affect any of those words' own stamped kwin values (still correctly false, since 二's own kwin is false regardless), only my prose attribution of which constituent caused it — not retroactively corrected across all those entries, but flagging here for accuracy going forward. Found missing disambiguation on `characters:` (十→十(char)) and missing vietnamese (filled with ngũ thập, matching [[九十]]'s cửu thập convention). Fixed the same leading-middle-dot citation bug on `五(char).md` (2nd instance) and upgraded a bare-format citation on `十(char).md`. `kwin: true` confirmed via AND-rule (both constituents independently true — genuinely correct this time). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 五官.

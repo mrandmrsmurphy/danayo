@@ -51,6 +51,8 @@ boundedness: 75
 - 人 + 五 = [[伍 (char)]]
 - 五 + 口 = [[吾]] (see there for more descendants)
 ## Important Words
+* <ruby>[[五]]<rt>ㄛ</rt></ruby> "five" (stand-in for 五)
+* <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
 * <ruby>[[五礼]]<rt>·ㄛㄌㄝㄧ</rt></ruby> - The Five Rites
 * <ruby>[[五射]]<rt>·ㄛㄙ⼘</rt></ruby> - The Five Archery Techniques
 * <ruby>[[五馭]]<rt>·ㄛ⼄</rt></ruby> - The Five Charioteering Techniques
@@ -58,10 +60,10 @@ boundedness: 75
 * <ruby>[[五月]]<rt>·ㄛ·ㄨㄝㄊ</rt></ruby> - May
 * <ruby>[[五行]]<rt>·ㄛㄏㄚㄫ</rt></ruby> - The Five Elements
 * <ruby>[[五臓]]<rt>·ㄛㄐㄚㄫ</rt></ruby> - The Five Internal Organs
-* <ruby>[[五倫]]<rt>·ㄛㄌㄨㄋ</rt></ruby> - The Five Relationships
+* <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
 * <ruby>[[五常]]<rt>·ㄛㄙ·ㄚㄫ</rt></ruby> - The Five Virtues
 * <ruby>[[五戒]]<rt>·ㄛㄍ⼶</rt></ruby> - The Five Precepts
-* <ruby>[[五十]]<rt>·ㄛㄙㄧㄆ</rt></ruby> - fifty
+* <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
 * <ruby>[[五色]]<rt>·ㄛㄙㄧㄎ</rt></ruby> - The Five Colors
 * <ruby>[[五方]]<rt>·ㄛㄆㄚㄫ</rt></ruby> - The Five Cardinal Directions
 * <ruby>[[五角形]]<rt>·ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> - pentagon

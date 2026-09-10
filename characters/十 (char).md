@@ -50,7 +50,7 @@ boundedness: 75
 ## Words
 - <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[十干]]<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "the ten heavenly stems"
-- [[../words/五代十国]] - Five Dynasties Ten Kingdoms (period)
+- <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 - <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
@@ -80,7 +80,7 @@ boundedness: 75
 - <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
 - [[三十]] - 30
 - [[四十]] - 40
-- [[五十]] - 50
+- <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
 - [[words/六十]] - 60
 - [[七十]] - 70
 - [[八十]] - 80
