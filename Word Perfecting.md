@@ -2240,3 +2240,23 @@ Next: 乗.
 Found the missing-`japanese`-field bug again (4th time this sweep: 串, 中間, 乃, now 乗). Applied the established first-listed-on'yomi convention (乗(char)'s `[JOU, SHOU]` → じょう), documented in Notes. `kwin: false` trivially confirmed (single constituent). Citation correct, and the real homophone with [[升]] confirmed (still awaiting its own turn). Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 乗務.
+
+### 2026-09-09, iteration 4002 — [[words/乗務|乗務]]
+Missing `vietnamese` entirely and thin Notes (one bare bullet). Filled vietnamese with thừa vụ (compositional; flagged as not independently attested) and, while researching it, **found a separate bug**: 務's own character page stores vietnamese as mùa/múa, which are unrelated native Vietnamese words (not readings of 務 at all — the real Sino-Vietnamese reading is vụ, extremely productive elsewhere) — flagged for 務's own alphabetical turn rather than fixed here. Quoted mandarin/cantonese/korean. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 務 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗員.
+
+### 2026-09-09, iteration 4003 — [[words/乗員|乗員]]
+Quoted mandarin/cantonese/korean and expanded thin Notes (contrast with [[乗務]], 乗務員 as the combined common form, kwin explanation). Initially suspected a duplicate-citation bug (乗員 appearing to be cited twice) but verified it was two separate, correct single-citations on two different character pages (乗(char) and 員), not a duplicate — false alarm caught before acting. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (員's own korean 운/kwin:true independently verified, not assumed), no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗客.
+
+### 2026-09-09, iteration 4004 — [[words/乗客|乗客]]
+Missing `vietnamese` entirely; filled with hành khách (行客, the real everyday Vietnamese term for "passenger") rather than a compositional-but-unattested "thừa khách." Quoted mandarin/cantonese/korean, wrote full Notes. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗数.
+
+### 2026-09-09, iteration 4005 — [[words/乗数|乗数]]
+Missing `vietnamese` entirely; filled with thừa số, the real Vietnamese math term (乗's thừa + 数's số) — used generically for "factor" without Vietnamese distinguishing multiplier from multiplicand. Quoted mandarin/cantonese/korean, expanded Notes (被乗数 contrast, kwin explanation). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 数 true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乗算.
