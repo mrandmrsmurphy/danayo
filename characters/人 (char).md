@@ -54,9 +54,11 @@ boundedness: 75
 - <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
 - <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
 ## Words
+- <ruby>[[人]]<rt>ㄋㄧㄋ</rt></ruby> "person; humanity" (stand-in for 人)
 - <ruby>[[丈人]]<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"
 - <ruby>[[主人]]<rt>ㄐㄨㄋㄧㄋ</rt></ruby> "master; owner; host" (stand-in for 主)
 - <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
+- <ruby>[[人事]]<rt>ㄋㄧㄋㄐㄧ</rt></ruby> "human affairs; ways of the world, facts of life"
 - <ruby>[[人民]]<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby> "people; public; citizen"
 - <ruby>[[猿人]]<rt>ㄛㄋㄋㄧㄋ</rt></ruby> "apeman"
 - <ruby>[[倭人]]<rt>⼔ㄧㄋㄧㄋ</rt></ruby> "Wajin; Japanese person (archaic)"
@@ -74,7 +76,7 @@ boundedness: 75
 6. [[隣人]]
 7. [[人手]]
 8. [[盲人]]
-9. [[人中]]
+9. <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
 10. [[軍人]]
 11. [[佳人]]
 12. [[芸人]]

@@ -2960,3 +2960,23 @@ Next: 京畿.
 Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added legitimizing-note phrasing (畿's own `stand_in` is this exact compound; 京's own `stand_in` is [[京城]], not this word, so transitivity fails and #cranberry doesn't apply). `characters:` confirmed correct (bare 京/畿, no conflicting words exist). `kwin: false` confirmed via AND-rule (京(char) true, 畿(char) false). Both character-page citations already correctly ruby-formatted; cantonese already spaced. No homophone collision. Content already excellent (attested kinh kỳ, live modern-Korean Gyeonggi Province continuation noted). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 亭子.
+
+### 2026-09-10, iteration 4146 — [[words/亭子|亭子]]
+Fixed a spelling typo ("pavillion"→"pavilion"), unspaced cantonese (ting4zi2→ting4 zi2), removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Added legitimizing-note phrasing (亭's own `stand_in` is this exact compound; 子's own `stand_in` is [[児子]], so transitivity fails and #cranberry doesn't apply). Upgraded a bare-format citation on `子.md` to proper ruby format; `亭.md`'s own citation was already correct. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision (re-verified the already-documented false-homophone-claim fix with 停止 still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人.
+
+### 2026-09-10, iteration 4147 — [[words/人|人]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之 exact wording) alongside the existing prose. Found and fixed a real missing-citation bug: the word 人 itself was entirely absent from `人(char).md`'s own Words list despite being its stand-in — added at the top of that (very large, disorganized) list. `characters:` confirmed correct (`人 (char)` required, no bare `characters/人.md`). `kwin: false` self-consistent. Noted several 注音-level matches (忍/認/刃/仁) but none have independent word pages, so no real word-level homophone collision. **Flagged for later**: `人(char).md`'s own Words section is large and inconsistently formatted (mixed numbered list, many bare/raw-link citations without ruby) — well beyond this single word's scope, noted for a dedicated cleanup pass. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人中.
+
+### 2026-09-10, iteration 4148 — [[words/人中|人中]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Found and fixed a real missing-citation bug: 人中 was entirely absent from `中(char).md`'s Words list — added in ruby format. Upgraded a bare numbered-list citation on `人(char).md` (item 9) to proper ruby format. Also fixed a broken markdown link on `中(char).md`'s own header (`[中](中)`→`[中](words/中.md)`) while touching that page. `characters:` confirmed correct (both require disambiguation). `kwin: false` confirmed via AND-rule (人(char) false overrides 中(char)'s own true). No homophone collision. Content already good (attested anatomical/TCM term across all languages, previously-fixed cantonese pinyin-leftover bug still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人事.
+
+### 2026-09-10, iteration 4149 — [[words/人事|人事]]
+Fixed a missing space after a comma in `english`, removed dangling empty `swadesh`/`aliases` fields, added missing `date-last-perfect`. Found and fixed a real missing-citation bug: 人事 was entirely absent from `人(char).md`'s Words list despite being present on `事(char).md` — added in ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false). Homophone with [[仁慈]] re-verified via anchored grep — genuine 注音-level match. Content already good (nhân sự HR/personnel real usage, previously-fixed orphaned-note and capitalization bugs still hold). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人人.

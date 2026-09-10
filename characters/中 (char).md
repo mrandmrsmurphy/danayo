@@ -37,7 +37,7 @@ tags:
 boundedness: 80
 ---
 >[!tip] This is a page about the character 中.
->For the word, see [中](中)
+>For the word, see [中](words/中.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -57,6 +57,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> "-ing; progressive; in the midst of" (stand-in for 中)
+- <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
 - <ruby>[[中子]]<rt>ㄐㄨㄫㄐㄜ</rt></ruby> "middle son"
 - <ruby>[[中庸]]<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby> "moderation; neutrality"
 - <ruby>[[中指]]<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby> "middle finger; middle toe"
