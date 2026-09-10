@@ -2155,3 +2155,28 @@ Next: 主掌.
 Fixed duplicate `pos`/`品詞` field and quoted mandarin/cantonese/korean (self-caught a transcription slip mid-edit: the korean field was already correct Hangul 주장, not hanja as I first mistyped in old_string). `characters:` confirmed correct (bare 主/掌, no conflicting words/*.md). `kwin: true` confirmed via AND-rule. Citations correct on both character pages. Verified no Dan'a'yo-level homophone collision (注音 ㄐㄨㄐㄚㄫ unique) — the Korean-only 主張/主掌 collision already well-documented in prose is real but Korean-specific, not a Dan'a'yo pair (主張 doesn't even exist as a word file yet). Content otherwise already excellent (周禮 citation). Stamped `date-last-perfect: 2026-09-09`.
 
 Next: 主教.
+
+### 2026-09-09, iteration 3985 — [[words/主教|主教]]
+Substantially incomplete: `date-last-perfect` and `vietnamese` both entirely missing, mandarin/cantonese/korean unquoted, and Notes were two bare bullets with no cross-language usage or kwin explanation. Filled vietnamese with giám mục (the real, standard Vietnamese Catholic term for "bishop," preferred over compositional-but-unattested chủ giáo, since Vietnamese ecclesiastical vocabulary developed largely independently of Sino-Vietnamese roots — cf. linh mục, hồng y). Wrote the kwin explanation (教's own 굣/교 Dan'a'yo-vs-Sino-Korean divergence). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages (including sibling 大主教/総主教), no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主日.
+
+### 2026-09-09, iteration 3986 — [[words/主日|主日]]
+Quoted mandarin/cantonese/korean fields. Expanded thin Notes: added the Japanese しゅじつ usage note (rare, mainly liturgical/translated texts; everyday Japanese uses 主の日 or 日曜日) and the kwin explanation (日's MC 日-initial n-/∅ split, same pattern as [[中国人]]/[[中耳]]/[[主人]]). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages (including sibling 棕枝主日). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主旨.
+
+### 2026-09-09, iteration 3987 — [[words/主旨|主旨]]
+Already fully correct from a prior pass: legitimizing note present (旨's `stand_in: "主旨"` correctly documented), `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Just refreshed `date-last-perfect: 2026-09-09`.
+
+Next: 主格.
+
+### 2026-09-09, iteration 3988 — [[words/主格|主格]]
+Fixed duplicate `pos`/`品詞` field and quoted mandarin/cantonese/korean. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Content already excellent (grammatical-metalanguage cross-reference to 主語/主題, full etymological breakdown of both 主 and 格, cross-link to [[与格]]). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主権.
+
+### 2026-09-09, iteration 3989 — [[words/主権|主権]]
+Quoted mandarin/cantonese/korean fields. Expanded a one-line Notes into full cross-language coverage (主権国家/主権在民/領土主権 collocations, Vietnamese chủ quyền's everyday political usage, kwin explanation). `characters:` confirmed correct, `kwin: true` confirmed via AND-rule, citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 主義.
