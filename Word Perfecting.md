@@ -3226,3 +3226,23 @@ Next: 代表.
 Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. `characters:` confirmed correct (bare 表, no conflicting words/表.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (代(char) true, 表(char) false). Homophone with [[大砲]] re-verified via anchored grep — genuine. Content already good (previously-fixed vietnamese capitalization and homophone-callout-format bugs still hold, correctly notes no stand-in relationship applies here). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 代表之.
+
+### 2026-09-10, iteration 4199 — [[words/代表之|代表之]]
+Fixed missing disambiguation (bare `之`→`之 (char)`, since `words/之.md` exists), a broken relative link (`../characters/之.md` pointed at a nonexistent file — the real filename is `之 (char).md`), and a mislabeled link where display text "代表" pointed only at `characters/代.md` — rewrote to properly cite 代/表 separately plus a wikilink to the word [[代表]]. Removed dangling empty `hsk_level`/`swadesh`/`aliases`. Found and fixed a missing-citation bug: 代表之 was entirely absent from `之 (char).md`'s Words list — added; `代.md`'s and `表.md`'s own citations were already correct. `kwin: false` confirmed via AND-rule (代 true, 表 and 之(char) both false). No homophone collision. Content already good and honest (Dan'a'yo-internal coinage modeled on classical 爲, each language's own natural equivalent documented). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 代詞.
+
+### 2026-09-10, iteration 4200 — [[words/代詞|代詞]]
+Fixed duplicate `pos`/`品詞` (kept pos). Found and fixed a real structural bug: `aliases` wrongly listed 代名詞/代名词 as if they were mere spelling variants of 代詞 — but [[代名詞]] is an independently-documented, distinct Dan'a'yo word with its own full frontmatter (processed at iteration 4192), not an alias; removed both, kept only the genuine simplified variant 代词, and rewrote the Notes to cross-reference 代名詞 properly instead. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 代-prefixed word cluster.
+
+Next: 令.
+
+### 2026-09-10, iteration 4201 — [[words/令|令]]
+Fixed duplicate `pos`/`品詞` (kept pos). Fixed a real content bug: `japanese` was りょう (令(char)'s second-listed on'yomi) instead of the first-listed れい, per the established convention — corrected, consistent with the word's own Notes examples (命令 めいれい, 法令 ほうれい). Added the standard self-referential legitimizing-note phrasing. Citation on `令 (char).md` already correct. Re-verified the three-way homophone group (令/鈴/零) is accurate and complete — the several character-only matches (齢/伶/羚/玲/澪/霊) have no independent word pages, so aren't real word-level collisions. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 令和.
+
+### 2026-09-10, iteration 4202 — [[words/令和|令和]]
+Fixed duplicate `pos`/`品詞` (kept pos), a missing `kwin` field entirely (added false, confirmed via AND-rule), and broken relative-link paths in Notes (missing `../` prefix). Found and fixed a missing-citation bug on `令(char).md`; `和.md`'s own citation was already correct. `characters:` confirmed correct (bare 和, no conflicting words/和.md exists). No homophone collision. Content already outstanding (traced the etymology through the Man'yōshū foreword back to Zhang Heng's 歸田賦, correctly kept capitalized as a genuine proper noun/era name). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 令圄.

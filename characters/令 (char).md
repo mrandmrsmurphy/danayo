@@ -60,6 +60,7 @@ boundedness: 85
 
 ## Words
 - <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"
+- <ruby>[[令和]]<rt>ㄌㄝㄫㄏ⺢</rt></ruby> "Reiwa (era)"
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
 - [[令色]] "flattering looks; sycophantic expression"
 
