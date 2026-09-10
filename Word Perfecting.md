@@ -3311,3 +3311,23 @@ Next: 仲冬.
 Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. Verified the capitalized single-item-list `vietnamese: [Trọng Đông]` format against sibling seasonal words (仲春/仲夏/仲秋 all use the identical "Trọng X" capitalized pattern) — confirmed as the vault's deliberate, consistent style for this family, not a bug; left unchanged. `characters:` confirmed correct (`冬 (char)` required, conflicting words/冬.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision.
 
 Next: 仲夏.
+
+### 2026-09-10, iteration 4216 — [[words/仲夏|仲夏]]
+Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. `characters:` confirmed correct (`夏 (char)` required, conflicting words/夏.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (Shakespeare cross-cultural note).
+
+Next: 仲媒.
+
+### 2026-09-10, iteration 4217 — [[words/仲媒|仲媒]]
+Removed dangling empty `hsk_level`/`swadesh` fields, added legitimizing-note phrasing (媒's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 媒, no conflicting words/媒.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (previously-fixed mandarin/cantonese/self-referential-alias bugs still hold). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仲春.
+
+### 2026-09-10, iteration 4218 — [[words/仲春|仲春]]
+Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. `characters:` confirmed correct (`春 (char)` required, conflicting words/春.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (仲(char) false overrides 春(char)'s own true), no homophone collision.
+
+Next: 仲秋.
+
+### 2026-09-10, iteration 4219 — [[words/仲秋|仲秋]]
+Fixed duplicate `pos`/`品詞` (kept pos), added missing `date-last-perfect`. `characters:` confirmed correct (`秋 (char)` required, conflicting words/秋.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. This closes out the entire 仲-prefixed word cluster.
+
+Next: 企劃.
