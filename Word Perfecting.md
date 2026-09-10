@@ -3141,3 +3141,23 @@ Next: 今朝.
 Fixed missing disambiguation on both constituents (bare `今`/`朝`→`今 (char)`/`朝 (char)`, since both words/今.md and words/朝.md exist), normalized inline-flow `aliases: [今晨]` to block-list format, removed dangling empty `hsk_level`/`swadesh`. Found and fixed a missing-citation bug on `今(char).md`; `朝(char).md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (previously-fixed 朝(char) malformed-vietnamese-list bug still holds, honest tone-distinction between triêu/triều). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 今朝安.
+
+### 2026-09-10, iteration 4182 — [[words/今朝安|今朝安]]
+Found and fixed stale cross-references: this page's Notes still described [[今夜安]] as "good evening" and claimed it shared Korean 안녕하세요 — both now outdated after the 4179 correction (今夜安 is actually "good night," using its own distinct 안녕히 주무세요). Corrected the family list to properly credit [[今晩安]] as the "good evening" member and [[今夜安]] as the "good night" bedtime counterpart. Fixed a stray missing comma-space in `japanese`, relative-link paths (missing `../` prefix). Upgraded a bare-format citation on `今(char).md`; `朝(char).md`'s and `安.md`'s own citations were already correct. `characters:` confirmed correct, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 今週.
+
+### 2026-09-10, iteration 4183 — [[words/今週|今週]]
+Filled a missing `vietnamese` field (kim chu, honest Sino-Vietnamese compositional, noting native tuần này as the everyday alternative), added missing `date-last-perfect`. Found and fixed a missing-citation bug on `今(char).md`; `週.md`'s own citation was already correct. `characters:` confirmed correct (bare 週, no conflicting words/週.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false). Homophone with [[禁酒]] re-verified via anchored grep — genuine. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 今-prefixed word cluster.
+
+Next: 介紹.
+
+### 2026-09-10, iteration 4184 — [[words/介紹|介紹]]
+Reworded the informal stand-in note into the standard legitimizing-note phrasing, added explicit `kwin`/homophone-check statements. `characters:` confirmed correct (bare 介/紹, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already outstanding (honest documentation of the Japanese/Korean word-order reversal to 紹介/소개, attested Vietnamese giới thiệu). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 介詞.
+
+### 2026-09-10, iteration 4185 — [[words/介詞|介詞]]
+Fixed a missing `cantonese` field entirely (filled gaai3 ci4, compositional from each constituent's own reading). Removed dangling empty `hsk_level`/`swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes. `characters:` confirmed correct (bare 介/詞, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (介(char) false overrides 詞(char)'s own true), no homophone collision. (Self-corrected an accidental stray non-schema field I briefly introduced mid-edit before catching and removing it.) Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 仍.
