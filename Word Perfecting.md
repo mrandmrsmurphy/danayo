@@ -2350,3 +2350,23 @@ Next: 九日.
 Substantially incomplete: `date-last-perfect` entirely absent, duplicate `pos`/`品詞`, vietnamese was a lazy placeholder ("ngày 9" mixing digit with word) rather than proper Vietnamese — fixed to mùng chín, the standard everyday way to name a date in this range. Verified japanese ここのか is correct (the real native day-counting reading, not a compositional bug — same convention as ついたち/ふつか/みっか through とおか). Expanded the bare 3-item list into full Notes (multi-sense word: calendar date / duration / Hou Yi nine-suns myth, cross-referenced with [[中秋節]]). Also upgraded an odd bare citation (`[[words/九日]]`, unusual path-prefixed link syntax) on `九(char).md` to proper ruby format — clearing another previously-flagged gap. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 九月.
+
+### 2026-09-10, iteration 4024 — [[words/九月|九月]]
+Fixed an unspaced cantonese field (gau2jut6→gau2 jut6). Verified japanese くがつ is correct (real Japanese month-name irregularity, retaining the older on'yomi く rather than きゅう — same pattern as 四月/七月). Upgraded a bare-format citation on `九(char).md` to proper ruby format, clearing another flagged gap. Expanded thin Notes. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九泉.
+
+### 2026-09-10, iteration 4025 — [[words/九泉|九泉]]
+Missing `vietnamese` entirely; filled with cửu tuyền, the real classical literary term (alongside native chín suối). Quoted mandarin/cantonese/korean. Noted korean 구천's coincidental identity with [[九天]]'s own korean field (both 泉/天 read 천 in Sino-Korean) is Korean-specific only, not a Dan'a'yo homophone (Dan'a'yo readings 큐줜 vs 큐턴 remain distinct) — verified via direct field comparison rather than assumed. Upgraded a bare-format citation on `九(char).md`, clearing another flagged gap. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, no Dan'a'yo-level homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九経.
+
+### 2026-09-10, iteration 4026 — [[words/九経|九経]]
+Missing `vietnamese` entirely; filled with cửu kinh, a real attested term (Vietnam's own imperial exam system used the same Confucian canon). Quoted mandarin/cantonese/korean, noted korean 구경's coincidental identity with [[九卿]]'s own korean field is Korean-specific only (Dan'a'yo readings 큐겅 vs 큐켱 remain distinct) — verified directly. Fixed `九(char).md`'s raw-markdown-link citation (`[九經](../words/九経.md)`) by upgrading to a proper wikilink+ruby entry. One bare-format citation remains on that page — `[[十九]] - nineteen` — deferred to 十九's own alphabetical turn (later, since 十-prefixed words sort after all 九-prefixed ones). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule, no Dan'a'yo-level homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 九龍.
+
+### 2026-09-10, iteration 4027 — [[words/九龍|九龍]]
+Missing `date-last-perfect` entirely, dangling empty `hsk_level`/`swadesh`/`aliases`, no Notes at all. Wrote full Notes on the genuine multi-referent nature: Kowloon (Hong Kong district) vs Vietnamese Cửu Long (the Mekong Delta's nine tributary mouths) — the same "nine dragons" naming logic applied to two unrelated geographic features. Upgraded bare-format citations on BOTH `九(char).md` and `龍(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (九(char) false, 龍(char) true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 九-prefixed word cluster; next word begins a new initial (乞).
+
+Next: 乞.

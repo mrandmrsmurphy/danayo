@@ -50,14 +50,14 @@ boundedness: 75
 ## Words
 - <ruby>[[九]]<rt>ㄎ⼜</rt></ruby> "nine"
 - <ruby>[[九数]]<rt>ㄎ⼜ㄙㄨ</rt></ruby> "the Nine Numbers"
-- [[九龍]]- Kowloon
-- [[九月]] - September
+- <ruby>[[九龍]]<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby> "Kowloon; the Mekong Delta (Vietnamese Cửu Long)"
+- <ruby>[[九月]]<rt>ㄎ⼜·⼔ㄊ</rt></ruby> "September"
 - <ruby>[[九九]]<rt>ㄎ⼜ㄎ⼜</rt></ruby> "times table; multiplication table"
 - <ruby>[[九日]]<rt>ㄎ⼜ㄋㄧㄊ</rt></ruby> "ninth day"
-- [[九泉]] - nether world
+- <ruby>[[九泉]]<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby> "the netherworld; the Nine Springs"
 - <ruby>[[九天]]<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby> "the Ninth Heaven"
 - <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
-- [九經](../words/九経.md) - the nine classics
+- <ruby>[[九経]]<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby> "the Nine Classics"
 - [[十九]] - nineteen 
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 - <ruby>[[九族]]<rt>ㄎ⼜ㄐㄛㄎ</rt></ruby> "nine generations of one's family"

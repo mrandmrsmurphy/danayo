@@ -72,7 +72,7 @@ boundedness: 70
 - [[烏龍]] - Wulong
 - [[地龍]] - earthworm
 - [[龍蝦]] - lobster
-- [[九龍]] - Kowloon
+- <ruby>[[九龍]]<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby> "Kowloon; the Mekong Delta (Vietnamese Cửu Long)"
 - [[恐龍]] - dinosaur
 - [[烏龍茶]] - oolong tea
 - [[龍巻]] - tornado
