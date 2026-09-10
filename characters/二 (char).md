@@ -49,16 +49,18 @@ boundedness: 80
 - [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
 ## Words
 - <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two"
-- [[二十]] - twenty
+- <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
 - [[二百]] - two hundred
 - [[二千]] - two thousand
-- [[二万]] - twenty thousand
+- <ruby>[[二万]]<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby> "twenty thousand"
 - [[二日]] - second day of the month
 - [[二月]] - February
-- [[二人]] - two people, a couple
+- <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - [[二重]] - double, two-fold
 - [[二心]] - duplicity
 - [[二次元]] - 2D
+- <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
+- <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 日]]

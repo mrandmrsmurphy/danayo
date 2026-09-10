@@ -2565,3 +2565,28 @@ Next: 二.
 Fixed duplicate `pos`/`品詞`. Upgraded a bare-format citation on `二(char).md` to proper ruby format. `kwin: false` trivially confirmed (single constituent), and the real homophone with [[貳]] confirmed (still awaiting its own turn). Content already excellent (指事 stroke-duplication etymology, 貳 anti-forgery variant cross-referenced with 一/壱, 七/漆, 九/玖; Vietnamese nhị/nhì/hai three-way reading distinction). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 二万.
+
+### 2026-09-10, iteration 4067 — [[words/二万|二万]]
+Missing `vietnamese` entirely; filled with nhị vạn, the real Sino-Vietnamese numeral compound for "twenty thousand." Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (万-as-grouping-unit East Asian numeral system explanation, "万 overfull as bare syllable" rule cross-referenced with [[一万]]/[[七万]]/[[二百]]/[[二千]]). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二人.
+
+### 2026-09-10, iteration 4068 — [[words/二人|二人]]
+Quoted mandarin/cantonese/korean (self-caught the recurring korean-hanja-instead-of-Hangul transcription slip on the first Edit attempt and corrected on retry). Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (ふたり's fossilized-native-numeral status, Old Japanese ふた-/Korean 둘 cognate cross-reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十.
+
+### 2026-09-10, iteration 4069 — [[words/二十|二十]]
+Found a missing disambiguation: `characters:` had bare `十` despite `十 (char)` (and a conflicting `words/十.md`) existing — fixed. Upgraded bare-format citations on BOTH `十(char).md` and `二(char).md` to proper ruby format. `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already exceptional (Korean 스물/스무 native layer, Japanese はたち/ふたそじ archaic -soji suffix system, Vietnamese hai mươi native-in-all-registers vs. classical-only nhị thập). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十一日.
+
+### 2026-09-10, iteration 4070 — [[words/二十一日|二十一日]]
+Substantially incomplete: `characters:` had bare undisambiguated `十` despite `十(char)`/conflicting `words/十.md` existing (fixed to `十 (char)`), missing `vietnamese`/`date-last-perfect`, duplicate `pos`/`品詞`, `japanese` as a single-item list normalized to scalar, and Notes were a single bare constituent-link line (one via raw markdown link). Filled vietnamese with ngày hai mươi mốt (native calendar-date form, matching [[二十]]'s own convention). **Found and fixed a major citation gap**: this word was entirely missing from THREE of its four constituent character pages (一, 十, 二 — only 日 had it) — added to all three. `kwin: false` confirmed via 4-way AND-rule (all four constituents independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二十七日.
+
+### 2026-09-10, iteration 4071 — [[words/二十七日|二十七日]]
+Identical bug pattern to [[二十一日]] (same cluster of 二十N日 date words): bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese single-item list, thin raw-markdown-link Notes, and citations missing from THREE of four constituent character pages (二/十/七 — only 日 had it). Fixed all of it identically: disambiguation, vietnamese ngày hai mươi bảy (native, matching [[二十一日]]/[[二十]] convention), full Notes, added missing citations to all three pages. `kwin: false` confirmed via 4-way AND-rule. No homophone collision. Stamped `date-last-perfect: 2026-09-10`. **Expect the same pattern on remaining 二十N日 siblings** (二十三日 next, etc.) — apply the same fix template each time rather than re-deriving from scratch.
+
+Next: 二十三日.

@@ -51,6 +51,8 @@ boundedness: 75
 - <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[十干]]<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "the ten heavenly stems"
 - [[../words/五代十国]] - Five Dynasties Ten Kingdoms (period)
+- <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
+- <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 
 ### Months
 - [[十月]] - October
@@ -67,7 +69,7 @@ boundedness: 75
 - [[十七]] - 17
 - [[十八]] - 18
 - [[十九]] - 19
-- [[二十]] - 20
+- <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
 - [[三十]] - 30
 - [[四十]] - 40
 - [[五十]] - 50

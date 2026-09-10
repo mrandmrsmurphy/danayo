@@ -94,6 +94,8 @@ In compounds, it appears in many, many words.  To disambiguate various numbers, 
 * <ruby>[[一体]]<rt>읻테</rt></ruby> - organic whole, unity
 * <ruby>[[統一]]<rt>ㄊㄛㄫ·ㄧㄊ</rt></ruby> "unite"
 * <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> - Trinity
+- <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
+
 ## Chengyu
 - <ruby>[一字千金](/chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby>
 - <ruby>[一網打尽](/chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby>

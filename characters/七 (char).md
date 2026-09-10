@@ -63,6 +63,7 @@ boundedness: 75
 * <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> - Big Dipper
 * <ruby>[[七色]]<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby> - ROYGBIV
 * <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> - heptagon
+* <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 #### Check
 ```dataview
 table 諺文, english
