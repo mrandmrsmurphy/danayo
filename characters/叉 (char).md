@@ -59,6 +59,6 @@ boundedness: 85
 * [[夜叉]] yaksha
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
 * [[叉勺]] spork
-* [[交叉]] - intersection ("fork in the road"!)
+* <ruby>[[交叉]]<rt>ㄍ⼘ㄨㄑㄚㄧ</rt></ruby> "intersect, cross, overlap" ("fork in the road"!)
 [[Lookup/CC/initials/聲 初]]
 [[Lookup/CC/finals/韻 佳開]]

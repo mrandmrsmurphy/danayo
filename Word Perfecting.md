@@ -2845,3 +2845,23 @@ Next: 交互.
 Fixed an unspaced cantonese field (gaau1wu6→gaau1 wu6), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 互 true), no homophone collision. Content already good (attested Sino-Vietnamese giao hỗ, cross-referenced with 互相/互相 hỗ tương). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 交付.
+
+### 2026-09-10, iteration 4123 — [[words/交付|交付]]
+Fixed an unspaced cantonese field (gaau1fu6→gaau1 fu6), removed a dangling empty `swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (Vietnamese giao phó everyday-usage confirmation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交叉.
+
+### 2026-09-10, iteration 4124 — [[words/交叉|交叉]]
+Found a real bug: `japanese` was stored in obsolete historical kana orthography (かうさ) despite the word's own Notes already correctly using modern こうさ throughout — corrected. Found and fixed a missing citation on `交(char).md` (交叉 was cited on 叉 but not 交) and upgraded a bare-format citation on `叉(char).md`. Removed dangling empty `hsk_level`/`swadesh`/`aliases`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), and the real homophone with [[教材]] confirmed reciprocally documented. Content already excellent (Dan'a'yo's deliberate 交叉/交差 sense-split despite real Japanese conflating them, 叉's own missing-thoa-reading gap found and fixed on a prior pass). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交友.
+
+### 2026-09-10, iteration 4125 — [[words/交友|交友]]
+Fixed an unspaced cantonese field (gaau1jau5→gaau1 jau5). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, and the real inherited-MC-homophone with [[交遊]] confirmed reciprocally documented. Content already exceptional (individual-bond vs. broad-network scope distinction, true Middle Chinese 以母尤韻 homophony traced through Mandarin/Cantonese tone-only distinction, Japanese full collapse vs. Korean's preserved 우/유 split). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交尾.
+
+### 2026-09-10, iteration 4126 — [[words/交尾|交尾]]
+Fixed an unspaced cantonese field (gaau1mei5→gaau1 mei5), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (giao vĩ vs. the unrelated-root giao phối distinction, honestly documented). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交差.

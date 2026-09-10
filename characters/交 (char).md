@@ -53,12 +53,13 @@ boundedness: 80
 
 ## Words
 - <ruby>[[交]]<rt>ㄍ⼄ㄨ</rt></ruby> "mix; exchange"
+- <ruby>[[交叉]]<rt>ㄍ⼘ㄨㄑㄚㄧ</rt></ruby> "intersect, cross, overlap"
 - <ruby>[[交友]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friends"
 - <ruby>[[交遊]]<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby> "make friendship; form companionship"
 - <ruby>[[交流]]<rt>ㄍ⼄ㄨㄌ⼜</rt></ruby> "exchange; interaction; to mingle"
 - <ruby>[[交互]]<rt>ㄍ⼄ㄨㄏㄛ</rt></ruby> "in turn, mutually, each other"
-- [[交付]] "to hand over; to deliver"
-- [[交尾]] "mating; copulation"
+- <ruby>[[交付]]<rt>ㄍ⼄ㄨㄈㄨ</rt></ruby> "delivery, grant"
+- <ruby>[[交尾]]<rt>ㄍ⼘ㄨㄇㄨㄧ</rt></ruby> "mate, copulate (of animals)"
 - [[交差]] "intersection"
 - [[交情]] "friendship; acquaintance"
 - [[交接]] "handover; connection"
