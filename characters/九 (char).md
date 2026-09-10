@@ -52,7 +52,7 @@ boundedness: 75
 - <ruby>[[九数]]<rt>ㄎ⼜ㄙㄨ</rt></ruby> "the Nine Numbers"
 - [[九龍]]- Kowloon
 - [[九月]] - September
-- [[九九]] - times table
+- <ruby>[[九九]]<rt>ㄎ⼜ㄎ⼜</rt></ruby> "times table; multiplication table"
 - [[words/九日]] - ninth day of the month
 - [[九州]] - biggest Japanese island
 - [[九泉]] - nether world

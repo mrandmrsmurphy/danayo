@@ -2285,3 +2285,23 @@ Next: 乗馬.
 Quoted mandarin/cantonese/korean, wrote full Notes (乗馬クラブ/乗馬服 collocations). Vietnamese thừa mã kept with the same honest uncertainty caveat as its 乗船/乗車 siblings (compositionally sound classical form, modern Vietnamese favors native cưỡi ngựa). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (乗(char) false, 馬(char) true), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`. This closes out the long 乗-prefixed word cluster; next word moves to the 乘 variant character.
 
 Next: 乘法.
+
+### 2026-09-09, iteration 4011 — [[words/乘法|乘法]]
+Vietnamese thừa pháp replaced with phép nhân, the same real term already established on [[乗算]] (same underlying concept, 乘/乗 variant characters sharing the same char page, Vietnamese doesn't distinguish the 法-vs-算 register split). Quoted mandarin/cantonese/korean, expanded Notes. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on both character pages, no homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 乙.
+
+### 2026-09-09, iteration 4012 — [[words/乙|乙]]
+Fixed a duplicate `pos`/`品詞` field pair that also disagreed with each other (副用名詞 vs 副詞名詞) — kept `pos`, removed `品詞`. `kwin: true` confirmed (single constituent), citation correct, no homophone collision. Content already excellent (十干 stem sequence, Vietnamese sexagenary-cycle cross-reference to [[丙]]'s own bính). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 九.
+
+### 2026-09-09, iteration 4013 — [[words/九|九]]
+Fixed duplicate `pos`/`品詞` field. `kwin: false` confirmed (single constituent), citation correct, and the real coincidental homophone with [[丘]] confirmed reciprocally documented on both pages. Content already excellent (玖 anti-forgery variant cross-referenced with 一/壱 and 七/漆, Japanese く-avoidance superstition). Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 九九.
+
+### 2026-09-09, iteration 4014 — [[words/九九|九九]]
+Substantially incomplete: `characters:` was a malformed scalar string instead of a YAML list, `羅馬字` was un-doubled (kyu, inconsistent with the doubled 諺文 큐큐/注音 ㄎ⼜ㄎ⼜) — fixed to kyukyu, `date-last-perfect` and `vietnamese` both entirely missing, duplicate `pos`/`品詞`, and no Notes at all. Filled vietnamese with bảng cửu chương (the real, universally-known Vietnamese term for the multiplication table) rather than a literal cửu-cửu reduplication. Also upgraded a bare-format citation on `九(char).md` to proper ruby format. Wrote full Notes on the reduplication naming pattern (九九八十一 chant, 구구단). `kwin: false` confirmed (inherits 九's own mismatch in both syllables). No homophone collision. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 九十.
