@@ -2890,3 +2890,23 @@ Next: 交易.
 Fixed a `characters:` indentation inconsistency, removed dangling empty `hsk_level`/`swadesh`/`aliases`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 易 true), no homophone collision. Content already good (giao dịch everyday-banking-and-commerce-usage confirmation). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 交替.
+
+### 2026-09-10, iteration 4132 — [[words/交替|交替]]
+Quoted mandarin/cantonese/korean. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 替 true), citations correct on both character pages, no homophone collision. Content already excellent (specialized grammatical 否定交替 copula-suppletion sense cross-referenced with [[繋辞]], everyday 交替制 shift-work sense, honest documentation of the giao thế compositional-but-unattested gap vs. real-usage luân phiên). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交流.
+
+### 2026-09-10, iteration 4133 — [[words/交流|交流]]
+Missing `vietnamese` entirely; filled with giao lưu, an extremely common, real everyday Vietnamese term. Found and fixed a real bug: `交(char).md`'s own citation used a wrong first-syllable glyph (ㄍ⼄ vs the correct ㄍ⼘, not matching this word's own 注音 or 流's own citation) — corrected. Expanded thin Notes. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (交(char) false, 流 true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交溝.
+
+### 2026-09-10, iteration 4134 — [[words/交溝|交溝]]
+Substantially incomplete with several real bugs: `characters:` had bare undisambiguated `溝` despite `溝 (char)`/conflicting `words/溝.md` existing (fixed); `cantonese` was doubly garbled (gaa1gau3, missing a vowel and wrong second-syllable initial/tone) — corrected to gaau1 kau1; `japanese` was obsolete historical kana with an entirely wrong reading (かうこう) — corrected to こうこう (compositional); vietnamese mis-capitalized; empty fields removed; inline-flow aliases normalized; missing date and Notes. Wrote full content (交溝/交媾 alias relationship, giao cấu as the real Vietnamese legal/medical term). Upgraded a bare-format citation on `交(char).md`. `kwin: false` confirmed via AND-rule (both constituents independently false), citations correct on 溝(char) already, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交点.
+
+### 2026-09-10, iteration 4135 — [[words/交点|交点]]
+Fixed an unspaced cantonese field (gaau1dim2→gaau1 dim2), removed dangling empty `swadesh`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (giao điểm geometry/road-intersection usage confirmation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交通.
