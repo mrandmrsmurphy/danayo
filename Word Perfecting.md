@@ -3376,3 +3376,23 @@ Next: 休息室.
 Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a stray unheaded paragraph and a non-standard `## Etymology` heading into `## Notes`. Upgraded a bare-format citation on `休.md`; `息.md`'s and `室.md`'s own citations were already correct. `characters:` confirmed correct (bare 室, no conflicting words/室.md exists). `kwin: false` confirmed correct (compares against the real 휴게실-based Korean field, not a naive AND-rule, matching the established real-term-exception pattern). No homophone collision. Verified the page's own "休憩 isn't [attested]" claim against [[休憩]] (which now exists as its own word) — confirmed [[休憩]]'s own Notes already document this, self-consciously, as outdated-but-historically-accurate context, so left unchanged per that word's own guidance. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 休憩.
+
+### 2026-09-10, iteration 4229 — [[words/休憩|休憩]]
+Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, added the legitimizing-note phrasing (憩's own `stand_in` is this exact compound). Found and fixed a missing-citation bug on `休.md`; `憩.md`'s own citation was already correct. `kwin: false` confirmed correct (real divergence in the second syllable's vowel). No homophone collision. Content already excellent (already self-consciously documents the 休息室 outdated-claim cross-reference, previously-fixed 憩's own missing-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 休日.
+
+### 2026-09-10, iteration 4230 — [[words/休日|休日]]
+Filled a missing `vietnamese` field (ngày nghỉ, the real standard everyday phrase). Found and fixed a missing-citation bug on `休.md`; `日(char).md`'s own citation was already correct. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (休(char) true, 日(char) false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 休暇.
+
+### 2026-09-10, iteration 4231 — [[words/休暇|休暇]]
+Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a non-standard `## Etymology` heading into `## Notes`. Upgraded a bare-format citation on `休.md`; `暇.md`'s own citation was already correct. `characters:` confirmed correct (bare 暇, no conflicting words/暇.md exists), `kwin: false` confirmed via AND-rule (休(char) true, 暇(char) false), no homophone collision. Content already good (previously-fixed crammed-cantonese bug still holds, honest hưu hạ vs. hưu giá distinction). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 休-prefixed word cluster.
+
+Next: 会.
+
+### 2026-09-10, iteration 4232 — [[words/会|会]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以/伏). Citation on `会 (char).md` already correct, no homophone collision. Content already excellent (honest distinction between everyday hội and the specifically-Vietnamese hụi rotating-credit-circle loanword sense). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 会員.
