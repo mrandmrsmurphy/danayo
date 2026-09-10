@@ -3441,3 +3441,23 @@ Next: 伝統.
 Normalized inline-flow `characters:`/`aliases: [傳統]` to block-list format, removed dangling empty `swadesh`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct (bare 統, no conflicting words/統.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伝(char) false overrides 統(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 伝説.
+
+### 2026-09-10, iteration 4242 — [[words/伝説|伝説]]
+Normalized inline-flow `characters:`/`aliases: [傳說, 传说]` to block-list format, removed dangling empty `swadesh`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct (bare 説, no conflicting words/説.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 伝-prefixed word cluster.
+
+Next: 伯伯.
+
+### 2026-09-10, iteration 4243 — [[words/伯伯|伯伯]]
+Fixed the reduplicated-constituent bug (characters: had `伯` listed twice; deduped to a single entry per the established 九九/仁人 convention). Fixed unspaced cantonese (baak3baak3→baak3 baak3), removed dangling empty `swadesh`/`aliases: []`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (bare 伯, no conflicting words/伯.md exists), citation on `伯.md` already correct, no homophone collision. Content already good (previously-fixed non-idiomatic Korean compositional bug still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伯母.
+
+### 2026-09-10, iteration 4244 — [[words/伯母|伯母]]
+Removed dangling empty `swadesh`/`aliases: []`. `characters:` confirmed correct (bare 母, no conflicting words/母.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already excellent (contrast with colloquial [[伯伯]], genuine formal kinship terms verified). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伯爵.
+
+### 2026-09-10, iteration 4245 — [[words/伯爵|伯爵]]
+Removed a stray duplicate `## Etymology` section left over below `## Notes`, repeating the same character breakdown with worse/inconsistent glosses ("uncle"/"baron" instead of the Notes' own "count-rank"/"noble title"). Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. `characters:` confirmed correct (bare 爵, no conflicting words/爵.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (伯(char) false overrides 爵(char)'s own true), no homophone collision. Content already good (公侯伯子男 five-rank peerage cross-reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 伯父.
