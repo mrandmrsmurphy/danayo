@@ -2630,3 +2630,28 @@ Next: 二十日.
 Final instance (10th) of the 二十N日 bug pattern: bare undisambiguated `十`, missing vietnamese/date, duplicate pos/品詞, japanese-as-list, thin Notes, citations missing from 二/十 (only 日 had it). Fixed identically; preserved and expanded the existing japanese-irregularity note (はつか, one of Japanese's irregular native day-counting readings alongside ついたち...とおか/よっか). `kwin: false` confirmed via 3-way AND-rule (all three independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`. **This genuinely closes out the entire 二十N日 date-word cluster** (二十日, 二十一日 through 二十九日 — 10 words total, all now fixed); next word (二千) moves to a different compound entirely.
 
 Next: 二千.
+
+### 2026-09-10, iteration 4080 — [[words/二千|二千]]
+Found `cantonese` field was completely empty (blank value) — filled with ji6 cin1. Fixed a mis-capitalized vietnamese ("Hai ngàn"→"hai nghìn", using the northern-standard native numeral form; noted ngàn as the equally valid southern variant). Removed dangling empty `hsk_level`/`swadesh`/`aliases`, duplicate `pos`/`品詞`, added missing `date-last-perfect`, wrote full Notes. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (二(char) false, 千 true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二心.
+
+### 2026-09-10, iteration 4081 — [[words/二心|二心]]
+Missing `vietnamese` entirely; filled with nhị tâm, paralleling the well-established classical/literary Chinese register (not independently confirmed as a separately attested term, but defensible given the concept's own inherently classical nature). Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (二(char) false, 心(char) true), no homophone collision. Content already excellent (classical political-loyalty 一心/二心 contrast, Japanese ふたごころ's more elegiac/romantic register vs Chinese's moral-political indictment, Buddhist divided-mind usage). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二日.
+
+### 2026-09-10, iteration 4082 — [[words/二日|二日]]
+Missing `vietnamese` entirely; filled with mùng hai (native calendar-date form, matching [[九日]]'s own mùng chín and the whole 二十N日 cluster convention). Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already thoroughly cleaned up from a prior pass (the date-vs-duration sense split consolidated into the `二天` alias, matching the [[三日]] precedent). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二月.
+
+### 2026-09-10, iteration 4083 — [[words/二月|二月]]
+Upgraded a bare-format citation on `二(char).md`, expanded thin Notes (cross-language compositional confirmation, kwin explanation). `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二次元.
+
+### 2026-09-10, iteration 4084 — [[words/二次元|二次元]]
+Missing `vietnamese` entirely; filled with nhị thứ nguyên, compositional from 次元's own standard Vietnamese math translation thứ nguyên — flagged as not independently confirmed for the otaku-slang sense, where Vietnamese fans more often just borrow the English loanword "2D" directly. Quoted mandarin/cantonese/korean. Upgraded a bare-format citation on `二(char).md`. `characters:` confirmed correct (both 次/元 bare, no conflicting words/*.md), `kwin: false` confirmed via 3-way AND-rule (元 true, 二/次 both false), no homophone collision. Content already excellent (math dimension sense vs. otaku 二次元/三次元 fiction-vs-reality slang split, 1990s-2000s Japanese origin, spread to Korean/Chinese fandom). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 二百.

@@ -53,12 +53,12 @@ boundedness: 80
 - [[二百]] - two hundred
 - <ruby>[[二千]]<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby> "two thousand"
 - <ruby>[[二万]]<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby> "twenty thousand"
-- [[二日]] - second day of the month
-- [[二月]] - February
+- <ruby>[[二日]]<rt>ㄋㄧㄜㄋㄧㄊ</rt></ruby> "second day of the month"
+- <ruby>[[二月]]<rt>ㄋㄧㄜ·⼔ㄊ</rt></ruby> "February"
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - [[二重]] - double, two-fold
-- [[二心]] - duplicity
-- [[二次元]] - 2D
+- <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
+- <ruby>[[二次元]]<rt>ㄋㄧㄜㄑㄧㄜ·⼔ㄋ</rt></ruby> "2D; the two-dimensional world"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 - <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
