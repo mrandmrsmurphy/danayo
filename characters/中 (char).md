@@ -75,8 +75,8 @@ boundedness: 80
 - <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"
 - <ruby>[[中性子]]<rt>ㄐㄨㄫㄙㄧㄫㄐㄜ</rt></ruby> "neutron"
 - <ruby>[[中文]]<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby> "Chinese language; Chinese writing; Chinese culture"
-- [[中旬]]
-- [[中耳]]
+- <ruby>[[中旬]]<rt>ㄐㄨㄫㄙ⼜ㄋ</rt></ruby> "middle ten days of the month"
+- <ruby>[[中耳]]<rt>ㄐㄨㄫㄋㄧ</rt></ruby> "middle ear"
 - [[中華民国]]
 - [[中間]]
 - [[暗中]]

@@ -51,12 +51,7 @@ boundedness: 75
 
 
 ## Words
-* [[中等]] medium level
-* [[初等]] low level
-* [[同等]] equal, equivalent
 * [[平等]] equal, even
-* [[優等]] excellent
-* [[劣等]] inferior
 * [[恒等式]]
 * [[等分]]
 * [[等待]]

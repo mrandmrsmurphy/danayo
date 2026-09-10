@@ -2050,3 +2050,23 @@ Next: 中日韓越.
 `characters:` already correctly disambiguated/bare as appropriate. **Fixed several real bugs**: `cantonese` used non-breaking spaces (U+00A0) instead of regular spaces AND was missing 越's own syllable entirely — required a Python-based fix since the invisible NBSP characters didn't match ordinary Edit tool string matching; `mandarin` had a tone-mark placement typo (Yùe→Yuè, matching 越's own stored yuè). Fixed a missing citation on `characters/韓.md`'s Words list and the duplicate `品詞` field. Added an entirely missing `## Notes` section.
 
 Next: 中旬.
+
+### 2026-09-09, iteration 3964 — [[words/中旬|中旬]]
+Both character pages already cited 中旬 correctly (中's own upgraded from bare to proper ruby format). Cantonese zung1 ceon4 already correctly matches the fix pattern established on sibling 上旬/下旬. All other content already correct from a prior thorough pass. Fixed the duplicate `品詞` field. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中止.
+
+### 2026-09-09, iteration 3965 — [[words/中止|中止]]
+Legitimizing note (止's own `stand_in` is this exact compound) already essentially present, labeled explicitly. Both character pages already cited 中止 correctly. Filled entirely missing `vietnamese: trung chỉ`. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中秋節.
+
+### 2026-09-09, iteration 3966 — [[words/中秋節|中秋節]]
+All three character pages already cited 中秋節 correctly. All content already correct from a prior thorough pass (嫦娥/后羿 mythology, Korean 추석/Chuseok structural contrast, cross-referenced 仲秋/桂月/秋分 all well documented). Fixed the duplicate `品詞` field and quoted fields. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中等.
+
+### 2026-09-09, iteration 3967 — [[words/中等|中等]]
+Found and fixed a duplicate-citation bug on `characters/等 (char).md`: an old bare-format `## Words` list (中等/初等/同等/優等/劣等, plus still-unique 平等/恒等式/等分/等待) sat alongside a newer properly ruby-formatted list further down that had re-added 高等/中等/初等/同等/優等/劣等 with correct 注音. Removed the 5 confirmed-duplicated old bare entries, keeping 平等/恒等式/等分/等待 (not yet migrated) untouched. `kwin: false` on 中等 itself confirmed correct via AND-rule (中's kwin true + 等's own kwin false = false). Content (三-tier 初等/中等/高等 hierarchy, 等's bamboo-tablet etymology) already thorough from a prior pass. Quoted mandarin/cantonese/korean fields, no homophone collision on ㄐㄨㄫㄉㄨㄫ. Stamped `date-last-perfect: 2026-09-09`.
+
+Next: 中耳.
