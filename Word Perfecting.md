@@ -2910,3 +2910,28 @@ Next: 交点.
 Fixed an unspaced cantonese field (gaau1dim2→gaau1 dim2), removed dangling empty `swadesh`. Upgraded a bare-format citation on `交(char).md` to proper ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already good (giao điểm geometry/road-intersection usage confirmation). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 交通.
+
+### 2026-09-10, iteration 4136 — [[words/交通|交通]]
+Fixed unspaced cantonese (gaau1tung1→gaau1 tung1), obsolete-kana japanese (かうつう→こうつう), removed dangling empty `aliases`, added missing `date-last-perfect`, wrote missing Notes section. Upgraded a bare-format citation on `交(char).md`; `通(char).md`'s own citation was already correct. `characters:` confirmed correct (both 交 and 通 require disambiguation, conflicting words/通.md exists), `kwin: false` confirmed via AND-rule (交(char) false overrides 通(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交遊.
+
+### 2026-09-10, iteration 4137 — [[words/交遊|交遊]]
+Fixed unspaced cantonese (gaau1jau4→gaau1 jau4), added missing `aliases: [交游]` (the 遊→游 simplified-variant pattern, matching the established convention seen on 嬉遊/遊戯). `characters:` confirmed correct — bare `遊` is right since no `words/遊.md` or `遊 (char).md` exists to conflict. `kwin: false` confirmed via AND-rule (both constituents independently false). Homophone note (交友) verified via anchored grep — genuinely注音-identical (only 2 matches for ㄍ⼘ㄨ·⼜ㄛ). Content and both character-page citations were already excellent/correctly formatted. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交際.
+
+### 2026-09-10, iteration 4138 — [[words/交際|交際]]
+Fixed unspaced cantonese (gaau1zai3→gaau1 zai3), removed dangling empty `swadesh`, added missing `aliases: [交际]` (際→际 simplified variant, matching 際(char)'s own stored alias). Found and fixed a real missing-citation bug: 交際 was entirely absent from `交(char).md`'s Words list despite being present on `際(char).md` — added in proper ruby format. `characters:` confirmed correct (both constituents require disambiguation, conflicting words/際.md exists), `kwin: false` confirmed via AND-rule (both constituents independently false), no homophone collision. Content already excellent (real attested giao tế Sino-Vietnamese term, 交-family cross-reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 交響.
+
+### 2026-09-10, iteration 4139 — [[words/交響|交響]]
+Fixed missing disambiguation (bare `交`→`交 (char)`, since `words/交.md` exists), removed dangling empty `hsk_level`/`swadesh` fields, added missing `aliases: [交响]` (響→响 simplified variant, matching 響(char)'s own stored alias). Upgraded a bare-format citation on `交(char).md` to proper ruby format; `響.md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (交(char) false overrides 響(char)'s own true), no homophone collision. Content already excellent (real everyday Vietnamese giao hưởng). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 亥月.
+
+### 2026-09-10, iteration 4140 — [[words/亥月|亥月]]
+Already in excellent shape. `characters:` confirmed correct (bare `亥` is right, no conflicting words/亥.md exists). `japanese: いつき` verified as correct against the sibling zodiac-month native-kun+kun compound pattern (丑月→うしつき, 未月→ひつじつき, no の inserted) — not a bug. `kwin: false` confirmed via AND-rule (亥(char) true, 月(char) false). Both character-page citations (亥.md, 月(char).md) already correctly ruby-formatted. No homophone collision (注音 ㄏㄚㄧ·⼔ㄊ unique). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 亦.
