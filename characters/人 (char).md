@@ -59,12 +59,13 @@ boundedness: 75
 - <ruby>[[主人]]<rt>ㄐㄨㄋㄧㄋ</rt></ruby> "master; owner; host" (stand-in for 主)
 - <ruby>[[中国人]]<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby> "Chinese person"
 - <ruby>[[人事]]<rt>ㄋㄧㄋㄐㄧ</rt></ruby> "human affairs; ways of the world, facts of life"
+- <ruby>[[人人]]<rt>ㄋㄧㄋㄋㄧㄋ</rt></ruby> "everyone"
 - <ruby>[[人民]]<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby> "people; public; citizen"
 - <ruby>[[猿人]]<rt>ㄛㄋㄋㄧㄋ</rt></ruby> "apeman"
 - <ruby>[[倭人]]<rt>⼔ㄧㄋㄧㄋ</rt></ruby> "Wajin; Japanese person (archaic)"
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
-- <ruby>[人参](/words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> - ginseng
-- <ruby>[人口](/words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> - population
+- <ruby>[[人参]]<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> "ginseng"
+- <ruby>[[人口]]<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> "population"
 - <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
 - <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
 - <ruby>[[敵人]]<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby> - enemy, foe
@@ -95,7 +96,7 @@ boundedness: 75
 25. [[客人]]
 26. [[故人]]
 27. [[老人学]]
-28. [[人員]]
+28. <ruby>[[人員]]<rt>ㄋㄧㄋㄨㄋ</rt></ruby> "staff, personnel"
 29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
 30. [[人間]]
 31. [[別人]]

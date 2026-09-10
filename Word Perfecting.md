@@ -2980,3 +2980,23 @@ Next: 人事.
 Fixed a missing space after a comma in `english`, removed dangling empty `swadesh`/`aliases` fields, added missing `date-last-perfect`. Found and fixed a real missing-citation bug: 人事 was entirely absent from `人(char).md`'s Words list despite being present on `事(char).md` — added in ruby format. `characters:` confirmed correct, `kwin: false` confirmed via AND-rule (both constituents independently false). Homophone with [[仁慈]] re-verified via anchored grep — genuine 注音-level match. Content already good (nhân sự HR/personnel real usage, previously-fixed orphaned-note and capitalization bugs still hold). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 人人.
+
+### 2026-09-10, iteration 4150 — [[words/人人|人人]]
+Fixed the reduplicated-constituent bug (characters: had `人 (char)` listed twice; deduped to a single entry per the established 九九/二十二日 convention). Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Found and fixed a missing-citation bug: 人人 was entirely absent from `人(char).md`'s Words list — added. `kwin: false` confirmed correct (Dan'a'yo 닌닌 vs. native-Korean 사람마다, not a Sino-Korean compositional comparison). No homophone collision. Content already good (native-word reduplication pattern across Mandarin/Japanese/Vietnamese). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人参.
+
+### 2026-09-10, iteration 4151 — [[words/人参|人参]]
+Fixed unspaced cantonese (jan4sam1→jan4 sam1), mis-capitalized vietnamese (Nhân sâm→nhân sâm), missing `date-last-perfect`. Upgraded raw-markdown-link citations to proper wikilinks in both `人(char).md`'s and `参.md`'s own Words lists (`[人参](/words/人参.md)`/`[人参](../words/人参.md)`→`[[人参]]`), and fixed the same raw-link-without-../-prefix issue in this word's own Notes. `characters:` confirmed correct (bare 参, no conflicting words/参.md exists). `kwin: false` confirmed via AND-rule (both constituents independently false). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人口.
+
+### 2026-09-10, iteration 4152 — [[words/人口|人口]]
+Fixed unspaced cantonese (jan4hau2→jan4 hau2), removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. Upgraded a raw-markdown-link citation on `人(char).md` (`[人口](/words/人口.md)`→`[[人口]]`); `口(char).md`'s own citation was already correct. `characters:` confirmed correct (both constituents require disambiguation). `kwin: false` confirmed via AND-rule (both constituents independently false). No homophone collision. Content already good (attested nhân khẩu census term). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人員.
+
+### 2026-09-10, iteration 4153 — [[words/人員|人員]]
+Wrote missing Notes section entirely (word had none). Fixed mis-capitalized vietnamese (Nhân viên→nhân viên), removed dangling empty `swadesh`/`aliases` fields, added missing `人员` simplified-variant alias and `date-last-perfect`. Added legitimizing-note phrasing (員's own `stand_in` is this exact compound). Upgraded a bare numbered-list citation on `人(char).md` (item 28) to proper ruby format; `員.md`'s own citation was already correct. `characters:` confirmed correct (bare 員, no conflicting words/員.md exists). `kwin: false` confirmed via AND-rule (人(char) false overrides 員(char)'s own true). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 人工.
