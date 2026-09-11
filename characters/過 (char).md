@@ -54,7 +54,7 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[過]]<rt>ㄍ⺢</rt></ruby> "than, too"
+- <ruby>[[過]]<rt>ㄍ⺢</rt></ruby> "than, too" (stand-in for 過)
 - <ruby>[[経過]]<rt>ㄍㄝㄫㄍ⺢</rt></ruby> "pass through, undergo"
 - <ruby>[[過去]]<rt>ㄍ⺢ㄎ⼄</rt></ruby> "past"
 - <ruby>[[過激]]<rt>ㄍ⺢ㄍㄝㄎ</rt></ruby> "drastic, extreme, aggressive, radical"

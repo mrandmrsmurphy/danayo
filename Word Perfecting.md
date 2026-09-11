@@ -687,3 +687,23 @@ Next: 通行.
 Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 通行証.
+
+### 2026-09-11, word 137/246 — [[words/通行証|通行証]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "thông hành chứng," removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 証.md's own Words list. Citations on 通(char).md and 行(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 通貨.
+
+### 2026-09-11, word 138/246 — [[words/通貨|通貨]]
+Never-perfected word. **Found and fixed a typo on `cantonese`** (tong1 fo3 → tung1 fo3, matching 通's own stored tung1). **Found and fixed an invisible zero-width space (U+200B) inside `japanese`** (つ​うか, visually identical to つうか but with a hidden character — diagnosed via `repr()`). Filled a blank `vietnamese` with honest compositional "thông hoá," folded a stray floating comment (typo'd "synonmous with 貨幣") into proper Notes prose, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision.
+
+Next: 通過.
+
+### 2026-09-11, word 139/246 — [[words/通過|通過]]
+Never-perfected word. **Found and fixed a swapped mandarin/cantonese field bug**: pinyin-with-tone-marks had been stored under `cantonese` and Jyutping-with-tone-numbers under `mandarin`, corrected the swap. Filled a blank `vietnamese` with the directly-attested, extremely common "thông qua." Removed dangling blank `swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`. **Found and fixed a missing "(stand-in for 過)" annotation** on 過(char).md's own citation. Citations already correctly present on both character pages, `kwin: true` confirmed, no homophone collision.
+
+Next: 逝去.
+
+### 2026-09-11, word 140/246 — [[words/逝去|逝去]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `vietnamese` with honest compositional "thệ khứ," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, extended the existing Notes. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逞.
