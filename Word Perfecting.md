@@ -707,3 +707,23 @@ Next: 逝去.
 Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `vietnamese` with honest compositional "thệ khứ," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, extended the existing Notes. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 逞.
+
+### 2026-09-11, word 141/246 — [[words/逞|逞]]
+Never-perfected word. **Found and fixed a korean reading bug on both this page and 逞(char).md itself**: 령 used a structurally incompatible ㄹ-initial (逞's own MC initial 徹/ʈʰ never surfaces as ㄹ in Sino-Korean) — corrected to 정 by direct analogy with 偵 (identical MC initial+final). Fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `kwin`/`date-last-perfect`. **Found and fixed a missing "(stand-in for 逞)" annotation** on 逞(char).md's own citation. Confirmed the existing homophone callout with [[請]] was already correctly reciprocal (no fix needed).
+
+Next: 速.
+
+### 2026-09-11, word 142/246 — [[words/速|速]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on 速(char).md's own `vietnamese` field**: the native word "nhanh" had been mixed in with the genuine Sino-Vietnamese readings tốc/rốc — removed, using the honest tốc for this word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing "(stand-in for 速)" annotation** on 速(char).md's own citation. **Found a genuine homophone with [[俗]]**, already carrying a correct reciprocal callout dated today — added the matching callout to this page. `kwin: true` confirmed.
+
+Next: 速様.
+
+### 2026-09-11, word 143/246 — [[words/速様|速様]]
+Never-perfected word. **Found and fixed a wrong-compound-reading bug across all five reading fields**: mandarin/cantonese/korean/vietnamese held each language's own real everyday word for "quickly" (a garbled comma-mashed korean value; a kanji+okurigana japanese value 速く instead of a kana reading) rather than the honest compositional 速+様 combination — corrected to sùyàng/cuk1 joeng4/そくよう/속양 (matching the word's own stored 諺文/羅馬字)/tốc dạng, and wrote a Notes section explaining this is a Dan'a'yo-internal derivational compound (like the 此様/其様/彼様/何様 correlative series), not independently attested in any source language. **Found and removed five bad-aliases-entries** (迅速地, 快速地, 急速地, 趕快地, 赶快地 — all genuinely different compounds using 地 as their adverbializer). Filled blank `pos: 副詞`, filled missing `kwin`/`date-last-perfect`. Both character-page citations already correctly present, no homophone collision.
+
+Next: 造金.
+
+### 2026-09-11, word 144/246 — [[words/造金|造金]]
+Never-perfected word (chemistry neologism — technetium). Confirmed mandarin/cantonese/japanese/korean/vietnamese correctly follow the established proper-noun/named-referent convention for periodic-table neologisms (real element names/loanwords in each language, matching [[青素]]/[[重素]] precedent), not a bug. **Found and fixed a duplicate `pos`/`品詞` key bug** and an invisible non-breaking space (U+00A0) hidden inside the `japanese` list item (same bug class as the earlier 八卦.md finding). Filled missing `date-last-perfect`. **Found and fixed a missing citation** on 金(char).md's own Words list. Citation on 造.md already correctly present, `kwin: false` confirmed (matches 青素/重素 convention), no homophone collision.
+
+Next: 連世紀.

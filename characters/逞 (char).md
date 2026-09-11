@@ -1,7 +1,7 @@
 ---
 mandarin: "chěng"
 cantonese: cing2
-korean: "령"
+korean: "정"
 korean_native: "쾌할"
 japanese:
   - TEI
@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-14
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words
-- <ruby>[[逞]]<rt>ㄑㄧㄫ</rt></ruby> "indulge; brag"
+- <ruby>[[逞]]<rt>ㄑㄧㄫ</rt></ruby> "indulge; brag" (stand-in for 逞)

@@ -7,9 +7,8 @@ japanese:
   - SOKU
 japanese_native: すみ
 vietnamese:
-  - nhanh
-  - rốc
   - tốc
+  - rốc
 middle_chinese_initial: s
 middle_chinese_final: uk
 stroke_count: 11
@@ -51,7 +50,7 @@ boundedness: 80
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby> "quick, fast"
+- <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby> "quick, fast" (stand-in for 速)
 - <ruby>[[迅速]]<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby> "rapid; swift; prompt"
 - <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> "rapid; swift"
 - <ruby>[[速様]]<rt>ㄙㄛㄎ⼘ㄫ</rt></ruby> "quickly"
