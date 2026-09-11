@@ -3586,3 +3586,28 @@ Next: 何事.
 Fixed duplicate `pos`/`品詞` (kept pos), a missing `korean` field entirely (filled 하사, the archaic compositional reading — matching the "archaic" register already documented in the Notes prose), and a missing `vietnamese` field (hà sự, honest compositional, matching the column's classical/literary character). `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (事(char) false overrides 何(char)'s own true), no homophone collision. Content already outstanding (full correlative-column classical-antecedent survey: 何事/何物/何人/何名/何処/何時/何様). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 何人.
+
+### 2026-09-10, iteration 4271 — [[words/何人|何人]]
+**Major real content bug found and fixed**: `mandarin`/`cantonese`/`japanese`/`korean`/`vietnamese` had all been filled with the *semantic equivalents* this word's own Notes already discuss for contrast (誰/shéi, 邊個/bin1 go3, だれ, 누구, ai) — entirely different written words sharing no characters with 何人 — rather than the compound's own attested reading. Corrected to 何人's own compositional/attested forms: mandarin hérén (matching the classical reading already cited in this very page's own prose — the bug directly contradicted the page's own text), cantonese ho4 jan4, japanese なにびと (a real attested classical/literary word, as in 何人たりとも "no matter who"), korean 하인 (mechanical Sino-Korean composition, honestly noted as coinciding with the unrelated everyday word 하인 "servant"), vietnamese hà nhân (honest compositional). Fixed duplicate `pos`/`品詞`. Found and fixed a missing-citation bug on `人(char).md`; `何(char).md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (人(char) false overrides 何(char)'s own true). Stamped `date-last-perfect: 2026-09-10`. **Watch for the same "real-equivalent-instead-of-own-reading" bug pattern on the other correlative-column entries** (何処/何時/何名/何様 etc. — 何処 due next).
+
+Next: 何処.
+
+### 2026-09-10, iteration 4272 — [[words/何処|何処]]
+Confirmed the same real-equivalent-instead-of-own-reading bug found on [[何人]]: `mandarin`/`korean`/`vietnamese` had been filled with everyday semantic-equivalent words (哪裡/nǎlǐ, 어디, đâu) instead of 何処's own compositional reading; `cantonese` was missing entirely. Corrected to héchǔ/ho4 cyu2/하처/hà xử. Notably, `japanese: どこ` was correctly left untouched — 何処 really is read どこ as these exact characters in genuine everyday Japanese (unlike 何人/だれ, an entirely different character pair), so this is a real ateji-like exception, not the same bug. Fixed duplicate `pos`/`品詞`. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (処(char) false overrides 何(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何名.
+
+### 2026-09-10, iteration 4273 — [[words/何名|何名]]
+Confirmed the same real-equivalent-instead-of-own-reading bug on `mandarin`/`japanese`/`korean` (哪位/どなた/어느 분→hémíng/かめい/하명), with `cantonese`/`vietnamese` missing entirely (added ho4 ming4/hà danh). This page's own prose explicitly confirmed the bug: it already stated 何名 is "derived compositionally... not a borrowing" from どなた, unlike 何処's genuine どこ exception. Fixed duplicate `pos`/`品詞`. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (名(char) false overrides 何(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何多.
+
+### 2026-09-10, iteration 4274 — [[words/何多|何多]]
+Confirmed the same real-equivalent-instead-of-own-reading bug on ALL five language fields (多少/duōshǎo, 幾多/gei2 do1, いくら/いくつ, 얼마나, bao nhiêu — none of them readings of 何多 itself) — corrected to héduō/ho4 do1/かた/하다/hà đa. Honestly noted `korean: 하다` coincides with the unrelated common verb 하다 ("to do"), same category as [[何人]]'s own 하인 collision. Fixed duplicate `pos`/`品詞`. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (多(char) false overrides 何(char)'s own true), no homophone collision. Content already good (previously-fixed 注音 ㄉㄚ→ㄉㄜ error, comma-separated-string-to-list fix still hold). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何故.
+
+### 2026-09-10, iteration 4275 — [[words/何故|何故]]
+Confirmed the same real-equivalent-instead-of-own-reading bug on `cantonese`/`japanese`/`korean`/`vietnamese` (點解/なぜ/왜/sao→ho4 gu3/かこ/하고/hà cớ) — `mandarin: hégù` was already correctly compositional. This correction flipped `kwin` from false to true, since the corrected compositional Sino-Korean 하고 now exactly matches the word's own stored 諺文. Honestly noted かこ's homograph risk with 過去 ("the past"). Removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading, added missing `date-last-perfect`. `characters:` confirmed correct (bare 故, no conflicting words/故.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何時.

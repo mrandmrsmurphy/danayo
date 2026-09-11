@@ -118,6 +118,7 @@ boundedness: 75
 - <ruby>[[詩人]]<rt>ㄙㄧㄋㄧㄋ</rt></ruby> "poet"
 - <ruby>[[仙人掌]]<rt>ㄙ⼶ㄋㄋㄧㄋㄐㄚㄫ</rt></ruby> "cactus"
 - <ruby>[[人称]]<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
+- <ruby>[[何人]]<rt>ㄏㄚㄋㄧㄋ</rt></ruby> "who (direct); what person"
 - <ruby>[[類人猿]]<rt>ㄌㄨㄧㄋㄧㄋㄛㄋ</rt></ruby> "simian"
 ## Chengyu
 - <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
