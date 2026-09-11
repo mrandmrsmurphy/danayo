@@ -22,6 +22,26 @@ Never-perfected word. Removed duplicate `品詞` key, flattened single-item `jap
 
 Next: 儒学.
 
+### 2026-09-11, word 5/246 — [[words/儒学|儒学]]
+Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists. **Found and fixed a bad aliases entry**: 儒教 and 孔教 were listed as if spelling variants of 儒学, but both are separately-attested Confucianism-related terms with their own dedicated vault pages — removed, kept only genuine traditional form 儒學. **Found and fixed a mismatched link**: an "Emphasizes" list item displayed "智" (wisdom) but linked to the unrelated word [[知]] ("to know") — corrected to link to [[智慧]] (智's own legitimizing word, confirmed via 智(char)'s own `stand_in` field). Converted raw-markdown links to wikilinks throughout that list. Filled a missing `date-last-perfect` entirely. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 儒教.
+
+### 2026-09-11, word 6/246 — [[words/儒教|儒教]]
+Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists, removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch (page had none). **Found and fixed a bad aliases entry**: 儒家 was listed as a spelling variant of 儒教, but it's a separately-attested term ("the Confucian school") with its own dedicated vault page — removed, kept only genuine old-form variant 儒敎. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 元年.
+
+### 2026-09-11, word 7/246 — [[words/元年|元年]]
+Never-perfected word. Filled a missing `vietnamese` field with honest compositional "nguyên niên" (noting the native năm đầu is more common), filled entirely-missing `kwin` (false, byte-level verified 넌≠년) and `date-last-perfect`. `characters:` confirmed correct via `ls` (年 (char) disambiguation necessary), both character-page citations already present, no homophone collision. Confirmed 元's own `stand_in` is [[元素]] (not this word), so no legitimizing note needed here.
+
+Next: 元日.
+
+### 2026-09-11, word 8/246 — [[words/元日|元日]]
+Never-perfected word. Removed duplicate `品詞` key, flattened a single-item `japanese` list. Filled entirely-missing `korean`/`vietnamese` fields with honest compositional readings (원일, nguyên nhật — noting 元旦/nguyên đán is the more common everyday term), entirely-missing `kwin` (false) and `date-last-perfect`. Fixed broken relative links. `characters:` confirmed correct via `ls` (日 (char) disambiguation necessary), both character-page citations already present, no homophone collision.
+
+Next: 兄弟.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
