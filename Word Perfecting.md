@@ -3506,3 +3506,23 @@ Next: 佇立.
 Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields, added legitimizing-note phrasing (佇's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 佇, no conflicting words/佇.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (佇(char) false overrides 立(char)'s own true), no homophone collision. Content already honest (no fixed Vietnamese idiom found, presented as compositional rather than fabricated attestation). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 位相.
+
+### 2026-09-10, iteration 4255 — [[words/位相|位相]]
+Normalized inline-flow `characters:` to block-list format, filled a blank `pos: 名詞`, removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added missing `date-last-perfect`, wrote missing Notes. Corrected `vietnamese` from the overly-specific "pha sóng" ("wave phase") to the standard general physics term pha (as in độ lệch pha, "phase difference"). `characters:` confirmed correct (bare 位/相, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (位(char) false overrides 相(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 位置.
+
+### 2026-09-10, iteration 4256 — [[words/位置|位置]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. `characters:` confirmed correct (`置 (char)` required, conflicting words/置.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (位(char) false overrides 置(char)'s own true), no homophone collision. Content already good (previously-fixed 位's own blank-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 位-prefixed word cluster.
+
+Next: 低下.
+
+### 2026-09-10, iteration 4257 — [[words/低下|低下]]
+Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, added legitimizing-note phrasing (低's own `stand_in` is this exact compound). `characters:` confirmed correct (`下 (char)` required, conflicting words/下.md exists — verified separately), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (低(char) false overrides 下(char)'s own true), no homophone collision. Content already good (previously-fixed 低's own blank-vietnamese gap still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 低廉.
+
+### 2026-09-10, iteration 4258 — [[words/低廉|低廉]]
+Fixed missing disambiguation (bare `廉`→`廉 (char)`, since `words/廉.md` exists), removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a non-standard `## Etymology` heading into `## Notes`. Both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (低(char) false overrides 廉(char)'s own true), no homophone collision. Content already good (honest note on 廉's secondary "affordable" sense vs. its more familiar "honest, incorrupt" sense). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 低-prefixed word cluster.
+
+Next: 住宅.
