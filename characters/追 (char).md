@@ -50,7 +50,7 @@ boundedness: 100
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby> "follow, hunt"
+- <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby> "follow, hunt" (stand-in for 追)
 - <ruby>[[追逐]]<rt>ㄊㄨㄧㄉㄨㄎ</rt></ruby> "chase; pursue"
 - <ruby>[[追及]]<rt>ㄊㄨㄧㄍㄨㄆ</rt></ruby> "to pursue and catch; to investigate and hold accountable"
 - <ruby>[[追随]]<rt>ㄊㄨㄧㄙㄨㄧ</rt></ruby> "follow, pursue"

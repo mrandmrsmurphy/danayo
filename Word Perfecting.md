@@ -597,3 +597,23 @@ Next: 迷.
 Never-perfected word. Filled `vietnamese: null` with the character's own attested "me," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 迷 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing three-way homophone callout with [[米]] and [[謎]] was already correctly reciprocal on all three pages (no fix needed). `kwin: false` confirmed.
 
 Next: 追.
+
+### 2026-09-11, word 119/246 — [[words/追|追]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "truy," fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`kwin`/`date-last-perfect`, wrote a `## Notes` section from scratch (no prior Notes at all). **Found and fixed a missing "(stand-in for 追)" annotation** on 追(char).md's own ruby-formatted citation. `kwin: false` confirmed, no homophone collision.
+
+Next: 追求.
+
+### 2026-09-11, word 120/246 — [[words/追求|追求]]
+Never-perfected word. **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`), cleared blank empty-string `vietnamese: ""`/`swadesh: ""` placeholders and filled vietnamese with the directly-attested "truy cầu," filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 追随.
+
+### 2026-09-11, word 121/246 — [[words/追随|追随]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "truy tuỳ," removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 退.
+
+### 2026-09-11, word 122/246 — [[words/退|退]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "thoái," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 退 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄊㄧㄜ is shared with 腿 but it has no dedicated word page, so no genuine homophone.
+
+Next: 送球.
