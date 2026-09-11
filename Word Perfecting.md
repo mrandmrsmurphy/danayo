@@ -367,3 +367,28 @@ The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `W
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
 
 ---
+
+### 2026-09-11, word 73/246 — [[words/跨|跨]]
+Never-perfected word. Filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 跨 (char), whose own `stand_in` points to this exact word (itself). **Found and fixed a genuine word-to-word homophone with [[誇]]** ("boast, brag, exaggerate," previously perfected 2026-08-10 with no callout) — added reciprocal `>[!warning] Homophones` callouts and cross-linking prose to both pages. Character-page citation already present in correct self-standing format, `kwin: false` confirmed via byte-level comparison (콰 U+CF70 vs 과 U+ACFC).
+
+Next: 跪.
+
+### 2026-09-11, word 74/246 — [[words/跪|跪]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`kwin`/`date-last-perfect`, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Added a missing legitimizing note for 跪 (char), whose own `stand_in` points to this exact word (itself). **Found and fixed two bugs on 跪(char).md**: a malformed `japanese_native` field (an orphan list item dangling off a scalar value, merged into a proper two-item list ひざまず/ひざまずく) and an entirely missing `## Words` section (added the citation). `kwin: false` confirmed via byte-level comparison (퀘 U+D018 vs 궤 U+ADA4), no homophone collision.
+
+Next: 跳舞.
+
+### 2026-09-11, word 75/246 — [[words/跳舞|跳舞]]
+Never-perfected word. Filled entirely-blank `japanese`/`korean`/`vietnamese`, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Vietnamese "khiêu vũ" is a directly attested loanword; Japanese とうぶ/korean 도무 are honest compositional readings (とうぶ independently attested via 跳舞病). **Found and fixed a missing citation** on 跳.md's own Words list. Noted 舞's `stand_in` legitimizes this word, while 跳's own `stand_in` is 跳躍 instead. `kwin: false` confirmed, no homophone collision.
+
+Next: 跳蚤.
+
+### 2026-09-11, word 76/246 — [[words/跳蚤|跳蚤]]
+Never-perfected word. **Found and fixed a genuine real-equivalent-instead-of-own-reading bug across all three of japanese/korean/vietnamese**: stored values were the everyday native terms for "flea" (のみ/ノミ, 벼룩, con bọ chét) plus a garbled korean value ("조조, 벼룩" — a doubled/malformed compositional attempt mashed with the native word) instead of the word's own honest compositional readings. Fixed to とうそう/도조/khiêu tảo (跳's own TOU/도/khiêu + 蚤's own SOU/조/tảo). Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section from scratch. Citation already present on 蚤.md, `kwin: false` confirmed, no homophone collision. Noted 蚤's `stand_in` legitimizes this word, while 跳's own `stand_in` is 跳躍 instead.
+
+Next: 跳躍.
+
+### 2026-09-11, word 77/246 — [[words/跳躍|跳躍]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "khiêu dược," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section from scratch. **Found and fixed a missing `#cranberry` tag**: both 跳 and 躍's own `stand_in` fields point to this word (transitivity A=B=AB confirmed) — added the tag and a closing note. **Also fixed a bare, un-ruby-formatted citation** on 跳.md's own Words list. 躍.md's own citation was already correctly ruby-formatted. `kwin: false` confirmed, no homophone collision.
+
+Next: 踊躍.

@@ -5,7 +5,8 @@ korean: "궤"
 korean_native: 꿇어앉을
 japanese:
   - KI
-japanese_native: ひざまず
+japanese_native:
+  - ひざまず
   - ひざまずく
 vietnamese:
   - quỵ
@@ -47,3 +48,6 @@ boundedness: 65
 - Not on HSK, Not in Jōyō, Not even in Korean name list, [Grade Advanced](lookup/Grade%20Advanced.md)
 [[Lookup/CC/initials/聲 溪]]
 [[Lookup/CC/finals/韻 支B三合]]
+
+## Words
+- [跪](words/跪.md) "kneel" — 跪 stands alone as a word in Dan'a'yo.
