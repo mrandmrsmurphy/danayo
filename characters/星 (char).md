@@ -69,6 +69,7 @@ boundedness: 80
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
+- <ruby>[[冥王星]]<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet, Singapore"
 - [[星条旗]] "stars and stripes"
 - [[星霜]] "time and years"

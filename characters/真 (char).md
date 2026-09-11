@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[真実]]<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby> "truth, reality"
 - <ruby>[[真摯]]<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby> "sincere; earnest"
 - <ruby>[[天真]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "innocent; naive; artless"
+- <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> "photograph"
 
 ## Chengyu
 - <ruby>[[天真乱漫]]<rt>ㄊㄝㄋㄐㄧㄋㄌㄚㄋㄇㄚㄋ</rt></ruby> "simple and artless"

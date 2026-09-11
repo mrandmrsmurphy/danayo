@@ -56,6 +56,7 @@ date-last-perfect: 2026-08-09
 - <ruby>[[冥]]<rt>ㄇㄝㄫ</rt></ruby> "dark, gloomy" (stand-in for 冥)
 - <ruby>[[冥王]]<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby> "Pluto; Hades; Yama; King of the Underworld"
 - <ruby>[[冥金]]<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby> "plutonium"
+- <ruby>[[冥王星]]<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
 
 ## Derived Characters
 - [[螟]]

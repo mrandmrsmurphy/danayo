@@ -167,6 +167,31 @@ Never-perfected word. **Found and fixed two genuine reading errors**: `cantonese
 
 Next: 共産.
 
+### 2026-09-11, word 34/246 — [[words/共産|共産]]
+Never-perfected word. Disambiguated bare 共 to "共 (char)" (words/共.md exists). Fixed inline-flow `characters:`/`aliases:` lists, removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. `characters:` (bare 産) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 兵法.
+
+### 2026-09-11, word 35/246 — [[words/兵法|兵法]]
+Never-perfected word. Fixed an unspaced cantonese field, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, merged `## Etymology` and a stray dangling-link note into a full `## Notes` section (honestly disclosing that [[孫子兵法]] has no dedicated page yet, rather than leaving a broken link). `characters:` confirmed correct via `ls` (法 (char) disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 再度.
+
+### 2026-09-11, word 36/246 — [[words/再度|再度]]
+Never-perfected word. Trimmed a comma-joined `korean` field (native synonyms 다시/또 moved to prose, kept compositional 재도 alone — which conveniently matches this word's own 諺文 exactly, so `kwin`, entirely missing, was filled in as true). Replaced the native `vietnamese: lại` with the compositional `tái độ` (disclosing native lại as the everyday word). Filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 再, whose own `stand_in` points to this word. Both character-page citations already present, no homophone collision. **Flagged**: 度(char).md's own `vietnamese` field lists dác/dạc/giạc/đo/đác but is missing the expected độ candidate (the reading actually used compositionally here) — worth checking on 度's own future turn.
+
+Next: 写真.
+
+### 2026-09-11, word 37/246 — [[words/写真|写真]]
+Never-perfected word. Filled a blank `pos:` (名詞), fixed inline-flow `characters:`/`aliases:` lists, removed dangling blank `hsk_level:`/`swadesh:`, replaced native `vietnamese: tấm hình` with honest compositional "tả chân" (disclosing it's attested for "realistic depiction" generally, not specifically "photograph," and that tấm hình/ảnh is the everyday word). Filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. **Found and fixed a missing citation** on 真(char).md's own Words list. `characters:` (真 (char) disambiguation) confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision.
+
+Next: 冥王星.
+
+### 2026-09-11, word 38/246 — [[words/冥王星|冥王星]]
+Never-perfected word. Filled an entirely-blank `cantonese` field with the compositional ming4 wong4 sing1, removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed missing citations** on both 冥(char).md and 星(char).md's own Words lists (only 王(char).md already had it). `characters:` confirmed correct via `ls` (all three disambiguations necessary), `kwin: false` confirmed, no homophone collision.
+
+Next: 冷麺.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
