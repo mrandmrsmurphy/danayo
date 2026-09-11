@@ -277,6 +277,31 @@ Never-perfected word. Disambiguated bare 那 to "那 (char)" (words/那.md exist
 
 Next: 刺激.
 
+### 2026-09-11, word 56/246 — [[words/刺激|刺激]]
+Never-perfected word. Disambiguated bare 刺 to "刺 (char)" (words/刺.md exists). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section — confirmed Vietnamese `kích thích`'s reversed syllable order relative to the Chinese original is a genuine, common Sino-Vietnamese pattern, not an error. Added a missing legitimizing note for 激, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 前兆.
+
+### 2026-09-11, word 57/246 — [[words/前兆|前兆]]
+Never-perfected word. Fixed an unspaced cantonese field, replaced the native `vietnamese: điềm` with the directly-attested Sino-Vietnamese compositional "tiền triệu" (disclosing native điềm as the everyday alternative). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 兆, whose own `stand_in` points to this word. **Found and fixed a raw-markdown-link-instead-of-wikilink self-citation** on 兆.md's own Words list. `kwin: false` confirmed, no homophone collision.
+
+Next: 前提.
+
+### 2026-09-11, word 58/246 — [[words/前提|前提]]
+Never-perfected word. Removed duplicate `品詞` key, flattened single-item `japanese`/`vietnamese` lists, fixed broken relative links, filled a missing `date-last-perfect` entirely. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 文学者.
+
+### 2026-09-11, word 59/246 — [[words/文学者|文学者]]
+Never-perfected word. **Found and fixed a real content bug affecting three fields at once**: `mandarin`, `cantonese`, and `korean` had all been filled with the reading of the alias 文学家 (using 家, not this word's own 者) rather than 文学者's own characters — corrected to wénxuézhě, man4 hok6 ze2, and 문학자 (trimmed from a comma-joined crammed field). Filled an entirely-blank `vietnamese` field with honest compositional "văn học giả." Disambiguated bare 者 to "者 (char)," filled entirely-missing `kwin`/`date-last-perfect`, wrote a `## Notes` section from scratch. All three character-page citations already present, no homophone collision.
+
+Next: 文明.
+
+### 2026-09-11, word 60/246 — [[words/文明|文明]]
+Never-perfected word, but otherwise already well-formed. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 超.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
