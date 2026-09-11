@@ -237,6 +237,26 @@ Never-perfected word. **Found and fixed a real `kwin` bug**: stored `true`, but 
 
 Next: 刀剣.
 
+### 2026-09-11, word 48/246 — [[words/刀剣|刀剣]]
+Never-perfected word. Filled an entirely-blank `cantonese` field with the compositional dou1 gim3. Removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, replaced casual stand-in prose with the standard legitimizing-note phrasing (刀's own `stand_in` confirmed pointing to this word), merged `## Etymology` into a full `## Notes` section. **Found and fixed a bare-wikilink citation** on 刀.md's own Words list (missing ruby and the "(stand-in for 刀)" annotation). `characters:` confirmed correct, `kwin: false` confirmed, no homophone collision.
+
+Next: 分子.
+
+### 2026-09-11, word 49/246 — [[words/分子|分子]]
+Never-perfected word. Disambiguated bare 分 to "分 (char)" (words/分.md exists — confirmed via `ls`). Fixed a semicolon-joined `vietnamese` field into a proper YAML list (phân tử/phần tử, two distinct tonal words for the two distinct senses — molecule vs. numerator). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed missing/malformed citations**: 分子 was missing entirely from 分(char).md's own Words list, and was a bare dash-gloss (no ruby) on 子.md's. `kwin: false` confirmed, no homophone collision.
+
+Next: 判別式.
+
+### 2026-09-11, word 50/246 — [[words/判別式|判別式]]
+Never-perfected word. Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section — confirmed `vietnamese: biệt thức` is a genuine shortened standard math term, not an error. **Found and fixed a missing citation** on 式.md's own Words list (only 判.md and 別(char).md already had it). `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision.
+
+Next: 判断.
+
+### 2026-09-11, word 51/246 — [[words/判断|判断]]
+Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists, quoted bare `hsk_level`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Added a missing legitimizing note for 判, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 利潤.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
