@@ -3546,3 +3546,23 @@ Next: 体液.
 Found and fixed a real YAML bug: `date-last-perfect` was duplicated as two separate keys with different values (2026-08-03 and 2026-06-20) — removed the stale duplicate. Fixed a missing `kwin` field entirely (added false, confirmed via AND-rule). `characters:` confirmed correct (bare 液, no conflicting words/液.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Content already good (previously-fixed vietnamese attestation correction, miễn dịch thể dịch immunology cross-reference). Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 体現.
+
+### 2026-09-10, iteration 4263 — [[words/体現|体現]]
+Fixed a spaced `mandarin` ("tǐ xiàn"→"tǐxiàn"), removed dangling empty `hsk_level`/`swadesh`/`aliases: []`. `characters:` confirmed correct (`現 (char)` required, conflicting words/現.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 現(char)'s own true), no homophone collision. Re-confirmed this page's own fields are fully clean, with no residual cross-contamination from the earlier-found [[佐理]] copy-paste bug. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体積.
+
+### 2026-09-10, iteration 4264 — [[words/体積|体積]]
+Filled a blank `pos: 名詞`, removed dangling empty `swadesh`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct (bare 積, no conflicting words/積.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 積(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体系.
+
+### 2026-09-10, iteration 4265 — [[words/体系|体系]]
+Added missing `date-last-perfect` and the standard legitimizing-note phrasing alongside the existing informal note (体's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 系, no conflicting words/系.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already outstanding (thorough 体制/全体/液体系 contrast with 身体's concrete-body sense). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体育.
+
+### 2026-09-10, iteration 4266 — [[words/体育|体育]]
+Already in excellent shape. `characters:` confirmed correct (`育 (char)` required, conflicting words/育.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 育(char)'s own true), no homophone collision. Content already outstanding (correctly notes neither constituent's own stand_in points here). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 体育館.
