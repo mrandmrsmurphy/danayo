@@ -54,6 +54,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby> "valley"
+- <ruby>[[出谷記]]<rt>ㄑㄨㄊㄍㄧㄍㄛㄎ</rt></ruby> "Exodus"
 
 ## Derived Characters
 - <ruby>[[俗 (char)|俗]]<rt>ㄙㄛㄎ</rt></ruby> "vulgar"

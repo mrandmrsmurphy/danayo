@@ -212,6 +212,31 @@ Never-perfected word. Fixed a typo ("bumby" → "bumpy," confirmed against both 
 
 Next: 出版.
 
+### 2026-09-11, word 43/246 — [[words/出版|出版]]
+Never-perfected word. **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 춛판 (coda ㅊ) genuinely diverges from own korean 출판 (coda ㄹ) — corrected to `false`. Fixed unindented `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, no homophone collision.
+
+Next: 出生率.
+
+### 2026-09-11, word 44/246 — [[words/出生率|出生率]]
+Never-perfected word. Filled entirely-missing `kwin` (false, byte-level verified: own 諺文 춛상룯 diverges from own korean 출생률 in all three syllables) and entirely-missing `date-last-perfect`. `characters:` confirmed correct via `ls`, all three character-page citations already present, no homophone collision.
+
+Next: 出血.
+
+### 2026-09-11, word 45/246 — [[words/出血|出血]]
+Never-perfected word. Disambiguated bare 血 to "血 (char)" (words/血.md exists — confirmed via `ls`). Fixed unindented `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 出谷記.
+
+### 2026-09-11, word 46/246 — [[words/出谷記|出谷記]]
+Never-perfected word (Book of Exodus, historical Chinese Catholic name). Reordered `characters:` list to match the word's own character order (was 出/記/谷, corrected to 出/谷/記) and disambiguated bare 谷. Removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch explaining the Catholic/Protestant naming distinction, and gave proper heading/context/translation to a bare, unlabeled "## 20" section that was actually a condensed classical-style summary of the Ten Commandments. **Deliberately did not "correct" the mandarin/cantonese/japanese/korean/vietnamese fields** despite each one naming the real-world Exodus by its OWN language's common title rather than a compositional Dan'a'yo transliteration — this matches established vault practice for proper nouns/titles (e.g. [[冥王星]]), not the real-equivalent-word bug pattern seen on common vocabulary. **Found and fixed a missing citation** on 谷(char).md's own Words list. No homophone collision.
+
+Next: 出身.
+
+### 2026-09-11, word 47/246 — [[words/出身|出身]]
+Never-perfected word. **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 춛신 genuinely diverges from own korean 출신 in the first syllable's coda — corrected to `false`. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, no homophone collision.
+
+Next: 刀剣.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
