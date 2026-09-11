@@ -487,3 +487,48 @@ Next: 輸血.
 Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `pos: 性詞`, filled a blank `vietnamese` with honest compositional "thâu huyết," fixed a malformed inline `aliases:` into a proper list (输血, legitimate simplified variant), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 輿.
+
+### 2026-09-11, word 97/246 — [[words/輿|輿]]
+Never-perfected word. Filled missing `kwin`/`date-last-perfect`, extended the existing Notes with the standard readings/kwin/legitimizing-note sentences. Confirmed the existing three-way homophone callout with [[魚]] and [[与]] was already correctly reciprocal on all three pages (no fix needed). `kwin: false` confirmed via byte comparison. Citation already correctly present on the character page.
+
+Next: 辛苦.
+
+### 2026-09-11, word 98/246 — [[words/辛苦|辛苦]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 苦 → "苦 (char)," since [[苦]] has its own word page). **Found and fixed a real-equivalent-instead-of-own-reading bug**: korean held 고생 (苦生, an unrelated hanja compound), replaced with honest compositional 신고. Filled a blank `vietnamese` with the directly-attested Sino-Vietnamese "tân khổ." **Found and fixed missing citations** on both 辛.md and 苦(char).md's own Words lists (辛苦 was absent from each). Filled missing `date-last-perfect`, wrote a `## Notes` section. `kwin: false` confirmed, no homophone collision. Neither constituent's `stand_in` points to this word.
+
+Next: 辞令.
+
+### 2026-09-11, word 99/246 — [[words/辞令|辞令]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 令 → "令 (char)," since [[令]] has its own word page). **Found and fixed a genuinely missing "lệnh" candidate on 令(char).md's own `vietnamese` field** (only rarer variants lanh/liệng/loanh had been listed; "lệnh" is the standard reading used elsewhere, e.g. 命令's "mệnh lệnh"). Filled blank `cantonese`/`vietnamese`, fixed a malformed inline `aliases:` (辭令, legitimate traditional variant), folded a stray floating comment ("we broaden this...") into proper Etymology/Notes prose, filled missing `date-last-perfect`. **Found and fixed a missing citation** on 令(char).md's own Words list. Citation on 辞.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辞任.
+
+### 2026-09-11, word 100/246 — [[words/辞任|辞任]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias line ("辭任") into a proper `aliases:` field, filled a blank `vietnamese` with the directly-attested "từ nhiệm," filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 辞.md's own Words list. Citation on 任.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辞去.
+
+### 2026-09-11, word 101/246 — [[words/辞去|辞去]]
+Never-perfected word. Fixed `characters:` unindented list, filled a blank `vietnamese` with honest compositional "từ khứ," fixed a malformed inline `aliases:` into a proper list (辭去, legitimate traditional variant), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辞退.
+
+### 2026-09-11, word 102/246 — [[words/辞退|辞退]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias line ("辭退") into a proper `aliases:` field, filled a blank `vietnamese` with the directly-attested "từ thoái," filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辣.
+
+### 2026-09-11, word 103/246 — [[words/辣|辣]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`. **Found and fixed a genuine `kwin` miscalculation on 辣(char).md itself**: byte-level comparison shows Dan'a'yo 랃 (U+B783) and Sino-Korean 랄 (U+B784) are visually near-identical but genuinely different Hangul syllables — corrected `kwin: true` → `false` on both pages (same divergence-bug class as the earlier 읫/의 finding). Added a missing legitimizing note for 辣 (char), whose own `stand_in` points to this exact word (itself). Citation already correctly present.
+
+Next: 辦公.
+
+### 2026-09-11, word 104/246 — [[words/辦公|辦公]]
+Never-perfected word. Filled blank `japanese`/`vietnamese` with honest compositional べんこう/biện công, removed dangling blank `swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 公(char).md's own Words list. Citation on 辦.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辦公室.
+
+### 2026-09-11, word 105/246 — [[words/辦公室|辦公室]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, **found and fixed a real-equivalent-instead-of-own-reading bug on japanese** (オフィス, the English loanword, replaced with honest compositional べんこうしつ), filled a blank `vietnamese` with honest compositional "biện công thất." **Found and removed a bad-aliases-entry**: 事務室 is a genuinely different compound, not a spelling variant. Folded a stray floating comment (building-vs-room distinction, referencing 事務所) into proper Notes prose. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`. **Found and fixed a missing citation** on 公(char).md's own Words list. Citations on 辦.md and 室.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辦理.

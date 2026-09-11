@@ -54,6 +54,7 @@ boundedness: 90
 - <ruby>[[苦痛]]<rt>ㄎㄛㄊㄛㄫ</rt></ruby> "agony, pain, suffering"
 - <ruby>[[苦難]]<rt>ㄎㄛㄋㄚㄋ</rt></ruby> "hardship, tribulation"
 - <ruby>[[苦肉]]<rt>ㄎㄛㄋㄨㄎ</rt></ruby> "desperate self-sacrifice"
+- <ruby>[[辛苦]]<rt>ㄙㄧㄋㄎㄛ</rt></ruby> "work hard, toil"
 - <ruby>[[苦悩]]<rt>ㄎㄛㄋㄚㄨ</rt></ruby> "inner torment"
 - <ruby>[[苦悶]]<rt>ㄎㄛㄇㄛㄋ</rt></ruby> "agony; anguish; worry"
 - <ruby>[[苦渋]]<rt>ㄎㄛㄙㄧㄆ</rt></ruby> "astringent; harsh; rough"

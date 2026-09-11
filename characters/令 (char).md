@@ -8,6 +8,7 @@ japanese:
   - RYOU
 japanese_native: ø
 vietnamese:
+  - lệnh
   - lanh
   - liệng
   - loanh
@@ -65,6 +66,7 @@ boundedness: 85
 - <ruby>[[令聞]]<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby> "good name, reputation"
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
 - <ruby>[[令色]]<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby> "flattering looks; sycophantic expression"
+- <ruby>[[辞令]]<rt>ㄑㄧㄌㄝㄫ</rt></ruby> "letter of dismissal/letter of resignation"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"

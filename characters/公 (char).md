@@ -53,6 +53,8 @@ boundedness: 100
 - <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> "kilogram"
 - <ruby>[[公邸]]<rt>ㄍㄛㄫㄉㄝㄧ</rt></ruby> "official residence"
 - <ruby>[[公平]]<rt>ㄍㄛㄫㄅ⼶ㄫ</rt></ruby> "fair, impartial, just"
+- <ruby>[[辦公]]<rt>ㄅㄚㄋㄍㄛㄫ</rt></ruby> "do business, handle business"
+- <ruby>[[辦公室]]<rt>ㄅㄚㄋㄍㄛㄫㄙㄧㄊ</rt></ruby> "office"
 [[Lookup/CC/initials/聲 見]]
 [[Lookup/CC/finals/韻 東一]]
 - [[公卿]] "nobility"
