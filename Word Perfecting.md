@@ -577,3 +577,23 @@ Next: 近来.
 Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: a garbled multi-value string "근래, 요사이, 요즈음" mashed the honest compositional reading with two unrelated native words for "recently" — trimmed to just 근래. Filled a blank `vietnamese` with honest compositional "cận lai." Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias line ("近來") into a proper `aliases:` field, filled missing `kwin`/`date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 返還.
+
+### 2026-09-11, word 115/246 — [[words/返還|返還]]
+Never-perfected word. Filled missing `date-last-perfect`, extended the existing Notes with readings/kwin/homophone verification. **Found and fixed an entirely missing `## Words` section** on 還.md — added both its own stand-in citation ([[送還]]) and this word's citation. Citation on 返.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 迦克敦.
+
+### 2026-09-11, word 116/246 — [[words/迦克敦|迦克敦]]
+Never-perfected word (proper noun — Chalcedon). Filled a missing `vietnamese` with "Canxêđoan," that language's own real attested name for the place (via French "Chalcédoine"), following this vault's proper-noun/named-referent convention rather than a compositional transliteration (cf. 冥王星, 出谷記). Filled missing `date-last-perfect`, extended the Notes. Both character-page citations (克, 敦) already correctly present, `kwin: false` confirmed, no homophone collision. Confirmed 迦 genuinely still lacks a character file (already correctly flagged in the existing Notes).
+
+Next: 迫害.
+
+### 2026-09-11, word 117/246 — [[words/迫害|迫害]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "bách hại," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision.
+
+Next: 迷.
+
+### 2026-09-11, word 118/246 — [[words/迷|迷]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "me," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 迷 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing three-way homophone callout with [[米]] and [[謎]] was already correctly reciprocal on all three pages (no fix needed). `kwin: false` confirmed.
+
+Next: 追.
