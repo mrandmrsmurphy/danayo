@@ -56,6 +56,7 @@ boundedness: 100
 - <ruby>[[業業]]<rt>ㄝㄆㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideophone)
 - <ruby>[[漁業]]<rt>⼄ㄝㄆ</rt></ruby> "fishing industry, fishery"
 - <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
+- <ruby>[[農業]]<rt>ㄋㄛㄫㄝㄆ</rt></ruby> "agriculture, farming"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "get married and start a career"

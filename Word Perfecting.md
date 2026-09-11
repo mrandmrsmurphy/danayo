@@ -532,3 +532,23 @@ Next: 辦公室.
 Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, **found and fixed a real-equivalent-instead-of-own-reading bug on japanese** (オフィス, the English loanword, replaced with honest compositional べんこうしつ), filled a blank `vietnamese` with honest compositional "biện công thất." **Found and removed a bad-aliases-entry**: 事務室 is a genuinely different compound, not a spelling variant. Folded a stray floating comment (building-vs-room distinction, referencing 事務所) into proper Notes prose. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`. **Found and fixed a missing citation** on 公(char).md's own Words list. Citations on 辦.md and 室.md already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 辦理.
+
+### 2026-09-11, word 106/246 — [[words/辦理|辦理]]
+Never-perfected word. Filled a blank `pos: 実詞`, filled blank `japanese`/`vietnamese` with honest compositional べんり/biện lý (each a disclosed coincidental homophone of an unrelated real word — Japanese 便利, Vietnamese's old "public prosecutor" sense), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 理.md's own Words list. Citation on 辦.md already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 辦, whose own `stand_in` points to this exact word; noted 理's own `stand_in` is 理由 instead.
+
+Next: 辰月.
+
+### 2026-09-11, word 107/246 — [[words/辰月|辰月]]
+Never-perfected word. **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`). **Found and fixed an entirely missing `## Words` section** on 辰.md (whose own `stand_in` is the proper-noun-only marker 名専字). Filled missing `date-last-perfect`, extended the Notes with readings/kwin/homophone verification. Citation on 月(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 農村.
+
+### 2026-09-11, word 108/246 — [[words/農村|農村]]
+Never-perfected word. Fixed `characters:`/`aliases:` formatting, removed dangling blank `swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing "(stand-in for 村)" annotation** on 村.md's own citation — 村's `stand_in` points to this exact word. `kwin: true` confirmed, no homophone collision. Noted 農's own `stand_in` is 農業 instead.
+
+Next: 農業.
+
+### 2026-09-11, word 109/246 — [[words/農業|農業]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, folded a stray floating comment ("Synonymous with 農耕") into proper Notes prose. Filled missing `date-last-perfect`. **Found and fixed a missing citation** on 業(char).md's own Words list. Citation on 農.md already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 農, whose own `stand_in` points to this exact word.
+
+Next: 農耕.
