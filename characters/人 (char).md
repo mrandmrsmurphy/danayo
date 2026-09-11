@@ -78,7 +78,7 @@ boundedness: 75
 7. <ruby>[[人手]]<rt>ㄋㄧㄋㄙ⼜</rt></ruby> "manpower; person's hand"
 8. [[盲人]]
 9. <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
-10. [[軍人]]
+10. <ruby>[[軍人]]<rt>ㄍㄨㄋㄋㄧㄋ</rt></ruby> "soldier"
 11. <ruby>[[佳人]]<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby> "beautiful woman"
 12. [[芸人]]
 13. <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."

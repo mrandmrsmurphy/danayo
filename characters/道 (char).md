@@ -57,6 +57,7 @@ boundedness: 70
 - <ruby>[[陰道]]<rt>ㄧㄇㄉㄚㄨ</rt></ruby> "vagina"
 - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby> "road"
 - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby> "railroad"
+- <ruby>[[軌道]]<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby> "orbit"
 - <ruby>[[報道]]<rt>ㄅㄚㄨㄉㄚㄨ</rt></ruby> "cover news"
 - <ruby>[[街道]]<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby> "street"
 - <ruby>[[坑道]]<rt>ㄎㄚㄫㄉㄚㄨ</rt></ruby> "tunnel"

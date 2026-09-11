@@ -417,3 +417,28 @@ Next: 車庫.
 Never-perfected word. Fixed `characters:` disambiguation (bare 車 → "車 (char)," since [[車]] has its own word page). **Found and fixed a real-equivalent-instead-of-own-reading bug**: vietnamese held the everyday phrase "nhà để ô tô, ga ra" instead of the honest compositional "xa kho." **Found and removed a bad-aliases-entry bug**: `库车` is the unrelated real place name Kùchē/Kuqa, not a spelling variant. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 軌道.
+
+### 2026-09-11, word 83/246 — [[words/軌道|軌道]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 軌/道 → "軌 (char)"/"道 (char)," since both have their own word pages), fixed a mandarin typo (guǐdà → guǐdào), removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed missing citations** on both 軌(char).md's and 道(char).md's own Words lists. `kwin: false` confirmed, no homophone collision. Neither constituent is legitimized by this compound — both already stand alone as words with self-referential `stand_in`.
+
+Next: 軍人.
+
+### 2026-09-11, word 84/246 — [[words/軍人|軍人]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed missing/bare citations**: 軍.md's own Words list was missing 軍人 entirely (added); 人(char).md had it in bare numbered-list format (upgraded to ruby, broader section reorg still flagged/deferred). `kwin: false` confirmed, no homophone collision. 軍's own `stand_in` is 軍隊, not this word.
+
+Next: 軍艦.
+
+### 2026-09-11, word 85/246 — [[words/軍艦|軍艦]]
+Never-perfected word. Fixed `characters:` unindented list, removed dangling blank `hsk_level:`/`swadesh:`, fixed a malformed inline `aliases:` into a proper list, filled missing `date-last-perfect`, folded a stray floating comment ("narrower than 艦船") into a proper `## Notes` section as cited prose. Confirmed `军舰` alias is a legitimate simplified-character spelling variant, not a bug. Citation already correctly present on 艦.md, `kwin: true` confirmed, no homophone collision.
+
+Next: 軍隊.
+
+### 2026-09-11, word 86/246 — [[words/軍隊|軍隊]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 軍, whose own `stand_in` points to this exact word.
+
+Next: 軟禁.
+
+### 2026-09-11, word 87/246 — [[words/軟禁|軟禁]]
+Never-perfected word. Filled missing `kwin`/`date-last-perfect`, extended the existing brief Notes with the standard readings/kwin/homophone verification sentences. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Neither constituent's `stand_in` points to this word (軟→柔軟, 禁→禁止).
+
+Next: 転載.

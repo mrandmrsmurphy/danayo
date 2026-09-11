@@ -52,3 +52,4 @@ date-last-perfect: 2026-08-12
 
 ## Words
 - <ruby>[[軌]]<rt>ㄎㄨㄧ</rt></ruby> "track; path; rut" (stand-in for 軌)
+- <ruby>[[軌道]]<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby> "orbit"
