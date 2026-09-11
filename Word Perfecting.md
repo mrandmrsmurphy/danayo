@@ -552,3 +552,28 @@ Next: 農業.
 Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, folded a stray floating comment ("Synonymous with 農耕") into proper Notes prose. Filled missing `date-last-perfect`. **Found and fixed a missing citation** on 業(char).md's own Words list. Citation on 農.md already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 農, whose own `stand_in` points to this exact word.
 
 Next: 農耕.
+
+### 2026-09-11, word 110/246 — [[words/農耕|農耕]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating comment ("Synonymous with 農業") into proper Notes prose, filled a blank `vietnamese` with honest compositional "nông canh," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`. **Found and fixed a missing citation** on 耕.md's own Words list. Citation on 農.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 辺境.
+
+### 2026-09-11, word 111/246 — [[words/辺境|辺境]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Fixed a missing quote mark on 辺.md's own citation. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Neither constituent's `stand_in` points to this word.
+
+Next: 辺界.
+
+### 2026-09-11, word 112/246 — [[words/辺界|辺界]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `japanese`**: へんきょう actually belongs to the unrelated (though similar-meaning) compound [[辺境]], not this word — corrected to honest compositional へんかい. **Found and removed a bad-aliases-entry**: `辺境` is that same genuinely different compound (different second character), not a spelling variant; kept the legitimate traditional variant `邊界`. Fixed `characters:` unindented list, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 辺, whose own `stand_in` points to this exact word.
+
+Next: 近処.
+
+### 2026-09-11, word 113/246 — [[words/近処|近処]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `japanese`**: きんじょ is actually the reading of the different word 近所 (所, not 処), corrected to honest compositional きんしょ. Filled a blank `vietnamese` with honest compositional "cận xử." Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias-candidates line into a proper `aliases:` field, keeping the legitimate trad/simplified variants (近處/近处) and **excluding 近所** (a genuinely different compound coincidentally similar in meaning). Filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 近来.
+
+### 2026-09-11, word 114/246 — [[words/近来|近来]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: a garbled multi-value string "근래, 요사이, 요즈음" mashed the honest compositional reading with two unrelated native words for "recently" — trimmed to just 근래. Filled a blank `vietnamese` with honest compositional "cận lai." Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias line ("近來") into a proper `aliases:` field, filled missing `kwin`/`date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 返還.
