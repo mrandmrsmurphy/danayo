@@ -642,3 +642,23 @@ Next: 逆数.
 Never-perfected word. **Found and fixed a wrong-compound reading bug on `mandarin`/`cantonese`**: dàoshǔ/dou3 sou2 actually belong to the unrelated compound 倒數/倒数, corrected to honest compositional nìshù/jik6 sou2. **Found and removed a bad-aliases-entry**: `倒數`/`倒数` is that same genuinely different compound, not a spelling variant. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `pos: 名詞`/`vietnamese` (honest compositional "nghịch số"), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 逍遥.
+
+### 2026-09-11, word 128/246 — [[words/逍遥|逍遥]]
+Never-perfected word. Fixed `characters:`/`aliases:` from inline flow lists to proper block lists, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 逍, whose own `stand_in` points to this exact word; noted 遥's own `stand_in` is 遥遠 instead.
+
+Next: 透.
+
+### 2026-09-11, word 129/246 — [[words/透|透]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "thấu," fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`kwin`/`date-last-perfect`, wrote a `## Notes` section. Added a missing legitimizing note for 透 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing three-way homophone callout with [[頭]] and [[套]] was already correctly reciprocal on all three pages (no fix needed). `kwin: false` confirmed.
+
+Next: 透視.
+
+### 2026-09-11, word 130/246 — [[words/透視|透視]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 視(char).md's own Words list. Citation on 透(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 途中.
+
+### 2026-09-11, word 131/246 — [[words/途中|途中]]
+Never-perfected word. Filled a missing `vietnamese` with honest compositional "đồ trung," filled missing `date-last-perfect`, extended the existing Notes. **Found and fixed a missing citation** on 中(char).md's own Words list. Citation on 途.md already correctly present (with the existing "stand-in" note for 途), `kwin: false` confirmed, no homophone collision.
+
+Next: 逗号.

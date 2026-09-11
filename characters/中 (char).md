@@ -62,6 +62,7 @@ boundedness: 80
 - <ruby>[[中庸]]<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby> "moderation; neutrality"
 - <ruby>[[中指]]<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby> "middle finger; middle toe"
 - <ruby>[[中華]]<rt>ㄐㄨㄫㄏ⺢</rt></ruby> "Chinese culture"
+- <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
 - <ruby>[[中国]]<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> "China"
 - <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ·⼔ㄊ</rt></ruby> "CJKV"
 - <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
