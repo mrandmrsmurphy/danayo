@@ -127,6 +127,26 @@ Never-perfected word. **Found and fixed a real-equivalent-word bug in `korean`**
 
 Next: 公民.
 
+### 2026-09-11, word 26/246 — [[words/公民|公民]]
+Never-perfected word. Disambiguated bare 公 to "公 (char)" (words/公.md exists). Fixed unindented `characters:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, merged `## Etymology` into a full `## Notes` section. Found/fixed a bare-wikilink citation (missing ruby, missing comma-space) on 公(char).md. `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 公開.
+
+### 2026-09-11, word 27/246 — [[words/公開|公開]]
+Never-perfected word. Disambiguated bare 公. Fixed unspaced cantonese, quoted bare `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, merged `## Etymology` into a full `## Notes` section. **Found and fixed a genuine japanese reading error**: こうくわい (an incorrect archaic-looking rendering not matching 開's own modern on'yomi KAI) → こうかい, the real standard reading. Found/fixed a bare-wikilink citation on 公(char).md. `kwin: false` confirmed, no homophone collision.
+
+Next: 六十.
+
+### 2026-09-11, word 28/246 — [[words/六十|六十]]
+Never-perfected word. Disambiguated bare 十 to "十 (char)" (words/十.md exists — confirmed via `ls`). Flattened single-item `japanese`/`vietnamese` lists; replaced native `vietnamese: sáu mươi` with the Sino-Vietnamese compositional "lục thập" (disclosing native sáu mươi as the everyday alternative). Removed duplicate `品詞` key, filled entirely-missing `kwin` (false) and `date-last-perfect`, fixed a broken relative link. **Found and fixed a malformed citation** on 十(char).md's own Words list (was `[[words/六十]] - 60`, a full-path wikilink with a dash-number gloss instead of the standard ruby format). No homophone collision.
+
+Next: 六府.
+
+### 2026-09-11, word 29/246 — [[words/六府|六府]]
+Never-perfected word, but otherwise already well-formed. Filled a missing `date-last-perfect` entirely; added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, confirmed 腑 is a genuine alias of 府 (not a bug) and 府's own `stand_in` is [[政府]] (not this word, so no legitimizing note needed), `kwin: false` confirmed, no homophone collision.
+
+Next: 六日.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.

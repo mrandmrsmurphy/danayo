@@ -81,7 +81,7 @@ boundedness: 75
 - [[三十]] - 30
 - [[四十]] - 40
 - <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
-- [[words/六十]] - 60
+- <ruby>[[六十]]<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby> "sixty"
 - [[七十]] - 70
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
