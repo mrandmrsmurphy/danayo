@@ -49,3 +49,4 @@ date-last-perfect: 2026-08-16
 
 ## Words
 - <ruby>[[卦]]<rt>ㄍ⺢ㄧ</rt></ruby> "trigram" (stand-in for 卦 (char))
+- <ruby>[[八卦]]<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby> "bagua, eight-trigrams"

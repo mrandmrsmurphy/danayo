@@ -48,6 +48,7 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[口語]]<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language; spoken language"
+- <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
 - <ruby>[[人口]]<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> "population"
 - <ruby>[[唖口]]<rt>ㄚㄎㄛㄨ</rt></ruby> "mute"
 - <ruby>[[口臭]]<rt>ㄎㄛㄨㄑㄨ</rt></ruby> "halitosis; bad breath"

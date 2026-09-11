@@ -52,9 +52,9 @@ boundedness: 65
 - [[八角]]
 - [[八百]]
 - [[八月]]
-- [[八卦]]
+- <ruby>[[八卦]]<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby> "bagua, eight-trigrams"
 - <ruby>[[猪八戒]]<rt>ㄐㄛㄅㄚㄊㄍ⼶</rt></ruby> "Zhu Bajie"
-- [[八十]]
+- <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[第八]]<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby> "eighth"
 - [[八日]]
 - <ruby>[[八千]]<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby> "eight thousand"

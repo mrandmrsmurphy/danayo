@@ -82,6 +82,26 @@ Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists, filled a
 
 Next: 入口.
 
+### 2026-09-11, word 17/246 — [[words/入口|入口]]
+Never-perfected word. Disambiguated bare 入/口 to "入 (char)"/"口 (char)" (both words/入.md and words/口.md exist — confirmed via `ls`; Etymology prose was already using the disambiguated forms, frontmatter wasn't). Quoted bare `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. **Found and fixed a missing citation** on 口(char).md's own Words list. Disclosed (rather than silently changed) that Vietnamese `nhập khẩu` — the same compositional compound as this word — has semantically drifted to mean "import" in modern usage, not "entrance." `kwin: false` confirmed, no homophone collision.
+
+Next: 八十.
+
+### 2026-09-11, word 18/246 — [[words/八十|八十]]
+Never-perfected word. Disambiguated bare 十 to "十 (char)" (words/十.md exists — confirmed via `ls`). Removed duplicate `品詞` key, filled an entirely-blank `vietnamese` field (bát thập, directly attested), filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed missing ruby/注音 formatting** on the 八十 citations on both 八(char).md and 十(char).md's own Words lists (both were bare wikilinks with no ruby tag) — noted both pages have several other similarly bare/unformatted citations, part of the same larger disorganized-Words-section pattern already flagged on 人(char)/子.md, out of scope to fully fix here. `kwin: false` confirmed, no homophone collision.
+
+Next: 八千.
+
+### 2026-09-11, word 19/246 — [[words/八千|八千]]
+Never-perfected word, but otherwise already well-formed. Filled a missing `date-last-perfect` entirely; added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 八卦.
+
+### 2026-09-11, word 20/246 — [[words/八卦|八卦]]
+Never-perfected word. Removed duplicate `品詞` key, a duplicated `meta-bind-embed` block (rendered the word-info panel twice), filled a missing `date-last-perfect` entirely, wrapped the bare trigram list in a proper `## Notes` section with intro text and closing readings synthesis. **Found and fixed invisible non-breaking spaces (U+00A0)** throughout the trigram list (between each element name and its hanzi/pinyin) that were silently defeating a first Edit attempt — resolved via direct `python3` content rewrite once diagnosed. **Found and fixed missing citations** on both 八(char).md (was a bare wikilink, no ruby) and 卦(char).md (missing entirely) for this word. `characters:` confirmed correct via `ls` (卦 (char) disambiguation necessary), `kwin: false` confirmed, no homophone collision.
+
+Next: 八百.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.

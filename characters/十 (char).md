@@ -83,7 +83,7 @@ boundedness: 75
 - <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
 - [[words/六十]] - 60
 - [[七十]] - 70
-- [[八十]] - 80
+- <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 ## Chengyu
 - [[十人不滅]] - (Biblical) "For ten I will not destroy"
