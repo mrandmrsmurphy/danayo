@@ -617,3 +617,28 @@ Next: 退.
 Never-perfected word. Filled `vietnamese: null` with the character's own attested "thoái," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 退 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄊㄧㄜ is shared with 腿 but it has no dedicated word page, so no genuine homophone.
 
 Next: 送球.
+
+### 2026-09-11, word 123/246 — [[words/送球|送球]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `mandarin`/`cantonese`**: shǒuqiú/sau2 kau4 actually belong to the unrelated (same-sport) compound 手球, corrected to honest compositional sòngqiú/sung3 kau4. **Found and removed a bad-aliases-entry**: `手球` is that same genuinely different compound, not a spelling variant. Filled a blank `pos: 名詞`/`vietnamese` (honest compositional "tống cầu"), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逃亡.
+
+### 2026-09-11, word 124/246 — [[words/逃亡|逃亡]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逃避.
+
+### 2026-09-11, word 125/246 — [[words/逃避|逃避]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 避 → "避 (char)," since [[避]] has its own word page). Filled a blank `vietnamese` with honest compositional "đào tị," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 逃, whose own `stand_in` points to this exact word.
+
+Next: 逆.
+
+### 2026-09-11, word 126/246 — [[words/逆|逆]]
+Never-perfected word. **Found and fixed a malformed `vietnamese` field on both this page and 逆(char).md itself**: all five readings had been mashed into a single comma-separated string inside one list item, split into a proper five-item list on both pages. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes." Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 逆 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing "[叛]" cross-reference correctly links to 反(char).md per the vault's documented 叛→反 merge decision. `kwin: false` confirmed.
+
+Next: 逆数.
+
+### 2026-09-11, word 127/246 — [[words/逆数|逆数]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `mandarin`/`cantonese`**: dàoshǔ/dou3 sou2 actually belong to the unrelated compound 倒數/倒数, corrected to honest compositional nìshù/jik6 sou2. **Found and removed a bad-aliases-entry**: `倒數`/`倒数` is that same genuinely different compound, not a spelling variant. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `pos: 名詞`/`vietnamese` (honest compositional "nghịch số"), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逍遥.

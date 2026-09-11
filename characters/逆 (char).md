@@ -8,7 +8,11 @@ japanese:
   - GEKI
 japanese_native: さか,さか-らう
 vietnamese:
-  - nghịch, nghếch, nghệch, nghạch, ngược
+  - nghịch
+  - nghếch
+  - nghệch
+  - nghạch
+  - ngược
 middle_chinese_initial: ŋ
 middle_chinese_final: ɣiæk
 stroke_count: 9
