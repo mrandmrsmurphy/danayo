@@ -102,6 +102,31 @@ Never-perfected word. Removed duplicate `品詞` key, a duplicated `meta-bind-em
 
 Next: 八百.
 
+### 2026-09-11, word 21/246 — [[words/八百|八百]]
+Never-perfected word. Disambiguated bare 百 to "百 (char)" (words/百.md exists — confirmed via `ls`). Filled an entirely-blank `cantonese` field, replaced the native-Vietnamese `vietnamese: tám trăm` with the Sino-Vietnamese compositional "bát bách" (noting native tám trăm as the everyday alternative in prose rather than silently dropping it), removed duplicate `品詞`/dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed missing ruby formatting** on 八(char).md's own bare-wikilink citation for this word. `kwin: false` confirmed, no homophone collision, 百(char).md's own citation already correctly present.
+
+Next: 八紘.
+
+### 2026-09-11, word 22/246 — [[words/八紘|八紘]]
+Never-perfected word. Fixed a garbled `english` gloss (literal "eight \bcords" escape typo → "eight cords"). Filled entirely-missing `cantonese`/`vietnamese` fields with compositional readings (baat3 wang4, bát hoành), removed duplicate `品詞`, filled a missing `date-last-perfect` entirely, wrote a proper `## Notes` section (preserving the existing classical *Liezi* citation below it). Added a missing legitimizing note for 紘, whose own `stand_in` points to this word. **Found and fixed a missing citation** on 八(char).md's own Words list. Noted (but did not create) that 紘(char).md's own citation for [[八紘一宇]] points to a page that doesn't exist yet — disclosed honestly in prose rather than left as a silent dangling link. `kwin: false` confirmed, no homophone collision.
+
+Next: 公司.
+
+### 2026-09-11, word 23/246 — [[words/公司|公司]]
+Never-perfected word. Disambiguated bare 公 to "公 (char)" (words/公.md exists — confirmed via `ls`; prose already used the disambiguated form). Filled a blank `korean` field with the compositional 공사 (which happens to match this word's own 諺文 exactly, so `kwin` — entirely missing — was filled in as `true`); filled a missing `date-last-perfect` entirely; merged `## Etymology` into a full `## Notes` section. Added a missing legitimizing note for 司, whose own `stand_in` points to this word. **Found and fixed a bare-wikilink citation** (missing ruby, plus a missing-space gloss) on 公(char).md's own Words list. No homophone collision.
+
+Next: 公噸.
+
+### 2026-09-11, word 24/246 — [[words/公噸|公噸]]
+Never-perfected word. Disambiguated bare 公/噸 to disambiguated forms (both conflicting word files exist). **Found and fixed a real-equivalent-word bug in `korean`**: 메트릭톤 (a different loanword-based phrase) → compositional 공톤, which conveniently matches this word's own 諺文 exactly, flipping `kwin` from false to true. Fixed a comma-joined `japanese` field, dropping a likely-erroneous second candidate (グラムトン, "gram-ton," not a real unit) and keeping the genuinely attested メトリックトン. Filled blank `cantonese` and honest compositional `vietnamese: công đốn` (noting native tấn as the real everyday word). Filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Found/fixed a bare-wikilink citation on 公(char).md. No homophone collision.
+
+Next: 公尺.
+
+### 2026-09-11, word 25/246 — [[words/公尺|公尺]]
+Never-perfected word. **Found and fixed a real-equivalent-word bug in `korean`**: a comma-joined pair of loanword variants (미터, 메터) → compositional 공척, which conveniently matches this word's own 諺文 exactly, filling entirely-missing `kwin` as true. Expanded a compatibility-ligature `japanese` value (㍍, a single symbol standing for メートル) into actual text. Filled honest compositional `vietnamese: công xích` (noting real everyday mét). Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely. **Found and fixed** a raw-markdown-link citation on 尺(char).md and a missing citation entirely on 公(char).md. No homophone collision.
+
+Next: 公民.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.

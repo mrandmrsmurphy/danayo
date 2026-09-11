@@ -55,6 +55,6 @@ boundedness: 90
 	- [[沢]]
 ## Words
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎㄏ⺢ㄎ</rt></ruby> "inchworm"
-- <ruby>[公尺](/words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
+- <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
 [[Lookup/CC/initials/聲 昌]]
 [[Lookup/CC/finals/韻 昔開]]

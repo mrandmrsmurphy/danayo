@@ -50,7 +50,7 @@ boundedness: 65
 
 ## Words
 - [[八角]]
-- [[八百]]
+- <ruby>[[八百]]<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> "eight hundred"
 - [[八月]]
 - <ruby>[[八卦]]<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby> "bagua, eight-trigrams"
 - <ruby>[[猪八戒]]<rt>ㄐㄛㄅㄚㄊㄍ⼶</rt></ruby> "Zhu Bajie"
@@ -61,6 +61,7 @@ boundedness: 65
 - <ruby>[[臘八]]<rt>ㄌㄚㄆㄅㄚㄊ</rt></ruby> "Laba (8th of 12th lunar month)"
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
 - <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"
+- <ruby>[[八紘]]<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby> "eight cords"
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
 ## Derived Characters
 - <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby> "trumpet"
