@@ -467,3 +467,23 @@ Next: 輔弼.
 Never-perfected word. Filled a blank `vietnamese` with honest compositional "phụ bật," folded a stray floating comment ("rare") into proper `## Etymology`/`## Notes` prose, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 弼, whose own `stand_in` points to this exact word; noted 輔's own `stand_in` is 輔佐 instead.
 
 Next: 輩.
+
+### 2026-09-11, word 93/246 — [[words/輩|輩]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level, wrong position) into a properly-placed "## Notes," filled missing `pos`/`date-last-perfect`. **Found and fixed an entirely missing `## Words` section** on 輩(char).md — added the self-standing citation. Added a missing legitimizing note for 輩 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄈㄛㄧ is shared with 徘/佩/培 but none has its own word page, so no genuine homophone.
+
+Next: 輪.
+
+### 2026-09-11, word 94/246 — [[words/輪|輪]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "luân" (as in luân hồi/輪回), fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`. Added a missing legitimizing note for 輪 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Citation already correctly present. Noted 注音 ㄌㄨㄋ is shared with 倫 but it has no dedicated word page, so no genuine homophone.
+
+Next: 輪郭.
+
+### 2026-09-11, word 95/246 — [[words/輪郭|輪郭]]
+Never-perfected word. **Found and fixed a wrong-dialect bug**: korean held the South Korean 두음법칙-shifted form 윤곽 instead of this vault's standing North Korean/문화어 convention 륜곽 (matching 輪's own stored 륜 directly) — corrected the field and the Notes prose that had been describing the South Korean shift as if it were the vault's own value. Filled a missing `vietnamese` with honest compositional "luân quách," filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 輸血.
+
+### 2026-09-11, word 96/246 — [[words/輸血|輸血]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `pos: 性詞`, filled a blank `vietnamese` with honest compositional "thâu huyết," fixed a malformed inline `aliases:` into a proper list (输血, legitimate simplified variant), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 輿.

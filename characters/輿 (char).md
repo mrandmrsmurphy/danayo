@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-13
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
-- [輿](words/輿.md) "palanquin" — 輿 stands alone as a word in Dan'a'yo.
+- [輿 (char)](words/輿.md) "palanquin" — 輿 stands alone as a word in Dan'a'yo.

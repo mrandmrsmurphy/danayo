@@ -49,3 +49,6 @@ boundedness: 90
 - [SKIP-2-8-7](../lookup/SKIP/SKIP-2/SKIP-2-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Not found in the local mirrors of the Classical Chinese usage ranking (which cover only the top ~4000 ranks; `mc_id` left blank rather than invented). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄈㄛㄧ](../syllables/ㄈㄛㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- [輩](words/輩.md) "generation" — 輩 stands alone as a word in Dan'a'yo.
