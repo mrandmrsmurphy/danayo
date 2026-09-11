@@ -3526,3 +3526,23 @@ Next: 低廉.
 Fixed missing disambiguation (bare `廉`→`廉 (char)`, since `words/廉.md` exists), removed dangling empty `hsk_level`/`swadesh`/`aliases`, merged a non-standard `## Etymology` heading into `## Notes`. Both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (低(char) false overrides 廉(char)'s own true), no homophone collision. Content already good (honest note on 廉's secondary "affordable" sense vs. its more familiar "honest, incorrupt" sense). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 低-prefixed word cluster.
 
 Next: 住宅.
+
+### 2026-09-10, iteration 4259 — [[words/住宅|住宅]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields, added legitimizing-note phrasing (宅's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 住/宅, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (住(char) true, 宅(char) false), no homophone collision. Content already good (previously-fixed crammed-korean-gloss bug still holds). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佐理.
+
+### 2026-09-10, iteration 4260 — [[words/佐理|佐理]]
+Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (佐's own `stand_in` is this exact compound). Re-verified [[体現]]'s own fields are clean, confirming no further cross-contamination from the previously-fixed copy-paste bug between these two alphabetically-adjacent pages. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (佐(char) false overrides 理(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体制.
+
+### 2026-09-10, iteration 4261 — [[words/体制|体制]]
+Fixed a missing `kwin` field entirely (added false, confirmed via AND-rule), added missing `date-last-perfect`, wrote fuller Notes. `characters:` confirmed correct (bare 体/制, no conflicting words exist), both character-page citations already correctly ruby-formatted, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体液.
+
+### 2026-09-10, iteration 4262 — [[words/体液|体液]]
+Found and fixed a real YAML bug: `date-last-perfect` was duplicated as two separate keys with different values (2026-08-03 and 2026-06-20) — removed the stale duplicate. Fixed a missing `kwin` field entirely (added false, confirmed via AND-rule). `characters:` confirmed correct (bare 液, no conflicting words/液.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Content already good (previously-fixed vietnamese attestation correction, miễn dịch thể dịch immunology cross-reference). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体現.
