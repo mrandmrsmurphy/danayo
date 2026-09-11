@@ -3566,3 +3566,23 @@ Next: 体育.
 Already in excellent shape. `characters:` confirmed correct (`育 (char)` required, conflicting words/育.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 育(char)'s own true), no homophone collision. Content already outstanding (correctly notes neither constituent's own stand_in points here). Just refreshed `date-last-perfect: 2026-09-10`.
 
 Next: 体育館.
+
+### 2026-09-10, iteration 4267 — [[words/体育館|体育館]]
+Found and fixed a real content bug: `vietnamese` had simply reused [[体育]]'s own "thể dục" verbatim, dropping 館's own "building/hall" contribution entirely — corrected to nhà thể dục. Fixed a typo ("nuture"→"nurture"), filled a blank `pos: 名詞`, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (bare 館, no conflicting words/館.md exists), all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 育/館's own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 体言.
+
+### 2026-09-10, iteration 4268 — [[words/体言|体言]]
+Removed dangling empty `hsk_level`/`swadesh` fields, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (`言 (char)` required, conflicting words/言.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (体(char) false overrides 言(char)'s own true), no homophone collision. Content already outstanding (体・用 substance/function philosophical origin, honest Chinese/Vietnamese attestation gaps). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 体-prefixed word cluster.
+
+Next: 何.
+
+### 2026-09-10, iteration 4269 — [[words/何|何]]
+Fixed duplicate `pos`/`品詞` (kept pos). Added the standard self-referential legitimizing-note phrasing (matching 事/于/之/亦/人/今/仍/他/令/以/伏/会/伍/似/但). Re-verified the genuine homophone with [[下]] via anchored grep, confirming several character-only matches (蝦/廈/霞/暇/賀/河/苛/呵/荷) have no independent word pages. Citation on `何 (char).md` already correct. Content already outstanding (full correlative-chart interrogative generation, honest note on modern Mandarin colloquial 什么/哪 displacement). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何事.
+
+### 2026-09-10, iteration 4270 — [[words/何事|何事]]
+Fixed duplicate `pos`/`品詞` (kept pos), a missing `korean` field entirely (filled 하사, the archaic compositional reading — matching the "archaic" register already documented in the Notes prose), and a missing `vietnamese` field (hà sự, honest compositional, matching the column's classical/literary character). `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (事(char) false overrides 何(char)'s own true), no homophone collision. Content already outstanding (full correlative-column classical-antecedent survey: 何事/何物/何人/何名/何処/何時/何様). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 何人.
