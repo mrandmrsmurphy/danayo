@@ -62,6 +62,26 @@ Never-perfected word. Filled a blank `japanese` field (こうし, compositional 
 
 Next: 光明.
 
+### 2026-09-11, word 13/246 — [[words/光明|光明]]
+Never-perfected word; unusually a massive essay-length page (~150 lines of Notes) rather than the vault's typical concise style, but factually sound. Removed duplicate `品詞` key, added the missing standard `>[!tip]` header block, renamed the non-standard `## Definition and Etymology` heading to `## Notes` (kept all its `###` subheadings and content as-is — a substantive rewrite was out of scope for this pass), filled a missing `date-last-perfect` entirely, added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls` (明 (char) disambiguation necessary), both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 光栄.
+
+### 2026-09-11, word 14/246 — [[words/光栄|光栄]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch (page had none). Added a missing legitimizing note for 栄, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 児児.
+
+### 2026-09-11, word 15/246 — [[words/児児|児児]]
+Never-perfected word. **Found and fixed a real-equivalent-word-instead-of-own-reading bug affecting all five reading fields simultaneously**: mandarin/cantonese/japanese/korean/vietnamese had each been filled with that language's own everyday equivalent for "baby" (bǎobèi 寶貝, ベイビー the English loanword, 애기, em bé) rather than 児児's own compositional doubled reading of 児 — corrected all five to honest compositional doublings (érér, ji4 ji4, じじ, 아아, nhi nhi), disclosing that none are independently attested and that じじ coincidentally collides with the unrelated real word 爺 ("old man"). Filled a blank `pos:` (名詞) and a missing `date-last-perfect` entirely; integrated a stray unformatted/typo'd note ("synonymouys") into proper prose; merged `## Etymology` into `## Notes`. No homophone collision. **Flagged**: this same real-equivalent-word pattern may affect other reduplicated words already marked "perfected" under the old sweep (spot-checked [[妹妹]], whose japanese いもうと/korean 여동생 look like the identical bug) — outside current 246-word scope, noted for a future dedicated pass.
+
+Next: 児童.
+
+### 2026-09-11, word 16/246 — [[words/児童|児童]]
+Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists, filled a blank `pos:` (名詞), fixed unspaced cantonese, trimmed a comma-joined `korean` field (native synonym 어린이 moved to prose, kept Sino-Korean 아동 alone), quoted bare `hsk_level`, filled entirely-missing `kwin` (false) and `date-last-perfect`, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 童, whose own `stand_in` points to this word. Both character-page citations already present, no homophone collision.
+
+Next: 入口.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
