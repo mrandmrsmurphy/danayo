@@ -257,6 +257,26 @@ Never-perfected word. Fixed inline-flow `characters:`/`aliases:` lists, quoted b
 
 Next: 利潤.
 
+### 2026-09-11, word 52/246 — [[words/利潤|利潤]]
+Never-perfected word. Disambiguated bare 潤 to "潤 (char)" (words/潤.md exists — confirmed via `ls`; Etymology prose was already using the disambiguated form). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Added a missing legitimizing note for 利, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 利率.
+
+### 2026-09-11, word 53/246 — [[words/利率|利率]]
+Never-perfected word. Filled entirely-missing `kwin` (false, byte-level verified) and entirely-missing `date-last-perfect`. `characters:` confirmed correct via `ls`, both character-page citations already present, no homophone collision.
+
+Next: 制約.
+
+### 2026-09-11, word 54/246 — [[words/制約|制約]]
+Never-perfected word. Filled a missing `date-last-perfect` entirely; added `kwin`/homophone verification sentence. **Found and fixed stale prose**: the Notes claimed [[制限]] and [[約束]] were "not yet created," but both now exist as real vault pages — converted to proper wikilinks. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 刹那.
+
+### 2026-09-11, word 55/246 — [[words/刹那|刹那]]
+Never-perfected word. Disambiguated bare 那 to "那 (char)" (words/那.md exists). **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 찯나 genuinely diverges from own korean 찰나 in the first syllable's coda — corrected to `false`. Fixed a comma-joined `mandarin` field into a proper YAML list (both readings genuinely attested, kept both). Filled an entirely-blank `cantonese` field, quoted bare `hsk_level`, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 刹, whose own `stand_in` points to this word. Both character-page citations already present, no homophone collision.
+
+Next: 刺激.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
