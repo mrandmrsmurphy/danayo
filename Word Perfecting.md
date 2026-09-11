@@ -42,6 +42,26 @@ Never-perfected word. Removed duplicate `品詞` key, flattened a single-item `j
 
 Next: 兄弟.
 
+### 2026-09-11, word 9/246 — [[words/兄弟|兄弟]]
+Never-perfected word. Fixed an unspaced cantonese field, removed dangling blank `swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged a stray unformatted note ("one of the 天常") into proper prose linking [[天常]] (confirmed the page exists). **Found and fixed missing ruby/注音 formatting** on two citations (兄弟, 兄弟姉妹) on 兄(char).md's own Words list — they were plain wikilinks with no ruby tag at all, one also missing a space in its gloss. `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision. Confirmed both 兄 and 弟's own `stand_in` point to themselves (not this word), so no legitimizing note needed here.
+
+Next: 先後.
+
+### 2026-09-11, word 10/246 — [[words/先後|先後]]
+Never-perfected word. Fixed a full-width-comma-joined `japanese` string into a proper YAML list, filled a missing `vietnamese` field with honest compositional "tiên hậu," filled a missing `date-last-perfect` entirely, integrated a stray unformatted note ("not the same as 前後") into proper prose (confirmed [[前後]] exists). `characters:` confirmed correct via `ls` (後 (char) disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 先進.
+
+### 2026-09-11, word 11/246 — [[words/先進|先進]]
+Never-perfected word. Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 光子.
+
+### 2026-09-11, word 12/246 — [[words/光子|光子]]
+Never-perfected word. Filled a blank `japanese` field (こうし, compositional 光's KOU + 子's SHI, a real attested Japanese word); removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; filled a missing `date-last-perfect` entirely; wrote a `## Notes` section from scratch. **Found and fixed a missing citation** on 子.md's own Words list (光子 was documented on 光(char).md but never cited back — noted that 子.md's Words section is itself large/disorganized, mixed ruby and bare-link citations, consistent with the already-known cleanup backlog on similar character pages). `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision.
+
+Next: 光明.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.

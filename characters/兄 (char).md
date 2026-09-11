@@ -54,6 +54,6 @@ boundedness: 65
 [[Lookup/CC/finals/韻 庚三合]]
 
 ## Words
-- [[兄弟姉妹]] "siblings,brothers and sisters"
-- [[兄弟]] "brothers, brotherhood"
+- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
+- <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers, brotherhood"
 - <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
