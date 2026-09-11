@@ -342,6 +342,26 @@ Never-perfected word. Filled entirely-blank `japanese`/`korean`/`vietnamese` fie
 
 Next: 足裏.
 
+### 2026-09-11, word 69/246 — [[words/足裏|足裏]]
+Never-perfected word. Disambiguated bare 足 to "足 (char)" (words/足.md exists). **Found and fixed a real content bug**: `mandarin` had been stored as jiǎodǐ, the reading of the entirely different compound 腳底 (different characters), not 足裏's own — corrected to compositional zúlǐ. **Found and fixed a bad aliases entry**: 腳底/脚底/腳掌/脚掌 (real Mandarin synonyms using different characters, no dedicated pages) had been listed as `aliases` of 足裏 itself — removed, disclosed as real synonyms in prose instead. Filled a missing `cantonese`/`vietnamese` with compositional readings, fixed a comma-joined `japanese` field into a proper list (both readings genuinely attested). Once `korean` was corrected to its own compositional 족리 (rather than the native 발바닥), it turned out to match this word's own 諺文 exactly — `kwin`, previously false, is now true. Filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Flagged**: 裏.md's own "Common Compounds" table duplicates several citations already in its formal `## Words` list (including this word) — a documentation redundancy, not urgent, noted for later.
+
+Next: 跆拳道.
+
+### 2026-09-11, word 70/246 — [[words/跆拳道|跆拳道]]
+Never-perfected word. Fixed a typo ("taekwando" → "taekwondo," found in both the `english` field and a matching citation on 道(char).md). Filled an entirely-blank `vietnamese` field with the direct loanword "taekwondo" (matching Japanese テコンドー's own loanword pattern). Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed a missing citation** on 跆.md's own Words list. `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision.
+
+Next: 跋扈.
+
+### 2026-09-11, word 71/246 — [[words/跋扈|跋扈]]
+Never-perfected word. Filled a missing `vietnamese` field with honest compositional "bạt hỗ" and a missing `date-last-perfect` entirely. **Found and fixed a missing `#cranberry` tag**: both 跋 and 扈's own `stand_in` fields point to this word (transitivity A=B=AB confirmed), a genuine cranberry case that had gone untagged — added the tag and a closing note explaining it. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 距離.
+
+### 2026-09-11, word 72/246 — [[words/距離|距離]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Added a missing legitimizing note for 距, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 跨.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.

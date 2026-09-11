@@ -68,7 +68,7 @@ boundedness: 70
 - <ruby>[[神道教]]<rt>ㄙㄧㄋㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Shintoism"
 - <ruby>[[孝道]]<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby> "filial piety"
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
-- <ruby>[[跆拳道]]<rt>ㄊㄛㄧㄍ⼔ㄋㄉㄚㄨ</rt></ruby> "taekwando"
+- <ruby>[[跆拳道]]<rt>ㄊㄛㄧㄍ⼔ㄋㄉㄚㄨ</rt></ruby> "taekwondo"
 - <ruby>[[空手道]]<rt>ㄎㄛㄫㄙ⼜ㄉㄚㄨ</rt></ruby> "karate"
 - <ruby>[[柔道]]<rt>ㄋ⼜ㄉㄚㄨ</rt></ruby> "judo"
 - <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
