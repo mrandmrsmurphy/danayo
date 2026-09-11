@@ -442,3 +442,28 @@ Next: 軟禁.
 Never-perfected word. Filled missing `kwin`/`date-last-perfect`, extended the existing brief Notes with the standard readings/kwin/homophone verification sentences. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Neither constituent's `stand_in` points to this word (軟→柔軟, 禁→禁止).
 
 Next: 転載.
+
+### 2026-09-11, word 88/246 — [[words/転載|転載]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 載 → "載 (char)," since [[載]] has its own word page), fixed a malformed inline `aliases:` into a proper list (轉載/转载, legitimate trad/simplified variants). **Found and fixed a genuinely blank `vietnamese` field on 転.md itself** — filled with "chuyển," a well-attested Sino-Vietnamese reading for 轉/転's traditional form — enabling a real compositional/attested word vietnamese: "chuyển tải" on this page. Also fixed a bare, un-ruby-formatted citation on 転.md's own Words list. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Citation on 載(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 軸.
+
+### 2026-09-11, word 89/246 — [[words/軸|軸]]
+Never-perfected word. Filled a `vietnamese: null` with the character's own attested "trục," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 軸 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄉㄨㄎ is shared with 逐 but it has no dedicated word page, so no genuine homophone.
+
+Next: 軽罪.
+
+### 2026-09-11, word 90/246 — [[words/軽罪|軽罪]]
+Never-perfected word. Fixed `characters:` unindented list, filled a blank `vietnamese` with honest compositional "khinh tội," fixed a malformed inline `aliases:` into a proper list (輕罪/轻罪, legitimate trad/simplified variants), removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 載.
+
+### 2026-09-11, word 91/246 — [[words/載|載]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "tải," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes," filled missing `pos`/`date-last-perfect`, wrote its content from scratch. Added a missing legitimizing note for 載 (char), whose own `stand_in` points to this exact word (itself). **Found a genuine three-way homophone group with [[哉]] and [[在]]** (both already perfected, already cross-linked to each other, but neither mentioned 載) — added 載 as the missing third member to both existing callouts and wrote a full reciprocal callout on 載's own page. `kwin: true` confirmed.
+
+Next: 輔弼.
+
+### 2026-09-11, word 92/246 — [[words/輔弼|輔弼]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "phụ bật," folded a stray floating comment ("rare") into proper `## Etymology`/`## Notes` prose, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 弼, whose own `stand_in` points to this exact word; noted 輔's own `stand_in` is 輔佐 instead.
+
+Next: 輩.
