@@ -392,3 +392,28 @@ Next: 跳躍.
 Never-perfected word. Filled a blank `vietnamese` with honest compositional "khiêu dược," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section from scratch. **Found and fixed a missing `#cranberry` tag**: both 跳 and 躍's own `stand_in` fields point to this word (transitivity A=B=AB confirmed) — added the tag and a closing note. **Also fixed a bare, un-ruby-formatted citation** on 跳.md's own Words list. 躍.md's own citation was already correctly ruby-formatted. `kwin: false` confirmed, no homophone collision.
 
 Next: 踊躍.
+
+### 2026-09-11, word 78/246 — [[words/踊躍|踊躍]]
+Never-perfected word. Filled an entirely-missing `vietnamese` field with honest compositional "dũng dược," filled missing `date-last-perfect`, extended the existing rich `## Notes` prose with the kwin/homophone/legitimizing-note sentences. `kwin: true` confirmed via byte-level comparison (exact match). Citations already correctly present on both 踊.md and 躍.md. Noted 踊's `stand_in` legitimizes this word, while 躍's own `stand_in` is 跳躍 instead (no cranberry transitivity here).
+
+Next: 蹲.
+
+### 2026-09-11, word 79/246 — [[words/蹲|蹲]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a malformed `english:` list indentation, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `kwin`/`date-last-perfect`. Added a missing legitimizing note for 蹲 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed via byte-level comparison (존 U+C874 vs 준 U+C900). Citation already correctly present on the character page. Noted 注音 ㄐㄛㄋ is shared with 尊/存 but neither has its own word page, so no genuine word-to-word homophone.
+
+Next: 蹴鞠.
+
+### 2026-09-11, word 80/246 — [[words/蹴鞠|蹴鞠]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "xúc cúc," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section explaining the cognate-game proper-noun exception (Chinese cuju/Japanese kemari/Korean chukguk are each a real attested name for that culture's own historical game, not translations of each other). **Found and fixed a missing citation** on 鞠.md's own Words list. `kwin: true` confirmed, no homophone collision.
+
+Next: 身体.
+
+### 2026-09-11, word 81/246 — [[words/身体|身体]]
+Never-perfected word. Filled a blank `pos: 名詞`, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section from scratch. Confirmed `身體` alias is a legitimate traditional-character spelling variant (体→體), not a bad-aliases-entry bug. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Noted 身's `stand_in` legitimizes this word, while 体's own `stand_in` is 体系 instead.
+
+Next: 車庫.
+
+### 2026-09-11, word 82/246 — [[words/車庫|車庫]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 車 → "車 (char)," since [[車]] has its own word page). **Found and fixed a real-equivalent-instead-of-own-reading bug**: vietnamese held the everyday phrase "nhà để ô tô, ga ra" instead of the honest compositional "xa kho." **Found and removed a bad-aliases-entry bug**: `库车` is the unrelated real place name Kùchē/Kuqa, not a spelling variant. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 軌道.
