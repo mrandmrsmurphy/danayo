@@ -46,6 +46,7 @@ boundedness: 90
 - 381st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄍ⼄ㄫ](../syllables/ㄍ⼄ㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[共和]]<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby> "collaboration, cooperation, republicanism"
 - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby> "republic"
 - <ruby>[[共産]]<rt>ㄍ⼄ㄫㄙㄚㄋ</rt></ruby> "communist"
 - <ruby>[[共同]]<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby> "cooperate, collaborate"

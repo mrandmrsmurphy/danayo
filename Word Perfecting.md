@@ -147,6 +147,26 @@ Never-perfected word, but otherwise already well-formed. Filled a missing `date-
 
 Next: 六日.
 
+### 2026-09-11, word 30/246 — [[words/六日|六日]]
+Never-perfected word; page previously ended right after a bare `## Notes` heading with no content at all. Flattened single-item `japanese`/`vietnamese` lists; **found and fixed an incomplete/wrong `vietnamese` field** ("sáu," bare "six" with no day-word at all) → honest compositional "lục nhật" (disclosing native mùng sáu as the everyday phrase). Removed duplicate `品詞` key, filled a missing `date-last-perfect` entirely, wrote a full `## Notes` section from scratch clarifying this means "the sixth day of the month" (matching sibling [[十六日]]/[[二十六日]]). Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 六芸.
+
+### 2026-09-11, word 31/246 — [[words/六芸|六芸]]
+Never-perfected word; **resolved the long-standing MAJOR FINDING** about two apparently-parallel Six-Arts documentation systems. Investigation showed this was never a real conflict: 六芸.md's own list (礼/音楽/射術/御術/書法/数学) names the six *general arts* — three of which (礼, 音楽, 射術, 御術) already explicitly self-identify in their own prose as "one of the Six Arts (六芸)" — while the count-prefixed cluster (五礼/六楽/五射/五馭/六書/九数) documents each art's own *specific numbered sub-curriculum* one level down, and those five pages already consistently cross-reference each other and 六芸 by name. The two sets are complementary levels of one hierarchy, not competitors. Rewrote 六芸's Notes to explicitly link both levels together for each of the six arts, resolving the apparent disconnect. Also disclosed, rather than silently reconciled, a genuine separate finding along the way: [[六書]]'s own page documents the well-known but historically distinct Han-dynasty "six categories of character formation" theory, not literally "six calligraphic styles" — the vault reuses the same well-attested name for the Six Arts' writing component, a real coincidence of naming rather than an error to fix. Closed up a spaced `mandarin` field, removed duplicate `品詞`, filled a missing `date-last-perfect` entirely, renamed the non-standard `## Definition` heading to `## Notes`. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 共同.
+
+### 2026-09-11, word 32/246 — [[words/共同|共同]]
+Never-perfected word. Disambiguated bare 共 to "共 (char)" (words/共.md exists — confirmed via `ls`). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Disclosed (rather than silently changed) that Vietnamese `cộng đồng` — the same compositional compound as this word — has narrowed to specifically mean "community" (noun) in modern usage, not the adjectival "common, joint" sense this word documents. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 共和.
+
+### 2026-09-11, word 33/246 — [[words/共和|共和]]
+Never-perfected word. **Found and fixed two genuine reading errors**: `cantonese` (gong4 ho2, matching neither constituent's own reading) → compositional gung6 wo4; `korean` (고화, missing a coda entirely) → compositional 공화. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed a missing citation** for bare 共和 on 共(char).md's own Words list (only 共和国 had been cited, not 共和 itself). `kwin: false` confirmed, no homophone collision.
+
+Next: 共産.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
