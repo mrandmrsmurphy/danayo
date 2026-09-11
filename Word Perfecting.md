@@ -662,3 +662,28 @@ Next: 途中.
 Never-perfected word. Filled a missing `vietnamese` with honest compositional "đồ trung," filled missing `date-last-perfect`, extended the existing Notes. **Found and fixed a missing citation** on 中(char).md's own Words list. Citation on 途.md already correctly present (with the existing "stand-in" note for 途), `kwin: false` confirmed, no homophone collision.
 
 Next: 逗号.
+
+### 2026-09-11, word 132/246 — [[words/逗号|逗号]]
+Never-perfected word. Filled entirely-blank `japanese`/`korean`/`vietnamese` with honest compositional とうごう/두호/đậu hiệu (disclosed against each language's real everyday term for "comma": 読点/カンマ, 쉼표, dấu phẩy). Fixed `characters:`/`aliases:` formatting, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逗留.
+
+### 2026-09-11, word 133/246 — [[words/逗留|逗留]]
+Never-perfected word. Filled a missing `vietnamese` with the directly-attested "đậu lưu," filled missing `date-last-perfect`, extended the existing Notes. Both character-page citations already correctly present (with the existing "stand-in" note for 逗), `kwin: false` confirmed, no homophone collision.
+
+Next: 通信.
+
+### 2026-09-11, word 134/246 — [[words/通信|通信]]
+Never-perfected word. Filled missing `date-last-perfect`, extended the existing rich Notes with the readings/kwin/homophone verification sentence. Confirmed the Notes' own claim that vietnamese "thông tin" is honest compositional (通's thông + 信's tin), not a real-equivalent bug, despite the semantic drift toward "information" the prose itself describes. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision.
+
+Next: 通知.
+
+### 2026-09-11, word 135/246 — [[words/通知|通知]]
+Never-perfected word. Removed dangling blank `swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 通行.
+
+### 2026-09-11, word 136/246 — [[words/通行|通行]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 通行証.
