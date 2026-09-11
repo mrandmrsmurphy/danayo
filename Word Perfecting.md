@@ -302,6 +302,46 @@ Never-perfected word, but otherwise already well-formed. Removed dangling blank 
 
 Next: 超.
 
+### 2026-09-11, word 61/246 — [[words/超|超]]
+Never-perfected word; page had multiple structural problems. Fixed `characters:` stored as a bare scalar string instead of a list; fixed `vietnamese: null` (a literal YAML null) → filled with compositional siêu; filled a missing `japanese` field entirely (ちょう); filled entirely-missing `kwin` (false) and `date-last-perfect`; wrote a `## Notes` section from scratch (heading existed with zero content below it). Added a missing self-referential legitimizing note (超(char)'s own `stand_in` points to itself). Confirmed the reciprocal homophone callouts with [[島]] and [[倒]] were already correctly present on both those pages (this closes out the three-way group first flagged back when 倒 and 島 were perfected). `characters:` confirmed correct via `ls`, citation already present.
+
+Next: 超越.
+
+### 2026-09-11, word 62/246 — [[words/超越|超越]]
+Never-perfected word. Disambiguated bare 超/越 (both words/超.md and words/越.md exist — confirmed via `ls`; Etymology prose was already using the disambiguated forms). **Found and fixed a japanese reading error**: てうゑつ (matching neither constituent's own on'yomi, no attested modern reading) → ちょうえつ, the genuine standard reading. Quoted bare `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 越南.
+
+### 2026-09-11, word 63/246 — [[words/越南|越南]]
+Never-perfected word. Fixed comma-joined `japanese`/`korean` fields into proper YAML lists (kept all attested candidates — Sino-xenic compound, modern phonetic transliteration, and Korean orthographic/transliteration variants — rather than discarding any without verification). Filled entirely-missing `kwin` (false) and `date-last-perfect`. Converted a raw-markdown-link reference to [[越南人]] into a proper wikilink, folding the stray "See/See also" bullet list into a full `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, no homophone collision.
+
+Next: 越南語.
+
+### 2026-09-11, word 64/246 — [[words/越南語|越南語]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch, noting that Japanese/Korean use the modern phonetic-transliteration-based names (paralleling the same split already documented on [[越南]]) rather than a literal compositional calque. `characters:` confirmed correct via `ls`, all three character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 越境.
+
+### 2026-09-11, word 65/246 — [[words/越境|越境]]
+Never-perfected word. **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 웓경 genuinely diverges from own korean 월경 in the first syllable — corrected to `false`. Filled a blank `pos:` (事詞) and a missing `vietnamese` field with honest compositional "việt cảnh" (disclosing native vượt biên as the everyday phrase for illegal border crossing). Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, no homophone collision.
+
+Next: 越盟.
+
+### 2026-09-11, word 66/246 — [[words/越盟|越盟]]
+Never-perfected word. Filled entirely-blank `mandarin`/`cantonese`/`japanese`/`korean` fields with compositional readings — `korean: 월맹` is also a genuine historical South Korean term for North Vietnam/the Viet Minh. Fixed a typo ("aliance" → "alliance"), fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled entirely-missing `kwin` (false) and `date-last-perfect`, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, no homophone collision.
+
+Next: 足指.
+
+### 2026-09-11, word 67/246 — [[words/足指|足指]]
+Never-perfected word. Filled entirely-blank `cantonese`/`korean`/`vietnamese` fields with compositional readings, disclosing that each daughter language's real everyday word for "toe" is instead a native "foot-finger" compound (matching Japanese あしゆび's own pattern). Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled entirely-missing `kwin` (false) and `date-last-perfect`, wrote a `## Notes` section from scratch. Both character-page citations already present, no homophone collision.
+
+Next: 足球.
+
+### 2026-09-11, word 68/246 — [[words/足球|足球]]
+Never-perfected word. Filled entirely-blank `japanese`/`korean`/`vietnamese` fields with compositional readings — `vietnamese: túc cầu` is a real historically-attested term; `korean: 족구` coincidentally names a real, different Korean sport ("foot volleyball"), disclosed honestly, since Korean's actual soccer word 축구 derives from [[蹴球]] instead. Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled entirely-missing `kwin` (false, byte-level verified) and `date-last-perfect`, integrated a stray unformatted note into a full `## Notes` section. Both character-page citations already present, no homophone collision.
+
+Next: 足裏.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
