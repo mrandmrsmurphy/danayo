@@ -192,6 +192,26 @@ Never-perfected word. Filled an entirely-blank `cantonese` field with the compos
 
 Next: 冷麺.
 
+### 2026-09-11, word 39/246 — [[words/冷麺|冷麺]]
+Never-perfected word. Disambiguated bare 冷/麺 (both words/冷.md and words/麺.md exist — confirmed via `ls`; Etymology prose was already using the disambiguated forms, frontmatter wasn't). Fixed a wrongly-capitalized `vietnamese` field (Lãnh miến → lowercase lãnh miến, a common noun not a proper name), disclosing native mì lạnh as the everyday phrase. Removed dangling blank `hsk_level:`/`swadesh:`, fixed inline-flow `aliases:` list, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 凄惨.
+
+### 2026-09-11, word 40/246 — [[words/凄惨|凄惨]]
+Never-perfected word. **Found and fixed a real-equivalent-word bug in `korean`**: 비참한 (a different word built from unrelated characters 悲慘 plus an adjectival suffix) → compositional 처참 (凄's own 처 + 惨's own 참). Disambiguated bare 惨 to "惨 (char)" (words/惨.md exists). Removed dangling blank `hsk_level:`/`swadesh:`, fixed inline-flow `aliases:` list, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 凱旋門.
+
+### 2026-09-11, word 41/246 — [[words/凱旋門|凱旋門]]
+Never-perfected word, but otherwise already well-formed (verified 凱's own unusual cantonese hoi2 is genuinely correct, not a corruption). Fixed unindented `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged `## Etymology` into a full `## Notes` section. All three character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 凹凸.
+
+### 2026-09-11, word 42/246 — [[words/凹凸|凹凸]]
+Never-perfected word. Fixed a typo ("bumby" → "bumpy," confirmed against both character-page citations' own correct spelling). Fixed a comma-joined `mandarin` field with a typo'd variant (āotū, āotú → just āotū, matching 凸's own stored reading exactly). Filled a blank `pos:` (性詞), fixed inline-flow `characters:`/`aliases:` lists, removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 出版.
+
 The prior log (4397 iterations, 2026-08-05 through 2026-09-11) is archived as `Word Perfecting 5.md.zip`, following the same rollover convention as archives 2–4.
 
 **The 246-word backlog** (confirmed via `grep -L "^date-last-perfect:" words/*.md`, LC_ALL=C sorted) is tracked in the memory file `project_word_sweep_position.md`, with a checked-off copy maintained there as the authoritative remaining-work list. This log records one entry per completed word going forward, same format as before.
