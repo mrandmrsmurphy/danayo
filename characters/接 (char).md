@@ -53,6 +53,7 @@ boundedness: 90
 - <ruby>[[接受]]<rt>ㄐㄛㄆㄙ⼜</rt></ruby> "accept, receive"
 - <ruby>[[接吻]]<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby> "kiss"
 - <ruby>[[接尾辞]]<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"
+- <ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> "link, join, connect"
 - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby> "tangent"
 - <ruby>[[交接]]<rt>ㄍ⼘ㄨㄐㄛㄆ</rt></ruby> "to link; join; connect"
 - <ruby>[[連接詞]]<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby> "conjunction (grammar)"

@@ -727,3 +727,23 @@ Next: 造金.
 Never-perfected word (chemistry neologism — technetium). Confirmed mandarin/cantonese/japanese/korean/vietnamese correctly follow the established proper-noun/named-referent convention for periodic-table neologisms (real element names/loanwords in each language, matching [[青素]]/[[重素]] precedent), not a bug. **Found and fixed a duplicate `pos`/`品詞` key bug** and an invisible non-breaking space (U+00A0) hidden inside the `japanese` list item (same bug class as the earlier 八卦.md finding). Filled missing `date-last-perfect`. **Found and fixed a missing citation** on 金(char).md's own Words list. Citation on 造.md already correctly present, `kwin: false` confirmed (matches 青素/重素 convention), no homophone collision.
 
 Next: 連世紀.
+
+### 2026-09-11, word 145/246 — [[words/連世紀|連世紀]]
+Never-perfected word. Filled a missing `vietnamese` with honest compositional "liên thế kỷ" (連's own liên + 世紀's own attested "thế kỷ"), filled missing `date-last-perfect`, wrote a `## Notes` section. All three character-page citations (連, 世, 紀) already correctly present, `kwin: false` confirmed, no homophone collision. Confirmed this is a character+existing-word compound (連 + the standalone word 世紀), not three bare characters.
+
+Next: 連帯.
+
+### 2026-09-11, word 146/246 — [[words/連帯|連帯]]
+Never-perfected word. Filled missing `date-last-perfect`, extended the existing rich Notes with the kwin/homophone verification sentence. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連年.
+
+### 2026-09-11, word 147/246 — [[words/連年|連年]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "liên niên," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連接.
+
+### 2026-09-11, word 148/246 — [[words/連接|連接]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 接 → "接 (char)," since [[接]] has its own word page). Filled blank `korean`/`vietnamese` (honest compositional 연접, directly-attested "liên tiếp"). **Found and fixed a missing citation** on 接(char).md's own Words list. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `kwin`/`date-last-perfect`. Citation on 連(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連接詞.
