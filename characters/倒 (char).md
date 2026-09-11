@@ -49,4 +49,5 @@ boundedness: 100
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[倒]]<rt>ㄊㄚㄨ</rt></ruby> "turn over; take turns" (stand-in for 倒)
 - <ruby>[[絆倒]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "to trip; to cause to stumble"

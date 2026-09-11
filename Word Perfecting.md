@@ -3611,3 +3611,613 @@ Next: 何故.
 Confirmed the same real-equivalent-instead-of-own-reading bug on `cantonese`/`japanese`/`korean`/`vietnamese` (點解/なぜ/왜/sao→ho4 gu3/かこ/하고/hà cớ) — `mandarin: hégù` was already correctly compositional. This correction flipped `kwin` from false to true, since the corrected compositional Sino-Korean 하고 now exactly matches the word's own stored 諺文. Honestly noted かこ's homograph risk with 過去 ("the past"). Removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading, added missing `date-last-perfect`. `characters:` confirmed correct (bare 故, no conflicting words/故.md exists), both character-page citations already correctly ruby-formatted, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
 
 Next: 何時.
+
+### 2026-09-10, iteration 4276 — [[words/何時|何時]]
+Found that `korean` had already gone through two rounds of the same underlying bug: first "몇 시" (mistranslation), then "corrected" to 언제 (real everyday word, but still not 何時's own reading) — the same real-equivalent-instead-of-own-reading bug found on the other 何-correlatives. Corrected to the genuine compositional 하시 (matching 時's own korean field), which exactly matches this word's own stored 諺文, flipping `kwin` false→true. Filled a missing `vietnamese` field (hà thì). `mandarin`/`cantonese` were already correctly compositional; `japanese: いつ` was correctly left untouched, as this page's own prose already establishes the genuine real-world orthographic identity (like [[何処]]/どこ). Removed a circular self-referential alias in a prior pass (already noted in the file). `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, no homophone collision.
+
+Next: 何様.
+
+### 2026-09-10, iteration 4277 — [[words/何様|何様]]
+Confirmed the same real-equivalent-instead-of-own-reading bug on ALL five language fields (怎麼樣/zěnmeyàng, 點樣/dim2 joeng6, どのように, 어떻게, như thế nào) — corrected to héyàng/ho4 joeng4/なにさま/하양/hà dạng. Notably `japanese: なにさま` turned out to be a genuine, real attested Japanese word (rhetorical "who do you think you are?!"), not mere compositional filler — a third case (with 何処/どこ, 何時/いつ) of a correlative whose Dan'a'yo-adjacent reading is also real in a source language. Correcting `korean` to 하양 exactly matched the word's own stored 諺文, flipping `kwin` false→true. Removed the `neologism` tag, which directly contradicted this page's own prose. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, no homophone collision. **Note**: [[何物]] (due next) is also part of this correlative family and still needs the same per-language check.
+
+Next: 何物.
+
+### 2026-09-10, iteration 4278 — [[words/何物|何物]]
+Filled `cantonese`/`korean`/`vietnamese` fields entirely missing from frontmatter (ho4 mat6, 하물, hà vật, all compositional) — `mandarin: héwù` and `japanese: なにもの` were already correctly 何物's own genuine readings, both explicitly confirmed in this page's own prose. Fixed duplicate `pos`/`品詞`, standardized a non-standard `>[!info]` homophone callout to the vault's usual `>[!warning] Homophones` format. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted. Homophone with [[荷物]] re-verified as genuine via anchored grep. Stamped `date-last-perfect: 2026-09-10`. **Note**: [[何類]] (due next) is yet another 何-correlative-family word not previously known — needs the same per-language check.
+
+Next: 何類.
+
+### 2026-09-10, iteration 4279 — [[words/何類|何類]]
+Confirmed the same real-equivalent-instead-of-own-reading bug on all five language fields (哪種/邊種/どんな/무슨/loại nào), compounded by a prior pass that had already "corrected" the mandarin/cantonese fields from an even-worse earlier value (什麼/甚麼) to a still-wrong equivalent (哪種/邊種) without ever landing on the headword's own reading. Corrected to hélèi/ho4 leoi6/かるい/하류/hà loại, honestly noting かるい/하류 as coincidental homographs with unrelated common words (軽い "light," 下流 "downstream"). Fixed duplicate `pos`/`品詞`, removed the `neologism` tag. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (still diverges from the corrected compositional Sino-Korean). No homophone collision. Stamped `date-last-perfect: 2026-09-10`. **This closes out the entire 何-prefixed correlative-family investigation** — 何/何事/何人/何処/何名/何多/何故/何時/何様/何物/何類 (11 words), with the real-equivalent bug found and fixed on 9 of them.
+
+Next: 余割.
+
+### 2026-09-10, iteration 4280 — [[words/余割|余割]]
+Fixed a missing `korean` field entirely (filled 여할, compositional), normalized inline-flow `characters:`/`aliases: [餘割]` to block-list format, added missing `kwin`/`date-last-perfect`, wrote missing Notes cross-referencing the sibling trig terms [[余弦]]/[[余接]]. Upgraded a bare-format citation on `割 (char).md`; `余.md`'s own citation was already correct. `characters:` confirmed correct (bare 余, no conflicting words/余.md exists), `kwin: false` confirmed (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 余弦.
+
+### 2026-09-10, iteration 4281 — [[words/余弦|余弦]]
+Removed dangling empty `hsk_level`/`swadesh` fields. `characters:` confirmed correct (`弦 (char)` required, conflicting words/弦.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already outstanding (Johann Schreck's 大測 (1631) coinage history, honest documentation of Vietnamese's exclusive-loanword usage vs. Korean's surviving formal term). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 余接.
+
+### 2026-09-10, iteration 4282 — [[words/余接|余接]]
+Normalized inline-flow `characters:` to block-list format, removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, merged a stray unheaded line and a non-standard `## Etymology` heading into `## Notes`, upgraded the bare "正接" mention to a proper wikilink. `characters:` confirmed correct (`接 (char)` required, conflicting words/接.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already good (parallel with 余弦's own 여현/côsin pattern). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 余波.
+
+### 2026-09-10, iteration 4283 — [[words/余波|余波]]
+Normalized inline-flow `characters:`/`aliases: [餘波]` to block-list format, fixed a comma-joined `japanese` string into a proper YAML list, removed dangling empty `hsk_level`/`swadesh`, merged a non-standard `## Etymology` heading into `## Notes`. `characters:` confirmed correct (bare 波, no conflicting words/波.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already good (attested dư ba "remaining waves/ripples"). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 余震.
+
+### 2026-09-10, iteration 4284 — [[words/余震|余震]]
+Normalized inline-flow `characters:`/`aliases: [餘震]` to block-list format, removed dangling empty `hsk_level`/`swadesh`, added missing `date-last-perfect`, wrote missing Notes (merged from a non-standard `## Etymology` heading). `characters:` confirmed correct (bare 震, no conflicting words/震.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (余(char) false overrides 震(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 余-prefixed word cluster.
+
+Next: 佛.
+
+### 2026-09-10, iteration 4285 — [[words/佛|佛]]
+Fixed a missing `japanese` field entirely (filled ぶつ, 佛(char)'s own first-listed on'yomi BUTSU, per the established convention). Added the standard self-referential legitimizing-note phrasing. Citation on `佛 (char).md` already correct, no homophone collision. Content already excellent (Sanskrit *buddha* transliteration history, honest flagging of a phất contamination candidate from an unrelated 弗-phonetic character). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佛教.
+
+### 2026-09-10, iteration 4286 — [[words/佛教|佛教]]
+Fixed mis-capitalized vietnamese (phật giáo→Phật giáo, matching [[佛]]'s own capitalized proper-noun Phật), removed dangling empty `hsk_level`/`swadesh`, added missing `date-last-perfect`, wrote missing Notes. Found and fixed a missing-citation bug: 佛教 was entirely absent from `佛(char).md`'s Words list — added; `教.md`'s own citation was already correct. `characters:` confirmed correct (bare 教, no conflicting words/教.md exists), `kwin: false` confirmed via AND-rule (教(char) false overrides 佛(char)'s own true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佛陀.
+
+### 2026-09-10, iteration 4287 — [[words/佛陀|佛陀]]
+Fixed a capitalized `mandarin` ("Fótuó"→"fótuó", matching [[佛]]'s own lowercase pinyin convention), removed dangling empty `hsk_level`/`swadesh`/`aliases`. Found and fixed a missing-citation bug: 佛陀 was entirely absent from both `佛(char).md`'s and `陀.md`'s own Words lists (only mentioned in etymology prose on the former) — added to both. `characters:` confirmed correct (bare 陀, no conflicting words/陀.md exists), `kwin: false` confirmed via AND-rule (陀(char) false overrides 佛(char)'s own true), no homophone collision. Content already good (Sanskrit *buddhá* transliteration, formal Phật Đà vs. everyday Phật distinction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佛雷素.
+
+### 2026-09-10, iteration 4288 — [[words/佛雷素|佛雷素]]
+Already in excellent shape. `characters:` confirmed correct (`雷 (char)` required, conflicting words/雷.md exists; bare 素 correct, no conflict), all three character-page citations already correctly ruby-formatted, `kwin: false` confirmed correct (word's own 諺文 diverges entirely from the loanword-based Korean field). Content already outstanding — one of the periodic-table neologism entries, thoroughly self-aware about why this specific coinage's mandarin/cantonese hold direct compositional readings rather than the avoided single-character alternative 鈇/𫓧, following the established "-i" Vietnamese suffix pattern. Just refreshed `date-last-perfect: 2026-09-10`. This closes out the entire 佛-prefixed word cluster.
+
+Next: 作.
+
+### 2026-09-10, iteration 4289 — [[words/作|作]]
+Fixed a broken Homophones callout (stray blank line breaking Obsidian syntax), added the standard self-referential legitimizing-note phrasing. Found and fixed a real missing-citation bug: the word 作 itself was entirely absent from `作(char).md`'s own Words list despite being its stand-in — added. Re-verified the genuine homophone with [[昨]] via anchored grep, confirming several character-only matches (雀/爵/炸/搾/宅/酢/灼/酌/窄/責/捉) have no independent word pages. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 作坊.
+
+### 2026-09-10, iteration 4290 — [[words/作坊|作坊]]
+Fixed missing disambiguation (`characters:` cited bare `作` instead of the parent filename `作 (char)`), fixed relative-link paths in Notes (missing `../` prefix), removed dangling empty `hsk_level`/`swadesh`/`aliases`, added legitimizing-note phrasing (坊's own `stand_in` is this exact compound). Found and fixed a missing-citation bug on `作(char).md`; `坊.md`'s own citation was already correct. `kwin: false` confirmed via AND-rule (作(char) true, 坊(char) false), no homophone collision. Content already excellent (honest Chinese-specific-term note distinguishing from 工房/工作室, cross-linguistic real-equivalent documentation). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 作業.
+
+### 2026-09-10, iteration 4291 — [[words/作業|作業]]
+Already in excellent shape. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Content already outstanding (honest Japanese 宿題-vs-作業 homework distinction, Vietnamese tác nghiệp's narrower professional-register note vs. công tác). Just refreshed `date-last-perfect: 2026-09-10`.
+
+Next: 作用.
+
+### 2026-09-10, iteration 4292 — [[words/作用|作用]]
+Fixed missing disambiguation (bare `作`→`作 (char)`, since `words/作.md` exists), removed dangling empty `hsk_level`/`swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes. `characters:` confirmed correct (bare 用, no conflicting words/用.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 作-prefixed word cluster.
+
+Next: 佩戴.
+
+### 2026-09-10, iteration 4293 — [[words/佩戴|佩戴]]
+Fixed missing `japanese`/`vietnamese` fields entirely (filled はいたい/bội đái, honest compositional, no independent attestation found), added legitimizing-note phrasing (佩's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 佩, no conflicting words/佩.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佳.
+
+### 2026-09-10, iteration 4294 — [[words/佳|佳]]
+Fixed a missing `japanese` field entirely (filled か, 佳(char)'s only on'yomi candidate KA). Added the standard self-referential legitimizing-note phrasing. Citation on `佳 (char).md` already correct. Confirmed the character-only match 街 has no independent word page. Content already excellent (honest note on 佳's own dai/lai/trai corpus-contamination candidates, 解 homophone flagged for its own turn). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 佳人.
+
+### 2026-09-10, iteration 4295 — [[words/佳人|佳人]]
+Fixed missing disambiguation (bare `人`→`人 (char)`, since `words/人.md` exists), normalized indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes. Upgraded a bare numbered-list citation on `人(char).md` (item 11); `佳 (char).md`'s own citation was already correct. `kwin: false` confirmed (both constituents independently false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 佳-prefixed word cluster.
+
+Next: 使徒.
+
+### 2026-09-10, iteration 4296 — [[words/使徒|使徒]]
+Added missing `date-last-perfect`. Fixed a malformed reference where "使徒" plain text was glued directly to a broken `[[行傳]]` wikilink (neither 使徒行傳 nor 行傳 has its own vault page yet) — unwrapped into plain text with an honest note rather than a dangling broken link. `characters:` confirmed correct (bare 使/徒, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (使(char) false overrides 徒(char)'s own true), no homophone collision. Content already good (honest Protestant/Orthodox vs. Catholic [[宗徒]] terminology distinction). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 使用.
+
+### 2026-09-10, iteration 4297 — [[words/使用|使用]]
+Reworded the informal stand-in note into the standard legitimizing-note phrasing (用's own `stand_in` is this exact compound), added explicit `kwin` AND-rule reasoning. `characters:` confirmed correct, both character-page citations already correctly ruby-formatted, no homophone collision. Content already outstanding (使用説明書/사용설명서 cross-reference, "no native displacement or homophone collision found" honesty note). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 使者.
+
+### 2026-09-10, iteration 4298 — [[words/使者|使者]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (使's own `stand_in` is this exact compound). `characters:` confirmed correct (`者 (char)` required, conflicting words/者.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false). Re-verified the 3-way homophone group (使者/侍者/時差) via anchored grep — genuine. Content already good (previously-fixed pinyin-instead-of-jyutping cantonese bug still holds). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 使-prefixed word cluster.
+
+Next: 侍奉.
+
+### 2026-09-10, iteration 4299 — [[words/侍奉|侍奉]]
+Fixed a Japanese full-width-comma-joined `japanese` field into a proper YAML list, removed dangling empty `hsk_level`/`swadesh`, added legitimizing-note phrasing (奉's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 侍/奉, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Content already good (attested 시봉하다, parallels with phụng dưỡng/cung phụng). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侍者.
+
+### 2026-09-10, iteration 4300 — [[words/侍者|侍者]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases: []`, added legitimizing-note phrasing (侍's own `stand_in` is this exact compound). `characters:` confirmed correct (`者 (char)` required, conflicting words/者.md exists), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (侍(char) true, 者(char) false). Homophone callout with [[使者]]/[[時差]] already complete and correct. Content already good (Sanskrit antevāsin parallel for the Buddhist attendant sense). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 侍-prefixed word cluster. Milestone: iteration 4300.
+
+Next: 侏儒.
+
+### 2026-09-10, iteration 4301 — [[words/侏儒|侏儒]]
+Fixed a real formatting bug: `vietnamese` was a broken two-item list `[chu, nhu]` (each character's own bare first-candidate syllable, never combined) instead of the single compositional value "chu nhu" — corrected. Normalized `characters:` indentation, removed dangling empty `hsk_level`/`swadesh`/`aliases`, added missing `date-last-perfect`, wrote missing Notes with legitimizing-note phrasing (侏's own `stand_in` is this exact compound). `characters:` confirmed correct (bare 侏/儒, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed via AND-rule (侏(char) true, 儒(char) false), no homophone collision. Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 侏-prefixed word cluster.
+
+Next: 供給.
+
+### 2026-09-10, iteration 4302 — [[words/供給|供給]]
+Removed dangling empty `hsk_level`/`swadesh`/`aliases` fields. `characters:` confirmed correct (bare 供/給, no conflicting words exist), both character-page citations already correctly ruby-formatted, `kwin: false` confirmed (both constituents independently false), no homophone collision. Content already good (供給と需要 real usage example, attested cung cấp). Stamped `date-last-perfect: 2026-09-10`. This closes out the entire 供-prefixed word cluster.
+
+Next: 依.
+
+### 2026-09-10, iteration 4303 — [[words/依|依]]
+Added the standard self-referential legitimizing-note phrasing, expanded thin Notes. Found and fixed a real missing-citation bug: the word 依 itself was entirely absent from `依(char).md`'s own Words list despite being its stand-in — added. Verified several character-only homophone matches (伊/羨/衣/懿/姨/胰/夷/毅) have no independent word pages. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 依存.
+
+### 2026-09-10, iteration 4304 — [[words/依存|依存]]
+Fixed a malformed reference where "相互" was wikilinked but glued to plain-text "依存" (相互依存 has no dedicated vault page yet) — unwrapped with an honest note. Filled a missing `vietnamese` field entirely (y tồn, honest compositional, noting the more common everyday native phụ thuộc). `characters:` confirmed correct (bare 存, no conflicting words/存.md exists), both character-page citations already correctly ruby-formatted, `kwin: true` confirmed (both constituents independently true), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 依拠.
+
+### 2026-09-10, iteration 4305 — [[words/依拠|依拠]]
+Disambiguated bare 依 to "依 (char)" (words/依.md exists — confirmed via `ls`); converted inline-flow `characters:` to block list; removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; merged non-standard `## Etymology` heading into `## Notes`. Added a legitimizing note for 拠, whose own `stand_in` points to this word (依拠) — confirmed via reading 拠.md. `kwin: false` confirmed correct (own 諺文 의교 vs own korean 의거 genuinely diverge). No homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 依然.
+
+### 2026-09-10, iteration 4306 — [[words/依然|依然]]
+Disambiguated bare 依 to "依 (char)" (words/依.md exists); converted inline-flow `characters:` to block list; removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; merged `## Etymology` into `## Notes`. **Found and fixed a missing homophone callout**: 依然 shares 注音 ㄧㄜㄋ⼶ㄋ with [[毅然]] (confirmed via anchored grep) — added standard `>[!warning] Homophones` callout plus prose mention. Reciprocal callout on 毅然's own page deferred to its own alphabetical turn (also noted: 毅然 is missing a `vietnamese` field entirely — flag for that turn too). Both character-page citations (依(char), 然(char)) already correctly present. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 依頼.
+
+### 2026-09-10, iteration 4307 — [[words/依頼|依頼]]
+Disambiguated bare 依 to "依 (char)" (words/依.md exists); removed dangling blank `hsk_level:`/`swadesh:`. Added a missing legitimizing note for 頼, whose own `stand_in` points to this word (confirmed via reading 頼.md). Both character-page citations already correctly present, `kwin: false` and `aliases:` list already correct from a prior pass, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侠客.
+
+### 2026-09-10, iteration 4308 — [[words/侠客|侠客]]
+Removed duplicate `品詞` key (kept `pos`). Fixed broken relative links in Notes prose (bare `characters/X.md` missing the `../` prefix used everywhere else in the vault). Replaced casual stand-in prose with the standard legitimizing-note phrasing (侠's own `stand_in` points to this word, confirmed via reading 侠(char).md). `characters:` (bare 侠, 客) confirmed correct via `ls` (no conflicting word files), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 価値.
+
+### 2026-09-10, iteration 4309 — [[words/価値|価値]]
+Removed dangling blank `swadesh:`/`aliases:`. Standardized casual stand-in prose into the standard legitimizing-note phrasing (値's own `stand_in` confirmed pointing to this word). `characters:` (bare 価, 値) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, reciprocal homophone callout with [[加持]] already correctly present on both pages. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 価格.
+
+### 2026-09-10, iteration 4310 — [[words/価格|価格]]
+Quoted bare `hsk_level: 2` → `"2"` (string convention); removed dangling blank `swadesh:`. Replaced the non-standard `>[!tip]` stand-in callout with a proper Notes paragraph plus the standard legitimizing-note phrasing (価's own `stand_in` confirmed pointing to this word). `characters:` confirmed correct ("格 (char)" disambiguation verified necessary via `ls words/格.md`), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侮辱.
+
+### 2026-09-10, iteration 4311 — [[words/侮辱|侮辱]]
+Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 侮, whose own `stand_in` points to this word (confirmed via reading 侮.md). `characters:` (bare 侮, 辱) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侯.
+
+### 2026-09-10, iteration 4312 — [[words/侯|侯]]
+Filled a missing `japanese` field (こう, compositional from 侯(char)'s own KOU on'yomi). Added a missing self-referential legitimizing note (侯(char)'s own `stand_in` points to itself). `characters:` correct, citation on 侯(char).md already present, `kwin: false` confirmed, homophone callout with [[厚]]/[[吼]] already correctly present (reciprocal halves deferred to each word's own turn, per existing note). Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侵入.
+
+### 2026-09-10, iteration 4313 — [[words/侵入|侵入]]
+Removed duplicate `品詞` key (kept `pos`); flattened single-item `japanese`/`vietnamese` lists to scalar values. Replaced casual stand-in prose with the standard legitimizing-note phrasing (侵's own `stand_in` confirmed pointing to this word). `characters:` confirmed correct via `ls` (bare 侵, disambiguated 入 (char)), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侵犯.
+
+### 2026-09-10, iteration 4314 — [[words/侵犯|侵犯]]
+Fixed unindented `characters:` list items to standard 2-space indent; removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; filled a missing `date-last-perfect` entirely; merged the thin `## Etymology` heading into a proper `## Notes` section with full readings synthesis, kwin/homophone verification. `characters:` (bare 侵, 犯) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 侵略.
+
+### 2026-09-10, iteration 4315 — [[words/侵略|侵略]]
+Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; filled a missing `date-last-perfect` entirely; merged the thin `## Etymology` heading into a proper `## Notes` section with full readings synthesis. `characters:` (bare 侵, disambiguated 略 (char)) confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed (own 諺文 침략 matches own korean 침략 exactly), no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 便.
+
+### 2026-09-10, iteration 4316 — [[words/便|便]]
+Removed duplicate `品詞` key (kept `pos`); flattened single-item `japanese` list to scalar. Added a missing self-referential legitimizing note (便(char)'s own `stand_in` points to itself). Confirmed the character-only 注音 matches (編/卞/鞭) have no independent word pages, so aren't real homophone collisions beyond the already-noted [[変]]. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 便乗.
+
+### 2026-09-10, iteration 4317 — [[words/便乗|便乗]]
+Filled a missing `vietnamese` field with honest compositional "tiện thừa" (no independently attested Vietnamese loanword found for this sense); closed up mandarin "biàn chéng" → "biànchéng" to match compound-reading convention. **Found and fixed a missing citation** on 便(char).md's own Words list (便乗 was documented on 乗(char).md but never cited back on 便(char).md); also fixed a malformed `vietnamese` list there (was "tiện, biền" crammed into one item). `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 便宜.
+
+### 2026-09-10, iteration 4318 — [[words/便宜|便宜]]
+Already fully compliant from a thorough prior pass (heteronym-pair correction, cross-linguistic asymmetry disclosure, vietnamese field all previously fixed) — re-verified `characters:`, both citations, `kwin: false`, and no homophone collision; no changes needed beyond the date stamp. Stamped `date-last-perfect: 2026-09-10`.
+
+Next: 便箋.
+
+### 2026-09-11, iteration 4319 — [[words/便箋|便箋]]
+Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`. Added a missing legitimizing note for 箋 (its own `stand_in` points to this word). **Found and fixed a missing citation** on 便(char).md's own Words list (便箋 was documented on 箋.md but never cited back on 便(char).md). `characters:` confirmed correct, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11` (date rolled over).
+
+Next: 促.
+
+### 2026-09-11, iteration 4320 — [[words/促|促]]
+Filled a missing `japanese` field (そく, matching 促(char)'s own SOKU on'yomi, already documented in prose but absent from frontmatter). Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (燭, 触) have no independent word pages, so aren't real homophone collisions. `kwin: true` confirmed exact match. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俄然.
+
+### 2026-09-11, iteration 4321 — [[words/俄然|俄然]]
+Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`. Fixed broken relative links in Notes prose (missing `../` prefix). Added a missing legitimizing note for 俄, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俄雨.
+
+### 2026-09-11, iteration 4322 — [[words/俄雨|俄雨]]
+Fixed broken relative links in Notes prose (missing `../` prefix). Added `kwin`/homophone verification sentence to Notes. `characters:` confirmed correct via `ls` (bare 俄, disambiguated 雨 (char)), both character-page citations already present, `kwin: true` confirmed (own 諺文 아우 matches own korean 아우 exactly), no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俊傑.
+
+### 2026-09-11, iteration 4323 — [[words/俊傑|俊傑]]
+Fixed unindented `characters:` list to standard 2-space indent; removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 俊, whose own `stand_in` points to this word. `characters:` (bare 俊, 傑) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed correct from a prior pass, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俊馬.
+
+### 2026-09-11, iteration 4324 — [[words/俊馬|俊馬]]
+Standardized a wikilink-vs-markdown-link inconsistency (`[[俊]]` → `[俊](../characters/俊.md)`, matching the sibling constituent's format). Added `kwin`/homophone verification sentence. Confirmed 駿/骏 aliases on 俊.md support the prose's alias explanation, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俗.
+
+### 2026-09-11, iteration 4325 — [[words/俗|俗]]
+Filled a missing `japanese` field (ぞく, already documented in prose but absent from frontmatter). Added a missing self-referential legitimizing note. Confirmed the character-only 注音 match (蜀) has no independent word page, so isn't a real homophone collision beyond the already-noted [[速]]. `kwin: true` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俘虜.
+
+### 2026-09-11, iteration 4326 — [[words/俘虜|俘虜]]
+Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`. Fixed broken relative links in Notes prose (missing `../` prefix). Re-verified `#cranberry` tag transitivity (both 俘 and 虜's own `stand_in` point to this word, A=B=AB confirmed). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保存.
+
+### 2026-09-11, iteration 4327 — [[words/保存|保存]]
+Fixed unindented `characters:` list; quoted bare `hsk_level: 2` → `"2"`; removed dangling blank `swadesh:`/`aliases:`. `characters:` (bare 保, 存) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保持.
+
+### 2026-09-11, iteration 4328 — [[words/保持|保持]]
+Removed dangling blank `swadesh:`/`aliases:`. Replaced casual "viable form of 保" prose with the standard legitimizing-note phrasing (保's own `stand_in` confirmed pointing to this word). **Found and fixed a missing "(stand-in for 保)" suffix** on 保.md's own citation for this word. Confirmed 持(char).md's `vietnamese` list (previously fixed) is still correctly formatted. `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保母.
+
+### 2026-09-11, iteration 4329 — [[words/保母|保母]]
+Removed dangling blank `hsk_level:`/`swadesh:`. `characters:` (bare 保, 母) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保留.
+
+### 2026-09-11, iteration 4330 — [[words/保留|保留]]
+Disambiguated bare 留 to "留 (char)" (words/留.md exists — confirmed via `ls`; the frontmatter/prose were already inconsistent, prose already used the disambiguated form). Fixed unindented `characters:` list, quoted `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, merged the thin `## Etymology` heading into a proper `## Notes` section. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保衛.
+
+### 2026-09-11, iteration 4331 — [[words/保衛|保衛]]
+Filled an entirely-missing `japanese` field with honest compositional "ほえい" (no attested Japanese loanword found — Japanese uses 防衛 for this sense instead). Fixed inline-flow `characters:` list; removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; filled a missing `date-last-perfect` entirely; merged the thin `## Etymology` heading into a proper `## Notes` section. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保証.
+
+### 2026-09-11, iteration 4332 — [[words/保証|保証]]
+**Found and fixed a nonsensical `english` gloss entry**: "sweat" had no plausible relation to 保証's actual meaning — removed (kept "ensure/attest/stipulate/vouch", matching both character-page citations). Fixed unindented `characters:` list, inline-flow `aliases:` list; removed dangling blank `hsk_level:`/`swadesh:`; merged the thin `## Etymology` heading into a proper `## Notes` section; filled a missing `date-last-perfect` entirely. `characters:` (bare 保, 証) confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保護.
+
+### 2026-09-11, iteration 4333 — [[words/保護|保護]]
+Fixed a typo ("sheild" → "shield"), an unspaced cantonese field, quoted bare `hsk_level`, removed a dangling blank `swadesh:`, and filled a missing `date-last-perfect` entirely. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 保険.
+
+### 2026-09-11, iteration 4334 — [[words/保険|保険]]
+Disambiguated bare 険 to "険 (char)" (words/険.md exists — confirmed via `ls`; prose was already using the disambiguated form, frontmatter wasn't). Fixed unindented `characters:` list, inline-flow `aliases:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`, merged thin `## Etymology` into proper `## Notes`. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信任.
+
+### 2026-09-11, iteration 4335 — [[words/信任|信任]]
+Filled a blank `pos:` (事詞), fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled an entirely-missing `date-last-perfect`, and wrote a `## Notes` section from scratch (page previously had none). Added a missing legitimizing note for 信, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信天翁.
+
+### 2026-09-11, iteration 4336 — [[words/信天翁|信天翁]]
+Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled entirely-missing `date-last-perfect`, wrote a `## Notes` section from scratch. **Found and fixed a Japanese typo** (あはうどり → あほうどり). Replaced the overly-specific taxonomic `vietnamese` value ("Họ Hải âu mày đen," a single species' formal name) with the general everyday word hải âu. `characters:` confirmed correct via `ls` (both 天/翁 disambiguation necessary), all three character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信奉.
+
+### 2026-09-11, iteration 4337 — [[words/信奉|信奉]]
+Fixed inline-flow `characters:` list; removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; merged `## Etymology` into `## Notes`. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信徒.
+
+### 2026-09-11, iteration 4338 — [[words/信徒|信徒]]
+Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`. Added a missing legitimizing note for 徒, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信条.
+
+### 2026-09-11, iteration 4339 — [[words/信条|信条]]
+Removed duplicate `品詞` key, flattened single-item lists, fixed a garbled all-caps gloss ("LONG-THIN" → proper "clause, article; classifier for long, thin objects"), filled a missing `date-last-perfect` entirely, wrote a proper `## Notes` paragraph (avoiding the previously-flagged incorrect 会意 mischaracterization noted on 条(char).md). **Found and fixed a raw-markdown-link-instead-of-wikilink citation** on 条(char).md's own Words list. `characters:` confirmed correct via `ls`, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 信用.
+
+### 2026-09-11, iteration 4340 — [[words/信用|信用]]
+Fixed inline-flow `characters:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`/empty `aliases: []`, merged `## Etymology` into `## Notes`. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修理.
+
+### 2026-09-11, iteration 4341 — [[words/修理|修理]]
+Fixed inline-flow `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 修, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修繕.
+
+### 2026-09-11, iteration 4342 — [[words/修繕|修繕]]
+Fixed inline-flow `characters:`/`aliases:` lists; removed dangling blank `hsk_level:`/`swadesh:`. Added a missing legitimizing note for 繕, whose own `stand_in` points to this word. **Found and fixed a missing citation** on 修.md's own Words list (修繕 was documented on 繕.md but never cited back on 修.md). `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修補.
+
+### 2026-09-11, iteration 4343 — [[words/修補|修補]]
+Fixed inline-flow `characters:` list, an unspaced cantonese field, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 補, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修道.
+
+### 2026-09-11, iteration 4344 — [[words/修道|修道]]
+Added `kwin`/homophone verification sentence. **Found and fixed a typo** on 道(char).md's own citation ("spiritual disciple" → "spiritual discipline"). `characters:` confirmed correct via `ls` (道 (char) disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修道院.
+
+### 2026-09-11, iteration 4345 — [[words/修道院|修道院]]
+Added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls` (bare 院, 道 (char) disambiguation necessary), all three character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 修飾語.
+
+### 2026-09-11, iteration 4346 — [[words/修飾語|修飾語]]
+Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`. `characters:` confirmed correct via `ls`, all three character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俯仰.
+
+### 2026-09-11, iteration 4347 — [[words/俯仰|俯仰]]
+Filled a missing `vietnamese` field with honest compositional "phủ ngưỡng" (no attested loanword found); filled an entirely-missing `date-last-perfect`. Replaced casual stand-in prose with the standard legitimizing-note phrasing (俯's own `stand_in` confirmed pointing to this word; verified 仰's own `stand_in` is a different word, [[仰望]], so no cranberry transitivity applies here). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俯瞰.
+
+### 2026-09-11, iteration 4348 — [[words/俯瞰|俯瞰]]
+Filled a missing `vietnamese` field with honest compositional "phủ khám" (no attested loanword found); standardized wikilinks to the constituent character pages into the standard markdown-link format. Added a missing legitimizing note for 瞰, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俳優.
+
+### 2026-09-11, iteration 4349 — [[words/俳優|俳優]]
+**Found and fixed a real-equivalent-word-instead-of-own-reading bug**: `japanese` had been filled with 役者 (yakusha, a completely different Japanese word for "actor," different characters entirely) instead of 俳優's own reading — corrected to はいゆう. **Found and fixed a bad aliases entry**: 演員/演员 (the standard Mandarin word for "actor," unrelated characters) had been listed as if they were spelling variants of 俳優 — removed, keeping only genuine simplified form 俳优. Removed dangling blank `hsk_level:`/`swadesh:`; filled entirely-missing `date-last-perfect`; merged `## Etymology` into `## Notes`; fixed broken relative links. Added a missing legitimizing note for 俳, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俸祿.
+
+### 2026-09-11, iteration 4350 — [[words/俸祿|俸祿]]
+Filled a missing `vietnamese` field with directly-attested "bổng lộc" (compositional 俸's bổng + 祿's lộc, and a genuine everyday Vietnamese word in its own right). Fixed broken relative links (missing `../` prefix). Replaced casual stand-in prose with the standard legitimizing-note phrasing (祿's own `stand_in` confirmed pointing to this word). `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 俸給.
+
+### 2026-09-11, iteration 4351 — [[words/俸給|俸給]]
+Fixed broken relative links (missing `../` prefix); replaced casual stand-in prose with the standard legitimizing-note phrasing (俸's own `stand_in` confirmed pointing to this word); added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倉庫.
+
+### 2026-09-11, iteration 4352 — [[words/倉庫|倉庫]]
+Removed duplicate `品詞` key. Filled a missing `vietnamese` field with honest compositional "thương kho" (noting the everyday word is simply kho/nhà kho). Replaced casual stand-in prose with the standard legitimizing-note phrasing (庫's own `stand_in` confirmed pointing to this word). `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倉鼠.
+
+### 2026-09-11, iteration 4353 — [[words/倉鼠|倉鼠]]
+**Found and removed a stray gibberish leftover line** ("very C. Use instead of 絹毛鼠" — 絹毛鼠 doesn't even exist as a vault page, confirmed via `ls`). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; merged `## Etymology` into `## Notes`. **Found and fixed a missing citation** on 鼠.md's own Words list (倉鼠 was documented on 倉.md but never cited back on 鼠.md). `characters:` confirmed correct via `ls`, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 個.
+
+### 2026-09-11, iteration 4354 — [[words/個|個]]
+Removed duplicate `品詞` key. **Found and fixed a missing homophone callout**: 個 shares 注音 ㄍㄜ with [[其]] (confirmed via anchored grep) — added standard callout plus prose mention; reciprocal callout on 其's own page (which also has the same duplicate-品詞 bug) deferred to its own alphabetical turn. Trimmed a redundant mid-paragraph self-referential mention in favor of a standard legitimizing-note line at the end (個(char)'s own `stand_in` points to itself). Confirmed character-only 注音 matches (哥, 歌) have no independent word pages. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 個人.
+
+### 2026-09-11, iteration 4355 — [[words/個人|個人]]
+Disambiguated bare 個 and 人 to "個 (char)"/"人 (char)" (words/個.md and words/人.md both exist — confirmed via `ls`). Fixed unindented `characters:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch (page had none). **Found and fixed a missing homophone callout**: 個人 shares 注音 ㄍㄜㄋㄧㄋ with [[其人]] (confirmed via anchored grep) — added standard callout; reciprocal callout on 其人 (which also has the same duplicate-品詞 bug as 其) deferred to its own alphabetical turn. 個(char)'s citation already present; 人(char)'s citation for this word is only a bare numbered-list item, part of that page's already-flagged larger disorganized-Words-section cleanup, deferred. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 個別.
+
+### 2026-09-11, iteration 4356 — [[words/個別|個別]]
+Added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倍.
+
+### 2026-09-11, iteration 4357 — [[words/倍|倍]]
+Filled a missing `japanese` field (ばい, already documented in prose but absent from frontmatter). **Found and fixed a gloss error** in the homophone prose (唄's gloss given as "ugh" — corrected to its actual meaning, "Buddhist chant, hymn," confirmed via 唄.md's own english field). Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (敗, 貝, 罷, 稗, 狽) have no independent word pages. `kwin: true` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倒.
+
+### 2026-09-11, iteration 4358 — [[words/倒|倒]]
+Filled a missing `japanese` field (とう, already documented in prose but absent from frontmatter). Fixed a broken relative link and non-standard tip-callout phrasing. **Found and fixed a missing self-citation** on 倒(char).md's own Words list (the self-referential stand-in citation was entirely absent). Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (刀, 討, 𢭏, 挑) have no independent word pages. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倚.
+
+### 2026-09-11, iteration 4359 — [[words/倚|倚]]
+Filled a missing `japanese` field (い, matching 倚(char)'s own primary I on'yomi). **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 읫 (U+C76B) genuinely differs from own korean 의 (U+C758) — corrected to `false`. This resolved the long-standing flagged open question about 義(char)'s identical 읫/의 divergence — checked 義.md directly and found the same bug there (`kwin: true` despite genuinely divergent 諺文/korean), fixed it too. Added a missing self-referential legitimizing note for 倚. Confirmed character-only 注音 matches (議, 誼, 義, 儀, 椅, 宜) have no independent word pages. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 借.
+
+### 2026-09-11, iteration 4360 — [[words/借|借]]
+Filled a missing `japanese` field (しゃく, matching 借(char)'s own primary on'yomi). Fixed a broken relative link and non-standard tip-callout phrasing. Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (査, 詐, 遮, 左, 乍, 佐) have no independent word pages; confirmed reciprocal three-way homophone callouts with [[姉]]/[[諸]] already correctly present on both other pages. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倦厭.
+
+### 2026-09-11, iteration 4361 — [[words/倦厭|倦厭]]
+Flattened a single-item `vietnamese` list to scalar. Replaced casual stand-in prose with the standard legitimizing-note phrasing (倦's own `stand_in` confirmed pointing to this word). Confirmed 厭 is a genuine alias of 嫌 (matching the used-alias-not-primary-sense pattern, consistent with 波蘭/六楽/魏峨). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倫理.
+
+### 2026-09-11, iteration 4362 — [[words/倫理|倫理]]
+Fixed unindented `characters:` list; **found and fixed a bad aliases entry** (倫理 was listed as its own alias — removed, keeping only the genuine simplified form 伦理); removed dangling blank `hsk_level:`/`swadesh:`; filled a missing `date-last-perfect` entirely; merged the thin `## Etymology` heading plus a stray unformatted reference line into a proper `## Notes` section, honestly noting 倫理学 has no dedicated page yet. Added a missing legitimizing note for 倫, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倭人.
+
+### 2026-09-11, iteration 4363 — [[words/倭人|倭人]]
+Filled a missing `vietnamese` field with honest compositional "oa nhân" (no attested loanword found). Replaced casual stand-in prose with the standard legitimizing-note phrasing (倭's own `stand_in` confirmed pointing to this word). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倭猩.
+
+### 2026-09-11, iteration 4364 — [[words/倭猩|倭猩]]
+Added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision (`japanese: ボノボ` confirmed a genuine English loanword, not a bug, matching the 倉鼠/ハムスター pattern). Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倶.
+
+### 2026-09-11, iteration 4365 — [[words/倶|倶]]
+Filled a missing `japanese` field (く, already documented in prose but absent from frontmatter). Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (惧, 駒, 具, 拘, 邱) have no independent word pages. `kwin: true` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倶楽部.
+
+### 2026-09-11, iteration 4366 — [[words/倶楽部|倶楽部]]
+Disambiguated bare 部 to "部 (char)" (words/部.md exists — confirmed via `ls`). Fixed unindented `characters:` list, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. Confirmed `japanese: クラブ` is a genuine everyday loanword variant, not a bug. All three character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 倹素.
+
+### 2026-09-11, iteration 4367 — [[words/倹素|倹素]]
+Fixed unindented `characters:` list, inline-flow `aliases:` list, removed dangling blank `hsk_level:`, merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 倹, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偈陀.
+
+### 2026-09-11, iteration 4368 — [[words/偈陀|偈陀]]
+Filled missing `japanese`/`vietnamese` fields with honest compositional readings (げだ, kệ đà). **Found and fixed a missing `#cranberry` tag**: both 偈 and 陀's own `stand_in` fields point to this word (transitivity A=B=AB confirmed), a genuine cranberry case that had gone untagged — added the tag and standardized the prose accordingly, replacing casual single-character stand-in phrasing. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偉大.
+
+### 2026-09-11, iteration 4369 — [[words/偉大|偉大]]
+Removed redundant duplicate stand-in mentions (appeared twice in prose) in favor of a single standard legitimizing-note line at the end (偉's own `stand_in` confirmed pointing to this word). `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偏.
+
+### 2026-09-11, iteration 4370 — [[words/偏|偏]]
+Filled a missing `japanese` field (へん, already documented in prose but absent from frontmatter). **Found and fixed a raw-markdown-link-instead-of-wikilink citation** on 偏(char).md's own self-citation. Added a missing self-referential legitimizing note. Confirmed character-only 注音 match (扁) has no independent word page. `kwin: true` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偏差.
+
+### 2026-09-11, iteration 4371 — [[words/偏差|偏差]]
+Fixed a semicolon-joined `english` string into a proper YAML list. Filled a missing `vietnamese` field with honest compositional "thiên sai" (noting the everyday term is độ lệch chuẩn). `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偏重.
+
+### 2026-09-11, iteration 4372 — [[words/偏重|偏重]]
+Added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偕同.
+
+### 2026-09-11, iteration 4373 — [[words/偕同|偕同]]
+Filled a missing `vietnamese` field with honest compositional "giai đồng" (no attested loanword found). Replaced casual stand-in prose with the standard legitimizing-note phrasing (偕's own `stand_in` confirmed pointing to this word). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偕者.
+
+### 2026-09-11, iteration 4374 — [[words/偕者|偕者]]
+Fixed a bare `english:` string into a proper YAML list (LORD, Yahweh); closed up spaced `mandarin` pinyin and capitalized it as a proper noun (matching sibling divine-name words 上帝/天主/救偕). Added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls` (者 (char) disambiguation necessary), both character-page citations already present (including the compound [[愛偕者神]]), `kwin: false` confirmed, no homophone collision. Confirmed 偕's own `stand_in` is [[偕同]] (not this word), so no legitimizing note needed here. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 停止.
+
+### 2026-09-11, iteration 4375 — [[words/停止|停止]]
+Fixed an unspaced cantonese field; removed dangling blank `swadesh:`/empty `aliases: []`; filled a missing `date-last-perfect` entirely (was absent). `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 停泊.
+
+### 2026-09-11, iteration 4376 — [[words/停泊|停泊]]
+Fixed an unspaced cantonese field; removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`. Added a missing legitimizing note for 泊, whose own `stand_in` points to this word. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 停滞.
+
+### 2026-09-11, iteration 4377 — [[words/停滞|停滞]]
+Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`; filled a missing `date-last-perfect` entirely (was absent); merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 滞, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 停留.
+
+### 2026-09-11, iteration 4378 — [[words/停留|停留]]
+Filled a missing `vietnamese` field with honest compositional "đình lưu" (no attested loanword found); filled a missing `date-last-perfect` entirely (was absent); fixed an unspaced cantonese romanization in prose. Replaced casual stand-in prose with the standard legitimizing-note phrasing (停's own `stand_in` confirmed pointing to this word). Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 健全.
+
+### 2026-09-11, iteration 4379 — [[words/健全|健全]]
+Filled a missing `vietnamese` field with directly-attested "kiện toàn"; filled a missing `date-last-perfect` entirely; fixed an unspaced cantonese romanization in prose. **Found and fixed a malformed vietnamese list on 全(char).md** (was "toàn, tuyền" crammed into one item — reformatted). Replaced casual stand-in prose with the standard legitimizing-note phrasing (健's own `stand_in` confirmed pointing to this word). Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 健康.
+
+### 2026-09-11, iteration 4380 — [[words/健康|健康]]
+Fixed an unspaced cantonese romanization in prose and removed a stray nonsensical clause ("健康保険 not applicable here"); added a missing blank line after the meta-bind-embed block; added "No homophones" closer. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed correct (per-constituent divergence explanation already present and accurate). Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偪陽.
+
+### 2026-09-11, iteration 4381 — [[words/偪陽|偪陽]]
+Filled a missing `vietnamese` field with honest compositional "Phúc Dương" (capitalized proper noun; no attested form found); filled a missing `date-last-perfect` entirely; fixed a stray unformatted parenthetical line into proper prose. Replaced casual stand-in prose with the standard legitimizing-note phrasing (偪's own `stand_in` confirmed pointing to this word). Both character-page citations already present, `kwin: true` confirmed exact match, no homophone collision.
+
+Next: 側面.
+
+### 2026-09-11, iteration 4382 — [[words/側面|側面]]
+Removed duplicate `品詞` key; flattened single-item `japanese`/`vietnamese` lists to scalars. Replaced casual stand-in prose with the standard legitimizing-note phrasing (側's own `stand_in` confirmed pointing to this word). Verified the word's own 直面-resembling 諺文/羅馬字 (직면/jigmyen) is a genuine coincidental Dan'a'yo-internal concatenation (側's own assigned reading 직 diverges from Sino-Korean 측), not a copy-paste error from the unrelated word 直面 — clarified in prose. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偵.
+
+### 2026-09-11, iteration 4383 — [[words/偵|偵]]
+Filled a missing `japanese` field (てい, already documented in prose but absent from frontmatter). Added a missing self-referential legitimizing note. Confirmed character-only 注音 match (貞) has no independent word page. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偶像.
+
+### 2026-09-11, iteration 4384 — [[words/偶像|偶像]]
+Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; filled a missing `date-last-perfect` entirely; wrote a `## Notes` section from scratch (page had none). Added a missing legitimizing note for 偶, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision.
+
+Next: 偶数.
+
+### 2026-09-11, iteration 4385 — [[words/偶数|偶数]]
+Fixed inline-flow `characters:`/`aliases:` lists; removed dangling blank `hsk_level:`/`swadesh:`; merged `## Etymology` into `## Notes`. `characters:` confirmed correct via `ls`, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偶然.
+
+### 2026-09-11, iteration 4386 — [[words/偶然|偶然]]
+Filled a blank `pos:` (性詞, matching sibling 突然). Fixed inline-flow `characters:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`/empty `aliases: []`, merged `## Etymology` into `## Notes`, fixed a typo ("doppleganger" → "doppelganger"). Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偶爾.
+
+### 2026-09-11, iteration 4387 — [[words/偶爾|偶爾]]
+Fixed inline-flow `characters:` list, quoted bare `hsk_level`, removed dangling blank `swadesh:`/empty `aliases: []`, merged `## Etymology` into `## Notes`. `characters:` confirmed correct via `ls` (爾 (char) disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偽.
+
+### 2026-09-11, iteration 4388 — [[words/偽|偽]]
+Filled a missing `japanese` field (ぎ, primary on'yomi matching 偽(char)'s own GI). Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (萎, 位, 倭, 危) have no independent word pages. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 偽善.
+
+### 2026-09-11, iteration 4389 — [[words/偽善|偽善]]
+Removed dangling blank `hsk_level:`/`swadesh:`; merged `## Etymology` into `## Notes`. `characters:` confirmed correct via `ls` (both 偽/善 disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傀儡.
+
+### 2026-09-11, iteration 4390 — [[words/傀儡|傀儡]]
+Fixed a typo'd mandarin field ("kuǐlěil" → "kuǐlěi"); trimmed a comma-joined `korean` field that crammed the Sino-Korean reading together with two unrelated native synonyms (꼭두각시, 허수아비) into one string — kept 괴뢰 alone, moved the native synonyms to prose. Filled a missing `kwin` field entirely (false: own 諺文 쾨뢰 diverges from own korean 괴뢰) and a missing `date-last-perfect` entirely. Removed dangling blank fields, merged `## Etymology` into `## Notes`. Re-verified `#cranberry` tag transitivity (both 傀 and 儡's own `stand_in` point here, A=B=AB confirmed). Both character-page citations already present, no homophone collision.
+
+Next: 傍.
+
+### 2026-09-11, iteration 4391 — [[words/傍|傍]]
+Filled a missing `japanese` field (ぼう, primary on'yomi). **Found and fixed a raw-markdown-link-instead-of-wikilink self-citation** on 傍(char).md's own Words list. Added a missing self-referential legitimizing note. Confirmed character-only 注音 matches (彷, 榜, 謗, 膨) have no independent word pages. `kwin: false` confirmed. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傑作.
+
+### 2026-09-11, iteration 4392 — [[words/傑作|傑作]]
+Added full readings synthesis plus `kwin`/homophone verification sentence to Notes. `characters:` confirmed correct, both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傑出.
+
+### 2026-09-11, iteration 4393 — [[words/傑出|傑出]]
+Fixed unindented `characters:` list, inline-flow `aliases:` list, removed dangling blank `hsk_level:`/`swadesh:`, filled a missing `date-last-perfect` entirely, wrote a `## Notes` section from scratch. **Found and fixed a real `kwin` bug**: stored `true`, but byte-level verification shows own 諺文 걷춛 genuinely diverges from own korean 걸출 in both syllables — corrected to `false`. Added a missing legitimizing note for 傑, whose own `stand_in` points to this word. Both character-page citations already present, no homophone collision.
+
+Next: 催.
+
+### 2026-09-11, iteration 4394 — [[words/催|催]]
+Filled a missing `japanese` field (さい, already documented in prose but absent from frontmatter); fixed unindented `english:` list. **Found and fixed a raw-markdown-link-instead-of-wikilink self-citation** on 催(char).md's own Words list. Added a missing self-referential legitimizing note. Confirmed character-only 注音 match (崔) has no independent word page. `kwin: true` confirmed exact match. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傲慢.
+
+### 2026-09-11, iteration 4395 — [[words/傲慢|傲慢]]
+Fixed inline-flow `characters:` list; removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`; merged `## Etymology` into `## Notes`. Added a missing legitimizing note for 傲, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傷害.
+
+### 2026-09-11, iteration 4396 — [[words/傷害|傷害]]
+Filled a blank `pos:` (事詞); removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`. Added a missing legitimizing note for 傷, whose own `stand_in` points to this word. Both character-page citations already present, `kwin: false` confirmed, reciprocal homophone callout with [[上海]] already correctly present on both pages.
+
+Next: 傾向.
+
+### 2026-09-11, iteration 4397 — [[words/傾向|傾向]]
+Replaced casual stand-in prose with the standard legitimizing-note phrasing (傾's own `stand_in` confirmed pointing to this word); added `kwin`/homophone verification sentence. `characters:` confirmed correct via `ls` (向 (char) disambiguation necessary), both character-page citations already present, `kwin: false` confirmed, no homophone collision. Stamped `date-last-perfect: 2026-09-11`.
+
+Next: 傾斜.

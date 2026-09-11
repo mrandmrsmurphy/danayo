@@ -52,6 +52,7 @@ boundedness: 80
 - 1211th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄧㄜ](../syllables/ㄧㄜ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[依]]<rt>ㄧㄜ</rt></ruby> "rely on, accord with" (stand-in for 依)
 - <ruby>[[依存]]<rt>ㄧㄜㄐㄛㄋ</rt></ruby> "dependence, to depend on"
 - <ruby>[[依拠]]<rt>ㄧㄜㄍ⼄</rt></ruby> "depend, be the basis for"
 - <ruby>[[依然]]<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> "as ... as ever, still"

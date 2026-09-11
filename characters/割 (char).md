@@ -51,7 +51,7 @@ boundedness: 75
 ## Words
 - <ruby>[[割]]<rt>ㄍㄚㄊ</rt></ruby> "cut; divide; separate"
 - <ruby>[[割断]]<rt>ㄍㄚㄊㄉ⺢ㄋ</rt></ruby> "cut off; sever"
-- [[余割]] - cosecant
+- <ruby>[[余割]]<rt>⼄ㄍㄚㄊ</rt></ruby> "cosecant"
 - [[正割]] - secant
 - [[割包皮]] - circumcision
 - [[割引]] - discount

@@ -49,7 +49,7 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[信条](../words/信条.md)<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
+- <ruby>[[信条]]<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
 - <ruby>[[条件]]<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby> "condition, prerequisite"
 - <ruby>[[条約]]<rt>ㄐㄛ⼘ㄎ</rt></ruby> "pact, treaty"
 - <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛㄎㄧ</rt></ruby> "stars and stripes"

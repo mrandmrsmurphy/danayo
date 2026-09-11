@@ -52,6 +52,6 @@ date-last-perfect: 2026-08-07
 偏 was added to the Korean HS list in 2000.
 
 ## Words
-- <ruby>[偏](words/偏.md)<rt>ㄆ⼶ㄋ</rt></ruby> "slanted, biased" (stand-in for 偏)
+- <ruby>[[偏]]<rt>ㄆ⼶ㄋ</rt></ruby> "slanted, biased" (stand-in for 偏)
 - <ruby>[[偏差]]<rt>ㄆ⼶ㄋㄑㄚ</rt></ruby> "deviation (standard)"
 - <ruby>[[偏重]]<rt>ㄆ⼶ㄋㄑㄛㄫ</rt></ruby> "to overemphasize; bias"

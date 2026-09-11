@@ -8,7 +8,8 @@ japanese:
   - BIN
 japanese_native: たよ
 vietnamese:
-  - tiện, biền
+  - tiện
+  - biền
 middle_chinese_initial: b
 middle_chinese_final: iᴇn
 stroke_count: 9
@@ -58,6 +59,8 @@ boundedness: 80
 - <ruby>[[大便]]<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby> "shit; feces"
 - <ruby>[[以便]]<rt>ㄧㄅ⼶ㄋ</rt></ruby> "in order that"
 - <ruby>[[郵便]]<rt>ㄨㄛㄅ⼶ㄋ</rt></ruby> "mail; post"
+- <ruby>[[便乗]]<rt>ㄅ⼶ㄋㄙㄨㄫ</rt></ruby> "to hitchhike, to phoresy, to deadhead"
+- <ruby>[[便箋]]<rt>ㄅ⼶ㄋㄐㄝㄋ</rt></ruby> "memo, notepaper, stationery"
 
 ## Derived Characters
 - <ruby>[[鞭]]<rt>ㄅ⼶ㄋ</rt></ruby> "whip"

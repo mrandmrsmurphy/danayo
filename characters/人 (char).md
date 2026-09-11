@@ -79,7 +79,7 @@ boundedness: 75
 8. [[盲人]]
 9. <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
 10. [[軍人]]
-11. [[佳人]]
+11. <ruby>[[佳人]]<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby> "beautiful woman"
 12. [[芸人]]
 13. <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
 14. [[奄人]]

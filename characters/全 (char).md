@@ -9,7 +9,8 @@ japanese:
 japanese_native: すべ
   - まった-く,すべ-て
 vietnamese:
-  - toàn, tuyền
+  - toàn
+  - tuyền
 middle_chinese_initial: d͡z
 middle_chinese_final: iuᴇn
 stroke_count: 6

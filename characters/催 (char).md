@@ -55,4 +55,4 @@ date-last-perfect: 2026-08-07
 - [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[催](words/催.md)<rt>ㄑㄛㄧ</rt></ruby> "press, urge" (stand-in for 催)
+- <ruby>[[催]]<rt>ㄑㄛㄧ</rt></ruby> "press, urge" (stand-in for 催)

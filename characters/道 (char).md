@@ -61,7 +61,7 @@ boundedness: 70
 - <ruby>[[街道]]<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby> "street"
 - <ruby>[[坑道]]<rt>ㄎㄚㄫㄉㄚㄨ</rt></ruby> "tunnel"
 - <ruby>[[遂道]]<rt>ㄙㄨㄧㄉㄚㄨ</rt></ruby> "tunnel"
-- <ruby>[[修道]]<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby> "spiritual disciple"
+- <ruby>[[修道]]<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby> "spiritual discipline"
 - <ruby>[[修道院]]<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby> "monastery; abbey; convent"
 - <ruby>[[道教]]<rt>ㄉㄚㄨㄍ⼄ㄨ</rt></ruby> "Daoism"
 - <ruby>[[神道]]<rt>ㄙㄧㄋㄉㄚㄨ</rt></ruby> "natural law"
