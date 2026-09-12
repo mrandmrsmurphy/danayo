@@ -882,3 +882,23 @@ Next: 過去.
 Never-perfected word. **Found and fixed a missing tone number on `cantonese`** ("gwo heoi3" → "gwo3 heoi3"). **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: a garbled multi-value string "과거, 지난날" mashed the compositional reading with an unrelated native word, trimmed to just 과거. Removed dangling blank `swadesh:`/`aliases:`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 過激.
+
+### 2026-09-11, word 176/246 — [[words/過激|過激]]
+Never-perfected word. Fixed `characters:`/`aliases:` formatting, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 過量.
+
+### 2026-09-11, word 177/246 — [[words/過量|過量]]
+Never-perfected word. **Found and fixed a korean reading bug**: 과령 used the wrong second syllable — 量's own korean is 량, not 령 — corrected to 과량, matching the word's own stored 諺文/羅馬字 exactly (which also flipped `kwin` from false to genuinely true). Filled entirely-blank `cantonese`/`japanese`/`vietnamese` with honest compositional readings, folded a stray floating gloss line into `english`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, no homophone collision.
+
+Next: 道徳経.
+
+### 2026-09-11, word 178/246 — [[words/道徳経|道徳経]]
+Never-perfected word (proper noun — Tao Te Ching). Confirmed mandarin/cantonese/japanese/korean/vietnamese correctly follow the proper-noun/named-referent convention (each language's own real title), and confirmed all four aliases (道德經/道德经/道徳経/道徳經) are legitimate trad/simplified/orthographic variants. Filled missing `date-last-perfect`. All three character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. **Flagged, not fixed**: the linked [[道徳経 (book)]] page doesn't exist yet, same dangling-link class as 紘's own [[八紘一宇]] reference.
+
+Next: 道教.
+
+### 2026-09-11, word 179/246 — [[words/道教|道教]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 道理.
