@@ -65,7 +65,7 @@ boundedness: 100
 - <ruby>[[陰核]]<rt>ㄧㄇㄏㄚㄎ</rt></ruby> "clitoris"
 - <ruby>[[陰茎]]<rt>ㄧㄇㄎㄧㄫ</rt></ruby> "penis"
 - <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
-- <ruby>[[太陰曆]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
+- <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陰年]]<rt>ㄊㄚㄧ·ㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[陰暦年]]<rt>ㄧㄇㄌㄝㄎㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"

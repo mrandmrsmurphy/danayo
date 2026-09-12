@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[太太]]<rt>ㄊㄚㄧㄊㄚㄧ</rt></ruby> "really great; super-duper"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
 - <ruby>[[太陰年]]<rt>ㄊㄚㄧ·ㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
-- <ruby>[[太陰曆]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
+- <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陽風]]<rt>ㄊㄚㄧ·⼘ㄫㄈㄨㄫ</rt></ruby> "solar wind"
 - <ruby>[[猶太]]<rt>⼜ㄛㄊㄚㄧ</rt></ruby> "Jewish"
 - <ruby>[[太易]]<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby> "Great Change"

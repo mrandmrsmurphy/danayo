@@ -59,7 +59,7 @@ boundedness: 40
 - <ruby>[[杉木]]<rt>ㄙㄚㄇ·ㄇㄛㄎ</rt></ruby> "Chinese fir"
 - <ruby>[[梓木]]<rt>ㄐㄜㄇㄛㄎ</rt></ruby> "catalpa wood"
 - <ruby>[[柊木]]<rt>ㄐㄨㄫㄇㄛㄎ</rt></ruby> "holly osmanthus; holly osmanthus tree"
-- <ruby>[[檜木]]<rt>ㄍ⺢ㄧㄇㄛㄎ</rt></ruby> "hinoki cypress; Japanese cypress"
+- <ruby>[[桧木]]<rt>ㄍ⺢ㄧㄇㄛㄎ</rt></ruby> "hinoki cypress; Japanese cypress"
 - <ruby>[[啄木鳥]]<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby> "woodpecker"
 - <ruby>[[木曜日]]<rt>ㄇㄛㄎ·⼄ㄨㄋㄧㄊ</rt></ruby> "Thursday"
 - <ruby>[[朴木]]<rt>ㄆㄚㄎㄇㄛㄎ</rt></ruby> "hackberry"
