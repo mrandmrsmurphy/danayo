@@ -8,6 +8,7 @@ japanese:
   - O
 japanese_native: わる
 vietnamese:
+  - ác
 middle_chinese_initial: ʔ
 middle_chinese_final: ɑk
 stroke_count: 11

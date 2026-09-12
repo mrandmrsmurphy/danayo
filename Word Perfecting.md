@@ -1122,3 +1122,23 @@ Next: 配置.
 Never-perfected word. Filled a blank `vietnamese` with honest compositional "phối trí," fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 酒精.
+
+### 2026-09-12, word 224/246 — [[words/酒精|酒精]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: 알코올 (katakana-style English loanword transliteration) replaced with honest compositional 주정. **Found and fixed malformed/real-equivalent `japanese`/`vietnamese`**: japanese mashed compositional しゅせい with the loanword アルコール (trimmed); vietnamese mashed native "rượu"/"rượu cồn" (corrected to compositional "tửu tinh"). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found a genuine homophone with [[調整]]**, previously only a stray unformatted tip on each page — standardized to proper `>[!warning] Homophones` callouts on both, added the missing legitimizing note for 酒 (whose own `stand_in` points here). Both character-page citations already correctly present, `kwin: false` confirmed.
+
+Next: 酒糟.
+
+### 2026-09-12, word 225/246 — [[words/酒糟|酒糟]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `japanese`**: さけかす (the native, everyday word for "sake lees") replaced with the honest compositional on-reading しゅそう. Filled a blank `vietnamese` with honest compositional "tửu tao," fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 糟.md's own Words list. Citation on 酒.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 醇酒.
+
+### 2026-09-12, word 226/246 — [[words/醇酒|醇酒]]
+Never-perfected word. Filled blank `japanese`/`vietnamese` with honest compositional readings, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed an entirely missing `## Words` section** on 醇.md. Citation on 酒.md already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 醇, whose own `stand_in` points to this exact word.
+
+Next: 醜悪.
+
+### 2026-09-12, word 227/246 — [[words/醜悪|醜悪]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 悪 → "悪 (char)," since [[悪]] has its own word page). **Found and fixed a genuinely blank `vietnamese` field on 悪(char).md itself** (filled with the standard attested "ác"), enabling the honest compositional "xú ác" for this word. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 醜, whose own `stand_in` points to this exact word.
+
+Next: 醤油.
