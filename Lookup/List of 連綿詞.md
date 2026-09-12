@@ -47,7 +47,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 - <ruby>[[words/琵琶|琵琶]]<rt>ㄅㄧㄅㄚ</rt></ruby> "pipa" = <ruby>[[characters/琵|琵]]<rt>ㄅㄧ</rt></ruby> + <ruby>[[characters/琶|琶]]<rt>ㄅㄚ</rt></ruby>
 - <ruby>[[words/痕跡|痕跡]]<rt>ㄏㄜㄋㄐㄝㄎ</rt></ruby> "vestige" = <ruby>[[characters/痕|痕]]<rt>ㄏㄜㄋ</rt></ruby> + <ruby>[[characters/跡|跡]]<rt>ㄐㄝㄎ</rt></ruby>
 - <ruby>[[words/祈祷|祈祷]]<rt>ㄍㄧㄜㄉㄚㄨ</rt></ruby> "pray" = <ruby>[[characters/祈|祈]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/祷|祷]]<rt>ㄉㄚㄨ</rt></ruby>
-- <ruby>[[words/膃肭|膃肭]]<rt>⺢ㄆㄋㄨㄊ</rt></ruby> "fur seal" = <ruby>[[characters/腽|腽]]<rt>⺢ㄆ</rt></ruby> (膃 is 腽's alias) + <ruby>[[characters/肭|肭]]<rt>ㄋㄨㄊ</rt></ruby>
+- <ruby>[[words/腽肭|腽肭]]<rt>⺢ㄆㄋㄨㄊ</rt></ruby> "fur seal" = <ruby>[[characters/腽|腽]]<rt>⺢ㄆ</rt></ruby> (膃 is 腽's alias) + <ruby>[[characters/肭|肭]]<rt>ㄋㄨㄊ</rt></ruby>
 - <ruby>[[words/船舶|船舶]]<rt>ㄙ⼔ㄇㄅㄚㄎ</rt></ruby> "boat; ship" = <ruby>[[characters/船|船]]<rt>ㄙ⼔ㄇ</rt></ruby> + <ruby>[[characters/舶|舶]]<rt>ㄅㄚㄎ</rt></ruby>
 - <ruby>[[words/芦葦|芦葦]]<rt>ㄌㄛㄏㄨㄧ</rt></ruby> "reed; rush" = <ruby>[[characters/芦|芦]]<rt>ㄌㄛ</rt></ruby> + <ruby>[[characters/葦|葦]]<rt>ㄏㄨㄧ</rt></ruby>
 - <ruby>[[words/茉莉|茉莉]]<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby> "white jasmine" = <ruby>[[characters/茉|茉]]<rt>ㄇㄚㄊ</rt></ruby> + <ruby>[[characters/莉|莉]]<rt>ㄌㄝㄧ</rt></ruby>
