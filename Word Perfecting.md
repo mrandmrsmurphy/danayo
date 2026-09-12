@@ -1057,3 +1057,23 @@ Next: 郭.
 Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `kwin`/`date-last-perfect`. Added a missing legitimizing note for 郭 (char), whose own `stand_in` points to this exact word (itself). `kwin: true` confirmed. Noted 注音 ㄍ⺢ㄎ is shared with 霍 but it has no dedicated word page, so no genuine homophone.
 
 Next: 郭清.
+
+### 2026-09-11, word 211/246 — [[words/郭清|郭清]]
+Never-perfected word. Filled a missing `vietnamese` with honest compositional "quách thanh," filled missing `date-last-perfect`, extended the already-rich existing Notes. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 郵便.
+
+### 2026-09-11, word 212/246 — [[words/郵便|郵便]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `mandarin`/`cantonese`**: yóujiàn/jau4 gin6-2 actually belong to the unrelated compound 郵件, corrected to honest compositional yóubiàn/jau4 bin6. **Found and removed a bad-aliases-entry**: `郵件` is that same genuinely different compound, not a spelling variant — kept only the legitimate simplified variant 邮便. Filled a blank `vietnamese` with honest compositional "bưu tiện," fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 郵, whose own `stand_in` points to this exact word.
+
+Next: 郵便局.
+
+### 2026-09-12, word 213/246 — [[words/郵便局|郵便局]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug across `cantonese`/`korean`/`vietnamese`**: all three had been filled from unrelated real-world postal compounds (郵政局/郵遞局/郵電所-房, using 政/遞/電 rather than 便) instead of honest compositional readings — corrected to jau4 bin6 guk6/우편국/bưu tiện cục. **Found and removed four bad-aliases-entries** (郵遞局, 郵局, 所郵電, 房郵電 — none a genuine spelling variant), kept only the legitimate simplified variant 邮便局. **Found and fixed a missing citation** on 便(char).md's own Words list. Citations on 郵.md and 局(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 郵帖.
+
+### 2026-09-12, word 214/246 — [[words/郵帖|郵帖]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug across `mandarin`/`cantonese`/`japanese`/`korean`**: each held a different real-world word for "postcard" (明信片/明信片/葉書/葉書) rather than the honest compositional 郵+帖 reading — corrected to yóutiě/jau4 tip3/ゆうじょう/우첩. Vietnamese "bưu thiếp" was already correctly compositional; a stray note on the page had explicitly flagged this exact discrepancy without resolving it — now resolved. **Found and removed two bad-aliases-entries** (明信片, 葉書 — genuinely different compounds). **Found and fixed a missing citation** on 帖(char).md's own Words list. Citation on 郵.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 郵政.

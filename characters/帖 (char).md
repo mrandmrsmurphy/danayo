@@ -51,3 +51,4 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[帖]]<rt>ㄊㄛㄆ</rt></ruby> "invitation; card" (stand-in for 帖)
+- <ruby>[[郵帖]]<rt>ㄨㄛㄊㄛㄆ</rt></ruby> "postcard"
