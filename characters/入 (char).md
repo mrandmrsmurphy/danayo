@@ -53,6 +53,7 @@ boundedness: 70
 - <ruby>[[入籍]]<rt>ㄋㄧㄆㄐㄝㄎ</rt></ruby> "enter"
 - <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
 - <ruby>[[入場]]<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby> "enter a venue"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
 - <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
 - <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
