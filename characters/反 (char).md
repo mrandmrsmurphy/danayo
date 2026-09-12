@@ -46,7 +46,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*panʔ, \*pʰan): semantic [[Radical 029|又]] ("hand") + phonetic [[Radical 027|厂]] (OC \*hŋaːnʔ, \*hŋaːns).
+- 会意 (OC \*panʔ, \*pʰan): [[Radical 029|又]] ("hand") + [[Radical 027|厂]] ("a cliff, an overhang") — a hand reaching up against a cliff face, i.e. climbing, or turning something over on it; "to overturn, to invert" (Shuowen: 覆也, "从又，厂反形"). Duan Yucai's commentary instead reads 厂 as a phonetic ("厂聲"), which would make this 形声, but that is a minority revisionist view — mainstream paleography keeps the associative reading, and the vault follows it.
 - We follow Japanese and fold 叛 into this character — "anti-" and "rebel" are close enough, and although 叛's MC reading differed slightly from 反's, the merge is a deliberate choice (per user, 2026-07-19). Words conventionally written with 叛 keep its original sound: [[反乱]] is ㄅㄚㄋㄌㄚㄋ (from pàn), not 反's own ㄈㄛㄋ.
 - [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
 - 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](syllables/ㄈㄛㄋ.md)
