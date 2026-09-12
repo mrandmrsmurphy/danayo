@@ -747,3 +747,28 @@ Next: 連接.
 Never-perfected word. Fixed `characters:` disambiguation (bare 接 → "接 (char)," since [[接]] has its own word page). Filled blank `korean`/`vietnamese` (honest compositional 연접, directly-attested "liên tiếp"). **Found and fixed a missing citation** on 接(char).md's own Words list. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `kwin`/`date-last-perfect`. Citation on 連(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 連接詞.
+
+### 2026-09-11, word 149/246 — [[words/連接詞|連接詞]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `japanese`/`korean`**: せつぞくし/접속사 actually belong to the unrelated compound 接続詞/接續詞, corrected to honest compositional れんせつし/연접사. Fixed `vietnamese` from the unrelated phrase "sự liên kết" to honest compositional "liên tiếp từ" (noting the real grammatical term is actually "liên từ," from the different, shorter compound 連詞). **Found and removed three bad-aliases-entries**: 接續詞/接続詞 (genuinely different compound) and 連詞/连词 (a differently-composed synonym) — kept only the legitimate simplified variant 连接词. Filled missing `date-last-perfect`. **Found and fixed a missing citation** on 詞.md's own Words list. Citations on 連(char).md and 接(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連日.
+
+### 2026-09-11, word 150/246 — [[words/連日|連日]]
+Never-perfected word. **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`). Filled a missing `vietnamese` with honest compositional "liên nhật," filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連月.
+
+### 2026-09-11, word 151/246 — [[words/連月|連月]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "liên nguyệt," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連盟.
+
+### 2026-09-11, word 152/246 — [[words/連盟|連盟]]
+Never-perfected word. **Found and fixed a cantonese typo** (lyun4 mang4 → lin4 mang4, matching 連's own stored lin4). Filled a blank `vietnamese` with the directly-attested, extremely common "liên minh." Fixed `characters:` disambiguation (bare 連 → "連 (char)," since [[連]] has its own word page — caught and corrected a self-introduced slip on the first pass). Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 盟, whose own `stand_in` points to this exact word.
+
+Next: 連続.
+
+### 2026-09-11, word 153/246 — [[words/連続|連続]]
+Never-perfected word. Filled missing `date-last-perfect`, extended the existing Notes with the kwin/homophone verification sentence. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連週.
