@@ -33,7 +33,6 @@ mc_id: 136
 graphemic_classification: "丁"
 stand_in: "正"
 aliases:
-  - 疋
   - 𤴓
   - 㱏
   - 𣥔
@@ -52,7 +51,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC *tjeŋ, *tjeŋs): phonetic [[丁]] (OC *rteːŋ, *teːŋ) + semantic [[止]] ("foot") – to go on a long journey. Original form of 征 (OC *tjeŋ, "to go on long campaign"). Later, 丁 was simplified into a horizontal stroke, as in 旦. Folk etymologies do not recognize 丁.
+- 形声 (OC *tjeŋ, *tjeŋs): phonetic [[丁]] (OC *rteːŋ, *teːŋ) + semantic [[止]] ("foot") – to go on a long journey. Original form of 征 (OC *tjeŋ, "to go on long campaign"). Later, 丁 was simplified into a horizontal stroke, as in 旦. Folk etymologies do not recognize 丁. Unrelated in meaning and reading to [[疋]] ("bolt of cloth"), which is sometimes substituted for this character in certain historical/regional contexts as a graphic variant, not a phonetic derivation — not followed in Dan'a'yo, which keeps both as fully separate words.
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄐㄧㄫ](../syllables/ㄐㄧㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

@@ -30,8 +30,6 @@ danayo_id: 8267
 mc_id: 2783
 graphemic_classification: "矞"
 stand_in: "橘"
-aliases:
-  - 桔
 注音: "ㄍ⼜ㄊ"
 date-last-perfect: 2026-06-14
 kwin: true
@@ -47,7 +45,7 @@ boundedness: 75
 ```
 
 ## Notes
-- 形声 (OC \*kʷid): semantic [[Radical 075|木]] ("tree") + phonetic [[矞]] (OC \*ɢʷid) — a fruit tree, the tangerine.
+- 形声 (OC \*kʷid): semantic [[Radical 075|木]] ("tree") + phonetic [[矞]] (OC \*ɢʷid) — a fruit tree, the tangerine. [[桔]] was briefly used as the mainland Chinese second-round (1977) simplified form of this character, a relationship no longer officially recognized in real-world Chinese and not followed in Dan'a'yo, where 桔 keeps its own separate page and unrelated primary meaning ("well-sweep"; balloon flower in 桔梗).
 - [SKIP-1-4-12](lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
 - 2783rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄍ⼜ㄊ](syllables/ㄍ⼜ㄊ.md)
 - [Grade Name](lookup/Grade%20Name.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
