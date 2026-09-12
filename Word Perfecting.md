@@ -947,3 +947,23 @@ Next: 遥遠.
 Never-perfected word. Filled missing `date-last-perfect`, extended the existing Notes (already correctly noting the compositional Vietnamese and the 遥 legitimizing relationship) with readings/kwin/homophone verification. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 適宜.
+
+### 2026-09-11, word 189/246 — [[words/適宜|適宜]]
+Never-perfected word. Filled entirely-missing `korean`/`vietnamese` with compositional/directly-attested 적의/thích nghi, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing `#cranberry` tag**: both 適 and 宜's own `stand_in` fields point to this word (transitivity A=B=AB confirmed) — added the tag. Both character-page citations already correctly present (with their "(stand-in for X)" annotations), `kwin: false` confirmed, no homophone collision.
+
+Next: 遭遇.
+
+### 2026-09-11, word 190/246 — [[words/遭遇|遭遇]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 遭, whose own `stand_in` points to this exact word.
+
+Next: 遮蔽.
+
+### 2026-09-11, word 191/246 — [[words/遮蔽|遮蔽]]
+Never-perfected word. Filled blank `cantonese`/`vietnamese` with honest compositional "ze1 bai3"/"già tế," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 遮, whose own `stand_in` points to this exact word.
+
+Next: 遵守.
+
+### 2026-09-11, word 192/246 — [[words/遵守|遵守]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 遵, whose own `stand_in` points to this exact word; noted 守's own `stand_in` is 守衛 instead.
+
+Next: 遺.

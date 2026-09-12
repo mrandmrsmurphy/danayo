@@ -51,6 +51,7 @@ boundedness: 30
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[遺]]<rt>⼶ㄧ</rt></ruby> "lose, leave behind" (stand-in for 遺)
 - <ruby>[[遺憾]]<rt>⼶ㄧㄏㄚㄇ</rt></ruby> "regrettable; pitiable"
 - <ruby>[[遺産]]<rt>⼶ㄧㄙㄚㄋ</rt></ruby> "heritage; legacy"
 - <ruby>[[遺伝子]]<rt>⼶ㄧㄐ⼔ㄋㄐㄜ</rt></ruby> "gene"
