@@ -64,6 +64,7 @@ boundedness: 95
 - <ruby>[[分泌]]<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby> "secrete"
 - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄜ</rt></ruby> "molecule; numerator"
 - <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood
+- <ruby>[[部分]]<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby> "part, section, segment"
 [[Lookup/CC/initials/聲 奉]]
 [[Lookup/CC/finals/韻 文]]
 - [[分配]] "distribute,partition,share"

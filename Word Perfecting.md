@@ -1012,3 +1012,23 @@ Next: 邾国.
 Never-perfected word (proper noun — ancient State of Zou). Filled a missing `vietnamese` with honest compositional "chu quốc," filled missing `kwin`/`date-last-perfect`. **Found and fixed a missing "(stand-in for 邾)" annotation** on 邾.md's own citation. Citation on 国.md already correctly present, `kwin: false` confirmed, no homophone collision. Added a legitimizing note for 邾, whose own `stand_in` points to this exact word.
 
 Next: 部.
+
+### 2026-09-11, word 202/246 — [[words/部|部]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "bộ," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`. Added a missing legitimizing note for 部 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed, no homophone collision.
+
+Next: 部分.
+
+### 2026-09-11, word 203/246 — [[words/部分|部分]]
+Never-perfected word. Removed dangling blank `swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 分(char).md's own Words list — also noticed (but did not fix) that page's broader Words section is disorganized, with a bare 分配 citation and misplaced Ancient-CC-initials/finals links inserted mid-list. Citation on 部(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 部族.
+
+### 2026-09-11, word 204/246 — [[words/部族|部族]]
+Never-perfected word. Fixed `characters:` unindented list, filled a blank `vietnamese` with the directly-attested "bộ tộc," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 部署.
+
+### 2026-09-11, word 205/246 — [[words/部署|部署]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "bộ thự," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 署, whose own `stand_in` points to this exact word.
+
+Next: 部長.
