@@ -817,3 +817,23 @@ Next: 逸.
 Never-perfected word. Filled `vietnamese: null` with the character's own attested "dật," fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`date-last-perfect`, wrote `## Notes` from scratch. **Found and fixed a genuine `kwin` miscalculation on 逸(char).md itself**: byte-level comparison shows Dan'a'yo 읻 (U+C77B) and Sino-Korean 일 (U+C77C) are visually near-identical but genuinely different Hangul syllables — corrected `kwin: true` → `false` on both pages (same divergence-bug class as 읫/의 and 랃/랄). Also **fixed a corrupted `羅馬字` value** (`'''id'` → `'id`). Added a missing legitimizing note for 逸 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing three-way homophone callout with [[一]] and [[壱]] was already correctly reciprocal on all three pages.
 
 Next: 逸事.
+
+### 2026-09-11, word 163/246 — [[words/逸事|逸事]]
+Never-perfected word. Filled a blank `pos: 名詞`, filled blank `korean`/`vietnamese` with honest compositional 일사/dật sự, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 逸話.
+
+### 2026-09-11, word 164/246 — [[words/逸話|逸話]]
+Never-perfected word. Filled a blank `pos: 名詞`, filled a blank `vietnamese` with honest compositional "dật thoại," filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遂道.
+
+### 2026-09-11, word 165/246 — [[words/遂道|遂道]]
+Never-perfected word. Confirmed the 遂 (rather than 隧) spelling is this vault's own deliberate, documented merge choice (遂's own `aliases` explicitly registers 隧), not a typo — `隧道` is correctly kept as an alias. **Found and fixed a vietnamese reading bug**: "tụy" isn't among 遂's own stored readings, corrected to honest compositional "toại đạo." Filled a blank `pos: 名詞`, fixed `characters:`/`aliases:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遅到.
+
+### 2026-09-11, word 166/246 — [[words/遅到|遅到]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 遅 → "遅 (char)," since [[遅]] has its own word page). Filled blank `japanese`/`korean`/`vietnamese` with honest compositional readings (real everyday usage instead favors the different compound 遅刻/遲刻). **Found and removed two bad-aliases-entries**: 遅刻/遲刻 are that same genuinely different compound, not spelling variants — kept only the legitimate trad/simplified variants 遲到/迟到. Filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, no homophone collision.
+
+Next: 遊学.
