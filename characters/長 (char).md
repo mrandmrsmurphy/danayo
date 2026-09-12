@@ -60,6 +60,7 @@ boundedness: 75
 - 95th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md)
 
 ## Words
+- [長](words/長.md) "long" — 長 stands alone as a word in Dan'a'yo.
 - <ruby>[[伸長]]<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby> "extend, stretch"
 - <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby> "fang; tusk"
 - <ruby>[[長矛]]<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby> "spear; lance"
@@ -70,6 +71,7 @@ boundedness: 75
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 - <ruby>[[霊長類]]<rt>ㄌㄝㄫㄐㄚㄫㄌㄨㄧ</rt></ruby> "primate"
 - <ruby>[[首長]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby> "chief, leader, emir"
+- <ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby> "head, chief, secretary"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

@@ -1032,3 +1032,28 @@ Next: 部署.
 Never-perfected word. Filled a blank `vietnamese` with honest compositional "bộ thự," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 署, whose own `stand_in` points to this exact word.
 
 Next: 部長.
+
+### 2026-09-11, word 206/246 — [[words/部長|部長]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "bộ trưởng," fixed a malformed inline `aliases:` into a proper list, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed two missing citations** on 長(char).md's own Words list: the bare self-standing [[長]] entry (resolving a long-standing carried-forward item from the old sweep) and [[部長]] itself, both entirely absent. Citation on 部(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 部門.
+
+### 2026-09-11, word 207/246 — [[words/部門|部門]]
+Never-perfected word. Fixed `characters:`/`aliases:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 部隊.
+
+### 2026-09-11, word 208/246 — [[words/部隊|部隊]]
+Never-perfected word. Fixed `characters:`/`aliases:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 部首.
+
+### 2026-09-11, word 209/246 — [[words/部首|部首]]
+Never-perfected word. Fixed `characters:` formatting, filled a blank `vietnamese` with the directly-attested "bộ thủ," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 郭.
+
+### 2026-09-11, word 210/246 — [[words/郭|郭]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `kwin`/`date-last-perfect`. Added a missing legitimizing note for 郭 (char), whose own `stand_in` points to this exact word (itself). `kwin: true` confirmed. Noted 注音 ㄍ⺢ㄎ is shared with 霍 but it has no dedicated word page, so no genuine homophone.
+
+Next: 郭清.
