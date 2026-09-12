@@ -792,3 +792,28 @@ Next: 週刊.
 Never-perfected word. Fixed `characters:` disambiguation (bare 刊 → "刊 (char)," since [[刊]] has its own word page). Filled a blank `vietnamese` with honest compositional "chu khan," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 週期.
+
+### 2026-09-11, word 158/246 — [[words/週期|週期]]
+Never-perfected word. **Found and fixed a self-referential aliases-entry bug**: `週期` had been listed as its own alias (incoherent — removed), keeping `周期` (a genuinely common alternate written form using the homophonous 周 in place of 週; both characters share byte-identical reading fields). **Found and fixed `characters:` field**: was listing 周 instead of the word's own actual constituent 週 (matching the filename/title). **Found and fixed a missing citation** on 週.md's own Words list. Filled missing `date-last-perfect`, wrote a `## Notes` section explaining the 周/週 relationship. Citation on 期(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 進化.
+
+### 2026-09-11, word 159/246 — [[words/進化|進化]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision.
+
+Next: 進撃.
+
+### 2026-09-11, word 160/246 — [[words/進撃|進撃]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `vietnamese`**: "tấn công" (the everyday Vietnamese verb for "attack," unrelated to 撃's own reading) replaced with honest compositional "tấn kích." Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias line ("进击") into a proper `aliases:` field, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 進行.
+
+### 2026-09-11, word 161/246 — [[words/進行|進行]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "tiến hành," fixed `characters:`/`aliases:` formatting, folded a stray floating "Stand-in for [[進]]" comment into proper Notes prose, filled missing `date-last-perfect`. Both character-page citations already correctly present (with the existing "(stand-in for 進)" annotation confirmed accurate), `kwin: false` confirmed, no homophone collision.
+
+Next: 逸.
+
+### 2026-09-11, word 162/246 — [[words/逸|逸]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "dật," fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`date-last-perfect`, wrote `## Notes` from scratch. **Found and fixed a genuine `kwin` miscalculation on 逸(char).md itself**: byte-level comparison shows Dan'a'yo 읻 (U+C77B) and Sino-Korean 일 (U+C77C) are visually near-identical but genuinely different Hangul syllables — corrected `kwin: true` → `false` on both pages (same divergence-bug class as 읫/의 and 랃/랄). Also **fixed a corrupted `羅馬字` value** (`'''id'` → `'id`). Added a missing legitimizing note for 逸 (char), whose own `stand_in` points to this exact word (itself). Confirmed the existing three-way homophone callout with [[一]] and [[壱]] was already correctly reciprocal on all three pages.
+
+Next: 逸事.
