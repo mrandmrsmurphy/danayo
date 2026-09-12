@@ -1142,3 +1142,28 @@ Next: 醜悪.
 Never-perfected word. Fixed `characters:` disambiguation (bare 悪 → "悪 (char)," since [[悪]] has its own word page). **Found and fixed a genuinely blank `vietnamese` field on 悪(char).md itself** (filled with the standard attested "ác"), enabling the honest compositional "xú ác" for this word. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 醜, whose own `stand_in` points to this exact word.
 
 Next: 醤油.
+
+### 2026-09-12, word 228/246 — [[words/醤油|醤油]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`/`vietnamese`**: both held garbled multi-value strings mashing the honest compositional reading with real everyday words for "soy sauce" in each language (간장; xì dầu/nước tương) — trimmed/corrected to 장유/"tương du." **Found and removed three bad-aliases-entries**: 荳油/豉油/豆油 are all genuinely different compounds (different first characters), not spelling variants — kept only 醬油. Fixed `characters:` disambiguation, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, no homophone collision.
+
+Next: 釈放.
+
+### 2026-09-12, word 229/246 — [[words/釈放|釈放]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "thích phóng," removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 放, whose own `stand_in` points to this exact word.
+
+Next: 釉薬.
+
+### 2026-09-12, word 230/246 — [[words/釉薬|釉薬]]
+Never-perfected word. **Found and fixed a wrong-compound/incomplete reading bug across nearly every field**: mandarin/cantonese/vietnamese each held only 釉's own single-syllable reading, entirely omitting 薬's syllable; korean held a garbled multi-value string of unrelated native Korean words for "gloss/luster." Corrected all four to honest compositional pairings. Kept japanese うわぐすり (釉's own genuinely attested native compound reading) but **fixed a hidden zero-width space (U+200B) embedded inside it**. Fixed `characters:` formatting, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a legitimizing note for 釉, whose own `stand_in` points to this exact word.
+
+Next: 里芋.
+
+### 2026-09-12, word 231/246 — [[words/里芋|里芋]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `mandarin`/`cantonese`**: yùtou/wu6 tau4-2 belonged to the unrelated compound 芋頭, corrected to honest compositional lǐyù/lei5 wu6. Confirmed japanese さといも is genuinely compositional (a real jukujikun using both characters' native readings), not a bug. **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: 토란 was 芋's own native gloss (matching the different compound 土卵), corrected to honest compositional 리우 (also flipping `kwin` false→true, since this matches the word's own stored 諺文 exactly). Filled a blank `vietnamese` with honest compositional "lý dụ." **Found and removed three bad-aliases-entries** (芋頭, 芋头, 土卵 — all genuinely different compounds). **Found and fixed a missing citation** on 芋.md's own Words list. Citation on 里(char).md already correctly present, no homophone collision.
+
+Next: 重畳.
+
+### 2026-09-12, word 232/246 — [[words/重畳|重畳]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "chuộng điệp," fixed a duplicate `kwin` key introduced then caught during editing, filled missing `date-last-perfect`, extended the already-rich existing Notes. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 重素.
