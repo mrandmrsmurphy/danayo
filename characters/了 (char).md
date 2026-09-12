@@ -37,8 +37,6 @@ danayo_id: 4004
 mc_id: 3820
 graphemic_classification: "象形"
 stand_in: "了"
-aliases:
-  - 瞭
 注音: "ㄌ⼘ㄨ"
 date-last-perfect: 2026-09-05
 kwin: false
@@ -53,7 +51,7 @@ boundedness: 100
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): a baby without arms (compare [[子]], where the arms are visible); the Shuowen defines it as the crossing of the lower legs. The "to finish" sense is a sound loan, later grammaticalized into the aspect particle.
+- [List of 象形](../lookup/List%20of%20象形.md): a baby without arms (compare [[子]], where the arms are visible); the Shuowen defines it as the crossing of the lower legs. The "to finish" sense is a sound loan, later grammaticalized into the aspect particle. In modern PRC Simplified Chinese, this glyph also serves as the simplified form of [[瞭]] specifically in its liǎo ("understand, clear") reading (瞭解→了解) — that merger is not followed in Dan'a'yo, where 瞭 keeps its own separate page; 瞭's other reading, liào ("watchtower, gaze from height," as in 瞭望), was never affected by this simplification even in real-world usage.
 - [SKIP-4-2-1](../lookup/SKIP/SKIP-4/SKIP-4-2-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 3820th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄌ⼘ㄨ](../syllables/ㄌ⼘ㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
