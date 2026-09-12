@@ -58,7 +58,7 @@ boundedness:
 - <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified" (alias: 儼然)
 - <ruby>[[厳粛]]<rt>⼄ㄇㄙㄨㄎ</rt></ruby> "solemn; austere; grave"
 - <ruby>[[厳重]]<rt>⼄ㄇㄑㄛㄫ</rt></ruby> "serious, rigorous"
-- <ruby>[[嚴禁]]<rt>⼄ㄇㄍㄧㄇ</rt></ruby> "strictly forbidden; strictly prohibit"
+- <ruby>[[厳禁]]<rt>⼄ㄇㄍㄧㄇ</rt></ruby> "strictly forbidden; strictly prohibit"
 - <ruby>[[尊厳]]<rt>ㄐㄛㄋ⼄ㄇ</rt></ruby> "dignity; sanctity"
 
 ## Derived Characters

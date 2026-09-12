@@ -55,7 +55,7 @@ boundedness: 90
 - 506th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄏㄧ](../syllables/ㄏㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[喜悅]]<rt>ㄏㄧ·⼶ㄊ</rt></ruby> "joyous; happy"
+- <ruby>[[喜悦]]<rt>ㄏㄧ·⼶ㄊ</rt></ruby> "joyous; happy"
 - <ruby>[[歓喜]]<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby> "happy, pleased"
 - <ruby>[[欣喜]]<rt>ㄏㄧㄋㄏㄧ</rt></ruby> "happy, glad"
 - <ruby>[[恭喜]]<rt>ㄍ⼄ㄫㄏㄧ</rt></ruby> "congratulations"

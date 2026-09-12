@@ -69,7 +69,7 @@ boundedness: 100
 - <ruby>[[白亜紀]]<rt>ㄅㄚㄎㄚㄍㄧ</rt></ruby> "Cretaceous Period"
 - <ruby>[[白止]]<rt>ㄅㄚㄎㄐㄧ</rt></ruby> "Angelica dahurica"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨ·ㄨㄫ</rt></ruby> "white-haired old man; grey starling"
-- <ruby>[[白頭鷲]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
+- <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
 ## Chengyu
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "till death do us part"
 ## Derived Characters

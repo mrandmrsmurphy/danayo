@@ -58,6 +58,6 @@ boundedness:
 - <ruby>[[汚物]]<rt>ㄛㄇㄨㄊ</rt></ruby> "dirt, filth, garbage"
 - <ruby>[[汚穢]]<rt>ㄛ·ㄝ</rt></ruby> "filthy, filth"
 - <ruby>[[汚吏]]<rt>ㄛㄌㄧ</rt></ruby> "corrupt official"
-- <ruby>[[污垢]]<rt>ㄛㄍㄛㄨ</rt></ruby> "dirt, grime, filth" (alias: 汙垢)
+- <ruby>[[汚垢]]<rt>ㄛㄍㄛㄨ</rt></ruby> "dirt, grime, filth" (aliases: 污垢/汙垢)
 ## Chengyu
 - <ruby>[貪官汚吏](../chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> "corrupt official"
