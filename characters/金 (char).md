@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
 - <ruby>[[金星]]<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> "Venus"
 - <ruby>[[金庫]]<rt>ㄍㄧㄇㄎㄛ</rt></ruby> "treasury, safe"
+- <ruby>[[金銭]]<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby> "coin, cash, money"
 - <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"
 - <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"
 - <ruby>[[金色]]<rt>ㄍㄧㄇㄙㄧㄎ</rt></ruby> "gold"

@@ -1232,3 +1232,8 @@ Next: 金融.
 Never-perfected word. Fixed `characters:` disambiguation (bare 金/融 → "金 (char)"/"融 (char)," since both [[金]] and [[融]] have their own word pages). Filled a blank `vietnamese` with honest compositional "kim dung," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 金銭.
+
+### 2026-09-12, word 246/246 — [[words/金銭|金銭]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote `## Etymology`/`## Notes` sections. **Found and fixed a missing citation** on 金(char).md's own Words list. Citation on 銭.md already correctly present with its stand_in/legitimizing-note annotation. **Opportunistically filled** 銭(char).md's own blank `vietnamese` field with "tiền," the standard reading used compositionally here. `kwin: false` confirmed, no homophone collision.
+
+**This is the last word in the 246-word never-perfected backlog — the sweep is now complete.** Per the standing methodology-pivot note, a full alphabetical resweep (re-verifying already-stamped words) can be considered as a separate, later phase, but only as an explicit choice, not a default. No further word due until the user directs a new phase.
