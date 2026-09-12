@@ -837,3 +837,28 @@ Next: 遅到.
 Never-perfected word. Fixed `characters:` disambiguation (bare 遅 → "遅 (char)," since [[遅]] has its own word page). Filled blank `japanese`/`korean`/`vietnamese` with honest compositional readings (real everyday usage instead favors the different compound 遅刻/遲刻). **Found and removed two bad-aliases-entries**: 遅刻/遲刻 are that same genuinely different compound, not spelling variants — kept only the legitimate trad/simplified variants 遲到/迟到. Filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, no homophone collision.
 
 Next: 遊学.
+
+### 2026-09-11, word 167/246 — [[words/遊学|遊学]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, folded a stray floating alias-candidates line ("遊學, 游学, 游學") into a proper `aliases:` field — all three confirmed legitimate spelling variants (遊's own alias character 游, 学's own alias character 學). Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遊牧.
+
+### 2026-09-11, word 168/246 — [[words/遊牧|遊牧]]
+Never-perfected word. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 運数.
+
+### 2026-09-11, word 169/246 — [[words/運数|運数]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug on `japanese`**: うんせい actually belongs to the different word 運勢, corrected to honest compositional うんすう. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision.
+
+Next: 運行.
+
+### 2026-09-11, word 170/246 — [[words/運行|運行]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "vận hành," fixed `characters:` formatting, folded a stray floating alias line ("运行") into a proper `aliases:` field, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 運送.
+
+### 2026-09-11, word 171/246 — [[words/運送|運送]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "vận tống," fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 送(char).md's own Words list. Citation on 運.md already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 運, whose own `stand_in` points to this exact word.
+
+Next: 遍.

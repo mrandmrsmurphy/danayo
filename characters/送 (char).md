@@ -54,5 +54,6 @@ boundedness: 80
 - <ruby>[[送還]]<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby> "repatriate; send back"
 - <ruby>[[逓送]]<rt>ㄊㄝㄧㄙㄛㄫ</rt></ruby> "send; forward"
 - <ruby>[[送球]]<rt>ㄙㄛㄫㄍ⼜</rt></ruby> "handball"
+- <ruby>[[運送]]<rt>ㄨㄋㄙㄛㄫ</rt></ruby> "transport"
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
 - <ruby>[[搬送]]<rt>ㄅㄚㄋㄙㄛㄫ</rt></ruby> "to transport, convey"
