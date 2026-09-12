@@ -772,3 +772,23 @@ Next: 連続.
 Never-perfected word. Filled missing `date-last-perfect`, extended the existing Notes with the kwin/homophone verification sentence. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 連週.
+
+### 2026-09-11, word 154/246 — [[words/連週|連週]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "liên chu," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 連邦.
+
+### 2026-09-11, word 155/246 — [[words/連邦|連邦]]
+Never-perfected word. Filled a blank `cantonese` with honest compositional "lin4 bong1," folded a stray floating alias line ("聯邦") into a proper `aliases:` field (a legitimate spelling variant using 連's own alias character 聯, per the vault's explicit merge policy documented on 連(char).md), filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 邦, whose own `stand_in` points to this exact word.
+
+Next: 週中.
+
+### 2026-09-11, word 156/246 — [[words/週中|週中]]
+Never-perfected word. **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`). Filled entirely-missing `mandarin`/`cantonese`/`japanese`/`vietnamese` with honest compositional readings, filled missing `date-last-perfect`. **Found and fixed a missing citation** on 中(char).md's own Words list — also noticed but did not fix a pre-existing, unrelated duplicate 途中 citation on that same disorganized Words section (flagged for a future cleanup pass). Citation on 週.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 週刊.
+
+### 2026-09-11, word 157/246 — [[words/週刊|週刊]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 刊 → "刊 (char)," since [[刊]] has its own word page). Filled a blank `vietnamese` with honest compositional "chu khan," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 週期.
