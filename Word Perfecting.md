@@ -902,3 +902,48 @@ Next: 道教.
 Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 道理.
+
+### 2026-09-11, word 180/246 — [[words/道理|道理]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 達.
+
+### 2026-09-11, word 181/246 — [[words/達|達]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "thớt," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`, fixed a typo in `english` ("acheive" → "achieve"). **Found and fixed a missing "(stand-in for 達)" annotation** on 達(char).md's own citation. `kwin: false` confirmed, no homophone collision.
+
+Next: 違反.
+
+### 2026-09-11, word 182/246 — [[words/違反|違反]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "vi phản," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 違, whose own `stand_in` points to this exact word.
+
+Next: 違法.
+
+### 2026-09-11, word 183/246 — [[words/違法|違法]]
+Never-perfected word. Fixed `characters:` from an inline flow list to a proper block list, filled a blank `vietnamese` with honest compositional "vi pháp" (noting modern Vietnamese instead uses "vi phạm"), removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 違犯.
+
+### 2026-09-11, word 184/246 — [[words/違犯|違犯]]
+Never-perfected word. **Found and fixed a korean reading bug**: 위반 actually belongs to the sibling word 違反 (uses 反, not 犯) — corrected to honest compositional 위범, matching 犯's own stored korean 범. Confirmed japanese いはん is honestly compositional (犯's own HAN on-reading), a genuine coincidental homophone with 違反, not a bug. Fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遠.
+
+### 2026-09-11, word 185/246 — [[words/遠|遠]]
+Never-perfected word. Filled a missing `vietnamese` with the character's own attested "viễn," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`. Added a missing legitimizing note for 遠 (char), whose own `stand_in` points to this exact word (itself). **Found a genuine homophone with [[垣]]**, which already carried a one-sided callout referencing 遠 — added the missing reciprocal callout here, completing the pair. `kwin: false` confirmed.
+
+Next: 遠方.
+
+### 2026-09-11, word 186/246 — [[words/遠方|遠方]]
+Never-perfected word. Filled a blank `pos: 名詞`/`vietnamese` (honest compositional/attested "viễn phương"), fixed `characters:`/`aliases:` formatting, removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遣.
+
+### 2026-09-11, word 187/246 — [[words/遣|遣]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `kwin`/`date-last-perfect`. Added a missing legitimizing note for 遣 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄎㄝㄋ is shared with 牽 but it has no dedicated word page, so no genuine homophone.
+
+Next: 遥遠.
+
+### 2026-09-11, word 188/246 — [[words/遥遠|遥遠]]
+Never-perfected word. Filled missing `date-last-perfect`, extended the existing Notes (already correctly noting the compositional Vietnamese and the 遥 legitimizing relationship) with readings/kwin/homophone verification. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 適宜.

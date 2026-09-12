@@ -61,7 +61,7 @@ boundedness: 90
 - abbreviation for "darmstadtium": <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby>
 
 ## Words
-- <ruby>[[達]]<rt>ㄊㄚㄊ</rt></ruby> "attain, achieve"
+- <ruby>[[達]]<rt>ㄊㄚㄊ</rt></ruby> "attain, achieve" (stand-in for 達)
 - <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby> "darmstadtium"
 - <ruby>[[到達]]<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby> "arrive at, reach"
 - <ruby>[[暢達]]<rt>ㄑㄚㄫㄊㄚㄊ</rt></ruby> "smooth, free, unrestrained"
