@@ -30,7 +30,7 @@ hsk_level: "4"
 hanmun_edu_level: 名
 danayo_id: 6058
 mc_id: 4244
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 叉
 aliases:
   - 㣾

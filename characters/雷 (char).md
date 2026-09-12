@@ -26,7 +26,7 @@ hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5187
 mc_id: 989
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 雷
 aliases:
 注音: ㄌㄛㄧ

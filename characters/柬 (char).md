@@ -26,7 +26,7 @@ hsk_level: "4"
 hanmun_edu_level: ""
 danayo_id: 7403
 mc_id: 5112
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "柬"
 aliases:
 注音: "ㄍ⼘ㄋ"

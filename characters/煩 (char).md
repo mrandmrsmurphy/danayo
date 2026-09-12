@@ -29,7 +29,7 @@ hsk_level: "1"
 hanmun_edu_level: "高等"
 danayo_id: 4176
 mc_id: 1037
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "煩"
 aliases:
   - 烦

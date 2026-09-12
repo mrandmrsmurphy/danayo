@@ -28,7 +28,7 @@ hsk_level: "2"
 hanmun_edu_level: "無"
 danayo_id: 7031
 mc_id: 0
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "呆"
 aliases:
   - 獃

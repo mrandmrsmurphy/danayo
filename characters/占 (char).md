@@ -40,7 +40,7 @@ hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 4043
 mc_id: 1107
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 占
 aliases:
 注音: ㄐㄝㄇ

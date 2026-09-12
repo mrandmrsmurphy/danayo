@@ -26,7 +26,7 @@ hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2074
 mc_id: 1113
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "屋"
 注音: "ㄛㄎ"
 date-last-perfect: 2026-06-14

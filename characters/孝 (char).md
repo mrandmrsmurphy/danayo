@@ -26,7 +26,7 @@ hsk_level: "4"
 hanmun_edu_level: "中"
 danayo_id: 4074
 mc_id: 225
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "孝"
 aliases:
 注音: "ㄏ⼘ㄨ"

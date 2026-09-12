@@ -26,7 +26,7 @@ hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7102
 mc_id: 0
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "套"
 aliases:
   - 㚐

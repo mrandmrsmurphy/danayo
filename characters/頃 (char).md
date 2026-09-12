@@ -30,7 +30,7 @@ hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5067
 mc_id: 963
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 頃
 aliases:
   - 顷

@@ -28,7 +28,7 @@ hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4025
 mc_id: 729
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 克
 aliases:
   - 剋

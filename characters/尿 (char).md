@@ -25,7 +25,7 @@ hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6136
 mc_id: 5597
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "尿"
 aliases:
 注音: "ㄋ⼘ㄨ"

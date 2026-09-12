@@ -25,7 +25,7 @@ hsk_level: "4"
 hanmun_edu_level: 高等
 danayo_id: 6468
 mc_id: 1684
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 肩
 aliases:
 注音: ㄍㄝㄋ

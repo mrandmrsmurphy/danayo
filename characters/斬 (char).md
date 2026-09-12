@@ -28,7 +28,7 @@ hsk_level: ""
 hanmun_edu_level: "名"
 danayo_id: 6129
 mc_id: 617
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "斬"
 aliases:
   - 斩

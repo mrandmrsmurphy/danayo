@@ -25,7 +25,7 @@ hsk_level: "3"
 hanmun_edu_level: "中"
 danayo_id: 2276
 mc_id: 865
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "鳴"
 aliases:
   - 鸣

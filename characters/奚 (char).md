@@ -25,7 +25,7 @@ hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 7118
 mc_id: 954
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "奚"
 aliases:
 注音: "ㄏㄝㄧ"

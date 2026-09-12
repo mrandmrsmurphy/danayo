@@ -27,7 +27,7 @@ hsk_level: "1"
 hanmun_edu_level: "名"
 danayo_id: 6268
 mc_id: 1418
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "穿"
 aliases:
 注音: "ㄑㄝㄋ"

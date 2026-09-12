@@ -23,7 +23,7 @@ hsk_level: ""
 hanmun_edu_level: 高等
 danayo_id: 5111
 mc_id: 1087
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 渉
 aliases:
   - 涉

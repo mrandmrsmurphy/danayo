@@ -26,7 +26,7 @@ hsk_level: "4"
 hanmun_edu_level: 中
 danayo_id: 4057
 mc_id: 132
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 善
 aliases:
   - 譱

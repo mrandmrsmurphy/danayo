@@ -29,7 +29,7 @@ hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 2177
 mc_id: 444
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "直"
 aliases:
 注音: "ㄐㄧㄊ"

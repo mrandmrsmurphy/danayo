@@ -24,7 +24,7 @@ hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 5115
 mc_id: 258
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "兮"
 aliases:
 注音: "ㄏㄝㄧ"

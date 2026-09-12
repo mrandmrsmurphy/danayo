@@ -28,7 +28,7 @@ hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 5240
 mc_id: 1049
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "肯"
 aliases:
 注音: "ㄎㄨㄫ"

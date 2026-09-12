@@ -30,7 +30,7 @@ hsk_level: "1"
 hanmun_edu_level: "中"
 danayo_id: 224
 mc_id: 57
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "道"
 注音: "ㄉㄚㄨ"
 date-last-perfect: 2026-06-14

@@ -25,7 +25,7 @@ hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 7466
 mc_id: 3839
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "禿"
 aliases:
   - 秃

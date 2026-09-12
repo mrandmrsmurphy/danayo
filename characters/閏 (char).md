@@ -28,7 +28,7 @@ hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 7147
 mc_id: 1628
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 閏
 aliases:
   - 闰

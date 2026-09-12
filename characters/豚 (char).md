@@ -24,7 +24,7 @@ hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 6162
 mc_id: 2201
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 豚
 aliases:
 注音: ㄊㄨㄋ

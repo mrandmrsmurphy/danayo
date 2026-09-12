@@ -26,7 +26,7 @@ hsk_level: "4"
 hanmun_edu_level: "名"
 danayo_id: 6145
 mc_id: 1449
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "枚"
 aliases:
 注音: "ㄇㄛㄧ"

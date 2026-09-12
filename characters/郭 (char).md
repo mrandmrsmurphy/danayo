@@ -25,7 +25,7 @@ hsk_level: "6"
 hanmun_edu_level: "高等"
 danayo_id: 6167
 mc_id: 821
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "郭"
 aliases:
   - 廓

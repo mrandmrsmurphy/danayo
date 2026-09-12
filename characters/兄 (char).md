@@ -26,7 +26,7 @@ hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2020
 mc_id: 461
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 兄
 aliases:
 注音: ㄏ⼄ㄫ

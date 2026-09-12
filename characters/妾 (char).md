@@ -26,7 +26,7 @@ hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 7045
 mc_id: 913
-graphemic_classification: "會意"
+graphemic_classification: "会意"
 stand_in: "妾"
 注音: "ㄑㄛㄆ"
 date-last-perfect: 2026-06-14

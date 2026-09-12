@@ -32,7 +32,7 @@ hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4045
 mc_id: 2183
-graphemic_classification: 會意
+graphemic_classification: 会意
 stand_in: 双
 aliases:
   - 雙
