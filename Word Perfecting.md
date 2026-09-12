@@ -1167,3 +1167,23 @@ Next: 重畳.
 Never-perfected word. Filled a blank `vietnamese` with honest compositional "chuộng điệp," fixed a duplicate `kwin` key introduced then caught during editing, filled missing `date-last-perfect`, extended the already-rich existing Notes. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 重素.
+
+### 2026-09-12, word 233/246 — [[words/重素|重素]]
+Never-perfected word (chemistry neologism — barium). **Found and fixed a duplicate `pos`/`品詞` key bug**. Confirmed reading fields correctly follow the periodic-table proper-noun convention (like 青素/造金). Filled missing `date-last-perfect`. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 重要.
+
+### 2026-09-12, word 234/246 — [[words/重要|重要]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 重 → "重 (char)," since [[重]] has its own word page). **Found and fixed a malformed `japanese` field**: a garbled comma-string paired standard じゅうよう with the archaic historical-kana variant ぢゅうえう — trimmed to just じゅうよう. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 要, whose own `stand_in` points to this exact word.
+
+Next: 野猪.
+
+### 2026-09-12, word 235/246 — [[words/野猪|野猪]]
+Never-perfected word. **Found and fixed a real-equivalent-instead-of-own-reading bug across `japanese`/`korean`/`vietnamese`**: イノシシ/멧돼지/"Lợn rừng" are each that language's own native everyday word for "wild boar" (멧돼지 is literally 猪's own stored `korean_native` gloss) — corrected to honest compositional やちょ/야저/dã trư. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 猪, whose own `stand_in` points to this exact word.
+
+Next: 野菜.
+
+### 2026-09-12, word 236/246 — [[words/野菜|野菜]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "dã thái," fixed `characters:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found a genuine homophone with [[夜叉]]**, previously uncalled-out on either page — added reciprocal callouts to both. Both character-page citations already correctly present, `kwin: true` confirmed. Added a missing legitimizing note for 菜, whose own `stand_in` points to this exact word.
+
+Next: 量化詞.
