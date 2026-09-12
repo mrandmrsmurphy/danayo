@@ -861,4 +861,24 @@ Next: 運送.
 ### 2026-09-11, word 171/246 — [[words/運送|運送]]
 Never-perfected word. Filled a blank `vietnamese` with the directly-attested "vận tống," fixed `characters:` from an inline flow list to a proper block list, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 送(char).md's own Words list. Citation on 運.md already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 運, whose own `stand_in` points to this exact word.
 
+**Correction**: 運転 was accidentally skipped in list order (jumped straight to 運送) — it remains in the backlog and is due next, ahead of 遍.
+
+### 2026-09-11, word 172/246 — [[words/運転|運転]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 転 → "転 (char)," since [[転]] has its own word page). Filled a blank `vietnamese` with the directly-attested "vận chuyển," folded a stray floating alias line ("運轉") into a proper `aliases:` field, filled missing `date-last-perfect`. **Found and fixed a bare, un-ruby-formatted citation** on 転.md's own Words list. Citation on 運.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
 Next: 遍.
+
+### 2026-09-11, word 173/246 — [[words/遍|遍]]
+Never-perfected word. Filled a blank `vietnamese` with the character's own attested "biến," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 遍 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed. Noted 注音 ㄅㄝㄋ is shared with 辺/蝙 but neither has its own word page, so no genuine homophone.
+
+Next: 過.
+
+### 2026-09-11, word 174/246 — [[words/過|過]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "goá," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Citation and "(stand-in for 過)" annotation already correctly present on the character page (fixed on an earlier turn this session, during 通過). Confirmed the existing homophone callout with [[鍋]] was already correctly reciprocal (no fix needed). `kwin: true` confirmed.
+
+Next: 過去.
+
+### 2026-09-11, word 175/246 — [[words/過去|過去]]
+Never-perfected word. **Found and fixed a missing tone number on `cantonese`** ("gwo heoi3" → "gwo3 heoi3"). **Found and fixed a real-equivalent-instead-of-own-reading bug on `korean`**: a garbled multi-value string "과거, 지난날" mashed the compositional reading with an unrelated native word, trimmed to just 과거. Removed dangling blank `swadesh:`/`aliases:`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 過激.
