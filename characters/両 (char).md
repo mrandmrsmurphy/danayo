@@ -59,7 +59,7 @@ boundedness: 90
 ## Words
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby> "both"
 - <ruby>[[両親]]<rt>ㄌ⼘ㄫㄑㄧㄋ</rt></ruby> "parents"
-- <ruby>[[伎倆]]<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby> "skill, ability; underhanded trick, ploy"
+- <ruby>[[伎両]]<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby> "skill, ability; underhanded trick, ploy"
 - <ruby>[[罔両]]<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "demons and monsters, esp. of water"
 
 ## Chengyu

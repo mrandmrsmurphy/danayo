@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
 - <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
-- <ruby>[字喃](/words/字喃.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
+- <ruby>[字南](/words/字南.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
 - <ruby>[字母](/words/字母.md)<rt>ㄐㄧㄇㄛㄨ</rt></ruby> - grapheme
 - <ruby>[字源](/words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> - etymology
 - <ruby>[数字](/words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby> - numeral
