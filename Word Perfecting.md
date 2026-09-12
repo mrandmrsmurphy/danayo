@@ -967,3 +967,48 @@ Next: 遵守.
 Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a missing legitimizing note for 遵, whose own `stand_in` points to this exact word; noted 守's own `stand_in` is 守衛 instead.
 
 Next: 遺.
+
+### 2026-09-11, word 193/246 — [[words/遺|遺]]
+Never-perfected word. Filled a blank `vietnamese` with the character's own attested "di," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`date-last-perfect`. **Found and fixed an entirely missing self-standing citation** on 遺(char).md's own Words list (the compound citations were present, but not the bare stand-in entry). Added a missing legitimizing note for 遺 (char), whose own `stand_in` points to this exact word (itself). **Found a genuine homophone with [[唯]]**, which already carried a one-sided callout referencing 遺 — added the missing reciprocal callout here. `kwin: false` confirmed.
+
+**Correction**: 選択 was accidentally skipped in list order (jumped straight to 遺) — it remains in the backlog and is due next, ahead of 遺伝子.
+
+### 2026-09-11, word 194/246 — [[words/選択|選択]]
+Never-perfected word. Filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a bare, un-ruby-formatted citation missing its "(stand-in for 択)" annotation** on 択.md's own Words list. Citation on 選.md already correctly present, `kwin: false` confirmed, no homophone collision. Confirmed the existing `#cranberry` tag is accurate (both 選 and 択 stand_in to this compound).
+
+Next: 遺伝子.
+
+### 2026-09-11, word 195/246 — [[words/遺伝子|遺伝子]]
+Never-perfected word. **Found and fixed an archaic-kana typo on `japanese`**: ゐでんし used the obsolete kana ゐ (wi), corrected to いでんし matching modern standard orthography. Confirmed vietnamese "gen" is the genuine real-world Vietnamese loanword, not a bug. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a bare citation** on 子.md's own Words list (broader section remains flagged). Citations on 遺(char).md and 伝.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遺憾.
+
+### 2026-09-11, word 196/246 — [[words/遺憾|遺憾]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`. Existing Notes already correctly documented the legitimizing relationship and vietnamese attestation via hvdic. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 遺産.
+
+### 2026-09-11, word 197/246 — [[words/遺産|遺産]]
+Never-perfected word. Filled missing `date-last-perfect`. Existing Notes already thorough and correct. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 避.
+
+### 2026-09-11, word 198/246 — [[words/避|避]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "tị," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 避 (char), whose own `stand_in` points to this exact word (itself). **Found a genuine homophone with [[卑]]**, which already carried a one-sided callout referencing 避 — added the missing reciprocal callout here. `kwin: false` confirmed.
+
+Next: 那.
+
+### 2026-09-11, word 199/246 — [[words/那|那]]
+Never-perfected word. Fixed `characters:` from a bare unlisted scalar to a proper YAML list, filled missing `pos`/`date-last-perfect`, extended the existing Notes. Citation and legitimizing note already correctly reflected by the character's self-referential `stand_in`; added the closing legitimizing sentence explicitly. `kwin: true` confirmed. Noted 注音 ㄋㄚ is shared with 梛/拿 but neither has its own word page, so no genuine homophone.
+
+Next: 邦畿.
+
+### 2026-09-11, word 200/246 — [[words/邦畿|邦畿]]
+Never-perfected word. Filled blank `cantonese`/`vietnamese` with honest compositional readings, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 畿.md's own Words list. Citation on 邦.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 邾国.
+
+### 2026-09-11, word 201/246 — [[words/邾国|邾国]]
+Never-perfected word (proper noun — ancient State of Zou). Filled a missing `vietnamese` with honest compositional "chu quốc," filled missing `kwin`/`date-last-perfect`. **Found and fixed a missing "(stand-in for 邾)" annotation** on 邾.md's own citation. Citation on 国.md already correctly present, `kwin: false` confirmed, no homophone collision. Added a legitimizing note for 邾, whose own `stand_in` points to this exact word.
+
+Next: 部.
