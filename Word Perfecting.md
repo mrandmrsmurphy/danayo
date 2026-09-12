@@ -1187,3 +1187,28 @@ Next: 野菜.
 Never-perfected word. Filled a blank `vietnamese` with the directly-attested "dã thái," fixed `characters:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found a genuine homophone with [[夜叉]]**, previously uncalled-out on either page — added reciprocal callouts to both. Both character-page citations already correctly present, `kwin: true` confirmed. Added a missing legitimizing note for 菜, whose own `stand_in` points to this exact word.
 
 Next: 量化詞.
+
+### 2026-09-12, word 237/246 — [[words/量化詞|量化詞]]
+Never-perfected word. **Found and fixed a wrong-dialect bug on `korean`**: 양화사 applied the South Korean 두음법칙 shift; corrected to the North Korean/문화어 form 량화사, matching the word's own stored 諺文 exactly (also flipping `kwin` false→true). Filled a blank `vietnamese` with honest compositional "lượng hoá từ," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. All three character-page citations already correctly present, no homophone collision.
+
+Next: 量詞.
+
+### 2026-09-12, word 238/246 — [[words/量詞|量詞]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `cantonese`**: loeng6 ci4 had the wrong tone (量's own is loeng4), corrected to loeng4 ci4. **Found and fixed a wrong-compound reading bug on `japanese`/`korean`**: じょすうし (containing a hidden zero-width space) and 수분류사 belonged to the differently-composed compounds 助数詞/數分類詞 — corrected to honest compositional りょうし/량사 (also flipping `kwin` false→true, since 량사 matches the word's own stored 諺文 exactly). **Found and removed four bad-aliases-entries**: `量詞` (nonsensical self-referential alias — the word's own title), `助数詞`, `數分類詞`, `量数詞` — kept only the legitimate simplified variant 量词. Both character-page citations already correctly present, no homophone collision.
+
+Next: 金城.
+
+### 2026-09-12, word 239/246 — [[words/金城|金城]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 金 → "金 (char)," since [[金]] has its own word page). Filled a blank `vietnamese` with honest compositional "kim thành," filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 金(char).md's own Words list. Citation on 城.md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金属.
+
+### 2026-09-12, word 240/246 — [[words/金属|金属]]
+Never-perfected word. Removed dangling blank `hsk_level:`/`swadesh:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金山.
+
+### 2026-09-12, word 241/246 — [[words/金山|金山]]
+Never-perfected word. Fixed `japanese` from a malformed comma-string into a proper two-item list (both きんざん and かなやま are genuinely attested readings, not a bug). Filled blank `korean`/`vietnamese` with honest compositional 금산/kim sơn, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 山(char).md's own Words list (only the longer compound 旧金山 was present). Citation on 金(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金庫.

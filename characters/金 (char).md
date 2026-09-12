@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[金柑]]<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby> "kumquat"
 - <ruby>[[造金]]<rt>ㄐㄛㄍㄧㄇ</rt></ruby> "technetium"
 - <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"
+- <ruby>[[金城]]<rt>ㄍㄧㄇㄙㄧㄫ</rt></ruby> "impenetrable city; Jincheng"
 - <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
 - <ruby>[[金庫]]<rt>ㄍㄧㄇㄎㄛ</rt></ruby> "treasury, safe"
 - <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"

@@ -63,6 +63,7 @@ boundedness: 75
 - <ruby>[[山芋]]<rt>ㄙㄚㄋㄨ</rt></ruby> "mountain yam"
 - <ruby>[[火山]]<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby> "volcano"
 - <ruby>[[火山島]]<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby> "volcanic island"
+- <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"
 - <ruby>[[旧金山]]<rt>ㄍ⼜ㄛㄍㄧㄇㄙㄚㄋ</rt></ruby> "San Francisco"
 - <ruby>[[南山]]<rt>ㄋㄚㄇㄙㄚㄋ</rt></ruby> "South Mountain"
 - <ruby>[[巫山]]<rt>ㄇㄨㄙㄚㄋ</rt></ruby> "Wushan"
