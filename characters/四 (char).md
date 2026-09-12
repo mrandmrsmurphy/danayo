@@ -66,3 +66,5 @@ boundedness: 75
 - <ruby>[[四川]]<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby> "Sichuan"
 - [[四面]] "four cardinal directions, all sides, all around"
 - <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
+- <ruby>[[四書]]<rt>ㄙㄧㄜㄙ⼄</rt></ruby> "Four Books"
+- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"

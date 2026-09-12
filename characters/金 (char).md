@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[隠金]]<rt>ㄜㄋㄍㄧㄇ</rt></ruby> "lanthanum" (periodic table neologism)
 - <ruby>[[難金]]<rt>ㄋㄚㄋㄍㄧㄇ</rt></ruby> "dysprosium" (periodic table neologism)
 - <ruby>[[雷金]]<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby> "thorium" (periodic table neologism)
+- <ruby>[[門捷金]]<rt>ㄇㄛㄋㄐㄝㄆㄍㄧㄇ</rt></ruby> "mendelevium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
 - <ruby>[[丹金]]<rt>ㄉㄚㄋㄍㄧㄇ</rt></ruby> "hafnium" (periodic table neologism)

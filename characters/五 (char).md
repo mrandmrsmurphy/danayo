@@ -57,6 +57,7 @@ boundedness: 75
 * <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
 * <ruby>[[五馭]]<rt>ㄛ⼄</rt></ruby> "the Five Charioteering Techniques"
 * <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "the Five Classics"
+* <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
 * <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
 * <ruby>[[五行]]<rt>ㄛㄏㄚㄫ</rt></ruby> "Wu Xing"
 * <ruby>[[五臓]]<rt>ㄛㄐㄚㄫ</rt></ruby> "the Five Internal Organs"
