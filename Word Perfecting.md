@@ -1102,3 +1102,23 @@ Next: 酉月.
 Never-perfected word (proper noun — zodiac month). **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`). Filled missing `date-last-perfect`, extended the existing Notes. Confirmed korean 유월 is genuinely compositional (no 두음법칙 dialect issue, unlike 輪郭's earlier bug). Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a legitimizing note for 酉, whose own `stand_in` points to this exact word.
 
 Next: 配.
+
+### 2026-09-12, word 220/246 — [[words/配|配]]
+Never-perfected word. Filled `vietnamese: null` with the character's own attested "phối," fixed `characters:` from a bare unlisted scalar to a proper YAML list, fixed a stray "# Notes" (wrong heading level) into "## Notes" and wrote its content from scratch. Filled missing `pos`/`kwin`/`date-last-perfect`. Added a missing legitimizing note for 配 (char), whose own `stand_in` points to this exact word (itself). `kwin: false` confirmed, no homophone collision.
+
+Next: 配偶.
+
+### 2026-09-12, word 221/246 — [[words/配偶|配偶]]
+Never-perfected word. **Found and fixed a wrong-compound reading bug on `japanese`/`korean`**: はいぐうしゃ/배우자 actually belong to the longer, different compound 配偶者 (adds 者) — corrected to honest compositional はいぐう/배우. **Found and removed a bad-aliases-entry**: `配偶者` is that same different compound. Filled a blank `vietnamese` with honest compositional "phối ngẫu." **Found and fixed a malformed `vietnamese` field on 偶.md itself** (comma-separated string mashed into one list item, split into a proper list). Fixed `characters:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 配列.
+
+### 2026-09-12, word 222/246 — [[words/配列|配列]]
+Never-perfected word. Filled blank `korean`/`vietnamese` with honest compositional 배렬/phối liệt (correctly following the North Korean/문화어 no-두음법칙 convention). Fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `kwin`/`date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, no homophone collision. Added a missing legitimizing note for 列, whose own `stand_in` points to this exact word.
+
+Next: 配置.
+
+### 2026-09-12, word 223/246 — [[words/配置|配置]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "phối trí," fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 酒精.
