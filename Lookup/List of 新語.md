@@ -10,10 +10,14 @@ tags: [lookup]
 4. <ruby>[実詞](/words/実詞.md)<rt>ㄙㄧㄊㄙㄚ</rt></ruby> - content word
 5. <ruby>[性詞](/words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby> - stative word
 
-## Lexical
+### Correlative Table
+1. 其人
+
+## Ancient
 1. <ruby>[射術](/words/射術.md)<rt>ㄊ⼘ㄙㄨㄊ</rt></ruby> - classical Asian archery
 2. <ruby>[御術](/words/御術.md)<rt>⼄ㄙㄨㄊ</rt></ruby> - classical Asian charioteering
-### Periodic Table
+
+## Periodic Table
 1. <ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄫㄙㄛ</rt></ruby> - hydrogen
 2. <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> - helium
 3. <ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby> - lithium

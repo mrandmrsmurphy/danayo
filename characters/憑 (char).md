@@ -32,7 +32,7 @@ stand_in: 憑
 aliases:
   - 凭
 注音: ㄅㄧㄫ
-date-last-perfect:
+date-last-perfect: 2026-09-12
 kwin: true
 tags:
   - character
@@ -45,10 +45,10 @@ tags:
 ```
 
 ## Notes
-- 形声 (OC \*bɯŋ): semantic [心](Radical%20061) ("heart/mind") + phonetic [[馮]] — to lean on; to rely upon.
+- 形声 (OC \*bɯŋ): semantic [[Radical 061|心]] ("heart/mind") + phonetic [[馮]] — to lean on; to rely upon.
 - [SKIP-2-12-4](../lookup/SKIP/SKIP-2/SKIP-2-12-4.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 2986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄅㄧㄫ](../syllables/ㄅㄧㄫ.md)
-- [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), , [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md), [Advanced](../lookup/Grade%20Advanced.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
-- <ruby>[[憑]]<rt>ㄅㄧㄫ</rt></ruby> "to rely on; evidence"
+- <ruby>[[憑]]<rt>ㄅㄧㄫ</rt></ruby> "to rely on; evidence" (stand-in for 憑)

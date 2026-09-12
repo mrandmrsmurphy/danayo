@@ -72,6 +72,8 @@ boundedness: 90
 - <ruby>[[難金]]<rt>ㄋㄚㄋㄍㄧㄇ</rt></ruby> "dysprosium" (periodic table neologism)
 - <ruby>[[雷金]]<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby> "thorium" (periodic table neologism)
 - <ruby>[[門捷金]]<rt>ㄇㄛㄋㄐㄝㄆㄍㄧㄇ</rt></ruby> "mendelevium" (periodic table neologism)
+- <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium" (periodic table neologism)
+- <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby> "nobelium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
 - <ruby>[[丹金]]<rt>ㄉㄚㄋㄍㄧㄇ</rt></ruby> "hafnium" (periodic table neologism)
