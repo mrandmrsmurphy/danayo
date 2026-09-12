@@ -65,7 +65,7 @@ date-last-perfect: 2026-08-01
 - <ruby>[[法則]]<rt>ㄈㄚㄆㄐㄜㄎ</rt></ruby> "law, rule, code"
 - <ruby>[[法螺]]<rt>ㄈㄚㄆㄌㄚ</rt></ruby> "boast"
 - <ruby>[[法素]]<rt>ㄈㄚㄆㄙㄛ</rt></ruby> "abbreviation for francium"
-- <ruby>[[乘法]]<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby> "multiplication"
+- <ruby>[[乗法]]<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby> "multiplication"
 - <ruby>[[兵法]]<rt>ㄅ⼶ㄫㄆㄚㄆ</rt></ruby> "art of war, tactics"
 - <ruby>[[加法]]<rt>ㄍㄚㄈㄚㄆ</rt></ruby> "addition"
 - <ruby>[[句法]]<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"

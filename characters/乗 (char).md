@@ -61,8 +61,7 @@ boundedness:
 - <ruby>[[乗降]]<rt>ㄙㄨㄫㄍㄚㄫ</rt></ruby> "embarkation and disembarkation"
 - <ruby>[[乗車]]<rt>ㄙㄨㄫㄑ⺢</rt></ruby> "to board (a train, car, etc.)"
 - <ruby>[[乗船]]<rt>ㄙㄨㄫㄙ⼔ㄇ</rt></ruby> "to board (a ship, boat, etc.)"
-- <ruby>[[搭乗]]<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby> "board; boarding"
-- <ruby>[[搭乘]]<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby> "to board (a plane, zeppelin, etc.)"
+- <ruby>[[搭乗]]<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby> "board; boarding" (alias: 搭乘)
 - <ruby>[[乗馬]]<rt>ㄙㄨㄫㄇㄚ</rt></ruby> "to ride a horse"
 - <ruby>[[騎乗]]<rt>ㄍㄨㄧㄙㄨㄫ</rt></ruby> "to ride (a horse, motorcycle, bicycle, etc.)"
 - <ruby>[[便乗]]<rt>ㄅ⼶ㄋㄙㄨㄫ</rt></ruby> "to hitchhike, to phoresy, to deadhead"
@@ -71,7 +70,7 @@ boundedness:
 - <ruby>[[乗数]]<rt>ㄙㄨㄫㄙㄨ</rt></ruby> "multiplier (b in a×b)"
 - <ruby>[[自乗]]<rt>ㄐㄧㄜㄙㄨㄫ</rt></ruby> "to square"
 - <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby> "to multiply"
-- <ruby>[[乘法]]<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby> "multiplication"
+- <ruby>[[乗法]]<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby> "multiplication"
 - <ruby>[[階乗]]<rt>ㄍ⼶ㄧㄙㄨㄫ</rt></ruby> "factorial"
 
 ## Derived Characters
