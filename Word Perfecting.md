@@ -1077,3 +1077,28 @@ Next: 郵帖.
 Never-perfected word. **Found and fixed a wrong-compound reading bug across `mandarin`/`cantonese`/`japanese`/`korean`**: each held a different real-world word for "postcard" (明信片/明信片/葉書/葉書) rather than the honest compositional 郵+帖 reading — corrected to yóutiě/jau4 tip3/ゆうじょう/우첩. Vietnamese "bưu thiếp" was already correctly compositional; a stray note on the page had explicitly flagged this exact discrepancy without resolving it — now resolved. **Found and removed two bad-aliases-entries** (明信片, 葉書 — genuinely different compounds). **Found and fixed a missing citation** on 帖(char).md's own Words list. Citation on 郵.md already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 郵政.
+
+### 2026-09-12, word 215/246 — [[words/郵政|郵政]]
+Never-perfected word. **Found and fixed an archaic-kana typo on `japanese`**: いうせい used a historical spelling of 郵's YUU on-reading, corrected to modern standard ゆうせい. Fixed `characters:`/`aliases:` formatting, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 郵票.
+
+### 2026-09-12, word 216/246 — [[words/郵票|郵票]]
+Never-perfected word. **Found and fixed a wrong-compound formatting/reading bug on `japanese`**: 郵便切手 was written in kanji (not kana) and is the real, unrelated Japanese word for "postage stamp" (using 便切手, not 票) — corrected to honest compositional kana ゆうひょう. Filled a blank `vietnamese` with honest compositional "bưu phiếu," fixed `characters:` formatting, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 都市.
+
+### 2026-09-12, word 217/246 — [[words/都市|都市]]
+Never-perfected word. Filled a blank `vietnamese` with the directly-attested "đô thị," filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a genuinely missing "đô" candidate on 都(char).md's own `vietnamese` field** (the standard reading used compositionally here and in 首都/"thủ đô," previously absent). Both character-page citations already correctly present, `kwin: true` confirmed, no homophone collision. Added a missing legitimizing note for 市, whose own `stand_in` points to this exact word.
+
+Next: 鄭重.
+
+### 2026-09-12, word 218/246 — [[words/鄭重|鄭重]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 重 → "重 (char)," since [[重]] has its own word page). Filled a blank `vietnamese` with honest compositional "trịnh chuộng." **Found and removed a bad-aliases-entry**: `丁重` uses an entirely different first character and Mandarin reading, converging with 鄭重 only as a Japanese-specific coincidental orthographic variant (both ていちょう) — not a genuine cross-language spelling variant. Filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 酉月.
+
+### 2026-09-12, word 219/246 — [[words/酉月|酉月]]
+Never-perfected word (proper noun — zodiac month). **Found and fixed a duplicate `pos`/`品詞` key bug** (removed the redundant `品詞`). Filled missing `date-last-perfect`, extended the existing Notes. Confirmed korean 유월 is genuinely compositional (no 두음법칙 dialect issue, unlike 輪郭's earlier bug). Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision. Added a legitimizing note for 酉, whose own `stand_in` points to this exact word.
+
+Next: 配.
