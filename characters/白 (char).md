@@ -62,7 +62,7 @@ boundedness: 100
 - <ruby>[[空白]]<rt>ㄎㄛㄫㄅㄚㄎ</rt></ruby> "blank; empty"
 - <ruby>[[明白]]<rt>ㄇ⼶ㄫㄅㄚㄎ</rt></ruby> "clear; obvious; evident"
 - <ruby>[[白狐]]<rt>ㄅㄚㄎㄏㄛ</rt></ruby> "arctic fox"
-- <ruby>[[白鷺]]<rt>ㄅㄚㄎㄌㄛ</rt></ruby> "egret"
+- <ruby>[[白路]]<rt>ㄅㄚㄎㄌㄛ</rt></ruby> "egret"
 - <ruby>[[卵白]]<rt>ㄌㄚㄋㄅㄚㄎ</rt></ruby> "egg white; albumen"
 - <ruby>[[蛋白]]<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby> "egg white; protein"
 - <ruby>[[白亜]]<rt>ㄅㄚㄎㄚ</rt></ruby> "chalk"

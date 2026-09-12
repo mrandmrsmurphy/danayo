@@ -63,9 +63,9 @@ date-last-perfect: 2026-08-10
 - <ruby>[[沙]]<rt>ㄙㄚ</rt></ruby> "sand; gravel; pebbles" (stand-in for 沙)
 - <ruby>[[沙漠]]<rt>ㄙㄚㄇㄚㄎ</rt></ruby> "desert"
 - <ruby>[[黄沙]]<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby> "yellow sand; Asian dust"
-- <ruby>[[丹砂]]<rt>ㄉㄚㄋㄙㄚ</rt></ruby> "cinnabar"
+- <ruby>[[丹沙]]<rt>ㄉㄚㄋㄙㄚ</rt></ruby> "cinnabar"
 - <ruby>[[朱沙]]<rt>ㄐㄨㄙㄚ</rt></ruby> "cinnabar"
-- <ruby>[[硼砂]]<rt>ㄅㄛㄫㄙㄚ</rt></ruby> "borax"
+- <ruby>[[硼沙]]<rt>ㄅㄛㄫㄙㄚ</rt></ruby> "borax"
 - <ruby>[[珈沙]]<rt>ㄎㄚㄙㄚ</rt></ruby> "kāṣāya (Buddhist robes)"
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree; shala; sakhua"
 - <ruby>[[沙悟浄]]<rt>ㄙㄚ·ㄛㄐㄝㄫ</rt></ruby> "Sha Wujing"

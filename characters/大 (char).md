@@ -96,7 +96,7 @@ boundedness: 90
 - <ruby>[[大蛤]]<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby> "clam"
 - <ruby>[[大門]]<rt>ㄉㄚㄧㄇㄛㄋ</rt></ruby> "main gate; entrance"
 - <ruby>[[大麻]]<rt>ㄉㄚㄧㄇㄚ</rt></ruby> "hemp; cannabis"
-- <ruby>[[寬大]]<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby> "magnanimous; lenient"
+- <ruby>[[寛大]]<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby> "magnanimous; lenient"
 - <ruby>[[巨大]]<rt>ㄍ⼄ㄉㄚㄧ</rt></ruby> "gigantic; huge; enormous"
 - <ruby>[[拡大]]<rt>ㄏ⺢ㄎㄉㄚㄧ</rt></ruby> "expand; enlarge"
 - <ruby>[[正大]]<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby> "proper; upright"
