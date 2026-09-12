@@ -54,5 +54,5 @@ boundedness: 100
 
 ## Words
 - <ruby>[[着]]<rt>ㄐ⺢ㄎ</rt></ruby> "to wear" (stand-in for 着)
-- <ruby>[[顕著]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
+- <ruby>[[顕着]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
 - <ruby>[[寿着]]<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby> "hesitate, waver"

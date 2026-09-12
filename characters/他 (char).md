@@ -56,5 +56,5 @@ boundedness: 50
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> "another; other" (stand-in for 他)
-- <ruby>[[他鄉]]<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby> "foreign land"
+- <ruby>[[他郷]]<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby> "foreign land"
 - <ruby>[[他動詞]]<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
