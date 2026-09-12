@@ -1,7 +1,8 @@
 ---
-size: 56
-tags: [lookup]
-
+size: 50
+tags:
+  - lookup
+date-last-perfect: 2026-09-12
 ---
 # 指事 — Simple Indicatives
 ## Explained
@@ -94,88 +95,59 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 2. <ruby>[乂](/characters/乂.md)<rt>⼘ㄧ</rt></ruby> - govern, originally "to cut with scissors"
 3. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two
 4. <ruby>[八](/characters/八%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - eight, originally "divide"
-5. <ruby>[十 (char)](../characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
+5. <ruby>[十](/characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten, originally just a vertical mark
 ### 3
 6. <ruby>[三](/characters/三%20(char).md)<rt>ㄙㄚㄇ</rt></ruby> - three
 7. <ruby>[上](/characters/上%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - up
 8. <ruby>[下](/characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - down
-9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄫ</rt></ruby> die - "edge of a knife"
+9. <ruby>[亡](/characters/亡.md)<rt>ㄇㄚㄫ</rt></ruby> - the edge of a knife, original form of 芒; "flee, lose, die" by sound-loan
 10. <ruby>[小](/characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - three small dots = small
-11. <ruby>[寸 (char)](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> a line on the hand, emphasizing the elbow.
+11. <ruby>[寸](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> - a mark at the wrist pulse-point, one inch inward from the palm
+12. <ruby>[丸](/characters/丸.md)<rt>ㄏ⺢ㄋ</rt></ruby> - a tilted form of 仄 ("to tilt") — something round
+13. <ruby>[乞](/characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> - differentiated from 气 ("vapor"), borrowed for "to beg"
+14. <ruby>[刃](/characters/刃.md)<rt>ㄋㄧㄋ</rt></ruby> - a knife (刀) with a mark on the blade — "blade"
+15. <ruby>[勺](/characters/勺%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wine in a ladle — "spoon, ladle"
 ### 4
-11. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> center of a square
-12. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> reversal of "right"
-13. <ruby>[今](/characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> inverted "to speak"
-14. [[介]]
-15. [[六 (char)]]
-16. [[厄]]
-17. [[尹]]
-18. [[尺 (char)]] A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot.
-19. [[幻]]
-20. [[欠]]
+16. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> - a flagpole through the center of a field — "center, middle"
+17. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> - a reversal of 正 ("straight, right")
+18. <ruby>[今](/characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - a mark beneath 亼 ("gathering") marking the present moment
+19. <ruby>[六](/characters/六%20(char).md)<rt>ㄌㄨㄎ</rt></ruby> - an abstract symbol for the numeral "six"
+20. <ruby>[厄](/characters/厄.md)<rt>ㄜㄎ</rt></ruby> - a person kneeling beneath a cliff — hardship, misfortune
+21. <ruby>[尹](/characters/尹.md)<rt>⼜ㄋ</rt></ruby> - a hand holding a rod — to govern, an official
+22. <ruby>[尺](/characters/尺%20(char).md)<rt>ㄑㄝㄎ</rt></ruby> - a man with a mark on his leg, ten 寸 above the foot
+23. <ruby>[幻](/characters/幻.md)<rt>ㄏ⺢ㄋ</rt></ruby> - read by Shuowen as an inversion of 予; origin genuinely uncertain
+24. <ruby>[互](/characters/互.md)<rt>ㄏㄛ</rt></ruby> - 牙 with a distinguishing mark added
+25. <ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - 大 with an added mark — the utmost degree, extreme of a quality
+26. <ruby>[夭](/characters/夭.md)<rt>⼄ㄨ</rt></ruby> - a figure bending forward as if running — young, premature death
+27. <ruby>[曰](/characters/曰%20(char).md)<rt>⼔ㄊ</rt></ruby> - a mouth with breath or a word coming out — "to say"
 ### 5
-22. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - four, originally "breathing"
-23. 丘 (char)
-24. 占
-25. 古
-26. 台 (char)
-27. 央
-28. 本 (char)
-29. 末
-30. 央
-31. 弗
-32. 旦
-33. 石 (char)
-34. 㐱
+28. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - four, originally "breathing"
+29. <ruby>[丘](/characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - a raised mound between two peaks — a natural hill
+30. <ruby>[古](/characters/古.md)<rt>ㄍㄛ</rt></ruby> - a shield over a mouth — "ancient, old"
+31. <ruby>[央](/characters/央.md)<rt>⼘ㄫ</rt></ruby> - a person with the center (neck/waist) marked — "center"
+32. <ruby>[本](/characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> - a mark at the base of 木 ("tree") — root, origin
+33. <ruby>[末](/characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> - a mark across the top of 木 ("tree") — tip, end
+34. <ruby>[旦](/characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> - 日 above 一 — the sun rising above the horizon; daybreak
+35. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> - 氏 with a mark ("ground") affixed below — to reach bottom, base
+36. <ruby>[玄](/characters/玄%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - a twisted, dyed cord — deep black; extended to "profound, mysterious"
+37. <ruby>[甘](/characters/甘%20(char).md)<rt>ㄍㄚㄇ</rt></ruby> - something sweet held in an open mouth
 ### 6
-35. 両 (char)
-36. 亙 (char)
-37. 亦 (char)
-38. 光 (char)
-39. 共 (char)
-40. 曲
-41. 虫
-42. 行 (char)
+38. <ruby>[亙](/characters/亙%20(char).md)<rt>ㄍㄨㄫ</rt></ruby> - the crescent moon spanning between two lines — extending across
+39. <ruby>[亦](/characters/亦%20(char).md)<rt>ㄜㄎ</rt></ruby> - a human figure with emphasis marks on the armpits, original form of 腋
+40. <ruby>[曲](/characters/曲.md)<rt>ㄎ⼄ㄎ</rt></ruby> - a bent or curved object — crookedness
+41. <ruby>[行](/characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - a crossroads — to walk, to travel
+42. <ruby>[朱](/characters/朱.md)<rt>ㄐㄨ</rt></ruby> - a tree (木) with its trunk marked — cinnabar, vermilion
+43. <ruby>[朶](/characters/朶.md)<rt>ㄉㄚ</rt></ruby> - a stalk with something drooping — a hanging cluster, blossom
+44. <ruby>[牟](/characters/牟.md)<rt>ㄇㄨ</rt></ruby> - an ox (牛) with a mark representing its lowing
+45. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> - an arrow stuck into the ground — to arrive, utmost arrival
 ### 7
-43. 図
-44. 坐 (char)
-45. 夹
-46. 見 (char)
-47. 言 (char)
-
-### 8
-49. 典
-50. 学
-51. 斉
-52. 半
-53. 世
-54. 百
-55. [夫 (char)](characters/夫%20(char).md)
-56. 元
-57. 立
-58. 位
-59. 並
-60. 普
-61. 替
-62. 望
-63. 呈
-64. 程
-65. 聖
-66. 廷
-67. 庭
-68. 氏
-69. 底
-70. 低
-71. 邸
-72. 弟
-73. 第
-74. 姉
+46. <ruby>[束](/characters/束%20(char).md)<rt>ㄙ⼄ㄎ</rt></ruby> - a bag tied at both ends — to bind, a bundle
+47. <ruby>[言](/characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - 口 with a mark of debated origin — speech, to say
 ### 9
-75. [[昷]]
-76. [[品 (char)]]
-77. [[柬 (char)]]
-78. [[音]]
-79. [[具]]
+48. <ruby>[昷](/characters/昷.md)<rt>ㄛㄆ</rt></ruby> - a person bathing in warm water in a container — original form of 温/溫
+49. <ruby>[音](/characters/音.md)<rt>ㄨㄇ</rt></ruby> - 言 with an added mark for sound emitted from the mouth
+### 11
+50. <ruby>[寅](/characters/寅.md)<rt>ㄧㄋ</rt></ruby> - an arrow with a distinguishing mark; third of the twelve earthly branches
 
 ## Base check
 ```base
