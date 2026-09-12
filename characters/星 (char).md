@@ -62,6 +62,7 @@ boundedness: 80
 - <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova, novae"
 - <ruby>[[七星]]<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> "Big Dipper"
 - <ruby>[[水星]]<rt>ㄙㄨㄙㄝㄫ</rt></ruby> "Mercury (planet)"
+- <ruby>[[金星]]<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> "Venus"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus, evening star"
 - <ruby>[[行星]]<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby> "planet"

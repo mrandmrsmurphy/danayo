@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"
 - <ruby>[[金城]]<rt>ㄍㄧㄇㄙㄧㄫ</rt></ruby> "impenetrable city; Jincheng"
 - <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
+- <ruby>[[金星]]<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> "Venus"
 - <ruby>[[金庫]]<rt>ㄍㄧㄇㄎㄛ</rt></ruby> "treasury, safe"
 - <ruby>[[鍍金]]<rt>ㄉㄛㄍㄧㄇ</rt></ruby> "gilding; gold plating"
 - <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"

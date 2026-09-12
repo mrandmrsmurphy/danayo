@@ -1212,3 +1212,23 @@ Next: 金山.
 Never-perfected word. Fixed `japanese` from a malformed comma-string into a proper two-item list (both きんざん and かなやま are genuinely attested readings, not a bug). Filled blank `korean`/`vietnamese` with honest compositional 금산/kim sơn, removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. **Found and fixed a missing citation** on 山(char).md's own Words list (only the longer compound 旧金山 was present). Citation on 金(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
 
 Next: 金庫.
+
+### 2026-09-12, word 242/246 — [[words/金庫|金庫]]
+Never-perfected word. Filled a blank `vietnamese` with honest compositional "kim kho," removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金星.
+
+### 2026-09-12, word 243/246 — [[words/金星|金星]]
+Never-perfected word. Filled blank `korean`/`vietnamese` with the real attested standard names 금성/kim tinh (directly attested planetary names across all five languages, following the shared Wu Xing planetary-naming tradition — not a compositional coinage). Removed dangling blank `hsk_level:`/`swadesh:`/empty `aliases: []`, filled missing `kwin: false` and `date-last-perfect`, wrote a `## Notes` section noting the coexisting classical/poetic name [[太白星]] for the same planet. **Found and fixed missing citations on BOTH constituent character pages** (neither 金(char).md nor 星(char).md had a citation for 金星 at all). No homophone collision (注音 ㄍㄧㄇㄙㄝㄫ unique).
+
+Next: 金柑.
+
+### 2026-09-12, word 244/246 — [[words/金柑|金柑]]
+Never-perfected word. **Found and fixed wrong-compound-reading bugs on `mandarin`/`cantonese`/`korean`/`vietnamese`**: all four had been borrowed from the differently-charactered near-synonym 金橘/柑橘 (second character 橘 "tangerine," not 柑 "mandarin orange") instead of 金柑's own compositional reading — corrected to jīngān/gam1 gam1/금감/kim cam. **Found and removed a bad-aliases-entry**: 柑橘 (a different real word meaning "citrus" generically) mistakenly listed as a spelling variant; kept genuine variants 金桔/金橘. Fixed english typo "umquat"→"kumquat", filled missing `date-last-perfect`, wrote `## Notes`. **Found and fixed a missing citation** on 柑.md's own Words list. Citation on 金(char).md already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金融.
+
+### 2026-09-12, word 245/246 — [[words/金融|金融]]
+Never-perfected word. Fixed `characters:` disambiguation (bare 金/融 → "金 (char)"/"融 (char)," since both [[金]] and [[融]] have their own word pages). Filled a blank `vietnamese` with honest compositional "kim dung," removed dangling blank `hsk_level:`/`swadesh:`/`aliases:`, filled missing `date-last-perfect`, wrote a `## Notes` section. Both character-page citations already correctly present, `kwin: false` confirmed, no homophone collision.
+
+Next: 金銭.
