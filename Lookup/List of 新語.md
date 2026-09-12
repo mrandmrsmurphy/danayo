@@ -1,5 +1,7 @@
 ---
-tags: [lookup]
+tags:
+  - lookup
+date-last-perfect: 2026-09-12
 ---
 #neologism 
 
