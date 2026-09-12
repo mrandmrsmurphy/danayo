@@ -27,9 +27,6 @@ danayo_id: 6088
 mc_id: 9390
 graphemic_classification: 象形
 stand_in: 凹
-aliases:
-  - 窪
-  - 洼
 注音: ㄚㄨ
 kwin: false
 tags:
@@ -45,7 +42,7 @@ date-last-perfect: 2026-08-08
 ```
 
 ## Notes
-- 象形: a pictogram of a dented, sunken surface — "concave." Compare its opposite [[凸]] ("convex, protruding").
+- 象形: a pictogram of a dented, sunken surface — "concave." Compare its opposite [[凸]] ("convex, protruding"). Semantically close to but unrelated in reading and derivation to [[窪]] ("hollow, pit, depression") — kept as fully separate words; 洼 (previously miscited here) is actually 窪's own phonetic-variant component, not a variant of this character.
 - [SKIP-4-5-1](lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
 - 9390th most used character in Classical Chinese (long-tail, far beyond the vault's verifiable CC lookup range). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄚㄨ](syllables/ㄚㄨ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)

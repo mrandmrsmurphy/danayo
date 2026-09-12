@@ -30,8 +30,6 @@ danayo_id: 2238
 mc_id: 783
 graphemic_classification: "象形"
 stand_in: "谷"
-aliases:
-  - 穀
 注音: "ㄍㄛㄎ"
 date-last-perfect: 2026-06-14
 kwin: true
@@ -47,7 +45,7 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts water flowing out from an opening (口) between two converging slopes (八), i.e. a ravine or valley.
+- [List of 象形](lookup/List%20of%20象形.md): depicts water flowing out from an opening (口) between two converging slopes (八), i.e. a ravine or valley. In modern Simplified Chinese, [[穀]] ("grain") is merged onto this glyph as a homophone (both gǔ); not followed in Dan'a'yo, which keeps both as fully separate words.
 - [SKIP-2-2-5](lookup/SKIP/SKIP-2/SKIP-2-2-5.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
 - 783rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄍㄛㄎ](syllables/ㄍㄛㄎ.md)
 - [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

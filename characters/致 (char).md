@@ -27,8 +27,6 @@ danayo_id: 3228
 mc_id: 363
 graphemic_classification: 至
 stand_in: 致
-aliases:
-  - 緻
 注音: ㄑㄧㄜ
 date-last-perfect: 2026-07-30
 kwin: false
@@ -44,7 +42,7 @@ boundedness: 40
 ```
 
 ## Notes
-- 形声 (OC *tiɡs): phonetic [[至 (char)|至]] ("to arrive," OC *tjiɡs, an exact match) + semantic 攵 ("action, movement," no character page in this vault) — to cause to arrive, to send, to bring about.
+- 形声 (OC *tiɡs): phonetic [[至 (char)|至]] ("to arrive," OC *tjiɡs, an exact match) + semantic 攵 ("action, movement," no character page in this vault) — to cause to arrive, to send, to bring about. Unrelated in meaning and reading to [[緻]] ("delicate, fine"), which cites this character only as a stand-in reference for its own true, unlinkable phonetic component 𦤶.
 - [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 363rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 脂B三開|ɣiɪ]] → [ㄑㄧㄜ](../syllables/ㄑㄧㄜ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
