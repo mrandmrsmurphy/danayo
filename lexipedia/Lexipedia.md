@@ -4,6 +4,8 @@ language: English
 ## Lexipedia
 Rosenfelder's helpful book
 
+See [[lexipedia/format|format.md]] for the standard template and style guide before creating or expanding a domain page below.
+
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]
 * [Astronomy](lexipedia/Astronomy.md)
