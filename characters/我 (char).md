@@ -5,7 +5,9 @@ korean: "아"
 korean_native: 나
 japanese:
   - GA
-japanese_native: われ,わ
+japanese_native:
+  - われ
+  - わ
 vietnamese:
   - ngã
   - tôi
@@ -53,15 +55,27 @@ boundedness: 65
 [[nav/char_info]]
 ```
 
+## Notes
+- 会意, though the actual components are genuinely uncertain: folk etymology reads it as a hand ([[Radical 064|手]]) gripping a weapon ([[Radical 062|戈]]); in all likelihood the true graphemic story is lost to time. Neither [[吾]] nor [[瓦]] is used as the modern first-person pronoun, so 我 fills that role instead. This is [[Swadesh]] word #1.
+- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
+- 113th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](syllables/ㄚ.md)
+- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[我]]<rt>ㄚ</rt></ruby> "I, me" (stand-in for 我)
+- <ruby>[[我等]]<rt>ㄚㄉㄨㄫ</rt></ruby> "we, us"
 - <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
 - <ruby>[[自我]]<rt>ㄐㄧㄜ·ㄚ</rt></ruby> "self-conscious, self-aware"
 
-# Notes
-- Neither [[吾]] nor [[瓦]] are not used as pronoun, so this character takes their place.  Pronounced [[ㄚ]].
-- A 會意, but what are the components?  Folk etymologies consider it a hand (手) holding a weapon (戈).  In all likelihood, the pieces are lost. [[ㄚ]]
-- [[lookup/HSK/HSK Beginner]], [[Korean MS]], [[Jōyō - Kyōiku]], [[Grade 2]]
-- [[Swadesh]] word #1
-[[Lookup/CC/initials/聲 疑]]
-[[Lookup/CC/finals/韻 歌]]
+## Chengyu
+- <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"
+
+## Derived Characters
+- <ruby>[[峨]]<rt>ㄚ</rt></ruby> "lofty"
+- <ruby>[[娥]]<rt>ㄚ</rt></ruby> "beautiful"
+- <ruby>[[鵝]]<rt>ㄚ</rt></ruby> "domestic goose"
+- <ruby>[[蛾 (char)|蛾]]<rt>ㄚ</rt></ruby> "moth"
+- <ruby>[[餓]]<rt>ㄚ</rt></ruby> "hungry"
+- <ruby>[[俄]]<rt>ㄚ</rt></ruby> "suddenly"
+- <ruby>[[義]]<rt>ㄜㄧ</rt></ruby> "meaning, principle"
