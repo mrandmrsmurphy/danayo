@@ -42,7 +42,7 @@ aliases:
   - 𩇶
 注音: ㄚ
 swadesh: 1
-date-last-perfect: 2026-02-06
+date-last-perfect: 2026-09-13
 kwin: true
 tags:
   - character
