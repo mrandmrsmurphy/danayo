@@ -145,40 +145,61 @@ That answer determines the classification.
 21. <ruby>[分](/characters/分%20(char).md)<rt>ㄅㄨㄋ</rt></ruby> - [[Radical 012|八]] ("to divide apart") + [[Radical 018|刀]] ("a knife") — cutting something apart with a blade: "to divide, to separate."
 22. <ruby>[勾](/characters/勾.md)<rt>ㄍㄛㄨ</rt></ruby> - not a clean two-part compound but a graphic variant of 句 (no page of its own in this vault): its [[Radical 030|口]] ("mouth") component reshaped into [[Radical 028|厶]] — originally the same word, drifted in shape and sense to "seduce, entice."
 ### 5
-23. 令 (char), 兄 (char), 処 (char), 北, 卉, 去 (char), 司, 号, 囚, 左, 㐱, 乎 (char), 付, 出 (char), 加, 半, 占 (char), 奴, 尼, 幼, 犮, 生
+23. <ruby>[令](/characters/令%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - a kneeling figure ([[人 (char)|人]]) beneath a covering, sheltering mark — someone gathered up under authority: "to cause, to order." Also the name of an official document, ranked below 詔 ("imperial edict") in the Tang document hierarchy.
+24. <ruby>[兄](/characters/兄%20(char).md)<rt>ㄏ⼄ㄫ</rt></ruby> - [[Radical 030|口]] ("a mouth") over [[Radical 010|儿]] ("a person," legs) — a mouth giving orders atop a person: "elder brother," whose role was to direct the younger siblings. Compare [[令]] (an open mouth atop a kneeling figure, the same idea) and 欠 (a kneeling figure with an open mouth).
+25. <ruby>[処](/characters/処%20(char).md)<rt>ㄑㄛ</rt></ruby> - 夂 ("a foot," originally 人) arriving at [[Radical 016|几]] ("a table, a stool") — to arrive and stop at a table: "to dwell, to be at a place." Per Shuowen, this simpler form 処 is actually the original character, and 處 (with 虍 added) the later variant that came to dominate — the reverse of the usual assumption.
+26. <ruby>[北](/characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - two [[人 (char)|人]] standing back to back — "the back" (the original sense, later given its own character, 背); later borrowed for the unrelated sense "north."
+27. <ruby>[卉](/characters/卉.md)<rt>ㄏㄨㄧ</rt></ruby> - [[十 (char)|十]] ("ten") stacked over 廾 ("two hands," here doubled to suggest multiplicity) — "the many plants": flowering plants collectively.
+28. <ruby>[去](/characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - [[大]] ("a person," simplified here to 土) departing from 口 ("an opening," simplified here to 厶) — a person leaving through an opening: "to go, to leave."
+29. <ruby>[司](/characters/司.md)<rt>ㄙㄚ</rt></ruby> - [[Radical 005|𠃌]] ("the backward tip of a hook," here a scepter of authority) held by 𠮛 (a variant of [[旨]], here read as a mouth issuing orders) — a mouth commanding with a scepter's authority: "to take charge, to control, to manage."
+30. <ruby>[号](/characters/号.md)<rt>ㄏㄚㄨ</rt></ruby> - [[Radical 030|口]] ("a mouth") + 丂 (an ancient variant of [[考]], itself pageless in this vault but the same root behind [[可 (char)|可]], [[巧]], and [[昜]]) — to cry out with the mouth; extended to "name, title, number."
+31. <ruby>[囚](/characters/囚.md)<rt>ㄙㄨㄛ</rt></ruby> - [[Radical 009|人]] ("a person") shut inside [[Radical 031|囗]] ("an enclosure") — a person confined: "a prisoner."
+32. <ruby>[左](/characters/左.md)<rt>ㄐㄚ</rt></ruby> - 𠂇 ("a left hand," a pictograph that originally resembled 又 "right hand," no page of its own in this vault) holding [[Radical 048|工]] ("a tool, work") — a left hand assisting with a tool. Bronze forms show 工 added to an originally bare 𠂇; some instead read this as phono-semantic, with 𠂇 supplying the sound.
+33. <ruby>[㐱](/characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - [[人 (char)|人]] ("a person") + 彡 ("hair, bristles") — a variant of its own alias 鬒; Shuowen glosses the combination as "newly grown feathers for flying," though the character's actually attested sense is "black hair, thick hair," matching 鬒 rather than Shuowen's own gloss.
+34. <ruby>[乎](/characters/乎%20(char).md)<rt>ㄏㄛ</rt></ruby> - the vault treats this as 会意 with an acknowledged rival 形声 reading: "wind, air" set beside 丂 ("a branch"), which some instead read as purely phonetic — the original form of 呼 ("to call, to cry"), later split off into a grammatical particle.
+35. <ruby>[付](/characters/付.md)<rt>ㄈㄨ</rt></ruby> - [[Radical 009|亻]] ("a person") + [[Radical 041|寸]] ("a hand") — a hand passing something to a person: "to deliver, to hand over."
+36. <ruby>[出](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - [[止]] ("a foot") stepping out of [[Radical 017|凵]] ("a cave, a pit") — to step out: "to exit."
+37. <ruby>[加](/characters/加.md)<rt>ㄍㄚ</rt></ruby> - [[Radical 019|力]] ("strength") + [[口 (char)|口]] ("a mouth") — per Shuowen, to exaggerate or slander with the mouth (an alternative reading takes 力 as plowing and 口 as effort or breath); extended to "to add, to increase."
+38. <ruby>[半](/characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - [[八]] ("to divide") applied to [[牛]] ("an ox") — cutting an ox in two: "half."
+39. <ruby>[占](/characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - [[Radical 025|卜]] ("divination cracks") + [[Radical 030|口]] ("a mouth") — consulting the oracle and reporting the answer aloud: "to divine." (The unrelated "occupy" sense belongs properly to a different character, 佔.)
+40. <ruby>[奴](/characters/奴.md)<rt>ㄋㄛ</rt></ruby> - [[Radical 038|女]] ("a woman") seized by [[又]] ("a hand") — a woman taken by force: "a captive, a slave, a servant." (Per Shuowen's own gloss, 从女从又.)
+41. <ruby>[尼](/characters/尼.md)<rt>ㄋㄧㄜ</rt></ruby> - two figures of [[Radical 044|尸]] ("a person") leaning together — a Buddhist nun. (Shuowen's traditional 形声 reading — semantic 尸 + phonetic 匕 — is widely discredited by modern scholarship.)
+42. <ruby>[幼](/characters/幼.md)<rt>⼜ㄛ</rt></ruby> - [[Radical 052|幺]] ("tiny") + [[Radical 019|力]] ("strength") — small strength: "young, an infant." (幺 doubles as the phonetic component here too.)
+43. <ruby>[犮](/characters/犮.md)<rt>ㄅ⼘ㄊ</rt></ruby> - [[犬]] ("a dog") with 丿, a stroke depicting a dragging hind leg — Shuowen: 走犬皃, "the appearance of a dog running, dragging its leg behind it": a variant of both 跋 ("to trample, to tread") and 拔 ("to pull out").
+44. <ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby> - [[屮]] ("a sprout, a young shoot") rising from [[一]] ("the ground") — a plant sprouting from the earth: "life, to be born."
 ### 6
-24. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 名 (char), 吏, 各 (char), 因, 多 (char), 守, 尖, 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 両 (char), 充, 光 (char), 共 (char), 再, 卍, 印, 向 (char), 妃, 尽, 旨, 此 (char), 灰 (char), 考
-25. <ruby>[好](/characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby>
+45. 丞, 亘 (char), 件, 企, 伏 (char), 伐, 休, 会 (char), 先, 全 (char), 列, 劣, 劦, 匠, 危, 合 (char), 吉 (char), 后, 名 (char), 吏, 各 (char), 因, 多 (char), 守, 尖, 戍, 戎, 早 (char), 旬, 死, 老 (char), 艮, 色, 血 (char), 両 (char), 充, 光 (char), 共 (char), 再, 卍, 印, 向 (char), 妃, 尽, 旨, 此 (char), 灰 (char), 考
+46. <ruby>[好](/characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby>
 ### 7
-26. 乱, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 沙 (char), 牢, 男, 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 冶, 医, 吠, 図, 坐 (char), 夹, 希, 床 (char), 戻, 甫, 見 (char)
+47. 乱, 体, 克 (char), 兵, 初, 別 (char), 利, 労, 即 (char), 吝, 吹 (char), 呆 (char), 呉, 告, 困, 声, 妥, 孝 (char), 孚, 宋, 尾 (char), 尿 (char), 弄 (char), 役, 戒, 我 (char), 抑, 折, 更 (char), 沙 (char), 牢, 男, 禿 (char), 秀 (char), 系, 舛, 赤 (char), 足 (char), 邑, 里 (char), 冶, 医, 吠, 図, 坐 (char), 夹, 希, 床 (char), 戻, 甫, 見 (char)
 ### 8
-27. 並 (char), 侃, 卓, 卒, 取, 夌, 奄, 妾 (char), 宗, 官, 実, 岳, 幸, 或 (char), 承, 抛, 拝 (char), 昏, 昌, 昔, 林 (char), 枚 (char), 武 (char), 歩, 沓, 法 (char), 炎, 画, 直 (char), 秉, 突, 股 (char), 肯 (char), 肰, 苗, 采, 𡿺, 㑒, 事 (char), 佩, 典, 受, 妻 (char), 学, 宜, 岩, 念, 析, 牧 (char), 知 (char), 肩 (char), 表
-28. <ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby> "bright" = "sun" + moon"
+48. 並 (char), 侃, 卓, 卒, 取, 夌, 奄, 妾 (char), 宗, 官, 実, 岳, 幸, 或 (char), 承, 抛, 拝 (char), 昏, 昌, 昔, 林 (char), 枚 (char), 武 (char), 歩, 沓, 法 (char), 炎, 画, 直 (char), 秉, 突, 股 (char), 肯 (char), 肰, 苗, 采, 𡿺, 㑒, 事 (char), 佩, 典, 受, 妻 (char), 学, 宜, 岩, 念, 析, 牧 (char), 知 (char), 肩 (char), 表
+49. <ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby> "bright" = "sun" + moon"
 ### 9
-29. 保, 兪, 則, 勅, 卑 (char), 厚 (char), 叚, 咸, 奏, 姥, 姦, 威, 屋 (char), 屎 (char), 建, 彖, 扁, 昼, 某 (char), 枼, 歪, 爰, 甚, 皆 (char), 相, 県 (char), 看 (char), 祝, 秋 (char), 臥 (char), 臭 (char), 虐, 計, 負 (char), 軍, 退 (char), 陋, 香, 便 (char), 品 (char), 後 (char), 是 (char), 显, 染, 柬 (char), 栃, 為 (char), 胤, 食 (char)
+50. 保, 兪, 則, 勅, 卑 (char), 厚 (char), 叚, 咸, 奏, 姥, 姦, 威, 屋 (char), 屎 (char), 建, 彖, 扁, 昼, 某 (char), 枼, 歪, 爰, 甚, 皆 (char), 相, 県 (char), 看 (char), 祝, 秋 (char), 臥 (char), 臭 (char), 虐, 計, 負 (char), 軍, 退 (char), 陋, 香, 便 (char), 品 (char), 後 (char), 是 (char), 显, 染, 柬 (char), 栃, 為 (char), 胤, 食 (char)
 ### 10
-30. 兼 (char), 冥 (char), 原, 夏 (char), 套 (char), 孫, 射, 差, 弱 (char), 従 (char), 息, 扇, 料, 旅, 既, 晋, 朕 (char), 殷, 玆, 班 (char), 益, 秦, 穿 (char), 般 (char), 芻, 蚤, 討, 辱, 連 (char), 閃, 陥 (char), 隼 (char), 韋, 冤, 奚 (char), 宮, 宰, 師, 帰, 拿, 索, 袁, 逐, 配 (char)
+51. 兼 (char), 冥 (char), 原, 夏 (char), 套 (char), 孫, 射, 差, 弱 (char), 従 (char), 息, 扇, 料, 旅, 既, 晋, 朕 (char), 殷, 玆, 班 (char), 益, 秦, 穿 (char), 般 (char), 芻, 蚤, 討, 辱, 連 (char), 閃, 陥 (char), 隼 (char), 韋, 冤, 奚 (char), 宮, 宰, 師, 帰, 拿, 索, 袁, 逐, 配 (char)
 ### 11
-31. 執, 婁, 宿, 寇, 尉 (char), 彗, 悉, 斬 (char), 断, 旋, 族, 曼, 曹, 渉 (char), 爽, 甜, 異, 盗, 票 (char), 祭, 章 (char), 竟 (char), 粛, 覓, 規, 豚 (char), 軣, 逸 (char), 郵, 郭 (char), 郷, 閉, 陳, 麻, 兜 (char), 啓, 得, 掃, 敬, 頃 (char)
-32. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes" = "tiger" + "stripes"
+52. 執, 婁, 宿, 寇, 尉 (char), 彗, 悉, 斬 (char), 断, 旋, 族, 曼, 曹, 渉 (char), 爽, 甜, 異, 盗, 票 (char), 祭, 章 (char), 竟 (char), 粛, 覓, 規, 豚 (char), 軣, 逸 (char), 郵, 郭 (char), 郷, 閉, 陳, 麻, 兜 (char), 啓, 得, 掃, 敬, 頃 (char)
+53. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes" = "tiger" + "stripes"
 ### 12
-33. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 彭, 戟, 散, 敦, 敢, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 飧, 具, 喜 (char), 奥 (char), 就 (char), 幾 (char), 弼, 斯, 普, 朝 (char), 登 (char), 粤
+54. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 彭, 戟, 散, 敦, 敢, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 飧, 具, 喜 (char), 奥 (char), 就 (char), 幾 (char), 弼, 斯, 普, 朝 (char), 登 (char), 粤
 ### 13
-34. 咎, 塞, 嵩, 意, 棄, 楽, 煩 (char), 罪 (char), 聖, 蒐, 辟, 遣 (char), 雷 (char), 鼓 (char), 喿, 嗇, 季, 毀 (char), 羨, 蜀, 解 (char), 農
+55. 咎, 塞, 嵩, 意, 棄, 楽, 煩 (char), 罪 (char), 聖, 蒐, 辟, 遣 (char), 雷 (char), 鼓 (char), 喿, 嗇, 季, 毀 (char), 羨, 蜀, 解 (char), 農
 ### 14
-35. 塵, 奪, 寡, 徴, 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 獄, 疑
+56. 塵, 奪, 寡, 徴, 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 獄, 疑
 ### 15
-36. 器, 審, 履 (char), 慶 (char), 暴 (char), 監, 磊, 罷, 質, 霅, 熟, 魯
+57. 器, 審, 履 (char), 慶 (char), 暴 (char), 監, 磊, 罷, 質, 霅, 熟, 魯
 ### 16
-37. 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 曇 (char)
+58. 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 曇 (char)
 ### 17
-38. 竃, 頻 (char), 鮮
+59. 竃, 頻 (char), 鮮
 ### 18
-39. 竄, 繭 (char), 闖
+60. 竄, 繭 (char), 闖
 ### 19
-40. 羅, 覇, 麗
+61. 羅, 覇, 麗
 ### 20+
-41. 競, 灋, 欝, 鑫
+62. 競, 灋, 欝, 鑫
 
 ## Base check
 ```base
