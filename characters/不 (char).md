@@ -90,7 +90,7 @@ boundedness: 50
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby>
 - [[不可思議]]
 - <ruby>[[不均]]<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby> "uneven, unequal"
-- <ruby>[[大不列顛]]<rt>ㄉㄚㄧㄅㄛㄊㄌㄝㄊㄉㄝㄋ</rt></ruby> "Great Britain"
+- <ruby>[[大不列顚]]<rt>ㄉㄚㄧㄅㄛㄊㄌㄝㄊㄉㄝㄋ</rt></ruby> "Great Britain"
 - <ruby>[[可不]]<rt>ㄎㄜㄅㄛㄊ</rt></ruby> "able to not (do something)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
 - <ruby>[[不可不]]<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> "cannot not (do something), i.e. must"

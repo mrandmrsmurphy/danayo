@@ -54,6 +54,7 @@ date-last-perfect: 2026-08-07
 
 ## Words
 - <ruby>[磨](words/磨.md)<rt>ㄇㄚ</rt></ruby> "grind, polish" (stand-in for 磨)
+- <ruby>[[按磨]]<rt>ㄚㄋㄇㄚ</rt></ruby> "massage" (uses 磨's alias 摩 in the conventional spelling 按摩)
 - <ruby>[[磨耗]]<rt>ㄇㄚㄏㄚㄨ</rt></ruby> "wear, abrasion"
 - <ruby>[[琢磨]]<rt>ㄊㄚㄎㄇㄚ</rt></ruby> "polish jewels"
 

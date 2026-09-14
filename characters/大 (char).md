@@ -116,7 +116,7 @@ boundedness: 90
 - <ruby>[[大韓民国]]<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of Korea"
 - <ruby>[[大韓帝国]]<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby> "Korean Empire"
 - <ruby>[[大西洋]]<rt>ㄉㄚㄧㄙㄝㄧ⼘ㄫ</rt></ruby> "Atlantic Ocean"
-- <ruby>[[大不列顛]]<rt>ㄉㄚㄧㄅㄛㄊㄌㄝㄊㄉㄝㄋ</rt></ruby> "Great Britain"
+- <ruby>[[大不列顚]]<rt>ㄉㄚㄧㄅㄛㄊㄌㄝㄊㄉㄝㄋ</rt></ruby> "Great Britain"
 - <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"
 - <ruby>[[大旨]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "main idea, gist"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
