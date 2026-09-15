@@ -1,7 +1,7 @@
 ---
 size: 447
 tags: [lookup]
-
+date-last-perfect: 2026-09-15
 ---
 # 会意— Compound Ideographs
 ## Explained
@@ -243,7 +243,7 @@ That answer determines the classification.
 116. <ruby>[弄](/characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - [[Radical 055|廾]] ("two hands") holding [[Radical 096|玉]] ("jade") — turning a piece of jade over in both hands: "to play with, to toy with," extended to "to tamper with, to mess with."
 117. <ruby>[役](/characters/役.md)<rt>⼶ㄎ</rt></ruby> - 彳 ("to walk, to move," no vault page) + 殳 ("a weapon or tool held in the hand," no vault page) — a person driven to move while bearing a tool or weapon: "forced labor, military service; to serve."
 118. <ruby>[戒](/characters/戒.md)<rt>ㄍ⼶</rt></ruby> - [[戈]] ("a halberd") held up by 廾 ("two hands," no vault page) — raising a weapon in warning: "to warn, to caution, to admonish."
-119. <ruby>[我](/characters/我%20(char).md)<rt>ㄚ</rt></ruby> - genuinely uncertain: folk etymology reads this as [[Radical 064|手]] ("a hand") gripping [[Radical 062|戈]] ("a halberd"), but the true graphemic story is most likely lost to time. Neither [[吾]] nor [[瓦]] came to serve as the modern first-person pronoun, so 我 fills that role instead — [[Swadesh]] word #1.
+119. <ruby>[我](/characters/我%20(char).md)<rt>ㄚ</rt></ruby> - genuinely uncertain: folk etymology reads this as [[Radical 064|手]] ("a hand") gripping [[Radical 062|戈]] ("a halberd"), but the true graphemic story is most likely lost to time. Neither [[吾]] nor [[瓦 (char)|瓦]] came to serve as the modern first-person pronoun, so 我 fills that role instead — [[Swadesh]] word #1.
 120. <ruby>[抑](/characters/抑.md)<rt>ㄧㄎ</rt></ruby> - [[手 (char)|手]] ("a hand") pressing down on 卬 ("a kneeling person," no vault page) — a hand suppressing a kneeling person: "to press down, to repress, to restrain." Compare [[印]] (爪 "hand" + 卩 "kneeling person"), a parallel composition with a different meaning.
 121. <ruby>[折](/characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> - [[Radical 064|手]] ("a hand," the modern form of an original 屮屮, "a tree cut in half") + [[Radical 069|斤]] ("an axe") — an axe cutting a tree in half: "to break, to snap, to fold."
 122. <ruby>[更](/characters/更%20(char).md)<rt>ㄍㄚㄫ</rt></ruby> - in its original form, two [[丙 (char)|丙]] side by side (⿰丙丙) — one thing replacing another: "to change, to replace," hence "again, further, more." Later Shuowen-era orthography reanalyzed it as 形声 instead — [[Radical 066|攴]] ("to strike") as semantic + an abbreviated 丙 as phonetic, the leftover second 丙 stroke corrupting into what looks like 一 or 雨 in the modern glyph — but the vault's stored classification reflects the original two-丙 ideogram.
