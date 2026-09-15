@@ -80,6 +80,8 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
+- <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
+- <ruby>[[一攫千金]]<rt>ㄧㄊㄍ⺢ㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> "making a killing in a single stroke, making a fortune in a moment"
 
 ## Derived Characters
 - <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby> "brocade"
