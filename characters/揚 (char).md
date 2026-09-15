@@ -60,4 +60,4 @@ boundedness: 90
 - <ruby>[[昂揚]]<rt>ㄚㄫ⼘ㄫ</rt></ruby> "high-spirited, exalted"
 
 ## Chengyu
-- <ruby>[[意気揚揚]]<rt>ㄜㄎㄧㄜ·⼘ㄫ·⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
+- <ruby>[[意気揚揚]]<rt>ㄜㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
