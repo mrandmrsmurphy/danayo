@@ -13,7 +13,6 @@ vietnamese:
   - chác
   - dạc
   - giác
-  - giạc
   - giốc
   - góc
 middle_chinese_initial: "k"
