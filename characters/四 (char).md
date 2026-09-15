@@ -27,7 +27,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 77
 mc_id: 48
-graphemic_classification: 指事
+graphemic_classification: 象形
 stand_in: 四
 aliases:
   - 亖
@@ -36,7 +36,7 @@ aliases:
   - 𠃢
   - 𦉭
   - 泗
-date-last-perfect: 2026-01-30
+date-last-perfect: 2026-09-15
 注音: ㄙㄧㄜ
 kwin: false
 tags:
@@ -49,23 +49,30 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a nose exhaling. Original form of 呬 (OC *hrids). Later phonetically borrowed to represent 四 (OC *hljids, “four”). [ 1 ].
-- [[Radical 031|囗]] + [[人 (char)|儿]] = [[SKIP-3-3-2]] ([[Stroke 05]])
-- The word "four" was written as 亖 (sǐ) before Western Zhou and 四 (sì) appeared in late Spring and Autumn period. This alternative form was used to prevent confusion of 亖 (sǐ) and 二 (“two”) or 三 (“three”) in vertical writing. It was standardized in Qin dynasty.  The bronzeware style of the character featured a repositioning of those four lines inside 口 (kǒu); this later evolved into the combination used today of 口 (kǒu, “mouth”) and 八 (bā, “divide”) which meant a dispersal of breath. It could thus be said that four is a borrowed meaning for this character. The original sense is preserved in 呬 (OC \*hrids), by adding an extra 口. Compare this character with 只 and 曰.
-- [[Grade 1]], [[Korean MS]], [[Jōyō - Kyōiku]], [[lookup/HSK/HSK Beginner]]
-- The anti-forgery 'four' is [[肆]].
-- In order to keep the ancient Far Eastern symbolism of 'four' being homophonous with 'death', the Korean pronunciation as 사 was *not* adopted for this character. 
+- [List of 象形](lookup/List%20of%20象形.md): originally depicted breath dispersing from a mouth — [[Radical 030|口]] ("mouth") + 八 ("to divide, to disperse") — the original form of 呬 (OC \*hrids, "to exhale"). Before the Western Zhou, "four" was instead written 亖 (four stacked strokes, on the model of 一/二/三); this glyph was borrowed for its phonetic value (OC \*hljids) to write "four" during the late Spring and Autumn period, replacing 亖 to avoid confusion with 二/三 in vertical text, and was standardized in the Qin dynasty. The bronze-script breath glyph was repositioned inside 口, later reanalyzed into the modern [[Radical 031|囗]]+儿 shape — a Kangxi-indexing artifact of the squared-off form, not the original composition. Compare 只 and 曰.
+- [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
+- 48th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄙㄧㄜ](syllables/ㄙㄧㄜ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- The anti-forgery variant for "four" is [[肆]].
+- 四 and [[死]] are genuine homophones in Dan'a'yo (both ㄙㄧㄜ) as well as in real Sino-Korean (both 사) — this preserves, rather than avoids, the traditional East Asian taboo linking "four" and "death."
 
-## Chengyu
-- [[四面楚歌]]
-### Links
-![[nav/Numerals]]
-[[Lookup/CC/initials/聲 心]]
-[[Lookup/CC/finals/韻 脂A三開]]
 ## Words
+- <ruby>[[四]]<rt>ㄙㄧㄜ</rt></ruby> "four"
+- <ruby>[[十四]]<rt>ㄙㄧㄆㄙㄧㄜ</rt></ruby> "fourteen"
+- <ruby>[[四十]]<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby> "forty"
+- <ruby>[[四季]]<rt>ㄙㄧㄜㄍㄨㄧ</rt></ruby> "four seasons"
 - <ruby>[[四川]]<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby> "Sichuan"
-- [[四面]] "four cardinal directions, all sides, all around"
-- <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
+- <ruby>[[四日]]<rt>ㄙㄧㄜㄋㄧㄊ</rt></ruby> "fourth (day of the month)"
 - <ruby>[[四書]]<rt>ㄙㄧㄜㄙ⼄</rt></ruby> "Four Books"
+- <ruby>[[四月]]<rt>ㄙㄧㄜ·⼔ㄊ</rt></ruby> "April"
+- <ruby>[[四海]]<rt>ㄙㄧㄜㄏㄚㄧ</rt></ruby> "Four Seas; the four seas bounding All-Under-Heaven"
+- <ruby>[[四面]]<rt>ㄙㄧㄜㄇ⼶ㄋ</rt></ruby> "four cardinal directions, all sides, all around"
+- <ruby>[[十四日]]<rt>ㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "fourteenth day of the month"
+- <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
+- <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby> "quarter, fourth"
+- <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> "four-character idiom"
 - <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
 - <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
+
+## Chengyu
+- <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> "surrounded by the singing of Chu"
