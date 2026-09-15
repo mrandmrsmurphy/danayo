@@ -14,7 +14,7 @@ views:
       - joyo_level
     sort:
       - property: date-last-perfect
-        direction: DESC
+        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: joyo_level
