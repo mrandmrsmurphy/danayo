@@ -49,7 +49,7 @@ boundedness: 75
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – side view of a standing man, highlighting an arm and a leg. 
 - [SKIP-4-2-4](lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md)) - [ㄋㄧㄋ](../syllables/ㄋㄧㄋ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
-- 10th most used character in Classical Chinese
+- 10th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]]
 ### Derived Characters (not the radical)
 - <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
 - <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
@@ -66,48 +66,48 @@ boundedness: 75
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - <ruby>[[人参]]<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> "ginseng"
 - <ruby>[[人口]]<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> "population"
-- <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> - patron
-- <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> - adult
-- <ruby>[[敵人]]<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby> - enemy, foe
-1. [[善人]]
-2. [[官人]]
-3. [[蛮人]]
-4. [[男人]]
-5. [[個人]]
-6. [[隣人]]
-7. <ruby>[[人手]]<rt>ㄋㄧㄋㄙ⼜</rt></ruby> "manpower; person's hand"
-8. [[盲人]]
-9. <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
-10. <ruby>[[軍人]]<rt>ㄍㄨㄋㄋㄧㄋ</rt></ruby> "soldier"
-11. <ruby>[[佳人]]<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby> "beautiful woman"
-12. [[芸人]]
-13. <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
-14. [[奄人]]
-15. [[病人]]
-16. <ruby>[[人工]]<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby> "artificial; man-made"
-17. [[女人]]
-18. [[工人]]
-19. [[証人]]
-20. [[夫人]]
-21. <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
-22. <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
-23. [[為人]]
-24. [[無人]]
-25. [[客人]]
-26. [[故人]]
-27. [[老人学]]
-28. <ruby>[[人員]]<rt>ㄋㄧㄋㄨㄋ</rt></ruby> "staff, personnel"
-29. <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
-30. <ruby>[[人証]]<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby> "personal evidence"
-30. <ruby>[[人間]]<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby> "mortals; human world"
-31. [[別人]]
-32. <ruby>[[人望]]<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby> "popularity, being well-regarded"
-33. <ruby>[[人類]]<rt>ㄋㄧㄋㄌㄨㄧ</rt></ruby> "humanity, human, humankind"
-34. [[此人]]
-35. <ruby>[[人類学]]<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "anthropology"
-36. [[愛人]]
-37. [[小人]]
-38. [[死亡人数]]
+- <ruby>[恩人](/words/恩人.md)<rt>ㄚㄋㄋㄧㄋ</rt></ruby> "patron"
+- <ruby>[大人](/words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> "adult"
+- <ruby>[[敵人]]<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby> "enemy, foe"
+- <ruby>[[善人]]<rt>ㄙ⼶ㄋㄋㄧㄋ</rt></ruby> "philanthropize; well-doer"
+- <ruby>[[官人]]<rt>ㄍ⺢ㄋㄋㄧㄋ</rt></ruby> "official"
+- <ruby>[[蛮人]]<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby> "barbarian"
+- <ruby>[[男人]]<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> "man; male"
+- <ruby>[[個人]]<rt>ㄍㄜㄋㄧㄋ</rt></ruby> "individual"
+- <ruby>[[隣人]]<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby> "neighbor; neighborhood"
+- <ruby>[[人手]]<rt>ㄋㄧㄋㄙ⼜</rt></ruby> "manpower; person's hand"
+- <ruby>[[盲人]]<rt>ㄇㄚㄫㄋㄧㄋ</rt></ruby> "blind person"
+- <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
+- <ruby>[[軍人]]<rt>ㄍㄨㄋㄋㄧㄋ</rt></ruby> "soldier"
+- <ruby>[[佳人]]<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby> "beautiful woman"
+- <ruby>[[芸人]]<rt>ㄝㄋㄧㄋ</rt></ruby> "performer; actor"
+- <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
+- <ruby>[[奄人]]<rt>⼶ㄇㄋㄧㄋ</rt></ruby> "castrati; eunuch"
+- <ruby>[[病人]]<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby> "patient; invalid"
+- <ruby>[[人工]]<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby> "artificial; man-made"
+- <ruby>[[女人]]<rt>ㄋㄜㄋㄧㄋ</rt></ruby> "woman; female"
+- <ruby>[[工人]]<rt>ㄍㄛㄫㄋㄧㄋ</rt></ruby> "worker; craftsman; workman"
+- <ruby>[[証人]]<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby> "witness"
+- <ruby>[[夫人]]<rt>ㄈㄜㄋㄧㄋ</rt></ruby> "madam; lady; wife"
+- <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
+- <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
+- <ruby>[[為人]]<rt>ㄨㄧㄋㄧㄋ</rt></ruby> "behave; conduct oneself"
+- <ruby>[[無人]]<rt>ㄇㄨㄋㄧㄋ</rt></ruby> "depopulated; unmanned"
+- <ruby>[[客人]]<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby> "traveller"
+- <ruby>[[故人]]<rt>ㄍㄛㄋㄧㄋ</rt></ruby> "deceased; old friend"
+- <ruby>[[老人学]]<rt>ㄌㄚㄨㄋㄧㄋㄏㄚㄎ</rt></ruby> "gerontology"
+- <ruby>[[人員]]<rt>ㄋㄧㄋㄨㄋ</rt></ruby> "staff, personnel"
+- <ruby>[[高人]]<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby> "person of noble character"
+- <ruby>[[人証]]<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby> "personal evidence"
+- <ruby>[[人間]]<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby> "mortals; human world"
+- <ruby>[[別人]]<rt>ㄅㄝㄊㄋㄧㄋ</rt></ruby> "different person; other people"
+- <ruby>[[人望]]<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby> "popularity, being well-regarded"
+- <ruby>[[人類]]<rt>ㄋㄧㄋㄌㄨㄧ</rt></ruby> "humanity, human, humankind"
+- <ruby>[[此人]]<rt>ㄑㄜㄋㄧㄋ</rt></ruby> "this person"
+- <ruby>[[人類学]]<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "anthropology"
+- <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby> "spouse (mainland Mandarin); lover, sweetheart (Taiwan/HK Mandarin, Korean, Vietnamese); mistress, affair partner (Japanese — a distinct sense, see Notes)"
+- <ruby>[[小人]]<rt>ㄙㄛㄋㄧㄋ</rt></ruby> "jerk; petty person"
+- <ruby>[[死亡人数]]<rt>ㄙㄧㄜㄇㄚㄫㄋㄧㄋㄙㄨ</rt></ruby> "death toll"
 - <ruby>[[人数]]<rt>ㄋㄧㄋㄙㄨ</rt></ruby> "number of people; headcount"
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
 - <ruby>[[賎人]]<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby> "plebeian, lowly person"
@@ -121,7 +121,5 @@ boundedness: 75
 - <ruby>[[何人]]<rt>ㄏㄚㄋㄧㄋ</rt></ruby> "who (direct); what person"
 - <ruby>[[類人猿]]<rt>ㄌㄨㄧㄋㄧㄋㄛㄋ</rt></ruby> "simian"
 ## Chengyu
-- <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - totally selfish
-- [[造人像形]]
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 眞A開]]
+- <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> "totally selfish"
+- <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "create man in our image and likeness"

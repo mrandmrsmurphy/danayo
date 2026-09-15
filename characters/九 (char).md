@@ -58,7 +58,7 @@ boundedness: 75
 - <ruby>[[九天]]<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby> "the Ninth Heaven"
 - <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
 - <ruby>[[九経]]<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby> "the Nine Classics"
-- [[十九]] - nineteen 
+- <ruby>[[十九]]<rt>ㄙㄧㄆㄎ⼜</rt></ruby> "nineteen"
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 - <ruby>[[九族]]<rt>ㄎ⼜ㄐㄛㄎ</rt></ruby> "nine generations of one's family"
 - <ruby>[[九官鳥]]<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby> "common hill myna"

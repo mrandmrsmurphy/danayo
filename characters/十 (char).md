@@ -63,30 +63,30 @@ boundedness: 75
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
 
 ### Months
-- [[十月]] - October
-- [[十一月]] - November
-- [[十二月]] - December
+- <ruby>[[十月]]<rt>ㄙㄧㄆ·⼔ㄊ</rt></ruby> "October"
+- <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> "November"
+- <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
 ## Numbers
-- [[../words/十]] - 10
-- [[十一]] - 11
-- [[十二]] - 12
-- [[十三]] - 13
-- [[十四]] - 14
-- [[../words/十五]] - 15
-- [[十六]] - 16
-- [[十七]] - 17
-- [[十八]] - 18
-- [[十九]] - 19
+- <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> "ten"
+- <ruby>[[十一]]<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby> "eleven"
+- <ruby>[[十二]]<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby> "twelve"
+- <ruby>[[十三]]<rt>ㄙㄧㄆㄙㄚㄇ</rt></ruby> "thirteen"
+- <ruby>[[十四]]<rt>ㄙㄧㄆㄙㄧㄜ</rt></ruby> "fourteen"
+- <ruby>[[十五]]<rt>ㄙㄧㄆ·ㄛ</rt></ruby> "fifteen"
+- <ruby>[[十六]]<rt>ㄙㄧㄆㄌㄨㄎ</rt></ruby> "sixteen"
+- <ruby>[[十七]]<rt>ㄙㄧㄆㄑㄧㄊ</rt></ruby> "seventeen"
+- <ruby>[[十八]]<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby> "eighteen"
+- <ruby>[[十九]]<rt>ㄙㄧㄆㄎ⼜</rt></ruby> "nineteen"
 - <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
-- [[三十]] - 30
-- [[四十]] - 40
+- <ruby>[[三十]]<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> "thirty"
+- <ruby>[[四十]]<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby> "forty"
 - <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
 - <ruby>[[六十]]<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby> "sixty"
-- [[七十]] - 70
+- <ruby>[[七十]]<rt>ㄑㄧㄊㄙㄧㄆ</rt></ruby> "seventy"
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 ## Chengyu
-- [[十人不滅]] - (Biblical) "For ten I will not destroy"
+- <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "(Biblical) for ten I will not destroy"
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 ### Links
 ![[nav/Numerals]]

@@ -49,14 +49,14 @@ boundedness: 65
  - [[Lookup/CC/initials/聲 幫]] [[Lookup/CC/finals/韻 鎋開]]
 
 ## Words
-- [[八角]]
+- <ruby>[[八角]]<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby> "octagon, star anise"
 - <ruby>[[八百]]<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> "eight hundred"
-- [[八月]]
+- <ruby>[[八月]]<rt>ㄅㄚㄊ·⼔ㄊ</rt></ruby> "August"
 - <ruby>[[八卦]]<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby> "bagua, eight-trigrams"
 - <ruby>[[猪八戒]]<rt>ㄐㄛㄅㄚㄊㄍ⼶</rt></ruby> "Zhu Bajie"
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[第八]]<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby> "eighth"
-- [[八日]]
+- <ruby>[[八日]]<rt>ㄅㄚㄊㄋㄧㄊ</rt></ruby> "eighth day of the month"
 - <ruby>[[八千]]<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby> "eight thousand"
 - <ruby>[[臘八]]<rt>ㄌㄚㄆㄅㄚㄊ</rt></ruby> "Laba (8th of 12th lunar month)"
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"

@@ -58,5 +58,5 @@ boundedness: 65
 - <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby> "turtle"
 - <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
 - <ruby>[[亀頭]]<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby> "glans penis"
-- [[海亀]] "sea turtle"
-- [[陸亀]] "land turtle; tortoise"
+- <ruby>[[海亀]]<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby> "sea turtle"
+- <ruby>[[陸亀]]<rt>ㄌㄨㄎㄍㄨㄛ</rt></ruby> "land turtle; tortoise"

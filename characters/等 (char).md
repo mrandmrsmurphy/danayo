@@ -52,10 +52,10 @@ boundedness: 75
 
 ## Words
 - <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
-* [[平等]] equal, even
-* [[恒等式]]
-* [[等分]]
-* [[等待]]
+- <ruby>[[平等]]<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby> "equality, be equal"
+- <ruby>[[恒等式]]<rt>ㄏㄨㄫㄉㄨㄫㄙㄧㄎ</rt></ruby> "identity"
+- <ruby>[[等分]]<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby> "divide into equal parts"
+- <ruby>[[等待]]<rt>ㄉㄨㄫㄉㄚㄧ</rt></ruby> "wait for, await"
 - <ruby>[[高等]]<rt>ㄍㄚㄨㄉㄨㄫ</rt></ruby> "higher level, advanced"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
 - <ruby>[[初等]]<rt>ㄑㄛㄉㄨㄫ</rt></ruby> "elementary, primary level"

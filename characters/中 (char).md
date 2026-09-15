@@ -81,9 +81,8 @@ boundedness: 80
 - <ruby>[[中耳]]<rt>ㄐㄨㄫㄋㄧ</rt></ruby> "middle ear"
 - <ruby>[[中華民国]]<rt>ㄐㄨㄫㄏ⺢ㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of China; Taiwan"
 - <ruby>[[中間]]<rt>ㄐㄨㄫㄍㄚㄋ</rt></ruby> "middle; midway"
-- [[暗中]]
-- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> - underwater
-- <ruby>[[途中]]<rt>ㄊㄛㄐㄨㄫ</rt></ruby> "en route; on the way"
+- <ruby>[[暗中]]<rt>ㄚㄇㄐㄨㄫ</rt></ruby> "in the dark; secretly; covertly"
+- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> "underwater"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
 - <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> "in the air, midair, the sky"
 - <ruby>[[雨中]]<rt>ㄨㄐㄨㄫ</rt></ruby> "in the rain"

@@ -46,6 +46,7 @@ boundedness: 95
 ## Notes
 - 份 is listed here
 - 会意): [八](Radical%20012) (“to separate”) + [刀](Radical%20018) (“knife”) – to separate with a knife.
+- 206th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄅㄨㄋ](../syllables/ㄅㄨㄋ.md)
 ### Derived Characters
 - [扮](扮%20(char).md)
 - [盼](盼.md)
@@ -63,11 +64,9 @@ boundedness: 95
 - <ruby>[[分娩]]<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby> "give birth"
 - <ruby>[[分泌]]<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby> "secrete"
 - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄜ</rt></ruby> "molecule; numerator"
-- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> mood
+- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 - <ruby>[[部分]]<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby> "part, section, segment"
-[[Lookup/CC/initials/聲 奉]]
-[[Lookup/CC/finals/韻 文]]
-- [[分配]] "distribute,partition,share"
+- <ruby>[[分配]]<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby> "distribute, partition, share"
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
 - <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
