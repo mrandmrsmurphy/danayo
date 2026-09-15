@@ -101,7 +101,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[千編一律]]<rt>ㄑㄝㄋㄅ⼶ㄋㄧㄊㄌㄨㄊ</rt></ruby> "monotonously uniform with no variation"
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
 - <ruby>[[一帆風順]]<rt>ㄧㄊㄆㄚㄇㄈㄨㄫㄙ⼜ㄋ</rt></ruby> "smooth sailing"
-- <ruby>[[一期一会]]<rt>ㄧㄜㄎㄧ·ㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"
+- <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧ·ㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"
 - <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 - <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫ·ㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
 - <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄒㄧㄜ</rt></ruby> "true to one's word"
