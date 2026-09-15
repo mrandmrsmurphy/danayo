@@ -69,7 +69,7 @@ boundedness: 75
 - <ruby>[[会意]]<rt>ㄏ⼔ㄜ</rt></ruby> "compound ideograph character"
 
 ## Chengyu
-- <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧ·ㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"
+- <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"
 
 ## Derived Characters
 - <ruby>[[桧]]<rt>ㄍ⺢ㄧ</rt></ruby> "tree kind"

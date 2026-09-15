@@ -69,6 +69,9 @@ boundedness: 80
 - <ruby>[[二十六日]]<rt>ㄋㄧㄜㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby> "twenty-sixth day of the month"
 - <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
+
+## Chengyu
+- <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
 ### Links
 ![[nav/Numerals]]
 [[Lookup/CC/initials/聲 日]]

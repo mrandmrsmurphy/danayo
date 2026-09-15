@@ -86,6 +86,6 @@ boundedness: 50
 - <ruby>[[放物線]]<rt>ㄅㄚㄫㄇㄨㄊㄙ⼶ㄋ</rt></ruby> "parabola"
 
 ## Chengyu
-- <ruby>[[万物生長]]<rt>ㄇㄨㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "All the universe grows and develops"
+- <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"
 - <ruby>[[主宰万物]]<rt>ㄐㄨㄐㄚㄧㄇㄚㄋㄇㄨㄊ</rt></ruby> "Dominion over all things"
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"

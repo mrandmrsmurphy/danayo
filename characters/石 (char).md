@@ -67,7 +67,7 @@ boundedness: 90
 - <ruby>[[鑽石]]<rt>ㄐㄚㄋㄙㄝㄎ</rt></ruby> "diamond; auger"
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash; in the blink of an eye"
-- <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
+- <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
 - <ruby>[[石山盈界]]<rt>ㄙㄝㄎㄙㄚㄋ·⼶ㄫㄍ⼶</rt></ruby> "stone mountain fills earth"
 ## Derived Characters
 - <ruby>[[庶]]<rt>ㄙ⼄</rt></ruby> "commoner"

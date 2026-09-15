@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
 
 ## Chengyu
-- <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
+- <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
 - <ruby>[字南](/words/字南.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
 - <ruby>[字母](/words/字母.md)<rt>ㄐㄧㄇㄛㄨ</rt></ruby> - grapheme
 - <ruby>[字源](/words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> - etymology

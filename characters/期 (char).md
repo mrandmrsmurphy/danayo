@@ -66,4 +66,4 @@ boundedness: 100
 - <ruby>[[下半期]]<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby> "second half of the year"
 
 ## Chengyu
-- <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧ·ㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"
+- <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"

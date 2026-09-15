@@ -74,7 +74,7 @@ boundedness: 90
 - <ruby>[[鳥巣]]<rt>ㄑㄛㄨㄐㄚㄨ</rt></ruby> "nest, bird's nest"
 
 ## Chengyu
-- <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
+- <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
 - <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ·⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "rule fish, birds, life"
 
 ## Derived Characters
