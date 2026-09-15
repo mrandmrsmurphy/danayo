@@ -419,26 +419,65 @@ That answer determines the classification.
 289. <ruby>[逐](/characters/逐.md)<rt>ㄉㄨㄎ</rt></ruby> - [[Radical 162|辵]] ("to walk") after [[豕]] ("a pig") — chasing a pig: "to chase, to pursue," extended to "to expel" and "one by one, successively."
 290. <ruby>[配](/characters/配%20(char).md)<rt>ㄆㄛㄧ</rt></ruby> - in its oracle-bone and bronze forms, [[Radical 164|酉]] ("a wine vessel") + 卩 ("a kneeling person," no vault page) — a person paired with a wine vessel: originally "to blend wine colors in proper proportion," extended to "to pair, to match, to distribute." Seal script corrupted the 卩 component into the visually similar 己, which is why the modern glyph appears to contain 己 — but per Shuowen commentators, 己 never functioned as a phonetic here; the character is properly 会意 (酉+卩), not 形声.
 ### 11
-291. 執, 婁, 宿, 寇, 尉 (char), 彗, 悉, 斬 (char), 断, 旋, 族, 曼, 曹, 渉 (char), 爽, 甜, 異, 盗, 票 (char), 祭, 章 (char), 竟 (char), 粛, 覓, 規, 豚 (char), 軣, 逸 (char), 郵, 郭 (char), 郷, 閉, 陳, 麻, 兜 (char), 啓, 得, 掃, 敬, 頃 (char)
-292. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes" = "tiger" + "stripes"
+291. <ruby>[執](/characters/執.md)<rt>ㄐㄧㄆ</rt></ruby> - 㚔 ("a criminal, handcuffs," no vault page) + 丮 ("a hand," no vault page) — the oracle-bone and bronze forms depict 梏人雙手, "the shackled hands of a person": restraining and seizing a captive. In the modern glyph these components have distorted into 幸-like and 丸-like shapes. "To hold in the hand" → "to hold power, to manage" → "to arrest, to capture."
+292. <ruby>[婁](/characters/婁.md)<rt>ㄌㄨ</rt></ruby> - [[女 (char)|女]] ("a woman") + a doubled basket or headdress element (variously analyzed as [[爪 (char)|爪]] "hands" holding a horn-shaped [[角 (char)|角]] load, or in the simplified later form as [[母]] flanked by two baskets) — a woman carrying baskets or burdens: "to drag, to haul, to tether," and, as a homophone/loan, the name of a lunar-mansion constellation (婁宿) and a surname. Genuinely contested: zh.Wiktionary's own entry instead calls this composition 形聲, without naming a single external phonetic component.
+293. <ruby>[宿](/characters/宿.md)<rt>ㄙㄨㄎ</rt></ruby> - in its oracle-bone form, [[Radical 009|亻]] ("a person") resting on a bamboo mat, with [[Radical 040|宀]] ("a roof") added later — a person resting under a roof on a mat (the mat pictogram evolved into the modern glyph's 百 component): "to stay overnight, to lodge."
+294. <ruby>[寇](/characters/寇.md)<rt>ㄎㄛㄨ</rt></ruby> - [[Radical 040|宀]] ("a roof, a house"), [[元]] ("a person's head"), and [[Radical 066|攴]] ("a hand holding a rod, a weapon") — a hand striking another person's head inside their own house: an armed invader breaking in. Extended to "to invade, to plunder," "bandit, enemy," and (as a surname) 寇準, Kou Zhun.
+295. <ruby>[尉](/characters/尉%20(char).md)<rt>ㄨㄊ</rt></ruby> - possibly: 𡰥 (no vault page) + [[Radical 041|寸]] ("a hand") + [[火 (char)|火]] ("fire") — "an official position, an officer."
+296. <ruby>[彗](/characters/彗.md)<rt>ㄏㄝ</rt></ruby> - 甡 ("a broom," no vault page) held by [[又 (char)|又]] ("a hand") — a hand holding a broom of bamboo: "a broom," extended to "a comet" via its sweeping tail.
+297. <ruby>[悉](/characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - [[Radical 165|釆]] ("to distinguish, to discern") + [[Radical 061|心]] ("the heart, the mind") — Shuowen: 詳盡也，从心从釆 ("thorough; from 心 and 釆"): a mind that discerns thoroughly, extended to "all, entirely" alongside the original sense "to know, to comprehend fully."
+298. <ruby>[斬](/characters/斬%20(char).md)<rt>ㄐㄚㄇ</rt></ruby> - [[斤]] ("an axe") + [[車 (char)|車]] ("a cart") — an ancient punishment tearing a body apart with carts: "to cut, to chop, to behead."
+299. <ruby>[断](/characters/断.md)<rt>ㄉ⺢ㄋ</rt></ruby> - 𢇍 ("to cut," no vault page) + [[Radical 069|斤]] ("an axe") — cutting something off with an axe: "to sever," extended to "to decide."
+300. <ruby>[旋](/characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> - 㫃 ("a flag," no vault page) + 疋 ("a foot," no vault page) — marching under a flag: "to revolve, to turn," extended to "to return, to go back."
+301. <ruby>[族](/characters/族.md)<rt>ㄐㄛㄎ</rt></ruby> - [[㫃]] ("a flag") + [[Radical 111|矢]] ("an arrow") — a flag and an arrow clustered together, depicting a group of people gathered under a banner: "a tribe, a clan."
+302. <ruby>[曼](/characters/曼.md)<rt>ㄇㄚㄋ</rt></ruby> - perhaps two hands opening an eye, or two hands held over the eyebrows to indicate looking out over a wide place — "long, beautiful; wide, extensive." Also a rebus substitution (借代字) standing in for 鰻 ("eel," as in 曼魚).
+303. <ruby>[曹](/characters/曹.md)<rt>ㄐㄚㄨ</rt></ruby> - originally 㯥: two bundles of 東 (here "a pair, a peer, the same kind," no vault page in this sense) side by side, with 囗 later added as a distinguishing mark — "an official, an administrative division"; also a surname (as in Cao Cao, 曹操).
+304. <ruby>[渉](/characters/渉%20(char).md)<rt>ㄙㄝㄆ</rt></ruby> - per Shuowen, 从水从步: [[Radical 085|水]] ("water") + 步 ("to step, to walk," no vault page) — wading across water on foot: "to ford," extended to "to be involved with, to interfere." 涉 is the standard form (渉 a Japanese shinjitai variant).
+305. <ruby>[爽](/characters/爽.md)<rt>ㄙ⺢ㄫ</rt></ruby> - [[大 (char)|大]] ("big") + 㸚 (no vault page) — "bright," extended to "refreshing, frank."
+306. <ruby>[甜](/characters/甜.md)<rt>ㄉㄧㄇ</rt></ruby> - [[舌 (char)|舌]] ("tongue") + [[甘 (char)|甘]] ("sweet") — a rearrangement of 甛: "sweet."
+307. <ruby>[異](/characters/異.md)<rt>ㄧ</rt></ruby> - a person wearing a mask ([[Radical 102|田]], here representing a face-covering disguise rather than "field," compare [[鬼]] where 田 likewise derives from a mask) over the face — "disguised, uncommon: different." An alternative theory instead reads it as a person carrying something atop the head, the original form of [[戴 (char)|戴]] ("to carry on the head"). The modern glyph's apparent 田+共 decomposition is non-etymological.
+308. <ruby>[盗](/characters/盗.md)<rt>ㄉㄚㄨ</rt></ruby> - 㳄 ("drooling, craving," no vault page) + [[皿 (char)|皿]] ("a vessel") — coveting a vessel of another's possessions: "to steal."
+309. <ruby>[票](/characters/票%20(char).md)<rt>ㄆ⼘ㄨ</rt></ruby> - [[Radical 086|火]] ("fire") + 𢍱 ("to rise high," a pair of hands raising an object, later simplified to 覀) — sparks rising up: extended to "a paper slip or note that flutters up," hence "a ballot, a ticket."
+310. <ruby>[祭](/characters/祭.md)<rt>ㄐㄝ</rt></ruby> - [[肉 (char)|肉]] ("meat," shown turned sideways) held by [[又 (char)|又]] ("a hand") over [[Radical 113|示]] ("an altar") — a hand offering a piece of meat at the altar during a ceremony: "to sacrifice, to hold a rite."
+311. <ruby>[章](/characters/章%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - [[辛]] ("a chisel") + [[玉 (char)|玉]] ("jade," now written as 日) — incising a pattern into jade: "a mark, a seal," later "a chapter, a section."
+312. <ruby>[竟](/characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - per Shuowen: [[音]] ("sound, speech") + [[Radical 010|儿]] ("a person") — a person has finished speaking: originally "to finish, to end," extended to the adverbial "finally, after all, at last."
+313. <ruby>[粛](/characters/粛.md)<rt>ㄙㄨㄎ</rt></ruby> - composition disputed; Shuowen describes a person sweeping or walking with a staff near an abyss, trembling in fear — "solemn, reverent, austere."
+314. <ruby>[覓](/characters/覓.md)<rt>ㄇㄝㄎ</rt></ruby> - [[爪 (char)|爪]] ("a hand") over [[見 (char)|見]] ("to see") — using one's hand to search while looking: "to seek, to search for."
+315. <ruby>[規](/characters/規.md)<rt>ㄍㄨㄧ</rt></ruby> - [[夫 (char)|夫]] ("a grown man") + [[見 (char)|見]] ("to see") — a man's discerning eye: "a rule, a standard, a compass." Some scholars instead propose the left component is an abbreviated phonetic 癸, or the left-hand side of 矩.
+316. <ruby>[豚](/characters/豚%20(char).md)<rt>ㄊㄨㄋ</rt></ruby> - [[肉 (char)|肉]] ("meat, flesh") + [[豕]] ("a pig") — a pig raised for meat, specifically a piglet or suckling pig, distinct from the more general 豬/猪.
+317. <ruby>[軣](/characters/軣.md)<rt>ㄍ⼔ㄫ</rt></ruby> - three copies of [[車 (char)|車]] ("a cart") stacked together, evoking the rumble of many carts: "a rumble, an explosion." The Japanese shinjitai of traditional 轟.
+318. <ruby>[逸](/characters/逸%20(char).md)<rt>ㄧㄊ</rt></ruby> - [[Radical 162|辵]] ("movement") + 兔 ("a rabbit," no vault page) — a rabbit fleeing: "to flee, to escape," extended to "leisure, ease" (as one at large, unburdened).
+319. <ruby>[郵](/characters/郵.md)<rt>ㄨㄛ</rt></ruby> - [[垂]] ("far, remote") + [[Radical 163|邑]] ("a city, a settlement") — a relay station far from the city: extended to "mail, the post."
+320. <ruby>[郭](/characters/郭%20(char).md)<rt>ㄍ⺢ㄎ</rt></ruby> - a tall building (亯, "high," no vault page) + [[邑]] ("a city") — a tall wall around a city: "the outer city wall," extended to "an outline."
+321. <ruby>[郷](/characters/郷.md)<rt>ㄏ⼘ㄫ</rt></ruby> - 𠨍 ("two people facing each other," no vault page) + [[皀]] ("a round-mouthed food vessel") — originally depicting a ritual feasting scene, the ancestor of [[饗]] ("to feast"); phonetically borrowed or semantically shifted to "a village, a hometown, a community."
+322. <ruby>[閉](/characters/閉.md)<rt>ㄅㄝㄧ</rt></ruby> - [[門]] ("a door") + an abbreviated form of [[材]] ("timber") — a wooden bar or brace shutting a door: "to shut, to close."
+323. <ruby>[陳](/characters/陳.md)<rt>ㄐㄧㄋ</rt></ruby> - [[Radical 170|阜]] ("a mound, earthworks") + an ancient graphic element depicting rows arrayed along it — troops or goods arranged in rows along an earthwork: "to arrange in rows," extended to "to exhibit, to display," and (as a proper name) the ancient state of Chen.
+324. <ruby>[麻](/characters/麻.md)<rt>ㄇㄚ</rt></ruby> - [[Radical 053|广]] ("a shelter, a lean-to roof") over [[林 (char)|林]] ("two stalks," here a stand of plants) — hemp stalks hung to dry under a shelter: "hemp."
+325. <ruby>[兜](/characters/兜%20(char).md)<rt>ㄉㄨ</rt></ruby> - 𠑹 ("a cover," no vault page) over 皃 ("a head," no vault page) — a covering for the head: "a helmet," extended to "to wrap around, to encircle," and "to canvass, to peddle."
+326. <ruby>[啓](/characters/啓.md)<rt>ㄎㄝㄧ</rt></ruby> - 戶 ("a door," no vault page) + 又/攴 ("a hand") — a hand opening a door: "to open," extended to "to start, to inform, to enlighten."
+327. <ruby>[得](/characters/得.md)<rt>ㄊㄜㄎ</rt></ruby> - the ancient form is 㝵 (no vault page), composed of [[貝]] ("a cowry") + [[又 (char)|又]] ("a hand") — a hand picking up a cowry shell: "to obtain valuables." [[Radical 060|彳]] was later added to show the cowry being picked up on the road; the hand (又) was replaced with 寸 in Qin script, and the cowry (貝) simplified to 目, then corrupted to 旦 in clerical script. "To obtain, to get."
+328. <ruby>[掃](/characters/掃.md)<rt>ㄙㄚㄨ</rt></ruby> - [[Radical 064|手]] ("a hand") + [[帚]] ("a broom") — sweeping with a broom: "to sweep."
+329. <ruby>[敬](/characters/敬.md)<rt>ㄍ⼶ㄫ</rt></ruby> - [[苟 (char)|苟]] ("a kneeling person, submissive") + [[Radical 066|攴]] ("a hand holding a stick, authority") — compelling a submissive posture with authority: "respect, reverence."
+330. <ruby>[頃](/characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> - 匕 ("a person, tilted or upside down," no vault page) + [[頁 (char)|頁]] ("a head") — a person with their head tilted, the original sense now written as 傾 ("to tilt, to incline"); extended to "a brief moment" (a quick tilt of the head) and, as a unit of land area, "頃" (a PRC agricultural measure).
+331. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> - [[Radical 141|虎]] ("a tiger") + [[Radical 059|彡]] ("stripes, markings") — Shuowen: 虎文也，从虎，彡象其文也 ("tiger markings; from 虎, with 彡 depicting the pattern"); extended figuratively to "stalwart, muscular" (of a person's build) and "brilliant, illustrious" (彪炳).
 ### 12
-293. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 彭, 戟, 散, 敦, 敢, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 飧, 具, 喜 (char), 奥 (char), 就 (char), 幾 (char), 弼, 斯, 普, 朝 (char), 登 (char), 粤
+332. 備, 制, 卿 (char), 善 (char), 喪, 報 (char), 寒, 尊, 尋 (char), 巽, 彭, 戟, 散, 敦, 敢, 晶, 替, 最 (char), 棗, 棘, 森, 焚, 焦 (char), 畳 (char), 筋, 粥 (char), 絞, 絶 (char), 買, 道 (char), 量, 閑, 閏 (char), 間, 閙, 飧, 具, 喜 (char), 奥 (char), 就 (char), 幾 (char), 弼, 斯, 普, 朝 (char), 登 (char), 粤
 ### 13
-294. 咎, 塞, 嵩, 意, 棄, 楽, 煩 (char), 罪 (char), 聖, 蒐, 辟, 遣 (char), 雷 (char), 鼓 (char), 喿, 嗇, 季, 毀 (char), 羨, 蜀, 解 (char), 農
+333. 咎, 塞, 嵩, 意, 棄, 楽, 煩 (char), 罪 (char), 聖, 蒐, 辟, 遣 (char), 雷 (char), 鼓 (char), 喿, 嗇, 季, 毀 (char), 羨, 蜀, 解 (char), 農
 ### 14
-295. 塵, 奪, 寡, 徴, 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 獄, 疑
+334. 塵, 奪, 寡, 徴, 算 (char), 綿, 罰, 翟, 蔑 (char), 需, 鳴 (char), 獄, 疑
 ### 15
-296. 器, 審, 履 (char), 慶 (char), 暴 (char), 監, 磊, 罷, 質, 霅, 熟, 魯
+335. 器, 審, 履 (char), 慶 (char), 暴 (char), 監, 磊, 罷, 質, 霅, 熟, 魯
 ### 16
-297. 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 曇 (char)
+336. 叡, 奮, 憩, 獣, 罹, 興 (char), 薦, 霍, 曇 (char)
 ### 17
-298. 竃, 頻 (char), 鮮
+337. 竃, 頻 (char), 鮮
 ### 18
-299. 竄, 繭 (char), 闖
+338. 竄, 繭 (char), 闖
 ### 19
-300. 羅, 覇, 麗
+339. 羅, 覇, 麗
 ### 20+
-301. 競, 灋, 欝, 鑫
+340. 競, 灋, 欝, 鑫
 
 ## Base check
 ```base
