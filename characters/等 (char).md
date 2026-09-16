@@ -31,7 +31,7 @@ graphemic_classification: 寺
 stand_in: 等
 aliases:
 注音: ㄉㄨㄫ
-date-last-perfect: 2026-04-04
+date-last-perfect: 2026-09-15
 kwin: false
 tags:
   - character
@@ -43,15 +43,19 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- There were two pronunciations in MC: /tʌi/ and /təŋ/
-- 形声 (OC \*tɯːʔ, \*tɯːŋʔ): semantic [竹](Radical%20118) (“bamboo”) + phonetic [寺](寺.md) (OC \*ljɯs).
+- 形声 (OC \*tɯːʔ, \*tɯːŋʔ, two distinct Middle Chinese pronunciations /tʌi/ and /təŋ/ reflecting the two Old Chinese readings): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[寺]] (OC \*ljɯs).
 - [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 291st most used character in Classical Chinese.  [[聲 端|Initial t]] + [[韻 登開|əŋ]] = [ㄉㄨㄫ](../syllables/ㄉㄨㄫ.md)
-- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Grade 1](../lookup/Grade%201.md)
+- 291st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄉㄨㄫ](../syllables/ㄉㄨㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 
 ## Words
+- <ruby>[[等]]<rt>ㄉㄨㄫ</rt></ruby> "etc.; rank" (stand-in for 等)
 - <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
+- <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby> "you'all"
+- <ruby>[[我等]]<rt>ㄚㄉㄨㄫ</rt></ruby> "we, us"
+- <ruby>[[其人等]]<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby> "they"
+- <ruby>[[等級]]<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby> "grade, level, ranking, class"
 - <ruby>[[平等]]<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby> "equality, be equal"
 - <ruby>[[恒等式]]<rt>ㄏㄨㄫㄉㄨㄫㄙㄧㄎ</rt></ruby> "identity"
 - <ruby>[[等分]]<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby> "divide into equal parts"

@@ -35,7 +35,7 @@ stand_in: 其
 aliases:
   - 丌
 注音: ㄍㄜ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-15
 kwin: false
 tags:
   - character
@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[尤其]]<rt>⼜ㄛㄍㄜ</rt></ruby> "especially; besides"
 
 ## Derived Characters
+- <ruby>[[箕]]<rt>ㄍㄧ</rt></ruby> "sieve; winnowing basket"
 - <ruby>[[麒]]<rt>ㄍㄧ</rt></ruby> "qilin"
 - <ruby>[[期 (char)|期]]<rt>ㄎㄧ</rt></ruby> "period; time; season"
 - <ruby>[[基]]<rt>ㄍㄧ</rt></ruby> "foundation; base"

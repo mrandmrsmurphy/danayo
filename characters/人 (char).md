@@ -33,7 +33,7 @@ aliases:
   - ⺈
   - 𠂉
 注音: ㄋㄧㄋ
-date-last-perfect: 2026-03-29
+date-last-perfect: 2026-09-15
 kwin: false
 tags:
   - character
@@ -51,8 +51,10 @@ boundedness: 75
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 - 10th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]]
 ### Derived Characters (not the radical)
-- <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby>
-- <ruby>[四 (char)](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby>
+- <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach out to"
+- <ruby>[[信]]<rt>ㄙㄧㄋ</rt></ruby> "trust, believe"
+- <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> "thousand"
+- <ruby>[[仁]]<rt>ㄋㄧㄋ</rt></ruby> "benevolence"
 ## Words
 - <ruby>[[人]]<rt>ㄋㄧㄋ</rt></ruby> "person; humanity" (stand-in for 人)
 - <ruby>[[丈人]]<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"
