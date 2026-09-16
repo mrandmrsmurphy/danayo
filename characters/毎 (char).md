@@ -30,7 +30,7 @@ stand_in: 毎
 aliases:
   - 每
 注音: ㄇㄛㄧ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - adverbial
@@ -69,3 +69,6 @@ boundedness:
 - <ruby>[[侮]]<rt>ㄇㄨ</rt></ruby> "scorn, insult"
 - <ruby>[[梅]]<rt>ㄇㄛㄧ</rt></ruby> "plum, prune"
 - <ruby>[[海]]<rt>ㄏㄚㄧ</rt></ruby> "sea"
+- <ruby>[[敏 (char)|敏]]<rt>ㄇㄧㄋ</rt></ruby> "fast, quick"
+- <ruby>[[悔]]<rt>ㄏㄛㄧ</rt></ruby> "repent, regret"
+- <ruby>[[晦]]<rt>ㄏㄛㄧ</rt></ruby> "dark, obscure"

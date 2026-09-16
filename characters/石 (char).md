@@ -28,7 +28,7 @@ graphemic_classification: 象形
 stand_in: 石
 aliases:
 注音: ㄙㄝㄎ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -45,6 +45,7 @@ boundedness: 90
 - 254th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄙㄝㄎ](../syllables/ㄙㄝㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby> "rock, stone" (stand-in for 石)
 - <ruby>[[石榴]]<rt>ㄙㄝㄎㄌ⼜</rt></ruby> "pomegranate"
 - <ruby>[[石素]]<rt>ㄙㄝㄎㄙㄛ</rt></ruby> "lithium, abbreviated 石"
 - <ruby>[[硯石]]<rt>ㄝㄋㄙㄝㄎ</rt></ruby> "inkstone"
@@ -73,3 +74,5 @@ boundedness: 90
 - <ruby>[[庶]]<rt>ㄙ⼄</rt></ruby> "commoner"
 - <ruby>[[妬]]<rt>ㄉㄛ</rt></ruby> "jealous, envious"
 - <ruby>[[拓]]<rt>ㄊㄚㄎ</rt></ruby> "expand, open up"
+- <ruby>[[橐]]<rt>ㄊㄚㄎ</rt></ruby> "bag open at both ends"
+- <ruby>[[碩]]<rt>ㄙㄝㄎ</rt></ruby> "big, large"

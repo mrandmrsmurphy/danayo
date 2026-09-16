@@ -32,7 +32,7 @@ aliases:
   - 盐
 注音: ⼶ㄇ
 kwin: true
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-09-16
 tags:
   - character
 boundedness: 75
@@ -51,6 +51,7 @@ boundedness: 75
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[塩]]<rt>⼶ㄇ</rt></ruby> "salt" (stand-in for 塩)
 - <ruby>[[塩素]]<rt>⼶ㄇㄙㄛ</rt></ruby> "chlorine"
 
 ## Chengyu
