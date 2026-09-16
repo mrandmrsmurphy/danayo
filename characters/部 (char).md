@@ -31,7 +31,7 @@ graphemic_classification: "咅"
 stand_in: "部"
 aliases:
 注音: "ㄅㄛㄨ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -72,11 +72,3 @@ boundedness: 90
 - <ruby>[[内部]]<rt>ㄋㄛㄧㄅㄛㄨ</rt></ruby> "interior, inside"
 - <ruby>[[全部]]<rt>ㄐ⼔ㄋㄅㄛㄨ</rt></ruby> "entirety; everything"
 - <ruby>[[部位]]<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby> "region, site"
-
-## Derived Characters
-- <ruby>[[陪 (char)|陪]]<rt>ㄅㄛㄧ</rt></ruby> "accompany, be with, keep company"
-- <ruby>[[剖]]<rt>ㄈㄛㄨ</rt></ruby> "dissect, bisect"
-- <ruby>[[賠]]<rt>ㄅㄛㄧ</rt></ruby> "indemnify, pay damages"
-- <ruby>[[倍 (char)|倍]]<rt>ㄅㄚㄧ</rt></ruby> "times"
-- <ruby>[[菩]]<rt>ㄅㄛ</rt></ruby> "bodhisattva"
-- <ruby>[[培]]<rt>ㄈㄛㄧ</rt></ruby> "cultivate"

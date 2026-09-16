@@ -101,10 +101,10 @@
 | 83  |      hand       |  手   |   手    |   手    |          手           |       手 (손 수)        |                拪tay                | <ruby>[[手]]<rt>ㄙ⼜</rt></ruby>  |     |
 | 84  |      wing       |  翼   |   翅膀   |   翼    |          翼           |       翼 (날개 익)       |               𫅩cánh               | <ruby>[[羽翼]]<rt>ㄨㄧㄎ</rt></ruby>  |     |
 | 85  |      belly      |  肚   |   肚子   |   肚    |          腹           |                      |               䏾bụng                | <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby>  |     |
-| 86  |       gut       |  腸   |   腸子   |   腸    |          腸           |                      |               𫆧ruột               |              腸管 canggwan               |     |
-| 87  |      neck       |  頸   |   脖子   |   頸    |          首           |                      |                股cổ                 |                 頸 ging                 |     |
-| 88  |      back       |  背   |   背    |   背    |          背           |       背 (등 배)        |               𦡟lưng               |                 背 boi                  |     |
-| 89  |     breast      |  乳   |   胸    |   胸    |          胸           |       胸 (가슴 흉)       |               𦙏ngực               |              胸部 hyongbou               |     |
+| 86  |       gut       |  腸   |   腸子   |   腸    |          腸           |                      |               𫆧ruột               | <ruby>[[腸管]]<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>  |     |
+| 87  |      neck       |  頸   |   脖子   |   頸    |          首           |                      |                股cổ                 | <ruby>[[頚]]<rt>ㄍㄧㄫ</rt></ruby>  |     |
+| 88  |      back       |  背   |   背    |   背    |          背           |       背 (등 배)        |               𦡟lưng               | <ruby>[[背]]<rt>ㄅㄛㄧ</rt></ruby>  |     |
+| 89  |     breast      |  乳   |   胸    |   胸    |          胸           |       胸 (가슴 흉)       |               𦙏ngực               | <ruby>[[胸部]]<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby>  |     |
 | 90  |      heart      |  心   |   心臟   |   心    |          心           |       心 (마음 심)       |                芯tim                |               心臓 simjang               |     |
 | 91  |      liver      |  肝   |   肝    |   肝    |          肝           |       肝 (간 간)        |                肝gan                |               肝臓 ganjang               |     |
 | 92  |      drink      |  飲   |   喝    |   飲    |          飲む          |                      |               㕵uống                |                 飲 'um                  |     |
