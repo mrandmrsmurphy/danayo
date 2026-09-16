@@ -32,9 +32,8 @@ stand_in: 月
 aliases:
   - 𡇹
   - 𠥱
-swadesh: "148"
 注音: ⼔ㄊ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -54,6 +53,7 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 ### Moon
+- <ruby>[[月]]<rt>⼔ㄊ</rt></ruby> "moon; month" (stand-in for 月)
 - <ruby>[[望月]]<rt>ㄇㄚㄫ⼔ㄊ</rt></ruby> "full moon"
 - <ruby>[[蜜月]]<rt>ㄇㄧㄊ·⼔ㄊ</rt></ruby> "honeymoon"
 - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> "bright moon; jewel"
@@ -124,3 +124,4 @@ boundedness: 80
 - <ruby>[[日月星辰]]<rt>ㄋㄧㄊ·⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"
 ## Derived Characters
 - <ruby>[[外]]<rt>⺢ㄧ</rt></ruby> "outside"
+- <ruby>[[覇]]<rt>ㄅㄚ</rt></ruby> "hegemony"

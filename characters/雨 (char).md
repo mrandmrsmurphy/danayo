@@ -30,7 +30,7 @@ aliases:
   - 雩
   - 䨒
 注音: ㄨ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -64,4 +64,5 @@ boundedness: 90
 - <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> "plan ahead: "before it rains, bind around with silk""
 
 ## Derived Characters
-- <ruby>[[黍]]<rt>ㄙ⼄</rt></ruby> "millet"
+- <ruby>[[需]]<rt>ㄙㄨ</rt></ruby> "need"
+- <ruby>[[霍]]<rt>ㄍ⺢ㄎ</rt></ruby> "sudden, quick"

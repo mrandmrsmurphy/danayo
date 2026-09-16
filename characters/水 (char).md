@@ -28,7 +28,7 @@ mc_id: 124
 graphemic_classification: "象形"
 stand_in: "水"
 注音: "ㄙㄨ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -78,9 +78,17 @@ boundedness: 80
 - <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby> "quicksilver; mercury"
 - <ruby>[[水曜日]]<rt>ㄙㄨ·⼄ㄨㄋㄧㄊ</rt></ruby> "Wednesday"
 - <ruby>[[界水]]<rt>ㄍ⼶ㄙㄨ</rt></ruby> "water boundary"
+- <ruby>[[水稲]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "rice grown in a paddy"
+- <ruby>[[洪水]]<rt>ㄏㄛㄫㄙㄨ</rt></ruby> "flood"
+- <ruby>[[水面]]<rt>ㄙㄨㄇ⼶ㄋ</rt></ruby> "water surface"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "forests and streams, many mountains and rivers"
 - <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 - <ruby>[[落花流水]]<rt>ㄌㄚㄎㄏ⺢ㄌ⼜ㄙㄨ</rt></ruby> "scattered like fallen blossoms swept away by the current"
 - <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"
+
+## Derived Characters
+- <ruby>[[沓]]<rt>ㄉㄛㄆ</rt></ruby> "numerous, overlapping"
+- <ruby>[[灋]]<rt>ㄆㄛㄆ</rt></ruby> "natural law, justice"
+- <ruby>[[益]]<rt>ㄝㄎ</rt></ruby> "benefit"

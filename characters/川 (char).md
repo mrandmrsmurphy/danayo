@@ -30,7 +30,7 @@ stand_in: 川
 aliases:
   - 巛
 注音: ㄑ⺢ㄋ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -65,7 +65,6 @@ boundedness: 70
 ## Derived Characters
 - <ruby>[[訓 (char)|訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; paraphrase; explicate; exegete"
 - <ruby>[[巡]]<rt>ㄙ⼜ㄋ</rt></ruby> "patrol; go on circuit"
-- <ruby>[[拶]]<rt>ㄐ⺢ㄊ</rt></ruby> "compel"
 - <ruby>[[釧]]<rt>ㄑㄝㄋ</rt></ruby> "bracelet; armlet"
 - <ruby>[[順]]<rt>ㄙ⼜ㄋ</rt></ruby> "in order; smooth"
 - <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> "tame"

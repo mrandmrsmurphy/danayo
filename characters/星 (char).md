@@ -34,9 +34,8 @@ aliases:
   - 𤯢
   - 皨
   - 𤾪
-swadesh: "149"
 注音: ㄙㄝㄫ
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -54,7 +53,6 @@ boundedness: 80
 - [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](syllables/ㄙㄝㄫ.md)
 - [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- [Swadesh #149](lexipedia/Swadesh.md)
 
 ## Words
 - <ruby>[[星]]<rt>ㄙㄝㄫ</rt></ruby> "star"
@@ -72,23 +70,22 @@ boundedness: 80
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
 - <ruby>[[冥王星]]<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet, Singapore"
-- [[星条旗]] "stars and stripes"
-- [[星霜]] "time and years"
+- <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛㄎㄧ</rt></ruby> "stars and stripes"
+- <ruby>[[星霜]]<rt>ㄙㄝㄫㄙ⺢ㄫ</rt></ruby> "time and years"
+- <ruby>[[占星]]<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby> "divination"
+- <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"
+- <ruby>[[彗星]]<rt>ㄏㄝㄙㄝㄫ</rt></ruby> "comet"
+- <ruby>[[星群]]<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby> "asterism"
+- <ruby>[[星坐]]<rt>ㄙㄝㄫㄐ⺢</rt></ruby> "constellation"
+- <ruby>[[天狼星]]<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> "Sirius, Dog Star"
+- <ruby>[[小行星]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby> "asteroid"
+- <ruby>[[海王星]]<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby> "Neptune"
+- <ruby>[[織女星]]<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby> "Vega"
+- <ruby>[[天王星]]<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
+
+## Chengyu
+- <ruby>[[日月星辰]]<rt>ㄋㄧㄊ·⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"
 
 ## Derived Characters
-- 惺
-- 湦
-- [[猩]]
-- 暒
-- 煋
-- 瑆
-- 腥
-- 睲
-- 䃏
-- 䗌
-- 謃
-- [[醒]]
-- 鍟 (𰾝)
-- 鯹 (𬶢)
-- 戥
-- 篂
+- <ruby>[[猩]]<rt>ㄙㄝㄫ</rt></ruby> "orangutan"
+- <ruby>[[醒]]<rt>ㄙㄝㄫ</rt></ruby> "sober"
