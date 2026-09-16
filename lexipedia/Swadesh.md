@@ -39,16 +39,16 @@
 |     |  ten thousand   |      |   萬    |   萬    |          万           |                      |                                    |               <ruby>[[一万]]<rt>ㄧㄊㄇㄛㄋ</rt></ruby>                |     |
 | 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |    <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby>    |     |
 | 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |    <ruby>[[長]]<rt>ㄐㄚㄫ</rt></ruby>    |     |
-|     |   long (time)   |      |   久    |        |                      |                      |                                    |                 [[久]] gyu                  |     |
+|     |   long (time)   |      |   久    |        |                      |                      |                                    |                 <ruby>[[久]]<rt>ㄍ⼜</rt></ruby>                  |     |
 | 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |    <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby>    |     |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |    <ruby>[[厚]]<rt>ㄏㄛㄨ</rt></ruby>    |     |
-|     |   thick (2D)    |      |   粗    |        |                      |                      |        |      粗糙 jocau                                                     |     |
-|     | thick (crowded) |      |   密    |        |                      |                      |        |       密 mit                                                    |     |
-|     |  thick (dense)  |      |   濃    |        |                      |                      |        |     濃厚 nonghou                                                  |     |
+|     |   thick (2D)    |      |   粗    |        |                      |                      |        |      <ruby>[[粗糙]]<rt>ㄐㄛ·ㄐㄛ</rt></ruby>                                                     |     |
+|     | thick (crowded) |      |   密    |        |                      |                      |        |       <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>                                                    |     |
+|     |  thick (dense)  |      |   濃    |        |                      |                      |        |     <ruby>[[濃厚]]<rt>ㄋㄛㄫㄏㄛㄨ</rt></ruby>                                                  |     |
 | 31  |      heavy      |  重   |   重    |   重    |          重い          |      重 (무거울 중)       |              𨤼 nặng               |    <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby>    |     |
 | 32  |      small      |  小   |   小    |   細    |         小さい          |       小 (작을 소)       |               𡮈 nhỏ               |    <ruby>[[小]]<rt>ㄙㄛ</rt></ruby>    |     |
 | 33  |      short      |  短   |   短    |   短    |          短い          |       短 (짧을 단)       |              𥐉 ngắn               |    <ruby>[[短]]<rt>ㄉ⺢ㄋ</rt></ruby>    |     |
-| 34  |     narrow      |  狹   |   窄    |   窄    |          狭い          |          狭           |               狭 hẹp                |                 狹 hap                  |     |
+| 34  |     narrow      |  狹   |   窄    |   窄    |          狭い          |          狭           |               狭 hẹp                |            <ruby>[[狭窄]]<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>            |     |
 | 35  |      thin       |  細   |   薄    |   薄    |          細い          |       薄 (엷을 박)       |               𤷍 gầy               |                 [[薄]] bak                  |     |
 | 36  |      woman      |  女   |   女人   |   女人   |          女           |      女子 (여자/녀자)      |             婦女 phụ nữ              |    <ruby>[[女人]]<rt>ㄋㄜㄋㄧㄋ</rt></ruby>    |     |
 | 37  |       man       |  男   |   男人   |   男人   |          男           |       男子 (남자)        |             彈翁 đàn ông             |    <ruby>[[男人]]<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby>    |     |
