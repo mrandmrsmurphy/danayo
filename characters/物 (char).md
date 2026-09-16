@@ -31,13 +31,13 @@ graphemic_classification: 勿
 stand_in: 物
 aliases:
 注音: ㄇㄨㄊ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
 boundedness: 50
 ---
->[!tip] This is about the character.
+>[!tip] This is a page about the character 物.
 >For the word, see [物](words/物.md).
 ```meta-bind-embed
 [[nav/char_info]]

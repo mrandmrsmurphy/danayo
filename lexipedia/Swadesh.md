@@ -57,8 +57,8 @@
 | 40  |      wife       |  妻   |   妻子   |   老婆   |          妻           |       妻 (아내 처)       |               𡞕 vợ                |    <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby>    |     |
 | 41  |     husband     |  夫   |   丈夫   |   老公   |          夫           | 男便 (남편) , 夫 (지아비 부)  |             重+夫 chồng              |    <ruby>[[丈夫]]<rt>ㄑㄚㄫㄈㄜ</rt></ruby>    |     |
 | 42  |     mother      |  母   |   母親   |   阿媽   |          母           |       母 (어미 모)       |                媄 mẹ                |    <ruby>[[母親]]<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>    |     |
-| 43  |     father      |  父   |   父親   |   阿爸   |          父           |       父 (아비 부)       |               𤕔 cha               |                父親 bucin                |     |
-| 44  |     animal      |      |   動物   |   動物   | 獣 (native) 動物 (sino) |       衆生 -- 짐승       | 動物động vật，𡥵物con vật, 𩑛物loài vật |        動物 dongmut ,  野獣 'yasyu         |     |
+| 43  |     father      |  父   |   父親   |   阿爸   |          父           |       父 (아비 부)       |               𤕔 cha               |    <ruby>[[父親]]<rt>ㄅㄨㄑㄧㄋ</rt></ruby>    |     |
+| 44  |     animal      |      |   動物   |   動物   | 獣 (native) 動物 (sino) |       衆生 -- 짐승       | 動物động vật，𡥵物con vật, 𩑛物loài vật |    <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby>, <ruby>[[野獣]]<rt>⼘ㄙ⼜</rt></ruby>    |     |
 | 45  |      fish       |  魚   |   魚    |   魚    |          魚           |      魚 (물고기 어)       |                𩵜cá                |                 魚 'yo                  |     |
 | 46  |      bird       |  鳥   |   鳥    |   雀    |          鳥           |       鳥 (새 조)        |               𪀄chim               |                 鳥 cou                  |     |
 | 47  |       dog       |  犬   |   狗    |   狗    |          犬           |       犬 (개 견)        |                㹥chó                |                 犬 kwen                 |     |

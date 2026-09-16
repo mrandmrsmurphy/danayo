@@ -37,7 +37,7 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
 - <ruby>[[受動]]<rt>ㄙ⼜ㄉㄛㄫ</rt></ruby> "passive (voice); receptive"
 - <ruby>[[労動]]<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby> "labor; toil"
+- <ruby>[[移動]]<rt>⼶ㄧㄉㄛㄫ</rt></ruby> "mobile; moveable"
 - <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> "animal"
 - <ruby>[[動詞]]<rt>ㄉㄛㄫㄙㄚ</rt></ruby> "verb"
 - <ruby>[[流動]]<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby> "flow; spread; circulate"
