@@ -6,7 +6,6 @@ korean_native: 눈
 japanese:
   - SETSU
 japanese_native: ゆき
-  - ゆき
 vietnamese:
   - tuyết
 middle_chinese_initial: s
@@ -31,7 +30,7 @@ aliases:
   - 鱈
   - 䨮
 注音: ㄙ⼔ㄊ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character

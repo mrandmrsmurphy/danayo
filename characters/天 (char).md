@@ -41,7 +41,7 @@ aliases:
   - 靔
   - 𠀑
 注音: ㄊㄝㄋ
-date-last-perfect: 2026-06-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -58,16 +58,25 @@ boundedness: 80
 - 20th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄊㄝㄋ](syllables/ㄊㄝㄋ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 - abbreviation for "uranium": <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>
+
+## Derived Characters
+- <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"
+- <ruby>[[忝]]<rt>ㄊㄧㄇ</rt></ruby> "shame"
+
 ## Chengyu
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
-- [[天真乱漫]] "simple and artless"
-- [[海闊天空]] "as boundless as the sky and sea; free and unrestrained"
+- <ruby>[[天真乱漫]]<rt>ㄊㄝㄋㄐㄧㄋㄌㄚㄋㄇㄚㄋ</rt></ruby> "simple and artless"
+- <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "as boundless as the sky and sea; free and unrestrained"
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
-- [[孝親天賜]] "honor your parents, that heaven may bless you"
+- <ruby>[[孝親天賜]]<rt>ㄏ⼘ㄨㄑㄧㄋㄊㄝㄋㄙㄝ</rt></ruby> "honor your parents, that heaven may bless you"
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
+- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
+- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄝㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
 
 ## Words
+- <ruby>[[天]]<rt>ㄊㄝㄋ</rt></ruby> "sky, heaven" (stand-in for 天)
 - <ruby>[[天地]]<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby> "heaven and earth; the world"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world; all under heaven"
 - <ruby>[[天地人]]<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby> "heaven, earth, and humankind"
