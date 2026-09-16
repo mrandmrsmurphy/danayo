@@ -37,14 +37,14 @@ stand_in: "殺"
 aliases:
   - 杀
 注音: "ㄙㄚㄊ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
-> [!tip] This is about the character.
-> For the word, see [殺](words/殺.md).
+>[!tip] This is a page about the character 殺.
+>For the word, see [殺](words/殺.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -65,3 +65,6 @@ boundedness: 80
 ## Chengyu
 - <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ·⼔ㄋ</rt></ruby> "murder, adultery, theft, lying"
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"
+
+## Derived Characters
+- <ruby>[[弒]]<rt>ㄊㄧ</rt></ruby> "assassinate"
