@@ -1,7 +1,7 @@
 ---
 mandarin: qiè
 cantonese: cit3
-korean: 체
+korean: 절
 korean_native: 끊을
 japanese:
   - SETSU
@@ -36,7 +36,7 @@ graphemic_classification: 七
 stand_in: 切
 aliases:
 注音: ㄑㄝㄊ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
