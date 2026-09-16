@@ -33,7 +33,7 @@ aliases:
   - 冭
 注音: ㄊㄚㄧ
 kwin: true
-date-last-perfect: 2026-06-27
+date-last-perfect: 2026-09-16
 tags:
   - character
 boundedness: 90
@@ -73,3 +73,7 @@ boundedness: 90
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
 - <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄎㄍ⼔ㄋ</rt></ruby> "Taijiquan; tai chi"
 - <ruby>[[太様]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "greatly; exceedingly"
+
+## Derived Characters
+- <ruby>[[駄 (char)|駄]]<rt>ㄉㄚ</rt></ruby> "pack, carry"
+- <ruby>[[汰]]<rt>ㄊㄚㄧ</rt></ruby> "scour"

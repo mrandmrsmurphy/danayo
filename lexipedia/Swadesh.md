@@ -37,8 +37,8 @@
 |     |     hundred     |      |   百    |   百    |          百           |                      |                                    |               一百 'itbak                |     |
 |     |    thousand     |      |   千    |   千    |          千           |                      |                                    |               一千 'itcen                |     |
 |     |  ten thousand   |      |   萬    |   萬    |          万           |                      |                                    |               一万 'itmon                |     |
-| 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |                 太 dai                  |     |
-| 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |                 長 jang                 |     |
+| 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |    <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby>    |     |
+| 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |    <ruby>[[長]]<rt>ㄐㄚㄫ</rt></ruby>    |     |
 |     |   long (time)   |      |   久    |        |                      |                      |                                    |                 久 gyu                  |     |
 | 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |                  広 광                  |     |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |                 厚 hou                  |     |

@@ -32,7 +32,7 @@ stand_in: "大"
 aliases:
   - 亣
 注音: "ㄉㄚㄧ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -48,11 +48,6 @@ boundedness: 90
 - [SKIP-4-3-4](lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
 - 15th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄉㄚㄧ](syllables/ㄉㄚㄧ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
-
-## Chengyu
-- <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
-- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
-- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 
 ## Words
 - <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby> "big" (stand-in for 大)
@@ -80,7 +75,7 @@ boundedness: 90
 - <ruby>[[大陸]]<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> "continent"
 - <ruby>[[大食]]<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby> "gluttony; binge eating"
 - <ruby>[[大廈]]<rt>ㄉㄚㄧㄏㄚ</rt></ruby> "mansion; large building; skyscraper"
-- <ruby>[[大水]]<rt>ㄙㄚㄧㄙㄨ</rt></ruby> "flood"
+- <ruby>[[大水]]<rt>ㄉㄚㄧㄙㄨ</rt></ruby> "flood"
 - <ruby>[[大猩]]<rt>ㄉㄚㄧㄙㄝㄫ</rt></ruby> "gorilla"
 - <ruby>[[大綱]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> "rope; outline"
 - <ruby>[[大臣]]<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby> "official; minister"
@@ -122,7 +117,13 @@ boundedness: 90
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
 - <ruby>[[宏大]]<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby> "grand, magnificent, vast"
 
+## Chengyu
+- <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
+- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
+- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
+- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, aboveboard"
+- <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
+- <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously, guffaw"
+
 ## Derived Characters
 - <ruby>[[泰]]<rt>ㄊㄚㄧ</rt></ruby> "peaceful, safe"
-- <ruby>[[駄 (char)|駄]]<rt>ㄉㄚ</rt></ruby> "pack, carry"
-- <ruby>[[戻]]<rt>ㄌㄝㄊ</rt></ruby> "re-"
