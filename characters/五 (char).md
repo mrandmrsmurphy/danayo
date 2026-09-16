@@ -31,7 +31,7 @@ aliases:
   - 㐅
   - 𠄡
 注音: ㄛ
-date-last-perfect: 2026-02-01
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -44,41 +44,46 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- For anti-forgery purposes, use [[伍 (char)]]
-- [[Radical 007|二]] = [[SKIP-4-4-1]] ([[Stroke 04]])
-- [[Grade 1]], [[Jōyō - Kyōiku]], [[Korean MS]], [[lookup/HSK/HSK Beginner]]
-### Descendants
-- 人 + 五 = [[伍 (char)]]
-- 五 + 口 = [[吾]] (see there for more descendants)
-## Important Words
-* <ruby>[[五]]<rt>ㄛ</rt></ruby> "five" (stand-in for 五)
-* <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
-* <ruby>[[五礼]]<rt>ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
-* <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
-* <ruby>[[五馭]]<rt>ㄛ⼄</rt></ruby> "the Five Charioteering Techniques"
-* <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "the Five Classics"
-* <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
-* <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
-* <ruby>[[五行]]<rt>ㄛㄏㄚㄫ</rt></ruby> "Wu Xing"
-* <ruby>[[五臓]]<rt>ㄛㄐㄚㄫ</rt></ruby> "the Five Internal Organs"
-* <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
-* <ruby>[[五常]]<rt>ㄛㄙ⼘ㄫ</rt></ruby> "the Five Constant Virtues"
-* <ruby>[[五戒]]<rt>ㄛㄍ⼶</rt></ruby> "the Five Buddhist Precepts"
-* <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
-* <ruby>[[五色]]<rt>ㄛㄙㄧㄎ</rt></ruby> "the five traditional colors"
-* <ruby>[[五方]]<rt>ㄛㄈㄚㄫ</rt></ruby> "the Five Cardinal Directions"
-* <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
-* <ruby>[[五穀]]<rt>ㄛㄍㄛㄎ</rt></ruby> "the Five Grains"
-* <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
-* <ruby>[[五指]]<rt>ㄛㄐㄧㄜ</rt></ruby> "the five fingers"
-* <ruby>[[五官]]<rt>ㄛㄍ⺢ㄋ</rt></ruby> "the five sense organs; facial features"
-* <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
-* <ruby>[[五日]]<rt>ㄛㄋㄧㄊ</rt></ruby> "fifth"
-* <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
+- [List of 象形](lookup/List%20of%20象形.md): the modern X-like form no longer transparently depicts anything specific — early forms are thought to represent two crossed sticks used for counting. For anti-forgery purposes, use [[伍 (char)]].
+- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
+- 38th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](syllables/ㄛ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[五]]<rt>ㄛ</rt></ruby> "five" (stand-in for 五)
+- <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
+- <ruby>[[五礼]]<rt>ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
+- <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
+- <ruby>[[五馭]]<rt>ㄛ⼄</rt></ruby> "the Five Charioteering Techniques"
+- <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "the Five Classics"
+- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
+- <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
+- <ruby>[[五行]]<rt>ㄛㄏㄚㄫ</rt></ruby> "Wu Xing"
+- <ruby>[[五臓]]<rt>ㄛㄐㄚㄫ</rt></ruby> "the Five Internal Organs"
+- <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
+- <ruby>[[五常]]<rt>ㄛㄙ⼘ㄫ</rt></ruby> "the Five Constant Virtues"
+- <ruby>[[五戒]]<rt>ㄛㄍ⼶</rt></ruby> "the Five Buddhist Precepts"
+- <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby> "fifty"
+- <ruby>[[五色]]<rt>ㄛㄙㄧㄎ</rt></ruby> "the five traditional colors"
+- <ruby>[[五方]]<rt>ㄛㄈㄚㄫ</rt></ruby> "the Five Cardinal Directions"
+- <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
+- <ruby>[[五穀]]<rt>ㄛㄍㄛㄎ</rt></ruby> "the Five Grains"
+- <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
+- <ruby>[[五指]]<rt>ㄛㄐㄧㄜ</rt></ruby> "the five fingers"
+- <ruby>[[五官]]<rt>ㄛㄍ⺢ㄋ</rt></ruby> "the five sense organs; facial features"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
+- <ruby>[[五日]]<rt>ㄛㄋㄧㄊ</rt></ruby> "fifth"
+- <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
+- <ruby>[[十五]]<rt>ㄙㄧㄆ·ㄛ</rt></ruby> "fifteen"
+- <ruby>[[十五日]]<rt>ㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "fifteenth day of the month"
+
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
+
+## Derived Characters
+- <ruby>[[伍 (char)|伍]]<rt>ㄛ</rt></ruby> "troops" (人 + 五)
+- <ruby>[[吾]]<rt>ㄚ</rt></ruby> "I, me" (五 + 口; see there for more descendants)
+
 ### Links
 ![[nav/Numerals]]
-[[Lookup/CC/initials/聲 疑]]
-[[Lookup/CC/finals/韻 模]]
