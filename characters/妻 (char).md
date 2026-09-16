@@ -30,7 +30,7 @@ stand_in: 妻
 aliases:
   - 萋
 注音: ㄑㄝㄧ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -50,7 +50,7 @@ boundedness: 50
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby> "wife"
+- <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby> "wife" (stand-in for 妻)
 - <ruby>[[妻子]]<rt>ㄑㄝㄧㄐㄜ</rt></ruby> "women and children; wife and child"
 
 ## Chengyu

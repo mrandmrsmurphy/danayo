@@ -32,7 +32,7 @@ aliases:
   - 兒
   - 儿
 注音: ㄝㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
