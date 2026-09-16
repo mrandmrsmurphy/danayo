@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 臥.
 >For the word, see [臥](words/臥.md)
@@ -47,7 +47,7 @@ date-last-perfect: 2026-08-01
 
 ## Notes
 - 会意 of [[臣]] ("eye pointing down") + [[人]] ("person") — a person bent down, prostrate.
-- [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 9](../lookup/Stroke/Stroke%2009.md))
+- [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1278th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [⺢](../syllables/⺢.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 

@@ -31,13 +31,13 @@ graphemic_classification: 象形
 stand_in: 立
 aliases:
 注音: ㄌㄧㄆ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
->[!tip] This is a page about the character **立**.
+>[!tip] This is a page about the character 立.
 >For the word, see [立](words/立.md)
 >For the radical, see [Radical 117](../lookup/Radicals/Radical%20117.md).
 ```meta-bind-embed
@@ -57,7 +57,6 @@ boundedness: 90
 - <ruby>[[佇立]]<rt>ㄐㄛㄌㄧㄆ</rt></ruby> "stand still"
 - <ruby>[[成立]]<rt>ㄙㄧㄫㄌㄧㄆ</rt></ruby> "be born; gain approval; come into existence"
 - <ruby>[[独立国]]<rt>ㄉㄛㄎㄌㄧㄆㄍㄛㄎ</rt></ruby> "independent country"
-- <ruby>[[獨立]]<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby> "independent; independence"
 - <ruby>[[私立]]<rt>ㄙㄧㄜㄌㄧㄆ</rt></ruby> "private"
 - <ruby>[[創立]]<rt>ㄑ⺢ㄫㄌㄧㄆ</rt></ruby> "establish; found"
 - <ruby>[[孤立]]<rt>ㄍㄛㄌㄧㄆ</rt></ruby> "isolated; unrelated"
@@ -75,3 +74,6 @@ boundedness: 90
 - <ruby>[[泣 (char)|泣]]<rt>ㄎㄧㄆ</rt></ruby> "cry, sob"
 - <ruby>[[笠]]<rt>ㄌㄧㄆ</rt></ruby> "bamboo hat"
 - <ruby>[[翌 (char)|翌]]<rt>ㄧㄎ</rt></ruby> "the following, next"
+- <ruby>[[位]]<rt>⼔ㄧ</rt></ruby> "position"
+- <ruby>[[站]]<rt>ㄐㄚㄇ</rt></ruby> "station"
+- <ruby>[[靖]]<rt>ㄐㄧㄫ</rt></ruby> "pacify"

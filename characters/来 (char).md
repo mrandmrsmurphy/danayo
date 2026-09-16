@@ -31,7 +31,7 @@ stand_in: "来"
 aliases:
   - 來
 注音: "ㄌㄚㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -70,3 +70,5 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley"
 - <ruby>[[莱]]<rt>ㄌㄚㄧ</rt></ruby> "Penglai"
+- <ruby>[[嗇]]<rt>ㄙㄧㄎ</rt></ruby> "stingy"
+- <ruby>[[李]]<rt>ㄌㄧ</rt></ruby> "plum"
