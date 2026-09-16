@@ -19,7 +19,7 @@ pos: 性詞
 english:
   - yellow
 羅馬字: hwang
-諺文:  황
+諺文: 황
 joyo_level: "2"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -30,9 +30,8 @@ stand_in: 黄
 aliases:
   - 黃
   - 簧
-swadesh: 174
 注音: ㄏ⺢ㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -56,7 +55,7 @@ boundedness: 80
 ## Words
 - <ruby>[[黄]]<rt>ㄏ⺢ㄫ</rt></ruby> "yellow" (stand-in for 黄)
 - <ruby>[[黄泉]]<rt>ㄏ⺢ㄫㄐ⼔ㄋ</rt></ruby> "underground spring, underworld"
-- <ruby>[[黄沙]]<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby> "yellow sand, Asian dust"
+- <ruby>[[黄沙]]<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby> "yellow sand; Asian dust"
 - <ruby>[[黄昏]]<rt>ㄏ⺢ㄫㄏㄛㄋ</rt></ruby> "sunset"
 - <ruby>[[黄金]]<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> "gold"
 - <ruby>[[硫黄]]<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby> "sulfur"

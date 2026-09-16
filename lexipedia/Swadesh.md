@@ -188,9 +188,9 @@
 | 169 |      burn       |  焚   |   燒    |   燒    |         燃える          |                      |                                    |            <ruby>[[燃焼]]<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby>            |     |
 | 170 |      road       |  路   |   路    |  路, 道  |        道, 道路         |                      |               塘đường               |            <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>            |     |
 | 171 |    mountain     |      |   山    |   山    |          山           |       山 (뫼 산)        |               𡶀núi                |                <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>                |     |
-| 172 |     crimson     |  赤   |   紅    |   紅    |          赤           |       赤 and 紅        |            紅，𧺃hồng, đỏ            |                                        |     |
-| 173 |      green      |  青   |   綠    |   綠    |          緑           |          綠           |               𩇢xanh               |                                        |     |
-| 174 |     yellow      |  黃   |   黃    |   黄    |          黄           |       黃 (누를 황)       |               鐄vàng                |                黄 hwang                 |     |
+| 172 |     crimson     |  赤   |   紅    |   紅    |          赤           |       赤 and 紅        |            紅，𧺃hồng, đỏ            |                <ruby>[[紅]]<rt>ㄏㄛㄫ</rt></ruby>                |     |
+| 173 |      green      |  青   |   綠    |   綠    |          緑           |          綠           |               𩇢xanh               |                <ruby>[[緑]]<rt>ㄌㄛㄎ</rt></ruby>                |     |
+| 174 |     yellow      |  黃   |   黃    |   黄    |          黄           |       黃 (누를 황)       |               鐄vàng                |                <ruby>[[黄]]<rt>ㄏ⺢ㄫ</rt></ruby>                |     |
 | 175 |      white      |  白   |   白    |   白    |          白           |       白 (흰 백)        |              𤽸trắng               |                 白 bak                  |     |
 | 176 |      black      |  黑   |   黑    |   黑    |          黒           |       黑 (검을 흑)       |                黰đen                |                 黒 huk                  |     |
 | 177 |      night      |  夜   |   夜晚   |   夜晚   |          夜           |       夜 (밤 야)        |             點𣋁đêm tối             |                 夜 'ya                  |     |

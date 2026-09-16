@@ -6,8 +6,8 @@ korean_native: 초록빛
 japanese:
   - RYOKU
   - ROKU
-japanese_native: みどり
-  - つか
+japanese_native:
+  - みどり
 vietnamese:
   - lục
 middle_chinese_initial: l
@@ -32,7 +32,7 @@ aliases:
   - 綠
   - 绿
 注音: ㄌㄛㄎ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
