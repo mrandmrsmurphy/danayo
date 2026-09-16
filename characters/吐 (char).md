@@ -33,13 +33,12 @@ mc_id: 1524
 graphemic_classification: 土
 stand_in: 吐
 aliases:
-swadesh: 96
 注音: ㄊㄛ
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 吐.
 >For the word, see [吐](words/吐.md)
@@ -49,11 +48,11 @@ date-last-perfect: 2026-08-07
 ```
 
 ## Notes
-- 形声 (OC \*t̪ʰaːʔ): semantic [[Radical 030|口]] ("mouth") + phonetic [[土 (char)|土]] (OC \*l̥ʰaːʔ) — "to spit, vomit." A Swadesh-list word (#96/97).
+- 形声 (OC \*t̪ʰaːʔ): semantic [[Radical 030|口]] ("mouth") + phonetic [[土 (char)|土]] (OC \*l̥ʰaːʔ) — "to spit, vomit."
 - [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 1524th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](syllables/ㄊㄛ.md)
 - [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[吐](words/吐.md)<rt>ㄊㄛ</rt></ruby> "spit, vomit" (stand-in for 吐)
+- <ruby>[[吐]]<rt>ㄊㄛ</rt></ruby> "spit, vomit" (stand-in for 吐)
 - <ruby>[[呕吐]]<rt>ㄛㄨㄊㄛ</rt></ruby> "vomit, vomiting"

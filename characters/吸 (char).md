@@ -37,7 +37,7 @@ graphemic_classification: 及
 stand_in: 吸
 aliases:
 注音: ㄏㄧㄆ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -55,6 +55,7 @@ boundedness: 80
 - 2349th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 緝B三|ɣiɪp]] → [ㄏㄧㄆ](../syllables/ㄏㄧㄆ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
+- <ruby>[[吸]]<rt>ㄏㄧㄆ</rt></ruby> "suck; inhale" (stand-in for 吸)
 - <ruby>[[呼吸]]<rt>ㄏㄛㄏㄧㄆ</rt></ruby> "breathe, respiration"
 - <ruby>[[呼吸器]]<rt>ㄏㄛㄏㄧㄆㄎㄧㄜ</rt></ruby> "respirator, ventilator"
 - <ruby>[[吸血鬼]]<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby> "vampire"
