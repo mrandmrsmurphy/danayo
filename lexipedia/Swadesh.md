@@ -203,9 +203,9 @@
 | 184 |  old (not new)  |  老   |   老    |   舊    |     古い/老 in sino     |        老 or 古        |               𦓅 già               |                <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby>                |     |
 | 185 |      good       |  好   |   好    |   好    |          良い          |       好 (좋을 호)       |               卒 tốt                |                 <ruby>[[好]]<rt>ㄏㄚㄨ</rt></ruby>                  |     |
 | 186 |       bad       |  惡   |   壞    |   壞    |          悪い          |                      |                丑xấu                |                <ruby>[[悪]]<rt>ㄚㄎ</rt></ruby>                |     |
-| 187 |     rotten      |  腐   |   爛    |   爛    |          腐る          |                      |                墟hư                 |                腐敗 pubai                |     |
-| 188 |      dirty      |  污   |   髒    |   汚糟   |          汚い          |                      |                泮bẩn                |                  汚 'o                  |     |
-| 189 |    straight     |      |   直    |   直    |          直ぐ          |       直 (곧을 직)       |              𥊣thẳng               |                 直 jik                  |     |
+| 187 |     rotten      |  腐   |   爛    |   爛    |          腐る          |                      |                墟hư                 |                <ruby>[[腐敗]]<rt>ㄆㄨㄅㄚㄧ</rt></ruby>                |     |
+| 188 |      dirty      |  污   |   髒    |   汚糟   |          汚い          |                      |                泮bẩn                |                  <ruby>[[汚]]<rt>ㄛ</rt></ruby>                  |     |
+| 189 |    straight     |      |   直    |   直    |          直ぐ          |       直 (곧을 직)       |              𥊣thẳng               |                 <ruby>[[直]]<rt>ㄐㄧㄊ</rt></ruby>                  |     |
 | 190 |      round      |      |   圓    |   圓    |          丸い          |                      |               𡈺tròn               |                 圓 'wen                 |     |
 | 191 |      sharp      |  兓   |   尖    |   利    |          鋭い          |                      |               𡮸nhọn               |               鋭利 'yeliǝ                |     |
 | 192 |      dull       |  敦   |   鈍    |   掘    |          鈍い          |       鈍 (무딜 둔)       |                                    |                 鈍 don                  |     |

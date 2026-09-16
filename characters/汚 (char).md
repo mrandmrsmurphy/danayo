@@ -37,7 +37,7 @@ aliases:
   - 汙
   - 污
 注音: "ㄛ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -54,10 +54,11 @@ boundedness:
 - 2432nd most used character in Classical Chinese (ranking lists the variant form 污). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](../syllables/ㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
+- <ruby>[[汚]]<rt>ㄛ</rt></ruby> "dirty" (stand-in for 汚)
 - <ruby>[[汚染]]<rt>ㄛㄋ⼄ㄇ</rt></ruby> "pollute, contaminate"
 - <ruby>[[汚物]]<rt>ㄛㄇㄨㄊ</rt></ruby> "dirt, filth, garbage"
 - <ruby>[[汚穢]]<rt>ㄛ·ㄝ</rt></ruby> "filthy, filth"
 - <ruby>[[汚吏]]<rt>ㄛㄌㄧ</rt></ruby> "corrupt official"
 - <ruby>[[汚垢]]<rt>ㄛㄍㄛㄨ</rt></ruby> "dirt, grime, filth" (aliases: 污垢/汙垢)
 ## Chengyu
-- <ruby>[貪官汚吏](../chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> "corrupt official"
+- <ruby>[[貪官汚吏]]<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> "corrupt official"

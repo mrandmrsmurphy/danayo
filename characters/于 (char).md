@@ -33,7 +33,7 @@ stand_in: 于
 aliases:
   - 亐
 注音: ㄨ
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -55,3 +55,10 @@ boundedness: 70
 
 ## Words
 - <ruby>[[于]]<rt>ㄨ</rt></ruby> "to; dative" (stand-in for 于)
+
+## Derived Characters
+- <ruby>[[汚 (char)|汚]]<rt>ㄛ</rt></ruby> "dirty"
+- <ruby>[[宇]]<rt>ㄨ</rt></ruby> "universe, space"
+- <ruby>[[盂]]<rt>ㄨ</rt></ruby> "cup, basin"
+- <ruby>[[芋]]<rt>ㄨ</rt></ruby> "taro"
+- <ruby>[[迂]]<rt>ㄨ</rt></ruby> "roundabout, circuitous"

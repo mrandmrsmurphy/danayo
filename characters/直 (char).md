@@ -33,7 +33,7 @@ graphemic_classification: "会意"
 stand_in: "直"
 aliases:
 注音: "ㄐㄧㄊ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
