@@ -6,7 +6,6 @@ korean_native: 수풀
 japanese:
   - RIN
 japanese_native: はやし
-  - はやし
 vietnamese:
   - lâm
 middle_chinese_initial: l
@@ -34,7 +33,7 @@ aliases:
   - 婪
   - 菻
 注音: ㄌㄧㄇ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
