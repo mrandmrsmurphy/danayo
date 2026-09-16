@@ -30,7 +30,7 @@ graphemic_classification: 孚
 stand_in: 浮
 aliases:
 注音: ㄅㄨㄛ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -48,3 +48,6 @@ boundedness: 100
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 903rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄅㄨㄛ](../syllables/ㄅㄨㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[浮]]<rt>ㄅㄨㄛ</rt></ruby> "float, waft" (stand-in for 浮)

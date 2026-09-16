@@ -35,7 +35,7 @@ graphemic_classification: "指事"
 stand_in: "言"
 aliases:
 注音: "ㄝㄋ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -53,6 +53,7 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[言]]<rt>ㄝㄋ</rt></ruby> "say" (stand-in for 言)
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[言及]]<rt>ㄝㄋㄍㄨㄆ</rt></ruby> "to mention; to refer to"
 - <ruby>[[用言]]<rt>⼄ㄫ·ㄝㄋ</rt></ruby> "declinable word"
@@ -72,3 +73,7 @@ boundedness: 80
 
 ## Derived Characters
 - <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> "meet"
+- <ruby>[[計]]<rt>ㄍㄝㄧ</rt></ruby> "measure; plan; count"
+- <ruby>[[討]]<rt>ㄊㄚㄨ</rt></ruby> "debate; discuss"
+- <ruby>[[獄]]<rt>⼄ㄎ</rt></ruby> "prison"
+- <ruby>[[罰]]<rt>ㄅㄝㄊ</rt></ruby> "penalty"
