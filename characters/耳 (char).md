@@ -30,7 +30,7 @@ graphemic_classification: 象形
 stand_in: 耳
 aliases:
 注音: ㄋㄧ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -62,6 +62,11 @@ boundedness: 80
 
 ## Derived Characters
 - <ruby>[[恥]]<rt>ㄑㄧ</rt></ruby> "shame; disgrace"
-- <ruby>[[茸]]<rt>ㄋ⼄ㄫ</rt></ruby> "growth; mushroom"
 - <ruby>[[餌]]<rt>ㄋㄧ</rt></ruby> "bait; entice"
-- 聶 --> 摂 (char)
+- <ruby>[[摂 (char)|摂]]<rt>ㄋㄝㄆ</rt></ruby> "vicarious"
+- <ruby>[[声]]<rt>ㄙㄧㄫ</rt></ruby> "voice; sound"
+- <ruby>[[職]]<rt>ㄐㄧㄎ</rt></ruby> "duty"
+- <ruby>[[聖]]<rt>ㄙㄧㄫ</rt></ruby> "holy"
+- <ruby>[[聾]]<rt>ㄌㄛㄫ</rt></ruby> "deaf"
+- <ruby>[[聒]]<rt>ㄍ⺢ㄆ</rt></ruby> "noisy"
+- <ruby>[[聡]]<rt>ㄑㄛㄫ</rt></ruby> "clever"

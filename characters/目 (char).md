@@ -28,7 +28,7 @@ mc_id: 462
 graphemic_classification: 象形
 stand_in: 目
 注音: ㄇㄨㄎ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -46,6 +46,7 @@ boundedness: 90
 - 462nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄇㄨㄎ](../syllables/ㄇㄨㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[目]]<rt>ㄇㄨㄎ</rt></ruby> "eye" (stand-in for 目)
 - <ruby>[[題目]]<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> "topic"
 - <ruby>[[目前]]<rt>ㄇㄨㄎㄐㄝㄋ</rt></ruby> "present; right before one's eyes"
 - <ruby>[[目標]]<rt>ㄇㄨㄎㄅ⼄ㄨ</rt></ruby> "target; aim; goal"
@@ -56,3 +57,22 @@ boundedness: 90
 - <ruby>[[耳目]]<rt>ㄋㄧㄇㄨㄎ</rt></ruby> "eyes and ears; snoops and spies"
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance; obvious; apparent"
+
+## Derived Characters
+- <ruby>[[冒]]<rt>ㄇㄚㄨ</rt></ruby> "take a risk; adventure"
+- <ruby>[[盲]]<rt>ㄇㄚㄫ</rt></ruby> "blind"
+- <ruby>[[眺]]<rt>ㄊㄛㄨ</rt></ruby> "stare; gaze"
+- <ruby>[[睡]]<rt>ㄙㄨㄧ</rt></ruby> "drowse; sleep"
+- <ruby>[[瞼]]<rt>ㄍㄝㄇ</rt></ruby> "eyelid"
+- <ruby>[[盼]]<rt>ㄆㄚㄋ</rt></ruby> "clear-eyed; hope"
+- <ruby>[[眼]]<rt>ㄚㄋ</rt></ruby> "eyeball; pupil"
+- <ruby>[[瞬]]<rt>ㄙ⼜ㄋ</rt></ruby> "wink"
+- <ruby>[[瞳]]<rt>ㄉㄛㄫ</rt></ruby> "pupil (of the eye)"
+- <ruby>[[艮]]<rt>ㄍㄚㄋ</rt></ruby> "mountain trigram"
+- <ruby>[[相]]<rt>ㄙㄚㄫ</rt></ruby> "mutual"
+- <ruby>[[督]]<rt>ㄉㄛㄎ</rt></ruby> "oversee; supervise"
+- <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby> "look down from a height; overlook"
+- <ruby>[[眠]]<rt>ㄇㄝㄇ</rt></ruby> "doze"
+- <ruby>[[睾]]<rt>ㄍㄚㄨ</rt></ruby> "testicle"
+- <ruby>[[瞻]]<rt>ㄐㄝㄇ</rt></ruby> "look with reverence"
+- <ruby>[[𥈞]]<rt>ㄇㄚㄋ</rt></ruby> "conceal; dupe"
