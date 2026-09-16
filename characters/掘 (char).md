@@ -36,11 +36,11 @@ graphemic_classification: "屈"
 stand_in: "掘"
 aliases:
 注音: "ㄍㄨㄊ"
-kwin: true
+kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 掘.
 >For the word, see [掘](words/掘.md)
@@ -60,7 +60,3 @@ date-last-perfect: 2026-08-08
 
 ## Chengyu
 - <ruby>[[臨渇掘井]]<rt>ㄌㄧㄇㄎㄚㄊㄍㄨㄊㄐㄧㄫ</rt></ruby> "preparing only when the need is already upon you"
-
-## Derived Characters
-- [[堀]]
-- [[窟 (char)|窟]]

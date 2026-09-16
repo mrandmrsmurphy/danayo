@@ -29,7 +29,7 @@ graphemic_classification: "永"
 stand_in: "泳"
 aliases:
 注音: "ㄨㄧㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -49,4 +49,5 @@ boundedness: 75
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[泳]]<rt>ㄨㄧㄫ</rt></ruby> "swim" (stand-in for 泳)
 - <ruby>[[水泳]]<rt>ㄙㄨ·ㄨㄧㄫ</rt></ruby> "swimming"

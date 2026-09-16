@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 屈.
 >For the word, see [屈](words/屈.md)
@@ -53,3 +53,8 @@ date-last-perfect: 2026-08-10
 ## Words
 - <ruby>[[屈]]<rt>ㄎㄨㄊ</rt></ruby> "bend; flex; crouch" (stand-in for 屈)
 - <ruby>[[理屈]]<rt>ㄌㄧㄎㄨㄊ</rt></ruby> "reasoning; logic; argument"
+
+## Derived Characters
+- <ruby>[[掘 (char)|掘]]<rt>ㄍㄨㄊ</rt></ruby> "dig"
+- <ruby>[[窟 (char)|窟]]<rt>ㄎㄛㄊ</rt></ruby> "cavern"
+- <ruby>[[堀]]<rt>ㄍㄨㄊ</rt></ruby> "cave"

@@ -36,7 +36,7 @@ graphemic_classification: 指事
 stand_in: 行
 aliases:
 注音: ㄏㄚㄫ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -88,6 +88,7 @@ boundedness: 55
 - <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄒㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "Everything is impermanent"
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
+- <ruby>[[論功行賞]]<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> "meritocracy"
 
 ## Derived Characters
 - <ruby>[[桁 (char)|桁]]<rt>ㄏㄚㄫ</rt></ruby> "beam"
