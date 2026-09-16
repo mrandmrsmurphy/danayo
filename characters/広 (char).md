@@ -33,7 +33,7 @@ aliases:
   - 旷
   - 广
 注音: ㄍ⺢ㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -59,5 +59,4 @@ boundedness:
 - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> "plaza; square"
 
 ## Derived Characters
-- <ruby>[[横]]<rt>ㄏ⺢ㄫ</rt></ruby> "crossing horizontally; across laterally"
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"

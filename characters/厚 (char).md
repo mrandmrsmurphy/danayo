@@ -28,7 +28,7 @@ graphemic_classification: 会意
 stand_in: 厚
 aliases:
 注音: ㄏㄛㄨ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -48,7 +48,7 @@ boundedness: 90
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[厚]]<rt>ㄏㄛㄨ</rt></ruby> "thick"
+- <ruby>[[厚]]<rt>ㄏㄛㄨ</rt></ruby> "thick" (stand-in for 厚)
 - <ruby>[[濃厚]]<rt>ㄋㄛㄫㄏㄛㄨ</rt></ruby> "concentrated; thick; dense; strong"
 - <ruby>[[敦厚]]<rt>ㄉㄛㄋㄏㄛㄨ</rt></ruby> "honest; candid; sincere"
 - <ruby>[[厚顔]]<rt>ㄏㄛㄨㄚㄋ</rt></ruby> "brazen-faced; impudent; shameless"
