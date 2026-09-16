@@ -28,7 +28,7 @@ danayo_id: 1
 mc_id: 28
 graphemic_classification: 指事
 stand_in: 一
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-09-16
 注音: ㄧㄊ
 kwin: false
 tags:
@@ -50,6 +50,7 @@ boundedness: 90
 ## Words
 In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 千, 百, 十, 半) to disambiguate the exact quantity.
 
+- <ruby>[[一]]<rt>ㄧㄊ</rt></ruby> "one" (stand-in for 一)
 - <ruby>[[一溝]]<rt>ㄧㄊㄍㄛㄨ</rt></ruby> "hundred nonillion (10³²)"
 - <ruby>[[一兆]]<rt>ㄧㄊㄐㄚㄨ</rt></ruby> "one trillion"
 - <ruby>[[一億]]<rt>ㄧㄊ·ㄧㄎ</rt></ruby> "hundred million"

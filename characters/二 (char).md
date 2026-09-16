@@ -31,7 +31,7 @@ stand_in: 二
 aliases:
   - 弍
   - 𠄠
-date-last-perfect: 2026-03-19
+date-last-perfect: 2026-09-16
 注音: ㄋㄧㄜ
 kwin: false
 tags:
@@ -43,12 +43,14 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-### Notes
-- [List of 指事](lookup/List%20of%20指事.md): two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 (“one”).
-- It is the only [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md)).  Pronounced [[ㄋㄧㄜ]]
-- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+## Notes
+- [List of 指事](lookup/List%20of%20指事.md): two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 ("one").
+- [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md))
+- 27th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](syllables/ㄋㄧㄜ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
-- <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two"
+- <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two" (stand-in for 二)
 - <ruby>[[二十]]<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby> "twenty"
 - <ruby>[[二百]]<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> "two hundred"
 - <ruby>[[二千]]<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby> "two thousand"
@@ -69,10 +71,14 @@ boundedness: 80
 - <ruby>[[二十六日]]<rt>ㄋㄧㄜㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby> "twenty-sixth day of the month"
 - <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
+- <ruby>[[十二]]<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby> "twelve"
+- <ruby>[[第二]]<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby> "second"
+- <ruby>[[十二日]]<rt>ㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twelfth day of the month"
+- <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
 
 ## Chengyu
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
+- <ruby>[[指記二碑]]<rt>ㄐㄧㄜㄍㄧㄋㄧㄜㄅㄧ</rt></ruby> "the two tablets of the law"
+
 ### Links
 ![[nav/Numerals]]
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 脂A三開]]
