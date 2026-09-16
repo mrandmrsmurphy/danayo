@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 肪.
 >For the word, see [肪](words/肪.md)
@@ -53,15 +53,3 @@ date-last-perfect: 2026-08-08
 ## Words
 - <ruby>[[肪]]<rt>ㄈㄚㄫ</rt></ruby> "fat, obese" (stand-in for 肪)
 - <ruby>[[脂肪]]<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby> "animal fat"
-
-## Derived Characters
-- [[房 (char)|房]]
-- [[妨]]
-- [[彷]]
-- [[芳]]
-- [[坊]]
-- [[訪]]
-- [[旁]]
-- [[紡 (char)|紡]]
-- [[防]]
-- [[放]]

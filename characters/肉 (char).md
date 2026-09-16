@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "肉"
 aliases:
 注音: "ㄋㄨㄎ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -65,3 +65,4 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> "nurture"
 - <ruby>[[祭]]<rt>ㄐㄝ</rt></ruby> "festival; sacrifice"
+- <ruby>[[䍃]]<rt>⼜</rt></ruby> "pitcher; earthenware"

@@ -30,7 +30,7 @@ graphemic_classification: "会意"
 stand_in: "血"
 aliases:
 注音: "ㄏ⼔ㄊ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -44,7 +44,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 会意 of 一 ("drop of blood") and [[皿 (char)|皿]] ("sacrificial vessel, container") — a drop of blood inside a chalice, used to sacrifice to ancestors.
+- 会意 of 一 ("drop of blood") and [[Radical 108|皿]] ("sacrificial vessel, container") — a drop of blood inside a chalice, used to sacrifice to ancestors.
 - [SKIP-4-6-2](lookup/SKIP/SKIP-4/SKIP-4-6-2.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
 - 637th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 屑合|wet]] → [ㄏ⼔ㄊ](syllables/ㄏ⼔ㄊ.md)
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
