@@ -38,7 +38,7 @@ graphemic_classification: 令
 stand_in: 冷
 aliases:
 注音: ㄌㄚㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -62,13 +62,3 @@ boundedness: 65
 - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby> "refrigerator; freezer"
 - <ruby>[[冷麺]]<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby> "cold noodles"
 - <ruby>[[寒冷]]<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> "cold; freezing"
-
-## Derived Characters
-- <ruby>[[齢]]<rt>ㄌㄝㄫ</rt></ruby> "age; years"
-- <ruby>[[伶]]<rt>ㄌㄝㄫ</rt></ruby> "clever"
-- <ruby>[[鈴 (char)|鈴]]<rt>ㄌㄝㄫ</rt></ruby> "small bell"
-- <ruby>[[羚]]<rt>ㄌㄝㄫ</rt></ruby> "antelope"
-- <ruby>[[領]]<rt>ㄌㄧㄫ</rt></ruby> "territory"
-- <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> "bamboo screen"
-- <ruby>[[零 (char)|零]]<rt>ㄌㄝㄫ</rt></ruby> "zero"
-- <ruby>[[玲]]<rt>ㄌㄝㄫ</rt></ruby> "jade"

@@ -41,7 +41,7 @@ aliases:
   - 囹
 注音: "ㄌㄝㄫ"
 kwin: false
-date-last-perfect: 2026-07-02
+date-last-perfect: 2026-09-16
 tags:
   - character
 boundedness: 85
@@ -70,3 +70,15 @@ boundedness: 85
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
+
+## Derived Characters
+- <ruby>[[冷 (char)|冷]]<rt>ㄌㄚㄫ</rt></ruby> "cool, cold"
+- <ruby>[[鈴 (char)|鈴]]<rt>ㄌㄝㄫ</rt></ruby> "small bell"
+- <ruby>[[零 (char)|零]]<rt>ㄌㄝㄫ</rt></ruby> "zero"
+- <ruby>[[伶]]<rt>ㄌㄝㄫ</rt></ruby> "clever"
+- <ruby>[[命]]<rt>ㄇ⼶ㄫ</rt></ruby> "life, fate"
+- <ruby>[[羚]]<rt>ㄌㄝㄫ</rt></ruby> "antelope"
+- <ruby>[[玲]]<rt>ㄌㄝㄫ</rt></ruby> "tinkling of jade, clever"
+- <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> "bamboo screen"
+- <ruby>[[領]]<rt>ㄌㄧㄫ</rt></ruby> "territory"
+- <ruby>[[齢]]<rt>ㄌㄝㄫ</rt></ruby> "age, years"

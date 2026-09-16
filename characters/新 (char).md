@@ -5,10 +5,12 @@ korean: "신"
 korean_native: 새
 japanese:
   - SHIN
-japanese_native: あたら
+japanese_native:
+  - あたら
   - あたら-しい
 vietnamese:
-  - tân, tâng
+  - tân
+  - tâng
 middle_chinese_initial: s
 middle_chinese_final: iɪn
 stroke_count: 13
@@ -25,10 +27,10 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 228
 mc_id: 626
-graphemic_classification: 亲
+graphemic_classification: 辛
 stand_in: 新
 注音: ㄙㄧㄋ
-date-last-perfect: 2026-03-17
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -40,19 +42,27 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*siŋ): semantic [[Radical 160|辛]] ("") + phonetic [[斤]] (OC \*siŋ).
--  形声 (OC \*siŋ): phonetic [[characters/辛]] (OC \*siŋ) + semantic [斤](Radical%20069) — to chop wood. Original form of [薪](characters/薪.md) (OC \*siŋ, “firewood”). The character was later borrowed to represent 新 (OC \*siŋ, “new”) as an instance of jiajie ([假借](words/仮借.md)).  A semantic [木 (char)](characters/木%20(char).md) was later added in the bronze inscriptions which merged with the 辛.
+- 形声 (OC \*siŋ): phonetic [[辛]] (OC \*siŋ) + semantic [斤](Radical%20069) — to chop wood. Original form of [薪](characters/薪.md) (OC \*siŋ, "firewood"). The character was later borrowed to represent 新 (OC \*siŋ, "new") as an instance of jiajie (假借). A semantic [木 (char)](characters/木%20(char).md) was later added in the bronze inscriptions which merged with the 辛.
 - [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 626th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄙㄧㄋ](syllables/ㄙㄧㄋ.md)
 - [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
-## Chengyu
-- <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"
 ## Words
+- <ruby>[[新]]<rt>ㄙㄧㄋ</rt></ruby> "new" (stand-in for 新)
 - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"
 - <ruby>[[新羅]]<rt>ㄙㄧㄋㄌㄛ</rt></ruby> "Silla"
-- <ruby>[新品](/words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> - new products
-- <ruby>[新年](/words/新年.md)<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> - New Year
-- <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
-- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> "Singapore"
+- <ruby>[[新品]]<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> "new products"
+- <ruby>[[新年]]<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> "New Year"
+- <ruby>[[新語]]<rt>ㄙㄧㄋ·⼄</rt></ruby> "neologism"
+- <ruby>[[新嘉浦]]<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> "Singapore"
 - <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby> "nova; novae"
 - <ruby>[[新鮮]]<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby> "fresh"
+- <ruby>[[新芽]]<rt>ㄙㄧㄋ·ㄚ</rt></ruby> "bud; sprout"
+- <ruby>[[更新]]<rt>ㄍㄚㄫㄙㄧㄋ</rt></ruby> "renew; replace"
+- <ruby>[[新西蘭]]<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby> "New Zealand"
+- <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> "shinjitai"
+
+## Chengyu
+- <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"
+
+## Derived Characters
+- <ruby>[[薪]]<rt>ㄙㄧㄋ</rt></ruby> "firewood; salary"

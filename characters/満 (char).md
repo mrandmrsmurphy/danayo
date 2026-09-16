@@ -31,7 +31,7 @@ aliases:
   - 滿
   - 满
 注音: ㄇㄚㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
