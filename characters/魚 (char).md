@@ -30,13 +30,13 @@ aliases:
   - 鱼
   - 𤋳
 注音: ⼄
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
 boundedness: 35
 ---
->[!tip] This is a page about the character.
+>[!tip] This is a page about the character 魚.
 >For the word, see [魚](words/魚.md).
 >For the radical, see [Radical 195](lookup/Radicals/Radical%20195.md)
 ```meta-bind-embed

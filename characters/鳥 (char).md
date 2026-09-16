@@ -10,7 +10,6 @@ vietnamese:
   - đeo
   - điểu
   - đéo
-  - đẻo
   - đẽo
 middle_chinese_initial: t
 middle_chinese_final: eu
@@ -33,7 +32,7 @@ stand_in: "鳥"
 aliases:
   - 鸟
 注音: "ㄑㄛㄨ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -53,7 +52,7 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby> "bird"
+- <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby> "bird" (stand-in for 鳥)
 - <ruby>[[禽鳥]]<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby> "birds; fowl"
 - <ruby>[[鳥類]]<rt>ㄑㄛㄨㄌㄨㄧ</rt></ruby> "bird (as a category)"
 - <ruby>[[白鳥]]<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby> "white bird, white swan"

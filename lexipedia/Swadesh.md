@@ -59,8 +59,8 @@
 | 42  |     mother      |  母   |   母親   |   阿媽   |          母           |       母 (어미 모)       |                媄 mẹ                |    <ruby>[[母親]]<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>    |     |
 | 43  |     father      |  父   |   父親   |   阿爸   |          父           |       父 (아비 부)       |               𤕔 cha               |    <ruby>[[父親]]<rt>ㄅㄨㄑㄧㄋ</rt></ruby>    |     |
 | 44  |     animal      |      |   動物   |   動物   | 獣 (native) 動物 (sino) |       衆生 -- 짐승       | 動物động vật，𡥵物con vật, 𩑛物loài vật |    <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby>, <ruby>[[野獣]]<rt>⼘ㄙ⼜</rt></ruby>    |     |
-| 45  |      fish       |  魚   |   魚    |   魚    |          魚           |      魚 (물고기 어)       |                𩵜cá                |                 魚 'yo                  |     |
-| 46  |      bird       |  鳥   |   鳥    |   雀    |          鳥           |       鳥 (새 조)        |               𪀄chim               |                 鳥 cou                  |     |
+| 45  |      fish       |  魚   |   魚    |   魚    |          魚           |      魚 (물고기 어)       |                𩵜cá                |    <ruby>[[魚]]<rt>⼄</rt></ruby>    |     |
+| 46  |      bird       |  鳥   |   鳥    |   雀    |          鳥           |       鳥 (새 조)        |               𪀄chim               |    <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby>    |     |
 | 47  |       dog       |  犬   |   狗    |   狗    |          犬           |       犬 (개 견)        |                㹥chó                |                 犬 kwen                 |     |
 | 48  |      louse      |  蝨   |   虱    |   蝨    |          虱           |       蝨 (이 슬)        |               𧏶rận                |                 虱 sit                  |     |
 | 49  |      snake      |  蛇   |   蛇    |   蛇    |          蛇           |       蛇 (뱀 사)        |               𧋻rắn                |                  蛇 ta                  |     |
