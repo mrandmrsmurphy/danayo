@@ -3,7 +3,8 @@ mandarin: "sān"
 cantonese: "saam1"
 korean: "삼"
 korean_native: 셋
-japanese: SAN
+japanese:
+  - SAN
 japanese_native: かず
 vietnamese: tam
 middle_chinese_initial: s
@@ -24,7 +25,7 @@ danayo_id: 16
 mc_id: 24
 graphemic_classification: 指事
 stand_in: 三
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-09-16
 注音: ㄙㄚㄇ
 kwin: true
 tags:
@@ -43,7 +44,7 @@ boundedness: 75
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[三]]<rt>ㄙㄚㄇ</rt></ruby> "three"
+- <ruby>[[三]]<rt>ㄙㄚㄇ</rt></ruby> "three" (stand-in for 三)
 - <ruby>[[十三]]<rt>ㄙㄧㄆㄙㄚㄇ</rt></ruby> "thirteen"
 - <ruby>[[第三]]<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby> "third"
 - <ruby>[[三十]]<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> "thirty"

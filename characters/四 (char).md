@@ -36,7 +36,7 @@ aliases:
   - 𠃢
   - 𦉭
   - 泗
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-09-16
 注音: ㄙㄧㄜ
 kwin: false
 tags:
@@ -57,7 +57,7 @@ boundedness: 75
 - 四 and [[死]] are genuine homophones in Dan'a'yo (both ㄙㄧㄜ) as well as in real Sino-Korean (both 사) — this preserves, rather than avoids, the traditional East Asian taboo linking "four" and "death."
 
 ## Words
-- <ruby>[[四]]<rt>ㄙㄧㄜ</rt></ruby> "four"
+- <ruby>[[四]]<rt>ㄙㄧㄜ</rt></ruby> "four" (stand-in for 四)
 - <ruby>[[十四]]<rt>ㄙㄧㄆㄙㄧㄜ</rt></ruby> "fourteen"
 - <ruby>[[四十]]<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby> "forty"
 - <ruby>[[四季]]<rt>ㄙㄧㄜㄍㄨㄧ</rt></ruby> "four seasons"
@@ -76,3 +76,4 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> "surrounded by the singing of Chu"
+- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
