@@ -31,7 +31,7 @@ stand_in: 誰
 aliases:
   - 谁
 注音: ㄙ⼶ㄧ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-15
 kwin: false
 tags:
   - character
@@ -43,7 +43,10 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: semantic [[Radical 149|言]] ("speech") + phonetic [[Radical 172|隹]] — who, whom.
+- 形声 (OC \*djul): semantic [[Radical 149|言]] ("speech") + phonetic [[Radical 172|隹]] (OC \*tjul) — who, whom.
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 908th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙ⼶ㄧ](../syllables/ㄙ⼶ㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[誰]]<rt>ㄙ⼶ㄧ</rt></ruby> "who" (stand-in for 誰)

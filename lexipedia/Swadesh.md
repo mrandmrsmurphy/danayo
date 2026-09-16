@@ -10,7 +10,7 @@
 |  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄜ</rt></ruby>  |     |
 |     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[彼](../words/彼.md)<rt>ㄅㄧ</rt></ruby>  |     |
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>    |     |
-| 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>    |     |
+| 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄜㄑㄛ</rt></ruby>    |     |
 |     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
 | 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby> |     |
 | 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>  |     |
