@@ -29,7 +29,7 @@ stand_in: 小
 aliases:
   - 𡮐
 注音: ㄙㄛ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -47,6 +47,7 @@ boundedness: 80
 - 140th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙㄛ](../syllables/ㄙㄛ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[小]]<rt>ㄙㄛ</rt></ruby> "small" (stand-in for 小)
 - <ruby>[[小学]]<rt>ㄙㄛㄏㄚㄎ</rt></ruby> "elementary learning; philology; elementary school"
 - <ruby>[[小人]]<rt>ㄙㄛㄋㄧㄋ</rt></ruby> "petty person; jerk"
 - <ruby>[[小冊子]]<rt>ㄙㄛㄑㄚㄎㄐㄜ</rt></ruby> "booklet"
@@ -66,3 +67,8 @@ boundedness: 80
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
+
+## Derived Characters
+- <ruby>[[少 (char)|少]]<rt>ㄙㄛㄨ</rt></ruby> "few"
+- <ruby>[[肖]]<rt>ㄙ⼄ㄨ</rt></ruby> "portrait"
+- <ruby>[[雀]]<rt>ㄐㄚㄎ</rt></ruby> "sparrow"

@@ -37,7 +37,7 @@ graphemic_classification: 東
 stand_in: 重
 aliases:
 注音: ㄑㄛㄫ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby> "important"
 - <ruby>[[貴重]]<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby> "precious; valuable"
 - <ruby>[[鄭重]]<rt>ㄐㄝㄫㄑㄛㄫ</rt></ruby> "solemn"
+- <ruby>[[厳重]]<rt>⼄ㄇㄑㄛㄫ</rt></ruby> "serious, rigorous"
 - <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby> "barium"
 
 ## Chengyu

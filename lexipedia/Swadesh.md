@@ -45,8 +45,8 @@
 |     |   thick (2D)    |      |   粗    |        |                      |                      |              粗糙 jocau              |                                        |     |
 |     | thick (crowded) |      |   密    |        |                      |                      |               密 mit                |                                        |     |
 |     |  thick (dense)  |      |   濃    |        |                      |                      |             濃厚 nonghou             |                                        |     |
-| 31  |      heavy      |  重   |   重    |   重    |          重い          |      重 (무거울 중)       |              𨤼 nặng               |                 重 cong                 |     |
-| 32  |      small      |  小   |   小    |   細    |         小さい          |       小 (작을 소)       |               𡮈 nhỏ               |                  小 so                  |     |
+| 31  |      heavy      |  重   |   重    |   重    |          重い          |      重 (무거울 중)       |              𨤼 nặng               |    <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby>    |     |
+| 32  |      small      |  小   |   小    |   細    |         小さい          |       小 (작을 소)       |               𡮈 nhỏ               |    <ruby>[[小]]<rt>ㄙㄛ</rt></ruby>    |     |
 | 33  |      short      |  短   |   短    |   短    |          短い          |       短 (짧을 단)       |              𥐉 ngắn               |                 短 dwan                 |     |
 | 34  |     narrow      |  狹   |   窄    |   窄    |          狭い          |          狭           |               狭 hẹp                |                 狹 hap                  |     |
 | 35  |      thin       |  細   |   薄    |   薄    |          細い          |       薄 (엷을 박)       |               𤷍 gầy               |                 薄 bak                  |     |
