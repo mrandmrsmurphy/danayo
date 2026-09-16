@@ -32,7 +32,7 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -52,6 +52,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[悪]]<rt>ㄚㄎ</rt></ruby> "bad, evil" (stand-in for 悪)
 - <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> "heinous; atrocious"
 - <ruby>[[嫌悪]]<rt>ㄏㄝㄇㄚㄎ</rt></ruby> "hatred; aversion"
 - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby> "hate, loathe"

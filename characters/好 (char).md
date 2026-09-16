@@ -30,7 +30,7 @@ graphemic_classification: "会意"
 stand_in: "好"
 aliases:
 注音: "ㄏㄚㄨ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character

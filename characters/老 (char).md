@@ -36,7 +36,7 @@ graphemic_classification: 会意
 stand_in: 老
 aliases:
 注音: ㄌㄚㄨ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -56,7 +56,7 @@ boundedness: 100
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> "old person; age"
+- <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> "old person; age" (stand-in for 老)
 - <ruby>[[老師]]<rt>ㄌㄚㄨㄙㄧㄜ</rt></ruby> "sage, elder monk"
 - <ruby>[[老爺]]<rt>ㄌㄚㄨ⼘</rt></ruby> "grandfather; master"
 - <ruby>[[老子]]<rt>ㄌㄚㄨㄐㄜ</rt></ruby> "Laotzi; old man"
@@ -67,3 +67,7 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "till death do us part"
+
+## Derived Characters
+- <ruby>[[姥]]<rt>ㄇㄛ</rt></ruby> "maternal grandmother"
+- <ruby>[[考]]<rt>ㄎㄚㄨ</rt></ruby> "consider, regard"
