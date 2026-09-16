@@ -33,7 +33,7 @@ mc_id: 57
 graphemic_classification: "会意"
 stand_in: "道"
 注音: "ㄉㄚㄨ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -80,3 +80,12 @@ boundedness: 70
 - <ruby>[[書道]]<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby> "Japanese calligraphy; the Way of Writing"
 - <ruby>[[道成肉身]]<rt>ㄉㄚㄨㄙㄧㄫㄋㄨㄎㄙㄧㄋ</rt></ruby> "incarnation; the Word became flesh"
 - <ruby>[[道徳経]]<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby> "Tao Te Ching"
+- <ruby>[[国道]]<rt>ㄍㄛㄎㄉㄚㄨ</rt></ruby> "national highway"
+- <ruby>[[天道]]<rt>ㄊㄝㄋㄉㄚㄨ</rt></ruby> "law of nature; god of heaven"
+- <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel; underpass"
+
+## Chengyu
+- <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "the Spirit gives life, but the Letter kills"
+
+## Derived Characters
+- <ruby>[[導]]<rt>ㄉㄚㄨ</rt></ruby> "guide, lead"

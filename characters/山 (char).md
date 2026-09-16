@@ -33,7 +33,7 @@ aliases:
   - 𠙸
   - 𡶸
 注音: "ㄙㄚㄋ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -72,4 +72,9 @@ boundedness: 75
 - <ruby>[[高山]]<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby> "high mountain"
 
 ## Chengyu
-- <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby>
+- <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "forests and streams, many mountains and rivers"
+- <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "a sea of people; congested"
+- <ruby>[[石山盈界]]<rt>ㄙㄝㄎㄙㄚㄋ·⼶ㄫㄍ⼶</rt></ruby> "stone mountain fills earth"
+
+## Derived Characters
+- <ruby>[[仙]]<rt>ㄙ⼶ㄋ</rt></ruby> "xian, fairy"

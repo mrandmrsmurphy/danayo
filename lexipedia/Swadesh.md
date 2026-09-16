@@ -30,26 +30,26 @@
 | 25  |      four       |  四   |   四    |   四    |          四つ          |          四           |               𦊚 bốn               |    <ruby>[[四]]<rt>ㄙㄧㄜ</rt></ruby>    |     |
 | 26  |      five       |  五   |   五    |   五    |          五つ          |          五           |              𠄼 , 𠄻               |    <ruby>[[五]]<rt>ㄛ</rt></ruby>    |     |
 |     |       six       |      |   六    |   六    |          六つ          |                      |                                    |     <ruby>[[六]]<rt>ㄌㄨㄎ</rt></ruby>     |     |
-|     |      seven      |      |   七    |   七    |          七つ          |                      |                                    |                 七 cit                  |     |
-|     |      eight      |      |   八    |   八    |          八つ          |                      |                                    |                 八 bat                  |     |
-|     |      nine       |      |   九    |   九    |          九つ          |                      |                                    |                 九 gyu                  |     |
-|     |       ten       |      |   十    |   十    |          十           |          十           |                                    |               一十 'itsip                |     |
-|     |     hundred     |      |   百    |   百    |          百           |                      |                                    |               一百 'itbak                |     |
-|     |    thousand     |      |   千    |   千    |          千           |                      |                                    |               一千 'itcen                |     |
-|     |  ten thousand   |      |   萬    |   萬    |          万           |                      |                                    |               一万 'itmon                |     |
+|     |      seven      |      |   七    |   七    |          七つ          |                      |                                    |                 <ruby>[[七]]<rt>ㄑㄧㄊ</rt></ruby>                  |     |
+|     |      eight      |      |   八    |   八    |          八つ          |                      |                                    |                 <ruby>[[八]]<rt>ㄅㄚㄊ</rt></ruby>                  |     |
+|     |      nine       |      |   九    |   九    |          九つ          |                      |                                    |                 <ruby>[[九]]<rt>ㄎ⼜</rt></ruby>                  |     |
+|     |       ten       |      |   十    |   十    |          十           |          十           |                                    |               <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby>                |     |
+|     |     hundred     |      |   百    |   百    |          百           |                      |                                    |               <ruby>[[百]]<rt>ㄅㄚㄎ</rt></ruby>                |     |
+|     |    thousand     |      |   千    |   千    |          千           |                      |                                    |               <ruby>[[一千]]<rt>ㄧㄊㄑㄝㄋ</rt></ruby>                |     |
+|     |  ten thousand   |      |   萬    |   萬    |          万           |                      |                                    |               <ruby>[[一万]]<rt>ㄧㄊㄇㄛㄋ</rt></ruby>                |     |
 | 27  |       big       |  大   |   大    |   大    |         大きい          |       太 (클 태)        |             𡘯 lớn/to              |    <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby>    |     |
 | 28  |  long (length)  |  長   |   長    |   長    |          長い          |       長 (길 장)        |               𨱽 dài               |    <ruby>[[長]]<rt>ㄐㄚㄫ</rt></ruby>    |     |
-|     |   long (time)   |      |   久    |        |                      |                      |                                    |                 久 gyu                  |     |
+|     |   long (time)   |      |   久    |        |                      |                      |                                    |                 [[久]] gyu                  |     |
 | 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |    <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby>    |     |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |    <ruby>[[厚]]<rt>ㄏㄛㄨ</rt></ruby>    |     |
-|     |   thick (2D)    |      |   粗    |        |                      |                      |              粗糙 jocau              |                                        |     |
-|     | thick (crowded) |      |   密    |        |                      |                      |               密 mit                |                                        |     |
-|     |  thick (dense)  |      |   濃    |        |                      |                      |             濃厚 nonghou             |                                        |     |
+|     |   thick (2D)    |      |   粗    |        |                      |                      |        |      粗糙 jocau                                                     |     |
+|     | thick (crowded) |      |   密    |        |                      |                      |        |       密 mit                                                    |     |
+|     |  thick (dense)  |      |   濃    |        |                      |                      |        |     濃厚 nonghou                                                  |     |
 | 31  |      heavy      |  重   |   重    |   重    |          重い          |      重 (무거울 중)       |              𨤼 nặng               |    <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby>    |     |
 | 32  |      small      |  小   |   小    |   細    |         小さい          |       小 (작을 소)       |               𡮈 nhỏ               |    <ruby>[[小]]<rt>ㄙㄛ</rt></ruby>    |     |
 | 33  |      short      |  短   |   短    |   短    |          短い          |       短 (짧을 단)       |              𥐉 ngắn               |    <ruby>[[短]]<rt>ㄉ⺢ㄋ</rt></ruby>    |     |
 | 34  |     narrow      |  狹   |   窄    |   窄    |          狭い          |          狭           |               狭 hẹp                |                 狹 hap                  |     |
-| 35  |      thin       |  細   |   薄    |   薄    |          細い          |       薄 (엷을 박)       |               𤷍 gầy               |                 薄 bak                  |     |
+| 35  |      thin       |  細   |   薄    |   薄    |          細い          |       薄 (엷을 박)       |               𤷍 gầy               |                 [[薄]] bak                  |     |
 | 36  |      woman      |  女   |   女人   |   女人   |          女           |      女子 (여자/녀자)      |             婦女 phụ nữ              |    <ruby>[[女人]]<rt>ㄋㄜㄋㄧㄋ</rt></ruby>    |     |
 | 37  |       man       |  男   |   男人   |   男人   |          男           |       男子 (남자)        |             彈翁 đàn ông             |    <ruby>[[男人]]<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby>    |     |
 | 38  |     person      |  人   |   人    |   人    |          人           |       人 (사람 인)       |              𠊛 người              |    <ruby>[[人]]<rt>ㄋㄧㄋ</rt></ruby>    |     |
@@ -86,7 +86,7 @@
 | 69  |      tail       |  尾   |   尾巴   |   尾    |        尾, 尻尾         |       尾 (꼬리 미)       |                                    | <ruby>[[尾]]<rt>ㄇㄨㄧ</rt></ruby>  |     |
 | 70  |     feather     |  羽   |   羽毛   |   羽毛   |          羽           |       羽 (깃 우)        |                                    | <ruby>[[羽毛]]<rt>ㄨㄇㄚㄨ</rt></ruby>  |     |
 | 71  |   hair (head)   |  毛   |   頭髮   |   髮    |          髪           |       髮 (터럭 발)       |               𩯀 tóc               | <ruby>[[頭髪]]<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby>  |     |
-|     |   hair (body)   |      |   體毛   |   毛    |          毛           |       毛 (털 모)        |                                    |                 毛 mau                  |     |
+|     |   hair (body)   |      |   體毛   |   毛    |          毛           |       毛 (털 모)        |                                    |                 [[毛]] mau                  |     |
 | 72  |      head       |  首   |   頭    |   頭    |          頭           |       頭 (머리 두)       |               頭 đầu                | <ruby>[[頭]]<rt>ㄊㄛㄨ</rt></ruby>  |     |
 | 73  |       ear       |  耳   |   耳朵   |   耳仔   |          耳           |       耳 (귀 이)        |               𦖻 tai               | <ruby>[[耳]]<rt>ㄋㄧ</rt></ruby>  |     |
 | 74  |       eye       |  目   |   眼睛   |   眼    |          目           |       目 (눈 목)        |               眜 mắt                | <ruby>[[目]]<rt>ㄇㄨㄎ</rt></ruby>  |     |
@@ -175,7 +175,7 @@
 | 157 |      sand       |  沙   |   沙    |   沙    |          砂           |       沙 (모래 사)       |               𪶼cát                |                <ruby>[[沙]]<rt>ㄙㄚ</rt></ruby>                |     |
 | 158 |      dust       |  塵   |   塵土   |   塵    |          塵           |          塵           |               𣾾bụi                |            <ruby>[[灰塵]]<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby>            |     |
 | 159 |  earth (soil)   |  土   |   泥土   |   土    |          土           |          土           |            𣛤𡐙trái đất            |                <ruby>[[土]]<rt>ㄊㄛ</rt></ruby>                |     |
-|     |    (planet)     |      |   地球   |   地球   |          地球          |          地球          |             地求địa cầu              |               地球 diǝgyu                |     |
+|     |    (planet)     |      |   地球   |   地球   |          地球          |          地球          |             地求địa cầu              |               [[地球]] diǝgyu                |     |
 | 160 |      cloud      |  雲   |   雲    |   雲    |          雲           |       雲 (구름 운)       |               𩄲mây                |                <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby>                |     |
 | 161 |       fog       |  霧   |   霧    |   霧    |          霧           |       霧 (안개 무)       |            霜𩂟sương mù             |                <ruby>[[霧]]<rt>ㄇㄨ</rt></ruby>                |     |
 | 162 |       sky       |  天   |   天    |   天    |          空           | 天 (하늘 천) --空 is air  |               𡗶trời               |                <ruby>[[天]]<rt>ㄊㄝㄋ</rt></ruby>                |     |
@@ -186,8 +186,8 @@
 | 167 |      fire       |  火   |   火    |   火    |          火           |       火 (불 화)        |                焒lửa                |                <ruby>[[火]]<rt>ㄏ⺢</rt></ruby>                |     |
 | 168 |      ashes      |  灰   |   灰    |   灰    |          灰           |       灰 (재 회)        |                                    |                <ruby>[[灰]]<rt>ㄏㄛㄧ</rt></ruby>                |     |
 | 169 |      burn       |  焚   |   燒    |   燒    |         燃える          |                      |                                    |            <ruby>[[燃焼]]<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby>            |     |
-| 170 |      road       |  路   |   路    |  路, 道  |        道, 道路         |                      |               塘đường               |                                        |     |
-| 171 |    mountain     |      |   山    |   山    |          山           |       山 (뫼 산)        |               𡶀núi                |                                        |     |
+| 170 |      road       |  路   |   路    |  路, 道  |        道, 道路         |                      |               塘đường               |            <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>            |     |
+| 171 |    mountain     |      |   山    |   山    |          山           |       山 (뫼 산)        |               𡶀núi                |                <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>                |     |
 | 172 |     crimson     |  赤   |   紅    |   紅    |          赤           |       赤 and 紅        |            紅，𧺃hồng, đỏ            |                                        |     |
 | 173 |      green      |  青   |   綠    |   綠    |          緑           |          綠           |               𩇢xanh               |                                        |     |
 | 174 |     yellow      |  黃   |   黃    |   黄    |          黄           |       黃 (누를 황)       |               鐄vàng                |                黄 hwang                 |     |
