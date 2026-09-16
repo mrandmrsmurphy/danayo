@@ -44,7 +44,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 沙.
 >For the word, see [沙](words/沙.md)

@@ -5,7 +5,7 @@ korean: 운
 korean_native: 구름
 japanese:
   - UN
-japanese_native: も
+japanese_native: くも
 vietnamese:
   - vân
 middle_chinese_initial: ø
@@ -30,7 +30,7 @@ aliases:
   - 云
   - 澐
 注音: ㄨㄋ
-date-last-perfect: 2026-03-15
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -42,15 +42,19 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it.  We fold 云 into this character.
-- [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md)) - [ㄨㄋ](syllables/ㄨㄋ.md)
+- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it. We fold 云 into this character. The orthographic substitution carries through compounds too: 云云→雲雲 ("etc.") and its opposite 云爾→雲爾 ("that is all") — neither has an independent vault word page.
+- [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
+- 611th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄨㄋ](syllables/ㄨㄋ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[雲呑](/words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby> - wontons
-- 云云 --> 雲雲 "etc." and it's opposite 云爾-->雲爾 "that is all"
+- <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby> "cloud" (stand-in for 雲)
+- <ruby>[[雲呑]]<rt>ㄨㄋㄊㄚㄋ</rt></ruby> "wontons"
 
 ## Chengyu
-- <ruby>[雲昼火夜](/chengyu/雲昼火夜.md)<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> - cloud by day, fire by night
-[[Lookup/CC/initials/聲 云]]
-[[Lookup/CC/finals/韻 文]]
+- <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"
+
+## Derived Characters
+- <ruby>[[魂 (char)|魂]]<rt>ㄏㄛㄋ</rt></ruby> "soul"
+- <ruby>[[伝]]<rt>ㄐ⼔ㄋ</rt></ruby> "transmit, propagate"
+- <ruby>[[芸]]<rt>ㄝ</rt></ruby> "skill, art"
