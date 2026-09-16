@@ -33,7 +33,7 @@ graphemic_classification: "隹"
 stand_in: "推"
 aliases:
 注音: "ㄑㄨㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -56,15 +56,3 @@ boundedness: 100
 - <ruby>[[推]]<rt>ㄑㄨㄧ</rt></ruby> "push" (stand-in for 推)
 - <ruby>[[推測]]<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby> "surmise, speculate, conjecture"
 - <ruby>[[推薦]]<rt>ㄑㄨㄧㄐㄝㄋ</rt></ruby> "to recommend"
-
-## Derived Characters
-- <ruby>[[椎]]<rt>ㄑㄨㄧ</rt></ruby> "vertebrae; spine"
-- <ruby>[[唯 (char)|唯]]<rt>⼶ㄧ</rt></ruby> "only"
-- <ruby>[[錐]]<rt>ㄐㄨㄧ</rt></ruby> "awl"
-- <ruby>[[維]]<rt>⼶ㄧ</rt></ruby> "to support"
-- <ruby>[[雉 (char)|雉]]<rt>ㄉㄧㄜ</rt></ruby> "green pheasant"
-- <ruby>[[堆]]<rt>ㄉㄛㄧ</rt></ruby> "piled up; heap up"
-- <ruby>[[崔]]<rt>ㄑㄛㄧ</rt></ruby> "high; lofty; towering"
-- <ruby>[[淮]]<rt>ㄏ⺢ㄧ</rt></ruby> "Hwai"
-- <ruby>[[誰 (char)|誰]]<rt>ㄙ⼶ㄧ</rt></ruby> "who"
-- <ruby>[[進]]<rt>ㄐㄧㄋ</rt></ruby> "to advance; progress"
