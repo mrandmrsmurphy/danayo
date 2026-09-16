@@ -31,7 +31,7 @@ aliases:
   - 氣
   - 气
 注音: ㄎㄧㄜ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness:
 - 126th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄎㄧㄜ](../syllables/ㄎㄧㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[気]]<rt>ㄎㄧㄜ</rt></ruby> "feeling" (stand-in for 気)
 - <ruby>[[気息]]<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby> "breath, smell, spirit"
 - <ruby>[[雰囲気]]<rt>ㄈㄨㄋㄨㄧㄎㄧㄜ</rt></ruby> "atmosphere; mood"
 - <ruby>[[煙気]]<rt>ㄝㄋㄎㄧㄜ</rt></ruby> "smoke, flue gas"

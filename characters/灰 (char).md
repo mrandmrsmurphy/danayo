@@ -33,7 +33,7 @@ mc_id: 2408
 graphemic_classification: "会意"
 stand_in: "灰"
 注音: "ㄏㄛㄧ"
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character

@@ -30,7 +30,7 @@ stand_in: 火
 aliases:
   - 灬
 注音: ㄏ⺢
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness: 90
 - 388th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄏ⺢](../syllables/ㄏ⺢.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[火]]<rt>ㄏ⺢</rt></ruby> "fire" (stand-in for 火)
 - <ruby>[[火鼠]]<rt>ㄏ⺢ㄙ⼄</rt></ruby> "fire rat (mythological)"
 - <ruby>[[蛍火虫]]<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby> "firefly"
 - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby> "furnace"
@@ -69,3 +70,8 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash; in the blink of an eye"
+
+## Derived Characters
+- <ruby>[[炎]]<rt>ㄝㄇ</rt></ruby> "flame, inflammation"
+- <ruby>[[熟]]<rt>ㄙㄨㄎ</rt></ruby> "ripen"
+- <ruby>[[焚]]<rt>ㄅㄨㄋ</rt></ruby> "burn"
