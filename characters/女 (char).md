@@ -30,7 +30,7 @@ graphemic_classification: "象形"
 stand_in: "女"
 aliases:
 注音: "ㄋㄜ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness: 80
 - 222nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 娘|ɳ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄋㄜ](../syllables/ㄋㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[女]]<rt>ㄋㄜ</rt></ruby> "woman" (stand-in for 女)
 - <ruby>[[女人]]<rt>ㄋㄜㄋㄧㄋ</rt></ruby> "woman; female"
 - <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
 - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby> "girl; young woman"
@@ -69,3 +70,4 @@ boundedness: 80
 - <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (dear)"
 - <ruby>[[奴]]<rt>ㄋㄛ</rt></ruby> "slave"
 - <ruby>[要](/characters/要.md)<rt>⼄ㄨ</rt></ruby> "important"
+- <ruby>[[安]]<rt>ㄚㄋ</rt></ruby> "peaceful"

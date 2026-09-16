@@ -8,7 +8,10 @@ japanese:
 japanese_native: みじか
   - みじか-い
 vietnamese:
-  - đoản, đuỗn, ngắn, vắn
+  - đoản
+  - đuỗn
+  - ngắn
+  - vắn
 middle_chinese_initial: t
 middle_chinese_final: uɑn
 stroke_count: 12
@@ -29,7 +32,7 @@ graphemic_classification: 豆
 stand_in: 短
 aliases:
 注音: ㄉ⺢ㄋ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
