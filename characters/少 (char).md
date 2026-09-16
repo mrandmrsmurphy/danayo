@@ -34,7 +34,7 @@ graphemic_classification: "小"
 stand_in: "少"
 aliases:
 注音: "ㄙㄛㄨ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -51,6 +51,7 @@ boundedness: 90
 - 189th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙㄛㄨ](../syllables/ㄙㄛㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[少]]<rt>ㄙㄛㄨ</rt></ruby> "few; scarce" (stand-in for 少)
 - <ruby>[[多少]]<rt>ㄉㄜㄙㄛㄨ</rt></ruby> "amount; quantity"
 - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby> "girl; young woman"
 - <ruby>[[些少]]<rt>ㄙㄚㄙㄛㄨ</rt></ruby> "a little; somewhat"
@@ -63,3 +64,8 @@ boundedness: 90
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
 ## Derived Characters
 - <ruby>[[妙 (char)|妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle"
+- <ruby>[[秒 (char)|秒]]<rt>ㄇ⼄ㄨ</rt></ruby> "second (time)"
+- <ruby>[[炒 (char)|炒]]<rt>ㄑㄚㄨ</rt></ruby> "fry, sauté"
+- <ruby>[[抄]]<rt>ㄑㄚㄨ</rt></ruby> "copy, abridge"
+- <ruby>[[杪]]<rt>ㄇ⼄</rt></ruby> "treetop, extremity"
+- <ruby>[[紗]]<rt>ㄙ⼘</rt></ruby> "gauze, yarn"
