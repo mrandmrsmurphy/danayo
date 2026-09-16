@@ -34,11 +34,11 @@ graphemic_classification: "察"
 stand_in: "擦"
 aliases:
 注音: "ㄑㄚㄊ"
-kwin: true
+kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 擦.
 >For the word, see [擦](words/擦.md)

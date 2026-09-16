@@ -8,9 +8,6 @@ japanese:
   - CHI
 japanese_native: も-つ
 vietnamese:
-  - rì
-  - chày
-  - chiì
   - trì
 middle_chinese_initial: ɖ
 middle_chinese_final: ɨ
@@ -33,7 +30,7 @@ stand_in: 持
 aliases:
   - 恃
 注音: ㄉㄧ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
