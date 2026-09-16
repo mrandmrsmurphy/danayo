@@ -7,9 +7,9 @@
 |  5  |       you       |  汝   |   你們   |   你哋   |         貴方達          |       汝等 or 汝輩       |             各伴 các bạn             |   <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby>   |     |
 |  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby>  |     |
 |  7  |      this       |  是   |   這    |   呢    |          此れ          |          此는          |               尼 này                |     <ruby>[[此]]<rt>ㄑㄜ</rt></ruby>      |     |
-|  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄧ</rt></ruby>  |     |
+|  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄜ</rt></ruby>  |     |
 |     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[彼](../words/彼.md)<rt>ㄅㄧ</rt></ruby>  |     |
-|  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄝㄑㄛ</rt></ruby>    |     |
+|  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>    |     |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄧㄑㄛ</rt></ruby>    |     |
 |     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
 | 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby> |     |
