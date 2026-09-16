@@ -7,14 +7,16 @@ japanese:
   - KEN
 japanese_native: み
 vietnamese:
-  - kiến, kén, hiện
+  - kiến
+  - kén
+  - hiện
 middle_chinese_initial: k
 middle_chinese_final: en
 stroke_count: 7
 radical: 見
 skip_number: 2-5-2
 grade_level: "1"
-pos: ""
+pos: 事詞
 english:
   - see
 羅馬字: gyen
@@ -30,7 +32,7 @@ aliases:
   - 见
 注音: ㄍ⼶ㄋ
 kwin: true
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-09-16
 tags:
   - character
 boundedness: 90
@@ -56,3 +58,6 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[現 (char)|現]]<rt>ㄏ⼶ㄋ</rt></ruby> "present"
 - <ruby>[[硯]]<rt>ㄝㄋ</rt></ruby> "inkstone"
+- <ruby>[[規]]<rt>ㄍㄨㄧ</rt></ruby> "rules"
+- <ruby>[[覧]]<rt>ㄌㄚㄇ</rt></ruby> "look at"
+- <ruby>[[覚]]<rt>ㄍㄚㄎ</rt></ruby> "perceive"
