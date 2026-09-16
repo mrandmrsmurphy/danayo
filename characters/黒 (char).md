@@ -31,7 +31,7 @@ stand_in: 黒
 aliases:
   - 黑
 注音: ㄏㄨㄎ
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -52,6 +52,7 @@ boundedness: 100
 - abbreviation for "hassium": <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby>
 
 ## Words
+- <ruby>[[黒]]<rt>ㄏㄨㄎ</rt></ruby> "black" (stand-in for 黒)
 - <ruby>[[黒色]]<rt>ㄏㄨㄎㄙㄧㄎ</rt></ruby> "black, the color black"
 - <ruby>[[黒板]]<rt>ㄏㄨㄎㄆㄚㄋ</rt></ruby> "blackboard"
 - <ruby>[[黒暗]]<rt>ㄏㄨㄎ·ㄚㄇ</rt></ruby> "pure blackness, darkness"
@@ -60,3 +61,6 @@ boundedness: 100
 - <ruby>[[黒洞]]<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby> "blackhole"
 - <ruby>[[黒猩]]<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby> "chimpanzee"
 - <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium"
+
+## Derived Characters
+- <ruby>[[黙]]<rt>ㄇㄨㄎ</rt></ruby> "quiet, still, dark"

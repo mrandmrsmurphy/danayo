@@ -30,7 +30,7 @@ graphemic_classification: "象形"
 stand_in: "白"
 aliases:
 注音: "ㄅㄚㄎ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness: 100
 - 267th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅㄚㄎ](../syllables/ㄅㄚㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[白]]<rt>ㄅㄚㄎ</rt></ruby> "white" (stand-in for 白)
 - <ruby>[[白金]]<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby> "platinum"
 - <ruby>[[白及]]<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby> "bai ji; Bletilla striata (ground orchid)"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
@@ -79,3 +80,8 @@ boundedness: 100
 - <ruby>[[魄]]<rt>ㄅㄚㄎ</rt></ruby> "yin soul, bodily spirit"
 - <ruby>[[拍 (char)|拍]]<rt>ㄆㄚㄎ</rt></ruby> "tap, clap, beat, pulse"
 - <ruby>[[帛]]<rt>ㄅㄚㄎ</rt></ruby> "silk, textiles"
+- <ruby>[[伯]]<rt>ㄅㄚㄎ</rt></ruby> "uncle"
+- <ruby>[[碧]]<rt>ㄅ⼶ㄎ</rt></ruby> "emerald, green"
+- <ruby>[[泊]]<rt>ㄅㄚㄎ</rt></ruby> "lie at anchor"
+- <ruby>[[舶]]<rt>ㄅㄚㄎ</rt></ruby> "oceangoing ship"
+- <ruby>[[迫]]<rt>ㄅㄚㄎ</rt></ruby> "force, compel"

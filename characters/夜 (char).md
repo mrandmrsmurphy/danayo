@@ -5,8 +5,9 @@ korean: 야
 korean_native: 밤
 japanese:
   - YA
-japanese_native: よ
-  - よ,よる
+japanese_native:
+  - よ
+  - よる
 vietnamese:
   - dạ
 middle_chinese_initial: j
@@ -30,7 +31,7 @@ stand_in: 夜
 aliases:
   - 亱
 注音: ⼘
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
