@@ -20,7 +20,7 @@ skip_number: 4-14-1
 grade_level: "2"
 pos: 代詞
 english:
-  - yes
+  - "yes"
 羅馬字: ne
 諺文: "너"
 joyo_level: "日本人名用漢字"

@@ -34,13 +34,13 @@ aliases:
   - 时
   - 蒔
 注音: ㄙㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
->[!tip] This is about the character. 
+>[!tip] This is a page about the character 時.
 >For the word, see [時](words/時.md)
 ```meta-bind-embed
 [[nav/char_info]]

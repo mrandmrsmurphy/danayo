@@ -34,7 +34,7 @@ graphemic_classification: 女
 stand_in: 如
 aliases:
 注音: ㄋ⼄
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -62,5 +62,4 @@ boundedness: 80
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> "a hundred hearings can't match one seeing"
 
 ## Derived Characters
-- <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby> "you dear"
-- <ruby>[[奴]]<rt>ㄋㄛ</rt></ruby> "slave"
+- <ruby>[[恕]]<rt>ㄙ⼄</rt></ruby> "to forgive, pardon; to show consideration for others"

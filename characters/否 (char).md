@@ -19,7 +19,7 @@ skip_number: 2-4-3
 grade_level: "4"
 pos: 修飾語
 english:
-  - no
+  - "no"
 羅馬字: fau
 諺文: "빳"
 joyo_level: "6"
