@@ -61,11 +61,11 @@
 | 44  |     animal      |      |   動物   |   動物   | 獣 (native) 動物 (sino) |       衆生 -- 짐승       | 動物động vật，𡥵物con vật, 𩑛物loài vật |    <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby>, <ruby>[[野獣]]<rt>⼘ㄙ⼜</rt></ruby>    |     |
 | 45  |      fish       |  魚   |   魚    |   魚    |          魚           |      魚 (물고기 어)       |                𩵜cá                |    <ruby>[[魚]]<rt>⼄</rt></ruby>    |     |
 | 46  |      bird       |  鳥   |   鳥    |   雀    |          鳥           |       鳥 (새 조)        |               𪀄chim               |    <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby>    |     |
-| 47  |       dog       |  犬   |   狗    |   狗    |          犬           |       犬 (개 견)        |                㹥chó                |                 犬 kwen                 |     |
-| 48  |      louse      |  蝨   |   虱    |   蝨    |          虱           |       蝨 (이 슬)        |               𧏶rận                |                 虱 sit                  |     |
-| 49  |      snake      |  蛇   |   蛇    |   蛇    |          蛇           |       蛇 (뱀 사)        |               𧋻rắn                |                  蛇 ta                  |     |
-| 50  |      worm       |      |   蚯蚓   |   蚯蚓   |                      |                      |                    | <ruby>[蠕虫](/words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby> |
-| 51  |      tree       |  木   |   樹    |   樹    |          木           |       木 (나무 목)       |               𣘃cây                |                 木 mok                  |     |
+| 47  |       dog       |  犬   |   狗    |   狗    |          犬           |       犬 (개 견)        |                㹥chó                |    <ruby>[[犬]]<rt>ㄎ⼔ㄋ</rt></ruby>    |     |
+| 48  |      louse      |  蝨   |   虱    |   蝨    |          虱           |       蝨 (이 슬)        |               𧏶rận                |    <ruby>[[虱]]<rt>ㄙㄛㄊ</rt></ruby>    |     |
+| 49  |      snake      |  蛇   |   蛇    |   蛇    |          蛇           |       蛇 (뱀 사)        |               𧋻rắn                |    <ruby>[[蛇]]<rt>ㄊㄚ</rt></ruby>    |     |
+| 50  |      worm       |      |   蚯蚓   |   蚯蚓   |                      |                      |                    | <ruby>[[蠕虫]]<rt>ㄋㄨㄐㄨㄫ</rt></ruby> |
+| 51  |      tree       |  木   |   樹    |   樹    |          木           |       木 (나무 목)       |               𣘃cây                |    <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby>    |     |
 | 52  |     forest      |  林   |   森林   |   森林   |         森/林          |       林 (수풀 림)       |               棱rừng                |               森林 simlim                |     |
 | 53  |      stick      |  杖   |   棍    |   棍    |          棒           |       棒 (막대 봉)       |                                    |               棍棒 honbang               |     |
 | 54  |      fruit      |  實   |   水果   |   生果   |          果物          |       果 (과실 과)       |            𣛤𣘃trái cây            |               果実 gwasit                |     |

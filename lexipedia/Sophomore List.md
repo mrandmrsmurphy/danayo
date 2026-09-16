@@ -184,7 +184,7 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
 
 ## Place Names
-''These are for place names, not the words themselves''
+_These are for place names, not the words themselves_
 
 ### Geography
 - Plains : plain, savannah, meadow, field, prairie

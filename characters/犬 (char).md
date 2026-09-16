@@ -28,7 +28,7 @@ graphemic_classification: 象形
 stand_in: 犬
 aliases:
 注音: ㄎ⼔ㄋ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -46,4 +46,12 @@ boundedness: 65
 - 1088th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄎ⼔ㄋ](../syllables/ㄎ⼔ㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[犬]]<rt>ㄎ⼔ㄋ</rt></ruby> "dog" (stand-in for 犬)
 - <ruby>[[犬吠]]<rt>ㄎ⼔ㄋㄈㄝ</rt></ruby> "bark, barking"
+
+## Derived Characters
+- <ruby>[[犮]]<rt>ㄅ⼘ㄊ</rt></ruby> "shape of a running dog"
+- <ruby>[[戻]]<rt>ㄌㄝㄊ</rt></ruby> "re-"
+- <ruby>[[突]]<rt>ㄊㄛㄊ</rt></ruby> "abrupt, sudden"
+- <ruby>[[奨]]<rt>ㄐㄚㄫ</rt></ruby> "award"
+- <ruby>[[肰]]<rt>ㄋㄝㄋ</rt></ruby> "dog meat"

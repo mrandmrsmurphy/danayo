@@ -6,7 +6,6 @@ korean_native: 이
 japanese:
   - SHITSU
 japanese_native: しらみ
-  - しらみ
 vietnamese:
   - sắt
 middle_chinese_initial: s
@@ -30,7 +29,7 @@ stand_in: 虱
 aliases:
   - 蝨
 注音: ㄙㄛㄊ
-date-last-perfect: 2026-03-13
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -42,10 +41,11 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
-- 4234th most used character in Classical Chinese (trusted long-tail, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 心]] + [[Lookup/CC/finals/韻 櫛]]
-- [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md), No HSK, [Hyōgai](lookup/Japanese/Hyōgai.md), [Grade Advanced](lookup/Grade%20Advanced.md)
+- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic 卂 (no vault page) — an insect pest; "louse."
+- [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
+- 4234th most used character in Classical Chinese (trusted long-tail, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[虱]]<rt>ㄙㄛㄊ</rt></ruby> "louse (lice)" (stand-in for 虱)
-- <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> - tick, bedbug
+- <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> "tick, bedbug"

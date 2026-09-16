@@ -6,7 +6,7 @@ korean_native: 나무
 japanese:
   - BOKU
   - MOKU
-japanese_native: き - き
+japanese_native: き
 vietnamese:
   - mộc
   - mục
@@ -31,7 +31,7 @@ graphemic_classification: 象形
 stand_in: 木
 aliases:
 注音: ㄇㄛㄎ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 tags:
   - character
 kwin: true
@@ -49,6 +49,7 @@ boundedness: 40
 - 290th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄇㄛㄎ](../syllables/ㄇㄛㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby> "tree; wood" (stand-in for 木)
 - <ruby>[[栃木]]<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby> "Tochigi Prefecture"
 - <ruby>[[楠木]]<rt>ㄋㄚㄇㄇㄛㄎ</rt></ruby> "camphor wood"
 - <ruby>[[木板]]<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby> "board; plank"
