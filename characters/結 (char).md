@@ -35,7 +35,7 @@ stand_in: "結"
 aliases:
   - 结
 注音: "ㄍㄝㄊ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -55,6 +55,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[結]]<rt>ㄍㄝㄊ</rt></ruby> "tie, join" (stand-in for 結)
 - <ruby>[[結束]]<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby> "unity, solidarity (Japanese/Korean); to end, conclude (Mandarin)"
 - <ruby>[[団結]]<rt>ㄉ⺢ㄋㄍㄝㄊ</rt></ruby> "unite; rally together; unify"
 - <ruby>[[凍結]]<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby> "freeze"
@@ -69,8 +70,3 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
-
-## Derived Characters
-- <ruby>[[桔]]<rt>ㄍㄝㄊ</rt></ruby> "balloon flower"
-- <ruby>[[詰]]<rt>ㄎㄧㄊ</rt></ruby> "investigate; interrogate"
-- <ruby>[[壱 (char)|壱]]<rt>ㄧㄊ</rt></ruby> "loyal; faithful"
