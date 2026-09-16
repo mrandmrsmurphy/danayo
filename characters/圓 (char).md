@@ -5,7 +5,8 @@ korean: "원"
 korean_native: 둥글
 japanese:
   - EN
-japanese_native: まど
+japanese_native:
+  - まど
   - まる-い
 vietnamese:
   - viên
@@ -33,7 +34,7 @@ aliases:
   - 圆
   - 円
 注音: ⼔ㄋ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character

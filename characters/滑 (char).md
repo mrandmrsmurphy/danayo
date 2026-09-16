@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 滑.
 >For the word, see [滑](words/滑.md)

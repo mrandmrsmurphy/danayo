@@ -206,10 +206,10 @@
 | 187 |     rotten      |  腐   |   爛    |   爛    |          腐る          |                      |                墟hư                 |                <ruby>[[腐敗]]<rt>ㄆㄨㄅㄚㄧ</rt></ruby>                |     |
 | 188 |      dirty      |  污   |   髒    |   汚糟   |          汚い          |                      |                泮bẩn                |                  <ruby>[[汚]]<rt>ㄛ</rt></ruby>                  |     |
 | 189 |    straight     |      |   直    |   直    |          直ぐ          |       直 (곧을 직)       |              𥊣thẳng               |                 <ruby>[[直]]<rt>ㄐㄧㄊ</rt></ruby>                  |     |
-| 190 |      round      |      |   圓    |   圓    |          丸い          |                      |               𡈺tròn               |                 圓 'wen                 |     |
-| 191 |      sharp      |  兓   |   尖    |   利    |          鋭い          |                      |               𡮸nhọn               |               鋭利 'yeliǝ                |     |
+| 190 |      round      |      |   圓    |   圓    |          丸い          |                      |               𡈺tròn               |                <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>                |     |
+| 191 |      sharp      |  兓   |   尖    |   利    |          鋭い          |                      |               𡮸nhọn               |              <ruby>[[鋭利]]<rt>⼶ㄌㄧㄜ</rt></ruby>              |     |
 | 192 |      dull       |  敦   |   鈍    |   掘    |          鈍い          |       鈍 (무딜 둔)       |                                    |                 鈍 don                  |     |
-| 193 |     smooth      |      |   光滑   |   滑    |         滑らか          |                      |           凭𪪇bằng phẳng            |                 滑 got                  |     |
+| 193 |     smooth      |      |   光滑   |   滑    |         滑らか          |                      |           凭𪪇bằng phẳng            |                 <ruby>[[滑]]<rt>ㄏ⺢ㄊ</rt></ruby>                  |     |
 | 194 |       wet       |  濕   |   濕    |   濕    |         濡れる          |      濕 (축축할 습)       |                㲸ướt                |                 湿 sip                  |     |
 | 195 |       dry       |  乾   |   乾    |   乾    |          乾く          |       乾 (하늘 건)       |                乾cạn                |               乾燥 gyensau                |     |
 | 196 |     correct     |  正   |   對    |   啱    |         正しい          |                      |               𦤾đến                |                 正 jing                 |     |
