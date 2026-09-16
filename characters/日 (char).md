@@ -6,7 +6,9 @@ korean_native: 날
 japanese:
   - NICHI
   - JITSU
-japanese_native: ø
+japanese_native:
+  - ひ
+  - か
 vietnamese:
   - nhạt
   - nhật
@@ -33,7 +35,7 @@ graphemic_classification: 象形
 stand_in: 日
 aliases:
 注音: ㄋㄧㄊ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -53,6 +55,7 @@ boundedness: 60
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 ### Sun
+- <ruby>[[日]]<rt>ㄋㄧㄊ</rt></ruby> "day; sun" (stand-in for 日)
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"
 - <ruby>[[日暮]]<rt>ㄋㄧㄊㄇㄛ</rt></ruby> "dusk, nightfall"
 - <ruby>[[日程]]<rt>ㄋㄧㄊㄉㄧㄫ</rt></ruby> "itinerary; timetable; schedule"
@@ -74,7 +77,6 @@ boundedness: 60
 - <ruby>[[今日安]]<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby> "hello"
 - <ruby>[[明日]]<rt>ㄇ⼶ㄫㄋㄧㄊ</rt></ruby> "tomorrow"
 - <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby> "tomorrow"
-- <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby> "yesterday"
 - <ruby>[[前日]]<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby> "prior day"
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
 - <ruby>[[翌日]]<rt>ㄧㄎㄋㄧㄊ</rt></ruby> "the following day"
@@ -152,3 +154,12 @@ boundedness: 60
 ## Derived Characters
 - <ruby>[[涅]]<rt>ㄋㄝㄊ</rt></ruby> "black mud, tattoo"
 - <ruby>[[晋]]<rt>ㄐㄧㄋ</rt></ruby> "increase, advance"
+- <ruby>[[昏]]<rt>ㄏㄛㄋ</rt></ruby> "dusk, twilight"
+- <ruby>[[昼]]<rt>ㄐㄨㄛ</rt></ruby> "daytime"
+- <ruby>[[旬]]<rt>ㄙ⼜ㄋ</rt></ruby> "10-day period"
+- <ruby>[[普]]<rt>ㄆㄛ</rt></ruby> "universal, common"
+- <ruby>[[昔]]<rt>ㄙㄝㄎ</rt></ruby> "long ago"
+- <ruby>[[昌]]<rt>ㄑ⺢ㄫ</rt></ruby> "prosperous"
+- <ruby>[[晶]]<rt>ㄐㄧㄫ</rt></ruby> "crystal"
+- <ruby>[[显]]<rt>ㄎㄛㄆ</rt></ruby> "evident"
+- <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> "kitchen stove"

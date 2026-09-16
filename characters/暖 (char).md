@@ -32,7 +32,7 @@ stand_in: "暖"
 aliases:
   - 煖
 注音: "ㄋㄚㄋ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character

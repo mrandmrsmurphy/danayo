@@ -30,7 +30,7 @@ graphemic_classification: "千"
 stand_in: "年"
 aliases:
 注音: "ㄋㄝㄋ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -47,6 +47,7 @@ boundedness: 80
 - 25th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄋㄝㄋ](../syllables/ㄋㄝㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[年]]<rt>ㄋㄝㄋ</rt></ruby> "year" (stand-in for 年)
 - <ruby>[[元年]]<rt>⼔ㄋ·ㄋㄝㄋ</rt></ruby> "first year of an era"
 - <ruby>[[千年]]<rt>ㄑㄝㄋ·ㄋㄝㄋ</rt></ruby> "millennium; a thousand years"
 - <ruby>[[千年紀]]<rt>ㄑㄝㄋ·ㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
