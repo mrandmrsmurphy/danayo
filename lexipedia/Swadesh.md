@@ -92,15 +92,15 @@
 | 74  |       eye       |  目   |   眼睛   |   眼    |          目           |       目 (눈 목)        |               眜 mắt                | <ruby>[[目]]<rt>ㄇㄨㄎ</rt></ruby>  |     |
 | 75  |      nose       |  鼻   |   鼻    |   鼻    |          鼻           |       鼻 (코 비)        |               𪖫 mũi               | <ruby>[[鼻]]<rt>ㄅㄧ</rt></ruby>  |     |
 | 76  |      mouth      |  口   |   嘴    |  嘴, 口  |          口           |       口 (입 구)        |              𠰘 miệng              | <ruby>[[口]]<rt>ㄎㄛㄨ</rt></ruby>  |     |
-| 77  |      tooth      |  牙   |   牙齒   |   牙    |          歯           |      牙 (어금니 아)       |              𪘵 răng               |           歯 ci ,  長牙 jang'a            |     |
-| 78  |     tongue      |  舌   |   舌    |   脷    |          舌           |       舌 (혀 설)        |              𥚇 lưỡi               |                 舌 set                  |     |
-| 79  |   fingernail    |  指   |   指甲   |   指甲   |                      |     𤔽拪 móng tay     |             指甲 jiǝgap              |                                        |     |
-| 80  |      foot       |  足   |   腳    |   腳    |          足           |          足           |               眞 chân               |                 足 jok                  |     |
-| 81  |       leg       |  腿   |   腿    |   腳    |          足           |                      |                                    |                 腳 gyak                 |     |
-| 82  |      knee       |  膝   |   膝    |   膝頭   |                      |      頭𨆝đầu gối      |               膝 sit                |                                        |     |
-| 83  |      hand       |  手   |   手    |   手    |          手           |       手 (손 수)        |                拪tay                |                 手 syu                  |     |
-| 84  |      wing       |  翼   |   翅膀   |   翼    |          翼           |       翼 (날개 익)       |               𫅩cánh               |                羽翼 'u'ik                |     |
-| 85  |      belly      |  肚   |   肚子   |   肚    |          腹           |                      |               䏾bụng                |                 腹 buk                  |     |
+| 77  |      tooth      |  牙   |   牙齒   |   牙    |          歯           |      牙 (어금니 아)       |              𪘵 răng               |           <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby>            |     |
+| 78  |     tongue      |  舌   |   舌    |   脷    |          舌           |       舌 (혀 설)        |              𥚇 lưỡi               | <ruby>[[舌]]<rt>ㄙㄝㄊ</rt></ruby>  |     |
+| 79  |   fingernail    |  指   |   指甲   |   指甲   |                      |     𤔽拪 móng tay     |             指甲 jiǝgap              | <ruby>[[指甲]]<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>  |     |
+| 80  |      foot       |  足   |   腳    |   腳    |          足           |          足           |               眞 chân               | <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby>  |     |
+| 81  |       leg       |  腿   |   腿    |   腳    |          足           |                      |                                    | <ruby>[[脚]]<rt>ㄍ⼘ㄎ</rt></ruby>  |     |
+| 82  |      knee       |  膝   |   膝    |   膝頭   |                      |      頭𨆝đầu gối      |               膝 sit                | <ruby>[[膝蓋]]<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby>  |     |
+| 83  |      hand       |  手   |   手    |   手    |          手           |       手 (손 수)        |                拪tay                | <ruby>[[手]]<rt>ㄙ⼜</rt></ruby>  |     |
+| 84  |      wing       |  翼   |   翅膀   |   翼    |          翼           |       翼 (날개 익)       |               𫅩cánh               | <ruby>[[羽翼]]<rt>ㄨㄧㄎ</rt></ruby>  |     |
+| 85  |      belly      |  肚   |   肚子   |   肚    |          腹           |                      |               䏾bụng                | <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby>  |     |
 | 86  |       gut       |  腸   |   腸子   |   腸    |          腸           |                      |               𫆧ruột               |              腸管 canggwan               |     |
 | 87  |      neck       |  頸   |   脖子   |   頸    |          首           |                      |                股cổ                 |                 頸 ging                 |     |
 | 88  |      back       |  背   |   背    |   背    |          背           |       背 (등 배)        |               𦡟lưng               |                 背 boi                  |     |

@@ -37,7 +37,7 @@ graphemic_classification: 象形
 stand_in: 甲
 aliases:
 注音: ㄍㄚㄆ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -57,6 +57,7 @@ boundedness: 100
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[甲]]<rt>ㄍㄚㄆ</rt></ruby> "armor; first heavenly stem" (stand-in for 甲)
 - <ruby>[[指甲]]<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> "fingernail; toenail; nail"
 - <ruby>[[穿山甲]]<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby> "pangolin"
 - <ruby>[[肩甲骨]]<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby> "shoulder blade"

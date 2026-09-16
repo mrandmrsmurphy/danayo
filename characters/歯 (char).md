@@ -20,7 +20,7 @@ english:
 羅馬字: ci
 諺文: 치
 joyo_level: "3"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 中
 danayo_id: 3170
 mc_id: 1083
@@ -30,7 +30,7 @@ aliases:
   - 齒
   - 齿
 注音: ㄑㄧ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -48,8 +48,12 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby> "teeth; gear" (stand-in for 歯)
 - <ruby>[[歯齦]]<rt>ㄑㄧㄎㄚㄋ</rt></ruby> "gingiva, gums"
 - <ruby>[[歯痛]]<rt>ㄑㄧㄊㄛㄫ</rt></ruby> "toothache"
 
 ## Chengyu
 - <ruby>[[唇亡歯寒]]<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> "when the lips are gone, the teeth feel cold"
+
+## Derived Characters
+- <ruby>[[齦]]<rt>ㄎㄚㄋ</rt></ruby> "gums; gingiva"

@@ -33,7 +33,7 @@ stand_in: "腹"
 aliases:
   - 鰒
 注音: "ㄈㄨㄎ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -55,3 +55,6 @@ boundedness: 80
 ## Words
 - <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby> "stomach, belly, abdomen" (stand-in for 腹)
 - <ruby>[[腹部]]<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby> "abdomen"
+
+## Chengyu
+- <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(on your) belly (shall you) go, (and) eat dust"

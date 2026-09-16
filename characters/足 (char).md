@@ -30,7 +30,7 @@ graphemic_classification: 会意
 stand_in: 足
 aliases:
 注音: ㄐㄛㄎ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -68,3 +68,15 @@ boundedness: 70
 ## Derived Characters
 - <ruby>[[促 (char)|促]]<rt>ㄑㄛㄎ</rt></ruby> "hurry; rush"
 - <ruby>[[捉]]<rt>ㄐㄚㄎ</rt></ruby> "clutch; seize"
+- <ruby>[[跆]]<rt>ㄊㄛㄧ</rt></ruby> "trample"
+- <ruby>[[距]]<rt>ㄍ⼄</rt></ruby> "long-distance"
+- <ruby>[[践]]<rt>ㄐㄝㄋ</rt></ruby> "fulfill"
+- <ruby>[[踏]]<rt>ㄊㄚㄆ</rt></ruby> "step on"
+- <ruby>[[踵]]<rt>ㄐㄛㄫ</rt></ruby> "heel"
+- <ruby>[[跋]]<rt>ㄅㄚㄊ</rt></ruby> "to stride"
+- <ruby>[[跡]]<rt>ㄐㄝㄎ</rt></ruby> "vestige"
+- <ruby>[[路]]<rt>ㄌㄛ</rt></ruby> "road"
+- <ruby>[[踊]]<rt>⼄ㄫ</rt></ruby> "jump"
+- <ruby>[[踪]]<rt>ㄐㄛㄫ</rt></ruby> "remains"
+- <ruby>[[蹠]]<rt>ㄐㄝㄎ</rt></ruby> "metatarsal"
+- <ruby>[[跳]]<rt>ㄊㄛㄨ</rt></ruby> "hop"

@@ -74,5 +74,5 @@ boundedness: 90
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
 - <ruby>[[飲食歓楽]]<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄋ</rt></ruby> "eat drink and be merry"
 - <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"
-- <ruby>[[腹行食塵]]<rt>ㄅㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
+- <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜ·ㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"

@@ -87,7 +87,7 @@ boundedness: 55
 - <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; attributive elements come before what they modify"
 - <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄒㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "Everything is impermanent"
-- <ruby>[[腹行食塵]]<rt>ㄅㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
+- <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
 
 ## Derived Characters
 - <ruby>[[桁 (char)|桁]]<rt>ㄏㄚㄫ</rt></ruby> "beam"
