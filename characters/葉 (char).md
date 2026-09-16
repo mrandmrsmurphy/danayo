@@ -10,14 +10,12 @@ japanese_native: は
 vietnamese:
   - diếp
   - diệp
-  - dịp
   - dớp
   - dợp
   - giấp
   - giẹp
   - nhịp
   - riếp
-  - xẹp
   - đẹp
 middle_chinese_initial: j
 middle_chinese_final: iᴇp
@@ -40,7 +38,7 @@ stand_in: 葉
 aliases:
   - 叶
 注音: ⼄ㄆ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character

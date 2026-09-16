@@ -31,7 +31,7 @@ graphemic_classification: 艮
 stand_in: 根
 aliases:
 注音: ㄍㄜㄋ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[根拠]]<rt>ㄍㄜㄋㄍ⼄</rt></ruby> "to be according to; to be based on"
 - <ruby>[[根本]]<rt>ㄍㄜㄋㄅㄛㄋ</rt></ruby> "basis, foundation, base"
 - <ruby>[[耳根]]<rt>ㄋㄧㄍㄜㄋ</rt></ruby> "root of the ear"
+- <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby> "root of the tongue; taste faculty"
 
 ## Chengyu
 - <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "the love of money is the root of all evil"
