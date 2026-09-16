@@ -40,8 +40,7 @@ aliases:
   - 啮
   - 𪘂
 注音: ⼘ㄨ
-swadesh: 94
-date-last-perfect: 2026-02-17
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -55,10 +54,10 @@ boundedness: 75
 ```
 
 ## Notes
-- [[Radical 030|口]] + [[交 (char)]] = [[SKIP-1-3-6]] ([[Stroke 09]]) - [[⼘ㄨ]]
-- [[Hyōgai]], [[Korean Name ㄱ]], HSK 2, [[Grade 6]]
-[[Lookup/CC/initials/聲 疑]]
-[[Lookup/CC/finals/韻 肴]]
+- 形声: semantic [[Radical 030|口]] ("mouth") + phonetic [[交]] — "to bite, gnaw, chew."
+- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
+- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [⼘ㄨ](syllables/⼘ㄨ.md)
+- [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[咬]]<rt>⼘ㄨ</rt></ruby> "bite; gnaw; chew" (stand-in for 咬)

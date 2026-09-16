@@ -35,7 +35,7 @@ stand_in: "食"
 aliases:
   - 蝕
 注音: "ㄙㄧㄎ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: true
 tags:
   - character
@@ -53,6 +53,7 @@ boundedness: 90
 - 110th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄙㄧㄎ](../syllables/ㄙㄧㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[食]]<rt>ㄙㄧㄎ</rt></ruby> "eat" (stand-in for 食)
 - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby> "food"
 - <ruby>[[飲食]]<rt>ㄨㄇㄙㄧㄎ</rt></ruby> "eat and drink"
 - <ruby>[[食堂]]<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby> "restaurant"
@@ -76,3 +77,13 @@ boundedness: 90
 - <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜ·ㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
+
+## Derived Characters
+- <ruby>[[飴]]<rt>ㄧ</rt></ruby> "syrup"
+- <ruby>[[飯]]<rt>ㄅㄛㄋ</rt></ruby> "rice (cooked)"
+- <ruby>[[飢]]<rt>ㄍㄧㄜ</rt></ruby> "hungry"
+- <ruby>[[館]]<rt>ㄍ⺢ㄋ</rt></ruby> "hall"
+- <ruby>[[饗]]<rt>ㄏ⼘ㄫ</rt></ruby> "banquet"
+- <ruby>[[饉]]<rt>ㄍㄨㄋ</rt></ruby> "famine"
+- <ruby>[[養]]<rt>⼘ㄫ</rt></ruby> "foster"
+- <ruby>[[饅]]<rt>ㄇㄚㄋ</rt></ruby> "steamed bun"
