@@ -54,3 +54,6 @@ boundedness: 80
 - <ruby>[[玻璃]]<rt>ㄆㄚㄌㄝ</rt></ruby> "glass"
 - <ruby>[[瑠璃]]<rt>ㄌ⼜ㄌㄜ</rt></ruby> "lapis lazuli"
 - <ruby>[[玻璃版]]<rt>ㄆㄚㄌㄜㄆㄚㄋ</rt></ruby> "glass plate, lithograph"
+
+## Chengyu
+- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄝㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
