@@ -62,7 +62,7 @@ boundedness: 100
 - <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨ·ㄚㄋ</rt></ruby> "good morning"
 
 ## Chengyu
-- <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight; a short period of time"
+- <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"
 - <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
 - <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> "Korean picks the sound"
 
