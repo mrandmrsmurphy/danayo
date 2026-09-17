@@ -62,7 +62,7 @@ date-last-perfect: 2026-09-16
 - <ruby>[[故而]]<rt>ㄍㄛㄋㄧ</rt></ruby> "therefore"
 
 ## Chengyu
-- <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "rule without action"
+- <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"
 
 ## Derived Characters
 - <ruby>[[耐 (char)|耐]]<rt>ㄋㄚㄧ</rt></ruby> "able to tolerate, able to endure"

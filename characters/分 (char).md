@@ -78,3 +78,4 @@ boundedness: 95
 
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
+- <ruby>[[数数衡分]]<rt>ㄙㄨㄙㄨㄏㄚㄫㄅㄨㄋ</rt></ruby> "Mene, mene, tekel, upharsin"
