@@ -24,7 +24,7 @@ tags: [lookup]
 7. <ruby>[釩](../../characters/釩.md)<rt>ㄈㄚㄋ</rt></ruby> - vanadium
 
 ### +4 Strokes
-8. <ruby>[鈍](../../characters/鈍.md)<rt>ㄉㄛㄋ</rt></ruby> - dull
+8. <ruby>[鈍](../../characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> - dull
 9. <ruby>[鈩](../../characters/鈩.md)<rt>ㄌㄛ</rt></ruby> - fireplace
 10. <ruby>[鈬](../../characters/鈬%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
 

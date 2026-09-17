@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 屯.
 >For the word, see [屯](words/屯.md)
@@ -58,5 +58,5 @@ date-last-perfect: 2026-08-10
 - <ruby>[[春 (char)|春]]<rt>ㄑㄨㄋ</rt></ruby> "springtime"
 - <ruby>[[沌]]<rt>ㄉㄛㄋ</rt></ruby> "chaotic; confused"
 - <ruby>[[純]]<rt>ㄐㄨㄋ</rt></ruby> "pure"
-- <ruby>[[鈍]]<rt>ㄉㄛㄋ</rt></ruby> "dull; not sharp"
+- <ruby>[[鈍 (char)|鈍]]<rt>ㄉㄛㄋ</rt></ruby> "dull; not sharp"
 - <ruby>[[頓]]<rt>ㄊㄛㄋ</rt></ruby> "kowtow"

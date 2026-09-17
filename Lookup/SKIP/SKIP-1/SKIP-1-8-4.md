@@ -22,7 +22,7 @@ tags: [lookup]
 9. <ruby>[欺](characters/欺.md)<rt>ㄎㄧ</rt></ruby> "deceive"
 10. <ruby>[欽](characters/欽.md)<rt>ㄎㄨㄇ</rt></ruby> "respect"
 11. <ruby>[款](characters/款%20(char).md)<rt>ㄎ⺢ㄋ</rt></ruby> "item"
-12. <ruby>[鈍](characters/鈍.md)<rt>ㄉㄛㄋ</rt></ruby> "dull"
+12. <ruby>[鈍](characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> "dull"
 13. <ruby>[鈩](characters/鈩.md)<rt>ㄌㄛ</rt></ruby> "fireplace"
 14. <ruby>[鈬](characters/鈬%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> "bronze bell"
 15. <ruby>[飯](characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> "rice"

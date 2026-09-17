@@ -146,7 +146,7 @@ tags: [lookup]
 #### 동
 [[銅 (char)]] (구리 동)  [凍](../../characters/凍.md) (얼 동)
 #### 둔
-[鈍](../../characters/鈍.md) (무딜 둔)  [屯 (char)](../../characters/屯%20(char).md) (진칠 둔)
+[鈍](../../characters/鈍%20(char).md) (무딜 둔)  [屯 (char)](../../characters/屯%20(char).md) (진칠 둔)
 #### 등
 [騰](../../characters/騰.md) (오를 등)
 

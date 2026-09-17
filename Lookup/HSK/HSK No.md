@@ -139,7 +139,7 @@ tags: [lookup]
 [翌 (char)](../../characters/翌%20(char).md)
 [垣 (char)](characters/垣%20(char).md)
 [綻](../../characters/綻.md)
-[鈍](../../characters/鈍.md)
+[鈍](../../characters/鈍%20(char).md)
 [囚](../../characters/囚.md)
 [昇](../../characters/昇.md)
 [呂](../../characters/呂.md)

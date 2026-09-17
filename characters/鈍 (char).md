@@ -36,8 +36,11 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-09-16
 ---
+>[!tip] This is a page about the character 鈍.
+>For the word, see [鈍](words/鈍.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

@@ -792,7 +792,7 @@ tags: [lookup]
 1811. [豚 (char)](characters/豚%20(char).md) : pork
 1812. [頓](../../characters/頓.md) : suddenly
 1813. [貪 (char)](../../characters/貪%20(char).md) : covet
-1814. [鈍](../../characters/鈍.md) : dull
+1814. [鈍](../../characters/鈍%20(char).md) : dull
 1815. [曇 (char)](../../characters/曇%20(char).md) : cloudy weather
 1816. [丼](characters/井.md) : bowl of food
 1817. [那 (char)](../../characters/那%20(char).md) : what
