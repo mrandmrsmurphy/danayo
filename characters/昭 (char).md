@@ -52,5 +52,8 @@ boundedness: 80
 [[Lookup/CC/initials/聲 章]]
 [[Lookup/CC/finals/韻 宵A]]
 
+## Chengyu
+- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"
+
 ## Derived Characters
 - <ruby>[[照]]<rt>ㄐㄛㄨ</rt></ruby> "shine"
