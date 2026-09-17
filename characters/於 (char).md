@@ -6,8 +6,11 @@ korean_native: 어조사
 japanese:
   - O
   - YO
-japanese_native: ああ
-  - あう, より, おいて
+japanese_native:
+  - ああ
+  - あう
+  - より
+  - おいて
 vietnamese:
   - ư
 middle_chinese_initial: ʔ
@@ -33,7 +36,7 @@ stand_in: 於
 aliases:
   - 扵
 注音: ㄛ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
