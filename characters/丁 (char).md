@@ -34,7 +34,7 @@ stand_in: 丁
 aliases:
   - 𠆤
 注音: ㄉㄝㄫ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -62,7 +62,6 @@ boundedness: 80
 - <ruby>[[正 (char)|正]]<rt>ㄐㄧㄫ</rt></ruby> "correct"
 - <ruby>[[成 (char)|成]]<rt>ㄙㄧㄫ</rt></ruby> "become"
 - <ruby>[[頂]]<rt>ㄐㄝㄫ</rt></ruby> "peak"
-- <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby> "hall"
 - <ruby>[[亭]]<rt>ㄉㄝㄫ</rt></ruby> "pavilion"
 - <ruby>[[訂 (char)|訂]]<rt>ㄊㄝㄫ</rt></ruby> "revise"
 - <ruby>[[汀 (char)|汀]]<rt>ㄊㄝㄫ</rt></ruby> "sand bar"

@@ -39,7 +39,7 @@ aliases:
   - 𧾸
   - 𠙺
 注音: "ㄐㄧㄫ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -56,6 +56,7 @@ boundedness: 100
 - 136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄐㄧㄫ](../syllables/ㄐㄧㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[正]]<rt>ㄐㄧㄫ</rt></ruby> "correct" (stand-in for 正)
 - <ruby>[[正義]]<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice"
 - <ruby>[[矯正]]<rt>ㄍ⼘ㄨㄐㄧㄫ</rt></ruby> "correct; rectify"
 - <ruby>[[正音]]<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation; standard pronunciation"
@@ -83,3 +84,5 @@ boundedness: 100
 - <ruby>[[征]]<rt>ㄐㄝㄫ</rt></ruby> "conquer"
 - <ruby>[[症]]<rt>ㄐㄧㄫ</rt></ruby> "disease"
 - <ruby>[[鉦]]<rt>ㄐㄧㄫ</rt></ruby> "marching gong"
+- <ruby>[[整 (char)|整]]<rt>ㄐㄝㄫ</rt></ruby> "orderly, neat"
+- <ruby>[[政]]<rt>ㄐㄧㄫ</rt></ruby> "government, political affairs"

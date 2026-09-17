@@ -38,7 +38,7 @@ stand_in: 乾
 aliases:
 注音: ㄍ⼶ㄋ
 kwin: false
-date-last-perfect: 2026-07-02
+date-last-perfect: 2026-09-16
 tags:
   - character
 boundedness: 100
@@ -57,7 +57,7 @@ boundedness: 100
 - [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[乾]]<rt>ㄍ⼶ㄋ</rt></ruby> "heavenly"
+- <ruby>[[乾]]<rt>ㄍ⼶ㄋ</rt></ruby> "heavenly" (stand-in for 乾)
 - <ruby>[[乾坤]]<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby> "heaven and earth"
 - <ruby>[[乾浄]]<rt>ㄍ⼶ㄋㄐㄝㄫ</rt></ruby> "clean; neat; tidy"
 - <ruby>[[乾達婆]]<rt>ㄍ⼶ㄋㄊㄚㄊㄅㄚ</rt></ruby> "gandharva (celestial musician)"
@@ -65,3 +65,6 @@ boundedness: 100
 - <ruby>[[乾溜]]<rt>ㄍ⼶ㄋㄌ⼜</rt></ruby> "dry distillation"
 - <ruby>[[乾芻]]<rt>ㄍ⼶ㄋㄑㄨ</rt></ruby> "hay; dried fodder"
 - <ruby>[[乾酪]]<rt>ㄍ⼶ㄋㄌㄚㄎ</rt></ruby> "cheese"
+
+## Chengyu
+- <ruby>[[乾坤一擲]]<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> "all in, all or nothing, bet it all"

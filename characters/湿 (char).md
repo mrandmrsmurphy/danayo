@@ -34,7 +34,7 @@ tags:
   - character
 kwin: false
 boundedness: 75
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 湿.
 >For the word, see [湿](words/湿.md)
