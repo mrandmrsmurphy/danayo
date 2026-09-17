@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"
 
 ## Chengyu
-- <ruby>[[文体並存]]<rt>ㄇㄨㄋㄊㄝㄧㄅㄝㄫㄐㄛㄋ</rt></ruby> "styles coexist"
+- <ruby>[[文体並存]]<rt>ㄇㄨㄋㄊㄝㄧㄅㄝㄫㄐㄛㄋ</rt></ruby> "Styles coexist"
 
 ## Derived Characters
 - 碰 is a permanently forbidden character (see [[文法 - 98違法字]]) despite its 石+並 composition and valid SKIP/stroke/radical data — a recent colloquial coinage, not admitted.
