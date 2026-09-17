@@ -55,4 +55,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[砕]]<rt>ㄙㄛㄧ</rt></ruby> "smash, break" (stand-in for 砕)
 
 ## Chengyu
-- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; utter self-sacrifice"
+- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

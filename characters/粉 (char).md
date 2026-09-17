@@ -55,4 +55,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> "powder, fine powder"
 
 ## Chengyu
-- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; devote oneself utterly"
+- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"
