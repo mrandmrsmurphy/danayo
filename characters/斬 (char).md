@@ -59,6 +59,6 @@ date-last-perfect: 2026-08-08
 - <ruby>[[斬豪]]<rt>ㄐㄚㄇㄏㄚㄨ</rt></ruby> "trench" (代用字 for 塹壕; aliases: 斬壕, 塹壕, 堑壕)
 
 ## Derived Characters
-- [[漸]]
-- [[慙]]
-- [[暫]]
+- <ruby>[[漸]]<rt>ㄐㄝㄇ</rt></ruby> "gradually"
+- <ruby>[[慙]]<rt>ㄐㄚㄇ</rt></ruby> "ashamed, humiliated"
+- <ruby>[[暫]]<rt>ㄐㄚㄇ</rt></ruby> "temporary, momentary"
