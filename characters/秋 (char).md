@@ -65,6 +65,7 @@ boundedness: 65
 ## Chengyu
 - <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"
+- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
 ## Derived Characters
 - <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby> "shovel"
 - <ruby>[[萩]]<rt>ㄑㄨ</rt></ruby> "bush clover"

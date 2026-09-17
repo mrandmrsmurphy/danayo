@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[詠春拳]]<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby> "Wing Chun"
 
 ## Chengyu
-- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "the four seasons; all year"
+- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
 - <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"
 
 ## Derived Characters

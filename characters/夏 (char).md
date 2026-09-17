@@ -57,7 +57,7 @@ boundedness: 80
 - <ruby>[[季夏]]<rt>ㄍㄨㄧㄏ⼘</rt></ruby> "late summer (6th month)"
 
 ## Chengyu
-- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "the four seasons; all year"
+- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
 
 ## Derived Characters
 - <ruby>[[廈]]<rt>ㄏㄚ</rt></ruby> "building; mansion"
