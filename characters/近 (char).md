@@ -6,7 +6,8 @@ korean_native: 가까울
 japanese:
   - KIN
   - KON
-japanese_native: ちか
+japanese_native:
+  - ちか
   - ちか-い
 vietnamese:
   - cận
@@ -34,7 +35,7 @@ stand_in: 近
 aliases:
   - 𫙧
 注音: ㄍㄧㄋ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character

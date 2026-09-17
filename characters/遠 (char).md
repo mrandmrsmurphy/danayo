@@ -33,7 +33,7 @@ stand_in: "遠"
 aliases:
   - 远
 注音: "ㄛㄋ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character

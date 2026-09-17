@@ -29,7 +29,7 @@ graphemic_classification: "象形"
 stand_in: "又"
 aliases:
 注音: "ㄨㄛ"
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -54,7 +54,6 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[有 (char)|有]]<rt>⼜</rt></ruby> "have"
 - <ruby>[[友]]<rt>⼜ㄛ</rt></ruby> "friend"
-- <ruby>[[尤]]<rt>⼜ㄛ</rt></ruby> "especially; particularly; more so"
 - <ruby>[[馭]]<rt>⼄</rt></ruby> "drive"
 - <ruby>[[右]]<rt>⼜</rt></ruby> "right (direction)"
 - <ruby>[[祭]]<rt>ㄐㄝ</rt></ruby> "festival; sacrifice"
