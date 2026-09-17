@@ -71,4 +71,4 @@ boundedness: 80
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 
 ## Chengyu
-- <ruby>[[千差万別]]<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> "variegated; manifold diversity"
+- <ruby>[[千差万別]]<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> "variegated, manifold diversity"
