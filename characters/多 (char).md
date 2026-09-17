@@ -65,7 +65,7 @@ boundedness: 70
 - <ruby>[[加多金]]<rt>ㄍㄚㄉㄚㄍㄧㄇ</rt></ruby> "gadolinium" — a phonosemantic coinage (加多 approximates "gado-", 多 also contributing "many, more")
 
 ## Chengyu
-- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "many are called, few are chosen"
+- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
 
 ## Derived Characters

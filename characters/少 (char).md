@@ -60,7 +60,7 @@ boundedness: 90
 - <ruby>[[更少]]<rt>ㄍㄚㄫㄙㄛㄨ</rt></ruby> "less; fewer"
 - <ruby>[[希少]]<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby> "scarce"
 ## Chengyu
-- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "many are called, few are chosen"
+- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
 ## Derived Characters
 - <ruby>[[妙 (char)|妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle"
