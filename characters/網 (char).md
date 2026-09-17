@@ -59,3 +59,6 @@ date-last-perfect: 2026-09-05
 - <ruby>[[網球]]<rt>ㄇㄚㄫㄍ⼜</rt></ruby> "tennis, tennis ball, net ball"
 - <ruby>[[網球場]]<rt>ㄇㄚㄫㄍ⼜ㄐㄚㄫ</rt></ruby> "tennis court"
 - <ruby>[[網語体]]<rt>ㄇㄚㄫ⼄ㄊㄝㄧ</rt></ruby> "internet-language register"
+
+## Chengyu
+- <ruby>[[一網打尽]]<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> "roundup, wholesale arrest; rounding up the herd with one throw"

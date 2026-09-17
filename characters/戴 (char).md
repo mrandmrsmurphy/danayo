@@ -55,4 +55,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[佩戴]]<rt>ㄈㄛㄧㄊㄚㄧ</rt></ruby> "wear (accessories)"
 
 ## Chengyu
-- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby>
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"

@@ -82,7 +82,7 @@ boundedness: 50
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
-- <ruby>[不共戴天](/chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
 - <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"
 - <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> "anxiety; sexual frustration"
