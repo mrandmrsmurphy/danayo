@@ -57,3 +57,6 @@ boundedness: 75
 - <ruby>[[詞彙]]<rt>ㄙㄚㄏㄨ</rt></ruby> "vocabulary; lexicon"
 - <ruby>[[字彙]]<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon; vocabulary"
 - <ruby>[[語彙]]<rt>⼄ㄏㄨ</rt></ruby> "lexicon; vocabulary"
+
+## Chengyu
+- <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "The lexicon is capable of inclusion"

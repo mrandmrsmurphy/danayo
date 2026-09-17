@@ -56,4 +56,4 @@ boundedness: 80
 - <ruby>[[兼]]<rt>ㄍㄝㄇ</rt></ruby> "double as; dual-" (stand-in for 兼 (char))
 
 ## Chengyu
-- <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "the lexicon is capable of inclusion"
+- <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "The lexicon is capable of inclusion"
