@@ -60,7 +60,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
 - <ruby>[[弱肉強食]]<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
-- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "bone of my bone and flesh of my flesh"
+- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"
 
 ## Derived Characters
 - <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> "nurture"

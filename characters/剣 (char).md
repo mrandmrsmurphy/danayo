@@ -58,3 +58,4 @@ boundedness: 45
 
 ## Chengyu
 - <ruby>[[刻舟求剣]]<rt>ㄎㄨㄎㄐㄨㄍ⼜ㄛㄍㄛㄇ</rt></ruby> "stubbornly cling to tradition, fail to adapt"
+- <ruby>[[剣生剣死]]<rt>ㄍㄛㄇㄙㄚㄫㄍㄛㄇㄙㄧㄜ</rt></ruby> "He who lives by the sword shall die by the sword"

@@ -74,7 +74,7 @@ boundedness: 90
 - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby> "internet"
 
 ## Chengyu
-- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "bone of my bone and flesh of my flesh"
+- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"
 
 ## Derived Characters
 - <ruby>[[蓮 (char)|蓮]]<rt>ㄌ⼶ㄋ</rt></ruby> "lotus"

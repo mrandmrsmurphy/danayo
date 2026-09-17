@@ -71,7 +71,7 @@ boundedness: 20
 
 ## Chengyu
 - <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"
-- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "bone of my bone and flesh of my flesh"
+- <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"
 
 ## Derived Characters
 - <ruby>[[滑 (char)|滑]]<rt>ㄏ⺢ㄊ</rt></ruby> "slippery"
