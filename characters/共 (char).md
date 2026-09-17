@@ -29,7 +29,7 @@ graphemic_classification: 会意
 stand_in: 共
 aliases:
 注音: ㄍ⼄ㄫ
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -46,6 +46,7 @@ boundedness: 90
 - 381st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄍ⼄ㄫ](../syllables/ㄍ⼄ㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[共]]<rt>ㄍ⼄ㄫ</rt></ruby> "with, together" (stand-in for 共)
 - <ruby>[[共和]]<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby> "collaboration, cooperation, republicanism"
 - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby> "republic"
 - <ruby>[[共産]]<rt>ㄍ⼄ㄫㄙㄚㄋ</rt></ruby> "communist"
@@ -54,9 +55,16 @@ boundedness: 90
 - <ruby>[[越共]]<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby> "Vietcong"
 - <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
 - <ruby>[[共格]]<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"
+- <ruby>[[共有]]<rt>ㄍ⼄ㄫ·⼜</rt></ruby> "share"
+- <ruby>[[共通]]<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby> "common, shared"
 ## Derived Characters
 - <ruby>[[拱 (char)|拱]]<rt>ㄍ⼄ㄫ</rt></ruby> "arch"
+- <ruby>[[供]]<rt>ㄍ⼄ㄫ</rt></ruby> "supply, provide for"
+- <ruby>[[恭]]<rt>ㄍ⼄ㄫ</rt></ruby> "respectful"
+- <ruby>[[哄]]<rt>ㄏㄛㄫ</rt></ruby> "resound with laughter"
+- <ruby>[[洪]]<rt>ㄏㄛㄫ</rt></ruby> "deluge, flood"
+- <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> "give, present"
 ## Chengyu
-- [[不共戴天]] "absolutely irreconcilable"
-- [[百家共承]] "hundred schools jointly inherited"
-- [[文音共決]] "script and sound resolved together"
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
+- <ruby>[[百家共承]]<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "hundred schools jointly inherited"
+- <ruby>[[文音共決]]<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> "script and sound resolved together"

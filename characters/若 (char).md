@@ -30,7 +30,7 @@ graphemic_classification: 象形
 stand_in: 若
 aliases:
 注音: ㄋ⼘
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
@@ -50,8 +50,11 @@ boundedness: 55
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[若]]<rt>ㄋ⼘</rt></ruby> "if"
+- <ruby>[[若]]<rt>ㄋ⼘</rt></ruby> "if" (stand-in for 若)
 - <ruby>[[若干]]<rt>ㄋ⼘ㄍㄚㄋ</rt></ruby> "a little, somewhat"
+
+## Chengyu
+- <ruby>[[傍若無人]]<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 
 ## Derived Characters
 - <ruby>[[諾 (char)|諾]]<rt>ㄋㄚㄎ</rt></ruby> "promise; agree"

@@ -40,7 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-09-16
 ---
 >[!tip] This is a page about the character 而.
 >For the word, see [而](words/而.md)
@@ -65,6 +65,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "rule without action"
 
 ## Derived Characters
-- <ruby>[[嫩 (char)|嫩]]<rt>ㄋㄛㄋ</rt></ruby> "delicate, tender"
 - <ruby>[[耐 (char)|耐]]<rt>ㄋㄚㄧ</rt></ruby> "able to tolerate, able to endure"
-- <ruby>[[軟]]<rt>ㄋㄝㄋ</rt></ruby> "soft, pliable"
