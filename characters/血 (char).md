@@ -57,4 +57,4 @@ boundedness: 80
 - <ruby>[[輸血]]<rt>ㄙㄨㄇㄏ⼔ㄊ</rt></ruby> "transfuse blood"
 
 ## Chengyu
-- <ruby>[[血誓盟約]]<rt>ㄏ⼔ㄊㄙㄝㄇ⼶ㄫ·⼘ㄎ</rt></ruby> "a covenant in blood"
+- <ruby>[[血誓盟約]]<rt>ㄏ⼔ㄊㄙㄝㄇ⼶ㄫ·⼘ㄎ</rt></ruby> "A covenant in blood, the blood of the covenant"

@@ -60,4 +60,4 @@ boundedness: 80
 - <ruby>[[更改]]<rt>ㄍㄚㄫㄍㄚㄧ</rt></ruby> "to change; to alter"
 
 ## Chengyu
-- [[豹斑改乎]] "Can a leopard change his spots?"
+- <ruby>[[豹斑改乎]]<rt>ㄅ⼘ㄨㄅㄚㄋㄍㄚㄧㄏㄛ</rt></ruby> "Can a leopard change his spots?"

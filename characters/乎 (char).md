@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[不亦V乎]]<rt>ㄅㄛㄊㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 
 ## Chengyu
-- <ruby>[[豹斑改乎]]<rt>ㄅ⼘ㄨㄅㄚㄋㄍㄚㄧㄏㄛ</rt></ruby> "can a leopard change his spots?"
+- <ruby>[[豹斑改乎]]<rt>ㄅ⼘ㄨㄅㄚㄋㄍㄚㄧㄏㄛ</rt></ruby> "Can a leopard change his spots?"
 
 ## Derived Characters
 - <ruby>[[呼 (char)|呼]]<rt>ㄏㄛ</rt></ruby> "to call; shout; exhale"
