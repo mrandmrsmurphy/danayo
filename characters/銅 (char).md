@@ -57,4 +57,4 @@ boundedness: 75
 - <ruby>[[銅鑼]]<rt>ㄉㄛㄫㄌㄚ</rt></ruby> "gong"
 
 ## Chengyu
-- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "gold, silver, copper, iron"
+- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

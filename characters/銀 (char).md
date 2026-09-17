@@ -61,4 +61,4 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "head on a silver platter"
-- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "gold, silver, copper, iron"
+- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

@@ -1,5 +1,5 @@
 ---
-mandarin: zhí
+mandarin: tiě
 cantonese: tit3
 korean: 철
 korean_native: 쇠
@@ -69,4 +69,4 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"
-- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "gold, silver, copper, iron"
+- <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

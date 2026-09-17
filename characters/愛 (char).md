@@ -67,4 +67,4 @@ boundedness: 80
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"
 - <ruby>[[愛隣如自]]<rt>ㄚㄧㄌㄧㄋㄋ⼄ㄐㄧㄜ</rt></ruby> "love your neighbor as yourself"
 - <ruby>[[愛主耳錐]]<rt>ㄚㄧㄐㄨㄋㄧㄐㄨㄧ</rt></ruby> "if you love your master, in your ear put the awl"
-- <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "the love of money is the root of all evil"
+- <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "The love of money is the root of all evil"

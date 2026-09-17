@@ -59,4 +59,4 @@ boundedness: 90
 - <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby> "root of the tongue; taste faculty"
 
 ## Chengyu
-- <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "the love of money is the root of all evil"
+- <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "The love of money is the root of all evil"
