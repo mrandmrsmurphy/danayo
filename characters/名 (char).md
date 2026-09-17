@@ -30,7 +30,7 @@ stand_in: "名"
 aliases:
   - 洺
 注音: "ㄇㄧㄫ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-16
 kwin: false
 tags:
   - character
