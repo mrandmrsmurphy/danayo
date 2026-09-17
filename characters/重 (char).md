@@ -72,7 +72,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[義重於音]]<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> "meaning is more important than sound"
-- <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "culture over war"
+- <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"
 
 ## Derived Characters
 - <ruby>[[動 (char)|動]]<rt>ㄉㄛㄫ</rt></ruby> "move"

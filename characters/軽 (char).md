@@ -1,6 +1,6 @@
 ---
-mandarin: "zhì"
-cantonese: "zi3"
+mandarin: "qīng"
+cantonese: "hing1"
 korean: "경"
 korean_native: 가벼울
 japanese:
@@ -64,4 +64,4 @@ boundedness:
 - <ruby>[[軽重]]<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby> "relative importance"
 
 ## Chengyu
-- <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "culture over war"
+- <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"
