@@ -64,4 +64,4 @@ boundedness: 90
 - <ruby>[[圓錐曲線]]<rt>⼔ㄋㄐㄨㄧㄎ⼘ㄎㄙ⼶ㄋ</rt></ruby> "conic section"
 
 ## Chengyu
-- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "heaven is round, earth is square"
+- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
