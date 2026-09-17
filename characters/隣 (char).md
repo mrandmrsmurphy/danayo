@@ -57,3 +57,4 @@ date-last-perfect: 2026-08-10
 
 ## Chengyu
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"
+- <ruby>[[愛隣如自]]<rt>ㄚㄧㄌㄧㄋㄋ⼄ㄐㄧㄜ</rt></ruby> "love your neighbor as yourself"
