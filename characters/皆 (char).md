@@ -8,7 +8,7 @@ japanese:
 japanese_native: みな
   - とも
 vietnamese:
-  - gai
+  - giai
 middle_chinese_initial: k
 middle_chinese_final: ɣɛi
 stroke_count: 9
