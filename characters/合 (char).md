@@ -71,7 +71,7 @@ boundedness: 100
 - <ruby>[[融合]]<rt>⼜ㄫㄍㄛㄆ</rt></ruby> "fuse, blend, integrate"
 
 ## Chengyu
-- [合漢再決](chengyu/合漢再決.md)
+- <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
 
 ## Derived Characters
 - [[恰 (char)|恰]]
