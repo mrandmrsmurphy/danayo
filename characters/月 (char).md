@@ -120,7 +120,7 @@ boundedness: 80
 - <ruby>[[臘月]]<rt>ㄌㄚㄆ·⼔ㄊ</rt></ruby> "sacrifice month (12th month)"
 ## Chengyu
 - <ruby>[[呉牛喘月]]<rt>ㄛㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> "excessive fear"
-- <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi; fantasy, illusion"
+- <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"
 - <ruby>[[日月星辰]]<rt>ㄋㄧㄊ·⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"
 ## Derived Characters
 - <ruby>[[外]]<rt>⺢ㄧ</rt></ruby> "outside"
