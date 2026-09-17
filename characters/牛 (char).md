@@ -60,4 +60,4 @@ boundedness: 90
 - <ruby>[[蝸牛]]<rt>ㄍ⺢ㄋ⼜</rt></ruby> "snail"
 ## Chengyu
 - <ruby>[[呉牛喘月]]<rt>ㄛㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> "excessive fear"
-- <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall; pearls before swine"
+- <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall, pearls before swine"
