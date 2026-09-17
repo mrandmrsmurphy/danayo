@@ -16,7 +16,7 @@ skip_number: 4-3-4
 grade_level: "1"
 pos: 関詞
 english:
-  - s
+  - "'s"
   - which
 羅馬字: ti
 諺文: 티
@@ -31,9 +31,8 @@ aliases:
   - 㞢
   - 𠔇
   - 𡳿
-  - の
 注音: ㄊㄧ
-date-last-perfect: 2026-02-20
+date-last-perfect: 2026-09-17
 kwin: false
 tags:
   - character
@@ -46,13 +45,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- Ideogrammic compound ([List of 会意](../lookup/List%20of%20会意.md)): [止](止.md) (“foot”) + [一](一%20(char).md)) (“the beginning place”), originally written as 㞢; compound meaning “to go”. Hence, the character was similar to 出.  Filed under [丿](Radical%20004)
-- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄊㄧ](../syllables/ㄊㄧ.md)
+- 会意 (OC \*tjɯ, Zhengzhang): [[止]] ("foot") + [[一 (char)|一]] ("the starting place"), originally written 㞢 — a foot leaving a starting line, "to go." The image parallels [[出 (char)|出]] (a foot leaving a container/pit, "to exit"), both depicting departure from a fixed reference point. The "go" sense faded from ordinary use, and 之 became fully occupied by its grammatical functions: a genitive/possessive particle ("of," comparable to English's 's) and a third-person/demonstrative pronoun ("this, it"). Dual-source confirmed (en.Wiktionary).
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 1st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄊㄧ](../syllables/ㄊㄧ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Grade 1](../lookup/Grade%201.md)
-### Derived Characters
-- [[乏]]
-- [[芝]]
-- 㝎-->定 
+- In Japanese, native の (no) fills the same genitive-particle role that 之 fills in classical Chinese, though の is an unrelated kana form rather than a variant of this character.
+
 ## Words
 - <ruby>[[之]]<rt>ㄊㄧ</rt></ruby> "of; genitive marker" (stand-in for 之)
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
@@ -62,6 +60,8 @@ boundedness: 80
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 
 ## Chengyu
-- <ruby>[糟糠之妻](/chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby>
-[[Lookup/CC/initials/聲 章]]
-[[Lookup/CC/finals/韻 之]]
+- <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "wife through thick and thin"
+
+## Derived Characters
+- <ruby>[[芝]]<rt>ㄐㄧ</rt></ruby> "sesame; grass" (形声, phonetic 之)
+- <ruby>[[乏]]<rt>ㄅㄚㄆ</rt></ruby> "scarcity; lack" (指事, reversed 正; visually resembles ㇒ + 之 in its modern form)
