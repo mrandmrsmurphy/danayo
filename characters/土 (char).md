@@ -66,7 +66,7 @@ boundedness: 90
 - <ruby>[[苦土素]]<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby> "magnesium"
 
 ## Chengyu
-- <ruby>[[帰塵帰土]]<rt>ㄍㄨㄧㄐㄧㄋㄍㄨㄧㄊㄛ</rt></ruby> "dust to dust"
+- <ruby>[[帰塵帰土]]<rt>ㄍㄨㄧㄐㄧㄋㄍㄨㄧㄊㄛ</rt></ruby> "Dust to dust"
 
 ## Derived Characters
 - <ruby>[[吐 (char)|吐]]<rt>ㄊㄛ</rt></ruby> "spit, vomit"
