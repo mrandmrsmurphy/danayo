@@ -65,7 +65,7 @@ boundedness: 90
 - <ruby>[[義以立名]]<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "by meaning one establishes names"
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
-- <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "a house divided against itself cannot stand"
+- <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
 ## Derived Characters
 - <ruby>[[拉 (char)|拉]]<rt>ㄌㄚㄆ</rt></ruby> "drag, pull"
 - <ruby>[[颯 (char)|颯]]<rt>ㄙㄚㄆ</rt></ruby> "sound of wind, gale"

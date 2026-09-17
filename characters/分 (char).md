@@ -75,3 +75,6 @@ boundedness: 95
 - <ruby>[[分布]]<rt>ㄅㄨㄋㄅㄛ</rt></ruby> "distribution, dispersion"
 - <ruby>[[分類学]]<rt>ㄅㄨㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "taxonomy"
 - <ruby>[[百分率]]<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby> "percentage, per-cent rate"
+
+## Chengyu
+- <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
