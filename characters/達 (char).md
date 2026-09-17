@@ -68,4 +68,4 @@ boundedness: 90
 - <ruby>[[乾達婆]]<rt>ㄍ⼶ㄋㄊㄚㄊㄅㄚ</rt></ruby> "Gandharva"
 
 ## Chengyu
-- <ruby>[[信達雅化]]<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> "faithful, transparent, elegant -ization"
+- <ruby>[[信達雅化]]<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> "Faithful, Transparent, Elegant -ization"

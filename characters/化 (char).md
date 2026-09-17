@@ -72,7 +72,7 @@ boundedness: 90
 - <ruby>[[融化]]<rt>⼜ㄫㄏ⺢</rt></ruby> "to dissolve; thaw"
 
 ## Chengyu
-- <ruby>[[信達雅化]]<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> "Faithful Transparent Elegant -ization"
+- <ruby>[[信達雅化]]<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> "Faithful, Transparent, Elegant -ization"
 
 ## Derived Characters
 - <ruby>[[訛]]<rt>⺢</rt></ruby> "error; extort"
