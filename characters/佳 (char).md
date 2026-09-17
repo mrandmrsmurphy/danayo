@@ -57,7 +57,7 @@ boundedness: 80
 - <ruby>[[佳人]]<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby> "beautiful woman"
 
 ## Chengyu
-- <ruby>[[佳人薄命]]<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> "a beautiful woman has an ill fate"
+- <ruby>[[佳人薄命]]<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> "a fair lady's destiny is thin indeed; whom the gods love die young"
 
 ## Derived Characters
 - <ruby>[[卦 (char)|卦]]<rt>ㄍ⺢ㄧ</rt></ruby> "trigram"

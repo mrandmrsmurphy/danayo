@@ -60,4 +60,4 @@ boundedness: 80
 - <ruby>[[作業]]<rt>ㄐㄚㄎㄝㄆ</rt></ruby> "work, operate"
 
 ## Chengyu
-- <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄉㄝㄫ</rt></ruby> "six work, one rest"
+- <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄉㄝㄫ</rt></ruby> "Six work, one rest"
