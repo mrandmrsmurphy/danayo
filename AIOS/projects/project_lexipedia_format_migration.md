@@ -1,10 +1,10 @@
 ---
 name: project-lexipedia-format-migration
-description: "Active (2026-09-17) - migrating existing lexipedia domain pages to the format.md template; 2/19 in-scope pages done"
+description: "Active (2026-09-17) - migrating existing lexipedia domain pages to the checklist_lexipedia.md template; 3/19 in-scope pages done"
 type: project
 ---
 
-**Status: active, 2 of 19 in-scope pages done.** [[AIOS/checklists/checklist_lexipedia.md]] (moved 2026-09-18 from `lexipedia/format.md`, which had been living as vault content despite being a how-to-validate page — see that checklist's own note) specifies a template every "domain page" should follow: frontmatter (`type: lexipedia`, `domain`, `related_domains`, `status: new|stub|partial|complete`, `date-last-perfect`), then `# Domain` → Domain Overview → `## Core Vocabulary (A1–A2)` → `## Intermediate (B1–B2)` with `###` subcategories → `## Advanced / Specialized (C1+)` → `## Semantic Range Notes` → `## See Also`. **On audit (2026-09-17), zero of the 28 existing files in `lexipedia/` followed this template** — not just the two pages worked on this session (Numbers, Metals), but also spot-checked `Color.md` and `Elements.md`, both plain flat lists with `language: English` frontmatter only. The template had never actually been applied to the real corpus.
+**Status: active, 3 of 19 in-scope pages done.** [[AIOS/checklists/checklist_lexipedia.md]] (moved 2026-09-18 from `lexipedia/format.md`, which had been living as vault content despite being a how-to-validate page — see that checklist's own note) specifies a template every "domain page" should follow: frontmatter (`type: lexipedia`, `domain`, `related_domains`, `status: new|stub|partial|complete`, `date-last-perfect`), then `# Domain` → Domain Overview → `## Core Vocabulary (A1–A2)` → `## Intermediate (B1–B2)` with `###` subcategories → `## Advanced / Specialized (C1+)` → `## Semantic Range Notes` → `## See Also`. **On audit (2026-09-17), zero of the 28 existing files in `lexipedia/` followed this template** — not just the two pages worked on this session (Numbers, Metals), but also spot-checked `Color.md` and `Elements.md`, both plain flat lists with `language: English` frontmatter only. The template had never actually been applied to the real corpus.
 
 ## Scope, established by reading `lexipedia/Lexipedia.md` (the index page) closely
 
@@ -20,6 +20,7 @@ type: project
 
 - [x] **Numbers** (2026-09-17, done this session)
 - [x] **Metals** (2026-09-17, done this session)
+- [x] **Color** (2026-09-18) — 31 real vocabulary entries (the "181 words" estimate above was a prose-length heuristic, not an entry count). All 31 word pages backlinked. Found and fixed 3 broken word pages while touching them for the backlink: `赤.md` was stamped `date-last-perfect` but had an empty `# Notes` (wrong heading level) and a malformed scalar `characters:` field — rebuilt with real content; `紫色.md` had no Notes section at all despite its stamp — rebuilt, plus filled its blank `vietnamese` field; `蒼.md` and `黄金.md` (from the Metals pass) had the missing-`../`-prefix link bug, fixed. Also found and fixed the domain page's own version of that same missing-`../` bug on **both** `Numbers.md` (was using GitHub-breaking leading-slash `/words/`) and `Metals.md` (was using Obsidian-fragile bare `words/`) — see `checklist_lexipedia.md`'s new "Wrong relative path to word files" entry.
 - [ ] Elements (26 words) — likely trivial, near-empty stub; may just need the 7-element "Main" list (air/earth/fire/metal/stone/water/wood/ether) organized into tiers plus a Domain Overview
 - [ ] Conflict (46 words)
 - [ ] Work (52 words)
@@ -33,7 +34,6 @@ type: project
 - [ ] Emotions (124 words)
 - [ ] Food (128 words)
 - [ ] Dimensions (144 words)
-- [ ] Color (181 words)
 - [ ] Animals (223 words)
 - [ ] Buildings (234 words)
 - [ ] Grammar (261 words) — borderline case: functional/grammatical vocabulary rather than a concrete semantic domain, but it IS listed in Lexipedia.md's main domain index, so in scope; may need a judgment call on how literally to apply the A1-C1 tiering to grammatical categories.

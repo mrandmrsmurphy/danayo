@@ -119,6 +119,10 @@ Set it once, and only once, all of the following hold:
 
 ## Common mistakes
 
+### Wrong relative path to word files
+
+From `lexipedia/DomainName.md`, a word file link must be `../words/Word.md` — not `words/Word.md` (missing `../`, resolves to a nonexistent `lexipedia/words/` and only "works" in Obsidian if it falls back to filename search) and not `/words/Word.md` (leading-slash absolute, resolves fine in Obsidian but breaks on GitHub, defeating the dual-compatibility purpose of using markdown links at all — see General Formatting Rules above). Found in both directions across `Numbers.md` (leading-slash) and `Metals.md` (missing `../`) on 2026-09-18; fixed on both, plus caught pre-emptively while drafting `Color.md`. Check every lexipedia page's word links with `grep -n "](/words/\|](words/"` before trusting them.
+
 ### Broken `related_domains` YAML
 
 `related_domains: [[Domain1]], [[Domain2]]` on one line is invalid YAML and breaks Obsidian's property parser ("Invalid properties"). Always write it as a real list of quoted wikilink strings — see Frontmatter above.
