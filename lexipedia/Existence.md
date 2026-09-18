@@ -15,9 +15,11 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[是](../words/是.md)<rt>ㄙㄝ</rt></ruby>: to be, to equal — the identity copula ("X is Y").
+- <ruby>[非](../words/非.md)<rt>ㄈㄧ</rt></ruby>: to not be — 是's direct negative counterpart ("X is not Y").
 - <ruby>[在](../words/在.md)<rt>ㄐㄚㄧ</rt></ruby>: to exist, to be present — the locative/existential copula ("X is at Y").
 - <ruby>[有](../words/有.md)<rt>⼜</rt></ruby>: to have, to possess — also functions as "there is/are."
 - <ruby>[無](../words/無.md)<rt>ㄇㄜ</rt></ruby>: to lack, to not have — the negative existential, "there is not."
+- <ruby>[莫](../words/莫.md)<rt>ㄇㄚㄎ</rt></ruby>: there is none who, nothing that — a negative existential quantifier over an action or agent ("莫 + V" = "no one Vs"), distinct from 無's static "there is not."
 - <ruby>[成](../words/成.md)<rt>ㄙㄧㄫ</rt></ruby>: to become.
 - <ruby>[現](../words/現.md)<rt>ㄏ⼶ㄋ</rt></ruby>: present, current (adjective).
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now.
@@ -72,7 +74,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 
 ## Semantic Range Notes
 
-The most consequential feature of this domain is that Dan'a'yo, following Chinese, **splits "to be" into four genuinely distinct, non-interchangeable words** rather than merging them the way English does: [[是]] is the identity copula ("this is that"), [[在]] is the locative/existential copula ("X is located at Y" / "X exists"), [[有]] is possessive-existential ("X has Y" / "there is a Y"), and [[無]] is its negation ("there is no Y"). A learner cannot substitute one for another — "the book is on the table" needs 在, not 是, and "there is a book" needs 有, not 在.
+The most consequential feature of this domain is that Dan'a'yo, following Chinese, **splits "to be" into six genuinely distinct, non-interchangeable words** rather than merging them the way English does — confirmed by the vault's own grammar, where all six independently share `pos: 系詞` (copula), not a coincidence of similar meaning but a real shared grammatical class. [[是]] is the identity copula ("this is that"), with [[非]] as its direct negation ("this is not that"). [[在]] is the locative/existential copula ("X is located at Y" / "X exists"). [[有]] is possessive-existential ("X has Y" / "there is a Y"), with [[無]] as its negation ("there is no Y"). [[莫]] is a sixth, subtler case: a negative existential *quantifier* over an action or agent rather than a static negation of possession — "莫 + verb" means "no one/nothing does [verb]," distinct from 無's flat "there is not [a thing]." A learner cannot substitute any of these for another — "the book is on the table" needs 在, not 是; "there is a book" needs 有, not 在; "no one came" needs 莫, not 無.
 
 The **change cluster is similarly split by manner rather than left as one generic verb**: [[変化]] is the neutral general-purpose "change," [[変動]] specifically implies ongoing fluctuation or instability rather than a single discrete change, and [[転化]] implies converting into something categorically different (a change of kind, not just of state). The bound suffix [[化]] ("-ification") is the productive engine behind many of these and other coined technical vocabulary items throughout the vault.
 
@@ -83,5 +85,5 @@ One real gap: Dan'a'yo has no dedicated *transitive* verb for "to generate/produ
 ## See Also
 
 **Related domains**:
-- [[Grammar]] — the 是/在/有/無 copula split is a core grammatical topic in its own right, not just vocabulary; see `数詞`/`名詞` and related sections in [[grammar/文法 - 97品詞|文法 - 97品詞]].
+- [[Grammar]] — the six-way 是/非/在/有/無/莫 copula split (`pos: 系詞`) is a core grammatical topic in its own right, not just vocabulary; see [[grammar/文法 - 97品詞|文法 - 97品詞]].
 - **Life** *(not yet created)* — birth, death, and the life cycle are deliberately excluded from this domain even though they're conceptually adjacent to "existence"; Rosenfelder keeps them as a separate topic, and this vault follows that split. 生/死 and their compounds (生活, 死亡, 誕生) belong there, not here.
