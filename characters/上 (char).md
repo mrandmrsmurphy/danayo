@@ -31,22 +31,22 @@ stand_in: 上
 aliases:
   - 丄
 注音: ㄙ⼘ㄫ
-date-last-perfect: 2026-03-22
+date-last-perfect: 2026-09-18
 kwin: false
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 上.
->For the word, see [上](words/上.md)
+>For the word, see [上](../words/上.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): A drawing of the idea of "above", [Radical 001](lookup/Radicals/Radical%20001.md)
-- [SKIP-4-3-2](lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md)) - [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [Korean MS](lookup/Korean/Korean%20MS.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md)
-- 29th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
+- [List of 指事](../lookup/List%20of%20指事.md): a short stroke placed above a horizontal line ([[Radical 001|一]]) marks the concept of "above"; original form 丄 (this page's own alias).
+- [SKIP-4-3-2](../lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 29th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](../syllables/ㄙ⼘ㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> "above" (stand-in for 上)
@@ -58,7 +58,7 @@ boundedness: 70
 - <ruby>[[上旬]]<rt>ㄙ⼘ㄫㄙ⼜ㄋ</rt></ruby> "beginning of the month"
 - <ruby>[[上面]]<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby> "surface, outward appearance"
 - <ruby>[[上知]]<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby> "those wise from birth; innate wisdom"
-- [[上述]] The aforementioned
+- <ruby>[[上述]]<rt>ㄙ⼘ㄫㄙㄨㄊ</rt></ruby> "the aforementioned"
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 - <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
