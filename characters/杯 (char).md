@@ -5,7 +5,7 @@ korean: "배"
 korean_native: 잔
 japanese:
   - HAI
-japanese_native: さかずき
+japanese_native:
   - さかずき
 vietnamese:
   - bôi
@@ -32,20 +32,22 @@ aliases:
   - 盃
   - 桮
 注音: ㄅㄛㄧ
-date-last-perfect: 2026-03-15
+date-last-perfect: 2026-09-18
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 杯.
->For the word, see [杯](words/杯.md)
+>For the word, see [杯](../words/杯.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 3](lookup/Grade%203.md)
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md)) - [ㄅㄛㄧ](syllables/ㄅㄛㄧ.md)
-- 形声 (OC \*plɯː): semantic [木](Radical%20075) + phonetic [不](characters/不%20(char).md) (OC \*pɯ, \*pɯʔ, \*pɯ'). According to a variant, the phonetic component is 否, which also had the ancient meaning of "to block", perhaps referred to liquids in a glass.
-[[Lookup/CC/initials/聲 幫]]
-[[Lookup/CC/finals/韻 灰]]
+- 形声 (OC *plɯː): semantic [[Radical 075|木]] ("wood") + phonetic [[不 (char)|不]] (OC *pɯ, *pɯʔ, *pɯ') — a wooden drinking vessel, "cup." According to a variant analysis, the phonetic component is instead 否, which also had the ancient meaning "to block," perhaps referring to liquid held in a glass.
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2827th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄅㄛㄧ](../syllables/ㄅㄛㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby> "cup, cupful" (stand-in for 杯)

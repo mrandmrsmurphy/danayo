@@ -5,7 +5,8 @@ korean: 갈
 korean_native: 전갈
 japanese:
   - GACHI
-japanese_native: さそり
+japanese_native:
+  - さそり
   - すくもむし
 vietnamese:
   - hiết
@@ -32,20 +33,22 @@ stand_in: 蝎
 aliases:
   - 蠍
 注音: ㄏ⼶ㄊ
-date-last-perfect: 2026-03-15
+date-last-perfect: 2026-09-18
 kwin: false
 tags:
   - character
 boundedness: 30
 ---
 >[!tip] This is a page about the character 蝎.
->For the word, see [[words/蝎]]
+>For the word, see [蝎](../words/蝎.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: semantic [虫](Radical%20142) ("insect") + phonetic [曷](characters/喝%20(char).md) — "scorpion."
-- Absent from the Classical Chinese usage ranking's verifiable range (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 曉]] + [[Lookup/CC/finals/韻 月開]] → [ㄏ⼶ㄊ](syllables/ㄏ⼶ㄊ.md)
+- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic 曷 (no character page yet in this corpus) — "scorpion."
+- [SKIP-2-6-9](../lookup/SKIP/SKIP-2/SKIP-2-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- Absent from the Classical Chinese usage ranking's verifiable range (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 月開|ɨɐt]] → [ㄏ⼶ㄊ](../syllables/ㄏ⼶ㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[蝎]]<rt>ㄏ⼶ㄊ</rt></ruby> "scorpion" (stand-in for 蝎)
