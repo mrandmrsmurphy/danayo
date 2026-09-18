@@ -79,6 +79,7 @@ date-last-perfect: 2026-08-01
 - <ruby>[[違法]]<rt>ㄨㄧㄈㄚㄆ</rt></ruby> "illegal"
 - <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby> "trigonometry"
 - <ruby>[[正字法]]<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> "orthography"
+- <ruby>[[除法]]<rt>ㄐㄝㄧㄈㄚㄆ</rt></ruby> "division; the division operation"
 
 ## Chengyu
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"

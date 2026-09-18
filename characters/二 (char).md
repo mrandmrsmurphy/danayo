@@ -60,6 +60,7 @@ boundedness: 80
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby> "double; twofold"
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
+- <ruby>[[二度]]<rt>ㄋㄧㄜㄉㄛ</rt></ruby> "twice; two times"
 - <ruby>[[二次元]]<rt>ㄋㄧㄜㄑㄧㄜ·⼔ㄋ</rt></ruby> "2D; the two-dimensional world"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"

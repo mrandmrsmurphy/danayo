@@ -59,6 +59,7 @@ boundedness: 75
 - <ruby>[[平等]]<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby> "equality, be equal"
 - <ruby>[[恒等式]]<rt>ㄏㄨㄫㄉㄨㄫㄙㄧㄎ</rt></ruby> "identity"
 - <ruby>[[等分]]<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby> "divide into equal parts"
+- <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby> "equal; equal to"
 - <ruby>[[等待]]<rt>ㄉㄨㄫㄉㄚㄧ</rt></ruby> "wait for, await"
 - <ruby>[[高等]]<rt>ㄍㄚㄨㄉㄨㄫ</rt></ruby> "higher level, advanced"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"

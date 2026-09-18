@@ -1,5 +1,6 @@
 ---
 language: English
+date-last-perfect: 2026-09-17
 ---
 1. one <ruby>[一](/words/一.md)<rt>ㄧㄊ</rt></ruby>
 2. two <ruby>[二](/words/二.md)<rt>ㄋㄧㄜ</rt></ruby>
@@ -37,37 +38,40 @@ language: English
 17. both <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby>
 18. couple <ruby>[夫婦](/words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>, <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby>
 19. double <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby>
-20. dozen 打数??
+20. dozen <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby>
 21. pair <ruby>[双](/words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>
 22. quarter <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
 23. first <ruby>[第一](/words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>
 24. second <ruby>[第二](/words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>
 25. single <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>
 26. third <ruby>[第三](/words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>
-27. twice <ruby>[再度](/words/再度.md)<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
+27. twice <ruby>[[二度]]<rt>ㄋㄧㄜㄉㄛ</rt></ruby>
 28. twin <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>
 
 ## Math
-- add
-- subtract
-- multiply
-- divide
-- equal
-- odd
-- even
-- number 計数
-- real
-- complex
+- add <ruby>[[加算]]<rt>ㄍㄚㄙ⺢ㄋ</rt></ruby>
+- subtract <ruby>[[減算]]<rt>ㄍㄚㄇㄙ⺢ㄋ</rt></ruby>
+- multiply <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby>
+- divide <ruby>[[除算]]<rt>ㄐㄝㄧㄙ⺢ㄋ</rt></ruby>
+- equal <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby>
+- odd <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>
+- even <ruby>[[偶数]]<rt>ㄛㄨㄙㄨ</rt></ruby>
+- number <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby>
+- real <ruby>[[実数]]<rt>ㄙㄧㄊㄙㄨ</rt></ruby>
+- complex <ruby>[[複素数]]<rt>ㄅㄨㄎㄙㄛㄙㄨ</rt></ruby>
 	- imaginary numbers <ruby>[[横数]]<rt>ㄏ⺢ㄫㄙㄨ</rt></ruby>
-- whole
-- fraction
-- negative
-- exponent
+- whole <ruby>[[整数]]<rt>ㄐㄝㄫㄙㄨ</rt></ruby>
+- fraction <ruby>[[分数]]<rt>ㄅㄨㄋㄙㄨ</rt></ruby>
+- negative <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby>
+- exponent <ruby>[[指数]]<rt>ㄐㄧㄜㄙㄨ</rt></ruby>
 - infinity <ruby>[[無限]]<rt>ㄇㄜㄏㄚㄋ</rt></ruby>
-- logarithm 対数
+- logarithm <ruby>[[対数]]<rt>ㄉㄛㄧㄙㄨ</rt></ruby>
 - sine <ruby>[正弦](/words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>
 - cosine <ruby>[余弦](/words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>
 - tangent <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>
 	- geometric sense <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby>
-- integrate
-- differtiate
+- integrate <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby>
+- differentiate <ruby>[[微分]]<rt>ㄇㄨㄧㄅㄨㄋ</rt></ruby>
+
+## Also see
+- addition/subtraction/multiplication/division as named operations (rather than the verb): [[加法]], [[減法]], [[乗法]], [[除法]]

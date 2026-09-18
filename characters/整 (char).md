@@ -60,3 +60,4 @@ boundedness: 45
 - <ruby>[[整斉]]<rt>ㄐㄝㄫㄐㄝㄧ</rt></ruby> "arrange, straighten, rectify, order"
 - <ruby>[[整理]]<rt>ㄐㄝㄫㄐㄧ</rt></ruby> "straighten, arrange, order, tidy"
 - <ruby>[[調整]]<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby> "adjust, transfer"
+- <ruby>[[整数]]<rt>ㄐㄝㄫㄙㄨ</rt></ruby> "whole number; integer"

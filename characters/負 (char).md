@@ -53,3 +53,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[負債]]<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby> "debt, liabilities"
+- <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby> "negative number"
