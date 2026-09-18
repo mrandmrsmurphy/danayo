@@ -18,12 +18,12 @@ views:
       - file.mtime
       - mc_id
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: boundedness
         direction: DESC
-      - property: date-last-perfect
-        direction: ASC
       - property: mc_id
         direction: ASC
       - property: danayo_id
