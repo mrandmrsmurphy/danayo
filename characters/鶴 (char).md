@@ -57,3 +57,4 @@ date-last-perfect: 2026-09-05
 
 ## Chengyu
 - <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "burning the qin for firewood and boiling the crane for soup; destroying beauty through philistine indifference"
+- <ruby>[[風声鶴唳]]<rt>ㄈㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> "panic attack, apprehension for even the slightest sound"

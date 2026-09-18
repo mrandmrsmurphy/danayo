@@ -54,4 +54,4 @@ boundedness: 90
 - <ruby>[[叫喚]]<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby> "cry out, call out"
 
 ## Chengyu
-- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy, two hells"
+- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"

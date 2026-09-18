@@ -55,3 +55,6 @@ boundedness: 65
 - <ruby>[[喚]]<rt>ㄏ⺢ㄋ</rt></ruby> "summon, invite" (stand-in for 喚)
 - <ruby>[[叫喚]]<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby> "cry out, call out"
 - <ruby>[[呼喚]]<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby> "shout, cry to"
+
+## Chengyu
+- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"
