@@ -38,7 +38,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Homophone warning callout](memory/feedback_homophone_warning.md) — words with Dan'a'yo homophones need a `>[!warning] Homophones` callout after meta-bind-embed, before Notes
 - [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and ca[...]
 - [kwin paragraph length](memory/feedback_kwin_length.md) — 2–3 sentences max; state verdict, name diverging dimension(s), one parallel example if useful — no more
-- [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia pages are where D's own semantic ranges organically diverge from source languages; let i[...]
+- [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia placement is now a required (2026-09-18+, prospective-only) checklist criterion; D-specific sense[...]
 - [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC[...]
 - [Element-abbreviation characters](memory/feedback_element_abbreviation_characters.md) — a character's "abbreviation for [element]" note (e.g. 多→gadolinium) is a permanent character-level f[...]
 - [Word bug taxonomy](memory/feedback_word_bug_taxonomy.md) — internal-reading bugs (羅馬字/諺文/注音 concatenation drift) vs. cross-linguistic-field bugs (native gloss/unrelated word sub[...]
