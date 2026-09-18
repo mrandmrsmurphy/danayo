@@ -19,12 +19,12 @@ A single prefix set combines with day/week/month/year/century to mean "this," "n
 |<ruby>[今](../words/今.md)<rt>ㄍㄧㄇ</rt></ruby>|this|<ruby>[今日](../words/今日.md)<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>|<ruby>[今週](../words/今週.md)<rt>ㄍㄧㄇㄐㄨㄛ</rt></ruby>|<ruby>[今月](../words/今月.md)<rt>ㄍㄧㄇ⼔ㄊ</rt></ruby>|<ruby>[今年](../words/今年.md)<rt>ㄍㄧㄇㄋㄝㄋ</rt></ruby>|<ruby>[今世紀](../words/今世紀.md)<rt>ㄍㄧㄇㄙㄝㄍㄧ</rt></ruby>|
 |<ruby>[来](../words/来.md)<rt>ㄌㄚㄧ</rt></ruby>|next|<ruby>[来日](../words/来日.md)<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby>|<ruby>[来週](../words/来週.md)<rt>ㄌㄚㄧㄐㄨㄛ</rt></ruby>|<ruby>[来月](../words/来月.md)<rt>ㄌㄚㄧ⼔ㄊ</rt></ruby>|<ruby>[来年](../words/来年.md)<rt>ㄌㄚㄧㄋㄝㄋ</rt></ruby>|<ruby>[来世紀](../words/来世紀.md)<rt>ㄌㄚㄧㄙㄝㄍㄧ</rt></ruby>|
 |<ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>|previous|<ruby>[昨日](../words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>|<ruby>[昨週](../words/昨週.md)<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby>|<ruby>[昨月](../words/昨月.md)<rt>ㄐㄚㄎ⼔ㄊ</rt></ruby>|<ruby>[昨年](../words/昨年.md)<rt>ㄐㄚㄎㄋㄝㄋ</rt></ruby>|<ruby>[昨世紀](../words/昨世紀.md)<rt>ㄐㄚㄎㄙㄝㄍㄧ</rt></ruby>|
-|<ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>|current|<ruby>[当日](../words/当日.md)<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby>|<ruby>[当週](../words/当週.md)<rt>ㄉㄚㄫㄐㄨㄛ</rt></ruby>|<ruby>[当月](../words/当月.md)<rt>ㄉㄚㄫ⼔ㄊ</rt></ruby>|<ruby>[当年](../words/当年.md)<rt>ㄉㄚㄫㄋㄝㄋ</rt></ruby>|[[当世紀]]|
-|<ruby>[翌](../words/翌.md)<rt>ㄧㄎ</rt></ruby>|following|<ruby>[翌日](../words/翌日.md)<rt>ㄧㄎㄋㄧㄊ</rt></ruby>|[[翌週]]|[[翌月]]|[[翌年]]|[[翌世紀]]|
-|<ruby>[前](../words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|<ruby>[前日](../words/前日.md)<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby>|[[前週]]|[[前月]]|[[前年]]|[[前世紀]]|
-|<ruby>[毎](../words/毎.md)<rt>ㄇㄛㄧ</rt></ruby>|every|<ruby>[毎日](../words/毎日.md)<rt>ㄇㄛㄧㄋㄧㄊ</rt></ruby>|[[毎週]]|[[毎月]]|[[毎年]]|[[毎世紀]]|
-|<ruby>[隔](../words/隔.md)<rt>ㄍㄚㄎ</rt></ruby>|every other|<ruby>[隔日](../words/隔日.md)<rt>ㄍㄚㄎㄋㄧㄊ</rt></ruby>|[[隔週]]|[[隔月]]|[[隔年]]|[[隔世紀]]|
-|<ruby>[連](../words/連.md)<rt>ㄌ⼶ㄋ</rt></ruby>|x over x|<ruby>[連日](../words/連日.md)<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby>|[[連週]]|[[連月]]|[[連年]]|<ruby>[連世紀](../words/連世紀.md)<rt>ㄌ⼶ㄋㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>|current|<ruby>[当日](../words/当日.md)<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby>|<ruby>[当週](../words/当週.md)<rt>ㄉㄚㄫㄐㄨㄛ</rt></ruby>|<ruby>[当月](../words/当月.md)<rt>ㄉㄚㄫ⼔ㄊ</rt></ruby>|<ruby>[当年](../words/当年.md)<rt>ㄉㄚㄫㄋㄝㄋ</rt></ruby>|<ruby>[当世紀](../words/当世紀.md)<rt>ㄉㄚㄫㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[翌](../words/翌.md)<rt>ㄧㄎ</rt></ruby>|following|<ruby>[翌日](../words/翌日.md)<rt>ㄧㄎㄋㄧㄊ</rt></ruby>|<ruby>[翌週](../words/翌週.md)<rt>ㄧㄎㄐㄨㄛ</rt></ruby>|<ruby>[翌月](../words/翌月.md)<rt>ㄧㄎ⼔ㄊ</rt></ruby>|<ruby>[翌年](../words/翌年.md)<rt>ㄧㄎㄋㄝㄋ</rt></ruby>|<ruby>[翌世紀](../words/翌世紀.md)<rt>ㄧㄎㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[前](../words/前.md)<rt>ㄐㄝㄋ</rt></ruby>|prior|<ruby>[前日](../words/前日.md)<rt>ㄐㄝㄋㄋㄧㄊ</rt></ruby>|<ruby>[前週](../words/前週.md)<rt>ㄐㄝㄋㄐㄨㄛ</rt></ruby>|<ruby>[前月](../words/前月.md)<rt>ㄐㄝㄋ⼔ㄊ</rt></ruby>|<ruby>[前年](../words/前年.md)<rt>ㄐㄝㄋㄋㄝㄋ</rt></ruby>|<ruby>[前世紀](../words/前世紀.md)<rt>ㄐㄝㄋㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[毎](../words/毎.md)<rt>ㄇㄛㄧ</rt></ruby>|every|<ruby>[毎日](../words/毎日.md)<rt>ㄇㄛㄧㄋㄧㄊ</rt></ruby>|<ruby>[毎週](../words/毎週.md)<rt>ㄇㄛㄧㄐㄨㄛ</rt></ruby>|<ruby>[毎月](../words/毎月.md)<rt>ㄇㄛㄧ⼔ㄊ</rt></ruby>|<ruby>[毎年](../words/毎年.md)<rt>ㄇㄛㄧㄋㄝㄋ</rt></ruby>|<ruby>[毎世紀](../words/毎世紀.md)<rt>ㄇㄛㄧㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[隔](../words/隔.md)<rt>ㄍㄚㄎ</rt></ruby>|every other|<ruby>[隔日](../words/隔日.md)<rt>ㄍㄚㄎㄋㄧㄊ</rt></ruby>|<ruby>[隔週](../words/隔週.md)<rt>ㄍㄚㄎㄐㄨㄛ</rt></ruby>|<ruby>[隔月](../words/隔月.md)<rt>ㄍㄚㄎ⼔ㄊ</rt></ruby>|<ruby>[隔年](../words/隔年.md)<rt>ㄍㄚㄎㄋㄝㄋ</rt></ruby>|<ruby>[隔世紀](../words/隔世紀.md)<rt>ㄍㄚㄎㄙㄝㄍㄧ</rt></ruby>|
+|<ruby>[連](../words/連.md)<rt>ㄌ⼶ㄋ</rt></ruby>|x over x|<ruby>[連日](../words/連日.md)<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby>|<ruby>[連週](../words/連週.md)<rt>ㄌ⼶ㄋㄐㄨㄛ</rt></ruby>|<ruby>[連月](../words/連月.md)<rt>ㄌ⼶ㄋ⼔ㄊ</rt></ruby>|<ruby>[連年](../words/連年.md)<rt>ㄌ⼶ㄋㄋㄝㄋ</rt></ruby>|<ruby>[連世紀](../words/連世紀.md)<rt>ㄌ⼶ㄋㄙㄝㄍㄧ</rt></ruby>|
 
 ## Days
 
@@ -35,29 +35,29 @@ A single prefix set combines with day/week/month/year/century to mean "this," "n
 5. <ruby>[五日](../words/五日.md)<rt>ㄛㄋㄧㄊ</rt></ruby>
 6. <ruby>[六日](../words/六日.md)<rt>ㄌㄨㄎㄋㄧㄊ</rt></ruby>
 7. <ruby>[七日](../words/七日.md)<rt>ㄑㄧㄊㄋㄧㄊ</rt></ruby>
-8. [[八日]]
+8. <ruby>[八日](../words/八日.md)<rt>ㄅㄚㄊㄋㄧㄊ</rt></ruby>
 9. <ruby>[九日](../words/九日.md)<rt>ㄎ⼜ㄋㄧㄊ</rt></ruby>
-10. [[十日]]
-11. [[十一日]]
-12. [[十二日]]
-13. [[十三日]]
-14. [[十四日]]
-15. [[十五日]]
-16. [[十六日]]
-17. [[十七日]]
-18. [[十八日]]
-19. [[十九日]]
-20. [[二十日]]
-21. [[二十一日]]
-22. [[二十二日]]
-23. [[二十三日]]
-24. [[二十四日]]
-25. [[二十五日]]
-26. [[二十六日]]
-27. [[二十七日]]
-28. [[二十八日]]
-29. [[二十九日]]
-30. [[三十日]]
+10. <ruby>[十日](../words/十日.md)<rt>ㄙㄧㄆㄋㄧㄊ</rt></ruby>
+11. <ruby>[十一日](../words/十一日.md)<rt>ㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby>
+12. <ruby>[十二日](../words/十二日.md)<rt>ㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby>
+13. <ruby>[十三日](../words/十三日.md)<rt>ㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby>
+14. <ruby>[十四日](../words/十四日.md)<rt>ㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby>
+15. <ruby>[十五日](../words/十五日.md)<rt>ㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby>
+16. <ruby>[十六日](../words/十六日.md)<rt>ㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby>
+17. <ruby>[十七日](../words/十七日.md)<rt>ㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby>
+18. <ruby>[十八日](../words/十八日.md)<rt>ㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby>
+19. <ruby>[十九日](../words/十九日.md)<rt>ㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby>
+20. <ruby>[二十日](../words/二十日.md)<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby>
+21. <ruby>[二十一日](../words/二十一日.md)<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby>
+22. <ruby>[二十二日](../words/二十二日.md)<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby>
+23. <ruby>[二十三日](../words/二十三日.md)<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby>
+24. <ruby>[二十四日](../words/二十四日.md)<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby>
+25. <ruby>[二十五日](../words/二十五日.md)<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby>
+26. <ruby>[二十六日](../words/二十六日.md)<rt>ㄋㄧㄜㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby>
+27. <ruby>[二十七日](../words/二十七日.md)<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby>
+28. <ruby>[二十八日](../words/二十八日.md)<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby>
+29. <ruby>[二十九日](../words/二十九日.md)<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby>
+30. <ruby>[三十日](../words/三十日.md)<rt>ㄙㄚㄇㄙㄧㄆㄋㄧㄊ</rt></ruby>
 31. <ruby>[三十一日](../words/三十一日.md)<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby>
 
 Poetry
@@ -65,7 +65,7 @@ Poetry
 - <ruby>[明日](../words/明日.md)<rt>ㄇ⼶ㄫㄋㄧㄊ</rt></ruby> is poetic for 'tomorrow'
 - <ruby>[即日](../words/即日.md)<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> is business for 'same day'
 - <ruby>[是日](../words/是日.md)<rt>ㄙㄝㄋㄧㄊ</rt></ruby> is archaic for 'same day'
-- [[次日]] is business for 'the following day'
+- <ruby>[次日](../words/次日.md)<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> is business for 'the following day'
 
 ## Week
 
@@ -114,18 +114,18 @@ An ancient calendar named months after the twelve Earthly Branches:
 
 |Branch|Month|
 |---|---|
-|[[寅月]]|1|
-|[[卯月]]|2|
-|[[辰月]]|3|
-|[[巳月]]|4|
-|[[午月]]|5|
-|[[未月]]|6|
-|[[申月]]|7|
-|[[酉月]]|8|
-|[[戌月]]|9|
-|[[亥月]]|10|
-|[[子月]]|11|
-|[[丑月]]|12|
+|<ruby>[寅月](../words/寅月.md)<rt>ㄧㄋ·⼔ㄊ</rt></ruby>|1|
+|<ruby>[卯月](../words/卯月.md)<rt>ㄇ⼘ㄨ·⼔ㄊ</rt></ruby>|2|
+|<ruby>[辰月](../words/辰月.md)<rt>ㄙㄧㄋ·⼔ㄊ</rt></ruby>|3|
+|<ruby>[巳月](../words/巳月.md)<rt>ㄙㄜ·⼔ㄊ</rt></ruby>|4|
+|<ruby>[午月](../words/午月.md)<rt>ㄛ·⼔ㄊ</rt></ruby>|5|
+|<ruby>[未月](../words/未月.md)<rt>ㄇㄨㄧ·⼔ㄊ</rt></ruby>|6|
+|<ruby>[申月](../words/申月.md)<rt>ㄙㄝㄋ·⼔ㄊ</rt></ruby>|7|
+|<ruby>[酉月](../words/酉月.md)<rt>⼜·⼔ㄊ</rt></ruby>|8|
+|<ruby>[戌月](../words/戌月.md)<rt>ㄙㄨㄊ·⼔ㄊ</rt></ruby>|9|
+|<ruby>[亥月](../words/亥月.md)<rt>ㄏㄚㄧ·⼔ㄊ</rt></ruby>|10|
+|<ruby>[子月](../words/子月.md)<rt>ㄐㄜ·⼔ㄊ</rt></ruby>|11|
+|<ruby>[丑月](../words/丑月.md)<rt>ㄑㄨ·⼔ㄊ</rt></ruby>|12|
 
 ### Poetic Month Names
 
@@ -134,26 +134,26 @@ Or a poetic one:
 |Month|Poetic name|Meaning|
 |---|---|---|
 |1|<ruby>[正月](../words/正月.md)<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby>|principal month|
-|2|[[杏月]]|apricot blossom month|
-|3|[[桃月]]|peach blossom month|
-|4|[[槐月]]|pagoda-tree month|
-|5|[[榴月]]|pomegranate month|
-|6|[[荷月]]|lotus month|
-|7|[[蘭月]]|orchid month|
-|8|[[桂月]]|osmanthus month|
-|9|[[菊月]]|chrysanthemum month|
-|10|[[良月]]|fine month|
-|11|[[冬月]]|winter month|
-|12|[[臘月]]|sacrifice month|
+|2|<ruby>[杏月](../words/杏月.md)<rt>ㄏㄚㄫ·⼔ㄊ</rt></ruby>|apricot blossom month|
+|3|<ruby>[桃月](../words/桃月.md)<rt>ㄉㄚㄨ·⼔ㄊ</rt></ruby>|peach blossom month|
+|4|<ruby>[槐月](../words/槐月.md)<rt>ㄏ⺢ㄧ·⼔ㄊ</rt></ruby>|pagoda-tree month|
+|5|<ruby>[榴月](../words/榴月.md)<rt>ㄌ⼜·⼔ㄊ</rt></ruby>|pomegranate month|
+|6|<ruby>[荷月](../words/荷月.md)<rt>ㄏㄚ·⼔ㄊ</rt></ruby>|lotus month|
+|7|<ruby>[蘭月](../words/蘭月.md)<rt>ㄌㄚㄋ·⼔ㄊ</rt></ruby>|orchid month|
+|8|<ruby>[桂月](../words/桂月.md)<rt>ㄍ⼔ㄧ·⼔ㄊ</rt></ruby>|osmanthus month|
+|9|<ruby>[菊月](../words/菊月.md)<rt>ㄍㄨㄎ·⼔ㄊ</rt></ruby>|chrysanthemum month|
+|10|<ruby>[良月](../words/良月.md)<rt>ㄌ⼘ㄫ·⼔ㄊ</rt></ruby>|fine month|
+|11|<ruby>[冬月](../words/冬月.md)<rt>ㄊㄛㄫ·⼔ㄊ</rt></ruby>|winter month|
+|12|<ruby>[臘月](../words/臘月.md)<rt>ㄌㄚㄆ·⼔ㄊ</rt></ruby>|sacrifice month|
 
 ## Seasons
 
 <ruby>[四季](../words/四季.md)<rt>ㄙㄧㄜㄍㄨㄧ</rt></ruby> - <ruby>[季節](../words/季節.md)<rt>ㄍㄨㄧㄐㄝㄊ</rt></ruby>
 
-- <ruby>[春](../words/春.md)<rt>ㄑㄨㄋ</rt></ruby> --> [[春分]] — spring equinox
-- <ruby>[秋](../words/秋.md)<rt>ㄑㄨㄛ</rt></ruby> --> [[秋分]] — autumn equinox
+- <ruby>[春](../words/春.md)<rt>ㄑㄨㄋ</rt></ruby> --> <ruby>[春分](../words/春分.md)<rt>ㄑㄨㄋㄅㄨㄋ</rt></ruby> — spring equinox
+- <ruby>[秋](../words/秋.md)<rt>ㄑㄨㄛ</rt></ruby> --> <ruby>[秋分](../words/秋分.md)<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby> — autumn equinox
 - <ruby>[夏](../words/夏.md)<rt>ㄏ⼘</rt></ruby> --> <ruby>[夏至](../words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> — summer solstice
-- <ruby>[冬](../words/冬.md)<rt>ㄊㄛㄫ</rt></ruby> --> [[冬至]] — winter solstice
+- <ruby>[冬](../words/冬.md)<rt>ㄊㄛㄫ</rt></ruby> --> <ruby>[冬至](../words/冬至.md)<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> — winter solstice
 
 ### Ancient Seasonal-Month Names (孟仲季)
 
@@ -161,28 +161,28 @@ Using [[孟]], [[仲]], [[季]] produced an ancient calendar:
 
 |Month|Name|Season|
 |---|---|---|
-|1|[[孟春]]|early spring|
-|2|[[仲春]]|mid spring|
-|3|[[季春]]|late spring|
-|4|[[孟夏]]|early summer|
-|5|[[仲夏]]|mid summer|
-|6|[[季夏]]|late summer|
-|7|[[孟秋]]|early autumn|
-|8|[[仲秋]]|mid autumn|
-|9|[[季秋]]|late autumn|
-|10|[[孟冬]]|early winter|
-|11|[[仲冬]]|mid winter|
-|12|[[季冬]]|late winter|
+|1|<ruby>[孟春](../words/孟春.md)<rt>ㄇㄚㄫㄑㄨㄋ</rt></ruby>|early spring|
+|2|<ruby>[仲春](../words/仲春.md)<rt>ㄉㄨㄫㄑㄨㄋ</rt></ruby>|mid spring|
+|3|<ruby>[季春](../words/季春.md)<rt>ㄍㄨㄧㄑㄨㄋ</rt></ruby>|late spring|
+|4|<ruby>[孟夏](../words/孟夏.md)<rt>ㄇㄚㄫㄏ⼘</rt></ruby>|early summer|
+|5|<ruby>[仲夏](../words/仲夏.md)<rt>ㄉㄨㄫㄏ⼘</rt></ruby>|mid summer|
+|6|<ruby>[季夏](../words/季夏.md)<rt>ㄍㄨㄧㄏ⼘</rt></ruby>|late summer|
+|7|<ruby>[孟秋](../words/孟秋.md)<rt>ㄇㄚㄫㄑㄨㄛ</rt></ruby>|early autumn|
+|8|<ruby>[仲秋](../words/仲秋.md)<rt>ㄉㄨㄫㄑㄨㄛ</rt></ruby>|mid autumn|
+|9|<ruby>[季秋](../words/季秋.md)<rt>ㄍㄨㄧㄑㄨㄛ</rt></ruby>|late autumn|
+|10|<ruby>[孟冬](../words/孟冬.md)<rt>ㄇㄚㄫㄊㄛㄫ</rt></ruby>|early winter|
+|11|<ruby>[仲冬](../words/仲冬.md)<rt>ㄉㄨㄫㄊㄛㄫ</rt></ruby>|mid winter|
+|12|<ruby>[季冬](../words/季冬.md)<rt>ㄍㄨㄧㄊㄛㄫ</rt></ruby>|late winter|
 
 ## Years
 
 A thousand years is a <ruby>[千年紀](../words/千年紀.md)<rt>ㄑㄝㄋㄋㄝㄋㄍㄧ</rt></ruby>.
-The first half of the year - [[上半期]].
-The second half of the year - [[下半期]].
-Adjective "of the same year" (in school or the like): [[同年]]
-The beginning of the year - [[年初]].
-The middle of the year - [[年中]].
-The end of the year - [[年末]].
+The first half of the year - <ruby>[上半期](../words/上半期.md)<rt>ㄙ⼘ㄫㄅㄚㄋㄎㄧ</rt></ruby>.
+The second half of the year - <ruby>[下半期](../words/下半期.md)<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby>.
+Adjective "of the same year" (in school or the like): <ruby>[同年](../words/同年.md)<rt>ㄉㄛㄫㄋㄝㄋ</rt></ruby>
+The beginning of the year - <ruby>[年初](../words/年初.md)<rt>ㄋㄝㄋㄑㄛ</rt></ruby>.
+The middle of the year - <ruby>[年中](../words/年中.md)<rt>ㄋㄝㄋㄐㄨㄫ</rt></ruby>.
+The end of the year - <ruby>[年末](../words/年末.md)<rt>ㄋㄝㄋㄇㄚㄊ</rt></ruby>.
 
 ### Lunar Calendar
 
@@ -190,32 +190,32 @@ The end of the year - [[年末]].
 - <ruby>[元旦](../words/元旦.md)<rt>⼔ㄋㄉㄚㄋ</rt></ruby> - New Year's Morning, January 1st a.m. (Gregorian morning)
 - <ruby>[正月](../words/正月.md)<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby> - first month of the "year" (varies from country to country)
 - <ruby>[春節](../words/春節.md)<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> - Chinese/Korean/Vietnamese New Year, Spring Festival
-- [[陰暦年]] = [[旧正月]] - lunar new year = old new year
+- <ruby>[陰暦年](../words/陰暦年.md)<rt>ㄧㄇㄌㄝㄎㄋㄝㄋ</rt></ruby> = <ruby>[旧正月](../words/旧正月.md)<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> - lunar new year = old new year
 
 Lunar months had their own terminology:
 - <ruby>[朔日](../words/朔日.md)<rt>ㄙㄚㄎㄋㄧㄊ</rt></ruby> - first day of the lunar month, when the moon is invisible
-- [[上弦]] - first quarter of the month
-- [[望日]] - 15th day the lunar month, the full moon
-- [[下弦]] - last quarter of the month
-- [[晦日]] - last day of the lunar month
+- <ruby>[上弦](../words/上弦.md)<rt>ㄙ⼘ㄫㄏㄝㄋ</rt></ruby> - first quarter of the month
+- <ruby>[望日](../words/望日.md)<rt>ㄇㄚㄫㄋㄧㄊ</rt></ruby> - 15th day the lunar month, the full moon
+- <ruby>[下弦](../words/下弦.md)<rt>ㄏㄚㄏㄝㄋ</rt></ruby> - last quarter of the month
+- <ruby>[晦日](../words/晦日.md)<rt>ㄏㄛㄧㄋㄧㄊ</rt></ruby> - last day of the lunar month
 
 ### Leap Years
 
 - <ruby>[閏年](../words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> — leap year
-- [[平年]] — common year
-- [[閏月]] — intercalary month (lunisolar calendars)
-- [[太陽暦]] — solar calendar
-- [[太陰暦]] — lunar calendar
-- [[太陰太陽暦]] — lunisolar calendar
+- <ruby>[平年](../words/平年.md)<rt>ㄅ⼶ㄫㄋㄝㄋ</rt></ruby> — common year
+- <ruby>[閏月](../words/閏月.md)<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> — intercalary month (lunisolar calendars)
+- <ruby>[太陽暦](../words/太陽暦.md)<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> — solar calendar
+- <ruby>[太陰暦](../words/太陰暦.md)<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> — lunar calendar
+- <ruby>[太陰太陽暦](../words/太陰太陽暦.md)<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> — lunisolar calendar
 - <ruby>[暦](../words/暦.md)<rt>ㄌㄝㄎ</rt></ruby> — calendar / almanac
-- [[暦法]] — calendrical system
-- [[紀年]] — year reckoning
+- <ruby>[暦法](../words/暦法.md)<rt>ㄌㄝㄎㄈㄚㄆ</rt></ruby> — calendrical system
+- <ruby>[紀年](../words/紀年.md)<rt>ㄍㄧㄋㄝㄋ</rt></ruby> — year reckoning
 
 ## Centuries
 
-The beginning of the century - [[世紀初]].
-The middle of the century - [[世紀中]].
-The end of the century - [[世紀末]].
+The beginning of the century - <ruby>[世紀初](../words/世紀初.md)<rt>ㄙㄝㄍㄧㄑㄛ</rt></ruby>.
+The middle of the century - <ruby>[世紀中](../words/世紀中.md)<rt>ㄙㄝㄍㄧㄐㄨㄫ</rt></ruby>.
+The end of the century - <ruby>[世紀末](../words/世紀末.md)<rt>ㄙㄝㄍㄧㄇㄚㄊ</rt></ruby>.
 
 ### Eras
 
@@ -223,21 +223,21 @@ The end of the century - [[世紀末]].
 - <ruby>[大正](../words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby> (1912–1926)
 - <ruby>[昭和](../words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby> (1926–1989)
 - <ruby>[平成](../words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby> (1989–2019)
-- [[令和]] (2019– )
+- <ruby>[令和](../words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby> (2019– )
 
-- [[元号]] — era name
-- [[改元]] — change of era name
-- [[元年]] — first year of an era
+- <ruby>[元号](../words/元号.md)<rt>⼔ㄋㄏㄚㄨ</rt></ruby> — era name
+- <ruby>[改元](../words/改元.md)<rt>ㄍㄚㄧ⼔ㄋ</rt></ruby> — change of era name
+- <ruby>[元年](../words/元年.md)<rt>⼔ㄋ·ㄋㄝㄋ</rt></ruby> — first year of an era
 
 ## Misc
 
-- [[休日]] — holiday
-- [[祝日]] — national holiday
-- [[記念日]] — commemorative day
-- [[祭日]] — festival day
+- <ruby>[休日](../words/休日.md)<rt>ㄏ⼜ㄋㄧㄊ</rt></ruby> — holiday
+- <ruby>[祝日](../words/祝日.md)<rt>ㄐㄨㄎㄋㄧㄊ</rt></ruby> — national holiday
+- <ruby>[記念日](../words/記念日.md)<rt>ㄍㄧㄋㄝㄇㄋㄧㄊ</rt></ruby> — commemorative day
+- <ruby>[祭日](../words/祭日.md)<rt>ㄐㄝㄋㄧㄊ</rt></ruby> — festival day
 
 Time planning:
-- [[予定]] — schedule
-- [[日程]] — itinerary / timetable
-- [[締切]] — deadline
-- [[期限]] — due date
+- <ruby>[予定](../words/予定.md)<rt>⼄ㄐㄝㄫ</rt></ruby> — schedule
+- <ruby>[日程](../words/日程.md)<rt>ㄋㄧㄊㄉㄧㄫ</rt></ruby> — itinerary / timetable
+- <ruby>[締切](../words/締切.md)<rt>ㄊㄝㄧㄑㄝㄊ</rt></ruby> — deadline
+- <ruby>[期限](../words/期限.md)<rt>ㄎㄧㄏㄚㄋ</rt></ruby> — due date
