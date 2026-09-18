@@ -7,7 +7,11 @@ japanese:
   - KOU
   - KYOU
   - SHOU
-japanese_native: む-く,む-ける,む-かう,む-こう
+japanese_native:
+  - む-く
+  - む-ける
+  - む-かう
+  - む-こう
 vietnamese:
   - hướng
 middle_chinese_initial: x
@@ -33,26 +37,28 @@ aliases:
   - 曏
   - 嚮
 注音: ㄏ⼘ㄫ
-date-last-perfect: 2026-03-13
+date-last-perfect: 2026-09-18
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 向.
->For the word, see [向](words/向.md)
+>For the word, see [向](../words/向.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md) of [[Radical 040|宀]] ("house") + [[口]] ("mouth").
-- [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Korean MS](lookup/Korean/Korean%20MS.md), [Grade 1](lookup/Grade%201.md)
-- [SKIP-3-3-3](lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md)) - [ㄏ⼘ㄫ](syllables/ㄏ⼘ㄫ.md)
-- [[lookup/List of 会意]]: 宀 (“house”) + 口 (“mouth”), echos in a place. The original form of 響 (OC \*qʰaŋʔ). It was borrowed to represent 𠨍 (嚮) later. The mouth does not represent an opening as in 高 and 谷. Compare 冋.
+- 会意 of [[Radical 040|宀]] ("house") and [[Radical 030|口]] ("mouth") — echoes in a place; the original form of 響 (OC *qʰaŋʔ), later borrowed to represent 嚮 (this page's own alias). The mouth here does not represent an opening as in [[高 (char)|高]] and [[谷 (char)|谷]]; compare 冋.
+- [SKIP-3-3-3](../lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 792nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄏ⼘ㄫ](../syllables/ㄏ⼘ㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
-- alone, it is only a postposition
-- for "direction", use [[方向]]
-- for "lean, incline" (verbal) use <ruby>[[傾向]]<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby> "tendency; inclination"
+- <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby> "toward" (stand-in for 向)
+- <ruby>[[方向]]<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby> "direction"
+- <ruby>[[傾向]]<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby> "tendency; inclination"
 - <ruby>[[向格]]<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 陽開]]
+
+## Derived Characters
+- <ruby>[[尚 (char)|尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still, even more"
