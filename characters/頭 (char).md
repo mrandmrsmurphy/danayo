@@ -75,4 +75,4 @@ boundedness: 100
 - <ruby>[[澈頭澈尾]]<rt>ㄐㄝㄊㄊㄛㄨㄐㄝㄊㄇㄨㄧ</rt></ruby> "through and through; right down the line; from head to toe"
 - <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"
-- <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "till death do us part"
+- <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"

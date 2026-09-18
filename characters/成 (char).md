@@ -8,7 +8,8 @@ japanese:
   - JOU
 japanese_native: な
 vietnamese:
-  - thành, thình
+  - thành
+  - thình
 middle_chinese_initial: "ʑ"
 middle_chinese_final: "iᴇŋ"
 stroke_count: 6
@@ -64,7 +65,7 @@ boundedness: 100
 - <ruby>[[養成]]<rt>⼘ㄫㄙㄧㄫ</rt></ruby> "to cultivate; train"
 
 ## Chengyu
-- <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "get married and start a job"
+- <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
 - <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
 - <ruby>[[不打不成器]]<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby> "spare the rod, spoil the child"

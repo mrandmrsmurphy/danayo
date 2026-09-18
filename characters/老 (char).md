@@ -66,7 +66,7 @@ boundedness: 100
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"
 
 ## Chengyu
-- <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "till death do us part"
+- <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"
 
 ## Derived Characters
 - <ruby>[[姥]]<rt>ㄇㄛ</rt></ruby> "maternal grandmother"

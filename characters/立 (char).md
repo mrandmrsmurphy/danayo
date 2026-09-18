@@ -61,7 +61,7 @@ boundedness: 90
 - <ruby>[[創立]]<rt>ㄑ⺢ㄫㄌㄧㄆ</rt></ruby> "establish; found"
 - <ruby>[[孤立]]<rt>ㄍㄛㄌㄧㄆ</rt></ruby> "isolated; unrelated"
 ## Chengyu
-- <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "get married and start a job"
+- <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
 - <ruby>[[義以立名]]<rt>ㄨㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "by meaning one establishes names"
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
