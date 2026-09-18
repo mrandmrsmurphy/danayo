@@ -82,6 +82,7 @@ boundedness: 90
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
 - <ruby>[[一攫千金]]<rt>ㄧㄊㄍ⺢ㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> "making a killing in a single stroke, making a fortune in a moment"
+- <ruby>[[金城湯池]]<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> "sure thing, impenetrable city"
 - <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"
 - <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢ㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"
 
