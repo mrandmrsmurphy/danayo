@@ -15,47 +15,47 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 
 ## Core Vocabulary (A1–A2)
 
-- <ruby>[黄金](words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> or <ruby>[金](/words/金.md)<rt>ㄍㄧㄇ</rt></ruby>: gold.
-- <ruby>[鉄](words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>: iron.
-- <ruby>[銀](words/銀.md)<rt>ㄧㄋ</rt></ruby>: silver.
-- <ruby>[金属](words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>: metal (general).
-- <ruby>[銅](words/銅.md)<rt>ㄉㄛㄫ</rt></ruby>: copper.
-- <ruby>[鉛](words/鉛.md)<rt>⼶ㄋ</rt></ruby>: lead.
+- <ruby>[黄金](../words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> or <ruby>[金](../words/金.md)<rt>ㄍㄧㄇ</rt></ruby>: gold.
+- <ruby>[鉄](../words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>: iron.
+- <ruby>[銀](../words/銀.md)<rt>ㄧㄋ</rt></ruby>: silver.
+- <ruby>[金属](../words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>: metal (general).
+- <ruby>[銅](../words/銅.md)<rt>ㄉㄛㄫ</rt></ruby>: copper.
+- <ruby>[鉛](../words/鉛.md)<rt>⼶ㄋ</rt></ruby>: lead.
 
 ## Intermediate (B1–B2)
 
 ### Precious & Structural Metals
 
-- <ruby>[鋼鉄](words/鋼鉄.md)<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby>: steel.
-- <ruby>[朱錫](words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: tin.
-- <ruby>[白金](words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>: platinum.
+- <ruby>[鋼鉄](../words/鋼鉄.md)<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby>: steel.
+- <ruby>[朱錫](../words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: tin.
+- <ruby>[白金](../words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>: platinum.
 
 ### Alloys & Related Metals
 
-- <ruby>[亜鉛](words/亜鉛.md)<rt>ㄚ·⼶ㄋ</rt></ruby>: zinc.
-- <ruby>[青銅](words/青銅.md)<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby>: bronze.
+- <ruby>[亜鉛](../words/亜鉛.md)<rt>ㄚ·⼶ㄋ</rt></ruby>: zinc.
+- <ruby>[青銅](../words/青銅.md)<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby>: bronze.
   - **Note**: an alloy of [[銅]] (copper) and [[朱錫]] (tin).
-- <ruby>[黄銅](words/黄銅.md)<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby>: brass.
+- <ruby>[黄銅](../words/黄銅.md)<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby>: brass.
   - **Note**: an alloy of [[銅]] (copper) and [[亜鉛]] (zinc).
-- <ruby>[水銀](words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>: mercury, quicksilver.
-- <ruby>[軽銀](words/軽銀.md)<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby>: aluminum.
+- <ruby>[水銀](../words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>: mercury, quicksilver.
+- <ruby>[軽銀](../words/軽銀.md)<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby>: aluminum.
   - **Etymology**: literally "light silver" — see Semantic Range Notes below.
-- <ruby>[魔銅](words/魔銅.md)<rt>ㄇㄚㄉㄛㄫ</rt></ruby>: nickel.
-- <ruby>[狼金](words/狼金.md)<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby>: tungsten.
+- <ruby>[魔銅](../words/魔銅.md)<rt>ㄇㄚㄉㄛㄫ</rt></ruby>: nickel.
+- <ruby>[狼金](../words/狼金.md)<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby>: tungsten.
 
 ## Advanced / Specialized (C1+)
 
 ### Metalworking
 
-- <ruby>[鍛錬](words/鍛錬.md)<rt>ㄉ⺢ㄋㄌㄝㄋ</rt></ruby>: to forge (v.).
+- <ruby>[鍛錬](../words/鍛錬.md)<rt>ㄉ⺢ㄋㄌㄝㄋ</rt></ruby>: to forge (v.).
   - **Note**: literally "to forge and refine." In modern usage this word has drifted heavily toward a figurative sense of disciplined training/self-tempering; the literal metalworking sense survives mainly in historical, literary, or technical register.
-- <ruby>[鍛冶](words/鍛冶.md)<rt>ㄉ⺢ㄋ·⼘</rt></ruby>: to smith; the craft/trade of blacksmithing.
+- <ruby>[鍛冶](../words/鍛冶.md)<rt>ㄉ⺢ㄋ·⼘</rt></ruby>: to smith; the craft/trade of blacksmithing.
   - **Note**: distinct from [[鍛錬]] above — see Semantic Range Notes.
-- <ruby>[冶錬](words/冶錬.md)<rt>⼘ㄌㄝㄋ</rt></ruby>: to smelt (v.).
-- <ruby>[鉄砧](words/鉄砧.md)<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>: anvil.
-- <ruby>[合金](words/合金.md)<rt>ㄍㄛㄆㄍㄧㄇ</rt></ruby>: alloy.
-- <ruby>[鉱石](words/鉱石.md)<rt>ㄍ⺢ㄫㄙㄝㄎ</rt></ruby>: ore, mineral.
-- <ruby>[銹](words/銹.md)<rt>ㄙ⼜</rt></ruby>: rust.
+- <ruby>[冶錬](../words/冶錬.md)<rt>⼘ㄌㄝㄋ</rt></ruby>: to smelt (v.).
+- <ruby>[鉄砧](../words/鉄砧.md)<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>: anvil.
+- <ruby>[合金](../words/合金.md)<rt>ㄍㄛㄆㄍㄧㄇ</rt></ruby>: alloy.
+- <ruby>[鉱石](../words/鉱石.md)<rt>ㄍ⺢ㄫㄙㄝㄎ</rt></ruby>: ore, mineral.
+- <ruby>[銹](../words/銹.md)<rt>ㄙ⼜</rt></ruby>: rust.
 
 ## Semantic Range Notes
 

@@ -7,7 +7,7 @@ related_domains:
   - "[[Calendar]]"
   - "[[Grammar]]"
 status: complete
-date-last-perfect: 9/18/26
+date-last-perfect: 2026-09-18
 ---
 
 # Numbers
@@ -16,22 +16,22 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 
 ## Core Vocabulary (A1–A2)
 
-- <ruby>[一](/words/一.md)<rt>ㄧㄊ</rt></ruby>: one.
-- <ruby>[二](/words/二.md)<rt>ㄋㄧㄜ</rt></ruby>: two.
-- <ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>: three.
-- <ruby>[四](/words/四.md)<rt>ㄙㄧㄜ</rt></ruby>: four.
-- <ruby>[五](/words/五.md)<rt>ㄛ</rt></ruby>: five.
-- <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>: six.
-- <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>: seven.
-- <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>: eight.
-- <ruby>[九](/words/九.md)<rt>ㄎ⼜</rt></ruby>: nine.
-- <ruby>[十](/words/十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>: ten.
-- <ruby>[第一](/words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>: first.
+- <ruby>[一](../words/一.md)<rt>ㄧㄊ</rt></ruby>: one.
+- <ruby>[二](../words/二.md)<rt>ㄋㄧㄜ</rt></ruby>: two.
+- <ruby>[三](../words/三.md)<rt>ㄙㄚㄇ</rt></ruby>: three.
+- <ruby>[四](../words/四.md)<rt>ㄙㄧㄜ</rt></ruby>: four.
+- <ruby>[五](../words/五.md)<rt>ㄛ</rt></ruby>: five.
+- <ruby>[六](../words/六.md)<rt>ㄌㄨㄎ</rt></ruby>: six.
+- <ruby>[七](../words/七.md)<rt>ㄑㄧㄊ</rt></ruby>: seven.
+- <ruby>[八](../words/八.md)<rt>ㄅㄚㄊ</rt></ruby>: eight.
+- <ruby>[九](../words/九.md)<rt>ㄎ⼜</rt></ruby>: nine.
+- <ruby>[十](../words/十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>: ten.
+- <ruby>[第一](../words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>: first.
   - **Cross-ling**: The 第- ordinal prefix (第一, 第二, 第三...) is shared across Mandarin, Japanese, and Korean.
-- <ruby>[第二](/words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
-- <ruby>[第三](/words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>: third.
+- <ruby>[第二](../words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
+- <ruby>[第三](../words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>: third.
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby>: both.
-- <ruby>[双](/words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>: pair.
+- <ruby>[双](../words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>: pair.
 
 ## Intermediate (B1–B2)
 
@@ -39,8 +39,8 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 
 Dan'a'yo builds the teens and tens transparently — 十 ("ten") combines with a following digit for 11–19, and precedes 十 for the multiples of ten, following the Sinitic pattern rather than English's separate teen/tens vocabulary.
 
-- <ruby>[十一](/words/十一.md)<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby>: eleven.
-- <ruby>[十二](/words/十二.md)<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby>: twelve.
+- <ruby>[十一](../words/十一.md)<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby>: eleven.
+- <ruby>[十二](../words/十二.md)<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby>: twelve.
 - <ruby>[[十三]]<rt>ㄙㄧㄆㄙㄚㄇ</rt></ruby>: thirteen.
 - <ruby>[[十四]]<rt>ㄙㄧㄆㄙㄧㄜ</rt></ruby>: fourteen.
 - <ruby>[[十五]]<rt>ㄙㄧㄆ·ㄛ</rt></ruby>: fifteen.
@@ -48,7 +48,7 @@ Dan'a'yo builds the teens and tens transparently — 十 ("ten") combines with a
 - <ruby>[[十七]]<rt>ㄙㄧㄆㄑㄧㄊ</rt></ruby>: seventeen.
 - <ruby>[[十八]]<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby>: eighteen.
 - <ruby>[[十九]]<rt>ㄙㄧㄆㄎ⼜</rt></ruby>: nineteen.
-- <ruby>[二十](/words/二十.md)<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby>: twenty.
+- <ruby>[二十](../words/二十.md)<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby>: twenty.
 - <ruby>[[三十]]<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby>: thirty.
 - <ruby>[[四十]]<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby>: forty.
 - <ruby>[[五十]]<rt>ㄛㄙㄧㄆ</rt></ruby>: fifty.
@@ -61,11 +61,11 @@ Dan'a'yo builds the teens and tens transparently — 十 ("ten") combines with a
 
 Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 10,000) rather than by powers of a thousand — the same 萬-based grouping used throughout the Sinosphere, distinct from the English thousand/million/billion chain.
 
-- <ruby>[一百](/words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>: hundred.
-- <ruby>[一千](/words/一千.md)<rt>ㄧㄊㄑㄝㄋ</rt></ruby>: thousand.
-- <ruby>[一万](/words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby>: myriad (ten thousand).
-- <ruby>[一億](/words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
-- <ruby>[一溝](/words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
+- <ruby>[一百](../words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>: hundred.
+- <ruby>[一千](../words/一千.md)<rt>ㄧㄊㄑㄝㄋ</rt></ruby>: thousand.
+- <ruby>[一万](../words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby>: myriad (ten thousand).
+- <ruby>[一億](../words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
+- <ruby>[一溝](../words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
 
 ### Multiples, Fractions & Groups
 
@@ -74,9 +74,9 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
   - **Note**: distinct from [[再度]] ("again, once more"), which names repetition without specifying a count.
 - <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby>: dozen.
   - **Etymology**: 打 here is a *phonetic* loan of English "dozen" in Mandarin/Cantonese, unrelated to 打's ordinary "hit" sense — see the word's own Notes for the full etymology.
-- <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>: quarter.
+- <ruby>[四分之一](../words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>: quarter.
 - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>: single (alone, solitary).
-- <ruby>[夫婦](/words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: couple (married pair).
+- <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: couple (married pair).
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby>: couple (two people, more general).
 - <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>: twin.
 
@@ -111,8 +111,8 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 
 ### Trigonometry & Calculus
 
-- <ruby>[正弦](/words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>: sine.
-- <ruby>[余弦](/words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>: cosine.
+- <ruby>[正弦](../words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>: sine.
+- <ruby>[余弦](../words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>: cosine.
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>: tangent.
   - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby>: tangent line (the geometric sense).
 - <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby>: integrate, integration.

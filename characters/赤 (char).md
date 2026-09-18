@@ -51,4 +51,5 @@ boundedness: 80
 - 614th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌]] + [[Lookup/CC/finals/韻 昔開]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 2](../lookup/Grade%202.md)
 ## Words
+- <ruby>[[赤]]<rt>ㄑㄝㄎ</rt></ruby> "red" — self stand-in
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
