@@ -75,4 +75,3 @@ language: English
 - size
 - tiny
 - vast
-- 
