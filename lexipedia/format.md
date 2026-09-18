@@ -28,7 +28,10 @@ Each semantic domain in `/lexipedia/` follows a consistent structure to ensure:
 language: English
 type: lexipedia
 domain: [Domain Name]
-related_domains: [[Domain1]], [[Domain2]], [[Domain3]]
+related_domains:
+  - "[[Domain1]]"
+  - "[[Domain2]]"
+  - "[[Domain3]]"
 status: [new | stub | partial | complete]
 ---
 ```
@@ -268,7 +271,9 @@ Use this as a starting point for new domains:
 language: English
 type: lexipedia
 domain: [Domain Name]
-related_domains: [[Domain1]], [[Domain2]]
+related_domains:
+  - "[[Domain1]]"
+  - "[[Domain2]]"
 status: new
 ---
 

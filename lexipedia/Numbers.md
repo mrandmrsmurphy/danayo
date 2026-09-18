@@ -2,8 +2,12 @@
 language: English
 type: lexipedia
 domain: Numbers
-related_domains: [[Periodic Table]], [[Calendar]], [[Grammar]]
+related_domains:
+  - "[[Periodic Table]]"
+  - "[[Calendar]]"
+  - "[[Grammar]]"
 status: complete
+date-last-perfect: 9/18/26
 ---
 
 # Numbers
@@ -134,5 +138,5 @@ Finally, several items simply have no living Sino-Vietnamese equivalent at all: 
 - [[Grammar]] — see `数詞` (numeral part of speech) in [[grammar/文法 - 97品詞|文法 - 97品詞]].
 
 **Idiomatic uses**:
-- 一石二鳥 — "one stone, two birds" (kill two birds with one stone), built on the cardinal numbers 一/二.
-- 三綱五常 — "three bonds and five constants," the Confucian ethical framework, built on 三/五.
+- [[一石二鳥]] — "one stone, two birds" (kill two birds with one stone), built on the cardinal numbers 一/二.
+- [[三綱五常]] — "three bonds and five constants," the Confucian ethical framework, built on 三/五.

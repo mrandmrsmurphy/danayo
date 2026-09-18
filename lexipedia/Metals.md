@@ -2,8 +2,11 @@
 language: English
 type: lexipedia
 domain: Metals
-related_domains: [[Periodic Table]], [[Color]]
+related_domains:
+  - "[[Periodic Table]]"
+  - "[[Color]]"
 status: complete
+date-last-perfect: 2026-09-18
 ---
 
 # Metals
@@ -12,7 +15,7 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 
 ## Core Vocabulary (A1–A2)
 
-- <ruby>[黄金](words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby>: gold.
+- <ruby>[黄金](words/黄金.md)<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> or <ruby>[金](/words/金.md)<rt>ㄍㄧㄇ</rt></ruby>: gold.
 - <ruby>[鉄](words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby>: iron.
 - <ruby>[銀](words/銀.md)<rt>ㄧㄋ</rt></ruby>: silver.
 - <ruby>[金属](words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>: metal (general).
