@@ -29,7 +29,7 @@ stand_in: 已
 aliases:
   - 㠯
 注音: ㄜ
-date-last-perfect: 2026-03-01
+date-last-perfect: 2026-09-17
 kwin: false
 tags:
   - character
@@ -42,7 +42,12 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- a verbal postposition to indicated the perfective aspect (often comparable to past tense, but not really)
-	- [[矣]] (while not identical) is conflated with this character.
-[[Lookup/CC/initials/聲 以]]
-[[Lookup/CC/finals/韻 之]]
+- [List of 象形](lookup/List%20of%20象形.md): uncertain origin, possibly originally the same character as 巳, a pictogram of either a snake or a fetus; the character does not appear in the *Shuowen Jiezi*.
+- [SKIP-4-3-1](lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
+- 160th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄜ](syllables/ㄜ.md)
+- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+As a grammatical particle, 已 marks the perfective aspect in Classical Chinese — a verbal postposition often glossed as a past tense but more precisely indicating that an action is completed, comparable to English "already" (its most common modern Mandarin gloss, as in 已經). [[矣]] is a distinct but often-conflated sentence-final particle carrying a related completive/exclamatory sense.
+
+## Words
+- <ruby>[[已]]<rt>ㄜ</rt></ruby> "-ed; perfective" (stand-in for 已)

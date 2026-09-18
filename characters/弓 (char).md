@@ -55,3 +55,4 @@ boundedness: 80
 ## Derived Characters
 - <ruby>[[穹]]<rt>ㄎㄨㄫ</rt></ruby> "high; sky"
 - <ruby>[[躬]]<rt>ㄍㄨㄫ</rt></ruby> "(emperor's) body"
+- <ruby>[[弘]]<rt>ㄏㄛㄫ</rt></ruby> "enlarge; expand"

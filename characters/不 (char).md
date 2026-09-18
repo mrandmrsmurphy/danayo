@@ -87,6 +87,7 @@ boundedness: 50
 - <ruby>[優柔不断](/chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
 - <ruby>[欲求不満](/chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> "anxiety; sexual frustration"
 - <ruby>[[異体不容]]<rt>ㄧㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"
+- <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄚㄙㄚ·ㄨㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"
 - <ruby>[百聞不如一見](/chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> "hearing something one hundred times is not as good as seeing it once"
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby> "spare the rod, spoil the child"

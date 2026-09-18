@@ -80,6 +80,7 @@ boundedness: 75
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
+- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫ·ㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"
 
 ## Derived Characters
 - <ruby>[[伍 (char)|伍]]<rt>ㄛ</rt></ruby> "troops" (人 + 五)

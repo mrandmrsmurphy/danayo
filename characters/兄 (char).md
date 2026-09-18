@@ -30,7 +30,7 @@ graphemic_classification: 会意
 stand_in: 兄
 aliases:
 注音: ㄏ⼄ㄫ
-date-last-perfect: 2026-02-24
+date-last-perfect: 2026-09-17
 kwin: false
 tags:
   - character
@@ -44,16 +44,18 @@ boundedness: 65
 ```
 
 ## Notes
-- Reduplication of this word for the diminutive suppletes to [[哥哥]].  However, great care should be taken when using it.  Like the English expression "little big brother", it is almost an oxymoron to refer to one's older brother in an endearing and cutesy way.  It can easily be highly disrespectful.
-- 口 + 儿 = [[SKIP-2-3-2]] ([[Stroke 05]]) [[ㄏ⼄ㄫ]]
-- [[Jōyō - Kyōiku]], [[Korean MS]], HSK 2, [[Grade 2]]
-- Ideogrammic compound ([List of 会意](lookup/List%20of%20会意.md): 口 + 儿 to convey the idea of giving orders. The original meaning of "elder brother" refers to the fact that the elder brother gives order to the younger brothers and his sisters. Compare 令, in which an open mouth on top of the character conveys the same idea of giving orders. Similar to 欠, in which there is a kneeling man with an open mouth.
-- ### Descended characters
-- [[況]]
-[[Lookup/CC/initials/聲 曉]]
-[[Lookup/CC/finals/韻 庚三合]]
+- 会意 of [[Radical 030|口]] ("mouth") and [[Radical 010|儿]] ("legs; person") — an open mouth above a kneeling/standing person, conveying the idea of giving orders; the original sense "elder brother" reflects that the elder brother gives orders to his younger siblings. Compare 令, where an open mouth atop the character conveys the same idea, and 欠, which similarly depicts a kneeling person with an open mouth.
+- [SKIP-2-3-2](lookup/SKIP/SKIP-2/SKIP-2-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
+- 461st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 庚三合|wɣiæŋ]] → [ㄏ⼄ㄫ](syllables/ㄏ⼄ㄫ.md)
+- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
+Reduplication for the diminutive suppletes to [[哥哥]] rather than doubling 兄 itself; care is warranted, since — much like the English "little big brother" — using an endearing, cutesy tone toward one's own older brother can easily read as disrespectful rather than affectionate.
 
 ## Words
-- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
+- <ruby>[[兄]]<rt>ㄏ⼄ㄫ</rt></ruby> "older brother" (stand-in for 兄)
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers, brotherhood"
+- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
 - <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
+
+## Derived Characters
+- <ruby>[[況]]<rt>ㄏ⺢ㄫ</rt></ruby> "condition"

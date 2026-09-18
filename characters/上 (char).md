@@ -62,3 +62,6 @@ boundedness: 70
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 - <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
+
+## Chengyu
+- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> "above and below, no idols"

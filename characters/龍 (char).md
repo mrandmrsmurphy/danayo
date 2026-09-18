@@ -42,7 +42,7 @@ aliases:
   - 瓏
   - 壟
 注音: ㄌ⼄ㄫ
-date-last-perfect: 2026-02-22
+date-last-perfect: 2026-09-17
 kwin: true
 tags:
   - character
@@ -56,32 +56,33 @@ boundedness: 70
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): originally depicting a sacred composite creature in ancient China, combining features of the snake, crocodile, fish, deer, etc.
-- While there are clearly parts ([[SKIP-1-9-7]]), "dragon" is regarded as a [[Radical 212|radical]], and so is fundamental in some sense
-- [[Jōyō - Kōtō]], [[Korean HS]], HSK 2, [[Grade 4]], [[ㄌ⼄ㄫ]]
-- Dan'a'yo rejects the Chinese simplification to 龙 and Shinjitai to 竜. The Shinjitai is only used when the character stands alone, and the long-form reappears in compound words in Japanese.
-### Related Characters
-- + 手 = 攏 (but forbidden)
-- [[寵]] spoil, indulge
-- [[聾]] deaf
-- [[朧]] hazy, cloudy
-- [[籠]] basket
-- [[龐]] tall, huge
+- [List of 象形](lookup/List%20of%20象形.md): originally depicting a sacred composite creature — a crested, open-mouthed serpentine head combined with features of the crocodile, fish, and deer visible in oracle-bone and bronze forms. Also stands as [[Radical 212|Kangxi Radical 212]] in its own right. Dan'a'yo keeps the traditional form, rejecting both the Chinese simplification 龙 and the Japanese Shinjitai 竜 — the Shinjitai is only used in Japanese when the character stands alone, with the long form reappearing in Japanese compound words.
+- [SKIP-1-9-7](lookup/SKIP/SKIP-1/SKIP-1-9-7.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
+- 476th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄌ⼄ㄫ](syllables/ㄌ⼄ㄫ.md)
+- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
 ## Words
 - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)
-- [[烏龍]] - Wulong
-- [[地龍]] - earthworm
-- [[龍蝦]] - lobster
 - <ruby>[[九龍]]<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby> "Kowloon; the Mekong Delta (Vietnamese Cửu Long)"
-- [[恐龍]] - dinosaur
-- [[烏龍茶]] - oolong tea
-- [[龍巻]] - tornado
-- [[words/龍断]] - to monopolize (壟斷)
-- [[烏龍麺]]
-- [[龍王]]
-- [[龍眼]]
+- <ruby>[[烏龍]]<rt>ㄛㄌ⼄ㄫ</rt></ruby> "black dragon; Wulong"
+- <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ·ㄛㄫ</rt></ruby> "earthworm"
+- <ruby>[[龍蝦]]<rt>ㄌ⼄ㄫㄏㄚ</rt></ruby> "lobster"
+- <ruby>[[恐龍]]<rt>ㄎㄛㄫㄌ⼄ㄫ</rt></ruby> "dinosaur"
+- <ruby>[[烏龍茶]]<rt>ㄛㄌ⼄ㄫㄑㄚ</rt></ruby> "oolong tea"
+- <ruby>[[烏龍麺]]<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby> "udon noodles"
+- <ruby>[[龍巻]]<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby> "tornado"
+- <ruby>[[龍断]]<rt>ㄌ⼄ㄫㄉ⺢ㄋ</rt></ruby> "to monopolize (壟斷)"
+- <ruby>[[龍王]]<rt>ㄌ⼄ㄫ·⺢ㄫ</rt></ruby> "Dragon King"
+- <ruby>[[龍眼]]<rt>ㄌ⼄ㄫ·ㄚㄋ</rt></ruby> "longan"
+
 ## Chengyu
-- [[画龍点睛]]
+- <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches"
 - <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 鍾]]
+
+## Derived Characters
+- <ruby>[[籠 (char)|籠]]<rt>ㄌㄛㄫ</rt></ruby> "basket"
+- <ruby>[[寵]]<rt>ㄑㄛㄫ</rt></ruby> "pet; spoil, indulge"
+- <ruby>[[瀧]]<rt>ㄌㄛㄫ</rt></ruby> "cascade"
+- <ruby>[[朧]]<rt>ㄌㄛㄫ</rt></ruby> "hazy, cloudy"
+- <ruby>[[聾]]<rt>ㄌㄛㄫ</rt></ruby> "deaf"
+- <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> "tall, huge"

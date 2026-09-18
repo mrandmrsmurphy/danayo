@@ -25,10 +25,10 @@ joyo_level: 表外字
 hsk_level: "2"
 hanmun_edu_level: 無
 danayo_id: 7319
-mc_id: 1976
+mc_id: 1977
 graphemic_classification: 危
 stand_in: 跪
-date-last-perfect: 2026-02-25
+date-last-perfect: 2026-09-17
 注音: ㄎ⼔ㄧ
 kwin: false
 tags:
@@ -43,11 +43,10 @@ boundedness: 65
 ```
 
 ## Notes
-- 形声 (OC \*kʰrolʔ, \*ɡrolʔ): semantic [[Radical 157|足]] ("foot") + phonetic [[危]] (OC \*ŋrol).
-- [足](/lookup/Radicals/Radical%20157.md) + [危](characters/危.md) = [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md)) [[ㄎ⼔ㄧ]]
-- Not on HSK, Not in Jōyō, Not even in Korean name list, [Grade Advanced](lookup/Grade%20Advanced.md)
-[[Lookup/CC/initials/聲 溪]]
-[[Lookup/CC/finals/韻 支B三合]]
+- 形声 (OC \*kʰrolʔ, \*ɡrolʔ): semantic [[Radical 157|足]] ("foot") + phonetic [[危]] (OC \*ŋrol) — to kneel.
+- [SKIP-1-7-6](lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
+- 1977th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄎ⼔ㄧ](syllables/ㄎ⼔ㄧ.md)
+- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
 
 ## Words
-- [跪](words/跪.md) "kneel" — 跪 stands alone as a word in Dan'a'yo.
+- <ruby>[[跪]]<rt>ㄎ⼔ㄧ</rt></ruby> "kneel" (stand-in for 跪)
