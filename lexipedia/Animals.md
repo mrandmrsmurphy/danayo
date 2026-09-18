@@ -1,6 +1,42 @@
 ---
 language: English
 ---
+- animal
+- beast
+- bird
+- bug
+- cat
+- dog
+- duck
+- fish
+- horse
+- insect
+- monster
+- mouse
+- rabbit
+- snake
+- spider
+
+- dragon
+- troll
+- orc
+- werewolf
+- gnome
+- elf
+- vampire
+- zombie
+
+- nest
+- lair
+- hive
+- pollinate
+- swarm
+- graze
+- herd
+- tame
+- hunt
+- stalk
+
 ## Popular
 - <ruby>[野獣](words/野獣.md)<rt>⼘ㄙ⼜</rt></ruby> : "beast with hair", mammal, wild animal, animal esp. non-human, meta. a wild person
 - <ruby>[動物](words/動物.md)<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> : etym. "move thing" , so actually "animal", animate thing
@@ -34,6 +70,9 @@ language: English
 [[分類学]]
 
 - Domain: 域
+	- Bacteria
+	- Archaea
+	- Eukarya
 - Kingdom: 界
 - Phylum/Division: 門
 - Class: 綱

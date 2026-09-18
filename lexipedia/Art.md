@@ -7,6 +7,9 @@ language: English
 - culture - <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby>
 - dance - <ruby>跳舞<rt>ㄊㄛㄨㄇㄨ</rt></ruby>
 
+
+## Genres
+
 ## Language Arts 
 book - <ruby>書本<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby>
 brush - <ruby>[刷子](words/刷子.md)<rt>ㄙ⺢ㄊㄐㄧ</rt></ruby>
@@ -25,9 +28,26 @@ story
 tale
 write - <ruby>記録<rt>ㄍㄧㄌㄛㄎ</rt></ruby>
 poem/poetry - <ruby>詩歌<rt>ㄙㄧㄍㄚ</rt></ruby>
+proverb 
+maxim
+oratory
+theater
+epic
+myth
+
 pen - [[筆]]
 pencil - <ruby>鉛筆<rt>⼶ㄇㄆㄨㄊ</rt></ruby>
+typewriter
+ink
+script
 
+essay
+edit
+translate
+fiction
+manifesto
+newspaper
+magazine
 ## Visual Arts 
 - draw
 - picture

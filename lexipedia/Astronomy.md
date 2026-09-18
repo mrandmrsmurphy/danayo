@@ -19,11 +19,9 @@ The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄫ</
 - 
 Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
 
-Oort Cloud <ruby>◌<rt>ㄛ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  
+Oort Cloud <ruby>汚<rt>ㄛ</rt></ruby><ruby>璃<rt>ㄌㄜ</rt></ruby><ruby>他<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  
 
-Oort Cloud <ruby class="vert">⁠<rt>ㄛ</rt></ruby> ⁠ <ruby class="vert">⁠<rt>ㄌ<br>ㄜ</rt></ruby> ⁠ <ruby class="vert">⁠<rt>ㄊ<br>ㄜ</rt></ruby> ⁠ ⁠<ruby>雲<rt>·ㄨㄋ</rt></ruby>.
-
-It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star' <ruby>[流星](words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>.
+It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star/meteor' <ruby>[流星](words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>.
 
 Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·ㄉㄚㄨ</rt></ruby>) within a galaxy (<ruby>[恒星系](words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](words/星雲.md)<rt>ㄙㄝㄫ·ㄨㄋ</rt></ruby> and novae <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>.
 
@@ -37,6 +35,7 @@ Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·
 - <ruby>[夏至](/words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
 - <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
 - lunar eclipse = <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
+- conjunction is [[会合]], 
 
 ### 六十干支
 <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> / <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby>

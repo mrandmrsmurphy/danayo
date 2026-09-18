@@ -7,8 +7,8 @@ japanese:
   - SHA
   - SAI
   - SA
-japanese_native: また
-  - また 
+japanese_native:
+  - また
 vietnamese:
   - xoa
   - thoa
@@ -37,28 +37,28 @@ aliases:
   - 扠
   - 紁
 注音: ㄑㄚㄧ
-date-last-perfect: 2026-03-24
+date-last-perfect: 2026-09-18
 kwin: false
 tags:
   - character
 boundedness: 85
 ---
 >[!tip] This is a page about the character 叉.
->For the word, see [叉](words/叉.md)
+>For the word, see [叉](../words/叉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 会意: [又](Radical%20029) "right hand" + [丶](Radical%20003) "dot"
-- [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md)) - [ㄑㄚㄧ](../syllables/ㄑㄚㄧ.md)
-- [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md), [Grade 6](../lookup/Grade%206.md)
+- 会意: [[Radical 029|又]] ("right hand") + [[Radical 003|丶]] ("dot") — the real radical is 又; the visual 丶 component is reciprocated on Radical 003's own page.
+- [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- Outside the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4244`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄑㄚㄧ](../syllables/ㄑㄚㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
 ## Words
-* <ruby>[[叉]]<rt>ㄑㄚㄧ</rt></ruby> "fork; prong; tine"
-* <ruby>[[三叉]]<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby> "three-forked, tripartite; trident"
-* [[音叉]] tuning fork
-* [[夜叉]] yaksha
+- <ruby>[[叉]]<rt>ㄑㄚㄧ</rt></ruby> "fork; prong; tine" (stand-in for 叉)
+- <ruby>[[三叉]]<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby> "three-forked, tripartite; trident"
+- <ruby>[[音叉]]<rt>ㄨㄇㄑㄚㄧ</rt></ruby> "tuning fork"
+- <ruby>[[夜叉]]<rt>⼘ㄑㄚㄧ</rt></ruby> "yaksha"
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
-* [[叉勺]] spork
-* <ruby>[[交叉]]<rt>ㄍ⼘ㄨㄑㄚㄧ</rt></ruby> "intersect, cross, overlap" ("fork in the road"!)
-[[Lookup/CC/initials/聲 初]]
-[[Lookup/CC/finals/韻 佳開]]
+- <ruby>[[叉勺]]<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby> "spork"
+- <ruby>[[交叉]]<rt>ㄍ⼘ㄨㄑㄚㄧ</rt></ruby> "intersect, cross, overlap" ("fork in the road"!)

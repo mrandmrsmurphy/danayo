@@ -7,7 +7,8 @@ japanese:
   - BUN
   - FUN
   - BU
-japanese_native: わ
+japanese_native:
+  - わ
 vietnamese:
   - phân
   - phận
@@ -32,39 +33,30 @@ stand_in: 分
 aliases:
   - 份
 注音: ㄅㄨㄋ
-date-last-perfect: 2026-03-24
+date-last-perfect: 2026-09-18
 kwin: true
 tags:
   - character
 boundedness: 95
 ---
 >[!tip] This is a page about the character 分.
->For the word, see [分](words/分.md)
+>For the word, see [分](../words/分.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 份 is listed here
-- 会意): [八](Radical%20012) (“to separate”) + [刀](Radical%20018) (“knife”) – to separate with a knife.
+- 会意: [[Radical 012|八]] ("to separate") + [[Radical 018|刀]] ("knife") — to separate with a knife.
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 206th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄅㄨㄋ](../syllables/ㄅㄨㄋ.md)
-### Derived Characters
-- [扮](扮%20(char).md)
-- [盼](盼.md)
-- [粉](粉%20(char).md)
-- [紛](紛%20(char).md)
-- [頒](頒.md)
-- [忿](憤.md)
-- [盆](盆%20(char).md)
-- [貧](貧.md)
-- [芬](芬.md)
-- [雰](雰.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> "divide" (stand-in for 分)
 - <ruby>[[分裂]]<rt>ㄅㄨㄋㄌㄝㄊ</rt></ruby> "split; divide; break"
 - <ruby>[[分娩]]<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby> "give birth"
 - <ruby>[[分泌]]<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby> "secrete"
 - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄜ</rt></ruby> "molecule; numerator"
-- <ruby>[気分](/words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
+- <ruby>[気分](../words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 - <ruby>[[部分]]<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby> "part, section, segment"
 - <ruby>[[分配]]<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby> "distribute, partition, share"
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
@@ -82,3 +74,14 @@ boundedness: 95
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
 - <ruby>[[数数衡分]]<rt>ㄙㄨㄙㄨㄏㄚㄫㄅㄨㄋ</rt></ruby> "Mene, mene, tekel, upharsin"
+
+## Derived Characters
+- <ruby>[扮 (char)](../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> "dress up"
+- <ruby>[[盼]]<rt>ㄆㄚㄋ</rt></ruby> "clear eyed, hope"
+- <ruby>[粉 (char)](../characters/粉%20(char).md)<rt>ㄈㄨㄋ</rt></ruby> "powder"
+- <ruby>[紛 (char)](../characters/紛%20(char).md)<rt>ㄈㄜㄋ</rt></ruby> "numerous, disorderly"
+- <ruby>[[頒]]<rt>ㄆㄚㄋ</rt></ruby> "confer, bestow"
+- <ruby>[盆 (char)](../characters/盆%20(char).md)<rt>ㄆㄨㄋ</rt></ruby> "basin"
+- <ruby>[[貧]]<rt>ㄅㄧㄋ</rt></ruby> "poor"
+- <ruby>[[芬]]<rt>ㄈㄨㄋ</rt></ruby> "fragrant, aromatic"
+- <ruby>[[雰]]<rt>ㄈㄨㄋ</rt></ruby> "atmosphere, ambience"
