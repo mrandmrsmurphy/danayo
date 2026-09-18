@@ -35,7 +35,7 @@ Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·
 - <ruby>[夏至](/words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
 - <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
 - lunar eclipse = <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
-- conjunction is [[会合]], 
+- conjunction is a 合; an opposition is a 衝 
 
 ### 六十干支
 <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> / <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby>

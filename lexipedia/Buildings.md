@@ -26,6 +26,7 @@ port, neighborhood, alley, sewer, forum, plaza, courtyard, cemetery, park
 - prison - <ruby>[[監獄]]<rt>gam'yok</rt></ruby>
 - station
 - tower
+tent; hut; shed; cabin; apartment; shelter
 
 ### Government 
 - palace, castle, office, prison, ministry, customs, house, archives, constablery
@@ -41,6 +42,7 @@ port, neighborhood, alley, sewer, forum, plaza, courtyard, cemetery, park
 - market, shop, bank, brokerage, factory, brewery, mill, department store, tannery
 
 ## House 
+- cooridor
 - ceiling
 - cell
 - chamber

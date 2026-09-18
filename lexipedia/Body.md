@@ -38,6 +38,8 @@ language: English
 - tongue - <ruby>舌<rt>set</rt></ruby>
 - tooth - <ruby>歯<rt>ci</rt></ruby>
 
+chin; jaw; beard; moustache ; eyelash; bald ; shave
+
 ## Animals 
 - claw - <ruby>爪<rt>cau</rt></ruby>
 - egg - <ruby>卵子<rt>lanji</rt></ruby>
@@ -83,7 +85,7 @@ bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau<
 - caress
 - hug
 
-## Fact
+## ENT
 - blink
 - blow
 - breath
@@ -108,3 +110,4 @@ bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau<
 - sleep
 - tire
 - thirst
+- sated

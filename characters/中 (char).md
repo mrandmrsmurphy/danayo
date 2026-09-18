@@ -5,7 +5,8 @@ korean: 중
 korean_native: 가운데
 japanese:
   - CHUU
-japanese_native: あた
+japanese_native:
+  - あた
   - なか
 vietnamese:
   - trung
@@ -30,30 +31,22 @@ stand_in: 中
 aliases:
   - 𠁩
 注音: ㄐㄨㄫ
-date-last-perfect: 2026-03-25
+date-last-perfect: 2026-09-18
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 中.
->For the word, see [中](words/中.md)
+>For the word, see [中](../words/中.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- Pictogram ([List of 指事](../lookup/List%20of%20指事.md)) – a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC \*tuŋ, \*tuŋs) is reminiscent of the beating of a drum.
-	- Shuowen interprets the character as a vertical stroke [丨](Radical%20002) passing through the center of [[../words/口]], indicating the center.
-	- It has also been interpreted as an arrow in the center of a target.
-- [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄐㄨㄫ](../syllables/ㄐㄨㄫ.md)
-- [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
-
-## Definitions
-1. present tense
-2. midst, middle, center
-	- short for <ruby>[[中央]]<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby> "center; middle"
-3. China ("middle kingdom")
-	- short for [[中国]]
+- [List of 指事](../lookup/List%20of%20指事.md): a flagpole, as depicted in its original form 𠁩. Based on archaeological evidence, the middle box has been interpreted as a drum (建鼓). This flagpole with a drum was placed in the center of a field to gather people and to detect the direction of the wind. In addition, the pronunciation of 中 (OC *tuŋ, *tuŋs) is reminiscent of the beating of a drum. Shuowen interprets the character as a vertical stroke [[Radical 002|丨]] passing through the center of [[口 (char)|口]], indicating the center; it has also been interpreted as an arrow in the center of a target.
+- [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 36th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄐㄨㄫ](../syllables/ㄐㄨㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> "-ing; progressive; in the midst of" (stand-in for 中)
@@ -82,7 +75,7 @@ boundedness: 80
 - <ruby>[[中華民国]]<rt>ㄐㄨㄫㄏ⺢ㄇㄧㄋㄍㄛㄎ</rt></ruby> "Republic of China; Taiwan"
 - <ruby>[[中間]]<rt>ㄐㄨㄫㄍㄚㄋ</rt></ruby> "middle; midway"
 - <ruby>[[暗中]]<rt>ㄚㄇㄐㄨㄫ</rt></ruby> "in the dark; secretly; covertly"
-- <ruby>[水中](/words/水中)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> "underwater"
+- <ruby>[水中](../words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby> "underwater"
 - <ruby>[[中等]]<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby> "intermediate, medium grade"
 - <ruby>[[空中]]<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby> "in the air, midair, the sky"
 - <ruby>[[雨中]]<rt>ㄨㄐㄨㄫ</rt></ruby> "in the rain"
@@ -94,5 +87,9 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
-[[Lookup/CC/initials/聲 知]]
-[[Lookup/CC/finals/韻 東三]]
+
+## Derived Characters
+- <ruby>[[仲]]<rt>ㄉㄨㄫ</rt></ruby> "mediator"
+- <ruby>[[沖]]<rt>ㄑㄨㄫ</rt></ruby> "alluvial"
+- <ruby>[[衷]]<rt>ㄊㄨㄫ</rt></ruby> "inmost"
+- <ruby>[[忠]]<rt>ㄊㄨㄫ</rt></ruby> "loyalty, devotion"
