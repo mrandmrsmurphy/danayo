@@ -4,7 +4,7 @@ language: English
 ## Lexipedia
 Rosenfelder's helpful book
 
-See [[lexipedia/format|format.md]] for the standard template and style guide before creating or expanding a domain page below.
+See [[AIOS/checklists/checklist_lexipedia|the lexipedia checklist]] for the standard template and completion rubric before creating or expanding a domain page below.
 
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]

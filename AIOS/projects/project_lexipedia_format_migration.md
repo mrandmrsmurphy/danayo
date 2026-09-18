@@ -4,7 +4,7 @@ description: "Active (2026-09-17) - migrating existing lexipedia domain pages to
 type: project
 ---
 
-**Status: active, 2 of 19 in-scope pages done.** `lexipedia/format.md` specifies a template every "domain page" should follow: frontmatter (`type: lexipedia`, `domain`, `related_domains`, `status: new|stub|partial|complete`), then `# Domain` → Domain Overview → `## Core Vocabulary (A1–A2)` → `## Intermediate (B1–B2)` with `###` subcategories → `## Advanced / Specialized (C1+)` → `## Semantic Range Notes` → `## See Also`. **On audit (2026-09-17), zero of the 28 existing files in `lexipedia/` followed this template** — not just the two pages worked on this session (Numbers, Metals), but also spot-checked `Color.md` and `Elements.md`, both plain flat lists with `language: English` frontmatter only. `format.md` had never actually been applied to the real corpus.
+**Status: active, 2 of 19 in-scope pages done.** [[AIOS/checklists/checklist_lexipedia.md]] (moved 2026-09-18 from `lexipedia/format.md`, which had been living as vault content despite being a how-to-validate page — see that checklist's own note) specifies a template every "domain page" should follow: frontmatter (`type: lexipedia`, `domain`, `related_domains`, `status: new|stub|partial|complete`, `date-last-perfect`), then `# Domain` → Domain Overview → `## Core Vocabulary (A1–A2)` → `## Intermediate (B1–B2)` with `###` subcategories → `## Advanced / Specialized (C1+)` → `## Semantic Range Notes` → `## See Also`. **On audit (2026-09-17), zero of the 28 existing files in `lexipedia/` followed this template** — not just the two pages worked on this session (Numbers, Metals), but also spot-checked `Color.md` and `Elements.md`, both plain flat lists with `language: English` frontmatter only. The template had never actually been applied to the real corpus.
 
 ## Scope, established by reading `lexipedia/Lexipedia.md` (the index page) closely
 
@@ -48,7 +48,7 @@ type: project
 4. Write a real Domain Overview (2–4 sentences) and real Semantic Range Notes (the substantive part — document genuine cross-linguistic divergences found during the word-level work, not filler prose).
 5. Build a See Also section with real, verified links only — checked at least one fabricated idiomatic-use example out during the Metals migration (点金術 doesn't exist as a word; caught before publishing, replaced with a verified real one).
 6. Add `related_domains` only to domains that actually have files (or, per Numbers, one or two functionally-related "Others" pages like Periodic Table/Calendar, since those remain useful cross-references even though they don't follow this same template themselves).
-7. Set `status: complete` once genuinely done; run a final script check for broken links and duplicate `注音` readings within the page before moving on.
+7. Set `status: complete` and `date-last-perfect` once every criterion in [[AIOS/checklists/checklist_lexipedia.md]] is met; run a final script check for broken links and duplicate `注音` readings within the page before moving on.
 
 ## Note for whoever resumes this
 

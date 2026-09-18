@@ -1,6 +1,6 @@
 # Checklist Index
 
-Completion rubrics for each content type in the vault — the "date-last-perfect" spec for what a fully correct page of that kind looks like. Formerly the vault's "BP" (best practice) pages; moved here because their actual audience is AI checking pages against them, not a human browsing Obsidian — nothing in the vault's content (templates, nav files, character/word/chengyu pages) ever linked to them. Read the relevant checklist in full before perfecting or auditing that kind of page.
+Completion rubrics for each content type in the vault — the "date-last-perfect" spec for what a fully correct page of that kind looks like. Formerly the vault's "BP" (best practice) pages; moved here because their actual audience is AI checking pages against them, not a human browsing Obsidian — none of the vault's actual content (templates, nav files, character/word/chengyu pages) links to them. The one exception is `lexipedia/Lexipedia.md`, which points authors at [[AIOS/checklists/checklist_lexipedia.md]] before they create or expand a domain page (moved here 2026-09-18 from `lexipedia/format.md`, which had been living as vault content despite being a how-to-validate page, not a lexipedia page itself). Read the relevant checklist in full before perfecting or auditing that kind of page.
 
 Distinct from `AIOS/skills/` (how to *create* something) — checklists are how to judge whether something that already exists is *complete*.
 
@@ -12,6 +12,7 @@ Distinct from `AIOS/skills/` (how to *create* something) — checklists are how 
 - [[AIOS/checklists/checklist_skip.md|SKIP lookup pages]] — index vs. leaf file structure, SKIP-4's distinct layout
 - [[AIOS/checklists/checklist_radicals.md|Radical lookup pages]] — stroke-grouped inventory per Kangxi radical
 - [[AIOS/checklists/checklist_cc.md|CC initials/finals pages]] — outcome-grouped character inventory per Middle Chinese initial/final, exception diagnosis categories
+- [[AIOS/checklists/checklist_lexipedia.md|Lexipedia domain pages]] — tiered vocabulary structure (A1–C1+), Semantic Range Notes, Dan'a'yo-specific divergence from source-language meaning
 
 ## On a future delinter
 
