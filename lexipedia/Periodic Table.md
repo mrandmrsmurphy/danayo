@@ -33,7 +33,7 @@ Examples:
 |2|<ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](/words/硼素.md)<rt>ㄅㄛㄫㄙㄛ</rt></ruby>|<ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](/words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](/words/養素.md)<rt>⼘ㄫㄙㄛ</rt></ruby>|<ruby>[弗素](/words/弗素.md)<rt>ㄈㄨㄊㄙㄛ</rt></ruby>|<ruby>[虹素](../words/虹素.md)<rt>ㄏㄛㄫㄙㄛ</rt></ruby>|
 |3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ⼜ㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>⼶ㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉ⺢ㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>|<ruby>[徳素](/words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>|<ruby>[砒素](/words/砒素.md)<rt>ㄆㄧㄙㄛ</rt></ruby>|<ruby>[月素](/words/月素.md)<rt>⼔ㄊㄙㄛ</rt></ruby>|<ruby>[臭素](/words/臭素.md)<rt>ㄑㄨㄙㄛ</rt></ruby>|<ruby>[潜素](/words/潜素.md)<rt>ㄐㄝㄇㄙㄛ</rt></ruby>|
-|5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>|<ruby>[火紅素](/words/火紅素.md)<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby>| <ruby>[紫素](/words/紫素.md)<rt>ㄐㄝㄙㄛ</rt></ruby> |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| <ruby>[墨素](/words/墨素.md)<rt>ㄇㄨㄎㄙㄛ</rt></ruby> | <ruby>[土素](/words/土素.md)<rt>ㄊㄛㄙㄛ</rt></ruby> | <ruby>[沃素](/words/沃素.md)<rt>ㄛㄎㄙㄛ</rt></ruby> | <ruby>[奇素](/words/奇素.md)<rt>ㄍㄨㄧㄙㄛ</rt></ruby>|
+|5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>|<ruby>[火紅素](/words/火紅素.md)<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby>| <ruby>[紫素](/words/紫素.md)<rt>ㄐㄝㄙㄛ</rt></ruby> |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| <ruby>[墨素](/words/墨素.md)<rt>ㄇㄨㄎㄙㄛ</rt></ruby> | <ruby>[土素](/words/土素.md)<rt>ㄊㄛㄙㄛ</rt></ruby> | <ruby>[沃素](/words/沃素.md)<rt>ㄛㄎㄙㄛ</rt></ruby> | <ruby>[異素](/words/異素.md)<rt>ㄧㄙㄛ</rt></ruby>|
 |6|<ruby>[青素](/words/青素.md)<rt>ㄑㄝㄫㄙㄛ</rt></ruby>|<ruby>[重素](/words/重素.md)<rt>ㄑㄛㄫㄙㄛ</rt></ruby>|<ruby>[蕤素](/words/蕤素.md)<rt>ㄋㄨㄧㄙㄛ</rt></ruby>|<ruby>[鉛](/words/鉛.md)<rt>⼶ㄋ</rt></ruby>|<ruby>[蒼鉛](/words/蒼鉛.md)<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby>|<ruby>[波素](/words/波素.md)<rt>ㄅㄚㄙㄛ</rt></ruby>|<ruby>[不穏素](/words/不穏素.md)<rt>ㄅㄛㄊ·ㄛㄋㄙㄛ</rt></ruby>|<ruby>[射素](/words/射素.md)<rt>ㄙ⼘ㄙㄛ</rt></ruby>|
 |7|<ruby>[法素](/words/法素.md)<rt>ㄈㄚㄆㄙㄛ</rt></ruby>|<ruby>[放素](/words/放素.md)<rt>ㄈㄚㄫㄙㄛ</rt></ruby>|<ruby>[日本素](/words/日本素.md)<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby>|<ruby>[佛雷素](/words/佛雷素.md)<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby>|<ruby>[莫斯素](/words/莫斯素.md)<rt>ㄇㄚㄎㄙㄧㄙㄛ</rt></ruby>|<ruby>[利佛素](/words/利佛素.md)<rt>ㄌㄧㄜㄅㄨㄊㄙㄛ</rt></ruby>|<ruby>[田納素](/words/田納素.md)<rt>ㄉㄝㄋㄋㄚㄆㄙㄛ</rt></ruby>|<ruby>[奥加素](/words/奥加素.md)<rt>ㄨㄎㄍㄚㄙㄛ</rt></ruby>|
 
@@ -60,7 +60,7 @@ Element 111 (roentgenium, 錀) also lends its phonetic to <ruby>[錀琴](/words/
  2  │ 石 緑 ·  ·  ·  ·  ·  ·  ·  ·  ·  硼 炭 窒 養 弗 虹
  3  │ 鹸 苦 ·  ·  ·  ·  ·  ·  ·  ·  ·  礬 硅 燐 硫 塩 惰
  4  │ 鉀 灰 康 巨 釩 色 孟 鉄 鬼 魔 銅 亜 高 徳 砒 月 臭 潜
- 5  │ 茜 火 蛍 晶 孝 硬 造 露 薇 護 銀 甘 紫 朱 墨 土 沃 奇
+ 5  │ 茜 火 蛍 晶 孝 硬 造 露 薇 護 銀 甘 紫 朱 墨 土 沃 異
  6  │ 青 重 隠 丹 渇 狼 莱 嗅 霓 白 黄 水 蕤 鉛 蒼 波 穏 射
  7  │ 法 放 始 拉 杜 西 玻 黒 邁 達 錀 哥 本 佛 莫 利 田 奥
  

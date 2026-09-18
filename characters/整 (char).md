@@ -7,6 +7,7 @@ japanese:
   - SEI
 japanese_native: ととの
 vietnamese:
+  - chỉnh
   - choảnh
   - chảnh
   - chểnh

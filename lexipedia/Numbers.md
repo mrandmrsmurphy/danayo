@@ -44,7 +44,7 @@ language: English
 24. second <ruby>[第二](/words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>
 25. single <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>
 26. third <ruby>[第三](/words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>
-27. twice <ruby>[再度](/words/再度.md)<rt>ㄐㄚㄧㄉㄛ</rt></ruby>, [[二回]], [[二度]]
+27. twice <ruby>[再度](/words/再度.md)<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
 28. twin <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>
 
 ## Math
@@ -70,4 +70,4 @@ language: English
 - tangent <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>
 	- geometric sense <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby>
 - integrate
-- different
+- differtiate
