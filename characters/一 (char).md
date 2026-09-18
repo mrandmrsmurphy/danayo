@@ -91,6 +91,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
 - <ruby>[[一網打尽]]<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> "roundup, wholesale arrest; rounding up the herd with one throw"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"
+- <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫ·ㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
 - <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
 - <ruby>[[乾坤一擲]]<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> "all or nothing, bet it all"

@@ -63,6 +63,10 @@ boundedness: 65
 - <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"
 - <ruby>[[八紘]]<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby> "eight cords"
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
+
+## Chengyu
+- <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫ·ㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
+
 ## Derived Characters
 - <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby> "trumpet"
 

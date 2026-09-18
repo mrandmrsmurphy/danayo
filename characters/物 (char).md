@@ -87,5 +87,5 @@ boundedness: 50
 
 ## Chengyu
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"
-- <ruby>[[主宰万物]]<rt>ㄐㄨㄐㄚㄧㄇㄚㄋㄇㄨㄊ</rt></ruby> "Dominion over all things"
+- <ruby>[[主宰万物]]<rt>ㄐㄨㄐㄚㄧㄇㄛㄋㄇㄨㄊ</rt></ruby> "Dominion over all things"
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"
