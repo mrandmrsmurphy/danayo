@@ -59,7 +59,7 @@ boundedness: 100
 - <ruby>[[期間]]<rt>ㄎㄧㄍㄚㄋ</rt></ruby> "period; time; duration"
 - <ruby>[[期限]]<rt>ㄎㄧㄏㄚㄋ</rt></ruby> "due date; deadline; time limit"
 - <ruby>[[週期]]<rt>ㄐㄨㄛㄎㄧ</rt></ruby> "period; cycle"
-- <ruby>[[週期表]]<rt>ㄐㄨㄛㄎㄧㄙㄛ</rt></ruby> "periodic table"
+- <ruby>[[週期表]]<rt>ㄐㄨㄛㄎㄧㄅ⼘ㄨ</rt></ruby> "periodic table"
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 - <ruby>[[長期]]<rt>ㄐㄚㄫㄎㄧ</rt></ruby> "long time"
 - <ruby>[[上半期]]<rt>ㄙ⼘ㄫㄅㄚㄋㄎㄧ</rt></ruby> "first half of the year"

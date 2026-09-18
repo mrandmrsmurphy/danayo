@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[金曜日]]<rt>ㄍㄧㄇ·⼄ㄨㄋㄧㄊ</rt></ruby> "Friday"
 - <ruby>[[金髪碧眼]]<rt>ㄍㄧㄇㄈㄚㄊㄅ⼶ㄎ·ㄚㄋ</rt></ruby> "blonde hair, blue eyes"
 - <ruby>[[金柑]]<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby> "kumquat"
-- <ruby>[[造金]]<rt>ㄐㄛㄍㄧㄇ</rt></ruby> "technetium"
+- <ruby>[[造金]]<rt>ㄑㄚㄨㄍㄧㄇ</rt></ruby> "technetium"
 - <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"
 - <ruby>[[金城]]<rt>ㄍㄧㄇㄙㄧㄫ</rt></ruby> "impenetrable city; Jincheng"
 - <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
