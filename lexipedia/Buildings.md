@@ -17,11 +17,11 @@ language: English
 - park - <ruby>[公園](../words/公園.md)<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
 - cemetery - <ruby>[墓地](../words/墓地.md)<rt>ㄇㄛㄉㄧㄜ</rt></ruby>
 - neighborhood - <ruby>[近処](../words/近処.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>
+- plaza - <ruby>[広場](../words/広場.md)<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> (same word as "square/plaza" above)
 - port - [[海港]] *(reserved — "seaport," built on [海](../characters/海.md) "sea" + [港](../characters/港.md) "harbor"; not yet a word page. Distinct from the existing [[港湾]] "harbor" itself.)*
 - alley - *(no word yet — genuine gap: no CJKV consensus term exists at all. Mandarin/Cantonese lean Sino (巷 xiàng/hong6, or Beijing-specific 胡同 hútòng), but Japanese commonly uses native 路地 (roji) and Korean uses native 골목 (golmok) rather than any Sino-Korean equivalent, and Vietnamese uses native hẻm/ngõ. Tentatively proposed neologism: 坊巷 ("lanes and alleys" — [坊](../characters/坊.md) already independently carries an "alley, lane" sense; 巷 itself doesn't exist in the vault at all yet). Holding off on creating either the character or the word for now — flagged here for a future dedicated session.)*
 - sewer - [[下水道]] *(reserved — genuine three-way consensus: the exact same compound "under-water-way" in Mandarin, Japanese げすいどう, and Korean 하수도; Vietnamese leans native (cống) but has an attested formal Sino-Vietnamese form too. Not yet a word page.)*
 - forum - *(no CJKV equivalent — a foreign/imported Roman concept, not a genuine gap to fill)*
-- plaza
 
 ## Buildings 
 - bath - *(no clean CJKV consensus term — Mandarin has 浴室/澡堂, Japanese mostly uses native 風呂 rather than its own on'yomi 浴室, Korean has 목욕탕 沐浴湯; each language structures the concept differently enough that no single word represents them all)*
@@ -44,10 +44,10 @@ language: English
 - palace - <ruby>[宮廷](../words/宮廷.md)<rt>ㄍㄨㄫㄉㄝㄫ</rt></ruby>
 - castle - <ruby>[城郭](../words/城郭.md)<rt>ㄙㄧㄫㄍ⺢ㄎ</rt></ruby>
 - office - <ruby>[官庁](../words/官庁.md)<rt>ㄍ⺢ㄋㄑㄝㄫ</rt></ruby>
-- prison
+- prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby> (same word as the Buildings section's own "prison" above)
 - ministry - <ruby>[省](../words/省.md)<rt>ㄙ⼶ㄫ</rt></ruby>
 - customs - [[税関]] *(reserved — "tax-checkpoint," identical compound in Japanese ぜいかん and Korean 세관; Mandarin uses 海關 "sea-checkpoint" instead, sharing the same 關/関 "checkpoint" logic with a different first character. Not yet a word page.)*
-- house
+- house - <ruby>[住宅](../words/住宅.md)<rt>ㄐㄨㄐㄚㄎ</rt></ruby> (same word as the Buildings section's own "house" above)
 - archives - *(no clean consensus — Mandarin 檔案館/資料館, Japanese 文書館, Korean 문서보관소/기록관 all structured differently)*
 - constablery - [[警察署]] *(reserved — identical compound in Japanese けいさつしょ and Korean 경찰서; Mandarin uses 警察局, swapping the final character for "bureau" instead of "office" — the same X法/X算-style register split already documented on [[Numbers]]. Not yet a word page.)*
 - <ruby>[政府](../words/政府.md)<rt>ㄐㄧㄫㄆㄨ</rt></ruby>: government (the institution this subsection's vocabulary serves).
@@ -76,13 +76,13 @@ language: English
 - pool - *(no clean CJKV consensus — Mandarin 游泳池, Japanese loanword プール, Korean 수영장 all structured differently)*
 - tavern - *(no clean CJKV consensus)*
 - inn - [[旅館]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese りょかん (a real, culturally distinct institution), and Korean 여관. Genuinely distinct from "hotel" above. Not yet a word page.)*
-- hotel
+- hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby> (same word as the Buildings section's own "hotel" above)
 - restaurant - <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>
 - brothel - *(no clean CJKV consensus)*
 - arena - [[競技場]] *(reserved — identical compound in Mandarin, Japanese きょうぎじょう, and Korean 경기장. Not yet a word page.)*
 - stadium - *(too much overlap with arena above — CJKV doesn't cleanly split these into two buildings — left unfilled)*
 - race track - [[競馬場]] *(reserved — "compete-horse-place," identical in Japanese けいばじょう and Korean 경마장; Mandarin uses 賽馬場 instead, same structure with a different first character (賽 "race" vs 競 "compete"). Not yet a word page.)*
-- park
+- park - <ruby>[公園](../words/公園.md)<rt>ㄍㄛㄫㄛㄋ</rt></ruby> (same word as The City's own "park" above)
 - garden - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫ·ㄛㄋ</rt></ruby>
 - gambling den - [[賭博場]] *(reserved — identical compound in Japanese とばくじょう and Korean 도박장; Mandarin's everyday word 賭場 drops the middle character. Not yet a word page.)*
 - opium den - *(no CJKV equivalent — a narrow 19th-century-China-specific concept without real Japanese/Korean counterparts)*
@@ -139,25 +139,25 @@ language: English
 - bed - <ruby>[床](../words/床.md)<rt>ㄙ⼘ㄇ</rt></ruby>
 - chair - <ruby>[椅子](../words/椅子.md)<rt>ㄜㄧㄐㄜ</rt></ruby>
 - curtain - <ruby>[幕](../words/幕.md)<rt>ㄇㄚㄎ</rt></ruby>
-- desk
+- desk - *(no clean consensus — Mandarin 書桌 and Korean 책상 each build on a different already-claimed character, 桌/床; Japanese uses a distinct single character, 机)*
 - seat - <ruby>[坐位](../words/坐位.md)<rt>ㄐ⺢⼔ㄧ</rt></ruby>
 - table - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby>
-- bench
-- couch
-- stool
-- cradle
+- bench - *(no clean consensus — mostly loanwords or native compounds)*
+- couch - *(no clean consensus — all three converge only on borrowing English "sofa" phonetically: 沙發/ソファ/소파; not a native CJKV compound)*
+- stool - *(no clean consensus)*
+- cradle - [[搖籃]] *(reserved — Mandarin and Korean 요람 (搖籃) are identical; Japanese uses the native yurikago but written with the same "shake" root, 揺り籠. Requires coining a new character, 搖 ("shake"), which doesn't exist in the vault yet — held off on creating it for now, same as the alley/巷 case above.)*
 - shelf - <ruby>[棚](../words/棚.md)<rt>ㄅㄚㄫ</rt></ruby>
 - bathtub - <ruby>[浴槽](../words/浴槽.md)<rt>⼄ㄎㄐㄚㄨ</rt></ruby>
 - toilet - <ruby>[厠所](../words/厠所.md)<rt>ㄑㄧㄙㄜ</rt></ruby>
-- stove
-- sink
+- stove - <ruby>[火炉](../words/火炉.md)<rt>ㄏ⺢ㄌㄛ</rt></ruby> (glossed "furnace, boiler," with 炉 itself meaning "stove")
+- sink - *(no clean consensus — mostly loanwords)*
 - refrigerator - <ruby>[冷蔵庫](../words/冷蔵庫.md)<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
-- mattress
-- sheet
-- blanket
+- mattress - *(no clean consensus — mostly loanwords)*
+- sheet - *(no clean consensus — mostly loanwords)*
+- blanket - *(no clean consensus — only a weak single-character overlap)*
 - pillow - <ruby>[枕頭](../words/枕頭.md)<rt>ㄐㄧㄇㄊㄛㄨ</rt></ruby>
-- tapestry
-- carpet
+- tapestry - *(no CJKV equivalent — a foreign/imported decorative-art concept, mostly loanwords)*
+- carpet - *(no clean consensus — mostly loanwords, aside from a weak shared final character)*
 
 ## Additions Beyond Rosenfelder's List
 

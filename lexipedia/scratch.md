@@ -6,7 +6,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 ## Counts
 
-- **Unsorted**: 2408
+- **Unsorted**: 2406
 - **Art**: 118
 - **Astronomy**: 189
 - **Body**: 194
@@ -58,7 +58,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Work**: 28
 - **歴史綱要**: 4
 
-## Unsorted (2408)
+## Unsorted (2406)
 
 - [[一兆]] — one trillion
 - [[一端]] — one aspect, competent
@@ -909,7 +909,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[瀑布]] — waterfall, cataract, cascade
 - [[灌漑]] — irrigation
 - [[火山]] — volcano
-- [[火炉]] — furnace, boiler
 - [[灯籠]] — lantern
 - [[灼熱]] — burning hot, scorching
 - [[炉甘石]] — calamine, smithsonite
@@ -2449,7 +2448,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[別荘]] — villa, village
 - [[坐席]] — seat, mat
 - [[垣]] — low wall, enclosure
-- [[城郭]] — castle walls, city walls
 - [[堡塁]] — fortress, stronghold
 - [[大廈]] — mansion, large building, skyscraper
 - [[局]] — office
