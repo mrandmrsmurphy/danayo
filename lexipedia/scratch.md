@@ -4,39 +4,40 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 **2026-09-19, Buildings — first raw Rosenfelder dump migration**: `lexipedia/Buildings.md` is one of the still-unmigrated flat Rosenfelder lists, not yet held to the tiered-domain checklist. Slotted 55 words directly into the page's own existing bare-English placeholders (office → 事務所, warehouse → 倉庫, school → 学校, etc.), fixed the page's pervasive leading-slash `/words/...` path bug and its inconsistent wikilink-with-romanization entries (street/tunnel/village/church/door/stair), and added one genuine building concept the page never had a slot for at all: 要塞 ("fortress"), as a new bottom section. All 69 words on the page now backlink correctly. The other ~90 words in the original 147-item bucket were either real non-Buildings words (令圄→Unsorted since no clean alternate fit, 内閣/在位/自治→Government, 学科/右学/左学→Knowledge, 岸/灘→Water, 紫禁城/首都/京城→Geography, etc.) or genuine building words that duplicate an already-slotted synonym (e.g. 局/辦公室 both also mean "office," already filled by 事務所/官庁) — not forced onto the page, left in Unsorted instead per "if it shouldn't be there, don't move it."
 
+**2026-09-19, Grammar — cleared via `文法 - 97品詞`**: cross-referenced the vault's own comprehensive grammar reference page against the 161-word Grammar bucket and rebuilt `lexipedia/Grammar.md` from a small partial dump into a full page (Pronouns, a complete 63-cell Correlative Pronoun table — 此/其/彼/何/毎/皆/某 × 事/物/人/名/処/時/様/多/類, all real words — the 12-case system, Function Words, Writing System & Characters, the Six Writings classification, Phonology, and Lexicon & Language). Also swept up 19 correlative-pronoun words (其時/某事/彼処/何人/etc.) that had been keyword-miscategorized into Astronomy/Calendar/Dimensions/Events/Existence/Locatives — the whole closed paradigm now lives together. Fixed 6 stale cached 注音 bugs the old page had been carrying (其/此/他/其人/其処/此処 had all drifted from their word files' current readings). Removed 7 real false positives from the bucket that had only keyword-matched (沈淀→Substances, 燐火/鬼火→Nature, 緊張→Emotions, 自給/兼→Existence, 篇→Speech). 173 words backlinked and cleared in total; Grammar bucket now fully gone.
+
 ## Counts
 
-- **Unsorted**: 2406
-- **Art**: 118
-- **Astronomy**: 189
+- **Unsorted**: 2402
+- **Animals**: 119
+- **Astronomy**: 182
 - **Body**: 194
-- **Calendar**: 138
+- **Calendar**: 136
 - **Clothing**: 42
 - **Conflict**: 95
 - **Containers**: 57
-- **Dimensions**: 95
+- **Dimensions**: 93
 - **Directions**: 58
 - **Efforts**: 53
 - **Elements**: 16
-- **Emotions**: 105
-- **Events**: 56
-- **Existence**: 164
+- **Emotions**: 106
+- **Events**: 55
+- **Existence**: 161
 - **Food**: 113
 - **Geography**: 230
 - **Government**: 118
-- **Grammar**: 161
 - **Kinship**: 64
 - **Knowledge**: 82
 - **Law**: 36
 - **Life**: 20
-- **Light**: 32
-- **Locatives**: 15
+- **Light**: 33
+- **Locatives**: 13
 - **Love**: 6
 - **Measurement**: 11
 - **Mind**: 23
 - **Movement**: 52
-- **Nature**: 7
-- **Numbers**: 1
+- **Nature**: 9
+- **Numbers**: 2
 - **Physical**: 11
 - **Physics**: 19
 - **Plants**: 27
@@ -47,28 +48,24 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Shape**: 14
 - **Sin**: 22
 - **Society**: 33
-- **Speech**: 59
-- **Substances**: 25
+- **Speech**: 60
+- **Substances**: 26
 - **Time**: 28
 - **Tools**: 19
-- **Trade**: 36
+- **Trade**: 37
 - **Valuation**: 47
 - **War**: 24
 - **Water**: 58
 - **Work**: 28
 - **歴史綱要**: 4
 
-## Unsorted (2406)
+## Unsorted (2402)
 
-- [[一兆]] — one trillion
 - [[一端]] — one aspect, competent
-- [[一角獣]] — unicorn
 - [[丁丁]] — clang, clash
 - [[丁香]] — clove
 - [[七夕]] — qixi
 - [[丈]] — zhang
-- [[三稜鏡]] — prism
-- [[三菱]] — mitsubishi
 - [[上昇]] — ascend
 - [[上海]] — shanghai
 - [[上面]] — surface, outward appearance
@@ -2467,8 +2464,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Art (118)
-
+## Animals (1)
+- [[一角獣]] — unicorn
+- [[俳優]] — actor
 - [[偶像]] — idol, statue
 - [[公尺]] — meter, metre
 - [[兵法]] — art of war, tactics
@@ -2522,12 +2520,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[書法]] — calligraphy
 - [[書簡]] — letter
 - [[書経]] — book of documents
+- [[木版]] — printing block
 - [[札]] — letter, note
 - [[柄]] — design, handle
 - [[柬]] — letter, invitation
 - [[校歌]] — school anthem, school song
 - [[楽経]] — classic of music
 - [[楽譜]] — music score, music manuscript
+- [[横幅]] — banner, horizontal scroll
 - [[歌曲]] — song
 - [[歌謡]] — song, ballad
 - [[武芸]] — martial art skill
@@ -2538,6 +2538,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[法術]] — magic, magic arts
 - [[測量]] — measure, survey
 - [[演]] — unfold, perform
+- [[演出]] — perform; put on (a show); performance (mandarin/cantonese), direct, stage-direct; the creative act of staging a production (japanese えんしゅつ — see note)
 - [[演奏]] — play (music)
 - [[版画]] — print (picture copied from a painting or photography)
 - [[男優]] — male artist, male actor
@@ -2554,6 +2555,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[翻訳]] — translate
 - [[聴衆]] — audience
 - [[肩章]] — epaulet (shoulder decoration)
+- [[芸人]] — performer, actor
 - [[芸術]] — skill, art, craft
 - [[薄膜]] — membrane, thin film
 - [[装飾]] — decoration, ornament, accessory
@@ -2572,6 +2574,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[賦]] — prose-poetry
 - [[跆籍]] — taekwondo registration, martial arts membership record
 - [[跳舞]] — dance
+- [[軽歌劇]] — operetta, light opera
 - [[辞令]] — letter of dismissal, letter of resignation
 - [[遊戯]] — play, game
 - [[量詞]] — measure word, classifier, counter
@@ -2579,16 +2582,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[鉛筆]] — pencil
 - [[雑誌]] — magazine, periodical
 - [[音楽]] — music
-- [[鼓]] — drum, play (instrumental)
-- [[俳優]] — actor
-- [[芸人]] — performer, actor
 - [[音符]] — note
-- [[横幅]] — banner, horizontal scroll
-- [[軽歌劇]] — operetta, light opera
-- [[演出]] — perform; put on (a show); performance (mandarin/cantonese), direct, stage-direct; the creative act of staging a production (japanese えんしゅつ — see note)
-- [[木版]] — printing block
+- [[鼓]] — drum, play (instrumental)
 
-## Astronomy (189)
+## Astronomy (182)
 
 - [[䦧神星]] — eris
 - [[一朝]] — short time
@@ -2616,7 +2613,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[八角]] — octagon, star anise (illicium verum)
 - [[其人等]] — they
 - [[其処]] — there (medial)
-- [[其時]] — then, at that time
 - [[冥王]] — pluto, hades, yama, king of the underworld
 - [[冥王星]] — pluto
 - [[分点]] — equinox
@@ -2710,14 +2706,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[木星]] — jupiter
 - [[本校]] — head school, our school, this school
 - [[某]] — some, certain
-- [[某事]] — some action, a certain matter
-- [[某多]] — some amount, an unspecified quantity
-- [[某時]] — sometime, at a certain point in time
-- [[某様]] — somehow, in some way
-- [[某類]] — some kind, a certain type
 - [[榜文]] — official proclamation, posted notice
 - [[欲求]] — crave, desire, lust after
-- [[此時]] — now, at this time
 - [[比喩]] — metaphor
 - [[民意]] — will of the people, public opinion
 - [[汝]] — you (intimate)
@@ -2977,7 +2967,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[郭清]] — to purge, to clear away, surgical dissection
 - [[顔色]] — complexion, expression, appearance, look
 
-## Calendar (138)
+## Calendar (136)
 
 - [[一半]] — one half
 - [[万乗]] — ten thousand chariots, imperial power
@@ -3031,8 +3021,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[強国]] — superpower (country)
 - [[当時]] — then, that other time
 - [[形容詞]] — adjective
-- [[彼処]] — yonder, over there
-- [[彼時]] — that other time, back then
 - [[思考]] — think on, ponder over
 - [[恭喜発財]] — happy new year
 - [[悠久]] — long-lasting, time-honoured
@@ -3321,7 +3309,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[墊]] — mat, pad, cushion
 - [[畳]] — folding mat, tatami mat
 
-## Dimensions (95)
+## Dimensions (93)
 
 - [[一点]] — a little, a bit
 - [[不但]] — not only
@@ -3335,7 +3323,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[僅僅]] — only, merely, barely
 - [[充分]] — ample, plenty, enough
 - [[全盛]] — flourishing, at the height of prosperity, at one's best
-- [[其多]] — that much, that many
 - [[分之]] — -ths (fraction marker: denominator分之numerator)
 - [[加多]] — to add; to augment; to increase
 - [[区域]] — area, district, precinct
@@ -3371,7 +3358,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[極右]] — far-right
 - [[極左]] — far-left
 - [[榴弾]] — high explosives
-- [[此多]] — this much, this many
 - [[浅]] — shallow
 - [[浅薄]] — superficial, shallow
 - [[浩大]] — vast, great, magnificent
@@ -3555,16 +3541,18 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[火焰]] — flame, blaze
 - [[烈火]] — raging inferno, blaze
 
-## Emotions (105)
-
+## Emotions (106)
 - [[不安]] — anxiety, unease, insecurity
 - [[不幸]] — unfortunate, sad, unhappy
 - [[不満]] — be dissatisfied, be resentful, be lacking
 - [[九泉]] — the nine springs, the netherworld, the grave
 - [[享受]] — enjoy, relish
 - [[仇恨]] — hatred, enmity, grudge
+- [[仰望]] — look up to
 - [[倦嫌]] — weary, world-weary, jaded, sick and tired
 - [[傲慢]] — proud, overbearing, haughty
+- [[凄惨]] — miserable
+- [[凄涼]] — miserable, desolate
 - [[刻薄]] — cruel, inhuman
 - [[厳粛]] — solemn, austere, grave
 - [[厳重]] — serious, rigorous
@@ -3572,7 +3560,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[台悦]] — happy, pleased, joyful
 - [[和平]] — peaceful
 - [[哀傷]] — sad, distressed, mournful
+- [[哀戚]] — grieving, sorrowful
+- [[哭]] — cry, weep
 - [[喜悦]] — joyous, happy
+- [[嗚咽]] — sob, whimper
 - [[塚]] — hillock, grave, tumulus, burial mound
 - [[墓穴]] — grave, burial pit, tomb
 - [[墳墓]] — grave, tomb
@@ -3580,9 +3571,11 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[娯楽]] — entertain, amuse oneself
 - [[嫉妬]] — be jealous, be envious
 - [[嫌悪]] — hatred, aversion, loathing
+- [[孤独]] — lonely, solitary
 - [[安寧]] — calm, composed
 - [[安穏]] — peaceful, quiet, steady
 - [[安静]] — peaceful, quiet
+- [[寂寞]] — lonely, desolate
 - [[平穏]] — calm, peaceful
 - [[平静]] — calm, serene, peaceful
 - [[幸福]] — happy, blessed
@@ -3602,6 +3595,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[悩]] — angered, mad
 - [[悲]] — be sad
 - [[悲傷]] — sad, sorrowful, grieving
+- [[悲痛]] — grieved, sorrowful
 - [[悼]] — lament
 - [[情態]] — mood
 - [[情欲]] — lust, sexual desire
@@ -3620,16 +3614,20 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[歓呼]] — hail, cheer
 - [[歓喜]] — happy, pleased
 - [[気分]] — mood, feeling
+- [[泣]] — cry, sob
 - [[泰然]] — calm, composed, unruffled
 - [[満足]] — satisfied, contented
 - [[激怒]] — anger, enrage
+- [[焦思]] — worry, deliberate anxiously
 - [[熱情]] — enthusiasm, passion, ardor
 - [[畏]] — fear, dread, reverence, awe, phobia
+- [[痛哭]] — to wail, to cry bitterly, to weep aloud
 - [[痛快]] — joyful; thoroughly satisfying; exhilarating
 - [[瘋顚]] — insane, crazy, mad
 - [[禁欲]] — be ascetic, suppress desire, be abstinent
 - [[私讐]] — personal grudge
 - [[窪地]] — hollow, depression, pit
+- [[緊張]] — tight, tense, worried
 - [[罹患]] — suffer from, contract
 - [[羞恥]] — shame
 - [[羨慕]] — envy, be jealous of
@@ -3650,20 +3648,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[高興]] — glad, pleased
 - [[鬼神]] — fierce demon
 - [[鼓舞]] — encourage, cheer
-- [[凄惨]] — miserable
-- [[凄涼]] — miserable, desolate
-- [[哀戚]] — grieving, sorrowful
-- [[哭]] — cry, weep
-- [[嗚咽]] — sob, whimper
-- [[寂寞]] — lonely, desolate
-- [[悲痛]] — grieved, sorrowful
-- [[泣]] — cry, sob
-- [[痛哭]] — to wail, to cry bitterly, to weep aloud
-- [[孤独]] — lonely, solitary
-- [[焦思]] — worry, deliberate anxiously
-- [[仰望]] — look up to
 
-## Events (56)
+## Events (55)
 
 - [[主題]] — topic, theme, subject, motif
 - [[事件]] — event, incident, occurrence
@@ -3683,7 +3669,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[招災]] — to invite disaster, to bring calamity on oneself
 - [[机会]] — opportunity
 - [[来賓]] — guest, visitor (at an event)
-- [[此事]] — this act, this matter
 - [[法律]] — statute, law, act
 - [[活動]] — move, engage in activity
 - [[災害]] — disaster, calamity
@@ -3722,11 +3707,12 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[中止]] — to discontinue, to cancel, to call off
 - [[危机]] — crisis, critical juncture
 
-## Existence (164)
-
+## Existence (161)
 - [[䔥国]] — state of xiao
+- [[一般]] — average, common, general, ordinary
 - [[不可]] — cannot
 - [[不可不]] — cannot not (do something), i.e. must
+- [[不用]] — not necessary, unused, useless
 - [[不穏]] — unstable, unsettled, ominous
 - [[事]] — thing, action
 - [[事実]] — fact, reality, truth
@@ -3739,13 +3725,12 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[以前]] — before, ago, heretofore
 - [[企劃]] — plan, scheme
 - [[体育]] — physical education
-- [[何人]] — who (direct), what person
 - [[倒]] — turn over, take turns
 - [[儀仗]] — implement
 - [[元凶]] — chief culprit, ringleader, prime mover, root cause
-- [[其様]] — that way, in that manner
-- [[其類]] — that kind, that sort
+- [[兼]] — double as, dual-
 - [[処格]] — locative case
+- [[凶]] — unlucky, calamitous, sinister
 - [[出演]] — appear
 - [[出生率]] — birth rate, natality
 - [[分娩]] — give birth, deliver (a child)
@@ -3756,28 +3741,41 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[勢力]] — power, influence
 - [[占]] — occupy, possess
 - [[占有]] — possess, occupy, hold
+- [[原始]] — primitive, original
 - [[原来]] — originally
+- [[同一]] — same, identical
 - [[否定]] — negation, denial
 - [[呈]] — display, show
+- [[命運]] — fate, destiny, doom
 - [[善良]] — kind, benevolent
+- [[因縁]] — fate, predestined bond, karma
+- [[固有]] — proper
 - [[国営]] — nationalization, state management
 - [[国子]] — princes, sons of the state
+- [[基盤]] — foundation
 - [[変成]] — change into, metamorphosize into
 - [[夢]] — dream
 - [[大略]] — roughly, approximately, in general, outline, rough plan
+- [[天常]] — natural law
+- [[天生]] — natural, intrinsic
 - [[威力]] — power, might
+- [[存在]] — survive, exist
+- [[安定]] — stable, settled
 - [[実際]] — actual, real, in fact
+- [[宿命]] — destiny, fate
 - [[将然]] — prospective (aspect), about-to-happen
 - [[就]] — about, let
 - [[展示]] — display, show, exhibit
 - [[展覧]] — display, show, put in an expo
 - [[州]] — state
 - [[平等]] — equality, be equal
+- [[幸運]] — lucky, fortunate
+- [[当然]] — of course, natural, inevitable
 - [[彰明]] — clear, manifest, obvious
-- [[彼類]] — that other kind, that sort (distal)
 - [[従前]] — formerly, previously, before
 - [[従来]] — hitherto, conventional, existing
 - [[心緒]] — feelings, state of mind
+- [[必要]] — necessary, essential
 - [[性詞]] — stative, stative word, adjective class
 - [[恍惚]] — trance, dazed, absent-minded, vague
 - [[恒等式]] — identity
@@ -3798,27 +3796,32 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[文法]] — grammar
 - [[方法]] — method, way, manner
 - [[旋転]] — revolve, rotate, turn
+- [[普遍]] — universal, general, widespread
 - [[書籍]] — register, book, list
+- [[本]] — foundation
 - [[査問]] — inquire about
+- [[根本]] — basis, foundation, base
 - [[様子]] — appearances, manner, circumstances, state of things
 - [[様態格]] — manner case, adverbial case
 - [[標題]] — topic, title, headline
 - [[欠乏]] — to lack, deficiency
 - [[欠缺]] — lack, be deficient in, be missing
-- [[此類]] — this kind, this sort
 - [[死亡人数]] — death toll
 - [[死亡率]] — mortality rate, death rate
 - [[殉難]] — martyrdom, to die for a just cause
+- [[残]] — remaining, not broken off
 - [[決]] — determine, decide
 - [[決定]] — decide, choose
 - [[無義]] — lack morals, lack meaning
 - [[特点]] — characteristic, trait, feature
+- [[現象]] — phenomenon
 - [[理想]] — ideal, dream, theory
 - [[生死]] — life and death
 - [[生産]] — give birth to, produce, manufacture
 - [[生育]] — give birth to
 - [[略]] — abbreviate, plan
 - [[発電]] — generate power
+- [[相対]] — relative, opposite, relativity
 - [[真実]] — truth, reality
 - [[真正]] — genuine, real
 - [[眼前]] — before one's eyes
@@ -3835,6 +3838,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[考慮]] — consider, regard, think about
 - [[背景]] — background
 - [[自動詞]] — intransitive verb
+- [[自給]] — self-sufficient, self-reliant
 - [[興起]] — to rise up, to emerge, to flourish
 - [[萬物]] — myriad things
 - [[表現]] — show, display, express, manifest
@@ -3849,6 +3853,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[起伏]] — undulate, fluctuate
 - [[趣旨]] — purport, gist, purpose
 - [[運動]] — exercise, sport, movement, campaign
+- [[運命]] — fate, destiny, doom
+- [[運数]] — luck, fortune, fate
 - [[鄂国]] — state of e
 - [[鄭国]] — zheng, the state of zheng
 - [[量化詞]] — quantifier
@@ -3863,31 +3869,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[顕示]] — reveal, show, illustrate, display, demonstrate
 - [[類似]] — resemble, similar, analogous
 - [[魔力]] — magical power
-- [[命運]] — fate, destiny, doom
-- [[運命]] — fate, destiny, doom
-- [[凶]] — unlucky, calamitous, sinister
-- [[因縁]] — fate, predestined bond, karma
-- [[宿命]] — destiny, fate
-- [[運数]] — luck, fortune, fate
-- [[天常]] — natural law
-- [[天生]] — natural, intrinsic
-- [[当然]] — of course, natural, inevitable
-- [[現象]] — phenomenon
-- [[相対]] — relative, opposite, relativity
-- [[普遍]] — universal, general, widespread
-- [[存在]] — survive, exist
-- [[原始]] — primitive, original
-- [[幸運]] — lucky, fortunate
-- [[固有]] — proper
-- [[一般]] — average, common, general, ordinary
-- [[同一]] — same, identical
-- [[不用]] — not necessary, unused, useless
-- [[必要]] — necessary, essential
-- [[残]] — remaining, not broken off
-- [[安定]] — stable, settled
-- [[本]] — foundation
-- [[根本]] — basis, foundation, base
-- [[基盤]] — foundation
 
 ## Food (113)
 
@@ -4359,170 +4340,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[辞任]] — resign from office
 - [[部署]] — government office, department
 
-## Grammar (161)
-
-- [[不亦V乎]] — <circumfix for rhetorical qs>
-- [[与格]] — dative case
-- [[代名詞]] — pronoun
-- [[代詞]] — pronoun
-- [[其人]] — he, she, they (singular), that person
-- [[前置詞]] — preposition
-- [[副詞]] — adverb
-- [[助詞]] — particle (grammar)
-- [[句]] — phrase, sentence, stanza, paragraph, clause, pericope
-- [[句法]] — syntax
-- [[可]] — can, may
-- [[可以]] — can, may (permissive)
-- [[可能]] — possible, may, might, perhaps
-- [[如何]] — how, how about
-- [[将]] — will, shall
-- [[意志]] — will, intent
-- [[或]] — or, perhaps
-- [[所以]] — therefore, so, consequently
-- [[接続助詞]] — conjunctive particle
-- [[方言]] — dialect
-- [[時制]] — tense (grammatical)
-- [[時相]] — tense-aspect, grammatical aspect
-- [[書契]] — writing system, written records, the invention of writing
-- [[格助詞]] — case particle
-- [[沈淀]] — sediment, precipitate, settle (of particles)
-- [[焉]] — therefore
-- [[燐火]] — will-o'-the-wisp, ignis fatuus
-- [[特詞]] — particle
-- [[甚様]] — what manner, of what sort, how
-- [[篇]] — article, piece of writing
-- [[緊張]] — tight, tense, worried
-- [[耶]] — questioning particle, yeah (interjection)
-- [[自我]] — self-conscious, self-aware
-- [[自給]] — self-sufficient, self-reliant
-- [[自身]] — self
-- [[連接詞]] — conjunction (grammar)
-- [[那]] — then, in that case
-- [[関詞]] — relator, particle (grammar), relational
-- [[鬼火]] — will-o-the-wisp, ignis fatuos
-- [[声母]] — initial consonant (of a syllable)
-- [[子音]] — consonant
-- [[振動音]] — trill, trill consonant
-- [[音節]] — syllable
-- [[韻母]] — rhyme, final (of a syllable)
-- [[声調]] — tone, note
-- [[名詞]] — noun
-- [[字彙]] — lexicon, vocabulary
-- [[詞彙]] — vocabulary, lexicon
-- [[語彙]] — lexicon
-- [[何]] — what
-- [[何事]] — what action, what matter, what has happened
-- [[何物]] — what thing, what object
-- [[何類]] — what kind, what sort
-- [[兼]] — double as, dual-
-- [[主格]] — nominative case
-- [[共格]] — comitative case
-- [[具格]] — instrumental case
-- [[向格]] — allative case
-- [[呼格]] — vocative case
-- [[奪格]] — ablative case
-- [[属格]] — genitive case
-- [[比較格]] — comparative case
-- [[終止格]] — terminative case
-- [[類似格]] — similative case
-- [[会意]] — compound ideograph character
-- [[形声]] — phono-semantic character
-- [[指事]] — indicative character, ideogram
-- [[転注]] — derivative cognate character
-- [[象形]] — pictogram, pictographic character
-- [[六書]] — six kinds of chinese characters
-- [[接尾辞]] — suffix
-- [[単字]] — single character, single-character word
-- [[単語]] — word, vocabulary item
-- [[文字]] — writing, text, script, character
-- [[字]] — character
-- [[字典]] — dictionary
-- [[字形]] — glyph, character shape, graphic form
-- [[字源]] — etymology (of a chinese character)
-- [[字庫]] — font library, character/glyph repository
-- [[旧字体]] — traditional character forms, kyūjitai
-- [[正字]] — correct character
-- [[正音]] — correct pronunciation, standard pronunciation
-- [[清音]] — unvoiced sound
-- [[濁音]] — voiced sound
-- [[発声]] — vocalization; utterance; phonation (mandarin/cantonese/japanese/korean), broadcast (vietnamese — see note)
-- [[略語]] — abbreviation
-- [[漢字]] — chinese character
-- [[漢文]] — chinese literature, anything written in chinese
-- [[漢語]] — chinese language(s) (mandarin/cantonese), sino-japanese vocabulary; words of chinese origin in the japanese lexicon (japanese かんご — see note)
-- [[漢蔵]] — sino-tibetan
-- [[繁体字]] — traditional chinese characters
-- [[簡体字]] — simplified chinese characters
-- [[篆書]] — seal script
-- [[句号]] — period, full stop
-- [[句点]] — full stop, period
-- [[別字]] — typo, misspelt or variant character
-- [[語感]] — sprachgefühl, one's intuitive sense of a language
-- [[語族]] — language family
-- [[語用]] — language usage
-- [[諸語]] — the various languages (of a family or region), sundry languages
-- [[識字]] — literacy, know how to read
-- [[読点]] — comma (asian)
-- [[母語]] — mother tongue, native language
-- [[四字成語]] — four-character fixed expression, four-character idiom
-- [[成語]] — chengyu, four-character-sayings
-- [[熟語]] — idiom
-- [[慣用句]] — idiom, idiomatic phrase, set expression
-- [[有生]] — animate (grammatical category)
-- [[何処]] — where
-- [[何名]] — who (very polite)
-- [[何多]] — how much, how many
-- [[何様]] — how, in what way
-- [[其名]] — he (polite), she (polite), that person (polite)
-- [[其物]] — that thing, that object
-- [[彼事]] — that other act, that matter yonder
-- [[彼人]] — that other person, that person yonder
-- [[彼名]] — that person (polite, distal)
-- [[彼多]] — that much (distal), that great an amount
-- [[彼様]] — in that other way, in that fashion
-- [[彼物]] — yon thing, that object yonder
-- [[此人]] — this person
-- [[此処]] — here
-- [[此名]] — this person (polite)
-- [[此様]] — this way, like this
-- [[此物]] — this thing, this object
-- [[毎事]] — each time, for every action, in every matter
-- [[毎人]] — per person, for each person
-- [[毎名]] — each distinguished person, per honoured person
-- [[毎多]] — each one's respective amount, so much each
-- [[毎時]] — each time, at every occasion
-- [[毎様]] — each way, in each manner
-- [[毎物]] — each thing, for every object
-- [[毎類]] — each kind, each type separately
-- [[皆処]] — everywhere, at all places
-- [[皆名]] — everyone (polite), all distinguished persons
-- [[皆多]] — the whole amount, all of it
-- [[皆時]] — always, at all times
-- [[皆様]] — in every way, in all respects
-- [[皆類]] — every kind, every category
-- [[君等]] — you'all
-- [[某人]] — someone, a certain person
-- [[某名]] — a certain distinguished person (polite), someone (polite, unspecified)
-- [[某物]] — something, a certain object
-- [[仮借]] — make use of, borrow
-- [[品詞]] — part of speech
-- [[拼音]] — pinyin, phonetic spelling
-- [[法語]] — french language, dharma speech, sermon
-- [[注音]] — zhuyin, bopomofo, phonetic notation
-- [[部首]] — radical
-- [[皆人]] — everyone, all people
-- [[但]] — but, however, yet, only
-- [[名称]] — appellation, name, title
-- [[段]] — segments, sections, passages
-- [[口語]] — colloquial language, spoken language
-- [[向]] — toward, -ward
-- [[皆事]] — everything, every act, all matters
-- [[皆物]] — everything, every object, all things
-- [[符号]] — symbol, mark, sign
-- [[表記]] — notation, orthography, written representation
-- [[過]] — than, too
-- [[韻図]] — rime table
-
 ## Kinship (64)
 
 - [[丈人]] — father-in-law, wife's father
@@ -4737,42 +4554,42 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[酩酊]] — dead drunk, thoroughly intoxicated
 - [[養殖]] — cultivate, breed
 
-## Light (32)
-
+## Light (33)
+- [[三稜鏡]] — prism
 - [[体現]] — embody, reflect, incarnate
+- [[光]] — light
 - [[光明]] — brightness, hope, light, radiance
 - [[光芒]] — rays, radiance, beam of light
+- [[冥]] — dark, gloomy
 - [[反映]] — reflect, indicate
+- [[孔明]] — bright, clean
+- [[幽]] — quiet, secluded, dark
+- [[明]] — bright
+- [[明朗]] — bright, clear, cheerful
 - [[映]] — reflect, project
+- [[昧]] — dark, benighted
 - [[昭]] — shine, luminous
 - [[昭明]] — shining and bright, luminous
+- [[暗]] — dark
 - [[暗影]] — shadow, gloom, umbra
+- [[暗黒]] — dark, pitch black
 - [[桁]] — beam
 - [[灯]] — lamp
 - [[灯心]] — wick; lamp wick
 - [[照]] — shine
 - [[照耀]] — to shine upon, to illuminate, to radiate
+- [[虹霓]] — neon, neon light
+- [[蛍光]] — fluorescence, the light of a firefly
 - [[蠟燭]] — candle
+- [[透]] — transparent
 - [[閃光]] — flash of light, glint
 - [[陰影]] — shadow
 - [[陽]] — shine
 - [[電灯]] — lamp, electric light
 - [[鱏]] — ray, skate
 - [[黒暗]] — pure blackness, darkness
-- [[虹霓]] — neon, neon light
-- [[蛍光]] — fluorescence, the light of a firefly
-- [[明]] — bright
-- [[暗]] — dark
-- [[暗黒]] — dark, pitch black
-- [[明朗]] — bright, clear, cheerful
-- [[幽]] — quiet, secluded, dark
-- [[昧]] — dark, benighted
-- [[冥]] — dark, gloomy
-- [[光]] — light
-- [[孔明]] — bright, clean
-- [[透]] — transparent
 
-## Locatives (15)
+## Locatives (13)
 
 - [[之間]] — between, among
 - [[位置]] — location, place
@@ -4783,8 +4600,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[姿態]] — pose, position
 - [[定位]] — position
 - [[所在]] — place, location, whereabouts
-- [[某処]] — somewhere, at a certain place
-- [[毎処]] — at each place, per location
 - [[置]] — put, place
 - [[裏面]] — inside
 - [[遠方]] — distant place, far away location
@@ -4894,18 +4709,19 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[軌]] — track, path, rut
 - [[鉄道]] — railroad
 
-## Nature (7)
-
+## Nature (9)
+- [[天気]] — weather
 - [[広野]] — wilderness
+- [[晴朗]] — clear, serene, bright, sunny
+- [[暑]] — hot (weather)
+- [[気象]] — weather, meteorology
+- [[燐火]] — will-o'-the-wisp, ignis fatuus
 - [[環境]] — environment, surroundings
 - [[自然]] — nature, natural, spontaneously
-- [[天気]] — weather
-- [[気象]] — weather, meteorology
-- [[暑]] — hot (weather)
-- [[晴朗]] — clear, serene, bright, sunny
+- [[鬼火]] — will-o-the-wisp, ignis fatuos
 
-## Numbers (1)
-
+## Numbers (2)
+- [[一兆]] — one trillion
 - [[自乗]] — squaring, to square (a number)
 
 ## Physical (11)
@@ -5129,8 +4945,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[庇護]] — protect, shelter
 - [[援交]] — school girl prostitution
 
-## Speech (59)
-
+## Speech (60)
 - [[䋇]] — unravel, explain
 - [[世界語]] — universal language
 - [[交差]] — report in, get debriefed
@@ -5139,8 +4954,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[受動]] — passive (voice), receptive
 - [[叙述]] — narrate
 - [[叫]] — shout
+- [[叱責]] — rebuke, scold
+- [[吟唱]] — chant, recite
+- [[呪文]] — incantation, spell
+- [[呪詛]] — curse, spell
+- [[呼]] — call, shout, exhale
 - [[呼喚]] — shout, cry to
 - [[喝]] — yell, shout
+- [[嘲笑]] — to ridicule, to mock, to deride, to jeer at
 - [[回答]] — respond, reply
 - [[報]] — report, tell
 - [[報告]] — report, inform, advise
@@ -5148,51 +4969,45 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[大声]] — loud voice
 - [[対応]] — correspond with, respond to
 - [[巧言]] — flattery; clever but deceptive talk
+- [[引入]] — lead into, introduce to
 - [[応]] — respond, reply
+- [[揶揄]] — deride, ridicule
+- [[放送局]] — broadcast station, broadcasting company
 - [[斟酌]] — consider, discuss, talk over
+- [[暗示]] — suggest, hint
+- [[標誌]] — symbolize, mark, indicate
+- [[標識]] — sign, mark, symbol
 - [[申告]] — report, declaration
+- [[痛罵]] — berate, scold severely, vituperate
 - [[稟告]] — report to a superior, inform
 - [[答]] — answer, reply, assent, return
+- [[篇]] — article, piece of writing
 - [[粤語]] — yue language
 - [[網語]] — online speak
 - [[英語]] — english language
 - [[西班牙語]] — spanish language
+- [[要求]] — demand, firmly request, claim
+- [[要請]] — request, demand
 - [[解]] — explain
 - [[言語]] — language
+- [[詠]] — recite, chant
 - [[話]] — speak on, talk about
 - [[語言]] — language, speech
 - [[説明]] — explain, illustrate
 - [[談判]] — negotiate, talk
 - [[談話]] — conversation, statement, talk
+- [[論争]] — argument, controversy, contention
+- [[講演]] — lecture, give a speech
 - [[議論]] — comment, discuss
 - [[通知]] — notify, inform
 - [[露斯亜語]] — russian language
 - [[露語]] — russian language
 - [[音声]] — sound, voice, speech
-- [[飛報]] — report rapidly
-- [[叱責]] — rebuke, scold
-- [[吟唱]] — chant, recite
-- [[呪文]] — incantation, spell
-- [[呪詛]] — curse, spell
-- [[嘲笑]] — to ridicule, to mock, to deride, to jeer at
-- [[揶揄]] — deride, ridicule
-- [[詠]] — recite, chant
 - [[風刺]] — satirize, mock
-- [[痛罵]] — berate, scold severely, vituperate
-- [[要求]] — demand, firmly request, claim
-- [[要請]] — request, demand
-- [[呼]] — call, shout, exhale
-- [[論争]] — argument, controversy, contention
-- [[講演]] — lecture, give a speech
+- [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
-- [[暗示]] — suggest, hint
-- [[標誌]] — symbolize, mark, indicate
-- [[引入]] — lead into, introduce to
-- [[標識]] — sign, mark, symbol
-- [[放送局]] — broadcast station, broadcasting company
 
-## Substances (25)
-
+## Substances (26)
 - [[埋葬]] — bury, inter, consign ashes
 - [[塵埃]] — dust, dirt
 - [[岩石]] — rocks, crags
@@ -5203,21 +5018,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[汚垢]] — dirt, grime, filth
 - [[汚物]] — dirt, filth, garbage
 - [[汚穢]] — filthy, filth
+- [[沈淀]] — sediment, precipitate, settle (of particles)
 - [[沙]] — sand, gravel, pebbles
 - [[泥]] — mud
 - [[液晶]] — liquid crystal
+- [[溶液]] — solution (chemistry)
 - [[灰]] — ashes
 - [[灰塵]] — dust, ashes
 - [[物証]] — material evidence
 - [[物質]] — material, substance
+- [[玉]] — jade
 - [[石]] — rock, stone
 - [[石頭]] — stone, rock
 - [[粉]] — powder
-- [[黄沙]] — yellow sand, asian dust
 - [[芳香族]] — aromatic compounds
 - [[鹸]] — base, alkali
-- [[玉]] — jade
-- [[溶液]] — solution (chemistry)
+- [[黄沙]] — yellow sand, asian dust
 
 ## Time (28)
 
@@ -5272,21 +5088,37 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[砥石]] — whetstone, grindstone
 - [[矩]] — moment (physics), carpenter's square, quadrature
 
-## Trade (36)
-
+## Trade (37)
+- [[三菱]] — mitsubishi
+- [[企業]] — enterprise, firm
+- [[供給]] — supply, furnish
 - [[価格]] — price
 - [[便]] — cheap
 - [[便宜]] — cheap, inexpensive
+- [[借]] — borrow, lend
+- [[倹素]] — economical and simple, frugal
+- [[償還]] — repayment, restitution, compensation
+- [[充当]] — to allocate, to assign, to apply (funds) toward
+- [[公司]] — company, firm
+- [[分配]] — distribute, partition, share
+- [[券]] — bond, certificate
+- [[参入]] — enter, join, market entry
 - [[商業]] — commerce, trade
 - [[報償]] — compensate, pay reparations to
 - [[安価]] — cheap, inexpensive, crappy
 - [[扱]] — handle, deal with
 - [[支付]] — pay
+- [[新品]] — new products, new arrivals
 - [[注意]] — pay attention to, be careful of
+- [[用度]] — supplies
 - [[留意]] — pay attention to
+- [[発財]] — make a fortune
+- [[融資]] — pay by loan, finance
+- [[補給]] — supply provisions
 - [[謁]] — visit, pay respect
 - [[貨幣]] — currency, money
 - [[販売]] — sell
+- [[貸出]] — lend, loan
 - [[貿易]] — trade, commerce
 - [[賠償]] — compensate, indemnify, pay reparations
 - [[購買]] — buy
@@ -5294,22 +5126,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[造語]] — coin words
 - [[金銭]] — coin, cash, money
 - [[騰貴]] — to soar in price, price inflation
-- [[企業]] — enterprise, firm
-- [[公司]] — company, firm
-- [[券]] — bond, certificate
-- [[新品]] — new products, new arrivals
-- [[供給]] — supply, furnish
-- [[補給]] — supply provisions
-- [[用度]] — supplies
-- [[分配]] — distribute, partition, share
-- [[倹素]] — economical and simple, frugal
-- [[借]] — borrow, lend
-- [[発財]] — make a fortune
-- [[融資]] — pay by loan, finance
-- [[貸出]] — lend, loan
-- [[償還]] — repayment, restitution, compensation
-- [[充当]] — to allocate, to assign, to apply (funds) toward
-- [[参入]] — enter, join, market entry
 
 ## Valuation (47)
 
