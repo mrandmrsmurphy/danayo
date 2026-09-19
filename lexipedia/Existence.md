@@ -71,6 +71,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 
 - <ruby>[進化](../words/進化.md)<rt>ㄐㄧㄋㄏ⺢</rt></ruby>: to evolve.
 - <ruby>[発生](../words/発生.md)<rt>ㄈㄚㄊㄙㄚㄫ</rt></ruby>: to happen, occur, arise — the closest existing match for Rosenfelder's "generate," though it's intransitive (things arise/come about) rather than transitive (X generates Y); see Semantic Range Notes.
+- <ruby>[実現](../words/実現.md)<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby>: to realize, implement — actualization of something already conceived (a plan, a dream), distinct from 発生's sense of something simply arising.
 
 ## Semantic Range Notes
 
