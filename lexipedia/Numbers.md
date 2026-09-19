@@ -7,7 +7,7 @@ related_domains:
   - "[[Calendar]]"
   - "[[Grammar]]"
 status: complete
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-09-19
 ---
 
 # Numbers
@@ -25,7 +25,7 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 - <ruby>[七](../words/七.md)<rt>ㄑㄧㄊ</rt></ruby>: seven.
 - <ruby>[八](../words/八.md)<rt>ㄅㄚㄊ</rt></ruby>: eight.
 - <ruby>[九](../words/九.md)<rt>ㄎ⼜</rt></ruby>: nine.
-- <ruby>[十](../words/十.md)<rt>ㄧㄊㄙㄧㄆ</rt></ruby>: ten.
+- <ruby>[十](../words/十.md)<rt>ㄙㄧㄆ</rt></ruby>: ten.
 - <ruby>[第一](../words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>: first.
   - **Cross-ling**: The 第- ordinal prefix (第一, 第二, 第三...) is shared across Mandarin, Japanese, and Korean.
 - <ruby>[第二](../words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
@@ -66,6 +66,12 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[一万](../words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby>: myriad (ten thousand).
 - <ruby>[一億](../words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
 - <ruby>[一溝](../words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
+- <ruby>[百](../words/百.md)<rt>ㄅㄚㄎ</rt></ruby>: hundred (bare form, contrast [[一百]] above).
+- <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
+- <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
+- <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
+- <ruby>[数万](../words/数万.md)<rt>ㄙㄨㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
+- <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄜㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄜㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
 
 ### Multiples, Fractions & Groups
 
@@ -85,15 +91,18 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cross-checked term by term against real Mandarin/Cantonese/Japanese/Korean/Vietnamese usage rather than invented wholesale. See the Semantic Range Notes below for the recurring patterns this coining work surfaced.
 
 - <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
+- <ruby>[算術](../words/算術.md)<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby>: arithmetic — the elementary branch, narrower than 数学.
+- <ruby>[九数](../words/九数.md)<rt>ㄎ⼜ㄙㄨ</rt></ruby>: the Nine Numbers, the classical Chinese curriculum of nine mathematical arts (a historical/cultural reference, not a modern subfield list).
 
 ### Arithmetic Operations
 
 Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the Mandarin/Cantonese-preferred register) and as a *calculation-verb* (X算, the Japanese/Korean-preferred register) — a deliberate parallel system, not redundancy.
 
-- <ruby>[[加算]]<rt>ㄍㄚㄙ⺢ㄋ</rt></ruby>: add (verb).
-- <ruby>[[減算]]<rt>ㄍㄚㄇㄙ⺢ㄋ</rt></ruby>: subtract (verb).
-- <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby>: multiply (verb).
-- <ruby>[[除算]]<rt>ㄐㄝㄧㄙ⺢ㄋ</rt></ruby>: divide (verb).
+- <ruby>[[加算]]<rt>ㄍㄚㄙ⺢ㄋ</rt></ruby> / <ruby>[加法](../words/加法.md)<rt>ㄍㄚㄈㄚㄆ</rt></ruby>: add (verb) / addition (the method).
+- <ruby>[[減算]]<rt>ㄍㄚㄇㄙ⺢ㄋ</rt></ruby> / <ruby>[減法](../words/減法.md)<rt>ㄍㄚㄇㄈㄚㄆ</rt></ruby>: subtract (verb) / subtraction (the method).
+- <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby> / <ruby>[乗法](../words/乗法.md)<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby>: multiply (verb) / multiplication (the method).
+- <ruby>[[除算]]<rt>ㄐㄝㄧㄙ⺢ㄋ</rt></ruby> / <ruby>[除法](../words/除法.md)<rt>ㄐㄝㄧㄈㄚㄆ</rt></ruby>: divide (verb) / division (the method).
+- <ruby>[九九](../words/九九.md)<rt>ㄎ⼜ㄎ⼜</rt></ruby>: the times table, multiplication table — named for its traditional opening line, "nine nines are eighty-one."
 - <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby>: equal (mathematically).
 - <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>: odd (number).
 - <ruby>[[偶数]]<rt>ㄛㄨㄙㄨ</rt></ruby>: even (number).
@@ -109,16 +118,32 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby>: negative number.
 - <ruby>[[指数]]<rt>ㄐㄧㄜㄙㄨ</rt></ruby>: exponent, index.
 - <ruby>[[無限]]<rt>ㄇㄜㄏㄚㄋ</rt></ruby>: infinity.
+- <ruby>[極限](../words/極限.md)<rt>ㄍㄧㄎㄏㄚㄋ</rt></ruby>: limit (the calculus sense — the value a function approaches, not "無限" above).
 - <ruby>[[対数]]<rt>ㄉㄛㄧㄙㄨ</rt></ruby>: logarithm.
+- <ruby>[素数](../words/素数.md)<rt>ㄙㄛㄙㄨ</rt></ruby>: prime number.
+- <ruby>[百分率](../words/百分率.md)<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby>: percentage.
+- <ruby>[割](../words/割.md)<rt>ㄍㄚㄊ</rt></ruby>: a unit of ten percent — the traditional East Asian percentage register (三割 "thirty percent"), distinct from and older than 百分率's Western-style per-hundred figure.
 
 ### Trigonometry & Calculus
 
+- <ruby>[三角法](../words/三角法.md)<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby>: trigonometry, the field itself.
 - <ruby>[正弦](../words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>: sine.
 - <ruby>[余弦](../words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>: cosine.
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>: tangent.
   - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby>: tangent line (the geometric sense).
+- <ruby>[正弦波](../words/正弦波.md)<rt>ㄐㄧㄫㄏㄝㄋㄅㄚ</rt></ruby>: sine wave, sinusoid.
+- <ruby>[離心率](../words/離心率.md)<rt>ㄌㄝㄧㄙㄧㄇㄌㄨㄊ</rt></ruby>: eccentricity (of a conic section — see [[圓錐曲線]]).
 - <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby>: integrate, integration.
 - <ruby>[[微分]]<rt>ㄇㄨㄧㄅㄨㄋ</rt></ruby>: differentiate, differentiation.
+
+### Counting & Numerals in Use
+
+- <ruby>[数詞](../words/数詞.md)<rt>ㄙㄨㄙㄚ</rt></ruby>: numeral, number word — the grammatical part of speech (see [[Grammar]]).
+- <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, to tally.
+- <ruby>[人数](../words/人数.md)<rt>ㄋㄧㄋㄙㄨ</rt></ruby>: a number of people, headcount.
+- <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code (an assigned identifier — a ticket number, ID number).
+- <ruby>[号線](../words/号線.md)<rt>ㄏㄚㄨㄙ⼶ㄋ</rt></ruby>: a line number (e.g. a subway or transit line's number).
+- <ruby>[分](../words/分.md)<rt>ㄅㄨㄋ</rt></ruby>: to divide — the bound root behind [[分数]] ("fraction") and [[四分之一]] ("quarter") above.
 
 ## Semantic Range Notes
 

@@ -25,8 +25,12 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[蛇](../words/蛇.md)<rt>ㄊㄚ</rt></ruby>: snake.
 - <ruby>[老鼠](../words/老鼠.md)<rt>ㄌㄚㄨㄙ⼄</rt></ruby>: rat, mouse (generic).
 - <ruby>[鳥類](../words/鳥類.md)<rt>ㄑㄛㄨㄌㄨㄧ</rt></ruby>: bird, as a taxonomic class.
+- <ruby>[鳥](../words/鳥.md)<rt>ㄑㄛㄨ</rt></ruby>: bird (the plain, individual noun — contrast [[鳥類]] above, the class).
 - <ruby>[魚類](../words/魚類.md)<rt>⼄ㄌㄨㄧ</rt></ruby>: fish, as a taxonomic class.
+- <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [[魚類]] above, the class).
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
+- <ruby>[寵物](../words/寵物.md)<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby>: pet, favored animal.
+- <ruby>[匹](../words/匹.md)<rt>ㄆㄧㄊ</rt></ruby>: counter word for animals.
 
 ## Intermediate (B1–B2)
 
@@ -47,6 +51,18 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 
 - <ruby>[鴨](../words/鴨.md)<rt>ㄚㄆ</rt></ruby>: duck.
 - <ruby>[鸚鵡](../words/鸚鵡.md)<rt>ㄚㄫㄇㄨ</rt></ruby>: parrot.
+- <ruby>[鸚哥](../words/鸚哥.md)<rt>ㄚㄫㄍㄜ</rt></ruby>: parakeet, parrot — a near-synonym of 鸚鵡 above, distinguished by size rather than a firm species boundary.
+- <ruby>[雁](../words/雁.md)<rt>ㄚㄋ</rt></ruby>: wild goose.
+- <ruby>[鵝鳥](../words/鵝鳥.md)<rt>ㄚㄑㄛㄨ</rt></ruby>: domestic goose.
+- <ruby>[鴛鴦](../words/鴛鴦.md)<rt>ㄛㄋ·ㄚㄫ</rt></ruby>: mandarin duck — a classical symbol of marital fidelity, since the species is popularly (if inaccurately) believed to mate for life.
+- <ruby>[鴻鵠](../words/鴻鵠.md)<rt>ㄏㄛㄫㄏㄛㄎ</rt></ruby>: swan, wild swan.
+- <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
+- <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
+- <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
+- <ruby>[猛禽](../words/猛禽.md)<rt>ㄇㄚㄫㄎㄧㄇ</rt></ruby>: bird of prey.
+- <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
+- <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
+- <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
 
 ### Insects, Arachnids & Small Creatures
 
@@ -59,35 +75,98 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蜘蛛](../words/蜘蛛.md)<rt>ㄐㄧㄐㄨ</rt></ruby>: spider — an arachnid, not an insect, but grouped with this set in ordinary usage rather than with reptiles/fish below.
 - <ruby>[螳螂](../words/螳螂.md)<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby>: mantis.
 - <ruby>[胡蝶](../words/胡蝶.md)<rt>ㄏㄛㄨㄉㄝㄆ</rt></ruby>: butterfly — the stand-in compound that legitimizes the bound character 蝶.
+- <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
+- <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
+- <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
 
 ### Reptiles, Amphibians & Aquatic Creatures
 
 - <ruby>[亀](../words/亀.md)<rt>ㄍㄨㄛ</rt></ruby>: turtle.
+- <ruby>[草亀](../words/草亀.md)<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby>: Chinese pond turtle.
+- <ruby>[玳瑁](../words/玳瑁.md)<rt>ㄉㄚㄧㄇㄚㄨ</rt></ruby>: hawksbill sea turtle.
+- <ruby>[鼈](../words/鼈.md)<rt>ㄅㄝㄊ</rt></ruby>: *Pelodiscus sinensis*, a soft-shell turtle species.
+- <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.
-- <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby>: fur seal — literally "sea-dog," named for its dog-like bark and face.
+- <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
+- <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
+- <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
+- <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
+- <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby>: sea bream.
+- <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
+- <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
+- <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
 
 ### Large & Notable Wild Mammals
 
 - <ruby>[虎](../words/虎.md)<rt>ㄏㄛ</rt></ruby>: tiger.
 - <ruby>[熊](../words/熊.md)<rt>ㄨㄫ</rt></ruby>: bear.
+- <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.
+- <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ·⼘ㄫ</rt></ruby>: antelope.
 - <ruby>[猿猩](../words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>: monkey, ape — the stand-in compound that legitimizes the bound character 猿.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
+- <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
+- <ruby>[豹猫](../words/豹猫.md)<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby>: leopard cat (*Prionailurus bengalensis*).
+- <ruby>[貒](../words/貒.md)<rt>ㄊ⺢ㄋ</rt></ruby> / <ruby>[野猪](../words/野猪.md)<rt>⼘ㄐㄛ</rt></ruby>: wild boar — two independently attested synonyms.
+
+### Rodents
+
 - <ruby>[熊鼠](../words/熊鼠.md)<rt>ㄨㄫㄙ⼄</rt></ruby>: the black rat / roof rat (*Rattus rattus*) specifically — literally "bear-rat," distinct from generic [[老鼠]] above.
+- <ruby>[家鼠](../words/家鼠.md)<rt>ㄍㄚㄙ⼄</rt></ruby>: house mouse, house rat, commensal rodent.
+- <ruby>[小鼠](../words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>: mouse.
+- <ruby>[田鼠](../words/田鼠.md)<rt>ㄉㄝㄋㄙ⼄</rt></ruby>: vole, field mouse.
+- <ruby>[天竺鼠](../words/天竺鼠.md)<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby>: guinea pig, cavy.
+
+### Livestock, Working Animals & Animal Products
+
+- <ruby>[家禽](../words/家禽.md)<rt>ㄍㄚㄎㄧㄇ</rt></ruby>: domestic fowl, poultry.
+- <ruby>[厩肥](../words/厩肥.md)<rt>ㄍ⼜ㄅㄨㄧ</rt></ruby>: stable manure, animal manure, farmyard manure.
+- <ruby>[肥育](../words/肥育.md)<rt>ㄅㄨㄧ·⼜ㄎ</rt></ruby>: to fatten livestock.
+- <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby> / <ruby>[毛皮](../words/毛皮.md)<rt>ㄇㄚㄨㄅㄧ</rt></ruby>: fur, pelt.
+- <ruby>[羊毛](../words/羊毛.md)<rt>⼘ㄫㄇㄚㄨ</rt></ruby>: wool, fleece.
+- <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat, animal fat.
+- <ruby>[鶏卵](../words/鶏卵.md)<rt>ㄍㄝㄧㄌㄚㄋ</rt></ruby>: chicken eggs.
+- <ruby>[羊頭](../words/羊頭.md)<rt>⼘ㄫㄊㄛㄨ</rt></ruby>: a goat's head.
+- <ruby>[俊馬](../words/俊馬.md)<rt>ㄐㄨㄋㄇㄚ</rt></ruby>: a fine horse, spirited steed.
+- <ruby>[馬蹄](../words/馬蹄.md)<rt>ㄇㄚㄉㄝㄧ</rt></ruby>: horse hoof.
+- <ruby>[乗馬](../words/乗馬.md)<rt>ㄙㄨㄫㄇㄚ</rt></ruby> / <ruby>[騎馬](../words/騎馬.md)<rt>ㄍㄨㄧㄇㄚ</rt></ruby>: to ride a horse, horseback riding — two independently attested synonyms.
+
+### Animal Behavior
+
+- <ruby>[交尾](../words/交尾.md)<rt>ㄍ⼘ㄨㄇㄨㄧ</rt></ruby>: to mate, copulate (of animals).
+- <ruby>[犬吠](../words/犬吠.md)<rt>ㄎ⼔ㄋㄈㄝ</rt></ruby> / <ruby>[狗吠](../words/狗吠.md)<rt>ㄍㄛㄨㄈㄝ</rt></ruby>: to bark — two independently attested synonyms.
+- <ruby>[狗肉](../words/狗肉.md)<rt>ㄍㄛㄨㄋㄨㄎ</rt></ruby>: dog meat (used as an insult in some contexts).
+- <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [[獵]] below.
+- <ruby>[禁獵](../words/禁獵.md)<rt>ㄍㄧㄇㄌㄛㄆ</rt></ruby>: a hunting ban.
 
 ## Advanced / Specialized (C1+)
 
 ### Mythical & Legendary Creatures — a real CJKV cultural inventory, not Western fantasy
 
 - <ruby>[龍](../words/龍.md)<rt>ㄌ⼄ㄫ</rt></ruby>: dragon — the auspicious East Asian dragon, associated with rivers, rain, and imperial authority; a wholly different cultural figure from the Western fire-breathing monster despite the shared English gloss. Appears throughout classical idiom, e.g. 画龍点睛 ("dot the dragon's eye," the finishing touch that brings a work to life) and 臥虎蔵龍 ("crouching tiger, hidden dragon," concealed mastery).
+- <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ·⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
+- <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
+- <ruby>[烏龍](../words/烏龍.md)<rt>ㄛㄌ⼄ㄫ</rt></ruby>: a black dragon — not to be confused with the identically-spelled tea name (烏龍茶, "oolong," an unrelated loanword-based compound).
+- <ruby>[玄武](../words/玄武.md)<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby>: the Black Tortoise, one of the Four Symbols of Chinese constellations — a tortoise entwined with a snake, guardian of the north.
+- <ruby>[鵉鳳](../words/鵉鳳.md)<rt>ㄌㄚㄋㄆㄨㄫ</rt></ruby>: the luan-phoenix, a paired mythical bird (luan and feng together).
+- <ruby>[焦明](../words/焦明.md)<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby>: jiaoming, a legendary phoenix-like bird of the south.
+- <ruby>[九尾狐](../words/九尾狐.md)<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby>: the nine-tailed fox — a shapeshifting spirit-fox found across Chinese, Japanese (kyūbi no kitsune), and Korean (kumiho) folklore, with a notably darker reputation in the Korean tradition than the Chinese or Japanese ones.
+- <ruby>[孫悟空](../words/孫悟空.md)<rt>ㄙㄛㄋ·ㄛㄎㄛㄫ</rt></ruby>: the Monkey King, the trickster protagonist of *Journey to the West*.
+- <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
 - <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit (妖怪-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
+- <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
 - <ruby>[怪物](../words/怪物.md)<rt>ㄍ⺢ㄧㄇㄨㄊ</rt></ruby>: monster — an uncanny, mysterious figure; contrast 妖物 below.
 - <ruby>[妖物](../words/妖物.md)<rt>⼘ㄨㄇㄨㄊ</rt></ruby>: monster — specifically a bewitching, shapeshifting figure (see Semantic Range Notes).
+- <ruby>[魔鬼](../words/魔鬼.md)<rt>ㄇㄚㄍㄨㄧ</rt></ruby>: monster, demon.
+- <ruby>[怪獣](../words/怪獣.md)<rt>ㄍ⺢ㄧㄙ⼜</rt></ruby>: a titan or giant monster, in the modern *kaiju*-film sense.
+- <ruby>[罔両](../words/罔両.md)<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby>: demons and monsters, especially those haunting seas or rivers.
+- <ruby>[吸血鬼](../words/吸血鬼.md)<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby>: vampire — literally "blood-sucking demon," a real, already-attested Sino-Xenic calque used across Chinese, Japanese, and Korean for the *translated* Western figure, not a Dan'a'yo coinage from scratch (see Semantic Range Notes below on how this differs from the "no fantasy coinages" rule).
+- <ruby>[僵死](../words/僵死.md)<rt>ㄍ⼘ㄫㄙㄧㄜ</rt></ruby>: jiangshi, the reanimated "hopping corpse" of Chinese folklore — a genuinely East Asian creature, not the Western zombie, despite the English gloss's shorthand.
 
-**Note on the fantasy genre**: Dan'a'yo deliberately has no coined words for troll, orc, gnome, vampire, werewolf, or zombie. These belong to a Western/Northern European mythological inventory with no organic CJKV counterpart — a learner wanting them would reach for a transliteration, not a native Dan'a'yo coinage, the same way none of the four source languages have old native words for them either.
+**Note on the fantasy genre**: Dan'a'yo has no coined words for troll, orc, gnome, or werewolf — these belong to a Western/Northern European mythological inventory with no organic CJKV counterpart, and a learner wanting them would reach for a transliteration rather than a native Dan'a'yo coinage. "Vampire" and "zombie" are the exception, not the rule: [[吸血鬼]] and [[僵死]] both already exist, but neither is really a counterexample — 吸血鬼 is a transparent calque already used across the sphere for the *foreign* figure (much like [[怪獣]] "kaiju" below), and 僵死/jiangshi is not the Western zombie at all but a distinct, older Chinese folk creature that only gets glossed "zombie" for convenience.
 
 ### Habitats & Group Behavior
 
