@@ -98,12 +98,21 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 **Gap**: Dan'a'yo has no dedicated words yet for "to pollinate," "to swarm" (as a mass-insect verb), "to graze," "to tame," or "to stalk" (in the hunting sense — a plant-stalk homograph exists for other words, but not this verb sense). Worth flagging for future coining.
 
-### Taxonomy (分類学) — a real, incomplete gap
+### Taxonomy (分類学) — the eight-rank hierarchy
 
 - <ruby>[分類学](../words/分類学.md)<rt>ㄅㄨㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: taxonomy, classification science.
-- <ruby>[域](../words/域.md)<rt>ㄨㄧㄎ</rt></ruby>: domain — the only Linnaean rank with its own dedicated Dan'a'yo word so far.
+- <ruby>[域階](../words/域階.md)<rt>ㄨㄧㄎㄍ⼶ㄧ</rt></ruby>: domain (the highest rank).
+- <ruby>[界階](../words/界階.md)<rt>ㄍ⼶ㄍ⼶ㄧ</rt></ruby>: kingdom.
+- <ruby>[門階](../words/門階.md)<rt>ㄇㄛㄋㄍ⼶ㄧ</rt></ruby>: phylum, division.
+- <ruby>[綱階](../words/綱階.md)<rt>ㄍㄚㄫㄍ⼶ㄧ</rt></ruby>: class.
+- <ruby>[目階](../words/目階.md)<rt>ㄇㄨㄎㄍ⼶ㄧ</rt></ruby>: order.
+- <ruby>[科階](../words/科階.md)<rt>ㄎ⺢ㄍ⼶ㄧ</rt></ruby>: family.
+- <ruby>[属階](../words/属階.md)<rt>ㄐㄛㄎㄍ⼶ㄧ</rt></ruby>: genus.
+- <ruby>[種階](../words/種階.md)<rt>ㄐㄛㄫㄍ⼶ㄧ</rt></ruby>: species (the fundamental/lowest standard rank).
 
-The rest of the standard eight-rank hierarchy has no coined Dan'a'yo word yet: **kingdom** (界), **phylum/division** (門), **class** (綱), **order** (目 — the character exists, but its only current Dan'a'yo word, [[目]], is bound to the unrelated sense "eye"), **family** (科), **genus** (属), and **species** (種) all need dedicated word-level pages distinct from their bare characters. The three domains of life themselves (Bacteria, Archaea, Eukarya) are likewise uncoined as taxonomic domain-names — [[細菌]] ("bacteria," a general organism-level word) exists, but is not the same thing as a systematic "Domain: Bacteria" label built the way [[域]] itself would require.
+Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [[目]] was already taken by "eye."
+
+**Gap**: the three domains of life themselves (Bacteria, Archaea, Eukarya) still have no coined Dan'a'yo domain-names one rank below [[域階]] itself — [[細菌]] ("bacteria," a general organism-level word) exists, but is not the same thing as a systematic "Domain: Bacteria" label.
 
 ## Semantic Range Notes
 
