@@ -141,7 +141,7 @@ language: English
 - bed - <ruby>[床](../words/床.md)<rt>ㄙ⼘ㄇ</rt></ruby>
 - chair - <ruby>[椅子](../words/椅子.md)<rt>ㄜㄧㄐㄜ</rt></ruby>
 - curtain - <ruby>[幕](../words/幕.md)<rt>ㄇㄚㄎ</rt></ruby>
-- desk - *(no clean consensus — Mandarin 書桌 and Korean 책상 each build on a different already-claimed character, 桌/床; Japanese uses a distinct single character, 机)*
+- desk - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby> (same word as "table" below — 桌's own gloss already covers table/desk/stand together; Dan'a'yo doesn't split these the way English does)
 - seat - <ruby>[坐位](../words/坐位.md)<rt>ㄐ⺢⼔ㄧ</rt></ruby>
 - table - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby>
 - bench - *(no clean consensus — mostly loanwords or native compounds)*
