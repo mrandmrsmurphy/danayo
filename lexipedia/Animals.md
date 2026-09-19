@@ -3,12 +3,13 @@ language: English
 type: lexipedia
 domain: Animals
 related_domains: []
-status: partial
+status: complete
+date-last-perfect: 2026-09-19
 ---
 
 # Animals
 
-English folk taxonomy sorts the animal kingdom mostly by size and danger — "animal" vs. "bug" vs. "beast" vs. "monster." The classical Sinitic tradition Dan'a'yo inherits cuts the field along different lines entirely: an animacy axis broader than "animal" ([[生物]], "living thing," which also covers plants), a wild/tame axis carrying real moral weight rather than just a biological label ([[家畜]] vs. the pejorative [[畜生]], loaded with Buddhist rebirth cosmology), and an old fixed inventory of culturally load-bearing livestock (六畜, the "six domestic animals") that doesn't map onto the Western "farm animal" concept item-for-item. Modern Linnaean taxonomy ([[分類学]]) was grafted onto this older framework relatively recently in all four source languages, and in Dan'a'yo it remains genuinely incomplete — see Taxonomy below for exactly what's still missing.
+English folk taxonomy sorts the animal kingdom mostly by size and danger — "animal" vs. "bug" vs. "beast" vs. "monster." The classical Sinitic tradition Dan'a'yo inherits cuts the field along different lines entirely: an animacy axis broader than "animal" ([[生物]], "living thing," which also covers plants), a wild/tame axis carrying real moral weight rather than just a biological label ([[家畜]] vs. the pejorative [[畜生]], loaded with Buddhist rebirth cosmology), and an old fixed inventory of culturally load-bearing livestock (六畜, the "six domestic animals") that doesn't map onto the Western "farm animal" concept item-for-item. Modern Linnaean taxonomy ([[分類学]]) was grafted onto this older framework relatively recently in all four source languages, and Dan'a'yo resolves an ambiguity none of them bothered to — see Taxonomy below for how the eight-rank hierarchy gets a dedicated disambiguating suffix no source language uses.
 
 ## Core Vocabulary (A1–A2)
 
@@ -64,6 +65,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[亀](../words/亀.md)<rt>ㄍㄨㄛ</rt></ruby>: turtle.
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.
+- <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby>: fur seal — literally "sea-dog," named for its dog-like bark and face.
 
 ### Large & Notable Wild Mammals
 
@@ -112,7 +114,13 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [[目]] was already taken by "eye."
 
-**Gap**: the three domains of life themselves (Bacteria, Archaea, Eukarya) still have no coined Dan'a'yo domain-names one rank below [[域階]] itself — [[細菌]] ("bacteria," a general organism-level word) exists, but is not the same thing as a systematic "Domain: Bacteria" label.
+### The Three Domains of Life
+
+One rank below [[域階]] ("Domain") itself, Dan'a'yo already has real words for all three domains — no suffix needed, since each is already an unambiguous, independently attested term:
+
+- <ruby>[細菌](../words/細菌.md)<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>: bacteria (Domain Bacteria).
+- <ruby>[古菌](../words/古菌.md)<rt>ㄍㄛㄍ⼜ㄋ</rt></ruby>: archaea (Domain Archaea) — literally "ancient germ."
+- <ruby>[真核](../words/真核.md)<rt>ㄐㄧㄋㄏㄚㄎ</rt></ruby>: eukarya, eukaryotic (Domain Eukarya) — literally "true-nucleus," a bound root rather than a free word in any source language (see Semantic Range Notes).
 
 ## Semantic Range Notes
 
@@ -127,6 +135,8 @@ Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank 
 **山羊 ("goat") hides a genuine false-friend trap worth knowing explicitly.** 羊 alone is ambiguous between "sheep" and "goat" in Dan'a'yo, as in its Sinitic sources, so [[綿羊]] and [[山羊]] disambiguate the two the same way Mandarin, Cantonese, and Japanese do — and in all three of those languages, plus Dan'a'yo itself, 山羊's compositional reading really does mean "domestic goat." Korean and Vietnamese break the pattern: the exact same compositional reading (산양 in Korean, sơn dương in Vietnamese) instead names a wild goat-antelope — the long-tailed goral and the serow, respectively — while the domestic goat is a completely unrelated native word in each (염소, dê). [[山羊]]'s own `korean`/`vietnamese` fields store the real domestic-goat words for this reason, even though `kwin` is still technically true: Dan'a'yo's own coined reading matches real Sino-Korean 산양 perfectly in *sound*, just not in *referent*.
 
 **The taxonomy rank words ([[域階]] through [[種階]]) are a deliberate, uniform coining decision, not organic vocabulary.** Every rank is built the same way — bare rank character + [[階]] ("level") — specifically to avoid the ambiguity real CJKV taxonomy tolerates via context alone (bare 目 reads as "order" in a taxonomy chart and "eye" everywhere else; Dan'a'yo instead keeps [[目]] "eye" and [[目階]] "order" permanently distinct). The four source languages mostly agree on the underlying bare-character terms (界/門/綱/科/属/種 read compositionally in Mandarin, Cantonese, Japanese, and often Korean), with two systematic exceptions worth remembering: Japanese borrows English "domain" outright as ドメイン rather than using 域 at all, and Vietnamese substitutes native words for five of the eight ranks (ngành, lớp, bộ, họ, chi, loài) rather than reading their Sino-Vietnamese equivalents — most strikingly for [[目階]] "order," where real Vietnamese taxonomy uses an entirely different character, [[部]] ("bộ"), instead of 目.
+
+**The three domains of life ([[細菌]], [[古菌]], [[真核]]) needed no 階-suffixing at all**, unlike the eight ranks above — each is already an unambiguous standalone term with no competing sense to collide with. [[古菌]] is a small cross-linguistic success story: Dan'a'yo's compositional coinage happens to land on 古菌/고균, the *currently preferred* modern term in both Chinese and Korean science (displacing the older 古細菌/고세균) — though Japanese still holds onto 古細菌 rather than bare 古菌. [[真核]] is the opposite case: a bound root with no free-standing form in any of the four languages (the full technical term is always 真核生物/真核細胞-style), and Vietnamese abandons the Sino-Vietnamese reading of 真核 altogether in favor of nhân thực, built from different characters in the reverse order.
 
 ## See Also
 
