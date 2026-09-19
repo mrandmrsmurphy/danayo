@@ -54,7 +54,7 @@ boundedness: 75
 - <ruby>[[文武]]<rt>ㄇㄨㄋㄇㄨ</rt></ruby> "civilian and military"
 - <ruby>[[武道]]<rt>ㄇㄨㄉㄚㄨ</rt></ruby> "martial arts"
 - <ruby>[[武術]]<rt>ㄇㄨㄙㄨㄊ</rt></ruby> "martial art"
-- <ruby>[[武士]]<rt>ㄇㄩㄙㄚㄧ</rt></ruby> "warrior, samurai"
+- <ruby>[[武士]]<rt>ㄇㄨㄙㄚㄧ</rt></ruby> "warrior, samurai"
 - <ruby>[[武侠]]<rt>ㄇㄨㄏㄝㄆ</rt></ruby> "wuxia (genre), chivalry"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[玄武岩]]<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby> "basalt"

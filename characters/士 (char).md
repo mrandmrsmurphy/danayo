@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[瑞士]]<rt>ㄙ⼔ㄙㄚㄧ</rt></ruby> "Switzerland"
 - <ruby>[[兵士]]<rt>ㄅ⼶ㄫㄙㄚㄧ</rt></ruby> "soldier"
 - <ruby>[[国士]]<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby> "gentleman; patriot"
-- <ruby>[[武士]]<rt>ㄇㄩㄙㄚㄧ</rt></ruby> "warrior; samurai"
+- <ruby>[[武士]]<rt>ㄇㄨㄙㄚㄧ</rt></ruby> "warrior; samurai"
 - <ruby>[[紳士]]<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby> "gentleman"
 
 ## Chengyu
