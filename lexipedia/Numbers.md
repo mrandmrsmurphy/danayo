@@ -84,6 +84,8 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 
 Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cross-checked term by term against real Mandarin/Cantonese/Japanese/Korean/Vietnamese usage rather than invented wholesale. See the Semantic Range Notes below for the recurring patterns this coining work surfaced.
 
+- <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
+
 ### Arithmetic Operations
 
 Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the Mandarin/Cantonese-preferred register) and as a *calculation-verb* (X算, the Japanese/Korean-preferred register) — a deliberate parallel system, not redundancy.
