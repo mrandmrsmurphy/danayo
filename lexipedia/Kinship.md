@@ -1,0 +1,54 @@
+
+- ancestor
+- aunt
+- brother
+- daughter
+- family
+- father
+- grandmother
+- husband
+- marry
+- mother
+- parent
+- sister
+- son
+- uncle wife
+
+- clan 
+- dynasty
+- heir
+- grandfather
+- cousin
+- nephew
+- niece
+
+- engagement
+- bride
+- groom
+- elope
+- dowry/bride-price
+- monogamy
+- divorce
+- in-law
+- step-
+
+### People
+- adult
+- baby
+- boy
+- child
+- crowd
+- fellow
+- female
+- folk
+- girl
+- human
+- kid
+- maid
+- malke
+- man
+	- human
+	- male
+- people
+- person
+- woman

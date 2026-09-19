@@ -8,11 +8,12 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 ## Counts
 
-- **Unsorted**: 2402
-- **Animals**: 119
+- **Unsorted**: 2386
+- **Animals**: 1
+- **Art**: 118
 - **Astronomy**: 182
-- **Body**: 194
-- **Calendar**: 136
+- **Body**: 195
+- **Calendar**: 137
 - **Clothing**: 42
 - **Conflict**: 95
 - **Containers**: 57
@@ -22,20 +23,21 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Elements**: 16
 - **Emotions**: 106
 - **Events**: 55
-- **Existence**: 161
-- **Food**: 113
-- **Geography**: 230
+- **Existence**: 163
+- **Food**: 114
+- **Geography**: 232
 - **Government**: 118
+- **Grammar**: 1
 - **Kinship**: 64
 - **Knowledge**: 82
-- **Law**: 36
+- **Law**: 37
 - **Life**: 20
 - **Light**: 33
 - **Locatives**: 13
 - **Love**: 6
-- **Measurement**: 11
-- **Mind**: 23
-- **Movement**: 52
+- **Measurement**: 12
+- **Mind**: 24
+- **Movement**: 53
 - **Nature**: 9
 - **Numbers**: 2
 - **Physical**: 11
@@ -43,9 +45,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Plants**: 27
 - **Possession**: 3
 - **Religion**: 35
-- **Sensation**: 14
+- **Sensation**: 15
 - **Sex**: 13
-- **Shape**: 14
+- **Shape**: 15
 - **Sin**: 22
 - **Society**: 33
 - **Speech**: 60
@@ -53,30 +55,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Time**: 28
 - **Tools**: 19
 - **Trade**: 37
-- **Valuation**: 47
+- **Valuation**: 48
 - **War**: 24
 - **Water**: 58
 - **Work**: 28
 - **歴史綱要**: 4
 
-## Unsorted (2402)
+## Unsorted (2386)
 
-- [[一端]] — one aspect, competent
-- [[丁丁]] — clang, clash
-- [[丁香]] — clove
-- [[七夕]] — qixi
-- [[丈]] — zhang
-- [[上昇]] — ascend
-- [[上海]] — shanghai
-- [[上面]] — surface, outward appearance
-- [[下痢]] — diarrhea
-- [[不]] — not
-- [[不丹]] — bhutan
-- [[不定]] — indefinite, indeterminate, variable
-- [[不当]] — unjust, unfair
-- [[不要]] — unnecessary
-- [[与]] — and, with
-- [[世界観]] — worldview
 - [[丘引]] — earthworm
 - [[中]] — -ing
 - [[串]] — skewer
@@ -2466,6 +2452,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 ## Animals (1)
 - [[一角獣]] — unicorn
+
+## Art (118)
 - [[俳優]] — actor
 - [[偶像]] — idol, statue
 - [[公尺]] — meter, metre
@@ -2770,8 +2758,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[韓江]] — han river
 - [[穹蒼]] — blue dome of heaven, firmament (dated)
 
-## Body (194)
-
+## Body (195)
+- [[三焦]] — triple burner
+- [[下痢]] — diarrhea
 - [[下顎]] — jaw, chin
 - [[且爵]] — chew, masticate
 - [[中指]] — middle finger, middle toe
@@ -2785,6 +2774,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[剃]] — shave
 - [[剝皮]] — skin, peel, flay
 - [[剰余]] — rest, remainder, surplus
+- [[医生]] — doctor
 - [[卵子]] — ovum, egg
 - [[卵白]] — egg white, albumen
 - [[卸]] — retire, lay down
@@ -2929,6 +2919,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[道成肉身]] — incarnation, the word became flesh
 - [[遡及]] — retroactivity, to apply retroactively, to trace back
 - [[部長]] — head, chief, secretary, minister
+- [[郭清]] — to purge, to clear away, surgical dissection
 - [[金髪碧眼]] — blonde hair blue eyes
 - [[釘]] — nail, spike
 - [[長牙]] — fang, tusk
@@ -2947,6 +2938,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[頭骨]] — skull, cranium
 - [[頭髪]] — head hair
 - [[額頭]] — forehead, plaque
+- [[顔色]] — complexion, expression, appearance, look
 - [[食指]] — index finger, first toe
 - [[首尾]] — whole, head to tail, beginning to end
 - [[馬脚]] — horse feet, cloven feet, sore thumb
@@ -2962,14 +2954,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[鳳笙]] — phoenix sheng, court mouth organ
 - [[鼻]] — nose
 - [[鼻水]] — snot
-- [[医生]] — doctor
-- [[三焦]] — triple burner
-- [[郭清]] — to purge, to clear away, surgical dissection
-- [[顔色]] — complexion, expression, appearance, look
 
-## Calendar (136)
-
+## Calendar (137)
 - [[一半]] — one half
+- [[七夕]] — qixi
 - [[万乗]] — ten thousand chariots, imperial power
 - [[万年]] — ten thousand years, eternity; all ages
 - [[不可以]] — cannot, may not (impermissive)
@@ -3088,6 +3076,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[螟蛉]] — stem borer larva, adopted son (literary)
 - [[補助]] — assistance, help, aid, auxiliary
 - [[親戚]] — relative, relation
+- [[諡号]] — posthumous name, honorary posthumous title
 - [[跳躍]] — jump, leap
 - [[辦公]] — do business, handle business
 - [[遅]] — late, slow
@@ -3104,7 +3093,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-- [[諡号]] — posthumous name, honorary posthumous title
 
 ## Clothing (42)
 
@@ -3707,11 +3695,13 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[中止]] — to discontinue, to cancel, to call off
 - [[危机]] — crisis, critical juncture
 
-## Existence (161)
+## Existence (163)
 - [[䔥国]] — state of xiao
+- [[一端]] — one aspect, competent
 - [[一般]] — average, common, general, ordinary
 - [[不可]] — cannot
 - [[不可不]] — cannot not (do something), i.e. must
+- [[不定]] — indefinite, indeterminate, variable
 - [[不用]] — not necessary, unused, useless
 - [[不穏]] — unstable, unsettled, ominous
 - [[事]] — thing, action
@@ -3870,8 +3860,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[類似]] — resemble, similar, analogous
 - [[魔力]] — magical power
 
-## Food (113)
-
+## Food (114)
+- [[丁香]] — clove
+- [[乳酪]] — dairy products
 - [[乾酪]] — cheese
 - [[井物]] — bowl of food
 - [[亜洲]] — asia
@@ -3879,37 +3870,52 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[刀刃]] — knife blade, pivotal moment
 - [[刀叉]] — fork and knife
 - [[勺]] — spoon, ladle
+- [[包子]] — steamed bun
 - [[午飯]] — lunch, noon meal
 - [[午餐]] — lunch
 - [[叉]] — fork, prong, tine
+- [[収穫]] — harvest, crop, yield
+- [[喫]] — devour, ingest
+- [[営養]] — nutrition, nourishment
 - [[塩]] — salt
 - [[大食]] — binge eat
+- [[大麦茶]] — barley tea
 - [[技術]] — technology, technique
 - [[拌和]] — stir, mix, blend
+- [[摂食]] — feed, ingest
 - [[撹拌]] — stir up, agitate
+- [[明蝦]] — king prawn
 - [[晩飯]] — dinner, supper, evening meal
 - [[暴飲]] — binge drink
 - [[東南亜]] — southeast asia
 - [[果子]] — candy, pastry
 - [[果実]] — fruit, berry
 - [[果汁]] — fruit juice
+- [[果醤]] — jam, jelly, preserves
+- [[栄養]] — nourishment, nutrition
 - [[桜桃]] — cherry (fruit)
+- [[橙果]] — orange (the fruit)
 - [[正餐]] — dinner
 - [[毛蝦]] — shrimp
 - [[汁]] — soup, juice
+- [[清淡]] — insipid, plain, dilute
 - [[渇]] — thirst, thirsty
 - [[漁業]] — fishing industry, fishery
 - [[漁船]] — fishing boat
 - [[漬]] — pickle, salt, soak, steep
 - [[炊]] — cook
 - [[炒]] — fry, sauté
+- [[点心]] — snack; dim sum; light dishes (mandarin/cantonese/japanese), lunch, the midday meal (korean — see note)
+- [[烏龍茶]] — oolong tea
 - [[焼酎]] — soju, shochu, rice wine, shaojiu
 - [[牛井]] — gyudon, beef rice bowl
 - [[猩蝿]] — fruit fly, drosophila
+- [[玄米]] — brown rice
 - [[甘]] — sweet
 - [[甘味]] — sweetness, sweet taste
 - [[甘藷]] — sweet potato
 - [[甜菜]] — sugar beet
+- [[産量]] — output, yield
 - [[禁漁]] — fishing ban, no fishing
 - [[禾]] — grain, cereal
 - [[禾稲]] — rice
@@ -3921,6 +3927,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[米飯]] — rice (cooked)
 - [[粒子]] — particle, grain
 - [[糖]] — sugar
+- [[紅茶]] — black tea, red tea
 - [[肉]] — meat
 - [[肉汁]] — gravy, broth
 - [[肉湯]] — broth
@@ -3929,10 +3936,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[膳食]] — meal, diet, food
 - [[臘肉]] — cured pork, preserved meat
 - [[苦味]] — bitter taste, bitterness
+- [[茉莉]] — white jasmine
 - [[茶]] — tea (drink), tea (plant)
 - [[菜汁]] — vegetable juice
+- [[菜蔬]] — vegetables, greens
+- [[菱]] — water chestnut
 - [[蕃藷]] — sweet potato
 - [[薄荷]] — mint (candy)
+- [[蜜柑]] — mandarin orange
 - [[親子井]] — oyakodon, chicken and egg rice bowl
 - [[豚井]] — butadon, pork rice bowl
 - [[趣味]] — hobby, interest, taste
@@ -3943,6 +3954,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[酒糟]] — distiller's grain, lees
 - [[酸]] — acidic, sour
 - [[醇酒]] — good wine
+- [[醍醐]] — ghee, finest cream, essence of buddhism
 - [[醤油]] — soy sauce
 - [[醸造]] — brew, ferment
 - [[釣竿]] — fishing pole
@@ -3950,61 +3962,44 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[顆粒]] — granule, pellet, grain
 - [[食]] — eat
 - [[飢餓]] — hungry, starving
+- [[飢饉]] — famine, crop failure
 - [[飲]] — drink
 - [[飲食]] — eat and drink
 - [[餅]] — pastry, cake, mochi
 - [[餐]] — eat, dine
 - [[餓鬼]] — hungry ghost, preta
+- [[饅頭]] — steamed bun
 - [[鮮美]] — delicious, tasty
 - [[鶏肉]] — chicken, chicken meat
+- [[麦茶]] — barley tea
 - [[麦酒]] — beer
 - [[麺]] — flour
 - [[麺包]] — bread
-- [[包子]] — steamed bun
-- [[饅頭]] — steamed bun
-- [[収穫]] — harvest, crop, yield
-- [[産量]] — output, yield
-- [[飢饉]] — famine, crop failure
-- [[営養]] — nutrition, nourishment
-- [[栄養]] — nourishment, nutrition
-- [[喫]] — devour, ingest
-- [[摂食]] — feed, ingest
-- [[明蝦]] — king prawn
-- [[乳酪]] — dairy products
-- [[橙果]] — orange (the fruit)
-- [[玄米]] — brown rice
-- [[紅茶]] — black tea, red tea
-- [[蜜柑]] — mandarin orange
-- [[茉莉]] — white jasmine
-- [[大麦茶]] — barley tea
-- [[烏龍茶]] — oolong tea
-- [[麦茶]] — barley tea
-- [[醍醐]] — ghee, finest cream, essence of buddhism
-- [[点心]] — snack; dim sum; light dishes (mandarin/cantonese/japanese), lunch, the midday meal (korean — see note)
-- [[菜蔬]] — vegetables, greens
-- [[菱]] — water chestnut
-- [[清淡]] — insipid, plain, dilute
-- [[果醤]] — jam, jelly, preserves
 
-## Geography (230)
-
+## Geography (232)
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
 - [[七対子]] — seven pairs (mahjong)
 - [[七情]] — seven emotions
 - [[七面鳥]] — turkey
 - [[万邦]] — world, all the countries, myriad regions
+- [[上海]] — shanghai
+- [[不丹]] — bhutan
 - [[不均]] — uneven, unequal, imbalanced
 - [[不平]] — unjust, uneven, unfair
 - [[世界]] — world
+- [[丘]] — hill
 - [[中亜]] — central asia
 - [[中原]] — central plains
+- [[中国]] — china
 - [[中央情報局]] — central intelligence agency, cia
+- [[中華民国]] — republic of china, taiwan
 - [[主宰]] — superintend, rule
 - [[主権]] — sovereignty
 - [[乖巧]] — smart, well-behaved
 - [[九州]] — nine provinces, kyushu
 - [[九経]] — the nine classics
+- [[予州]] — yu province, province of yu
 - [[二次元]] — two dimensions, 2d, the 2d world (anime, manga, games)
 - [[井戸]] — well
 - [[交]] — mix, exchange
@@ -4012,17 +4007,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[交易]] — trade, transact
 - [[交流]] — exchange, interchange, mingle
 - [[亨通]] — prosper, go well
+- [[京城]] — capital city, metropolis
+- [[京畿]] — capital province
 - [[人口]] — population
 - [[伝播]] — propagate, disseminate, spread
 - [[伺候]] — wait upon, serve, attend
 - [[侍奉]] — serve, wait upon
 - [[侵犯]] — intrude upon, violate, invade
+- [[傾斜]] — slope, incline, gradient
 - [[兗州]] — yanzhou, one of the nine provinces
 - [[全球]] — global, the entire world
+- [[共和国]] — republic
 - [[内海]] — inland sea
 - [[冠冕]] — royal crown, official headwear
 - [[凹凸]] — bumpy, uneven, rugged
 - [[分布]] — distribution, dispersion
+- [[列島]] — archipelago, chain of islands
 - [[北氷洋]] — arctic ocean
 - [[北美]] — north america
 - [[北美洲]] — north american continent, north america
@@ -4036,10 +4036,13 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[南美洲]] — south american continent, south america
 - [[南部]] — south, southern area
 - [[南非]] — south africa
+- [[印度]] — india
 - [[印度洋]] — indian ocean
 - [[厚顔]] — brazen-faced, impudent, shameless
 - [[原則]] — principle, rule
 - [[原理]] — principle
+- [[台湾]] — taiwan
+- [[合肥]] — hefei, capital of anhui province, china
 - [[商路]] — trade route
 - [[善人]] — philanthropize, well-doer
 - [[四海]] — four seas, the four seas bounding all-under-heaven
@@ -4050,14 +4053,17 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[国際語]] — international language, koine, lingua franca
 - [[地中海]] — mediterranean sea
 - [[地図学]] — cartography
+- [[地境]] — border, territorial boundary
 - [[地形]] — terrain, topography, landform
 - [[地方]] — region, territory
 - [[地球]] — earth, globe, world
 - [[地球儀]] — globe, model earth
 - [[地理]] — geography, topography
 - [[地理学]] — geography
+- [[城市]] — walled city
 - [[基金]] — fund
 - [[塑造]] — model, mould
+- [[境界]] — boundary, zone
 - [[外交]] — diplomacy, foreign affairs
 - [[外国語]] — foreign language
 - [[外来]] — foreign, extrinsic
@@ -4070,24 +4076,31 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[大洋洲]] — oceania
 - [[大義]] — principles of justice, be truly righteous
 - [[大西洋]] — atlantic ocean
+- [[大陸]] — continent
 - [[天下]] — world, all under heaven
+- [[天竺]] — india
 - [[太平洋]] — pacific ocean
 - [[媒介]] — medium, intermediary, agent (of transmission)
 - [[媒体]] — medium, media
+- [[守戍]] — border guard
 - [[定義]] — define
 - [[密度]] — density
 - [[対外]] — foreign, external, toward the outside
 - [[尋]] — inquire for, seek
 - [[尼羅河]] — nile river
 - [[展翅]] — to spread the wings, to take flight
+- [[山岡]] — hill, hillock
 - [[島]] — island
+- [[希州]] — ji province, province of ji
 - [[干犯]] — infringe, violate, encroach upon
 - [[広土]] — vast territory, extensive land
 - [[当世]] — this time, this world
 - [[影響]] — influence, affect, disturb
+- [[徐州]] — xu province, province of xu
 - [[必備]] — essential, required, must-have
 - [[必須]] — be essential, be a must
 - [[情況]] — circumstances, conditions
+- [[愛媛]] — ehime, ehime prefecture
 - [[戦争]] — war
 - [[戦国]] — warring states
 - [[担任]] — to assume a post, to take charge
@@ -4100,9 +4113,11 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[散布]] — scatter, spread, disseminate
 - [[敷]] — spread
 - [[斉国]] — qi nation
+- [[斜坂]] — slope, incline
 - [[新語]] — neologism
 - [[方針]] — policy, principle, philosophy
 - [[旦夕]] — sooner or later
+- [[旧金山]] — san francisco, old gold mine
 - [[普及]] — to spread widely, to popularize, to become universal, diffusion
 - [[朕]] — we (royal)
 - [[朝廷]] — imperial court, royal court
@@ -4115,16 +4130,19 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[欧洲]] — europe
 - [[欧羅巴]] — europe, europa, eu
 - [[殖民]] — colonization, colonial
+- [[民国]] — republic
 - [[気候]] — climate
 - [[江南]] — south river, gangnam
 - [[沙漠]] — desert
 - [[治世]] — well-governed era, peaceful reign, era of good government
 - [[泛濫]] — flood, overflow, spread unchecked
 - [[波斯]] — persia
+- [[洲]] — islet, continent
 - [[流動]] — flow, spread, circulate
 - [[海上]] — marine, maritime, on the sea
 - [[海洋]] — sea, ocean
 - [[海禁]] — maritime prohibition, sea ban
+- [[港湾]] — harbor
 - [[火山島]] — volcanic island
 - [[炎帝]] — yan emperor
 - [[為]] — namely
@@ -4132,19 +4150,28 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[版図]] — domain, dominion, territory
 - [[狙鳩]] — osprey, royal-coot
 - [[独立]] — independence, independent
+- [[獅子国]] — lion country, sri lanka (historical)
 - [[王畿]] — royal domain
 - [[瑞士]] — switzerland
 - [[環状]] — ring-shaped, annular, concentric
+- [[界水]] — boundary water, water marking a border
+- [[界線]] — boundary line, dividing line
+- [[畔]] — ridge, boundary
 - [[留]] — remain, stay
 - [[留学生]] — international student, exchange student
 - [[癒合]] — recover, get well
 - [[百家]] — hundred schools, many schools of thought
 - [[百越]] — baiyue, the hundred yue peoples of ancient southern china
 - [[相当]] — equivalent (to), considerable, quite, fairly
+- [[県]] — county, district, prefecture, subdivision
 - [[社交]] — social interaction
 - [[社会科]] — social studies
+- [[紫禁城]] — the forbidden city, the imperial palace complex in beijing
 - [[統治]] — govern, rule
+- [[羅馬]] — roman
 - [[美国]] — america, u.s.a.
+- [[聚落]] — settlement, village
+- [[英吉利]] — england (dated)
 - [[草原]] — grassland, prairie, steppe, savanna, meadow
 - [[荊州]] — jing province, province of jing
 - [[荷蘭]] — netherlands, holland
@@ -4156,6 +4183,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[諸子百家]] — hundred schools of thought
 - [[資本]] — capital (finance), resource
 - [[資源]] — resources
+- [[赤道]] — equator
+- [[越境]] — transgress, infringe on the border of
+- [[辺境]] — frontier, border
 - [[近代]] — early modern period
 - [[通信]] — communication, correspondence
 - [[連合]] — unite, ally with, alliance, union
@@ -4165,59 +4195,20 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[運転]] — operate, drive
 - [[違犯]] — violate, infringe upon, disobey
 - [[遷移]] — to shift, to relocate, transition
+- [[郡]] — county, prefecture, district, commandery
 - [[郵便]] — mail, post
+- [[里]] — village
 - [[重要]] — important
+- [[金城]] — impenetrable city, jincheng
+- [[金山]] — gold mine
 - [[雍州]] — yong province, province of yong
 - [[青州]] — qing province, province of qing
 - [[非洲]] — africa
 - [[領土]] — territory
-- [[高山]] — high mountain, alpine
-- [[丘]] — hill
-- [[中国]] — china
-- [[中華民国]] — republic of china, taiwan
-- [[予州]] — yu province, province of yu
-- [[京畿]] — capital province
-- [[共和国]] — republic
-- [[台湾]] — taiwan
-- [[合肥]] — hefei, capital of anhui province, china
-- [[山岡]] — hill, hillock
-- [[希州]] — ji province, province of ji
-- [[徐州]] — xu province, province of xu
-- [[愛媛]] — ehime, ehime prefecture
-- [[民国]] — republic
-- [[県]] — county, district, prefecture, subdivision
-- [[越境]] — transgress, infringe on the border of
-- [[辺境]] — frontier, border
-- [[郡]] — county, prefecture, district, commandery
-- [[守戍]] — border guard
-- [[傾斜]] — slope, incline, gradient
-- [[斜坂]] — slope, incline
-- [[印度]] — india
-- [[天竺]] — india
-- [[大陸]] — continent
-- [[洲]] — islet, continent
-- [[黄海]] — yellow sea
-- [[地境]] — border, territorial boundary
-- [[界水]] — boundary water, water marking a border
-- [[境界]] — boundary, zone
-- [[界線]] — boundary line, dividing line
-- [[畔]] — ridge, boundary
-- [[旧金山]] — san francisco, old gold mine
-- [[金山]] — gold mine
-- [[英吉利]] — england (dated)
-- [[赤道]] — equator
-- [[列島]] — archipelago, chain of islands
-- [[港湾]] — harbor
-- [[羅馬]] — roman
-- [[獅子国]] — lion country, sri lanka (historical)
-- [[紫禁城]] — the forbidden city, the imperial palace complex in beijing
-- [[聚落]] — settlement, village
 - [[首都]] — capital city
-- [[京城]] — capital city, metropolis
 - [[香芝]] — kashiba (city in nara prefecture, japan)
-- [[城市]] — walled city
-- [[里]] — village
-- [[金城]] — impenetrable city, jincheng
+- [[高山]] — high mountain, alpine
+- [[黄海]] — yellow sea
 
 ## Government (118)
 
@@ -4339,6 +4330,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[自治]] — autonomy, self-government
 - [[辞任]] — resign from office
 - [[部署]] — government office, department
+
+
+## Grammar (1)
+- [[与]] — and, with
 
 ## Kinship (64)
 
@@ -4492,44 +4487,44 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[校内]] — on-campus, school interior
 - [[校門]] — school gate
 
-## Law (36)
-
+## Law (37)
+- [[不当]] — unjust, unfair
 - [[不許]] — forbid
 - [[処分]] — punish, discipline
+- [[制約]] — restriction, constraint, limitation
+- [[制限]] — restriction, limit
+- [[劫盗]] — rob (dated)
 - [[報応]] — retribution, retributive justice, karma
 - [[天真]] — innocent, naive, artless
 - [[契約]] — contract, deed, agreement
 - [[審査]] — review, screening, judge
+- [[循]] — to abide by, to follow, to comply with
 - [[懲罰]] — punish, penalize
+- [[控訴]] — formally complain regarding, file charges against
 - [[極刑]] — capital punishment
 - [[正義]] — justice
+- [[治安]] — public order, public security, law and order
 - [[法]] — rule, law
 - [[法則]] — law, rule, code
 - [[牢獄]] — prison, jail
 - [[犯罪]] — crime
 - [[監獄]] — prison, jail
+- [[盲従]] — blind obedience, to follow blindly
 - [[禁断]] — forbidden, forbid absolutely, prohibition
+- [[禁書]] — banned book, proscribed text
+- [[秩序]] — law and order, regularity
 - [[縮]] — shrink, contract
 - [[罪]] — sin, crime
 - [[規定]] — stipulate, regulation, provision
+- [[訴訟]] — sue, file a lawsuit
+- [[誅殺]] — execute, kill
+- [[責任]] — responsibility, duty
 - [[逮捕]] — arrest, apprehension
 - [[違法]] — illegal
-- [[制約]] — restriction, constraint, limitation
-- [[制限]] — restriction, limit
-- [[限度]] — limit, limitation
-- [[劫盗]] — rob (dated)
-- [[除籍]] — remove from the register, expunge, expel
-- [[責任]] — responsibility, duty
-- [[循]] — to abide by, to follow, to comply with
-- [[誅殺]] — execute, kill
-- [[盲従]] — blind obedience, to follow blindly
-- [[治安]] — public order, public security, law and order
-- [[秩序]] — law and order, regularity
-- [[禁書]] — banned book, proscribed text
-- [[控訴]] — formally complain regarding, file charges against
-- [[訴訟]] — sue, file a lawsuit
 - [[阻止]] — thwart, block, impede
 - [[阻碍]] — obstruct, hinder, block
+- [[限度]] — limit, limitation
+- [[除籍]] — remove from the register, expunge, expel
 
 ## Life (20)
 
@@ -4614,23 +4609,25 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[愛情]] — love, affection, romance
 - [[懐抱]] — cherish, embrace
 
-## Measurement (11)
-
+## Measurement (12)
+- [[丈]] — zhang
+- [[体積]] — volume, capacity, bulk
 - [[升]] — litre, liter
+- [[容量]] — volume, capacity
 - [[寸]] — inch, measurement
+- [[指標]] — indicator, index, benchmark, metric
 - [[数量]] — amount, weight, measure, quantity
 - [[極度]] — extreme, extreme degree
 - [[浬]] — nautical mile, knot
 - [[精度]] — precision; degree of refinement
 - [[衡量]] — weigh, measure, evaluate
 - [[部隊]] — unit, corp
-- [[体積]] — volume, capacity, bulk
-- [[容量]] — volume, capacity
-- [[指標]] — indicator, index, benchmark, metric
 
-## Mind (23)
-
+## Mind (24)
 - [[不信]] — not believe, mistrust
+- [[世界観]] — worldview
+- [[偏重]] — to overemphasize, to lean too heavily toward, bias
+- [[呆]] — confused
 - [[奇想]] — fanciful notion, strange idea
 - [[心理]] — mentality, psychology
 - [[心理学]] — psychology
@@ -4639,24 +4636,23 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[思想]] — thought, thinking, idea, ideology, philosophy
 - [[思議]] — imagine, comprehend
 - [[意思]] — intent, intention, opinion, mind
+- [[慧]] — bright, intelligent
 - [[懐]] — miss, think of
 - [[概]] — rough idea, generality
+- [[混乱]] — chaotic, confused, riotous
 - [[為人]] — behave, conduct oneself
 - [[理屈]] — defeated argument, reasoning exhausted, reasoning; logic (secondary)
+- [[糊塗]] — muddled, confused
 - [[自己]] — oneself
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
 - [[記憶]] — remember, recollect
-- [[慧]] — bright, intelligent
-- [[偏重]] — to overemphasize, to lean too heavily toward, bias
-- [[呆]] — confused
-- [[混乱]] — chaotic, confused, riotous
-- [[糊塗]] — muddled, confused
 - [[論理]] — logic
 - [[迷]] — be lost, be confused
 
-## Movement (52)
-
+## Movement (53)
+- [[上昇]] — ascend
 - [[下降]] — descend, fall
+- [[交通]] — traffic, transportation
 - [[促]] — hurry, rush, hasten
 - [[出奔]] — elope, flee, run away
 - [[勃興]] — rise
@@ -4666,6 +4662,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[奔走]] — run around, walk quickly
 - [[奔馳]] — gallop, run, speed
 - [[奔騰]] — jump, soar, skyrocket
+- [[岐]] — fork (in road)
 - [[引]] — pull, tug
 - [[彷徨]] — wander
 - [[投]] — throw
@@ -4675,6 +4672,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
 - [[撇]] — throw away
+- [[撞]] — hit, bump, collide
 - [[撲]] — rush at
 - [[散歩]] — walk, stroll
 - [[旅行]] — travel, go on a trip, tour
@@ -4691,23 +4689,20 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[走]] — run
 - [[起]] — rise up
 - [[跳梁]] — to run rampant, to jump about wildly
+- [[軌]] — track, path, rut
 - [[輸送]] — transportation, transport, convey
 - [[辦理]] — manage, arrange, run
+- [[追随]] — follow, pursue
 - [[逃亡]] — flee, escape
 - [[逃遁]] — flee, escape, evade
+- [[通過]] — pass
 - [[逸]] — flee, escape
 - [[運送]] — transport
+- [[鉄道]] — railroad
 - [[飛]] — fly
 - [[飛翔]] — fly, soar
 - [[飛行]] — fly, flight
 - [[馳]] — run fast, drive quickly
-- [[交通]] — traffic, transportation
-- [[撞]] — hit, bump, collide
-- [[追随]] — follow, pursue
-- [[通過]] — pass
-- [[岐]] — fork (in road)
-- [[軌]] — track, path, rut
-- [[鉄道]] — railroad
 
 ## Nature (9)
 - [[天気]] — weather
@@ -4834,22 +4829,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[参拝]] — visit temple, pay respects at a shrine
 - [[巫女]] — shrine maiden, miko, shamaness
 
-## Sensation (14)
-
+## Sensation (15)
+- [[一瞥]] — glance, quick look
+- [[丁丁]] — clang, clash
 - [[味覚]] — sense of taste
 - [[嗅覚]] — sense of smell
 - [[審訊]] — inquest, judicial hearing, interrogation
 - [[感情]] — emotions, feeling
 - [[感触]] — feel, sense, emote
+- [[檀香]] — sandalwood, aromatic heartwood
 - [[気]] — feeling
 - [[聞]] — hear
-- [[麻痺]] — numb, paralyzed, paralysis
-- [[檀香]] — sandalwood, aromatic heartwood
 - [[芬芳]] — fragrant, aromatic
 - [[芳香]] — fragrant, aromatic, perfumed
 - [[薫]] — fragrant, incense
-- [[一瞥]] — glance, quick look
 - [[視]] — look at, inspect
+- [[麻痺]] — numb, paralyzed, paralysis
 
 ## Sex (13)
 
@@ -4867,22 +4862,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[雄]] — manly, male
 - [[雌性]] — female
 
-## Shape (14)
-
+## Shape (15)
 - [[七角形]] — heptagon
 - [[三角]] — triangle
 - [[三角形]] — triangle
+- [[上面]] — surface, outward appearance
 - [[五角形]] — pentagon, five-sided polygon
 - [[圓]] — circle, round
 - [[圓形]] — circular, round shape
 - [[幾何学]] — geometry
 - [[弯曲]] — curve, bent
 - [[曲線]] — curve
+- [[球]] — sphere, ball
+- [[球体]] — sphere
 - [[環]] — ring, circle
 - [[輪]] — wheel, circle, ring, loop
 - [[鋒芒]] — sharp edge, cutting point, keen edge
-- [[球]] — sphere, ball
-- [[球体]] — sphere
 
 ## Sin (22)
 
@@ -5127,55 +5122,55 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[金銭]] — coin, cash, money
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (47)
-
-- [[価値]] — worth, value
-- [[大器]] — treasure
-- [[宝物]] — treasure, treasury
-- [[尊敬]] — respect, honor, esteem
-- [[思慕]] — to yearn for, to admire, longing
-- [[愛惜]] — cherish, treasure
-- [[欽敬]] — admire, respect
-- [[歌頌]] — extol, praise, laud
-- [[自尊]] — self-esteem, self-respect, dignity
-- [[褒]] — praise
-- [[評価]] — evaluation, appraisal
-- [[賛美]] — praise, admire, extol
-- [[鑑定]] — appraise, authenticate, expert assessment
-- [[功績]] — deed, acheivement
-- [[勲]] — meritorious deed, merit
+## Valuation (48)
+- [[不要]] — unnecessary
 - [[伶俐]] — clever
 - [[佳]] — beautiful, good, excellent
+- [[価値]] — worth, value
 - [[傑出]] — remarkable, outstanding, brilliant
 - [[優秀]] — excellent, outstanding
 - [[優等]] — excellent, superior grade, honors
 - [[光輝]] — brilliant, radiant
 - [[典雅]] — graceful, elegant
+- [[功績]] — deed, acheivement
 - [[勃勃]] — vigorous, thriving, exuberant
+- [[勲]] — meritorious deed, merit
 - [[卓越]] — excellent, outstanding, remarkable
+- [[名媛]] — famous woman
+- [[報答]] — reward, requite
+- [[報酬]] — reward, remuneration
+- [[大器]] — treasure
+- [[奨励]] — encouragement, incentive, to award and exhort
+- [[好]] — good
+- [[宝物]] — treasure, treasury
 - [[富裕]] — prosperous, wealthy, rich
+- [[尊敬]] — respect, honor, esteem
 - [[巧妙]] — ingenious, skillful, clever
 - [[彬彬]] — refined, gentle and elegant
+- [[思慕]] — to yearn for, to admire, longing
+- [[愛惜]] — cherish, treasure
+- [[才媛]] — talented woman
 - [[敏]] — fast, quick, clever, smart
 - [[斐然]] — remarkable, brilliant, splendid
 - [[昌盛]] — prosperous, flourishing
+- [[有名]] — famous
+- [[欽敬]] — admire, respect
+- [[歌頌]] — extol, praise, laud
+- [[燦乱]] — resplendent, bright, glittering, gorgeous
 - [[秀麗]] — elegant, graceful
 - [[精彩]] — brilliant, splendid
 - [[絢乱]] — gorgeous, brilliant, dazzling
+- [[自尊]] — self-esteem, self-respect, dignity
 - [[興旺]] — thriving, prosperous, flourishing
 - [[華美]] — gorgeous, resplendent
 - [[華麗]] — gorgeous, splendid, resplendent
-- [[隆]] — prosperous, plentiful, abundant
-- [[好]] — good
-- [[名媛]] — famous woman
-- [[才媛]] — talented woman
-- [[有名]] — famous
-- [[報答]] — reward, requite
-- [[報酬]] — reward, remuneration
-- [[奨励]] — encouragement, incentive, to award and exhort
-- [[賞]] — reward
-- [[燦乱]] — resplendent, bright, glittering, gorgeous
+- [[褒]] — praise
+- [[評価]] — evaluation, appraisal
 - [[貴重]] — precious, valuable
+- [[賛美]] — praise, admire, extol
+- [[賞]] — reward
+- [[鑑定]] — appraise, authenticate, expert assessment
+- [[隆]] — prosperous, plentiful, abundant
 
 ## War (24)
 
