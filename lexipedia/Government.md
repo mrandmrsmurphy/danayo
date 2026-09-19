@@ -1,0 +1,15 @@
+
+- agent
+- allow
+- authority
+- baron
+- boss
+- captain
+- charge
+- chief/chieftan
+- command
+- council
+- duke
+- duty
+- elder
+- em
