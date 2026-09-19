@@ -724,7 +724,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 719.  [[拽]]
 720.  [[巩]]
 721.  [[衔]]
-722.  [巷](../../characters/巻%20(char).md)
+722.  [巷](../../characters/巷.md)
 723.  [溪](../../characters/渓.md)
 724.  [[嗦]]
 725.  [[嗨]]

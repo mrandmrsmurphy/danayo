@@ -31,7 +31,6 @@ stand_in: 巻
 aliases:
   - 卷
   - 捲
-  - 巷
 注音: ㄍ⼔ㄋ
 date-last-perfect: 2026-07-28
 kwin: true

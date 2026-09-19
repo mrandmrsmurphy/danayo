@@ -1825,7 +1825,7 @@ tags: [lookup]
 [[箱 (char)]]: 1
 [响](../../characters/響.md): 1
 [[響]]: 1
-[巷](../../characters/巻%20(char).md): 1
+[巷](../../characters/巷.md): 1
 [[写]]: 1
 [寫](../../characters/写.md): 1
 [[卸 (char)]]: 1

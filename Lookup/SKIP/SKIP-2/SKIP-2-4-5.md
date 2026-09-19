@@ -1,7 +1,7 @@
 ---
 stroke_count: 9
 date-last-perfect: 2026-07-05
-size: 16
+size: 17
 skip_number: 2-4-5
 tags: [lookup]
 
@@ -27,6 +27,7 @@ tags: [lookup]
 14. <ruby>[胥](characters/胥.md)<rt>ㄙ⼄</rt></ruby> "mutually"
 15. <ruby>[革](characters/革.md)<rt>ㄎㄧㄎ</rt></ruby> "leather"
 16. <ruby>[茄](characters/茄.md)<rt>ㄍㄚ</rt></ruby> "eggplant"
+17. <ruby>[巷](characters/巷.md)<rt>ㄏㄚㄫ</rt></ruby> "alley, lane"
 
 ## Datacheck
 ```dataview

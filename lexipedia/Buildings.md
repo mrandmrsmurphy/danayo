@@ -19,7 +19,8 @@ language: English
 - neighborhood - <ruby>[近処](../words/近処.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>
 - plaza - <ruby>[広場](../words/広場.md)<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> (same word as "square/plaza" above)
 - port - [[海港]] *(reserved — "seaport," built on [海](../characters/海.md) "sea" + [港](../characters/港.md) "harbor"; not yet a word page. Distinct from the existing [[港湾]] "harbor" itself.)*
-- alley - *(no word yet — genuine gap: no CJKV consensus term exists at all. Mandarin/Cantonese lean Sino (巷 xiàng/hong6, or Beijing-specific 胡同 hútòng), but Japanese commonly uses native 路地 (roji) and Korean uses native 골목 (golmok) rather than any Sino-Korean equivalent, and Vietnamese uses native hẻm/ngõ. Tentatively proposed neologism: 坊巷 ("lanes and alleys" — [坊](../characters/坊.md) already independently carries an "alley, lane" sense; 巷 itself doesn't exist in the vault at all yet). Holding off on creating either the character or the word for now — flagged here for a future dedicated session.)*
+- alley - <ruby>[坊巷](../words/坊巷.md)<rt>ㄈㄚㄫㄏㄚㄫ</rt></ruby>
+  - **Note**: no modern colloquial CJKV consensus existed for this concept (Mandarin/Cantonese lean Sino 巷/胡同, but Japanese uses native 路地 and Korean uses native 골목), so Dan'a'yo resolves the disagreement with a real, dictionary-attested classical Chinese term instead — the same dispute-resolution method used for [[妓院]]. This also required finally giving [[巷]] its own character page — it had long been correctly identified as [[港]]'s own phonetic component but never given a page of its own, and had been mistakenly treated as an alias of the unrelated [[巻 (char)|巻]] ("roll, scroll") across several lookup files; both fixed.
 - sewer - [[下水道]] *(reserved — genuine three-way consensus: the exact same compound "under-water-way" in Mandarin, Japanese げすいどう, and Korean 하수도; Vietnamese leans native (cống) but has an attested formal Sino-Vietnamese form too. Not yet a word page.)*
 - forum - *(no CJKV equivalent — a foreign/imported Roman concept, not a genuine gap to fill)*
 
@@ -146,7 +147,7 @@ language: English
 - bench - *(no clean consensus — mostly loanwords or native compounds)*
 - couch - *(no clean consensus — all three converge only on borrowing English "sofa" phonetically: 沙發/ソファ/소파; not a native CJKV compound)*
 - stool - *(no clean consensus)*
-- cradle - [[搖籃]] *(reserved — Mandarin and Korean 요람 (搖籃) are identical; Japanese uses the native yurikago but written with the same "shake" root, 揺り籠. Requires coining a new character, 搖 ("shake"), which doesn't exist in the vault yet — held off on creating it for now, same as the alley/巷 case above.)*
+- cradle - [[搖籃]] *(reserved — Mandarin and Korean 요람 (搖籃) are identical; Japanese uses the native yurikago but written with the same "shake" root, 揺り籠. Requires coining a new character, 搖 ("shake"), which doesn't exist in the vault yet — held off on creating it for now. Unlike the alley/巷 case above, 搖 has no existing role elsewhere in the vault yet, so this one is a from-scratch coinage rather than finally filling in an already-needed gap.)*
 - shelf - <ruby>[棚](../words/棚.md)<rt>ㄅㄚㄫ</rt></ruby>
 - bathtub - <ruby>[浴槽](../words/浴槽.md)<rt>⼄ㄎㄐㄚㄨ</rt></ruby>
 - toilet - <ruby>[厠所](../words/厠所.md)<rt>ㄑㄧㄙㄜ</rt></ruby>

@@ -697,7 +697,7 @@ tags: [lookup]
 #### 함
 [咸](../../characters/咸.md) (다 함)  [含](../../characters/含.md) (머금을 함)  [陷](characters/陥%20(char).md) (빠질 함)
 #### 항
-巷 --> 巻 (거리 항)  [港](../../characters/港.md) (항구 항)  [項 (char)](../../characters/項%20(char).md) (목 항)  [抗](../../characters/抗.md) (막을 항)  [航](../../characters/航.md) (배 항)
+[巷](../../characters/巷.md) (거리 항)  [港](../../characters/港.md) (항구 항)  [項 (char)](../../characters/項%20(char).md) (목 항)  [抗](../../characters/抗.md) (막을 항)  [航](../../characters/航.md) (배 항)
 #### 해
 [奚 (char)](../../characters/奚%20(char).md) (어찌 해)  [該 (char)](../../characters/該%20(char).md) (그 해)
 #### 핵
