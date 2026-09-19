@@ -1,69 +1,68 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 5491 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Rough, unpolished working list — 5409 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
 
-**2026-09-19, Numbers cleanup**: audited `## Numbers` by hand (85 words — much more manageable than Color/Animals). About 30 were genuine and got written into `lexipedia/Numbers.md` — filled a real gap where the page's own prose described the 加法/減法/乗法/除法 "method" register but never actually listed those words as entries (only their 算-verb counterparts), added large-number compounds, percentage/trig/eccentricity vocabulary, and a new "Counting & Numerals in Use" section. Also caught and fixed a stale cached 注音 on [[十]] ("ten") while auditing. The rest were false positives with a clean explanation each: 伯爵 "count" (the noble rank, not a number), 枢机卿 "cardinal" (the church office), 同等 (a known trap — already flagged in `checklist_words.md` as *rank-equivalence*, not general equality), 仮借/品詞/拼音/部首/注音 (writing-system and grammar terms, matched via generic overlap) — reassigned to their real homes (Government, Religion, Society, Grammar, etc.) rather than forced into Numbers or dumped back to Unsorted.
+**2026-09-19, Metals cleanup**: audited by hand (57 words) — matched the user's read that almost none were real. Only 7 were genuine: 密陀僧 (litharge), 金剛石 (diamond), 鈬 (bronze bell), 鉄板 (iron grill), 鉱物 (mineral, general), 軽金属 (light metals, the materials-science category — distinct from [[軽銀]]'s specific "aluminum"), and 鋳造 (casting), all written into `lexipedia/Metals.md` and backlinked. The other 50 were almost entirely false positives from the homograph "lead" (主導/統率/率先/引入 "to lead/take initiative," not the metal) and "clear" (明白/明瞭/瞭然/清澈/澄清/郭清 "clear, evident," not metal-clarity) — reassigned to Government, Efforts, Speech, Knowledge, Water, Body, Mind, and a scatter of other real homes.
 
 ## Counts
 
-- **Unsorted**: 2379
+- **Unsorted**: 2382
+- **Animals**: 5
 - **Art**: 117
 - **Astronomy**: 189
-- **Body**: 192
+- **Body**: 194
 - **Buildings**: 147
-- **Calendar**: 137
+- **Calendar**: 138
 - **Clothing**: 41
 - **Color**: 0
 - **Conflict**: 95
 - **Containers**: 57
-- **Dimensions**: 94
+- **Dimensions**: 95
 - **Directions**: 58
-- **Efforts**: 49
+- **Efforts**: 50
 - **Elements**: 16
-- **Emotions**: 104
-- **Events**: 55
-- **Existence**: 152
-- **Food**: 112
-- **Geography**: 219
-- **Government**: 105
-- **Grammar**: 150
-- **Kinship**: 61
-- **Knowledge**: 60
-- **Law**: 29
+- **Emotions**: 105
+- **Events**: 56
+- **Existence**: 157
+- **Food**: 113
+- **Geography**: 222
+- **Government**: 110
+- **Grammar**: 160
+- **Kinship**: 62
+- **Knowledge**: 70
+- **Law**: 34
 - **Life**: 20
 - **Light**: 32
 - **Locatives**: 15
 - **Love**: 6
 - **Measurement**: 11
-- **Metals**: 57
-- **Mind**: 17
-- **Movement**: 48
+- **Mind**: 23
+- **Movement**: 49
 - **Nature**: 7
-- **Numbers**: 30
 - **Periodic Table**: 66
 - **Physical**: 11
 - **Physics**: 19
-- **Plants**: 25
+- **Plants**: 26
 - **Possession**: 3
-- **Religion**: 28
-- **Sensation**: 12
+- **Religion**: 33
+- **Reproduction**: 0
+- **Sensation**: 14
 - **Sex**: 13
 - **Shape**: 14
-- **Sin**: 19
-- **Society**: 28
-- **Speech**: 54
+- **Sin**: 22
+- **Society**: 31
+- **Speech**: 58
 - **Substances**: 25
-- **Time**: 27
-- **Tools**: 16
-- **Trade**: 33
-- **Valuation**: 46
+- **Time**: 28
+- **Tools**: 18
+- **Trade**: 35
+- **Valuation**: 47
 - **War**: 24
-- **Water**: 52
+- **Water**: 54
 - **Work**: 28
-- **基督敎**: 83
 - **歴史綱要**: 4
 
-## Unsorted (2379)
+## Unsorted (2382)
 
 - [[一兆]] — one trillion
 - [[一端]] — one aspect, competent
@@ -2444,6 +2443,17 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[表明]] — express, declare, make known
 - [[複雑]] — complex, not simple
 - [[過激]] — drastic, extreme, aggressive, radical
+- [[妥当]] — appropriate, proper
+- [[保持]] — keep, maintain, conserve
+- [[維持]] — maintain, keep, uphold
+
+## Animals (5)
+
+- [[妖怪]] — devil, goblin
+- [[霊長類]] — primate
+- [[魑魅]] — evil spirit, dryad, demon
+- [[獅子]] — lion, bodhisattva
+- [[寒蝉]] — winter cicada, one who dares not speak (figurative)
 
 ## Art (117)
 
@@ -2757,7 +2767,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[韓江]] — han river
 - [[穹蒼]] — blue dome of heaven, firmament (dated)
 
-## Body (192)
+## Body (194)
 
 - [[下顎]] — jaw, chin
 - [[且爵]] — chew, masticate
@@ -2951,6 +2961,8 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[鼻水]] — snot
 - [[医生]] — doctor
 - [[三焦]] — triple burner
+- [[郭清]] — to purge, to clear away, surgical dissection
+- [[顔色]] — complexion, expression, appearance, look
 
 ## Buildings (147)
 
@@ -3102,7 +3114,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[居所]] — residence, whereabouts
 - [[拠点]] — base, foothold
 
-## Calendar (137)
+## Calendar (138)
 
 - [[一半]] — one half
 - [[万乗]] — ten thousand chariots, imperial power
@@ -3241,6 +3253,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
+- [[諡号]] — posthumous name, honorary posthumous title
 
 ## Clothing (41)
 
@@ -3447,7 +3460,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[墊]] — mat, pad, cushion
 - [[畳]] — folding mat, tatami mat
 
-## Dimensions (94)
+## Dimensions (95)
 
 - [[一点]] — a little, a bit
 - [[不但]] — not only
@@ -3543,6 +3556,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[軽]] — light, not heavy
 - [[間隔]] — be divided, be separate
 - [[劃]] — divide, mark off, delimit
+- [[延長]] — extend, prolong, extension
 
 ## Directions (58)
 
@@ -3605,7 +3619,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[隅]] — nook, corner, side
 - [[韓国]] — korea, south korea
 
-## Efforts (49)
+## Efforts (50)
 
 - [[事故]] — accident
 - [[令]] — cause
@@ -3656,6 +3670,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[足球]] — football
 - [[蹴球]] — football (ball or sport), soccer
 - [[鎧球]] — american football, gridiron football, football
+- [[率先]] — take the lead, be the first to act
 
 ## Elements (16)
 
@@ -3676,7 +3691,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[火焰]] — flame, blaze
 - [[烈火]] — raging inferno, blaze
 
-## Emotions (104)
+## Emotions (105)
 
 - [[不安]] — anxiety, unease, insecurity
 - [[不幸]] — unfortunate, sad, unhappy
@@ -3782,8 +3797,9 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[痛哭]] — to wail, to cry bitterly, to weep aloud
 - [[孤独]] — lonely, solitary
 - [[焦思]] — worry, deliberate anxiously
+- [[仰望]] — look up to
 
-## Events (55)
+## Events (56)
 
 - [[主題]] — topic, theme, subject, motif
 - [[事件]] — event, incident, occurrence
@@ -3840,8 +3856,9 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[慶]] — congratulate, celebrate
 - [[祝賀]] — congratulate
 - [[中止]] — to discontinue, to cancel, to call off
+- [[危机]] — crisis, critical juncture
 
-## Existence (152)
+## Existence (157)
 
 - [[䔥国]] — state of xiao
 - [[不可]] — cannot
@@ -3995,8 +4012,13 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[相対]] — relative, opposite, relativity
 - [[普遍]] — universal, general, widespread
 - [[存在]] — survive, exist
+- [[原始]] — primitive, original
+- [[幸運]] — lucky, fortunate
+- [[固有]] — proper
+- [[一般]] — average, common, general, ordinary
+- [[同一]] — same, identical
 
-## Food (112)
+## Food (113)
 
 - [[乾酪]] — cheese
 - [[井物]] — bowl of food
@@ -4110,8 +4132,9 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[菜蔬]] — vegetables, greens
 - [[菱]] — water chestnut
 - [[清淡]] — insipid, plain, dilute
+- [[果醤]] — jam, jelly, preserves
 
-## Geography (219)
+## Geography (222)
 
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
@@ -4332,8 +4355,11 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[英吉利]] — england (dated)
 - [[赤道]] — equator
 - [[列島]] — archipelago, chain of islands
+- [[港湾]] — harbor
+- [[羅馬]] — roman
+- [[獅子国]] — lion country, sri lanka (historical)
 
-## Government (105)
+## Government (110)
 
 - [[主従]] — master and servant, lord and retainer
 - [[主掌]] — to be in charge of, to administer
@@ -4440,8 +4466,13 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[抑止]] — repress, restrain
 - [[税金]] — duty, tax
 - [[伯爵]] — earl, count
+- [[会議]] — meeting, conference
+- [[将軍]] — shogun, supreme commander
+- [[首領]] — supreme leader, chief
+- [[主導]] — lead
+- [[統率]] — command, lead
 
-## Grammar (150)
+## Grammar (160)
 
 - [[不亦V乎]] — <circumfix for rhetorical qs>
 - [[与格]] — dative case
@@ -4593,8 +4624,18 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[注音]] — zhuyin, bopomofo, phonetic notation
 - [[部首]] — radical
 - [[皆人]] — everyone, all people
+- [[但]] — but, however, yet, only
+- [[名称]] — appellation, name, title
+- [[段]] — segments, sections, passages
+- [[口語]] — colloquial language, spoken language
+- [[向]] — toward, -ward
+- [[皆事]] — everything, every act, all matters
+- [[皆物]] — everything, every object, all things
+- [[符号]] — symbol, mark, sign
+- [[表記]] — notation, orthography, written representation
+- [[過]] — than, too
 
-## Kinship (61)
+## Kinship (62)
 
 - [[丈人]] — father-in-law, wife's father
 - [[丈夫]] — husband
@@ -4657,8 +4698,9 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[養育]] — foster, raise
 - [[孝弟]] — filial piety and fraternal duty
 - [[孝道]] — filial piety, filial duty
+- [[嫁娶]] — marriage, wedding, marrying and being given in marriage
 
-## Knowledge (60)
+## Knowledge (70)
 
 - [[上知]] — those wise from birth, innate wisdom
 - [[了解]] — understand, comprehend, learn
@@ -4720,8 +4762,18 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[問題]] — question, problem
 - [[根拠]] — be according to, be based on
 - [[高考]] — higher exam
+- [[大学]] — university (abbreviated, used in institution names), great learning (confucian classic; see book translation)
+- [[正確]] — accurate, correct, proper
+- [[経]] — classic, channel, warp
+- [[口訣]] — mnemonic formula, secret oral formula
+- [[大綱]] — outline, general framework, main points
+- [[明白]] — clear, obvious, evident
+- [[明瞭]] — apparent, clear
+- [[瞭然]] — clear, evident
+- [[調査]] — look into, investigate
+- [[道理]] — logic, method, way, principle
 
-## Law (29)
+## Law (34)
 
 - [[不許]] — forbid
 - [[処分]] — punish, discipline
@@ -4752,6 +4804,11 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[循]] — to abide by, to follow, to comply with
 - [[誅殺]] — execute, kill
 - [[盲従]] — blind obedience, to follow blindly
+- [[治安]] — public order, public security, law and order
+- [[秩序]] — law and order, regularity
+- [[禁書]] — banned book, proscribed text
+- [[控訴]] — formally complain regarding, file charges against
+- [[訴訟]] — sue, file a lawsuit
 
 ## Life (20)
 
@@ -4852,67 +4909,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[容量]] — volume, capacity
 - [[指標]] — indicator, index, benchmark, metric
 
-## Metals (57)
-
-- [[一瞥]] — glance, quick look
-- [[一般]] — average, common, general, ordinary
-- [[主導]] — lead
-- [[仰望]] — look up to
-- [[保持]] — keep, maintain, conserve
-- [[修道]] — spiritual discipline, cultivation of the way
-- [[偏重]] — to overemphasize, to lean too heavily toward, bias
-- [[充当]] — to allocate, to assign, to apply (funds) toward
-- [[化学肥料]] — chemical fertilizer
-- [[厉]] — whetstone
-- [[口訣]] — mnemonic formula, secret oral formula
-- [[口語]] — colloquial language, spoken language
-- [[同一]] — same, identical
-- [[向]] — toward, -ward
-- [[呆]] — confused
-- [[大綱]] — outline, general framework, main points
-- [[密陀僧]] — litharge, lead monoxide
-- [[寒蝉]] — winter cicada, one who dares not speak (figurative)
-- [[延長]] — extend, prolong, extension
-- [[引入]] — lead into, introduce to
-- [[控訴]] — formally complain regarding, file charges against
-- [[明白]] — clear, obvious, evident
-- [[明瞭]] — apparent, clear
-- [[果醤]] — jam, jelly, preserves
-- [[標識]] — sign, mark, symbol
-- [[混乱]] — chaotic, confused, riotous
-- [[清澈]] — clear, limpid
-- [[澄清]] — clear, pure
-- [[率先]] — take the lead, be the first to act
-- [[皆事]] — everything, every act, all matters
-- [[皆物]] — everything, every object, all things
-- [[瞭然]] — clear, evident
-- [[瞻仰]] — look up to with reverence, pay homage to
-- [[砥石]] — whetstone, grindstone
-- [[符号]] — symbol, mark, sign
-- [[糊塗]] — muddled, confused
-- [[統率]] — command, lead
-- [[維持]] — maintain, keep, uphold
-- [[花魁]] — oiran, leading courtesan
-- [[表記]] — notation, orthography, written representation
-- [[視]] — look at, inspect
-- [[訴訟]] — sue, file a lawsuit
-- [[調査]] — look into, investigate
-- [[論理]] — logic
-- [[貴重]] — precious, valuable
-- [[迷]] — be lost, be confused
-- [[過]] — than, too
-- [[道理]] — logic, method, way, principle
-- [[郭清]] — to purge, to clear away, surgical dissection
-- [[金剛石]] — diamond (mineral)
-- [[鈬]] — bronze bell
-- [[鉄板]] — iron grill
-- [[鉱物]] — mineral
-- [[陪]] — accompany, be with, keep company
-- [[顔色]] — complexion, expression, appearance, look
-- [[軽金属]] — light metal, light metals
-- [[鋳造]] — casting, cast metal
-
-## Mind (17)
+## Mind (23)
 
 - [[不信]] — not believe, mistrust
 - [[奇想]] — fanciful notion, strange idea
@@ -4931,8 +4928,14 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
 - [[記憶]] — remember, recollect
 - [[慧]] — bright, intelligent
+- [[偏重]] — to overemphasize, to lean too heavily toward, bias
+- [[呆]] — confused
+- [[混乱]] — chaotic, confused, riotous
+- [[糊塗]] — muddled, confused
+- [[論理]] — logic
+- [[迷]] — be lost, be confused
 
-## Movement (48)
+## Movement (49)
 
 - [[下降]] — descend, fall
 - [[促]] — hurry, rush, hasten
@@ -4982,6 +4985,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[交通]] — traffic, transportation
 - [[撞]] — hit, bump, collide
 - [[追随]] — follow, pursue
+- [[通過]] — pass
 
 ## Nature (7)
 
@@ -4992,39 +4996,6 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[気象]] — weather, meteorology
 - [[暑]] — hot (weather)
 - [[晴朗]] — clear, serene, bright, sunny
-
-## Numbers (30)
-
-- [[七万]] — seventy thousand
-- [[七千]] — seven thousand
-- [[七百]] — seven hundred
-- [[三角法]] — trigonometry
-- [[乗法]] — multiplication, the multiplication operation
-- [[九九]] — times table, multiplication table
-- [[九数]] — the nine numbers, the nine mathematical arts
-- [[二万]] — twenty thousand, 20000
-- [[二百]] — two hundred, 200
-- [[人数]] — number of people, headcount
-- [[八千]] — eight thousand, 8,000
-- [[八百]] — eight hundred
-- [[分]] — divide
-- [[割]] — cut, divide, separate
-- [[加法]] — addition
-- [[参拾]] — thirty (anti-forgery numeral)
-- [[号線]] — line number
-- [[数万]] — tens of thousands
-- [[数詞]] — numeral, number word
-- [[極限]] — limit (mathematics)
-- [[正弦波]] — sine wave, sinusoid
-- [[減法]] — subtraction
-- [[番号]] — number, code
-- [[百]] — hundred
-- [[百分率]] — percentage, per-cent rate
-- [[算術]] — arithmetic
-- [[素数]] — prime number
-- [[肆拾]] — forty (anti-forgery numeral)
-- [[計数]] — count, tally
-- [[離心率]] — eccentricity (math)
 
 ## Periodic Table (66)
 
@@ -5131,7 +5102,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (25)
+## Plants (26)
 
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
@@ -5158,6 +5129,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[壌土]] — loam, loamy soil
 - [[藍木]] — indigo, anil
 - [[蓼藍]] — japanese indigo
+- [[化学肥料]] — chemical fertilizer
 
 ## Possession (3)
 
@@ -5165,7 +5137,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[財産]] — property, wealth
 - [[共有]] — share
 
-## Religion (28)
+## Religion (33)
 
 - [[佛]] — buddha
 - [[佛教]] — buddhism
@@ -5195,8 +5167,16 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[神道]] — natural law
 - [[方便]] — suitable; convenient (mandarin/cantonese, everyday adjective), expedient means; makeshift solution; upāya (korean/japanese, noun — see note), means; tool; vehicle (vietnamese — see note)
 - [[枢机卿]] — cardinal
+- [[天道]] — law of nature, god of heaven
+- [[太極]] — supreme ultimate
+- [[経典]] — scripture, book, classic, sutra
+- [[修道]] — spiritual discipline, cultivation of the way
+- [[瞻仰]] — look up to with reverence, pay homage to
 
-## Sensation (12)
+## Reproduction (0)
+
+
+## Sensation (14)
 
 - [[味覚]] — sense of taste
 - [[嗅覚]] — sense of smell
@@ -5210,6 +5190,8 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[芬芳]] — fragrant, aromatic
 - [[芳香]] — fragrant, aromatic, perfumed
 - [[薫]] — fragrant, incense
+- [[一瞥]] — glance, quick look
+- [[視]] — look at, inspect
 
 ## Sex (13)
 
@@ -5244,7 +5226,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[球]] — sphere, ball
 - [[球体]] — sphere
 
-## Sin (19)
+## Sin (22)
 
 - [[倫理]] — ethic, morality
 - [[僕射]] — vice director
@@ -5265,8 +5247,11 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[厳然]] — solemn, dignified
 - [[懇切]] — sincere, earnest
 - [[明徳]] — bright virtue, show virtue
+- [[仁徳]] — benevolence, goodness
+- [[慈善]] — charity, benevolence
+- [[正大]] — proper, legitimate, honest
 
-## Society (28)
+## Society (31)
 
 - [[伝統]] — tradition, custom
 - [[公民]] — citizen, civics
@@ -5296,8 +5281,11 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[交友]] — make friends
 - [[加入]] — add in, joining
 - [[同等]] — equal, equivalent, of the same rank
+- [[文化圏]] — cultural sphere
+- [[花魁]] — oiran, leading courtesan
+- [[陪]] — accompany, be with, keep company
 
-## Speech (54)
+## Speech (58)
 
 - [[䋇]] — unravel, explain
 - [[世界語]] — universal language
@@ -5353,6 +5341,10 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[論争]] — argument, controversy, contention
 - [[講演]] — lecture, give a speech
 - [[黙黙]] — silently, quietly, without a word
+- [[暗示]] — suggest, hint
+- [[標誌]] — symbolize, mark, indicate
+- [[引入]] — lead into, introduce to
+- [[標識]] — sign, mark, symbol
 
 ## Substances (25)
 
@@ -5382,7 +5374,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[玉]] — jade
 - [[溶液]] — solution (chemistry)
 
-## Time (27)
+## Time (28)
 
 - [[一斉]] — simultaneous
 - [[一瞬]] — wink, instant, twinkling
@@ -5411,8 +5403,9 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[過去]] — past
 - [[間或]] — sometimes, occasionally, now and then
 - [[竟]] — finally, after all, at last
+- [[迅速]] — rapid, swift, prompt
 
-## Tools (16)
+## Tools (18)
 
 - [[固執]] — stubborn, stick to
 - [[工具]] — tool, instrument, implement
@@ -5430,8 +5423,10 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[鋸]] — saw
 - [[鈍]] — dull, not sharp
 - [[鎖]] — chain
+- [[厉]] — whetstone
+- [[砥石]] — whetstone, grindstone
 
-## Trade (33)
+## Trade (35)
 
 - [[価格]] — price
 - [[便]] — cheap
@@ -5466,8 +5461,10 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[発財]] — make a fortune
 - [[融資]] — pay by loan, finance
 - [[貸出]] — lend, loan
+- [[償還]] — repayment, restitution, compensation
+- [[充当]] — to allocate, to assign, to apply (funds) toward
 
-## Valuation (46)
+## Valuation (47)
 
 - [[価値]] — worth, value
 - [[大器]] — treasure
@@ -5515,6 +5512,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[奨励]] — encouragement, incentive, to award and exhort
 - [[賞]] — reward
 - [[燦乱]] — resplendent, bright, glittering, gorgeous
+- [[貴重]] — precious, valuable
 
 ## War (24)
 
@@ -5543,7 +5541,7 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Water (52)
+## Water (54)
 
 - [[乗船]] — board a ship, embark
 - [[乾浄]] — clean, neat, tidy
@@ -5597,6 +5595,8 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[漏]] — leak
 - [[漏洩]] — leak, disclosure
 - [[潮汐]] — tide, tidal phenomenon
+- [[清澈]] — clear, limpid
+- [[澄清]] — clear, pure
 
 ## Work (28)
 
@@ -5628,92 +5628,6 @@ Rough, unpolished working list — 5491 of 6035 word files currently have zero `
 - [[週番]] — weekly duty
 - [[分掌]] — to divide work duties, division of responsibilities
 - [[副業]] — side job, second job
-
-## 基督敎 (83)
-
-- [[三位一体]] — trinity
-- [[上帝]] — shangdi, god
-- [[主教]] — bishop, overseer
-- [[仁徳]] — benevolence, goodness
-- [[会堂]] — meeting hall, church
-- [[会議]] — meeting, conference
-- [[但]] — but, however, yet, only
-- [[使徒]] — apostle
-- [[信奉]] — believe in, have faith in
-- [[修道院]] — monastery, abbey, convent
-- [[偕者]] — lord, yahweh
-- [[償還]] — repayment, restitution, compensation
-- [[出谷記]] — exodus
-- [[創世記]] — genesis, moses 1
-- [[危机]] — crisis, critical juncture
-- [[原始]] — primitive, original
-- [[原罪]] — original sin
-- [[司鈬]] — priest (catholic)
-- [[名称]] — appellation, name, title
-- [[君士坦丁堡]] — constantinople
-- [[固有]] — proper
-- [[基督]] — christ
-- [[堕天使]] — fallen angel, lucifer
-- [[大主教]] — archbishop
-- [[大学]] — university (abbreviated, used in institution names), great learning (confucian classic; see book translation)
-- [[大教堂]] — cathedral
-- [[天主]] — god, supreme deity
-- [[天道]] — law of nature, god of heaven
-- [[太極]] — supreme ultimate
-- [[妖怪]] — devil, goblin
-- [[妥当]] — appropriate, proper
-- [[嫁娶]] — marriage, wedding, marrying and being given in marriage
-- [[宗徒]] — apostle (roman catholic)
-- [[将軍]] — shogun, supreme commander
-- [[尼西亜]] — nicaea, nicea
-- [[崇拝]] — worship, adore
-- [[幸運]] — lucky, fortunate
-- [[復活節]] — easter
-- [[恩典]] — grace, divine grace
-- [[恩寵]] — favor, divine favor, god's special regard
-- [[恩徳]] — benevolence
-- [[恩恵]] — blessing
-- [[恩情]] — kindness, affection, grace, favor
-- [[恩施]] — to bestow grace, to bestow blessings
-- [[悪鬼]] — evil spirit, devil
-- [[悪魔]] — devil
-- [[慈善]] — charity, benevolence
-- [[救偕]] — jesus
-- [[救贖]] — redemption, atonement
-- [[教堂]] — church, chapel
-- [[教皇]] — pope
-- [[文化圏]] — cultural sphere
-- [[暗示]] — suggest, hint
-- [[標誌]] — symbolize, mark, indicate
-- [[正大]] — proper, legitimate, honest
-- [[正確]] — accurate, correct, proper
-- [[段]] — segments, sections, passages
-- [[治安]] — public order, public security, law and order
-- [[洗礼]] — baptism
-- [[港湾]] — harbor
-- [[牧]] — shepherd
-- [[犠牲]] — sacrifice, victim
-- [[獅子]] — lion, bodhisattva
-- [[獅子国]] — lion country, sri lanka (historical)
-- [[礼拝]] — worship service, religious worship
-- [[神父]] — father, priest (eastern orthodox)
-- [[禁書]] — banned book, proscribed text
-- [[秩序]] — law and order, regularity
-- [[経]] — classic, channel, warp
-- [[経典]] — scripture, book, classic, sutra
-- [[総主教]] — primate, chief archbishop
-- [[羅馬]] — roman
-- [[聖礼]] — sacrament
-- [[聖誕節]] — christmas
-- [[聖餐]] — communion, the eucharist, the lord's supper
-- [[行伝]] — acts (biblical book); record of deeds
-- [[諡号]] — posthumous name, honorary posthumous title
-- [[迅速]] — rapid, swift, prompt
-- [[迦克敦]] — chalcedon
-- [[通過]] — pass
-- [[霊長類]] — primate
-- [[首領]] — supreme leader, chief
-- [[魑魅]] — evil spirit, dryad, demon
 
 ## 歴史綱要 (4)
 

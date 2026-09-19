@@ -6,7 +6,7 @@ related_domains:
   - "[[Periodic Table]]"
   - "[[Color]]"
 status: complete
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-09-19
 ---
 
 # Metals
@@ -21,6 +21,8 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 - <ruby>[金属](../words/金属.md)<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby>: metal (general).
 - <ruby>[銅](../words/銅.md)<rt>ㄉㄛㄫ</rt></ruby>: copper.
 - <ruby>[鉛](../words/鉛.md)<rt>⼶ㄋ</rt></ruby>: lead.
+  - **Note**: [[密陀僧]] ("litharge," lead monoxide) is a real lead compound, historically important as a traditional pigment and glaze ingredient.
+- <ruby>[鉱物](../words/鉱物.md)<rt>ㄍ⺢ㄫㄇㄨㄊ</rt></ruby>: mineral (general) — contrast [[鉱石]] below, "ore" specifically.
 
 ## Intermediate (B1–B2)
 
@@ -29,6 +31,7 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 - <ruby>[鋼鉄](../words/鋼鉄.md)<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby>: steel.
 - <ruby>[朱錫](../words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: tin.
 - <ruby>[白金](../words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>: platinum.
+- <ruby>[金剛石](../words/金剛石.md)<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby>: diamond — a mineral rather than a metal proper, but grouped here with the other precious materials.
 
 ### Alloys & Related Metals
 
@@ -40,6 +43,7 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 - <ruby>[水銀](../words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>: mercury, quicksilver.
 - <ruby>[軽銀](../words/軽銀.md)<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby>: aluminum.
   - **Etymology**: literally "light silver" — see Semantic Range Notes below.
+- <ruby>[軽金属](../words/軽金属.md)<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby>: light metal(s) — the formal materials-science category (density under ~5 g/cm³: aluminum, magnesium, titanium, beryllium), distinct from [[軽銀]]'s specific, colloquial "aluminum."
 - <ruby>[魔銅](../words/魔銅.md)<rt>ㄇㄚㄉㄛㄫ</rt></ruby>: nickel.
 - <ruby>[狼金](../words/狼金.md)<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby>: tungsten.
 
@@ -53,9 +57,12 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
   - **Note**: distinct from [[鍛錬]] above — see Semantic Range Notes.
 - <ruby>[冶錬](../words/冶錬.md)<rt>⼘ㄌㄝㄋ</rt></ruby>: to smelt (v.).
 - <ruby>[鉄砧](../words/鉄砧.md)<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby>: anvil.
+- <ruby>[鋳造](../words/鋳造.md)<rt>ㄐㄨㄑㄚㄨ</rt></ruby>: casting, to cast metal.
 - <ruby>[合金](../words/合金.md)<rt>ㄍㄛㄆㄍㄧㄇ</rt></ruby>: alloy.
 - <ruby>[鉱石](../words/鉱石.md)<rt>ㄍ⺢ㄫㄙㄝㄎ</rt></ruby>: ore, mineral.
 - <ruby>[銹](../words/銹.md)<rt>ㄙ⼜</rt></ruby>: rust.
+- <ruby>[鉄板](../words/鉄板.md)<rt>ㄊㄝㄊㄆㄚㄋ</rt></ruby>: an iron grill/plate — a common everyday object made of [[鉄]].
+- <ruby>[鈬](../words/鈬.md)<rt>ㄉㄚㄎ</rt></ruby>: a bronze bell — a common everyday object made of [[青銅]].
 
 ## Semantic Range Notes
 
