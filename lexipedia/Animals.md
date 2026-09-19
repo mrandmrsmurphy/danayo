@@ -72,6 +72,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey.
 - <ruby>[蚊](../words/蚊.md)<rt>ㄇㄨㄋ</rt></ruby>: mosquito, gnat.
 - <ruby>[蝉](../words/蝉.md)<rt>ㄙㄝㄋ</rt></ruby>: cicada.
+- <ruby>[寒蝉](../words/寒蝉.md)<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby>: winter cicada — also used figuratively for someone who dares not speak (a winter cicada being unusual/silent out of season).
 - <ruby>[蜘蛛](../words/蜘蛛.md)<rt>ㄐㄧㄐㄨ</rt></ruby>: spider — an arachnid, not an insect, but grouped with this set in ordinary usage rather than with reptiles/fish below.
 - <ruby>[螳螂](../words/螳螂.md)<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby>: mantis.
 - <ruby>[胡蝶](../words/胡蝶.md)<rt>ㄏㄛㄨㄉㄝㄆ</rt></ruby>: butterfly — the stand-in compound that legitimizes the bound character 蝶.
@@ -100,6 +101,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 ### Large & Notable Wild Mammals
 
 - <ruby>[虎](../words/虎.md)<rt>ㄏㄛ</rt></ruby>: tiger.
+- <ruby>[獅子](../words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>: lion — also carries a secondary "bodhisattva" sense in this vault's own data (the lion is a recurring Buddhist iconographic symbol, e.g. 獅子吼 "lion's roar" for the Buddha's teaching), and shares an alias, 僧伽羅, with [[獅子国]] ("lion country," Sri Lanka).
 - <ruby>[熊](../words/熊.md)<rt>ㄨㄫ</rt></ruby>: bear.
 - <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
@@ -156,13 +158,15 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[九尾狐](../words/九尾狐.md)<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby>: the nine-tailed fox — a shapeshifting spirit-fox found across Chinese, Japanese (kyūbi no kitsune), and Korean (kumiho) folklore, with a notably darker reputation in the Korean tradition than the Chinese or Japanese ones.
 - <ruby>[孫悟空](../words/孫悟空.md)<rt>ㄙㄛㄋ·ㄛㄎㄛㄫ</rt></ruby>: the Monkey King, the trickster protagonist of *Journey to the West*.
 - <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
-- <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit (妖怪-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
+- <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
+- <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
 - <ruby>[怪物](../words/怪物.md)<rt>ㄍ⺢ㄧㄇㄨㄊ</rt></ruby>: monster — an uncanny, mysterious figure; contrast 妖物 below.
 - <ruby>[妖物](../words/妖物.md)<rt>⼘ㄨㄇㄨㄊ</rt></ruby>: monster — specifically a bewitching, shapeshifting figure (see Semantic Range Notes).
 - <ruby>[魔鬼](../words/魔鬼.md)<rt>ㄇㄚㄍㄨㄧ</rt></ruby>: monster, demon.
 - <ruby>[怪獣](../words/怪獣.md)<rt>ㄍ⺢ㄧㄙ⼜</rt></ruby>: a titan or giant monster, in the modern *kaiju*-film sense.
 - <ruby>[罔両](../words/罔両.md)<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby>: demons and monsters, especially those haunting seas or rivers.
+- <ruby>[魑魅](../words/魑魅.md)<rt>ㄑㄧㄇㄧㄜ</rt></ruby>: evil mountain and forest spirits, dryad-like demons — the mountain/forest counterpart to 罔両's water-haunting spirits.
 - <ruby>[吸血鬼](../words/吸血鬼.md)<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby>: vampire — literally "blood-sucking demon," a real, already-attested Sino-Xenic calque used across Chinese, Japanese, and Korean for the *translated* Western figure, not a Dan'a'yo coinage from scratch (see Semantic Range Notes below on how this differs from the "no fantasy coinages" rule).
 - <ruby>[僵死](../words/僵死.md)<rt>ㄍ⼘ㄫㄙㄧㄜ</rt></ruby>: jiangshi, the reanimated "hopping corpse" of Chinese folklore — a genuinely East Asian creature, not the Western zombie, despite the English gloss's shorthand.
 
@@ -192,6 +196,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[種階](../words/種階.md)<rt>ㄐㄛㄫㄍ⼶ㄧ</rt></ruby>: species (the fundamental/lowest standard rank).
 
 Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [[目]] was already taken by "eye."
+
+A concrete worked example of [[目階]] ("order") in use: <ruby>[霊長類](../words/霊長類.md)<rt>ㄌㄝㄫㄐㄚㄫㄌㄨㄧ</rt></ruby>, "primate," names the real biological order humans, monkeys, and apes belong to — the taxonomic rank word plus this real order-name together demonstrate the full [[目階]] system, not just an abstract disambiguation exercise.
 
 ### The Three Domains of Life
 

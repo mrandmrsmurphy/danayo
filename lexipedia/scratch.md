@@ -1,68 +1,64 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 5409 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Rough, unpolished working list — 5278 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
 
-**2026-09-19, Metals cleanup**: audited by hand (57 words) — matched the user's read that almost none were real. Only 7 were genuine: 密陀僧 (litharge), 金剛石 (diamond), 鈬 (bronze bell), 鉄板 (iron grill), 鉱物 (mineral, general), 軽金属 (light metals, the materials-science category — distinct from [[軽銀]]'s specific "aluminum"), and 鋳造 (casting), all written into `lexipedia/Metals.md` and backlinked. The other 50 were almost entirely false positives from the homograph "lead" (主導/統率/率先/引入 "to lead/take initiative," not the metal) and "clear" (明白/明瞭/瞭然/清澈/澄清/郭清 "clear, evident," not metal-clarity) — reassigned to Government, Efforts, Speech, Knowledge, Water, Body, Mind, and a scatter of other real homes.
+**2026-09-19, Buildings — first raw Rosenfelder dump migration**: `lexipedia/Buildings.md` is one of the still-unmigrated flat Rosenfelder lists, not yet held to the tiered-domain checklist. Slotted 55 words directly into the page's own existing bare-English placeholders (office → 事務所, warehouse → 倉庫, school → 学校, etc.), fixed the page's pervasive leading-slash `/words/...` path bug and its inconsistent wikilink-with-romanization entries (street/tunnel/village/church/door/stair), and added one genuine building concept the page never had a slot for at all: 要塞 ("fortress"), as a new bottom section. All 69 words on the page now backlink correctly. The other ~90 words in the original 147-item bucket were either real non-Buildings words (令圄→Unsorted since no clean alternate fit, 内閣/在位/自治→Government, 学科/右学/左学→Knowledge, 岸/灘→Water, 紫禁城/首都/京城→Geography, etc.) or genuine building words that duplicate an already-slotted synonym (e.g. 局/辦公室 both also mean "office," already filled by 事務所/官庁) — not forced onto the page, left in Unsorted instead per "if it shouldn't be there, don't move it."
 
 ## Counts
 
-- **Unsorted**: 2382
-- **Animals**: 5
-- **Art**: 117
+- **Unsorted**: 2408
+- **Art**: 118
 - **Astronomy**: 189
 - **Body**: 194
-- **Buildings**: 147
 - **Calendar**: 138
-- **Clothing**: 41
-- **Color**: 0
+- **Clothing**: 42
 - **Conflict**: 95
 - **Containers**: 57
 - **Dimensions**: 95
 - **Directions**: 58
-- **Efforts**: 50
+- **Efforts**: 53
 - **Elements**: 16
 - **Emotions**: 105
 - **Events**: 56
-- **Existence**: 157
+- **Existence**: 164
 - **Food**: 113
-- **Geography**: 222
-- **Government**: 110
-- **Grammar**: 160
-- **Kinship**: 62
-- **Knowledge**: 70
-- **Law**: 34
+- **Geography**: 230
+- **Government**: 118
+- **Grammar**: 161
+- **Kinship**: 64
+- **Knowledge**: 82
+- **Law**: 36
 - **Life**: 20
 - **Light**: 32
 - **Locatives**: 15
 - **Love**: 6
 - **Measurement**: 11
 - **Mind**: 23
-- **Movement**: 49
+- **Movement**: 52
 - **Nature**: 7
-- **Periodic Table**: 66
+- **Numbers**: 1
 - **Physical**: 11
 - **Physics**: 19
-- **Plants**: 26
+- **Plants**: 27
 - **Possession**: 3
-- **Religion**: 33
-- **Reproduction**: 0
+- **Religion**: 35
 - **Sensation**: 14
 - **Sex**: 13
 - **Shape**: 14
 - **Sin**: 22
-- **Society**: 31
-- **Speech**: 58
+- **Society**: 33
+- **Speech**: 59
 - **Substances**: 25
 - **Time**: 28
-- **Tools**: 18
-- **Trade**: 35
+- **Tools**: 19
+- **Trade**: 36
 - **Valuation**: 47
 - **War**: 24
-- **Water**: 54
+- **Water**: 58
 - **Work**: 28
 - **歴史綱要**: 4
 
-## Unsorted (2382)
+## Unsorted (2408)
 
 - [[一兆]] — one trillion
 - [[一端]] — one aspect, competent
@@ -2446,16 +2442,34 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[妥当]] — appropriate, proper
 - [[保持]] — keep, maintain, conserve
 - [[維持]] — maintain, keep, uphold
+- [[主頁]] — main page, homepage
+- [[複写]] — photocopy, carbon copy, duplicate
+- [[会社員]] — office worker
+- [[令圄]] — prison
+- [[別荘]] — villa, village
+- [[坐席]] — seat, mat
+- [[垣]] — low wall, enclosure
+- [[城郭]] — castle walls, city walls
+- [[堡塁]] — fortress, stronghold
+- [[大廈]] — mansion, large building, skyscraper
+- [[局]] — office
+- [[屏風]] — folding screen, decorative room divider
+- [[屯]] — village, hamlet, camp, station
+- [[扉]] — front door, cover
+- [[拠点]] — base, foothold
+- [[暖簾]] — noren (japanese shop curtain), hanging curtain (in storefront)
+- [[楼閣]] — multistory pavilion, tower building
+- [[橋梁]] — beam, bridge
+- [[湯池]] — city moat, hot springs (literary)
+- [[穀倉]] — barn, granary
+- [[閻]] — village gate
+- [[辦公室]] — office
+- [[庵子]] — greenhouse, monastery
+- [[柱]] — pillar
+- [[柵]] — fence
+- [[校舎]] — school building, school house
 
-## Animals (5)
-
-- [[妖怪]] — devil, goblin
-- [[霊長類]] — primate
-- [[魑魅]] — evil spirit, dryad, demon
-- [[獅子]] — lion, bodhisattva
-- [[寒蝉]] — winter cicada, one who dares not speak (figurative)
-
-## Art (117)
+## Art (118)
 
 - [[偶像]] — idol, statue
 - [[公尺]] — meter, metre
@@ -2574,6 +2588,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[横幅]] — banner, horizontal scroll
 - [[軽歌劇]] — operetta, light opera
 - [[演出]] — perform; put on (a show); performance (mandarin/cantonese), direct, stage-direct; the creative act of staging a production (japanese えんしゅつ — see note)
+- [[木版]] — printing block
 
 ## Astronomy (189)
 
@@ -2964,156 +2979,6 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[郭清]] — to purge, to clear away, surgical dissection
 - [[顔色]] — complexion, expression, appearance, look
 
-## Buildings (147)
-
-- [[中庭]] — courtyard, inner garden, atrium
-- [[事務所]] — office building, firm, agency
-- [[京城]] — capital city, metropolis
-- [[令圄]] — prison
-- [[会社員]] — office worker
-- [[倉庫]] — warehouse, storehouse
-- [[公園]] — park
-- [[兵站]] — depot, station
-- [[内閣]] — cabinet (government)
-- [[冷蔵庫]] — refrigerator, freezer
-- [[凱旋門]] — triumphal arch, in particular, the arc de triomphe in paris
-- [[別荘]] — villa, village
-- [[厠所]] — toilet, bathroom
-- [[厨房]] — kitchen
-- [[参入]] — enter, join, market entry
-- [[参拝]] — visit temple, pay respects at a shrine
-- [[台球]] — billiards, pool
-- [[右学]] — the right school
-- [[商店]] — shop, store
-- [[回廊]] — corridor, cloister
-- [[図書館]] — library, book house
-- [[在位]] — to reign, to be in office
-- [[坐位]] — seat
-- [[坐席]] — seat, mat
-- [[垣]] — low wall, enclosure
-- [[城市]] — walled city
-- [[城郭]] — castle walls, city walls
-- [[基盤]] — foundation
-- [[基礎]] — foundation
-- [[堡塁]] — fortress, stronghold
-- [[墓地]] — cemetery, graveyard
-- [[壁]] — wall
-- [[大学校]] — university, college
-- [[大廈]] — mansion, large building, skyscraper
-- [[大門]] — gate, entrance
-- [[学区]] — school district
-- [[学校]] — school
-- [[学科]] — section, subject, department, major
-- [[学院]] — institute, academy
-- [[安定]] — stable, settled
-- [[官庁]] — government office, government agency
-- [[宮廷]] — royal court, palace
-- [[宮殿]] — palace
-- [[家具]] — furniture
-- [[小学校]] — elementary school, primary school
-- [[局]] — office
-- [[屏風]] — folding screen, decorative room divider
-- [[屯]] — village, hamlet, camp, station
-- [[岐]] — fork (in road)
-- [[岸]] — bank, shore
-- [[工場]] — workplace, factory, shop
-- [[左学]] — the left school
-- [[巫女]] — shrine maiden, miko, shamaness
-- [[市場]] — market, bazaar
-- [[幕]] — curtain
-- [[幼稚園]] — kindergarten, nursery school
-- [[広場]] — plaza, square
-- [[庇護]] — protect, shelter
-- [[床]] — bed, couch, chassis, frame
-- [[庭園]] — garden
-- [[庵子]] — greenhouse, monastery
-- [[廃黜]] — depose, dethrone, dismiss from office
-- [[廬舎]] — hut, cottage, thatched dwelling
-- [[房]] — room
-- [[房室]] — house, room, apartment
-- [[扉]] — front door, cover
-- [[拱]] — arch
-- [[援交]] — school girl prostitution
-- [[放送局]] — broadcast station, broadcasting company
-- [[政府]] — government
-- [[教会]] — church
-- [[文廟]] — confucian temple
-- [[暖簾]] — noren (japanese shop curtain), hanging curtain (in storefront)
-- [[書房]] — study (room), library
-- [[書院]] — academy
-- [[望楼]] — watchtower, lookout tower
-- [[木版]] — printing block
-- [[本]] — foundation
-- [[村塾]] — village school, rural private school
-- [[枕頭]] — pillow
-- [[柱]] — pillar
-- [[柵]] — fence
-- [[校内]] — on-campus, school interior
-- [[校区]] — school district
-- [[校舎]] — school building, school house
-- [[校門]] — school gate
-- [[根本]] — basis, foundation, base
-- [[桌]] — table, desk, stand
-- [[桌球]] — table tennis, ping pong
-- [[棚]] — shelf
-- [[椅子]] — chair, stool
-- [[楼閣]] — multistory pavilion, tower building
-- [[橋]] — bridge
-- [[橋梁]] — beam, bridge
-- [[池]] — pond, reservoir
-- [[沈没]] — to sink, to founder, sinking
-- [[没]] — drown, sink
-- [[浴槽]] — bathtub, bath
-- [[湯池]] — city moat, hot springs (literary)
-- [[灘]] — bank, shoal
-- [[病院]] — hospital
-- [[省]] — government ministry
-- [[矩]] — moment (physics), carpenter's square, quadrature
-- [[私塾]] — private school, cram school
-- [[穀倉]] — barn, granary
-- [[空港]] — airport
-- [[窓口]] — window
-- [[競走]] — race
-- [[精舎]] — vihara, shrine, retreat
-- [[紫禁城]] — the forbidden city, the imperial palace complex in beijing
-- [[聚落]] — settlement, village
-- [[自乗]] — squaring, to square (a number)
-- [[自治]] — autonomy, self-government
-- [[蚕箔]] — bamboo tray, sheet
-- [[街区]] — city block
-- [[街道]] — street, road
-- [[要塞]] — fortress, stronghold
-- [[軌]] — track, path, rut
-- [[辞任]] — resign from office
-- [[辦公室]] — office
-- [[農村]] — village, farming village
-- [[近処]] — vicinity, neighborhood
-- [[部署]] — government office, department
-- [[都市]] — city, metropolis
-- [[里]] — village
-- [[金城]] — impenetrable city, jincheng
-- [[鉄道]] — railroad
-- [[銀行]] — bank
-- [[錦繍]] — brocade, tapestry
-- [[門戸]] — door
-- [[閻]] — village gate
-- [[阻止]] — thwart, block, impede
-- [[阻碍]] — obstruct, hinder, block
-- [[隣]] — neighboring, next door
-- [[隣人]] — neighbor, neighborhood
-- [[韻図]] — rime table
-- [[食堂]] — restaurant
-- [[飯店]] — restaurant, hotel
-- [[首都]] — capital city
-- [[香芝]] — kashiba (city in nara prefecture, japan)
-- [[馬厩]] — stable
-- [[駅]] — station
-- [[高校]] — secondary school
-- [[龕]] — shrine, alcove
-- [[住宅]] — residence, dwelling
-- [[居所]] — residence, whereabouts
-- [[拠点]] — base, foothold
-
 ## Calendar (138)
 
 - [[一半]] — one half
@@ -3255,7 +3120,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[黄泉]] — underground spring, underworld
 - [[諡号]] — posthumous name, honorary posthumous title
 
-## Clothing (41)
+## Clothing (42)
 
 - [[亜麻布]] — linen
 - [[包装]] — wrap, package
@@ -3298,9 +3163,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[口紅]] — lipstick
 - [[化粧]] — put on make-up
 - [[黼黻]] — ornate embroidered patterns
-
-## Color (0)
-
+- [[錦繍]] — brocade, tapestry
 
 ## Conflict (95)
 
@@ -3619,7 +3482,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[隅]] — nook, corner, side
 - [[韓国]] — korea, south korea
 
-## Efforts (50)
+## Efforts (53)
 
 - [[事故]] — accident
 - [[令]] — cause
@@ -3671,6 +3534,9 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[蹴球]] — football (ball or sport), soccer
 - [[鎧球]] — american football, gridiron football, football
 - [[率先]] — take the lead, be the first to act
+- [[桌球]] — table tennis, ping pong
+- [[台球]] — billiards, pool
+- [[競走]] — race
 
 ## Elements (16)
 
@@ -3858,7 +3724,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[中止]] — to discontinue, to cancel, to call off
 - [[危机]] — crisis, critical juncture
 
-## Existence (157)
+## Existence (164)
 
 - [[䔥国]] — state of xiao
 - [[不可]] — cannot
@@ -4017,6 +3883,13 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[固有]] — proper
 - [[一般]] — average, common, general, ordinary
 - [[同一]] — same, identical
+- [[不用]] — not necessary, unused, useless
+- [[必要]] — necessary, essential
+- [[残]] — remaining, not broken off
+- [[安定]] — stable, settled
+- [[本]] — foundation
+- [[根本]] — basis, foundation, base
+- [[基盤]] — foundation
 
 ## Food (113)
 
@@ -4134,7 +4007,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[清淡]] — insipid, plain, dilute
 - [[果醤]] — jam, jelly, preserves
 
-## Geography (222)
+## Geography (230)
 
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
@@ -4358,8 +4231,16 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[港湾]] — harbor
 - [[羅馬]] — roman
 - [[獅子国]] — lion country, sri lanka (historical)
+- [[紫禁城]] — the forbidden city, the imperial palace complex in beijing
+- [[聚落]] — settlement, village
+- [[首都]] — capital city
+- [[京城]] — capital city, metropolis
+- [[香芝]] — kashiba (city in nara prefecture, japan)
+- [[城市]] — walled city
+- [[里]] — village
+- [[金城]] — impenetrable city, jincheng
 
-## Government (110)
+## Government (118)
 
 - [[主従]] — master and servant, lord and retainer
 - [[主掌]] — to be in charge of, to administer
@@ -4471,8 +4352,16 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[首領]] — supreme leader, chief
 - [[主導]] — lead
 - [[統率]] — command, lead
+- [[内閣]] — cabinet (government)
+- [[在位]] — to reign, to be in office
+- [[学区]] — school district
+- [[校区]] — school district
+- [[廃黜]] — depose, dethrone, dismiss from office
+- [[自治]] — autonomy, self-government
+- [[辞任]] — resign from office
+- [[部署]] — government office, department
 
-## Grammar (160)
+## Grammar (161)
 
 - [[不亦V乎]] — <circumfix for rhetorical qs>
 - [[与格]] — dative case
@@ -4634,8 +4523,9 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[符号]] — symbol, mark, sign
 - [[表記]] — notation, orthography, written representation
 - [[過]] — than, too
+- [[韻図]] — rime table
 
-## Kinship (62)
+## Kinship (64)
 
 - [[丈人]] — father-in-law, wife's father
 - [[丈夫]] — husband
@@ -4699,8 +4589,10 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[孝弟]] — filial piety and fraternal duty
 - [[孝道]] — filial piety, filial duty
 - [[嫁娶]] — marriage, wedding, marrying and being given in marriage
+- [[隣]] — neighboring, next door
+- [[隣人]] — neighbor, neighborhood
 
-## Knowledge (70)
+## Knowledge (82)
 
 - [[上知]] — those wise from birth, innate wisdom
 - [[了解]] — understand, comprehend, learn
@@ -4772,8 +4664,20 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[瞭然]] — clear, evident
 - [[調査]] — look into, investigate
 - [[道理]] — logic, method, way, principle
+- [[学科]] — section, subject, department, major
+- [[右学]] — the right school
+- [[左学]] — the left school
+- [[書房]] — study (room), library
+- [[書院]] — academy
+- [[村塾]] — village school, rural private school
+- [[私塾]] — private school, cram school
+- [[高校]] — secondary school
+- [[小学校]] — elementary school, primary school
+- [[幼稚園]] — kindergarten, nursery school
+- [[校内]] — on-campus, school interior
+- [[校門]] — school gate
 
-## Law (34)
+## Law (36)
 
 - [[不許]] — forbid
 - [[処分]] — punish, discipline
@@ -4809,6 +4713,8 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[禁書]] — banned book, proscribed text
 - [[控訴]] — formally complain regarding, file charges against
 - [[訴訟]] — sue, file a lawsuit
+- [[阻止]] — thwart, block, impede
+- [[阻碍]] — obstruct, hinder, block
 
 ## Life (20)
 
@@ -4935,7 +4841,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[論理]] — logic
 - [[迷]] — be lost, be confused
 
-## Movement (49)
+## Movement (52)
 
 - [[下降]] — descend, fall
 - [[促]] — hurry, rush, hasten
@@ -4986,6 +4892,9 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[撞]] — hit, bump, collide
 - [[追随]] — follow, pursue
 - [[通過]] — pass
+- [[岐]] — fork (in road)
+- [[軌]] — track, path, rut
+- [[鉄道]] — railroad
 
 ## Nature (7)
 
@@ -4997,74 +4906,9 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[暑]] — hot (weather)
 - [[晴朗]] — clear, serene, bright, sunny
 
-## Periodic Table (66)
+## Numbers (1)
 
-- [[不用]] — not necessary, unused, useless
-- [[主頁]] — main page, homepage
-- [[原子]] — atom
-- [[墨素]] — antimony
-- [[必要]] — necessary, essential
-- [[残]] — remaining, not broken off
-- [[渇金]] — tantalum
-- [[錀]] — roentgenium
-- [[錀琴]] — roentgen, röntgen
-- [[不穏素]] — astatine
-- [[丹金]] — hafnium
-- [[冥金]] — plutonium
-- [[嗅金]] — osmium
-- [[土素]] — tellurium
-- [[塩素]] — chlorine
-- [[孝金]] — niobium
-- [[孟金]] — manganese
-- [[射素]] — radon
-- [[巨金]] — titanium
-- [[康金]] — scandium
-- [[徳素]] — germanium
-- [[惰素]] — argon
-- [[放素]] — radium
-- [[晶金]] — zirconium
-- [[月素]] — selenium
-- [[沃素]] — iodine
-- [[法素]] — francium
-- [[波素]] — polonium
-- [[潜素]] — krypton
-- [[火紅素]] — strontium
-- [[炉甘金]] — cadmium
-- [[炭素]] — carbon
-- [[燐素]] — phosphorus
-- [[異素]] — xenon
-- [[石灰素]] — calcium
-- [[砒素]] — arsenic
-- [[硝石]] — saltpetre, potassium nitrate
-- [[硬金]] — molybdenum
-- [[穀金]] — cerium
-- [[緑柱素]] — beryllium
-- [[臭素]] — bromine
-- [[色金]] — chromium
-- [[苦土]] — magnesia, magnesium oxide
-- [[苦土素]] — magnesium
-- [[茜素]] — rubidium
-- [[莱金]] — rhenium
-- [[蒼鉛]] — bismuth
-- [[蕤素]] — thallium
-- [[薔薇金]] — rhodium
-- [[虹素]] — neon
-- [[蛍金]] — yttrium
-- [[複写]] — photocopy, carbon copy, duplicate
-- [[護金]] — palladium
-- [[造金]] — technetium
-- [[重素]] — barium
-- [[釩金]] — vanadium
-- [[鉀]] — potassium
-- [[隠金]] — lanthanum
-- [[雷金]] — thorium
-- [[霓金]] — iridium
-- [[露金]] — ruthenium
-- [[青素]] — cesium
-- [[高素]] — gallium
-- [[鬼金]] — cobalt
-- [[鹸素]] — sodium
-- [[元素]] — element
+- [[自乗]] — squaring, to square (a number)
 
 ## Physical (11)
 
@@ -5102,7 +4946,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (26)
+## Plants (27)
 
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
@@ -5130,6 +4974,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[藍木]] — indigo, anil
 - [[蓼藍]] — japanese indigo
 - [[化学肥料]] — chemical fertilizer
+- [[蚕箔]] — bamboo tray, sheet
 
 ## Possession (3)
 
@@ -5137,7 +4982,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[財産]] — property, wealth
 - [[共有]] — share
 
-## Religion (33)
+## Religion (35)
 
 - [[佛]] — buddha
 - [[佛教]] — buddhism
@@ -5172,9 +5017,8 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[経典]] — scripture, book, classic, sutra
 - [[修道]] — spiritual discipline, cultivation of the way
 - [[瞻仰]] — look up to with reverence, pay homage to
-
-## Reproduction (0)
-
+- [[参拝]] — visit temple, pay respects at a shrine
+- [[巫女]] — shrine maiden, miko, shamaness
 
 ## Sensation (14)
 
@@ -5251,7 +5095,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[慈善]] — charity, benevolence
 - [[正大]] — proper, legitimate, honest
 
-## Society (31)
+## Society (33)
 
 - [[伝統]] — tradition, custom
 - [[公民]] — citizen, civics
@@ -5284,8 +5128,10 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[文化圏]] — cultural sphere
 - [[花魁]] — oiran, leading courtesan
 - [[陪]] — accompany, be with, keep company
+- [[庇護]] — protect, shelter
+- [[援交]] — school girl prostitution
 
-## Speech (58)
+## Speech (59)
 
 - [[䋇]] — unravel, explain
 - [[世界語]] — universal language
@@ -5345,6 +5191,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[標誌]] — symbolize, mark, indicate
 - [[引入]] — lead into, introduce to
 - [[標識]] — sign, mark, symbol
+- [[放送局]] — broadcast station, broadcasting company
 
 ## Substances (25)
 
@@ -5405,7 +5252,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[竟]] — finally, after all, at last
 - [[迅速]] — rapid, swift, prompt
 
-## Tools (18)
+## Tools (19)
 
 - [[固執]] — stubborn, stick to
 - [[工具]] — tool, instrument, implement
@@ -5425,8 +5272,9 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[鎖]] — chain
 - [[厉]] — whetstone
 - [[砥石]] — whetstone, grindstone
+- [[矩]] — moment (physics), carpenter's square, quadrature
 
-## Trade (35)
+## Trade (36)
 
 - [[価格]] — price
 - [[便]] — cheap
@@ -5463,6 +5311,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[貸出]] — lend, loan
 - [[償還]] — repayment, restitution, compensation
 - [[充当]] — to allocate, to assign, to apply (funds) toward
+- [[参入]] — enter, join, market entry
 
 ## Valuation (47)
 
@@ -5541,7 +5390,7 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Water (54)
+## Water (58)
 
 - [[乗船]] — board a ship, embark
 - [[乾浄]] — clean, neat, tidy
@@ -5597,6 +5446,10 @@ Rough, unpolished working list — 5409 of 6035 word files currently have zero `
 - [[潮汐]] — tide, tidal phenomenon
 - [[清澈]] — clear, limpid
 - [[澄清]] — clear, pure
+- [[岸]] — bank, shore
+- [[灘]] — bank, shoal
+- [[沈没]] — to sink, to founder, sinking
+- [[没]] — drown, sink
 
 ## Work (28)
 

@@ -4,7 +4,7 @@ tags:
   - periodictable
 cssclasses:
   - wide-page
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-09-19
 ---
 <ruby>[週期表](../words/週期表.md)<rt>ㄐㄨㄛㄎㄧㄅ⼘ㄨ</rt></ruby> - While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
 - Common names are followed when all agree.
@@ -52,6 +52,12 @@ Examples:
 <ruby>[雷金](../words/雷金.md)<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby>, <ruby>[副金](../words/副金.md)<rt>ㄈㄨㄎㄍㄧㄇ</rt></ruby>, <ruby>[天金](../words/天金.md)<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>, <ruby>[海金](../words/海金.md)<rt>ㄏㄚㄧㄍㄧㄇ</rt></ruby>, <ruby>[冥金](../words/冥金.md)<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby>, <ruby>[美洲金](../words/美洲金.md)<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby>, <ruby>[居里金](../words/居里金.md)<rt>ㄍㄧㄌㄧㄍㄧㄇ</rt></ruby>, <ruby>[柏克金](../words/柏克金.md)<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby>, <ruby>[加州金](../words/加州金.md)<rt>ㄍㄚㄐㄨㄛㄍㄧㄇ</rt></ruby>, <ruby>[愛因金](../words/愛因金.md)<rt>ㄚㄧㄧㄋㄍㄧㄇ</rt></ruby>, <ruby>[費米金](../words/費米金.md)<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby>, <ruby>[門捷金](../words/門捷金.md)<rt>ㄇㄛㄋㄐㄝㄆㄍㄧㄇ</rt></ruby>, <ruby>[諾貝金](../words/諾貝金.md)<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby>, <ruby>[羅倫金](../words/羅倫金.md)<rt>ㄌㄛㄌㄨㄋㄍㄧㄇ</rt></ruby>
 
 Element 111 (roentgenium, 錀) also lends its phonetic to <ruby>[錀琴](../words/錀琴.md)<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby>, the Dan'a'yo name for the röntgen (the older unit of ionizing radiation exposure, named for the same physicist).
+
+## Related Concepts & Compounds
+
+- <ruby>[元素](../words/元素.md)<rt>⼔ㄋㄙㄛ</rt></ruby>: element, the general noun this whole table classifies.
+- <ruby>[苦土](../words/苦土.md)<rt>ㄎㄛㄊㄛ</rt></ruby>: magnesia, magnesium oxide — the historical compound magnesium was isolated from, and the direct source of magnesium's own Dan'a'yo name, [[苦土素]].
+- <ruby>[硝石](../words/硝石.md)<rt>ㄙ⼄ㄨㄙㄝㄎ</rt></ruby>: saltpetre, potassium nitrate — a historically important potassium compound (gunpowder, food preservation), unrelated in coinage to [[鉀]]'s own name.
 
 ## Abbreviations
 ```
