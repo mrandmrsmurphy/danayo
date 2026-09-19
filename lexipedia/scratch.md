@@ -1,70 +1,69 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 5578 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Rough, unpolished working list — 5570 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
 
-**2026-09-19, hand-reviewed passes**: after the automated keyword sweep, went through the Unsorted remainder in batches by eye (not just token overlap) to catch things like element names (titanium, argon), anatomy (buttocks), rock/crag terms, linguistics terms (consonant, syllable, tone), virtue/excellence adjectives, grief/mockery verbs, legal/administrative verbs, and more. Unsorted: 2297 to 1639 across this session.
+**2026-09-19, Color cleanup**: audited the whole `## Color` bucket by hand. Most of it (about 100 words) turned out to be false positives — `lexipedia/Color.md` is a long prose page, and incidental English words in its own text ("supply," "share," "separate," "boundary," "duty," "what"...) had been matching completely unrelated words via simple keyword overlap. 8 genuine color words (七色, 丹沙, 朱沙, 単色, 彩色, 炎色, 紺, 燐彬) got actually written into `lexipedia/Color.md` itself with real backlinks — they're gone from this scratch list entirely now, not just re-bucketed. Everything else got a specific real home (Food, Geography, Light, Grammar, Existence, etc.) or, where no confident placement existed, went back to Unsorted rather than being forced somewhere wrong.
 
 ## Counts
 
-- **Unsorted**: 1639
-- **Animals**: 884
-- **Art**: 115
-- **Astronomy**: 188
+- **Unsorted**: 1653
+- **Animals**: 885
+- **Art**: 116
+- **Astronomy**: 189
 - **Body**: 191
-- **Buildings**: 146
+- **Buildings**: 147
 - **Calendar**: 137
-- **Clothing**: 38
-- **Color**: 122
-- **Conflict**: 92
+- **Clothing**: 39
+- **Conflict**: 94
 - **Containers**: 57
-- **Dimensions**: 90
+- **Dimensions**: 93
 - **Directions**: 58
 - **Efforts**: 49
 - **Elements**: 16
 - **Emotions**: 102
-- **Events**: 54
-- **Existence**: 145
-- **Food**: 99
-- **Geography**: 208
-- **Government**: 103
-- **Grammar**: 45
-- **Kinship**: 59
-- **Knowledge**: 56
-- **Law**: 23
+- **Events**: 55
+- **Existence**: 152
+- **Food**: 112
+- **Geography**: 218
+- **Government**: 104
+- **Grammar**: 54
+- **Kinship**: 61
+- **Knowledge**: 57
+- **Law**: 26
 - **Life**: 20
-- **Light**: 20
+- **Light**: 31
 - **Locatives**: 15
 - **Love**: 6
 - **Measurement**: 10
-- **Metals**: 56
-- **Mind**: 16
-- **Movement**: 45
-- **Nature**: 6
+- **Metals**: 57
+- **Mind**: 17
+- **Movement**: 46
+- **Nature**: 7
 - **Numbers**: 85
-- **Periodic Table**: 65
+- **Periodic Table**: 66
 - **Physical**: 11
-- **Physics**: 17
-- **Plants**: 23
-- **Possession**: 2
-- **Religion**: 25
+- **Physics**: 18
+- **Plants**: 25
+- **Possession**: 3
+- **Religion**: 26
 - **Sensation**: 12
 - **Sex**: 13
-- **Shape**: 12
-- **Sin**: 18
-- **Society**: 24
-- **Speech**: 48
-- **Substances**: 21
+- **Shape**: 14
+- **Sin**: 19
+- **Society**: 25
+- **Speech**: 51
+- **Substances**: 24
 - **Time**: 26
-- **Tools**: 14
-- **Trade**: 24
-- **Valuation**: 45
+- **Tools**: 15
+- **Trade**: 29
+- **Valuation**: 46
 - **War**: 24
-- **Water**: 51
-- **Work**: 22
+- **Water**: 52
+- **Work**: 26
 - **基督敎**: 83
 - **歴史綱要**: 3
 
-## Unsorted (1639)
+## Unsorted (1653)
 
 - [[一兆]] — one trillion
 - [[一端]] — one aspect, competent
@@ -1705,8 +1704,22 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[龍眼]] — longan
 - [[龍蝦]] — lobster
 - [[𧦅歌]] — eulogize, extol
+- [[乱漫]] — natural, unaffected, unfettered, unrestrained
+- [[個別]] — individual, separate, respective
+- [[分離]] — separate, segregate
+- [[容易]] — easy, simple
+- [[意見]] — opinion; view, advise; admonish (with する, secondary sense)
+- [[慣用]] — customary use, conventional, idiomatic (usage)
+- [[暖]] — warm
+- [[暗中]] — in the dark, secretly, covertly
+- [[有様]] — forebearingly, calmly (dated)
+- [[栗]] — chestnut
+- [[白頭翁]] — white-haired old man, grey starling, root of pulsatilla cernua
+- [[簡単]] — simple, uncomplicated
+- [[簡易]] — simple, easy
+- [[鬼婆]] — hag, nasty old woman (especially white)
 
-## Animals (884)
+## Animals (885)
 
 - [[一体]] — organic whole, unity, one
 - [[一処]] — in one place, together
@@ -2592,8 +2605,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[鼈]] — pelodiscus sinensis (turtle)
 - [[龍王]] — dragon king
 - [[飼養]] — raise, rear
+- [[堅鳥]] — booby, brown booby
 
-## Art (115)
+## Art (116)
 
 - [[偶像]] — idol, statue
 - [[公尺]] — meter, metre
@@ -2710,8 +2724,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[芸人]] — performer, actor
 - [[音符]] — note
 - [[横幅]] — banner, horizontal scroll
+- [[軽歌劇]] — operetta, light opera
 
-## Astronomy (188)
+## Astronomy (189)
 
 - [[䦧神星]] — eris
 - [[一朝]] — short time
@@ -2901,6 +2916,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[雲]] — cloud
 - [[需要]] — need, require
 - [[韓江]] — han river
+- [[穹蒼]] — blue dome of heaven, firmament (dated)
 
 ## Body (191)
 
@@ -3096,7 +3112,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[鼻水]] — snot
 - [[医生]] — doctor
 
-## Buildings (146)
+## Buildings (147)
 
 - [[中庭]] — courtyard, inner garden, atrium
 - [[事務所]] — office building, firm, agency
@@ -3244,6 +3260,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[龕]] — shrine, alcove
 - [[住宅]] — residence, dwelling
 - [[居所]] — residence, whereabouts
+- [[拠点]] — base, foothold
 
 ## Calendar (137)
 
@@ -3385,7 +3402,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
 
-## Clothing (38)
+## Clothing (39)
 
 - [[亜麻布]] — linen
 - [[包装]] — wrap, package
@@ -3425,133 +3442,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[針]] — needle, pin, tack, hand (clock)
 - [[鞋]] — shoe
 - [[麻布]] — linen cloth, hemp cloth
-
-## Color (122)
-
-- [[七色]] — seven spectral colors, roygbiv
-- [[中止]] — to discontinue, to cancel, to call off
-- [[丹沙]] — cinnabar
-- [[乗務]] — crew duty, serve as crew
-- [[乱漫]] — natural, unaffected, unfettered, unrestrained
-- [[交通]] — traffic, transportation
-- [[何]] — what
-- [[何事]] — what action, what matter, what has happened
-- [[何物]] — what thing, what object
-- [[何類]] — what kind, what sort
-- [[供給]] — supply, furnish
-- [[個別]] — individual, separate, respective
-- [[倹素]] — economical and simple, frugal
-- [[元素]] — element
-- [[光]] — light
-- [[共有]] — share
-- [[兼]] — double as, dual-
-- [[冥]] — dark, gloomy
-- [[分配]] — distribute, partition, share
-- [[分離]] — separate, segregate
-- [[劫盗]] — rob (dated)
-- [[単色]] — monochrome, single-color
-- [[友好]] — friendly; amicable, friendship; amity (attributive noun use)
 - [[口紅]] — lipstick
-- [[史籍]] — historical records
-- [[名詞]] — noun
-- [[呼]] — call, shout, exhale
-- [[地境]] — border, territorial boundary
-- [[堅鳥]] — booby, brown booby
-- [[境界]] — boundary, zone
-- [[大麦茶]] — barley tea
-- [[天常]] — natural law
-- [[天生]] — natural, intrinsic
-- [[孔明]] — bright, clean
-- [[字彙]] — lexicon, vocabulary
-- [[存在]] — survive, exist
-- [[孝弟]] — filial piety and fraternal duty
-- [[孝道]] — filial piety, filial duty
-- [[容易]] — easy, simple
-- [[将帥]] — general, marshall, commander
-- [[幽]] — quiet, secluded, dark
-- [[底]] — bottom, underneath, underside, base
-- [[当然]] — of course, natural, inevitable
-- [[彩色]] — colored
-- [[意見]] — opinion; view, advise; admonish (with する, secondary sense)
-- [[慣用]] — customary use, conventional, idiomatic (usage)
-- [[慧]] — bright, intelligent
-- [[拠点]] — base, foothold
-- [[旧金山]] — san francisco, old gold mine
-- [[明]] — bright
-- [[明徳]] — bright virtue, show virtue
-- [[明朗]] — bright, clear, cheerful
-- [[昧]] — dark, benighted
-- [[普遍]] — universal, general, widespread
-- [[晴朗]] — clear, serene, bright, sunny
-- [[暖]] — warm
-- [[暗]] — dark
-- [[暗中]] — in the dark, secretly, covertly
-- [[暗黒]] — dark, pitch black
-- [[有様]] — forebearingly, calmly (dated)
-- [[朱沙]] — cinnabar
-- [[栗]] — chestnut
-- [[橙果]] — orange (the fruit)
-- [[武将]] — general, commander
-- [[清淡]] — insipid, plain, dilute
-- [[潮汐]] — tide, tidal phenomenon
-- [[炎色]] — flame color
-- [[点心]] — snack; dim sum; light dishes (mandarin/cantonese/japanese), lunch, the midday meal (korean — see note)
-- [[烏龍茶]] — oolong tea
-- [[燐彬]] — iridescent, lustrous, glistening (of jade)
-- [[燦乱]] — resplendent, bright, glittering, gorgeous
-- [[玄米]] — brown rice
-- [[玉]] — jade
-- [[現象]] — phenomenon
-- [[球]] — sphere, ball
-- [[球体]] — sphere
-- [[用度]] — supplies
-- [[界水]] — boundary water, water marking a border
-- [[界線]] — boundary line, dividing line
-- [[畔]] — ridge, boundary
-- [[白頭翁]] — white-haired old man, grey starling, root of pulsatilla cernua
-- [[相対]] — relative, opposite, relativity
-- [[神道]] — natural law
-- [[税金]] — duty, tax
-- [[穹蒼]] — blue dome of heaven, firmament (dated)
-- [[簡単]] — simple, uncomplicated
-- [[簡易]] — simple, easy
-- [[紅茶]] — black tea, red tea
-- [[紺]] — navy blue
-- [[缺勤]] — absence from work, to be absent from duty
-- [[芳香族]] — aromatic compounds
-- [[苦役]] — hard labor, forced labor, drudgery
-- [[英吉利]] — england (dated)
-- [[茉莉]] — white jasmine
-- [[菜蔬]] — vegetables, greens
-- [[菱]] — water chestnut
-- [[蓼藍]] — japanese indigo
-- [[藍木]] — indigo, anil
-- [[虹霓]] — neon, neon light
-- [[蛍光]] — fluorescence, the light of a firefly
-- [[蜜柑]] — mandarin orange
-- [[補給]] — supply provisions
-- [[要求]] — demand, firmly request, claim
-- [[要素]] — element, factor, component
-- [[要請]] — request, demand
-- [[詞彙]] — vocabulary, lexicon
-- [[語彙]] — lexicon
-- [[責任]] — responsibility, duty
-- [[赤道]] — equator
-- [[軽]] — light, not heavy
-- [[軽歌劇]] — operetta, light opera
-- [[週番]] — weekly duty
-- [[醍醐]] — ghee, finest cream, essence of buddhism
-- [[金山]] — gold mine
-- [[鈍]] — dull, not sharp
-- [[鋳造]] — casting, cast metal
-- [[間隔]] — be divided, be separate
-- [[除籍]] — remove from the register, expunge, expel
-- [[鬼婆]] — hag, nasty old woman (especially white)
-- [[鹸]] — base, alkali
-- [[麦茶]] — barley tea
-- [[黄海]] — yellow sea
 
-## Conflict (92)
+## Conflict (94)
 
 - [[䦧]] — quarrel
 - [[世仇]] — feud, hereditary enmity
@@ -3645,6 +3538,8 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[乱離]] — chaos, exile, refugeeism
 - [[幟]] — pennant, banner
 - [[旗幟]] — flag, banner, attitude
+- [[将帥]] — general, marshall, commander
+- [[武将]] — general, commander
 
 ## Containers (57)
 
@@ -3706,7 +3601,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[墊]] — mat, pad, cushion
 - [[畳]] — folding mat, tatami mat
 
-## Dimensions (90)
+## Dimensions (93)
 
 - [[一点]] — a little, a bit
 - [[不但]] — not only
@@ -3798,6 +3693,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[高]] — high
 - [[魶]] — giant salamander
 - [[鮮少]] — rare, seldom, few
+- [[底]] — bottom, underneath, underside, base
+- [[軽]] — light, not heavy
+- [[間隔]] — be divided, be separate
 
 ## Directions (58)
 
@@ -4036,7 +3934,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[泣]] — cry, sob
 - [[痛哭]] — to wail, to cry bitterly, to weep aloud
 
-## Events (54)
+## Events (55)
 
 - [[主題]] — topic, theme, subject, motif
 - [[事件]] — event, incident, occurrence
@@ -4092,8 +3990,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[恭賀]] — congratulate respectfully
 - [[慶]] — congratulate, celebrate
 - [[祝賀]] — congratulate
+- [[中止]] — to discontinue, to cancel, to call off
 
-## Existence (145)
+## Existence (152)
 
 - [[䔥国]] — state of xiao
 - [[不可]] — cannot
@@ -4240,8 +4139,15 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[因縁]] — fate, predestined bond, karma
 - [[宿命]] — destiny, fate
 - [[運数]] — luck, fortune, fate
+- [[天常]] — natural law
+- [[天生]] — natural, intrinsic
+- [[当然]] — of course, natural, inevitable
+- [[現象]] — phenomenon
+- [[相対]] — relative, opposite, relativity
+- [[普遍]] — universal, general, widespread
+- [[存在]] — survive, exist
 
-## Food (99)
+## Food (112)
 
 - [[乾酪]] — cheese
 - [[井物]] — bowl of food
@@ -4342,8 +4248,21 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[摂食]] — feed, ingest
 - [[明蝦]] — king prawn
 - [[乳酪]] — dairy products
+- [[橙果]] — orange (the fruit)
+- [[玄米]] — brown rice
+- [[紅茶]] — black tea, red tea
+- [[蜜柑]] — mandarin orange
+- [[茉莉]] — white jasmine
+- [[大麦茶]] — barley tea
+- [[烏龍茶]] — oolong tea
+- [[麦茶]] — barley tea
+- [[醍醐]] — ghee, finest cream, essence of buddhism
+- [[点心]] — snack; dim sum; light dishes (mandarin/cantonese/japanese), lunch, the midday meal (korean — see note)
+- [[菜蔬]] — vegetables, greens
+- [[菱]] — water chestnut
+- [[清淡]] — insipid, plain, dilute
 
-## Geography (208)
+## Geography (218)
 
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
@@ -4553,8 +4472,18 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[天竺]] — india
 - [[大陸]] — continent
 - [[洲]] — islet, continent
+- [[黄海]] — yellow sea
+- [[地境]] — border, territorial boundary
+- [[界水]] — boundary water, water marking a border
+- [[境界]] — boundary, zone
+- [[界線]] — boundary line, dividing line
+- [[畔]] — ridge, boundary
+- [[旧金山]] — san francisco, old gold mine
+- [[金山]] — gold mine
+- [[英吉利]] — england (dated)
+- [[赤道]] — equator
 
-## Government (103)
+## Government (104)
 
 - [[主従]] — master and servant, lord and retainer
 - [[主掌]] — to be in charge of, to administer
@@ -4659,8 +4588,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[拘束]] — constrain, restrain
 - [[抑制]] — to suppress, to restrain, to inhibit
 - [[抑止]] — repress, restrain
+- [[税金]] — duty, tax
 
-## Grammar (45)
+## Grammar (54)
 
 - [[不亦V乎]] — <circumfix for rhetorical qs>
 - [[与格]] — dative case
@@ -4707,8 +4637,17 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[音節]] — syllable
 - [[韻母]] — rhyme, final (of a syllable)
 - [[声調]] — tone, note
+- [[名詞]] — noun
+- [[字彙]] — lexicon, vocabulary
+- [[詞彙]] — vocabulary, lexicon
+- [[語彙]] — lexicon
+- [[何]] — what
+- [[何事]] — what action, what matter, what has happened
+- [[何物]] — what thing, what object
+- [[何類]] — what kind, what sort
+- [[兼]] — double as, dual-
 
-## Kinship (59)
+## Kinship (61)
 
 - [[丈人]] — father-in-law, wife's father
 - [[丈夫]] — husband
@@ -4769,8 +4708,10 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[養母]] — adoptive mother
 - [[養父]] — adoptive father
 - [[養育]] — foster, raise
+- [[孝弟]] — filial piety and fraternal duty
+- [[孝道]] — filial piety, filial duty
 
-## Knowledge (56)
+## Knowledge (57)
 
 - [[上知]] — those wise from birth, innate wisdom
 - [[了解]] — understand, comprehend, learn
@@ -4828,8 +4769,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[復習]] — revise, review
 - [[校訂]] — revise
 - [[訂]] — revise, correct
+- [[史籍]] — historical records
 
-## Law (23)
+## Law (26)
 
 - [[不許]] — forbid
 - [[処分]] — punish, discipline
@@ -4854,6 +4796,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[制約]] — restriction, constraint, limitation
 - [[制限]] — restriction, limit
 - [[限度]] — limit, limitation
+- [[劫盗]] — rob (dated)
+- [[除籍]] — remove from the register, expunge, expel
+- [[責任]] — responsibility, duty
 
 ## Life (20)
 
@@ -4878,7 +4823,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[酩酊]] — dead drunk, thoroughly intoxicated
 - [[養殖]] — cultivate, breed
 
-## Light (20)
+## Light (31)
 
 - [[体現]] — embody, reflect, incarnate
 - [[光明]] — brightness, hope, light, radiance
@@ -4900,6 +4845,17 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[電灯]] — lamp, electric light
 - [[鱏]] — ray, skate
 - [[黒暗]] — pure blackness, darkness
+- [[虹霓]] — neon, neon light
+- [[蛍光]] — fluorescence, the light of a firefly
+- [[明]] — bright
+- [[暗]] — dark
+- [[暗黒]] — dark, pitch black
+- [[明朗]] — bright, clear, cheerful
+- [[幽]] — quiet, secluded, dark
+- [[昧]] — dark, benighted
+- [[冥]] — dark, gloomy
+- [[光]] — light
+- [[孔明]] — bright, clean
 
 ## Locatives (15)
 
@@ -4941,7 +4897,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[体積]] — volume, capacity, bulk
 - [[容量]] — volume, capacity
 
-## Metals (56)
+## Metals (57)
 
 - [[一瞥]] — glance, quick look
 - [[一般]] — average, common, general, ordinary
@@ -4999,8 +4955,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[陪]] — accompany, be with, keep company
 - [[顔色]] — complexion, expression, appearance, look
 - [[軽金属]] — light metal, light metals
+- [[鋳造]] — casting, cast metal
 
-## Mind (16)
+## Mind (17)
 
 - [[不信]] — not believe, mistrust
 - [[奇想]] — fanciful notion, strange idea
@@ -5018,8 +4975,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[自己]] — oneself
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
 - [[記憶]] — remember, recollect
+- [[慧]] — bright, intelligent
 
-## Movement (45)
+## Movement (46)
 
 - [[下降]] — descend, fall
 - [[促]] — hurry, rush, hasten
@@ -5066,8 +5024,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[飛翔]] — fly, soar
 - [[飛行]] — fly, flight
 - [[馳]] — run fast, drive quickly
+- [[交通]] — traffic, transportation
 
-## Nature (6)
+## Nature (7)
 
 - [[広野]] — wilderness
 - [[環境]] — environment, surroundings
@@ -5075,6 +5034,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[天気]] — weather
 - [[気象]] — weather, meteorology
 - [[暑]] — hot (weather)
+- [[晴朗]] — clear, serene, bright, sunny
 
 ## Numbers (85)
 
@@ -5164,7 +5124,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[黙黙]] — silently, quietly, without a word
 - [[黼黻]] — ornate embroidered patterns
 
-## Periodic Table (65)
+## Periodic Table (66)
 
 - [[不用]] — not necessary, unused, useless
 - [[主頁]] — main page, homepage
@@ -5231,6 +5191,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[高素]] — gallium
 - [[鬼金]] — cobalt
 - [[鹸素]] — sodium
+- [[元素]] — element
 
 ## Physical (11)
 
@@ -5246,7 +5207,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[艱難]] — arduous, hard
 - [[苦渋]] — astringent, harsh, rough
 
-## Physics (17)
+## Physics (18)
 
 - [[中性子]] — neutron
 - [[冷]] — cool, cold
@@ -5265,8 +5226,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[溶化]] — melt, dissolve
 - [[溶融]] — melt, fuse
 - [[融]] — melt, blend, harmonize
+- [[要素]] — element, factor, component
 
-## Plants (23)
+## Plants (25)
 
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
@@ -5291,13 +5253,16 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[土肥]] — farmyard manure, soil fertilizer
 - [[堆肥]] — compost, composted manure
 - [[壌土]] — loam, loamy soil
+- [[藍木]] — indigo, anil
+- [[蓼藍]] — japanese indigo
 
-## Possession (2)
+## Possession (3)
 
 - [[主人]] — master, owner, host, proprietor
 - [[財産]] — property, wealth
+- [[共有]] — share
 
-## Religion (25)
+## Religion (26)
 
 - [[佛]] — buddha
 - [[佛教]] — buddhism
@@ -5324,6 +5289,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[孔子]] — confucius
 - [[因果]] — fateful, unlucky, karmic, causal
 - [[混沌]] — hundun, primordial chaos
+- [[神道]] — natural law
 
 ## Sensation (12)
 
@@ -5356,7 +5322,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[雄]] — manly, male
 - [[雌性]] — female
 
-## Shape (12)
+## Shape (14)
 
 - [[七角形]] — heptagon
 - [[三角]] — triangle
@@ -5370,8 +5336,10 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[環]] — ring, circle
 - [[輪]] — wheel, circle, ring, loop
 - [[鋒芒]] — sharp edge, cutting point, keen edge
+- [[球]] — sphere, ball
+- [[球体]] — sphere
 
-## Sin (18)
+## Sin (19)
 
 - [[倫理]] — ethic, morality
 - [[僕射]] — vice director
@@ -5391,8 +5359,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[誠心]] — sincere, devout
 - [[厳然]] — solemn, dignified
 - [[懇切]] — sincere, earnest
+- [[明徳]] — bright virtue, show virtue
 
-## Society (24)
+## Society (25)
 
 - [[伝統]] — tradition, custom
 - [[公民]] — citizen, civics
@@ -5418,8 +5387,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[紳士]] — gentleman
 - [[同伴]] — companion, comrade
 - [[同志]] — comrade
+- [[友好]] — friendly; amicable, friendship; amity (attributive noun use)
 
-## Speech (48)
+## Speech (51)
 
 - [[䋇]] — unravel, explain
 - [[世界語]] — universal language
@@ -5469,8 +5439,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[詠]] — recite, chant
 - [[風刺]] — satirize, mock
 - [[痛罵]] — berate, scold severely, vituperate
+- [[要求]] — demand, firmly request, claim
+- [[要請]] — request, demand
+- [[呼]] — call, shout, exhale
 
-## Substances (21)
+## Substances (24)
 
 - [[埋葬]] — bury, inter, consign ashes
 - [[塵埃]] — dust, dirt
@@ -5493,6 +5466,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[石頭]] — stone, rock
 - [[粉]] — powder
 - [[黄沙]] — yellow sand, asian dust
+- [[芳香族]] — aromatic compounds
+- [[鹸]] — base, alkali
+- [[玉]] — jade
 
 ## Time (26)
 
@@ -5523,7 +5499,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[過去]] — past
 - [[間或]] — sometimes, occasionally, now and then
 
-## Tools (14)
+## Tools (15)
 
 - [[固執]] — stubborn, stick to
 - [[工具]] — tool, instrument, implement
@@ -5539,8 +5515,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[装置]] — equipment, device
 - [[貼]] — paste on, stick to, attach
 - [[鋸]] — saw
+- [[鈍]] — dull, not sharp
 
-## Trade (24)
+## Trade (29)
 
 - [[価格]] — price
 - [[便]] — cheap
@@ -5566,8 +5543,13 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[公司]] — company, firm
 - [[券]] — bond, certificate
 - [[新品]] — new products, new arrivals
+- [[供給]] — supply, furnish
+- [[補給]] — supply provisions
+- [[用度]] — supplies
+- [[分配]] — distribute, partition, share
+- [[倹素]] — economical and simple, frugal
 
-## Valuation (45)
+## Valuation (46)
 
 - [[価値]] — worth, value
 - [[大器]] — treasure
@@ -5614,6 +5596,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[報酬]] — reward, remuneration
 - [[奨励]] — encouragement, incentive, to award and exhort
 - [[賞]] — reward
+- [[燦乱]] — resplendent, bright, glittering, gorgeous
 
 ## War (24)
 
@@ -5642,7 +5625,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Water (51)
+## Water (52)
 
 - [[乗船]] — board a ship, embark
 - [[乾浄]] — clean, neat, tidy
@@ -5695,8 +5678,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[滲漏]] — seep, leak
 - [[漏]] — leak
 - [[漏洩]] — leak, disclosure
+- [[潮汐]] — tide, tidal phenomenon
 
-## Work (22)
+## Work (26)
 
 - [[作業]] — work, operate, task
 - [[使用]] — use, utilize, employ
@@ -5720,6 +5704,10 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[退職]] — retire, resign
 - [[雇員]] — employee
 - [[雇用]] — employment, hire
+- [[乗務]] — crew duty, serve as crew
+- [[苦役]] — hard labor, forced labor, drudgery
+- [[缺勤]] — absence from work, to be absent from duty
+- [[週番]] — weekly duty
 
 ## 基督敎 (83)
 

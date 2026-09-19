@@ -45,7 +45,7 @@ See [[AIOS/checklists/checklist_lexipedia|the lexipedia checklist]] for the stan
 * [[lexipedia/Religion]]
 * [[lexipedia/Shape]]
 * [[lexipedia/Sensation]]
-* [[lexipedia/Sex]]
+* [[lexipedia/Reproduction]]
 * [[lexipedia/Sin]]
 * [[lexipedia/Society]]
 * [[lexipedia/Speech]]

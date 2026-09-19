@@ -6,7 +6,7 @@ related_domains:
   - "[[Metals]]"
   - "[[Clothing]]"
 status: complete
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-09-19
 ---
 
 # Color
@@ -24,6 +24,9 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 - <ruby>[青](../words/青.md)<rt>ㄑㄝㄫ</rt></ruby>: blue, green — "grue," covering both in classical usage; see Semantic Range Notes.
 - <ruby>[緑](../words/緑.md)<rt>ㄌㄛㄎ</rt></ruby>: green.
 - <ruby>[色彩](../words/色彩.md)<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby>: color (the general noun).
+- <ruby>[七色](../words/七色.md)<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby>: the seven spectral colors, ROYGBIV — the full rainbow spectrum as a set concept.
+- <ruby>[単色](../words/単色.md)<rt>ㄉㄚㄋㄙㄧㄎ</rt></ruby>: monochrome, single-color.
+- <ruby>[彩色](../words/彩色.md)<rt>ㄑㄚㄧㄙㄧㄎ</rt></ruby>: colored (adjective).
 
 ## Intermediate (B1–B2)
 
@@ -31,7 +34,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 
 - <ruby>[青色](../words/青色.md)<rt>ㄑㄝㄫㄙㄧㄎ</rt></ruby>: blue-green, cyan.
 - <ruby>[藍色](../words/藍色.md)<rt>ㄌㄚㄇㄙㄧㄎ</rt></ruby>: indigo blue.
-- <ruby>[紺色](../words/紺色.md)<rt>ㄍㄚㄇㄙㄧㄎ</rt></ruby>: navy blue.
+- <ruby>[紺](../words/紺.md)<rt>ㄍㄚㄇ</rt></ruby> / <ruby>[紺色](../words/紺色.md)<rt>ㄍㄚㄇㄙㄧㄎ</rt></ruby>: navy blue — bare and X色-suffixed forms of the same color, both independently attested words.
 - <ruby>[水色](../words/水色.md)<rt>ㄙㄨㄙㄧㄎ</rt></ruby>: light blue, sky blue.
 - <ruby>[緑色](../words/緑色.md)<rt>ㄌㄛㄎㄙㄧㄎ</rt></ruby>: green (the X色-suffixed form of [[緑]]).
 - <ruby>[碧色](../words/碧色.md)<rt>ㄅ⼶ㄎㄙㄧㄎ</rt></ruby>: emerald green, teal.
@@ -54,6 +57,8 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 - <ruby>[橙色](../words/橙色.md)<rt>ㄉㄨㄫㄙㄧㄎ</rt></ruby>: orange.
 - <ruby>[桃色](../words/桃色.md)<rt>ㄉㄚㄨㄙㄧㄎ</rt></ruby>: pink, peach.
 - <ruby>[朱色](../words/朱色.md)<rt>ㄐㄨㄙㄧㄎ</rt></ruby>: vermillion, cinnabar red — associated with seals and lacquerwork.
+- <ruby>[炎色](../words/炎色.md)<rt>ㄝㄇㄙㄧㄎ</rt></ruby>: flame color — another natural-object-based X色 coinage, alongside 茶色/栗色/桃色/乳色 below.
+  - **Note**: the color 朱色 above and the mineral pigment [[丹沙]]/[[朱沙]] ("cinnabar," two independently attested synonyms built on different characters) are a substance-supplies-color-name pair, the same pattern Metals plays with 金色/銀色 — see Semantic Range Notes.
 
 ### Purples
 
@@ -75,6 +80,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
   - **Register**: literary, archaic-flavored; everyday equivalents are 灰色 or plain 青.
 - <ruby>[鼠色](../words/鼠色.md)<rt>ㄙ⼄ㄙㄧㄎ</rt></ruby>: dark grey — a dated "mouse-colored" term, paralleled by real Japanese (ねずみいろ) and Korean (쥐색) compounds of the same literal shape.
   - **Historical**: old-fashioned; Mandarin and Cantonese use plain 灰色 instead, since 鼠色 isn't the naturally used term in those languages.
+- <ruby>[燐彬](../words/燐彬.md)<rt>ㄌㄧㄋㄆㄧㄋ</rt></ruby>: iridescent, lustrous, glistening (specifically of jade) — a literary optical-quality term describing color-shifting sheen rather than naming a fixed hue.
 
 ## Semantic Range Notes
 
@@ -82,7 +88,9 @@ The most consequential divergence in this domain is **青's classical "grue" ran
 
 A second real divergence is the **[[赤]]/[[紅]] register split for "red," and Japanese's reversal of it**. Across most of the modern Sinosphere, 紅 has displaced 赤 as the everyday general word for red (Mandarin hóngsè, not chìsè), leaving 赤 to survive mainly in older or more literary compounds (赤道 "equator," 赤字 "deficit"). Japanese alone keeps the opposite division of labor: 赤 (あか, aka) remains its ordinary native word for "red," while 紅 is reserved for a narrower, more vivid "crimson" sense (口紅 "lipstick," 紅葉 "autumn leaves"). A learner reaching for "red" should default to 紅 in modern conversational register and reserve 赤 for classical, literary, or fixed-compound contexts.
 
-The **X色 ("X-color") suffix is the domain's real productive engine**: nearly every secondary or tertiary hue in the Intermediate tier is built by attaching 色 to a base noun or root — a natural object (茶色 "tea," 栗色 "chestnut," 桃色 "peach," 乳色 "milk"), a metal ([[金色]], [[銀色]]), or a plain color root doubling its own bare form ([[黒色]], [[白色]], [[緑色]]). This is the same generative pattern that lets [[Metals]] vocabulary supply color words directly rather than needing dedicated coinages.
+The **X色 ("X-color") suffix is the domain's real productive engine**: nearly every secondary or tertiary hue in the Intermediate tier is built by attaching 色 to a base noun or root — a natural object (茶色 "tea," 栗色 "chestnut," 桃色 "peach," 乳色 "milk," 炎色 "flame"), a metal ([[金色]], [[銀色]]), or a plain color root doubling its own bare form ([[黒色]], [[白色]], [[緑色]]). This is the same generative pattern that lets [[Metals]] vocabulary supply color words directly rather than needing dedicated coinages.
+
+**Minerals and pigments supply color names the same way metals do.** [[丹沙]] and [[朱沙]] are two independently attested words for cinnabar (mercury sulfide), the mineral pigment traditionally used for red seal-ink and lacquerwork — sitting right alongside [[朱色]] ("vermillion, cinnabar red") itself, the same substance-to-color-name relationship [[金色]]/[[銀色]] have with their base metals. That two differently-charactered words for the same mineral both survive as separate Dan'a'yo entries (rather than one displacing the other) is unusual; treat them as synonyms rather than expecting a register or regional split like 赤/紅 above.
 
 ## See Also
 
