@@ -40,8 +40,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 Classical Sinitic culture organizes domesticated animals around a fixed traditional set rather than an open-ended "farm animal" category: horse, ox, sheep, chicken, dog, and pig. Dan'a'yo has a real word for all six: [[馬]], [[牛]], [[鶏]], [[犬]], [[豚]] above, plus:
 
 - <ruby>[綿羊](../words/綿羊.md)<rt>ㄇ⼶ㄋ⼘ㄫ</rt></ruby>: sheep — literally "wool-sheep," the stand-in compound that legitimizes the bound character 羊.
-
-**Gap**: goat (山羊, literally "mountain-sheep") has no Dan'a'yo word yet — 羊's own English gloss covers "sheep or goat" ambiguously, but only the sheep-specific compound 綿羊 has actually been coined. This is a genuine, worth-prioritizing gap.
+- <ruby>[山羊](../words/山羊.md)<rt>ㄙㄚㄋ⼘ㄫ</rt></ruby>: goat — literally "mountain-sheep/goat"; 羊 itself is ambiguous between "sheep" and "goat," resolved by the 綿-/山- prefix in each compound (see Semantic Range Notes for a striking Korean/Vietnamese false-friend trap hiding in this word).
 
 ### Fowl
 
@@ -116,7 +115,7 @@ The rest of the standard eight-rank hierarchy has no coined Dan'a'yo word yet: *
 
 **A single pattern recurs across this whole domain: the everyday animal name is almost never the bare character alone.** 羊, 猿, 象, 狐, 蝶, 蛙, and 貝 are all bound morphemes on their own character pages — each requires its own stand-in compound ([[綿羊]], [[猿猩]], [[大象]], [[狐狸]], [[胡蝶]], [[青蛙]], [[貝類]] respectively) to function as an independent Dan'a'yo word, the same legitimizing mechanism this vault's `stand_in` field tracks throughout the character system generally. This isn't a gap so much as the ordinary shape of common-animal vocabulary in this domain — a learner should expect most animal names to be two characters, not one.
 
-The one genuine remaining gap in this cluster is **goat**: 綿羊 covers "sheep" specifically, but "goat" (山羊) has never been coined as its own word, despite 羊's own character-level gloss nominally covering both senses. Given how culturally central goats are (a full member of the traditional 六畜 set, distinct from sheep in every source language), this is a clear candidate for a future coining decision.
+**山羊 ("goat") hides a genuine false-friend trap worth knowing explicitly.** 羊 alone is ambiguous between "sheep" and "goat" in Dan'a'yo, as in its Sinitic sources, so [[綿羊]] and [[山羊]] disambiguate the two the same way Mandarin, Cantonese, and Japanese do — and in all three of those languages, plus Dan'a'yo itself, 山羊's compositional reading really does mean "domestic goat." Korean and Vietnamese break the pattern: the exact same compositional reading (산양 in Korean, sơn dương in Vietnamese) instead names a wild goat-antelope — the long-tailed goral and the serow, respectively — while the domestic goat is a completely unrelated native word in each (염소, dê). [[山羊]]'s own `korean`/`vietnamese` fields store the real domestic-goat words for this reason, even though `kwin` is still technically true: Dan'a'yo's own coined reading matches real Sino-Korean 산양 perfectly in *sound*, just not in *referent*.
 
 ## See Also
 

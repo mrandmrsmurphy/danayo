@@ -1,7 +1,0 @@
-- [猿](../characters/猿.md)
-- [象](../characters/象.md)
-- [狐](../characters/狐.md)
-- [蝶](../characters/蝶.md)
-- [蛙](../characters/蛙.md)
-- [貝](../characters/貝.md)
-- 
