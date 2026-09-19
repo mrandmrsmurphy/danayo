@@ -1,42 +1,46 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 5578 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Bucketed by crude English-gloss keyword overlap against each domain page's own text (whichever domain shares the most keywords with a word's `english:` field wins); this is NOT a curated classification, just a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations — re-sort as pages get built out, don't trust any single placement here.
+Rough, unpolished working list — 5578 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Bucketed by crude English-gloss keyword overlap against each domain page's own text (whichever domain shares the most keywords with a word's `english:` field wins); this is NOT a curated classification, just a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations — re-sort as pages get built out, don't trust any single placement here. Categories after Unsorted are sorted alphabetically (by English name).
 
-**2026-09-19 update**: did a cheap keyword pass through the original 2534-item Unsorted bucket and pulled out two obvious clusters — 66 more Geography items (country names, geographic features) the original pass missed because `lexipedia/Geography.md` is still too thin/generic to keyword-match against, and 33 items for a brand-new **Science (new)** bucket (math/physics/chemistry/biology terms) — there is currently no `lexipedia/Science.md` at all, so these have nowhere to link yet. Both lists got a quick manual eyeball pass to drop a handful of obvious false-positive keyword collisions (e.g. 杆 "pole" as in rod, not geographic pole; 学位 "academic degree," not a measurement degree) — still rough, not exhaustive.
+**2026-09-19 update 1**: pulled 66 more Geography items (country names, geographic features) and a new **Science (new)** bucket (33 items — math/physics/chemistry/biology terms; no `lexipedia/Science.md` exists yet) out of the original 2534-item Unsorted pile via a cheap keyword pass, with a quick manual eyeball to drop obvious false-positive collisions (杆 "pole" the rod vs. geographic pole; 学位 "academic degree" vs. a measurement degree; etc.).
+
+**2026-09-19 update 2**: same treatment, two more clusters — **Kinship (new)** (58 items — family/people terms: wife, uncle, grandmother, widow, etc.; no `lexipedia/Kinship.md` exists yet, though several already-perfected words like [[父父]]/[[自家]] have flagged wanting one) and **Government (new)** (80 items — officialdom/administration: official, minister, prohibition, permit, examine, publication, nobility, throne; no `lexipedia/Government.md` exists yet). Dropped obvious false positives from "board" (vehicle-boarding, plank, game-board — not a governing board), "charge" (electrical/military-attack senses, not "in charge of"), "court" (tennis court), and "mother" (mother-of-pearl).
 
 ## Counts
 
-- **Unsorted**: 2435
+- **Unsorted**: 2297
 - **Animals**: 919
-- **Geography**: 263
+- **Art**: 94
 - **Astronomy**: 187
 - **Body**: 180
-- **Existence**: 147
 - **Buildings**: 144
 - **Calendar**: 141
-- **基督敎**: 127
-- **Color**: 125
-- **Art**: 94
-- **Numbers**: 94
-- **Dimensions**: 87
-- **Food**: 68
-- **Emotions**: 65
-- **Conflict**: 63
-- **Metals**: 58
-- **Directions**: 55
-- **Water**: 50
-- **Containers**: 47
-- **Events**: 43
-- **Efforts**: 38
 - **Clothing**: 35
-- **Science (new)**: 33
-- **Grammar**: 30
-- **Work**: 18
+- **Color**: 125
+- **Conflict**: 63
+- **Containers**: 47
+- **Dimensions**: 87
+- **Directions**: 55
+- **Efforts**: 38
 - **Elements**: 14
+- **Emotions**: 65
+- **Events**: 43
+- **Existence**: 147
+- **Food**: 68
+- **Geography**: 263
+- **Government (new)**: 80
+- **Grammar**: 30
+- **Kinship (new)**: 58
+- **Metals**: 58
+- **Numbers**: 94
 - **Periodic Table**: 11
+- **Science (new)**: 33
+- **Water**: 50
+- **Work**: 18
 - **歴史綱要**: 7
+- **基督敎**: 127
 
-## Unsorted (2435)
+## Unsorted (2297)
 
 - [[䋇]] — unravel, explain
 - [[一兆]] — one trillion
@@ -48,7 +52,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[丁香]] — clove
 - [[七夕]] — qixi
 - [[丈]] — zhang
-- [[丈夫]] — husband
 - [[三菱]] — mitsubishi
 - [[上昇]] — ascend
 - [[上面]] — surface, outward appearance
@@ -70,22 +73,18 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[世界観]] — worldview
 - [[世界語]] — universal language
 - [[丘引]] — earthworm
-- [[両親]] — parents
 - [[中]] — -ing
 - [[串]] — skewer
 - [[丹金]] — hafnium
 - [[主人]] — master, owner, host, proprietor
-- [[主婦]] — housewife
 - [[主席]] — chairman, chairperson
 - [[主幹]] — trunk, core
-- [[主掌]] — to be in charge of, to administer
 - [[主義]] — doctrine, -ism
 - [[乃]] — but
 - [[之]] — of
 - [[乎]] — did, do
 - [[乗]] — ride
 - [[乗客]] — passenger
-- [[乗車]] — board a vehicle, get on
 - [[乗降]] — boarding and alighting, embarkation and disembarkation
 - [[九龍]] — kowloon
 - [[乞]] — beg
@@ -120,7 +119,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[人中]] — philtrum
 - [[人人]] — everyone
 - [[人参]] — ginseng
-- [[人員]] — staff, personnel, employee
 - [[人等]] — persons, et al.
 - [[人証]] — personal evidence
 - [[人道]] — humane, path
@@ -144,8 +142,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[伏]] — crouch, prostrate, surrender
 - [[休暇]] — vacation
 - [[会話]] — conversation, to converse
-- [[伯伯]] — uncle
-- [[伯母]] — aunt
 - [[伴侶]] — companion, partner, mate
 - [[伶俐]] — clever
 - [[位相]] — phase
@@ -164,7 +160,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[佛雷素]] — flerovium
 - [[作坊]] — workshop, atelier
 - [[佳]] — beautiful, good, excellent
-- [[佳人]] — beautiful woman
 - [[使用]] — use, utilize, employ
 - [[使者]] — herald, messenger, emissary, envoy
 - [[侍者]] — attendant, servant, valet
@@ -193,8 +188,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[修補]] — repair, restore
 - [[修飾語]] — modifier
 - [[俳優]] — actor
-- [[俸祿]] — official salary, stipend, emolument
-- [[俸給]] — salary, stipend, official pay
 - [[倉鼠]] — hamster
 - [[倍]] — times
 - [[倫理]] — ethic, morality
@@ -227,18 +220,12 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[優等]] — excellent, superior grade, honors
 - [[允許]] — grant, allow
 - [[兄弟]] — brothers, brotherhood
-- [[兄弟姉妹]] — siblings, brothers and sisters
 - [[充足]] — adequate, sufficient
-- [[充電]] — to recharge (a battery), to charge
 - [[先生]] — mr., sir, teacher
 - [[光子]] — photon
 - [[光栄]] — honorable, glorious
 - [[光輝]] — brilliant, radiant
 - [[免除]] — excuse, relieve, exempt
-- [[児]] — baby
-- [[児児]] — baby
-- [[児子]] — son, child
-- [[児童]] — minor, student, child
 - [[兜]] — helmet
 - [[入]] — enter
 - [[入口]] — entrance
@@ -246,29 +233,18 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[入籍]] — enter
 - [[全盛]] — flourishing, at the height of prosperity, at one's best
 - [[全部]] — entirety, everything
-- [[兪允]] — consent to, permit (of the emperor)
 - [[公]] — honorific, sir
-- [[公共]] — public, communal
-- [[公卿]] — nobility
 - [[公司]] — company, firm
 - [[公噸]] — tonne
 - [[公斤]] — kilogram
 - [[公民]] — citizen, civics
-- [[公演]] — put on a public performance of
 - [[公爵]] — duke
-- [[公約]] — public pledge, election promise, treaty
-- [[公衆]] — public, communal
-- [[公邸]] — official residence
-- [[公館]] — official residence
 - [[兮]] — pshaw
 - [[共同]] — cooperate, collaborate
 - [[共和]] — collaboration, cooperation, republicanism
 - [[共産]] — communist
 - [[共産党]] — communist party
-- [[兵卒]] — private, soldier, trooper
-- [[兵士]] — soldier
 - [[典雅]] — graceful, elegant
-- [[内省]] — reflect, introspect, examine oneself
 - [[内部]] — interior, inside
 - [[冗]] — superfluous, excessive
 - [[写真]] — photograph
@@ -277,11 +253,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[冷麺]] — cold noodles
 - [[凄惨]] — miserable
 - [[凄涼]] — miserable, desolate
-- [[准許]] — allow, permit
 - [[凌駕]] — to override, to surpass
 - [[凍結]] — freeze
 - [[凝結]] — congeal, coagulate
-- [[処女]] — virgin, maiden, virgo
 - [[処決]] — handle, resolve, execute
 - [[凶]] — unlucky, calamitous, sinister
 - [[凶悪]] — heinous, atrocious, fiendish
@@ -297,7 +271,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[分析]] — analyze, analysis
 - [[切]] — cut, mince, carve
 - [[刈]] — cut, mow
-- [[刊]] — publication, periodical
 - [[刊行]] — publish
 - [[刑罰]] — penalty
 - [[判別式]] — discriminant
@@ -374,17 +347,14 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[印度支那]] — indochina (derogatory)
 - [[危殆]] — jeopardy, distress
 - [[危険]] — dangerous risky, perilous
-- [[即位]] — to ascend the throne
 - [[厉病]] — leprosy
 - [[厘]] — centi-
 - [[厳然]] — solemn, dignified
-- [[厳禁]] — strictly forbidden, strictly prohibit
 - [[去]] — go
 - [[参加]] — participate, join, enter
 - [[参差]] — irregular
 - [[参数]] — parameter
 - [[参考]] — reference, consult, for reference
-- [[参謀]] — staff officer, strategist, advisor
 - [[叉勺]] — spork
 - [[友誼]] — friendship
 - [[双曲線]] — hyperbola
@@ -392,16 +362,12 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[双鷹国]] — austria
 - [[反乱]] — rebel, revolt
 - [[反切]] — fanqie
-- [[反哺]] — take care of one's parents
 - [[反応]] — react, respond
 - [[反映]] — reflect, indicate
 - [[反響]] — echo
 - [[反駁]] — refute
 - [[収入]] — income
 - [[収穫]] — harvest, crop, yield
-- [[叔叔]] — uncle
-- [[叔母]] — aunt
-- [[叔父]] — paternal uncle (younger)
 - [[取得]] — acquire, gain, obtain
 - [[受動]] — passive (voice), receptive
 - [[受胎]] — conception, to conceive
@@ -434,7 +400,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[同時]] — simultaneous
 - [[同窓]] — alum, alumni
 - [[同胞]] — compatriot, countryman
-- [[名媛]] — famous woman
 - [[君主]] — monarch
 - [[君子]] — junzi, nobleman
 - [[君臣]] — fealty
@@ -459,7 +424,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[哀求]] — implore, entreat
 - [[哇]] — wow
 - [[哉]] — o
-- [[哥哥]] — elder brother (intimate)
 - [[哥金]] — copernicium
 - [[哨兵]] — sentry
 - [[哭]] — cry, weep
@@ -505,7 +469,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[回紇]] — uighur
 - [[因果]] — fateful, unlucky, karmic, causal
 - [[因縁]] — fate, predestined bond, karma
-- [[囲棋]] — go (board game)
 - [[囲碁]] — go (game)
 - [[固執]] — stubborn, stick to
 - [[国士]] — gentleman, patriot
@@ -560,7 +523,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[声調]] — tone, note
 - [[壱]] — loyal, faithful
 - [[外国人]] — foreigner
-- [[外祖母]] — maternal grandmother
 - [[外部]] — outside, exterior, external
 - [[多少]] — amount, quantity
 - [[多彩]] — multicolored, vibrant, flamboyant
@@ -573,14 +535,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[大和]] — yamato
 - [[大器]] — treasure
 - [[大声]] — loud voice
-- [[大夫]] — official
 - [[大学生]] — college student, undergrad
 - [[大猩]] — gorilla
 - [[大王]] — great king
 - [[大砲]] — canon, gun
-- [[大臣]] — official, minister
 - [[大蛤]] — clam
-- [[大衆]] — masses, public, multitude
 - [[大部分]] — majority
 - [[大釜]] — cauldron
 - [[大麦]] — barley
@@ -595,7 +554,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[太]] — great
 - [[太様]] — greatly, exceedingly
 - [[太素]] — great plainness
-- [[夫人]] — madam, lady, wife
 - [[夫子]] — confucius, master
 - [[失礼]] — rude, impolite
 - [[奄人]] — castrati, eunuch
@@ -609,10 +567,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[奥門]] — macau
 - [[奨励]] — encouragement, incentive, to award and exhort
 - [[奪取]] — snatch, seize
-- [[女]] — woman
-- [[女人]] — woman, female
 - [[女優]] — actress, female artist
-- [[女皇]] — empress
 - [[奴隷]] — slave
 - [[好]] — good
 - [[妊]] — be pregnant, conceive
@@ -622,41 +577,24 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[妥協]] — compromise, settle
 - [[妨害]] — obstruct, hinder, interfere with
 - [[妨碍]] — hinder
-- [[妻]] — wife
-- [[妻子]] — women and children, wife and child
 - [[妾]] — concubine
-- [[姉]] — elder sister
 - [[姉妹]] — sisters
 - [[始金]] — actinium
-- [[姑娘]] — girl; young lady, young woman (unmarried)
 - [[姑息]] — makeshift
-- [[姑母]] — paternal aunt
 - [[姓氏]] — surname
 - [[委]] — appoint, send, commission
 - [[委託]] — entrust, trust
 - [[姜]] — ginger
-- [[姥姥]] — grammy, maternal grandmother
 - [[姦淫]] — fornicate, adultery
-- [[姨母]] — aunt, maternal aunt
-- [[姪女]] — niece
-- [[姫]] — princess, concubine, court lady
 - [[姿勢]] — posture
 - [[姿態]] — pose, position
 - [[娃娃]] — doll, dolly
-- [[娘]] — young woman
 - [[婚姻]] — marriage, matrimony
-- [[婢女]] — servant girl, maid servant
-- [[婦]] — lady, woman
-- [[媽媽]] — mom; mother; mama
 - [[嫉妬]] — be jealous, be envious
 - [[嫌悪]] — hatred, aversion, loathing
-- [[嫡]] — legitimate wife
 - [[嫩]] — delicate, tender
 - [[嬌媚]] — coquettish, charming, flirtatious, alluring
-- [[嬰児]] — baby
 - [[嬴金]] — thulium
-- [[子子]] — child (one's own, intimate)
-- [[子孫]] — descendents, children and grandchildren
 - [[子音]] — consonant
 - [[孔]] — cavity
 - [[孔子]] — confucius
@@ -669,13 +607,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[孟子]] — mencius
 - [[孟金]] — manganese
 - [[孤児院]] — orphanage
-- [[孤軍]] — isolated army, lone forces
 - [[学問]] — scholarship, learning
 - [[学寮]] — student dormitory
 - [[学生]] — student
 - [[学者]] — scholar
 - [[学説]] — theory, doctrine
-- [[孩子]] — child; kid(s)
 - [[孫女]] — granddaughter
 - [[孫孫]] — grandkiddo, grandchild
 - [[孫金]] — promethium
@@ -689,10 +625,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[宗師]] — honored master, great scholar
 - [[宗教]] — religion
 - [[宗派]] — faction, sect, clan
-- [[官人]] — official
-- [[官僚]] — bureaucrat, apparatchik
-- [[官僚主義]] — bureaucracy, bureaucratism
-- [[官吏]] — public servant, clerk, officer
 - [[宙]] — eternity
 - [[定位]] — position
 - [[宝物]] — treasure, treasury
@@ -709,11 +641,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[宿題]] — homework, assignment
 - [[寂寞]] — lonely, desolate
 - [[寂滅]] — nirvana, cessation of suffering
-- [[寄宿]] — lodge, board, rent
 - [[富裕]] — prosperous, wealthy, rich
 - [[寒冷]] — cold, freezing
 - [[寓居]] — lodging, temporary dwelling
-- [[寡婦]] — widow
 - [[審査]] — review, screening, judge
 - [[審訊]] — inquest, judicial hearing, interrogation
 - [[寸]] — inch, measurement
@@ -724,21 +654,15 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[寿命]] — age, lifespan
 - [[寿着]] — hesitate, waver, be undecided
 - [[専念]] — concentrate, focus
-- [[射策]] — policy examination
 - [[射素]] — radon
 - [[射術]] — archery
 - [[射香]] — musk
-- [[将兵]] — army
-- [[将校]] — commissioned officer
 - [[将棋]] — chess
-- [[尉]] — officer
 - [[尊厳]] — dignity, sanctity
 - [[尊魚]] — trout
 - [[導管]] — pipe, conduit
 - [[小冊子]] — booklet
 - [[小川]] — ogawa
-- [[少女]] — girl, young woman
-- [[少年]] — youngster, boy
 - [[尖鼠]] — shrew, shrewmouse
 - [[尤其]] — especially, besides
 - [[尭舌]] — talkative, mc-ing
@@ -781,7 +705,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[希望]] — hope, wish
 - [[希釈]] — dilute
 - [[帖]] — invitation, card
-- [[帝王]] — emperor
 - [[帰納]] — induce, derive
 - [[帰順]] — submit to, surrender to
 - [[常時]] — constantness, frequentness
@@ -789,10 +712,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[幟]] — pennant, banner
 - [[幣]] — cash
 - [[干渉]] — interfere, intervene
-- [[年刊]] — annual, annual publication
 - [[年齢]] — someone's age
-- [[幹部]] — leader, officer, executive
-- [[幼児]] — baby, infant
 - [[幼稚]] — infantile, young
 - [[幽鬼]] — poltergeist
 - [[広野]] — wilderness
@@ -803,11 +723,8 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[廉]] — upright, honest
 - [[建国]] — founding, establish
 - [[弄]] — tamper with, mess with
-- [[弒君]] — regicide, assassinate a ruler
 - [[引]] — pull, tug
-- [[弟]] — younger brother
 - [[弟子]] — apprentice, disciple
-- [[弟弟]] — younger brother
 - [[弥勒]] — maitreya
 - [[弧度]] — radian
 - [[弧線]] — arc
@@ -830,7 +747,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[征伐]] — conquer, subjugate
 - [[後悔]] — regret
 - [[後置詞]] — postposition
-- [[後裔]] — descendant, posterity
 - [[徐様]] — slowly
 - [[従]] — obey, observe
 - [[従属]] — subordination, dependency
@@ -926,7 +842,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[所属]] — affiliation, membership, belonging to
 - [[手巾]] — towel
 - [[手足]] — limbs
-- [[才媛]] — talented woman
 - [[才能]] — ability, talent
 - [[扱]] — handle, deal with
 - [[批評]] — criticism, review, critique
@@ -934,7 +849,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[抑制]] — to suppress, to restrain, to inhibit
 - [[抑止]] — repress, restrain
 - [[投]] — throw
-- [[投票率]] — voter turnout, voting rate
 - [[抗拒]] — repel, refuse
 - [[折畳]] — to fold, folding
 - [[披]] — expose
@@ -971,7 +885,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[掃帚]] — broom
 - [[授与]] — confer, award, grant
 - [[授業]] — teach, instruct, give a lesson
-- [[掌管]] — to manage, to be in charge of
 - [[排水溝]] — gutter, culvert
 - [[排球]] — volleyball
 - [[掘]] — dig, excavate
@@ -984,7 +897,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[推測]] — surmise, speculate, conjecture
 - [[推薦]] — recommend
 - [[掩襲]] — sneak attack, ambush
-- [[措置]] — handle, arrange, manage
 - [[揄伽]] — yoga
 - [[提携]] — alliance, cooperation, tie-up
 - [[提督]] — admiral
@@ -995,7 +907,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[揶揄]] — deride, ridicule
 - [[揺]] — swing, shake, rock
 - [[搬送]] — transport, convey
-- [[搭乗]] — boarding, embarkation, board, take a conveyance
 - [[搭載]] — transport
 - [[摂]] — vicarious
 - [[摂食]] — feed, ingest
@@ -1016,7 +927,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[放素]] — radium
 - [[放置]] — put aside, abandon, shelve
 - [[放蕩]] — licentious, dissolute, debauched
-- [[政治]] — politics
 - [[故郷]] — hometown
 - [[敏]] — fast, quick, clever, smart
 - [[敏感]] — sensitive
@@ -1041,7 +951,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[文学]] — literature
 - [[文学者]] — literati
 - [[文明]] — civilization
-- [[文武]] — civilian and military
 - [[文献]] — literature
 - [[斎戒]] — fast
 - [[斐然]] — remarkable, brilliant, splendid
@@ -1075,7 +984,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[旗艦]] — flagship
 - [[既往]] — past
 - [[日出]] — sunrise
-- [[日刊]] — daily publication, daily periodical
 - [[日暮]] — dusk, nightfall, twilight
 - [[日本素]] — nihonium
 - [[日耳曼]] — germanic
@@ -1085,7 +993,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[昇天]] — die
 - [[昇級]] — sheng ji
 - [[昌盛]] — prosperous, flourishing
-- [[明君]] — wise ruler, enlightened monarch
 - [[明蝦]] — king prawn
 - [[星坐]] — constellation
 - [[星雲]] — nebula
@@ -1118,7 +1025,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[曽子]] — zengzi
 - [[最善]] — best
 - [[最大]] — maximum, greatest, largest
-- [[月刊]] — monthly periodical, monthly publication
 - [[月素]] — selenium
 - [[月虹]] — moonbow
 - [[有名]] — famous
@@ -1126,7 +1032,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[服務員]] — server, waiter
 - [[服従]] — obedience, submission, to obey
 - [[木偶]] — puppet, marionette
-- [[木板]] — board, plank
 - [[末梢]] — tiptop, periphery, trivia
 - [[本塁打]] — homerun
 - [[朴木]] — hackberry
@@ -1134,13 +1039,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[机械]] — machine, machinery
 - [[李子]] — plum
 - [[材木]] — lumber, timber
-- [[杖]] — staff, stick
 - [[杜選]] — careless, sloppy, unsubstantiated
 - [[杜金]] — dubnium
 - [[束]] — bundle of
 - [[束縛]] — tie, bind
 - [[条件]] — condition, prerequisite
-- [[条約]] — pact, treaty
 - [[杪小]] — treetop, extremity
 - [[東北]] — northeast
 - [[東南]] — southeast
@@ -1187,7 +1090,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[棺]] — coffin
 - [[椋鳥]] — starling
 - [[椎菌]] — shitake mushrooms
-- [[検査]] — inspect, examine, check
 - [[検証]] — verify
 - [[検閲]] — censorship, inspection, to censor
 - [[椰子]] — coconut
@@ -1229,7 +1131,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[正義]] — justice
 - [[正餐]] — dinner
 - [[此]] — this
-- [[武]] — military
 - [[武士]] — warrior, samurai
 - [[武士道]] — bushido
 - [[歯]] — teeth, gear
@@ -1241,7 +1142,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[毅然]] — resolutely, firmly
 - [[母校]] — alma mater
 - [[母母]] — mommy
-- [[母親]] — mother
 - [[母音]] — vowel
 - [[毒]] — poisonous
 - [[比糠]] — chaff and bran, worthless dross
@@ -1265,7 +1165,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[汀]] — sand bar
 - [[汎濫]] — flood, overflow
 - [[汚]] — dirty
-- [[汚吏]] — corrupt official
 - [[汚垢]] — dirt, grime, filth
 - [[汚染]] — pollute, contaminate
 - [[汚物]] — dirt, filth, garbage
@@ -1430,7 +1329,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[爬虫]] — reptile
 - [[爬行]] — crawl
 - [[父子]] — parenthood
-- [[父母]] — parents
 - [[父父]] — daddy
 - [[爺爺]] — grandpappy, grandpapa (intimate)
 - [[爽快]] — refreshing, invigorating, exhilarating
@@ -1441,7 +1339,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[版権]] — copyright
 - [[牌]] — playing card, tile
 - [[牛虻]] — gadfly, horsefly
-- [[牛郎]] — the cowherd boy
 - [[牡丹]] — peony
 - [[牡厉]] — oyster
 - [[牧民]] — herdsman
@@ -1474,11 +1371,9 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[率直]] — frank, candid, straightforward
 - [[玉葱]] — onion
 - [[王]] — king
-- [[王位]] — throne
 - [[王冠]] — crown
 - [[王妃]] — queen
 - [[王子]] — prince
-- [[王朝]] — dynasty, reign, court
 - [[玩具]] — toy
 - [[玻璃]] — glass, crystall
 - [[玻璃版]] — collotype
@@ -1512,7 +1407,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[生徒]] — pupil, educatee, student
 - [[生日]] — birthday
 - [[産量]] — output, yield
-- [[甥]] — sister's child, sororal niece or nephew
 - [[用尽]] — exhaust, use up
 - [[用疽]] — abscess, ulcer
 - [[用言]] — declinable word
@@ -1546,7 +1440,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[癌症]] — cancer
 - [[発]] — issue forth, discharge
 - [[発情]] — be in heat, aroused, rut
-- [[登]] — mount, board, climb
 - [[白亜]] — chalk
 - [[白亜紀]] — cretaceous period
 - [[白内障]] — cataract
@@ -1557,8 +1450,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[百升]] — hectoliter
 - [[百済]] — baekje
 - [[百科事典]] — encyclopedia
-- [[皇后]] — empress, queen consort
-- [[皇帝]] — emperor
 - [[皺紋]] — wrinkles
 - [[盆]] — basin
 - [[盗賊]] — bandit, robber, thief
@@ -1616,24 +1507,16 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[社会]] — society
 - [[社会主義]] — socialism
 - [[社会学]] — sociology
-- [[祖先]] — ancestor, forebear
 - [[祖国]] — motherland, homeland
-- [[祖母]] — paternal grandmother
-- [[祖父]] — grandfather
 - [[祝賀]] — congratulate
 - [[神学院]] — seminary
 - [[神巫]] — shaman, wizard
 - [[神農]] — shennong
 - [[神道教]] — shintoism
 - [[票]] — ballot, ticket
-- [[禁制]] — prohibit, prohibition, regulatory restriction
-- [[禁断]] — forbidden, forbid absolutely, prohibition
 - [[禁欲]] — be ascetic, suppress desire, be abstinent
 - [[禁欲主義]] — asceticism
-- [[禁止]] — forbid, prohibit
 - [[禁漁]] — fishing ban, no fishing
-- [[禁煙]] — no smoking, tobacco prohibition
-- [[禁酒]] — prohibition of alcohol, no alcohol, temperance
 - [[禁錮]] — imprison
 - [[禅]] — oneness, zen
 - [[禍事]] — disaster, calamity
@@ -1685,7 +1568,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[筒]] — cylinder, tube
 - [[答]] — answer, reply, assent, return
 - [[算]] — calculate
-- [[管理]] — supervise, administer, manage
 - [[節減]] — economize, economy
 - [[簡潔]] — concise, succinct
 - [[簡略]] — brief, simplified, concise
@@ -1722,12 +1604,10 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[紫丁香]] — lilac
 - [[紮]] — tie, fasten, bind
 - [[累計]] — accumulated total, cumulative
-- [[細妹]] — younger sister
 - [[紳士]] — gentleman
 - [[終点]] — terminus, terminal
 - [[組織]] — organize
 - [[絆倒]] — fetter
-- [[経営]] — run, manage
 - [[経済]] — economy
 - [[経済学]] — economics
 - [[経費]] — expenditures, expenses
@@ -1745,7 +1625,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[綱要]] — outline, sketch, essentials, compendium
 - [[網]] — netting, net, network
 - [[網球]] — tennis, tennis ball, net ball
-- [[網球場]] — tennis court
 - [[網語]] — online speak
 - [[緊張]] — tight, tense, worried
 - [[総数]] — total, grand total
@@ -1759,7 +1638,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[繁殖]] — breed, reproduce
 - [[繁華]] — lively, bustling
 - [[繃帯]] — bandage
-- [[織女]] — the weaver girl
 - [[織女星]] — vega
 - [[繞]] — entwine, surround, enclose
 - [[繭]] — cocoon
@@ -1775,14 +1653,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[美洲]] — americas
 - [[美洲金]] — americium
 - [[羞辱]] — humiliate
-- [[群衆]] — crowd, masses, the public
 - [[羨慕]] — envy, be jealous of
 - [[羽毛]] — feathers, plumage
 - [[翻]] — flip
 - [[翻身]] — emancipate
 - [[老人学]] — gerontology
-- [[老師]] — sage, elder monk
-- [[老爺]] — grandfather, master
 - [[考試]] — test, exam
 - [[者]] — -er, -ist
 - [[而]] — and, but
@@ -1834,7 +1709,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[膣]] — cunt
 - [[膿]] — pus
 - [[臘八粥]] — laba congee, laba porridge
-- [[臣民]] — officials and commoners, subjects
 - [[臨時]] — temporary, provisional, interim
 - [[自動車]] — automobile
 - [[自在]] — comfortable, carefree, adjustable
@@ -1850,7 +1724,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[臼]] — mortar, millstone, socket
 - [[興]] — entertain
 - [[興旺]] — thriving, prosperous, flourishing
-- [[舞妓]] — maiko, apprentice geisha, dancing girl
 - [[航空]] — aviation
 - [[航空母艦]] — aircraft carrier
 - [[艦船]] — seagoing vessels
@@ -1957,7 +1830,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[融]] — melt, blend, harmonize
 - [[融化]] — dissolve, thaw
 - [[螺旋]] — helix, spiral, screw
-- [[螺鈿]] — mother-of-pearl, lacquer
 - [[蟄]] — hibernate
 - [[蟹]] — crab
 - [[蠟燭]] — candle
@@ -1992,7 +1864,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[規定]] — stipulate, regulation, provision
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
 - [[覚醒]] — be disillusioned, sober up
-- [[親族]] — relatives, kin, cognates
 - [[親睦]] — friendship, amicability, cordial relations
 - [[観察]] — observe, inspect
 - [[観測]] — observe, monitor
@@ -2003,7 +1874,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[解剖]] — dissect
 - [[解析]] — analyze, analysis
 - [[解決]] — solve, resolve, conclude, settle
-- [[解禁]] — lift a ban, rescind a prohibition
 - [[解釈]] — interpretation, to interpret
 - [[言語]] — language
 - [[訂]] — revise, correct
@@ -2014,8 +1884,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[訟]] — sue
 - [[訥]] — mumble, stammer
 - [[訪問]] — visit
-- [[許]] — permit, allow
-- [[許可]] — permission, authorization
 - [[診断]] — diagnose
 - [[証人]] — witness
 - [[証券]] — security
@@ -2026,7 +1894,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[評価]] — evaluation, appraisal
 - [[詞句]] — words and phrases
 - [[詠]] — recite, chant
-- [[試験]] — test, examine
 - [[詩人]] — poet
 - [[詳細]] — detailed
 - [[誇]] — boast, brag, exaggerate
@@ -2051,10 +1918,8 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[談判]] — negotiate, talk
 - [[談話]] — conversation, statement, talk
 - [[請]] — ask, invite, request, please
-- [[諌議]] — to remonstrate, to admonish a ruler
 - [[諒解]] — excuse, forgive
 - [[論語]] — analects
-- [[諭示]] — issue a decree
 - [[諺文]] — hangul
 - [[諾]] — consent
 - [[諾貝金]] — nobelium
@@ -2063,7 +1928,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[謹慎]] — cautious
 - [[警戒]] — vigilant
 - [[議論]] — comment, discuss
-- [[譲]] — permit
 - [[護金]] — palladium
 - [[豆]] — bean
 - [[豆腐]] — tofu
@@ -2083,7 +1947,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[貪]] — greedy
 - [[貪林]] — greedy, avaricious
 - [[貯蔵]] — storage
-- [[貴族]] — aristocrat, nobility
 - [[費]] — expense
 - [[費米金]] — fermium
 - [[貼]] — paste on, stick to, attach
@@ -2124,15 +1987,11 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[車]] — car, cart
 - [[車庫]] — garage
 - [[軌道]] — orbit
-- [[軍事]] — military matters
-- [[軍人]] — soldier
 - [[軍艦]] — warship
 - [[軍隊]] — armed forces
 - [[軛]] — yoke
 - [[軣軣]] — rumbling, booming, roaring
 - [[軽罪]] — misdemeanor
-- [[輔佐]] — assist (a ruler), serve as an aide
-- [[輔弼]] — assist (a ruler)
 - [[輩]] — generation
 - [[輪]] — wheel, circle, ring, loop
 - [[輪郭]] — outline, contour, silhouette
@@ -2143,7 +2002,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[辞職]] — to resign, resignation
 - [[辞退]] — decline, refuse
 - [[辟歴]] — thunderclap, thunderbolt
-- [[辦理]] — manage, arrange, run
 - [[農業]] — agriculture, farming
 - [[農民]] — farmer, peasant
 - [[農耕]] — agriculture
@@ -2175,9 +2033,7 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[連盟]] — covenant, alliance
 - [[連続]] — continuous, consecutive, successive
 - [[逮捕]] — arrest, apprehension
-- [[週刊]] — weekly periodical, weekly publication
 - [[週年]] — anniversary
-- [[進撃]] — charge, attack
 - [[進行]] — advance, progress
 - [[逸]] — flee, escape
 - [[逸事]] — anecdote
@@ -2210,7 +2066,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[郵帖]] — postcard
 - [[郵票]] — stamp, postage stamp
 - [[鄭重]] — solemn
-- [[配偶]] — spouse
 - [[配置]] — deploy, allocate
 - [[酒精]] — alcohol
 - [[酒糟]] — distiller's grain, lees
@@ -2235,7 +2090,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[鉀]] — potassium
 - [[鉗]] — vice, pliers, forceps
 - [[鉤]] — hook, barb
-- [[鉦鼓]] — gong and drum, military percussion
 - [[鉱物学]] — mineralogy
 - [[銃]] — gun
 - [[銅鑼]] — gong
@@ -2276,8 +2130,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[限定]] — restrict, limit
 - [[限定詞]] — determiner
 - [[限度]] — limit, limitation
-- [[陣営]] — army camp
-- [[陣地]] — military position
 - [[除湿]] — dehumidify
 - [[陥]] — submerge
 - [[陰影]] — shadow
@@ -2358,7 +2210,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[音韻]] — phonology, phoneme
 - [[韻母]] — rhyme, final (of a syllable)
 - [[頑固]] — stubborn, obstinate
-- [[頒布]] — promulgate, issue officially, publish (a decree)
 - [[顆粒]] — granule, pellet, grain
 - [[願意]] — willing, want, wish
 - [[顚癇]] — epilepsy
@@ -2384,7 +2235,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[飽足]] — satisfied, satiated
 - [[餃子]] — jiaozi, dumpling, gyoza
 - [[養殖]] — cultivate, breed
-- [[養母]] — adoptive mother
 - [[養育]] — foster, raise
 - [[餓鬼]] — hungry ghost, preta
 - [[饅頭]] — steamed bun
@@ -2406,7 +2256,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[駱駝]] — camel
 - [[騎乗]] — ride, be mounted
 - [[騒]] — boisterous
-- [[験]] — check, examine
 - [[騙]] — deceive, defraud
 - [[騰貴]] — to soar in price, price inflation
 - [[高句麗]] — goguryeo
@@ -2473,6 +2322,23 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[釣竿]] — fishing pole
 - [[学位]] — academic degree
 - [[潜在]] — potential, latent
+- [[佳人]] — beautiful woman
+- [[名媛]] — famous woman
+- [[才媛]] — talented woman
+- [[老師]] — sage, elder monk
+- [[舞妓]] — maiko, apprentice geisha, dancing girl
+- [[螺鈿]] — mother-of-pearl, lacquer
+- [[乗車]] — board a vehicle, get on
+- [[充電]] — to recharge (a battery), to charge
+- [[内省]] — reflect, introspect, examine oneself
+- [[囲棋]] — go (board game)
+- [[寄宿]] — lodge, board, rent
+- [[搭乗]] — boarding, embarkation, board, take a conveyance
+- [[木板]] — board, plank
+- [[登]] — mount, board, climb
+- [[網球場]] — tennis court
+- [[進撃]] — charge, attack
+- [[験]] — check, examine
 
 ## Animals (919)
 
@@ -3396,271 +3262,102 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[鼈]] — pelodiscus sinensis (turtle)
 - [[龍王]] — dragon king
 
-## Geography (263)
+## Art (94)
 
-- [[七事]] — seven duties of a sovereign
-- [[七宝]] — seven treasures
-- [[七対子]] — seven pairs (mahjong)
-- [[七情]] — seven emotions
-- [[七面鳥]] — turkey
-- [[万邦]] — world, all the countries, myriad regions
-- [[不均]] — uneven, unequal, imbalanced
-- [[不平]] — unjust, uneven, unfair
-- [[世界]] — world
-- [[中亜]] — central asia
-- [[中原]] — central plains
-- [[中央情報局]] — central intelligence agency, cia
-- [[主宰]] — superintend, rule
-- [[主権]] — sovereignty
-- [[乖巧]] — smart, well-behaved
-- [[九州]] — nine provinces, kyushu
-- [[九経]] — the nine classics
-- [[二次元]] — two dimensions, 2d, the 2d world (anime, manga, games)
-- [[井戸]] — well
-- [[交]] — mix, exchange
-- [[交換]] — exchange, swap
-- [[交易]] — trade, transact
-- [[交流]] — exchange, interchange, mingle
-- [[亨通]] — prosper, go well
-- [[人口]] — population
-- [[伝播]] — propagate, disseminate, spread
-- [[伺候]] — wait upon, serve, attend
-- [[侍奉]] — serve, wait upon
-- [[侵犯]] — intrude upon, violate, invade
-- [[兗州]] — yanzhou, one of the nine provinces
-- [[全球]] — global, the entire world
-- [[内海]] — inland sea
-- [[冠冕]] — royal crown, official headwear
-- [[凹凸]] — bumpy, uneven, rugged
-- [[分布]] — distribution, dispersion
-- [[北氷洋]] — arctic ocean
-- [[北美]] — north america
-- [[北美洲]] — north american continent, north america
-- [[協議]] — negotiation, consultation, agreement
-- [[南亜]] — south asia
-- [[南山]] — south mountain
-- [[南方]] — south, southern direction
-- [[南極洲]] — antarctica
-- [[南氷洋]] — southern ocean, antarctic ocean
-- [[南海]] — southern sea, south china sea
-- [[南美]] — south america
-- [[南美洲]] — south american continent, south america
-- [[南部]] — south, southern area
-- [[南非]] — south africa
-- [[印度洋]] — indian ocean
-- [[厚顔]] — brazen-faced, impudent, shameless
-- [[原則]] — principle, rule
-- [[原理]] — principle
-- [[商業]] — commerce, trade
-- [[商路]] — trade route
-- [[善人]] — philanthropize, well-doer
-- [[喊声]] — shout, battle cry, war cry
-- [[四海]] — four seas, the four seas bounding all-under-heaven
-- [[国主]] — sovereign, ruler of a state
-- [[国王]] — king, sovereign, monarch
-- [[国連]] — league of nations
-- [[国際]] — international
-- [[国際語]] — international language, koine, lingua franca
-- [[地中海]] — mediterranean sea
-- [[地図学]] — cartography
-- [[地形]] — terrain, topography, landform
-- [[地方]] — region, territory
-- [[地球]] — earth, globe, world
-- [[地球儀]] — globe, model earth
-- [[地理]] — geography, topography
-- [[地理学]] — geography
-- [[基金]] — fund
-- [[塑造]] — model, mould
-- [[外交]] — diplomacy, foreign affairs
-- [[外国語]] — foreign language
-- [[外来]] — foreign, extrinsic
-- [[外語]] — foreign language
-- [[外貨]] — foreign goods, foreign currency
-- [[多様]] — diverse, diversity
-- [[多辺]] — multilateral, many-sided
-- [[大水]] — flood; great waters
-- [[大洋]] — ocean
-- [[大洋洲]] — oceania
-- [[大義]] — principles of justice, be truly righteous
-- [[大西洋]] — atlantic ocean
-- [[天下]] — world, all under heaven
-- [[天地]] — world, heaven and earth
-- [[天地之別]] — a world of difference, the gulf between heaven and earth, a vast difference
-- [[天神地祇]] — the gods of heaven and earth, all the gods
-- [[太平洋]] — pacific ocean
-- [[媒介]] — medium, intermediary, agent (of transmission)
-- [[媒体]] — medium, media
-- [[定義]] — define
-- [[密度]] — density
-- [[対外]] — foreign, external, toward the outside
-- [[尋]] — inquire for, seek
-- [[尼羅河]] — nile river
-- [[展翅]] — to spread the wings, to take flight
-- [[島]] — island
-- [[干戈]] — weapons of war, arms
-- [[干犯]] — infringe, violate, encroach upon
-- [[広土]] — vast territory, extensive land
-- [[当世]] — this time, this world
-- [[影響]] — influence, affect, disturb
-- [[必備]] — essential, required, must-have
-- [[必須]] — be essential, be a must
-- [[念頭]] — idea, thought
-- [[思想]] — thought, thinking, idea, ideology, philosophy
-- [[情況]] — circumstances, conditions
-- [[戦争]] — war
-- [[戦国]] — warring states
-- [[担任]] — to assume a post, to take charge
-- [[拡散]] — to diffuse, to spread, diffusion
-- [[捜索]] — search for, seek, investigate
-- [[換]] — interchange, exchange
-- [[改善]] — improvement, reform
-- [[改革]] — reform
-- [[政党]] — political party
-- [[散布]] — scatter, spread, disseminate
-- [[敷]] — spread
-- [[斉国]] — qi nation
-- [[新語]] — neologism
-- [[方針]] — policy, principle, philosophy
-- [[旦夕]] — sooner or later
-- [[普及]] — to spread widely, to popularize, to become universal, diffusion
-- [[朕]] — we (royal)
-- [[朝廷]] — imperial court, royal court
-- [[東亜]] — east asia
-- [[東伝]] — eastward transmission
-- [[柄国]] — rule (literary)
-- [[梁州]] — liang province, province of liang
-- [[構造]] — structure, composition, construction
-- [[模範]] — model, exemplar
-- [[欧洲]] — europe
-- [[欧羅巴]] — europe, europa, eu
-- [[殖民]] — colonization, colonial
-- [[気候]] — climate
-- [[江南]] — south river, gangnam
-- [[沙漠]] — desert
-- [[治世]] — well-governed era, peaceful reign, era of good government
-- [[法]] — rule, law
-- [[法則]] — law, rule, code
-- [[泛濫]] — flood, overflow, spread unchecked
-- [[波斯]] — persia
-- [[流動]] — flow, spread, circulate
-- [[海上]] — marine, maritime, on the sea
-- [[海洋]] — sea, ocean
-- [[海禁]] — maritime prohibition, sea ban
-- [[火山島]] — volcanic island
-- [[炎帝]] — yan emperor
-- [[為]] — namely
-- [[照耀]] — to shine upon, to illuminate, to radiate
-- [[熱帯]] — tropical, the tropics
-- [[版図]] — domain, dominion, territory
-- [[狙鳩]] — osprey, royal-coot
-- [[独立]] — independence, independent
-- [[王畿]] — royal domain
-- [[瑞士]] — switzerland
-- [[環状]] — ring-shaped, annular, concentric
-- [[留]] — remain, stay
-- [[留学生]] — international student, exchange student
-- [[癒合]] — recover, get well
-- [[百家]] — hundred schools, many schools of thought
-- [[百越]] — baiyue, the hundred yue peoples of ancient southern china
-- [[相当]] — equivalent (to), considerable, quite, fairly
-- [[社交]] — social interaction
-- [[社会科]] — social studies
-- [[統治]] — govern, rule
-- [[美国]] — america, u.s.a.
-- [[草原]] — grassland, prairie, steppe, savanna, meadow
-- [[荊州]] — jing province, province of jing
-- [[荷蘭]] — netherlands, holland
-- [[蘇連]] — soviet union
-- [[西亜]] — west asia
-- [[西部]] — west, western region
-- [[規律]] — rule, regularity, discipline
-- [[諮詢]] — consult, seek advice, make enquiries
-- [[諸子百家]] — hundred schools of thought
-- [[貿易]] — trade, commerce
-- [[資本]] — capital (finance), resource
-- [[資源]] — resources
-- [[近代]] — early modern period
-- [[通信]] — communication, correspondence
-- [[連合]] — unite, ally with, alliance, union
-- [[連合国]] — united nations, the allied powers
-- [[連邦]] — federation, federal state, commonwealth, union
-- [[運行]] — move, operate
-- [[運転]] — operate, drive
-- [[違犯]] — violate, infringe upon, disobey
-- [[遷移]] — to shift, to relocate, transition
-- [[郵便]] — mail, post
-- [[重要]] — important
-- [[雍州]] — yong province, province of yong
-- [[青州]] — qing province, province of qing
-- [[非洲]] — africa
-- [[領土]] — territory
-- [[高山]] — high mountain, alpine
-- [[上海]] — shanghai
-- [[不丹]] — bhutan
-- [[丘]] — hill
-- [[中国]] — china
-- [[中華民国]] — republic of china, taiwan
-- [[丹麦]] — denmark
-- [[予州]] — yu province, province of yu
-- [[京畿]] — capital province
-- [[共和国]] — republic
-- [[北京]] — beijing, peiking
-- [[印度]] — india
-- [[印度尼西亜]] — indonesia
-- [[台湾]] — taiwan
-- [[合肥]] — hefei, capital of anhui province, china
-- [[地図冊]] — atlas
-- [[地震]] — earthquake
-- [[埃及]] — egypt
-- [[墨西哥]] — mexico
-- [[大不列顚]] — great britain
-- [[大陸]] — continent
-- [[天皇]] — emperor of japan, mikado
-- [[天竺]] — india
-- [[守戍]] — border guard
-- [[寮国]] — laos
-- [[山岡]] — hill, hillock
-- [[崖]] — cliff
-- [[希州]] — ji province, province of ji
-- [[帝国]] — empire
-- [[徐州]] — xu province, province of xu
-- [[徳国]] — germany
-- [[愛媛]] — ehime, ehime prefecture
-- [[新嘉浦]] — singapore
-- [[日本]] — japan
-- [[東京]] — tokyo
-- [[森林]] — forest, jungle, underbrush
-- [[民国]] — republic
-- [[河内]] — hanoi
-- [[沼沢]] — swamp, bog
-- [[沿海]] — coastal
-- [[法国]] — france
-- [[泥婆羅]] — nepal
-- [[泰国]] — thailand
-- [[洲]] — islet, continent
-- [[海防]] — coastal defense
-- [[火山]] — volcano
-- [[珈拿陀]] — canada
-- [[県]] — county, district, prefecture, subdivision
-- [[経緯]] — warp and woof, latitude and longitude
-- [[英格蘭]] — england
-- [[菲律賓]] — philippines
-- [[蒙古]] — mongolia
-- [[薮沢]] — marsh, swamp
-- [[西蔵]] — tibet
-- [[谷]] — valley
-- [[豪洲]] — australia
-- [[越南]] — vietnam
-- [[越境]] — transgress, infringe on the border of
-- [[辺境]] — frontier, border
-- [[郡]] — county, prefecture, district, commandery
-- [[露国]] — russia
-- [[露斯亜]] — russia
-- [[面田]] — myanmar
-- [[頂点]] — peak, vertex, apex
-- [[馬来西亜]] — malaysia
-- [[高峰]] — peak, summit, pinnacle
-- [[高綿]] — cambodia
+- [[偶像]] — idol, statue
+- [[公尺]] — meter, metre
+- [[兵法]] — art of war, tactics
+- [[冊子]] — book
+- [[刷]] — brush, scrub
+- [[刷子]] — brush
+- [[劇場]] — cinema, theater
+- [[劇詩]] — dramatic poetry
+- [[加持]] — perform incantations, bless
+- [[叢書]] — book series, anthology
+- [[史学]] — historiography, history (as academic discipline)
+- [[和敬]] — harmony and respect
+- [[和諧]] — harmonious, harmony
+- [[唐詩]] — tang poetry
+- [[唱和]] — sing chorus
+- [[唱歌]] — sing, chant
+- [[図画]] — drawing, picture
+- [[塑像]] — molded statue
+- [[墨水]] — ink
+- [[奥秘]] — secret, mystery
+- [[嬉遊]] — play, frolic, enjoy oneself
+- [[宣言]] — proclaim, manifesto
+- [[帳簿]] — account book, ledger
+- [[引禍]] — to bring on calamity, to draw disaster upon oneself
+- [[弦]] — bowstring, chord, string, hypotenuse
+- [[彫像]] — statue, image
+- [[手帖]] — handwritten letter, notebook
+- [[拂]] — shake off, brush off
+- [[拉]] — drag, pull, play a bowed instrument
+- [[拍]] — tap, clap, beat, pulse
+- [[擦]] — wipe, scrub, rub, scour, brush
+- [[擱筆]] — lay down the pen, stop writing
+- [[支部]] — branch, chapter
+- [[故事]] — narrative, story, tale
+- [[文書]] — letter, document
+- [[文科]] — liberal arts, humanities
+- [[文章]] — essay, article
+- [[文芸]] — literature and art, art and culture
+- [[族譜]] — clan registry, geneology book
+- [[日報]] — daily newspaper
+- [[易経]] — book of changes
+- [[景致]] — scenery, scene, view
+- [[書本]] — book
+- [[書簡]] — letter
+- [[書経]] — book of documents
+- [[札]] — letter, note
+- [[柬]] — letter, invitation
+- [[楽経]] — classic of music
+- [[楽譜]] — music score, music manuscript
+- [[武芸]] — martial art skill
+- [[武術]] — martial art
+- [[武道]] — martial arts
+- [[歴史]] — history
+- [[汲]] — draw water
+- [[法術]] — magic, magic arts
+- [[測量]] — measure, survey
+- [[演]] — unfold, perform
+- [[演奏]] — play (music)
+- [[版画]] — print (picture copied from a painting or photography)
+- [[画報]] — pictorial, picture magazine
+- [[礼記]] — book of rites
+- [[神秘]] — mystery, mystical secret
+- [[神経]] — nerve, mystery classic
+- [[神話]] — myth, fairytale, mythology
+- [[章]] — chapter
+- [[筆]] — pen, stylus
+- [[絵画]] — draw, paint
+- [[編纂]] — compile, edit
+- [[編集]] — compile, edit
+- [[翻訳]] — translate
+- [[聴衆]] — audience
+- [[薄膜]] — membrane, thin film
+- [[衡量]] — weigh, measure, evaluate
+- [[計画]] — plan, schedule, measure
+- [[訓]] — interpret, translate, explicate
+- [[記載]] — record, write down
+- [[記録]] — record, note, document
+- [[詩作]] — poem; poetry composition
+- [[詩歌]] — poem, poetry
+- [[詩篇]] — poem, psalm
+- [[詩経]] — classic of poetry
+- [[課]] — lesson, chapter
+- [[謎]] — riddle, mystery, enigma
+- [[賦]] — prose-poetry
+- [[跆籍]] — taekwondo registration, martial arts membership record
+- [[跳舞]] — dance
+- [[辞令]] — letter of dismissal, letter of resignation
+- [[遊戯]] — play, game
+- [[量詞]] — measure word, classifier, counter
+- [[針言]] — proverb
+- [[鉛筆]] — pencil
+- [[雑誌]] — magazine, periodical
+- [[音楽]] — music
+- [[鼓]] — drum, play (instrumental)
 
 ## Astronomy (187)
 
@@ -4035,156 +3732,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[鼻]] — nose
 - [[鼻水]] — snot
 
-## Existence (147)
-
-- [[䔥国]] — state of xiao
-- [[不可]] — cannot
-- [[不可不]] — cannot not (do something), i.e. must
-- [[不穏]] — unstable, unsettled, ominous
-- [[事]] — thing, action
-- [[人称]] — grammatical person
-- [[仁慈]] — humane, merciful, kind
-- [[他]] — another, other
-- [[他動詞]] — transitive verb
-- [[代替]] — replace, substitute
-- [[代用]] — substitute use, to use as a substitute, replacement
-- [[以前]] — before, ago, heretofore
-- [[企劃]] — plan, scheme
-- [[体育]] — physical education
-- [[何人]] — who (direct), what person
-- [[倒]] — turn over, take turns
-- [[儀仗]] — implement
-- [[元凶]] — chief culprit, ringleader, prime mover, root cause
-- [[其人]] — he, she, they (singular), that person
-- [[其様]] — that way, in that manner
-- [[其類]] — that kind, that sort
-- [[処格]] — locative case
-- [[凶器]] — murder weapon, lethal weapon, deadly implement
-- [[出演]] — appear
-- [[出生率]] — birth rate, natality
-- [[分娩]] — give birth, deliver (a child)
-- [[分泌]] — secrete, produce secretions
-- [[判断]] — judge, decide, determine
-- [[力]] — power, strength
-- [[助詞]] — particle (grammar)
-- [[動詞]] — verb, action
-- [[勢力]] — power, influence
-- [[占]] — occupy, possess
-- [[占有]] — possess, occupy, hold
-- [[原来]] — originally
-- [[否定]] — negation, denial
-- [[呈]] — display, show
-- [[善良]] — kind, benevolent
-- [[国営]] — nationalization, state management
-- [[国子]] — princes, sons of the state
-- [[変成]] — change into, metamorphosize into
-- [[夢]] — dream
-- [[大略]] — roughly, approximately, in general, outline, rough plan
-- [[威力]] — power, might
-- [[将然]] — prospective (aspect), about-to-happen
-- [[就]] — about, let
-- [[展示]] — display, show, exhibit
-- [[展覧]] — display, show, put in an expo
-- [[州]] — state
-- [[工具]] — tool, instrument, implement
-- [[平等]] — equality, be equal
-- [[彰明]] — clear, manifest, obvious
-- [[彼類]] — that other kind, that sort (distal)
-- [[従前]] — formerly, previously, before
-- [[従来]] — hitherto, conventional, existing
-- [[心緒]] — feelings, state of mind
-- [[性詞]] — stative, stative word, adjective class
-- [[恍惚]] — trance, dazed, absent-minded, vague
-- [[恒等式]] — identity
-- [[意義]] — sense, meaning, significance
-- [[感嘆詞]] — interjection (grammar)
-- [[感恩]] — feel thankful about, be grateful over
-- [[憬悟]] — to awaken to understanding, to realize
-- [[成立]] — be born, gain approval, come into existence
-- [[打算]] — plan, intend
-- [[抄録]] — excerpt, abstract, summary
-- [[折線]] — broken line, polyline
-- [[披歴]] — state one's view
-- [[披露]] — announce, display
-- [[接辞]] — affix (grammar)
-- [[接近]] — approach, similar
-- [[擬]] — intend, plan
-- [[故意]] — intent, purpose, mens rea
-- [[文法]] — grammar
-- [[方法]] — method, way, manner
-- [[旋転]] — revolve, rotate, turn
-- [[明徳]] — bright virtue, show virtue
-- [[時制]] — tense (grammatical)
-- [[時相]] — tense-aspect, grammatical aspect
-- [[書籍]] — register, book, list
-- [[査問]] — inquire about
-- [[様子]] — appearances, manner, circumstances, state of things
-- [[様態格]] — manner case, adverbial case
-- [[標題]] — topic, title, headline
-- [[欠乏]] — to lack, deficiency
-- [[欠缺]] — lack, be deficient in, be missing
-- [[此類]] — this kind, this sort
-- [[死亡]] — die, death
-- [[死亡人数]] — death toll
-- [[死亡率]] — mortality rate, death rate
-- [[殉難]] — martyrdom, to die for a just cause
-- [[決]] — determine, decide
-- [[決定]] — decide, choose
-- [[無義]] — lack morals, lack meaning
-- [[特点]] — characteristic, trait, feature
-- [[理想]] — ideal, dream, theory
-- [[生死]] — life and death
-- [[生産]] — give birth to, produce, manufacture
-- [[生育]] — give birth to
-- [[略]] — abbreviate, plan
-- [[発電]] — generate power
-- [[眼前]] — before one's eyes
-- [[秦国]] — state of qin
-- [[種類]] — type, kind, hypernym
-- [[等分]] — divide into equal parts
-- [[系詞]] — copula
-- [[紋]] — mark, line, symbol
-- [[網語体]] — internet-language register, netspeak style
-- [[緯線]] — line of latitude
-- [[縄]] — rope, cord, string, line
-- [[繋辞]] — copula
-- [[置換]] — permute, substitute, displace
-- [[考慮]] — consider, regard, think about
-- [[背景]] — background
-- [[自動詞]] — intransitive verb
-- [[興起]] — to rise up, to emerge, to flourish
-- [[萬物]] — myriad things
-- [[表現]] — show, display, express, manifest
-- [[表示]] — display, indicate, express
-- [[製品]] — product, produce, goods
-- [[設計]] — plan, design
-- [[話]] — speak on, talk about
-- [[誇示]] — show off, flaunt
-- [[語法]] — grammar
-- [[誰]] — who
-- [[謀]] — conspire, plan, scheme
-- [[貢品]] — tribute, tribute goods
-- [[賜予]] — bestowal, grant, gift
-- [[起伏]] — undulate, fluctuate
-- [[趣旨]] — purport, gist, purpose
-- [[跳梁]] — to run rampant, to jump about wildly
-- [[運動]] — exercise, sport, movement, campaign
-- [[鄂国]] — state of e
-- [[鄭国]] — zheng, the state of zheng
-- [[量化詞]] — quantifier
-- [[開示]] — show, reveal, indicate
-- [[関心]] — be concerned about, care for
-- [[関詞]] — relator, particle (grammar), relational
-- [[陳列]] — exhibit, display
-- [[陳述]] — state, declare, statement
-- [[随性]] — fate from birth
-- [[隠滅]] — to destroy (evidence), to vanish, fade away
-- [[電気]] — electricity, electrify
-- [[題目]] — title, heading, topic
-- [[顕示]] — reveal, show, illustrate, display, demonstrate
-- [[類似]] — resemble, similar, analogous
-- [[魔力]] — magical power
-
 ## Buildings (144)
 
 - [[中庭]] — courtyard, inner garden, atrium
@@ -4476,135 +4023,43 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
 
-## 基督敎 (127)
+## Clothing (35)
 
-- [[丈人]] — father-in-law, wife's father
-- [[丈母]] — mother-in-law
-- [[三位一体]] — trinity
-- [[上帝]] — shangdi, god
-- [[主従]] — master and servant, lord and retainer
-- [[主教]] — bishop, overseer
-- [[九天]] — ninth heaven
-- [[仁徳]] — benevolence, goodness
-- [[会堂]] — meeting hall, church
-- [[会議]] — meeting, conference
-- [[但]] — but, however, yet, only
-- [[位置]] — location, place
-- [[使徒]] — apostle
-- [[信奉]] — believe in, have faith in
-- [[修道院]] — monastery, abbey, convent
-- [[偕者]] — lord, yahweh
-- [[儀式]] — ritual ceremony
-- [[償還]] — repayment, restitution, compensation
-- [[処]] — place
-- [[出谷記]] — exodus
-- [[創世記]] — genesis, moses 1
-- [[千乗]] — vassal of the son of heaven
-- [[危机]] — crisis, critical juncture
-- [[原始]] — primitive, original
-- [[原罪]] — original sin
-- [[参観]] — visit; tour (a place), observe
-- [[司鈬]] — priest (catholic)
-- [[名称]] — appellation, name, title
-- [[君士坦丁堡]] — constantinople
-- [[固有]] — proper
-- [[基督]] — christ
-- [[堕天使]] — fallen angel, lucifer
-- [[外祖父]] — maternal grandfather, mother's father
-- [[大主教]] — archbishop
-- [[大学]] — university (abbreviated, used in institution names), great learning (confucian classic; see book translation)
-- [[大教堂]] — cathedral
-- [[天主]] — god, supreme deity
-- [[天子]] — son of heaven
-- [[天道]] — law of nature, god of heaven
-- [[太極]] — supreme ultimate
-- [[妖怪]] — devil, goblin
-- [[妥当]] — appropriate, proper
-- [[姑丈]] — aunt's man, father's sister's husband
-- [[婆婆]] — grammy, paternal grandmother, mother-in-law
-- [[婿]] — bridegroom, son-in-law
-- [[嫁娶]] — marriage, wedding, marrying and being given in marriage
-- [[宗徒]] — apostle (roman catholic)
-- [[宰相]] — supreme chancellor, prime minister, premier
-- [[将軍]] — shogun, supreme commander
-- [[尼僧]] — nun
-- [[尼西亜]] — nicaea, nicea
-- [[崇拝]] — worship, adore
-- [[幸運]] — lucky, fortunate
-- [[従軍]] — to serve in the military, military service
-- [[復活節]] — easter
-- [[恩典]] — grace, divine grace
-- [[恩寵]] — favor, divine favor, god's special regard
-- [[恩徳]] — benevolence
-- [[恩恵]] — blessing
-- [[恩情]] — kindness, affection, grace, favor
-- [[恩意]] — affection, gracious goodwill
-- [[恩施]] — to bestow grace, to bestow blessings
-- [[悪鬼]] — evil spirit, devil
-- [[悪魔]] — devil
-- [[愛情]] — love, affection, romance
-- [[慈善]] — charity, benevolence
-- [[慧]] — bright, intelligent
-- [[所在]] — place, location, whereabouts
-- [[提案]] — propose, suggest, motion
-- [[救偕]] — jesus
-- [[救贖]] — redemption, atonement
-- [[教堂]] — church, chapel
-- [[教皇]] — pope
-- [[文化圏]] — cultural sphere
-- [[明]] — bright
-- [[昭明]] — shining and bright, luminous
-- [[暗示]] — suggest, hint
-- [[材料]] — material, stuff, abstracta
-- [[標誌]] — symbolize, mark, indicate
-- [[正大]] — proper, legitimate, honest
-- [[正確]] — accurate, correct, proper
-- [[段]] — segments, sections, passages
-- [[治安]] — public order, public security, law and order
-- [[洗礼]] — baptism
-- [[港湾]] — harbor
-- [[燦乱]] — resplendent, bright, glittering, gorgeous
-- [[爵位]] — peerage, title of nobility
-- [[父親]] — father
-- [[牧]] — shepherd
-- [[牧師]] — pastor, minister (protestant)
-- [[物証]] — material evidence
-- [[物質]] — material, substance
-- [[犠牲]] — sacrifice, victim
-- [[獅子]] — lion, bodhisattva
-- [[獅子国]] — lion country, sri lanka (historical)
-- [[礼拝]] — worship service, religious worship
-- [[祈祷]] — pray
-- [[神]] — god, deity, spirit
-- [[神仙]] — immortal, god
-- [[神父]] — father, priest (eastern orthodox)
-- [[神聖]] — sacred, holy
-- [[祭祀]] — sacrifice, worship
-- [[禁書]] — banned book, proscribed text
-- [[秩序]] — law and order, regularity
-- [[稿]] — manuscript, copy, rough draft
-- [[経]] — classic, channel, warp
-- [[経典]] — scripture, book, classic, sutra
-- [[総主教]] — primate, chief archbishop
-- [[罪]] — sin, crime
-- [[置]] — put, place
-- [[羅馬]] — roman
-- [[聖礼]] — sacrament
-- [[聖誕節]] — christmas
-- [[聖餐]] — communion, the eucharist, the lord's supper
-- [[行伝]] — acts (biblical book); record of deeds
-- [[諡号]] — posthumous name, honorary posthumous title
-- [[迅速]] — rapid, swift, prompt
-- [[迦克敦]] — chalcedon
-- [[通行証]] — permit, pass, prerequisite
-- [[通過]] — pass
-- [[逝去]] — pass away, die
-- [[道成肉身]] — incarnation, the word became flesh
-- [[部族]] — tribe, clan
-- [[霊長類]] — primate
-- [[養父]] — adoptive father
-- [[首領]] — supreme leader, chief
-- [[魑魅]] — evil spirit, dryad, demon
+- [[亜麻布]] — linen
+- [[包装]] — wrap, package
+- [[回転]] — turn, spin, rotate, revolve
+- [[大麻]] — hemp, marijuana
+- [[天鵝絨]] — velvet
+- [[布帛]] — silk, textiles
+- [[帽子]] — hat, cap
+- [[戴]] — be crowned with, wear on top
+- [[扮]] — dress up
+- [[染色]] — dye, stain
+- [[浣衣]] — wash clothes, do laundry
+- [[浴衣]] — yukata, light cotton kimono
+- [[白領]] — white-collar
+- [[着]] — wear
+- [[磨耗]] — wear, abrasion
+- [[笠帽]] — conical bamboo hat, straw hat
+- [[糸線]] — silk thread
+- [[紡]] — spin (yarn)
+- [[絞捻]] — twist, wring, spin (thread)
+- [[絹]] — silk
+- [[綿花]] — cotton
+- [[縫製]] — sew, tailor
+- [[繰]] — reel, bolt of cloth
+- [[藍領]] — blue-collar
+- [[衣服]] — clothes
+- [[衣襟]] — collar
+- [[衣類]] — clothing, clothes, garments
+- [[袂]] — sleeve
+- [[袖]] — sleeve
+- [[袴]] — pants, trousers
+- [[装]] — dress up, adorn, pretend
+- [[裸]] — strip, undress, be naked
+- [[針]] — needle, pin, tack, hand (clock)
+- [[鞋]] — shoe
+- [[麻布]] — linen cloth, hemp cloth
 
 ## Color (125)
 
@@ -4734,102 +4189,1166 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[麦茶]] — barley tea
 - [[黄海]] — yellow sea
 
-## Art (94)
+## Conflict (63)
 
-- [[偶像]] — idol, statue
-- [[公尺]] — meter, metre
-- [[兵法]] — art of war, tactics
-- [[冊子]] — book
-- [[刷]] — brush, scrub
-- [[刷子]] — brush
-- [[劇場]] — cinema, theater
-- [[劇詩]] — dramatic poetry
-- [[加持]] — perform incantations, bless
-- [[叢書]] — book series, anthology
-- [[史学]] — historiography, history (as academic discipline)
-- [[和敬]] — harmony and respect
-- [[和諧]] — harmonious, harmony
-- [[唐詩]] — tang poetry
-- [[唱和]] — sing chorus
-- [[唱歌]] — sing, chant
-- [[図画]] — drawing, picture
-- [[塑像]] — molded statue
-- [[墨水]] — ink
-- [[奥秘]] — secret, mystery
-- [[嬉遊]] — play, frolic, enjoy oneself
-- [[宣言]] — proclaim, manifesto
-- [[帳簿]] — account book, ledger
-- [[引禍]] — to bring on calamity, to draw disaster upon oneself
-- [[弦]] — bowstring, chord, string, hypotenuse
-- [[彫像]] — statue, image
-- [[手帖]] — handwritten letter, notebook
-- [[拂]] — shake off, brush off
-- [[拉]] — drag, pull, play a bowed instrument
-- [[拍]] — tap, clap, beat, pulse
-- [[擦]] — wipe, scrub, rub, scour, brush
-- [[擱筆]] — lay down the pen, stop writing
-- [[支部]] — branch, chapter
-- [[故事]] — narrative, story, tale
-- [[文書]] — letter, document
-- [[文科]] — liberal arts, humanities
-- [[文章]] — essay, article
-- [[文芸]] — literature and art, art and culture
-- [[族譜]] — clan registry, geneology book
-- [[日報]] — daily newspaper
-- [[易経]] — book of changes
-- [[景致]] — scenery, scene, view
-- [[書本]] — book
-- [[書簡]] — letter
-- [[書経]] — book of documents
-- [[札]] — letter, note
-- [[柬]] — letter, invitation
-- [[楽経]] — classic of music
-- [[楽譜]] — music score, music manuscript
-- [[武芸]] — martial art skill
-- [[武術]] — martial art
-- [[武道]] — martial arts
-- [[歴史]] — history
-- [[汲]] — draw water
-- [[法術]] — magic, magic arts
-- [[測量]] — measure, survey
-- [[演]] — unfold, perform
-- [[演奏]] — play (music)
-- [[版画]] — print (picture copied from a painting or photography)
-- [[画報]] — pictorial, picture magazine
-- [[礼記]] — book of rites
-- [[神秘]] — mystery, mystical secret
-- [[神経]] — nerve, mystery classic
-- [[神話]] — myth, fairytale, mythology
-- [[章]] — chapter
-- [[筆]] — pen, stylus
-- [[絵画]] — draw, paint
-- [[編纂]] — compile, edit
-- [[編集]] — compile, edit
-- [[翻訳]] — translate
-- [[聴衆]] — audience
-- [[薄膜]] — membrane, thin film
-- [[衡量]] — weigh, measure, evaluate
-- [[計画]] — plan, schedule, measure
-- [[訓]] — interpret, translate, explicate
-- [[記載]] — record, write down
-- [[記録]] — record, note, document
-- [[詩作]] — poem; poetry composition
-- [[詩歌]] — poem, poetry
-- [[詩篇]] — poem, psalm
-- [[詩経]] — classic of poetry
-- [[課]] — lesson, chapter
-- [[謎]] — riddle, mystery, enigma
-- [[賦]] — prose-poetry
-- [[跆籍]] — taekwondo registration, martial arts membership record
-- [[跳舞]] — dance
-- [[辞令]] — letter of dismissal, letter of resignation
-- [[遊戯]] — play, game
-- [[量詞]] — measure word, classifier, counter
-- [[針言]] — proverb
-- [[鉛筆]] — pencil
-- [[雑誌]] — magazine, periodical
-- [[音楽]] — music
-- [[鼓]] — drum, play (instrumental)
+- [[䦧]] — quarrel
+- [[伎両]] — skill, ability, underhanded trick, ploy
+- [[侠客]] — knight-errant, swordsman, hero
+- [[俊傑]] — hero, genius
+- [[保衛]] — defend, safeguard
+- [[保護]] — protect, safeguard, shield
+- [[凱歌]] — triumphant song, victory song
+- [[凶暴]] — ferocious, brutal, savage and violent
+- [[刺激]] — provoke, irritate
+- [[勇敢]] — brave, courageous
+- [[勝利]] — win, succeed
+- [[参劾]] — accuse, charge
+- [[受賞]] — to win an award, to be awarded
+- [[告訴]] — accuse, charge, file a lawsuit
+- [[喪失]] — lose
+- [[嚇]] — scare, frighten
+- [[太平]] — peaceful, peace
+- [[失業]] — become unemployed, lose one's job
+- [[奮闘]] — struggle, fight, strive
+- [[守衛]] — protect, guard
+- [[守護]] — to guard, protect, a guardian
+- [[安全]] — safe, secure
+- [[安心]] — peace of mind, be at ease
+- [[安慰]] — comfort, console
+- [[安逸]] — ease, comfort, complacent
+- [[平安]] — peaceful, safe
+- [[康寧]] — tranquility and peace
+- [[恨]] — hate, grudge
+- [[愛護]] — protect
+- [[慰安]] — comfort, console
+- [[憎悪]] — hate, loathe
+- [[戦闘]] — fight, engage in combat, battle
+- [[打撃]] — strike, beat, hit, percuss
+- [[批判]] — critique, criticize
+- [[抗争]] — fight, contend
+- [[抵抗]] — resist
+- [[拷問]] — torture, interrogation under torture
+- [[挫折]] — setback, frustration, defeat
+- [[損失]] — loss, to lose
+- [[撃]] — strike, hit, beat
+- [[攻]] — attack, criticize
+- [[教戒]] — to instruct, to admonish, to teach and warn
+- [[昂然]] — bold, elated
+- [[暴]] — violent, brutal, fierce, tyrannical
+- [[暴風]] — windstorm, violent storm, gale
+- [[殴打]] — strike, batter
+- [[流言]] — spread rumors, gossip
+- [[滅失]] — lose
+- [[激烈]] — violent, severe, acute
+- [[狂風]] — gale, violent wind, tempest
+- [[秘訣]] — secret, knack, trick
+- [[自失]] — to lose oneself, to be dazed, to be stunned
+- [[英雄]] — hero
+- [[評論]] — criticize, comment, review
+- [[豪傑]] — hero, genius
+- [[貳]] — disloyal, betray
+- [[遮蔽]] — cover, protect
+- [[遺]] — lose, leave behind
+- [[金庫]] — treasury, safe
+- [[闘争]] — struggle
+- [[防守]] — defend, guard
+- [[防御]] — defend, protect, cover
+- [[養生]] — care for, protect
+
+## Containers (47)
+
+- [[㪘]] — to gather, to collect, to restrain
+- [[乗員]] — crew, crew member
+- [[会]] — meet, gather
+- [[会員]] — member
+- [[個]] — individual items
+- [[個人]] — individual
+- [[傍]] — beside, close
+- [[充填]] — fill
+- [[内容]] — content, substance
+- [[凶徒]] — villain, thug, criminal gang member, mob
+- [[制御]] — to control, to contain, to dominate
+- [[包含]] — have, include, contain
+- [[包括]] — include, consist of
+- [[収集]] — collect, gather
+- [[報道]] — cover news, report on
+- [[填]] — fill in, make good on
+- [[実詞]] — content word
+- [[容器]] — contain, vessel
+- [[弥漫]] — pervade, fill
+- [[徴税]] — collect taxes, levy taxes
+- [[採取]] — pick, harvest, collect
+- [[採集]] — gather, collect
+- [[桶]] — pail, bucket, tub, cask, keg
+- [[水壷]] — kettle, water bottle
+- [[瓶]] — jug, bottle, pot
+- [[空]] — empty
+- [[空手]] — be empty handed, be unarmed
+- [[空白]] — blank, empty
+- [[空虚]] — empty
+- [[筐]] — bamboo basket
+- [[箱]] — case, box, chest, trunk
+- [[籠]] — basket
+- [[聚集]] — gather, assemble, collect
+- [[肥桶]] — night-soil bucket, manure barrel
+- [[胡芦]] — bottle gourd, calabash
+- [[蒐集]] — collect, gather
+- [[袋]] — sack, bag
+- [[覆蓋]] — cover, affect
+- [[議員]] — member of parliament, congressman
+- [[貝殻]] — seashell, shell
+- [[錠]] — lock
+- [[鍵]] — key
+- [[鍾]] — alcohol bottle
+- [[閉]] — shut, close
+- [[関]] — close
+- [[集合]] — assemble, gather
+- [[鞄]] — bag, luggage
+
+## Dimensions (87)
+
+- [[一点]] — a little, a bit
+- [[不但]] — not only
+- [[不過]] — only, just, merely
+- [[且]] — also, too
+- [[些少]] — a little, somewhat
+- [[亦]] — too, also
+- [[伸展]] — expand, unfold, stretch
+- [[伸長]] — extend, stretch
+- [[低廉]] — cheap, low priced
+- [[僅僅]] — only, merely, barely
+- [[充分]] — ample, plenty, enough
+- [[其多]] — that much, that many
+- [[分之]] — -ths (fraction marker: denominator分之numerator)
+- [[加多]] — to add; to augment; to increase
+- [[区域]] — area, district, precinct
+- [[博大]] — broad, extensive, erudite
+- [[卿]] — noble, high officer, sir, m'lord
+- [[厚]] — thick
+- [[只]] — only, just, merely
+- [[唯]] — only
+- [[圏]] — encircled area
+- [[増加]] — increase
+- [[壮大]] — grand, thick, imposing
+- [[多]] — many
+- [[奥]] — deep
+- [[女女]] — little lady, little woman
+- [[妹妹]] — little sister, sissie
+- [[姉姉]] — little big sister
+- [[宏大]] — grand, magnificent, vast
+- [[密]] — dense, thick, close, intimate, secret
+- [[寛大]] — magnanimous, lenient, broad
+- [[少]] — few, scarce
+- [[崇高]] — lofty, supreme, sublime, high
+- [[巨人]] — giant, titan
+- [[巨大]] — gigantic, huge, enormous
+- [[希少]] — scarce, rare
+- [[希薄]] — thin, sparse, dilate
+- [[幾]] — several, a few, some
+- [[広範]] — wide-ranging, extensive, broad
+- [[廉価]] — low price
+- [[微小]] — tiny, minute, microscopic
+- [[拡大]] — expand, enlarge
+- [[拡張]] — expansion, to expand, to extend
+- [[昂揚]] — high-spirited, exalted
+- [[条]] — long thin objects
+- [[極右]] — far-right
+- [[極左]] — far-left
+- [[榴弾]] — high explosives
+- [[此多]] — this much, this many
+- [[浅]] — shallow
+- [[浅薄]] — superficial, shallow
+- [[浩大]] — vast, great, magnificent
+- [[深刻]] — profound, deep, serious
+- [[深長]] — long and deep, profound, abstruse
+- [[漸漸]] — gradually, little by little
+- [[無然]] — disappointed, in low spirits
+- [[狭窄]] — narrow, constricted
+- [[痩]] — thin
+- [[矣]] — indeed
+- [[短]] — short
+- [[短期]] — short-term
+- [[短音]] — short vowel, short tone
+- [[碩大]] — huge, enormous
+- [[程度]] — extent, degree
+- [[繁茂]] — lush, thick
+- [[膨脹]] — swell, bloat, inflate, expand
+- [[苟]] — if only
+- [[若干]] — a little, somewhat
+- [[茂密]] — dense, thick
+- [[茫茫]] — vast, boundless, hazy, indistinct
+- [[蒼海]] — vast ocean
+- [[蔓延]] — spread, proliferate, extend (of disease or vegetation)
+- [[諸]] — various
+- [[諸子]] — the various masters, pre-qin philosophers
+- [[趨]] — take many small steps towards
+- [[距離]] — distance
+- [[跳高]] — high jump
+- [[迥]] — distant, far
+- [[遠]] — far
+- [[遠方]] — distant place, far away location
+- [[遥遠]] — distant, faraway
+- [[闊]] — broad, wide
+- [[闊葉]] — broad-leaf
+- [[頗]] — very
+- [[高]] — high
+- [[魶]] — giant salamander
+- [[鮮少]] — rare, seldom, few
+
+## Directions (55)
+
+- [[下]] — down, under
+- [[並]] — side by side
+- [[並列]] — parallel, juxtaposed, side by side
+- [[並立]] — to stand side by side, to coexist, to be parallel
+- [[中央]] — center, middle
+- [[中心]] — center, core, crux
+- [[交情]] — friendship, friendly relations
+- [[側面]] — side, aspect, lateral side
+- [[北方]] — north (direction)
+- [[北極]] — north polar
+- [[北面]] — north side
+- [[南北]] — north and south
+- [[南極]] — south pole
+- [[反]] — anti-, wrong side up
+- [[右側]] — right (side)
+- [[名誉]] — honor, reputation
+- [[嘉賓]] — guest of honor
+- [[垂直]] — vertical, perpendicular
+- [[大韓民国]] — republic of korea, south korea
+- [[夫]] — right?
+- [[尊敬]] — respect, honor, esteem
+- [[導演]] — direct, director
+- [[左側]] — left (direction), left side
+- [[年歳]] — age (honor.)
+- [[弊]] — evil, wrong
+- [[徳沢]] — grace, beneficence, aid, support
+- [[悪]] — bad, evil
+- [[悪毒]] — malicious, vicious
+- [[扶]] — hold on to for support
+- [[捺]] — right down stroke
+- [[提出]] — to submit, to bring forward, to put forward
+- [[援護]] — support, backing, aid (esp. for veterans)
+- [[攀縁]] — climb, scramble up, cling to (for support)
+- [[時宜]] — timely, be right time
+- [[更少]] — less, fewer
+- [[朝鮮]] — north korea, choseon
+- [[栄辱]] — honor and disgrace, reputation
+- [[権利]] — right, privilege
+- [[沿]] — edge, side
+- [[監督]] — direct, supervise, manage
+- [[直]] — straight, erect, aligned
+- [[直線]] — straight line
+- [[直角]] — right angle
+- [[縦縞]] — vertical stripes, pinstripes
+- [[羅馬字]] — latin letters, roman alphabet, romanization
+- [[羅馬語]] — latin
+- [[臥]] — lie down, crouch
+- [[親切]] — kind, helpful, friendly
+- [[賛助]] — support, sponsor
+- [[転載]] — reprint, reproduce, forward
+- [[軽視]] — look down on, disdain, underestimate
+- [[辺界]] — side, edge, border
+- [[逓送]] — send, forward, transmit
+- [[隅]] — nook, corner, side
+- [[韓国]] — korea, south korea
+
+## Efforts (38)
+
+- [[事故]] — accident
+- [[令]] — cause
+- [[企図]] — try, attempt, plan
+- [[偶爾]] — by accident, perchance
+- [[冒険]] — adventure, risk
+- [[効果]] — effect
+- [[嘗試]] — try, attempt
+- [[困難]] — difficult, hard
+- [[圧]] — press, control
+- [[失敗]] — fail, be defeated
+- [[失禁]] — incontinence, loss of bladder or bowel control
+- [[奮発]] — exert oneself, make a special effort
+- [[実力]] — power, strength, force
+- [[弱]] — weak
+- [[強迫]] — force, compel
+- [[把握]] — grasp, control
+- [[掌握]] — control
+- [[支配]] — rule, control, manage, govern, dominate
+- [[故而]] — therefore, as a result, and so
+- [[既遂]] — accomplish, complete
+- [[柔]] — tender, soft, weak
+- [[柔軟]] — soft, pliable, weak
+- [[汽車]] — steam train, locomotive
+- [[災厄]] — trouble, burden, disaster
+- [[空軍]] — air force
+- [[結果]] — result, fruit
+- [[羸弱]] — frail, weak, feeble
+- [[自制]] — restraint, self-control
+- [[自禁]] — self-control
+- [[致]] — cause
+- [[苦悶]] — agony, anguish, worry, trouble
+- [[薄弱]] — weak, feeble
+- [[蠢動]] — to wriggle, to stir up trouble, to act restlessly
+- [[轄]] — linchpin of a wheel, control
+- [[逼迫]] — force, compel, press, coerce
+- [[錯誤]] — err, make a mistake
+- [[閙事]] — make a scene, cause trouble
+- [[養成]] — cultivate, train
+
+## Elements (14)
+
+- [[大旨]] — main idea, gist
+- [[梓木]] — catalpa wood
+- [[楠木]] — camphor wood, nanmu
+- [[樺木]] — birch, birch wood
+- [[水]] — water
+- [[水牛]] — water buffalo
+- [[水面]] — water surface
+- [[汽水]] — brackish water
+- [[淡水]] — fresh water, potable water, drinking water
+- [[湯]] — hot water
+- [[石]] — rock, stone
+- [[石頭]] — stone, rock
+- [[符水]] — magic water, charmed water
+- [[週期表]] — periodic table
+
+## Emotions (65)
+
+- [[不幸]] — unfortunate, sad, unhappy
+- [[九泉]] — the nine springs, the netherworld, the grave
+- [[享受]] — enjoy, relish
+- [[倦嫌]] — weary, world-weary, jaded, sick and tired
+- [[刻薄]] — cruel, inhuman
+- [[厳粛]] — solemn, austere, grave
+- [[厳重]] — serious, rigorous
+- [[受難]] — to suffer hardship, the passion (christianity)
+- [[台悦]] — happy, pleased, joyful
+- [[哀傷]] — sad, distressed, mournful
+- [[喜悦]] — joyous, happy
+- [[塚]] — hillock, grave, tumulus, burial mound
+- [[墓穴]] — grave, burial pit, tomb
+- [[墳墓]] — grave, tomb
+- [[夜叉]] — yaksha, yaksa, a fierce demon
+- [[娯楽]] — entertain, amuse oneself
+- [[安寧]] — calm, composed
+- [[平穏]] — calm, peaceful
+- [[平静]] — calm, serene, peaceful
+- [[幸福]] — happy, blessed
+- [[弔]] — condol, mourn, pity
+- [[忌惮]] — fear, restraint, hesitation
+- [[快]] — sharp, quick, happy
+- [[怒号]] — howl in anger, roar
+- [[怒気]] — anger
+- [[怯]] — cowardly, timid, afraid
+- [[恐怖]] — fear, dread
+- [[恐惧]] — be afraid of, have a dread of, have a phobia of
+- [[恐慌]] — nervous, frantic, panicky
+- [[恥辱]] — disgrace, shame
+- [[患]] — suffer from
+- [[悩]] — angered, mad
+- [[悲]] — be sad
+- [[悲傷]] — sad, sorrowful, grieving
+- [[悼]] — lament
+- [[惨]] — wretched, cruel
+- [[愉快]] — happy, pleasant, enjoyable
+- [[憂慮]] — worry, be anxious
+- [[憫]] — pity
+- [[懐愁]] — wistful longing, nostalgic grief
+- [[振]] — shake, excite, rouse
+- [[欣喜]] — happy, glad, joyful
+- [[歓呼]] — hail, cheer
+- [[歓喜]] — happy, pleased
+- [[泰然]] — calm, composed, unruffled
+- [[激怒]] — anger, enrage
+- [[熱情]] — enthusiasm, passion, ardor
+- [[畏]] — fear, dread, reverence, awe, phobia
+- [[瘋顚]] — insane, crazy, mad
+- [[窪地]] — hollow, depression, pit
+- [[罹患]] — suffer from, contract
+- [[羞恥]] — shame
+- [[胃痛]] — stomachache, epigastric pain
+- [[苛酷]] — cruel, harsh, severe
+- [[苦]] — suffering, bitter
+- [[苦味]] — bitter taste, bitterness
+- [[苦瓜]] — bitter melon
+- [[苦痛]] — agony, pain, suffering
+- [[衷情]] — heartfelt emotion, inner feelings
+- [[踊躍]] — leap for joy, eager, enthusiastic
+- [[辣]] — spicy, hot, cruel
+- [[雀躍]] — jump for joy
+- [[高興]] — glad, pleased
+- [[鬼神]] — fierce demon
+- [[鼓舞]] — encourage, cheer
+
+## Events (43)
+
+- [[主題]] — topic, theme, subject, motif
+- [[事件]] — event, incident, occurrence
+- [[作用]] — act upon, affect
+- [[停止]] — stop, suspend
+- [[其事]] — that act, that matter
+- [[又]] — or again
+- [[始作]] — begin, start
+- [[安穏]] — peaceful, quiet, steady
+- [[完成]] — complete, finish
+- [[屢]] — frequently, often, again and again, repeatedly
+- [[希有]] — rare
+- [[従事]] — to engage in, to be involved in, to pursue (a vocation)
+- [[怠惰]] — lazy, indolent
+- [[恒常]] — constant, usual, common
+- [[懶惰]] — lazy
+- [[机会]] — opportunity
+- [[来賓]] — guest, visitor (at an event)
+- [[此事]] — this act, this matter
+- [[法律]] — statute, law, act
+- [[活動]] — move, engage in activity
+- [[無我]] — non-self, anattā
+- [[珍]] — rare
+- [[番]] — time, turn, occasion
+- [[癖]] — idiosyncrasy, habit
+- [[発展]] — develop
+- [[積極]] — positive, active, dynamic
+- [[絶後]] — never happen again, not have children
+- [[継続]] — continue, proceed, persist
+- [[綴]] — bind, stop
+- [[繁忙]] — busy
+- [[習慣]] — be accustomed to, be in the habit of
+- [[聘]] — engage, betroth
+- [[行動]] — act, action
+- [[設備]] — equip, finish, provide
+- [[誠意]] — act in good faith, do sincerely
+- [[誦]] — recite, chant, repeat
+- [[逗留]] — stay, pause, sojourn
+- [[重複]] — repeat, duplicate, be repetitive
+- [[開始]] — begin, start
+- [[間諜]] — spy, secret agent
+- [[際]] — border, occasion
+- [[頃]] — moment, occasion
+- [[頻]] — frequent, again and again
+
+## Existence (147)
+
+- [[䔥国]] — state of xiao
+- [[不可]] — cannot
+- [[不可不]] — cannot not (do something), i.e. must
+- [[不穏]] — unstable, unsettled, ominous
+- [[事]] — thing, action
+- [[人称]] — grammatical person
+- [[仁慈]] — humane, merciful, kind
+- [[他]] — another, other
+- [[他動詞]] — transitive verb
+- [[代替]] — replace, substitute
+- [[代用]] — substitute use, to use as a substitute, replacement
+- [[以前]] — before, ago, heretofore
+- [[企劃]] — plan, scheme
+- [[体育]] — physical education
+- [[何人]] — who (direct), what person
+- [[倒]] — turn over, take turns
+- [[儀仗]] — implement
+- [[元凶]] — chief culprit, ringleader, prime mover, root cause
+- [[其人]] — he, she, they (singular), that person
+- [[其様]] — that way, in that manner
+- [[其類]] — that kind, that sort
+- [[処格]] — locative case
+- [[凶器]] — murder weapon, lethal weapon, deadly implement
+- [[出演]] — appear
+- [[出生率]] — birth rate, natality
+- [[分娩]] — give birth, deliver (a child)
+- [[分泌]] — secrete, produce secretions
+- [[判断]] — judge, decide, determine
+- [[力]] — power, strength
+- [[助詞]] — particle (grammar)
+- [[動詞]] — verb, action
+- [[勢力]] — power, influence
+- [[占]] — occupy, possess
+- [[占有]] — possess, occupy, hold
+- [[原来]] — originally
+- [[否定]] — negation, denial
+- [[呈]] — display, show
+- [[善良]] — kind, benevolent
+- [[国営]] — nationalization, state management
+- [[国子]] — princes, sons of the state
+- [[変成]] — change into, metamorphosize into
+- [[夢]] — dream
+- [[大略]] — roughly, approximately, in general, outline, rough plan
+- [[威力]] — power, might
+- [[将然]] — prospective (aspect), about-to-happen
+- [[就]] — about, let
+- [[展示]] — display, show, exhibit
+- [[展覧]] — display, show, put in an expo
+- [[州]] — state
+- [[工具]] — tool, instrument, implement
+- [[平等]] — equality, be equal
+- [[彰明]] — clear, manifest, obvious
+- [[彼類]] — that other kind, that sort (distal)
+- [[従前]] — formerly, previously, before
+- [[従来]] — hitherto, conventional, existing
+- [[心緒]] — feelings, state of mind
+- [[性詞]] — stative, stative word, adjective class
+- [[恍惚]] — trance, dazed, absent-minded, vague
+- [[恒等式]] — identity
+- [[意義]] — sense, meaning, significance
+- [[感嘆詞]] — interjection (grammar)
+- [[感恩]] — feel thankful about, be grateful over
+- [[憬悟]] — to awaken to understanding, to realize
+- [[成立]] — be born, gain approval, come into existence
+- [[打算]] — plan, intend
+- [[抄録]] — excerpt, abstract, summary
+- [[折線]] — broken line, polyline
+- [[披歴]] — state one's view
+- [[披露]] — announce, display
+- [[接辞]] — affix (grammar)
+- [[接近]] — approach, similar
+- [[擬]] — intend, plan
+- [[故意]] — intent, purpose, mens rea
+- [[文法]] — grammar
+- [[方法]] — method, way, manner
+- [[旋転]] — revolve, rotate, turn
+- [[明徳]] — bright virtue, show virtue
+- [[時制]] — tense (grammatical)
+- [[時相]] — tense-aspect, grammatical aspect
+- [[書籍]] — register, book, list
+- [[査問]] — inquire about
+- [[様子]] — appearances, manner, circumstances, state of things
+- [[様態格]] — manner case, adverbial case
+- [[標題]] — topic, title, headline
+- [[欠乏]] — to lack, deficiency
+- [[欠缺]] — lack, be deficient in, be missing
+- [[此類]] — this kind, this sort
+- [[死亡]] — die, death
+- [[死亡人数]] — death toll
+- [[死亡率]] — mortality rate, death rate
+- [[殉難]] — martyrdom, to die for a just cause
+- [[決]] — determine, decide
+- [[決定]] — decide, choose
+- [[無義]] — lack morals, lack meaning
+- [[特点]] — characteristic, trait, feature
+- [[理想]] — ideal, dream, theory
+- [[生死]] — life and death
+- [[生産]] — give birth to, produce, manufacture
+- [[生育]] — give birth to
+- [[略]] — abbreviate, plan
+- [[発電]] — generate power
+- [[眼前]] — before one's eyes
+- [[秦国]] — state of qin
+- [[種類]] — type, kind, hypernym
+- [[等分]] — divide into equal parts
+- [[系詞]] — copula
+- [[紋]] — mark, line, symbol
+- [[網語体]] — internet-language register, netspeak style
+- [[緯線]] — line of latitude
+- [[縄]] — rope, cord, string, line
+- [[繋辞]] — copula
+- [[置換]] — permute, substitute, displace
+- [[考慮]] — consider, regard, think about
+- [[背景]] — background
+- [[自動詞]] — intransitive verb
+- [[興起]] — to rise up, to emerge, to flourish
+- [[萬物]] — myriad things
+- [[表現]] — show, display, express, manifest
+- [[表示]] — display, indicate, express
+- [[製品]] — product, produce, goods
+- [[設計]] — plan, design
+- [[話]] — speak on, talk about
+- [[誇示]] — show off, flaunt
+- [[語法]] — grammar
+- [[誰]] — who
+- [[謀]] — conspire, plan, scheme
+- [[貢品]] — tribute, tribute goods
+- [[賜予]] — bestowal, grant, gift
+- [[起伏]] — undulate, fluctuate
+- [[趣旨]] — purport, gist, purpose
+- [[跳梁]] — to run rampant, to jump about wildly
+- [[運動]] — exercise, sport, movement, campaign
+- [[鄂国]] — state of e
+- [[鄭国]] — zheng, the state of zheng
+- [[量化詞]] — quantifier
+- [[開示]] — show, reveal, indicate
+- [[関心]] — be concerned about, care for
+- [[関詞]] — relator, particle (grammar), relational
+- [[陳列]] — exhibit, display
+- [[陳述]] — state, declare, statement
+- [[随性]] — fate from birth
+- [[隠滅]] — to destroy (evidence), to vanish, fade away
+- [[電気]] — electricity, electrify
+- [[題目]] — title, heading, topic
+- [[顕示]] — reveal, show, illustrate, display, demonstrate
+- [[類似]] — resemble, similar, analogous
+- [[魔力]] — magical power
+
+## Food (68)
+
+- [[乾酪]] — cheese
+- [[井物]] — bowl of food
+- [[亜洲]] — asia
+- [[亜細亜]] — asia
+- [[刀刃]] — knife blade, pivotal moment
+- [[刀剣]] — sword, dagger, knife
+- [[刀叉]] — fork and knife
+- [[勺]] — spoon, ladle
+- [[午飯]] — lunch, noon meal
+- [[午餐]] — lunch
+- [[叉]] — fork, prong, tine
+- [[塩]] — salt
+- [[大食]] — binge eat
+- [[技術]] — technology, technique
+- [[拌和]] — stir, mix, blend
+- [[撹拌]] — stir up, agitate
+- [[暴飲]] — binge drink
+- [[杯]] — cup, cupful
+- [[東南亜]] — southeast asia
+- [[果子]] — candy, pastry
+- [[果実]] — fruit, berry
+- [[果汁]] — fruit juice
+- [[桜桃]] — cherry (fruit)
+- [[毛蝦]] — shrimp
+- [[汁]] — soup, juice
+- [[汎]] — pan-
+- [[漬]] — pickle, salt, soak, steep
+- [[炊]] — cook
+- [[炒]] — fry, sauté
+- [[焼酎]] — soju, shochu, rice wine, shaojiu
+- [[牛井]] — gyudon, beef rice bowl
+- [[猩蝿]] — fruit fly, drosophila
+- [[甜菜]] — sugar beet
+- [[皿]] — dish, container
+- [[碗]] — bowl, dish
+- [[箸]] — chopsticks
+- [[糖]] — sugar
+- [[肉]] — meat
+- [[肉汁]] — gravy, broth
+- [[肉湯]] — broth
+- [[股]] — crotch, groin, fork
+- [[肴]] — cooked meat
+- [[膳食]] — meal, diet, food
+- [[臘肉]] — cured pork, preserved meat
+- [[茶]] — tea (drink), tea (plant)
+- [[菜汁]] — vegetable juice
+- [[薄荷]] — mint (candy)
+- [[親子井]] — oyakodon, chicken and egg rice bowl
+- [[豚井]] — butadon, pork rice bowl
+- [[部]] — part
+- [[部分]] — part, section, segment, portion
+- [[郭]] — outermost part
+- [[酌酒]] — pour wine
+- [[醇酒]] — good wine
+- [[醤油]] — soy sauce
+- [[醸造]] — brew, ferment
+- [[鉢]] — bowl
+- [[鍋]] — pot
+- [[音叉]] — tuning fork
+- [[食]] — eat
+- [[飲]] — drink
+- [[飲食]] — eat and drink
+- [[餅]] — pastry, cake, mochi
+- [[餐]] — eat, dine
+- [[鶏肉]] — chicken, chicken meat
+- [[麦酒]] — beer
+- [[麺]] — flour
+- [[麺包]] — bread
+
+## Geography (263)
+
+- [[七事]] — seven duties of a sovereign
+- [[七宝]] — seven treasures
+- [[七対子]] — seven pairs (mahjong)
+- [[七情]] — seven emotions
+- [[七面鳥]] — turkey
+- [[万邦]] — world, all the countries, myriad regions
+- [[不均]] — uneven, unequal, imbalanced
+- [[不平]] — unjust, uneven, unfair
+- [[世界]] — world
+- [[中亜]] — central asia
+- [[中原]] — central plains
+- [[中央情報局]] — central intelligence agency, cia
+- [[主宰]] — superintend, rule
+- [[主権]] — sovereignty
+- [[乖巧]] — smart, well-behaved
+- [[九州]] — nine provinces, kyushu
+- [[九経]] — the nine classics
+- [[二次元]] — two dimensions, 2d, the 2d world (anime, manga, games)
+- [[井戸]] — well
+- [[交]] — mix, exchange
+- [[交換]] — exchange, swap
+- [[交易]] — trade, transact
+- [[交流]] — exchange, interchange, mingle
+- [[亨通]] — prosper, go well
+- [[人口]] — population
+- [[伝播]] — propagate, disseminate, spread
+- [[伺候]] — wait upon, serve, attend
+- [[侍奉]] — serve, wait upon
+- [[侵犯]] — intrude upon, violate, invade
+- [[兗州]] — yanzhou, one of the nine provinces
+- [[全球]] — global, the entire world
+- [[内海]] — inland sea
+- [[冠冕]] — royal crown, official headwear
+- [[凹凸]] — bumpy, uneven, rugged
+- [[分布]] — distribution, dispersion
+- [[北氷洋]] — arctic ocean
+- [[北美]] — north america
+- [[北美洲]] — north american continent, north america
+- [[協議]] — negotiation, consultation, agreement
+- [[南亜]] — south asia
+- [[南山]] — south mountain
+- [[南方]] — south, southern direction
+- [[南極洲]] — antarctica
+- [[南氷洋]] — southern ocean, antarctic ocean
+- [[南海]] — southern sea, south china sea
+- [[南美]] — south america
+- [[南美洲]] — south american continent, south america
+- [[南部]] — south, southern area
+- [[南非]] — south africa
+- [[印度洋]] — indian ocean
+- [[厚顔]] — brazen-faced, impudent, shameless
+- [[原則]] — principle, rule
+- [[原理]] — principle
+- [[商業]] — commerce, trade
+- [[商路]] — trade route
+- [[善人]] — philanthropize, well-doer
+- [[喊声]] — shout, battle cry, war cry
+- [[四海]] — four seas, the four seas bounding all-under-heaven
+- [[国主]] — sovereign, ruler of a state
+- [[国王]] — king, sovereign, monarch
+- [[国連]] — league of nations
+- [[国際]] — international
+- [[国際語]] — international language, koine, lingua franca
+- [[地中海]] — mediterranean sea
+- [[地図学]] — cartography
+- [[地形]] — terrain, topography, landform
+- [[地方]] — region, territory
+- [[地球]] — earth, globe, world
+- [[地球儀]] — globe, model earth
+- [[地理]] — geography, topography
+- [[地理学]] — geography
+- [[基金]] — fund
+- [[塑造]] — model, mould
+- [[外交]] — diplomacy, foreign affairs
+- [[外国語]] — foreign language
+- [[外来]] — foreign, extrinsic
+- [[外語]] — foreign language
+- [[外貨]] — foreign goods, foreign currency
+- [[多様]] — diverse, diversity
+- [[多辺]] — multilateral, many-sided
+- [[大水]] — flood; great waters
+- [[大洋]] — ocean
+- [[大洋洲]] — oceania
+- [[大義]] — principles of justice, be truly righteous
+- [[大西洋]] — atlantic ocean
+- [[天下]] — world, all under heaven
+- [[天地]] — world, heaven and earth
+- [[天地之別]] — a world of difference, the gulf between heaven and earth, a vast difference
+- [[天神地祇]] — the gods of heaven and earth, all the gods
+- [[太平洋]] — pacific ocean
+- [[媒介]] — medium, intermediary, agent (of transmission)
+- [[媒体]] — medium, media
+- [[定義]] — define
+- [[密度]] — density
+- [[対外]] — foreign, external, toward the outside
+- [[尋]] — inquire for, seek
+- [[尼羅河]] — nile river
+- [[展翅]] — to spread the wings, to take flight
+- [[島]] — island
+- [[干戈]] — weapons of war, arms
+- [[干犯]] — infringe, violate, encroach upon
+- [[広土]] — vast territory, extensive land
+- [[当世]] — this time, this world
+- [[影響]] — influence, affect, disturb
+- [[必備]] — essential, required, must-have
+- [[必須]] — be essential, be a must
+- [[念頭]] — idea, thought
+- [[思想]] — thought, thinking, idea, ideology, philosophy
+- [[情況]] — circumstances, conditions
+- [[戦争]] — war
+- [[戦国]] — warring states
+- [[担任]] — to assume a post, to take charge
+- [[拡散]] — to diffuse, to spread, diffusion
+- [[捜索]] — search for, seek, investigate
+- [[換]] — interchange, exchange
+- [[改善]] — improvement, reform
+- [[改革]] — reform
+- [[政党]] — political party
+- [[散布]] — scatter, spread, disseminate
+- [[敷]] — spread
+- [[斉国]] — qi nation
+- [[新語]] — neologism
+- [[方針]] — policy, principle, philosophy
+- [[旦夕]] — sooner or later
+- [[普及]] — to spread widely, to popularize, to become universal, diffusion
+- [[朕]] — we (royal)
+- [[朝廷]] — imperial court, royal court
+- [[東亜]] — east asia
+- [[東伝]] — eastward transmission
+- [[柄国]] — rule (literary)
+- [[梁州]] — liang province, province of liang
+- [[構造]] — structure, composition, construction
+- [[模範]] — model, exemplar
+- [[欧洲]] — europe
+- [[欧羅巴]] — europe, europa, eu
+- [[殖民]] — colonization, colonial
+- [[気候]] — climate
+- [[江南]] — south river, gangnam
+- [[沙漠]] — desert
+- [[治世]] — well-governed era, peaceful reign, era of good government
+- [[法]] — rule, law
+- [[法則]] — law, rule, code
+- [[泛濫]] — flood, overflow, spread unchecked
+- [[波斯]] — persia
+- [[流動]] — flow, spread, circulate
+- [[海上]] — marine, maritime, on the sea
+- [[海洋]] — sea, ocean
+- [[海禁]] — maritime prohibition, sea ban
+- [[火山島]] — volcanic island
+- [[炎帝]] — yan emperor
+- [[為]] — namely
+- [[照耀]] — to shine upon, to illuminate, to radiate
+- [[熱帯]] — tropical, the tropics
+- [[版図]] — domain, dominion, territory
+- [[狙鳩]] — osprey, royal-coot
+- [[独立]] — independence, independent
+- [[王畿]] — royal domain
+- [[瑞士]] — switzerland
+- [[環状]] — ring-shaped, annular, concentric
+- [[留]] — remain, stay
+- [[留学生]] — international student, exchange student
+- [[癒合]] — recover, get well
+- [[百家]] — hundred schools, many schools of thought
+- [[百越]] — baiyue, the hundred yue peoples of ancient southern china
+- [[相当]] — equivalent (to), considerable, quite, fairly
+- [[社交]] — social interaction
+- [[社会科]] — social studies
+- [[統治]] — govern, rule
+- [[美国]] — america, u.s.a.
+- [[草原]] — grassland, prairie, steppe, savanna, meadow
+- [[荊州]] — jing province, province of jing
+- [[荷蘭]] — netherlands, holland
+- [[蘇連]] — soviet union
+- [[西亜]] — west asia
+- [[西部]] — west, western region
+- [[規律]] — rule, regularity, discipline
+- [[諮詢]] — consult, seek advice, make enquiries
+- [[諸子百家]] — hundred schools of thought
+- [[貿易]] — trade, commerce
+- [[資本]] — capital (finance), resource
+- [[資源]] — resources
+- [[近代]] — early modern period
+- [[通信]] — communication, correspondence
+- [[連合]] — unite, ally with, alliance, union
+- [[連合国]] — united nations, the allied powers
+- [[連邦]] — federation, federal state, commonwealth, union
+- [[運行]] — move, operate
+- [[運転]] — operate, drive
+- [[違犯]] — violate, infringe upon, disobey
+- [[遷移]] — to shift, to relocate, transition
+- [[郵便]] — mail, post
+- [[重要]] — important
+- [[雍州]] — yong province, province of yong
+- [[青州]] — qing province, province of qing
+- [[非洲]] — africa
+- [[領土]] — territory
+- [[高山]] — high mountain, alpine
+- [[上海]] — shanghai
+- [[不丹]] — bhutan
+- [[丘]] — hill
+- [[中国]] — china
+- [[中華民国]] — republic of china, taiwan
+- [[丹麦]] — denmark
+- [[予州]] — yu province, province of yu
+- [[京畿]] — capital province
+- [[共和国]] — republic
+- [[北京]] — beijing, peiking
+- [[印度]] — india
+- [[印度尼西亜]] — indonesia
+- [[台湾]] — taiwan
+- [[合肥]] — hefei, capital of anhui province, china
+- [[地図冊]] — atlas
+- [[地震]] — earthquake
+- [[埃及]] — egypt
+- [[墨西哥]] — mexico
+- [[大不列顚]] — great britain
+- [[大陸]] — continent
+- [[天皇]] — emperor of japan, mikado
+- [[天竺]] — india
+- [[守戍]] — border guard
+- [[寮国]] — laos
+- [[山岡]] — hill, hillock
+- [[崖]] — cliff
+- [[希州]] — ji province, province of ji
+- [[帝国]] — empire
+- [[徐州]] — xu province, province of xu
+- [[徳国]] — germany
+- [[愛媛]] — ehime, ehime prefecture
+- [[新嘉浦]] — singapore
+- [[日本]] — japan
+- [[東京]] — tokyo
+- [[森林]] — forest, jungle, underbrush
+- [[民国]] — republic
+- [[河内]] — hanoi
+- [[沼沢]] — swamp, bog
+- [[沿海]] — coastal
+- [[法国]] — france
+- [[泥婆羅]] — nepal
+- [[泰国]] — thailand
+- [[洲]] — islet, continent
+- [[海防]] — coastal defense
+- [[火山]] — volcano
+- [[珈拿陀]] — canada
+- [[県]] — county, district, prefecture, subdivision
+- [[経緯]] — warp and woof, latitude and longitude
+- [[英格蘭]] — england
+- [[菲律賓]] — philippines
+- [[蒙古]] — mongolia
+- [[薮沢]] — marsh, swamp
+- [[西蔵]] — tibet
+- [[谷]] — valley
+- [[豪洲]] — australia
+- [[越南]] — vietnam
+- [[越境]] — transgress, infringe on the border of
+- [[辺境]] — frontier, border
+- [[郡]] — county, prefecture, district, commandery
+- [[露国]] — russia
+- [[露斯亜]] — russia
+- [[面田]] — myanmar
+- [[頂点]] — peak, vertex, apex
+- [[馬来西亜]] — malaysia
+- [[高峰]] — peak, summit, pinnacle
+- [[高綿]] — cambodia
+
+## Government (new) (80)
+
+- [[主掌]] — to be in charge of, to administer
+- [[人員]] — staff, personnel, employee
+- [[俸祿]] — official salary, stipend, emolument
+- [[俸給]] — salary, stipend, official pay
+- [[兪允]] — consent to, permit (of the emperor)
+- [[公共]] — public, communal
+- [[公卿]] — nobility
+- [[公演]] — put on a public performance of
+- [[公約]] — public pledge, election promise, treaty
+- [[公衆]] — public, communal
+- [[公邸]] — official residence
+- [[公館]] — official residence
+- [[兵卒]] — private, soldier, trooper
+- [[兵士]] — soldier
+- [[准許]] — allow, permit
+- [[刊]] — publication, periodical
+- [[即位]] — to ascend the throne
+- [[厳禁]] — strictly forbidden, strictly prohibit
+- [[参謀]] — staff officer, strategist, advisor
+- [[大夫]] — official
+- [[大臣]] — official, minister
+- [[大衆]] — masses, public, multitude
+- [[女皇]] — empress
+- [[孤軍]] — isolated army, lone forces
+- [[官人]] — official
+- [[官僚]] — bureaucrat, apparatchik
+- [[官僚主義]] — bureaucracy, bureaucratism
+- [[官吏]] — public servant, clerk, officer
+- [[射策]] — policy examination
+- [[将兵]] — army
+- [[将校]] — commissioned officer
+- [[尉]] — officer
+- [[帝王]] — emperor
+- [[年刊]] — annual, annual publication
+- [[幹部]] — leader, officer, executive
+- [[弒君]] — regicide, assassinate a ruler
+- [[投票率]] — voter turnout, voting rate
+- [[掌管]] — to manage, to be in charge of
+- [[措置]] — handle, arrange, manage
+- [[政治]] — politics
+- [[文武]] — civilian and military
+- [[日刊]] — daily publication, daily periodical
+- [[明君]] — wise ruler, enlightened monarch
+- [[月刊]] — monthly periodical, monthly publication
+- [[杖]] — staff, stick
+- [[条約]] — pact, treaty
+- [[検査]] — inspect, examine, check
+- [[武]] — military
+- [[汚吏]] — corrupt official
+- [[王位]] — throne
+- [[王朝]] — dynasty, reign, court
+- [[皇后]] — empress, queen consort
+- [[皇帝]] — emperor
+- [[禁制]] — prohibit, prohibition, regulatory restriction
+- [[禁断]] — forbidden, forbid absolutely, prohibition
+- [[禁止]] — forbid, prohibit
+- [[禁煙]] — no smoking, tobacco prohibition
+- [[禁酒]] — prohibition of alcohol, no alcohol, temperance
+- [[管理]] — supervise, administer, manage
+- [[経営]] — run, manage
+- [[群衆]] — crowd, masses, the public
+- [[臣民]] — officials and commoners, subjects
+- [[解禁]] — lift a ban, rescind a prohibition
+- [[許]] — permit, allow
+- [[許可]] — permission, authorization
+- [[試験]] — test, examine
+- [[諌議]] — to remonstrate, to admonish a ruler
+- [[諭示]] — issue a decree
+- [[譲]] — permit
+- [[貴族]] — aristocrat, nobility
+- [[軍事]] — military matters
+- [[軍人]] — soldier
+- [[輔佐]] — assist (a ruler), serve as an aide
+- [[輔弼]] — assist (a ruler)
+- [[辦理]] — manage, arrange, run
+- [[週刊]] — weekly periodical, weekly publication
+- [[鉦鼓]] — gong and drum, military percussion
+- [[陣営]] — army camp
+- [[陣地]] — military position
+- [[頒布]] — promulgate, issue officially, publish (a decree)
+
+## Grammar (30)
+
+- [[与格]] — dative case
+- [[代名詞]] — pronoun
+- [[代詞]] — pronoun
+- [[可]] — can, may
+- [[可以]] — can, may (permissive)
+- [[可能]] — possible, may, might, perhaps
+- [[女性]] — female, feminine (gender)
+- [[如何]] — how, how about
+- [[将]] — will, shall
+- [[意志]] — will, intent
+- [[或]] — or, perhaps
+- [[所以]] — therefore, so, consequently
+- [[方言]] — dialect
+- [[書契]] — writing system, written records, the invention of writing
+- [[沈淀]] — sediment, precipitate, settle (of particles)
+- [[焉]] — therefore
+- [[燐火]] — will-o'-the-wisp, ignis fatuus
+- [[甚様]] — what manner, of what sort, how
+- [[男性]] — male, masculine gender
+- [[篇]] — article, piece of writing
+- [[自分]] — self-examine, assess oneself
+- [[自尊]] — self-esteem, self-respect, dignity
+- [[自我]] — self-conscious, self-aware
+- [[自給]] — self-sufficient, self-reliant
+- [[自足]] — be self-sufficient, be satisfied with oneself
+- [[自身]] — self
+- [[那]] — then, in that case
+- [[陰性]] — negativity, feminine gender
+- [[陽性]] — positivity, masculine gender
+- [[鬼火]] — will-o-the-wisp, ignis fatuos
+
+## Kinship (new) (58)
+
+- [[丈夫]] — husband
+- [[両親]] — parents
+- [[主婦]] — housewife
+- [[伯伯]] — uncle
+- [[伯母]] — aunt
+- [[兄弟姉妹]] — siblings, brothers and sisters
+- [[児]] — baby
+- [[児児]] — baby
+- [[児子]] — son, child
+- [[児童]] — minor, student, child
+- [[処女]] — virgin, maiden, virgo
+- [[反哺]] — take care of one's parents
+- [[叔叔]] — uncle
+- [[叔母]] — aunt
+- [[叔父]] — paternal uncle (younger)
+- [[哥哥]] — elder brother (intimate)
+- [[外祖母]] — maternal grandmother
+- [[夫人]] — madam, lady, wife
+- [[女]] — woman
+- [[女人]] — woman, female
+- [[妻]] — wife
+- [[妻子]] — women and children, wife and child
+- [[姉]] — elder sister
+- [[姑娘]] — girl; young lady, young woman (unmarried)
+- [[姑母]] — paternal aunt
+- [[姥姥]] — grammy, maternal grandmother
+- [[姨母]] — aunt, maternal aunt
+- [[姪女]] — niece
+- [[姫]] — princess, concubine, court lady
+- [[娘]] — young woman
+- [[婢女]] — servant girl, maid servant
+- [[婦]] — lady, woman
+- [[媽媽]] — mom; mother; mama
+- [[嫡]] — legitimate wife
+- [[嬰児]] — baby
+- [[子子]] — child (one's own, intimate)
+- [[子孫]] — descendents, children and grandchildren
+- [[孩子]] — child; kid(s)
+- [[寡婦]] — widow
+- [[少女]] — girl, young woman
+- [[少年]] — youngster, boy
+- [[幼児]] — baby, infant
+- [[弟]] — younger brother
+- [[弟弟]] — younger brother
+- [[後裔]] — descendant, posterity
+- [[母親]] — mother
+- [[父母]] — parents
+- [[牛郎]] — the cowherd boy
+- [[甥]] — sister's child, sororal niece or nephew
+- [[祖先]] — ancestor, forebear
+- [[祖母]] — paternal grandmother
+- [[祖父]] — grandfather
+- [[細妹]] — younger sister
+- [[織女]] — the weaver girl
+- [[老爺]] — grandfather, master
+- [[親族]] — relatives, kin, cognates
+- [[配偶]] — spouse
+- [[養母]] — adoptive mother
+
+## Metals (58)
+
+- [[一瞥]] — glance, quick look
+- [[一般]] — average, common, general, ordinary
+- [[主導]] — lead
+- [[了解]] — understand, comprehend, learn
+- [[仰望]] — look up to
+- [[保持]] — keep, maintain, conserve
+- [[修道]] — spiritual discipline, cultivation of the way
+- [[偏重]] — to overemphasize, to lean too heavily toward, bias
+- [[充当]] — to allocate, to assign, to apply (funds) toward
+- [[化学肥料]] — chemical fertilizer
+- [[厉]] — whetstone
+- [[口訣]] — mnemonic formula, secret oral formula
+- [[口語]] — colloquial language, spoken language
+- [[同一]] — same, identical
+- [[向]] — toward, -ward
+- [[呆]] — confused
+- [[大綱]] — outline, general framework, main points
+- [[密陀僧]] — litharge, lead monoxide
+- [[寒蝉]] — winter cicada, one who dares not speak (figurative)
+- [[延長]] — extend, prolong, extension
+- [[引入]] — lead into, introduce to
+- [[控訴]] — formally complain regarding, file charges against
+- [[明朗]] — bright, clear, cheerful
+- [[明白]] — clear, obvious, evident
+- [[明瞭]] — apparent, clear
+- [[晴朗]] — clear, serene, bright, sunny
+- [[果醤]] — jam, jelly, preserves
+- [[標識]] — sign, mark, symbol
+- [[混乱]] — chaotic, confused, riotous
+- [[清澈]] — clear, limpid
+- [[澄清]] — clear, pure
+- [[率先]] — take the lead, be the first to act
+- [[皆事]] — everything, every act, all matters
+- [[皆物]] — everything, every object, all things
+- [[瞭然]] — clear, evident
+- [[瞻仰]] — look up to with reverence, pay homage to
+- [[砥石]] — whetstone, grindstone
+- [[符号]] — symbol, mark, sign
+- [[糊塗]] — muddled, confused
+- [[統率]] — command, lead
+- [[維持]] — maintain, keep, uphold
+- [[花魁]] — oiran, leading courtesan
+- [[表記]] — notation, orthography, written representation
+- [[視]] — look at, inspect
+- [[訴訟]] — sue, file a lawsuit
+- [[調査]] — look into, investigate
+- [[論理]] — logic
+- [[貴重]] — precious, valuable
+- [[迷]] — be lost, be confused
+- [[過]] — than, too
+- [[道理]] — logic, method, way, principle
+- [[郭清]] — to purge, to clear away, surgical dissection
+- [[金剛石]] — diamond (mineral)
+- [[鈬]] — bronze bell
+- [[鉄板]] — iron grill
+- [[鉱物]] — mineral
+- [[陪]] — accompany, be with, keep company
+- [[顔色]] — complexion, expression, appearance, look
 
 ## Numbers (94)
 
@@ -4928,419 +5447,55 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[黙黙]] — silently, quietly, without a word
 - [[黼黻]] — ornate embroidered patterns
 
-## Dimensions (87)
+## Periodic Table (11)
 
-- [[一点]] — a little, a bit
-- [[不但]] — not only
-- [[不過]] — only, just, merely
-- [[且]] — also, too
-- [[些少]] — a little, somewhat
-- [[亦]] — too, also
-- [[伸展]] — expand, unfold, stretch
-- [[伸長]] — extend, stretch
-- [[低廉]] — cheap, low priced
-- [[僅僅]] — only, merely, barely
-- [[充分]] — ample, plenty, enough
-- [[其多]] — that much, that many
-- [[分之]] — -ths (fraction marker: denominator分之numerator)
-- [[加多]] — to add; to augment; to increase
-- [[区域]] — area, district, precinct
-- [[博大]] — broad, extensive, erudite
-- [[卿]] — noble, high officer, sir, m'lord
-- [[厚]] — thick
-- [[只]] — only, just, merely
-- [[唯]] — only
-- [[圏]] — encircled area
-- [[増加]] — increase
-- [[壮大]] — grand, thick, imposing
-- [[多]] — many
-- [[奥]] — deep
-- [[女女]] — little lady, little woman
-- [[妹妹]] — little sister, sissie
-- [[姉姉]] — little big sister
-- [[宏大]] — grand, magnificent, vast
-- [[密]] — dense, thick, close, intimate, secret
-- [[寛大]] — magnanimous, lenient, broad
-- [[少]] — few, scarce
-- [[崇高]] — lofty, supreme, sublime, high
-- [[巨人]] — giant, titan
-- [[巨大]] — gigantic, huge, enormous
-- [[希少]] — scarce, rare
-- [[希薄]] — thin, sparse, dilate
-- [[幾]] — several, a few, some
-- [[広範]] — wide-ranging, extensive, broad
-- [[廉価]] — low price
-- [[微小]] — tiny, minute, microscopic
-- [[拡大]] — expand, enlarge
-- [[拡張]] — expansion, to expand, to extend
-- [[昂揚]] — high-spirited, exalted
-- [[条]] — long thin objects
-- [[極右]] — far-right
-- [[極左]] — far-left
-- [[榴弾]] — high explosives
-- [[此多]] — this much, this many
-- [[浅]] — shallow
-- [[浅薄]] — superficial, shallow
-- [[浩大]] — vast, great, magnificent
-- [[深刻]] — profound, deep, serious
-- [[深長]] — long and deep, profound, abstruse
-- [[漸漸]] — gradually, little by little
-- [[無然]] — disappointed, in low spirits
-- [[狭窄]] — narrow, constricted
-- [[痩]] — thin
-- [[矣]] — indeed
-- [[短]] — short
-- [[短期]] — short-term
-- [[短音]] — short vowel, short tone
-- [[碩大]] — huge, enormous
-- [[程度]] — extent, degree
-- [[繁茂]] — lush, thick
-- [[膨脹]] — swell, bloat, inflate, expand
-- [[苟]] — if only
-- [[若干]] — a little, somewhat
-- [[茂密]] — dense, thick
-- [[茫茫]] — vast, boundless, hazy, indistinct
-- [[蒼海]] — vast ocean
-- [[蔓延]] — spread, proliferate, extend (of disease or vegetation)
-- [[諸]] — various
-- [[諸子]] — the various masters, pre-qin philosophers
-- [[趨]] — take many small steps towards
-- [[距離]] — distance
-- [[跳高]] — high jump
-- [[迥]] — distant, far
-- [[遠]] — far
-- [[遠方]] — distant place, far away location
-- [[遥遠]] — distant, faraway
-- [[闊]] — broad, wide
-- [[闊葉]] — broad-leaf
-- [[頗]] — very
-- [[高]] — high
-- [[魶]] — giant salamander
-- [[鮮少]] — rare, seldom, few
+- [[不用]] — not necessary, unused, useless
+- [[主頁]] — main page, homepage
+- [[単位]] — unit, academic credit
+- [[原子]] — atom
+- [[墨素]] — antimony
+- [[必要]] — necessary, essential
+- [[残]] — remaining, not broken off
+- [[渇金]] — tantalum
+- [[部隊]] — unit, corp
+- [[錀]] — roentgenium
+- [[錀琴]] — roentgen, röntgen
 
-## Food (68)
+## Science (new) (33)
 
-- [[乾酪]] — cheese
-- [[井物]] — bowl of food
-- [[亜洲]] — asia
-- [[亜細亜]] — asia
-- [[刀刃]] — knife blade, pivotal moment
-- [[刀剣]] — sword, dagger, knife
-- [[刀叉]] — fork and knife
-- [[勺]] — spoon, ladle
-- [[午飯]] — lunch, noon meal
-- [[午餐]] — lunch
-- [[叉]] — fork, prong, tine
-- [[塩]] — salt
-- [[大食]] — binge eat
-- [[技術]] — technology, technique
-- [[拌和]] — stir, mix, blend
-- [[撹拌]] — stir up, agitate
-- [[暴飲]] — binge drink
-- [[杯]] — cup, cupful
-- [[東南亜]] — southeast asia
-- [[果子]] — candy, pastry
-- [[果実]] — fruit, berry
-- [[果汁]] — fruit juice
-- [[桜桃]] — cherry (fruit)
-- [[毛蝦]] — shrimp
-- [[汁]] — soup, juice
-- [[汎]] — pan-
-- [[漬]] — pickle, salt, soak, steep
-- [[炊]] — cook
-- [[炒]] — fry, sauté
-- [[焼酎]] — soju, shochu, rice wine, shaojiu
-- [[牛井]] — gyudon, beef rice bowl
-- [[猩蝿]] — fruit fly, drosophila
-- [[甜菜]] — sugar beet
-- [[皿]] — dish, container
-- [[碗]] — bowl, dish
-- [[箸]] — chopsticks
-- [[糖]] — sugar
-- [[肉]] — meat
-- [[肉汁]] — gravy, broth
-- [[肉湯]] — broth
-- [[股]] — crotch, groin, fork
-- [[肴]] — cooked meat
-- [[膳食]] — meal, diet, food
-- [[臘肉]] — cured pork, preserved meat
-- [[茶]] — tea (drink), tea (plant)
-- [[菜汁]] — vegetable juice
-- [[薄荷]] — mint (candy)
-- [[親子井]] — oyakodon, chicken and egg rice bowl
-- [[豚井]] — butadon, pork rice bowl
-- [[部]] — part
-- [[部分]] — part, section, segment, portion
-- [[郭]] — outermost part
-- [[酌酒]] — pour wine
-- [[醇酒]] — good wine
-- [[醤油]] — soy sauce
-- [[醸造]] — brew, ferment
-- [[鉢]] — bowl
-- [[鍋]] — pot
-- [[音叉]] — tuning fork
-- [[食]] — eat
-- [[飲]] — drink
-- [[飲食]] — eat and drink
-- [[餅]] — pastry, cake, mochi
-- [[餐]] — eat, dine
-- [[鶏肉]] — chicken, chicken meat
-- [[麦酒]] — beer
-- [[麺]] — flour
-- [[麺包]] — bread
-
-## Emotions (65)
-
-- [[不幸]] — unfortunate, sad, unhappy
-- [[九泉]] — the nine springs, the netherworld, the grave
-- [[享受]] — enjoy, relish
-- [[倦嫌]] — weary, world-weary, jaded, sick and tired
-- [[刻薄]] — cruel, inhuman
-- [[厳粛]] — solemn, austere, grave
-- [[厳重]] — serious, rigorous
-- [[受難]] — to suffer hardship, the passion (christianity)
-- [[台悦]] — happy, pleased, joyful
-- [[哀傷]] — sad, distressed, mournful
-- [[喜悦]] — joyous, happy
-- [[塚]] — hillock, grave, tumulus, burial mound
-- [[墓穴]] — grave, burial pit, tomb
-- [[墳墓]] — grave, tomb
-- [[夜叉]] — yaksha, yaksa, a fierce demon
-- [[娯楽]] — entertain, amuse oneself
-- [[安寧]] — calm, composed
-- [[平穏]] — calm, peaceful
-- [[平静]] — calm, serene, peaceful
-- [[幸福]] — happy, blessed
-- [[弔]] — condol, mourn, pity
-- [[忌惮]] — fear, restraint, hesitation
-- [[快]] — sharp, quick, happy
-- [[怒号]] — howl in anger, roar
-- [[怒気]] — anger
-- [[怯]] — cowardly, timid, afraid
-- [[恐怖]] — fear, dread
-- [[恐惧]] — be afraid of, have a dread of, have a phobia of
-- [[恐慌]] — nervous, frantic, panicky
-- [[恥辱]] — disgrace, shame
-- [[患]] — suffer from
-- [[悩]] — angered, mad
-- [[悲]] — be sad
-- [[悲傷]] — sad, sorrowful, grieving
-- [[悼]] — lament
-- [[惨]] — wretched, cruel
-- [[愉快]] — happy, pleasant, enjoyable
-- [[憂慮]] — worry, be anxious
-- [[憫]] — pity
-- [[懐愁]] — wistful longing, nostalgic grief
-- [[振]] — shake, excite, rouse
-- [[欣喜]] — happy, glad, joyful
-- [[歓呼]] — hail, cheer
-- [[歓喜]] — happy, pleased
-- [[泰然]] — calm, composed, unruffled
-- [[激怒]] — anger, enrage
-- [[熱情]] — enthusiasm, passion, ardor
-- [[畏]] — fear, dread, reverence, awe, phobia
-- [[瘋顚]] — insane, crazy, mad
-- [[窪地]] — hollow, depression, pit
-- [[罹患]] — suffer from, contract
-- [[羞恥]] — shame
-- [[胃痛]] — stomachache, epigastric pain
-- [[苛酷]] — cruel, harsh, severe
-- [[苦]] — suffering, bitter
-- [[苦味]] — bitter taste, bitterness
-- [[苦瓜]] — bitter melon
-- [[苦痛]] — agony, pain, suffering
-- [[衷情]] — heartfelt emotion, inner feelings
-- [[踊躍]] — leap for joy, eager, enthusiastic
-- [[辣]] — spicy, hot, cruel
-- [[雀躍]] — jump for joy
-- [[高興]] — glad, pleased
-- [[鬼神]] — fierce demon
-- [[鼓舞]] — encourage, cheer
-
-## Conflict (63)
-
-- [[䦧]] — quarrel
-- [[伎両]] — skill, ability, underhanded trick, ploy
-- [[侠客]] — knight-errant, swordsman, hero
-- [[俊傑]] — hero, genius
-- [[保衛]] — defend, safeguard
-- [[保護]] — protect, safeguard, shield
-- [[凱歌]] — triumphant song, victory song
-- [[凶暴]] — ferocious, brutal, savage and violent
-- [[刺激]] — provoke, irritate
-- [[勇敢]] — brave, courageous
-- [[勝利]] — win, succeed
-- [[参劾]] — accuse, charge
-- [[受賞]] — to win an award, to be awarded
-- [[告訴]] — accuse, charge, file a lawsuit
-- [[喪失]] — lose
-- [[嚇]] — scare, frighten
-- [[太平]] — peaceful, peace
-- [[失業]] — become unemployed, lose one's job
-- [[奮闘]] — struggle, fight, strive
-- [[守衛]] — protect, guard
-- [[守護]] — to guard, protect, a guardian
-- [[安全]] — safe, secure
-- [[安心]] — peace of mind, be at ease
-- [[安慰]] — comfort, console
-- [[安逸]] — ease, comfort, complacent
-- [[平安]] — peaceful, safe
-- [[康寧]] — tranquility and peace
-- [[恨]] — hate, grudge
-- [[愛護]] — protect
-- [[慰安]] — comfort, console
-- [[憎悪]] — hate, loathe
-- [[戦闘]] — fight, engage in combat, battle
-- [[打撃]] — strike, beat, hit, percuss
-- [[批判]] — critique, criticize
-- [[抗争]] — fight, contend
-- [[抵抗]] — resist
-- [[拷問]] — torture, interrogation under torture
-- [[挫折]] — setback, frustration, defeat
-- [[損失]] — loss, to lose
-- [[撃]] — strike, hit, beat
-- [[攻]] — attack, criticize
-- [[教戒]] — to instruct, to admonish, to teach and warn
-- [[昂然]] — bold, elated
-- [[暴]] — violent, brutal, fierce, tyrannical
-- [[暴風]] — windstorm, violent storm, gale
-- [[殴打]] — strike, batter
-- [[流言]] — spread rumors, gossip
-- [[滅失]] — lose
-- [[激烈]] — violent, severe, acute
-- [[狂風]] — gale, violent wind, tempest
-- [[秘訣]] — secret, knack, trick
-- [[自失]] — to lose oneself, to be dazed, to be stunned
-- [[英雄]] — hero
-- [[評論]] — criticize, comment, review
-- [[豪傑]] — hero, genius
-- [[貳]] — disloyal, betray
-- [[遮蔽]] — cover, protect
-- [[遺]] — lose, leave behind
-- [[金庫]] — treasury, safe
-- [[闘争]] — struggle
-- [[防守]] — defend, guard
-- [[防御]] — defend, protect, cover
-- [[養生]] — care for, protect
-
-## Metals (58)
-
-- [[一瞥]] — glance, quick look
-- [[一般]] — average, common, general, ordinary
-- [[主導]] — lead
-- [[了解]] — understand, comprehend, learn
-- [[仰望]] — look up to
-- [[保持]] — keep, maintain, conserve
-- [[修道]] — spiritual discipline, cultivation of the way
-- [[偏重]] — to overemphasize, to lean too heavily toward, bias
-- [[充当]] — to allocate, to assign, to apply (funds) toward
-- [[化学肥料]] — chemical fertilizer
-- [[厉]] — whetstone
-- [[口訣]] — mnemonic formula, secret oral formula
-- [[口語]] — colloquial language, spoken language
-- [[同一]] — same, identical
-- [[向]] — toward, -ward
-- [[呆]] — confused
-- [[大綱]] — outline, general framework, main points
-- [[密陀僧]] — litharge, lead monoxide
-- [[寒蝉]] — winter cicada, one who dares not speak (figurative)
-- [[延長]] — extend, prolong, extension
-- [[引入]] — lead into, introduce to
-- [[控訴]] — formally complain regarding, file charges against
-- [[明朗]] — bright, clear, cheerful
-- [[明白]] — clear, obvious, evident
-- [[明瞭]] — apparent, clear
-- [[晴朗]] — clear, serene, bright, sunny
-- [[果醤]] — jam, jelly, preserves
-- [[標識]] — sign, mark, symbol
-- [[混乱]] — chaotic, confused, riotous
-- [[清澈]] — clear, limpid
-- [[澄清]] — clear, pure
-- [[率先]] — take the lead, be the first to act
-- [[皆事]] — everything, every act, all matters
-- [[皆物]] — everything, every object, all things
-- [[瞭然]] — clear, evident
-- [[瞻仰]] — look up to with reverence, pay homage to
-- [[砥石]] — whetstone, grindstone
-- [[符号]] — symbol, mark, sign
-- [[糊塗]] — muddled, confused
-- [[統率]] — command, lead
-- [[維持]] — maintain, keep, uphold
-- [[花魁]] — oiran, leading courtesan
-- [[表記]] — notation, orthography, written representation
-- [[視]] — look at, inspect
-- [[訴訟]] — sue, file a lawsuit
-- [[調査]] — look into, investigate
-- [[論理]] — logic
-- [[貴重]] — precious, valuable
-- [[迷]] — be lost, be confused
-- [[過]] — than, too
-- [[道理]] — logic, method, way, principle
-- [[郭清]] — to purge, to clear away, surgical dissection
-- [[金剛石]] — diamond (mineral)
-- [[鈬]] — bronze bell
-- [[鉄板]] — iron grill
-- [[鉱物]] — mineral
-- [[陪]] — accompany, be with, keep company
-- [[顔色]] — complexion, expression, appearance, look
-
-## Directions (55)
-
-- [[下]] — down, under
-- [[並]] — side by side
-- [[並列]] — parallel, juxtaposed, side by side
-- [[並立]] — to stand side by side, to coexist, to be parallel
-- [[中央]] — center, middle
-- [[中心]] — center, core, crux
-- [[交情]] — friendship, friendly relations
-- [[側面]] — side, aspect, lateral side
-- [[北方]] — north (direction)
-- [[北極]] — north polar
-- [[北面]] — north side
-- [[南北]] — north and south
-- [[南極]] — south pole
-- [[反]] — anti-, wrong side up
-- [[右側]] — right (side)
-- [[名誉]] — honor, reputation
-- [[嘉賓]] — guest of honor
-- [[垂直]] — vertical, perpendicular
-- [[大韓民国]] — republic of korea, south korea
-- [[夫]] — right?
-- [[尊敬]] — respect, honor, esteem
-- [[導演]] — direct, director
-- [[左側]] — left (direction), left side
-- [[年歳]] — age (honor.)
-- [[弊]] — evil, wrong
-- [[徳沢]] — grace, beneficence, aid, support
-- [[悪]] — bad, evil
-- [[悪毒]] — malicious, vicious
-- [[扶]] — hold on to for support
-- [[捺]] — right down stroke
-- [[提出]] — to submit, to bring forward, to put forward
-- [[援護]] — support, backing, aid (esp. for veterans)
-- [[攀縁]] — climb, scramble up, cling to (for support)
-- [[時宜]] — timely, be right time
-- [[更少]] — less, fewer
-- [[朝鮮]] — north korea, choseon
-- [[栄辱]] — honor and disgrace, reputation
-- [[権利]] — right, privilege
-- [[沿]] — edge, side
-- [[監督]] — direct, supervise, manage
-- [[直]] — straight, erect, aligned
-- [[直線]] — straight line
-- [[直角]] — right angle
-- [[縦縞]] — vertical stripes, pinstripes
-- [[羅馬字]] — latin letters, roman alphabet, romanization
-- [[羅馬語]] — latin
-- [[臥]] — lie down, crouch
-- [[親切]] — kind, helpful, friendly
-- [[賛助]] — support, sponsor
-- [[転載]] — reprint, reproduce, forward
-- [[軽視]] — look down on, disdain, underestimate
-- [[辺界]] — side, edge, border
-- [[逓送]] — send, forward, transmit
-- [[隅]] — nook, corner, side
-- [[韓国]] — korea, south korea
+- [[七角形]] — heptagon
+- [[三稜鏡]] — prism
+- [[三角]] — triangle
+- [[三角形]] — triangle
+- [[中性子]] — neutron
+- [[乗数]] — multiplier
+- [[代数]] — algebra
+- [[仮定]] — assume, suppose, hypothesis
+- [[体積]] — volume, capacity, bulk
+- [[分子]] — molecule, numerator
+- [[化学]] — chemistry
+- [[周長]] — perimeter, circumference
+- [[圓周]] — circumference
+- [[容量]] — volume, capacity
+- [[巡回]] — patrol, tour, circuit
+- [[帰結]] — conclude, sum up
+- [[幾何学]] — geometry
+- [[方程式]] — equation
+- [[極度]] — extreme, extreme degree
+- [[比例]] — ratio, proportion
+- [[比率]] — ratio, rate, proportion
+- [[温度]] — temperature
+- [[溝股]] — pythagorean theorem
+- [[物理学]] — physics
+- [[生物学]] — biology
+- [[病毒]] — virus
+- [[直径]] — diameter
+- [[精度]] — precision; degree of refinement
+- [[行列]] — matrix, queue
+- [[遺伝子]] — gene
+- [[鏡]] — mirror, lens
+- [[陽子]] — proton
+- [[電子]] — electron
 
 ## Water (50)
 
@@ -5395,250 +5550,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[蒸汽]] — steam, vapor
 - [[鞠躬]] — bow, to bow respectfully
 
-## Containers (47)
-
-- [[㪘]] — to gather, to collect, to restrain
-- [[乗員]] — crew, crew member
-- [[会]] — meet, gather
-- [[会員]] — member
-- [[個]] — individual items
-- [[個人]] — individual
-- [[傍]] — beside, close
-- [[充填]] — fill
-- [[内容]] — content, substance
-- [[凶徒]] — villain, thug, criminal gang member, mob
-- [[制御]] — to control, to contain, to dominate
-- [[包含]] — have, include, contain
-- [[包括]] — include, consist of
-- [[収集]] — collect, gather
-- [[報道]] — cover news, report on
-- [[填]] — fill in, make good on
-- [[実詞]] — content word
-- [[容器]] — contain, vessel
-- [[弥漫]] — pervade, fill
-- [[徴税]] — collect taxes, levy taxes
-- [[採取]] — pick, harvest, collect
-- [[採集]] — gather, collect
-- [[桶]] — pail, bucket, tub, cask, keg
-- [[水壷]] — kettle, water bottle
-- [[瓶]] — jug, bottle, pot
-- [[空]] — empty
-- [[空手]] — be empty handed, be unarmed
-- [[空白]] — blank, empty
-- [[空虚]] — empty
-- [[筐]] — bamboo basket
-- [[箱]] — case, box, chest, trunk
-- [[籠]] — basket
-- [[聚集]] — gather, assemble, collect
-- [[肥桶]] — night-soil bucket, manure barrel
-- [[胡芦]] — bottle gourd, calabash
-- [[蒐集]] — collect, gather
-- [[袋]] — sack, bag
-- [[覆蓋]] — cover, affect
-- [[議員]] — member of parliament, congressman
-- [[貝殻]] — seashell, shell
-- [[錠]] — lock
-- [[鍵]] — key
-- [[鍾]] — alcohol bottle
-- [[閉]] — shut, close
-- [[関]] — close
-- [[集合]] — assemble, gather
-- [[鞄]] — bag, luggage
-
-## Events (43)
-
-- [[主題]] — topic, theme, subject, motif
-- [[事件]] — event, incident, occurrence
-- [[作用]] — act upon, affect
-- [[停止]] — stop, suspend
-- [[其事]] — that act, that matter
-- [[又]] — or again
-- [[始作]] — begin, start
-- [[安穏]] — peaceful, quiet, steady
-- [[完成]] — complete, finish
-- [[屢]] — frequently, often, again and again, repeatedly
-- [[希有]] — rare
-- [[従事]] — to engage in, to be involved in, to pursue (a vocation)
-- [[怠惰]] — lazy, indolent
-- [[恒常]] — constant, usual, common
-- [[懶惰]] — lazy
-- [[机会]] — opportunity
-- [[来賓]] — guest, visitor (at an event)
-- [[此事]] — this act, this matter
-- [[法律]] — statute, law, act
-- [[活動]] — move, engage in activity
-- [[無我]] — non-self, anattā
-- [[珍]] — rare
-- [[番]] — time, turn, occasion
-- [[癖]] — idiosyncrasy, habit
-- [[発展]] — develop
-- [[積極]] — positive, active, dynamic
-- [[絶後]] — never happen again, not have children
-- [[継続]] — continue, proceed, persist
-- [[綴]] — bind, stop
-- [[繁忙]] — busy
-- [[習慣]] — be accustomed to, be in the habit of
-- [[聘]] — engage, betroth
-- [[行動]] — act, action
-- [[設備]] — equip, finish, provide
-- [[誠意]] — act in good faith, do sincerely
-- [[誦]] — recite, chant, repeat
-- [[逗留]] — stay, pause, sojourn
-- [[重複]] — repeat, duplicate, be repetitive
-- [[開始]] — begin, start
-- [[間諜]] — spy, secret agent
-- [[際]] — border, occasion
-- [[頃]] — moment, occasion
-- [[頻]] — frequent, again and again
-
-## Efforts (38)
-
-- [[事故]] — accident
-- [[令]] — cause
-- [[企図]] — try, attempt, plan
-- [[偶爾]] — by accident, perchance
-- [[冒険]] — adventure, risk
-- [[効果]] — effect
-- [[嘗試]] — try, attempt
-- [[困難]] — difficult, hard
-- [[圧]] — press, control
-- [[失敗]] — fail, be defeated
-- [[失禁]] — incontinence, loss of bladder or bowel control
-- [[奮発]] — exert oneself, make a special effort
-- [[実力]] — power, strength, force
-- [[弱]] — weak
-- [[強迫]] — force, compel
-- [[把握]] — grasp, control
-- [[掌握]] — control
-- [[支配]] — rule, control, manage, govern, dominate
-- [[故而]] — therefore, as a result, and so
-- [[既遂]] — accomplish, complete
-- [[柔]] — tender, soft, weak
-- [[柔軟]] — soft, pliable, weak
-- [[汽車]] — steam train, locomotive
-- [[災厄]] — trouble, burden, disaster
-- [[空軍]] — air force
-- [[結果]] — result, fruit
-- [[羸弱]] — frail, weak, feeble
-- [[自制]] — restraint, self-control
-- [[自禁]] — self-control
-- [[致]] — cause
-- [[苦悶]] — agony, anguish, worry, trouble
-- [[薄弱]] — weak, feeble
-- [[蠢動]] — to wriggle, to stir up trouble, to act restlessly
-- [[轄]] — linchpin of a wheel, control
-- [[逼迫]] — force, compel, press, coerce
-- [[錯誤]] — err, make a mistake
-- [[閙事]] — make a scene, cause trouble
-- [[養成]] — cultivate, train
-
-## Clothing (35)
-
-- [[亜麻布]] — linen
-- [[包装]] — wrap, package
-- [[回転]] — turn, spin, rotate, revolve
-- [[大麻]] — hemp, marijuana
-- [[天鵝絨]] — velvet
-- [[布帛]] — silk, textiles
-- [[帽子]] — hat, cap
-- [[戴]] — be crowned with, wear on top
-- [[扮]] — dress up
-- [[染色]] — dye, stain
-- [[浣衣]] — wash clothes, do laundry
-- [[浴衣]] — yukata, light cotton kimono
-- [[白領]] — white-collar
-- [[着]] — wear
-- [[磨耗]] — wear, abrasion
-- [[笠帽]] — conical bamboo hat, straw hat
-- [[糸線]] — silk thread
-- [[紡]] — spin (yarn)
-- [[絞捻]] — twist, wring, spin (thread)
-- [[絹]] — silk
-- [[綿花]] — cotton
-- [[縫製]] — sew, tailor
-- [[繰]] — reel, bolt of cloth
-- [[藍領]] — blue-collar
-- [[衣服]] — clothes
-- [[衣襟]] — collar
-- [[衣類]] — clothing, clothes, garments
-- [[袂]] — sleeve
-- [[袖]] — sleeve
-- [[袴]] — pants, trousers
-- [[装]] — dress up, adorn, pretend
-- [[裸]] — strip, undress, be naked
-- [[針]] — needle, pin, tack, hand (clock)
-- [[鞋]] — shoe
-- [[麻布]] — linen cloth, hemp cloth
-
-## Science (new) (33)
-
-- [[七角形]] — heptagon
-- [[三稜鏡]] — prism
-- [[三角]] — triangle
-- [[三角形]] — triangle
-- [[中性子]] — neutron
-- [[乗数]] — multiplier
-- [[代数]] — algebra
-- [[仮定]] — assume, suppose, hypothesis
-- [[体積]] — volume, capacity, bulk
-- [[分子]] — molecule, numerator
-- [[化学]] — chemistry
-- [[周長]] — perimeter, circumference
-- [[圓周]] — circumference
-- [[容量]] — volume, capacity
-- [[巡回]] — patrol, tour, circuit
-- [[帰結]] — conclude, sum up
-- [[幾何学]] — geometry
-- [[方程式]] — equation
-- [[極度]] — extreme, extreme degree
-- [[比例]] — ratio, proportion
-- [[比率]] — ratio, rate, proportion
-- [[温度]] — temperature
-- [[溝股]] — pythagorean theorem
-- [[物理学]] — physics
-- [[生物学]] — biology
-- [[病毒]] — virus
-- [[直径]] — diameter
-- [[精度]] — precision; degree of refinement
-- [[行列]] — matrix, queue
-- [[遺伝子]] — gene
-- [[鏡]] — mirror, lens
-- [[陽子]] — proton
-- [[電子]] — electron
-
-## Grammar (30)
-
-- [[与格]] — dative case
-- [[代名詞]] — pronoun
-- [[代詞]] — pronoun
-- [[可]] — can, may
-- [[可以]] — can, may (permissive)
-- [[可能]] — possible, may, might, perhaps
-- [[女性]] — female, feminine (gender)
-- [[如何]] — how, how about
-- [[将]] — will, shall
-- [[意志]] — will, intent
-- [[或]] — or, perhaps
-- [[所以]] — therefore, so, consequently
-- [[方言]] — dialect
-- [[書契]] — writing system, written records, the invention of writing
-- [[沈淀]] — sediment, precipitate, settle (of particles)
-- [[焉]] — therefore
-- [[燐火]] — will-o'-the-wisp, ignis fatuus
-- [[甚様]] — what manner, of what sort, how
-- [[男性]] — male, masculine gender
-- [[篇]] — article, piece of writing
-- [[自分]] — self-examine, assess oneself
-- [[自尊]] — self-esteem, self-respect, dignity
-- [[自我]] — self-conscious, self-aware
-- [[自給]] — self-sufficient, self-reliant
-- [[自足]] — be self-sufficient, be satisfied with oneself
-- [[自身]] — self
-- [[那]] — then, in that case
-- [[陰性]] — negativity, feminine gender
-- [[陽性]] — positivity, masculine gender
-- [[鬼火]] — will-o-the-wisp, ignis fatuos
-
 ## Work (18)
 
 - [[作業]] — work, operate, task
@@ -5660,37 +5571,6 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[辛苦]] — work hard, toil
 - [[退職]] — retire, resign
 
-## Elements (14)
-
-- [[大旨]] — main idea, gist
-- [[梓木]] — catalpa wood
-- [[楠木]] — camphor wood, nanmu
-- [[樺木]] — birch, birch wood
-- [[水]] — water
-- [[水牛]] — water buffalo
-- [[水面]] — water surface
-- [[汽水]] — brackish water
-- [[淡水]] — fresh water, potable water, drinking water
-- [[湯]] — hot water
-- [[石]] — rock, stone
-- [[石頭]] — stone, rock
-- [[符水]] — magic water, charmed water
-- [[週期表]] — periodic table
-
-## Periodic Table (11)
-
-- [[不用]] — not necessary, unused, useless
-- [[主頁]] — main page, homepage
-- [[単位]] — unit, academic credit
-- [[原子]] — atom
-- [[墨素]] — antimony
-- [[必要]] — necessary, essential
-- [[残]] — remaining, not broken off
-- [[渇金]] — tantalum
-- [[部隊]] — unit, corp
-- [[錀]] — roentgenium
-- [[錀琴]] — roentgen, röntgen
-
 ## 歴史綱要 (7)
 
 - [[北部]] — north, northern area
@@ -5700,3 +5580,133 @@ Rough, unpolished working list — 5578 of 6035 word files currently have zero `
 - [[歌謡]] — song, ballad
 - [[賛歌]] — song of praise, hymn
 - [[魏晋]] — wei and jin dynasties discussed together
+
+## 基督敎 (127)
+
+- [[丈人]] — father-in-law, wife's father
+- [[丈母]] — mother-in-law
+- [[三位一体]] — trinity
+- [[上帝]] — shangdi, god
+- [[主従]] — master and servant, lord and retainer
+- [[主教]] — bishop, overseer
+- [[九天]] — ninth heaven
+- [[仁徳]] — benevolence, goodness
+- [[会堂]] — meeting hall, church
+- [[会議]] — meeting, conference
+- [[但]] — but, however, yet, only
+- [[位置]] — location, place
+- [[使徒]] — apostle
+- [[信奉]] — believe in, have faith in
+- [[修道院]] — monastery, abbey, convent
+- [[偕者]] — lord, yahweh
+- [[儀式]] — ritual ceremony
+- [[償還]] — repayment, restitution, compensation
+- [[処]] — place
+- [[出谷記]] — exodus
+- [[創世記]] — genesis, moses 1
+- [[千乗]] — vassal of the son of heaven
+- [[危机]] — crisis, critical juncture
+- [[原始]] — primitive, original
+- [[原罪]] — original sin
+- [[参観]] — visit; tour (a place), observe
+- [[司鈬]] — priest (catholic)
+- [[名称]] — appellation, name, title
+- [[君士坦丁堡]] — constantinople
+- [[固有]] — proper
+- [[基督]] — christ
+- [[堕天使]] — fallen angel, lucifer
+- [[外祖父]] — maternal grandfather, mother's father
+- [[大主教]] — archbishop
+- [[大学]] — university (abbreviated, used in institution names), great learning (confucian classic; see book translation)
+- [[大教堂]] — cathedral
+- [[天主]] — god, supreme deity
+- [[天子]] — son of heaven
+- [[天道]] — law of nature, god of heaven
+- [[太極]] — supreme ultimate
+- [[妖怪]] — devil, goblin
+- [[妥当]] — appropriate, proper
+- [[姑丈]] — aunt's man, father's sister's husband
+- [[婆婆]] — grammy, paternal grandmother, mother-in-law
+- [[婿]] — bridegroom, son-in-law
+- [[嫁娶]] — marriage, wedding, marrying and being given in marriage
+- [[宗徒]] — apostle (roman catholic)
+- [[宰相]] — supreme chancellor, prime minister, premier
+- [[将軍]] — shogun, supreme commander
+- [[尼僧]] — nun
+- [[尼西亜]] — nicaea, nicea
+- [[崇拝]] — worship, adore
+- [[幸運]] — lucky, fortunate
+- [[従軍]] — to serve in the military, military service
+- [[復活節]] — easter
+- [[恩典]] — grace, divine grace
+- [[恩寵]] — favor, divine favor, god's special regard
+- [[恩徳]] — benevolence
+- [[恩恵]] — blessing
+- [[恩情]] — kindness, affection, grace, favor
+- [[恩意]] — affection, gracious goodwill
+- [[恩施]] — to bestow grace, to bestow blessings
+- [[悪鬼]] — evil spirit, devil
+- [[悪魔]] — devil
+- [[愛情]] — love, affection, romance
+- [[慈善]] — charity, benevolence
+- [[慧]] — bright, intelligent
+- [[所在]] — place, location, whereabouts
+- [[提案]] — propose, suggest, motion
+- [[救偕]] — jesus
+- [[救贖]] — redemption, atonement
+- [[教堂]] — church, chapel
+- [[教皇]] — pope
+- [[文化圏]] — cultural sphere
+- [[明]] — bright
+- [[昭明]] — shining and bright, luminous
+- [[暗示]] — suggest, hint
+- [[材料]] — material, stuff, abstracta
+- [[標誌]] — symbolize, mark, indicate
+- [[正大]] — proper, legitimate, honest
+- [[正確]] — accurate, correct, proper
+- [[段]] — segments, sections, passages
+- [[治安]] — public order, public security, law and order
+- [[洗礼]] — baptism
+- [[港湾]] — harbor
+- [[燦乱]] — resplendent, bright, glittering, gorgeous
+- [[爵位]] — peerage, title of nobility
+- [[父親]] — father
+- [[牧]] — shepherd
+- [[牧師]] — pastor, minister (protestant)
+- [[物証]] — material evidence
+- [[物質]] — material, substance
+- [[犠牲]] — sacrifice, victim
+- [[獅子]] — lion, bodhisattva
+- [[獅子国]] — lion country, sri lanka (historical)
+- [[礼拝]] — worship service, religious worship
+- [[祈祷]] — pray
+- [[神]] — god, deity, spirit
+- [[神仙]] — immortal, god
+- [[神父]] — father, priest (eastern orthodox)
+- [[神聖]] — sacred, holy
+- [[祭祀]] — sacrifice, worship
+- [[禁書]] — banned book, proscribed text
+- [[秩序]] — law and order, regularity
+- [[稿]] — manuscript, copy, rough draft
+- [[経]] — classic, channel, warp
+- [[経典]] — scripture, book, classic, sutra
+- [[総主教]] — primate, chief archbishop
+- [[罪]] — sin, crime
+- [[置]] — put, place
+- [[羅馬]] — roman
+- [[聖礼]] — sacrament
+- [[聖誕節]] — christmas
+- [[聖餐]] — communion, the eucharist, the lord's supper
+- [[行伝]] — acts (biblical book); record of deeds
+- [[諡号]] — posthumous name, honorary posthumous title
+- [[迅速]] — rapid, swift, prompt
+- [[迦克敦]] — chalcedon
+- [[通行証]] — permit, pass, prerequisite
+- [[通過]] — pass
+- [[逝去]] — pass away, die
+- [[道成肉身]] — incarnation, the word became flesh
+- [[部族]] — tribe, clan
+- [[霊長類]] — primate
+- [[養父]] — adoptive father
+- [[首領]] — supreme leader, chief
+- [[魑魅]] — evil spirit, dryad, demon
