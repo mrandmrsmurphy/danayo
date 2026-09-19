@@ -17,14 +17,14 @@ language: English
 - park - <ruby>[公園](../words/公園.md)<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
 - cemetery - <ruby>[墓地](../words/墓地.md)<rt>ㄇㄛㄉㄧㄜ</rt></ruby>
 - neighborhood - <ruby>[近処](../words/近処.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>
-- port
-- alley
-- sewer
-- forum
+- port - [[海港]] *(reserved — "seaport," built on [海](../characters/海.md) "sea" + [港](../characters/港.md) "harbor"; not yet a word page. Distinct from the existing [[港湾]] "harbor" itself.)*
+- alley - *(no word yet — genuine gap: no CJKV consensus term exists at all. Mandarin/Cantonese lean Sino (巷 xiàng/hong6, or Beijing-specific 胡同 hútòng), but Japanese commonly uses native 路地 (roji) and Korean uses native 골목 (golmok) rather than any Sino-Korean equivalent, and Vietnamese uses native hẻm/ngõ. Tentatively proposed neologism: 坊巷 ("lanes and alleys" — [坊](../characters/坊.md) already independently carries an "alley, lane" sense; 巷 itself doesn't exist in the vault at all yet). Holding off on creating either the character or the word for now — flagged here for a future dedicated session.)*
+- sewer - [[下水道]] *(reserved — genuine three-way consensus: the exact same compound "under-water-way" in Mandarin, Japanese げすいどう, and Korean 하수도; Vietnamese leans native (cống) but has an attested formal Sino-Vietnamese form too. Not yet a word page.)*
+- forum - *(no CJKV equivalent — a foreign/imported Roman concept, not a genuine gap to fill)*
 - plaza
 
 ## Buildings 
-- bath
+- bath - *(no clean CJKV consensus term — Mandarin has 浴室/澡堂, Japanese mostly uses native 風呂 rather than its own on'yomi 浴室, Korean has 목욕탕 沐浴湯; each language structures the concept differently enough that no single word represents them all)*
 - home - <ruby>[居所](../words/居所.md)<rt>ㄍㄧㄙㄜ</rt></ruby>
 - hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby>
 - house - <ruby>[住宅](../words/住宅.md)<rt>ㄐㄨㄐㄚㄎ</rt></ruby>
@@ -33,59 +33,59 @@ language: English
 - prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby>
 - station - <ruby>[兵站](../words/兵站.md)<rt>ㄅ⼶ㄫㄐㄚㄇ</rt></ruby>
 - tower - <ruby>[望楼](../words/望楼.md)<rt>ㄇㄚㄫㄌㄛㄨ</rt></ruby>
-- tent
+- tent - [[天幕]] *(reserved — "heaven-curtain," a real shared coinage in Japanese てんまく and Korean 천막, though Mandarin uses an unrelated word instead, 帳篷 zhàngpéng. Not yet a word page.)*
 - hut - <ruby>[廬舎](../words/廬舎.md)<rt>ㄌㄛㄙ⼘</rt></ruby>
-- shed
-- cabin
+- shed - [[小屋]] *(reserved — "small building," shared by Mandarin xiǎowū and Japanese koya. Not yet a word page.)*
+- cabin - *(too much overlap with hut/shed above to confidently split into a third distinct concept — left unfilled)*
 - apartment - <ruby>[房室](../words/房室.md)<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby>
-- shelter
+- shelter - [[避難所]] *(reserved — genuine three-way consensus: identical compound in Mandarin and Japanese ひなんじょ, near-identical in Korean 피난처 避難處 (one character swapped for a synonym). Not yet a word page.)*
 
 ### Government 
 - palace - <ruby>[宮廷](../words/宮廷.md)<rt>ㄍㄨㄫㄉㄝㄫ</rt></ruby>
-- castle
+- castle - <ruby>[城郭](../words/城郭.md)<rt>ㄙㄧㄫㄍ⺢ㄎ</rt></ruby>
 - office - <ruby>[官庁](../words/官庁.md)<rt>ㄍ⺢ㄋㄑㄝㄫ</rt></ruby>
 - prison
 - ministry - <ruby>[省](../words/省.md)<rt>ㄙ⼶ㄫ</rt></ruby>
-- customs
+- customs - [[税関]] *(reserved — "tax-checkpoint," identical compound in Japanese ぜいかん and Korean 세관; Mandarin uses 海關 "sea-checkpoint" instead, sharing the same 關/関 "checkpoint" logic with a different first character. Not yet a word page.)*
 - house
-- archives
-- constablery
+- archives - *(no clean consensus — Mandarin 檔案館/資料館, Japanese 文書館, Korean 문서보관소/기록관 all structured differently)*
+- constablery - [[警察署]] *(reserved — identical compound in Japanese けいさつしょ and Korean 경찰서; Mandarin uses 警察局, swapping the final character for "bureau" instead of "office" — the same X法/X算-style register split already documented on [[Numbers]]. Not yet a word page.)*
 - <ruby>[政府](../words/政府.md)<rt>ㄐㄧㄫㄆㄨ</rt></ruby>: government (the institution this subsection's vocabulary serves).
 
 ### Cultural 
-- scriptorium
-- forum
+- scriptorium - *(no CJKV equivalent — a foreign/imported medieval European concept)*
+- forum - *(no CJKV equivalent — a foreign/imported Roman concept)*
 - library - <ruby>[図書館](../words/図書館.md)<rt>ㄉㄛㄙ⼄ㄍ⺢ㄋ</rt></ruby>
 - school - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 - academy - <ruby>[学院](../words/学院.md)<rt>ㄏㄚㄎ·⼔ㄋ</rt></ruby>
 - university - <ruby>[大学校](../words/大学校.md)<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 - monument - <ruby>[凱旋門](../words/凱旋門.md)<rt>ㄎㄚㄧㄙ⼔ㄋㄇㄛㄋ</rt></ruby>
-- theater
-- museum
-- concert hall
+- theater - [[劇場]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese げきじょう, and Korean 극장. Not yet a word page.)*
+- museum - [[博物館]] *(reserved — identical compound in Mandarin, Japanese はくぶつかん, and Korean 박물관; Vietnamese uses native-leaning bảo tàng instead. Not yet a word page.)*
+- concert hall - [[音楽堂]] *(reserved — shared 音樂/音楽/음악 "music" root; Mandarin ends in 廳 (tīng) rather than Japanese/Korean's 堂 (dō/dang). Not yet a word page.)*
 
 ### Religious 
 - church - <ruby>[教会](../words/教会.md)<rt>ㄍ⼄ㄨㄏ⼔</rt></ruby>
 - temple - <ruby>[文廟](../words/文廟.md)<rt>ㄇㄨㄋㄇ⼘ㄨ</rt></ruby> (specifically Confucian; no generic "temple" word yet)
 - monastery - <ruby>[精舎](../words/精舎.md)<rt>ㄐㄝㄫㄙ⼘</rt></ruby>
 - shrine - <ruby>[龕](../words/龕.md)<rt>ㄎㄚㄇ</rt></ruby>
-- cemetery
+- cemetery - <ruby>[墓地](../words/墓地.md)<rt>ㄇㄛㄉㄧㄜ</rt></ruby> (same word as The City's own "cemetery" above)
 
 ### Recreational 
-- bath
-- pool
-- tavern
-- inn
+- bath - *(no clean CJKV consensus — see Buildings section above)*
+- pool - *(no clean CJKV consensus — Mandarin 游泳池, Japanese loanword プール, Korean 수영장 all structured differently)*
+- tavern - *(no clean CJKV consensus)*
+- inn - [[旅館]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese りょかん (a real, culturally distinct institution), and Korean 여관. Genuinely distinct from "hotel" above. Not yet a word page.)*
 - hotel
 - restaurant - <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>
-- brothel
-- arena
-- stadium
-- race track
+- brothel - *(no clean CJKV consensus)*
+- arena - [[競技場]] *(reserved — identical compound in Mandarin, Japanese きょうぎじょう, and Korean 경기장. Not yet a word page.)*
+- stadium - *(too much overlap with arena above — CJKV doesn't cleanly split these into two buildings — left unfilled)*
+- race track - [[競馬場]] *(reserved — "compete-horse-place," identical in Japanese けいばじょう and Korean 경마장; Mandarin uses 賽馬場 instead, same structure with a different first character (賽 "race" vs 競 "compete"). Not yet a word page.)*
 - park
 - garden - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫ·ㄛㄋ</rt></ruby>
-- gambling den
-- opium den
+- gambling den - [[賭博場]] *(reserved — identical compound in Japanese とばくじょう and Korean 도박장; Mandarin's everyday word 賭場 drops the middle character. Not yet a word page.)*
+- opium den - *(no CJKV equivalent — a narrow 19th-century-China-specific concept without real Japanese/Korean counterparts)*
 
 ### Infrastructure 
 - port

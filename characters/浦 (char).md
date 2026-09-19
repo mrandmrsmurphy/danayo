@@ -21,14 +21,15 @@ english:
   - shore
 羅馬字: po
 諺文: 포
-joyo_level: "高等"
-hsk_level: "無"
+joyo_level: 高等
+hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 6194
 mc_id: 2506
 graphemic_classification: 甫
 stand_in: 浦
 aliases:
+  - 坡
 注音: ㄆㄛ
 kwin: true
 tags:

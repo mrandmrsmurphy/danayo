@@ -2,7 +2,7 @@
 mandarin: juàn
 cantonese: gyun2
 korean: 권
-korean_native: 책 권
+korean_native: 책
 japanese:
   - KAN
   - KEN
@@ -37,7 +37,7 @@ date-last-perfect: 2026-07-28
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness:
 ---
 >[!tip] This is a page about the character 巻.
 >For the word, see [巻](words/巻.md)
