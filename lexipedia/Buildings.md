@@ -88,50 +88,50 @@ language: English
 - opium den - *(no CJKV equivalent — a narrow 19th-century-China-specific concept without real Japanese/Korean counterparts)*
 
 ### Infrastructure 
-- port
+- port - [[海港]] (same reserved term as The City's own "port" above)
 - warehouse - <ruby>[倉庫](../words/倉庫.md)<rt>ㄑ⺢ㄫㄎㄛ</rt></ruby>
 - stable - <ruby>[馬厩](../words/馬厩.md)<rt>ㄇㄚㄍ⼜</rt></ruby>
 - railroad station - <ruby>[駅](../words/駅.md)<rt>⼶ㄎ</rt></ruby>
 - airport - <ruby>[空港](../words/空港.md)<rt>ㄎㄛㄫㄏㄛㄫ</rt></ruby>
-- spaceport
-- aqueduct
+- spaceport - [[宇宙港]] *(reserved — "space-port," a modern coinage independently identical in Japanese うちゅうこう and Korean 우주항; Mandarin uses 太空港, a different "space" word with the same "-port" structure. Not yet a word page.)*
+- aqueduct - [[水道橋]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese すいどうきょう, and Korean 수도교. Not yet a word page.)*
 - reservoir - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>
-- fountain
-- sewer
+- fountain - [[噴水]] *(reserved — "spray-water," identical in Japanese ふんすい and Korean 분수; Mandarin uses 噴泉 ("spray-spring") instead. Not yet a word page.)*
+- sewer - [[下水道]] (same reserved term as The City's own "sewer" above)
 - hospital - <ruby>[病院](../words/病院.md)<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>
 
 ### Commercial 
 - market - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>
 - shop - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>
 - bank - <ruby>[銀行](../words/銀行.md)<rt>ㄧㄋㄏㄚㄫ</rt></ruby>
-- brokerage
+- brokerage - *(no clean consensus — more an abstract business type than a building across CJKV)*
 - factory - <ruby>[工場](../words/工場.md)<rt>ㄍㄛㄫㄐㄚㄫ</rt></ruby>
-- brewery
-- mill
-- department store
-- tannery
+- brewery - [[醸造所]] *(reserved — "brewing-place," shared 醸造/釀造 root in Japanese じょうぞうじょ and Korean 양조장 (釀造場, final character differs 所/場); Mandarin uses an unrelated word, 釀酒廠. Not yet a word page.)*
+- mill - *(no clean consensus — structured completely differently across CJKV)*
+- department store - [[百貨店]] *(reserved — "hundred-goods-shop," identical in Japanese ひゃっかてん and Korean 백화점; Mandarin uses 百貨公司, sharing the 百貨 root with a different ending. Not yet a word page.)*
+- tannery - *(no clean consensus)*
 
 ## House 
 - cooridor - <ruby>[回廊](../words/回廊.md)<rt>ㄏㄛㄧㄌㄚㄫ</rt></ruby>
-- ceiling
-- cell
-- chamber
+- ceiling - *(uncertain — Japanese repurposed 天井, which traditionally means an open atrium/skywell in Mandarin rather than "ceiling"; Korean's own form unclear from research. Left unfilled rather than guess.)*
+- cell - [[監房]] *(reserved — "guard-room," identical in Mandarin and Korean 감방; Japanese uses a differently-structured 独房 (dokubō, "solitary-room") instead. Not yet a word page.)*
+- chamber - *(no clean consensus — too context-dependent across uses)*
 - door - <ruby>[門戸](../words/門戸.md)<rt>ㄇㄛㄋㄏㄛ</rt></ruby>
-- floor
-- hall
+- floor (building level, e.g. "2nd floor") - [[層]] *(reserved — the Mandarin/Korean majority term 層/층; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense — avoided here to prevent collision. Not yet a word page.)*
+- hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
-- roof
+- roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)*
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>
-- step
+- step - *(functionally the same word as "stair" above in CJKV — not a separate concept)*
 - wall - <ruby>[壁](../words/壁.md)<rt>ㄅㄝㄎ</rt></ruby>
 - window - <ruby>[窓口](../words/窓口.md)<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby>
   - **Note**: 窓口 is the Dan'a'yo word for "window" itself — the stand-in compound that legitimizes the bound character 窓 ("window"), unlike Japanese/Chinese where the cognate compound's everyday sense has drifted to "service window/counter."
-- attic
-- basement
-- closet
-- vestibule
-- balcony
+- attic - *(no clean consensus — structured differently across all three)*
+- basement - [[地下室]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese ちかしつ, and Korean 지하실. Not yet a word page.)*
+- closet - *(no clean consensus — Mandarin/Korean share a loose "wall-cabinet" idea but use different characters)*
+- vestibule - [[玄關]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese げんかん (the well-known shoe-removal entryway), and Korean 현관. Not yet a word page.)*
+- balcony - *(no CJKV consensus — Japanese and Korean both use English loanwords for this concept entirely)*
 - foundation - <ruby>[基礎](../words/基礎.md)<rt>ㄍㄧㄑㄛ</rt></ruby>
 
 ## Furniture 
