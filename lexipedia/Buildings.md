@@ -78,7 +78,8 @@ language: English
 - inn - [[旅館]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese りょかん (a real, culturally distinct institution), and Korean 여관. Genuinely distinct from "hotel" above. Not yet a word page.)*
 - hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby> (same word as the Buildings section's own "hotel" above)
 - restaurant - <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>
-- brothel - *(no clean CJKV consensus)*
+- brothel - <ruby>[妓院](../words/妓院.md)<rt>ㄍㄧ⼔ㄋ</rt></ruby>
+  - **Note**: no modern colloquial CJKV consensus existed for this concept, so Dan'a'yo resolves the disagreement by falling back on a classical, pan-Sinitic literary term instead — a real, standing method for settling this kind of cross-linguistic split (see the word's own Notes for the equally-attested alternative, 青樓).
 - arena - [[競技場]] *(reserved — identical compound in Mandarin, Japanese きょうぎじょう, and Korean 경기장. Not yet a word page.)*
 - stadium - *(too much overlap with arena above — CJKV doesn't cleanly split these into two buildings — left unfilled)*
 - race track - [[競馬場]] *(reserved — "compete-horse-place," identical in Japanese けいばじょう and Korean 경마장; Mandarin uses 賽馬場 instead, same structure with a different first character (賽 "race" vs 競 "compete"). Not yet a word page.)*
