@@ -20,23 +20,56 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- brown/dark - <ruby>[褐](/words/褐.md)<rt>ㄏㄚㄊ</rt></ruby>
 	- light - <ruby>[柔軟](/words/柔軟.md)<rt>ㄋ⼜ㄋㄧㄋ</rt></ruby>
 ### Opposites
-* beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby>- ugly - <ruby>[[醜悪]]<rt>ㄑㄨ·ㄚㄎ</rt></ruby>
+* beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> , ugly - <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby>
 * fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>
 * first - <ruby>[[第一]]<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
-* smart - <ruby>[[聡明]]<rt>congmyeng</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
-* real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake <ruby>不真<rt>botjin</rt></ruby> (<ruby>[[贋]]<rt>ㄚㄋ</rt></ruby>)
-* upper - [[上]]- , lower - [[下]]-
-* expensive - <ruby>[[貴重]]<rt>guicong</rt></ruby> , cheap - <ruby>[[../words/便]]<rt>ㄅ⼶ㄋ</rt></ruby>
-* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄇ</rt></ruby>
+* smart - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
+* real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake - <ruby>[[贋]]<rt>ㄚㄋ</rt></ruby> *(also used compositionally as 不真 "not-real," bod+jin — not yet a formal word)*
+* upper - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> , lower - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
+* expensive - <ruby>[[貴重]]<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby> , cheap - <ruby>[[../words/便|便]]<rt>ㄅ⼶ㄋ</rt></ruby>
+* sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby>
 * strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
-* different - <ruby>[[異常]]<rt>'isyang</rt></ruby> , same - <ruby>[[同一]]<rt>dong'it</rt></ruby>
-- Swadesh forgot : young - <ruby>[[幼稚]]<rt>'yuodiǝ</rt></ruby>, hot - <ruby>[[熱]]<rt>net</rt></ruby>, clean - <ruby>[[清潔]]<rt>cingget</rt></ruby> , wrong - <ruby>[[弊]]<rt>pei</rt></ruby> , rough - <ruby>[[苦渋]]<rt>kosip</rt></ruby> , crooked ... [[../words/弯曲]]
-- Emotions : glad - <ruby>[[高興]]<rt>gauhing</rt></ruby>, happy - <ruby>[[歓喜]]<rt>hwanhi</rt></ruby>, sad - <ruby>[[哀傷]]<rt>'aisyang</rt></ruby>, tired - <ruby>[[疲労]]<rt>pilau</rt></ruby> , angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> , crazy - <ruby>[[風狂]]<rt>punggwang</rt></ruby>
-- Character : careful, lucky, smart, wise, foolish, healthy, sick
-- Value : important, interesting, boring, wonderful, strange
-- Abstractions : funny, easy, difficult, alone, free, normal, special, probable, secret
+* different - <ruby>[[不同]]<rt>ㄅㄛㄊㄉㄛㄫ</rt></ruby> , same - <ruby>[[同一]]<rt>ㄉㄛㄫㄧㄊ</rt></ruby>
+- Swadesh forgot :
+	- young - <ruby>[[幼稚]]<rt>⼜ㄛㄉㄧㄜ</rt></ruby>
+	- hot - <ruby>[[熱]]<rt>ㄋ⼶ㄊ</rt></ruby>
+	- clean - <ruby>[[清潔]]<rt>ㄑㄧㄫㄍㄝㄊ</rt></ruby>
+	- wrong - <ruby>[[弊]]<rt>ㄆㄝㄧ</rt></ruby>
+	- rough - <ruby>[[苦渋]]<rt>ㄎㄛㄙㄧㄆ</rt></ruby>
+	- crooked ... [[../words/弯曲]]
+- Emotions :
+	- glad - <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby>
+	- happy - <ruby>[[歓喜]]<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>
+	- sad - <ruby>[[哀傷]]<rt>ㄚㄧㄙ⼘ㄫ</rt></ruby>
+	- tired - <ruby>[[疲労]]<rt>ㄆㄧㄌㄚㄨ</rt></ruby>
+	- angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby>
+	- crazy - <ruby>[[風狂]]<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby>
+- Character :
+	- careful *(needs a word)*
+	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>
+	- smart
+	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
+	- foolish
+	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
+	- sick
+- Value :
+	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
+	- interesting *(needs a word)*
+	- boring
+	- wonderful
+	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
+- Abstractions :
+	- funny
+	- easy - <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby>
+	- difficult - <ruby>[[困難]]<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>
+	- alone
+	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
+	- normal
+	- special
+	- probable
+	- secret
 
 ## Nouns
 - Natural substances
@@ -46,9 +79,9 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, 
 	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 - Territory : 
-	- nature, 
+	- nature - <ruby>[[自然]]<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>, 
 	- world - <ruby>[[世界]]<rt>ㄙㄝㄍ⼶</rt></ruby>, 
-	- land
+	- land - <ruby>[[土地]]<rt>ㄊㄛㄉㄧㄜ</rt></ruby>
 - Time: 
 	- week - <ruby>[[週日]]<rt>ㄐㄨㄛㄋㄧㄊ</rt></ruby>, 
 	- month - <ruby>[月](words/月.md)<rt>⼔ㄊ</rt></ruby>, 
@@ -63,9 +96,9 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- fall - <ruby>[[秋]]<rt>ㄑㄨㄛ</rt></ruby>, 
 	- winter - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby>
 - Geographical : 
-	- hill, 
-	- farm, 
-	- field, 
+	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby>, 
+	- farm *(needs a word)*, 
+	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ⼘</rt></ruby>, 
 	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
 - Body Parts : 
 	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>, 
@@ -85,64 +118,342 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧㄜㄐㄧ</rt></ruby>
 	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>
 	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>
-- Plants : grain, bread, branch
-- People : girl, boy, girlfriend, boyfriend, friend, baby
-- Family : family, sister, brother, son, daughter
-- Hierarchy : king, boss, leader, servant
-- Religion : god, devil, temple, holy, evil, soul, sin
-- Settlement : city, street, tavern
-- Houses : house, room, wall, window, door
-- Furniture : table, chair, bed, corner
-- School : school, university, class, lesson, teacher, test
-- Dining : food, lunch, dinner, wine, milk
-- Clothing : clothes, pants, dress, shoe, hat
-- Technology : machine, tool, boat, clock, key, net, wagon, wheel, wire
-- Containers : box, bag, bottle, cup, plate, knife
-- Avocations : music, art, science, vacation, picture, game
-- Language : language- word, book, pen, paper, page
-- Abstract : idea, message, story, symbol, example
-- Analysis : system , list, event, reason, fact, space, time, map
-- Money : money, price, worth, debt, shop
-- Respect : honor, shame
-- Politics : war, peace, sword, government, law, council, tax, prison, minister
+- Plants :
+	- grain - <ruby>[[穀物]]<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>
+	- bread - <ruby>[[麺包]]<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>
+	- branch
+- People :
+	- girl - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby>
+	- boy - <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>
+	- girlfriend *(needs a word)*
+	- boyfriend *(needs a word)*
+	- friend - <ruby>[[朋友]]<rt>ㄅㄨㄫ⼜ㄛ</rt></ruby>
+	- baby - <ruby>[[嬰児]]<rt>ㄧㄫㄝㄧ</rt></ruby>
+- Family :
+	- family - <ruby>[[家族]]<rt>ㄍㄚㄐㄛㄎ</rt></ruby>
+	- sister *(only age-marked terms exist: [[姉]] "elder sister" / 妹 "younger sister" — no unmarked "sister")*
+	- brother *(same gap: [[兄 (char)|兄]] "elder brother" / [[弟 (char)|弟]] "younger brother", and [[兄弟]] only covers the plural "brothers" — no unmarked singular "brother")*
+	- son - <ruby>[[児子]]<rt>ㄝㄧㄐㄜ</rt></ruby>
+	- daughter - <ruby>[[女児]]<rt>ㄋㄜㄝㄧ</rt></ruby>
+- Hierarchy :
+	- king - <ruby>[[王]]<rt>⺢ㄫ</rt></ruby>
+	- boss *(needs a word)*
+	- leader - <ruby>[[首長]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>
+	- servant - <ruby>[[侍者]]<rt>ㄙㄧㄑㄚ</rt></ruby>
+- Religion :
+	- god - <ruby>[[上帝]]<rt>ㄙ⼘ㄫㄊㄝㄧ</rt></ruby>
+	- devil - <ruby>[[悪魔]]<rt>ㄚㄎㄇㄚ</rt></ruby>
+	- temple - <ruby>[[寺院]]<rt>ㄙㄚ⼔ㄋ</rt></ruby>
+	- holy - <ruby>[[神聖]]<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>
+	- evil - <ruby>[[悪]]<rt>ㄚㄎ</rt></ruby>
+	- soul - <ruby>[[魂]]<rt>ㄏㄛㄋ</rt></ruby>
+	- sin - <ruby>[[罪]]<rt>ㄐㄛㄧ</rt></ruby>
+- Settlement :
+	- city - <ruby>[[都市]]<rt>ㄉㄛㄙㄧ</rt></ruby>
+	- street - <ruby>[[街道]]<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>
+	- tavern *(needs a word)*
+- Houses :
+	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby>
+	- room - <ruby>[[房]]<rt>ㄅㄚㄫ</rt></ruby>
+	- wall - <ruby>[[壁]]<rt>ㄅㄝㄎ</rt></ruby>
+	- window - <ruby>[[窓口]]<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby>
+	- door - <ruby>[[門戸]]<rt>ㄇㄛㄋㄏㄛ</rt></ruby>
+- Furniture :
+	- table - <ruby>[[桌]]<rt>ㄊㄚㄎ</rt></ruby>
+	- chair - <ruby>[[椅子]]<rt>ㄜㄧㄐㄜ</rt></ruby>
+	- bed - <ruby>[[床]]<rt>ㄙ⼘ㄇ</rt></ruby>
+	- corner - <ruby>[[隅]]<rt>ㄨㄛ</rt></ruby>
+- School :
+	- school - <ruby>[[学校]]<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
+	- university - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
+	- class *(needs a word — [[等級]] "grade, ranking" is a false friend, not a school class)*
+	- lesson
+	- teacher - <ruby>[[教師]]<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>
+	- test - <ruby>[[試験]]<rt>ㄙㄧ·ㄝㄇ</rt></ruby>
+- Dining :
+	- food - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>
+	- lunch
+	- dinner
+	- wine *(needs a word — closest is [[醇酒]] "fine wine," but no plain "wine"; 葡萄酒 could be built from existing [[葡]]/[[萄]]/[[酒]] characters)*
+	- milk
+- Clothing :
+	- clothes
+	- pants
+	- dress
+	- shoe
+	- hat
+- Technology :
+	- machine
+	- tool
+	- boat
+	- clock
+	- key
+	- net
+	- wagon
+	- wheel
+	- wire
+- Containers :
+	- box
+	- bag
+	- bottle
+	- cup
+	- plate
+	- knife
+- Avocations :
+	- music
+	- art
+	- science
+	- vacation
+	- picture
+	- game
+- Language :
+	- word
+	- book
+	- pen
+	- paper
+	- page
+- Abstract :
+	- idea
+	- message
+	- story
+	- symbol
+	- example
+- Analysis :
+	- system
+	- list
+	- event
+	- reason
+	- fact
+	- space
+	- time
+	- map
+- Money :
+	- money - <ruby>[[金銭]]<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>
+	- price
+	- worth
+	- debt
+	- shop
+- Respect :
+	- honor
+	- shame
+- Politics :
+	- war - <ruby>[[戦争]]<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>
+	- peace
+	- sword
+	- government - <ruby>[[政府]]<rt>ㄐㄧㄫㄆㄨ</rt></ruby>
+	- law - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
+	- council
+	- tax
+	- prison
+	- minister
 
 ## Verbs
-- Life and Death : be seem born
-- Everyday : work, wake, dream, cook, use, grow
-- Writing : write, read, translate, create, study, learn, copy
-- Affection : love, hate, like, care, want, wish, marry
-- Knowledge : understand, believe, doubt, expect, remember, forget
-- Emotions : hope, worry, regret, surprise
-- Modals : can, must, should
-- Aspect : begin, finish, intend to do, habitually do
-- Abstractions : cause, mean, measure, place
-- Shapes : square, circle, line, edge, side
-: Perceptions : touch, taste
-- Speech Acts : answer, ask, thank, greet, lie, joke, call, offer, choose
-- Movements : leave, go, follow, hide, run, roll
-- Bodily : dance, kiss, smile, cry, point
-- Conflict : annoy, hurt, crime, destroy, trick
-- Society : allow, meet, help
-- Manipulations : put, take, have, build, fold, add
-- Acquisitions : buy, sell, need, get, lose, search, find, trade, keep
-- Containers : open, close, cover
+- Life and Death :
+	- be
+	- seem
+	- born
+- Everyday :
+	- work - <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>
+	- wake
+	- dream - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby>
+	- cook - <ruby>[[炊]]<rt>ㄑㄨㄧ</rt></ruby>
+	- use - <ruby>[[使用]]<rt>ㄙㄧ·⼄ㄫ</rt></ruby>
+	- grow - <ruby>[[栽培]]<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>
+- Writing :
+	- write
+	- read - <ruby>[[読書]]<rt>ㄉㄛㄎㄙ⼄</rt></ruby>
+	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ⼶ㄎ</rt></ruby>
+	- create - <ruby>[[創造]]<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>
+	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄧㄆ</rt></ruby>
+	- learn
+	- copy *(needs a word — [[稿]] means "manuscript, draft," not "copy" of something)*
+- Affection :
+	- love - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby>
+	- hate - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby>
+	- like - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby>
+	- care
+	- want - <ruby>[[願意]]<rt>⼔ㄋㄜ</rt></ruby>
+	- wish
+	- marry - <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>
+- Knowledge :
+	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
+	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>
+	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby>
+	- expect
+	- remember - <ruby>[[記憶]]<rt>ㄍㄧ·ㄧㄎ</rt></ruby>
+	- forget - <ruby>[[忘却]]<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>
+- Emotions :
+	- hope - <ruby>[[希望]]<rt>ㄏㄧㄜㄇㄚㄫ</rt></ruby>
+	- worry - <ruby>[[憂慮]]<rt>⼜ㄌ⼄</rt></ruby>
+	- regret - <ruby>[[後悔]]<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>
+	- surprise
+- Modals :
+	- can - <ruby>[[可]]<rt>ㄎㄜ</rt></ruby>
+	- must
+	- should - <ruby>[[該]]<rt>ㄍㄛㄧ</rt></ruby>
+- Aspect :
+	- begin - <ruby>[[開始]]<rt>ㄎㄚㄧㄙㄧ</rt></ruby>
+	- finish - <ruby>[[完成]]<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>
+	- intend to do
+	- habitually do
+- Abstractions :
+	- cause
+	- mean
+	- measure
+	- place
+- Shapes :
+	- square
+	- circle
+	- line
+	- edge
+	- side
+- Perceptions :
+	- touch
+	- taste
+- Speech Acts :
+	- answer
+	- ask
+	- thank
+	- greet
+	- lie
+	- joke
+	- call
+	- offer
+	- choose
+- Movements :
+	- leave
+	- go - <ruby>[[去]]<rt>ㄎ⼄</rt></ruby>
+	- follow
+	- hide
+	- run
+	- roll
+- Bodily :
+	- dance
+	- kiss
+	- smile
+	- cry
+	- point
+- Conflict :
+	- annoy
+	- hurt
+	- crime
+	- destroy
+	- trick
+- Society :
+	- allow
+	- meet - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby>
+	- help - <ruby>[[幇助]]<rt>ㄅㄚㄫㄐㄛ</rt></ruby>
+- Manipulations :
+	- put
+	- take
+	- have - <ruby>[[有]]<rt>⼜</rt></ruby>
+	- build
+	- fold
+	- add
+- Acquisitions :
+	- buy - <ruby>[[購買]]<rt>ㄍㄛㄨㄇㄚㄧ</rt></ruby>
+	- sell
+	- need
+	- get
+	- lose
+	- search
+	- find
+	- trade
+	- keep
+- Containers :
+	- open
+	- close
+	- cover
+
 ## Grammar
-- Conjunctions : but, or, though, until
-- Prepositions : toward, for, without, against, on, about behind across over under
-- Adverbs : perhaps, indeed, thus
-- Time : now, then, again, next
-- Degree : very - <ruby>[[頗]]<rt>pa</rt></ruby>, too, enough
+- Conjunctions :
+	- but - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby>
+	- or - <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby>
+	- though
+	- until - <ruby>[[至]]<rt>ㄐㄧㄜ</rt></ruby>
+- Prepositions :
+	- toward - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby>
+	- for
+	- without
+	- against
+	- on
+	- about
+	- behind - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>
+	- across - <ruby>[[亙]]<rt>ㄍㄨㄫ</rt></ruby>
+	- over - <ruby>[[了]]<rt>ㄌ⼘ㄨ</rt></ruby>
+	- under - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
+- Adverbs :
+	- perhaps
+	- indeed
+	- thus
+- Time :
+	- now - <ruby>[[現在]]<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>
+	- then - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>
+	- again
+	- next
+- Degree :
+	- very - <ruby>[[頗]]<rt>fa</rt></ruby>
+	- too - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby>
+	- enough - <ruby>[[充分]]<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>
+
 ## Courtesy
-please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bet</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnit'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>buo</rt></ruby>
+please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bed</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnid'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>fau</rt></ruby>
+
 ## Modern
-- Air : airport - <ruby>[[空港]]<rt>konghong</rt></ruby>, airplane - <ruby>[[../words/飛行机]]<rt>pihanggiǝ</rt></ruby>
-- Cars : car - <ruby>[[車 (char)]]<rt>ca</rt></ruby>, bus - '''basü''', license, gas station, motor, taxi, truck, gasoline - <ruby>[[汽油]]<rt>kiǝ'yuo</rt></ruby>
-- Other : bicycle, railroad, train station, subway, spaceship - <ruby>[[宇宙船]]<rt>'ujuojwen</rt></ruby>
-- Computer : computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>, disk, chip, CPU
-- Accessories : DVD, hard drive, keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>, mouse - <ruby>[[滑鼠]]<rt>gotsyo</rt></ruby>, monitor
-- Programs : program, game, word processor, compiler
-- Internet : internet, email, web, website, download, browser, blog, post, flame, lurker, newb, chat
-- Disciplines : physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>, chemistry - <ruby>[[化学]]<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>, biology - <ruby>[[生物学]]<rt>sangmuthak</rt></ruby>, electricity, magnetism, mathematics - <ruby>[[数学]]<rt>suhak</rt></ruby>
+- Air :
+	- airport - <ruby>[[空港]]<rt>konghong</rt></ruby>
+	- airplane - <ruby>[[../words/飛行机]]<rt>pihanggiǝ</rt></ruby>
+- Cars :
+	- car - <ruby>[[車 (char)]]<rt>cwa</rt></ruby>
+	- bus - '''basü'''
+	- license
+	- gas station
+	- motor
+	- taxi
+	- truck
+	- gasoline - <ruby>[[汽油]]<rt>kiǝ'yu</rt></ruby>
+- Other :
+	- bicycle
+	- railroad
+	- train station
+	- subway
+	- spaceship - <ruby>[[宇宙船]]<rt>'ujuojwen</rt></ruby>
+- Computer :
+	- computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>
+	- disk
+	- chip
+	- CPU
+- Accessories :
+	- DVD
+	- hard drive
+	- keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>
+	- mouse - <ruby>[[滑鼠]]<rt>hwadsyo</rt></ruby>
+	- monitor
+- Programs :
+	- program
+	- game
+	- word processor
+	- compiler
+- Internet :
+	- internet
+	- email
+	- web
+	- website
+	- download
+	- browser
+	- blog
+	- post
+	- flame
+	- lurker
+	- newb
+	- chat
+- Disciplines :
+	- physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>
+	- chemistry - <ruby>[[化学]]<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>
+	- biology - <ruby>[[生物学]]<rt>sangmudhag</rt></ruby>
+	- electricity
+	- magnetism
+	- mathematics - <ruby>[[数学]]<rt>suhag</rt></ruby>
 - Physics
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
@@ -157,64 +468,304 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- cell - <ruby>[[細胞]]<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>,
 	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏ⺢</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
 	- gene
-- Substance : plastic
-- Appliance : stove, sink, dishwasher, refrigerator, washer, dryer, furnace, AC
-- Film : camera, film, photo, movie/video, animation, theater
-- Recording : CD, record, tape, stereo
-- Weaponry : gun, rifle, tank, infantry, cavalry, artillery, bomb
-- Office : copier, typewriter, scanner
-- Media : newspaper, magazine, telephone, television, radio, comic
-- Other : elevator, laser, light bulb, watch
-- Measures : pound, foot, mile, ounce, cup, gram, kg, meter, km, ml, l
-- Lifestyle : lifestyle, ATM, suburb
-- Jobs : secretary, babysitter, bureaucrat, manager
-- Education : college, degree, masters, Ph.D
-- Economy : economy, banknote, credit card, dollar, euro, expenses, income, inflation, standard of living, unemployed, union, welfare, yen, yuan, won, taxes
-- Avocations : chess, rock, soccer, cigarette, drugs
+- Substance :
+	- plastic
+- Appliance :
+	- stove
+	- sink
+	- dishwasher
+	- refrigerator
+	- washer
+	- dryer
+	- furnace
+	- AC
+- Film :
+	- camera
+	- film
+	- photo
+	- movie/video
+	- animation
+	- theater
+- Recording :
+	- CD
+	- record
+	- tape
+	- stereo
+- Weaponry :
+	- gun
+	- rifle
+	- tank
+	- infantry
+	- cavalry
+	- artillery
+	- bomb
+- Office :
+	- copier
+	- typewriter
+	- scanner
+- Media :
+	- newspaper
+	- magazine
+	- telephone
+	- television
+	- radio
+	- comic
+- Other :
+	- elevator
+	- laser
+	- light bulb
+	- watch
+- Measures :
+	- pound
+	- foot
+	- mile
+	- ounce
+	- cup
+	- gram
+	- kg
+	- meter
+	- km
+	- ml
+	- l
+- Lifestyle :
+	- lifestyle
+	- ATM
+	- suburb
+- Jobs :
+	- secretary
+	- babysitter
+	- bureaucrat
+	- manager
+- Education :
+	- college
+	- degree
+	- masters
+	- Ph.D
+- Economy :
+	- economy
+	- banknote
+	- credit card
+	- dollar
+	- euro
+	- expenses
+	- income
+	- inflation
+	- standard of living
+	- unemployed
+	- union
+	- welfare
+	- yen
+	- yuan
+	- won
+	- taxes
+- Avocations :
+	- chess
+	- rock
+	- soccer
+	- cigarette
+	- drugs
 - Clothing :
 	- bikini - '''biǝginiǝ''', [[比]][[基]][[尼]]
-	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>,
-	- jeans,
-	- T-shirt,
+	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>
+	- jeans
+	- T-shirt
 	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>
-- Health : AIDS/HIV, allergy, addict, antibiotics, bacteria, vaccine, virus, vitamin 
-- Food : candy, hamburger, hot dog, pizza, sushi, taco, tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>, tomato
-- Belief : communism, socialism, fascism, republic, democracy, Green, human rights, liberal, conservative
-- Position : president, prime minister, representative, parliament, council, dictator, party
-- Religions : Islam, Judaism, Christianity, Hinduism, Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
+- Health :
+	- AIDS/HIV
+	- allergy
+	- addict
+	- antibiotics
+	- bacteria
+	- vaccine
+	- virus
+	- vitamin
+- Food :
+	- candy
+	- hamburger
+	- hot dog
+	- pizza
+	- sushi
+	- taco
+	- tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>
+	- tomato
+- Belief :
+	- communism
+	- socialism
+	- fascism
+	- republic
+	- democracy
+	- Green
+	- human rights
+	- liberal
+	- conservative
+- Position :
+	- president
+	- prime minister
+	- representative
+	- parliament
+	- council
+	- dictator
+	- party
+- Religions :
+	- Islam
+	- Judaism
+	- Christianity
+	- Hinduism
+	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
 
 ## Place Names
 _These are for place names, not the words themselves_
 
 ### Geography
-- Plains : plain, savannah, meadow, field, prairie
-- Forest : forest/woods - [[森]], grove/copse - [[林 ]]
-- Hills: hill, down, mountain [[山 (char)]], range, plateau, crest, peak
-- Valley : valley, canyon, cliff
-- Harsh : marsh, swamp, desert, wilderness, jungle
-- Rivers : river -[[川]] , stream - [[河]], brook - [[江]], channel, rapids, portage, source, confluence, delta, bank, waterfall, spring
-- Lake : lake - [[湖]], pond - [[池]]
-- Sea : sea - [[海洋]], ocean - [[洋]], bay - [[湾]], strait - [[../words/海峡]]
-- Coastline : coast, beach, peninsula - [[半島]], cape, point
-- Island : island - [[島]], archipelago - [[列島]] & [[群島]], atoll - [[環礁]]
-- Local : rock - [[石]], tree - [[words/木]], bridge, ford, dam - [[堰堤]] , park, oasis
-- Tree : aspen, birch, cedar, elm, oak, palm, pine, willow
+- Plains :
+	- plain
+	- savannah
+	- meadow
+	- field
+	- prairie
+- Forest :
+	- forest/woods - [[森]]
+	- grove/copse - [[林 ]]
+- Hills:
+	- hill
+	- down
+	- mountain - [[山 (char)]]
+	- range
+	- plateau
+	- crest
+	- peak
+- Valley :
+	- valley
+	- canyon
+	- cliff
+- Harsh :
+	- marsh
+	- swamp
+	- desert
+	- wilderness
+	- jungle
+- Rivers :
+	- river - [[川]]
+	- stream - [[河]]
+	- brook - [[江]]
+	- channel
+	- rapids
+	- portage
+	- source
+	- confluence
+	- delta
+	- bank
+	- waterfall
+	- spring
+- Lake :
+	- lake - [[湖]]
+	- pond - [[池]]
+- Sea :
+	- sea - [[海洋]]
+	- ocean - [[洋]]
+	- bay - [[湾]]
+	- strait - [[../words/海峡]]
+- Coastline :
+	- coast
+	- beach
+	- peninsula - [[半島]]
+	- cape
+	- point
+- Island :
+	- island - [[島]]
+	- archipelago - [[列島]] & [[群島]]
+	- atoll - [[環礁]]
+- Local :
+	- rock - [[石]]
+	- tree - [[words/木]]
+	- bridge
+	- ford
+	- dam - [[堰堤]]
+	- park
+	- oasis
+- Tree :
+	- aspen
+	- birch
+	- cedar
+	- elm
+	- oak
+	- palm
+	- pine
+	- willow
 ### Human
-- Settlements : city - [[市]], town, village, colony, port, market - [[場]], capital - [[京]]
-- Military : fort, castle, wall, camp
-- Religion : shrine, oracle, temple - [[寺]], church, chapel, monastery - [[院]]
-- Other : mine, inn, stopping-point, post, lodge, mill, house
-- Road : road, highway, trail, way
+- Settlements :
+	- city - [[市]]
+	- town
+	- village
+	- colony
+	- port
+	- market - [[場]]
+	- capital - [[京]]
+- Military :
+	- fort
+	- castle
+	- wall
+	- camp
+- Religion :
+	- shrine
+	- oracle
+	- temple - [[寺]]
+	- church
+	- chapel
+	- monastery - [[院]]
+- Other :
+	- mine
+	- inn
+	- stopping-point
+	- post
+	- lodge
+	- mill
+	- house
+- Road :
+	- road
+	- highway
+	- trail
+	- way
 ### Adjectives
-- Age: new - [[新]], old - [[古]]
-- Shapes : round, flat, wide, narrow
-- Locations : central - [[中]], upper/high - [[上]], lower/low - [[下]], near, far
-- Directions : north - [[北]], south - [[南]], east - [[東]], west - [[西]]
-- Respect : great/grand - [[太 (char)]], glorious, noble - [[貴]], holy - [[聖]], royal - [[帝]]
-- Salesmanship : fertile, beautiful, lucky, pleasant, quiet, gold - [[words/金]], silver - [[words/銀]], jewel
-- Descriptive : windy, stinky
+- Age:
+	- new - [[新]]
+	- old - [[古]]
+- Shapes :
+	- round
+	- flat
+	- wide
+	- narrow
+- Locations :
+	- central - [[中]]
+	- upper/high - [[上]]
+	- lower/low - [[下]]
+	- near
+	- far
+- Directions :
+	- north - [[北]]
+	- south - [[南]]
+	- east - [[東]]
+	- west - [[西]]
+- Respect :
+	- great/grand - [[太 (char)]]
+	- glorious
+	- noble - [[貴]]
+	- holy - [[聖]]
+	- royal - [[帝]]
+- Salesmanship :
+	- fertile
+	- beautiful
+	- lucky
+	- pleasant
+	- quiet
+	- gold - [[words/金]]
+	- silver - [[words/銀]]
+	- jewel
+- Descriptive :
+	- windy
+	- stinky
 - Color : 
-	- white - 
+	- white
 	- black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
 	- green
 	- yellow - [[../words/黄]]
@@ -222,5 +773,22 @@ _These are for place names, not the words themselves_
 	- red
 	- orange
 	- brown
-- Water : fast, slow, clear, muddy, noisy, laughing, reedy
-- Animals : horse - [[馬]], ox - [[牛]], lion - [[獅]], fox - [[狐]], deer - [[鹿]], panther - [[虎]], hawk - [[../words/鷹]], eagle - [[../words/鵰]], dragon - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby>, ram - [[綿羊]]
+- Water :
+	- fast
+	- slow
+	- clear
+	- muddy
+	- noisy
+	- laughing
+	- reedy
+- Animals :
+	- horse - [[馬]]
+	- ox - [[牛]]
+	- lion - [[獅]]
+	- fox - [[狐]]
+	- deer - [[鹿]]
+	- panther - [[虎]]
+	- hawk - [[../words/鷹]]
+	- eagle - [[../words/鵰]]
+	- dragon - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby>
+	- ram - [[綿羊]]
