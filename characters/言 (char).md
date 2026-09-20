@@ -71,6 +71,7 @@ boundedness: 80
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
 - <ruby>[[文言継承]]<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> "continuity with the classical written standard"
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"
+- <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
 
 ## Derived Characters
 - <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> "meet"

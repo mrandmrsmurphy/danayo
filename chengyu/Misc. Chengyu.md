@@ -108,7 +108,7 @@ tags:
 - <ruby>[欲求不満](chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety, sexual frustrated
 - <ruby>[沈魚落雁](chengyu/沈魚落雁.md)<rt>ㄑㄧㄇ⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> - so beautiful that fish sink and geese descend
 - <ruby>[波乱万丈](chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> - full of dramatic ups and downs; turbulent and eventful
-- <ruby>[流言飛語](chengyu/流言飛語.md)<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> - rumors are flying
+- <ruby>[流言飛語](chengyu/流言飛語.md)<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> - baseless rumors, gossip spreading unchecked
 - <ruby>[海闊天空](chengyu/海闊天空.md)<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> - As boundless as the sky and sea
 - <ruby>[涅盤寂静](chengyu/涅盤寂静.md)<rt>ㄋㄝㄊㄅㄚㄋㄐㄝㄎㄐㄝㄫ</rt></ruby> - nirvana is peace
 - <ruby>[混然一体](chengyu/混然一体.md)<rt>ㄏㄛㄋㄋ⼶ㄋ·ㄧㄊㄊㄝㄧ</rt></ruby> - monad, utterly unified

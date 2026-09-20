@@ -7,8 +7,8 @@ japanese:
   - HI
 japanese_native: ø
 vietnamese:
-  - bay
   - phi
+  - bay
 middle_chinese_initial: f
 middle_chinese_final: "ʉi"
 stroke_count: 9
@@ -62,4 +62,4 @@ boundedness: 65
 - <ruby>[[飛語]]<rt>ㄆㄧ·⼄</rt></ruby> "baseless rumor, false gossip"
 
 ## Chengyu
-- <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "rumors are flying"
+- <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
