@@ -54,8 +54,8 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- sick(ness) - <ruby>[[疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> *("disease," — see [[生病]] for the verb "to get sick")*
 - Value :
 	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
-	- interesting *(needs a word)*
-	- boring *(needs a word)*
+	- interesting - <ruby>[[有趣]]<rt>⼜ㄑㄨ</rt></ruby> *(Mandarin/Cantonese only, not pan-CJKV)*
+	- boring - <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> *(pan-CJKV; cp. [[支離]], whose primary sense is "fragmented, disjointed" but which independently narrowed to "boring" in Korean 지루하다)*
 	- wonderful *(needs a word)*
 	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 - Abstractions :
@@ -269,7 +269,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- love - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby>
 	- hate - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby>
 	- like - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby>
-	- care *(needs a word)*
+	- care - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby>
 	- want - <ruby>[[願意]]<rt>⼔ㄋㄜ</rt></ruby>
 	- wish *(needs a word distinct from [[願意]]/[[希望]])*
 	- marry - <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>

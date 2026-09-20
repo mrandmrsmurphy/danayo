@@ -49,3 +49,4 @@ date-last-perfect: 2026-08-12
 
 ## Words
 - <ruby>[[聊]]<rt>ㄌ⼘ㄨ</rt></ruby> "chat" (stand-in for 聊)
+- <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> "boring, bored, tedious, dull"
