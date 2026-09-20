@@ -77,7 +77,7 @@ language: English
 - bald - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>
 - shave - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>
 
-- eyelash
+- eyelash - <ruby>[睫毛](../words/睫毛.md)<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby>
 
 ## Animals
 - claw - <ruby>[爪](../words/爪.md)<rt>ㄐ⺢ㄨ</rt></ruby>

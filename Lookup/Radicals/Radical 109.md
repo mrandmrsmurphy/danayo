@@ -42,23 +42,23 @@ tags:
 17. <ruby>[睡](../../characters/睡.md)<rt>ㄙㄨㄧ</rt></ruby> - drowse
 18. <ruby>[督](../../characters/督.md)<rt>ㄉㄛㄎ</rt></ruby> - oversee
 19. <ruby>[睦](../../characters/睦.md)<rt>ㄇㄨㄎ</rt></ruby> - friendly
-19a. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
+20. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
 
 ### +9 Strokes
-20. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
-21. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal, dupe
+21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
+22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal, dupe
 
 ### +12 Strokes
-22. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
-23. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink
-24. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
-25. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
+23. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
+24. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink
+25. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
+26. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
 
-26. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
+27. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
 
 ### +13 Strokes
-27. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
-28. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
+28. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
+29. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
 
 ## Data check
 ```dataview

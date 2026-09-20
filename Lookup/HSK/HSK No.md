@@ -982,6 +982,7 @@ tags: [lookup]
 [[甕]]
 [[誅]]
 [[謁 (char)]]
+[[睫]]
 
 ## Datacheck
 ```base

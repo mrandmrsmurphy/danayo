@@ -7,9 +7,9 @@ japanese:
   - GYUU
 japanese_native: うし
 vietnamese:
+  - ngưu
   - ngâu
   - ngõ
-  - ngưu
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨu
 stroke_count: 4

@@ -52,6 +52,7 @@ boundedness: 100
 - <ruby>[[毛蝦]]<rt>ㄇㄚㄨㄏㄚ</rt></ruby> "shrimp"
 - <ruby>[[羊毛]]<rt>⼘ㄫㄇㄚㄨ</rt></ruby> "wool; fleece"
 - <ruby>[[羽毛]]<rt>ㄨㄇㄚㄨ</rt></ruby> "feathers; plumage"
+- <ruby>[[睫毛]]<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby> "eyelash"
 ## Derived Characters
 - <ruby>[[芼]]<rt>ㄇㄚㄨ</rt></ruby> "cook"
 - <ruby>[[耗]]<rt>ㄏㄚㄨ</rt></ruby> "deplete, waste"

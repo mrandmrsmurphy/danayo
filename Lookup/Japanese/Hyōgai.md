@@ -634,6 +634,7 @@ tags: [lookup]
 630. [粤](../../characters/粤.md)
 631. [懍](../../characters/懍.md)
 632. [鑫](../../characters/鑫.md)
+633. [睫](../../characters/睫.md)
 
 
 [[../../characters/吠]] - barking DO IT
