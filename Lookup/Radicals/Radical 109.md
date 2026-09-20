@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 28
+size: 29
 radical: 目
 tags:
   - lookup
@@ -42,6 +42,7 @@ tags:
 17. <ruby>[睡](../../characters/睡.md)<rt>ㄙㄨㄧ</rt></ruby> - drowse
 18. <ruby>[督](../../characters/督.md)<rt>ㄉㄛㄎ</rt></ruby> - oversee
 19. <ruby>[睦](../../characters/睦.md)<rt>ㄇㄨㄎ</rt></ruby> - friendly
+19a. <ruby>[睫](../../characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> - eyelash
 
 ### +9 Strokes
 20. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle

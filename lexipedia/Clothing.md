@@ -2,7 +2,7 @@
 language: English
 ---
 
-- belt
+- belt - <ruby>[腰帯](../words/腰帯.md)<rt>⼄ㄨㄊㄚㄧ</rt></ruby>
 - boot
 - cloak
 - cloth - <ruby>[布帛](../words/布帛.md)<rt>ㄅㄛㄅㄚㄎ</rt></ruby>

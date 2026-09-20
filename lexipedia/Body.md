@@ -73,11 +73,10 @@ language: English
 - tongue - <ruby>[舌](../words/舌.md)<rt>ㄙㄝㄊ</rt></ruby>
 - tooth - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>
 - jaw/chin - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚ·ㄚㄎ</rt></ruby>
-- beard - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨㄋㄛㄇ</rt></ruby>
+- beard/moustache - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨㄋㄛㄇ</rt></ruby> (a single word spans both; Korean 수염, its everyday native gloss, does the same)
 - bald - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>
 - shave - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>
 
-- moustache
 - eyelash
 
 ## Animals

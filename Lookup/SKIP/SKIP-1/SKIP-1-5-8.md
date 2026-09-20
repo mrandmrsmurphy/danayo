@@ -1,5 +1,5 @@
 ---
-size: 20
+size: 21
 stroke_count: 13
 date-last-perfect: 2026-07-05
 skip_number: 1-5-8
@@ -31,6 +31,7 @@ tags: [lookup]
 18. <ruby>[雉](/characters/雉%20(char).md)<rt>ㄉㄧㄜ</rt></ruby> "green pheasant"
 19. <ruby>[雌](/characters/雌.md)<rt>ㄑㄝ</rt></ruby> "female"
 20. <ruby>[靖](/characters/靖.md)<rt>ㄐㄧㄫ</rt></ruby> "pacify"
+21. <ruby>[睫](/characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> "eyelash"
 
 ### Forbidden
 - 碰
