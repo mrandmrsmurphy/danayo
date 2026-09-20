@@ -102,7 +102,7 @@ tags:
 - <ruby>[未雨紬謬](chengyu/未雨紬謬.md)<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> - plan ahead: “before it rains, bind around with silk”
 - <ruby>[朽木糞牆](chengyu/朽木糞牆.md)<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> - rotten wood and a dung wall
 - <ruby>[李下瓜田](chengyu/李下瓜田.md)<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> - avoid even the appearance of impropriety
-- <ruby>[東奔西走](chengyu/東奔西走.md)<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄐㄛㄨ</rt></ruby> - to run about
+- <ruby>[東奔西走](chengyu/東奔西走.md)<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> - to rush about everywhere, to run around busily from place to place
 - <ruby>[森羅万象](chengyu/森羅万象.md)<rt>ㄙㄨㄇㄌㄛㄇㄛㄋㄙ⼘ㄫ</rt></ruby> - everything that exists
 - <ruby>[欣喜雀躍](chengyu/欣喜雀躍.md)<rt>ㄏㄧㄋㄏㄧㄐㄚㄎ·⼘ㄎ</rt></ruby> - jump for joy
 - <ruby>[欲求不満](chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety, sexual frustrated

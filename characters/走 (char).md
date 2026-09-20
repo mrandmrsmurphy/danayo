@@ -8,8 +8,8 @@ japanese:
   - SHU
 japanese_native: はし
 vietnamese:
-  - rảo
   - tẩu
+  - rảo
 middle_chinese_initial: "t͡s"
 middle_chinese_final: "əu"
 stroke_count: 7
@@ -55,4 +55,4 @@ boundedness: 100
 - <ruby>[[競走]]<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby> "race"
 
 ## Chengyu
-- <ruby>[[東奔西走]]<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄐㄛㄨ</rt></ruby> "to run about"
+- <ruby>[[東奔西走]]<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> "to rush about everywhere, to run around busily from place to place"
