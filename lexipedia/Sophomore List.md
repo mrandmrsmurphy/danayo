@@ -47,11 +47,9 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- angry - <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby>
 	- crazy - <ruby>[[風狂]]<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby>
 - Character :
-	- careful *(needs a word)*
+	- careful - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby>
 	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>
-	- smart *(see [[聡明]] under Opposites above)*
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
-	- foolish *(see [[愚]] under Opposites above)*
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
 	- sick *(needs a word)*
 - Value :
