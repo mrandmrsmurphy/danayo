@@ -3,42 +3,48 @@ language: English
 ---
 
 ### Basics
-Looking up at the night sky (<ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>, or poetically the <ruby>[穹蒼](../words/穹蒼.md)<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby> "blue dome of heaven"), we see an entire "culture", called <ruby>[天文](words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>.  The formal study of these celestial objects is <ruby>[天文学](words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>[占星術](words/占星術.md)<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>[占星](words/占星.md)<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>[宇宙](words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>.  A 'spaceship' is a <ruby>[宇宙船](words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby> and an alien or astronaut is an <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>.
+Looking up at the night sky (<ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>, or poetically the <ruby>[穹蒼](../words/穹蒼.md)<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby> "blue dome of heaven"), we see an entire "culture", called <ruby>[天文](../words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>.  The formal study of these celestial objects is <ruby>[天文学](../words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>.  This is a true modern science, and not the ancient practice of divination, called <ruby>[占星術](../words/占星術.md)<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby>.  (Notice that the first two-characters are the ancient verb "to divine by looking at star signs", <ruby>[占星](../words/占星.md)<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby>.).  The underlying cognitive metaphor is that we are looking up at a house, with "eaves" and "roof beams", which is why the 'universe/cosmos/space-time' is <ruby>[宇宙](../words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>.  A 'spaceship' is a <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby> and an alien or astronaut is an <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>.
 
 ### Solar System
-The basic object in the sky is a "star" <ruby>[星](words/星.md)<rt>ㄙㄝㄫ</rt></ruby>, though this also includes planets and moons.  To match the English "star", you would need to say 'fixed star', i.e. <ruby>[恒星](words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>.  The big ones are the sun - <ruby>[太陽](words/太陽.md)<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> - and moon - <ruby>[太陰](words/太陰.md)<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby>.  Notice the connection to Yin and Yang.  Today, we distinguish planets from stars, so planet is <ruby>[行星](words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>.  We know that our home is in the solar system <ruby>[太陽系](words/太陽系.md)<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby>.  It is made up of
-- Mercury - <ruby>[水星](words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby>
-- Venus - <ruby>[金星](words/金星.md)<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> (ancient people were unaware that this was the same as the Morning Star <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> and the Evening Star <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby>)
-- Earth - <ruby>[地球](words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>
-- Mars - <ruby>[火星](words/火星.md)<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby>
-- Jupiter - <ruby>[木星](words/木星.md)<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby>
-- Saturn - <ruby>[土星](words/土星.md)<rt>ㄊㄛㄙㄝㄫ</rt></ruby> (notice that, skipping the Earth, this order is ''not'' the same as the days of the week)
-- Uranus - <ruby>[天王星](words/天王星.md)<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby>
-- Neptune - <ruby>[海王星](words/海王星.md)<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby>
-- Pluto - <ruby>[冥王星](words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> (now a dwarf planet (<ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>) because of the discovery of Eris <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby>)
+The basic object in the sky is a "star" <ruby>[星](../words/星.md)<rt>ㄙㄝㄫ</rt></ruby>, though this also includes planets and moons.  To match the English "star", you would need to say 'fixed star', i.e. <ruby>[恒星](../words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>.  The big ones are the sun - <ruby>[太陽](../words/太陽.md)<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> - and moon - <ruby>[太陰](../words/太陰.md)<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby>.  Notice the connection to Yin and Yang.  Today, we distinguish planets from stars, so planet is <ruby>[行星](../words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>.  We know that our home is in the solar system <ruby>[太陽系](../words/太陽系.md)<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby>.  It is made up of
+- Mercury - <ruby>[水星](../words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby>
+- Venus - <ruby>[金星](../words/金星.md)<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby> (ancient people were unaware that this was the same as the Morning Star <ruby>[啓明](../words/啓明.md)<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> and the Evening Star <ruby>[太白星](../words/太白星.md)<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby>)
+- Earth - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>
+- Mars - <ruby>[火星](../words/火星.md)<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby>
+- Jupiter - <ruby>[木星](../words/木星.md)<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby>
+- Saturn - <ruby>[土星](../words/土星.md)<rt>ㄊㄛㄙㄝㄫ</rt></ruby> (notice that, skipping the Earth, this order is ''not'' the same as the days of the week)
+- Uranus - <ruby>[天王星](../words/天王星.md)<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby>
+- Neptune - <ruby>[海王星](../words/海王星.md)<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby>
+- Pluto - <ruby>[冥王星](../words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby>, named for <ruby>[冥王](../words/冥王.md)<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby>, the king of the underworld (now a dwarf planet (<ruby>[矮行星](../words/矮行星.md)<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>) because of the discovery of Eris <ruby>[䦧神星](../words/䦧神星.md)<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby>)
 - 
-Between Mars and Jupiter is the Asteroid Belt <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
+Between Mars and Jupiter is the Asteroid Belt <ruby>[小行星帯](../words/小行星帯.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> (which is made out of asteroids <ruby>[小行星](../words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby>), and the region after Neptune is now called the 
 
 Oort Cloud <ruby>汚<rt>ㄛ</rt></ruby><ruby>璃<rt>ㄌㄜ</rt></ruby><ruby>他<rt>ㄊㄜ</rt></ruby><ruby>雲<rt>·ㄨㄋ</rt></ruby>.  
 
-It is believed that most comets (<ruby>[彗星](words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star/meteor' <ruby>[流星](words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>.
+It is believed that most comets (<ruby>[彗星](../words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>) come from there.  If one of these or some object enteres our atmosphere, it burns up and becomes as 'shooting star/meteor' <ruby>[流星](../words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>.
 
-Our entire solar system is orbiting (<ruby>[軌道](words/軌道.md)<rt>ㄍㄨ·ㄉㄚㄨ</rt></ruby>) within a galaxy (<ruby>[恒星系](words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](words/星雲.md)<rt>ㄙㄝㄫ·ㄨㄋ</rt></ruby> and novae <ruby>[[新星]]<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>.
+Our entire solar system is orbiting (<ruby>[軌道](../words/軌道.md)<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby>) within a galaxy (<ruby>[恒星系](../words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>), specifically, the Milky Way <ruby>[銀河系](../words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>.  (This is a bigger word than way we see up the sky, the "silver river" <ruby>[銀河](../words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>.) Looking out, we see nebulae <ruby>[星雲](../words/星雲.md)<rt>ㄙㄝㄫㄨㄋ</rt></ruby> and novae <ruby>[新星](../words/新星.md)<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>.  For millennia, humans have grouped these stars into constellations <ruby>[星坐](../words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>.  They are established, so if you invent your own, it's just an 'asterism' <ruby>[星群](../words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>.
+
+### Notable Stars & Groupings
+- <ruby>[天狼星](../words/天狼星.md)<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> - Sirius, the dog star
+- <ruby>[牛郎星](../words/牛郎星.md)<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> - Altair, the cowherd star (of the [[七夕]] legend)
+- <ruby>[七星](../words/七星.md)<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby> - the Big Dipper, seven stars
+- <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ·⼄ㄨ</rt></ruby> - the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week"
 
 ### Events
-- <ruby>[地平線](words/地平線.md)<rt>ㄉㄧㄜㄅ⼶ㄫㄙ⼶ㄋ</rt></ruby> - horizon 
-- <ruby>[[天頂]]<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> - zenith
-- <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> - nadir
-- <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> - equinox
-- solstice <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> - point, <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> - day
-- <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> winter solstice
-- <ruby>[夏至](/words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
-- <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
-- lunar eclipse = <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
+- <ruby>[地平線](../words/地平線.md)<rt>ㄉㄧㄜㄅ⼶ㄫㄙ⼶ㄋ</rt></ruby> - horizon 
+- <ruby>[天頂](../words/天頂.md)<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby> - zenith
+- <ruby>[天底](../words/天底.md)<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> - nadir
+- <ruby>[分点](../words/分点.md)<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> - equinox
+- solstice <ruby>[至点](../words/至点.md)<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> - point, <ruby>[至日](../words/至日.md)<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> - day
+- <ruby>[冬至](../words/冬至.md)<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> winter solstice
+- <ruby>[夏至](../words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
+- <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
+- lunar eclipse = <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
 - conjunction is a 合; an opposition is a 衝 
 
 ### 六十干支
-<ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> / <ruby>[[地支]]<rt>ㄉㄧㄜㄐㄝ</rt></ruby>
+<ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> / <ruby>[地支](../words/地支.md)<rt>ㄉㄧㄜㄐㄝ</rt></ruby>
 
 | | 木|火|土|金|水|
 |---|---|---|---|---|---|

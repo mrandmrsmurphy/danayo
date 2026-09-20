@@ -10,13 +10,15 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 **2026-09-19, Animals — cleared**: the 10-word Animals bucket (mostly leftovers from earlier Unsorted triage: 企鵝 penguin, 信天翁 albatross, 啄木鳥 woodpecker → Fowl; 丘引 earthworm, 壁虱 tick/mite/bedbug → Insects & Small Creatures; 堅魚 skipjack tuna/bonito → Aquatic Creatures; 倭猩 bonobo → Large Wild Mammals; 倉鼠 hamster → Rodents; 吼 roar/howl → Animal Behavior; 一角獣 unicorn → Mythical Creatures, alongside 吸血鬼/僵死 as another real cross-linguistic calque of a Western figure rather than a native fantasy coinage) all slotted into their existing `lexipedia/Animals.md` sections, backlinked, and cleared. Animals bucket now fully gone.
 
+**2026-09-19, Astronomy — partial pass**: added 7 new words to `lexipedia/Astronomy.md` (七星 Big Dipper, 七曜 the seven classical heavenly bodies, 天狼星 Sirius, 牛郎星 Altair, 穹蒼 firmament, 冥王 the underworld king Pluto is named for, 天空 sky) in a new "Notable Stars & Groupings" subsection plus the Basics section. While verifying, discovered the page's ~50 pre-existing entries (太陽/太陰/宇宙/星/恒星/行星/the eight named planets/彗星/流星/銀河系/etc.) were already correctly forward-linked but had **never gotten their reciprocal backlink** — the same class of bug found on Periodic Table and 基督敎 earlier this session. Fixed all 51, which also cleared 47 of them straight out of the Astronomy bucket plus 4 more that had been sitting under Unsorted (占星術, 天文学), Calendar (地支), and Geography (地球) instead. Also fixed: a page-wide "missing `../`" path bug (30 occurrences) and 18 malformed `<ruby>[[Word]]<rt>` entries (double-bracket wikilinks glued inside ruby tags, which don't resolve as real links) — both converted to proper `<ruby>[Word](../words/Word.md)<rt>` form; one leading-slash absolute-path bug on 夏至; two stale cached 注音 (軌道, 星雲); and a real content bug where `words/軌道.md`'s own `羅馬字` field ("guidau") contradicted its own `注音`/`諺文`/the character 軌's own citation (kui-, not gui-) — corrected to "kuidau". Astronomy bucket went 182 → 131; the bulk of what's left (greetings, generic time/direction words, dynasty/river/place names, random abstract nouns) is not actually astronomy and needs its own pass, not a blanket move.
+
 ## Counts
 
-- **Unsorted**: 2338
-- **Astronomy**: 182
+- **Unsorted**: 2336
+- **Astronomy**: 131
 - **Body**: 197
 - **Buildings**: 1
-- **Calendar**: 137
+- **Calendar**: 136
 - **Clothing**: 44
 - **Conflict**: 95
 - **Containers**: 57
@@ -28,7 +30,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Events**: 55
 - **Existence**: 170
 - **Food**: 116
-- **Geography**: 234
+- **Geography**: 233
 - **Government**: 120
 - **Grammar**: 11
 - **Kinship**: 66
@@ -64,7 +66,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Work**: 31
 - **歴史綱要**: 5
 
-## Unsorted (2338)
+## Unsorted (2336)
 
 - [[人類学]] — anthropology
 - [[今夜]] — tonight
@@ -204,7 +206,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[単詞]] — word
 - [[単身]] — loneliness, singleness
 - [[単鷹国]] — prussia
-- [[占星術]] — astrology
 - [[卦]] — trigram
 - [[印度尼西亜]] — indonesia
 - [[印度支那]] — indochina (derogatory)
@@ -332,7 +333,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[大部分]] — majority
 - [[大釜]] — cauldron
 - [[大麦]] — barley
-- [[天文学]] — astronomy
 - [[天狗]] — tengu, tiangou
 - [[天花]] — snowflake
 - [[天鵝]] — swan, cygnus
@@ -2405,12 +2405,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Astronomy (182)
+## Astronomy (131)
 
-- [[䦧神星]] — eris
 - [[一朝]] — short time
-- [[七星]] — big dipper, seven stars
-- [[七曜]] — seven heavenly bodies, sun, moon, and the five classical planets
 - [[万物]] — everything, universe
 - [[九天]] — ninth heaven
 - [[乾坤]] — heaven and earth
@@ -2433,23 +2430,16 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[八角]] — octagon, star anise (illicium verum)
 - [[其人等]] — they
 - [[其処]] — there (medial)
-- [[冥王]] — pluto, hades, yama, king of the underworld
-- [[冥王星]] — pluto
-- [[分点]] — equinox
 - [[初代]] — first, inaugural, founding
 - [[初版]] — first edition
 - [[勉強]] — to study, to force oneself, reluctant
 - [[区別]] — differentiate, distinguish, classify
 - [[千乗]] — vassal of the son of heaven
 - [[占卜]] — divine, fortune tell
-- [[占星]] — divination
 - [[君]] — you
-- [[啓明]] — morning star
 - [[土]] — earth
-- [[土星]] — saturn
 - [[地域]] — district, region, locality
 - [[地帯]] — zone, belt, area
-- [[地平線]] — horizon
 - [[夕陽]] — setting sun, sunset
 - [[夜]] — night
 - [[大]] — big, great
@@ -2461,69 +2451,41 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[天地之別]] — a world of difference, the gulf between heaven and earth, a vast difference
 - [[天地人]] — heaven, earth, and humankind
 - [[天子]] — son of heaven
-- [[天干]] — heavenly stems, celestial stems
-- [[天底]] — nadir
-- [[天文]] — celestial objects
-- [[天狼星]] — sirius, dog star
-- [[天王星]] — uranus
 - [[天祐]] — divine aid
 - [[天神地祇]] — the gods of heaven and earth, all the gods
-- [[天空]] — sky
 - [[天運]] — fate from heaven (dated)
-- [[天頂]] — zenith
-- [[太白星]] — evening star
-- [[太陰]] — moon
-- [[太陽]] — sun, sol
-- [[太陽系]] — solar system
 - [[太陽風]] — solar wind
 - [[夭折]] — to die young, to come to a premature end
 - [[始祖]] — founder, first ancestor, progenitor
 - [[孫子]] — grandson, sun tzu
-- [[宇宙]] — universe, outer space, cosmos
-- [[宇宙人]] — alien, astronaut, space person
 - [[宇宙局]] — space agency
-- [[宇宙船]] — spaceship
 - [[実践]] — practice, put into practice
 - [[対象]] — object, target
-- [[小行星]] — asteroid
-- [[小行星帯]] — asteroid belt
 - [[嵌入]] — embed, inlay, insert into
 - [[川]] — river
 - [[帯]] — sash, belt
 - [[帰還]] — give back, return home, be repatriated
 - [[弁]] — discuss, distinguish
-- [[彗星]] — comet
 - [[後]] — after
 - [[後置]] — place after
 - [[復帰]] — return, come back
-- [[恒星]] — star
-- [[恒星系]] — galaxy
 - [[或者]] — some people
 - [[所]] — -ee (nominalizer; the object/receiver of an action)
 - [[所謂]] — so called
 - [[挿入]] — insert, stick into
 - [[揚州]] — yang province, province of yang
-- [[新星]] — nova, novae
 - [[日月]] — sun and moon, life and times
-- [[日食]] — solar eclipse
 - [[明月]] — bright moon, jewel
-- [[星]] — star
-- [[星坐]] — constellation
 - [[星条旗]] — stars and stripes
 - [[星洲]] — star islet, a literary sobriquet for singapore
-- [[星群]] — asterism
-- [[星雲]] — nebula
 - [[昼夜]] — day and night, around the clock
 - [[時]] — time
 - [[時差]] — time difference, jet lag
 - [[時間]] — time
 - [[晒]] — expose, dry in the sun, bleach
 - [[晩]] — evening
-- [[曜日]] — day of the week
 - [[最初]] — initial, first
-- [[月食]] — lunar eclipse
 - [[朝]] — morning
-- [[木星]] — jupiter
 - [[本校]] — head school, our school, this school
 - [[某]] — some, certain
 - [[榜文]] — official proclamation, posted notice
@@ -2535,25 +2497,20 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[江湖]] — lakes and river, countryside, underworld, reclusive place
 - [[注入]] — pour into, inject
 - [[流域]] — river basin, watershed
-- [[流星]] — shooting star, meteor
 - [[流水]] — flowing water, inevitable events
-- [[海王星]] — neptune
 - [[涯]] — horizon, shore, border
 - [[滲入]] — seep into, infiltrate
 - [[漁民]] — fisherfolk, fishing people
 - [[漢江]] — han river
 - [[瀧川]] — takigawa, waterfall river
-- [[火星]] — mars
 - [[無定河]] — wuding river
 - [[然後]] — then, after, afterwards, after that
 - [[照顧]] — care for, look after
 - [[熟知]] — know well, well acquainted with
-- [[牛郎星]] — altair, the cowherd star
 - [[甲]] — armor, first heavenly stem
 - [[発明]] — invent
 - [[発音]] — pronounce, say
 - [[盆栽]] — bonsai, potted dwarf tree
-- [[矮行星]] — dwarf planet
 - [[祭物]] — ritual offering; sacrificial object
 - [[空中]] — in the air, midair, the sky
 - [[空気]] — air, atmosphere
@@ -2561,25 +2518,18 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[考察]] — investigate, observe, study
 - [[而後]] — after that, only then
 - [[自得]] — come to a realization of one's own accord
-- [[至日]] — solstice
-- [[至点]] — solstice point
 - [[苦肉]] — flesh made to suffer, desperate self-sacrifice, the stratagem of self-injury
 - [[荒廃]] — fall into ruin
 - [[薄命]] — born under an unlucky star, born unlucky (usually of women), ill-fated
-- [[行星]] — planet
 - [[言]] — say
 - [[訃告]] — obituary, death notice
 - [[認識]] — know, recognize
 - [[謀求]] — pursue, seek, strive for, quest after
-- [[軌道]] — orbit
 - [[辺疆]] — frontier, border region
 - [[追求]] — pursue, search, go after
 - [[週期]] — period, cycle
 - [[遊学]] — travel abroad to study, study abroad
 - [[配]] — match, pair
-- [[金星]] — venus
-- [[銀河]] — milky way
-- [[銀河系]] — milky way galaxy
 - [[陛下]] — your majesty
 - [[陰]] — yin, shade
 - [[陰陽]] — yin-yang
@@ -2588,7 +2538,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[雲]] — cloud
 - [[需要]] — need, require
 - [[韓江]] — han river
-- [[穹蒼]] — blue dome of heaven, firmament (dated)
 
 ## Body (197)
 - [[三焦]] — triple burner
@@ -2792,7 +2741,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 ## Buildings (1)
 - [[亭子]] — pavilion, kiosk
 
-## Calendar (137)
+## Calendar (136)
 - [[一半]] — one half
 - [[七夕]] — qixi
 - [[万乗]] — ten thousand chariots, imperial power
@@ -2831,7 +2780,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[国歌]] — national anthem
 - [[国道]] — national highway
 - [[国防]] — national defense
-- [[地支]] — earthly branches, terrestrial branches
 - [[塔]] — pagoda
 - [[変]] — change, transform, alter
 - [[外国]] — foreign country
@@ -3823,7 +3771,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[麺]] — flour
 - [[麺包]] — bread
 
-## Geography (234)
+## Geography (233)
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
 - [[七対子]] — seven pairs (mahjong)
@@ -3905,7 +3853,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[地境]] — border, territorial boundary
 - [[地形]] — terrain, topography, landform
 - [[地方]] — region, territory
-- [[地球]] — earth, globe, world
 - [[地球儀]] — globe, model earth
 - [[地理]] — geography, topography
 - [[地理学]] — geography
