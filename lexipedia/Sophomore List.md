@@ -51,7 +51,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
-	- sick *(needs a word)*
+	- sick(ness) - <ruby>[[疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> *("disease," — see [[生病]] for the verb "to get sick")*
 - Value :
 	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
 	- interesting *(needs a word)*
