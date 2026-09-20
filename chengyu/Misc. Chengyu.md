@@ -56,7 +56,7 @@ tags:
 - <ruby>[公明正大](chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - fair and square, aboveboard
 - <ruby>[内柔外剛](chengyu/内柔外剛.md)<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> - appearing tough on the outside
 - <ruby>[刻舟求剣](chengyu/刻舟求剣.md)<rt>ㄎㄨㄎㄐㄨㄍ⼜ㄛㄍㄛㄇ</rt></ruby> - stubbornly cling to tradition, fail to adapt
-- <ruby>[千山萬水](chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> - forests and streams, many mountains and rivers
+- <ruby>[千山萬水](chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> - countless mountains and rivers; a long, arduous journey
 - <ruby>[千差万別](chengyu/千差万別.md)<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> - variegated, manifold diversity
 - <ruby>[千編一律](chengyu/千編一律.md)<rt>ㄑㄝㄋㄅ⼶ㄋㄧㄊㄌㄨㄊ</rt></ruby> - monotonously uniform with no variation
 - <ruby>[単刀直入](chengyu/単刀直入.md)<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> - to go straight to the point

@@ -72,7 +72,7 @@ boundedness: 75
 - <ruby>[[高山]]<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby> "high mountain"
 
 ## Chengyu
-- <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "forests and streams, many mountains and rivers"
+- <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"
 - <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "a sea of people; congested"
 - <ruby>[[石山盈界]]<rt>ㄙㄝㄎㄙㄚㄋ·⼶ㄫㄍ⼶</rt></ruby> "stone mountain fills earth"
 
