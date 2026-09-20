@@ -71,7 +71,7 @@ boundedness: 100
 - <ruby>[[蒲公英]]<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby> "dandelion"
 
 ## Chengyu
-- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, aboveboard"
+- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 
 ## Derived Characters
 - <ruby>[[頌]]<rt>ㄙ⼄ㄫ</rt></ruby> "laud, acclaim"

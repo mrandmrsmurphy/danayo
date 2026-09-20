@@ -121,7 +121,7 @@ boundedness: 90
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
 - <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
-- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, aboveboard"
+- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously, guffaw"
 

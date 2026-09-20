@@ -8,10 +8,10 @@ japanese:
   - SHOU
 japanese_native: ただ
 vietnamese:
+  - chính
   - chiếng
   - chánh
   - chênh
-  - chính
   - chếnh
   - giêng
 middle_chinese_initial: "t͡ɕ"
@@ -76,7 +76,7 @@ boundedness: 100
 - <ruby>[[正午]]<rt>ㄐㄧㄫㄛ</rt></ruby> "noon"
 - <ruby>[[真正]]<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby> "genuine; real"
 ## Chengyu
-- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, aboveboard"
+- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> "Korean picks the sound"
 ## Derived Characters

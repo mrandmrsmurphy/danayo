@@ -8,8 +8,8 @@ japanese:
   - MYOU
 japanese_native: あ-かり,あか-るい,あか-るむ,あか-らむ
 vietnamese:
-  - mừng
   - minh
+  - mừng
   - mênh
   - miêng
 middle_chinese_initial: m
@@ -87,7 +87,7 @@ boundedness: 100
 ## Chengyu
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "have a clear-cut stand"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
-- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, aboveboard"
+- <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> "Per Character Clear Meaning"
 
 ## Derived Characters
