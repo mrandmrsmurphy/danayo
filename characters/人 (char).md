@@ -94,7 +94,7 @@ boundedness: 75
 - <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
 - <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
 - <ruby>[[為人]]<rt>ㄨㄧㄋㄧㄋ</rt></ruby> "behave; conduct oneself"
-- <ruby>[[無人]]<rt>ㄇㄨㄋㄧㄋ</rt></ruby> "depopulated; unmanned"
+- <ruby>[[無人]]<rt>ㄇㄜㄋㄧㄋ</rt></ruby> "depopulated; unmanned"
 - <ruby>[[客人]]<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby> "traveller"
 - <ruby>[[故人]]<rt>ㄍㄛㄋㄧㄋ</rt></ruby> "deceased; old friend"
 - <ruby>[[老人学]]<rt>ㄌㄚㄨㄋㄧㄋㄏㄚㄎ</rt></ruby> "gerontology"
@@ -132,7 +132,7 @@ boundedness: 75
 - <ruby>[[美国人]]<rt>ㄇㄧㄍㄛㄎㄋㄧㄋ</rt></ruby> "American person"
 - <ruby>[[越南人]]<rt>⼔ㄊㄋㄚㄇㄋㄧㄋ</rt></ruby> "Vietnamese person"
 ## Chengyu
-- <ruby>[傍若無人](/chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> "totally selfish"
+- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 - <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "create man in our image and likeness"
 - <ruby>[[佳人薄命]]<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> "a fair lady's destiny is thin indeed; whom the gods love die young"
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy"

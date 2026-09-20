@@ -51,7 +51,7 @@ tags:
 - <ruby>[令行禁止](chengyu/令行禁止.md)<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> - total command discipline
 - <ruby>[佳人薄命](chengyu/佳人薄命.md)<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> - a fair lady's destiny is thin indeed
 - <ruby>[信達雅化](chengyu/信達雅化.md)<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> - Faithful Transparent Elegent -ization
-- <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> - selfishly do what one wants without regard to other people's wishes
+- <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> - acting as if no one else were present; brazenly disregarding others
 - <ruby>[光明正大](chengyu/光明正大.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - high principles and sincere
 - <ruby>[公明正大](chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - fair and square, aboveboard
 - <ruby>[内柔外剛](chengyu/内柔外剛.md)<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> - appearing tough on the outside
