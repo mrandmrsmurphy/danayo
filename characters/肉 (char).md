@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[豚肉]]<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby> "pork"
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
-- <ruby>[[弱肉強食]]<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
+- <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"
 
 ## Derived Characters

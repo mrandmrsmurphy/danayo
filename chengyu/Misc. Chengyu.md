@@ -86,7 +86,7 @@ tags:
 - <ruby>[尊王攘夷](chengyu/尊王攘夷.md)<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> - revere the king, expel the barbarians
 - <ruby>[少即是多](chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> - less is more
 - <ruby>[弱不禁風](chengyu/弱不禁風.md)<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> - so frail as to be unable to withstand the wind
-- <ruby>[弱肉強食](chengyu/弱肉強食.md)<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> - survival of the fittest
+- <ruby>[弱肉強食](chengyu/弱肉強食.md)<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> - survival of the fittest
 - <ruby>[意味深長](chengyu/意味深長.md)<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> - full of deep significance; profound and thought-provoking
 - <ruby>[意気揚揚](chengyu/意気揚揚.md)<rt>ㄜㄎㄧㄜ·⼘ㄫ·⼘ㄫ</rt></ruby> - triumphalism
 - <ruby>[成家立業](chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> - Get married and start a job

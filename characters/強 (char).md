@@ -69,4 +69,4 @@ boundedness: 100
 - <ruby>[[強国]]<rt>ㄍ⼘ㄫㄍㄛㄎ</rt></ruby> "superpower (country)"
 
 ## Chengyu
-- <ruby>[[弱肉強食]]<rt>ㄋㄙㄎㄋㄨㄎㄍㄚㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
+- <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
