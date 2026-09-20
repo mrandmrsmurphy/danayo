@@ -146,7 +146,7 @@ tags:
 - <ruby>[誠心誠意](chengyu/誠心誠意.md)<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫ·ㄧ</rt></ruby> - in all sincerity; with one's whole heart
 - <ruby>[論功行賞](chengyu/論功行賞.md)<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> - meritocracy
 - <ruby>[諸法無我](chengyu/諸法無我.md)<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> - every dharma is without self
-- <ruby>[諸行無常](chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> - Everything is impermanent
+- <ruby>[諸行無常](chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> - all conditioned things are impermanent
 - <ruby>[起死回生](chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> - revival from the point of death
 - <ruby>[遠交近攻](chengyu/遠交近攻.md)<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> - ally with the distant, attack the near
 - <ruby>[鏡花水月](chengyu/鏡花水月.md)<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> - je ne sais quoi, fantasy, illusion

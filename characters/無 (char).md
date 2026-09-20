@@ -82,12 +82,10 @@ boundedness: 80
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
-- <ruby>[[傍若無人]]<rt>ㄅㄚㄫㄋ⼘ㄇㄨㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> "above and below, no idols"
 - <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨ·ㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless"
-- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "Everything is impermanent"
+- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"
-- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> "Above and below, no idols"
 
 ## Derived Characters
 - <ruby>[[舞]]<rt>ㄇㄨ</rt></ruby> "dance"

@@ -86,7 +86,7 @@ boundedness: 55
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"
 - <ruby>[[修飾先行]]<rt>ㄙㄨㄛㄙㄧㄎㄙㄝㄋㄏㄚㄫ</rt></ruby> "modifiers precede; attributive elements come before what they modify"
 - <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄒㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
-- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "Everything is impermanent"
+- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
 - <ruby>[[論功行賞]]<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> "meritocracy"
 

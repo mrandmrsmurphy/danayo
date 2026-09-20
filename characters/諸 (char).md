@@ -57,4 +57,4 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"
-- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "everything is impermanent"
+- <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
