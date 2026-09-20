@@ -56,7 +56,12 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
 	- interesting - <ruby>[[有趣]]<rt>⼜ㄑㄨ</rt></ruby> *(Mandarin/Cantonese only, not pan-CJKV)*
 	- boring - <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> *(pan-CJKV; cp. [[支離]], whose primary sense is "fragmented, disjointed" but which independently narrowed to "boring" in Korean 지루하다)*
-	- wonderful *(needs a word)*
+	- wonderful — several senses:
+		- fantastic(al) - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
+		- startling/arresting - <ruby>[[喫驚]]<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>
+		- perfect - <ruby>[[完璧]]<rt>ㄏ⺢ㄋㄅㄝㄎ</rt></ruby>
+		- outstanding (literary) - <ruby>[[出色]]<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby>
+		- excellent - <ruby>[[優秀]]<rt>ㄨㄛㄙㄨㄛ</rt></ruby>
 	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 - Abstractions :
 	- funny *(needs a word)*
