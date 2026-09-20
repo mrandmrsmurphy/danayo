@@ -8,8 +8,8 @@ japanese:
   - NEN
 japanese_native: さ
 vietnamese:
-  - nhen
   - nhiên
+  - nhen
   - nhơn
 middle_chinese_initial: "ȵ"
 middle_chinese_final: "iᴇn"
@@ -78,7 +78,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"
 - <ruby>[[混然一体]]<rt>ㄏㄛㄋㄋ⼶ㄋ·ㄧㄊㄊㄝㄧ</rt></ruby> "monad, utterly unified"
-- <ruby>[[茫然自失]]<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> "dazed and confused"
+- <ruby>[[茫然自失]]<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> "dazed and confused, stunned to the point of losing oneself"
 
 ## Derived Characters
 - <ruby>[[燃]]<rt>ㄋ⼶ㄋ</rt></ruby> "burn"
