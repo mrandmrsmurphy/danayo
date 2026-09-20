@@ -64,12 +64,12 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 		- excellent - <ruby>[[優秀]]<rt>ㄨㄛㄙㄨㄛ</rt></ruby>
 	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 - Abstractions :
-	- funny *(needs a word)*
+	- funny - <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby>
 	- easy - <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby>
 	- difficult - <ruby>[[困難]]<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>
 	- alone - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>
 	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
-	- normal *(needs a word)*
+	- normal - <ruby>[[正常]]<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby>
 	- special - <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>
 	- probable *(needs a word)*
 	- secret - <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>

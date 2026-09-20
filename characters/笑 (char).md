@@ -55,6 +55,7 @@ boundedness: 80
 - <ruby>[[大笑]]<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously; burst out laughing"
 - <ruby>[[哄笑]]<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby> "burst out laughing; roar with laughter"
 - <ruby>[[嘲笑]]<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby> "to ridicule; to mock; to deride; to jeer at"
+- <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby> "funny, amusing; ridiculous, laughable"
 
 ## Chengyu
 - <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "guffaw; to laugh a ringing laugh; to have a hearty laugh; laugh uproariously"

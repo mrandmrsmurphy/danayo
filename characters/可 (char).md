@@ -61,6 +61,7 @@ boundedness: 75
 - <ruby>[[可読]]<rt>ㄎㄜㄉㄛㄎ</rt></ruby> "readable; legible"
 - <ruby>[[可不]]<rt>ㄎㄜㄅㄛㄊ</rt></ruby> "able to not (do something); permitted to refrain from"
 - <ruby>[[不可不]]<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> "cannot not (do something), i.e. must"
+- <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby> "funny, amusing; ridiculous, laughable"
 
 ## Chengyu
 - <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄚㄙㄚ·ㄨㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"

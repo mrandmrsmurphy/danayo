@@ -75,6 +75,7 @@ boundedness: 100
 - <ruby>[[正割]]<rt>ㄐㄧㄫㄍㄚㄊ</rt></ruby> "secant"
 - <ruby>[[正午]]<rt>ㄐㄧㄫㄛ</rt></ruby> "noon"
 - <ruby>[[真正]]<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby> "genuine; real"
+- <ruby>[[正常]]<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby> "normal, regular, ordinary"
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
