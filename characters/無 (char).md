@@ -8,8 +8,8 @@ japanese:
   - BU
 japanese_native: な
 vietnamese:
-  - mô
   - vô
+  - mô
 middle_chinese_initial: ɱ
 middle_chinese_final: ɨo
 stroke_count: 12
