@@ -52,3 +52,6 @@ boundedness: 40
 - <ruby>[[致使]]<rt>ㄑㄧㄜㄙㄧ</rt></ruby> "that; resulting in"
 - <ruby>[[景致]]<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby> "scenery"
 - <ruby>[[一致]]<rt>ㄧㄊㄑㄧㄜ</rt></ruby> "be unanimous with; agree with"
+
+## Chengyu
+- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"

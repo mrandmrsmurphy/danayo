@@ -72,6 +72,7 @@ boundedness: 80
 - <ruby>[[文言継承]]<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> "continuity with the classical written standard"
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"
 - <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
+- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
 
 ## Derived Characters
 - <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> "meet"

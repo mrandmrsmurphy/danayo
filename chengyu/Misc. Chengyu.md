@@ -142,7 +142,7 @@ tags:
 - <ruby>[落花流水](chengyu/落花流水.md)<rt>ㄌㄚㄎㄏ⺢ㄌ⼜ㄙㄨ</rt></ruby> - scattered like fallen blossoms swept away by the current
 - <ruby>[蒼海桑田](chengyu/蒼海桑田.md)<rt>ㄑㄚㄫㄏㄚㄧㄙㄚㄫㄉㄚㄋ</rt></ruby> - time brings drastic changes to the world; the vicissitudes of life
 - <ruby>[虎視耽耽](chengyu/虎視耽耽.md)<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> - to eye covetously like a prowling tiger
-- <ruby>[言行一致](chengyu/言行一致.md)<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄒㄧㄜ</rt></ruby> - true to one's word
+- <ruby>[言行一致](chengyu/言行一致.md)<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄑㄧㄜ</rt></ruby> - true to one's word
 - <ruby>[誠心誠意](chengyu/誠心誠意.md)<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫ·ㄧ</rt></ruby> - in all sincerity; with one's whole heart
 - <ruby>[論功行賞](chengyu/論功行賞.md)<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> - meritocracy
 - <ruby>[諸法無我](chengyu/諸法無我.md)<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> - every dharma is without self
