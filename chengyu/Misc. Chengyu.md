@@ -99,7 +99,7 @@ tags:
 - <ruby>[暴飲暴食](chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> - excessive eating and drinking; bingeing on food and drink
 - <ruby>[有備無患](chengyu/有備無患.md)<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> - better safe than sorry
 - <ruby>[朝三暮四](chengyu/朝三暮四.md)<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> - distinction without a difference
-- <ruby>[未雨紬謬](chengyu/未雨紬謬.md)<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> - plan ahead: “before it rains, bind around with silk”
+- <ruby>[未雨紬謬](chengyu/未雨紬謬.md)<rt>ㄇㄨㄧ·ㄨㄑㄨㄛㄇ⼜</rt></ruby> - to prepare in advance, before trouble arises
 - <ruby>[朽木糞牆](chengyu/朽木糞牆.md)<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> - rotten wood and a dung wall
 - <ruby>[李下瓜田](chengyu/李下瓜田.md)<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> - avoid even the appearance of impropriety
 - <ruby>[東奔西走](chengyu/東奔西走.md)<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> - to rush about everywhere, to run around busily from place to place

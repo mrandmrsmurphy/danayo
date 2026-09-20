@@ -61,7 +61,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
-- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> "plan ahead: "before it rains, bind around with silk""
+- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄑㄨㄛㄇ⼜</rt></ruby> "to prepare in advance, before trouble arises"
 
 ## Derived Characters
 - <ruby>[[需]]<rt>ㄙㄨ</rt></ruby> "need"

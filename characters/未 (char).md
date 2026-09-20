@@ -53,7 +53,7 @@ boundedness: 90
 - <ruby>[[未月]]<rt>ㄇㄨㄧ·⼔ㄊ</rt></ruby> "sixth month (goat month)"
 
 ## Chengyu
-- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄐㄨㄇ⼜</rt></ruby> "plan ahead: 'before it rains, bind around with silk'"
+- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄑㄨㄛㄇ⼜</rt></ruby> "to prepare in advance, before trouble arises"
 
 ## Derived Characters
 - <ruby>[[味]]<rt>ㄇㄨㄧ</rt></ruby> "taste; experience"
