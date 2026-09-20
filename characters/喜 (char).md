@@ -10,10 +10,10 @@ japanese_native:
   - よろこ-ぶ
   - よろこ-び
 vietnamese:
-  - hẻ
+  - hỷ
   - hỉ
   - hởi
-  - hỷ
+  - hẻ
 middle_chinese_initial: x
 middle_chinese_final: ɨ
 stroke_count: 12
