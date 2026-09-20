@@ -29,9 +29,9 @@ language: English
 - history : <ruby>[歴史](../words/歴史.md)<rt>ㄌㄝㄎㄙㄧ</rt></ruby>
 - narrative, story, tale : <ruby>[故事](../words/故事.md)<rt>ㄍㄛㄐㄧ</rt></ruby>
 - mystery : <ruby>[奥秘](../words/奥秘.md)<rt>ㄨㄎㄅㄧㄜ</rt></ruby>, <ruby>[神秘](../words/神秘.md)<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby>, <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby> "riddle, mystery, enigma"
-- page : [[頁 (char)]]
+- page : [[頁]]
 - perform (practice a piece) : <ruby>練習<rt>ㄌㄝㄋㄙㄧㄆ</rt></ruby>
-- read : <ruby>閲読<rt>⼶ㄊㄉㄛㄎ</rt></ruby>
+- read : <ruby>[[閲読]]<rt>⼶ㄊㄉㄛㄎ</rt></ruby>
 - write : <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby> "record, note, document", <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby> "record, write down", <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby> "lay down the pen, stop writing"
 - chapter : <ruby>[章](../words/章.md)<rt>ㄐㄚㄫ</rt></ruby>
 - essay, article : <ruby>[文章](../words/文章.md)<rt>ㄇㄨㄋㄐㄚㄫ</rt></ruby>

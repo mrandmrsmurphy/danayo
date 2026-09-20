@@ -63,6 +63,9 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
+- <ruby>[企鵝](../words/企鵝.md)<rt>ㄎㄝㄚ</rt></ruby>: penguin.
+- <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby>: albatross.
+- <ruby>[啄木鳥](../words/啄木鳥.md)<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby>: woodpecker.
 
 ### Insects, Arachnids & Small Creatures
 
@@ -79,6 +82,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
 - <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
 - <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
+- <ruby>[丘引](../words/丘引.md)<rt>ㄎ⼜·ㄧㄋ</rt></ruby>: earthworm.
+- <ruby>[壁虱](../words/壁虱.md)<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby>: tick, mite, bedbug.
 
 ### Reptiles, Amphibians & Aquatic Creatures
 
@@ -94,6 +99,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby>: sea bream.
+- <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ⼄</rt></ruby>: skipjack tuna, bonito.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
@@ -108,6 +114,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.
 - <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ·⼘ㄫ</rt></ruby>: antelope.
 - <ruby>[猿猩](../words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>: monkey, ape — the stand-in compound that legitimizes the bound character 猿.
+- <ruby>[倭猩](../words/倭猩.md)<rt>⼔ㄧㄙㄝㄫ</rt></ruby>: bonobo.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
@@ -121,6 +128,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[小鼠](../words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>: mouse.
 - <ruby>[田鼠](../words/田鼠.md)<rt>ㄉㄝㄋㄙ⼄</rt></ruby>: vole, field mouse.
 - <ruby>[天竺鼠](../words/天竺鼠.md)<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby>: guinea pig, cavy.
+- <ruby>[倉鼠](../words/倉鼠.md)<rt>ㄑ⺢ㄫㄙ⼄</rt></ruby>: hamster.
 
 ### Livestock, Working Animals & Animal Products
 
@@ -143,6 +151,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[狗肉](../words/狗肉.md)<rt>ㄍㄛㄨㄋㄨㄎ</rt></ruby>: dog meat (used as an insult in some contexts).
 - <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [[獵]] below.
 - <ruby>[禁獵](../words/禁獵.md)<rt>ㄍㄧㄇㄌㄛㄆ</rt></ruby>: a hunting ban.
+- <ruby>[吼](../words/吼.md)<rt>ㄏㄛㄨ</rt></ruby>: to roar, howl.
 
 ## Advanced / Specialized (C1+)
 
@@ -169,8 +178,9 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[魑魅](../words/魑魅.md)<rt>ㄑㄧㄇㄧㄜ</rt></ruby>: evil mountain and forest spirits, dryad-like demons — the mountain/forest counterpart to 罔両's water-haunting spirits.
 - <ruby>[吸血鬼](../words/吸血鬼.md)<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby>: vampire — literally "blood-sucking demon," a real, already-attested Sino-Xenic calque used across Chinese, Japanese, and Korean for the *translated* Western figure, not a Dan'a'yo coinage from scratch (see Semantic Range Notes below on how this differs from the "no fantasy coinages" rule).
 - <ruby>[僵死](../words/僵死.md)<rt>ㄍ⼘ㄫㄙㄧㄜ</rt></ruby>: jiangshi, the reanimated "hopping corpse" of Chinese folklore — a genuinely East Asian creature, not the Western zombie, despite the English gloss's shorthand.
+- <ruby>[一角獣](../words/一角獣.md)<rt>ㄧㄊㄍㄛㄎㄙ⼜</rt></ruby>: unicorn — literally "one-horn beast," another transparent calque of a Western figure already in real cross-linguistic use (Japanese いっかくじゅう, Mandarin/Cantonese 獨角獸/独角兽), the same category as 吸血鬼 below rather than a Dan'a'yo-invented fantasy word. Vietnamese notably reuses its own native *kỳ lân* (qilin/kirin) for this concept instead of calquing — a real terminological conflation, not an error.
 
-**Note on the fantasy genre**: Dan'a'yo has no coined words for troll, orc, gnome, or werewolf — these belong to a Western/Northern European mythological inventory with no organic CJKV counterpart, and a learner wanting them would reach for a transliteration rather than a native Dan'a'yo coinage. "Vampire" and "zombie" are the exception, not the rule: [[吸血鬼]] and [[僵死]] both already exist, but neither is really a counterexample — 吸血鬼 is a transparent calque already used across the sphere for the *foreign* figure (much like [[怪獣]] "kaiju" below), and 僵死/jiangshi is not the Western zombie at all but a distinct, older Chinese folk creature that only gets glossed "zombie" for convenience.
+**Note on the fantasy genre**: Dan'a'yo has no coined words for troll, orc, gnome, or werewolf — these belong to a Western/Northern European mythological inventory with no organic CJKV counterpart, and a learner wanting them would reach for a transliteration rather than a native Dan'a'yo coinage. "Vampire," "zombie," and "unicorn" are the exception, not the rule: [[吸血鬼]], [[僵死]], and [[一角獣]] all already exist, but none is really a counterexample — 吸血鬼 and 一角獣 are transparent calques already used across the sphere for the *foreign* figure (much like [[怪獣]] "kaiju" below), and 僵死/jiangshi is not the Western zombie at all but a distinct, older Chinese folk creature that only gets glossed "zombie" for convenience.
 
 ### Habitats & Group Behavior
 

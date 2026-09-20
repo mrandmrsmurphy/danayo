@@ -6,61 +6,63 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 **2026-09-19, Grammar — cleared via `文法 - 97品詞`**: cross-referenced the vault's own comprehensive grammar reference page against the 161-word Grammar bucket and rebuilt `lexipedia/Grammar.md` from a small partial dump into a full page (Pronouns, a complete 63-cell Correlative Pronoun table — 此/其/彼/何/毎/皆/某 × 事/物/人/名/処/時/様/多/類, all real words — the 12-case system, Function Words, Writing System & Characters, the Six Writings classification, Phonology, and Lexicon & Language). Also swept up 19 correlative-pronoun words (其時/某事/彼処/何人/etc.) that had been keyword-miscategorized into Astronomy/Calendar/Dimensions/Events/Existence/Locatives — the whole closed paradigm now lives together. Fixed 6 stale cached 注音 bugs the old page had been carrying (其/此/他/其人/其処/此処 had all drifted from their word files' current readings). Removed 7 real false positives from the bucket that had only keyword-matched (沈淀→Substances, 燐火/鬼火→Nature, 緊張→Emotions, 自給/兼→Existence, 篇→Speech). 173 words backlinked and cleared in total; Grammar bucket now fully gone.
 
+**2026-09-19, Art — cleared**: rebuilt `lexipedia/Art.md` from a sparse raw dump (mostly bare unlinked English placeholders) into a full page organized into Main Words, Performance & Theatre, Language Arts (with Poetry and Five Classics subsections — 礼記/易経/書経/楽経/詩経), Visual Arts, Music, Martial Arts, and Craft. Also caught several real homograph traps the keyword-matching had walked into: 公尺/測量 ("meter"/"measure" the unit, not music) → Measurement; 汲 ("draw" water, not draw a picture) → Water; 量詞 ("measure word" the grammar term) → Grammar; 薄膜 ("film" the membrane, not cinema) → Substances; 支部 ("chapter" the org branch, not book chapter) → Government; 肩章 ("epaulet," not a book/music term) → Clothing; 神経 (dual-sense "nerve"/"Mystery Classic" — filed under its dominant medical sense) → Body. 30 false positives rerouted total (also: 兵法→War, 加持/法術→Religion, 族譜→Kinship, 帳簿→Trade, 辞令/計画/設計→Work, 新鮮→Food, 跆籍→Society, 課/史学/文科→Knowledge, 和敬/和諧/嬉遊/遊戯→Existence, 宋朝→歴史綱要, 拂→Movement, 擦→Efforts, 柄→Tools, 景致→Nature). 90 genuine words backlinked and cleared; Art bucket now fully gone.
+
+**2026-09-19, Animals — cleared**: the 10-word Animals bucket (mostly leftovers from earlier Unsorted triage: 企鵝 penguin, 信天翁 albatross, 啄木鳥 woodpecker → Fowl; 丘引 earthworm, 壁虱 tick/mite/bedbug → Insects & Small Creatures; 堅魚 skipjack tuna/bonito → Aquatic Creatures; 倭猩 bonobo → Large Wild Mammals; 倉鼠 hamster → Rodents; 吼 roar/howl → Animal Behavior; 一角獣 unicorn → Mythical Creatures, alongside 吸血鬼/僵死 as another real cross-linguistic calque of a Western figure rather than a native fantasy coinage) all slotted into their existing `lexipedia/Animals.md` sections, backlinked, and cleared. Animals bucket now fully gone.
+
 ## Counts
 
 - **Unsorted**: 2338
-- **Animals**: 10
-- **Art**: 119
 - **Astronomy**: 182
-- **Body**: 196
+- **Body**: 197
 - **Buildings**: 1
 - **Calendar**: 137
-- **Clothing**: 43
+- **Clothing**: 44
 - **Conflict**: 95
 - **Containers**: 57
 - **Dimensions**: 93
 - **Directions**: 58
-- **Efforts**: 53
+- **Efforts**: 54
 - **Elements**: 17
 - **Emotions**: 106
 - **Events**: 55
-- **Existence**: 166
-- **Food**: 115
+- **Existence**: 170
+- **Food**: 116
 - **Geography**: 234
-- **Government**: 119
-- **Grammar**: 10
-- **Kinship**: 65
-- **Knowledge**: 84
+- **Government**: 120
+- **Grammar**: 11
+- **Kinship**: 66
+- **Knowledge**: 87
 - **Law**: 37
 - **Life**: 20
 - **Light**: 33
 - **Locatives**: 13
 - **Love**: 6
-- **Measurement**: 12
+- **Measurement**: 14
 - **Mind**: 24
-- **Movement**: 56
-- **Nature**: 9
+- **Movement**: 57
+- **Nature**: 10
 - **Numbers**: 3
 - **Physical**: 11
 - **Physics**: 19
 - **Plants**: 30
 - **Possession**: 3
-- **Religion**: 37
+- **Religion**: 39
 - **Sensation**: 15
 - **Sex**: 13
 - **Shape**: 16
 - **Sin**: 22
-- **Society**: 35
+- **Society**: 36
 - **Speech**: 60
-- **Substances**: 27
+- **Substances**: 28
 - **Time**: 29
-- **Tools**: 19
-- **Trade**: 37
+- **Tools**: 20
+- **Trade**: 38
 - **Valuation**: 48
-- **War**: 24
-- **Water**: 59
-- **Work**: 28
-- **歴史綱要**: 4
+- **War**: 25
+- **Water**: 60
+- **Work**: 31
+- **歴史綱要**: 5
 
 ## Unsorted (2338)
 
@@ -2403,139 +2405,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Animals (10)
-- [[一角獣]] — unicorn
-- [[丘引]] — earthworm
-- [[企鵝]] — penguin
-- [[信天翁]] — albatross
-- [[倉鼠]] — hamster
-- [[倭猩]] — bonobo
-- [[吼]] — roar, howl
-- [[啄木鳥]] — woodpecker
-- [[堅魚]] — skipjack tuna, bonito
-- [[壁虱]] — tick, mite, bedbug
-
-## Art (119)
-- [[交響]] — symphonic
-- [[俳優]] — actor
-- [[偶像]] — idol, statue
-- [[公尺]] — meter, metre
-- [[兵法]] — art of war, tactics
-- [[冊子]] — book
-- [[凱歌]] — triumphant song, victory song
-- [[刷]] — brush, scrub
-- [[刷子]] — brush
-- [[劇]] — drama, theatre
-- [[劇場]] — cinema, theater
-- [[劇詩]] — dramatic poetry
-- [[加持]] — perform incantations, bless
-- [[叢書]] — book series, anthology
-- [[史学]] — historiography, history (as academic discipline)
-- [[和敬]] — harmony and respect
-- [[和諧]] — harmonious, harmony
-- [[唐詩]] — tang poetry
-- [[唱和]] — sing chorus
-- [[唱歌]] — sing, chant
-- [[図画]] — drawing, picture
-- [[塑像]] — molded statue
-- [[墨水]] — ink
-- [[奥秘]] — secret, mystery
-- [[女優]] — actress, female artist
-- [[嬉遊]] — play, frolic, enjoy oneself
-- [[宋朝]] — song dynasty
-- [[宣言]] — proclaim, manifesto
-- [[工匠]] — artisan
-- [[帳簿]] — account book, ledger
-- [[弦]] — bowstring, chord, string, hypotenuse
-- [[彫像]] — statue, image
-- [[彫刻]] — carve, sculpt
-- [[手帖]] — handwritten letter, notebook
-- [[拂]] — shake off, brush off
-- [[拍]] — tap, clap, beat, pulse
-- [[擦]] — wipe, scrub, rub, scour, brush
-- [[擱筆]] — lay down the pen, stop writing
-- [[支部]] — branch, chapter
-- [[故事]] — narrative, story, tale
-- [[文学]] — literature
-- [[文書]] — letter, document
-- [[文献]] — literature
-- [[文科]] — liberal arts, humanities
-- [[文章]] — essay, article
-- [[文芸]] — literature and art, art and culture
-- [[新鮮]] — fresh, novel
-- [[族譜]] — clan registry, geneology book
-- [[日報]] — daily newspaper
-- [[易経]] — book of changes
-- [[景致]] — scenery, scene, view
-- [[書本]] — book
-- [[書法]] — calligraphy
-- [[書簡]] — letter
-- [[書経]] — book of documents
-- [[木版]] — printing block
-- [[札]] — letter, note
-- [[柄]] — design, handle
-- [[柬]] — letter, invitation
-- [[校歌]] — school anthem, school song
-- [[楽経]] — classic of music
-- [[楽譜]] — music score, music manuscript
-- [[横幅]] — banner, horizontal scroll
-- [[歌曲]] — song
-- [[歌謡]] — song, ballad
-- [[武芸]] — martial art skill
-- [[武術]] — martial art
-- [[武道]] — martial arts
-- [[歴史]] — history
-- [[汲]] — draw water
-- [[法術]] — magic, magic arts
-- [[測量]] — measure, survey
-- [[演]] — unfold, perform
-- [[演出]] — perform; put on (a show); performance (mandarin/cantonese), direct, stage-direct; the creative act of staging a production (japanese えんしゅつ — see note)
-- [[演奏]] — play (music)
-- [[版画]] — print (picture copied from a painting or photography)
-- [[男優]] — male artist, male actor
-- [[画報]] — pictorial, picture magazine
-- [[礼記]] — book of rites
-- [[神秘]] — mystery, mystical secret
-- [[神経]] — nerve, mystery classic
-- [[神話]] — myth, fairytale, mythology
-- [[章]] — chapter
-- [[筆]] — pen, stylus
-- [[絵画]] — draw, paint
-- [[編纂]] — compile, edit
-- [[編集]] — compile, edit
-- [[翻訳]] — translate
-- [[聴衆]] — audience
-- [[肩章]] — epaulet (shoulder decoration)
-- [[芸人]] — performer, actor
-- [[芸術]] — skill, art, craft
-- [[薄膜]] — membrane, thin film
-- [[装飾]] — decoration, ornament, accessory
-- [[計画]] — plan, schedule, measure
-- [[訓]] — interpret, translate, explicate
-- [[記載]] — record, write down
-- [[記録]] — record, note, document
-- [[設計]] — plan, design
-- [[詩作]] — poem; poetry composition
-- [[詩歌]] — poem, poetry
-- [[詩篇]] — poem, psalm
-- [[詩経]] — classic of poetry
-- [[課]] — lesson, chapter
-- [[謎]] — riddle, mystery, enigma
-- [[賛歌]] — song of praise, hymn
-- [[賦]] — prose-poetry
-- [[跆籍]] — taekwondo registration, martial arts membership record
-- [[跳舞]] — dance
-- [[軽歌劇]] — operetta, light opera
-- [[辞令]] — letter of dismissal, letter of resignation
-- [[遊戯]] — play, game
-- [[量詞]] — measure word, classifier, counter
-- [[針言]] — proverb
-- [[鉛筆]] — pencil
-- [[雑誌]] — magazine, periodical
-- [[音楽]] — music
-- [[音符]] — note
-- [[鼓]] — drum, play (instrumental)
-
 ## Astronomy (182)
 
 - [[䦧神星]] — eris
@@ -2721,7 +2590,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[韓江]] — han river
 - [[穹蒼]] — blue dome of heaven, firmament (dated)
 
-## Body (196)
+## Body (197)
 - [[三焦]] — triple burner
 - [[下痢]] — diarrhea
 - [[下顎]] — jaw, chin
@@ -2817,6 +2686,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[眉]] — eyebrows
 - [[睡眠]] — sleep
 - [[睾丸]] — testicle
+- [[神経]] — nerve, mystery classic
 - [[禿]] — bald
 - [[穂]] — ear of grain
 - [[笑]] — laugh, smile
@@ -3061,7 +2931,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
 
-## Clothing (43)
+## Clothing (44)
 - [[乳押]] — bra, brassiere
 - [[亜麻布]] — linen
 - [[包装]] — wrap, package
@@ -3090,6 +2960,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[編織]] — knitting, weaving, braiding
 - [[縫製]] — sew, tailor
 - [[繰]] — reel, bolt of cloth
+- [[肩章]] — epaulet (shoulder decoration)
 - [[藍領]] — blue-collar
 - [[衣服]] — clothes
 - [[衣襟]] — collar
@@ -3421,8 +3292,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[隅]] — nook, corner, side
 - [[韓国]] — korea, south korea
 
-## Efforts (53)
-
+## Efforts (54)
 - [[事故]] — accident
 - [[令]] — cause
 - [[企図]] — try, attempt, plan
@@ -3432,6 +3302,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[労動]] — labor, toil
 - [[効果]] — effect
 - [[勉]] — exert, urge
+- [[台球]] — billiards, pool
 - [[嘗試]] — try, attempt
 - [[困難]] — difficult, hard
 - [[圧]] — press, control
@@ -3446,15 +3317,21 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[懶惰]] — lazy
 - [[把握]] — grasp, control
 - [[掌握]] — control
+- [[擦]] — wipe, scrub, rub, scour, brush
 - [[支配]] — rule, control, manage, govern, dominate
 - [[故而]] — therefore, as a result, and so
 - [[既遂]] — accomplish, complete
 - [[柔]] — tender, soft, weak
 - [[柔軟]] — soft, pliable, weak
+- [[桌球]] — table tennis, ping pong
 - [[汽車]] — steam train, locomotive
 - [[災厄]] — trouble, burden, disaster
+- [[率先]] — take the lead, be the first to act
 - [[空軍]] — air force
+- [[競走]] — race
 - [[結果]] — result, fruit
+- [[網球]] — tennis, tennis ball, net ball
+- [[網球場]] — tennis court
 - [[羸弱]] — frail, weak, feeble
 - [[自制]] — restraint, self-control
 - [[自禁]] — self-control
@@ -3462,20 +3339,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[苦悶]] — agony, anguish, worry, trouble
 - [[薄弱]] — weak, feeble
 - [[蠢動]] — to wriggle, to stir up trouble, to act restlessly
+- [[足球]] — football
+- [[蹴球]] — football (ball or sport), soccer
 - [[轄]] — linchpin of a wheel, control
 - [[逼迫]] — force, compel, press, coerce
 - [[錯誤]] — err, make a mistake
+- [[鎧球]] — american football, gridiron football, football
 - [[閙事]] — make a scene, cause trouble
 - [[養成]] — cultivate, train
-- [[網球]] — tennis, tennis ball, net ball
-- [[網球場]] — tennis court
-- [[足球]] — football
-- [[蹴球]] — football (ball or sport), soccer
-- [[鎧球]] — american football, gridiron football, football
-- [[率先]] — take the lead, be the first to act
-- [[桌球]] — table tennis, ping pong
-- [[台球]] — billiards, pool
-- [[競走]] — race
 
 ## Elements (17)
 - [[五行]] — wu xing
@@ -3662,7 +3533,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[中止]] — to discontinue, to cancel, to call off
 - [[危机]] — crisis, critical juncture
 
-## Existence (166)
+## Existence (170)
 - [[䔥国]] — state of xiao
 - [[一端]] — one aspect, competent
 - [[一般]] — average, common, general, ordinary
@@ -3707,6 +3578,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[否定]] — negation, denial
 - [[呈]] — display, show
 - [[命運]] — fate, destiny, doom
+- [[和敬]] — harmony and respect
+- [[和諧]] — harmonious, harmony
 - [[善良]] — kind, benevolent
 - [[因縁]] — fate, predestined bond, karma
 - [[固有]] — proper
@@ -3719,6 +3592,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[天常]] — natural law
 - [[天生]] — natural, intrinsic
 - [[威力]] — power, might
+- [[嬉遊]] — play, frolic, enjoy oneself
 - [[存在]] — survive, exist
 - [[安定]] — stable, settled
 - [[実際]] — actual, real, in fact
@@ -3812,6 +3686,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[賜予]] — bestowal, grant, gift
 - [[起伏]] — undulate, fluctuate
 - [[趣旨]] — purport, gist, purpose
+- [[遊戯]] — play, game
 - [[運動]] — exercise, sport, movement, campaign
 - [[運命]] — fate, destiny, doom
 - [[運数]] — luck, fortune, fate
@@ -3830,7 +3705,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[類似]] — resemble, similar, analogous
 - [[魔力]] — magical power
 
-## Food (115)
+## Food (116)
 - [[丁香]] — clove
 - [[串]] — skewer
 - [[乳酪]] — dairy products
@@ -3855,6 +3730,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[拌和]] — stir, mix, blend
 - [[摂食]] — feed, ingest
 - [[撹拌]] — stir up, agitate
+- [[新鮮]] — fresh, novel
 - [[明蝦]] — king prawn
 - [[晩飯]] — dinner, supper, evening meal
 - [[暴飲]] — binge drink
@@ -4183,7 +4059,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[高山]] — high mountain, alpine
 - [[黄海]] — yellow sea
 
-## Government (119)
+## Government (120)
 - [[主導]] — lead
 - [[主席]] — chairman, chairperson
 - [[主従]] — master and servant, lord and retainer
@@ -4253,6 +4129,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[授与]] — confer, award, grant
 - [[提携]] — alliance, cooperation, tie-up
 - [[搭乗]] — boarding, embarkation, board, take a conveyance
+- [[支部]] — branch, chapter
 - [[政治]] — politics
 - [[日刊]] — daily publication, daily periodical
 - [[明君]] — wise ruler, enlightened monarch
@@ -4304,7 +4181,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[首領]] — supreme leader, chief
 - [[験]] — check, examine
 
-## Grammar (10)
+## Grammar (11)
 - [[与]] — and, with
 - [[中]] — -ing
 - [[乃]] — but
@@ -4315,8 +4192,9 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[于]] — to
 - [[人人]] — everyone
 - [[人等]] — persons, et al.
+- [[量詞]] — measure word, classifier, counter
 
-## Kinship (65)
+## Kinship (66)
 - [[丈人]] — father-in-law, wife's father
 - [[丈夫]] — husband
 - [[丈母]] — mother-in-law
@@ -4361,6 +4239,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[弟]] — younger brother
 - [[弟弟]] — younger brother
 - [[後裔]] — descendant, posterity
+- [[族譜]] — clan registry, geneology book
 - [[母艦]] — mother ship
 - [[母親]] — mother
 - [[氏族]] — clan
@@ -4383,7 +4262,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[養父]] — adoptive father
 - [[養育]] — foster, raise
 
-## Knowledge (84)
+## Knowledge (87)
 - [[上知]] — those wise from birth, innate wisdom
 - [[主義]] — doctrine, -ism
 - [[了解]] — understand, comprehend, learn
@@ -4400,6 +4279,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[博士]] — doctor (phd)
 - [[参考]] — reference, consult, for reference
 - [[口訣]] — mnemonic formula, secret oral formula
+- [[史学]] — historiography, history (as academic discipline)
 - [[史学者]] — historian
 - [[史籍]] — historical records
 - [[史記]] — records of the great historian
@@ -4432,6 +4312,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[教師]] — teacher, master
 - [[教授]] — teach
 - [[教育]] — education
+- [[文科]] — liberal arts, humanities
 - [[明白]] — clear, obvious, evident
 - [[明瞭]] — apparent, clear
 - [[智慧]] — wisdom, intelligence
@@ -4462,6 +4343,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[解析]] — analyze, analysis
 - [[訂]] — revise, correct
 - [[証拠]] — evidence, proof
+- [[課]] — lesson, chapter
 - [[調査]] — look into, investigate
 - [[賢明]] — wise
 - [[踪影]] — trace, sign
@@ -4591,9 +4473,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[愛情]] — love, affection, romance
 - [[懐抱]] — cherish, embrace
 
-## Measurement (12)
+## Measurement (14)
 - [[丈]] — zhang
 - [[体積]] — volume, capacity, bulk
+- [[公尺]] — meter, metre
 - [[升]] — litre, liter
 - [[容量]] — volume, capacity
 - [[寸]] — inch, measurement
@@ -4601,6 +4484,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[数量]] — amount, weight, measure, quantity
 - [[極度]] — extreme, extreme degree
 - [[浬]] — nautical mile, knot
+- [[測量]] — measure, survey
 - [[精度]] — precision; degree of refinement
 - [[衡量]] — weigh, measure, evaluate
 - [[部隊]] — unit, corp
@@ -4631,7 +4515,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[論理]] — logic
 - [[迷]] — be lost, be confused
 
-## Movement (56)
+## Movement (57)
 - [[上昇]] — ascend
 - [[下降]] — descend, fall
 - [[乗]] — ride
@@ -4651,6 +4535,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[引]] — pull, tug
 - [[彷徨]] — wander
 - [[投]] — throw
+- [[拂]] — shake off, brush off
 - [[拉]] — drag, pull, play a bowed instrument
 - [[捨]] — throw away, discard
 - [[推]] — push
@@ -4689,9 +4574,10 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[飛行]] — fly, flight
 - [[馳]] — run fast, drive quickly
 
-## Nature (9)
+## Nature (10)
 - [[天気]] — weather
 - [[広野]] — wilderness
+- [[景致]] — scenery, scene, view
 - [[晴朗]] — clear, serene, bright, sunny
 - [[暑]] — hot (weather)
 - [[気象]] — weather, meteorology
@@ -4779,7 +4665,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[財産]] — property, wealth
 - [[共有]] — share
 
-## Religion (37)
+## Religion (39)
 - [[乾]] — heavenly
 - [[乾達婆]] — gandharva
 - [[佛]] — buddha
@@ -4789,6 +4675,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[儒学]] — confucianism
 - [[儒家]] — confucianism, ruism
 - [[儒教]] — confucianism
+- [[加持]] — perform incantations, bless
 - [[参拝]] — visit temple, pay respects at a shrine
 - [[和尚]] — abbott, monk
 - [[因果]] — fateful, unlucky, karmic, causal
@@ -4802,6 +4689,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[巫女]] — shrine maiden, miko, shamaness
 - [[方便]] — suitable; convenient (mandarin/cantonese, everyday adjective), expedient means; makeshift solution; upāya (korean/japanese, noun — see note), means; tool; vehicle (vietnamese — see note)
 - [[枢机卿]] — cardinal
+- [[法術]] — magic, magic arts
 - [[混沌]] — hundun, primordial chaos
 - [[瞻仰]] — look up to with reverence, pay homage to
 - [[祈祷]] — pray
@@ -4894,7 +4782,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[慈善]] — charity, benevolence
 - [[正大]] — proper, legitimate, honest
 
-## Society (35)
+## Society (36)
 - [[乞]] — beg
 - [[乞丐]] — beggar
 - [[交友]] — make friends
@@ -4929,6 +4817,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[紳士]] — gentleman
 - [[習俗]] — custom, mores, convention, cultural practices
 - [[花魁]] — oiran, leading courtesan
+- [[跆籍]] — taekwondo registration, martial arts membership record
 - [[陪]] — accompany, be with, keep company
 
 ## Speech (60)
@@ -4993,7 +4882,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
 
-## Substances (27)
+## Substances (28)
 - [[乳液]] — lotion, emulsion, moisturizer
 - [[埋葬]] — bury, inter, consign ashes
 - [[塵埃]] — dust, dirt
@@ -5019,6 +4908,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[石頭]] — stone, rock
 - [[粉]] — powder
 - [[芳香族]] — aromatic compounds
+- [[薄膜]] — membrane, thin film
 - [[鹸]] — base, alkali
 - [[黄沙]] — yellow sand, asian dust
 
@@ -5053,29 +4943,29 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[過去]] — past
 - [[間或]] — sometimes, occasionally, now and then
 
-## Tools (19)
-
+## Tools (20)
+- [[厉]] — whetstone
 - [[固執]] — stubborn, stick to
 - [[工具]] — tool, instrument, implement
 - [[斧子]] — axe, hatchet
 - [[机器]] — machine, machinery
 - [[机械]] — machine, machinery
+- [[柄]] — design, handle
 - [[棍棒]] — stick, bludgeon
 - [[槌]] — hammer
 - [[瑟]] — se (instrument)
+- [[矩]] — moment (physics), carpenter's square, quadrature
+- [[砥石]] — whetstone, grindstone
 - [[穿]] — penetrate, pierce, drill
 - [[穿孔机]] — puncher, perforator, boring machine
 - [[耕種]] — plow, sow, cultivate
 - [[装置]] — equipment, device
 - [[貼]] — paste on, stick to, attach
-- [[鋸]] — saw
 - [[鈍]] — dull, not sharp
+- [[鋸]] — saw
 - [[鎖]] — chain
-- [[厉]] — whetstone
-- [[砥石]] — whetstone, grindstone
-- [[矩]] — moment (physics), carpenter's square, quadrature
 
-## Trade (37)
+## Trade (38)
 - [[三菱]] — mitsubishi
 - [[企業]] — enterprise, firm
 - [[供給]] — supply, furnish
@@ -5093,6 +4983,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[商業]] — commerce, trade
 - [[報償]] — compensate, pay reparations to
 - [[安価]] — cheap, inexpensive, crappy
+- [[帳簿]] — account book, ledger
 - [[扱]] — handle, deal with
 - [[支付]] — pay
 - [[新品]] — new products, new arrivals
@@ -5164,14 +5055,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[鑑定]] — appraise, authenticate, expert assessment
 - [[隆]] — prosperous, plentiful, abundant
 
-## War (24)
-
+## War (25)
 - [[伍]] — troops
 - [[伏]] — crouch, prostrate, surrender
 - [[侵入]] — to invade, to trespass, to intrude
 - [[侵略]] — invade
 - [[兵卒]] — private, soldier, trooper
 - [[兵士]] — soldier
+- [[兵法]] — art of war, tactics
 - [[喊声]] — shout, battle cry, war cry
 - [[大砲]] — canon, gun
 - [[孤軍]] — isolated army, lone forces
@@ -5191,7 +5082,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Water (59)
+## Water (60)
 - [[乗船]] — board a ship, embark
 - [[乾浄]] — clean, neat, tidy
 - [[乾溜]] — dry distillation, pyrolysis
@@ -5217,6 +5108,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[氷水]] — ice water
 - [[氾濫]] — flood, inundate
 - [[汎濫]] — flood, overflow
+- [[汲]] — draw water
 - [[沈没]] — to sink, to founder, sinking
 - [[没]] — drown, sink
 - [[洗]] — wash, rinse
@@ -5252,12 +5144,14 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[蒸汽]] — steam, vapor
 - [[鞠躬]] — bow, to bow respectfully
 
-## Work (28)
-
+## Work (31)
+- [[乗務]] — crew duty, serve as crew
 - [[作業]] — work, operate, task
 - [[使用]] — use, utilize, employ
 - [[修理]] — repair, mend
 - [[修繕]] — repair, mend, renovate
+- [[分掌]] — to divide work duties, division of responsibilities
+- [[副業]] — side job, second job
 - [[実用]] — practical, utilitarian
 - [[建築]] — build
 - [[建設]] — establish, build
@@ -5267,25 +5161,25 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[提供]] — to offer, to supply, to provide
 - [[構築]] — construct, build
 - [[確定]] — fix, establish
+- [[缺勤]] — absence from work, to be absent from duty
 - [[耐]] — able to tolerate, able to endure, resistant
 - [[職業]] — career, job, profession
+- [[苦役]] — hard labor, forced labor, drudgery
 - [[術]] — skill, method, technique
 - [[製作]] — make, manufacture, produce
+- [[計画]] — plan, schedule, measure
+- [[設計]] — plan, design
 - [[調整]] — adjust, transfer
 - [[辛苦]] — work hard, toil
+- [[辞令]] — letter of dismissal, letter of resignation
 - [[退職]] — retire, resign
+- [[週番]] — weekly duty
 - [[雇員]] — employee
 - [[雇用]] — employment, hire
-- [[乗務]] — crew duty, serve as crew
-- [[苦役]] — hard labor, forced labor, drudgery
-- [[缺勤]] — absence from work, to be absent from duty
-- [[週番]] — weekly duty
-- [[分掌]] — to divide work duties, division of responsibilities
-- [[副業]] — side job, second job
 
-## 歴史綱要 (4)
-
+## 歴史綱要 (5)
+- [[五代十国]] — five dynasties and ten kingdoms
 - [[北部]] — north, northern area
 - [[奈良]] — nara
+- [[宋朝]] — song dynasty
 - [[魏晋]] — wei and jin dynasties discussed together
-- [[五代十国]] — five dynasties and ten kingdoms
