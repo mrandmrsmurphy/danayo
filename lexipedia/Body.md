@@ -2,69 +2,108 @@
 language: English
 ---
 
-- arm  - <ruby>腕<rt>완</rt></ruby>
-- back - <ruby>背<rt>뵈</rt></ruby>
-- body - <ruby>身体<rt>신테</rt></ruby>
-- breast - <ruby>乳房<rt>누방</rt></ruby>
-- chest/thorax - <ruby>胸部<rt>횽봇</rt></ruby>
-- finger - <ruby>手指<rt>슈즤</rt></ruby>
-- fist - <ruby>拳骨<rt>권곧</rt></ruby>
-- foot  - <ruby>足<rt>족</rt></ruby>
-- hand - <ruby>手<rt>슈</rt></ruby>
-- knee - <ruby>膝<rt>싣</rt></ruby>
-- leg - <ruby>脚<rt>갹</rt></ruby>
-- limb - <ruby>肢体<rt>저테</rt></ruby>
-- shoulder - <ruby>肩<rt>건</rt></ruby>
-- skin - <ruby>皮膚<rt>ㄅㄧㄆㄨ</rt></ruby>
-
-- nipple - <ruby>乳頭<rt>nudou</rt></ruby>; navel - <ruby>𦜝<rt>jei</rt></ruby>; waist - <ruby>腰部<rt>'youbou</rt></ruby>; hip (bone) - <ruby>腰骨<rt>'yougot</rt></ruby>; abdomen - <ruby>腹部<rt>bukbou</rt></ruby> 
-- thumb/big toe - <ruby>大指<rt>ㄉㄚㄨㄐㄧㄜ</rt></ruby>; knuckle - <ruby>指関節<rt>jiǝgwamjet</rt></ruby>; palm - <ruby>手掌<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>; elbow - <ruby>肘<rt>ㄐㄨㄇ</rt></ruby> 
-- thigh - <ruby>大腿<rt>ㄉㄚㄧㄊㄛㄧ</rt></ruby>; calf - <ruby>脹脛<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>, heel - <ruby>踵骨<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>, sole - <ruby>足裏<rt>ㄐㄛㄎㄌㄧ</rt></ruby>, toe <ruby>足指<rt>ㄐㄛㄎㄌㄧㄜ</rt></ruby>
-- vulva - <ruby>[陰門](words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>; vagina - <ruby>陰道<rt>ㄧㄇㄉㄚㄨ</rt></ruby>; clitoris - <ruby>陰核<rt>ㄧㄇㄏㄚㄎ</rt></ruby>; penis - <ruby>陰茎<rt>ㄧㄇㄏㄚㄫ</rt></ruby> ; testicle - <ruby>睾丸<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby> or <ruby>精巣<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>; anus - <ruby>肛門<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
+- arm - <ruby>[腕](../words/腕.md)<rt>⺢ㄋ</rt></ruby>
+- back - <ruby>[背](../words/背.md)<rt>ㄅㄛㄧ</rt></ruby>
+- body - <ruby>[身体](../words/身体.md)<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>
+- breast - <ruby>[乳房](../words/乳房.md)<rt>ㄋㄨㄅㄚㄫ</rt></ruby>
+- chest/thorax - <ruby>[胸部](../words/胸部.md)<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby>
+- finger - <ruby>[手指](../words/手指.md)<rt>ㄙ⼜ㄐㄧㄜ</rt></ruby>
+- fist - <ruby>[拳骨](../words/拳骨.md)<rt>ㄍ⼔ㄋㄍㄛㄊ</rt></ruby>
+- foot - <ruby>[足](../words/足.md)<rt>ㄐㄛㄎ</rt></ruby>
+- hand - <ruby>[手](../words/手.md)<rt>ㄙ⼜</rt></ruby>
+- knee - <ruby>[膝](../characters/膝.md)<rt>ㄙㄜㄊ</rt></ruby>
+- leg - <ruby>[脚](../words/脚.md)<rt>ㄍ⼘ㄎ</rt></ruby>
+- limb - <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝㄊㄝㄧ</rt></ruby>
+- shoulder - <ruby>[肩](../words/肩.md)<rt>ㄍㄝㄋ</rt></ruby>
+- skin - <ruby>[皮膚](../words/皮膚.md)<rt>ㄅㄧㄈㄜ</rt></ruby>
+- nipple - <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨㄊㄛㄨ</rt></ruby>
+- navel - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>
+- waist - <ruby>[腰部](../words/腰部.md)<rt>⼄ㄨㄅㄛㄨ</rt></ruby>
+- hip (bone) - <ruby>[腰骨](../words/腰骨.md)<rt>⼄ㄨㄍㄛㄊ</rt></ruby>
+- abdomen - <ruby>[腹部](../words/腹部.md)<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby>
+- thumb/big toe - <ruby>[大指](../words/大指.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>
+- knuckle - <ruby>[指関節](../words/指関節.md)<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby>
+- palm - <ruby>[手掌](../words/手掌.md)<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>
+- elbow - <ruby>[肘](../words/肘.md)<rt>ㄐㄨㄇ</rt></ruby>
+- thigh - <ruby>[大腿](../words/大腿.md)<rt>ㄉㄚㄧㄊㄧㄜ</rt></ruby>
+- calf - <ruby>[脹脛](../words/脹脛.md)<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>
+- heel - <ruby>[踵骨](../words/踵骨.md)<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>
+- sole - <ruby>[足裏](../words/足裏.md)<rt>ㄐㄛㄎㄌㄧ</rt></ruby>
+- toe - <ruby>[足指](../words/足指.md)<rt>ㄐㄛㄎㄐㄧㄜ</rt></ruby>
+- vulva - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>
+- vagina - <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>
+- clitoris - <ruby>[陰核](../words/陰核.md)<rt>ㄧㄇㄏㄚㄎ</rt></ruby>
+- penis - <ruby>[陰茎](../words/陰茎.md)<rt>ㄧㄇㄎㄧㄫ</rt></ruby>
+- testicle - <ruby>[睾丸](../words/睾丸.md)<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby> or <ruby>[精巣](../words/精巣.md)<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>
+- anus - <ruby>[肛門](../words/肛門.md)<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
 
 ## Head
-- cheek - <ruby>頬<rt>ㄍㄝㄆ</rt></ruby>
-- ear - <ruby>耳<rt>ㄋㄧ</rt></ruby>
-- eye - <ruby>目<rt>ㄇㄨㄎ</rt></ruby>
-- face - <ruby>顔面<rt>'anmyen</rt></ruby>
-- forehead - <ruby>額頭<rt>'akdou</rt></ruby>
-- hair - <ruby>頭髪<rt>doupat</rt></ruby>
-- head - <ruby>頭<rt>dou</rt></ruby>
-- lip - <ruby>唇<rt>sun</rt></ruby>
-- mouth - <ruby>口<rt>kou</rt></ruby>
-- neck - <ruby>頸<rt>ging</rt></ruby>
-- nose - <ruby>鼻<rt>bi</rt></ruby>
-- throat  - <ruby>咽喉<rt>'enhou</rt></ruby>
-- tongue - <ruby>舌<rt>set</rt></ruby>
-- tooth - <ruby>歯<rt>ci</rt></ruby>
+- cheek - <ruby>[頬](../words/頬.md)<rt>ㄍㄝㄆ</rt></ruby>
+- ear - <ruby>[耳](../words/耳.md)<rt>ㄋㄧ</rt></ruby>
+- eye - <ruby>[目](../words/目.md)<rt>ㄇㄨㄎ</rt></ruby>
+- face - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>
+- forehead - <ruby>[額頭](../words/額頭.md)<rt>ㄚㄎㄊㄛㄨ</rt></ruby>
+- hair - <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby>
+- head - <ruby>[頭](../words/頭.md)<rt>ㄊㄛㄨ</rt></ruby>
+- lip - <ruby>[唇](../words/唇.md)<rt>ㄙㄨㄋ</rt></ruby>
+- mouth - <ruby>[口](../words/口.md)<rt>ㄎㄛㄨ</rt></ruby>
+- neck - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>
+- nose - <ruby>[鼻](../words/鼻.md)<rt>ㄅㄧ</rt></ruby>
+- throat - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>
+- tongue - <ruby>[舌](../words/舌.md)<rt>ㄙㄝㄊ</rt></ruby>
+- tooth - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>
 
-chin; jaw; beard; moustache ; eyelash; bald ; shave
+- chin
+- jaw
+- beard
+- moustache
+- eyelash
+- bald
+- shave
 
-## Animals 
-- claw - <ruby>爪<rt>cau</rt></ruby>
-- egg - <ruby>卵子<rt>lanji</rt></ruby>
-- fur - <ruby>毛<rt>mau</rt></ruby>
-- hide - <ruby>皮革<rt>bigak</rt></ruby>
-- scale - <ruby>鱗<rt>lim</rt></ruby>
-- tail - <ruby>尾<rt>mui</rt></ruby>
-- wing - <ruby>羽翼<rt>'u'ik</rt></ruby>
+## Animals
+- claw - <ruby>[爪](../words/爪.md)<rt>ㄐ⺢ㄨ</rt></ruby>
+- egg - <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby>
+- fur - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby>
+- hide - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>
+- scale - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>
+- tail - <ruby>[尾](../words/尾.md)<rt>ㄇㄨㄧ</rt></ruby>
+- wing - <ruby>[羽翼](../words/羽翼.md)<rt>ㄨㄧㄎ</rt></ruby>
+- bill/beak - <ruby>[鳥嘴](../words/鳥嘴.md)<rt>ㄑㄛㄨㄑㄨㄧ</rt></ruby>
+- feather - <ruby>[羽毛](../words/羽毛.md)<rt>ㄨㄇㄚㄨ</rt></ruby>
+- fin - <ruby>[鰭](../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby>
+- hoof - <ruby>[蹄](../words/蹄.md)<rt>ㄉㄝㄧ</rt></ruby>
+- horn - <ruby>[角](../words/角.md)<rt>ㄍㄛㄎ</rt></ruby>
+- mane - <ruby>[鬣](../words/鬣.md)<rt>ㄌㄛㄆ</rt></ruby>
+- tusk - <ruby>[長牙](../words/長牙.md)<rt>ㄐㄚㄫ·ㄚ</rt></ruby>
 
-bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau</rt></ruby>, fin - <ruby>鰭<rt>giǝ</rt></ruby>, hoof - <ruby>蹄<rt>dei</rt></ruby>, horn - <ruby>角<rt>gok</rt></ruby>, mane - <ruby>鬣<rt>lop</rt></ruby>, tusk - <ruby>長牙<rt>jang'a</rt></ruby>
-
-## Organ 
-- blood - <ruby>血<rt>hwet</rt></ruby>
-- bone - <ruby>骨<rt>got</rt></ruby>
-- fat - <ruby>脂肪<rt>jiǝpang</rt></ruby>
-- heart - <ruby>心臓<rt>simjang</rt></ruby>
-- muscle - <ruby>筋肉<rt>ginnuk</rt></ruby>
-- shit - <ruby>大便<rt>daibyen</rt></ruby>
-- stomach - <ruby>腹<rt>buk</rt></ruby>
-- sweat - <ruby>汗<rt>han</rt></ruby>
-- tear - <ruby>涙<rt>lui</rt></ruby>
-
-- liver - <ruby>肝臓<rt>ganjang</rt></ruby>, lungs - <ruby>肺<rt>pye</rt></ruby>, womb - <ruby>子宮<rt>jigung</rt></ruby>, kidney - <ruby>腎臓<rt>sinjang</rt></ruby>, brain - <ruby>脳<rt>nau</rt></ruby>, intestines - <ruby>腸管<rt>canggwen</rt></ruby>
-- skeleton - <ruby>[[骨格]]<rt>곧각</rt></ruby>/<ruby>骸骨<rt>hyegot</rt></ruby>, skull - <ruby>頭骨<rt>dougot</rt></ruby>, rib - <ruby>肋骨<rt>lukgot</rt></ruby>, spine - <ruby>背骨<rt>boigot</rt></ruby>, pelvis - <ruby>骨盤<rt>gotban</rt></ruby>
-- spit - [[唾液]], snot - <ruby>鼻水<rt>bisui</rt></ruby>, urine - <ruby>尿<rt>nau</rt></ruby>, semen - [[精液]], fart - <ruby>屁<rt>piǝ</rt></ruby>, menstruation - <ruby>月経<rt>'wetgeng</rt></ruby>
+## Organ
+- blood - <ruby>[血](../words/血.md)<rt>ㄏ⼔ㄊ</rt></ruby>
+- bone - <ruby>[骨](../words/骨.md)<rt>ㄍㄛㄊ</rt></ruby>
+- fat - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>
+- heart - <ruby>[心臓](../words/心臓.md)<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby>
+- muscle - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>
+- shit - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>
+- stomach - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>
+- sweat - <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>
+- tear - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>
+- liver - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>
+- lungs - <ruby>[肺](../characters/肺.md)<rt>ㄈㄝ</rt></ruby>
+- womb - <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>
+- kidney - <ruby>[腎臓](../words/腎臓.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>
+- brain - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>
+- intestines - <ruby>[腸管](../words/腸管.md)<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>
+- skeleton - <ruby>[骨格](../words/骨格.md)<rt>ㄍㄛㄊㄍㄚㄎ</rt></ruby> or <ruby>[骸骨](../words/骸骨.md)<rt>ㄏ⼶ㄍㄛㄊ</rt></ruby>
+- skull - <ruby>[頭骨](../words/頭骨.md)<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby>
+- rib - <ruby>[肋骨](../words/肋骨.md)<rt>ㄌㄜㄎㄍㄛㄊ</rt></ruby>
+- spine - <ruby>[背骨](../words/背骨.md)<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby>
+- pelvis - <ruby>[骨盤](../words/骨盤.md)<rt>ㄍㄛㄊㄅㄚㄋ</rt></ruby>
+- spit - <ruby>[唾液](../words/唾液.md)<rt>ㄊㄚ⼶ㄎ</rt></ruby>
+- snot - <ruby>[鼻水](../words/鼻水.md)<rt>ㄅㄧㄙㄨ</rt></ruby>
+- urine - <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>
+- semen - <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>
+- fart - <ruby>[屁](../words/屁.md)<rt>ㄆㄧㄜ</rt></ruby>
+- menstruation - <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>
 
 ## Actions
 - feel
@@ -101,7 +140,18 @@ bill/beak - <ruby>鳥嘴<rt>coucui</rt></ruby>, feather - <ruby>羽毛<rt>'umau<
 - sigh
 - smile
 - swallow
-- yawn, bite, chew, sneeze, drool, choke, vomit, cough, suck, spit, whistle, snore
+- yawn
+- bite
+- chew
+- sneeze
+- drool
+- choke
+- vomit
+- cough
+- suck
+- spit
+- whistle
+- snore
 
 ## Drives
 - wake
