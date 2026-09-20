@@ -38,7 +38,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- clean - <ruby>[[清潔]]<rt>ㄑㄧㄫㄍㄝㄊ</rt></ruby>
 	- wrong - <ruby>[[弊]]<rt>ㄆㄝㄧ</rt></ruby>
 	- rough - <ruby>[[苦渋]]<rt>ㄎㄛㄙㄧㄆ</rt></ruby>
-	- crooked ... [[../words/弯曲]]
+	- crooked - <ruby>[[弯曲]]<rt>⺢ㄇㄎ⼄ㄎ</rt></ruby>
 - Emotions :
 	- glad - <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby>
 	- happy - <ruby>[[歓喜]]<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>
@@ -53,23 +53,23 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
 	- foolish
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
-	- sick
+	- sick *(needs a word)*
 - Value :
 	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
 	- interesting *(needs a word)*
-	- boring
-	- wonderful
+	- boring *(needs a word)*
+	- wonderful *(needs a word)*
 	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 - Abstractions :
-	- funny
+	- funny *(needs a word)*
 	- easy - <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby>
 	- difficult - <ruby>[[困難]]<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>
-	- alone
+	- alone - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>
 	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
-	- normal
-	- special
+	- normal *(needs a word)*
+	- special - <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>
 	- probable
-	- secret
+	- secret - <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>
 
 ## Nouns
 - Natural substances
@@ -121,7 +121,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Plants :
 	- grain - <ruby>[[穀物]]<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>
 	- bread - <ruby>[[麺包]]<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>
-	- branch
+	- branch - <ruby>[[支部]]<rt>ㄐㄝㄅㄛㄨ</rt></ruby>
 - People :
 	- girl - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby>
 	- boy - <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>
@@ -167,119 +167,119 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- school - <ruby>[[学校]]<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 	- university - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 	- class *(needs a word — [[等級]] "grade, ranking" is a false friend, not a school class)*
-	- lesson
+	- lesson - <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby>
 	- teacher - <ruby>[[教師]]<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>
 	- test - <ruby>[[試験]]<rt>ㄙㄧ·ㄝㄇ</rt></ruby>
 - Dining :
 	- food - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>
-	- lunch
-	- dinner
+	- lunch - <ruby>[[午餐]]<rt>ㄛㄑㄚㄋ</rt></ruby>
+	- dinner - <ruby>[[正餐]]<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>
 	- wine *(needs a word — closest is [[醇酒]] "fine wine," but no plain "wine"; 葡萄酒 could be built from existing [[葡]]/[[萄]]/[[酒]] characters)*
-	- milk
+	- milk - <ruby>[[牛乳]]<rt>ㄋ⼜ㄋㄨ</rt></ruby>
 - Clothing :
-	- clothes
-	- pants
-	- dress
-	- shoe
-	- hat
+	- clothes - <ruby>[[衣服]]<rt>ㄧㄜㄅㄨㄎ</rt></ruby>
+	- pants - <ruby>[[袴]]<rt>ㄎㄛ</rt></ruby>
+	- dress - <ruby>[[服装]]<rt>ㄅㄨㄎㄐ⺢ㄫ</rt></ruby>
+	- shoe - <ruby>[[鞋]]<rt>ㄏ⼘ㄧ</rt></ruby>
+	- hat - <ruby>[[帽子]]<rt>ㄇㄚㄨㄐㄜ</rt></ruby>
 - Technology :
-	- machine
-	- tool
-	- boat
-	- clock
-	- key
-	- net
-	- wagon
-	- wheel
-	- wire
+	- machine - <ruby>[[机器]]<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby>
+	- tool - <ruby>[[工具]]<rt>ㄍㄛㄫㄍㄨ</rt></ruby>
+	- boat - <ruby>[[船舶]]<rt>ㄙ⼔ㄇㄅㄚㄎ</rt></ruby>
+	- clock - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
+	- key - <ruby>[[鍵]]<rt>ㄍ⼶ㄋ</rt></ruby>
+	- net - <ruby>[[網]]<rt>ㄇㄚㄫ</rt></ruby>
+	- wagon *(needs a word)*
+	- wheel - <ruby>[[輪]]<rt>ㄌㄨㄋ</rt></ruby>
+	- wire *(needs a word)*
 - Containers :
-	- box
-	- bag
-	- bottle
-	- cup
+	- box - <ruby>[[箱]]<rt>ㄙㄚㄫ</rt></ruby>
+	- bag - <ruby>[[袋]]<rt>ㄉㄚㄧ</rt></ruby>
+	- bottle - <ruby>[[瓶]]<rt>ㄅㄝㄫ</rt></ruby>
+	- cup - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby>
 	- plate
-	- knife
+	- knife - <ruby>[[刀剣]]<rt>ㄊㄚㄨㄍㄛㄇ</rt></ruby>
 - Avocations :
-	- music
-	- art
-	- science
-	- vacation
-	- picture
-	- game
+	- music - <ruby>[[音楽]]<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
+	- art - <ruby>[[芸術]]<rt>ㄝㄙㄨㄊ</rt></ruby>
+	- science - <ruby>[[科学]]<rt>ㄎ⺢ㄏㄚㄎ</rt></ruby>
+	- vacation - <ruby>[[休暇]]<rt>ㄏ⼜ㄏㄚ</rt></ruby>
+	- picture - <ruby>[[図画]]<rt>ㄉㄛㄏ⺢ㄎ</rt></ruby>
+	- game - <ruby>[[遊戯]]<rt>⼜ㄛㄏㄨㄧ</rt></ruby>
 - Language :
-	- word
-	- book
-	- pen
-	- paper
-	- page
+	- word *(needs a word)*
+	- book - <ruby>[[書本]]<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby>
+	- pen - <ruby>[[筆]]<rt>ㄆㄨㄊ</rt></ruby>
+	- paper - <ruby>[[紙]]<rt>ㄐㄝ</rt></ruby>
+	- page - <ruby>[[頁]]<rt>ㄏㄝㄊ</rt></ruby>
 - Abstract :
-	- idea
-	- message
-	- story
-	- symbol
-	- example
+	- idea - <ruby>[[思想]]<rt>ㄙㄚㄙㄚㄫ</rt></ruby>
+	- message - <ruby>[[消息]]<rt>ㄙ⼄ㄨㄙㄧㄎ</rt></ruby>
+	- story - <ruby>[[故事]]<rt>ㄍㄛㄐㄧ</rt></ruby>
+	- symbol - <ruby>[[標識]]<rt>ㄅ⼄ㄙㄧㄎ</rt></ruby>
+	- example - <ruby>[[実例]]<rt>ㄙㄧㄊㄌㄝ</rt></ruby>
 - Analysis :
-	- system
-	- list
-	- event
-	- reason
-	- fact
-	- space
-	- time
-	- map
+	- system - <ruby>[[制度]]<rt>ㄐㄝㄧㄉㄛ</rt></ruby>
+	- list - <ruby>[[書籍]]<rt>ㄙ⼄ㄐㄝㄎ</rt></ruby>
+	- event - <ruby>[[事件]]<rt>ㄐㄧㄍ⼶ㄋ</rt></ruby>
+	- reason - <ruby>[[原因]]<rt>⼔ㄋㄧㄋ</rt></ruby>
+	- fact - <ruby>[[事実]]<rt>ㄐㄧㄙㄧㄊ</rt></ruby>
+	- space *(needs a word)*
+	- time - <ruby>[[期]]<rt>ㄎㄧ</rt></ruby>
+	- map - <ruby>[[地図]]<rt>ㄉㄧㄜㄉㄛ</rt></ruby>
 - Money :
 	- money - <ruby>[[金銭]]<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>
-	- price
-	- worth
-	- debt
-	- shop
+	- price - <ruby>[[価格]]<rt>ㄍㄚㄍㄚㄎ</rt></ruby>
+	- worth - <ruby>[[価値]]<rt>ㄍㄚㄉㄧ</rt></ruby>
+	- debt - <ruby>[[負債]]<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>
+	- shop - <ruby>[[商店]]<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>
 - Respect :
-	- honor
-	- shame
+	- honor - <ruby>[[名誉]]<rt>ㄇㄧㄫ⼄</rt></ruby>
+	- shame - <ruby>[[羞恥]]<rt>ㄙㄨㄛㄑㄧ</rt></ruby>
 - Politics :
 	- war - <ruby>[[戦争]]<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>
-	- peace
-	- sword
+	- peace - <ruby>[[太平]]<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>
+	- sword - <ruby>[[剣]]<rt>ㄍㄛㄇ</rt></ruby>
 	- government - <ruby>[[政府]]<rt>ㄐㄧㄫㄆㄨ</rt></ruby>
 	- law - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
-	- council
-	- tax
-	- prison
-	- minister
+	- council *(needs a word)*
+	- tax - <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby>
+	- prison - <ruby>[[監獄]]<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby>
+	- minister - <ruby>[[大臣]]<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby>
 
 ## Verbs
 - Life and Death :
-	- be
-	- seem
-	- born
+	- be *(needs a word)*
+	- seem *(needs a word)*
+	- born *(needs a word)*
 - Everyday :
 	- work - <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>
-	- wake
+	- wake *(needs a word)*
 	- dream - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby>
 	- cook - <ruby>[[炊]]<rt>ㄑㄨㄧ</rt></ruby>
 	- use - <ruby>[[使用]]<rt>ㄙㄧ·⼄ㄫ</rt></ruby>
 	- grow - <ruby>[[栽培]]<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>
 - Writing :
-	- write
+	- write *(needs a word)*
 	- read - <ruby>[[読書]]<rt>ㄉㄛㄎㄙ⼄</rt></ruby>
 	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ⼶ㄎ</rt></ruby>
 	- create - <ruby>[[創造]]<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>
 	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄧㄆ</rt></ruby>
-	- learn
+	- learn - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>
 	- copy *(needs a word — [[稿]] means "manuscript, draft," not "copy" of something)*
 - Affection :
 	- love - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby>
 	- hate - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby>
 	- like - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby>
-	- care
+	- care *(needs a word)*
 	- want - <ruby>[[願意]]<rt>⼔ㄋㄜ</rt></ruby>
-	- wish
+	- wish *(needs a word distinct from [[願意]]/[[希望]])*
 	- marry - <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>
 - Knowledge :
 	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
 	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>
 	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby>
-	- expect
+	- expect *(needs a word)*
 	- remember - <ruby>[[記憶]]<rt>ㄍㄧ·ㄧㄎ</rt></ruby>
 	- forget - <ruby>[[忘却]]<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>
 - Emotions :
@@ -289,7 +289,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- surprise
 - Modals :
 	- can - <ruby>[[可]]<rt>ㄎㄜ</rt></ruby>
-	- must
+	- must *(needs a word)*
 	- should - <ruby>[[該]]<rt>ㄍㄛㄧ</rt></ruby>
 - Aspect :
 	- begin - <ruby>[[開始]]<rt>ㄎㄚㄧㄙㄧ</rt></ruby>
@@ -297,73 +297,73 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- intend to do
 	- habitually do
 - Abstractions :
-	- cause
-	- mean
-	- measure
-	- place
+	- cause - <ruby>[[縁故]]<rt>⼶ㄋㄍㄛ</rt></ruby>
+	- mean - <ruby>[[意味]]<rt>ㄜㄇㄨㄧ</rt></ruby>
+	- measure - <ruby>[[測量]]<rt>ㄑㄜㄎㄌ⼘ㄫ</rt></ruby>
+	- place - <ruby>[[位置]]<rt>⼔ㄧㄑㄧ</rt></ruby>
 - Shapes :
-	- square
-	- circle
-	- line
-	- edge
-	- side
+	- square - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby>
+	- circle - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>
+	- line - <ruby>[[縄]]<rt>ㄙㄜㄫ</rt></ruby>
+	- edge - <ruby>[[辺界]]<rt>ㄅㄝㄋㄍ⼶</rt></ruby>
+	- side - <ruby>[[側面]]<rt>ㄐㄧㄎㄇ⼶ㄋ</rt></ruby>
 - Perceptions :
-	- touch
-	- taste
+	- touch - <ruby>[[接触]]<rt>ㄐㄛㄆㄑㄛㄎ</rt></ruby>
+	- taste *(needs a word — [[趣味]] means "hobby, aesthetic taste," not the physical/gustatory sense)*
 - Speech Acts :
-	- answer
-	- ask
-	- thank
-	- greet
-	- lie
-	- joke
-	- call
-	- offer
-	- choose
+	- answer - <ruby>[[答]]<rt>ㄉㄚㄆ</rt></ruby>
+	- ask - <ruby>[[質問]]<rt>ㄐㄧㄊㄇㄨㄋ</rt></ruby>
+	- thank - <ruby>[[感謝]]<rt>ㄍㄚㄇㄙ⼘</rt></ruby>
+	- greet *(needs a word)*
+	- lie - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby>
+	- joke *(needs a word)*
+	- call - <ruby>[[呼]]<rt>ㄏㄛ</rt></ruby>
+	- offer *(needs a word)*
+	- choose - <ruby>[[選択]]<rt>ㄙ⼔ㄋㄉㄚㄎ</rt></ruby>
 - Movements :
-	- leave
+	- leave - <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby>
 	- go - <ruby>[[去]]<rt>ㄎ⼄</rt></ruby>
-	- follow
-	- hide
-	- run
+	- follow - <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby>
+	- hide - <ruby>[[隠蔵]]<rt>ㄜㄋㄑㄚㄫ</rt></ruby>
+	- run - <ruby>[[走]]<rt>ㄙㄛㄨ</rt></ruby>
 	- roll
 - Bodily :
-	- dance
-	- kiss
-	- smile
-	- cry
-	- point
+	- dance - <ruby>[[跳舞]]<rt>ㄊㄛㄨㄇㄨ</rt></ruby>
+	- kiss - <ruby>[[接吻]]<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>
+	- smile - <ruby>[[笑]]<rt>ㄙ⼄ㄨ</rt></ruby>
+	- cry - <ruby>[[哭]]<rt>ㄎㄛㄎ</rt></ruby>
+	- point - <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby>
 - Conflict :
 	- annoy
 	- hurt
-	- crime
-	- destroy
-	- trick
+	- crime - <ruby>[[犯罪]]<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby>
+	- destroy - <ruby>[[毀]]<rt>ㄏ⼔ㄧ</rt></ruby>
+	- trick - <ruby>[[秘訣]]<rt>ㄅㄧㄜㄍ⼔ㄊ</rt></ruby>
 - Society :
-	- allow
+	- allow - <ruby>[[許]]<rt>ㄏ⼄</rt></ruby>
 	- meet - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby>
 	- help - <ruby>[[幇助]]<rt>ㄅㄚㄫㄐㄛ</rt></ruby>
 - Manipulations :
-	- put
-	- take
+	- put - <ruby>[[置]]<rt>ㄑㄧ</rt></ruby>
+	- take - <ruby>[[拿捕]]<rt>ㄋㄚㄅㄛ</rt></ruby>
 	- have - <ruby>[[有]]<rt>⼜</rt></ruby>
-	- build
+	- build - <ruby>[[建築]]<rt>ㄍㄝㄋㄐㄨㄎ</rt></ruby>
 	- fold
-	- add
+	- add - <ruby>[[添加]]<rt>ㄊㄝㄇㄍㄚ</rt></ruby>
 - Acquisitions :
 	- buy - <ruby>[[購買]]<rt>ㄍㄛㄨㄇㄚㄧ</rt></ruby>
-	- sell
-	- need
-	- get
-	- lose
-	- search
-	- find
-	- trade
-	- keep
+	- sell - <ruby>[[販売]]<rt>ㄈㄛㄋㄇㄚㄧ</rt></ruby>
+	- need - <ruby>[[需要]]<rt>ㄙㄨ⼄ㄨ</rt></ruby>
+	- get - <ruby>[[獲得]]<rt>ㄏ⺢ㄎㄊㄜㄎ</rt></ruby>
+	- lose - <ruby>[[喪失]]<rt>ㄙㄚㄫㄙㄧㄊ</rt></ruby>
+	- search - <ruby>[[探索]]<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby>
+	- find *(needs a word)*
+	- trade - <ruby>[[貿易]]<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>
+	- keep - <ruby>[[維持]]<rt>⼶ㄧㄉㄧ</rt></ruby>
 - Containers :
-	- open
-	- close
-	- cover
+	- open - <ruby>[[開啓]]<rt>ㄎㄚㄧㄎㄝㄧ</rt></ruby>
+	- close - <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby>
+	- cover - <ruby>[[遮蔽]]<rt>ㄐㄚㄆㄝ</rt></ruby>
 
 ## Grammar
 - Conjunctions :
@@ -377,19 +377,19 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- without
 	- against
 	- on
-	- about
+	- about - <ruby>[[就]]<rt>ㄑ⺢ㄧ</rt></ruby>
 	- behind - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>
 	- across - <ruby>[[亙]]<rt>ㄍㄨㄫ</rt></ruby>
 	- over - <ruby>[[了]]<rt>ㄌ⼘ㄨ</rt></ruby>
 	- under - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
 - Adverbs :
-	- perhaps
-	- indeed
+	- perhaps - <ruby>[[可能]]<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
+	- indeed - <ruby>[[矣]]<rt>⼔</rt></ruby>
 	- thus
 - Time :
 	- now - <ruby>[[現在]]<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>
 	- then - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>
-	- again
+	- again - <ruby>[[再度]]<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
 	- next
 - Degree :
 	- very - <ruby>[[頗]]<rt>fa</rt></ruby>
@@ -413,10 +413,10 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- truck
 	- gasoline - <ruby>[[汽油]]<rt>kiǝ'yu</rt></ruby>
 - Other :
-	- bicycle
-	- railroad
+	- bicycle - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>
+	- railroad - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>
 	- train station
-	- subway
+	- subway - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> *(its own gloss is "tunnel, underpass, subway" — likely the British "pedestrian underpass" sense, not confirmed for "underground train system")*
 	- spaceship - <ruby>[[宇宙船]]<rt>'ujuojwen</rt></ruby>
 - Computer :
 	- computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>

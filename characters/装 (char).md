@@ -58,3 +58,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[装飾]]<rt>ㄐ⺢ㄫㄙㄧㄎ</rt></ruby> "decoration, ornament" (alias: 裝飾)
 - <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package"
 - <ruby>[[鞍装]]<rt>ㄚㄋㄐ⺢ㄫ</rt></ruby> "saddle"
+- <ruby>[[服装]]<rt>ㄅㄨㄎㄐ⺢ㄫ</rt></ruby> "clothing, dress, outfit, costume"

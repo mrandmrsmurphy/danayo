@@ -75,6 +75,7 @@ boundedness: 90
 - <ruby>[[時制]]<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"
 - <ruby>[[時相]]<rt>ㄙㄧㄙㄚㄫ</rt></ruby> "tense-aspect; grammatical aspect"
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
+- <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby> "clock, watch, timepiece"
 
 ## Chengyu
 - <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎㄛ</rt></ruby> "anachronism"
