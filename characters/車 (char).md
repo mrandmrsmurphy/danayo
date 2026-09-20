@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[洗車]]<rt>ㄙㄝㄋㄑㄚ</rt></ruby> "wash a car"
 - <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "hwacha; fire chariot"
 - <ruby>[[車庫]]<rt>ㄑ⺢ㄎㄛ</rt></ruby> "garage"
+- <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"

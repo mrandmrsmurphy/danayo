@@ -49,9 +49,9 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Character :
 	- careful *(needs a word)*
 	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>
-	- smart
+	- smart *(see [[聡明]] under Opposites above)*
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
-	- foolish
+	- foolish *(see [[愚]] under Opposites above)*
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
 	- sick *(needs a word)*
 - Value :
@@ -68,15 +68,15 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
 	- normal *(needs a word)*
 	- special - <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>
-	- probable
+	- probable *(needs a word)*
 	- secret - <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>
 
 ## Nouns
 - Natural substances
-	- air - <ruby>[[空気]]<rt>kongkiǝ</rt></ruby>, 
+	- air - <ruby>[[空気]]<rt>ㄎㄛㄫㄎㄧㄜ</rt></ruby>, 
 	- glass - <ruby>[[璃]]<rt>ㄌㄝ</rt></ruby>, 
 	- iron - <ruby>[[words/鉄]]<rt>ㄊㄝㄊ</rt></ruby>, 
-	- gold - <ruby>[[黄金]]<rt>hwanggim</rt></ruby>, 
+	- gold - <ruby>[[黄金]]<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby>, 
 	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 - Territory : 
 	- nature - <ruby>[[自然]]<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>, 
@@ -392,42 +392,42 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- again - <ruby>[[再度]]<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
 	- next
 - Degree :
-	- very - <ruby>[[頗]]<rt>fa</rt></ruby>
+	- very - <ruby>[[頗]]<rt>ㄈㄚ</rt></ruby>
 	- too - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby>
 	- enough - <ruby>[[充分]]<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>
 
 ## Courtesy
-please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>gamsya</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>bed</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>hwan'yeng</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>gimnid'an</rt></ruby>, yes - <ruby>[[爾]]<rt>ne</rt></ruby>, no - <ruby>[[否]]<rt>fau</rt></ruby>
+please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<rt>ㄍㄚㄇㄙ⼘</rt></ruby> (I thank you), you're welcome - gamsya+<ruby>[[別]]<rt>ㄅㄝㄊ</rt></ruby>, welcome  - <ruby>[[歓迎]]<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>, hello/goodbye = <ruby>[[今日安]]<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>, yes - <ruby>[[爾]]<rt>ㄋㄝ</rt></ruby>, no - <ruby>[[否]]<rt>ㄈㄚㄨ</rt></ruby>
 
 ## Modern
 - Air :
-	- airport - <ruby>[[空港]]<rt>konghong</rt></ruby>
-	- airplane - <ruby>[[../words/飛行机]]<rt>pihanggiǝ</rt></ruby>
+	- airport - <ruby>[[空港]]<rt>ㄎㄛㄫㄏㄛㄫ</rt></ruby>
+	- airplane - <ruby>[[../words/飛行机|飛行机]]<rt>ㄆㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>
 - Cars :
-	- car - <ruby>[[車 (char)]]<rt>cwa</rt></ruby>
-	- bus - '''basü'''
+	- car - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby>
+	- bus - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> *(literally "public vehicle")*
 	- license
 	- gas station
 	- motor
 	- taxi
 	- truck
-	- gasoline - <ruby>[[汽油]]<rt>kiǝ'yu</rt></ruby>
+	- gasoline - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby>
 - Other :
 	- bicycle - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>
 	- railroad - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>
 	- train station
 	- subway - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> *(its own gloss is "tunnel, underpass, subway" — likely the British "pedestrian underpass" sense, not confirmed for "underground train system")*
-	- spaceship - <ruby>[[宇宙船]]<rt>'ujuojwen</rt></ruby>
+	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby>
 - Computer :
-	- computer - <ruby>[[電脳]]<rt>dennau</rt></ruby>
+	- computer - <ruby>[[電脳]]<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>
 	- disk
 	- chip
 	- CPU
 - Accessories :
 	- DVD
 	- hard drive
-	- keyboard - <ruby>[[鍵盤]]<rt>gyenban</rt></ruby>
-	- mouse - <ruby>[[滑鼠]]<rt>hwadsyo</rt></ruby>
+	- keyboard - <ruby>[[鍵盤]]<rt>ㄍ⼶ㄋㄅㄚㄋ</rt></ruby>
+	- mouse - <ruby>[[滑鼠]]<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>
 	- monitor
 - Programs :
 	- program
@@ -435,31 +435,31 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- word processor
 	- compiler
 - Internet :
-	- internet
+	- internet - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby>
 	- email
 	- web
 	- website
 	- download
 	- browser
 	- blog
-	- post
+	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
 	- flame
 	- lurker
 	- newb
-	- chat
+	- chat - <ruby>[[聊]]<rt>ㄌ⼘ㄨ</rt></ruby>
 - Disciplines :
 	- physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>
 	- chemistry - <ruby>[[化学]]<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>
-	- biology - <ruby>[[生物学]]<rt>sangmudhag</rt></ruby>
-	- electricity
-	- magnetism
-	- mathematics - <ruby>[[数学]]<rt>suhag</rt></ruby>
+	- biology - <ruby>[[生物学]]<rt>ㄙㄚㄫㄇㄨㄊㄏㄚㄎ</rt></ruby>
+	- electricity - <ruby>[[電気]]<rt>ㄉㄝㄋㄎㄧㄜ</rt></ruby>
+	- magnetism - <ruby>[[磁性]]<rt>ㄐㄧㄙㄧㄫ</rt></ruby>
+	- mathematics - <ruby>[[数学]]<rt>ㄙㄨㄏㄚㄎ</rt></ruby>
 - Physics
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
 	- energy,
 	- nuclear,
-	- particle,
+	- particle - <ruby>[[粒子]]<rt>ㄌㄨㄆㄐㄜ</rt></ruby>,
 	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
 	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
 	- neutron - [[中性子]]
@@ -467,32 +467,32 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 - Biology :
 	- cell - <ruby>[[細胞]]<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>,
 	- evolution - <ruby>[[進化]]<rt>ㄐㄧㄋㄏ⺢</rt></ruby><ruby>[[事]]<rt>ㄐㄧ</rt></ruby>,
-	- gene
+	- gene - <ruby>[[遺伝子]]<rt>⼶ㄧㄐ⼔ㄋㄐㄜ</rt></ruby>
 - Substance :
-	- plastic
+	- plastic - <ruby>[[塑膠]]<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>
 - Appliance :
 	- stove
-	- sink
+	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
 	- dishwasher
-	- refrigerator
+	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
 	- washer
 	- dryer
-	- furnace
+	- furnace - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby>
 	- AC
 - Film :
 	- camera
 	- film
 	- photo
-	- movie/video
+	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ⼶ㄫ</rt></ruby>
 	- animation
-	- theater
+	- theater - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
 - Recording :
 	- CD
-	- record
+	- record *(needs a word — [[記載]] means "to record, write down," a verb, not a noun for a music/audio recording)*
 	- tape
 	- stereo
 - Weaponry :
-	- gun
+	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
 	- rifle
 	- tank
 	- infantry
@@ -505,25 +505,25 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- scanner
 - Media :
 	- newspaper
-	- magazine
-	- telephone
-	- television
+	- magazine - <ruby>[[雑誌]]<rt>ㄐㄚㄆㄐㄧ</rt></ruby>
+	- telephone - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>
+	- television - <ruby>[[電視]]<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby>
 	- radio
 	- comic
 - Other :
 	- elevator
 	- laser
 	- light bulb
-	- watch
+	- watch - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
 - Measures :
 	- pound
-	- foot
+	- foot - <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby> *(body-part word extended to the unit of length, uncertain if attested that way)*
 	- mile
 	- ounce
 	- cup
 	- gram
 	- kg
-	- meter
+	- meter - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>
 	- km
 	- ml
 	- l
@@ -537,31 +537,31 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- bureaucrat
 	- manager
 - Education :
-	- college
-	- degree
+	- college - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
+	- degree *(needs a word — [[程度]] means "extent, degree" in the abstract sense, not an academic qualification)*
 	- masters
 	- Ph.D
 - Economy :
-	- economy
+	- economy - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>
 	- banknote
 	- credit card
 	- dollar
-	- euro
-	- expenses
-	- income
+	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
+	- expenses - <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>
+	- income - <ruby>[[収入]]<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>
 	- inflation
 	- standard of living
 	- unemployed
 	- union
-	- welfare
+	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
 	- yen
 	- yuan
 	- won
 	- taxes
 - Avocations :
-	- chess
-	- rock
-	- soccer
+	- chess - <ruby>[[将棋]]<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>
+	- rock - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>
+	- soccer - <ruby>[[蹴球]]<rt>ㄑㄨㄎㄍ⼜</rt></ruby>
 	- cigarette
 	- drugs
 - Clothing :
@@ -575,41 +575,41 @@ please - <ruby>[[請]]<rt>cing</rt></ruby> (SFP), thank you - <ruby>[[感謝]]<r
 	- allergy
 	- addict
 	- antibiotics
-	- bacteria
+	- bacteria - <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>
 	- vaccine
-	- virus
+	- virus - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>
 	- vitamin
 - Food :
-	- candy
+	- candy - <ruby>[[果子]]<rt>ㄍ⺢ㄐㄜ</rt></ruby>
 	- hamburger
 	- hot dog
 	- pizza
-	- sushi
+	- sushi - <ruby>[[寿司]]<rt>ㄙ⼜ㄙㄚ</rt></ruby>
 	- taco
-	- tofu - <ruby>[[豆腐]]<rt>doupu</rt></ruby>
+	- tofu - <ruby>[[豆腐]]<rt>ㄉㄛㄨㄆㄨ</rt></ruby>
 	- tomato
 - Belief :
 	- communism
-	- socialism
+	- socialism - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>
 	- fascism
-	- republic
-	- democracy
+	- republic - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby>
+	- democracy - <ruby>[[民主]]<rt>ㄇㄧㄋㄐㄨ</rt></ruby>
 	- Green
 	- human rights
 	- liberal
 	- conservative
 - Position :
-	- president
-	- prime minister
+	- president - <ruby>[[総統]]<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>
+	- prime minister - <ruby>[[宰相]]<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>
 	- representative
 	- parliament
 	- council
 	- dictator
-	- party
+	- party *(needs a word — [[班]] means "group, section," not a political party)*
 - Religions :
-	- Islam
+	- Islam - <ruby>[[回教]]<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>
 	- Judaism
-	- Christianity
+	- Christianity - <ruby>[[基督教]]<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>
 	- Hinduism
 	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
 
@@ -620,9 +620,9 @@ _These are for place names, not the words themselves_
 - Plains :
 	- plain
 	- savannah
-	- meadow
+	- meadow - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>
 	- field
-	- prairie
+	- prairie - <ruby>[[草原]]<rt>ㄑㄚㄨ·⼔ㄋ</rt></ruby>
 - Forest :
 	- forest/woods - [[森]]
 	- grove/copse - [[林 ]]
@@ -630,20 +630,20 @@ _These are for place names, not the words themselves_
 	- hill
 	- down
 	- mountain - [[山 (char)]]
-	- range
+	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
 	- plateau
 	- crest
-	- peak
+	- peak - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>
 - Valley :
-	- valley
+	- valley - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby>
 	- canyon
-	- cliff
+	- cliff - <ruby>[[崖]]<rt>ㄚㄧ</rt></ruby>
 - Harsh :
-	- marsh
-	- swamp
-	- desert
-	- wilderness
-	- jungle
+	- marsh - <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
+	- swamp - <ruby>[[沼沢]]<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>
+	- desert - <ruby>[[沙漠]]<rt>ㄙㄚㄇㄚㄎ</rt></ruby>
+	- wilderness - <ruby>[[広野]]<rt>ㄍ⺢ㄫ·⼘</rt></ruby>
+	- jungle - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>
 - Rivers :
 	- river - [[川]]
 	- stream - [[河]]
@@ -651,11 +651,11 @@ _These are for place names, not the words themselves_
 	- channel
 	- rapids
 	- portage
-	- source
+	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
 	- confluence
 	- delta
-	- bank
-	- waterfall
+	- bank - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby>
+	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
 	- spring
 - Lake :
 	- lake - [[湖]]
@@ -666,8 +666,8 @@ _These are for place names, not the words themselves_
 	- bay - [[湾]]
 	- strait - [[../words/海峡]]
 - Coastline :
-	- coast
-	- beach
+	- coast - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby>
+	- beach - <ruby>[[海辺]]<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>
 	- peninsula - [[半島]]
 	- cape
 	- point
@@ -678,25 +678,25 @@ _These are for place names, not the words themselves_
 - Local :
 	- rock - [[石]]
 	- tree - [[words/木]]
-	- bridge
+	- bridge - <ruby>[[橋梁]]<rt>ㄍ⼘ㄨㄌ⼘ㄫ</rt></ruby>
 	- ford
 	- dam - [[堰堤]]
-	- park
+	- park - <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
 	- oasis
 - Tree :
 	- aspen
-	- birch
-	- cedar
+	- birch - <ruby>[[樺木]]<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby>
+	- cedar - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby>
 	- elm
 	- oak
-	- palm
-	- pine
-	- willow
+	- palm *(needs a word — [[手掌]] means the palm of a hand, not the tree)*
+	- pine - <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby>
+	- willow - <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby>
 ### Human
 - Settlements :
 	- city - [[市]]
 	- town
-	- village
+	- village - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby>
 	- colony
 	- port
 	- market - [[場]]
@@ -705,90 +705,90 @@ _These are for place names, not the words themselves_
 	- fort
 	- castle
 	- wall
-	- camp
+	- camp - <ruby>[[屯]]<rt>ㄉㄨㄋ</rt></ruby>
 - Religion :
 	- shrine
 	- oracle
 	- temple - [[寺]]
-	- church
-	- chapel
+	- church - <ruby>[[教堂]]<rt>ㄍ⼄ㄨㄉㄚㄫ</rt></ruby>
+	- chapel *(same word as church, [[教堂]], covers both senses)*
 	- monastery - [[院]]
 - Other :
 	- mine
 	- inn
 	- stopping-point
 	- post
-	- lodge
+	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>
 	- mill
 	- house
 - Road :
 	- road
 	- highway
 	- trail
-	- way
+	- way - <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby> *(the "method, manner" sense, not necessarily a literal road)*
 ### Adjectives
 - Age:
-	- new - [[新]]
-	- old - [[古]]
+	- new - <ruby>[[新]]<rt>ㄙㄧㄋ</rt></ruby>
+	- old - <ruby>[[古 (char)]]<rt>ㄍㄛ</rt></ruby> *(no independent word yet, character only)*
 - Shapes :
-	- round
-	- flat
-	- wide
-	- narrow
+	- round - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>
+	- flat - <ruby>[[扁平]]<rt>ㄆ⼶ㄋㄅ⼶ㄫ</rt></ruby>
+	- wide - <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby>
+	- narrow - <ruby>[[狭窄]]<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>
 - Locations :
-	- central - [[中]]
-	- upper/high - [[上]]
-	- lower/low - [[下]]
-	- near
-	- far
+	- central - <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby>
+	- upper/high - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby>
+	- lower/low - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
+	- near - <ruby>[[近]]<rt>ㄍㄧㄋ</rt></ruby>
+	- far - <ruby>[[遠]]<rt>ㄛㄋ</rt></ruby>
 - Directions :
-	- north - [[北]]
-	- south - [[南]]
-	- east - [[東]]
-	- west - [[西]]
+	- north - <ruby>[[北 (char)]]<rt>ㄅㄨㄎ</rt></ruby> *(no independent word yet, character only)*
+	- south - <ruby>[[南 (char)]]<rt>ㄋㄚㄇ</rt></ruby> *(no independent word yet, character only)*
+	- east - <ruby>[[東 (char)]]<rt>ㄉㄛㄫ</rt></ruby> *(no independent word yet, character only)*
+	- west - <ruby>[[西 (char)]]<rt>ㄙㄝㄧ</rt></ruby> *(no independent word yet, character only)*
 - Respect :
-	- great/grand - [[太 (char)]]
-	- glorious
-	- noble - [[貴]]
-	- holy - [[聖]]
-	- royal - [[帝]]
+	- great/grand - <ruby>[[太]]<rt>ㄊㄚㄧ</rt></ruby>
+	- glorious - <ruby>[[光栄]]<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby>
+	- noble - <ruby>[[貴 (char)]]<rt>ㄍㄨㄧ</rt></ruby> *(no independent word yet, character only)*
+	- holy - <ruby>[[聖 (char)]]<rt>ㄙㄧㄫ</rt></ruby> *(no independent word yet, character only)*
+	- royal - <ruby>[[帝 (char)]]<rt>ㄊㄝㄧ</rt></ruby> *(no independent word yet, character only)*
 - Salesmanship :
-	- fertile
+	- fertile - <ruby>[[肥沃]]<rt>ㄅㄨㄧㄛㄎ</rt></ruby>
 	- beautiful
 	- lucky
-	- pleasant
-	- quiet
-	- gold - [[words/金]]
-	- silver - [[words/銀]]
-	- jewel
+	- pleasant - <ruby>[[愉快]]<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>
+	- quiet - <ruby>[[安静]]<rt>ㄚㄋㄐㄝㄫ</rt></ruby>
+	- gold - <ruby>[[words/金]]<rt>ㄍㄧㄇ</rt></ruby>
+	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
+	- jewel - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> *(literally "bright moon" — a poetic extension, not a dedicated word for "gem/jewel")*
 - Descriptive :
 	- windy
-	- stinky
+	- stinky - <ruby>[[臭]]<rt>ㄑㄨ</rt></ruby>
 - Color : 
-	- white
+	- white - <ruby>[[白]]<rt>ㄅㄚㄎ</rt></ruby>
 	- black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
-	- green
-	- yellow - [[../words/黄]]
+	- green - <ruby>[[緑]]<rt>ㄌㄛㄎ</rt></ruby>
+	- yellow - <ruby>[[../words/黄]]<rt>ㄏ⺢ㄫ</rt></ruby>
 	- blue
-	- red
+	- red - <ruby>[[紅]]<rt>ㄏㄛㄫ</rt></ruby>
 	- orange
-	- brown
+	- brown - <ruby>[[褐]]<rt>ㄏㄚㄊ</rt></ruby>
 - Water :
 	- fast
 	- slow
-	- clear
-	- muddy
+	- clear *(needs a word — [[明確]] means abstract "clear, unambiguous," not water transparency)*
+	- muddy - <ruby>[[混濁]]<rt>ㄏㄛㄋㄉㄚㄎ</rt></ruby>
 	- noisy
 	- laughing
 	- reedy
 - Animals :
-	- horse - [[馬]]
-	- ox - [[牛]]
-	- lion - [[獅]]
-	- fox - [[狐]]
-	- deer - [[鹿]]
-	- panther - [[虎]]
-	- hawk - [[../words/鷹]]
-	- eagle - [[../words/鵰]]
+	- horse - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby>
+	- ox - <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby>
+	- lion - <ruby>[[獅 (char)]]<rt>ㄙㄧㄜ</rt></ruby> *(no independent word yet, character only)*
+	- fox - <ruby>[[狐 (char)]]<rt>ㄏㄛ</rt></ruby> *(no independent word yet, character only)*
+	- deer - <ruby>[[鹿]]<rt>ㄌㄛㄎ</rt></ruby>
+	- panther - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby>
+	- hawk - <ruby>[[../words/鷹]]<rt>ㄧㄫ</rt></ruby>
+	- eagle - <ruby>[[../words/鵰]]<rt>ㄑㄨㄛ</rt></ruby>
 	- dragon - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby>
-	- ram - [[綿羊]]
+	- ram - <ruby>[[綿羊]]<rt>ㄇ⼶ㄋ⼘ㄫ</rt></ruby>

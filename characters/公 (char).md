@@ -69,6 +69,7 @@ boundedness: 100
 - <ruby>[[公司]]<rt>ㄍㄛㄫㄙㄚ</rt></ruby> "company, firm"
 - <ruby>[[公館]]<rt>ㄍㄛㄫㄍ⺢ㄋ</rt></ruby> "official residence"
 - <ruby>[[蒲公英]]<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby> "dandelion"
+- <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
 
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
