@@ -56,4 +56,4 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[優柔不断]]<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
-- <ruby>[[内柔外剛]]<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> "appearing tough on the outside, house of cards"
+- <ruby>[[内柔外剛]]<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> "gentle-hearted but outwardly firm"

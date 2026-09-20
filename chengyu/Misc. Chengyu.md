@@ -54,7 +54,7 @@ tags:
 - <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> - acting as if no one else were present; brazenly disregarding others
 - <ruby>[光明正大](chengyu/光明正大.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - high principles and sincere
 - <ruby>[公明正大](chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - fair and square, open and aboveboard
-- <ruby>[内柔外剛](chengyu/内柔外剛.md)<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> - appearing tough on the outside
+- <ruby>[内柔外剛](chengyu/内柔外剛.md)<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> - gentle-hearted but outwardly firm
 - <ruby>[刻舟求剣](chengyu/刻舟求剣.md)<rt>ㄎㄨㄎㄐㄨㄍ⼜ㄛㄍㄛㄇ</rt></ruby> - stubbornly cling to tradition, fail to adapt
 - <ruby>[千山萬水](chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> - countless mountains and rivers; a long, arduous journey
 - <ruby>[千差万別](chengyu/千差万別.md)<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> - variegated, manifold diversity
