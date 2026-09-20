@@ -7,8 +7,8 @@ japanese:
   - KI
 japanese_native: お
 vietnamese:
-  - khỉ
   - khởi
+  - khỉ
 middle_chinese_initial: "kʰ"
 middle_chinese_final: "ɨ"
 stroke_count: 10

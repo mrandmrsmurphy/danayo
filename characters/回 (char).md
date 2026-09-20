@@ -8,8 +8,8 @@ japanese:
   - E
 japanese_native: ø
 vietnamese:
-  - hòi
   - hồi
+  - hòi
 middle_chinese_initial: "ɣ"
 middle_chinese_final: "uʌi"
 stroke_count: 6
