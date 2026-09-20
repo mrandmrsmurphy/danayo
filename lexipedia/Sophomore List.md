@@ -115,7 +115,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- pig - <ruby>[豚](/words/豚.md)<rt>ㄊㄨㄋ</rt></ruby>
 	- mouse - <ruby>[小鼠](/words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>
 	- monkey - <ruby>[猿猩](/words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>
-	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧㄜㄐㄧ</rt></ruby>
+	- lion - <ruby>[獅子](/words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>
 	- bug - <ruby>[昆虫](/words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>
 	- wolf - <ruby>[狼](/words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>
 - Plants :
@@ -125,8 +125,8 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - People :
 	- girl - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby>
 	- boy - <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>
-	- girlfriend *(needs a word)*
-	- boyfriend *(needs a word)*
+	- girlfriend - <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> *(Dan'a'yo coinage, disambiguating from [[愛人]])*
+	- boyfriend - <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> *(Dan'a'yo coinage, disambiguating from [[愛人]])*
 	- friend - <ruby>[[朋友]]<rt>ㄅㄨㄫ⼜ㄛ</rt></ruby>
 	- baby - <ruby>[[嬰児]]<rt>ㄧㄫㄝㄧ</rt></ruby>
 - Family :
@@ -784,7 +784,7 @@ _These are for place names, not the words themselves_
 - Animals :
 	- horse - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby>
 	- ox - <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby>
-	- lion - <ruby>[[獅 (char)]]<rt>ㄙㄧㄜ</rt></ruby> *(no independent word yet, character only)*
+	- lion - <ruby>[[獅子]]<rt>ㄙㄧㄜㄐㄜ</rt></ruby>
 	- fox - <ruby>[[狐 (char)]]<rt>ㄏㄛ</rt></ruby> *(no independent word yet, character only)*
 	- deer - <ruby>[[鹿]]<rt>ㄌㄛㄎ</rt></ruby>
 	- panther - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby>

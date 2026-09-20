@@ -53,6 +53,8 @@ boundedness: 80
 ## Words
 - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby> "love" (stand-in for 愛)
 - <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby> "spouse (Mandarin); lover/mistress (varies by language — see word page)"
+- <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> "girlfriend"
+- <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> "boyfriend"
 - <ruby>[[愛媛]]<rt>ㄚㄧ·ㄛㄋ</rt></ruby> "Ehime Prefecture"
 - <ruby>[[可愛]]<rt>ㄎㄜ·ㄚㄧ</rt></ruby> "cute"
 - <ruby>[[恩愛]]<rt>ㄚㄋ·ㄚㄧ</rt></ruby> "love"
