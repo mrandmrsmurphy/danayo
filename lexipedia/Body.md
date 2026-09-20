@@ -8,62 +8,82 @@ language: English
 - breast - <ruby>[乳房](../words/乳房.md)<rt>ㄋㄨㄅㄚㄫ</rt></ruby>
 - chest/thorax - <ruby>[胸部](../words/胸部.md)<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby>
 - finger - <ruby>[手指](../words/手指.md)<rt>ㄙ⼜ㄐㄧㄜ</rt></ruby>
-- fist - <ruby>[拳骨](../words/拳骨.md)<rt>ㄍ⼔ㄋㄍㄛㄊ</rt></ruby>
+- fist - <ruby>[拳骨](../words/拳骨.md)<rt>ㄍ⼔ㄋㄍㄛㄊ</rt></ruby> or <ruby>[拳頭](../words/拳頭.md)<rt>ㄍ⼔ㄋㄊㄛㄨ</rt></ruby>
 - foot - <ruby>[足](../words/足.md)<rt>ㄐㄛㄎ</rt></ruby>
 - hand - <ruby>[手](../words/手.md)<rt>ㄙ⼜</rt></ruby>
-- knee - <ruby>[膝](../characters/膝.md)<rt>ㄙㄜㄊ</rt></ruby>
+- knee - <ruby>[膝蓋](../words/膝蓋.md)<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby>
 - leg - <ruby>[脚](../words/脚.md)<rt>ㄍ⼘ㄎ</rt></ruby>
-- limb - <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝㄊㄝㄧ</rt></ruby>
+- limb - <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝㄊㄝㄧ</rt></ruby> or <ruby>[手足](../words/手足.md)<rt>ㄙ⼜ㄐㄛㄎ</rt></ruby>
 - shoulder - <ruby>[肩](../words/肩.md)<rt>ㄍㄝㄋ</rt></ruby>
-- skin - <ruby>[皮膚](../words/皮膚.md)<rt>ㄅㄧㄈㄜ</rt></ruby>
+- shoulder blade - <ruby>[肩甲骨](../words/肩甲骨.md)<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby>
+- skin - <ruby>[皮膚](../words/皮膚.md)<rt>ㄅㄧㄈㄜ</rt></ruby> or <ruby>[肌膚](../words/肌膚.md)<rt>ㄍㄧㄜㄈㄜ</rt></ruby>
+- skin texture - <ruby>[肌理](../words/肌理.md)<rt>ㄍㄧㄜㄌㄧ</rt></ruby>
+- fat, obese - <ruby>[肥胖](../words/肥胖.md)<rt>ㄅㄨㄧㄅㄚㄋ</rt></ruby>
+- blonde hair, blue eyes - <ruby>[金髪碧眼](../words/金髪碧眼.md)<rt>ㄍㄧㄇㄈㄚㄊㄅ⼶ㄎ·ㄚㄋ</rt></ruby>
 - nipple - <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨㄊㄛㄨ</rt></ruby>
 - navel - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>
 - waist - <ruby>[腰部](../words/腰部.md)<rt>⼄ㄨㄅㄛㄨ</rt></ruby>
 - hip (bone) - <ruby>[腰骨](../words/腰骨.md)<rt>⼄ㄨㄍㄛㄊ</rt></ruby>
+- pubis (bone) - <ruby>[恥骨](../words/恥骨.md)<rt>ㄑㄧㄍㄛㄊ</rt></ruby>
 - abdomen - <ruby>[腹部](../words/腹部.md)<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby>
-- thumb/big toe - <ruby>[大指](../words/大指.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>
+- thumb/big toe - <ruby>[大指](../words/大指.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>, archaic <ruby>[母指](../words/母指.md)<rt>ㄇㄛㄨㄐㄧㄜ</rt></ruby>
+- index finger/first toe - <ruby>[食指](../words/食指.md)<rt>ㄙㄧㄎㄐㄧㄜ</rt></ruby>
+- middle finger/middle toe - <ruby>[中指](../words/中指.md)<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby>
+- ring finger/fourth toe - <ruby>[無名指](../words/無名指.md)<rt>ㄇㄜㄇㄧㄫㄐㄧㄜ</rt></ruby>
+- pinky/little finger/little toe - <ruby>[小指](../words/小指.md)<rt>ㄙㄛㄐㄧㄜ</rt></ruby>
+- fingernail/toenail - <ruby>[指甲](../words/指甲.md)<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>
 - knuckle - <ruby>[指関節](../words/指関節.md)<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby>
+- joint (general) - <ruby>[節](../words/節.md)<rt>ㄐㄝㄊ</rt></ruby>
 - palm - <ruby>[手掌](../words/手掌.md)<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>
 - elbow - <ruby>[肘](../words/肘.md)<rt>ㄐㄨㄇ</rt></ruby>
 - thigh - <ruby>[大腿](../words/大腿.md)<rt>ㄉㄚㄧㄊㄧㄜ</rt></ruby>
 - calf - <ruby>[脹脛](../words/脹脛.md)<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>
+- ankle - <ruby>[脚踝](../words/脚踝.md)<rt>ㄍ⼘ㄎㄏ⺢</rt></ruby>
 - heel - <ruby>[踵骨](../words/踵骨.md)<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>
 - sole - <ruby>[足裏](../words/足裏.md)<rt>ㄐㄛㄎㄌㄧ</rt></ruby>
 - toe - <ruby>[足指](../words/足指.md)<rt>ㄐㄛㄎㄐㄧㄜ</rt></ruby>
+- metatarsal bone - <ruby>[蹠骨](../words/蹠骨.md)<rt>ㄐㄝㄎㄍㄛㄊ</rt></ruby>
 - vulva - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>
 - vagina - <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>
 - clitoris - <ruby>[陰核](../words/陰核.md)<rt>ㄧㄇㄏㄚㄎ</rt></ruby>
 - penis - <ruby>[陰茎](../words/陰茎.md)<rt>ㄧㄇㄎㄧㄫ</rt></ruby>
+- glans penis - <ruby>[亀頭](../words/亀頭.md)<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby>
 - testicle - <ruby>[睾丸](../words/睾丸.md)<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby> or <ruby>[精巣](../words/精巣.md)<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>
 - anus - <ruby>[肛門](../words/肛門.md)<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>
+- buttocks - <ruby>[尻](../words/尻.md)<rt>ㄎㄚㄨ</rt></ruby>
 
 ## Head
 - cheek - <ruby>[頬](../words/頬.md)<rt>ㄍㄝㄆ</rt></ruby>
 - ear - <ruby>[耳](../words/耳.md)<rt>ㄋㄧ</rt></ruby>
+- middle ear - <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>
 - eye - <ruby>[目](../words/目.md)<rt>ㄇㄨㄎ</rt></ruby>
+- eyebrows - <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>
 - face - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>
+- complexion, expression - <ruby>[顔色](../words/顔色.md)<rt>ㄚㄋㄙㄧㄎ</rt></ruby>
+- philtrum - <ruby>[人中](../words/人中.md)<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby>
 - forehead - <ruby>[額頭](../words/額頭.md)<rt>ㄚㄎㄊㄛㄨ</rt></ruby>
 - hair - <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby>
 - head - <ruby>[頭](../words/頭.md)<rt>ㄊㄛㄨ</rt></ruby>
 - lip - <ruby>[唇](../words/唇.md)<rt>ㄙㄨㄋ</rt></ruby>
 - mouth - <ruby>[口](../words/口.md)<rt>ㄎㄛㄨ</rt></ruby>
+- bad breath - <ruby>[口臭](../words/口臭.md)<rt>ㄎㄛㄨㄑㄨ</rt></ruby>
 - neck - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>
 - nose - <ruby>[鼻](../words/鼻.md)<rt>ㄅㄧ</rt></ruby>
 - throat - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>
 - tongue - <ruby>[舌](../words/舌.md)<rt>ㄙㄝㄊ</rt></ruby>
 - tooth - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>
+- jaw/chin - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚ·ㄚㄎ</rt></ruby>
+- beard - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨㄋㄛㄇ</rt></ruby>
+- bald - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>
+- shave - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>
 
-- chin
-- jaw
-- beard
 - moustache
 - eyelash
-- bald
-- shave
 
 ## Animals
 - claw - <ruby>[爪](../words/爪.md)<rt>ㄐ⺢ㄨ</rt></ruby>
 - egg - <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby>
+- egg white, albumen - <ruby>[卵白](../words/卵白.md)<rt>ㄌㄚㄋㄅㄚㄎ</rt></ruby> or <ruby>[蛋白](../words/蛋白.md)<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby> (also "protein" generally)
 - fur - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby>
 - hide - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>
 - scale - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>
@@ -78,55 +98,68 @@ language: English
 - tusk - <ruby>[長牙](../words/長牙.md)<rt>ㄐㄚㄫ·ㄚ</rt></ruby>
 
 ## Organ
-- blood - <ruby>[血](../words/血.md)<rt>ㄏ⼔ㄊ</rt></ruby>
+- blood - <ruby>[血](../words/血.md)<rt>ㄏ⼔ㄊ</rt></ruby> or <ruby>[血液](../words/血液.md)<rt>ㄏ⼔ㄊ⼶ㄎ</rt></ruby>
+- transfuse blood - <ruby>[輸血](../words/輸血.md)<rt>ㄙㄨㄇㄏ⼔ㄊ</rt></ruby>
 - bone - <ruby>[骨](../words/骨.md)<rt>ㄍㄛㄊ</rt></ruby>
+- bone marrow - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>
 - fat - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>
 - heart - <ruby>[心臓](../words/心臓.md)<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby>
+- nerve - <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>
 - muscle - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>
-- shit - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>
-- stomach - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>
+- shit - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby> or <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>
+- stomach (belly, abdomen) - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>
+- stomach (organ) - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>
+- stomach acid - <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>
 - sweat - <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>
 - tear - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>
 - liver - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>
-- lungs - <ruby>[肺](../characters/肺.md)<rt>ㄈㄝ</rt></ruby>
+- lungs - <ruby>[肺臓](../words/肺臓.md)<rt>ㄈㄝㄐㄚㄫ</rt></ruby>
 - womb - <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>
 - kidney - <ruby>[腎臓](../words/腎臓.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>
 - brain - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>
 - intestines - <ruby>[腸管](../words/腸管.md)<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>
+- triple burner (TCM) - <ruby>[三焦](../words/三焦.md)<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby>
 - skeleton - <ruby>[骨格](../words/骨格.md)<rt>ㄍㄛㄊㄍㄚㄎ</rt></ruby> or <ruby>[骸骨](../words/骸骨.md)<rt>ㄏ⼶ㄍㄛㄊ</rt></ruby>
 - skull - <ruby>[頭骨](../words/頭骨.md)<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby>
 - rib - <ruby>[肋骨](../words/肋骨.md)<rt>ㄌㄜㄎㄍㄛㄊ</rt></ruby>
-- spine - <ruby>[背骨](../words/背骨.md)<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby>
+- spine - <ruby>[背骨](../words/背骨.md)<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby> or <ruby>[脊椎](../words/脊椎.md)<rt>ㄐㄝㄎㄑㄨㄧ</rt></ruby> (vertebrae)
 - pelvis - <ruby>[骨盤](../words/骨盤.md)<rt>ㄍㄛㄊㄅㄚㄋ</rt></ruby>
 - spit - <ruby>[唾液](../words/唾液.md)<rt>ㄊㄚ⼶ㄎ</rt></ruby>
 - snot - <ruby>[鼻水](../words/鼻水.md)<rt>ㄅㄧㄙㄨ</rt></ruby>
 - urine - <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>
+- diarrhea - <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>
 - semen - <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>
+- ejaculate - <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>
 - fart - <ruby>[屁](../words/屁.md)<rt>ㄆㄧㄜ</rt></ruby>
 - menstruation - <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>
 
 ## Actions
 - feel
-- gesture
-- hang
-- kick
+- gesture - see 頓首 below for a specific example
+- hang - <ruby>[懸](../words/懸.md)<rt>ㄏ⼔ㄋ</rt></ruby> or <ruby>[掛](../words/掛.md)<rt>ㄍ⺢ㄧ</rt></ruby>
+- dangle - <ruby>[垂掛](../words/垂掛.md)<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby>
+- hang over, overhand - <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>
+- kick - <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>
 - lay
 - lean
 - point
 - reach
 - rest
 - shrug
-- sit
+- sit - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>
 - stand
 - touch
 - slap
-- scratch
+- scratch - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>
 - caress
-- hug
+- hug - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>
+- hold (in two hands) - <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>
+- shake hands - <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>
+- kowtow, bow deeply (touching forehead to ground) - <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>
 
 ## ENT
 - blink
-- blow
+- blow - <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby>
 - breath
 - faint
 - frown
@@ -134,30 +167,28 @@ language: English
 - glare
 - grin
 - hiss
-- kiss
-- laugh
+- kiss - <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>
+- laugh, smile - <ruby>[笑](../words/笑.md)<rt>ㄙ⼄ㄨ</rt></ruby>
 - nod
-- sigh
-- smile
+- sigh - <ruby>[嘆](../words/嘆.md)<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby> (sigh, exclaim), <ruby>[慨](../words/慨.md)<rt>ㄎㄚㄧ</rt></ruby>
 - swallow
-- yawn
-- bite
-- chew
+- yawn - <ruby>[欠](../words/欠.md)<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[欠伸](../words/欠伸.md)<rt>ㄎ⼘ㄇㄙㄧㄋ</rt></ruby> (yawn and stretch)
+- bite, chew - <ruby>[咬](../words/咬.md)<rt>⼘ㄨ</rt></ruby>
+- chew, masticate - <ruby>[且爵](../words/且爵.md)<rt>ㄑㄛㄐㄚㄎ</rt></ruby>
 - sneeze
 - drool
 - choke
-- vomit
-- cough
-- suck
-- spit
-- whistle
+- vomit, spit - <ruby>[吐](../words/吐.md)<rt>ㄊㄛ</rt></ruby> or <ruby>[呕吐](../words/呕吐.md)<rt>ㄛㄨㄊㄛ</rt></ruby>
+- cough - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>
+- suck - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>
+- whistle - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>
 - snore
 
 ## Drives
 - wake
 - hunger
 - sex
-- sleep
+- sleep - <ruby>[睡眠](../words/睡眠.md)<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> or <ruby>[寝](../words/寝.md)<rt>ㄑㄧㄇ</rt></ruby> (lie down, rest)
 - tire
 - thirst
 - sated
