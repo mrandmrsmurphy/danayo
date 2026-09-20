@@ -56,5 +56,5 @@ boundedness: 75
 - <ruby>[[諸語]]<rt>ㄐㄚ⼄</rt></ruby> "the various languages (of a family or region)"
 
 ## Chengyu
-- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> "every dharma is without self"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"

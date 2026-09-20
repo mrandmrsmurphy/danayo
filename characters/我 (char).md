@@ -69,7 +69,7 @@ boundedness: 65
 
 ## Chengyu
 - <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
-- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄨ·ㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> "every dharma is without self"
 
 ## Derived Characters
 - <ruby>[[峨]]<rt>ㄚ</rt></ruby> "lofty"
