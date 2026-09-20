@@ -85,7 +85,7 @@ boundedness: 100
 - <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
 
 ## Chengyu
-- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "have a clear-cut stand"
+- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> "Per Character Clear Meaning"

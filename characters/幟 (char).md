@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-13
 - <ruby>[[旗幟]]<rt>ㄎㄧㄑㄧ</rt></ruby> "flag, banner, attitude"
 
 ## Chengyu
-- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "have a clear-cut stand"
+- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"

@@ -92,7 +92,7 @@ tags:
 - <ruby>[成家立業](chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> - Get married and start a job
 - <ruby>[文質彬彬](chengyu/文質彬彬.md)<rt>ㄇㄨㄋㄐㄧㄊㄆㄧㄋㄆㄧㄋ</rt></ruby> - [well balanced between refinement and substance, cultivated without affectation]
 - <ruby>[断章取義](chengyu/断章取義.md)<rt>ㄉ⺢ㄋㄐㄚㄫㄑㄛㄨㄜㄧ</rt></ruby> - take out of context
-- <ruby>[旗幟鮮明](chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> - have a clear-cut stand
+- <ruby>[旗幟鮮明](chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> - to take a clear and unmistakable stand
 - <ruby>[春夏秋冬](chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> - four season, all year
 - <ruby>[春秋鼎盛](chengyu/春秋鼎盛.md)<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> - in the prime of life; at the height of one's powers
 - <ruby>[時代錯誤](chengyu/時代錯誤.md)<rt>ㄙㄧㄉㄚㄧㄑㄚㄎㄛ</rt></ruby> - anachronism
