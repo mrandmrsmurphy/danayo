@@ -16,6 +16,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 **2026-09-19, Calendar — partial pass**: added 20 genuine words to `lexipedia/Calendar.md`: 主日 (Lord's Day, alongside 日曜日) in Week; 十干 (Ten Heavenly Stems) as a cross-reference alongside the Earthly-Branches month table; 露月/氷月 as real attested alternate poetic names for months 10 and 12 (added alongside the existing 良月/臘月 rather than treated as conflicts); 時節/時候 in Seasons; 太陰年/望月/満月/恭喜発財 in the Lunar Calendar section; 閏日/閏秒/置閏/暦数 in Leap Years; 世代/中世 in Eras; and a new "Named Festivals" subsection under Misc for 七夕/中秋節/臘八/臘八節. While verifying the full page (not just the new additions), found and fixed 6 more pre-existing stale cached 注音 bugs the page had been silently carrying: 即日, 一月, 三月, 正月 (×2 occurrences), 千年紀, and 平成. Calendar bucket 136 → 116; the remainder is mostly false positives (numbers, grammar particles, tree/flower names, generic abstract nouns) that keyword-matched on date/time-adjacent glosses and belongs in other domains, not Calendar.
 
+**2026-09-19, Clothing — formatting fix, slots filled**: `lexipedia/Clothing.md` was four unbulleted, unlinked comma-separated English word-runs. Bulleted every entry and slotted 29 genuine vault words into the existing placeholders: 衣服 clothes, 装/扮 dress (up), 裸 naked/strip, 着/戴 wear, 帽子 hat, 包装 wrap, 布帛 cloth; 袂/袖 sleeve, 衣襟 collar, 袴 pants, 鞋 shoe; 縫製/裁縫 sew, 紡/絞捻 spin, 編織 weave, 針 pin and needle (the same word covers both), 糸線 thread, 染色 dye; 亜麻布/麻布 linen, 綿花 cotton, 絹 silk, 皮革 leather (also cross-linked from Body), 天鵝絨 velvet, 大麻 hemp (also noting it means marijuana). Slots left bare where no vault word exists yet: belt, boot, cloak, coat, fashion, rag, robe, shirt, blouse, skirt, glove, stocking, sandal, poncho, loincloth, veil, loom, lace, wool — real gaps for a future research pass, not oversights. Left 16 words in the scratch bucket that don't fit any existing slot (乳押 bra, 化粧/口紅 makeup/lipstick, 浣衣 laundry, 浴衣 yukata, 笠帽 straw hat, 繰 reel, 肩章 epaulet, 錦繍/黼黻 brocade/embroidery, 衣類 clothes-synonym) plus real false positives that only keyword-matched (回転 mechanical rotation, 磨耗 abrasion, 白領/藍領 white-collar/blue-collar as job-class idioms) — a further pass, not done yet.
+
 ## Counts
 
 - **Unsorted**: 2336
@@ -25,7 +27,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Body**: 1
 - **Buildings**: 1
 - **Calendar**: 116
-- **Clothing**: 44
+- **Clothing**: 16
 - **Conflict**: 95
 - **Containers**: 57
 - **Dimensions**: 93
@@ -2680,50 +2682,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
 
-## Clothing (44)
+## Clothing (16)
 - [[乳押]] — bra, brassiere
-- [[亜麻布]] — linen
-- [[包装]] — wrap, package
 - [[化粧]] — put on make-up
 - [[口紅]] — lipstick
 - [[回転]] — turn, spin, rotate, revolve
-- [[大麻]] — hemp, marijuana
-- [[天鵝絨]] — velvet
-- [[布帛]] — silk, textiles
-- [[帽子]] — hat, cap
-- [[戴]] — be crowned with, wear on top
-- [[扮]] — dress up
-- [[染色]] — dye, stain
 - [[浣衣]] — wash clothes, do laundry
 - [[浴衣]] — yukata, light cotton kimono
 - [[白領]] — white-collar
 - [[皮衣]] — fur garment, leather clothing
-- [[着]] — wear
 - [[磨耗]] — wear, abrasion
 - [[笠帽]] — conical bamboo hat, straw hat
-- [[糸線]] — silk thread
-- [[紡]] — spin (yarn)
-- [[絞捻]] — twist, wring, spin (thread)
-- [[絹]] — silk
-- [[綿花]] — cotton
-- [[編織]] — knitting, weaving, braiding
-- [[縫製]] — sew, tailor
 - [[繰]] — reel, bolt of cloth
 - [[肩章]] — epaulet (shoulder decoration)
 - [[藍領]] — blue-collar
-- [[衣服]] — clothes
-- [[衣襟]] — collar
 - [[衣類]] — clothing, clothes, garments
-- [[袂]] — sleeve
-- [[袖]] — sleeve
-- [[袴]] — pants, trousers
-- [[裁縫]] — tailor clothing
-- [[装]] — dress up, adorn, pretend
-- [[裸]] — strip, undress, be naked
-- [[針]] — needle, pin, tack, hand (clock)
 - [[錦繍]] — brocade, tapestry
-- [[鞋]] — shoe
-- [[麻布]] — linen cloth, hemp cloth
 - [[黼黻]] — ornate embroidered patterns
 
 ## Conflict (95)

@@ -5,21 +5,47 @@ language: English
 - belt
 - boot
 - cloak
-- cloth
-- clothes
+- cloth - <ruby>[布帛](../words/布帛.md)<rt>ㄅㄛㄅㄚㄎ</rt></ruby>
+- clothes - <ruby>[衣服](../words/衣服.md)<rt>ㄧㄜㄅㄨㄎ</rt></ruby>
 - coat
-- dress
+- dress (to dress up, adorn) - <ruby>[装](../words/装.md)<rt>ㄐ⺢ㄫ</rt></ruby> or <ruby>[扮](../words/扮.md)<rt>ㄈㄧㄋ</rt></ruby>
 - fashion
-- hat
-- naked
+- hat - <ruby>[帽子](../words/帽子.md)<rt>ㄇㄚㄨㄐㄜ</rt></ruby>
+- naked - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>
 - rag
 - robe
-- strip
-- wear
-- wrap
+- strip (undress) - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>
+- wear - <ruby>[着](../words/着.md)<rt>ㄐ⺢ㄎ</rt></ruby>, or <ruby>[戴](../words/戴.md)<rt>ㄊㄚㄧ</rt></ruby> (specifically to wear on top, e.g. a hat/crown)
+- wrap - <ruby>[包装](../words/包装.md)<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby>
 
-sleeve, collar, shirt, blouse, pants, skirt, glove, shoe, stocking, sandal, poncho, lioncloth, veil
+- sleeve - <ruby>[袂](../words/袂.md)<rt>ㄇㄝ</rt></ruby> or <ruby>[袖](../words/袖.md)<rt>ㄙㄨㄛ</rt></ruby>
+- collar - <ruby>[衣襟](../words/衣襟.md)<rt>ㄧㄜㄍㄧㄇ</rt></ruby>
+- shirt
+- blouse
+- pants - <ruby>[袴](../words/袴.md)<rt>ㄎㄛ</rt></ruby>
+- skirt
+- glove
+- shoe - <ruby>[鞋](../words/鞋.md)<rt>ㄏ⼘ㄧ</rt></ruby>
+- stocking
+- sandal
+- poncho
+- loincloth
+- veil
 
-sew, spin, loom, weave, pin, needle, thread, dye
+- sew - <ruby>[縫製](../words/縫製.md)<rt>ㄅㄛㄫㄐㄝ</rt></ruby> or <ruby>[裁縫](../words/裁縫.md)<rt>ㄑㄚㄧㄅㄛㄫ</rt></ruby> (tailor)
+- spin (thread/yarn) - <ruby>[紡](../words/紡.md)<rt>ㄈㄚㄫ</rt></ruby> or <ruby>[絞捻](../words/絞捻.md)<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby> (twist, wring)
+- loom
+- weave - <ruby>[編織](../words/編織.md)<rt>ㄅ⼶ㄋㄐㄧㄎ</rt></ruby>
+- pin - <ruby>[針](../words/針.md)<rt>ㄐㄧㄇ</rt></ruby>
+- needle - <ruby>[針](../words/針.md)<rt>ㄐㄧㄇ</rt></ruby>
+- thread - <ruby>[糸線](../words/糸線.md)<rt>ㄙㄚㄙ⼶ㄋ</rt></ruby>
+- dye - <ruby>[染色](../words/染色.md)<rt>ㄋ⼄ㄇㄙㄧㄎ</rt></ruby>
 
-linen, cotton, silk, lace, leather, wool, velvet, hemp
+- linen - <ruby>[亜麻布](../words/亜麻布.md)<rt>ㄚ·ㄇㄚㄅㄛ</rt></ruby> or <ruby>[麻布](../words/麻布.md)<rt>ㄇㄚㄅㄛ</rt></ruby> (linen or hemp cloth)
+- cotton - <ruby>[綿花](../words/綿花.md)<rt>ㄇ⼶ㄋㄏ⺢</rt></ruby>
+- silk - <ruby>[絹](../words/絹.md)<rt>ㄍ⼔ㄋ</rt></ruby>
+- lace
+- leather - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>
+- wool
+- velvet - <ruby>[天鵝絨](../words/天鵝絨.md)<rt>ㄊㄝㄋ·ㄚㄋㄨㄫ</rt></ruby>
+- hemp - <ruby>[大麻](../words/大麻.md)<rt>ㄉㄚㄧㄇㄚ</rt></ruby> (also "marijuana")
