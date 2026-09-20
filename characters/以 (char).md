@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
 
 ## Chengyu
-- <ruby>[[義以立名]]<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "by meaning one establishes names"
+- <ruby>[[義以立名]]<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"
 
 ## Derived Characters
 - <ruby>[[似 (char)|似]]<rt>ㄙㄚ</rt></ruby> "like; as; resembling"

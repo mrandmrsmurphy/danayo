@@ -60,7 +60,7 @@ boundedness: 80
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 
 ## Chengyu
-- <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "wife through thick and thin"
+- <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "a devoted wife who shared the hardship of poverty, not to be abandoned after success"
 
 ## Derived Characters
 - <ruby>[[芝]]<rt>ㄐㄧ</rt></ruby> "sesame; grass" (形声, phonetic 之)

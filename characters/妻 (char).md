@@ -55,7 +55,7 @@ boundedness: 50
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
-- <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "wife through thick and thin"
+- <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "a devoted wife who shared the hardship of poverty, not to be abandoned after success"
 
 ## Derived Characters
 - <ruby>[[凄]]<rt>ㄑㄝㄧ</rt></ruby> "miserable"

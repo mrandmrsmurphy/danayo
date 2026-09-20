@@ -24,7 +24,7 @@ tags:
 - <ruby>[毎字明意](chengyu/毎字明意.md)<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> - Per Character Clear Meaning
 - <ruby>[異体不容](chengyu/異体不容.md)<rt>ㄧㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> - variant forms are not permitted
 - <ruby>[百家共承](chengyu/百家共承.md)<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> - Hundred schools jointly inherited
-- <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - By meaning one establishes names
+- <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - names should be established by meaning
 - <ruby>[義重於音](chengyu/義重於音.md)<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> - Meaning is more important than sound
 - <ruby>[詞彙兼容](chengyu/詞彙兼容.md)<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> - The lexicon is capable of inclusion
 - <ruby>[選士唯賢](chengyu/選士唯賢.md)<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> - select candidates solely by worthiness; meritocracy as the sole basis of authority

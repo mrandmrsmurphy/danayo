@@ -74,7 +74,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[勿妄称名]]<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> "Do not take the name in vain"
-- <ruby>[[義以立名]]<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "By meaning one establishes names"
+- <ruby>[[義以立名]]<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"
 
 ## Derived Characters
 - <ruby>[[酩]]<rt>ㄇㄝㄫ</rt></ruby> "drunk; intoxicated"

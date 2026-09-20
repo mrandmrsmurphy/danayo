@@ -71,7 +71,7 @@ boundedness: 90
 - <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby> "barium"
 
 ## Chengyu
-- <ruby>[[義重於音]]<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> "Meaning is more important than sound"
+- <ruby>[[義重於音]]<rt>ㄜㄧㄑㄛㄫ·ㄛ·ㄨㄇ</rt></ruby> "Meaning is more important than sound"
 - <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"
 
 ## Derived Characters

@@ -128,7 +128,7 @@ tags:
 - <ruby>[種瓜得瓜](chengyu/種瓜得瓜.md)<rt>ㄐㄛㄫㄍ⺢ㄉㄨㄎㄍ⺢</rt></ruby> - As a man plants, so shall he reap
 - <ruby>[空前絶後](chengyu/空前絶後.md)<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> - unprecedented and unrepeatable; without parallel before or after
 - <ruby>[粉骨砕身](chengyu/粉骨砕身.md)<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> - to have one's body smashed to pieces; to die the most cruel death
-- <ruby>[糟糠之妻](chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> - wife through thick and thin
+- <ruby>[糟糠之妻](chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> - a devoted wife who shared the hardship of poverty, not to be abandoned after success
 - <ruby>[結髪夫妻](chengyu/結髪夫妻.md)<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> - [a couple bound together from youth, lifelong marital devotion]
 - <ruby>[羊頭狗肉](chengyu/羊頭狗肉.md)<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> - false advertising; cry up wine and sell vinegar
 - <ruby>[臥薪嘗胆](chengyu/臥薪嘗胆.md)<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> - sleep on firewood and taste gall
