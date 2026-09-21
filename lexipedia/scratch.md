@@ -1,6 +1,6 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 4659 of 6052 word files currently have zero `lexipedia/` link anywhere in the file (re-measured 2026-09-21 via a direct grep; the previous "5278 of 6035" header had gone stale relative to the real corpus, evidently from lexipedia work done in other sessions not reflected back into this tracking file — this file's own counts are a rough snapshot, not a live index). Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Rough, unpolished working list — 4558 of 6052 word files currently have zero `lexipedia/` link anywhere in the file (re-measured 2026-09-21, twice this same day, via a direct grep; this file's own counts are a rough snapshot, not a live index — expect them to drift after every real pass). Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
 
 **2026-09-19, Buildings — first raw Rosenfelder dump migration**: `lexipedia/Buildings.md` is one of the still-unmigrated flat Rosenfelder lists, not yet held to the tiered-domain checklist. Slotted 55 words directly into the page's own existing bare-English placeholders (office → 事務所, warehouse → 倉庫, school → 学校, etc.), fixed the page's pervasive leading-slash `/words/...` path bug and its inconsistent wikilink-with-romanization entries (street/tunnel/village/church/door/stair), and added one genuine building concept the page never had a slot for at all: 要塞 ("fortress"), as a new bottom section. All 69 words on the page now backlink correctly. The other ~90 words in the original 147-item bucket were either real non-Buildings words (令圄→Unsorted since no clean alternate fit, 内閣/在位/自治→Government, 学科/右学/左学→Knowledge, 岸/灘→Water, 紫禁城/首都/京城→Geography, etc.) or genuine building words that duplicate an already-slotted synonym (e.g. 局/辦公室 both also mean "office," already filled by 事務所/官庁) — not forced onto the page, left in Unsorted instead per "if it shouldn't be there, don't move it."
 
@@ -22,9 +22,11 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 
 **2026-09-21, Kinship — migrated from scratch and bucket fully cleared**: `lexipedia/Kinship.md` had been a completely unformatted flat list (no frontmatter, three unlabeled groups plus a "### People" subsection, one garbled "uncle wife" line) — migrated to the tiered-domain template from scratch in this pass, `status: complete`. All 67 words in the `## Kinship` bucket resolved. 61 became genuine new Kinship.md entries; a first pass covered 53 straightforwardly, then a self-caught recheck against the full bucket (worth doing on any large bucket-clear — the first pass had silently dropped 13 real words) turned up 8 more, plus 4 real false positives that had only keyword-matched: 宗派 ("faction, sect" → Society), 母艦 ("mother ship" → War), 螺鈿 ("mother-of-pearl" → Art), and 隣/隣人 ("neighbor(ing)" → Locatives). One word, 細妹 ("younger sister"), was left unslotted rather than forced in: its own Notes say the word that actually legitimizes its character is [[妹妹]] instead, already on the page as "a different, more standard word for the same core meaning" — moved to Unsorted alongside 亘/洗車 under the same duplicate-synonym convention. The recovered-on-recheck words surfaced a genuine, previously-undocumented pattern: a whole cluster of reduplicated "intimate address form" kinship words (哥哥/弟弟/媽媽/姥姥/婆婆/叔叔/子子), each already cross-referencing its own plain/formal counterpart in its own Notes — written up as a third axis (alongside paternal/maternal side and relative age) in Kinship's own Semantic Range Notes. Also surfaced: 婆婆's genuine dual sense (paternal grandmother, but more commonly "mother-in-law" in modern usage); the niece/nephew asymmetry (甥 = sister's-child specifically, gender-unmarked; no word at all for "nephew via a brother," and no word for "cousin"); and the 継母/no-stepfather gap. Real gaps flagged rather than force-mapped, per the same standard as Water: "cousin," "fellow," "engagement" (as a state, distinct from 聘's "to betroth"), "bride," "dowry"/"bride-price," "monogamy," "folk," and "stepfather." Backlinked all 85 cited words with `- See [Kinship](../lexipedia/Kinship.md).` (merging into 夫婦's pre-existing Numbers backlink). related_domains initially drafted as Society/Love (matching the domain's real content) but corrected before publishing — neither exists as an actual file yet (both are red-linked in `Lexipedia.md`'s own index), so Government was used instead, matching the "only link domains that actually have files" rule from the Numbers/Metals migration method. All 5 bucket/header counts touched (Kinship removed entirely; Art/Locatives/Society/War/Unsorted each +1) reflected in Counts below.
 
+**2026-09-21, Kinship — follow-up sweep of the rest of the file**: explicit user ask to "look for kinship terms in scratch," since the just-cleared `## Kinship` bucket was never a complete accounting — this file is "NOT a curated classification," and stray kinship words were sitting miscategorized in `## Unsorted` and even inside unrelated already-populated buckets (Astronomy, Calendar, Dimensions), never routed to the old Kinship bucket at all. A keyword grep across the whole file (father/mother/brother/sister/wife/husband/uncle/aunt/grandparent/cousin/marry/clan/ancestor/etc., manually reviewed one by one — the naive regex alone threw a lot of noise, e.g. "entwine" matching on "twin") turned up 15 genuine new words: 婚姻 (marriage, the formal/legal register alongside 嫁娶), 孤児院 (orphanage), 孫子/孫女 (grandson/granddaughter — a real gap the original page had missed entirely), 九族 (the nine degrees of kinship, an explicit numbered-kinship-system term), 伯父 (the formal counterpart of already-slotted 伯伯, filling an asymmetry against 叔父/叔叔), 同族 (of the same clan, a kinsman relationship rather than the group itself), 大家族 (extended/multi-generation family), 家庭 (household/family, alongside 家族), 戸籍 (family register, alongside 族譜), 自家 (one's own family), 閥族 (a powerful clan specifically), 始祖 (the founding ancestor specifically, alongside general 祖先), 親戚 (near-synonym of 親族), and 姉姉 — the missing fourth member of the reduplicated-address-form set (哥哥/弟弟/[姉姉]/妹妹), which the original migration pass had somehow never located despite writing up the other three. Also found and removed 11 stale duplicate entries still sitting in Unsorted for words the *previous* Kinship pass had already backlinked (兄弟, 嗣子, 妾, 姉妹, 結婚, 継母, 離婚, 人, 兄, 妹妹, 聘) — evidence that a bucket-clear should re-grep the whole file afterward, not just trust the one bucket it started from. Four words were checked and deliberately left alone: 姫 ("princess, concubine, court lady" — a royal title, better suited to Government if anywhere, not forced into Kinship since "concubine" already has 妾); 結婚礼 ("weddings," redundant with already-slotted 嫁娶); 愛人 (a genuinely interesting cross-linguistic divergence — neutral "spouse" in mainland Mandarin, "lover" in Taiwan/HK, "boyfriend/girlfriend" in Korean/Vietnamese, but risky/complex enough, and arguably more at home on a future Love domain page, to skip for now rather than force a judgment call); 昆 (glosses "swarm, descendants," but its own Notes confirm the living sense is the insect-swarm one, "descendants" being a faded classical extension — not honestly a kinship word). All 15 new words backlinked with `- See [Kinship](../lexipedia/Kinship.md).`, woven into the page's existing Core/Extended-Family/Marriage/Lineage-and-Descent/Household sections and Semantic Range Notes rather than appended as an afterthought. Kinship.md now stands at 100 words total. `Unsorted` count corrected by −26 (15 new removals + 11 stale-duplicate removals); this file's own top-of-file "words without a lexipedia link" header re-measured again for the same reason.
+
 ## Counts
 
-- **Unsorted**: 2339
+- **Unsorted**: 2313
 - **Animals**: 3
 - **Art**: 4
 - **Astronomy**: 131
@@ -77,7 +79,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - **基督敎**: 1
 - **歴史綱要**: 5
 
-## Unsorted (2339)
+## Unsorted (2313)
 
 - [[亘]] — swirl, whirlpool (archaic sense only — living usage has shifted entirely to "extend, span"; not a real Water-domain word, see 2026-09-21 Water note below)
 - [[洗車]] — wash a car (a collocation of already-slotted [[洗]] "wash" + 車 "car," not a distinct concept; left unslotted per the "don't force a duplicate-synonym word onto a page" convention)
@@ -138,7 +140,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[傾向]] — tendency, inclination, leaning
 - [[僧伽]] — sangha
 - [[優先]] — take precedence, take priority
-- [[兄弟]] — brothers, brotherhood
 - [[充足]] — adequate, sufficient
 - [[充電]] — to recharge (a battery), to charge
 - [[光子]] — photon
@@ -289,7 +290,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[喚]] — summon, invite
 - [[喧嘩]] — commotion
 - [[喫驚]] — be startled
-- [[嗣子]] — heir
 - [[噴火]] — erupt
 - [[噸]] — ton
 - [[囚徒]] — prisoner
@@ -367,8 +367,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[妥協]] — compromise, settle
 - [[妨害]] — obstruct, hinder, interfere with
 - [[妨碍]] — hinder
-- [[妾]] — concubine
-- [[姉妹]] — sisters
 - [[始金]] — actinium
 - [[姑娘]] — girl; young lady, young woman (unmarried)
 - [[姑息]] — makeshift
@@ -379,7 +377,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[姿勢]] — posture
 - [[娃娃]] — doll, dolly
 - [[娘]] — young woman
-- [[婚姻]] — marriage, matrimony
 - [[婦]] — lady, woman
 - [[嫩]] — delicate, tender
 - [[嬌媚]] — coquettish, charming, flirtatious, alluring
@@ -391,8 +388,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[孝廉]] — filial and incorrupt
 - [[孟加拉]] — bangladesh
 - [[孟子]] — mencius
-- [[孤児院]] — orphanage
-- [[孫女]] — granddaughter
 - [[孫孫]] — grandkiddo, grandchild
 - [[孫金]] — promethium
 - [[安土]] — azuchi
@@ -1116,14 +1111,12 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[経費]] — expenditures, expenses
 - [[結]] — tie, join
 - [[結合]] — combine, unite, bond
-- [[結婚]] — marry
 - [[結婚礼]] — weddings
 - [[統一]] — unite
 - [[統計]] — statistics
 - [[絶対]] — absolute, total, unconditional
 - [[綏靖]] — appeasement, pacification
 - [[継承]] — accede, inherit
-- [[継母]] — stepmother
 - [[綱要]] — outline, sketch, essentials, compendium
 - [[網]] — netting, net, network
 - [[総数]] — total, grand total
@@ -1525,7 +1518,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[雑交]] — hybridize, crossbreed
 - [[雛鳥]] — chick
 - [[離別]] — depart, leave
-- [[離婚]] — divorce
 - [[難金]] — dysprosium
 - [[雨傘]] — umbrella
 - [[雪]] — snow
@@ -1698,7 +1690,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[主旨]] — purpose, point, gist
 - [[久闊]] — long period of separation
 - [[九卿]] — the nine ministers, the nine highest officials
-- [[九族]] — nine generations of one's family, the nine degrees of kinship
 - [[事物]] — thing, matter, subject
 - [[五倫]] — five relationships
 - [[五官]] — the five sense organs, facial features
@@ -1721,7 +1712,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[交溝]] — have sex, copulate
 - [[交遊]] — make friendship, form companionship
 - [[交際]] — socialize, hang out
-- [[人]] — person, humanity
 - [[人事]] — human affairs, ways of the world, facts of life
 - [[人手]] — manpower, person's hand
 - [[人生]] — human life, life
@@ -1738,7 +1728,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[休息室]] — break room, lounge
 - [[休憩]] — rest, take a break
 - [[伝説]] — legend, tale, folklore
-- [[伯父]] — paternal uncle (older)
 - [[似]] — like, as
 - [[佇立]] — stand still
 - [[体制]] — system, regime, governing structure, organizational order
@@ -1761,7 +1750,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[催]] — press (a person for), urge (a person to do), request, demand
 - [[僧侶]] — buddhist monk
 - [[僧家]] — buddhist monk
-- [[兄]] — older brother
 - [[先進]] — advanced
 - [[克]] — practice self-restraint, overcome, gram (unit of mass)
 - [[克明]] — discern, meticulous, moral judgment
@@ -1835,7 +1823,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[合成]] — synthesis, compound, composite
 - [[吉祥]] — auspicious, lucky
 - [[同意]] — agree, consent, concur
-- [[同族]] — be same clan
 - [[名]] — name
 - [[名字]] — name (personal name)
 - [[周囲]] — around, about, surroundings
@@ -1881,7 +1868,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[外出]] — go out
 - [[大事]] — important thing, great matter
 - [[大家]] — everyone; everybody (mandarin/cantonese)
-- [[大家族]] — family dynasty, big family
 - [[大概]] — for the most part, generally, approximately, probably
 - [[大正]] — just, fair, taisho era
 - [[大笑]] — to laugh uproariously, burst out laughing
@@ -1910,7 +1896,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[定義域]] — domain of a function
 - [[宛然]] — as if, just like
 - [[客気]] — polite; reserved (mandarin/cantonese/vietnamese), reckless bravado; impetuosity (japanese/korean)
-- [[家庭]] — household, family
 - [[容]] — look, appearance, form, figure
 - [[宿敵]] — archenemy, long-standing rival
 - [[宿舎]] — dormitory, lodge, living quarters
@@ -1989,7 +1974,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[懸心]] — bear in mind
 - [[成功]] — succeed, achieve success, prosper
 - [[戯曲]] — chinese opera, play
-- [[戸籍]] — family register
 - [[所有]] — all; every (determiner — most common mandarin/cantonese usage), possess; own; ownership (formal/legal noun-verb sense, shared across all four languages)
 - [[扁平]] — flat, planar
 - [[抜擢]] — select for promotion, single out for advancement, pluck out
@@ -2226,7 +2210,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[脅威]] — threat, menace
 - [[臥平]] — lie flat
 - [[自主]] — be independent, autonomy
-- [[自家]] — one's own family/household
 - [[自由]] — free, at liberty, unconstrained
 - [[自立]] — independent, standalone, self-reliant
 - [[自閉]] — exclude oneself from others, isolate oneself from society, autistic
@@ -2334,7 +2317,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[開拓]] — open up, expand
 - [[開放]] — be open, liberalize
 - [[関数]] — function
-- [[閥族]] — powerful clan, influential family group
 - [[閲読]] — read
 - [[闖入]] — break into, intrude, barge in
 - [[防火]] — fire prevention, fireproofing
@@ -2481,8 +2463,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[天運]] — fate from heaven (dated)
 - [[太陽風]] — solar wind
 - [[夭折]] — to die young, to come to a premature end
-- [[始祖]] — founder, first ancestor, progenitor
-- [[孫子]] — grandson, sun tzu
 - [[宇宙局]] — space agency
 - [[実践]] — practice, put into practice
 - [[対象]] — object, target
@@ -2672,7 +2652,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[蘭花]] — orchid, lily
 - [[螟蛉]] — stem borer larva, adopted son (literary)
 - [[補助]] — assistance, help, aid, auxiliary
-- [[親戚]] — relative, relation
 - [[諡号]] — posthumous name, honorary posthumous title
 - [[跳躍]] — jump, leap
 - [[辦公]] — do business, handle business
@@ -2892,8 +2871,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[多]] — many
 - [[奥]] — deep
 - [[女女]] — little lady, little woman
-- [[妹妹]] — little sister, sissie
-- [[姉姉]] — little big sister
 - [[宏大]] — grand, magnificent, vast
 - [[密]] — dense, thick, close, intimate, secret
 - [[寛大]] — magnanimous, lenient, broad
@@ -3247,7 +3224,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[綴]] — bind, stop
 - [[繁忙]] — busy
 - [[習慣]] — be accustomed to, be in the habit of
-- [[聘]] — engage, betroth
 - [[行動]] — act, action
 - [[設備]] — equip, finish, provide
 - [[誠意]] — act in good faith, do sincerely
