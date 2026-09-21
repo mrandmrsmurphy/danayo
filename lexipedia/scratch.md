@@ -20,11 +20,13 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 
 **2026-09-21, Water — bucket fully cleared**: all 60 words in the `## Water` bucket resolved, none left. `lexipedia/Water.md` had already been fully migrated to the tiered-domain template earlier this same day (Core/Intermediate/Advanced/Semantic Range Notes/See Also, `status: complete`); this pass cross-referenced the scratch bucket against it. 26 of the 60 were already on the page from that earlier work. 26 more were genuine new adds: 井堰 (weir, alongside 堰堤), 潮汐/渦流/洪水 (tide/whirlpool/flood, a new "Tides, Currents & Floods" subsection), 乾浄/澄清/清澈/抹/洗濯/掃除/淋/漏/滲漏 (near-synonym refinements of already-slotted clean/wipe/drip words, a new "Cleanliness & Flow" subsection), 汲/没 (draw water, drown/sink), 艇/小舟/帆船/舷辺/船籍/沈没 (more vessel vocabulary), 蒸 (the verb counterpart of already-slotted 蒸汽), and 氾濫/汎濫/泛濫 (a genuine three-way orthographic-variant flood cluster, each legitimizing a different bound character — real linguistic curiosity, written up in Water's own Semantic Range Notes) plus 漏洩 (added to See Also as an idiomatic use — "leak" has drifted almost entirely to the figurative information-leak sense). 6 were real false positives that had only keyword-matched on "bow"/"stern"/"dry" and were rerouted to their actual domains: 低下 ("lower, drop" → Dimensions), 弓 (the weapon → War), 懍懍 ("stern" the personality trait → Emotions), 拝/鞠躬 (bow/kowtow the gesture → Society), 乾溜 (dry distillation/pyrolysis, chemistry → Elements). 2 were moved to Unsorted rather than forced anywhere: 亘 (its own word-page Notes say the "whirlpool" sense is archaic, superseded by "extend, span" in all living usage — not a real Water-domain word despite its stored `english:` field) and 洗車 ("wash a car," a transparent collocation of already-slotted 洗+車, not a distinct concept). All 6 bucket/header counts touched (Water removed entirely; Dimensions/Elements/Emotions/Society/War each +1) reflected in Counts below. Also re-measured this file's own stale header count via direct grep — see the top-of-file note.
 
+**2026-09-21, Kinship — migrated from scratch and bucket fully cleared**: `lexipedia/Kinship.md` had been a completely unformatted flat list (no frontmatter, three unlabeled groups plus a "### People" subsection, one garbled "uncle wife" line) — migrated to the tiered-domain template from scratch in this pass, `status: complete`. All 67 words in the `## Kinship` bucket resolved. 61 became genuine new Kinship.md entries; a first pass covered 53 straightforwardly, then a self-caught recheck against the full bucket (worth doing on any large bucket-clear — the first pass had silently dropped 13 real words) turned up 8 more, plus 4 real false positives that had only keyword-matched: 宗派 ("faction, sect" → Society), 母艦 ("mother ship" → War), 螺鈿 ("mother-of-pearl" → Art), and 隣/隣人 ("neighbor(ing)" → Locatives). One word, 細妹 ("younger sister"), was left unslotted rather than forced in: its own Notes say the word that actually legitimizes its character is [[妹妹]] instead, already on the page as "a different, more standard word for the same core meaning" — moved to Unsorted alongside 亘/洗車 under the same duplicate-synonym convention. The recovered-on-recheck words surfaced a genuine, previously-undocumented pattern: a whole cluster of reduplicated "intimate address form" kinship words (哥哥/弟弟/媽媽/姥姥/婆婆/叔叔/子子), each already cross-referencing its own plain/formal counterpart in its own Notes — written up as a third axis (alongside paternal/maternal side and relative age) in Kinship's own Semantic Range Notes. Also surfaced: 婆婆's genuine dual sense (paternal grandmother, but more commonly "mother-in-law" in modern usage); the niece/nephew asymmetry (甥 = sister's-child specifically, gender-unmarked; no word at all for "nephew via a brother," and no word for "cousin"); and the 継母/no-stepfather gap. Real gaps flagged rather than force-mapped, per the same standard as Water: "cousin," "fellow," "engagement" (as a state, distinct from 聘's "to betroth"), "bride," "dowry"/"bride-price," "monogamy," "folk," and "stepfather." Backlinked all 85 cited words with `- See [Kinship](../lexipedia/Kinship.md).` (merging into 夫婦's pre-existing Numbers backlink). related_domains initially drafted as Society/Love (matching the domain's real content) but corrected before publishing — neither exists as an actual file yet (both are red-linked in `Lexipedia.md`'s own index), so Government was used instead, matching the "only link domains that actually have files" rule from the Numbers/Metals migration method. All 5 bucket/header counts touched (Kinship removed entirely; Art/Locatives/Society/War/Unsorted each +1) reflected in Counts below.
+
 ## Counts
 
-- **Unsorted**: 2338
+- **Unsorted**: 2339
 - **Animals**: 3
-- **Art**: 3
+- **Art**: 4
 - **Astronomy**: 131
 - **Body**: 1
 - **Buildings**: 1
@@ -43,12 +45,11 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - **Geography**: 233
 - **Government**: 124
 - **Grammar**: 11
-- **Kinship**: 67
 - **Knowledge**: 87
 - **Law**: 37
 - **Life**: 20
 - **Light**: 33
-- **Locatives**: 13
+- **Locatives**: 15
 - **Love**: 6
 - **Measurement**: 16
 - **Mind**: 28
@@ -64,22 +65,23 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - **Sex**: 13
 - **Shape**: 16
 - **Sin**: 22
-- **Society**: 42
+- **Society**: 43
 - **Speech**: 60
 - **Substances**: 30
 - **Time**: 29
 - **Tools**: 22
 - **Trade**: 40
 - **Valuation**: 48
-- **War**: 27
+- **War**: 28
 - **Work**: 32
 - **基督敎**: 1
 - **歴史綱要**: 5
 
-## Unsorted (2338)
+## Unsorted (2339)
 
 - [[亘]] — swirl, whirlpool (archaic sense only — living usage has shifted entirely to "extend, span"; not a real Water-domain word, see 2026-09-21 Water note below)
 - [[洗車]] — wash a car (a collocation of already-slotted [[洗]] "wash" + 車 "car," not a distinct concept; left unslotted per the "don't force a duplicate-synonym word onto a page" convention)
+- [[細妹]] — younger sister (a real word, but its own Notes say its legitimizing role belongs to [[妹妹]] instead — "a different, more standard word for the same core meaning"; not separately slotted on Kinship, same duplicate-synonym convention as 洗車 above)
 - [[人類学]] — anthropology
 - [[今夜]] — tonight
 - [[今日安]] — hello
@@ -2422,9 +2424,10 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[白頭就]] — bald eagle
 - [[馬脚]] — horse feet, cloven feet, sore thumb
 
-## Art (3)
+## Art (4)
 - [[喇叭]] — horn, trumpet
 - [[詠春拳]] — wing chun
+- [[螺鈿]] — mother-of-pearl, lacquer
 - [[鳳笙]] — phoenix sheng, court mouth organ
 
 ## Astronomy (131)
@@ -3936,75 +3939,6 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[人等]] — persons, et al.
 - [[量詞]] — measure word, classifier, counter
 
-## Kinship (67)
-- [[丈人]] — father-in-law, wife's father
-- [[丈夫]] — husband
-- [[丈母]] — mother-in-law
-- [[両親]] — parents
-- [[主婦]] — housewife
-- [[伯伯]] — uncle
-- [[伯母]] — aunt
-- [[兄嫂]] — sister-in-law, older brother's wife
-- [[兄弟姉妹]] — siblings, brothers and sisters
-- [[児子]] — son, child
-- [[児童]] — minor, student, child
-- [[反哺]] — take care of one's parents
-- [[叔叔]] — uncle
-- [[叔母]] — aunt
-- [[叔父]] — paternal uncle (younger)
-- [[哥哥]] — elder brother (intimate)
-- [[外祖母]] — maternal grandmother
-- [[外祖父]] — maternal grandfather, mother's father
-- [[夫人]] — madam, lady, wife
-- [[女児]] — daughter
-- [[妻]] — wife
-- [[妻子]] — women and children, wife and child
-- [[姉]] — elder sister
-- [[姑丈]] — aunt's man, father's sister's husband
-- [[姑母]] — paternal aunt
-- [[姥姥]] — grammy, maternal grandmother
-- [[姨母]] — aunt, maternal aunt
-- [[姪女]] — niece
-- [[婆婆]] — grammy, paternal grandmother, mother-in-law
-- [[婿]] — bridegroom, son-in-law
-- [[媽媽]] — mom; mother; mama
-- [[嫁娶]] — marriage, wedding, marrying and being given in marriage
-- [[嫡]] — legitimate wife
-- [[子子]] — child (one's own, intimate)
-- [[子孫]] — descendents, children and grandchildren
-- [[孝弟]] — filial piety and fraternal duty
-- [[孝道]] — filial piety, filial duty
-- [[孩子]] — child; kid(s)
-- [[宗派]] — faction, sect, clan
-- [[家族]] — family, clan
-- [[寡婦]] — widow
-- [[弟]] — younger brother
-- [[弟弟]] — younger brother
-- [[後裔]] — descendant, posterity
-- [[族譜]] — clan registry, geneology book
-- [[母艦]] — mother ship
-- [[母親]] — mother
-- [[氏族]] — clan
-- [[父母]] — parents
-- [[父親]] — father
-- [[甥]] — sister's child, sororal niece or nephew
-- [[祖先]] — ancestor, forebear
-- [[祖母]] — paternal grandmother
-- [[祖父]] — grandfather
-- [[細妹]] — younger sister
-- [[老爺]] — grandfather, master
-- [[螺鈿]] — mother-of-pearl, lacquer
-- [[親族]] — relatives, kin, cognates
-- [[部族]] — tribe, clan
-- [[配偶]] — spouse
-- [[隣]] — neighboring, next door
-- [[隣人]] — neighbor, neighborhood
-- [[養子]] — adopted child, foster child
-- [[養母]] — adoptive mother
-- [[養父]] — adoptive father
-- [[養育]] — foster, raise
-- [[骨肉]] — flesh and bone
-
 ## Knowledge (87)
 - [[上知]] — those wise from birth, innate wisdom
 - [[主義]] — doctrine, -ism
@@ -4191,7 +4125,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[鱏]] — ray, skate
 - [[黒暗]] — pure blackness, darkness
 
-## Locatives (13)
+## Locatives (15)
 
 - [[之間]] — between, among
 - [[位置]] — location, place
@@ -4205,6 +4139,8 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[置]] — put, place
 - [[裏面]] — inside
 - [[遠方]] — distant place, far away location
+- [[隣]] — neighboring, next door
+- [[隣人]] — neighbor, neighborhood
 - [[陣地]] — military position
 
 ## Love (6)
@@ -4538,7 +4474,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[慈善]] — charity, benevolence
 - [[正大]] — proper, legitimate, honest
 
-## Society (42)
+## Society (43)
 - [[乞]] — beg
 - [[乞丐]] — beggar
 - [[交友]] — make friends
@@ -4580,6 +4516,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[跆籍]] — taekwondo registration, martial arts membership record
 - [[陪]] — accompany, be with, keep company
 - [[拝]] — bow, kowtow
+- [[宗派]] — faction, sect, clan
 - [[鞠躬]] — bow, to bow respectfully
 
 ## Speech (60)
@@ -4823,7 +4760,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[鑑定]] — appraise, authenticate, expert assessment
 - [[隆]] — prosperous, plentiful, abundant
 
-## War (27)
+## War (28)
 - [[伍]] — troops
 - [[伏]] — crouch, prostrate, surrender
 - [[侵入]] — to invade, to trespass, to intrude
@@ -4851,6 +4788,7 @@ Rough, unpolished working list — 4659 of 6052 word files currently have zero `
 - [[降参]] — surrender, give up
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
+- [[母艦]] — mother ship
 
 ## Work (32)
 - [[乗務]] — crew duty, serve as crew
