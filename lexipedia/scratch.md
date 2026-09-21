@@ -1,6 +1,6 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 5278 of 6035 word files currently have zero `lexipedia/` link anywhere in the file. Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Rough, unpolished working list — 4659 of 6052 word files currently have zero `lexipedia/` link anywhere in the file (re-measured 2026-09-21 via a direct grep; the previous "5278 of 6035" header had gone stale relative to the real corpus, evidently from lexipedia work done in other sessions not reflected back into this tracking file — this file's own counts are a rough snapshot, not a live index). Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
 
 **2026-09-19, Buildings — first raw Rosenfelder dump migration**: `lexipedia/Buildings.md` is one of the still-unmigrated flat Rosenfelder lists, not yet held to the tiered-domain checklist. Slotted 55 words directly into the page's own existing bare-English placeholders (office → 事務所, warehouse → 倉庫, school → 学校, etc.), fixed the page's pervasive leading-slash `/words/...` path bug and its inconsistent wikilink-with-romanization entries (street/tunnel/village/church/door/stair), and added one genuine building concept the page never had a slot for at all: 要塞 ("fortress"), as a new bottom section. All 69 words on the page now backlink correctly. The other ~90 words in the original 147-item bucket were either real non-Buildings words (令圄→Unsorted since no clean alternate fit, 内閣/在位/自治→Government, 学科/右学/左学→Knowledge, 岸/灘→Water, 紫禁城/首都/京城→Geography, etc.) or genuine building words that duplicate an already-slotted synonym (e.g. 局/辦公室 both also mean "office," already filled by 事務所/官庁) — not forced onto the page, left in Unsorted instead per "if it shouldn't be there, don't move it."
 
@@ -18,9 +18,11 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 
 **2026-09-19, Clothing — formatting fix, slots filled**: `lexipedia/Clothing.md` was four unbulleted, unlinked comma-separated English word-runs. Bulleted every entry and slotted 29 genuine vault words into the existing placeholders: 衣服 clothes, 装/扮 dress (up), 裸 naked/strip, 着/戴 wear, 帽子 hat, 包装 wrap, 布帛 cloth; 袂/袖 sleeve, 衣襟 collar, 袴 pants, 鞋 shoe; 縫製/裁縫 sew, 紡/絞捻 spin, 編織 weave, 針 pin and needle (the same word covers both), 糸線 thread, 染色 dye; 亜麻布/麻布 linen, 綿花 cotton, 絹 silk, 皮革 leather (also cross-linked from Body), 天鵝絨 velvet, 大麻 hemp (also noting it means marijuana). Slots left bare where no vault word exists yet: belt, boot, cloak, coat, fashion, rag, robe, shirt, blouse, skirt, glove, stocking, sandal, poncho, loincloth, veil, loom, lace, wool — real gaps for a future research pass, not oversights. Left 16 words in the scratch bucket that don't fit any existing slot (乳押 bra, 化粧/口紅 makeup/lipstick, 浣衣 laundry, 浴衣 yukata, 笠帽 straw hat, 繰 reel, 肩章 epaulet, 錦繍/黼黻 brocade/embroidery, 衣類 clothes-synonym) plus real false positives that only keyword-matched (回転 mechanical rotation, 磨耗 abrasion, 白領/藍領 white-collar/blue-collar as job-class idioms) — a further pass, not done yet.
 
+**2026-09-21, Water — bucket fully cleared**: all 60 words in the `## Water` bucket resolved, none left. `lexipedia/Water.md` had already been fully migrated to the tiered-domain template earlier this same day (Core/Intermediate/Advanced/Semantic Range Notes/See Also, `status: complete`); this pass cross-referenced the scratch bucket against it. 26 of the 60 were already on the page from that earlier work. 26 more were genuine new adds: 井堰 (weir, alongside 堰堤), 潮汐/渦流/洪水 (tide/whirlpool/flood, a new "Tides, Currents & Floods" subsection), 乾浄/澄清/清澈/抹/洗濯/掃除/淋/漏/滲漏 (near-synonym refinements of already-slotted clean/wipe/drip words, a new "Cleanliness & Flow" subsection), 汲/没 (draw water, drown/sink), 艇/小舟/帆船/舷辺/船籍/沈没 (more vessel vocabulary), 蒸 (the verb counterpart of already-slotted 蒸汽), and 氾濫/汎濫/泛濫 (a genuine three-way orthographic-variant flood cluster, each legitimizing a different bound character — real linguistic curiosity, written up in Water's own Semantic Range Notes) plus 漏洩 (added to See Also as an idiomatic use — "leak" has drifted almost entirely to the figurative information-leak sense). 6 were real false positives that had only keyword-matched on "bow"/"stern"/"dry" and were rerouted to their actual domains: 低下 ("lower, drop" → Dimensions), 弓 (the weapon → War), 懍懍 ("stern" the personality trait → Emotions), 拝/鞠躬 (bow/kowtow the gesture → Society), 乾溜 (dry distillation/pyrolysis, chemistry → Elements). 2 were moved to Unsorted rather than forced anywhere: 亘 (its own word-page Notes say the "whirlpool" sense is archaic, superseded by "extend, span" in all living usage — not a real Water-domain word despite its stored `english:` field) and 洗車 ("wash a car," a transparent collocation of already-slotted 洗+車, not a distinct concept). All 6 bucket/header counts touched (Water removed entirely; Dimensions/Elements/Emotions/Society/War each +1) reflected in Counts below. Also re-measured this file's own stale header count via direct grep — see the top-of-file note.
+
 ## Counts
 
-- **Unsorted**: 2336
+- **Unsorted**: 2338
 - **Animals**: 3
 - **Art**: 3
 - **Astronomy**: 131
@@ -30,11 +32,11 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Clothing**: 16
 - **Conflict**: 95
 - **Containers**: 57
-- **Dimensions**: 93
+- **Dimensions**: 94
 - **Directions**: 58
 - **Efforts**: 54
-- **Elements**: 17
-- **Emotions**: 107
+- **Elements**: 18
+- **Emotions**: 108
 - **Events**: 55
 - **Existence**: 177
 - **Food**: 118
@@ -62,21 +64,22 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - **Sex**: 13
 - **Shape**: 16
 - **Sin**: 22
-- **Society**: 40
+- **Society**: 42
 - **Speech**: 60
 - **Substances**: 30
 - **Time**: 29
 - **Tools**: 22
 - **Trade**: 40
 - **Valuation**: 48
-- **War**: 26
-- **Water**: 60
+- **War**: 27
 - **Work**: 32
 - **基督敎**: 1
 - **歴史綱要**: 5
 
-## Unsorted (2336)
+## Unsorted (2338)
 
+- [[亘]] — swirl, whirlpool (archaic sense only — living usage has shifted entirely to "extend, span"; not a real Water-domain word, see 2026-09-21 Water note below)
+- [[洗車]] — wash a car (a collocation of already-slotted [[洗]] "wash" + 車 "car," not a distinct concept; left unslotted per the "don't force a duplicate-synonym word onto a page" convention)
 - [[人類学]] — anthropology
 - [[今夜]] — tonight
 - [[今日安]] — hello
@@ -2858,7 +2861,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[墊]] — mat, pad, cushion
 - [[畳]] — folding mat, tatami mat
 
-## Dimensions (93)
+## Dimensions (94)
 
 - [[一点]] — a little, a bit
 - [[不但]] — not only
@@ -2868,6 +2871,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[亦]] — too, also
 - [[伸展]] — expand, unfold, stretch
 - [[伸長]] — extend, stretch
+- [[低下]] — lower, drop, droop, bow
 - [[低廉]] — cheap, low priced
 - [[僅僅]] — only, merely, barely
 - [[充分]] — ample, plenty, enough
@@ -3071,7 +3075,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[閙事]] — make a scene, cause trouble
 - [[養成]] — cultivate, train
 
-## Elements (17)
+## Elements (18)
 - [[五行]] — wu xing
 - [[大旨]] — main idea, gist
 - [[梓木]] — catalpa wood
@@ -3087,10 +3091,11 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[火焰]] — flame, blaze
 - [[烈火]] — raging inferno, blaze
 - [[符水]] — magic water, charmed water
+- [[乾溜]] — dry distillation, pyrolysis
 - [[週期表]] — periodic table
 - [[風]] — wind
 
-## Emotions (107)
+## Emotions (108)
 - [[不安]] — anxiety, unease, insecurity
 - [[不幸]] — unfortunate, sad, unhappy
 - [[不満]] — be dissatisfied, be resentful, be lacking
@@ -3198,6 +3203,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[高興]] — glad, pleased
 - [[鬼神]] — fierce demon
 - [[鼓舞]] — encourage, cheer
+- [[懍懍]] — fearful appearance, stern and rigorous appearance
 
 ## Events (55)
 
@@ -4532,7 +4538,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[慈善]] — charity, benevolence
 - [[正大]] — proper, legitimate, honest
 
-## Society (40)
+## Society (42)
 - [[乞]] — beg
 - [[乞丐]] — beggar
 - [[交友]] — make friends
@@ -4573,6 +4579,8 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[蛮夷]] — barbarian, non-han peoples
 - [[跆籍]] — taekwondo registration, martial arts membership record
 - [[陪]] — accompany, be with, keep company
+- [[拝]] — bow, kowtow
+- [[鞠躬]] — bow, to bow respectfully
 
 ## Speech (60)
 - [[䋇]] — unravel, explain
@@ -4815,7 +4823,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[鑑定]] — appraise, authenticate, expert assessment
 - [[隆]] — prosperous, plentiful, abundant
 
-## War (26)
+## War (27)
 - [[伍]] — troops
 - [[伏]] — crouch, prostrate, surrender
 - [[侵入]] — to invade, to trespass, to intrude
@@ -4829,6 +4837,7 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[将兵]] — army
 - [[帰順]] — submit to, surrender to
 - [[干戈]] — weapons of war, arms
+- [[弓]] — bow
 - [[征伐]] — conquer, subjugate
 - [[従軍]] — to serve in the military, military service
 - [[文武]] — civilian and military
@@ -4842,68 +4851,6 @@ Rough, unpolished working list — 5278 of 6035 word files currently have zero `
 - [[降参]] — surrender, give up
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
-
-## Water (60)
-- [[乗船]] — board a ship, embark
-- [[乾浄]] — clean, neat, tidy
-- [[乾溜]] — dry distillation, pyrolysis
-- [[乾燥]] — arid, dry
-- [[井堰]] — weir
-- [[亘]] — swirl, whirlpool
-- [[低下]] — lower, drop, droop, bow
-- [[停泊]] — berth, anchor
-- [[半島]] — peninsula
-- [[堰堤]] — dam
-- [[小河]] — stream
-- [[小舟]] — dinghy, boat
-- [[岸]] — bank, shore
-- [[島屿]] — islands, islets, archipelago
-- [[帆]] — sail, sailboat
-- [[帆船]] — junk (ship)
-- [[弓]] — bow
-- [[懍懍]] — fearful appearance, stern and rigorous appearance
-- [[抹]] — rub, wipe
-- [[拝]] — bow, kowtow
-- [[掃除]] — sweep, clean up
-- [[擦拭]] — wipe
-- [[氷水]] — ice water
-- [[氾濫]] — flood, inundate
-- [[汎濫]] — flood, overflow
-- [[汲]] — draw water
-- [[沈没]] — to sink, to founder, sinking
-- [[没]] — drown, sink
-- [[洗]] — wash, rinse
-- [[洗濯]] — launder, rinse, wash
-- [[洗車]] — wash a car
-- [[洪水]] — flood
-- [[浜]] — coast, edge, bank
-- [[海峡]] — strait, channel
-- [[海辺]] — seashore, beach
-- [[淋]] — drain, drip
-- [[清潔]] — pure, clean
-- [[清澈]] — clear, limpid
-- [[渉]] — ford
-- [[渦流]] — swirl, whirlpool, eddy
-- [[湖水]] — lake
-- [[湿]] — wet, damp
-- [[滲漏]] — seep, leak
-- [[滴]] — drip
-- [[漏]] — leak
-- [[漏洩]] — leak, disclosure
-- [[潮汐]] — tide, tidal phenomenon
-- [[澄清]] — clear, pure
-- [[灘]] — bank, shoal
-- [[群島]] — archipelago
-- [[航行]] — navigate, sail
-- [[舵]] — rudder, helm
-- [[舷辺]] — gunwale, side of a boat, ship's side
-- [[船尾]] — stern
-- [[船籍]] — registry of a ship
-- [[船舶]] — boat, ship
-- [[艇]] — dinghy, rowboat, boat
-- [[蒸]] — steam
-- [[蒸汽]] — steam, vapor
-- [[鞠躬]] — bow, to bow respectfully
 
 ## Work (32)
 - [[乗務]] — crew duty, serve as crew
