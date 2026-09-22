@@ -51,7 +51,7 @@ language: English
 - house - <ruby>[住宅](../words/住宅.md)<rt>ㄐㄨㄐㄚㄎ</rt></ruby> (same word as the Buildings section's own "house" above)
 - archives - *(no clean consensus — Mandarin 檔案館/資料館, Japanese 文書館, Korean 문서보관소/기록관 all structured differently)*
 - constablery - [[警察署]] *(reserved — identical compound in Japanese けいさつしょ and Korean 경찰서; Mandarin uses 警察局, swapping the final character for "bureau" instead of "office" — the same X法/X算-style register split already documented on [[Numbers]]. Not yet a word page.)*
-- <ruby>[政府](../words/政府.md)<rt>ㄐㄧㄫㄆㄨ</rt></ruby>: government (the institution this subsection's vocabulary serves).
+- <ruby>[政府](../words/政府.md)<rt>ㄐㄧㄫㄈㄨ</rt></ruby>: government (the institution this subsection's vocabulary serves).
 
 ### Cultural 
 - scriptorium - *(no CJKV equivalent — a foreign/imported medieval European concept)*

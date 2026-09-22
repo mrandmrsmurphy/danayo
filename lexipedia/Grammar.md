@@ -43,7 +43,7 @@ language: English
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
 - should
 - would
-- will, intent (noun) : <ruby>[意志](../words/意志.md)<rt>ㄧㄐㄧ</rt></ruby>
+- will, intent (noun) : <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>
 
 ### Particles
 - as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>

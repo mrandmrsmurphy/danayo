@@ -5,7 +5,7 @@ language: 単亜語
 
 ## 有名
 - <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) <ruby>獨立<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby><ruby>運動家<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>, <ruby>刺客<rt>ㄑㄧㄎ·ㄎㄚㄎ</rt></ruby> (1879–1910)
-- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby><ruby>臨時<rt>ㄌㄧㄇㄙㄧ</rt></ruby><ruby>政府<rt>ㄐㄧㄫㄆㄨ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国務領<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
+- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby><ruby>臨時<rt>ㄌㄧㄇㄙㄧ</rt></ruby><ruby>政府<rt>ㄐㄧㄫㄈㄨ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国務領<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
 - <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>承<rt>ㄙㄨㄫ</rt></ruby><ruby>晩<rt>ㄇㄛㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 이승만 ) <ruby>第一<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> <ruby>総統<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby> (1875–1965)
 - <ruby>申<rt>ㄙㄝㄋ</rt></ruby><ruby>采<rt>ㄑㄚㄧ</rt></ruby><ruby>浩<rt>ㄏㄚㄨ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 신채호) <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>主義<rt>ㄐㄨㄜㄧ</rt></ruby><ruby>史学者<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> (1880–1936)
 - <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>成<rt>ㄙㄧㄫ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김일성 ) <ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby><ruby>民主<rt>ㄇㄧㄋㄐㄨ</rt></ruby><ruby>主義<rt>ㄐㄨㄜㄧ</rt></ruby><ruby>人民<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby><ruby>共和国<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>初代<rt>ㄑㄛㄉㄚㄧ</rt></ruby> <ruby>首領<rt>ㄙ⼜ㄌㄧㄫ</rt></ruby> (1912–1994)

@@ -243,7 +243,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- war - <ruby>[[戦争]]<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>
 	- peace - <ruby>[[太平]]<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>
 	- sword - <ruby>[[剣]]<rt>ㄍㄛㄇ</rt></ruby>
-	- government - <ruby>[[政府]]<rt>ㄐㄧㄫㄆㄨ</rt></ruby>
+	- government - <ruby>[[政府]]<rt>ㄐㄧㄫㄈㄨ</rt></ruby>
 	- law - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
 	- council *(needs a word)*
 	- tax - <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby>
