@@ -7,7 +7,7 @@
 - captain
 - charge
 - chief/chieftan
-- command
+- command : <ruby>[指揮](../words/指揮.md)<rt>ㄐㄧㄜㄏㄨㄧ</rt></ruby>
 - council
 - duke
 - duty

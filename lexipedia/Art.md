@@ -17,6 +17,7 @@ language: English
 - cinema, theater (venue) : <ruby>[劇場](../words/劇場.md)<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
 - dramatic poetry : <ruby>[劇詩](../words/劇詩.md)<rt>ㄍㄝㄎㄙㄧ</rt></ruby>
 - operetta, light opera : <ruby>[軽歌劇](../words/軽歌劇.md)<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby>
+- Chinese opera, play (script) : <ruby>[戯曲](../words/戯曲.md)<rt>ㄏㄨㄧㄎ⼄ㄎ</rt></ruby>
 - perform (verb) : <ruby>[演](../words/演.md)<rt>⼶ㄋ</rt></ruby>
 - perform, put on a show; direct, stage-direct : <ruby>[演出](../words/演出.md)<rt>⼶ㄋㄑㄨㄊ</rt></ruby>
 - play (music) : <ruby>[演奏](../words/演奏.md)<rt>⼶ㄋㄙㄛㄨ</rt></ruby>
