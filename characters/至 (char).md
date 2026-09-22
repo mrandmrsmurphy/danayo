@@ -61,6 +61,6 @@ date-last-perfect: 2026-08-01
 ## Derived Characters
 - <ruby>[[致 (char)|致]]<rt>ㄑㄧㄜ</rt></ruby> "cause"
 - <ruby>[[窒]]<rt>ㄉㄝㄊ</rt></ruby> "suffocate, choke"
-- <ruby>[[姪]]<rt>ㄉㄝㄊ</rt></ruby> "niece"
+- <ruby>[[姪 (char)|姪]]<rt>ㄉㄝㄊ</rt></ruby> "niece"
 - <ruby>[[室]]<rt>ㄙㄧㄊ</rt></ruby> "room"
 - <ruby>[[蛭 (char)|蛭]]<rt>ㄐㄧㄊ</rt></ruby> "leech"

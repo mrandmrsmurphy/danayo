@@ -100,8 +100,9 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[孩子](../words/孩子.md)<rt>ㄏㄚㄧㄐㄜ</rt></ruby>: child, kid(s) — covers any age from infancy through the teens, and can also mean "my child(ren)" even for an adult child.
 - <ruby>[子子](../words/子子.md)<rt>ㄐㄜㄐㄜ</rt></ruby>: my child — an affectionate, reduplicated way of referring to one's own child, distinct from [[孩子]]'s general sense.
 - <ruby>[児童](../words/児童.md)<rt>ㄝㄧㄉㄛㄫ</rt></ruby>: child, minor — a more formal/institutional register than [[孩子]] (児童文学, "children's literature"; 児童福祉, "child welfare").
-- <ruby>[甥](../words/甥.md)<rt>ㄙㄚㄫ</rt></ruby>: a sister's child — sororal niece or nephew, gender-unmarked but relationship-specific; a collateral descendant at this generational level; see Semantic Range Notes.
-- <ruby>[姪女](../words/姪女.md)<rt>ㄉㄝㄊㄋㄜ</rt></ruby>: niece — via any sibling.
+- <ruby>[甥](../words/甥.md)<rt>ㄙㄚㄫ</rt></ruby>: nephew — broadened 2026-09-21 (user-directed) from the classical "sister's child specifically" restriction to any sibling's son, following living Japanese usage; a collateral descendant at this generational level; see Semantic Range Notes.
+- <ruby>[姪](../words/姪.md)<rt>ㄉㄝㄊ</rt></ruby>: niece — the direct female counterpart of [[甥]], broadened the same day and the same way.
+- <ruby>[姪女](../words/姪女.md)<rt>ㄉㄝㄊㄋㄜ</rt></ruby>: niece — a more explicit "niece-woman" compound, now a near-synonym of bare [[姪]] rather than the only way to say "niece."
 - <ruby>[養子](../words/養子.md)<rt>⼘ㄫㄐㄜ</rt></ruby>: an adopted or foster child.
 
 ### Grandchildren (−2)
@@ -115,7 +116,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[後裔](../words/後裔.md)<rt>ㄏㄨㄛ⼶</rt></ruby>: descendant, posterity — a more formal/literary near-synonym of [[子孫]].
 - <ruby>[嗣子](../words/嗣子.md)<rt>ㄙㄜㄐㄜ</rt></ruby>: heir.
 
-**Not yet linked**: no attested vault word for "nephew via a brother" specifically — [[甥]] only covers the sororal line; a real, documented asymmetry rather than an oversight.
+Resolved 2026-09-21: "nephew via a brother" was a documented gap through most of this page's history ([[甥]] only covered the sororal line) — closed by broadening 甥 itself, rather than coining a separate word, once it became clear Japanese おい already treats the whole niece/nephew system the same way (see Semantic Range Notes).
 
 ## Marriage, Household & Status
 
@@ -124,7 +125,8 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry.
 - <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s more everyday sense.
 - <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage.
-- <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth.
+- <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
+- <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
 - <ruby>[出奔](../words/出奔.md)<rt>ㄑㄨㄊㄅㄛㄋ</rt></ruby>: to elope, to flee, to run away.
 - <ruby>[離婚](../words/離婚.md)<rt>ㄌㄝㄧㄏㄛㄋ</rt></ruby>: divorce.
@@ -142,7 +144,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.
 
-**Not yet linked**: "engagement" (as a state/event, distinct from [[聘]]'s "to betroth"), "bride," "dowry"/"bride-price," "monogamy," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these.
+**Not yet linked**: "bride," "dowry"/"bride-price," "monogamy," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement" is resolved as of [[婚約]] above.
 
 ## Family & Lineage (Collective Concepts)
 
@@ -183,7 +185,7 @@ A third axis, independent of the paternal/maternal and relative-age ones, runs t
 
 **2026-09-21 addition, corrected same day**: the older-sibling side of this domain was deliberately broadened to also cover "an older relative of the same generation," partially closing the "no word for cousin" gap — a real, user-directed semantic decision, not an organic discovery. The first version of this broadening put the new sense on [[兄]]/[[姉]] directly and treated [[哥哥]]/[[姉姉]] as merely their reduplicated forms; that was wrong for the brother side and was corrected the same day. The brother and sister sides turn out not to be structurally parallel: [[姉]] already stands in for *both* the classical (姊) and colloquial/fictive (姐) Chinese source characters — a design choice already baked into the vault before this — so there's no separate word to carry a broadened sense; the broadening had to sit on 姉 itself, with true-reduplicated [[姉姉]] simply along for the ride. The brother side keeps 兄 (classical) and 哥 (colloquial/fictive) as two genuinely separate roots, matching real Mandarin, where 哥哥 is not a reduplication of 兄 at all — it never surfaces as bare 哥, and 兄 never surfaces as 兄兄. So on the brother side, the broadened "fictive older brother, or a real older male relative of the same generation" sense belongs on [[哥哥]] alone; [[兄]] stays strictly biological. The evidence for the broadening itself was already sitting in [[哥哥]]'s own Notes: Mandarin 大哥/哥們 (general address for an older male), Korean 형/오빠 (both extend to close older friends, 오빠 even to boyfriends), and Vietnamese anh (glossed there as "older brother or male peer") all show an "older sibling" address term extending past literal siblinghood. A *younger* cousin was left as a real gap by this broadening alone, since [[弟]]/[[弟弟]] and [[細妹]]/[[妹妹]] were deliberately left untouched, and there's no younger-sibling equivalent of 哥's separate-root pattern to reach for instead — but see the "Cousins" subsection above, where six dedicated words (coined the same day) closed the gap properly regardless, covering older and younger, male and female alike.
 
-The niece/nephew pair shows a genuine asymmetry rather than a clean system: [[甥]] specifically means "a sister's child" — gender-unmarked (it covers both a nephew and a niece through a sister) but relationship-specific (it says nothing about a *brother's* child). [[姪女]] fills in "niece" for any sibling, but there is no attested vault word for "nephew via a brother" specifically — a real, standing asymmetry, unlike "cousin," which now has six dedicated words (see the "Cousins" subsection above) alongside the looser, context-disambiguated senses [[哥哥]]/[[姉]] also carry.
+The niece/nephew pair was a genuine, documented asymmetry through most of this page's history, resolved on 2026-09-21 by the same move already made for the cousin cluster: following living Japanese usage over the narrower classical Chinese restriction. Classically, 甥 named specifically a *sister's* child (gender-unmarked — it covered both a nephew and a niece through a sister) while 姪 named specifically a *brother's daughter*, together encoding the uterine/agnatic distinction that runs through this whole domain. But Japanese 甥 (おい) and 姪 (めい) had already dropped that distinction entirely — sex, not lineage, is what each one tracks in living Japanese, exactly the same generalizing move Japanese already made for the cousin terms. Dan'a'yo now follows suit: [[甥]] is "nephew" (either sibling's son) and [[姪]] is "niece" (either sibling's daughter), the character-level `stand_in` on [[姪]] itself changed from the bound compound [[姪女]] to 姪 directly, paralleling 甥's own already-self-standing status. [[姪女]] remains a valid, more explicit "niece-woman" compound alongside bare 姪, the same relationship 従兄弟 has to 従兄/従弟.
 
 The six [[従兄|従]]-prefixed cousin words (coined 2026-09-21, user-directed) carry a real, honest divergence between their classical Chinese source sense and the sense Dan'a'yo actually gives them. Classically, and still on Wiktionary, 從兄/從弟/從姊/從妹 name specifically a father's *brother's* children — a patrilineal parallel cousin, the same relation modern Mandarin marks with 堂 rather than 從 (從's own core sense is "collateral," reached by branching off the direct line, not "maternal" or "paternal" as such). Modern living Japanese has already generalized 従兄/従弟/従姉/従妹 past that restriction to "a cousin on either side," and casual Japanese collapses the whole system to plain いとこ regardless of age or gender — Dan'a'yo follows that generalized, living sense rather than the narrower classical one, the same choice already made for [[哥哥]]. The system itself splits cleanly on two independent axes, gender and relative age, exactly mirroring the sibling system it's built from: [[従兄]]/[[従弟]] (male, older/younger) and [[従姉]]/[[従妹]] (female, older/younger), plus [[従兄弟]]/[[従姉妹]] as the generic collectives — no attempt was made to also encode which parent's side, since neither the living Japanese source nor the coined Dan'a'yo words need that distinction the way classical Chinese or modern Mandarin's 堂/表 split do.
 

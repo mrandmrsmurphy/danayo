@@ -51,7 +51,7 @@ tags: [lookup]
 28. <ruby>[姥](../../characters/姥.md)<rt>ㄇㄛ</rt></ruby> - maternal grandmother
 29. <ruby>[姦](../../characters/姦.md)<rt>ㄍㄚㄋ</rt></ruby> - fornicate
 30. <ruby>[姨](../../characters/姨.md)<rt>ㄧㄜ</rt></ruby> - maternal aunt
-31. <ruby>[姪](../../characters/姪.md)<rt>ㄉㄝㄊ</rt></ruby> - niece
+31. <ruby>[姪 (char)](../../characters/姪%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> - niece
 32. <ruby>[姫](../../characters/姫%20(char).md)<rt>ㄍㄧ</rt></ruby> - princess
 33. <ruby>[姻](../../characters/姻.md)<rt>ㄧㄋ</rt></ruby> - matrimony
 34. <ruby>[姿](../../characters/姿.md)<rt>ㄐㄧㄜ</rt></ruby> - manner

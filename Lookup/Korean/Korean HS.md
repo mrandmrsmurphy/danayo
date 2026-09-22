@@ -575,7 +575,7 @@ tags: [lookup]
 #### 진
 [振 (char)](../../characters/振%20(char).md) (떨칠 진)  [[鎮 (char)|鎭]] (진압할 진)  [陳](../../characters/陳.md) (베풀 진)  [陣](../../characters/陣.md) (진칠 진)  [珍 (char)](../../characters/珍%20(char).md) (보배 진)  [震](../../characters/震.md) (진동할 진)
 #### 질
-[秩](../../characters/秩.md) (차례 질)  [疾](../../characters/疾.md) (병 질)  [姪](../../characters/姪.md) (조카 질)
+[秩](../../characters/秩.md) (차례 질)  [疾](../../characters/疾.md) (병 질)  [姪 (char)](../../characters/姪%20(char).md) (조카 질)
 #### 징
 [[徴|徵]] (부를 징)  [懲](../../characters/懲.md) (혼날 징)
 

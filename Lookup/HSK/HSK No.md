@@ -240,7 +240,7 @@ tags: [lookup]
 [[燕]]
 [雁 (char)](characters/雁%20(char).md)
 [楠](characters/楠.md)
-[姪](characters/姪.md)
+[姪 (char)](characters/姪%20(char).md)
 [椰](characters/椰.md)
 [諡](characters/諡.md)
 [鴻](characters/鴻.md)

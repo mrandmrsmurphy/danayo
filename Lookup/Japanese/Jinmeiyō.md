@@ -96,7 +96,7 @@ tags: [lookup]
 90. [圭](../../characters/圭.md)
 91. [坐 (char)](../../characters/坐%20(char).md)
 92. [壬](../../characters/壬.md)
-93. [姪](../../characters/姪.md)
+93. [姪 (char)](../../characters/姪%20(char).md)
 94. [孟](../../characters/孟.md)
 95. [宋](../../characters/宋.md)
 96. [寅](../../characters/寅.md)

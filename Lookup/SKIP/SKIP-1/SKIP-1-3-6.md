@@ -23,7 +23,7 @@ tags:
 11. <ruby>[姚](characters/姚.md)<rt>⼄ㄨ</rt></ruby> "handsome"
 12. <ruby>[姥](characters/姥.md)<rt>ㄇㄛ</rt></ruby> "maternal grandmother"
 13. <ruby>[姨](characters/姨.md)<rt>ㄧㄜ</rt></ruby> "maternal aunt"
-14. <ruby>[姪](characters/姪.md)<rt>ㄉㄝㄊ</rt></ruby> "niece"
+14. <ruby>[姪 (char)](characters/姪%20(char).md)<rt>ㄉㄝㄊ</rt></ruby> "niece"
 15. <ruby>[娃](characters/娃.md)<rt>⼘ㄧ</rt></ruby> "beautiful"
 16. <ruby>[孩](characters/孩.md)<rt>ㄏㄚㄧ</rt></ruby> "baby"
 17. <ruby>[峡](characters/峡.md)<rt>ㄏㄚㄆ</rt></ruby> "gorge"

@@ -18,8 +18,7 @@ skip_number: 1-5-7
 grade_level: 先進
 pos: 名詞
 english:
-  - sister's child
-  - sororal niece or nephew
+  - nephew
 羅馬字: sang
 諺文: 상
 joyo_level: 日本人名用漢字
@@ -35,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-09-21
 ---
 >[!tip] This is a page about the character 甥.
 >For the word, see [甥](words/甥.md)
@@ -43,10 +42,10 @@ date-last-perfect: 2026-08-13
 [[nav/char_info]]
 ```
 ## Notes
-- 形聲 (OC \*sreŋ): phonetic [[生]] ("life, birth," a close match) + semantic [[男]] ("male") — a sororal niece or nephew (sister's child); (obsolete) a son-in-law.
+- 形聲 (OC \*sreŋ): phonetic [[生]] ("life, birth," a close match) + semantic [[男]] ("male") — originally a sororal niece or nephew (a sister's child, gender-unmarked); (obsolete) a son-in-law. **Broadened 2026-09-21, user-directed**: Dan'a'yo now uses 甥 as the general word for "nephew" (either sibling's son), paralleling how Japanese おい already treats sex, not lineage, as the relevant distinction — see [[甥]]'s own Notes.
 - [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 2862nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄙㄚㄫ](syllables/ㄙㄚㄫ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
-- <ruby>[[甥]]<rt>ㄙㄚㄫ</rt></ruby> "sister's child" (stand-in for 甥)
+- <ruby>[[甥]]<rt>ㄙㄚㄫ</rt></ruby> "nephew" (stand-in for 甥)
