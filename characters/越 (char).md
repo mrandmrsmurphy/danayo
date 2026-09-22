@@ -9,6 +9,7 @@ japanese:
   - KATSU
 japanese_native: ø
 vietnamese:
+  - việt
   - nhông
   - việt
   - vác
