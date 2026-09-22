@@ -51,4 +51,5 @@ date-last-perfect: 2026-09-05
 
 ## Words
 - <ruby>[[翌]]<rt>ㄧㄎ</rt></ruby> "the following" (stand-in for 翌)
+- <ruby>[[翌日]]<rt>ㄧㄎㄋㄧㄊ</rt></ruby> "the following day"
 - <ruby>[[翌月]]<rt>ㄧㄎ⼔ㄊ</rt></ruby> "the following month"
