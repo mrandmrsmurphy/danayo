@@ -7,7 +7,8 @@ japanese:
   - REI
 japanese_native: きつい
 vietnamese:
-  - lẹ, lệ
+  - lẹ
+  - lệ
 middle_chinese_initial: l
 middle_chinese_final: iᴇi
 stroke_count: 5
@@ -48,11 +49,15 @@ boundedness: 75
 ```
 ## Notes
 - 形声: (OC \*m·rads): semantic [厂](Radical%20027) + abbreviated phonetic [万](万.md) (OC \*m̥ʰraːds), also had semantic 石.
-- [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md)) - [ㄌㄝ](../syllables/ㄌㄝ.md)
+- [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 770th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄌㄝ](../syllables/ㄌㄝ.md)
 - [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ### 借代字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
 - "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')
-[[Lookup/CC/initials/聲 來]]
-[[Lookup/CC/finals/韻 祭A三開]]
+
+## Words
+- <ruby>[[厉]]<rt>ㄌㄝ</rt></ruby> "whetstone" (stand-in for 厉)
+- <ruby>[[牡厉]]<rt>ㄇㄛㄨㄌㄝ</rt></ruby> "oyster"
+- <ruby>[[厉病]]<rt>ㄌㄝㄅ⼶ㄫ</rt></ruby> "leprosy"
