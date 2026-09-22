@@ -94,6 +94,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.
+- <ruby>[牡厉](../words/牡厉.md)<rt>ㄇㄛㄨㄌㄝ</rt></ruby>: oyster — a phonetic-loan spelling of 牡蛎/牡蠣, standing in for the far rarer 蛎/蠣.
 - <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
