@@ -39,6 +39,8 @@ Our entire solar system is orbiting (<ruby>[軌道](../words/軌道.md)<rt>ㄎ�
 - solstice <ruby>[至点](../words/至点.md)<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> - point, <ruby>[至日](../words/至日.md)<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> - day
 - <ruby>[冬至](../words/冬至.md)<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> winter solstice
 - <ruby>[夏至](../words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> summer solstice
+- <ruby>[春分](../words/春分.md)<rt>ㄑㄨㄋㄅㄨㄋ</rt></ruby> spring equinox
+- <ruby>[秋分](../words/秋分.md)<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby> autumn equinox
 - <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> - solar eclipse
 - lunar eclipse = <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>
 - conjunction is a 合; an opposition is a 衝 
