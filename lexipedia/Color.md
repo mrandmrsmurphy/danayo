@@ -27,6 +27,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 - <ruby>[七色](../words/七色.md)<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby>: the seven spectral colors, ROYGBIV — the full rainbow spectrum as a set concept.
 - <ruby>[単色](../words/単色.md)<rt>ㄉㄚㄋㄙㄧㄎ</rt></ruby>: monochrome, single-color.
 - <ruby>[彩色](../words/彩色.md)<rt>ㄑㄚㄧㄙㄧㄎ</rt></ruby>: colored (adjective).
+- <ruby>[多彩](../words/多彩.md)<rt>ㄉㄚㄑㄚㄧ</rt></ruby>: multicolored, vibrant, flamboyant — literally "many-colored."
 
 ## Intermediate (B1–B2)
 
