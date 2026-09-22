@@ -49,7 +49,7 @@ language: English
 - shallow
 - short
 - tall
-- thick
+- thick : <ruby>[茂密](../words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>
 - thin
 - wide
 
