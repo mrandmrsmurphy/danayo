@@ -2,7 +2,7 @@
 - bottle
 - box
 - chest
-- close
+- close : <ruby>[関](../words/関.md)<rt>ㄍ⺢ㄇ</rt></ruby>
 - collect
 - contain
 - content
