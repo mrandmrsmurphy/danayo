@@ -7,7 +7,7 @@ japanese:
   - RIN
 japanese_native: うさぎあみ
 vietnamese:
-  - ø
+  - Roentgeni
 middle_chinese_initial: l
 middle_chinese_final: iuɪn
 stroke_count: 16
