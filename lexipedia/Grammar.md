@@ -118,6 +118,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[時制](../words/時制.md)<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"
 - <ruby>[時相](../words/時相.md)<rt>ㄙㄧㄙㄚㄫ</rt></ruby> "tense-aspect, grammatical aspect"
 - <ruby>[有生](../words/有生.md)<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
+- <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
 
 ## Function Words
 - <ruby>[助詞](../words/助詞.md)<rt>ㄐㄛㄙㄚ</rt></ruby> "particle (grammar)"
