@@ -9,7 +9,6 @@ japanese_native:
   - くろがね
 vietnamese:
   - sắt
-  - thiếc
   - thiết
   - thét
 middle_chinese_initial: tʰ
@@ -41,7 +40,7 @@ aliases:
 - 䥫
 - 鋨
 注音: ㄊㄝㄊ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-09-21
 kwin: false
 tags:
   - character
