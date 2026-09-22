@@ -1,6 +1,6 @@
 - afraid
 - alarm
-- amuse
+- amuse : <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>
 - anger
 - anxious
 - bitter
