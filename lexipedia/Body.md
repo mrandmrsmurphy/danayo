@@ -58,6 +58,7 @@ language: English
 - middle ear - <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>
 - eye - <ruby>[目](../words/目.md)<rt>ㄇㄨㄎ</rt></ruby>
 - eyebrows - <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>
+- iris (of the eye) - <ruby>[虹彩](../words/虹彩.md)<rt>ㄏㄛㄫㄑㄚㄧ</rt></ruby>
 - face - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>
 - complexion, expression - <ruby>[顔色](../words/顔色.md)<rt>ㄚㄋㄙㄧㄎ</rt></ruby>
 - philtrum - <ruby>[人中](../words/人中.md)<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby>
