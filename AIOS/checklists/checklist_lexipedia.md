@@ -11,6 +11,8 @@ A lexipedia domain page (`lexipedia/*.md`, e.g. `Metals.md`, `Numbers.md`, `Kins
 
 This checklist is distinct from the domain-list pages this vault treats as a different category: Swadesh, Sophomore List (Rosenfelder frequency lists, flat structure, no tiers), and Geography/Calendar/Periodic Table (functional IAL self-description, not semantic-field vocabulary — see `lexipedia/Lexipedia.md`'s own "Others" grouping). Nothing below applies to those.
 
+**Structural exception, user-directed 2026-09-21**: `lexipedia/Kinship.md` deliberately replaces the A1–C1 tiering below with an ego-centered genealogical structure instead — Ego's Generation, then Ascending Generations (Parents → Grandparents → Ancestors) and Descending Generations (Children → Grandchildren → Descendants) as their own top-level sections, plus separate sections for marriage/household-status vocabulary and for family-as-a-whole/lineage vocabulary that don't sit on any single generational rung. This is how real kinship charts organize the same material, and it fits kinship terminology better than a difficulty ladder does. `Domain Overview`, `Semantic Range Notes`, and `See Also` are unchanged and still required. Don't "fix" Kinship's structure back to A1–C1 on a future audit — this was a deliberate, explicit choice, not an oversight. If another domain's content structure would obviously suit it better organized some other way than A1–C1 (this is the first and, as of this note, only such case), that's a discussion to have with the user before changing it, not a default.
+
 ---
 
 ## Frontmatter
