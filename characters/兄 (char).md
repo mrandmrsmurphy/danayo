@@ -30,7 +30,7 @@ graphemic_classification: 会意
 stand_in: 兄
 aliases:
 注音: ㄏ⼄ㄫ
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-09-21
 kwin: false
 tags:
   - character
@@ -56,6 +56,8 @@ Reduplication for the diminutive suppletes to [[哥哥]] rather than doubling �
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers, brotherhood"
 - <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
 - <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
+- <ruby>[[従兄]]<rt>ㄐㄛㄫㄏ⼄ㄫ</rt></ruby> "older male cousin"
+- <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
 
 ## Derived Characters
 - <ruby>[[況]]<rt>ㄏ⺢ㄫ</rt></ruby> "condition"

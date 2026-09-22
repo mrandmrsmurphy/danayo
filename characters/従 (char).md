@@ -35,7 +35,7 @@ aliases:
   - 慫
   - 怂
 注音: ㄐㄛㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-09-21
 kwin: true
 tags:
   - character
@@ -64,3 +64,9 @@ boundedness: 65
 - <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto, conventional"
 - <ruby>[[服従]]<rt>ㄅㄨㄎㄐㄛㄫ</rt></ruby> "obedience, submission"
 - <ruby>[[盲従]]<rt>ㄇㄚㄫㄐㄛㄫ</rt></ruby> "blind obedience"
+- <ruby>[[従兄]]<rt>ㄐㄛㄫㄏ⼄ㄫ</rt></ruby> "older male cousin"
+- <ruby>[[従弟]]<rt>ㄐㄛㄫㄉㄝ</rt></ruby> "younger male cousin"
+- <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
+- <ruby>[[従姉]]<rt>ㄐㄛㄫㄐㄚ</rt></ruby> "older female cousin"
+- <ruby>[[従妹]]<rt>ㄐㄛㄫㄇㄛㄧ</rt></ruby> "younger female cousin"
+- <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"

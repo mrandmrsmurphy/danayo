@@ -31,7 +31,7 @@ aliases:
   - 姐
   - 姊
 注音: "ㄐㄚ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-21
 kwin: true
 tags:
   - character
@@ -55,3 +55,5 @@ boundedness: 65
 - <ruby>[[姉姉]]<rt>ㄐㄚㄐㄚ</rt></ruby> "little big sister"
 - <ruby>[[姉妹]]<rt>ㄐㄚㄇㄛㄧ</rt></ruby> "sisters"
 - <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"
+- <ruby>[[従姉]]<rt>ㄐㄛㄫㄐㄚ</rt></ruby> "older female cousin"
+- <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"

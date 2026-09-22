@@ -33,7 +33,7 @@ aliases:
   - 悌
   - 棣
 注音: ㄉㄝ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-09-21
 kwin: false
 tags:
   - character
@@ -59,6 +59,8 @@ boundedness: 80
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers; brotherhood"
 - <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"
 - <ruby>[[孝弟]]<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby> "filial piety and fraternal duty"
+- <ruby>[[従弟]]<rt>ㄐㄛㄫㄉㄝ</rt></ruby> "younger male cousin"
+- <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
 
 ## Derived Characters
 - <ruby>[[剃 (char)|剃]]<rt>ㄊㄝㄧ</rt></ruby> "shave"
