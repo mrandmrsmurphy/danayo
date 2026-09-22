@@ -236,6 +236,7 @@ The end of the century - <ruby>[世紀末](../words/世紀末.md)<rt>ㄙㄝㄍ�
 
 - <ruby>[世代](../words/世代.md)<rt>ㄙㄝㄉㄚㄧ</rt></ruby> — generation, era
 - <ruby>[中世](../words/中世.md)<rt>ㄐㄨㄫㄙㄝ</rt></ruby> — the Middle Ages, medieval period
+- <ruby>[近代](../words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby> — the early modern period, following the Middle Ages
 - <ruby>[明治](../words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby> (1868–1912)
 - <ruby>[大正](../words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby> (1912–1926)
 - <ruby>[昭和](../words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby> (1926–1989)
