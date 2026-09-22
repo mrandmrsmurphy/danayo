@@ -6,7 +6,8 @@ korean_native: 자
 japanese:
   - SHAKU
   - SEKI
-japanese_native: さし
+japanese_native:
+  - さし
   - ものさし
 vietnamese:
   - xích
@@ -44,9 +45,9 @@ boundedness: 90
 ```
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): A man (人) with a mark (乙) on his leg to indicate 10 cun (寸) above the foot. (Lin Yiguang, 1920).  Listed under [Radical 044](../lookup/Radicals/Radical%20044.md).
-- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md)) - [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 531st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
-- 531st most popular character in Classical Chinese
 - Descendants: 
 	- [択](characters/択.md)
 	- [䋇](characters/䋇%20(char).md)
@@ -54,7 +55,6 @@ boundedness: 90
 	- [[訳]]
 	- [[沢]]
 ## Words
+- <ruby>[[尺]]<rt>ㄑㄝㄎ</rt></ruby> "foot (distance)" (stand-in for 尺)
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎㄏ⺢ㄎ</rt></ruby> "inchworm"
 - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
-[[Lookup/CC/initials/聲 昌]]
-[[Lookup/CC/finals/韻 昔開]]
