@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"
 - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby> "bicycle"
 - <ruby>[[乗車]]<rt>ㄙㄨㄫㄑ⺢</rt></ruby> "board a vehicle; get on"
-- <ruby>[[洗車]]<rt>ㄙㄝㄋㄑㄚ</rt></ruby> "wash a car"
+- <ruby>[[洗車]]<rt>ㄙㄝㄋㄑ⺢</rt></ruby> "wash a car"
 - <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "hwacha; fire chariot"
 - <ruby>[[車庫]]<rt>ㄑ⺢ㄎㄛ</rt></ruby> "garage"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
