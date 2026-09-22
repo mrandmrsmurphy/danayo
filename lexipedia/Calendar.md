@@ -98,7 +98,7 @@ The end of the month - <ruby>[月末](../words/月末.md)<rt>⼔ㄊㄇㄚㄊ</rt
 8. <ruby>[八月](../words/八月.md)<rt>ㄅㄚㄊ·⼔ㄊ</rt></ruby> - August
 9. <ruby>[九月](../words/九月.md)<rt>ㄎ⼜·⼔ㄊ</rt></ruby> - September
 10. <ruby>[十月](../words/十月.md)<rt>ㄙㄧㄆ·⼔ㄊ</rt></ruby> - October
-11. <ruby>[十一月](../words/十一月.md)<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> - November
+11. <ruby>[十一月](../words/十一月.md)<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄊ</rt></ruby> - November
 12. <ruby>[十二月](../words/十二月.md)<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> - December
 
 There also exist <ruby>[旬日](../words/旬日.md)<rt>ㄙ⼜ㄋㄋㄧㄊ</rt></ruby>, which are ten days long. The term is slightly ambiguous, but typically refers to one of the following:

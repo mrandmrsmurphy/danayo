@@ -72,7 +72,7 @@ boundedness: 75
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby> "ninety"
 - <ruby>[[十月]]<rt>ㄙㄧㄆ·⼔ㄊ</rt></ruby> "October"
-- <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> "November"
+- <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄊ</rt></ruby> "November"
 - <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十二日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twenty-second day of the month"

@@ -90,7 +90,7 @@ boundedness: 80
 - <ruby>[[八月]]<rt>ㄅㄚㄊ·⼔ㄊ</rt></ruby> "August"
 - <ruby>[[九月]]<rt>ㄎ⼜·⼔ㄊ</rt></ruby> "September"
 - <ruby>[[十月]]<rt>ㄙㄧㄆ·⼔ㄊ</rt></ruby> "October"
-- <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> "November"
+- <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄊ</rt></ruby> "November"
 - <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
 - <ruby>[[寅月]]<rt>ㄧㄋ·⼔ㄊ</rt></ruby> "first month (tiger month)"
 - <ruby>[[卯月]]<rt>ㄇ⼘ㄨ·⼔ㄊ</rt></ruby> "second month (rabbit month)"
