@@ -5,10 +5,14 @@ korean: "당"
 korean_native: 당할
 japanese:
   - TOU
-japanese_native: あ
-  - あ-たる,あ-てる
+japanese_native:
+  - あ
+  - あ-たる
+  - あ-てる
 vietnamese:
-  - đáng, đương
+  - đang
+  - đáng
+  - đương
 middle_chinese_initial: t
 middle_chinese_final: ɑŋ
 stroke_count: 6
