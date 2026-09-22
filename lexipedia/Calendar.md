@@ -264,3 +264,4 @@ Time planning:
 - <ruby>[日程](../words/日程.md)<rt>ㄋㄧㄊㄉㄧㄫ</rt></ruby> — itinerary / timetable
 - <ruby>[締切](../words/締切.md)<rt>ㄊㄝㄧㄑㄝㄊ</rt></ruby> — deadline
 - <ruby>[期限](../words/期限.md)<rt>ㄎㄧㄏㄚㄋ</rt></ruby> — due date
+- <ruby>[更改](../words/更改.md)<rt>ㄍㄚㄫㄍㄚㄧ</rt></ruby> — to change, revise, or reschedule (a plan, a schedule)

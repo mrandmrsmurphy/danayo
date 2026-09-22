@@ -56,7 +56,7 @@ boundedness: 100
 - <ruby>[[明]]<rt>ㄇ⼶ㄫ</rt></ruby> "bright" (stand-in for 明)
 - <ruby>[[光明]]<rt>ㄍ⺢ㄫㄇ⼶ㄫ</rt></ruby> "brightness; hope; light; radiance"
 - <ruby>[[明白]]<rt>ㄇ⼶ㄫㄅㄚㄎ</rt></ruby> "clear; obvious; evident"
-- <ruby>[[明瞭]]<rt>ㄚ⼶ㄫㄌ⼘ㄨ</rt></ruby> "apparent; clear"
+- <ruby>[[明瞭]]<rt>ㄇ⼶ㄫㄌ⼘ㄨ</rt></ruby> "apparent; clear"
 - <ruby>[[明朗]]<rt>ㄇ⼶ㄫㄌㄚㄫ</rt></ruby> "bright; clear; cheerful"
 - <ruby>[[明確]]<rt>ㄇ⼶ㄫㄎㄚㄎ</rt></ruby> "clear; definite"
 - <ruby>[[明様]]<rt>ㄇ⼶ㄫ⼘ㄫ</rt></ruby> "brightly; in a bright way"
