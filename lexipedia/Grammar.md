@@ -220,3 +220,4 @@ The traditional classification of Chinese character formation.
 - <ruby>[句](../words/句.md)<rt>ㄍㄨ</rt></ruby> "phrase, sentence, stanza, paragraph, clause, pericope"
 - <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"
 - <ruby>[段](../words/段.md)<rt>ㄉ⺢ㄋ</rt></ruby> "segments, sections, passages"
+- <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ·⼄</rt></ruby> "to coin a word; a coinage, neologism"
