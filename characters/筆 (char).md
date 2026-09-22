@@ -6,7 +6,6 @@ korean_native: 필
 japanese:
   - HITSU
 japanese_native: ふで
-  - ふで
 vietnamese:
   - bút
 middle_chinese_initial: p
