@@ -198,6 +198,9 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>,
 - Arctic Ocean ([[北氷洋]]), 
 - and Southern Ocean ([[南氷洋]]). 
+
+The two poles: the <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby> (South Pole, distinct from the continent [[南極洲]]) and the <ruby>[北極](../words/北極.md)<rt>ㄅㄨㄎㄍㄧㄎ</rt></ruby> (North Pole, which — unlike the South Pole — sits in open ocean, not on a continent).
+
 In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
 
 #### Ancient
