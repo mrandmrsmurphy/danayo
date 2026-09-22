@@ -31,7 +31,7 @@ stand_in: "婦"
 aliases:
   - 妇
 注音: "ㄅ⼜"
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-09-21
 kwin: false
 tags:
   - character
@@ -55,6 +55,7 @@ boundedness: 65
 - <ruby>[[夫婦]]<rt>ㄅㄨㄅ⼜</rt></ruby> "couple"
 - <ruby>[[主婦]]<rt>ㄐㄨㄅ⼜</rt></ruby> "housewife"
 - <ruby>[[寡婦]]<rt>ㄍ⺢ㄅ⼜</rt></ruby> "widow"
+- <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"
 
 ## Derived Characters
 - <ruby>[[掃]]<rt>ㄙㄚㄨ</rt></ruby> "sweep"

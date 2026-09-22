@@ -30,7 +30,7 @@ mc_id: 626
 graphemic_classification: 辛
 stand_in: 新
 注音: ㄙㄧㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-09-21
 kwin: true
 tags:
   - character
@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[更新]]<rt>ㄍㄚㄫㄙㄧㄋ</rt></ruby> "renew; replace"
 - <ruby>[[新西蘭]]<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby> "New Zealand"
 - <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> "shinjitai"
+- <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

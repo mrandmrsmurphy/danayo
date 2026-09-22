@@ -128,6 +128,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
 - <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
+- <ruby>[新婦](../words/新婦.md)<rt>ㄙㄧㄋㄅ⼜</rt></ruby>: bride — the direct female counterpart of [[婿]] on the wedding side, standard wedding vocabulary (新郎新婦, "the bride and groom").
 - <ruby>[出奔](../words/出奔.md)<rt>ㄑㄨㄊㄅㄛㄋ</rt></ruby>: to elope, to flee, to run away.
 - <ruby>[離婚](../words/離婚.md)<rt>ㄌㄝㄧㄏㄛㄋ</rt></ruby>: divorce.
 - <ruby>[寡婦](../words/寡婦.md)<rt>ㄍ⺢ㄅ⼜</rt></ruby>: widow.
@@ -144,7 +145,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.
 
-**Not yet linked**: "bride," "dowry"/"bride-price," "monogamy," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement" is resolved as of [[婚約]] above.
+**Not yet linked**: "dowry"/"bride-price," "monogamy," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement" and "bride" are resolved as of [[婚約]]/[[新婦]] above.
 
 ## Family & Lineage (Collective Concepts)
 
