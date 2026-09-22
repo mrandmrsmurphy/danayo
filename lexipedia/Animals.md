@@ -66,6 +66,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[企鵝](../words/企鵝.md)<rt>ㄎㄝㄚ</rt></ruby>: penguin.
 - <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby>: albatross.
 - <ruby>[啄木鳥](../words/啄木鳥.md)<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby>: woodpecker.
+- <ruby>[斑鳩](../words/斑鳩.md)<rt>ㄅㄚㄋㄎ⼜</rt></ruby>: turtledove.
 
 ### Insects, Arachnids & Small Creatures
 
