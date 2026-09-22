@@ -11,6 +11,7 @@ japanese_native:
 vietnamese:
   - đáy
   - đây
+  - để
   - đé
   - đẻ
   - đẽ
