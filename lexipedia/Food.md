@@ -12,6 +12,7 @@ language: English
 - egg
 - food
 - fruit
+- coconut : <ruby>[椰子](../words/椰子.md)<rt>⼘ㄐㄜ</rt></ruby>
 - knife
 - lunch
 - meal
