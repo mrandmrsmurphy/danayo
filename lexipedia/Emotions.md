@@ -20,7 +20,7 @@
 - excite
 - experience
 - fear
-- feel
+- feel : <ruby>[気分](../words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby>
 - fierce
 - glad
 - grave
