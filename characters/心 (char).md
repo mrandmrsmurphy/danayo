@@ -68,10 +68,10 @@ boundedness: 90
 - <ruby>[[灯心]]<rt>ㄉㄨㄫㄙㄧㄇ</rt></ruby> "wick; lamp wick"
 - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby> "careful, cautious; to worry about, take pains over"
 ## Chengyu
-- <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫ·ㄧ</rt></ruby> "in all sincerity; with one's whole heart"
+- <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
 - <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫ·ㄚㄎ</rt></ruby> "evil hearts, evil intents"
-- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫ·ㄧㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
+- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
 
 ## Derived Characters
 - <ruby>[[志]]<rt>ㄐㄧ</rt></ruby> "will"

@@ -36,7 +36,7 @@ aliases:
   - 𩥾
   - 騐
 注音: ㄝㄇ
-date-last-perfect: 2026-04-01
+date-last-perfect: 2026-09-22
 kwin: false
 tags:
   - character
@@ -46,8 +46,8 @@ boundedness:
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ŋrams): semantic [馬](Radical%20187) + phonetic [㑒](㑒.md) (OC *skʰlam).
-- [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md)) - [ㄝㄇ](../syllables/ㄝㄇ.md)
+- 形声 (OC \*ŋrams): semantic [馬](Radical%20187) ("horse") + phonetic [㑒](㑒.md) (OC \*skʰlam).
+- [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 1136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄝㄇ](../syllables/ㄝㄇ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
 ## Words

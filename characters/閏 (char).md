@@ -5,7 +5,7 @@ korean: 윤
 korean_native: 윤달
 japanese:
   - JUN
-japanese_native: うるう
+japanese_native:
   - うるう
 vietnamese:
   - nhuận
@@ -36,7 +36,7 @@ aliases:
   - 䦞
   - 𥹿
 注音: ㄋㄨㄋ
-date-last-perfect: 2026-04-02
+date-last-perfect: 2026-09-22
 kwin: false
 tags:
   - character
@@ -48,15 +48,15 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [門](Radical%20169) (“gate”) + [王 (char)](王%20(char).md) (“king”). The original meaning “intercalary” is derived from kings' ancient practice of remaining within the palace gates on a leap day (which was in excess of the lunar calendar's 364 days, whence the meanings “remainder” and “surplus”), not engaging in their usual governing functions.
-- [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
+- [List of 会意](../lookup/List%20of%20会意.md): [門](Radical%20169) ("gate") + [王 (char)](王%20(char).md) ("king"). The original meaning "intercalary" is derived from kings' ancient practice of remaining within the palace gates on a leap day (which was in excess of the lunar calendar's 364 days, whence the meanings "remainder" and "surplus"), not engaging in their usual governing functions.
+- [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1628th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [HSK No](../lookup/HSK/HSK%20No.md), [Grade Advanced](../lookup/Grade%20Advanced.md)
 
 ## Words
-- [[閏月]] - "leap month"
-- <ruby>[閏年](/words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> "leap year"
-- [[閏日]] "leap day"
-- [[閏秒]] "leap second"
-- [[置閏]] "intercalation"
-[[Lookup/CC/initials/聲 日]]
-[[Lookup/CC/finals/韻 諄]]
+- <ruby>[[閏]]<rt>ㄋㄨㄋ</rt></ruby> "intercalary" (stand-in for 閏)
+- <ruby>[[閏月]]<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> "leap month"
+- <ruby>[閏年](../words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> "leap year"
+- <ruby>[[閏日]]<rt>ㄋㄨㄋ·ㄋㄧㄊ</rt></ruby> "leap day"
+- <ruby>[[閏秒]]<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> "leap second"
+- <ruby>[[置閏]]<rt>ㄑㄧㄋㄨㄋ</rt></ruby> "intercalation"

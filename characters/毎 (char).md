@@ -64,7 +64,7 @@ boundedness:
 - <ruby>[[毎類]]<rt>ㄇㄛㄧㄌㄨㄧ</rt></ruby> "each kind; each type separately"
 - <ruby>[[毎世紀]]<rt>ㄇㄛㄧㄙㄝㄍㄧ</rt></ruby> "every century"
 ## Chengyu
-- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> "Per Character Clear Meaning"
+- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 ## Derived Characters
 - <ruby>[[侮]]<rt>ㄇㄨ</rt></ruby> "scorn, insult"
 - <ruby>[[梅]]<rt>ㄇㄛㄧ</rt></ruby> "plum, prune"

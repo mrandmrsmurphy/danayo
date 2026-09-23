@@ -61,4 +61,4 @@ boundedness: 90
 - <ruby>[[肋]]<rt>ㄌㄜㄎ</rt></ruby> "rib"
 
 ## Chengyu
-- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫ·ㄧㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
+- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
