@@ -9,7 +9,7 @@
 - just - <ruby>[正義](../words/正義.md)<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice" (the noun form doing double duty for the adjective)
 - law - <ruby>[法律](../words/法律.md)<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
 - obey - <ruby>[循](../words/循.md)<rt>ㄙ⼜ㄋ</rt></ruby>
-- police - *(no word yet — real gap)*
+- police - <ruby>[警察](../words/警察.md)<rt>ㄍ⼶ㄫㄑㄚㄊ</rt></ruby>
 - prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby> (also <ruby>[牢獄](../words/牢獄.md)<rt>ㄌㄚㄨ⼄ㄎ</rt></ruby>, an independently attested synonym)
 - rule (a regulation) - <ruby>[規定](../words/規定.md)<rt>ㄍㄨㄧㄐㄝㄫ</rt></ruby>
 - steal - <ruby>[窃盗](../words/窃盗.md)<rt>ㄑㄝㄊㄉㄚㄨ</rt></ruby> "theft, larceny"
