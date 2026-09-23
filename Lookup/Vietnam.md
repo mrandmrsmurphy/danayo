@@ -1,6 +1,6 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-03-12
+date-last-perfect: 2026-06-12
 ---
 <ruby>[越南](/words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>
 ## 人
