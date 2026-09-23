@@ -66,6 +66,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[一万](../words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby>: myriad (ten thousand).
 - <ruby>[一億](../words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
 - <ruby>[一溝](../words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
+- <ruby>[一兆](../words/一兆.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: one trillion.
 - <ruby>[百](../words/百.md)<rt>ㄅㄚㄎ</rt></ruby>: hundred (bare form, contrast [[一百]] above).
 - <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
 - <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
@@ -108,6 +109,9 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>: odd (number).
 - <ruby>[[偶数]]<rt>ㄛㄨㄙㄨ</rt></ruby>: even (number).
 - <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby>: number, numeral, digit.
+- <ruby>[乗数](../words/乗数.md)<rt>ㄙㄨㄫㄙㄨ</rt></ruby>: multiplier — the *b* in *a* × *b*, as distinct from 被乗数, the multiplicand.
+- <ruby>[自乗](../words/自乗.md)<rt>ㄐㄧㄜㄙㄨㄫ</rt></ruby>: to square (a number) — literally "multiply by itself."
+- <ruby>[剰余](../words/剰余.md)<rt>ㄐㄧㄫ·⼄</rt></ruby>: remainder, surplus.
 
 ### Number Types
 

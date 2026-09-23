@@ -15,6 +15,7 @@ language: English
 - village - <ruby>[農村](../words/農村.md)<rt>ㄋㄛㄫㄑㄛㄋ</rt></ruby>
 - courtyard - <ruby>[中庭](../words/中庭.md)<rt>ㄐㄨㄫㄉㄝㄫ</rt></ruby>
 - park - <ruby>[公園](../words/公園.md)<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
+- pavilion, kiosk - <ruby>[亭子](../words/亭子.md)<rt>ㄉㄝㄫㄐㄜ</rt></ruby>
 - cemetery - <ruby>[墓地](../words/墓地.md)<rt>ㄇㄛㄉㄧㄜ</rt></ruby>
 - neighborhood - <ruby>[近処](../words/近処.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>
 - plaza - <ruby>[広場](../words/広場.md)<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> (same word as "square/plaza" above)

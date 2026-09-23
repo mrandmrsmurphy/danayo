@@ -1,39 +1,14 @@
 # Scratch: Words Without a Lexipedia Backlink
 
-Rough, unpolished working list — 4558 of 6052 word files currently have zero `lexipedia/` link anywhere in the file (re-measured 2026-09-21, twice this same day, via a direct grep; this file's own counts are a rough snapshot, not a live index — expect them to drift after every real pass). Sorted against the ~50 planned domains in `lexipedia/Lexipedia.md` (Rosenfelder's own topic list) plus this vault's Geography/Calendar/Periodic Table self-description pages. NOT a curated classification — a triage dump so we don't have to hold the scale of this in our heads. Expect miscategorizations. Categories after Unsorted sort alphabetically by English name; non-Latin domain names sort last.
+Triage dump, not a curated classification — words sorted roughly against the ~50 planned domains in `lexipedia/Lexipedia.md` plus this vault's Geography/Calendar/Periodic Table/基督敎/歴史綱要 self-description pages, so the backlog doesn't have to be held in our heads all at once. Expect miscategorizations; counts below drift after every pass and are a snapshot, not a live index.
 
-**2026-09-19, Buildings — first raw Rosenfelder dump migration**: `lexipedia/Buildings.md` is one of the still-unmigrated flat Rosenfelder lists, not yet held to the tiered-domain checklist. Slotted 55 words directly into the page's own existing bare-English placeholders (office → 事務所, warehouse → 倉庫, school → 学校, etc.), fixed the page's pervasive leading-slash `/words/...` path bug and its inconsistent wikilink-with-romanization entries (street/tunnel/village/church/door/stair), and added one genuine building concept the page never had a slot for at all: 要塞 ("fortress"), as a new bottom section. All 69 words on the page now backlink correctly. The other ~90 words in the original 147-item bucket were either real non-Buildings words (令圄→Unsorted since no clean alternate fit, 内閣/在位/自治→Government, 学科/右学/左学→Knowledge, 岸/灘→Water, 紫禁城/首都/京城→Geography, etc.) or genuine building words that duplicate an already-slotted synonym (e.g. 局/辦公室 both also mean "office," already filled by 事務所/官庁) — not forced onto the page, left in Unsorted instead per "if it shouldn't be there, don't move it."
-
-**2026-09-19, Grammar — cleared via `文法 - 97品詞`**: cross-referenced the vault's own comprehensive grammar reference page against the 161-word Grammar bucket and rebuilt `lexipedia/Grammar.md` from a small partial dump into a full page (Pronouns, a complete 63-cell Correlative Pronoun table — 此/其/彼/何/毎/皆/某 × 事/物/人/名/処/時/様/多/類, all real words — the 12-case system, Function Words, Writing System & Characters, the Six Writings classification, Phonology, and Lexicon & Language). Also swept up 19 correlative-pronoun words (其時/某事/彼処/何人/etc.) that had been keyword-miscategorized into Astronomy/Calendar/Dimensions/Events/Existence/Locatives — the whole closed paradigm now lives together. Fixed 6 stale cached 注音 bugs the old page had been carrying (其/此/他/其人/其処/此処 had all drifted from their word files' current readings). Removed 7 real false positives from the bucket that had only keyword-matched (沈淀→Substances, 燐火/鬼火→Nature, 緊張→Emotions, 自給/兼→Existence, 篇→Speech). 173 words backlinked and cleared in total; Grammar bucket now fully gone.
-
-**2026-09-19, Art — cleared**: rebuilt `lexipedia/Art.md` from a sparse raw dump (mostly bare unlinked English placeholders) into a full page organized into Main Words, Performance & Theatre, Language Arts (with Poetry and Five Classics subsections — 礼記/易経/書経/楽経/詩経), Visual Arts, Music, Martial Arts, and Craft. Also caught several real homograph traps the keyword-matching had walked into: 公尺/測量 ("meter"/"measure" the unit, not music) → Measurement; 汲 ("draw" water, not draw a picture) → Water; 量詞 ("measure word" the grammar term) → Grammar; 薄膜 ("film" the membrane, not cinema) → Substances; 支部 ("chapter" the org branch, not book chapter) → Government; 肩章 ("epaulet," not a book/music term) → Clothing; 神経 (dual-sense "nerve"/"Mystery Classic" — filed under its dominant medical sense) → Body. 30 false positives rerouted total (also: 兵法→War, 加持/法術→Religion, 族譜→Kinship, 帳簿→Trade, 辞令/計画/設計→Work, 新鮮→Food, 跆籍→Society, 課/史学/文科→Knowledge, 和敬/和諧/嬉遊/遊戯→Existence, 宋朝→歴史綱要, 拂→Movement, 擦→Efforts, 柄→Tools, 景致→Nature). 90 genuine words backlinked and cleared; Art bucket now fully gone.
-
-**2026-09-19, Animals — cleared**: the 10-word Animals bucket (mostly leftovers from earlier Unsorted triage: 企鵝 penguin, 信天翁 albatross, 啄木鳥 woodpecker → Fowl; 丘引 earthworm, 壁虱 tick/mite/bedbug → Insects & Small Creatures; 堅魚 skipjack tuna/bonito → Aquatic Creatures; 倭猩 bonobo → Large Wild Mammals; 倉鼠 hamster → Rodents; 吼 roar/howl → Animal Behavior; 一角獣 unicorn → Mythical Creatures, alongside 吸血鬼/僵死 as another real cross-linguistic calque of a Western figure rather than a native fantasy coinage) all slotted into their existing `lexipedia/Animals.md` sections, backlinked, and cleared. Animals bucket now fully gone.
-
-**2026-09-19, Astronomy — partial pass**: added 7 new words to `lexipedia/Astronomy.md` (七星 Big Dipper, 七曜 the seven classical heavenly bodies, 天狼星 Sirius, 牛郎星 Altair, 穹蒼 firmament, 冥王 the underworld king Pluto is named for, 天空 sky) in a new "Notable Stars & Groupings" subsection plus the Basics section. While verifying, discovered the page's ~50 pre-existing entries (太陽/太陰/宇宙/星/恒星/行星/the eight named planets/彗星/流星/銀河系/etc.) were already correctly forward-linked but had **never gotten their reciprocal backlink** — the same class of bug found on Periodic Table and 基督敎 earlier this session. Fixed all 51, which also cleared 47 of them straight out of the Astronomy bucket plus 4 more that had been sitting under Unsorted (占星術, 天文学), Calendar (地支), and Geography (地球) instead. Also fixed: a page-wide "missing `../`" path bug (30 occurrences) and 18 malformed `<ruby>[[Word]]<rt>` entries (double-bracket wikilinks glued inside ruby tags, which don't resolve as real links) — both converted to proper `<ruby>[Word](../words/Word.md)<rt>` form; one leading-slash absolute-path bug on 夏至; two stale cached 注音 (軌道, 星雲); and a real content bug where `words/軌道.md`'s own `羅馬字` field ("guidau") contradicted its own `注音`/`諺文`/the character 軌's own citation (kui-, not gui-) — corrected to "kuidau". Astronomy bucket went 182 → 131; the bulk of what's left (greetings, generic time/direction words, dynasty/river/place names, random abstract nouns) is not actually astronomy and needs its own pass, not a blanket move.
-
-**2026-09-19, Body — formatting fix, then cleared**: `lexipedia/Body.md` was a raw mess (bare unlinked ruby, Korean-romanization strings sitting in the `<rt>` slot instead of real 注音, comma/semicolon-separated non-bulleted runs). First pass: converted every entry to proper bulleted `<ruby>[Word](../words/Word.md)<rt>注音</rt></ruby>` links, refetching real 注音 from each word's own file rather than trusting anything already on the page (several were simply wrong, e.g. 大指/大腿/陰茎/足指 had stale readings even where the rt already looked like real bopomofo). Found and fixed a real character mix-up along the way: the page cited a nonexistent 頸 for "neck" — the real word is 頚 (ㄍㄧㄫ). Second pass: cross-referenced the 197-word Body bucket, adding 71 genuine gaps (a full finger/toe-naming subsection 中指/小指/無名指/食指/母指, 亀頭/尻/射精, skeleton terms 恥骨/肩甲骨/脊椎/脚踝/蹠骨/骨髄, organ terms 三焦/胃/胃酸/神経, and fills for the page's bare Actions/ENT/Drives/Head placeholders — hang/kick/sit/scratch/hug/kiss/laugh/sigh/yawn/bite/vomit/cough/suck/whistle/sleep/jaw/beard/bald/shave, etc.) and catching two more character-page stopgaps that turned out to have real compound words after all: 膝→膝蓋 (knee) and the bare character 肺→肺臓 (lungs). Also caught a wave of homograph false positives that had only keyword-matched: 干戈 ("arms" the weapons, not body arms) → War; 総統/部長/机関 ("head"/"organ" the institution) → Government; 喇叭/鳳笙/詠春拳 ("horn"/mouth-organ/fist-style, not anatomy) → Art; 穂 ("ear" of grain) → Plants; 燕子/白頭就/馬脚 ("swallow"/"bald" eagle/horse legs) → Animals; 剰余 ("rest" the remainder) → Numbers; 棕枝/棕枝主日 ("palm" tree/Sunday) → Plants/Religion; 骨肉 (flesh-and-blood kinship idiom) → Kinship; 道成肉身 ("flesh," the Incarnation) → 基督敎; plus a dozen more Existence/Mind/Society/Trade/Tools/Substances reroutes. 148 words backlinked and cleared; left one genuine judgment call unrouted (胃癌, "stomach cancer" — body-adjacent but not really anatomy, and there's no disease/illness domain to put it in yet). Body bucket 197 → 1.
-
-**2026-09-19, Calendar — partial pass**: added 20 genuine words to `lexipedia/Calendar.md`: 主日 (Lord's Day, alongside 日曜日) in Week; 十干 (Ten Heavenly Stems) as a cross-reference alongside the Earthly-Branches month table; 露月/氷月 as real attested alternate poetic names for months 10 and 12 (added alongside the existing 良月/臘月 rather than treated as conflicts); 時節/時候 in Seasons; 太陰年/望月/満月/恭喜発財 in the Lunar Calendar section; 閏日/閏秒/置閏/暦数 in Leap Years; 世代/中世 in Eras; and a new "Named Festivals" subsection under Misc for 七夕/中秋節/臘八/臘八節. While verifying the full page (not just the new additions), found and fixed 6 more pre-existing stale cached 注音 bugs the page had been silently carrying: 即日, 一月, 三月, 正月 (×2 occurrences), 千年紀, and 平成. Calendar bucket 136 → 116; the remainder is mostly false positives (numbers, grammar particles, tree/flower names, generic abstract nouns) that keyword-matched on date/time-adjacent glosses and belongs in other domains, not Calendar.
-
-**2026-09-19, Clothing — formatting fix, slots filled**: `lexipedia/Clothing.md` was four unbulleted, unlinked comma-separated English word-runs. Bulleted every entry and slotted 29 genuine vault words into the existing placeholders: 衣服 clothes, 装/扮 dress (up), 裸 naked/strip, 着/戴 wear, 帽子 hat, 包装 wrap, 布帛 cloth; 袂/袖 sleeve, 衣襟 collar, 袴 pants, 鞋 shoe; 縫製/裁縫 sew, 紡/絞捻 spin, 編織 weave, 針 pin and needle (the same word covers both), 糸線 thread, 染色 dye; 亜麻布/麻布 linen, 綿花 cotton, 絹 silk, 皮革 leather (also cross-linked from Body), 天鵝絨 velvet, 大麻 hemp (also noting it means marijuana). Slots left bare where no vault word exists yet: belt, boot, cloak, coat, fashion, rag, robe, shirt, blouse, skirt, glove, stocking, sandal, poncho, loincloth, veil, loom, lace, wool — real gaps for a future research pass, not oversights. Left 16 words in the scratch bucket that don't fit any existing slot (乳押 bra, 化粧/口紅 makeup/lipstick, 浣衣 laundry, 浴衣 yukata, 笠帽 straw hat, 繰 reel, 肩章 epaulet, 錦繍/黼黻 brocade/embroidery, 衣類 clothes-synonym) plus real false positives that only keyword-matched (回転 mechanical rotation, 磨耗 abrasion, 白領/藍領 white-collar/blue-collar as job-class idioms) — a further pass, not done yet.
-
-**2026-09-21, Water — bucket fully cleared**: all 60 words in the `## Water` bucket resolved, none left. `lexipedia/Water.md` had already been fully migrated to the tiered-domain template earlier this same day (Core/Intermediate/Advanced/Semantic Range Notes/See Also, `status: complete`); this pass cross-referenced the scratch bucket against it. 26 of the 60 were already on the page from that earlier work. 26 more were genuine new adds: 井堰 (weir, alongside 堰堤), 潮汐/渦流/洪水 (tide/whirlpool/flood, a new "Tides, Currents & Floods" subsection), 乾浄/澄清/清澈/抹/洗濯/掃除/淋/漏/滲漏 (near-synonym refinements of already-slotted clean/wipe/drip words, a new "Cleanliness & Flow" subsection), 汲/没 (draw water, drown/sink), 艇/小舟/帆船/舷辺/船籍/沈没 (more vessel vocabulary), 蒸 (the verb counterpart of already-slotted 蒸汽), and 氾濫/汎濫/泛濫 (a genuine three-way orthographic-variant flood cluster, each legitimizing a different bound character — real linguistic curiosity, written up in Water's own Semantic Range Notes) plus 漏洩 (added to See Also as an idiomatic use — "leak" has drifted almost entirely to the figurative information-leak sense). 6 were real false positives that had only keyword-matched on "bow"/"stern"/"dry" and were rerouted to their actual domains: 低下 ("lower, drop" → Dimensions), 弓 (the weapon → War), 懍懍 ("stern" the personality trait → Emotions), 拝/鞠躬 (bow/kowtow the gesture → Society), 乾溜 (dry distillation/pyrolysis, chemistry → Elements). 2 were moved to Unsorted rather than forced anywhere: 亘 (its own word-page Notes say the "whirlpool" sense is archaic, superseded by "extend, span" in all living usage — not a real Water-domain word despite its stored `english:` field) and 洗車 ("wash a car," a transparent collocation of already-slotted 洗+車, not a distinct concept). All 6 bucket/header counts touched (Water removed entirely; Dimensions/Elements/Emotions/Society/War each +1) reflected in Counts below. Also re-measured this file's own stale header count via direct grep — see the top-of-file note.
-
-**2026-09-21, Kinship — migrated from scratch and bucket fully cleared**: `lexipedia/Kinship.md` had been a completely unformatted flat list (no frontmatter, three unlabeled groups plus a "### People" subsection, one garbled "uncle wife" line) — migrated to the tiered-domain template from scratch in this pass, `status: complete`. All 67 words in the `## Kinship` bucket resolved. 61 became genuine new Kinship.md entries; a first pass covered 53 straightforwardly, then a self-caught recheck against the full bucket (worth doing on any large bucket-clear — the first pass had silently dropped 13 real words) turned up 8 more, plus 4 real false positives that had only keyword-matched: 宗派 ("faction, sect" → Society), 母艦 ("mother ship" → War), 螺鈿 ("mother-of-pearl" → Art), and 隣/隣人 ("neighbor(ing)" → Locatives). One word, 細妹 ("younger sister"), was left unslotted rather than forced in: its own Notes say the word that actually legitimizes its character is [[妹妹]] instead, already on the page as "a different, more standard word for the same core meaning" — moved to Unsorted alongside 亘/洗車 under the same duplicate-synonym convention. The recovered-on-recheck words surfaced a genuine, previously-undocumented pattern: a whole cluster of reduplicated "intimate address form" kinship words (哥哥/弟弟/媽媽/姥姥/婆婆/叔叔/子子), each already cross-referencing its own plain/formal counterpart in its own Notes — written up as a third axis (alongside paternal/maternal side and relative age) in Kinship's own Semantic Range Notes. Also surfaced: 婆婆's genuine dual sense (paternal grandmother, but more commonly "mother-in-law" in modern usage); the niece/nephew asymmetry (甥 = sister's-child specifically, gender-unmarked; no word at all for "nephew via a brother," and no word for "cousin"); and the 継母/no-stepfather gap. Real gaps flagged rather than force-mapped, per the same standard as Water: "cousin," "fellow," "engagement" (as a state, distinct from 聘's "to betroth"), "bride," "dowry"/"bride-price," "monogamy," "folk," and "stepfather." Backlinked all 85 cited words with `- See [Kinship](../lexipedia/Kinship.md).` (merging into 夫婦's pre-existing Numbers backlink). related_domains initially drafted as Society/Love (matching the domain's real content) but corrected before publishing — neither exists as an actual file yet (both are red-linked in `Lexipedia.md`'s own index), so Government was used instead, matching the "only link domains that actually have files" rule from the Numbers/Metals migration method. All 5 bucket/header counts touched (Kinship removed entirely; Art/Locatives/Society/War/Unsorted each +1) reflected in Counts below.
-
-**2026-09-21, Kinship — follow-up sweep of the rest of the file**: explicit user ask to "look for kinship terms in scratch," since the just-cleared `## Kinship` bucket was never a complete accounting — this file is "NOT a curated classification," and stray kinship words were sitting miscategorized in `## Unsorted` and even inside unrelated already-populated buckets (Astronomy, Calendar, Dimensions), never routed to the old Kinship bucket at all. A keyword grep across the whole file (father/mother/brother/sister/wife/husband/uncle/aunt/grandparent/cousin/marry/clan/ancestor/etc., manually reviewed one by one — the naive regex alone threw a lot of noise, e.g. "entwine" matching on "twin") turned up 15 genuine new words: 婚姻 (marriage, the formal/legal register alongside 嫁娶), 孤児院 (orphanage), 孫子/孫女 (grandson/granddaughter — a real gap the original page had missed entirely), 九族 (the nine degrees of kinship, an explicit numbered-kinship-system term), 伯父 (the formal counterpart of already-slotted 伯伯, filling an asymmetry against 叔父/叔叔), 同族 (of the same clan, a kinsman relationship rather than the group itself), 大家族 (extended/multi-generation family), 家庭 (household/family, alongside 家族), 戸籍 (family register, alongside 族譜), 自家 (one's own family), 閥族 (a powerful clan specifically), 始祖 (the founding ancestor specifically, alongside general 祖先), 親戚 (near-synonym of 親族), and 姉姉 — the missing fourth member of the reduplicated-address-form set (哥哥/弟弟/[姉姉]/妹妹), which the original migration pass had somehow never located despite writing up the other three. Also found and removed 11 stale duplicate entries still sitting in Unsorted for words the *previous* Kinship pass had already backlinked (兄弟, 嗣子, 妾, 姉妹, 結婚, 継母, 離婚, 人, 兄, 妹妹, 聘) — evidence that a bucket-clear should re-grep the whole file afterward, not just trust the one bucket it started from. Four words were checked and deliberately left alone: 姫 ("princess, concubine, court lady" — a royal title, better suited to Government if anywhere, not forced into Kinship since "concubine" already has 妾); 結婚礼 ("weddings," redundant with already-slotted 嫁娶); 愛人 (a genuinely interesting cross-linguistic divergence — neutral "spouse" in mainland Mandarin, "lover" in Taiwan/HK, "boyfriend/girlfriend" in Korean/Vietnamese, but risky/complex enough, and arguably more at home on a future Love domain page, to skip for now rather than force a judgment call); 昆 (glosses "swarm, descendants," but its own Notes confirm the living sense is the insect-swarm one, "descendants" being a faded classical extension — not honestly a kinship word). All 15 new words backlinked with `- See [Kinship](../lexipedia/Kinship.md).`, woven into the page's existing Core/Extended-Family/Marriage/Lineage-and-Descent/Household sections and Semantic Range Notes rather than appended as an afterthought. Kinship.md now stands at 100 words total. `Unsorted` count corrected by −26 (15 new removals + 11 stale-duplicate removals); this file's own top-of-file "words without a lexipedia link" header re-measured again for the same reason.
-
-**2026-09-21, Kinship — 細妹 correction, user-caught**: the first Kinship pass's decision to leave [[細妹]] unslotted was wrong. It trusted 細妹's own Notes, which claimed the bound character [[妹]]'s real legitimizing stand-in was actually [[妹妹]] instead — but that claim directly contradicted `characters/妹.md`'s own stored `stand_in` field (always "細妹"), a mismatch that should have been cross-checked at the time and wasn't. 細妹 is Dan'a'yo's actual plain word for "younger sister"; [[妹妹]] is just its intimate, reduplicated address form — the same relationship [[兄]] has to [[哥哥]] and [[姉]] has to [[姉姉]]. Fixed on all three affected pages: `細妹.md` (corrected Notes), `妹妹.md` (reframed as 細妹's intimate form, also dropped a stale "awaits a Kinship page" line left over from before Kinship.md existed), and `Kinship.md` itself (added 細妹 as its own Core entry, fixed a "special case" claim in Semantic Range Notes that had rationalized the missing plain form as structurally necessary rather than a bug). Removed the now-obsolete 細妹 Unsorted entry (`Unsorted` −1). Lesson: a word's own Notes prose is not authoritative over another word's actual stored frontmatter field — this is exactly the kind of claim that needs the underlying data checked, not just read.
+**Working rules, established across many prior passes**: (1) don't force a word onto a page if it's a false positive (only keyword-matched) or a duplicate of an already-slotted synonym — leave it in Unsorted instead. (2) A lexipedia domain page follows `AIOS/checklists/checklist_lexipedia.md` (tiered A1–C1 structure, `../words/` relative links, ruby 注音 re-verified against the word's own file, no stale cached readings). (3) Only set `related_domains` to a domain that actually has a file — check `Lexipedia.md`'s own index first. (4) A word's own Notes prose is not authoritative over another word's stored frontmatter — cross-check the actual field (e.g. `stand_in`) before trusting a claim. (5) After clearing a bucket, re-grep the whole file for the same keyword family — miscategorized strays of the same domain often sit elsewhere in Unsorted or other buckets, not just the matching bucket.
 
 ## Counts
 
 - **Unsorted**: 2312
-- **Animals**: 3
-- **Art**: 4
 - **Astronomy**: 131
 - **Body**: 1
-- **Buildings**: 1
 - **Calendar**: 116
 - **Clothing**: 16
 - **Conflict**: 95
@@ -46,7 +21,7 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - **Events**: 55
 - **Existence**: 177
 - **Food**: 118
-- **Geography**: 233
+- **Geography**: 234
 - **Government**: 124
 - **Grammar**: 11
 - **Knowledge**: 87
@@ -54,16 +29,13 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - **Life**: 20
 - **Light**: 33
 - **Locatives**: 15
-- **Love**: 6
 - **Measurement**: 16
 - **Mind**: 28
 - **Movement**: 57
 - **Nature**: 11
-- **Numbers**: 4
 - **Physical**: 11
 - **Physics**: 19
 - **Plants**: 32
-- **Possession**: 3
 - **Religion**: 41
 - **Sensation**: 16
 - **Sex**: 13
@@ -78,8 +50,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - **Valuation**: 48
 - **War**: 28
 - **Work**: 32
-- **基督敎**: 1
-- **歴史綱要**: 5
 
 ## Unsorted (2312)
 
@@ -2402,17 +2372,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Animals (3)
-- [[燕子]] — swallow, shuttlecock
-- [[白頭就]] — bald eagle
-- [[馬脚]] — horse feet, cloven feet, sore thumb
-
-## Art (4)
-- [[喇叭]] — horn, trumpet
-- [[詠春拳]] — wing chun
-- [[螺鈿]] — mother-of-pearl, lacquer
-- [[鳳笙]] — phoenix sheng, court mouth organ
-
 ## Astronomy (131)
 
 - [[一朝]] — short time
@@ -2547,9 +2506,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 
 ## Body (1)
 - [[胃癌]] — stomach cancer
-
-## Buildings (1)
-- [[亭子]] — pavilion, kiosk
 
 ## Calendar (116)
 - [[一半]] — one half
@@ -3542,7 +3498,8 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[麺]] — flour
 - [[麺包]] — bread
 
-## Geography (233)
+## Geography (234)
+- [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
 - [[七対子]] — seven pairs (mahjong)
@@ -4120,15 +4077,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[隣人]] — neighbor, neighborhood
 - [[陣地]] — military position
 
-## Love (6)
-
-- [[恋]] — romance, romantic love
-- [[恩意]] — affection, gracious goodwill
-- [[恩愛]] — love
-- [[愛]] — love
-- [[愛情]] — love, affection, romance
-- [[懐抱]] — cherish, embrace
-
 ## Measurement (16)
 - [[丈]] — zhang
 - [[体積]] — volume, capacity, bulk
@@ -4249,12 +4197,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[陽炎]] — heat shimmer, glare of sunlight
 - [[鬼火]] — will-o-the-wisp, ignis fatuos
 
-## Numbers (4)
-- [[一兆]] — one trillion
-- [[乗数]] — multiplier
-- [[剰余]] — rest, remainder, surplus
-- [[自乗]] — squaring, to square (a number)
-
 ## Physical (11)
 
 - [[事情]] — affair, matter, situation
@@ -4324,12 +4266,6 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[藍木]] — indigo, anil
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
-
-## Possession (3)
-
-- [[主人]] — master, owner, host, proprietor
-- [[財産]] — property, wealth
-- [[共有]] — share
 
 ## Religion (41)
 - [[乾]] — heavenly
@@ -4801,12 +4737,3 @@ Rough, unpolished working list — 4558 of 6052 word files currently have zero `
 - [[雇員]] — employee
 - [[雇用]] — employment, hire
 
-## 基督敎 (1)
-- [[道成肉身]] — incarnation, the word became flesh
-
-## 歴史綱要 (5)
-- [[五代十国]] — five dynasties and ten kingdoms
-- [[北部]] — north, northern area
-- [[奈良]] — nara
-- [[宋朝]] — song dynasty
-- [[魏晋]] — wei and jin dynasties discussed together

@@ -67,6 +67,8 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby>: albatross.
 - <ruby>[啄木鳥](../words/啄木鳥.md)<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby>: woodpecker.
 - <ruby>[斑鳩](../words/斑鳩.md)<rt>ㄅㄚㄋㄎ⼜</rt></ruby>: turtledove.
+- <ruby>[燕子](../words/燕子.md)<rt>ㄝㄋㄐㄜ</rt></ruby>: swallow — a culturally loaded bird across the Sinosphere (spring, homecoming, conjugal fidelity); secondarily used regionally for a badminton shuttlecock.
+- <ruby>[白頭就](../words/白頭就.md)<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby>: bald eagle.
 
 ### Insects, Arachnids & Small Creatures
 
@@ -144,6 +146,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[羊頭](../words/羊頭.md)<rt>⼘ㄫㄊㄛㄨ</rt></ruby>: a goat's head.
 - <ruby>[俊馬](../words/俊馬.md)<rt>ㄐㄨㄋㄇㄚ</rt></ruby>: a fine horse, spirited steed.
 - <ruby>[馬蹄](../words/馬蹄.md)<rt>ㄇㄚㄉㄝㄧ</rt></ruby>: horse hoof.
+- <ruby>[馬脚](../words/馬脚.md)<rt>ㄇㄚㄍ⼘ㄎ</rt></ruby>: horse leg, cloven hoof — also used idiomatically for a telltale flaw that gives someone away (露出馬脚, "to reveal one's true colors").
 - <ruby>[乗馬](../words/乗馬.md)<rt>ㄙㄨㄫㄇㄚ</rt></ruby> / <ruby>[騎馬](../words/騎馬.md)<rt>ㄍㄨㄧㄇㄚ</rt></ruby>: to ride a horse, horseback riding — two independently attested synonyms.
 
 ### Animal Behavior

@@ -86,11 +86,15 @@ language: English
 - hymn, song of praise : <ruby>[賛歌](../words/賛歌.md)<rt>ㄐㄚㄋㄍㄜ</rt></ruby>
 - music score, music manuscript : <ruby>[楽譜](../words/楽譜.md)<rt>ㄌㄚㄎㄅㄛ</rt></ruby>
 - drum, play (instrumental) : <ruby>[鼓](../words/鼓.md)<rt>ㄍㄛ</rt></ruby>
+- horn, trumpet : <ruby>[喇叭](../words/喇叭.md)<rt>ㄌㄚㄅㄚㄊ</rt></ruby>
+- phoenix sheng, court mouth organ : <ruby>[鳳笙](../words/鳳笙.md)<rt>ㄆㄨㄫㄙㄚㄫ</rt></ruby> — a free-reed mouth organ; in Japanese court gagaku, ほうしょう names the 17-pipe instrument specifically, while Chinese 鳳笙 is mainly a poetic epithet.
 
 ## Martial Arts
 - martial art skill : <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>
 - martial art : <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>
 - martial arts : <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>
+- Wing Chun : <ruby>[詠春拳](../words/詠春拳.md)<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby>
 
 ## Craft
 - artisan : <ruby>[工匠](../words/工匠.md)<rt>ㄍㄛㄫㄑ⺢ㄫ</rt></ruby>
+- mother-of-pearl, lacquer inlay : <ruby>[螺鈿](../words/螺鈿.md)<rt>ㄌㄚㄉㄝㄋ</rt></ruby>
