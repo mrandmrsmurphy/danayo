@@ -1,6 +1,7 @@
 
 - authority - <ruby>[権威](../words/権威.md)<rt>ㄍ⼔ㄋㄛㄧ</rt></ruby>
-- court - *(no clean word yet — [官庁](../words/官庁.md) "government office" is the nearest existing term but names a government bureau generally, not a law court specifically; real gap)*
+- court - <ruby>[法庭](../words/法庭.md)<rt>ㄈㄚㄆㄉㄝㄫ</rt></ruby> — the general term (the legal proceeding/institution)
+  - the building specifically - <ruby>[裁判所](../words/裁判所.md)<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby> "courthouse"
 - fair - <ruby>[公平](../words/公平.md)<rt>ㄍㄛㄫㄅ⼶ㄫ</rt></ruby>
 - fine (monetary penalty) - *(no word yet — distinct from [[懲罰]]/[[処分]] "to punish" generally; real gap)*
 - harm - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>

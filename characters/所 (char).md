@@ -58,3 +58,4 @@ boundedness: 90
 - <ruby>[[居所]]<rt>ㄍㄧㄙㄜ</rt></ruby> "residence, whereabouts"
 - <ruby>[[厠所]]<rt>ㄑㄧㄙㄜ</rt></ruby> "toilet; bathroom"
 - <ruby>[[事務所]]<rt>ㄐㄧㄇㄨㄙㄜ</rt></ruby> "office building; firm; agency"
+- <ruby>[[裁判所]]<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby> "courthouse"
