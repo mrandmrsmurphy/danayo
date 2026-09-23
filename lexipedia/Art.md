@@ -67,6 +67,7 @@ language: English
 - draw, picture : <ruby>[図画](../words/図画.md)<rt>ㄉㄛㄏ⺢ㄎ</rt></ruby>, <ruby>[絵画](../words/絵画.md)<rt>ㄏ⺢ㄧㄏ⺢ㄎ</rt></ruby> "draw, paint"
 - statue : <ruby>[偶像](../words/偶像.md)<rt>ㄛㄨㄙ⼘ㄫ</rt></ruby> "idol, statue", <ruby>[塑像](../words/塑像.md)<rt>ㄙㄛㄙ⼘ㄫ</rt></ruby> "molded statue", <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby> "statue, image"
 - carve, sculpt : <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>
+- engrave, seal impression : <ruby>[[刻印]]<rt>ㄎㄨㄎㄧㄋ</rt></ruby>
 - calligraphy : <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>
 - print (picture copied from painting/photography) : <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>
 - printing block : <ruby>[木版](../words/木版.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>
