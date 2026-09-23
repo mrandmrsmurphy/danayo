@@ -1,7 +1,7 @@
 ---
 stroke_count: 13
-date-last-perfect: 2026-04-28
-size: 275
+date-last-perfect: 2026-09-22
+size: 279
 tags:
   - lookup
 ---
@@ -19,19 +19,19 @@ tags:
 - 1-9-4: <ruby>[[戦]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[数]]<rt>ㄙㄨ</rt></ruby>, <ruby>[[斟]]<rt>ㄐㄧㄇ</rt></ruby>, <ruby>[[新 (char)|新]]<rt>ㄙㄧㄋ</rt></ruby>, <ruby>[[歆]]<rt>ㄏㄨㄇ</rt></ruby>, <ruby>[[歇]]<rt>ㄏㄝㄊ</rt></ruby>, <ruby>[[殿]]<rt>ㄉㄧㄋ</rt></ruby>, <ruby>[[毀 (char)|毀]]<rt>ㄏ⼔ㄧ</rt></ruby>, <ruby>[[献]]<rt>ㄏㄝㄋ</rt></ruby>, <ruby>[[靴]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[飲 (char)|飲]]<rt>ㄨㄇ</rt></ruby>, <ruby>[[鼓 (char)|鼓]]<rt>ㄍㄛ</rt></ruby>
 - 1-10-3: <ruby>[[鄒]]<rt>ㄑㄨ</rt></ruby>, <ruby>[[馳 (char)|馳]]<rt>ㄑㄜ</rt></ruby>, <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby>
 - 1-11-2: <ruby>[[勧]]<rt>ㄎㄨㄋ</rt></ruby>
-- 2-2-11: <ruby>[[㐮]]<rt>ㄙ⼘ㄫ</rt></ruby>, <ruby>[[亶]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[夢 (char)|夢]]<rt>ㄇㄨㄫ</rt></ruby>, <ruby>[[愈]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[意]]<rt>ㄜ</rt></ruby>, <ruby>[[棄]]<rt>ㄎㄧㄜ</rt></ruby>, <ruby>[[禽]]<rt>ㄎㄧㄇ</rt></ruby>, <ruby>[[稟]]<rt>ㄅㄨㄇ</rt></ruby>, <ruby>[[雍]]<rt>ㄛㄫ</rt></ruby>
+- 2-2-11: <ruby>[[亶]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[夢 (char)|夢]]<rt>ㄇㄨㄫ</rt></ruby>, <ruby>[[愈]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[意]]<rt>ㄜ</rt></ruby>, <ruby>[[棄]]<rt>ㄎㄧㄜ</rt></ruby>, <ruby>[[禽]]<rt>ㄎㄧㄇ</rt></ruby>, <ruby>[[稟]]<rt>ㄅㄨㄇ</rt></ruby>, <ruby>[[雍]]<rt>ㄛㄫ</rt></ruby>, <ruby>[[裔]]<rt>⼶</rt></ruby>
 - 2-3-10: <ruby>[[喿]]<rt>ㄙ⺢ㄨ</rt></ruby>, <ruby>[[塞]]<rt>ㄙㄚㄧ</rt></ruby>, <ruby>[[墓]]<rt>ㄇㄛ</rt></ruby>, <ruby>[[寛]]<rt>ㄎ⺢ㄋ</rt></ruby>, <ruby>[[寝 (char)|寝]]<rt>ㄑㄧㄇ</rt></ruby>, <ruby>[[寞]]<rt>ㄇㄚㄎ</rt></ruby>, <ruby>[[嵩]]<rt>ㄙㄨㄫ</rt></ruby>, <ruby>[[幕 (char)|幕]]<rt>ㄇㄚㄎ</rt></ruby>, <ruby>[[彙 (char)|彙]]<rt>ㄏㄨ</rt></ruby>, <ruby>[[慈]]<rt>ㄐㄧ</rt></ruby>, <ruby>[[潮]]<rt>ㄑㄚㄨ</rt></ruby>, <ruby>[[煎]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[窟 (char)|窟]]<rt>ㄎㄛㄊ</rt></ruby>, <ruby>[[羨]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[義]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[莫 (char)|莫]]<rt>ㄇㄚㄎ</rt></ruby>, <ruby>[[葦]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[蒋]]<rt>ㄐㄚㄫ</rt></ruby>, <ruby>[[蒐]]<rt>ㄙ⼜ㄛ</rt></ruby>, <ruby>[[蒲]]<rt>ㄅㄛ</rt></ruby>, <ruby>[[蒸 (char)|蒸]]<rt>ㄐㄧㄫ</rt></ruby>, <ruby>[[蓄 (char)|蓄]]<rt>ㄑㄨㄎ</rt></ruby>, <ruby>[[蓋]]<rt>ㄍㄚㄧ</rt></ruby>, <ruby>[[蓬]]<rt>ㄅㄛㄫ</rt></ruby>, <ruby>[[蓮 (char)|蓮]]<rt>ㄌ⼶ㄋ</rt></ruby>
 - 2-4-9: <ruby>[[愛 (char)|愛]]<rt>ㄚㄧ</rt></ruby>, <ruby>[[暈]]<rt>ㄨㄋ</rt></ruby>, <ruby>[[歳]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[爺]]<rt>⼘</rt></ruby>, <ruby>[[盞]]<rt>ㄐㄚㄋ</rt></ruby>, <ruby>[[舜]]<rt>ㄙ⼜ㄇ</rt></ruby>, <ruby>[[誉]]<rt>⼄</rt></ruby>
 - 2-5-8: <ruby>[[咎]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[業 (char)|業]]<rt>ㄝㄆ</rt></ruby>, <ruby>[[罪 (char)|罪]]<rt>ㄐㄛㄧ</rt></ruby>, <ruby>[[置 (char)|置]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[蜀]]<rt>ㄙㄛㄎ</rt></ruby>, <ruby>[[電]]<rt>ㄉㄝㄋ</rt></ruby>
 - 2-6-7: <ruby>[[碁]]<rt>ㄍㄧ</rt></ruby>, <ruby>[[節 (char)|節]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[豊]]<rt>ㄆㄨㄫ</rt></ruby>, <ruby>[[賃 (char)|賃]]<rt>ㄋㄧㄇ</rt></ruby>, <ruby>[[賈]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[農]]<rt>ㄋㄛㄫ</rt></ruby>, <ruby>[[舅]]<rt>ㄍ⼜ㄛ</rt></ruby>, <ruby>[[鼠]]<rt>ㄙ⼄</rt></ruby>
-- 2-7-6: <ruby>[[資]]<rt>ㄐㄧㄜ</rt></ruby>
+- 2-7-6: <ruby>[[資]]<rt>ㄐㄧㄜ</rt></ruby>, <ruby>[[嗇]]<rt>ㄙㄧㄎ</rt></ruby>
 - 2-8-5: <ruby>[[季]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby>, <ruby>[[瑟 (char)|瑟]]<rt>ㄙㄜㄊ</rt></ruby>, <ruby>[[督]]<rt>ㄉㄛㄎ</rt></ruby>, <ruby>[[禁]]<rt>ㄍㄧㄇ</rt></ruby>, <ruby>[[零 (char)|零]]<rt>ㄌㄝㄫ</rt></ruby>, <ruby>[[雷 (char)|雷]]<rt>ㄌㄛㄧ</rt></ruby>
 - 2-9-4: <ruby>[[想]]<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[[惹]]<rt>ㄋ⼘</rt></ruby>, <ruby>[[愁]]<rt>ㄙㄚㄨ</rt></ruby>, <ruby>[[愚 (char)|愚]]<rt>ㄨ</rt></ruby>, <ruby>[[感]]<rt>ㄍㄚㄇ</rt></ruby>, <ruby>[[暋]]<rt>ㄇㄧㄋ</rt></ruby>, <ruby>[[楽]]<rt>ㄌㄚㄎ</rt></ruby>, <ruby>[[照 (char)|照]]<rt>ㄐㄛㄨ</rt></ruby>, <ruby>[[聖]]<rt>ㄙㄧㄫ</rt></ruby>, <ruby>[[腎]]<rt>ㄙㄧㄋ</rt></ruby>
 - 2-10-3: <ruby>[[塑]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[塗]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[奨]]<rt>ㄐㄚㄫ</rt></ruby>
 - 2-11-2: <ruby>[[勢]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[準]]<rt>ㄐㄨㄋ</rt></ruby>
 - 3-3-10: <ruby>[[園]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[圓 (char)|圓]]<rt>⼔ㄋ</rt></ruby>, <ruby>[[廈]]<rt>ㄏㄚ</rt></ruby>, <ruby>[[廉 (char)|廉]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[違]]<rt>ㄨㄧ</rt></ruby>, <ruby>[[遜]]<rt>ㄙㄛㄋ</rt></ruby>, <ruby>[[遠 (char)|遠]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[遡]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[遣 (char)|遣]]<rt>ㄎㄝㄋ</rt></ruby>
 - 3-4-9: <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[虞]]<rt>ㄨ</rt></ruby>, <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[遊]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[過 (char)|過]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby>
-- 3-5-8: <ruby>[[痰 (char)|痰]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[痴]]<rt>ㄑㄧ</rt></ruby>
+- 3-5-8: <ruby>[[痰 (char)|痰]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[痴]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[痺]]<rt>ㄅㄧ</rt></ruby>
 - 3-6-7: <ruby>[[載 (char)|載]]<rt>ㄐㄚㄧ</rt></ruby>
 - 4-13-1: <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby>
 ### Aliases
