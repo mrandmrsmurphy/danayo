@@ -32,7 +32,7 @@ stand_in: 尺
 aliases:
   - 睪
 注音: ㄑㄝㄎ
-date-last-perfect: 2026-04-01
+date-last-perfect: 2026-09-22
 kwin: true
 tags:
   - character

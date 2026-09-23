@@ -6,7 +6,8 @@ korean_native: 붉을
 japanese:
   - SEKI
   - SHAKU
-japanese_native: あか
+japanese_native:
+  - あか
   - あかい
 vietnamese:
   - xích
@@ -33,7 +34,7 @@ aliases:
   - 𤆍
   - 烾
 注音: ㄑㄝㄎ
-date-last-perfect: 2026-04-01
+date-last-perfect: 2026-09-22
 kwin: false
 tags:
   - character
@@ -48,8 +49,8 @@ boundedness: 80
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md): 大 (“person, big”) + 火 (“fire”) – the color of fire (a person by a fire). The original version is 𤆍.
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 614th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌]] + [[Lookup/CC/finals/韻 昔開]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
+- 614th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 2](../lookup/Grade%202.md)
 ## Words
-- <ruby>[[赤]]<rt>ㄑㄝㄎ</rt></ruby> "red" — self stand-in
+- <ruby>[[赤]]<rt>ㄑㄝㄎ</rt></ruby> "red" (stand-in for 赤)
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
