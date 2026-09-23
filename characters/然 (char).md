@@ -74,6 +74,9 @@ boundedness: 90
 - <ruby>[[宛然]]<rt>ㄛㄋㄋ⼶ㄋ</rt></ruby> "as if; just like"
 - <ruby>[[斐然]]<rt>ㄈㄨㄧㄋ⼶ㄋ</rt></ruby> "remarkable; brilliant; splendid"
 - <ruby>[[将然]]<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect); about-to-happen"
+- <ruby>[[或然]]<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> "probable, contingent"
+- <ruby>[[蓋然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "highly probable, likely, plausible"
+- <ruby>[[概然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "generally so, roughly true, broadly speaking"
 
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"

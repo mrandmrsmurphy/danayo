@@ -55,3 +55,4 @@ date-last-perfect: 2026-07-31
 - <ruby>[[概]]<rt>ㄍㄚㄧ</rt></ruby> "rough idea, generality"
 - <ruby>[大概](../words/大概.md)<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby> "for the most part; generally" (alias: 大槪)
 - <ruby>[[概要]]<rt>ㄍㄚㄧ·⼄ㄨ</rt></ruby> "overview, summary"
+- <ruby>[[概然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "generally so, roughly true, broadly speaking"

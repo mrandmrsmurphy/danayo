@@ -56,6 +56,7 @@ date-last-perfect: 2026-07-31
 - <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby> "or; perhaps"
 - <ruby>[[或者]]<rt>ㄏㄛㄎㄑㄚ</rt></ruby> "some people"
 - <ruby>[[間或]]<rt>ㄍㄚㄋㄏㄛㄎ</rt></ruby> "sometimes, occasionally, now and then"
+- <ruby>[[或然]]<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> "probable, contingent"
 
 ## Derived Characters
 - <ruby>[[惑 (char)|惑]]<rt>ㄏㄛㄎ</rt></ruby> "confusing"

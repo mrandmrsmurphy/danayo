@@ -17,7 +17,9 @@
 - know - <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby>
 - maybe - <ruby>[或](../words/或.md)<rt>ㄏㄛㄎ</rt></ruby>
 - possible - <ruby>[可能](../words/可能.md)<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
-- probable - *(no distinct word — Dan'a'yo doesn't split this from "possible" above; 可能's own gloss already covers "possible, may, might, perhaps")*
+- probable - <ruby>[或然](../words/或然.md)<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> — contingent, possibly-but-not-necessarily-so; pairs with [[必然]] "necessary" the way classical logic contrasts the two
+  - highly probable, likely, plausible - <ruby>[蓋然](../words/蓋然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> — not in Rosenfelder's list, but a real and useful gradation above 或然
+  - generally so, roughly true (contrast "certain" above) - <ruby>[概然](../words/概然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> — a genuine Dan'a'yo-internal homophone of 蓋然 above (both languages that donated 蓋/概 collapse them the same way); see that word's own Notes
 - prove - <ruby>[証明](../words/証明.md)<rt>ㄐㄧㄫㄇ⼶ㄫ</rt></ruby>
 - real - <ruby>[真実](../words/真実.md)<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby>
 - reason - <ruby>[理由](../words/理由.md)<rt>ㄌㄧ·⼜</rt></ruby>
