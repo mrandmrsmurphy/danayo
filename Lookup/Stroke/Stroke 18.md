@@ -19,7 +19,7 @@ tags:
 - 1-10-8: <ruby>[[騒 (char)|騒]]<rt>ㄙㄚㄨ</rt></ruby>, <ruby>[[験 (char)|験]]<rt>ㄝㄇ</rt></ruby>, <ruby>[[騎]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[難]]<rt>ㄋㄚㄋ</rt></ruby>, <ruby>[[雛]]<rt>ㄑㄨㄛ</rt></ruby>
 - 1-11-7: <ruby>[[観]]<rt>ㄍ⺢ㄋ</rt></ruby>, <ruby>[[鯉]]<rt>ㄌㄧ</rt></ruby>
 - 1-12-6: <ruby>[[翻 (char)|翻]]<rt>ㄈㄛㄋ</rt></ruby>
-- 2-2-16: <ruby>[[甕]]<rt>ㄛㄫ</rt></ruby>
+- 2-2-16: <ruby>[[甕 (char)|甕]]<rt>ㄛㄫ</rt></ruby>
 - 2-3-15: <ruby>[[藷]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[藍 (char)|藍]]<rt>ㄌㄚㄇ</rt></ruby>, <ruby>[[薮]]<rt>ㄙㄛㄨ</rt></ruby>, <ruby>[[繭 (char)|繭]]<rt>ㄍ⼶ㄇ</rt></ruby>, <ruby>[[藤]]<rt>ㄉㄜㄫ</rt></ruby>, <ruby>[[竄]]<rt>ㄑㄚㄋ</rt></ruby>, <ruby>[[藩]]<rt>ㄆㄛㄋ</rt></ruby>
 - 2-5-13: <ruby>[[叢]]<rt>ㄐㄛㄫ</rt></ruby>, <ruby>[[署]]<rt>ㄙ⼄</rt></ruby>
 - 2-6-12: <ruby>[[簡]]<rt>ㄍㄚㄋ</rt></ruby>, <ruby>[[覆]]<rt>ㄈㄨㄎ</rt></ruby>, <ruby>[[簞]]<rt>ㄉㄚㄋ</rt></ruby>

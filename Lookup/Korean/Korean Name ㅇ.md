@@ -104,7 +104,7 @@ All have been checked for redirects.
 [唵 (char)](characters/唵%20(char).md)
 
 ### 옹 
-[禺](../../characters/禺.md) [雍](characters/雍.md) [壅](characters/壅%20(char).md) [[瓮]] [[甕]] [[癰]] [邕](characters/雍.md) [[饔]] 
+[禺](../../characters/禺.md) [雍](characters/雍.md) [壅](characters/壅%20(char).md) [[瓮]] [甕](characters/甕%20(char).md) [[癰]] [邕](characters/雍.md) [[饔]] 
 
 ### 와 
 [渦](characters/渦.md) [窩](characters/窩.md) [窪](characters/窪.md) [蛙](characters/蛙.md) [蝸](characters/蝸.md) [訛](characters/訛.md) [佤](characters/佤.md)

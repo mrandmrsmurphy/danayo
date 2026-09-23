@@ -21,7 +21,7 @@ tags: [lookup]
 3. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
 
 ### +13 Strokes
-4. <ruby>[甕](../../characters/甕.md)<rt>ㄛㄫ</rt></ruby> - jar
+4. <ruby>[甕](../../characters/甕%20(char).md)<rt>ㄛㄫ</rt></ruby> - jar
 
 ### +14 Strokes
 5. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar, big basin

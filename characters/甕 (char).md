@@ -37,11 +37,11 @@ graphemic_classification: 雍
 stand_in: 甕
 aliases:
 注音: ㄛㄫ
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-25
+date-last-perfect: 2026-09-23
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,3 +52,6 @@ date-last-perfect: 2026-08-25
 - [SKIP-2-2-16](Lookup/SKIP/SKIP-2/SKIP-2-2-16.md) ([Stroke 18](Lookup/Stroke/Stroke%2018.md))
 - 3266th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄛㄫ](syllables/ㄛㄫ.md)
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Words
+- <ruby>[[甕]]<rt>ㄛㄫ</rt></ruby> "jar; jug; vat" (stand-in for 甕)

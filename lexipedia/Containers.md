@@ -23,7 +23,7 @@
 - shut
 
 - basket
-- jar
+- jar : <ruby>[[甕]]<rt>ㄛㄫ</rt></ruby>
 - cage
 - shell
 - barrel
