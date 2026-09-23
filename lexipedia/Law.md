@@ -15,7 +15,7 @@
 - steal - <ruby>[窃盗](../words/窃盗.md)<rt>ㄑㄝㄊㄉㄚㄨ</rt></ruby> "theft, larceny"
 - swear - <ruby>[誓約](../words/誓約.md)<rt>ㄙㄝ⼘ㄎ</rt></ruby> "to take an oath"
 
-contract - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>, license - <ruby>[許可](../words/許可.md)<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission, authorization", summons - *(no word yet)*, write - *(see [[Art]]'s own Language Arts section)*, subpoena - *(no word yet — same gap as summons)*
+contract - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>, license - <ruby>[許可](../words/許可.md)<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission, authorization", summons / subpoena - <ruby>[召喚状](../words/召喚状.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby> (also <ruby>[召喚](../words/召喚.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋ</rt></ruby> "to summon," the verb), write - *(see [[Art]]'s own Language Arts section)*
 
 suit - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby> (also <ruby>[告訴](../words/告訴.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby> "accuse, file a lawsuit"), plaintiff - *(no word yet)*, innocent (not guilty) - *(no word yet — [[天真]] "innocent, naive, artless" is a personality trait, not a legal verdict; a real false-positive keyword-match, not a genuine fit for this slot)*, guilty - *(no word yet)*, testimony - <ruby>[人証](../words/人証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby> "personal evidence" (also <ruby>[証言](../words/証言.md)<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby> "to testify"), witness - <ruby>[証人](../words/証人.md)<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby>
 
