@@ -5,7 +5,8 @@ korean: 할
 korean_native: 나눌
 japanese:
   - KATSU
-japanese_native: さ
+japanese_native:
+  - さ
   - わ-る
 vietnamese:
   - cát
@@ -33,7 +34,7 @@ graphemic_classification: 害
 stand_in: 割
 aliases:
 注音: ㄍㄚㄊ
-date-last-perfect: 2026-03-26
+date-last-perfect: 2026-09-22
 kwin: false
 tags:
   - character
@@ -45,15 +46,14 @@ boundedness: 75
 [[nav/char_info]]
 ```
 ## Notes
--  形声 (OC \*kaːd): phonetic [害](害.md) (OC \*ɡaːds) + semantic [刂](Radical%20018).
-- [SKIP-1-10-2](../lookup/SKIP/SKIP-1/SKIP-1-10-2.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md)) - [ㄍㄚㄊ](../syllables/ㄍㄚㄊ.md)
+- 形声 (OC \*kaːd): phonetic [害](害.md) (OC \*ɡaːds) + semantic [刂](Radical%20018).
+- [SKIP-1-10-2](../lookup/SKIP/SKIP-1/SKIP-1-10-2.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1166th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄍㄚㄊ](../syllables/ㄍㄚㄊ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 4](../lookup/Grade%204.md)
 ## Words
-- <ruby>[[割]]<rt>ㄍㄚㄊ</rt></ruby> "cut; divide; separate"
+- <ruby>[[割]]<rt>ㄍㄚㄊ</rt></ruby> "cut; divide; separate" (stand-in for 割)
 - <ruby>[[割断]]<rt>ㄍㄚㄊㄉ⺢ㄋ</rt></ruby> "cut off; sever"
 - <ruby>[[余割]]<rt>⼄ㄍㄚㄊ</rt></ruby> "cosecant"
-- [[正割]] - secant
-- [[割包皮]] - circumcision
-- [[割引]] - discount
-[[Lookup/CC/initials/聲 見]]
-[[Lookup/CC/finals/韻 曷]]
+- <ruby>[[正割]]<rt>ㄐㄧㄫㄍㄚㄊ</rt></ruby> "secant"
+- <ruby>[[割包皮]]<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby> "circumcision"
+- <ruby>[[割引]]<rt>ㄍㄚㄊㄧㄋ</rt></ruby> "discount"
