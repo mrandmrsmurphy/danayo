@@ -75,6 +75,7 @@ boundedness: 90
 - <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium" (periodic table neologism)
 - <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby> "nobelium" (periodic table neologism)
 - <ruby>[[基金]]<rt>ㄍㄧㄍㄧㄇ</rt></ruby> "fund"
+- <ruby>[[罰金]]<rt>ㄅㄝㄊㄍㄧㄇ</rt></ruby> "fine, monetary penalty"
 - <ruby>[[金剛石]]<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby> "diamond (mineral)"
 - <ruby>[[丹金]]<rt>ㄉㄚㄋㄍㄧㄇ</rt></ruby> "hafnium" (periodic table neologism)
 - <ruby>[[冥金]]<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby> "plutonium" (periodic table neologism)
