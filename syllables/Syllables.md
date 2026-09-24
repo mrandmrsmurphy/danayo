@@ -3,7 +3,7 @@ aliases:
   - syllable
 tags:
   - syllable
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-09-24
 ---
 Each row is a manner of articulation: 1) nasal 2) voiced stop 3) aspirated stop 4) fricative 5) approximant/flap
 
