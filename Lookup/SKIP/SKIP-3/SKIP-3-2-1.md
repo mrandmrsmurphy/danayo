@@ -1,6 +1,6 @@
 ---
 size: 5
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 stroke_count: 3
 skip_number: 3-2-1
 tags: [lookup]
@@ -22,3 +22,4 @@ TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
 WHERE skip_number = "3-2-1"
 SORT file.name ASC
+```

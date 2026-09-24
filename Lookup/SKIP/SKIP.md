@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 language: 単亜語
 tags:
   - lookup
@@ -26,7 +26,7 @@ This is for character with a left-right split.  Here are the choices for the num
 12. [SKIP-1-12](lookup/SKIP/SKIP-1/SKIP-1-12.md)
 13. [SKIP-1-13](lookup/SKIP/SKIP-1/SKIP-1-13.md)
 14. [SKIP-1-14](lookup/SKIP/SKIP-1/SKIP-1-14.md)
-15. [SKIP-1-15](SKIP-1/SKIP-1-15.md)
+15. [SKIP-1-15](lookup/SKIP/SKIP-1/SKIP-1-15.md)
 16. none
 17. [SKIP-1-17](lookup/SKIP/SKIP-1/SKIP-1-17.md)
 

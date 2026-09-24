@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 1
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 4-1-4
 tags: [lookup]
 
@@ -24,3 +24,4 @@ TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
 WHERE skip_number = "4-1-4"
 SORT file.name ASC
+```

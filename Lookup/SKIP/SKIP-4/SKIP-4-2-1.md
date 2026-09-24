@@ -4,7 +4,7 @@ stroke_count: 2
 skip_number: 4-2-1
 tags:
   - lookup
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 ---
 > SKIP : 4 : [2](lookup/SKIP/SKIP-4/SKIP-4-2.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
 > All are [[Stroke 02]].
@@ -20,3 +20,4 @@ TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
 WHERE skip_number = "4-2-1"
 SORT file.name ASC
+```

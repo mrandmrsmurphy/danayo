@@ -1,8 +1,8 @@
 ---
 stroke_count: 15
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 1-6-9
-size: 19
+size: 18
 tags:
   - lookup
 ---
@@ -31,8 +31,8 @@ tags:
 
 ## Datacheck
 ```dataview
-TABLE english AS "en", stand_in AS "SI", grade_level AS "GL"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "1-6-9"
-SORT grade_level ASC
+SORT file.name ASC
 ```

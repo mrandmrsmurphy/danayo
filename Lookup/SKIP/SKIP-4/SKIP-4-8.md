@@ -1,6 +1,6 @@
 ---
 stroke_count: 8
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 tags: [lookup]
 
 ---
@@ -9,8 +9,8 @@ tags: [lookup]
 
 1. [SKIP-4-8-1](lookup/SKIP/SKIP-4/SKIP-4-8-1.md): 雨
 2. [SKIP-4-8-2](lookup/SKIP/SKIP-4/SKIP-4-8-2.md): 隹, 垂
-3. [[lookup/SKIP/SKIP-4/SKIP-4-8-3]]: 乖, 事, 東, 秉
-4. [[lookup/SKIP/SKIP-4/SKIP-4-8-4]]: 兎
+3. [SKIP-4-8-3](lookup/SKIP/SKIP-4/SKIP-4-8-3.md): 乖, 事, 東, 秉
+4. [SKIP-4-8-4](lookup/SKIP/SKIP-4/SKIP-4-8-4.md): 兎
 
 ## Base check
 ```base

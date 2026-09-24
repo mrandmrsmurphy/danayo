@@ -1,7 +1,7 @@
 ---
 stroke_count: 11
 size: 8
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 2-8-3
 tags: [lookup]
 
@@ -21,7 +21,8 @@ tags: [lookup]
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-8-3"
 SORT file.name ASC
+```

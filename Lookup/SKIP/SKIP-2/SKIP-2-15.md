@@ -1,12 +1,14 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 tags:
   - lookup
 ---
-> [SKIP](lookup/SKIP/SKIP.md) : 2 :
+> [SKIP](lookup/SKIP/SKIP.md) : 2
 
-## Characters
-1. [[lookup/SKIP/SKIP-2/SKIP-2-15-2]] 輿
+Top component has 15 strokes.
+
+1. none
+2. [SKIP-2-15-2](lookup/SKIP/SKIP-2/SKIP-2-15-2.md): 輿
 
 ## Base check
 ```base

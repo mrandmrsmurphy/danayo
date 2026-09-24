@@ -2,7 +2,7 @@
 size: 9
 stroke_count: 10
 skip_number: 2-5-5
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 tags: [lookup]
 
 ---
@@ -22,16 +22,18 @@ tags: [lookup]
 9. <ruby>[秦](/characters/秦.md)<rt>ㄐㄧㄋ</rt></ruby> - Qin
 ### Redirects
 - 冓 --> 勾
-- 皐 --> 皐 
-- [[祟]]
-## Banned
+- 皋 --> 皐
+### Forbidden
 - 畠
 - 唟
 - 丵
 
+Candidates for this SKIP code not yet present in the database: 祟.
+
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-5-5"
 SORT file.name ASC
+```

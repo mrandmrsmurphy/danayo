@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 stroke_count: 3
 tags: [lookup]
 
@@ -9,10 +9,10 @@ tags: [lookup]
 
 These are all the <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> of 3 (three) strokes, whether that be a top line, bottom line, middle line, or otherwise.
 
-1. [[SKIP-4-3-1]] = 尸, 夕,	于, 	兀, 	刄,	弓,  己, 	口, 	工, 	下, 	廴, 	叉, 	已, 子,	巳, 	孑,  夊, 	夂, 	囗, 	干, 	久, 	及
-2. [[SKIP-4-3-2]] = 彑, 士,	土, 	也, 	上,  亡
-3. [[SKIP-4-3-3]] = 巾,  才,  千,  屮,  廾
-4. [[SKIP-4-3-4]] = 丸, 女, 丈, 大, 之,  与 , 宀,	幺, 广, 弋
+1. [[SKIP-4-3-1]] = 下, 久, 于, 叉, 及, 口, 已, 弓, 兀, 夕, 子, 工, 己, 巳, 干
+2. [[SKIP-4-3-2]] = 上, 也, 土, 士, 亡
+3. [[SKIP-4-3-3]] = 千, 屮, 巾, 才
+4. [[SKIP-4-3-4]] = 丈, 与, 之, 大, 女, 丸
 
 ## Base check
 ```base

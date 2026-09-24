@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 3
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 2-1-2
 tags: [lookup]
 
@@ -22,7 +22,8 @@ These are both radicals, not characters per se.
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-1-2"
 SORT file.name ASC
+```

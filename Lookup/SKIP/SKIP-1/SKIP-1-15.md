@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 tags:
   - lookup
 ---
@@ -15,7 +15,7 @@ tags:
 7. no
 8. no
 9. no
-10. [SKIP-1-15-10](lookup/SKIP/SKIP-1/SKIP-1-15-10.md): 皺
+10. [SKIP-1-15-10](lookup/SKIP/SKIP-1/SKIP-1-15-10.md): ø
 
 ## Base check
 ```base

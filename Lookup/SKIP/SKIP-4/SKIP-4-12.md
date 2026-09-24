@@ -2,14 +2,14 @@
 stroke_count: 12
 tags:
   - lookup
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 4
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
-1. ??
-2. ??
-3. ??
+1. No
+2. No
+3. No
 4. [SKIP-4-12-4](lookup/SKIP/SKIP-4/SKIP-4-12-4.md): 幾
 
 ## Base check

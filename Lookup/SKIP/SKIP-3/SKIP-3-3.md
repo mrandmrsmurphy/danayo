@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 tags: [lookup]
 
 ---
@@ -19,7 +19,7 @@ tags: [lookup]
 12. [SKIP-3-3-12](lookup/SKIP/SKIP-3/SKIP-3-3-12.md): 履, 廟, 廠, 慶, 遵, 遷, 選, 遺, 遼
 13. [SKIP-3-3-13](lookup/SKIP/SKIP-3/SKIP-3-3-13.md): 磨, 避, 還
 14. [SKIP-3-3-14](lookup/SKIP/SKIP-3/SKIP-3-3-14.md): ø
-15. [SKIP-3-3-15](lookup/SKIP/SKIP-3/SKIP-3-3-15.md): 麿
+15. [SKIP-3-3-15](lookup/SKIP/SKIP-3/SKIP-3-3-15.md): ø
 16. [SKIP-3-3-16](lookup/SKIP/SKIP-3/SKIP-3-3-16.md): 廬, 靡, 龐
 17. [SKIP-3-3-17](lookup/SKIP/SKIP-3/SKIP-3-3-17.md): ø
 18. [SKIP-3-3-18](lookup/SKIP/SKIP-3/SKIP-3-3-18.md): 魔

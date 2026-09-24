@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 2
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 2-1-1
 tags: [lookup]
 
@@ -11,11 +11,12 @@ tags: [lookup]
 
 ## Characters
 Only one:
-1. <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> - two
+1. <ruby>[[二 (char)|二]]<rt>ㄋㄧㄜ</rt></ruby> - two
 
 ## Datacheck
 ```dataview
-TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
+TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-1-1"
 SORT file.name ASC
+```

@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 9
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 skip_number: 4-9-1
 tags: [lookup]
 
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[飛 (char)](../../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[飛](../../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
 
 ## Datacheck
 ```dataview
@@ -18,3 +18,4 @@ TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"
 FROM "characters"
 WHERE skip_number = "4-9-1"
 SORT file.name ASC
+```

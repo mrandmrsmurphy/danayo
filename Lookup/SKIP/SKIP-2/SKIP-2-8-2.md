@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-05
+date-last-perfect: 2026-09-24
 size: 1
 stroke_count: 10
 skip_number: 2-8-2
@@ -22,3 +22,4 @@ TABLE 注音 AS "Sound", english AS "en"
 FROM "characters"
 WHERE skip_number = "2-8-2"
 SORT file.name ASC
+```
