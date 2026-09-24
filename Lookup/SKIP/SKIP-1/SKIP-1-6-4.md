@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 10
-size: 29
+size: 30
 skip_number: 1-6-4
 tags:
   - lookup
@@ -39,6 +39,7 @@ tags:
 27. <ruby>[蚊](characters/蚊%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> "mosquito"
 28. <ruby>[衲](characters/衲.md)<rt>ㄋㄚㄆ</rt></ruby> "cassock"
 29. <ruby>[紐](characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> "knot"
+30. <ruby>[粄 (char)](characters/粄%20(char).md)<rt>ㄅㄧㄇ</rt></ruby> "rice cake"
 
 ## Datacheck
 ```dataview

@@ -171,7 +171,7 @@ __Combining or simplified radicals with 5 strokes__
 
 ### 6 strokes
 - [[Radical 118]] 竹 (43 characters)
-- [[Radical 119]] 米 (18 characters)
+- [[Radical 119]] 米 (19 characters)
 - [[Radical 120]] 糸 or combining as 糹 or 纟 (82 characters)
 - [[Radical 121]] 缶 (5 characters)
 - [[Radical 122]] 网 or combining as 罒 (9 characters)

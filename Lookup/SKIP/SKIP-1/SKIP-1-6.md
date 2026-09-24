@@ -11,7 +11,7 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - [SKIP-1-6-1](lookup/SKIP/SKIP-1/SKIP-1-6-1.md): 乱, 耴
 - [SKIP-1-6-2](lookup/SKIP/SKIP-1/SKIP-1-6-2.md): 卦, 効, 刻, 刷, 取, 叔, 到, 刮, 刹, 劾
 - [SKIP-1-6-3](lookup/SKIP/SKIP-1/SKIP-1-6-3.md): 姻, 封, 帥, 紀, 約, 紅, 缸, 耐, 耶, 虹, 虻, 衂, 邾, 郁, 郊, 郎, 紇
-- [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md): 恥, 敏, 料, 朔, 朗, 殺, 殷, 粉, 粋, 䋇, 紋, 納, 紙, 紛, 紡, 純, 紗, 紘, 缺, 耕, 耗, 耽, 能, 致, 般, 航, 蚊, 衲, 紐
+- [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md): 恥, 敏, 料, 朔, 朗, 殺, 殷, 粉, 粋, 䋇, 紋, 納, 紙, 紛, 紡, 純, 紗, 紘, 缺, 耕, 耗, 耽, 能, 致, 般, 航, 蚊, 衲, 紐, 粄
 - [SKIP-1-6-5](lookup/SKIP/SKIP-1/SKIP-1-6-5.md): 瓶, 粘, 粒, 粗, 細, 紺, 経, 紬, 紳, 紹, 終, 組, 絆, 羚, 聊, 舵, 舶, 舷, 船, 蛇
 - [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md): 刺, 制, 棘, 粧, 糾, 結, 絡, 絶, 絞, 給, 絨, 統, 絵, 翔, 聒, 蛭, 蛙, 蛛, 蛞, 蛤
 - [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md): 継, 続, 絹, 綏, 蛾, 艇, 辞, 聘, 裏, 䎎, 群, 辟

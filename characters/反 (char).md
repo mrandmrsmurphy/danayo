@@ -71,3 +71,4 @@ boundedness: 100
 - <ruby>[[販]]<rt>ㄈㄛㄋ</rt></ruby> "peddle"
 - <ruby>[[返]]<rt>ㄈㄛㄋ</rt></ruby> "return; remit"
 - <ruby>[[飯]]<rt>ㄅㄛㄋ</rt></ruby> "rice (cooked); food"
+- <ruby>[[粄 (char)|粄]]<rt>ㄅㄧㄇ</rt></ruby> "rice cake" (Dan'a'yo reading assigned by deliberate exception, not organic derivation — see its own page)
