@@ -35,10 +35,11 @@ language: English
 
 ### Modals
 - can <ruby>[可](../words/可.md)<rt>ㄎㄜ</rt></ruby>
+- cannot <ruby>[不可](../words/不可.md)<rt>ㄅㄛㄊㄎㄜ</rt></ruby>
 - may (permission) <ruby>[可以](../words/可以.md)<rt>ㄎㄜㄧ</rt></ruby>
 - could
 - might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
-- must
+- must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
 - ought
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
 - should
@@ -113,12 +114,16 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[類似格](../words/類似格.md)<rt>ㄌㄨㄧㄙㄚㄍㄚㄎ</rt></ruby> "similative case"
 - <ruby>[呼格](../words/呼格.md)<rt>ㄏㄛㄍㄚㄎ</rt></ruby> "vocative case"
 - <ruby>[向格](../words/向格.md)<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
+- <ruby>[処格](../words/処格.md)<rt>ㄑㄛㄍㄚㄎ</rt></ruby> "locative case"
+- <ruby>[様態格](../words/様態格.md)<rt>⼘ㄫㄊㄚㄧㄍㄚㄎ</rt></ruby> "manner case, adverbial case"
 
 ### Grammatical Categories
 - <ruby>[時制](../words/時制.md)<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"
 - <ruby>[時相](../words/時相.md)<rt>ㄙㄧㄙㄚㄫ</rt></ruby> "tense-aspect, grammatical aspect"
 - <ruby>[有生](../words/有生.md)<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
+- <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
+- <ruby>[人称](../words/人称.md)<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
 
 ## Function Words
 - <ruby>[助詞](../words/助詞.md)<rt>ㄐㄛㄙㄚ</rt></ruby> "particle (grammar)"
@@ -138,10 +143,13 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby>
 	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
 - adjective
+- interjection : <ruby>[感嘆詞](../words/感嘆詞.md)<rt>ㄍㄚㄇㄊㄚㄋㄙㄚ</rt></ruby>
+- quantifier : <ruby>[量化詞](../words/量化詞.md)<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby>
+- affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - gender
 - case
 - form
-- grammar
+- grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄆㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫ·ㄝㄋ</rt></ruby>
 - accusative
 - alphabet

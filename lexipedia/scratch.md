@@ -3500,7 +3500,13 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麺]] — flour
 - [[麺包]] — bread
 
-## Geography (234)
+## Geography (240)
+- [[䔥国]] — state of Xiao (rerouted from the Existence bucket — an ancient political-geography name)
+- [[秦国]] — state of Qin (rerouted from the Existence bucket)
+- [[鄂国]] — state of E (rerouted from the Existence bucket)
+- [[鄭国]] — state of Zheng (rerouted from the Existence bucket)
+- [[州]] — state, province (rerouted from the Existence bucket)
+- [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
 - [[七事]] — seven duties of a sovereign
 - [[七宝]] — seven treasures
@@ -3875,8 +3881,14 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[人等]] — persons, et al.
 - [[量詞]] — measure word, classifier, counter
 
-## Life (20)
+## Life (26)
 
+- [[出生率]] — birth rate, natality (rerouted from the Existence bucket)
+- [[死亡率]] — mortality rate, death rate (rerouted from the Existence bucket)
+- [[死亡人数]] — death toll (rerouted from the Existence bucket)
+- [[分娩]] — give birth, deliver a child (rerouted from the Existence bucket)
+- [[生育]] — give birth to (rerouted from the Existence bucket)
+- [[生死]] — life and death (rerouted from the Existence bucket)
 - [[出生]] — be born
 - [[寿命]] — age, lifespan
 - [[崩]] — crumble, disintegrate, die, fall apart

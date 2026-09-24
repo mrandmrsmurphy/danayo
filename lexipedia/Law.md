@@ -93,6 +93,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 - <ruby>[除籍](../words/除籍.md)<rt>ㄐㄝㄧㄐㄝㄎ</rt></ruby>: to remove from the register, expunge, expel.
 - <ruby>[逮捕](../words/逮捕.md)<rt>ㄉㄚㄧㄅㄛ</rt></ruby>: to arrest.
 - <ruby>[誓約](../words/誓約.md)<rt>ㄙㄝ⼘ㄎ</rt></ruby>: to swear, take an oath.
+- <ruby>[故意](../words/故意.md)<rt>ㄍㄛㄜ</rt></ruby>: intent, purpose — mens rea, criminal intent.
 
 ## Semantic Range Notes
 

@@ -46,6 +46,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[或然](../words/或然.md)<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby>: probable, contingent — pairs with [[必然]] "necessary" the way classical logic contrasts the two.
 - <ruby>[蓋然](../words/蓋然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: highly probable, likely, plausible.
 - <ruby>[概然](../words/概然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: generally so, roughly true, broadly speaking — contrasts with "certain" above by degree of approximation, not likelihood.
+- <ruby>[当然](../words/当然.md)<rt>ㄉㄚㄫㄋ⼶ㄋ</rt></ruby>: of course, natural, inevitable — an epistemic-certainty adverb sitting near the top of this gradient, alongside [[必然]].
 - <ruby>[実際](../words/実際.md)<rt>ㄙㄧㄊㄐㄝ</rt></ruby>: actual, real, in fact.
 - <ruby>[真実](../words/真実.md)<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby>: truth, reality; "real."
 - <ruby>[真正](../words/真正.md)<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby>: genuine, real.
@@ -56,6 +57,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[証拠](../words/証拠.md)<rt>ㄐㄧㄫㄍ⼄</rt></ruby>: evidence, proof.
 - <ruby>[根拠](../words/根拠.md)<rt>ㄍㄜㄋㄍ⼄</rt></ruby>: grounds, basis — to be according to, to be based on.
 - <ruby>[道理](../words/道理.md)<rt>ㄉㄚㄨㄌㄧ</rt></ruby>: logic, method, way, principle.
+- <ruby>[方法](../words/方法.md)<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>: method, way, manner — a near-synonym of 道理 above.
 - <ruby>[錯誤](../words/錯誤.md)<rt>ㄑㄚㄎ·ㄛ</rt></ruby>: to err, to make a mistake; "wrong."
 - <ruby>[虚偽](../words/虚偽.md)<rt>ㄏ⼄⼔ㄧ</rt></ruby>: falsehood, lie; "fake."
 - <ruby>[前提](../words/前提.md)<rt>ㄐㄝㄋㄙㄝ</rt></ruby>: prerequisite, premise.
@@ -125,6 +127,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[学説](../words/学説.md)<rt>ㄏㄚㄎㄙ⼔ㄊ</rt></ruby>: theory, doctrine.
 - <ruby>[主義](../words/主義.md)<rt>ㄐㄨㄜㄧ</rt></ruby>: doctrine, "-ism" — the productive suffix behind 社会主義 "socialism," 資本主義 "capitalism."
 - <ruby>[理論](../words/理論.md)<rt>ㄌㄧㄌㄛㄋ</rt></ruby>: theory, thesis.
+- <ruby>[体育](../words/体育.md)<rt>ㄊㄝㄧ·⼜ㄎ</rt></ruby>: physical education.
 
 ### Classical & Literary Scholarship
 

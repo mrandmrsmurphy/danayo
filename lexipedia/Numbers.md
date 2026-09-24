@@ -125,6 +125,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[無限]]<rt>ㄇㄜㄏㄚㄋ</rt></ruby>: infinity.
 - <ruby>[極限](../words/極限.md)<rt>ㄍㄧㄎㄏㄚㄋ</rt></ruby>: limit (the calculus sense — the value a function approaches, not "無限" above).
 - <ruby>[[対数]]<rt>ㄉㄛㄧㄙㄨ</rt></ruby>: logarithm.
+- <ruby>[恒等式](../words/恒等式.md)<rt>ㄏㄨㄫㄉㄨㄫㄙㄧㄎ</rt></ruby>: an identity (an equation true for all values of its variables).
 - <ruby>[素数](../words/素数.md)<rt>ㄙㄛㄙㄨ</rt></ruby>: prime number.
 - <ruby>[百分率](../words/百分率.md)<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby>: percentage.
 - <ruby>[割](../words/割.md)<rt>ㄍㄚㄊ</rt></ruby>: a unit of ten percent — the traditional East Asian percentage register (三割 "thirty percent"), distinct from and older than 百分率's Western-style per-hundred figure.
