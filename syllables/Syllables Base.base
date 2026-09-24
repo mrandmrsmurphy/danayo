@@ -14,15 +14,15 @@ views:
       - date-last-perfect
       - file.mtime
     sort:
+      - property: size
+        direction: DESC
       - property: date-last-perfect
         direction: ASC
       - property: file.mtime
         direction: ASC
       - property: english
         direction: ASC
-      - property: size
-        direction: ASC
     columnSize:
       file.name: 84
-      note.size: 41
+      note.size: 137
       note.english: 145
