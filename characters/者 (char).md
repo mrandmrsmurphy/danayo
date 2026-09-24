@@ -57,6 +57,8 @@ boundedness: 90
 - <ruby>[[記者]]<rt>ㄍㄧㄑㄚ</rt></ruby> "reporter; journalist"
 - <ruby>[[或者]]<rt>ㄏㄛㄎㄑㄚ</rt></ruby> "some people"
 - <ruby>[[使者]]<rt>ㄙㄧㄑㄚ</rt></ruby> "herald; messenger"
+- <ruby>[[亡命者]]<rt>ㄇㄚㄫㄇ⼶ㄫㄑㄚ</rt></ruby> "a defector, an exile"
+- <ruby>[[流亡者]]<rt>ㄌ⼜ㄇㄚㄫㄑㄚ</rt></ruby> "an exile, a person living in exile"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"
