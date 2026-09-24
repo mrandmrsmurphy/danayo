@@ -55,6 +55,8 @@ boundedness: 100
 - <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> "your majesty"
 - <ruby>[[低下]]<rt>ㄉㄝㄧㄏㄚ</rt></ruby> "to lower, to droop"
 - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel, underpass"
+- <ruby>[[地下室]]<rt>ㄉㄧㄜㄏㄚㄙㄧㄊ</rt></ruby> "basement, cellar"
+- <ruby>[[地下牢]]<rt>ㄉㄧㄜㄏㄚㄌㄚㄨ</rt></ruby> "dungeon"
 - <ruby>[[下顎]]<rt>ㄏㄚ·ㄚㄎ</rt></ruby> "jaw, chin"
 - <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄫ</rt></ruby> "to descend, to fall"
 - <ruby>[[下痢]]<rt>ㄏㄚㄌㄧㄜ</rt></ruby> "diarrhea"

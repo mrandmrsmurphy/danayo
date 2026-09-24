@@ -67,6 +67,8 @@ boundedness: 90
 - <ruby>[[地境]]<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby> "border; territorial boundary"
 - <ruby>[[地帯]]<rt>ㄉㄧㄜㄊㄚㄧ</rt></ruby> "zone; belt"
 - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel; underpass; subway"
+- <ruby>[[地下室]]<rt>ㄉㄧㄜㄏㄚㄙㄧㄊ</rt></ruby> "basement, cellar"
+- <ruby>[[地下牢]]<rt>ㄉㄧㄜㄏㄚㄌㄚㄨ</rt></ruby> "dungeon"
 - <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> "Mediterranean Sea"
 - <ruby>[[地震]]<rt>ㄉㄧㄜㄐㄧㄋ</rt></ruby> "earthquake"
 - <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ·ㄛㄫ</rt></ruby> "earthworm; terrestrial dragon"
