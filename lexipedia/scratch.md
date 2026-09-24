@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2316
+- **Unsorted**: 2367
 - **Astronomy**: 131
 - **Body**: 1
 - **Calendar**: 116
@@ -19,12 +19,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Elements**: 18
 - **Emotions**: 108
 - **Events**: 55
-- **Existence**: 177
 - **Food**: 118
-- **Geography**: 234
+- **Geography**: 240
 - **Government**: 124
 - **Grammar**: 11
-- **Life**: 20
+- **Life**: 26
 - **Light**: 33
 - **Locatives**: 15
 - **Measurement**: 16
@@ -49,7 +48,60 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 28
 - **Work**: 32
 
-## Unsorted (2316)
+## Unsorted (2367)
+
+**Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
+- [[一端]] — one aspect, competent
+- [[人道]] — humane, path
+- [[仁慈]] — humane, merciful, kind
+- [[企劃]] — plan, scheme
+- [[倒]] — turn over, take turns
+- [[儀仗]] — implement
+- [[兼]] — double as, dual-
+- [[凶]] — unlucky, calamitous, sinister
+- [[出演]] — appear
+- [[分泌]] — secrete, produce secretions
+- [[和敬]] — harmony and respect
+- [[善良]] — kind, benevolent
+- [[国営]] — nationalization, state management
+- [[国子]] — princes, sons of the state
+- [[大略]] — roughly, approximately, in general, outline, rough plan
+- [[心緒]] — feelings, state of mind
+- [[恍惚]] — trance, dazed, absent-minded, vague
+- [[感恩]] — feel thankful about, be grateful over
+- [[憬悟]] — to awaken to understanding, to realize
+- [[打算]] — plan, intend
+- [[抄録]] — excerpt, abstract, summary
+- [[折線]] — broken line, polyline
+- [[披歴]] — state one's view
+- [[接近]] — approach, similar
+- [[擬]] — intend, plan
+- [[旋転]] — revolve, rotate, turn
+- [[書籍]] — register, book, list
+- [[査問]] — inquire about
+- [[標題]] — topic, title, headline
+- [[無義]] — lack morals, lack meaning
+- [[特点]] — characteristic, trait, feature
+- [[種類]] — type, kind, hypernym
+- [[等分]] — divide into equal parts
+- [[紋]] — mark, line, symbol
+- [[網語体]] — internet-language register, netspeak style
+- [[縄]] — rope, cord, string, line
+- [[考慮]] — consider, regard, think about
+- [[背景]] — background
+- [[自給]] — self-sufficient, self-reliant
+- [[製品]] — product, produce, goods
+- [[語法]] — grammar, syntax (near-duplicate of [[句法]], already on [[Grammar]])
+- [[謀]] — conspire, plan, scheme
+- [[貢品]] — tribute, tribute goods
+- [[趣旨]] — purport, gist, purpose
+- [[運動]] — exercise, sport, movement, campaign
+- [[関心]] — be concerned about, care for
+- [[電気]] — electricity, electrify
+- [[首尾]] — whole, head to tail, beginning to end
+- [[就]] — about, let
+- [[残]] — remaining, not broken off
+- [[略]] — abbreviate, plan
 
 - [[天真]] — innocent, naive, artless (rerouted from the Law bucket — a personality trait, not a legal verdict; a false-positive keyword-match on "innocent" that [[無罪]] now correctly fills instead)
 - [[縮]] — shrink, contract (rerouted from the Law bucket — the size-changing sense of "contract," not the legal-agreement sense)
@@ -3200,185 +3252,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[祝賀]] — congratulate
 - [[中止]] — to discontinue, to cancel, to call off
 - [[危机]] — crisis, critical juncture
-
-## Existence (177)
-- [[䔥国]] — state of xiao
-- [[一端]] — one aspect, competent
-- [[一般]] — average, common, general, ordinary
-- [[不可]] — cannot
-- [[不可不]] — cannot not (do something), i.e. must
-- [[不定]] — indefinite, indeterminate, variable
-- [[不用]] — not necessary, unused, useless
-- [[不穏]] — unstable, unsettled, ominous
-- [[事]] — thing, action
-- [[事宜]] — arrangement, matters to be attended to
-- [[事実]] — fact, reality, truth
-- [[交替]] — alternation, to take turns, to swap
-- [[人称]] — grammatical person
-- [[人道]] — humane, path
-- [[仁慈]] — humane, merciful, kind
-- [[他]] — another, other
-- [[他動詞]] — transitive verb
-- [[代替]] — replace, substitute
-- [[代用]] — substitute use, to use as a substitute, replacement
-- [[以前]] — before, ago, heretofore
-- [[企劃]] — plan, scheme
-- [[体育]] — physical education
-- [[倒]] — turn over, take turns
-- [[儀仗]] — implement
-- [[元凶]] — chief culprit, ringleader, prime mover, root cause
-- [[兼]] — double as, dual-
-- [[処格]] — locative case
-- [[凶]] — unlucky, calamitous, sinister
-- [[出演]] — appear
-- [[出生率]] — birth rate, natality
-- [[分娩]] — give birth, deliver (a child)
-- [[分泌]] — secrete, produce secretions
-- [[判断]] — judge, decide, determine
-- [[力]] — power, strength
-- [[動詞]] — verb, action
-- [[勢力]] — power, influence
-- [[占]] — occupy, possess
-- [[占有]] — possess, occupy, hold
-- [[原始]] — primitive, original
-- [[原来]] — originally
-- [[同一]] — same, identical
-- [[否定]] — negation, denial
-- [[呈]] — display, show
-- [[命運]] — fate, destiny, doom
-- [[和敬]] — harmony and respect
-- [[和諧]] — harmonious, harmony
-- [[善良]] — kind, benevolent
-- [[因縁]] — fate, predestined bond, karma
-- [[固有]] — proper
-- [[国営]] — nationalization, state management
-- [[国子]] — princes, sons of the state
-- [[基盤]] — foundation
-- [[変成]] — change into, metamorphosize into
-- [[夢]] — dream
-- [[大略]] — roughly, approximately, in general, outline, rough plan
-- [[天常]] — natural law
-- [[天生]] — natural, intrinsic
-- [[威力]] — power, might
-- [[嬉遊]] — play, frolic, enjoy oneself
-- [[存在]] — survive, exist
-- [[安定]] — stable, settled
-- [[実際]] — actual, real, in fact
-- [[宿命]] — destiny, fate
-- [[将然]] — prospective (aspect), about-to-happen
-- [[就]] — about, let
-- [[展示]] — display, show, exhibit
-- [[展覧]] — display, show, put in an expo
-- [[州]] — state
-- [[平等]] — equality, be equal
-- [[幸運]] — lucky, fortunate
-- [[当然]] — of course, natural, inevitable
-- [[彰明]] — clear, manifest, obvious
-- [[従前]] — formerly, previously, before
-- [[従来]] — hitherto, conventional, existing
-- [[心緒]] — feelings, state of mind
-- [[必要]] — necessary, essential
-- [[性詞]] — stative, stative word, adjective class
-- [[恍惚]] — trance, dazed, absent-minded, vague
-- [[恒等式]] — identity
-- [[意義]] — sense, meaning, significance
-- [[感嘆詞]] — interjection (grammar)
-- [[感恩]] — feel thankful about, be grateful over
-- [[憬悟]] — to awaken to understanding, to realize
-- [[成立]] — be born, gain approval, come into existence
-- [[打算]] — plan, intend
-- [[抄録]] — excerpt, abstract, summary
-- [[折線]] — broken line, polyline
-- [[披歴]] — state one's view
-- [[披露]] — announce, display
-- [[接辞]] — affix (grammar)
-- [[接近]] — approach, similar
-- [[擬]] — intend, plan
-- [[故意]] — intent, purpose, mens rea
-- [[文法]] — grammar
-- [[方法]] — method, way, manner
-- [[旋転]] — revolve, rotate, turn
-- [[普遍]] — universal, general, widespread
-- [[書籍]] — register, book, list
-- [[本]] — foundation
-- [[査問]] — inquire about
-- [[根本]] — basis, foundation, base
-- [[様子]] — appearances, manner, circumstances, state of things
-- [[様態格]] — manner case, adverbial case
-- [[標題]] — topic, title, headline
-- [[欠乏]] — to lack, deficiency
-- [[欠缺]] — lack, be deficient in, be missing
-- [[死亡人数]] — death toll
-- [[死亡率]] — mortality rate, death rate
-- [[殉難]] — martyrdom, to die for a just cause
-- [[残]] — remaining, not broken off
-- [[決]] — determine, decide
-- [[決定]] — decide, choose
-- [[潜伏]] — hide, lurk, lie low
-- [[無義]] — lack morals, lack meaning
-- [[特点]] — characteristic, trait, feature
-- [[現象]] — phenomenon
-- [[理想]] — ideal, dream, theory
-- [[生死]] — life and death
-- [[生産]] — give birth to, produce, manufacture
-- [[生育]] — give birth to
-- [[略]] — abbreviate, plan
-- [[発電]] — generate power
-- [[相対]] — relative, opposite, relativity
-- [[真実]] — truth, reality
-- [[真正]] — genuine, real
-- [[眼前]] — before one's eyes
-- [[秦国]] — state of qin
-- [[種類]] — type, kind, hypernym
-- [[等分]] — divide into equal parts
-- [[系詞]] — copula
-- [[紋]] — mark, line, symbol
-- [[網語体]] — internet-language register, netspeak style
-- [[緯線]] — line of latitude
-- [[縄]] — rope, cord, string, line
-- [[繋辞]] — copula
-- [[置換]] — permute, substitute, displace
-- [[考慮]] — consider, regard, think about
-- [[背景]] — background
-- [[自動詞]] — intransitive verb
-- [[自給]] — self-sufficient, self-reliant
-- [[興起]] — to rise up, to emerge, to flourish
-- [[萬物]] — myriad things
-- [[表現]] — show, display, express, manifest
-- [[表示]] — display, indicate, express
-- [[製品]] — product, produce, goods
-- [[誇示]] — show off, flaunt
-- [[語法]] — grammar
-- [[誰]] — who
-- [[謀]] — conspire, plan, scheme
-- [[貢品]] — tribute, tribute goods
-- [[賜予]] — bestowal, grant, gift
-- [[起伏]] — undulate, fluctuate
-- [[趣旨]] — purport, gist, purpose
-- [[追遡]] — trace back, investigate origins
-- [[遊戯]] — play, game
-- [[運動]] — exercise, sport, movement, campaign
-- [[運命]] — fate, destiny, doom
-- [[運数]] — luck, fortune, fate
-- [[遡及]] — retroactivity, to apply retroactively, to trace back
-- [[鄂国]] — state of e
-- [[鄭国]] — zheng, the state of zheng
-- [[量化詞]] — quantifier
-- [[開示]] — show, reveal, indicate
-- [[関心]] — be concerned about, care for
-- [[陳列]] — exhibit, display
-- [[陳述]] — state, declare, statement
-- [[随性]] — fate from birth
-- [[隠匿]] — conceal, hide, cover up
-- [[隠滅]] — to destroy (evidence), to vanish, fade away
-- [[隠蔵]] — hide, conceal
-- [[隠蔽]] — hide, conceal
-- [[電気]] — electricity, electrify
-- [[題目]] — title, heading, topic
-- [[顕示]] — reveal, show, illustrate, display, demonstrate
-- [[類似]] — resemble, similar, analogous
-- [[首尾]] — whole, head to tail, beginning to end
-- [[魔力]] — magical power
 
 ## Food (118)
 - [[丁香]] — clove

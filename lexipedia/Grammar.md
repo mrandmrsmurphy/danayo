@@ -142,7 +142,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby>
 	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
-- adjective
+- adjective, stative word : <ruby>[性詞](../words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby>
 - interjection : <ruby>[感嘆詞](../words/感嘆詞.md)<rt>ㄍㄚㄇㄊㄚㄋㄙㄚ</rt></ruby>
 - quantifier : <ruby>[量化詞](../words/量化詞.md)<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
