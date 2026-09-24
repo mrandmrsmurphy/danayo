@@ -21,7 +21,7 @@ suit - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby> (also <
 
 punish - <ruby>[処分](../words/処分.md)<rt>ㄑㄛㄅㄨㄋ</rt></ruby> (also <ruby>[懲罰](../words/懲罰.md)<rt>ㄑㄧㄫㄅㄝㄊ</rt></ruby>, an independently attested synonym), exile - <ruby>[流亡](../words/流亡.md)<rt>ㄌ⼜ㄇㄚㄫ</rt></ruby> "to be exiled" (also <ruby>[亡命](../words/亡命.md)<rt>ㄇㄚㄫㄇ⼶ㄫ</rt></ruby> "to be forced into exile, to defect" and <ruby>[放逐](../words/放逐.md)<rt>ㄈㄚㄫㄉㄨㄎ</rt></ruby> "to send someone into exile" — three distinct verbs by who does what to whom; the person is <ruby>[流亡者](../words/流亡者.md)<rt>ㄌ⼜ㄇㄚㄫㄑㄚ</rt></ruby> or <ruby>[亡命者](../words/亡命者.md)<rt>ㄇㄚㄫㄇ⼶ㄫㄑㄚ</rt></ruby>), execute - <ruby>[誅殺](../words/誅殺.md)<rt>ㄐㄨㄙㄚㄊ</rt></ruby>, jail - same as prison above, dungeon - *(no word yet)*, torture - <ruby>[拷問](../words/拷問.md)<rt>ㄎㄚㄨㄇㄨㄋ</rt></ruby>
 
-crime - <ruby>[犯罪](../words/犯罪.md)<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby> (also bare <ruby>[罪](../words/罪.md)<rt>ㄐㄛㄧ</rt></ruby> "sin, crime"), thief - <ruby>[盗賊](../words/盗賊.md)<rt>ㄉㄚㄨㄐㄨㄎ</rt></ruby> "bandit, robber, thief" (also [劫盗](../words/劫盗.md), a dated near-synonym), pirate - *(no word yet)*
+crime - <ruby>[犯罪](../words/犯罪.md)<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby> (also bare <ruby>[罪](../words/罪.md)<rt>ㄐㄛㄧ</rt></ruby> "sin, crime"), thief - <ruby>[盗賊](../words/盗賊.md)<rt>ㄉㄚㄨㄐㄨㄎ</rt></ruby> "bandit, robber, thief" (also [劫盗](../words/劫盗.md), a dated near-synonym), pirate - <ruby>[海賊](../words/海賊.md)<rt>ㄏㄚㄧㄐㄨㄎ</rt></ruby>
 
 ## Additions Beyond Rosenfelder's List
 
