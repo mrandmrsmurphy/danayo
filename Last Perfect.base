@@ -3,15 +3,13 @@ views:
     name: Table
     order:
       - file.name
-      - size
       - 注音
       - 羅馬字
       - 諺文
       - date-last-perfect
       - english
       - file.mtime
-      - danayo_id
-      - joyo_level
+      - file.folder
     sort:
       - property: date-last-perfect
         direction: ASC
@@ -32,10 +30,9 @@ views:
       - property: alias
         direction: ASC
     columnSize:
-      file.name: 159
-      note.size: 69
-      note.注音: 132
-      note.羅馬字: 160
+      file.name: 75
+      note.注音: 97
+      note.羅馬字: 106
       note.諺文: 62
       note.english: 188
       file.mtime: 201
