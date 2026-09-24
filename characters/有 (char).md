@@ -59,6 +59,7 @@ boundedness: 50
 - <ruby>[[有机]]<rt>⼜ㄍㄧㄜ</rt></ruby> "organic"
 - <ruby>[[有生]]<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
 - <ruby>[[有趣]]<rt>⼜ㄑㄨ</rt></ruby> "interesting, amusing, fascinating"
+- <ruby>[[有罪]]<rt>⼜ㄐㄛㄧ</rt></ruby> "guilty"
 
 ## Chengyu
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"
