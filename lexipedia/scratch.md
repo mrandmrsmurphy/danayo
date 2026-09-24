@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2312
+- **Unsorted**: 2316
 - **Astronomy**: 131
 - **Body**: 1
 - **Calendar**: 116
@@ -24,7 +24,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Geography**: 234
 - **Government**: 124
 - **Grammar**: 11
-- **Law**: 38
 - **Life**: 20
 - **Light**: 33
 - **Locatives**: 15
@@ -50,8 +49,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 28
 - **Work**: 32
 
-## Unsorted (2312)
+## Unsorted (2316)
 
+- [[天真]] — innocent, naive, artless (rerouted from the Law bucket — a personality trait, not a legal verdict; a false-positive keyword-match on "innocent" that [[無罪]] now correctly fills instead)
+- [[縮]] — shrink, contract (rerouted from the Law bucket — the size-changing sense of "contract," not the legal-agreement sense)
+- [[阻止]] — thwart, block, impede (rerouted from the Law bucket — no specifically legal sense in its own stored gloss)
+- [[阻碍]] — obstruct, hinder, block (rerouted from the Law bucket — no specifically legal sense in its own stored gloss)
 - [[亘]] — swirl, whirlpool (archaic sense only — living usage has shifted entirely to "extend, span"; not a real Water-domain word, see 2026-09-21 Water note below)
 - [[洗車]] — wash a car (a collocation of already-slotted [[洗]] "wash" + 車 "car," not a distinct concept; left unslotted per the "don't force a duplicate-synonym word onto a page" convention)
 - [[人類学]] — anthropology
@@ -3871,46 +3874,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[人人]] — everyone
 - [[人等]] — persons, et al.
 - [[量詞]] — measure word, classifier, counter
-
-## Law (38)
-- [[人証]] — personal evidence (rerouted from the Knowledge bucket — courtroom testimony/evidence is Law's concept, not an epistemic/education one)
-- [[不当]] — unjust, unfair
-- [[不許]] — forbid
-- [[処分]] — punish, discipline
-- [[制約]] — restriction, constraint, limitation
-- [[制限]] — restriction, limit
-- [[劫盗]] — rob (dated)
-- [[報応]] — retribution, retributive justice, karma
-- [[天真]] — innocent, naive, artless
-- [[契約]] — contract, deed, agreement
-- [[審査]] — review, screening, judge
-- [[循]] — to abide by, to follow, to comply with
-- [[懲罰]] — punish, penalize
-- [[控訴]] — formally complain regarding, file charges against
-- [[極刑]] — capital punishment
-- [[正義]] — justice
-- [[治安]] — public order, public security, law and order
-- [[法]] — rule, law
-- [[法則]] — law, rule, code
-- [[牢獄]] — prison, jail
-- [[犯罪]] — crime
-- [[監獄]] — prison, jail
-- [[盲従]] — blind obedience, to follow blindly
-- [[禁断]] — forbidden, forbid absolutely, prohibition
-- [[禁書]] — banned book, proscribed text
-- [[秩序]] — law and order, regularity
-- [[縮]] — shrink, contract
-- [[罪]] — sin, crime
-- [[規定]] — stipulate, regulation, provision
-- [[訴訟]] — sue, file a lawsuit
-- [[誅殺]] — execute, kill
-- [[責任]] — responsibility, duty
-- [[逮捕]] — arrest, apprehension
-- [[違法]] — illegal
-- [[阻止]] — thwart, block, impede
-- [[阻碍]] — obstruct, hinder, block
-- [[限度]] — limit, limitation
-- [[除籍]] — remove from the register, expunge, expel
 
 ## Life (20)
 
