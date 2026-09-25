@@ -21,6 +21,10 @@ tags: [lookup]
 13. [SKIP-1-2-13](lookup/SKIP/SKIP-1/SKIP-1-2-13.md): 僵, 僻, 儀, 億, 凜
 14. [SKIP-1-2-14](lookup/SKIP/SKIP-1/SKIP-1-2-14.md): 儒, 凝
 15. [SKIP-1-2-15](lookup/SKIP/SKIP-1/SKIP-1-2-15.md): 償, 儡, 儧, 優, 儲
+16. no
+17. no
+18. no
+19. [SKIP-1-2-19](lookup/SKIP/SKIP-1/SKIP-1-2-19.md): 儺
 
 ## Base check
 ```base

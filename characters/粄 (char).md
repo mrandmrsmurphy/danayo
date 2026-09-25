@@ -21,7 +21,7 @@ english:
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
-danayo_id: 8818
+danayo_id: 8820
 mc_id:
 graphemic_classification: 反
 stand_in: 粄

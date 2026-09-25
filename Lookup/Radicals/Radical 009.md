@@ -1,6 +1,6 @@
 ---
-date-last-perfect: 2026-07-08
-size: 143
+date-last-perfect: 2026-09-24
+size: 144
 radical: 人
 tags:
   - lookup
@@ -185,6 +185,9 @@ aliases:
 141. <ruby>[儧](../../characters/儧.md)<rt>ㄐ⺢ㄋ</rt></ruby> - accumulate
 142. <ruby>[優](../../characters/優.md)<rt>ㄨㄛ</rt></ruby> - excellent
 143. <ruby>[儲](../../characters/儲.md)<rt>ㄐㄛ</rt></ruby> - store
+
+### +19 Strokes
+144. <ruby>[儺 (char)](../../characters/儺%20(char).md)<rt>ㄋㄨㄛ</rt></ruby> - exorcism
 
 ## Data check
 ```dataview

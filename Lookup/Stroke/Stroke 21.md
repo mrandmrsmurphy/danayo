@@ -1,7 +1,7 @@
 ---
 stroke_count: 21
-date-last-perfect: 2026-06-14
-size: 15
+date-last-perfect: 2026-09-24
+size: 16
 tags:
   - lookup
 ---
@@ -9,6 +9,7 @@ tags:
 
 ## Characters
 ### In Use
+- 1-2-19: <ruby>[[儺 (char)|儺]]<rt>ㄋㄨㄛ</rt></ruby>
 - 1-3-18: <ruby>[[灘 (char)|灘]]<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[[灋]]<rt>ㄆㄛㄆ</rt></ruby>
 - 1-4-17: <ruby>[[欄]]<rt>ㄌㄚㄋ</rt></ruby>
 - 1-6-15: <ruby>[[纏]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[艦]]<rt>ㄏㄚㄇ</rt></ruby>
