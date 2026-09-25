@@ -66,7 +66,8 @@ Goal: get everything valuable off danayo.conlang.org so those pages can be delet
 
 ## What the user does NOT import
 
-- `hsk_level` — never imported from the wiki, even when it conflicts with the vault's value; vault's HSK research is authoritative (2026-09-25)
+- `hsk_level` / `joyo_level` / `hanmun_edu_level` — never imported from the wiki, even on conflict; vault's own level research is authoritative (2026-09-25). A 2026-09-25 batch pass found several `joyo_level` conflicts sharing the identical vault=5/wiki=4 delta — looked like it might be a systematic vault bug, but per user decision it's not worth chasing; vault wins regardless.
+- The wiki's "Other languages" field as an alias source — confirmed unreliable 2026-09-25 (spot-checked 2 candidates during a batch migration pass: 剪→前 and 匈→匂 both turned out to be the character's *phonetic component* mislabeled as a variant, not a real script variant). Don't bulk-import from this field; if a specific alias claim needs checking, verify it independently (Wiktionary etc.), same bar as any other alias per [[feedback_alias_fiat_declaration]].
 - Phonological discrepancies (`羅馬字`, `諺文`, `注音`) — vault's current phonology is authoritative; linter manages these
 - Extra cantonese readings beyond the primary one
 - `japanese_native` / `korean_native` differences — usually left as-is unless user asks
