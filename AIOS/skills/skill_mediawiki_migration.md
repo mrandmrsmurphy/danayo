@@ -66,6 +66,7 @@ Goal: get everything valuable off danayo.conlang.org so those pages can be delet
 
 ## What the user does NOT import
 
+- `hsk_level` — never imported from the wiki, even when it conflicts with the vault's value; vault's HSK research is authoritative (2026-09-25)
 - Phonological discrepancies (`羅馬字`, `諺文`, `注音`) — vault's current phonology is authoritative; linter manages these
 - Extra cantonese readings beyond the primary one
 - `japanese_native` / `korean_native` differences — usually left as-is unless user asks
