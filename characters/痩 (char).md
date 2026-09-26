@@ -43,7 +43,7 @@ date-last-perfect: 2026-08-16
 ```
 
 ## Notes
-- 形声 (OC *srus): semantic [[Radical 104|疒]] ("sickness") + phonetic 叟 — thin, emaciated.
+- 形声 (OC *srus): semantic [[Radical 104|疒]] ("sickness") + phonetic [[文法 - 98違法字#叟|叟]] (permanently forbidden per [[文法 - 98違法字]]) — thin, emaciated.
 - [SKIP-3-5-7](Lookup/SKIP/SKIP-3/SKIP-3-5-7.md) ([Stroke 12](Lookup/Stroke/Stroke%2012.md))
 - 2924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄙ⼜](syllables/ㄙ⼜.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 2](Lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)

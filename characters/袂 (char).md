@@ -45,7 +45,7 @@ date-last-perfect: 2026-08-14
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (Zhengzhang OC \*mɡʷeds): semantic [[Radical 145|衣]] ("clothing") + phonetic [[夬]] (OC \*kʷraːds).
+- 形声 (Zhengzhang OC \*mɡʷeds): semantic [[Radical 145|衣]] ("clothing") + phonetic [[文法 - 98違法字#夬|夬]] (OC \*kʷraːds; permanently forbidden per [[文法 - 98違法字]]).
 - [SKIP-1-5-4](lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 3067th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄇㄝ](syllables/ㄇㄝ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
