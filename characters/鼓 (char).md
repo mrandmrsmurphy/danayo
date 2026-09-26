@@ -43,7 +43,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 会意: [[壴]] ("drum," no vault page) + [[攴]] ("hand holding a drumstick") — a hand striking a drum; "drum" (n.), "to beat a drum, to strum/play."
+- 会意: [[壴]] ("drum") + [[攴]] ("hand holding a drumstick") — a hand striking a drum; "drum" (n.), "to beat a drum, to strum/play."
 - [SKIP-1-9-4](lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 592nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄍㄛ](syllables/ㄍㄛ.md)
 - [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)

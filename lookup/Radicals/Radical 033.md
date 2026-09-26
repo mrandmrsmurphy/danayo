@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 7
+size: 8
 radical: 士
 tags: [lookup]
 
@@ -24,8 +24,11 @@ tags: [lookup]
 5. <ruby>[壱](../../characters/壱%20(char).md)<rt>ㄧㄊ</rt></ruby> - loyal, faithful
 6. <ruby>[売](../../characters/売.md)<rt>ㄇㄚㄧ</rt></ruby> - sell
 
+### +6 Strokes
+7. <ruby>[[壴]]<rt>ㄊㄨㄛ</rt></ruby> - to drum
+
 ### +8 Strokes
-7. <ruby>[壷](../../characters/壷.md)<rt>ㄏㄛ</rt></ruby> - pot
+8. <ruby>[壷](../../characters/壷.md)<rt>ㄏㄛ</rt></ruby> - pot
 
 ## Data check
 ```dataview

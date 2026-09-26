@@ -50,7 +50,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- 会意 of 壴 ("drum") and [[Radical 030|口]] ("mouth") — drumming and singing: joy.
+- 会意 of [[壴]] ("drum") and [[Radical 030|口]] ("mouth") — drumming and singing: joy.
 - [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 506th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄏㄧ](../syllables/ㄏㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
