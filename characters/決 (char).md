@@ -59,6 +59,12 @@ boundedness: 90
 - <ruby>[[決定]]<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby> "decide; choose"
 - <ruby>[[処決]]<rt>ㄑㄛㄎ⼔ㄊ</rt></ruby> "handle; resolve; execute"
 
+## Derived Characters
+- <ruby>[[快 (char)|快]]<rt>ㄎ⺢ㄧ</rt></ruby> "sharp"
+- <ruby>[[缺]]<rt>ㄎ⼔ㄊ</rt></ruby> "incomplete, lacking"
+- <ruby>[[袂 (char)|袂]]<rt>ㄇㄝ</rt></ruby> "sleeve"
+- <ruby>[[訣]]<rt>ㄍ⼔ㄊ</rt></ruby> "secret, trick"
+
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
 - <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"

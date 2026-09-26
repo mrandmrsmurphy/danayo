@@ -52,7 +52,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声/会意 (OC \*ŋraɡ): semantic [[Radical 162|辵]] ("movement") + phonetic [[屰]] (also its own original form, a pictogram of an inverted person, "opposite, backwards") — originally "to meet, to welcome," later extended to "to go against, to oppose." Dan'a'yo uses 逆 rather than the more Mandarin-specific 叛 (which has no vault page) for "betray, rebel" senses.
+- 形声/会意 (OC \*ŋraɡ): semantic [[Radical 162|辵]] ("movement") + phonetic [[屰]] (also its own original form, a pictogram of an inverted person, "opposite, backwards") — originally "to meet, to welcome," later extended to "to go against, to oppose." Dan'a'yo uses 逆 rather than the more Mandarin-specific 叛 (folded into [[反 (char)|反]] as an alias, no page of its own) for "betray, rebel" senses.
 - [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 471st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 陌三開|ɣiæk]] → [ㄝㄎ](syllables/ㄝㄎ.md)
 - [Grade 4](lookup/Grade%204.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

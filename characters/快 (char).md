@@ -29,7 +29,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2099
 mc_id: 1968
-graphemic_classification: 叏
+graphemic_classification: 決 (char)
 stand_in: 快
 aliases:
 注音: ㄎ⺢ㄧ
@@ -47,7 +47,7 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声 (OC \*kʷraːds): semantic [[Radical 061|心]] ("heart") + phonetic 叏 (no vault page — a variant spelling of the standard 夬, the spelling shared by this character's own derived family 訣/決/缺) — "pleased, happy"; also "sharp; quick; forthright."
+- 形声 (OC \*kʷraːds): semantic [[Radical 061|心]] ("heart") + phonetic [[決 (char)|叏]] (a variant spelling of the standard 夬, both aliases of [[決 (char)|決]] per its own `aliases` field — the same phonetic shared by this character's own derived family 訣/決/缺) — "pleased, happy"; also "sharp; quick; forthright."
 - [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
 - 1968th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 夬合|ɣuai]] → [ㄎ⺢ㄧ](syllables/ㄎ⺢ㄧ.md)
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
