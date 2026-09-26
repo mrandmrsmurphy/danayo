@@ -27,7 +27,7 @@ hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 6371
 mc_id: 2804
-graphemic_classification: "夆"
+graphemic_classification: "豊"
 stand_in: "蜂"
 aliases:
   - 蚌
@@ -46,7 +46,7 @@ date-last-perfect: 2026-08-10
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 142|虫]] ("insect") + phonetic 夆 (OC \*pʰoŋ/\*boŋ, pageless in this vault) — "bee; wasp; hornet." Simplified from 蠭. `aliases` lists 蚌 (pageless in this vault), whose own primary sense is "bivalve mollusc" but which is separately documented as a genuine, if rare, variant form of 蜂 (Etymology 3).
+- 形聲: semantic [[Radical 142|虫]] ("insect") + phonetic [[豊|夆]] (OC \*pʰoŋ/\*boŋ; an alias of [[豊]], per its own `aliases` field) — "bee; wasp; hornet." Simplified from 蠭. `aliases` lists 蚌 (pageless in this vault), whose own primary sense is "bivalve mollusc" but which is separately documented as a genuine, if rare, variant form of 蜂 (Etymology 3).
 - [SKIP-1-5-8](lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 2804th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄈㄛㄫ](syllables/ㄈㄛㄫ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)

@@ -53,6 +53,6 @@ boundedness: 100
 - <ruby>[[胃酸]]<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby> "stomach acid; gastric acid"
 
 ## Derived Characters
-- [[俊]]
-- [[唆]]
-- [[峻]]
+- <ruby>[[俊]]<rt>ㄐㄨㄋ</rt></ruby> "outstanding talent"
+- <ruby>[[唆]]<rt>ㄙ⺢</rt></ruby> "incite"
+- <ruby>[[峻]]<rt>ㄙ⼜ㄋ</rt></ruby> "steep, towering"
