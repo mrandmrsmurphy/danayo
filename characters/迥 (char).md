@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-12
 ```
 
 ## Notes
-- 形聲 (OC \*ɡʷeːŋʔ): semantic [[Radical 162|辵]] ("walking, movement") + phonetic 冋 (OC \*kʷeːŋ, \*ɡʷeːŋʔ, an exact match, pageless in this vault) — distant, far; drastically different.
+- 形聲 (OC \*ɡʷeːŋʔ): semantic [[Radical 162|辵]] ("walking, movement") + phonetic [[文法 - 98違法字#冋|冋]] (OC \*kʷeːŋ, \*ɡʷeːŋʔ, an exact match — "distant borders; the wilderness beyond the city," no character page of its own in this vault, permanently forbidden per [[文法 - 98違法字]]) — distant, far; drastically different.
 - [SKIP-3-4-5](lookup/SKIP/SKIP-3/SKIP-3-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 5049`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 青合|weŋ]] → [ㄏㄧㄫ](syllables/ㄏㄧㄫ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)

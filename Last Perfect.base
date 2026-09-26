@@ -11,10 +11,10 @@ views:
       - file.mtime
       - file.folder
     sort:
-      - property: date-last-perfect
-        direction: ASC
       - property: file.mtime
         direction: DESC
+      - property: date-last-perfect
+        direction: ASC
       - property: joyo_level
         direction: DESC
       - property: file.name
