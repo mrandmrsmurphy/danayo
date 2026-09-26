@@ -28,6 +28,7 @@ mc_id: 3357
 graphemic_classification: 熏
 stand_in: 薫
 aliases:
+  - 熏
   - 薰
   - 蘍
 注音: ㄏㄨㄋ
@@ -45,10 +46,13 @@ date-last-perfect: 2026-08-08
 ```
 
 ## Notes
-- 形声 (OC \*qʰun): semantic [[Radicals/Radical 140|艸]] ("plant") + phonetic 熏 (OC \*qʰun; no vault page, a distinct character in its own right, not a mere variant) — "fragrant; fragrant smoke, incense."
+- 形声 (OC \*qʰun): semantic [[Radicals/Radical 140|艸]] ("plant") + phonetic 熏 (OC \*qʰun; this vault's own ancestor/root form, folded in here as an alias per user decision 2026-09-26 — real independent modern usage exists too, e.g. 熏肉/熏陶, distinct from this character's "fragrance, incense" sense) — "fragrant; fragrant smoke, incense."
 - [SKIP-2-3-13](lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
 - 3357th most used character in Classical Chinese (as 薰). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄏㄨㄋ](syllables/ㄏㄨㄋ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[薫]]<rt>ㄏㄨㄋ</rt></ruby> "fragrant; incense" (stand-in for 薫)
+
+## Derived Characters
+- <ruby>[[勲 (char)|勲]]<rt>ㄏㄨㄋ</rt></ruby> "meritorious deed"

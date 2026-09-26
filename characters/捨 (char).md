@@ -28,7 +28,6 @@ mc_id: 2582
 graphemic_classification: "舎"
 stand_in: "捨"
 aliases:
-  - 舍
 注音: "ㄙ⼘"
 kwin: false
 tags:

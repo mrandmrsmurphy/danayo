@@ -25,7 +25,7 @@ hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 7221
 mc_id: 1285
-graphemic_classification: 熏
+graphemic_classification: 薫 (char)
 stand_in: 勲
 aliases:
   - 勛
@@ -46,7 +46,7 @@ date-last-perfect: 2026-08-13
 ```
 
 ## Notes
-- 形聲 (OC \*qʰun): semantic [[Radical 019|力]] ("strength") + phonetic 熏 (no character page in this vault, OC \*qʰun, an exact match) — a meritorious deed; merit, achievement earned through effort. Corrected a bad phonetic citation: the field previously stored [[黒 (char)|黒]] ("black"), an unrelated character visually resembling part of this shinjitai glyph's shape — both English and Chinese Wiktionary confirm the true phonetic is 熏. Variants [[勛]], [[勋]], and traditional [[勳]] all confirmed via English Wiktionary (this vault's primary form, 勲, is itself the Japanese shinjitai of 勳).
+- 形聲 (OC \*qʰun): semantic [[Radical 019|力]] ("strength") + phonetic [[薫 (char)|熏]] (OC \*qʰun, an exact match; an alias of [[薫 (char)|薫]], per its own `aliases` field) — a meritorious deed; merit, achievement earned through effort. Corrected a bad phonetic citation: the field previously stored [[黒 (char)|黒]] ("black"), an unrelated character visually resembling part of this shinjitai glyph's shape — both English and Chinese Wiktionary confirm the true phonetic is 熏. Variants [[勛]], [[勋]], and traditional [[勳]] all confirmed via English Wiktionary (this vault's primary form, 勲, is itself the Japanese shinjitai of 勳).
 - [SKIP-2-11-4](lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
 - Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄏㄨㄋ](syllables/ㄏㄨㄋ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
