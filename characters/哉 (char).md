@@ -43,7 +43,7 @@ boundedness: 65
 ```
 
 ## Notes
-- 形声 (OC \*ʔslɯː): semantic [[Radical 030|口]] ("mouth") + phonetic 𢦏 (OC \*ʔslɯː — no character page of its own in this vault; itself 形声 with phonetic [[才]] (OC \*zlɯː), the same root also backing [[裁]] and [[載 (char)|載]]) — a vocative or exclamatory utterance.
+- 形声 (OC \*ʔslɯː): semantic [[Radical 030|口]] ("mouth") + phonetic [[文法 - 98違法字#𢦏|𢦏]] (OC \*ʔslɯː — itself 形声 with phonetic [[才]] (OC \*zlɯː); permanently forbidden per [[文法 - 98違法字]], the same root also backing [[裁]] and [[載 (char)|載]]) — a vocative or exclamatory utterance.
 - [SKIP-3-6-3](../lookup/SKIP/SKIP-3/SKIP-3-6-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 272nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄐㄚㄧ](../syllables/ㄐㄚㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

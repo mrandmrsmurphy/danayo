@@ -46,7 +46,7 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声 (OC \*ʔslɯːʔ, \*ʔslɯːs, \*zlɯːs): semantic [[Radical 159|車]] ("chariot") + phonetic 𢦏 (no vault page) — "to carry, to be loaded with" (physical transport) and "to record, to put down in writing" (to convey information), two senses unified by the core idea of "carrying."
+- 形声 (OC \*ʔslɯːʔ, \*ʔslɯːs, \*zlɯːs): semantic [[Radical 159|車]] ("chariot") + phonetic [[文法 - 98違法字#𢦏|𢦏]] (permanently forbidden per [[文法 - 98違法字]]) — "to carry, to be loaded with" (physical transport) and "to record, to put down in writing" (to convey information), two senses unified by the core idea of "carrying."
 - [SKIP-3-6-7](lookup/SKIP/SKIP-3/SKIP-3-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 623rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄐㄚㄧ](syllables/ㄐㄚㄧ.md)
 - [Grade 4](lookup/Grade%204.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
