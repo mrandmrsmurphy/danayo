@@ -48,7 +48,7 @@ boundedness: 80
 ```
 ## Notes
 
-- 形声 (OC \*ɡɯɡ): semantic [[Radical 075|木]] ("tree, wood") + phonetic [[亟]] (OC \*kʰɯɡs, \*kɯɡ) — originally meaning a crossbeam rafter.
+- 形声 (OC \*ɡɯɡ): semantic [[Radical 075|木]] ("tree, wood") + phonetic [[文法 - 98違法字#亟|亟]] (OC \*kʰɯɡs, \*kɯɡ — "urgently, repeatedly, extremely," no character page of its own in this vault, permanently forbidden per [[文法 - 98違法字]]) — originally meaning a crossbeam rafter.
 - [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 500th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄍㄧㄎ](syllables/ㄍㄧㄎ.md)
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
