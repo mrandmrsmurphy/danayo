@@ -1,7 +1,7 @@
 ---
 stroke_count: 12
 date-last-perfect: 2026-09-24
-size: 5
+size: 6
 skip_number: 2-9-3
 tags: [lookup]
 
@@ -15,6 +15,7 @@ tags: [lookup]
 3. <ruby>[堡](/characters/堡.md)<rt>ㄅㄚㄨ</rt></ruby> "fort"
 4. <ruby>[奥](characters/奥%20(char).md)<rt>ㄨㄎ</rt></ruby> "deep"
 5. <ruby>[幇](/characters/幇.md)<rt>ㄅㄚㄫ</rt></ruby> "help"
+6. <ruby>[[尞]]<rt>ㄌ⼘</rt></ruby> "bonfire"
 
 ## Datacheck
 ```dataview

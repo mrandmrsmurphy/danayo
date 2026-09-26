@@ -45,7 +45,7 @@ date-last-perfect: 2026-08-09
 ```
 
 ## Notes
-- 形声 (OC \*ɡaːd): semantic [[言 (char)|言]] ("speech") + phonetic 曷 (no vault page; visually close to but distinct from its own derivative [[喝 (char)|喝]], "to shout") — "to visit, pay respects to" (literary).
+- 形声 (OC \*ɡaːd): semantic [[言 (char)|言]] ("speech") + phonetic [[曷]] (visually close to but distinct from its own derivative [[喝 (char)|喝]], "to shout") — "to visit, pay respects to" (literary).
 - [SKIP-1-7-8](lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
 - 901st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 月開|ɨɐt]] → [ㄝㄊ](syllables/ㄝㄊ.md)
 - [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)

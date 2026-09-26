@@ -53,7 +53,7 @@ date-last-perfect: 2026-08-10
 ```
 
 ## Notes
-- 形聲 (OC \*qʰaːd, this "yell; shout" sense — a separate reading, hè, from the unrelated everyday "to drink" sense hē): semantic [[Radical 030|口]] ("mouth") + phonetic 曷 (pageless in this vault; OC \*ɡaːd) — "to yell; to shout; to scold loudly."
+- 形聲 (OC \*qʰaːd, this "yell; shout" sense — a separate reading, hè, from the unrelated everyday "to drink" sense hē): semantic [[Radical 030|口]] ("mouth") + phonetic [[曷]] (OC \*ɡaːd) — "to yell; to shout; to scold loudly."
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
 - Not among the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4648`; its phonetic donor 曷 does independently appear at rank 1218, but 曷 is a wholly separate classical word — the interrogative "what; why" — not a genuine same-word alias of 喝, so its rank was not borrowed). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄏㄛㄊ](syllables/ㄏㄛㄊ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)

@@ -42,7 +42,7 @@ date-last-perfect: 2026-08-18
 [[nav/char_info]]
 ```
 ## Notes
-- 形声: semantic 艹 ("grass; plant") + phonetic 曷 — "kudzu."
+- 形声: semantic 艹 ("grass; plant") + phonetic [[曷]] — "kudzu."
 - [SKIP-2-3-9](Lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](Lookup/Stroke/Stroke%2012.md))
 - 1671st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄍ⼘ㄊ](syllables/ㄍ⼘ㄊ.md)
 - [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)

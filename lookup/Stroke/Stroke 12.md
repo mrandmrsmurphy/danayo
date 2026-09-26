@@ -1,7 +1,7 @@
 ---
 stroke_count: 12
 date-last-perfect: 2026-07-09
-size: 339
+size: 340
 tags: [lookup]
 ---
 > [[Stroke]]
@@ -26,7 +26,7 @@ tags: [lookup]
 - 2-6-6: <ruby>[[筆 (char)|筆]]<rt>ㄆㄨㄊ</rt></ruby>, <ruby>[[策]]<rt>ㄑㄚㄎ</rt></ruby>, <ruby>[[粟]]<rt>ㄙ⼄ㄎ</rt></ruby>, <ruby>[[筋]]<rt>ㄍㄧㄋ</rt></ruby>, <ruby>[[衆]]<rt>ㄐㄨㄫ</rt></ruby>, <ruby>[[羌]]<rt>ㄎ⼘ㄫ</rt></ruby>, <ruby>[[具]]<rt>ㄍㄨ</rt></ruby>, <ruby>[[筒 (char)|筒]]<rt>ㄉㄛㄫ</rt></ruby>, <ruby>[[紫]]<rt>ㄐㄝ</rt></ruby>, <ruby>[[答 (char)|答]]<rt>ㄉㄚㄆ</rt></ruby>, <ruby>[[巽]]<rt>ㄙㄛㄋ</rt></ruby>, <ruby>[[等 (char)|等]]<rt>ㄉㄨㄫ</rt></ruby>, <ruby>[[絢]]<rt>ㄏ⼔ㄋ</rt></ruby>, <ruby>[[棗]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[装 (char)|装]]<rt>ㄐ⺢ㄫ</rt></ruby>, <ruby>[[筐 (char)|筐]]<rt>ㄎ⺢ㄫ</rt></ruby>, <ruby>[[筈 (char)|筈]]<rt>ㄍ⺢ㄊ</rt></ruby>, <ruby>[[筍]]<rt>ㄙ⼜ㄊ</rt></ruby>, <ruby>[[裂]]<rt>ㄌㄝㄊ</rt></ruby>
 - 2-7-5: <ruby>[[盛]]<rt>ㄙㄧㄫ</rt></ruby>, <ruby>[[番 (char)|番]]<rt>ㄈㄚㄋ</rt></ruby>, <ruby>[[禼]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[貿]]<rt>ㄇㄛㄨ</rt></ruby>
 - 2-8-4: <ruby>[[犂]]<rt>ㄌㄝㄧ</rt></ruby>, <ruby>[[悲 (char)|悲]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[替]]<rt>ㄑㄝㄧ</rt></ruby>, <ruby>[[琶]]<rt>ㄅㄚ</rt></ruby>, <ruby>[[然 (char)|然]]<rt>ㄋ⼶ㄋ</rt></ruby>, <ruby>[[煮]]<rt>ㄐㄛ</rt></ruby>, <ruby>[[斐]]<rt>ㄈㄨㄧ</rt></ruby>, <ruby>[[雲 (char)|雲]]<rt>ㄨㄋ</rt></ruby>, <ruby>[[渠]]<rt>ㄍ⼄</rt></ruby>, <ruby>[[琴 (char)|琴]]<rt>ㄍㄨㄇ</rt></ruby>, <ruby>[[焚]]<rt>ㄅㄨㄋ</rt></ruby>, <ruby>[[琵]]<rt>ㄅㄧ</rt></ruby>, <ruby>[[焦 (char)|焦]]<rt>ㄐㄛㄨ</rt></ruby>, <ruby>[[雰]]<rt>ㄈㄨㄋ</rt></ruby>, <ruby>[[惑 (char)|惑]]<rt>ㄏㄛㄎ</rt></ruby>, <ruby>[[智]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby>
-- 2-9-3: <ruby>[[堅]]<rt>ㄍㄝㄋ</rt></ruby>, <ruby>[[奥 (char)|奥]]<rt>ㄨㄎ</rt></ruby>, <ruby>[[喪]]<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[[幇]]<rt>ㄅㄚㄫ</rt></ruby>, <ruby>[[堡]]<rt>ㄅㄚㄨ</rt></ruby>
+- 2-9-3: <ruby>[[堅]]<rt>ㄍㄝㄋ</rt></ruby>, <ruby>[[奥 (char)|奥]]<rt>ㄨㄎ</rt></ruby>, <ruby>[[喪]]<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[[幇]]<rt>ㄅㄚㄫ</rt></ruby>, <ruby>[[堡]]<rt>ㄅㄚㄨ</rt></ruby>, <ruby>[[尞]]<rt>ㄌ⼘</rt></ruby>
 - 2-10-2: <ruby>[[粤]]<rt>⼔ㄊ</rt></ruby>
 - 3-2-10: <ruby>[[厩]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[厨]]<rt>ㄑㄨㄛ</rt></ruby>, <ruby>[[雁 (char)|雁]]<rt>ㄚㄋ</rt></ruby>, <ruby>[[厥]]<rt>ㄎㄨㄊ</rt></ruby>
 - 3-3-9: <ruby>[[遍 (char)|遍]]<rt>ㄅㄝㄋ</rt></ruby>, <ruby>[[廃]]<rt>ㄈㄝ</rt></ruby>, <ruby>[[遂]]<rt>ㄙㄨㄧ</rt></ruby>, <ruby>[[道 (char)|道]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[達 (char)|達]]<rt>ㄊㄚㄊ</rt></ruby>, <ruby>[[庾]]<rt>⼜</rt></ruby>, <ruby>[[遇 (char)|遇]]<rt>ㄨ</rt></ruby>, <ruby>[[廊]]<rt>ㄌㄚㄫ</rt></ruby>, <ruby>[[運]]<rt>ㄨㄋ</rt></ruby>, <ruby>[[圏 (char)|圏]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[貳 (char)|貳]]<rt>ㄋㄧㄜ</rt></ruby>, <ruby>[[属]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby>, <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby>, <ruby>[[犀]]<rt>ㄙㄝㄧ</rt></ruby>, <ruby>[[遥]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[遅 (char)|遅]]<rt>ㄑㄧㄜ</rt></ruby>

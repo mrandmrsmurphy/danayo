@@ -45,7 +45,7 @@ date-last-perfect: 2026-08-08
 ```
 
 ## Notes
-- 形声 (OC \*ɡaːd): semantic [[衣]] ("clothing") + phonetic 曷 (no vault page) — "brown, dull, dark" (originally coarse clothing dyed a drab color).
+- 形声 (OC \*ɡaːd): semantic [[衣]] ("clothing") + phonetic [[曷]] — "brown, dull, dark" (originally coarse clothing dyed a drab color).
 - [SKIP-1-5-8](lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 2411th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄏㄚㄊ](syllables/ㄏㄚㄊ.md)
 - [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
