@@ -47,7 +47,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声 (OC \*puk): semantic [[Radical 130|肉]] ("flesh, body") + phonetic [[复]] (OC \*bɵk) — the fleshy part of the body that "returns" food, i.e. the belly.
+- 形声 (OC \*puk): semantic [[Radical 130|肉]] ("flesh, body") + phonetic [[文法 - 98違法字#复|复]] (OC \*bɵk; permanently forbidden per [[文法 - 98違法字]]) — the fleshy part of the body that "returns" food, i.e. the belly.
 - [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - 886th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄈㄨㄎ](syllables/ㄈㄨㄎ.md)
 - [Grade 5](lookup/Grade%205.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
