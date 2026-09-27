@@ -55,6 +55,7 @@ Four independently attested near-synonyms, differing mainly by register rather t
 
 - <ruby>[約会](../words/約会.md)<rt>⼘ㄎㄏ⼔</rt></ruby>: a date, a social hangout; to arrange to meet — Rosenfelder's "date." See Semantic Range Notes for why this is the real Mandarin word rather than a mechanical Dan'a'yo invention.
 - <ruby>[密会](../words/密会.md)<rt>ㄇㄧㄊㄏ⼔</rt></ruby>: a secret meeting, a secret date, a tryst — 密 "secret" + the same 会 "to meet" that [[約会]] builds on, not derived from 約会 itself.
+- <ruby>[秋波](../words/秋波.md)<rt>ㄑㄨㄛㄅㄚ</rt></ruby>: literally "autumn ripples"; figuratively, a flirtatious or knowing glance — Rosenfelder's "flirt." See Semantic Range Notes.
 
 ## Advanced / Specialized (C1+)
 
@@ -73,7 +74,7 @@ Four independently attested near-synonyms, differing mainly by register rather t
 
 **約会 vs. 密会 vs. 交際 — three different words English flattens into "date"**: English "date" is also ambiguous with the calendar sense (a day on the calendar) — that sense is named by 日期, a real Mandarin word with no vault page yet, out of scope here (Time/Calendar domain, not Love). Within the romantic-outing sense, Dan'a'yo further splits by openness and duration: [[約会]] is the neutral, standard word (real Mandarin 約會/约会 yuēhuì — the actual Han-character gloss dictionaries give for Japanese デート and Korean 데이트, both otherwise pure English loanwords, which is why this vault reaches for the Chinese form rather than inventing something new); [[密会]] specifically marks that the meeting is secret, most often because it's illicit; [[交際]] names the ongoing state of seeing someone, not a single outing.
 
-**Still no dedicated word for "to flirt"**: unlike "date," "flirt" has no single common CJKV form to borrow — the concept splits across registers with no convergent source-language equivalent. Left as an open gap rather than forcing a coinage — same treatment [[Buildings]] gives "carpet."
+**秋波 is a real CJKV way to say "flirt"**: literally "autumn ripples," a poetic image for the clear, glancing beauty of a woman's eyes (Li Bai used it for the literal scenic sense; Su Shi repurposed it figuratively). The figurative sense — a flirtatious or knowing glance, an action that means more than its surface appearance — is now the dominant meaning across Mandarin, Cantonese, Japanese, and Korean alike, and living usage isn't restricted to women making eyes at men. The base verb phrase 送秋波 ("to cast a flirtatious glance") is elaborated into the fixed four-character idiom [[暗送秋波]] ("to secretly send autumn ripples") — see that page's own Source and Origin section for its documented textual history (Ming-dynasty folk song for the fixed idiom's earliest attestation, popularized by the Diaochan/Lü Bu episode in 《三國演義》).
 
 **関心 is not romance-specific**: it covers personal concern ("to care about someone"), intellectual interest, and institutional attention equally — the same word a Dan'a'yo speaker would use for "I care about you" and "an interest in astronomy" alike. Listed here because it's Rosenfelder's closest match for "care" in this domain, not because Dan'a'yo has narrowed it to romantic use.
 
@@ -84,3 +85,4 @@ Four independently attested near-synonyms, differing mainly by register rather t
 
 **Idiomatic uses**:
 - [[天長地久]] — "as enduring as heaven and earth," used of a love or bond expected to last forever.
+- [[暗送秋波]] — "to secretly send autumn ripples," built on [[秋波]] above; to flirt or convey feelings through a knowing glance.

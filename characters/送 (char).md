@@ -57,3 +57,6 @@ boundedness: 80
 - <ruby>[[運送]]<rt>ㄨㄋㄙㄛㄫ</rt></ruby> "transport"
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
 - <ruby>[[搬送]]<rt>ㄅㄚㄋㄙㄛㄫ</rt></ruby> "to transport, convey"
+
+## Chengyu
+- <ruby>[[暗送秋波]]<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> "to flirt, to convey feelings through a knowing glance"

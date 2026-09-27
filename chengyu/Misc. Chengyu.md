@@ -152,6 +152,7 @@ tags:
 - <ruby>[鏡花水月](chengyu/鏡花水月.md)<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> - je ne sais quoi, fantasy, illusion
 - <ruby>[阿鼻叫喚](chengyu/阿鼻叫喚.md)<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> - agonized cries in the midst of tragedy
 - <ruby>[電光石火](chengyu/電光石火.md)<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> - gone in a flash
+- <ruby>[暗送秋波](chengyu/暗送秋波.md)<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> - to flirt, to convey feelings through a knowing glance
 
 ## Base check
 ```base
