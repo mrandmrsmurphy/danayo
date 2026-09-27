@@ -51,6 +51,7 @@ boundedness: 90
 ## Words
 - <ruby>[[俗]]<rt>ㄙㄛㄎ</rt></ruby> "vulgar"
 - <ruby>[[習俗]]<rt>ㄙㄧㄆㄙㄛㄎ</rt></ruby> "custom; mores; convention; cultural practices"
+- <ruby>[[世俗]]<rt>ㄙㄝㄙㄛㄎ</rt></ruby> "worldly, secular, mundane"
 
 ## Derived Characters
 - <ruby>[[浴]]<rt>⼄ㄎ</rt></ruby> "bathe"

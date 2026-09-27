@@ -67,6 +67,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[欽敬](../words/欽敬.md)<rt>ㄎㄨㄇㄍ⼶ㄫ</rt></ruby>: to admire, respect.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust (someone with something).
+- <ruby>[印象](../words/印象.md)<rt>ㄧㄋㄙ⼘ㄫ</rt></ruby>: an impression; to impress — Rosenfelder's "impress." See Semantic Range Notes.
 
 ### Praise & Admiration
 
@@ -74,6 +75,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
 - <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
 - <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
+- <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛㄇㄨ</rt></ruby>: to encourage, cheer, inspire — literally "to drum and dance." Rosenfelder's "inspire."
 
 ### Assistance & Support
 
@@ -132,10 +134,14 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
+- <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
+- <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."
+- <ruby>[圓滑](../words/圓滑.md)<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby>: slick, glib, smooth (of a person, mildly negative) — a near-synonym of [[圓融]] with a self-serving undertone instead of genuine tact.
 - <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
 - <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.
 - <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, pleased. See Semantic Range Notes.
 - <ruby>[俗](../words/俗.md)<rt>ㄙㄛㄎ</rt></ruby>: vulgar.
+- <ruby>[世俗](../words/世俗.md)<rt>ㄙㄝㄙㄛㄎ</rt></ruby>: worldly, secular, mundane — Rosenfelder's "worldly," built on the same root as [[俗]] above.
 - <ruby>[失礼](../words/失礼.md)<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby>: rude, impolite.
 - <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: everyday, routine, ordinary.
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
@@ -170,7 +176,9 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
 
-**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses); "impress" (no word for making a strong positive impression on someone); "worldly" and "inspire" (no vault words at all).
+**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses).
+
+**印象 turned out to be a calque, not an ancient native term**: despite drawing on genuinely old Buddhist "seal-imprint" imagery for the mind (心印, "mind-seal," describing insight stamped from master to disciple), 印象 as this exact fixed compound is a 19th-century Meiji-era Japanese coinage built specifically to translate the Western psychological concept "impression" — verified rather than assumed, since the reverse (an ancient native term later mistaken for a Western calque) was the original hypothesis.
 
 **"Cynical" needed three words, not one**: it's a distinctly Greek philosophical development (from the Cynic school) with no single CJKV equivalent. Dan'a'yo approximates it with a cluster instead: [[冷笑]] names the sneering laugh itself, [[皮肉]] (traced to the Buddhist teaching expression 皮肉骨髄, "skin, flesh, bones, marrow" — 皮肉 originally meant the shallow, surface layer) names the ironic or shallowly critical mode of speech, and the chengyu [[玩世不恭]] names the broader worldview — an irreverent, unserious disengagement from life adopted out of disappointment with reality. No single word does all three jobs at once, and none was force-merged to pretend otherwise.
 
@@ -186,7 +194,9 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 **迷宮 vs. 迷路 — a real noun/verb split, not a duplicate**: [[迷宮]] is the dedicated noun for a maze/labyrinth where the exit is genuinely hard to find (also the source of 迷宮入り, "to go cold, unsolved"). [[迷路]] is trickier: in Mandarin it's overwhelmingly a common verb, "to get lost" (我迷路了), while Japanese and Korean use the same characters as a noun for a maze that always has a findable exit (a garden/amusement-park maze) — a genuine cross-linguistic part-of-speech divergence kept on one entry rather than split into two.
 
-**Genuine gap, not yet resolved**: "tact" — no vault word at all.
+**圓融 vs. 圓滑 — same "round" image, opposite social judgment**: [[圓融]] traces to a real Buddhist philosophical term (Tendai/Huayan "perfect interfusion," each thing keeping its own place while harmonizing with everything else without obstruction) and reads as genuine tact — Rosenfelder's "tact." [[圓滑]] shares the same "round" image with 滑 ("slippery") instead of 融 ("blend, harmonize"), and in Mandarin specifically reads as a mild character flaw — slick, glib, self-servingly smooth — while Japanese/Korean use the cognate mainly of a smooth *process* rather than a person's character. Kept as two distinct entries rather than one, since the valence genuinely differs rather than just the register.
+
+**得体 diverges sharply in Japanese**: Mandarin détǐ and Korean 득체 both mean "fitting, appropriate, proper" — matching one's words or conduct to what a situation actually calls for. Japanese えたい, however, survives almost only in 得体の知れない, "of unknown/mysterious nature" — nearly the mirror image of the Chinese sense. Both kept, not silently merged.
 
 ## See Also
 

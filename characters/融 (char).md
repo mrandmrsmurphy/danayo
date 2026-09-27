@@ -58,3 +58,4 @@ date-last-perfect: 2026-08-08
 - <ruby>[[融化]]<rt>⼜ㄫㄏ⺢</rt></ruby> "dissolve, thaw"
 - <ruby>[[溶融]]<rt>⼄ㄫ⼜ㄫ</rt></ruby> "melt, fuse"
 - <ruby>[[金融]]<rt>ㄍㄧㄇ⼜ㄫ</rt></ruby> "finance"
+- <ruby>[[圓融]]<rt>⼔ㄋ⼜ㄫ</rt></ruby> "tact, tactful, diplomatically harmonious"
