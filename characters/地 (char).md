@@ -84,6 +84,7 @@ boundedness: 90
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
 - <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth; all the gods"
 - <ruby>[[植民地]]<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby> "colony"
+- <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
 
 ## Chengyu
 - <ruby>[[塩地光世]]<rt>⼶ㄇㄉㄧㄜㄎ⺢ㄫㄙㄝ</rt></ruby> "salt of the earth and light of the world"

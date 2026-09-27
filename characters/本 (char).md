@@ -69,5 +69,6 @@ boundedness: 45
 - <ruby>[[本校]]<rt>ㄅㄛㄋㄏ⼘ㄨ</rt></ruby> "head school; our school; this school"
 - <ruby>[[根本]]<rt>ㄍㄜㄋㄅㄛㄋ</rt></ruby> "basis; foundation; base"
 - <ruby>[[資本]]<rt>ㄐㄧㄜㄅㄛㄋ</rt></ruby> "capital (finance); resource"
+- <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
 ## Chengyu
 - <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"

@@ -49,6 +49,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[難民](../words/難民.md)<rt>ㄋㄚㄋㄇㄧㄋ</rt></ruby>: a refugee.
 - <ruby>[外人](../words/外人.md)<rt>⺢ㄧㄋㄧㄋ</rt></ruby>: a stranger, outsider.
 - <ruby>[外来](../words/外来.md)<rt>⺢ㄧㄌㄚㄧ</rt></ruby>: foreign.
+- <ruby>[土著](../words/土著.md)<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby>: aborigine, aboriginal, indigenous — the closest existing word to Rosenfelder's "native," though its primary sense is narrower. See Semantic Range Notes.
+- <ruby>[本地](../words/本地.md)<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby>: local, of this locality — a milder complement to [[土著]]. See Semantic Range Notes.
 - <ruby>[居住](../words/居住.md)<rt>ㄍㄧㄐㄨ</rt></ruby>: to reside, dwell.
 
 ### Character & Civic Virtue
@@ -182,7 +184,9 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
 
-**Genuine gap, not yet resolved**: "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else) — no vault word at all.
+**"Native" resolved with two words, neither an exact fit alone**: [[土著]]'s primary, formal sense is "aborigine, indigenous" — narrower than English "native" (a native New Yorker isn't necessarily indigenous to the Americas), though modern colloquial Mandarin also stretches it humorously to mean "long-time local" (北京土著, "a born-and-bred Beijinger"), which lands much closer. [[本地]] gives the milder, more general "local" sense as a complement. Between the two, this vault treats the gap as closed rather than forced into one imperfect word.
+
+**本地 deliberately overrides Japanese's primary sense**: Japanese distinguishes this exact compound by reading — ほんじ (honji) names a major Buddhist theological concept (本地垂迹, "original ground and manifest trace," the doctrine that Shinto kami are avatars of an underlying Buddha/Bodhisattva), while the far less common ほんち (honchi) carries the plain geographic "this locality" sense instead. This vault deliberately uses ほんち, not the historically far more significant ほんじ — an explicit, stated override of Japanese's own dominant usage in favor of the ordinary sense shared by Mandarin and Vietnamese.
 
 **斯文's living sense splits by language, and its character-page `stand_in` needed a real correction**: Mandarin narrowed the Analects' original "this culture [of ours]" (天之未喪斯文也) to describe a person's genteel, refined manner — this vault's second "gentle" word, cooler than [[温柔]]'s warmth. Japanese しぶん and Korean 사문 instead keep the older, narrower sense: "Confucian learning/teachings" specifically, not a personality description. Separately: `characters/斯.md` had `stand_in: 名専字` (the placeholder for a character used only in transliterations, e.g. 波斯 "Persia") — now corrected to `斯文`, since this is a real, substantive, non-transliteration compound.
 

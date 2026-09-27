@@ -56,3 +56,4 @@ boundedness: 100
 - <ruby>[[着]]<rt>ㄐ⺢ㄎ</rt></ruby> "to wear" (stand-in for 着)
 - <ruby>[[顕着]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
 - <ruby>[[寿着]]<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby> "hesitate, waver"
+- <ruby>[[土著]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
