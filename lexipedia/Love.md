@@ -4,6 +4,7 @@ type: lexipedia
 domain: Love
 related_domains:
   - "[[Kinship]]"
+  - "[[Society]]"
 status: partial
 ---
 
@@ -82,6 +83,7 @@ Four independently attested near-synonyms, differing mainly by register rather t
 
 **Related domains**:
 - [[Kinship]] — family-bond and marriage-status vocabulary lives there rather than here; 愛人's "spouse" sense in mainland Mandarin borders that domain even though this page treats the word under its fiat "lover" sense.
+- [[Society]] — group belonging beyond romance/family lives there; that page's [[外人]] ("stranger, outsider") names the same "who counts as one of us" question this page's 愛人 divergence touches from the other direction.
 
 **Idiomatic uses**:
 - [[天長地久]] — "as enduring as heaven and earth," used of a love or bond expected to last forever.

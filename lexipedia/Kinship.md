@@ -5,6 +5,7 @@ domain: Kinship
 related_domains:
   - "[[Government]]"
   - "[[Love]]"
+  - "[[Society]]"
 status: complete
 date-last-perfect: 2026-09-21
 ---
@@ -200,6 +201,7 @@ The six [[従兄|従]]-prefixed cousin words (coined 2026-09-21, user-directed) 
 **Related domains**:
 - [[Government]] — [[王朝]] ("dynasty") sits at the scale where lineage and rule become the same concept; Government hasn't been migrated to this template yet, so the link isn't yet reciprocated on that page.
 - [[Love]] — romantic/affectionate vocabulary lives there rather than here; [[愛人]]'s mainland-Mandarin "spouse" sense borders this domain even though Love treats the word under its fiat "lover" sense.
+- [[Society]] — group belonging beyond the family lives there; [[新人]] ("newcomer") and [[外人]]/[[本地]]/[[土著]] (stranger/local/native) all touch questions of who counts as "one of us" from the outside-the-family angle this page doesn't cover.
 
 **Idiomatic uses**:
 - [[骨肉]] — literally "flesh and bone," used for blood kinship itself: 骨肉之親 ("flesh-and-blood relatives"), 骨肉相残 ("blood relatives turning on each other") — the literal anatomical sense has receded almost entirely behind the kinship idiom in living usage.

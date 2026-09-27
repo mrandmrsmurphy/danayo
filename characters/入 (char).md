@@ -62,5 +62,6 @@ boundedness: 70
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
 - <ruby>[[滲入]]<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby> "seep into"
 
+- <ruby>[[加入]]<rt>ㄍㄚㄋㄧㄆ</rt></ruby> "add in, joining"
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

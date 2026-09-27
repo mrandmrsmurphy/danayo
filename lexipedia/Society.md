@@ -5,7 +5,8 @@ domain: Society
 related_domains:
   - "[[Kinship]]"
   - "[[Love]]"
-status: partial
+status: complete
+date-last-perfect: 2026-09-27
 ---
 
 # Society
@@ -38,6 +39,13 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[系統](../words/系統.md)<rt>ㄏㄝㄧㄊㄛㄫ</rt></ruby>: system, organization.
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit.
 - <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to join, participate.
+- <ruby>[加入](../words/加入.md)<rt>ㄍㄚㄋㄧㄆ</rt></ruby>: to join, enroll (as a member) — a near-synonym of [[参加]].
+
+### Civilization & Tradition
+
+- <ruby>[伝統](../words/伝統.md)<rt>ㄐ⼔ㄋㄊㄛㄫ</rt></ruby>: tradition, custom.
+- <ruby>[文明](../words/文明.md)<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>: civilization.
+- <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
 
 ### Migration & Belonging
 
@@ -53,6 +61,26 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[本地](../words/本地.md)<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby>: local, of this locality — a milder complement to [[土著]]. See Semantic Range Notes.
 - <ruby>[居住](../words/居住.md)<rt>ㄍㄧㄐㄨ</rt></ruby>: to reside, dwell.
 
+### Peoples & Ethnicity
+
+- <ruby>[民族](../words/民族.md)<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>: ethnicity, an ethnic nation.
+- <ruby>[種族](../words/種族.md)<rt>ㄐㄛㄫㄐㄛㄎ</rt></ruby>: ethnicity, race.
+- <ruby>[族群](../words/族群.md)<rt>ㄐㄛㄎㄍㄨㄋ</rt></ruby>: an ethnic group, ethnic community.
+- <ruby>[回族](../words/回族.md)<rt>ㄏㄛㄧㄐㄛㄎ</rt></ruby>: the Hui ethnicity.
+- <ruby>[壮族](../words/壮族.md)<rt>ㄐ⺢ㄫㄐㄛㄎ</rt></ruby>: the Zhuang ethnicity.
+- <ruby>[満族](../words/満族.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: the Manchu ethnicity.
+- <ruby>[漢族](../words/漢族.md)<rt>ㄏㄚㄋㄐㄛㄎ</rt></ruby>: the Han ethnicity.
+- <ruby>[苗族](../words/苗族.md)<rt>ㄇ⼘ㄨㄐㄛㄎ</rt></ruby>: the Hmong/Miao ethnicity.
+
+### Status, Rank & Civic Standing
+
+- <ruby>[公民](../words/公民.md)<rt>ㄍㄛㄫㄇㄧㄋ</rt></ruby>: citizen, civics.
+- <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
+- <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
+- <ruby>[紳士](../words/紳士.md)<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby>: a gentleman.
+- <ruby>[同等](../words/同等.md)<rt>ㄉㄛㄫㄉㄨㄫ</rt></ruby>: equal, equivalent, of the same rank.
+- <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
+
 ### Character & Civic Virtue
 
 - <ruby>[確信](../words/確信.md)<rt>ㄎㄚㄎㄙㄧㄋ</rt></ruby>: confident, convinced.
@@ -62,7 +90,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
-- <ruby>[教化](../words/教化.md)<rt>ㄍ⼘ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
+- <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
+- <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
 - <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
 - <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
@@ -94,6 +123,23 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛助](../words/賛助.md)<rt>ㄐㄚㄋㄐㄛ</rt></ruby>: to support, sponsor.
 - <ruby>[援護](../words/援護.md)<rt>ㄛㄋㄏㄛ</rt></ruby>: support, backing (especially for veterans).
 - <ruby>[羽翼](../words/羽翼.md)<rt>ㄨㄧㄎ</rt></ruby>: assistance (literally "wing").
+
+### Friendship, Mediation & Belonging
+
+- <ruby>[交友](../words/交友.md)<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby>: to make friends.
+- <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
+- <ruby>[仲介](../words/仲介.md)<rt>ㄉㄨㄫㄍ⼶</rt></ruby>: a mediator, broker.
+- <ruby>[仲媒](../words/仲媒.md)<rt>ㄉㄨㄫㄇㄛㄧ</rt></ruby>: a matchmaker.
+- <ruby>[庇護](../words/庇護.md)<rt>ㄅㄧㄜㄏㄛ</rt></ruby>: to protect, shelter.
+
+### Discipleship & Attendance
+
+- <ruby>[弟子](../words/弟子.md)<rt>ㄉㄝㄐㄜ</rt></ruby>: an apprentice, disciple.
+- <ruby>[信徒](../words/信徒.md)<rt>ㄙㄧㄋㄉㄛ</rt></ruby>: a disciple, believer (of a religion).
+- <ruby>[侍者](../words/侍者.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: an attendant, servant, valet.
+- <ruby>[従者](../words/従者.md)<rt>ㄐㄛㄫㄑㄚ</rt></ruby>: an attendant, follower, retainer.
+- <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧㄋㄜ</rt></ruby>: a servant girl, maidservant.
+- <ruby>[陪](../words/陪.md)<rt>ㄅㄛㄧ</rt></ruby>: to accompany, be with, keep company.
 
 ### Hosting, Meeting & Invitation
 
@@ -154,6 +200,8 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: everyday, routine, ordinary.
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
 - <ruby>[恭遜](../words/恭遜.md)<rt>ㄍ⼄ㄫㄙㄛㄋ</rt></ruby>: politeness, courteousness, civility — Rosenfelder's "polite," deliberately not [[客気]]; see Semantic Range Notes.
+- <ruby>[拝](../words/拝.md)<rt>ㄅ⼶</rt></ruby>: to bow, kowtow.
+- <ruby>[鞠躬](../words/鞠躬.md)<rt>ㄍㄨㄎㄍㄨㄫ</rt></ruby>: to bow respectfully — a near-synonym of [[拝]].
 
 ### Games & Recreation
 
@@ -179,6 +227,13 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 - <ruby>[探索](../words/探索.md)<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby>: to explore.
 - <ruby>[添乗](../words/添乗.md)<rt>ㄊㄝㄇㄙㄨㄫ</rt></ruby>: to guide, escort, accompany — a narrow, tour-conductor-specific register, not a general "to guide"; see Semantic Range Notes.
+- <ruby>[乞](../words/乞.md)<rt>ㄎㄧㄊ</rt></ruby>: to beg.
+- <ruby>[乞丐](../words/乞丐.md)<rt>ㄎㄧㄊㄍㄚㄧ</rt></ruby>: a beggar.
+- <ruby>[医生](../words/医生.md)<rt>ㄜㄙㄚㄫ</rt></ruby>: a doctor, physician.
+- <ruby>[耳目](../words/耳目.md)<rt>ㄋㄧㄇㄨㄎ</rt></ruby>: eyes and ears; snoops, spies (figurative).
+- <ruby>[花魁](../words/花魁.md)<rt>ㄏ⺢ㄎㄛㄧ</rt></ruby>: an oiran, leading courtesan (historical Japanese role).
+- <ruby>[跆籍](../words/跆籍.md)<rt>ㄊㄛㄧㄐㄝㄎ</rt></ruby>: Taekwondo registration, martial arts membership record.
+- <ruby>[援交](../words/援交.md)<rt>ㄛㄋㄍ⼄ㄨ</rt></ruby>: school-girl prostitution (a Japanese-origin sociological term, short for 援助交際).
 
 ## Semantic Range Notes
 
@@ -211,6 +266,10 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 **圓融 vs. 圓滑 — same "round" image, opposite social judgment**: [[圓融]] traces to a real Buddhist philosophical term (Tendai/Huayan "perfect interfusion," each thing keeping its own place while harmonizing with everything else without obstruction) and reads as genuine tact — Rosenfelder's "tact." [[圓滑]] shares the same "round" image with 滑 ("slippery") instead of 融 ("blend, harmonize"), and in Mandarin specifically reads as a mild character flaw — slick, glib, self-servingly smooth — while Japanese/Korean use the cognate mainly of a smooth *process* rather than a person's character. Kept as two distinct entries rather than one, since the valence genuinely differs rather than just the register.
 
 **得体 diverges sharply in Japanese**: Mandarin détǐ and Korean 득체 both mean "fitting, appropriate, proper" — matching one's words or conduct to what a situation actually calls for. Japanese えたい, however, survives almost only in 得体の知れない, "of unknown/mysterious nature" — nearly the mirror image of the Chinese sense. Both kept, not silently merged.
+
+**民族 vs. 種族 vs. 族群 — three overlapping general words for "ethnic group," not duplicates**: [[民族]] is the standard, most political term (nation-as-ethnicity, as in 中華民族); [[種族]] leans toward "race" in the biological/classificatory sense; [[族群]] is the most neutral academic/sociological term (closest to English "ethnic group" as used in social science). The four specific ethnonyms ([[回族]], [[壮族]], [[満族]], [[漢族]]) are each built on 族 rather than either of the other two roots, matching the real convention for naming China's recognized ethnic groups.
+
+**医生 is a borderline domain fit, included for lack of a better home**: "doctor, physician" is fundamentally a Body/Medicine-domain word, not a Society one — kept here only because no dedicated medical-vocabulary lexipedia page exists yet to hold it.
 
 ## See Also
 
