@@ -7,19 +7,27 @@ language: English
 - cloak
 - cloth - <ruby>[布帛](../words/布帛.md)<rt>ㄅㄛㄅㄚㄎ</rt></ruby>
 - clothes - <ruby>[衣服](../words/衣服.md)<rt>ㄧㄜㄅㄨㄎ</rt></ruby>
+- clothing, clothes, garments (collective noun, e.g. on a laundry label or customs form) - <ruby>[衣類](../words/衣類.md)<rt>ㄧㄜㄌㄨㄧ</rt></ruby>
 - coat
 - dress (to dress up, adorn) - <ruby>[装](../words/装.md)<rt>ㄐ⺢ㄫ</rt></ruby> or <ruby>[扮](../words/扮.md)<rt>ㄈㄧㄋ</rt></ruby>
 - fashion
 - hat - <ruby>[帽子](../words/帽子.md)<rt>ㄇㄚㄨㄐㄜ</rt></ruby>
+- conical bamboo hat, straw hat - <ruby>[笠帽](../words/笠帽.md)<rt>ㄌㄧㄆㄇㄚㄨ</rt></ruby>
 - naked - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>
 - rag
 - robe
 - strip (undress) - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>
 - wear - <ruby>[着](../words/着.md)<rt>ㄐ⺢ㄎ</rt></ruby>, or <ruby>[戴](../words/戴.md)<rt>ㄊㄚㄧ</rt></ruby> (specifically to wear on top, e.g. a hat/crown)
+- wash clothes, do laundry - <ruby>[浣衣](../words/浣衣.md)<rt>ㄏ⺢ㄎㄧㄜ</rt></ruby>
 - wrap - <ruby>[包装](../words/包装.md)<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby>
+- put on make-up - <ruby>[化粧](../words/化粧.md)<rt>ㄏ⺢ㄐ⺢ㄫ</rt></ruby>
+- lipstick - <ruby>[口紅](../words/口紅.md)<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>
 
 - sleeve - <ruby>[袂](../words/袂.md)<rt>ㄇㄝ</rt></ruby> or <ruby>[袖](../words/袖.md)<rt>ㄙㄨㄛ</rt></ruby>
 - collar - <ruby>[衣襟](../words/衣襟.md)<rt>ㄧㄜㄍㄧㄇ</rt></ruby>
+- white-collar (office/professional worker) - <ruby>[白領](../words/白領.md)<rt>ㄅㄚㄎㄌㄧㄫ</rt></ruby>
+- blue-collar (manual laborer) - <ruby>[藍領](../words/藍領.md)<rt>ㄌㄚㄇㄌㄧㄫ</rt></ruby>
+- epaulet (shoulder decoration) - <ruby>[肩章](../words/肩章.md)<rt>ㄍㄝㄋㄐㄚㄫ</rt></ruby>
 - shirt
 - blouse
 - pants - <ruby>[袴](../words/袴.md)<rt>ㄎㄛ</rt></ruby>
@@ -31,11 +39,14 @@ language: English
 - poncho
 - loincloth
 - veil
+- yukata, light cotton kimono - <ruby>[浴衣](../words/浴衣.md)<rt>⼄ㄎ·ㄧㄜ</rt></ruby>
+- bra, brassiere - <ruby>[乳押](../words/乳押.md)<rt>ㄋㄨㄚㄆ</rt></ruby>
 
 - sew - <ruby>[縫製](../words/縫製.md)<rt>ㄅㄛㄫㄐㄝ</rt></ruby> or <ruby>[裁縫](../words/裁縫.md)<rt>ㄑㄚㄧㄅㄛㄫ</rt></ruby> (tailor)
 - spin (thread/yarn) - <ruby>[紡](../words/紡.md)<rt>ㄈㄚㄫ</rt></ruby> or <ruby>[絞捻](../words/絞捻.md)<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby> (twist, wring)
 - loom
 - weave - <ruby>[編織](../words/編織.md)<rt>ㄅ⼶ㄋㄐㄧㄎ</rt></ruby>
+- reel, bolt of cloth - <ruby>[繰](../words/繰.md)<rt>ㄐㄚㄨ</rt></ruby>
 - pin - <ruby>[針](../words/針.md)<rt>ㄐㄧㄇ</rt></ruby>
 - needle - <ruby>[針](../words/針.md)<rt>ㄐㄧㄇ</rt></ruby>
 - thread - <ruby>[糸線](../words/糸線.md)<rt>ㄙㄚㄙ⼶ㄋ</rt></ruby>
@@ -44,8 +55,11 @@ language: English
 - linen - <ruby>[亜麻布](../words/亜麻布.md)<rt>ㄚ·ㄇㄚㄅㄛ</rt></ruby> or <ruby>[麻布](../words/麻布.md)<rt>ㄇㄚㄅㄛ</rt></ruby> (linen or hemp cloth)
 - cotton - <ruby>[綿花](../words/綿花.md)<rt>ㄇ⼶ㄋㄏ⺢</rt></ruby>
 - silk - <ruby>[絹](../words/絹.md)<rt>ㄍ⼔ㄋ</rt></ruby>
+- brocade, tapestry - <ruby>[錦繍](../words/錦繍.md)<rt>ㄎㄛㄇㄙ⼜</rt></ruby>
+- ornate embroidered patterns (esp. the axe- and 亞-shaped Twelve Ornaments on an official's robe) - <ruby>[黼黻](../words/黼黻.md)<rt>ㄈㄨㄈㄨㄊ</rt></ruby>
 - lace
 - leather - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>
+- fur garment, leather clothing - <ruby>[皮衣](../words/皮衣.md)<rt>ㄅㄧ·ㄧㄜ</rt></ruby>
 - wool
 - velvet - <ruby>[天鵝絨](../words/天鵝絨.md)<rt>ㄊㄝㄋ·ㄚㄋㄨㄫ</rt></ruby>
 - hemp - <ruby>[大麻](../words/大麻.md)<rt>ㄉㄚㄧㄇㄚ</rt></ruby> (also "marijuana")

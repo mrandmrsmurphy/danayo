@@ -11,9 +11,10 @@ language: English
 
 ### Conjunctions
 - also
-- and
+- and, with (nominal conjunction, joining nouns/noun phrases) : <ruby>[与](../words/与.md)<rt>⼄</rt></ruby>
 - because
 - but : <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby>
+- but (classical/literary register) : <ruby>[乃](../words/乃.md)<rt>ㄋㄚㄧ</rt></ruby>
 - else
 - however
 - if
@@ -75,6 +76,8 @@ language: English
 	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>
 	- ego: <ruby>[自我](../words/自我.md)<rt>ㄐㄧㄜ·ㄚ</rt></ruby>
 - pronoun (general term) : <ruby>[代名詞](../words/代名詞.md)<rt>ㄉㄚㄧㄇㄧㄫㄙㄚ</rt></ruby>, <ruby>[代詞](../words/代詞.md)<rt>ㄉㄚㄧㄙㄚ</rt></ruby>
+- everyone : <ruby>[人人](../words/人人.md)<rt>ㄋㄧㄋㄋㄧㄋ</rt></ruby> — reduplicated 人 "person."
+- persons, et al. (formal/classical collective plural, "the persons concerned; of that class") : <ruby>[人等](../words/人等.md)<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> — same 等-suffix pattern as [[我等]]/[[君等]]/[[其人等]] above.
 
 ### Interrogatives
 - when : <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
@@ -123,6 +126,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[有生](../words/有生.md)<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
 - <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
+- <ruby>[中](../words/中.md)<rt>ㄐㄨㄫ</rt></ruby> "-ing (progressive aspect marker, postfixed to a verb)"
 - <ruby>[人称](../words/人称.md)<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
 
 ## Function Words
@@ -135,6 +139,10 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
+- <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
+- <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
+- <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
+- <ruby>[也](../words/也.md)<rt>⼘</rt></ruby> "as for; EMPHASIS (topic marker / assertive sentence-final particle, classical register)"
 
 ## Words about Grammar
 - <ruby>[品詞](../words/品詞.md)<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
@@ -145,6 +153,8 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - adjective, stative word : <ruby>[性詞](../words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby>
 - interjection : <ruby>[感嘆詞](../words/感嘆詞.md)<rt>ㄍㄚㄇㄊㄚㄋㄙㄚ</rt></ruby>
 - quantifier : <ruby>[量化詞](../words/量化詞.md)<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby>
+- measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>
+- eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - gender
 - case

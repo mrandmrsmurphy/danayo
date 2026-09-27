@@ -110,6 +110,7 @@ language: English
 - stomach (belly, abdomen) - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>
 - stomach (organ) - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>
 - stomach acid - <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>
+- stomach cancer - <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>
 - sweat - <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>
 - tear - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>
 - liver - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>

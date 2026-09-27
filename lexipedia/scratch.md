@@ -6,11 +6,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2367
+- **Unsorted**: 2368
 - **Astronomy**: 131
-- **Body**: 1
 - **Calendar**: 116
-- **Clothing**: 16
 - **Conflict**: 95
 - **Containers**: 57
 - **Dimensions**: 94
@@ -22,7 +20,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Food**: 118
 - **Geography**: 240
 - **Government**: 124
-- **Grammar**: 11
 - **Life**: 26
 - **Light**: 33
 - **Locatives**: 15
@@ -50,6 +47,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 ## Unsorted (2367)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
+- [[回転]] — turn, spin, rotate, revolve (mechanical rotation; not a Clothing match — moved out of the Clothing bucket 2026-09-27)
+- [[磨耗]] — wear, abrasion (material/engineering degradation, not "to wear clothing" — moved out of the Clothing bucket 2026-09-27)
 - [[一端]] — one aspect, competent
 - [[人道]] — humane, path
 - [[仁慈]] — humane, merciful, kind
@@ -1238,7 +1237,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[花粉]] — pollen
 - [[芸妓]] — geisha
 - [[苔]] — moss, lichen
-- [[苗族]] — hmong
 - [[苛刻]] — harsh, demanding
 - [[若]] — if, supposing that
 - [[苦悩]] — anguish, torment, inner suffering
@@ -2557,9 +2555,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[需要]] — need, require
 - [[韓江]] — han river
 
-## Body (1)
-- [[胃癌]] — stomach cancer
-
 ## Calendar (116)
 - [[一半]] — one half
 - [[万乗]] — ten thousand chariots, imperial power
@@ -2676,24 +2671,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Clothing (16)
-- [[乳押]] — bra, brassiere
-- [[化粧]] — put on make-up
-- [[口紅]] — lipstick
-- [[回転]] — turn, spin, rotate, revolve
-- [[浣衣]] — wash clothes, do laundry
-- [[浴衣]] — yukata, light cotton kimono
-- [[白領]] — white-collar
-- [[皮衣]] — fur garment, leather clothing
-- [[磨耗]] — wear, abrasion
-- [[笠帽]] — conical bamboo hat, straw hat
-- [[繰]] — reel, bolt of cloth
-- [[肩章]] — epaulet (shoulder decoration)
-- [[藍領]] — blue-collar
-- [[衣類]] — clothing, clothes, garments
-- [[錦繍]] — brocade, tapestry
-- [[黼黻]] — ornate embroidered patterns
 
 ## Conflict (95)
 
@@ -3739,19 +3716,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[頒布]] — promulgate, issue officially, publish (a decree)
 - [[首領]] — supreme leader, chief
 - [[験]] — check, examine
-
-## Grammar (11)
-- [[与]] — and, with
-- [[中]] — -ing
-- [[乃]] — but
-- [[之]] — of
-- [[乎]] — did, do
-- [[也]] — as for, emphasis
-- [[事詞]] — eventive
-- [[于]] — to
-- [[人人]] — everyone
-- [[人等]] — persons, et al.
-- [[量詞]] — measure word, classifier, counter
 
 ## Life (26)
 
