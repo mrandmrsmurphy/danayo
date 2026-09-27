@@ -40,6 +40,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[闘争](../words/闘争.md)<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby>, <ruby>[奮闘](../words/奮闘.md)<rt>ㄈㄨㄋㄉㄛㄨ</rt></ruby>: to struggle, strive.
 - <ruby>[刺激](../words/刺激.md)<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby>: to provoke, irritate.
 - <ruby>[調解](../words/調解.md)<rt>ㄐㄨㄛㄍ⼘ㄧ</rt></ruby>: to mediate, settle a dispute.
+- <ruby>[抗議](../words/抗議.md)<rt>ㄏㄚㄫㄜㄧ</rt></ruby>: to protest, object.
 
 ### Weapons
 
@@ -92,10 +93,21 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[暴徒](../words/暴徒.md)<rt>ㄅㄛㄎㄉㄛ</rt></ruby>: a mob, riot.
 - <ruby>[嚇](../words/嚇.md)<rt>ㄏㄚㄎ</rt></ruby>: to scare, frighten.
 
+### Threats & Coercion
+
+- <ruby>[威脅](../words/威脅.md)<rt>ㄛㄧㄏㄝㄆ</rt></ruby>: to threaten; a threat. See Semantic Range Notes.
+- <ruby>[脅迫](../words/脅迫.md)<rt>ㄏㄝㄆㄅㄚㄎ</rt></ruby>: to force, coerce, intimidate. See Semantic Range Notes.
+
+### Insult & Humiliation
+
+- <ruby>[侮辱](../words/侮辱.md)<rt>ㄇㄨㄋㄛㄎ</rt></ruby>: to insult, humiliate, embarrass. See Semantic Range Notes.
+- <ruby>[屈辱](../words/屈辱.md)<rt>ㄎㄨㄊㄋㄛㄎ</rt></ruby>: humiliation, to demean. See Semantic Range Notes.
+
 ### Rebellion & Upheaval
 
 - <ruby>[反乱](../words/反乱.md)<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
 - <ruby>[革命](../words/革命.md)<rt>ㄎㄧㄎㄇ⼶ㄫ</rt></ruby>: to revolt against, incite revolution, rebel against.
+- <ruby>[解放](../words/解放.md)<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby>: to liberate, set free.
 
 ### Peace & Comfort
 
@@ -117,6 +129,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[防護](../words/防護.md)<rt>ㄅㄚㄫㄏㄛ</rt></ruby>: to guard against, prevent.
 - <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚㄆㄝ</rt></ruby>: to cover, protect.
 - <ruby>[金庫](../words/金庫.md)<rt>ㄍㄧㄇㄎㄛ</rt></ruby>: a safe, strongbox (the physical object — not the adjective [[安全]]).
+- <ruby>[救助](../words/救助.md)<rt>ㄍ⼜ㄐㄛ</rt></ruby>: to rescue, to save.
 
 ### Accusation & Criticism
 
@@ -148,7 +161,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: to free/freedom, to protest, to save (rescue), to suspect, a threat, a trap, to insult, rash, to embarrass, to argue, to bother, to defeat (an enemy), to oppose.
+Rosenfelder terms with no Dan'a'yo word yet: to suspect, a trap, rash, to argue, to bother, to defeat (an enemy), to oppose.
 
 ## Advanced / Specialized (C1+)
 
@@ -167,6 +180,12 @@ Rosenfelder terms with no Dan'a'yo word yet: to free/freedom, to protest, to sav
 **安慰 vs. 慰安 — the same two morphemes, reversed**: [[安慰]] ("peaceful" + "comfort") and [[慰安]] ("comfort" + "peaceful") are near-synonymous reverse-order siblings, the same pattern seen elsewhere in this vault (紹介/介紹). One caution: 慰安 is also the root of 慰安婦 ("comfort women"), the euphemism for the WWII Japanese military's forced-prostitution victims — a real historical weight worth knowing even though 慰安 alone, unmodified, is simply "to comfort, console."
 
 **勝利 covers both "victory" and "triumph"**: Rosenfelder treats these as separate entries, but Dan'a'yo does not distinguish them — one word serves both senses, not a gap.
+
+**威脅 vs. 脅迫 — threatening someone vs. forcing them**: [[威脅]] is the act of threatening itself, and doubles as the noun "a threat" — the more common form in both Mandarin and Korean specifically for the verb. [[脅迫]] is a step further: not just the threat but using it (or other pressure) to force or coerce someone into an action, especially in legal/criminal registers.
+
+**威脅 vs. 脅威 — reverse-order siblings, both real**: [[威脅]] (on this page) and [[脅威]] (not yet linked to any domain page) share the same two morphemes in opposite order — the same pattern as [[安慰]]/[[慰安]]. 脅威 leans toward the noun "a threat, a danger" in the abstract; 威脅 is more often the verb "to threaten," which is why it's the form used here.
+
+**侮辱 vs. 屈辱 vs. 恥辱 — insult, humiliation-through-defeat, and disgrace**: [[侮辱]] is an act one person does to another — to insult, to humiliate on purpose. [[屈辱]] names the humiliation itself, especially one bound up with submission or defeat (屈, "to bend"). [[恥辱]] (see [[Society]]) is broader still: disgrace or shame as a state, not necessarily inflicted by anyone in particular.
 
 ## See Also
 

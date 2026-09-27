@@ -8,7 +8,7 @@ See [[AIOS/checklists/checklist_lexipedia|the lexipedia checklist]] for the stan
 
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]
-* [Astronomy](lexipedia/Astronomy.md)
+* [[lexipedia/Astronomy.md]]
 * [[lexipedia/Body]]
 * [[lexipedia/Buildings]]
 * [[lexipedia/Clothing]]
