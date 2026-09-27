@@ -1,79 +1,181 @@
-- agree
-- alien
-- alone
-- barbarian
-- civilize
-- colony
-- community
-- company
-- confident
-- crowd
-- dwell
-- explore
-- faction
-- favor
-- gentle
-- group
-- join
-- native
-- neighbor
-- party
-- patient
-- people
-- populate
-- public
-- reside
-- settle
-- society
-- stranger
-- together
-- unit
+---
+language: English
+type: lexipedia
+domain: Society
+related_domains:
+  - "[[Kinship]]"
+  - "[[Love]]"
+status: partial
+---
 
-league, gang, tribe, organization, solitary
+# Society
 
-foreign, newcomer, immigrant, refugee
+Society vocabulary names the groups people belong to above the level of the family — communities, tribes, factions, and the public at large — along with the civic and personal qualities (trust, patience, benevolence) that hold a society together, and its opposite (strangers, barbarians, exile). Distinct from [[Kinship]] (blood/marriage ties) and [[Love]] (romantic/affectionate ties), though several words here border both.
 
-appreciate, mercy, benevolent
+## Core Vocabulary (A1–A2)
 
-## Relationships
-- accord
-- admire
-- agree
-- assit
-- contact
-- convince
-- glory
-- guide
-- help
-- honor
-- impress
-- invite
-- meet
-- propose
-- respect
-- shame
-- support
-- trust
+- <ruby>[社会](../words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>: society.
+- <ruby>[人民](../words/人民.md)<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby>: people, public, citizen.
+- <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
+- <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
+- <ruby>[同意](../words/同意.md)<rt>ㄉㄛㄫㄜ</rt></ruby>: to agree, consent.
+- <ruby>[群衆](../words/群衆.md)<rt>ㄍㄨㄋㄐㄨㄫ</rt></ruby>: crowd, masses.
+- <ruby>[一処](../words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby>: together, in one place.
+- <ruby>[公共](../words/公共.md)<rt>ㄍㄛㄫㄍ⼄ㄫ</rt></ruby>: public, communal.
+- <ruby>[会](../words/会.md)<rt>ㄏ⼔</rt></ruby>: to meet, gather.
+- <ruby>[有名](../words/有名.md)<rt>⼜ㄇㄧㄫ</rt></ruby>: famous.
+- <ruby>[利益](../words/利益.md)<rt>ㄌㄧㄜㄝㄎ</rt></ruby>: benefit, advantage.
 
-host, guest, introduce
-benefit, advantage, worldly, cynical
-inspire, praise, merit, famous, reputation
+## Intermediate (B1–B2)
 
-## Customs
-- custom
-- greet
-- manners
-- please
-- polite
-- proper
-- thank
-- welcome
+### Groups & Organization
 
-courtesy, tact, chivalry, faux pas, vulgar, rude, routine
+- <ruby>[共同体](../words/共同体.md)<rt>ㄍ⼄ㄫㄉㄛㄫㄊㄝㄧ</rt></ruby>: community.
+- <ruby>[集団](../words/集団.md)<rt>ㄐㄧㄆㄉ⺢ㄋ</rt></ruby>: group, gang, collective.
+- <ruby>[部族](../words/部族.md)<rt>ㄅㄛㄨㄐㄛㄎ</rt></ruby>: tribe, clan.
+- <ruby>[宗派](../words/宗派.md)<rt>ㄐㄛㄫㄆㄚㄧ</rt></ruby>: faction, sect.
+- <ruby>[協会](../words/協会.md)<rt>ㄏㄝㄆㄏ⼔</rt></ruby>: association, league.
+- <ruby>[系統](../words/系統.md)<rt>ㄏㄝㄧㄊㄛㄫ</rt></ruby>: system, organization.
+- <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit.
+- <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to join, participate.
 
-## Games
-- game
-- play
-- race
+### Migration & Belonging
 
-sport, score, toy, doll, puppet, athletic, prize, card, maze, bet, compete
+- <ruby>[植民地](../words/植民地.md)<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby>: a colony. See Semantic Range Notes.
+- <ruby>[定居](../words/定居.md)<rt>ㄐㄝㄫㄍㄧ</rt></ruby>: to settle down, to settle new land.
+- <ruby>[移住](../words/移住.md)<rt>⼶ㄧㄐㄨ</rt></ruby>: to immigrate, migrate.
+- <ruby>[移住者](../words/移住者.md)<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby>: an immigrant, migrant.
+- <ruby>[難民](../words/難民.md)<rt>ㄋㄚㄋㄇㄧㄋ</rt></ruby>: a refugee.
+- <ruby>[外人](../words/外人.md)<rt>⺢ㄧㄋㄧㄋ</rt></ruby>: a stranger, outsider.
+- <ruby>[外来](../words/外来.md)<rt>⺢ㄧㄌㄚㄧ</rt></ruby>: foreign.
+- <ruby>[居住](../words/居住.md)<rt>ㄍㄧㄐㄨ</rt></ruby>: to reside, dwell.
+
+### Character & Civic Virtue
+
+- <ruby>[確信](../words/確信.md)<rt>ㄎㄚㄎㄙㄧㄋ</rt></ruby>: confident, convinced. See Semantic Range Notes.
+- <ruby>[忍耐](../words/忍耐.md)<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby>: patient, patience.
+- <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
+- <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
+- <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
+- <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
+- <ruby>[教化](../words/教化.md)<rt>ㄍ⼘ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
+
+### Trust, Respect & Esteem
+
+- <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>: to trust, believe, rely on.
+- <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
+- <ruby>[欽敬](../words/欽敬.md)<rt>ㄎㄨㄇㄍ⼶ㄫ</rt></ruby>: to admire, respect.
+- <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust (someone with something).
+
+### Praise & Admiration
+
+- <ruby>[賛美](../words/賛美.md)<rt>ㄐㄚㄋㄇㄧ</rt></ruby>: to praise, admire, extol.
+- <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
+- <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
+- <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
+
+### Assistance & Support
+
+- <ruby>[幇助](../words/幇助.md)<rt>ㄅㄚㄫㄐㄛ</rt></ruby>: to help, assist.
+- <ruby>[援助](../words/援助.md)<rt>ㄛㄋㄐㄛ</rt></ruby>: to aid, assist.
+- <ruby>[佐理](../words/佐理.md)<rt>ㄐㄚㄌㄧ</rt></ruby>: to assist.
+- <ruby>[補助](../words/補助.md)<rt>ㄅㄛㄐㄛ</rt></ruby>: assistance, aid, auxiliary.
+- <ruby>[賛助](../words/賛助.md)<rt>ㄐㄚㄋㄐㄛ</rt></ruby>: to support, sponsor.
+- <ruby>[援護](../words/援護.md)<rt>ㄛㄋㄏㄛ</rt></ruby>: support, backing (especially for veterans).
+- <ruby>[羽翼](../words/羽翼.md)<rt>ㄨㄧㄎ</rt></ruby>: assistance (literally "wing").
+
+### Hosting, Meeting & Invitation
+
+- <ruby>[主人](../words/主人.md)<rt>ㄐㄨㄋㄧㄋ</rt></ruby>: host, owner, master, proprietor.
+- <ruby>[来賓](../words/来賓.md)<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby>: guest, visitor (at an event).
+- <ruby>[遇](../words/遇.md)<rt>ㄨ</rt></ruby>: to meet, encounter, come across.
+- <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, invite, request, please.
+- <ruby>[喚](../words/喚.md)<rt>ㄏ⺢ㄋ</rt></ruby>: to summon, invite.
+- <ruby>[帖](../words/帖.md)<rt>ㄊㄛㄆ</rt></ruby>: an invitation, a card.
+- <ruby>[柬](../words/柬.md)<rt>ㄍ⼘ㄋ</rt></ruby>: a letter, an invitation.
+- <ruby>[介紹](../words/介紹.md)<rt>ㄍ⼶ㄙ⼄ㄨ</rt></ruby>: to introduce.
+
+### Honor, Fame & Reputation
+
+- <ruby>[名誉](../words/名誉.md)<rt>ㄇㄧㄫ⼄</rt></ruby>: honor, reputation.
+- <ruby>[勲](../words/勲.md)<rt>ㄏㄨㄋ</rt></ruby>: a meritorious deed, merit.
+- <ruby>[令聞](../words/令聞.md)<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby>: a good name, reputation (literary register).
+- <ruby>[光栄](../words/光栄.md)<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby>: honorable, glorious.
+- <ruby>[栄辱](../words/栄辱.md)<rt>ㄨㄧㄫㄋㄛㄎ</rt></ruby>: honor and disgrace — reputation, for better or worse.
+
+### Shame & Disgrace
+
+- <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧㄋㄛㄎ</rt></ruby>: disgrace, shame.
+- <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
+- <ruby>[羞恥](../words/羞恥.md)<rt>ㄙㄨㄛㄑㄧ</rt></ruby>: shame.
+
+### Agreement & Proposal
+
+- <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an accord, agreement, pact.
+- <ruby>[提案](../words/提案.md)<rt>ㄙㄝ·ㄚㄋ</rt></ruby>: to propose, suggest.
+- <ruby>[接触](../words/接触.md)<rt>ㄐㄛㄆㄑㄛㄎ</rt></ruby>: contact, touch.
+- <ruby>[接](../words/接.md)<rt>ㄐㄛㄆ</rt></ruby>: to contact, connect.
+
+### Custom & Courtesy
+
+- <ruby>[習俗](../words/習俗.md)<rt>ㄙㄜㄆㄙㄛㄎ</rt></ruby>: custom, mores, convention.
+- <ruby>[恒例](../words/恒例.md)<rt>ㄏㄨㄫㄌㄝ</rt></ruby>: an established practice, custom.
+- <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
+- <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
+- <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
+- <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome.
+- <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, pleased. See Semantic Range Notes.
+- <ruby>[俗](../words/俗.md)<rt>ㄙㄛㄎ</rt></ruby>: vulgar.
+- <ruby>[失礼](../words/失礼.md)<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby>: rude, impolite.
+- <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: everyday, routine, ordinary.
+- <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
+
+### Games & Recreation
+
+- <ruby>[遊戯](../words/遊戯.md)<rt>⼜ㄛㄏㄨㄧ</rt></ruby>: a game.
+- <ruby>[嬉遊](../words/嬉遊.md)<rt>ㄏㄧ⼜ㄛ</rt></ruby>: to play, frolic, enjoy oneself.
+- <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race.
+- <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: sport, exercise, movement.
+- <ruby>[得点](../words/得点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a score.
+- <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
+- <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.
+- <ruby>[傀儡](../words/傀儡.md)<rt>ㄎㄛㄧㄌㄛㄧ</rt></ruby>: a puppet.
+- <ruby>[木偶](../words/木偶.md)<rt>ㄇㄛㄎㄛㄨ</rt></ruby>: a puppet, marionette (the physical object specifically).
+- <ruby>[運動家](../words/運動家.md)<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>: an athlete. See Semantic Range Notes.
+- <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to award, confer, grant. See Semantic Range Notes.
+- <ruby>[牌](../words/牌.md)<rt>ㄅㄚㄧ</rt></ruby>: a playing card, tile.
+- <ruby>[賭博](../words/賭博.md)<rt>ㄉㄛㄅㄚㄎ</rt></ruby>: to gamble, bet.
+- <ruby>[競争](../words/競争.md)<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>: to compete.
+- <ruby>[角逐](../words/角逐.md)<rt>ㄍㄛㄎㄉㄨㄎ</rt></ruby>: to compete, contend for (more formal register).
+
+## Advanced / Specialized (C1+)
+
+- <ruby>[探索](../words/探索.md)<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby>: to explore.
+- <ruby>[添乗](../words/添乗.md)<rt>ㄊㄝㄇㄙㄨㄫ</rt></ruby>: to guide, escort, accompany — a narrow, tour-conductor-specific register, not a general "to guide"; see Semantic Range Notes.
+
+## Semantic Range Notes
+
+**植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
+
+**確信 is the closest word to "confident," not a perfect match**: it means being convinced or certain of a fact — a settled inner conviction — rather than a general sociable self-assurance in company. No word for that narrower personality-trait sense exists yet; flagged as a gap, not silently equated.
+
+**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses); "impress" (no word for making a strong positive impression on someone); "worldly," "cynical," and "inspire" (no vault words at all).
+
+**添乗 is the closest match for "guide," but only in one narrow sense**: it specifically means to escort or conduct a tour group (a tour guide/conductor), not "to guide" in general (show someone the way, direct someone's actions). No general-purpose "to guide" word exists yet.
+
+**"Glory" has no exact noun match**: [[光栄]] covers the adjective "glorious, honorable" well, but Dan'a'yo has no dedicated abstract noun "glory" distinct from [[名誉]]'s own "honor, reputation."
+
+**客気 is a genuine trap, not used for "polite" here**: it means "polite, reserved" in Mandarin/Cantonese/Vietnamese but "reckless bravado, impetuosity" in Japanese/Korean — the same two characters landing on near-opposite senses depending on the language. Given that split, it's deliberately not listed as this domain's word for "polite" (which remains a genuine gap) — using it would silently favor one language's sense over another's contradictory one.
+
+**武侠 is genre vocabulary as much as a virtue word**: in living usage it names the wuxia genre of martial-heroic fiction/film at least as often as it names the abstract quality "chivalry" itself. Listed here for lack of a more general word, with the caveat stated rather than hidden.
+
+**A few Games-section entries are the closest available word, not an exact part-of-speech match**: [[歓喜]] means "happy, pleased" (adjective) rather than "to please" (transitive verb, to make someone happy); [[運動家]] means "an athlete" (noun) rather than "athletic" (adjective); [[授与]] means "to award, confer" (verb) rather than "a prize" (the noun object itself). Each is the nearest existing vocabulary, not a perfect gloss.
+
+**Genuine gaps in Customs and Games, not yet resolved**: "greet," "tact," "faux pas," and "maze" — no vault words at all for any of these.
+
+## See Also
+
+**Related domains**:
+- [[Kinship]] — family-bond vocabulary lives there; this page covers group belonging beyond the family.
+- [[Love]] — romantic/affectionate vocabulary lives there; [[外人]]'s "stranger, outsider" sense and [[愛人]]'s cross-linguistic ambiguity both touch questions of who counts as "one of us."

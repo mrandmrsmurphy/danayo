@@ -35,7 +35,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Plants**: 32
 - **Religion**: 42
 - **Sensation**: 16
-- **Sex**: 13
+- **Reproduction**: 13
 - **Shape**: 16
 - **Sin**: 22
 - **Society**: 43
@@ -1734,7 +1734,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[交互]] — in turn, mutually, each other
 - [[交叉]] — intersect, cross, overlap
 - [[交接]] — link, join, connect, have intercourse
-- [[交溝]] — have sex, copulate
+- [[交溝]] — have intercourse, copulate
 - [[交遊]] — make friendship, form companionship
 - [[交際]] — socialize, hang out
 - [[人事]] — human affairs, ways of the world, facts of life
@@ -1983,7 +1983,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[従業]] — employment, being engaged in work
 - [[復活]] — revive, bring back to life
 - [[急速]] — rapid, swift, fast-moving
-- [[性交]] — have sex, copulate
+- [[性交]] — have intercourse, copulate
 - [[性質]] — nature, character, disposition
 - [[怪異]] — strange, bizarre, uncanny
 - [[恒例]] — establish practice, custom
@@ -4088,14 +4088,14 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[視]] — look at, inspect
 - [[麻痺]] — numb, paralyzed, paralysis
 
-## Sex (13)
+## Reproduction (13)
 
 - [[伴侶]] — companion, partner, mate
 - [[女人]] — woman, female
 - [[女性]] — female, feminine (gender)
 - [[妊]] — be pregnant, conceive
 - [[妊娠]] — pregnancy
-- [[性別]] — sex, gender
+- [[性別]] — gender
 - [[懐孕]] — pregnant, be pregnant
 - [[男人]] — man, male
 - [[男性]] — male, masculine gender
