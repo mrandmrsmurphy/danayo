@@ -62,3 +62,4 @@ boundedness: 65
 - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby> "refrigerator; freezer"
 - <ruby>[[冷麺]]<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby> "cold noodles"
 - <ruby>[[寒冷]]<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> "cold; freezing"
+- <ruby>[[冷笑]]<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby> "to sneer, to laugh coldly"

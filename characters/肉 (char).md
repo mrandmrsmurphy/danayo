@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[狗肉]]<rt>ㄍㄛㄨㄋㄨㄎ</rt></ruby> "dog meat (insult)"
 - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby> "muscles"
 - <ruby>[[豚肉]]<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby> "pork"
+- <ruby>[[皮肉]]<rt>ㄅㄧㄋㄨㄎ</rt></ruby> "irony, sarcasm, shallow criticism"
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"

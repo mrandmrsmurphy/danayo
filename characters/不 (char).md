@@ -93,6 +93,7 @@ boundedness: 50
 - <ruby>[不打不成器](/chengyu/不打不成器.md)<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby> "spare the rod, spoil the child"
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy"
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
+- <ruby>[[玩世不恭]]<rt>⺢ㄋㄙㄝㄅㄛㄊㄍ⼄ㄫ</rt></ruby> "cynical, treating life with irreverent disdain"
 
 ## Derived Characters
 - <ruby>[[杯 (char)|杯]]<rt>ㄅㄛㄧ</rt></ruby> "cup; cupful"

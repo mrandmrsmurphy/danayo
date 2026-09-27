@@ -109,6 +109,14 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧㄋㄛㄎ</rt></ruby>: disgrace, shame.
 - <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
 - <ruby>[羞恥](../words/羞恥.md)<rt>ㄙㄨㄛㄑㄧ</rt></ruby>: shame.
+- <ruby>[過失](../words/過失.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: a fault, error, slip, mistake, act of negligence — Rosenfelder's "faux pas."
+
+### Cynicism & Irony
+
+Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the Cynic school) with no single native CJKV equivalent — approximated here with three related but distinct real words rather than one. See Semantic Range Notes.
+
+- <ruby>[冷笑](../words/冷笑.md)<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby>: to sneer, to laugh coldly — the action itself.
+- <ruby>[皮肉](../words/皮肉.md)<rt>ㄅㄧㄋㄨㄎ</rt></ruby>: irony, sarcasm, shallow criticism — the mode of speech. The worldview itself is named by the chengyu [[玩世不恭]] — see Idiomatic uses below.
 
 ### Agreement & Proposal
 
@@ -124,7 +132,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
-- <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome.
+- <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
+- <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.
 - <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, pleased. See Semantic Range Notes.
 - <ruby>[俗](../words/俗.md)<rt>ㄙㄛㄎ</rt></ruby>: vulgar.
 - <ruby>[失礼](../words/失礼.md)<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby>: rude, impolite.
@@ -149,6 +158,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賭博](../words/賭博.md)<rt>ㄉㄛㄅㄚㄎ</rt></ruby>: to gamble, bet.
 - <ruby>[競争](../words/競争.md)<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>: to compete.
 - <ruby>[角逐](../words/角逐.md)<rt>ㄍㄛㄎㄉㄨㄎ</rt></ruby>: to compete, contend for (more formal register).
+- <ruby>[迷宮](../words/迷宮.md)<rt>ㄇㄝㄧㄍㄨㄫ</rt></ruby>: a maze, labyrinth — Rosenfelder's "maze."
+- <ruby>[迷路](../words/迷路.md)<rt>ㄇㄝㄧㄌㄛ</rt></ruby>: to get lost, to lose one's way (Mandarin) / a maze with a findable exit (Japanese/Korean) — see Semantic Range Notes.
 
 ## Advanced / Specialized (C1+)
 
@@ -159,7 +170,9 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
 
-**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses); "impress" (no word for making a strong positive impression on someone); "worldly," "cynical," and "inspire" (no vault words at all).
+**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses); "impress" (no word for making a strong positive impression on someone); "worldly" and "inspire" (no vault words at all).
+
+**"Cynical" needed three words, not one**: it's a distinctly Greek philosophical development (from the Cynic school) with no single CJKV equivalent. Dan'a'yo approximates it with a cluster instead: [[冷笑]] names the sneering laugh itself, [[皮肉]] (traced to the Buddhist teaching expression 皮肉骨髄, "skin, flesh, bones, marrow" — 皮肉 originally meant the shallow, surface layer) names the ironic or shallowly critical mode of speech, and the chengyu [[玩世不恭]] names the broader worldview — an irreverent, unserious disengagement from life adopted out of disappointment with reality. No single word does all three jobs at once, and none was force-merged to pretend otherwise.
 
 **添乗 is the closest match for "guide," but only in one narrow sense**: it specifically means to escort or conduct a tour group (a tour guide/conductor), not "to guide" in general (show someone the way, direct someone's actions). No general-purpose "to guide" word exists yet.
 
@@ -171,10 +184,15 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 **A few Games-section entries are the closest available word, not an exact part-of-speech match**: [[歓喜]] means "happy, pleased" (adjective) rather than "to please" (transitive verb, to make someone happy); [[運動家]] means "an athlete" (noun) rather than "athletic" (adjective); [[授与]] means "to award, confer" (verb) rather than "a prize" (the noun object itself). Each is the nearest existing vocabulary, not a perfect gloss.
 
-**Genuine gaps in Customs and Games, not yet resolved**: "greet," "tact," "faux pas," and "maze" — no vault words at all for any of these.
+**迷宮 vs. 迷路 — a real noun/verb split, not a duplicate**: [[迷宮]] is the dedicated noun for a maze/labyrinth where the exit is genuinely hard to find (also the source of 迷宮入り, "to go cold, unsolved"). [[迷路]] is trickier: in Mandarin it's overwhelmingly a common verb, "to get lost" (我迷路了), while Japanese and Korean use the same characters as a noun for a maze that always has a findable exit (a garden/amusement-park maze) — a genuine cross-linguistic part-of-speech divergence kept on one entry rather than split into two.
+
+**Genuine gap, not yet resolved**: "tact" — no vault word at all.
 
 ## See Also
 
 **Related domains**:
 - [[Kinship]] — family-bond vocabulary lives there; this page covers group belonging beyond the family.
 - [[Love]] — romantic/affectionate vocabulary lives there; [[外人]]'s "stranger, outsider" sense and [[愛人]]'s cross-linguistic ambiguity both touch questions of who counts as "one of us."
+
+**Idiomatic uses**:
+- [[玩世不恭]] — "toying with the world, irreverent," a cynical, unserious attitude toward life adopted out of dissatisfaction with reality.

@@ -55,6 +55,8 @@ boundedness: 90
 
 ## Words
 - <ruby>[[迷]]<rt>ㄇㄝㄧ</rt></ruby> "be lost, be confused" (stand-in for 迷)
+- <ruby>[[迷宮]]<rt>ㄇㄝㄧㄍㄨㄫ</rt></ruby> "maze, labyrinth"
+- <ruby>[[迷路]]<rt>ㄇㄝㄧㄌㄛ</rt></ruby> "to get lost (Mandarin); a maze (Japanese/Korean)"
 
 ## Derived Characters
 - <ruby>[[謎 (char)|謎]]<rt>ㄇㄝㄧ</rt></ruby> "riddle, mystery, enigma"

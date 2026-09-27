@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[接辞]]<rt>ㄐㄛㄆㄑㄧ</rt></ruby> "affix (grammar)"
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby> "tangent"
 - <ruby>[[余接]]<rt>⼄ㄐㄛㄆ</rt></ruby> "cotangent"
+- <ruby>[[迎接]]<rt>⼶ㄫㄐㄛㄆ</rt></ruby> "to greet, welcome, receive, meet"

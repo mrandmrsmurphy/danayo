@@ -61,3 +61,4 @@ boundedness: 90
 - <ruby>[[過量]]<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby> "to overdose on"
 - <ruby>[[不過]]<rt>ㄅㄛㄊㄍ⺢</rt></ruby> "only, just, merely"
 - <ruby>[[通過]]<rt>ㄊㄛㄫㄍ⺢</rt></ruby> "pass"
+- <ruby>[[過失]]<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby> "fault, error, negligence"
