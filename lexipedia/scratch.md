@@ -3143,7 +3143,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[悲痛]] — grieved, sorrowful
 - [[悼]] — lament
 - [[情態]] — mood
-- [[情欲]] — lust, sexual desire
+- [[情欲]] — lust, intimate desire
 - [[惨]] — wretched, cruel
 - [[愉快]] — happy, pleasant, enjoyable
 - [[意欲]] — motivation, desire, ambition

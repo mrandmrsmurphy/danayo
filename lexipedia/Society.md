@@ -52,7 +52,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 ### Character & Civic Virtue
 
-- <ruby>[確信](../words/確信.md)<rt>ㄎㄚㄎㄙㄧㄋ</rt></ruby>: confident, convinced. See Semantic Range Notes.
+- <ruby>[確信](../words/確信.md)<rt>ㄎㄚㄎㄙㄧㄋ</rt></ruby>: confident, convinced.
 - <ruby>[忍耐](../words/忍耐.md)<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby>: patient, patience.
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
@@ -157,8 +157,6 @@ Society vocabulary names the groups people belong to above the level of the fami
 ## Semantic Range Notes
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
-
-**確信 is the closest word to "confident," not a perfect match**: it means being convinced or certain of a fact — a settled inner conviction — rather than a general sociable self-assurance in company. No word for that narrower personality-trait sense exists yet; flagged as a gap, not silently equated.
 
 **Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses); "impress" (no word for making a strong positive impression on someone); "worldly," "cynical," and "inspire" (no vault words at all).
 
