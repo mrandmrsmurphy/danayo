@@ -5,6 +5,7 @@ domain: Knowledge
 related_domains:
   - "[[Grammar]]"
   - "[[Existence]]"
+  - "[[Art]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---
@@ -185,6 +186,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 **Related domains**:
 - [[Grammar]] — see 数詞 (numeral part of speech) and the closed pronoun paradigms this domain's own reasoning/description vocabulary presupposes.
 - [[Existence]] — general states-of-being vocabulary bordering this domain's own certainty/reality cluster (真実, 実際).
+- [[Art]] — the Five Classics ([[礼記]]/[[易経]]/[[書経]]/[[楽経]]/[[詩経]]) live on that page; [[経]] above covers the shared "classic text" root they're built on.
 
 **Idiomatic uses**:
 - [[一目瞭然]] — "clear at a single glance," built on [[瞭然]] above.
