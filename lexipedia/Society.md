@@ -45,6 +45,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[定居](../words/定居.md)<rt>ㄐㄝㄫㄍㄧ</rt></ruby>: to settle down, to settle new land.
 - <ruby>[移住](../words/移住.md)<rt>⼶ㄧㄐㄨ</rt></ruby>: to immigrate, migrate.
 - <ruby>[移住者](../words/移住者.md)<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby>: an immigrant, migrant.
+- <ruby>[新人](../words/新人.md)<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby>: a newcomer, rookie, new face — Rosenfelder's "newcomer," distinct from [[移住者]]'s migration-specific sense.
 - <ruby>[難民](../words/難民.md)<rt>ㄋㄚㄋㄇㄧㄋ</rt></ruby>: a refugee.
 - <ruby>[外人](../words/外人.md)<rt>⺢ㄧㄋㄧㄋ</rt></ruby>: a stranger, outsider.
 - <ruby>[外来](../words/外来.md)<rt>⺢ㄧㄌㄚㄧ</rt></ruby>: foreign.
@@ -60,11 +61,16 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼘ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
+- <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
+- <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
+- <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
 
 ### Trust, Respect & Esteem
 
 - <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>: to trust, believe, rely on.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
+- <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
+- <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.
 - <ruby>[欽敬](../words/欽敬.md)<rt>ㄎㄨㄇㄍ⼶ㄫ</rt></ruby>: to admire, respect.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust (someone with something).
 - <ruby>[印象](../words/印象.md)<rt>ㄧㄋㄙ⼘ㄫ</rt></ruby>: an impression; to impress — Rosenfelder's "impress." See Semantic Range Notes.
@@ -176,7 +182,11 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.
 
-**Genuine gaps, not yet resolved**: "gentle" (no vault word at all); "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else); "newcomer" (only partially covered by [[移住者]], which specifically implies international migration rather than just being new to a place or group); "convince" (no vault word for the act of persuading someone, as distinct from [[尊敬]]/[[信用]]'s trust/respect senses).
+**Genuine gap, not yet resolved**: "native" (as in "a native of this city" — no word distinguishes a lifelong local from anyone else) — no vault word at all.
+
+**斯文's living sense splits by language, and its character-page `stand_in` needed a real correction**: Mandarin narrowed the Analects' original "this culture [of ours]" (天之未喪斯文也) to describe a person's genteel, refined manner — this vault's second "gentle" word, cooler than [[温柔]]'s warmth. Japanese しぶん and Korean 사문 instead keep the older, narrower sense: "Confucian learning/teachings" specifically, not a personality description. Separately: `characters/斯.md` had `stand_in: 名専字` (the placeholder for a character used only in transliterations, e.g. 波斯 "Persia") — now corrected to `斯文`, since this is a real, substantive, non-transliteration compound.
+
+**説服 vs. 説得 — a real root-choice split, not a duplicate pair**: both mean "to convince/persuade," but the sphere splits on which second character carries the concept. Mandarin and Vietnamese build it on 服 ("submit") — [[説服]]/thuyết phục, real and standard in both. Japanese and Korean instead build it on 得 ("achieve") — [[説得]]/설득, real and standard in both, while 説服 itself isn't genuine living Japanese (an in-house note on that word's own page explains the mechanical-reading treatment). Keeping both as separate entries reflects that real split rather than merging them into one supposedly-universal word.
 
 **印象 turned out to be a calque, not an ancient native term**: despite drawing on genuinely old Buddhist "seal-imprint" imagery for the mind (心印, "mind-seal," describing insight stamped from master to disciple), 印象 as this exact fixed compound is a 19th-century Meiji-era Japanese coinage built specifically to translate the Western psychological concept "impression" — verified rather than assumed, since the reverse (an ancient native term later mistaken for a Western calque) was the original hypothesis.
 

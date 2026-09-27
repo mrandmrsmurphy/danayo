@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[新西蘭]]<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby> "New Zealand"
 - <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> "shinjitai"
 - <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"
+- <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

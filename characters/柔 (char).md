@@ -53,6 +53,7 @@ boundedness: 90
 ## Words
 - <ruby>[[柔軟]]<rt>ㄋ⼜ㄋㄝㄋ</rt></ruby> "soft, pliable, weak"
 - <ruby>[[柔道]]<rt>ㄋ⼜ㄉㄚㄨ</rt></ruby> "judo"
+- <ruby>[[温柔]]<rt>ㄛㄆㄋ⼜</rt></ruby> "gentle, loving, sweet"
 
 ## Chengyu
 - <ruby>[[優柔不断]]<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
