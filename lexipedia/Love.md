@@ -51,9 +51,14 @@ Four independently attested near-synonyms, differing mainly by register rather t
 - <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇㄚㄎ</rt></ruby>: hatred, aversion, loathing — disgust-flavored.
 - <ruby>[憎悪](../words/憎悪.md)<rt>ㄐㄜㄫㄚㄎ</rt></ruby>: to hate, to loathe — close synonym of 嫌悪 above.
 
+### Dating & Secrecy
+
+- <ruby>[約会](../words/約会.md)<rt>⼘ㄎㄏ⼔</rt></ruby>: a date, a social hangout; to arrange to meet — Rosenfelder's "date." See Semantic Range Notes for why this is the real Mandarin word rather than a mechanical Dan'a'yo invention.
+- <ruby>[密会](../words/密会.md)<rt>ㄇㄧㄊㄏ⼔</rt></ruby>: a secret meeting, a secret date, a tryst — 密 "secret" + the same 会 "to meet" that [[約会]] builds on, not derived from 約会 itself.
+
 ## Advanced / Specialized (C1+)
 
-- <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — courtship-adjacent (used for a couple "seeing each other socially") but not a dedicated verb "to date"; see Semantic Range Notes.
+- <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — courtship-adjacent (used for a couple "seeing each other socially"), a broader ongoing-relationship register than the individual event named by [[約会]] above.
 - <ruby>[嫉妬](../words/嫉妬.md)<rt>ㄐㄧㄊㄉㄛ</rt></ruby>: to be jealous, envious (of a rival or a partner's attention).
 
 ## Semantic Range Notes
@@ -66,7 +71,9 @@ Four independently attested near-synonyms, differing mainly by register rather t
 
 **Companion words split on commitment, not gender or romance**: [[伴侶]] implies a long-term, often life-defining pairing (a spouse, a lifelong partner, sometimes even a beloved pet) — Korean 반려 (its own citation) extends this same word to "companion animal." [[同伴]] carries no such commitment; it names whoever you happen to be doing something with right now.
 
-**No dedicated word yet for "to date" or "to flirt"**: Rosenfelder's list names both, but no existing Dan'a'yo word cleanly covers either sense, and the source languages themselves don't converge on a single borrowable form (Japanese uses the English loanword デート for "date"; "flirt" splits across registers with no single common CJKV equivalent). [[交際]] ("to socialize, hang out") is the closest existing neighbor for "dating" but names ongoing social contact, not the individual event or the act of flirting itself. Left as an open gap rather than forcing a coinage — same treatment [[Buildings]] gives "carpet."
+**約会 vs. 密会 vs. 交際 — three different words English flattens into "date"**: English "date" is also ambiguous with the calendar sense (a day on the calendar) — that sense is named by 日期, a real Mandarin word with no vault page yet, out of scope here (Time/Calendar domain, not Love). Within the romantic-outing sense, Dan'a'yo further splits by openness and duration: [[約会]] is the neutral, standard word (real Mandarin 約會/约会 yuēhuì — the actual Han-character gloss dictionaries give for Japanese デート and Korean 데이트, both otherwise pure English loanwords, which is why this vault reaches for the Chinese form rather than inventing something new); [[密会]] specifically marks that the meeting is secret, most often because it's illicit; [[交際]] names the ongoing state of seeing someone, not a single outing.
+
+**Still no dedicated word for "to flirt"**: unlike "date," "flirt" has no single common CJKV form to borrow — the concept splits across registers with no convergent source-language equivalent. Left as an open gap rather than forcing a coinage — same treatment [[Buildings]] gives "carpet."
 
 **関心 is not romance-specific**: it covers personal concern ("to care about someone"), intellectual interest, and institutional attention equally — the same word a Dan'a'yo speaker would use for "I care about you" and "an interest in astronomy" alike. Listed here because it's Rosenfelder's closest match for "care" in this domain, not because Dan'a'yo has narrowed it to romantic use.
 

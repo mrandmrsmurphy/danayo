@@ -67,6 +67,8 @@ boundedness: 75
 - <ruby>[[社会]]<rt>ㄙ⼘ㄏ⼔</rt></ruby> "society"
 - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby> "socialism"
 - <ruby>[[会意]]<rt>ㄏ⼔ㄜ</rt></ruby> "compound ideograph character"
+- <ruby>[[密会]]<rt>ㄇㄧㄊㄏ⼔</rt></ruby> "secret meeting; secret date; tryst"
+- <ruby>[[約会]]<rt>⼘ㄎㄏ⼔</rt></ruby> "date; social hangout"
 
 ## Chengyu
 - <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"

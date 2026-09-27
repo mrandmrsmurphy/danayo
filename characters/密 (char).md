@@ -58,3 +58,4 @@ boundedness: 70
 - <ruby>[[密度]]<rt>ㄇㄧㄊㄉㄛ</rt></ruby> "density"
 - <ruby>[[茂密]]<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby> "dense; thick"
 - <ruby>[[密陀僧]]<rt>ㄇㄧㄊㄉㄚㄙㄨㄫ</rt></ruby> "litharge; lead monoxide"
+- <ruby>[[密会]]<rt>ㄇㄧㄊㄏ⼔</rt></ruby> "secret meeting; secret date; tryst"
