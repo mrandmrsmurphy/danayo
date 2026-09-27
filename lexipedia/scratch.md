@@ -6,10 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2368
-- **Astronomy**: 131
+- **Unsorted**: 2479
 - **Calendar**: 116
-- **Conflict**: 95
 - **Containers**: 57
 - **Dimensions**: 94
 - **Directions**: 58
@@ -49,6 +47,119 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[回転]] — turn, spin, rotate, revolve (mechanical rotation; not a Clothing match — moved out of the Clothing bucket 2026-09-27)
 - [[磨耗]] — wear, abrasion (material/engineering degradation, not "to wear clothing" — moved out of the Clothing bucket 2026-09-27)
+- [[暴風]] — windstorm, violent storm, gale (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
+- [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
+- [[失業]] — become unemployed, lose one's job (an Economy/Work concept — moved out of the Conflict bucket 2026-09-28)
+- [[養生]] — care for, protect (a TCM/health-preservation concept, not defense — moved out of the Conflict bucket 2026-09-28)
+
+**Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
+- [[一朝]] — short time
+- [[万物]] — everything, universe
+- [[人望]] — hope of the people
+- [[今夜安]] — good night
+- [[今昼安]] — good day
+- [[今晩安]] — good evening
+- [[今朝]] — this morning
+- [[今朝安]] — good morning
+- [[代数学]] — algebra (study)
+- [[以後]] — after that, from now on, thenceforth
+- [[何故]] — why
+- [[余波]] — aftermath, fallout, after-effect, waves remaining after winds subside
+- [[侏儒]] — dwarf, pygmy, midget
+- [[俯仰]] — bowing and looking up, in an instant
+- [[倭人]] — wajin, dwarf
+- [[先後]] — successively, one after another, in succession
+- [[八角]] — octagon, star anise (illicium verum)
+- [[其人等]] — they
+- [[其処]] — there (medial)
+- [[初代]] — first, inaugural, founding
+- [[初版]] — first edition
+- [[区別]] — differentiate, distinguish, classify
+- [[千乗]] — vassal of the son of heaven
+- [[占卜]] — divine, fortune tell
+- [[君]] — you
+- [[土]] — earth
+- [[地域]] — district, region, locality
+- [[地帯]] — zone, belt, area
+- [[夜]] — night
+- [[大]] — big, great
+- [[大江]] — big river, yangtze
+- [[大河]] — big river, large river
+- [[天地之別]] — a world of difference, the gulf between heaven and earth, a vast difference
+- [[天子]] — son of heaven
+- [[天祐]] — divine aid
+- [[天神地祇]] — the gods of heaven and earth, all the gods
+- [[天運]] — fate from heaven (dated)
+- [[夭折]] — to die young, to come to a premature end
+- [[実践]] — practice, put into practice
+- [[対象]] — object, target
+- [[嵌入]] — embed, inlay, insert into
+- [[帯]] — sash, belt
+- [[帰還]] — give back, return home, be repatriated
+- [[弁]] — discuss, distinguish
+- [[後]] — after
+- [[後置]] — place after
+- [[復帰]] — return, come back
+- [[或者]] — some people
+- [[所]] — -ee (nominalizer; the object/receiver of an action)
+- [[所謂]] — so called
+- [[挿入]] — insert, stick into
+- [[揚州]] — yang province, province of yang
+- [[星条旗]] — stars and stripes
+- [[星洲]] — star islet, a literary sobriquet for singapore
+- [[昼夜]] — day and night, around the clock
+- [[時]] — time
+- [[時差]] — time difference, jet lag
+- [[時間]] — time
+- [[晒]] — expose, dry in the sun, bleach
+- [[晩]] — evening
+- [[最初]] — initial, first
+- [[朝]] — morning
+- [[本校]] — head school, our school, this school
+- [[某]] — some, certain
+- [[榜文]] — official proclamation, posted notice
+- [[欲求]] — crave, desire, lust after
+- [[比喩]] — metaphor
+- [[民意]] — will of the people, public opinion
+- [[汝]] — you (intimate)
+- [[江戸川]] — edo river
+- [[江湖]] — lakes and river, countryside, underworld, reclusive place
+- [[流域]] — river basin, watershed
+- [[流水]] — flowing water, inevitable events
+- [[涯]] — horizon, shore, border
+- [[滲入]] — seep into, infiltrate
+- [[漁民]] — fisherfolk, fishing people
+- [[漢江]] — han river
+- [[瀧川]] — takigawa, waterfall river
+- [[無定河]] — wuding river
+- [[然後]] — then, after, afterwards, after that
+- [[照顧]] — care for, look after
+- [[熟知]] — know well, well acquainted with
+- [[発音]] — pronounce, say
+- [[盆栽]] — bonsai, potted dwarf tree
+- [[祭物]] — ritual offering; sacrificial object
+- [[締]] — connection, knot, conclusion
+- [[考察]] — investigate, observe, study
+- [[而後]] — after that, only then
+- [[自得]] — come to a realization of one's own accord
+- [[苦肉]] — flesh made to suffer, desperate self-sacrifice, the stratagem of self-injury
+- [[荒廃]] — fall into ruin
+- [[言]] — say
+- [[訃告]] — obituary, death notice
+- [[認識]] — know, recognize
+- [[謀求]] — pursue, seek, strive for, quest after
+- [[辺疆]] — frontier, border region
+- [[追求]] — pursue, search, go after
+- [[週期]] — period, cycle
+- [[遊学]] — travel abroad to study, study abroad
+- [[配]] — match, pair
+- [[陛下]] — your majesty
+- [[陰]] — yin, shade
+- [[雰囲]] — mood, atmosphere, ambience
+- [[雰囲気]] — atmosphere, mood, ambiance
+- [[雲]] — cloud
+- [[需要]] — need, require
+- [[韓江]] — han river
 - [[一端]] — one aspect, competent
 - [[人道]] — humane, path
 - [[仁慈]] — humane, merciful, kind
@@ -2423,138 +2534,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Astronomy (131)
-
-- [[一朝]] — short time
-- [[万物]] — everything, universe
-- [[九天]] — ninth heaven
-- [[乾坤]] — heaven and earth
-- [[人工]] — artificial, man-made
-- [[人望]] — hope of the people
-- [[人民]] — people, public, citizen
-- [[今夜安]] — good night
-- [[今昼安]] — good day
-- [[今晩安]] — good evening
-- [[今朝]] — this morning
-- [[今朝安]] — good morning
-- [[代数学]] — algebra (study)
-- [[以後]] — after that, from now on, thenceforth
-- [[何故]] — why
-- [[余波]] — aftermath, fallout, after-effect, waves remaining after winds subside
-- [[侏儒]] — dwarf, pygmy, midget
-- [[俯仰]] — bowing and looking up, in an instant
-- [[倭人]] — wajin, dwarf
-- [[先後]] — successively, one after another, in succession
-- [[八角]] — octagon, star anise (illicium verum)
-- [[其人等]] — they
-- [[其処]] — there (medial)
-- [[初代]] — first, inaugural, founding
-- [[初版]] — first edition
-- [[勉強]] — to study, to force oneself, reluctant
-- [[区別]] — differentiate, distinguish, classify
-- [[千乗]] — vassal of the son of heaven
-- [[占卜]] — divine, fortune tell
-- [[君]] — you
-- [[土]] — earth
-- [[地域]] — district, region, locality
-- [[地帯]] — zone, belt, area
-- [[夕陽]] — setting sun, sunset
-- [[夜]] — night
-- [[大]] — big, great
-- [[大気圏]] — atmosphere
-- [[大江]] — big river, yangtze
-- [[大河]] — big river, large river
-- [[天]] — sky, heaven
-- [[天地]] — world, heaven and earth
-- [[天地之別]] — a world of difference, the gulf between heaven and earth, a vast difference
-- [[天地人]] — heaven, earth, and humankind
-- [[天子]] — son of heaven
-- [[天祐]] — divine aid
-- [[天神地祇]] — the gods of heaven and earth, all the gods
-- [[天運]] — fate from heaven (dated)
-- [[太陽風]] — solar wind
-- [[夭折]] — to die young, to come to a premature end
-- [[宇宙局]] — space agency
-- [[実践]] — practice, put into practice
-- [[対象]] — object, target
-- [[嵌入]] — embed, inlay, insert into
-- [[川]] — river
-- [[帯]] — sash, belt
-- [[帰還]] — give back, return home, be repatriated
-- [[弁]] — discuss, distinguish
-- [[後]] — after
-- [[後置]] — place after
-- [[復帰]] — return, come back
-- [[或者]] — some people
-- [[所]] — -ee (nominalizer; the object/receiver of an action)
-- [[所謂]] — so called
-- [[挿入]] — insert, stick into
-- [[揚州]] — yang province, province of yang
-- [[日月]] — sun and moon, life and times
-- [[明月]] — bright moon, jewel
-- [[星条旗]] — stars and stripes
-- [[星洲]] — star islet, a literary sobriquet for singapore
-- [[昼夜]] — day and night, around the clock
-- [[時]] — time
-- [[時差]] — time difference, jet lag
-- [[時間]] — time
-- [[晒]] — expose, dry in the sun, bleach
-- [[晩]] — evening
-- [[最初]] — initial, first
-- [[朝]] — morning
-- [[本校]] — head school, our school, this school
-- [[某]] — some, certain
-- [[榜文]] — official proclamation, posted notice
-- [[欲求]] — crave, desire, lust after
-- [[比喩]] — metaphor
-- [[民意]] — will of the people, public opinion
-- [[汝]] — you (intimate)
-- [[江戸川]] — edo river
-- [[江湖]] — lakes and river, countryside, underworld, reclusive place
-- [[注入]] — pour into, inject
-- [[流域]] — river basin, watershed
-- [[流水]] — flowing water, inevitable events
-- [[涯]] — horizon, shore, border
-- [[滲入]] — seep into, infiltrate
-- [[漁民]] — fisherfolk, fishing people
-- [[漢江]] — han river
-- [[瀧川]] — takigawa, waterfall river
-- [[無定河]] — wuding river
-- [[然後]] — then, after, afterwards, after that
-- [[照顧]] — care for, look after
-- [[熟知]] — know well, well acquainted with
-- [[甲]] — armor, first heavenly stem
-- [[発明]] — invent
-- [[発音]] — pronounce, say
-- [[盆栽]] — bonsai, potted dwarf tree
-- [[祭物]] — ritual offering; sacrificial object
-- [[空中]] — in the air, midair, the sky
-- [[空気]] — air, atmosphere
-- [[締]] — connection, knot, conclusion
-- [[考察]] — investigate, observe, study
-- [[而後]] — after that, only then
-- [[自得]] — come to a realization of one's own accord
-- [[苦肉]] — flesh made to suffer, desperate self-sacrifice, the stratagem of self-injury
-- [[荒廃]] — fall into ruin
-- [[薄命]] — born under an unlucky star, born unlucky (usually of women), ill-fated
-- [[言]] — say
-- [[訃告]] — obituary, death notice
-- [[認識]] — know, recognize
-- [[謀求]] — pursue, seek, strive for, quest after
-- [[辺疆]] — frontier, border region
-- [[追求]] — pursue, search, go after
-- [[週期]] — period, cycle
-- [[遊学]] — travel abroad to study, study abroad
-- [[配]] — match, pair
-- [[陛下]] — your majesty
-- [[陰]] — yin, shade
-- [[陰陽]] — yin-yang
-- [[雰囲]] — mood, atmosphere, ambience
-- [[雰囲気]] — atmosphere, mood, ambiance
-- [[雲]] — cloud
-- [[需要]] — need, require
-- [[韓江]] — han river
-
 ## Calendar (116)
 - [[一半]] — one half
 - [[万乗]] — ten thousand chariots, imperial power
@@ -2671,104 +2650,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Conflict (95)
-
-- [[䦧]] — quarrel
-- [[世仇]] — feud, hereditary enmity
-- [[争端]] — dispute, conflict
-- [[仇敵]] — enemy, foe
-- [[伎両]] — skill, ability, underhanded trick, ploy
-- [[侠客]] — knight-errant, swordsman, hero
-- [[俊傑]] — hero, genius
-- [[保衛]] — defend, safeguard
-- [[保護]] — protect, safeguard, shield
-- [[凶器]] — murder weapon, lethal weapon, deadly implement
-- [[凶暴]] — ferocious, brutal, savage and violent
-- [[刀剣]] — sword, dagger, knife
-- [[刺激]] — provoke, irritate
-- [[剣]] — sword
-- [[勇敢]] — brave, courageous
-- [[勝利]] — win, succeed
-- [[参劾]] — accuse, charge
-- [[反乱]] — rebel, revolt
-- [[受賞]] — to win an award, to be awarded
-- [[告訴]] — accuse, charge, file a lawsuit
-- [[喪失]] — lose
-- [[嚇]] — scare, frighten
-- [[太平]] — peaceful, peace
-- [[失業]] — become unemployed, lose one's job
-- [[奮闘]] — struggle, fight, strive
-- [[守衛]] — protect, guard
-- [[守護]] — to guard, protect, a guardian
-- [[安全]] — safe, secure
-- [[安心]] — peace of mind, be at ease
-- [[安慰]] — comfort, console
-- [[安逸]] — ease, comfort, complacent
-- [[平安]] — peaceful, safe
-- [[康寧]] — tranquility and peace
-- [[愛護]] — protect
-- [[慰安]] — comfort, console
-- [[憎悪]] — hate, loathe
-- [[戦闘]] — fight, engage in combat, battle
-- [[打撃]] — strike, beat, hit, percuss
-- [[批判]] — critique, criticize
-- [[抗争]] — fight, contend
-- [[抵抗]] — resist
-- [[拷問]] — torture, interrogation under torture
-- [[挟撃]] — pincer strike, converging attack, to attack from both sides
-- [[挟攻]] — flanking attack, pincer attack
-- [[挫折]] — setback, frustration, defeat
-- [[掩襲]] — sneak attack, ambush
-- [[損失]] — loss, to lose
-- [[撃]] — strike, hit, beat
-- [[攻]] — attack, criticize
-- [[教戒]] — to instruct, to admonish, to teach and warn
-- [[敵人]] — enemy
-- [[昂然]] — bold, elated
-- [[暴]] — violent, brutal, fierce, tyrannical
-- [[暴徒]] — mob, riot
-- [[暴風]] — windstorm, violent storm, gale
-- [[槍]] — spear, lance
-- [[殴打]] — strike, batter
-- [[流言]] — spread rumors, gossip
-- [[滅失]] — lose
-- [[激烈]] — violent, severe, acute
-- [[狂風]] — gale, violent wind, tempest
-- [[秘訣]] — secret, knack, trick
-- [[紛争]] — dispute, conflict
-- [[自失]] — to lose oneself, to be dazed, to be stunned
-- [[英雄]] — hero
-- [[評論]] — criticize, comment, review
-- [[調解]] — to mediate, to settle a dispute
-- [[豪傑]] — hero, genius
-- [[貳]] — disloyal, betray
-- [[進撃]] — charge, attack
-- [[遮蔽]] — cover, protect
-- [[遺]] — lose, leave behind
-- [[金庫]] — treasury, safe
-- [[長矛]] — spear, lance, pike
-- [[闘争]] — struggle
-- [[防守]] — defend, guard
-- [[防御]] — defend, protect, cover
-- [[革命]] — revolt against, incite revolution, rebel against
-- [[養生]] — care for, protect
-- [[偵]] — spy
-- [[窺]] — spy on
-- [[包囲]] — encircle, surround
-- [[占拠]] — occupy, hold
-- [[占領]] — capture, occupy, seize, hold
-- [[奪取]] — snatch, seize
-- [[拿捕]] — take, grasp, seize, capture
-- [[監禁]] — imprison, incarcerate, imprisonment
-- [[禁錮]] — imprison
-- [[錮]] — confine, imprison
-- [[乱離]] — chaos, exile, refugeeism
-- [[幟]] — pennant, banner
-- [[旗幟]] — flag, banner, attitude
-- [[将帥]] — general, marshall, commander
-- [[武将]] — general, commander
-- [[防護]] — guard against, prevent
 
 ## Containers (57)
 

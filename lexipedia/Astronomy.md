@@ -27,6 +27,17 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 
 ## Intermediate (B1–B2)
 
+### Cosmology & Poetic Terms
+
+- <ruby>[天](../words/天.md)<rt>ㄊㄝㄋ</rt></ruby>: sky, heaven.
+- <ruby>[天地](../words/天地.md)<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby>: the world, heaven and earth.
+- <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind.
+- <ruby>[九天](../words/九天.md)<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
+- <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
+- <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
+- <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
+- <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.
+
 ### Solar System
 
 - <ruby>[太陽系](../words/太陽系.md)<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby>: the solar system.
@@ -55,6 +66,11 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[穹蒼](../words/穹蒼.md)<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby>: the night sky, poetically — "the blue dome of heaven."
 - <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby>: a spaceship.
 - <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>: an alien, astronaut.
+- <ruby>[宇宙局](../words/宇宙局.md)<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby>: a space agency.
+- <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ·⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.
+- <ruby>[大気圏](../words/大気圏.md)<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby>: the atmosphere.
+- <ruby>[空気](../words/空気.md)<rt>ㄎㄛㄫㄎㄧㄜ</rt></ruby>: air.
+- <ruby>[空中](../words/空中.md)<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby>: in the air, midair, the sky.
 
 ### Notable Stars & Groupings
 
@@ -76,6 +92,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[秋分](../words/秋分.md)<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby>: the autumn equinox.
 - <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby>: a solar eclipse.
 - <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>: a lunar eclipse.
+- <ruby>[夕陽](../words/夕陽.md)<rt>ㄙㄝㄎ⼘ㄫ</rt></ruby>: the setting sun, sunset.
 - <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: a conjunction (planets aligning) — extending 合's general "join, fit together" sense.
 - <ruby>[衝](../words/衝.md)<rt>ㄑㄛㄫ</rt></ruby>: an opposition — extending 衝's general "collide" sense.
 
@@ -145,6 +162,8 @@ The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten He
 11. <ruby>[狗](../characters/狗.md)<rt>ㄍㄛㄨ</rt></ruby> — Dog
 12. <ruby>[猪](../characters/猪.md)<rt>ㄐㄛ</rt></ruby> — Pig
 
+- <ruby>[薄命](../words/薄命.md)<rt>ㄅㄚㄎㄇ⼶ㄫ</rt></ruby>: born under an unlucky star, ill-fated — the one surviving idiom directly linking this vault's astronomy vocabulary to its 占星術 sense.
+
 ## Semantic Range Notes
 
 **天文学 vs. 占星術 — a deliberate split between science and divination**: both grow from the same act of looking up at the sky, but Dan'a'yo keeps them firmly apart. [[天文学]] is the true modern science of celestial objects; [[占星術]] ("star-sign divination") is the ancient practice of reading fortunes from the stars, built on the older verb [[占星]] ("to divine by looking at star signs"). Conflating the two would erase a distinction the domain is organized around.
@@ -156,6 +175,8 @@ The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten He
 **The sexagenary cycle is four systems in one, not just a zodiac**: each of its sixty stem-branch combinations simultaneously names a year (in the traditional calendar), a Five-Elements/yin-yang pairing (via the stem), a zodiac animal (via the branch), and — separately — each of the Twelve Earthly Branches on its own also divides the day into twelve two-hour blocks and marks a compass direction. A learner meeting 甲子 or 戊戌 for the first time should not assume it's "just" a zodiac-animal label; it's a compact address inside a much larger coordinate system.
 
 **猿 absorbs 猴 as an alias, rather than keeping a separate "monkey" word**: the zodiac position conventionally called 猴 ("monkey") in everyday Mandarin is filed under [[猿]] in this vault instead — 猿 more precisely means "ape," with 猴 folded in as an orthographic variant rather than kept as its own independent entry. No dedicated 猴 page exists as of this writing.
+
+**陰陽 is the abstract principle behind 太陽/太陰's own naming**: this domain's Core Vocabulary already notes that [[太陽]] ("sun") and [[太陰]] ("moon") literally mean "great yang" and "great yin" — [[陰陽]] itself names that underlying cosmological duality directly, rather than being a separate, unrelated borrowing.
 
 ## See Also
 
