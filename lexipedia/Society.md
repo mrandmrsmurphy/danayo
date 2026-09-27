@@ -130,6 +130,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[失礼](../words/失礼.md)<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby>: rude, impolite.
 - <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: everyday, routine, ordinary.
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
+- <ruby>[恭遜](../words/恭遜.md)<rt>ㄍ⼄ㄫㄙㄛㄋ</rt></ruby>: politeness, courteousness, civility — Rosenfelder's "polite," deliberately not [[客気]]; see Semantic Range Notes.
 
 ### Games & Recreation
 
@@ -164,7 +165,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 **"Glory" has no exact noun match**: [[光栄]] covers the adjective "glorious, honorable" well, but Dan'a'yo has no dedicated abstract noun "glory" distinct from [[名誉]]'s own "honor, reputation."
 
-**客気 is a genuine trap, not used for "polite" here**: it means "polite, reserved" in Mandarin/Cantonese/Vietnamese but "reckless bravado, impetuosity" in Japanese/Korean — the same two characters landing on near-opposite senses depending on the language. Given that split, it's deliberately not listed as this domain's word for "polite" (which remains a genuine gap) — using it would silently favor one language's sense over another's contradictory one.
+**客気 is a genuine Sinosphere auto-antonym, not used for "polite" here**: "guest" + "disposition" names the unstable psychological position of not being the grounded, authoritative host — and the Sinosphere resolved that instability in two opposite directions rather than one. Mandarin/Cantonese/Vietnamese develop "deferential restraint" (shrinking the self to respect boundaries, i.e. "polite, reserved"); Japanese/Korean instead develop "ungrounded bravado" (puffing up the self to mask the outsider's lack of substance, i.e. "reckless, foolhardy"). This vault generally advises against reaching for [[客気]] in Dan'a'yo composition at all — see its own page for the full writeup, including a documented path (拘客氣/浮客氣) if a disambiguated form is ever genuinely needed. "Polite" itself is now resolved cleanly by [[恭遜]] instead — a real, well-attested word (Mandarin gōngxùn, Japanese きょうそん, and especially Korean 공손, an everyday common word) with no auto-antonym risk at all.
 
 **武侠 is genre vocabulary as much as a virtue word**: in living usage it names the wuxia genre of martial-heroic fiction/film at least as often as it names the abstract quality "chivalry" itself. Listed here for lack of a more general word, with the caveat stated rather than hidden.
 
