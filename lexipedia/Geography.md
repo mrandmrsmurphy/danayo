@@ -7,7 +7,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 <ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫ·ㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
-- <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
+- <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and it's capital 慰禮城
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby>
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
