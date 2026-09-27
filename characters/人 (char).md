@@ -131,6 +131,8 @@ boundedness: 75
 - <ruby>[[外国人]]<rt>⺢ㄧㄍㄛㄎㄋㄧㄋ</rt></ruby> "foreigner"
 - <ruby>[[美国人]]<rt>ㄇㄧㄍㄛㄎㄋㄧㄋ</rt></ruby> "American person"
 - <ruby>[[越南人]]<rt>⼔ㄊㄋㄚㄇㄋㄧㄋ</rt></ruby> "Vietnamese person"
+- <ruby>[[外人]]<rt>⺢ㄧㄋㄧㄋ</rt></ruby> "stranger, outsider"
+- <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 - <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "create man in our image and likeness"

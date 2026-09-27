@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[使者]]<rt>ㄙㄧㄑㄚ</rt></ruby> "herald; messenger"
 - <ruby>[[亡命者]]<rt>ㄇㄚㄫㄇ⼶ㄫㄑㄚ</rt></ruby> "a defector, an exile"
 - <ruby>[[流亡者]]<rt>ㄌ⼜ㄇㄚㄫㄑㄚ</rt></ruby> "an exile, a person living in exile"
+- <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

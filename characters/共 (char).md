@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[共格]]<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"
 - <ruby>[[共有]]<rt>ㄍ⼄ㄫ·⼜</rt></ruby> "share"
 - <ruby>[[共通]]<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby> "common, shared"
+- <ruby>[[共同体]]<rt>ㄍ⼄ㄫㄉㄛㄫㄊㄝㄧ</rt></ruby> "community"
 ## Derived Characters
 - <ruby>[[拱 (char)|拱]]<rt>ㄍ⼄ㄫ</rt></ruby> "arch"
 - <ruby>[[供]]<rt>ㄍ⼄ㄫ</rt></ruby> "supply, provide for"
