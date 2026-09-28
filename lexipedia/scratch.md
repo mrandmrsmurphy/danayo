@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2546
+- **Unsorted**: 2545
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2134,7 +2134,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[常常]] — often, frequently, commonly
 - [[常用]] — common, regular
 - [[常識]] — common sense
-- [[幅度]] — range, extent, scope
 - [[平凡]] — ordinary, common, simple
 - [[平均]] — average, balance, find the mean
 - [[平坦]] — flat, even, smooth
