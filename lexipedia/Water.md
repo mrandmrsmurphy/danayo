@@ -48,7 +48,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[小河](../words/小河.md)<rt>ㄙㄛㄏㄚ</rt></ruby>: stream.
 - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>: pond, reservoir.
 - <ruby>[渉](../words/渉.md)<rt>ㄙㄝㄆ</rt></ruby>: ford (a shallow river crossing).
-- <ruby>[井堰](../words/井堰.md)<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby>: a weir — smaller-scale than [[堰堤]], associated with a well or irrigation channel rather than damming a river outright.
+- <ruby>[井堰](../words/井堰.md)<rt>ㄐㄧㄫㄝㄋ</rt></ruby>: a weir — smaller-scale than [[堰堤]], associated with a well or irrigation channel rather than damming a river outright.
 - <ruby>[灌漑](../words/灌漑.md)<rt>ㄍ⺢ㄋㄍㄚㄧ</rt></ruby>: irrigation.
 
 ### Tides, Currents & Floods
@@ -72,7 +72,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 
 ### Coastal & Maritime
 
-- <ruby>[海洋](../words/海洋.md)<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>: sea, ocean.
+- <ruby>[海洋](../words/海洋.md)<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby>: sea, ocean.
 - <ruby>[海湾](../words/海湾.md)<rt>ㄏㄚㄧ⺢ㄇ</rt></ruby>: bay, gulf.
 - <ruby>[海峡](../words/海峡.md)<rt>ㄏㄚㄧㄏㄚㄆ</rt></ruby>: strait, channel.
 - <ruby>[半島](../words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>: peninsula.

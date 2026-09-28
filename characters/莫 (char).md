@@ -58,7 +58,7 @@ boundedness: 75
 - <ruby>[[莫斯素]]<rt>ㄇㄚㄎㄙㄧㄙㄛ</rt></ruby> “moscovium”
 
 ## Chengyu
-- <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
+- <ruby>[[除我莫神]]<rt>ㄐㄝㄧㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
 
 ## Derived Characters
 - <ruby>[[寞]]<rt>ㄇㄚㄎ</rt></ruby> "lonely, desolate"

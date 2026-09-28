@@ -53,4 +53,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> "hill"
-- <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
+- <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"

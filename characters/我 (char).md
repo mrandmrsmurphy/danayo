@@ -65,11 +65,11 @@ boundedness: 65
 - <ruby>[[我]]<rt>ㄚ</rt></ruby> "I, me" (stand-in for 我)
 - <ruby>[[我等]]<rt>ㄚㄉㄨㄫ</rt></ruby> "we, us"
 - <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
-- <ruby>[[自我]]<rt>ㄐㄧㄜ·ㄚ</rt></ruby> "self-conscious, self-aware"
+- <ruby>[[自我]]<rt>ㄐㄧㄜㄚ</rt></ruby> "self-conscious, self-aware"
 
 ## Chengyu
-- <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
-- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[除我莫神]]<rt>ㄐㄝㄧㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 
 ## Derived Characters
 - <ruby>[[峨]]<rt>ㄚ</rt></ruby> "lofty"

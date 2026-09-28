@@ -26,7 +26,7 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 - <ruby>[八](../words/八.md)<rt>ㄅㄚㄊ</rt></ruby>: eight.
 - <ruby>[九](../words/九.md)<rt>ㄎ⼜</rt></ruby>: nine.
 - <ruby>[十](../words/十.md)<rt>ㄙㄧㄆ</rt></ruby>: ten.
-- <ruby>[第一](../words/第一.md)<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby>: first.
+- <ruby>[第一](../words/第一.md)<rt>ㄉㄝㄧㄧㄊ</rt></ruby>: first.
   - **Cross-ling**: The 第- ordinal prefix (第一, 第二, 第三...) is shared across Mandarin, Japanese, and Korean.
 - <ruby>[第二](../words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
 - <ruby>[第三](../words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>: third.
@@ -81,7 +81,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
   - **Note**: distinct from [[再度]] ("again, once more"), which names repetition without specifying a count.
 - <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby>: dozen.
   - **Etymology**: 打 here is a *phonetic* loan of English "dozen" in Mandarin/Cantonese, unrelated to 打's ordinary "hit" sense — see the word's own Notes for the full etymology.
-- <ruby>[四分之一](../words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>: quarter.
+- <ruby>[四分之一](../words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby>: quarter.
 - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>: single (alone, solitary).
 - <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: couple (married pair).
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby>: couple (two people, more general).

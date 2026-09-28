@@ -51,6 +51,6 @@ date-last-perfect: 2026-08-06
 ## Words
 - <ruby>[[懐]]<rt>ㄏ⺢ㄧ</rt></ruby> "miss, think of" (stand-in for 懐 (char))
 - <ruby>[[懐抱]]<rt>ㄏ⺢ㄧㄅㄚㄨ</rt></ruby> "cherish, embrace"
-- <ruby>[[懐孕]]<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby> "pregnant"
+- <ruby>[[懐孕]]<rt>ㄏ⺢ㄧㄧㄫ</rt></ruby> "pregnant"
 - <ruby>[[懐愁]]<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby> "wistful longing; nostalgic grief"
 - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby> "doubt"

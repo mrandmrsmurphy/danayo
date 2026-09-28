@@ -66,4 +66,4 @@ boundedness: 90
 - <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
 
 ## Chengyu
-- <ruby>[[東亜自通]]<rt>ㄉㄛㄫ·ㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> "East Asian self-communication"
+- <ruby>[[東亜自通]]<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> "East Asian self-communication"

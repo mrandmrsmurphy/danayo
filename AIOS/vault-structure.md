@@ -83,7 +83,7 @@ For the full step-by-step process (not just template invocation), see [[AIOS/ski
 
 Throughout the vault, ruby text (furigana) uses HTML syntax rendered by the obsidian-furigana plugin:
 ```html
-<ruby>単亜語<rt>ㄉㄚㄋ·ㄚ·⼄</rt></ruby>
+<ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 ```
 
 ## Databases

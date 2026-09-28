@@ -54,7 +54,7 @@ boundedness: 90
 - <ruby>[[及第]]<rt>ㄍㄨㄆㄉㄝㄧ</rt></ruby> "to pass an imperial exam; to pass a grade"
 - <ruby>[[第八]]<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby> "eighth"
 - <ruby>[[次第]]<rt>ㄑㄧㄜㄉㄝㄧ</rt></ruby> "order; sequence"
-- <ruby>[[第一]]<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> "first"
+- <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> "first"
 - <ruby>[[第二]]<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby> "second"
 - <ruby>[[第三]]<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby> "third"
 

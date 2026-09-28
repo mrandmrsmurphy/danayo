@@ -54,7 +54,7 @@ boundedness: 80
 ## Words
 - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby> "winter"
 - <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> "winter solstice"
-- <ruby>[[冬月]]<rt>ㄊㄛㄫ·⼔ㄊ</rt></ruby> "winter month (11th month)"
+- <ruby>[[冬月]]<rt>ㄊㄛㄫ⼔ㄊ</rt></ruby> "winter month (11th month)"
 - <ruby>[[孟冬]]<rt>ㄇㄚㄫㄊㄛㄫ</rt></ruby> "early winter (10th month)"
 - <ruby>[[仲冬]]<rt>ㄉㄨㄫㄊㄛㄫ</rt></ruby> "mid winter (11th month)"
 - <ruby>[[季冬]]<rt>ㄍㄨㄧㄊㄛㄫ</rt></ruby> "late winter (12th month)"

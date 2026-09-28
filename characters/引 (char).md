@@ -57,9 +57,9 @@ boundedness: 100
 - <ruby>[[牽引]]<rt>ㄎㄝㄋ·ㄧㄋ</rt></ruby> "tow; traction"
 - <ruby>[[勾引]]<rt>ㄍㄛㄨ·ㄧㄋ</rt></ruby> "seduce; entice"
 - <ruby>[[引入]]<rt>ㄧㄋㄋㄧㄆ</rt></ruby> "lead into"
-- <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
+- <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"
 - <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"
 
 ## Chengyu
-- <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧ·ㄧㄋㄏ⺢</rt></ruby> "invite disaster, cause trouble"
+- <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster, cause trouble"
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"

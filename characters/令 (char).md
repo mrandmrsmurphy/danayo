@@ -62,7 +62,7 @@ boundedness: 85
 ## Words
 - <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"
 - <ruby>[[令和]]<rt>ㄌㄝㄫㄏ⺢</rt></ruby> "Reiwa (era)"
-- <ruby>[[令圄]]<rt>ㄌㄝㄫ·⼄</rt></ruby> "prison"
+- <ruby>[[令圄]]<rt>ㄌㄝㄫ⼄</rt></ruby> "prison"
 - <ruby>[[令聞]]<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby> "good name, reputation"
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
 - <ruby>[[令色]]<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby> "flattering looks; sycophantic expression"

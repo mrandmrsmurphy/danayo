@@ -36,7 +36,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[誣告](../words/誣告.md)<rt>ㄇㄨㄍㄚㄨ</rt></ruby>: to falsely accuse, bring false charges against — distinct from 告訴's neutral "to accuse."
 - <ruby>[原告](../words/原告.md)<rt>⼔ㄋㄍㄚㄨ</rt></ruby>: plaintiff.
 - <ruby>[証人](../words/証人.md)<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby>: witness.
-- <ruby>[証言](../words/証言.md)<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby>: to testify.
+- <ruby>[証言](../words/証言.md)<rt>ㄐㄧㄫㄝㄋ</rt></ruby>: to testify.
 - <ruby>[人証](../words/人証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: testimony, personal evidence.
 - <ruby>[控訴](../words/控訴.md)<rt>ㄎㄛㄫㄙㄛ</rt></ruby>: to formally file charges against; to appeal.
 - <ruby>[審査](../words/審査.md)<rt>ㄙㄧㄇㄐㄚ</rt></ruby>: to judge, review a case — the verb only; no dedicated word yet for "a judge" (the person).

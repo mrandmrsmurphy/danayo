@@ -180,7 +180,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 ### Agreement & Proposal
 
 - <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an accord, agreement, pact.
-- <ruby>[提案](../words/提案.md)<rt>ㄙㄝ·ㄚㄋ</rt></ruby>: to propose, suggest.
+- <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to propose, suggest.
 - <ruby>[接触](../words/接触.md)<rt>ㄐㄛㄆㄑㄛㄎ</rt></ruby>: contact, touch.
 - <ruby>[接](../words/接.md)<rt>ㄐㄛㄆ</rt></ruby>: to contact, connect.
 

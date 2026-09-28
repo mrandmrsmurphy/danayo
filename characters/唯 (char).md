@@ -62,6 +62,6 @@ boundedness: 80
 - 520th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [⼶ㄧ](../syllables/⼶ㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Chengyu
-- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
+- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
 ## Derived Characters
 - <ruby>[[雖 (char)|雖]]<rt>ㄙㄨㄧ</rt></ruby> "though, although"

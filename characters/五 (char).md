@@ -56,8 +56,8 @@ boundedness: 75
 - <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> "the Five Archery Techniques"
 - <ruby>[[五馭]]<rt>ㄛ⼄</rt></ruby> "the Five Charioteering Techniques"
 - <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "the Five Classics"
-- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
-- <ruby>[[五月]]<rt>ㄛ·⼔ㄊ</rt></ruby> "May"
+- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
+- <ruby>[[五月]]<rt>ㄛ⼔ㄊ</rt></ruby> "May"
 - <ruby>[[五行]]<rt>ㄛㄏㄚㄫ</rt></ruby> "Wu Xing"
 - <ruby>[[五臓]]<rt>ㄛㄐㄚㄫ</rt></ruby> "the Five Internal Organs"
 - <ruby>[[五倫]]<rt>ㄛㄌㄨㄋ</rt></ruby> "Five Relationships"
@@ -71,7 +71,7 @@ boundedness: 75
 - <ruby>[[五更]]<rt>ㄛㄍㄚㄫ</rt></ruby> "the five watches of the night"
 - <ruby>[[五指]]<rt>ㄛㄐㄧㄜ</rt></ruby> "the five fingers"
 - <ruby>[[五官]]<rt>ㄛㄍ⺢ㄋ</rt></ruby> "the five sense organs; facial features"
-- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 - <ruby>[[五日]]<rt>ㄛ·ㄋㄧㄊ</rt></ruby> "fifth"
 - <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛ·ㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
 - <ruby>[[十五]]<rt>ㄙㄧㄆ·ㄛ</rt></ruby> "fifteen"
@@ -80,7 +80,7 @@ boundedness: 75
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
-- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫ·ㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"
+- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"
 
 ## Derived Characters
 - <ruby>[[伍 (char)|伍]]<rt>ㄛ</rt></ruby> "troops" (人 + 五)

@@ -52,7 +52,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[凶暴]]<rt>ㄏ⼜ㄫㄅㄛㄎ</rt></ruby> "ferocious; brutal"
-- <ruby>[[暴虐]]<rt>ㄅㄛㄎ⼘ㄎ</rt></ruby> "tyrannical"
+- <ruby>[[暴虐]]<rt>ㄅㄛㄎ·⼘ㄎ</rt></ruby> "tyrannical"
 - <ruby>[[暴風]]<rt>ㄅㄛㄎㄈㄨㄫ</rt></ruby> "windstorm, violent storm, gale"
 - <ruby>[[暴政]]<rt>ㄅㄛㄎㄐㄧㄫ</rt></ruby> "tyranny, despotism"
 - <ruby>[[暴食]]<rt>ㄅㄛㄎㄙㄧㄎ</rt></ruby> "gluttonize, overeat, binge"

@@ -54,7 +54,7 @@ boundedness:
 ## Words
 - <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby> "wide" (stand-in for 広)
 - <ruby>[[広範]]<rt>ㄍ⺢ㄫㄈㄚㄇ</rt></ruby> "wide-ranging; extensive" (aliases: 廣泛 / 广泛 / 廣範 / 広汎)
-- <ruby>[[広野]]<rt>ㄍ⺢ㄫ·⼘</rt></ruby> "wilderness"
+- <ruby>[[広野]]<rt>ㄍ⺢ㄫ⼘</rt></ruby> "wilderness"
 - <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
 - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> "plaza; square"
 

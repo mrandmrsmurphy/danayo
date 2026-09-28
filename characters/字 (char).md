@@ -53,7 +53,7 @@ boundedness: 90
 - <ruby>[[羅馬字]]<rt>ㄌㄛ·ㄇㄚㄐㄧ</rt></ruby> "Latin letters, Roman alphabet, romanization"
 - <ruby>[卍字](/words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby> - swastika
 - <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
-- <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
+- <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> - four-character stock phrase
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
 - <ruby>[簡体字](/words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - simplified Chinese characters
 - <ruby>[繁体字](/words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - traditional Chinese characters
@@ -64,7 +64,7 @@ boundedness: 90
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 - <ruby>[字南](/words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby> - Chu Nom
 - <ruby>[字母](/words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> - grapheme
-- <ruby>[字源](/words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> - etymology
+- <ruby>[字源](/words/字源.md)<rt>ㄐㄧ⼔ㄋ</rt></ruby> - etymology
 - <ruby>[数字](/words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby> - numeral
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - script
 - <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> - Shinjitai

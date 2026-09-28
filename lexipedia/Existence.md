@@ -67,7 +67,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[出身](../words/出身.md)<rt>ㄑㄨㄊㄙㄧㄋ</rt></ruby>: origin, background — where a person is from.
 - <ruby>[本来](../words/本来.md)<rt>ㄅㄛㄋㄌㄚㄧ</rt></ruby>: originally, by nature — an adverbial sense of origin (also <ruby>[原来](../words/原来.md)<rt>⼔ㄋㄌㄚㄧ</rt></ruby>, an independently attested near-synonym built on a different first character).
 - <ruby>[原始](../words/原始.md)<rt>⼔ㄋㄙㄧ</rt></ruby>: primitive, original.
-- <ruby>[根源](../words/根源.md)<rt>ㄍㄜㄋ·⼔ㄋ</rt></ruby>: root cause, origin.
+- <ruby>[根源](../words/根源.md)<rt>ㄍㄜㄋ⼔ㄋ</rt></ruby>: root cause, origin.
 - <ruby>[源泉](../words/源泉.md)<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>: fountainhead, wellspring, source.
 - <ruby>[元凶](../words/元凶.md)<rt>⼔ㄋㄏ⼜ㄫ</rt></ruby>: chief culprit, ringleader — also "root cause," the sense that ties it to this cluster.
 - <ruby>[追遡](../words/追遡.md)<rt>ㄊㄨㄧㄙㄛ</rt></ruby> / <ruby>[遡及](../words/遡及.md)<rt>ㄙㄛㄍㄨㄆ</rt></ruby>: to trace back, investigate origins — 遡及 also carries the specifically legal sense "retroactivity, to apply retroactively."
@@ -83,7 +83,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[運数](../words/運数.md)<rt>ㄨㄋㄙㄨ</rt></ruby>: luck, fortune, fate.
 - <ruby>[随性](../words/随性.md)<rt>ㄙㄨㄧㄙㄧㄫ</rt></ruby>: fate from birth.
 - <ruby>[因縁](../words/因縁.md)<rt>ㄧㄋ·⼶ㄋ</rt></ruby>: a predestined bond, karma — the Buddhist-inflected member of the cluster.
-- <ruby>[幸運](../words/幸運.md)<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>: lucky, fortunate.
+- <ruby>[幸運](../words/幸運.md)<rt>ㄏㄚㄫㄨㄋ</rt></ruby>: lucky, fortunate.
 
 ### Decision & Judgment
 
@@ -126,7 +126,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 - <ruby>[誇示](../words/誇示.md)<rt>ㄎ⺢ㄍㄝ</rt></ruby>: to show off, flaunt — the one word in this cluster with a real, distinct pejorative register.
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to state, declare — leans toward a formal statement or deposition, bordering [[Law]]'s own testimony vocabulary.
 - <ruby>[礼物](../words/礼物.md)<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby>: a present, gift (noun, formal register).
-- <ruby>[贈与](../words/贈与.md)<rt>ㄐㄜㄫ·⼄</rt></ruby> / <ruby>[賜予](../words/賜予.md)<rt>ㄙㄝ⼄</rt></ruby>: to donate, bestow, grant.
+- <ruby>[贈与](../words/贈与.md)<rt>ㄐㄜㄫ⼄</rt></ruby> / <ruby>[賜予](../words/賜予.md)<rt>ㄙㄝ⼄</rt></ruby>: to donate, bestow, grant.
 - <ruby>[献上](../words/献上.md)<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby>: to present as tribute — formal/archaic, ceremonial register.
 
 ### Occurrence
@@ -138,7 +138,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 
 ### Intrinsic Nature & the Ideal
 
-- <ruby>[天生](../words/天生.md)<rt>ㄊㄝㄋㄙㄚㄫ</rt></ruby> / <ruby>[固有](../words/固有.md)<rt>ㄍㄛ·⼜</rt></ruby>: natural, intrinsic, inherent (also <ruby>[天常](../words/天常.md)<rt>ㄊㄝㄋㄙ⼘ㄫ</rt></ruby>, "natural law," the same intrinsic-nature idea applied to cosmic order).
+- <ruby>[天生](../words/天生.md)<rt>ㄊㄝㄋㄙㄚㄫ</rt></ruby> / <ruby>[固有](../words/固有.md)<rt>ㄍㄛ⼜</rt></ruby>: natural, intrinsic, inherent (also <ruby>[天常](../words/天常.md)<rt>ㄊㄝㄋㄙ⼘ㄫ</rt></ruby>, "natural law," the same intrinsic-nature idea applied to cosmic order).
 - <ruby>[夢](../words/夢.md)<rt>ㄇㄨㄫ</rt></ruby> / <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: a dream / an ideal, theory — the imagined-but-not-yet-actual, contrasting with [[実現]] above (the act of making it actual).
 
 ### Miscellaneous Abstract

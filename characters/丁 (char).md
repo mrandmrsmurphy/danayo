@@ -55,7 +55,7 @@ boundedness: 80
 - <ruby>[[丁]]<rt>ㄉㄝㄫ</rt></ruby> "fourth on a list of four" (stand-in for 丁)
 - <ruby>[[丁丁]]<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby> "clang, clash"
 - <ruby>[[丁香]]<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby> "clove"
-- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 
 ## Derived Characters
 - <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> "hit"

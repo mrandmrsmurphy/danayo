@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[今夜安]]<rt>ㄍㄧㄇ·⼘ㄚㄋ</rt></ruby> "good night"
 - <ruby>[[今年]]<rt>ㄍㄧㄇㄋㄝㄋ</rt></ruby> "this year"
 - <ruby>[[今昼安]]<rt>ㄍㄧㄇㄐㄨㄛㄚㄋ</rt></ruby> "good day"
-- <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨ·ㄚㄋ</rt></ruby> "good morning"
+- <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨㄚㄋ</rt></ruby> "good morning"
 - <ruby>[[古今]]<rt>ㄍㄛㄍㄧㄇ</rt></ruby> "past and present; all time"
 
 ## Chengyu

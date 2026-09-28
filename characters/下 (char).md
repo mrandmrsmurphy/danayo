@@ -50,14 +50,14 @@ boundedness: 100
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> "down, under"
-- <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"
+- <ruby>[[下愚]]<rt>ㄏㄚㄨ</rt></ruby> "those foolish from birth"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world"
 - <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> "your majesty"
 - <ruby>[[低下]]<rt>ㄉㄝㄧㄏㄚ</rt></ruby> "to lower, to droop"
 - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel, underpass"
 - <ruby>[[地下室]]<rt>ㄉㄧㄜㄏㄚㄙㄧㄊ</rt></ruby> "basement, cellar"
 - <ruby>[[地下牢]]<rt>ㄉㄧㄜㄏㄚㄌㄚㄨ</rt></ruby> "dungeon"
-- <ruby>[[下顎]]<rt>ㄏㄚ·ㄚㄎ</rt></ruby> "jaw, chin"
+- <ruby>[[下顎]]<rt>ㄏㄚㄚㄎ</rt></ruby> "jaw, chin"
 - <ruby>[[下降]]<rt>ㄏㄚㄍㄚㄫ</rt></ruby> "to descend, to fall"
 - <ruby>[[下痢]]<rt>ㄏㄚㄌㄧㄜ</rt></ruby> "diarrhea"
 - <ruby>[[下旬]]<rt>ㄏㄚㄙ⼜ㄋ</rt></ruby> "end of the month"

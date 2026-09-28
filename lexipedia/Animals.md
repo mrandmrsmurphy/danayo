@@ -85,7 +85,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
 - <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
 - <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
-- <ruby>[丘引](../words/丘引.md)<rt>ㄎ⼜·ㄧㄋ</rt></ruby>: earthworm.
+- <ruby>[丘引](../words/丘引.md)<rt>ㄎ⼜ㄧㄋ</rt></ruby>: earthworm.
 - <ruby>[壁虱](../words/壁虱.md)<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby>: tick, mite, bedbug.
 
 ### Reptiles, Amphibians & Aquatic Creatures
@@ -103,7 +103,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
-- <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby>: sea bream.
+- <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
 - <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
@@ -117,7 +117,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎ·ㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.
-- <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ·⼘ㄫ</rt></ruby>: antelope.
+- <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ⼘ㄫ</rt></ruby>: antelope.
 - <ruby>[猿猩](../words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>: monkey, ape — the stand-in compound that legitimizes the bound character 猿.
 - <ruby>[倭猩](../words/倭猩.md)<rt>⼔ㄧㄙㄝㄫ</rt></ruby>: bonobo.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
@@ -139,7 +139,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 - <ruby>[家禽](../words/家禽.md)<rt>ㄍㄚ·ㄎㄧㄇ</rt></ruby>: domestic fowl, poultry.
 - <ruby>[厩肥](../words/厩肥.md)<rt>ㄍ⼜ㄅㄨㄧ</rt></ruby>: stable manure, animal manure, farmyard manure.
-- <ruby>[肥育](../words/肥育.md)<rt>ㄅㄨㄧ·⼜ㄎ</rt></ruby>: to fatten livestock.
+- <ruby>[肥育](../words/肥育.md)<rt>ㄅㄨㄧ⼜ㄎ</rt></ruby>: to fatten livestock.
 - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby> / <ruby>[毛皮](../words/毛皮.md)<rt>ㄇㄚㄨㄅㄧ</rt></ruby>: fur, pelt.
 - <ruby>[羊毛](../words/羊毛.md)<rt>⼘ㄫㄇㄚㄨ</rt></ruby>: wool, fleece.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat, animal fat.
@@ -165,7 +165,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 ### Mythical & Legendary Creatures — a real CJKV cultural inventory, not Western fantasy
 
 - <ruby>[龍](../words/龍.md)<rt>ㄌ⼄ㄫ</rt></ruby>: dragon — the auspicious East Asian dragon, associated with rivers, rain, and imperial authority; a wholly different cultural figure from the Western fire-breathing monster despite the shared English gloss. Appears throughout classical idiom, e.g. 画龍点睛 ("dot the dragon's eye," the finishing touch that brings a work to life) and 臥虎蔵龍 ("crouching tiger, hidden dragon," concealed mastery).
-- <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ·⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
+- <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
 - <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ·⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
 - <ruby>[烏龍](../words/烏龍.md)<rt>ㄛㄌ⼄ㄫ</rt></ruby>: a black dragon — not to be confused with the identically-spelled tea name (烏龍茶, "oolong," an unrelated loanword-based compound).
 - <ruby>[玄武](../words/玄武.md)<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby>: the Black Tortoise, one of the Four Symbols of Chinese constellations — a tortoise entwined with a snake, guardian of the north.

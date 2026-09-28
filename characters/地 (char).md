@@ -51,7 +51,7 @@ boundedness: 90
 - <ruby>[[地]]<rt>ㄉㄧㄜ</rt></ruby> "land" (stand-in for 地)
 - <ruby>[[土地]]<rt>ㄊㄛㄉㄧㄜ</rt></ruby> "ground; land; soil"
 - <ruby>[[地方]]<rt>ㄉㄧㄜㄈㄚㄫ</rt></ruby> "region; territory"
-- <ruby>[[地域]]<rt>ㄉㄧㄜ·ㄨㄧㄎ</rt></ruby> "district; region; locality"
+- <ruby>[[地域]]<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby> "district; region; locality"
 - <ruby>[[地球]]<rt>ㄉㄧㄜㄍ⼜</rt></ruby> "earth; globe; world"
 - <ruby>[[地球儀]]<rt>ㄉㄧㄜㄍ⼜ㄜㄧ</rt></ruby> "globe; model earth"
 - <ruby>[[地図]]<rt>ㄉㄧㄜㄉㄛ</rt></ruby> "map"
@@ -93,7 +93,7 @@ boundedness: 90
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 - <ruby>[[乳蜜流地]]<rt>ㄋㄨㄇㄧㄊㄌ·ㄨㄉㄧㄜ</rt></ruby> "a land flowing with milk and honey"
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
-- <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜ·ㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
+- <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
 
 ## Derived Characters
 - <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby> "another; additional"

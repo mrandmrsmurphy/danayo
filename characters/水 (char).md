@@ -45,7 +45,7 @@ boundedness: 80
 - [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
 - 124th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄙㄨ](syllables/ㄙㄨ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
-- abbreviation for "mercury": <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby>
+- abbreviation for "mercury": <ruby>[[水銀]]<rt>ㄙㄨㄧㄋ</rt></ruby>
 
 ## Words
 - <ruby>[[水]]<rt>ㄙㄨ</rt></ruby> "water" (stand-in for 水)
@@ -64,7 +64,7 @@ boundedness: 80
 - <ruby>[[符水]]<rt>ㄅㄨㄙㄨ</rt></ruby> "magic water; charmed water"
 - <ruby>[[水族館]]<rt>ㄙㄨㄐㄛㄎㄍ⺢ㄋ</rt></ruby> "aquarium"
 - <ruby>[[流水]]<rt>ㄌ⼜ㄙㄨ</rt></ruby> "flowing water; inevitable events"
-- <ruby>[[水泳]]<rt>ㄙㄨ·ㄨㄧㄫ</rt></ruby> "swimming"
+- <ruby>[[水泳]]<rt>ㄙㄨㄨㄧㄫ</rt></ruby> "swimming"
 - <ruby>[[風水]]<rt>ㄈㄨㄫㄙㄨ</rt></ruby> "feng shui"
 - <ruby>[[汽水]]<rt>ㄎㄧㄜㄙㄨ</rt></ruby> "brackish water"
 - <ruby>[[排水溝]]<rt>ㄆㄚㄧㄙㄨㄍㄛㄨ</rt></ruby> "gutter; culvert"
@@ -75,8 +75,8 @@ boundedness: 80
 - <ruby>[[水原]]<rt>ㄙㄨ⼔ㄋ</rt></ruby> "Suwon; Mizuhara"
 - <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"
 - <ruby>[[水晶]]<rt>ㄙㄨㄐㄧㄫ</rt></ruby> "rock crystal; quartz crystal"
-- <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby> "quicksilver; mercury"
-- <ruby>[[水曜日]]<rt>ㄙㄨ·⼄ㄨㄋㄧㄊ</rt></ruby> "Wednesday"
+- <ruby>[[水銀]]<rt>ㄙㄨㄧㄋ</rt></ruby> "quicksilver; mercury"
+- <ruby>[[水曜日]]<rt>ㄙㄨ⼄ㄨㄋㄧㄊ</rt></ruby> "Wednesday"
 - <ruby>[[界水]]<rt>ㄍ⼶ㄙㄨ</rt></ruby> "water boundary"
 - <ruby>[[水稲]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "rice grown in a paddy"
 - <ruby>[[洪水]]<rt>ㄏㄛㄫㄙㄨ</rt></ruby> "flood"

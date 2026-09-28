@@ -53,15 +53,15 @@ boundedness: 90
 - <ruby>[[雨傘]]<rt>ㄨㄙㄚㄋ</rt></ruby> "umbrella"
 - <ruby>[[雨中]]<rt>ㄨㄐㄨㄫ</rt></ruby> "in the rain"
 - <ruby>[[小雨]]<rt>ㄙㄛㄨ</rt></ruby> "light rain; drizzle"
-- <ruby>[[俄雨]]<rt>ㄚ·ㄨ</rt></ruby> "rain shower"
+- <ruby>[[俄雨]]<rt>ㄚㄨ</rt></ruby> "rain shower"
 - <ruby>[[林雨]]<rt>ㄌㄧㄇ·ㄨ</rt></ruby> "big rain"
 - <ruby>[[梅雨]]<rt>ㄇㄛㄧㄨ</rt></ruby> "East Asian rainy season; summer rain"
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail"
-- <ruby>[[驟雨]]<rt>ㄙㄚㄨ·ㄨ</rt></ruby> "sudden rain shower; downpour"
+- <ruby>[[驟雨]]<rt>ㄙㄚㄨㄨ</rt></ruby> "sudden rain shower; downpour"
 
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
-- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧ·ㄨㄑㄨㄛㄇ⼜</rt></ruby> "to prepare in advance, before trouble arises"
+- <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧㄨㄑㄨㄛㄇ⼜</rt></ruby> "to prepare in advance, before trouble arises"
 
 ## Derived Characters
 - <ruby>[[需]]<rt>ㄙㄨ</rt></ruby> "need"

@@ -51,4 +51,4 @@ boundedness: 100
 
 ## Words
 - <ruby>[[片]]<rt>ㄆㄝㄋ</rt></ruby> "slice; flake" (stand-in for 片)
-- <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚㄇㄧㄫ</rt></ruby> "katakana"
+- <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby> "katakana"

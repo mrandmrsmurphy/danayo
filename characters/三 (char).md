@@ -50,7 +50,7 @@ boundedness: 75
 - <ruby>[[三十]]<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> "thirty"
 - <ruby>[[三国]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "Three Kingdoms; three countries"
 - <ruby>[[三叉]]<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby> "trident"
-- <ruby>[[三月]]<rt>ㄙㄚㄇ·⼔ㄊ</rt></ruby> "March"
+- <ruby>[[三月]]<rt>ㄙㄚㄇ⼔ㄊ</rt></ruby> "March"
 - <ruby>[[三日]]<rt>ㄙㄚㄇㄋㄧㄊ</rt></ruby> "third day of the month"
 - <ruby>[[三十日]]<rt>ㄙㄚㄇㄙㄧㄆㄋㄧㄊ</rt></ruby> "thirtieth day of the month"
 - <ruby>[[十三日]]<rt>ㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "thirteenth day of the month"
@@ -64,9 +64,9 @@ boundedness: 75
 - <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "triangle"
 - <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby> "trigonometry"
 - <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> "triangle"
-- <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧ·ㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
+- <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
 
 ## Chengyu
-- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫ·ㄛㄙ⼘ㄫ</rt></ruby> "three cardinal guides and five constant virtues"
+- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three cardinal guides and five constant virtues"
 - <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"

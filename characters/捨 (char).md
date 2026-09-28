@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-09
 
 ## Words
 - <ruby>[[捨]]<rt>ㄙ⼘</rt></ruby> "throw away, discard" (stand-in for 捨)
-- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"

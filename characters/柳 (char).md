@@ -48,4 +48,4 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[楊柳]]<rt>⼘ㄫ·ㄌ⼜</rt></ruby> "willow tree"
+- <ruby>[[楊柳]]<rt>⼘ㄫㄌ⼜</rt></ruby> "willow tree"

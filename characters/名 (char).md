@@ -59,11 +59,11 @@ boundedness: 90
 - <ruby>[[無名]]<rt>ㄇㄜ·ㄇㄧㄫ</rt></ruby> "namelessness; be anonymous"
 - <ruby>[[名誉]]<rt>ㄇㄧㄫ⼄</rt></ruby> "honor; reputation"
 - <ruby>[[名刺]]<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby> "business card"
-- <ruby>[[名媛]]<rt>ㄇㄧㄫ·ㄛㄋ</rt></ruby> "famous woman"
+- <ruby>[[名媛]]<rt>ㄇㄧㄫㄛㄋ</rt></ruby> "famous woman"
 - <ruby>[[名詞]]<rt>ㄇㄧㄫㄙㄚ</rt></ruby> "noun"
 - <ruby>[[代名詞]]<rt>ㄉㄚㄧㄇㄧㄫㄙㄚ</rt></ruby> "pronoun"
 - <ruby>[[無名指]]<rt>ㄇㄜ·ㄇㄧㄫㄐㄧㄜ</rt></ruby> "ring finger; fourth toe"
-- <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚㄇㄧㄫ</rt></ruby> "katakana"
+- <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby> "katakana"
 - <ruby>[[此名]]<rt>ㄑㄜ·ㄇㄧㄫ</rt></ruby> "this person (polite)"
 - <ruby>[[其名]]<rt>ㄍㄜ·ㄇㄧㄫ</rt></ruby> "he (polite); she (polite); that person (polite)"
 - <ruby>[[彼名]]<rt>ㄅㄜ·ㄇㄧㄫ</rt></ruby> "that person (polite, distal)"
@@ -74,7 +74,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[勿妄称名]]<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> "Do not take the name in vain"
-- <ruby>[[義以立名]]<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"
+- <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"
 
 ## Derived Characters
 - <ruby>[[酩]]<rt>ㄇㄝㄫ</rt></ruby> "drunk; intoxicated"

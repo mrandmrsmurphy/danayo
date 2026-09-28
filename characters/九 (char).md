@@ -50,7 +50,7 @@ boundedness: 75
 - <ruby>[[九]]<rt>ㄎ⼜</rt></ruby> "nine" (stand-in for 九)
 - <ruby>[[九数]]<rt>ㄎ⼜ㄙㄨ</rt></ruby> "the Nine Numbers"
 - <ruby>[[九龍]]<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby> "Kowloon; the Mekong Delta (Vietnamese Cửu Long)"
-- <ruby>[[九月]]<rt>ㄎ⼜·⼔ㄊ</rt></ruby> "September"
+- <ruby>[[九月]]<rt>ㄎ⼜⼔ㄊ</rt></ruby> "September"
 - <ruby>[[九九]]<rt>ㄎ⼜·ㄎ⼜</rt></ruby> "times table; multiplication table"
 - <ruby>[[九日]]<rt>ㄎ⼜·ㄋㄧㄊ</rt></ruby> "ninth day"
 - <ruby>[[九泉]]<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby> "the netherworld; the Nine Springs"

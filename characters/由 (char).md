@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[因由]]<rt>ㄧㄋ·⼜ㄛ</rt></ruby> "reason; cause"
 
 ## Chengyu
-- <ruby>[[自由自在]]<rt>ㄐㄧㄜ·⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
+- <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
 
 ## Derived Characters
 - <ruby>[[油 (char)|油]]<rt>⼜</rt></ruby> "oil"

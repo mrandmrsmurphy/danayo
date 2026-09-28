@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[芝草]]<rt>ㄐㄧㄑㄚㄨ</rt></ruby> "grass; lingzhi mushroom"
 - <ruby>[[草亀]]<rt>ㄑㄚㄨㄍㄨㄛ</rt></ruby> "Chinese pond turtle"
 - <ruby>[[草木]]<rt>ㄑㄚㄨㄇㄛㄎ</rt></ruby> "greenery, plants, vegetation"
-- <ruby>[[草原]]<rt>ㄑㄚㄨ·⼔ㄋ</rt></ruby> "grassland, prairie, steppe"
+- <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby> "grassland, prairie, steppe"
 - <ruby>[[艾草]]<rt>ㄚㄧㄑㄚㄨ</rt></ruby> "mugwort"
 - <ruby>[[海草]]<rt>ㄏㄚㄧㄑㄚㄨ</rt></ruby> "seagrass"
 - <ruby>[[茅草]]<rt>ㄇ⼘ㄨㄑㄚㄨ</rt></ruby> "cogon grass; thatch"

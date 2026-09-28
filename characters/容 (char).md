@@ -60,8 +60,8 @@ boundedness: 90
 ## Words
 - <ruby>[[容]]<rt>⼄ㄫ</rt></ruby> "look; appearance; form; figure" (stand-in for 容)
 - <ruby>[[内容]]<rt>ㄋㄛㄧ⼄ㄫ</rt></ruby> "content; substance"
-- <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby> "easy; simple"
-- <ruby>[[容恕]]<rt>⼄ㄫ·ㄙ⼄</rt></ruby> "to forgive"
+- <ruby>[[容易]]<rt>⼄ㄫ⼶ㄎ</rt></ruby> "easy; simple"
+- <ruby>[[容恕]]<rt>⼄ㄫㄙ⼄</rt></ruby> "to forgive"
 - <ruby>[[容量]]<rt>⼄ㄫㄌ⼘ㄫ</rt></ruby> "volume; capacity"
 - <ruby>[[容器]]<rt>⼄ㄫㄎㄧㄜ</rt></ruby> "vessel; container"
 - <ruby>[[形容詞]]<rt>ㄏㄝㄫ⼄ㄫㄙㄚ</rt></ruby> "adjective"

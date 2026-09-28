@@ -8,7 +8,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Numbers
 	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄫ</rt></ruby>
 	- half - <ruby>[一半](words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>
-	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby>
+	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby>
 	- six - <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>
 	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>
 	- eight - <ruby>[八](/words/八.md)<rt>ㄅㄚㄊ</rt></ruby>
@@ -22,7 +22,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> , ugly - <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby>
 * fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>
-* first - <ruby>[[第一]]<rt>ㄉㄝㄧ·ㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
+* first - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
 * smart - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
@@ -48,7 +48,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- crazy - <ruby>[[風狂]]<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby>
 - Character :
 	- careful - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby>
-	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫ·ㄨㄋ</rt></ruby>
+	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫㄨㄋ</rt></ruby>
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
 	- sick(ness) - <ruby>[[疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> *("disease," — see [[生病]] for the verb "to get sick")*
@@ -65,7 +65,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- strange - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 - Abstractions :
 	- funny - <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby>
-	- easy - <ruby>[[容易]]<rt>⼄ㄫ·⼶ㄎ</rt></ruby>
+	- easy - <ruby>[[容易]]<rt>⼄ㄫ⼶ㄎ</rt></ruby>
 	- difficult - <ruby>[[困難]]<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>
 	- alone - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>
 	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
@@ -172,7 +172,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- class *(needs a word — [[等級]] "grade, ranking" is a false friend, not a school class)*
 	- lesson - <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby>
 	- teacher - <ruby>[[教師]]<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>
-	- test - <ruby>[[試験]]<rt>ㄙㄧ·ㄝㄇ</rt></ruby>
+	- test - <ruby>[[試験]]<rt>ㄙㄧㄝㄇ</rt></ruby>
 - Dining :
 	- food - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>
 	- lunch - <ruby>[[午餐]]<rt>ㄛㄑㄚㄋ</rt></ruby>
@@ -260,7 +260,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- wake *(needs a word)*
 	- dream - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby>
 	- cook - <ruby>[[炊]]<rt>ㄑㄨㄧ</rt></ruby>
-	- use - <ruby>[[使用]]<rt>ㄙㄧ·⼄ㄫ</rt></ruby>
+	- use - <ruby>[[使用]]<rt>ㄙㄧ⼄ㄫ</rt></ruby>
 	- grow - <ruby>[[栽培]]<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>
 - Writing :
 	- write *(needs a word)*
@@ -283,7 +283,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>
 	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby>
 	- expect *(needs a word)*
-	- remember - <ruby>[[記憶]]<rt>ㄍㄧ·ㄧㄎ</rt></ruby>
+	- remember - <ruby>[[記憶]]<rt>ㄍㄧㄧㄎ</rt></ruby>
 	- forget - <ruby>[[忘却]]<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>
 - Emotions :
 	- hope - <ruby>[[希望]]<rt>ㄏㄧㄜㄇㄚㄫ</rt></ruby>
@@ -625,7 +625,7 @@ _These are for place names, not the words themselves_
 	- savannah
 	- meadow - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>
 	- field
-	- prairie - <ruby>[[草原]]<rt>ㄑㄚㄨ·⼔ㄋ</rt></ruby>
+	- prairie - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>
 - Forest :
 	- forest/woods - [[森]]
 	- grove/copse - [[林 ]]
@@ -645,7 +645,7 @@ _These are for place names, not the words themselves_
 	- marsh - <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
 	- swamp - <ruby>[[沼沢]]<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>
 	- desert - <ruby>[[沙漠]]<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>
-	- wilderness - <ruby>[[広野]]<rt>ㄍ⺢ㄫ·⼘</rt></ruby>
+	- wilderness - <ruby>[[広野]]<rt>ㄍ⺢ㄫ⼘</rt></ruby>
 	- jungle - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>
 - Rivers :
 	- river - [[川]]

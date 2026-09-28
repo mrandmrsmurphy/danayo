@@ -53,6 +53,6 @@ date-last-perfect: 2026-08-09
 - <ruby>[[暦]]<rt>ㄌㄝㄎ</rt></ruby> "calendar, almanac" (stand-in for 暦)
 - <ruby>[[暦数]]<rt>ㄌㄝㄎㄙㄨ</rt></ruby> "calendar system"
 - <ruby>[[太陽暦]]<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "solar calendar"
-- <ruby>[[太陰暦]]<rt>ㄊㄚㄧ·ㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
-- <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
+- <ruby>[[太陰暦]]<rt>ㄊㄚㄧㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
+- <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
 - <ruby>[[陰暦年]]<rt>ㄧㄇㄌㄝㄎㄋㄝㄋ</rt></ruby> "lunar year"

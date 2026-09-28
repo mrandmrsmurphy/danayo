@@ -55,8 +55,8 @@ boundedness: 80
 - <ruby>[[銀河]]<rt>ㄧㄋㄏㄚ</rt></ruby> "Milky Way"
 - <ruby>[[銀色]]<rt>ㄧㄋㄙㄧㄎ</rt></ruby> "silver"
 - <ruby>[[銀行]]<rt>ㄧㄋㄏㄚㄫ</rt></ruby> "bank"
-- <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby> "quicksilver, mercury"
-- <ruby>[[軽銀]]<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby> "aluminium"
+- <ruby>[[水銀]]<rt>ㄙㄨㄧㄋ</rt></ruby> "quicksilver, mercury"
+- <ruby>[[軽銀]]<rt>ㄎㄧㄫㄧㄋ</rt></ruby> "aluminium"
 - <ruby>[[銀河系]]<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby> "Milky Way galaxy"
 
 ## Chengyu

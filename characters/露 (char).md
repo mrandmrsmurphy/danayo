@@ -52,6 +52,6 @@ boundedness: 100
 - <ruby>[[露月]]<rt>ㄌㄛ⼔ㄊ</rt></ruby> "dew month (10th month)"
 - <ruby>[[露国]]<rt>ㄌㄛㄍㄛㄎ</rt></ruby> "Russia"
 - <ruby>[[露金]]<rt>ㄌㄛㄍㄧㄇ</rt></ruby> "ruthenium"
-- <ruby>[[露語]]<rt>ㄌㄛ·⼄</rt></ruby> "Russian language"
-- <ruby>[[露斯亜]]<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby> "Russia"
+- <ruby>[[露語]]<rt>ㄌㄛ⼄</rt></ruby> "Russian language"
+- <ruby>[[露斯亜]]<rt>ㄌㄛㄙㄧㄚ</rt></ruby> "Russia"
 - <ruby>[[露斯亜語]]<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby> "Russian language"

@@ -77,7 +77,7 @@ Rosenfelder terms with no Dan'a'yo word yet: to open, to pack, a pocket, a cage,
 ## Advanced / Specialized (C1+)
 
 - <ruby>[肥桶](../words/肥桶.md)<rt>ㄅㄨㄧㄊㄛㄫ</rt></ruby>: a night-soil bucket, manure barrel.
-- <ruby>[制御](../words/制御.md)<rt>ㄐㄝㄧ·⼄</rt></ruby>: to control, contain, dominate — a more abstract sense of "contain" than [[包含]].
+- <ruby>[制御](../words/制御.md)<rt>ㄐㄝㄧ⼄</rt></ruby>: to control, contain, dominate — a more abstract sense of "contain" than [[包含]].
 
 ## Semantic Range Notes
 

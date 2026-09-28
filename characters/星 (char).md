@@ -68,7 +68,7 @@ boundedness: 80
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
-- <ruby>[[冥王星]]<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
+- <ruby>[[冥王星]]<rt>ㄇㄝㄫ⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet, Singapore"
 - <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛ·ㄎㄧ</rt></ruby> "stars and stripes"
 - <ruby>[[星霜]]<rt>ㄙㄝㄫㄙ⺢ㄫ</rt></ruby> "time and years"
@@ -79,12 +79,12 @@ boundedness: 80
 - <ruby>[[星坐]]<rt>ㄙㄝㄫㄐ⺢</rt></ruby> "constellation"
 - <ruby>[[天狼星]]<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> "Sirius, Dog Star"
 - <ruby>[[小行星]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby> "asteroid"
-- <ruby>[[海王星]]<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby> "Neptune"
+- <ruby>[[海王星]]<rt>ㄏㄚㄧ⺢ㄫㄙㄝㄫ</rt></ruby> "Neptune"
 - <ruby>[[織女星]]<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby> "Vega"
-- <ruby>[[天王星]]<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
+- <ruby>[[天王星]]<rt>ㄊㄝㄋ⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
 
 ## Chengyu
-- <ruby>[[日月星辰]]<rt>ㄋㄧㄊ·⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"
+- <ruby>[[日月星辰]]<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"
 
 ## Derived Characters
 - <ruby>[[猩]]<rt>ㄙㄝㄫ</rt></ruby> "orangutan"

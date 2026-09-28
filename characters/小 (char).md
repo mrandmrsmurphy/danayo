@@ -65,7 +65,7 @@ boundedness: 80
 - <ruby>[[小鼠]]<rt>ㄙㄛㄙ⼄</rt></ruby> "mouse"
 - <ruby>[[微小]]<rt>ㄇㄨㄧㄙㄛ</rt></ruby> "tiny; minute; microscopic"
 ## Chengyu
-- <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛ·ㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
+- <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
 
 ## Derived Characters

@@ -71,7 +71,7 @@ boundedness:
 - <ruby>[[楽経]]<rt>ㄌㄚㄎㄍㄝㄫ</rt></ruby> "Classic of Music"
 - <ruby>[[九経]]<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby> "the Nine Classics"
 - <ruby>[[五経]]<rt>ㄛㄍㄝㄫ</rt></ruby> "Five Classics"
-- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
+- <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
 - <ruby>[[麟経]]<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby> "the Spring and Autumn Annals (alternative name)"
 
 ## Chengyu

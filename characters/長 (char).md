@@ -61,7 +61,7 @@ boundedness: 75
 ## Words
 - <ruby>[[長]]<rt>ㄐㄚㄫ</rt></ruby> "long" (stand-in for 長)
 - <ruby>[[伸長]]<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby> "extend, stretch"
-- <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby> "fang; tusk"
+- <ruby>[[長牙]]<rt>ㄐㄚㄫㄚ</rt></ruby> "fang; tusk"
 - <ruby>[[長矛]]<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby> "spear; lance"
 - <ruby>[[長期]]<rt>ㄐㄚㄫㄎㄧ</rt></ruby> "long time"
 - <ruby>[[長上]]<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby> "elder, superior"
@@ -78,7 +78,7 @@ boundedness: 75
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
-- <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
+- <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"
 
 ## Derived Characters

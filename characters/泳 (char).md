@@ -50,4 +50,4 @@ boundedness: 75
 
 ## Words
 - <ruby>[[泳]]<rt>ㄨㄧㄫ</rt></ruby> "swim" (stand-in for 泳)
-- <ruby>[[水泳]]<rt>ㄙㄨ·ㄨㄧㄫ</rt></ruby> "swimming"
+- <ruby>[[水泳]]<rt>ㄙㄨㄨㄧㄫ</rt></ruby> "swimming"

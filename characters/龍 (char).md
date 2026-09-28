@@ -72,8 +72,8 @@ boundedness: 70
 - <ruby>[[烏龍麺]]<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby> "udon noodles"
 - <ruby>[[龍巻]]<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby> "tornado"
 - <ruby>[[龍断]]<rt>ㄌ⼄ㄫㄉ⺢ㄋ</rt></ruby> "to monopolize (壟斷)"
-- <ruby>[[龍王]]<rt>ㄌ⼄ㄫ·⺢ㄫ</rt></ruby> "Dragon King"
-- <ruby>[[龍眼]]<rt>ㄌ⼄ㄫ·ㄚㄋ</rt></ruby> "longan"
+- <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
+- <ruby>[[龍眼]]<rt>ㄌ⼄ㄫㄚㄋ</rt></ruby> "longan"
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches"

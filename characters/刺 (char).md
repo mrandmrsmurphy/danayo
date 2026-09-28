@@ -56,7 +56,7 @@ boundedness: 90
 - Also attested in Middle Chinese as tsʰiᴇ, an alternate reading alongside the departing-tone form used for the Dan'a'yo derivation.
 
 ## Words
-- <ruby>[[刺客]]<rt>ㄑㄧㄎ·ㄎㄚㄎ</rt></ruby> "assassin"
+- <ruby>[[刺客]]<rt>ㄑㄧㄎㄎㄚㄎ</rt></ruby> "assassin"
 - <ruby>[[刺激]]<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby> "provoke; irritate"
 - <ruby>[[刺身]]<rt>ㄑㄧㄎㄙㄧㄋ</rt></ruby> "sashimi"
 - <ruby>[[名刺]]<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby> "business card"

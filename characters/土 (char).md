@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[土地]]<rt>ㄊㄛㄉㄧㄜ</rt></ruby> "ground; land"
 - <ruby>[[土肥]]<rt>ㄊㄛㄅㄨㄧ</rt></ruby> "farmyard manure; soil fertilizer"
 - <ruby>[[苦土]]<rt>ㄎㄛ·ㄊㄛ</rt></ruby> "magnesia; magnesium oxide"
-- <ruby>[[土曜日]]<rt>ㄊㄛ·⼄ㄨㄋㄧㄊ</rt></ruby> "Saturday"
+- <ruby>[[土曜日]]<rt>ㄊㄛ⼄ㄨㄋㄧㄊ</rt></ruby> "Saturday"
 - <ruby>[[苦土素]]<rt>ㄎㄛ·ㄊㄛㄙㄛ</rt></ruby> "magnesium"
 - <ruby>[[土著]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
 

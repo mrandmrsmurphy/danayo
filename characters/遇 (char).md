@@ -51,7 +51,7 @@ boundedness: 30
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[遭遇]]<rt>ㄐㄚㄨ·ㄨ</rt></ruby> "encounter"
+- <ruby>[[遭遇]]<rt>ㄐㄚㄨㄨ</rt></ruby> "encounter"
 
 ## Derived Characters
 - <ruby>[[愚 (char)|愚]]<rt>ㄨ</rt></ruby> "foolish"

@@ -66,7 +66,7 @@ boundedness: 90
 - <ruby>[[火紅素]]<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby> "strontium"
 - <ruby>[[放火]]<rt>ㄅㄚㄫㄏ⺢</rt></ruby> "set on fire; arson"
 - <ruby>[[防火]]<rt>ㄅㄚㄫㄏ⺢</rt></ruby> "fire prevention; fireproofing"
-- <ruby>[[火曜日]]<rt>ㄏ⺢·⼄ㄨㄋㄧㄊ</rt></ruby> "Tuesday"
+- <ruby>[[火曜日]]<rt>ㄏ⺢⼄ㄨㄋㄧㄊ</rt></ruby> "Tuesday"
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash; in the blink of an eye"

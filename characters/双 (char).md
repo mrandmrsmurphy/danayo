@@ -60,6 +60,6 @@ boundedness: 90
 - <ruby>[[双曲線]]<rt>ㄙ⺢ㄫㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby> "hyperbola"
 - <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree, shala"
-- <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫ·ㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
+- <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"

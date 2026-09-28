@@ -51,5 +51,5 @@ date-last-perfect: 2026-09-06
 ## Words
 - <ruby>[[鉛]]<rt>⼶ㄋ</rt></ruby> "lead" (stand-in for 鉛 (char))
 - <ruby>[[鉛筆]]<rt>⼶ㄋㄆㄨㄊ</rt></ruby> "pencil"
-- <ruby>[[亜鉛]]<rt>ㄚ·⼶ㄋ</rt></ruby> "zinc"
-- <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby> "bismuth"
+- <ruby>[[亜鉛]]<rt>ㄚ⼶ㄋ</rt></ruby> "zinc"
+- <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ⼶ㄋ</rt></ruby> "bismuth"

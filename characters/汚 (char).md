@@ -57,9 +57,9 @@ boundedness:
 - <ruby>[[汚]]<rt>ㄛ</rt></ruby> "dirty" (stand-in for 汚)
 - <ruby>[[汚染]]<rt>ㄛ·ㄋ⼄ㄇ</rt></ruby> "pollute, contaminate"
 - <ruby>[[汚物]]<rt>ㄛ·ㄇㄨㄊ</rt></ruby> "dirt, filth, garbage"
-- <ruby>[[汚穢]]<rt>ㄛ·ㄝ</rt></ruby> "filthy, filth"
+- <ruby>[[汚穢]]<rt>ㄛㄝ</rt></ruby> "filthy, filth"
 - <ruby>[[汚吏]]<rt>ㄛㄌㄧ</rt></ruby> "corrupt official"
 - <ruby>[[汚垢]]<rt>ㄛㄍㄛㄨ</rt></ruby> "dirt, grime, filth" (aliases: 污垢/汙垢)
-- <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜ·ㄨㄋ</rt></ruby> "Oort Cloud"
+- <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
 ## Chengyu
 - <ruby>[[貪官汚吏]]<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> "corrupt official"

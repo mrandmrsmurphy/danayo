@@ -83,7 +83,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.
 - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
-- <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚ·ㄚㄎ</rt></ruby>: jaw/chin.
+- <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚㄚㄎ</rt></ruby>: jaw/chin.
 - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby>: beard/moustache — a single word spans both; Korean 수염, its everyday native gloss, does the same.
 - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>: bald.
 - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>: to shave.
@@ -162,7 +162,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[蹄](../words/蹄.md)<rt>ㄉㄝㄧ</rt></ruby>: hoof.
 - <ruby>[角](../words/角.md)<rt>ㄍㄛㄎ</rt></ruby>: horn.
 - <ruby>[鬣](../words/鬣.md)<rt>ㄌㄛㄆ</rt></ruby>: mane.
-- <ruby>[長牙](../words/長牙.md)<rt>ㄐㄚㄫ·ㄚ</rt></ruby>: tusk.
+- <ruby>[長牙](../words/長牙.md)<rt>ㄐㄚㄫㄚ</rt></ruby>: tusk.
 
 ### Physical Actions & Gestures
 

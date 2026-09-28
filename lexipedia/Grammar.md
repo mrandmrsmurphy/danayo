@@ -74,7 +74,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - self : 
 	- grammatical reflexive: <ruby>[自己](../words/自己.md)<rt>ㄐㄧㄜㄍㄧ</rt></ruby>
 	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>
-	- ego: <ruby>[自我](../words/自我.md)<rt>ㄐㄧㄜ·ㄚ</rt></ruby>
+	- ego: <ruby>[自我](../words/自我.md)<rt>ㄐㄧㄜㄚ</rt></ruby>
 - pronoun (general term) : <ruby>[代名詞](../words/代名詞.md)<rt>ㄉㄚㄧㄇㄧㄫㄙㄚ</rt></ruby>, <ruby>[代詞](../words/代詞.md)<rt>ㄉㄚㄧㄙㄚ</rt></ruby>
 - everyone : <ruby>[人人](../words/人人.md)<rt>ㄋㄧㄋㄋㄧㄋ</rt></ruby> — reduplicated 人 "person."
 - persons, et al. (formal/classical collective plural, "the persons concerned; of that class") : <ruby>[人等](../words/人等.md)<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> — same 等-suffix pattern as [[我等]]/[[君等]]/[[其人等]] above.
@@ -83,7 +83,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - when : <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
 - where : <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby>
 - who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby>
-- how : <ruby>[如何](../words/如何.md)<rt>ㄋ⼄ㄏㄚ</rt></ruby>, <ruby>[甚様](../words/甚様.md)<rt>ㄙㄧㄇ⼘ㄫ</rt></ruby> (what manner, of what sort)
+- how : <ruby>[如何](../words/如何.md)<rt>ㄋ⼄ㄏㄚ</rt></ruby>, <ruby>[甚様](../words/甚様.md)<rt>ㄙㄧㄇ·⼘ㄫ</rt></ruby> (what manner, of what sort)
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
 - whether, why, which: not yet coined.
 
@@ -156,7 +156,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄆㄚㄆ</rt></ruby>
-- dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫ·ㄝㄋ</rt></ruby>
+- dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - gender, form: not yet coined.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
@@ -180,18 +180,18 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[単字](../words/単字.md)<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character, single-character word"
 - <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby> "word, vocabulary item"
 - <ruby>[字形](../words/字形.md)<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph, character shape, graphic form"
-- <ruby>[字源](../words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
+- <ruby>[字源](../words/字源.md)<rt>ㄐㄧ⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
 - <ruby>[字庫](../words/字庫.md)<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library, character/glyph repository"
 - <ruby>[識字](../words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> "literacy, know how to read"
-- <ruby>[拼音](../words/拼音.md)<rt>ㄅㄚㄫ·ㄨㄇ</rt></ruby> "pinyin, phonetic spelling"
-- <ruby>[注音](../words/注音.md)<rt>ㄐㄨ·ㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
+- <ruby>[拼音](../words/拼音.md)<rt>ㄅㄚㄫㄨㄇ</rt></ruby> "pinyin, phonetic spelling"
+- <ruby>[注音](../words/注音.md)<rt>ㄐㄨㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
 - <ruby>[部首](../words/部首.md)<rt>ㄅㄛㄨㄙ⼜</rt></ruby> "radical"
 - <ruby>[表記](../words/表記.md)<rt>ㄅ⼘ㄨㄍㄧ</rt></ruby> "notation, orthography, written representation"
 - <ruby>[符号](../words/符号.md)<rt>ㄅㄨㄏㄚㄨ</rt></ruby> "symbol, mark, sign"
 - <ruby>[句号](../words/句号.md)<rt>ㄍㄨㄏㄚㄨ</rt></ruby> "period, full stop"
 - <ruby>[句点](../words/句点.md)<rt>ㄍㄨㄉㄝㄇ</rt></ruby> "full stop, period"
 - <ruby>[読点](../words/読点.md)<rt>ㄉㄛㄎㄉㄝㄇ</rt></ruby> "comma (Asian)"
-- <ruby>[略語](../words/略語.md)<rt>ㄌ⼘ㄎ⼄</rt></ruby> "abbreviation"
+- <ruby>[略語](../words/略語.md)<rt>ㄌ⼘ㄎ·⼄</rt></ruby> "abbreviation"
 - <ruby>[接尾辞](../words/接尾辞.md)<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"
 
 ## Six Writings (六書)
@@ -224,11 +224,11 @@ The traditional classification of Chinese character formation.
 - <ruby>[語彙](../words/語彙.md)<rt>⼄ㄏㄨ</rt></ruby> "lexicon"
 - <ruby>[語感](../words/語感.md)<rt>⼄ㄍㄚㄇ</rt></ruby> "sprachgefühl, one's intuitive sense of a language"
 - <ruby>[語族](../words/語族.md)<rt>⼄ㄐㄛㄎ</rt></ruby> "language family"
-- <ruby>[語用](../words/語用.md)<rt>⼄·⼄ㄫ</rt></ruby> "language usage"
+- <ruby>[語用](../words/語用.md)<rt>⼄⼄ㄫ</rt></ruby> "language usage"
 - <ruby>[諸語](../words/諸語.md)<rt>ㄐㄚ⼄</rt></ruby> "the various languages (of a family or region), sundry languages"
 - <ruby>[母語](../words/母語.md)<rt>ㄇㄛㄨ⼄</rt></ruby> "mother tongue, native language"
 - <ruby>[法語](../words/法語.md)<rt>ㄈㄚㄆ·⼄</rt></ruby> "French language, dharma speech, sermon"
-- <ruby>[四字成語](../words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> "four-character fixed expression, four-character idiom"
+- <ruby>[四字成語](../words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> "four-character fixed expression, four-character idiom"
 - <ruby>[成語](../words/成語.md)<rt>ㄙㄧㄫ⼄</rt></ruby> "chengyu, four-character sayings"
 - <ruby>[熟語](../words/熟語.md)<rt>ㄙㄨㄎ·⼄</rt></ruby> "idiom"
 - <ruby>[慣用句](../words/慣用句.md)<rt>ㄍ⺢ㄋ·⼄ㄫㄍㄨ</rt></ruby> "idiom, idiomatic phrase, set expression"
@@ -236,7 +236,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[句](../words/句.md)<rt>ㄍㄨ</rt></ruby> "phrase, sentence, stanza, paragraph, clause, pericope"
 - <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"
 - <ruby>[段](../words/段.md)<rt>ㄉ⺢ㄋ</rt></ruby> "segments, sections, passages"
-- <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ·⼄</rt></ruby> "to coin a word; a coinage, neologism"
+- <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ⼄</rt></ruby> "to coin a word; a coinage, neologism"
 
 ## Semantic Range Notes
 

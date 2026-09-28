@@ -68,4 +68,4 @@ date-last-perfect: 2026-09-16
 - <ruby>[[硼沙]]<rt>ㄅㄛㄫㄙㄚ</rt></ruby> "borax"
 - <ruby>[[加沙]]<rt>ㄎㄚㄙㄚ</rt></ruby> "kāṣāya (Buddhist robes)"
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree; shala; sakhua"
-- <ruby>[[沙悟浄]]<rt>ㄙㄚ·ㄛㄐㄝㄫ</rt></ruby> "Sha Wujing"
+- <ruby>[[沙悟浄]]<rt>ㄙㄚㄛㄐㄝㄫ</rt></ruby> "Sha Wujing"

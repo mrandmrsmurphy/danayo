@@ -55,7 +55,7 @@ boundedness: 90
 ## Words
 - <ruby>[[遠]]<rt>ㄛㄋ</rt></ruby> "far" (stand-in for 遠)
 - <ruby>[[永遠]]<rt>ㄨㄧㄫㄛㄋ</rt></ruby> "perpetual; eternal"
-- <ruby>[[遥遠]]<rt>⼄ㄨ·ㄛㄋ</rt></ruby> "distant; faraway"
+- <ruby>[[遥遠]]<rt>⼄ㄨㄛㄋ</rt></ruby> "distant; faraway"
 - <ruby>[[遠方]]<rt>ㄛㄋㄈㄚㄫ</rt></ruby> "distant place; far away location"
 
 ## Chengyu

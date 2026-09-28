@@ -99,7 +99,7 @@ boundedness: 80
 - <ruby>[[天文]]<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby> "celestial objects"
 - <ruby>[[天文学]]<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby> "astronomy"
 - <ruby>[[天干]]<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> "heavenly stems"
-- <ruby>[[天王星]]<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
+- <ruby>[[天王星]]<rt>ㄊㄝㄋ⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
 - <ruby>[[天狼星]]<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> "Sirius"
 - <ruby>[[天竺]]<rt>ㄊㄝㄋㄐㄨㄎ</rt></ruby> "India"
 - <ruby>[[天竺鼠]]<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby> "guinea pig"

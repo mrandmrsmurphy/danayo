@@ -20,14 +20,14 @@ tags:
 - <ruby>[文体並存](chengyu/文体並存.md)<rt>ㄇㄨㄋㄊㄝㄧㄅㄝㄫㄐㄛㄋ</rt></ruby> - Styles coexist
 - <ruby>[文言現代](chengyu/文言現代.md)<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> - Classical Chinese, Modern Day
 - <ruby>[文音共決](chengyu/文音共決.md)<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> - script and sound resolved together
-- <ruby>[東亜自通](chengyu/東亜自通.md)<rt>ㄉㄛㄫ·ㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> - East Asian self-communication
+- <ruby>[東亜自通](chengyu/東亜自通.md)<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> - East Asian self-communication
 - <ruby>[毎字明意](chengyu/毎字明意.md)<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> - Per Character Clear Meaning
 - <ruby>[異体不容](chengyu/異体不容.md)<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> - variant forms are not permitted
 - <ruby>[百家共承](chengyu/百家共承.md)<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> - Hundred schools jointly inherited
-- <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧ·ㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - names should be established by meaning
+- <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - names should be established by meaning
 - <ruby>[義重於音](chengyu/義重於音.md)<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> - Meaning is more important than sound
 - <ruby>[詞彙兼容](chengyu/詞彙兼容.md)<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> - The lexicon is capable of inclusion
-- <ruby>[選士唯賢](chengyu/選士唯賢.md)<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> - select candidates solely by worthiness; meritocracy as the sole basis of authority
+- <ruby>[選士唯賢](chengyu/選士唯賢.md)<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> - select candidates solely by worthiness; meritocracy as the sole basis of authority
 - <ruby>[鼠世桃源](chengyu/鼠世桃源.md)<rt>ㄙ⼄ㄙㄝㄉㄚㄨ⼔ㄋ</rt></ruby> - the rat-world's Peach Blossom Spring
 
 ## Base check

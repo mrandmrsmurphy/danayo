@@ -48,16 +48,16 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[年]]<rt>ㄋㄝㄋ</rt></ruby> "year" (stand-in for 年)
-- <ruby>[[元年]]<rt>⼔ㄋ·ㄋㄝㄋ</rt></ruby> "first year of an era"
-- <ruby>[[千年]]<rt>ㄑㄝㄋ·ㄋㄝㄋ</rt></ruby> "millennium; a thousand years"
-- <ruby>[[千年紀]]<rt>ㄑㄝㄋ·ㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
+- <ruby>[[元年]]<rt>⼔ㄋㄋㄝㄋ</rt></ruby> "first year of an era"
+- <ruby>[[千年]]<rt>ㄑㄝㄋㄋㄝㄋ</rt></ruby> "millennium; a thousand years"
+- <ruby>[[千年紀]]<rt>ㄑㄝㄋㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
 - <ruby>[[年刊]]<rt>ㄋㄝㄋㄎㄚㄋ</rt></ruby> "annual, annual publication"
 - <ruby>[[週年]]<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby> "anniversary"
 - <ruby>[[百年]]<rt>ㄅㄚㄎㄋㄝㄋ</rt></ruby> "a hundred years"
 - <ruby>[[万年]]<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby> "ten thousand years; eternity"
 - <ruby>[[前年]]<rt>ㄐㄝㄋㄋㄝㄋ</rt></ruby> "previous year"
 - <ruby>[[同年]]<rt>ㄉㄛㄫㄋㄝㄋ</rt></ruby> "same year; of the same year"
-- <ruby>[[太陰年]]<rt>ㄊㄚㄧ·ㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
+- <ruby>[[太陰年]]<rt>ㄊㄚㄧㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby> "youngster; boy"
 - <ruby>[[平年]]<rt>ㄅ⼶ㄫㄋㄝㄋ</rt></ruby> "common year; non-leap year"
 - <ruby>[[年中]]<rt>ㄋㄝㄋㄐㄨㄫ</rt></ruby> "middle of the year; throughout the year"

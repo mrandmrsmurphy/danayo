@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[袋]]<rt>ㄉㄚㄧ</rt></ruby> "sack, bag" (stand-in for 袋)
 - <ruby>[[袋鼠]]<rt>ㄉㄚㄧㄙ⼄</rt></ruby> "kangaroo"
 - <ruby>[[袋熊]]<rt>ㄉㄚㄧㄨㄫ</rt></ruby> "wombat"
-- <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧ·ㄨㄫ</rt></ruby> "koala"
+- <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby> "koala"

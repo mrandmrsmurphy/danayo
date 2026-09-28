@@ -52,7 +52,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[根]]<rt>ㄍㄜㄋ</rt></ruby> "root" (stand-in for 根)
-- <ruby>[[根源]]<rt>ㄍㄜㄋ·⼔ㄋ</rt></ruby> "root; source; origin"
+- <ruby>[[根源]]<rt>ㄍㄜㄋ⼔ㄋ</rt></ruby> "root; source; origin"
 - <ruby>[[根拠]]<rt>ㄍㄜㄋㄍ⼄</rt></ruby> "to be according to; to be based on"
 - <ruby>[[根本]]<rt>ㄍㄜㄋㄅㄛㄋ</rt></ruby> "basis, foundation, base"
 - <ruby>[[耳根]]<rt>ㄋㄧㄍㄜㄋ</rt></ruby> "root of the ear"

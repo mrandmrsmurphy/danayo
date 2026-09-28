@@ -57,7 +57,7 @@ boundedness:
 - <ruby>[[軽]]<rt>ㄎㄧㄫ</rt></ruby> "light; not heavy" (stand-in for 軽)
 - <ruby>[[軽歌劇]]<rt>ㄎㄧㄫㄍㄜㄍㄝㄎ</rt></ruby> "light opera, operetta"
 - <ruby>[[軽金属]]<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby> "light metals"
-- <ruby>[[軽銀]]<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby> "aluminium"
+- <ruby>[[軽銀]]<rt>ㄎㄧㄫㄧㄋ</rt></ruby> "aluminium"
 - <ruby>[[軽素]]<rt>ㄎㄧㄫㄙㄛ</rt></ruby> "hydrogen"
 - <ruby>[[軽罪]]<rt>ㄎㄧㄫㄐㄛㄧ</rt></ruby> "misdemeanor"
 - <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"

@@ -66,7 +66,7 @@ boundedness: 90
 - <ruby>[[籠球]]<rt>ㄌㄛㄫㄍ⼜</rt></ruby> "basketball"
 - <ruby>[[足球]]<rt>ㄐㄛㄎㄍ⼜</rt></ruby> "football"
 - <ruby>[[球場]]<rt>ㄍ⼜ㄐㄚㄫ</rt></ruby> "field, pitch, court"
-- <ruby>[[球体]]<rt>ㄍ⼜ㄊㄝㄧ</rt></ruby> "sphere"
+- <ruby>[[球体]]<rt>ㄍ⼜·ㄊㄝㄧ</rt></ruby> "sphere"
 
 ### Earth & Other
 - <ruby>[[地球]]<rt>ㄉㄧㄜㄍ⼜</rt></ruby> "earth, globe, world"

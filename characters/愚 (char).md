@@ -49,4 +49,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[愚]]<rt>ㄨ</rt></ruby> "foolish" (stand-in for 愚 (char))
-- <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"
+- <ruby>[[下愚]]<rt>ㄏㄚㄨ</rt></ruby> "those foolish from birth"

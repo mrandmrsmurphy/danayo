@@ -57,4 +57,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"
 - <ruby>[[簡略]]<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby> "brief; simplified; concise"
 - <ruby>[[侵略]]<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby> "invade"
-- <ruby>[[略語]]<rt>ㄌ⼘ㄎ⼄</rt></ruby> "abbreviation"
+- <ruby>[[略語]]<rt>ㄌ⼘ㄎ·⼄</rt></ruby> "abbreviation"

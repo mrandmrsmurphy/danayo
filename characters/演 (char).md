@@ -66,5 +66,5 @@ date-last-perfect: 2026-08-01
 - <ruby>[[演奏]]<rt>⼶ㄋㄙㄛㄨ</rt></ruby> "play (music)"
 - <ruby>[[出演]]<rt>ㄑㄨㄊ⼶ㄋ</rt></ruby> "appear (in a performance)"
 - <ruby>[[公演]]<rt>ㄍㄛㄫ⼶ㄋ</rt></ruby> "put on a public performance"
-- <ruby>[[講演]]<rt>ㄍㄚㄫ·⼶ㄋ</rt></ruby> "lecture, give a speech"
+- <ruby>[[講演]]<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby> "lecture, give a speech"
 - <ruby>[[導演]]<rt>ㄉㄚㄨ⼶ㄋ</rt></ruby> "direct; director"

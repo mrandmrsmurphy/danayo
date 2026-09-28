@@ -68,7 +68,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 - <ruby>[調査](../words/調査.md)<rt>ㄐㄨㄛㄐㄚ</rt></ruby>: to look into, to investigate.
 - <ruby>[検査](../words/検査.md)<rt>ㄍㄝㄇㄐㄚ</rt></ruby>: to inspect, examine, check.
-- <ruby>[試験](../words/試験.md)<rt>ㄙㄧ·ㄝㄇ</rt></ruby>: test, examine.
+- <ruby>[試験](../words/試験.md)<rt>ㄙㄧㄝㄇ</rt></ruby>: test, examine.
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze, analysis.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
@@ -86,7 +86,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[叙述](../words/叙述.md)<rt>ㄙ⼄ㄙㄨㄊ</rt></ruby>: to narrate, describe.
 - <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: argument, controversy, contention.
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to comment, discuss.
-- <ruby>[主意](../words/主意.md)<rt>ㄐㄨ·ㄜ</rt></ruby>: idea — literally "master idea," the one settled on.
+- <ruby>[主意](../words/主意.md)<rt>ㄐㄨㄜ</rt></ruby>: idea — literally "master idea," the one settled on.
 - <ruby>[題目](../words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby>: title, heading, topic.
 - <ruby>[情報](../words/情報.md)<rt>ㄑㄧㄫㄅㄚㄨ</rt></ruby>: information, intelligence.
 
@@ -98,7 +98,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
 - <ruby>[高校](../words/高校.md)<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby>: secondary school.
 - <ruby>[高考](../words/高考.md)<rt>ㄍㄚㄨㄎㄚㄨ</rt></ruby>: the higher exam (China's national university-entrance exam).
-- <ruby>[幼稚園](../words/幼稚園.md)<rt>⼜ㄛㄉㄧㄜ·ㄛㄋ</rt></ruby>: kindergarten, nursery school.
+- <ruby>[幼稚園](../words/幼稚園.md)<rt>⼜ㄛㄉㄧㄜㄛㄋ</rt></ruby>: kindergarten, nursery school.
 - <ruby>[学位](../words/学位.md)<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby>: academic degree.
 - <ruby>[学問](../words/学問.md)<rt>ㄏㄚㄎㄇㄨㄋ</rt></ruby>: scholarship, learning.
 - <ruby>[学者](../words/学者.md)<rt>ㄏㄚㄎㄑㄚ</rt></ruby>: scholar.
@@ -107,7 +107,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[校内](../words/校内.md)<rt>ㄏ⼘ㄨㄋㄛㄧ</rt></ruby>: on-campus, school interior.
 - <ruby>[校門](../words/校門.md)<rt>ㄏ⼘ㄨㄇㄛㄋ</rt></ruby>: school gate.
 - <ruby>[課](../words/課.md)<rt>ㄎ⺢ㄇ</rt></ruby>: lesson, chapter.
-- <ruby>[授業](../words/授業.md)<rt>ㄙ⼜·ㄝㄆ</rt></ruby>: to teach, instruct, give a lesson.
+- <ruby>[授業](../words/授業.md)<rt>ㄙ⼜ㄝㄆ</rt></ruby>: to teach, instruct, give a lesson.
 - <ruby>[予習](../words/予習.md)<rt>⼄ㄙㄜㄆ</rt></ruby>: to prepare for lessons ahead of time.
 - <ruby>[復習](../words/復習.md)<rt>ㄅㄨㄎㄙㄜㄆ</rt></ruby>: to revise, review lessons already covered.
 - <ruby>[勉強](../words/勉強.md)<rt>ㄇ⼶ㄋㄍ⼘ㄫ</rt></ruby>: to study (this compositional-looking word means "to force oneself" in Mandarin/Cantonese/Vietnamese but has narrowed to specifically "study" in Japanese — see Semantic Range Notes).
@@ -128,7 +128,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[学説](../words/学説.md)<rt>ㄏㄚㄎㄙ⼔ㄊ</rt></ruby>: theory, doctrine.
 - <ruby>[主義](../words/主義.md)<rt>ㄐㄨㄜㄧ</rt></ruby>: doctrine, "-ism" — the productive suffix behind 社会主義 "socialism," 資本主義 "capitalism."
 - <ruby>[理論](../words/理論.md)<rt>ㄌㄧㄌㄛㄋ</rt></ruby>: theory, thesis.
-- <ruby>[体育](../words/体育.md)<rt>ㄊㄝㄧ·⼜ㄎ</rt></ruby>: physical education.
+- <ruby>[体育](../words/体育.md)<rt>ㄊㄝㄧ⼜ㄎ</rt></ruby>: physical education.
 
 ### Classical & Literary Scholarship
 

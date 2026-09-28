@@ -65,12 +65,12 @@ boundedness:
 
 ### Manner adverbs
 - <ruby>[[忽然様]]<rt>ㄏㄛㄊㄋ⼶ㄋ·⼘ㄫ</rt></ruby> "suddenly"
-- <ruby>[[徐様]]<rt>ㄙ⼄·⼘ㄫ</rt></ruby> "slowly"
+- <ruby>[[徐様]]<rt>ㄙ⼄⼘ㄫ</rt></ruby> "slowly"
 - <ruby>[[速様]]<rt>ㄙㄛㄎ·⼘ㄫ</rt></ruby> "quickly"
 - <ruby>[[明様]]<rt>ㄇ⼶ㄫ⼘ㄫ</rt></ruby> "brightly, in a bright way"
-- <ruby>[[太様]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "greatly, exceedingly"
-- <ruby>[[甚様]]<rt>ㄙㄧㄇ⼘ㄫ</rt></ruby> "what manner, of what sort, how"
-- <ruby>[[予様]]<rt>⼄·⼘ㄫ</rt></ruby> "beforehand"
+- <ruby>[[太様]]<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> "greatly, exceedingly"
+- <ruby>[[甚様]]<rt>ㄙㄧㄇ·⼘ㄫ</rt></ruby> "what manner, of what sort, how"
+- <ruby>[[予様]]<rt>⼄⼘ㄫ</rt></ruby> "beforehand"
 - <ruby>[[有様]]<rt>⼜⼘ㄫ</rt></ruby> "forebearingly, calmly (dated)"
 
 ### Other

@@ -35,13 +35,13 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 
 ### Alloys & Related Metals
 
-- <ruby>[亜鉛](../words/亜鉛.md)<rt>ㄚ·⼶ㄋ</rt></ruby>: zinc.
+- <ruby>[亜鉛](../words/亜鉛.md)<rt>ㄚ⼶ㄋ</rt></ruby>: zinc.
 - <ruby>[青銅](../words/青銅.md)<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby>: bronze.
   - **Note**: an alloy of [[銅]] (copper) and [[朱錫]] (tin).
 - <ruby>[黄銅](../words/黄銅.md)<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby>: brass.
   - **Note**: an alloy of [[銅]] (copper) and [[亜鉛]] (zinc).
-- <ruby>[水銀](../words/水銀.md)<rt>ㄙㄨ·ㄧㄋ</rt></ruby>: mercury, quicksilver.
-- <ruby>[軽銀](../words/軽銀.md)<rt>ㄎㄧㄫ·ㄧㄋ</rt></ruby>: aluminum.
+- <ruby>[水銀](../words/水銀.md)<rt>ㄙㄨㄧㄋ</rt></ruby>: mercury, quicksilver.
+- <ruby>[軽銀](../words/軽銀.md)<rt>ㄎㄧㄫㄧㄋ</rt></ruby>: aluminum.
   - **Etymology**: literally "light silver" — see Semantic Range Notes below.
 - <ruby>[軽金属](../words/軽金属.md)<rt>ㄎㄧㄫㄍㄧㄇㄐㄛㄎ</rt></ruby>: light metal(s) — the formal materials-science category (density under ~5 g/cm³: aluminum, magnesium, titanium, beryllium), distinct from [[軽銀]]'s specific, colloquial "aluminum."
 - <ruby>[魔銅](../words/魔銅.md)<rt>ㄇㄚㄉㄛㄫ</rt></ruby>: nickel.

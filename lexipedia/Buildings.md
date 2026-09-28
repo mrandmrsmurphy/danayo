@@ -86,7 +86,7 @@ language: English
 - stadium - *(too much overlap with arena above — CJKV doesn't cleanly split these into two buildings — left unfilled)*
 - race track - [[競馬場]] *(reserved — "compete-horse-place," identical in Japanese けいばじょう and Korean 경마장; Mandarin uses 賽馬場 instead, same structure with a different first character (賽 "race" vs 競 "compete"). Not yet a word page.)*
 - park - <ruby>[公園](../words/公園.md)<rt>ㄍㄛㄫㄛㄋ</rt></ruby> (same word as The City's own "park" above)
-- garden - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫ·ㄛㄋ</rt></ruby>
+- garden - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫㄛㄋ</rt></ruby>
 - gambling den - [[賭博場]] *(reserved — identical compound in Japanese とばくじょう and Korean 도박장; Mandarin's everyday word 賭場 drops the middle character. Not yet a word page.)*
 - opium den - *(no CJKV equivalent — a narrow 19th-century-China-specific concept without real Japanese/Korean counterparts)*
 

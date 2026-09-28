@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[越共]]<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby> "Vietcong"
 - <ruby>[[共産党]]<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby> "Communist Party"
 - <ruby>[[共格]]<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"
-- <ruby>[[共有]]<rt>ㄍ⼄ㄫ·⼜</rt></ruby> "share"
+- <ruby>[[共有]]<rt>ㄍ⼄ㄫ⼜</rt></ruby> "share"
 - <ruby>[[共通]]<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby> "common, shared"
 - <ruby>[[共同体]]<rt>ㄍ⼄ㄫㄉㄛㄫㄊㄝㄧ</rt></ruby> "community"
 ## Derived Characters

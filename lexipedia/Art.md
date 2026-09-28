@@ -106,7 +106,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[拍](../words/拍.md)<rt>ㄆㄚㄎ</rt></ruby>: beat, pulse; to tap, clap.
 - <ruby>[弦](../words/弦.md)<rt>ㄏㄝㄋ</rt></ruby>: chord, string (also "bowstring, hypotenuse").
 - <ruby>[唱和](../words/唱和.md)<rt>ㄑ⺢ㄫㄏ⺢</rt></ruby>: to sing chorus.
-- <ruby>[歌謡](../words/歌謡.md)<rt>ㄍㄜ·⼄ㄨ</rt></ruby>: song, ballad.
+- <ruby>[歌謡](../words/歌謡.md)<rt>ㄍㄜ⼄ㄨ</rt></ruby>: song, ballad.
 - <ruby>[校歌](../words/校歌.md)<rt>ㄏ⼘ㄨㄍㄜ</rt></ruby>: school anthem, school song.
 - <ruby>[凱歌](../words/凱歌.md)<rt>ㄎㄚㄧㄍㄜ</rt></ruby>: triumphant song, victory song.
 - <ruby>[交響](../words/交響.md)<rt>ㄍ⼄ㄨㄏ⼘ㄫ</rt></ruby>: symphonic.

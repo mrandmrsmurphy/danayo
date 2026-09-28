@@ -54,4 +54,4 @@ boundedness: 90
 - <ruby>[[厚顔]]<rt>ㄏㄛㄨㄚㄋ</rt></ruby> "brazen-faced; impudent; shameless"
 
 ## Chengyu
-- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨ·ㄚㄋㄇㄜㄑㄧ</rt></ruby> "shameless and brazen"
+- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "shameless and brazen"

@@ -83,7 +83,7 @@ date-last-perfect: 2026-08-01
 - <ruby>[[除法]]<rt>ㄐㄝㄧㄈㄚㄆ</rt></ruby> "division; the division operation"
 
 ## Chengyu
-- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 
 ## Derived Characters
 - <ruby>[[琺]]<rt>ㄈㄚㄆ</rt></ruby> "enamel, cloisonné"

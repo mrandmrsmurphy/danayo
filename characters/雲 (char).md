@@ -50,7 +50,7 @@ boundedness: 80
 ## Words
 - <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby> "cloud" (stand-in for 雲)
 - <ruby>[[雲呑]]<rt>ㄨㄋㄊㄚㄋ</rt></ruby> "wontons"
-- <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜ·ㄨㄋ</rt></ruby> "Oort Cloud"
+- <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
 
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"

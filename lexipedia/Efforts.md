@@ -68,7 +68,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 ### Control & Compulsion
 
-- <ruby>[把握](../words/把握.md)<rt>ㄅㄚ·ㄚㄎ</rt></ruby>, <ruby>[掌握](../words/掌握.md)<rt>ㄐㄚㄫㄚㄎ</rt></ruby>: to grasp, control.
+- <ruby>[把握](../words/把握.md)<rt>ㄅㄚㄚㄎ</rt></ruby>, <ruby>[掌握](../words/掌握.md)<rt>ㄐㄚㄫㄚㄎ</rt></ruby>: to grasp, control.
 - <ruby>[支配](../words/支配.md)<rt>ㄐㄝ·ㄆㄛㄧ</rt></ruby>: to rule, control, manage, govern, dominate.
 - <ruby>[轄](../words/轄.md)<rt>ㄏㄚㄊ</rt></ruby>: the linchpin of a wheel; control — the metaphor "the pin holding it all together." See Semantic Range Notes.
 - <ruby>[自制](../words/自制.md)<rt>ㄐㄧㄜㄐㄝㄧ</rt></ruby>, <ruby>[自禁](../words/自禁.md)<rt>ㄐㄧㄜㄍㄧㄇ</rt></ruby>: restraint, self-control.

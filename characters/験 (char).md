@@ -53,4 +53,4 @@ boundedness:
 ## Words
 - <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine" (stand-in for 験)
 - <ruby>[[経験]]<rt>ㄍㄝㄫㄝㄇ</rt></ruby> "experience"
-- <ruby>[[試験]]<rt>ㄙㄧ·ㄝㄇ</rt></ruby> "test, examine"
+- <ruby>[[試験]]<rt>ㄙㄧㄝㄇ</rt></ruby> "test, examine"

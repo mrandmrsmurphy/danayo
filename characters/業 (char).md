@@ -60,4 +60,4 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
-- <ruby>[[自業自得]]<rt>ㄐㄧㄜ·ㄝㄆㄐㄧㄜㄊㄜㄎ</rt></ruby> "you reap what you sow; one's own actions return as one's own fate"
+- <ruby>[[自業自得]]<rt>ㄐㄧㄜㄝㄆㄐㄧㄜㄊㄜㄎ</rt></ruby> "you reap what you sow; one's own actions return as one's own fate"

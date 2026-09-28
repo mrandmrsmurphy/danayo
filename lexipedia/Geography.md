@@ -4,7 +4,7 @@ language: 単亜語
 _Some of these must be #neologism s because sounds have chanced over time._
 ## 東亜
 
-<ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫ·ㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
+<ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
@@ -15,7 +15,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 
 ### Landform
-The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
 Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and <ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby><ruby>[防守](/words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>.
 
 ### Political Development
@@ -29,7 +29,7 @@ In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby
 <ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
 
 ## 東南亜
-<ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>.
+<ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]]) and straits ([[../words/海峡]]) are common.  
 <ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
@@ -40,15 +40,15 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[面田](words/面田.md)<rt>ㄇ⼔ㄋㄉㄝㄋ</rt></ruby>
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>
 - <ruby>[寮国](words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>
-- <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
+- <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby>
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
-- <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
+- <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>  
 - <ruby>[[菲律賓]]<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>
-These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
+These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
 <ruby>[南亜](/words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
-<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
+<ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby> developed early.  
 <ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄫ</rt></ruby> influenced surrounding regions.  
@@ -64,7 +64,7 @@ The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>
 
 ## West and Central Asia
 West Asia ([[西亜]]) includes desert zones ([[沙漠]][[地帯]]) and strategic trade routes ([[商路]][[要地]]).  
-Central Asia ([[中亜]]) contains steppe regions (<ruby>草原<rt>ㄑㄚㄨ·⼔ㄋ</rt></ruby>[[地帯]]) historically associated with <ruby>遊牧<rt>⼜ㄛㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
+Central Asia ([[中亜]]) contains steppe regions (<ruby>草原<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>[[地帯]]) historically associated with <ruby>遊牧<rt>⼜ㄛㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
 
 Imperial expansion (<ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[興起]]) and religious diffusion (<ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby>[[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
@@ -93,17 +93,17 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
-- <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫ·ㄧㄫㄍㄛㄎ</rt></ruby>
+- <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>
-- <ruby>葡萄牙<rt>ㄅㄛㄉㄚㄨ·ㄚ</rt></ruby>
+- <ruby>葡萄牙<rt>ㄅㄛㄉㄚㄨㄚ</rt></ruby>
 - Netherlands ([[荷蘭]])  
 - Belgium (比利時)  
 - Switzerland ([[瑞士]])  
-- <ruby>双鷹国<rt>ㄙ⺢ㄫ·ㄧㄫㄍㄛㄎ</rt></ruby>
+- <ruby>双鷹国<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - [[波蘭]]  
 - Greece (希臘)  
-- <ruby>露斯亜<rt>ㄌㄛㄙㄧ·ㄚ</rt></ruby>
+- <ruby>露斯亜<rt>ㄌㄛㄙㄧㄚ</rt></ruby>
 - <ruby>[瑞典](/words/瑞典.md)<rt>ㄙ⼔ㄉㄝㄋ</rt></ruby>
 - Norway ([挪](../characters/梛.md)[[威]])  
 - <ruby>[芬蘭](../words/芬蘭.md)<rt>ㄆㄨㄋㄌㄚㄋ</rt></ruby>
@@ -124,7 +124,7 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ·⼄ㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>要素<rt>⼄ㄨㄙㄛ</rt></ruby>.
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ⼄ㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>要素<rt>⼄ㄨㄙㄛ</rt></ruby>.
 
 ## 美洲
 <ruby>美洲<rt>ㄇㄧㄐㄨㄛ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
@@ -133,7 +133,7 @@ The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河
 南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]]<ruby>森林<rt>ㄙㄧㄇㄌㄧㄇ</rt></ruby>.
 
 Independence movements ([[独立]]<ruby>運動<rt>·ㄨㄋㄉㄛㄫ</rt></ruby> produced republics (共和国).  
-Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>差異<rt>ㄑㄚ·ㄧ</rt></ruby> remain notable.
+Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>差異<rt>ㄑㄚㄧ</rt></ruby> remain notable.
 
 ### 北美
 - <ruby>[美国](../words/美国.md)<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
@@ -154,7 +154,7 @@ Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝ
 The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems (自然体系).
 
 ## Oceania
-<ruby>[[大洋洲]]<rt>ㄉㄚㄧ·⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of <ruby>[島屿](/words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby><ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.  
+<ruby>[[大洋洲]]<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of <ruby>[島屿](/words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby><ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.  
 Marine resources (<ruby>[世界](words/世界.md)<rt>ㄙㄚㄧ·⼘ㄫ</rt></ruby>[[資源]]) support economic life (<ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby>).  
 Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
 
@@ -162,7 +162,7 @@ Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></
 - <ruby>[新西蘭](words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - <ruby>[非志](/words/非志.md)<rt>ㄈㄧㄐㄧ</rt></ruby>
-Island distribution ([[../words/島屿]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧㄜ·ㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
+Island distribution ([[../words/島屿]][[分布]]) and marine routes (<ruby>世界<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
 
 ## The Global System
 The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.  
@@ -183,7 +183,7 @@ These institutions operate within principles of sovereignty ([[主権]][[原則]
 
 ### World Divisions
 #### Modern
-In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby>. The commonly recognized seven continents are:
+In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby>. The commonly recognized seven continents are:
 - <ruby>亜洲<rt>ㄚㄐㄨㄛ</rt></ruby>
 - <ruby>欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby>
 - <ruby>非洲<rt>ㄆㄧㄐㄨㄛ</rt></ruby>
@@ -192,16 +192,16 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - <ruby>大洋洲<rt>大洋洲</rt></ruby>
 - and Antarctica ([[南極洲]]).
 
-<ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> include:
+<ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> include:
 - the Pacific ([[太平]][[洋]]), 
 - Atlantic ([[大西洋]]), 
-- <ruby>印度洋<rt>ㄧㄋㄉㄛ·⼘ㄫ</rt></ruby>,
+- <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>,
 - Arctic Ocean ([[北氷洋]]), 
 - and Southern Ocean ([[南氷洋]]). 
 
 The two poles: the <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby> (South Pole, distinct from the continent [[南極洲]]) and the <ruby>[北極](../words/北極.md)<rt>ㄅㄨㄎㄍㄧㄎ</rt></ruby> (North Pole, which — unlike the South Pole — sits in open ocean, not on a continent).
 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ·⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
 
 #### Ancient
 In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 

@@ -14,8 +14,8 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[星](../words/星.md)<rt>ㄙㄝㄫ</rt></ruby>: a star — also covers planets and moons in ordinary usage. See Semantic Range Notes.
-- <ruby>[太陽](../words/太陽.md)<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby>: the sun.
-- <ruby>[太陰](../words/太陰.md)<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby>: the moon.
+- <ruby>[太陽](../words/太陽.md)<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby>: the sun.
+- <ruby>[太陰](../words/太陰.md)<rt>ㄊㄚㄧㄧㄇ</rt></ruby>: the moon.
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: Earth.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky.
 - <ruby>[行星](../words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>: a planet.
@@ -45,7 +45,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 
 ### Solar System
 
-- <ruby>[太陽系](../words/太陽系.md)<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby>: the solar system.
+- <ruby>[太陽系](../words/太陽系.md)<rt>ㄊㄚㄧ⼘ㄫㄏㄝㄧ</rt></ruby>: the solar system.
 - <ruby>[恒星](../words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>: a "fixed star" — the precise Dan'a'yo term matching English "star" exactly. See Semantic Range Notes.
 - <ruby>[水星](../words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby>: Mercury.
 - <ruby>[金星](../words/金星.md)<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby>: Venus.
@@ -54,12 +54,12 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[火星](../words/火星.md)<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby>: Mars.
 - <ruby>[木星](../words/木星.md)<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby>: Jupiter.
 - <ruby>[土星](../words/土星.md)<rt>ㄊㄛㄙㄝㄫ</rt></ruby>: Saturn.
-- <ruby>[天王星](../words/天王星.md)<rt>ㄊㄝㄋ·⺢ㄫㄙㄝㄫ</rt></ruby>: Uranus.
-- <ruby>[海王星](../words/海王星.md)<rt>ㄏㄚㄧ·⺢ㄫㄙㄝㄫ</rt></ruby>: Neptune.
-- <ruby>[冥王星](../words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby>: Pluto — named for <ruby>[冥王](../words/冥王.md)<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby>, the king of the underworld; now a dwarf planet.
+- <ruby>[天王星](../words/天王星.md)<rt>ㄊㄝㄋ⺢ㄫㄙㄝㄫ</rt></ruby>: Uranus.
+- <ruby>[海王星](../words/海王星.md)<rt>ㄏㄚㄧ⺢ㄫㄙㄝㄫ</rt></ruby>: Neptune.
+- <ruby>[冥王星](../words/冥王星.md)<rt>ㄇㄝㄫ⺢ㄫㄙㄝㄫ</rt></ruby>: Pluto — named for <ruby>[冥王](../words/冥王.md)<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby>, the king of the underworld; now a dwarf planet.
 - <ruby>[矮行星](../words/矮行星.md)<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>: a dwarf planet — the category Pluto was demoted to after the discovery of <ruby>[䦧神星](../words/䦧神星.md)<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> (Eris).
 - <ruby>[小行星帯](../words/小行星帯.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby>: the Asteroid Belt, between Mars and Jupiter, made of <ruby>[小行星](../words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby> (asteroids).
-- <ruby>[汚璃他雲](../words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜ·ㄨㄋ</rt></ruby>: the Oort Cloud, the region past Neptune most comets are believed to come from.
+- <ruby>[汚璃他雲](../words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby>: the Oort Cloud, the region past Neptune most comets are believed to come from.
 - <ruby>[彗星](../words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>: a comet.
 - <ruby>[流星](../words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>: a shooting star, meteor — what a comet or other object becomes when it burns up entering the atmosphere.
 - <ruby>[軌道](../words/軌道.md)<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby>: an orbit.
@@ -72,7 +72,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby>: a spaceship.
 - <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>: an alien, astronaut.
 - <ruby>[宇宙局](../words/宇宙局.md)<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby>: a space agency.
-- <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ·⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.
+- <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.
 - <ruby>[大気圏](../words/大気圏.md)<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby>: the atmosphere.
 - <ruby>[空気](../words/空気.md)<rt>ㄎㄛㄫㄎㄧㄜ</rt></ruby>: air.
 - <ruby>[空中](../words/空中.md)<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby>: in the air, midair, the sky.
@@ -82,7 +82,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[天狼星](../words/天狼星.md)<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby>: Sirius, the dog star.
 - <ruby>[牛郎星](../words/牛郎星.md)<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby>: Altair, the cowherd star (of the [[七夕]] legend).
 - <ruby>[七星](../words/七星.md)<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby>: the Big Dipper, "seven stars."
-- <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ·⼄ㄨ</rt></ruby>: the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week."
+- <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ⼄ㄨ</rt></ruby>: the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week."
 
 ### Astronomical Events
 

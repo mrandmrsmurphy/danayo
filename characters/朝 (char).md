@@ -59,7 +59,7 @@ boundedness: 100
 - <ruby>[[今朝]]<rt>ㄍㄧㄇㄐㄚㄨ</rt></ruby> "this morning"
 - <ruby>[[朝鮮]]<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> "North Korea; Choseon"
 - <ruby>[[王朝]]<rt>⺢ㄫㄐㄚㄨ</rt></ruby> "dynasty; reign"
-- <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨ·ㄚㄋ</rt></ruby> "good morning"
+- <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨㄚㄋ</rt></ruby> "good morning"
 
 ## Chengyu
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"

@@ -56,23 +56,23 @@ boundedness: 80
 - <ruby>[[言]]<rt>ㄝㄋ</rt></ruby> "say" (stand-in for 言)
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[言及]]<rt>ㄝㄋㄍㄨㄆ</rt></ruby> "to mention; to refer to"
-- <ruby>[[用言]]<rt>⼄ㄫ·ㄝㄋ</rt></ruby> "declinable word"
+- <ruby>[[用言]]<rt>⼄ㄫㄝㄋ</rt></ruby> "declinable word"
 - <ruby>[[文言]]<rt>ㄇㄨㄋ·ㄝㄋ</rt></ruby> "Literary Chinese; wording"
 - <ruby>[[語言]]<rt>⼄ㄝㄋ</rt></ruby> "language, speech"
 - <ruby>[[言語]]<rt>ㄝㄋ·⼄</rt></ruby> "language"
 - <ruby>[[巧言]]<rt>ㄎ⼘ㄨㄝㄋ</rt></ruby> "flattery; clever but deceptive talk"
-- <ruby>[[体言]]<rt>ㄊㄝㄧ·ㄝㄋ</rt></ruby> "indeclinable word"
+- <ruby>[[体言]]<rt>ㄊㄝㄧㄝㄋ</rt></ruby> "indeclinable word"
 - <ruby>[[宣言]]<rt>ㄙㄝㄋ·ㄝㄋ</rt></ruby> "proclaim; manifesto"
-- <ruby>[[証言]]<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby> "testify"
+- <ruby>[[証言]]<rt>ㄐㄧㄫㄝㄋ</rt></ruby> "testify"
 - <ruby>[[流言]]<rt>ㄌ⼜ㄝㄋ</rt></ruby> "spread rumors; gossip"
 - <ruby>[[方言]]<rt>ㄆㄚㄫ·ㄝㄋ</rt></ruby> "dialect"
 
 ## Chengyu
-- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ·⼄</rt></ruby> "not speaking a word; total silence"
+- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "not speaking a word; total silence"
 - <ruby>[[文言継承]]<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> "continuity with the classical written standard"
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"
 - <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
-- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
+- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
 
 ## Derived Characters
 - <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> "meet"

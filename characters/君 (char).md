@@ -61,7 +61,7 @@ boundedness: 80
 - <ruby>[[君臣]]<rt>ㄍㄨㄋㄙㄧㄋ</rt></ruby> "fealty"
 - <ruby>[[弒君]]<rt>ㄊㄧㄍㄨㄋ</rt></ruby> "regicide"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
-- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 
 ## Derived Characters
 - <ruby>[[郡 (char)|郡]]<rt>ㄍㄨㄋ</rt></ruby> "county; prefecture"

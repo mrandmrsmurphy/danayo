@@ -54,4 +54,4 @@ boundedness: 40
 - <ruby>[[一致]]<rt>ㄧㄊㄑㄧㄜ</rt></ruby> "be unanimous with; agree with"
 
 ## Chengyu
-- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫ·ㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
+- <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"

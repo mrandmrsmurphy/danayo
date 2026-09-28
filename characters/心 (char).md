@@ -52,7 +52,7 @@ boundedness: 90
 - <ruby>[[心]]<rt>ㄙㄧㄇ</rt></ruby> "heart" (stand-in for 心)
 - <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
-- <ruby>[[心緒]]<rt>ㄙㄧㄇ·ㄙ⼄</rt></ruby> "feelings; state of mind"
+- <ruby>[[心緒]]<rt>ㄙㄧㄇㄙ⼄</rt></ruby> "feelings; state of mind"
 - <ruby>[[悪心]]<rt>ㄚㄎㄙㄧㄇ</rt></ruby> "nauseated; nauseous"
 - <ruby>[[離心率]]<rt>ㄌㄝㄧㄙㄧㄇㄌㄨㄊ</rt></ruby> "eccentricity (math)"
 - <ruby>[[安心]]<rt>ㄚㄋㄙㄧㄇ</rt></ruby> "peace of mind"
@@ -70,7 +70,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
-- <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫ·ㄚㄎ</rt></ruby> "evil hearts, evil intents"
+- <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫㄚㄎ</rt></ruby> "evil hearts, evil intents"
 - <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
 
 ## Derived Characters

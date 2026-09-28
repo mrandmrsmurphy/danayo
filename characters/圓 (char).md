@@ -59,7 +59,7 @@ boundedness: 90
 - <ruby>[[圓形]]<rt>⼔ㄋㄏㄝㄫ</rt></ruby> "circular; round shape"
 - <ruby>[[圓錐]]<rt>⼔ㄋㄐㄨㄧ</rt></ruby> "cone"
 - <ruby>[[圓光]]<rt>⼔ㄋㄎ⺢ㄫ</rt></ruby> "halo; nimbus"
-- <ruby>[[楕圓]]<rt>ㄊㄚ·⼔ㄋ</rt></ruby> "ellipse"
+- <ruby>[[楕圓]]<rt>ㄊㄚ⼔ㄋ</rt></ruby> "ellipse"
 - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby> "Euro"
 - <ruby>[[圓錐曲線]]<rt>⼔ㄋㄐㄨㄧㄎ⼘ㄎㄙ⼶ㄋ</rt></ruby> "conic section"
 - <ruby>[[圓融]]<rt>⼔ㄋ·⼜ㄫ</rt></ruby> "tact, tactful, diplomatically harmonious"

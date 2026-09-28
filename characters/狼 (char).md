@@ -54,5 +54,5 @@ boundedness: 75
 - <ruby>[[天狼星]]<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby> "Dog Star"
 
 ## Chengyu
-- <ruby>[[羊衣餓狼]]<rt>⼘ㄫ·ㄧㄜ·ㄚㄌㄚㄫ</rt></ruby> "wolf in sheep's clothing"
+- <ruby>[[羊衣餓狼]]<rt>⼘ㄫㄧㄜㄚㄌㄚㄫ</rt></ruby> "wolf in sheep's clothing"
 - <ruby>[[周章狼狽]]<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> "flustered and thrown into complete disarray"

@@ -85,9 +85,9 @@ boundedness: 80
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> "above and below, no idols"
-- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨ·ㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless"
+- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
-- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜ·ㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 
 ## Derived Characters
 - <ruby>[[舞]]<rt>ㄇㄨ</rt></ruby> "dance"

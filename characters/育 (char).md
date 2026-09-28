@@ -53,11 +53,11 @@ boundedness: 80
 ## Words
 - <ruby>[[育]]<rt>⼜ㄎ</rt></ruby> "nurture; educate" (stand-in for 育)
 - <ruby>[[教育]]<rt>ㄍ⼄ㄨ⼜ㄎ</rt></ruby> "education"
-- <ruby>[[体育]]<rt>ㄊㄝㄧ·⼜ㄎ</rt></ruby> "physical education"
-- <ruby>[[体育館]]<rt>ㄊㄝㄧ·⼜ㄎㄍ⺢ㄋ</rt></ruby> "gymnasium; gym"
+- <ruby>[[体育]]<rt>ㄊㄝㄧ⼜ㄎ</rt></ruby> "physical education"
+- <ruby>[[体育館]]<rt>ㄊㄝㄧ⼜ㄎㄍ⺢ㄋ</rt></ruby> "gymnasium; gym"
 - <ruby>[[養育]]<rt>⼘ㄫ⼜ㄎ</rt></ruby> "foster; raise"
 - <ruby>[[生育]]<rt>ㄙㄚㄫ⼜ㄎ</rt></ruby> "give birth to"
-- <ruby>[[肥育]]<rt>ㄅㄨㄧ·⼜ㄎ</rt></ruby> "fatten livestock; fattening"
+- <ruby>[[肥育]]<rt>ㄅㄨㄧ⼜ㄎ</rt></ruby> "fatten livestock; fattening"
 
 ## Derived Characters
 - <ruby>[[充]]<rt>ㄑㄨㄫ</rt></ruby> "fill"

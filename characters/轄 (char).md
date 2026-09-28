@@ -57,4 +57,4 @@ date-last-perfect: 2026-08-08
 - <ruby>[[轄]]<rt>ㄏㄚㄊ</rt></ruby> "linchpin of a wheel, control" (stand-in for 轄)
 
 ## Chengyu
-- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ·⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life"
+- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life"

@@ -56,7 +56,7 @@ boundedness: 80
 - <ruby>[[自在]]<rt>ㄐㄧㄜㄐㄚㄧ</rt></ruby> "comfortable; carefree; adjustable"
 
 ## Chengyu
-- <ruby>[[自由自在]]<rt>ㄐㄧㄜ·⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
+- <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
 
 ## Derived Characters
 - <ruby>[[財]]<rt>ㄐㄚㄧ</rt></ruby> "wealth"

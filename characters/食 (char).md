@@ -76,7 +76,7 @@ boundedness: 90
 - <ruby>[[飲食歓楽]]<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄋ</rt></ruby> "eat drink and be merry"
 - <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
-- <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜ·ㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
+- <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
 
 ## Derived Characters
 - <ruby>[[飴]]<rt>ㄧ</rt></ruby> "syrup"

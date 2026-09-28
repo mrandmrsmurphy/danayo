@@ -56,12 +56,12 @@ boundedness: 80
 - <ruby>[[二千]]<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby> "two thousand"
 - <ruby>[[二万]]<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby> "twenty thousand"
 - <ruby>[[二日]]<rt>ㄋㄧㄜㄋㄧㄊ</rt></ruby> "second day of the month"
-- <ruby>[[二月]]<rt>ㄋㄧㄜ·⼔ㄊ</rt></ruby> "February"
+- <ruby>[[二月]]<rt>ㄋㄧㄜ⼔ㄊ</rt></ruby> "February"
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - <ruby>[[二重]]<rt>ㄋㄧㄜㄑㄛㄫ</rt></ruby> "double; twofold"
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
 - <ruby>[[二度]]<rt>ㄋㄧㄜㄉㄛ</rt></ruby> "twice; two times"
-- <ruby>[[二次元]]<rt>ㄋㄧㄜㄑㄧㄜ·⼔ㄋ</rt></ruby> "2D; the two-dimensional world"
+- <ruby>[[二次元]]<rt>ㄋㄧㄜㄑㄧㄜ⼔ㄋ</rt></ruby> "2D; the two-dimensional world"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 - <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
@@ -75,7 +75,7 @@ boundedness: 80
 - <ruby>[[十二]]<rt>ㄙㄧㄆㄋㄧㄜ</rt></ruby> "twelve"
 - <ruby>[[第二]]<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby> "second"
 - <ruby>[[十二日]]<rt>ㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twelfth day of the month"
-- <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ·⼔ㄊ</rt></ruby> "December"
+- <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ⼔ㄊ</rt></ruby> "December"
 
 ## Chengyu
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"

@@ -29,7 +29,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 3. <ruby>[[words/俘虜|俘虜]]<rt>ㄈㄨㄌㄛ</rt></ruby> "take captive" = <ruby>[[characters/俘|俘]]<rt>ㄈㄨ</rt></ruby> + <ruby>[[characters/虜|虜]]<rt>ㄌㄛ</rt></ruby>
 4. <ruby>[[words/傀儡|傀儡]]<rt>ㄎㄛㄧㄌㄛㄧ</rt></ruby> "puppet" = <ruby>[[characters/傀|傀]]<rt>ㄎㄛㄧ</rt></ruby> + <ruby>[[characters/儡|儡]]<rt>ㄌㄛㄧ</rt></ruby>
 5. <ruby>[[words/吝嗇|吝嗇]]<rt>ㄌㄧㄋㄙㄧㄎ</rt></ruby> "miserly" = <ruby>[[characters/吝|吝]]<rt>ㄌㄧㄋ</rt></ruby> + <ruby>[[characters/嗇|嗇]]<rt>ㄙㄧㄎ</rt></ruby>
-6. <ruby>[[words/妨碍|妨碍]]<rt>ㄈㄚㄫ·ㄚㄧ</rt></ruby> "hinder" = <ruby>[[characters/妨|妨]]<rt>ㄈㄚㄫ</rt></ruby> + <ruby>[[characters/碍|碍]]<rt>ㄚㄧ</rt></ruby>
+6. <ruby>[[words/妨碍|妨碍]]<rt>ㄈㄚㄫㄚㄧ</rt></ruby> "hinder" = <ruby>[[characters/妨|妨]]<rt>ㄈㄚㄫ</rt></ruby> + <ruby>[[characters/碍|碍]]<rt>ㄚㄧ</rt></ruby>
 7. <ruby>[[words/嫉妬|嫉妬]]<rt>ㄐㄧㄊㄉㄛ</rt></ruby> "be jealous; be envious" = <ruby>[[characters/嫉|嫉]]<rt>ㄐㄧㄊ</rt></ruby> + <ruby>[[characters/妬|妬]]<rt>ㄉㄛ</rt></ruby>
 8. <ruby>[[words/彷彿|彷彿]]<rt>ㄆㄚㄫㄈㄨㄊ</rt></ruby> "resemble" = <ruby>[[characters/彷|彷]]<rt>ㄆㄚㄫ</rt></ruby> + <ruby>[[characters/彿|彿]]<rt>ㄈㄨㄊ</rt></ruby>
 9. <ruby>[[words/徘徊|徘徊]]<rt>ㄈㄛㄧㄏㄛㄧ</rt></ruby> "loiter" = <ruby>[[characters/徘|徘]]<rt>ㄈㄛㄧ</rt></ruby> + <ruby>[[characters/徊|徊]]<rt>ㄏㄛㄧ</rt></ruby>
@@ -45,7 +45,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 19. <ruby>[[words/犠牲|犠牲]]<rt>ㄏㄨㄧㄙㄚㄫ</rt></ruby> "sacrifice; victim" = <ruby>[[characters/犠|犠]]<rt>ㄏㄨㄧ</rt></ruby> + <ruby>[[characters/牲|牲]]<rt>ㄙㄚㄫ</rt></ruby>
 20. <ruby>[[words/獲得|獲得]]<rt>ㄏ⺢ㄎㄊㄜㄎ</rt></ruby> "get; obtain; acquire" = <ruby>[[characters/獲|獲]]<rt>ㄏ⺢ㄎ</rt></ruby> + <ruby>[[characters/得|得]]<rt>ㄊㄜㄎ</rt></ruby>
 21. <ruby>[[words/珊瑚|珊瑚]]<rt>ㄙㄚㄋㄏㄛㄨ</rt></ruby> "coral" = <ruby>[[characters/珊|珊]]<rt>ㄙㄚㄋ</rt></ruby> + <ruby>[[characters/瑚|瑚]]<rt>ㄏㄛㄨ</rt></ruby>
-22. <ruby>[[words/琥珀|琥珀]]<rt>ㄏㄛㄆㄚㄎ</rt></ruby> "amber" = <ruby>[[characters/琥|琥]]<rt>ㄏㄛ</rt></ruby> + <ruby>[[characters/珀|珀]]<rt>ㄆㄚㄎ</rt></ruby>
+22. <ruby>[[words/琥珀|琥珀]]<rt>ㄏㄛ·ㄆㄚㄎ</rt></ruby> "amber" = <ruby>[[characters/琥|琥]]<rt>ㄏㄛ</rt></ruby> + <ruby>[[characters/珀|珀]]<rt>ㄆㄚㄎ</rt></ruby>
 23. <ruby>[[words/琵琶|琵琶]]<rt>ㄅㄧㄅㄚ</rt></ruby> "pipa" = <ruby>[[characters/琵|琵]]<rt>ㄅㄧ</rt></ruby> + <ruby>[[characters/琶|琶]]<rt>ㄅㄚ</rt></ruby>
 24. <ruby>[[words/痕跡|痕跡]]<rt>ㄏㄜㄋㄐㄝㄎ</rt></ruby> "vestige" = <ruby>[[characters/痕|痕]]<rt>ㄏㄜㄋ</rt></ruby> + <ruby>[[characters/跡|跡]]<rt>ㄐㄝㄎ</rt></ruby>
 25. <ruby>[[words/祈祷|祈祷]]<rt>ㄍㄧㄜㄉㄚㄨ</rt></ruby> "pray" = <ruby>[[characters/祈|祈]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/祷|祷]]<rt>ㄉㄚㄨ</rt></ruby>
@@ -63,7 +63,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 37. <ruby>[[words/選択|選択]]<rt>ㄙ⼔ㄋㄉㄚㄎ</rt></ruby> "select; choose" = <ruby>[[characters/選|選]]<rt>ㄙ⼔ㄋ</rt></ruby> + <ruby>[[characters/択|択]]<rt>ㄉㄚㄎ</rt></ruby>
 38. <ruby>[[words/閑暇|閑暇]]<rt>ㄏㄚㄋㄏㄚ</rt></ruby> "free time; leisure" = <ruby>[[characters/閑|閑]]<rt>ㄏㄚㄋ</rt></ruby> + <ruby>[[characters/暇|暇]]<rt>ㄏㄚ</rt></ruby>
 39. <ruby>[[words/雴霫|雴霫]]<rt>ㄊㄨㄆㄙㄨㄆ</rt></ruby> "heavy rain" = <ruby>[[characters/雴|雴]]<rt>ㄊㄨㄆ</rt></ruby> + <ruby>[[characters/霫|霫]]<rt>ㄙㄨㄆ</rt></ruby>
-40. <ruby>[[words/飢餓|飢餓]]<rt>ㄍㄧㄜ·ㄚ</rt></ruby> "hungry; starving" = <ruby>[[characters/飢|飢]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/餓|餓]]<rt>ㄚ</rt></ruby>
+40. <ruby>[[words/飢餓|飢餓]]<rt>ㄍㄧㄜㄚ</rt></ruby> "hungry; starving" = <ruby>[[characters/飢|飢]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/餓|餓]]<rt>ㄚ</rt></ruby>
 41. <ruby>[[words/鬚髯|鬚髯]]<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby> "beard; whiskers" = <ruby>[[characters/鬚|鬚]]<rt>ㄙㄨ</rt></ruby> + <ruby>[[characters/髯|髯]]<rt>ㄋㄛㄇ</rt></ruby>
 42. <ruby>[[words/鳳凰|鳳凰]]<rt>ㄆㄨㄫㄏ⺢ㄫ</rt></ruby> "phoenix" = <ruby>[[characters/鳳|鳳]]<rt>ㄆㄨㄫ</rt></ruby> + <ruby>[[characters/凰|凰]]<rt>ㄏ⺢ㄫ</rt></ruby>
 43. <ruby>[[words/鴛鴦|鴛鴦]]<rt>ㄛㄋ·ㄚㄫ</rt></ruby> "mandarin duck" = <ruby>[[characters/鴛|鴛]]<rt>ㄛㄋ</rt></ruby> + <ruby>[[characters/鴦|鴦]]<rt>ㄚㄫ</rt></ruby>

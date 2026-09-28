@@ -74,7 +74,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 
 ### Distance
 
-- <ruby>[遥遠](../words/遥遠.md)<rt>⼄ㄨ·ㄛㄋ</rt></ruby>, <ruby>[迥](../words/迥.md)<rt>ㄏㄧㄫ</rt></ruby>: distant, faraway.
+- <ruby>[遥遠](../words/遥遠.md)<rt>⼄ㄨㄛㄋ</rt></ruby>, <ruby>[迥](../words/迥.md)<rt>ㄏㄧㄫ</rt></ruby>: distant, faraway.
 - <ruby>[眺望](../words/眺望.md)<rt>ㄊㄛㄨㄇㄚㄫ</rt></ruby>: to gaze into the distance, view from a height.
 - <ruby>[間隔](../words/間隔.md)<rt>ㄍㄚㄋㄍㄚㄎ</rt></ruby>: an interval, gap; to be divided, be separated.
 

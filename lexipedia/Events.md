@@ -38,12 +38,12 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 
 ### Rarity, Chance & Crisis
 
-- <ruby>[希有](../words/希有.md)<rt>ㄏㄧㄜ·⼜</rt></ruby>, <ruby>[珍](../words/珍.md)<rt>ㄑㄧㄋ</rt></ruby>: rare.
+- <ruby>[希有](../words/希有.md)<rt>ㄏㄧㄜ⼜</rt></ruby>, <ruby>[珍](../words/珍.md)<rt>ㄑㄧㄋ</rt></ruby>: rare.
 - <ruby>[危机](../words/危机.md)<rt>⼔ㄧㄍㄧㄜ</rt></ruby>: a crisis, critical juncture.
 
 ### Disaster & Calamity
 
-- <ruby>[災害](../words/災害.md)<rt>ㄐㄚㄧㄏㄚㄧ</rt></ruby>, <ruby>[災殃](../words/災殃.md)<rt>ㄐㄚㄧ·⼘ㄫ</rt></ruby>, <ruby>[禍事](../words/禍事.md)<rt>ㄏ⺢ㄐㄧ</rt></ruby>, <ruby>[禍害](../words/禍害.md)<rt>ㄏ⺢ㄏㄚㄧ</rt></ruby>: a disaster, calamity.
+- <ruby>[災害](../words/災害.md)<rt>ㄐㄚㄧㄏㄚㄧ</rt></ruby>, <ruby>[災殃](../words/災殃.md)<rt>ㄐㄚㄧ⼘ㄫ</rt></ruby>, <ruby>[禍事](../words/禍事.md)<rt>ㄏ⺢ㄐㄧ</rt></ruby>, <ruby>[禍害](../words/禍害.md)<rt>ㄏ⺢ㄏㄚㄧ</rt></ruby>: a disaster, calamity.
 - <ruby>[引禍](../words/引禍.md)<rt>ㄧㄋㄏ⺢</rt></ruby>, <ruby>[招災](../words/招災.md)<rt>ㄑㄛㄨㄐㄚㄧ</rt></ruby>: to invite disaster, bring calamity on oneself.
 
 ### Ceremony, Celebration & Anniversary

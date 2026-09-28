@@ -54,7 +54,7 @@ boundedness:
 ## Words
 - <ruby>[[児]]<rt>ㄝㄧ</rt></ruby> "baby" (stand-in for 児)
 - <ruby>[[児児]]<rt>ㄝㄧㄝㄧ</rt></ruby> "baby"
-- <ruby>[[胎児]]<rt>ㄊㄚㄧ·ㄝㄧ</rt></ruby> "fetus"
+- <ruby>[[胎児]]<rt>ㄊㄚㄧㄝㄧ</rt></ruby> "fetus"
 - <ruby>[[女児]]<rt>ㄋㄜㄝㄧ</rt></ruby> "daughter"
 - <ruby>[[孤児院]]<rt>ㄍㄛㄝㄧ⼔ㄋ</rt></ruby> "orphanage"
 - <ruby>[[児子]]<rt>ㄝㄧㄐㄜ</rt></ruby> "son; child"

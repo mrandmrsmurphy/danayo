@@ -61,7 +61,7 @@ boundedness: 100
 - <ruby>[[平成]]<rt>ㄅ⼶ㄫㄙㄧㄫ</rt></ruby> "Heisei"
 - <ruby>[[形成]]<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby> "to form; shape; represent"
 - <ruby>[[成語]]<rt>ㄙㄧㄫ⼄</rt></ruby> "chengyu; four-character-sayings"
-- <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> "four-character fixed expression; four-character idiom"
+- <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> "four-character fixed expression; four-character idiom"
 - <ruby>[[養成]]<rt>⼘ㄫㄙㄧㄫ</rt></ruby> "to cultivate; train"
 
 ## Chengyu

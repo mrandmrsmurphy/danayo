@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-18
 - <ruby>[[熊猫]]<rt>ㄨㄫㄇ⼘ㄨ</rt></ruby> "panda"
 - <ruby>[[白熊]]<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby> "polar bear"
 - <ruby>[[袋熊]]<rt>ㄉㄚㄧㄨㄫ</rt></ruby> "wombat"
-- <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧ·ㄨㄫ</rt></ruby> "koala"
+- <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby> "koala"

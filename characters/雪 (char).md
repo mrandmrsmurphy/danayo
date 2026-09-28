@@ -51,4 +51,4 @@ boundedness: 80
 ## Words
 - <ruby>[[雪]]<rt>ㄙ⼔ㄊ</rt></ruby> "snow" (stand-in for 雪)
 - <ruby>[[雪崩]]<rt>ㄙ⼔ㄊㄅㄨㄫ</rt></ruby> "avalanche"
-- <ruby>[[雪魚]]<rt>ㄙ⼔ㄊ·⼄</rt></ruby> "whiting; cod"
+- <ruby>[[雪魚]]<rt>ㄙ⼔ㄊ⼄</rt></ruby> "whiting; cod"

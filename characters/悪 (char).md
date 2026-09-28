@@ -65,5 +65,5 @@ boundedness:
 - <ruby>[[悪鬼]]<rt>ㄚㄎㄍㄨㄧ</rt></ruby> "evil spirit, devil"
 
 ## Chengyu
-- <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫ·ㄚㄎ</rt></ruby> "evil hearts, evil intents"
+- <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫㄚㄎ</rt></ruby> "evil hearts, evil intents"
 - <ruby>[[財愛悪根]]<rt>ㄑㄚㄧ·ㄚㄧ·ㄚㄎㄍㄚㄋ</rt></ruby> "The love of money is the root of all evil"

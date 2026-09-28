@@ -49,7 +49,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[与]]<rt>⼄</rt></ruby> "and" (stand-in for 与)
-- <ruby>[[贈与]]<rt>ㄐㄜㄫ·⼄</rt></ruby> "donate, present, bestow"
+- <ruby>[[贈与]]<rt>ㄐㄜㄫ⼄</rt></ruby> "donate, present, bestow"
 - <ruby>[[授与]]<rt>ㄙ⼜⼄</rt></ruby> "confer, grant"
 - <ruby>[[与格]]<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"
 

@@ -97,7 +97,7 @@ date-last-perfect: 2026-09-16
 | 74  |       eye       |  目   |   眼睛   |   眼    |          目           |       目 (눈 목)        |               眜 mắt                | <ruby>[[目]]<rt>ㄇㄨㄎ</rt></ruby>  |     |
 | 75  |      nose       |  鼻   |   鼻    |   鼻    |          鼻           |       鼻 (코 비)        |               𪖫 mũi               | <ruby>[[鼻]]<rt>ㄅㄧ</rt></ruby>  |     |
 | 76  |      mouth      |  口   |   嘴    |  嘴, 口  |          口           |       口 (입 구)        |              𠰘 miệng              | <ruby>[[口]]<rt>ㄎㄛㄨ</rt></ruby>  |     |
-| 77  |      tooth      |  牙   |   牙齒   |   牙    |          歯           |      牙 (어금니 아)       |              𪘵 răng               |           <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[長牙]]<rt>ㄐㄚㄫ·ㄚ</rt></ruby>            |     |
+| 77  |      tooth      |  牙   |   牙齒   |   牙    |          歯           |      牙 (어금니 아)       |              𪘵 răng               |           <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[長牙]]<rt>ㄐㄚㄫㄚ</rt></ruby>            |     |
 | 78  |     tongue      |  舌   |   舌    |   脷    |          舌           |       舌 (혀 설)        |              𥚇 lưỡi               | <ruby>[[舌]]<rt>ㄙㄝㄊ</rt></ruby>  |     |
 | 79  |   fingernail    |  指   |   指甲   |   指甲   |                      |     𤔽拪 móng tay     |             指甲 jiǝgap              | <ruby>[[指甲]]<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>  |     |
 | 80  |      foot       |  足   |   腳    |   腳    |          足           |          足           |               眞 chân               | <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby>  |     |
@@ -148,7 +148,7 @@ date-last-perfect: 2026-09-16
 | 125 |      stand      |  立   |   站    |   企    |         起きる          |                      |               𨅸đứng               | <ruby>[[立]]<rt>ㄌㄧㄆ</rt></ruby>  |     |
 | 126 |      turn       |  轉   |   轉    |   轉    |          回る          |                      |               搓xoay                | <ruby>[[転化]]<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby>  |     |
 | 127 |      fall       |  墮   |   落下   |   跌    |         落ちる          |                      |           𣑎𨑜rơi xuống            | <ruby>[[落下]]<rt>ㄌㄚㄎㄏㄚ</rt></ruby>  |     |
-| 128 |      give       |  賦   |   給    |   畀    |          贈る          |       付, 賜, 授        |                朱cho                | <ruby>[[贈与]]<rt>ㄐㄜㄫ·⼄</rt></ruby>  |     |
+| 128 |      give       |  賦   |   給    |   畀    |          贈る          |       付, 賜, 授        |                朱cho                | <ruby>[[贈与]]<rt>ㄐㄜㄫ⼄</rt></ruby>  |     |
 | 129 |      hold       |  執   |   握    |   揸    |          持つ          |                      |                扱cặp                | <ruby>[[持]]<rt>ㄉㄧ</rt></ruby>  |     |
 | 130 |     squeeze     |      |   擠    |   挾    |          絞る          |                      |                押ép                 | <ruby>[[絞捻]]<rt>ㄍ⼄ㄨㄋㄝㄆ</rt></ruby>  |     |
 | 131 |       rub       |  擦   |   揉    |   擦    |          擦る          |                      |               𨇵nhào               | <ruby>[[擦]]<rt>ㄑㄚㄊ</rt></ruby>  |     |
@@ -167,14 +167,14 @@ date-last-perfect: 2026-09-16
 | 144 |      flow       |  流   |   流    |   流    |         流れる          |       流 (흐를 류)       |                                    |            <ruby>[[流動]]<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby>            |     |
 | 145 |     freeze      |      | 結冰 , 凍 |   結冰   |          凍る          |       凍 (얼 동)        |                                    |            <ruby>[[凍結]]<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby>            |     |
 | 146 |      swell      |      |   膨脹   |   脹    |         膨らむ          |                      |                                    |            <ruby>[[膨脹]]<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby>            |     |
-| 147 |       sun       |  日   |   太陽   | 太陽, 日頭 |        日 ,太陽         |       太陽 (태양)        |            系𩈘𡗶 , 太陽系             |  <ruby>[[太陽]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby>   |     |
+| 147 |       sun       |  日   |   太陽   | 太陽, 日頭 |        日 ,太陽         |       太陽 (태양)        |            系𩈘𡗶 , 太陽系             |  <ruby>[[太陽]]<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby>   |     |
 | 148 |      moon       |  月   |   月亮   |   月亮   |          月           |       月 (달 월)        |           𩈘𫆢 mặt trăng           |                <ruby>[[月]]<rt>⼔ㄊ</rt></ruby>                |     |
 | 149 |      star       |  星   |   星    |   星    |          星           |       星 (별 성)        |        行星 hành tinh, 𣇟 sao        |     <ruby>[[星]]<rt>ㄙㄝㄫ</rt></ruby>     |     |
 | 150 |      water      |  水   |   水    |   水    |          水           |       水 (물 수)        |               渃nước                |                <ruby>[[水]]<rt>ㄙㄨ</rt></ruby>                |     |
 | 151 |      rain       |  雨   |   雨    |   雨    |          雨           |       雨 (비 우)        |               𩅹mưa                |                <ruby>[[雨]]<rt>ㄨ</rt></ruby>                |     |
 | 152 |      river      |      |   河    |  江, 河  |          川           |          江           |               滝sông                |              <ruby>[[川]]<rt>ㄑ⺢ㄋ</rt></ruby>              |     |
 | 153 |      lake       |  湖   |   湖    |   湖    |          湖           |       湖 (호수 호)       |                湖hồ                 |              <ruby>[[湖水]]<rt>ㄏㄛㄨㄙㄨ</rt></ruby>              |     |
-| 154 |       sea       |  海   |   海    |   海    |          海           |       海 (바다 해)       |               㴜biển                |            <ruby>[[海洋]]<rt>ㄏㄚㄧ·⼘ㄫ</rt></ruby>            |     |
+| 154 |       sea       |  海   |   海    |   海    |          海           |       海 (바다 해)       |               㴜biển                |            <ruby>[[海洋]]<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby>            |     |
 | 155 |      salt       |  滷   |   鹽    |   鹽    |          塩           |                      |               𫜈muối               |                <ruby>[[塩]]<rt>⼶ㄇ</rt></ruby>                |     |
 | 156 |      stone      |  石   |   石    |   石    |          石           |       石 (돌 석)        |                𥒥đá                |                <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby>                |     |
 | 157 |      sand       |  沙   |   沙    |   沙    |          砂           |       沙 (모래 사)       |               𪶼cát                |                <ruby>[[沙]]<rt>ㄙㄚ</rt></ruby>                |     |

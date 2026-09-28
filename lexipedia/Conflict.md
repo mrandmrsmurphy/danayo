@@ -59,7 +59,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[撃](../words/撃.md)<rt>ㄍㄝㄎ</rt></ruby>: to strike, hit, beat.
 - <ruby>[殴打](../words/殴打.md)<rt>ㄛㄨㄉㄚ</rt></ruby>: to strike, batter.
 - <ruby>[攻](../words/攻.md)<rt>ㄍㄛㄫ</rt></ruby>: to attack, criticize.
-- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨ·ㄨㄧ</rt></ruby>: to encircle, surround.
+- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨㄨㄧ</rt></ruby>: to encircle, surround.
 
 ### Capture & Imprisonment
 
@@ -113,7 +113,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Peace & Comfort
 
 - <ruby>[安心](../words/安心.md)<rt>ㄚㄋㄙㄧㄇ</rt></ruby>: peace of mind, to be at ease.
-- <ruby>[平安](../words/平安.md)<rt>ㄅ⼶ㄫ·ㄚㄋ</rt></ruby>: peaceful, safe.
+- <ruby>[平安](../words/平安.md)<rt>ㄅ⼶ㄫㄚㄋ</rt></ruby>: peaceful, safe.
 - <ruby>[康寧](../words/康寧.md)<rt>ㄎㄚㄫㄋㄝㄫ</rt></ruby>: tranquility and peace.
 - <ruby>[安慰](../words/安慰.md)<rt>ㄚㄋ·ㄛㄧ</rt></ruby>: to comfort, console. See Semantic Range Notes.
 - <ruby>[慰安](../words/慰安.md)<rt>ㄛㄧㄚㄋ</rt></ruby>: to comfort, console — the reverse-order sibling of [[安慰]]. See Semantic Range Notes.
@@ -126,7 +126,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[守衛](../words/守衛.md)<rt>ㄙ⼜ㄝ</rt></ruby>: to protect, guard.
 - <ruby>[守護](../words/守護.md)<rt>ㄙ⼜ㄏㄛ</rt></ruby>: to guard, protect; a guardian.
 - <ruby>[防守](../words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>: to defend, guard.
-- <ruby>[防御](../words/防御.md)<rt>ㄅㄚㄫ·⼄</rt></ruby>: to defend, protect, cover.
+- <ruby>[防御](../words/防御.md)<rt>ㄅㄚㄫ⼄</rt></ruby>: to defend, protect, cover.
 - <ruby>[防護](../words/防護.md)<rt>ㄅㄚㄫㄏㄛ</rt></ruby>: to guard against, prevent.
 - <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚ·ㄆㄝ</rt></ruby>: to cover, protect.
 - <ruby>[金庫](../words/金庫.md)<rt>ㄍㄧㄇㄎㄛ</rt></ruby>: a safe, strongbox (the physical object — not the adjective [[安全]]).

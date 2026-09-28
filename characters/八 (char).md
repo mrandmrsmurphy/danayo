@@ -58,7 +58,7 @@ boundedness: 65
 - <ruby>[[八]]<rt>ㄅㄚㄊ</rt></ruby> "eight" (stand-in for 八)
 - <ruby>[[八角]]<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby> "octagon, star anise"
 - <ruby>[[八百]]<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> "eight hundred"
-- <ruby>[[八月]]<rt>ㄅㄚㄊ·⼔ㄊ</rt></ruby> "August"
+- <ruby>[[八月]]<rt>ㄅㄚㄊ⼔ㄊ</rt></ruby> "August"
 - <ruby>[[八卦]]<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby> "bagua, eight-trigrams"
 - <ruby>[[猪八戒]]<rt>ㄐㄛㄅㄚㄊㄍ⼶</rt></ruby> "Zhu Bajie"
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby> "eighty"
@@ -72,7 +72,7 @@ boundedness: 65
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
 
 ## Chengyu
-- <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫ·ㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
+- <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
 
 ## Derived Characters
 - <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby> "trumpet"

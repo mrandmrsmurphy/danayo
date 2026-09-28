@@ -53,7 +53,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[士]]<rt>ㄙㄚㄧ</rt></ruby> "scholar" (stand-in for 士)
-- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧ·ㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
+- <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> "doctor (PhD)"
 - <ruby>[[瑞士]]<rt>ㄙ⼔ㄙㄚㄧ</rt></ruby> "Switzerland"
@@ -64,7 +64,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄨㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"
-- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ·⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
+- <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
 
 ## Derived Characters
 - <ruby>[[寺]]<rt>ㄙㄚ</rt></ruby> "temple (Buddhist)"

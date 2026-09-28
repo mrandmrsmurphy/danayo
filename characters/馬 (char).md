@@ -64,8 +64,8 @@ boundedness: 90
 - <ruby>[[馬厩]]<rt>ㄇㄚㄍ⼜</rt></ruby> "stable"
 - <ruby>[[馬𡿺]]<rt>ㄇㄚ·ㄋㄚㄨ</rt></ruby> "agate"
 - <ruby>[[羅馬字]]<rt>ㄌㄛ·ㄇㄚㄐㄧ</rt></ruby> "Latin letters; Roman alphabet; romanization"
-- <ruby>[[羅馬語]]<rt>ㄌㄛ·ㄇㄚ·⼄</rt></ruby> "Latin"
-- <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby> "Malaysia"
+- <ruby>[[羅馬語]]<rt>ㄌㄛ·ㄇㄚ⼄</rt></ruby> "Latin"
+- <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby> "Malaysia"
 
 ## Derived Characters
 - <ruby>[[碼 (char)|碼]]<rt>ㄇㄚ</rt></ruby> "yard"

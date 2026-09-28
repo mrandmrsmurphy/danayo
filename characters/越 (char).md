@@ -66,7 +66,7 @@ boundedness: 90
 - <ruby>[[百越]]<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[卓越]]<rt>ㄊㄚㄎ·⼔ㄊ</rt></ruby> "excellent, outstanding, remarkable"
 - <ruby>[[超越]]<rt>ㄊㄚㄨ⼔ㄊ</rt></ruby> "surpass"
-- <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ·⼔ㄊ</rt></ruby> "CJKV"
+- <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby> "CJKV"
 
 ## Chengyu
-- <ruby>[[呉越同舟]]<rt>ㄛ·⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby> "bitter enemies meet and have to work together"
+- <ruby>[[呉越同舟]]<rt>ㄛ⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby> "bitter enemies meet and have to work together"

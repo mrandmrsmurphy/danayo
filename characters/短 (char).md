@@ -56,4 +56,4 @@ boundedness: 90
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 
 ## Chengyu
-- <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
+- <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"

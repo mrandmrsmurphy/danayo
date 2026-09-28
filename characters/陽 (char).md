@@ -52,7 +52,7 @@ boundedness: 80
 - [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[太陽]]<rt>ㄊㄚㄧ·⼘ㄫ</rt></ruby> "sun, Sol"
+- <ruby>[[太陽]]<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> "sun, Sol"
 - <ruby>[[陽]]<rt>⼘ㄫ</rt></ruby> "shine" (stand-in for 陽)
 - <ruby>[[陽光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "sunshine, sunlight"
 - <ruby>[[陽性]]<rt>⼘ㄫㄙㄧㄫ</rt></ruby> "positivity, masculine gender"
@@ -62,8 +62,8 @@ boundedness: 80
 - <ruby>[[夕陽]]<rt>ㄙㄝㄎ·⼘ㄫ</rt></ruby> "setting sun, sunset"
 - <ruby>[[陽炎]]<rt>⼘ㄫㄝㄇ</rt></ruby> "heat shimmer, glare of sunlight"
 - <ruby>[[陽傘]]<rt>⼘ㄫㄙㄚㄋ</rt></ruby> "parasol"
-- <ruby>[[太陽風]]<rt>ㄊㄚㄧ·⼘ㄫㄈㄨㄫ</rt></ruby> "solar wind"
+- <ruby>[[太陽風]]<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby> "solar wind"
 - <ruby>[[太陽暦]]<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "solar calendar"
-- <ruby>[[太陽系]]<rt>ㄊㄚㄧ·⼘ㄫㄏㄝㄧ</rt></ruby> "solar system"
-- <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧ·ㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
+- <ruby>[[太陽系]]<rt>ㄊㄚㄧ⼘ㄫㄏㄝㄧ</rt></ruby> "solar system"
+- <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
 - <ruby>[[偪陽]]<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby> "Fuyang (ancient state)"
