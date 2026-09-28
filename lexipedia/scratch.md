@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2567
+- **Unsorted**: 2566
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1266,7 +1266,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[秘密]] — secret
 - [[租金]] — rent
 - [[移動]] — mobile, moveable
-- [[稗子]] — barnyard millet
 - [[種苗]] — seedling
 - [[空手道]] — karate
 - [[穿山甲]] — pangolin
