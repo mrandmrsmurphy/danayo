@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2565
+- **Unsorted**: 2564
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -70,7 +70,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[報道]] — cover news, report on (Speech/journalism "cover," not a container lid — moved out of the Containers bucket 2026-09-28)
 - [[実詞]] — content word (a Grammar term — "content word" vs. function word — not container "content"; moved out of the Containers bucket 2026-09-28)
 - [[汎]] — pan- (a word-formation prefix, not a container — moved out of the Containers bucket 2026-09-28)
-- [[胴体]] — torso, trunk, fuselage (Body-domain "trunk," not a storage trunk — moved out of the Containers bucket 2026-09-28)
 - [[墊]] — mat, pad, cushion (furniture, not a container — moved out of the Containers bucket 2026-09-28)
 - [[畳]] — folding mat, tatami mat (furniture/flooring, not a container — moved out of the Containers bucket 2026-09-28)
 - [[昂揚]] — high-spirited, exalted (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
