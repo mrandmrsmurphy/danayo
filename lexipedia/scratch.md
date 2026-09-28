@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2556
+- **Unsorted**: 2555
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -567,7 +567,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[天鼠]] — bat
 - [[太]] — great
 - [[太様]] — greatly, exceedingly
-- [[太素]] — great plainness
 - [[失礼]] — rude, impolite
 - [[奄人]] — castrati, eunuch
 - [[奇妙]] — amazing, strange
