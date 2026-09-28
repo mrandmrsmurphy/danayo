@@ -97,6 +97,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
 - <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
+- <ruby>[赳赳](../words/赳赳.md)<rt>ㄍ⼜ㄍ⼜</rt></ruby>: strong and valiant — a reduplication.
 
 ### Trust, Respect & Esteem
 
