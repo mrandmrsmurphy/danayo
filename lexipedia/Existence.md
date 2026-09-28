@@ -88,6 +88,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 ### Decision & Judgment
 
 - <ruby>[判断](../words/判断.md)<rt>ㄆㄚㄋㄉ⺢ㄋ</rt></ruby>: to judge, decide, determine.
+- <ruby>[衡量](../words/衡量.md)<rt>ㄏㄚㄫㄌ⼘ㄫ</rt></ruby>: to weigh, measure, evaluate.
 - <ruby>[決](../words/決.md)<rt>ㄎ⼔ㄊ</rt></ruby> / <ruby>[決定](../words/決定.md)<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby>: to determine, decide, choose — 決 the bare root, 決定 the fuller everyday compound.
 
 ### Lack, Necessity & Stability

@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2520
+- **Unsorted**: 2518
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2902,7 +2902,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蘇連]] — soviet union
 - [[西亜]] — west asia
 - [[西部]] — west, western region
-- [[規律]] — rule, regularity, discipline
 - [[諮詢]] — consult, seek advice, make enquiries
 - [[諸子百家]] — hundred schools of thought
 - [[資本]] — capital (finance), resource
@@ -3030,7 +3029,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[浬]] — nautical mile, knot
 - [[測量]] — measure, survey
 - [[精度]] — precision; degree of refinement
-- [[衡量]] — weigh, measure, evaluate
 - [[部隊]] — unit, corp
 
 ## Mind (28)
