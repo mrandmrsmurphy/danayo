@@ -6,12 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2497
+- **Unsorted**: 2529
 - **Calendar**: 116
-- **Directions**: 58
-- **Efforts**: 54
-- **Elements**: 18
-- **Emotions**: 108
 - **Events**: 55
 - **Food**: 118
 - **Geography**: 240
@@ -67,6 +63,39 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[跳高]] — high jump (Events/Sports, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
 - [[魶]] — giant salamander (Animals, "giant" substring match — moved out of the Dimensions bucket 2026-09-28)
 - [[劃]] — divide, mark off, delimit (Efforts/Tools, not a dimension — moved out of the Dimensions bucket 2026-09-28)
+- [[夫]] — right? (a Classical Chinese sentence-final particle — "right?" as in confirmation, not the direction "right"; Grammar-domain — moved out of the Directions bucket 2026-09-28)
+- [[更少]] — less, fewer (a Dimensions-domain quantity word, not a direction — moved out of the Directions bucket 2026-09-28)
+- [[羅馬字]] — latin letters, roman alphabet, romanization (Grammar/language, matched on "Latin" in this domain's own descriptive note — moved out of the Directions bucket 2026-09-28)
+- [[羅馬語]] — latin (Grammar/language, same false match as 羅馬字 — moved out of the Directions bucket 2026-09-28)
+- [[大韓民国]] — republic of korea, south korea (Geography, a country name — moved out of the Directions bucket 2026-09-28)
+- [[朝鮮]] — north korea, choseon (Geography, a country name — moved out of the Directions bucket 2026-09-28)
+- [[韓国]] — korea, south korea (Geography, a country name — moved out of the Directions bucket 2026-09-28)
+- [[台球]] — billiards, pool (Society/Games & Recreation, not effort itself — moved out of the Efforts bucket 2026-09-28)
+- [[桌球]] — table tennis, ping pong (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[網球]] — tennis, tennis ball, net ball (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[網球場]] — tennis court (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[足球]] — football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[蹴球]] — football (ball or sport), soccer (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[鎧球]] — american football, gridiron football, football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[競走]] — race (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
+- [[汽車]] — steam train, locomotive (Transportation, not effort — moved out of the Efforts bucket 2026-09-28)
+- [[空軍]] — air force (Government/Military, "force" substring match — moved out of the Efforts bucket 2026-09-28)
+- [[失禁]] — incontinence, loss of bladder or bowel control (Body, "control" substring match — moved out of the Efforts bucket 2026-09-28)
+- [[大旨]] — main idea, gist (Knowledge/Speech, unrelated to elements — moved out of the Elements bucket 2026-09-28)
+- [[水牛]] — water buffalo (Animals, "water" substring match — moved out of the Elements bucket 2026-09-28)
+- [[九泉]] — the nine springs, the netherworld, the grave (Life/Death, literal burial "grave," not the adjective — moved out of the Emotions bucket 2026-09-28)
+- [[塚]] — hillock, grave, tumulus, burial mound (Life/Death, same false match as 九泉 — moved out of the Emotions bucket 2026-09-28)
+- [[墓穴]] — grave, burial pit, tomb (Life/Death — moved out of the Emotions bucket 2026-09-28)
+- [[墳墓]] — grave, tomb (Life/Death — moved out of the Emotions bucket 2026-09-28)
+- [[夜叉]] — yaksha, yaksa, a fierce demon (Religion/Mythology, "fierce" substring match — moved out of the Emotions bucket 2026-09-28)
+- [[鬼神]] — fierce demon (Religion/Mythology, same false match as 夜叉 — moved out of the Emotions bucket 2026-09-28)
+- [[苦瓜]] — bitter melon (Food, "bitter" substring match — moved out of the Emotions bucket 2026-09-28)
+- [[胃痛]] — stomachache, epigastric pain (Body, "pain" substring match — moved out of the Emotions bucket 2026-09-28)
+- [[窪地]] — hollow, depression, pit (Geography/Nature, geographic "depression," not the emotion — moved out of the Emotions bucket 2026-09-28)
+- [[語気]] — mode, tone, connotation, mood (Grammar, grammatical mood not emotional mood — moved out of the Emotions bucket 2026-09-28)
+- [[語気助詞]] — mood particle, modal particle (Grammar, already on that page — moved out of the Emotions bucket 2026-09-28)
+- [[患]] — suffer from (Body/Medical, "suffer from an illness," not emotional suffering — moved out of the Emotions bucket 2026-09-28)
+- [[罹患]] — suffer from, contract (Body/Medical, same as 患 — moved out of the Emotions bucket 2026-09-28)
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[一朝]] — short time
@@ -2666,253 +2695,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Directions (58)
-
-- [[下]] — down, under
-- [[並]] — side by side
-- [[並列]] — parallel, juxtaposed, side by side
-- [[並立]] — to stand side by side, to coexist, to be parallel
-- [[中央]] — center, middle
-- [[中心]] — center, core, crux
-- [[交情]] — friendship, friendly relations
-- [[側面]] — side, aspect, lateral side
-- [[北方]] — north (direction)
-- [[北極]] — north polar
-- [[北面]] — north side
-- [[南北]] — north and south
-- [[南方]] — south, southern direction
-- [[南極]] — south pole
-- [[反]] — anti-, wrong side up
-- [[右側]] — right (side)
-- [[名誉]] — honor, reputation
-- [[嘉賓]] — guest of honor
-- [[垂直]] — vertical, perpendicular
-- [[大韓民国]] — republic of korea, south korea
-- [[夫]] — right?
-- [[導演]] — direct, director
-- [[左側]] — left (direction), left side
-- [[年歳]] — age (honor.)
-- [[弊]] — evil, wrong
-- [[徳沢]] — grace, beneficence, aid, support
-- [[悪]] — bad, evil
-- [[悪毒]] — malicious, vicious
-- [[扶]] — hold on to for support
-- [[捺]] — right down stroke
-- [[提出]] — to submit, to bring forward, to put forward
-- [[援護]] — support, backing, aid (esp. for veterans)
-- [[攀縁]] — climb, scramble up, cling to (for support)
-- [[方向]] — orientation, course, direction, goal
-- [[時宜]] — timely, be right time
-- [[更少]] — less, fewer
-- [[朝鮮]] — north korea, choseon
-- [[東方]] — east (direction), the orient
-- [[栄辱]] — honor and disgrace, reputation
-- [[権利]] — right, privilege
-- [[沿]] — edge, side
-- [[監督]] — direct, supervise, manage
-- [[直]] — straight, erect, aligned
-- [[直線]] — straight line
-- [[直角]] — right angle
-- [[縦縞]] — vertical stripes, pinstripes
-- [[羅馬字]] — latin letters, roman alphabet, romanization
-- [[羅馬語]] — latin
-- [[臥]] — lie down, crouch
-- [[西方]] — western direction, the west
-- [[親切]] — kind, helpful, friendly
-- [[賛助]] — support, sponsor
-- [[転載]] — reprint, reproduce, forward
-- [[軽視]] — look down on, disdain, underestimate
-- [[辺界]] — side, edge, border
-- [[逓送]] — send, forward, transmit
-- [[隅]] — nook, corner, side
-- [[韓国]] — korea, south korea
-
-## Efforts (54)
-- [[事故]] — accident
-- [[令]] — cause
-- [[企図]] — try, attempt, plan
-- [[偶爾]] — by accident, perchance
-- [[冒険]] — adventure, risk
-- [[努力]] — strive, endeavor
-- [[労動]] — labor, toil
-- [[効果]] — effect
-- [[勉]] — exert, urge
-- [[台球]] — billiards, pool
-- [[嘗試]] — try, attempt
-- [[困難]] — difficult, hard
-- [[圧]] — press, control
-- [[失敗]] — fail, be defeated
-- [[失禁]] — incontinence, loss of bladder or bowel control
-- [[奮発]] — exert oneself, make a special effort
-- [[実力]] — power, strength, force
-- [[尽力]] — exert oneself
-- [[弱]] — weak
-- [[強迫]] — force, compel
-- [[怠惰]] — lazy, indolent
-- [[懶惰]] — lazy
-- [[把握]] — grasp, control
-- [[掌握]] — control
-- [[擦]] — wipe, scrub, rub, scour, brush
-- [[支配]] — rule, control, manage, govern, dominate
-- [[故而]] — therefore, as a result, and so
-- [[既遂]] — accomplish, complete
-- [[柔]] — tender, soft, weak
-- [[柔軟]] — soft, pliable, weak
-- [[桌球]] — table tennis, ping pong
-- [[汽車]] — steam train, locomotive
-- [[災厄]] — trouble, burden, disaster
-- [[率先]] — take the lead, be the first to act
-- [[空軍]] — air force
-- [[競走]] — race
-- [[結果]] — result, fruit
-- [[網球]] — tennis, tennis ball, net ball
-- [[網球場]] — tennis court
-- [[羸弱]] — frail, weak, feeble
-- [[自制]] — restraint, self-control
-- [[自禁]] — self-control
-- [[致]] — cause
-- [[苦悶]] — agony, anguish, worry, trouble
-- [[薄弱]] — weak, feeble
-- [[蠢動]] — to wriggle, to stir up trouble, to act restlessly
-- [[足球]] — football
-- [[蹴球]] — football (ball or sport), soccer
-- [[轄]] — linchpin of a wheel, control
-- [[逼迫]] — force, compel, press, coerce
-- [[錯誤]] — err, make a mistake
-- [[鎧球]] — american football, gridiron football, football
-- [[閙事]] — make a scene, cause trouble
-- [[養成]] — cultivate, train
-
-## Elements (18)
-- [[五行]] — wu xing
-- [[大旨]] — main idea, gist
-- [[梓木]] — catalpa wood
-- [[楠木]] — camphor wood, nanmu
-- [[樺木]] — birch, birch wood
-- [[水]] — water
-- [[水牛]] — water buffalo
-- [[水面]] — water surface
-- [[汽水]] — brackish water
-- [[淡水]] — fresh water, potable water, drinking water
-- [[湯]] — hot water
-- [[火炎]] — flame, blaze
-- [[火焰]] — flame, blaze
-- [[烈火]] — raging inferno, blaze
-- [[符水]] — magic water, charmed water
-- [[乾溜]] — dry distillation, pyrolysis
-- [[週期表]] — periodic table
-- [[風]] — wind
-
-## Emotions (108)
-- [[不安]] — anxiety, unease, insecurity
-- [[不幸]] — unfortunate, sad, unhappy
-- [[不満]] — be dissatisfied, be resentful, be lacking
-- [[九泉]] — the nine springs, the netherworld, the grave
-- [[享受]] — enjoy, relish
-- [[仇恨]] — hatred, enmity, grudge
-- [[仰望]] — look up to
-- [[倦嫌]] — weary, world-weary, jaded, sick and tired
-- [[傲慢]] — proud, overbearing, haughty
-- [[凄惨]] — miserable
-- [[凄涼]] — miserable, desolate
-- [[刻薄]] — cruel, inhuman
-- [[厳粛]] — solemn, austere, grave
-- [[厳重]] — serious, rigorous
-- [[受難]] — to suffer hardship, the passion (christianity)
-- [[台悦]] — happy, pleased, joyful
-- [[和平]] — peaceful
-- [[哀傷]] — sad, distressed, mournful
-- [[哀戚]] — grieving, sorrowful
-- [[哭]] — cry, weep
-- [[喜悦]] — joyous, happy
-- [[嗚咽]] — sob, whimper
-- [[塚]] — hillock, grave, tumulus, burial mound
-- [[墓穴]] — grave, burial pit, tomb
-- [[墳墓]] — grave, tomb
-- [[夜叉]] — yaksha, yaksa, a fierce demon
-- [[娯楽]] — entertain, amuse oneself
-- [[嫉妬]] — be jealous, be envious
-- [[嫌悪]] — hatred, aversion, loathing
-- [[孤独]] — lonely, solitary
-- [[安寧]] — calm, composed
-- [[安穏]] — peaceful, quiet, steady
-- [[安静]] — peaceful, quiet
-- [[寂寞]] — lonely, desolate
-- [[平穏]] — calm, peaceful
-- [[平静]] — calm, serene, peaceful
-- [[幸福]] — happy, blessed
-- [[弔]] — condol, mourn, pity
-- [[忌惮]] — fear, restraint, hesitation
-- [[快]] — sharp, quick, happy
-- [[怒]] — angry
-- [[怒号]] — howl in anger, roar
-- [[怒気]] — anger
-- [[怯]] — cowardly, timid, afraid
-- [[恐怖]] — fear, dread
-- [[恐惧]] — be afraid of, have a dread of, have a phobia of
-- [[恐慌]] — nervous, frantic, panicky
-- [[恥辱]] — disgrace, shame
-- [[恨]] — hate, grudge
-- [[患]] — suffer from
-- [[悩]] — angered, mad
-- [[悲]] — be sad
-- [[悲傷]] — sad, sorrowful, grieving
-- [[悲痛]] — grieved, sorrowful
-- [[悼]] — lament
-- [[情態]] — mood
-- [[情欲]] — lust, intimate desire
-- [[惨]] — wretched, cruel
-- [[愉快]] — happy, pleasant, enjoyable
-- [[意欲]] — motivation, desire, ambition
-- [[慙愧]] — ashamed
-- [[憂慮]] — worry, be anxious
-- [[憤怒]] — indignant, angry
-- [[憤慨]] — indignant, resentful, outraged
-- [[憫]] — pity
-- [[懐愁]] — wistful longing, nostalgic grief
-- [[振]] — shake, excite, rouse
-- [[欣喜]] — happy, glad, joyful
-- [[欲望]] — desire, lust, appetite, craving
-- [[歓呼]] — hail, cheer
-- [[歓喜]] — happy, pleased
-- [[気分]] — mood, feeling
-- [[泣]] — cry, sob
-- [[泰然]] — calm, composed, unruffled
-- [[満足]] — satisfied, contented
-- [[激怒]] — anger, enrage
-- [[焦思]] — worry, deliberate anxiously
-- [[熱情]] — enthusiasm, passion, ardor
-- [[畏]] — fear, dread, reverence, awe, phobia
-- [[痛哭]] — to wail, to cry bitterly, to weep aloud
-- [[痛快]] — joyful; thoroughly satisfying; exhilarating
-- [[瘋顚]] — insane, crazy, mad
-- [[禁欲]] — be ascetic, suppress desire, be abstinent
-- [[私讐]] — personal grudge
-- [[窪地]] — hollow, depression, pit
-- [[緊張]] — tight, tense, worried
-- [[罹患]] — suffer from, contract
-- [[羞恥]] — shame
-- [[羨慕]] — envy, be jealous of
-- [[胃痛]] — stomachache, epigastric pain
-- [[自足]] — be self-sufficient, be satisfied with oneself
-- [[苛酷]] — cruel, harsh, severe
-- [[苦]] — suffering, bitter
-- [[苦瓜]] — bitter melon
-- [[苦痛]] — agony, pain, suffering
-- [[衷情]] — heartfelt emotion, inner feelings
-- [[語気]] — mode, tone, connotation, mood
-- [[語気助詞]] — mood particle, modal particle
-- [[賛嘆]] — admire, gasp in admiration
-- [[踊躍]] — leap for joy, eager, enthusiastic
-- [[辣]] — spicy, hot, cruel
-- [[隙]] — fissure, grudge
-- [[雀躍]] — jump for joy
-- [[飽足]] — satisfied, satiated
-- [[高興]] — glad, pleased
-- [[鬼神]] — fierce demon
-- [[鼓舞]] — encourage, cheer
-- [[懍懍]] — fearful appearance, stern and rigorous appearance
 
 ## Events (55)
 
