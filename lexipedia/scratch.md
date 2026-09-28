@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2566
+- **Unsorted**: 2565
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1337,7 +1337,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[縦]] — selfish, arbitrary
 - [[繁多]] — varied, numerous, manifold
 - [[繁華]] — lively, bustling
-- [[繃帯]] — bandage
 - [[織女]] — the weaver girl
 - [[織女星]] — vega
 - [[繞]] — entwine, surround, enclose
