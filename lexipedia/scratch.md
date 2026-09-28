@@ -6,9 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2532
+- **Unsorted**: 2546
 - **Calendar**: 116
-- **Food**: 118
 - **Geography**: 240
 - **Government**: 124
 - **Life**: 26
@@ -98,6 +97,19 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[其事]] — that act, that matter (Grammar, already on that page's correlative-pronoun table — moved out of the Events bucket 2026-09-28)
 - [[法律]] — statute, law, act (Government/Law, "act" in the legislative sense, not "to act" — moved out of the Events bucket 2026-09-28)
 - [[無我]] — non-self, anattā (Religion/Buddhist doctrine, not an event — moved out of the Events bucket 2026-09-28)
+- [[亜洲]] — asia (Geography, matched via this bucket's own "## Asia" word-formation note — moved out of the Food bucket 2026-09-28)
+- [[亜細亜]] — asia (Geography, same false match as 亜洲 — moved out of the Food bucket 2026-09-28)
+- [[東南亜]] — southeast asia (Geography, same false match — moved out of the Food bucket 2026-09-28)
+- [[技術]] — technology, technique (Efforts/Knowledge, matched via the same "## Asia... technique" note — moved out of the Food bucket 2026-09-28)
+- [[股]] — crotch, groin, fork (Body, the wrong "fork" — moved out of the Food bucket 2026-09-28)
+- [[音叉]] — tuning fork (Music/Art, the wrong "fork" — moved out of the Food bucket 2026-09-28)
+- [[部]] — part (too generic, not food-specific — moved out of the Food bucket 2026-09-28)
+- [[部分]] — part, section, segment, portion (too generic — moved out of the Food bucket 2026-09-28)
+- [[郭]] — outermost part (too generic — moved out of the Food bucket 2026-09-28)
+- [[粒子]] — particle, grain (Physics, the wrong "grain" — moved out of the Food bucket 2026-09-28)
+- [[猩蝿]] — fruit fly, drosophila (Animals, an insect not a food — moved out of the Food bucket 2026-09-28)
+- [[餓鬼]] — hungry ghost, preta (Religion/Buddhist mythology, not hunger itself — moved out of the Food bucket 2026-09-28)
+- [[趣味]] — hobby, interest, taste (Society/Mind, "taste" as interest not flavor — moved out of the Food bucket 2026-09-28)
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[一朝]] — short time
@@ -2697,126 +2709,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Food (118)
-- [[丁香]] — clove
-- [[串]] — skewer
-- [[乳酪]] — dairy products
-- [[乾酪]] — cheese
-- [[井物]] — bowl of food
-- [[亜洲]] — asia
-- [[亜細亜]] — asia
-- [[刀刃]] — knife blade, pivotal moment
-- [[刀叉]] — fork and knife
-- [[剝皮]] — skin, peel, flay
-- [[勺]] — spoon, ladle
-- [[包子]] — steamed bun
-- [[午飯]] — lunch, noon meal
-- [[午餐]] — lunch
-- [[叉]] — fork, prong, tine
-- [[収穫]] — harvest, crop, yield
-- [[喫]] — devour, ingest
-- [[営養]] — nutrition, nourishment
-- [[塩]] — salt
-- [[大食]] — binge eat
-- [[大麦茶]] — barley tea
-- [[技術]] — technology, technique
-- [[拌和]] — stir, mix, blend
-- [[摂食]] — feed, ingest
-- [[撹拌]] — stir up, agitate
-- [[新鮮]] — fresh, novel
-- [[明蝦]] — king prawn
-- [[晩飯]] — dinner, supper, evening meal
-- [[暴飲]] — binge drink
-- [[東南亜]] — southeast asia
-- [[果子]] — candy, pastry
-- [[果実]] — fruit, berry
-- [[果汁]] — fruit juice
-- [[果醤]] — jam, jelly, preserves
-- [[栄養]] — nourishment, nutrition
-- [[桜桃]] — cherry (fruit)
-- [[橙果]] — orange (the fruit)
-- [[正餐]] — dinner
-- [[毛蝦]] — shrimp
-- [[汁]] — soup, juice
-- [[清淡]] — insipid, plain, dilute
-- [[渇]] — thirst, thirsty
-- [[漁業]] — fishing industry, fishery
-- [[漁船]] — fishing boat
-- [[漬]] — pickle, salt, soak, steep
-- [[炊]] — cook
-- [[炒]] — fry, sauté
-- [[点心]] — snack; dim sum; light dishes (mandarin/cantonese/japanese), lunch, the midday meal (korean — see note)
-- [[烏龍茶]] — oolong tea
-- [[焼酎]] — soju, shochu, rice wine, shaojiu
-- [[牛井]] — gyudon, beef rice bowl
-- [[猩蝿]] — fruit fly, drosophila
-- [[玄米]] — brown rice
-- [[甘]] — sweet
-- [[甘味]] — sweetness, sweet taste
-- [[甘藷]] — sweet potato
-- [[甜菜]] — sugar beet
-- [[産量]] — output, yield
-- [[禁漁]] — fishing ban, no fishing
-- [[禾]] — grain, cereal
-- [[禾稲]] — rice
-- [[穀物]] — grain, cereal, crops
-- [[穣]] — stalks of grain
-- [[箸]] — chopsticks
-- [[米]] — rice (uncooked)
-- [[米粟]] — grains, rice and millet
-- [[米飯]] — rice (cooked)
-- [[粒子]] — particle, grain
-- [[糖]] — sugar
-- [[紅茶]] — black tea, red tea
-- [[肉]] — meat
-- [[肉汁]] — gravy, broth
-- [[肉湯]] — broth
-- [[股]] — crotch, groin, fork
-- [[肴]] — cooked meat
-- [[膳食]] — meal, diet, food
-- [[臘肉]] — cured pork, preserved meat
-- [[苦味]] — bitter taste, bitterness
-- [[茉莉]] — white jasmine
-- [[茶]] — tea (drink), tea (plant)
-- [[菜汁]] — vegetable juice
-- [[菜蔬]] — vegetables, greens
-- [[菱]] — water chestnut
-- [[蕃藷]] — sweet potato
-- [[薄荷]] — mint (candy)
-- [[蜜柑]] — mandarin orange
-- [[親子井]] — oyakodon, chicken and egg rice bowl
-- [[豚井]] — butadon, pork rice bowl
-- [[趣味]] — hobby, interest, taste
-- [[部]] — part
-- [[部分]] — part, section, segment, portion
-- [[郭]] — outermost part
-- [[酌酒]] — pour wine
-- [[酒糟]] — distiller's grain, lees
-- [[酸]] — acidic, sour
-- [[醇酒]] — good wine
-- [[醍醐]] — ghee, finest cream, essence of buddhism
-- [[醤油]] — soy sauce
-- [[醸造]] — brew, ferment
-- [[釣竿]] — fishing pole
-- [[音叉]] — tuning fork
-- [[顆粒]] — granule, pellet, grain
-- [[食]] — eat
-- [[飢餓]] — hungry, starving
-- [[飢饉]] — famine, crop failure
-- [[飲]] — drink
-- [[飲食]] — eat and drink
-- [[餅]] — pastry, cake, mochi
-- [[餐]] — eat, dine
-- [[餓鬼]] — hungry ghost, preta
-- [[饅頭]] — steamed bun
-- [[魚翅]] — shark fin
-- [[鮮美]] — delicious, tasty
-- [[鶏肉]] — chicken, chicken meat
-- [[麦茶]] — barley tea
-- [[麦酒]] — beer
-- [[麺]] — flour
-- [[麺包]] — bread
 
 ## Geography (240)
 - [[䔥国]] — state of Xiao (rerouted from the Existence bucket — an ancient political-geography name)

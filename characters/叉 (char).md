@@ -62,3 +62,4 @@ boundedness: 85
 - <ruby>[[魚叉]]<rt>⼄ㄑㄚㄧ</rt></ruby> "harpoon; fish spear"
 - <ruby>[[叉勺]]<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby> "spork"
 - <ruby>[[交叉]]<rt>ㄍ⼘ㄨㄑㄚㄧ</rt></ruby> "intersect, cross, overlap" ("fork in the road"!)
+- <ruby>[[刀叉]]<rt>ㄊㄚㄨㄑㄚㄧ</rt></ruby> "fork and knife"
