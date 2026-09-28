@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2561
+- **Unsorted**: 2560
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1628,7 +1628,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[速]] — quick, fast
 - [[速様]] — quickly
 - [[造幣局]] — mint, bureau of engraving and minting
-- [[連体]] — adnominal, attributive
 - [[連帯]] — solidarity, joint (responsibility)
 - [[連濁]] — rendaku
 - [[連盟]] — covenant, alliance
