@@ -22,6 +22,7 @@
 - sky
 - snow
 - storm
+- tsunami <ruby>[津波](../words/津波.md)<rt>ㄐㄧㄋㄅㄚ</rt></ruby>
 - valley
 - wild
 - wind

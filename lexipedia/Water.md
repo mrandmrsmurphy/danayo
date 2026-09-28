@@ -49,6 +49,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>: pond, reservoir.
 - <ruby>[渉](../words/渉.md)<rt>ㄙㄝㄆ</rt></ruby>: ford (a shallow river crossing).
 - <ruby>[井堰](../words/井堰.md)<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby>: a weir — smaller-scale than [[堰堤]], associated with a well or irrigation channel rather than damming a river outright.
+- <ruby>[灌漑](../words/灌漑.md)<rt>ㄍ⺢ㄋㄍㄚㄧ</rt></ruby>: irrigation.
 
 ### Tides, Currents & Floods
 

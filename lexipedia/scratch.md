@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2536
+- **Unsorted**: 2534
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1005,7 +1005,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[泰国]] — thailand
 - [[洒]] — sprinkle, spray
 - [[洞窟]] — cave, cavern
-- [[津波]] — tsunami
 - [[派生]] — derive
 - [[流暢]] — fluent, flowing
 - [[浦]] — riverbank, shore
@@ -1062,7 +1061,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[潰瘍]] — ulcer
 - [[激励]] — encourage, motivate
 - [[瀑布]] — waterfall, cataract, cascade
-- [[灌漑]] — irrigation
 - [[火山]] — volcano
 - [[灯籠]] — lantern
 - [[灼熱]] — burning hot, scorching
