@@ -6,9 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2529
+- **Unsorted**: 2532
 - **Calendar**: 116
-- **Events**: 55
 - **Food**: 118
 - **Geography**: 240
 - **Government**: 124
@@ -96,6 +95,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[語気助詞]] — mood particle, modal particle (Grammar, already on that page — moved out of the Emotions bucket 2026-09-28)
 - [[患]] — suffer from (Body/Medical, "suffer from an illness," not emotional suffering — moved out of the Emotions bucket 2026-09-28)
 - [[罹患]] — suffer from, contract (Body/Medical, same as 患 — moved out of the Emotions bucket 2026-09-28)
+- [[其事]] — that act, that matter (Grammar, already on that page's correlative-pronoun table — moved out of the Events bucket 2026-09-28)
+- [[法律]] — statute, law, act (Government/Law, "act" in the legislative sense, not "to act" — moved out of the Events bucket 2026-09-28)
+- [[無我]] — non-self, anattā (Religion/Buddhist doctrine, not an event — moved out of the Events bucket 2026-09-28)
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[一朝]] — short time
@@ -2695,63 +2697,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Events (55)
-
-- [[主題]] — topic, theme, subject, motif
-- [[事件]] — event, incident, occurrence
-- [[作用]] — act upon, affect
-- [[停止]] — stop, suspend
-- [[儀式]] — ritual ceremony
-- [[儀礼]] — etiquette, ceremony, courtesy
-- [[其事]] — that act, that matter
-- [[又]] — or again
-- [[始作]] — begin, start
-- [[完成]] — complete, finish
-- [[屢]] — frequently, often, again and again, repeatedly
-- [[希有]] — rare
-- [[引禍]] — to bring on calamity, to draw disaster upon oneself
-- [[従事]] — to engage in, to be involved in, to pursue (a vocation)
-- [[恒常]] — constant, usual, common
-- [[招災]] — to invite disaster, to bring calamity on oneself
-- [[机会]] — opportunity
-- [[来賓]] — guest, visitor (at an event)
-- [[法律]] — statute, law, act
-- [[活動]] — move, engage in activity
-- [[災害]] — disaster, calamity
-- [[災殃]] — disaster
-- [[無我]] — non-self, anattā
-- [[珍]] — rare
-- [[生日]] — birthday
-- [[番]] — time, turn, occasion
-- [[癖]] — idiosyncrasy, habit
-- [[発展]] — develop
-- [[祭典]] — festival, sacrificial ceremony
-- [[禍事]] — disaster, calamity
-- [[禍害]] — disaster
-- [[積極]] — positive, active, dynamic
-- [[絶後]] — never happen again, not have children
-- [[継続]] — continue, proceed, persist
-- [[綴]] — bind, stop
-- [[繁忙]] — busy
-- [[習慣]] — be accustomed to, be in the habit of
-- [[行動]] — act, action
-- [[設備]] — equip, finish, provide
-- [[誠意]] — act in good faith, do sincerely
-- [[誦]] — recite, chant, repeat
-- [[逗留]] — stay, pause, sojourn
-- [[週年]] — anniversary
-- [[重複]] — repeat, duplicate, be repetitive
-- [[開始]] — begin, start
-- [[間諜]] — spy, secret agent
-- [[際]] — border, occasion
-- [[頃]] — moment, occasion
-- [[頻]] — frequent, again and again
-- [[恭賀]] — congratulate respectfully
-- [[慶]] — congratulate, celebrate
-- [[祝賀]] — congratulate
-- [[中止]] — to discontinue, to cancel, to call off
-- [[危机]] — crisis, critical juncture
 
 ## Food (118)
 - [[丁香]] — clove
