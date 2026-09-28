@@ -52,4 +52,4 @@ boundedness: 65
 - <ruby>[[碧玉]]<rt>ㄅ⼶ㄎ·⼄ㄎ</rt></ruby> "jasper"
 - <ruby>[[紅玉]]<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby> "ruby"
 ## Chengyu
-- <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢ㄎ·⼜ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"
+- <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"

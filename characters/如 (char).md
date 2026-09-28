@@ -59,7 +59,7 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[愛隣如自]]<rt>ㄚㄧㄌㄧㄋㄋ⼄ㄐㄧㄜ</rt></ruby> "love your neighbor as yourself"
-- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> "a hundred hearings can't match one seeing"
+- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "a hundred hearings can't match one seeing"
 
 ## Derived Characters
 - <ruby>[[恕]]<rt>ㄙ⼄</rt></ruby> "to forgive, pardon; to show consideration for others"

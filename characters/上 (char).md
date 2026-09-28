@@ -64,4 +64,4 @@ boundedness: 70
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
 
 ## Chengyu
-- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> "above and below, no idols"
+- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "above and below, no idols"

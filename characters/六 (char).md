@@ -68,7 +68,7 @@ boundedness: 50
 
 ## Chengyu
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
-- <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄉㄝㄫ</rt></ruby> "Six work, one rest"
+- <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"
 
 ### Links
 ![[nav/Numerals]]

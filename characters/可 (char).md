@@ -64,7 +64,7 @@ boundedness: 75
 - <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby> "funny, amusing; ridiculous, laughable"
 
 ## Chengyu
-- <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄚㄙㄚ·ㄨㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"
+- <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄜㄙㄚㄜㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"
 
 ## Derived Characters
 - <ruby>[[何 (char)|何]]<rt>ㄏㄚ</rt></ruby> "what"

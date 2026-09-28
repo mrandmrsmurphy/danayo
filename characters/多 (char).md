@@ -66,7 +66,7 @@ boundedness: 70
 
 ## Chengyu
 - <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
-- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
+- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 
 ## Derived Characters
 - <ruby>[[爹]]<rt>ㄉㄚ</rt></ruby> "father"

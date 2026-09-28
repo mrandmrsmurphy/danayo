@@ -80,7 +80,7 @@ boundedness: 55
 - <ruby>[[小行星]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby> "asteroid"
 - <ruby>[[矮行星]]<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby> "dwarf planet"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
-- <ruby>[[飛行机]]<rt>ㄆㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
+- <ruby>[[飛行机]]<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

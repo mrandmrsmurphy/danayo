@@ -65,7 +65,7 @@ boundedness: 65
 ## Chengyu
 - <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"
-- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
+- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
 - <ruby>[[暗送秋波]]<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> "to flirt, to convey feelings through a knowing glance"
 ## Derived Characters
 - <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby> "shovel"

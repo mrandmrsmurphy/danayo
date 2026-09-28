@@ -59,4 +59,4 @@ date-last-perfect: 2026-08-08
 - <ruby>[[穹蒼]]<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby> "blue dome of heaven; firmament (dated)"
 
 ## Chengyu
-- <ruby>[[蒼海桑田]]<rt>ㄑㄚㄫㄏㄚㄧㄙㄚㄫㄉㄚㄋ</rt></ruby> "time brings drastic changes to the world; the vicissitudes of life"
+- <ruby>[[蒼海桑田]]<rt>ㄑ⺢ㄫㄏㄚㄧㄙㄚㄫㄉㄝㄋ</rt></ruby> "time brings drastic changes to the world; the vicissitudes of life"

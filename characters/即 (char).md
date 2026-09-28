@@ -53,7 +53,7 @@ date-last-perfect: 2026-07-17
 - <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
 - <ruby>[[即日]]<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> "same day"
 ## Chengyu
-- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
+- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> "volatile; touch-and-go"
 ## Derived Characters

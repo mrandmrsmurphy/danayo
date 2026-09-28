@@ -63,4 +63,4 @@ boundedness: 75
 - <ruby>[[三稜鏡]]<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby> "prism"
 
 ## Chengyu
-- <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"
+- <ruby>[[鏡花水月]]<rt>ㄍ⼶ㄫㄏ⺢ㄙㄨ⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"

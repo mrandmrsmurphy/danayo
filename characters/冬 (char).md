@@ -60,4 +60,4 @@ boundedness: 80
 - <ruby>[[季冬]]<rt>ㄍㄨㄧㄊㄛㄫ</rt></ruby> "late winter (12th month)"
 
 ## Chengyu
-- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
+- <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"

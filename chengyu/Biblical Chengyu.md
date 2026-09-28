@@ -7,7 +7,7 @@ tags:
 Over all is [[創反救成]] - Creation/Fall/Redemption/Consummation
 
 - [[指記二碑]] - the two tables of the law
-- <ruby>[上下無偶](/chengyu/上下無偶.md)<rt>ㄙ⼘ㄫㄏㄚㄇㄨ·ㄛㄊ</rt></ruby> - above and below no idols
+- <ruby>[上下無偶](/chengyu/上下無偶.md)<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> - above and below no idols
 - [[愛主耳錐]] - love master?  ear awl
 - [[瑠璃清天]] - lapis lazuli, like heaven for clearness
 - [[血誓盟約]] - the blood of the covenant

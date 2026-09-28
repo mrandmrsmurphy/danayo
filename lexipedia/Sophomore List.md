@@ -405,7 +405,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 ## Modern
 - Air :
 	- airport - <ruby>[[空港]]<rt>ㄎㄛㄫㄏㄛㄫ</rt></ruby>
-	- airplane - <ruby>[[../words/飛行机|飛行机]]<rt>ㄆㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>
+	- airplane - <ruby>[[../words/飛行机|飛行机]]<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>
 - Cars :
 	- car - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby>
 	- bus - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> *(literally "public vehicle")*

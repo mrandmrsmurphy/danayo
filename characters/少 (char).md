@@ -61,7 +61,7 @@ boundedness: 90
 - <ruby>[[希少]]<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby> "scarce"
 ## Chengyu
 - <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
-- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
+- <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 ## Derived Characters
 - <ruby>[[妙 (char)|妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle"
 - <ruby>[[秒 (char)|秒]]<rt>ㄇ⼄ㄨ</rt></ruby> "second (time)"

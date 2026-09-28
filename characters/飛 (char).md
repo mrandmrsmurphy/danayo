@@ -58,8 +58,8 @@ boundedness: 65
 - <ruby>[[飛机]]<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby> "plane"
 - <ruby>[[飛行]]<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby> "fly, flight"
 - <ruby>[[飛報]]<rt>ㄈㄝㄧㄅㄚㄨ</rt></ruby> "report rapidly"
-- <ruby>[[飛行机]]<rt>ㄆㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
-- <ruby>[[飛語]]<rt>ㄆㄧ·⼄</rt></ruby> "baseless rumor, false gossip"
+- <ruby>[[飛行机]]<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
+- <ruby>[[飛語]]<rt>ㄈㄝㄧ⼄</rt></ruby> "baseless rumor, false gossip"
 
 ## Chengyu
-- <ruby>[[流言飛語]]<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
+- <ruby>[[流言飛語]]<rt>ㄌ⼜ㄝㄋㄈㄝㄧ⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"
