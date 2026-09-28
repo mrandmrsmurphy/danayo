@@ -6,10 +6,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2546
+- **Unsorted**: 2569
 - **Calendar**: 116
 - **Geography**: 240
-- **Government**: 124
 - **Life**: 26
 - **Light**: 33
 - **Locatives**: 15
@@ -37,6 +36,29 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 ## Unsorted (2367)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
+- [[乗車]] — board a vehicle, get on (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
+- [[人員]] — staff, personnel, employee (general HR/Work vocab, not specifically governmental — moved out of the Government bucket 2026-09-28)
+- [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
+- [[内省]] — reflect, introspect, examine oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
+- [[刊]] — publication, periodical (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
+- [[囲棋]] — go (board game) ("board" false positive — moved out of the Government bucket 2026-09-28)
+- [[学区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
+- [[寄宿]] — lodge, board, rent ("board" false positive — moved out of the Government bucket 2026-09-28)
+- [[年刊]] — annual, annual publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
+- [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
+- [[日刊]] — daily publication, daily periodical (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
+- [[月刊]] — monthly periodical, monthly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
+- [[木板]] — board, plank (Materials, "board" false positive — moved out of the Government bucket 2026-09-28)
+- [[杖]] — staff, stick (walking stick, "staff" false positive — moved out of the Government bucket 2026-09-28)
+- [[校区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
+- [[検査]] — inspect, examine, check (general "examine" false positive — moved out of the Government bucket 2026-09-28)
+- [[牧師]] — pastor, minister (protestant) (Religion, "minister" false positive — moved out of the Government bucket 2026-09-28)
+- [[登]] — mount, board, climb (general motion verb, "board" false positive — moved out of the Government bucket 2026-09-28)
+- [[自分]] — self-examine, assess oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
+- [[試験]] — test, examine (general "examine" false positive — moved out of the Government bucket 2026-09-28)
+- [[諒解]] — excuse, forgive (too general, not government-specific — moved out of the Government bucket 2026-09-28)
+- [[週刊]] — weekly periodical, weekly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
+- [[験]] — check, examine (general "examine" false positive — moved out of the Government bucket 2026-09-28)
 - [[回転]] — turn, spin, rotate, revolve (mechanical rotation; not a Clothing match — moved out of the Clothing bucket 2026-09-27)
 - [[磨耗]] — wear, abrasion (material/engineering degradation, not "to wear clothing" — moved out of the Clothing bucket 2026-09-27)
 - [[暴風]] — windstorm, violent storm, gale (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
@@ -2951,132 +2973,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[香芝]] — kashiba (city in nara prefecture, japan)
 - [[高山]] — high mountain, alpine
 - [[黄海]] — yellow sea
-
-## Government (124)
-- [[主導]] — lead
-- [[主席]] — chairman, chairperson
-- [[主従]] — master and servant, lord and retainer
-- [[主掌]] — to be in charge of, to administer
-- [[乗車]] — board a vehicle, get on
-- [[人員]] — staff, personnel, employee
-- [[会議]] — meeting, conference
-- [[伯爵]] — earl, count
-- [[俸祿]] — official salary, stipend, emolument
-- [[俸給]] — salary, stipend, official pay
-- [[允許]] — grant, allow
-- [[免除]] — excuse, relieve, exempt
-- [[兪允]] — consent to, permit (of the emperor)
-- [[公共]] — public, communal
-- [[公卿]] — nobility
-- [[公演]] — put on a public performance of
-- [[公約]] — public pledge, election promise, treaty
-- [[公衆]] — public, communal
-- [[公邸]] — official residence
-- [[公館]] — official residence
-- [[共和]] — collaboration, cooperation, republicanism
-- [[共産]] — communist
-- [[共産党]] — communist party
-- [[内省]] — reflect, introspect, examine oneself
-- [[内閣]] — cabinet (government)
-- [[准許]] — allow, permit
-- [[刊]] — publication, periodical
-- [[協定]] — agreement, accord, pact
-- [[即位]] — to ascend the throne
-- [[卿]] — noble, high officer, sir, m'lord
-- [[厳禁]] — strictly forbidden, strictly prohibit
-- [[参謀]] — staff officer, strategist, advisor
-- [[受託]] — to be entrusted with, to accept a commission
-- [[嘱託]] — commission, entrust, consignment
-- [[囲棋]] — go (board game)
-- [[国民党]] — nationalist party
-- [[在位]] — to reign, to be in office
-- [[大夫]] — official
-- [[大王]] — great king
-- [[大臣]] — official, minister
-- [[大衆]] — masses, public, multitude
-- [[天皇]] — emperor of japan, mikado
-- [[女皇]] — empress
-- [[委]] — appoint, send, commission
-- [[委託]] — entrust, trust
-- [[学区]] — school district
-- [[官人]] — official
-- [[官僚]] — bureaucrat, apparatchik
-- [[官僚主義]] — bureaucracy, bureaucratism
-- [[官吏]] — public servant, clerk, officer
-- [[宰相]] — supreme chancellor, prime minister, premier
-- [[寄宿]] — lodge, board, rent
-- [[射策]] — policy examination
-- [[将校]] — commissioned officer
-- [[将軍]] — shogun, supreme commander
-- [[尉]] — officer
-- [[帝国]] — empire
-- [[帝王]] — emperor
-- [[年刊]] — annual, annual publication
-- [[幹部]] — leader, officer, executive
-- [[廃黜]] — depose, dethrone, dismiss from office
-- [[弒君]] — regicide, assassinate a ruler
-- [[従]] — obey, observe
-- [[抑制]] — to suppress, to restrain, to inhibit
-- [[抑止]] — repress, restrain
-- [[拘束]] — constrain, restrain
-- [[授与]] — confer, award, grant
-- [[提携]] — alliance, cooperation, tie-up
-- [[搭乗]] — boarding, embarkation, board, take a conveyance
-- [[支部]] — branch, chapter
-- [[政治]] — politics
-- [[日刊]] — daily publication, daily periodical
-- [[明君]] — wise ruler, enlightened monarch
-- [[月刊]] — monthly periodical, monthly publication
-- [[服従]] — obedience, submission, to obey
-- [[木板]] — board, plank
-- [[机関]] — machine, organ, organization
-- [[杖]] — staff, stick
-- [[条約]] — pact, treaty
-- [[校区]] — school district
-- [[検査]] — inspect, examine, check
-- [[汚吏]] — corrupt official
-- [[爵位]] — peerage, title of nobility
-- [[牧師]] — pastor, minister (protestant)
-- [[王]] — king
-- [[王位]] — throne
-- [[王朝]] — dynasty, reign, court
-- [[登]] — mount, board, climb
-- [[皇后]] — empress, queen consort
-- [[皇帝]] — emperor
-- [[禁制]] — prohibit, prohibition, regulatory restriction
-- [[禁止]] — forbid, prohibit
-- [[禁煙]] — no smoking, tobacco prohibition
-- [[禁酒]] — prohibition of alcohol, no alcohol, temperance
-- [[税金]] — duty, tax
-- [[管理]] — supervise, administer, manage
-- [[統率]] — command, lead
-- [[総統]] — president, head of state
-- [[群衆]] — crowd, masses, the public
-- [[臣民]] — officials and commoners, subjects
-- [[自分]] — self-examine, assess oneself
-- [[自治]] — autonomy, self-government
-- [[行政]] — administration, government, executive
-- [[解禁]] — lift a ban, rescind a prohibition
-- [[許]] — permit, allow
-- [[許可]] — permission, authorization
-- [[試験]] — test, examine
-- [[諌議]] — to remonstrate, to admonish a ruler
-- [[諒解]] — excuse, forgive
-- [[諭示]] — issue a decree
-- [[譲]] — permit
-- [[貴族]] — aristocrat, nobility
-- [[輔佐]] — assist (a ruler), serve as an aide
-- [[輔弼]] — assist (a ruler)
-- [[辞任]] — resign from office
-- [[通行証]] — permit, pass, prerequisite
-- [[週刊]] — weekly periodical, weekly publication
-- [[遵守]] — abide by, obey
-- [[部署]] — government office, department
-- [[部長]] — head, chief, secretary, minister
-- [[郭清]] — to purge, to clear away, surgical dissection
-- [[頒布]] — promulgate, issue officially, publish (a decree)
-- [[首領]] — supreme leader, chief
-- [[験]] — check, examine
 
 ## Life (26)
 

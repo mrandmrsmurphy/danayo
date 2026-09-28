@@ -9,7 +9,7 @@ date-last-perfect: 2026-09-28
 
 # Food
 
-Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and textures that describe them, along with the fishing and farming that produce raw ingredients in the first place. Several basic terms (bread as a category, cup, coconut's own general "fruit" contrast, cheese as a bare general word beyond 乳酪/乾酪, wine as a general category beyond specific drinks, poison, coffee, milk, soda, cider, honey, butter, sausage, gravy as a general word beyond 肉汁, butcher, dough, pasta, noodle, spice as a general word, dessert, custard, pudding, cake as a general word beyond 餅, chocolate, broth as a general word beyond 肉湯, stew) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. This vault's own note on a three-part technique×ingredient×cutting-style compounding pattern for Asian cuisine terms is being handled separately.
+Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and textures that describe them, along with the fishing and farming that produce raw ingredients in the first place. Several basic terms (bread as a category, cup, coconut's own general "fruit" contrast, cheese as a bare general word beyond 乳酪/乾酪, wine as a general category beyond specific drinks, poison, coffee, milk, soda, cider, honey, butter, sausage, gravy as a general word beyond 肉汁, butcher, dough, pasta, noodle, spice as a general word, dessert, custard, pudding, cake as a general word beyond 餅, chocolate, broth as a general word beyond 肉湯, stew) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. This vault's own note on a three-part technique×ingredient×cutting-style compounding pattern for Asian cuisine terms is documented in its own section below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -156,6 +156,44 @@ Rosenfelder terms with no Dan'a'yo word yet: bread (a general category beyond [[
 - <ruby>[醍醐](../words/醍醐.md)<rt>ㄊㄝㄧㄏㄛㄨ</rt></ruby>: ghee, finest cream — also, figuratively, "the essence of Buddhism." See Semantic Range Notes.
 - <ruby>[顆粒](../words/顆粒.md)<rt>ㄎ⺢ㄌㄨㄆ</rt></ruby>: a granule, pellet, grain.
 
+## Asian Cuisine Naming: Technique × Ingredient × Cutting-Style
+
+Dan'a'yo names a stir-fry/pan-fry/deep-fry dish productively by concatenating three morphemes in a fixed order — **technique + ingredient + cutting-style** — the same compounding logic real Chinese dish names use (宮保雞丁 "Kung Pao diced chicken," 糖醋魚片 "sweet and sour fish slices"). With 3 techniques, 4 ingredients, and 5 cutting-styles, this generates 3×4×5 = 60 possible compounds. All 60 are shown below as compositional readings — none are independently created word files, and none are linked, since this is a demonstrated generative pattern rather than 60 individually coined entries.
+
+**The twelve base morphemes:**
+- Technique: <ruby>炒<rt>ㄑㄚㄨ</rt></ruby> (stir-fry), <ruby>煎<rt>ㄐㄝㄋ</rt></ruby> (pan-fry), <ruby>炸<rt>ㄐㄚㄎ</rt></ruby> (deep-fry)
+- Ingredient: <ruby>肉<rt>ㄋㄨㄎ</rt></ruby> (meat), <ruby>魚<rt>⼄</rt></ruby> (fish), <ruby>鶏<rt>ㄍㄝㄧ</rt></ruby> (chicken), <ruby>蝦<rt>ㄏㄚ</rt></ruby> (shrimp)
+- Cutting-style: <ruby>丁<rt>ㄉㄝㄫ</rt></ruby> (cubes/diced), <ruby>片<rt>ㄆㄝㄋ</rt></ruby> (slices), <ruby>条<rt>ㄐㄛ</rt></ruby> (strips), <ruby>糸<rt>ㄙㄚ</rt></ruby> (shredded), <ruby>球<rt>ㄍ⼜</rt></ruby> (bites/balls)
+
+Two of the three technique characters (煎, 炸) are marked `名専字` (name/transliteration-only) on their own character pages, with no independent legitimizing word — that status doesn't block their use here. This grid itself is their substantive, non-transliteration use.
+
+### 炒 Dishes (stir-fried)
+
+|**ingr\cut**|**丁**|**片**|**条**|**糸**|**球**|
+|---|---|---|---|---|---|
+|**肉**|<ruby>炒肉丁<rt>ㄑㄚㄨㄋㄨㄎㄉㄝㄫ</rt></ruby>|<ruby>炒肉片<rt>ㄑㄚㄨㄋㄨㄎㄆㄝㄋ</rt></ruby>|<ruby>炒肉条<rt>ㄑㄚㄨㄋㄨㄎㄐㄛ</rt></ruby>|<ruby>炒肉糸<rt>ㄑㄚㄨㄋㄨㄎㄙㄚ</rt></ruby>|<ruby>炒肉球<rt>ㄑㄚㄨㄋㄨㄎㄍ⼜</rt></ruby>|
+|**魚**|<ruby>炒魚丁<rt>ㄑㄚㄨ·⼄ㄉㄝㄫ</rt></ruby>|<ruby>炒魚片<rt>ㄑㄚㄨ·⼄ㄆㄝㄋ</rt></ruby>|<ruby>炒魚条<rt>ㄑㄚㄨ·⼄ㄐㄛ</rt></ruby>|<ruby>炒魚糸<rt>ㄑㄚㄨ·⼄ㄙㄚ</rt></ruby>|<ruby>炒魚球<rt>ㄑㄚㄨ·⼄ㄍ⼜</rt></ruby>|
+|**鶏**|<ruby>炒鶏丁<rt>ㄑㄚㄨㄍㄝㄧㄉㄝㄫ</rt></ruby>|<ruby>炒鶏片<rt>ㄑㄚㄨㄍㄝㄧㄆㄝㄋ</rt></ruby>|<ruby>炒鶏条<rt>ㄑㄚㄨㄍㄝㄧㄐㄛ</rt></ruby>|<ruby>炒鶏糸<rt>ㄑㄚㄨㄍㄝㄧㄙㄚ</rt></ruby>|<ruby>炒鶏球<rt>ㄑㄚㄨㄍㄝㄧㄍ⼜</rt></ruby>|
+|**蝦**|<ruby>炒蝦丁<rt>ㄑㄚㄨㄏㄚㄉㄝㄫ</rt></ruby>|<ruby>炒蝦片<rt>ㄑㄚㄨㄏㄚㄆㄝㄋ</rt></ruby>|<ruby>炒蝦条<rt>ㄑㄚㄨㄏㄚㄐㄛ</rt></ruby>|<ruby>炒蝦糸<rt>ㄑㄚㄨㄏㄚㄙㄚ</rt></ruby>|<ruby>炒蝦球<rt>ㄑㄚㄨㄏㄚㄍ⼜</rt></ruby>|
+
+### 煎 Dishes (pan-fried)
+
+|**ingr\cut**|**丁**|**片**|**条**|**糸**|**球**|
+|---|---|---|---|---|---|
+|**肉**|<ruby>煎肉丁<rt>ㄐㄝㄋㄋㄨㄎㄉㄝㄫ</rt></ruby>|<ruby>煎肉片<rt>ㄐㄝㄋㄋㄨㄎㄆㄝㄋ</rt></ruby>|<ruby>煎肉条<rt>ㄐㄝㄋㄋㄨㄎㄐㄛ</rt></ruby>|<ruby>煎肉糸<rt>ㄐㄝㄋㄋㄨㄎㄙㄚ</rt></ruby>|<ruby>煎肉球<rt>ㄐㄝㄋㄋㄨㄎㄍ⼜</rt></ruby>|
+|**魚**|<ruby>煎魚丁<rt>ㄐㄝㄋ·⼄ㄉㄝㄫ</rt></ruby>|<ruby>煎魚片<rt>ㄐㄝㄋ·⼄ㄆㄝㄋ</rt></ruby>|<ruby>煎魚条<rt>ㄐㄝㄋ·⼄ㄐㄛ</rt></ruby>|<ruby>煎魚糸<rt>ㄐㄝㄋ·⼄ㄙㄚ</rt></ruby>|<ruby>煎魚球<rt>ㄐㄝㄋ·⼄ㄍ⼜</rt></ruby>|
+|**鶏**|<ruby>煎鶏丁<rt>ㄐㄝㄋㄍㄝㄧㄉㄝㄫ</rt></ruby>|<ruby>煎鶏片<rt>ㄐㄝㄋㄍㄝㄧㄆㄝㄋ</rt></ruby>|<ruby>煎鶏条<rt>ㄐㄝㄋㄍㄝㄧㄐㄛ</rt></ruby>|<ruby>煎鶏糸<rt>ㄐㄝㄋㄍㄝㄧㄙㄚ</rt></ruby>|<ruby>煎鶏球<rt>ㄐㄝㄋㄍㄝㄧㄍ⼜</rt></ruby>|
+|**蝦**|<ruby>煎蝦丁<rt>ㄐㄝㄋㄏㄚㄉㄝㄫ</rt></ruby>|<ruby>煎蝦片<rt>ㄐㄝㄋㄏㄚㄆㄝㄋ</rt></ruby>|<ruby>煎蝦条<rt>ㄐㄝㄋㄏㄚㄐㄛ</rt></ruby>|<ruby>煎蝦糸<rt>ㄐㄝㄋㄏㄚㄙㄚ</rt></ruby>|<ruby>煎蝦球<rt>ㄐㄝㄋㄏㄚㄍ⼜</rt></ruby>|
+
+### 炸 Dishes (deep-fried)
+
+|**ingr\cut**|**丁**|**片**|**条**|**糸**|**球**|
+|---|---|---|---|---|---|
+|**肉**|<ruby>炸肉丁<rt>ㄐㄚㄎㄋㄨㄎㄉㄝㄫ</rt></ruby>|<ruby>炸肉片<rt>ㄐㄚㄎㄋㄨㄎㄆㄝㄋ</rt></ruby>|<ruby>炸肉条<rt>ㄐㄚㄎㄋㄨㄎㄐㄛ</rt></ruby>|<ruby>炸肉糸<rt>ㄐㄚㄎㄋㄨㄎㄙㄚ</rt></ruby>|<ruby>炸肉球<rt>ㄐㄚㄎㄋㄨㄎㄍ⼜</rt></ruby>|
+|**魚**|<ruby>炸魚丁<rt>ㄐㄚㄎ·⼄ㄉㄝㄫ</rt></ruby>|<ruby>炸魚片<rt>ㄐㄚㄎ·⼄ㄆㄝㄋ</rt></ruby>|<ruby>炸魚条<rt>ㄐㄚㄎ·⼄ㄐㄛ</rt></ruby>|<ruby>炸魚糸<rt>ㄐㄚㄎ·⼄ㄙㄚ</rt></ruby>|<ruby>炸魚球<rt>ㄐㄚㄎ·⼄ㄍ⼜</rt></ruby>|
+|**鶏**|<ruby>炸鶏丁<rt>ㄐㄚㄎㄍㄝㄧㄉㄝㄫ</rt></ruby>|<ruby>炸鶏片<rt>ㄐㄚㄎㄍㄝㄧㄆㄝㄋ</rt></ruby>|<ruby>炸鶏条<rt>ㄐㄚㄎㄍㄝㄧㄐㄛ</rt></ruby>|<ruby>炸鶏糸<rt>ㄐㄚㄎㄍㄝㄧㄙㄚ</rt></ruby>|<ruby>炸鶏球<rt>ㄐㄚㄎㄍㄝㄧㄍ⼜</rt></ruby>|
+|**蝦**|<ruby>炸蝦丁<rt>ㄐㄚㄎㄏㄚㄉㄝㄫ</rt></ruby>|<ruby>炸蝦片<rt>ㄐㄚㄎㄏㄚㄆㄝㄋ</rt></ruby>|<ruby>炸蝦条<rt>ㄐㄚㄎㄏㄚㄐㄛ</rt></ruby>|<ruby>炸蝦糸<rt>ㄐㄚㄎㄏㄚㄙㄚ</rt></ruby>|<ruby>炸蝦球<rt>ㄐㄚㄎㄏㄚㄍ⼜</rt></ruby>|
+
 ## Semantic Range Notes
 
 **井物 is filed under Japanese vocabulary, not a genuine Chinese compound**: this vault's own convention already uses 井 as a substitute glyph for the real character 丼 (donburi, "rice bowl") — 井+物 has no compositional "bowl of food" meaning of its own, the same pattern documented on [[井戸]]. It's the general category name that [[牛井]]/[[親子井]]/[[豚井]] (Rice Bowl Dishes above) are specific members of.
@@ -165,6 +203,8 @@ Rosenfelder terms with no Dan'a'yo word yet: bread (a general category beyond [[
 **営養/栄養 are the same word, two orthographic forms**: both mean "nutrition, nourishment" with no sense distinction between them — a spelling variant pair rather than a genuine near-synonym cluster.
 
 **醍醐 keeps a real Buddhist idiom alive**: beyond the literal "ghee, finest cream" sense, it figuratively names "the essence of Buddhism" — the same image as English "the cream of the crop," but specifically theological, from the traditional five-stage refinement of milk into ghee used as a metaphor for stages of Buddhist teaching.
+
+**The technique×ingredient×cutting-style grid is a generative pattern, not a word list**: unlike every other citation on this page, none of its 60 cells are individually created word files, and 名専字-status on 煎/炸 is not a barrier to their use here — a bound, name-only character can still appear productively inside a larger compound. The point of the grid is to show that the *pattern itself* is fully specified (any of 3 techniques × 4 ingredients × 5 cutting-styles yields a well-formed dish name), not to claim that all 60 specific dishes are independently attested vocabulary.
 
 ## See Also
 

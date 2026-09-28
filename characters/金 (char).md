@@ -51,6 +51,7 @@ boundedness: 90
 - 244th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
 - The most common surname in [Korea](../lookup/Korean/Korea.md).
 ## Words
+- <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby> "duty, tax"
 - <ruby>[[租金]]<rt>ㄐㄜㄍㄧㄇ</rt></ruby> "rent"
 - <ruby>[[黄金]]<rt>ㄏ⺢ㄫㄍㄧㄇ</rt></ruby> "gold"
 - <ruby>[[金属]]<rt>ㄍㄧㄇㄐㄛㄎ</rt></ruby> "metal"
