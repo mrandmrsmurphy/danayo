@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2534
+- **Unsorted**: 2532
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2301,7 +2301,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[火鼠]] — fire rat, fire mouse
 - [[点]] — point
 - [[為以]] — in order that, so that
-- [[烝民]] — the common people, the masses
 - [[焦点]] — focus, focal point
 - [[牆壁]] — wall (ancient)
 - [[牛乳]] — cow's milk, milk
@@ -2671,7 +2670,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[檀木]] — sandalwood, hardwood tree
 - [[沙羅双樹]] — sal tree, shala, sakhua
 - [[洞簫]] — xiao flute, end-blown bamboo flute
-- [[瓊玉]] — fine jade
 - [[畢竟]] — after all, in the end, all in all
 - [[白及]] — bai ji, chinese ground orchid, bletilla striata
 - [[百年]] — a hundred years, a century (informal); a long time

@@ -82,6 +82,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 - <ruby>[鼠色](../words/鼠色.md)<rt>ㄙ⼄ㄙㄧㄎ</rt></ruby>: dark grey — a dated "mouse-colored" term, paralleled by real Japanese (ねずみいろ) and Korean (쥐색) compounds of the same literal shape.
   - **Historical**: old-fashioned; Mandarin and Cantonese use plain 灰色 instead, since 鼠色 isn't the naturally used term in those languages.
 - <ruby>[燐彬](../words/燐彬.md)<rt>ㄌㄧㄋㄆㄧㄋ</rt></ruby>: iridescent, lustrous, glistening (specifically of jade) — a literary optical-quality term describing color-shifting sheen rather than naming a fixed hue.
+- <ruby>[瓊玉](../words/瓊玉.md)<rt>ㄍ⼶ㄫ⼄ㄎ</rt></ruby>: fine jade — the material itself, not a color name, grouped here with this page's other jade-related vocabulary (翠色, 燐彬).
 
 ## Semantic Range Notes
 
