@@ -64,6 +64,7 @@ boundedness: 75
 - <ruby>[[人人]]<rt>ㄋㄧㄋㄋㄧㄋ</rt></ruby> "everyone"
 - <ruby>[[人民]]<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby> "people; public; citizen"
 - <ruby>[[猿人]]<rt>ㄛㄋㄋㄧㄋ</rt></ruby> "apeman"
+- <ruby>[[巨人]]<rt>ㄍ⼄ㄋㄧㄋ</rt></ruby> "giant, titan"
 - <ruby>[[倭人]]<rt>⼔ㄧㄋㄧㄋ</rt></ruby> "Wajin; Japanese person (archaic)"
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby> "two people; a couple"
 - <ruby>[[人参]]<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby> "ginseng"

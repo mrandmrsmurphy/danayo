@@ -6,9 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2487
+- **Unsorted**: 2497
 - **Calendar**: 116
-- **Dimensions**: 94
 - **Directions**: 58
 - **Efforts**: 54
 - **Elements**: 18
@@ -58,6 +57,16 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[胴体]] — torso, trunk, fuselage (Body-domain "trunk," not a storage trunk — moved out of the Containers bucket 2026-09-28)
 - [[墊]] — mat, pad, cushion (furniture, not a container — moved out of the Containers bucket 2026-09-28)
 - [[畳]] — folding mat, tatami mat (furniture/flooring, not a container — moved out of the Containers bucket 2026-09-28)
+- [[昂揚]] — high-spirited, exalted (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
+- [[極右]] — far-right (Government/politics — moved out of the Dimensions bucket 2026-09-28)
+- [[極左]] — far-left (Government/politics — moved out of the Dimensions bucket 2026-09-28)
+- [[榴弾]] — high explosives (War/Conflict, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
+- [[無然]] — disappointed, in low spirits (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
+- [[諸子]] — the various masters, pre-Qin philosophers (Knowledge/History, "various" substring match — moved out of the Dimensions bucket 2026-09-28)
+- [[趨]] — take many small steps towards (Movement, not a dimension — moved out of the Dimensions bucket 2026-09-28)
+- [[跳高]] — high jump (Events/Sports, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
+- [[魶]] — giant salamander (Animals, "giant" substring match — moved out of the Dimensions bucket 2026-09-28)
+- [[劃]] — divide, mark off, delimit (Efforts/Tools, not a dimension — moved out of the Dimensions bucket 2026-09-28)
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[一朝]] — short time
@@ -2657,101 +2666,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Dimensions (94)
-
-- [[一点]] — a little, a bit
-- [[不但]] — not only
-- [[不過]] — only, just, merely
-- [[且]] — also, too
-- [[些少]] — a little, somewhat
-- [[亦]] — too, also
-- [[伸展]] — expand, unfold, stretch
-- [[伸長]] — extend, stretch
-- [[低下]] — lower, drop, droop, bow
-- [[低廉]] — cheap, low priced
-- [[僅僅]] — only, merely, barely
-- [[充分]] — ample, plenty, enough
-- [[全盛]] — flourishing, at the height of prosperity, at one's best
-- [[分之]] — -ths (fraction marker: denominator分之numerator)
-- [[加多]] — to add; to augment; to increase
-- [[区域]] — area, district, precinct
-- [[博大]] — broad, extensive, erudite
-- [[厚]] — thick
-- [[只]] — only, just, merely
-- [[唯]] — only
-- [[圏]] — encircled area
-- [[増加]] — increase
-- [[壮大]] — grand, thick, imposing
-- [[多]] — many
-- [[奥]] — deep
-- [[女女]] — little lady, little woman
-- [[宏大]] — grand, magnificent, vast
-- [[密]] — dense, thick, close, intimate, secret
-- [[寛大]] — magnanimous, lenient, broad
-- [[少]] — few, scarce
-- [[崇高]] — lofty, supreme, sublime, high
-- [[巨人]] — giant, titan
-- [[巨大]] — gigantic, huge, enormous
-- [[希少]] — scarce, rare
-- [[希薄]] — thin, sparse, dilate
-- [[幾]] — several, a few, some
-- [[広範]] — wide-ranging, extensive, broad
-- [[廉価]] — low price
-- [[微小]] — tiny, minute, microscopic
-- [[拡大]] — expand, enlarge
-- [[拡張]] — expansion, to expand, to extend
-- [[昂揚]] — high-spirited, exalted
-- [[条]] — long thin objects
-- [[極右]] — far-right
-- [[極左]] — far-left
-- [[榴弾]] — high explosives
-- [[浅]] — shallow
-- [[浅薄]] — superficial, shallow
-- [[浩大]] — vast, great, magnificent
-- [[深刻]] — profound, deep, serious
-- [[深長]] — long and deep, profound, abstruse
-- [[漸漸]] — gradually, little by little
-- [[無然]] — disappointed, in low spirits
-- [[狭窄]] — narrow, constricted
-- [[痩]] — thin
-- [[眺望]] — gaze into the distance, view from a height
-- [[矣]] — indeed
-- [[短]] — short
-- [[短期]] — short-term
-- [[短音]] — short vowel, short tone
-- [[碩大]] — huge, enormous
-- [[程度]] — extent, degree
-- [[繁茂]] — lush, thick
-- [[膨脹]] — swell, bloat, inflate, expand
-- [[至極]] — height, extremity, enormity
-- [[苟]] — if only
-- [[若干]] — a little, somewhat
-- [[茂密]] — dense, thick
-- [[茫茫]] — vast, boundless, hazy, indistinct
-- [[蒼海]] — vast ocean
-- [[蔓延]] — spread, proliferate, extend (of disease or vegetation)
-- [[諸]] — various
-- [[諸子]] — the various masters, pre-qin philosophers
-- [[趨]] — take many small steps towards
-- [[距離]] — distance
-- [[跳高]] — high jump
-- [[迥]] — distant, far
-- [[遠]] — far
-- [[遥遠]] — distant, faraway
-- [[重]] — heavy
-- [[長短]] — length, relative length, long and short
-- [[闊]] — broad, wide
-- [[闊葉]] — broad-leaf
-- [[頗]] — very
-- [[高]] — high
-- [[魶]] — giant salamander
-- [[鮮少]] — rare, seldom, few
-- [[底]] — bottom, underneath, underside, base
-- [[軽]] — light, not heavy
-- [[間隔]] — be divided, be separate
-- [[劃]] — divide, mark off, delimit
-- [[延長]] — extend, prolong, extension
 
 ## Directions (58)
 

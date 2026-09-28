@@ -59,6 +59,7 @@ boundedness: 95
 - <ruby>[気分](../words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 - <ruby>[[部分]]<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby> "part, section, segment"
 - <ruby>[[分配]]<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby> "distribute, partition, share"
+- <ruby>[[充分]]<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby> "ample, plenty, enough"
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
 - <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
