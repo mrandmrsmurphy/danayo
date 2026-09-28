@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2522
+- **Unsorted**: 2521
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1398,7 +1398,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[艦船]] — seagoing vessels
 - [[艶]] — plump, voluptuous, beautiful
 - [[艾灸]] — moxibustion
-- [[艾草]] — mugwort
 - [[芝麻醤]] — sesame paste, tahini
 - [[芦櫂]] — oars, oars and paddles, oarage
 - [[芬蘭]] — finland
