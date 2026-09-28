@@ -10,7 +10,7 @@ date-last-perfect: 2026-09-28
 
 # Government
 
-Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (baron, boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, preside, prince, queen, rank as a general noun, responsible, royal, rule, serve, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, preside, prince, queen, rank as a general noun, responsible, royal, rule, serve, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -47,6 +47,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[卿](../words/卿.md)<rt>ㄎ⼶ㄫ</rt></ruby>: a noble, high officer, sir, m'lord.
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).
 - <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ⼔ㄧ</rt></ruby>: a peerage, title of nobility.
+- <ruby>[男爵](../words/男爵.md)<rt>ㄋㄚㄇㄐㄚㄎ</rt></ruby>: a baron — the lowest of the Five Ranks of Nobility (五等爵).
 
 ### Officials & Bureaucracy
 
@@ -137,7 +138,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: a baron, a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, to preside, a prince, a queen, a rank (general noun), responsible, royal, to rule, to serve, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward.
+Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, to preside, a prince, a queen, a rank (general noun), responsible, royal, to rule, to serve, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward.
 
 ## Advanced / Specialized (C1+)
 
