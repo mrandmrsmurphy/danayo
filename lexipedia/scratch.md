@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2521
+- **Unsorted**: 2520
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -222,7 +222,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[而後]] — after that, only then
 - [[自得]] — come to a realization of one's own accord
 - [[苦肉]] — flesh made to suffer, desperate self-sacrifice, the stratagem of self-injury
-- [[荒廃]] — fall into ruin
 - [[言]] — say
 - [[訃告]] — obituary, death notice
 - [[認識]] — know, recognize
