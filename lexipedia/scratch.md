@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2530
+- **Unsorted**: 2526
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1236,7 +1236,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[碧玉]] — jasper
 - [[碼]] — yard
 - [[磁金]] — neodymium
-- [[磚石]] — bricks and stones
 - [[礼]] — manners
 - [[社会主義]] — socialism
 - [[社会学]] — sociology
@@ -2328,7 +2327,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[異常]] — different, weird
 - [[疲困]] — tired, sleepy, worn out
 - [[病菌]] — pathogenic bacteria
-- [[瘡口]] — wound opening, open sore
 - [[発剌]] — lively, vivacious, full of energy
 - [[発熱]] — have a fever, heating up
 - [[発見]] — discover, find out
@@ -2703,7 +2701,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Geography (240)
 - [[䔥国]] — state of Xiao (rerouted from the Existence bucket — an ancient political-geography name)
-- [[秦国]] — state of Qin (rerouted from the Existence bucket)
 - [[鄂国]] — state of E (rerouted from the Existence bucket)
 - [[鄭国]] — state of Zheng (rerouted from the Existence bucket)
 - [[州]] — state, province (rerouted from the Existence bucket)
@@ -3241,7 +3238,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[祈祷]] — pray
 - [[神]] — god, deity, spirit
 - [[神仙]] — immortal, god
-- [[神聖]] — sacred, holy
 - [[神道]] — natural law
 - [[祭祀]] — sacrifice, worship
 - [[経典]] — scripture, book, classic, sutra

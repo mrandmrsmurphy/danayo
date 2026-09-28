@@ -166,3 +166,4 @@ language: English
 
 - <ruby>[要塞](../words/要塞.md)<rt>⼄ㄨㄙㄚㄧ</rt></ruby>: fortress, stronghold — a genuine building-type concept Rosenfelder's own list never named explicitly, unlike "castle" or "prison" above.
 - <ruby>[寓居](../words/寓居.md)<rt>ㄨㄍㄧ</rt></ruby>: lodging, a temporary dwelling.
+- <ruby>[磚石](../words/磚石.md)<rt>ㄐㄝㄋㄙㄝㄎ</rt></ruby>: bricks and stones, construction material.

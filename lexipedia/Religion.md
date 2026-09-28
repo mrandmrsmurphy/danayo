@@ -19,6 +19,7 @@
 - priest
 - seminary <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>
 - religion
+- sacred, holy <ruby>[神聖](../words/神聖.md)<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>
 - soul
 	- hún
 	- pò
