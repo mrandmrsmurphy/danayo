@@ -76,6 +76,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 - <ruby>[公民](../words/公民.md)<rt>ㄍㄛㄫㄇㄧㄋ</rt></ruby>: citizen, civics.
 - <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
+- <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
 - <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
 - <ruby>[紳士](../words/紳士.md)<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby>: a gentleman.
