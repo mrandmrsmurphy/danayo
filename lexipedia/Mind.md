@@ -3,6 +3,7 @@
 - assume
 - astonish
 - attention
+- observe, inspect <ruby>[観察](../words/観察.md)<rt>ㄍ⺢ㄋㄑㄚㄊ</rt></ruby>
 - believe
 - brain
 - choose

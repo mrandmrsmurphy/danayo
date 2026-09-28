@@ -20,6 +20,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[跳舞](../words/跳舞.md)<rt>ㄊㄛㄨㄇㄨ</rt></ruby>: to dance.
 - <ruby>[文化](../words/文化.md)<rt>ㄇㄨㄋㄏ⺢</rt></ruby>: culture.
 - <ruby>[聴衆](../words/聴衆.md)<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby>: audience.
+- <ruby>[観覧](../words/観覧.md)<rt>ㄍ⺢ㄋㄌㄚㄇ</rt></ruby>: to view, attend as a spectator (an exhibit, performance).
 - <ruby>[書本](../words/書本.md)<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby>, <ruby>[冊子](../words/冊子.md)<rt>ㄑㄚㄎㄐㄜ</rt></ruby>: book.
 - <ruby>[劇](../words/劇.md)<rt>ㄍㄝㄎ</rt></ruby>: drama, theatre (the art form).
 - <ruby>[俳優](../words/俳優.md)<rt>ㄅ⼶ㄨㄛ</rt></ruby>: actor.

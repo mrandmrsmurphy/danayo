@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2518
+- **Unsorted**: 2516
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1493,9 +1493,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[見]] — see
 - [[覚醒]] — be disillusioned, sober up
 - [[親睦]] — friendship, amicability, cordial relations
-- [[観察]] — observe, inspect
 - [[観測]] — observe, monitor
-- [[観覧]] — view, observe
 - [[角逐]] — compete, contend for
 - [[解剖]] — dissect
 - [[解決]] — solve, resolve, conclude, settle
