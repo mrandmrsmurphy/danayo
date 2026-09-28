@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2548
+- **Unsorted**: 2547
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -556,7 +556,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[大同]] — great unity, utopia
 - [[大和]] — yamato
 - [[大猩]] — gorilla
-- [[大蛤]] — clam
 - [[大部分]] — majority
 - [[大釜]] — cauldron
 - [[大麦]] — barley

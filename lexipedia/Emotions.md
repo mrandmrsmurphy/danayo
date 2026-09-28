@@ -9,7 +9,7 @@ date-last-perfect: 2026-09-28
 
 # Emotions
 
-Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy). Several basic terms (alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain, pity, pleasant, pleasure, relax, relief, satisfy, shock, sorry, startle, surprise, terror) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy). Several basic terms (alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain, pity, pleasant, pleasure, relax, relief, satisfy, shock, sorry, surprise, terror) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -65,6 +65,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[怯](../words/怯.md)<rt>ㄎㄚㄆ</rt></ruby>: cowardly, timid, afraid.
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
 - <ruby>[懍懍](../words/懍懍.md)<rt>ㄌㄜㄇㄌㄜㄇ</rt></ruby>: a fearful appearance; stern and rigorous.
+- <ruby>[喫驚](../words/喫驚.md)<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>: to be startled.
 
 ### Hatred, Resentment & Jealousy
 
@@ -137,7 +138,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain (as a standalone noun), pity, pleasant, pleasure, relax, relief, satisfy (as a verb), shock, sorry, startle, surprise, terror.
+Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain (as a standalone noun), pity, pleasant, pleasure, relax, relief, satisfy (as a verb), shock, sorry, surprise, terror.
 
 ## Advanced / Specialized (C1+)
 
