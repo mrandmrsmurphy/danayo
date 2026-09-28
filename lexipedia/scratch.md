@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2555
+- **Unsorted**: 2554
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2177,7 +2177,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[態度]] — attitude, behavior, manner
 - [[憑]] — to rely on, based on, evidence
 - [[憧憬]] — long for, desire
-- [[懸心]] — bear in mind
 - [[成功]] — succeed, achieve success, prosper
 - [[戯曲]] — chinese opera, play
 - [[所有]] — all; every (determiner — most common mandarin/cantonese usage), possess; own; ownership (formal/legal noun-verb sense, shared across all four languages)
