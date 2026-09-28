@@ -13,6 +13,7 @@
 - luck
 - magic
 - offer
+- Penglai, mythical isle of immortals <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>
 - pray
 - priest
 - seminary <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>

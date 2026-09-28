@@ -33,6 +33,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[裁判所](../words/裁判所.md)<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby>: courthouse — the building specifically.
 - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby>: a lawsuit, to sue.
 - <ruby>[告訴](../words/告訴.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>: to accuse, file a lawsuit.
+- <ruby>[誣告](../words/誣告.md)<rt>ㄇㄨㄍㄚㄨ</rt></ruby>: to falsely accuse, bring false charges against — distinct from 告訴's neutral "to accuse."
 - <ruby>[原告](../words/原告.md)<rt>⼔ㄋㄍㄚㄨ</rt></ruby>: plaintiff.
 - <ruby>[証人](../words/証人.md)<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby>: witness.
 - <ruby>[証言](../words/証言.md)<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby>: to testify.

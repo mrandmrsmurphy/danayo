@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2563
+- **Unsorted**: 2561
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2439,7 +2439,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[菱形]] — rhombus, diamond shape
 - [[萎蕤]] — solomon's seal (polygonatum), drooping green shoots
 - [[蓄]] — store, save, hoard, gather
-- [[蓬莱]] — penglai, mythical isle of immortals
 - [[藍]] — indigo plant
 - [[蚊帳]] — mosquito net, tent screen
 - [[蜀国]] — shu kingdom
@@ -2463,7 +2462,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[詣]] — visit, reach
 - [[詰問]] — interrogate, cross-examine, question sharply
 - [[該]] — should, ought, have to
-- [[誣告]] — falsely accuse, bring false charges against
 - [[読書]] — read, study
 - [[諦]] — truth (buddhist)
 - [[諱]] — shun, avoid saying the name of
