@@ -1,7 +1,7 @@
 ---
 mandarin: "rèn"
 cantonese: jam4
-korean: "임"
+korean: "님"
 korean_native: "임신할"
 japanese:
   - NIN

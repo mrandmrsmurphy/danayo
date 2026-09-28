@@ -1,7 +1,7 @@
 ---
 mandarin: lìn
 cantonese: jam6
-korean: 임
+korean: 님
 korean_native: 품을 팔다, 품삯
 japanese:
   - CHIN

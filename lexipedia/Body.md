@@ -99,6 +99,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ### Reproductive & Excretory
 
 - <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨㄊㄛㄨ</rt></ruby>: nipple.
+- <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy.
 - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
 - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.
 - <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>: vagina.

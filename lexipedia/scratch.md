@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2547
+- **Unsorted**: 2546
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -3448,7 +3448,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[刹那]] — moment, instant, split second
 - [[同時]] — simultaneous
 - [[宙]] — eternity
-- [[寓居]] — lodging, temporary dwelling
 - [[往往]] — often, frequently
 - [[忽然]] — sudden
 - [[忽然様]] — suddenly
