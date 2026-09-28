@@ -17,6 +17,7 @@ weed, stalk, stem, leaf, petal, seed, twig, thorn, stump, trunk, root, branch, l
 - bean
 - nut
 - herb
+- Japanese indigo (dye plant) <ruby>[蓼藍](../words/蓼藍.md)<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby> — see also [[lexipedia/Color|Color]]'s [[藍色]], the dye/hue this plant produces.
 - vegetable
 - wood
 	- hardwood

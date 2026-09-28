@@ -93,6 +93,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 - <ruby>[肌理](../words/肌理.md)<rt>ㄍㄧㄜㄌㄧ</rt></ruby>: skin texture.
 - <ruby>[肥胖](../words/肥胖.md)<rt>ㄅㄨㄧㄅㄚㄋ</rt></ruby>: fat, obese.
+- <ruby>[醜陋](../words/醜陋.md)<rt>ㄑㄨㄛㄌ⼘ㄨ</rt></ruby>: ugly.
 - <ruby>[金髪碧眼](../words/金髪碧眼.md)<rt>ㄍㄧㄇㄈㄚㄊㄅ⼶ㄎ·ㄚㄋ</rt></ruby>: blonde hair, blue eyes.
 
 ### Reproductive & Excretory

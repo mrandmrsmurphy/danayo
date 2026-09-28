@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2552
+- **Unsorted**: 2550
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1658,7 +1658,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[酔]] — drunk
 - [[酵母]] — yeast, leaven
 - [[醜悪]] — ugly, homely
-- [[醜陋]] — ugly
 - [[釈放]] — release, liberate
 - [[釉薬]] — glaze, enamel
 - [[里芋]] — taro
@@ -3225,7 +3224,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[草花]] — flowering plants, ornamental flowers
 - [[萌芽]] — bud, sprout
 - [[葉]] — leaf
-- [[蓼藍]] — japanese indigo
 - [[藍木]] — indigo, anil
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
