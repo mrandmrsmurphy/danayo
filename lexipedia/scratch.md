@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2568
+- **Unsorted**: 2567
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1248,7 +1248,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[碧玉]] — jasper
 - [[碼]] — yard
 - [[磁金]] — neodymium
-- [[磐石]] — boulder, bedrock
 - [[磚石]] — bricks and stones
 - [[礼]] — manners
 - [[社会主義]] — socialism

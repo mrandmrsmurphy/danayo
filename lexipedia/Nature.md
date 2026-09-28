@@ -1,3 +1,4 @@
+- boulder, bedrock <ruby>[磐石](../words/磐石.md)<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby>
 - cave/cavern
 - cloud
 - country

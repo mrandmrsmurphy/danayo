@@ -15,6 +15,7 @@
 - offer
 - pray
 - priest
+- seminary <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>
 - religion
 - soul
 	- hún
