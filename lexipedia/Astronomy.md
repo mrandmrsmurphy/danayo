@@ -36,6 +36,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
 - <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
 - <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
+- <ruby>[太極](../words/太極.md)<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby>: the Supreme Ultimate — in Daoist and Neo-Confucian cosmology, the primordial unity from which yin and yang first differentiate.
 - <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
 - <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
 - <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.

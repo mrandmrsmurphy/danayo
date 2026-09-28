@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2557
+- **Unsorted**: 2556
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -3250,7 +3250,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[和尚]] — abbott, monk
 - [[因果]] — fateful, unlucky, karmic, causal
 - [[天道]] — law of nature, god of heaven
-- [[太極]] — supreme ultimate
 - [[夫子]] — confucius, master
 - [[孔子]] — confucius
 - [[孔教]] — confucianism
