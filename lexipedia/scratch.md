@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2560
+- **Unsorted**: 2559
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -3150,7 +3150,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[運送]] — transport
 - [[鉄道]] — railroad
 - [[飛]] — fly
-- [[飛翔]] — fly, soar
 - [[飛行]] — fly, flight
 - [[馳]] — run fast, drive quickly
 

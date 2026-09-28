@@ -21,7 +21,7 @@
 - fast
 - float
 - flow
-- fly
+- fly, soar <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>
 - go
 - guide
 - hop
