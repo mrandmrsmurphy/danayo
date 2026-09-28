@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2559
+- **Unsorted**: 2557
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2642,8 +2642,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[塔]] — pagoda
 - [[変]] — change, transform, alter
 - [[外国]] — foreign country
-- [[太初]] — great beginning
-- [[太易]] — great change
 - [[存亡]] — survival (archaic)
 - [[季刊]] — quarterly publication, seasonal periodical
 - [[実梅]] — ume, japanese apricot
