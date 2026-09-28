@@ -40,7 +40,7 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 14. <ruby>[[words/棍棒|棍棒]]<rt>ㄏㄛㄋㄅㄚㄫ</rt></ruby> "stick; bludgeon" = <ruby>[[characters/棍|棍]]<rt>ㄏㄛㄋ</rt></ruby> + <ruby>[[characters/棒|棒]]<rt>ㄅㄚㄫ</rt></ruby>
 15. <ruby>[[words/橄欖|橄欖]]<rt>ㄍㄚㄇㄌㄚㄇ</rt></ruby> "olive" = <ruby>[[characters/橄|橄]]<rt>ㄍㄚㄇ</rt></ruby> + <ruby>[[characters/欖|欖]]<rt>ㄌㄚㄇ</rt></ruby>
 16. <ruby>[[words/檳榔|檳榔]]<rt>ㄅㄧㄋㄌㄚㄫ</rt></ruby> "betel" = <ruby>[[characters/檳|檳]]<rt>ㄅㄧㄋ</rt></ruby> + <ruby>[[characters/榔|榔]]<rt>ㄌㄚㄫ</rt></ruby>
-17. <ruby>[[words/檸檬|檸檬]]<rt>ㄌㄝㄇㄛㄋ</rt></ruby> "lemon" = <ruby>[[characters/檸|檸]]<rt>ㄌㄝ</rt></ruby> + <ruby>[[characters/檬|檬]]<rt>ㄇㄛㄋ</rt></ruby>
+17. <ruby>[[words/檸檬|檸檬]]<rt>ㄌㄝ·ㄇㄛㄋ</rt></ruby> "lemon" = <ruby>[[characters/檸|檸]]<rt>ㄌㄝ</rt></ruby> + <ruby>[[characters/檬|檬]]<rt>ㄇㄛㄋ</rt></ruby>
 18. <ruby>[[words/潮汐|潮汐]]<rt>ㄑㄚㄨㄙㄝㄎ</rt></ruby> "tide; tidal phenomenon" = <ruby>[[characters/潮|潮]]<rt>ㄑㄚㄨ</rt></ruby> + <ruby>[[characters/汐|汐]]<rt>ㄙㄝㄎ</rt></ruby>
 19. <ruby>[[words/犠牲|犠牲]]<rt>ㄏㄨㄧㄙㄚㄫ</rt></ruby> "sacrifice; victim" = <ruby>[[characters/犠|犠]]<rt>ㄏㄨㄧ</rt></ruby> + <ruby>[[characters/牲|牲]]<rt>ㄙㄚㄫ</rt></ruby>
 20. <ruby>[[words/獲得|獲得]]<rt>ㄏ⺢ㄎㄊㄜㄎ</rt></ruby> "get; obtain; acquire" = <ruby>[[characters/獲|獲]]<rt>ㄏ⺢ㄎ</rt></ruby> + <ruby>[[characters/得|得]]<rt>ㄊㄜㄎ</rt></ruby>
@@ -59,12 +59,12 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 33. <ruby>[[words/蛞蝓|蛞蝓]]<rt>ㄎ⺢ㄊ⼜ㄇ</rt></ruby> "slug" = <ruby>[[characters/蛞|蛞]]<rt>ㄎ⺢ㄊ</rt></ruby> + <ruby>[[characters/蝓|蝓]]<rt>⼜ㄇ</rt></ruby>
 34. <ruby>[[words/蜘蛛|蜘蛛]]<rt>ㄐㄧㄐㄨ</rt></ruby> "spider" = <ruby>[[characters/蜘|蜘]]<rt>ㄐㄧ</rt></ruby> + <ruby>[[characters/蛛|蛛]]<rt>ㄐㄨ</rt></ruby>
 35. <ruby>[[words/螳螂|螳螂]]<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby> "mantis" = <ruby>[[characters/螳|螳]]<rt>ㄉㄚㄫ</rt></ruby> + <ruby>[[characters/螂|螂]]<rt>ㄌㄚㄫ</rt></ruby>
-36. <ruby>[[words/誹謗|誹謗]]<rt>ㄈㄧㄆㄚㄫ</rt></ruby> "slander; defamation" = <ruby>[[characters/誹|誹]]<rt>ㄈㄧ</rt></ruby> + <ruby>[[characters/謗|謗]]<rt>ㄆㄚㄫ</rt></ruby>
+36. <ruby>[[words/誹謗|誹謗]]<rt>ㄈㄧ·ㄆㄚㄫ</rt></ruby> "slander; defamation" = <ruby>[[characters/誹|誹]]<rt>ㄈㄧ</rt></ruby> + <ruby>[[characters/謗|謗]]<rt>ㄆㄚㄫ</rt></ruby>
 37. <ruby>[[words/選択|選択]]<rt>ㄙ⼔ㄋㄉㄚㄎ</rt></ruby> "select; choose" = <ruby>[[characters/選|選]]<rt>ㄙ⼔ㄋ</rt></ruby> + <ruby>[[characters/択|択]]<rt>ㄉㄚㄎ</rt></ruby>
 38. <ruby>[[words/閑暇|閑暇]]<rt>ㄏㄚㄋㄏㄚ</rt></ruby> "free time; leisure" = <ruby>[[characters/閑|閑]]<rt>ㄏㄚㄋ</rt></ruby> + <ruby>[[characters/暇|暇]]<rt>ㄏㄚ</rt></ruby>
 39. <ruby>[[words/雴霫|雴霫]]<rt>ㄊㄨㄆㄙㄨㄆ</rt></ruby> "heavy rain" = <ruby>[[characters/雴|雴]]<rt>ㄊㄨㄆ</rt></ruby> + <ruby>[[characters/霫|霫]]<rt>ㄙㄨㄆ</rt></ruby>
 40. <ruby>[[words/飢餓|飢餓]]<rt>ㄍㄧㄜ·ㄚ</rt></ruby> "hungry; starving" = <ruby>[[characters/飢|飢]]<rt>ㄍㄧㄜ</rt></ruby> + <ruby>[[characters/餓|餓]]<rt>ㄚ</rt></ruby>
-41. <ruby>[[words/鬚髯|鬚髯]]<rt>ㄙㄨㄋㄛㄇ</rt></ruby> "beard; whiskers" = <ruby>[[characters/鬚|鬚]]<rt>ㄙㄨ</rt></ruby> + <ruby>[[characters/髯|髯]]<rt>ㄋㄛㄇ</rt></ruby>
+41. <ruby>[[words/鬚髯|鬚髯]]<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby> "beard; whiskers" = <ruby>[[characters/鬚|鬚]]<rt>ㄙㄨ</rt></ruby> + <ruby>[[characters/髯|髯]]<rt>ㄋㄛㄇ</rt></ruby>
 42. <ruby>[[words/鳳凰|鳳凰]]<rt>ㄆㄨㄫㄏ⺢ㄫ</rt></ruby> "phoenix" = <ruby>[[characters/鳳|鳳]]<rt>ㄆㄨㄫ</rt></ruby> + <ruby>[[characters/凰|凰]]<rt>ㄏ⺢ㄫ</rt></ruby>
 43. <ruby>[[words/鴛鴦|鴛鴦]]<rt>ㄛㄋ·ㄚㄫ</rt></ruby> "mandarin duck" = <ruby>[[characters/鴛|鴛]]<rt>ㄛㄋ</rt></ruby> + <ruby>[[characters/鴦|鴦]]<rt>ㄚㄫ</rt></ruby>
 44. <ruby>[[words/鵖鴔|鵖鴔]]<rt>ㄅㄨㄆㄅㄧㄆ</rt></ruby> "hoopoe" = <ruby>[[characters/鵖|鵖]]<rt>ㄅㄨㄆ</rt></ruby> + <ruby>[[characters/鴔|鴔]]<rt>ㄅㄧㄆ</rt></ruby>

@@ -43,7 +43,7 @@ date-last-perfect: 2026-08-19
 ```
 ## Words
 - <ruby>[[鷹]]<rt>ㄧㄫ</rt></ruby> "hawk"
-- <ruby>[[単鷹国]]<rt>ㄉㄚㄋㄧㄫㄍㄛㄎ</rt></ruby> "Prussia"
+- <ruby>[[単鷹国]]<rt>ㄉㄚㄋ·ㄧㄫㄍㄛㄎ</rt></ruby> "Prussia"
 
 ## Notes
 - 形声: semantic [鳥 (char)](characters/鳥%20(char).md) ("bird") + phonetic [[䧹]] — "hawk; eagle."

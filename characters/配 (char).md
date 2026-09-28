@@ -56,4 +56,4 @@ boundedness: 90
 - <ruby>[[配置]]<rt>ㄆㄛㄧㄑㄧ</rt></ruby> "deploy, allocate"
 - <ruby>[[配列]]<rt>ㄆㄛㄧㄌㄝㄊ</rt></ruby> "put in order, arrange, lay out"
 - <ruby>[[分配]]<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby> "distribute, partition, share"
-- <ruby>[[支配]]<rt>ㄐㄝㄆㄛㄧ</rt></ruby> "rule, control, manage"
+- <ruby>[[支配]]<rt>ㄐㄝ·ㄆㄛㄧ</rt></ruby> "rule, control, manage"

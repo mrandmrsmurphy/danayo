@@ -50,7 +50,7 @@ boundedness: 75
 ## Words
 - <ruby>[[品]]<rt>ㄆㄨㄇ</rt></ruby> "article; item" (stand-in for 品)
 - <ruby>[[新品]]<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> "new products; new arrivals"
-- <ruby>[[製品]]<rt>ㄐㄝㄆㄨㄇ</rt></ruby> "product; produce; goods"
+- <ruby>[[製品]]<rt>ㄐㄝ·ㄆㄨㄇ</rt></ruby> "product; produce; goods"
 - <ruby>[[貢品]]<rt>ㄍㄛㄫㄆㄨㄇ</rt></ruby> "tribute; tribute goods"
 - <ruby>[[品詞]]<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
 - <ruby>[[品目]]<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby> "article; item; inventory"

@@ -51,7 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[怒気]]<rt>ㄋㄛㄎㄧㄜ</rt></ruby> "anger"
+- <ruby>[[怒気]]<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby> "anger"
 - <ruby>[[憤怒]]<rt>ㄅㄨㄋㄋㄛ</rt></ruby> "indignant, angry"
 - <ruby>[[暴怒]]<rt>ㄅㄛㄎㄋㄛ</rt></ruby> "rage"
 - <ruby>[[激怒]]<rt>ㄍㄝㄎㄋㄛ</rt></ruby> "anger, enrage"
@@ -61,4 +61,4 @@ boundedness: 90
 - <ruby>[[怒号]]<rt>ㄋㄛㄏㄚㄨ</rt></ruby> "howl in anger, roar"
 
 ## Chengyu
-- <ruby>[[喜怒哀楽]]<rt>ㄏㄧㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"
+- <ruby>[[喜怒哀楽]]<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"

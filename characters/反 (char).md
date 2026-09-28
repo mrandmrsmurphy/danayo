@@ -54,7 +54,7 @@ boundedness: 100
 ## Words
 - <ruby>[[反]]<rt>ㄈㄛㄋ</rt></ruby> "anti-; wrong side up" (stand-in for 反)
 - <ruby>[[反応]]<rt>ㄈㄛㄋ·ㄧㄫ</rt></ruby> "react; respond"
-- <ruby>[[反映]]<rt>ㄈㄛㄋ⼶ㄫ</rt></ruby> "reflect; indicate"
+- <ruby>[[反映]]<rt>ㄈㄛㄋ·⼶ㄫ</rt></ruby> "reflect; indicate"
 - <ruby>[[反切]]<rt>ㄈㄛㄋㄑㄝㄊ</rt></ruby> "fanqie (traditional phonetic spelling)"
 - <ruby>[[反対]]<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby> "be opposite; oppose"
 - <ruby>[[反哺]]<rt>ㄈㄛㄋㄅㄛ</rt></ruby> "take care of one's parents"

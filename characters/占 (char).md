@@ -64,7 +64,7 @@ boundedness: 90
 ## Words
 - <ruby>[[占領]]<rt>ㄐㄝㄇㄌㄧㄫ</rt></ruby> "capture, occupy, seize"
 - <ruby>[[占拠]]<rt>ㄐㄝㄇㄍ⼄</rt></ruby> "occupy, hold"
-- <ruby>[[占有]]<rt>ㄐㄝㄇ⼜</rt></ruby> "possess, occupy"
+- <ruby>[[占有]]<rt>ㄐㄝㄇ·⼜</rt></ruby> "possess, occupy"
 - <ruby>[[占卜]]<rt>ㄐㄝㄇㄅㄛㄎ</rt></ruby> "divine, fortune tell"
 - <ruby>[[占星]]<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby> "divination"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"

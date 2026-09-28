@@ -51,4 +51,4 @@ boundedness:
 - 3189th most used character in Classical Chinese (ranking lists the traditional form 壓). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄚㄊ](../syllables/ㄚㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
-- <ruby>[[弾圧]]<rt>ㄉㄚㄋㄚㄊ</rt></ruby> "subjugate, repress"
+- <ruby>[[弾圧]]<rt>ㄉㄚㄋ·ㄚㄊ</rt></ruby> "subjugate, repress"

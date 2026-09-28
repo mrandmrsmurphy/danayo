@@ -51,7 +51,7 @@ boundedness: 80
 - <ruby>[[口語]]<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language; spoken language"
 - <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
 - <ruby>[[人口]]<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby> "population"
-- <ruby>[[唖口]]<rt>ㄚㄎㄛㄨ</rt></ruby> "mute"
+- <ruby>[[唖口]]<rt>ㄚ·ㄎㄛㄨ</rt></ruby> "mute"
 - <ruby>[[口臭]]<rt>ㄎㄛㄨㄑㄨ</rt></ruby> "halitosis; bad breath"
 - <ruby>[[口訣]]<rt>ㄎㄛㄨㄍ⼔ㄊ</rt></ruby> "mnemonic formula; secret oral formula"
 - <ruby>[[口笛]]<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby> "flute; whistle"

@@ -53,6 +53,6 @@ boundedness: 90
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[副詞]]<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
-- <ruby>[[副業]]<rt>ㄈㄨㄎㄝㄆ</rt></ruby> "side job, second job"
+- <ruby>[[副業]]<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby> "side job, second job"
 - <ruby>[[副用]]<rt>ㄆㄩㄎ·⼄ㄫ</rt></ruby> "auxiliary"
 - <ruby>[[副金]]<rt>ㄈㄨㄎㄍㄧㄇ</rt></ruby> "protactinium"

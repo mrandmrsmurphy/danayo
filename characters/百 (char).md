@@ -56,7 +56,7 @@ boundedness: 80
 - <ruby>[[百事]]<rt>ㄅㄚㄎㄐㄧ</rt></ruby> "myriad issues"
 - <ruby>[[百分率]]<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby> "percentage; per-cent rate"
 - <ruby>[[百升]]<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby> "hectoliter"
-- <ruby>[[百越]]<rt>ㄅㄚㄎ⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
+- <ruby>[[百越]]<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[百済]]<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby> "Baekje"
 - <ruby>[[百科]]<rt>ㄅㄚㄎㄍ⺢</rt></ruby> "all knowledge"
 - <ruby>[[百科事典]]<rt>ㄅㄚㄎㄎ⺢ㄐㄧㄉㄝㄋ</rt></ruby> "encyclopedia"

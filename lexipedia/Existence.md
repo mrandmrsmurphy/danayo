@@ -96,7 +96,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential (its negative counterpart is <ruby>[不用](../words/不用.md)<rt>ㄅㄛㄊ⼄ㄫ</rt></ruby>, "not necessary, unused, useless").
 - <ruby>[欠乏](../words/欠乏.md)<rt>ㄎ⼘ㄇㄅㄚㄆ</rt></ruby> / <ruby>[欠缺](../words/欠缺.md)<rt>ㄎ⼘ㄇㄎ⼔ㄊ</rt></ruby>: to lack, be deficient — near-synonyms alongside Core [[無]] above.
 - <ruby>[用尽](../words/用尽.md)<rt>⼄ㄫㄐㄧㄋ</rt></ruby>: to exhaust, use up.
-- <ruby>[安定](../words/安定.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: stable, settled (its negative counterpart is <ruby>[不穏](../words/不穏.md)<rt>ㄅㄛㄊㄛㄋ</rt></ruby>, "unstable, unsettled, ominous").
+- <ruby>[安定](../words/安定.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: stable, settled (its negative counterpart is <ruby>[不穏](../words/不穏.md)<rt>ㄅㄛㄊ·ㄛㄋ</rt></ruby>, "unstable, unsettled, ominous").
 - <ruby>[不定](../words/不定.md)<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby>: indefinite, indeterminate, variable.
 
 ### Generality, Comparison & Identity
@@ -144,7 +144,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 ### Miscellaneous Abstract
 
 - <ruby>[事](../words/事.md)<rt>ㄐㄧ</rt></ruby>: a thing, a matter, an action — the bound noun-class root also seen throughout [[Grammar]]'s own correlative-pronoun paradigm (此事, 何事, etc.).
-- <ruby>[事宜](../words/事宜.md)<rt>ㄐㄧㄜㄧ</rt></ruby>: an arrangement, matters to be attended to.
+- <ruby>[事宜](../words/事宜.md)<rt>ㄐㄧ·ㄜㄧ</rt></ruby>: an arrangement, matters to be attended to.
 - <ruby>[様子](../words/様子.md)<rt>⼘ㄫㄐㄜ</rt></ruby>: appearances, manner, the state of things.
 - <ruby>[意義](../words/意義.md)<rt>ㄜㄜㄧ</rt></ruby>: sense, meaning, significance.
 - <ruby>[否定](../words/否定.md)<rt>ㄈㄚㄨㄐㄝㄫ</rt></ruby>: negation, denial — the abstract noun behind Core [[非]]'s copula-negation.

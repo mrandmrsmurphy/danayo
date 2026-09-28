@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[決]]<rt>ㄎ⼔ㄊ</rt></ruby> "determine; decide" (stand-in for 決)
 - <ruby>[[解決]]<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby> "solve; resolve; conclude; settle"
 - <ruby>[[決定]]<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby> "decide; choose"
-- <ruby>[[処決]]<rt>ㄑㄛㄎ⼔ㄊ</rt></ruby> "handle; resolve; execute"
+- <ruby>[[処決]]<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby> "handle; resolve; execute"
 
 ## Derived Characters
 - <ruby>[[快 (char)|快]]<rt>ㄎ⺢ㄧ</rt></ruby> "sharp"
@@ -67,6 +67,6 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
-- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
+- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
 - <ruby>[[文音共決]]<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> "script and sound resolved together"
-- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"
+- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"

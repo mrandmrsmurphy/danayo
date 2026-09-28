@@ -71,7 +71,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
 - <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
 - <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
-- <ruby>[数万](../words/数万.md)<rt>ㄙㄨㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
+- <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
 - <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄜㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄜㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
 
 ### Multiples, Fractions & Groups
@@ -103,7 +103,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[減算]]<rt>ㄍㄚㄇㄙ⺢ㄋ</rt></ruby> / <ruby>[減法](../words/減法.md)<rt>ㄍㄚㄇㄈㄚㄆ</rt></ruby>: subtract (verb) / subtraction (the method).
 - <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby> / <ruby>[乗法](../words/乗法.md)<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby>: multiply (verb) / multiplication (the method).
 - <ruby>[[除算]]<rt>ㄐㄝㄧㄙ⺢ㄋ</rt></ruby> / <ruby>[除法](../words/除法.md)<rt>ㄐㄝㄧㄈㄚㄆ</rt></ruby>: divide (verb) / division (the method).
-- <ruby>[九九](../words/九九.md)<rt>ㄎ⼜ㄎ⼜</rt></ruby>: the times table, multiplication table — named for its traditional opening line, "nine nines are eighty-one."
+- <ruby>[九九](../words/九九.md)<rt>ㄎ⼜·ㄎ⼜</rt></ruby>: the times table, multiplication table — named for its traditional opening line, "nine nines are eighty-one."
 - <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby>: equal (mathematically).
 - <ruby>[方程式](../words/方程式.md)<rt>ㄈㄚㄫㄉㄧㄫㄙㄧㄎ</rt></ruby>: equation — literally "method-process-formula."
 - <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>: odd (number).

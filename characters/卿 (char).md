@@ -51,6 +51,6 @@ date-last-perfect: 2026-08-13
 
 ## Words
 - <ruby>[[卿]]<rt>ㄎ⼶ㄫ</rt></ruby> "noble; high officer; sir; m'lord" (stand-in for 卿)
-- <ruby>[[九卿]]<rt>ㄎ⼜ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
+- <ruby>[[九卿]]<rt>ㄎ⼜·ㄎ⼶ㄫ</rt></ruby> "the Nine Ministers"
 - <ruby>[[公卿]]<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby> "nobility"
 - <ruby>[[枢机卿]]<rt>ㄑㄨㄍㄧㄜㄎ⼶ㄫ</rt></ruby> "cardinal"

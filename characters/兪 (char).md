@@ -48,7 +48,7 @@ date-last-perfect: 2026-08-16
 
 ## Words
 - <ruby>[[兪]]<rt>⼜ㄇ</rt></ruby> "agree to" (stand-in for 兪)
-- <ruby>[[兪允]]<rt>⼜ㄇ⼜ㄋ</rt></ruby> "consent to, permit (of the emperor)"
+- <ruby>[[兪允]]<rt>⼜ㄇ·⼜ㄋ</rt></ruby> "consent to, permit (of the emperor)"
 
 ## Derived Characters
 - <ruby>[[喩]]<rt>⼜ㄇ</rt></ruby> "metaphor"

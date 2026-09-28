@@ -50,4 +50,4 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[糖]]<rt>ㄉ⺢ㄫ</rt></ruby> "sugar" (stand-in for 糖)
-- <ruby>[[麦芽糖]]<rt>ㄇㄚㄎㄚㄉ⺢ㄫ</rt></ruby> "maltose"
+- <ruby>[[麦芽糖]]<rt>ㄇㄚㄎ·ㄚㄉ⺢ㄫ</rt></ruby> "maltose"

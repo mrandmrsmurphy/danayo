@@ -57,7 +57,7 @@ boundedness: 80
 - <ruby>[[弟弟]]<rt>ㄉㄝㄉㄝ</rt></ruby> "younger brother"
 - <ruby>[[弟子]]<rt>ㄉㄝㄐㄜ</rt></ruby> "apprentice; disciple"
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers; brotherhood"
-- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"
+- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"
 - <ruby>[[孝弟]]<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby> "filial piety and fraternal duty"
 - <ruby>[[従弟]]<rt>ㄐㄛㄫㄉㄝ</rt></ruby> "younger male cousin"
 - <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"

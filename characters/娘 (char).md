@@ -52,4 +52,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[娘]]<rt>ㄋㄚㄫ</rt></ruby> "young woman" (stand-in for 娘 (char))
-- <ruby>[[姑娘]]<rt>ㄍㄛㄋㄚㄫ</rt></ruby> "girl; young lady"
+- <ruby>[[姑娘]]<rt>ㄍㄛ·ㄋㄚㄫ</rt></ruby> "girl; young lady"

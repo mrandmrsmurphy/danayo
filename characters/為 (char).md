@@ -51,7 +51,7 @@ boundedness: 100
 - [SKIP-4-9-4](../lookup/SKIP/SKIP-4/SKIP-4-9-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 7th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [⼔ㄋ](../syllables/⼔ㄋ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
-- 為 is a "copulative particle," a prefix for a verbal complement, as in <ruby>[[words/謂之]]<rt>ㄨㄧㄊㄧ</rt></ruby><ruby>光明<rt>ㄍ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby> — "he named the light 'day'."
+- 為 is a "copulative particle," a prefix for a verbal complement, as in <ruby>[[words/謂之]]<rt>ㄨㄧ·ㄊㄧ</rt></ruby><ruby>光明<rt>ㄍ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby> — "he named the light 'day'."
 
 ## Words
 - <ruby>[[敢為]]<rt>ㄍㄚㄇㄨㄧ</rt></ruby> "dare to do"

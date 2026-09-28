@@ -57,5 +57,5 @@ boundedness: 90
 - <ruby>[[所謂]]<rt>ㄙㄜㄨㄧ</rt></ruby> "so called"
 - <ruby>[[居所]]<rt>ㄍㄧㄙㄜ</rt></ruby> "residence, whereabouts"
 - <ruby>[[厠所]]<rt>ㄑㄧㄙㄜ</rt></ruby> "toilet; bathroom"
-- <ruby>[[事務所]]<rt>ㄐㄧㄇㄨㄙㄜ</rt></ruby> "office building; firm; agency"
+- <ruby>[[事務所]]<rt>ㄐㄧ·ㄇㄨㄙㄜ</rt></ruby> "office building; firm; agency"
 - <ruby>[[裁判所]]<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby> "courthouse"

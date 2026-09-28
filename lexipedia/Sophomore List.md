@@ -101,7 +101,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Geographical : 
 	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby>, 
 	- farm *(needs a word)*, 
-	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ⼘</rt></ruby>, 
+	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby>, 
 	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
 - Body Parts : 
 	- body - <ruby>[[身体]]<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>, 
@@ -178,7 +178,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- lunch - <ruby>[[午餐]]<rt>ㄛㄑㄚㄋ</rt></ruby>
 	- dinner - <ruby>[[正餐]]<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>
 	- wine *(needs a word — closest is [[醇酒]] "fine wine," but no plain "wine"; 葡萄酒 could be built from existing [[葡]]/[[萄]]/[[酒]] characters)*
-	- milk - <ruby>[[牛乳]]<rt>ㄋ⼜ㄋㄨ</rt></ruby>
+	- milk - <ruby>[[牛乳]]<rt>ㄋ⼜·ㄋㄨ</rt></ruby>
 - Clothing :
 	- clothes - <ruby>[[衣服]]<rt>ㄧㄜㄅㄨㄎ</rt></ruby>
 	- pants - <ruby>[[袴]]<rt>ㄎㄛ</rt></ruby>
@@ -225,7 +225,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- system - <ruby>[[制度]]<rt>ㄐㄝㄧㄉㄛ</rt></ruby>
 	- list - <ruby>[[書籍]]<rt>ㄙ⼄ㄐㄝㄎ</rt></ruby>
 	- event - <ruby>[[事件]]<rt>ㄐㄧㄍ⼶ㄋ</rt></ruby>
-	- reason - <ruby>[[原因]]<rt>⼔ㄋㄧㄋ</rt></ruby>
+	- reason - <ruby>[[原因]]<rt>⼔ㄋ·ㄧㄋ</rt></ruby>
 	- fact - <ruby>[[事実]]<rt>ㄐㄧㄙㄧㄊ</rt></ruby>
 	- space *(needs a word)*
 	- time - <ruby>[[期]]<rt>ㄎㄧ</rt></ruby>
@@ -247,7 +247,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- law - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
 	- council *(needs a word)*
 	- tax - <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby>
-	- prison - <ruby>[[監獄]]<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby>
+	- prison - <ruby>[[監獄]]<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby>
 	- minister - <ruby>[[大臣]]<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby>
 
 ## Verbs
@@ -265,7 +265,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Writing :
 	- write *(needs a word)*
 	- read - <ruby>[[読書]]<rt>ㄉㄛㄎㄙ⼄</rt></ruby>
-	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ⼶ㄎ</rt></ruby>
+	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby>
 	- create - <ruby>[[創造]]<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>
 	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄧㄆ</rt></ruby>
 	- learn - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>
@@ -275,12 +275,12 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- hate - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby>
 	- like - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby>
 	- care - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby>
-	- want - <ruby>[[願意]]<rt>⼔ㄋㄜ</rt></ruby>
+	- want - <ruby>[[願意]]<rt>⼔ㄋ·ㄜ</rt></ruby>
 	- wish *(needs a word distinct from [[願意]]/[[希望]])*
 	- marry - <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>
 - Knowledge :
 	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
-	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>
+	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>
 	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby>
 	- expect *(needs a word)*
 	- remember - <ruby>[[記憶]]<rt>ㄍㄧ·ㄧㄎ</rt></ruby>
@@ -301,7 +301,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- habitually do
 - Abstractions :
 	- cause - <ruby>[[縁故]]<rt>⼶ㄋㄍㄛ</rt></ruby>
-	- mean - <ruby>[[意味]]<rt>ㄜㄇㄨㄧ</rt></ruby>
+	- mean - <ruby>[[意味]]<rt>ㄜ·ㄇㄨㄧ</rt></ruby>
 	- measure - <ruby>[[測量]]<rt>ㄑㄜㄎㄌ⼘ㄫ</rt></ruby>
 	- place - <ruby>[[位置]]<rt>⼔ㄧㄑㄧ</rt></ruby>
 - Shapes :
@@ -366,7 +366,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Containers :
 	- open - <ruby>[[開啓]]<rt>ㄎㄚㄧㄎㄝㄧ</rt></ruby>
 	- close - <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby>
-	- cover - <ruby>[[遮蔽]]<rt>ㄐㄚㄆㄝ</rt></ruby>
+	- cover - <ruby>[[遮蔽]]<rt>ㄐㄚ·ㄆㄝ</rt></ruby>
 
 ## Grammar
 - Conjunctions :
@@ -386,7 +386,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- over - <ruby>[[了]]<rt>ㄌ⼘ㄨ</rt></ruby>
 	- under - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
 - Adverbs :
-	- perhaps - <ruby>[[可能]]<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
+	- perhaps - <ruby>[[可能]]<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 	- indeed - <ruby>[[矣]]<rt>⼔</rt></ruby>
 	- thus
 - Time :
@@ -486,7 +486,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- camera
 	- film
 	- photo
-	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ⼶ㄫ</rt></ruby>
+	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>
 	- animation
 	- theater - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
 - Recording :
@@ -644,7 +644,7 @@ _These are for place names, not the words themselves_
 - Harsh :
 	- marsh - <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
 	- swamp - <ruby>[[沼沢]]<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>
-	- desert - <ruby>[[沙漠]]<rt>ㄙㄚㄇㄚㄎ</rt></ruby>
+	- desert - <ruby>[[沙漠]]<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>
 	- wilderness - <ruby>[[広野]]<rt>ㄍ⺢ㄫ·⼘</rt></ruby>
 	- jungle - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>
 - Rivers :
@@ -688,7 +688,7 @@ _These are for place names, not the words themselves_
 	- oasis
 - Tree :
 	- aspen
-	- birch - <ruby>[[樺木]]<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby>
+	- birch - <ruby>[[樺木]]<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>
 	- cedar - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby>
 	- elm
 	- oak
@@ -794,4 +794,4 @@ _These are for place names, not the words themselves_
 	- hawk - <ruby>[[../words/鷹]]<rt>ㄧㄫ</rt></ruby>
 	- eagle - <ruby>[[../words/鵰]]<rt>ㄑㄨㄛ</rt></ruby>
 	- dragon - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby>
-	- ram - <ruby>[[綿羊]]<rt>ㄇ⼶ㄋ⼘ㄫ</rt></ruby>
+	- ram - <ruby>[[綿羊]]<rt>ㄇ⼶ㄋ·⼘ㄫ</rt></ruby>

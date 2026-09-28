@@ -54,7 +54,7 @@ boundedness: 75
 - <ruby>[[人等]]<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> "persons; et al."
 - <ruby>[[君等]]<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby> "you'all"
 - <ruby>[[我等]]<rt>ㄚㄉㄨㄫ</rt></ruby> "we, us"
-- <ruby>[[其人等]]<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby> "they"
+- <ruby>[[其人等]]<rt>ㄍㄜ·ㄋㄧㄋㄉㄨㄫ</rt></ruby> "they"
 - <ruby>[[等級]]<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby> "grade, level, ranking, class"
 - <ruby>[[平等]]<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby> "equality, be equal"
 - <ruby>[[恒等式]]<rt>ㄏㄨㄫㄉㄨㄫㄙㄧㄎ</rt></ruby> "identity"

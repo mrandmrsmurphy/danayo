@@ -24,7 +24,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 - <ruby>[空](../words/空.md)<rt>ㄎㄛㄫ</rt></ruby>: empty.
 - <ruby>[内容](../words/内容.md)<rt>ㄋㄛㄧ⼄ㄫ</rt></ruby>: content, substance — what a container holds. See Semantic Range Notes.
 - <ruby>[包含](../words/包含.md)<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby>: to have, include, contain.
-- <ruby>[個人](../words/個人.md)<rt>ㄍㄜㄋㄧㄋ</rt></ruby>: an individual (a person). See Semantic Range Notes.
+- <ruby>[個人](../words/個人.md)<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby>: an individual (a person). See Semantic Range Notes.
 
 ## Intermediate (B1–B2)
 
@@ -58,7 +58,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 
 - <ruby>[包括](../words/包括.md)<rt>ㄅ⼘ㄨㄍ⺢ㄊ</rt></ruby>: to include, consist of.
 - <ruby>[充填](../words/充填.md)<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby>, <ruby>[填](../words/填.md)<rt>ㄉㄝㄋ</rt></ruby>: to fill.
-- <ruby>[弥漫](../words/弥漫.md)<rt>ㄇㄝㄇㄚㄋ</rt></ruby>: to pervade, fill.
+- <ruby>[弥漫](../words/弥漫.md)<rt>ㄇㄝ·ㄇㄚㄋ</rt></ruby>: to pervade, fill.
 - <ruby>[空虚](../words/空虚.md)<rt>ㄎㄛㄫㄏ⼄</rt></ruby>, <ruby>[空白](../words/空白.md)<rt>ㄎㄛㄫㄅㄚㄎ</rt></ruby>: empty, blank.
 - <ruby>[空手](../words/空手.md)<rt>ㄎㄛㄫㄙ⼜</rt></ruby>: empty-handed, unarmed.
 

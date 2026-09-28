@@ -60,4 +60,4 @@ date-last-perfect: 2026-08-07
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"
-- <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"
+- <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"

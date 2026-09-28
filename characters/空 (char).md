@@ -65,11 +65,11 @@ boundedness: 100
 - <ruby>[[空虚]]<rt>ㄎㄛㄫㄏ⼄</rt></ruby> "empty"
 - <ruby>[[航空]]<rt>ㄏㄚㄫㄎㄛㄫ</rt></ruby> "aviation"
 - <ruby>[[航空母艦]]<rt>ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ</rt></ruby> "aircraft carrier"
-- <ruby>[[孫悟空]]<rt>ㄙㄛㄋ·ㄛㄎㄛㄫ</rt></ruby> "Monkey King"
+- <ruby>[[孫悟空]]<rt>ㄙㄛㄋ·ㄛ·ㄎㄛㄫ</rt></ruby> "Monkey King"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
-- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
 - <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
 - <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "As boundless as the sky and sea"
 

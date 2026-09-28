@@ -51,7 +51,7 @@ boundedness: 80
 - <ruby>[昭和](../words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby> "Shōwa"
 
 ## Chengyu
-- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"
+- <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"
 
 ## Derived Characters
 - <ruby>[[照 (char)|照]]<rt>ㄐㄛㄨ</rt></ruby> "shine"

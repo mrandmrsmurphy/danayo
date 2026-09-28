@@ -223,7 +223,7 @@ List every Dan'a'yo word that uses this character. Format: ruby-annotated link f
 
 ```markdown
 ## Words
-- <ruby>[[詩篇]]<rt>ㄙㄧㄆ⼶ㄋ</rt></ruby> "poem, psalm"
+- <ruby>[[詩篇]]<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby> "poem, psalm"
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby> "Tang poetry"
 ```
 

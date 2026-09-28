@@ -30,9 +30,9 @@ language: English
 - home - <ruby>[居所](../words/居所.md)<rt>ㄍㄧㄙㄜ</rt></ruby>
 - hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby>
 - house - <ruby>[住宅](../words/住宅.md)<rt>ㄐㄨㄐㄚㄎ</rt></ruby>
-- office - <ruby>[事務所](../words/事務所.md)<rt>ㄐㄧㄇㄨㄙㄜ</rt></ruby>
+- office - <ruby>[事務所](../words/事務所.md)<rt>ㄐㄧ·ㄇㄨㄙㄜ</rt></ruby>
 - palace - <ruby>[宮殿](../words/宮殿.md)<rt>ㄍㄨㄫㄉㄧㄋ</rt></ruby>
-- prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby>
+- prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby>
 - station - <ruby>[兵站](../words/兵站.md)<rt>ㄅ⼶ㄫㄐㄚㄇ</rt></ruby>
 - tower - <ruby>[望楼](../words/望楼.md)<rt>ㄇㄚㄫㄌㄛㄨ</rt></ruby>
 - tent - [[天幕]] *(reserved — "heaven-curtain," a real shared coinage in Japanese てんまく and Korean 천막, though Mandarin uses an unrelated word instead, 帳篷 zhàngpéng. Not yet a word page.)*
@@ -46,7 +46,7 @@ language: English
 - palace - <ruby>[宮廷](../words/宮廷.md)<rt>ㄍㄨㄫㄉㄝㄫ</rt></ruby>
 - castle - <ruby>[城郭](../words/城郭.md)<rt>ㄙㄧㄫㄍ⺢ㄎ</rt></ruby>
 - office - <ruby>[官庁](../words/官庁.md)<rt>ㄍ⺢ㄋㄑㄝㄫ</rt></ruby>
-- prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby> (same word as the Buildings section's own "prison" above)
+- prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby> (same word as the Buildings section's own "prison" above)
 - ministry - <ruby>[省](../words/省.md)<rt>ㄙ⼶ㄫ</rt></ruby>
 - customs - [[税関]] *(reserved — "tax-checkpoint," identical compound in Japanese ぜいかん and Korean 세관; Mandarin uses 海關 "sea-checkpoint" instead, sharing the same 關/関 "checkpoint" logic with a different first character. Not yet a word page.)*
 - house - <ruby>[住宅](../words/住宅.md)<rt>ㄐㄨㄐㄚㄎ</rt></ruby> (same word as the Buildings section's own "house" above)

@@ -55,8 +55,8 @@ boundedness: 100
 - 158th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄧㄇ](../syllables/ㄧㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[陰陽]]<rt>ㄧㄇ⼘ㄫ</rt></ruby> "yin-yang"
-- <ruby>[[陰影]]<rt>ㄧㄇ⼶ㄫ</rt></ruby> "shadow"
+- <ruby>[[陰陽]]<rt>ㄧㄇ·⼘ㄫ</rt></ruby> "yin-yang"
+- <ruby>[[陰影]]<rt>ㄧㄇ·⼶ㄫ</rt></ruby> "shadow"
 - <ruby>[[太陰]]<rt>ㄊㄚㄧ·ㄧㄇ</rt></ruby> "moon"
 - <ruby>[[陰性]]<rt>ㄧㄇㄙㄧㄫ</rt></ruby> "negativity, feminine gender"
 - <ruby>[[陰極]]<rt>ㄧㄇㄍㄧㄎ</rt></ruby> "cathode"

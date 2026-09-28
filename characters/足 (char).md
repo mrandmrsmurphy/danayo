@@ -61,9 +61,9 @@ boundedness: 70
 - <ruby>[[飽足]]<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby> "satisfied; satiated"
 
 ## Chengyu
-- <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
+- <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 - <ruby>[[自給自足]]<rt>ㄐㄧㄜㄍㄧㄆㄐㄧㄜㄐㄛㄎ</rt></ruby> "producing all one needs from one's own resources"
-- <ruby>[[画蛇添足]]<rt>ㄏ⺢ㄎㄊㄚㄊㄝㄇㄐㄛㄎ</rt></ruby> "gild the lilies, making an unnecessary addition"
+- <ruby>[[画蛇添足]]<rt>ㄏ⺢ㄎㄊㄚ·ㄊㄝㄇㄐㄛㄎ</rt></ruby> "gild the lilies, making an unnecessary addition"
 
 ## Derived Characters
 - <ruby>[[促 (char)|促]]<rt>ㄑㄛㄎ</rt></ruby> "hurry; rush"

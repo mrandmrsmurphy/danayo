@@ -63,7 +63,7 @@ boundedness: 100
 - <ruby>[[老人学]]<rt>ㄌㄚㄨㄋㄧㄋㄏㄚㄎ</rt></ruby> "gerontology"
 - <ruby>[[鬼老]]<rt>ㄍㄨㄧㄌㄚㄨ</rt></ruby> "male demon"
 - <ruby>[[老鼠]]<rt>ㄌㄚㄨㄙ⼄</rt></ruby> "rat, mouse"
-- <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄ㄋㄧㄋ</rt></ruby> "rat person"
+- <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄·ㄋㄧㄋ</rt></ruby> "rat person"
 
 ## Chengyu
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"

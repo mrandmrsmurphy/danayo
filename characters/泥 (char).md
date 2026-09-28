@@ -55,7 +55,7 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[泥]]<rt>ㄋㄝㄧ</rt></ruby> "mud" (stand-in for 泥)
-- <ruby>[[拘泥]]<rt>ㄍㄨㄋㄝㄧ</rt></ruby> "inflexible, particular"
+- <ruby>[[拘泥]]<rt>ㄍㄨ·ㄋㄝㄧ</rt></ruby> "inflexible, particular"
 - <ruby>[[泥婆羅]]<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby> "Nepal"
 
 ## Chengyu

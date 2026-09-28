@@ -51,6 +51,6 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[枢]]<rt>ㄑㄨ</rt></ruby> "hinge; pivot" (stand-in for 枢)
-- <ruby>[[枢紐]]<rt>ㄑㄨㄋ⼜ㄛ</rt></ruby> "pivot, hub"
+- <ruby>[[枢紐]]<rt>ㄑㄨ·ㄋ⼜ㄛ</rt></ruby> "pivot, hub"
 - <ruby>[[枢机]]<rt>ㄑㄨㄍㄧㄜ</rt></ruby> "pivotal mechanism; the cardinal's office"
 - <ruby>[[枢机卿]]<rt>ㄑㄨㄍㄧㄜㄎ⼶ㄫ</rt></ruby> "cardinal"

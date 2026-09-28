@@ -26,7 +26,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[俳優](../words/俳優.md)<rt>ㄅ⼶ㄨㄛ</rt></ruby>: actor.
 - <ruby>[演](../words/演.md)<rt>⼶ㄋ</rt></ruby>: to perform.
 - <ruby>[唱歌](../words/唱歌.md)<rt>ㄑ⺢ㄫㄍㄜ</rt></ruby>: to sing.
-- <ruby>[歌曲](../words/歌曲.md)<rt>ㄍㄜㄎ⼄ㄎ</rt></ruby>: song.
+- <ruby>[歌曲](../words/歌曲.md)<rt>ㄍㄜ·ㄎ⼄ㄎ</rt></ruby>: song.
 - <ruby>[図画](../words/図画.md)<rt>ㄉㄛㄏ⺢ㄎ</rt></ruby>, <ruby>[絵画](../words/絵画.md)<rt>ㄏ⺢ㄧㄏ⺢ㄎ</rt></ruby>: to draw, to paint; a drawing/painting. See Semantic Range Notes.
 - <ruby>[筆](../words/筆.md)<rt>ㄆㄨㄊ</rt></ruby>: a pen, writing brush.
 
@@ -35,8 +35,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Performance & Theatre
 
 - <ruby>[女優](../words/女優.md)<rt>ㄋㄜㄨㄛ</rt></ruby>: actress, female artist.
-- <ruby>[男優](../words/男優.md)<rt>ㄋㄚㄇㄨㄛ</rt></ruby>: male artist, male actor.
-- <ruby>[芸人](../words/芸人.md)<rt>ㄝㄋㄧㄋ</rt></ruby>: a performer.
+- <ruby>[男優](../words/男優.md)<rt>ㄋㄚㄇ·ㄨㄛ</rt></ruby>: male artist, male actor.
+- <ruby>[芸人](../words/芸人.md)<rt>ㄝ·ㄋㄧㄋ</rt></ruby>: a performer.
 - <ruby>[劇場](../words/劇場.md)<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>: cinema, theater (the venue).
 - <ruby>[演出](../words/演出.md)<rt>⼶ㄋㄑㄨㄊ</rt></ruby>: to perform, put on a show; to direct, stage-direct.
 - <ruby>[演奏](../words/演奏.md)<rt>⼶ㄋㄙㄛㄨ</rt></ruby>: to play (music).
@@ -48,8 +48,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[書簡](../words/書簡.md)<rt>ㄙ⼄ㄍㄚㄋ</rt></ruby>: letter.
 - <ruby>[柬](../words/柬.md)<rt>ㄍ⼘ㄋ</rt></ruby>: letter, invitation.
 - <ruby>[札](../words/札.md)<rt>ㄐㄚㄊ</rt></ruby>: letter, note.
-- <ruby>[手帖](../words/手帖.md)<rt>ㄙ⼜ㄊㄛㄆ</rt></ruby>: notebook, handwritten letter.
-- <ruby>[宣言](../words/宣言.md)<rt>ㄙㄝㄋㄝㄋ</rt></ruby>: a manifesto; to proclaim.
+- <ruby>[手帖](../words/手帖.md)<rt>ㄙ⼜·ㄊㄛㄆ</rt></ruby>: notebook, handwritten letter.
+- <ruby>[宣言](../words/宣言.md)<rt>ㄙㄝㄋ·ㄝㄋ</rt></ruby>: a manifesto; to proclaim.
 - <ruby>[日報](../words/日報.md)<rt>ㄋㄧㄊㄅㄚㄨ</rt></ruby>: newspaper.
 - <ruby>[雑誌](../words/雑誌.md)<rt>ㄐㄚㄆㄐㄧ</rt></ruby>: magazine.
 - <ruby>[画報](../words/画報.md)<rt>ㄏ⺢ㄎㄅㄚㄨ</rt></ruby>: pictorial, picture magazine.
@@ -67,7 +67,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 - <ruby>[詩歌](../words/詩歌.md)<rt>ㄙㄧㄍㄜ</rt></ruby>: poem, poetry (the general term). See Semantic Range Notes.
 - <ruby>[詩作](../words/詩作.md)<rt>ㄙㄧㄐㄚㄎ</rt></ruby>: a composed poem; to compose poetry. See Semantic Range Notes.
-- <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
+- <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
 
 ### Literature & Publishing
@@ -75,14 +75,14 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[叢書](../words/叢書.md)<rt>ㄐㄛㄫㄙ⼄</rt></ruby>: book series, anthology.
 - <ruby>[文学](../words/文学.md)<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>: literature (as a body of written work and an academic discipline). See Semantic Range Notes.
 - <ruby>[文献](../words/文献.md)<rt>ㄇㄨㄋㄏㄝㄋ</rt></ruby>: literature (scholarly/historical documents, references). See Semantic Range Notes.
-- <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋㄝ</rt></ruby>: literature and art, art and culture.
+- <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
 - <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby>: to lay down the pen, stop writing.
 - <ruby>[章](../words/章.md)<rt>ㄐㄚㄫ</rt></ruby>: chapter.
 - <ruby>[文章](../words/文章.md)<rt>ㄇㄨㄋㄐㄚㄫ</rt></ruby>: essay, article.
 - <ruby>[編纂](../words/編纂.md)<rt>ㄅ⼶ㄋㄐ⺢ㄋ</rt></ruby>, <ruby>[編集](../words/編集.md)<rt>ㄅ⼶ㄋㄐㄧㄆ</rt></ruby>: to edit, compile.
-- <ruby>[翻訳](../words/翻訳.md)<rt>ㄈㄛㄋ⼶ㄎ</rt></ruby>: to translate.
+- <ruby>[翻訳](../words/翻訳.md)<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby>: to translate.
 - <ruby>[訓](../words/訓.md)<rt>ㄏㄨㄋ</rt></ruby>: to interpret, translate, explicate.
 - <ruby>[鉛筆](../words/鉛筆.md)<rt>⼶ㄋㄆㄨㄊ</rt></ruby>: pencil.
 - <ruby>[墨水](../words/墨水.md)<rt>ㄇㄨㄎㄙㄨ</rt></ruby>: ink.
@@ -133,7 +133,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[戯曲](../words/戯曲.md)<rt>ㄏㄨㄧㄎ⼄ㄎ</rt></ruby>: Chinese opera; a play (script). See Semantic Range Notes.
 - <ruby>[頁](../words/頁.md)<rt>ㄏㄝㄊ</rt></ruby>: page, sheet (of a book) — a literary/technical register; modern spoken Japanese overwhelmingly prefers the loanword ページ instead. See Semantic Range Notes.
 - <ruby>[閲読](../words/閲読.md)<rt>⼶ㄊㄉㄛㄎ</rt></ruby>: to read closely, to peruse, to examine a text — a more formal register than casual reading. See Semantic Range Notes.
-- <ruby>[刻印](../words/刻印.md)<rt>ㄎㄨㄎㄧㄋ</rt></ruby>: to engrave; a seal impression (two-dimensional). See Semantic Range Notes.
+- <ruby>[刻印](../words/刻印.md)<rt>ㄎㄨㄎ·ㄧㄋ</rt></ruby>: to engrave; a seal impression (two-dimensional). See Semantic Range Notes.
 - <ruby>[賦](../words/賦.md)<rt>ㄈㄨ</rt></ruby>: prose-poetry (a classical genre).
 - <ruby>[詠春拳](../words/詠春拳.md)<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby>: Wing Chun.
 - <ruby>[鳳笙](../words/鳳笙.md)<rt>ㄆㄨㄫㄙㄚㄫ</rt></ruby>: phoenix sheng — a free-reed mouth organ. See Semantic Range Notes.

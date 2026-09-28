@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-07
 - <ruby>[隔](words/隔.md)<rt>ㄍㄚㄎ</rt></ruby> "every other" (stand-in for 隔)
 - <ruby>[[間隔]]<rt>ㄍㄚㄋㄍㄚㄎ</rt></ruby> "be divided, be separate"
 - <ruby>[[隔年]]<rt>ㄍㄚㄎㄋㄝㄋ</rt></ruby> "every other year"
-- <ruby>[[隔月]]<rt>ㄍㄚㄎ⼔ㄊ</rt></ruby> "every other month"
+- <ruby>[[隔月]]<rt>ㄍㄚㄎ·⼔ㄊ</rt></ruby> "every other month"
 - <ruby>[[隔日]]<rt>ㄍㄚㄎㄋㄧㄊ</rt></ruby> "every other day"
 - <ruby>[[隔週]]<rt>ㄍㄚㄎㄐㄨㄛ</rt></ruby> "every other week"
 - <ruby>[[隔世紀]]<rt>ㄍㄚㄎㄙㄝㄍㄧ</rt></ruby> "every other century"

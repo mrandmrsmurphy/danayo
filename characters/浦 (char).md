@@ -50,7 +50,7 @@ date-last-perfect: 2026-08-09
 
 ## Words
 - <ruby>[[浦]]<rt>ㄆㄛ</rt></ruby> "riverbank, shore" (stand-in for 浦)
-- <ruby>[[新嘉浦]]<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> "Singapore"
+- <ruby>[[新嘉浦]]<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> "Singapore"
 
 ## Derived Characters
 - [[蒲]]

@@ -62,7 +62,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[狭窄](../words/狭窄.md)<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>: narrow, constricted.
 - <ruby>[浅薄](../words/浅薄.md)<rt>ㄑㄝㄋㄅㄚㄎ</rt></ruby>: superficial, shallow (figurative).
 - <ruby>[短期](../words/短期.md)<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby>: short-term.
-- <ruby>[短音](../words/短音.md)<rt>ㄉ⺢ㄋㄨㄇ</rt></ruby>: a short vowel, short tone.
+- <ruby>[短音](../words/短音.md)<rt>ㄉ⺢ㄋ·ㄨㄇ</rt></ruby>: a short vowel, short tone.
 - <ruby>[密](../words/密.md)<rt>ㄇㄧㄊ</rt></ruby>: dense, thick, close, intimate, secret.
 - <ruby>[茂密](../words/茂密.md)<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby>, <ruby>[繁茂](../words/繁茂.md)<rt>ㄆㄚㄋㄇㄛㄨ</rt></ruby>: dense, thick, lush (of vegetation).
 - <ruby>[壮大](../words/壮大.md)<rt>ㄐ⺢ㄫㄉㄚㄧ</rt></ruby>: grand, thick, imposing.
@@ -88,11 +88,11 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 
 - <ruby>[区域](../words/区域.md)<rt>ㄎㄨ·ㄧㄎ</rt></ruby>, <ruby>[圏](../words/圏.md)<rt>ㄍ⼔ㄋ</rt></ruby>: an area, encircled area.
 - <ruby>[巨大](../words/巨大.md)<rt>ㄍ⼄ㄉㄚㄧ</rt></ruby>, <ruby>[碩大](../words/碩大.md)<rt>ㄙㄝㄎㄉㄚㄧ</rt></ruby>, <ruby>[宏大](../words/宏大.md)<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby>, <ruby>[浩大](../words/浩大.md)<rt>ㄏㄚㄨㄉㄚㄧ</rt></ruby>: gigantic, huge, enormous, vast. See Semantic Range Notes.
-- <ruby>[巨人](../words/巨人.md)<rt>ㄍ⼄ㄋㄧㄋ</rt></ruby>: a giant, titan.
+- <ruby>[巨人](../words/巨人.md)<rt>ㄍ⼄·ㄋㄧㄋ</rt></ruby>: a giant, titan.
 - <ruby>[微小](../words/微小.md)<rt>ㄇㄨㄧㄙㄛ</rt></ruby>: tiny, minute, microscopic.
 - <ruby>[茫茫](../words/茫茫.md)<rt>ㄇㄚㄫㄇㄚㄫ</rt></ruby>: vast, boundless; hazy, indistinct.
 - <ruby>[蒼海](../words/蒼海.md)<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby>: the vast ocean.
-- <ruby>[女女](../words/女女.md)<rt>ㄋㄜㄋㄜ</rt></ruby>: little lady, little girl — a colloquial diminutive, not the general adjective "little."
+- <ruby>[女女](../words/女女.md)<rt>ㄋㄜ·ㄋㄜ</rt></ruby>: little lady, little girl — a colloquial diminutive, not the general adjective "little."
 - <ruby>[全盛](../words/全盛.md)<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby>: flourishing, at the height of prosperity, at one's best.
 - <ruby>[至極](../words/至極.md)<rt>ㄐㄧㄜㄍㄧㄎ</rt></ruby>: height, extremity, enormity — a doubled reinforcement of the same "extreme" concept.
 
@@ -102,7 +102,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[拡大](../words/拡大.md)<rt>ㄏ⺢ㄎㄉㄚㄧ</rt></ruby>: to expand, enlarge.
 - <ruby>[拡張](../words/拡張.md)<rt>ㄏ⺢ㄎㄑㄚㄫ</rt></ruby>, <ruby>[延長](../words/延長.md)<rt>⼶ㄋㄐㄚㄫ</rt></ruby>: an expansion; to expand, extend, prolong.
 - <ruby>[膨脹](../words/膨脹.md)<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby>: to swell, bloat, inflate, expand.
-- <ruby>[蔓延](../words/蔓延.md)<rt>ㄇㄚㄋ⼶ㄋ</rt></ruby>: to spread, proliferate, extend (of disease or vegetation).
+- <ruby>[蔓延](../words/蔓延.md)<rt>ㄇㄚㄋ·⼶ㄋ</rt></ruby>: to spread, proliferate, extend (of disease or vegetation).
 - <ruby>[加多](../words/加多.md)<rt>ㄍㄚㄉㄜ</rt></ruby>: to add, augment, increase.
 - <ruby>[漸漸](../words/漸漸.md)<rt>ㄐㄝㄇㄐㄝㄇ</rt></ruby>: gradually, little by little — the manner of a size or quantity change.
 

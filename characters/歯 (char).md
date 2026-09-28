@@ -49,8 +49,8 @@ boundedness:
 
 ## Words
 - <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby> "teeth; gear" (stand-in for 歯)
-- <ruby>[[歯齦]]<rt>ㄑㄧㄎㄚㄋ</rt></ruby> "gingiva, gums"
-- <ruby>[[歯痛]]<rt>ㄑㄧㄊㄛㄫ</rt></ruby> "toothache"
+- <ruby>[[歯齦]]<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby> "gingiva, gums"
+- <ruby>[[歯痛]]<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby> "toothache"
 
 ## Chengyu
 - <ruby>[[唇亡歯寒]]<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> "when the lips are gone, the teeth feel cold"

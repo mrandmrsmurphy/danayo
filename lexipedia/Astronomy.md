@@ -32,7 +32,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[天](../words/天.md)<rt>ㄊㄝㄋ</rt></ruby>: sky, heaven.
 - <ruby>[天地](../words/天地.md)<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby>: the world, heaven and earth.
 - <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind.
-- <ruby>[九天](../words/九天.md)<rt>ㄎ⼜ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
+- <ruby>[九天](../words/九天.md)<rt>ㄎ⼜·ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
 - <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
 - <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
 - <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
@@ -41,7 +41,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[太素](../words/太素.md)<rt>ㄊㄚㄧㄙㄛ</rt></ruby>: the Great Plainness — the fourth and final primordial stage in the *Liezi* cosmogony, the beginning of substance/matter (質).
 - <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
 - <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
-- <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.
+- <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ·⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.
 
 ### Solar System
 
@@ -59,7 +59,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[冥王星](../words/冥王星.md)<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby>: Pluto — named for <ruby>[冥王](../words/冥王.md)<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby>, the king of the underworld; now a dwarf planet.
 - <ruby>[矮行星](../words/矮行星.md)<rt>⺢ㄧㄏㄚㄫㄙㄝㄫ</rt></ruby>: a dwarf planet — the category Pluto was demoted to after the discovery of <ruby>[䦧神星](../words/䦧神星.md)<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> (Eris).
 - <ruby>[小行星帯](../words/小行星帯.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby>: the Asteroid Belt, between Mars and Jupiter, made of <ruby>[小行星](../words/小行星.md)<rt>ㄙㄛㄏㄚㄫㄙㄝㄫ</rt></ruby> (asteroids).
-- <ruby>[汚璃他雲](../words/汚璃他雲.md)<rt>ㄛㄌㄜㄊㄜ·ㄨㄋ</rt></ruby>: the Oort Cloud, the region past Neptune most comets are believed to come from.
+- <ruby>[汚璃他雲](../words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜ·ㄨㄋ</rt></ruby>: the Oort Cloud, the region past Neptune most comets are believed to come from.
 - <ruby>[彗星](../words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>: a comet.
 - <ruby>[流星](../words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>: a shooting star, meteor — what a comet or other object becomes when it burns up entering the atmosphere.
 - <ruby>[軌道](../words/軌道.md)<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby>: an orbit.
@@ -97,7 +97,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[秋分](../words/秋分.md)<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby>: the autumn equinox.
 - <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby>: a solar eclipse.
 - <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>: a lunar eclipse.
-- <ruby>[夕陽](../words/夕陽.md)<rt>ㄙㄝㄎ⼘ㄫ</rt></ruby>: the setting sun, sunset.
+- <ruby>[夕陽](../words/夕陽.md)<rt>ㄙㄝㄎ·⼘ㄫ</rt></ruby>: the setting sun, sunset.
 - <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: a conjunction (planets aligning) — extending 合's general "join, fit together" sense.
 - <ruby>[衝](../words/衝.md)<rt>ㄑㄛㄫ</rt></ruby>: an opposition — extending 衝's general "collide" sense.
 

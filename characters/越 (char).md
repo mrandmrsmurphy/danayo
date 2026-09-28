@@ -63,7 +63,7 @@ boundedness: 90
 - <ruby>[[越共]]<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby> "Vietcong"
 - <ruby>[[越境]]<rt>⼔ㄊㄍ⼶ㄫ</rt></ruby> "transgress, infringe on the border of"
 - <ruby>[[越盟]]<rt>⼔ㄊㄇ⼶ㄫ</rt></ruby> "Viet Minh"
-- <ruby>[[百越]]<rt>ㄅㄚㄎ⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
+- <ruby>[[百越]]<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[卓越]]<rt>ㄊㄚㄎ·⼔ㄊ</rt></ruby> "excellent, outstanding, remarkable"
 - <ruby>[[超越]]<rt>ㄊㄚㄨ⼔ㄊ</rt></ruby> "surpass"
 - <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ·⼔ㄊ</rt></ruby> "CJKV"

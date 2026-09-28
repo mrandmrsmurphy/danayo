@@ -51,5 +51,5 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[幣]]<rt>ㄆㄝ</rt></ruby> "cash" (stand-in for 幣)
-- <ruby>[[貨幣]]<rt>ㄏ⺢ㄆㄝ</rt></ruby> "currency; money"
+- <ruby>[[貨幣]]<rt>ㄏ⺢·ㄆㄝ</rt></ruby> "currency; money"
 - <ruby>[[造幣局]]<rt>ㄑㄚㄨㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"

@@ -33,7 +33,7 @@ Elements vocabulary covers the classical elements of pre-scientific cosmology �
 
 ### Water
 
-- <ruby>[水面](../words/水面.md)<rt>ㄙㄨㄇ⼶ㄋ</rt></ruby>: the water's surface.
+- <ruby>[水面](../words/水面.md)<rt>ㄙㄨ·ㄇ⼶ㄋ</rt></ruby>: the water's surface.
 - <ruby>[汽水](../words/汽水.md)<rt>ㄎㄧㄜㄙㄨ</rt></ruby>: brackish water.
 - <ruby>[淡水](../words/淡水.md)<rt>ㄉㄚㄇㄙㄨ</rt></ruby>: fresh water, potable water, drinking water.
 - <ruby>[湯](../words/湯.md)<rt>ㄊㄚㄫ</rt></ruby>: hot water.
@@ -46,9 +46,9 @@ Elements vocabulary covers the classical elements of pre-scientific cosmology �
 
 ### Types of Wood
 
-- <ruby>[梓木](../words/梓木.md)<rt>ㄐㄜㄇㄛㄎ</rt></ruby>: catalpa wood.
+- <ruby>[梓木](../words/梓木.md)<rt>ㄐㄜ·ㄇㄛㄎ</rt></ruby>: catalpa wood.
 - <ruby>[楠木](../words/楠木.md)<rt>ㄋㄚㄇㄇㄛㄎ</rt></ruby>: camphor wood, nanmu.
-- <ruby>[樺木](../words/樺木.md)<rt>ㄏ⺢ㄇㄛㄎ</rt></ruby>: birch, birch wood.
+- <ruby>[樺木](../words/樺木.md)<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>: birch, birch wood.
 
 ### Not Yet Coined
 

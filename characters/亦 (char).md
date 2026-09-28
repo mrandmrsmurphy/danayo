@@ -51,7 +51,7 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby> "too; also" (stand-in for 亦)
-- <ruby>[[不亦V乎]]<rt>ㄅㄛㄊㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
+- <ruby>[[不亦V乎]]<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 
 ## Derived Characters
 - <ruby>[[夜 (char)|夜]]<rt>⼘</rt></ruby> "night"

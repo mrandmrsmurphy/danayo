@@ -48,10 +48,10 @@ boundedness: 100
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[去]]<rt>ㄎ⼄</rt></ruby> "go"
-- <ruby>[[去年]]<rt>ㄎ⼄ㄋㄝㄋ</rt></ruby> "last year"
-- <ruby>[[逝去]]<rt>ㄙㄝㄎ⼄</rt></ruby> "pass away; die"
-- <ruby>[[過去]]<rt>ㄍ⺢ㄎ⼄</rt></ruby> "past"
-- <ruby>[[辞去]]<rt>ㄑㄧㄎ⼄</rt></ruby> "take one's leave"
+- <ruby>[[去年]]<rt>ㄎ⼄·ㄋㄝㄋ</rt></ruby> "last year"
+- <ruby>[[逝去]]<rt>ㄙㄝ·ㄎ⼄</rt></ruby> "pass away; die"
+- <ruby>[[過去]]<rt>ㄍ⺢·ㄎ⼄</rt></ruby> "past"
+- <ruby>[[辞去]]<rt>ㄑㄧ·ㄎ⼄</rt></ruby> "take one's leave"
 ## Derived Characters
 - <ruby>[[却 (char)|却]]<rt>ㄎ⼘ㄎ</rt></ruby> "but, still"
 - <ruby>[[怯 (char)|怯]]<rt>ㄎㄚㄆ</rt></ruby> "cowardly, timid"

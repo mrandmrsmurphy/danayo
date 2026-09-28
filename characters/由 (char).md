@@ -54,7 +54,7 @@ boundedness: 90
 - <ruby>[[由]]<rt>⼜ㄛ</rt></ruby> "from; since" (stand-in for 由)
 - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby> "free; at liberty; unconstrained"
 - <ruby>[[理由]]<rt>ㄌㄧ·⼜</rt></ruby> "reason; grounds; justification"
-- <ruby>[[因由]]<rt>ㄧㄋ⼜ㄛ</rt></ruby> "reason; cause"
+- <ruby>[[因由]]<rt>ㄧㄋ·⼜ㄛ</rt></ruby> "reason; cause"
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ·⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"

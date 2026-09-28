@@ -49,7 +49,7 @@ boundedness: 80
 ## Words
 - <ruby>[[小]]<rt>ㄙㄛ</rt></ruby> "small" (stand-in for 小)
 - <ruby>[[小学]]<rt>ㄙㄛㄏㄚㄎ</rt></ruby> "elementary learning; philology; elementary school"
-- <ruby>[[小人]]<rt>ㄙㄛㄋㄧㄋ</rt></ruby> "petty person; jerk"
+- <ruby>[[小人]]<rt>ㄙㄛ·ㄋㄧㄋ</rt></ruby> "petty person; jerk"
 - <ruby>[[小冊子]]<rt>ㄙㄛㄑㄚㄎㄐㄜ</rt></ruby> "booklet"
 - <ruby>[[小数点]]<rt>ㄙㄛㄙㄨㄉㄝㄇ</rt></ruby> "decimal point"
 - <ruby>[[小腸]]<rt>ㄙㄛㄑㄚㄫ</rt></ruby> "small intestine"

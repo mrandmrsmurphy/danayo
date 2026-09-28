@@ -17,7 +17,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 
 - <ruby>[工作](../words/工作.md)<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>: work; a job, to be employed.
 - <ruby>[作](../words/作.md)<rt>ㄐㄚㄎ</rt></ruby>: to make, to do.
-- <ruby>[作業](../words/作業.md)<rt>ㄐㄚㄎㄝㄆ</rt></ruby>: a task; to operate, to work on something.
+- <ruby>[作業](../words/作業.md)<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby>: a task; to operate, to work on something.
 - <ruby>[技能](../words/技能.md)<rt>ㄍㄨㄧㄋㄜㄫ</rt></ruby>: skill, ability.
 - <ruby>[建築](../words/建築.md)<rt>ㄍㄝㄋㄐㄨㄎ</rt></ruby>: to build; construction, architecture.
 - <ruby>[修理](../words/修理.md)<rt>ㄙㄨㄛㄌㄧ</rt></ruby>: to fix, to repair.
@@ -33,7 +33,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[構造](../words/構造.md)<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>: structure, composition.
 - <ruby>[製作](../words/製作.md)<rt>ㄐㄝㄐㄚㄎ</rt></ruby>: to manufacture, to make.
 - <ruby>[生産](../words/生産.md)<rt>ㄙㄚㄫㄙㄚㄋ</rt></ruby>: to produce (economic/mass sense).
-- <ruby>[製品](../words/製品.md)<rt>ㄐㄝㄆㄨㄇ</rt></ruby>: a product.
+- <ruby>[製品](../words/製品.md)<rt>ㄐㄝ·ㄆㄨㄇ</rt></ruby>: a product.
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: equipment, facilities.
 - <ruby>[供給](../words/供給.md)<rt>ㄍ⼄ㄫㄍㄧㄆ</rt></ruby>: to supply.
 - <ruby>[提供](../words/提供.md)<rt>ㄙㄝㄍ⼄ㄫ</rt></ruby>: to provide, to offer.

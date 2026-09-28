@@ -51,7 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[短]]<rt>ㄉ⺢ㄋ</rt></ruby> "short" (stand-in for 短)
-- <ruby>[[短音]]<rt>ㄉ⺢ㄋㄨㄇ</rt></ruby> "short vowel; short tone"
+- <ruby>[[短音]]<rt>ㄉ⺢ㄋ·ㄨㄇ</rt></ruby> "short vowel; short tone"
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
 

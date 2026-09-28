@@ -101,7 +101,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 ### Insult & Humiliation
 
-- <ruby>[侮辱](../words/侮辱.md)<rt>ㄇㄨㄋㄛㄎ</rt></ruby>: to insult, humiliate, embarrass. See Semantic Range Notes.
+- <ruby>[侮辱](../words/侮辱.md)<rt>ㄇㄨ·ㄋㄛㄎ</rt></ruby>: to insult, humiliate, embarrass. See Semantic Range Notes.
 - <ruby>[屈辱](../words/屈辱.md)<rt>ㄎㄨㄊㄋㄛㄎ</rt></ruby>: humiliation, to demean. See Semantic Range Notes.
 
 ### Rebellion & Upheaval
@@ -117,7 +117,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[康寧](../words/康寧.md)<rt>ㄎㄚㄫㄋㄝㄫ</rt></ruby>: tranquility and peace.
 - <ruby>[安慰](../words/安慰.md)<rt>ㄚㄋ·ㄛㄧ</rt></ruby>: to comfort, console. See Semantic Range Notes.
 - <ruby>[慰安](../words/慰安.md)<rt>ㄛㄧㄚㄋ</rt></ruby>: to comfort, console — the reverse-order sibling of [[安慰]]. See Semantic Range Notes.
-- <ruby>[安逸](../words/安逸.md)<rt>ㄚㄋㄧㄊ</rt></ruby>: ease, comfort, complacent.
+- <ruby>[安逸](../words/安逸.md)<rt>ㄚㄋ·ㄧㄊ</rt></ruby>: ease, comfort, complacent.
 - <ruby>[愛護](../words/愛護.md)<rt>ㄚㄧㄏㄛ</rt></ruby>: to protect.
 
 ### Defense & Protection
@@ -128,7 +128,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[防守](../words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>: to defend, guard.
 - <ruby>[防御](../words/防御.md)<rt>ㄅㄚㄫ·⼄</rt></ruby>: to defend, protect, cover.
 - <ruby>[防護](../words/防護.md)<rt>ㄅㄚㄫㄏㄛ</rt></ruby>: to guard against, prevent.
-- <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚㄆㄝ</rt></ruby>: to cover, protect.
+- <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚ·ㄆㄝ</rt></ruby>: to cover, protect.
 - <ruby>[金庫](../words/金庫.md)<rt>ㄍㄧㄇㄎㄛ</rt></ruby>: a safe, strongbox (the physical object — not the adjective [[安全]]).
 - <ruby>[救助](../words/救助.md)<rt>ㄍ⼜ㄐㄛ</rt></ruby>: to rescue, to save.
 

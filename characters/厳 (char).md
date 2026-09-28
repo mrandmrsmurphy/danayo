@@ -59,7 +59,7 @@ boundedness:
 - <ruby>[[厳粛]]<rt>⼄ㄇㄙㄨㄎ</rt></ruby> "solemn; austere; grave"
 - <ruby>[[厳重]]<rt>⼄ㄇㄑㄛㄫ</rt></ruby> "serious, rigorous"
 - <ruby>[[厳禁]]<rt>⼄ㄇㄍㄧㄇ</rt></ruby> "strictly forbidden; strictly prohibit"
-- <ruby>[[尊厳]]<rt>ㄐㄛㄋ⼄ㄇ</rt></ruby> "dignity; sanctity"
+- <ruby>[[尊厳]]<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby> "dignity; sanctity"
 
 ## Derived Characters
 - <ruby>[[橄]]<rt>ㄍㄚㄇ</rt></ruby> "olive"

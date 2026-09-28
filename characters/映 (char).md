@@ -54,4 +54,4 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[映]]<rt>⼶ㄫ</rt></ruby> "reflect; project" (stand-in for 映)
-- <ruby>[[反映]]<rt>ㄈㄛㄋ⼶ㄫ</rt></ruby> "reflect; indicate"
+- <ruby>[[反映]]<rt>ㄈㄛㄋ·⼶ㄫ</rt></ruby> "reflect; indicate"

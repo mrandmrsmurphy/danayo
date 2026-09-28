@@ -54,4 +54,4 @@ date-last-perfect: 2026-08-14
 - <ruby>[[糞]]<rt>ㄈㄨㄇ</rt></ruby> "poop, shit" (stand-in for 糞)
 
 ## Chengyu
-- <ruby>[[朽木糞牆]]<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
+- <ruby>[[朽木糞牆]]<rt>ㄏ⼜·ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"

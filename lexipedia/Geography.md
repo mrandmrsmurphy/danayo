@@ -33,7 +33,7 @@ In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]]) and straits ([[../words/海峡]]) are common.  
 <ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
-Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝㄋㄚ</rt></ruby>.
+Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 
 - <ruby>[越南](words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>
 - <ruby>[泰国](words/泰国.md)<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
@@ -41,13 +41,13 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>
 - <ruby>[寮国](words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby>
-- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
-- <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
+- <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
+- <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧ·ㄚ</rt></ruby>  
 - <ruby>[[菲律賓]]<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
-<ruby>[南亜](/words/南亜.md)<rt>ㄋㄚㄇㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
+<ruby>[南亜](/words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
 <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜·ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby> developed early.  
@@ -55,7 +55,7 @@ These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
-- <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧㄊㄚㄋ</rt></ruby>
+- <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧ·ㄊㄚㄋ</rt></ruby>
 - <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
 - <ruby>[泥婆羅](/words/泥婆羅.md)<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby>  

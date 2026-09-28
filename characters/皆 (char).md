@@ -49,13 +49,13 @@ boundedness: 80
 ## Words
 - <ruby>[[皆]]<rt>ㄍ⼶</rt></ruby> "all; every" (stand-in for 皆)
 - <ruby>[[皆事]]<rt>ㄍ⼶ㄐㄧ</rt></ruby> "everything; every act; all matters"
-- <ruby>[[皆人]]<rt>ㄍ⼶ㄋㄧㄋ</rt></ruby> "everyone; all people"
+- <ruby>[[皆人]]<rt>ㄍ⼶·ㄋㄧㄋ</rt></ruby> "everyone; all people"
 - <ruby>[[皆処]]<rt>ㄍ⼶ㄑㄛ</rt></ruby> "everywhere; at all places"
-- <ruby>[[皆名]]<rt>ㄍ⼶ㄇㄧㄫ</rt></ruby> "everyone (polite); all distinguished persons"
+- <ruby>[[皆名]]<rt>ㄍ⼶·ㄇㄧㄫ</rt></ruby> "everyone (polite); all distinguished persons"
 - <ruby>[[皆多]]<rt>ㄍ⼶ㄉㄜ</rt></ruby> "the whole amount; all of it"
 - <ruby>[[皆時]]<rt>ㄍ⼶ㄙㄧ</rt></ruby> "always; at all times"
 - <ruby>[[皆様]]<rt>ㄍ⼶⼘ㄫ</rt></ruby> "in every way; in all respects"
-- <ruby>[[皆物]]<rt>ㄍ⼶ㄇㄨㄊ</rt></ruby> "everything; every object; all things"
+- <ruby>[[皆物]]<rt>ㄍ⼶·ㄇㄨㄊ</rt></ruby> "everything; every object; all things"
 - <ruby>[[皆類]]<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby> "every kind; every category"
 
 ## Chengyu

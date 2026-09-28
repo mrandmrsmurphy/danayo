@@ -54,7 +54,7 @@ boundedness:
 - <ruby>[[不満]]<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby> "be dissatisfied; be resentful; be lacking"
 - <ruby>[[肥満]]<rt>ㄅㄨㄧㄇㄚㄋ</rt></ruby> "obesity; obese"
 - <ruby>[[満月]]<rt>ㄇㄚㄋ⼔ㄊ</rt></ruby> "full month; month anniversary"
-- <ruby>[[満盈]]<rt>ㄇㄚㄋ⼶ㄫ</rt></ruby> "filled to capacity"
+- <ruby>[[満盈]]<rt>ㄇㄚㄋ·⼶ㄫ</rt></ruby> "filled to capacity"
 - <ruby>[[満洲]]<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> "Manchu"
 - <ruby>[[満族]]<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby> "Manchu ethnicity"
 

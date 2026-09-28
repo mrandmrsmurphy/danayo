@@ -58,13 +58,13 @@ boundedness: 90
 - <ruby>[[騎馬]]<rt>ㄍㄨㄧㄇㄚ</rt></ruby> "to ride a horse"
 - <ruby>[[乗馬]]<rt>ㄙㄨㄫㄇㄚ</rt></ruby> "horseback riding; to ride a horse"
 - <ruby>[[俊馬]]<rt>ㄐㄨㄋㄇㄚ</rt></ruby> "fine horse; spirited steed"
-- <ruby>[[河馬]]<rt>ㄏㄚㄇㄚ</rt></ruby> "hippopotamus"
+- <ruby>[[河馬]]<rt>ㄏㄚ·ㄇㄚ</rt></ruby> "hippopotamus"
 - <ruby>[[海馬]]<rt>ㄏㄚㄧㄇㄚ</rt></ruby> "seahorse"
-- <ruby>[[羅馬]]<rt>ㄌㄛㄇㄚ</rt></ruby> "Roman"
+- <ruby>[[羅馬]]<rt>ㄌㄛ·ㄇㄚ</rt></ruby> "Roman"
 - <ruby>[[馬厩]]<rt>ㄇㄚㄍ⼜</rt></ruby> "stable"
-- <ruby>[[馬𡿺]]<rt>ㄇㄚㄋㄚㄨ</rt></ruby> "agate"
-- <ruby>[[羅馬字]]<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> "Latin letters; Roman alphabet; romanization"
-- <ruby>[[羅馬語]]<rt>ㄌㄛㄇㄚ·⼄</rt></ruby> "Latin"
+- <ruby>[[馬𡿺]]<rt>ㄇㄚ·ㄋㄚㄨ</rt></ruby> "agate"
+- <ruby>[[羅馬字]]<rt>ㄌㄛ·ㄇㄚㄐㄧ</rt></ruby> "Latin letters; Roman alphabet; romanization"
+- <ruby>[[羅馬語]]<rt>ㄌㄛ·ㄇㄚ·⼄</rt></ruby> "Latin"
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧ·ㄚ</rt></ruby> "Malaysia"
 
 ## Derived Characters

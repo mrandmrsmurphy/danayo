@@ -34,7 +34,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 - <ruby>[腕](../words/腕.md)<rt>⺢ㄋ</rt></ruby>: arm.
 - <ruby>[脚](../words/脚.md)<rt>ㄍ⼘ㄎ</rt></ruby>: leg.
-- <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝㄊㄝㄧ</rt></ruby>, <ruby>[手足](../words/手足.md)<rt>ㄙ⼜ㄐㄛㄎ</rt></ruby>: limb.
+- <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝ·ㄊㄝㄧ</rt></ruby>, <ruby>[手足](../words/手足.md)<rt>ㄙ⼜ㄐㄛㄎ</rt></ruby>: limb.
 - <ruby>[肩](../words/肩.md)<rt>ㄍㄝㄋ</rt></ruby>: shoulder.
 - <ruby>[肘](../words/肘.md)<rt>ㄐㄨㄇ</rt></ruby>: elbow.
 - <ruby>[手掌](../words/手掌.md)<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>: palm.
@@ -43,7 +43,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[大指](../words/大指.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>, archaic <ruby>[母指](../words/母指.md)<rt>ㄇㄛㄨㄐㄧㄜ</rt></ruby>: thumb/big toe.
 - <ruby>[食指](../words/食指.md)<rt>ㄙㄧㄎㄐㄧㄜ</rt></ruby>: index finger/first toe.
 - <ruby>[中指](../words/中指.md)<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby>: middle finger/middle toe.
-- <ruby>[無名指](../words/無名指.md)<rt>ㄇㄜㄇㄧㄫㄐㄧㄜ</rt></ruby>: ring finger/fourth toe.
+- <ruby>[無名指](../words/無名指.md)<rt>ㄇㄜ·ㄇㄧㄫㄐㄧㄜ</rt></ruby>: ring finger/fourth toe.
 - <ruby>[小指](../words/小指.md)<rt>ㄙㄛㄐㄧㄜ</rt></ruby>: pinky/little finger/little toe.
 - <ruby>[指甲](../words/指甲.md)<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>: fingernail/toenail.
 - <ruby>[節](../words/節.md)<rt>ㄐㄝㄊ</rt></ruby>: joint (general).
@@ -84,7 +84,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
 - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚ·ㄚㄎ</rt></ruby>: jaw/chin.
-- <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨㄋㄛㄇ</rt></ruby>: beard/moustache — a single word spans both; Korean 수염, its everyday native gloss, does the same.
+- <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby>: beard/moustache — a single word spans both; Korean 수염, its everyday native gloss, does the same.
 - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>: bald.
 - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>: to shave.
 - <ruby>[睫毛](../words/睫毛.md)<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby>: eyelash.
@@ -99,7 +99,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 ### Reproductive & Excretory
 
-- <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨㄊㄛㄨ</rt></ruby>: nipple.
+- <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby>: nipple.
 - <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy.
 - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
 - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.
@@ -152,12 +152,12 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby>: egg.
 - <ruby>[卵白](../words/卵白.md)<rt>ㄌㄚㄋㄅㄚㄎ</rt></ruby>, <ruby>[蛋白](../words/蛋白.md)<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby>: egg white, albumen (also "protein" generally).
 - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby>: fur.
-- <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>: hide.
+- <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧ·ㄎㄧㄎ</rt></ruby>: hide.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: scale.
 - <ruby>[尾](../words/尾.md)<rt>ㄇㄨㄧ</rt></ruby>: tail.
 - <ruby>[羽翼](../words/羽翼.md)<rt>ㄨㄧㄎ</rt></ruby>: wing.
 - <ruby>[鳥嘴](../words/鳥嘴.md)<rt>ㄑㄛㄨㄑㄨㄧ</rt></ruby>: bill/beak.
-- <ruby>[羽毛](../words/羽毛.md)<rt>ㄨㄇㄚㄨ</rt></ruby>: feather.
+- <ruby>[羽毛](../words/羽毛.md)<rt>ㄨ·ㄇㄚㄨ</rt></ruby>: feather.
 - <ruby>[鰭](../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby>: fin.
 - <ruby>[蹄](../words/蹄.md)<rt>ㄉㄝㄧ</rt></ruby>: hoof.
 - <ruby>[角](../words/角.md)<rt>ㄍㄛㄎ</rt></ruby>: horn.

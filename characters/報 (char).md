@@ -51,7 +51,7 @@ boundedness: 90
 - <ruby>[[報]]<rt>ㄅㄚㄨ</rt></ruby> "to report; tell" (stand-in for 報)
 - <ruby>[[報酬]]<rt>ㄅㄚㄨㄙㄨㄛ</rt></ruby> "reward; remuneration"
 - <ruby>[[報答]]<rt>ㄅㄚㄨㄉㄚㄆ</rt></ruby> "to reward; requite"
-- <ruby>[[報応]]<rt>ㄅㄚㄨㄧㄫ</rt></ruby> "retribution; retributive justice; karma"
+- <ruby>[[報応]]<rt>ㄅㄚㄨ·ㄧㄫ</rt></ruby> "retribution; retributive justice; karma"
 - <ruby>[[報償]]<rt>ㄅㄚㄨㄙ⼘ㄫ</rt></ruby> "to compensate; pay reparations to"
 - <ruby>[[情報]]<rt>ㄑㄧㄫㄅㄚㄨ</rt></ruby> "information; intelligence"
 - <ruby>[[日報]]<rt>ㄋㄧㄊㄅㄚㄨ</rt></ruby> "daily newspaper"

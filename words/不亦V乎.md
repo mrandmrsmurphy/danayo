@@ -6,7 +6,7 @@ characters:
 羅馬字: "bod'yeg...ho"
 諺文: 볻역...호
 mandarin: "bùyì...hū"
-注音: ㄅㄛㄊㄜㄎㄏㄛ
+注音: ㄅㄛㄊ·ㄜㄎㄏㄛ
 english:
   - "<circumfix for rhetorical Qs>"
 pos: 修飾語

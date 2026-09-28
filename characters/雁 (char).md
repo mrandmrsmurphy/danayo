@@ -53,6 +53,6 @@ boundedness: 65
 ## Words
 - <ruby>[[雁]]<rt>ㄚㄋ</rt></ruby> "wild goose" (stand-in for 雁)
 ## Chengyu
-- <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"
+- <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ·⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"
 ## Derived Characters
 - <ruby>[[贋 (char)|贋]]<rt>ㄚㄋ</rt></ruby> "counterfeit"

@@ -53,12 +53,12 @@ boundedness: 80
 - <ruby>[[耳聾]]<rt>ㄋㄧㄌㄛㄫ</rt></ruby> "deaf"
 - <ruby>[[耳根]]<rt>ㄋㄧㄍㄜㄋ</rt></ruby> "root of the ear"
 - <ruby>[[耳朶]]<rt>ㄋㄧㄉㄚ</rt></ruby> "earlobe"
-- <ruby>[[耳目]]<rt>ㄋㄧㄇㄨㄎ</rt></ruby> "eyes and ear, snoops and spies"
+- <ruby>[[耳目]]<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby> "eyes and ear, snoops and spies"
 - <ruby>[[巻耳]]<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby> "field chickweed; field mouse-ear"
-- <ruby>[[日耳曼]]<rt>ㄋㄧㄊㄋㄧㄇㄚㄋ</rt></ruby> "Germanic"
+- <ruby>[[日耳曼]]<rt>ㄋㄧㄊㄋㄧ·ㄇㄚㄋ</rt></ruby> "Germanic"
 
 ## Chengyu
-- <ruby>[[愛主耳錐]]<rt>ㄚㄧㄐㄨㄋㄧㄐㄨㄧ</rt></ruby> "if you love your master, in your ear put the awl"
+- <ruby>[[愛主耳錐]]<rt>ㄚㄧㄐㄨ·ㄋㄧㄐㄨㄧ</rt></ruby> "if you love your master, in your ear put the awl"
 
 ## Derived Characters
 - <ruby>[[恥]]<rt>ㄑㄧ</rt></ruby> "shame; disgrace"

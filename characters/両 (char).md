@@ -64,4 +64,4 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
-- <ruby>[[魑魅罔両]]<rt>ㄑㄧㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "all the demons"
+- <ruby>[[魑魅罔両]]<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "all the demons"

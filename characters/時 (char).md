@@ -78,4 +78,4 @@ boundedness: 90
 - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby> "clock, watch, timepiece"
 
 ## Chengyu
-- <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎㄛ</rt></ruby> "anachronism"
+- <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> "anachronism"

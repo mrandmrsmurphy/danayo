@@ -42,7 +42,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - can <ruby>[可](../words/可.md)<rt>ㄎㄜ</rt></ruby>
 - cannot <ruby>[不可](../words/不可.md)<rt>ㄅㄛㄊㄎㄜ</rt></ruby>
 - may (permission) <ruby>[可以](../words/可以.md)<rt>ㄎㄜㄧ</rt></ruby>
-- might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
+- might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 - must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
 - ought, should, have to : <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
@@ -66,11 +66,11 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Pronoun
 - I : <ruby>[我](../words/我.md)<rt>ㄚ</rt></ruby>
 - thou : <ruby>[君](../words/君.md)<rt>ㄍㄨㄋ</rt></ruby>
-- he/she : <ruby>[其人](../words/其人.md)<rt>ㄍㄜㄋㄧㄋ</rt></ruby>
+- he/she : <ruby>[其人](../words/其人.md)<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby>
 - it: not yet coined — no dedicated inanimate third-person pronoun distinct from the demonstratives [[此]]/[[其]].
 - we : <ruby>[我等](../words/我等.md)<rt>ㄚㄉㄨㄫ</rt></ruby>
 - you : <ruby>[君等](../words/君等.md)<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby>
-- they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby>
+- they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄜ·ㄋㄧㄋㄉㄨㄫ</rt></ruby>
 - self : 
 	- grammatical reflexive: <ruby>[自己](../words/自己.md)<rt>ㄐㄧㄜㄍㄧ</rt></ruby>
 	- emphatic: <ruby>[自身](../words/自身.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>
@@ -92,12 +92,12 @@ Dan'a'yo builds a closed paradigm of correlatives by crossing a deictic/interrog
 
 | Base | 事 (matter) | 物 (thing) | 人 (person) | 名 (person, polite) | 処 (place) | 時 (time) | 様 (manner) | 多 (amount) | 類 (kind) |
 |---|---|---|---|---|---|---|---|---|---|
-| 此 this | <ruby>[此事](../words/此事.md)<rt>ㄑㄜㄐㄧ</rt></ruby> | <ruby>[此物](../words/此物.md)<rt>ㄑㄜㄇㄨㄊ</rt></ruby> | <ruby>[此人](../words/此人.md)<rt>ㄑㄜㄋㄧㄋ</rt></ruby> | <ruby>[此名](../words/此名.md)<rt>ㄑㄜㄇㄧㄫ</rt></ruby> | <ruby>[此処](../words/此処.md)<rt>ㄑㄜㄑㄛ</rt></ruby> | <ruby>[此時](../words/此時.md)<rt>ㄑㄜㄙㄧ</rt></ruby> | <ruby>[此様](../words/此様.md)<rt>ㄑㄜ⼘ㄫ</rt></ruby> | <ruby>[此多](../words/此多.md)<rt>ㄑㄜㄉㄜ</rt></ruby> | <ruby>[此類](../words/此類.md)<rt>ㄑㄜㄌㄨㄧ</rt></ruby> |
-| 其 that | <ruby>[其事](../words/其事.md)<rt>ㄍㄜㄐㄧ</rt></ruby> | <ruby>[其物](../words/其物.md)<rt>ㄍㄜㄇㄨㄊ</rt></ruby> | <ruby>[其人](../words/其人.md)<rt>ㄍㄜㄋㄧㄋ</rt></ruby> | <ruby>[其名](../words/其名.md)<rt>ㄍㄜㄇㄧㄫ</rt></ruby> | <ruby>[其処](../words/其処.md)<rt>ㄍㄜㄑㄛ</rt></ruby> | <ruby>[其時](../words/其時.md)<rt>ㄍㄜㄙㄧ</rt></ruby> | <ruby>[其様](../words/其様.md)<rt>ㄍㄜ⼘ㄫ</rt></ruby> | <ruby>[其多](../words/其多.md)<rt>ㄍㄜㄉㄜ</rt></ruby> | <ruby>[其類](../words/其類.md)<rt>ㄍㄜㄌㄨㄧ</rt></ruby> |
-| 彼 that (yonder) | <ruby>[彼事](../words/彼事.md)<rt>ㄅㄜㄐㄧ</rt></ruby> | <ruby>[彼物](../words/彼物.md)<rt>ㄅㄜㄇㄨㄊ</rt></ruby> | <ruby>[彼人](../words/彼人.md)<rt>ㄅㄜㄋㄧㄋ</rt></ruby> | <ruby>[彼名](../words/彼名.md)<rt>ㄅㄜㄇㄧㄫ</rt></ruby> | <ruby>[彼処](../words/彼処.md)<rt>ㄅㄜㄑㄛ</rt></ruby> | <ruby>[彼時](../words/彼時.md)<rt>ㄅㄜㄙㄧ</rt></ruby> | <ruby>[彼様](../words/彼様.md)<rt>ㄅㄜ⼘ㄫ</rt></ruby> | <ruby>[彼多](../words/彼多.md)<rt>ㄅㄜㄉㄜ</rt></ruby> | <ruby>[彼類](../words/彼類.md)<rt>ㄅㄜㄌㄨㄧ</rt></ruby> |
-| 何 what | <ruby>[何事](../words/何事.md)<rt>ㄏㄚㄐㄧ</rt></ruby> | <ruby>[何物](../words/何物.md)<rt>ㄏㄚㄇㄨㄊ</rt></ruby> | <ruby>[何人](../words/何人.md)<rt>ㄏㄚㄋㄧㄋ</rt></ruby> | <ruby>[何名](../words/何名.md)<rt>ㄏㄚㄇㄧㄫ</rt></ruby> | <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby> | <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby> | <ruby>[何様](../words/何様.md)<rt>ㄏㄚ⼘ㄫ</rt></ruby> | <ruby>[何多](../words/何多.md)<rt>ㄏㄚㄉㄜ</rt></ruby> | <ruby>[何類](../words/何類.md)<rt>ㄏㄚㄌㄨㄧ</rt></ruby> |
+| 此 this | <ruby>[此事](../words/此事.md)<rt>ㄑㄜㄐㄧ</rt></ruby> | <ruby>[此物](../words/此物.md)<rt>ㄑㄜ·ㄇㄨㄊ</rt></ruby> | <ruby>[此人](../words/此人.md)<rt>ㄑㄜ·ㄋㄧㄋ</rt></ruby> | <ruby>[此名](../words/此名.md)<rt>ㄑㄜ·ㄇㄧㄫ</rt></ruby> | <ruby>[此処](../words/此処.md)<rt>ㄑㄜㄑㄛ</rt></ruby> | <ruby>[此時](../words/此時.md)<rt>ㄑㄜㄙㄧ</rt></ruby> | <ruby>[此様](../words/此様.md)<rt>ㄑㄜ⼘ㄫ</rt></ruby> | <ruby>[此多](../words/此多.md)<rt>ㄑㄜㄉㄜ</rt></ruby> | <ruby>[此類](../words/此類.md)<rt>ㄑㄜㄌㄨㄧ</rt></ruby> |
+| 其 that | <ruby>[其事](../words/其事.md)<rt>ㄍㄜㄐㄧ</rt></ruby> | <ruby>[其物](../words/其物.md)<rt>ㄍㄜ·ㄇㄨㄊ</rt></ruby> | <ruby>[其人](../words/其人.md)<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby> | <ruby>[其名](../words/其名.md)<rt>ㄍㄜ·ㄇㄧㄫ</rt></ruby> | <ruby>[其処](../words/其処.md)<rt>ㄍㄜㄑㄛ</rt></ruby> | <ruby>[其時](../words/其時.md)<rt>ㄍㄜㄙㄧ</rt></ruby> | <ruby>[其様](../words/其様.md)<rt>ㄍㄜ⼘ㄫ</rt></ruby> | <ruby>[其多](../words/其多.md)<rt>ㄍㄜㄉㄜ</rt></ruby> | <ruby>[其類](../words/其類.md)<rt>ㄍㄜㄌㄨㄧ</rt></ruby> |
+| 彼 that (yonder) | <ruby>[彼事](../words/彼事.md)<rt>ㄅㄜㄐㄧ</rt></ruby> | <ruby>[彼物](../words/彼物.md)<rt>ㄅㄜ·ㄇㄨㄊ</rt></ruby> | <ruby>[彼人](../words/彼人.md)<rt>ㄅㄜ·ㄋㄧㄋ</rt></ruby> | <ruby>[彼名](../words/彼名.md)<rt>ㄅㄜ·ㄇㄧㄫ</rt></ruby> | <ruby>[彼処](../words/彼処.md)<rt>ㄅㄜㄑㄛ</rt></ruby> | <ruby>[彼時](../words/彼時.md)<rt>ㄅㄜㄙㄧ</rt></ruby> | <ruby>[彼様](../words/彼様.md)<rt>ㄅㄜ⼘ㄫ</rt></ruby> | <ruby>[彼多](../words/彼多.md)<rt>ㄅㄜㄉㄜ</rt></ruby> | <ruby>[彼類](../words/彼類.md)<rt>ㄅㄜㄌㄨㄧ</rt></ruby> |
+| 何 what | <ruby>[何事](../words/何事.md)<rt>ㄏㄚㄐㄧ</rt></ruby> | <ruby>[何物](../words/何物.md)<rt>ㄏㄚ·ㄇㄨㄊ</rt></ruby> | <ruby>[何人](../words/何人.md)<rt>ㄏㄚ·ㄋㄧㄋ</rt></ruby> | <ruby>[何名](../words/何名.md)<rt>ㄏㄚ·ㄇㄧㄫ</rt></ruby> | <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby> | <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby> | <ruby>[何様](../words/何様.md)<rt>ㄏㄚ⼘ㄫ</rt></ruby> | <ruby>[何多](../words/何多.md)<rt>ㄏㄚㄉㄜ</rt></ruby> | <ruby>[何類](../words/何類.md)<rt>ㄏㄚㄌㄨㄧ</rt></ruby> |
 | 毎 every | <ruby>[毎事](../words/毎事.md)<rt>ㄇㄛㄧㄐㄧ</rt></ruby> | <ruby>[毎物](../words/毎物.md)<rt>ㄇㄛㄧㄇㄨㄊ</rt></ruby> | <ruby>[毎人](../words/毎人.md)<rt>ㄇㄛㄧㄋㄧㄋ</rt></ruby> | <ruby>[毎名](../words/毎名.md)<rt>ㄇㄛㄧㄇㄧㄫ</rt></ruby> | <ruby>[毎処](../words/毎処.md)<rt>ㄇㄛㄧㄑㄛ</rt></ruby> | <ruby>[毎時](../words/毎時.md)<rt>ㄇㄛㄧㄙㄧ</rt></ruby> | <ruby>[毎様](../words/毎様.md)<rt>ㄇㄛㄧ⼘ㄫ</rt></ruby> | <ruby>[毎多](../words/毎多.md)<rt>ㄇㄛㄧㄉㄜ</rt></ruby> | <ruby>[毎類](../words/毎類.md)<rt>ㄇㄛㄧㄌㄨㄧ</rt></ruby> |
-| 皆 all | <ruby>[皆事](../words/皆事.md)<rt>ㄍ⼶ㄐㄧ</rt></ruby> | <ruby>[皆物](../words/皆物.md)<rt>ㄍ⼶ㄇㄨㄊ</rt></ruby> | <ruby>[皆人](../words/皆人.md)<rt>ㄍ⼶ㄋㄧㄋ</rt></ruby> | <ruby>[皆名](../words/皆名.md)<rt>ㄍ⼶ㄇㄧㄫ</rt></ruby> | <ruby>[皆処](../words/皆処.md)<rt>ㄍ⼶ㄑㄛ</rt></ruby> | <ruby>[皆時](../words/皆時.md)<rt>ㄍ⼶ㄙㄧ</rt></ruby> | <ruby>[皆様](../words/皆様.md)<rt>ㄍ⼶⼘ㄫ</rt></ruby> | <ruby>[皆多](../words/皆多.md)<rt>ㄍ⼶ㄉㄜ</rt></ruby> | <ruby>[皆類](../words/皆類.md)<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby> |
+| 皆 all | <ruby>[皆事](../words/皆事.md)<rt>ㄍ⼶ㄐㄧ</rt></ruby> | <ruby>[皆物](../words/皆物.md)<rt>ㄍ⼶·ㄇㄨㄊ</rt></ruby> | <ruby>[皆人](../words/皆人.md)<rt>ㄍ⼶·ㄋㄧㄋ</rt></ruby> | <ruby>[皆名](../words/皆名.md)<rt>ㄍ⼶·ㄇㄧㄫ</rt></ruby> | <ruby>[皆処](../words/皆処.md)<rt>ㄍ⼶ㄑㄛ</rt></ruby> | <ruby>[皆時](../words/皆時.md)<rt>ㄍ⼶ㄙㄧ</rt></ruby> | <ruby>[皆様](../words/皆様.md)<rt>ㄍ⼶⼘ㄫ</rt></ruby> | <ruby>[皆多](../words/皆多.md)<rt>ㄍ⼶ㄉㄜ</rt></ruby> | <ruby>[皆類](../words/皆類.md)<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby> |
 | 某 a certain | <ruby>[某事](../words/某事.md)<rt>ㄇㄛㄨㄐㄧ</rt></ruby> | <ruby>[某物](../words/某物.md)<rt>ㄇㄛㄨㄇㄨㄊ</rt></ruby> | <ruby>[某人](../words/某人.md)<rt>ㄇㄛㄨㄋㄧㄋ</rt></ruby> | <ruby>[某名](../words/某名.md)<rt>ㄇㄛㄨㄇㄧㄫ</rt></ruby> | <ruby>[某処](../words/某処.md)<rt>ㄇㄛㄨㄑㄛ</rt></ruby> | <ruby>[某時](../words/某時.md)<rt>ㄇㄛㄨㄙㄧ</rt></ruby> | <ruby>[某様](../words/某様.md)<rt>ㄇㄛㄨ⼘ㄫ</rt></ruby> | <ruby>[某多](../words/某多.md)<rt>ㄇㄛㄨㄉㄜ</rt></ruby> | <ruby>[某類](../words/某類.md)<rt>ㄇㄛㄨㄌㄨㄧ</rt></ruby> |
 
 ## Case System
@@ -135,7 +135,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
-- <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
+- <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
 - <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
@@ -161,11 +161,11 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
 	- <ruby>[文字](../words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> = writing system
-	- <ruby>[字母](../words/字母.md)<rt>ㄐㄧㄇㄛㄨ</rt></ruby> = letter, grapheme
+	- <ruby>[字母](../words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> = letter, grapheme
 - dictionary <ruby>[字典](../words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>
 
 ## Writing System & Characters
-- <ruby>[書契](../words/書契.md)<rt>ㄙ⼄ㄎㄝㄧ</rt></ruby> "writing system, written records, the invention of writing"
+- <ruby>[書契](../words/書契.md)<rt>ㄙ⼄·ㄎㄝㄧ</rt></ruby> "writing system, written records, the invention of writing"
 - <ruby>[漢字](../words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> "Chinese character"
 - <ruby>[漢文](../words/漢文.md)<rt>ㄏㄚㄋㄇㄨㄋ</rt></ruby> "Chinese literature, anything written in Chinese"
 - <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby> "Chinese language(s), Sino-Japanese vocabulary"
@@ -173,15 +173,15 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[繁体字](../words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "traditional Chinese characters"
 - <ruby>[簡体字](../words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "simplified Chinese characters"
 - <ruby>[篆書](../words/篆書.md)<rt>ㄐ⼔ㄋㄙ⼄</rt></ruby> "seal script"
-- <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
+- <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
 - <ruby>[字](../words/字.md)<rt>ㄐㄧ</rt></ruby> "character"
 - <ruby>[単字](../words/単字.md)<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character, single-character word"
-- <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ⼄</rt></ruby> "word, vocabulary item"
+- <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby> "word, vocabulary item"
 - <ruby>[字形](../words/字形.md)<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph, character shape, graphic form"
 - <ruby>[字源](../words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
-- <ruby>[字庫](../words/字庫.md)<rt>ㄐㄧㄎㄛ</rt></ruby> "font library, character/glyph repository"
+- <ruby>[字庫](../words/字庫.md)<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library, character/glyph repository"
 - <ruby>[識字](../words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> "literacy, know how to read"
 - <ruby>[拼音](../words/拼音.md)<rt>ㄅㄚㄫ·ㄨㄇ</rt></ruby> "pinyin, phonetic spelling"
 - <ruby>[注音](../words/注音.md)<rt>ㄐㄨ·ㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
@@ -211,7 +211,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[子音](../words/子音.md)<rt>ㄐㄜㄨㄇ</rt></ruby> "consonant"
 - <ruby>[音節](../words/音節.md)<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"
 - <ruby>[清音](../words/清音.md)<rt>ㄑㄧㄫㄨㄇ</rt></ruby> "unvoiced sound"
-- <ruby>[濁音](../words/濁音.md)<rt>ㄉㄚㄎㄨㄇ</rt></ruby> "voiced sound"
+- <ruby>[濁音](../words/濁音.md)<rt>ㄉㄚㄎ·ㄨㄇ</rt></ruby> "voiced sound"
 - <ruby>[正音](../words/正音.md)<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation, standard pronunciation"
 - <ruby>[発声](../words/発声.md)<rt>ㄈㄚㄊㄙㄧㄫ</rt></ruby> "vocalization; utterance; phonation"
 - <ruby>[振動音](../words/振動音.md)<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill, trill consonant"
@@ -231,7 +231,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[四字成語](../words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> "four-character fixed expression, four-character idiom"
 - <ruby>[成語](../words/成語.md)<rt>ㄙㄧㄫ⼄</rt></ruby> "chengyu, four-character sayings"
 - <ruby>[熟語](../words/熟語.md)<rt>ㄙㄨㄎ·⼄</rt></ruby> "idiom"
-- <ruby>[慣用句](../words/慣用句.md)<rt>ㄍ⺢ㄋ⼄ㄫㄍㄨ</rt></ruby> "idiom, idiomatic phrase, set expression"
+- <ruby>[慣用句](../words/慣用句.md)<rt>ㄍ⺢ㄋ·⼄ㄫㄍㄨ</rt></ruby> "idiom, idiomatic phrase, set expression"
 - <ruby>[名称](../words/名称.md)<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby> "appellation, name, title"
 - <ruby>[句](../words/句.md)<rt>ㄍㄨ</rt></ruby> "phrase, sentence, stanza, paragraph, clause, pericope"
 - <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"

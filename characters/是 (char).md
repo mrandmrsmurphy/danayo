@@ -47,10 +47,10 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[是日]]<rt>ㄙㄝㄋㄧㄊ</rt></ruby> "same day"
+- <ruby>[[是日]]<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> "same day"
 
 ## Chengyu
-- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
 
 ## Derived Characters

@@ -51,7 +51,7 @@ date-last-perfect: 2026-08-01
 ## Words
 - <ruby>[[胃]]<rt>ㄨㄧ</rt></ruby> "stomach, gizzard" (stand-in for 胃)
 - <ruby>[[胃癌]]<rt>ㄨㄧㄚㄇ</rt></ruby> "stomach cancer"
-- <ruby>[[胃痛]]<rt>ㄨㄧㄊㄛㄫ</rt></ruby> "stomachache, epigastric pain"
+- <ruby>[[胃痛]]<rt>ㄨㄧ·ㄊㄛㄫ</rt></ruby> "stomachache, epigastric pain"
 - <ruby>[[胃酸]]<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby> "stomach acid, gastric acid"
 - <ruby>[[胃炎]]<rt>ㄨㄧㄝㄇ</rt></ruby> "gastritis"
 

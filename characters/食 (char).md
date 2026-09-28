@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[飲食]]<rt>ㄨㄇㄙㄧㄎ</rt></ruby> "eat and drink"
 - <ruby>[[食堂]]<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby> "restaurant"
 - <ruby>[[飲食物]]<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby> "foods and drinks"
-- <ruby>[[食欲]]<rt>ㄙㄧㄎ⼄ㄎ</rt></ruby> "appetite"
+- <ruby>[[食欲]]<rt>ㄙㄧㄎ·⼄ㄎ</rt></ruby> "appetite"
 - <ruby>[[食指]]<rt>ㄙㄧㄎㄐㄧㄜ</rt></ruby> "index finger, first toe"
 - <ruby>[[食費]]<rt>ㄙㄧㄎㄈㄚㄧ</rt></ruby> "food expenses"
 - <ruby>[[膳食]]<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby> "meal, diet, food"

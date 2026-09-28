@@ -59,4 +59,4 @@ boundedness: 75
 - <ruby>[閏年](../words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> "leap year"
 - <ruby>[[閏日]]<rt>ㄋㄨㄋ·ㄋㄧㄊ</rt></ruby> "leap day"
 - <ruby>[[閏秒]]<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> "leap second"
-- <ruby>[[置閏]]<rt>ㄑㄧㄋㄨㄋ</rt></ruby> "intercalation"
+- <ruby>[[置閏]]<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> "intercalation"

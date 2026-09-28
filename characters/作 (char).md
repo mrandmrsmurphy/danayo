@@ -54,11 +54,11 @@ boundedness: 80
 - <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby> "work; be employed"
 - <ruby>[[操作]]<rt>ㄑㄚㄨㄐㄚㄎ</rt></ruby> "to operate; to manipulate; to carry out"
 - <ruby>[[詩作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "poem; to compose poetry"
-- <ruby>[[作用]]<rt>ㄐㄚㄎ⼄ㄫ</rt></ruby> "act upon, affect"
+- <ruby>[[作用]]<rt>ㄐㄚㄎ·⼄ㄫ</rt></ruby> "act upon, affect"
 - <ruby>[[製作]]<rt>ㄐㄝㄐㄚㄎ</rt></ruby> "make, manufacture"
 - <ruby>[[傑作]]<rt>ㄍㄝㄊㄐㄚㄎ</rt></ruby> "masterpiece"
 - <ruby>[[始作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "begin, start"
-- <ruby>[[作業]]<rt>ㄐㄚㄎㄝㄆ</rt></ruby> "work, operate"
+- <ruby>[[作業]]<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby> "work, operate"
 
 ## Chengyu
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄉㄝㄫ</rt></ruby> "Six work, one rest"

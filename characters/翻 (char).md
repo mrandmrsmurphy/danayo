@@ -55,5 +55,5 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip" (stand-in for 翻)
-- <ruby>[[翻訳]]<rt>ㄈㄛㄋ⼶ㄎ</rt></ruby> "translate"
+- <ruby>[[翻訳]]<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby> "translate"
 - <ruby>[[翻身]]<rt>ㄈㄛㄋㄙㄧㄋ</rt></ruby> "emancipate"

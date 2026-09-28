@@ -50,11 +50,11 @@ date-last-perfect: 2026-07-17
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[即]]<rt>ㄐㄜㄎ</rt></ruby> "namely; in other words" (stand-in for 即)
-- <ruby>[[即位]]<rt>ㄐㄜㄎ⼔ㄧ</rt></ruby> "to ascend the throne"
+- <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
 - <ruby>[[即日]]<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> "same day"
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
-- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> "volatile; touch-and-go"
 ## Derived Characters
 - <ruby>[[節 (char)|節]]<rt>ㄐㄝㄊ</rt></ruby> "node"

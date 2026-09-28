@@ -51,7 +51,7 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[置]]<rt>ㄑㄧ</rt></ruby> "put, place" (stand-in for 置)
-- <ruby>[[置閏]]<rt>ㄑㄧㄋㄨㄋ</rt></ruby> "intercalation; to install a leap period"
+- <ruby>[[置閏]]<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> "intercalation; to install a leap period"
 - <ruby>[[置換]]<rt>ㄑㄧㄏ⺢ㄇ</rt></ruby> "permute, substitute, displace"
 - <ruby>[[配置]]<rt>ㄆㄛㄧㄑㄧ</rt></ruby> "deploy, allocate"
 - <ruby>[[装置]]<rt>ㄐ⺢ㄫㄑㄧ</rt></ruby> "equipment, device"

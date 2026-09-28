@@ -18,7 +18,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 
 - <ruby>[人](../words/人.md)<rt>ㄋㄧㄋ</rt></ruby>: person.
 - <ruby>[男人](../words/男人.md)<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby>: man.
-- <ruby>[女人](../words/女人.md)<rt>ㄋㄜㄋㄧㄋ</rt></ruby>: woman.
+- <ruby>[女人](../words/女人.md)<rt>ㄋㄜ·ㄋㄧㄋ</rt></ruby>: woman.
 - <ruby>[男性](../words/男性.md)<rt>ㄋㄚㄇㄙㄧㄫ</rt></ruby>: male — the abstract-quality/formal register ("the nature of being a man"), alongside the concrete noun [[男人]] above.
 - <ruby>[女性](../words/女性.md)<rt>ㄋㄜㄙㄧㄫ</rt></ruby>: female — the same abstract-quality register, alongside [[女人]] above.
 - <ruby>[大人](../words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby>: adult, grown-up.
@@ -26,7 +26,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[妻](../words/妻.md)<rt>ㄑㄝㄧ</rt></ruby>: wife.
 - <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: a married couple.
 - <ruby>[配偶](../words/配偶.md)<rt>ㄆㄛㄧㄛㄨ</rt></ruby>: spouse.
-- <ruby>[夫人](../words/夫人.md)<rt>ㄈㄜㄋㄧㄋ</rt></ruby>: madam, lady — a formal, respectful address term for a wife.
+- <ruby>[夫人](../words/夫人.md)<rt>ㄈㄜ·ㄋㄧㄋ</rt></ruby>: madam, lady — a formal, respectful address term for a wife.
 - <ruby>[兄](../words/兄.md)<rt>ㄏ⼄ㄫ</rt></ruby>: older brother — the biological/literal term, a direct sibling only. Has no reduplicated form of its own; see [[哥哥]] for the intimate register.
 - <ruby>[哥哥](../words/哥哥.md)<rt>ㄍㄜㄍㄜ</rt></ruby>: "bro" — a fictive elder-brother figure (a non-relative addressed warmly), or a real older male relative of the same generation (a cousin, most concretely). Not a reduplication of [[兄]] — an etymologically separate root that only ever surfaces reduplicated, and which also supplies the intimate address register for one's own actual older brother in the absence of a true 兄-based form; see Semantic Range Notes.
 - <ruby>[弟](../words/弟.md)<rt>ㄉㄝ</rt></ruby>: younger brother.
@@ -36,8 +36,8 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[細妹](../words/細妹.md)<rt>ㄙㄝㄧㄇㄛㄧ</rt></ruby>: younger sister — the plain, ordinary word.
 - <ruby>[妹妹](../words/妹妹.md)<rt>ㄇㄛㄧㄇㄛㄧ</rt></ruby>: younger sister — the true reduplicated, intimate address form of [[細妹]] above, the same reduplication pattern as [[弟]]/[[弟弟]] and [[姉]]/[[姉姉]] (unlike [[兄]]/[[哥哥]], which are separate roots, not a reduplication pair).
 - <ruby>[兄弟](../words/兄弟.md)<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby>: brothers, brotherhood — Dan'a'yo's closest equivalent to an unmarked collective "brothers."
-- <ruby>[姉妹](../words/姉妹.md)<rt>ㄐㄚㄇㄛㄧ</rt></ruby>: sisters, collectively.
-- <ruby>[兄弟姉妹](../words/兄弟姉妹.md)<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby>: siblings — spelling out all four sibling roles at once, rather than choosing a gendered collective.
+- <ruby>[姉妹](../words/姉妹.md)<rt>ㄐㄚ·ㄇㄛㄧ</rt></ruby>: sisters, collectively.
+- <ruby>[兄弟姉妹](../words/兄弟姉妹.md)<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby>: siblings — spelling out all four sibling roles at once, rather than choosing a gendered collective.
 - <ruby>[兄嫂](../words/兄嫂.md)<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby>: sister-in-law — an older brother's wife specifically; an in-law at ego's own generational level.
 
 ### Cousins
@@ -49,7 +49,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[従兄弟](../words/従兄弟.md)<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby>: male cousin(s); "cousin" generic (male).
 - <ruby>[従姉](../words/従姉.md)<rt>ㄐㄛㄫㄐㄚ</rt></ruby>: older female cousin.
 - <ruby>[従妹](../words/従妹.md)<rt>ㄐㄛㄫㄇㄛㄧ</rt></ruby>: younger female cousin.
-- <ruby>[従姉妹](../words/従姉妹.md)<rt>ㄐㄛㄫㄐㄚㄇㄛㄧ</rt></ruby>: female cousin(s); "cousin" generic (female).
+- <ruby>[従姉妹](../words/従姉妹.md)<rt>ㄐㄛㄫㄐㄚ·ㄇㄛㄧ</rt></ruby>: female cousin(s); "cousin" generic (female).
 
 "Fellow" is covered by [[伴侶]] on the People tier below, rather than by stretching [[哥哥]]'s fictive-kinship sense to fit — that would have overreached what 哥哥 is actually for. "Cousin" is resolved as of the coinages above — six real, unambiguous words covering older/younger and male/female, plus two generic collectives, closing what was a genuine gap through most of this page's history. [[哥哥]] and [[姉]] keep their own looser, context-disambiguated "older cousin" senses (see Semantic Range Notes) alongside these new, precise words rather than being superseded by them.
 
@@ -60,8 +60,8 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[父親](../words/父親.md)<rt>ㄅㄨㄑㄧㄋ</rt></ruby>: father.
 - <ruby>[父父](../words/父父.md)<rt>ㄅㄨㄅㄨ</rt></ruby>: daddy — the reduplicated address form of [[父親]], the direct male counterpart of [[媽媽]] below.
 - <ruby>[母親](../words/母親.md)<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>: mother.
-- <ruby>[媽媽](../words/媽媽.md)<rt>ㄇㄚㄇㄚ</rt></ruby>: mom, mama — the reduplicated address form of [[母親]].
-- <ruby>[父母](../words/父母.md)<rt>ㄅㄨㄇㄛㄨ</rt></ruby>: parents — literally "father and mother."
+- <ruby>[媽媽](../words/媽媽.md)<rt>ㄇㄚ·ㄇㄚ</rt></ruby>: mom, mama — the reduplicated address form of [[母親]].
+- <ruby>[父母](../words/父母.md)<rt>ㄅㄨ·ㄇㄛㄨ</rt></ruby>: parents — literally "father and mother."
 - <ruby>[両親](../words/両親.md)<rt>ㄌ⼘ㄫㄑㄧㄋ</rt></ruby>: parents — near-synonymous with [[父母]], but a shade more formal/impersonal, more likely used of *someone else's* parents than one's own; see Semantic Range Notes.
 - <ruby>[伯伯](../words/伯伯.md)<rt>ㄅㄚㄎㄅㄚㄎ</rt></ruby>: uncle — father's older brother, colloquial register.
 - <ruby>[伯父](../words/伯父.md)<rt>ㄅㄚㄎㄅㄨ</rt></ruby>: uncle — father's older brother, the more formal counterpart of [[伯伯]].
@@ -69,7 +69,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[叔叔](../words/叔叔.md)<rt>ㄙㄨㄎㄙㄨㄎ</rt></ruby>: uncle — the everyday colloquial reduplicated form of [[叔父]], also used loosely for any friendly adult man of that generation.
 - <ruby>[伯母](../words/伯母.md)<rt>ㄅㄚㄎㄇㄛㄨ</rt></ruby>: aunt — paired with [[伯伯]]/[[伯父]] (father's older brother's wife).
 - <ruby>[叔母](../words/叔母.md)<rt>ㄙㄨㄎㄇㄛㄨ</rt></ruby>: aunt — paired with [[叔父]].
-- <ruby>[姑母](../words/姑母.md)<rt>ㄍㄛㄇㄛㄨ</rt></ruby>: paternal aunt — father's sister, as distinct from an uncle's wife.
+- <ruby>[姑母](../words/姑母.md)<rt>ㄍㄛ·ㄇㄛㄨ</rt></ruby>: paternal aunt — father's sister, as distinct from an uncle's wife.
 - <ruby>[姑丈](../words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby>: paternal aunt's husband — father's sister's husband specifically, paired with [[姑母]].
 - <ruby>[姨母](../words/姨母.md)<rt>ㄧㄜㄇㄛㄨ</rt></ruby>: maternal aunt — mother's sister or mother's brother's wife.
 - <ruby>[丈人](../words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby>: father-in-law — wife's father; an in-law at this generational level.
@@ -81,10 +81,10 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 
 - <ruby>[祖父](../words/祖父.md)<rt>ㄐㄜㄅㄨ</rt></ruby>: paternal grandfather — corrected 2026-09-21; the `english` gloss had been left generic despite the word's own Notes and Vietnamese field already treating it as paternal-specific, contrasted with [[外祖父]] below.
 - <ruby>[老爺](../words/老爺.md)<rt>ㄌㄚㄨ⼘</rt></ruby>: grandfather, or a respectful term for a master/elder — unlike [[祖父]], not documented as paternal-specific in its own Notes; not to be confused with the unrelated, un-coined 姥爺 (built on 姥, the same root as [[姥姥]]), which in real Mandarin is the actual colloquial term for a *maternal* grandfather.
-- <ruby>[祖母](../words/祖母.md)<rt>ㄐㄜㄇㄛㄨ</rt></ruby>: paternal grandmother.
+- <ruby>[祖母](../words/祖母.md)<rt>ㄐㄜ·ㄇㄛㄨ</rt></ruby>: paternal grandmother.
 - <ruby>[外祖父](../words/外祖父.md)<rt>⺢ㄧㄐㄜㄅㄨ</rt></ruby>: maternal grandfather.
-- <ruby>[外祖母](../words/外祖母.md)<rt>⺢ㄧㄐㄜㄇㄛㄨ</rt></ruby>: maternal grandmother.
-- <ruby>[姥姥](../words/姥姥.md)<rt>ㄇㄛㄇㄛ</rt></ruby>: grammy — a reduplicated, colloquial term for [[外祖母]].
+- <ruby>[外祖母](../words/外祖母.md)<rt>⺢ㄧㄐㄜ·ㄇㄛㄨ</rt></ruby>: maternal grandmother.
+- <ruby>[姥姥](../words/姥姥.md)<rt>ㄇㄛ·ㄇㄛ</rt></ruby>: grammy — a reduplicated, colloquial term for [[外祖母]].
 - <ruby>[婆婆](../words/婆婆.md)<rt>ㄅㄚㄅㄚ</rt></ruby>: grammy, paternal grandmother — also, in modern standard usage, more commonly "mother-in-law" (a husband's mother); see Semantic Range Notes.
 
 ### Beyond: Ancestors (+3 and up)
@@ -125,10 +125,10 @@ Resolved 2026-09-21: "nephew via a brother" was a documented gap through most of
 Vocabulary here describes a relationship or role rather than a fixed rung on the generational ladder.
 
 - <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry.
-- <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s more everyday sense.
+- <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s more everyday sense.
 - <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage.
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
-- <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
+- <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
 - <ruby>[新婦](../words/新婦.md)<rt>ㄙㄧㄋㄅ⼜</rt></ruby>: bride — the direct female counterpart of [[婿]] on the wedding side, standard wedding vocabulary (新郎新婦, "the bride and groom").
 - <ruby>[出奔](../words/出奔.md)<rt>ㄑㄨㄊㄅㄛㄋ</rt></ruby>: to elope, to flee, to run away.
@@ -142,7 +142,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[養育](../words/養育.md)<rt>⼘ㄫ⼜ㄎ</rt></ruby>: to foster, to raise (a child).
 - <ruby>[孤児院](../words/孤児院.md)<rt>ㄍㄛㄝㄧ⼔ㄋ</rt></ruby>: an orphanage.
 - <ruby>[主婦](../words/主婦.md)<rt>ㄐㄨㄅ⼜</rt></ruby>: a housewife — literally "the main woman [of the household]."
-- <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧㄋㄜ</rt></ruby>: a servant girl, a maidservant.
+- <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, a maidservant.
 - <ruby>[孝道](../words/孝道.md)<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby>: filial piety, filial duty.
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.

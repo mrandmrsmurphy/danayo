@@ -78,11 +78,11 @@ boundedness: 75
 - <ruby>[[二十二日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twenty-second day of the month"
 - <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
 - <ruby>[[二十四日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "twenty-fourth day of the month"
-- <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
+- <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛ·ㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
 - <ruby>[[二十六日]]<rt>ㄋㄧㄜㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby> "twenty-sixth day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
-- <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
+- <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
 
 ## Chengyu

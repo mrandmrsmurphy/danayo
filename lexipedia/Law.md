@@ -19,10 +19,10 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[罪](../words/罪.md)<rt>ㄐㄛㄧ</rt></ruby>: sin, crime.
 - <ruby>[犯罪](../words/犯罪.md)<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby>: crime.
 - <ruby>[警察](../words/警察.md)<rt>ㄍ⼶ㄫㄑㄚㄊ</rt></ruby>: police.
-- <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ⼄ㄎ</rt></ruby>: prison, jail (also <ruby>[牢獄](../words/牢獄.md)<rt>ㄌㄚㄨ⼄ㄎ</rt></ruby>, an independently attested synonym).
+- <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby>: prison, jail (also <ruby>[牢獄](../words/牢獄.md)<rt>ㄌㄚㄨ⼄ㄎ</rt></ruby>, an independently attested synonym).
 - <ruby>[規定](../words/規定.md)<rt>ㄍㄨㄧㄐㄝㄫ</rt></ruby>: a rule, regulation, provision.
 - <ruby>[循](../words/循.md)<rt>ㄙ⼜ㄋ</rt></ruby>: to obey, abide by.
-- <ruby>[権威](../words/権威.md)<rt>ㄍ⼔ㄋㄛㄧ</rt></ruby>: authority.
+- <ruby>[権威](../words/権威.md)<rt>ㄍ⼔ㄋ·ㄛㄧ</rt></ruby>: authority.
 - <ruby>[公平](../words/公平.md)<rt>ㄍㄛㄫㄅ⼶ㄫ</rt></ruby>: fair, impartial.
 
 ## Intermediate (B1–B2)
@@ -53,7 +53,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[海賊](../words/海賊.md)<rt>ㄏㄚㄧㄐㄨㄎ</rt></ruby>: pirate.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: harm, injury, assault.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract.
-- <ruby>[許可](../words/許可.md)<rt>ㄏ⼄ㄎㄜ</rt></ruby>: license, permission, authorization.
+- <ruby>[許可](../words/許可.md)<rt>ㄏ⼄·ㄎㄜ</rt></ruby>: license, permission, authorization.
 - <ruby>[召喚状](../words/召喚状.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: summons, subpoena (also <ruby>[召喚](../words/召喚.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋ</rt></ruby>, "to summon," the verb).
 
 ### Punishment
@@ -81,10 +81,10 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who does what to whom — see Semantic Range Notes for the full writeup.
 
-- <ruby>[流亡](../words/流亡.md)<rt>ㄌ⼜ㄇㄚㄫ</rt></ruby>: to be exiled, to flee into exile — the general verb.
+- <ruby>[流亡](../words/流亡.md)<rt>ㄌ⼜·ㄇㄚㄫ</rt></ruby>: to be exiled, to flee into exile — the general verb.
 - <ruby>[亡命](../words/亡命.md)<rt>ㄇㄚㄫㄇ⼶ㄫ</rt></ruby>: to be forced into exile, to defect.
 - <ruby>[放逐](../words/放逐.md)<rt>ㄈㄚㄫㄉㄨㄎ</rt></ruby>: to send someone into exile, to banish — the transitive act.
-- <ruby>[流亡者](../words/流亡者.md)<rt>ㄌ⼜ㄇㄚㄫㄑㄚ</rt></ruby> / <ruby>[亡命者](../words/亡命者.md)<rt>ㄇㄚㄫㄇ⼶ㄫㄑㄚ</rt></ruby>: an exile, the person — the agentive -者 forms of the first two verbs above.
+- <ruby>[流亡者](../words/流亡者.md)<rt>ㄌ⼜·ㄇㄚㄫㄑㄚ</rt></ruby> / <ruby>[亡命者](../words/亡命者.md)<rt>ㄇㄚㄫㄇ⼶ㄫㄑㄚ</rt></ruby>: an exile, the person — the agentive -者 forms of the first two verbs above.
 
 ### Abstract & Technical
 

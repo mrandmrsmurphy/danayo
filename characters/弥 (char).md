@@ -52,7 +52,7 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[弥]]<rt>ㄇㄝ</rt></ruby> "all the more, increasingly" (stand-in for 弥)
-- <ruby>[[弥漫]]<rt>ㄇㄝㄇㄚㄋ</rt></ruby> "pervade, fill"
+- <ruby>[[弥漫]]<rt>ㄇㄝ·ㄇㄚㄋ</rt></ruby> "pervade, fill"
 - <ruby>[[弥勒]]<rt>ㄇㄝㄌㄨㄎ</rt></ruby> "Maitreya"
 
 ## Derived Characters

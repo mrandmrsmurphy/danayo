@@ -44,8 +44,8 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 
 Classical Sinitic culture organizes domesticated animals around a fixed traditional set rather than an open-ended "farm animal" category: horse, ox, sheep, chicken, dog, and pig. Dan'a'yo has a real word for all six: [[馬]], [[牛]], [[鶏]], [[犬]], [[豚]] above, plus:
 
-- <ruby>[綿羊](../words/綿羊.md)<rt>ㄇ⼶ㄋ⼘ㄫ</rt></ruby>: sheep — literally "wool-sheep," the stand-in compound that legitimizes the bound character 羊.
-- <ruby>[山羊](../words/山羊.md)<rt>ㄙㄚㄋ⼘ㄫ</rt></ruby>: goat — literally "mountain-sheep/goat"; 羊 itself is ambiguous between "sheep" and "goat," resolved by the 綿-/山- prefix in each compound (see Semantic Range Notes for a striking Korean/Vietnamese false-friend trap hiding in this word).
+- <ruby>[綿羊](../words/綿羊.md)<rt>ㄇ⼶ㄋ·⼘ㄫ</rt></ruby>: sheep — literally "wool-sheep," the stand-in compound that legitimizes the bound character 羊.
+- <ruby>[山羊](../words/山羊.md)<rt>ㄙㄚㄋ·⼘ㄫ</rt></ruby>: goat — literally "mountain-sheep/goat"; 羊 itself is ambiguous between "sheep" and "goat," resolved by the 綿-/山- prefix in each compound (see Semantic Range Notes for a striking Korean/Vietnamese false-friend trap hiding in this word).
 
 ### Fowl
 
@@ -64,7 +64,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
 - <ruby>[企鵝](../words/企鵝.md)<rt>ㄎㄝㄚ</rt></ruby>: penguin.
-- <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋㄛㄫ</rt></ruby>: albatross.
+- <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋ·ㄛㄫ</rt></ruby>: albatross.
 - <ruby>[啄木鳥](../words/啄木鳥.md)<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby>: woodpecker.
 - <ruby>[斑鳩](../words/斑鳩.md)<rt>ㄅㄚㄋㄎ⼜</rt></ruby>: turtledove.
 - <ruby>[燕子](../words/燕子.md)<rt>ㄝㄋㄐㄜ</rt></ruby>: swallow — a culturally loaded bird across the Sinosphere (spring, homecoming, conjugal fidelity); secondarily used regionally for a badminton shuttlecock.
@@ -104,7 +104,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ·⼄</rt></ruby>: sea bream.
-- <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ⼄</rt></ruby>: skipjack tuna, bonito.
+- <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
@@ -114,7 +114,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[虎](../words/虎.md)<rt>ㄏㄛ</rt></ruby>: tiger.
 - <ruby>[獅子](../words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>: lion — also carries a secondary "bodhisattva" sense in this vault's own data (the lion is a recurring Buddhist iconographic symbol, e.g. 獅子吼 "lion's roar" for the Buddha's teaching), and shares an alias, 僧伽羅, with [[獅子国]] ("lion country," Sri Lanka).
 - <ruby>[熊](../words/熊.md)<rt>ㄨㄫ</rt></ruby>: bear.
-- <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
+- <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎ·ㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.
 - <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ·⼘ㄫ</rt></ruby>: antelope.
@@ -137,7 +137,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 ### Livestock, Working Animals & Animal Products
 
-- <ruby>[家禽](../words/家禽.md)<rt>ㄍㄚㄎㄧㄇ</rt></ruby>: domestic fowl, poultry.
+- <ruby>[家禽](../words/家禽.md)<rt>ㄍㄚ·ㄎㄧㄇ</rt></ruby>: domestic fowl, poultry.
 - <ruby>[厩肥](../words/厩肥.md)<rt>ㄍ⼜ㄅㄨㄧ</rt></ruby>: stable manure, animal manure, farmyard manure.
 - <ruby>[肥育](../words/肥育.md)<rt>ㄅㄨㄧ·⼜ㄎ</rt></ruby>: to fatten livestock.
 - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby> / <ruby>[毛皮](../words/毛皮.md)<rt>ㄇㄚㄨㄅㄧ</rt></ruby>: fur, pelt.
@@ -166,23 +166,23 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 - <ruby>[龍](../words/龍.md)<rt>ㄌ⼄ㄫ</rt></ruby>: dragon — the auspicious East Asian dragon, associated with rivers, rain, and imperial authority; a wholly different cultural figure from the Western fire-breathing monster despite the shared English gloss. Appears throughout classical idiom, e.g. 画龍点睛 ("dot the dragon's eye," the finishing touch that brings a work to life) and 臥虎蔵龍 ("crouching tiger, hidden dragon," concealed mastery).
 - <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ·⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
-- <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
+- <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ·⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
 - <ruby>[烏龍](../words/烏龍.md)<rt>ㄛㄌ⼄ㄫ</rt></ruby>: a black dragon — not to be confused with the identically-spelled tea name (烏龍茶, "oolong," an unrelated loanword-based compound).
 - <ruby>[玄武](../words/玄武.md)<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby>: the Black Tortoise, one of the Four Symbols of Chinese constellations — a tortoise entwined with a snake, guardian of the north.
 - <ruby>[鵉鳳](../words/鵉鳳.md)<rt>ㄌㄚㄋㄆㄨㄫ</rt></ruby>: the luan-phoenix, a paired mythical bird (luan and feng together).
 - <ruby>[焦明](../words/焦明.md)<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby>: jiaoming, a legendary phoenix-like bird of the south.
-- <ruby>[九尾狐](../words/九尾狐.md)<rt>ㄎ⼜ㄇㄨㄧㄏㄛ</rt></ruby>: the nine-tailed fox — a shapeshifting spirit-fox found across Chinese, Japanese (kyūbi no kitsune), and Korean (kumiho) folklore, with a notably darker reputation in the Korean tradition than the Chinese or Japanese ones.
-- <ruby>[孫悟空](../words/孫悟空.md)<rt>ㄙㄛㄋ·ㄛㄎㄛㄫ</rt></ruby>: the Monkey King, the trickster protagonist of *Journey to the West*.
+- <ruby>[九尾狐](../words/九尾狐.md)<rt>ㄎ⼜·ㄇㄨㄧㄏㄛ</rt></ruby>: the nine-tailed fox — a shapeshifting spirit-fox found across Chinese, Japanese (kyūbi no kitsune), and Korean (kumiho) folklore, with a notably darker reputation in the Korean tradition than the Chinese or Japanese ones.
+- <ruby>[孫悟空](../words/孫悟空.md)<rt>ㄙㄛㄋ·ㄛ·ㄎㄛㄫ</rt></ruby>: the Monkey King, the trickster protagonist of *Journey to the West*.
 - <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
 - <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
 - <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.
-- <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
+- <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
 - <ruby>[怪物](../words/怪物.md)<rt>ㄍ⺢ㄧㄇㄨㄊ</rt></ruby>: monster — an uncanny, mysterious figure; contrast 妖物 below.
 - <ruby>[妖物](../words/妖物.md)<rt>⼘ㄨㄇㄨㄊ</rt></ruby>: monster — specifically a bewitching, shapeshifting figure (see Semantic Range Notes).
 - <ruby>[魔鬼](../words/魔鬼.md)<rt>ㄇㄚㄍㄨㄧ</rt></ruby>: monster, demon.
 - <ruby>[怪獣](../words/怪獣.md)<rt>ㄍ⺢ㄧㄙ⼜</rt></ruby>: a titan or giant monster, in the modern *kaiju*-film sense.
 - <ruby>[罔両](../words/罔両.md)<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby>: demons and monsters, especially those haunting seas or rivers.
-- <ruby>[魑魅](../words/魑魅.md)<rt>ㄑㄧㄇㄧㄜ</rt></ruby>: evil mountain and forest spirits, dryad-like demons — the mountain/forest counterpart to 罔両's water-haunting spirits.
+- <ruby>[魑魅](../words/魑魅.md)<rt>ㄑㄧ·ㄇㄧㄜ</rt></ruby>: evil mountain and forest spirits, dryad-like demons — the mountain/forest counterpart to 罔両's water-haunting spirits.
 - <ruby>[吸血鬼](../words/吸血鬼.md)<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby>: vampire — literally "blood-sucking demon," a real, already-attested Sino-Xenic calque used across Chinese, Japanese, and Korean for the *translated* Western figure, not a Dan'a'yo coinage from scratch (see Semantic Range Notes below on how this differs from the "no fantasy coinages" rule).
 - <ruby>[僵死](../words/僵死.md)<rt>ㄍ⼘ㄫㄙㄧㄜ</rt></ruby>: jiangshi, the reanimated "hopping corpse" of Chinese folklore — a genuinely East Asian creature, not the Western zombie, despite the English gloss's shorthand.
 - <ruby>[一角獣](../words/一角獣.md)<rt>ㄧㄊㄍㄛㄎㄙ⼜</rt></ruby>: unicorn — literally "one-horn beast," another transparent calque of a Western figure already in real cross-linguistic use (Japanese いっかくじゅう, Mandarin/Cantonese 獨角獸/独角兽), the same category as 吸血鬼 below rather than a Dan'a'yo-invented fantasy word. Vietnamese notably reuses its own native *kỳ lân* (qilin/kirin) for this concept instead of calquing — a real terminological conflation, not an error.

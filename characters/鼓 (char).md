@@ -50,6 +50,6 @@ boundedness: 90
 
 ## Words
 - <ruby>[[鼓]]<rt>ㄍㄛ</rt></ruby> "drum; play (instrumental)" (stand-in for 鼓)
-- <ruby>[[鼓舞]]<rt>ㄍㄛㄇㄨ</rt></ruby> "encourage, cheer"
+- <ruby>[[鼓舞]]<rt>ㄍㄛ·ㄇㄨ</rt></ruby> "encourage, cheer"
 - <ruby>[[鞀鼓]]<rt>ㄉㄚㄨㄍㄛ</rt></ruby> "pellet drum"
 - <ruby>[[鉦鼓]]<rt>ㄐㄧㄫㄍㄛ</rt></ruby> "gong and drum; military percussion"

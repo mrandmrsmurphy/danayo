@@ -59,15 +59,15 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 - <ruby>[針](../words/針.md)<rt>ㄐㄧㄇ</rt></ruby>: a pin; a needle.
 - <ruby>[糸線](../words/糸線.md)<rt>ㄙㄚㄙ⼶ㄋ</rt></ruby>: thread.
 - <ruby>[染色](../words/染色.md)<rt>ㄋ⼄ㄇㄙㄧㄎ</rt></ruby>: to dye.
-- <ruby>[浣衣](../words/浣衣.md)<rt>ㄏ⺢ㄎㄧㄜ</rt></ruby>: to wash clothes, do laundry.
+- <ruby>[浣衣](../words/浣衣.md)<rt>ㄏ⺢ㄎ·ㄧㄜ</rt></ruby>: to wash clothes, do laundry.
 - <ruby>[包装](../words/包装.md)<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby>: to wrap.
 
 ### Materials
 
 - <ruby>[亜麻布](../words/亜麻布.md)<rt>ㄚ·ㄇㄚㄅㄛ</rt></ruby>, <ruby>[麻布](../words/麻布.md)<rt>ㄇㄚㄅㄛ</rt></ruby>: linen (or hemp cloth).
-- <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧㄎㄧㄎ</rt></ruby>: leather.
+- <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧ·ㄎㄧㄎ</rt></ruby>: leather.
 - <ruby>[皮衣](../words/皮衣.md)<rt>ㄅㄧ·ㄧㄜ</rt></ruby>: a fur garment, leather clothing.
-- <ruby>[天鵝絨](../words/天鵝絨.md)<rt>ㄊㄝㄋ·ㄚㄋㄨㄫ</rt></ruby>: velvet.
+- <ruby>[天鵝絨](../words/天鵝絨.md)<rt>ㄊㄝㄋ·ㄚ·ㄋㄨㄫ</rt></ruby>: velvet.
 - <ruby>[大麻](../words/大麻.md)<rt>ㄉㄚㄧㄇㄚ</rt></ruby>: hemp (also "marijuana").
 
 ### Not Yet Coined

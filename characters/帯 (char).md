@@ -64,7 +64,7 @@ boundedness:
 - <ruby>[[腰帯]]<rt>⼄ㄨㄊㄚㄧ</rt></ruby> "belt (clothing)"
 
 ## Chengyu
-- <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
+- <ruby>[[一衣帯水]]<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 
 ## Derived Characters
 - <ruby>[[滞]]<rt>ㄐㄝ</rt></ruby> "stagnate"

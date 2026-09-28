@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-11
 
 ## Words
 - <ruby>[[悩]]<rt>ㄋㄚㄨ</rt></ruby> "angered; mad" (stand-in for 悩)
-- <ruby>[[苦悩]]<rt>ㄎㄛㄋㄚㄨ</rt></ruby> "inner torment"
+- <ruby>[[苦悩]]<rt>ㄎㄛ·ㄋㄚㄨ</rt></ruby> "inner torment"

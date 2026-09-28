@@ -59,7 +59,7 @@ boundedness: 80
 - <ruby>[[句]]<rt>ㄍㄨ</rt></ruby> "phrase; sentence; stanza" (stand-in for 句)
 - <ruby>[[句点]]<rt>ㄍㄨㄉㄝㄇ</rt></ruby> "full stop, period"
 - <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"
-- <ruby>[[慣用句]]<rt>ㄍ⺢ㄋ⼄ㄫㄍㄨ</rt></ruby> "idiom; idiomatic phrase"
+- <ruby>[[慣用句]]<rt>ㄍ⺢ㄋ·⼄ㄫㄍㄨ</rt></ruby> "idiom; idiomatic phrase"
 - <ruby>[[句法]]<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"
 - <ruby>[[句杞]]<rt>ㄎㄧ</rt></ruby> "wolfberry"
 - <ruby>[[詞句]]<rt>ㄙㄚㄍㄨ</rt></ruby> "words and phrases"

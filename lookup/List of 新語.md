@@ -20,20 +20,20 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 
 | |事|人|処|名|多|時|様|物|類|
 |-|-|-|-|-|-|-|-|-|-|
-|何|—|—|<ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>|<ruby>[[何名]]<rt>ㄏㄚㄇㄧㄫ</rt></ruby>|<ruby>[[何多]]<rt>ㄏㄚㄉㄜ</rt></ruby>|—|—|—|—|
-|其|<ruby>[[其事]]<rt>ㄍㄜㄐㄧ</rt></ruby>|<ruby>[[其人]]<rt>ㄍㄜㄋㄧㄋ</rt></ruby>|<ruby>[[其処]]<rt>ㄍㄜㄑㄛ</rt></ruby>|<ruby>[[其名]]<rt>ㄍㄜㄇㄧㄫ</rt></ruby>|<ruby>[[其多]]<rt>ㄍㄜㄉㄜ</rt></ruby>|<ruby>[[其時]]<rt>ㄍㄜㄙㄧ</rt></ruby>|<ruby>[[其様]]<rt>ㄍㄜ⼘ㄫ</rt></ruby>|<ruby>[[其物]]<rt>ㄍㄜㄇㄨㄊ</rt></ruby>|<ruby>[[其類]]<rt>ㄍㄜㄌㄨㄧ</rt></ruby>|
-|彼|<ruby>[[彼事]]<rt>ㄅㄜㄐㄧ</rt></ruby>|<ruby>[[彼人]]<rt>ㄅㄜㄋㄧㄋ</rt></ruby>|<ruby>[[彼処]]<rt>ㄅㄜㄑㄛ</rt></ruby>|<ruby>[[彼名]]<rt>ㄅㄜㄇㄧㄫ</rt></ruby>|<ruby>[[彼多]]<rt>ㄅㄜㄉㄜ</rt></ruby>|<ruby>[[彼時]]<rt>ㄅㄜㄙㄧ</rt></ruby>|<ruby>[[彼様]]<rt>ㄅㄜ⼘ㄫ</rt></ruby>|<ruby>[[彼物]]<rt>ㄅㄜㄇㄨㄊ</rt></ruby>|<ruby>[[彼類]]<rt>ㄅㄜㄌㄨㄧ</rt></ruby>|
+|何|—|—|<ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>|<ruby>[[何名]]<rt>ㄏㄚ·ㄇㄧㄫ</rt></ruby>|<ruby>[[何多]]<rt>ㄏㄚㄉㄜ</rt></ruby>|—|—|—|—|
+|其|<ruby>[[其事]]<rt>ㄍㄜㄐㄧ</rt></ruby>|<ruby>[[其人]]<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby>|<ruby>[[其処]]<rt>ㄍㄜㄑㄛ</rt></ruby>|<ruby>[[其名]]<rt>ㄍㄜ·ㄇㄧㄫ</rt></ruby>|<ruby>[[其多]]<rt>ㄍㄜㄉㄜ</rt></ruby>|<ruby>[[其時]]<rt>ㄍㄜㄙㄧ</rt></ruby>|<ruby>[[其様]]<rt>ㄍㄜ⼘ㄫ</rt></ruby>|<ruby>[[其物]]<rt>ㄍㄜ·ㄇㄨㄊ</rt></ruby>|<ruby>[[其類]]<rt>ㄍㄜㄌㄨㄧ</rt></ruby>|
+|彼|<ruby>[[彼事]]<rt>ㄅㄜㄐㄧ</rt></ruby>|<ruby>[[彼人]]<rt>ㄅㄜ·ㄋㄧㄋ</rt></ruby>|<ruby>[[彼処]]<rt>ㄅㄜㄑㄛ</rt></ruby>|<ruby>[[彼名]]<rt>ㄅㄜ·ㄇㄧㄫ</rt></ruby>|<ruby>[[彼多]]<rt>ㄅㄜㄉㄜ</rt></ruby>|<ruby>[[彼時]]<rt>ㄅㄜㄙㄧ</rt></ruby>|<ruby>[[彼様]]<rt>ㄅㄜ⼘ㄫ</rt></ruby>|<ruby>[[彼物]]<rt>ㄅㄜ·ㄇㄨㄊ</rt></ruby>|<ruby>[[彼類]]<rt>ㄅㄜㄌㄨㄧ</rt></ruby>|
 |某|<ruby>[[某事]]<rt>ㄇㄛㄨㄐㄧ</rt></ruby>|<ruby>[[某人]]<rt>ㄇㄛㄨㄋㄧㄋ</rt></ruby>|<ruby>[[某処]]<rt>ㄇㄛㄨㄑㄛ</rt></ruby>|<ruby>[[某名]]<rt>ㄇㄛㄨㄇㄧㄫ</rt></ruby>|<ruby>[[某多]]<rt>ㄇㄛㄨㄉㄜ</rt></ruby>|<ruby>[[某時]]<rt>ㄇㄛㄨㄙㄧ</rt></ruby>|<ruby>[[某様]]<rt>ㄇㄛㄨ⼘ㄫ</rt></ruby>|<ruby>[[某物]]<rt>ㄇㄛㄨㄇㄨㄊ</rt></ruby>|<ruby>[[某類]]<rt>ㄇㄛㄨㄌㄨㄧ</rt></ruby>|
-|此|<ruby>[[此事]]<rt>ㄑㄜㄐㄧ</rt></ruby>|<ruby>[[此人]]<rt>ㄑㄜㄋㄧㄋ</rt></ruby>|<ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>|<ruby>[[此名]]<rt>ㄑㄜㄇㄧㄫ</rt></ruby>|<ruby>[[此多]]<rt>ㄑㄜㄉㄜ</rt></ruby>|<ruby>[[此時]]<rt>ㄑㄜㄙㄧ</rt></ruby>|<ruby>[[此様]]<rt>ㄑㄜ⼘ㄫ</rt></ruby>|<ruby>[[此物]]<rt>ㄑㄜㄇㄨㄊ</rt></ruby>|<ruby>[[此類]]<rt>ㄑㄜㄌㄨㄧ</rt></ruby>|
+|此|<ruby>[[此事]]<rt>ㄑㄜㄐㄧ</rt></ruby>|<ruby>[[此人]]<rt>ㄑㄜ·ㄋㄧㄋ</rt></ruby>|<ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>|<ruby>[[此名]]<rt>ㄑㄜ·ㄇㄧㄫ</rt></ruby>|<ruby>[[此多]]<rt>ㄑㄜㄉㄜ</rt></ruby>|<ruby>[[此時]]<rt>ㄑㄜㄙㄧ</rt></ruby>|<ruby>[[此様]]<rt>ㄑㄜ⼘ㄫ</rt></ruby>|<ruby>[[此物]]<rt>ㄑㄜ·ㄇㄨㄊ</rt></ruby>|<ruby>[[此類]]<rt>ㄑㄜㄌㄨㄧ</rt></ruby>|
 |毎|<ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby>|<ruby>[[毎人]]<rt>ㄇㄛㄧㄋㄧㄋ</rt></ruby>|<ruby>[[毎処]]<rt>ㄇㄛㄧㄑㄛ</rt></ruby>|<ruby>[[毎名]]<rt>ㄇㄛㄧㄇㄧㄫ</rt></ruby>|<ruby>[[毎多]]<rt>ㄇㄛㄧㄉㄜ</rt></ruby>|<ruby>[[毎時]]<rt>ㄇㄛㄧㄙㄧ</rt></ruby>|<ruby>[[毎様]]<rt>ㄇㄛㄧ⼘ㄫ</rt></ruby>|<ruby>[[毎物]]<rt>ㄇㄛㄧㄇㄨㄊ</rt></ruby>|<ruby>[[毎類]]<rt>ㄇㄛㄧㄌㄨㄧ</rt></ruby>|
-|皆|<ruby>[[皆事]]<rt>ㄍ⼶ㄐㄧ</rt></ruby>|<ruby>[[皆人]]<rt>ㄍ⼶ㄋㄧㄋ</rt></ruby>|<ruby>[[皆処]]<rt>ㄍ⼶ㄑㄛ</rt></ruby>|<ruby>[[皆名]]<rt>ㄍ⼶ㄇㄧㄫ</rt></ruby>|<ruby>[[皆多]]<rt>ㄍ⼶ㄉㄜ</rt></ruby>|<ruby>[[皆時]]<rt>ㄍ⼶ㄙㄧ</rt></ruby>|<ruby>[[皆様]]<rt>ㄍ⼶⼘ㄫ</rt></ruby>|<ruby>[[皆物]]<rt>ㄍ⼶ㄇㄨㄊ</rt></ruby>|<ruby>[[皆類]]<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby>|
+|皆|<ruby>[[皆事]]<rt>ㄍ⼶ㄐㄧ</rt></ruby>|<ruby>[[皆人]]<rt>ㄍ⼶·ㄋㄧㄋ</rt></ruby>|<ruby>[[皆処]]<rt>ㄍ⼶ㄑㄛ</rt></ruby>|<ruby>[[皆名]]<rt>ㄍ⼶·ㄇㄧㄫ</rt></ruby>|<ruby>[[皆多]]<rt>ㄍ⼶ㄉㄜ</rt></ruby>|<ruby>[[皆時]]<rt>ㄍ⼶ㄙㄧ</rt></ruby>|<ruby>[[皆様]]<rt>ㄍ⼶⼘ㄫ</rt></ruby>|<ruby>[[皆物]]<rt>ㄍ⼶·ㄇㄨㄊ</rt></ruby>|<ruby>[[皆類]]<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby>|
 
 ## Ancient
 1. <ruby>[射術](/words/射術.md)<rt>ㄊ⼘ㄙㄨㄊ</rt></ruby> - classical Asian archery
 2. <ruby>[御術](/words/御術.md)<rt>⼄ㄙㄨㄊ</rt></ruby> - classical Asian charioteering
 
 ## Place Names
-1. <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚㄆㄛ</rt></ruby> - Singapore
+1. <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> - Singapore
 2. <ruby>[欽婁](/words/欽婁.md)<rt>ㄎㄨㄇㄌㄨ</rt></ruby> - Wales
 3. <ruby>[非志](/words/非志.md)<rt>ㄈㄧㄐㄧ</rt></ruby> - Fiji
 
@@ -49,7 +49,7 @@ See [[Periodic Table]] for the full system and Formula Notation rules.
 |-|---|-----|----|----|----|----|----|-----|
 |1|<ruby>[軽素](/words/軽素.md)<rt>ㄎㄧㄫㄙㄛ</rt></ruby>|  |   |   |   |   |   |<ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> |
 |2|<ruby>[石素](/words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](/words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](/words/硼素.md)<rt>ㄅㄛㄫㄙㄛ</rt></ruby>|<ruby>[炭素](/words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](/words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](/words/養素.md)<rt>⼘ㄫㄙㄛ</rt></ruby>|<ruby>[弗素](/words/弗素.md)<rt>ㄈㄨㄊㄙㄛ</rt></ruby>|<ruby>[虹素](../words/虹素.md)<rt>ㄏㄛㄫㄙㄛ</rt></ruby>|
-|3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ⼜ㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>⼶ㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉ⺢ㄙㄛ</rt></ruby>|
+|3|<ruby>[鹸素](/words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](/words/苦土素.md)<rt>ㄎㄛ·ㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](/words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](/words/硅素.md)<rt>ㄍ⼜ㄎㄙㄛ</rt></ruby>|<ruby>[燐素](/words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](/words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby>|<ruby>[塩素](/words/塩素.md)<rt>⼶ㄇㄙㄛ</rt></ruby>|<ruby>[惰素](/words/惰素.md)<rt>ㄉ⺢ㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](/words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](/words/石灰素.md)<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby>|<ruby>[高素](/words/高素.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>|<ruby>[徳素](/words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>|<ruby>[砒素](/words/砒素.md)<rt>ㄆㄧㄙㄛ</rt></ruby>|<ruby>[月素](/words/月素.md)<rt>⼔ㄊㄙㄛ</rt></ruby>|<ruby>[臭素](/words/臭素.md)<rt>ㄑㄨㄙㄛ</rt></ruby>|<ruby>[潜素](/words/潜素.md)<rt>ㄐㄝㄇㄙㄛ</rt></ruby>|
 |5|<ruby>[茜素](/words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>|<ruby>[火紅素](/words/火紅素.md)<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby>| <ruby>[紫素](/words/紫素.md)<rt>ㄐㄝㄙㄛ</rt></ruby> |<ruby>[朱錫](/words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| <ruby>[墨素](/words/墨素.md)<rt>ㄇㄨㄎㄙㄛ</rt></ruby> | <ruby>[土素](/words/土素.md)<rt>ㄊㄛㄙㄛ</rt></ruby> | <ruby>[沃素](/words/沃素.md)<rt>ㄛㄎㄙㄛ</rt></ruby> | <ruby>[異素](/words/異素.md)<rt>ㄧㄙㄛ</rt></ruby>|
 |6|<ruby>[青素](/words/青素.md)<rt>ㄑㄝㄫㄙㄛ</rt></ruby>|<ruby>[重素](/words/重素.md)<rt>ㄑㄛㄫㄙㄛ</rt></ruby>|<ruby>[蕤素](/words/蕤素.md)<rt>ㄋㄨㄧㄙㄛ</rt></ruby>|<ruby>[鉛](/words/鉛.md)<rt>⼶ㄋ</rt></ruby>|<ruby>[蒼鉛](/words/蒼鉛.md)<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby>|<ruby>[波素](/words/波素.md)<rt>ㄅㄚㄙㄛ</rt></ruby>|<ruby>[不穏素](/words/不穏素.md)<rt>ㄅㄛㄊ·ㄛㄋㄙㄛ</rt></ruby>|<ruby>[射素](/words/射素.md)<rt>ㄙ⼘ㄙㄛ</rt></ruby>|

@@ -55,10 +55,10 @@ boundedness: 100
 - <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"
 - <ruby>[[引禍]]<rt>ㄧㄋㄏ⺢</rt></ruby> "to bring on calamity"
 - <ruby>[[牽引]]<rt>ㄎㄝㄋ·ㄧㄋ</rt></ruby> "tow; traction"
-- <ruby>[[勾引]]<rt>ㄍㄛㄨㄧㄋ</rt></ruby> "seduce; entice"
+- <ruby>[[勾引]]<rt>ㄍㄛㄨ·ㄧㄋ</rt></ruby> "seduce; entice"
 - <ruby>[[引入]]<rt>ㄧㄋㄋㄧㄆ</rt></ruby> "lead into"
 - <ruby>[[丘引]]<rt>ㄎ⼜·ㄧㄋ</rt></ruby> "earthworm"
-- <ruby>[[割引]]<rt>ㄍㄚㄊㄧㄋ</rt></ruby> "discount"
+- <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"
 
 ## Chengyu
 - <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧ·ㄧㄋㄏ⺢</rt></ruby> "invite disaster, cause trouble"

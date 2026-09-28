@@ -55,7 +55,7 @@ boundedness: 75
 ## Words
 - <ruby>[[各]]<rt>ㄍㄚㄎ</rt></ruby> "each; individually" (stand-in for 各)
 - <ruby>[[各種]]<rt>ㄍㄚㄎㄐㄛㄫ</rt></ruby> "every kind; all kinds; full range"
-- <ruby>[[各位]]<rt>ㄍㄚㄎ⼔ㄧ</rt></ruby> "ladies and gentlemen"
+- <ruby>[[各位]]<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby> "ladies and gentlemen"
 
 ## Derived Characters
 - <ruby>[[路]]<rt>ㄌㄛ</rt></ruby> "road; path; journey"

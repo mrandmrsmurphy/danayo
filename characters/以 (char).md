@@ -53,7 +53,7 @@ boundedness: 90
 - <ruby>[[以前]]<rt>ㄧㄐㄝㄋ</rt></ruby> "before; ago"
 - <ruby>[[以便]]<rt>ㄧㄅ⼶ㄋ</rt></ruby> "in order that"
 - <ruby>[[以後]]<rt>ㄧㄏㄛㄨ</rt></ruby> "after that; from now on; thenceforth"
-- <ruby>[[既以]]<rt>ㄍㄧㄜㄧ</rt></ruby> "already; too late"
+- <ruby>[[既以]]<rt>ㄍㄧㄜ·ㄧ</rt></ruby> "already; too late"
 - <ruby>[[為以]]<rt>⼔·ㄧ</rt></ruby> "in order to; so that"
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"

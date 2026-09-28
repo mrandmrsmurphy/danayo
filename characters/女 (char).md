@@ -49,21 +49,21 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[女]]<rt>ㄋㄜ</rt></ruby> "woman" (stand-in for 女)
-- <ruby>[[女人]]<rt>ㄋㄜㄋㄧㄋ</rt></ruby> "woman; female"
-- <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
+- <ruby>[[女人]]<rt>ㄋㄜ·ㄋㄧㄋ</rt></ruby> "woman; female"
+- <ruby>[[処女]]<rt>ㄑㄛ·ㄋㄜ</rt></ruby> "virgin, maiden"
 - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby> "girl; young woman"
 - <ruby>[[女児]]<rt>ㄋㄜㄝㄧ</rt></ruby> "daughter"
-- <ruby>[[魔女]]<rt>ㄇㄚㄋㄜ</rt></ruby> "witch; sorceress"
-- <ruby>[[巫女]]<rt>ㄇㄨㄋㄜ</rt></ruby> "shrine maiden; shamaness"
+- <ruby>[[魔女]]<rt>ㄇㄚ·ㄋㄜ</rt></ruby> "witch; sorceress"
+- <ruby>[[巫女]]<rt>ㄇㄨ·ㄋㄜ</rt></ruby> "shrine maiden; shamaness"
 - <ruby>[[女性]]<rt>ㄋㄜㄙㄧㄫ</rt></ruby> "female; feminine (gender)"
-- <ruby>[[女女]]<rt>ㄋㄜㄋㄜ</rt></ruby> "little lady; little woman"
+- <ruby>[[女女]]<rt>ㄋㄜ·ㄋㄜ</rt></ruby> "little lady; little woman"
 - <ruby>[[織女星]]<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby> "Vega"
 - <ruby>[[女皇]]<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby> "empress"
 - <ruby>[[女優]]<rt>ㄋㄜㄨㄛ</rt></ruby> "actress; female artist"
-- <ruby>[[婢女]]<rt>ㄅㄧㄋㄜ</rt></ruby> "servant girl; maid servant"
+- <ruby>[[婢女]]<rt>ㄅㄧ·ㄋㄜ</rt></ruby> "servant girl; maid servant"
 - <ruby>[[姪女]]<rt>ㄉㄝㄊㄋㄜ</rt></ruby> "niece"
 - <ruby>[[孫女]]<rt>ㄙㄛㄋㄋㄜ</rt></ruby> "granddaughter"
-- <ruby>[[妓女]]<rt>ㄍㄧㄋㄜ</rt></ruby> "prostitute"
+- <ruby>[[妓女]]<rt>ㄍㄧ·ㄋㄜ</rt></ruby> "prostitute"
 - <ruby>[[織女]]<rt>ㄐㄧㄎㄋㄜ</rt></ruby> "the Weaver Girl"
 - <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> "girlfriend"
 ## Derived Characters

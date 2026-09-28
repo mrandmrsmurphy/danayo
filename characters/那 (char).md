@@ -54,6 +54,6 @@ date-last-perfect: 2026-08-10
 
 ## Words
 - <ruby>[[那]]<rt>ㄋㄚ</rt></ruby> "then; in that case" (stand-in for 那)
-- <ruby>[[支那]]<rt>ㄐㄝㄋㄚ</rt></ruby> "Zhina"
+- <ruby>[[支那]]<rt>ㄐㄝ·ㄋㄚ</rt></ruby> "Zhina"
 - <ruby>[[刹那]]<rt>ㄑㄚㄊㄋㄚ</rt></ruby> "an instant; a moment (Buddhist kṣaṇa)"
-- <ruby>[[印度支那]]<rt>ㄧㄋㄉㄛㄐㄝㄋㄚ</rt></ruby> "Indochina (derogatory)"
+- <ruby>[[印度支那]]<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby> "Indochina (derogatory)"

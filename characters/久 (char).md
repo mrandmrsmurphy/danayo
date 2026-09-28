@@ -48,7 +48,7 @@ boundedness: 65
 
 ## Words
 - <ruby>[[久]]<rt>ㄍ⼜</rt></ruby> "long time (ago)" (stand-in for 久)
-- <ruby>[[久闊]]<rt>ㄍ⼜ㄎ⺢ㄊ</rt></ruby> "long period of separation"
+- <ruby>[[久闊]]<rt>ㄍ⼜·ㄎ⺢ㄊ</rt></ruby> "long period of separation"
 - <ruby>[[悠久]]<rt>⼜ㄛㄍ⼜</rt></ruby> "long-lasting; time-honoured"
 - <ruby>[[恒久]]<rt>ㄏㄨㄫㄍ⼜</rt></ruby> "eternal; perpetual"
 - <ruby>[[永久]]<rt>ㄨㄧㄫㄍ⼜</rt></ruby> "permanent; perpetual"

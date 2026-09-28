@@ -50,7 +50,7 @@ boundedness: 90
 - <ruby>[[代用字]]<rt>ㄉㄚㄧ⼄ㄫㄐㄧ</rt></ruby> "substitute character"
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - Chinese character
 - <ruby>[漢字](/words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> - Chinese character
-- <ruby>[[羅馬字]]<rt>ㄌㄛㄇㄚㄐㄧ</rt></ruby> "Latin letters, Roman alphabet, romanization"
+- <ruby>[[羅馬字]]<rt>ㄌㄛ·ㄇㄚㄐㄧ</rt></ruby> "Latin letters, Roman alphabet, romanization"
 - <ruby>[卍字](/words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby> - swastika
 - <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
 - <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
@@ -62,19 +62,19 @@ boundedness: 90
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
-- <ruby>[字南](/words/字南.md)<rt>ㄐㄧㄋㄚㄇ</rt></ruby> - Chu Nom
-- <ruby>[字母](/words/字母.md)<rt>ㄐㄧㄇㄛㄨ</rt></ruby> - grapheme
+- <ruby>[字南](/words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby> - Chu Nom
+- <ruby>[字母](/words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> - grapheme
 - <ruby>[字源](/words/字源.md)<rt>ㄐㄧ·⼔ㄋ</rt></ruby> - etymology
 - <ruby>[数字](/words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby> - numeral
 - <ruby>[文字](/words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> - script
-- <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧㄊㄝㄧ</rt></ruby> - Shinjitai
-- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
+- <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> - Shinjitai
+- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
 - <ruby>[正字](/words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> - correct character
 - <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> - orthography
 - <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, variant"
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
 - <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"
-- <ruby>[[字庫]]<rt>ㄐㄧㄎㄛ</rt></ruby> "font library; character repository"
+- <ruby>[[字庫]]<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library; character repository"
 - <ruby>[[単字]]<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character; single-character word"
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 之]]

@@ -69,4 +69,4 @@ boundedness: 65
 - <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
 - <ruby>[[従姉]]<rt>ㄐㄛㄫㄐㄚ</rt></ruby> "older female cousin"
 - <ruby>[[従妹]]<rt>ㄐㄛㄫㄇㄛㄧ</rt></ruby> "younger female cousin"
-- <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"
+- <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚ·ㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"

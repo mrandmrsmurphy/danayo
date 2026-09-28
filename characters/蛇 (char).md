@@ -56,5 +56,5 @@ There were two pronunciations in MC. We have chosen to _avoid_ the crowded **sa*
 - <ruby>[蛇](words/蛇.md)<rt>ㄊㄚ</rt></ruby> "snake" (stand-in for 蛇)
 
 ## Chengyu
-- <ruby>[[画蛇添足]]<rt>ㄏ⺢ㄎㄊㄚㄊㄝㄇㄐㄛㄎ</rt></ruby> "gild the lilies, making an unnecessary addition"
+- <ruby>[[画蛇添足]]<rt>ㄏ⺢ㄎㄊㄚ·ㄊㄝㄇㄐㄛㄎ</rt></ruby> "gild the lilies, making an unnecessary addition"
 

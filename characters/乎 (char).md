@@ -52,7 +52,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[乎]]<rt>ㄏㄛ</rt></ruby> "did; do" (stand-in for 乎)
-- <ruby>[[不亦V乎]]<rt>ㄅㄛㄊㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
+- <ruby>[[不亦V乎]]<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 
 ## Chengyu
 - <ruby>[[豹斑改乎]]<rt>ㄅ⼘ㄨㄅㄚㄋㄍㄚㄧㄏㄛ</rt></ruby> "Can a leopard change his spots?"

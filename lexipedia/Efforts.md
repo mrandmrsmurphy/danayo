@@ -31,7 +31,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 ### Cause & Effect
 
 - <ruby>[令](../words/令.md)<rt>ㄌㄝㄫ</rt></ruby>, <ruby>[致](../words/致.md)<rt>ㄑㄧㄜ</rt></ruby>: to cause.
-- <ruby>[故而](../words/故而.md)<rt>ㄍㄛㄋㄧ</rt></ruby>: therefore, as a result, and so.
+- <ruby>[故而](../words/故而.md)<rt>ㄍㄛ·ㄋㄧ</rt></ruby>: therefore, as a result, and so.
 
 ### Attempting & Trying
 
@@ -47,7 +47,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 ### Difficulty, Danger & Trouble
 
 - <ruby>[災厄](../words/災厄.md)<rt>ㄐㄚㄧㄜㄎ</rt></ruby>: trouble, burden, disaster.
-- <ruby>[苦悶](../words/苦悶.md)<rt>ㄎㄛㄇㄛㄋ</rt></ruby>: agony, anguish, worry, trouble.
+- <ruby>[苦悶](../words/苦悶.md)<rt>ㄎㄛ·ㄇㄛㄋ</rt></ruby>: agony, anguish, worry, trouble.
 - <ruby>[閙事](../words/閙事.md)<rt>ㄋ⼘ㄨㄐㄧ</rt></ruby>: to make a scene, cause trouble.
 - <ruby>[蠢動](../words/蠢動.md)<rt>ㄑㄨㄋㄉㄛㄫ</rt></ruby>: to wriggle, to stir up trouble, to act restlessly.
 
@@ -59,7 +59,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 ### Weakness & Frailty
 
-- <ruby>[柔](../words/柔.md)<rt>ㄋ⼜</rt></ruby>, <ruby>[柔軟](../words/柔軟.md)<rt>ㄋ⼜ㄋㄝㄋ</rt></ruby>: tender, soft, pliable, weak. See Semantic Range Notes.
+- <ruby>[柔](../words/柔.md)<rt>ㄋ⼜</rt></ruby>, <ruby>[柔軟](../words/柔軟.md)<rt>ㄋ⼜·ㄋㄝㄋ</rt></ruby>: tender, soft, pliable, weak. See Semantic Range Notes.
 - <ruby>[羸弱](../words/羸弱.md)<rt>ㄌㄨㄧㄋ⼘ㄎ</rt></ruby>, <ruby>[薄弱](../words/薄弱.md)<rt>ㄅㄚㄎㄋ⼘ㄎ</rt></ruby>: frail, weak, feeble.
 
 ### Laziness
@@ -69,7 +69,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 ### Control & Compulsion
 
 - <ruby>[把握](../words/把握.md)<rt>ㄅㄚ·ㄚㄎ</rt></ruby>, <ruby>[掌握](../words/掌握.md)<rt>ㄐㄚㄫㄚㄎ</rt></ruby>: to grasp, control.
-- <ruby>[支配](../words/支配.md)<rt>ㄐㄝㄆㄛㄧ</rt></ruby>: to rule, control, manage, govern, dominate.
+- <ruby>[支配](../words/支配.md)<rt>ㄐㄝ·ㄆㄛㄧ</rt></ruby>: to rule, control, manage, govern, dominate.
 - <ruby>[轄](../words/轄.md)<rt>ㄏㄚㄊ</rt></ruby>: the linchpin of a wheel; control — the metaphor "the pin holding it all together." See Semantic Range Notes.
 - <ruby>[自制](../words/自制.md)<rt>ㄐㄧㄜㄐㄝㄧ</rt></ruby>, <ruby>[自禁](../words/自禁.md)<rt>ㄐㄧㄜㄍㄧㄇ</rt></ruby>: restraint, self-control.
 - <ruby>[強迫](../words/強迫.md)<rt>ㄍ⼘ㄫㄅㄚㄎ</rt></ruby>, <ruby>[逼迫](../words/逼迫.md)<rt>ㄅㄧㄎㄅㄚㄎ</rt></ruby>: to force, compel, press, coerce.

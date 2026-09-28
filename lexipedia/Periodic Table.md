@@ -31,7 +31,7 @@ Examples:
 |-|---|-----|----|----|----|----|----|-----|
 |1|<ruby>[軽素](../words/軽素.md)<rt>ㄎㄧㄫㄙㄛ</rt></ruby>|  |   |   |   |   |   |<ruby>[日素](../words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> |
 |2|<ruby>[石素](../words/石素.md)<rt>ㄙㄝㄎㄙㄛ</rt></ruby>|<ruby>[緑柱素](../words/緑柱素.md)<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby>|<ruby>[硼素](../words/硼素.md)<rt>ㄅㄛㄫㄙㄛ</rt></ruby>|<ruby>[炭素](../words/炭素.md)<rt>ㄊㄚㄋㄙㄛ</rt></ruby>|<ruby>[窒素](../words/窒素.md)<rt>ㄉㄝㄊㄙㄛ</rt></ruby>|<ruby>[養素](../words/養素.md)<rt>⼘ㄫㄙㄛ</rt></ruby>|<ruby>[弗素](../words/弗素.md)<rt>ㄈㄨㄊㄙㄛ</rt></ruby>|<ruby>[虹素](../words/虹素.md)<rt>ㄏㄛㄫㄙㄛ</rt></ruby>|
-|3|<ruby>[鹸素](../words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](../words/苦土素.md)<rt>ㄎㄛㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](../words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](../words/硅素.md)<rt>ㄍ⼜ㄎㄙㄛ</rt></ruby>|<ruby>[燐素](../words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](../words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby>|<ruby>[塩素](../words/塩素.md)<rt>⼶ㄇㄙㄛ</rt></ruby>|<ruby>[惰素](../words/惰素.md)<rt>ㄉ⺢ㄙㄛ</rt></ruby>|
+|3|<ruby>[鹸素](../words/鹸素.md)<rt>ㄑㄝㄇㄙㄛ</rt></ruby>|<ruby>[苦土素](../words/苦土素.md)<rt>ㄎㄛ·ㄊㄛㄙㄛ</rt></ruby>|<ruby>[礬素](../words/礬素.md)<rt>ㄆㄛㄇㄙㄛ</rt></ruby>|<ruby>[硅素](../words/硅素.md)<rt>ㄍ⼜ㄎㄙㄛ</rt></ruby>|<ruby>[燐素](../words/燐素.md)<rt>ㄌㄧㄋㄙㄛ</rt></ruby>|<ruby>[硫黄](../words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby>|<ruby>[塩素](../words/塩素.md)<rt>⼶ㄇㄙㄛ</rt></ruby>|<ruby>[惰素](../words/惰素.md)<rt>ㄉ⺢ㄙㄛ</rt></ruby>|
 |4|<ruby>[鉀](../words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby>|<ruby>[石灰素](../words/石灰素.md)<rt>ㄙㄝㄎㄏㄛㄧㄙㄛ</rt></ruby>|<ruby>[高素](../words/高素.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>|<ruby>[徳素](../words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>|<ruby>[砒素](../words/砒素.md)<rt>ㄆㄧㄙㄛ</rt></ruby>|<ruby>[月素](../words/月素.md)<rt>⼔ㄊㄙㄛ</rt></ruby>|<ruby>[臭素](../words/臭素.md)<rt>ㄑㄨㄙㄛ</rt></ruby>|<ruby>[潜素](../words/潜素.md)<rt>ㄐㄝㄇㄙㄛ</rt></ruby>|
 |5|<ruby>[茜素](../words/茜素.md)<rt>ㄑㄝㄋㄙㄛ</rt></ruby>|<ruby>[火紅素](../words/火紅素.md)<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby>| <ruby>[紫素](../words/紫素.md)<rt>ㄐㄝㄙㄛ</rt></ruby> |<ruby>[朱錫](../words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>| <ruby>[墨素](../words/墨素.md)<rt>ㄇㄨㄎㄙㄛ</rt></ruby> | <ruby>[土素](../words/土素.md)<rt>ㄊㄛㄙㄛ</rt></ruby> | <ruby>[沃素](../words/沃素.md)<rt>ㄛㄎㄙㄛ</rt></ruby> | <ruby>[異素](../words/異素.md)<rt>ㄧㄙㄛ</rt></ruby>|
 |6|<ruby>[青素](../words/青素.md)<rt>ㄑㄝㄫㄙㄛ</rt></ruby>|<ruby>[重素](../words/重素.md)<rt>ㄑㄛㄫㄙㄛ</rt></ruby>|<ruby>[蕤素](../words/蕤素.md)<rt>ㄋㄨㄧㄙㄛ</rt></ruby>|<ruby>[鉛](../words/鉛.md)<rt>⼶ㄋ</rt></ruby>|<ruby>[蒼鉛](../words/蒼鉛.md)<rt>ㄑ⺢ㄫ·⼶ㄋ</rt></ruby>|<ruby>[波素](../words/波素.md)<rt>ㄅㄚㄙㄛ</rt></ruby>|<ruby>[不穏素](../words/不穏素.md)<rt>ㄅㄛㄊ·ㄛㄋㄙㄛ</rt></ruby>|<ruby>[射素](../words/射素.md)<rt>ㄙ⼘ㄙㄛ</rt></ruby>|
@@ -56,7 +56,7 @@ Element 111 (roentgenium, 錀) also lends its phonetic to <ruby>[錀琴](../word
 ## Related Concepts & Compounds
 
 - <ruby>[元素](../words/元素.md)<rt>⼔ㄋㄙㄛ</rt></ruby>: element, the general noun this whole table classifies.
-- <ruby>[苦土](../words/苦土.md)<rt>ㄎㄛㄊㄛ</rt></ruby>: magnesia, magnesium oxide — the historical compound magnesium was isolated from, and the direct source of magnesium's own Dan'a'yo name, [[苦土素]].
+- <ruby>[苦土](../words/苦土.md)<rt>ㄎㄛ·ㄊㄛ</rt></ruby>: magnesia, magnesium oxide — the historical compound magnesium was isolated from, and the direct source of magnesium's own Dan'a'yo name, [[苦土素]].
 - <ruby>[硝石](../words/硝石.md)<rt>ㄙ⼄ㄨㄙㄝㄎ</rt></ruby>: saltpetre, potassium nitrate — a historically important potassium compound (gunpowder, food preservation), unrelated in coinage to [[鉀]]'s own name.
 
 ## Abbreviations

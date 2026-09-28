@@ -71,5 +71,5 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"
-- <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
+- <ruby>[[除我莫神]]<rt>ㄐㄝㄧ·ㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "love YHWH your God"

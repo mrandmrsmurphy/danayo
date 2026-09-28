@@ -49,15 +49,15 @@ boundedness: 90
 - 503rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄋ⼜](../syllables/ㄋ⼜.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[牛乳]]<rt>ㄋ⼜ㄋㄨ</rt></ruby> "cow's milk, milk"
+- <ruby>[[牛乳]]<rt>ㄋ⼜·ㄋㄨ</rt></ruby> "cow's milk, milk"
 - <ruby>[[牛井]]<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby> "gyudon; beef rice bowl"
 - <ruby>[[犀牛]]<rt>ㄙㄝㄧㄋ⼜</rt></ruby> "rhinoceros"
 - <ruby>[[牛虻]]<rt>ㄋ⼜ㄇㄚㄫ</rt></ruby> "gadfly; horsefly"
 - <ruby>[[牛郎星]]<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby> "Altair; the Cowherd Star"
 - <ruby>[[牛郎]]<rt>ㄋ⼜ㄌㄚㄫ</rt></ruby> "the Cowherd Boy"
-- <ruby>[[水牛]]<rt>ㄙㄨㄋ⼜</rt></ruby> "water buffalo"
+- <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"
 - <ruby>[[海牛]]<rt>ㄏㄚㄧㄋ⼜</rt></ruby> "sea cow; manatee"
-- <ruby>[[蝸牛]]<rt>ㄍ⺢ㄋ⼜</rt></ruby> "snail"
+- <ruby>[[蝸牛]]<rt>ㄍ⺢·ㄋ⼜</rt></ruby> "snail"
 ## Chengyu
-- <ruby>[[呉牛喘月]]<rt>ㄛㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> "excessive fear"
+- <ruby>[[呉牛喘月]]<rt>ㄛ·ㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> "excessive fear"
 - <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall, pearls before swine"

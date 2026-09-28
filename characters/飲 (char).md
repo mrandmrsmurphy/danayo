@@ -55,7 +55,7 @@ boundedness: 75
 - <ruby>[[飲]]<rt>ㄨㄇ</rt></ruby> "drink" (stand-in for 飲)
 - <ruby>[[飲食]]<rt>ㄨㄇㄙㄧㄎ</rt></ruby> "eat and drink"
 - <ruby>[[飲食物]]<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby> "foods and drinks"
-- <ruby>[[暴飲]]<rt>ㄅㄛㄎㄨㄇ</rt></ruby> "binge drink"
+- <ruby>[[暴飲]]<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby> "binge drink"
 ## Chengyu
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
 - <ruby>[[飲食歓楽]]<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄋ</rt></ruby> "eat drink and be merry"

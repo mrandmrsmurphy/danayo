@@ -70,7 +70,7 @@ boundedness: 80
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
 - <ruby>[[冥王星]]<rt>ㄇㄝㄫ·⺢ㄫㄙㄝㄫ</rt></ruby> "Pluto"
 - <ruby>[[星洲]]<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby> "Star Islet, Singapore"
-- <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛㄎㄧ</rt></ruby> "stars and stripes"
+- <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛ·ㄎㄧ</rt></ruby> "stars and stripes"
 - <ruby>[[星霜]]<rt>ㄙㄝㄫㄙ⺢ㄫ</rt></ruby> "time and years"
 - <ruby>[[占星]]<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby> "divination"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"

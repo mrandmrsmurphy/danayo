@@ -52,9 +52,9 @@ date-last-perfect: 2026-08-09
 ## Words
 - <ruby>[[奥]]<rt>ㄨㄎ</rt></ruby> "deep" (stand-in for 奥)
 - <ruby>[[奥秘]]<rt>ㄨㄎㄅㄧㄜ</rt></ruby> "secret, mystery"
-- <ruby>[[深奥]]<rt>ㄙㄧㄇㄨㄎ</rt></ruby> "abstruse"
+- <ruby>[[深奥]]<rt>ㄙㄧㄇ·ㄨㄎ</rt></ruby> "abstruse"
 - <ruby>[[奥門]]<rt>ㄨㄎㄇㄛㄋ</rt></ruby> "Macau"
-- <ruby>[[奥斯曼]]<rt>ㄨㄎㄙㄧㄇㄚㄋ</rt></ruby> "Ottoman"
+- <ruby>[[奥斯曼]]<rt>ㄨㄎㄙㄧ·ㄇㄚㄋ</rt></ruby> "Ottoman"
 - <ruby>[[奥加素]]<rt>ㄨㄎㄍㄚㄙㄛ</rt></ruby> "oganesson"
 
 ## Derived Characters

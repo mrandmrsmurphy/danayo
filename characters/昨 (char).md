@@ -54,7 +54,7 @@ boundedness: 65
 - <ruby>[[昨年]]<rt>ㄐㄚㄎㄋㄝㄋ</rt></ruby> "last year"
 - <ruby>[[昨週]]<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby> "last week"
 - <ruby>[[昨世紀]]<rt>ㄐㄚㄎㄙㄝㄍㄧ</rt></ruby> "last century"
-- <ruby>[[昨月]]<rt>ㄐㄚㄎ⼔ㄊ</rt></ruby> "last month"
+- <ruby>[[昨月]]<rt>ㄐㄚㄎ·⼔ㄊ</rt></ruby> "last month"
 
 ## Derived Characters
 - <ruby>[[詐]]<rt>ㄐㄚ</rt></ruby> "to defraud"

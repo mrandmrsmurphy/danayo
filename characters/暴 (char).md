@@ -56,7 +56,7 @@ boundedness: 90
 - <ruby>[[暴風]]<rt>ㄅㄛㄎㄈㄨㄫ</rt></ruby> "windstorm, violent storm, gale"
 - <ruby>[[暴政]]<rt>ㄅㄛㄎㄐㄧㄫ</rt></ruby> "tyranny, despotism"
 - <ruby>[[暴食]]<rt>ㄅㄛㄎㄙㄧㄎ</rt></ruby> "gluttonize, overeat, binge"
-- <ruby>[[暴飲]]<rt>ㄅㄛㄎㄨㄇ</rt></ruby> "binge drink"
+- <ruby>[[暴飲]]<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby> "binge drink"
 - <ruby>[[暴徒]]<rt>ㄅㄛㄎㄉㄛ</rt></ruby> "mob, riot"
 - <ruby>[[暴怒]]<rt>ㄅㄛㄎㄋㄛ</rt></ruby> "rage"
 

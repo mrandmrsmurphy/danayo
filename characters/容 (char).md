@@ -67,7 +67,7 @@ boundedness: 90
 - <ruby>[[形容詞]]<rt>ㄏㄝㄫ⼄ㄫㄙㄚ</rt></ruby> "adjective"
 
 ## Chengyu
-- <ruby>[[異体不容]]<rt>ㄧㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"
+- <ruby>[[異体不容]]<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"
 - <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "The lexicon is capable of inclusion"
 
 ## Derived Characters

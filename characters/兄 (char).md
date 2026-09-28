@@ -54,7 +54,7 @@ Reduplication for the diminutive suppletes to [[哥哥]] rather than doubling �
 ## Words
 - <ruby>[[兄]]<rt>ㄏ⼄ㄫ</rt></ruby> "older brother" (stand-in for 兄)
 - <ruby>[[兄弟]]<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby> "brothers, brotherhood"
-- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
+- <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby> "siblings, brothers and sisters"
 - <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
 - <ruby>[[従兄]]<rt>ㄐㄛㄫㄏ⼄ㄫ</rt></ruby> "older male cousin"
 - <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"

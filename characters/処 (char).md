@@ -55,8 +55,8 @@ boundedness: 65
 ## Words
 - <ruby>[[処]]<rt>ㄑㄛ</rt></ruby> "place"
 - <ruby>[[一処]]<rt>ㄧㄊㄑㄛ</rt></ruby> "in one place, together"
-- <ruby>[[処女]]<rt>ㄑㄛㄋㄜ</rt></ruby> "virgin, maiden"
-- <ruby>[[処決]]<rt>ㄑㄛㄎ⼔ㄊ</rt></ruby> "handle, resolve, execute"
+- <ruby>[[処女]]<rt>ㄑㄛ·ㄋㄜ</rt></ruby> "virgin, maiden"
+- <ruby>[[処決]]<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby> "handle, resolve, execute"
 - <ruby>[[処分]]<rt>ㄑㄛㄅㄨㄋ</rt></ruby> "punish, discipline"
 - <ruby>[[処格]]<rt>ㄑㄛㄍㄚㄎ</rt></ruby> "locative case"
 - <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby> "where"

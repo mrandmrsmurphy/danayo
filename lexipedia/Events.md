@@ -64,7 +64,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 
 ### Engagement & Activity
 
-- <ruby>[作用](../words/作用.md)<rt>ㄐㄚㄎ⼄ㄫ</rt></ruby>: to act upon, affect.
+- <ruby>[作用](../words/作用.md)<rt>ㄐㄚㄎ·⼄ㄫ</rt></ruby>: to act upon, affect.
 - <ruby>[積極](../words/積極.md)<rt>ㄐㄝㄎㄍㄧㄎ</rt></ruby>: positive, active, dynamic.
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: to equip, finish, provide; equipment.
 - <ruby>[誠意](../words/誠意.md)<rt>ㄙㄧㄫㄜ</rt></ruby>: to act in good faith, do sincerely.
@@ -74,7 +74,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 ### Development & Topic
 
 - <ruby>[発展](../words/発展.md)<rt>ㄈㄚㄊㄐㄝㄋ</rt></ruby>: to develop.
-- <ruby>[主題](../words/主題.md)<rt>ㄐㄨㄊㄝㄧ</rt></ruby>: a topic, theme, subject, motif.
+- <ruby>[主題](../words/主題.md)<rt>ㄐㄨ·ㄊㄝㄧ</rt></ruby>: a topic, theme, subject, motif.
 - <ruby>[癖](../words/癖.md)<rt>ㄆㄝㄎ</rt></ruby>: an idiosyncrasy, a habit — a narrower, more personal sense than [[習慣]].
 
 ### Not Yet Coined

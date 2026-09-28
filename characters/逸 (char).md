@@ -59,6 +59,6 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[逸]]<rt>ㄧㄊ</rt></ruby> "flee, escape" (stand-in for 逸)
-- <ruby>[[安逸]]<rt>ㄚㄋㄧㄊ</rt></ruby> "ease, comfort"
+- <ruby>[[安逸]]<rt>ㄚㄋ·ㄧㄊ</rt></ruby> "ease, comfort"
 - <ruby>[[逸話]]<rt>ㄧㄊㄏ⺢ㄧ</rt></ruby> "anecdote"
 - <ruby>[[逸事]]<rt>ㄧㄊㄐㄧ</rt></ruby> "anecdote"

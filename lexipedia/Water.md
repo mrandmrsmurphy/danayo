@@ -27,7 +27,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[蒸](../words/蒸.md)<rt>ㄐㄧㄫ</rt></ruby>: to steam — the verb counterpart of [[蒸汽]] above.
 - <ruby>[波浪](../words/波浪.md)<rt>ㄅㄚㄌㄚㄫ</rt></ruby>: wave(s), undulation.
   - **Note**: [[波]] ("wave") is likewise a bound character, legitimized only by this compound; 波浪 leans toward the plural/generic "waves, undulation" rather than "a single wave."
-- <ruby>[注入](../words/注入.md)<rt>ㄐㄨㄋㄧㄆ</rt></ruby>: to pour (into).
+- <ruby>[注入](../words/注入.md)<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby>: to pour (into).
 - <ruby>[汲](../words/汲.md)<rt>ㄎㄨㄆ</rt></ruby>: to draw water.
 - <ruby>[没](../words/没.md)<rt>ㄇㄛㄊ</rt></ruby>: to drown, to sink.
 - <ruby>[堰堤](../words/堰堤.md)<rt>ㄝㄋㄙㄝ</rt></ruby>: dam.
@@ -101,7 +101,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[船尾](../words/船尾.md)<rt>ㄙ⼔ㄇㄇㄨㄧ</rt></ruby>: stern.
 - <ruby>[舵](../words/舵.md)<rt>ㄉㄚ</rt></ruby>: rudder, helm.
 - <ruby>[停泊](../words/停泊.md)<rt>ㄉㄝㄫㄅㄚㄎ</rt></ruby>: to anchor, to berth.
-- <ruby>[埠頭](../words/埠頭.md)<rt>ㄅㄨㄊㄛㄨ</rt></ruby>: dock, pier, wharf, quay.
+- <ruby>[埠頭](../words/埠頭.md)<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby>: dock, pier, wharf, quay.
 - <ruby>[乗船](../words/乗船.md)<rt>ㄙㄨㄫㄙ⼔ㄇ</rt></ruby>: to board a ship, to embark.
 - <ruby>[艇](../words/艇.md)<rt>ㄉㄝㄫ</rt></ruby>: a dinghy, rowboat, or small craft in general (also the base of 潜水艇, "submarine").
 - <ruby>[小舟](../words/小舟.md)<rt>ㄙㄛㄐㄨ</rt></ruby>: a small boat, skiff, or dinghy specifically for rivers and lakes.

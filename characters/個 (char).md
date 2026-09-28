@@ -54,5 +54,5 @@ boundedness: 35
 
 ## Words
 - <ruby>[[個]]<rt>ㄍㄜ</rt></ruby> "individual" (stand-in for 個)
-- <ruby>[[個人]]<rt>ㄍㄜㄋㄧㄋ</rt></ruby> "individual"
+- <ruby>[[個人]]<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby> "individual"
 - <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"

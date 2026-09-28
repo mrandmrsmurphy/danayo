@@ -51,9 +51,9 @@ boundedness: 75
 
 ## Words
 - <ruby>[[可]]<rt>ㄎㄜ</rt></ruby> "can; may" (stand-in for 可)
-- <ruby>[[可能]]<rt>ㄎㄜㄋㄜㄫ</rt></ruby> "possible; may; might"
+- <ruby>[[可能]]<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby> "possible; may; might"
 - <ruby>[[不可]]<rt>ㄅㄛㄊㄎㄜ</rt></ruby> "cannot"
-- <ruby>[[許可]]<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission; authorization"
+- <ruby>[[許可]]<rt>ㄏ⼄·ㄎㄜ</rt></ruby> "permission; authorization"
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
 - <ruby>[[可愛]]<rt>ㄎㄜ·ㄚㄧ</rt></ruby> "cute"

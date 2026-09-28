@@ -60,7 +60,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[許]]<rt>ㄏ⼄</rt></ruby> "permit, allow" (stand-in for 許)
-- <ruby>[[許可]]<rt>ㄏ⼄ㄎㄜ</rt></ruby> "permission; authorization"
+- <ruby>[[許可]]<rt>ㄏ⼄·ㄎㄜ</rt></ruby> "permission; authorization"
 - <ruby>[[准許]]<rt>ㄐㄨㄋㄏ⼄</rt></ruby> "allow; permit"
 - <ruby>[[允許]]<rt>⼜ㄋㄏ⼄</rt></ruby> "grant; allow"
 - <ruby>[[不許]]<rt>ㄅㄛㄊㄏ⼄</rt></ruby> "forbid"

@@ -73,18 +73,18 @@ boundedness: 80
 - <ruby>[[大水]]<rt>ㄙㄚㄧㄙㄨ</rt></ruby> "flood"
 - <ruby>[[水田]]<rt>ㄙㄨㄉㄝㄋ</rt></ruby> "rice paddy; paddy field"
 - <ruby>[[水原]]<rt>ㄙㄨ⼔ㄋ</rt></ruby> "Suwon; Mizuhara"
-- <ruby>[[水牛]]<rt>ㄙㄨㄋ⼜</rt></ruby> "water buffalo"
+- <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"
 - <ruby>[[水晶]]<rt>ㄙㄨㄐㄧㄫ</rt></ruby> "rock crystal; quartz crystal"
 - <ruby>[[水銀]]<rt>ㄙㄨ·ㄧㄋ</rt></ruby> "quicksilver; mercury"
 - <ruby>[[水曜日]]<rt>ㄙㄨ·⼄ㄨㄋㄧㄊ</rt></ruby> "Wednesday"
 - <ruby>[[界水]]<rt>ㄍ⼶ㄙㄨ</rt></ruby> "water boundary"
 - <ruby>[[水稲]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "rice grown in a paddy"
 - <ruby>[[洪水]]<rt>ㄏㄛㄫㄙㄨ</rt></ruby> "flood"
-- <ruby>[[水面]]<rt>ㄙㄨㄇ⼶ㄋ</rt></ruby> "water surface"
+- <ruby>[[水面]]<rt>ㄙㄨ·ㄇ⼶ㄋ</rt></ruby> "water surface"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"
-- <ruby>[[一衣帯水]]<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
+- <ruby>[[一衣帯水]]<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"
 - <ruby>[[落花流水]]<rt>ㄌㄚㄎㄏ⺢ㄌ⼜ㄙㄨ</rt></ruby> "scattered like fallen blossoms swept away by the current"
 - <ruby>[[鏡花水月]]<rt>ㄍㄫㄏ⺢ㄙㄨ·⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"
 

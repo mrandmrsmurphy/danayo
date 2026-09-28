@@ -54,8 +54,8 @@ boundedness: 90
 - <ruby>[[暗示]]<rt>ㄚㄇㄍㄝ</rt></ruby> "suggest; hint"
 - <ruby>[[暗殺]]<rt>ㄚㄇㄙㄚㄊ</rt></ruby> "assassinate; murder"
 - <ruby>[[暗中]]<rt>ㄚㄇㄐㄨㄫ</rt></ruby> "in the dark; secretly; covertly"
-- <ruby>[[暗暗]]<rt>ㄚㄇㄚㄇ</rt></ruby> "secretly; inwardly"
-- <ruby>[[暗影]]<rt>ㄚㄇ⼶ㄫ</rt></ruby> "shadow; gloom; umbra"
+- <ruby>[[暗暗]]<rt>ㄚㄇ·ㄚㄇ</rt></ruby> "secretly; inwardly"
+- <ruby>[[暗影]]<rt>ㄚㄇ·⼶ㄫ</rt></ruby> "shadow; gloom; umbra"
 - <ruby>[[暗礁]]<rt>ㄚㄇㄐㄚㄨ</rt></ruby> "submerged reef; hidden obstacle"
 
 ## Chengyu

@@ -63,4 +63,4 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"
-- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎㄧㄫ</rt></ruby> "adaptation to modern speech"
+- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation to modern speech"

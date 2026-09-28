@@ -56,4 +56,4 @@ boundedness: 75
 - <ruby>[[余割]]<rt>⼄ㄍㄚㄊ</rt></ruby> "cosecant"
 - <ruby>[[正割]]<rt>ㄐㄧㄫㄍㄚㄊ</rt></ruby> "secant"
 - <ruby>[[割包皮]]<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby> "circumcision"
-- <ruby>[[割引]]<rt>ㄍㄚㄊㄧㄋ</rt></ruby> "discount"
+- <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"

@@ -52,4 +52,4 @@ date-last-perfect: 2026-07-31
 - <ruby>[[信条]]<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "creed"
 - <ruby>[[条件]]<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby> "condition, prerequisite"
 - <ruby>[[条約]]<rt>ㄐㄛ⼘ㄎ</rt></ruby> "pact, treaty"
-- <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛㄎㄧ</rt></ruby> "stars and stripes"
+- <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛ·ㄎㄧ</rt></ruby> "stars and stripes"

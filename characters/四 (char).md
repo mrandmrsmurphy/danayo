@@ -72,7 +72,7 @@ boundedness: 75
 - <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧ·ㄧㄊ</rt></ruby> "quarter, fourth"
 - <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> "four-character idiom"
 - <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄·ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
-- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> "surrounded by the singing of Chu"

@@ -61,5 +61,5 @@ boundedness: 90
 - <ruby>[[乗車]]<rt>ㄙㄨㄫㄑ⺢</rt></ruby> "board a vehicle; get on"
 - <ruby>[[洗車]]<rt>ㄙㄝㄋㄑ⺢</rt></ruby> "wash a car"
 - <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "hwacha; fire chariot"
-- <ruby>[[車庫]]<rt>ㄑ⺢ㄎㄛ</rt></ruby> "garage"
+- <ruby>[[車庫]]<rt>ㄑ⺢·ㄎㄛ</rt></ruby> "garage"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"

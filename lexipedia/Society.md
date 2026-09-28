@@ -24,7 +24,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[一処](../words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby>: together, in one place.
 - <ruby>[公共](../words/公共.md)<rt>ㄍㄛㄫㄍ⼄ㄫ</rt></ruby>: public, communal.
 - <ruby>[会](../words/会.md)<rt>ㄏ⼔</rt></ruby>: to meet, gather.
-- <ruby>[有名](../words/有名.md)<rt>⼜ㄇㄧㄫ</rt></ruby>: famous.
+- <ruby>[有名](../words/有名.md)<rt>⼜·ㄇㄧㄫ</rt></ruby>: famous.
 - <ruby>[利益](../words/利益.md)<rt>ㄌㄧㄜㄝㄎ</rt></ruby>: benefit, advantage.
 
 ## Intermediate (B1–B2)
@@ -39,7 +39,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[系統](../words/系統.md)<rt>ㄏㄝㄧㄊㄛㄫ</rt></ruby>: system, organization.
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit.
 - <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to join, participate.
-- <ruby>[加入](../words/加入.md)<rt>ㄍㄚㄋㄧㄆ</rt></ruby>: to join, enroll (as a member) — a near-synonym of [[参加]].
+- <ruby>[加入](../words/加入.md)<rt>ㄍㄚ·ㄋㄧㄆ</rt></ruby>: to join, enroll (as a member) — a near-synonym of [[参加]].
 
 ### Civilization & Tradition
 
@@ -75,7 +75,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Status, Rank & Civic Standing
 
 - <ruby>[公民](../words/公民.md)<rt>ㄍㄛㄫㄇㄧㄋ</rt></ruby>: citizen, civics.
-- <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
+- <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄·ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
 - <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
 - <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
@@ -92,7 +92,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
-- <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
+- <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
 - <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
@@ -101,7 +101,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 ### Trust, Respect & Esteem
 
-- <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ⼄ㄫ</rt></ruby>: to trust, believe, rely on.
+- <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>: to trust, believe, rely on.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
 - <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.
@@ -115,7 +115,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
 - <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
 - <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
-- <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛㄇㄨ</rt></ruby>: to encourage, cheer, inspire — literally "to drum and dance." Rosenfelder's "inspire."
+- <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛ·ㄇㄨ</rt></ruby>: to encourage, cheer, inspire — literally "to drum and dance." Rosenfelder's "inspire."
 
 ### Assistance & Support
 
@@ -141,12 +141,12 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[信徒](../words/信徒.md)<rt>ㄙㄧㄋㄉㄛ</rt></ruby>: a disciple, believer (of a religion).
 - <ruby>[侍者](../words/侍者.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: an attendant, servant, valet.
 - <ruby>[従者](../words/従者.md)<rt>ㄐㄛㄫㄑㄚ</rt></ruby>: an attendant, follower, retainer.
-- <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧㄋㄜ</rt></ruby>: a servant girl, maidservant.
+- <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, maidservant.
 - <ruby>[陪](../words/陪.md)<rt>ㄅㄛㄧ</rt></ruby>: to accompany, be with, keep company.
 
 ### Hosting, Meeting & Invitation
 
-- <ruby>[主人](../words/主人.md)<rt>ㄐㄨㄋㄧㄋ</rt></ruby>: host, owner, master, proprietor.
+- <ruby>[主人](../words/主人.md)<rt>ㄐㄨ·ㄋㄧㄋ</rt></ruby>: host, owner, master, proprietor.
 - <ruby>[来賓](../words/来賓.md)<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby>: guest, visitor (at an event).
 - <ruby>[遇](../words/遇.md)<rt>ㄨ</rt></ruby>: to meet, encounter, come across.
 - <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, invite, request, please.
@@ -165,7 +165,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 ### Shame & Disgrace
 
-- <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧㄋㄛㄎ</rt></ruby>: disgrace, shame.
+- <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧ·ㄋㄛㄎ</rt></ruby>: disgrace, shame.
 - <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
 - <ruby>[羞恥](../words/羞恥.md)<rt>ㄙㄨㄛㄑㄧ</rt></ruby>: shame.
 - <ruby>[過失](../words/過失.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: a fault, error, slip, mistake, act of negligence — Rosenfelder's "faux pas."
@@ -175,7 +175,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the Cynic school) with no single native CJKV equivalent — approximated here with three related but distinct real words rather than one. See Semantic Range Notes.
 
 - <ruby>[冷笑](../words/冷笑.md)<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby>: to sneer, to laugh coldly — the action itself.
-- <ruby>[皮肉](../words/皮肉.md)<rt>ㄅㄧㄋㄨㄎ</rt></ruby>: irony, sarcasm, shallow criticism — the mode of speech. The worldview itself is named by the chengyu [[玩世不恭]] — see Idiomatic uses below.
+- <ruby>[皮肉](../words/皮肉.md)<rt>ㄅㄧ·ㄋㄨㄎ</rt></ruby>: irony, sarcasm, shallow criticism — the mode of speech. The worldview itself is named by the chengyu [[玩世不恭]] — see Idiomatic uses below.
 
 ### Agreement & Proposal
 
@@ -216,7 +216,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
 - <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.
 - <ruby>[傀儡](../words/傀儡.md)<rt>ㄎㄛㄧㄌㄛㄧ</rt></ruby>: a puppet.
-- <ruby>[木偶](../words/木偶.md)<rt>ㄇㄛㄎㄛㄨ</rt></ruby>: a puppet, marionette (the physical object specifically).
+- <ruby>[木偶](../words/木偶.md)<rt>ㄇㄛㄎ·ㄛㄨ</rt></ruby>: a puppet, marionette (the physical object specifically).
 - <ruby>[運動家](../words/運動家.md)<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>: an athlete. See Semantic Range Notes.
 - <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to award, confer, grant. See Semantic Range Notes.
 - <ruby>[牌](../words/牌.md)<rt>ㄅㄚㄧ</rt></ruby>: a playing card, tile.
@@ -233,8 +233,8 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[乞](../words/乞.md)<rt>ㄎㄧㄊ</rt></ruby>: to beg.
 - <ruby>[乞丐](../words/乞丐.md)<rt>ㄎㄧㄊㄍㄚㄧ</rt></ruby>: a beggar.
 - <ruby>[医生](../words/医生.md)<rt>ㄜㄙㄚㄫ</rt></ruby>: a doctor, physician.
-- <ruby>[耳目](../words/耳目.md)<rt>ㄋㄧㄇㄨㄎ</rt></ruby>: eyes and ears; snoops, spies (figurative).
-- <ruby>[花魁](../words/花魁.md)<rt>ㄏ⺢ㄎㄛㄧ</rt></ruby>: an oiran, leading courtesan (historical Japanese role).
+- <ruby>[耳目](../words/耳目.md)<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby>: eyes and ears; snoops, spies (figurative).
+- <ruby>[花魁](../words/花魁.md)<rt>ㄏ⺢·ㄎㄛㄧ</rt></ruby>: an oiran, leading courtesan (historical Japanese role).
 - <ruby>[跆籍](../words/跆籍.md)<rt>ㄊㄛㄧㄐㄝㄎ</rt></ruby>: Taekwondo registration, martial arts membership record.
 - <ruby>[援交](../words/援交.md)<rt>ㄛㄋㄍ⼄ㄨ</rt></ruby>: school-girl prostitution (a Japanese-origin sociological term, short for 援助交際).
 

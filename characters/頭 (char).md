@@ -54,11 +54,11 @@ boundedness: 100
 - <ruby>[[頭]]<rt>ㄊㄛㄨ</rt></ruby> "head" (stand-in for 頭)
 - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> "stone; rock"
 - <ruby>[[頭髪]]<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby> "head hair"
-- <ruby>[[埠頭]]<rt>ㄅㄨㄊㄛㄨ</rt></ruby> "pier; wharf"
+- <ruby>[[埠頭]]<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby> "pier; wharf"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨ·ㄨㄫ</rt></ruby> "white-haired old man; grey starling"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
 - <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
-- <ruby>[[乳頭]]<rt>ㄋㄨㄊㄛㄨ</rt></ruby> "nipple"
+- <ruby>[[乳頭]]<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby> "nipple"
 - <ruby>[[額頭]]<rt>ㄚㄎㄊㄛㄨ</rt></ruby> "forehead; plaque"
 - <ruby>[[饅頭]]<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby> "steamed bun"
 - <ruby>[[亀頭]]<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby> "glans penis"
@@ -73,6 +73,6 @@ boundedness: 100
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
 - <ruby>[[澈頭澈尾]]<rt>ㄐㄝㄊㄊㄛㄨㄐㄝㄊㄇㄨㄧ</rt></ruby> "through and through; right down the line; from head to toe"
-- <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
+- <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"

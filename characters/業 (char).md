@@ -52,7 +52,7 @@ boundedness: 100
 ## Words
 - <ruby>[[企業]]<rt>ㄎㄝㄝㄆ</rt></ruby> "enterprise, firm"
 - <ruby>[[工業]]<rt>ㄍㄛㄫㄝㄆ</rt></ruby> "industry"
-- <ruby>[[作業]]<rt>ㄐㄚㄎㄝㄆ</rt></ruby> "work; operate; task"
+- <ruby>[[作業]]<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby> "work; operate; task"
 - <ruby>[[業業]]<rt>ㄝㄆㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideophone)
 - <ruby>[[漁業]]<rt>⼄ㄝㄆ</rt></ruby> "fishing industry, fishery"
 - <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"

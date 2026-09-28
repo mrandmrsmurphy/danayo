@@ -56,12 +56,12 @@ boundedness: 70
 - <ruby>[[入籍]]<rt>ㄋㄧㄆㄐㄝㄎ</rt></ruby> "enter"
 - <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
 - <ruby>[[入場]]<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby> "enter a venue"
-- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛㄋㄧㄆ</rt></ruby> "rounding"
+- <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘·ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 - <ruby>[[闖入]]<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby> "to break into; to intrude"
 - <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
 - <ruby>[[滲入]]<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby> "seep into"
 
-- <ruby>[[加入]]<rt>ㄍㄚㄋㄧㄆ</rt></ruby> "add in, joining"
+- <ruby>[[加入]]<rt>ㄍㄚ·ㄋㄧㄆ</rt></ruby> "add in, joining"
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

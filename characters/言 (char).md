@@ -62,7 +62,7 @@ boundedness: 80
 - <ruby>[[言語]]<rt>ㄝㄋ·⼄</rt></ruby> "language"
 - <ruby>[[巧言]]<rt>ㄎ⼘ㄨㄝㄋ</rt></ruby> "flattery; clever but deceptive talk"
 - <ruby>[[体言]]<rt>ㄊㄝㄧ·ㄝㄋ</rt></ruby> "indeclinable word"
-- <ruby>[[宣言]]<rt>ㄙㄝㄋㄝㄋ</rt></ruby> "proclaim; manifesto"
+- <ruby>[[宣言]]<rt>ㄙㄝㄋ·ㄝㄋ</rt></ruby> "proclaim; manifesto"
 - <ruby>[[証言]]<rt>ㄐㄧㄫ·ㄝㄋ</rt></ruby> "testify"
 - <ruby>[[流言]]<rt>ㄌ⼜ㄝㄋ</rt></ruby> "spread rumors; gossip"
 - <ruby>[[方言]]<rt>ㄆㄚㄫ·ㄝㄋ</rt></ruby> "dialect"

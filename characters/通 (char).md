@@ -61,9 +61,9 @@ boundedness: 90
 - <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby> "traffic; transportation"
 - <ruby>[[亨通]]<rt>ㄏㄚㄫㄊㄛㄫ</rt></ruby> "to prosper; go well"
 - <ruby>[[共通]]<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby> "common; shared"
-- <ruby>[[普通]]<rt>ㄆㄛㄊㄛㄫ</rt></ruby> "ordinary; plain; average"
+- <ruby>[[普通]]<rt>ㄆㄛ·ㄊㄛㄫ</rt></ruby> "ordinary; plain; average"
 - <ruby>[[通知]]<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby> "to notify; inform"
-- <ruby>[[普通話]]<rt>ㄆㄛㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
+- <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
 
 ## Chengyu
 - <ruby>[[東亜自通]]<rt>ㄉㄛㄫ·ㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> "East Asian self-communication"

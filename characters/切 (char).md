@@ -60,4 +60,4 @@ boundedness: 75
 - <ruby>[[締切]]<rt>ㄊㄝㄧㄑㄝㄊ</rt></ruby> "deadline, closing date"
 - <ruby>[[反切]]<rt>ㄈㄛㄋㄑㄝㄊ</rt></ruby> "fanqie"
 ## Chengyu
-- <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"
+- <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"

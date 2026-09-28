@@ -50,7 +50,7 @@ Love vocabulary covers romantic and affectionate love — distinct from the fami
 Four independently attested near-synonyms, differing mainly by register rather than denotation — see Semantic Range Notes.
 
 - <ruby>[仇恨](../words/仇恨.md)<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby>: hatred, enmity, grudge — the nominal, often long-standing register.
-- <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇㄚㄎ</rt></ruby>: hatred, aversion, loathing — disgust-flavored.
+- <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇ·ㄚㄎ</rt></ruby>: hatred, aversion, loathing — disgust-flavored.
 - <ruby>[憎悪](../words/憎悪.md)<rt>ㄐㄜㄫㄚㄎ</rt></ruby>: to hate, to loathe — close synonym of 嫌悪 above.
 
 ### Dating & Secrecy

@@ -54,7 +54,7 @@ boundedness:
 ## Words
 - <ruby>[[悪]]<rt>ㄚㄎ</rt></ruby> "bad, evil" (stand-in for 悪)
 - <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> "heinous; atrocious"
-- <ruby>[[嫌悪]]<rt>ㄏㄝㄇㄚㄎ</rt></ruby> "hatred; aversion"
+- <ruby>[[嫌悪]]<rt>ㄏㄝㄇ·ㄚㄎ</rt></ruby> "hatred; aversion"
 - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby> "hate, loathe"
 - <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby> "ugly, homely"
 - <ruby>[[悪心]]<rt>ㄚㄎㄙㄧㄇ</rt></ruby> "nauseated, nauseous"

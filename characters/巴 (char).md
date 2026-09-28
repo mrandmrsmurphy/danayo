@@ -50,7 +50,7 @@ date-last-perfect: 2026-08-15
 
 ## Words
 - <ruby>[[巴]]<rt>ㄆㄚ</rt></ruby> "tomoe"
-- <ruby>[[巴基斯坦]]<rt>ㄆㄚㄍㄧㄙㄧㄊㄚㄋ</rt></ruby> "Pakistan"
+- <ruby>[[巴基斯坦]]<rt>ㄆㄚㄍㄧㄙㄧ·ㄊㄚㄋ</rt></ruby> "Pakistan"
 
 ## Derived Characters
 - <ruby>[[把]]<rt>ㄅㄚ</rt></ruby> "grip; handle"

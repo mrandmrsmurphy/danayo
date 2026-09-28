@@ -54,7 +54,7 @@ boundedness: 80
 ## Words
 - <ruby>[[之]]<rt>ㄊㄧ</rt></ruby> "of; genitive marker" (stand-in for 之)
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
-- <ruby>[[謂之]]<rt>ㄨㄧㄊㄧ</rt></ruby> "to name, to call, to designate"
+- <ruby>[[謂之]]<rt>ㄨㄧ·ㄊㄧ</rt></ruby> "to name, to call, to designate"
 - <ruby>[[代表之]]<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby> "on behalf of"
 - <ruby>[[之間]]<rt>ㄊㄧㄍㄚㄋ</rt></ruby> "between"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"

@@ -55,4 +55,4 @@ date-last-perfect: 2026-08-09
 - <ruby>[[坑道]]<rt>ㄎㄚㄫㄉㄚㄨ</rt></ruby> "tunnel"
 
 ## Chengyu
-- <ruby>[[焚書坑儒]]<rt>ㄅㄨㄋㄙ⼄ㄎㄚㄫㄋㄨ</rt></ruby> "the burning of books and burial of scholars; ideological repression and the destruction of intellectual culture"
+- <ruby>[[焚書坑儒]]<rt>ㄅㄨㄋㄙ⼄·ㄎㄚㄫㄋㄨ</rt></ruby> "the burning of books and burial of scholars; ideological repression and the destruction of intellectual culture"

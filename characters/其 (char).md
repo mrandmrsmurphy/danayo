@@ -56,11 +56,11 @@ boundedness: 90
 
 ## Words
 - <ruby>[[其]]<rt>ㄍㄜ</rt></ruby> "that (middle)"
-- <ruby>[[其人]]<rt>ㄍㄜㄋㄧㄋ</rt></ruby> "he; she; they (singular); that person"
-- <ruby>[[其名]]<rt>ㄍㄜㄇㄧㄫ</rt></ruby> "he (polite); she (polite); that person (polite)"
-- <ruby>[[其人等]]<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby> "they"
+- <ruby>[[其人]]<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby> "he; she; they (singular); that person"
+- <ruby>[[其名]]<rt>ㄍㄜ·ㄇㄧㄫ</rt></ruby> "he (polite); she (polite); that person (polite)"
+- <ruby>[[其人等]]<rt>ㄍㄜ·ㄋㄧㄋㄉㄨㄫ</rt></ruby> "they"
 - <ruby>[[其事]]<rt>ㄍㄜㄐㄧ</rt></ruby> "that act; that matter"
-- <ruby>[[其物]]<rt>ㄍㄜㄇㄨㄊ</rt></ruby> "that thing; that object"
+- <ruby>[[其物]]<rt>ㄍㄜ·ㄇㄨㄊ</rt></ruby> "that thing; that object"
 - <ruby>[[其類]]<rt>ㄍㄜㄌㄨㄧ</rt></ruby> "that kind; that sort"
 - <ruby>[[其多]]<rt>ㄍㄜㄉㄜ</rt></ruby> "that much; that many"
 - <ruby>[[其様]]<rt>ㄍㄜ⼘ㄫ</rt></ruby> "that way; in that manner"

@@ -43,7 +43,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 A deliberately coined epistemic-modality gradient — see Semantic Range Notes for the full writeup, including a genuine homophone pair this cluster surfaced.
 
 - <ruby>[確実](../words/確実.md)<rt>ㄎㄚㄎㄙㄧㄊ</rt></ruby>: certain, true, reliable; also "sure."
-- <ruby>[可能](../words/可能.md)<rt>ㄎㄜㄋㄜㄫ</rt></ruby>: possible, may, might, perhaps.
+- <ruby>[可能](../words/可能.md)<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>: possible, may, might, perhaps.
 - <ruby>[或然](../words/或然.md)<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby>: probable, contingent — pairs with [[必然]] "necessary" the way classical logic contrasts the two.
 - <ruby>[蓋然](../words/蓋然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: highly probable, likely, plausible.
 - <ruby>[概然](../words/概然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: generally so, roughly true, broadly speaking — contrasts with "certain" above by degree of approximation, not likelihood.
@@ -99,7 +99,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[高校](../words/高校.md)<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby>: secondary school.
 - <ruby>[高考](../words/高考.md)<rt>ㄍㄚㄨㄎㄚㄨ</rt></ruby>: the higher exam (China's national university-entrance exam).
 - <ruby>[幼稚園](../words/幼稚園.md)<rt>⼜ㄛㄉㄧㄜ·ㄛㄋ</rt></ruby>: kindergarten, nursery school.
-- <ruby>[学位](../words/学位.md)<rt>ㄏㄚㄎ⼔ㄧ</rt></ruby>: academic degree.
+- <ruby>[学位](../words/学位.md)<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby>: academic degree.
 - <ruby>[学問](../words/学問.md)<rt>ㄏㄚㄎㄇㄨㄋ</rt></ruby>: scholarship, learning.
 - <ruby>[学者](../words/学者.md)<rt>ㄏㄚㄎㄑㄚ</rt></ruby>: scholar.
 - <ruby>[生徒](../words/生徒.md)<rt>ㄙㄚㄫㄉㄛ</rt></ruby>: pupil, student.

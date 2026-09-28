@@ -61,7 +61,7 @@ date-last-perfect: 2026-09-16
 
 ## Words
 - <ruby>[[沙]]<rt>ㄙㄚ</rt></ruby> "sand; gravel; pebbles" (stand-in for 沙)
-- <ruby>[[沙漠]]<rt>ㄙㄚㄇㄚㄎ</rt></ruby> "desert"
+- <ruby>[[沙漠]]<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby> "desert"
 - <ruby>[[黄沙]]<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby> "yellow sand; Asian dust"
 - <ruby>[[丹沙]]<rt>ㄉㄚㄋㄙㄚ</rt></ruby> "cinnabar"
 - <ruby>[[朱沙]]<rt>ㄐㄨㄙㄚ</rt></ruby> "cinnabar"

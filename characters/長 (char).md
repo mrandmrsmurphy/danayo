@@ -76,7 +76,7 @@ boundedness: 75
 - <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
 
 ## Chengyu
-- <ruby>[[意味深長]]<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"
+- <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
 - <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"

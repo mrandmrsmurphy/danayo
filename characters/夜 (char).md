@@ -52,8 +52,8 @@ boundedness: 65
 
 ## Words
 - <ruby>[[夜]]<rt>⼘</rt></ruby> "night" (stand-in for 夜)
-- <ruby>[[今夜]]<rt>ㄍㄧㄇ⼘</rt></ruby> "tonight"
-- <ruby>[[今夜安]]<rt>ㄍㄧㄇ⼘ㄚㄋ</rt></ruby> "good night"
+- <ruby>[[今夜]]<rt>ㄍㄧㄇ·⼘</rt></ruby> "tonight"
+- <ruby>[[今夜安]]<rt>ㄍㄧㄇ·⼘ㄚㄋ</rt></ruby> "good night"
 - <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby> "midnight"
 - <ruby>[[夜叉]]<rt>⼘ㄑㄚㄧ</rt></ruby> "yaksha; fierce demon"
 - <ruby>[[昼夜]]<rt>ㄐㄨㄛ⼘</rt></ruby> "day and night"

@@ -54,4 +54,4 @@ date-last-perfect: 2026-08-09
 
 ## Words
 - <ruby>[[粘]]<rt>ㄋㄝㄇ</rt></ruby> "sticky" (stand-in for 粘)
-- <ruby>[[粘液]]<rt>ㄋㄝㄇ⼶ㄎ</rt></ruby> "mucus"
+- <ruby>[[粘液]]<rt>ㄋㄝㄇ·⼶ㄎ</rt></ruby> "mucus"

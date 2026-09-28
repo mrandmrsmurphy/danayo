@@ -54,4 +54,4 @@ date-last-perfect: 2026-08-16
 ## Words
 - <ruby>[[汎]]<rt>ㄈㄚㄇ</rt></ruby> "pan-" (stand-in for 汎 (char); dropped from the Korean HS hanja list in 2000)
 - <ruby>[[汎濫]]<rt>ㄈㄚㄇㄌㄚㄇ</rt></ruby> "flood, overflow"
-- <ruby>[[汎亜]]<rt>ㄈㄚㄇㄚ</rt></ruby> "Pan-Asian"
+- <ruby>[[汎亜]]<rt>ㄈㄚㄇ·ㄚ</rt></ruby> "Pan-Asian"

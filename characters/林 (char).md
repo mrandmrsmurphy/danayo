@@ -52,7 +52,7 @@ boundedness: 40
 
 ## Words
 - <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby> "grove" (stand-in for 林)
-- <ruby>[[林業]]<rt>ㄌㄧㄇㄝㄆ</rt></ruby> "forestry"
+- <ruby>[[林業]]<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby> "forestry"
 - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby> "forest; jungle; underbrush"
 - <ruby>[[林雨]]<rt>ㄌㄧㄇ·ㄨ</rt></ruby> "big rain (alias 霖雨) — long spell of rain, favor from the monarch"
 - <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious" (uses 林 as Dan'a'yo stand-in for its alias 婪)

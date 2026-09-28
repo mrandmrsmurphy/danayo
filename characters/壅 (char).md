@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-13
 
 ## Words
 - [壅](words/壅.md) "obstruct" — 壅 stands alone as a word in Dan'a'yo.
-- <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋㄛㄫㄐㄨㄧ</rt></ruby> "uvula"
+- <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula"

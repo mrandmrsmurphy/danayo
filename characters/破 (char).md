@@ -58,4 +58,4 @@ boundedness: 100
 - <ruby>[[破暁]]<rt>ㄆㄜㄏ⼘ㄨ</rt></ruby> "daybreak"
 
 ## Chengyu
-- <ruby>[[破頭傷足]]<rt>ㄆㄜㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
+- <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"

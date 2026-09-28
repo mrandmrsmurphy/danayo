@@ -59,7 +59,7 @@ date-last-perfect: 2026-09-16
 - <ruby>[[而]]<rt>ㄋㄧ</rt></ruby> "and, but" (stand-in for 而)
 - <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover, furthermore"
 - <ruby>[[而後]]<rt>ㄋㄧㄏㄨㄛ</rt></ruby> "after that, only then"
-- <ruby>[[故而]]<rt>ㄍㄛㄋㄧ</rt></ruby> "therefore"
+- <ruby>[[故而]]<rt>ㄍㄛ·ㄋㄧ</rt></ruby> "therefore"
 
 ## Chengyu
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"

@@ -18,7 +18,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
 - <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>: empire.
 - <ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby>: administration, government, the executive.
-- <ruby>[許可](../words/許可.md)<rt>ㄏ⼄ㄎㄜ</rt></ruby>: permission, authorization.
+- <ruby>[許可](../words/許可.md)<rt>ㄏ⼄·ㄎㄜ</rt></ruby>: permission, authorization.
 - <ruby>[許](../words/許.md)<rt>ㄏ⼄</rt></ruby>: to permit, allow.
 - <ruby>[禁止](../words/禁止.md)<rt>ㄍㄧㄇㄐㄧ</rt></ruby>: to forbid, prohibit.
 - <ruby>[税金](../words/税金.md)<rt>ㄙㄝㄍㄧㄇ</rt></ruby>: duty, tax.
@@ -40,13 +40,13 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[天皇](../words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>: the Emperor of Japan, Mikado.
 - <ruby>[女皇](../words/女皇.md)<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby>: an empress.
 - <ruby>[大王](../words/大王.md)<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby>: a great king.
-- <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ⼔ㄧ</rt></ruby>: to ascend the throne.
+- <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
 - <ruby>[伯爵](../words/伯爵.md)<rt>ㄅㄚㄎㄐㄚㄎ</rt></ruby>: an earl, count.
 - <ruby>[卿](../words/卿.md)<rt>ㄎ⼶ㄫ</rt></ruby>: a noble, high officer, sir, m'lord.
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).
-- <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ⼔ㄧ</rt></ruby>: a peerage, title of nobility.
+- <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ·⼔ㄧ</rt></ruby>: a peerage, title of nobility.
 - <ruby>[男爵](../words/男爵.md)<rt>ㄋㄚㄇㄐㄚㄎ</rt></ruby>: a baron — the lowest of the Five Ranks of Nobility (五等爵).
 
 ### Officials & Bureaucracy
@@ -83,7 +83,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ### Permission & Prohibition
 
 - <ruby>[允許](../words/允許.md)<rt>⼜ㄋㄏ⼄</rt></ruby>, <ruby>[准許](../words/准許.md)<rt>ㄐㄨㄋㄏ⼄</rt></ruby>: to grant, allow.
-- <ruby>[兪允](../words/兪允.md)<rt>⼜ㄇ⼜ㄋ</rt></ruby>: to consent to, permit (specifically of the emperor).
+- <ruby>[兪允](../words/兪允.md)<rt>⼜ㄇ·⼜ㄋ</rt></ruby>: to consent to, permit (specifically of the emperor).
 - <ruby>[免除](../words/免除.md)<rt>ㄇ⼶ㄋㄐㄝㄧ</rt></ruby>: to excuse, relieve, exempt.
 - <ruby>[厳禁](../words/厳禁.md)<rt>⼄ㄇㄍㄧㄇ</rt></ruby>, <ruby>[禁制](../words/禁制.md)<rt>ㄍㄧㄇㄐㄝㄧ</rt></ruby>: strictly forbidden, prohibited.
 - <ruby>[禁煙](../words/禁煙.md)<rt>ㄍㄧㄇ·ㄝㄋ</rt></ruby>: no smoking, tobacco prohibition.
@@ -113,14 +113,14 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
 - <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust.
-- <ruby>[受託](../words/受託.md)<rt>ㄙ⼜ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.
+- <ruby>[受託](../words/受託.md)<rt>ㄙ⼜·ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.
 - <ruby>[嘱託](../words/嘱託.md)<rt>ㄐㄛㄎㄊㄚㄎ</rt></ruby>: a commission; to entrust, consign.
 
 ### Political Action
 
-- <ruby>[廃黜](../words/廃黜.md)<rt>ㄈㄝㄊㄨㄊ</rt></ruby>: to depose, dethrone, dismiss from office.
+- <ruby>[廃黜](../words/廃黜.md)<rt>ㄈㄝ·ㄊㄨㄊ</rt></ruby>: to depose, dethrone, dismiss from office.
 - <ruby>[弒君](../words/弒君.md)<rt>ㄊㄧㄍㄨㄋ</rt></ruby>: regicide, to assassinate a ruler.
-- <ruby>[辞任](../words/辞任.md)<rt>ㄑㄧㄋㄧㄇ</rt></ruby>: to resign from office.
+- <ruby>[辞任](../words/辞任.md)<rt>ㄑㄧ·ㄋㄧㄇ</rt></ruby>: to resign from office.
 - <ruby>[諌議](../words/諌議.md)<rt>ㄍ⼘ㄋㄜㄧ</rt></ruby>, <ruby>[輔佐](../words/輔佐.md)<rt>ㄅㄨㄐㄚ</rt></ruby>, <ruby>[輔弼](../words/輔弼.md)<rt>ㄅㄨㄅㄧㄊ</rt></ruby>: to remonstrate, admonish, or assist a ruler.
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.

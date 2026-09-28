@@ -76,13 +76,13 @@ boundedness: 100
 - <ruby>[[説明]]<rt>ㄙ⼔ㄊㄇ⼶ㄫ</rt></ruby> "explain; illustrate"
 - <ruby>[[黎明]]<rt>ㄌㄝㄧㄇ⼶ㄫ</rt></ruby> "dawn"
 - <ruby>[[昭明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "shining and bright; luminous"
-- <ruby>[[無明]]<rt>ㄇㄜㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
+- <ruby>[[無明]]<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby> "avidyā; ignorance"
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
 - <ruby>[[孔明]]<rt>ㄎㄛㄫㄇ⼶ㄫ</rt></ruby> "bright; clean"
 - <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> "morning star"
 - <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird" (in place of 鷦明)
 - <ruby>[[明蝦]]<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby> "king prawn"
-- <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
+- <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
 
 ## Chengyu
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"

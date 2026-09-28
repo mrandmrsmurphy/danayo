@@ -23,8 +23,8 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[孤独](../words/孤独.md)<rt>ㄍㄛㄉㄛㄎ</rt></ruby>: lonely, solitary.
 - <ruby>[恨](../words/恨.md)<rt>ㄏㄚㄋ</rt></ruby>: to hate; a grudge.
 - <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>: to entertain, amuse oneself.
-- <ruby>[不安](../words/不安.md)<rt>ㄅㄛㄊㄚㄋ</rt></ruby>: anxiety, unease, insecurity.
-- <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧㄋㄛㄎ</rt></ruby>: disgrace, shame.
+- <ruby>[不安](../words/不安.md)<rt>ㄅㄛㄊ·ㄚㄋ</rt></ruby>: anxiety, unease, insecurity.
+- <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧ·ㄋㄛㄎ</rt></ruby>: disgrace, shame.
 
 ## Intermediate (B1–B2)
 
@@ -51,7 +51,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ### Anger
 
 - <ruby>[怒号](../words/怒号.md)<rt>ㄋㄛㄏㄚㄨ</rt></ruby>: to howl in anger, roar.
-- <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛㄎㄧㄜ</rt></ruby>: anger.
+- <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby>: anger.
 - <ruby>[憤怒](../words/憤怒.md)<rt>ㄅㄨㄋㄋㄛ</rt></ruby>: indignant, angry.
 - <ruby>[憤慨](../words/憤慨.md)<rt>ㄅㄨㄋㄎㄚㄧ</rt></ruby>: indignant, resentful, outraged.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: to anger, enrage.
@@ -70,7 +70,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ### Hatred, Resentment & Jealousy
 
 - <ruby>[仇恨](../words/仇恨.md)<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby>: hatred, enmity, a grudge.
-- <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇㄚㄎ</rt></ruby>: hatred, aversion, loathing.
+- <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇ·ㄚㄎ</rt></ruby>: hatred, aversion, loathing.
 - <ruby>[隙](../words/隙.md)<rt>ㄎㄝㄎ</rt></ruby>: a fissure; a grudge.
 - <ruby>[私讐](../words/私讐.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: a personal grudge.
 - <ruby>[不満](../words/不満.md)<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby>: to be dissatisfied, resentful, lacking.
@@ -86,7 +86,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[情欲](../words/情欲.md)<rt>ㄑㄧㄫ⼄ㄎ</rt></ruby>: lust, sexual desire.
 - <ruby>[欲望](../words/欲望.md)<rt>⼄ㄎㄇㄚㄫ</rt></ruby>: desire, lust, appetite, craving.
 - <ruby>[意欲](../words/意欲.md)<rt>ㄜ⼄ㄎ</rt></ruby>: motivation, desire, ambition.
-- <ruby>[禁欲](../words/禁欲.md)<rt>ㄍㄧㄇ⼄ㄎ</rt></ruby>: to be ascetic, suppress desire, be abstinent.
+- <ruby>[禁欲](../words/禁欲.md)<rt>ㄍㄧㄇ·⼄ㄎ</rt></ruby>: to be ascetic, suppress desire, be abstinent.
 - <ruby>[熱情](../words/熱情.md)<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby>: enthusiasm, passion, ardor.
 
 ### Calm & Peace
@@ -109,7 +109,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[傲慢](../words/傲慢.md)<rt>ㄚㄨㄇㄚㄋ</rt></ruby>: proud, overbearing, haughty.
 - <ruby>[吝嗇](../words/吝嗇.md)<rt>ㄌㄧㄋㄙㄧㄎ</rt></ruby>: miserly, stingy.
 - <ruby>[刻薄](../words/刻薄.md)<rt>ㄎㄨㄎㄅㄚㄎ</rt></ruby>: cruel, inhuman.
-- <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
+- <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚ·ㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
 - <ruby>[辣](../words/辣.md)<rt>ㄌㄚㄊ</rt></ruby>: spicy, hot; cruel (figurative).
 - <ruby>[惨](../words/惨.md)<rt>ㄑㄚㄇ</rt></ruby>: wretched, cruel.
 - <ruby>[凄惨](../words/凄惨.md)<rt>ㄑㄝㄧㄑㄚㄇ</rt></ruby>: miserable.
@@ -124,16 +124,16 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 ### Suffering & Crying
 
-- <ruby>[受難](../words/受難.md)<rt>ㄙ⼜ㄋㄚㄋ</rt></ruby>: to suffer hardship; the Passion (Christianity).
+- <ruby>[受難](../words/受難.md)<rt>ㄙ⼜·ㄋㄚㄋ</rt></ruby>: to suffer hardship; the Passion (Christianity).
 - <ruby>[苦](../words/苦.md)<rt>ㄎㄛ</rt></ruby>: suffering, bitter.
-- <ruby>[苦痛](../words/苦痛.md)<rt>ㄎㄛㄊㄛㄫ</rt></ruby>: agony, pain, suffering.
+- <ruby>[苦痛](../words/苦痛.md)<rt>ㄎㄛ·ㄊㄛㄫ</rt></ruby>: agony, pain, suffering.
 - <ruby>[哭](../words/哭.md)<rt>ㄎㄛㄎ</rt></ruby>, <ruby>[泣](../words/泣.md)<rt>ㄎㄧㄆ</rt></ruby>: to cry, weep, sob.
 - <ruby>[嗚咽](../words/嗚咽.md)<rt>ㄛㄝㄋ</rt></ruby>: to sob, whimper.
 
 ### Admiration & Encouragement
 
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
-- <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛㄇㄨ</rt></ruby>: to encourage, cheer, inspire.
+- <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛ·ㄇㄨ</rt></ruby>: to encourage, cheer, inspire.
 - <ruby>[仰望](../words/仰望.md)<rt>⼘ㄫㄇㄚㄫ</rt></ruby>: to look up to (admiringly).
 
 ### Not Yet Coined

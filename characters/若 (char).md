@@ -54,7 +54,7 @@ boundedness: 55
 - <ruby>[[若干]]<rt>ㄋ⼘ㄍㄚㄋ</rt></ruby> "a little, somewhat"
 
 ## Chengyu
-- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
+- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
 
 ## Derived Characters
 - <ruby>[[諾 (char)|諾]]<rt>ㄋㄚㄎ</rt></ruby> "promise; agree"

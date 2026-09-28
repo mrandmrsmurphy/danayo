@@ -50,7 +50,7 @@ boundedness:
 ## Words
 - <ruby>[[気]]<rt>ㄎㄧㄜ</rt></ruby> "feeling" (stand-in for 気)
 - <ruby>[[気息]]<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby> "breath, smell, spirit"
-- <ruby>[[雰囲気]]<rt>ㄈㄨㄋㄨㄧㄎㄧㄜ</rt></ruby> "atmosphere; mood"
+- <ruby>[[雰囲気]]<rt>ㄈㄨㄋ·ㄨㄧㄎㄧㄜ</rt></ruby> "atmosphere; mood"
 - <ruby>[[煙気]]<rt>ㄝㄋㄎㄧㄜ</rt></ruby> "smoke, flue gas"
 - <ruby>[[気分]]<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 - <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"
@@ -58,15 +58,15 @@ boundedness:
 - <ruby>[[気功]]<rt>ㄎㄧㄜㄍㄛㄫ</rt></ruby> "qigong"
 - <ruby>[[気炎]]<rt>ㄎㄧㄜㄝㄇ</rt></ruby> "fighting spirit"
 - <ruby>[[天気]]<rt>ㄊㄝㄋㄎㄧㄜ</rt></ruby> "weather"
-- <ruby>[[怒気]]<rt>ㄋㄛㄎㄧㄜ</rt></ruby> "anger"
+- <ruby>[[怒気]]<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby> "anger"
 - <ruby>[[空気]]<rt>ㄎㄛㄫㄎㄧㄜ</rt></ruby> "air; atmosphere"
-- <ruby>[[語気]]<rt>⼄ㄎㄧㄜ</rt></ruby> "mode; tone; connotation"
-- <ruby>[[語気助詞]]<rt>⼄ㄎㄧㄜㄐㄛㄙㄚ</rt></ruby> "mood particle; modal particle"
+- <ruby>[[語気]]<rt>⼄·ㄎㄧㄜ</rt></ruby> "mode; tone; connotation"
+- <ruby>[[語気助詞]]<rt>⼄·ㄎㄧㄜㄐㄛㄙㄚ</rt></ruby> "mood particle; modal particle"
 - <ruby>[[電気]]<rt>ㄉㄝㄋㄎㄧㄜ</rt></ruby> "electricity; electrify"
 - <ruby>[[香気]]<rt>ㄏ⼘ㄫㄎㄧㄜ</rt></ruby> "fragrance; aroma; incense"
 - <ruby>[[大気圏]]<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby> "atmosphere"
 - <ruby>[[客気]]<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby> "polite (Mandarin); reckless bravado (Japanese/Korean)"
 ## Chengyu
-- <ruby>[[意気揚揚]]<rt>ㄜㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
+- <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
 ## Derived Characters
 - <ruby>[[汽]]<rt>ㄎㄧㄜ</rt></ruby> "vapor, steam"

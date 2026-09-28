@@ -55,9 +55,9 @@ boundedness: 65
 - <ruby>[[此時]]<rt>ㄑㄜㄙㄧ</rt></ruby> "now; at this time"
 - <ruby>[[此様]]<rt>ㄑㄜ⼘ㄫ</rt></ruby> "this way; like this"
 - <ruby>[[此事]]<rt>ㄑㄜㄐㄧ</rt></ruby> "this act; this matter"
-- <ruby>[[此物]]<rt>ㄑㄜㄇㄨㄊ</rt></ruby> "this thing; this object"
-- <ruby>[[此人]]<rt>ㄑㄜㄋㄧㄋ</rt></ruby> "this person"
-- <ruby>[[此名]]<rt>ㄑㄜㄇㄧㄫ</rt></ruby> "this person (polite)"
+- <ruby>[[此物]]<rt>ㄑㄜ·ㄇㄨㄊ</rt></ruby> "this thing; this object"
+- <ruby>[[此人]]<rt>ㄑㄜ·ㄋㄧㄋ</rt></ruby> "this person"
+- <ruby>[[此名]]<rt>ㄑㄜ·ㄇㄧㄫ</rt></ruby> "this person (polite)"
 - <ruby>[[此類]]<rt>ㄑㄜㄌㄨㄧ</rt></ruby> "this kind; this sort"
 - <ruby>[[此多]]<rt>ㄑㄜㄉㄜ</rt></ruby> "this much; this many"
 

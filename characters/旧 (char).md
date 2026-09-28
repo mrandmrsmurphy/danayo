@@ -54,7 +54,7 @@ boundedness: 80
 ## Words
 - <ruby>[[旧]]<rt>ㄍ⼜ㄛ</rt></ruby> "paleo-; former; old" (stand-in for 旧)
 - <ruby>[[旧金山]]<rt>ㄍ⼜ㄛㄍㄧㄇㄙㄚㄋ</rt></ruby> "San Francisco, \"Old Gold Mine\""
-- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
+- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
 - <ruby>[[旧正月]]<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> "lunar new year; old new year"
 - <ruby>[[仍旧]]<rt>ㄋㄧㄫㄍ⼜ㄛ</rt></ruby> "yet; still"
 

@@ -9,7 +9,7 @@ tags:
 - <ruby>[一長一短](chengyu/一長一短.md)<rt>ㄧㄊㄐㄚㄫ·ㄧㄊㄉ⺢ㄋ</rt></ruby> - one long, one short
 - <ruby>[五臓六府](chengyu/五臓六府.md)<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> - internal organs
 - <ruby>[優柔不断](chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - indecisive; undetermined; shilly-shally
-- <ruby>[切磋琢磨](chengyu/切磋琢磨.md)<rt>ㄑㄝㄊㄑㄚㄊㄚㄎㄇㄚ</rt></ruby> - iron sharpens iron, friendly competition
+- <ruby>[切磋琢磨](chengyu/切磋琢磨.md)<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> - iron sharpens iron, friendly competition
 - <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄆㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
 - <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄍ⺢ㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns
@@ -22,7 +22,7 @@ tags:
 - <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> - touch and go
 - <ruby>[鶏鳴狗盗](chengyu/鶏鳴狗盗.md)<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> - bad people use dirty tricks
 - <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> - impregnable 
-- <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> - all the demons
+- <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
 - <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> - dazed and confused, stunned to the point of losing oneself
 - <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄅㄨㄋㄉㄛㄨ</rt></ruby> - to fight on alone
@@ -41,7 +41,7 @@ tags:
 
 - <ruby>[一字千金](chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> - perfect word
 - <ruby>[一網打尽](chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> - roundup, wholesale arrest; rounding up the herd with one throw
-- <ruby>[一衣帯水](chengyu/一衣帯水.md)<rt>ㄧㄊㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> - close neighbors separated only by a narrow strait
+- <ruby>[一衣帯水](chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> - close neighbors separated only by a narrow strait
 - <ruby>[万物生長](chengyu/万物生長.md)<rt>ㄇㄨㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> - All the universe grows and develops
 - <ruby>[三綱五常](chengyu/三綱五常.md)<rt>ㄙㄚㄇㄍㄚㄫ·ㄛㄙ⼘ㄫ</rt></ruby> - three relationships and five virtues
 - <ruby>[不共戴天](chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> - absolutely irreconcilable
@@ -51,24 +51,24 @@ tags:
 - <ruby>[令行禁止](chengyu/令行禁止.md)<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> - total command discipline
 - <ruby>[佳人薄命](chengyu/佳人薄命.md)<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> - a fair lady's destiny is thin indeed
 - <ruby>[信達雅化](chengyu/信達雅化.md)<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> - Faithful Transparent Elegent -ization
-- <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> - acting as if no one else were present; brazenly disregarding others
+- <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> - acting as if no one else were present; brazenly disregarding others
 - <ruby>[光明正大](chengyu/光明正大.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - high principles and sincere
 - <ruby>[公明正大](chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - fair and square, open and aboveboard
 - <ruby>[内柔外剛](chengyu/内柔外剛.md)<rt>ㄋㄛㄧㄋ⼜·⺢ㄧㄍㄚㄫ</rt></ruby> - gentle-hearted but outwardly firm
 - <ruby>[刻舟求剣](chengyu/刻舟求剣.md)<rt>ㄎㄨㄎㄐㄨㄍ⼜ㄛㄍㄛㄇ</rt></ruby> - stubbornly cling to tradition, fail to adapt
 - <ruby>[千山萬水](chengyu/千山萬水.md)<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> - countless mountains and rivers; a long, arduous journey
-- <ruby>[千差万別](chengyu/千差万別.md)<rt>ㄑㄝㄋㄑㄚㄇㄛㄋㄅㄝㄊ</rt></ruby> - variegated, manifold diversity
-- <ruby>[千編一律](chengyu/千編一律.md)<rt>ㄑㄝㄋㄅ⼶ㄋㄧㄊㄌㄨㄊ</rt></ruby> - monotonously uniform with no variation
+- <ruby>[千差万別](chengyu/千差万別.md)<rt>ㄑㄝㄋㄑㄚ·ㄇㄛㄋㄅㄝㄊ</rt></ruby> - variegated, manifold diversity
+- <ruby>[千編一律](chengyu/千編一律.md)<rt>ㄑㄝㄋㄅ⼶ㄋ·ㄧㄊㄌㄨㄊ</rt></ruby> - monotonously uniform with no variation
 - <ruby>[単刀直入](chengyu/単刀直入.md)<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> - to go straight to the point
 - <ruby>[厚顔無恥](chengyu/厚顔無恥.md)<rt>ㄏㄛㄨ·ㄚㄋㄇㄜㄑㄧ</rt></ruby> - utterly shameless
 - <ruby>[古今東西](chengyu/古今東西.md)<rt>ㄍㄛㄍㄧㄇㄉㄛㄫㄙㄝㄧ</rt></ruby> - at all times and in all places
-- <ruby>[呉牛喘月](chengyu/呉牛喘月.md)<rt>ㄛㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> - excessive fear
+- <ruby>[呉牛喘月](chengyu/呉牛喘月.md)<rt>ㄛ·ㄋ⼜ㄑㄝㄋ·⼔ㄊ</rt></ruby> - excessive fear
 - <ruby>[呉越同舟](chengyu/呉越同舟.md)<rt>ㄛ·⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby> - bitter enemies meet and have to work together
 - <ruby>[周章狼狽](chengyu/周章狼狽.md)<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> - flustered and thrown into complete disarray
 - <ruby>[呵呵大笑](chengyu/呵呵大笑.md)<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> - guffaw, to laugh a ringing laugh, to have a hearty laugh, laugh uproariously
-- <ruby>[哀鴻遍野](chengyu/哀鴻遍野.md)<rt>ㄚㄧㄏㄛㄫㄅㄝㄋ⼘</rt></ruby> - mournful wanderers fill the land
+- <ruby>[哀鴻遍野](chengyu/哀鴻遍野.md)<rt>ㄚㄧㄏㄛㄫㄅㄝㄋ·⼘</rt></ruby> - mournful wanderers fill the land
 - <ruby>[唇亡歯寒](chengyu/唇亡歯寒.md)<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> - when the lips are gone, the teeth feel cold
-- <ruby>[喜怒哀楽](chengyu/喜怒哀楽.md)<rt>ㄏㄧㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> - the full range of human emotion
+- <ruby>[喜怒哀楽](chengyu/喜怒哀楽.md)<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> - the full range of human emotion
 - <ruby>[四面楚歌](chengyu/四面楚歌.md)<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> - surrounded by the singing of Chu
 - <ruby>[因小失大](chengyu/因小失大.md)<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> - sacrifice the greater for the lesser
 - <ruby>[因果報応](chengyu/因果報応.md)<rt>ㄧㄋㄍ⺢ㄅㄚㄨ·ㄧㄫ</rt></ruby> - karmic retribution
@@ -87,7 +87,7 @@ tags:
 - <ruby>[少即是多](chengyu/少即是多.md)<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> - less is more
 - <ruby>[弱不禁風](chengyu/弱不禁風.md)<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> - so frail as to be unable to withstand the wind
 - <ruby>[弱肉強食](chengyu/弱肉強食.md)<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> - survival of the fittest
-- <ruby>[意味深長](chengyu/意味深長.md)<rt>ㄜㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> - full of deep significance; profound and thought-provoking
+- <ruby>[意味深長](chengyu/意味深長.md)<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> - full of deep significance; profound and thought-provoking
 - <ruby>[意気揚揚](chengyu/意気揚揚.md)<rt>ㄜㄎㄧㄜ·⼘ㄫ·⼘ㄫ</rt></ruby> - triumphalism
 - <ruby>[成家立業](chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> - Get married and start a job
 - <ruby>[文質彬彬](chengyu/文質彬彬.md)<rt>ㄇㄨㄋㄐㄧㄊㄆㄧㄋㄆㄧㄋ</rt></ruby> - [well balanced between refinement and substance, cultivated without affectation]
@@ -95,18 +95,18 @@ tags:
 - <ruby>[旗幟鮮明](chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> - to take a clear and unmistakable stand
 - <ruby>[春夏秋冬](chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ⼘ㄫㄑㄨㄛㄊㄛㄫ</rt></ruby> - four season, all year
 - <ruby>[春秋鼎盛](chengyu/春秋鼎盛.md)<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> - in the prime of life; at the height of one's powers
-- <ruby>[時代錯誤](chengyu/時代錯誤.md)<rt>ㄙㄧㄉㄚㄧㄑㄚㄎㄛ</rt></ruby> - anachronism
+- <ruby>[時代錯誤](chengyu/時代錯誤.md)<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> - anachronism
 - <ruby>[暴飲暴食](chengyu/暴飲暴食.md)<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> - excessive eating and drinking; bingeing on food and drink
 - <ruby>[有備無患](chengyu/有備無患.md)<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> - better safe than sorry
 - <ruby>[朝三暮四](chengyu/朝三暮四.md)<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> - distinction without a difference
 - <ruby>[未雨紬謬](chengyu/未雨紬謬.md)<rt>ㄇㄨㄧ·ㄨㄑㄨㄛㄇ⼜</rt></ruby> - to prepare in advance, before trouble arises
-- <ruby>[朽木糞牆](chengyu/朽木糞牆.md)<rt>ㄏ⼜ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> - rotten wood and a dung wall
+- <ruby>[朽木糞牆](chengyu/朽木糞牆.md)<rt>ㄏ⼜·ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> - rotten wood and a dung wall
 - <ruby>[李下瓜田](chengyu/李下瓜田.md)<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> - avoid even the appearance of impropriety
 - <ruby>[東奔西走](chengyu/東奔西走.md)<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> - to rush about everywhere, to run around busily from place to place
-- <ruby>[森羅万象](chengyu/森羅万象.md)<rt>ㄙㄨㄇㄌㄛㄇㄛㄋㄙ⼘ㄫ</rt></ruby> - everything that exists
+- <ruby>[森羅万象](chengyu/森羅万象.md)<rt>ㄙㄨㄇㄌㄛ·ㄇㄛㄋㄙ⼘ㄫ</rt></ruby> - everything that exists
 - <ruby>[欣喜雀躍](chengyu/欣喜雀躍.md)<rt>ㄏㄧㄋㄏㄧㄐㄚㄎ·⼘ㄎ</rt></ruby> - jump for joy
 - <ruby>[欲求不満](chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety, sexual frustrated
-- <ruby>[沈魚落雁](chengyu/沈魚落雁.md)<rt>ㄑㄧㄇ⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> - so beautiful that fish sink and geese descend
+- <ruby>[沈魚落雁](chengyu/沈魚落雁.md)<rt>ㄑㄧㄇ·⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> - so beautiful that fish sink and geese descend
 - <ruby>[波乱万丈](chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> - full of dramatic ups and downs; turbulent and eventful
 - <ruby>[流言飛語](chengyu/流言飛語.md)<rt>ㄌ⼜·ㄝㄋㄆㄧ·⼄</rt></ruby> - baseless rumors, gossip spreading unchecked
 - <ruby>[海闊天空](chengyu/海闊天空.md)<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> - As boundless as the sky and sea
@@ -114,10 +114,10 @@ tags:
 - <ruby>[混然一体](chengyu/混然一体.md)<rt>ㄏㄛㄋㄋ⼶ㄋ·ㄧㄊㄊㄝㄧ</rt></ruby> - monad, utterly unified
 - <ruby>[温故知新](chengyu/温故知新.md)<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> - review the old, discover the new
 - <ruby>[澈頭澈尾](chengyu/澈頭澈尾.md)<rt>ㄐㄝㄊㄊㄛㄨㄐㄝㄊㄇㄨㄧ</rt></ruby> - [through and through, right down the line, from head to toe]
-- <ruby>[焚書坑儒](chengyu/焚書坑儒.md)<rt>ㄅㄨㄋㄙ⼄ㄎㄚㄫㄋㄨ</rt></ruby> - the burning of books and burial of scholars; ideological repression and the destruction of intellectual culture
+- <ruby>[焚書坑儒](chengyu/焚書坑儒.md)<rt>ㄅㄨㄋㄙ⼄·ㄎㄚㄫㄋㄨ</rt></ruby> - the burning of books and burial of scholars; ideological repression and the destruction of intellectual culture
 - <ruby>[焚琴煮鶴](chengyu/焚琴煮鶴.md)<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> - destroying beauty through philistine indifference
 - <ruby>[無為而治](chengyu/無為而治.md)<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> - Rule without action
-- <ruby>[画蛇添足](chengyu/画蛇添足.md)<rt>ㄏ⺢ㄎㄊㄚㄊㄝㄇㄐㄛㄎ</rt></ruby> - gild the lilies, making an unnecessary addition
+- <ruby>[画蛇添足](chengyu/画蛇添足.md)<rt>ㄏ⺢ㄎㄊㄚ·ㄊㄝㄇㄐㄛㄎ</rt></ruby> - gild the lilies, making an unnecessary addition
 - <ruby>[画龍点睛](chengyu/画龍点睛.md)<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> - finishing touches
 - <ruby>[白頭偕老](chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> - Till death do us part
 - <ruby>[百聞不如一見](chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - Hearing something one hundred times is not as good as seeing it once
@@ -138,7 +138,7 @@ tags:
 - <ruby>[自業自得](chengyu/自業自得.md)<rt>ㄐㄧㄜ·ㄝㄆㄐㄧㄜㄊㄜㄎ</rt></ruby> - you reap what you sow; one's own actions return as one's own fate
 - <ruby>[自由自在](chengyu/自由自在.md)<rt>ㄐㄧㄜ·⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> - footloose and fancy free
 - <ruby>[自給自足](chengyu/自給自足.md)<rt>ㄐㄧㄜㄍㄧㄆㄐㄧㄜㄐㄛㄎ</rt></ruby> - producing all one needs from one's own resources
-- <ruby>[色即是空](chengyu/色即是空.md)<rt>ㄙㄧㄎㄐㄜㄎㄙㄝㄎㄛㄫ</rt></ruby> - form is emptiness; form is precisely emptiness
+- <ruby>[色即是空](chengyu/色即是空.md)<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> - form is emptiness; form is precisely emptiness
 - <ruby>[落花流水](chengyu/落花流水.md)<rt>ㄌㄚㄎㄏ⺢ㄌ⼜ㄙㄨ</rt></ruby> - scattered like fallen blossoms swept away by the current
 - <ruby>[蒼海桑田](chengyu/蒼海桑田.md)<rt>ㄑㄚㄫㄏㄚㄧㄙㄚㄫㄉㄚㄋ</rt></ruby> - time brings drastic changes to the world; the vicissitudes of life
 - <ruby>[虎視耽耽](chengyu/虎視耽耽.md)<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> - to eye covetously like a prowling tiger

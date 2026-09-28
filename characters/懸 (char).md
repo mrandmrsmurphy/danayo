@@ -54,4 +54,4 @@ boundedness: 90
 ## Words
 - <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind" (stand-in for 懸 (char))
 - <ruby>[[懸垂]]<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby> "hang over, overhand"
-- <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋㄛㄫㄐㄨㄧ</rt></ruby> "uvula"
+- <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula"

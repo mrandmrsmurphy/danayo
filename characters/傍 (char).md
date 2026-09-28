@@ -56,4 +56,4 @@ date-last-perfect: 2026-08-07
 - <ruby>[[傍]]<rt>ㄆㄚㄫ</rt></ruby> "beside, close" (stand-in for 傍)
 
 ## Chengyu
-- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘ㄇㄜㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
+- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"

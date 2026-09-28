@@ -56,7 +56,7 @@ boundedness: 90
 ## Words
 - <ruby>[[過]]<rt>ㄍ⺢</rt></ruby> "than, too" (stand-in for 過)
 - <ruby>[[経過]]<rt>ㄍㄝㄫㄍ⺢</rt></ruby> "pass through, undergo"
-- <ruby>[[過去]]<rt>ㄍ⺢ㄎ⼄</rt></ruby> "past"
+- <ruby>[[過去]]<rt>ㄍ⺢·ㄎ⼄</rt></ruby> "past"
 - <ruby>[[過激]]<rt>ㄍ⺢ㄍㄝㄎ</rt></ruby> "drastic, extreme, aggressive, radical"
 - <ruby>[[過量]]<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby> "to overdose on"
 - <ruby>[[不過]]<rt>ㄅㄛㄊㄍ⺢</rt></ruby> "only, just, merely"

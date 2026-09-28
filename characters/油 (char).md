@@ -51,7 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[油]]<rt>⼜</rt></ruby> "oil" (stand-in for 油)
-- <ruby>[[石油]]<rt>ㄙㄝㄎ⼜</rt></ruby> "petroleum; oil"
+- <ruby>[[石油]]<rt>ㄙㄝㄎ·⼜</rt></ruby> "petroleum; oil"
 - <ruby>[[醤油]]<rt>ㄐㄚㄫ⼜</rt></ruby> "soy sauce"
 - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby> "gasoline"
 - <ruby>[[精油]]<rt>ㄐㄝㄫ⼜</rt></ruby> "oil (all kinds)"

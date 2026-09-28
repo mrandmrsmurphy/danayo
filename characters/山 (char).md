@@ -60,7 +60,7 @@ boundedness: 75
 - <ruby>[[山脈]]<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> "mountain range"
 - <ruby>[[山嶺]]<rt>ㄙㄚㄋㄌㄧㄫ</rt></ruby> "ridge of hills"
 - <ruby>[[山崩]]<rt>ㄙㄚㄋㄅㄨㄫ</rt></ruby> "landslide (not snow)"
-- <ruby>[[山芋]]<rt>ㄙㄚㄋㄨ</rt></ruby> "mountain yam"
+- <ruby>[[山芋]]<rt>ㄙㄚㄋ·ㄨ</rt></ruby> "mountain yam"
 - <ruby>[[火山]]<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby> "volcano"
 - <ruby>[[火山島]]<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby> "volcanic island"
 - <ruby>[[金山]]<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby> "gold mine"

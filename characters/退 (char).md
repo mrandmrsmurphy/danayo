@@ -59,7 +59,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[退]]<rt>ㄊㄧㄜ</rt></ruby> "retreat, recede, withdraw" (stand-in for 退)
-- <ruby>[[辞退]]<rt>ㄑㄧㄊㄧㄜ</rt></ruby> "decline, refuse"
+- <ruby>[[辞退]]<rt>ㄑㄧ·ㄊㄧㄜ</rt></ruby> "decline, refuse"
 - <ruby>[[衰退]]<rt>ㄙ⼔ㄧㄊㄧㄜ</rt></ruby> "decline"
 - <ruby>[[退職]]<rt>ㄊㄛㄧㄐㄧㄎ</rt></ruby> "retire, resign"
 

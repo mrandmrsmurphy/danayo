@@ -56,11 +56,11 @@ boundedness:
 - For "ought" (in the sense of Mandarin 應該) use [[該]] as an SFP instead.
 
 ## Words
-- <ruby>[[適応]]<rt>ㄙㄝㄎㄧㄫ</rt></ruby> "adaptation; to adapt"
+- <ruby>[[適応]]<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation; to adapt"
 - <ruby>[[反応]]<rt>ㄆㄛㄋ·ㄧㄫ</rt></ruby> "react, respond"
 - <ruby>[[対応]]<rt>ㄉㄛㄧ·ㄧㄫ</rt></ruby> "correspond with, respond to"
 - <ruby>[[応訊]]<rt>ㄧㄫㄙㄧㄫ</rt></ruby> "question, subpoena"
 
 ## Chengyu
-- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎㄧㄫ</rt></ruby> "adaptation to modern speech"
+- <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation to modern speech"
 - <ruby>[[因果報応]]<rt>ㄧㄋㄍ⺢ㄅㄚㄨ·ㄧㄫ</rt></ruby> "karmic retribution"
