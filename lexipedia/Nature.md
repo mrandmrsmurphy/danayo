@@ -31,4 +31,5 @@
 plateau, canyon, cliff, volcano, meadow, glade
 jungle, savanna, swamp, glacier
 plow, sow, harvest, crop
+- cultivate, grow <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>
 mist, drought, lightning, thunder, rainbow, sleet

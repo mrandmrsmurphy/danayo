@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2541
+- **Unsorted**: 2538
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -899,7 +899,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[林]] — grove
 - [[林業]] — forestry
 - [[枢]] — hinge, pivot
-- [[枢紐]] — pivot, hub
 - [[枯]] — withered
 - [[架]] — rack
 - [[柏]] — cypress, cedar
@@ -2964,7 +2963,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[崩]] — crumble, disintegrate, die, fall apart
 - [[年齢]] — someone's age
 - [[昇天]] — die
-- [[栽培]] — cultivate, grow
 - [[死亡]] — die, death
 - [[活]] — alive
 - [[滋生]] — grow, multiply, thrive
@@ -3199,7 +3197,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
 - [[枝葉]] — branches and leaves, trivial details
-- [[桔梗]] — balloon flower
 - [[棕枝]] — palm tree
 - [[樹木]] — tree, plant
 - [[種子]] — seed

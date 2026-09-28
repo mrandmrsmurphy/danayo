@@ -5,6 +5,7 @@
 - grass
 - plant
 - rose
+- balloon flower <ruby>[桔梗](../words/桔梗.md)<rt>ㄍㄝㄊㄍㄚㄫ</rt></ruby>
 - stick
 - tree
 
