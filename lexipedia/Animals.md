@@ -148,6 +148,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[馬蹄](../words/馬蹄.md)<rt>ㄇㄚㄉㄝㄧ</rt></ruby>: horse hoof.
 - <ruby>[馬脚](../words/馬脚.md)<rt>ㄇㄚㄍ⼘ㄎ</rt></ruby>: horse leg, cloven hoof — also used idiomatically for a telltale flaw that gives someone away (露出馬脚, "to reveal one's true colors").
 - <ruby>[乗馬](../words/乗馬.md)<rt>ㄙㄨㄫㄇㄚ</rt></ruby> / <ruby>[騎馬](../words/騎馬.md)<rt>ㄍㄨㄧㄇㄚ</rt></ruby>: to ride a horse, horseback riding — two independently attested synonyms.
+- <ruby>[勒馬](../words/勒馬.md)<rt>ㄌㄜㄎㄇㄚ</rt></ruby>: to rein in a horse.
 
 ### Animal Behavior
 

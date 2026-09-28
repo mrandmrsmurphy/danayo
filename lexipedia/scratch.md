@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2550
+- **Unsorted**: 2549
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1989,7 +1989,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[創立]] — establish, found
 - [[劣等]] — inferior, of lower grade
 - [[勅令]] — imperial edict, decree
-- [[勒馬]] — rein in a horse
 - [[勤勉]] — hard-working, diligent
 - [[北海]] — northern sea, north sea
 - [[北端]] — northern edge
