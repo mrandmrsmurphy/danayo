@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2553
+- **Unsorted**: 2552
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1091,7 +1091,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[無政府]] — anarchy
 - [[無敵]] — invincible, unbeatable
 - [[無明]] — avidyā, ignorance, nescience
-- [[無極]] — limitless
 - [[無私]] — selfless, disinterested
 - [[無線]] — wireless
 - [[無色]] — colorless, formless, unbiased
