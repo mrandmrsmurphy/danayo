@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2538
+- **Unsorted**: 2536
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -2262,7 +2262,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[様式]] — type, style, pattern
 - [[標準]] — standard, norm
 - [[権威]] — authority, prestige
-- [[横断]] — cross over, traverse
 - [[樹皮]] — bark, plant-skin
 - [[次第]] — order, sequence
 - [[欺𥈞]] — deception, deceit, fraud, hoodwinking
@@ -3197,7 +3196,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
 - [[枝葉]] — branches and leaves, trivial details
-- [[棕枝]] — palm tree
 - [[樹木]] — tree, plant
 - [[種子]] — seed
 - [[穂]] — ear of grain

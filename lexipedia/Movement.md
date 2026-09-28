@@ -35,6 +35,7 @@
 - move
 - pace
 - pass
+- cross over, traverse <ruby>[横断](../words/横断.md)<rt>ㄏ⺢ㄫㄉ⺢ㄋ</rt></ruby>
 - progress
 - pull
 - quick

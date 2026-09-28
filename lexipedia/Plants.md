@@ -6,6 +6,7 @@
 - plant
 - rose
 - balloon flower <ruby>[桔梗](../words/桔梗.md)<rt>ㄍㄝㄊㄍㄚㄫ</rt></ruby>
+- palm tree <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>
 - stick
 - tree
 
