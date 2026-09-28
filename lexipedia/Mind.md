@@ -6,6 +6,7 @@
 - believe
 - brain
 - choose
+- select, screen (candidates) <ruby>[甄選](../words/甄選.md)<rt>ㄍ⼶ㄋㄙ⼔ㄋ</rt></ruby>
 - claim
 - clever
 - commit

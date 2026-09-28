@@ -94,6 +94,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential (its negative counterpart is <ruby>[不用](../words/不用.md)<rt>ㄅㄛㄊ⼄ㄫ</rt></ruby>, "not necessary, unused, useless").
 - <ruby>[欠乏](../words/欠乏.md)<rt>ㄎ⼘ㄇㄅㄚㄆ</rt></ruby> / <ruby>[欠缺](../words/欠缺.md)<rt>ㄎ⼘ㄇㄎ⼔ㄊ</rt></ruby>: to lack, be deficient — near-synonyms alongside Core [[無]] above.
+- <ruby>[用尽](../words/用尽.md)<rt>⼄ㄫㄐㄧㄋ</rt></ruby>: to exhaust, use up.
 - <ruby>[安定](../words/安定.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: stable, settled (its negative counterpart is <ruby>[不穏](../words/不穏.md)<rt>ㄅㄛㄊㄛㄋ</rt></ruby>, "unstable, unsettled, ominous").
 - <ruby>[不定](../words/不定.md)<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby>: indefinite, indeterminate, variable.
 

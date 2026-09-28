@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2532
+- **Unsorted**: 2530
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1164,11 +1164,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[璃]] — glass
 - [[環礁]] — atoll
 - [[瓦]] — tile
-- [[甄選]] — select, screen
 - [[甘蕉]] — banana, plantain
 - [[甘露]] — honeydew, nectar, amrita
 - [[甜瓜]] — melon, muskmelon
-- [[用尽]] — exhaust, use up
 - [[用疽]] — abscess, ulcer
 - [[用言]] — declinable word
 - [[田納素]] — tennessine
