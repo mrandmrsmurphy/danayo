@@ -75,6 +75,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[俊傑](../words/俊傑.md)<rt>ㄐㄨㄋㄍㄝㄊ</rt></ruby>: hero, genius. See Semantic Range Notes.
 - <ruby>[豪傑](../words/豪傑.md)<rt>ㄏㄚㄨㄍㄝㄊ</rt></ruby>: hero, genius. See Semantic Range Notes.
 - <ruby>[侠客](../words/侠客.md)<rt>ㄏㄝㄆㄎㄚㄎ</rt></ruby>: knight-errant, swordsman, hero. See Semantic Range Notes.
+- <ruby>[武士道](../words/武士道.md)<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby>: bushido, the way of the warrior — the ethical and moral code of the samurai.
 - <ruby>[昂然](../words/昂然.md)<rt>ㄚㄫㄋ⼶ㄋ</rt></ruby>: bold, elated.
 
 ### Victory, Loss & Defeat

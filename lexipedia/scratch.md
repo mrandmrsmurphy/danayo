@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2554
+- **Unsorted**: 2553
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -962,7 +962,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[正字法]] — orthography
 - [[此]] — this
 - [[武士]] — warrior, samurai
-- [[武士道]] — bushido
 - [[歯痛]] — toothache
 - [[歯齦]] — gingiva, gums
 - [[残害]] — damage, harm
