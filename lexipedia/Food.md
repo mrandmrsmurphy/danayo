@@ -97,6 +97,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[果子](../words/果子.md)<rt>ㄍ⺢ㄐㄜ</rt></ruby>: candy, pastry.
 - <ruby>[果醤](../words/果醤.md)<rt>ㄍ⺢ㄐㄚㄫ</rt></ruby>: jam, jelly, preserves.
 - <ruby>[餅](../words/餅.md)<rt>ㄅㄧㄫ</rt></ruby>: pastry, cake, mochi.
+- <ruby>[粄](../words/粄.md)<rt>ㄅㄧㄇ</rt></ruby>: a glutinous rice cake, distinct from 餅's wheat-based sense.
 - <ruby>[薄荷](../words/薄荷.md)<rt>ㄅㄚㄎㄏㄚ</rt></ruby>: mint (candy).
 - <ruby>[丁香](../words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>: clove.
 - <ruby>[甘味](../words/甘味.md)<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby>: sweetness, sweet taste.

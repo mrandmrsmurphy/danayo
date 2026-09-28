@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[楕圓]]<rt>ㄊㄚ·⼔ㄋ</rt></ruby> "ellipse"
 - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby> "Euro"
 - <ruby>[[圓錐曲線]]<rt>⼔ㄋㄐㄨㄧㄎ⼘ㄎㄙ⼶ㄋ</rt></ruby> "conic section"
-- <ruby>[[圓融]]<rt>⼔ㄋ⼜ㄫ</rt></ruby> "tact, tactful, diplomatically harmonious"
+- <ruby>[[圓融]]<rt>⼔ㄋ·⼜ㄫ</rt></ruby> "tact, tactful, diplomatically harmonious"
 - <ruby>[[圓滑]]<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby> "slick, glib, smooth (of a person)"
 
 ## Chengyu

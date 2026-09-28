@@ -93,8 +93,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
 - <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
-- <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
-- <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
+- <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
+- <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
 
 ### Trust, Respect & Esteem
 
@@ -189,7 +189,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
 - <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
-- <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."
+- <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ·⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."
 - <ruby>[圓滑](../words/圓滑.md)<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby>: slick, glib, smooth (of a person, mildly negative) — a near-synonym of [[圓融]] with a self-serving undertone instead of genuine tact.
 - <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
 - <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.

@@ -57,4 +57,4 @@ boundedness: 30
 - <ruby>[[敏]]<rt>ㄇㄧㄋ</rt></ruby> "fast; quick; clever" (stand-in for 敏 (char))
 - <ruby>[[敏感]]<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby> "sensitive"
 - <ruby>[[敏捷]]<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby> "agile; nimble; quick-witted"
-- <ruby>[[過敏]]<rt>ㄍ⺢ㄇㄧㄋ</rt></ruby> "oversensitive, allergic, hypersensitive"
+- <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> "oversensitive, allergic, hypersensitive"
