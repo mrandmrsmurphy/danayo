@@ -55,6 +55,8 @@ boundedness: 90
 - <ruby>[名字](/words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby> - name (personal name)
 - <ruby>[四字成語](/words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ·⼄</rt></ruby> - four-character stock phrase
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
+- <ruby>[簡体字](/words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - simplified Chinese characters
+- <ruby>[繁体字](/words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - traditional Chinese characters
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"

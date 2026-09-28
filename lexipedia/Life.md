@@ -23,6 +23,3 @@ doctor, nurse, hospital, drug, pill, surgery, cure
 disease, stroke, scurvy, epilepsy, diarrhea, nausea, arthritis, cancer
 wound, bruise, rash, fever, wart, pimple, blister, pock-mark
 
-## Chinese Medicine
-_five elements and their associations_
-qi

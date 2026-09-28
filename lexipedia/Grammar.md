@@ -1,31 +1,35 @@
 ---
 language: English
+type: lexipedia
+domain: Grammar
+related_domains:
+  - "[[Speech]]"
+status: partial
+date-last-perfect: 2026-09-28
 ---
+
+# Grammar
+
+Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function words (conjunctions, modals, particles, pronouns, deictics, interrogatives) that don't fit a difficulty ladder the way content vocabulary does, alongside the metalanguage for talking about grammar, phonology, and the writing system itself. Rather than the usual Core/Intermediate/Advanced tiers, this page keeps the topic-based structure Rosenfelder's own grammar chapter uses — closed-class systems like the correlative pronoun grid or the 12-case system are inherently paradigmatic, not gradable by proficiency level.
 
 ## Main Words
 ### Comparatives
 - more <ruby>[更](../words/更.md)<rt>ㄍㄚㄫ</rt></ruby>
 - most <ruby>[最](../words/最.md)<rt>ㄐ⼔</rt></ruby>
-- least
-- less
+- least, less: not yet coined — Dan'a'yo has no dedicated "less/least" pole distinct from negating 更/最.
 
 ### Conjunctions
-- also
+- also, too : <ruby>[且](../words/且.md)<rt>ㄑㄛ</rt></ruby>
 - and, with (nominal conjunction, joining nouns/noun phrases) : <ruby>[与](../words/与.md)<rt>⼄</rt></ruby>
-- because
-- but : <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby>
+- but, however, yet, only : <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby>
 - but (classical/literary register) : <ruby>[乃](../words/乃.md)<rt>ㄋㄚㄧ</rt></ruby>
-- else
-- however
-- if
-- nor
+- if, supposing that : <ruby>[若](../words/若.md)<rt>ㄋ⼘</rt></ruby>
+- if only (narrower, more formal register) : <ruby>[苟](../words/苟.md)<rt>ㄍㄛㄨ</rt></ruby>
 - or : <ruby>[或](../words/或.md)<rt>ㄏㄛㄎ</rt></ruby>
 - then : <ruby>[那](../words/那.md)<rt>ㄋㄚ</rt></ruby>
-- therefore : <ruby>[焉](../words/焉.md)<rt>ㄝㄋ</rt></ruby>
-- though
-- thus
-- while
-- unless
+- therefore, so, consequently, thus : <ruby>[焉](../words/焉.md)<rt>ㄝㄋ</rt></ruby>, <ruby>[所以](../words/所以.md)<rt>ㄙㄜㄧ</rt></ruby>
+- while, during, at the time of : <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>
+- because, else, nor, though, unless: not yet coined.
 - linker/conjunction (general term) : <ruby>[連接詞](../words/連接詞.md)<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby>, <ruby>[接続助詞](../words/接続助詞.md)<rt>ㄐㄛㄆㄙ⼄ㄎㄐㄛㄙㄚ</rt></ruby> (conjunctive particle)
 
 ### Deictics
@@ -38,36 +42,32 @@ language: English
 - can <ruby>[可](../words/可.md)<rt>ㄎㄜ</rt></ruby>
 - cannot <ruby>[不可](../words/不可.md)<rt>ㄅㄛㄊㄎㄜ</rt></ruby>
 - may (permission) <ruby>[可以](../words/可以.md)<rt>ㄎㄜㄧ</rt></ruby>
-- could
 - might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜㄋㄜㄫ</rt></ruby>
 - must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
-- ought
+- ought, should, have to : <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
-- should
-- would
+- could, would: not yet coined.
 - will, intent (noun) : <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>
 
 ### Particles
 - as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>
-- instead
-- no
+- no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
-- rather
-- so, therefore, consequently <ruby>[所以](../words/所以.md)<rt>ㄙㄜㄧ</rt></ruby>
+- rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>
+- rather, slightly (degree modifier) : <ruby>[稍](../words/稍.md)<rt>ㄙ⼘ㄨ</rt></ruby>
 - than <ruby>[過](../words/過.md)<rt>ㄍ⺢</rt></ruby>
-- whatever
+- instead, whatever: not yet coined.
 
 ### Contrastives
 - another <ruby>[他](../words/他.md)<rt>ㄊㄜ</rt></ruby>
-- either
-- neither
-- other
+- other, distinct : <ruby>[別](../words/別.md)<rt>ㄅㄝㄊ</rt></ruby>
+- either, neither: not yet coined.
 
 ### Pronoun
 - I : <ruby>[我](../words/我.md)<rt>ㄚ</rt></ruby>
 - thou : <ruby>[君](../words/君.md)<rt>ㄍㄨㄋ</rt></ruby>
 - he/she : <ruby>[其人](../words/其人.md)<rt>ㄍㄜㄋㄧㄋ</rt></ruby>
-- it
+- it: not yet coined — no dedicated inanimate third-person pronoun distinct from the demonstratives [[此]]/[[其]].
 - we : <ruby>[我等](../words/我等.md)<rt>ㄚㄉㄨㄫ</rt></ruby>
 - you : <ruby>[君等](../words/君等.md)<rt>ㄍㄨㄋㄉㄨㄫ</rt></ruby>
 - they : <ruby>[其人等](../words/其人等.md)<rt>ㄍㄜㄋㄧㄋㄉㄨㄫ</rt></ruby>
@@ -82,13 +82,10 @@ language: English
 ### Interrogatives
 - when : <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
 - where : <ruby>[何処](../words/何処.md)<rt>ㄏㄚㄑㄛ</rt></ruby>
-- whether
-- while
 - who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby>
 - how : <ruby>[如何](../words/如何.md)<rt>ㄋ⼄ㄏㄚ</rt></ruby>, <ruby>[甚様](../words/甚様.md)<rt>ㄙㄧㄇ⼘ㄫ</rt></ruby> (what manner, of what sort)
-- why
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
-- which
+- whether, why, which: not yet coined.
 
 ## Correlative Pronoun System
 Dan'a'yo builds a closed paradigm of correlatives by crossing a deictic/interrogative/quantifier base with a bound noun class. All 63 combinations exist as real words.
@@ -156,15 +153,14 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
-- gender
-- case
-- form
+- case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄆㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫ·ㄝㄋ</rt></ruby>
-- accusative
+- gender, form: not yet coined.
+- accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
 	- <ruby>[文字](../words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> = writing system
-	- [[字母]] = letter
+	- <ruby>[字母](../words/字母.md)<rt>ㄐㄧㄇㄛㄨ</rt></ruby> = letter, grapheme
 - dictionary <ruby>[字典](../words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>
 
 ## Writing System & Characters
@@ -240,3 +236,18 @@ The traditional classification of Chinese character formation.
 - <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"
 - <ruby>[段](../words/段.md)<rt>ㄉ⺢ㄋ</rt></ruby> "segments, sections, passages"
 - <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ·⼄</rt></ruby> "to coin a word; a coinage, neologism"
+
+## Semantic Range Notes
+
+**却/稍 split English "rather" into two unrelated senses**: 却 is the concessive "rather, on the contrary, all the more" (contrastive, like "he refused — rather, he laughed"), while 稍 is the degree modifier "rather, slightly, somewhat" (like "rather cold"). English collapses both into one word; Dan'a'yo, like its source languages, keeps them apart as genuinely distinct words.
+
+**他/別 split English "other" the same way its own Contrastives section suggests**: 他 means "another" (an additional instance of the same kind), while 別 means "other, distinct" (a different kind entirely) — not interchangeable despite English using "other" loosely for both.
+
+**Dan'a'yo has no grammatical gender and no accusative case**: the Grammatical Categories list above covers tense/aspect, animacy, mood/modality/voice, prospective aspect, progressive aspect, and person — gender is not among them, and the 12-case system in the Case System section has no accusative slot. Direct objects aren't case-marked at all; they're identified by the topic-comment sentence structure that [[事詞]] ("eventive," the transitive verb class) is built around, with 也 marking the topic itself. This isn't a coverage gap to fill later — it's a genuine design choice, the same way Mandarin and other isolating East Asian languages get by without case-marking objects.
+
+**若/苟 both mean "if," split by register**: 若 is the general conditional conjunction. 苟 is narrower and more formal/literary — closer to "if only" or "provided that" — not a plain substitute for 若 in ordinary conditionals.
+
+## See Also
+
+**Related domains**:
+- [[Speech]] — covers spoken communication and rhetoric more broadly; this page's Phonology and Lexicon & Language sections describe the mechanics Speech's vocabulary is built on.
