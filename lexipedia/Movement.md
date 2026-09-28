@@ -55,7 +55,7 @@
 - stay
 - stride
 - swim
-- thrust
+- thrust, pierce through <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>
 - walk
 - wander
 

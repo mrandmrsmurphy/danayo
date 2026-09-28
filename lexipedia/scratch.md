@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2515
+- **Unsorted**: 2514
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -33,7 +33,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 28
 - **Work**: 32
 
-## Unsorted (2367)
+## Unsorted (2366)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[乗車]] — board a vehicle, get on (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
@@ -2440,7 +2440,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[議定]] — reach an agreement, make an agreement
 - [[負]] — carry, bear
 - [[貪官]] — corrupt official, greedy mandarin
-- [[貫通]] — pierce through
 - [[賎人]] — plebeian, lowly person
 - [[賢淑]] — virtuous and wise, of refined character
 - [[質素]] — essence, nature, quality
