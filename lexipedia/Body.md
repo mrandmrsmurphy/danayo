@@ -121,6 +121,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
 - <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
 - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
+- <ruby>[腺体](../words/腺体.md)<rt>ㄙ⼶ㄋㄊㄝㄧ</rt></ruby>: a gland.
 - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>, <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: shit.
 - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
 - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).

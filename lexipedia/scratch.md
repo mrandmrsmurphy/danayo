@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2564
+- **Unsorted**: 2563
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1394,7 +1394,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[腐朽]] — decay, rot, corruption
 - [[腫瘍]] — tumor, neoplasm
 - [[腫脹]] — swelling
-- [[腺体]] — gland
 - [[膠水]] — glue, adhesive
 - [[膣]] — cunt
 - [[膿]] — pus
