@@ -6,9 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2479
+- **Unsorted**: 2487
 - **Calendar**: 116
-- **Containers**: 57
 - **Dimensions**: 94
 - **Directions**: 58
 - **Efforts**: 54
@@ -51,6 +50,14 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
 - [[失業]] — become unemployed, lose one's job (an Economy/Work concept — moved out of the Conflict bucket 2026-09-28)
 - [[養生]] — care for, protect (a TCM/health-preservation concept, not defense — moved out of the Conflict bucket 2026-09-28)
+- [[傍]] — beside, close (spatial proximity, not "to close a container" — moved out of the Containers bucket 2026-09-28)
+- [[凶徒]] — villain, thug, criminal gang member, mob (fits Conflict better than Containers' "member" sense — moved out 2026-09-28)
+- [[報道]] — cover news, report on (Speech/journalism "cover," not a container lid — moved out of the Containers bucket 2026-09-28)
+- [[実詞]] — content word (a Grammar term — "content word" vs. function word — not container "content"; moved out of the Containers bucket 2026-09-28)
+- [[汎]] — pan- (a word-formation prefix, not a container — moved out of the Containers bucket 2026-09-28)
+- [[胴体]] — torso, trunk, fuselage (Body-domain "trunk," not a storage trunk — moved out of the Containers bucket 2026-09-28)
+- [[墊]] — mat, pad, cushion (furniture, not a container — moved out of the Containers bucket 2026-09-28)
+- [[畳]] — folding mat, tatami mat (furniture/flooring, not a container — moved out of the Containers bucket 2026-09-28)
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[一朝]] — short time
@@ -2650,66 +2657,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 - [[黄泉]] — underground spring, underworld
-
-## Containers (57)
-
-- [[㪘]] — to gather, to collect, to restrain
-- [[主幹]] — trunk, core
-- [[乗員]] — crew, crew member
-- [[会]] — meet, gather
-- [[会員]] — member
-- [[個]] — individual items
-- [[個人]] — individual
-- [[傍]] — beside, close
-- [[充填]] — fill
-- [[内容]] — content, substance
-- [[凶徒]] — villain, thug, criminal gang member, mob
-- [[制御]] — to control, to contain, to dominate
-- [[包含]] — have, include, contain
-- [[包括]] — include, consist of
-- [[収集]] — collect, gather
-- [[報道]] — cover news, report on
-- [[填]] — fill in, make good on
-- [[実詞]] — content word
-- [[容器]] — contain, vessel
-- [[弥漫]] — pervade, fill
-- [[徴税]] — collect taxes, levy taxes
-- [[採取]] — pick, harvest, collect
-- [[採集]] — gather, collect
-- [[杯]] — cup, cupful
-- [[桶]] — pail, bucket, tub, cask, keg
-- [[水壷]] — kettle, water bottle
-- [[汎]] — pan-
-- [[瓶]] — jug, bottle, pot
-- [[皿]] — dish, container
-- [[碗]] — bowl, dish
-- [[空]] — empty
-- [[空手]] — be empty handed, be unarmed
-- [[空白]] — blank, empty
-- [[空虚]] — empty
-- [[筐]] — bamboo basket
-- [[箱]] — case, box, chest, trunk
-- [[籠]] — basket
-- [[聚集]] — gather, assemble, collect
-- [[肥桶]] — night-soil bucket, manure barrel
-- [[胡芦]] — bottle gourd, calabash
-- [[胴体]] — torso, trunk, fuselage
-- [[蒐集]] — collect, gather
-- [[袋]] — sack, bag
-- [[覆蓋]] — cover, affect
-- [[議員]] — member of parliament, congressman
-- [[貝殻]] — seashell, shell
-- [[鉢]] — bowl
-- [[錠]] — lock
-- [[鍋]] — pot
-- [[鍵]] — key
-- [[鍾]] — alcohol bottle
-- [[閉]] — shut, close
-- [[関]] — close
-- [[集合]] — assemble, gather
-- [[鞄]] — bag, luggage
-- [[墊]] — mat, pad, cushion
-- [[畳]] — folding mat, tatami mat
 
 ## Dimensions (94)
 

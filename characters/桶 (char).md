@@ -59,3 +59,4 @@ date-last-perfect: 2026-08-12
 
 ## Words
 - <ruby>[[桶]]<rt>ㄊㄛㄫ</rt></ruby> "pail, bucket" (stand-in for 桶)
+- <ruby>[[肥桶]]<rt>ㄅㄨㄧㄊㄛㄫ</rt></ruby> "night-soil bucket, manure barrel"
