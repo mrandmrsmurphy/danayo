@@ -29,7 +29,7 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 |皆|<ruby>[[皆事]]<rt>ㄍ⼶ㄐㄧ</rt></ruby>|<ruby>[[皆人]]<rt>ㄍ⼶·ㄋㄧㄋ</rt></ruby>|<ruby>[[皆処]]<rt>ㄍ⼶ㄑㄛ</rt></ruby>|<ruby>[[皆名]]<rt>ㄍ⼶·ㄇㄧㄫ</rt></ruby>|<ruby>[[皆多]]<rt>ㄍ⼶ㄉㄜ</rt></ruby>|<ruby>[[皆時]]<rt>ㄍ⼶ㄙㄧ</rt></ruby>|<ruby>[[皆様]]<rt>ㄍ⼶⼘ㄫ</rt></ruby>|<ruby>[[皆物]]<rt>ㄍ⼶·ㄇㄨㄊ</rt></ruby>|<ruby>[[皆類]]<rt>ㄍ⼶ㄌㄨㄧ</rt></ruby>|
 
 ## Ancient
-1. <ruby>[射術](/words/射術.md)<rt>ㄊ⼘ㄙㄨㄊ</rt></ruby> - classical Asian archery
+1. <ruby>[射術](/words/射術.md)<rt>ㄙ⼘ㄙㄨㄊ</rt></ruby> - classical Asian archery
 2. <ruby>[御術](/words/御術.md)<rt>⼄ㄙㄨㄊ</rt></ruby> - classical Asian charioteering
 
 ## Place Names

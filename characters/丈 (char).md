@@ -52,7 +52,7 @@ boundedness: 80
 - <ruby>[丈夫](/words/丈夫.md)<rt>ㄑㄚㄫㄈㄜ</rt></ruby> "husband"
 - <ruby>[丈人](/words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"
 - <ruby>[丈母](/words/丈母.md)<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby> "mother-in-law"
-- <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby> "father's sister's husband"
+- <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄑㄚㄫ</rt></ruby> "father's sister's husband"
 
 ## Chengyu
 - <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> "full of dramatic ups and downs"

@@ -133,7 +133,7 @@ tags: [lookup]
 128. <ruby>[[事 (char)]]<rt>ㄐㄧ</rt></ruby> - thing, action	128	
 129. <ruby>[[放]]<rt>ㄈㄚㄫ</rt></ruby> - release
 130. <ruby>[[表]]<rt>ㄅ⼘ㄨ</rt></ruby> - show, indicate	130	
-131. <ruby>[[所 (char)]]<rt>ㄙ⼄</rt></ruby> - -ee	131	
+131. <ruby>[[所 (char)]]<rt>ㄙㄜ</rt></ruby> - -ee	131	
 132. <ruby>[[妹]]<rt>ㄇㄛㄧ</rt></ruby> - younger sister	132	
 133. <ruby>[[国]]<rt>ㄍㄛㄎ</rt></ruby> - nation	133	
 134. <ruby>[[明 (char)]]<rt>ㄇ⼶ㄫ</rt></ruby> - bright	134	

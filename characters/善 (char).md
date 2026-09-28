@@ -61,11 +61,11 @@ boundedness: 90
 - <ruby>[[善意]]<rt>ㄙ⼶ㄋ·ㄜ</rt></ruby> "good intentions"
 - <ruby>[[善良]]<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby> "kind, benevolent"
 - <ruby>[[慈善]]<rt>ㄐㄧㄙ⼶ㄋ</rt></ruby> "charity, benevolence"
-- <ruby>[[改善]]<rt>ㄍㄚㄧㄙ·ㄝㄋ</rt></ruby> "improvement, reform"
+- <ruby>[[改善]]<rt>ㄍㄚㄧㄙ·⼶ㄋ</rt></ruby> "improvement, reform"
 - <ruby>[[最善]]<rt>ㄐ⼔ㄙ⼶ㄋ</rt></ruby> "best"
 - <ruby>[[至善]]<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby> "summum bonum; the highest good"
 - <ruby>[[善人]]<rt>ㄙ⼶ㄋㄋㄧㄋ</rt></ruby> "philanthropize, well-doer"
-- <ruby>[[善用]]<rt>ㄙ·ㄝㄋ·⼄ㄫ</rt></ruby> "put to good use"
+- <ruby>[[善用]]<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby> "put to good use"
 - <ruby>[[偽善]]<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby> "hypocritical, hypocrisy"
 ## Derived Characters
 - <ruby>[[繕]]<rt>ㄙ⼶ㄋ</rt></ruby> "mend, repair"

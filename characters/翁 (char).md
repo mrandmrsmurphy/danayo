@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-10
 ## Words
 - <ruby>[[翁]]<rt>ㄛㄫ</rt></ruby> "venerable old man" (stand-in for 翁)
 - <ruby>[[信天翁]]<rt>ㄙㄧㄋㄊㄝㄋ·ㄛㄫ</rt></ruby> "albatross"
-- <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨ·ㄨㄫ</rt></ruby> "white-haired old man; grey starling"
+- <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨㄛㄫ</rt></ruby> "white-haired old man; grey starling"

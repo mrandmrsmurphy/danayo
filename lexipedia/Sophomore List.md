@@ -267,7 +267,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- read - <ruby>[[読書]]<rt>ㄉㄛㄎㄙ⼄</rt></ruby>
 	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby>
 	- create - <ruby>[[創造]]<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>
-	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄧㄆ</rt></ruby>
+	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>
 	- learn - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>
 	- copy *(needs a word — [[稿]] means "manuscript, draft," not "copy" of something)*
 - Affection :
@@ -281,7 +281,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Knowledge :
 	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
 	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>
-	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby>
+	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby>
 	- expect *(needs a word)*
 	- remember - <ruby>[[記憶]]<rt>ㄍㄧㄧㄎ</rt></ruby>
 	- forget - <ruby>[[忘却]]<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>

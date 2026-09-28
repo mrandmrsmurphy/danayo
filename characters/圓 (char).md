@@ -66,4 +66,4 @@ boundedness: 90
 - <ruby>[[圓滑]]<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby> "slick, glib, smooth (of a person)"
 
 ## Chengyu
-- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
+- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"

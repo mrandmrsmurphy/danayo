@@ -72,7 +72,7 @@ boundedness: 80
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 - <ruby>[[孝親天賜]]<rt>ㄏ⼘ㄨㄑㄧㄋㄊㄝㄋㄙㄝ</rt></ruby> "honor your parents, that heaven may bless you"
 - <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
-- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
+- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
 - <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄜㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
 
 ## Words

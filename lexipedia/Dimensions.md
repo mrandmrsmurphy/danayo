@@ -86,7 +86,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 
 ### Size & Magnitude
 
-- <ruby>[区域](../words/区域.md)<rt>ㄎㄨ·ㄧㄎ</rt></ruby>, <ruby>[圏](../words/圏.md)<rt>ㄍ⼔ㄋ</rt></ruby>: an area, encircled area.
+- <ruby>[区域](../words/区域.md)<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>, <ruby>[圏](../words/圏.md)<rt>ㄍ⼔ㄋ</rt></ruby>: an area, encircled area.
 - <ruby>[巨大](../words/巨大.md)<rt>ㄍ⼄ㄉㄚㄧ</rt></ruby>, <ruby>[碩大](../words/碩大.md)<rt>ㄙㄝㄎㄉㄚㄧ</rt></ruby>, <ruby>[宏大](../words/宏大.md)<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby>, <ruby>[浩大](../words/浩大.md)<rt>ㄏㄚㄨㄉㄚㄧ</rt></ruby>: gigantic, huge, enormous, vast. See Semantic Range Notes.
 - <ruby>[巨人](../words/巨人.md)<rt>ㄍ⼄·ㄋㄧㄋ</rt></ruby>: a giant, titan.
 - <ruby>[微小](../words/微小.md)<rt>ㄇㄨㄧㄙㄛ</rt></ruby>: tiny, minute, microscopic.

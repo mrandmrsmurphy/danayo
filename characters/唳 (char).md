@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-15
 - <ruby>[[唳]]<rt>ㄌ⼶</rt></ruby> "bird cry, caw"
 
 ## Chengyu
-- <ruby>[[風声鶴唳]]<rt>ㄈㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> "panic attack, apprehension for even the slightest sound"
+- <ruby>[[風声鶴唳]]<rt>ㄈㄨㄫㄙㄧㄫㄏㄚㄎㄌ·⼶</rt></ruby> "panic attack, apprehension for even the slightest sound"

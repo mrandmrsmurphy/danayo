@@ -63,7 +63,7 @@ boundedness: 80
 - <ruby>[[誅殺]]<rt>ㄐㄨㄙㄚㄊ</rt></ruby> "execute; kill"
 
 ## Chengyu
-- <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ·⼔ㄋ</rt></ruby> "murder, adultery, theft, lying"
+- <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ⼔ㄧ</rt></ruby> "murder, adultery, theft, lying"
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"
 
 ## Derived Characters

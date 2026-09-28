@@ -57,4 +57,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby> "falsehood; lie"
 
 ## Chengyu
-- <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ·⼔ㄋ</rt></ruby> "murder, adultery, theft, lying"
+- <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ⼔ㄧ</rt></ruby> "murder, adultery, theft, lying"

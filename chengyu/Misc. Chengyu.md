@@ -74,7 +74,7 @@ tags:
 - <ruby>[因果報応](chengyu/因果報応.md)<rt>ㄧㄋㄍ⺢ㄅㄚㄨ·ㄧㄫ</rt></ruby> - karmic retribution
 - <ruby>[大同小異](chengyu/大同小異.md)<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> - broadly the same with minor differences; essentially alike
 - <ruby>[大器晩成](chengyu/大器晩成.md)<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> - late bloomer
-- <ruby>[天圓地方](chengyu/天圓地方.md)<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> - Heaven is Round, Earth is Square
+- <ruby>[天圓地方](chengyu/天圓地方.md)<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> - Heaven is Round, Earth is Square
 - <ruby>[天地不仁](chengyu/天地不仁.md)<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> - Heaven and Earth are not benevolent
 - <ruby>[天真乱漫](chengyu/天真乱漫.md)<rt>ㄊㄝㄋㄐㄧㄋㄌㄚㄋㄇㄚㄋ</rt></ruby> - simple and artless
 - <ruby>[天衣無縫](chengyu/天衣無縫.md)<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> - flawless
@@ -119,13 +119,13 @@ tags:
 - <ruby>[無為而治](chengyu/無為而治.md)<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> - Rule without action
 - <ruby>[画蛇添足](chengyu/画蛇添足.md)<rt>ㄏ⺢ㄎㄊㄚ·ㄊㄝㄇㄐㄛㄎ</rt></ruby> - gild the lilies, making an unnecessary addition
 - <ruby>[画龍点睛](chengyu/画龍点睛.md)<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> - finishing touches
-- <ruby>[白頭偕老](chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄐㄧㄋㄍ⼶ㄌㄚㄨ</rt></ruby> - Till death do us part
+- <ruby>[白頭偕老](chengyu/白頭偕老.md)<rt>ㄅㄚㄎㄊㄛㄨㄍ⼶ㄌㄚㄨ</rt></ruby> - Till death do us part
 - <ruby>[百聞不如一見](chengyu/百聞不如一見.md)<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> - Hearing something one hundred times is not as good as seeing it once
 - <ruby>[盛者必衰](chengyu/盛者必衰.md)<rt>ㄙㄧㄫㄑㄚㄅㄧㄊㄙ⼔ㄧ</rt></ruby> - what flourishes must fade
 - <ruby>[盛衰栄辱](chengyu/盛衰栄辱.md)<rt>ㄙㄧㄫㄙ⼔ㄧㄨㄧㄫㄋㄛㄎ</rt></ruby> - prosperity and decline
 - <ruby>[磨穿鉄硯](chengyu/磨穿鉄硯.md)<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> - work with such relentless dedication that even iron yields
 - <ruby>[神経衰弱](chengyu/神経衰弱.md)<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> - neurasthenia
-- <ruby>[種瓜得瓜](chengyu/種瓜得瓜.md)<rt>ㄐㄛㄫㄍ⺢ㄉㄨㄎㄍ⺢</rt></ruby> - As a man plants, so shall he reap
+- <ruby>[種瓜得瓜](chengyu/種瓜得瓜.md)<rt>ㄐㄛㄫㄍ⺢·ㄊㄜㄎㄍ⺢</rt></ruby> - As a man plants, so shall he reap
 - <ruby>[空前絶後](chengyu/空前絶後.md)<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> - unprecedented and unrepeatable; without parallel before or after
 - <ruby>[粉骨砕身](chengyu/粉骨砕身.md)<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> - to have one's body smashed to pieces; to die the most cruel death
 - <ruby>[糟糠之妻](chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> - a devoted wife who shared the hardship of poverty, not to be abandoned after success
@@ -144,7 +144,7 @@ tags:
 - <ruby>[虎視耽耽](chengyu/虎視耽耽.md)<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> - to eye covetously like a prowling tiger
 - <ruby>[言行一致](chengyu/言行一致.md)<rt>ㄝㄋㄏㄚㄫㄧㄊㄑㄧㄜ</rt></ruby> - true to one's word
 - <ruby>[誠心誠意](chengyu/誠心誠意.md)<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫ·ㄧ</rt></ruby> - in all sincerity; with one's whole heart
-- <ruby>[論功行賞](chengyu/論功行賞.md)<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> - meritocracy
+- <ruby>[論功行賞](chengyu/論功行賞.md)<rt>ㄌㄛㄋㄍㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> - meritocracy
 - <ruby>[諸法無我](chengyu/諸法無我.md)<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> - every dharma is without self
 - <ruby>[諸行無常](chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> - all conditioned things are impermanent
 - <ruby>[起死回生](chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> - revival from the point of death

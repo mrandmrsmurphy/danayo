@@ -55,7 +55,7 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby> "pond, reservoir"
-- <ruby>[[湯池]]<rt>ㄊㄚㄋㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
+- <ruby>[[湯池]]<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
 
 ## Chengyu
 - <ruby>[[金城湯池]]<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> "sure thing, impenetrable city"

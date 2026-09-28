@@ -51,7 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[湯池]]<rt>ㄊㄚㄋㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
+- <ruby>[[湯池]]<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
 - <ruby>[[肉湯]]<rt>ㄋㄨㄎㄊㄚㄫ</rt></ruby> "broth"
 
 ## Chengyu

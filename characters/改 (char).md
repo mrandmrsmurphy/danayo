@@ -53,7 +53,7 @@ boundedness: 80
 ## Words
 - <ruby>[[改]]<rt>ㄍㄚㄧ</rt></ruby> "to change; to redo; to renew"
 - <ruby>[[改元]]<rt>ㄍㄚㄧ⼔ㄋ</rt></ruby> "change of era name"
-- <ruby>[[改善]]<rt>ㄍㄚㄧㄙ·ㄝㄋ</rt></ruby> "improvement; reform"
+- <ruby>[[改善]]<rt>ㄍㄚㄧㄙ·⼶ㄋ</rt></ruby> "improvement; reform"
 - <ruby>[[改変]]<rt>ㄍㄚㄧㄅ⼶ㄋ</rt></ruby> "alteration; change"
 - <ruby>[[改竄]]<rt>ㄍㄚㄧㄑㄚㄋ</rt></ruby> "to falsify; to tamper with"
 - <ruby>[[改革]]<rt>ㄍㄚㄧㄎㄧㄎ</rt></ruby> "reform"

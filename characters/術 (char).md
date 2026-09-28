@@ -56,7 +56,7 @@ date-last-perfect: 2026-08-01
 - <ruby>[[巫術]]<rt>ㄇㄨㄙㄨㄊ</rt></ruby> "shamanism, magic, sorcery"
 - <ruby>[[剣術]]<rt>ㄍㄛㄇㄙㄨㄊ</rt></ruby> "fencing, swordsmanship"
 - <ruby>[[御術]]<rt>⼄ㄙㄨㄊ</rt></ruby> "charioteering"
-- <ruby>[[射術]]<rt>ㄊ⼘ㄙㄨㄊ</rt></ruby> "archery"
+- <ruby>[[射術]]<rt>ㄙ⼘ㄙㄨㄊ</rt></ruby> "archery"
 - <ruby>[[武術]]<rt>ㄇㄨㄙㄨㄊ</rt></ruby> "martial art"
 - <ruby>[[法術]]<rt>ㄈㄚㄆㄙㄨㄊ</rt></ruby> "magic, magic arts"
 - <ruby>[[算術]]<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby> "arithmetic"

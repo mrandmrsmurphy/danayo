@@ -59,7 +59,7 @@ boundedness:
 - <ruby>[[適応]]<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation; to adapt"
 - <ruby>[[反応]]<rt>ㄆㄛㄋ·ㄧㄫ</rt></ruby> "react, respond"
 - <ruby>[[対応]]<rt>ㄉㄛㄧㄧㄫ</rt></ruby> "correspond with, respond to"
-- <ruby>[[応訊]]<rt>ㄧㄫㄙㄧㄫ</rt></ruby> "question, subpoena"
+- <ruby>[[応訊]]<rt>ㄧㄫㄙㄧㄋ</rt></ruby> "question, subpoena"
 
 ## Chengyu
 - <ruby>[[現代適応]]<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation to modern speech"

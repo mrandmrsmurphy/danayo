@@ -71,6 +71,6 @@ boundedness: 90
 ### Earth & Other
 - <ruby>[[地球]]<rt>ㄉㄧㄜㄍ⼜</rt></ruby> "earth, globe, world"
 - <ruby>[[地球儀]]<rt>ㄉㄧㄜㄍ⼜ㄜㄧ</rt></ruby> "globe, model earth"
-- <ruby>[[眼球]]<rt>ㄚㄋㄍ·ㄨ</rt></ruby> "eyeball"
+- <ruby>[[眼球]]<rt>ㄚㄋㄍ·⼜</rt></ruby> "eyeball"
 - <ruby>[[全球]]<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby> "global; the entire world"
 - <ruby>[[瑠球]]<rt>ㄌ⼜ㄍ⼜</rt></ruby> "Ryukyu"

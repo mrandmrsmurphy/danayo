@@ -61,7 +61,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
-- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
+- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 - <ruby>[字南](/words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby> - Chu Nom
 - <ruby>[字母](/words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> - grapheme
 - <ruby>[字源](/words/字源.md)<rt>ㄐㄧ⼔ㄋ</rt></ruby> - etymology

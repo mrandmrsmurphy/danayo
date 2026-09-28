@@ -65,7 +65,7 @@ boundedness: 90
 - <ruby>[[提出]]<rt>ㄙㄝㄑㄨㄊ</rt></ruby> "to bring forward, to submit"
 - <ruby>[[出生率]]<rt>ㄑㄨㄊㄙㄚㄫㄌㄨㄊ</rt></ruby> "birth rate; natality"
 - <ruby>[[出発]]<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby> "depart"
-- <ruby>[[出谷記]]<rt>ㄑㄨㄊㄍㄧㄍㄛㄎ</rt></ruby> "Exodus"
+- <ruby>[[出谷記]]<rt>ㄑㄨㄊㄍㄛㄎㄍㄧ</rt></ruby> "Exodus"
 - <ruby>[[外出]]<rt>⺢ㄧㄑㄨㄊ</rt></ruby> "go out"
 - <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "perform, put on a show (Mandarin/Cantonese); direct, stage-produce (Japanese)"
 - <ruby>[[貸出]]<rt>ㄊㄚㄧㄑㄨㄊ</rt></ruby> "lend; loan"

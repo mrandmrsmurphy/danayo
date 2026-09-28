@@ -61,7 +61,7 @@ boundedness: 80
 - <ruby>[[退]]<rt>ㄊㄧㄜ</rt></ruby> "retreat, recede, withdraw" (stand-in for 退)
 - <ruby>[[辞退]]<rt>ㄑㄧ·ㄊㄧㄜ</rt></ruby> "decline, refuse"
 - <ruby>[[衰退]]<rt>ㄙ⼔ㄧㄊㄧㄜ</rt></ruby> "decline"
-- <ruby>[[退職]]<rt>ㄊㄛㄧㄐㄧㄎ</rt></ruby> "retire, resign"
+- <ruby>[[退職]]<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby> "retire, resign"
 
 ## Derived Characters
 - <ruby>[[腿]]<rt>ㄊㄧㄜ</rt></ruby> "thigh"

@@ -53,4 +53,4 @@ date-last-perfect: 2026-08-06
 - <ruby>[[懐抱]]<rt>ㄏ⺢ㄧㄅㄚㄨ</rt></ruby> "cherish, embrace"
 - <ruby>[[懐孕]]<rt>ㄏ⺢ㄧㄧㄫ</rt></ruby> "pregnant"
 - <ruby>[[懐愁]]<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby> "wistful longing; nostalgic grief"
-- <ruby>[[懐疑]]<rt>ㄏ⺢·ㄧ</rt></ruby> "doubt"
+- <ruby>[[懐疑]]<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby> "doubt"

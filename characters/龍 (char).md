@@ -65,7 +65,7 @@ boundedness: 70
 - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)
 - <ruby>[[九龍]]<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby> "Kowloon; the Mekong Delta (Vietnamese Cửu Long)"
 - <ruby>[[烏龍]]<rt>ㄛㄌ⼄ㄫ</rt></ruby> "black dragon; Wulong"
-- <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ·ㄛㄫ</rt></ruby> "earthworm"
+- <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ⼄ㄫ</rt></ruby> "earthworm"
 - <ruby>[[龍蝦]]<rt>ㄌ⼄ㄫㄏㄚ</rt></ruby> "lobster"
 - <ruby>[[恐龍]]<rt>ㄎㄛㄫㄌ⼄ㄫ</rt></ruby> "dinosaur"
 - <ruby>[[烏龍茶]]<rt>ㄛㄌ⼄ㄫㄑㄚ</rt></ruby> "oolong tea"

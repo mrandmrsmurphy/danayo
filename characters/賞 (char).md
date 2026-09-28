@@ -53,7 +53,7 @@ boundedness: 90
 - <ruby>[[受賞]]<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby> "win an award"
 
 ## Chengyu
-- <ruby>[[論功行賞]]<rt>ㄌㄛㄋㄎㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> "meritocracy"
+- <ruby>[[論功行賞]]<rt>ㄌㄛㄋㄍㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> "meritocracy"
 
 ## Derived Characters
 - <ruby>[[償]]<rt>ㄙ⼘ㄫ</rt></ruby> "repay; recompense"

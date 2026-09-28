@@ -70,7 +70,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[伯母](../words/伯母.md)<rt>ㄅㄚㄎㄇㄛㄨ</rt></ruby>: aunt — paired with [[伯伯]]/[[伯父]] (father's older brother's wife).
 - <ruby>[叔母](../words/叔母.md)<rt>ㄙㄨㄎㄇㄛㄨ</rt></ruby>: aunt — paired with [[叔父]].
 - <ruby>[姑母](../words/姑母.md)<rt>ㄍㄛ·ㄇㄛㄨ</rt></ruby>: paternal aunt — father's sister, as distinct from an uncle's wife.
-- <ruby>[姑丈](../words/姑丈.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby>: paternal aunt's husband — father's sister's husband specifically, paired with [[姑母]].
+- <ruby>[姑丈](../words/姑丈.md)<rt>ㄍㄛㄑㄚㄫ</rt></ruby>: paternal aunt's husband — father's sister's husband specifically, paired with [[姑母]].
 - <ruby>[姨母](../words/姨母.md)<rt>ㄧㄜㄇㄛㄨ</rt></ruby>: maternal aunt — mother's sister or mother's brother's wife.
 - <ruby>[丈人](../words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby>: father-in-law — wife's father; an in-law at this generational level.
 - <ruby>[丈母](../words/丈母.md)<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby>: mother-in-law.

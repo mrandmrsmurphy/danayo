@@ -52,7 +52,7 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[蒼]]<rt>ㄑ⺢ㄫ</rt></ruby> "blue, green, grey" (stand-in for 蒼)
-- <ruby>[[蒼朮]]<rt>ㄑ⺢ㄫㄐㄨㄊ</rt></ruby> "atractylodes rhizome"
+- <ruby>[[蒼朮]]<rt>ㄑ⺢ㄫㄙㄨㄊ</rt></ruby> "atractylodes rhizome"
 - <ruby>[[蒼鉛]]<rt>ㄑ⺢ㄫ⼶ㄋ</rt></ruby> "bismuth"
 - <ruby>[[蒼海]]<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby> "vast ocean"
 - <ruby>[[蒼路]]<rt>ㄑ⺢ㄫㄌㄛ</rt></ruby> "crane"

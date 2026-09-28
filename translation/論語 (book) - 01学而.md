@@ -5,7 +5,7 @@ tags: book
 > [論語 (book)](translation/論語%20(book).md)
 ## 1
 <ruby>子<rt>ㄐㄜ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>：<br/>
-<ruby>学習<rt>ㄏㄚㄎㄙㄧㄆ</rt></ruby><ruby>物<rt>ㄇㄨㄊ</rt></ruby><ruby>与<rt>·⼄</rt></ruby> <ruby>常時<rt>ㄙ⼘ㄫㄙㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>練習<rt>ㄌㄝㄋㄙㄜㄆ</rt></ruby><ruby>物<rt>ㄇㄨㄊ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊㄜㄎ</rt></ruby><ruby>喜悦<rt>ㄏㄧ⼶ㄊ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?<br/>
+<ruby>学習<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby><ruby>物<rt>ㄇㄨㄊ</rt></ruby><ruby>与<rt>·⼄</rt></ruby> <ruby>常時<rt>ㄙ⼘ㄫㄙㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>練習<rt>ㄌㄝㄋㄙㄜㄆ</rt></ruby><ruby>物<rt>ㄇㄨㄊ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊㄜㄎ</rt></ruby><ruby>喜悦<rt>ㄏㄧ⼶ㄊ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?<br/>
 
 <ruby>有<rt>⼜</rt></ruby><ruby>遠方<rt>ㄛㄋㄈㄚㄫ</rt></ruby><ruby>由<rt>·⼜ㄛ</rt></ruby><ruby>来<rt>ㄌㄚㄧ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>朋友<rt>ㄅㄨㄫ⼜ㄛ</rt></ruby><ruby>事<rt>ㄐㄧ</rt></ruby> <ruby>不亦<rt>ㄅㄛㄊㄜㄎ</rt></ruby><ruby>快楽<rt>ㄎ⺢ㄧㄌㄚㄎ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>?<br/>
 

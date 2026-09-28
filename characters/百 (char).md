@@ -58,7 +58,7 @@ boundedness: 80
 - <ruby>[[百升]]<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby> "hectoliter"
 - <ruby>[[百越]]<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby> "Baiyue; the Hundred Yue peoples"
 - <ruby>[[百済]]<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby> "Baekje"
-- <ruby>[[百科]]<rt>ㄅㄚㄎㄍ⺢</rt></ruby> "all knowledge"
+- <ruby>[[百科]]<rt>ㄅㄚㄎㄎ⺢</rt></ruby> "all knowledge"
 - <ruby>[[百科事典]]<rt>ㄅㄚㄎㄎ⺢ㄐㄧㄉㄝㄋ</rt></ruby> "encyclopedia"
 - <ruby>[[百家]]<rt>ㄅㄚㄎㄍㄚ</rt></ruby> "hundred schools, many schools of thought"
 - <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"

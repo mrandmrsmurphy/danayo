@@ -49,7 +49,7 @@ boundedness: 90
 - <ruby>[[目]]<rt>ㄇㄨㄎ</rt></ruby> "eye" (stand-in for 目)
 - <ruby>[[題目]]<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby> "topic"
 - <ruby>[[目前]]<rt>ㄇㄨㄎㄐㄝㄋ</rt></ruby> "present; right before one's eyes"
-- <ruby>[[目標]]<rt>ㄇㄨㄎㄅ⼄ㄨ</rt></ruby> "target; aim; goal"
+- <ruby>[[目標]]<rt>ㄇㄨㄎㄅ⼄</rt></ruby> "target; aim; goal"
 - <ruby>[[目的]]<rt>ㄇㄨㄎㄉㄝㄎ</rt></ruby> "target, objective"
 - <ruby>[[目宿]]<rt>ㄇㄨㄎㄙㄨㄎ</rt></ruby> "alfalfa"
 - <ruby>[[品目]]<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby> "article; item; inventory"

@@ -60,7 +60,7 @@ boundedness: 100
 - <ruby>[[明朗]]<rt>ㄇ⼶ㄫㄌㄚㄫ</rt></ruby> "bright; clear; cheerful"
 - <ruby>[[明確]]<rt>ㄇ⼶ㄫㄎㄚㄎ</rt></ruby> "clear; definite"
 - <ruby>[[明様]]<rt>ㄇ⼶ㄫ⼘ㄫ</rt></ruby> "brightly; in a bright way"
-- <ruby>[[明徳]]<rt>ㄇ⼶ㄫㄉㄨㄎ</rt></ruby> "bright virtue, show virtue"
+- <ruby>[[明徳]]<rt>ㄇ⼶ㄫㄊㄨㄎ</rt></ruby> "bright virtue, show virtue"
 - <ruby>[[明日]]<rt>ㄇ⼶ㄫㄋㄧㄊ</rt></ruby> "tomorrow"
 - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> "bright moon; jewel"
 - <ruby>[[明治]]<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby> "Meiji"
@@ -88,7 +88,7 @@ boundedness: 100
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
-- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
+- <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 
 ## Derived Characters
 - <ruby>[[盟]]<rt>ㄇ⼶ㄫ</rt></ruby> "alliance; covenant"

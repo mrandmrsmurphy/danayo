@@ -92,7 +92,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顚]]
 - [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄆㄚㄆㄍㄛㄎ</rt></ruby>
-- <ruby>[徳国](../words/徳国.md)<rt>ㄉㄨㄎㄍㄛㄎ</rt></ruby>
+- <ruby>[徳国](../words/徳国.md)<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby>
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>
@@ -221,7 +221,7 @@ These were directional boundary waters ([[方位]][[界水]]), not measured ocea
 8. Liang ([[梁州]]), and
 9. Yong ([[雍州]]).
 
-These provinces (州) were civilizational and administrative regions ([[行政]][[区域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王畿]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄧㄎ</rt></ruby>).
+These provinces (州) were civilizational and administrative regions ([[行政]][[区域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王畿]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>).
 
 This concentric Nine-Provinces model eventually gave way to the historical reality of the Warring States, one of which — <ruby>[秦国](../words/秦国.md)<rt>ㄐㄧㄋㄍㄛㄎ</rt></ruby> (the state of Qin) — unified the others into China's first empire.
 

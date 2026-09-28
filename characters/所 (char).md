@@ -49,7 +49,7 @@ boundedness: 90
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[所]]<rt>ㄙ⼄</rt></ruby> "-ee" (stand-in for 所)
+- <ruby>[[所]]<rt>ㄙㄜ</rt></ruby> "-ee" (stand-in for 所)
 - <ruby>[[所在]]<rt>ㄙㄜㄐㄚㄧ</rt></ruby> "place; location; whereabouts"
 - <ruby>[[所有]]<rt>ㄙㄜ⼜</rt></ruby> "all, every (Mandarin/Cantonese determiner); possession, ownership (formal, all languages)"
 - <ruby>[[所以]]<rt>ㄙㄜㄧ</rt></ruby> "therefore; so; consequently"

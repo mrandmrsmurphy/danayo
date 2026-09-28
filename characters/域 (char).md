@@ -54,7 +54,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[域]]<rt>ㄨㄧㄎ</rt></ruby> "domain" (stand-in for 域)
-- <ruby>[[区域]]<rt>ㄎㄨ·ㄧㄎ</rt></ruby> "area"
+- <ruby>[[区域]]<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby> "area"
 - <ruby>[[地域]]<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby> "district"
 - <ruby>[[流域]]<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> "river basin"
 - <ruby>[[定義域]]<rt>ㄐㄝㄫㄜㄧㄨㄧㄎ</rt></ruby> "domain of a function"

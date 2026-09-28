@@ -71,7 +71,7 @@ boundedness: 90
 - <ruby>[[地下牢]]<rt>ㄉㄧㄜㄏㄚㄌㄚㄨ</rt></ruby> "dungeon"
 - <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> "Mediterranean Sea"
 - <ruby>[[地震]]<rt>ㄉㄧㄜㄐㄧㄋ</rt></ruby> "earthquake"
-- <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ·ㄛㄫ</rt></ruby> "earthworm; terrestrial dragon"
+- <ruby>[[地龍]]<rt>ㄉㄧㄜㄌ⼄ㄫ</rt></ruby> "earthworm; terrestrial dragon"
 - <ruby>[[山地]]<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby> "mountain; mountain area"
 - <ruby>[[陸地]]<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby> "land; dry land; landmass"
 - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby> "lawn, grassland, meadow"
@@ -91,8 +91,8 @@ boundedness: 90
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
-- <ruby>[[乳蜜流地]]<rt>ㄋㄨㄇㄧㄊㄌ·ㄨㄉㄧㄜ</rt></ruby> "a land flowing with milk and honey"
-- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
+- <ruby>[[乳蜜流地]]<rt>ㄋㄨ·ㄇㄧㄊㄌ·⼜ㄉㄧㄜ</rt></ruby> "a land flowing with milk and honey"
+- <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
 
 ## Derived Characters
