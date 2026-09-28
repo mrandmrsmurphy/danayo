@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2523
+- **Unsorted**: 2522
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1377,7 +1377,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[脾臓]] — spleen
 - [[腐敗]] — rot, spoil, corrupt
 - [[腐朽]] — decay, rot, corruption
-- [[腫瘍]] — tumor, neoplasm
 - [[腫脹]] — swelling
 - [[膠水]] — glue, adhesive
 - [[膣]] — cunt

@@ -130,6 +130,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).
 - <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>: stomach acid.
 - <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>: stomach cancer.
+- <ruby>[腫瘍](../words/腫瘍.md)<rt>ㄐㄛㄫ⼘ㄫ</rt></ruby>: a tumor, neoplasm.
 - <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>: sweat.
 - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
 - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
