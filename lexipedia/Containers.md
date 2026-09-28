@@ -38,6 +38,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 - <ruby>[胡芦](../words/胡芦.md)<rt>ㄏㄛㄨㄌㄛ</rt></ruby>: a bottle gourd, calabash.
 - <ruby>[鍾](../words/鍾.md)<rt>ㄐㄛㄫ</rt></ruby>: an alcohol bottle.
 - <ruby>[甕](../words/甕.md)<rt>ㄛㄫ</rt></ruby>: a jar.
+- <ruby>[缶頭](../words/缶頭.md)<rt>ㄍ⺢ㄋㄊㄛㄨ</rt></ruby>: canned goods, a tin can.
 
 ### Storage & Carrying
 

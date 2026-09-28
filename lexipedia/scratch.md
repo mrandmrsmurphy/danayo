@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2524
+- **Unsorted**: 2523
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1326,7 +1326,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[織女星]] — vega
 - [[繞]] — entwine, surround, enclose
 - [[繭]] — cocoon
-- [[缶頭]] — canned goods
 - [[缺点]] — flaw, defect
 - [[罷免]] — defrock, dismiss, discharge
 - [[罷官]] — quit, be dismissed, resigned
