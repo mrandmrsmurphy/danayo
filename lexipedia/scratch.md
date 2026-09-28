@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2549
+- **Unsorted**: 2548
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -478,7 +478,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[君主]] — monarch
 - [[君子]] — junzi, nobleman
 - [[君臣]] — fealty
-- [[吝嗇]] — miserly
 - [[含漱]] — gargle
 - [[吸金]] — samarium
 - [[周章]] — troubled, flustered

@@ -190,6 +190,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby>: to blow.
 - <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>: to kiss.
 - <ruby>[笑](../words/笑.md)<rt>ㄙ⼄ㄨ</rt></ruby>: to laugh, smile.
+- <ruby>[哄笑](../words/哄笑.md)<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby>: to burst out laughing, roar with laughter.
 - <ruby>[嘆](../words/嘆.md)<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby> (sigh, exclaim), <ruby>[慨](../words/慨.md)<rt>ㄎㄚㄧ</rt></ruby>: to sigh.
 - <ruby>[欠](../words/欠.md)<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[欠伸](../words/欠伸.md)<rt>ㄎ⼘ㄇㄙㄧㄋ</rt></ruby> (yawn and stretch): to yawn.
 - <ruby>[咬](../words/咬.md)<rt>⼘ㄨ</rt></ruby>: to bite, chew.
