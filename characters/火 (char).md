@@ -64,7 +64,7 @@ boundedness: 90
 - <ruby>[[火焰]]<rt>ㄏ⺢⼶ㄇ</rt></ruby> "flame; blaze"
 - <ruby>[[火紅]]<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby> "fire-red; blazing red"
 - <ruby>[[火紅素]]<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby> "strontium"
-- <ruby>[[放火]]<rt>ㄅㄚㄫㄏ⺢</rt></ruby> "set on fire; arson"
+- <ruby>[[放火]]<rt>ㄈㄚㄫㄏ⺢</rt></ruby> "set on fire; arson"
 - <ruby>[[防火]]<rt>ㄅㄚㄫㄏ⺢</rt></ruby> "fire prevention; fireproofing"
 - <ruby>[[火曜日]]<rt>ㄏ⺢⼄ㄨㄋㄧㄊ</rt></ruby> "Tuesday"
 ## Chengyu

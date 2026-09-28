@@ -49,7 +49,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 ### Ceremony, Celebration & Anniversary
 
 - <ruby>[儀式](../words/儀式.md)<rt>ㄜㄧㄙㄧㄎ</rt></ruby>: a ritual ceremony.
-- <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
+- <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[祭典](../words/祭典.md)<rt>ㄐㄝㄉㄝㄋ</rt></ruby>: a festival, sacrificial ceremony.
 - <ruby>[週年](../words/週年.md)<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby>: an anniversary.
 - <ruby>[生日](../words/生日.md)<rt>ㄙㄚㄫㄋㄧㄊ</rt></ruby>: a birthday.

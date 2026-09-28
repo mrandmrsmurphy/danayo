@@ -62,7 +62,7 @@ boundedness: 75
 - <ruby>[[三綱]]<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby> "the three cardinal relationships"
 - <ruby>[[三菱]]<rt>ㄙㄚㄇㄌㄜㄫ</rt></ruby> "Mitsubishi"
 - <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> "triangle"
-- <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby> "trigonometry"
+- <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄈㄚㄆ</rt></ruby> "trigonometry"
 - <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> "triangle"
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
 

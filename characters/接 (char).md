@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[接尾辞]]<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"
 - <ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> "link, join, connect"
 - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby> "tangent"
-- <ruby>[[交接]]<rt>ㄍ⼘ㄨㄐㄛㄆ</rt></ruby> "to link; join; connect"
+- <ruby>[[交接]]<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby> "to link; join; connect"
 - <ruby>[[連接詞]]<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby> "conjunction (grammar)"
 - <ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> "to link; join; connect"
 - <ruby>[[接近]]<rt>ㄐㄛㄆㄍㄧㄋ</rt></ruby> "to approach; similar"

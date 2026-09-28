@@ -70,7 +70,7 @@ boundedness: 20
 - <ruby>[[腰骨]]<rt>⼄ㄨㄍㄛㄊ</rt></ruby> "hip bone"
 
 ## Chengyu
-- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"
+- <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"
 
 ## Derived Characters

@@ -67,7 +67,7 @@ boundedness: 100
 - <ruby>[[大正]]<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby> "just; fair; Taisho era"
 - <ruby>[[旧正月]]<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> "lunar new year; old new year"
 - <ruby>[[正字]]<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
-- <ruby>[[正字法]]<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> "orthography"
+- <ruby>[[正字法]]<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby> "orthography"
 - <ruby>[[正弦]]<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby> "sine"
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby> "tangent"
 - <ruby>[[正月]]<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby> "first month of the year"

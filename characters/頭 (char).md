@@ -53,7 +53,7 @@ boundedness: 100
 ## Words
 - <ruby>[[頭]]<rt>ㄊㄛㄨ</rt></ruby> "head" (stand-in for 頭)
 - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> "stone; rock"
-- <ruby>[[頭髪]]<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby> "head hair"
+- <ruby>[[頭髪]]<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby> "head hair"
 - <ruby>[[埠頭]]<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby> "pier; wharf"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨ·ㄨㄫ</rt></ruby> "white-haired old man; grey starling"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"

@@ -132,7 +132,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 
 ### Trigonometry & Calculus
 
-- <ruby>[三角法](../words/三角法.md)<rt>ㄙㄚㄇㄍㄛㄎㄆㄚㄆ</rt></ruby>: trigonometry, the field itself.
+- <ruby>[三角法](../words/三角法.md)<rt>ㄙㄚㄇㄍㄛㄎㄈㄚㄆ</rt></ruby>: trigonometry, the field itself.
 - <ruby>[正弦](../words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>: sine.
 - <ruby>[余弦](../words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>: cosine.
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>: tangent.

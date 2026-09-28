@@ -62,7 +62,7 @@ boundedness: 45
 - <ruby>[[日本]]<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby> "Japan"
 - <ruby>[[日本語]]<rt>ㄋㄧㄊㄅㄛㄋ·⼄</rt></ruby> "Japanese language"
 - <ruby>[[書本]]<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby> "book"
-- <ruby>[[本日]]<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> "today"
+- <ruby>[[本日]]<rt>ㄅㄛㄋㄋㄧㄊ</rt></ruby> "today"
 - <ruby>[[版本]]<rt>ㄆㄚㄋㄅㄛㄋ</rt></ruby> "edition; version"
 - <ruby>[[読本]]<rt>ㄉㄛㄎㄅㄛㄋ</rt></ruby> "reader"
 - <ruby>[[本塁打]]<rt>ㄅㄛㄋㄌㄨㄧㄉㄚ</rt></ruby> "homerun"

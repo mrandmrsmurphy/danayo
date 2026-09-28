@@ -61,7 +61,7 @@ boundedness: 95
 - <ruby>[[分配]]<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby> "distribute, partition, share"
 - <ruby>[[充分]]<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby> "ample, plenty, enough"
 - <ruby>[[分之]]<rt>ㄅㄨㄋㄊㄧ</rt></ruby> "-ths (fraction marker)"
-- <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
+- <ruby>[[十分]]<rt>ㄙㄧㄆㄅㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[分析]]<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby> "analyze, analysis"
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
 - <ruby>[[分掌]]<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby> "to divide work duties"

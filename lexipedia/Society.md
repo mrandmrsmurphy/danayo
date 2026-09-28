@@ -129,7 +129,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 ### Friendship, Mediation & Belonging
 
-- <ruby>[交友](../words/交友.md)<rt>ㄍ⼘ㄨ·⼜ㄛ</rt></ruby>: to make friends.
+- <ruby>[交友](../words/交友.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to make friends.
 - <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
 - <ruby>[仲介](../words/仲介.md)<rt>ㄉㄨㄫㄍ⼶</rt></ruby>: a mediator, broker.
 - <ruby>[仲媒](../words/仲媒.md)<rt>ㄉㄨㄫㄇㄛㄧ</rt></ruby>: a matchmaker.
@@ -189,7 +189,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[習俗](../words/習俗.md)<rt>ㄙㄜㄆㄙㄛㄎ</rt></ruby>: custom, mores, convention.
 - <ruby>[恒例](../words/恒例.md)<rt>ㄏㄨㄫㄌㄝ</rt></ruby>: an established practice, custom.
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
-- <ruby>[儀礼](../words/儀礼.md)<rt>ㄨㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
+- <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
 - <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
 - <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ·⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."

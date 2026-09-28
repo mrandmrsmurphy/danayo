@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-09
 - <ruby>[[豚]]<rt>ㄊㄨㄋ</rt></ruby> "pig" (stand-in for 豚)
 - <ruby>[[豚肉]]<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby> "pork"
 - <ruby>[[豚井]]<rt>ㄊㄨㄋㄐㄧㄫ</rt></ruby> "butadon; pork rice bowl"
-- <ruby>[[海豚]]<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby> "dolphin"
+- <ruby>[[海豚]]<rt>ㄏㄚㄧㄊㄨㄋ</rt></ruby> "dolphin"

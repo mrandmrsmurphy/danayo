@@ -52,7 +52,7 @@ boundedness: 100
 - <ruby>[[白金]]<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby> "platinum"
 - <ruby>[[白及]]<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby> "bai ji; Bletilla striata (ground orchid)"
 - <ruby>[[太白星]]<rt>ㄊㄚㄧㄅㄚㄎㄙㄝㄫ</rt></ruby> "Venus; evening star"
-- <ruby>[[白粉]]<rt>ㄅㄚㄎㄅㄨㄋ</rt></ruby> "white powder; face powder"
+- <ruby>[[白粉]]<rt>ㄅㄚㄎㄈㄨㄋ</rt></ruby> "white powder; face powder"
 - <ruby>[[白内障]]<rt>ㄅㄚㄎㄋㄛㄧㄐㄚㄫ</rt></ruby> "cataract"
 - <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby> "daydream"
 - <ruby>[[白領]]<rt>ㄅㄚㄎㄌㄧㄫ</rt></ruby> "white-collar"

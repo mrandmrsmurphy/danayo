@@ -128,7 +128,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 
 ## Function Words
 - <ruby>[助詞](../words/助詞.md)<rt>ㄐㄛㄙㄚ</rt></ruby> "particle (grammar)"
-- <ruby>[特詞](../words/特詞.md)<rt>ㄉㄨㄎㄙㄚ</rt></ruby> "particle"
+- <ruby>[特詞](../words/特詞.md)<rt>ㄉㄜㄎㄙㄚ</rt></ruby> "particle"
 - <ruby>[関詞](../words/関詞.md)<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, relational particle"
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
@@ -155,7 +155,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
-- grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄆㄚㄆ</rt></ruby>
+- grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - gender, form: not yet coined.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
@@ -234,7 +234,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[慣用句](../words/慣用句.md)<rt>ㄍ⺢ㄋ·⼄ㄫㄍㄨ</rt></ruby> "idiom, idiomatic phrase, set expression"
 - <ruby>[名称](../words/名称.md)<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby> "appellation, name, title"
 - <ruby>[句](../words/句.md)<rt>ㄍㄨ</rt></ruby> "phrase, sentence, stanza, paragraph, clause, pericope"
-- <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄆㄚㄆ</rt></ruby> "syntax"
+- <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄈㄚㄆ</rt></ruby> "syntax"
 - <ruby>[段](../words/段.md)<rt>ㄉ⺢ㄋ</rt></ruby> "segments, sections, passages"
 - <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ⼄</rt></ruby> "to coin a word; a coinage, neologism"
 

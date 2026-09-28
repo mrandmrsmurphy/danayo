@@ -61,7 +61,7 @@ A single prefix set combines with day/week/month/year/century to mean "this," "n
 31. <ruby>[三十一日](../words/三十一日.md)<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby>
 
 Poetry
-- <ruby>[本日](../words/本日.md)<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> is poetic for 'today'
+- <ruby>[本日](../words/本日.md)<rt>ㄅㄛㄋㄋㄧㄊ</rt></ruby> is poetic for 'today'
 - <ruby>[明日](../words/明日.md)<rt>ㄇ⼶ㄫㄋㄧㄊ</rt></ruby> is poetic for 'tomorrow'
 - <ruby>[即日](../words/即日.md)<rt>ㄐㄜㄎㄋㄧㄊ</rt></ruby> is business for 'same day'
 - <ruby>[是日](../words/是日.md)<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> is archaic for 'same day'

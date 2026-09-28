@@ -64,5 +64,5 @@ boundedness: 80
 - <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"
 
 ## Chengyu
-- <ruby>[[百家共承]]<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
+- <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄋㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"

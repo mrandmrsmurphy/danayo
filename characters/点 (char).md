@@ -58,7 +58,7 @@ boundedness: 100
 - <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"
 - <ruby>[[分点]]<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby> "equinox"
 - <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"
-- <ruby>[[交点]]<rt>ㄍ⼘ㄨㄉㄝㄇ</rt></ruby> "intersection; node"
+- <ruby>[[交点]]<rt>ㄍ⼄ㄨㄉㄝㄇ</rt></ruby> "intersection; node"
 - <ruby>[[地点]]<rt>ㄉㄧㄜㄉㄝㄇ</rt></ruby> "point; spot"
 - <ruby>[[得点]]<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby> "score"
 - <ruby>[[拠点]]<rt>ㄍ⼄ㄉㄝㄇ</rt></ruby> "base; foothold"

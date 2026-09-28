@@ -153,7 +153,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 ### Animal Behavior
 
-- <ruby>[交尾](../words/交尾.md)<rt>ㄍ⼘ㄨㄇㄨㄧ</rt></ruby>: to mate, copulate (of animals).
+- <ruby>[交尾](../words/交尾.md)<rt>ㄍ⼄ㄨㄇㄨㄧ</rt></ruby>: to mate, copulate (of animals).
 - <ruby>[犬吠](../words/犬吠.md)<rt>ㄎ⼔ㄋㄈㄝ</rt></ruby> / <ruby>[狗吠](../words/狗吠.md)<rt>ㄍㄛㄨㄈㄝ</rt></ruby>: to bark — two independently attested synonyms.
 - <ruby>[狗肉](../words/狗肉.md)<rt>ㄍㄛㄨㄋㄨㄎ</rt></ruby>: dog meat (used as an insult in some contexts).
 - <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [[獵]] below.

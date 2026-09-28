@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[出現]]<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby> "appear; emerge; be revealed"
 - <ruby>[[実現]]<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby> "implement; realize"
 - <ruby>[[表現]]<rt>ㄅ⼘ㄨㄏ⼶ㄋ</rt></ruby> "show; display; express; manifest"
-- <ruby>[[体現]]<rt>ㄊㄝㄧㄏ⼔ㄋ</rt></ruby> "embody; reflect; incarnate"
+- <ruby>[[体現]]<rt>ㄊㄝㄧㄏ⼶ㄋ</rt></ruby> "embody; reflect; incarnate"
 - <ruby>[[現象]]<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby> "phenomenon"
 - <ruby>[[顕現]]<rt>ㄏㄝㄋㄏ⼶ㄋ</rt></ruby> "appear; be made manifest; show"
 

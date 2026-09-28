@@ -51,7 +51,7 @@ boundedness: 75
 
 ## Words
 - <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> "ten" (stand-in for 十)
-- <ruby>[[十分]]<rt>ㄙㄧㄆㄍㄨㄋ</rt></ruby> "very, extremely; ten minutes"
+- <ruby>[[十分]]<rt>ㄙㄧㄆㄅㄨㄋ</rt></ruby> "very, extremely; ten minutes"
 - <ruby>[[十干]]<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "the ten heavenly stems"
 - <ruby>[[五代十国]]<rt>ㄛㄉㄚㄧㄙㄧㄆㄍㄛㄎ</rt></ruby> "Five Dynasties and Ten Kingdoms"
 - <ruby>[[十一]]<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby> "eleven"

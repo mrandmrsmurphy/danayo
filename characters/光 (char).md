@@ -51,7 +51,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[光]]<rt>ㄎ⺢ㄫ</rt></ruby> "light" (stand-in for 光)
-- <ruby>[[光明]]<rt>ㄍ⺢ㄫㄇ⼶ㄫ</rt></ruby> "brightness; hope"
+- <ruby>[[光明]]<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby> "brightness; hope"
 - <ruby>[[光芒]]<rt>ㄎ⺢ㄫㄇ⼘ㄫ</rt></ruby> "rays; radiance"
 - <ruby>[[光栄]]<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby> "honorable; glorious"
 - <ruby>[[光輝]]<rt>ㄎ⺢ㄫㄏㄨㄧ</rt></ruby> "brilliant; radiant"

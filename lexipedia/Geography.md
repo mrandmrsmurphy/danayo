@@ -16,7 +16,7 @@ Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚ�
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
-Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and <ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby><ruby>[防守](/words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>.
+Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and <ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby><ruby>[防守](/words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>.
 
 ### Political Development
 Historically, <ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> was dominant.  
@@ -26,12 +26,12 @@ Historically, <ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><
 In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby>[立憲](/words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> and <ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[対外]][[戦争]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]]).
 
 ### Cultural Transmission
-<ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
+<ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄆㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
 
 ## 東南亜
 <ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>.
 The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]]) and straits ([[../words/海峡]]) are common.  
-<ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
+<ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>[交通](../words/交通.md)<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
 
 Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 
@@ -51,7 +51,7 @@ These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ
 <ruby>大河<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby> developed early.  
-<ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄫ</rt></ruby> influenced surrounding regions.  
+<ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄫ</rt></ruby> influenced surrounding regions.  
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
@@ -66,7 +66,7 @@ The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>
 West Asia ([[西亜]]) includes desert zones ([[沙漠]][[地帯]]) and strategic trade routes ([[商路]][[要地]]).  
 Central Asia ([[中亜]]) contains steppe regions (<ruby>草原<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>[[地帯]]) historically associated with <ruby>遊牧<rt>⼜ㄛㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
 
-Imperial expansion (<ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[興起]]) and religious diffusion (<ruby>宗教<rt>ㄐㄛㄫㄍ⼘ㄨ</rt></ruby>[[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
+Imperial expansion (<ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[興起]]) and religious diffusion (<ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>[[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄐ⼶</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
 ### 西亜
 - Iran (伊朗) , formerly Persia [[波斯]]

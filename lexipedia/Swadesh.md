@@ -90,7 +90,7 @@ date-last-perfect: 2026-09-16
 | 68  |      horn       |  角   |   角    |   角    |          角           |        角 (뿔 각        |               𧣳góc                | <ruby>[[角]]<rt>ㄍㄛㄎ</rt></ruby>  |     |
 | 69  |      tail       |  尾   |   尾巴   |   尾    |        尾, 尻尾         |       尾 (꼬리 미)       |                                    | <ruby>[[尾]]<rt>ㄇㄨㄧ</rt></ruby>  |     |
 | 70  |     feather     |  羽   |   羽毛   |   羽毛   |          羽           |       羽 (깃 우)        |                                    | <ruby>[[羽毛]]<rt>ㄨ·ㄇㄚㄨ</rt></ruby>  |     |
-| 71  |   hair (head)   |  毛   |   頭髮   |   髮    |          髪           |       髮 (터럭 발)       |               𩯀 tóc               | <ruby>[[頭髪]]<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby>  |     |
+| 71  |   hair (head)   |  毛   |   頭髮   |   髮    |          髪           |       髮 (터럭 발)       |               𩯀 tóc               | <ruby>[[頭髪]]<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby>  |     |
 |     |   hair (body)   |      |   體毛   |   毛    |          毛           |       毛 (털 모)        |                                    |                 <ruby>[[毛]]<rt>ㄇㄚㄨ</rt></ruby>                  |     |
 | 72  |      head       |  首   |   頭    |   頭    |          頭           |       頭 (머리 두)       |               頭 đầu                | <ruby>[[頭]]<rt>ㄊㄛㄨ</rt></ruby>  |     |
 | 73  |       ear       |  耳   |   耳朵   |   耳仔   |          耳           |       耳 (귀 이)        |               𦖻 tai               | <ruby>[[耳]]<rt>ㄋㄧ</rt></ruby>  |     |

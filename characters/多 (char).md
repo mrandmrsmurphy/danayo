@@ -59,13 +59,13 @@ boundedness: 70
 - <ruby>[[繁多]]<rt>ㄆㄚㄋㄉㄜ</rt></ruby> "varied; numerous"
 - <ruby>[[衆多]]<rt>ㄐㄨㄫㄉㄜ</rt></ruby> "numerous; multitudinous"
 - <ruby>[[多様]]<rt>ㄉㄜ⼘ㄫ</rt></ruby> "diverse; diversity"
-- <ruby>[[多彩]]<rt>ㄉㄚㄑㄚㄧ</rt></ruby> "multicolored; vibrant"
+- <ruby>[[多彩]]<rt>ㄉㄜㄑㄚㄧ</rt></ruby> "multicolored; vibrant"
 - <ruby>[[多辺]]<rt>ㄉㄜㄅㄝㄋ</rt></ruby> "multilateral; many-sided"
 - <ruby>[[加多]]<rt>ㄍㄚㄉㄜ</rt></ruby> "to add; to augment; to increase"
 - <ruby>[[加多金]]<rt>ㄍㄚㄉㄚㄍㄧㄇ</rt></ruby> "gadolinium" — a phonosemantic coinage (加多 approximates "gado-", 多 also contributing "many, more")
 
 ## Chengyu
-- <ruby>[[多召少選]]<rt>ㄉㄚㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
+- <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄧㄎㄙㄝㄉㄚ</rt></ruby> "less is more"
 
 ## Derived Characters

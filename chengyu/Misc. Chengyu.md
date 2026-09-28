@@ -25,7 +25,7 @@ tags:
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
 - <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> - dazed and confused, stunned to the point of losing oneself
-- <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄅㄨㄋㄉㄛㄨ</rt></ruby> - to fight on alone
+- <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄈㄨㄋㄉㄛㄨ</rt></ruby> - to fight on alone
 - <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - castle in the sky
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> - weighty culture, light war
@@ -44,7 +44,7 @@ tags:
 - <ruby>[一衣帯水](chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> - close neighbors separated only by a narrow strait
 - <ruby>[万物生長](chengyu/万物生長.md)<rt>ㄇㄨㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> - All the universe grows and develops
 - <ruby>[三綱五常](chengyu/三綱五常.md)<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> - three relationships and five virtues
-- <ruby>[不共戴天](chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> - absolutely irreconcilable
+- <ruby>[不共戴天](chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> - absolutely irreconcilable
 - <ruby>[不可思議](chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄚㄙㄚ·ㄨㄧ</rt></ruby> - inconceivable, unimaginable, incomprehensible
 - <ruby>[不言不語](chengyu/不言不語.md)<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> - total silence
 - <ruby>[不遠千里](chengyu/不遠千里.md)<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> - not far is a thousand miles
@@ -127,7 +127,7 @@ tags:
 - <ruby>[神経衰弱](chengyu/神経衰弱.md)<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> - neurasthenia
 - <ruby>[種瓜得瓜](chengyu/種瓜得瓜.md)<rt>ㄐㄛㄫㄍ⺢ㄉㄨㄎㄍ⺢</rt></ruby> - As a man plants, so shall he reap
 - <ruby>[空前絶後](chengyu/空前絶後.md)<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> - unprecedented and unrepeatable; without parallel before or after
-- <ruby>[粉骨砕身](chengyu/粉骨砕身.md)<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> - to have one's body smashed to pieces; to die the most cruel death
+- <ruby>[粉骨砕身](chengyu/粉骨砕身.md)<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> - to have one's body smashed to pieces; to die the most cruel death
 - <ruby>[糟糠之妻](chengyu/糟糠之妻.md)<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> - a devoted wife who shared the hardship of poverty, not to be abandoned after success
 - <ruby>[結髪夫妻](chengyu/結髪夫妻.md)<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> - [a couple bound together from youth, lifelong marital devotion]
 - <ruby>[羊頭狗肉](chengyu/羊頭狗肉.md)<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> - false advertising; cry up wine and sell vinegar

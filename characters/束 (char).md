@@ -55,7 +55,7 @@ boundedness: 90
 - <ruby>[[約束]]<rt>⼘ㄎㄙ⼄ㄎ</rt></ruby> "promise"
 - <ruby>[[拘束]]<rt>ㄍㄨㄙ⼄ㄎ</rt></ruby> "constrain, restrain"
 - <ruby>[[結束]]<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby> "unity, solidarity (Japanese/Korean); to end, conclude (Mandarin)"
-- <ruby>[[束縛]]<rt>ㄙ⼄ㄎㄅㄚㄎ</rt></ruby> "tie, bind"
+- <ruby>[[束縛]]<rt>ㄙ⼄ㄎㄈㄚㄎ</rt></ruby> "tie, bind"
 
 ## Derived Characters
 - <ruby>[[竦 (char)|竦]]<rt>ㄙㄛㄫ</rt></ruby> "awe"

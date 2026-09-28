@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[通貨]]<rt>ㄊㄛㄫㄏ⺢</rt></ruby> "currency; money"
 - <ruby>[[通過]]<rt>ㄊㄛㄫㄍ⺢</rt></ruby> "to pass"
 - <ruby>[[貫通]]<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby> "to pierce through"
-- <ruby>[[交通]]<rt>ㄍ⼘ㄎㄊㄛㄫ</rt></ruby> "traffic; transportation"
+- <ruby>[[交通]]<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby> "traffic; transportation"
 - <ruby>[[亨通]]<rt>ㄏㄚㄫㄊㄛㄫ</rt></ruby> "to prosper; go well"
 - <ruby>[[共通]]<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby> "common; shared"
 - <ruby>[[普通]]<rt>ㄆㄛ·ㄊㄛㄫ</rt></ruby> "ordinary; plain; average"

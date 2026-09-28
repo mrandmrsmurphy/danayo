@@ -77,7 +77,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[顔色](../words/顔色.md)<rt>ㄚㄋㄙㄧㄎ</rt></ruby>: complexion, expression.
 - <ruby>[人中](../words/人中.md)<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby>: philtrum.
 - <ruby>[額頭](../words/額頭.md)<rt>ㄚㄎㄊㄛㄨ</rt></ruby>: forehead.
-- <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄅㄚㄊ</rt></ruby>: hair.
+- <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby>: hair.
 - <ruby>[唇](../words/唇.md)<rt>ㄙㄨㄋ</rt></ruby>: lip.
 - <ruby>[口臭](../words/口臭.md)<rt>ㄎㄛㄨㄑㄨ</rt></ruby>: bad breath.
 - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.

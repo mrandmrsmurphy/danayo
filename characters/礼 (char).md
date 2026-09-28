@@ -70,7 +70,7 @@ boundedness: 90
 - <ruby>[[礼拝]]<rt>ㄌㄝㄧㄅ⼶</rt></ruby> "worship service, religious worship"
 - <ruby>[[礼物]]<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby> "gift (formal), present (formal)"
 - <ruby>[[礼記]]<rt>ㄌㄝㄧㄍㄧ</rt></ruby> "Classic of Rites"
-- <ruby>[[儀礼]]<rt>ㄨㄧㄌㄝㄧ</rt></ruby> "etiquette; ceremony"
+- <ruby>[[儀礼]]<rt>ㄜㄧㄌㄝㄧ</rt></ruby> "etiquette; ceremony"
 - <ruby>[[失礼]]<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby> "rude; discourteous; excuse me"
 - <ruby>[[結婚礼]]<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby> "wedding ceremony"
 

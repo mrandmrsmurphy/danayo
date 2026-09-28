@@ -35,7 +35,7 @@ Love vocabulary covers romantic and affectionate love — distinct from the fami
 ### Companionship & Loyalty
 
 - <ruby>[伴侶](../words/伴侶.md)<rt>ㄅㄚㄋㄌ⼄</rt></ruby>: companion, partner, mate — the life-partner register (romantic or otherwise long-term), distinct from [[同伴]]'s more casual sense below.
-- <ruby>[同伴](../words/同伴.md)<rt>ㄉㄛㄫㄅㄚㄫ</rt></ruby>: companion, comrade — a general travel/activity companion, no romantic implication required.
+- <ruby>[同伴](../words/同伴.md)<rt>ㄉㄛㄫㄅㄚㄋ</rt></ruby>: companion, comrade — a general travel/activity companion, no romantic implication required.
 - <ruby>[忠誠](../words/忠誠.md)<rt>ㄊㄨㄫㄙㄧㄫ</rt></ruby>: loyalty, faithfulness (noun).
 - <ruby>[壱](../words/壱.md)<rt>ㄧㄊ</rt></ruby>: loyal, faithful, single-minded (adjective) — an extended sense of the formal numeral "one" (壹心, "of one mind"), kept distinct from the plain numeral [[一]].
 

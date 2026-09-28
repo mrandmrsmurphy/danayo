@@ -66,6 +66,6 @@ boundedness: 90
 - <ruby>[[洪]]<rt>ㄏㄛㄫ</rt></ruby> "deluge, flood"
 - <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> "give, present"
 ## Chengyu
-- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
-- <ruby>[[百家共承]]<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
+- <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
 - <ruby>[[文音共決]]<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> "script and sound resolved together"

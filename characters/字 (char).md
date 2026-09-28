@@ -70,7 +70,7 @@ boundedness: 90
 - <ruby>[新字体](/words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> - Shinjitai
 - <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
 - <ruby>[正字](/words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> - correct character
-- <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄆㄚㄆ</rt></ruby> - orthography
+- <ruby>[正字法](/words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby> - orthography
 - <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, variant"
 - <ruby>[識字](/words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> - literacy
 - <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"

@@ -51,8 +51,8 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[粉]]<rt>ㄈㄨㄋ</rt></ruby> "powder" (stand-in for 粉)
-- <ruby>[[白粉]]<rt>ㄅㄚㄎㄅㄨㄋ</rt></ruby> "white powder; face powder"
+- <ruby>[[白粉]]<rt>ㄅㄚㄎㄈㄨㄋ</rt></ruby> "white powder; face powder"
 - <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> "powder, fine powder"
 
 ## Chengyu
-- <ruby>[[粉骨砕身]]<rt>ㄅㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"
+- <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

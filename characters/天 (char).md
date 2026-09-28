@@ -71,9 +71,9 @@ boundedness: 80
 - <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "as boundless as the sky and sea; free and unrestrained"
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 - <ruby>[[孝親天賜]]<rt>ㄏ⼘ㄨㄑㄧㄋㄊㄝㄋㄙㄝ</rt></ruby> "honor your parents, that heaven may bless you"
-- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄉㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
+- <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ·⼔ㄋㄉㄧㄜㄆㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
-- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄝㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
+- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄜㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
 
 ## Words
 - <ruby>[[天]]<rt>ㄊㄝㄋ</rt></ruby> "sky, heaven" (stand-in for 天)

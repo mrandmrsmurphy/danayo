@@ -73,7 +73,7 @@ boundedness: 60
 ### Day
 - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby> "today"
 - <ruby>[[昨日]]<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby> "yesterday"
-- <ruby>[[本日]]<rt>ㄏㄛㄋㄋㄧㄊ</rt></ruby> "today"
+- <ruby>[[本日]]<rt>ㄅㄛㄋㄋㄧㄊ</rt></ruby> "today"
 - <ruby>[[今日安]]<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby> "hello"
 - <ruby>[[明日]]<rt>ㄇ⼶ㄫㄋㄧㄊ</rt></ruby> "tomorrow"
 - <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby> "tomorrow"

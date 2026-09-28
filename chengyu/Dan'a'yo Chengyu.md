@@ -23,7 +23,7 @@ tags:
 - <ruby>[東亜自通](chengyu/東亜自通.md)<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> - East Asian self-communication
 - <ruby>[毎字明意](chengyu/毎字明意.md)<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> - Per Character Clear Meaning
 - <ruby>[異体不容](chengyu/異体不容.md)<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> - variant forms are not permitted
-- <ruby>[百家共承](chengyu/百家共承.md)<rt>ㄅㄚㄎㄐㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> - Hundred schools jointly inherited
+- <ruby>[百家共承](chengyu/百家共承.md)<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> - Hundred schools jointly inherited
 - <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - names should be established by meaning
 - <ruby>[義重於音](chengyu/義重於音.md)<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> - Meaning is more important than sound
 - <ruby>[詞彙兼容](chengyu/詞彙兼容.md)<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> - The lexicon is capable of inclusion

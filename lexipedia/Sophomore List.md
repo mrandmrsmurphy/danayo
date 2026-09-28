@@ -614,7 +614,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- Judaism
 	- Christianity - <ruby>[[基督教]]<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>
 	- Hinduism
-	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼘ㄨ</rt></ruby>
+	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>
 
 ## Place Names
 _These are for place names, not the words themselves_

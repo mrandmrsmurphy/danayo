@@ -57,4 +57,4 @@ boundedness: 80
 - <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
 
 ## Chengyu
-- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄝㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
+- <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄜㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
