@@ -30,7 +30,7 @@ graphemic_classification: "壬"
 stand_in: "妊"
 aliases:
 注音: "ㄋㄧㄇ"
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 75

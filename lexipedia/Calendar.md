@@ -260,6 +260,9 @@ The end of the century - <ruby>[世紀末](../words/世紀末.md)<rt>ㄙㄝㄍ�
 - <ruby>[臘八](../words/臘八.md)<rt>ㄌㄚㄆㄅㄚㄊ</rt></ruby> — Laba, the 8th day of the 12th lunar month
 - <ruby>[臘八節](../words/臘八節.md)<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> — the Laba Festival
 
+Time of day:
+- <ruby>[早晨](../words/早晨.md)<rt>ㄐㄚㄨㄙㄧㄋ</rt></ruby> — early morning.
+
 Time planning:
 - <ruby>[予定](../words/予定.md)<rt>⼄ㄐㄝㄫ</rt></ruby> — schedule
 - <ruby>[日程](../words/日程.md)<rt>ㄋㄧㄊㄉㄧㄫ</rt></ruby> — itinerary / timetable

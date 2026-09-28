@@ -5,6 +5,7 @@
 - demon
 - devil
 - exorcism <ruby>[儺](../words/儺.md)<rt>ㄋㄨㄛ</rt></ruby>
+- fast, observe abstinence <ruby>[斎戒](../words/斎戒.md)<rt>ㄐㄚㄧㄍ⼶</rt></ruby>
 - fate
 - fortune
 - ghost
