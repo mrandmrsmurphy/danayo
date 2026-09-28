@@ -19,7 +19,7 @@
 ## Fire
 - burn
 - burst
-- explode
+- explode, explosion <ruby>[爆発](../words/爆発.md)<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby>
 - fire
 - flame
 - heat

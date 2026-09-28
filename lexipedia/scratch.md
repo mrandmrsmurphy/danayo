@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2569
+- **Unsorted**: 2568
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1110,7 +1110,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[熱烈]] — avid, fervent
 - [[燃焼]] — burn, combust
 - [[燐光]] — phosphorescence
-- [[爆発]] — explode, explosion
 - [[爬虫]] — reptile
 - [[父子]] — parenthood
 - [[父父]] — daddy
