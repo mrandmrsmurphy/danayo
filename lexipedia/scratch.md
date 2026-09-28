@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2526
+- **Unsorted**: 2524
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -127,7 +127,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[部]] — part (too generic, not food-specific — moved out of the Food bucket 2026-09-28)
 - [[部分]] — part, section, segment, portion (too generic — moved out of the Food bucket 2026-09-28)
 - [[郭]] — outermost part (too generic — moved out of the Food bucket 2026-09-28)
-- [[粒子]] — particle, grain (Physics, the wrong "grain" — moved out of the Food bucket 2026-09-28)
 - [[猩蝿]] — fruit fly, drosophila (Animals, an insect not a food — moved out of the Food bucket 2026-09-28)
 - [[餓鬼]] — hungry ghost, preta (Religion/Buddhist mythology, not hunger itself — moved out of the Food bucket 2026-09-28)
 - [[趣味]] — hobby, interest, taste (Society/Mind, "taste" as interest not flavor — moved out of the Food bucket 2026-09-28)
@@ -1318,7 +1317,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[継承]] — accede, inherit
 - [[綱要]] — outline, sketch, essentials, compendium
 - [[網]] — netting, net, network
-- [[総数]] — total, grand total
 - [[緑柱石]] — beryl
 - [[緩慢]] — slow, sluggish
 - [[縦]] — selfish, arbitrary
