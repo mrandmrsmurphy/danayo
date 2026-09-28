@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2516
+- **Unsorted**: 2515
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -1542,7 +1542,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[豪洲]] — australia
 - [[豪華]] — extravagant, luxurious grand, majestic, sumptuous
 - [[貞潔]] — chaste, chastity, purity
-- [[負債]] — debt, liabilities
 - [[貢献]] — contribute
 - [[貧乏]] — poor, indigent
 - [[貧窮]] — poverty

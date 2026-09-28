@@ -90,6 +90,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 
 - <ruby>[法](../words/法.md)<rt>ㄈㄚㄆ</rt></ruby> / <ruby>[法則](../words/法則.md)<rt>ㄈㄚㄆㄐㄨㄎ</rt></ruby>: bare "rule, law" and "law, rule, code" — the roots [[法律]] above builds on.
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty — legal liability.
+- <ruby>[負債](../words/負債.md)<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>: debt, liabilities.
 - <ruby>[盲従](../words/盲従.md)<rt>ㄇㄚㄫㄐㄛㄫ</rt></ruby>: blind obedience, to follow blindly — the failure mode [[循]] above doesn't itself imply.
 - <ruby>[除籍](../words/除籍.md)<rt>ㄐㄝㄧㄐㄝㄎ</rt></ruby>: to remove from the register, expunge, expel.
 - <ruby>[逮捕](../words/逮捕.md)<rt>ㄉㄚㄧㄅㄛ</rt></ruby>: to arrest.
