@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 2545
+- **Unsorted**: 2541
 - **Calendar**: 116
 - **Geography**: 240
 - **Life**: 26
@@ -883,7 +883,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[本塁打]] — homerun
 - [[朴木]] — hackberry
 - [[杆]] — rod, pole, lever
-- [[李子]] — plum
 - [[材木]] — lumber, timber
 - [[杜選]] — careless, sloppy, unsubstantiated
 - [[杜金]] — dubnium
@@ -2218,7 +2217,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[昇叙]] — be promoted, advanced
 - [[明様]] — brightly, in a bright way
 - [[明確]] — clear, definite, unambiguous
-- [[晋升]] — promote, advance in rank
 - [[普通]] — ordinary, plain, average, common
 - [[普通話]] — mandarin
 - [[暗礁]] — submerged reef, hidden obstacle
@@ -2660,7 +2658,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[期]] — period, time, season
 - [[木]] — tree
 - [[末端]] — tip, extremity, end
-- [[杏子]] — apricot
 - [[東端]] — eastern tip, eastern end
 - [[松竹梅]] — three friends of winter
 - [[柊木]] — holly osmanthus, holly osmanthus tree
@@ -3564,7 +3561,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[才媛]] — talented woman
 - [[敏]] — fast, quick, clever, smart
 - [[斐然]] — remarkable, brilliant, splendid
-- [[昌盛]] — prosperous, flourishing
 - [[有名]] — famous
 - [[欽敬]] — admire, respect
 - [[歌頌]] — extol, praise, laud

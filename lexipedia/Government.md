@@ -110,6 +110,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[俸祿](../words/俸祿.md)<rt>ㄈㄛㄫㄌㄛㄎ</rt></ruby>, <ruby>[俸給](../words/俸給.md)<rt>ㄈㄛㄫㄍㄧㄆ</rt></ruby>: official salary, stipend.
 - <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to confer, award, grant.
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
+- <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust.
 - <ruby>[受託](../words/受託.md)<rt>ㄙ⼜ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.
 - <ruby>[嘱託](../words/嘱託.md)<rt>ㄐㄛㄎㄊㄚㄎ</rt></ruby>: a commission; to entrust, consign.

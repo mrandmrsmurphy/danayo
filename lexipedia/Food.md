@@ -86,6 +86,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry.
 - <ruby>[桜桃](../words/桜桃.md)<rt>ㄚㄫㄉㄚㄨ</rt></ruby>: a cherry.
+- <ruby>[李子](../words/李子.md)<rt>ㄌㄧㄐㄜ</rt></ruby>: a plum.
+- <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.

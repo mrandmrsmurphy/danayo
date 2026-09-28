@@ -35,6 +35,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[出現](../words/出現.md)<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby>: to appear, to emerge.
 - <ruby>[顕現](../words/顕現.md)<rt>ㄏㄝㄋㄏ⼶ㄋ</rt></ruby>: to manifest, to appear — more formal register than 出現.
 - <ruby>[興起](../words/興起.md)<rt>ㄏㄜㄫㄎㄧ</rt></ruby>: to rise up, emerge, flourish.
+- <ruby>[昌盛](../words/昌盛.md)<rt>ㄑ⺢ㄫㄙㄧㄫ</rt></ruby>: prosperous, flourishing.
 - <ruby>[消](../words/消.md)<rt>ㄙ⼄ㄨ</rt></ruby>: to vanish, to disappear — covers both Rosenfelder line items; Dan'a'yo doesn't split "vanish" from "disappear" as separate words.
 
 #### Concealment — disappearing by intent, not just fading
