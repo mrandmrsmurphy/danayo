@@ -135,6 +135,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
+- <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
