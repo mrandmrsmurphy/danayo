@@ -36,7 +36,7 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 王.
->For the word, see [王](words/王.md)
+>For the word, see [王](../words/王.md)
 >For the radical, see [Radical 096](../lookup/Radicals/Radical%20096.md)
 ```meta-bind-embed
 [[nav/char_info]]
@@ -64,7 +64,7 @@ boundedness: 90
 - <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
 - <ruby>[[国王]]<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby> "king; sovereign; monarch"
 ## Chengyu
-- <ruby>[[尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians; uphold the sovereign and reject foreign intrusion"
+- <ruby>[[尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians"
 
 ## Derived Characters
-- <ruby>[全](/characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby>
+- <ruby>[[全 (char)|全]]<rt>ㄐ⼔ㄋ</rt></ruby> "whole"
