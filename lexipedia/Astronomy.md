@@ -69,7 +69,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[新星](../words/新星.md)<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>: a nova.
 - <ruby>[星群](../words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>: an asterism — an unofficial, invented grouping of stars, as opposed to an established constellation (see [[星坐]] in Core Vocabulary above).
 - <ruby>[穹蒼](../words/穹蒼.md)<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby>: the night sky, poetically — "the blue dome of heaven."
-- <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby>: a spaceship.
+- <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>: a spaceship.
 - <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>: an alien, astronaut.
 - <ruby>[宇宙局](../words/宇宙局.md)<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby>: a space agency.
 - <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.

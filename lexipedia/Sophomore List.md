@@ -420,7 +420,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- railroad - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>
 	- train station
 	- subway - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> *(its own gloss is "tunnel, underpass, subway" — likely the British "pedestrian underpass" sense, not confirmed for "underground train system")*
-	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby>
+	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>
 - Computer :
 	- computer - <ruby>[[電脳]]<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>
 	- disk

@@ -75,5 +75,5 @@ boundedness: 75
 - <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 
 ## Chengyu
-- <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> "surrounded by the singing of Chu"
+- <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> "surrounded by the singing of Chu"
 - <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"

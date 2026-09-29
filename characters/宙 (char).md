@@ -52,5 +52,5 @@ boundedness: 75
 - <ruby>[[宇宙]]<rt>ㄨㄐㄨㄛ</rt></ruby> "universe; outer space; cosmos"
 - <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"
 - <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"
-- <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄐ⼔ㄋ</rt></ruby> "spaceship"
+- <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby> "spaceship"
 - <ruby>[[宇宙観]]<rt>ㄨㄐㄨㄛㄍ⺢ㄋ</rt></ruby> "cosmology, worldview"

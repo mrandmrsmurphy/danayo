@@ -69,7 +69,7 @@ tags:
 - <ruby>[哀鴻遍野](chengyu/哀鴻遍野.md)<rt>ㄚㄧㄏㄛㄫㄅㄝㄋ·⼘</rt></ruby> - mournful wanderers fill the land
 - <ruby>[唇亡歯寒](chengyu/唇亡歯寒.md)<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> - when the lips are gone, the teeth feel cold
 - <ruby>[喜怒哀楽](chengyu/喜怒哀楽.md)<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> - the full range of human emotion
-- <ruby>[四面楚歌](chengyu/四面楚歌.md)<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄚ</rt></ruby> - surrounded by the singing of Chu
+- <ruby>[四面楚歌](chengyu/四面楚歌.md)<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> - surrounded by the singing of Chu
 - <ruby>[因小失大](chengyu/因小失大.md)<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> - sacrifice the greater for the lesser
 - <ruby>[因果報応](chengyu/因果報応.md)<rt>ㄧㄋㄍ⺢ㄅㄚㄨ·ㄧㄫ</rt></ruby> - karmic retribution
 - <ruby>[大同小異](chengyu/大同小異.md)<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> - broadly the same with minor differences; essentially alike
