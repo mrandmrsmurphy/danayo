@@ -69,7 +69,7 @@ boundedness: 85
 - <ruby>[[辞令]]<rt>ㄑㄧㄌㄝㄫ</rt></ruby> "letter of dismissal/letter of resignation"
 
 ## Chengyu
-- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "what is commanded is done, what is forbidden is not"
+- <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"
 
 ## Derived Characters
 - <ruby>[[冷 (char)|冷]]<rt>ㄌㄚㄫ</rt></ruby> "cool, cold"
