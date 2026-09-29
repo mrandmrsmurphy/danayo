@@ -15,6 +15,7 @@
 - hill
 - ice
 - land
+- marsh, swamp <ruby>[薮沢](../words/薮沢.md)<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
 - mountain
 - nature
 - peasant

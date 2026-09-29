@@ -53,6 +53,7 @@
 - remember
 - remind
 - bear in mind, be mindful of <ruby>[懸心](../words/懸心.md)<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby>
+- mention, refer to (formal register) <ruby>[言及](../words/言及.md)<rt>ㄝㄋㄍㄨㄆ</rt></ruby>
 - represent
 - require
 - secret
