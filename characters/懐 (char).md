@@ -7,6 +7,7 @@ japanese:
   - KAI
 japanese_native: ふところ
 vietnamese:
+  - hoài
 middle_chinese_initial: ɣ
 middle_chinese_final: ɣuɛi
 stroke_count: 16
@@ -33,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-06
+date-last-perfect: 2026-09-29
 ---
 >[!tip] This is a page about the character 懐.
 >For the word, see [懐](words/懐.md)
@@ -44,6 +45,7 @@ date-last-perfect: 2026-08-06
 
 ## Notes
 - 形声: semantic [[心 (char)|心]] ("heart") + phonetic 褱 (huái, "to carry inside one's clothes," no vault page) — "to hold dear in one's heart, to miss, to think of." 懷 is the traditional form.
+- **Real bug found and fixed 2026-09-29**: `vietnamese` was left completely blank — filled with hoài, the standard Sino-Vietnamese reading (as in hoài niệm, "nostalgia"; hoài bão, "aspiration"; and hoài thai, "to be pregnant" — the same "carry within" sense at work in this character's own [[懐孕]]).
 - [SKIP-1-3-13](lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
 - 575th most used character in Classical Chinese (recorded under the traditional form 懷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 皆合|ɣuɛi]] → [ㄏ⺢ㄧ](syllables/ㄏ⺢ㄧ.md)
 - [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
@@ -51,6 +53,6 @@ date-last-perfect: 2026-08-06
 ## Words
 - <ruby>[[懐]]<rt>ㄏ⺢ㄧ</rt></ruby> "miss, think of" (stand-in for 懐 (char))
 - <ruby>[[懐抱]]<rt>ㄏ⺢ㄧㄅㄚㄨ</rt></ruby> "cherish, embrace"
-- <ruby>[[懐孕]]<rt>ㄏ⺢ㄧㄧㄫ</rt></ruby> "pregnant"
+- <ruby>[[懐孕]]<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby> "pregnant"
 - <ruby>[[懐愁]]<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby> "wistful longing; nostalgic grief"
 - <ruby>[[懐疑]]<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby> "doubt"
