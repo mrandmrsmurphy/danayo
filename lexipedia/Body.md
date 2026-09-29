@@ -233,6 +233,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[肩甲骨](../words/肩甲骨.md)<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby>: shoulder blade.
 - <ruby>[指関節](../words/指関節.md)<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby>: knuckle.
 - <ruby>[蹠骨](../words/蹠骨.md)<rt>ㄐㄝㄎㄍㄛㄊ</rt></ruby>: metatarsal bone.
+- <ruby>[脛骨](../words/脛骨.md)<rt>ㄏㄝㄫㄍㄛㄊ</rt></ruby>: tibia, shinbone.
 - <ruby>[三焦](../words/三焦.md)<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby>: the triple burner (a Traditional Chinese Medicine concept with no direct Western anatomical equivalent).
 - <ruby>[繃帯](../words/繃帯.md)<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby>: a bandage.
 
