@@ -122,6 +122,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>: martial art skill.
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
+- <ruby>[稽古](../words/稽古.md)<rt>ㄍㄝㄧㄍㄛ</rt></ruby>: practice, training in a traditional art or discipline (Japanese usage); classical "to examine antiquity" (source sense).
 
 ### Craft
 
