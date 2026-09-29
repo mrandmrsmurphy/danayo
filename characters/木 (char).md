@@ -65,7 +65,7 @@ boundedness: 40
 - <ruby>[[木曜日]]<rt>ㄇㄛㄎ·⼄ㄨㄋㄧㄊ</rt></ruby> "Thursday"
 - <ruby>[[朴木]]<rt>ㄆㄚㄎㄇㄛㄎ</rt></ruby> "hackberry"
 - <ruby>[[材木]]<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby> "lumber; timber"
-- <ruby>[[柿木]]<rt>ㄙㄝㄇㄛㄎ</rt></ruby> "Japanese persimmon"
+- <ruby>[[柿木]]<rt>ㄙㄜ·ㄇㄛㄎ</rt></ruby> "Japanese persimmon"
 - <ruby>[[桑木]]<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby> "mulberry tree"
 - <ruby>[[樹木]]<rt>ㄙㄨ·ㄇㄛㄎ</rt></ruby> "tree; plant"
 - <ruby>[[木星]]<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby> "Jupiter"
