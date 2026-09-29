@@ -1,0 +1,18 @@
+
+- air
+- dirt
+- dust
+- emerald
+- glass
+- jewel
+- marble
+- paper
+- powder
+- rock
+- sand
+- silk
+- stone
+- stuff
+- substance
+- tar
+- wood
