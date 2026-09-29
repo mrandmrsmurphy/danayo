@@ -50,6 +50,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a knife blade — Rosenfelder's "knife."
 - <ruby>[刀叉](../words/刀叉.md)<rt>ㄊㄚㄨㄑㄚㄧ</rt></ruby>: fork and knife (as a set).
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a spoon, ladle.
+- <ruby>[叉勺](../words/叉勺.md)<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby>: a spork.
 - <ruby>[串](../words/串.md)<rt>ㄐ⺢ㄇ</rt></ruby>: a skewer.
 
 ### Cooking Techniques

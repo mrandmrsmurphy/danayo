@@ -98,6 +98,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
 - <ruby>[高校](../words/高校.md)<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby>: secondary school.
 - <ruby>[高考](../words/高考.md)<rt>ㄍㄚㄨㄎㄚㄨ</rt></ruby>: the higher exam (China's national university-entrance exam).
+- <ruby>[及第](../words/及第.md)<rt>ㄍㄨㄆㄉㄝㄧ</rt></ruby>: to pass an examination — historically the imperial civil service exam, now any exam or academic grade.
 - <ruby>[幼稚園](../words/幼稚園.md)<rt>⼜ㄛㄉㄧㄜㄛㄋ</rt></ruby>: kindergarten, nursery school.
 - <ruby>[学位](../words/学位.md)<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby>: academic degree.
 - <ruby>[学問](../words/学問.md)<rt>ㄏㄚㄎㄇㄨㄋ</rt></ruby>: scholarship, learning.
