@@ -64,7 +64,7 @@ boundedness: 90
 - <ruby>[[硬直]]<rt>ㄚㄫㄐㄧㄊ</rt></ruby> "rigid; stiff; inflexible"
 
 ## Chengyu
-- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point; to cut directly to the heart of the matter without preamble"
+- <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"
 
 ## Derived Characters
 - <ruby>[[値]]<rt>ㄉㄧ</rt></ruby> "value; price"
