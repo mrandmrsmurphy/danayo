@@ -41,6 +41,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[刺激](../words/刺激.md)<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby>: to provoke, irritate.
 - <ruby>[調解](../words/調解.md)<rt>ㄐㄨㄛㄍ⼘ㄧ</rt></ruby>: to mediate, settle a dispute.
 - <ruby>[抗議](../words/抗議.md)<rt>ㄏㄚㄫㄜㄧ</rt></ruby>: to protest, object.
+- <ruby>[排斥](../words/排斥.md)<rt>ㄆㄚㄧㄑㄝㄎ</rt></ruby>: to reject, exclude, ostracize.
 
 ### Weapons
 
