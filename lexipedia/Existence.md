@@ -102,6 +102,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 ### Generality, Comparison & Identity
 
 - <ruby>[一般](../words/一般.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby> / <ruby>[普遍](../words/普遍.md)<rt>ㄆㄛㄅㄝㄋ</rt></ruby>: general, average, ordinary / universal, widespread — 一般 the everyday register, 普遍 the more abstract/philosophical one.
+- <ruby>[普及](../words/普及.md)<rt>ㄆㄛㄍㄨㄆ</rt></ruby>: to spread widely, popularize, become universal — deliberate/aspirational diffusion, contrasted with [[波及]]'s involuntary ripple-effect spread.
 - <ruby>[同一](../words/同一.md)<rt>ㄉㄛㄫㄧㄊ</rt></ruby>: same, identical — ties directly to Core [[是]]'s identity sense.
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[類似](../words/類似.md)<rt>ㄌㄨㄧㄙㄚ</rt></ruby>: to resemble, similar, analogous.
