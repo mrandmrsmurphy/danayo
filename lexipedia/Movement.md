@@ -56,6 +56,7 @@
 - stride
 - swim
 - thrust, pierce through <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>
+- trample <ruby>[践踏](../words/践踏.md)<rt>ㄐㄝㄋㄊㄚㄆ</rt></ruby>
 - walk
 - wander
 
