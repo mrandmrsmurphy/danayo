@@ -3,6 +3,7 @@
 - curse
 - damn
 - demon <ruby>[夜叉](../words/夜叉.md)<rt>⼘ㄑㄚㄧ</rt></ruby> (yaksha, a Buddhist/Hindu demon)
+- demon <ruby>[魔羅](../words/魔羅.md)<rt>ㄇㄚㄌㄛ</rt></ruby> (Māra, the Buddhist personification of desire, death, and obstruction to enlightenment)
 - devil
 - exorcism <ruby>[儺](../words/儺.md)<rt>ㄋㄨㄛ</rt></ruby>
 - fast, observe abstinence <ruby>[斎戒](../words/斎戒.md)<rt>ㄐㄚㄧㄍ⼶</rt></ruby>
