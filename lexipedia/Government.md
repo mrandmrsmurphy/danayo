@@ -28,6 +28,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[貴族](../words/貴族.md)<rt>ㄍㄨㄧㄐㄛㄎ</rt></ruby>: an aristocrat, nobility.
 - <ruby>[管理](../words/管理.md)<rt>ㄍ⺢ㄋㄌㄧ</rt></ruby>: to supervise, administer, manage.
 - <ruby>[条約](../words/条約.md)<rt>ㄐㄛ⼘ㄎ</rt></ruby>: a pact, treaty.
+- <ruby>[制度](../words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby>: a system, institution.
 
 ## Intermediate (B1–B2)
 
