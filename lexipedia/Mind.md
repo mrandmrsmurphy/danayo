@@ -56,6 +56,7 @@
 - represent
 - require
 - secret
+- sincere, earnest <ruby>[真摯](../words/真摯.md)<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby>
 - significant
 - stupid
 - suppose
