@@ -2,7 +2,7 @@
 - count
 - inch
 - kilometer
-- measure
+- measure <ruby>[測量](../words/測量.md)<rt>ㄑㄜㄎㄌ⼘ㄫ</rt></ruby> (to measure, survey)
 - meter
 - mile
 - number

@@ -108,6 +108,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[苦味](../words/苦味.md)<rt>ㄎㄛ·ㄇㄨㄧ</rt></ruby>: bitter taste, bitterness.
 - <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
 - <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
+- <ruby>[清馨](../words/清馨.md)<rt>ㄑㄧㄫㄏㄝㄫ</rt></ruby>: a delicate, pure fragrance — a literary descriptor, often of tea, flowers, or wine.
 
 ### Sauces, Broths & Juices
 
