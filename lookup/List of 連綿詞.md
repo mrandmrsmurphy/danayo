@@ -1,8 +1,8 @@
 ---
-size: 47
+size: 97
 tags:
   - lookup
-date-last-perfect: 2026-09-14
+date-last-perfect: 2026-09-28
 ---
 # 連綿詞 — Transitive Compounds
 
@@ -71,24 +71,74 @@ Confirmed cranberry status can also license overriding a character's mechanicall
 45. <ruby>[[words/鸚鵡|鸚鵡]]<rt>ㄚㄫㄇㄨ</rt></ruby> "parrot" = <ruby>[[characters/鸚|鸚]]<rt>ㄚㄫ</rt></ruby> + <ruby>[[characters/鵡|鵡]]<rt>ㄇㄨ</rt></ruby>
 46. <ruby>[[words/麒麟|麒麟]]<rt>ㄍㄧㄌㄧㄋ</rt></ruby> "qilin" = <ruby>[[characters/麒|麒]]<rt>ㄍㄧ</rt></ruby> + <ruby>[[characters/麟|麟]]<rt>ㄌㄧㄋ</rt></ruby>
 47. <ruby>[[words/黼黻|黼黻]]<rt>ㄈㄨㄈㄨㄊ</rt></ruby> "fufu (embroidered rank pattern)" = <ruby>[[characters/黼|黼]]<rt>ㄈㄨ</rt></ruby> + <ruby>[[characters/黻|黻]]<rt>ㄈㄨㄊ</rt></ruby>
+48. <ruby>[[words/偈陀|偈陀]]<rt>ㄍㄝㄊㄉㄚ</rt></ruby> "gatha; Buddhist verse" = <ruby>[[characters/偈|偈]]<rt>ㄍㄝㄊ</rt></ruby> + <ruby>[[characters/陀|陀]]<rt>ㄉㄚ</rt></ruby>
+49. <ruby>[[words/朋友|朋友]]<rt>ㄅㄨㄫ⼜ㄛ</rt></ruby> "friendship; friend" = <ruby>[[characters/朋|朋]]<rt>ㄅㄨㄫ</rt></ruby> + <ruby>[[characters/友|友]]<rt>⼜ㄛ</rt></ruby>
+50. <ruby>[[words/末端|末端]]<rt>ㄇㄚㄊㄉ⺢ㄋ</rt></ruby> "tip; extremity; end" = <ruby>[[characters/末|末]]<rt>ㄇㄚㄊ</rt></ruby> + <ruby>[[characters/端|端]]<rt>ㄉ⺢ㄋ</rt></ruby>
+51. <ruby>[[words/歌曲|歌曲]]<rt>ㄍㄜ·ㄎ⼄ㄎ</rt></ruby> "song" = <ruby>[[characters/歌|歌]]<rt>ㄍㄜ</rt></ruby> + <ruby>[[characters/曲|曲]]<rt>ㄎ⼄ㄎ</rt></ruby>
+52. <ruby>[[words/歴史|歴史]]<rt>ㄌㄝㄎㄙㄧ</rt></ruby> "history" = <ruby>[[characters/歴|歴]]<rt>ㄌㄝㄎ</rt></ruby> + <ruby>[[characters/史|史]]<rt>ㄙㄧ</rt></ruby>
+53. <ruby>[[words/沐浴|沐浴]]<rt>ㄇㄛㄎ·⼄ㄎ</rt></ruby> "bathe; cleanse" = <ruby>[[characters/沐|沐]]<rt>ㄇㄛㄎ</rt></ruby> + <ruby>[[characters/浴|浴]]<rt>⼄ㄎ</rt></ruby>
+54. <ruby>[[words/沼沢|沼沢]]<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby> "swamp; bog" = <ruby>[[characters/沼|沼]]<rt>ㄐㄛㄨ</rt></ruby> + <ruby>[[characters/沢|沢]]<rt>ㄉㄚㄎ</rt></ruby>
+55. <ruby>[[words/波浪|波浪]]<rt>ㄅㄚㄌㄚㄫ</rt></ruby> "wavers; undulation" = <ruby>[[characters/波|波]]<rt>ㄅㄚ</rt></ruby> + <ruby>[[characters/浪|浪]]<rt>ㄌㄚㄫ</rt></ruby>
+56. <ruby>[[words/清潔|清潔]]<rt>ㄑㄧㄫㄍㄝㄊ</rt></ruby> "pure; clean" = <ruby>[[characters/清|清]]<rt>ㄑㄧㄫ</rt></ruby> + <ruby>[[characters/潔|潔]]<rt>ㄍㄝㄊ</rt></ruby>
+57. <ruby>[[words/煮沸|煮沸]]<rt>ㄐㄛㄈㄨㄊ</rt></ruby> "boil" = <ruby>[[characters/煮|煮]]<rt>ㄐㄛ</rt></ruby> + <ruby>[[characters/沸|沸]]<rt>ㄈㄨㄊ</rt></ruby>
+58. <ruby>[[words/燃焼|燃焼]]<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby> "burn; combust" = <ruby>[[characters/燃|燃]]<rt>ㄋ⼶ㄋ</rt></ruby> + <ruby>[[characters/焼|焼]]<rt>ㄙ⼄ㄨ</rt></ruby>
+59. <ruby>[[words/狭窄|狭窄]]<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby> "narrow; constricted" = <ruby>[[characters/狭|狭]]<rt>ㄏㄚㄆ</rt></ruby> + <ruby>[[characters/窄|窄]]<rt>ㄐㄚㄎ</rt></ruby>
+60. <ruby>[[words/猩猩|猩猩]]<rt>ㄙㄝㄫㄙㄝㄫ</rt></ruby> "orangutan" = <ruby>[[characters/猩|猩]]<rt>ㄙㄝㄫ</rt></ruby> + <ruby>[[characters/猩|猩]]<rt>ㄙㄝㄫ</rt></ruby>
+61. <ruby>[[words/玳瑁|玳瑁]]<rt>ㄉㄚㄧㄇㄚㄨ</rt></ruby> "hawksbill sea turtle" = <ruby>[[characters/玳|玳]]<rt>ㄉㄚㄧ</rt></ruby> + <ruby>[[characters/瑁|瑁]]<rt>ㄇㄚㄨ</rt></ruby>
+62. <ruby>[[words/琺瑯|琺瑯]]<rt>ㄈㄚㄆㄌㄚㄫ</rt></ruby> "enamel; cloisonné" = <ruby>[[characters/琺|琺]]<rt>ㄈㄚㄆ</rt></ruby> + <ruby>[[characters/瑯|瑯]]<rt>ㄌㄚㄫ</rt></ruby>
+63. <ruby>[[words/田野|田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby> "field" = <ruby>[[characters/田|田]]<rt>ㄉㄝㄋ</rt></ruby> + <ruby>[[characters/野|野]]<rt>⼘</rt></ruby>
+64. <ruby>[[words/疾病|疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> "disease" = <ruby>[[characters/疾|疾]]<rt>ㄐㄧㄊ</rt></ruby> + <ruby>[[characters/病|病]]<rt>ㄅ⼶ㄫ</rt></ruby>
+65. <ruby>[[words/皮革|皮革]]<rt>ㄅㄧ·ㄎㄧㄎ</rt></ruby> "leather; hide" = <ruby>[[characters/皮|皮]]<rt>ㄅㄧ</rt></ruby> + <ruby>[[characters/革|革]]<rt>ㄎㄧㄎ</rt></ruby>
+66. <ruby>[[words/相互|相互]]<rt>ㄙㄚㄫㄏㄛ</rt></ruby> "mutual; reciprocal" = <ruby>[[characters/相|相]]<rt>ㄙㄚㄫ</rt></ruby> + <ruby>[[characters/互|互]]<rt>ㄏㄛ</rt></ruby>
+67. <ruby>[[words/睡眠|睡眠]]<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby> "sleep" = <ruby>[[characters/睡|睡]]<rt>ㄙㄨㄧ</rt></ruby> + <ruby>[[characters/眠|眠]]<rt>ㄇㄝㄇ</rt></ruby>
+68. <ruby>[[words/研究|研究]]<rt>ㄝㄋㄍ⼜</rt></ruby> "research" = <ruby>[[characters/研|研]]<rt>ㄝㄋ</rt></ruby> + <ruby>[[characters/究|究]]<rt>ㄍ⼜</rt></ruby>
+69. <ruby>[[words/程度|程度]]<rt>ㄉㄧㄫㄉㄛ</rt></ruby> "extent; degree" = <ruby>[[characters/程|程]]<rt>ㄉㄧㄫ</rt></ruby> + <ruby>[[characters/度|度]]<rt>ㄉㄛ</rt></ruby>
+70. <ruby>[[words/種類|種類]]<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby> "type; kind; hypernym" = <ruby>[[characters/種|種]]<rt>ㄐㄛㄫ</rt></ruby> + <ruby>[[characters/類|類]]<rt>ㄌㄨㄧ</rt></ruby>
+71. <ruby>[[words/簡単|簡単]]<rt>ㄍㄚㄋㄉㄚㄋ</rt></ruby> "simple; uncomplicated" = <ruby>[[characters/簡|簡]]<rt>ㄍㄚㄋ</rt></ruby> + <ruby>[[characters/単|単]]<rt>ㄉㄚㄋ</rt></ruby>
+72. <ruby>[[words/精神|精神]]<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby> "spirit; mind; psyche" = <ruby>[[characters/精|精]]<rt>ㄐㄝㄫ</rt></ruby> + <ruby>[[characters/神 (char)|神]]<rt>ㄙㄧㄋ</rt></ruby>
+73. <ruby>[[words/純粋|純粋]]<rt>ㄐㄨㄋㄙㄨㄧ</rt></ruby> "unmixed; pure" = <ruby>[[characters/純|純]]<rt>ㄐㄨㄋ</rt></ruby> + <ruby>[[characters/粋|粋]]<rt>ㄙㄨㄧ</rt></ruby>
+74. <ruby>[[words/絵画|絵画]]<rt>ㄏ⺢ㄧㄏ⺢ㄎ</rt></ruby> "draw; paint" = <ruby>[[characters/絵|絵]]<rt>ㄏ⺢ㄧ</rt></ruby> + <ruby>[[characters/画|画]]<rt>ㄏ⺢ㄎ</rt></ruby>
+75. <ruby>[[words/継続|継続]]<rt>ㄍㄝㄧㄙ⼄ㄎ</rt></ruby> "continue; proceed; persist" = <ruby>[[characters/継|継]]<rt>ㄍㄝㄧ</rt></ruby> + <ruby>[[characters/続|続]]<rt>ㄙ⼄ㄎ</rt></ruby>
+76. <ruby>[[words/緩慢|緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby> "slow; sluggish" = <ruby>[[characters/緩|緩]]<rt>ㄏ⺢ㄋ</rt></ruby> + <ruby>[[characters/慢|慢]]<rt>ㄇㄚㄋ</rt></ruby>
+77. <ruby>[[words/練習|練習]]<rt>ㄌㄝㄋㄙㄜㄆ</rt></ruby> "practice" = <ruby>[[characters/練|練]]<rt>ㄌㄝㄋ</rt></ruby> + <ruby>[[characters/習|習]]<rt>ㄙㄜㄆ</rt></ruby>
+78. <ruby>[[words/考慮|考慮]]<rt>ㄎㄚㄨㄌ⼄</rt></ruby> "consider; regard; think about" = <ruby>[[characters/考|考]]<rt>ㄎㄚㄨ</rt></ruby> + <ruby>[[characters/慮|慮]]<rt>ㄌ⼄</rt></ruby>
+79. <ruby>[[words/胆嚢|胆嚢]]<rt>ㄉㄚㄇㄋㄚㄫ</rt></ruby> "gallbladder" = <ruby>[[characters/胆|胆]]<rt>ㄉㄚㄇ</rt></ruby> + <ruby>[[characters/嚢|嚢]]<rt>ㄋㄚㄫ</rt></ruby>
+80. <ruby>[[words/脊椎|脊椎]]<rt>ㄐㄝㄎㄑㄨㄧ</rt></ruby> "vertebrae; spine" = <ruby>[[characters/脊|脊]]<rt>ㄐㄝㄎ</rt></ruby> + <ruby>[[characters/椎|椎]]<rt>ㄑㄨㄧ</rt></ruby>
+81. <ruby>[[words/蝙蝠|蝙蝠]]<rt>ㄅㄝㄋㄈㄨㄎ</rt></ruby> "bat" = <ruby>[[characters/蝙|蝙]]<rt>ㄅㄝㄋ</rt></ruby> + <ruby>[[characters/蝠|蝠]]<rt>ㄈㄨㄎ</rt></ruby>
+82. <ruby>[[words/覆蓋|覆蓋]]<rt>ㄈㄨㄎㄍㄚㄧ</rt></ruby> "cover; affect" = <ruby>[[characters/覆|覆]]<rt>ㄈㄨㄎ</rt></ruby> + <ruby>[[characters/蓋|蓋]]<rt>ㄍㄚㄧ</rt></ruby>
+83. <ruby>[[words/記憶|記憶]]<rt>ㄍㄧㄧㄎ</rt></ruby> "remember; recollect" = <ruby>[[characters/記|記]]<rt>ㄍㄧ</rt></ruby> + <ruby>[[characters/憶|憶]]<rt>ㄧㄎ</rt></ruby>
+84. <ruby>[[words/認識|認識]]<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby> "know; recognize" = <ruby>[[characters/認|認]]<rt>ㄋㄧㄋ</rt></ruby> + <ruby>[[characters/識|識]]<rt>ㄙㄧㄎ</rt></ruby>
+85. <ruby>[[words/謹慎|謹慎]]<rt>ㄍㄧㄋㄙㄧㄋ</rt></ruby> "cautious" = <ruby>[[characters/謹|謹]]<rt>ㄍㄧㄋ</rt></ruby> + <ruby>[[characters/慎|慎]]<rt>ㄙㄧㄋ</rt></ruby>
+86. <ruby>[[words/豊富|豊富]]<rt>ㄆㄨㄫㄈㄨㄛ</rt></ruby> "abundant; rich; plentiful" = <ruby>[[characters/豊|豊]]<rt>ㄆㄨㄫ</rt></ruby> + <ruby>[[characters/富|富]]<rt>ㄈㄨㄛ</rt></ruby>
+87. <ruby>[[words/販売|販売]]<rt>ㄈㄛㄋㄇㄚㄧ</rt></ruby> "sell" = <ruby>[[characters/販|販]]<rt>ㄈㄛㄋ</rt></ruby> + <ruby>[[characters/売|売]]<rt>ㄇㄚㄧ</rt></ruby>
+88. <ruby>[[words/購買|購買]]<rt>ㄍㄛㄨㄇㄚㄧ</rt></ruby> "buy" = <ruby>[[characters/購|購]]<rt>ㄍㄛㄨ</rt></ruby> + <ruby>[[characters/買|買]]<rt>ㄇㄚㄧ</rt></ruby>
+89. <ruby>[[words/責任|責任]]<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby> "responsibility; duty" = <ruby>[[characters/責|責]]<rt>ㄐㄚㄎ</rt></ruby> + <ruby>[[characters/任|任]]<rt>ㄋㄧㄇ</rt></ruby>
+90. <ruby>[[words/跋扈|跋扈]]<rt>ㄅㄚㄊㄏㄛ</rt></ruby> "domineering; overbearing; tyrannical" = <ruby>[[characters/跋|跋]]<rt>ㄅㄚㄊ</rt></ruby> + <ruby>[[characters/扈|扈]]<rt>ㄏㄛ</rt></ruby>
+91. <ruby>[[words/跳躍|跳躍]]<rt>ㄊㄛㄨ⼘ㄎ</rt></ruby> "jump; leap" = <ruby>[[characters/跳|跳]]<rt>ㄊㄛㄨ</rt></ruby> + <ruby>[[characters/躍|躍]]<rt>⼘ㄎ</rt></ruby>
+92. <ruby>[[words/適宜|適宜]]<rt>ㄙㄝㄎㄜㄧ</rt></ruby> "suitable; appropriate" = <ruby>[[characters/適|適]]<rt>ㄙㄝㄎ</rt></ruby> + <ruby>[[characters/宜|宜]]<rt>ㄜㄧ</rt></ruby>
+93. <ruby>[[words/釣漁|釣漁]]<rt>ㄑㄛㄨ⼄</rt></ruby> "fish" = <ruby>[[characters/釣|釣]]<rt>ㄑㄛㄨ</rt></ruby> + <ruby>[[characters/漁|漁]]<rt>⼄</rt></ruby>
+94. <ruby>[[words/錦繍|錦繍]]<rt>ㄎㄛㄇㄙ⼜</rt></ruby> "brocade; tapestry" = <ruby>[[characters/錦|錦]]<rt>ㄎㄛㄇ</rt></ruby> + <ruby>[[characters/繍|繍]]<rt>ㄙ⼜</rt></ruby>
+95. <ruby>[[words/錯誤|錯誤]]<rt>ㄑㄚㄎ·ㄛ</rt></ruby> "err; make a mistake" = <ruby>[[characters/錯|錯]]<rt>ㄑㄚㄎ</rt></ruby> + <ruby>[[characters/誤|誤]]<rt>ㄛ</rt></ruby>
+96. <ruby>[[words/雍雍|雍雍]]<rt>ㄛㄫㄛㄫ</rt></ruby> "harmonious" = <ruby>[[characters/雍|雍]]<rt>ㄛㄫ</rt></ruby> + <ruby>[[characters/雍|雍]]<rt>ㄛㄫ</rt></ruby>
+97. <ruby>[[words/顚癇|顚癇]]<rt>ㄉㄝㄋㄏㄚㄋ</rt></ruby> "epilepsy" = <ruby>[[characters/顚|顚]]<rt>ㄉㄝㄋ</rt></ruby> + <ruby>[[characters/癇|癇]]<rt>ㄏㄚㄋ</rt></ruby>
 
 ## Base check
 ```base
 views:
-  1. type: table
+  - type: table
     name: Table
     filters:
       and:
-        1. file.folder == "words"
-        2. file.hasTag("cranberry")
+        - file.folder == "words"
+        - file.hasTag("cranberry")
     order:
-      1. file.name
-      2. characters
-      3. english
-      4. 注音
-      5. date-last-perfect
+      - file.name
+      - characters
+      - english
+      - 注音
+      - date-last-perfect
     sort:
-      6. property: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       note.characters: 147

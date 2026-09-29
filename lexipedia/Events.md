@@ -22,7 +22,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[活動](../words/活動.md)<rt>ㄏ⺢ㄊㄉㄛㄫ</rt></ruby>: to move, engage in activity; an activity.
 - <ruby>[恒常](../words/恒常.md)<rt>ㄏㄨㄫㄙ⼘ㄫ</rt></ruby>: constant, usual, common.
 - <ruby>[机会](../words/机会.md)<rt>ㄍㄧㄜㄏ⼔</rt></ruby>: an opportunity.
-- <ruby>[習慣](../words/習慣.md)<rt>ㄙㄧㄆㄍ⺢ㄇ</rt></ruby>: to be accustomed to, be in the habit of; a habit.
+- <ruby>[習慣](../words/習慣.md)<rt>ㄙㄜㄆㄍ⺢ㄋ</rt></ruby>: to be accustomed to, be in the habit of; a habit.
 - <ruby>[行動](../words/行動.md)<rt>ㄏㄚㄫㄉㄛㄫ</rt></ruby>: to act; an action.
 - <ruby>[継続](../words/継続.md)<rt>ㄍㄝㄧㄙ⼄ㄎ</rt></ruby>: to continue, proceed, persist.
 
