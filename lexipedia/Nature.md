@@ -1,5 +1,6 @@
 - boulder, bedrock <ruby>[磐石](../words/磐石.md)<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby>
 - cave/cavern
+- climate <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>
 - cloud
 - country
 - desert

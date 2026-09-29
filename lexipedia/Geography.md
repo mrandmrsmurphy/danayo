@@ -15,7 +15,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 
 ### Landform
-The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>.  
+The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby><ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, including specific named rivers such as the <ruby>[江戸川](words/江戸川.md)<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> (Edo River) forming part of the Tokyo–Chiba border.  
 Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>, <ruby>[経済](words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>, and <ruby>[軍事](words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby><ruby>[防守](/words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>.
 
 ### Political Development

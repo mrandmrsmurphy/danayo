@@ -20,7 +20,7 @@
 - dare
 - decide
 - desire
-- determine
+- determine <ruby>[毅然](../words/毅然.md)<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby> (resolutely, firmly)
 - doubt
 - dream
 - expect
