@@ -26,3 +26,4 @@
 - smoke
 
 ## Radiation
+- fluorescence <ruby>[蛍光](../words/蛍光.md)<rt>ㄏㄧㄫㄎ⺢ㄫ</rt></ruby>
