@@ -70,7 +70,7 @@ abandon, exit, halt, stumble, sneak, squeeze
 - follow
 - hunt
 - press
-- pursue
+- pursue <ruby>[追及](../words/追及.md)<rt>ㄊㄨㄧㄍㄨㄆ</rt></ruby> (to catch up to; also "to hold accountable" in Japanese, "to access" in Vietnamese)
 - push
 - search
 - seek
