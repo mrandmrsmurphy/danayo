@@ -10,7 +10,7 @@ date-last-perfect: 2026-09-28
 
 # Clothing
 
-Clothing vocabulary covers garments, the materials they're made from, and the textile production and care that turns raw fiber into wearable cloth — along with cosmetics and a few social-status metaphors ("white-collar," "blue-collar") built on garment vocabulary. A large share of basic garment terms (boot, cloak, coat, fashion, rag, robe, shirt, blouse, skirt, glove, stocking, sandal, poncho, loincloth, veil, loom, lace, wool) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently — this domain's specific/historical vocabulary has grown faster than its basic-garment core.
+Clothing vocabulary covers garments, the materials they're made from, and the textile production and care that turns raw fiber into wearable cloth — along with cosmetics and a few social-status metaphors ("white-collar," "blue-collar") built on garment vocabulary. A large share of basic garment terms (cloak, coat, fashion, rag, robe, shirt, blouse, skirt, glove, stocking, sandal, poncho, loincloth, veil, loom, lace, wool) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently — this domain's specific/historical vocabulary has grown faster than its basic-garment core.
 
 ## Core Vocabulary (A1–A2)
 
@@ -21,6 +21,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>: naked; to strip, undress.
 - <ruby>[帽子](../words/帽子.md)<rt>ㄇㄚㄨㄐㄜ</rt></ruby>: a hat.
 - <ruby>[鞋](../words/鞋.md)<rt>ㄏ⼘ㄧ</rt></ruby>: a shoe.
+- <ruby>[長靴](../words/長靴.md)<rt>ㄐㄚㄫㄏ⺢</rt></ruby>: a tall boot (rain boot, riding boot).
 - <ruby>[腰帯](../words/腰帯.md)<rt>⼄ㄨㄊㄚㄧ</rt></ruby>: a belt.
 - <ruby>[布帛](../words/布帛.md)<rt>ㄅㄛㄅㄚㄎ</rt></ruby>: cloth.
 - <ruby>[装](../words/装.md)<rt>ㄐ⺢ㄫ</rt></ruby>, <ruby>[扮](../words/扮.md)<rt>ㄈㄧㄋ</rt></ruby>: to dress up, adorn.
@@ -72,7 +73,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: a boot, a cloak, a coat, fashion, a rag, a robe, a shirt, a blouse, a skirt, a glove, a stocking, a sandal, a poncho, a loincloth, a veil, a loom, lace, wool.
+Rosenfelder terms with no Dan'a'yo word yet: a cloak, a coat, fashion, a rag, a robe, a shirt, a blouse, a skirt, a glove, a stocking, a sandal, a poncho, a loincloth, a veil, a loom, lace, wool.
 
 ## Advanced / Specialized (C1+)
 
