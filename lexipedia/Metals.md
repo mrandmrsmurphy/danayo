@@ -29,6 +29,7 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 ### Precious & Structural Metals
 
 - <ruby>[鋼鉄](../words/鋼鉄.md)<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby>: steel.
+- <ruby>[銑鉄](../words/銑鉄.md)<rt>ㄙㄝㄋㄊㄝㄊ</rt></ruby>: pig iron, cast iron — the crude, high-carbon product of iron smelting, refined further into steel or wrought iron.
 - <ruby>[朱錫](../words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: tin.
 - <ruby>[白金](../words/白金.md)<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby>: platinum.
 - <ruby>[金剛石](../words/金剛石.md)<rt>ㄍㄧㄇㄍㄚㄫㄙㄝㄎ</rt></ruby>: diamond — a mineral rather than a metal proper, but grouped here with the other precious materials.

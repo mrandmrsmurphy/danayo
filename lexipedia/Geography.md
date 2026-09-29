@@ -20,7 +20,7 @@ Mountain and sea conditions influence <ruby>[[交通]]<rt>ㄍ⼄ㄨㄊㄛㄫ</rt
 
 ### Political Development
 Historically, <ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> was dominant.  
-<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]).  
+<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]), from early capitals such as <ruby>[鎬京](words/鎬京.md)<rt>ㄏㄚㄨㄍ⼶ㄫ</rt></ruby> (Haojing, the Western Zhou capital) onward.  
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> served as sovereign ([[国主]]).
 
 In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby>[立憲](/words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> and <ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[対外]][[戦争]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]]).
