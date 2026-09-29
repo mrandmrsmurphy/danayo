@@ -9,6 +9,7 @@
 - palm tree <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>
 - Chinese fir <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>
 - bai ji, Chinese ground orchid (medicinal) <ruby>[白及](../words/白及.md)<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby>
+- dwarf bamboo, bamboo grass <ruby>[篠竹](../words/篠竹.md)<rt>ㄙㄛㄨㄐㄨㄎ</rt></ruby>
 - stick
 - tree
 
