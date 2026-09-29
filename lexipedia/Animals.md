@@ -168,6 +168,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 - <ruby>[龍](../words/龍.md)<rt>ㄌ⼄ㄫ</rt></ruby>: dragon — the auspicious East Asian dragon, associated with rivers, rain, and imperial authority; a wholly different cultural figure from the Western fire-breathing monster despite the shared English gloss. Appears throughout classical idiom, e.g. 画龍点睛 ("dot the dragon's eye," the finishing touch that brings a work to life) and 臥虎蔵龍 ("crouching tiger, hidden dragon," concealed mastery).
 - <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
+- <ruby>[火鼠](../words/火鼠.md)<rt>ㄏ⺢ㄙ⼄</rt></ruby>: the fire rat, a mythical creature with incombustible fur, famous from *The Tale of the Bamboo Cutter*.
 - <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ·⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
 - <ruby>[烏龍](../words/烏龍.md)<rt>ㄛㄌ⼄ㄫ</rt></ruby>: a black dragon — not to be confused with the identically-spelled tea name (烏龍茶, "oolong," an unrelated loanword-based compound).
 - <ruby>[玄武](../words/玄武.md)<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby>: the Black Tortoise, one of the Four Symbols of Chinese constellations — a tortoise entwined with a snake, guardian of the north.
