@@ -93,6 +93,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
+- <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
 - <ruby>[菱](../words/菱.md)<rt>ㄌㄜㄫ</rt></ruby>: a water chestnut.
 - <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
 - <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
