@@ -90,8 +90,11 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Cruelty & Violence
 
 - <ruby>[凶暴](../words/凶暴.md)<rt>ㄏ⼜ㄫㄅㄛㄎ</rt></ruby>: ferocious, brutal, savage and violent.
+- <ruby>[凶悪](../words/凶悪.md)<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby>: heinous, atrocious, fiendish.
 - <ruby>[激烈](../words/激烈.md)<rt>ㄍㄝㄎㄌㄝㄊ</rt></ruby>: violent, severe, acute.
 - <ruby>[暴徒](../words/暴徒.md)<rt>ㄅㄛㄎㄉㄛ</rt></ruby>: a mob, riot.
+- <ruby>[凶徒](../words/凶徒.md)<rt>ㄏ⼜ㄫㄉㄛ</rt></ruby>: villain, thug, criminal gang member; more archaic/literary than 暴徒.
+- <ruby>[凶手](../words/凶手.md)<rt>ㄏ⼜ㄫㄙ⼜</rt></ruby>: murderer, killer, perpetrator of a killing.
 - <ruby>[嚇](../words/嚇.md)<rt>ㄏㄚㄎ</rt></ruby>: to scare, frighten.
 
 ### Threats & Coercion
