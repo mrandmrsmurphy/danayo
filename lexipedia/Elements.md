@@ -49,6 +49,7 @@ Elements vocabulary covers the classical elements of pre-scientific cosmology �
 - <ruby>[梓木](../words/梓木.md)<rt>ㄐㄜ·ㄇㄛㄎ</rt></ruby>: catalpa wood.
 - <ruby>[楠木](../words/楠木.md)<rt>ㄋㄚㄇㄇㄛㄎ</rt></ruby>: camphor wood, nanmu.
 - <ruby>[樺木](../words/樺木.md)<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>: birch, birch wood.
+- <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: Chinese fir, Chinese fir wood.
 
 ### Not Yet Coined
 
