@@ -17,6 +17,7 @@ Possession vocabulary covers ownership, property, and the relationship between a
 - <ruby>[財産](../words/財産.md)<rt>ㄐㄚㄧㄙㄚㄋ</rt></ruby>: property, wealth.
 - <ruby>[共有](../words/共有.md)<rt>ㄍ⼄ㄫ⼜</rt></ruby>: to share, co-own.
 - <ruby>[占](../words/占.md)<rt>ㄐㄝㄇ</rt></ruby>: to occupy, possess (also <ruby>[占有](../words/占有.md)<rt>ㄐㄝㄇ·⼜</rt></ruby>, a near-synonym compound).
+- <ruby>[専用](../words/専用.md)<rt>ㄐ⼔ㄋ·⼄ㄫ</rt></ruby>: dedicated, exclusive use — reserved for one particular person or purpose rather than shared.
 
 ## Semantic Range Notes
 

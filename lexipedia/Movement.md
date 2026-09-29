@@ -16,6 +16,7 @@
 - draft
 - drift
 - drive
+- embed, inlay, insert into <ruby>[嵌入](../words/嵌入.md)<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby>
 - enter
 - fall
 - fast

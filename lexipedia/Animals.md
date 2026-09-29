@@ -135,6 +135,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[田鼠](../words/田鼠.md)<rt>ㄉㄝㄋㄙ⼄</rt></ruby>: vole, field mouse.
 - <ruby>[天竺鼠](../words/天竺鼠.md)<rt>ㄊㄝㄋㄐㄨㄎㄙ⼄</rt></ruby>: guinea pig, cavy.
 - <ruby>[倉鼠](../words/倉鼠.md)<rt>ㄑ⺢ㄫㄙ⼄</rt></ruby>: hamster.
+- <ruby>[尖鼠](../words/尖鼠.md)<rt>ㄐㄝㄇㄙ⼄</rt></ruby>: shrew — not actually a rodent despite the name and mouse-like appearance, grouped here with the other 鼠-named animals by naming convention.
 
 ### Livestock, Working Animals & Animal Products
 
