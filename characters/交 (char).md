@@ -81,6 +81,7 @@ boundedness: 80
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"
 
 ## Derived Characters
-- [[絞]]
-- [[咬 (char)]]
-- [[校]]
+- <ruby>[[絞]]<rt>ㄍ⼄ㄨ</rt></ruby> "twist"
+- <ruby>[[咬 (char)|咬]]<rt>⼘ㄨ</rt></ruby> "bite"
+- <ruby>[[校]]<rt>ㄏ⼘ㄨ</rt></ruby> "school"
+- <ruby>[[狡]]<rt>ㄍ⼄ㄨ</rt></ruby> "cunning"
