@@ -35,6 +35,7 @@
 - intelligent
 - intend
 - interest
+- isolate oneself, withdraw from society <ruby>[自閉](../words/自閉.md)<rt>ㄐㄧㄜㄅㄝㄧ</rt></ruby>
 - like
 - main
 - major
