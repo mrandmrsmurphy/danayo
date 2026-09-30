@@ -297,8 +297,8 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Aspect :
 	- begin - <ruby>[[開始]]<rt>ㄎㄚㄧㄙㄧ</rt></ruby>
 	- finish - <ruby>[[完成]]<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>
-	- intend to do
-	- habitually do
+	- intend to do - <ruby>[[擬]]<rt>ㄧ</rt></ruby> *("intend, plan" — see [[Mind]] for its own citation there)*
+	- habitually do *(needs a word — no dedicated habitual-aspect marker exists, distinct from [[中]]'s progressive "-ing" and [[将然]]'s prospective "about to")*
 - Abstractions :
 	- cause - <ruby>[[縁故]]<rt>⼶ㄋㄍㄛ</rt></ruby>
 	- mean - <ruby>[[意味]]<rt>ㄜ·ㄇㄨㄧ</rt></ruby>
@@ -409,46 +409,46 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Cars :
 	- car - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby>
 	- bus - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> *(literally "public vehicle")*
-	- license
-	- gas station
-	- motor
-	- taxi
-	- truck
+	- license *(needs a word)*
+	- gas station *(needs a word)*
+	- motor *(needs a word)*
+	- taxi *(needs a word)*
+	- truck *(needs a word)*
 	- gasoline - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby>
 - Other :
 	- bicycle - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>
 	- railroad - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>
-	- train station
+	- train station *(needs a word)*
 	- subway - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> *(its own gloss is "tunnel, underpass, subway" — likely the British "pedestrian underpass" sense, not confirmed for "underground train system")*
 	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>
 - Computer :
 	- computer - <ruby>[[電脳]]<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>
-	- disk
-	- chip
-	- CPU
+	- disk *(needs a word)*
+	- chip *(needs a word)*
+	- CPU *(needs a word)*
 - Accessories :
-	- DVD
-	- hard drive
+	- DVD *(needs a word)*
+	- hard drive *(needs a word)*
 	- keyboard - <ruby>[[鍵盤]]<rt>ㄍ⼶ㄋㄅㄚㄋ</rt></ruby>
 	- mouse - <ruby>[[滑鼠]]<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>
-	- monitor
+	- monitor *(needs a word)*
 - Programs :
-	- program
-	- game
-	- word processor
-	- compiler
+	- program *(needs a word)*
+	- game *(needs a word — distinct from [[遊戯]] "game" in the play/avocation sense, already used above)*
+	- word processor *(needs a word)*
+	- compiler *(needs a word)*
 - Internet :
 	- internet - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby>
-	- email
-	- web
-	- website
-	- download
-	- browser
-	- blog
+	- email *(needs a word)*
+	- web *(needs a word)*
+	- website *(needs a word)*
+	- download *(needs a word)*
+	- browser *(needs a word)*
+	- blog *(needs a word)*
 	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
-	- flame
-	- lurker
-	- newb
+	- flame *(needs a word)*
+	- lurker *(needs a word)*
+	- newb *(needs a word)*
 	- chat - <ruby>[[聊]]<rt>ㄌ⼘ㄨ</rt></ruby>
 - Disciplines :
 	- physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>
@@ -460,8 +460,8 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Physics
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
-	- energy,
-	- nuclear,
+	- energy *(needs a word — confirmed genuinely absent, see [[Physics]])*,
+	- nuclear *(needs a word)*,
 	- particle - <ruby>[[粒子]]<rt>ㄌㄨㄆㄐㄜ</rt></ruby>,
 	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
 	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
@@ -474,146 +474,146 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Substance :
 	- plastic - <ruby>[[塑膠]]<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>
 - Appliance :
-	- stove
+	- stove *(needs a word)*
 	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
-	- dishwasher
+	- dishwasher *(needs a word)*
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
-	- washer
-	- dryer
+	- washer *(needs a word)*
+	- dryer *(needs a word)*
 	- furnace - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby>
-	- AC
+	- AC *(needs a word)*
 - Film :
-	- camera
-	- film
-	- photo
+	- camera *(needs a word)*
+	- film *(needs a word — distinct from [[電影]] "movie," the finished work rather than the physical/celluloid medium)*
+	- photo *(needs a word)*
 	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>
-	- animation
+	- animation *(needs a word)*
 	- theater - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
 - Recording :
-	- CD
+	- CD *(needs a word)*
 	- record *(needs a word — [[記載]] means "to record, write down," a verb, not a noun for a music/audio recording)*
-	- tape
-	- stereo
+	- tape *(needs a word)*
+	- stereo *(needs a word)*
 - Weaponry :
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
-	- rifle
-	- tank
-	- infantry
-	- cavalry
-	- artillery
-	- bomb
+	- rifle *(needs a word)*
+	- tank *(needs a word)*
+	- infantry *(needs a word)*
+	- cavalry *(needs a word)*
+	- artillery *(needs a word)*
+	- bomb *(needs a word)*
 - Office :
-	- copier
-	- typewriter
-	- scanner
+	- copier *(needs a word)*
+	- typewriter *(needs a word)*
+	- scanner *(needs a word)*
 - Media :
-	- newspaper
+	- newspaper *(needs a word)*
 	- magazine - <ruby>[[雑誌]]<rt>ㄐㄚㄆㄐㄧ</rt></ruby>
 	- telephone - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>
 	- television - <ruby>[[電視]]<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby>
-	- radio
-	- comic
+	- radio *(needs a word)*
+	- comic *(needs a word)*
 - Other :
-	- elevator
-	- laser
-	- light bulb
+	- elevator *(needs a word)*
+	- laser *(needs a word)*
+	- light bulb - <ruby>[[電灯]]<rt>ㄉㄝㄋㄉㄨㄫ</rt></ruby> *("lamp, electric light")*
 	- watch - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
 - Measures :
-	- pound
+	- pound *(needs a word)*
 	- foot - <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby> *(body-part word extended to the unit of length, uncertain if attested that way)*
-	- mile
-	- ounce
-	- cup
-	- gram
-	- kg
+	- mile - <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> *(see [[Measurement]])*
+	- ounce *(needs a word)*
+	- cup *(needs a word — distinct from the container [[杯]], a volume-measure "cup" as used in recipes)*
+	- gram - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> *(one sense among several — also "practice self-restraint, overcome")*
+	- kg *(needs a word)*
 	- meter - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>
-	- km
-	- ml
-	- l
+	- km *(needs a word)*
+	- ml *(needs a word)*
+	- l *(needs a word)*
 - Lifestyle :
-	- lifestyle
-	- ATM
-	- suburb
+	- lifestyle - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> *(same word already used for "live, life" — see [[Life]])*
+	- ATM *(needs a word)*
+	- suburb *(needs a word)*
 - Jobs :
-	- secretary
-	- babysitter
-	- bureaucrat
-	- manager
+	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *([[部長]], which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
+	- babysitter *(needs a word)*
+	- bureaucrat *(needs a word)*
+	- manager *(needs a word)*
 - Education :
 	- college - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
-	- degree *(needs a word — [[程度]] means "extent, degree" in the abstract sense, not an academic qualification)*
-	- masters
-	- Ph.D
+	- degree - <ruby>[[学位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> *("academic degree" — resolves the gap noted below; [[程度]], which also glosses "degree," means "extent, degree" in the abstract sense, not this academic one)*
+	- masters *(needs a word — no dedicated term for this specific degree level, distinct from [[学位]]'s general "academic degree")*
+	- Ph.D - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> *("doctor," the degree-holder, used generically for the degree itself)*
 - Economy :
 	- economy - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>
-	- banknote
-	- credit card
-	- dollar
+	- banknote *(needs a word)*
+	- credit card *(needs a word)*
+	- dollar *(needs a word)*
 	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
 	- expenses - <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>
 	- income - <ruby>[[収入]]<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>
-	- inflation
-	- standard of living
-	- unemployed
-	- union
+	- inflation *(needs a word)*
+	- standard of living *(needs a word)*
+	- unemployed *(needs a word)*
+	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from [[連邦]]'s federal "union of states")*
 	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
-	- yen
-	- yuan
-	- won
-	- taxes
+	- yen *(needs a word)*
+	- yuan *(needs a word)*
+	- won *(needs a word)*
+	- taxes *(needs a word — distinct from the singular [[税金]] "tax," already used above)*
 - Avocations :
 	- chess - <ruby>[[将棋]]<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>
 	- rock - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>
 	- soccer - <ruby>[[蹴球]]<rt>ㄑㄨㄎㄍ⼜</rt></ruby>
-	- cigarette
-	- drugs
+	- cigarette *(needs a word)*
+	- drugs *(needs a word — distinct from [[毒]] "poisonous," already used on [[Plants]]/[[Physics]])*
 - Clothing :
 	- bikini - '''biǝginiǝ''', [[比]][[基]][[尼]]
 	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>
-	- jeans
-	- T-shirt
+	- jeans *(needs a word)*
+	- T-shirt *(needs a word)*
 	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>
 - Health :
-	- AIDS/HIV
-	- allergy
-	- addict
-	- antibiotics
+	- AIDS/HIV *(needs a word)*
+	- allergy - <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> *("oversensitive, allergic, hypersensitive" — the adjective; see [[Society]])*
+	- addict *(needs a word)*
+	- antibiotics *(needs a word)*
 	- bacteria - <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>
-	- vaccine
+	- vaccine *(needs a word)*
 	- virus - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>
-	- vitamin
+	- vitamin *(needs a word)*
 - Food :
 	- candy - <ruby>[[果子]]<rt>ㄍ⺢ㄐㄜ</rt></ruby>
-	- hamburger
-	- hot dog
-	- pizza
+	- hamburger *(needs a word)*
+	- hot dog *(needs a word)*
+	- pizza *(needs a word)*
 	- sushi - <ruby>[[寿司]]<rt>ㄙ⼜ㄙㄚ</rt></ruby>
-	- taco
+	- taco *(needs a word)*
 	- tofu - <ruby>[[豆腐]]<rt>ㄉㄛㄨㄆㄨ</rt></ruby>
-	- tomato
+	- tomato *(needs a word)*
 - Belief :
-	- communism
+	- communism *(needs a word)*
 	- socialism - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>
-	- fascism
+	- fascism *(needs a word)*
 	- republic - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby>
 	- democracy - <ruby>[[民主]]<rt>ㄇㄧㄋㄐㄨ</rt></ruby>
-	- Green
-	- human rights
-	- liberal
-	- conservative
+	- Green *(needs a word)*
+	- human rights *(needs a word)*
+	- liberal *(needs a word)*
+	- conservative *(needs a word)*
 - Position :
 	- president - <ruby>[[総統]]<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>
 	- prime minister - <ruby>[[宰相]]<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>
-	- representative
-	- parliament
-	- council
-	- dictator
+	- representative - <ruby>[[代表]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> *("represent," the verb, used generically for the noun; see [[Mind]]. Genuine Dan'a'yo homophone with [[大砲]] "cannon, gun")*
+	- parliament *(needs a word)*
+	- council *(needs a word — same gap already noted elsewhere in this document, e.g. under "council" in Politics)*
+	- dictator *(needs a word)*
 	- party *(needs a word — [[班]] means "group, section," not a political party)*
 - Religions :
 	- Islam - <ruby>[[回教]]<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>
-	- Judaism
+	- Judaism *(needs a word)*
 	- Christianity - <ruby>[[基督教]]<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>
-	- Hinduism
+	- Hinduism *(needs a word)*
 	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>
 
 ## Place Names
@@ -630,7 +630,7 @@ _These are for place names, not the words themselves_
 	- forest/woods - [[森]]
 	- grove/copse - [[林 ]]
 - Hills:
-	- hill
+	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> *(same word already used above in Nouns > Geographical)*
 	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
 	- mountain - [[山 (char)]]
 	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
@@ -653,7 +653,7 @@ _These are for place names, not the words themselves_
 	- brook - [[江]]
 	- channel *(needs a word — [[海峡]], which also glosses "channel," is already the dedicated word for "strait" below; [[経]]'s own "channel" sense is a weaving/scriptural metaphor, not a waterway)*
 	- rapids *(needs a word)*
-	- portage
+	- portage *(needs a word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
 	- confluence *(needs a word)*
 	- delta *(needs a word)*
@@ -719,11 +719,11 @@ _These are for place names, not the words themselves_
 - Other :
 	- mine *(needs a word)*
 	- inn *(needs a word)*
-	- stopping-point
-	- post
+	- stopping-point *(needs a word)*
+	- post *(needs a word — distinct from [[宿舎]] "lodge" below and [[郵便]] "postal mail")*
 	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>
 	- mill *(needs a word)*
-	- house
+	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> *(same word already used above in Nouns > Houses)*
 - Road :
 	- road - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>
 	- highway *(needs a word)*
@@ -757,33 +757,33 @@ _These are for place names, not the words themselves_
 	- royal - <ruby>[[帝 (char)]]<rt>ㄊㄝㄧ</rt></ruby> *(no independent word yet, character only)*
 - Salesmanship :
 	- fertile - <ruby>[[肥沃]]<rt>ㄅㄨㄧㄛㄎ</rt></ruby>
-	- beautiful
-	- lucky
+	- beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
+	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫㄨㄋ</rt></ruby> *(same word already used above in Adjectives > Character)*
 	- pleasant - <ruby>[[愉快]]<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>
 	- quiet - <ruby>[[安静]]<rt>ㄚㄋㄐㄝㄫ</rt></ruby>
 	- gold - <ruby>[[words/金]]<rt>ㄍㄧㄇ</rt></ruby>
 	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 	- jewel - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> *(literally "bright moon" — a poetic extension, not a dedicated word for "gem/jewel")*
 - Descriptive :
-	- windy
+	- windy *(needs a word)*
 	- stinky - <ruby>[[臭]]<rt>ㄑㄨ</rt></ruby>
 - Color : 
 	- white - <ruby>[[白]]<rt>ㄅㄚㄎ</rt></ruby>
 	- black - <ruby>[黒](/words/黒.md)<rt>ㄏㄨㄎ</rt></ruby>
 	- green - <ruby>[[緑]]<rt>ㄌㄛㄎ</rt></ruby>
 	- yellow - <ruby>[[../words/黄]]<rt>ㄏ⺢ㄫ</rt></ruby>
-	- blue
+	- blue - <ruby>[[紺]]<rt>ㄍㄚㄇ</rt></ruby> *(same word already used above in Adjectives > Colors)*
 	- red - <ruby>[[紅]]<rt>ㄏㄛㄫ</rt></ruby>
-	- orange
+	- orange - <ruby>[[橙色]]<rt>ㄉㄨㄫㄙㄧㄎ</rt></ruby>
 	- brown - <ruby>[[褐]]<rt>ㄏㄚㄊ</rt></ruby>
 - Water :
-	- fast
-	- slow
+	- fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
+	- slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
 	- clear *(needs a word — [[明確]] means abstract "clear, unambiguous," not water transparency)*
 	- muddy - <ruby>[[混濁]]<rt>ㄏㄛㄋㄉㄚㄎ</rt></ruby>
-	- noisy
-	- laughing
-	- reedy
+	- noisy *(needs a word)*
+	- laughing *(needs a word — i.e. a "laughing brook," babbling water; no dedicated word)*
+	- reedy *(needs a word — [[芦葦]] is the noun "reed, rush," not an adjective "full of reeds")*
 - Animals :
 	- horse - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby>
 	- ox - <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby>
