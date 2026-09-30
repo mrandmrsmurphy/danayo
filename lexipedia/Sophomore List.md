@@ -289,7 +289,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- hope - <ruby>[[希望]]<rt>ㄏㄧㄜㄇㄚㄫ</rt></ruby>
 	- worry - <ruby>[[憂慮]]<rt>⼜ㄌ⼄</rt></ruby>
 	- regret - <ruby>[[後悔]]<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>
-	- surprise
+	- surprise - <ruby>[[喫驚]]<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby> *(same word already used above for "startling/arresting")*
 - Modals :
 	- can - <ruby>[[可]]<rt>ㄎㄜ</rt></ruby>
 	- must *(needs a word)*
@@ -329,7 +329,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- follow - <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby>
 	- hide - <ruby>[[隠蔵]]<rt>ㄜㄋㄑㄚㄫ</rt></ruby>
 	- run - <ruby>[[走]]<rt>ㄙㄛㄨ</rt></ruby>
-	- roll
+	- roll - <ruby>[[滾]]<rt>ㄍ⺢ㄋ</rt></ruby> *(tumbling/rolling motion, as of a ball; distinct from [[巻]] "to roll up," as a scroll)*
 - Bodily :
 	- dance - <ruby>[[跳舞]]<rt>ㄊㄛㄨㄇㄨ</rt></ruby>
 	- kiss - <ruby>[[接吻]]<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>
@@ -372,7 +372,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Conjunctions :
 	- but - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby>
 	- or - <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby>
-	- though
+	- though *(needs a word — confirmed absent, see [[Grammar]]'s own Conjunctions list: "because, else, nor, though, unless: not yet coined")*
 	- until - <ruby>[[至]]<rt>ㄐㄧㄜ</rt></ruby>
 - Prepositions :
 	- toward - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby>
@@ -388,7 +388,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Adverbs :
 	- perhaps - <ruby>[[可能]]<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 	- indeed - <ruby>[[矣]]<rt>⼔</rt></ruby>
-	- thus
+	- thus - <ruby>[[焉]]<rt>ㄝㄋ</rt></ruby>, <ruby>[[所以]]<rt>ㄙㄜㄧ</rt></ruby> *(also "therefore, so, consequently" — see [[Grammar]])*
 - Time :
 	- now - <ruby>[[現在]]<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>
 	- then - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>

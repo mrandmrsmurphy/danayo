@@ -10,7 +10,7 @@ status: partial
 
 # Sin
 
-Sin vocabulary covers moral transgression and its consequences — killing, lying, greed, and malice, alongside the shame, forgiveness, and pardon that follow. It draws heavily on words primarily housed on [[Emotions]] and [[Law]], since sin sits at the intersection of feeling (shame, anger, lust) and judgment (guilt, pardon). Several basic terms (admit, tempt, confess, bully, sadist, bastard, strangle) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Sin vocabulary covers moral transgression and its consequences — killing, lying, greed, and malice, alongside the shame, forgiveness, and pardon that follow. It draws heavily on words primarily housed on [[Emotions]] and [[Law]], since sin sits at the intersection of feeling (shame, anger, lust) and judgment (guilt, pardon). Several basic terms (admit, tempt, confess, bully, sadist, bastard) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -20,7 +20,7 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 - <ruby>[有罪](../words/有罪.md)<rt>⼜ㄐㄛㄧ</rt></ruby>: guilty — see [Law](../lexipedia/Law.md) for its own citation there.
 - <ruby>[正大](../words/正大.md)<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby>: proper, legitimate, honest.
 
-**Not yet coined**: "admit," "tempt," "confess," "bully," "sadist," "bastard," and "strangle" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "admit," "tempt," "confess," "bully," "sadist," and "bastard" all have no dedicated Dan'a'yo word yet.
 
 ## Intermediate (B1–B2)
 
@@ -33,6 +33,7 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 - <ruby>[殺戮](../words/殺戮.md)<rt>ㄙㄚㄊㄌㄨㄎ</rt></ruby>: to slaughter, massacre — an undocumented near-duplicate of [[屠殺]].
 - <ruby>[溺](../words/溺.md)<rt>ㄋㄧㄎ</rt></ruby>: to drown.
 - <ruby>[没](../words/没.md)<rt>ㄇㄛㄊ</rt></ruby>: to drown, sink — a broader submersion sense than [[溺]]'s specific drowning; see [Water](../lexipedia/Water.md) and [Movement](../lexipedia/Movement.md) for their own citations there.
+- <ruby>[絞殺](../words/絞殺.md)<rt>ㄍ⼄ㄨㄙㄚㄊ</rt></ruby>: to strangle.
 
 ### Anger & Malice
 
