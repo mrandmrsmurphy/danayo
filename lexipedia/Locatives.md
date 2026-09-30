@@ -5,6 +5,7 @@ domain: Locatives
 related_domains:
   - "[[Directions]]"
   - "[[Grammar]]"
+  - "[[Movement]]"
 status: partial
 ---
 

@@ -4,6 +4,7 @@ type: lexipedia
 domain: Directions
 related_domains:
   - "[[Locatives]]"
+  - "[[Movement]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
