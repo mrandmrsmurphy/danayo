@@ -1,6 +1,7 @@
 
 - admit
 - anger
+- honest <ruby>[正大](../words/正大.md)<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby>
 - kill
 - lie
 - mean
@@ -10,7 +11,7 @@
 
 sin, guilt, tempt, corrupt, fraud
 
-honest, confess, forgive, pardon, excuse
+confess, forgive, pardon, excuse
 
 villian, bully, sadist, brute, bastard, malice
 
