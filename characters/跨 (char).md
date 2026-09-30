@@ -53,3 +53,4 @@ date-last-perfect: 2026-08-13
 
 ## Words
 - [跨](words/跨.md) "straddle; ride" — 跨 stands alone as a word in Dan'a'yo.
+- <ruby>[[跨性別]]<rt>ㄎ⺢ㄙㄧㄫㄅㄝㄊ</rt></ruby> "transgender"

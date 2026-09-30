@@ -69,6 +69,7 @@ boundedness: 80
 - <ruby>[[別野]]<rt>ㄅㄝㄊ⼘</rt></ruby> "villa, country house"
 - <ruby>[[国別]]<rt>ㄍㄛㄎㄅㄝㄊ</rt></ruby> "by country; country-by-country"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+- <ruby>[[跨性別]]<rt>ㄎ⺢ㄙㄧㄫㄅㄝㄊ</rt></ruby> "transgender"
 
 ## Chengyu
 - <ruby>[[千差万別]]<rt>ㄑㄝㄋㄑㄚ·ㄇㄛㄋㄅㄝㄊ</rt></ruby> "variegated, manifold diversity"
