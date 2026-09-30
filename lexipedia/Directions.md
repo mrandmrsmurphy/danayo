@@ -2,7 +2,8 @@
 language: English
 type: lexipedia
 domain: Directions
-related_domains: []
+related_domains:
+  - "[[Locatives]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

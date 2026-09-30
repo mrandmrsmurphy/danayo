@@ -2,7 +2,8 @@
 language: English
 type: lexipedia
 domain: Dimensions
-related_domains: []
+related_domains:
+  - "[[Measurement]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

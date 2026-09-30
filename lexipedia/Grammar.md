@@ -4,6 +4,7 @@ type: lexipedia
 domain: Grammar
 related_domains:
   - "[[Speech]]"
+  - "[[Locatives]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
