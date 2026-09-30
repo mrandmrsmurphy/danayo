@@ -200,7 +200,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- bag - <ruby>[[袋]]<rt>ㄉㄚㄧ</rt></ruby>
 	- bottle - <ruby>[[瓶]]<rt>ㄅㄝㄫ</rt></ruby>
 	- cup - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby>
-	- plate
+	- plate - <ruby>[[皿]]<rt>ㄇ⼶ㄫ</rt></ruby> *(general "dish, container" — no word dedicated specifically to a flat plate as opposed to a bowl)*
 	- knife - <ruby>[[刀剣]]<rt>ㄊㄚㄨㄍㄛㄇ</rt></ruby>
 - Avocations :
 	- music - <ruby>[[音楽]]<rt>ㄨㄇㄌㄚㄎ</rt></ruby>
@@ -305,7 +305,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- measure - <ruby>[[測量]]<rt>ㄑㄜㄎㄌ⼘ㄫ</rt></ruby>
 	- place - <ruby>[[位置]]<rt>⼔ㄧㄑㄧ</rt></ruby>
 - Shapes :
-	- square - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby>
+	- square - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> *(corrected from [[広場]], a false match — that word means "town square, plaza," not the geometric shape; see [[Shape]])*
 	- circle - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>
 	- line - <ruby>[[縄]]<rt>ㄙㄜㄫ</rt></ruby>
 	- edge - <ruby>[[辺界]]<rt>ㄅㄝㄋㄍ⼶</rt></ruby>
@@ -337,8 +337,8 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- cry - <ruby>[[哭]]<rt>ㄎㄛㄎ</rt></ruby>
 	- point - <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby>
 - Conflict :
-	- annoy
-	- hurt
+	- annoy - <ruby>[[刺激]]<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby> *("provoke, irritate")*
+	- hurt - <ruby>[[傷害]]<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby> *("wound, injure, hurt, assault")*
 	- crime - <ruby>[[犯罪]]<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby>
 	- destroy - <ruby>[[毀]]<rt>ㄏ⼔ㄧ</rt></ruby>
 	- trick - <ruby>[[秘訣]]<rt>ㄅㄧㄜㄍ⼔ㄊ</rt></ruby>
@@ -351,7 +351,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- take - <ruby>[[拿捕]]<rt>ㄋㄚㄅㄛ</rt></ruby>
 	- have - <ruby>[[有]]<rt>⼜</rt></ruby>
 	- build - <ruby>[[建築]]<rt>ㄍㄝㄋㄐㄨㄎ</rt></ruby>
-	- fold
+	- fold - <ruby>[[折畳]]<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby>
 	- add - <ruby>[[添加]]<rt>ㄊㄝㄇㄍㄚ</rt></ruby>
 - Acquisitions :
 	- buy - <ruby>[[購買]]<rt>ㄍㄛㄨㄇㄚㄧ</rt></ruby>
@@ -376,10 +376,10 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- until - <ruby>[[至]]<rt>ㄐㄧㄜ</rt></ruby>
 - Prepositions :
 	- toward - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby>
-	- for
-	- without
-	- against
-	- on
+	- for *(needs a word — the benefactive sense is absorbed into the dative case particle [[与格]] rather than a standalone preposition; see [[Grammar]])*
+	- without *(needs a word — confirmed absent, see [[Locatives]]'s own "Not yet coined" list)*
+	- against *(needs a word — confirmed absent, see [[Locatives]]'s own "Not yet coined" list)*
+	- on *(needs a word — likely absorbed into [[於]]'s broad "in/at/during" range, the same treatment as the confirmed-absent "onto"/"upon"; see [[Locatives]])*
 	- about - <ruby>[[就]]<rt>ㄑ⺢ㄧ</rt></ruby>
 	- behind - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>
 	- across - <ruby>[[亙]]<rt>ㄍㄨㄫ</rt></ruby>
@@ -393,7 +393,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- now - <ruby>[[現在]]<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>
 	- then - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>
 	- again - <ruby>[[再度]]<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
-	- next
+	- next *(needs a word — only compounds exist, e.g. [[来年]] "next year," [[隣]] "next door"; no plain generic "next")*
 - Degree :
 	- very - <ruby>[[頗]]<rt>ㄈㄚ</rt></ruby>
 	- too - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby>
@@ -621,25 +621,25 @@ _These are for place names, not the words themselves_
 
 ### Geography
 - Plains :
-	- plain
-	- savannah
+	- plain *(needs a word — [[普通]]/[[清淡]], which also gloss "plain," mean "ordinary"/"bland," not the landform; see [[Shape]] and [[Plants]] for this same false-match pattern)*
+	- savannah - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby> *(same word as "prairie" below — covers the whole open-grassland cluster; see [[Plants]])*
 	- meadow - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>
-	- field
+	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby> *([[球場]], which also glosses "field," means a sports stadium — not cited here)*
 	- prairie - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>
 - Forest :
 	- forest/woods - [[森]]
 	- grove/copse - [[林 ]]
 - Hills:
 	- hill
-	- down
+	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
 	- mountain - [[山 (char)]]
 	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
-	- plateau
-	- crest
+	- plateau *(needs a word)*
+	- crest *(needs a word)*
 	- peak - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>
 - Valley :
 	- valley - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby>
-	- canyon
+	- canyon *(needs a word)*
 	- cliff - <ruby>[[崖]]<rt>ㄚㄧ</rt></ruby>
 - Harsh :
 	- marsh - <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
@@ -651,15 +651,15 @@ _These are for place names, not the words themselves_
 	- river - [[川]]
 	- stream - [[河]]
 	- brook - [[江]]
-	- channel
-	- rapids
+	- channel *(needs a word — [[海峡]], which also glosses "channel," is already the dedicated word for "strait" below; [[経]]'s own "channel" sense is a weaving/scriptural metaphor, not a waterway)*
+	- rapids *(needs a word)*
 	- portage
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
-	- confluence
-	- delta
+	- confluence *(needs a word)*
+	- delta *(needs a word)*
 	- bank - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby>
 	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
-	- spring
+	- spring *(needs a word — a natural water source; [[春季]]/[[春]], already used above for the season, is an unrelated homograph)*
 - Lake :
 	- lake - [[湖]]
 	- pond - [[池]]
@@ -672,8 +672,8 @@ _These are for place names, not the words themselves_
 	- coast - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby>
 	- beach - <ruby>[[海辺]]<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>
 	- peninsula - [[半島]]
-	- cape
-	- point
+	- cape *(needs a word)*
+	- point *(needs a word — not the same concept as [[点]], a geometric/abstract point)*
 - Island :
 	- island - [[島]]
 	- archipelago - [[列島]] & [[群島]]
@@ -682,52 +682,52 @@ _These are for place names, not the words themselves_
 	- rock - [[石]]
 	- tree - [[words/木]]
 	- bridge - <ruby>[[橋梁]]<rt>ㄍ⼘ㄨㄌ⼘ㄫ</rt></ruby>
-	- ford
+	- ford - <ruby>[[渉]]<rt>ㄙㄝㄆ</rt></ruby> *("to ford, wade across" — the verb; Rosenfelder's noun sense "a fording place" is not separately attested)*
 	- dam - [[堰堤]]
 	- park - <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
-	- oasis
+	- oasis *(needs a word)*
 - Tree :
-	- aspen
+	- aspen *(needs a word)*
 	- birch - <ruby>[[樺木]]<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>
 	- cedar - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby>
-	- elm
-	- oak
+	- elm *(needs a word)*
+	- oak *(needs a word)*
 	- palm *(needs a word — [[手掌]] means the palm of a hand, not the tree)*
 	- pine - <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby>
 	- willow - <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby>
 ### Human
 - Settlements :
 	- city - [[市]]
-	- town
+	- town *(needs a word — distinct in scale from [[市]] "city" and [[里]] "village")*
 	- village - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby>
-	- colony
-	- port
+	- colony - <ruby>[[植民地]]<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby>
+	- port *(needs a word)*
 	- market - [[場]]
 	- capital - [[京]]
 - Military :
-	- fort
-	- castle
-	- wall
+	- fort - <ruby>[[要塞]]<rt>⼄ㄨㄙㄚㄧ</rt></ruby> *("fortress, stronghold")*
+	- castle *(needs a word — distinct from [[要塞]]'s military fortress)*
+	- wall - <ruby>[[壁]]<rt>ㄅㄝㄎ</rt></ruby> *(same word already used above for a building's wall)*
 	- camp - <ruby>[[屯]]<rt>ㄉㄨㄋ</rt></ruby>
 - Religion :
-	- shrine
-	- oracle
+	- shrine - <ruby>[[龕]]<rt>ㄎㄚㄇ</rt></ruby> *("shrine, alcove" — a small household/niche shrine; cp. [[精舎]] "vihara, shrine, retreat," the larger Buddhist monastic-complex register)*
+	- oracle *(needs a word)*
 	- temple - [[寺]]
 	- church - <ruby>[[教堂]]<rt>ㄍ⼄ㄨㄉㄚㄫ</rt></ruby>
 	- chapel *(same word as church, [[教堂]], covers both senses)*
 	- monastery - [[院]]
 - Other :
-	- mine
-	- inn
+	- mine *(needs a word)*
+	- inn *(needs a word)*
 	- stopping-point
 	- post
 	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>
-	- mill
+	- mill *(needs a word)*
 	- house
 - Road :
-	- road
-	- highway
-	- trail
+	- road - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>
+	- highway *(needs a word)*
+	- trail *(needs a word)*
 	- way - <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby> *(the "method, manner" sense, not necessarily a literal road)*
 ### Adjectives
 - Age:
