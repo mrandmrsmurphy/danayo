@@ -4,6 +4,7 @@ type: lexipedia
 domain: Law
 related_domains:
   - "[[Government]]"
+  - "[[Sin]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

@@ -4,6 +4,7 @@ type: lexipedia
 domain: Emotions
 related_domains:
   - "[[Mind]]"
+  - "[[Sin]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
