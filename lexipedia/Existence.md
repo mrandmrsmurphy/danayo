@@ -8,6 +8,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Movement]]"
   - "[[Physics]]"
+  - "[[Religion]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

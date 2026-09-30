@@ -2,7 +2,8 @@
 language: English
 type: lexipedia
 domain: Food
-related_domains: []
+related_domains:
+  - "[[Plants]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

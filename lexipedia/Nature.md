@@ -5,6 +5,7 @@ domain: Nature
 related_domains:
   - "[[Elements]]"
   - "[[Astronomy]]"
+  - "[[Plants]]"
 status: partial
 ---
 

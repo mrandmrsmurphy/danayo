@@ -5,6 +5,7 @@ domain: Elements
 related_domains:
   - "[[Periodic Table]]"
   - "[[Nature]]"
+  - "[[Plants]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
