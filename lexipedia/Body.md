@@ -4,6 +4,7 @@ type: lexipedia
 domain: Body
 related_domains:
   - "[[Love]]"
+  - "[[Life]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---

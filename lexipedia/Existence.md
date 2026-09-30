@@ -4,6 +4,7 @@ type: lexipedia
 domain: Existence
 related_domains:
   - "[[Grammar]]"
+  - "[[Life]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---
