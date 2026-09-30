@@ -5,6 +5,7 @@ domain: Body
 related_domains:
   - "[[Love]]"
   - "[[Life]]"
+  - "[[Physical]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---

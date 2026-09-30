@@ -2,7 +2,8 @@
 language: English
 type: lexipedia
 domain: Astronomy
-related_domains: []
+related_domains:
+  - "[[Nature]]"
 status: complete
 date-last-perfect: 2026-09-27
 ---

@@ -4,6 +4,7 @@ type: lexipedia
 domain: Conflict
 related_domains:
   - "[[Mind]]"
+  - "[[Physical]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---

@@ -4,6 +4,7 @@ type: lexipedia
 domain: Elements
 related_domains:
   - "[[Periodic Table]]"
+  - "[[Nature]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
