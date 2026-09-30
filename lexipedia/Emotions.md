@@ -2,7 +2,8 @@
 language: English
 type: lexipedia
 domain: Emotions
-related_domains: []
+related_domains:
+  - "[[Mind]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

@@ -6,6 +6,7 @@ related_domains:
   - "[[Grammar]]"
   - "[[Existence]]"
   - "[[Art]]"
+  - "[[Mind]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

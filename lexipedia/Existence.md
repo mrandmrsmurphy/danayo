@@ -5,6 +5,7 @@ domain: Existence
 related_domains:
   - "[[Grammar]]"
   - "[[Life]]"
+  - "[[Mind]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

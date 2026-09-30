@@ -5,7 +5,8 @@ domain: Measurement
 related_domains:
   - "[[Numbers]]"
   - "[[Dimensions]]"
-status: partial
+status: complete
+date-last-perfect: 2026-09-29
 ---
 
 # Measurement
@@ -20,8 +21,6 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[正確](../words/正確.md)<rt>ㄐㄧㄫㄎㄚㄎ</rt></ruby>: accurate, correct.
 - <ruby>[寸](../words/寸.md)<rt>ㄑㄛㄋ</rt></ruby>: an inch.
 
-**Not yet coined**: the Western "mile" itself has no dedicated word — 英里 ("English li," the standard Chinese calque for the Western mile) has no word page of its own yet, though [[里]] below is the closely related traditional East Asian unit. "Scale" (as a general noun, "on a large scale") also has no dedicated Dan'a'yo word yet.
-
 ## Intermediate (B1–B2)
 
 ### Units & Quantities
@@ -29,6 +28,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[千米](../words/千米.md)<rt>ㄑㄝㄋㄇㄝㄧ</rt></ruby>: a kilometer.
 - <ruby>[公尺](../words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>: a meter.
 - <ruby>[里](../words/里.md)<rt>ㄌㄧ</rt></ruby>: a li — the traditional East Asian unit of distance (roughly 500m in modern China, though the value has varied by era and country), the closest indigenous analog to the Western mile; see Semantic Range Notes.
+- <ruby>[英里](../words/英里.md)<rt>ㄝㄫㄌㄧ</rt></ruby>: a mile — the Western statute mile specifically, named "English li" to keep it distinct from the native [[里]]; see Semantic Range Notes.
 - <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, tally.
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code — an assigned, identifying number (serial number, ID), distinct from [[数字]]'s abstract numeral.
 - <ruby>[総数](../words/総数.md)<rt>ㄐㄛㄫㄙㄨ</rt></ruby>: a total, grand total.
@@ -38,10 +38,11 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[比率](../words/比率.md)<rt>ㄅㄧㄜㄌㄨㄊ</rt></ruby>: a ratio, rate, proportion.
 - <ruby>[比例](../words/比例.md)<rt>ㄅㄧㄜㄌㄝ</rt></ruby>: a ratio, proportion — an undocumented near-duplicate of [[比率]]; see Semantic Range Notes.
 - <ruby>[幅度](../words/幅度.md)<rt>ㄈㄨㄎㄉㄛ</rt></ruby>: a range, extent, scope.
+- <ruby>[規模](../words/規模.md)<rt>ㄍㄨㄧㄇㄛ</rt></ruby>: scale, scope — the size or magnitude of an undertaking as a whole (大規模, "large-scale"), distinct from [[幅度]]'s "range" between two values.
 
 ## Measure Words (量詞) — Counters and Classifiers
 
-Chinese, and Dan'a'yo after it, cannot place a number directly before a noun the way English does ("three books"). A classifier — a measure word — must intervene, chosen according to the shape, function, or category of what is being counted: 三**本**書 ("three [bound-volume] books"), not *三書. English marks this only for mass nouns ("three *loaves* of bread," "two *head* of cattle") and treats it as the exception; Dan'a'yo, like its source languages, treats it as the rule for every countable noun. The sixteen measure words below are the ones with their own Dan'a'yo entries so far; most are cross-cited on the more specific domain where the *thing being counted* lives (a full cross-reference list follows each entry), while this page gathers them as a single grammatical system.
+Chinese, and Dan'a'yo after it, cannot place a number directly before a noun the way English does ("three books"). A classifier — a measure word — must intervene, chosen according to the shape, function, or category of what is being counted: 三**本**書 ("three [bound-volume] books"), not *三書. English marks this only for mass nouns ("three *loaves* of bread," "two *head* of cattle") and treats it as the exception; Dan'a'yo, like its source languages, treats it as the rule for every countable noun. The sixteen measure words below are the ones with their own Dan'a'yo entries so far; most are cross-cited on the more specific domain where the *thing being counted* lives (a full cross-reference list follows each entry), while this page gathers them as a single grammatical system. The subcategories below follow the standard linguistic typology of Chinese classifiers: shape-based ([[条]] for long thin things, [[枚]] for flat things), function-based ([[台]] for machines, [[匹]] for animals), container-based ([[杯]], a borrowed container standing in for its contents), collective ([[束]], [[双]], [[冊]]), and the semantically bleached general classifier ([[個]]) that can substitute for almost any of the others informally.
 
 ### General & Multiplicative
 
@@ -79,13 +80,22 @@ These are simultaneously literal units of measurement and, grammatically, measur
 - <ruby>[升](../words/升.md)<rt>ㄙㄨㄫ</rt></ruby>: a liter.
 - <ruby>[碼](../words/碼.md)<rt>ㄇㄚ</rt></ruby>: a yard.
 
+## Advanced / Specialized (C1+)
+
+- <ruby>[精度](../words/精度.md)<rt>ㄐㄝㄫㄉㄛ</rt></ruby>: precision, degree of refinement.
+- <ruby>[誤差](../words/誤差.md)<rt>ㄛㄑㄚ</rt></ruby>: error, discrepancy — the margin between a measurement and the true value.
+- <ruby>[基準](../words/基準.md)<rt>ㄍㄧㄐㄨㄋ</rt></ruby>: a standard, criterion, baseline — what a measurement is taken against.
+- <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit (of measurement) — see [[Knowledge]] and [[Society]] for this same word's separate "academic credit" citation.
+
 ## Semantic Range Notes
 
 **個 is the classifier system's own default, not just one classifier among sixteen**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
 
 **比率 and 比例 are an undocumented duplicate, not a confirmed split**: both independently gloss "ratio, proportion," and neither word's own Notes records any distinction between them — closer to the unresolved [[親族]]/[[親戚]] case on [[Kinship]] than to a real semantic split. [[比率]] additionally covers "rate," which is the reason it is used as this page's primary entry.
 
-**里 is close to a mile, but not the same word as 英里**: [[里]] is a genuinely traditional East Asian unit (roughly 500m in modern usage), not a translation of "mile" — its rough similarity in scale to a mile is coincidental, not etymological. Chinese keeps the two apart with a distinct calque, 英里 ("English li"), for the Western unit specifically; this vault follows that same distinction rather than treating [[里]] as simply "the Chinese word for mile." 里 also carries an unrelated administrative sense, "village, hamlet," documented on the word's own page rather than here.
+**里 and 英里 are kept apart, not conflated**: [[里]] is a genuinely traditional East Asian unit (roughly 500m in modern usage); [[英里]] ("English li") is the distinct calque Chinese uses for the Western statute mile. Their rough similarity in scale is coincidental, not etymological, and this vault follows the same distinction rather than treating 里 as simply "the Chinese word for mile." 里 also carries an unrelated administrative sense, "village, hamlet," documented on its own page rather than here. 英里 itself is a further example of the "field holds the formal reading, prose holds the living word" pattern already seen with [[墨西哥]] and [[孟加拉]]: Mandarin and Cantonese genuinely say 英里, but modern Japanese (マイル) and Korean (마일) both use direct phonetic loans from English instead, while Vietnamese anh lý is a confirmed, living Sino-Vietnamese term.
+
+**正確 and 精度 track the real distinction between accuracy and precision, not two words for the same idea**: [[正確]] (Core) means correct, accurate — how close a measurement or statement is to the true value. [[精度]] (Advanced) means precision, degree of refinement — how fine-grained or repeatable a measurement is, independent of whether it is actually correct. A scale that reports a weight to the milligram is 精度 high (very precise) even if it is miscalibrated and therefore not 正確 (accurate); a scale that rounds to the nearest kilogram but is correctly calibrated is 正確 without being especially 精度. English collapses this distinction in casual speech far more than working measurement vocabulary in either language actually does.
 
 **数字 and 番号 split abstract numeral from assigned identifier**: [[数字]] is a numeral or digit as a mathematical object — the abstract concept of a number. [[番号]] is a number *assigned* to something for identification — a serial number, a ticket number, a code — closer to English "number" in "what's your phone number" than to "number" in "count to ten."
 

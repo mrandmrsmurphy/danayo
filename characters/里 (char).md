@@ -36,7 +36,7 @@ tags:
 boundedness: 100
 ---
 >[!tip] This is a page about the character 里.
->For the word, see [里](words/里.md)
+>For the word, see [里](../words/里.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -53,6 +53,7 @@ boundedness: 100
 - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby> "village" (stand-in for 里)
 - <ruby>[[里芋]]<rt>ㄌㄧㄨ</rt></ruby> "taro"
 - <ruby>[[居里金]]<rt>ㄍㄧㄌㄧㄍㄧㄇ</rt></ruby> "curium" — a phonosemantic coinage (里, the word's second character, since 居 is reserved for other uses)
+- <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> "mile"
 
 ## Chengyu
 - <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"

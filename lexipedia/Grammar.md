@@ -5,6 +5,7 @@ domain: Grammar
 related_domains:
   - "[[Speech]]"
   - "[[Locatives]]"
+  - "[[Mind]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
@@ -51,7 +52,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - will, intent (noun) : <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>
 
 ### Particles
-- as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>
+- as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>
 - no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>

@@ -5,6 +5,7 @@ domain: Art
 related_domains:
   - "[[Work]]"
   - "[[Knowledge]]"
+  - "[[Mind]]"
 status: complete
 date-last-perfect: 2026-09-27
 ---
