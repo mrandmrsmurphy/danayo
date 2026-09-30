@@ -57,7 +57,7 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) 
 - <ruby>[印度](words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>  
 - <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧ·ㄊㄚㄋ</rt></ruby>
 - <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
-- <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄧㄍㄛㄎ</rt></ruby>
+- <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄜㄍㄛㄎ</rt></ruby>
 - <ruby>[泥婆羅](/words/泥婆羅.md)<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby>  
 - <ruby>[不丹](/words/不丹.md)<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby>
 The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).

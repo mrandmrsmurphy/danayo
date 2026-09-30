@@ -71,6 +71,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 - <ruby>[頬](../words/頬.md)<rt>ㄍㄝㄆ</rt></ruby>: cheek.
 - <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>: middle ear.
+- <ruby>[耳朶](../words/耳朶.md)<rt>ㄋㄧㄉㄚ</rt></ruby>: earlobe.
 - <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>: eyebrows.
 - <ruby>[虹彩](../words/虹彩.md)<rt>ㄏㄛㄫㄑㄚㄧ</rt></ruby>: iris (of the eye).
 - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>: face.
