@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[私立]]<rt>ㄙㄧㄜㄌㄧㄆ</rt></ruby> "private"
 - <ruby>[[創立]]<rt>ㄑ⺢ㄫㄌㄧㄆ</rt></ruby> "establish; found"
 - <ruby>[[孤立]]<rt>ㄍㄛㄌㄧㄆ</rt></ruby> "isolated; unrelated"
+- <ruby>[[立方体]]<rt>ㄌㄧㄆㄈㄚㄫㄊㄝㄧ</rt></ruby> "cube"
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"

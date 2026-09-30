@@ -5,6 +5,7 @@ domain: Directions
 related_domains:
   - "[[Locatives]]"
   - "[[Movement]]"
+  - "[[Shape]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

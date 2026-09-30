@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[字典](/words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby> - dictionary
 - <ruby>[簡体字](/words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - simplified Chinese characters
 - <ruby>[繁体字](/words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - traditional Chinese characters
+- <ruby>[[本字]]<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character"
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"

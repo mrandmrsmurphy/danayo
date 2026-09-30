@@ -179,6 +179,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
+- <ruby>[本字](../words/本字.md)<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character — the etymologically correct character for a word, as distinct from a phonetic loan or later variant"
 - <ruby>[字](../words/字.md)<rt>ㄐㄧ</rt></ruby> "character"
 - <ruby>[単字](../words/単字.md)<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character, single-character word"
 - <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby> "word, vocabulary item"
