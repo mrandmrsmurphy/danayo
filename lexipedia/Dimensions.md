@@ -4,6 +4,7 @@ type: lexipedia
 domain: Dimensions
 related_domains:
   - "[[Measurement]]"
+  - "[[Physics]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

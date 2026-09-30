@@ -4,12 +4,13 @@ type: lexipedia
 domain: Light
 related_domains:
   - "[[Color]]"
+  - "[[Physics]]"
 status: partial
 ---
 
 # Light
 
-Light vocabulary covers the physical phenomenon of light and its absence — brightness, darkness, shine, and shadow — along with fire and combustion, and the specialized language of radiation and fluorescence. It borders [[Color]], which covers hue and pigment rather than the light itself, and touches on the still-unbuilt physics vocabulary of heat and energy.
+Light vocabulary covers the physical phenomenon of light and its absence — brightness, darkness, shine, and shadow — along with fire and combustion, and the specialized language of radiation and fluorescence. It borders [[Color]], which covers hue and pigment rather than the light itself, and shares its heat vocabulary ([[熱]]) with [[Physics]].
 
 ## Core Vocabulary (A1–A2)
 
