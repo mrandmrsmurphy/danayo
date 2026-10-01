@@ -20,6 +20,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
 - <ruby>[同意](../words/同意.md)<rt>ㄉㄛㄫㄜ</rt></ruby>: to agree, consent.
+- <ruby>[一致](../words/一致.md)<rt>ㄧㄊㄑㄧㄜ</rt></ruby>: to be unanimous, to agree, coincide — a broader "align, match, correspond" than [[同意]]'s individual act of consenting; used for opinions converging, not one person granting permission.
 - <ruby>[群衆](../words/群衆.md)<rt>ㄍㄨㄋㄐㄨㄫ</rt></ruby>: crowd, masses.
 - <ruby>[一処](../words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby>: together, in one place.
 - <ruby>[公共](../words/公共.md)<rt>ㄍㄛㄫㄍ⼄ㄫ</rt></ruby>: public, communal.

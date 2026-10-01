@@ -44,6 +44,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
+- <ruby>[七事](../words/七事.md)<rt>ㄑㄧㄊㄐㄧ</rt></ruby>: the Seven Duties of a Sovereign — a classical/historical canonical list (offering sacrifice, giving audience, administering jointly, receiving guests, running the army, attending to farm work, and mourning ceremonies).
 - <ruby>[伯爵](../words/伯爵.md)<rt>ㄅㄚㄎㄐㄚㄎ</rt></ruby>: an earl, count.
 - <ruby>[卿](../words/卿.md)<rt>ㄎ⼶ㄫ</rt></ruby>: a noble, high officer, sir, m'lord.
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).

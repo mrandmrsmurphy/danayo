@@ -41,6 +41,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 ### Hearing
 
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: a sound. See [Speech](../lexipedia/Speech.md) for its own citation there.
+- <ruby>[丁丁](../words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>: clang, clash — a specific onomatopoeia for a sharp, repeated striking sound (chopping, metal clanging), not a general-purpose "noise" word.
 - <ruby>[聴](../words/聴.md)<rt>ㄑㄝㄫ</rt></ruby>: to listen.
 - <ruby>[反響](../words/反響.md)<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby>: an echo.
 - <ruby>[沈黙](../words/沈黙.md)<rt>ㄑㄧㄇㄇㄨㄎ</rt></ruby>: silent.
