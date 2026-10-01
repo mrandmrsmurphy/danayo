@@ -21,6 +21,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[中止](../words/中止.md)<rt>ㄐㄨㄫㄐㄧ</rt></ruby>: to discontinue, cancel, call off.
 - <ruby>[絶](../words/絶.md)<rt>ㄐ⼔ㄊ</rt></ruby>: to sever, break off, discontinue — more final and absolute than [[中止]]'s cancellation (絶対, "absolute"; 絶後, "never to happen again").
 - <ruby>[保留](../words/保留.md)<rt>ㄅㄚㄨㄌ⼜</rt></ruby>: to hold, suspend, defer — milder than [[中止]]'s cancellation, reserving judgment or action rather than ending it (意見保留, "to reserve one's opinion").
+- <ruby>[停滞](../words/停滞.md)<rt>ㄉㄝㄫㄐㄝ</rt></ruby>: to stagnate — an involuntary stall (交通停滞, "traffic congestion"; 経済停滞, "economic stagnation"), distinct from [[保留]]'s deliberate deferral.
 - <ruby>[従事](../words/従事.md)<rt>ㄐㄛㄫㄐㄧ</rt></ruby>: to engage in, be involved in, pursue (a vocation).
 - <ruby>[活動](../words/活動.md)<rt>ㄏ⺢ㄊㄉㄛㄫ</rt></ruby>: to move, engage in activity; an activity.
 - <ruby>[恒常](../words/恒常.md)<rt>ㄏㄨㄫㄙ⼘ㄫ</rt></ruby>: constant, usual, common.

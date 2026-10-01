@@ -55,6 +55,8 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
+- <ruby>[保証](../words/保証.md)<rt>ㄅㄚㄨㄐㄧㄫ</rt></ruby>: to ensure, attest, stipulate, guarantee (保証人, "a guarantor").
+- <ruby>[保険](../words/保険.md)<rt>ㄅㄚㄨㄏㄝㄇ</rt></ruby>: insurance, to insure.
 
 ### Wealth & Poverty
 

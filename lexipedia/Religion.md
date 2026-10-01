@@ -82,6 +82,8 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
+- <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").
+- <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).

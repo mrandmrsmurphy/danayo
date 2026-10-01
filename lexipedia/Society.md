@@ -80,6 +80,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[漢族](../words/漢族.md)<rt>ㄏㄚㄋㄐㄛㄎ</rt></ruby>: the Han ethnicity.
 - <ruby>[中国人](../words/中国人.md)<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby>: a Chinese person — the productive country-name + 人 nationality pattern; primarily legal/citizenship (PRC national or mainland-Chinese identity), distinct from [[華人]]'s broader "ethnic Chinese" sense (not cited here).
 - <ruby>[苗族](../words/苗族.md)<rt>ㄇ⼘ㄨㄐㄛㄎ</rt></ruby>: the Hmong/Miao ethnicity.
+- <ruby>[倭人](../words/倭人.md)<rt>⼔ㄧㄋㄧㄋ</rt></ruby>: Wajin — the archaic Chinese term for the Japanese people (as in the 3rd-century Chinese chronicle references to the Wa/Yamatai).
 
 ### Status, Rank & Civic Standing
 
@@ -117,10 +118,13 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
 - <ruby>[赳赳](../words/赳赳.md)<rt>ㄍ⼜ㄍ⼜</rt></ruby>: strong and valiant — a reduplication.
 - <ruby>[縦](../words/縦.md)<rt>ㄐㄛㄇ</rt></ruby>: selfish, arbitrary, unrestrained, self-indulgent — a vice, the opposite pole from the virtues above; in a separate, unrelated sense, also "lengthwise, vertical" (縦縞, "vertical stripes").
+- <ruby>[倫理](../words/倫理.md)<rt>ㄌㄨㄋㄌㄧ</rt></ruby>: ethics, morality.
+- <ruby>[倹素](../words/倹素.md)<rt>ㄍㄝㄇㄙㄛ</rt></ruby>: economical and simple, frugal (of a lifestyle).
 
 ### Trust, Respect & Esteem
 
 - <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>: to trust, believe, rely on.
+- <ruby>[信任](../words/信任.md)<rt>ㄙㄧㄋㄋㄧㄇ</rt></ruby>: to trust in, confide in — a near-synonym of [[信用]], leaning more formal/institutional (信任投票, "a vote of confidence").
 - <ruby>[依存](../words/依存.md)<rt>ㄧㄜㄐㄛㄋ</rt></ruby>: dependence, to depend on — interdependence or addiction (依存症), a near-synonym cluster with [[依拠]]/[[依頼]] below.
 - <ruby>[依拠](../words/依拠.md)<rt>ㄧㄜㄍ⼄</rt></ruby>: to depend on, to be the basis for — the evidentiary/reasoning register ("based on").
 - <ruby>[依頼](../words/依頼.md)<rt>ㄧㄜㄌㄚㄧ</rt></ruby>: to rely on, depend on — in Japanese specifically also "to request, commission" (依頼する).

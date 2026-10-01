@@ -87,6 +87,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[頃](../words/頃.md)<rt>ㄎㄝㄫ</rt></ruby>: a moment. See [Events](../lexipedia/Events.md) for its own citation there.
 - <ruby>[簡略](../words/簡略.md)<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby>: brief.
 - <ruby>[一朝](../words/一朝.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: a short time, a brief moment — "a short while," broader than [[一瞬]]/[[刹那]]'s point-instant, closer to "overnight" as a byword for suddenness.
+- <ruby>[俯仰](../words/俯仰.md)<rt>ㄈㄨ⼘ㄫ</rt></ruby>: in an instant, in the blink of an eye (俯仰之間) — figurative, from the literal image of lowering and raising the head.
 
 ### The "Present" Cluster
 

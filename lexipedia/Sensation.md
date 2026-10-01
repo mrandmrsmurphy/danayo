@@ -62,6 +62,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[視](../words/視.md)<rt>ㄙㄧㄜ</rt></ruby>: to look at, inspect — the bound root behind [[視覚]] above, and this page's own previously-flagged "to look" verb.
 - <ruby>[盲目](../words/盲目.md)<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby>: blind.
 - <ruby>[一瞥](../words/一瞥.md)<rt>ㄧㄊㄆㄝㄊ</rt></ruby>: a glance, quick look.
+- <ruby>[俯瞰](../words/俯瞰.md)<rt>ㄈㄨ·ㄎㄚㄇ</rt></ruby>: to look down from above; a bird's-eye view (俯瞰図, "an aerial-view diagram").
 - <ruby>[影像](../words/影像.md)<rt>⼶ㄫㄙ⼘ㄫ</rt></ruby>: an image — the general sense.
 - <ruby>[肖像](../words/肖像.md)<rt>ㄙ⼄ㄨㄙ⼘ㄫ</rt></ruby>: an image — specifically a portrait of a person, distinct from [[影像]]'s general sense.
 - <ruby>[景致](../words/景致.md)<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby>: a view — scenery. See [Locatives](../lexipedia/Locatives.md) for its own citation there.

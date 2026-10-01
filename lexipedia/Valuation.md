@@ -80,6 +80,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[精密](../words/精密.md)<rt>ㄐㄝㄫㄇㄧㄊ</rt></ruby>: exact, precise, meticulous.
 - <ruby>[健康](../words/健康.md)<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>: healthy, sound, fit — the physical-fitness sense of "fit."
+- <ruby>[健全](../words/健全.md)<rt>ㄍㄝㄋㄐ⼔ㄋ</rt></ruby>: sound, wholesome — soundness of body, mind, or system (a sound institution, a wholesome character), distinct from [[健康]]'s ordinary physical health.
 
 **Not yet coined**: "suit," and "fit" in the sense of "to be suitable or appropriate" (as opposed to physically fit), both remain uncoined.
 

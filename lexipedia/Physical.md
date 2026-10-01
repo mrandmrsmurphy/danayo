@@ -34,6 +34,8 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 - <ruby>[差額](../words/差額.md)<rt>ㄑㄚㄚㄎ</rt></ruby>: a balance, differential — the financial sense (an account balance), distinct from [[均衡]]'s physical/abstract equilibrium.
 - <ruby>[平均](../words/平均.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: average; to balance, find the mean — the statistical sense, likewise distinct from [[均衡]].
+- <ruby>[偏差](../words/偏差.md)<rt>ㄆ⼶ㄋㄑㄚ</rt></ruby>: deviation, bias — a statistical gap skewed to one side (標準偏差, "standard deviation"); also, in a critical register, systematic distortion in measurement or judgment.
+- <ruby>[偏重](../words/偏重.md)<rt>ㄆ⼶ㄋㄑㄛㄫ</rt></ruby>: to overemphasize, lean too heavily toward — [[均衡]]'s own failure mode, a one-sided emphasis at the expense of balance.
 
 ### Binding & Tying
 
