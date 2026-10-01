@@ -9,6 +9,7 @@ related_domains:
   - "[[Movement]]"
   - "[[Physics]]"
   - "[[Religion]]"
+  - "[[Time]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---
