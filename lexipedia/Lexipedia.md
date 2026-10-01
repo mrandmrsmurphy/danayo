@@ -59,6 +59,7 @@ See [[AIOS/checklists/checklist_lexipedia|the lexipedia checklist]] for the stan
 * [[lexipedia/Work]]
 
 ## Swadesh
+Rosenfelder's book includes these two lists, but neither is one of the ~50 Lexipedia domain categories proper: Swadesh is the standard core-vocabulary list used across comparative linguistics generally, and the Sophomore List is his own supplementary list that follows directly after it.
 - [[Swadesh]]
 - [[lexipedia/Sophomore List]]
 

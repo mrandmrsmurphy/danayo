@@ -9,29 +9,29 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Unsorted**: 2512
 - **Calendar**: 116
 - **Geography**: 240
-- **Life**: 26
-- **Light**: 33
-- **Locatives**: 15
-- **Measurement**: 16
-- **Mind**: 28
-- **Movement**: 57
-- **Nature**: 11
+- **Life**: 21
+- **Light**: 22
+- **Locatives**: 6
+- **Measurement**: 10
+- **Mind**: 20
+- **Movement**: 34
+- **Nature**: 10
 - **Physical**: 11
-- **Physics**: 19
-- **Plants**: 32
-- **Religion**: 42
+- **Physics**: 13
+- **Plants**: 20
+- **Religion**: 27
 - **Sensation**: 16
-- **Reproduction**: 13
-- **Shape**: 16
-- **Sin**: 22
-- **Speech**: 60
-- **Substances**: 30
-- **Time**: 29
-- **Tools**: 22
-- **Trade**: 40
-- **Valuation**: 48
-- **War**: 28
-- **Work**: 32
+- **Reproduction**: 10
+- **Shape**: 9
+- **Sin**: 21
+- **Speech**: 39
+- **Substances**: 20
+- **Time**: 15
+- **Tools**: 13
+- **Trade**: 27
+- **Valuation**: 45
+- **War**: 15
+- **Work**: 17
 
 ## Unsorted (2364)
 
@@ -2927,7 +2927,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[高山]] — high mountain, alpine
 - [[黄海]] — yellow sea
 
-## Life (26)
+## Life (21)
 
 - [[出生率]] — birth rate, natality (rerouted from the Existence bucket)
 - [[死亡率]] — mortality rate, death rate (rerouted from the Existence bucket)
@@ -2935,15 +2935,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[分娩]] — give birth, deliver a child (rerouted from the Existence bucket)
 - [[生育]] — give birth to (rerouted from the Existence bucket)
 - [[生死]] — life and death (rerouted from the Existence bucket)
-- [[出生]] — be born
 - [[寿命]] — age, lifespan
 - [[崩]] — crumble, disintegrate, die, fall apart
 - [[年齢]] — someone's age
 - [[昇天]] — die
-- [[死亡]] — die, death
-- [[活]] — alive
 - [[滋生]] — grow, multiply, thrive
-- [[生活]] — live, life, lifestyle
 - [[生物学]] — biology
 - [[細胞]] — cell (biology)
 - [[繁殖]] — breed, reproduce
@@ -2955,77 +2951,52 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[酩酊]] — dead drunk, thoroughly intoxicated
 - [[養殖]] — cultivate, breed
 
-## Light (33)
+## Light (22)
 - [[三稜鏡]] — prism
 - [[体現]] — embody, reflect, incarnate
-- [[光]] — light
-- [[光明]] — brightness, hope, light, radiance
 - [[光芒]] — rays, radiance, beam of light
 - [[冥]] — dark, gloomy
 - [[反映]] — reflect, indicate
 - [[孔明]] — bright, clean
 - [[幽]] — quiet, secluded, dark
-- [[明]] — bright
 - [[明朗]] — bright, clear, cheerful
-- [[映]] — reflect, project
 - [[昧]] — dark, benighted
-- [[昭]] — shine, luminous
 - [[昭明]] — shining and bright, luminous
-- [[暗]] — dark
-- [[暗影]] — shadow, gloom, umbra
 - [[暗黒]] — dark, pitch black
 - [[桁]] — beam
 - [[灯]] — lamp
 - [[灯心]] — wick; lamp wick
-- [[照]] — shine
 - [[照耀]] — to shine upon, to illuminate, to radiate
 - [[虹霓]] — neon, neon light
-- [[蛍光]] — fluorescence, the light of a firefly
 - [[蠟燭]] — candle
 - [[透]] — transparent
-- [[閃光]] — flash of light, glint
-- [[陰影]] — shadow
 - [[陽]] — shine
 - [[電灯]] — lamp, electric light
 - [[鱏]] — ray, skate
 - [[黒暗]] — pure blackness, darkness
 
-## Locatives (15)
+## Locatives (6)
 
-- [[之間]] — between, among
-- [[位置]] — location, place
-- [[内部]] — interior, inside
-- [[処]] — place
 - [[参観]] — visit; tour (a place), observe
-- [[外部]] — outside, exterior, external
-- [[姿態]] — pose, position
-- [[定位]] — position
-- [[所在]] — place, location, whereabouts
-- [[置]] — put, place
 - [[裏面]] — inside
 - [[遠方]] — distant place, far away location
 - [[隣]] — neighboring, next door
 - [[隣人]] — neighbor, neighborhood
 - [[陣地]] — military position
 
-## Measurement (16)
+## Measurement (10)
 - [[丈]] — zhang
 - [[体積]] — volume, capacity, bulk
-- [[公尺]] — meter, metre
-- [[升]] — litre, liter
 - [[容量]] — volume, capacity
-- [[寸]] — inch, measurement
 - [[尺]] — foot (distance)
 - [[指標]] — indicator, index, benchmark, metric
 - [[数量]] — amount, weight, measure, quantity
 - [[極度]] — extreme, extreme degree
 - [[毫]] — fine hair, milli-
 - [[浬]] — nautical mile, knot
-- [[測量]] — measure, survey
-- [[精度]] — precision; degree of refinement
 - [[部隊]] — unit, corp
 
-## Mind (28)
+## Mind (20)
 - [[不信]] — not believe, mistrust
 - [[世界観]] — worldview
 - [[二心]] — duplicity, a divided heart, wavering loyalty, half-heartedness
@@ -3036,13 +3007,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[心]] — heart
 - [[心理]] — mentality, psychology
 - [[心理学]] — psychology
-- [[忘却]] — forget
-- [[念頭]] — idea, thought
-- [[思想]] — thought, thinking, idea, ideology, philosophy
 - [[思議]] — imagine, comprehend
-- [[意思]] — intent, intention, opinion, mind
-- [[感覚]] — feel, think, be of the opinion that
-- [[慧]] — bright, intelligent
 - [[懐]] — miss, think of
 - [[概]] — rough idea, generality
 - [[混乱]] — chaotic, confused, riotous
@@ -3051,69 +3016,45 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[糊塗]] — muddled, confused
 - [[自己]] — oneself
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
-- [[記憶]] — remember, recollect
-- [[論理]] — logic
 - [[迷]] — be lost, be confused
 
-## Movement (57)
+## Movement (34)
 - [[上昇]] — ascend
-- [[下降]] — descend, fall
-- [[乗]] — ride
 - [[乗客]] — passenger
 - [[乗降]] — boarding and alighting, embarkation and disembarkation
 - [[交通]] — traffic, transportation
-- [[促]] — hurry, rush, hasten
 - [[出奔]] — elope, flee, run away
-- [[勃興]] — rise
-- [[動]] — move
-- [[墜落]] — fall, crash, drop
 - [[奔波]] — rush about, run around
 - [[奔走]] — run around, walk quickly
-- [[奔馳]] — gallop, run, speed
-- [[奔騰]] — jump, soar, skyrocket
 - [[岐]] — fork (in road)
-- [[引]] — pull, tug
-- [[彷徨]] — wander
 - [[投]] — throw
 - [[拂]] — shake off, brush off
 - [[拉]] — drag, pull, play a bowed instrument
 - [[捨]] — throw away, discard
-- [[推]] — push
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
 - [[撇]] — throw away
 - [[撞]] — hit, bump, collide
 - [[撲]] — rush at
-- [[散歩]] — walk, stroll
-- [[旅行]] — travel, go on a trip, tour
 - [[水泳]] — swimming
-- [[泳]] — swim
 - [[湧]] — gush, rush up
-- [[爬行]] — crawl
 - [[盛衰]] — rise and fall, flourish and decay
 - [[経営]] — run, manage
 - [[芦葦]] — reed, rush
 - [[落下]] — fall
 - [[落花]] — falling blossoms
 - [[衰弱]] — fall away, waste away, weaken
-- [[走]] — run
 - [[起]] — rise up
 - [[跳梁]] — to run rampant, to jump about wildly
-- [[軌]] — track, path, rut
 - [[輸送]] — transportation, transport, convey
 - [[辦理]] — manage, arrange, run
-- [[追随]] — follow, pursue
-- [[逃亡]] — flee, escape
-- [[逃遁]] — flee, escape, evade
-- [[通過]] — pass
-- [[逸]] — flee, escape
 - [[運送]] — transport
 - [[鉄道]] — railroad
 - [[飛]] — fly
 - [[飛行]] — fly, flight
 - [[馳]] — run fast, drive quickly
 
-## Nature (11)
+## Nature (10)
 - [[天気]] — weather
 - [[広野]] — wilderness
 - [[景致]] — scenery, scene, view
@@ -3122,7 +3063,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[気象]] — weather, meteorology
 - [[燐火]] — will-o'-the-wisp, ignis fatuus
 - [[環境]] — environment, surroundings
-- [[自然]] — nature, natural, spontaneously
 - [[陽炎]] — heat shimmer, glare of sunlight
 - [[鬼火]] — will-o-the-wisp, ignis fatuos
 
@@ -3140,29 +3080,23 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[艱難]] — arduous, hard
 - [[苦渋]] — astringent, harsh, rough
 
-## Physics (19)
+## Physics (13)
 
-- [[中性子]] — neutron
-- [[冷]] — cool, cold
 - [[冷麺]] — cold noodles
 - [[凜]] — cold, stern, dignified
-- [[寒冷]] — cold, freezing
 - [[招手]] — to wave, to beckon
 - [[提案]] — propose, suggest, motion
 - [[温度]] — temperature
-- [[熱]] — heat up, be hot
 - [[物理学]] — physics
 - [[発情]] — be in heat, aroused, rut
 - [[磁性]] — magnetism
-- [[陽子]] — proton
-- [[電子]] — electron
 - [[溶化]] — melt, dissolve
 - [[溶融]] — melt, fuse
 - [[融]] — melt, blend, harmonize
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (32)
+## Plants (20)
 - [[乾芻]] — hay, dried fodder
 - [[亜麻]] — linseed, flax
 - [[人参]] — ginseng
@@ -3172,29 +3106,19 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[壌土]] — loam, loamy soil
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
-- [[枝葉]] — branches and leaves, trivial details
-- [[樹木]] — tree, plant
-- [[種子]] — seed
 - [[穂]] — ear of grain
 - [[竹]] — bamboo
 - [[竹筍]] — bamboo shoot
 - [[竿竹]] — bamboo pole
-- [[篠竹]] — dwarf bamboo, bamboo grass
-- [[芝草]] — grass, lingzhi mushroom
 - [[芥子]] — mustard seed, mustard
-- [[花卉]] — flowers and plants
-- [[花弁]] — flower petal
 - [[茅草]] — cogon grass, thatch
-- [[草]] — grass
-- [[草花]] — flowering plants, ornamental flowers
 - [[萌芽]] — bud, sprout
 - [[葉]] — leaf
 - [[藍木]] — indigo, anil
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
 
-## Religion (42)
-- [[前兆]] — premonitory sign, harbinger, omen (rerouted from the Knowledge bucket — divination/portent is Religion's concept, not an epistemic/education one)
+## Religion (27)
 - [[乾]] — heavenly
 - [[乾達婆]] — gandharva
 - [[佛]] — buddha
@@ -3204,36 +3128,24 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[儒学]] — confucianism
 - [[儒家]] — confucianism, ruism
 - [[儒教]] — confucianism
-- [[加持]] — perform incantations, bless
 - [[参拝]] — visit temple, pay respects at a shrine
-- [[和尚]] — abbott, monk
 - [[因果]] — fateful, unlucky, karmic, causal
 - [[天道]] — law of nature, god of heaven
 - [[夫子]] — confucius, master
 - [[孔子]] — confucius
 - [[孔教]] — confucianism
-- [[宗教]] — religion
 - [[尼僧]] — nun
 - [[巫女]] — shrine maiden, miko, shamaness
 - [[方便]] — suitable; convenient (mandarin/cantonese, everyday adjective), expedient means; makeshift solution; upāya (korean/japanese, noun — see note), means; tool; vehicle (vietnamese — see note)
 - [[枢机卿]] — cardinal
 - [[棕枝主日]] — palm sunday
-- [[法術]] — magic, magic arts
 - [[混沌]] — hundun, primordial chaos
 - [[瞻仰]] — look up to with reverence, pay homage to
-- [[祈祷]] — pray
-- [[神]] — god, deity, spirit
-- [[神仙]] — immortal, god
 - [[神道]] — natural law
-- [[祭祀]] — sacrifice, worship
-- [[経典]] — scripture, book, classic, sutra
 - [[結加夫坐]] — sit in lotus position
 - [[老師]] — sage, elder monk
 - [[観音]] — guanyin, avalokiteśvara, goddess of mercy
 - [[釈珈文尼]] — śākyamuni, gautama buddha
-- [[霊魂]] — spirit, ghost, soul
-- [[魂]] — soul
-- [[魂魄]] — soul, spirit
 
 ## Sensation (16)
 - [[一瞥]] — glance, quick look
@@ -3253,41 +3165,31 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[視]] — look at, inspect
 - [[麻痺]] — numb, paralyzed, paralysis
 
-## Reproduction (13)
+## Reproduction (10)
 
 - [[伴侶]] — companion, partner, mate
 - [[女人]] — woman, female
 - [[女性]] — female, feminine (gender)
 - [[妊]] — be pregnant, conceive
 - [[妊娠]] — pregnancy
-- [[性別]] — gender
-- [[懐孕]] — pregnant, be pregnant
 - [[男人]] — man, male
 - [[男性]] — male, masculine gender
 - [[陰性]] — negativity, feminine gender
 - [[陽性]] — positivity, masculine gender
 - [[雄]] — manly, male
-- [[雌性]] — female
 
-## Shape (16)
+## Shape (9)
 - [[七角形]] — heptagon
-- [[三角]] — triangle
-- [[三角形]] — triangle
-- [[上面]] — surface, outward appearance
 - [[五角形]] — pentagon, five-sided polygon
 - [[交点]] — intersection, node
-- [[圓]] — circle, round
 - [[圓形]] — circular, round shape
 - [[幾何学]] — geometry
 - [[弯曲]] — curve, bent
 - [[曲線]] — curve
-- [[球]] — sphere, ball
 - [[球体]] — sphere
-- [[環]] — ring, circle
-- [[輪]] — wheel, circle, ring, loop
 - [[鋒芒]] — sharp edge, cutting point, keen edge
 
-## Sin (22)
+## Sin (21)
 
 - [[倫理]] — ethic, morality
 - [[僕射]] — vice director
@@ -3310,13 +3212,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[仁徳]] — benevolence, goodness
 - [[慈善]] — charity, benevolence
-- [[正大]] — proper, legitimate, honest
 
-## Speech (60)
+## Speech (39)
 - [[䋇]] — unravel, explain
 - [[世界語]] — universal language
 - [[交差]] — report in, get debriefed
-- [[会話]] — conversation, to converse
 - [[反応]] — react, respond
 - [[受動]] — passive (voice), receptive
 - [[叙述]] — narrate
@@ -3325,80 +3225,50 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[吟唱]] — chant, recite
 - [[呪文]] — incantation, spell
 - [[呪詛]] — curse, spell
-- [[呼]] — call, shout, exhale
-- [[呼喚]] — shout, cry to
 - [[喝]] — yell, shout
 - [[嘲笑]] — to ridicule, to mock, to deride, to jeer at
-- [[回答]] — respond, reply
-- [[報]] — report, tell
-- [[報告]] — report, inform, advise
-- [[報知]] — inform, report, notify
 - [[大声]] — loud voice
 - [[対応]] — correspond with, respond to
 - [[巧言]] — flattery; clever but deceptive talk
 - [[引入]] — lead into, introduce to
-- [[応]] — respond, reply
 - [[揶揄]] — deride, ridicule
 - [[放送局]] — broadcast station, broadcasting company
-- [[斟酌]] — consider, discuss, talk over
-- [[暗示]] — suggest, hint
 - [[標誌]] — symbolize, mark, indicate
 - [[標識]] — sign, mark, symbol
-- [[申告]] — report, declaration
 - [[痛罵]] — berate, scold severely, vituperate
-- [[稟告]] — report to a superior, inform
-- [[答]] — answer, reply, assent, return
 - [[篇]] — article, piece of writing
 - [[粤語]] — yue language
 - [[網語]] — online speak
 - [[英語]] — english language
 - [[西班牙語]] — spanish language
-- [[要求]] — demand, firmly request, claim
-- [[要請]] — request, demand
-- [[解]] — explain
 - [[言語]] — language
 - [[詠]] — recite, chant
 - [[話]] — speak on, talk about
 - [[語言]] — language, speech
-- [[説明]] — explain, illustrate
 - [[談判]] — negotiate, talk
 - [[談話]] — conversation, statement, talk
 - [[論争]] — argument, controversy, contention
 - [[講演]] — lecture, give a speech
-- [[議論]] — comment, discuss
-- [[通知]] — notify, inform
 - [[露斯亜語]] — russian language
 - [[露語]] — russian language
-- [[音声]] — sound, voice, speech
-- [[風刺]] — satirize, mock
 - [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
 
-## Substances (30)
+## Substances (20)
 - [[乳液]] — lotion, emulsion, moisturizer
 - [[埋葬]] — bury, inter, consign ashes
-- [[塵埃]] — dust, dirt
 - [[岩石]] — rocks, crags
 - [[揺]] — swing, shake, rock
-- [[材料]] — material, stuff, abstracta
 - [[水晶]] — rock crystal, quartz crystal, crystal
 - [[汀]] — sand bar
-- [[汚垢]] — dirt, grime, filth
-- [[汚物]] — dirt, filth, garbage
 - [[汚穢]] — filthy, filth
 - [[沈淀]] — sediment, precipitate, settle (of particles)
-- [[沙]] — sand, gravel, pebbles
 - [[泥]] — mud
 - [[液晶]] — liquid crystal
 - [[溶液]] — solution (chemistry)
 - [[灰]] — ashes
-- [[灰塵]] — dust, ashes
 - [[物証]] — material evidence
-- [[物質]] — material, substance
 - [[玉]] — jade
-- [[石]] — rock, stone
-- [[石頭]] — stone, rock
-- [[粉]] — powder
 - [[肪]] — fat, obese
 - [[脂膏]] — grease, fat, oil
 - [[芳香族]] — aromatic compounds
@@ -3406,45 +3276,27 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[鹸]] — base, alkali
 - [[黄沙]] — yellow sand, asian dust
 
-## Time (29)
+## Time (15)
 - [[一斉]] — simultaneous
-- [[一瞬]] — wink, instant, twinkling
 - [[不断]] — continuous, unending
 - [[予様]] — beforehand
 - [[俄然]] — suddenly
-- [[刹那]] — moment, instant, split second
 - [[同時]] — simultaneous
 - [[宙]] — eternity
 - [[往往]] — often, frequently
-- [[忽然]] — sudden
 - [[忽然様]] — suddenly
 - [[急遽]] — rapidly, suddenly, in great haste
-- [[恒久]] — permanent, perpetual
 - [[持続]] — continuous, sustained, to persist
-- [[既往]] — past
-- [[時代]] — time, age, epoch
-- [[期間]] — period, time, duration
-- [[永久]] — eternal, perpetual, permanent
-- [[永遠]] — perpetual, eternal
 - [[白亜紀]] — cretaceous period
 - [[瞬間]] — momentary, moment, instant
-- [[突然]] — sudden
 - [[竟]] — finally, after all, at last
-- [[臨時]] — temporary, provisional, interim
-- [[迅速]] — rapid, swift, prompt
 - [[連続]] — continuous, consecutive, successive
-- [[過去]] — past
 - [[間或]] — sometimes, occasionally, now and then
 
-## Tools (22)
+## Tools (13)
 - [[厉]] — whetstone
 - [[固執]] — stubborn, stick to
 - [[工具]] — tool, instrument, implement
-- [[扇子]] — hand-held fan
-- [[斧子]] — axe, hatchet
-- [[机器]] — machine, machinery
-- [[机械]] — machine, machinery
-- [[柄]] — design, handle
 - [[棍棒]] — stick, bludgeon
 - [[槌]] — hammer
 - [[瑟]] — se (instrument)
@@ -3452,17 +3304,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[砥石]] — whetstone, grindstone
 - [[穿]] — penetrate, pierce, drill
 - [[穿孔机]] — puncher, perforator, boring machine
-- [[耕種]] — plow, sow, cultivate
 - [[装置]] — equipment, device
 - [[貼]] — paste on, stick to, attach
-- [[釘]] — nail, spike
 - [[鈍]] — dull, not sharp
-- [[鋸]] — saw
-- [[鎖]] — chain
 
-## Trade (40)
+## Trade (27)
 - [[三菱]] — mitsubishi
-- [[交付]] — delivery, grant, pay, hand over
 - [[企業]] — enterprise, firm
 - [[供給]] — supply, furnish
 - [[価格]] — price
@@ -3472,17 +3319,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[倹素]] — economical and simple, frugal
 - [[償還]] — repayment, restitution, compensation
 - [[充当]] — to allocate, to assign, to apply (funds) toward
-- [[公司]] — company, firm
-- [[分配]] — distribute, partition, share
 - [[券]] — bond, certificate
 - [[参入]] — enter, join, market entry
-- [[商業]] — commerce, trade
 - [[回収]] — recover, retrieve, collect back, recycle
 - [[報償]] — compensate, pay reparations to
 - [[安価]] — cheap, inexpensive, crappy
-- [[帳簿]] — account book, ledger
 - [[扱]] — handle, deal with
-- [[支付]] — pay
 - [[新品]] — new products, new arrivals
 - [[注意]] — pay attention to, be careful of
 - [[用度]] — supplies
@@ -3491,21 +3333,13 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[融資]] — pay by loan, finance
 - [[補給]] — supply provisions
 - [[謁]] — visit, pay respect
-- [[貨幣]] — currency, money
-- [[販売]] — sell
-- [[貸出]] — lend, loan
-- [[貿易]] — trade, commerce
 - [[賠償]] — compensate, indemnify, pay reparations
-- [[購買]] — buy
-- [[通貨]] — currency, money
 - [[造語]] — coin words
-- [[金銭]] — coin, cash, money
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (48)
+## Valuation (45)
 - [[不要]] — unnecessary
 - [[伶俐]] — clever
-- [[佳]] — beautiful, good, excellent
 - [[価値]] — worth, value
 - [[傑出]] — remarkable, outstanding, brilliant
 - [[優秀]] — excellent, outstanding
@@ -3521,7 +3355,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[報酬]] — reward, remuneration
 - [[大器]] — treasure
 - [[奨励]] — encouragement, incentive, to award and exhort
-- [[好]] — good
 - [[宝物]] — treasure, treasury
 - [[富裕]] — prosperous, wealthy, rich
 - [[尊敬]] — respect, honor, esteem
@@ -3551,66 +3384,38 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[鑑定]] — appraise, authenticate, expert assessment
 - [[隆]] — prosperous, plentiful, abundant
 
-## War (28)
+## War (15)
 - [[伍]] — troops
-- [[伏]] — crouch, prostrate, surrender
 - [[侵入]] — to invade, to trespass, to intrude
-- [[侵略]] — invade
-- [[兵卒]] — private, soldier, trooper
-- [[兵士]] — soldier
-- [[兵法]] — art of war, tactics
 - [[喊声]] — shout, battle cry, war cry
-- [[大砲]] — canon, gun
 - [[孤軍]] — isolated army, lone forces
-- [[将兵]] — army
 - [[帰順]] — submit to, surrender to
 - [[干戈]] — weapons of war, arms
-- [[弓]] — bow
-- [[征伐]] — conquer, subjugate
 - [[従軍]] — to serve in the military, military service
 - [[文武]] — civilian and military
-- [[武]] — military
 - [[潜水艦]] — submarine (warship)
 - [[軍事]] — military matters
-- [[軍人]] — soldier
 - [[軍艦]] — warship
 - [[鉦鼓]] — gong and drum, military percussion
-- [[銃]] — gun
-- [[降参]] — surrender, give up
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 - [[母艦]] — mother ship
 
-## Work (32)
+## Work (17)
 - [[乗務]] — crew duty, serve as crew
-- [[作業]] — work, operate, task
 - [[使用]] — use, utilize, employ
-- [[修理]] — repair, mend
-- [[修繕]] — repair, mend, renovate
 - [[分掌]] — to divide work duties, division of responsibilities
 - [[副業]] — side job, second job
 - [[卸]] — retire, lay down
-- [[実用]] — practical, utilitarian
-- [[建築]] — build
-- [[建設]] — establish, build
-- [[技巧]] — technique, skill
-- [[技能]] — skill, ability
 - [[採用]] — adopt, employ, use
-- [[提供]] — to offer, to supply, to provide
-- [[構築]] — construct, build
 - [[確定]] — fix, establish
 - [[缺勤]] — absence from work, to be absent from duty
 - [[耐]] — able to tolerate, able to endure, resistant
 - [[職業]] — career, job, profession
 - [[苦役]] — hard labor, forced labor, drudgery
-- [[術]] — skill, method, technique
-- [[製作]] — make, manufacture, produce
 - [[計画]] — plan, schedule, measure
 - [[設計]] — plan, design
-- [[調整]] — adjust, transfer
-- [[辛苦]] — work hard, toil
 - [[辞令]] — letter of dismissal, letter of resignation
-- [[退職]] — retire, resign
 - [[週番]] — weekly duty
 - [[雇員]] — employee
 - [[雇用]] — employment, hire

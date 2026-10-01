@@ -4,6 +4,7 @@ type: lexipedia
 domain: Food
 related_domains:
   - "[[Plants]]"
+  - "[[Sensation]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
