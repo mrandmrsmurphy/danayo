@@ -45,6 +45,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>: final, last.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>: current — see [Calendar](../lexipedia/Calendar.md) and [Grammar](../lexipedia/Grammar.md) for their own citations there.
+- <ruby>[先後](../words/先後.md)<rt>ㄙㄝㄋㄏㄨㄛ</rt></ruby>: successively, one after another, in succession — a strict ordered sequence (先後順序, "order of precedence"), distinct from [[前後]]'s own looser "before and after, roughly."
 - <ruby>[一斉](../words/一斉.md)<rt>ㄧㄊㄐㄝㄧ</rt></ruby>: simultaneous, all at once — the complementary concept to before/after sequencing above: no leader-follower stagger at all.
 - <ruby>[交互](../words/交互.md)<rt>ㄍ⼄ㄨㄏㄛ</rt></ruby>: alternating, in turn, mutually — [[一斉]]'s opposite manner of coordinated action (taking turns one after another, not together at once).
 

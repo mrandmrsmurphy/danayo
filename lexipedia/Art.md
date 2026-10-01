@@ -94,6 +94,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[墨水](../words/墨水.md)<rt>ㄇㄨㄎㄙㄨ</rt></ruby>: ink.
 - <ruby>[硯石](../words/硯石.md)<rt>ㄝㄋㄙㄝㄎ</rt></ruby>: an inkstone, for grinding ink — one of the Four Treasures of the Study alongside brush, ink, and paper.
 - <ruby>[便箋](../words/便箋.md)<rt>ㄅ⼶ㄋㄐㄝㄋ</rt></ruby>: notepaper, letter paper, stationery.
+- <ruby>[傑作](../words/傑作.md)<rt>ㄍㄝㄊㄐㄚㄎ</rt></ruby>: a masterpiece (文学傑作, "a literary masterpiece").
 
 ### Visual Arts
 

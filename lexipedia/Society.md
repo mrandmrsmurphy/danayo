@@ -51,6 +51,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
 - <ruby>[中華](../words/中華.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby>: Chinese civilization/culture — a civilizational identity rather than a specific state, which is exactly why it names both rival Chinas ([[中華民国]], 中華人民共和国); distinct from [[中国]]'s state/country-name sense.
 - <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia — the fuller, classical transliteration used historically for the cultural/civilizational sense (Asian peoples, Pan-Asianism), distinct from [[亜洲]]'s plain geographic landmass sense.
+- <ruby>[儒学](../words/儒学.md)<rt>ㄋㄨㄏㄚㄎ</rt></ruby>: Confucianism — framed as a field of study, the academic/scholarly tradition.
+- <ruby>[儒教](../words/儒教.md)<rt>ㄋㄨㄍ⼄ㄨ</rt></ruby>: Confucianism — an undocumented near-duplicate of [[儒学]], framed instead as a religious/moral teaching.
 - <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 - <ruby>[五倫](../words/五倫.md)<rt>ㄛㄌㄨㄋ</rt></ruby>: the Five Relationships — [[三綱]]'s fuller, more symmetrical counterpart, adding elder–younger sibling and friend–friend, the two pairs without a strict superior/subordinate structure.
 - <ruby>[五常](../words/五常.md)<rt>ㄛㄙ⼘ㄫ</rt></ruby>: the Five Constant Virtues (仁義禮智信) — the personal-virtue counterpart to [[五倫]]'s relational framework, almost always cited paired with [[三綱]] in the combined formula 三綱五常.
@@ -109,6 +111,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[人道](../words/人道.md)<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby>: humane, humanitarian (人道主義, "humanitarianism") — literally "the proper way for humans," parallel to 天道/地道.
 - <ruby>[令色](../words/令色.md)<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby>: flattering looks, a sycophantic expression — the insincere counterfeit of the genuine virtues above, from the Analects' 巧言令色，鮮矣仁 ("fine words and an ingratiating face — such men are seldom truly benevolent").
+- <ruby>[偽善](../words/偽善.md)<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby>: hypocrisy, hypocritical — false virtue, feigning goodness to conceal one's true nature; a broader counterfeit than [[令色]]'s specifically facial/verbal flattery.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
@@ -143,6 +146,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
 - <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
 - <ruby>[賞](../words/賞.md)<rt>ㄙ⼘ㄫ</rt></ruby>: a reward, prize — also "to admire, to enjoy" (鑑賞, "to appreciate [art]"; 賞賛, "praise").
+- <ruby>[傑出](../words/傑出.md)<rt>ㄍㄝㄊㄑㄨㄊ</rt></ruby>: remarkable, outstanding, brilliant — a person or achievement that stands out from the ordinary (傑出人才, "outstanding talent").
 - <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛ·ㄇㄨ</rt></ruby>: to encourage, cheer, inspire — literally "to drum and dance." Rosenfelder's "inspire."
 
 ### Assistance & Support
