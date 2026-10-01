@@ -70,6 +70,10 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[跨](../words/跨.md)<rt>ㄎ⺢</rt></ruby>: to straddle, ride — the posture of riding (a horse, a bicycle), not the general act.
 - <ruby>[騎乗](../words/騎乗.md)<rt>ㄍㄨㄧㄙㄨㄫ</rt></ruby>: to ride, be mounted — specifically on horseback.
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — a vehicle.
+- <ruby>[乗務](../words/乗務.md)<rt>ㄙㄨㄫㄇㄨ</rt></ruby>: crew duty, to serve as crew — the broader occupational role of staffing a vehicle (train, ship, aircraft) as conductor, attendant, or similar, not specifically [[運転]]'s "to drive."
+- <ruby>[乗客](../words/乗客.md)<rt>ㄙㄨㄫㄎㄚㄎ</rt></ruby>: a passenger — literally "riding guest," [[乗務]]'s complement on the other side of the vehicle.
+- <ruby>[乗車](../words/乗車.md)<rt>ㄙㄨㄫㄑ⺢</rt></ruby>: to board a vehicle, get on — the productive 乗 + [vehicle] pattern (cf. [[乗船]] "board a ship," on [Water](../lexipedia/Water.md); [[乗馬]] "ride a horse," on [Animals](../lexipedia/Animals.md)); cited here since a car/bus/train has no other domain home.
+- <ruby>[乗降](../words/乗降.md)<rt>ㄙㄨㄫㄍㄚㄫ</rt></ruby>: boarding and alighting, embarkation and disembarkation — the paired action, standard in transit infrastructure vocabulary (乗降口, "boarding/alighting door").
 - <ruby>[駆](../words/駆.md)<rt>ㄎㄨ</rt></ruby>: to drive, spur — an animal or, figuratively, a person onward; more literary than [[運転]].
 
 ### Floating, Flowing & Sinking

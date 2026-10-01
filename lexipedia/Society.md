@@ -93,6 +93,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Character & Civic Virtue
 
 - <ruby>[確信](../words/確信.md)<rt>ㄎㄚㄎㄙㄧㄋ</rt></ruby>: confident, convinced.
+- <ruby>[乖巧](../words/乖巧.md)<rt>ㄍ⺢ㄧㄎ⼘ㄨ</rt></ruby>: well-behaved and clever, quick-witted — warm praise (most often of a child or young woman), social tact and cleverness together rather than mere passive obedience.
 - <ruby>[忍耐](../words/忍耐.md)<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby>: patient, patience.
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.

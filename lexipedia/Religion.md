@@ -79,6 +79,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
+- <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
 - <ruby>[神仙](../words/神仙.md)<rt>ㄙㄧㄋㄙ⼶ㄋ</rt></ruby>: an immortal, god — the Daoist transcendent-being concept, distinct from plain [[神]].
 - <ruby>[斎戒](../words/斎戒.md)<rt>ㄐㄚㄧㄍ⼶</rt></ruby>: to fast, observe abstinence.
 - <ruby>[神聖](../words/神聖.md)<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>: sacred, holy — see [[基督敎]] for its own citation there.

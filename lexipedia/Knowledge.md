@@ -138,6 +138,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 ### Classical & Literary Scholarship
 
 - <ruby>[経](../words/経.md)<rt>ㄍㄝㄫ</rt></ruby>: classic (text); also "channel" and "warp" — the bound root behind 五経 "the Five Classics" (see [[Art]]'s own Language Arts section).
+- <ruby>[九経](../words/九経.md)<rt>ㄎ⼜ㄍㄝㄫ</rt></ruby>: the Nine Classics — a broader canonical grouping than the Five Classics, codified in the Tang-dynasty Kaicheng Stone Classics and forming the core curriculum of the imperial examination system (科挙) for over a millennium.
 - <ruby>[書院](../words/書院.md)<rt>ㄙ⼄⼔ㄋ</rt></ruby>: academy.
 - <ruby>[書房](../words/書房.md)<rt>ㄙ⼄ㄅㄚㄫ</rt></ruby>: a study (room); personal library.
 - <ruby>[村塾](../words/村塾.md)<rt>ㄑㄛㄋㄙㄨㄎ</rt></ruby>: village school, rural private school.
