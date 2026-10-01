@@ -143,6 +143,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛助](../words/賛助.md)<rt>ㄐㄚㄋㄐㄛ</rt></ruby>: to support, sponsor.
 - <ruby>[援護](../words/援護.md)<rt>ㄛㄋㄏㄛ</rt></ruby>: support, backing (especially for veterans).
 - <ruby>[羽翼](../words/羽翼.md)<rt>ㄨㄧㄎ</rt></ruby>: assistance (literally "wing").
+- <ruby>[済](../words/済.md)<rt>ㄐㄝㄧ</rt></ruby>: to help — also "to ferry, cross a river" and "to accomplish," an etymological cluster built on the image of helping someone across (経済, "economy," literally "to govern the world and help the people").
 
 ### Friendship, Mediation & Belonging
 

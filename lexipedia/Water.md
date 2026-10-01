@@ -108,6 +108,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[停泊](../words/停泊.md)<rt>ㄉㄝㄫㄅㄚㄎ</rt></ruby>: to anchor, to berth.
 - <ruby>[埠頭](../words/埠頭.md)<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby>: dock, pier, wharf, quay.
 - <ruby>[乗船](../words/乗船.md)<rt>ㄙㄨㄫㄙ⼔ㄇ</rt></ruby>: to board a ship, to embark.
+- <ruby>[渡](../words/渡.md)<rt>ㄉㄛ</rt></ruby>: to ferry across, transit — crossing a river or strait by boat, distinct from [[乗船]]'s plain boarding and [[Movement]]'s own general [[横断]] ("to cross over, traverse").
 - <ruby>[艇](../words/艇.md)<rt>ㄉㄝㄫ</rt></ruby>: a dinghy, rowboat, or small craft in general (also the base of 潜水艇, "submarine").
 - <ruby>[小舟](../words/小舟.md)<rt>ㄙㄛㄐㄨ</rt></ruby>: a small boat, skiff, or dinghy specifically for rivers and lakes.
 - <ruby>[帆船](../words/帆船.md)<rt>ㄆㄚㄇㄙ⼔ㄇ</rt></ruby>: a junk (the traditional East Asian sailing ship).
