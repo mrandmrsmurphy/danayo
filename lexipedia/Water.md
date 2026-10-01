@@ -71,6 +71,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
   - **Note**: near-synonym of [[滴]] above — 淋 leans toward draining/pouring over, 滴 toward a single drop.
 - <ruby>[漏](../words/漏.md)<rt>ㄌㄛㄨ</rt></ruby>: to leak.
 - <ruby>[滲漏](../words/滲漏.md)<rt>ㄙㄛㄇㄌㄛㄨ</rt></ruby>: to seep, to leak — specifically leaking through a barrier rather than an open leak.
+- <ruby>[浸](../words/浸.md)<rt>ㄑㄧㄇ</rt></ruby>: to immerse, dunk, soak.
 
 ### Coastal & Maritime
 
@@ -84,6 +85,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
   - **Note**: [[浜]] and [[岸]] overlap (浜's own glosses include "bank" too) — 岸 is the more general "bank/shore" word, while 浜 leans specifically toward the sea's edge rather than a riverbank.
 - <ruby>[灘](../words/灘.md)<rt>ㄊㄚㄋ</rt></ruby>: bank, shoal — specifically a sandbar or shallow river ford, narrower still than either [[岸]] or [[浜]].
 - <ruby>[汀](../words/汀.md)<rt>ㄊㄝㄫ</rt></ruby>: a sand bar, a water's-edge flat — an undocumented near-duplicate of [[灘]], with no recorded distinction between the two.
+- <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
 
 ### Islands
 
@@ -92,7 +94,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[列島](../words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>: archipelago, chain of islands — specifically a linear/elongated chain (e.g. 日本列島, "the Japanese archipelago").
 - <ruby>[島屿](../words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby>: islands and islets collectively, of every size — broader than "archipelago" as such.
 
-**Not yet linked**: "delta," "rapids," "brook," "cape," "pool" (a still body of water), and "spring" (a natural water source) — none has an attested vault word. [[泉]] ("spring") and [[岬]] ("cape") both exist as characters but are either bound to compounds that have drifted in sense ([[源泉]]/[[黄泉]]/[[九泉]] have all shifted to figurative/mythological "netherworld, fountainhead" senses, not a literal water spring) or have no legitimizing word at all (岬's own `stand_in` is a name-only marker, no Words section). Flagged rather than force-mapped, per the same standard applied to "spill" in the Core tier above — six real gaps worth a coinage decision on a future pass.
+**Not yet linked**: "rapids," "brook," "cape," "pool" (a still body of water), and "spring" (a natural water source) — none has an attested vault word. ("Delta" is now covered by [[浦]]'s own extended sense, above.) [[泉]] ("spring") and [[岬]] ("cape") both exist as characters but are either bound to compounds that have drifted in sense ([[源泉]]/[[黄泉]]/[[九泉]] have all shifted to figurative/mythological "netherworld, fountainhead" senses, not a literal water spring) or have no legitimizing word at all (岬's own `stand_in` is a name-only marker, no Words section). Flagged rather than force-mapped, per the same standard applied to "spill" in the Core tier above — six real gaps worth a coinage decision on a future pass.
 
 ## Advanced / Specialized (C1+)
 
