@@ -83,6 +83,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[浜](../words/浜.md)<rt>ㄅㄧㄋ</rt></ruby>: coast, the water's edge.
   - **Note**: [[浜]] and [[岸]] overlap (浜's own glosses include "bank" too) — 岸 is the more general "bank/shore" word, while 浜 leans specifically toward the sea's edge rather than a riverbank.
 - <ruby>[灘](../words/灘.md)<rt>ㄊㄚㄋ</rt></ruby>: bank, shoal — specifically a sandbar or shallow river ford, narrower still than either [[岸]] or [[浜]].
+- <ruby>[汀](../words/汀.md)<rt>ㄊㄝㄫ</rt></ruby>: a sand bar, a water's-edge flat — an undocumented near-duplicate of [[灘]], with no recorded distinction between the two.
 
 ### Islands
 
