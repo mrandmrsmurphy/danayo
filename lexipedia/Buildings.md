@@ -125,7 +125,7 @@ language: English
 - floor (building level, e.g. "2nd floor") - [[層]] *(reserved — the Mandarin/Korean majority term 層/층; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense — avoided here to prevent collision. Not yet a word page.)*
 - hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
-- roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)*
+- roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)* — though the verb "to roof, to thatch" does exist: <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>
 - step - *(functionally the same word as "stair" above in CJKV — not a separate concept)*

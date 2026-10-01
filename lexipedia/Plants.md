@@ -62,6 +62,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[薔薇](../words/薔薇.md)<rt>ㄑ⺢ㄫㄇㄧㄜ</rt></ruby>: a rose.
 - <ruby>[桔梗](../words/桔梗.md)<rt>ㄍㄝㄊㄍㄚㄫ</rt></ruby>: a balloon flower.
 - <ruby>[菊](../words/菊.md)<rt>ㄍㄨㄎ</rt></ruby>: a chrysanthemum.
+- <ruby>[蓮](../words/蓮.md)<rt>ㄌ⼶ㄋ</rt></ruby>: a lotus — also a major symbol in Buddhist art and iconography, though cited here for the plant itself rather than on [[Religion]], which has no dedicated citation for it.
 - <ruby>[草花](../words/草花.md)<rt>ㄑㄚㄨㄏ⺢</rt></ruby>: flowering plants, ornamental flowers.
 - <ruby>[花卉](../words/花卉.md)<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>: flowers and plants, collectively.
 

@@ -114,6 +114,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ### Pride, Cruelty & Severity
 
 - <ruby>[傲慢](../words/傲慢.md)<rt>ㄚㄨㄇㄚㄋ</rt></ruby>: proud, overbearing, haughty.
+- <ruby>[蔑](../words/蔑.md)<rt>ㄇㄝㄊ</rt></ruby>: to scorn, despise — the bound root behind 侮蔑/軽蔑.
 - <ruby>[吝嗇](../words/吝嗇.md)<rt>ㄌㄧㄋㄙㄧㄎ</rt></ruby>: miserly, stingy.
 - <ruby>[刻薄](../words/刻薄.md)<rt>ㄎㄨㄎㄅㄚㄎ</rt></ruby>: cruel, inhuman.
 - <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚ·ㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
