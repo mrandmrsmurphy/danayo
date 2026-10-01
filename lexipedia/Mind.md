@@ -195,6 +195,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[予定](../words/予定.md)<rt>⼄ㄐㄝㄫ</rt></ruby>: a schedule, plan, appointment — see [[Calendar]] for its own citation there; time-bound, distinct from [[企劃]]'s open-ended project sense.
 - <ruby>[謀](../words/謀.md)<rt>ㄇㄨㄛ</rt></ruby>: to conspire, plan, scheme — the negative, conspiratorial sense, unlike [[企劃]]'s neutral one.
 - <ruby>[画策](../words/画策.md)<rt>ㄏ⺢ㄎㄑㄚㄎ</rt></ruby>: to scheme, plot, machinate — an undocumented near-duplicate of [[謀]].
+- <ruby>[略](../words/略.md)<rt>ㄌ⼘ㄎ</rt></ruby>: a plan, stratagem — the strategic/military-flavored register (策略, 謀略); also "to abbreviate, omit," an unrelated bound sense (略語, "abbreviation," housed on [[Grammar]] instead).
 - <ruby>[端緒](../words/端緒.md)<rt>ㄉ⺢ㄋㄙ⼄</rt></ruby>: a clue; a start, beginning.
 - <ruby>[命令](../words/命令.md)<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby>: a decree, order, command — "order" as a command, distinct from [[整理]]'s "order" as arrangement.
 - <ruby>[主旨](../words/主旨.md)<rt>ㄐㄨㄐㄧㄜ</rt></ruby>: a purpose, point, gist.
