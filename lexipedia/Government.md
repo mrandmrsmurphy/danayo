@@ -49,6 +49,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
+- <ruby>[朕](../words/朕.md)<rt>ㄐㄨㄇ</rt></ruby>: "we/I" — the imperial first-person pronoun, used exclusively by emperors and empresses since the Qin dynasty; a specialized register-bound form, distinct from the ordinary pronoun paradigm on [[Grammar]].
 - <ruby>[七事](../words/七事.md)<rt>ㄑㄧㄊㄐㄧ</rt></ruby>: the Seven Duties of a Sovereign — a classical/historical canonical list (offering sacrifice, giving audience, administering jointly, receiving guests, running the army, attending to farm work, and mourning ceremonies).
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
 - <ruby>[侯](../words/侯.md)<rt>ㄏㄛㄨ</rt></ruby>: a marquis — the second-highest of the Five Ranks of Nobility (五等爵), below duke (uncoined) and above [[伯爵]]; also "aristocrat, nobleman" more generally.

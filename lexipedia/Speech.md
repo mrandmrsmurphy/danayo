@@ -55,6 +55,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, request, please. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request, claim. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[要請](../words/要請.md)<rt>⼄ㄨㄑㄧㄫ</rt></ruby>: to request, demand — a more formal/official register than [[要求]]'s forceful claim.
+- <ruby>[催](../words/催.md)<rt>ㄑㄛㄧ</rt></ruby>: to press, urge, hasten (someone to do something) — urging someone into action, distinct from [[要求]]/[[要請]]'s plain demand or request.
 - <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to suggest, propose. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[暗示](../words/暗示.md)<rt>ㄚㄇㄍㄝ</rt></ruby>: to suggest, hint, imply — distinct from [[提案]]'s formal proposal.
 

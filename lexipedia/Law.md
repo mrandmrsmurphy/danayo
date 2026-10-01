@@ -55,6 +55,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[海賊](../words/海賊.md)<rt>ㄏㄚㄧㄐㄨㄎ</rt></ruby>: pirate.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: harm, injury, assault.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract.
+- <ruby>[款](../words/款.md)<rt>ㄎ⺢ㄋ</rt></ruby>: a clause, item, article (in a contract, law, or document) — a subdivision within a larger article, distinct from [[条]]'s own classifier-and-article sense (housed on [[Measurement]]/[[Dimensions]]/[[Shape]] instead).
 - <ruby>[許可](../words/許可.md)<rt>ㄏ⼄·ㄎㄜ</rt></ruby>: license, permission, authorization.
 - <ruby>[召喚状](../words/召喚状.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: summons, subpoena (also <ruby>[召喚](../words/召喚.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋ</rt></ruby>, "to summon," the verb).
 
