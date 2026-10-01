@@ -51,6 +51,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[井堰](../words/井堰.md)<rt>ㄐㄧㄫㄝㄋ</rt></ruby>: a weir — smaller-scale than [[堰堤]], associated with a well or irrigation channel rather than damming a river outright.
 - <ruby>[井戸](../words/井戸.md)<rt>ㄐㄧㄫㄏㄛ</rt></ruby>: a water well — a deliberately "very Japanese" entry (not a real Mandarin/Cantonese compound), most familiar in 井戸端会議, "well-side chat," gossip among neighbors.
 - <ruby>[灌漑](../words/灌漑.md)<rt>ㄍ⺢ㄋㄍㄚㄧ</rt></ruby>: irrigation.
+- <ruby>[溝](../words/溝.md)<rt>ㄍㄛㄨ</rt></ruby>: a ditch, drain — a man-made water channel, distinct from [[井堰]]'s weir and the still-uncoined general "sewer" ([[下水道]], reserved on [[Buildings]]).
 
 ### Tides, Currents & Floods
 

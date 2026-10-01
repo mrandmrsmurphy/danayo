@@ -48,6 +48,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 
 - <ruby>[材料](../words/材料.md)<rt>ㄑㄚㄧㄌ⼘ㄨ</rt></ruby>: material, stuff, abstracta — see [Physics](../lexipedia/Physics.md) for its own citation there.
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree. See [Plants](../lexipedia/Plants.md) for its own citation there.
+- <ruby>[炭](../words/炭.md)<rt>ㄊㄚㄋ</rt></ruby>: coal, charcoal — also, bound in 炭素, "carbon."
 
 ## Semantic Range Notes
 
