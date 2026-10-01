@@ -25,6 +25,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
 - <ruby>[学習](../words/学習.md)<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>: to study, to learn.
 - <ruby>[教育](../words/教育.md)<rt>ㄍ⼄ㄨ⼜ㄎ</rt></ruby>: education.
+- <ruby>[育](../words/育.md)<rt>⼜ㄎ</rt></ruby>: to nurture, raise, educate — the bound root behind [[教育]] above (also 体育, "physical education") and, in the child-rearing sense specifically, [[養育]] on [[Kinship]].
 - <ruby>[問題](../words/問題.md)<rt>ㄇㄨㄋㄊㄝㄧ</rt></ruby>: question, problem.
 - <ruby>[真](../words/真.md)<rt>ㄐㄧㄋ</rt></ruby>: true.
 - <ruby>[偽](../words/偽.md)<rt>⼔ㄧ</rt></ruby>: false; artificial.

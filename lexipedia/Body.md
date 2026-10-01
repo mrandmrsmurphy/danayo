@@ -52,6 +52,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[節](../words/節.md)<rt>ㄐㄝㄊ</rt></ruby>: joint (general).
 - <ruby>[膝蓋](../words/膝蓋.md)<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby>: knee.
 - <ruby>[大腿](../words/大腿.md)<rt>ㄉㄚㄧㄊㄧㄜ</rt></ruby>: thigh.
+- <ruby>[股](../words/股.md)<rt>ㄍㄛ</rt></ruby>: the crotch, groin — by extension, any forked or bifurcated shape, as in [[溝股]] ("Pythagorean Theorem," from the two legs of a right triangle).
 - <ruby>[脹脛](../words/脹脛.md)<rt>ㄑㄚㄫㄏㄝㄫ</rt></ruby>: calf.
 - <ruby>[脚踝](../words/脚踝.md)<rt>ㄍ⼘ㄎㄏ⺢</rt></ruby>: ankle.
 - <ruby>[踵骨](../words/踵骨.md)<rt>ㄐㄛㄫㄍㄛㄊ</rt></ruby>: heel.
@@ -129,6 +130,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
 - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
+- <ruby>[肪](../words/肪.md)<rt>ㄈㄚㄫ</rt></ruby>: fat, obese — the bound root behind [[脂肪]] above, an undocumented near-duplicate of [[肥胖]] in its own "obese" sense.
 - <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
 - <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
 - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
