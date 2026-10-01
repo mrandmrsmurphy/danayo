@@ -39,6 +39,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[兄弟](../words/兄弟.md)<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby>: brothers, brotherhood — Dan'a'yo's closest equivalent to an unmarked collective "brothers."
 - <ruby>[姉妹](../words/姉妹.md)<rt>ㄐㄚ·ㄇㄛㄧ</rt></ruby>: sisters, collectively.
 - <ruby>[兄弟姉妹](../words/兄弟姉妹.md)<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby>: siblings — spelling out all four sibling roles at once, rather than choosing a gendered collective.
+- <ruby>[中子](../words/中子.md)<rt>ㄐㄨㄫㄐㄜ</rt></ruby>: a middle son — a classical genealogical ordinal term (distinct from the eldest 長子 and youngest 季子/末子, neither yet coined), a different system from the modern elder/younger-marked [[兄]]/[[弟]] above. A striking false-match homograph with the unrelated modern "neutron" (also 中子); this word covers only the genealogical sense.
 - <ruby>[兄嫂](../words/兄嫂.md)<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby>: sister-in-law — an older brother's wife specifically; an in-law at ego's own generational level.
 
 ### Cousins

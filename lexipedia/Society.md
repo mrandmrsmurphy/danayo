@@ -73,6 +73,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[壮族](../words/壮族.md)<rt>ㄐ⺢ㄫㄐㄛㄎ</rt></ruby>: the Zhuang ethnicity.
 - <ruby>[満族](../words/満族.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: the Manchu ethnicity.
 - <ruby>[漢族](../words/漢族.md)<rt>ㄏㄚㄋㄐㄛㄎ</rt></ruby>: the Han ethnicity.
+- <ruby>[中国人](../words/中国人.md)<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby>: a Chinese person — the productive country-name + 人 nationality pattern; primarily legal/citizenship (PRC national or mainland-Chinese identity), distinct from [[華人]]'s broader "ethnic Chinese" sense (not cited here).
 - <ruby>[苗族](../words/苗族.md)<rt>ㄇ⼘ㄨㄐㄛㄎ</rt></ruby>: the Hmong/Miao ethnicity.
 
 ### Status, Rank & Civic Standing

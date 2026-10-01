@@ -99,6 +99,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[大学生](../words/大学生.md)<rt>ㄉㄚㄧㄏㄚㄎㄙㄚㄫ</rt></ruby>: college student, undergrad.
 - <ruby>[小学](../words/小学.md)<rt>ㄙㄛㄏㄚㄎ</rt></ruby>: elementary learning, philology; elementary school.
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
+- <ruby>[中学校](../words/中学校.md)<rt>ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: middle school, junior high school — completes the three-tier 小学校/中学校/高校 naming system formalized in Meiji-era Japan and spread across CJKV education vocabulary.
 - <ruby>[高校](../words/高校.md)<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby>: secondary school.
 - <ruby>[高考](../words/高考.md)<rt>ㄍㄚㄨㄎㄚㄨ</rt></ruby>: the higher exam (China's national university-entrance exam).
 - <ruby>[及第](../words/及第.md)<rt>ㄍㄨㄆㄉㄝㄧ</rt></ruby>: to pass an examination — historically the imperial civil service exam, now any exam or academic grade.
@@ -147,6 +148,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[史記](../words/史記.md)<rt>ㄙㄧㄍㄧ</rt></ruby>: the *Records of the Grand Historian*, Sima Qian's foundational history.
 - <ruby>[上知](../words/上知.md)<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby>: those wise from birth, innate wisdom.
 - <ruby>[下愚](../words/下愚.md)<rt>ㄏㄚ·ㄨ</rt></ruby>: those foolish from birth — [[上知]]'s direct Analects pairing (論語·陽貨: "only the wisest and the most foolish do not change"), the two limiting cases Confucius held to be beyond the reach of teaching or environment.
+- <ruby>[中庸](../words/中庸.md)<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby>: moderation, the golden mean, the middle way; capitalized, *The Doctrine of the Mean*, one of the Confucian Four Books (the homograph [[大学]] cited above is this page's "university" sense only, not its own Four Books text, *The Great Learning*).
 - <ruby>[右学](../words/右学.md)<rt>⼜ㄏㄚㄎ</rt></ruby>: the Right School (a historical institution name).
 - <ruby>[左学](../words/左学.md)<rt>ㄐㄚㄏㄚㄎ</rt></ruby>: the Left School (its counterpart).
 - <ruby>[宗師](../words/宗師.md)<rt>ㄐㄛㄫㄙㄧㄜ</rt></ruby>: an honored master, great scholar.

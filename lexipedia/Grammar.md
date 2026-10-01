@@ -164,6 +164,9 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>
+- the Chinese language (primarily a Japanese/Korean coinage, country + 語; Mandarin itself prefers 中文/普通話/漢語) : <ruby>[中国語](../words/中国語.md)<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>
+- Chinese; the Chinese language/writing/culture (the everyday Mandarin/Cantonese term, emphasizing the cultural-written dimension over [[中国語]]'s system-of-speech sense) : <ruby>[中文](../words/中文.md)<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby>
+- CJKV (Chinese, Japanese, Korean, Vietnamese — the standard Sinographic initialism for the four cultures/languages this vault's own project is built around) : <ruby>[中日韓越](../words/中日韓越.md)<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby>
 - gender, form: not yet coined.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
