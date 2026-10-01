@@ -58,6 +58,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 ### Sight
 
 - <ruby>[視覚](../words/視覚.md)<rt>ㄙㄧㄜㄍㄚㄎ</rt></ruby>: sight, vision.
+- <ruby>[視](../words/視.md)<rt>ㄙㄧㄜ</rt></ruby>: to look at, inspect — the bound root behind [[視覚]] above, and this page's own previously-flagged "to look" verb.
 - <ruby>[盲目](../words/盲目.md)<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby>: blind.
 - <ruby>[一瞥](../words/一瞥.md)<rt>ㄧㄊㄆㄝㄊ</rt></ruby>: a glance, quick look.
 - <ruby>[影像](../words/影像.md)<rt>⼶ㄫㄙ⼘ㄫ</rt></ruby>: an image — the general sense.
@@ -69,7 +70,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 
 **Not yet coined**: "gaze," "notice," "stare," and "visible" all have no dedicated Dan'a'yo word yet. "Watch" is already covered on [Tools](../lexipedia/Tools.md) by [[看]] (the verb) and [[時計]] (the noun, a timepiece).
 
-**Excluded as false matches**: "image" also loosely matches [[彫像]], which means a carved statue, not a picture or visual representation; "look" (the verb, to look at) also loosely matches [[顔色]], which means a facial expression or complexion — "the look on one's face," not the act of looking — not cited here, and the verb "to look" remains genuinely uncoined.
+**Excluded as a false match**: "image" also loosely matches [[彫像]], which means a carved statue, not a picture or visual representation. ("Look," the verb, also loosely matches [[顔色]], which means a facial expression or complexion, not the act of looking — not cited here; the real verb "to look" is [[視]], above.)
 
 ### Taste
 

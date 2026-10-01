@@ -103,6 +103,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.
 - <ruby>[大蛤](../words/大蛤.md)<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby>: a clam (the stand-in compound that legitimizes the bound character 蛤).
 - <ruby>[牡厉](../words/牡厉.md)<rt>ㄇㄛㄨㄌㄝ</rt></ruby>: oyster — a phonetic-loan spelling of 牡蛎/牡蠣, standing in for the far rarer 蛎/蠣.
+- <ruby>[蟹](../words/蟹.md)<rt>ㄏ⼘ㄧ</rt></ruby>: a crab.
 - <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
@@ -166,6 +167,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [[獵]] below.
 - <ruby>[禁獵](../words/禁獵.md)<rt>ㄍㄧㄇㄌㄛㄆ</rt></ruby>: a hunting ban.
 - <ruby>[吼](../words/吼.md)<rt>ㄏㄛㄨ</rt></ruby>: to roar, howl.
+- <ruby>[蟄](../words/蟄.md)<rt>ㄑㄧㄆ</rt></ruby>: to hibernate.
 
 ## Advanced / Specialized (C1+)
 

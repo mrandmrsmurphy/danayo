@@ -219,6 +219,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
 - <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
 - <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ·⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."
+- <ruby>[融](../words/融.md)<rt>⼜ㄫ</rt></ruby>: to melt, blend, harmonize — the bound root behind [[圓融]] above (also 金融, "finance," and 融合, "fusion").
 - <ruby>[圓滑](../words/圓滑.md)<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby>: slick, glib, smooth (of a person, mildly negative) — a near-synonym of [[圓融]] with a self-serving undertone instead of genuine tact.
 - <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
 - <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.
