@@ -6,6 +6,7 @@ related_domains:
   - "[[Periodic Table]]"
   - "[[Light]]"
   - "[[Dimensions]]"
+  - "[[Substances]]"
 status: partial
 ---
 
