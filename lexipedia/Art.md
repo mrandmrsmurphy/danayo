@@ -83,6 +83,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby>: to lay down the pen, stop writing.
 - <ruby>[章](../words/章.md)<rt>ㄐㄚㄫ</rt></ruby>: chapter.
 - <ruby>[文章](../words/文章.md)<rt>ㄇㄨㄋㄐㄚㄫ</rt></ruby>: essay, article.
+- <ruby>[稿](../words/稿.md)<rt>ㄍㄚㄨ</rt></ruby>: a manuscript, rough draft, copy (原稿, "original manuscript"; 草稿, "rough draft").
 - <ruby>[編纂](../words/編纂.md)<rt>ㄅ⼶ㄋㄐ⺢ㄋ</rt></ruby>, <ruby>[編集](../words/編集.md)<rt>ㄅ⼶ㄋㄐㄧㄆ</rt></ruby>: to edit, compile.
 - <ruby>[翻訳](../words/翻訳.md)<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby>: to translate.
 - <ruby>[訓](../words/訓.md)<rt>ㄏㄨㄋ</rt></ruby>: to interpret, translate, explicate.

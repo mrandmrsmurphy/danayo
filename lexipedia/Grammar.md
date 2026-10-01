@@ -61,6 +61,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>
+- finally, after all, at last (often with a note of surprise or contrary-to-expectation outcome) : <ruby>[竟](../words/竟.md)<rt>ㄍ⼶ㄫ</rt></ruby>
 - rather, slightly (degree modifier) : <ruby>[稍](../words/稍.md)<rt>ㄙ⼘ㄨ</rt></ruby>
 - than <ruby>[過](../words/過.md)<rt>ㄍ⺢</rt></ruby>
 - instead, whatever: not yet coined.

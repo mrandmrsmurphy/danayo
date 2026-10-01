@@ -32,6 +32,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.
 - <ruby>[横断](../words/横断.md)<rt>ㄏ⺢ㄫㄉ⺢ㄋ</rt></ruby>: to cross over, traverse.
 - <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>: to thrust, pierce through.
+- <ruby>[穿](../words/穿.md)<rt>ㄑㄝㄋ</rt></ruby>: to penetrate, pierce, drill — an undocumented near-duplicate of [[貫通]], with no recorded distinction between the two.
 - <ruby>[践踏](../words/践踏.md)<rt>ㄐㄝㄋㄊㄚㄆ</rt></ruby>: to trample.
 
 **Not yet coined**: "draft" (as a current of air/movement), "hop," "lift," "pace," "slide," and "stride" all have no dedicated Dan'a'yo word yet.
