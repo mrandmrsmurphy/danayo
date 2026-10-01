@@ -203,6 +203,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[恒例](../words/恒例.md)<rt>ㄏㄨㄫㄌㄝ</rt></ruby>: an established practice, custom.
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
+- <ruby>[五礼](../words/五礼.md)<rt>ㄛㄌㄝㄧ</rt></ruby>: the Five Rites — the classical Zhou-dynasty classification of all ceremony into auspicious, inauspicious (funerary), guest, military, and festive rites; first of the Six Arts (六芸, alongside [[五射]] on [War](../lexipedia/War.md)).
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
 - <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
 - <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ·⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."

@@ -49,12 +49,14 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>: pond, reservoir.
 - <ruby>[渉](../words/渉.md)<rt>ㄙㄝㄆ</rt></ruby>: ford (a shallow river crossing).
 - <ruby>[井堰](../words/井堰.md)<rt>ㄐㄧㄫㄝㄋ</rt></ruby>: a weir — smaller-scale than [[堰堤]], associated with a well or irrigation channel rather than damming a river outright.
+- <ruby>[井戸](../words/井戸.md)<rt>ㄐㄧㄫㄏㄛ</rt></ruby>: a water well — a deliberately "very Japanese" entry (not a real Mandarin/Cantonese compound), most familiar in 井戸端会議, "well-side chat," gossip among neighbors.
 - <ruby>[灌漑](../words/灌漑.md)<rt>ㄍ⺢ㄋㄍㄚㄧ</rt></ruby>: irrigation.
 
 ### Tides, Currents & Floods
 
 - <ruby>[潮汐](../words/潮汐.md)<rt>ㄑㄚㄨㄙㄝㄎ</rt></ruby>: tide, tidal phenomenon.
 - <ruby>[渦流](../words/渦流.md)<rt>ㄍ⺢ㄌ⼜</rt></ruby>: whirlpool, eddy (also "eddy current" in physics).
+- <ruby>[亘](../words/亘.md)<rt>ㄏ⺢ㄋ</rt></ruby>: swirl, whirlpool — an archaic sense of the character, now obsolete in every daughter language (which instead use 亘 for the unrelated "to span, extend continuously" sense it was conflated with).
 - <ruby>[洪水](../words/洪水.md)<rt>ㄏㄛㄫㄙㄨ</rt></ruby>: flood, deluge — the standard, everyday word; see Semantic Range Notes for its rarer variants on the Advanced tier.
 
 ### Cleanliness & Flow

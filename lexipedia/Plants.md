@@ -42,6 +42,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 
 - <ruby>[禾](../words/禾.md)<rt>ㄏ⺢</rt></ruby>: grain, cereal — the living plant/stalk itself, the cereal radical. See [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[穀物](../words/穀物.md)<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>: grain, cereal crops — the harvested crop collectively, distinct from [[禾]]'s living plant. See [Food](../lexipedia/Food.md) for its own citation there.
+- <ruby>[五穀](../words/五穀.md)<rt>ㄛㄍㄛㄎ</rt></ruby>: the Five Grains — the staple crops of traditional East Asian agriculture (disputed exact membership; typically millet, wheat/barley, soybeans, plus rice or hemp depending on tradition), central to imperial ritual agriculture and the Mandate of Heaven.
 - <ruby>[野菜](../words/野菜.md)<rt>⼘ㄑㄚㄧ</rt></ruby>: vegetables; edible wild herbs.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens — see [Food](../lexipedia/Food.md) for its own citation there.
 

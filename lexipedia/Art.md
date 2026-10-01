@@ -145,6 +145,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 ### The Five Classics (五経)
 
+- <ruby>[五経](../words/五経.md)<rt>ㄛㄍㄝㄫ</rt></ruby>: the Five Classics, collectively — paired with the Four Books ([[四書五経]]) as the core texts of traditional Chinese scholarship.
 - <ruby>[礼記](../words/礼記.md)<rt>ㄌㄝㄧㄍㄧ</rt></ruby>: Book of Rites.
 - <ruby>[易経](../words/易経.md)<rt>⼶ㄎㄍㄝㄫ</rt></ruby>: Book of Changes.
 - <ruby>[書経](../words/書経.md)<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby>: Book of Documents.

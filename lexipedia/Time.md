@@ -110,6 +110,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 - <ruby>[今夜](../words/今夜.md)<rt>ㄍㄧㄇ·⼘</rt></ruby>: tonight.
 - <ruby>[日暮](../words/日暮.md)<rt>ㄋㄧㄊㄇㄛ</rt></ruby>: dusk.
 - <ruby>[正午](../words/正午.md)<rt>ㄐㄧㄫㄛ</rt></ruby>: noon.
+- <ruby>[五更](../words/五更.md)<rt>ㄛㄍㄚㄫ</rt></ruby>: the five traditional night watches (collectively), or the fifth watch specifically (3–5am, just before dawn) — this older water-clock/watchman system, not the modern hour, is the closest this vault comes to naming "midnight" (三更, the third watch), still genuinely uncoined as its own word.
 - <ruby>[昨日](../words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>: yesterday. See [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[日](../words/日.md)<rt>ㄋㄧㄊ</rt></ruby>: day. See [Calendar](../lexipedia/Calendar.md) for its own citation there.
 

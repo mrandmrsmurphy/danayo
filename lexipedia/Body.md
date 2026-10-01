@@ -126,6 +126,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 ### Internal Organs & Fluids
 
+- <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
 - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
 - <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
