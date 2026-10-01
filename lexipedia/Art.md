@@ -81,6 +81,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
+- <ruby>[載](../words/載.md)<rt>ㄐㄚㄧ</rt></ruby>: to record — the bound root behind [[記載]] above (also 転載, "to reprint"); in a separate, unrelated sense, also "to carry, transport" (physical cargo, 搭載).
 - <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby>: to lay down the pen, stop writing.
 - <ruby>[章](../words/章.md)<rt>ㄐㄚㄫ</rt></ruby>: chapter.
 - <ruby>[文章](../words/文章.md)<rt>ㄇㄨㄋㄐㄚㄫ</rt></ruby>: essay, article.

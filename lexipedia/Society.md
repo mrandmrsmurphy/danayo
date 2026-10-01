@@ -93,6 +93,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[上位](../words/上位.md)<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby>: upper rank, a superior position — the abstract top pole of any ranked system (a leaderboard, an organization's senior ranks), paired with [[下位]]'s bottom pole.
 - <ruby>[下位](../words/下位.md)<rt>ㄏㄚ⼔ㄧ</rt></ruby>: low rank, a subordinate position — [[上位]]'s direct antonym, completing the pair that frames all of Dan'a'yo's ranking/hierarchy vocabulary.
 - <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
+- <ruby>[輩](../words/輩.md)<rt>ㄈㄛㄧ</rt></ruby>: a generation — by extension, a peer-group, cohort, "people of a kind" (先輩/後輩, "senior/junior"; 同輩, "a peer, age-mate").
 
 ### Character & Civic Virtue
 

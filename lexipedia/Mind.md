@@ -108,6 +108,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[奥秘](../words/奥秘.md)<rt>ㄨㄎㄅㄧㄜ</rt></ruby>: a secret, mystery — profound and hidden; see [[Art]] for its own citation there.
 - <ruby>[神秘](../words/神秘.md)<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby>: a mystery, mystical secret; see [[Art]] for its own citation there.
 - <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby>: a riddle, mystery, enigma — a puzzle meant to be solved, distinct from [[奥秘]]/[[神秘]]'s deeper, less soluble mystery; see [[Art]] for its own citation there.
+- <ruby>[迷](../words/迷.md)<rt>ㄇㄝㄧ</rt></ruby>: to be lost, be confused — a genuine Dan'a'yo homophone of [[謎]]; the confused/disoriented state itself, rather than the puzzle that causes it (迷路, "to lose one's way, a maze").
 
 **Not yet coined**: "concern," "expect" (see also Core), and "significant" (as distinct from [[重要]]) all have no dedicated Dan'a'yo word yet.
 

@@ -79,6 +79,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[乗車](../words/乗車.md)<rt>ㄙㄨㄫㄑ⺢</rt></ruby>: to board a vehicle, get on — the productive 乗 + [vehicle] pattern (cf. [[乗船]] "board a ship," on [Water](../lexipedia/Water.md); [[乗馬]] "ride a horse," on [Animals](../lexipedia/Animals.md)); cited here since a car/bus/train has no other domain home.
 - <ruby>[乗降](../words/乗降.md)<rt>ㄙㄨㄫㄍㄚㄫ</rt></ruby>: boarding and alighting, embarkation and disembarkation — the paired action, standard in transit infrastructure vocabulary (乗降口, "boarding/alighting door").
 - <ruby>[駆](../words/駆.md)<rt>ㄎㄨ</rt></ruby>: to drive, spur — an animal or, figuratively, a person onward; more literary than [[運転]].
+- <ruby>[輿](../words/輿.md)<rt>⼄</rt></ruby>: a palanquin, sedan chair — the historical carried vehicle; figuratively, "public opinion" (輿論, literally "the carriage of the masses").
 
 ### Floating, Flowing & Sinking
 
