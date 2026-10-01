@@ -78,6 +78,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
+- <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
 - <ruby>[神仙](../words/神仙.md)<rt>ㄙㄧㄋㄙ⼶ㄋ</rt></ruby>: an immortal, god — the Daoist transcendent-being concept, distinct from plain [[神]].
@@ -91,6 +92,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[夜叉](../words/夜叉.md)<rt>⼘ㄑㄚㄧ</rt></ruby>: a demon (yaksha, a Buddhist/Hindu demon).
 - <ruby>[魔羅](../words/魔羅.md)<rt>ㄇㄚㄌㄛ</rt></ruby>: a demon (Māra, the Buddhist personification of desire, death, and obstruction to enlightenment).
+- <ruby>[乾達婆](../words/乾達婆.md)<rt>ㄍ⼶ㄋㄊㄚㄊㄅㄚ</rt></ruby>: a Gandharva — celestial musician-spirits of Buddhist/Hindu cosmology, one of the Eight Legions (天龍八部) guarding the dharma, unlike [[夜叉]]/[[魔羅]]'s demonic beings.
 - <ruby>[伝説](../words/伝説.md)<rt>ㄐ⼔ㄋㄙ⼔ㄊ</rt></ruby>: legend, lore, folklore.
 - <ruby>[経典](../words/経典.md)<rt>ㄍㄝㄫㄉㄝㄋ</rt></ruby>: scripture, a classic text — the general word, used generically rather than for any one scripture in particular (per [[基督敎]]'s own note on its use there for 聖経).
 

@@ -42,6 +42,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[手掌](../words/手掌.md)<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>: palm.
 - <ruby>[拳骨](../words/拳骨.md)<rt>ㄍ⼔ㄋㄍㄛㄊ</rt></ruby>, <ruby>[拳頭](../words/拳頭.md)<rt>ㄍ⼔ㄋㄊㄛㄨ</rt></ruby>: fist.
 - <ruby>[手指](../words/手指.md)<rt>ㄙ⼜ㄐㄧㄜ</rt></ruby>: finger.
+- <ruby>[五指](../words/五指.md)<rt>ㄛㄐㄧㄜ</rt></ruby>: the five fingers, collectively — also, in Japanese idiom, "the top five" (五指に入る, "to rank in the top five").
 - <ruby>[大指](../words/大指.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>, archaic <ruby>[母指](../words/母指.md)<rt>ㄇㄛㄨㄐㄧㄜ</rt></ruby>: thumb/big toe.
 - <ruby>[食指](../words/食指.md)<rt>ㄙㄧㄎㄐㄧㄜ</rt></ruby>: index finger/first toe.
 - <ruby>[中指](../words/中指.md)<rt>ㄐㄨㄫㄐㄧㄜ</rt></ruby>: middle finger/middle toe.
@@ -71,6 +72,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 ### Head & Face
 
+- <ruby>[五官](../words/五官.md)<rt>ㄛㄍ⺢ㄋ</rt></ruby>: the five sense organs (classical Chinese medicine's diagnostic correspondences); in modern usage, most commonly "facial features" collectively (五官端正, "regular, well-proportioned features").
 - <ruby>[頬](../words/頬.md)<rt>ㄍㄝㄆ</rt></ruby>: cheek.
 - <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>: middle ear.
 - <ruby>[耳朶](../words/耳朶.md)<rt>ㄋㄧㄉㄚ</rt></ruby>: earlobe.

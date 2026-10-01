@@ -129,6 +129,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
 - <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
 - <ruby>[中](../words/中.md)<rt>ㄐㄨㄫ</rt></ruby> "-ing (progressive aspect marker, postfixed to a verb)"
+- <ruby>[了](../words/了.md)<rt>ㄌ⼘ㄨ</rt></ruby> "completed/changed-state aspect particle (吃了飯, 下雨了) — [[中]]'s perfective counterpart; also a free-standing word, 'done, finished, over' (了結, [[完了]])"
 - <ruby>[人称](../words/人称.md)<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
 
 ## Function Words

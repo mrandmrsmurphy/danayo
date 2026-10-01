@@ -37,6 +37,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[万物](../words/万物.md)<rt>ㄇㄛㄋㄇㄨㄊ</rt></ruby>: the myriad things — the 大字 (anti-falsification) orthographic counterpart of [[萬物]] above, not a simple alias (matching the established 萬/万 distinct-word convention elsewhere in this vault).
 - <ruby>[万象](../words/万象.md)<rt>ㄇㄛㄋㄙ⼘ㄫ</rt></ruby>: all things, every manifestation of nature — leans toward natural phenomena specifically (part of the [[森羅万象]] family), distinct from [[萬物]]/[[万物]]'s plainer "all existing things."
 - <ruby>[一切](../words/一切.md)<rt>ㄧㄊㄑㄝㄊ</rt></ruby>: everything, the whole, entirety — a general totality quantifier ("all of X, without exception"), more abstract than [[萬物]]'s specific "all existing things"; a near-synonym of [[全体]]/[[全部]] (not yet placed), both of which lean toward a concrete whole made of counted parts where 一切 stays inclusive/abstract.
+- <ruby>[事物](../words/事物.md)<rt>ㄐㄧ·ㄇㄨㄊ</rt></ruby>: things, the totality of objects and matters — an academic/philosophical register (事物の本質, "the essential nature of things"), pairing concrete 物 with abstract 事 rather than [[萬物]]'s plainer "myriad things."
 - <ruby>[現象](../words/現象.md)<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby>: a phenomenon.
 - <ruby>[成立](../words/成立.md)<rt>ㄙㄧㄫㄌㄧㄆ</rt></ruby>: to come into existence, be established, gain approval.
 

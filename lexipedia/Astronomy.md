@@ -35,6 +35,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind.
 - <ruby>[九天](../words/九天.md)<rt>ㄎ⼜·ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
 - <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
+- <ruby>[乾](../words/乾.md)<rt>ㄍ⼶ㄋ</rt></ruby>: the Heaven trigram (乾卦) itself, pure yang — also "dry," a unified Dan'a'yo sense distinct from the unrelated [[干]]/[[幹]].
 - <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
 - <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
 - <ruby>[無極](../words/無極.md)<rt>ㄇㄜㄍㄧㄎ</rt></ruby>: limitless, without ultimate — in Daoist cosmology, the primordial undifferentiated state that precedes even 太極, pure potentiality before any polarity arises.

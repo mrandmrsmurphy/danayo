@@ -71,6 +71,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[百](../words/百.md)<rt>ㄅㄚㄎ</rt></ruby>: hundred (bare form, contrast [[一百]] above).
 - <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
 - <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
+- <ruby>[二千](../words/二千.md)<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby>: two thousand.
 - <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
 - <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
 - <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄜㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄜㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
@@ -94,6 +95,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cross-checked term by term against real Mandarin/Cantonese/Japanese/Korean/Vietnamese usage rather than invented wholesale. See the Semantic Range Notes below for the recurring patterns this coining work surfaced.
 
 - <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
+- <ruby>[二次元](../words/二次元.md)<rt>ㄋㄧㄜㄑㄧㄜ⼔ㄋ</rt></ruby>: two-dimensional, 2D — the formal geometric sense (contrast 一次元/三次元/四次元); also, in modern East Asian otaku slang, "the 2D world" of anime/manga/games as opposed to real (三次元) life.
 - <ruby>[算術](../words/算術.md)<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby>: arithmetic — the elementary branch, narrower than 数学.
 - <ruby>[九数](../words/九数.md)<rt>ㄎ⼜ㄙㄨ</rt></ruby>: the Nine Numbers, the classical Chinese curriculum of nine mathematical arts (a historical/cultural reference, not a modern subfield list).
 

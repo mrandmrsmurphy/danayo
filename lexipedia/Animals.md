@@ -143,6 +143,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[家禽](../words/家禽.md)<rt>ㄍㄚ·ㄎㄧㄇ</rt></ruby>: domestic fowl, poultry.
 - <ruby>[厩肥](../words/厩肥.md)<rt>ㄍ⼜ㄅㄨㄧ</rt></ruby>: stable manure, animal manure, farmyard manure.
 - <ruby>[肥育](../words/肥育.md)<rt>ㄅㄨㄧ⼜ㄎ</rt></ruby>: to fatten livestock.
+- <ruby>[乾芻](../words/乾芻.md)<rt>ㄍ⼶ㄋㄑㄨ</rt></ruby>: hay, dried fodder — cut and cured grass for winter livestock feed, a strategic concern in pre-modern military logistics as much as farming.
 - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby> / <ruby>[毛皮](../words/毛皮.md)<rt>ㄇㄚㄨㄅㄧ</rt></ruby>: fur, pelt.
 - <ruby>[羊毛](../words/羊毛.md)<rt>⼘ㄫㄇㄚㄨ</rt></ruby>: wool, fleece.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat, animal fat.

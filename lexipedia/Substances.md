@@ -14,6 +14,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[物質](../words/物質.md)<rt>ㄇㄨㄊㄐㄧㄊ</rt></ruby>: material, substance — see [Physics](../lexipedia/Physics.md) for its own citation there.
+- <ruby>[乳液](../words/乳液.md)<rt>ㄋㄨ⼶ㄎ</rt></ruby>: lotion, emulsion, moisturizer — a manufactured liquid substance, cited here for lack of any dedicated skincare/cosmetics domain elsewhere in this vault.
 - <ruby>[石](../words/石.md)<rt>ㄙㄝㄎ</rt></ruby>: rock, stone — a Swadesh word.
 - <ruby>[沙](../words/沙.md)<rt>ㄙㄚ</rt></ruby>: sand.
 - <ruby>[紙](../words/紙.md)<rt>ㄐㄝ</rt></ruby>: paper.
