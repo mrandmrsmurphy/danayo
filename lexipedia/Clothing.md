@@ -19,6 +19,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 - <ruby>[着](../words/着.md)<rt>ㄐ⺢ㄎ</rt></ruby>: to wear.
 - <ruby>[戴](../words/戴.md)<rt>ㄊㄚㄧ</rt></ruby>: to wear on top (specifically a hat, crown, or accessory).
 - <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>: naked; to strip, undress.
+- <ruby>[脱](../words/脱.md)<rt>ㄉ⺢ㄊ</rt></ruby>: to shed, remove, undress — a near-duplicate of [[裸]]'s own verb sense; also, by extension, "to escape" (脱稿, "to complete a manuscript," literally "escape the draft").
 - <ruby>[帽子](../words/帽子.md)<rt>ㄇㄚㄨㄐㄜ</rt></ruby>: a hat.
 - <ruby>[鞋](../words/鞋.md)<rt>ㄏ⼘ㄧ</rt></ruby>: a shoe.
 - <ruby>[長靴](../words/長靴.md)<rt>ㄐㄚㄫㄏ⺢</rt></ruby>: a tall boot (rain boot, riding boot).

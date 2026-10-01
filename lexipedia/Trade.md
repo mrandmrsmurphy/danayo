@@ -19,6 +19,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[販売](../words/販売.md)<rt>ㄈㄛㄋㄇㄚㄧ</rt></ruby>: to sell.
 - <ruby>[金銭](../words/金銭.md)<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>: money.
 - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>: a store, shop. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
+- <ruby>[舗](../words/舗.md)<rt>ㄆㄛㄨ</rt></ruby>: a store — an undocumented near-duplicate of [[商店]], with no recorded distinction between the two.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
 
