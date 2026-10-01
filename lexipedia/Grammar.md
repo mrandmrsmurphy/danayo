@@ -165,6 +165,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
 - adjective, stative word : <ruby>[性詞](../words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby>
 - adnominal, attributive (a modifier preceding a noun) : <ruby>[連体](../words/連体.md)<rt>ㄌ⼶ㄋㄊㄝㄧ</rt></ruby>
+- indeclinable word (nouns/pronouns, as opposed to conjugating 用言; a traditional Japanese grammatical term, borrowed directly into Korean linguistics as 체언) : <ruby>[体言](../words/体言.md)<rt>ㄊㄝㄧㄝㄋ</rt></ruby>
 - interjection : <ruby>[感嘆詞](../words/感嘆詞.md)<rt>ㄍㄚㄇㄊㄚㄋㄙㄚ</rt></ruby>
 - quantifier : <ruby>[量化詞](../words/量化詞.md)<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby>
 - measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>

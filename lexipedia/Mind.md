@@ -92,6 +92,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to display, indicate, express — see [[Existence]] for its own citation there.
 - <ruby>[標誌](../words/標誌.md)<rt>ㄅ⼄ㄐㄧ</rt></ruby>: to symbolize, mark, indicate.
 - <ruby>[反映](../words/反映.md)<rt>ㄈㄛㄋ·⼶ㄫ</rt></ruby>: to reflect, indicate — a state of affairs reflecting or indicating a deeper condition, not literal light reflection (see [[Light]] for that sense, carried by a different word, [[映]]).
+- <ruby>[体現](../words/体現.md)<rt>ㄊㄝㄧㄏ⼶ㄋ</rt></ruby>: to embody, express, incarnate — a more active, concrete realization than [[反映]]'s passive reflecting/indicating.
 - <ruby>[代表](../words/代表.md)<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>: to represent.
 
 ### Trust, Assumption & Planning

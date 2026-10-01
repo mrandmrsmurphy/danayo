@@ -145,6 +145,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>: sweat.
 - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
 - <ruby>[膿](../words/膿.md)<rt>ㄋㄛㄫ</rt></ruby>: pus.
+- <ruby>[体液](../words/体液.md)<rt>ㄊㄝㄧ⼶ㄎ</rt></ruby>: bodily fluid — the general umbrella term covering [[血]], [[汗]], [[涙]], and [[膿]] alike.
 - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
 - <ruby>[肺臓](../words/肺臓.md)<rt>ㄈㄝㄐㄚㄫ</rt></ruby>: lungs.
 - <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>: womb.

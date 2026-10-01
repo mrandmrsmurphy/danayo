@@ -51,6 +51,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 ### Fowl
 
 - <ruby>[鴨](../words/鴨.md)<rt>ㄚㄆ</rt></ruby>: duck.
+- <ruby>[鴎](../words/鴎.md)<rt>ㄛㄨ</rt></ruby>: a seagull.
 - <ruby>[鸚鵡](../words/鸚鵡.md)<rt>ㄚㄫㄇㄨ</rt></ruby>: parrot.
 - <ruby>[鸚哥](../words/鸚哥.md)<rt>ㄚㄫㄍㄜ</rt></ruby>: parakeet, parrot — a near-synonym of 鸚鵡 above, distinguished by size rather than a firm species boundary.
 - <ruby>[雁](../words/雁.md)<rt>ㄚㄋ</rt></ruby>: wild goose.
@@ -65,6 +66,8 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.
 - <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
+- <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [[海就]], without that word's specifically maritime sense.
+- <ruby>[鳶](../words/鳶.md)<rt>⼶ㄋ</rt></ruby>: a kite — the bird of prey (黒鳶, "black kite"); secondarily, the flying toy.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
 - <ruby>[企鵝](../words/企鵝.md)<rt>ㄎㄝㄚ</rt></ruby>: penguin.
 - <ruby>[信天翁](../words/信天翁.md)<rt>ㄙㄧㄋㄊㄝㄋ·ㄛㄫ</rt></ruby>: albatross.
@@ -113,6 +116,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
+- <ruby>[鱏](../words/鱏.md)<rt>ㄏㄧㄇ</rt></ruby>: a ray, skate.
 - <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
