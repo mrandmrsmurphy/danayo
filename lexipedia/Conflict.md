@@ -12,7 +12,7 @@ date-last-perfect: 2026-09-27
 
 # Conflict
 
-Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, the weapons and tactics of combat, capture and imprisonment, heroism and violence, victory and loss, and the peace that eventually follows — plus the accusation, rumor, and betrayal that so often accompanies conflict off the battlefield. A number of Rosenfelder's basic terms (free, threat, trap, suspect, insult, and others) have no Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, the weapons and tactics of combat, capture and imprisonment, heroism and violence, victory and loss, and the peace that eventually follows — plus the accusation, rumor, and betrayal that so often accompanies conflict off the battlefield. A number of Rosenfelder's basic terms (free, threat, trap, suspect, and others) have no Dan'a'yo word yet, flagged inline below rather than skipped silently. ("Insult" is covered by [[侮辱]], below.)
 
 ## Core Vocabulary (A1–A2)
 

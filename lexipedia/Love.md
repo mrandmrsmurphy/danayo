@@ -44,6 +44,7 @@ Love vocabulary covers romantic and affectionate love — distinct from the fami
 - <ruby>[懐抱](../words/懐抱.md)<rt>ㄏ⺢ㄧㄅㄚㄨ</rt></ruby>: to cherish, embrace — holding a feeling, ambition, or idea close (abstract).
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: an embrace, a hug (physical).
 - <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>: a kiss.
+- <ruby>[佳人](../words/佳人.md)<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby>: a beautiful person (traditionally a beautiful woman) — a literary descriptor, as in the chengyu [[佳人薄命]], "a beautiful woman has an ill fate."
 
 ### Hatred & Aversion
 

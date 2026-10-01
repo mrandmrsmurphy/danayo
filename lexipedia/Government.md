@@ -63,6 +63,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 - <ruby>[大夫](../words/大夫.md)<rt>ㄉㄚㄧㄅㄨ</rt></ruby>, <ruby>[官人](../words/官人.md)<rt>ㄍ⺢ㄋㄋㄧㄋ</rt></ruby>, <ruby>[官吏](../words/官吏.md)<rt>ㄍ⺢ㄋㄌㄧ</rt></ruby>: an official, public servant, officer.
 - <ruby>[大臣](../words/大臣.md)<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby>: an official, minister.
+- <ruby>[使者](../words/使者.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: a herald, messenger, emissary, envoy — traditionally one sent by a king to conduct diplomacy.
 - <ruby>[九卿](../words/九卿.md)<rt>ㄎ⼜·ㄎ⼶ㄫ</rt></ruby>: the Nine Ministers — a classical canonical collective for the nine highest executive officials below the Three Excellencies (三公) in imperial Chinese government; the exact nine changed by dynasty, but the term persisted as prestigious shorthand for the top civil-service tier.
 - <ruby>[官僚主義](../words/官僚主義.md)<rt>ㄍ⺢ㄋㄌ⼄ㄨㄐㄨㄜㄧ</rt></ruby>: bureaucracy, bureaucratism.
 - <ruby>[宰相](../words/宰相.md)<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>: a supreme chancellor, prime minister, premier.

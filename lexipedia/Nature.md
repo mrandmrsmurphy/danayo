@@ -32,6 +32,8 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
 - <ruby>[崖](../words/崖.md)<rt>ㄚㄧ</rt></ruby>: a cliff.
 - <ruby>[火山](../words/火山.md)<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby>: a volcano.
+- <ruby>[余震](../words/余震.md)<rt>⼄ㄐㄧㄋ</rt></ruby>: an aftershock.
+- <ruby>[余波](../words/余波.md)<rt>⼄ㄅㄚ</rt></ruby>: aftermath, after-effect, fallout — literally "waves remaining after winds subside," extended figuratively.
 - <ruby>[霧](../words/霧.md)<rt>ㄇㄨ</rt></ruby>: fog, mist.
 - <ruby>[雷](../words/雷.md)<rt>ㄌㄛㄧ</rt></ruby>: thunder.
 - <ruby>[露](../words/露.md)<rt>ㄌㄛ</rt></ruby>: dew.

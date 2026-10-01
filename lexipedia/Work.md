@@ -32,6 +32,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 ### Construction & Production
 
 - <ruby>[構築](../words/構築.md)<rt>ㄍㄛㄨㄐㄨㄎ</rt></ruby>: to construct, to build (a system, a structure, a position) — see Semantic Range Notes.
+- <ruby>[作坊](../words/作坊.md)<rt>ㄐㄚㄎㄈㄚㄫ</rt></ruby>: a workshop, atelier — specifically a small-scale handicraft workshop, distinct from the more modern artist's-studio sense of 工房/工作室.
 - <ruby>[建設](../words/建設.md)<rt>ㄍㄝㄋㄙㄝㄊ</rt></ruby>: to establish, to build (formal, large-scale).
 - <ruby>[構造](../words/構造.md)<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>: structure, composition.
 - <ruby>[製作](../words/製作.md)<rt>ㄐㄝㄐㄚㄎ</rt></ruby>: to manufacture, to make.

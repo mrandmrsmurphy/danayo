@@ -94,7 +94,8 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - who : <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby>
 - how : <ruby>[如何](../words/如何.md)<rt>ㄋ⼄ㄏㄚ</rt></ruby>, <ruby>[甚様](../words/甚様.md)<rt>ㄙㄧㄇ·⼘ㄫ</rt></ruby> (what manner, of what sort)
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
-- whether, why, which: not yet coined.
+- why : <ruby>[何故](../words/何故.md)<rt>ㄏㄚㄍㄛ</rt></ruby>
+- whether, which: not yet coined.
 
 ## Correlative Pronoun System
 Dan'a'yo builds a closed paradigm of correlatives by crossing a deictic/interrogative/quantifier base with a bound noun class. All 63 combinations exist as real words.

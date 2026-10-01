@@ -16,6 +16,8 @@ Religion vocabulary covers general cross-cultural religious concepts — gods, s
 - <ruby>[宗教](../words/宗教.md)<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>: religion.
 - <ruby>[神](../words/神.md)<rt>ㄙㄧㄋ</rt></ruby>: a god, deity; spirit.
 - <ruby>[佛](../words/佛.md)<rt>ㄅㄨㄊ</rt></ruby>: Buddha — also, in compounds, "Buddhism, Buddhist" (佛教, 佛法).
+- <ruby>[佛教](../words/佛教.md)<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>: Buddhism, the religion itself.
+- <ruby>[佛陀](../words/佛陀.md)<rt>ㄅㄨㄊㄉㄚ</rt></ruby>: Buddha — a fuller phonetic transliteration of Sanskrit Buddha, alongside the shortened everyday [[佛]].
 - <ruby>[魂](../words/魂.md)<rt>ㄏㄛㄋ</rt></ruby>: a soul.
 - <ruby>[祈祷](../words/祈祷.md)<rt>ㄍㄧㄜㄉㄚㄨ</rt></ruby>: to pray — see [[基督敎]] for its own citation there.
 - <ruby>[崇拝](../words/崇拝.md)<rt>ㄐㄨㄫㄅ⼶</rt></ruby>: to worship, adore — see [[基督敎]] for its own citation there.

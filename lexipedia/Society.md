@@ -121,6 +121,9 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Trust, Respect & Esteem
 
 - <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>: to trust, believe, rely on.
+- <ruby>[依存](../words/依存.md)<rt>ㄧㄜㄐㄛㄋ</rt></ruby>: dependence, to depend on — interdependence or addiction (依存症), a near-synonym cluster with [[依拠]]/[[依頼]] below.
+- <ruby>[依拠](../words/依拠.md)<rt>ㄧㄜㄍ⼄</rt></ruby>: to depend on, to be the basis for — the evidentiary/reasoning register ("based on").
+- <ruby>[依頼](../words/依頼.md)<rt>ㄧㄜㄌㄚㄧ</rt></ruby>: to rely on, depend on — in Japanese specifically also "to request, commission" (依頼する).
 - <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
@@ -165,6 +168,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[信徒](../words/信徒.md)<rt>ㄙㄧㄋㄉㄛ</rt></ruby>: a disciple, believer (of a religion).
 - <ruby>[侍者](../words/侍者.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: an attendant, servant, valet.
 - <ruby>[従者](../words/従者.md)<rt>ㄐㄛㄫㄑㄚ</rt></ruby>: an attendant, follower, retainer.
+- <ruby>[侍奉](../words/侍奉.md)<rt>ㄙㄧㄅㄛㄫ</rt></ruby>: to serve and attend to — the verb, as of a master or a high-ranking monk, or by extension one's parents or teachers.
 - <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, maidservant.
 - <ruby>[陪](../words/陪.md)<rt>ㄅㄛㄧ</rt></ruby>: to accompany, be with, keep company.
 
