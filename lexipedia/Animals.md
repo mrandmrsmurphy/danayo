@@ -125,6 +125,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
+- <ruby>[狸](../words/狸.md)<rt>ㄌㄜ</rt></ruby>: a tanuki, raccoon dog — a real, distinct animal, not to be confused with [[狐狸]]'s compound "fox" sense above despite sharing the same character.
 - <ruby>[豹猫](../words/豹猫.md)<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby>: leopard cat (*Prionailurus bengalensis*).
 - <ruby>[貒](../words/貒.md)<rt>ㄊ⺢ㄋ</rt></ruby> / <ruby>[野猪](../words/野猪.md)<rt>⼘ㄐㄛ</rt></ruby>: wild boar — two independently attested synonyms.
 

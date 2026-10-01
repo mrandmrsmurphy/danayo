@@ -87,6 +87,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[灘](../words/灘.md)<rt>ㄊㄚㄋ</rt></ruby>: bank, shoal — specifically a sandbar or shallow river ford, narrower still than either [[岸]] or [[浜]].
 - <ruby>[汀](../words/汀.md)<rt>ㄊㄝㄫ</rt></ruby>: a sand bar, a water's-edge flat — an undocumented near-duplicate of [[灘]], with no recorded distinction between the two.
 - <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
+- <ruby>[畔](../words/畔.md)<rt>ㄅㄚㄋ</rt></ruby>: ridge, boundary — another near-duplicate of [[岸]]/[[浜]] in its common "waterside" extension (湖畔, "lakeside"; 河畔, "riverside"), though its root sense is a field-ridge boundary rather than a water's edge specifically.
 
 ### Islands
 

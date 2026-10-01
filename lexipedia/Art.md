@@ -119,6 +119,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[音叉](../words/音叉.md)<rt>ㄨㄇㄑㄚㄧ</rt></ruby>: a tuning fork.
 - <ruby>[喇叭](../words/喇叭.md)<rt>ㄌㄚㄅㄚㄊ</rt></ruby>: horn, trumpet.
 - <ruby>[洞簫](../words/洞簫.md)<rt>ㄉㄛㄫㄙㄛㄨ</rt></ruby>: the xiao, an end-blown bamboo flute.
+- <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
+- <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
 
 ### Martial Arts
 
