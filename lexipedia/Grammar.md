@@ -27,6 +27,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - but (classical/literary register) : <ruby>[乃](../words/乃.md)<rt>ㄋㄚㄧ</rt></ruby>
 - if, supposing that : <ruby>[若](../words/若.md)<rt>ㄋ⼘</rt></ruby>
 - if only (narrower, more formal register) : <ruby>[苟](../words/苟.md)<rt>ㄍㄛㄨ</rt></ruby>
+- once, as soon as (introduces a hypothetical/temporal trigger — "once X happens") : <ruby>[一旦](../words/一旦.md)<rt>ㄧㄊㄉㄚㄋ</rt></ruby>
 - or : <ruby>[或](../words/或.md)<rt>ㄏㄛㄎ</rt></ruby>
 - then : <ruby>[那](../words/那.md)<rt>ㄋㄚ</rt></ruby>
 - therefore, so, consequently, thus : <ruby>[焉](../words/焉.md)<rt>ㄝㄋ</rt></ruby>, <ruby>[所以](../words/所以.md)<rt>ㄙㄜㄧ</rt></ruby>
@@ -250,7 +251,7 @@ The traditional classification of Chinese character formation.
 
 **Dan'a'yo has no grammatical gender and no accusative case**: the Grammatical Categories list above covers tense/aspect, animacy, mood/modality/voice, prospective aspect, progressive aspect, and person — gender is not among them, and the 12-case system in the Case System section has no accusative slot. Direct objects aren't case-marked at all; they're identified by the topic-comment sentence structure that [[事詞]] ("eventive," the transitive verb class) is built around, with 也 marking the topic itself. This isn't a coverage gap to fill later — it's a genuine design choice, the same way Mandarin and other isolating East Asian languages get by without case-marking objects.
 
-**若/苟 both mean "if," split by register**: 若 is the general conditional conjunction. 苟 is narrower and more formal/literary — closer to "if only" or "provided that" — not a plain substitute for 若 in ordinary conditionals.
+**若/苟 both mean "if," split by register**: 若 is the general conditional conjunction. 苟 is narrower and more formal/literary — closer to "if only" or "provided that" — not a plain substitute for 若 in ordinary conditionals. [[一旦]] sits beside both but is not a duplicate: it is temporal-conditional specifically, "once/as soon as X happens," distinct from 若/苟's purely hypothetical "if."
 
 ## See Also
 

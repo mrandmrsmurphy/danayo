@@ -42,6 +42,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>: final, last.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>: current — see [Calendar](../lexipedia/Calendar.md) and [Grammar](../lexipedia/Grammar.md) for their own citations there.
+- <ruby>[一斉](../words/一斉.md)<rt>ㄧㄊㄐㄝㄧ</rt></ruby>: simultaneous, all at once — the complementary concept to before/after sequencing above: no leader-follower stagger at all.
 
 ### Duration & Period
 
@@ -77,6 +78,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[刹那](../words/刹那.md)<rt>ㄑㄚㄊㄋㄚ</rt></ruby>: a moment, instant.
 - <ruby>[頃](../words/頃.md)<rt>ㄎㄝㄫ</rt></ruby>: a moment. See [Events](../lexipedia/Events.md) for its own citation there.
 - <ruby>[簡略](../words/簡略.md)<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby>: brief.
+- <ruby>[一朝](../words/一朝.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: a short time, a brief moment — "a short while," broader than [[一瞬]]/[[刹那]]'s point-instant, closer to "overnight" as a byword for suddenness.
 
 ### The "Present" Cluster
 

@@ -103,6 +103,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[表面](../words/表面.md)<rt>ㄅ⼘ㄨㄇ⼶ㄋ</rt></ruby>: a surface — the everyday, general word.
 - <ruby>[上面](../words/上面.md)<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby>: a surface — a more formal/technical register than [[表面]], specifically "the upper surface."
 - <ruby>[末端](../words/末端.md)<rt>ㄇㄚㄊㄉ⺢ㄋ</rt></ruby>: a tip, end.
+- <ruby>[一端](../words/一端.md)<rt>ㄧㄊㄉ⺢ㄋ</rt></ruby>: one end, one side — extends idiomatically to "one aspect [of a larger issue]," unlike [[末端]]'s purely physical tip.
 - <ruby>[缺点](../words/缺点.md)<rt>ㄎ⼔ㄊㄉㄝㄇ</rt></ruby>: a flaw.
 - <ruby>[皺紋](../words/皺紋.md)<rt>ㄐㄨ·ㄇㄨㄋ</rt></ruby>: wrinkles.
 - <ruby>[痘痕](../words/痘痕.md)<rt>ㄉㄛㄨㄏㄜㄋ</rt></ruby>: a scar.
