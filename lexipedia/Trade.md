@@ -22,6 +22,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[舗](../words/舗.md)<rt>ㄆㄛㄨ</rt></ruby>: a store — an undocumented near-duplicate of [[商店]], with no recorded distinction between the two.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
+- <ruby>[費](../words/費.md)<rt>ㄈㄚㄧ</rt></ruby>: an expense, a cost — also, as a verb, "to spend, to waste" (浪費, "to waste"; 費用, "expense, cost").
 
 **Not yet coined**: "account," "deal," "due," and "offer" all have no dedicated Dan'a'yo word yet.
 

@@ -43,6 +43,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 
 - <ruby>[接近](../words/接近.md)<rt>ㄐㄛㄆㄍㄧㄋ</rt></ruby>: to approach.
 - <ruby>[寄](../words/寄.md)<rt>ㄍㄨㄧ</rt></ruby>: to approach, send, rely on.
+- <ruby>[赴](../words/赴.md)<rt>ㄈㄨㄛ</rt></ruby>: to attend, visit — heading to a destination with a specific purpose (赴任, "to take up a post"; 赴約, "to keep an appointment").
 - <ruby>[来臨](../words/来臨.md)<rt>ㄌㄚㄧㄌㄧㄇ</rt></ruby>: to come near, arrive.
 - <ruby>[降臨](../words/降臨.md)<rt>ㄍㄚㄫㄌㄧㄇ</rt></ruby>: to descend, arrive — a grander, often divine arrival (a god's descent), distinct from [[来臨]]'s plain arrival.
 - <ruby>[届](../words/届.md)<rt>ㄍ⼶</rt></ruby>: to deliver, arrive — of a letter or package reaching its destination, not a traveler.

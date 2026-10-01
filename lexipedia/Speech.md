@@ -109,6 +109,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Manner of Speaking
 
 - <ruby>[語気](../words/語気.md)<rt>⼄·ㄎㄧㄜ</rt></ruby>: tone, mode, connotation, mood — the manner-of-speaking sense.
+- <ruby>[訥](../words/訥.md)<rt>ㄋㄛㄊ</rt></ruby>: to mumble, stammer — halting, inarticulate speech (訥弁; 剛毅木訥, "firm, resolute, simple, and inarticulate," from the Analects), distinct from the still-uncoined "mutter," below.
 
 **Excluded as a false match**: "tone" also loosely matches [[声調]], but that word means linguistic tone (the pitch contour of a tonal language), already housed on [Grammar](../lexipedia/Grammar.md) — a different homograph from the speaking-manner sense cited here.
 

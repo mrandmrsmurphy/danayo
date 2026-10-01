@@ -71,6 +71,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[詩作](../words/詩作.md)<rt>ㄙㄧㄐㄚㄎ</rt></ruby>: a composed poem; to compose poetry. See Semantic Range Notes.
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
+- <ruby>[詠](../words/詠.md)<rt>ㄨㄧㄫ</rt></ruby>: to recite, chant — poetry or verse aloud.
 
 ### Literature & Publishing
 

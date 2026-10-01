@@ -186,6 +186,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[佇立](../words/佇立.md)<rt>ㄐㄛㄌㄧㄆ</rt></ruby>: to stand still, motionless, often lost in thought or waiting — a specific literary posture-verb, not the same as the still-uncoined plain "to stand" below.
 - <ruby>[倚](../words/倚.md)<rt>ㄜㄧ</rt></ruby>: to lean on, lean against — the physical posture-verb (倚靠); also figuratively "to rely on, depend upon" (倚賴).
 - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
+- <ruby>[貼](../words/貼.md)<rt>ㄊㄝㄆ</rt></ruby>: to paste on, stick to, attach.
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
 - <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).
 - <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.

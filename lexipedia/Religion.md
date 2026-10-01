@@ -51,6 +51,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[福](../words/福.md)<rt>ㄈㄨㄎ</rt></ruby>: a blessing, good fortune — the noun, distinct from [[加持]]'s ritual verb.
 - <ruby>[儺](../words/儺.md)<rt>ㄋㄨㄛ</rt></ruby>: exorcism.
 - <ruby>[忌諱](../words/忌諱.md)<rt>ㄍㄧㄏㄨㄧ</rt></ruby>: a taboo — a subject too sensitive to mention, the social/interpersonal register.
+- <ruby>[諱](../words/諱.md)<rt>ㄏㄨㄧ</rt></ruby>: to shun, avoid saying the name of — the bound root behind [[忌諱]] above, and the classical East Asian name-avoidance custom (避諱) of not writing or speaking an emperor's or ancestor's personal name.
 - <ruby>[禁忌](../words/禁忌.md)<rt>ㄍㄧㄇㄍㄧ</rt></ruby>: a taboo, forbidden thing — the religious/cultural register (also, in medicine, "contraindication"), distinct from [[忌諱]]'s social-etiquette sense.
 
 **Not yet coined or excluded as false matches**: "offer" (making a religious offering) has no exact dedicated word — [[献上]], which also glosses "offer," means presenting tribute upward to a human superior, a secular register explicitly distinct from religious offering (whose everyday Vietnamese equivalent is the unrelated loan cúng dường); the closest real matches are [[祭祀]] and [[犠牲]] (below), which name the sacrifice/offering ritual and its object rather than the bare verb. "Enchant" (to cast a magical spell on) is likewise uncoined — [[魅惑]], which also glosses "enchant," means to charm or captivate a person romantically/socially, not to work magic.
@@ -81,6 +82,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
+- <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
 - <ruby>[人間](../words/人間.md)<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby>: the human world, this mortal realm — completing the three-tier cosmology with [[九天]] (heaven) above and [[九泉]] (the underworld) below.

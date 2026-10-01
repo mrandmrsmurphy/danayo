@@ -134,6 +134,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
 - <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
 - <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
+- <ruby>[賞](../words/賞.md)<rt>ㄙ⼘ㄫ</rt></ruby>: a reward, prize — also "to admire, to enjoy" (鑑賞, "to appreciate [art]"; 賞賛, "praise").
 - <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛ·ㄇㄨ</rt></ruby>: to encourage, cheer, inspire — literally "to drum and dance." Rosenfelder's "inspire."
 
 ### Assistance & Support
@@ -203,6 +204,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 ### Agreement & Proposal
 
 - <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an accord, agreement, pact.
+- <ruby>[諾](../words/諾.md)<rt>ㄋㄚㄎ</rt></ruby>: to consent, agree — also, as a classical affirmative response particle, "yes, agreed" (承諾, "to consent").
 - <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to propose, suggest.
 - <ruby>[諮詢](../words/諮詢.md)<rt>ㄐㄧㄜㄙ⼜ㄋ</rt></ruby>: to consult, seek advice (formal/institutional register).
 - <ruby>[接触](../words/接触.md)<rt>ㄐㄛㄆㄑㄛㄎ</rt></ruby>: contact, touch.
