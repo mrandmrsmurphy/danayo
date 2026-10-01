@@ -6,6 +6,7 @@ related_domains:
   - "[[Measurement]]"
   - "[[Physics]]"
   - "[[Shape]]"
+  - "[[Valuation]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

@@ -5,6 +5,7 @@ domain: Conflict
 related_domains:
   - "[[Mind]]"
   - "[[Physical]]"
+  - "[[War]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---
@@ -196,4 +197,5 @@ Rosenfelder terms with no Dan'a'yo word yet: to suspect, a trap, rash, to argue,
 
 ## See Also
 
-*(No related domains linked yet — none of the vault's other lexipedia pages currently share enough vocabulary with this one to justify a formal cross-reference.)*
+**Related domains**:
+- [War](../lexipedia/War.md) — the specifically martial side of this page's vocabulary (armies, personnel, specific weapons and armor, retreat, looting, logistics) is housed there instead, drawing on this page's Weapons, Combat & Tactics, Capture & Imprisonment, Espionage, and Rebellion & Upheaval sections for everything they already cover.

@@ -7,6 +7,7 @@ related_domains:
   - "[[Existence]]"
   - "[[Art]]"
   - "[[Mind]]"
+  - "[[Valuation]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

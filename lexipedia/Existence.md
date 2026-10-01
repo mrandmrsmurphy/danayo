@@ -11,6 +11,7 @@ related_domains:
   - "[[Religion]]"
   - "[[Time]]"
   - "[[Trade]]"
+  - "[[Valuation]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

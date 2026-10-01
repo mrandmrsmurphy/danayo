@@ -6,6 +6,7 @@ related_domains:
   - "[[Locatives]]"
   - "[[Movement]]"
   - "[[Shape]]"
+  - "[[Valuation]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
