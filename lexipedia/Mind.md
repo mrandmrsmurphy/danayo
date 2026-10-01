@@ -10,6 +10,7 @@ related_domains:
   - "[[Art]]"
   - "[[Conflict]]"
   - "[[Movement]]"
+  - "[[Speech]]"
 status: complete
 date-last-perfect: 2026-09-29
 ---
