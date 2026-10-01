@@ -54,6 +54,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[永遠](../words/永遠.md)<rt>ㄨㄧㄫㄛㄋ</rt></ruby>: perpetual, eternal.
 - <ruby>[永久](../words/永久.md)<rt>ㄨㄧㄫㄍ⼜</rt></ruby>: eternal, perpetual, permanent — bridges [[恒久]]'s and [[永遠]]'s senses rather than being a strict duplicate of either.
 - <ruby>[万年](../words/万年.md)<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby>: ten thousand years; eternity, all ages — a hyperbolic durational idiom (compare English "forever") rather than a literal count, sitting atop the [[百年]]/[[千年]] family.
+- <ruby>[不断](../words/不断.md)<rt>ㄅㄛㄊㄉ⺢ㄋ</rt></ruby>: continuous, unending, without interruption — describes an ongoing process with no gaps (不断の努力, "ceaseless effort"), distinct from [[永遠]]/[[永久]]'s infinite-duration sense.
 
 ### Still & Continuation
 

@@ -16,6 +16,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[社会](../words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>: society.
+- <ruby>[世間](../words/世間.md)<rt>ㄙㄝㄍㄚㄋ</rt></ruby>: the human world, society — leans literary/reflective in Chinese, but in Japanese せけん is a key culturally loaded concept, "the eyes of society" one feels watched and judged by (世間体 "public face," 世間知らず "naïve, unworldly").
 - <ruby>[人民](../words/人民.md)<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby>: people, public, citizen.
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.

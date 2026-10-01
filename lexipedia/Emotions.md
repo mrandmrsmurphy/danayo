@@ -76,6 +76,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[隙](../words/隙.md)<rt>ㄎㄝㄎ</rt></ruby>: a fissure; a grudge.
 - <ruby>[私讐](../words/私讐.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: a personal grudge.
 - <ruby>[不満](../words/不満.md)<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby>: to be dissatisfied, resentful, lacking.
+- <ruby>[不平](../words/不平.md)<rt>ㄅㄛㄊㄅ⼶ㄫ</rt></ruby>: unjust, unfair; the resentment felt at injustice, complaint, grumbling (esp. Korean 불평하다, "to complain") — an undocumented near-duplicate of [[不満]], distinct from [[不当]]'s purely legal/objective "unjust" judgment on [Law](../lexipedia/Law.md).
 - <ruby>[嫉妬](../words/嫉妬.md)<rt>ㄐㄧㄊㄉㄛ</rt></ruby>, <ruby>[羨慕](../words/羨慕.md)<rt>ㄧㄜㄇㄛ</rt></ruby>: to be jealous, envious.
 
 ### Shame & Disgrace

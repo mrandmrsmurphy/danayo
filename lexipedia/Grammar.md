@@ -48,6 +48,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - cannot, may not (impermissive) <ruby>[不可以](../words/不可以.md)<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> — the direct negation of [[可以]] above.
 - might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 - must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
+- don't! (prohibitive command, Mandarin only) / unnecessary (descriptive, all five languages) <ruby>[不要](../words/不要.md)<rt>ㄅㄛㄊ⼄ㄨ</rt></ruby> — a genuine false friend: Japanese/Korean/Vietnamese kept only the descriptive half, using native forms for "don't" instead.
 - ought, should, have to : <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
 - could, would: not yet coined.
@@ -162,6 +163,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
+- Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>
 - gender, form: not yet coined.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
