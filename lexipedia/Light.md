@@ -33,6 +33,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[光輝](../words/光輝.md)<rt>ㄎ⺢ㄫㄏㄨㄧ</rt></ruby>: brilliant, radiant.
 - <ruby>[光明](../words/光明.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby>: brightness, radiance — carries real cosmological and moral weight beyond the physical (see Semantic Range Notes).
 - <ruby>[映](../words/映.md)<rt>⼶ㄫ</rt></ruby>: to reflect, project (of light or an image).
+- <ruby>[三稜鏡](../words/三稜鏡.md)<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby>: a prism — literally "three-edge lens," the light-dispersing optical instrument.
 - <ruby>[陰影](../words/陰影.md)<rt>ㄧㄇ·⼶ㄫ</rt></ruby>: a shadow.
 - <ruby>[閃光](../words/閃光.md)<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby>: a flash of light, a glint.
 

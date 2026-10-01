@@ -47,6 +47,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[伝統](../words/伝統.md)<rt>ㄐ⼔ㄋㄊㄛㄫ</rt></ruby>: tradition, custom.
 - <ruby>[文明](../words/文明.md)<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>: civilization.
 - <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
+- <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 
 ### Migration & Belonging
 

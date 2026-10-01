@@ -38,6 +38,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[王朝](../words/王朝.md)<rt>⺢ㄫㄐㄚㄨ</rt></ruby>: a dynasty, reign, court.
 - <ruby>[帝王](../words/帝王.md)<rt>ㄊㄝㄧ⺢ㄫ</rt></ruby>, <ruby>[皇帝](../words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby>: an emperor.
 - <ruby>[万乗](../words/万乗.md)<rt>ㄇㄛㄋㄙㄨㄫ</rt></ruby>: "ten thousand chariots" — a classical idiom for supreme imperial power, a ruler who commands ten thousand war chariots.
+- <ruby>[万歳](../words/万歳.md)<rt>ㄇㄛㄋㄙㄝ</rt></ruby>: "ten thousand years!" — the pan-Sinospheric royal acclamation wishing a ruler long life, historically a capital offense to say without authorization in China; later broadened into a general cheer (Japanese banzai) and a nationalist rallying cry (Korean manse).
 - <ruby>[皇后](../words/皇后.md)<rt>ㄏ⺢ㄫㄏㄛㄨ</rt></ruby>: an empress, queen consort.
 - <ruby>[天皇](../words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>: the Emperor of Japan, Mikado.
 - <ruby>[女皇](../words/女皇.md)<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby>: an empress.

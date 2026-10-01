@@ -127,6 +127,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
 - <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
+- <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
 - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
 - <ruby>[腺体](../words/腺体.md)<rt>ㄙ⼶ㄋㄊㄝㄧ</rt></ruby>: a gland.
 - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>, <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: shit.
