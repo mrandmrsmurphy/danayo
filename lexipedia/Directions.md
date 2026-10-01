@@ -69,6 +69,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[提出](../words/提出.md)<rt>ㄙㄝㄑㄨㄊ</rt></ruby>: to submit, to bring forward, to put forward.
 - <ruby>[転載](../words/転載.md)<rt>ㄐ⼔ㄋㄐㄚㄧ</rt></ruby>: to reprint, reproduce, forward.
 - <ruby>[逓送](../words/逓送.md)<rt>ㄊㄝㄧㄙㄛㄫ</rt></ruby>: to send, forward, transmit.
+- <ruby>[送](../words/送.md)<rt>ㄙㄛㄫ</rt></ruby>: to give, send, see off — the bound root behind [[逓送]] above (also 輸送, "transportation"; 送別, "a farewell, send-off").
 - <ruby>[導演](../words/導演.md)<rt>ㄉㄚㄨ⼶ㄋ</rt></ruby>: to direct; a director (film/theater).
 - <ruby>[監督](../words/監督.md)<rt>ㄍㄚㄇㄉㄛㄎ</rt></ruby>: to direct, supervise, manage.
 

@@ -62,6 +62,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[急](../words/急.md)<rt>ㄍㄧㄆ</rt></ruby>: quick, urgent.
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving.
 - <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]].
+- <ruby>[速](../words/速.md)<rt>ㄙㄛㄎ</rt></ruby>: quick, fast — the bound root behind [[急速]]/[[迅速]] above, and 速度 ("speed").
 - <ruby>[敏](../words/敏.md)<rt>ㄇㄧㄋ</rt></ruby>: fast, quick, clever, smart — see [[Mind]] for its own citation there.
 - <ruby>[緩慢](../words/緩慢.md)<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>: slow, sluggish.
 - <ruby>[遅](../words/遅.md)<rt>ㄑㄧㄜ</rt></ruby>: late, slow — tardiness more than sluggishness, distinct from [[緩慢]].
