@@ -16,6 +16,8 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[性別](../words/性別.md)<rt>ㄙㄧㄫㄅㄝㄊ</rt></ruby>: sex, gender.
 - <ruby>[雌性](../words/雌性.md)<rt>ㄑㄝㄙㄧㄫ</rt></ruby>: female (biological sex, of animals/plants).
 - <ruby>[性交](../words/性交.md)<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby>: to have sex, copulate — a clinical/formal register; no crude or slang equivalent exists in this vault.
+- <ruby>[交接](../words/交接.md)<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>: to have intercourse — a euphemistic extension of this word's primary literal sense, "to link, join, connect" (e.g. Vietnamese giao tiếp, "to communicate").
+- <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal/literary euphemistic/anatomical compound, an undocumented near-synonym of [[交接]] and the clinical [[性交]].
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, to be pregnant — see [Body](../lexipedia/Body.md) for its own citation there.
 
 **Not yet coined**: "male" (the biological-sex counterpart to [[雌性]]) is a striking, specific gap — this vault documents the female biological-sex term but not its counterpart. "Fuck" (the crude verb) is likewise uncoined; only the clinical [[性交]] exists.

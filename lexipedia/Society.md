@@ -49,6 +49,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[文明](../words/文明.md)<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>: civilization.
 - <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
 - <ruby>[中華](../words/中華.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby>: Chinese civilization/culture — a civilizational identity rather than a specific state, which is exactly why it names both rival Chinas ([[中華民国]], 中華人民共和国); distinct from [[中国]]'s state/country-name sense.
+- <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia — the fuller, classical transliteration used historically for the cultural/civilizational sense (Asian peoples, Pan-Asianism), distinct from [[亜洲]]'s plain geographic landmass sense.
 - <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 - <ruby>[五倫](../words/五倫.md)<rt>ㄛㄌㄨㄋ</rt></ruby>: the Five Relationships — [[三綱]]'s fuller, more symmetrical counterpart, adding elder–younger sibling and friend–friend, the two pairs without a strict superior/subordinate structure.
 - <ruby>[五常](../words/五常.md)<rt>ㄛㄙ⼘ㄫ</rt></ruby>: the Five Constant Virtues (仁義禮智信) — the personal-virtue counterpart to [[五倫]]'s relational framework, almost always cited paired with [[三綱]] in the combined formula 三綱五常.

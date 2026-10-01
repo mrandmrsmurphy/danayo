@@ -69,6 +69,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[乗](../words/乗.md)<rt>ㄙㄨㄫ</rt></ruby>: to ride.
 - <ruby>[跨](../words/跨.md)<rt>ㄎ⺢</rt></ruby>: to straddle, ride — the posture of riding (a horse, a bicycle), not the general act.
 - <ruby>[騎乗](../words/騎乗.md)<rt>ㄍㄨㄧㄙㄨㄫ</rt></ruby>: to ride, be mounted — specifically on horseback.
+- <ruby>[交通](../words/交通.md)<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>: traffic, transportation — the general umbrella term for the whole vehicle/transit cluster below.
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — a vehicle.
 - <ruby>[乗務](../words/乗務.md)<rt>ㄙㄨㄫㄇㄨ</rt></ruby>: crew duty, to serve as crew — the broader occupational role of staffing a vehicle (train, ship, aircraft) as conductor, attendant, or similar, not specifically [[運転]]'s "to drive."
 - <ruby>[乗客](../words/乗客.md)<rt>ㄙㄨㄫㄎㄚㄎ</rt></ruby>: a passenger — literally "riding guest," [[乗務]]'s complement on the other side of the vehicle.

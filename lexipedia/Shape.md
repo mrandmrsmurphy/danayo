@@ -62,6 +62,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[形成](../words/形成.md)<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby>: to form, take shape — the verb, distinct from [[形]]'s noun.
 - <ruby>[容](../words/容.md)<rt>⼄ㄫ</rt></ruby>: appearance, form, figure — a weaker, more figurative register (outward bearing/countenance) than [[形]]'s clean geometric sense.
 - <ruby>[交叉](../words/交叉.md)<rt>ㄍ⼄ㄨㄑㄚㄧ</rt></ruby>: to cross, an intersection.
+- <ruby>[交点](../words/交点.md)<rt>ㄍ⼄ㄨㄉㄝㄇ</rt></ruby>: an intersection point, node — the precise point where two lines cross (geometry, road intersections), narrower than [[交叉]]'s general crossing.
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: a globe, the Earth — see [Astronomy](../lexipedia/Astronomy.md) and [Nature](../lexipedia/Nature.md) for their own citations there.
 - <ruby>[地球儀](../words/地球儀.md)<rt>ㄉㄧㄜㄍ⼜ㄜㄧ</rt></ruby>: a globe — the physical model/object specifically, distinct from [[地球]]'s planet.
 

@@ -65,6 +65,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 
 ### Materials
 
+- <ruby>[亜麻](../words/亜麻.md)<rt>ㄚ·ㄇㄚ</rt></ruby>: flax, linseed — the raw fiber plant behind [[亜麻布]]'s woven cloth.
 - <ruby>[亜麻布](../words/亜麻布.md)<rt>ㄚ·ㄇㄚㄅㄛ</rt></ruby>, <ruby>[麻布](../words/麻布.md)<rt>ㄇㄚㄅㄛ</rt></ruby>: linen (or hemp cloth).
 - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧ·ㄎㄧㄎ</rt></ruby>: leather.
 - <ruby>[皮衣](../words/皮衣.md)<rt>ㄅㄧㄧㄜ</rt></ruby>: a fur garment, leather clothing.
