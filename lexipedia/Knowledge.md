@@ -72,6 +72,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[調査](../words/調査.md)<rt>ㄐㄨㄛㄐㄚ</rt></ruby>: to look into, to investigate.
 - <ruby>[検査](../words/検査.md)<rt>ㄍㄝㄇㄐㄚ</rt></ruby>: to inspect, examine, check.
 - <ruby>[試験](../words/試験.md)<rt>ㄙㄧㄝㄇ</rt></ruby>: test, examine.
+- <ruby>[験](../words/験.md)<rt>ㄝㄇ</rt></ruby>: to check, examine — the bound root behind [[試験]] above (also 経験, "experience").
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze, analysis.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.

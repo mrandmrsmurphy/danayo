@@ -10,7 +10,7 @@ status: partial
 
 # Sensation
 
-Sensation vocabulary covers the five senses and general perception — appearing, hiding, observing, revealing — along with the specific vocabulary of hearing, sight, taste, and smell. Several basic terms (ignore, perceive, aware, distract, loud, noise, gaze, notice, stare, visible, salty) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Sensation vocabulary covers the five senses and general perception — appearing, hiding, observing, revealing — along with the specific vocabulary of hearing, sight, taste, and smell. Several basic terms (ignore, perceive, aware, distract, loud, gaze, notice, stare, visible, salty) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -42,6 +42,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: a sound. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[丁丁](../words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>: clang, clash — a specific onomatopoeia for a sharp, repeated striking sound (chopping, metal clanging), not a general-purpose "noise" word.
+- <ruby>[騒](../words/騒.md)<rt>ㄙㄚㄨ</rt></ruby>: boisterous, noisy commotion (騒動, "disturbance"; 騒音, "noise") — resolves this page's own previously-flagged "noise" gap; "loud" remains uncoined.
 - <ruby>[聴](../words/聴.md)<rt>ㄑㄝㄫ</rt></ruby>: to listen.
 - <ruby>[反響](../words/反響.md)<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby>: an echo.
 - <ruby>[沈黙](../words/沈黙.md)<rt>ㄑㄧㄇㄇㄨㄎ</rt></ruby>: silent.
@@ -51,7 +52,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[安静](../words/安静.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: quiet, peaceful — a near-synonym of [[安穏]]. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[耳聾](../words/耳聾.md)<rt>ㄋㄧㄌㄛㄫ</rt></ruby>: deaf.
 
-**Not yet coined**: "loud" and "noise" both have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "loud" has no dedicated Dan'a'yo word yet. ("Noise" is now covered by [[騒]], above.)
 
 **Excluded as a false match**: "sound" (a wholesome, correct judgment) also loosely matches [[健全]], which means sound/wholesome/healthy in the judgment sense ("sound reasoning"), not the auditory noun cited above — not cited here.
 

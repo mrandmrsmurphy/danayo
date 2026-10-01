@@ -28,6 +28,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[鳥](../words/鳥.md)<rt>ㄑㄛㄨ</rt></ruby>: bird (the plain, individual noun — contrast [[鳥類]] above, the class).
 - <ruby>[魚類](../words/魚類.md)<rt>⼄ㄌㄨㄧ</rt></ruby>: fish, as a taxonomic class.
 - <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [[魚類]] above, the class).
+- <ruby>[鮎](../words/鮎.md)<rt>ㄋㄝㄇ</rt></ruby>: a catfish, sheatfish in its original Chinese sense — Japanese uniquely reinterprets the same character for あゆ (ayu, "sweetfish"), an entirely different fish.
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
 - <ruby>[寵物](../words/寵物.md)<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby>: pet, favored animal.
 - <ruby>[匹](../words/匹.md)<rt>ㄆㄧㄊ</rt></ruby>: counter word for animals.
@@ -101,9 +102,11 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[鼈](../words/鼈.md)<rt>ㄅㄝㄊ</rt></ruby>: *Pelodiscus sinensis*, a soft-shell turtle species.
 - <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
+- <ruby>[魶](../words/魶.md)<rt>ㄋㄨㄆ</rt></ruby>: a giant salamander.
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.
 - <ruby>[大蛤](../words/大蛤.md)<rt>ㄉㄚㄧㄍㄚㄆ</rt></ruby>: a clam (the stand-in compound that legitimizes the bound character 蛤).
 - <ruby>[牡厉](../words/牡厉.md)<rt>ㄇㄛㄨㄌㄝ</rt></ruby>: oyster — a phonetic-loan spelling of 牡蛎/牡蠣, standing in for the far rarer 蛎/蠣.
+- <ruby>[鮑](../words/鮑.md)<rt>ㄅㄚㄨ</rt></ruby>: an abalone.
 - <ruby>[蟹](../words/蟹.md)<rt>ㄏ⼘ㄧ</rt></ruby>: a crab.
 - <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
@@ -159,6 +162,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[馬脚](../words/馬脚.md)<rt>ㄇㄚㄍ⼘ㄎ</rt></ruby>: horse leg, cloven hoof — also used idiomatically for a telltale flaw that gives someone away (露出馬脚, "to reveal one's true colors").
 - <ruby>[乗馬](../words/乗馬.md)<rt>ㄙㄨㄫㄇㄚ</rt></ruby> / <ruby>[騎馬](../words/騎馬.md)<rt>ㄍㄨㄧㄇㄚ</rt></ruby>: to ride a horse, horseback riding — two independently attested synonyms.
 - <ruby>[勒馬](../words/勒馬.md)<rt>ㄌㄜㄎㄇㄚ</rt></ruby>: to rein in a horse.
+- <ruby>[馿](../words/馿.md)<rt>ㄌ⼄</rt></ruby>: a donkey.
+- <ruby>[駄](../words/駄.md)<rt>ㄉㄚ</rt></ruby>: a pack, to carry — specifically a beast's pack-load (駄馬, "pack horse"; 無駄, "futile, wasted effort").
 
 ### Animal Behavior
 
