@@ -133,6 +133,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[麦酒](../words/麦酒.md)<rt>ㄇㄚㄎㄐㄨㄛ</rt></ruby>: beer.
 - <ruby>[醇酒](../words/醇酒.md)<rt>ㄙㄨㄋㄐㄨㄛ</rt></ruby>: good wine.
 - <ruby>[酌酒](../words/酌酒.md)<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby>: to pour wine.
+- <ruby>[酔](../words/酔.md)<rt>ㄐㄨㄧ</rt></ruby>: drunk.
 - <ruby>[酒糟](../words/酒糟.md)<rt>ㄐㄨㄛㄐㄚㄨ</rt></ruby>: distiller's grain, lees.
 - <ruby>[渇](../words/渇.md)<rt>ㄎㄚㄊ</rt></ruby>: thirst, thirsty.
 - <ruby>[茉莉](../words/茉莉.md)<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby>: white jasmine (tea-flavoring).

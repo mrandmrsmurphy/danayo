@@ -64,6 +64,7 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 - <ruby>[銹](../words/銹.md)<rt>ㄙ⼜</rt></ruby>: rust.
 - <ruby>[鉄板](../words/鉄板.md)<rt>ㄊㄝㄊㄆㄚㄋ</rt></ruby>: an iron grill/plate — a common everyday object made of [[鉄]].
 - <ruby>[鈬](../words/鈬.md)<rt>ㄉㄚㄎ</rt></ruby>: a bronze bell — a common everyday object made of [[青銅]].
+- <ruby>[鈴](../words/鈴.md)<rt>ㄌㄝㄫ</rt></ruby>: a small bell — a handbell or jingle-bell, distinct from [[鈬]]'s larger cast bronze bell.
 
 ## Semantic Range Notes
 

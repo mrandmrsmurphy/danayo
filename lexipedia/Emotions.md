@@ -99,6 +99,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ### Calm & Peace
 
 - <ruby>[安寧](../words/安寧.md)<rt>ㄚㄋㄋㄝㄫ</rt></ruby>: calm, composed.
+- <ruby>[鎮](../words/鎮.md)<rt>ㄑㄧㄋ</rt></ruby>: to tranquilize, calm, pacify — the transitive verb (鎮痛, "to relieve pain"; 鎮静, "sedation"), distinct from the stative adjectives above.
 - <ruby>[安穏](../words/安穏.md)<rt>ㄚㄋ·ㄛㄋ</rt></ruby>, <ruby>[安静](../words/安静.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: peaceful, quiet, steady.
 - <ruby>[平穏](../words/平穏.md)<rt>ㄅ⼶ㄫㄛㄋ</rt></ruby>, <ruby>[平静](../words/平静.md)<rt>ㄅ⼶ㄫㄐㄝㄫ</rt></ruby>: calm, serene, peaceful.
 - <ruby>[和平](../words/和平.md)<rt>ㄏ⺢ㄅ⼶ㄫ</rt></ruby>: peaceful.

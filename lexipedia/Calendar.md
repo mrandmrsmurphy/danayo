@@ -215,6 +215,7 @@ Lunar months had their own terminology:
 - <ruby>[閏年](../words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> — leap year
 - <ruby>[平年](../words/平年.md)<rt>ㄅ⼶ㄫㄋㄝㄋ</rt></ruby> — common year
 - <ruby>[閏月](../words/閏月.md)<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> — intercalary month (lunisolar calendars)
+- <ruby>[閏](../words/閏.md)<rt>ㄋㄨㄋ</rt></ruby> — intercalary, the bound root behind [[閏年]]/[[閏月]] above
 - <ruby>[閏日](../words/閏日.md)<rt>ㄋㄨㄋㄋㄧㄊ</rt></ruby> — leap day
 - <ruby>[閏秒](../words/閏秒.md)<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> — leap second
 - <ruby>[置閏](../words/置閏.md)<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> — intercalation, the system of inserting leap periods

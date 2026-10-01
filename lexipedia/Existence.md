@@ -137,6 +137,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[毀](../words/毀.md)<rt>ㄏ⼔ㄧ</rt></ruby>: to destroy — more literary/formal register than 破壊.
 - <ruby>[滅](../words/滅.md)<rt>ㄇㄝㄊ</rt></ruby>: to wipe out, annihilate, extinguish — total eradication (of a people, a fire, a trace), stronger than [[破壊]]'s physical demolition; the bound root behind [[隠滅]]'s own "destroy evidence" sense above.
 - <ruby>[潰](../words/潰.md)<rt>ㄏㄛㄧ</rt></ruby>: to crush, collapse, burst, break down — structural failure from within or from pressure (崩潰, "collapse"; 潰瘍, "an ulcer"), distinct from [[破壊]]'s externally-applied demolition.
+- <ruby>[陥](../words/陥.md)<rt>ㄏㄚㄇ</rt></ruby>: to fall into, sink into, submerge — extended to "to cave in, collapse" (陥没) and, figuratively, "to be caught/trapped" (as in a pitfall); also the root of 缺陥, "a defect, flaw."
 
 ### Presenting, Showing & Offering
 
