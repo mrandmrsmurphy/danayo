@@ -180,6 +180,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
 - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>: to sit.
 - <ruby>[佇立](../words/佇立.md)<rt>ㄐㄛㄌㄧㄆ</rt></ruby>: to stand still, motionless, often lost in thought or waiting — a specific literary posture-verb, not the same as the still-uncoined plain "to stand" below.
+- <ruby>[倚](../words/倚.md)<rt>ㄜㄧ</rt></ruby>: to lean on, lean against — the physical posture-verb (倚靠); also figuratively "to rely on, depend upon" (倚賴).
 - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
 - <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).
@@ -187,7 +188,6 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>: to kowtow, bow deeply (touching forehead to ground) — the vault's one concrete example of a specific "gesture," which has no dedicated general word of its own.
 - to feel — *not yet coined*
 - to lay — *not yet coined*
-- to lean — *not yet coined*
 - to point — *not yet coined*
 - to reach — *not yet coined*
 - to rest — *not yet coined*

@@ -20,6 +20,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[金銭](../words/金銭.md)<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>: money.
 - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>: a store, shop. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
+- <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
 
 **Not yet coined**: "account," "deal," "due," and "offer" all have no dedicated Dan'a'yo word yet.
 
@@ -46,6 +47,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[租金](../words/租金.md)<rt>ㄐㄜㄍㄧㄇ</rt></ruby>: rent — the rental fee.
 - <ruby>[賃](../words/賃.md)<rt>ㄋㄧㄇ</rt></ruby>: rent — a bound near-synonym of [[租金]].
 - <ruby>[貸出](../words/貸出.md)<rt>ㄊㄚㄧㄑㄨㄊ</rt></ruby>: a loan.
+- <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
 

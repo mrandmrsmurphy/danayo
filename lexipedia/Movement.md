@@ -53,6 +53,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[下降](../words/下降.md)<rt>ㄏㄚㄍㄚㄫ</rt></ruby>: to descend, fall.
 - <ruby>[墜落](../words/墜落.md)<rt>ㄐㄨㄧㄌㄚㄎ</rt></ruby>: to fall, crash, drop — sudden and often destructive, distinct from [[下降]]'s gradual descent.
 - <ruby>[勃興](../words/勃興.md)<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby>: to rise — of a movement, power, or trend, not a physical body.
+- <ruby>[倒](../words/倒.md)<rt>ㄊㄚㄨ</rt></ruby>: to fall over, topple, overturn, invert — distinct from [[下降]]'s gradual descent and [[墜落]]'s crashing drop; also, in compounds (倒班), "to take turns, rotate shifts," via the idea of alternation.
 
 ### Speed: Fast & Slow
 
