@@ -16,11 +16,13 @@ views:
       - 諺文
       - file.mtime
     sort:
+      - property: lexipedia
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
       - property: date-last-perfect
         direction: ASC
       - property: pos
-        direction: ASC
-      - property: file.mtime
         direction: ASC
       - property: 羅馬字
         direction: ASC
