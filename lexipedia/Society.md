@@ -114,6 +114,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
 - <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
 - <ruby>[赳赳](../words/赳赳.md)<rt>ㄍ⼜ㄍ⼜</rt></ruby>: strong and valiant — a reduplication.
+- <ruby>[縦](../words/縦.md)<rt>ㄐㄛㄇ</rt></ruby>: selfish, arbitrary, unrestrained, self-indulgent — a vice, the opposite pole from the virtues above; in a separate, unrelated sense, also "lengthwise, vertical" (縦縞, "vertical stripes").
 
 ### Trust, Respect & Esteem
 
@@ -205,6 +206,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[諮詢](../words/諮詢.md)<rt>ㄐㄧㄜㄙ⼜ㄋ</rt></ruby>: to consult, seek advice (formal/institutional register).
 - <ruby>[接触](../words/接触.md)<rt>ㄐㄛㄆㄑㄛㄎ</rt></ruby>: contact, touch.
 - <ruby>[接](../words/接.md)<rt>ㄐㄛㄆ</rt></ruby>: to contact, connect.
+- <ruby>[絡](../words/絡.md)<rt>ㄌㄚㄎ</rt></ruby>: to enmesh, wrap around — the literal sense; by extension "to contact, liaise" (連絡) alongside [[接]], and, in traditional Chinese medicine, a meridian (経絡).
 
 ### Custom & Courtesy
 

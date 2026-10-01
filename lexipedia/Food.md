@@ -143,6 +143,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[漁船](../words/漁船.md)<rt>⼄ㄙ⼔ㄇ</rt></ruby>: a fishing boat.
 - <ruby>[禁漁](../words/禁漁.md)<rt>ㄍㄧㄇ·⼄</rt></ruby>: a fishing ban.
 - <ruby>[釣竿](../words/釣竿.md)<rt>ㄑㄛㄨㄍㄚㄋ</rt></ruby>: a fishing pole.
+- <ruby>[網](../words/網.md)<rt>ㄇㄚㄫ</rt></ruby>: netting, a net — also, by extension, "a network" (internet senses); cited here for the fishing-net sense, the one real tool-vocabulary home this word has in this vault.
 - <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: to harvest; a crop, yield.
 - <ruby>[畝](../words/畝.md)<rt>ㄇㄛㄨ</rt></ruby>: a furrow — a plowed field-row.
 - <ruby>[産量](../words/産量.md)<rt>ㄙㄚㄋㄌ⼘ㄫ</rt></ruby>: output, yield.
