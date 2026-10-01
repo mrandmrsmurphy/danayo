@@ -93,6 +93,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[欲望](../words/欲望.md)<rt>⼄ㄎㄇㄚㄫ</rt></ruby>: desire, lust, appetite, craving.
 - <ruby>[意欲](../words/意欲.md)<rt>ㄜ⼄ㄎ</rt></ruby>: motivation, desire, ambition.
 - <ruby>[禁欲](../words/禁欲.md)<rt>ㄍㄧㄇ·⼄ㄎ</rt></ruby>: to be ascetic, suppress desire, be abstinent.
+- <ruby>[耽](../words/耽.md)<rt>ㄉㄛㄇ</rt></ruby>: to indulge in, be absorbed in — a fixation or craving so deep it absorbs its subject (耽耽/眈眈, "to glare covetously," as in 虎視耽耽, "to eye like a prowling tiger").
 - <ruby>[熱情](../words/熱情.md)<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby>: enthusiasm, passion, ardor.
 
 ### Calm & Peace
