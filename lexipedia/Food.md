@@ -83,6 +83,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[米粟](../words/米粟.md)<rt>ㄇㄝㄧㄙ⼄ㄎ</rt></ruby>: grains, rice and millet.
 - <ruby>[稗子](../words/稗子.md)<rt>ㄅㄚㄧㄐㄜ</rt></ruby>: barnyard millet (a specific grain species).
 - <ruby>[玄米](../words/玄米.md)<rt>ㄏ⼔ㄋㄇㄝㄧ</rt></ruby>: brown rice.
+- <ruby>[粥](../words/粥.md)<rt>ㄐㄨㄎ</rt></ruby>: congee, rice porridge.
 - <ruby>[麺](../words/麺.md)<rt>ㄇㄝㄋ</rt></ruby>: flour.
 - <ruby>[麺包](../words/麺包.md)<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>: bread.
 
@@ -111,6 +112,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[甘味](../words/甘味.md)<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby>: sweetness, sweet taste.
 - <ruby>[苦味](../words/苦味.md)<rt>ㄎㄛ·ㄇㄨㄧ</rt></ruby>: bitter taste, bitterness.
 - <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
+- <ruby>[粘](../words/粘.md)<rt>ㄋㄝㄇ</rt></ruby>: sticky, glutinous — the texture of glutinous rice, its own etymological source (粘米, "sticky rice").
 - <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
 - <ruby>[清馨](../words/清馨.md)<rt>ㄑㄧㄫㄏㄝㄫ</rt></ruby>: a delicate, pure fragrance — a literary descriptor, often of tea, flowers, or wine.
 

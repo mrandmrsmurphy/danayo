@@ -39,6 +39,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[争端](../words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>: dispute, conflict.
 - <ruby>[仇敵](../words/仇敵.md)<rt>ㄍ⼜ㄉㄝㄎ</rt></ruby>: enemy, foe — a near-synonym of [[敵人]].
 - <ruby>[紛争](../words/紛争.md)<rt>ㄈㄜㄋㄐㄚㄫ</rt></ruby>: dispute, conflict.
+- <ruby>[紛](../words/紛.md)<rt>ㄈㄜㄋ</rt></ruby>: numerous, disorderly, chaotic — the bound adjectival root behind [[紛争]] above, from an original image of a tangle of threads (its own semantic component 糸, "silk").
 - <ruby>[抗争](../words/抗争.md)<rt>ㄏㄚㄫㄐㄚㄫ</rt></ruby>: to fight, contend.
 - <ruby>[闘争](../words/闘争.md)<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby>, <ruby>[奮闘](../words/奮闘.md)<rt>ㄈㄨㄋㄉㄛㄨ</rt></ruby>: to struggle, strive.
 - <ruby>[刺激](../words/刺激.md)<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby>: to provoke, irritate.

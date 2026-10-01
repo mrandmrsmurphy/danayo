@@ -43,6 +43,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 - <ruby>[支付](../words/支付.md)<rt>ㄐㄝㄈㄨ</rt></ruby>: to pay.
 - <ruby>[交付](../words/交付.md)<rt>ㄍ⼄ㄨㄈㄨ</rt></ruby>: delivery, grant, to pay, hand over — a bureaucratic register of [[支付]].
+- <ruby>[納](../words/納.md)<rt>ㄋㄚㄆ</rt></ruby>: to receive, accept, take in — by extension "to pay dues, submit (a payment)" from the payer's own side (納税, "to pay taxes," see [[税金]] on [[Government]]).
 - <ruby>[取得](../words/取得.md)<rt>ㄑㄛㄨㄊㄜㄎ</rt></ruby>: to gain, acquire.
 - <ruby>[租金](../words/租金.md)<rt>ㄐㄜㄍㄧㄇ</rt></ruby>: rent — the rental fee.
 - <ruby>[賃](../words/賃.md)<rt>ㄋㄧㄇ</rt></ruby>: rent — a bound near-synonym of [[租金]].
