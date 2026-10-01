@@ -105,6 +105,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[人道](../words/人道.md)<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby>: humane, humanitarian (人道主義, "humanitarianism") — literally "the proper way for humans," parallel to 天道/地道.
+- <ruby>[令色](../words/令色.md)<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby>: flattering looks, a sycophantic expression — the insincere counterfeit of the genuine virtues above, from the Analects' 巧言令色，鮮矣仁 ("fine words and an ingratiating face — such men are seldom truly benevolent").
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].

@@ -21,6 +21,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[犯罪](../words/犯罪.md)<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby>: crime.
 - <ruby>[警察](../words/警察.md)<rt>ㄍ⼶ㄫㄑㄚㄊ</rt></ruby>: police.
 - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby>: prison, jail (also <ruby>[牢獄](../words/牢獄.md)<rt>ㄌㄚㄨ⼄ㄎ</rt></ruby>, an independently attested synonym).
+- <ruby>[令圄](../words/令圄.md)<rt>ㄌㄝㄫ⼄</rt></ruby>: prison — the classical/literary register (囹圄), another near-synonym of [[監獄]]/[[牢獄]].
 - <ruby>[規定](../words/規定.md)<rt>ㄍㄨㄧㄐㄝㄫ</rt></ruby>: a rule, regulation, provision.
 - <ruby>[循](../words/循.md)<rt>ㄙ⼜ㄋ</rt></ruby>: to obey, abide by.
 - <ruby>[権威](../words/権威.md)<rt>ㄍ⼔ㄋ·ㄛㄧ</rt></ruby>: authority.

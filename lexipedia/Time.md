@@ -38,6 +38,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 ### Sequence & Succession
 
 - <ruby>[後](../words/後.md)<rt>ㄏㄨㄛ</rt></ruby>: after.
+- <ruby>[以後](../words/以後.md)<rt>ㄧㄏㄛㄨ</rt></ruby>: after that, from now on, thenceforth — used both after a specific reference point (三点以後, "after three o'clock") and standalone at a clause's start.
 - <ruby>[予様](../words/予様.md)<rt>⼄·⼘ㄫ</rt></ruby>: beforehand, in advance — [[後]]'s temporal counterpart; a Dan'a'yo-internal coinage, since each daughter language reaches for its own real native/Sino word rather than a shared calque of these two characters.
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].

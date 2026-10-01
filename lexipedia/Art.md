@@ -24,6 +24,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[観覧](../words/観覧.md)<rt>ㄍ⺢ㄋㄌㄚㄇ</rt></ruby>: to view, attend as a spectator (an exhibit, performance).
 - <ruby>[書本](../words/書本.md)<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby>, <ruby>[冊子](../words/冊子.md)<rt>ㄑㄚㄎㄐㄜ</rt></ruby>: book.
 - <ruby>[劇](../words/劇.md)<rt>ㄍㄝㄎ</rt></ruby>: drama, theatre (the art form).
+- <ruby>[仮面](../words/仮面.md)<rt>ㄍㄚ·ㄇ⼶ㄋ</rt></ruby>: a mask — theatrical/ceremonial, carrying the same figurative "concealing one's true nature" connotation across the Sinosphere.
 - <ruby>[俳優](../words/俳優.md)<rt>ㄅ⼶ㄨㄛ</rt></ruby>: actor.
 - <ruby>[演](../words/演.md)<rt>⼶ㄋ</rt></ruby>: to perform.
 - <ruby>[唱歌](../words/唱歌.md)<rt>ㄑ⺢ㄫㄍㄜ</rt></ruby>: to sing.

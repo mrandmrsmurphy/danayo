@@ -31,6 +31,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - or : <ruby>[或](../words/或.md)<rt>ㄏㄛㄎ</rt></ruby>
 - then : <ruby>[那](../words/那.md)<rt>ㄋㄚ</rt></ruby>
 - therefore, so, consequently, thus : <ruby>[焉](../words/焉.md)<rt>ㄝㄋ</rt></ruby>, <ruby>[所以](../words/所以.md)<rt>ㄙㄜㄧ</rt></ruby>
+- in order that, so as to (introduces a purpose clause) : <ruby>[以便](../words/以便.md)<rt>ㄧㄅ⼶ㄋ</rt></ruby>
 - while, during, at the time of : <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>
 - because, else, nor, though, unless: not yet coined.
 - linker/conjunction (general term) : <ruby>[連接詞](../words/連接詞.md)<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby>, <ruby>[接続助詞](../words/接続助詞.md)<rt>ㄐㄛㄆㄙ⼄ㄎㄐㄛㄙㄚ</rt></ruby> (conjunctive particle)
@@ -138,6 +139,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[関詞](../words/関詞.md)<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, relational particle"
 - <ruby>[介詞](../words/介詞.md)<rt>ㄍ⼶ㄙㄚ</rt></ruby> "adposition (preposition/postposition), the grammatical category linking a noun phrase to its clause"
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
+- on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
@@ -173,6 +175,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
 - alphabet
 	- <ruby>[文字](../words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> = writing system
+- substitute character (one pressed into service in place of another, absent/rare/unavailable one) : <ruby>[代用字](../words/代用字.md)<rt>ㄉㄚㄧ⼄ㄫㄐㄧ</rt></ruby>
 	- <ruby>[字母](../words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> = letter, grapheme
 - dictionary <ruby>[字典](../words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>
 
