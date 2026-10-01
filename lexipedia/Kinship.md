@@ -145,6 +145,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[孤児院](../words/孤児院.md)<rt>ㄍㄛㄝㄧ⼔ㄋ</rt></ruby>: an orphanage.
 - <ruby>[主婦](../words/主婦.md)<rt>ㄐㄨㄅ⼜</rt></ruby>: a housewife — literally "the main woman [of the household]."
 - <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, a maidservant.
+- <ruby>[保母](../words/保母.md)<rt>ㄅㄚㄨㄇㄛㄨ</rt></ruby>: a governess, nanny, babysitter — a professional child-caregiver, distinct from [[養育]]'s own act of fostering/raising.
 - <ruby>[孝道](../words/孝道.md)<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby>: filial piety, filial duty.
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.

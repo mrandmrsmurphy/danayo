@@ -57,6 +57,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[征伐](../words/征伐.md)<rt>ㄐㄝㄫㄈㄝㄊ</rt></ruby>: to conquer, subjugate.
 - <ruby>[侵犯](../words/侵犯.md)<rt>ㄑㄧㄇㄅㄚㄇ</rt></ruby>: to intrude upon, violate, invade.
 - <ruby>[侵略](../words/侵略.md)<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby>: to invade — an undocumented near-duplicate of [[侵犯]].
+- <ruby>[侵入](../words/侵入.md)<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby>: to invade, trespass, intrude — framing unwelcome entry itself as violation (crossing a border, breaching a system), a related but distinct nuance from [[侵犯]]/[[侵略]]'s own act of invading.
 
 "Attack," "battle," "combat," "raid," "revolt," "spy," and "weapon" (generic) are all primarily housed on [Conflict](../lexipedia/Conflict.md) — see that page's own Weapons, Combat & Tactics, Espionage, and Rebellion & Upheaval sections.
 

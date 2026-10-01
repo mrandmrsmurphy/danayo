@@ -23,6 +23,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
+- <ruby>[便宜](../words/便宜.md)<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby>: cheap, inexpensive (in Mandarin/Cantonese) — a genuine cross-linguistic heteronym: the same compound means "convenience, expediency" in Japanese/Korean instead, not "cheap" at all.
 - <ruby>[費](../words/費.md)<rt>ㄈㄚㄧ</rt></ruby>: an expense, a cost — also, as a verb, "to spend, to waste" (浪費, "to waste"; 費用, "expense, cost").
 
 **Not yet coined**: "account," "deal," "due," and "offer" all have no dedicated Dan'a'yo word yet.

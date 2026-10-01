@@ -75,6 +75,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 
 - <ruby>[忽然](../words/忽然.md)<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden.
 - <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden — an undocumented near-duplicate of [[忽然]].
+- <ruby>[俄然](../words/俄然.md)<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby>: suddenly — a third undocumented near-duplicate alongside [[忽然]]/[[突然]].
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]]. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[促](../words/促.md)<rt>ㄑㄛㄎ</rt></ruby>: to hurry. See [Movement](../lexipedia/Movement.md) for its own citation there.
@@ -121,7 +122,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 
 ## Semantic Range Notes
 
-**This page turned up an unusually large cluster of undocumented near-duplicate pairs**: [[忽然]]/[[突然]] ("sudden") and [[急速]]/[[迅速]] ("swift, rapid") are both near-identical pairs with no recorded distinction, the same treatment given to other such pairs elsewhere in this vault.
+**This page turned up an unusually large cluster of undocumented near-duplicates**: [[忽然]]/[[突然]]/[[俄然]] ("sudden") form a three-way near-identical group, and [[急速]]/[[迅速]] ("swift, rapid") a pair, with no recorded distinction within either, the same treatment given to other such clusters elsewhere in this vault.
 
 **"Present" required splitting into six genuinely distinct words** rather than one — attendance ([[出席]]), the bound adjective ([[現]]), immediacy ([[目前]] vs. [[現在]]), displaying ([[提示]]), and gifting ([[贈与]]/[[献上]]) are all real, separate senses of the English word, not an invented distinction.
 
