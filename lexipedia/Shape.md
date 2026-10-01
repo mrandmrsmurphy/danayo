@@ -100,6 +100,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: an edge, border. See [Directions](../lexipedia/Directions.md) for its own citation there.
 - <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: a limit. See [Law](../lexipedia/Law.md) for its own citation there.
 - <ruby>[部分](../words/部分.md)<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby>: a part, portion.
+- <ruby>[片](../words/片.md)<rt>ㄆㄝㄋ</rt></ruby>: a slice, flake — a thin flat piece, distinct from [[塊]]'s solid chunk; also one of [[Food]]'s own cutting-style morphemes (片, "sliced").
 - <ruby>[一体](../words/一体.md)<rt>ㄧㄊㄊㄝㄧ</rt></ruby>: an organic whole, unity — [[部分]]'s structural counterpart, things functioning as one rather than a mere assemblage; distinct from [[全体]]'s quantitative "all of it, the entirety" (not yet placed).
 - <ruby>[特点](../words/特点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a feature, characteristic, trait.
 - <ruby>[斑点](../words/斑点.md)<rt>ㄅㄚㄋㄉㄝㄇ</rt></ruby>: a spot, speck.

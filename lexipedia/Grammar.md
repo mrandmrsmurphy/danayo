@@ -57,6 +57,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 
 ### Particles
 - as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>
+- yes (formal affirmative answer) : <ruby>[爾](../words/爾.md)<rt>ㄋㄝ</rt></ruby> — [[否]]'s direct counterpart, below.
 - no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>
@@ -143,6 +144,8 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
+- <ruby>[為](../words/為.md)<rt>⼔ㄋ</rt></ruby> "for, because of, to act as, namely (co-verb: 因為, 'because'; 為了, 'in order to') — not the same as the still-uncoined clause-linking conjunction 'because,' above"
+- <ruby>[然](../words/然.md)<rt>ㄋ⼶ㄋ</rt></ruby> "so; bound manner-adverb suffix ('-ly,' in a certain manner): 自然, 'naturally'; 忽然, 'suddenly' — distinct from [[焉]]/[[所以]]'s causal 'therefore,' above"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
