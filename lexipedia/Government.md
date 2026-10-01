@@ -10,11 +10,12 @@ date-last-perfect: 2026-09-28
 
 # Government
 
-Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, prince, queen, rank as a general noun, responsible, royal, serve, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. "To rule" and "to preside" are now covered by [[主宰]], below.
+Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, prince, queen, rank as a general noun, responsible, royal, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. "To rule" and "to preside" are now covered by [[主宰]], and "to serve" by [[伺候]], below.
 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[政治](../words/政治.md)<rt>ㄐㄧㄫㄑㄧ</rt></ruby>: politics.
+- <ruby>[体制](../words/体制.md)<rt>ㄊㄝㄧㄐㄝㄧ</rt></ruby>: a system, regime, governing structure.
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
 - <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>: empire.
 - <ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby>: administration, government, the executive.
@@ -50,6 +51,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
 - <ruby>[七事](../words/七事.md)<rt>ㄑㄧㄊㄐㄧ</rt></ruby>: the Seven Duties of a Sovereign — a classical/historical canonical list (offering sacrifice, giving audience, administering jointly, receiving guests, running the army, attending to farm work, and mourning ceremonies).
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
+- <ruby>[侯](../words/侯.md)<rt>ㄏㄛㄨ</rt></ruby>: a marquis — the second-highest of the Five Ranks of Nobility (五等爵), below duke (uncoined) and above [[伯爵]]; also "aristocrat, nobleman" more generally.
 - <ruby>[伯爵](../words/伯爵.md)<rt>ㄅㄚㄎㄐㄚㄎ</rt></ruby>: an earl, count.
 - <ruby>[卿](../words/卿.md)<rt>ㄎ⼶ㄫ</rt></ruby>: a noble, high officer, sir, m'lord.
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).
@@ -131,6 +133,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[弒君](../words/弒君.md)<rt>ㄊㄧㄍㄨㄋ</rt></ruby>: regicide, to assassinate a ruler.
 - <ruby>[辞任](../words/辞任.md)<rt>ㄑㄧ·ㄋㄧㄇ</rt></ruby>: to resign from office.
 - <ruby>[諌議](../words/諌議.md)<rt>ㄍ⼘ㄋㄜㄧ</rt></ruby>, <ruby>[輔佐](../words/輔佐.md)<rt>ㄅㄨㄐㄚ</rt></ruby>, <ruby>[輔弼](../words/輔弼.md)<rt>ㄅㄨㄅㄧㄊ</rt></ruby>: to remonstrate, admonish, or assist a ruler.
+- <ruby>[伺候](../words/伺候.md)<rt>ㄙㄧㄏㄛㄨ</rt></ruby>: to wait upon, serve, attend to a master or superior — now covers this domain's own flagged "to serve" gap.
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.
 
@@ -149,7 +152,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, a prince, a queen, a rank (general noun), responsible, royal, to serve, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward. ("To preside" and "to rule" are now covered by [[主宰]].)
+Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, a prince, a queen, a rank (general noun), responsible, royal, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward. ("To preside" and "to rule" are now covered by [[主宰]]; "to serve" by [[伺候]].)
 
 ## Advanced / Specialized (C1+)
 

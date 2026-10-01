@@ -134,6 +134,7 @@ language: English
   - **Note**: 窓口 is the Dan'a'yo word for "window" itself — the stand-in compound that legitimizes the bound character 窓 ("window"), unlike Japanese/Chinese where the cognate compound's everyday sense has drifted to "service window/counter."
 - attic - *(no clean consensus — structured differently across all three)*
 - basement - <ruby>[地下室](../words/地下室.md)<rt>ㄉㄧㄜㄏㄚㄙㄧㄊ</rt></ruby> — full three-way exact match: identical compound in Mandarin, Japanese ちかしつ, and Korean 지하실
+- break room, lounge - <ruby>[休息室](../words/休息室.md)<rt>ㄏ⼜ㄙㄧㄎㄙㄧㄊ</rt></ruby>
 - closet - *(no clean consensus — Mandarin/Korean share a loose "wall-cabinet" idea but use different characters)*
 - vestibule - [[玄關]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese げんかん (the well-known shoe-removal entryway), and Korean 현관. Not yet a word page.)*
 - balcony - *(no CJKV consensus — Japanese and Korean both use English loanwords for this concept entirely)*

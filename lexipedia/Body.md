@@ -179,6 +179,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>: to hang over, overhang.
 - <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
 - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>: to sit.
+- <ruby>[佇立](../words/佇立.md)<rt>ㄐㄛㄌㄧㄆ</rt></ruby>: to stand still, motionless, often lost in thought or waiting — a specific literary posture-verb, not the same as the still-uncoined plain "to stand" below.
 - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
 - <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).

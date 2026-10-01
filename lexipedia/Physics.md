@@ -38,6 +38,7 @@ Physics vocabulary covers temperature, weight, and the material substance of thi
 ### Matter & Substance
 
 - <ruby>[物理](../words/物理.md)<rt>ㄇㄨㄊㄌㄧ</rt></ruby>: physics, the science — also, in an older and more literary register, "the nature/principle of things" generally, the closest sense to the adjective "physical."
+- <ruby>[位相](../words/位相.md)<rt>⼔ㄧㄙㄚㄫ</rt></ruby>: phase — a wave or periodic function's position within its cycle (位相差, "phase difference").
 
 ## Advanced / Specialized (C1+)
 

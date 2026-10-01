@@ -68,6 +68,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 - <ruby>[議員](../words/議員.md)<rt>ㄜㄧㄨㄋ</rt></ruby>: a member of Parliament, congressman.
 - <ruby>[乗員](../words/乗員.md)<rt>ㄙㄨㄫㄨㄋ</rt></ruby>: a crew, crew member.
 - <ruby>[人員](../words/人員.md)<rt>ㄋㄧㄋ·ㄨㄋ</rt></ruby>: staff, personnel, employee — the general headcount/roster sense, broader than [[会員]]'s formal organizational membership.
+- <ruby>[会社員](../words/会社員.md)<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby>: an office worker, company employee — [[会社]] "company" + 員, naming a specific employment role rather than [[会員]]'s general organizational membership.
 - <ruby>[個](../words/個.md)<rt>ㄍㄜ</rt></ruby>: individual items (a measure word). See Semantic Range Notes.
 - <ruby>[主幹](../words/主幹.md)<rt>ㄐㄨㄍㄚㄋ</rt></ruby>: a trunk, core (of an organization).
 

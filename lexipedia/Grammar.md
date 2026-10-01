@@ -142,6 +142,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
+- <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
