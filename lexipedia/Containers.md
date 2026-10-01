@@ -44,6 +44,8 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 
 - <ruby>[鞄](../words/鞄.md)<rt>ㄆㄚㄎ</rt></ruby>: a bag, luggage.
 - <ruby>[桶](../words/桶.md)<rt>ㄊㄛㄫ</rt></ruby>: a pail, bucket, tub, cask, keg.
+- <ruby>[盆](../words/盆.md)<rt>ㄆㄨㄋ</rt></ruby>: a basin, wide shallow tub or pot — distinct from [[桶]]'s own deeper pail/bucket shape.
+- <ruby>[盤](../words/盤.md)<rt>ㄅㄚㄋ</rt></ruby>: a tray, flat dish — also a productive root for any flat board or disc (棋盤, "chessboard"; 羅盤, "compass").
 - <ruby>[筐](../words/筐.md)<rt>ㄎ⺢ㄫ</rt></ruby>, <ruby>[籠](../words/籠.md)<rt>ㄌㄛㄫ</rt></ruby>: a basket.
 - <ruby>[貝殻](../words/貝殻.md)<rt>ㄅㄚㄧㄎㄚㄎ</rt></ruby>: a seashell, shell.
 

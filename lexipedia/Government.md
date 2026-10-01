@@ -91,6 +91,10 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[支部](../words/支部.md)<rt>ㄐㄝㄅㄛㄨ</rt></ruby>: a branch, chapter.
 - <ruby>[机関](../words/机関.md)<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby>: a machine, organ, organization.
 
+### Administrative Divisions
+
+- <ruby>[県](../words/県.md)<rt>ㄏ⼔ㄋ</rt></ruby>: a county, district, prefecture, subdivision — a mid-level administrative unit whose exact rank varies by country (a Japanese prefecture, a Mandarin county, a Vietnamese district).
+
 ### Permission & Prohibition
 
 - <ruby>[允許](../words/允許.md)<rt>⼜ㄋㄏ⼄</rt></ruby>, <ruby>[准許](../words/准許.md)<rt>ㄐㄨㄋㄏ⼄</rt></ruby>: to grant, allow.

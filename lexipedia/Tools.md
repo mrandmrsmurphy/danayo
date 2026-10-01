@@ -42,6 +42,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[鉗](../words/鉗.md)<rt>ㄍㄝㄇ</rt></ruby>: pliers.
 - <ruby>[鍬](../words/鍬.md)<rt>ㄑㄚㄨ</rt></ruby>: a shovel.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: a plow. See [Nature](../lexipedia/Nature.md) for its own citation there.
+- <ruby>[矩](../words/矩.md)<rt>ㄎ⼄</rt></ruby>: a carpenter's square, a drafting tool for right angles — by extension, "a standard, rule" (規矩, "compass and square," i.e. proper conduct) and, in modern physics/math, "moment" (力矩, torque) and "quadrature."
 
 ### Fasteners & Mechanisms
 
