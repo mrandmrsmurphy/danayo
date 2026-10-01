@@ -5,6 +5,7 @@ domain: Shape
 related_domains:
   - "[[Dimensions]]"
   - "[[Directions]]"
+  - "[[Tools]]"
 status: partial
 ---
 

@@ -11,6 +11,7 @@ related_domains:
   - "[[Conflict]]"
   - "[[Movement]]"
   - "[[Speech]]"
+  - "[[Tools]]"
 status: complete
 date-last-perfect: 2026-09-29
 ---
