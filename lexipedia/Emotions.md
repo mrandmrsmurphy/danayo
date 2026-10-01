@@ -148,6 +148,7 @@ Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, deli
 - <ruby>[振](../words/振.md)<rt>ㄐㄧㄋ</rt></ruby>: to shake; to excite, rouse (figurative).
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby>: mood.
 - <ruby>[衷情](../words/衷情.md)<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby>: heartfelt emotion, inner feelings.
+- <ruby>[七情](../words/七情.md)<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby>: the Seven Emotions — a foundational East Asian philosophical/medical enumeration of basic emotional states, with the exact seven differing by tradition (Confucian, Buddhist, TCM); central to Korea's Four-Seven Debate.
 - <ruby>[憂慮](../words/憂慮.md)<rt>⼜ㄌ⼄</rt></ruby>, <ruby>[焦思](../words/焦思.md)<rt>ㄐㄛㄨㄙㄚ</rt></ruby>: to worry, be anxious.
 - <ruby>[憫](../words/憫.md)<rt>ㄇㄧㄋ</rt></ruby>: pity (formal/literary register).
 

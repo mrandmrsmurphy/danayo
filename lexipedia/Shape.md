@@ -37,6 +37,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 
 - <ruby>[三角形](../words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>: a triangle — the clean geometric noun.
 - <ruby>[三角](../words/三角.md)<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby>: a triangle — an undocumented near-duplicate of [[三角形]], the bare compositional form.
+- <ruby>[七角形](../words/七角形.md)<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby>: a heptagon.
 - <ruby>[塊](../words/塊.md)<rt>ㄎㄛㄧ</rt></ruby>: a lump, piece, chunk, clump — also directly covers "piece" and "block" (a solid chunk), since no separate word for either exists.
 - <ruby>[立方体](../words/立方体.md)<rt>ㄌㄧㄆㄈㄚㄫㄊㄝㄧ</rt></ruby>: a cube — literally "standing-square body," the solid geometric shape with six equal square faces.
 - <ruby>[柱](../words/柱.md)<rt>ㄐㄨ</rt></ruby>: a pillar — covers "column" alongside [[杆]]'s "pole/rod."

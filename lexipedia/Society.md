@@ -222,6 +222,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[運動家](../words/運動家.md)<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>: an athlete. See Semantic Range Notes.
 - <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to award, confer, grant. See Semantic Range Notes.
 - <ruby>[牌](../words/牌.md)<rt>ㄅㄚㄧ</rt></ruby>: a playing card, tile.
+- <ruby>[七対子](../words/七対子.md)<rt>ㄑㄧㄊㄉㄛㄧㄐㄜ</rt></ruby>: Seven Pairs — a specific, named mahjong hand.
 - <ruby>[賭博](../words/賭博.md)<rt>ㄉㄛㄅㄚㄎ</rt></ruby>: to gamble, bet.
 - <ruby>[競争](../words/競争.md)<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>: to compete.
 - <ruby>[角逐](../words/角逐.md)<rt>ㄍㄛㄎㄉㄨㄎ</rt></ruby>: to compete, contend for (more formal register).

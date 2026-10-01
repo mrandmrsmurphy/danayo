@@ -54,6 +54,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[鸚哥](../words/鸚哥.md)<rt>ㄚㄫㄍㄜ</rt></ruby>: parakeet, parrot — a near-synonym of 鸚鵡 above, distinguished by size rather than a firm species boundary.
 - <ruby>[雁](../words/雁.md)<rt>ㄚㄋ</rt></ruby>: wild goose.
 - <ruby>[鵝鳥](../words/鵝鳥.md)<rt>ㄚㄑㄛㄨ</rt></ruby>: domestic goose.
+- <ruby>[七面鳥](../words/七面鳥.md)<rt>ㄑㄧㄊㄇ⼶ㄋㄑㄛㄨ</rt></ruby>: turkey — named for its wattle's color-changing "seven faces"; a New World domesticate, outside the classical six-animal set above.
 - <ruby>[鴛鴦](../words/鴛鴦.md)<rt>ㄛㄋ·ㄚㄫ</rt></ruby>: mandarin duck — a classical symbol of marital fidelity, since the species is popularly (if inaccurately) believed to mate for life.
 - <ruby>[鴻鵠](../words/鴻鵠.md)<rt>ㄏㄛㄫㄏㄛㄎ</rt></ruby>: swan, wild swan.
 - <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
