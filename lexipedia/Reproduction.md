@@ -15,12 +15,13 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 
 - <ruby>[性別](../words/性別.md)<rt>ㄙㄧㄫㄅㄝㄊ</rt></ruby>: sex, gender.
 - <ruby>[雌性](../words/雌性.md)<rt>ㄑㄝㄙㄧㄫ</rt></ruby>: female (biological sex, of animals/plants).
+- <ruby>[雄](../words/雄.md)<rt>ㄨㄫ</rt></ruby>: manly, male — [[雌性]]'s direct counterpart, resolving this page's own previously-flagged "male" gap.
 - <ruby>[性交](../words/性交.md)<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby>: to have sex, copulate — a clinical/formal register; no crude or slang equivalent exists in this vault.
 - <ruby>[交接](../words/交接.md)<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>: to have intercourse — a euphemistic extension of this word's primary literal sense, "to link, join, connect" (e.g. Vietnamese giao tiếp, "to communicate").
 - <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal/literary euphemistic/anatomical compound, an undocumented near-synonym of [[交接]] and the clinical [[性交]].
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, to be pregnant — see [Body](../lexipedia/Body.md) for its own citation there.
 
-**Not yet coined**: "male" (the biological-sex counterpart to [[雌性]]) is a striking, specific gap — this vault documents the female biological-sex term but not its counterpart. "Fuck" (the crude verb) is likewise uncoined; only the clinical [[性交]] exists.
+**Not yet coined**: "Fuck" (the crude verb) is uncoined; only the clinical [[性交]] exists. ("Male," the biological-sex counterpart to [[雌性]], is now covered by [[雄]], above.)
 
 ## Intermediate (B1–B2)
 
@@ -57,7 +58,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 
 **"Bondage" is now resolved by [[緊縛]], not the tempting false-match candidate that was excluded earlier.** [[奴家]], which also glosses "bondage," means servitude/slavery in its literal sense — and in later vernacular Mandarin and Ming–Qing drama became a fossilized first-person pronoun used by women ("I, me"), carrying no sexual sense at all in either register; it remains excluded. [[緊縛]] instead names the real, internationally-known rope-bondage art form (Japanese kinbaku/shibari), and is treated as equivalent to the more purely Chinese-register 綁縛 — a word this vault cannot yet independently create, since its first character (綁) has no character page here at all.
 
-**The female/male biological-sex pair is asymmetric.** [[雌性]] ("female") has a dedicated word; no counterpart "male" word exists in this vault, a specific and checkable gap rather than an assumption.
+**The female/male biological-sex pair is now complete.** [[雌性]] ("female") and [[雄]] ("male") are direct counterparts — a gap this page once flagged as specific and checkable, now closed.
 
 ## See Also
 

@@ -155,6 +155,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh, novel.
 - <ruby>[鮮美](../words/鮮美.md)<rt>ㄙ⼶ㄇㄇㄧ</rt></ruby>: delicious, tasty.
 - <ruby>[摂食](../words/摂食.md)<rt>ㄋㄝㄆㄙㄧㄎ</rt></ruby>: to feed, ingest.
+- <ruby>[飽](../words/飽.md)<rt>ㄅ⼘ㄨ</rt></ruby>: sated, full, satisfied (after eating) — see also 飽和, "saturation," in a technical register.
 - <ruby>[喫](../words/喫.md)<rt>ㄎㄝㄎ</rt></ruby>: to devour, ingest.
 - <ruby>[大食](../words/大食.md)<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby>: to binge eat.
 - <ruby>[暴飲](../words/暴飲.md)<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby>: to binge drink.

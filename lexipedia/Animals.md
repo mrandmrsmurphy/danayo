@@ -61,6 +61,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
 - <ruby>[猛禽](../words/猛禽.md)<rt>ㄇㄚㄫㄎㄧㄇ</rt></ruby>: bird of prey.
+- <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.
 - <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.

@@ -34,6 +34,8 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[火山](../words/火山.md)<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby>: a volcano.
 - <ruby>[霧](../words/霧.md)<rt>ㄇㄨ</rt></ruby>: fog, mist.
 - <ruby>[雷](../words/雷.md)<rt>ㄌㄛㄧ</rt></ruby>: thunder.
+- <ruby>[露](../words/露.md)<rt>ㄌㄛ</rt></ruby>: dew.
+- <ruby>[颯](../words/颯.md)<rt>ㄙㄚㄆ</rt></ruby>: the sound of wind, a gale — by extension, a brisk, vigorous manner (颯爽, "dashing, spirited").
 
 **Not yet coined or excluded as false matches**: "cave" and "garden" have Intermediate-tier words only (see below); "yard" (a home's own plot of land), "plow," "sow," "crop," and "sleet" all have no dedicated word. [[碼]] also glosses "yard," but only as the Western length unit (see [[Measurement]]), not a plot of land. "Hail" (the weather) is [[雨包]] (Intermediate, below); [[歓呼]], which also glosses "hail," means to cheer or greet (as in "hail Caesar"), not the weather. "Field" (open countryside) is [[田野]] (above); [[球場]], which also glosses "field," means a sports field or stadium, an unrelated sense. "Wild" (untamed wilderness) has no dedicated word; [[奔放]], which glosses "wild," describes an unrestrained *personality*, not untamed land. "Plain" (flat grassland) has no exact dedicated word, though [[草原]] (Intermediate, below) covers the closely related savanna/steppe sense; [[普通]] and [[清淡]], which also gloss "plain," mean "ordinary" and "bland" respectively, unrelated senses.
 

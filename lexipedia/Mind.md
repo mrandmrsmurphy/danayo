@@ -144,6 +144,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 #### Comparison & Classification
 
 - <ruby>[彙](../words/彙.md)<rt>ㄏㄨ</rt></ruby>: a category, class.
+- <ruby>[雑](../words/雑.md)<rt>ㄐㄚㄆ</rt></ruby>: miscellaneous, mixed, assorted — the opposite pole from a clean single category, highly productive in compounds (雑誌, "magazine").
 - <ruby>[般](../words/般.md)<rt>ㄅㄚㄋ</rt></ruby>: a category, kind, sort — the bound root behind [[一般]] ("general," on [[Existence]]), and the classical "this kind/that kind" (這般/那般).
 - <ruby>[対照](../words/対照.md)<rt>ㄉㄛㄧㄐㄛㄨ</rt></ruby>: to contrast, compare, cross-reference — sharper and more pointed than the plain [[比較]].
 - <ruby>[不及](../words/不及.md)<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby>: to not measure up to, be inferior to — the classical comparative "A不及B" structure (Analects); also carries temporal ("too late," 來不及) and physical ("fall short of a target") senses in set expressions.

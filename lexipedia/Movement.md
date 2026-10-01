@@ -94,6 +94,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[跳躍](../words/跳躍.md)<rt>ㄊㄛㄨ⼘ㄎ</rt></ruby>: to jump, leap.
 - <ruby>[奔騰](../words/奔騰.md)<rt>ㄅㄛㄋㄉㄜㄫ</rt></ruby>: to jump, soar, skyrocket — figurative (prices, fortunes), not a physical body leaping.
 - <ruby>[奔馳](../words/奔馳.md)<rt>ㄅㄛㄋㄑㄜ</rt></ruby>: to gallop, run, speed — a horse or vehicle at full speed, more intense than plain [[走]].
+- <ruby>[馳](../words/馳.md)<rt>ㄑㄜ</rt></ruby>: to run fast, drive quickly — the bound root behind [[奔馳]] above.
 - <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race — see [[Society]] for its own citation there.
 
 ### Entering, Capturing & Camping

@@ -25,6 +25,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 
 - <ruby>[将兵](../words/将兵.md)<rt>ㄐ⺢ㄫㄅ⼶ㄫ</rt></ruby>: an army.
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby>: troops, ranks — originally a file of five soldiers, the basic unit of ancient Chinese military organization; also serves as 五's anti-forgery financial numeral (see [Numbers](../lexipedia/Numbers.md) for its own citation there).
+- <ruby>[隊](../words/隊.md)<rt>ㄉㄛㄧ</rt></ruby>: a group, team, unit (部隊, "military unit"; 軍隊, "armed forces") — covers general military unit/team territory, though not a precise equivalent of "squad" specifically, which remains uncoined below.
 - <ruby>[兵卒](../words/兵卒.md)<rt>ㄅ⼶ㄫㄐㄨㄊ</rt></ruby>: a soldier — a near-synonym of [[軍人]].
 - <ruby>[兵士](../words/兵士.md)<rt>ㄅ⼶ㄫㄙㄚㄧ</rt></ruby>: a soldier — another near-synonym of [[軍人]].
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
