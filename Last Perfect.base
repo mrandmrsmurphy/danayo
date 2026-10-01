@@ -7,12 +7,13 @@ views:
       - 羅馬字
       - 諺文
       - date-last-perfect
+      - lexipedia
       - english
       - file.mtime
       - file.folder
     sort:
       - property: date-last-perfect
-        direction: ASC
+        direction: DESC
       - property: file.mtime
         direction: DESC
       - property: joyo_level
@@ -34,6 +35,6 @@ views:
       note.注音: 97
       note.羅馬字: 106
       note.諺文: 62
+      note.lexipedia: 134
       note.english: 188
       file.mtime: 201
-      note.danayo_id: 67

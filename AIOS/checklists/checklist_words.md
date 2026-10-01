@@ -43,6 +43,8 @@ hsk_level: "2"         # HSK level as a quoted string, if the word appears in HS
 swadesh: number          # only present if this is a Swadesh-list word
 aliases:               # simplified, traditional, or alternate orthographic forms
   - 今周
+lexipedia:             # structured mirror of the "- See [Domain]" Notes bullet below — one entry per domain page this word appears on
+  - DomainName
 ```
 
 ### `date-last-perfect`
@@ -121,6 +123,8 @@ After the notes, if there are multiple definitions, they should be listed in a n
 A word being newly perfected (or re-touched for any other reason) must **link into at least one `lexipedia/` domain page** — i.e. appear as an entry on a page like `lexipedia/Metals.md` or `lexipedia/Numbers.md`, placing it within a semantic field rather than leaving it a free-floating translation. If no domain page exists yet for the word's field, add the word to the nearest existing page it plausibly belongs to, or note in the word's own `## Notes` that it awaits a domain page rather than skipping the requirement silently.
 
 **Format**: a standalone bullet at the end of `## Notes`, after the substantive paragraphs: `- See [DomainName](../lexipedia/DomainName.md).` — established 2026-09-18 while backfilling all 70 words linked from [[lexipedia/Numbers]]. Use the real relative path with `../lexipedia/`, not a bare `lexipedia/DomainName.md` — several older organic backlinks in the corpus are missing the `../` and silently resolve to a nonexistent `words/lexipedia/` path; don't copy that mistake.
+
+**Also add the structured `lexipedia:` frontmatter field** (list form, one entry per domain — see Frontmatter above), added 2026-09-30 so domain placement is queryable via Obsidian Bases. This supplements the Notes bullet rather than replacing it — keep both in sync when a word's placement changes.
 
 The point of this isn't bookkeeping — it's semantic. See [[AIOS/memory/feedback_lexipedia_semantic_differentiation.md]]. Placing a word within a semantic field is the occasion to ask whether Dan'a'yo's own sense of the word should **narrow, shift, or broaden** relative to the meaning shared across Mandarin/Cantonese/Japanese/Korean/Vietnamese — the CJKV/"international" baseline. Most words won't need this; a plain shared meaning is fine and normal. But when the lexipedia domain reveals a genuine reason to diverge (a collision with a neighboring word in the same field, a gap the domain needs filled, an opportunity to make Dan'a'yo function on its own terms rather than as a transliteration), state that Dan'a'yo-specific sense explicitly as part of the word's `## Notes` prose — don't just note it on the lexipedia page and leave the word page itself silent. Don't invent a divergence that isn't real just to satisfy this bullet; an honest "same as the shared CJKV sense" is correct far more often than not.
 

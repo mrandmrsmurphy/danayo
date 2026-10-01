@@ -14,6 +14,8 @@ kwin: false
 date-last-perfect: 2026-09-09
 tags:
   - word
+lexipedia:
+  - Grammar
 ---
 >[!tip] This is a page about the word 不亦V乎.
 > For the characters, see [不](/characters/不%20(char).md), [亦](/characters/亦%20(char).md), and [乎](/characters/乎%20(char).md).

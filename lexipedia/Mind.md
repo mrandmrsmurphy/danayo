@@ -170,6 +170,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[道理](../words/道理.md)<rt>ㄉㄚㄨㄌㄧ</rt></ruby>: logic, method, principle — looser and more common-sense than the formal [[論理]]; see [[Knowledge]] for its own citation there.
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze; analysis — see [[Knowledge]] for its own citation there.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze; analysis — an undocumented near-duplicate of [[分析]]; see [[Knowledge]] for its own citation there.
+- <ruby>[䋇](../words/䋇.md)<rt>⼶ㄎ</rt></ruby>: to deduce, unravel, explain step by step — the core sense behind 演繹 (yǎnyì, "deduction"), the formal counterpart to induction; rare outside that compound in every daughter language.
 
 #### Condition & Situation
 
@@ -196,7 +197,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[命令](../words/命令.md)<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby>: a decree, order, command — "order" as a command, distinct from [[整理]]'s "order" as arrangement.
 - <ruby>[主旨](../words/主旨.md)<rt>ㄐㄨㄐㄧㄜ</rt></ruby>: a purpose, point, gist.
 
-**Not yet coined**: "deduce," "imply," "induction," "nonsense," and "fallacy" all have no dedicated Dan'a'yo word yet — a real gap in this vault's formal-logic vocabulary specifically, as opposed to its practical-reasoning vocabulary ([[道理]], [[原因]]), which is well covered.
+**Not yet coined**: "imply," "induction," "nonsense," and "fallacy" all have no dedicated Dan'a'yo word yet — a real gap in this vault's formal-logic vocabulary specifically, as opposed to its practical-reasoning vocabulary ([[道理]], [[原因]]), which is well covered. "Deduce" itself is now filled by [[䋇]], above.
 
 ## Advanced / Specialized (C1+)
 
@@ -213,7 +214,7 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 
 **Undocumented near-duplicates are common across this domain, not rare**: [[了解]]/[[理解]] ("understand"), [[打算]]/[[擬]] ("intend, plan"), [[原因]]/[[因由]] ("reason, cause"), [[分析]]/[[解析]] ("analyze"), and [[謀]]/[[画策]] ("scheme") are each pairs that gloss the same core meaning with no distinction recorded in either word's own Notes. This is different from a *confirmed* split like [[意欲]]/[[欲望]] (mild motivation vs. visceral craving) or [[原因]]/[[理由]] (raw cause vs. reasoned justification), where the words' own citations or clearly different registers support a real difference. Treat the undocumented pairs the way [[親族]]/[[親戚]] are treated on [[Kinship]]: genuine duplicates most likely, not silently invented distinctions — flagged rather than papered over.
 
-**Analytical vocabulary is stronger in practical reasoning than in formal logic**: this vault has rich, well-differentiated vocabulary for cause-and-effect and justification ([[原因]], [[理由]], [[道理]]) and for comparison and classification (the whole Comparison & Classification cluster), but no dedicated words yet for the technical vocabulary of formal argument — "deduce," "imply," "induction," "fallacy." A learner can reason fluently about why something happened or how two things differ, but cannot yet name the structure of an argument as an argument.
+**Analytical vocabulary is stronger in practical reasoning than in formal logic**: this vault has rich, well-differentiated vocabulary for cause-and-effect and justification ([[原因]], [[理由]], [[道理]]) and for comparison and classification (the whole Comparison & Classification cluster), but still lacks most of the technical vocabulary of formal argument — "imply," "induction," "fallacy" ([[䋇]] now covers "deduce," above). A learner can reason fluently about why something happened or how two things differ, but cannot yet name the rest of the structure of an argument as an argument.
 
 **Several words earn their place here by a specific sense that is not their most common one**: [[彙]], [[等級]], and [[綱階]] all gloss "class," but only [[彙]] and [[等級]] are cited here — [[綱階]]'s sense is specifically biological taxonomic class, cited instead on [[Animals]]. Similarly, [[逆]]'s "opposite" is a minor sense beside its primary "rebellion, treason" (see the Comparison & Classification note above), and [[乱離]]'s "chaos" is specifically wartime upheaval, not disorder in the abstract — both cited elsewhere for their central meaning and mentioned here only for completeness.
 

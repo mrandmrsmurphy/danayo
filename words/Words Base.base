@@ -10,6 +10,7 @@ views:
       - 羅馬字
       - 注音
       - date-last-perfect
+      - lexipedia
       - english
       - pos
       - 諺文
@@ -38,9 +39,8 @@ views:
       - property: characters
         direction: ASC
     columnSize:
-      file.name: 133
-      note.羅馬字: 106
-      note.english: 245
-      note.品詞: 112
-      note.mandarin: 156
-      note.characters: 113
+      file.name: 62
+      note.羅馬字: 71
+      note.注音: 131
+      note.lexipedia: 126
+      note.english: 202
