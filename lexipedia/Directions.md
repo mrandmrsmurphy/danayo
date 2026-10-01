@@ -21,6 +21,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[中央](../words/中央.md)<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby>, <ruby>[中心](../words/中心.md)<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby>: center, middle.
 - <ruby>[中間](../words/中間.md)<rt>ㄐㄨㄫㄍㄚㄋ</rt></ruby>: middle, midway, intermediate — the in-between space or interval between two points, distinct from [[中心]]'s core/hub sense (中間人 "a middleman, intermediary").
 - <ruby>[枢紐](../words/枢紐.md)<rt>ㄑㄨ·ㄋ⼜ㄛ</rt></ruby>: a pivot, hub — the mechanical/figurative sense (a hinge-point, a crux), distinct from 中央/中心's literal spatial center.
+- <ruby>[軸](../words/軸.md)<rt>ㄉㄨㄎ</rt></ruby>: an axis, axle, pivot — the physical rotating-shaft sense, distinct from [[枢紐]]'s abstract hinge-point/crux.
 - <ruby>[下](../words/下.md)<rt>ㄏㄚ</rt></ruby>: down, under.
 - <ruby>[直](../words/直.md)<rt>ㄐㄧㄊ</rt></ruby>: straight, erect, aligned.
 - <ruby>[偏](../words/偏.md)<rt>ㄆ⼶ㄋ</rt></ruby>: slanted, tilted, off-center — [[直]]'s crooked counterpart; also figuratively "biased, partial" (偏見, "prejudice").
