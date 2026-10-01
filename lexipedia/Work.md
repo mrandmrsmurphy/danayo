@@ -60,6 +60,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 ### Labor & Institutions
 
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, work — the economic category (労動者, "a worker"; 労動力, "labor force").
+- <ruby>[人手](../words/人手.md)<rt>ㄋㄧㄋㄙ⼜</rt></ruby>: manpower, workforce — the headcount of available hands (人手不足, "insufficient manpower"), distinct from [[労動]]'s abstract economic category.
 - <ruby>[辛苦](../words/辛苦.md)<rt>ㄙㄧㄋㄎㄛ</rt></ruby>: toil, bitter hardship.
 - <ruby>[改](../words/改.md)<rt>ㄍㄚㄧ</rt></ruby>: to remake, to redo, to renew.
 - <ruby>[工場](../words/工場.md)<rt>ㄍㄛㄫㄐㄚㄫ</rt></ruby>: factory, workplace.

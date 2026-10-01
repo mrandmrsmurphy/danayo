@@ -17,6 +17,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 - <ruby>[社会](../words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>: society.
 - <ruby>[世間](../words/世間.md)<rt>ㄙㄝㄍㄚㄋ</rt></ruby>: the human world, society — leans literary/reflective in Chinese, but in Japanese せけん is a key culturally loaded concept, "the eyes of society" one feels watched and judged by (世間体 "public face," 世間知らず "naïve, unworldly").
+- <ruby>[人事](../words/人事.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: human affairs, the ways of the world — close in spirit to [[世間]]; also, in modern institutional usage, "human resources, personnel."
 - <ruby>[人民](../words/人民.md)<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby>: people, public, citizen.
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
@@ -102,6 +103,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[人道](../words/人道.md)<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby>: humane, humanitarian (人道主義, "humanitarianism") — literally "the proper way for humans," parallel to 天道/地道.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
@@ -143,6 +145,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Friendship, Mediation & Belonging
 
 - <ruby>[交友](../words/交友.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to make friends.
+- <ruby>[交遊](../words/交遊.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to socialize, form a wide social network — a true inherited Middle Chinese homophone of [[交友]] (already collapsed in Japanese too), but genuinely distinct in scope: a broad social network (交遊廣闊) rather than 交友's individual close bond.
+- <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — two sides interacting through proper etiquette, an undocumented near-synonym of [[交遊]].
 - <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
 - <ruby>[仲介](../words/仲介.md)<rt>ㄉㄨㄫㄍ⼶</rt></ruby>: a mediator, broker.
 - <ruby>[仲媒](../words/仲媒.md)<rt>ㄉㄨㄫㄇㄛㄧ</rt></ruby>: a matchmaker.
@@ -171,6 +175,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Honor, Fame & Reputation
 
 - <ruby>[名誉](../words/名誉.md)<rt>ㄇㄧㄫ⼄</rt></ruby>: honor, reputation.
+- <ruby>[人望](../words/人望.md)<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby>: popularity, being well-regarded by the people — narrower than [[名誉]], specifically being liked/trusted, not honor in the abstract.
 - <ruby>[勲](../words/勲.md)<rt>ㄏㄨㄋ</rt></ruby>: a meritorious deed, merit.
 - <ruby>[令聞](../words/令聞.md)<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby>: a good name, reputation (literary register).
 - <ruby>[光栄](../words/光栄.md)<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby>: honorable, glorious.

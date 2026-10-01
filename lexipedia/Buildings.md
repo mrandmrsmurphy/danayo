@@ -7,6 +7,8 @@ language: English
 - block - <ruby>[街区](../words/街区.md)<rt>ㄍ⼘ㄧㄎㄨ</rt></ruby>
 - bridge - <ruby>[橋](../words/橋.md)<rt>ㄍ⼘ㄨ</rt></ruby>
 - city/town - <ruby>[都市](../words/都市.md)<rt>ㄉㄛㄙㄧ</rt></ruby>
+- capital city, metropolis - <ruby>[京城](../words/京城.md)<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> (the plain compositional meaning only — not the specific historical toponym for colonial-era Seoul, which also used this spelling)
+- capital province - <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby> ([[京城]]'s surrounding administrative territory; a live term, the modern name of Gyeonggi Province around Seoul)
 - gate - <ruby>[大門](../words/大門.md)<rt>ㄉㄚㄧㄇㄛㄋ</rt></ruby>
 - road - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>
 - square/plaza - <ruby>[広場](../words/広場.md)<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby>
