@@ -788,7 +788,7 @@ _These are for place names, not the words themselves_
 	- horse - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby>
 	- ox - <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby>
 	- lion - <ruby>[[獅子]]<rt>ㄙㄧㄜㄐㄜ</rt></ruby>
-	- fox - <ruby>[[狐 (char)]]<rt>ㄏㄛ</rt></ruby> *(no independent word yet, character only)*
+	- fox - <ruby>[[狐狸]]<rt>ㄏㄛㄌㄜ</rt></ruby>
 	- deer - <ruby>[[鹿]]<rt>ㄌㄛㄎ</rt></ruby>
 	- panther - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby>
 	- hawk - <ruby>[[../words/鷹]]<rt>ㄧㄫ</rt></ruby>
