@@ -103,6 +103,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[人道](../words/人道.md)<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby>: humane, humanitarian (人道主義, "humanitarianism") — literally "the proper way for humans," parallel to 天道/地道.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
@@ -217,6 +218,10 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
 - <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.
 - <ruby>[久闊](../words/久闊.md)<rt>ㄍ⼜·ㄎ⺢ㄊ</rt></ruby>: a long period of separation — a formal reunion greeting, "long time no see" (久闊を叙する), classical/literary register.
+- <ruby>[今夜安](../words/今夜安.md)<rt>ㄍㄧㄇ·⼘ㄚㄋ</rt></ruby>: good night — a bedtime/parting farewell, part of a 今+[time of day]+安 coinage family alongside [[今朝安]] ("good morning") and [[今昼安]] ("good day").
+- <ruby>[今晩安](../words/今晩安.md)<rt>ㄍㄧㄇㄇㄛㄋ·ㄚㄋ</rt></ruby>: good evening — an arrival greeting, the evening-hours counterpart to [[今昼安]] and distinct from [[今夜安]]'s bedtime/parting sense.
+- <ruby>[今朝安](../words/今朝安.md)<rt>ㄍㄧㄇㄐㄚㄨㄚㄋ</rt></ruby>: good morning — completes the arrival-greeting set with [[今昼安]]/[[今晩安]]; not to be confused with the bare noun [[今朝]] "this morning."
+- <ruby>[今日安](../words/今日安.md)<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>: hello — the time-of-day-neutral member of the same coinage family, reserved for when the time of day is unknowable (cross-timezone chat, printed material) rather than an ordinary greeting.
 - <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, pleased. See Semantic Range Notes.
 - <ruby>[俗](../words/俗.md)<rt>ㄙㄛㄎ</rt></ruby>: vulgar.
 - <ruby>[世俗](../words/世俗.md)<rt>ㄙㄝㄙㄛㄎ</rt></ruby>: worldly, secular, mundane — Rosenfelder's "worldly," built on the same root as [[俗]] above.

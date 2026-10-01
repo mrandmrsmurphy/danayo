@@ -136,6 +136,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[助詞](../words/助詞.md)<rt>ㄐㄛㄙㄚ</rt></ruby> "particle (grammar)"
 - <ruby>[特詞](../words/特詞.md)<rt>ㄉㄜㄎㄙㄚ</rt></ruby> "particle"
 - <ruby>[関詞](../words/関詞.md)<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, relational particle"
+- <ruby>[介詞](../words/介詞.md)<rt>ㄍ⼶ㄙㄚ</rt></ruby> "adposition (preposition/postposition), the grammatical category linking a noun phrase to its clause"
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"

@@ -127,6 +127,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[科学](../words/科学.md)<rt>ㄎ⺢ㄏㄚㄎ</rt></ruby>: science.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
+- <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.
 - <ruby>[律学](../words/律学.md)<rt>ㄌㄨㄊㄏㄚㄎ</rt></ruby>: jurisprudence, the study of law (the discipline, distinct from Law's own substantive vocabulary).
 - <ruby>[文科](../words/文科.md)<rt>ㄇㄨㄋㄎ⺢</rt></ruby>: liberal arts, humanities.
 - <ruby>[学科](../words/学科.md)<rt>ㄏㄚㄎㄎ⺢</rt></ruby>: section, subject, department, major.

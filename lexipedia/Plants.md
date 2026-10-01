@@ -68,6 +68,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[人参](../words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby>: ginseng — named for the forked root's resemblance to a man's legs.
 - <ruby>[白及](../words/白及.md)<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby>: bai ji, a Chinese ground orchid (medicinal).
 - <ruby>[蒼朮](../words/蒼朮.md)<rt>ㄑ⺢ㄫㄙㄨㄊ</rt></ruby>: cangzhu, atractylodes rhizome (medicinal).
+- <ruby>[仙人掌](../words/仙人掌.md)<rt>ㄙ⼶ㄋㄋㄧㄋㄐㄚㄫ</rt></ruby>: a cactus — literally "immortal-person's palm," the flat prickly-pear pad most familiar in East Asia.
 - <ruby>[艾草](../words/艾草.md)<rt>ㄚㄧㄑㄚㄨ</rt></ruby>: mugwort.
 - <ruby>[蓼藍](../words/蓼藍.md)<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby>: Japanese indigo, a dye plant — see also [Color](../lexipedia/Color.md)'s [[藍色]], the dye/hue this plant produces (a different word, not a duplicate citation).
 - <ruby>[篠竹](../words/篠竹.md)<rt>ㄙㄛㄨㄐㄨㄎ</rt></ruby>: dwarf bamboo, bamboo grass.
