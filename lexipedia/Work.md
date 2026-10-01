@@ -47,6 +47,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[修補](../words/修補.md)<rt>ㄙㄨㄛㄅㄛ</rt></ruby>: to patch, to restore.
 - <ruby>[維持](../words/維持.md)<rt>⼶ㄧㄉㄧ</rt></ruby>: to maintain, to uphold.
 - <ruby>[保持](../words/保持.md)<rt>ㄅㄚㄨㄉㄧ</rt></ruby>: to maintain, to keep (a state or condition unchanged) — see Semantic Range Notes.
+- <ruby>[磨](../words/磨.md)<rt>ㄇㄚ</rt></ruby>: to grind, polish, sharpen, rub, wear away through friction (研磨, "to hone"); figuratively, "to temper oneself through hardship, train rigorously" (磨練).
 - <ruby>[調整](../words/調整.md)<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby>: to adjust.
 
 ## Advanced / Specialized (C1+)

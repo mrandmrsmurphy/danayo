@@ -26,6 +26,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 - <ruby>[厚](../words/厚.md)<rt>ㄏㄛㄨ</rt></ruby>: thick.
 - <ruby>[浅](../words/浅.md)<rt>ㄑㄝㄋ</rt></ruby>: shallow.
 - <ruby>[短](../words/短.md)<rt>ㄉ⺢ㄋ</rt></ruby>: short.
+- <ruby>[矮](../words/矮.md)<rt>⺢ㄧ</rt></ruby>: short, of short stature — specifically a person's height, distinct from [[短]]'s objects/abstract durations; "tall" remains uncoined.
 - <ruby>[距離](../words/距離.md)<rt>ㄍ⼄ㄌㄝㄧ</rt></ruby>: distance.
 - <ruby>[程度](../words/程度.md)<rt>ㄉㄧㄫㄉㄛ</rt></ruby>: extent, degree.
 - <ruby>[増加](../words/増加.md)<rt>ㄐㄜㄫㄍㄚ</rt></ruby>: to increase.

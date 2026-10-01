@@ -77,6 +77,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 
 - <ruby>[草木](../words/草木.md)<rt>ㄑㄚㄨㄇㄛㄎ</rt></ruby>: greenery, plants, vegetation — the collective, blanket term.
 - <ruby>[芝草](../words/芝草.md)<rt>ㄐㄧㄑㄚㄨ</rt></ruby>: grass, lawn/ground-cover vegetation — also, in Chinese, a synonym for the lingzhi mushroom (靈芝), an unrelated auspicious-plant sense carried by the same compound.
+- <ruby>[秀](../words/秀.md)<rt>ㄙㄨㄛ</rt></ruby>: to bear fruit, blossom, shoot — originally of a rice plant coming into bloom; by extension "outstanding, excellent" (優秀), an unrelated figurative sense also excluded as a false match on [War](../lexipedia/War.md)'s own "shoot" (the weapon) gap.
 
 ## Advanced / Specialized (C1+)
 
