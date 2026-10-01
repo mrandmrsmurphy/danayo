@@ -31,6 +31,7 @@ Number vocabulary spans the full range from everyday counting to specialized mat
   - **Cross-ling**: The 第- ordinal prefix (第一, 第二, 第三...) is shared across Mandarin, Japanese, and Korean.
 - <ruby>[第二](../words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
 - <ruby>[第三](../words/第三.md)<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby>: third.
+- <ruby>[第](../words/第.md)<rt>ㄉㄝㄧ</rt></ruby>: "-th" — the bound ordinal-forming prefix itself, behind [[第一]]/[[第二]]/[[第三]] above.
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby>: both.
 - <ruby>[双](../words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>: pair.
 

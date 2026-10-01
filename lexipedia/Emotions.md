@@ -66,6 +66,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[恐惧](../words/恐惧.md)<rt>ㄎㄛㄫㄍㄨ</rt></ruby>: to be afraid of, have a dread or phobia of.
 - <ruby>[恐慌](../words/恐慌.md)<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby>: nervous, frantic, panicky.
 - <ruby>[畏](../words/畏.md)<rt>ㄛㄧ</rt></ruby>: fear, dread, reverence, awe, phobia.
+- <ruby>[竦](../words/竦.md)<rt>ㄙㄛㄫ</rt></ruby>: awe, reverence — a near-duplicate of [[畏]], but carrying a specific physical image (standing upright or on tiptoe from fear or respect).
 - <ruby>[怯](../words/怯.md)<rt>ㄎㄚㄆ</rt></ruby>: cowardly, timid, afraid.
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
 - <ruby>[懍懍](../words/懍懍.md)<rt>ㄌㄜㄇㄌㄜㄇ</rt></ruby>: a fearful appearance; stern and rigorous.

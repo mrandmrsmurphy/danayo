@@ -86,6 +86,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - pronoun (general term) : <ruby>[代名詞](../words/代名詞.md)<rt>ㄉㄚㄧㄇㄧㄫㄙㄚ</rt></ruby>, <ruby>[代詞](../words/代詞.md)<rt>ㄉㄚㄧㄙㄚ</rt></ruby>
 - everyone : <ruby>[人人](../words/人人.md)<rt>ㄋㄧㄋㄋㄧㄋ</rt></ruby> — reduplicated 人 "person."
 - persons, et al. (formal/classical collective plural, "the persons concerned; of that class") : <ruby>[人等](../words/人等.md)<rt>ㄋㄧㄋㄉㄨㄫ</rt></ruby> — same 等-suffix pattern as [[我等]]/[[君等]]/[[其人等]] above.
+- <ruby>[等](../words/等.md)<rt>ㄉㄨㄫ</rt></ruby> "etc.; rank, class" — the bound plural/collective suffix itself, behind [[我等]]/[[君等]]/[[其人等]]/[[人等]] above; also the root of [[等級]] ("grade, rank"), housed on [[Mind]] instead.
 
 ### Interrogatives
 - when : <ruby>[何時](../words/何時.md)<rt>ㄏㄚㄙㄧ</rt></ruby>
