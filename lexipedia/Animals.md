@@ -82,11 +82,13 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蝉](../words/蝉.md)<rt>ㄙㄝㄋ</rt></ruby>: cicada.
 - <ruby>[寒蝉](../words/寒蝉.md)<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby>: winter cicada — also used figuratively for someone who dares not speak (a winter cicada being unusual/silent out of season).
 - <ruby>[蜘蛛](../words/蜘蛛.md)<rt>ㄐㄧㄐㄨ</rt></ruby>: spider — an arachnid, not an insect, but grouped with this set in ordinary usage rather than with reptiles/fish below.
+- <ruby>[蝎](../words/蝎.md)<rt>ㄏ⼶ㄊ</rt></ruby>: a scorpion — another arachnid, grouped alongside [[蜘蛛]].
 - <ruby>[螳螂](../words/螳螂.md)<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby>: mantis.
 - <ruby>[胡蝶](../words/胡蝶.md)<rt>ㄏㄛㄨㄉㄝㄆ</rt></ruby>: butterfly — the stand-in compound that legitimizes the bound character 蝶.
 - <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
 - <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
 - <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
+- <ruby>[蛭](../words/蛭.md)<rt>ㄐㄧㄊ</rt></ruby>: a leech.
 - <ruby>[丘引](../words/丘引.md)<rt>ㄎ⼜ㄧㄋ</rt></ruby>: earthworm.
 - <ruby>[壁虱](../words/壁虱.md)<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby>: tick, mite, bedbug.
 

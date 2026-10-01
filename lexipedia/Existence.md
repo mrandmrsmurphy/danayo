@@ -30,6 +30,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[有](../words/有.md)<rt>⼜</rt></ruby>: to have, to possess — also functions as "there is/are."
 - <ruby>[無](../words/無.md)<rt>ㄇㄜ</rt></ruby>: to lack, to not have — the negative existential, "there is not."
 - <ruby>[莫](../words/莫.md)<rt>ㄇㄚㄎ</rt></ruby>: there is none who, nothing that — a negative existential quantifier over an action or agent ("莫 + V" = "no one Vs"), distinct from 無's static "there is not."
+- <ruby>[虚](../words/虚.md)<rt>ㄏ⼄</rt></ruby>: void, emptiness — the philosophical/substantive noun for nothingness, distinct from [[無]]'s grammatical "to lack"; also, by extension, "false, hollow" (虚偽, "falsehood"; 虚弱, "weak, frail").
 - <ruby>[成](../words/成.md)<rt>ㄙㄧㄫ</rt></ruby>: to become.
 - <ruby>[現](../words/現.md)<rt>ㄏ⼶ㄋ</rt></ruby>: present, current (adjective).
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now.
