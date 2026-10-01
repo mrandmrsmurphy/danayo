@@ -51,6 +51,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[期](../words/期.md)<rt>ㄎㄧ</rt></ruby>: a period, time, season — bound and more general than [[期間]].
 - <ruby>[週期](../words/週期.md)<rt>ㄐㄨㄛㄎㄧ</rt></ruby>: a period, cycle — the recurring/cyclical sense, distinct from [[期間]]'s plain duration.
 - <ruby>[臨時](../words/臨時.md)<rt>ㄌㄧㄇㄙㄧ</rt></ruby>: temporary.
+- <ruby>[久](../words/久.md)<rt>ㄍ⼜</rt></ruby>: a long time, long-lasting — the basic root behind the whole duration family below ([[悠久]], [[恒久]]/[[永久]]).
 - <ruby>[恒久](../words/恒久.md)<rt>ㄏㄨㄫㄍ⼜</rt></ruby>: permanent, perpetual.
 - <ruby>[永遠](../words/永遠.md)<rt>ㄨㄧㄫㄛㄋ</rt></ruby>: perpetual, eternal.
 - <ruby>[永久](../words/永久.md)<rt>ㄨㄧㄫㄍ⼜</rt></ruby>: eternal, perpetual, permanent — bridges [[恒久]]'s and [[永遠]]'s senses rather than being a strict duplicate of either.

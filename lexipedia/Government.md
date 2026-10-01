@@ -10,7 +10,7 @@ date-last-perfect: 2026-09-28
 
 # Government
 
-Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, preside, prince, queen, rank as a general noun, responsible, royal, rule, serve, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Government vocabulary spans monarchy and titles of rank, officials and bureaucracy, political parties and systems, permission and prohibition, and the compensation and obedience that bind rulers to those who serve them. Several basic terms (boss, captain, charge, chief/chieftain, council, duke, duty, elder, faction, gentleman, lady, lead as a general verb, let, lord, majesty, master, mission, nation, office, peer, power, prince, queen, rank as a general noun, responsible, royal, serve, sir, slave, support, throne as a general noun, usurp, tyrant, assembly, bureau, embassy, ministry, coronation, accession, diplomacy, hierarchy, underling, align, vote, elect, intrigue, conservative, loyalist, reformer, radical, crown, flag, vassal, estate, appoint, steward) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. "To rule" and "to preside" are now covered by [[主宰]], below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -18,12 +18,14 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
 - <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>: empire.
 - <ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby>: administration, government, the executive.
+- <ruby>[主宰](../words/主宰.md)<rt>ㄐㄨㄐㄚㄧ</rt></ruby>: to rule, superintend, dominate — carries real philosophical/religious weight beyond ordinary administration (describing a cosmic ruling force, as in Neo-Confucian thought), not merely mundane oversight.
 - <ruby>[許可](../words/許可.md)<rt>ㄏ⼄·ㄎㄜ</rt></ruby>: permission, authorization.
 - <ruby>[許](../words/許.md)<rt>ㄏ⼄</rt></ruby>: to permit, allow.
 - <ruby>[禁止](../words/禁止.md)<rt>ㄍㄧㄇㄐㄧ</rt></ruby>: to forbid, prohibit.
 - <ruby>[税金](../words/税金.md)<rt>ㄙㄝㄍㄧㄇ</rt></ruby>: duty, tax.
 - <ruby>[官僚](../words/官僚.md)<rt>ㄍ⺢ㄋㄌ⼄ㄨ</rt></ruby>: a bureaucrat.
 - <ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby>: autonomy, self-government.
+- <ruby>[主権](../words/主権.md)<rt>ㄐㄨㄍ⼔ㄋ</rt></ruby>: sovereignty — the supreme authority of a state over its own territory and affairs (国家主権 "state sovereignty," 主権在民 "popular sovereignty").
 - <ruby>[会議](../words/会議.md)<rt>ㄏ⼔ㄜㄧ</rt></ruby>: a meeting, conference, council.
 - <ruby>[貴族](../words/貴族.md)<rt>ㄍㄨㄧㄐㄛㄎ</rt></ruby>: an aristocrat, nobility.
 - <ruby>[管理](../words/管理.md)<rt>ㄍ⺢ㄋㄌㄧ</rt></ruby>: to supervise, administer, manage.
@@ -145,7 +147,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, to preside, a prince, a queen, a rank (general noun), responsible, royal, to rule, to serve, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward.
+Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chief/chieftain, a duke, a duty (obligation, distinct from [[税金]]'s "duty" as in tax), an elder, a faction, a gentleman, "to lead" (general, beyond [[主導]]'s specific sense), to let, a lord, majesty, a master, a mission, a nation, an office, a peer, power, a prince, a queen, a rank (general noun), responsible, royal, to serve, sir, a slave, to support, a throne (general noun, beyond [[王位]]'s specific sense), to usurp, a tyrant, an assembly, a bureau, an embassy, a ministry, a coronation, an accession, diplomacy, a hierarchy, an underling, to align, to vote, to elect, intrigue, conservative, a loyalist, a reformer, radical, a crown, a flag, a vassal, an estate, to appoint (general, beyond [[委]]'s specific sense), a steward. ("To preside" and "to rule" are now covered by [[主宰]].)
 
 ## Advanced / Specialized (C1+)
 

@@ -55,6 +55,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[机械](../words/机械.md)<rt>ㄍㄧㄜㄏ⼶</rt></ruby>: a machine — a near-synonym of [[机器]].
 - <ruby>[机関](../words/机関.md)<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby>: a machine, organ, organization — an institutional/mechanism register, distinct from the plain physical machine. See [Government](../lexipedia/Government.md) for its own citation there.
 - <ruby>[電脳](../words/電脳.md)<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>: a computer.
+- <ruby>[主頁](../words/主頁.md)<rt>ㄐㄨㄏㄝㄊ</rt></ruby>: a website's main page, homepage.
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: to equip, finish, provide. See [Work](../lexipedia/Work.md) and [Events](../lexipedia/Events.md) for their own citations there.
 
 ### Operating & Driving

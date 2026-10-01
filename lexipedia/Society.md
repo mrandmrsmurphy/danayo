@@ -48,6 +48,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[伝統](../words/伝統.md)<rt>ㄐ⼔ㄋㄊㄛㄫ</rt></ruby>: tradition, custom.
 - <ruby>[文明](../words/文明.md)<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>: civilization.
 - <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
+- <ruby>[中華](../words/中華.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby>: Chinese civilization/culture — a civilizational identity rather than a specific state, which is exactly why it names both rival Chinas ([[中華民国]], 中華人民共和国); distinct from [[中国]]'s state/country-name sense.
 - <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 
 ### Migration & Belonging
@@ -204,6 +205,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[圓滑](../words/圓滑.md)<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby>: slick, glib, smooth (of a person, mildly negative) — a near-synonym of [[圓融]] with a self-serving undertone instead of genuine tact.
 - <ruby>[歓迎](../words/歓迎.md)<rt>ㄏ⺢ㄋ·⼶ㄫ</rt></ruby>: to welcome, greet.
 - <ruby>[迎接](../words/迎接.md)<rt>⼶ㄫㄐㄛㄆ</rt></ruby>: to greet, welcome, receive, meet (a visitor) — a near-synonym of [[歓迎]] adding the "go out to receive" sense.
+- <ruby>[久闊](../words/久闊.md)<rt>ㄍ⼜·ㄎ⺢ㄊ</rt></ruby>: a long period of separation — a formal reunion greeting, "long time no see" (久闊を叙する), classical/literary register.
 - <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, pleased. See Semantic Range Notes.
 - <ruby>[俗](../words/俗.md)<rt>ㄙㄛㄎ</rt></ruby>: vulgar.
 - <ruby>[世俗](../words/世俗.md)<rt>ㄙㄝㄙㄛㄎ</rt></ruby>: worldly, secular, mundane — Rosenfelder's "worldly," built on the same root as [[俗]] above.
