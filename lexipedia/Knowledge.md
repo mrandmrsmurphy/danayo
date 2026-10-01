@@ -81,6 +81,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[校訂](../words/校訂.md)<rt>ㄏ⼘ㄨㄊㄝㄫ</rt></ruby>: to revise, proofread (a text specifically).
 - <ruby>[発見](../words/発見.md)<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby>: to discover, find out.
 - <ruby>[参考](../words/参考.md)<rt>ㄙㄚㄇㄎㄚㄨ</rt></ruby>: to consult (a source) for reference — open, exploratory engagement with a source, distinct from binding citation.
+- <ruby>[上述](../words/上述.md)<rt>ㄙ⼘ㄫㄙㄨㄊ</rt></ruby>: aforementioned, above-mentioned — a formal written-register word pointing back at prior content within the same text (reports, contracts, academic writing), not a source-consultation term like [[参考]].
 
 ### Communication & Argument
 
@@ -145,6 +146,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[史籍](../words/史籍.md)<rt>ㄙㄧㄐㄝㄎ</rt></ruby>: historical records.
 - <ruby>[史記](../words/史記.md)<rt>ㄙㄧㄍㄧ</rt></ruby>: the *Records of the Grand Historian*, Sima Qian's foundational history.
 - <ruby>[上知](../words/上知.md)<rt>ㄙ⼘ㄫㄐㄨㄧ</rt></ruby>: those wise from birth, innate wisdom.
+- <ruby>[下愚](../words/下愚.md)<rt>ㄏㄚ·ㄨ</rt></ruby>: those foolish from birth — [[上知]]'s direct Analects pairing (論語·陽貨: "only the wisest and the most foolish do not change"), the two limiting cases Confucius held to be beyond the reach of teaching or environment.
 - <ruby>[右学](../words/右学.md)<rt>⼜ㄏㄚㄎ</rt></ruby>: the Right School (a historical institution name).
 - <ruby>[左学](../words/左学.md)<rt>ㄐㄚㄏㄚㄎ</rt></ruby>: the Left School (its counterpart).
 - <ruby>[宗師](../words/宗師.md)<rt>ㄐㄛㄫㄙㄧㄜ</rt></ruby>: an honored master, great scholar.

@@ -45,6 +45,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - can <ruby>[可](../words/可.md)<rt>ㄎㄜ</rt></ruby>
 - cannot <ruby>[不可](../words/不可.md)<rt>ㄅㄛㄊㄎㄜ</rt></ruby>
 - may (permission) <ruby>[可以](../words/可以.md)<rt>ㄎㄜㄧ</rt></ruby>
+- cannot, may not (impermissive) <ruby>[不可以](../words/不可以.md)<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> — the direct negation of [[可以]] above.
 - might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 - must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
 - ought, should, have to : <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>

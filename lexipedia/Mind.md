@@ -143,6 +143,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 
 - <ruby>[彙](../words/彙.md)<rt>ㄏㄨ</rt></ruby>: a category, class.
 - <ruby>[対照](../words/対照.md)<rt>ㄉㄛㄧㄐㄛㄨ</rt></ruby>: to contrast, compare, cross-reference — sharper and more pointed than the plain [[比較]].
+- <ruby>[不及](../words/不及.md)<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby>: to not measure up to, be inferior to — the classical comparative "A不及B" structure (Analects); also carries temporal ("too late," 來不及) and physical ("fall short of a target") senses in set expressions.
 - <ruby>[等級](../words/等級.md)<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>: a grade, level, ranking, class — hierarchical, not categorical.
 - <ruby>[一般](../words/一般.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>: average, common, general, ordinary — see [[Existence]] for its own citation there.
 - <ruby>[普遍](../words/普遍.md)<rt>ㄆㄛㄅㄝㄋ</rt></ruby>: universal, general, widespread — see [[Existence]] for its own citation there; stronger than [[一般]]'s "ordinary."

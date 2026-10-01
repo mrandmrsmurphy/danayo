@@ -83,6 +83,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
 - <ruby>[紳士](../words/紳士.md)<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby>: a gentleman.
 - <ruby>[同等](../words/同等.md)<rt>ㄉㄛㄫㄉㄨㄫ</rt></ruby>: equal, equivalent, of the same rank.
+- <ruby>[上位](../words/上位.md)<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby>: upper rank, a superior position — the abstract top pole of any ranked system (a leaderboard, an organization's senior ranks), paired with [[下位]]'s bottom pole.
+- <ruby>[下位](../words/下位.md)<rt>ㄏㄚ⼔ㄧ</rt></ruby>: low rank, a subordinate position — [[上位]]'s direct antonym, completing the pair that frames all of Dan'a'yo's ranking/hierarchy vocabulary.
 - <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
 
 ### Character & Civic Virtue
@@ -104,6 +106,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Trust, Respect & Esteem
 
 - <ruby>[信用](../words/信用.md)<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>: to trust, believe, rely on.
+- <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
 - <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.
