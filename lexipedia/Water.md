@@ -46,6 +46,8 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 
 - <ruby>[湖水](../words/湖水.md)<rt>ㄏㄛㄨㄙㄨ</rt></ruby>: lake.
 - <ruby>[川](../words/川.md)<rt>ㄑ⺢ㄋ</rt></ruby>: river.
+- <ruby>[流水](../words/流水.md)<rt>ㄌ⼜ㄙㄨ</rt></ruby>: flowing water; by extension, the inevitable passage of events (高山流水, "high mountains and flowing water," symbolizing deep mutual understanding between friends).
+- <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
 - <ruby>[小河](../words/小河.md)<rt>ㄙㄛㄏㄚ</rt></ruby>: stream.
 - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>: pond, reservoir.
 - <ruby>[渉](../words/渉.md)<rt>ㄙㄝㄆ</rt></ruby>: ford (a shallow river crossing).
@@ -89,6 +91,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[灘](../words/灘.md)<rt>ㄊㄚㄋ</rt></ruby>: bank, shoal — specifically a sandbar or shallow river ford, narrower still than either [[岸]] or [[浜]].
 - <ruby>[汀](../words/汀.md)<rt>ㄊㄝㄫ</rt></ruby>: a sand bar, a water's-edge flat — an undocumented near-duplicate of [[灘]], with no recorded distinction between the two.
 - <ruby>[沿海](../words/沿海.md)<rt>⼔ㄇㄏㄚㄧ</rt></ruby>: coastal — the adjective, as opposed to the noun shore/bank words above.
+- <ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: marine, maritime, on the sea — broader than [[沿海]]'s specifically coastal sense, covering the open sea as well.
 - <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
 - <ruby>[畔](../words/畔.md)<rt>ㄅㄚㄋ</rt></ruby>: ridge, boundary — another near-duplicate of [[岸]]/[[浜]] in its common "waterside" extension (湖畔, "lakeside"; 河畔, "riverside"), though its root sense is a field-ridge boundary rather than a water's edge specifically.
 

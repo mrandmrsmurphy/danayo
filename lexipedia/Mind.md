@@ -180,6 +180,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze; analysis — see [[Knowledge]] for its own citation there.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze; analysis — an undocumented near-duplicate of [[分析]]; see [[Knowledge]] for its own citation there.
 - <ruby>[䋇](../words/䋇.md)<rt>⼶ㄎ</rt></ruby>: to deduce, unravel, explain step by step — the core sense behind 演繹 (yǎnyì, "deduction"), the formal counterpart to induction; rare outside that compound in every daughter language.
+- <ruby>[派生](../words/派生.md)<rt>ㄆㄚㄧㄙㄚㄫ</rt></ruby>: to derive, be derived from — branching off from an origin (also the standard mathematics/finance term for "derivative").
 
 #### Condition & Situation
 
