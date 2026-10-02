@@ -90,6 +90,8 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.
 - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
+- <ruby>[歯齦](../words/歯齦.md)<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby>: gingiva, gums.
+- <ruby>[歯痛](../words/歯痛.md)<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby>: toothache.
 - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚㄚㄎ</rt></ruby>: jaw/chin.
 - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby>: beard/moustache — a single word spans both; Korean 수염, its everyday native gloss, does the same.
 - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>: bald.

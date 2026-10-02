@@ -20,6 +20,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to grow, cultivate.
 - <ruby>[治癒](../words/治癒.md)<rt>ㄑㄧ⼜</rt></ruby>: to heal, cure.
 - <ruby>[殺](../words/殺.md)<rt>ㄙㄚㄊ</rt></ruby>: to kill.
+- <ruby>[殺身](../words/殺身.md)<rt>ㄙㄚㄊㄙㄧㄋ</rt></ruby>: to be killed — literally "to kill the body," [[殺]]'s passive counterpart, best known from the idiom 殺身成仁, "to sacrifice one's life to achieve virtue."
 - <ruby>[生命](../words/生命.md)<rt>ㄙㄚㄫㄇ⼶ㄫ</rt></ruby>: life (the general, biological fact of being alive).
 - <ruby>[生活](../words/生活.md)<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby>: to live; life, lifestyle (one's daily manner of living).
 - <ruby>[医生](../words/医生.md)<rt>ㄜㄙㄚㄫ</rt></ruby>: a doctor, physician.
@@ -46,6 +47,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, become corrupt (organic or moral, ordinary register).
 - <ruby>[荒廃](../words/荒廃.md)<rt>ㄏ⺢ㄫㄈㄝ</rt></ruby>: to fall into ruin, decay (of a place).
 - <ruby>[霊柩](../words/霊柩.md)<rt>ㄌㄝㄫㄍ⼜</rt></ruby>: a coffin.
+- <ruby>[死骸](../words/死骸.md)<rt>ㄙㄧㄜㄏ⼶</rt></ruby>: a corpse, dead body — matter-of-fact rather than euphemistic, the body as physical remains.
 
 **Not yet coined**: "funeral" and "mortal" have no dedicated Dan'a'yo word yet.
 
