@@ -44,6 +44,9 @@ date-last-perfect: 2026-08-01
 >[!tip] This is a page about the character 法.
 >For the word, see [法](words/法.md)
 
+>[!info] Semi-productive affix
+> 法 is a **semi-productive** suffix for a "law, method" (文法, 方法, 憲法). It is not a [[派生辞]]. Dan'a'yo does not license new coinages with it without authority review, and every derivative has its own page (see Words below). Existing derivatives include [[三角法]], [[乗法]], [[兵法]], [[加法]], [[句法]], [[憲法]]. 法 is also a free word, [[法]]; whether its affix function should get a separate page, as 物 and 事 have, is not decided.
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

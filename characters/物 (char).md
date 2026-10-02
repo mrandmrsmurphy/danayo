@@ -49,6 +49,7 @@ boundedness: 50
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[－物|物]]<rt>ㄇㄨㄊ</rt></ruby> "thing that is X-ed" (fully productive affix)
 - <ruby>[[物]]<rt>ㄇㄨㄊ</rt></ruby> "thing; result" (stand-in for 物)
 - <ruby>[[動物]]<rt>ㄉㄛㄫㄇㄨㄊ</rt></ruby> "animal"
 - <ruby>[[植物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby> "plants; flora"

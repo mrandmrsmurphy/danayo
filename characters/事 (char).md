@@ -49,6 +49,7 @@ boundedness: 90
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[－事|事]]<rt>ㄐㄧ</rt></ruby> "act of; matter of" (fully productive affix)
 - <ruby>[[事]]<rt>ㄐㄧ</rt></ruby> "thing; action" (stand-in for 事)
 - <ruby>[[服事]]<rt>ㄅㄨㄎㄐㄧ</rt></ruby> "serve; attend to"
 - <ruby>[[事件]]<rt>ㄐㄧㄍ⼶ㄋ</rt></ruby> "event; incident; occurrence"

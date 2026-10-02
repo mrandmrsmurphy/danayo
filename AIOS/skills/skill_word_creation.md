@@ -50,7 +50,7 @@ See [[AIOS/skills/Word Creation.md|Word Creation.md]] for the full guide. This m
 | `japanese` | Wiktionary hiragana — note special readings where they differ from concatenation |
 | `korean` | Wiktionary Hangul — unquoted |
 | `vietnamese` | Wiktionary — include when present; omit key entirely when absent |
-| `pos` / `品詞` | Infer from meaning: 名詞, 動詞, 性詞, 数詞, 副詞, 擬詞, etc. |
+| `pos` / `品詞` | Infer from meaning: 名詞, 動詞, 性詞, 数詞, 副詞, 擬詞, etc.; a `－X.md`/`X－.md` fully productive affix word is always `派生辞` |
 | `english` | Brief gloss(es) — **YAML list** — from Wiktionary or from character glosses |
 | `hsk_level` | Wiktionary if mentioned; omit key entirely when absent |
 | `aliases` | Include traditional/simplified variants (e.g. 三位一體 → 三位一体) |

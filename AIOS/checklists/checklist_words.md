@@ -23,7 +23,7 @@ characters:            # constituent characters, in order — always required
 羅馬字: gimjuo          # Dan'a'yo romanisation — concatenation of component romanisations
 諺文: 김줏              # Hangul transcription of the Dan'a'yo pronunciation
 english: this week     # English gloss; brief
-pos: 名詞               # part of speech: 名詞, 動詞, 性詞, 数詞, 副詞, 助詞, etc.
+pos: 名詞               # part of speech: 名詞, 動詞, 性詞, 数詞, 副詞, 助詞, 派生辞 (a fully productive `－X.md` affix word), etc.
 mandarin: "jīnzhōu      # Pinyin (tone marks preferred)"
 cantonese: "gam1 zau1   # Jyutping with tone numbers"
 japanese: こんしゅう      # hiragana reading
