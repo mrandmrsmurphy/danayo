@@ -293,7 +293,7 @@ Never-perfected word. Removed duplicate `品詞` key, flattened single-item `jap
 Next: 文学者.
 
 ### 2026-09-11, word 59/246 — [[words/文学者|文学者]]
-Never-perfected word. **Found and fixed a real content bug affecting three fields at once**: `mandarin`, `cantonese`, and `korean` had all been filled with the reading of the alias 文学家 (using 家, not this word's own 者) rather than 文学者's own characters — corrected to wénxuézhě, man4 hok6 ze2, and 문학자 (trimmed from a comma-joined crammed field). Filled an entirely-blank `vietnamese` field with honest compositional "văn học giả." Disambiguated bare 者 to "者 (char)," filled entirely-missing `kwin`/`date-last-perfect`, wrote a `## Notes` section from scratch. All three character-page citations already present, no homophone collision.
+Never-perfected word. **Found and fixed a real content bug affecting three fields at once**: `mandarin`, `cantonese`, and `korean` had all been filled with the reading of the alias 文学家 (using 家, not this word's own 者) rather than 文学者's own characters — corrected to wénxuézhě, man4 hok6 ze2, and 문학자 (trimmed from a comma-joined crammed field). Filled an entirely-blank `vietnamese` field with honest compositional "văn học giả." Disambiguated bare 者 to "者," filled entirely-missing `kwin`/`date-last-perfect`, wrote a `## Notes` section from scratch. All three character-page citations already present, no homophone collision.
 
 Next: 文明.
 

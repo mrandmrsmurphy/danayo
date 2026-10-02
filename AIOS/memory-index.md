@@ -42,7 +42,7 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC[...]
 - [Element-abbreviation characters](memory/feedback_element_abbreviation_characters.md) — a character's "abbreviation for [element]" note (e.g. 多→gadolinium) is a permanent character-level f[...]
 - [Word bug taxonomy](memory/feedback_word_bug_taxonomy.md) — internal-reading bugs (羅馬字/諺文/注音 concatenation drift) vs. cross-linguistic-field bugs (native gloss/unrelated word sub[...]
-- [Affix naming & productivity tiers](memory/feedback_affix_naming_and_productivity.md) — `－X.md` (U+FF0D) word file = fully productive affix; semi-productive = character-page note only; every fullwidth-hyphen word gets an ASCII `-` alias; 化 pilot in progress
+- [Affix naming & productivity tiers](memory/feedback_affix_naming_and_productivity.md) — `－X.md` (U+FF0D) word file = fully productive affix; semi-productive = character-page note only; every fullwidth-hyphen word gets an ASCII `-` alias; migration done, semi-notes + prefixes pending
 
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch

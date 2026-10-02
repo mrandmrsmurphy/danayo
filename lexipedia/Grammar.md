@@ -184,6 +184,12 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
+- productive suffix (a bound suffix that any transparent stem may take without the result needing its own page; filed under the fullwidth hyphen, －X) :
+	- <ruby>[化](../words/－化.md)<rt>ㄏ⺢</rt></ruby> "-ification; to become or render X"
+	- <ruby>[者](../words/－者.md)<rt>ㄑㄚ</rt></ruby> "-er, -ist; one who does or practices X"
+	- <ruby>[論](../words/－論.md)<rt>ㄌㄛㄋ</rt></ruby> "the theory of X"
+	- <ruby>[文](../words/－文.md)<rt>ㄇㄨㄋ</rt></ruby> "the patterned or written form of X: writing in language X, sentence of kind X"
+	- <ruby>[性](../words/－性.md)<rt>ㄙㄧㄫ</rt></ruby> "-ness, -ity; the nature or quality of X"
 - case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>

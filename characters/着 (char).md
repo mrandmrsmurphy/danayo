@@ -46,7 +46,7 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声 (OC \*taʔ, \*tas, \*da, \*taɡ, \*daɡ): original form 著, semantic [[Radical 140|艸]] ("grass") + phonetic [[者 (char)|者]] (OC \*tjaːʔ) — to put, to place; the modern variant 着's assigned Kangxi radical, [[Radical 109|目]] ("eye"), reflects the shinjitai's loss of the 艸 top rather than the true etymology.
+- 形声 (OC \*taʔ, \*tas, \*da, \*taɡ, \*daɡ): original form 著, semantic [[Radical 140|艸]] ("grass") + phonetic [[－者|者]] (OC \*tjaːʔ) — to put, to place; the modern variant 着's assigned Kangxi radical, [[Radical 109|目]] ("eye"), reflects the shinjitai's loss of the 艸 top rather than the true etymology.
 - [SKIP-3-7-5](lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 664th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄐ⺢ㄎ](syllables/ㄐ⺢ㄎ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

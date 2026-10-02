@@ -774,7 +774,7 @@ tags: [lookup]
 [[弊 (char)]]: 3
 [绿](../../characters/緑%20(char).md): 3
 [綠](../../characters/緑%20(char).md): 3
-[[者 (char)]]: 3
+[[－者|者]]: 3
 [[鞭]]: 3
 [[贬]]: 3
 [[貶]]: 3

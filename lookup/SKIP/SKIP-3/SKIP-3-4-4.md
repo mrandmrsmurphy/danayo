@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[或](characters/或%20(char).md)<rt>ㄏㄛㄎ</rt></ruby> "or; perhaps"
 2. <ruby>[武](characters/武%20(char).md)<rt>ㄇㄨ</rt></ruby> "military"
-3. <ruby>[者](characters/者%20(char).md)<rt>ㄑㄚ</rt></ruby> "-er"
+3. <ruby>[者](characters/者.md)<rt>ㄑㄚ</rt></ruby> "-er"
 4. <ruby>[虎](characters/虎%20(char).md)<rt>ㄏㄛ</rt></ruby> "tiger"
 5. <ruby>[迎](/characters/迎.md)<rt>⼶ㄫ</rt></ruby> "welcome"
 

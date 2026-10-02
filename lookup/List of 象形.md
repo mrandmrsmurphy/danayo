@@ -289,7 +289,7 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 202. <ruby>[缶](/characters/缶.md)<rt>ㄍ⺢ㄋ</rt></ruby> - an earthenware jar with a lid
 203. <ruby>[美](/characters/美%20(char).md)<rt>ㄇㄧ</rt></ruby> - a person wearing a feathered/horned headdress
 204. <ruby>[羽](/characters/羽.md)<rt>ㄨ</rt></ruby> - wings or feathers side by side
-205. <ruby>[者](/characters/者%20(char).md)<rt>ㄑㄚ</rt></ruby> - a sugarcane stalk with a mouth below (agentive suffix, '-er')
+205. <ruby>[者](/characters/者.md)<rt>ㄑㄚ</rt></ruby> - a sugarcane stalk with a mouth below (agentive suffix, '-er')
 206. <ruby>[而](/characters/而%20(char).md)<rt>ㄋㄧ</rt></ruby> - a beard (original form of 耏)
 207. <ruby>[耳](/characters/耳%20(char).md)<rt>ㄋㄧ</rt></ruby> - an ear, outer rim and inner canal
 208. <ruby>[耴](/characters/耴.md)<rt>ㄐㄨㄆ</rt></ruby> - drooping/hanging ears, an earlobe

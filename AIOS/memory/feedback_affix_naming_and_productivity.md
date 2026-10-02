@@ -18,6 +18,8 @@ type: feedback
 
 **Current tiers (2026-10-02):** full — 化 (-ification), 者 (-er/-ist), 論 ("theory of"), 文 (patterned/written form of X: 天文, 英文, 疑問文), 性 ("nature"). Semi — 的 (conflicts with Dan'a'yo TI), 語, 音, 学, 家, 子, 表, 法; 式 treated as semi pending a call.
 
-**Status:** pilot in progress on 化 only. Open check: whether Obsidian resolves `[[－化]]` (NFKC risk); fallback is ASCII `-`. 者 migration, `－論`/`－文`/`－性` creation, prefix convention, and the semi-productive character-page notes are all still to do.
+**Status (2026-10-02):** migration done. `words/－化.md`, `－者.md`, `－論.md`, `－文.md`, `－性.md` exist (each aliased to its ASCII form); `化`/`者` characters reverted to plain `X.md` (no `(char)`), `論`/`文`/`性` always were. Obsidian resolves `[[－化]]` (user-verified on 火 and 化 — the NFKC fear did not materialize). Listed under "productive suffix" in `lexipedia/Grammar.md`. Bound-only characters keep a compound `stand_in` (化→変化, 者→学者, 論→理論, 文→文化, 性→性別), never the affix word.
+
+**Not done yet:** (1) the standard "semi-productive" note on the character pages for 的, 語, 音, 学, 家, 表, 式, 法 (子 already has one); (2) prefix convention `X－.md` for 非/無/不/超 etc. is decided in principle but applied to none; (3) the grammar chapter `文法 - 97品詞` already classifies grammatical suffixes (者, 被, 物, 事, 只, 且, 公, plus 等/然/之 in lexipedia/Grammar) as `関詞`; whether those get `－X` treatment is undecided — 者 already has it, the rest do not. Note the existing `接辞` and `接尾辞` words ('affix', 'suffix'); (4) `音韻論`-page red links for semi-productive coinages (-音, -語, -的) still need an authority-review decision each.
 
 Related: [[feedback-word-alias-no-real-word]] — the ASCII alias is not a real word, so it doesn't violate that rule.

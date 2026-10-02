@@ -37,6 +37,7 @@ A character file is named either `X.md` or `X (char).md`. The distinction is int
 
 - **`X (char).md`** — the character is also a stand-alone Dan'a'yo word, so `words/X.md` exists. The `(char)` suffix prevents the character file from colliding with the word file of the same name. Link as `[[X (char)]]` or `[X (char)](../characters/X%20(char).md)`.
 - **`X.md`** — the character is bound-only; it does not appear as a stand-alone word. Link as `[[X]]` or `[X](../characters/X.md)`.
+  - A bound character that is a **fully productive affix** also stays `X.md`: its affix word is `words/－X.md` (suffix) or `words/X－.md` (prefix), using the fullwidth hyphen U+FF0D, so there is no collision and no `(char)` suffix is needed. A **semi-productive** affix has no affix word, only a note on the character page. See [[AIOS/memory/feedback_affix_naming_and_productivity.md]].
 
 When writing `characters:` frontmatter for words, use the form that matches the actual filename: `X (char)` or plain `X`.
 

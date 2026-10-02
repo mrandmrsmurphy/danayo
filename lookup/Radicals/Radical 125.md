@@ -15,7 +15,7 @@ tags: [lookup]
 2. <ruby>[考](../../characters/考.md)<rt>ㄎㄚㄨ</rt></ruby> - consider
 
 ### +2 Strokes
-3. <ruby>[者](../../characters/者%20(char).md)<rt>ㄑㄚ</rt></ruby> - -er
+3. <ruby>[者](../../characters/者.md)<rt>ㄑㄚ</rt></ruby> - -er
 
 ## Data check
 ```dataview

@@ -405,7 +405,7 @@ The following prefecture names were added in 2017:
 393. [羊](../../characters/羊.md) : yō , hitsuji , sheep , 
 394. [美 (char)](../../characters/美%20(char).md) : bi , utsuku-shiǝ , beauty , 
 395. [習](../../characters/習.md) : shū , nara-u , learn , 
-396. [者 (char)](../../characters/者%20(char).md) : sha , mono , someone , 
+396. [者](../../characters/者.md) : sha , mono , someone , 
 397. [育 (char)](../../characters/育%20(char).md) : iku , soda-tsu;  soda-teru;  haguku-mu , nurture , 
 398. [苦 (char)](../../characters/苦%20(char).md) : ku , kuru-shiǝ;  kuru-shimu;  kuru-shimeru;  niga-i;  niga-ru , suffer , 
 399. [荷](../../characters/荷.md) : ka , ni , luggage , 

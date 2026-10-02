@@ -623,7 +623,7 @@ tags: [lookup]
 
 ## ㅈ 
 #### 자
-[子](../../characters/子.md) (아들 자) [[字 (char)]] (글자 자) [自](../../characters/自.md) (스스로 자) [者 (char)](../../characters/者%20(char).md) (놈 자) [姉 (char)](../../characters/姉%20(char).md) (손윗누이 자) [慈](../../characters/慈.md) (사랑할 자)
+[子](../../characters/子.md) (아들 자) [[字 (char)]] (글자 자) [自](../../characters/自.md) (스스로 자) [者](../../characters/者.md) (놈 자) [姉 (char)](../../characters/姉%20(char).md) (손윗누이 자) [慈](../../characters/慈.md) (사랑할 자)
 
 #### 작
 [作 (char)](../../characters/作%20(char).md) (지을 작) [昨 (char)](../../characters/昨%20(char).md) (어제 작)

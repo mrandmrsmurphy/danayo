@@ -1340,7 +1340,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[翻身]] — emancipate
 - [[老人学]] — gerontology
 - [[考試]] — test, exam
-- [[者]] — -er, -ist
+- [[－者|者]] — -er, -ist
 - [[而]] — and, but
 - [[而且]] — moreover, furthermore, and also
 - [[耳朶]] — earlobe

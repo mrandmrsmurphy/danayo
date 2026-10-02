@@ -427,7 +427,7 @@ tags: [lookup]
 [畫](../../characters/画.md): 1
 [答 (char)](../../characters/答%20(char).md): 1
 [或 (char)](../../characters/或%20(char).md): 1
-[者 (char)](../../characters/者%20(char).md): 1
+[者](../../characters/者.md): 1
 [礎](../../characters/礎.md): 1
 [础](../../characters/礎.md): 1
 [鸡](../../characters/鶏%20(char).md): 1
