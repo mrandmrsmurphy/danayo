@@ -53,4 +53,5 @@ date-last-perfect: 2026-09-16
 - <ruby>[[滑]]<rt>ㄏ⺢ㄊ</rt></ruby> “slippery” (stand-in for 滑)
 - <ruby>[[狡滑]]<rt>ㄍ⼄ㄨㄏ⺢ㄊ</rt></ruby> “cunning, crafty”
 - <ruby>[[滑鼠]]<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby> “mouse (computer)”
+- <ruby>[[滑音]]<rt>ㄏ⺢ㄊ·ㄨㄇ</rt></ruby> “glide”
 - <ruby>[[圓滑]]<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby> “slick, glib, smooth (of a person)”

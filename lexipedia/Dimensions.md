@@ -21,6 +21,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 - <ruby>[少](../words/少.md)<rt>ㄙㄛㄨ</rt></ruby>: few, scarce.
 - <ruby>[小](../words/小.md)<rt>ㄙㄛ</rt></ruby>: small — and, by extension, young, junior; one of the vault's most productive modifiers (小雨, "drizzle"; 小学, "elementary school").
 - <ruby>[高](../words/高.md)<rt>ㄍㄚㄨ</rt></ruby>: high.
+- <ruby>[高低](../words/高低.md)<rt>ㄍㄚㄨㄉㄝㄧ</rt></ruby>: high and low, height; also pitch height (高低原則 on the phonology page) — the fixed pair, with bound 低; the stand-alone "low" is [[低下]].
 - <ruby>[重](../words/重.md)<rt>ㄑㄛㄫ</rt></ruby>: heavy.
 - <ruby>[軽](../words/軽.md)<rt>ㄎㄧㄫ</rt></ruby>: light, not heavy.
 - <ruby>[遠](../words/遠.md)<rt>ㄛㄋ</rt></ruby>: far.
@@ -69,7 +70,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[広](../words/広.md)<rt>ㄍ⺢ㄫ</rt></ruby>: wide, broad — the bound root behind [[広範]] above (also [[広場]] "plaza," [[広野]] "wilderness").
 - <ruby>[寛大](../words/寛大.md)<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby>: magnanimous, lenient — figurative "broad" (of character, not physical space).
 - <ruby>[闊葉](../words/闊葉.md)<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby>: broad-leaf.
-- <ruby>[低下](../words/低下.md)<rt>ㄉㄝㄧㄏㄚ</rt></ruby>: to lower, drop, droop, bow.
+- <ruby>[低下](../words/低下.md)<rt>ㄉㄝㄧㄏㄚ</rt></ruby>: to lower, drop, droop, bow; also "low" (of height), the opposite of [[高]] — the bare character 低 is bound, so 低下 carries the adjective (as in 低下母音, the low vowel).
 - <ruby>[低廉](../words/低廉.md)<rt>ㄉㄝㄧㄌ⼶ㄇ</rt></ruby>, <ruby>[廉価](../words/廉価.md)<rt>ㄌ⼶ㄇㄍㄚ</rt></ruby>: cheap, low priced — "low" of price, not physical height.
 - <ruby>[狭窄](../words/狭窄.md)<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>: narrow, constricted.
 - <ruby>[浅薄](../words/浅薄.md)<rt>ㄑㄝㄋㄅㄚㄎ</rt></ruby>: superficial, shallow (figurative).
@@ -126,7 +127,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 
 **巨大 vs. 碩大 vs. 宏大 vs. 浩大 — four "huge"s with different connotations**: [[巨大]] is the plain, neutral "gigantic, enormous." [[碩大]] leans toward solid, weighty bigness. [[宏大]] and [[浩大]] both carry a grander, more admiring tone — closer to "magnificent, vast" than merely "big" — with 浩大 specifically evoking something flood-like or overwhelming in scale (cf. [[蒼海]], "the vast ocean").
 
-**低廉/廉価 name "low" price, not "low" height**: this domain otherwise has no general adjective for physical lowness (the opposite of [[高]], "high") — a real, flagged gap, distinct from these two words' actual sense.
+**低廉/廉価 name "low" price, not "low" height**: these two words are not the general "low": the opposite of [[高]], "high", is [[低下]], whose sense includes "low" of height (the bare character 低 being bound). "Tall" is still uncoined.
 
 ## See Also
 

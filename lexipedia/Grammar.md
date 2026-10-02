@@ -288,6 +288,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[声門](../words/声門.md)<rt>ㄙㄧㄫㄇㄛㄋ</rt></ruby> "glottis; glottal"
 - <ruby>[両唇](../words/両唇.md)<rt>ㄌ⼘ㄫㄙㄨㄋ</rt></ruby> "bilabial"
 - <ruby>[圓唇](../words/圓唇.md)<rt>⼔ㄋㄙㄨㄋ</rt></ruby> "rounded (of a vowel or lips)" — 無圓唇 "unrounded"
+- <ruby>[滑音](../words/滑音.md)<rt>ㄏ⺢ㄊ·ㄨㄇ</rt></ruby> "glide" — the on-glide (介音) and the off-glide; ㄧ /j/ and ㄨ /w/
 - <ruby>[歯茎](../words/歯茎.md)<rt>ㄑㄧ·ㄎㄧㄫ</rt></ruby> "alveolar ridge; alveolar"
 - <ruby>[舌背](../words/舌背.md)<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"
 - <ruby>[塞音](../words/塞音.md)<rt>ㄙㄚㄧ·ㄨㄇ</rt></ruby> "stop, plosive"
