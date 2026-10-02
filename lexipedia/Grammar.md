@@ -274,6 +274,8 @@ The traditional classification of Chinese character formation.
 - <ruby>[正音](../words/正音.md)<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation, standard pronunciation"
 - <ruby>[発声](../words/発声.md)<rt>ㄈㄚㄊㄙㄧㄫ</rt></ruby> "vocalization; utterance; phonation"
 - <ruby>[振動音](../words/振動音.md)<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill, trill consonant"
+- <ruby>[弾指](../words/弾指.md)<rt>ㄉㄚㄋㄐㄧㄜ</rt></ruby> "finger snap; flick" — the stem of 弾指 + 子音 "flap consonant" (a single quick tongue contact, as against the repeated contact of the 振動音 trill)
+- <ruby>[流音](../words/流音.md)<rt>ㄌ⼜ㄨㄇ</rt></ruby> "liquid consonant" — the class of l- and r-type consonants; ㄌ /l ~ ɾ/ in Dan'a'yo
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language, spoken language"
 - <ruby>[韻図](../words/韻図.md)<rt>ㄨㄋㄉㄛ</rt></ruby> "rime table"
 - <ruby>[連声](../words/連声.md)<rt>ㄌ⼶ㄋㄙㄧㄫ</rt></ruby> "sandhi"
