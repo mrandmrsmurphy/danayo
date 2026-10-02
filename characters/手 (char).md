@@ -54,6 +54,7 @@ boundedness: 90
 - <ruby>[[手足]]<rt>ㄙ⼜ㄐㄛㄎ</rt></ruby> "limbs"
 - <ruby>[[手巾]]<rt>ㄙ⼜·ㄎㄧㄋ</rt></ruby> "towel"
 - <ruby>[[人手]]<rt>ㄋㄧㄋㄙ⼜</rt></ruby> "manpower; person's hand"
+- <ruby>[[新手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> "beginner, novice"
 - <ruby>[[手掌]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby> "palm"
 - <ruby>[[把手]]<rt>ㄅㄚㄙ⼜</rt></ruby> "grip; handle; knob"
 - <ruby>[[拍手]]<rt>ㄆㄚㄎㄙ⼜</rt></ruby> "applaud; clap"

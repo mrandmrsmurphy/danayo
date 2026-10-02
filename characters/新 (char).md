@@ -51,6 +51,7 @@ boundedness: 90
 - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"
 - <ruby>[[新羅]]<rt>ㄙㄧㄋㄌㄛ</rt></ruby> "Silla"
 - <ruby>[[新品]]<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby> "new products"
+- <ruby>[[新手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> "beginner, novice"
 - <ruby>[[新年]]<rt>ㄙㄧㄋㄋㄝㄋ</rt></ruby> "New Year"
 - <ruby>[[新語]]<rt>ㄙㄧㄋ·⼄</rt></ruby> "neologism"
 - <ruby>[[新嘉浦]]<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> "Singapore"

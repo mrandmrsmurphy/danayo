@@ -54,6 +54,7 @@ boundedness: 75
 - <ruby>[[貢品]]<rt>ㄍㄛㄫㄆㄨㄇ</rt></ruby> "tribute; tribute goods"
 - <ruby>[[品詞]]<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
 - <ruby>[[品目]]<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby> "article; item; inventory"
+- <ruby>[[部品]]<rt>ㄅㄛㄨㄆㄨㄇ</rt></ruby> "part, component"
 
 ## Derived Characters
 - <ruby>[[臨]]<rt>ㄌㄧㄇ</rt></ruby> "draw near; approach"
