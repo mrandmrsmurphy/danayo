@@ -53,7 +53,7 @@ boundedness: 75
 - 770th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄌㄝ](../syllables/ㄌㄝ.md)
 - [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
-### 借代字
+### 代用字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
 - "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')
 

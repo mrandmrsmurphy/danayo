@@ -41,7 +41,7 @@ This document records the observed rubric for character inclusion in Dan'a'yo, s
 
 ## 借代字 — What They Are
 
-A **借代字** is a character included in Dan'a'yo not as an independent word but as a bound member of a specific compound. Its `stand_in` field names that compound. Neither constituent character is productive outside it.
+A **借代字** is a character included in Dan'a'yo not as an independent word but as a bound member of a specific compound. *(Not to be confused with a **代用字**, the substitute-character category of `文法 - 03文字法`: a common character written in place of a rare one, as 就 in 海就 for 海鷲. A 代用字 is a spelling choice; a 借代字 is a bound character with no independent use, the "cranberry" case. Until 2026-10-02 the vault called both 借代字; the substitution sense has been renamed 代用字 throughout.)* Its `stand_in` field names that compound. Neither constituent character is productive outside it.
 
 Examples from the database: 鳳凰, 麒麟, 鸚鵡, 鴛鴦, 黼黻, 飢餓, 錯誤, 跳躍, 鵖鴔, 雴霫.
 

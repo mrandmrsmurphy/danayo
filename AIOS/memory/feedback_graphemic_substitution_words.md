@@ -1,11 +1,11 @@
 ---
 name: feedback_graphemic_substitution_words
-description: 借代字 substitution words (legal characters standing in for obscure ones) carry the target word's real cross-linguistic readings, but the conlang's own romanization is mechanically derived from the substitute characters
+description: 代用字 substitution words (legal characters standing in for obscure ones) carry the target word's real cross-linguistic readings, but the conlang's own romanization is mechanically derived from the substitute characters
 metadata:
   type: feedback
 ---
 
-Some character pages document a `### 借代字` ("borrowed/substitute character") note explaining that the character is being used to spell a different, obscure character's sound/role because the real character isn't in the Dan'a'yo set (e.g. [[爵]] aliased to 嚼, with 且 substituting for 咀, so that [[且爵]] stands in for the real word 咀嚼).
+Some character pages document a `### 代用字` ("borrowed/substitute character") note explaining that the character is being used to spell a different, obscure character's sound/role because the real character isn't in the Dan'a'yo set (e.g. [[爵]] aliased to 嚼, with 且 substituting for 咀, so that [[且爵]] stands in for the real word 咀嚼).
 
 This differs from [[feedback_standin_note]] (a word legitimizing one of its own constituent characters) — here, *neither* surface character is the "real" character for the target word; both are substitutes for entirely different, vault-excluded characters.
 
