@@ -28,6 +28,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[千米](../words/千米.md)<rt>ㄑㄝㄋㄇㄝㄧ</rt></ruby>: a kilometer.
 - <ruby>[毫](../words/毫.md)<rt>ㄏㄚㄨ</rt></ruby>: a fine hair — by technical extension, the SI prefix "milli-" (毫米, "millimeter"; 毫克, "milligram").
 - <ruby>[毫米](../words/毫米.md)<rt>ㄏㄚㄨㄇㄝㄧ</rt></ruby>: a millimeter — [[毫]]'s own "milli-" prefix compounded with [[公尺]]'s "meter" root.
+- <ruby>[厘](../words/厘.md)<rt>ㄌㄧ</rt></ruby>: the SI prefix "centi-" (厘米, "centimeter") — originally a small traditional unit of weight/length, also used for a 0.1% interest-rate unit.
 - <ruby>[公尺](../words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>: a meter.
 - <ruby>[里](../words/里.md)<rt>ㄌㄧ</rt></ruby>: a li — the traditional East Asian unit of distance (roughly 500m in modern China, though the value has varied by era and country), the closest indigenous analog to the Western mile; see Semantic Range Notes.
 - <ruby>[英里](../words/英里.md)<rt>ㄝㄫㄌㄧ</rt></ruby>: a mile — the Western statute mile specifically, named "English li" to keep it distinct from the native [[里]]; see Semantic Range Notes.

@@ -104,6 +104,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[兪允](../words/兪允.md)<rt>⼜ㄇ·⼜ㄋ</rt></ruby>: to consent to, permit (specifically of the emperor).
 - <ruby>[免除](../words/免除.md)<rt>ㄇ⼶ㄋㄐㄝㄧ</rt></ruby>: to excuse, relieve, exempt.
 - <ruby>[厳禁](../words/厳禁.md)<rt>⼄ㄇㄍㄧㄇ</rt></ruby>, <ruby>[禁制](../words/禁制.md)<rt>ㄍㄧㄇㄐㄝㄧ</rt></ruby>: strictly forbidden, prohibited.
+- <ruby>[厳](../words/厳.md)<rt>⼄ㄇ</rt></ruby>: strict, rigorous, stern — the bound root behind [[厳禁]] above (also [[厳重]], "serious, rigorous"; [[尊厳]], "dignity").
 - <ruby>[禁煙](../words/禁煙.md)<rt>ㄍㄧㄇ·ㄝㄋ</rt></ruby>: no smoking, tobacco prohibition.
 - <ruby>[禁酒](../words/禁酒.md)<rt>ㄍㄧㄇㄐㄨㄛ</rt></ruby>: prohibition of alcohol, temperance.
 - <ruby>[解禁](../words/解禁.md)<rt>ㄍ⼘ㄧㄍㄧㄇ</rt></ruby>: to lift a ban, rescind a prohibition.

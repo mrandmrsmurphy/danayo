@@ -80,7 +80,6 @@ words/割引.md
 words/割断.md
 words/創傷.md
 words/創立.md
-words/劃.md
 words/功績.md
 words/加多金.md
 words/加州金.md
@@ -95,7 +94,6 @@ words/募集.md
 words/勤勉.md
 words/勧告.md
 words/勾引.md
-words/勿.md
 words/包皮.md
 words/匈奴.md
 words/化学.md
@@ -117,7 +115,6 @@ words/午前.md
 words/午後.md
 words/半導体.md
 words/卍字.md
-words/卑.md
 words/卒業.md
 words/卓越.md
 words/協力.md
@@ -134,7 +131,6 @@ words/単詞.md
 words/単身.md
 words/単鷹国.md
 words/占卜.md
-words/卦.md
 words/印尼.md
 words/印度.md
 words/印度尼西亜.md
@@ -143,21 +139,16 @@ words/印度洋.md
 words/印章.md
 words/危殆.md
 words/危険.md
-words/即.md
-words/卸.md
 words/厉病.md
-words/厘.md
 words/厚顔.md
 words/原則.md
 words/原理.md
-words/厳.md
 words/厳然.md
 words/去年.md
 words/参差.md
 words/参拝.md
 words/参数.md
 words/参観.md
-words/及.md
 words/友誼.md
 words/双曲線.md
 words/双節棍.md
@@ -183,7 +174,6 @@ words/古語.md
 words/古風.md
 words/句杞.md
 words/叩頭.md
-words/叫.md
 words/叫喚.md
 words/召集.md
 words/可不.md

@@ -125,6 +125,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby>: to exclaim. See [Body](../lexipedia/Body.md) for its own citation there.
 - <ruby>[怒号](../words/怒号.md)<rt>ㄋㄛㄏㄚㄨ</rt></ruby>: to roar, howl in anger. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[呼喚](../words/呼喚.md)<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby>: to shout, cry to — the general verb.
+- <ruby>[叫](../words/叫.md)<rt>ㄍ⼘</rt></ruby>: to shout — an undocumented near-duplicate of [[呼喚]].
 - <ruby>[喊声](../words/喊声.md)<rt>ㄏㄚㄇㄙㄧㄫ</rt></ruby>: a shout, battle cry, war cry — a specialized military register, more noun than [[呼喚]]'s verb.
 - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle. See [Body](../lexipedia/Body.md) for its own citation there.
 

@@ -31,6 +31,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - or : <ruby>[或](../words/或.md)<rt>ㄏㄛㄎ</rt></ruby>
 - then : <ruby>[那](../words/那.md)<rt>ㄋㄚ</rt></ruby>
 - therefore, so, consequently, thus : <ruby>[焉](../words/焉.md)<rt>ㄝㄋ</rt></ruby>, <ruby>[所以](../words/所以.md)<rt>ㄙㄜㄧ</rt></ruby>
+- namely, in other words, that is to say (introduces a restatement/clarification rather than new information) : <ruby>[即](../words/即.md)<rt>ㄐㄜㄎ</rt></ruby>
 - in order that, so as to (introduces a purpose clause) : <ruby>[以便](../words/以便.md)<rt>ㄧㄅ⼶ㄋ</rt></ruby>
 - while, during, at the time of : <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>
 - because, else, nor, though, unless: not yet coined.
@@ -50,6 +51,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - might/perhaps <ruby>[可能](../words/可能.md)<rt>ㄎㄜ·ㄋㄜㄫ</rt></ruby>
 - must <ruby>[不可不](../words/不可不.md)<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> — literally "cannot not"
 - don't! (prohibitive command, Mandarin only) / unnecessary (descriptive, all five languages) <ruby>[不要](../words/不要.md)<rt>ㄅㄛㄊ⼄ㄨ</rt></ruby> — a genuine false friend: Japanese/Korean/Vietnamese kept only the descriptive half, using native forms for "don't" instead.
+- do not ever (a more emphatic, formal/classical prohibition than [[不要]]) <ruby>[勿](../words/勿.md)<rt>ㄇㄨㄊ</rt></ruby>
 - ought, should, have to : <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>
 - shall/will <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>
 - could, would: not yet coined.

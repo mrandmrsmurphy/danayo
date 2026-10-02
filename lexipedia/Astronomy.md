@@ -37,6 +37,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
 - <ruby>[乾](../words/乾.md)<rt>ㄍ⼶ㄋ</rt></ruby>: the Heaven trigram (乾卦) itself, pure yang — also "dry," a unified Dan'a'yo sense distinct from the unrelated [[干]]/[[幹]].
 - <ruby>[八卦](../words/八卦.md)<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby>: the bagua, the eight trigrams — the full set of eight symbols used in Daoist cosmology and the I Ching, of which [[乾]] is one.
+- <ruby>[卦](../words/卦.md)<rt>ㄍ⺢ㄧ</rt></ruby>: a trigram — the bound root behind [[八卦]] above, naming a single trigram or hexagram of the system.
 - <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
 - <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
 - <ruby>[無極](../words/無極.md)<rt>ㄇㄜㄍㄧㄎ</rt></ruby>: limitless, without ultimate — in Daoist cosmology, the primordial undifferentiated state that precedes even 太極, pure potentiality before any polarity arises.

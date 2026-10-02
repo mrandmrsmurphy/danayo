@@ -1,13 +1,3 @@
-words/劃.md
-words/勿.md
-words/卑.md
-words/卦.md
-words/即.md
-words/卸.md
-words/厘.md
-words/厳.md
-words/及.md
-words/叫.md
 words/各.md
 words/合.md
 words/吉.md
