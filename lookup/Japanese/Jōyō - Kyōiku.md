@@ -272,7 +272,7 @@ The following prefecture names were added in 2017:
 260. [勉 (char)](../../characters/勉%20(char).md) : ben , tsuto-meru , diligence , 
 261. [動 (char)](../../characters/動%20(char).md) : dō , ugo-ku , move , 
 262. [勝](../../characters/勝.md) : shō , ka-tsu , win , 
-263. [化 (char)](../../characters/化%20(char).md) : ka , ba-keru;  ba-kasu , disguise;  -ification , 
+263. [化](../../characters/化.md) : ka , ba-keru;  ba-kasu , disguise;  -ification , 
 264. [区](../../characters/区.md) : ku , – , ward , 
 265. [医](../../characters/医.md) : i , – , doctor , 
 266. [去 (char)](../../characters/去%20(char).md) : kyo or ko , sa-ru , leave , 

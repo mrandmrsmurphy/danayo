@@ -156,7 +156,7 @@ tags: [lookup]
 [孩](../../characters/孩.md): 3
 [合 (char)](../../characters/合%20(char).md): 3
 [相](../../characters/相.md): 3
-[化 (char)](../../characters/化%20(char).md): 3
+[化](../../characters/化.md): 3
 [动](../../characters/動%20(char).md): 3
 [基](../../characters/基.md): 3
 [本 (char)](../../characters/本%20(char).md): 3

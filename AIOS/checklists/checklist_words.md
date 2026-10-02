@@ -41,7 +41,7 @@ tags:
 vietnamese: tuần này   # Sino-Vietnamese or modern Vietnamese
 hsk_level: "2"         # HSK level as a quoted string, if the word appears in HSK
 swadesh: number          # only present if this is a Swadesh-list word
-aliases:               # simplified, traditional, or alternate orthographic forms
+aliases:               # simplified, traditional, or alternate orthographic forms; a word named with fullwidth hyphen `－` (U+FF0D) MUST alias its ASCII `-` form, quoted (see feedback_affix_naming_and_productivity)
   - 今周
 lexipedia:             # structured mirror of the "- See [Domain]" Notes bullet below — one entry per domain page this word appears on
   - DomainName

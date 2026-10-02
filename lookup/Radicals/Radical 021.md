@@ -11,7 +11,7 @@ tags: [lookup]
 ## Characters
 ### Used
 1. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
-2. <ruby>[化](/characters/化%20(char).md)<rt>ㄏ⺢</rt></ruby> - -ification
+2. <ruby>[化](/characters/化.md)<rt>ㄏ⺢</rt></ruby> - -ification
 3. <ruby>[北](/characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
 4. <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
 

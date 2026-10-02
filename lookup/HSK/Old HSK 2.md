@@ -165,7 +165,7 @@ tags: [lookup]
 [此 (char)](../../characters/此%20(char).md): 6
 [答 (char)](../../characters/答%20(char).md): 6
 [调](../../characters/調.md): 6
-[[化 (char)]]: 6
+[[化]]: 6
 [[解 (char)]]: 6
 [[取]]: 6
 [[如 (char)]]: 6

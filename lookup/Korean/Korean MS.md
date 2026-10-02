@@ -942,7 +942,7 @@ tags: [lookup]
 [紅 (char)](../../characters/紅%20(char).md) (붉을 홍)
 
 #### 화
-[火 (char)](../../characters/火%20(char).md) (불 화) [化 (char)](../../characters/化%20(char).md) (될 화) [花](../../characters/花.md) (꽃 화) [貨](../../characters/貨.md) (재화 화) [[和]] (화할 화) [話 (char)](../../characters/話%20(char).md) (말할 화) [畵](../../characters/画.md) (그림 화) [華](../../characters/華.md) (빛날 화)
+[火 (char)](../../characters/火%20(char).md) (불 화) [化](../../characters/化.md) (될 화) [花](../../characters/花.md) (꽃 화) [貨](../../characters/貨.md) (재화 화) [[和]] (화할 화) [話 (char)](../../characters/話%20(char).md) (말할 화) [畵](../../characters/画.md) (그림 화) [華](../../characters/華.md) (빛날 화)
 
 #### 환
 [[歓|歡]] (기뻐할 환) [患 (char)](../../characters/患%20(char).md) (근심 환)

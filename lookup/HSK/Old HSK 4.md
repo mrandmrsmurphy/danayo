@@ -15,7 +15,7 @@ tags: [lookup]
 [手 (char)](../../characters/手%20(char).md): 23
 [而 (char)](characters/而%20(char).md): 23
 [可 (char)](../../characters/可%20(char).md): 23
-[化 (char)](../../characters/化%20(char).md): 23
+[化](../../characters/化.md): 23
 [生](../../characters/生.md): 23
 [發](characters/発%20(char).md): 22
 [气](characters/気%20(char).md): 22

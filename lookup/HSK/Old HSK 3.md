@@ -63,7 +63,7 @@ tags: [lookup]
 [机](../../characters/机.md): 10
 [机](../../characters/机.md): 10
 [多 (char)](../../characters/多%20(char).md): 10
-[化 (char)](../../characters/化%20(char).md): 10
+[化](../../characters/化.md): 10
 [外](../../characters/外.md): 10
 [开](../../characters/開.md): 10
 [開](../../characters/開.md): 10
