@@ -113,6 +113,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
+- <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: upright, honest, incorrupt — especially the virtue of resisting bribery (廉潔, 清廉); a secondary sense, "cheap, low-priced," is housed on [Trade](../lexipedia/Trade.md).
+- <ruby>[徳](../words/徳.md)<rt>ㄊㄨㄎ</rt></ruby>: virtue, moral excellence — the bound root behind [[仁徳]] above; a second, unrelated sense ("germanium," the element) is housed on [Periodic Table](../lexipedia/Periodic%20Table.md) instead.
 - <ruby>[人道](../words/人道.md)<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby>: humane, humanitarian (人道主義, "humanitarianism") — literally "the proper way for humans," parallel to 天道/地道.
 - <ruby>[令色](../words/令色.md)<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby>: flattering looks, a sycophantic expression — the insincere counterfeit of the genuine virtues above, from the Analects' 巧言令色，鮮矣仁 ("fine words and an ingratiating face — such men are seldom truly benevolent").
 - <ruby>[偽善](../words/偽善.md)<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby>: hypocrisy, hypocritical — false virtue, feigning goodness to conceal one's true nature; a broader counterfeit than [[令色]]'s specifically facial/verbal flattery.

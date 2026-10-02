@@ -24,6 +24,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
 - <ruby>[便宜](../words/便宜.md)<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby>: cheap, inexpensive (in Mandarin/Cantonese) — a genuine cross-linguistic heteronym: the same compound means "convenience, expediency" in Japanese/Korean instead, not "cheap" at all.
+- <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: cheap, low-priced (廉価, "low price") — a secondary sense of the same word whose primary sense is "upright, honest," housed on [Society](../lexipedia/Society.md).
 - <ruby>[費](../words/費.md)<rt>ㄈㄚㄧ</rt></ruby>: an expense, a cost — also, as a verb, "to spend, to waste" (浪費, "to waste"; 費用, "expense, cost").
 - <ruby>[品](../words/品.md)<rt>ㄆㄨㄇ</rt></ruby>: an article, item, product (品目, "inventory entry") — the general word for a good or piece of merchandise, not previously cited on this page.
 
@@ -85,6 +86,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 - <ruby>[貨幣](../words/貨幣.md)<rt>ㄏ⺢·ㄆㄝ</rt></ruby>: money, currency.
 - <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: money, currency — an undocumented near-duplicate of [[貨幣]].
+- <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.
 
 ### Work

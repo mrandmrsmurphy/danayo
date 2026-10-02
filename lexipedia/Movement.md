@@ -19,6 +19,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 
 - <ruby>[来](../words/来.md)<rt>ㄌㄚㄧ</rt></ruby>: to come — see [[Calendar]] for its own citation there.
 - <ruby>[去](../words/去.md)<rt>ㄎ⼄</rt></ruby>: to go.
+- <ruby>[往](../words/往.md)<rt>⺢ㄫ</rt></ruby>: to go towards (往復, "round trip"; 往来, "coming and going, interaction") — a near-synonym of [[去]].
 - <ruby>[入](../words/入.md)<rt>ㄋㄧㄆ</rt></ruby>: to enter.
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.

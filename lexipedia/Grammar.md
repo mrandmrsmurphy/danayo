@@ -40,6 +40,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Deictics
 - that <ruby>[其](../words/其.md)<rt>ㄍㄜ</rt></ruby>
 - this <ruby>[此](../words/此.md)<rt>ㄑㄜ</rt></ruby>
+- that, yonder (the distal member completing the 此/其/彼 three-way system: this/middle/far) <ruby>[彼](../words/彼.md)<rt>ㄅㄜ</rt></ruby> — see the Correlative Pronoun System below for its full paradigm.
 - there <ruby>[其処](../words/其処.md)<rt>ㄍㄜㄑㄛ</rt></ruby>
 - here <ruby>[此処](../words/此処.md)<rt>ㄑㄜㄑㄛ</rt></ruby>
 

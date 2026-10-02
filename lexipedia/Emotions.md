@@ -24,6 +24,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[満足](../words/満足.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: satisfied, contented.
 - <ruby>[喜悦](../words/喜悦.md)<rt>ㄏㄧ⼶ㄊ</rt></ruby>: joyous, happy.
 - <ruby>[孤独](../words/孤独.md)<rt>ㄍㄛㄉㄛㄎ</rt></ruby>: lonely, solitary.
+- <ruby>[幽](../words/幽.md)<rt>⼜ㄛ</rt></ruby>: quiet, secluded, dark — a place's own quality of tranquil seclusion (幽玄, a key Japanese aesthetic concept), not [[孤独]]'s personal feeling of loneliness.
 - <ruby>[恨](../words/恨.md)<rt>ㄏㄚㄋ</rt></ruby>: to hate; a grudge.
 - <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>: to entertain, amuse oneself.
 - <ruby>[不安](../words/不安.md)<rt>ㄅㄛㄊ·ㄚㄋ</rt></ruby>: anxiety, unease, insecurity.

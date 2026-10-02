@@ -1,13 +1,3 @@
-words/幣.md
-words/幽.md
-words/広.md
-words/庸.md
-words/廉.md
-words/弄.md
-words/弥.md
-words/強.md
-words/彼.md
-words/往.md
 words/徳.md
 words/心.md
 words/必.md

@@ -24,9 +24,11 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: the brain — see [[Body]] for its own citation there.
 - <ruby>[精神](../words/精神.md)<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby>: spirit, mind, psyche.
+- <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.
+- <ruby>[必](../words/必.md)<rt>ㄅㄧㄊ</rt></ruby>: surely, definitely — the bound root behind [[必要]] above and 必然 ("necessary, inevitable," the top of [Knowledge](../lexipedia/Knowledge.md)'s own epistemic-certainty gradient, referenced there but not yet its own word page).
 - <ruby>[需要](../words/需要.md)<rt>ㄙㄨ⼄ㄨ</rt></ruby>: to need, require.
 - <ruby>[記憶](../words/記憶.md)<rt>ㄍㄧㄧㄎ</rt></ruby>: to remember, recollect; a memory.
 - <ruby>[喜](../words/喜.md)<rt>ㄏㄧ</rt></ruby>: to like, love, enjoy.

@@ -55,6 +55,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[苟](../words/苟.md)<rt>ㄍㄛㄨ</rt></ruby>: if only.
 - <ruby>[頗](../words/頗.md)<rt>ㄈㄚ</rt></ruby>: very.
 - <ruby>[太](../words/太.md)<rt>ㄊㄚㄧ</rt></ruby>: too, excessively (太好了, "that's too good") — the emphatic superlative of [[大]], narrowed in modern Mandarin to this degree-adverb sense.
+- <ruby>[弥](../words/弥.md)<rt>ㄇㄝ</rt></ruby>: all the more, increasingly — an intensifying adverb (弥漫, "to pervade," literally "increasingly spread").
 - <ruby>[充分](../words/充分.md)<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>: ample, plenty, enough.
 - <ruby>[分之](../words/分之.md)<rt>ㄅㄨㄋㄊㄧ</rt></ruby>: the fraction marker (denominator分之numerator) — Rosenfelder's "fraction."
 
@@ -65,6 +66,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[深長](../words/深長.md)<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby>: long and deep, profound, abstruse.
 - <ruby>[崇高](../words/崇高.md)<rt>ㄐㄨㄫㄍㄚㄨ</rt></ruby>: lofty, supreme, sublime, high (figurative).
 - <ruby>[博大](../words/博大.md)<rt>ㄅㄚㄎㄉㄚㄧ</rt></ruby>, <ruby>[広範](../words/広範.md)<rt>ㄍ⺢ㄫㄈㄚㄇ</rt></ruby>, <ruby>[闊](../words/闊.md)<rt>ㄎ⺢ㄊ</rt></ruby>: broad, wide.
+- <ruby>[広](../words/広.md)<rt>ㄍ⺢ㄫ</rt></ruby>: wide, broad — the bound root behind [[広範]] above (also [[広場]] "plaza," [[広野]] "wilderness").
 - <ruby>[寛大](../words/寛大.md)<rt>ㄎ⺢ㄋㄉㄚㄧ</rt></ruby>: magnanimous, lenient — figurative "broad" (of character, not physical space).
 - <ruby>[闊葉](../words/闊葉.md)<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby>: broad-leaf.
 - <ruby>[低下](../words/低下.md)<rt>ㄉㄝㄧㄏㄚ</rt></ruby>: to lower, drop, droop, bow.

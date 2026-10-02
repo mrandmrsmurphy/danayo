@@ -115,6 +115,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[簡単](../words/簡単.md)<rt>ㄍㄚㄋㄉㄚㄋ</rt></ruby>: simple — the clean, standard word.
 - <ruby>[簡易](../words/簡易.md)<rt>ㄍㄚㄋ·⼶ㄎ</rt></ruby>: simple — a near-synonym of [[簡単]].
 - <ruby>[一般](../words/一般.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>: ordinary — "general, common." See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
+- <ruby>[庸](../words/庸.md)<rt>⼄ㄫ</rt></ruby>: commonplace, ordinary, mediocre (庸人, "an unremarkable person") — leans more negative/unremarkable than [[一般]]'s neutral "general"; also the root of 中庸, the foundational Confucian "golden mean."
 - <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: ordinary — "everyday, daily." See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[普及](../words/普及.md)<rt>ㄆㄛㄍㄨㄆ</rt></ruby>: popular — "to spread widely, become universal," a process/verb register rather than a plain adjective. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[常用](../words/常用.md)<rt>ㄙ⼘ㄫ⼄ㄫ</rt></ruby>: regular — "commonly used, routine."

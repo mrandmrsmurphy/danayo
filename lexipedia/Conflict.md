@@ -181,6 +181,7 @@ Rosenfelder terms with no Dan'a'yo word yet: to suspect, a trap, rash, to argue,
 - <ruby>[貳](../words/貳.md)<rt>ㄋㄧㄜ</rt></ruby>: disloyal, to betray — a single rare, literary character.
 - <ruby>[乱離](../words/乱離.md)<rt>ㄌㄚㄋㄌㄝㄧ</rt></ruby>: chaos, exile, refugeeism — a literary register.
 - <ruby>[伎両](../words/伎両.md)<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby>: skill, ability; underhanded trick, ploy.
+- <ruby>[弄](../words/弄.md)<rt>ㄌㄛㄫ</rt></ruby>: to toy with, tamper with — by extension, to abuse or overstep (弄權, "to abuse power").
 - <ruby>[錮](../words/錮.md)<rt>ㄍㄛ</rt></ruby>: to confine, imprison — a bound root, more technical/legal register than [[監禁]]/[[禁錮]].
 - <ruby>[幟](../words/幟.md)<rt>ㄑㄧ</rt></ruby>: pennant, banner — the bound root behind [[旗幟]] above.
 
