@@ -89,6 +89,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[口臭](../words/口臭.md)<rt>ㄎㄛㄨㄑㄨ</rt></ruby>: bad breath.
 - <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.
 - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
+- <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby>: uvula.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
 - <ruby>[歯齦](../words/歯齦.md)<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby>: gingiva, gums.
 - <ruby>[歯痛](../words/歯痛.md)<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby>: toothache.

@@ -276,13 +276,18 @@ The traditional classification of Chinese character formation.
 - <ruby>[振動音](../words/振動音.md)<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill, trill consonant"
 - <ruby>[弾指](../words/弾指.md)<rt>ㄉㄚㄋㄐㄧㄜ</rt></ruby> "finger snap; flick" — the stem of 弾指 + 子音 "flap consonant" (a single quick tongue contact, as against the repeated contact of the 振動音 trill)
 - <ruby>[流音](../words/流音.md)<rt>ㄌ⼜ㄨㄇ</rt></ruby> "liquid consonant" — the class of l- and r-type consonants; ㄌ /l ~ ɾ/ in Dan'a'yo
+- <ruby>[破裂音](../words/破裂音.md)<rt>ㄆㄜㄌㄝㄊ·ㄨㄇ</rt></ruby> "plosive" — the outward burst, air from the lungs; the plain member of the three-way system of bursts
+- <ruby>[入破音](../words/入破音.md)<rt>ㄋㄧㄆㄆㄜㄨㄇ</rt></ruby> "implosive" — the inward burst, air drawn in by a lowered larynx (not 内破音, which in Japanese means the unreleased stop)
+- <ruby>[喉破音](../words/喉破音.md)<rt>ㄏㄛㄨㄆㄜㄨㄇ</rt></ruby> "ejective" — the throat burst, air pushed out by a raised larynx; not used in Dan'a'yo itself
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language, spoken language"
 - <ruby>[韻図](../words/韻図.md)<rt>ㄨㄋㄉㄛ</rt></ruby> "rime table"
 - <ruby>[連声](../words/連声.md)<rt>ㄌ⼶ㄋㄙㄧㄫ</rt></ruby> "sandhi"
 - <ruby>[硬口蓋](../words/硬口蓋.md)<rt>ㄚㄫ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "hard palate; palatal"
 - <ruby>[軟口蓋](../words/軟口蓋.md)<rt>ㄋㄝㄋ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "soft palate; velar"
+- <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula; uvular"
 - <ruby>[声門](../words/声門.md)<rt>ㄙㄧㄫㄇㄛㄋ</rt></ruby> "glottis; glottal"
 - <ruby>[両唇](../words/両唇.md)<rt>ㄌ⼘ㄫㄙㄨㄋ</rt></ruby> "bilabial"
+- <ruby>[圓唇](../words/圓唇.md)<rt>⼔ㄋㄙㄨㄋ</rt></ruby> "rounded (of a vowel or lips)" — 無圓唇 "unrounded"
 - <ruby>[歯茎](../words/歯茎.md)<rt>ㄑㄧ·ㄎㄧㄫ</rt></ruby> "alveolar ridge; alveolar"
 - <ruby>[舌背](../words/舌背.md)<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"
 - <ruby>[塞音](../words/塞音.md)<rt>ㄙㄚㄧ·ㄨㄇ</rt></ruby> "stop, plosive"

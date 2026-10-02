@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby> "circle; round" (stand-in for 圓)
 - <ruby>[[圓周]]<rt>⼔ㄋㄐㄨㄛ</rt></ruby> "circumference"
 - <ruby>[[圓周率]]<rt>⼔ㄋㄐㄨㄛㄌㄨㄊ</rt></ruby> "pi"
+- <ruby>[[圓唇]]<rt>⼔ㄋㄙㄨㄋ</rt></ruby> "rounded (lips)"
 - <ruby>[[圓形]]<rt>⼔ㄋㄏㄝㄫ</rt></ruby> "circular; round shape"
 - <ruby>[[圓錐]]<rt>⼔ㄋㄐㄨㄧ</rt></ruby> "cone"
 - <ruby>[[圓光]]<rt>⼔ㄋㄎ⺢ㄫ</rt></ruby> "halo; nimbus"

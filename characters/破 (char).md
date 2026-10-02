@@ -53,6 +53,9 @@ boundedness: 100
 - <ruby>[[破]]<rt>ㄆㄜ</rt></ruby> "rend; break" (stand-in for 破)
 - <ruby>[[破壊]]<rt>ㄆㄜㄏ⺢ㄧ</rt></ruby> "destruction; demolition"
 - <ruby>[[破裂]]<rt>ㄆㄜㄌㄝㄊ</rt></ruby> "rupture; burst; crack"
+- <ruby>[[破裂音]]<rt>ㄆㄜㄌㄝㄊ·ㄨㄇ</rt></ruby> "plosive"
+- <ruby>[[入破音]]<rt>ㄋㄧㄆㄆㄜㄨㄇ</rt></ruby> "implosive"
+- <ruby>[[喉破音]]<rt>ㄏㄛㄨㄆㄜㄨㄇ</rt></ruby> "ejective"
 - <ruby>[[破綻]]<rt>ㄆㄜㄉㄚㄋ</rt></ruby> "bankruptcy; breakdown; failure"
 - <ruby>[[破戒]]<rt>ㄆㄜㄍ⼶</rt></ruby> "break a commandment"
 - <ruby>[[破暁]]<rt>ㄆㄜㄏ⼘ㄨ</rt></ruby> "daybreak"

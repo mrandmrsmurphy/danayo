@@ -53,6 +53,7 @@ boundedness: 70
 - <ruby>[[入]]<rt>ㄋㄧㄆ</rt></ruby> "enter" (stand-in for 入)
 - <ruby>[[購入]]<rt>ㄍㄛㄨㄋㄧㄆ</rt></ruby> "purchase"
 - <ruby>[[侵入]]<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby> "to invade; to intrude"
+- <ruby>[[入破音]]<rt>ㄋㄧㄆㄆㄜㄨㄇ</rt></ruby> "implosive"
 - <ruby>[[入籍]]<rt>ㄋㄧㄆㄐㄝㄎ</rt></ruby> "enter"
 - <ruby>[[入口]]<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> "entrance"
 - <ruby>[[入場]]<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby> "enter a venue"
