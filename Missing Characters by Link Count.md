@@ -66,7 +66,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Hyōgai + Korean Name
 [[瑕]] · [[宦]] · [[檻]] · [[屹]] · [[謔]] · [[噓]] · [[莢]] · [[畦]] · [[蹊]] · [[呟]]
-[[熾]] · [[峙]] · [[痔]] · [[贅]] · [[嗟]] · [[懺]] · [[睫]]
+[[熾]] · [[峙]] · [[痔]] · [[贅]] · [[嗟]] · [[懺]]
 
 ### Old HSK 4 + Korean Name ㄱ
 [[淇]] · [[饋]] · [[稈]] · [[譏]] · [[轎]] · [[譴]]
@@ -78,7 +78,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[韌]] · [[豌]] · [[瘟]] · [[蘊]]
 
 ### Hyōgai + Korean Name ㅂ
-[[梵]] · [[牝]] · [[跋]] · [[粕]] · [[胚]]
+[[梵]] · [[牝]] · [[粕]] · [[胚]]
 
 ### Old HSK 4 + Korean Name ㅅ
 [[篩]] · [[蒜]] · [[瀉]] · [[絮]]
@@ -215,9 +215,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Korean Name ㄱ + SKIP-1-2-6
 [[佼]]
-
-### Korean Name ㄱ + SKIP-1-3-21
-[[characters/衢 (char)]]
 
 ### Korean Name ㄱ + SKIP-1-6-7
 [[粳]]

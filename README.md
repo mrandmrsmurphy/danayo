@@ -46,9 +46,18 @@ The following are not content pages, but "programming"
 - [word_info](nav/word_info.md)
 - [CLAUDE](CLAUDE.md)
 - [AGENTS](AGENTS.md)
-	- [AIOS](AIOS/memory-index.md)
-		- [Character Inclusion Philosophy](AIOS/memory/Character%20Inclusion%20Philosophy.md)
+	- [AIOS](AIOS/README.md)
+		- [Vault Structure](AIOS/vault-structure.md)
+		- [Me](AIOS/me.md)
+		- [Memory Index](AIOS/memory-index.md)
+		- [Projects](AIOS/projects.md)
+		- [Skill Index](AIOS/skill-index.md)
+		- [Checklist Index](AIOS/checklist-index.md)
 ----
+
+## Content
+
+- [Lexipedia](lexipedia/Lexipedia.md) — domain-organized vocabulary (Animals, Body, Government, Measurement, etc.)
 
 ## Bases
 

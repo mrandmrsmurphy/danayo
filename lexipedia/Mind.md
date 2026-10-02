@@ -69,6 +69,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[惑](../words/惑.md)<rt>ㄏㄛㄎ</rt></ruby>: confusing, bewildering; to doubt.
 - <ruby>[懐疑](../words/懐疑.md)<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby>: doubt, skepticism.
+- <ruby>[疑義](../words/疑義.md)<rt>ㄧ·ㄜㄧ</rt></ruby>: a doubtful point, a question about what something means — narrower than [[懐疑]]'s general skepticism, specifically about meaning or interpretation (疑義を唱える, "to raise a query").
 - <ruby>[寿着](../words/寿着.md)<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby>: to hesitate, waver, be undecided.
 - <ruby>[猶予](../words/猶予.md)<rt>⼜ㄛ⼄</rt></ruby>: to hesitate — also carries the extended sense of a grace period or deferral in formal/legal register.
 
