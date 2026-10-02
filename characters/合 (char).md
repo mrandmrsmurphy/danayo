@@ -70,6 +70,8 @@ boundedness: 100
 - <ruby>[[合成]]<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby> "synthesis; compound"
 - <ruby>[[融合]]<rt>⼜ㄫㄍㄛㄆ</rt></ruby> "fuse, blend, integrate"
 - <ruby>[[集合]]<rt>ㄐㄧㄆㄍㄛㄆ</rt></ruby> "assemble, gather; a group, a set"
+- <ruby>[[複合]]<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby> "compound; composite"
+- <ruby>[[複合語]]<rt>ㄅㄨㄎㄍㄛㄆ·⼄</rt></ruby> "compound word"
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
