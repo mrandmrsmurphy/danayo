@@ -83,6 +83,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[国民党](../words/国民党.md)<rt>ㄍㄛㄎㄇㄧㄋㄉㄚㄫ</rt></ruby>: the Nationalist Party.
 - <ruby>[共和](../words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby>: collaboration, cooperation, republicanism.
 - <ruby>[民主](../words/民主.md)<rt>ㄇㄧㄋㄐㄨ</rt></ruby>: democracy — originally "sovereign" in Classical Chinese (民之主, "ruler of the people"), repurposed in the mid-1860s during the translation of *Elements of International Law*.
+- <ruby>[汎亜](../words/汎亜.md)<rt>ㄈㄚㄇ·ㄚ</rt></ruby>: Pan-Asian (汎亜主義, "Pan-Asianism").
 - <ruby>[総統](../words/総統.md)<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>: a president, head of state.
 
 ### Government Bodies & Offices

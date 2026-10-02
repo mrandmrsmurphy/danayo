@@ -249,6 +249,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[失礼](../words/失礼.md)<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby>: rude, impolite.
 - <ruby>[日常](../words/日常.md)<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby>: everyday, routine, ordinary.
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
+- <ruby>[江湖](../words/江湖.md)<rt>ㄍㄚㄫㄏㄛㄨ</rt></ruby>: the itinerant world outside settled society, the criminal underworld (as in wuxia fiction), or a reclusive life — the "world" [[武侠]]'s wandering swordsmen move through; literally "rivers and lakes," see [Geography](../lexipedia/Geography.md) for that literal sense (reserved, out of scope here).
 - <ruby>[恭遜](../words/恭遜.md)<rt>ㄍ⼄ㄫㄙㄛㄋ</rt></ruby>: politeness, courteousness, civility — Rosenfelder's "polite," deliberately not [[客気]]; see Semantic Range Notes.
 - <ruby>[拝](../words/拝.md)<rt>ㄅ⼶</rt></ruby>: to bow, kowtow.
 - <ruby>[鞠躬](../words/鞠躬.md)<rt>ㄍㄨㄎㄍㄨㄫ</rt></ruby>: to bow respectfully — a near-synonym of [[拝]].

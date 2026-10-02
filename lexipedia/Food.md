@@ -65,6 +65,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[剝皮](../words/剝皮.md)<rt>ㄅㄛㄎㄅㄧ</rt></ruby>: to skin, peel, flay.
 - <ruby>[漬](../words/漬.md)<rt>ㄐㄝ</rt></ruby>: to pickle, salt, soak, steep.
 - <ruby>[醸造](../words/醸造.md)<rt>ㄋ⼘ㄫㄑㄚㄨ</rt></ruby>: to brew, ferment.
+- <ruby>[沈菜](../words/沈菜.md)<rt>ㄑㄧㄇㄑㄚㄧ</rt></ruby>: kimchi — the archaic Sino-Korean term, historical etymon of modern Korean 김치.
 
 ### Meat & Seafood
 
@@ -79,6 +80,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 
 - <ruby>[禾](../words/禾.md)<rt>ㄏ⺢</rt></ruby>: grain, cereal (the plant).
 - <ruby>[禾稲](../words/禾稲.md)<rt>ㄏ⺢ㄉㄚㄨ</rt></ruby>: rice (as a crop).
+- <ruby>[水稲](../words/水稲.md)<rt>ㄙㄨㄉㄚㄨ</rt></ruby>: paddy rice — rice planted in a water-logged paddy, as opposed to dry-field rice.
+- <ruby>[水田](../words/水田.md)<rt>ㄙㄨㄉㄝㄋ</rt></ruby>: a rice paddy, paddy field — the land [[水稲]] grows in.
 - <ruby>[穀物](../words/穀物.md)<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>: grain, cereal, crops.
 - <ruby>[穣](../words/穣.md)<rt>ㄋ⼘ㄫ</rt></ruby>: stalks of grain.
 - <ruby>[米粟](../words/米粟.md)<rt>ㄇㄝㄧㄙ⼄ㄎ</rt></ruby>: grains, rice and millet.

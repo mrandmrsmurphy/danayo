@@ -17,6 +17,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[水](../words/水.md)<rt>ㄙㄨ</rt></ruby>: water.
 - <ruby>[洗](../words/洗.md)<rt>ㄙㄝㄋ</rt></ruby>: to wash, to rinse.
 - <ruby>[洗濯](../words/洗濯.md)<rt>ㄙㄝㄋㄉㄚㄎ</rt></ruby>: to launder — specifically clothes-washing, narrower than [[洗]]'s general "to wash."
+- <ruby>[沐浴](../words/沐浴.md)<rt>ㄇㄛㄎ·⼄ㄎ</rt></ruby>: to bathe, cleanse — the body-washing specialization, alongside [[洗濯]]'s clothes-washing one.
 - <ruby>[清潔](../words/清潔.md)<rt>ㄑㄧㄫㄍㄝㄊ</rt></ruby>: clean, pure.
 - <ruby>[乾燥](../words/乾燥.md)<rt>ㄍ⼶ㄋㄙㄚㄨ</rt></ruby>: dry, arid.
 - <ruby>[氷水](../words/氷水.md)<rt>ㄅㄧㄫㄙㄨ</rt></ruby>: ice.
@@ -87,6 +88,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
   - **Note**: [[浜]] and [[岸]] overlap (浜's own glosses include "bank" too) — 岸 is the more general "bank/shore" word, while 浜 leans specifically toward the sea's edge rather than a riverbank.
 - <ruby>[灘](../words/灘.md)<rt>ㄊㄚㄋ</rt></ruby>: bank, shoal — specifically a sandbar or shallow river ford, narrower still than either [[岸]] or [[浜]].
 - <ruby>[汀](../words/汀.md)<rt>ㄊㄝㄫ</rt></ruby>: a sand bar, a water's-edge flat — an undocumented near-duplicate of [[灘]], with no recorded distinction between the two.
+- <ruby>[沿海](../words/沿海.md)<rt>⼔ㄇㄏㄚㄧ</rt></ruby>: coastal — the adjective, as opposed to the noun shore/bank words above.
 - <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
 - <ruby>[畔](../words/畔.md)<rt>ㄅㄚㄋ</rt></ruby>: ridge, boundary — another near-duplicate of [[岸]]/[[浜]] in its common "waterside" extension (湖畔, "lakeside"; 河畔, "riverside"), though its root sense is a field-ridge boundary rather than a water's edge specifically.
 

@@ -101,6 +101,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 - <ruby>[誇張](../words/誇張.md)<rt>ㄎ⺢ㄑㄚㄫ</rt></ruby>: to exaggerate, overstate — the plain action verb.
 - <ruby>[誇](../words/誇.md)<rt>ㄎ⺢</rt></ruby>: to boast, brag, exaggerate — a personality-trait register, an undocumented near-duplicate alongside [[誇張]].
+- <ruby>[法螺](../words/法螺.md)<rt>ㄈㄚㄆㄌㄚ</rt></ruby>: to boast, brag — literally the conch-shell trumpet used in Buddhist ritual (法螺を吹く, "to blow the conch"), cited here for its dominant modern figurative sense.
 - <ruby>[騙](../words/騙.md)<rt>ㄆ⼶ㄋ</rt></ruby>: to deceive, cheat, defraud.
 - <ruby>[諂](../words/諂.md)<rt>ㄑㄝㄇ</rt></ruby>: to flatter.
 - <ruby>[風刺](../words/風刺.md)<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby>: to mock — the satirical/mockery register.

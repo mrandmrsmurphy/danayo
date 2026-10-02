@@ -52,6 +52,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[陸地](../words/陸地.md)<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby>: land, dry land, landmass — land as opposed to sea, distinct from [[土地]]'s ground/soil sense.
 - <ruby>[地](../words/地.md)<rt>ㄉㄧㄜ</rt></ruby>: land — the bound, classical form.
 - <ruby>[磐石](../words/磐石.md)<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby>: a boulder, bedrock.
+- <ruby>[沖積](../words/沖積.md)<rt>ㄑㄨㄫㄐㄝㄎ</rt></ruby>: alluvial — sediment deposited by flowing water.
 
 ### Weather Phenomena
 
@@ -80,6 +81,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫㄛㄋ</rt></ruby>: a garden — see [[Buildings]] for its own citation there.
 - <ruby>[薮沢](../words/薮沢.md)<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>: a marsh, swamp.
+- <ruby>[沼沢](../words/沼沢.md)<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>: a swamp, bog — an undocumented near-duplicate of [[薮沢]].
 
 ## Advanced / Specialized (C1+)
 

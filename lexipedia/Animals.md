@@ -19,6 +19,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[犬](../words/犬.md)<rt>ㄎ⼔ㄋ</rt></ruby>: dog.
 - <ruby>[馬](../words/馬.md)<rt>ㄇㄚ</rt></ruby>: horse.
 - <ruby>[牛](../words/牛.md)<rt>ㄋ⼜</rt></ruby>: cow, ox, cattle.
+- <ruby>[水牛](../words/水牛.md)<rt>ㄙㄨ·ㄋ⼜</rt></ruby>: water buffalo.
 - <ruby>[豚](../words/豚.md)<rt>ㄊㄨㄋ</rt></ruby>: pig.
 - <ruby>[鶏](../words/鶏.md)<rt>ㄍㄝㄧ</rt></ruby>: chicken.
 - <ruby>[兎](../words/兎.md)<rt>ㄊㄛ</rt></ruby>: rabbit.
@@ -134,6 +135,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[猿猩](../words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>: monkey, ape — the stand-in compound that legitimizes the bound character 猿.
 - <ruby>[倭猩](../words/倭猩.md)<rt>⼔ㄧㄙㄝㄫ</rt></ruby>: bonobo.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
+- <ruby>[河馬](../words/河馬.md)<rt>ㄏㄚ·ㄇㄚ</rt></ruby>: hippopotamus.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
 - <ruby>[狸](../words/狸.md)<rt>ㄌㄜ</rt></ruby>: a tanuki, raccoon dog — a real, distinct animal, not to be confused with [[狐狸]]'s compound "fox" sense above despite sharing the same character.
