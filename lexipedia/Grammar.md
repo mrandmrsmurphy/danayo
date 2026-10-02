@@ -226,6 +226,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[漢蔵](../words/漢蔵.md)<rt>ㄏㄚㄋㄑㄚㄫ</rt></ruby> "Sino-Tibetan"
 - <ruby>[繁体字](../words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "traditional Chinese characters"
 - <ruby>[簡体字](../words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "simplified Chinese characters"
+- <ruby>[減字](../words/減字.md)<rt>ㄍㄚㄇㄐㄧ</rt></ruby> "character reduction"
 - <ruby>[篆書](../words/篆書.md)<rt>ㄐ⼔ㄋㄙ⼄</rt></ruby> "seal script"
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
