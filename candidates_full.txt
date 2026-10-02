@@ -1,13 +1,3 @@
-words/投.md
-words/披.md
-words/拂.md
-words/拉.md
-words/持.md
-words/挙.md
-words/挟.md
-words/捌.md
-words/捕.md
-words/捨.md
 words/掲.md
 words/揚.md
 words/換.md
