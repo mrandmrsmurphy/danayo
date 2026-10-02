@@ -15,6 +15,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 
 - <ruby>[容器](../words/容器.md)<rt>⼄ㄫㄎㄧㄜ</rt></ruby>: a container, vessel — the general word for this whole domain.
 - <ruby>[箱](../words/箱.md)<rt>ㄙㄚㄫ</rt></ruby>: a case, box, chest, trunk.
+- <ruby>[套](../words/套.md)<rt>ㄊㄛㄨ</rt></ruby>: a covering, sheath, case (筆套, "pen cap"; 手套, "glove"; 外套, "overcoat") — distinct from [[箱]]'s rigid box, and by extension the measure word for a matched set (一套書, "a set of books").
 - <ruby>[袋](../words/袋.md)<rt>ㄉㄚㄧ</rt></ruby>: a sack, bag.
 - <ruby>[瓶](../words/瓶.md)<rt>ㄅㄝㄫ</rt></ruby>: a jug, bottle, pot.
 - <ruby>[鍵](../words/鍵.md)<rt>ㄍ⼶ㄋ</rt></ruby>: a key.

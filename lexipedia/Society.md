@@ -56,6 +56,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 - <ruby>[五倫](../words/五倫.md)<rt>ㄛㄌㄨㄋ</rt></ruby>: the Five Relationships — [[三綱]]'s fuller, more symmetrical counterpart, adding elder–younger sibling and friend–friend, the two pairs without a strict superior/subordinate structure.
 - <ruby>[五常](../words/五常.md)<rt>ㄛㄙ⼘ㄫ</rt></ruby>: the Five Constant Virtues (仁義禮智信) — the personal-virtue counterpart to [[五倫]]'s relational framework, almost always cited paired with [[三綱]] in the combined formula 三綱五常.
+- <ruby>[孝](../words/孝.md)<rt>ㄏ⼘ㄨ</rt></ruby>: filial piety — one of the core Confucian virtues, not itself one of the Five Constants but foundational to [[五倫]]'s parent-child relationship (孝行, "filial conduct"; 不孝, "unfilial").
 
 ### Migration & Belonging
 

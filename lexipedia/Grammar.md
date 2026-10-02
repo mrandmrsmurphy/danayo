@@ -98,6 +98,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - how : <ruby>[如何](../words/如何.md)<rt>ㄋ⼄ㄏㄚ</rt></ruby>, <ruby>[甚様](../words/甚様.md)<rt>ㄙㄧㄇ·⼘ㄫ</rt></ruby> (what manner, of what sort)
 - what : <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>
 - why : <ruby>[何故](../words/何故.md)<rt>ㄏㄚㄍㄛ</rt></ruby>
+- how, why, what, where (classical register; a phonetic loan from the original "slave, servant" sense) : <ruby>[奚](../words/奚.md)<rt>ㄏㄝㄧ</rt></ruby> — patterns with [[何]]/[[如何]] above, but skews adverbial.
 - whether, which: not yet coined.
 
 ## Correlative Pronoun System
@@ -157,6 +158,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
 - <ruby>[哉](../words/哉.md)<rt>ㄐㄚㄧ</rt></ruby> "O (vocative case particle, 呼格, marking direct address: 善哉, 'Excellent!'; also an exclamatory sentence-final particle)"
+- <ruby>[夫](../words/夫.md)<rt>ㄈㄜ</rt></ruby> "right?, indeed! (classical sentence-final exclamatory/rhetorical confirmation particle, from the Analects: 逝者如斯夫, 'it passes on like this!')"
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"

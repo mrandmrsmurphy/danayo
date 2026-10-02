@@ -110,6 +110,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 - <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby>: nipple.
 - <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy (clinical/formal register).
+- <ruby>[妊](../words/妊.md)<rt>ㄋㄧㄇ</rt></ruby>: to be pregnant, conceive — the bound root behind [[妊娠]] above.
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, be pregnant (the everyday Mandarin verb, 懷孕/怀孕).
 - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
 - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.

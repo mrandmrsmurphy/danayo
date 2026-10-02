@@ -45,6 +45,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[皇后](../words/皇后.md)<rt>ㄏ⺢ㄫㄏㄛㄨ</rt></ruby>: an empress, queen consort.
 - <ruby>[天皇](../words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>: the Emperor of Japan, Mikado.
 - <ruby>[女皇](../words/女皇.md)<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby>: an empress.
+- <ruby>[姫](../words/姫.md)<rt>ㄍㄧ</rt></ruby>: a princess (the everyday Japanese sense, ひめ); elsewhere in the Sinosphere, a palace lady, concubine, or honorific for a noblewoman (寵姬, "favored concubine") — "princess" there survives mainly bound inside specific royal titles rather than standing alone.
 - <ruby>[大王](../words/大王.md)<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby>: a great king.
 - <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
@@ -58,6 +59,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).
 - <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ·⼔ㄧ</rt></ruby>: a peerage, title of nobility.
 - <ruby>[男爵](../words/男爵.md)<rt>ㄋㄚㄇㄐㄚㄎ</rt></ruby>: a baron — the lowest of the Five Ranks of Nobility (五等爵).
+- <ruby>[封](../words/封.md)<rt>ㄈㄛㄫ</rt></ruby>: to enfeoff — to grant land together with lordship over it, the feudal system (封建, "enfeoffment and establishment," the source of 封建制度, "feudalism"); a separate, newer sense means "to seal, close" (a letter, container), also the counter for letters (一封信, "one letter").
 
 ### Officials & Bureaucracy
 

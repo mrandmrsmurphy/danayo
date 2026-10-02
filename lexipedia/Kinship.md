@@ -25,6 +25,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[大人](../words/大人.md)<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby>: adult, grown-up.
 - <ruby>[丈夫](../words/丈夫.md)<rt>ㄑㄚㄫㄈㄜ</rt></ruby>: husband.
 - <ruby>[妻](../words/妻.md)<rt>ㄑㄝㄧ</rt></ruby>: wife.
+- <ruby>[婦](../words/婦.md)<rt>ㄅ⼜</rt></ruby>: lady, woman — the bound root behind [[夫婦]] (married couple) and [[主婦]] (housewife), below.
 - <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: a married couple.
 - <ruby>[配偶](../words/配偶.md)<rt>ㄆㄛㄧㄛㄨ</rt></ruby>: spouse.
 - <ruby>[夫人](../words/夫人.md)<rt>ㄈㄜ·ㄋㄧㄋ</rt></ruby>: madam, lady — a formal, respectful address term for a wife.
@@ -176,6 +177,8 @@ Words for the kin-group itself, rather than any one relative within it.
 
 - <ruby>[少年](../words/少年.md)<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>: boy, youngster.
 - <ruby>[少女](../words/少女.md)<rt>ㄙㄛㄨㄋㄜ</rt></ruby>: girl, young woman.
+- <ruby>[娘](../words/娘.md)<rt>ㄋㄚㄫ</rt></ruby>: young woman, girl — an undocumented near-duplicate of [[少女]].
+- <ruby>[女](../words/女.md)<rt>ㄋㄜ</rt></ruby>: woman — the bare morpheme, rarely standing alone across the Sinosphere (kept largely to compounds and classifier slots like [[少女]] above); the bound root behind a large family of 女-headed words.
 - <ruby>[人類](../words/人類.md)<rt>ㄋㄧㄋㄌㄨㄧ</rt></ruby>: humanity, human, humankind.
 - <ruby>[人民](../words/人民.md)<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby>: people, the public, citizens.
 - <ruby>[群衆](../words/群衆.md)<rt>ㄍㄨㄋㄐㄨㄫ</rt></ruby>: a crowd, the masses.

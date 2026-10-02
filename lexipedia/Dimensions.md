@@ -53,6 +53,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[矣](../words/矣.md)<rt>⼔</rt></ruby>: indeed.
 - <ruby>[苟](../words/苟.md)<rt>ㄍㄛㄨ</rt></ruby>: if only.
 - <ruby>[頗](../words/頗.md)<rt>ㄈㄚ</rt></ruby>: very.
+- <ruby>[太](../words/太.md)<rt>ㄊㄚㄧ</rt></ruby>: too, excessively (太好了, "that's too good") — the emphatic superlative of [[大]], narrowed in modern Mandarin to this degree-adverb sense.
 - <ruby>[充分](../words/充分.md)<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>: ample, plenty, enough.
 - <ruby>[分之](../words/分之.md)<rt>ㄅㄨㄋㄊㄧ</rt></ruby>: the fraction marker (denominator分之numerator) — Rosenfelder's "fraction."
 

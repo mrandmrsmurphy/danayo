@@ -21,6 +21,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky.
 - <ruby>[行星](../words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>: a planet.
 - <ruby>[宇宙](../words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>: universe, cosmos, space-time — the underlying metaphor is a house, with "eaves" (宇) and "roof beams" (宙): we are looking up at the underside of a roof.
+- <ruby>[宙](../words/宙.md)<rt>ㄐㄨㄛ</rt></ruby>: eternity, infinite time — the classical "time" half of [[宇宙]] above (宇 being infinite space); survives almost exclusively bound inside that compound in Mandarin, Cantonese, Korean, and Vietnamese.
 - <ruby>[銀河](../words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>: the Milky Way as seen in the sky — literally "the silver river." See Semantic Range Notes.
 - <ruby>[星座](../words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>: a constellation — 星座 is an alias of this word's real filename, [[星坐]].
 - <ruby>[天文](../words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>: the whole culture and practice of looking up at the stars.

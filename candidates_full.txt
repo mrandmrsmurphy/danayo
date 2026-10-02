@@ -1,13 +1,3 @@
-words/太.md
-words/夫.md
-words/套.md
-words/奚.md
-words/女.md
-words/妊.md
-words/妙.md
-words/姜.md
-words/姫.md
-words/娘.md
 words/婦.md
 words/孔.md
 words/孝.md

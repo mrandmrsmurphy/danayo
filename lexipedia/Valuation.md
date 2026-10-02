@@ -33,6 +33,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[偉大](../words/偉大.md)<rt>ㄨㄧㄉㄚㄧ</rt></ruby>: great — of character or achievement, distinct from plain [[大]].
 - <ruby>[浩大](../words/浩大.md)<rt>ㄏㄚㄨㄉㄚㄧ</rt></ruby>: great — vast, immense. See [Dimensions](../lexipedia/Dimensions.md) for its own citation there.
 - <ruby>[完璧](../words/完璧.md)<rt>ㄏ⺢ㄋㄅㄝㄎ</rt></ruby>: perfect — flawless.
+- <ruby>[妙](../words/妙.md)<rt>ㄇ⼄ㄨ</rt></ruby>: mysterious, subtle, exquisite (妙案, "a brilliant idea"; 妙技, "an exquisite skill").
 - <ruby>[完全](../words/完全.md)<rt>ㄏ⺢ㄋㄐ⼔ㄋ</rt></ruby>: perfect — complete, whole, distinct from [[完璧]]'s flawlessness.
 - <ruby>[良好](../words/良好.md)<rt>ㄌ⼘ㄫㄏㄚㄨ</rt></ruby>: fine — the "good quality" sense.
 - <ruby>[中等](../words/中等.md)<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby>: intermediate, medium grade, middle level — the unmarked midpoint on any quality scale (中等 income, 中等 difficulty), not [[良好]]'s positive judgment; also names the middle tier of East Asia's 初等/中等/高等 (elementary/secondary/higher) educational classification.
