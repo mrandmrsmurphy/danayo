@@ -271,6 +271,15 @@ The traditional classification of Chinese character formation.
 - <ruby>[無声](../words/無声.md)<rt>ㄇㄜㄙㄧㄫ</rt></ruby> "voiceless"
 - <ruby>[有声](../words/有声.md)<rt>⼜ㄙㄧㄫ</rt></ruby> "voiced"
 - <ruby>[送気](../words/送気.md)<rt>ㄙㄛㄫ·ㄎㄧㄜ</rt></ruby> "aspiration"
+- <ruby>[語末](../words/語末.md)<rt>⼄·ㄇㄚㄊ</rt></ruby> "word-final"
+- <ruby>[文末](../words/文末.md)<rt>ㄇㄨㄋㄇㄚㄊ</rt></ruby> "sentence-final"
+- <ruby>[音位](../words/音位.md)<rt>ㄨㄇ·⼔ㄧ</rt></ruby> "phoneme; phonemic"
+- <ruby>[音価](../words/音価.md)<rt>ㄨㄇㄍㄚ</rt></ruby> "phonetic value"
+- <ruby>[疑問](../words/疑問.md)<rt>ㄧ·ㄇㄨㄋ</rt></ruby> "question; interrogative"
+- <ruby>[終止](../words/終止.md)<rt>ㄐㄨㄫㄐㄧ</rt></ruby> "cessation; final (verb) form"
+- <ruby>[介音](../words/介音.md)<rt>ㄍ⼶ㄨㄇ</rt></ruby> "glide; medial sound"
+- <ruby>[前舌](../words/前舌.md)<rt>ㄐㄝㄋㄙㄝㄊ</rt></ruby> "front (of the tongue)"
+- <ruby>[後舌](../words/後舌.md)<rt>ㄏㄨㄛ·ㄙㄝㄊ</rt></ruby> "back (of the tongue)"
 
 ## Lexicon & Language
 - <ruby>[字彙](../words/字彙.md)<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon, vocabulary"

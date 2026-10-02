@@ -52,3 +52,7 @@ boundedness: 90
 - [SKIP-3-3-11](../lookup/SKIP/SKIP-3/SKIP-3-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 4098th most used character in Classical Chinese (long-tail rank from the fuller source ranking; beyond the local mirrors' top ~4000). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄑㄜㄫ](../syllables/ㄑㄜㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Words
+- <ruby>[[層]]<rt>ㄑㄜㄫ</rt></ruby> "stratum" (stand-in for 層)
+- <ruby>[[古層]]<rt>ㄍㄛㄑㄜㄫ</rt></ruby> "ancient stratum, archaic layer"

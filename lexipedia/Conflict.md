@@ -48,6 +48,8 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[抗議](../words/抗議.md)<rt>ㄏㄚㄫㄜㄧ</rt></ruby>: to protest, object.
 - <ruby>[排斥](../words/排斥.md)<rt>ㄆㄚㄧㄑㄝㄎ</rt></ruby>: to reject, exclude, ostracize.
 
+- <ruby>[対立](../words/対立.md)<rt>ㄉㄛㄧ·ㄌㄧㄆ</rt></ruby>: opposition, contrast.
+
 ### Weapons
 
 - <ruby>[凶器](../words/凶器.md)<rt>ㄏ⼜ㄫㄎㄧㄜ</rt></ruby>: murder weapon, lethal weapon, deadly implement.

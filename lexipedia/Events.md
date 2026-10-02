@@ -34,6 +34,8 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 
 ### Frequency & Repetition
 
+- <ruby>[過程](../words/過程.md)<rt>ㄍ⺢ㄉㄧㄫ</rt></ruby>: a process, a course of change over time.
+
 - <ruby>[屢](../words/屢.md)<rt>ㄌㄨ</rt></ruby>, <ruby>[頻](../words/頻.md)<rt>ㄆㄧㄇ</rt></ruby>: frequently, often, again and again, repeatedly.
 - <ruby>[重複](../words/重複.md)<rt>ㄑㄛㄫㄅㄨㄎ</rt></ruby>: to repeat, duplicate; repetitive.
 - <ruby>[誦](../words/誦.md)<rt>ㄙㄛㄫ</rt></ruby>: to recite, chant, repeat.

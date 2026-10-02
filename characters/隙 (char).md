@@ -52,3 +52,4 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[隙]]<rt>ㄎㄝㄎ</rt></ruby> "fissure, grudge" (stand-in for 隙)
+- <ruby>[[空隙]]<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby> "a gap"

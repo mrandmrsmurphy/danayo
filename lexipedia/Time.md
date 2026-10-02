@@ -50,6 +50,8 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[一斉](../words/一斉.md)<rt>ㄧㄊㄐㄝㄧ</rt></ruby>: simultaneous, all at once — the complementary concept to before/after sequencing above: no leader-follower stagger at all.
 - <ruby>[交互](../words/交互.md)<rt>ㄍ⼄ㄨㄏㄛ</rt></ruby>: alternating, in turn, mutually — [[一斉]]'s opposite manner of coordinated action (taking turns one after another, not together at once).
 
+- <ruby>[古層](../words/古層.md)<rt>ㄍㄛㄑㄜㄫ</rt></ruby>: an ancient stratum, archaic layer.
+
 ### Duration & Period
 
 - <ruby>[期間](../words/期間.md)<rt>ㄎㄧㄍㄚㄋ</rt></ruby>: a period, time, duration — the clean, general noun.

@@ -56,6 +56,10 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
 
+- <ruby>[具体](../words/具体.md)<rt>ㄍㄨ·ㄊㄝㄧ</rt></ruby>: concrete, specific.
+- <ruby>[許容](../words/許容.md)<rt>ㄏ⼄⼄ㄫ</rt></ruby>: to permit, tolerate.
+- <ruby>[容認](../words/容認.md)<rt>⼄ㄫㄋㄧㄋ</rt></ruby>: to accept.
+
 ### Desire & Will
 
 - <ruby>[意欲](../words/意欲.md)<rt>ㄜ⼄ㄎ</rt></ruby>: motivation, desire, ambition — see [[Emotions]] for its own citation there.

@@ -59,6 +59,9 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[真実](../words/真実.md)<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby>: truth, reality; "real."
 - <ruby>[真正](../words/真正.md)<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby>: genuine, real.
 
+- <ruby>[文脈](../words/文脈.md)<rt>ㄇㄨㄋㄇㄚㄎ</rt></ruby>: context.
+- <ruby>[習得](../words/習得.md)<rt>ㄙㄜㄆㄊㄜㄎ</rt></ruby>: acquisition, mastery.
+
 ### Evidence, Proof & Error
 
 - <ruby>[証明](../words/証明.md)<rt>ㄐㄧㄫㄇ⼶ㄫ</rt></ruby>: to prove, to confirm.

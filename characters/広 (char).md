@@ -57,6 +57,7 @@ boundedness:
 - <ruby>[[広野]]<rt>ㄍ⺢ㄫ⼘</rt></ruby> "wilderness"
 - <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
 - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> "plaza; square"
+- <ruby>[[広東]]<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby> "Guangdong, Canton"
 
 ## Derived Characters
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"

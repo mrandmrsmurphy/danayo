@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[而後]]<rt>ㄋㄧㄏㄨㄛ</rt></ruby> "after that; only then"
 - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄛㄨ</rt></ruby> "back; rear; behind"
 - <ruby>[[紀元後]]<rt>ㄍㄧ⼔ㄋㄏㄨㄛ</rt></ruby> "AD; CE"
+- <ruby>[[後舌]]<rt>ㄏㄨㄛ·ㄙㄝㄊ</rt></ruby> "back (of the tongue)"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

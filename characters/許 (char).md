@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[准許]]<rt>ㄐㄨㄋㄏ⼄</rt></ruby> "allow; permit"
 - <ruby>[[允許]]<rt>⼜ㄋㄏ⼄</rt></ruby> "grant; allow"
 - <ruby>[[不許]]<rt>ㄅㄛㄊㄏ⼄</rt></ruby> "forbid"
+- <ruby>[[許容]]<rt>ㄏ⼄⼄ㄫ</rt></ruby> "to permit, tolerate"
 
 ## Derived Characters
 - <ruby>[[御]]<rt>⼄</rt></ruby> "defend"

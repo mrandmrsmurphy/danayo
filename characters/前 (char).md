@@ -69,6 +69,7 @@ boundedness: 100
 - <ruby>[[空前]]<rt>ㄎㄛㄫㄐㄝㄋ</rt></ruby> "unprecedented; as never before"
 - <ruby>[[前世紀]]<rt>ㄐㄝㄋㄙㄝㄍㄧ</rt></ruby> "previous century"
 - <ruby>[[紀元前]]<rt>ㄍㄧ⼔ㄋㄐㄝㄋ</rt></ruby> "B.C.; B.C.E."
+- <ruby>[[前舌]]<rt>ㄐㄝㄋㄙㄝㄊ</rt></ruby> "front (of the tongue)"
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
 - <ruby>[[珠投猪前]]<rt>ㄐㄨㄉㄛㄨㄐㄛㄐㄝㄋ</rt></ruby> "throwing pearls before swine"

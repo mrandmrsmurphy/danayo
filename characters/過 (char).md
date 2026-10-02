@@ -63,3 +63,4 @@ boundedness: 90
 - <ruby>[[通過]]<rt>ㄊㄛㄫㄍ⺢</rt></ruby> "pass"
 - <ruby>[[過失]]<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby> "fault, error, negligence"
 - <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> "oversensitive, allergic, hypersensitive"
+- <ruby>[[過程]]<rt>ㄍ⺢ㄉㄧㄫ</rt></ruby> "a process"

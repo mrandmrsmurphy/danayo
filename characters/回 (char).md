@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[回教徒]]<rt>ㄏㄛㄧㄍ⼄ㄨㄉㄛ</rt></ruby> "Muslim"
 - <ruby>[[回紇]]<rt>ㄏㄛㄧㄏㄜㄊ</rt></ruby> "Uighur"
 - <ruby>[[回族]]<rt>ㄏㄛㄧㄐㄛㄎ</rt></ruby> "Hui ethnicity"
+- <ruby>[[回避]]<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby> "to avoid"
 
 ## Chengyu
 - <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "revival from the point of death"

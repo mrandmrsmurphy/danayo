@@ -66,6 +66,7 @@ boundedness: 100
 - <ruby>[[航空]]<rt>ㄏㄚㄫㄎㄛㄫ</rt></ruby> "aviation"
 - <ruby>[[航空母艦]]<rt>ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ</rt></ruby> "aircraft carrier"
 - <ruby>[[孫悟空]]<rt>ㄙㄛㄋ·ㄛ·ㄎㄛㄫ</rt></ruby> "Monkey King"
+- <ruby>[[空隙]]<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby> "a gap"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
