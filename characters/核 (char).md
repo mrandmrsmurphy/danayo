@@ -54,3 +54,4 @@ boundedness: 90
 - <ruby>[[核]]<rt>ㄏㄚㄎ</rt></ruby> "nucleus" (stand-in for 核 (char))
 - <ruby>[[核金]]<rt>ㄏㄚㄎㄍㄧㄇ</rt></ruby> "ytterbium (neologism)"
 - <ruby>[[陰核]]<rt>ㄧㄇㄏㄚㄎ</rt></ruby> "clitoris"
+- <ruby>[[核位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> "nucleus position (within a final)"

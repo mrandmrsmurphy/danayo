@@ -243,6 +243,9 @@ The traditional classification of Chinese character formation.
 ## Phonology
 - <ruby>[声母](../words/声母.md)<rt>ㄙㄧㄫㄇㄛㄨ</rt></ruby> "initial consonant (of a syllable)"
 - <ruby>[韻母](../words/韻母.md)<rt>ㄨㄋㄇㄛㄨ</rt></ruby> "rhyme, final (of a syllable)"
+- <ruby>[介位](../words/介位.md)<rt>ㄍ⼶·⼔ㄧ</rt></ruby> "glide position (within a final)"
+- <ruby>[核位](../words/核位.md)<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> "nucleus position (within a final)"
+- <ruby>[尾位](../words/尾位.md)<rt>ㄇㄨㄧ·⼔ㄧ</rt></ruby> "coda position (within a final)"
 - <ruby>[声調](../words/声調.md)<rt>ㄙㄧㄫㄐㄨㄛ</rt></ruby> "tone, note"
 - <ruby>[子音](../words/子音.md)<rt>ㄐㄜㄨㄇ</rt></ruby> "consonant"
 - <ruby>[母音](../words/母音.md)<rt>ㄇㄛㄨㄨㄇ</rt></ruby> "vowel" — [[子音]]'s counterpart.
@@ -254,6 +257,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[振動音](../words/振動音.md)<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill, trill consonant"
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language, spoken language"
 - <ruby>[韻図](../words/韻図.md)<rt>ㄨㄋㄉㄛ</rt></ruby> "rime table"
+- <ruby>[連声](../words/連声.md)<rt>ㄌ⼶ㄋㄙㄧㄫ</rt></ruby> "sandhi"
 
 ## Lexicon & Language
 - <ruby>[字彙](../words/字彙.md)<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon, vocabulary"

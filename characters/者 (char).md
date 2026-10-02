@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[流亡者]]<rt>ㄌ⼜·ㄇㄚㄫㄑㄚ</rt></ruby> "an exile, a person living in exile"
 - <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 - <ruby>[[話者]]<rt>ㄏ⺢ㄧ·ㄑㄚ</rt></ruby> "speaker"
+- <ruby>[[学習者]]<rt>ㄏㄚㄎㄙㄜㄆㄑㄚ</rt></ruby> "learner"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

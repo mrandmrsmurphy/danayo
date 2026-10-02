@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[連結]]<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby> "connect, link, join"
 - <ruby>[[連続]]<rt>ㄌ⼶ㄋㄙ⼄ㄎ</rt></ruby> "continuous; consecutive"
 - <ruby>[[連濁]]<rt>ㄌ⼶ㄋㄉㄚㄎ</rt></ruby> "rendaku"
+- <ruby>[[連声]]<rt>ㄌ⼶ㄋㄙㄧㄫ</rt></ruby> "sandhi"
 - <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"
 - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby> "internet"
 
