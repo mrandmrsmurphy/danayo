@@ -57,7 +57,6 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一万]]<rt>ㄧㄊㄇㄛㄋ</rt></ruby> "ten thousand"
 - <ruby>[[一千]]<rt>ㄧㄊㄑㄝㄋ</rt></ruby> "one thousand"
 - <ruby>[[一百]]<rt>ㄧㄊㄅㄚㄎ</rt></ruby> "one hundred"
-- <ruby>[[一半]]<rt>ㄧㄊㄅㄚㄋ</rt></ruby> "half"
 - <ruby>[[一瞥]]<rt>ㄧㄊㄆㄝㄊ</rt></ruby> "a glance"
 - <ruby>[[一月]]<rt>ㄧㄊ⼔ㄊ</rt></ruby> "January"
 - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> "first"

@@ -86,7 +86,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
   - **Note**: distinct from [[再度]] ("again, once more"), which names repetition without specifying a count.
 - <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby>: dozen.
   - **Etymology**: 打 here is a *phonetic* loan of English "dozen" in Mandarin/Cantonese, unrelated to 打's ordinary "hit" sense — see the word's own Notes for the full etymology.
-- <ruby>[一半](../words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>: half, one half.
+- <ruby>[半](../words/半.md)<rt>ㄅㄚㄋ</rt></ruby>: half.
 - <ruby>[四分之一](../words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby>: quarter.
 - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>: single (alone, solitary).
 - <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: couple (married pair).

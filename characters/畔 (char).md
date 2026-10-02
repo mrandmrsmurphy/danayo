@@ -44,7 +44,7 @@ date-last-perfect: 2026-08-12
 ```
 
 ## Notes
-- 形聲 (OC \*baːns): semantic [[Radical 102|田]] ("field") + phonetic [[半]] (OC \*paːns, a close match) — the boundary path dividing fields; a boundary, limit; side, bank (e.g., 耳畔, "at one's ear").
+- 形聲 (OC \*baːns): semantic [[Radical 102|田]] ("field") + phonetic [[半 (char)|半]] (OC \*paːns, a close match) — the boundary path dividing fields; a boundary, limit; side, bank (e.g., 耳畔, "at one's ear").
 - [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
 - 1364th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](syllables/ㄅㄚㄋ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)

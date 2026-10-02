@@ -72,7 +72,7 @@ tags: [lookup]
 67. <ruby>[[号]]<rt>ㄏㄚㄨ</rt></ruby> - symbol	
 68. <ruby>[[外]]<rt>⺢ㄧ</rt></ruby> - outside	
 69. <ruby>[用](characters/用.md)<rt>⼄ㄫ</rt></ruby> - use	
-70. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half	
+70. <ruby>[半](characters/半%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> - half	
 71. <ruby>[白 (char)](characters/白%20(char).md)<rt>ㄅㄚㄎ</rt></ruby> - white	
 72. <ruby>[主](characters/主.md)<rt>ㄐㄨ</rt></ruby> - lord, master	
 73. <ruby>[立 (char)](characters/立%20(char).md)<rt>ㄌㄧㄆ</rt></ruby> - stand	

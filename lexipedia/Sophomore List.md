@@ -7,7 +7,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ## Adjectives 
 - Numbers
 	- zero - <ruby>[零](words/零.md)<rt>ㄌㄝㄫ</rt></ruby>
-	- half - <ruby>[一半](words/一半.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>
+	- half - <ruby>[半](words/半.md)<rt>ㄅㄚㄋ</rt></ruby>
 	- quarter - <ruby>[四分之一](/words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby>
 	- six - <ruby>[六](/words/六.md)<rt>ㄌㄨㄎ</rt></ruby>
 	- seven - <ruby>[七](/words/七.md)<rt>ㄑㄧㄊ</rt></ruby>

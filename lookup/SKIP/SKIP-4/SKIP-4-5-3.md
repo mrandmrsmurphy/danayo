@@ -16,7 +16,7 @@ tags: [lookup]
 3. <ruby>[本](characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> "foundation"
 4. <ruby>[禾](characters/禾%20(char).md)<rt>ㄏ⺢</rt></ruby> "grain"
 5. <ruby>[冉](characters/冉.md)<rt>ㄋ⼶ㄇ</rt></ruby> "passing of time"
-6. <ruby>[半](characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> "half"
+6. <ruby>[半](characters/半%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> "half"
 7. <ruby>[末](characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> "end"
 8. <ruby>[朮](characters/朮.md)<rt>ㄐㄨㄊ</rt></ruby> "atractylodes"
 9. <ruby>[申](characters/申.md)<rt>ㄙㄝㄋ</rt></ruby> "report"

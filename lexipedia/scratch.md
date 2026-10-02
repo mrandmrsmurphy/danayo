@@ -2575,7 +2575,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[校舎]] — school building, school house
 
 ## Calendar (116)
-- [[一半]] — one half
+- [[半]] — half
 - [[万乗]] — ten thousand chariots, imperial power
 - [[万年]] — ten thousand years, eternity; all ages
 - [[不可以]] — cannot, may not (impermissive)

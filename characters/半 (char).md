@@ -25,7 +25,7 @@ hanmun_edu_level: "中"
 danayo_id: 70
 mc_id: 711
 graphemic_classification: "会意"
-stand_in: "一半"
+stand_in: "半"
 aliases:
 注音: "ㄅㄚㄋ"
 date-last-perfect: 2026-07-16
@@ -43,7 +43,7 @@ boundedness: 80
 - 711th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](../syllables/ㄅㄚㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
-- <ruby>[[一半]]<rt>ㄧㄊㄅㄚㄋ</rt></ruby> "one half" (stand-in for 半)
+- <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby> "half" (stand-in for 半)
 - <ruby>[[半導体]]<rt>ㄅㄚㄋㄉㄚㄨㄊㄝㄧ</rt></ruby> "semiconductor"
 - <ruby>[[上半期]]<rt>ㄙ⼘ㄫㄅㄚㄋㄎㄧ</rt></ruby> "first half of the year"
 - <ruby>[[下半期]]<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby> "second half of the year"

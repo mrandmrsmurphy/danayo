@@ -22,7 +22,7 @@ tags: [lookup]
 
 ### +3 Strokes
 5. <ruby>[卉](../../characters/卉.md)<rt>ㄏㄨㄧ</rt></ruby> - flowering plant
-6. <ruby>[半](../../characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - half
+6. <ruby>[半](../../characters/半%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> - half
 
 ### +4 Strokes
 7. <ruby>[卍](../../characters/卍.md)<rt>ㄇㄛㄋ</rt></ruby> - swastika

@@ -178,7 +178,7 @@ tags: [lookup]
 [著](../../characters/着%20(char).md): 6
 [伯](../../characters/伯.md): 6
 [护](../../characters/護.md): 6
-[[半]]: 6
+[[半 (char)|半]]: 6
 [[北]]: 6
 [[表]]: 6
 [[充]]: 6

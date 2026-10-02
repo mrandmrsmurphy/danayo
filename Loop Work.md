@@ -60,13 +60,13 @@ Next two by `danayo_id` (67, 68). Both stamped `date-last-perfect: 2026-07-16`.
 
 Next: 用, 半, 白, 主, 立 per `danayo_id`.
 
-### 2026-07-16, iteration 18 — [[characters/用|用]] and [[characters/半|半]]
+### 2026-07-16, iteration 18 — [[characters/用|用]] and [[characters/半 (char)|半]]
 
 Next two by `danayo_id` (69, 70). Both stamped `date-last-perfect: 2026-07-16`. Both had the same defect: `graphemic_classification` stored as `象形`, while the actual bullet — broken/templated-but-empty on 用, entirely absent on 半 — pointed toward something else once researched. Third and fourth instances of the frontmatter-vs-reality contradiction pattern (after 市, 他, 石, 外), and both required real research since neither page's existing text gave the correct answer outright this time.
 
 **[[characters/用|用]]**: blank `pos` → `事詞`. The Notes bullet was a literal unfilled template — "形声 (OC ): semantic [[]] ("") + phonetic [[]] (OC )." — with every field empty. Wiktionary confirms 用 is 形声, "a handle added to 同, which also supplies the phonetic value" (not a semantic+phonetic pair with a separate semantic radical — 同 alone does both jobs, similar structurally to 友's 亦聲 case). Fixed `graphemic_classification` from `象形` to `同` and wrote the bullet for real. Words cross-check (22 total) found 11 missing including the stand-in (使用). No `graphemic_classification: 用` hits. **Incidental fix**: `words/副用.md` had `english: auxillary` (typo → auxiliary).
 
-**[[characters/半|半]]**: Notes had zero content beyond floating CC links. Wiktionary confirms 半 is 会意 (八 "divide" + 牛 "cow" — cutting a cow in half), not 象形 — fixed the field and wrote the bullet. Words cross-check (6 total) found 5 missing including the stand-in (一半). `graphemic_classification: 半` hit 絆 — exact MC match (p+uɑn both), included in new `## Derived Characters`. No chengyu.
+**[[characters/半 (char)|半]]**: Notes had zero content beyond floating CC links. Wiktionary confirms 半 is 会意 (八 "divide" + 牛 "cow" — cutting a cow in half), not 象形 — fixed the field and wrote the bullet. Words cross-check (6 total) found 5 missing including the stand-in (一半). `graphemic_classification: 半` hit 絆 — exact MC match (p+uɑn both), included in new `## Derived Characters`. No chengyu.
 
 Next: 白, 主, 立, 母, 正 per `danayo_id`.
 

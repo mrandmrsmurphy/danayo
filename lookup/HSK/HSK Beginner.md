@@ -9,7 +9,7 @@ tags: [lookup]
 5. [白 (char)](../../characters/白%20(char).md)
 6. [百 (char)](../../characters/百%20(char).md)
 7. [班 (char)](../../characters/班%20(char).md)
-8. [半](../../characters/半.md)
+8. [半](../../characters/半%20(char).md)
 9. [幫](../../characters/幇.md)
 10. [包](../../characters/包.md)
 11. [杯](characters/杯%20(char).md)

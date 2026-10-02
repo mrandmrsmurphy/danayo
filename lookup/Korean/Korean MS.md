@@ -296,7 +296,7 @@ tags: [lookup]
 [朴](../../characters/朴.md) (순박할 박)
 
 #### 반
-[反](../../characters/反%20(char).md) (되돌릴 반) [飯](../../characters/飯.md) (밥 반) [半](../../characters/半.md) (반 반)
+[反](../../characters/反%20(char).md) (되돌릴 반) [飯](../../characters/飯.md) (밥 반) [半](../../characters/半%20(char).md) (반 반)
 
 #### 발
 [發](../../characters/発%20(char).md) (쏠 발)

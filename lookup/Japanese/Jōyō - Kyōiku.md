@@ -93,7 +93,7 @@ The following prefecture names were added in 2017:
 82. [[多 (char)]] : many, much ; ta (oo-i)
 83. [少 (char)](../../characters/少%20(char).md) : a few, a little ; shō (suku-nai, suko-shi)
 84. [万](../../characters/万.md) : ten thousand ; ban, man (yorozu)
-85. [半](../../characters/半.md) : half ; han (naka-ba)
+85. [半](../../characters/半%20(char).md) : half ; han (naka-ba)
 86. [形 (char)](../../characters/形%20(char).md) : shape ; kei, gyō (katachi)
 87. [太 (char)](../../characters/太%20(char).md) : thick ; ta (futo-i)
 88. [細 (char)](../../characters/細%20(char).md) : thin ; sai (hoso-i)

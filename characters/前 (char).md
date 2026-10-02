@@ -56,7 +56,7 @@ boundedness: 100
 - <ruby>[[以前]]<rt>ㄧㄐㄝㄋ</rt></ruby> "before; ago"
 - <ruby>[[目前]]<rt>ㄇㄨㄎㄐㄝㄋ</rt></ruby> "present; right before one's eyes"
 - <ruby>[[前置詞]]<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
-- <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄛㄨ</rt></ruby> "front and rear; before and after; from beginning to end"
+- <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄨㄛ</rt></ruby> "front and rear; before and after; from beginning to end"
 - <ruby>[[従前]]<rt>ㄐㄛㄫㄐㄝㄋ</rt></ruby> "formerly, previously"
 - <ruby>[[前兆]]<rt>ㄐㄝㄋㄐㄚㄨ</rt></ruby> "premonitory sign; harbinger; omen"
 - <ruby>[[前年]]<rt>ㄐㄝㄋㄋㄝㄋ</rt></ruby> "previous year"

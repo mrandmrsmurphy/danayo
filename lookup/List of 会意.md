@@ -160,7 +160,7 @@ That answer determines the classification.
 35. <ruby>[付](/characters/付.md)<rt>ㄈㄨ</rt></ruby> - [[Radical 009|亻]] ("a person") + [[Radical 041|寸]] ("a hand") — a hand passing something to a person: "to deliver, to hand over."
 36. <ruby>[出](/characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - [[止]] ("a foot") stepping out of [[Radical 017|凵]] ("a cave, a pit") — to step out: "to exit."
 37. <ruby>[加](/characters/加.md)<rt>ㄍㄚ</rt></ruby> - [[Radical 019|力]] ("strength") + [[口 (char)|口]] ("a mouth") — per Shuowen, to exaggerate or slander with the mouth (an alternative reading takes 力 as plowing and 口 as effort or breath); extended to "to add, to increase."
-38. <ruby>[半](/characters/半.md)<rt>ㄅㄚㄋ</rt></ruby> - [[八 (char)|八]] ("to divide") applied to [[牛 (char)|牛]] ("an ox") — cutting an ox in two: "half."
+38. <ruby>[半](/characters/半%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> - [[八 (char)|八]] ("to divide") applied to [[牛 (char)|牛]] ("an ox") — cutting an ox in two: "half."
 39. <ruby>[占](/characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - [[Radical 025|卜]] ("divination cracks") + [[Radical 030|口]] ("a mouth") — consulting the oracle and reporting the answer aloud: "to divine." (The unrelated "occupy" sense belongs properly to a different character, 佔.)
 40. <ruby>[奴](/characters/奴.md)<rt>ㄋㄛ</rt></ruby> - [[Radical 038|女]] ("a woman") seized by [[又 (char)|又]] ("a hand") — a woman taken by force: "a captive, a slave, a servant." (Per Shuowen's own gloss, 从女从又.)
 41. <ruby>[尼](/characters/尼.md)<rt>ㄋㄧㄜ</rt></ruby> - two figures of [[Radical 044|尸]] ("a person") leaning together — a Buddhist nun. (Shuowen's traditional 形声 reading — semantic 尸 + phonetic 匕 — is widely discredited by modern scholarship.)

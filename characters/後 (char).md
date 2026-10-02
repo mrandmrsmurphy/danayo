@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[後置]]<rt>ㄏㄨㄛㄑㄧ</rt></ruby> "to place after"
 - <ruby>[[後悔]]<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby> "to regret"
 - <ruby>[[先後]]<rt>ㄙㄝㄋㄏㄨㄛ</rt></ruby> "successively; one after another; in succession"
-- <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄛㄨ</rt></ruby> "front and rear; before and after"
+- <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄨㄛ</rt></ruby> "front and rear; before and after"
 - <ruby>[[絶後]]<rt>ㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "to never happen again; to not have children"
 - <ruby>[[而後]]<rt>ㄋㄧㄏㄨㄛ</rt></ruby> "after that; only then"
 - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄛㄨ</rt></ruby> "back; rear; behind"
