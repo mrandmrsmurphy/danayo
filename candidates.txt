@@ -1,13 +1,3 @@
-words/母校.md
-words/母艦.md
-words/母音.md
-words/比喩.md
-words/毫米.md
-words/民主.md
-words/民意.md
-words/民謡.md
-words/気功.md
-words/水原.md
 words/水平.md
 words/水泳.md
 words/水牛.md

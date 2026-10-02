@@ -115,6 +115,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[学寮](../words/学寮.md)<rt>ㄏㄚㄎㄌ⼘ㄨ</rt></ruby>: student dormitory.
 - <ruby>[校内](../words/校内.md)<rt>ㄏ⼘ㄨㄋㄛㄧ</rt></ruby>: on-campus, school interior.
 - <ruby>[校門](../words/校門.md)<rt>ㄏ⼘ㄨㄇㄛㄋ</rt></ruby>: school gate.
+- <ruby>[母校](../words/母校.md)<rt>ㄇㄛㄨㄏ⼘ㄨ</rt></ruby>: alma mater.
 - <ruby>[課](../words/課.md)<rt>ㄎ⺢ㄇ</rt></ruby>: lesson, chapter.
 - <ruby>[授業](../words/授業.md)<rt>ㄙ⼜ㄝㄆ</rt></ruby>: to teach, instruct, give a lesson.
 - <ruby>[予習](../words/予習.md)<rt>⼄ㄙㄜㄆ</rt></ruby>: to prepare for lessons ahead of time.

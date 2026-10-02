@@ -62,6 +62,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[故事](../words/故事.md)<rt>ㄍㄛㄐㄧ</rt></ruby>: narrative, story, tale.
 - <ruby>[神話](../words/神話.md)<rt>ㄙㄧㄋㄏ⺢ㄧ</rt></ruby>: myth.
 - <ruby>[針言](../words/針言.md)<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby>: proverb.
+- <ruby>[比喩](../words/比喩.md)<rt>ㄅㄧㄜ⼜ㄇ</rt></ruby>: a metaphor.
 - <ruby>[奥秘](../words/奥秘.md)<rt>ㄨㄎㄅㄧㄜ</rt></ruby>, <ruby>[神秘](../words/神秘.md)<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby>: mystery.
 - <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby>: riddle, mystery, enigma.
 
@@ -118,6 +119,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[弦](../words/弦.md)<rt>ㄏㄝㄋ</rt></ruby>: chord, string (also "bowstring, hypotenuse").
 - <ruby>[唱和](../words/唱和.md)<rt>ㄑ⺢ㄫㄏ⺢</rt></ruby>: to sing chorus.
 - <ruby>[歌謡](../words/歌謡.md)<rt>ㄍㄜ⼄ㄨ</rt></ruby>: song, ballad.
+- <ruby>[民謡](../words/民謡.md)<rt>ㄇㄧㄋ·⼄ㄨ</rt></ruby>: a folk song — a specific genre within [[歌謡]]'s general category.
 - <ruby>[校歌](../words/校歌.md)<rt>ㄏ⼘ㄨㄍㄜ</rt></ruby>: school anthem, school song.
 - <ruby>[凱歌](../words/凱歌.md)<rt>ㄎㄚㄧㄍㄜ</rt></ruby>: triumphant song, victory song.
 - <ruby>[交響](../words/交響.md)<rt>ㄍ⼄ㄨㄏ⼘ㄫ</rt></ruby>: symphonic.
@@ -135,6 +137,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>: martial art skill.
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
+- <ruby>[気功](../words/気功.md)<rt>ㄎㄧㄜㄍㄛㄫ</rt></ruby>: qigong — a breath/energy-cultivation practice traditionally grouped with the martial arts above, though not itself a fighting art.
 - <ruby>[稽古](../words/稽古.md)<rt>ㄍㄝㄧㄍㄛ</rt></ruby>: practice, training in a traditional art or discipline (Japanese usage); classical "to examine antiquity" (source sense).
 
 ### Craft

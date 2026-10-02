@@ -82,6 +82,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[共産党](../words/共産党.md)<rt>ㄍ⼄ㄫㄙㄚㄋㄉㄚㄫ</rt></ruby>: the Communist Party.
 - <ruby>[国民党](../words/国民党.md)<rt>ㄍㄛㄎㄇㄧㄋㄉㄚㄫ</rt></ruby>: the Nationalist Party.
 - <ruby>[共和](../words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby>: collaboration, cooperation, republicanism.
+- <ruby>[民主](../words/民主.md)<rt>ㄇㄧㄋㄐㄨ</rt></ruby>: democracy — originally "sovereign" in Classical Chinese (民之主, "ruler of the people"), repurposed in the mid-1860s during the translation of *Elements of International Law*.
 - <ruby>[総統](../words/総統.md)<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>: a president, head of state.
 
 ### Government Bodies & Offices
@@ -155,6 +156,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[大衆](../words/大衆.md)<rt>ㄉㄚㄧㄐㄨㄫ</rt></ruby>: the masses, public, multitude.
 - <ruby>[群衆](../words/群衆.md)<rt>ㄍㄨㄋㄐㄨㄫ</rt></ruby>: the crowd, masses, the public — see also [[Society]]'s own Core Vocabulary, where this same word covers the general "crowd" sense.
 - <ruby>[臣民](../words/臣民.md)<rt>ㄙㄧㄋㄇㄧㄋ</rt></ruby>: officials and commoners, subjects (of a monarch).
+- <ruby>[民意](../words/民意.md)<rt>ㄇㄧㄋ·ㄜ</rt></ruby>: the will of the people, public opinion.
 
 ### Not Yet Coined
 

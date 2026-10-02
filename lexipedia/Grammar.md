@@ -233,6 +233,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[韻母](../words/韻母.md)<rt>ㄨㄋㄇㄛㄨ</rt></ruby> "rhyme, final (of a syllable)"
 - <ruby>[声調](../words/声調.md)<rt>ㄙㄧㄫㄐㄨㄛ</rt></ruby> "tone, note"
 - <ruby>[子音](../words/子音.md)<rt>ㄐㄜㄨㄇ</rt></ruby> "consonant"
+- <ruby>[母音](../words/母音.md)<rt>ㄇㄛㄨㄨㄇ</rt></ruby> "vowel" — [[子音]]'s counterpart.
 - <ruby>[音節](../words/音節.md)<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"
 - <ruby>[清音](../words/清音.md)<rt>ㄑㄧㄫㄨㄇ</rt></ruby> "unvoiced sound"
 - <ruby>[濁音](../words/濁音.md)<rt>ㄉㄚㄎ·ㄨㄇ</rt></ruby> "voiced sound"

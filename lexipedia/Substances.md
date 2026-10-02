@@ -39,6 +39,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[灰塵](../words/灰塵.md)<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby>: dust, ashes — specifically ash-dust, distinct from [[塵埃]]'s general grime.
 - <ruby>[汚垢](../words/汚垢.md)<rt>ㄛㄍㄛㄨ</rt></ruby>: dirt, grime, filth — grime on skin or surfaces.
 - <ruby>[汚物](../words/汚物.md)<rt>ㄛ·ㄇㄨㄊ</rt></ruby>: dirt, filth, garbage — a cruder register than [[汚垢]], closer to waste matter.
+- <ruby>[汚染](../words/汚染.md)<rt>ㄛ·ㄋ⼄ㄇ</rt></ruby>: to pollute, contaminate — the verb of spreading filth, as opposed to [[汚垢]]/[[汚物]]'s static grime.
 - <ruby>[泥](../words/泥.md)<rt>ㄋㄝㄧ</rt></ruby>: mud — wet earth, distinct from the dry particulate words above.
 - <ruby>[渣](../words/渣.md)<rt>ㄐ⺢</rt></ruby>: dregs, lees, sediment — leftover residue, distinct from the raw environmental dirt/dust words above.
 - <ruby>[粉](../words/粉.md)<rt>ㄈㄨㄋ</rt></ruby>: powder.
@@ -49,6 +50,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[材料](../words/材料.md)<rt>ㄑㄚㄧㄌ⼘ㄨ</rt></ruby>: material, stuff, abstracta — see [Physics](../lexipedia/Physics.md) for its own citation there.
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree. See [Plants](../lexipedia/Plants.md) for its own citation there.
 - <ruby>[炭](../words/炭.md)<rt>ㄊㄚㄋ</rt></ruby>: coal, charcoal — also, bound in 炭素, "carbon."
+- <ruby>[汽油](../words/汽油.md)<rt>ㄎㄧㄜ⼜</rt></ruby>: gasoline — a manufactured liquid fuel, cited here for lack of any dedicated automotive/petrochemical domain elsewhere in this vault.
 
 ## Semantic Range Notes
 

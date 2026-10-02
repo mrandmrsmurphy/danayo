@@ -24,6 +24,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.
 - <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
 - <ruby>[泳](../words/泳.md)<rt>ㄨㄧㄫ</rt></ruby>: to swim.
+- <ruby>[水泳](../words/水泳.md)<rt>ㄙㄨㄨㄧㄫ</rt></ruby>: swimming — the nominal counterpart to [[泳]]'s bare verb.
 - <ruby>[登](../words/登.md)<rt>ㄉㄨㄫ</rt></ruby>: to mount, board, climb.
 - <ruby>[上昇](../words/上昇.md)<rt>ㄙ⼘ㄫㄙㄨㄫ</rt></ruby>: to rise, ascend, increase — the ordinary verb for an upward trajectory, literal (temperature, altitude, smoke) or figurative (prices, rank, morale) alike; distinct from [[登]]'s effortful climbing and [[勃興]]'s abstract-only rise of a trend or power.
 - <ruby>[引](../words/引.md)<rt>ㄧㄋ</rt></ruby>: to pull, tug.
