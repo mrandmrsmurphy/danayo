@@ -100,6 +100,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[随性](../words/随性.md)<rt>ㄙㄨㄧㄙㄧㄫ</rt></ruby>: fate from birth.
 - <ruby>[因縁](../words/因縁.md)<rt>ㄧㄋ·⼶ㄋ</rt></ruby>: a predestined bond, karma — the Buddhist-inflected member of the cluster.
 - <ruby>[幸運](../words/幸運.md)<rt>ㄏㄚㄫㄨㄋ</rt></ruby>: lucky, fortunate.
+- <ruby>[凶](../words/凶.md)<rt>ㄏ⼜ㄫ</rt></ruby>: unlucky, ominous, calamitous — [[幸運]]'s opposite pole; by extension also "vicious, murderous" (凶悪, 凶手).
 
 ### Decision & Judgment
 

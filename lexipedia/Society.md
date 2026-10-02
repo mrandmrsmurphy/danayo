@@ -105,6 +105,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[乱漫](../words/乱漫.md)<rt>ㄌㄚㄋㄇㄚㄋ</rt></ruby>: natural, unaffected, unrestrained — childlike innocence and artlessness of character (天真乱漫), extended metaphorically from its literal sense of flowers blooming in vivid profusion.
 - <ruby>[忍耐](../words/忍耐.md)<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby>: patient, patience.
 - <ruby>[耐](../words/耐.md)<rt>ㄋㄚㄧ</rt></ruby>: able to tolerate, endure, resistant — the bound root behind [[忍耐]] above.
+- <ruby>[克](../words/克.md)<rt>ㄎㄨㄎ</rt></ruby>: to practice self-restraint, overcome (克己, "self-restraint"; 克服, "to overcome") — a second, unrelated sense ("gram," the metric unit) is housed on [Sophomore List](../lexipedia/Sophomore%20List.md) instead.
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
@@ -120,6 +121,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.
 - <ruby>[過敏](../words/過敏.md)<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby>: oversensitive, allergic, hypersensitive — not "gentle," but the excessive-sensitivity contrast worth distinguishing from it.
 - <ruby>[赳赳](../words/赳赳.md)<rt>ㄍ⼜ㄍ⼜</rt></ruby>: strong and valiant — a reduplication.
+- <ruby>[凜](../words/凜.md)<rt>ㄌㄨㄇ</rt></ruby>: a stern, awe-inspiring dignity that commands respect (凜然; 威風凜凜) — figuratively extended from a literal "biting, freezing cold" sense, almost always bound in a fixed phrase rather than used freely.
 - <ruby>[縦](../words/縦.md)<rt>ㄐㄛㄇ</rt></ruby>: selfish, arbitrary, unrestrained, self-indulgent — a vice, the opposite pole from the virtues above; in a separate, unrelated sense, also "lengthwise, vertical" (縦縞, "vertical stripes").
 - <ruby>[倫理](../words/倫理.md)<rt>ㄌㄨㄋㄌㄧ</rt></ruby>: ethics, morality.
 - <ruby>[倹素](../words/倹素.md)<rt>ㄍㄝㄇㄙㄛ</rt></ruby>: economical and simple, frugal (of a lifestyle).

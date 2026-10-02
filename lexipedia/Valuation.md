@@ -109,6 +109,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 ### Complexity & Commonality
 
 - <ruby>[複雑](../words/複雑.md)<rt>ㄅㄨㄎㄐㄚㄆ</rt></ruby>: complex.
+- <ruby>[冗](../words/冗.md)<rt>ㄋ⼄ㄫ</rt></ruby>: superfluous, excessive, redundant (冗長, "long-winded, verbose"; 冗員, "redundant staff").
 - <ruby>[普通](../words/普通.md)<rt>ㄆㄛ·ㄊㄛㄫ</rt></ruby>: plain — "unadorned, ordinary," the correct sense for this section (distinct from this same word's false-match use elsewhere in this vault for the geographic landform "plain").
 - <ruby>[簡単](../words/簡単.md)<rt>ㄍㄚㄋㄉㄚㄋ</rt></ruby>: simple — the clean, standard word.
 - <ruby>[簡易](../words/簡易.md)<rt>ㄍㄚㄋ·⼶ㄎ</rt></ruby>: simple — a near-synonym of [[簡単]].

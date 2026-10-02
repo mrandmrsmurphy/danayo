@@ -16,6 +16,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[工作](../words/工作.md)<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>: work; a job, to be employed.
+- <ruby>[兼](../words/兼.md)<rt>ㄍㄝㄇ</rt></ruby>: to hold concurrently, double as (兼職, "to hold a second job, moonlight"; 兼任, "to serve concurrently in a post").
 - <ruby>[休息](../words/休息.md)<rt>ㄏ⼜ㄙㄧㄎ</rt></ruby>: to rest, take a break — the natural complement to labor in this domain's own life-cycle-of-work scope.
 - <ruby>[休憩](../words/休憩.md)<rt>ㄏ⼜·ㄎㄝ</rt></ruby>: to rest, take a break — a more formal/literary near-synonym of [[休息]].
 - <ruby>[作](../words/作.md)<rt>ㄐㄚㄎ</rt></ruby>: to make, to do.

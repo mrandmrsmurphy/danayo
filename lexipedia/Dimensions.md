@@ -39,6 +39,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 - <ruby>[幾](../words/幾.md)<rt>ㄍㄧㄜ</rt></ruby>: several, a few, some.
 - <ruby>[若干](../words/若干.md)<rt>ㄋ⼘ㄍㄚㄋ</rt></ruby>, <ruby>[些少](../words/些少.md)<rt>ㄙㄚㄙㄛㄨ</rt></ruby>, <ruby>[一点](../words/一点.md)<rt>ㄧㄊㄉㄝㄇ</rt></ruby>: a little, a bit, somewhat.
 - <ruby>[諸](../words/諸.md)<rt>ㄐㄚ</rt></ruby>: various.
+- <ruby>[全](../words/全.md)<rt>ㄐ⼔ㄋ</rt></ruby>: whole, all — the totalizing quantifier, maximal quantity, the opposite pole from [[幾]]/[[若干]]'s "a few."
 - <ruby>[希少](../words/希少.md)<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby>, <ruby>[鮮少](../words/鮮少.md)<rt>ㄙ⼶ㄇㄙㄛㄨ</rt></ruby>: scarce, rare.
 
 ### Valuation

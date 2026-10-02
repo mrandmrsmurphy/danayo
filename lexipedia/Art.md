@@ -73,6 +73,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
 - <ruby>[詠](../words/詠.md)<rt>ㄨㄧㄫ</rt></ruby>: to recite, chant — poetry or verse aloud.
+- <ruby>[兮](../words/兮.md)<rt>ㄏㄝㄧ</rt></ruby>: a classical exclamatory/rhythmic particle marking a pause or emphasis in verse, most famous from Xiang Yu's 垓下歌 and the 楚辭 tradition.
 
 ### Literature & Publishing
 
@@ -82,6 +83,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
+- <ruby>[刊](../words/刊.md)<rt>ㄎㄚㄋ</rt></ruby>: a publication, periodical (週刊, "a weekly publication"; [[季刊]], "a quarterly").
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
 - <ruby>[載](../words/載.md)<rt>ㄐㄚㄧ</rt></ruby>: to record — the bound root behind [[記載]] above (also 転載, "to reprint"); in a separate, unrelated sense, also "to carry, transport" (physical cargo, 搭載).
 - <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby>: to lay down the pen, stop writing.

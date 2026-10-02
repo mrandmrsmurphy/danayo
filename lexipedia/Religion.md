@@ -94,6 +94,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
 - <ruby>[人間](../words/人間.md)<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby>: the human world, this mortal realm — completing the three-tier cosmology with [[九天]] (heaven) above and [[九泉]] (the underworld) below.
+- <ruby>[冥](../words/冥.md)<rt>ㄇㄝㄫ</rt></ruby>: dark, gloomy — leaning toward the underworld specifically (冥界/冥府, "the underworld, the afterlife"; [[冥王]], "King of the Underworld"), distinct from [Light](../lexipedia/Light.md)'s own plain [[暗]] for literal darkness.
 - <ruby>[神仙](../words/神仙.md)<rt>ㄙㄧㄋㄙ⼶ㄋ</rt></ruby>: an immortal, god — the Daoist transcendent-being concept, distinct from plain [[神]].
 - <ruby>[斎戒](../words/斎戒.md)<rt>ㄐㄚㄧㄍ⼶</rt></ruby>: to fast, observe abstinence.
 - <ruby>[神聖](../words/神聖.md)<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>: sacred, holy — see [[基督敎]] for its own citation there.

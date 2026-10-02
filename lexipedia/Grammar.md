@@ -58,6 +58,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Particles
 - as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>
 - yes (formal affirmative answer) : <ruby>[爾](../words/爾.md)<rt>ㄋㄝ</rt></ruby> — [[否]]'s direct counterpart, below.
+- <ruby>[兪](../words/兪.md)<rt>⼜ㄇ</rt></ruby> "yes, agreed" — a narrower, more archaic register than [[爾]], an interjection of imperial assent most familiar from the Book of Documents (書經).
 - no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>
@@ -116,7 +117,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[主格](../words/主格.md)<rt>ㄐㄨㄍㄚㄎ</rt></ruby> "nominative case"
 - <ruby>[与格](../words/与格.md)<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"
 - <ruby>[属格](../words/属格.md)<rt>ㄐㄛㄎㄍㄚㄎ</rt></ruby> "genitive case"
-- <ruby>[共格](../words/共格.md)<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case"
+- <ruby>[共格](../words/共格.md)<rt>ㄍ⼄ㄫㄍㄚㄎ</rt></ruby> "comitative case" — the abstract case name; [[共]], below, is the actual particle a sentence uses.
 - <ruby>[具格](../words/具格.md)<rt>ㄍㄨㄍㄚㄎ</rt></ruby> "instrumental case"
 - <ruby>[比較格](../words/比較格.md)<rt>ㄅㄧㄜㄍㄚㄎㄍㄚㄎ</rt></ruby> "comparative case"
 - <ruby>[奪格](../words/奪格.md)<rt>ㄉ⺢ㄊㄍㄚㄎ</rt></ruby> "ablative case"
@@ -148,6 +149,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
 - <ruby>[為](../words/為.md)<rt>⼔ㄋ</rt></ruby> "for, because of, to act as, namely (co-verb: 因為, 'because'; 為了, 'in order to') — not the same as the still-uncoined clause-linking conjunction 'because,' above"
+- <ruby>[共](../words/共.md)<rt>ㄍ⼄ㄫ</rt></ruby> "with, together with (comitative case particle, 共格: 共父走, 'run together with father') — distinct from the instrumental [[以]], which marks a tool rather than a companion"
 - <ruby>[然](../words/然.md)<rt>ㄋ⼶ㄋ</rt></ruby> "so; bound manner-adverb suffix ('-ly,' in a certain manner): 自然, 'naturally'; 忽然, 'suddenly' — distinct from [[焉]]/[[所以]]'s causal 'therefore,' above"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
@@ -157,6 +159,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
 - <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
 - <ruby>[也](../words/也.md)<rt>⼘</rt></ruby> "as for; EMPHASIS (topic marker / assertive sentence-final particle, classical register)"
+- <ruby>[公](../words/公.md)<rt>ㄍㄛㄫ</rt></ruby> "sir (honorific suffix): attaches to a personal name or title to add a respectful, deferential nuance, paralleling Japanese -さん and Korean -님"
 
 ## Words about Grammar
 - <ruby>[品詞](../words/品詞.md)<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
