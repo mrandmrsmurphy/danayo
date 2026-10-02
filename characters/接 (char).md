@@ -63,3 +63,4 @@ boundedness: 90
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby> "tangent"
 - <ruby>[[余接]]<rt>⼄ㄐㄛㄆ</rt></ruby> "cotangent"
 - <ruby>[[迎接]]<rt>⼶ㄫㄐㄛㄆ</rt></ruby> "to greet, welcome, receive, meet"
+- <ruby>[[接頭辞]]<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby> "prefix; verbal prefix"

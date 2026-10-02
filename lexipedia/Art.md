@@ -73,6 +73,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
 - <ruby>[詠](../words/詠.md)<rt>ㄨㄧㄫ</rt></ruby>: to recite, chant — poetry or verse aloud.
+- <ruby>[韻律](../words/韻律.md)<rt>ㄨㄋㄌㄨㄊ</rt></ruby>: meter, rhyme scheme — the pattern of sound in verse; the same word is "prosody" in linguistics (see [Grammar](../lexipedia/Grammar.md)).
 - <ruby>[兮](../words/兮.md)<rt>ㄏㄝㄧ</rt></ruby>: a classical exclamatory/rhythmic particle marking a pause or emphasis in verse, most famous from Xiang Yu's 垓下歌 and the 楚辭 tradition.
 
 ### Literature & Publishing

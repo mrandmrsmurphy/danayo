@@ -73,6 +73,7 @@ boundedness: 90
 - <ruby>[[出生]]<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby> "be born"
 - <ruby>[[日出]]<rt>ㄋㄧㄊㄑㄨㄊ</rt></ruby> "sunrise"
 - <ruby>[[出色]]<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby> "outstanding, remarkable, extraordinary"
+- <ruby>[[放出]]<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby> "release; emit; let out"
 ## Chengyu
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"
 ## Derived Characters

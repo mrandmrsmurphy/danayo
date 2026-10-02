@@ -94,6 +94,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[漂](../words/漂.md)<rt>ㄆ⼄</rt></ruby>: to drift, float — aimless, at the mercy of a current, distinct from [[浮]]'s simple buoyancy.
 - <ruby>[流動](../words/流動.md)<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby>: to flow, spread, circulate.
 - <ruby>[没](../words/没.md)<rt>ㄇㄛㄊ</rt></ruby>: to drown, sink — see [[Water]] for its own citation there.
+- <ruby>[放出](../words/放出.md)<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby>: to release, let out, emit — set something free so that it passes *out* (cf. [[釈放]] freeing a person, [[開放]] opening up); also the release of a stop closure in phonetics.
 
 ### Jumping & Running
 

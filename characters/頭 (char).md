@@ -69,6 +69,7 @@ boundedness: 100
 - <ruby>[[頭骨]]<rt>ㄊㄛㄨㄍㄨㄊ</rt></ruby> "skull; cranium"
 - <ruby>[[念頭]]<rt>ㄋㄝㄇㄊㄛㄨ</rt></ruby> "idea; thought"
 - <ruby>[[缶頭]]<rt>ㄍ⺢ㄋㄊㄛㄨ</rt></ruby> "canned goods"
+- <ruby>[[接頭辞]]<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby> "prefix; verbal prefix"
 
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"

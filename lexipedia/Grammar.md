@@ -185,6 +185,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - grammatical object (of a verb; a Japanese/Korean grammar term, whereas in Mandarin 目的语 means "target language" and the grammatical object is 宾语) : <ruby>[目的語](../words/目的語.md)<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby>
+- predicate : <ruby>[述語](../words/述語.md)<rt>ㄙㄨㄊ⼄</rt></ruby> — the comment of the topic–comment sentence; every clause must have one (述語必須)
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - prefix, verbal prefix (the category of aspect and mood prefixes on verbs: 有–, 無–, 在–, 莫–) : <ruby>[接頭辞](../words/接頭辞.md)<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby>
 - derivational affix, fully productive (a bound element that derives a new lexical item from a stem; any transparent stem + affix is valid without its own page; filed under the fullwidth hyphen, －X) : <ruby>[派生辞](../words/派生辞.md)<rt>ㄆㄚㄧㄙㄚㄫㄑㄧ</rt></ruby>
@@ -262,10 +263,13 @@ The traditional classification of Chinese character formation.
 ## Phonology
 - <ruby>[声母](../words/声母.md)<rt>ㄙㄧㄫㄇㄛㄨ</rt></ruby> "initial consonant (of a syllable)"
 - <ruby>[韻母](../words/韻母.md)<rt>ㄨㄋㄇㄛㄨ</rt></ruby> "rhyme, final (of a syllable)"
+- <ruby>[韻尾](../words/韻尾.md)<rt>ㄨㄋㄇㄨㄧ</rt></ruby> "coda" — the element that closes a syllable (nasal, following glide, or unreleased stop); [[尾位]] is its slot
+- <ruby>[終声](../words/終声.md)<rt>ㄐㄨㄫㄙㄧㄫ</rt></ruby> "syllable-final; final consonant" — the Korean tradition's third part of a syllable (初聲・中聲・終聲), as 韻尾 is the Chinese tradition's coda
 - <ruby>[介位](../words/介位.md)<rt>ㄍ⼶·⼔ㄧ</rt></ruby> "glide position (within a final)"
 - <ruby>[核位](../words/核位.md)<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> "nucleus position (within a final)"
 - <ruby>[尾位](../words/尾位.md)<rt>ㄇㄨㄧ·⼔ㄧ</rt></ruby> "coda position (within a final)"
 - <ruby>[声調](../words/声調.md)<rt>ㄙㄧㄫㄐㄨㄛ</rt></ruby> "tone, note"
+- <ruby>[韻律](../words/韻律.md)<rt>ㄨㄋㄌㄨㄊ</rt></ruby> "prosody" — rhythm, stress, pitch and intonation above the single sound; Dan'a'yo has no lexical tone, so 声調 is not phonemic
 - <ruby>[子音](../words/子音.md)<rt>ㄐㄜㄨㄇ</rt></ruby> "consonant"
 - <ruby>[母音](../words/母音.md)<rt>ㄇㄛㄨㄨㄇ</rt></ruby> "vowel" — [[子音]]'s counterpart.
 - <ruby>[音節](../words/音節.md)<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"
@@ -282,6 +286,8 @@ The traditional classification of Chinese character formation.
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby> "colloquial language, spoken language"
 - <ruby>[韻図](../words/韻図.md)<rt>ㄨㄋㄉㄛ</rt></ruby> "rime table"
 - <ruby>[連声](../words/連声.md)<rt>ㄌ⼶ㄋㄙㄧㄫ</rt></ruby> "sandhi"
+- <ruby>[同化](../words/同化.md)<rt>ㄉㄛㄫㄏ⺢</rt></ruby> "assimilation" — a sound taking on features of a neighbour; ruled out between syllables in Dan'a'yo (as is 連声)
+- <ruby>[中和](../words/中和.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby> "to neutralize; neutralization" — a contrast collapsing in some position (as Vietnamese does to syllable-final contrasts)
 - <ruby>[硬口蓋](../words/硬口蓋.md)<rt>ㄚㄫ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "hard palate; palatal"
 - <ruby>[軟口蓋](../words/軟口蓋.md)<rt>ㄋㄝㄋ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "soft palate; velar"
 - <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula; uvular"
