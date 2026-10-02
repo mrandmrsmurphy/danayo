@@ -67,6 +67,7 @@ boundedness: 95
 - <ruby>[[分掌]]<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby> "to divide work duties"
 - <ruby>[[分布]]<rt>ㄅㄨㄋㄅㄛ</rt></ruby> "distribution, dispersion"
 - <ruby>[[分類学]]<rt>ㄅㄨㄋㄌㄨㄧㄏㄚㄎ</rt></ruby> "taxonomy"
+- <ruby>[[分類]]<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby> "classify; classification"
 - <ruby>[[百分率]]<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby> "percentage, per-cent rate"
 - <ruby>[[分数]]<rt>ㄅㄨㄋㄙㄨ</rt></ruby> "fraction"
 - <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby> "integrate; integration"

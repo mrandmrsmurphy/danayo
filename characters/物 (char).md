@@ -85,6 +85,7 @@ boundedness: 50
 - <ruby>[[皆物]]<rt>ㄍ⼶·ㄇㄨㄊ</rt></ruby> "everything; every object; all things"
 - <ruby>[[井物]]<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby> "bowl of food"
 - <ruby>[[放物線]]<rt>ㄈㄚㄫㄇㄨㄊㄙ⼶ㄋ</rt></ruby> "parabola"
+- <ruby>[[物種]]<rt>ㄇㄨㄊㄐㄛㄫ</rt></ruby> "species"
 
 ## Chengyu
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"

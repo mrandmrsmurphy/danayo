@@ -239,6 +239,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[科階](../words/科階.md)<rt>ㄎ⺢ㄍ⼶ㄧ</rt></ruby>: family.
 - <ruby>[属階](../words/属階.md)<rt>ㄐㄛㄎㄍ⼶ㄧ</rt></ruby>: genus.
 - <ruby>[種階](../words/種階.md)<rt>ㄐㄛㄫㄍ⼶ㄧ</rt></ruby>: species (the fundamental/lowest standard rank).
+- <ruby>[物種](../words/物種.md)<rt>ㄇㄨㄊㄐㄛㄫ</rt></ruby>: species (the organism-kind itself, as against [[種階]], the rank it occupies).
 
 Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [[目]] was already taken by "eye."
 

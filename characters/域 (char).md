@@ -58,3 +58,4 @@ boundedness: 80
 - <ruby>[[地域]]<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby> "district"
 - <ruby>[[流域]]<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> "river basin"
 - <ruby>[[定義域]]<rt>ㄐㄝㄫㄜㄧㄨㄧㄎ</rt></ruby> "domain of a function"
+- <ruby>[[域内]]<rt>ㄨㄧㄎㄋㄛㄧ</rt></ruby> "within the region; intra-regional"

@@ -236,6 +236,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[単字](../words/単字.md)<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character, single-character word"
 - <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby> "word, vocabulary item"
 - <ruby>[字形](../words/字形.md)<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph, character shape, graphic form"
+- <ruby>[古形](../words/古形.md)<rt>ㄍㄛㄏㄝㄫ</rt></ruby> "old form, archaic form (of a character or word)"
 - <ruby>[字源](../words/字源.md)<rt>ㄐㄧ⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
 - <ruby>[字庫](../words/字庫.md)<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library, character/glyph repository"
 - <ruby>[用字](../words/用字.md)<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use, character usage — which characters a text, name or country employs"
@@ -244,6 +245,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[注音](../words/注音.md)<rt>ㄐㄨㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
 - <ruby>[音訓標](../words/音訓標.md)<rt>ㄨㄇㄏㄨㄋㄅ⼄</rt></ruby> "ruby, the phonetic line written above each character (a Dan'a'yo coinage; in 注音符号, set in 振り仮名 style)"
 - <ruby>[部首](../words/部首.md)<rt>ㄅㄛㄨㄙ⼜</rt></ruby> "radical"
+- <ruby>[部件](../words/部件.md)<rt>ㄅㄛㄨㄍ⼶ㄋ</rt></ruby> "component (of a character)" — the general class of sub-shapes a character is built from; [[部首]] is the one a dictionary indexes by
 - <ruby>[表記](../words/表記.md)<rt>ㄅ⼘ㄨㄍㄧ</rt></ruby> "notation, orthography, written representation"
 - <ruby>[転写](../words/転写.md)<rt>ㄐ⼔ㄋㄙ⼘</rt></ruby> "transcription, transliteration — rendering a form from one script or sound system in another"
 - <ruby>[符号](../words/符号.md)<rt>ㄅㄨㄏㄚㄨ</rt></ruby> "symbol, mark, sign"
@@ -279,6 +281,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[音源](../words/音源.md)<rt>ㄨㄇ⼔ㄋ</rt></ruby> "source reading — in 音源推定, the Middle Chinese reading from which a character's Dan'a'yo pronunciation is derived (elsewhere: sound source, audio source)"
 - <ruby>[清音](../words/清音.md)<rt>ㄑㄧㄫㄨㄇ</rt></ruby> "unvoiced sound"
 - <ruby>[濁音](../words/濁音.md)<rt>ㄉㄚㄎ·ㄨㄇ</rt></ruby> "voiced sound"
+- <ruby>[同音](../words/同音.md)<rt>ㄉㄛㄫㄨㄇ</rt></ruby> "same sound; homophone; homophonous" — as in 同音字, characters sharing one pronunciation
 - <ruby>[正音](../words/正音.md)<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation, standard pronunciation"
 - <ruby>[発声](../words/発声.md)<rt>ㄈㄚㄊㄙㄧㄫ</rt></ruby> "vocalization; utterance; phonation"
 - <ruby>[振動音](../words/振動音.md)<rt>ㄐㄧㄋㄉㄛㄫㄨㄇ</rt></ruby> "trill, trill consonant"

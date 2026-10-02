@@ -83,6 +83,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[試験](../words/試験.md)<rt>ㄙㄧㄝㄇ</rt></ruby>: test, examine.
 - <ruby>[験](../words/験.md)<rt>ㄝㄇ</rt></ruby>: to check, examine — the bound root behind [[試験]] above (also 経験, "experience").
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze, analysis.
+- <ruby>[分類](../words/分類.md)<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby>: to classify, classification — the act of sorting into kinds ([[種類]]); the science of it is [[分類学]].
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
 - <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.
@@ -111,6 +112,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[大学生](../words/大学生.md)<rt>ㄉㄚㄧㄏㄚㄎㄙㄚㄫ</rt></ruby>: college student, undergrad.
 - <ruby>[小学](../words/小学.md)<rt>ㄙㄛㄏㄚㄎ</rt></ruby>: elementary learning, philology; elementary school.
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
+- <ruby>[中学](../words/中学.md)<rt>ㄐㄨㄫㄏㄚㄎ</rt></ruby>: middle school, junior high school — the level-name short form of [[中学校]]; narrower than Chinese 中學, which spans all secondary school.
 - <ruby>[中学校](../words/中学校.md)<rt>ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: middle school, junior high school — completes the three-tier 小学校/中学校/高校 naming system formalized in Meiji-era Japan and spread across CJKV education vocabulary.
 - <ruby>[高校](../words/高校.md)<rt>ㄍㄚㄨㄏ⼘ㄨ</rt></ruby>: secondary school.
 - <ruby>[高考](../words/高考.md)<rt>ㄍㄚㄨㄎㄚㄨ</rt></ruby>: the higher exam (China's national university-entrance exam).
@@ -179,6 +181,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[賢明](../words/賢明.md)<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>: wise.
 - <ruby>[智慧](../words/智慧.md)<rt>ㄐㄨㄧㄏ⼔ㄧ</rt></ruby>: wisdom, intelligence.
 - <ruby>[知性](../words/知性.md)<rt>ㄐㄨㄧㄙㄧㄫ</rt></ruby>: intelligent, smart, knowledgeable.
+- <ruby>[初心](../words/初心.md)<rt>ㄑㄛㄙㄧㄇ</rt></ruby>: beginner's mind; a novice, newcomer — the Japanese-leaning sense (Mandarin 初心 is instead "original aspiration"); marks the learner's stage alongside [[学習者]].
 
 ### Miscellaneous Abstract & Technical
 

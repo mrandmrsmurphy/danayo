@@ -60,6 +60,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一瞥]]<rt>ㄧㄊㄆㄝㄊ</rt></ruby> "a glance"
 - <ruby>[[一月]]<rt>ㄧㄊ⼔ㄊ</rt></ruby> "January"
 - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> "first"
+- <ruby>[[一貫]]<rt>ㄧㄊㄍ⺢ㄋ</rt></ruby> "consistent; consistency; throughout"
 - <ruby>[[十一]]<rt>ㄙㄧㄆ·ㄧㄊ</rt></ruby> "eleven"
 - <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ·⼔ㄜ</rt></ruby> "November"
 - <ruby>[[同一]]<rt>ㄉㄛㄫㄧㄊ</rt></ruby> "same, identical"

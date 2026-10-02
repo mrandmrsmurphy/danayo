@@ -16,6 +16,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 
 - <ruby>[時間](../words/時間.md)<rt>ㄙㄧㄍㄚㄋ</rt></ruby>: time — the plain, everyday noun.
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now. See [Existence](../lexipedia/Existence.md) for its own citation there.
+- <ruby>[現用](../words/現用.md)<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby>: currently in use, active — what is in use at present as against what is retired or obsolete (現用字庫 "the active inventory").
 - <ruby>[過去](../words/過去.md)<rt>ㄍ⺢·ㄎ⼄</rt></ruby>: the past.
 - <ruby>[将来](../words/将来.md)<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby>: the future.
 - <ruby>[旧](../words/旧.md)<rt>ㄍ⼜ㄛ</rt></ruby>: old.

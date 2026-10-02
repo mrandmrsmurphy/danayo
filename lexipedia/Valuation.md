@@ -122,6 +122,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[普及](../words/普及.md)<rt>ㄆㄛㄍㄨㄆ</rt></ruby>: popular — "to spread widely, become universal," a process/verb register rather than a plain adjective. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[常用](../words/常用.md)<rt>ㄙ⼘ㄫ⼄ㄫ</rt></ruby>: regular — "commonly used, routine."
 - <ruby>[一定](../words/一定.md)<rt>ㄧㄊㄐㄝㄫ</rt></ruby>: regular — "fixed, definite," distinct from [[常用]]'s routine-use sense.
+- <ruby>[一貫](../words/一貫.md)<rt>ㄧㄊㄍ⺢ㄋ</rt></ruby>: consistent, consistency, throughout — one principle or manner running unchanged from start to finish (不一貫 "inconsistent"), not [[一定]]'s "fixed value."
 - <ruby>[正常](../words/正常.md)<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby>: normal — the clean, direct word, also usable loosely for "ordinary" and "regular" given how tightly this English cluster overlaps.
 - <ruby>[平常](../words/平常.md)<rt>ㄅ⼶ㄫㄙ⼘ㄫ</rt></ruby>: usual — a near-synonym of [[正常]], also usable for "ordinary."
 

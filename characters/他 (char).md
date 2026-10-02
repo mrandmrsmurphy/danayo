@@ -57,5 +57,6 @@ boundedness: 50
 ## Words
 - <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> "another; other" (stand-in for 他)
 - <ruby>[[他郷]]<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby> "foreign land"
+- <ruby>[[他国]]<rt>ㄊㄜㄍㄛㄎ</rt></ruby> "another country; other countries"
 - <ruby>[[他動詞]]<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
 - <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
