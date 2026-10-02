@@ -56,6 +56,7 @@ boundedness: 100
 - <ruby>[[破綻]]<rt>ㄆㄜㄉㄚㄋ</rt></ruby> "bankruptcy; breakdown; failure"
 - <ruby>[[破戒]]<rt>ㄆㄜㄍ⼶</rt></ruby> "break a commandment"
 - <ruby>[[破暁]]<rt>ㄆㄜㄏ⼘ㄨ</rt></ruby> "daybreak"
+- <ruby>[[破擦音]]<rt>ㄆㄜㄑㄚㄊ·ㄨㄇ</rt></ruby> "affricate"
 
 ## Chengyu
 - <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"

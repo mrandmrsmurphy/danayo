@@ -76,6 +76,7 @@ boundedness: 80
 - <ruby>[[無定河]]<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby> "Wuding River"
 - <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> "boring, bored, tedious, dull"
 - <ruby>[[無罪]]<rt>ㄇㄜㄐㄛㄧ</rt></ruby> "innocent, not guilty"
+- <ruby>[[無声]]<rt>ㄇㄜㄙㄧㄫ</rt></ruby> "voiceless"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"

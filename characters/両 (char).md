@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[両親]]<rt>ㄌ⼘ㄫㄑㄧㄋ</rt></ruby> "parents"
 - <ruby>[[伎両]]<rt>ㄍㄝㄌ⼘ㄫ</rt></ruby> "skill, ability; underhanded trick, ploy"
 - <ruby>[[罔両]]<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "demons and monsters, esp. of water"
+- <ruby>[[両唇]]<rt>ㄌ⼘ㄫㄙㄨㄋ</rt></ruby> "bilabial"
 
 ## Chengyu
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"

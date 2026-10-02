@@ -52,6 +52,7 @@ boundedness: 35
 - <ruby>[[舌]]<rt>ㄙㄝㄊ</rt></ruby> "tongue" (stand-in for 舌)
 - <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby> "root of the tongue, taste faculty"
 - <ruby>[[尭舌]]<rt>⼘ㄨㄙㄝㄊ</rt></ruby> "talkative; MC-ing"
+- <ruby>[[舌背]]<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"
 
 ## Derived Characters
 Each of these descends from 𠯑 (no character page in this vault), which visually evolved into the modern glyph 舌 shared by all — the same "recognizable descendant of an unlinkable ancestor" pattern as 悟/五 or 栽/才.

@@ -59,6 +59,8 @@ boundedness: 80
 - <ruby>[[川口]]<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby> "Kawaguchi"
 - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby> "lipstick"
 - <ruby>[[窓口]]<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby> "window; service counter"
+- <ruby>[[硬口蓋]]<rt>ㄚㄫ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "hard palate; palatal"
+- <ruby>[[軟口蓋]]<rt>ㄋㄝㄋ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "soft palate; velar"
 
 ## Derived Characters
 - <ruby>[[叩]]<rt>ㄎㄛㄨ</rt></ruby> "kowtow, knock"

@@ -56,3 +56,5 @@ date-last-perfect: 2026-09-16
 ## Words
 - <ruby>[[擦]]<rt>ㄑㄚㄊ</rt></ruby> "wipe; scrub; rub; scour; brush" (stand-in for 擦)
 - <ruby>[[擦拭]]<rt>ㄑㄚㄊㄙㄧㄎ</rt></ruby> "wipe"
+- <ruby>[[擦音]]<rt>ㄑㄚㄊ·ㄨㄇ</rt></ruby> "fricative"
+- <ruby>[[破擦音]]<rt>ㄆㄜㄑㄚㄊ·ㄨㄇ</rt></ruby> "affricate"

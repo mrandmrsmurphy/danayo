@@ -52,3 +52,4 @@ date-last-perfect: 2026-08-08
 ## Words
 - <ruby>[[茎]]<rt>ㄎㄧㄫ</rt></ruby> "stem, stalk" (stand-in for 茎)
 - <ruby>[[陰茎]]<rt>ㄧㄇㄎㄧㄫ</rt></ruby> "penis"
+- <ruby>[[歯茎]]<rt>ㄑㄧ·ㄎㄧㄫ</rt></ruby> "alveolar ridge; alveolar"

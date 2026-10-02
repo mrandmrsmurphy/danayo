@@ -60,6 +60,7 @@ boundedness: 50
 - <ruby>[[有生]]<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
 - <ruby>[[有趣]]<rt>⼜ㄑㄨ</rt></ruby> "interesting, amusing, fascinating"
 - <ruby>[[有罪]]<rt>⼜ㄐㄛㄧ</rt></ruby> "guilty"
+- <ruby>[[有声]]<rt>⼜ㄙㄧㄫ</rt></ruby> "voiced"
 
 ## Chengyu
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"

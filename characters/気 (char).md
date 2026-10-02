@@ -66,6 +66,7 @@ boundedness:
 - <ruby>[[香気]]<rt>ㄏ⼘ㄫㄎㄧㄜ</rt></ruby> "fragrance; aroma; incense"
 - <ruby>[[大気圏]]<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby> "atmosphere"
 - <ruby>[[客気]]<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby> "polite (Mandarin); reckless bravado (Japanese/Korean)"
+- <ruby>[[送気]]<rt>ㄙㄛㄫ·ㄎㄧㄜ</rt></ruby> "aspiration"
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
 ## Derived Characters

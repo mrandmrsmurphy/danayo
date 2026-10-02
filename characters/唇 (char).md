@@ -50,6 +50,7 @@ date-last-perfect: 2026-08-06
 
 ## Words
 - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby> "lips" (stand-in for 唇 (char))
+- <ruby>[[両唇]]<rt>ㄌ⼘ㄫㄙㄨㄋ</rt></ruby> "bilabial"
 
 ## Chengyu
 - <ruby>[[唇亡歯寒]]<rt>ㄙㄨㄋㄇㄚㄫㄑㄧㄏㄚㄋ</rt></ruby> "when the lips are gone, the teeth feel cold"
