@@ -264,6 +264,8 @@ The traditional classification of Chinese character formation.
 - <ruby>[語用](../words/語用.md)<rt>⼄⼄ㄫ</rt></ruby> "language usage"
 - <ruby>[諸語](../words/諸語.md)<rt>ㄐㄚ⼄</rt></ruby> "the various languages (of a family or region), sundry languages"
 - <ruby>[母語](../words/母語.md)<rt>ㄇㄛㄨ⼄</rt></ruby> "mother tongue, native language"
+- <ruby>[補助語](../words/補助語.md)<rt>ㄅㄛㄐㄛ⼄</rt></ruby> "auxiliary language — [[母語]]'s opposite pole: deliberately designed/adopted as a secondary medium, not anyone's mother tongue"
+- <ruby>[話者](../words/話者.md)<rt>ㄏ⺢ㄧ·ㄑㄚ</rt></ruby> "a speaker (of a given language), e.g. 日本語話者, 'a speaker of Japanese'"
 - <ruby>[法語](../words/法語.md)<rt>ㄈㄚㄆ·⼄</rt></ruby> "French language, dharma speech, sermon"
 - <ruby>[四字成語](../words/四字成語.md)<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> "four-character fixed expression, four-character idiom"
 - <ruby>[成語](../words/成語.md)<rt>ㄙㄧㄫ⼄</rt></ruby> "chengyu, four-character sayings"
@@ -274,6 +276,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[句法](../words/句法.md)<rt>ㄍㄨㄈㄚㄆ</rt></ruby> "syntax"
 - <ruby>[段](../words/段.md)<rt>ㄉ⺢ㄋ</rt></ruby> "segments, sections, passages"
 - <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ⼄</rt></ruby> "to coin a word; a coinage, neologism"
+- <ruby>[複合語](../words/複合語.md)<rt>ㄅㄨㄎㄍㄛㄆ·⼄</rt></ruby> "a compound word — a word formed from two or more existing words or roots"
 
 ## Semantic Range Notes
 

@@ -33,8 +33,9 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[正確](../words/正確.md)<rt>ㄐㄧㄫㄎㄚㄎ</rt></ruby>: accurate, correct, proper.
 - <ruby>[事実](../words/事実.md)<rt>ㄐㄧㄙㄧㄊ</rt></ruby>: fact, reality, truth.
 - <ruby>[知識](../words/知識.md)<rt>ㄐㄨㄧㄙㄧㄎ</rt></ruby>: knowledge.
-- <ruby>[理解](../words/理解.md)<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>: to understand, to comprehend.
+- <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, to comprehend.
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — a near-synonym of 理解 above; note its Japanese pragmatic narrowing to a stock "understood!, roger!" acknowledgment, distinct from the general Chinese/Dan'a'yo verb sense.
+- <ruby>[理解度](../words/理解度.md)<rt>ㄌㄧ·ㄍ⼘ㄧㄉㄛ</rt></ruby>: degree/level of understanding, comprehension rate — 理解 above + [[度]] "degree."
 - <ruby>[研究](../words/研究.md)<rt>ㄝㄋㄍ⼜</rt></ruby>: research.
 - <ruby>[大学](../words/大学.md)<rt>ㄉㄚㄧㄏㄚㄎ</rt></ruby>: university (the abbreviated, institutional-name form; contrast [[大学校]] below).
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit; academic credit — the general "unit" sense belongs primarily to [Measurement](../lexipedia/Measurement.md), but the academic-credit sense earned toward a [[学位]] sits squarely here.

@@ -52,7 +52,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[考慮](../words/考慮.md)<rt>ㄎㄚㄨㄌ⼄</rt></ruby>: to consider, think about.
 - <ruby>[斟酌](../words/斟酌.md)<rt>ㄐㄧㄇㄐㄚㄎ</rt></ruby>: to consider, weigh, discuss — deliberation among people, not solitary thought.
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — see [[Knowledge]] for its own citation there.
-- <ruby>[理解](../words/理解.md)<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — an undocumented near-duplicate of [[了解]]; see [[Knowledge]] for its own citation there.
+- <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — an undocumented near-duplicate of [[了解]]; see [[Knowledge]] for its own citation there.
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
 
@@ -172,6 +172,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[様式](../words/様式.md)<rt>⼘ㄫㄙㄧㄎ</rt></ruby>: a type, style, pattern.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: a model, type, pattern — see [[Existence]] for its own citation there.
 - <ruby>[設計](../words/設計.md)<rt>ㄙㄝㄊㄍㄝㄧ</rt></ruby>: to plan, design.
+- <ruby>[複合](../words/複合.md)<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby>: compound, composite — made of multiple combined parts.
 - <ruby>[柄](../words/柄.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a design, pattern — visual/surface (a fabric pattern), distinct from [[様式]]'s structural "style."
 - <ruby>[方法](../words/方法.md)<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>: a method, way, manner — see [[Knowledge]] for its own citation there.
 

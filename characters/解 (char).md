@@ -51,7 +51,7 @@ boundedness: 100
 ## Words
 - <ruby>[[解]]<rt>ㄍ⼘ㄧ</rt></ruby> "explain" (stand-in for 解)
 - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby> "understand"
-- <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby> "comprehend; understand"
+- <ruby>[[理解]]<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby> "comprehend; understand"
 - <ruby>[[解放]]<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby> "liberate; free"
 - <ruby>[[諒解]]<rt>ㄌ⼘ㄫㄍ⼘ㄧ</rt></ruby> "understand; forgive"
 - <ruby>[[解決]]<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby> "resolve; solve"

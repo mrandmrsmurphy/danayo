@@ -59,3 +59,4 @@ boundedness: 90
 - <ruby>[[逸話]]<rt>ㄧㄊㄏ⺢ㄧ</rt></ruby> "anecdote"
 - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby> "telephone"
 - <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
+- <ruby>[[話者]]<rt>ㄏ⺢ㄧ·ㄑㄚ</rt></ruby> "speaker"
