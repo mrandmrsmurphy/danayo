@@ -44,6 +44,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[爆発](../words/爆発.md)<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby>: to explode, an explosion.
 - <ruby>[破裂](../words/破裂.md)<rt>ㄆㄜㄌㄝㄊ</rt></ruby>: to rupture, burst, crack.
 - <ruby>[焼灼](../words/焼灼.md)<rt>ㄙ⼄ㄨㄐㄚㄎ</rt></ruby>: to burn — specifically to cauterize or scorch, a narrower technical/medical sense than the general [[燃焼]].
+- <ruby>[尞](../words/尞.md)<rt>ㄌ⼘</rt></ruby>: a bonfire, sacrificial firewood — a revived archaic root (the shared phonetic ancestor behind 僚/寮/療/瞭/遼), reclaiming the oracle-bone sense those descendants long ago drifted away from.
 
 ## Advanced / Specialized (C1+)
 

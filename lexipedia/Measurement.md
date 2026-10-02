@@ -30,6 +30,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[毫米](../words/毫米.md)<rt>ㄏㄚㄨㄇㄝㄧ</rt></ruby>: a millimeter — [[毫]]'s own "milli-" prefix compounded with [[公尺]]'s "meter" root.
 - <ruby>[厘](../words/厘.md)<rt>ㄌㄧ</rt></ruby>: the SI prefix "centi-" (厘米, "centimeter") — originally a small traditional unit of weight/length, also used for a 0.1% interest-rate unit.
 - <ruby>[公尺](../words/公尺.md)<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>: a meter.
+- <ruby>[尺](../words/尺.md)<rt>ㄑㄝㄎ</rt></ruby>: a chi — the traditional East Asian unit of length (historically around 30–33cm, varying by era and country), analogous in role, though not exact size, to the Western foot; still productive in the modern metric compound [[公尺]] ("meter").
 - <ruby>[里](../words/里.md)<rt>ㄌㄧ</rt></ruby>: a li — the traditional East Asian unit of distance (roughly 500m in modern China, though the value has varied by era and country), the closest indigenous analog to the Western mile; see Semantic Range Notes.
 - <ruby>[英里](../words/英里.md)<rt>ㄝㄫㄌㄧ</rt></ruby>: a mile — the Western statute mile specifically, named "English li" to keep it distinct from the native [[里]]; see Semantic Range Notes.
 - <ruby>[浬](../words/浬.md)<rt>ㄌㄧ</rt></ruby>: a nautical mile; a knot (as a unit of speed) — a modern coinage pairing the water radical with [[里]], distinct from both it and [[英里]].

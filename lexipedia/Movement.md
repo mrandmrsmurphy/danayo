@@ -122,6 +122,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[彷徨](../words/彷徨.md)<rt>ㄆㄚㄫㄏ⺢ㄫ</rt></ruby>: to wander.
 - <ruby>[爬行](../words/爬行.md)<rt>ㄅㄚㄏㄚㄫ</rt></ruby>: to crawl.
 - <ruby>[散歩](../words/散歩.md)<rt>ㄙㄚㄇㄅㄛ</rt></ruby>: to walk, stroll — leisurely, not walking as opposed to running.
+- <ruby>[履](../words/履.md)<rt>ㄌㄧㄜ</rt></ruby>: to tread on, tread with.
 
 ### Returning, Remaining & Passing
 
@@ -177,6 +178,7 @@ Paths vocabulary covers routes, journeys, and their origins and destinations —
 - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>: a road, path, way — see [[Buildings]] for its own citation there.
 - <ruby>[街道](../words/街道.md)<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>: a street, road — see [[Buildings]] for its own citation there; the urban thoroughfare specifically, distinct from [[道路]]'s general road.
 - <ruby>[軌](../words/軌.md)<rt>ㄎㄨㄧ</rt></ruby>: a track, path, rut — a worn or fixed course, distinct from [[道路]]'s general path.
+- <ruby>[岐](../words/岐.md)<rt>ㄍㄝ</rt></ruby>: a fork, branching point (in a road) — and by extension, divergence generally (岐路, "crossroads," often figurative of a decisive life choice).
 - <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby>: a way — a route in the literal sense; compare [[方法]] and [[道理]] (already cited on [[Mind]] and [[Knowledge]]), which mean "way" in the sense of "method," not a physical route.
 - <ruby>[本来](../words/本来.md)<rt>ㄅㄛㄋㄌㄚㄧ</rt></ruby>: an origin — see [[Existence]] for its own citation there; the original state of something.
 - <ruby>[出身](../words/出身.md)<rt>ㄑㄨㄊㄙㄧㄋ</rt></ruby>: a background; to be descended from; an origin — see [[Existence]] for its own citation there; personal origin, one's birthplace or background, distinct from [[本来]]'s abstract "original state."

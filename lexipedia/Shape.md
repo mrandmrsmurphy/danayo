@@ -57,6 +57,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[縄](../words/縄.md)<rt>ㄙㄜㄫ</rt></ruby>: a rope, cord, string, line — the physical cord sense of "line."
 - <ruby>[排](../words/排.md)<rt>ㄆㄚㄧ</rt></ruby>: a row, line — the arrangement sense.
 - <ruby>[紋](../words/紋.md)<rt>ㄇㄨㄋ</rt></ruby>: a mark, line, symbol — a pattern-line (e.g. wood grain, a tattoo).
+- <ruby>[巴](../words/巴.md)<rt>ㄆㄚ</rt></ruby>: the tomoe, a specific comma-shaped swirl motif common in East Asian heraldry and design (三つ巴, the triple-swirl mon crest).
 
 **Not yet coined or excluded as false matches**: "stick" (a plain rod/twig) remains uncoined — [[杖]] and [[棍棒]], which also gloss "stick," mean a cane/walking-staff and a club/bludgeon respectively, tool and weapon senses unrelated to a plain stick shape.
 

@@ -19,6 +19,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 
 - <ruby>[多](../words/多.md)<rt>ㄉㄜ</rt></ruby>: many, much.
 - <ruby>[少](../words/少.md)<rt>ㄙㄛㄨ</rt></ruby>: few, scarce.
+- <ruby>[小](../words/小.md)<rt>ㄙㄛ</rt></ruby>: small — and, by extension, young, junior; one of the vault's most productive modifiers (小雨, "drizzle"; 小学, "elementary school").
 - <ruby>[高](../words/高.md)<rt>ㄍㄚㄨ</rt></ruby>: high.
 - <ruby>[重](../words/重.md)<rt>ㄑㄛㄫ</rt></ruby>: heavy.
 - <ruby>[軽](../words/軽.md)<rt>ㄎㄧㄫ</rt></ruby>: light, not heavy.

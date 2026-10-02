@@ -139,6 +139,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
 - <ruby>[中](../words/中.md)<rt>ㄐㄨㄫ</rt></ruby> "-ing (progressive aspect marker, postfixed to a verb)"
 - <ruby>[了](../words/了.md)<rt>ㄌ⼘ㄨ</rt></ruby> "completed/changed-state aspect particle (吃了飯, 下雨了) — [[中]]'s perfective counterpart; also a free-standing word, 'done, finished, over' (了結, [[完了]])"
+- <ruby>[已](../words/已.md)<rt>ㄜ</rt></ruby> "-ed, (has) done, completed (perfective aspect marker, postfixed to a verb: 食已, 'has eaten'; marks completion regardless of when) — contrasts with [[未]] ('not yet, unrealized') and [[将]] ('will, prospective')"
 - <ruby>[人称](../words/人称.md)<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
 
 ## Function Words
@@ -155,6 +156,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[共](../words/共.md)<rt>ㄍ⼄ㄫ</rt></ruby> "with, together with (comitative case particle, 共格: 共父走, 'run together with father') — distinct from the instrumental [[以]], which marks a tool rather than a companion"
 - <ruby>[然](../words/然.md)<rt>ㄋ⼶ㄋ</rt></ruby> "so; bound manner-adverb suffix ('-ly,' in a certain manner): 自然, 'naturally'; 忽然, 'suddenly' — distinct from [[焉]]/[[所以]]'s causal 'therefore,' above"
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
+- <ruby>[就](../words/就.md)<rt>ㄑ⺢ㄧ</rt></ruby> "then, at once, already, as early as (marks the immediacy or earliness of an action: 一…就…, 'as soon as…, then…') — fully grammaticalized in Mandarin; Japanese/Korean/Vietnamese instead preserve its older 'to approach, accomplish' sense, bound inside 成就 ('achievement')"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
 - <ruby>[哉](../words/哉.md)<rt>ㄐㄚㄧ</rt></ruby> "O (vocative case particle, 呼格, marking direct address: 善哉, 'Excellent!'; also an exclamatory sentence-final particle)"

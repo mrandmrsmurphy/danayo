@@ -124,6 +124,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>: semen.
 - <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>: to ejaculate.
 - <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>: urine.
+- <ruby>[屎](../words/屎.md)<rt>ㄏㄜ</rt></ruby>: excrement, feces — [[尿]]'s solid counterpart.
 - <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>: diarrhea.
 - <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>: menstruation.
 - <ruby>[屁](../words/屁.md)<rt>ㄆㄧㄜ</rt></ruby>: fart.

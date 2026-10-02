@@ -125,10 +125,10 @@ language: English
 - chamber - *(no clean consensus — too context-dependent across uses)*
 - door - <ruby>[門戸](../words/門戸.md)<rt>ㄇㄛㄋㄏㄛ</rt></ruby>
 - entrance - <ruby>[入口](../words/入口.md)<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> (literally "the mouth one enters through")
-- floor (building level, e.g. "2nd floor") - [[層]] *(reserved — the Mandarin/Korean majority term 層/층; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense — avoided here to prevent collision. Not yet a word page.)*
+- floor (building level, e.g. "2nd floor") - <ruby>[層](../words/層.md)<rt>ㄑㄜㄫ</rt></ruby> (高層, "high-rise") — the Mandarin/Korean majority term; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense, avoided here to prevent collision.
 - hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
-- roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)* — though the verb "to roof, to thatch" does exist: <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
+- roof - <ruby>[屋](../words/屋.md)<rt>ㄛㄎ</rt></ruby> — Dan'a'yo's own coinage choice for the bare noun, built on the shared component behind Mandarin 屋頂/Japanese 屋根 (Korean instead uses native 지붕); 屋 itself extends by compound to "house, building" and is especially productive as a shop/tradesperson suffix in Japanese (本屋, "bookshop"). The verb "to roof, to thatch" is the separate <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
 - bathroom - <ruby>[浴室](../words/浴室.md)<rt>⼄ㄎㄙㄧㄊ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>
