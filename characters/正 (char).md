@@ -77,10 +77,11 @@ boundedness: 100
 - <ruby>[[真正]]<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby> "genuine; real"
 - <ruby>[[正常]]<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby> "normal, regular, ordinary"
 - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> "square"
+- <ruby>[[訓民正音]]<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation introducing the Korean script"
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
-- <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> "Korean picks the sound"
+- <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄇㄐㄧㄫㄨㄇ</rt></ruby> "Korean picks the sound"
 ## Derived Characters
 - <ruby>[[定]]<rt>ㄐㄝㄫ</rt></ruby> "decide"
 - <ruby>[[征]]<rt>ㄐㄝㄫ</rt></ruby> "conquer"

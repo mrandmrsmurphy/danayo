@@ -1,14 +1,14 @@
 ---
 language: 単亜語
 ---
-<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> + <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
+<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby> + <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>
 
 ## 有名
 - <ruby>安<rt>ㄚㄋ</rt></ruby><ruby>重<rt>ㄑㄛㄫ</rt></ruby><ruby>根<rt>ㄍㄚㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 안중근) <ruby>獨立<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby><ruby>運動家<rt>ㄨㄋㄉㄛㄫㄍㄚ</rt></ruby>, <ruby>刺客<rt>ㄑㄧㄎㄎㄚㄎ</rt></ruby> (1879–1910)
 - <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김구) <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby><ruby>臨時<rt>ㄌㄧㄇㄙㄧ</rt></ruby><ruby>政府<rt>ㄐㄧㄫㄈㄨ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国務領<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby> (1876–1949)
 - <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>承<rt>ㄙㄨㄫ</rt></ruby><ruby>晩<rt>ㄇㄛㄋ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 이승만 ) <ruby>第一<rt>ㄉㄝㄧㄧㄊ</rt></ruby> <ruby>総統<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby> (1875–1965)
 - <ruby>申<rt>ㄙㄝㄋ</rt></ruby><ruby>采<rt>ㄑㄚㄧ</rt></ruby><ruby>浩<rt>ㄏㄚㄨ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 신채호) <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>主義<rt>ㄐㄨㄜㄧ</rt></ruby><ruby>史学者<rt>ㄙㄧㄏㄚㄎㄑㄚ</rt></ruby> (1880–1936)
-- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>成<rt>ㄙㄧㄫ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김일성 ) <ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby><ruby>民主<rt>ㄇㄧㄋㄐㄨ</rt></ruby><ruby>主義<rt>ㄐㄨㄜㄧ</rt></ruby><ruby>人民<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby><ruby>共和国<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>初代<rt>ㄑㄛㄉㄚㄧ</rt></ruby> <ruby>首領<rt>ㄙ⼜ㄌㄧㄫ</rt></ruby> (1912–1994)
+- <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby><ruby>成<rt>ㄙㄧㄫ</rt></ruby> — (<ruby>諺文<rt>ㄋ⼶ㄋㄇㄨㄋ</rt></ruby>: 김일성 ) <ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>民主<rt>ㄇㄧㄋㄐㄨ</rt></ruby><ruby>主義<rt>ㄐㄨㄜㄧ</rt></ruby><ruby>人民<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby><ruby>共和国<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>初代<rt>ㄑㄛㄉㄚㄧ</rt></ruby> <ruby>首領<rt>ㄙ⼜ㄌㄧㄫ</rt></ruby> (1912–1994)
 - Kim Jong-il (김정일 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[日](/characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby>) — Kim Jong-il (1941–2011)
 - Kim Jong-un (김정은 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby><ruby>[恩](/characters/恩.md)<rt>ㄚㄋ</rt></ruby>) — Kim Jong-un (b. 1984)
 - Kim Ju-ae (김주애 / <ruby>[金](/characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby><ruby>[主](/characters/主.md)<rt>ㄐㄨ</rt></ruby>[[愛 (char)]]) — Kim Ju-ae (b. ~2013)
@@ -31,7 +31,7 @@ language: 単亜語
 - 三삼: 一切읻첟之티 行動항동은 가장 秩序딛쇼를 尊重존총하야 我等아둥之티 主張주창과 態度태도로 하야금 어대ᄭᅡ지던지 光明쾅명正大징대하게 하라
 
   
-朝鮮잣션建國건곡四千싀천二百늬박五十오십二늬年넌三月삼웓一日읻닏 　朝鮮잣션民族민족代表대뱟
+朝鮮잣셤建國건곡四千싀천二百늬박五十오십二늬年넌三月삼웓一日읻닏 　朝鮮잣셤民族민족代表대뱟
 
 孫秉熙손빙히 吉善宙긷션줏 李弼柱리빋주 白龍城박룡싱 金完圭김환궤  
 金秉祚김빙조 金昌俊김창준 権東鎮권동친 権秉徳권빙둑 羅龍煥로룡환^  

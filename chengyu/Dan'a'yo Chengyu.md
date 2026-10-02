@@ -7,7 +7,7 @@ tags:
 - <ruby>[合漢再決](chengyu/合漢再決.md)<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> - The Renew Sinosphere Chooses Unity
 - <ruby>[一字一音](chengyu/一字一音.md)<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
 - <ruby>[覧昭和決](chengyu/覧昭和決.md)<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢·ㄎ⼔ㄊ</rt></ruby> - Shōwa decides the look
-- <ruby>[朝鮮正音](chengyu/朝鮮正音.md)<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> - Joseon standardizes the sound
+- <ruby>[朝鮮正音](chengyu/朝鮮正音.md)<rt>ㄐㄚㄨㄙ⼶ㄇㄐㄧㄫㄨㄇ</rt></ruby> - Joseon standardizes the sound
 - <ruby>[保頭断尾](chengyu/保頭断尾.md)<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> - guard the core, prune the periphery
 - <ruby>[文言継承](chengyu/文言継承.md)<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> - continuity with the classical written standard
 - <ruby>[現代適応](chengyu/現代適応.md)<rt>ㄏ⼶ㄋㄉㄚㄧㄙㄝㄎ·ㄧㄫ</rt></ruby> - adaptation to modern speech

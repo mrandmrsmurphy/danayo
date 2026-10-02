@@ -3,8 +3,8 @@ characters:
   - 不 (char)
   - 亦 (char)
   - 乎 (char)
-羅馬字: "bod'yeg...ho"
-諺文: 볻역...호
+羅馬字: bod'ǝg...ho
+諺文: 볻윽...호
 mandarin: "bùyì...hū"
 注音: ㄅㄛㄊ·ㄜㄎㄏㄛ
 english:

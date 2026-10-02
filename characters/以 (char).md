@@ -52,11 +52,12 @@ boundedness: 90
 - <ruby>[[所以]]<rt>ㄙㄜㄧ</rt></ruby> "therefore; so; consequently"
 - <ruby>[[以前]]<rt>ㄧㄐㄝㄋ</rt></ruby> "before; ago"
 - <ruby>[[以便]]<rt>ㄧㄅ⼶ㄋ</rt></ruby> "in order that"
-- <ruby>[[以後]]<rt>ㄧㄏㄛㄨ</rt></ruby> "after that; from now on; thenceforth"
+- <ruby>[[以後]]<rt>ㄧㄏㄨㄛ</rt></ruby> "after that; from now on; thenceforth"
 - <ruby>[[既以]]<rt>ㄍㄧㄜ·ㄧ</rt></ruby> "already; too late"
-- <ruby>[[為以]]<rt>⼔·ㄧ</rt></ruby> "in order to; so that"
+- <ruby>[[為以]]<rt>⼔ㄋ·ㄧ</rt></ruby> "in order to; so that"
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
+- <ruby>[[以外]]<rt>ㄧ⺢ㄧ</rt></ruby> "other than; except for; outside of"
 
 ## Chengyu
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"

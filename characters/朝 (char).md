@@ -57,14 +57,14 @@ boundedness: 100
 - <ruby>[[宋朝]]<rt>ㄙㄛㄫㄐㄚㄨ</rt></ruby> "Song dynasty"
 - <ruby>[[一朝]]<rt>ㄧㄊㄐㄚㄨ</rt></ruby> "short time"
 - <ruby>[[今朝]]<rt>ㄍㄧㄇㄐㄚㄨ</rt></ruby> "this morning"
-- <ruby>[[朝鮮]]<rt>ㄐㄚㄨㄙ⼶ㄋ</rt></ruby> "North Korea; Choseon"
+- <ruby>[[朝鮮]]<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby> "North Korea; Choseon"
 - <ruby>[[王朝]]<rt>⺢ㄫㄐㄚㄨ</rt></ruby> "dynasty; reign"
 - <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨㄚㄋ</rt></ruby> "good morning"
 
 ## Chengyu
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"
 - <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
-- <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄋㄐㄧㄫ·ㄨㄇ</rt></ruby> "Korean picks the sound"
+- <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄇㄐㄧㄫㄨㄇ</rt></ruby> "Korean picks the sound"
 
 ## Derived Characters
 - <ruby>[[嘲]]<rt>ㄑㄚㄨ</rt></ruby> "ridicule; scorn; jeer at"

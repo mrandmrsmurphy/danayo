@@ -94,7 +94,7 @@ boundedness: 75
 - <ruby>[[夫人]]<rt>ㄈㄜ·ㄋㄧㄋ</rt></ruby> "madam; lady; wife"
 - <ruby>[[人生]]<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby> "human life; life"
 - <ruby>[[人道]]<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby> "humane; humanitarian"
-- <ruby>[[為人]]<rt>ㄨㄧㄋㄧㄋ</rt></ruby> "behave; conduct oneself"
+- <ruby>[[為人]]<rt>⼔ㄋㄋㄧㄋ</rt></ruby> "behave; conduct oneself"
 - <ruby>[[無人]]<rt>ㄇㄜ·ㄋㄧㄋ</rt></ruby> "depopulated; unmanned"
 - <ruby>[[客人]]<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby> "traveller"
 - <ruby>[[故人]]<rt>ㄍㄛ·ㄋㄧㄋ</rt></ruby> "deceased; old friend"

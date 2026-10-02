@@ -79,7 +79,7 @@ boundedness: 80
 - <ruby>[[無声]]<rt>ㄇㄜㄙㄧㄫ</rt></ruby> "voiceless"
 
 ## Chengyu
-- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"
+- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"
 - <ruby>[[天衣無縫]]<rt>ㄊㄝㄋ·ㄧㄜㄇㄜㄅㄛㄫ</rt></ruby> "flawless; seamless; so perfect as to show no trace of artifice"
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"

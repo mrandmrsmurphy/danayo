@@ -57,3 +57,4 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; explicate" (stand-in for 訓)
+- <ruby>[[訓民正音]]<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation introducing the Korean script"

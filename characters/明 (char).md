@@ -83,9 +83,10 @@ boundedness: 100
 - <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird" (in place of 鷦明)
 - <ruby>[[明蝦]]<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby> "king prawn"
 - <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
+- <ruby>[[簡明]]<rt>ㄍㄚㄋㄇ⼶ㄫ</rt></ruby> "simple and clear; concise and plain"
 
 ## Chengyu
-- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"
+- <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄇㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> "Per Character Clear Meaning"

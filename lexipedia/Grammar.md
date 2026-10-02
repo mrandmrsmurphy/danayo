@@ -73,6 +73,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Contrastives
 - another <ruby>[他](../words/他.md)<rt>ㄊㄜ</rt></ruby>
 - other, distinct : <ruby>[別](../words/別.md)<rt>ㄅㄝㄊ</rt></ruby>
+- other than, except for, outside of (postposed to a noun phrase: 日本語以外, "languages other than Japanese") : <ruby>[以外](../words/以外.md)<rt>ㄧ⺢ㄧ</rt></ruby>
 - either, neither: not yet coined.
 
 ### Pronoun
@@ -183,6 +184,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - quantifier : <ruby>[量化詞](../words/量化詞.md)<rt>ㄌ⼘ㄫㄏ⺢ㄙㄚ</rt></ruby>
 - measure word, classifier, counter : <ruby>[量詞](../words/量詞.md)<rt>ㄌ⼘ㄫㄙㄚ</rt></ruby>
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
+- grammatical object (of a verb; a Japanese/Korean grammar term, whereas in Mandarin 目的语 means "target language" and the grammatical object is 宾语) : <ruby>[目的語](../words/目的語.md)<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - prefix, verbal prefix (the category of aspect and mood prefixes on verbs: 有–, 無–, 在–, 莫–) : <ruby>[接頭辞](../words/接頭辞.md)<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby>
 - derivational affix, fully productive (a bound element that derives a new lexical item from a stem; any transparent stem + affix is valid without its own page; filed under the fullwidth hyphen, －X) : <ruby>[派生辞](../words/派生辞.md)<rt>ㄆㄚㄧㄙㄚㄫㄑㄧ</rt></ruby>
@@ -199,6 +201,12 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>
 - the Chinese language (primarily a Japanese/Korean coinage, country + 語; Mandarin itself prefers 中文/普通話/漢語) : <ruby>[中国語](../words/中国語.md)<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>
 - Chinese; the Chinese language/writing/culture (the everyday Mandarin/Cantonese term, emphasizing the cultural-written dimension over [[中国語]]'s system-of-speech sense) : <ruby>[中文](../words/中文.md)<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby>
+- Cantonese, lit. "Guangdong language" (the Guangdong-based variety; compare 粤語, the Yue language as a whole) : <ruby>[広東語](../words/広東語.md)<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby>
+- Korean (language), the short Sinitic name beside the full [[韓国語]] (homophone of [[漢語]]) : <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>
+- Vietnamese (language), the short Sinitic name beside the full [[越南語]] (homophone of [[粤語]]) : <ruby>[越語](../words/越語.md)<rt>⼔ㄊ⼄</rt></ruby>
+- Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
+- loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
+- source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>
 - CJKV (Chinese, Japanese, Korean, Vietnamese — the standard Sinographic initialism for the four cultures/languages this vault's own project is built around) : <ruby>[中日韓越](../words/中日韓越.md)<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby>
 - gender, form: not yet coined.
 - accusative: genuinely absent, not a gap — see Semantic Range Notes.
@@ -219,6 +227,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[篆書](../words/篆書.md)<rt>ㄐ⼔ㄋㄙ⼄</rt></ruby> "seal script"
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
+- <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
 - <ruby>[本字](../words/本字.md)<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character — the etymologically correct character for a word, as distinct from a phonetic loan or later variant"
 - <ruby>[字](../words/字.md)<rt>ㄐㄧ</rt></ruby> "character"
@@ -232,6 +241,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[注音](../words/注音.md)<rt>ㄐㄨㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
 - <ruby>[部首](../words/部首.md)<rt>ㄅㄛㄨㄙ⼜</rt></ruby> "radical"
 - <ruby>[表記](../words/表記.md)<rt>ㄅ⼘ㄨㄍㄧ</rt></ruby> "notation, orthography, written representation"
+- <ruby>[転写](../words/転写.md)<rt>ㄐ⼔ㄋㄙ⼘</rt></ruby> "transcription, transliteration — rendering a form from one script or sound system in another"
 - <ruby>[符号](../words/符号.md)<rt>ㄅㄨㄏㄚㄨ</rt></ruby> "symbol, mark, sign"
 - <ruby>[句号](../words/句号.md)<rt>ㄍㄨㄏㄚㄨ</rt></ruby> "period, full stop"
 - <ruby>[句点](../words/句点.md)<rt>ㄍㄨㄉㄝㄇ</rt></ruby> "full stop, period"

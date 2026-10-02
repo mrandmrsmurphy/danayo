@@ -22,7 +22,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 ### Opposites
 * beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> , ugly - <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby>
 * fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby>, slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>
-* first - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>
+* first - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> , last - <ruby>[[最後]]<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
 * smart - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
@@ -92,7 +92,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- today - <ruby>[[今日]]<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby>, 
 	- tomorrow - <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby>, 
 	- morning - <ruby>[[朝]]<rt>ㄐㄚㄨ</rt></ruby>, 
-	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄛㄨ</rt></ruby>
+	- afternoon - <ruby>[[午後]]<rt>ㄛㄏㄨㄛ</rt></ruby>
 - Season : 
 	- spring - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby>, 
 	- summer - <ruby>[[夏]]<rt>ㄏ⼘</rt></ruby>, 

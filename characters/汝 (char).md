@@ -52,4 +52,4 @@ date-last-perfect: 2026-08-11
 - <ruby>[[汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (intimate)" (stand-in for 汝)
 
 ## Chengyu
-- <ruby>[[欲夫治汝]]<rt>⼄ㄎㄅㄨㄑㄧㄋㄛㄧ</rt></ruby> "wanting your husband, he will rule you"
+- <ruby>[[欲夫治汝]]<rt>⼄ㄎㄈㄜㄑㄧㄋㄛㄧ</rt></ruby> "wanting your husband, he will rule you"

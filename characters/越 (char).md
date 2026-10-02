@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[卓越]]<rt>ㄊㄚㄎ·⼔ㄊ</rt></ruby> "excellent, outstanding, remarkable"
 - <ruby>[[超越]]<rt>ㄊㄚㄨ⼔ㄊ</rt></ruby> "surpass"
 - <ruby>[[中日韓越]]<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby> "CJKV"
+- <ruby>[[越語]]<rt>⼔ㄊ⼄</rt></ruby> "Vietnamese (language)"
 
 ## Chengyu
 - <ruby>[[呉越同舟]]<rt>ㄛ⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby> "bitter enemies meet and have to work together"

@@ -34,7 +34,7 @@ tags:
 - <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 - <ruby>[舎本逐末](chengyu/舎本逐末.md)<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> - neglecting the fundamentals while chasing the trivial
 - <ruby>[五風十雨](chengyu/五風十雨.md)<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> - favorable climate leading to prosperity
-- <ruby>[国士無双](chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄍ⺢ㄫ</rt></ruby> - exceptional gentleman
+- <ruby>[国士無双](chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> - exceptional gentleman
 - <ruby>[開天辟地](chengyu/開天辟地.md)<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> - Open Heaven, Crack the Earth
 - <ruby>[戦戦恐恐](chengyu/戦戦恐恐.md)<rt>ㄐㄝㄋㄐㄝㄋㄎㄛㄫㄎㄛㄫ</rt></ruby> - fear and trembling; extreme trepidation
 - <ruby>[跳梁跋扈](chengyu/跳梁跋扈.md)<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> - running rampant; domineering and lawless
@@ -92,7 +92,7 @@ tags:
 - <ruby>[成家立業](chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> - Get married and start a job
 - <ruby>[文質彬彬](chengyu/文質彬彬.md)<rt>ㄇㄨㄋㄐㄧㄊㄆㄧㄋㄆㄧㄋ</rt></ruby> - [well balanced between refinement and substance, cultivated without affectation]
 - <ruby>[断章取義](chengyu/断章取義.md)<rt>ㄉ⺢ㄋㄐㄚㄫㄑㄛㄨㄜㄧ</rt></ruby> - take out of context
-- <ruby>[旗幟鮮明](chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄋㄇ⼶ㄫ</rt></ruby> - to take a clear and unmistakable stand
+- <ruby>[旗幟鮮明](chengyu/旗幟鮮明.md)<rt>ㄎㄧㄑㄧㄙ⼶ㄇㄇ⼶ㄫ</rt></ruby> - to take a clear and unmistakable stand
 - <ruby>[春夏秋冬](chengyu/春夏秋冬.md)<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> - four season, all year
 - <ruby>[春秋鼎盛](chengyu/春秋鼎盛.md)<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> - in the prime of life; at the height of one's powers
 - <ruby>[時代錯誤](chengyu/時代錯誤.md)<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> - anachronism

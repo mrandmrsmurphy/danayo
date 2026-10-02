@@ -50,8 +50,8 @@ boundedness: 90
 
 ## Words
 - <ruby>[[後]]<rt>ㄏㄨㄛ</rt></ruby> "after" (stand-in for 後)
-- <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby> "final; last; ultimate"
-- <ruby>[[以後]]<rt>ㄧㄏㄛㄨ</rt></ruby> "after that; from now on; thenceforth"
+- <ruby>[[最後]]<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby> "final; last; ultimate"
+- <ruby>[[以後]]<rt>ㄧㄏㄨㄛ</rt></ruby> "after that; from now on; thenceforth"
 - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby> "then; after that"
 - <ruby>[[後裔]]<rt>ㄏㄨㄛ⼶</rt></ruby> "descendant"
 - <ruby>[[後置詞]]<rt>ㄏㄨㄛㄑㄧㄙㄚ</rt></ruby> "postposition"

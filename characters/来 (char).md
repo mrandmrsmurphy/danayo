@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[来日]]<rt>ㄌㄚㄧㄋㄧㄊ</rt></ruby> "tomorrow"
 - <ruby>[[来世紀]]<rt>ㄌㄚㄧㄙㄝㄍㄧ</rt></ruby> "next century"
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby> "Malaysia"
+- <ruby>[[外来語]]<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby> "loanword"
 
 ## Derived Characters
 - <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley"

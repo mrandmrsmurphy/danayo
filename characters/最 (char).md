@@ -51,7 +51,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[最]]<rt>ㄐ⼔</rt></ruby> "most" (stand-in for 最)
-- <ruby>[[最後]]<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby> "final; end; ultimate"
+- <ruby>[[最後]]<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby> "final; end; ultimate"
 - <ruby>[[最初]]<rt>ㄐ⼔ㄑㄛ</rt></ruby> "initial; first"
 - <ruby>[[最近]]<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby> "lately; recently"
 - <ruby>[[最善]]<rt>ㄐ⼔ㄙ⼶ㄋ</rt></ruby> "best"

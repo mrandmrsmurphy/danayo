@@ -54,9 +54,9 @@ boundedness: 100
 - 為 is a "copulative particle," a prefix for a verbal complement, as in <ruby>[[words/謂之]]<rt>ㄨㄧ·ㄊㄧ</rt></ruby><ruby>光明<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby> — "he named the light 'day'."
 
 ## Words
-- <ruby>[[敢為]]<rt>ㄍㄚㄇㄨㄧ</rt></ruby> "dare to do"
-- <ruby>[[為以]]<rt>⼔·ㄧ</rt></ruby> "in order that, so that"
-- <ruby>[[為人]]<rt>ㄨㄧㄋㄧㄋ</rt></ruby> "behave, conduct oneself"
+- <ruby>[[敢為]]<rt>ㄍㄚㄇ⼔ㄋ</rt></ruby> "dare to do"
+- <ruby>[[為以]]<rt>⼔ㄋ·ㄧ</rt></ruby> "in order that, so that"
+- <ruby>[[為人]]<rt>⼔ㄋㄋㄧㄋ</rt></ruby> "behave, conduct oneself"
 
 ## Chengyu
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"

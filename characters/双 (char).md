@@ -62,4 +62,4 @@ boundedness: 90
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree, shala"
 - <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
 ## Chengyu
-- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"
+- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"

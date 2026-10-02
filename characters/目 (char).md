@@ -55,6 +55,7 @@ boundedness: 90
 - <ruby>[[品目]]<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby> "article; item; inventory"
 - <ruby>[[盲目]]<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby> "blind"
 - <ruby>[[耳目]]<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby> "eyes and ears; snoops and spies"
+- <ruby>[[目的語]]<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby> "grammatical object"
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance; obvious; apparent"
 

@@ -38,11 +38,11 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 ### Sequence & Succession
 
 - <ruby>[後](../words/後.md)<rt>ㄏㄨㄛ</rt></ruby>: after.
-- <ruby>[以後](../words/以後.md)<rt>ㄧㄏㄛㄨ</rt></ruby>: after that, from now on, thenceforth — used both after a specific reference point (三点以後, "after three o'clock") and standalone at a clause's start.
+- <ruby>[以後](../words/以後.md)<rt>ㄧㄏㄨㄛ</rt></ruby>: after that, from now on, thenceforth — used both after a specific reference point (三点以後, "after three o'clock") and standalone at a clause's start.
 - <ruby>[予様](../words/予様.md)<rt>⼄·⼘ㄫ</rt></ruby>: beforehand, in advance — [[後]]'s temporal counterpart; a Dan'a'yo-internal coinage, since each daughter language reaches for its own real native/Sino word rather than a shared calque of these two characters.
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].
-- <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄛㄨ</rt></ruby>: final, last.
+- <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>: final, last.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>: current — see [Calendar](../lexipedia/Calendar.md) and [Grammar](../lexipedia/Grammar.md) for their own citations there.
 - <ruby>[先後](../words/先後.md)<rt>ㄙㄝㄋㄏㄨㄛ</rt></ruby>: successively, one after another, in succession — a strict ordered sequence (先後順序, "order of precedence"), distinct from [[前後]]'s own looser "before and after, roughly."
@@ -112,7 +112,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 
 ### Day Divisions
 
-- <ruby>[午後](../words/午後.md)<rt>ㄛㄏㄛㄨ</rt></ruby>: afternoon.
+- <ruby>[午後](../words/午後.md)<rt>ㄛㄏㄨㄛ</rt></ruby>: afternoon.
 - <ruby>[黎明](../words/黎明.md)<rt>ㄌㄝㄧㄇ⼶ㄫ</rt></ruby>: dawn.
 - <ruby>[晩](../words/晩.md)<rt>ㄇㄛㄋ</rt></ruby>: evening.
 - <ruby>[夜](../words/夜.md)<rt>⼘</rt></ruby>: night — the bare word (昼夜, "day and night").

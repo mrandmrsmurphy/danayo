@@ -62,7 +62,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
-- <ruby>[[欲夫治汝]]<rt>⼄ㄎㄅㄨㄑㄧㄋㄛㄧ</rt></ruby> "wanting your husband, he will rule you"
+- <ruby>[[欲夫治汝]]<rt>⼄ㄎㄈㄜㄑㄧㄋㄛㄧ</rt></ruby> "wanting your husband, he will rule you"
 
 ## Derived Characters
 - <ruby>[[扶 (char)|扶]]<rt>ㄅㄨ</rt></ruby> "hold on to for support"

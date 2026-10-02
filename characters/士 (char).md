@@ -63,7 +63,7 @@ boundedness: 90
 - <ruby>[[紳士]]<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby> "gentleman"
 
 ## Chengyu
-- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄍ⺢ㄫ</rt></ruby> "exceptional gentleman"
+- <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"
 - <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"
 
 ## Derived Characters
