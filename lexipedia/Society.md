@@ -106,6 +106,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[乱漫](../words/乱漫.md)<rt>ㄌㄚㄋㄇㄚㄋ</rt></ruby>: natural, unaffected, unrestrained — childlike innocence and artlessness of character (天真乱漫), extended metaphorically from its literal sense of flowers blooming in vivid profusion.
 - <ruby>[忍耐](../words/忍耐.md)<rt>ㄋㄧㄋㄋㄚㄧ</rt></ruby>: patient, patience.
 - <ruby>[耐](../words/耐.md)<rt>ㄋㄚㄧ</rt></ruby>: able to tolerate, endure, resistant — the bound root behind [[忍耐]] above.
+- <ruby>[堪](../words/堪.md)<rt>ㄎㄚㄇ</rt></ruby>: to withstand, endure, be able to bear (不堪, "unbearable, incorrigible") — a near-synonym of [[耐]].
 - <ruby>[克](../words/克.md)<rt>ㄎㄨㄎ</rt></ruby>: to practice self-restraint, overcome (克己, "self-restraint"; 克服, "to overcome") — a second, unrelated sense ("gram," the metric unit) is housed on [Sophomore List](../lexipedia/Sophomore%20List.md) instead.
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.

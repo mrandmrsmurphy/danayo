@@ -74,6 +74,7 @@ language: English
 - temple - <ruby>[文廟](../words/文廟.md)<rt>ㄇㄨㄋㄇ⼘ㄨ</rt></ruby> (specifically Confucian; no generic "temple" word yet)
 - monastery - <ruby>[精舎](../words/精舎.md)<rt>ㄐㄝㄫㄙ⼘</rt></ruby>
 - shrine - <ruby>[龕](../words/龕.md)<rt>ㄎㄚㄇ</rt></ruby>
+- tower, pagoda - <ruby>[塔](../words/塔.md)<rt>ㄊㄚㄆ</rt></ruby> (a Buddhist stupa, or by extension any tower-shaped building)
 - cemetery - <ruby>[墓地](../words/墓地.md)<rt>ㄇㄛㄉㄧㄜ</rt></ruby> (same word as The City's own "cemetery" above)
 
 ### Recreational 
@@ -175,3 +176,4 @@ language: English
 - <ruby>[寓居](../words/寓居.md)<rt>ㄨㄍㄧ</rt></ruby>: lodging, a temporary dwelling.
 - <ruby>[磚石](../words/磚石.md)<rt>ㄐㄝㄋㄙㄝㄎ</rt></ruby>: bricks and stones, construction material.
 - <ruby>[畳](../words/畳.md)<rt>ㄉㄝㄆ</rt></ruby>: a tatami mat, folding mat — a genuine flooring/matting item Rosenfelder's own "carpet"/"mattress" entries don't cover (both "no clean consensus," above).
+- <ruby>[墊](../words/墊.md)<rt>ㄉㄧㄆ</rt></ruby>: a mat, pad, cushion — a general-purpose padding item, distinct from [[畳]]'s specific tatami/flooring sense.

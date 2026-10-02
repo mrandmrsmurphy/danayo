@@ -54,6 +54,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[加持](../words/加持.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: to bless, perform incantations — a Buddhist ritual empowerment.
 - <ruby>[福](../words/福.md)<rt>ㄈㄨㄎ</rt></ruby>: a blessing, good fortune — the noun, distinct from [[加持]]'s ritual verb.
 - <ruby>[儺](../words/儺.md)<rt>ㄋㄨㄛ</rt></ruby>: exorcism.
+- <ruby>[壇](../words/壇.md)<rt>ㄉㄚㄋ</rt></ruby>: an altar, raised platform — figuratively also "a field, circle of activity" (文壇, "literary circle"; 論壇, "forum").
 - <ruby>[忌諱](../words/忌諱.md)<rt>ㄍㄧㄏㄨㄧ</rt></ruby>: a taboo — a subject too sensitive to mention, the social/interpersonal register.
 - <ruby>[諱](../words/諱.md)<rt>ㄏㄨㄧ</rt></ruby>: to shun, avoid saying the name of — the bound root behind [[忌諱]] above, and the classical East Asian name-avoidance custom (避諱) of not writing or speaking an emperor's or ancestor's personal name.
 - <ruby>[禁忌](../words/禁忌.md)<rt>ㄍㄧㄇㄍㄧ</rt></ruby>: a taboo, forbidden thing — the religious/cultural register (also, in medicine, "contraindication"), distinct from [[忌諱]]'s social-etiquette sense.

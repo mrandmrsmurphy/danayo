@@ -75,6 +75,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to cultivate, grow — see [[Life]] for its own citation there.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: to plow, sow, cultivate.
+- <ruby>[壅](../words/壅.md)<rt>ㄛㄫ</rt></ruby>: to bank up with earth, mound soil around (a plant) — also, more generally, "to obstruct, block up" (壅塞, "congestion, blockage").
 - <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: a harvest, crop, yield — see [[Food]] for its own citation there.
 - <ruby>[採取](../words/採取.md)<rt>ㄑㄚㄧㄑㄛㄨ</rt></ruby>: to pick, harvest, collect — see [[Containers]] for its own citation there.
 

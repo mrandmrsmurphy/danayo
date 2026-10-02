@@ -68,6 +68,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[転化](../words/転化.md)<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby>: to change, convert — implies turning into something categorically different.
 - <ruby>[変成](../words/変成.md)<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby>: to change into, metamorphosize into.
 - <ruby>[化](../words/化.md)<rt>ㄏ⺢</rt></ruby>: "-ification" — a bound suffix attaching to a noun to mean "to become/turn into X" (as in 転化, 変化 themselves).
+- <ruby>[変](../words/変.md)<rt>ㄅ⼶ㄋ</rt></ruby>: to change, transform, alter — the bound root behind [[変化]]/[[変動]]/[[変成]] above.
 - <ruby>[交替](../words/交替.md)<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby>: alternation, to take turns, to swap.
 - <ruby>[代替](../words/代替.md)<rt>ㄉㄚㄧㄑㄝㄧ</rt></ruby> / <ruby>[代用](../words/代用.md)<rt>ㄉㄚㄧ⼄ㄫ</rt></ruby>: to replace, substitute — 代替 the general act, 代用 leaning toward "to use X as a substitute for Y."
 - <ruby>[置換](../words/置換.md)<rt>ㄑㄧㄏ⺢ㄇ</rt></ruby>: to permute, substitute, displace — a more technical/mathematical register than 代替 above.

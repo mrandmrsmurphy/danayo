@@ -128,6 +128,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[賛歌](../words/賛歌.md)<rt>ㄐㄚㄋㄍㄜ</rt></ruby>: hymn, song of praise.
 - <ruby>[楽譜](../words/楽譜.md)<rt>ㄌㄚㄎㄅㄛ</rt></ruby>: music score, manuscript.
 - <ruby>[鼓](../words/鼓.md)<rt>ㄍㄛ</rt></ruby>: drum; to play (an instrument).
+- <ruby>[壴](../words/壴.md)<rt>ㄊㄨㄛ</rt></ruby>: to drum — a revived archaic root (the shared ancestor behind 鼓/喜/嘉/彭/告/豈), reclaiming the verb sense its descendant 鼓 later specialized away from into a noun.
 - <ruby>[音叉](../words/音叉.md)<rt>ㄨㄇㄑㄚㄧ</rt></ruby>: a tuning fork.
 - <ruby>[喇叭](../words/喇叭.md)<rt>ㄌㄚㄅㄚㄊ</rt></ruby>: horn, trumpet.
 - <ruby>[洞簫](../words/洞簫.md)<rt>ㄉㄛㄫㄙㄛㄨ</rt></ruby>: the xiao, an end-blown bamboo flute.

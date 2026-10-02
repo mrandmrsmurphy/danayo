@@ -37,7 +37,8 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — a near-synonym of 理解 above; note its Japanese pragmatic narrowing to a stock "understood!, roger!" acknowledgment, distinct from the general Chinese/Dan'a'yo verb sense.
 - <ruby>[研究](../words/研究.md)<rt>ㄝㄋㄍ⼜</rt></ruby>: research.
 - <ruby>[大学](../words/大学.md)<rt>ㄉㄚㄧㄏㄚㄎ</rt></ruby>: university (the abbreviated, institutional-name form; contrast [[大学校]] below).
-- <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit; academic credit — the general "unit" sense belongs primarily to a future Measurement domain, but the academic-credit sense earned toward a [[学位]] sits squarely here.
+- <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit; academic credit — the general "unit" sense belongs primarily to [Measurement](../lexipedia/Measurement.md), but the academic-credit sense earned toward a [[学位]] sits squarely here.
+- <ruby>[域](../words/域.md)<rt>ㄨㄧㄎ</rt></ruby>: a domain, field, scope (領域, "field, domain [of study]") — a similar dual-domain word: its literal "territory, region" sense is geographic, reserved for [Geography](../lexipedia/Geography.md) (unmigrated), while this abstract "field of knowledge" sense sits here.
 
 ## Intermediate (B1–B2)
 
@@ -192,7 +193,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 **主義's `kwin` carries an open question, not fully resolved.** Comparing 主義's own concatenated Dan'a'yo reading (주읫) against its stored `korean` field (주의) shows a coda mismatch in the second syllable, marked `kwin: false` by the ordinary method — but 義's own character page stores the identical 읫/의 divergence while marking itself `kwin: true`. Reconciling that inconsistency belongs to a future character-level audit of 義, not to this page.
 
-**単位 is a genuine dual-domain word.** Its everyday, most frequent sense is "a unit of measurement" (meters, kilograms, yen) — that belongs primarily to a future Measurement domain page, not duplicated here. Only its secondary, Japanese/Korean-specific academic sense ("a unit of credit earned toward a degree") is native to Knowledge, placed here alongside [[学位]] specifically for that reason.
+**単位 is a genuine dual-domain word.** Its everyday, most frequent sense is "a unit of measurement" (meters, kilograms, yen) — that belongs primarily to [Measurement](../lexipedia/Measurement.md), not duplicated here. Only its secondary, Japanese/Korean-specific academic sense ("a unit of credit earned toward a degree") is native to Knowledge, placed here alongside [[学位]] specifically for that reason. [[域]] (above) is a similar case, split between an abstract "field of knowledge" sense (native here) and a literal "territory" sense (reserved for Geography).
 
 **経 is the bound root behind the Five Classics.** [[経]] itself covers "classic text," "channel" (経絡, a bodily meridian — [[Body]]'s domain, not duplicated here), and "warp" (the original loom-thread sense); the classic-text sense is what ties it to [[礼記]]/[[易経]]/[[書経]]/[[楽経]]/[[詩経]], already covered under [[Art]]'s own Language Arts section — cross-referenced rather than re-described here.
 

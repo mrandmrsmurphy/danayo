@@ -48,6 +48,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[荒廃](../words/荒廃.md)<rt>ㄏ⺢ㄫㄈㄝ</rt></ruby>: to fall into ruin, decay (of a place).
 - <ruby>[霊柩](../words/霊柩.md)<rt>ㄌㄝㄫㄍ⼜</rt></ruby>: a coffin.
 - <ruby>[死骸](../words/死骸.md)<rt>ㄙㄧㄜㄏ⼶</rt></ruby>: a corpse, dead body — matter-of-fact rather than euphemistic, the body as physical remains.
+- <ruby>[塚](../words/塚.md)<rt>ㄑㄛㄫ</rt></ruby>: a burial mound, grave, tumulus (古塚, "an ancient burial mound"; 貝塚, "a shell midden").
 
 **Not yet coined**: "funeral" and "mortal" have no dedicated Dan'a'yo word yet.
 
