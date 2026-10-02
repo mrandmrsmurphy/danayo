@@ -85,6 +85,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze, analysis.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
+- <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.
 - <ruby>[比較](../words/比較.md)<rt>ㄅㄧㄜㄍㄚㄎ</rt></ruby>: to compare.
 - <ruby>[勘](../words/勘.md)<rt>ㄎㄚㄇ</rt></ruby>: to investigate, examine, verify by comparison.
 - <ruby>[糾](../words/糾.md)<rt>ㄍ⼜ㄛ</rt></ruby>: to investigate (also "to twist").
@@ -124,6 +125,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[校門](../words/校門.md)<rt>ㄏ⼘ㄨㄇㄛㄋ</rt></ruby>: school gate.
 - <ruby>[母校](../words/母校.md)<rt>ㄇㄛㄨㄏ⼘ㄨ</rt></ruby>: alma mater.
 - <ruby>[課](../words/課.md)<rt>ㄎ⺢ㄇ</rt></ruby>: lesson, chapter.
+- <ruby>[教科書](../words/教科書.md)<rt>ㄍ⼄ㄨㄎ⺢ㄙ⼄</rt></ruby>: textbook, the book assigned for a school subject (narrower than [[教材]], teaching materials in general).
 - <ruby>[授業](../words/授業.md)<rt>ㄙ⼜ㄝㄆ</rt></ruby>: to teach, instruct, give a lesson.
 - <ruby>[予習](../words/予習.md)<rt>⼄ㄙㄜㄆ</rt></ruby>: to prepare for lessons ahead of time.
 - <ruby>[復習](../words/復習.md)<rt>ㄅㄨㄎㄙㄜㄆ</rt></ruby>: to revise, review lessons already covered.

@@ -74,6 +74,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - another <ruby>[他](../words/他.md)<rt>ㄊㄜ</rt></ruby>
 - other, distinct : <ruby>[別](../words/別.md)<rt>ㄅㄝㄊ</rt></ruby>
 - other than, except for, outside of (postposed to a noun phrase: 日本語以外, "languages other than Japanese") : <ruby>[以外](../words/以外.md)<rt>ㄧ⺢ㄧ</rt></ruby>
+- exception (a case that falls outside a rule; 例外規定, "exception rules") : <ruby>[例外](../words/例外.md)<rt>ㄌㄝ⺢ㄧ</rt></ruby>
 - either, neither: not yet coined.
 
 ### Pronoun
@@ -237,9 +238,11 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[字形](../words/字形.md)<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph, character shape, graphic form"
 - <ruby>[字源](../words/字源.md)<rt>ㄐㄧ⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
 - <ruby>[字庫](../words/字庫.md)<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library, character/glyph repository"
+- <ruby>[用字](../words/用字.md)<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use, character usage — which characters a text, name or country employs"
 - <ruby>[識字](../words/識字.md)<rt>ㄙㄧㄎㄐㄧ</rt></ruby> "literacy, know how to read"
 - <ruby>[拼音](../words/拼音.md)<rt>ㄅㄚㄫㄨㄇ</rt></ruby> "pinyin, phonetic spelling"
 - <ruby>[注音](../words/注音.md)<rt>ㄐㄨㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
+- <ruby>[音訓標](../words/音訓標.md)<rt>ㄨㄇㄏㄨㄋㄅ⼄</rt></ruby> "ruby, the phonetic line written above each character (a Dan'a'yo coinage; in 注音符号, set in 振り仮名 style)"
 - <ruby>[部首](../words/部首.md)<rt>ㄅㄛㄨㄙ⼜</rt></ruby> "radical"
 - <ruby>[表記](../words/表記.md)<rt>ㄅ⼘ㄨㄍㄧ</rt></ruby> "notation, orthography, written representation"
 - <ruby>[転写](../words/転写.md)<rt>ㄐ⼔ㄋㄙ⼘</rt></ruby> "transcription, transliteration — rendering a form from one script or sound system in another"
@@ -273,6 +276,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[子音](../words/子音.md)<rt>ㄐㄜㄨㄇ</rt></ruby> "consonant"
 - <ruby>[母音](../words/母音.md)<rt>ㄇㄛㄨㄨㄇ</rt></ruby> "vowel" — [[子音]]'s counterpart.
 - <ruby>[音節](../words/音節.md)<rt>ㄨㄇㄐㄝㄊ</rt></ruby> "syllable"
+- <ruby>[音源](../words/音源.md)<rt>ㄨㄇ⼔ㄋ</rt></ruby> "source reading — in 音源推定, the Middle Chinese reading from which a character's Dan'a'yo pronunciation is derived (elsewhere: sound source, audio source)"
 - <ruby>[清音](../words/清音.md)<rt>ㄑㄧㄫㄨㄇ</rt></ruby> "unvoiced sound"
 - <ruby>[濁音](../words/濁音.md)<rt>ㄉㄚㄎ·ㄨㄇ</rt></ruby> "voiced sound"
 - <ruby>[正音](../words/正音.md)<rt>ㄐㄧㄫㄨㄇ</rt></ruby> "correct pronunciation, standard pronunciation"

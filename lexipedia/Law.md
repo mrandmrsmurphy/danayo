@@ -72,6 +72,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 - <ruby>[治安](../words/治安.md)<rt>ㄑㄧㄚㄋ</rt></ruby>: public order, public security.
 - <ruby>[秩序](../words/秩序.md)<rt>ㄉㄧㄊㄙ⼄</rt></ruby>: law and order, regularity.
+- <ruby>[規範](../words/規範.md)<rt>ㄍㄨㄧㄈㄚㄇ</rt></ruby>: norm, standard — the general "should" that specific provisions ([[規定]]) spell out; the 文字規範 of the writing-system chapter.
 - <ruby>[違法](../words/違法.md)<rt>ㄨㄧㄈㄚㄆ</rt></ruby>: illegal.
 - <ruby>[制約](../words/制約.md)<rt>ㄐㄝㄧ⼘ㄎ</rt></ruby> / <ruby>[制限](../words/制限.md)<rt>ㄐㄝㄧㄏㄚㄋ</rt></ruby> / <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: restriction, constraint, limit — a near-synonym cluster alongside [[規定]] above.
 - <ruby>[不許](../words/不許.md)<rt>ㄅㄛㄊㄏ⼄</rt></ruby> / <ruby>[禁断](../words/禁断.md)<rt>ㄍㄧㄇㄉ⺢ㄋ</rt></ruby>: to forbid; absolutely forbidden, prohibition.

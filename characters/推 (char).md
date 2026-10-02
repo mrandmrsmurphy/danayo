@@ -56,3 +56,4 @@ boundedness: 100
 - <ruby>[[推]]<rt>ㄑㄨㄧ</rt></ruby> "push" (stand-in for 推)
 - <ruby>[[推測]]<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby> "surmise, speculate, conjecture"
 - <ruby>[[推薦]]<rt>ㄑㄨㄧㄐㄝㄋ</rt></ruby> "to recommend"
+- <ruby>[[推定]]<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby> "estimate, presume; reconstruct"

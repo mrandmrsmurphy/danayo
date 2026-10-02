@@ -77,5 +77,6 @@ boundedness: 90
 - <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph; character shape"
 - <ruby>[[字庫]]<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library; character repository"
 - <ruby>[[単字]]<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character; single-character word"
+- <ruby>[[用字]]<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use; character usage"
 [[Lookup/CC/initials/聲 從]]
 [[Lookup/CC/finals/韻 之]]
