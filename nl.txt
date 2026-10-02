@@ -1158,14 +1158,6 @@ words/洋鬼子.md
 words/洗礼.md
 words/洗車.md
 words/洲.md
-words/派生.md
-words/流域.md
-words/流暢.md
-words/流水.md
-words/浴室.md
-words/海上.md
-words/海狸.md
-words/海禁.md
 words/海粛.md
 words/海草.md
 words/海藻.md

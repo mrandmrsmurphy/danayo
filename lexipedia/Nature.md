@@ -53,6 +53,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[地](../words/地.md)<rt>ㄉㄧㄜ</rt></ruby>: land — the bound, classical form.
 - <ruby>[磐石](../words/磐石.md)<rt>ㄅㄚㄋㄙㄝㄎ</rt></ruby>: a boulder, bedrock.
 - <ruby>[沖積](../words/沖積.md)<rt>ㄑㄨㄫㄐㄝㄎ</rt></ruby>: alluvial — sediment deposited by flowing water.
+- <ruby>[浸食](../words/浸食.md)<rt>ㄑㄧㄇㄙㄧㄎ</rt></ruby>: to erode, corrode — the complementary process to [[沖積]]'s depositing.
 
 ### Weather Phenomena
 
@@ -90,6 +91,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: the earth, globe, world — see [[Astronomy]] for its own citation there; the planet specifically, distinct from [[世界]]'s human/social world.
 - <ruby>[万邦](../words/万邦.md)<rt>ㄇㄛㄋㄅㄚㄫ</rt></ruby>: the world, all the countries, myriad regions — the collective-political sense (all nations), a literary register distinct from [[世界]]'s everyday "world."
 - <ruby>[津波](../words/津波.md)<rt>ㄐㄧㄋㄅㄚ</rt></ruby>: a tsunami.
+- <ruby>[海粛](../words/海粛.md)<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby>: a tsunami — an undocumented near-duplicate of [[津波]], using a phonetic-substitute graph (粛 standing in for 嘯) for the real word 海嘯.
 
 ## Semantic Range Notes
 

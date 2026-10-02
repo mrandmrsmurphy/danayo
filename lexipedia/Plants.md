@@ -84,6 +84,9 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[秀](../words/秀.md)<rt>ㄙㄨㄛ</rt></ruby>: to bear fruit, blossom, shoot — originally of a rice plant coming into bloom; by extension "outstanding, excellent" (優秀), an unrelated figurative sense also excluded as a false match on [War](../lexipedia/War.md)'s own "shoot" (the weapon) gap.
 - <ruby>[苔](../words/苔.md)<rt>ㄊㄛㄧ</rt></ruby>: moss, lichen.
 - <ruby>[葛](../words/葛.md)<rt>ㄍ⼘ㄊ</rt></ruby>: kudzu — a specific climbing vine species.
+- <ruby>[海草](../words/海草.md)<rt>ㄏㄚㄧㄑㄚㄨ</rt></ruby>: seagrass.
+- <ruby>[海藻](../words/海藻.md)<rt>ㄏㄚㄧㄐㄛㄨ</rt></ruby>: seaweed — a genuine coincidence gives it the identical Japanese reading かいそう as [[海草]] above, despite the two being distinct plants with distinct characters.
+- <ruby>[淡麻](../words/淡麻.md)<rt>ㄉㄚㄇㄇㄚ</rt></ruby>: nettle.
 
 ## Advanced / Specialized (C1+)
 

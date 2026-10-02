@@ -128,6 +128,7 @@ language: English
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
 - roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)* — though the verb "to roof, to thatch" does exist: <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
+- bathroom - <ruby>[浴室](../words/浴室.md)<rt>⼄ㄎㄙㄧㄊ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>
 - railing, handrail - <ruby>[欄杆](../words/欄杆.md)<rt>ㄌㄚㄋㄍㄚㄋ</rt></ruby>
 - step - *(functionally the same word as "stair" above in CJKV — not a separate concept)*

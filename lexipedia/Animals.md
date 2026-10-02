@@ -115,6 +115,9 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
+- <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby>: dolphin — literally "sea pig."
+- <ruby>[海象](../words/海象.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: walrus — literally "sea elephant."
+- <ruby>[海馬](../words/海馬.md)<rt>ㄏㄚㄧㄇㄚ</rt></ruby>: seahorse.
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
 - <ruby>[鱏](../words/鱏.md)<rt>ㄏㄧㄇ</rt></ruby>: a ray, skate.
@@ -139,6 +142,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
 - <ruby>[狸](../words/狸.md)<rt>ㄌㄜ</rt></ruby>: a tanuki, raccoon dog — a real, distinct animal, not to be confused with [[狐狸]]'s compound "fox" sense above despite sharing the same character.
+- <ruby>[海狸](../words/海狸.md)<rt>ㄏㄚㄧㄌㄜ</rt></ruby>: a beaver — extending 狸's generic "small furry mammal" sense yet again, a third distinct animal sharing the character.
 - <ruby>[豹猫](../words/豹猫.md)<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby>: leopard cat (*Prionailurus bengalensis*).
 - <ruby>[貒](../words/貒.md)<rt>ㄊ⺢ㄋ</rt></ruby> / <ruby>[野猪](../words/野猪.md)<rt>⼘ㄐㄛ</rt></ruby>: wild boar — two independently attested synonyms.
 

@@ -107,6 +107,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[禁煙](../words/禁煙.md)<rt>ㄍㄧㄇ·ㄝㄋ</rt></ruby>: no smoking, tobacco prohibition.
 - <ruby>[禁酒](../words/禁酒.md)<rt>ㄍㄧㄇㄐㄨㄛ</rt></ruby>: prohibition of alcohol, temperance.
 - <ruby>[解禁](../words/解禁.md)<rt>ㄍ⼘ㄧㄍㄧㄇ</rt></ruby>: to lift a ban, rescind a prohibition.
+- <ruby>[海禁](../words/海禁.md)<rt>ㄏㄚㄧㄍㄧㄇ</rt></ruby>: maritime prohibition, sea ban — the Ming and Qing dynasty policy restricting maritime trade.
 - <ruby>[譲](../words/譲.md)<rt>ㄋ⼘ㄫ</rt></ruby>: to permit.
 - <ruby>[通行証](../words/通行証.md)<rt>ㄊㄛㄫㄏㄚㄫㄐㄧㄫ</rt></ruby>: a permit, pass.
 
