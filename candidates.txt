@@ -1,13 +1,3 @@
-words/海粛.md
-words/海草.md
-words/海藻.md
-words/海豚.md
-words/海象.md
-words/海金.md
-words/海防.md
-words/海馬.md
-words/浸食.md
-words/淡麻.md
 words/淫靡.md
 words/深奥.md
 words/深淵.md

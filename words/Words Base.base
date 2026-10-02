@@ -17,7 +17,7 @@ views:
       - file.mtime
     sort:
       - property: lexipedia
-        direction: ASC
+        direction: DESC
       - property: file.mtime
         direction: DESC
       - property: date-last-perfect
@@ -42,7 +42,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 62
-      note.羅馬字: 71
+      note.羅馬字: 106
       note.注音: 131
       note.lexipedia: 126
       note.english: 202
