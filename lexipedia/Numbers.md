@@ -77,6 +77,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
 - <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄜㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄜㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby>: the anti-forgery financial variant of [[五]] ("five") — originally "a file of five soldiers" (see [War](../lexipedia/War.md) for its own citation there), its extra strokes resist alteration the same way [[壱]]/[[貳]]/[[漆]]/[[玖]] guard [[一]]/[[二]]/[[七]]/[[九]].
+- <ruby>[捌](../words/捌.md)<rt>ㄆㄚㄊ</rt></ruby>: the anti-forgery financial variant of [[八]] ("eight"), completing the same guarded set — its own literal sense is "to break apart, disentangle" (and, of goods, "to sell well").
 
 ### Multiples, Fractions & Groups
 

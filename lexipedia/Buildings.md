@@ -124,6 +124,7 @@ language: English
 - cell - [[監房]] *(reserved — "guard-room," identical in Mandarin and Korean 감방; Japanese uses a differently-structured 独房 (dokubō, "solitary-room") instead. Not yet a word page.)*
 - chamber - *(no clean consensus — too context-dependent across uses)*
 - door - <ruby>[門戸](../words/門戸.md)<rt>ㄇㄛㄋㄏㄛ</rt></ruby>
+- front door, door leaf, cover - <ruby>[扉](../words/扉.md)<rt>ㄈㄨㄧ</rt></ruby>
 - entrance - <ruby>[入口](../words/入口.md)<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> (literally "the mouth one enters through")
 - floor (building level, e.g. "2nd floor") - <ruby>[層](../words/層.md)<rt>ㄑㄜㄫ</rt></ruby> (高層, "high-rise") — the Mandarin/Korean majority term; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense, avoided here to prevent collision.
 - hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*

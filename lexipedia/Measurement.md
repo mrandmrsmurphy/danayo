@@ -19,6 +19,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[数字](../words/数字.md)<rt>ㄙㄨㄐㄧ</rt></ruby>: a numeral, digit, number.
 - <ruby>[算](../words/算.md)<rt>ㄙ⺢ㄋ</rt></ruby>: to calculate.
 - <ruby>[正確](../words/正確.md)<rt>ㄐㄧㄫㄎㄚㄎ</rt></ruby>: accurate, correct.
+- <ruby>[恰](../words/恰.md)<rt>ㄎㄚㄆ</rt></ruby>: exactly, just, precisely (恰好, "just right").
 - <ruby>[寸](../words/寸.md)<rt>ㄑㄛㄋ</rt></ruby>: an inch.
 
 ## Intermediate (B1–B2)

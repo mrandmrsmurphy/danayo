@@ -152,6 +152,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 - <ruby>[呈](../words/呈.md)<rt>ㄉㄧㄫ</rt></ruby> / <ruby>[表現](../words/表現.md)<rt>ㄅ⼘ㄨㄏ⼶ㄋ</rt></ruby> / <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to display, show, express, indicate — 表現 leans toward expressing an inner state outwardly, 表示 toward indicating a fact or signal, 呈 a terser literary register of both.
 - <ruby>[展示](../words/展示.md)<rt>ㄐㄝㄋㄍㄝ</rt></ruby> / <ruby>[展覧](../words/展覧.md)<rt>ㄐㄝㄋㄌㄚㄇ</rt></ruby> / <ruby>[陳列](../words/陳列.md)<rt>ㄐㄧㄋㄌㄝㄊ</rt></ruby>: to display, exhibit — the exhibition/museum register (陳列 leaning toward "to lay out on display").
 - <ruby>[披露](../words/披露.md)<rt>ㄆㄨㄧㄌㄛ</rt></ruby> / <ruby>[開示](../words/開示.md)<rt>ㄎㄚㄧㄍㄝ</rt></ruby> / <ruby>[顕示](../words/顕示.md)<rt>ㄏㄝㄋㄍㄝ</rt></ruby>: to announce, reveal, disclose — the "make known what was hidden" register, distinct from simply exhibiting something already visible.
+- <ruby>[披](../words/披.md)<rt>ㄆㄨㄧ</rt></ruby>: to expose, uncover, reveal — the bound root behind [[披露]] above.
 - <ruby>[誇示](../words/誇示.md)<rt>ㄎ⺢ㄍㄝ</rt></ruby>: to show off, flaunt — the one word in this cluster with a real, distinct pejorative register.
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to state, declare — leans toward a formal statement or deposition, bordering [[Law]]'s own testimony vocabulary.
 - <ruby>[礼物](../words/礼物.md)<rt>ㄌㄝㄧㄇㄨㄊ</rt></ruby>: a present, gift (noun, formal register).

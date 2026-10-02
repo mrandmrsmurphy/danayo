@@ -40,6 +40,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[生存](../words/生存.md)<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby>: to survive.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
+- <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
 
 ### Decay & Death
 

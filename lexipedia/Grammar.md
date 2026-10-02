@@ -164,6 +164,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[夫](../words/夫.md)<rt>ㄈㄜ</rt></ruby> "right?, indeed! (classical sentence-final exclamatory/rhetorical confirmation particle, from the Analects: 逝者如斯夫, 'it passes on like this!')"
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
+- <ruby>[所](../words/所.md)<rt>ㄙㄜ</rt></ruby> "-ee (nominalizer particle): precedes a verb to form a noun phrase naming the object/receiver of the action, 所+有='所有' ('that which is had,' possessions)"
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
 - <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
 - <ruby>[也](../words/也.md)<rt>⼘</rt></ruby> "as for; EMPHASIS (topic marker / assertive sentence-final particle, classical register)"

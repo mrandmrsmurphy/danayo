@@ -61,6 +61,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 - <ruby>[証明](../words/証明.md)<rt>ㄐㄧㄫㄇ⼶ㄫ</rt></ruby>: to prove, to confirm.
 - <ruby>[証拠](../words/証拠.md)<rt>ㄐㄧㄫㄍ⼄</rt></ruby>: evidence, proof.
+- <ruby>[憑](../words/憑.md)<rt>ㄅㄧㄫ</rt></ruby>: to rely on, be based on; evidence, a credential (憑証, "voucher, receipt") — a near-synonym of [[証拠]], from the image of leaning on something for support.
 - <ruby>[根拠](../words/根拠.md)<rt>ㄍㄜㄋㄍ⼄</rt></ruby>: grounds, basis — to be according to, to be based on.
 - <ruby>[道理](../words/道理.md)<rt>ㄉㄚㄨㄌㄧ</rt></ruby>: logic, method, way, principle.
 - <ruby>[方法](../words/方法.md)<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>: method, way, manner — a near-synonym of 道理 above.

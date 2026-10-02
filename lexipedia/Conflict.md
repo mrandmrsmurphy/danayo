@@ -73,6 +73,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[占領](../words/占領.md)<rt>ㄐㄝㄇㄌㄧㄫ</rt></ruby>: to capture, occupy, seize, hold.
 - <ruby>[奪取](../words/奪取.md)<rt>ㄉ⺢ㄊㄑㄛㄨ</rt></ruby>: to snatch, seize.
 - <ruby>[拿捕](../words/拿捕.md)<rt>ㄋㄚㄅㄛ</rt></ruby>: to take, grasp, seize, capture.
+- <ruby>[捕](../words/捕.md)<rt>ㄅㄛ</rt></ruby>: to catch, grab — the bound root behind [[拿捕]] above (also 逮捕, "to arrest").
 - <ruby>[監禁](../words/監禁.md)<rt>ㄍㄚㄇㄍㄧㄇ</rt></ruby>: to imprison, incarcerate; imprisonment.
 - <ruby>[禁錮](../words/禁錮.md)<rt>ㄍㄧㄇㄍㄛ</rt></ruby>: to imprison.
 - <ruby>[俘虜](../words/俘虜.md)<rt>ㄈㄨㄌㄛ</rt></ruby>: a prisoner of war, captive.

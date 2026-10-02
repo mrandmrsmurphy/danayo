@@ -1,13 +1,3 @@
-words/徳.md
-words/心.md
-words/必.md
-words/恰.md
-words/患.md
-words/惜.md
-words/憑.md
-words/所.md
-words/扉.md
-words/扱.md
 words/投.md
 words/披.md
 words/拂.md
