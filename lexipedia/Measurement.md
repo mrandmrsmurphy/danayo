@@ -35,6 +35,8 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[浬](../words/浬.md)<rt>ㄌㄧ</rt></ruby>: a nautical mile; a knot (as a unit of speed) — a modern coinage pairing the water radical with [[里]], distinct from both it and [[英里]].
 - <ruby>[丈](../words/丈.md)<rt>ㄑㄚㄫ</rt></ruby>: a zhang — a traditional East Asian unit of length, ten chi (尺) at about 3.3m, surviving mainly in historical/literary contexts today.
 - <ruby>[公噸](../words/公噸.md)<rt>ㄍㄛㄫㄊㄛㄋ</rt></ruby>: a tonne, metric ton.
+- <ruby>[噸](../words/噸.md)<rt>ㄊㄛㄋ</rt></ruby>: a ton — the bound root behind [[公噸]] above, a deliberate phonetic coinage matching Western "ton."
+- <ruby>[坪](../words/坪.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a tsubo/pyeong — a traditional East Asian area unit (36 square shaku, roughly 3.3 square meters), still in active real-estate use in Japan and Korea.
 - <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, tally.
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code — an assigned, identifying number (serial number, ID), distinct from [[数字]]'s abstract numeral.
 - <ruby>[総数](../words/総数.md)<rt>ㄐㄛㄫㄙㄨ</rt></ruby>: a total, grand total.
@@ -89,6 +91,7 @@ These are simultaneously literal units of measurement and, grammatically, measur
 ## Advanced / Specialized (C1+)
 
 - <ruby>[精度](../words/精度.md)<rt>ㄐㄝㄫㄉㄛ</rt></ruby>: precision, degree of refinement.
+- <ruby>[均](../words/均.md)<rt>ㄍ⼜ㄋ</rt></ruby>: equal, even, uniform — the bound root behind 均衡 ("balance, equilibrium") and 平均 ("average, mean"), neither of which has its own word page yet.
 - <ruby>[誤差](../words/誤差.md)<rt>ㄛㄑㄚ</rt></ruby>: error, discrepancy — the margin between a measurement and the true value.
 - <ruby>[基準](../words/基準.md)<rt>ㄍㄧㄐㄨㄋ</rt></ruby>: a standard, criterion, baseline — what a measurement is taken against.
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit (of measurement) — see [[Knowledge]] and [[Society]] for this same word's separate "academic credit" citation.

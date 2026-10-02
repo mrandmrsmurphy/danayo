@@ -22,7 +22,9 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[硬](../words/硬.md)<rt>ㄚㄫ</rt></ruby>: hard, firm.
 - <ruby>[正方形](../words/正方形.md)<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby>: a square — literally "correct/regular square-direction shape," the geometric quadrilateral. [[広場]], which also glosses "square," means a town square or plaza instead, an unrelated architectural/spatial sense.
 
-**Not yet coined**: a generic "hole" has no dedicated word — only species-specific compounds exist ([[巣穴]] "den, burrow"; [[洞穴]] "cave, cavern"), both too specific to serve as the plain noun.
+- <ruby>[坑](../words/坑.md)<rt>ㄎㄚㄫ</rt></ruby>: a pit, hole, hollow — a depression in the ground, whether natural or dug; broader than [[巣穴]]/[[洞穴]] (both housed on [Nature](../lexipedia/Nature.md)) but still tied to "in the ground," not a fully generic "hole."
+
+**Not yet coined**: a fully generic "hole" (independent of surface or context) still has no dedicated word — [[坑]] (above) and the species-specific [[巣穴]] "den, burrow"/[[洞穴]] "cave, cavern" (on [Nature](../lexipedia/Nature.md)) all narrow to a particular kind of hollow rather than serving as the plain noun.
 
 ## Intermediate (B1–B2)
 
@@ -135,6 +137,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ## Advanced / Specialized (C1+)
 
 - <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: to form, assemble, combine — excluded from general "form" citation above since its dominant sense is "union, association" (already housed on [Work](../lexipedia/Work.md)); listed here only to document why it was not cited as a plain "form" match.
+- <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: to join, fit together, combine — the general verb and the bound root behind [[組合]] above, [[合金]] (on [Metals](../lexipedia/Metals.md)), and 結合/合成 (both still uncited).
 
 ## Semantic Range Notes
 

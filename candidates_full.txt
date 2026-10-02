@@ -1,13 +1,3 @@
-words/各.md
-words/合.md
-words/吉.md
-words/呆.md
-words/品.md
-words/哉.md
-words/唄.md
-words/唉.md
-words/唳.md
-words/唵.md
 words/啄.md
 words/喋.md
 words/喝.md

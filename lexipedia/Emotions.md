@@ -50,6 +50,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[痛哭](../words/痛哭.md)<rt>ㄊㄛㄫㄎㄛㄎ</rt></ruby>: to wail, cry bitterly, weep aloud.
 - <ruby>[懐愁](../words/懐愁.md)<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby>: wistful longing, nostalgic grief.
 - <ruby>[弔](../words/弔.md)<rt>ㄐㄝㄎ</rt></ruby>, <ruby>[悼](../words/悼.md)<rt>ㄉㄚㄨ</rt></ruby>: to condole, mourn, lament.
+- <ruby>[唉](../words/唉.md)<rt>ㄚㄧ</rt></ruby>: alas — an archaic interjection of lament.
 
 ### Anger
 

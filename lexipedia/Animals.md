@@ -27,6 +27,8 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[老鼠](../words/老鼠.md)<rt>ㄌㄚㄨㄙ⼄</rt></ruby>: rat, mouse (generic).
 - <ruby>[鳥類](../words/鳥類.md)<rt>ㄑㄛㄨㄌㄨㄧ</rt></ruby>: bird, as a taxonomic class.
 - <ruby>[鳥](../words/鳥.md)<rt>ㄑㄛㄨ</rt></ruby>: bird (the plain, individual noun — contrast [[鳥類]] above, the class).
+- <ruby>[唳](../words/唳.md)<rt>ㄌ⼶</rt></ruby>: a bird's cry — almost always a crane's (鶴唳); survives mainly in the idiom 風聲鶴唳, "a state of extreme, self-generated paranoia."
+- <ruby>[啄](../words/啄.md)<rt>ㄊㄛㄎ</rt></ruby>: to peck at (啄木鳥, "woodpecker," literally "wood-pecking bird").
 - <ruby>[魚類](../words/魚類.md)<rt>⼄ㄌㄨㄧ</rt></ruby>: fish, as a taxonomic class.
 - <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [[魚類]] above, the class).
 - <ruby>[鮎](../words/鮎.md)<rt>ㄋㄝㄇ</rt></ruby>: a catfish, sheatfish in its original Chinese sense — Japanese uniquely reinterprets the same character for あゆ (ayu, "sweetfish"), an entirely different fish.

@@ -113,6 +113,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[語気](../words/語気.md)<rt>⼄·ㄎㄧㄜ</rt></ruby>: tone, mode, connotation, mood — the manner-of-speaking sense.
 - <ruby>[訥](../words/訥.md)<rt>ㄋㄛㄊ</rt></ruby>: to mumble, stammer — halting, inarticulate speech (訥弁; 剛毅木訥, "firm, resolute, simple, and inarticulate," from the Analects), distinct from the still-uncoined "mutter," below.
 - <ruby>[流暢](../words/流暢.md)<rt>ㄌ⼜ㄑㄚㄫ</rt></ruby>: fluent, flowing — [[訥]]'s opposite pole.
+- <ruby>[喋](../words/喋.md)<rt>ㄉㄝㄆ</rt></ruby>: to chatter, babble on (喋喋不休, "to chatter on endlessly").
 
 **Excluded as a false match**: "tone" also loosely matches [[声調]], but that word means linguistic tone (the pitch contour of a tonal language), already housed on [Grammar](../lexipedia/Grammar.md) — a different homograph from the speaking-manner sense cited here.
 
@@ -127,6 +128,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[呼喚](../words/呼喚.md)<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby>: to shout, cry to — the general verb.
 - <ruby>[叫](../words/叫.md)<rt>ㄍ⼘</rt></ruby>: to shout — an undocumented near-duplicate of [[呼喚]].
 - <ruby>[喊声](../words/喊声.md)<rt>ㄏㄚㄇㄙㄧㄫ</rt></ruby>: a shout, battle cry, war cry — a specialized military register, more noun than [[呼喚]]'s verb.
+- <ruby>[喝](../words/喝.md)<rt>ㄏㄛㄊ</rt></ruby>: to yell, shout — also a cheer of acclaim (喝彩, "to cheer, applaud").
 - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle. See [Body](../lexipedia/Body.md) for its own citation there.
 
 **Excluded as a false match**: "cry" also loosely matches [[鳴]], but that word means to cry or chirp, specifically of birds and animals, not a human crying tears — not cited here.

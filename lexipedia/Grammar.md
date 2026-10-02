@@ -125,7 +125,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[奪格](../words/奪格.md)<rt>ㄉ⺢ㄊㄍㄚㄎ</rt></ruby> "ablative case"
 - <ruby>[終止格](../words/終止格.md)<rt>ㄐㄨㄫㄐㄧㄍㄚㄎ</rt></ruby> "terminative case"
 - <ruby>[類似格](../words/類似格.md)<rt>ㄌㄨㄧㄙㄚㄍㄚㄎ</rt></ruby> "similative case"
-- <ruby>[呼格](../words/呼格.md)<rt>ㄏㄛㄍㄚㄎ</rt></ruby> "vocative case"
+- <ruby>[呼格](../words/呼格.md)<rt>ㄏㄛㄍㄚㄎ</rt></ruby> "vocative case" — the abstract case name; [[哉]], below, is the actual particle marking direct address.
 - <ruby>[向格](../words/向格.md)<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
 - <ruby>[処格](../words/処格.md)<rt>ㄑㄛㄍㄚㄎ</rt></ruby> "locative case"
 - <ruby>[様態格](../words/様態格.md)<rt>⼘ㄫㄊㄚㄧㄍㄚㄎ</rt></ruby> "manner case, adverbial case"
@@ -156,6 +156,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby> "but, however, yet, only"
 - <ruby>[耶](../words/耶.md)<rt>⼶</rt></ruby> "questioning particle, yeah (interjection)"
 - <ruby>[哇](../words/哇.md)<rt>⺢ㄨ</rt></ruby> "wow (interjection)"
+- <ruby>[哉](../words/哉.md)<rt>ㄐㄚㄧ</rt></ruby> "O (vocative case particle, 呼格, marking direct address: 善哉, 'Excellent!'; also an exclamatory sentence-final particle)"
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"

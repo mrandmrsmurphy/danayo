@@ -207,6 +207,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[伸展](../words/伸展.md)<rt>ㄙㄧㄋㄐㄝㄋ</rt></ruby>: to expand, unfold, stretch — see [[Dimensions]] for its own citation there.
 - <ruby>[伸長](../words/伸長.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: to extend, stretch — see [[Dimensions]] for its own citation there; an undocumented near-duplicate of [[伸展]].
 - <ruby>[回転](../words/回転.md)<rt>ㄏㄛㄧㄐ⼔ㄋ</rt></ruby>: to turn, spin, rotate, revolve.
+- <ruby>[回](../words/回.md)<rt>ㄏㄛㄧ</rt></ruby>: to turn, revolve, return — the bound root behind [[回転]] and [[回帰]] above; also serves as a measure word for repeated occurrences (see [[Numbers]]).
 - <ruby>[旋転](../words/旋転.md)<rt>ㄙ⼔ㄋㄐ⼔ㄋ</rt></ruby>: to revolve, rotate, turn — an undocumented near-duplicate of [[回転]].
 - <ruby>[捻](../words/捻.md)<rt>ㄋㄝㄆ</rt></ruby>: to twist.
 - <ruby>[糾](../words/糾.md)<rt>ㄍ⼜ㄛ</rt></ruby>: to twist, investigate — see [[Knowledge]] for its own citation there; figurative "twisting" (untangling a case), not physical twisting like [[捻]].

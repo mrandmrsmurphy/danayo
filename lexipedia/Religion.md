@@ -48,6 +48,8 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[巫術](../words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: shamanism, magic, sorcery, witchcraft — the folk-shamanic register.
 - <ruby>[法術](../words/法術.md)<rt>ㄈㄚㄆㄙㄨㄊ</rt></ruby>: magic, magic arts — the Daoist ritual register, distinct from [[巫術]]'s shamanic one.
 - <ruby>[呪文](../words/呪文.md)<rt>ㄐㄨㄛㄇㄨㄋ</rt></ruby>: an incantation, spell — the recited or written formula itself.
+- <ruby>[唵](../words/唵.md)<rt>ㄛㄇ</rt></ruby>: Om, Aum (ॐ) — the sacred Sanskrit syllable opening most Buddhist and Hindu mantras (唵嘛呢叭咪吽, "Om mani padme hum").
+- <ruby>[唄](../words/唄.md)<rt>ㄅㄚㄧ</rt></ruby>: a Buddhist chant, hymn — survives only bound in 梵唄 ("voice of Brahmā"), never as an independent word.
 - <ruby>[呪詛](../words/呪詛.md)<rt>ㄐㄨㄛㄐㄛ</rt></ruby>: a curse, spell — the malediction calling misfortune upon someone, distinct from [[呪文]]'s neutral formula.
 - <ruby>[加持](../words/加持.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: to bless, perform incantations — a Buddhist ritual empowerment.
 - <ruby>[福](../words/福.md)<rt>ㄈㄨㄎ</rt></ruby>: a blessing, good fortune — the noun, distinct from [[加持]]'s ritual verb.

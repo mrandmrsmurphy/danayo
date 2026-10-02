@@ -47,6 +47,7 @@ language: English
 ### Government 
 - palace - <ruby>[宮廷](../words/宮廷.md)<rt>ㄍㄨㄫㄉㄝㄫ</rt></ruby>
 - castle - <ruby>[城郭](../words/城郭.md)<rt>ㄙㄧㄫㄍ⺢ㄎ</rt></ruby> — <ruby>[郭](../words/郭.md)<rt>ㄍ⺢ㄎ</rt></ruby> is the bound root, "the outermost part" (an outer city wall/enclosure).
+- low wall, rampart - <ruby>[垣](../words/垣.md)<rt>ㄛㄋ</rt></ruby> (城垣, "city wall"; by extension 省垣, "provincial capital") — a near-synonym of [[郭]], distinguished by height ("low") rather than outermost position.
 - office - <ruby>[官庁](../words/官庁.md)<rt>ㄍ⺢ㄋㄑㄝㄫ</rt></ruby>
 - prison - <ruby>[監獄](../words/監獄.md)<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby> (same word as the Buildings section's own "prison" above)
 - ministry - <ruby>[省](../words/省.md)<rt>ㄙ⼶ㄫ</rt></ruby>
