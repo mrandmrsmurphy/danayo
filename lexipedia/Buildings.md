@@ -122,12 +122,14 @@ language: English
 - cell - [[監房]] *(reserved — "guard-room," identical in Mandarin and Korean 감방; Japanese uses a differently-structured 独房 (dokubō, "solitary-room") instead. Not yet a word page.)*
 - chamber - *(no clean consensus — too context-dependent across uses)*
 - door - <ruby>[門戸](../words/門戸.md)<rt>ㄇㄛㄋㄏㄛ</rt></ruby>
+- entrance - <ruby>[入口](../words/入口.md)<rt>ㄋㄧㄆㄎㄛㄨ</rt></ruby> (literally "the mouth one enters through")
 - floor (building level, e.g. "2nd floor") - [[層]] *(reserved — the Mandarin/Korean majority term 層/층; Japanese instead uses 階, already loaded with this vault's own taxonomic-rank sense — avoided here to prevent collision. Not yet a word page.)*
 - hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
 - roof - *(no clean consensus — Mandarin 屋頂 and Japanese 屋根 share only 屋 "house"; Korean uses native 지붕)* — though the verb "to roof, to thatch" does exist: <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>
+- railing, handrail - <ruby>[欄杆](../words/欄杆.md)<rt>ㄌㄚㄋㄍㄚㄋ</rt></ruby>
 - step - *(functionally the same word as "stair" above in CJKV — not a separate concept)*
 - wall - <ruby>[壁](../words/壁.md)<rt>ㄅㄝㄎ</rt></ruby>
 - window - <ruby>[窓口](../words/窓口.md)<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby>

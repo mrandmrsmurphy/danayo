@@ -81,6 +81,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[平坦](../words/平坦.md)<rt>ㄅ⼶ㄫㄊㄚㄋ</rt></ruby>: smooth, flat.
 - <ruby>[潤](../words/潤.md)<rt>ㄋㄨㄋ</rt></ruby>: smooth — a moist/glossy smoothness, distinct from [[平坦]]'s flatness.
 - <ruby>[窪地](../words/窪地.md)<rt>⺢ㄉㄧㄜ</rt></ruby>: a hollow — a depression in the land.
+- <ruby>[凹凸](../words/凹凸.md)<rt>ㄚㄨㄉㄛㄊ</rt></ruby>: bumpy, uneven, rugged — a surface combining both [[凹]] (concave) and [[凸]] (convex) features.
 
 **Not yet coined**: "bare" and "loose" both have no dedicated Dan'a'yo word yet.
 

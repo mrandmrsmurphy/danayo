@@ -71,6 +71,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 ### Investigation & Analysis
 
 - <ruby>[調査](../words/調査.md)<rt>ㄐㄨㄛㄐㄚ</rt></ruby>: to look into, to investigate.
+- <ruby>[参照](../words/参照.md)<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby>: to refer to, cross-reference — a directed comparison against a specific source, distinct from general consultation (上記参照, "see above").
 - <ruby>[検査](../words/検査.md)<rt>ㄍㄝㄇㄐㄚ</rt></ruby>: to inspect, examine, check.
 - <ruby>[試験](../words/試験.md)<rt>ㄙㄧㄝㄇ</rt></ruby>: test, examine.
 - <ruby>[験](../words/験.md)<rt>ㄝㄇ</rt></ruby>: to check, examine — the bound root behind [[試験]] above (also 経験, "experience").
@@ -172,6 +173,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 ### Miscellaneous Abstract & Technical
 
 - <ruby>[大綱](../words/大綱.md)<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby>: an outline, general framework, main points.
+- <ruby>[先進](../words/先進.md)<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby>: advanced (先進国, "a developed/advanced country"; 先進技術, "advanced technology").
 - <ruby>[踪影](../words/踪影.md)<rt>ㄐㄛㄫ⼶ㄫ</rt></ruby>: a trace, sign.
 - <ruby>[互連網](../words/互連網.md)<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby>: the internet.
 - <ruby>[事典](../words/事典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>: an encyclopedia.

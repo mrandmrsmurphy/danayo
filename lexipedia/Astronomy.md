@@ -36,11 +36,13 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[九天](../words/九天.md)<rt>ㄎ⼜·ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
 - <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
 - <ruby>[乾](../words/乾.md)<rt>ㄍ⼶ㄋ</rt></ruby>: the Heaven trigram (乾卦) itself, pure yang — also "dry," a unified Dan'a'yo sense distinct from the unrelated [[干]]/[[幹]].
+- <ruby>[八卦](../words/八卦.md)<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby>: the bagua, the eight trigrams — the full set of eight symbols used in Daoist cosmology and the I Ching, of which [[乾]] is one.
 - <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
 - <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
 - <ruby>[無極](../words/無極.md)<rt>ㄇㄜㄍㄧㄎ</rt></ruby>: limitless, without ultimate — in Daoist cosmology, the primordial undifferentiated state that precedes even 太極, pure potentiality before any polarity arises.
 - <ruby>[太極](../words/太極.md)<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby>: the Supreme Ultimate — in Daoist and Neo-Confucian cosmology, the primordial unity from which yin and yang first differentiate.
 - <ruby>[太素](../words/太素.md)<rt>ㄊㄚㄧㄙㄛ</rt></ruby>: the Great Plainness — the fourth and final primordial stage in the *Liezi* cosmogony, the beginning of substance/matter (質).
+- <ruby>[八紘](../words/八紘.md)<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby>: the Eight Cords — a classical cosmological term for the outermost bounds of the world, the eight great cords thought to bind the corners/directions of the cosmos.
 - <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
 - <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
 - <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ·⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.

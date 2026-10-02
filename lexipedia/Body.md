@@ -27,6 +27,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[舌](../words/舌.md)<rt>ㄙㄝㄊ</rt></ruby>: tongue.
 - <ruby>[心臓](../words/心臓.md)<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby>: heart.
 - <ruby>[血](../words/血.md)<rt>ㄏ⼔ㄊ</rt></ruby>, <ruby>[血液](../words/血液.md)<rt>ㄏ⼔ㄊ⼶ㄎ</rt></ruby>: blood.
+- <ruby>[出血](../words/出血.md)<rt>ㄑㄨㄊㄏ⼔ㄊ</rt></ruby>: to bleed, hemorrhage (出血性, "hemorrhagic").
 - <ruby>[骨](../words/骨.md)<rt>ㄍㄛㄊ</rt></ruby>: bone.
 - <ruby>[皮膚](../words/皮膚.md)<rt>ㄅㄧㄈㄜ</rt></ruby>, <ruby>[肌膚](../words/肌膚.md)<rt>ㄍㄧㄜㄈㄜ</rt></ruby>: skin.
 
@@ -129,6 +130,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ### Internal Organs & Fluids
 
 - <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
+- <ruby>[六府](../words/六府.md)<rt>ㄌㄨㄎㄈㄨ</rt></ruby>: the Six Hollow Organs — [[五臓]]'s own complementary yang organs (stomach, small/large intestine, gallbladder, bladder, and the triple burner).
 - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
 - <ruby>[肪](../words/肪.md)<rt>ㄈㄚㄫ</rt></ruby>: fat, obese — the bound root behind [[脂肪]] above, an undocumented near-duplicate of [[肥胖]] in its own "obese" sense.

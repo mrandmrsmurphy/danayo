@@ -37,6 +37,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[矢](../words/矢.md)<rt>ㄙㄧㄜ</rt></ruby>: an arrow.
 - <ruby>[筈](../words/筈.md)<rt>ㄍ⺢ㄊ</rt></ruby>: a nock — the notched end of an arrow where the bowstring rests.
 - <ruby>[弓](../words/弓.md)<rt>ㄍㄨㄫ</rt></ruby>: a bow.
+- <ruby>[六芸](../words/六芸.md)<rt>ㄌㄨㄎ·ㄝ</rt></ruby>: the Six Arts — the core Zhou-dynasty curriculum of a nobleman's education (Rites, Music, Archery, Charioteering, Calligraphy, Mathematics), the umbrella concept behind [[五射]]/[[五馭]] below and [[五礼]] on [[Society]].
 - <ruby>[五射](../words/五射.md)<rt>ㄛㄙ⼘</rt></ruby>: the Five Archery Techniques — the third of the Zhou-dynasty Six Arts (六芸, alongside [[五礼]], [[六楽]], [[五馭]], [[六書]], [[九数]]), where ceremonial archery doubled as etiquette and moral cultivation, not pure marksmanship.
 - <ruby>[五馭](../words/五馭.md)<rt>ㄛ⼄</rt></ruby>: the Five Charioteering Techniques — the fourth of the Six Arts, war-chariot driving as bearing and self-control as much as practical skill, paired with [[五射]] in the curriculum.
 - <ruby>[槍](../words/槍.md)<rt>ㄑ⺢ㄫ</rt></ruby>: a spear, lance. See [Conflict](../lexipedia/Conflict.md) for its own citation there.

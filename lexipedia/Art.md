@@ -80,6 +80,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文献](../words/文献.md)<rt>ㄇㄨㄋㄏㄝㄋ</rt></ruby>: literature (scholarly/historical documents, references). See Semantic Range Notes.
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
+- <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
 - <ruby>[載](../words/載.md)<rt>ㄐㄚㄧ</rt></ruby>: to record — the bound root behind [[記載]] above (also 転載, "to reprint"); in a separate, unrelated sense, also "to carry, transport" (physical cargo, 搭載).
 - <ruby>[擱筆](../words/擱筆.md)<rt>ㄍㄚㄎㄆㄨㄊ</rt></ruby>: to lay down the pen, stop writing.
@@ -99,6 +100,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Visual Arts
 
 - <ruby>[偶像](../words/偶像.md)<rt>ㄛㄨㄙ⼘ㄫ</rt></ruby>: idol, statue.
+- <ruby>[写真](../words/写真.md)<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby>: a photograph.
 - <ruby>[塑像](../words/塑像.md)<rt>ㄙㄛㄙ⼘ㄫ</rt></ruby>: molded statue.
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.

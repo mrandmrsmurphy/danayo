@@ -55,6 +55,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
+- <ruby>[利率](../words/利率.md)<rt>ㄌㄧㄜㄌㄨㄊ</rt></ruby>: an interest rate — resolves this page's own previously-flagged "interest" gap.
 - <ruby>[保証](../words/保証.md)<rt>ㄅㄚㄨㄐㄧㄫ</rt></ruby>: to ensure, attest, stipulate, guarantee (保証人, "a guarantor").
 - <ruby>[保険](../words/保険.md)<rt>ㄅㄚㄨㄏㄝㄇ</rt></ruby>: insurance, to insure.
 
@@ -108,13 +109,13 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[利潤](../words/利潤.md)<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>: profit.
 - <ruby>[負債](../words/負債.md)<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>: a liability, debt. See [Law](../lexipedia/Law.md) for its own citation there.
 
-**Not yet coined or excluded as false matches**: "interest" (on a loan) has no dedicated word — [[趣味]], which also glosses "interest," means a hobby or aesthetic taste, not financial interest. "Partner" (business) has no dedicated word — [[伴侶]] and [[愛人]], which also gloss "partner," both mean a personal/romantic companion or lover. "Shop" (retail) is covered only by [[商店]] above — [[工場]], which also glosses "shop," means a workplace or factory. "Bill" (an invoice) has no dedicated word — [[鳥嘴]], which also glosses "bill," means a bird's beak, an unrelated homograph. "Moneylender," "luxury," "alms," "purse," "advertise," "file," "asset," "debit," and "credit" are all likewise genuinely uncoined.
+**Not yet coined or excluded as false matches**: "Partner" (business) has no dedicated word — [[伴侶]] and [[愛人]], which also gloss "partner," both mean a personal/romantic companion or lover. "Shop" (retail) is covered only by [[商店]] above — [[工場]], which also glosses "shop," means a workplace or factory. "Bill" (an invoice) has no dedicated word — [[鳥嘴]], which also glosses "bill," means a bird's beak, an unrelated homograph. "Moneylender," "luxury," "alms," "purse," "advertise," "file," "asset," "debit," and "credit" are all likewise genuinely uncoined.
 
 ## Semantic Range Notes
 
 **The "display/show" cluster is large but not redundant**: [[陳列]] (exhibiting merchandise), [[顕示]] (revealing/demonstrating), [[顕現]] (manifesting), [[提示]] (presenting/producing), and [[公開]] (making public) each carry a real, distinct register — this vault's own [[Existence]] page already houses most of them for their broader sense, gathered here for their trade-relevant angle.
 
-**Four false matches were caught and excluded**, more than most pages: [[趣味]] ("interest") means hobby/taste, not financial interest; [[伴侶]]/[[愛人]] ("partner") both mean a romantic companion, not a business partner; [[工場]] ("shop") means a factory/workplace, not a retail store; [[鳥嘴]] ("bill") means a bird's beak, not an invoice.
+**Three false matches were caught and excluded**, more than most pages: [[伴侶]]/[[愛人]] ("partner") both mean a romantic companion, not a business partner; [[工場]] ("shop") means a factory/workplace, not a retail store; [[鳥嘴]] ("bill") means a bird's beak, not an invoice. ("Interest" itself is no longer a gap — see [[利率]], above.)
 
 **[[貨幣]] and [[通貨]] are an undocumented near-duplicate pair**, both meaning "money, currency" with no recorded distinction — the same treatment given to other such pairs elsewhere in this vault.
 

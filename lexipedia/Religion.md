@@ -72,6 +72,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Sacred Places & Rites
 
 - <ruby>[寺院](../words/寺院.md)<rt>ㄙㄚ⼔ㄋ</rt></ruby>: a temple (Buddhist) — no generic, non-denominational "temple" word exists.
+- <ruby>[庵子](../words/庵子.md)<rt>ㄚㄇㄐㄜ</rt></ruby>: a small Buddhist nunnery, hermitage — smaller in scale than [[寺院]]; a genuine dialectal word that also carries an unrelated regional sense, "a thatched field hut" (agricultural, in the Guanzhong dialect).
 - <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>: a seminary.
 - <ruby>[祭祀](../words/祭祀.md)<rt>ㄐㄝㄙㄜ</rt></ruby>: sacrifice, worship — the ritual act of ceremonial offering, see [[基督敎]] for its own citation there.
 - <ruby>[犠牲](../words/犠牲.md)<rt>ㄏㄨㄧㄙㄚㄫ</rt></ruby>: sacrifice, victim — the object offered, or the act of sacrificing something, see [[基督敎]] for its own citation there.

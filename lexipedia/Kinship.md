@@ -104,6 +104,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[孩子](../words/孩子.md)<rt>ㄏㄚㄧㄐㄜ</rt></ruby>: child, kid(s) — covers any age from infancy through the teens, and can also mean "my child(ren)" even for an adult child.
 - <ruby>[子子](../words/子子.md)<rt>ㄐㄜㄐㄜ</rt></ruby>: my child — an affectionate, reduplicated way of referring to one's own child, distinct from [[孩子]]'s general sense.
 - <ruby>[児童](../words/児童.md)<rt>ㄝㄧㄉㄛㄫ</rt></ruby>: child, minor — a more formal/institutional register than [[孩子]] (児童文学, "children's literature"; 児童福祉, "child welfare").
+- <ruby>[児児](../words/児児.md)<rt>ㄝㄧㄝㄧ</rt></ruby>: baby — an emphatic/diminutive reduplication of 児, synonymous with [[嬰児]]/[[幼児]].
 - <ruby>[甥](../words/甥.md)<rt>ㄙㄚㄫ</rt></ruby>: nephew — broadened 2026-09-21 (user-directed) from the classical "sister's child specifically" restriction to any sibling's son, following living Japanese usage; a collateral descendant at this generational level; see Semantic Range Notes.
 - <ruby>[姪](../words/姪.md)<rt>ㄉㄝㄊ</rt></ruby>: niece — the direct female counterpart of [[甥]], broadened the same day and the same way.
 - <ruby>[姪女](../words/姪女.md)<rt>ㄉㄝㄊㄋㄜ</rt></ruby>: niece — a more explicit "niece-woman" compound, now a near-synonym of bare [[姪]] rather than the only way to say "niece."

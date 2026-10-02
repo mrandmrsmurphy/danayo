@@ -32,6 +32,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[英里](../words/英里.md)<rt>ㄝㄫㄌㄧ</rt></ruby>: a mile — the Western statute mile specifically, named "English li" to keep it distinct from the native [[里]]; see Semantic Range Notes.
 - <ruby>[浬](../words/浬.md)<rt>ㄌㄧ</rt></ruby>: a nautical mile; a knot (as a unit of speed) — a modern coinage pairing the water radical with [[里]], distinct from both it and [[英里]].
 - <ruby>[丈](../words/丈.md)<rt>ㄑㄚㄫ</rt></ruby>: a zhang — a traditional East Asian unit of length, ten chi (尺) at about 3.3m, surviving mainly in historical/literary contexts today.
+- <ruby>[公噸](../words/公噸.md)<rt>ㄍㄛㄫㄊㄛㄋ</rt></ruby>: a tonne, metric ton.
 - <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, tally.
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code — an assigned, identifying number (serial number, ID), distinct from [[数字]]'s abstract numeral.
 - <ruby>[総数](../words/総数.md)<rt>ㄐㄛㄫㄙㄨ</rt></ruby>: a total, grand total.

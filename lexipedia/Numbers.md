@@ -145,6 +145,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[正弦](../words/正弦.md)<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby>: sine.
 - <ruby>[余弦](../words/余弦.md)<rt>⼄ㄏㄝㄋ</rt></ruby>: cosine.
 - <ruby>[余割](../words/余割.md)<rt>⼄ㄍㄚㄊ</rt></ruby>: cosecant (csc) — the reciprocal of sine, following the same 余- "co-" pattern as [[余弦]].
+- <ruby>[弧度](../words/弧度.md)<rt>ㄏㄛㄉㄛ</rt></ruby>: a radian — the SI unit of angular measurement, defined as the angle subtended by an arc equal in length to the circle's radius.
 - <ruby>[余接](../words/余接.md)<rt>⼄ㄐㄛㄆ</rt></ruby>: cotangent — the reciprocal of tangent, same 余- pattern.
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby>: tangent.
   - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby>: tangent line (the geometric sense).
