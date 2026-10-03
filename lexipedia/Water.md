@@ -78,6 +78,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[滲漏](../words/滲漏.md)<rt>ㄙㄛㄇㄌㄛㄨ</rt></ruby>: to seep, to leak — specifically leaking through a barrier rather than an open leak.
 - <ruby>[滲入](../words/滲入.md)<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby>: to seep into, soak in, infiltrate — liquid (or influence) working its way inward; the inward counterpart of [[滲出]]'s seeping out.
 - <ruby>[滲出](../words/滲出.md)<rt>ㄙㄛㄇㄑㄨㄊ</rt></ruby>: to seep out, exude — liquid slowly working its way outward through a surface; the outward counterpart of [[滲入]].
+- <ruby>[滲透](../words/滲透.md)<rt>ㄙㄛㄇㄊㄛㄨ</rt></ruby>: to seep through, permeate; osmosis — liquid passing all the way through a membrane or material, and figuratively an idea or influence permeating a society.
 - <ruby>[浸](../words/浸.md)<rt>ㄑㄧㄇ</rt></ruby>: to immerse, dunk, soak.
 
 ### Coastal & Maritime
