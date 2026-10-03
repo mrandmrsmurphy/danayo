@@ -104,6 +104,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
 - <ruby>[菱](../words/菱.md)<rt>ㄌㄜㄫ</rt></ruby>: a water chestnut.
 - <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
+- <ruby>[山芋](../words/山芋.md)<rt>ㄙㄚㄋ·ㄨ</rt></ruby>: mountain yam — the starchy tuber of *Dioscorea*, Japanese やまいも; a different plant from the sweet potato.
 - <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
 
 ### Sweets & Flavorings
