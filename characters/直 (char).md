@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[直角]]<rt>ㄐㄧㄊㄍㄛㄎ</rt></ruby> "right angle"
 - <ruby>[[直観]]<rt>ㄐㄧㄊㄍ⺢ㄋ</rt></ruby> "intuition"
 - <ruby>[[硬直]]<rt>ㄚㄫㄐㄧㄊ</rt></ruby> "rigid; stiff; inflexible"
+- <ruby>[[直撇]]<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby> "straight left-falling stroke (calligraphy stroke)"
 
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

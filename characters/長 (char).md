@@ -74,6 +74,7 @@ boundedness: 75
 - <ruby>[[周長]]<rt>ㄐㄨㄛㄐㄚㄫ</rt></ruby> "perimeter, circumference"
 - <ruby>[[深長]]<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby> "long and deep, profound, abstruse"
 - <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
+- <ruby>[[長点]]<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby> "long dot (calligraphy stroke)"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

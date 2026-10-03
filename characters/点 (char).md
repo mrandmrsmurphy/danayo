@@ -69,6 +69,8 @@ boundedness: 100
 - <ruby>[[読点]]<rt>ㄉㄛㄎㄉㄝㄇ</rt></ruby> "comma (Asian punctuation)"
 - <ruby>[[頂点]]<rt>ㄐㄝㄫㄉㄝㄇ</rt></ruby> "peak; vertex; apex"
 - <ruby>[[小数点]]<rt>ㄙㄛㄙㄨㄉㄝㄇ</rt></ruby> "decimal point"
+- <ruby>[[長点]]<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby> "long dot (calligraphy stroke)"
+- <ruby>[[挑点]]<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby> "rising dot (calligraphy stroke)"
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches; one step away from perfection"

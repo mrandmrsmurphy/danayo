@@ -55,3 +55,5 @@ boundedness: 100
 - <ruby>[[露語]]<rt>ㄌㄛ⼄</rt></ruby> "Russian language"
 - <ruby>[[露斯亜]]<rt>ㄌㄛㄙㄧㄚ</rt></ruby> "Russia"
 - <ruby>[[露斯亜語]]<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby> "Russian language"
+- <ruby>[[垂露豎]]<rt>ㄐㄨㄧㄌㄛㄙㄨ</rt></ruby> "dewdrop vertical (calligraphy stroke)"
+

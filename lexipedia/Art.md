@@ -109,6 +109,15 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
+- <ruby>[長点](../words/長点.md)<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby>: long dot (calligraphy stroke; willow-leaf dot).
+- <ruby>[挑点](../words/挑点.md)<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby>: rising dot (calligraphy stroke).
+- <ruby>[懸針豎](../words/懸針豎.md)<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby>: hanging-needle vertical stroke, pointed at the bottom.
+- <ruby>[垂露豎](../words/垂露豎.md)<rt>ㄐㄨㄧㄌㄛㄙㄨ</rt></ruby>: dewdrop vertical stroke, rounded at the bottom.
+- <ruby>[戈鉤](../words/戈鉤.md)<rt>ㄍ⺢ㄍㄛㄨ</rt></ruby>: dagger-axe hook (the slanting hook of 戈).
+- <ruby>[臥鉤](../words/臥鉤.md)<rt>⺢ㄍㄛㄨ</rt></ruby>: lying hook (the flat hook of 心).
+- <ruby>[平提](../words/平提.md)<rt>ㄅ⼶ㄫㄙㄝ</rt></ruby>: level flick (rising stroke).
+- <ruby>[斜提](../words/斜提.md)<rt>ㄙ⼘ㄙㄝ</rt></ruby>: slanting flick (rising stroke).
+- <ruby>[直撇](../words/直撇.md)<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby>: straight left-falling stroke.
 - <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>: a print (picture copied from painting/photography).
 - <ruby>[木版](../words/木版.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>: printing block.
 - <ruby>[横幅](../words/横幅.md)<rt>ㄏ⺢ㄫㄈㄨㄎ</rt></ruby>: banner, horizontal scroll.

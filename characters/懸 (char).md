@@ -55,3 +55,5 @@ boundedness: 90
 - <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind" (stand-in for 懸 (char))
 - <ruby>[[懸垂]]<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby> "hang over, overhand"
 - <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula"
+- <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> "hanging-needle vertical (calligraphy stroke)"
+

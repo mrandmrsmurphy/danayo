@@ -61,3 +61,5 @@ boundedness: 90
 ## Words
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[方針]]<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby> "policy; principle"
+- <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> "hanging-needle vertical (calligraphy stroke)"
+
