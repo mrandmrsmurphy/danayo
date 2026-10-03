@@ -96,6 +96,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[部署](../words/部署.md)<rt>ㄅㄛㄨㄙ⼄</rt></ruby>: a government office, department.
 - <ruby>[支部](../words/支部.md)<rt>ㄐㄝㄅㄛㄨ</rt></ruby>: a branch, chapter.
 - <ruby>[机関](../words/机関.md)<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby>: a machine, organ, organization.
+- <ruby>[消防局](../words/消防局.md)<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby>: a fire department — the bureau responsible for firefighting and fire prevention, at any organizational level.
 
 ### Administrative Divisions
 

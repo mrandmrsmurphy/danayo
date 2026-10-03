@@ -76,6 +76,8 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
   - **Note**: near-synonym of [[滴]] above — 淋 leans toward draining/pouring over, 滴 toward a single drop.
 - <ruby>[漏](../words/漏.md)<rt>ㄌㄛㄨ</rt></ruby>: to leak.
 - <ruby>[滲漏](../words/滲漏.md)<rt>ㄙㄛㄇㄌㄛㄨ</rt></ruby>: to seep, to leak — specifically leaking through a barrier rather than an open leak.
+- <ruby>[滲入](../words/滲入.md)<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby>: to seep into, soak in, infiltrate — liquid (or influence) working its way inward; the inward counterpart of [[滲出]]'s seeping out.
+- <ruby>[滲出](../words/滲出.md)<rt>ㄙㄛㄇㄑㄨㄊ</rt></ruby>: to seep out, exude — liquid slowly working its way outward through a surface; the outward counterpart of [[滲入]].
 - <ruby>[浸](../words/浸.md)<rt>ㄑㄧㄇ</rt></ruby>: to immerse, dunk, soak.
 
 ### Coastal & Maritime
