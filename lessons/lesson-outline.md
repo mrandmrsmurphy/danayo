@@ -11,11 +11,13 @@ type: curriculum
 
 This curriculum guides learners from **sound → characters → basic sentences → complex discourse**. The design prioritizes **Topic-Comment structure** as the foundational grammar principle, since it is alien to English and must be internalized early. Each lesson builds on the previous one and includes **worked examples, exercises, and vocabulary**.
 
+**Indexes**: what each lesson assigns is tracked in [[lessons characters index]] (the characters) and [[lessons word index]] (the words).
+
 ---
 
 ## FOUNDATION TIER: Phonology & Characters (Lessons 01–03)
 
-### Lesson 01: Introduction to Bopomofo (The Sound System)
+### [[Lesson 01]]: Introduction to Bopomofo (The Sound System)
 **Goal**: Learner can read and pronounce all Dan'a'yo syllables.
 
 - [Bopomofo vowels](../grammar/Bopomofo.md): a, e, i, o, u, ǝ
@@ -29,7 +31,7 @@ This curriculum guides learners from **sound → characters → basic sentences 
 
 ---
 
-### Lesson 02: Chinese Characters 1 – Formation & Recognition (65 Pictograms)
+### [[Lesson 02]]: Chinese Characters 1 – Formation & Recognition (65 Pictograms)
 **Goal**: Learner recognizes the four classical character types and can parse simple compound-ideographs.
 
 - **Pictograms** (象形): 口, 木, 日, 月, 人, 水, 火, 山, 石, 金, etc. — 65 most basic characters
@@ -48,7 +50,7 @@ This curriculum guides learners from **sound → characters → basic sentences 
 
 ---
 
-### Lesson 03: Chinese Characters 2 – Essential 200 Characters
+### [[Lesson 03]]: Chinese Characters 2 – Essential 200 Characters
 **Goal**: Learner can recognize and write 200 high-frequency characters (core concept-carrying characters).
 
 - Expansion beyond the 65 pictograms: the next 135 most essential characters

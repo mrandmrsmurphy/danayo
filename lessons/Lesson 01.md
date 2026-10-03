@@ -1,7 +1,15 @@
 ---
 language: English
+date-last-perfect: 2026-10-03
 ---
-<ruby>[今日安](/words/今日安.md)<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>!  Hello!  Welcome to Dan'a'yo, the pan-Asian language.  In this first lesson, we will learn the basic alphabet, those little squiggles above the complicated drawings.  This is a version of the _Bopomofo_ alphabet, in common use in Taiwan.
+## Learning objectives
+By the end of this lesson you will be able to:
+- Sound out the six vowel letters and the six glide letters.
+- Pronounce the fifteen consonants, including the puff of ㄆ ㄊ ㄎ and the unreleased final stops.
+- Take any syllable apart into onset, glide, vowel and final.
+- Read the ruby over characters.
+
+<ruby>今日安<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>!  Hello!  Welcome to Dan'a'yo, the pan-Asian language.  In this first lesson, we will learn the basic alphabet, those little squiggles above the complicated drawings.  This is a version of the _Bopomofo_ alphabet, in common use in Taiwan.
 
 ## Vowels
 The easiest place to begin is with the six vowel letters, **a**, **e**, **i**, **o**, **u**, and **ǝ**.  These are able to stand alone, so we can write them with examples:
@@ -78,26 +86,26 @@ A syllable is, therefore,
 ### Drill 1: Sound it out
 Read each character aloud using only the letters above it.  Then check yourself against the answers.
 
-1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby>
-2. <ruby>[[二 (char)|二]]<rt>ㄋㄧㄜ</rt></ruby>
-3. <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby>
-4. <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby>
-5. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby>
-6. <ruby>[[山 (char)|山]]<rt>ㄙㄚㄋ</rt></ruby>
-7. <ruby>[[大 (char)|大]]<rt>ㄉㄚㄧ</rt></ruby>
-8. <ruby>[[口 (char)|口]]<rt>ㄎㄛㄨ</rt></ruby>
-9. <ruby>[[木 (char)|木]]<rt>ㄇㄛㄎ</rt></ruby>
-10. <ruby>[[水 (char)|水]]<rt>ㄙㄨ</rt></ruby>
-11. <ruby>[[火 (char)|火]]<rt>ㄏ⺢</rt></ruby>
-12. <ruby>[[上 (char)|上]]<rt>ㄙ⼘ㄫ</rt></ruby>
-13. <ruby>[[下 (char)|下]]<rt>ㄏㄚ</rt></ruby>
-14. <ruby>[[女 (char)|女]]<rt>ㄋㄜ</rt></ruby>
-15. <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby>
-16. <ruby>[[日 (char)|日]]<rt>ㄋㄧㄊ</rt></ruby>
-17. <ruby>[[有 (char)|有]]<rt>⼜</rt></ruby>
-18. <ruby>[[魚 (char)|魚]]<rt>⼄</rt></ruby>
-19. <ruby>[[雨 (char)|雨]]<rt>ㄨ</rt></ruby>
-20. <ruby>[[東]]<rt>ㄉㄛㄫ</rt></ruby>
+1. <ruby>一<rt>ㄧㄊ</rt></ruby>
+2. <ruby>二<rt>ㄋㄧㄜ</rt></ruby>
+3. <ruby>三<rt>ㄙㄚㄇ</rt></ruby>
+4. <ruby>十<rt>ㄙㄧㄆ</rt></ruby>
+5. <ruby>人<rt>ㄋㄧㄋ</rt></ruby>
+6. <ruby>山<rt>ㄙㄚㄋ</rt></ruby>
+7. <ruby>大<rt>ㄉㄚㄧ</rt></ruby>
+8. <ruby>口<rt>ㄎㄛㄨ</rt></ruby>
+9. <ruby>木<rt>ㄇㄛㄎ</rt></ruby>
+10. <ruby>水<rt>ㄙㄨ</rt></ruby>
+11. <ruby>火<rt>ㄏ⺢</rt></ruby>
+12. <ruby>上<rt>ㄙ⼘ㄫ</rt></ruby>
+13. <ruby>下<rt>ㄏㄚ</rt></ruby>
+14. <ruby>女<rt>ㄋㄜ</rt></ruby>
+15. <ruby>千<rt>ㄑㄝㄋ</rt></ruby>
+16. <ruby>日<rt>ㄋㄧㄊ</rt></ruby>
+17. <ruby>有<rt>⼜</rt></ruby>
+18. <ruby>魚<rt>⼄</rt></ruby>
+19. <ruby>雨<rt>ㄨ</rt></ruby>
+20. <ruby>東<rt>ㄉㄛㄫ</rt></ruby>
 
 >[!answer]- Answers
 > 1. 一 ㄧㄊ = **it**
