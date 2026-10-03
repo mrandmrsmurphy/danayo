@@ -11,7 +11,7 @@ tags:
 - <ruby>[優柔不断](chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - indecisive; undetermined; shilly-shally
 - <ruby>[切磋琢磨](chengyu/切磋琢磨.md)<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> - iron sharpens iron, friendly competition
 - <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄆㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
-- <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄍ⺢ㄋㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
+- <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄈㄛㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns
 - <ruby>[一朝一夕](chengyu/一朝一夕.md)<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> - one morning one evening
 - <ruby>[一期一会](chengyu/一期一会.md)<rt>ㄧㄜㄎㄧ·ㄧㄊㄏ⼔</rt></ruby>  - one lifetime, one meeting

@@ -37,6 +37,8 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[完全](../words/完全.md)<rt>ㄏ⺢ㄋㄐ⼔ㄋ</rt></ruby>: perfect — complete, whole, distinct from [[完璧]]'s flawlessness.
 - <ruby>[良好](../words/良好.md)<rt>ㄌ⼘ㄫㄏㄚㄨ</rt></ruby>: fine — the "good quality" sense.
 - <ruby>[中等](../words/中等.md)<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby>: intermediate, medium grade, middle level — the unmarked midpoint on any quality scale (中等 income, 中等 difficulty), not [[良好]]'s positive judgment; also names the middle tier of East Asia's 初等/中等/高等 (elementary/secondary/higher) educational classification.
+- <ruby>[優等](../words/優等.md)<rt>ㄨㄛㄉㄨㄫ</rt></ruby>: excellent, of the top grade, honors — the upper end of the scale whose unmarked midpoint is 中等 (優等生 "honor student"); its opposite is [[劣等]].
+- <ruby>[初等](../words/初等.md)<rt>ㄑㄛㄉㄨㄫ</rt></ruby>: elementary, of the first and most basic level — the lowest tier of the 初等/中等/高等 educational classification, and "introductory" in 初等数学; see [[中等]] and [[高等]].
 - <ruby>[繊細](../words/繊細.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>: fine — delicate, sensitive; a different sense of "fine" from [[良好]]'s quality judgment.
 
 **Not yet coined or excluded as false matches**: "awful," "dear," "fancy," "terrible," "foul," "naughty," and "wicked" all have no dedicated Dan'a'yo word yet. "Fine" also loosely matches [[罰金]], already housed on [Law](../lexipedia/Law.md) — that word means a monetary penalty, not the quality-judgment sense cited above. "Well" (in good health, satisfactorily) also loosely matches [[井戸]], which means a water well — an unrelated homograph, not cited here.
