@@ -50,21 +50,35 @@ This curriculum guides learners from **sound → characters → basic sentences 
 
 ---
 
-### [[Lesson 03]]: Chinese Characters 2 – Essential 200 Characters
-**Goal**: Learner can recognize and write 200 high-frequency characters (core concept-carrying characters).
+### [[Lesson 03]]: Chinese Characters 2 – The Next 135 and Looking Characters Up
+**Goal**: Learner knows 200 characters in all, can look any character up by its SKIP code, and understands the difference between a character and a word.
 
-- Expansion beyond the 65 pictograms: the next 135 most essential characters
-- Stroke-based grouping: Introduction to stroke-count lookups
-- Mnemonic strategies for memorization
-- Character variants: 新字体 (Shinjitai) vs. traditional; aliases
-- **Practice drill**: Flashcard recognition and stroke-order tracing
+**A. Using SKIP as a lookup**
+- Examples of all four major types, with the emphasis on counting strokes
+  - Left and right (1): 明, 林, 語
+  - Top and bottom (2): 名, 思, 草, 家
+  - Enclosed (3): 国, 問, 風
+  - Other (4): 中, 之, 内, 不
 
-**Materials to create**:
-- Flashcard vocabulary list (200 characters with English glosses)
-- Stroke-order guide for top 50 characters
-- Character family trees (radical-based groupings)
+**B. Variants**
+- Introduction to variants and aliases: the same character in different forms (国 and 國, 気 and 氣, 学 and 學, 数 and 數)
 
-**Reference**: `characters/Stroke NN.md`, `grammar/文法 - 03文字法.en.md`
+**C. Radicals**
+- Introduction to the idea of a radical, with six common examples (口, 人, 水, 辵, 言, 門), not the list of 214
+
+**D. Characters and words**
+- A character is not the same as a word.  父 is not a word.  The learner is not yet responsible for knowing 親 in 父親, only that 父 does not appear alone, and that the meaning "father" is carried by 父親 (ㄅㄨㄑㄧㄋ)
+
+**E. The character list**
+- The 135 new characters, all together, grouped by appearance (by SKIP type, then by stroke count): see [[lessons characters index]]
+
+**F. Exercises**
+- Name the SKIP code of a character
+- Name the radical of a character
+- Count the strokes of a character
+- Remember and produce characters (see it, say it; hear it, write it)
+
+**Reference**: `lookup/Stroke/Stroke NN.md`, `lookup/SKIP/`, `lookup/Radicals/`, `grammar/文法 - 03文字法.en.md`
 
 ---
 
