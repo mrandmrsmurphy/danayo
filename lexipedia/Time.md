@@ -33,6 +33,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[時代](../words/時代.md)<rt>ㄙㄧㄉㄚㄧ</rt></ruby>: time, age, epoch — a historical period, the "age" sense; see [Calendar](../lexipedia/Calendar.md)'s own Eras section for the specific named periods this generalizes over.
 - <ruby>[寿命](../words/寿命.md)<rt>ㄙ⼜·ㄇ⼶ㄫ</rt></ruby>: age, lifespan — specifically how long a life lasts, distinct from [[時代]]'s historical-period sense.
 - <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: an old person, age — a Swadesh word, the seniority/elderliness sense.
+- <ruby>[古希](../words/古希.md)<rt>ㄍㄛㄏㄧㄜ</rt></ruby>: seventy years of age — the congratulatory name for a seventieth birthday, from Du Fu's line 人生七十古來稀 ("it has been rare since antiquity to reach seventy").
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.
 - <ruby>[中古](../words/中古.md)<rt>ㄐㄨㄫㄍㄛ</rt></ruby>: medieval, the Middle Ages — East Asian historiography's tripartite 古代/中古/近代 (ancient/medieval/modern) periodization scheme; also, distinctly, "secondhand, used" in modern Japanese/Korean consumer usage (中古品, 中古車), a genuinely separate sense from the historical one.
 
