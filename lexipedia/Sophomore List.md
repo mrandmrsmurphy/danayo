@@ -298,7 +298,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- begin - <ruby>[[開始]]<rt>ㄎㄚㄧㄙㄧ</rt></ruby>
 	- finish - <ruby>[[完成]]<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>
 	- intend to do - <ruby>[[擬]]<rt>ㄧ</rt></ruby> *("intend, plan" — see [[Mind]] for its own citation there)*
-	- habitually do *(needs a word — no dedicated habitual-aspect marker exists, distinct from [[中]]'s progressive "-ing" and [[将然]]'s prospective "about to")*
+	- habitually do *(needs a word — no dedicated habitual-aspect marker exists, distinct from [[－中]]'s continuous "-ing" and [[将然]]'s prospective "about to")*
 - Abstractions :
 	- cause - <ruby>[[縁故]]<rt>⼶ㄋㄍㄛ</rt></ruby>
 	- mean - <ruby>[[意味]]<rt>ㄜ·ㄇㄨㄧ</rt></ruby>

@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 
-1. <ruby>[中](characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> "middle"
+1. <ruby>[中](characters/中.md)<rt>ㄐㄨㄫ</rt></ruby> "middle"
 2. <ruby>[井](characters/井.md)<rt>ㄐㄧㄫ</rt></ruby> "well"
 3. <ruby>[升](characters/升%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> "litre"
 4. <ruby>[屯](characters/屯%20(char).md)<rt>ㄉㄨㄋ</rt></ruby> "village"

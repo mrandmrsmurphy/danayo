@@ -108,7 +108,7 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 14. <ruby>[刃](/characters/刃.md)<rt>ㄋㄧㄋ</rt></ruby> - a knife (刀) with a mark on the blade — "blade"
 15. <ruby>[勺](/characters/勺%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wine in a ladle — "spoon, ladle"
 ### 4
-16. <ruby>[中](/characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> - a flagpole through the center of a field — "center, middle"
+16. <ruby>[中](/characters/中.md)<rt>ㄐㄨㄫ</rt></ruby> - a flagpole through the center of a field — "center, middle"
 17. <ruby>[乏](/characters/乏.md)<rt>ㄅㄚㄆ</rt></ruby> - a reversal of 正 ("straight, right")
 18. <ruby>[今](/characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - a mark beneath 亼 ("gathering") marking the present moment
 19. <ruby>[六](/characters/六%20(char).md)<rt>ㄌㄨㄎ</rt></ruby> - an abstract symbol for the numeral "six"

@@ -689,7 +689,7 @@ tags: [lookup]
 [竹 (char)](../../characters/竹%20(char).md) (대 죽)
 
 #### 중
-[[中 (char)]] (가운데 중) [重 (char)](../../characters/重%20(char).md) (무거울 중) [衆](../../characters/衆.md) (무리 중)
+[[中]] (가운데 중) [重 (char)](../../characters/重%20(char).md) (무거울 중) [衆](../../characters/衆.md) (무리 중)
 
 #### 즉
 [[即 (char)|卽]] (곧 즉)

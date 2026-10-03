@@ -43,7 +43,7 @@ boundedness: 90
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 029|又]] ("hand") + [[中 (char)|中]] ("a flagpole with a drum") — flag in hand > to perform one's job.
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 029|又]] ("hand") + [[中]] ("a flagpole with a drum") — flag in hand > to perform one's job.
 - [SKIP-4-8-3](lookup/SKIP/SKIP-4/SKIP-4-8-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
 - 42nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 崇|d͡ʒ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄐㄧ](syllables/ㄐㄧ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

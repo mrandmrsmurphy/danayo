@@ -15,7 +15,7 @@ tags: [lookup]
 	2. 【[[仰]][[勒]]】 - A stroke that is slightly concave (curving upward like a smile). This is often used for the top stroke in characters like 【[[五 (char)|五]]】 or 【[[立 (char)|立]]】 to create a sense of stability.
 	3. 【[[俯]][[勒]]】 - A stroke that is slightly convex (curving downward like a rainbow). It is often used for the bottom-most stroke of a character (like the last stroke of 【[[三 (char)|三]]】) to "cover" or ground the character.
 3. "vertical-falling" (【[[豎]]】) or perpendicular (Li Puguang: <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby>). Notice the initial dot.  【[[努]]】's come in two kinds
-	1. <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character 【[[中 (char)|中]]】).
+	1. <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> - hanging needle crossbow - The tip tapers off into a sharp point at the bottom (like the bottom of the character 【[[中]]】).
 	2. <ruby>[[垂露豎]]<rt>ㄐㄨㄧㄌㄛㄙㄨ</rt></ruby> - dropping dew crossbow - The bottom is rounded and blunt, looking like a heavy drop of dew clinging to a needle (like the vertical strokes in 【[[門]]】).
 4. "hook" (<ruby>[[鉤]]<rt>ㄍㄛㄨ</rt></ruby>). Some hooks go left, others down = 【[趯](characters/躍.md)】 (Li Puguang: <ruby>[[蟹爪]]<rt>ㄏ⼘ㄧㄐ⺢ㄨ</rt></ruby>)
 	1. <ruby>[[左向鉤]]<rt>ㄐㄚㄏ⼘ㄫㄍㄛㄨ</rt></ruby>

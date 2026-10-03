@@ -42,7 +42,7 @@ tags: [lookup]
 28. <ruby>[[太 (char)|太]]<rt>ㄊㄚㄧ</rt></ruby> - great
 29. <ruby>[[友]]<rt>⼜ㄛ</rt></ruby> - friend
 30. <ruby>[[内]]<rt>ㄋㄛㄧ</rt></ruby> - inside
-31. <ruby>[[中 (char)|中]]<rt>ㄐㄨㄫ</rt></ruby> - -ing
+31. <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> - -ing
 32. <ruby>[[水 (char)|水]]<rt>ㄙㄨ</rt></ruby> - water
 33. <ruby>[[父]]<rt>ㄅㄨ</rt></ruby> - father
 34. <ruby>[[今 (char)|今]]<rt>ㄍㄧㄇ</rt></ruby> - now

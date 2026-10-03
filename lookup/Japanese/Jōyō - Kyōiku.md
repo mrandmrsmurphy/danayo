@@ -24,7 +24,7 @@ The following prefecture names were added in 2017:
 14. [下](characters/下%20(char).md) : ka / ge (shita, moto)    
 15. [左](characters/左.md) : sa (hidari)    
 16. [右](characters/右.md) : u / yū (migi)    
-17. [[中 (char)]] : chū (naka)    
+17. [[中]] : chū (naka)    
 18. [[大 (char)]] : dai / tai (ō-kiǝ)    
 19. [[小 (char)]] : shō (chiǝ-sai)    
 20. [[月 (char)]] : getsu / gatsu (tsuki)    

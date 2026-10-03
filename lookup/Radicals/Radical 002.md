@@ -17,7 +17,7 @@ _no +0, because it is not a stand-alone character_
 -  个 -> 個
 - forbidden 㐃
 ### +3 Strokes
-1. <ruby>[中](../../characters/中%20(char).md)<rt>ㄐㄨㄫ</rt></ruby> - center
+1. <ruby>[中](../../characters/中.md)<rt>ㄐㄨㄫ</rt></ruby> - center
 - 丰-->豊
 - 书-->書
 ### +6 Strokes
