@@ -52,6 +52,6 @@ boundedness: 100
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[克明]]<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby> "discern, meticulous, moral judgment"
-- <ruby>[[迦克敦]]<rt>ㄍㄚㄎㄨㄎㄉㄛㄋ</rt></ruby> "Chalcedon"
+- <ruby>[[珈克敦]]<rt>ㄎㄚ·ㄎㄨㄎㄉㄛㄋ</rt></ruby> "Chalcedon"
 - <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"
 - <ruby>[[相克]]<rt>ㄙㄚㄫㄎㄨㄎ</rt></ruby> "mutual overcoming (Five Elements cycle)"

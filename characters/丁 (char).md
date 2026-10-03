@@ -33,6 +33,7 @@ graphemic_classification: 象形
 stand_in: 丁
 aliases:
   - 𠆤
+  - 酊
 注音: ㄉㄝㄫ
 date-last-perfect: 2026-09-16
 kwin: false
@@ -56,6 +57,7 @@ boundedness: 80
 - <ruby>[[丁丁]]<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby> "clang, clash"
 - <ruby>[[丁香]]<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby> "clove"
 - <ruby>[[君士坦丁堡]]<rt>ㄍㄨㄋㄙㄚㄧㄊㄚㄋㄉㄝㄫㄅㄚㄨ</rt></ruby> "Constantinople"
+- <ruby>[[酩丁]]<rt>ㄇㄝㄫㄉㄝㄫ</rt></ruby> "dead drunk"
 
 ## Derived Characters
 - <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> "hit"

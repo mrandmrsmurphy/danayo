@@ -2948,7 +2948,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[輩]] — generation
 - [[逝去]] — pass away, die
 - [[遺伝子]] — gene
-- [[酩酊]] — dead drunk, thoroughly intoxicated
+- [[酩丁]] — dead drunk, thoroughly intoxicated
 - [[養殖]] — cultivate, breed
 
 ## Light (22)
