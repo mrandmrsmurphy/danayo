@@ -94,6 +94,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 ### Abstract & Technical
 
 - <ruby>[法](../words/法.md)<rt>ㄈㄚㄆ</rt></ruby> / <ruby>[法則](../words/法則.md)<rt>ㄈㄚㄆㄐㄨㄎ</rt></ruby>: bare "rule, law" and "law, rule, code" — the roots [[法律]] above builds on.
+- <ruby>[原則](../words/原則.md)<rt>⼔ㄋㄐㄨㄎ</rt></ruby>: a fundamental principle — the foundational rule one appeals to as a matter of principle, set against the stipulated [[規則]] and the theoretical [[原理]]; compare [[法則]].
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty — legal liability.
 - <ruby>[負債](../words/負債.md)<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>: debt, liabilities.
 - <ruby>[盲従](../words/盲従.md)<rt>ㄇㄚㄫㄐㄛㄫ</rt></ruby>: blind obedience, to follow blindly — the failure mode [[循]] above doesn't itself imply.

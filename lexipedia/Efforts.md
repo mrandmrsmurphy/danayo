@@ -44,6 +44,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[奮発](../words/奮発.md)<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby>, <ruby>[尽力](../words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby>: to exert oneself, make a special effort.
 - <ruby>[率先](../words/率先.md)<rt>ㄌㄨㄊㄙㄝㄋ</rt></ruby>: to take the lead, be the first to act.
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, toil.
+- <ruby>[刻苦](../words/刻苦.md)<rt>ㄎㄨㄎㄎㄛ</rt></ruby>: assiduous, working hard through hardship — an austere, self-denying diligence, stricter than plain [[努力]].
 - <ruby>[消耗](../words/消耗.md)<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby>: to consume, deplete, drain (energy, resources, strength).
 
 ### Difficulty, Danger & Trouble

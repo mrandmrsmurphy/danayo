@@ -247,7 +247,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[注音](../words/注音.md)<rt>ㄐㄨㄨㄇ</rt></ruby> "zhuyin, bopomofo, phonetic notation"
 - <ruby>[音訓標](../words/音訓標.md)<rt>ㄨㄇㄏㄨㄋㄅ⼄</rt></ruby> "ruby, the phonetic line written above each character (a Dan'a'yo coinage; in 注音符号, set in 振り仮名 style)"
 - <ruby>[部首](../words/部首.md)<rt>ㄅㄛㄨㄙ⼜</rt></ruby> "radical"
-- <ruby>[部品](../words/部品.md)<rt>ㄅㄛㄨㄆㄨㄇ</rt></ruby> "part, component" — the general class of sub-shapes a character is built from; [[部首]] is the one a dictionary indexes by
+- <ruby>[部品](../words/部品.md)<rt>ㄅㄛㄨ·ㄆㄨㄇ</rt></ruby> "part, component" — the general class of sub-shapes a character is built from; [[部首]] is the one a dictionary indexes by
 - <ruby>[表記](../words/表記.md)<rt>ㄅ⼘ㄨㄍㄧ</rt></ruby> "notation, orthography, written representation"
 - <ruby>[転写](../words/転写.md)<rt>ㄐ⼔ㄋㄙ⼘</rt></ruby> "transcription, transliteration — rendering a form from one script or sound system in another"
 - <ruby>[符号](../words/符号.md)<rt>ㄅㄨㄏㄚㄨ</rt></ruby> "symbol, mark, sign"
