@@ -32,6 +32,7 @@ tags:
 - 4-9-3: <ruby>[[柬 (char)|柬]]<rt>ㄍ⼘ㄋ</rt></ruby>, <ruby>[[禹]]<rt>ㄨ</rt></ruby>, <ruby>[[禺]]<rt>ㄨ</rt></ruby>, <ruby>[[乗 (char)|乗]]<rt>ㄙㄨㄫ</rt></ruby>
 - 4-9-4: <ruby>[[咸]]<rt>ㄏㄚㄇ</rt></ruby>, <ruby>[[威]]<rt>ㄛㄧ</rt></ruby>, <ruby>[[為 (char)|為]]<rt>ㄨㄧ</rt></ruby>
 ### Aliases
+- 媚 --> 眉
 
 ## Data check
 ```dataview

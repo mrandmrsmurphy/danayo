@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 136
+size: 137
 radical: 手
 tags: [lookup]
 
@@ -180,6 +180,9 @@ tags: [lookup]
 
 ### +16 Strokes
 136. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
+
+### +20 Strokes
+137. <ruby>[攫](../../characters/攫.md)<rt>ㄈㄛㄎ</rt></ruby> - seize
 
 ## Data check
 ```dataview

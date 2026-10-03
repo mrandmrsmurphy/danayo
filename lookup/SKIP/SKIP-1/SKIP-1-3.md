@@ -24,7 +24,7 @@ tags: [lookup]
 17. [SKIP-1-3-17](lookup/SKIP/SKIP-1/SKIP-1-3-17.md): 瀕, 灌, 攘
 18. [SKIP-1-3-18](lookup/SKIP/SKIP-1/SKIP-1-3-18.md): 灋, 灘
 19. [SKIP-1-3-19](lookup/SKIP/SKIP-1/SKIP-1-3-19.md): ø
-20. no
+20. [SKIP-1-3-20](lookup/SKIP/SKIP-1/SKIP-1-3-20.md): 攫
 21. [SKIP-1-3-21](lookup/SKIP/SKIP-1/SKIP-1-3-21.md): 衢
 22. [SKIP-1-3-22](lookup/SKIP/SKIP-1/SKIP-1-3-22.md): 攬
 

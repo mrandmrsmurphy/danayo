@@ -588,7 +588,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[娘]] — young woman
 - [[婦]] — lady, woman
 - [[嫩]] — delicate, tender
-- [[嬌媚]] — coquettish, charming, flirtatious, alluring
+- [[嬌眉]] — coquettish, charming, flirtatious, alluring
 - [[嬰児]] — baby
 - [[嬴金]] — thulium
 - [[孔]] — cavity

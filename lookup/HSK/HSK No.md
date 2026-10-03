@@ -983,6 +983,7 @@ tags: [lookup]
 [[誅]]
 [[謁 (char)]]
 [[睫]]
+[[攫]]
 
 ## Datacheck
 ```base
