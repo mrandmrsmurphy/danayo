@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 8
-size: 39
+size: 38
 skip_number: 2-3-5
 tags:
   - lookup
@@ -27,28 +27,27 @@ tags:
 15. <ruby>[尚](characters/尚%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> "still"
 16. <ruby>[岸](characters/岸%20(char).md)<rt>ㄚㄋ</rt></ruby> "bank"
 17. <ruby>[岩](characters/岩.md)<rt>ㄚㄇ</rt></ruby> "rocks"
-18. <ruby>[𡿺](characters/𡿺.md)<rt>ㄋㄨㄛ</rt></ruby> "fontanel"
+18. <ruby>[𡿺](characters/𡿺.md)<rt>ㄋㄚㄨ</rt></ruby> "fontanel"
 19. <ruby>[帚](characters/帚.md)<rt>ㄐㄨ</rt></ruby> "broom"
 20. <ruby>[幸](characters/幸.md)<rt>ㄏㄚㄫ</rt></ruby> "lucky"
-21. <ruby>[显](characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> "chrysalis"
-22. <ruby>[盂](characters/盂.md)<rt>ㄨ</rt></ruby> "cup"
-23. <ruby>[空](characters/空%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> "empty"
-24. <ruby>[穹](characters/穹.md)<rt>ㄎㄨㄫ</rt></ruby> "high"
-25. <ruby>[苔](characters/苔%20(char).md)<rt>ㄊㄛㄧ</rt></ruby> "moss"
-26. <ruby>[若](characters/若%20(char).md)<rt>ㄋ⼘</rt></ruby> "if"
-27. <ruby>[苦](characters/苦%20(char).md)<rt>ㄎㄛ</rt></ruby> "suffering"
-28. <ruby>[苺](characters/苺%20(char).md)<rt>ㄇㄚㄧ</rt></ruby> "strawberry"
-29. <ruby>[茎](characters/茎%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> "stem"
-30. <ruby>[䒦](characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> "grass floating on water"
-31. <ruby>[芽](characters/芽.md)<rt>ㄚ</rt></ruby> "bud"
-32. <ruby>[苑](characters/苑.md)<rt>ㄛㄋ</rt></ruby> "pasture"
-33. <ruby>[苗](characters/苗.md)<rt>ㄇ⼘ㄨ</rt></ruby> "seedling"
-34. <ruby>[苛](characters/苛.md)<rt>ㄏㄚ</rt></ruby> "harsh"
-35. <ruby>[英](characters/英.md)<rt>ㄝㄫ</rt></ruby> "hero"
-36. <ruby>[苹](characters/苹.md)<rt>ㄈㄝㄫ</rt></ruby> "apple"
-37. <ruby>[茂](characters/茂.md)<rt>ㄇㄛㄨ</rt></ruby> "overgrown"
-38. <ruby>[茅](characters/茅.md)<rt>ㄇ⼘ㄨ</rt></ruby> "thatch"
-39. <ruby>[茉](characters/茉.md)<rt>ㄇㄚㄊ</rt></ruby> "white jasmin"
+21. <ruby>[盂](characters/盂.md)<rt>ㄨ</rt></ruby> "cup"
+22. <ruby>[空](characters/空%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> "empty"
+23. <ruby>[穹](characters/穹.md)<rt>ㄎㄨㄫ</rt></ruby> "high"
+24. <ruby>[苔](characters/苔%20(char).md)<rt>ㄊㄛㄧ</rt></ruby> "moss"
+25. <ruby>[若](characters/若%20(char).md)<rt>ㄋ⼘</rt></ruby> "if"
+26. <ruby>[苦](characters/苦%20(char).md)<rt>ㄎㄛ</rt></ruby> "suffering"
+27. <ruby>[苺](characters/苺%20(char).md)<rt>ㄇㄚㄧ</rt></ruby> "strawberry"
+28. <ruby>[茎](characters/茎%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> "stem"
+29. <ruby>[䒦](characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> "grass floating on water"
+30. <ruby>[芽](characters/芽.md)<rt>ㄚ</rt></ruby> "bud"
+31. <ruby>[苑](characters/苑.md)<rt>ㄛㄋ</rt></ruby> "pasture"
+32. <ruby>[苗](characters/苗.md)<rt>ㄇ⼘ㄨ</rt></ruby> "seedling"
+33. <ruby>[苛](characters/苛.md)<rt>ㄏㄚ</rt></ruby> "harsh"
+34. <ruby>[英](characters/英.md)<rt>ㄝㄫ</rt></ruby> "hero"
+35. <ruby>[苹](characters/苹.md)<rt>ㄈㄝㄫ</rt></ruby> "apple"
+36. <ruby>[茂](characters/茂.md)<rt>ㄇㄛㄨ</rt></ruby> "overgrown"
+37. <ruby>[茅](characters/茅.md)<rt>ㄇ⼘ㄨ</rt></ruby> "thatch"
+38. <ruby>[茉](characters/茉.md)<rt>ㄇㄚㄊ</rt></ruby> "white jasmin"
 
 ## Datacheck
 ```dataview

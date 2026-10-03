@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-09
+date-last-perfect: 2026-10-03
 stroke_count: 1
 size: 2
 tags: [lookup]
@@ -8,7 +8,7 @@ tags: [lookup]
 
 ## Characters
 ### In Use
-- 4-1-1: <ruby>[[乙 (char)|乙]]<rt>ㄛㄊ</rt></ruby>
+- 4-1-1: <ruby>[[乙 (char)|乙]]<rt>ㄜㄊ</rt></ruby>
 - 4-1-4: <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby>
 
 ### Aliases

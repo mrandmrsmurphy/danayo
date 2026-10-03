@@ -1,16 +1,16 @@
 ---
 stroke_count: 23
-date-last-perfect: 2026-07-09
-size: 8
+date-last-perfect: 2026-10-03
+size: 9
 tags: [lookup]
 ---
 > [[Stroke]]
 
 ## Characters
 ### In Use
-- 1-8-15: <ruby>[[鑑]]<rt>ㄍㄚㄇ</rt></ruby>, <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby>
 - 1-3-20: <ruby>[[攫]]<rt>ㄈㄛㄎ</rt></ruby>
-- 1-11-12: <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby>, <ruby>[[鱏 (char)|鱏]]<rt>ㄏㄧㄇ</rt></ruby>
+- 1-8-15: <ruby>[[鑑]]<rt>ㄍㄚㄇ</rt></ruby>, <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby>
+- 1-11-12: <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby>, <ruby>[[鱏 (char)|鱏]]<rt>ㄏㄧㄇ</rt></ruby>, <ruby>[[麟]]<rt>ㄌㄧㄋ</rt></ruby>
 - 2-10-13: <ruby>[[驚]]<rt>ㄍ⼶ㄫ</rt></ruby>
 - 2-16-7: <ruby>[[讐]]<rt>ㄙㄨ</rt></ruby>
 - 3-4-19: <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby>

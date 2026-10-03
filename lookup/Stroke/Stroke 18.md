@@ -1,6 +1,6 @@
 ---
 stroke_count: 18
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-03
 size: 76
 tags:
   - lookup
@@ -32,6 +32,8 @@ tags:
 
 ### Redirect
 - 蟲
+
+### Aliases
 
 ### Forbidden
 - 鯎

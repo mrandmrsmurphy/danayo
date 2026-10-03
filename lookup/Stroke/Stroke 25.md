@@ -1,7 +1,7 @@
 ---
 size: 4
 stroke_count: 25
-date-last-perfect: 2026-07-09
+date-last-perfect: 2026-10-03
 tags: [lookup]
 ---
 > [[Stroke]]

@@ -1,6 +1,6 @@
 ---
 stroke_count: 4
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-03
 size: 89
 tags: [lookup]
 ---
@@ -9,7 +9,7 @@ tags: [lookup]
 ## Characters
 ### In Use
 - 1-1-3: <ruby>[[水 (char)|水]]<rt>ㄙㄨ</rt></ruby>, <ruby>[[心 (char)|心]]<rt>ㄙㄧㄇ</rt></ruby>
-- 1-2-2: <ruby>[[化]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[仇]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[刈 (char)|刈]]<rt>⼘ㄧ</rt></ruby>, <ruby>[[双 (char)|双]]<rt>ㄙ⺢ㄫ</rt></ruby>, <ruby>[仍](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby>, <ruby>[[切 (char)|切]]<rt>ㄑㄝㄊ</rt></ruby>, <ruby>[[仁]]<rt>ㄋㄧㄋ</rt></ruby>, <ruby>[[比 (char)|比]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[収]]<rt>ㄙㄨㄛ</rt></ruby>
+- 1-2-2: <ruby>[[化]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[仇]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[刈 (char)|刈]]<rt>⼘ㄧ</rt></ruby>, <ruby>[[双 (char)|双]]<rt>ㄙ⺢ㄫ</rt></ruby>, <ruby>[[切 (char)|切]]<rt>ㄑㄝㄊ</rt></ruby>, <ruby>[[仁]]<rt>ㄋㄧㄋ</rt></ruby>, <ruby>[[比 (char)|比]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[収]]<rt>ㄙㄨㄛ</rt></ruby>, <ruby>[[仍 (char)|仍]]<rt>ㄋㄧㄫ</rt></ruby>
 - 1-3-1: <ruby>[[孔 (char)|孔]]<rt>ㄎㄛㄫ</rt></ruby>, <ruby>[[引 (char)|引]]<rt>ㄧㄋ</rt></ruby>, <ruby>[[幻]]<rt>ㄏ⺢ㄋ</rt></ruby>
 - 2-1-3: <ruby>[[戸]]<rt>ㄏㄛ</rt></ruby>, <ruby>[[乏]]<rt>ㄅㄚㄆ</rt></ruby>, <ruby>[[元]]<rt>⼔ㄋ</rt></ruby>
 - 2-2-2: <ruby>[[兮 (char)|兮]]<rt>ㄏㄝㄧ</rt></ruby>, <ruby>[[允]]<rt>⼜ㄋ</rt></ruby>, <ruby>[[予]]<rt>⼄</rt></ruby>, <ruby>[[文]]<rt>ㄇㄨㄋ</rt></ruby>, <ruby>[[冗 (char)|冗]]<rt>ㄋ⼄ㄫ</rt></ruby>, <ruby>[[亢]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[支]]<rt>ㄐㄝ</rt></ruby>, <ruby>[[父]]<rt>ㄅㄨ</rt></ruby>, <ruby>[[公 (char)|公]]<rt>ㄍㄛㄫ</rt></ruby>, <ruby>[[分 (char)|分]]<rt>ㄅㄨㄋ</rt></ruby>, <ruby>[[今 (char)|今]]<rt>ㄍㄧㄇ</rt></ruby>, <ruby>[[卞]]<rt>ㄅ⼶ㄋ</rt></ruby>, <ruby>[[介]]<rt>ㄍ⼶</rt></ruby>, <ruby>[[欠 (char)|欠]]<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[[方]]<rt>ㄈㄚㄫ</rt></ruby>, <ruby>[[六 (char)|六]]<rt>ㄌㄨㄎ</rt></ruby>, <ruby>[[午]]<rt>ㄛ</rt></ruby>, <ruby>[[攴]]<rt>ㄆㄨㄎ</rt></ruby>
