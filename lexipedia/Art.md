@@ -151,6 +151,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[凱歌](../words/凱歌.md)<rt>ㄎㄚㄧㄍㄜ</rt></ruby>: triumphant song, victory song.
 - <ruby>[交響](../words/交響.md)<rt>ㄍ⼄ㄨㄏ⼘ㄫ</rt></ruby>: symphonic.
 - <ruby>[賛歌](../words/賛歌.md)<rt>ㄐㄚㄋㄍㄜ</rt></ruby>: hymn, song of praise.
+- <ruby>[賛美歌](../words/賛美歌.md)<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby>: a hymn, psalm — a religious song of praise, narrower than [[賛歌]].
 - <ruby>[楽譜](../words/楽譜.md)<rt>ㄌㄚㄎㄅㄛ</rt></ruby>: music score, manuscript.
 - <ruby>[鼓](../words/鼓.md)<rt>ㄍㄛ</rt></ruby>: drum; to play (an instrument).
 - <ruby>[壴](../words/壴.md)<rt>ㄊㄨㄛ</rt></ruby>: to drum — a revived archaic root (the shared ancestor behind 鼓/喜/嘉/彭/告/豈), reclaiming the verb sense its descendant 鼓 later specialized away from into a noun.
