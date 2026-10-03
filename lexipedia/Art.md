@@ -109,6 +109,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
+- <ruby>[筆順](../words/筆順.md)<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>: stroke order (the sequence in which a character's strokes are written).
 - <ruby>[長点](../words/長点.md)<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby>: long dot (calligraphy stroke; willow-leaf dot).
 - <ruby>[挑点](../words/挑点.md)<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby>: rising dot (calligraphy stroke).
 - <ruby>[懸針豎](../words/懸針豎.md)<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby>: hanging-needle vertical stroke, pointed at the bottom.
@@ -118,6 +119,12 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[平提](../words/平提.md)<rt>ㄅ⼶ㄫㄙㄝ</rt></ruby>: level flick (rising stroke).
 - <ruby>[斜提](../words/斜提.md)<rt>ㄙ⼘ㄙㄝ</rt></ruby>: slanting flick (rising stroke).
 - <ruby>[直撇](../words/直撇.md)<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby>: straight left-falling stroke.
+- <ruby>[平勒](../words/平勒.md)<rt>ㄅ⼶ㄫㄌㄜㄎ</rt></ruby>: level horizontal stroke (rule 30 of Huang Ziyuan's 九十二法).
+- <ruby>[左向鉤](../words/左向鉤.md)<rt>ㄐㄚㄏ⼘ㄫㄍㄛㄨ</rt></ruby>: left-facing hook (the hook that turns to the left).
+- <ruby>[瓜子点](../words/瓜子点.md)<rt>ㄍ⺢ㄐㄜㄉㄝㄇ</rt></ruby>: melon-seed dot (calligraphy stroke).
+- <ruby>[蘭葉撇](../words/蘭葉撇.md)<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby>: orchid-leaf left-falling stroke.
+- <ruby>[方頭捺](../words/方頭捺.md)<rt>ㄈㄚㄫㄊㄛㄨ·ㄋㄚㄊ</rt></ruby>: square-headed right-falling stroke.
+- <ruby>[圓頭捺](../words/圓頭捺.md)<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby>: round-headed right-falling stroke.
 - <ruby>[怪石](../words/怪石.md)<rt>ㄍ⺢ㄧㄙㄝㄎ</rt></ruby>: strange rock; figurative name of the dot stroke (Li Puguang).
 - <ruby>[玉案](../words/玉案.md)<rt>⼄ㄎ·ㄚㄋ</rt></ruby>: jade table; figurative name of the horizontal stroke.
 - <ruby>[鉄柱](../words/鉄柱.md)<rt>ㄊㄝㄊㄐㄨ</rt></ruby>: iron pillar; figurative name of the vertical stroke.

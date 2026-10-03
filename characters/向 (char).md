@@ -59,6 +59,7 @@ boundedness: 100
 - <ruby>[[方向]]<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby> "direction"
 - <ruby>[[傾向]]<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby> "tendency; inclination"
 - <ruby>[[向格]]<rt>ㄏ⼘ㄫㄍㄚㄎ</rt></ruby> "allative case"
+- <ruby>[[左向鉤]]<rt>ㄐㄚㄏ⼘ㄫㄍㄛㄨ</rt></ruby> "left-facing hook (calligraphy stroke)"
 
 ## Derived Characters
 - <ruby>[[尚 (char)|尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still, even more"

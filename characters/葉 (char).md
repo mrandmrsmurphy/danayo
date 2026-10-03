@@ -61,3 +61,5 @@ boundedness: 90
 - <ruby>[[葉]]<rt>⼄ㄆ</rt></ruby> "leaf" (stand-in for 葉)
 - <ruby>[[枝葉]]<rt>ㄐㄝ⼄ㄆ</rt></ruby> "branches and leaves; trivial details"
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
+- <ruby>[[蘭葉撇]]<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby> "orchid-leaf left-falling stroke (calligraphy stroke)"
+

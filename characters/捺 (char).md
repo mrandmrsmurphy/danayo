@@ -50,3 +50,6 @@ date-last-perfect: 2026-08-17
 
 ## Words
 - <ruby>[[捺]]<rt>ㄋㄚㄊ</rt></ruby> "right down stroke"
+- <ruby>[[方頭捺]]<rt>ㄈㄚㄫㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "square-headed right-falling stroke (calligraphy stroke)"
+- <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "round-headed right-falling stroke (calligraphy stroke)"
+

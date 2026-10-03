@@ -55,3 +55,5 @@ boundedness: 80
 - <ruby>[[筆記]]<rt>ㄆㄨㄊㄍㄧ</rt></ruby> "to take notes"
 - <ruby>[[筆画]]<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby> "stroke"
 - <ruby>[[鉛筆]]<rt>⼶ㄋㄆㄨㄊ</rt></ruby> "pencil"
+- <ruby>[[筆順]]<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby> "stroke order"
+

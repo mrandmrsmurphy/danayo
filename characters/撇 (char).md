@@ -53,4 +53,5 @@ date-last-perfect: 2026-08-15
 ## Words
 - <ruby>[[撇]]<rt>ㄆㄝㄊ</rt></ruby> "throw away"
 - <ruby>[[直撇]]<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby> "straight left-falling stroke (calligraphy stroke)"
+- <ruby>[[蘭葉撇]]<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby> "orchid-leaf left-falling stroke (calligraphy stroke)"
 

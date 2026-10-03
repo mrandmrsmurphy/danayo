@@ -56,4 +56,5 @@ date-last-perfect: 2026-08-18
 - <ruby>[[鉤]]<rt>ㄍㄛㄨ</rt></ruby> "hook; barb"
 - <ruby>[[戈鉤]]<rt>ㄍ⺢ㄍㄛㄨ</rt></ruby> "dagger-axe hook (calligraphy stroke)"
 - <ruby>[[臥鉤]]<rt>⺢ㄍㄛㄨ</rt></ruby> "lying hook (calligraphy stroke)"
+- <ruby>[[左向鉤]]<rt>ㄐㄚㄏ⼘ㄫㄍㄛㄨ</rt></ruby> "left-facing hook (calligraphy stroke)"
 
