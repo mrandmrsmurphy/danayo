@@ -1,24 +1,26 @@
 ---
 language: English
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-10-03
 ---
 # Typology
 ## 1. General Typological Profile
 
 Dan’a’yo is a **topic-prominent, predominantly isolating language** with **agglutinative layering in the functional domain** and **mixed headedness**: head-final in the nominal and adpositional domains, but **head-initial (VO) within the core verb phrase**.
 
+The description below is of the **Literary style** (書面体), the standard mode.  The Classical and Online styles differ where noted.
+
 More precisely:
 
 - **Morphology**: isolating core + agglutinative functional morphology
 - **Alignment**: discourse-driven (topic-prominent), not nominative–accusative or ergative in the usual sense
-- **Word order**: rigid **topic–comment**, internally **SVO** — the verb precedes its object (神創造世界 “God created the world”), while adjuncts and postpositional phrases precede the verb
-- **Marking type**: strongly **analytic**, with optional but systematic **postpositional case marking**
+- **Word order**: **topic–comment** in the Literary and Classical styles (Online style is SVO-dominant, and topic–comment is rare there), internally **SVO** — the verb precedes its object (神創造世界 “God created the world”), while adjuncts and postpositional phrases precede the verb
+- **Marking type**: strongly **analytic**, with systematic **postpositional case marking**: required in the Literary style, and dropped where context allows in the Classical and Online styles
 
 ## 2. Morphology
 
 ### 2.1 Core type
 
-Lexical items are **monosyllabic, discrete, and non-inflecting**, corresponding closely to characters. There are:
+Every character is one syllable with one fixed reading, and each is a **discrete, non-inflecting** morpheme.  **Words are not monosyllabic**: some single-character words exist, but they are vastly outnumbered by words of two or more characters.  There are:
 
 - no clitics
 - no phonological fusion across word boundaries
@@ -63,17 +65,19 @@ The system is **rigidly lexicalized** in formal usage, with four major 実詞 (c
 There is **no zero-derivation across categories** in standard language.  
 Informal speech permits drift, but it is not grammatically licensed.
 
+There is one managed exception, as in Japanese: an adverbial noun (副用名詞) such as 今日 “today” may be the **topic** or the **frame** of a clause with no case or adverbial marking.  If it is used to modify the verb of the main clause, however, it needs marking.
+
 This differs from Classical Chinese, where category fluidity is common, and aligns more with **modern Japanese/Korean rigidity**.
 
 ## 4. Syntax: Topic–Comment Structure
 
 ### 4.1 Core structure
 
-All clauses follow:
+All clauses follow, in the Literary and Classical styles:
 
 > **Topic + Comment**
 
-This is the **primary syntactic principle**, not subject–predicate.
+This is the **primary syntactic principle**, not subject–predicate.  In the Online style SVO order dominates and topics are often dropped.
 
 ### 4.2 Subject vs topic
 
@@ -112,6 +116,10 @@ This yields a **mixed system**:
     
 - non-core roles are overtly marked
 
+### 4.4 Verbal topics
+
+An eventive or stative cannot be a topic as it stands.  It must first be nominalized with **-事** or **-物** (a stative takes -物): 保持事 平常 “Maintaining is common.”
+
 ## 5. Case and Postpositional System
 
 ### 5.1 Structure
@@ -125,8 +133,10 @@ All relational markers are:
 
 ### 5.2 Inventory behavior
 
-Examples include:
+The twelve case particles are:
 
+- 之 (genitive)
+    
 - 于 (animate dative)
     
 - 於 (locative)
@@ -135,14 +145,26 @@ Examples include:
     
 - 共 (comitative)
     
-- etc.
+- 比 (comparative)
+    
+- 由 (ablative)
+    
+- 至 (terminative)
+    
+- 似 (similative)
+    
+- 哉 (vocative)
+    
+- 向 (allative)
+    
+- 様 (adverbial)
     
 
 ### 5.3 Constraints
 
-- **No case stacking** directly
+- **Case particles never stack**: a noun phrase takes at most one, and nothing attaches after it, not a second case particle and not a restrictive or focus particle (只, 且, 就)
     
-- stacking requires **nominalization (e.g., via 之)**
+- where Japanese or Korean would stack particles, Dan’a’yo **restructures the phrase** instead
     
 
 ### 5.4 Typological classification
@@ -175,7 +197,9 @@ This is a **postpositional case-marking system**, typologically similar to:
     
     - **obligatorily ordered**
         
-    - **post-verbal (suffixal)** or pre-verbal depending on category
+    - **suffixal** for tense and aspect: -已 (perfective), -未 (negative perfective), -将 (prospective) and -中 (continuous)
+        
+    - **prefixal** for mood and the verbal prefixes: 可–, 不– (mood), 有–/無– (experiential) and 在–/莫– (progressive)
         
 
 ### 6.3 No serial verbs
@@ -235,7 +259,7 @@ Dan’a’yo has **mixed headedness**: head-final in the nominal and adpositiona
 
 - **Numeral + classifier phrases follow the noun**
     
-- **TAM markers follow the verb**
+- **Tense and aspect markers follow the verb**, while mood markers and the verbal prefixes precede it
     
 
 This produces a **mixed but rule-governed system**, not free variation — head-final for adjuncts and modification, head-initial for the core predicate–argument relation.
@@ -247,7 +271,7 @@ This produces a **mixed but rule-governed system**, not free variation — head-
 
 - Pre-nominal
     
-- Marked with **之**
+- Marked with **之**, the tool of adnominalization (modifier before head)
     
 - Fully integrated into NP structure
     
@@ -276,7 +300,7 @@ This is a **structurally explicit coordination system**, unlike Classical Chines
     
 - Focus is not separately grammaticalized
     
-- Particles like 只 (“only”), 且 (“also”) operate within topic/comment structure
+- Four topic-retaining particles operate within the topic/comment structure: 只 (“only”, exclusive), 且 (“also”, additional), 公 (politeness suffix) and 被 (passive agent)
     
 
 This yields a system where:
@@ -323,7 +347,7 @@ From about 1000 onward, imagine that the Sinosphere never gives up on a shared c
 The speakers do not natively speak it. They bring into it:
 - Korean topic marking and clause-final organization
 - Japanese modifier-before-head order and rigid postpositional parsing
-- Cantonese preservation of compact monosyllabic lexical rhythm and topic prominence
+- Cantonese preservation of compact monosyllabic morpheme rhythm and topic prominence
 - Vietnamese analytic grammar and tolerance for highly isolating structure
 
 The result is a language that remains visibly Classical in lexicon and script, but whose syntax is slowly **domesticated by East Asian reading practices**.
@@ -462,7 +486,7 @@ A character-based koine reading is repeatedly re-learned from tables, primers, r
 
 Japanese and Korean pressure would strongly favor clear syllable boundaries.  
 Vietnamese pressure would favor analytic clarity and discrete syllables.  
-Cantonese pressure would support preservation of coda discipline and monosyllabic lexical integrity.
+Cantonese pressure would support preservation of coda discipline and monosyllabic morpheme integrity.
 
 So CGVC is not just a phonological outcome. It is a **pedagogical outcome**.
 
@@ -589,7 +613,7 @@ Third, the Vietnamese layer (chữ Nôm, đọc Hán văn) contributes **analyti
     
 
 ## Southern China
-Fourth, the southern Sinitic layer (drawing on Cantonese-like tendencies) preserves **monosyllabic lexical integrity and topic prominence**. That prevents the system from drifting toward polysyllabic erosion or heavy morphology. It also keeps topic-comment natural rather than marked.
+Fourth, the southern Sinitic layer (drawing on Cantonese-like tendencies) preserves **monosyllabic morpheme integrity and topic prominence**. That prevents the system from drifting toward polysyllabic erosion or heavy morphology. It also keeps topic-comment natural rather than marked.
 
 When these operate together over a millennium, you get a very specific trajectory:
 - Classical flexibility becomes pedagogically intolerable

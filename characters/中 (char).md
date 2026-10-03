@@ -49,7 +49,7 @@ boundedness: 80
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> "-ing; progressive; in the midst of" (stand-in for 中)
+- <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> "-ing; continuous; in the midst of" (stand-in for 中)
 - <ruby>[[人中]]<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby> "philtrum"
 - <ruby>[[中子]]<rt>ㄐㄨㄫㄐㄜ</rt></ruby> "middle son"
 - <ruby>[[中庸]]<rt>ㄐㄨㄫ⼄ㄫ</rt></ruby> "moderation; neutrality"
