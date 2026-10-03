@@ -50,3 +50,5 @@ date-last-perfect: 2026-08-19
 
 ## Words
 - <ruby>[[蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"
+- <ruby>[[蟹爪]]<rt>ㄏ⼘ㄧㄐ⺢ㄨ</rt></ruby> "crab claw"
+

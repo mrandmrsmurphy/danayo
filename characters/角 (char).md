@@ -65,3 +65,5 @@ boundedness: 100
 - <ruby>[[五角形]]<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby> "pentagon"
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
 - <ruby>[[八角]]<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby> "octagon; star anise"
+- <ruby>[[犀角]]<rt>ㄙㄝㄧㄍㄛㄎ</rt></ruby> "rhinoceros horn"
+

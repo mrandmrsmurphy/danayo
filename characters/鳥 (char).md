@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[鳥籠]]<rt>ㄑㄛㄨㄌㄛㄫ</rt></ruby> "birdcage"
 - <ruby>[[鳥嘴]]<rt>ㄑㄛㄨㄑㄨㄧ</rt></ruby> "beak, bill"
 - <ruby>[[鳥巣]]<rt>ㄑㄛㄨㄐㄚㄨ</rt></ruby> "nest, bird's nest"
+- <ruby>[[鳥啄]]<rt>ㄑㄛㄨ·ㄊㄛㄎ</rt></ruby> "bird pecking"
 
 ## Chengyu
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"

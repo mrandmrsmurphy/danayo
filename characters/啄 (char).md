@@ -52,3 +52,5 @@ boundedness: 65
 ## Words
 - <ruby>[[啄]]<rt>ㄊㄛㄎ</rt></ruby> "peck at" (stand-in for 啄)
 - <ruby>[[啄木鳥]]<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby> "woodpecker"
+- <ruby>[[鳥啄]]<rt>ㄑㄛㄨ·ㄊㄛㄎ</rt></ruby> "bird pecking"
+

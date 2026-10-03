@@ -118,6 +118,14 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[平提](../words/平提.md)<rt>ㄅ⼶ㄫㄙㄝ</rt></ruby>: level flick (rising stroke).
 - <ruby>[斜提](../words/斜提.md)<rt>ㄙ⼘ㄙㄝ</rt></ruby>: slanting flick (rising stroke).
 - <ruby>[直撇](../words/直撇.md)<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby>: straight left-falling stroke.
+- <ruby>[怪石](../words/怪石.md)<rt>ㄍ⺢ㄧㄙㄝㄎ</rt></ruby>: strange rock; figurative name of the dot stroke (Li Puguang).
+- <ruby>[玉案](../words/玉案.md)<rt>⼄ㄎ·ㄚㄋ</rt></ruby>: jade table; figurative name of the horizontal stroke.
+- <ruby>[鉄柱](../words/鉄柱.md)<rt>ㄊㄝㄊㄐㄨ</rt></ruby>: iron pillar; figurative name of the vertical stroke.
+- <ruby>[蟹爪](../words/蟹爪.md)<rt>ㄏ⼘ㄧㄐ⺢ㄨ</rt></ruby>: crab claw; figurative name of the hook stroke.
+- <ruby>[虎牙](../words/虎牙.md)<rt>ㄏㄛㄚ</rt></ruby>: tiger fang; figurative name of the rising stroke.
+- <ruby>[犀角](../words/犀角.md)<rt>ㄙㄝㄧㄍㄛㄎ</rt></ruby>: rhinoceros horn; figurative name of the curved stroke.
+- <ruby>[鳥啄](../words/鳥啄.md)<rt>ㄑㄛㄨ·ㄊㄛㄎ</rt></ruby>: bird pecking; figurative name of the left-falling stroke.
+- <ruby>[金刀](../words/金刀.md)<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby>: golden blade; figurative name of the right-falling stroke.
 - <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>: a print (picture copied from painting/photography).
 - <ruby>[木版](../words/木版.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>: printing block.
 - <ruby>[横幅](../words/横幅.md)<rt>ㄏ⺢ㄫㄈㄨㄎ</rt></ruby>: banner, horizontal scroll.

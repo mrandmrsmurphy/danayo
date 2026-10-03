@@ -50,3 +50,5 @@ boundedness: 75
 ## Words
 - <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"
 - <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
+- <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"
+

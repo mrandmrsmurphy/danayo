@@ -50,6 +50,7 @@ boundedness: 75
 ## Words
 - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby> "tiger" (stand-in for 虎)
 - <ruby>[[虎鯨]]<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby> "orca; killer whale"
+- <ruby>[[虎牙]]<rt>ㄏㄛㄚ</rt></ruby> "canine tooth; fang"
 
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"

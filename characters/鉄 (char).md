@@ -65,6 +65,7 @@ boundedness: 75
 - <ruby>[[鉄砧]]<rt>ㄊㄝㄊㄉㄨㄇ</rt></ruby> "anvil"
 - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby> "railroad"
 - <ruby>[[鋼鉄]]<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby> "steel"
+- <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"

@@ -51,5 +51,7 @@ boundedness: 65
 - <ruby>[[玉璽]]<rt>⼄ㄎㄙㄝ</rt></ruby> "royal seal; emperor's seal"
 - <ruby>[[碧玉]]<rt>ㄅ⼶ㄎ·⼄ㄎ</rt></ruby> "jasper"
 - <ruby>[[紅玉]]<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby> "ruby"
+- <ruby>[[玉案]]<rt>⼄ㄎ·ㄚㄋ</rt></ruby> "jade table; a desk of jade"
+
 ## Chengyu
 - <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"
