@@ -76,6 +76,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[通知](../words/通知.md)<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby>: to notify, inform.
 - <ruby>[稟告](../words/稟告.md)<rt>ㄅㄨㄇㄍㄚㄨ</rt></ruby>: to report to a superior, inform — a hierarchical register.
 - <ruby>[申告](../words/申告.md)<rt>ㄙㄝㄋㄍㄚㄨ</rt></ruby>: to report, a declaration — the bureaucratic/legal register (e.g. a tax declaration).
+- <ruby>[放送局](../words/放送局.md)<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby>: a broadcasting station or company — the institution that transmits radio or television to a public audience.
 
 ### Discussing & Arguing
 

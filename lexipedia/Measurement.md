@@ -51,6 +51,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[比例](../words/比例.md)<rt>ㄅㄧㄜㄌㄝ</rt></ruby>: a ratio, proportion — an undocumented near-duplicate of [[比率]]; see Semantic Range Notes.
 - <ruby>[幅度](../words/幅度.md)<rt>ㄈㄨㄎㄉㄛ</rt></ruby>: a range, extent, scope.
 - <ruby>[規模](../words/規模.md)<rt>ㄍㄨㄧㄇㄛ</rt></ruby>: scale, scope — the size or magnitude of an undertaking as a whole (大規模, "large-scale"), distinct from [[幅度]]'s "range" between two values.
+- <ruby>[指標](../words/指標.md)<rt>ㄐㄧㄜㄅ⼄</rt></ruby>: an indicator, index, metric — a quantified measure used to track a condition, as against [[目標]] (a target) and [[標準]] (a standard).
 
 ## Measure Words (量詞) — Counters and Classifiers
 

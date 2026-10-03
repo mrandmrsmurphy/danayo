@@ -50,6 +50,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[筒](../words/筒.md)<rt>ㄉㄛㄫ</rt></ruby>: a tube.
 
 **Not yet coined**: "pyramid," "heap," and "ribbon" all have no dedicated Dan'a'yo word yet.
+- <ruby>[斜辺](../words/斜辺.md)<rt>ㄙ⼘ㄅㄝㄋ</rt></ruby>: a hypotenuse — the side of a right triangle opposite the right angle ([[直角]]), the longest of the three sides of a [[三角形]].
 
 ### Linear & Elongated Objects
 
