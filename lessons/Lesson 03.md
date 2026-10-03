@@ -1,5 +1,6 @@
 ---
 language: English
+date-last-perfect: 2026-10-03
 ---
 > [[lesson-outline]]
 
@@ -41,7 +42,7 @@ For type 4, the second number is the total strokes.  The third number tells you 
 ### Enclosed (3)
 - 国 = 囗 (3) around 玉 (5) = **3-3-5**
 - 問 = 門 (8) around 口 (3) = **3-8-3**
-- 風 = 几 (2) around 虫 (7) = **3-2-7**
+- 風 = 几 (2) around the inside (7) = **3-2-7**
 
 ### Other (4)
 - 中 has 4 strokes, with a line through the middle = **4-4-3**
@@ -65,22 +66,22 @@ Some characters have more than one form.  The same word can be written in an old
 
 Dan'a'yo is not written in Traditional or Simplified.  It chooses one form for each character, and treats the other forms as **aliases**: you will recognize them when you meet them, but the form in this course is the one to learn and write.
 
-| Dan'a'yo form | Strokes | Other form | Strokes |
-|---|---|---|---|
-| 国 | 8 | 國 | 11 |
-| 気 | 6 | 氣 | 10 |
-| 学 | 8 | 學 | 16 |
-| 数 | 13 | 數 | 15 |
-| 声 | 7 | 聲 | 17 |
-| 与 | 3 | 與 | 14 |
-| 見 | 7 | 见 | 4 |
+| Dan'a'yo form | Strokes | Other form |
+|---|---|---|
+| 国 | 8 | 國 |
+| 気 | 6 | 氣 |
+| 学 | 8 | 學 |
+| 数 | 13 | 數 |
+| 声 | 7 | 聲 |
+| 与 | 3 | 與 |
+| 見 | 7 | 见 |
 
-The strokes matter.  A different form can have a different shape and a different number of strokes, and so a different SKIP code.  Always count the Dan'a'yo form.
+The strokes matter.  A different form can have a different shape and a different number of strokes, and so a different SKIP code.  Always count the Dan'a'yo form, the one in the first column.
 
 ## Radicals
 A **radical** is a part that appears again and again inside characters.  Old dictionaries were organized by radical: you found the radical, counted the remaining strokes, and looked in that section.  There are 214 of them.  You do not need to learn them all.  Six common ones will start you off.
 
-| Radical | Meaning | Where it sits | In this lesson |
+| Radical | Meaning | Where it sits | Examples |
 |---|---|---|---|
 | 口 | mouth | anywhere | 君 名 問 和 右 |
 | 人 (亻) | person | left | 今 以 使 何 作 |
@@ -96,7 +97,7 @@ A character is a shape.  A word is something you say and understand.  Many chara
 
 父 is not a word.  You cannot say ㄅㄨ by itself and be understood.  The word for "father" is 父親, ㄅㄨㄑㄧㄋ.  You are not responsible for 親 yet.  Learn only that 父 never appears alone, and that the meaning "father" is carried by the whole word 父親.  The same is true of 母, which lives in 母親, ㄇㄛㄨㄑㄧㄋ.
 
-| Character | Not a word alone | It appears in | Sound |
+| Character | Meaning | It appears in | Sound |
 |---|---|---|---|
 | 父 | father | 父親 | ㄅㄨㄑㄧㄋ |
 | 母 | mother | 母親 | ㄇㄛㄨㄑㄧㄋ |
@@ -118,12 +119,12 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>此<rt>ㄑㄜ</rt></ruby> - this (6 strokes, 1-4-2)
 - <ruby>何<rt>ㄏㄚ</rt></ruby> - what (7 strokes, 1-2-5)
 - <ruby>作<rt>ㄐㄚㄎ</rt></ruby> - make, do (7 strokes, 1-2-5)
-- <ruby>対<rt>ㄉㄛㄧ</rt></ruby> - face, oppose (7 strokes, 1-4-3)
-- <ruby>使<rt>ㄙㄧ</rt></ruby> - send, envoy (8 strokes, 1-2-6)
+- <ruby>対<rt>ㄉㄛㄧ</rt></ruby> - oppose (7 strokes, 1-4-3)
+- <ruby>使<rt>ㄙㄧ</rt></ruby> - envoy (8 strokes, 1-2-6)
 - <ruby>彼<rt>ㄅㄜ</rt></ruby> - yon (8 strokes, 1-3-5)
 - <ruby>於<rt>ㄛ</rt></ruby> - in, at (8 strokes, 1-4-4)
-- <ruby>非<rt>ㄈㄧ</rt></ruby> - is not (8 strokes, 1-4-4)
-- <ruby>所<rt>ㄙㄜ</rt></ruby> - that which (8 strokes, 1-4-4)
+- <ruby>非<rt>ㄈㄧ</rt></ruby> - ain't (8 strokes, 1-4-4)
+- <ruby>所<rt>ㄙㄜ</rt></ruby> - -ee (8 strokes, 1-4-4)
 - <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby> - bright (8 strokes, 1-4-4)
 - <ruby>門<rt>ㄇㄛㄋ</rt></ruby> - gate (8 strokes, 1-4-4)
 - <ruby>林<rt>ㄌㄧㄇ</rt></ruby> - grove (8 strokes, 1-4-4)
@@ -132,13 +133,13 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>後<rt>ㄏㄨㄛ</rt></ruby> - after (9 strokes, 1-3-6)
 - <ruby>海<rt>ㄏㄚㄧ</rt></ruby> - sea (9 strokes, 1-3-6)
 - <ruby>持<rt>ㄉㄧ</rt></ruby> - hold (9 strokes, 1-3-6)
-- <ruby>相<rt>ㄙㄚㄫ</rt></ruby> - each other (9 strokes, 1-4-5)
+- <ruby>相<rt>ㄙㄚㄫ</rt></ruby> - mutual (9 strokes, 1-4-5)
 - <ruby>秋<rt>ㄑㄨㄛ</rt></ruby> - autumn, fall (9 strokes, 1-5-4)
 - <ruby>流<rt>ㄌ⼜</rt></ruby> - flow (10 strokes, 1-3-7)
 - <ruby>酒<rt>ㄐㄨㄛ</rt></ruby> - alcohol (10 strokes, 1-3-7)
 - <ruby>深<rt>ㄙㄧㄇ</rt></ruby> - deep (11 strokes, 1-3-8)
 - <ruby>教<rt>ㄍ⼄ㄨ</rt></ruby> - teach (11 strokes, 1-7-4)
-- <ruby>都<rt>ㄉㄛ</rt></ruby> - capital (11 strokes, 1-8-3)
+- <ruby>都<rt>ㄉㄛ</rt></ruby> - capital, metropolis (11 strokes, 1-8-3)
 - <ruby>動<rt>ㄉㄛㄫ</rt></ruby> - move (11 strokes, 1-9-2)
 - <ruby>軽<rt>ㄎㄧㄫ</rt></ruby> - light, not heavy (12 strokes, 1-7-5)
 - <ruby>朝<rt>ㄐㄚㄨ</rt></ruby> - morning (12 strokes, 1-8-4)
@@ -152,16 +153,16 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 ### Top and bottom (SKIP 2): 49 characters
 - <ruby>分<rt>ㄅㄨㄋ</rt></ruby> - divide (4 strokes, 2-2-2)
 - <ruby>去<rt>ㄎ⼄</rt></ruby> - go (5 strokes, 2-3-2)
-- <ruby>号<rt>ㄏㄚㄨ</rt></ruby> - sign, number (5 strokes, 2-3-2)
+- <ruby>号<rt>ㄏㄚㄨ</rt></ruby> - symbol (5 strokes, 2-3-2)
 - <ruby>百<rt>ㄅㄚㄎ</rt></ruby> - hundred (6 strokes, 2-2-4)
 - <ruby>而<rt>ㄋㄧ</rt></ruby> - and (6 strokes, 2-2-4)
 - <ruby>年<rt>ㄋㄝㄋ</rt></ruby> - year (6 strokes, 2-2-4)
 - <ruby>会<rt>ㄏ⼔</rt></ruby> - meet, gather (6 strokes, 2-2-4)
-- <ruby>至<rt>ㄐㄧㄜ</rt></ruby> - until, to (6 strokes, 2-3-3)
+- <ruby>至<rt>ㄐㄧㄜ</rt></ruby> - until (6 strokes, 2-3-3)
 - <ruby>名<rt>ㄇㄧㄫ</rt></ruby> - name (6 strokes, 2-3-3)
 - <ruby>多<rt>ㄉㄜ</rt></ruby> - many (6 strokes, 2-3-3)
 - <ruby>当<rt>ㄉㄚㄫ</rt></ruby> - while (6 strokes, 2-3-3)
-- <ruby>先<rt>ㄙㄝㄋ</rt></ruby> - before, first (6 strokes, 2-4-2)
+- <ruby>先<rt>ㄙㄝㄋ</rt></ruby> - prior (6 strokes, 2-4-2)
 - <ruby>弟<rt>ㄉㄝ</rt></ruby> - younger brother (7 strokes, 2-2-5)
 - <ruby>声<rt>ㄙㄧㄫ</rt></ruby> - vocalize, emit sound (7 strokes, 2-3-4)
 - <ruby>足<rt>ㄐㄛㄎ</rt></ruby> - foot (7 strokes, 2-3-4)
@@ -175,15 +176,15 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>空<rt>ㄎㄛㄫ</rt></ruby> - empty (8 strokes, 2-3-5)
 - <ruby>長<rt>ㄐㄚㄫ</rt></ruby> - long (8 strokes, 2-5-3)
 - <ruby>学<rt>ㄏㄚㄎ</rt></ruby> - learn (8 strokes, 2-5-3)
-- <ruby>其<rt>ㄍㄜ</rt></ruby> - that, its (8 strokes, 2-6-2)
+- <ruby>其<rt>ㄍㄜ</rt></ruby> - this (8 strokes, 2-6-2)
 - <ruby>南<rt>ㄋㄚㄇ</rt></ruby> - south (9 strokes, 2-2-7)
 - <ruby>急<rt>ㄍㄧㄆ</rt></ruby> - quick, urgent (9 strokes, 2-2-7)
 - <ruby>前<rt>ㄐㄝㄋ</rt></ruby> - front, before (9 strokes, 2-3-6)
 - <ruby>草<rt>ㄑㄚㄨ</rt></ruby> - grass (9 strokes, 2-3-6)
 - <ruby>是<rt>ㄙㄝ</rt></ruby> - is (9 strokes, 2-4-5)
-- <ruby>皆<rt>ㄍ⼶</rt></ruby> - all, every (9 strokes, 2-5-4)
+- <ruby>皆<rt>ㄍ⼶</rt></ruby> - every (9 strokes, 2-5-4)
 - <ruby>春<rt>ㄑㄨㄋ</rt></ruby> - springtime (9 strokes, 2-5-4)
-- <ruby>発<rt>ㄈㄚㄊ</rt></ruby> - send out (9 strokes, 2-5-4)
+- <ruby>発<rt>ㄈㄚㄊ</rt></ruby> - issue forth, discharge (9 strokes, 2-5-4)
 - <ruby>思<rt>ㄙㄚ</rt></ruby> - think (9 strokes, 2-5-4)
 - <ruby>高<rt>ㄍㄚㄨ</rt></ruby> - high (10 strokes, 2-2-8)
 - <ruby>夏<rt>ㄏ⼘</rt></ruby> - summer (10 strokes, 2-2-8)
@@ -192,7 +193,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>章<rt>ㄐㄚㄫ</rt></ruby> - chapter (11 strokes, 2-2-9)
 - <ruby>魚<rt>⼄</rt></ruby> - fish (11 strokes, 2-2-9)
 - <ruby>黄<rt>ㄏ⺢ㄫ</rt></ruby> - yellow (11 strokes, 2-4-7)
-- <ruby>無<rt>ㄇㄜ</rt></ruby> - lack, without (12 strokes, 2-2-10)
+- <ruby>無<rt>ㄇㄜ</rt></ruby> - lack (12 strokes, 2-2-10)
 - <ruby>等<rt>ㄉㄨㄫ</rt></ruby> - etc., rank (12 strokes, 2-6-6)
 - <ruby>雲<rt>ㄨㄋ</rt></ruby> - cloud (12 strokes, 2-8-4)
 - <ruby>意<rt>ㄜ</rt></ruby> - significance, meaning (13 strokes, 2-2-11)
@@ -202,21 +203,21 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 
 ### Enclosed (SKIP 3): 25 characters
 - <ruby>乃<rt>ㄋㄚㄧ</rt></ruby> - but (2 strokes, 3-1-1)
-- <ruby>万<rt>ㄇㄛㄋ</rt></ruby> - ten thousand (3 strokes, 3-2-1)
+- <ruby>万<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand (3 strokes, 3-2-1)
 - <ruby>可<rt>ㄎㄜ</rt></ruby> - can (5 strokes, 3-2-3)
 - <ruby>用<rt>⼄ㄫ</rt></ruby> - use (5 strokes, 3-2-3)
 - <ruby>右<rt>⼜</rt></ruby> - right (direction) (5 strokes, 3-2-3)
 - <ruby>左<rt>ㄐㄚ</rt></ruby> - left (5 strokes, 3-2-3)
 - <ruby>有<rt>⼜</rt></ruby> - have (6 strokes, 3-2-4)
 - <ruby>在<rt>ㄐㄚㄧ</rt></ruby> - exist (6 strokes, 3-2-4)
-- <ruby>気<rt>ㄎㄧㄜ</rt></ruby> - spirit, feeling (6 strokes, 3-4-2)
+- <ruby>気<rt>ㄎㄧㄜ</rt></ruby> - feeling (6 strokes, 3-4-2)
 - <ruby>近<rt>ㄍㄧㄋ</rt></ruby> - near (7 strokes, 3-3-4)
 - <ruby>君<rt>ㄍㄨㄋ</rt></ruby> - you (7 strokes, 3-4-3)
 - <ruby>国<rt>ㄍㄛㄎ</rt></ruby> - nation (8 strokes, 3-3-5)
 - <ruby>或<rt>ㄏㄛㄎ</rt></ruby> - or, perhaps (8 strokes, 3-4-4)
 - <ruby>風<rt>ㄈㄨㄫ</rt></ruby> - wind (9 strokes, 3-2-7)
-- <ruby>度<rt>ㄉㄛ</rt></ruby> - degree, times (9 strokes, 3-3-6)
-- <ruby>哉<rt>ㄐㄚㄧ</rt></ruby> - (exclamation, "O!") (9 strokes, 3-6-3)
+- <ruby>度<rt>ㄉㄛ</rt></ruby> - degree, manner (9 strokes, 3-3-6)
+- <ruby>哉<rt>ㄐㄚㄧ</rt></ruby> - O (9 strokes, 3-6-3)
 - <ruby>通<rt>ㄊㄛㄫ</rt></ruby> - pass through, communicate (10 strokes, 3-3-7)
 - <ruby>病<rt>ㄅ⼶ㄫ</rt></ruby> - sickness (10 strokes, 3-5-5)
 - <ruby>馬<rt>ㄇㄚ</rt></ruby> - horse (10 strokes, 3-6-4)
@@ -228,9 +229,9 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>遠<rt>ㄛㄋ</rt></ruby> - far (13 strokes, 3-3-10)
 
 ### Other (SKIP 4): 24 characters
-- <ruby>于<rt>ㄨ</rt></ruby> - to (marks the receiver) (3 strokes, 4-3-1)
-- <ruby>已<rt>ㄜ</rt></ruby> - already (3 strokes, 4-3-1)
-- <ruby>也<rt>⼘</rt></ruby> - as for (emphasis) (3 strokes, 4-3-2)
+- <ruby>于<rt>ㄨ</rt></ruby> - to, \<dative> (3 strokes, 4-3-1)
+- <ruby>已<rt>ㄜ</rt></ruby> - -ed (3 strokes, 4-3-1)
+- <ruby>也<rt>⼘</rt></ruby> - as for, EMPHASIS (3 strokes, 4-3-2)
 - <ruby>千<rt>ㄑㄝㄋ</rt></ruby> - thousand (3 strokes, 4-3-3)
 - <ruby>之<rt>ㄊㄧ</rt></ruby> - 's, which (3 strokes, 4-3-4)
 - <ruby>与<rt>⼄</rt></ruby> - and (3 strokes, 4-3-4)
@@ -242,14 +243,14 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>生<rt>ㄙㄚㄫ</rt></ruby> - life (5 strokes, 4-5-2)
 - <ruby>出<rt>ㄑㄨㄊ</rt></ruby> - exit (5 strokes, 4-5-2)
 - <ruby>未<rt>ㄇㄨㄧ</rt></ruby> - not yet (5 strokes, 4-5-3)
-- <ruby>乎<rt>ㄏㄛ</rt></ruby> - (marks a question) (5 strokes, 4-5-3)
+- <ruby>乎<rt>ㄏㄛ</rt></ruby> - did, do (5 strokes, 4-5-3)
 - <ruby>死<rt>ㄙㄧㄜ</rt></ruby> - die (6 strokes, 4-6-1)
 - <ruby>両<rt>ㄌ⼘ㄫ</rt></ruby> - both (6 strokes, 4-6-1)
 - <ruby>里<rt>ㄌㄧ</rt></ruby> - village (7 strokes, 4-7-1)
 - <ruby>我<rt>ㄚ</rt></ruby> - I, me (7 strokes, 4-7-3)
 - <ruby>車<rt>ㄑ⺢</rt></ruby> - cart, car (7 strokes, 4-7-3)
 - <ruby>雨<rt>ㄨ</rt></ruby> - rain (8 strokes, 4-8-1)
-- <ruby>事<rt>ㄐㄧ</rt></ruby> - thing, matter (8 strokes, 4-8-3)
+- <ruby>事<rt>ㄐㄧ</rt></ruby> - thing, action (8 strokes, 4-8-3)
 - <ruby>東<rt>ㄉㄛㄫ</rt></ruby> - east (8 strokes, 4-8-3)
 - <ruby>重<rt>ㄑㄛㄫ</rt></ruby> - heavy (9 strokes, 4-9-2)
 
@@ -386,20 +387,6 @@ Count the strokes of each character.
 > 8. 農 = **13**
 > 9. 気 = **6**
 > 10. 学 = **8**
-
-#### C2. Which has fewer?
-Both forms mean the same.  Which has fewer strokes?
-
-1. 国 or 國
-2. 気 or 氣
-3. 学 or 學
-4. 見 or 见
-
->[!answer]- Answers
-> 1. 国 (8 strokes, against 11)
-> 2. 気 (6 strokes, against 10)
-> 3. 学 (8 strokes, against 16)
-> 4. 见 (4 strokes, against 7)
 
 ### D. Remember it
 
