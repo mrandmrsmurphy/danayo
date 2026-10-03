@@ -15,7 +15,7 @@ middle_chinese_final: ɨu
 stroke_count: 6
 radical: 巛
 skip_number: 1-2-4
-grade_level: "5"
+grade_level: "3"
 pos: 名詞
 english:
   - state

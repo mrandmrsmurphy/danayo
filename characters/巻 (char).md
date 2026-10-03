@@ -12,7 +12,7 @@ vietnamese:
 middle_chinese_initial: g
 middle_chinese_final: ɣiuᴇn
 stroke_count: 9
-radical: 已
+radical: 己
 skip_number: 2-6-3
 grade_level: "3"
 pos: 事詞

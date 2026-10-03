@@ -57,6 +57,9 @@ boundedness: 90
 - <ruby>[[第一]]<rt>ㄉㄝㄧㄧㄊ</rt></ruby> "first"
 - <ruby>[[第二]]<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby> "second"
 - <ruby>[[第三]]<rt>ㄉㄝㄧㄙㄚㄇ</rt></ruby> "third"
+- <ruby>[[第四]]<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby> "fourth"
+- <ruby>[[第五]]<rt>ㄉㄝㄧㄛ</rt></ruby> "fifth"
+- <ruby>[[第六]]<rt>ㄉㄝㄧㄌㄨㄎ</rt></ruby> "sixth"
 
 ## Links
 ![[nav/Numerals]]

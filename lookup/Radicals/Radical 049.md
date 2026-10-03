@@ -1,5 +1,5 @@
 ---
-size: 2
+size: 5
 radical: 己
 date-last-perfect: 2026-07-08
 tags: [lookup]
@@ -11,7 +11,10 @@ tags: [lookup]
 ## Characters
 ### Used
 1. <ruby>[[己]]<rt>ㄍㄧ</rt></ruby> - self
-2. <ruby>[[巷]]<rt>ㄏㄚㄫ</rt></ruby> - alley, lane
+2. <ruby>[[已 (char)|已]]<rt>ㄜ</rt></ruby> - -ed
+3. <ruby>[[巴 (char)|巴]]<rt>ㄆㄚ</rt></ruby> - tomoe
+4. <ruby>[[巷]]<rt>ㄏㄚㄫ</rt></ruby> - alley, lane
+5. <ruby>[[巻 (char)|巻]]<rt>ㄍ⼔ㄋ</rt></ruby> - roll, roll up
 
 ## Data check
 ```dataview

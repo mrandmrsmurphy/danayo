@@ -11,7 +11,7 @@ vietnamese:
 middle_chinese_initial: j
 middle_chinese_final: ɨ
 stroke_count: 3
-radical: 已
+radical: 己
 skip_number: 4-3-1
 grade_level: "1"
 pos: 修飾語

@@ -118,7 +118,7 @@ tags: [lookup]
 104. <ruby>[[全 (char)|全]]<rt>ㄐ⼔ㄋ</rt></ruby> - whole
 105. <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby> - lamp
 106. <ruby>[[羊]]<rt>⼘ㄫ</rt></ruby> - sheep, goat
-107. <ruby>[[../characters/百 (char)|../characters/百]]<rt>ㄅㄚㄎ</rt></ruby> - hundred
+107. <ruby>[[../characters/百 (char)|百]]<rt>ㄅㄚㄎ</rt></ruby> - hundred
 108. <ruby>[[交 (char)|交]]<rt>ㄍ⼄ㄨ</rt></ruby> - mix, exchange
 109. <ruby>[[早 (char)|早]]<rt>ㄐㄚㄨ</rt></ruby> - early
 110. <ruby>[[足 (char)|足]]<rt>ㄐㄛㄎ</rt></ruby> - foot

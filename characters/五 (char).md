@@ -76,6 +76,7 @@ boundedness: 75
 - <ruby>[[二十五日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄛ·ㄋㄧㄊ</rt></ruby> "twenty-fifth day of the month"
 - <ruby>[[十五]]<rt>ㄙㄧㄆ·ㄛ</rt></ruby> "fifteen"
 - <ruby>[[十五日]]<rt>ㄙㄧㄆ·ㄛ·ㄋㄧㄊ</rt></ruby> "fifteenth day of the month"
+- <ruby>[[第五]]<rt>ㄉㄝㄧㄛ</rt></ruby> "fifth"
 
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
