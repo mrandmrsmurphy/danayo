@@ -2351,7 +2351,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[稍]] — slightly, rather
 - [[稽古]] — training, practice in traditional arts, studying the classics
 - [[穴位]] — acupuncture point, pressure point
-- [[穹窿]] — dome, vault, arch
+- [[穹隆]] — dome, vault, arch
 - [[空前]] — unprecedented, as never before
 - [[窮僻]] — remote and destitute, out-of-the-way
 - [[立]] — stand
@@ -3075,7 +3075,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[煙気]] — smoke, flue gas
 - [[硬]] — hard, firm
 - [[稿]] — manuscript, copy, rough draft
-- [[粗糙]] — coarse, rough
+- [[粗造]] — coarse, rough
 - [[耳聾]] — deaf, hard of hearing
 - [[艱難]] — arduous, hard
 - [[苦渋]] — astringent, harsh, rough

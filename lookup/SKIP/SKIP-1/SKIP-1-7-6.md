@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 13
-size: 31
+size: 32
 skip_number: 1-7-6
 tags:
   - lookup
@@ -23,24 +23,25 @@ tags:
 11. <ruby>[話](characters/話%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> "speak on, talk about"
 12. <ruby>[該](characters/該%20(char).md)<rt>ㄍㄛㄧ</rt></ruby> "should, ought, have to"
 13. <ruby>[詳](characters/詳.md)<rt>ㄙㄚㄫ</rt></ruby> "detailed"
-14. <ruby>[誅](characters/誅.md)<rt>ㄐㄨ</rt></ruby> "execute"
-15. <ruby>[誇](characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> "boast, brag, exaggerate"
-16. <ruby>[誠](characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> "sincere, honest"
-17. <ruby>[賂](characters/賂.md)<rt>ㄌㄛ</rt></ruby> "bribe"
-18. <ruby>[賄](characters/賄.md)<rt>ㄏㄛㄧ</rt></ruby> "bribe"
-19. <ruby>[賊](characters/賊.md)<rt>ㄐㄨㄎ</rt></ruby> "thief"
-20. <ruby>[賎](characters/賎.md)<rt>ㄐㄝㄋ</rt></ruby> "inferior, plebeian"
-21. <ruby>[赩](characters/赩.md)<rt>ㄏㄧㄎ</rt></ruby> "shining"
-22. <ruby>[跡](characters/跡.md)<rt>ㄐㄝㄎ</rt></ruby> "tracks, trace, vestige"
-23. <ruby>[跨](characters/跨%20(char).md)<rt>ㄎ⺢</rt></ruby> "straddle, ride"
-24. <ruby>[跪](characters/跪%20(char).md)<rt>ㄎ⼔ㄧ</rt></ruby> "kneel"
-25. <ruby>[路](characters/路.md)<rt>ㄌㄛ</rt></ruby> "road, path, journey"
-26. <ruby>[跳](characters/跳.md)<rt>ㄊㄛㄨ</rt></ruby> "hop, jump"
-27. <ruby>[践](characters/践.md)<rt>ㄐㄝㄋ</rt></ruby> "tread"
-28. <ruby>[較](characters/較.md)<rt>ㄍㄚㄎ</rt></ruby> "compare"
-29. <ruby>[酩](characters/酩.md)<rt>ㄇㄝㄫ</rt></ruby> "drunk, intoxicated"
-30. <ruby>[酪](characters/酪.md)<rt>ㄌㄚㄎ</rt></ruby> "cream, cheese, dairy"
-31. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
+14. <ruby>[詢](/characters/詢.md)<rt>ㄙ⼜ㄋ</rt></ruby> "inquire, consult"
+15. <ruby>[誅](characters/誅.md)<rt>ㄐㄨ</rt></ruby> "execute"
+16. <ruby>[誇](characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> "boast, brag, exaggerate"
+17. <ruby>[誠](characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> "sincere, honest"
+18. <ruby>[賂](characters/賂.md)<rt>ㄌㄛ</rt></ruby> "bribe"
+19. <ruby>[賄](characters/賄.md)<rt>ㄏㄛㄧ</rt></ruby> "bribe"
+20. <ruby>[賊](characters/賊.md)<rt>ㄐㄨㄎ</rt></ruby> "thief"
+21. <ruby>[賎](characters/賎.md)<rt>ㄐㄝㄋ</rt></ruby> "inferior, plebeian"
+22. <ruby>[赩](characters/赩.md)<rt>ㄏㄧㄎ</rt></ruby> "shining"
+23. <ruby>[跡](characters/跡.md)<rt>ㄐㄝㄎ</rt></ruby> "tracks, trace, vestige"
+24. <ruby>[跨](characters/跨%20(char).md)<rt>ㄎ⺢</rt></ruby> "straddle, ride"
+25. <ruby>[跪](characters/跪%20(char).md)<rt>ㄎ⼔ㄧ</rt></ruby> "kneel"
+26. <ruby>[路](characters/路.md)<rt>ㄌㄛ</rt></ruby> "road, path, journey"
+27. <ruby>[跳](characters/跳.md)<rt>ㄊㄛㄨ</rt></ruby> "hop, jump"
+28. <ruby>[践](characters/践.md)<rt>ㄐㄝㄋ</rt></ruby> "tread"
+29. <ruby>[較](characters/較.md)<rt>ㄍㄚㄎ</rt></ruby> "compare"
+30. <ruby>[酩](characters/酩.md)<rt>ㄇㄝㄫ</rt></ruby> "drunk, intoxicated"
+31. <ruby>[酪](characters/酪.md)<rt>ㄌㄚㄎ</rt></ruby> "cream, cheese, dairy"
+32. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
 
 ## Datacheck
 ```dataview

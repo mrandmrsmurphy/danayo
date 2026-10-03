@@ -38,6 +38,8 @@ tags:
 - 3-10-7: <ruby>[[趨 (char)|趨]]<rt>ㄑㄨ</rt></ruby>
 
 ### Aliases
+- 窿 --> 隆
+- 糙 --> 造
 
 ## Data check
 ```dataview

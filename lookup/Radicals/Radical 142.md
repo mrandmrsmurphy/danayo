@@ -1,5 +1,5 @@
 ---
-size: 41
+size: 42
 radical: 虫
 date-last-perfect: 2026-08-24
 tags:
@@ -29,55 +29,56 @@ tags:
 8. <ruby>[蛇](../../characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> - snake
 9. <ruby>[蛋](../../characters/蛋.md)<rt>ㄉㄚㄋ</rt></ruby> - egg white
 10. <ruby>[蛍](../../characters/蛍%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - firefly
+11. <ruby>[蛉](../../characters/蛉.md)<rt>ㄌㄝㄫ</rt></ruby> - dragonfly
 
 ### +6 Strokes
-11. <ruby>[蛙](../../characters/蛙.md)<rt>⺢</rt></ruby> - frog
-12. <ruby>[蛛](../../characters/蛛.md)<rt>ㄐㄨ</rt></ruby> - spider
-13. <ruby>[蛞](../../characters/蛞.md)<rt>ㄎ⺢ㄊ</rt></ruby> - slug
-14. <ruby>[蛤](../../characters/蛤.md)<rt>ㄍㄚㄆ</rt></ruby> - clam
-15. <ruby>[蛭](../../characters/蛭%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - leech
-16. <ruby>[蛮](../../characters/蛮.md)<rt>ㄇㄚㄋ</rt></ruby> - barbarian
+12. <ruby>[蛙](../../characters/蛙.md)<rt>⺢</rt></ruby> - frog
+13. <ruby>[蛛](../../characters/蛛.md)<rt>ㄐㄨ</rt></ruby> - spider
+14. <ruby>[蛞](../../characters/蛞.md)<rt>ㄎ⺢ㄊ</rt></ruby> - slug
+15. <ruby>[蛤](../../characters/蛤.md)<rt>ㄍㄚㄆ</rt></ruby> - clam
+16. <ruby>[蛭](../../characters/蛭%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - leech
+17. <ruby>[蛮](../../characters/蛮.md)<rt>ㄇㄚㄋ</rt></ruby> - barbarian
 
 ### +7 Strokes
-17. <ruby>[蛾](../../characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
-18. <ruby>[蜀](../../characters/蜀.md)<rt>ㄙㄛㄎ</rt></ruby> - Shu kingdom
-19. <ruby>[蜂](../../characters/蜂%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - bee
+18. <ruby>[蛾](../../characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> - moth
+19. <ruby>[蜀](../../characters/蜀.md)<rt>ㄙㄛㄎ</rt></ruby> - Shu kingdom
+20. <ruby>[蜂](../../characters/蜂%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - bee
 
 ### +8 Strokes
-20. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider
-21. <ruby>[蜜](../../characters/蜜.md)<rt>ㄇㄧㄊ</rt></ruby> - honey
-22. <ruby>[蠟](../../characters/蠟.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
+21. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider
+22. <ruby>[蜜](../../characters/蜜.md)<rt>ㄇㄧㄊ</rt></ruby> - honey
+23. <ruby>[蠟](../../characters/蠟.md)<rt>ㄌㄚㄆ</rt></ruby> - wax
 
 ### +9 Strokes
-23. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
-24. <ruby>[蝎](../../characters/蝎%20(char).md)<rt>ㄏ⼶ㄊ</rt></ruby> - scorpion
-25. <ruby>[蝓](../../characters/蝓.md)<rt>⼜ㄇ</rt></ruby> - slug
-26. <ruby>[蝙](../../characters/蝙.md)<rt>ㄅㄝㄋ</rt></ruby> - bat
-27. <ruby>[蝠](../../characters/蝠.md)<rt>ㄈㄨㄎ</rt></ruby> - bat
-28. <ruby>[蝦](../../characters/蝦.md)<rt>ㄏㄚ</rt></ruby> - shrimp
-29. <ruby>[蝶](../../characters/蝶.md)<rt>ㄉㄝㄆ</rt></ruby> - butterfly
-30. <ruby>[蝸](../../characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
-31. <ruby>[蝿](../../characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
+24. <ruby>[蝉](../../characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
+25. <ruby>[蝎](../../characters/蝎%20(char).md)<rt>ㄏ⼶ㄊ</rt></ruby> - scorpion
+26. <ruby>[蝓](../../characters/蝓.md)<rt>⼜ㄇ</rt></ruby> - slug
+27. <ruby>[蝙](../../characters/蝙.md)<rt>ㄅㄝㄋ</rt></ruby> - bat
+28. <ruby>[蝠](../../characters/蝠.md)<rt>ㄈㄨㄎ</rt></ruby> - bat
+29. <ruby>[蝦](../../characters/蝦.md)<rt>ㄏㄚ</rt></ruby> - shrimp
+30. <ruby>[蝶](../../characters/蝶.md)<rt>ㄉㄝㄆ</rt></ruby> - butterfly
+31. <ruby>[蝸](../../characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
+32. <ruby>[蝿](../../characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
 
 ### +10 Strokes
-32. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
-33. <ruby>[融](../../characters/融%20(char).md)<rt>⼜ㄫ</rt></ruby> - melt
-34. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
+33. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
+34. <ruby>[融](../../characters/融%20(char).md)<rt>⼜ㄫ</rt></ruby> - melt
+35. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
 
 ### +11 Strokes
-35. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis
-36. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
-37. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
+36. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis
+37. <ruby>[螺](../../characters/螺.md)<rt>ㄌㄚ</rt></ruby> - spiral
+38. <ruby>[蟄](../../characters/蟄%20(char).md)<rt>ㄑㄧㄆ</rt></ruby> - hibernate
 
 ### +13 Strokes
-38. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
-39. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
+39. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
+40. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
 
 ### +14 Strokes
-40. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
+41. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
 
 ### +15 Strokes
-41. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
+42. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
 
 ## Data check
 ```dataview

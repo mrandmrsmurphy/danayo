@@ -31,6 +31,7 @@ graphemic_classification: 降
 stand_in: 隆
 aliases:
   - 𨺓
+  - 窿
 注音: ㄌㄨㄫ
 kwin: false
 tags:
@@ -53,4 +54,4 @@ date-last-perfect: 2026-08-10
 
 ## Words
 - <ruby>[[隆]]<rt>ㄌㄨㄫ</rt></ruby> "prosperous; plentiful; abundant" (stand-in for 隆)
-- <ruby>[[穹窿]]<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby> "dome; vault; arch"
+- <ruby>[[穹隆]]<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby> "dome; vault; arch"

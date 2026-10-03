@@ -636,6 +636,7 @@ tags: [lookup]
 632. [鑫](../../characters/鑫.md)
 633. [睫](../../characters/睫.md)
 634. [攫](../../characters/攫.md)
+635. [掩](../../characters/掩.md)
 
 
 [[../../characters/吠]] - barking DO IT
@@ -693,6 +694,8 @@ tags: [lookup]
 - 孵 --> 孚
 - 諷 --> 風
 - 媚 --> 眉
+- 窿 --> 隆
+- 糙 --> 造
 - 儘 --> 尽
 - 隧 --> 遂
 - 畠 --> 田

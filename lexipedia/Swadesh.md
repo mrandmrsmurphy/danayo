@@ -47,7 +47,7 @@ date-last-perfect: 2026-09-16
 |     |   long (time)   |      |   久    |        |                      |                      |                                    |                 <ruby>[[久]]<rt>ㄍ⼜</rt></ruby>                  |     |
 | 29  |      wide       |  廣   |   寬    |   濶    |          広い          |       廣   , 寬        |              𢌌 rộng               |    <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby>    |     |
 | 30  |   thick (1D)    |  敦   |   厚    |   厚    |          厚い          |          厚           |               𥻣dầy                |    <ruby>[[厚]]<rt>ㄏㄛㄨ</rt></ruby>    |     |
-|     |   thick (2D)    |      |   粗    |        |                      |                      |        |      <ruby>[[粗糙]]<rt>ㄐㄛㄐㄛ</rt></ruby>                                                     |     |
+|     |   thick (2D)    |      |   粗    |        |                      |                      |        |      <ruby>[[粗造]]<rt>ㄐㄛㄑㄚㄨ</rt></ruby>                                                     |     |
 |     | thick (crowded) |      |   密    |        |                      |                      |        |       <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>                                                    |     |
 |     |  thick (dense)  |      |   濃    |        |                      |                      |        |     <ruby>[[濃厚]]<rt>ㄋㄛㄫㄏㄛㄨ</rt></ruby>                                                  |     |
 | 31  |      heavy      |  重   |   重    |   重    |          重い          |      重 (무거울 중)       |              𨤼 nặng               |    <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby>    |     |

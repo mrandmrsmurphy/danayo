@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-07-08
-size: 93
+size: 94
 radical: 言
 tags: [lookup]
 
@@ -57,79 +57,80 @@ tags: [lookup]
 34. <ruby>[話](../../characters/話%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - speak on
 35. <ruby>[該](../../characters/該%20(char).md)<rt>ㄍㄛㄧ</rt></ruby> - should
 36. <ruby>[詳](../../characters/詳.md)<rt>ㄙㄚㄫ</rt></ruby> - detailed
-37. <ruby>[誅](../../characters/誅.md)<rt>ㄐㄨ</rt></ruby> - execute
-38. <ruby>[誇](../../characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> - boast
-39. <ruby>[誉](../../characters/誉.md)<rt>⼄</rt></ruby> - reputation
-40. <ruby>[誠](../../characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> - sincere
+37. <ruby>[詢](../../characters/詢.md)<rt>ㄙ⼜ㄋ</rt></ruby> - inquire
+38. <ruby>[誅](../../characters/誅.md)<rt>ㄐㄨ</rt></ruby> - execute
+39. <ruby>[誇](../../characters/誇%20(char).md)<rt>ㄎ⺢</rt></ruby> - boast
+40. <ruby>[誉](../../characters/誉.md)<rt>⼄</rt></ruby> - reputation
+41. <ruby>[誠](../../characters/誠.md)<rt>ㄙㄧㄫ</rt></ruby> - sincere
 
 ### +7 Strokes
-41. <ruby>[誌](../../characters/誌.md)<rt>ㄐㄧ</rt></ruby> - symbolize
-42. <ruby>[認](../../characters/認.md)<rt>ㄋㄧㄋ</rt></ruby> - recognize
-43. <ruby>[誓](../../characters/誓.md)<rt>ㄙㄝ</rt></ruby> - swear
-44. <ruby>[誘](../../characters/誘.md)<rt>⼜ㄛ</rt></ruby> - persuade
-45. <ruby>[語](../../characters/語.md)<rt>⼄</rt></ruby> - language
-46. <ruby>[誣](../../characters/誣.md)<rt>ㄇㄨ</rt></ruby> - falsely accuse
-47. <ruby>[誤](../../characters/誤.md)<rt>ㄛ</rt></ruby> - err
-48. <ruby>[誦](../../characters/誦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - recite
-49. <ruby>[説](../../characters/説.md)<rt>ㄙ⼔ㄊ</rt></ruby> - theory
-50. <ruby>[読](../../characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
+42. <ruby>[誌](../../characters/誌.md)<rt>ㄐㄧ</rt></ruby> - symbolize
+43. <ruby>[認](../../characters/認.md)<rt>ㄋㄧㄋ</rt></ruby> - recognize
+44. <ruby>[誓](../../characters/誓.md)<rt>ㄙㄝ</rt></ruby> - swear
+45. <ruby>[誘](../../characters/誘.md)<rt>⼜ㄛ</rt></ruby> - persuade
+46. <ruby>[語](../../characters/語.md)<rt>⼄</rt></ruby> - language
+47. <ruby>[誣](../../characters/誣.md)<rt>ㄇㄨ</rt></ruby> - falsely accuse
+48. <ruby>[誤](../../characters/誤.md)<rt>ㄛ</rt></ruby> - err
+49. <ruby>[誦](../../characters/誦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - recite
+50. <ruby>[説](../../characters/説.md)<rt>ㄙ⼔ㄊ</rt></ruby> - theory
+51. <ruby>[読](../../characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
 
 ### +8 Strokes
-51. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
-52. <ruby>[誰](../../characters/誰%20(char).md)<rt>ㄙ⼶ㄧ</rt></ruby> - who
-53. <ruby>[課](../../characters/課%20(char).md)<rt>ㄎ⺢ㄇ</rt></ruby> - lesson
-54. <ruby>[誹](../../characters/誹.md)<rt>ㄈㄧ</rt></ruby> - slander
-55. <ruby>[誼](../../characters/誼.md)<rt>ㄜㄧ</rt></ruby> - friendship
-56. <ruby>[調](../../characters/調.md)<rt>ㄐㄨㄛ</rt></ruby> - transfer
-57. <ruby>[諂](../../characters/諂%20(char).md)<rt>ㄑㄝㄇ</rt></ruby> - flatter
-58. <ruby>[談](../../characters/談.md)<rt>ㄉㄚㄇ</rt></ruby> - discuss
-59. <ruby>[請](../../characters/請%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> - ask
-60. <ruby>[諒](../../characters/諒.md)<rt>ㄌ⼘ㄫ</rt></ruby> - excuse
-61. <ruby>[論](../../characters/論.md)<rt>ㄌㄛㄋ</rt></ruby> - theory
-62. <ruby>[諸](../../characters/諸%20(char).md)<rt>ㄐㄚ</rt></ruby> - various
-63. <ruby>[謁](../../characters/謁%20(char).md)<rt>ㄝㄊ</rt></ruby> - visit
+52. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
+53. <ruby>[誰](../../characters/誰%20(char).md)<rt>ㄙ⼶ㄧ</rt></ruby> - who
+54. <ruby>[課](../../characters/課%20(char).md)<rt>ㄎ⺢ㄇ</rt></ruby> - lesson
+55. <ruby>[誹](../../characters/誹.md)<rt>ㄈㄧ</rt></ruby> - slander
+56. <ruby>[誼](../../characters/誼.md)<rt>ㄜㄧ</rt></ruby> - friendship
+57. <ruby>[調](../../characters/調.md)<rt>ㄐㄨㄛ</rt></ruby> - transfer
+58. <ruby>[諂](../../characters/諂%20(char).md)<rt>ㄑㄝㄇ</rt></ruby> - flatter
+59. <ruby>[談](../../characters/談.md)<rt>ㄉㄚㄇ</rt></ruby> - discuss
+60. <ruby>[請](../../characters/請%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> - ask
+61. <ruby>[諒](../../characters/諒.md)<rt>ㄌ⼘ㄫ</rt></ruby> - excuse
+62. <ruby>[論](../../characters/論.md)<rt>ㄌㄛㄋ</rt></ruby> - theory
+63. <ruby>[諸](../../characters/諸%20(char).md)<rt>ㄐㄚ</rt></ruby> - various
+64. <ruby>[謁](../../characters/謁%20(char).md)<rt>ㄝㄊ</rt></ruby> - visit
 
 ### +9 Strokes
-64. <ruby>[諌](../../characters/諌.md)<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
-65. <ruby>[諜](../../characters/諜.md)<rt>ㄉㄝㄆ</rt></ruby> - spy
-66. <ruby>[諡](../../characters/諡.md)<rt>ㄙㄧㄜ</rt></ruby> - posthumous name
-67. <ruby>[諦](../../characters/諦%20(char).md)<rt>ㄊㄝㄧ</rt></ruby> - truth (Buddhist)
-68. <ruby>[諧](../../characters/諧.md)<rt>ㄏ⼶</rt></ruby> - harmonize
-69. <ruby>[諭](../../characters/諭.md)<rt>⼜ㄇ</rt></ruby> - issue a decree
-70. <ruby>[諮](../../characters/諮.md)<rt>ㄐㄧㄜ</rt></ruby> - consult with
-71. <ruby>[諱](../../characters/諱%20(char).md)<rt>ㄏㄨㄧ</rt></ruby> - shun
-72. <ruby>[諺](../../characters/諺.md)<rt>ㄝㄋ</rt></ruby> - Hangǔl
-73. <ruby>[諾](../../characters/諾%20(char).md)<rt>ㄋㄚㄎ</rt></ruby> - consent
-74. <ruby>[謀](../../characters/謀%20(char).md)<rt>ㄇㄨㄛ</rt></ruby> - conspire
-75. <ruby>[謂](../../characters/謂.md)<rt>ㄨㄧ</rt></ruby> - so called
+65. <ruby>[諌](../../characters/諌.md)<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
+66. <ruby>[諜](../../characters/諜.md)<rt>ㄉㄝㄆ</rt></ruby> - spy
+67. <ruby>[諡](../../characters/諡.md)<rt>ㄙㄧㄜ</rt></ruby> - posthumous name
+68. <ruby>[諦](../../characters/諦%20(char).md)<rt>ㄊㄝㄧ</rt></ruby> - truth (Buddhist)
+69. <ruby>[諧](../../characters/諧.md)<rt>ㄏ⼶</rt></ruby> - harmonize
+70. <ruby>[諭](../../characters/諭.md)<rt>⼜ㄇ</rt></ruby> - issue a decree
+71. <ruby>[諮](../../characters/諮.md)<rt>ㄐㄧㄜ</rt></ruby> - consult with
+72. <ruby>[諱](../../characters/諱%20(char).md)<rt>ㄏㄨㄧ</rt></ruby> - shun
+73. <ruby>[諺](../../characters/諺.md)<rt>ㄝㄋ</rt></ruby> - Hangǔl
+74. <ruby>[諾](../../characters/諾%20(char).md)<rt>ㄋㄚㄎ</rt></ruby> - consent
+75. <ruby>[謀](../../characters/謀%20(char).md)<rt>ㄇㄨㄛ</rt></ruby> - conspire
+76. <ruby>[謂](../../characters/謂.md)<rt>ㄨㄧ</rt></ruby> - so called
 
 ### +10 Strokes
-76. <ruby>[謄](../../characters/謄.md)<rt>ㄉㄜㄫ</rt></ruby> - copy
-77. <ruby>[謎](../../characters/謎%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - riddle
-78. <ruby>[謐](../../characters/謐.md)<rt>ㄇㄧㄊ</rt></ruby> - calm
-79. <ruby>[謗](../../characters/謗.md)<rt>ㄆㄚㄫ</rt></ruby> - slander
-80. <ruby>[謙](../../characters/謙.md)<rt>ㄎㄝㄇ</rt></ruby> - self-effacing
-81. <ruby>[講](../../characters/講.md)<rt>ㄍㄚㄫ</rt></ruby> - lecture
-82. <ruby>[謝](../../characters/謝.md)<rt>ㄙ⼘</rt></ruby> - thank
-83. <ruby>[謡](../../characters/謡.md)<rt>⼄ㄨ</rt></ruby> - song
+77. <ruby>[謄](../../characters/謄.md)<rt>ㄉㄜㄫ</rt></ruby> - copy
+78. <ruby>[謎](../../characters/謎%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - riddle
+79. <ruby>[謐](../../characters/謐.md)<rt>ㄇㄧㄊ</rt></ruby> - calm
+80. <ruby>[謗](../../characters/謗.md)<rt>ㄆㄚㄫ</rt></ruby> - slander
+81. <ruby>[謙](../../characters/謙.md)<rt>ㄎㄝㄇ</rt></ruby> - self-effacing
+82. <ruby>[講](../../characters/講.md)<rt>ㄍㄚㄫ</rt></ruby> - lecture
+83. <ruby>[謝](../../characters/謝.md)<rt>ㄙ⼘</rt></ruby> - thank
+84. <ruby>[謡](../../characters/謡.md)<rt>⼄ㄨ</rt></ruby> - song
 
 ### +11 Strokes
-84. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
-85. <ruby>[謹](../../characters/謹.md)<rt>ㄍㄧㄋ</rt></ruby> - prudent
+85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
+86. <ruby>[謹](../../characters/謹.md)<rt>ㄍㄧㄋ</rt></ruby> - prudent
 
 ### +12 Strokes
-86. <ruby>[識](../../characters/識.md)<rt>ㄙㄧㄎ</rt></ruby> - recognize
-87. <ruby>[譚](../../characters/譚.md)<rt>ㄉㄚㄇ</rt></ruby> - talented
-88. <ruby>[譜](../../characters/譜.md)<rt>ㄅㄛ</rt></ruby> - musical score
-89. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
+87. <ruby>[識](../../characters/識.md)<rt>ㄙㄧㄎ</rt></ruby> - recognize
+88. <ruby>[譚](../../characters/譚.md)<rt>ㄉㄚㄇ</rt></ruby> - talented
+89. <ruby>[譜](../../characters/譜.md)<rt>ㄅㄛ</rt></ruby> - musical score
+90. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
 
 ### +13 Strokes
-90. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment
-91. <ruby>[譲](../../characters/譲%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - permit
-92. <ruby>[護](../../characters/護.md)<rt>ㄏㄛ</rt></ruby> - safeguard
+91. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment
+92. <ruby>[譲](../../characters/譲%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - permit
+93. <ruby>[護](../../characters/護.md)<rt>ㄏㄛ</rt></ruby> - safeguard
 
 ### +16 Strokes
-93. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
+94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
 
 ## Data check
 ```dataview

@@ -35,7 +35,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[環](../words/環.md)<rt>ㄏ⺢ㄋ</rt></ruby>: a ring, circle — a hoop-shaped object.
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel, circle, ring, loop — distinct from [[環]] in its mechanical/rotational framing.
 - <ruby>[球](../words/球.md)<rt>ㄍ⼜</rt></ruby>: a ball.
-- <ruby>[穹窿](../words/穹窿.md)<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby>: a dome.
+- <ruby>[穹隆](../words/穹隆.md)<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby>: a dome.
 
 ### Angular & Solid Shapes
 
@@ -81,7 +81,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 
 ### Texture
 
-- <ruby>[粗糙](../words/粗糙.md)<rt>ㄐㄛㄐㄛ</rt></ruby>: rough.
+- <ruby>[粗造](../words/粗造.md)<rt>ㄐㄛㄑㄚㄨ</rt></ruby>: rough.
 - <ruby>[鋭利](../words/鋭利.md)<rt>⼶ㄌㄧㄜ</rt></ruby>: sharp.
 - <ruby>[平坦](../words/平坦.md)<rt>ㄅ⼶ㄫㄊㄚㄋ</rt></ruby>: smooth, flat.
 - <ruby>[水平](../words/水平.md)<rt>ㄙㄨㄅ⼶ㄫ</rt></ruby>: level, horizontal — literally "water-level," the surface of standing water as the natural reference.

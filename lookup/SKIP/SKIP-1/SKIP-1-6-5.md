@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 11
-size: 20
+size: 21
 skip_number: 1-6-5
 tags:
   - lookup
@@ -30,6 +30,7 @@ tags:
 18. <ruby>[舷](characters/舷.md)<rt>ㄏㄝㄋ</rt></ruby> "side of a boat"
 19. <ruby>[船](characters/船.md)<rt>ㄙ⼔ㄇ</rt></ruby> "boat"
 20. <ruby>[蛇](characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> "snake"
+21. <ruby>[蛉](characters/蛉.md)<rt>ㄌㄝㄫ</rt></ruby> "dragonfly"
 
 ## Datacheck
 ```dataview

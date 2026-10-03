@@ -1,5 +1,5 @@
 ---
-size: 89
+size: 90
 stroke_count: 11
 date-last-perfect: 2026-09-24
 skip_number: 1-3-8
@@ -68,69 +68,70 @@ tags:
 36. <ruby>[捻](/characters/捻%20(char).md)<rt>ㄋㄝㄆ</rt></ruby> - twist, twirl between fingers
 37. <ruby>[掃](/characters/掃.md)<rt>ㄙㄚㄨ</rt></ruby> - sweep, clean
 38. <ruby>[授](/characters/授.md)<rt>ㄙ⼜</rt></ruby> - grant, confer, teach
-39. <ruby>[掏](/characters/掏.md)<rt>ㄉㄚㄨ</rt></ruby> - fish out, dig out, reach into
-40. <ruby>[排](/characters/排%20(char).md)<rt>ㄆㄚㄧ</rt></ruby> - row, rank, line
-41. <ruby>[掘](/characters/掘%20(char).md)<rt>ㄍㄨㄊ</rt></ruby> - dig, excavate
-42. <ruby>[掛](/characters/掛%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - hang, hook; worry about
-43. <ruby>[掠](/characters/掠.md)<rt>ㄌ⼘ㄎ</rt></ruby> - plunder; graze, brush past
-44. <ruby>[採](/characters/採.md)<rt>ㄑㄚㄧ</rt></ruby> - pick, gather; adopt, select
-45. <ruby>[探](/characters/探.md)<rt>ㄊㄚㄇ</rt></ruby> - probe, explore; visit; spy out
-46. <ruby>[接](/characters/接%20(char).md)<rt>ㄐㄛㄆ</rt></ruby> - connect, receive; catch; meet
-47. <ruby>[控](/characters/控.md)<rt>ㄎㄛㄫ</rt></ruby> - control; accuse, charge
-48. <ruby>[推](/characters/推%20(char).md)<rt>ㄑㄨㄧ</rt></ruby> - push; recommend; infer
-49. <ruby>[措](/characters/措.md)<rt>ㄑㄛ</rt></ruby> - arrange, handle; put, place
-50. <ruby>[掬](/characters/掬.md)<rt>ㄍㄨㄎ</rt></ruby> - scoop up with both hands
-51. <ruby>[掲](/characters/掲%20(char).md)<rt>ㄎㄝㄊ</rt></ruby> - lift, raise; expose, post (a notice)
-52. <ruby>[掻](/characters/掻%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - scratch, rake, comb
-53. <ruby>[描](/characters/描.md)<rt>ㄇ⼘ㄨ</rt></ruby> - depict, trace, sketch
+39. <ruby>[掩](/characters/掩.md)<rt>ㄝㄇ</rt></ruby> - cover, conceal; ambush
+40. <ruby>[掏](/characters/掏.md)<rt>ㄉㄚㄨ</rt></ruby> - fish out, dig out, reach into
+41. <ruby>[排](/characters/排%20(char).md)<rt>ㄆㄚㄧ</rt></ruby> - row, rank, line
+42. <ruby>[掘](/characters/掘%20(char).md)<rt>ㄍㄨㄊ</rt></ruby> - dig, excavate
+43. <ruby>[掛](/characters/掛%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - hang, hook; worry about
+44. <ruby>[掠](/characters/掠.md)<rt>ㄌ⼘ㄎ</rt></ruby> - plunder; graze, brush past
+45. <ruby>[採](/characters/採.md)<rt>ㄑㄚㄧ</rt></ruby> - pick, gather; adopt, select
+46. <ruby>[探](/characters/探.md)<rt>ㄊㄚㄇ</rt></ruby> - probe, explore; visit; spy out
+47. <ruby>[接](/characters/接%20(char).md)<rt>ㄐㄛㄆ</rt></ruby> - connect, receive; catch; meet
+48. <ruby>[控](/characters/控.md)<rt>ㄎㄛㄫ</rt></ruby> - control; accuse, charge
+49. <ruby>[推](/characters/推%20(char).md)<rt>ㄑㄨㄧ</rt></ruby> - push; recommend; infer
+50. <ruby>[措](/characters/措.md)<rt>ㄑㄛ</rt></ruby> - arrange, handle; put, place
+51. <ruby>[掬](/characters/掬.md)<rt>ㄍㄨㄎ</rt></ruby> - scoop up with both hands
+52. <ruby>[掲](/characters/掲%20(char).md)<rt>ㄎㄝㄊ</rt></ruby> - lift, raise; expose, post (a notice)
+53. <ruby>[掻](/characters/掻%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - scratch, rake, comb
+54. <ruby>[描](/characters/描.md)<rt>ㄇ⼘ㄨ</rt></ruby> - depict, trace, sketch
 
 ### 水
-54. <ruby>[涯](/characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - shore, bank; limit, boundary
-55. <ruby>[液](/characters/液.md)<rt>⼶ㄎ</rt></ruby> - liquid, fluid
-56. <ruby>[涼](/characters/涼.md)<rt>ㄌ⼘ㄫ</rt></ruby> - cool, cold; bleak
-57. <ruby>[淀](/characters/淀.md)<rt>ㄉㄝㄋ</rt></ruby> - sediment; shallow lake
-58. <ruby>[淋](/characters/淋%20(char).md)<rt>ㄌㄧㄇ</rt></ruby> - drench, pour over
-59. <ruby>[淑](/characters/淑.md)<rt>ㄙㄨㄎ</rt></ruby> - good, pure, virtuous
-60. <ruby>[淡](/characters/淡.md)<rt>ㄉㄚㄇ</rt></ruby> - light, bland, pale; indifferent
-61. <ruby>[淫](/characters/淫%20(char).md)<rt>ㄧㄇ</rt></ruby> - excessive; licentious, lewd
-62. <ruby>[淮](/characters/淮.md)<rt>ㄏ⺢ㄧ</rt></ruby> - Huai River
-63. <ruby>[深](/characters/深.md)<rt>ㄙㄧㄇ</rt></ruby> - deep; dark (colour); profound
-64. <ruby>[淳](/characters/淳.md)<rt>ㄙㄨㄋ</rt></ruby> - pure, honest, unsophisticated
-65. <ruby>[混](/characters/混.md)<rt>ㄏㄛㄋ</rt></ruby> - mix, mingle; muddy, confused
-66. <ruby>[添](/characters/添.md)<rt>ㄊㄝㄇ</rt></ruby> - add, increase, supplement
-67. <ruby>[清](/characters/清.md)<rt>ㄑㄧㄫ</rt></ruby> - clear, clean, pure; Qing dynasty
-68. <ruby>[渇](/characters/渇%20(char).md)<rt>ㄎㄚㄊ</rt></ruby> - thirst; yearn for
-69. <ruby>[済](/characters/済%20(char).md)<rt>ㄐㄝㄧ</rt></ruby> - aid, benefit; complete; ford
-70. <ruby>[渉](/characters/渉%20(char).md)<rt>ㄙㄝㄆ</rt></ruby> - wade; involve, concern
-71. <ruby>[渋](/characters/渋.md)<rt>ㄙㄧㄆ</rt></ruby> - astringent; reluctant; difficult
-72. <ruby>[渓](/characters/渓.md)<rt>ㄎㄝㄧ</rt></ruby> - mountain stream, brook
-73. <ruby>[渚](/characters/渚.md)<rt>ㄐㄛ</rt></ruby> - sandbar, islet in a river
+55. <ruby>[涯](/characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - shore, bank; limit, boundary
+56. <ruby>[液](/characters/液.md)<rt>⼶ㄎ</rt></ruby> - liquid, fluid
+57. <ruby>[涼](/characters/涼.md)<rt>ㄌ⼘ㄫ</rt></ruby> - cool, cold; bleak
+58. <ruby>[淀](/characters/淀.md)<rt>ㄉㄝㄋ</rt></ruby> - sediment; shallow lake
+59. <ruby>[淋](/characters/淋%20(char).md)<rt>ㄌㄧㄇ</rt></ruby> - drench, pour over
+60. <ruby>[淑](/characters/淑.md)<rt>ㄙㄨㄎ</rt></ruby> - good, pure, virtuous
+61. <ruby>[淡](/characters/淡.md)<rt>ㄉㄚㄇ</rt></ruby> - light, bland, pale; indifferent
+62. <ruby>[淫](/characters/淫%20(char).md)<rt>ㄧㄇ</rt></ruby> - excessive; licentious, lewd
+63. <ruby>[淮](/characters/淮.md)<rt>ㄏ⺢ㄧ</rt></ruby> - Huai River
+64. <ruby>[深](/characters/深.md)<rt>ㄙㄧㄇ</rt></ruby> - deep; dark (colour); profound
+65. <ruby>[淳](/characters/淳.md)<rt>ㄙㄨㄋ</rt></ruby> - pure, honest, unsophisticated
+66. <ruby>[混](/characters/混.md)<rt>ㄏㄛㄋ</rt></ruby> - mix, mingle; muddy, confused
+67. <ruby>[添](/characters/添.md)<rt>ㄊㄝㄇ</rt></ruby> - add, increase, supplement
+68. <ruby>[清](/characters/清.md)<rt>ㄑㄧㄫ</rt></ruby> - clear, clean, pure; Qing dynasty
+69. <ruby>[渇](/characters/渇%20(char).md)<rt>ㄎㄚㄊ</rt></ruby> - thirst; yearn for
+70. <ruby>[済](/characters/済%20(char).md)<rt>ㄐㄝㄧ</rt></ruby> - aid, benefit; complete; ford
+71. <ruby>[渉](/characters/渉%20(char).md)<rt>ㄙㄝㄆ</rt></ruby> - wade; involve, concern
+72. <ruby>[渋](/characters/渋.md)<rt>ㄙㄧㄆ</rt></ruby> - astringent; reluctant; difficult
+73. <ruby>[渓](/characters/渓.md)<rt>ㄎㄝㄧ</rt></ruby> - mountain stream, brook
+74. <ruby>[渚](/characters/渚.md)<rt>ㄐㄛ</rt></ruby> - sandbar, islet in a river
 
 ### 犬
-74. <ruby>[猛](/characters/猛.md)<rt>ㄇㄚㄫ</rt></ruby> - fierce, violent, ferocious
-75. <ruby>[猜](/characters/猜.md)<rt>ㄑㄚㄧ</rt></ruby> - guess, suspect; jealous
-76. <ruby>[猪](/characters/猪.md)<rt>ㄐㄛ</rt></ruby> - pig, boar
-77. <ruby>[猫](/characters/猫%20(char).md)<rt>ㄇ⼘ㄨ</rt></ruby> - cat
-78. <ruby>[獵](/characters/獵%20(char).md)<rt>ㄌㄛㄆ</rt></ruby> - hunt, hunting
+75. <ruby>[猛](/characters/猛.md)<rt>ㄇㄚㄫ</rt></ruby> - fierce, violent, ferocious
+76. <ruby>[猜](/characters/猜.md)<rt>ㄑㄚㄧ</rt></ruby> - guess, suspect; jealous
+77. <ruby>[猪](/characters/猪.md)<rt>ㄐㄛ</rt></ruby> - pig, boar
+78. <ruby>[猫](/characters/猫%20(char).md)<rt>ㄇ⼘ㄨ</rt></ruby> - cat
+79. <ruby>[獵](/characters/獵%20(char).md)<rt>ㄌㄛㄆ</rt></ruby> - hunt, hunting
 
 **行**
 
-79. <ruby>[術](/characters/術%20(char).md)<rt>ㄙㄨㄊ</rt></ruby> - art, skill, technique; method
+80. <ruby>[術](/characters/術%20(char).md)<rt>ㄙㄨㄊ</rt></ruby> - art, skill, technique; method
 
 **邑**
 
-80. <ruby>[郷](/characters/郷.md)<rt>ㄏ⼘ㄫ</rt></ruby> - hometown, village; rural
+81. <ruby>[郷](/characters/郷.md)<rt>ㄏ⼘ㄫ</rt></ruby> - hometown, village; rural
 
 ### 阜
-81. <ruby>[陪](/characters/陪%20(char).md)<rt>ㄅㄛㄧ</rt></ruby> - accompany, attend on
-82. <ruby>[陰](/characters/陰%20(char).md)<rt>ㄧㄇ</rt></ruby> - shade, shadow; yin; negative
-83. <ruby>[陳](/characters/陳.md)<rt>ㄐㄧㄋ</rt></ruby> - display, state; old, stale
-84. <ruby>[陵](/characters/陵.md)<rt>ㄌㄜㄫ</rt></ruby> - hill, mound; imperial tomb
-85. <ruby>[陶](/characters/陶.md)<rt>ㄉㄚㄨ</rt></ruby> - pottery, ceramics; delight in
-86. <ruby>[陸](/characters/陸.md)<rt>ㄌㄨㄎ</rt></ruby> - land, shore; six (formal)
-87. <ruby>[険](/characters/険%20(char).md)<rt>ㄏㄝㄇ</rt></ruby> - steep, dangerous, treacherous
-88. <ruby>[隆](/characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous, grand; bulging
-89. <ruby>[徘](/characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
+82. <ruby>[陪](/characters/陪%20(char).md)<rt>ㄅㄛㄧ</rt></ruby> - accompany, attend on
+83. <ruby>[陰](/characters/陰%20(char).md)<rt>ㄧㄇ</rt></ruby> - shade, shadow; yin; negative
+84. <ruby>[陳](/characters/陳.md)<rt>ㄐㄧㄋ</rt></ruby> - display, state; old, stale
+85. <ruby>[陵](/characters/陵.md)<rt>ㄌㄜㄫ</rt></ruby> - hill, mound; imperial tomb
+86. <ruby>[陶](/characters/陶.md)<rt>ㄉㄚㄨ</rt></ruby> - pottery, ceramics; delight in
+87. <ruby>[陸](/characters/陸.md)<rt>ㄌㄨㄎ</rt></ruby> - land, shore; six (formal)
+88. <ruby>[険](/characters/険%20(char).md)<rt>ㄏㄝㄇ</rt></ruby> - steep, dangerous, treacherous
+89. <ruby>[隆](/characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous, grand; bulging
+90. <ruby>[徘](/characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
 
 ## Datacheck
 ```dataview
