@@ -1,13 +1,16 @@
+---
+language: English
+---
 <ruby>[今日安](/words/今日安.md)<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>!  Hello!  Welcome to Dan'a'yo, the pan-Asian language.  In this first lesson, we will learn the basic alphabet, those little squiggles above the complicated drawings.  This is a version of the _Bopomofo_ alphabet, in common use in Taiwan.
 
 ## Vowels
 The easiest place to begin is with the six vowel letters, **a**, **e**, **i**, **o**, **u**, and **ǝ**.  These are able to stand alone, so we can write them with examples:
-- ㄚ is /a/ as in "father".  Say to yourself, "Ah! A slingshot is aimed at me!"
-- ㄝ is /e/ as in "bet".  Perhaps it is the edge of a bed.
-- ㄧ is /i/ as in "ski".  It's a monitor with a flat line, making a beep.
-- ㄛ is /o/ as in "coat".  I needed a hook to hang my coat on.
-- ㄨ is /u/ as in "rune".  It's an x-shaped rune, it's true.
-- ㄜ is /ǝ/, somewhere in between the vowel of "butt" and the vowel of "soot".  There is some leeway: anything in that range will be understood.
+- ㄚ is /a/ as in "father".  Say to yourself, "*Ah!* A slingshot is aimed at me!"
+- ㄝ is /e/ as in "bet".  Perhaps it is the edge of a *bed*.
+- ㄧ is /i/ as in "ski".  It's a monitor with a flat line, making a *beep*.
+- ㄛ is /o/ as in "coat".  I needed a hook to hang my *coat* on.
+- ㄨ is /u/ as in "rune".  It's an x-shaped *rune*, it's *true*.
+- ㄜ is /ǝ/, somewhere in between the vowel of "*butt*" and the vowel of "*soot*".  There is some leeway: anything in that range will be understood.
 
 If a syllable starts with one of these, but doesn't come first in a word, it is made clear with a central dot just before it, i.e. ·ㄚ，·ㄝ，·ㄧ，·ㄛ，·ㄨ，·ㄜ。
 
@@ -24,11 +27,11 @@ Most of these vowels have versions that can take an **on-glide**.  There are two
 ### Off-glides
 In addition to on-glides, there are also off-glides.   Most combinations are possible, but not all actually occur.  If you've been paying attention, you already know the off-glide:
 - **i** is ㄧ
-	- **i** with an off-glide **i** is spelled ㄧㄜ/**iǝ**, like Mandarin ie.  It can be pronounced as **i** followed by just about anything that doesn't involve lip-rounding, pretty much.
-	- ǝ takes no off-glides, except in the syllable ㄜㄧ.
+	- **i** with an off-glide **i** is spelled ㄧㄜ/**iǝ**, like Mandarin *ie*.  It can be pronounced as **i** followed by just about anything that doesn't involve lip-rounding, pretty much.
+	- **ǝ** takes no off-glides, except in the syllable ㄜㄧ.
 - **u** is ㄨ
 	- **eu** and **iu** are not allowed.  
-	- **u** with an off-glide of **u** is spelled ㄨㄛ/**uo**, like Mandarin uo.  It can be pronounced as **u** followed by just about anything that involves lip-rounded, pretty much
+	- **u** with an off-glide of **u** is spelled ㄨㄛ/**uo**, like Mandarin *uo*.  It can be pronounced as **u** followed by just about anything that involves lip-rounding, pretty much.
 
 ## Consonants
 - ㄅ is **b**
@@ -47,14 +50,28 @@ In addition to on-glides, there are also off-glides.   Most combinations are pos
 - ㄙ **s**
 - ㄊ **t**
 
+### Tips for English speakers
+Most of these will feel familiar, with a few traps.
+
+- **ㄅ b, ㄉ d, ㄍ g, ㄐ j** are voiced, as in "bat", "dog", "go" and "jam".
+- **ㄆ p, ㄊ t, ㄎ k** come with a puff of air.  Hold your hand in front of your mouth and say "top": you feel the puff.  Now say "stop": the puff goes away.  In Dan'a'yo it never goes away, so keep the puff of "top" every time.
+- **ㄑ c** is the "ch" of "cheese", also with a puff.  Remember that the letter **c** is never the sound of "k" or "s".
+- **ㄙ s** is the "s" of "sit", but it softens to "sh" before **i** or a **y** glide, so ㄙㄧㄆ sounds like "ship".
+- **ㄏ h** is the "h" of "hat".  A little rasp, like "loch", is fine.
+- **ㄌ l** is the "Asian l/r".  English speakers already make this sound: it is the "t" in American "water".
+- **ㄫ ng** is the "ng" of "sing", with no "g" sound after it.  It only ever ends a syllable.
+- **ㄇ m, ㄋ n, ㄈ f** are as in English.
+
+### Final stops
+ㄆ, ㄊ and ㄎ at the *end* of a syllable are different: you close your mouth and stop, with no puff.  You already do this.  A Midwesterner who bumps into you says "op!", and finishes with the lips still together.  Compare "opus", where the lips open for the next sound.  End ㄙㄧㄆ the same way, like the "op!": say "si" and finish with your lips pressed shut.
+
 ## Putting it all together
 So, you should now be able to sound out the writing above the Chinese characters.  Each character has one and only one syllable for its pronunciation, and it's always the same!  Syllables aren't allowed to affect each other, so don't say ㄋㄧㄋㄍㄚㄋ with a "ning".  Feel free to have a small pause between syllables to avoid this.
 
 A syllable is, therefore, 
 - Just one letter, if that letter is a vowel (ㄚ, ㄝ, ㄧ, ㄛ, ㄨ, ㄜ, ⼘, ⺢, ⼶, ⼔, ⼄, or ⼜)
 - Just two letters, if it is CV or VC 
-- Maximally three letters, CVC
-That description is a little bit cheating, because the final consonant can technically be another vowel, in the form of an off-glide.
+- Maximally three letters, CVC (That description is a little bit cheating, because the final consonant can technically be another vowel, in the form of an off-glide.)
 
 ## Drills
 
@@ -83,26 +100,26 @@ Read each character aloud using only the letters above it.  Then check yourself 
 20. <ruby>[[東]]<rt>ㄉㄛㄫ</rt></ruby>
 
 >[!answer]- Answers
-> 1. 一 ㄧㄊ = **it** (one)
-> 2. 二 ㄋㄧㄜ = **niǝ** (two)
-> 3. 三 ㄙㄚㄇ = **sam** (three)
-> 4. 十 ㄙㄧㄆ = **sip** (ten)
-> 5. 人 ㄋㄧㄋ = **nin** (person)
-> 6. 山 ㄙㄚㄋ = **san** (mountain)
-> 7. 大 ㄉㄚㄧ = **dai** (big)
-> 8. 口 ㄎㄛㄨ = **kou** (mouth)
-> 9. 木 ㄇㄛㄎ = **mok** (tree)
-> 10. 水 ㄙㄨ = **su** (water)
-> 11. 火 ㄏ⺢ = **hwa** (fire)
-> 12. 上 ㄙ⼘ㄫ = **syang** (up)
-> 13. 下 ㄏㄚ = **ha** (down)
-> 14. 女 ㄋㄜ = **nǝ** (woman)
-> 15. 千 ㄑㄝㄋ = **cen** (thousand)
-> 16. 日 ㄋㄧㄊ = **nit** (day)
-> 17. 有 ⼜ = **yu** (have)
-> 18. 魚 ⼄ = **yo** (fish)
-> 19. 雨 ㄨ = **u** (rain)
-> 20. 東 ㄉㄛㄫ = **dong** (east)
+> 1. 一 ㄧㄊ = **it**
+> 2. 二 ㄋㄧㄜ = **niǝ**
+> 3. 三 ㄙㄚㄇ = **sam**
+> 4. 十 ㄙㄧㄆ = **sip**
+> 5. 人 ㄋㄧㄋ = **nin**
+> 6. 山 ㄙㄚㄋ = **san**
+> 7. 大 ㄉㄚㄧ = **dai**
+> 8. 口 ㄎㄛㄨ = **kou**
+> 9. 木 ㄇㄛㄎ = **mok**
+> 10. 水 ㄙㄨ = **su**
+> 11. 火 ㄏ⺢ = **hwa**
+> 12. 上 ㄙ⼘ㄫ = **syang**
+> 13. 下 ㄏㄚ = **ha**
+> 14. 女 ㄋㄜ = **nǝ**
+> 15. 千 ㄑㄝㄋ = **cen**
+> 16. 日 ㄋㄧㄊ = **nit**
+> 17. 有 ⼜ = **yu**
+> 18. 魚 ⼄ = **yo**
+> 19. 雨 ㄨ = **u**
+> 20. 東 ㄉㄛㄫ = **dong**
 
 ### Drill 2: Take it apart
 Split each syllable into its parts: onset consonant, glide, vowel, final.  A part may be missing.
