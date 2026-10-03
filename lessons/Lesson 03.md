@@ -11,6 +11,7 @@ By the end of this lesson you will be able to:
 - Know that a character can have more than one form, and which form Dan'a'yo uses.
 - Recognize six common radicals.
 - Explain why 父 is a character but not a word.
+- Know 56 words: the 50 characters from Lesson 02 that are words on their own, and six new words.
 - Recognize, say and write 135 more characters, for 200 in all.
 
 You can now sound out the ruby, and you know the 65 basic characters.  This lesson gives you 135 more, and the tools to find any character you do not know.  The tools come first, because the list at the end is easier to learn when you can see how its characters are built.
@@ -97,16 +98,18 @@ A character is a shape.  A word is something you say and understand.  Many chara
 
 父 is not a word.  You cannot say ㄅㄨ by itself and be understood.  The word for "father" is 父親, ㄅㄨㄑㄧㄋ.  You are not responsible for 親 yet.  Learn only that 父 never appears alone, and that the meaning "father" is carried by the whole word 父親.  The same is true of 母, which lives in 母親, ㄇㄛㄨㄑㄧㄋ.
 
-| Character | Meaning | It appears in | Sound |
+| Character | Word | Meaning | Sound |
 |---|---|---|---|
-| 父 | father | 父親 | ㄅㄨㄑㄧㄋ |
-| 母 | mother | 母親 | ㄇㄛㄨㄑㄧㄋ |
-| 田 | field | 田野 | ㄉㄝㄋ·⼘ |
-| 虫 | bug | 昆虫 | ㄍㄛㄋㄐㄨㄫ |
-| 才 | talent | 天才 | ㄊㄝㄋㄐㄚㄧ |
-| 世 | world | 世界 | ㄙㄝㄍ⼶ |
+| 父 | 父親 | father | ㄅㄨㄑㄧㄋ |
+| 母 | 母親 | mother | ㄇㄛㄨㄑㄧㄋ |
+| 田 | 田野 | field | ㄉㄝㄋ·⼘ |
+| 虫 | 昆虫 | insect | ㄍㄛㄋㄐㄨㄫ |
+| 才 | 天才 | talented, genius | ㄊㄝㄋㄐㄚㄧ |
+| 世 | 世界 | world | ㄙㄝㄍ⼶ |
 
-Of the 65 characters in Lesson 02, 50 are words on their own and 15 are not: 世, 主, 元, 刀, 子, 才, 文, 次, 母, 父, 田, 糸, 羊, 虫 and 西.  When you meet one of these, expect it inside a longer word.
+These six are real words, and you now know them: <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby>, <ruby>母親<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>, <ruby>田野<rt>ㄉㄝㄋ·⼘</rt></ruby>, <ruby>昆虫<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>, <ruby>天才<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby> and <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>.
+
+Of the 65 characters in Lesson 02, 50 are words on their own and 15 are not: 世, 主, 元, 刀, 子, 才, 文, 次, 母, 父, 田, 糸, 羊, 虫 and 西.  When you meet one of these, expect it inside a longer word.  So you already know 50 words from Lesson 02, and with these six you know 56.
 
 ## The 135 Characters
 These 135 bring your total to 200.  They are grouped by shape, using the first number of the SKIP code, and run from the fewest strokes to the most.  Each shows its ruby, its meaning, its stroke count and its SKIP code.
