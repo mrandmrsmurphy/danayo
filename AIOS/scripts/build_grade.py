@@ -79,7 +79,7 @@ for i, s in enumerate(order, 1):
 stamp = 'date-last-perfect: ' + __import__('datetime').date.today().isoformat() + '\n' if STAMP else ''
 tags = 'tags:\n  - neologism\n  - lookup\n' if BYSTAND else 'tags: [lookup]\n'
 fm = f'---\nlanguage: 単亜語\n{stamp}size: {len(order)}\n{tags}---\n'
-title = ru('名') + '【[[専]]】' + ru('字') if BYSTAND else ru(ORD[N]) + ru('等級')
+title = ru('名専字') if BYSTAND else ru(ORD[N]) + ru('等級')
 head = f"**{title}** {ru('包含')} {ru('字')}{num(len(order))}{ru('個')}.\n\n{ru('種類')}:\n"
 bul = '\n'.join(f"- {ru(k)}{ru('字')}{num(c[k])}{ru('個')}" for k in ['形声', '象形', '会意', '指事'] if c[k])
 open(path, 'w').write(fm + head + bul + '\n\n' + '\n'.join(lines) + '\n' + ('\n' + base if base else ''))

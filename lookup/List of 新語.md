@@ -8,7 +8,7 @@ date-last-perfect: 2026-09-17
 ## Grammar
 1. <ruby>[事詞](/words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby> - action word
 2. <ruby>[単亜語](/words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> - Dan'a'yo
-3. [List of 名専字](List%20of%20名専字.md) - "name only character"
+3. <ruby>[名専字](/words/名専字.md)<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby> - name-only character
 4. <ruby>[性詞](/words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby> - stative word
 5. <ruby>[感詞](/words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> - interjection word
 6. <ruby>[擬詞](/words/擬詞.md)<rt>ㄧㄙㄚ</rt></ruby> - onomatopoeia word

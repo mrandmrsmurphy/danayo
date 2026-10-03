@@ -215,6 +215,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - alphabet
 	- <ruby>[文字](../words/文字.md)<rt>ㄇㄨㄋㄐㄧ</rt></ruby> = writing system
 - substitute character (one pressed into service in place of another, absent/rare/unavailable one) : <ruby>[代用字](../words/代用字.md)<rt>ㄉㄚㄧ⼄ㄫㄐㄧ</rt></ruby>
+- name-only character (one used only in proper names, with no semantic load of its own) : <ruby>[名専字](../words/名専字.md)<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby>
 	- <ruby>[字母](../words/字母.md)<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> = letter, grapheme
 - dictionary <ruby>[字典](../words/字典.md)<rt>ㄐㄧㄉㄝㄋ</rt></ruby>
 
