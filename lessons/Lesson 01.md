@@ -2,6 +2,8 @@
 language: English
 date-last-perfect: 2026-10-03
 ---
+> [[lesson-outline]]
+
 ## Learning objectives
 By the end of this lesson you will be able to:
 - Sound out the six vowel letters and the six glide letters.
