@@ -521,6 +521,8 @@ This curriculum guides learners from **sound → characters → basic sentences 
 ## SUPPLEMENTARY RESOURCES
 
 ### Vocabulary Lists (to be created per lesson):
+- Character assignments by lesson: [[lessons characters index]]
+- Word assignments by lesson: [[lessons word index]]
 - Core vocabulary for each lesson (20–50 words)
 - Example sentences for each word
 - Frequency ranking (common vs. rare)
