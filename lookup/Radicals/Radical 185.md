@@ -1,21 +1,20 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
-radical: 高
+radical: 首
+date-last-perfect: 2026-10-03
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 185 is 高, high or tall — depicting a tall structure or tower reaching upward. This radical appears in compounds relating to height, elevation, loftiness, and things that are above or superior. It symbolizes aspiration, excellence, and transcendence.
+> Radical 185 is 首, a head or leader — depicting the human head and neck. This radical appears in compounds relating to heads, leaders, chieftains, and things that are at the front or beginning. It carries connotations of authority, leadership, and prominence.
 
 ## Characters
 ### Used
-1. <ruby>[[高 (char)|高]]<rt>ㄍㄚㄨ</rt></ruby> - high
+1. <ruby>[[首]]<rt>ㄙ·ㄨ</rt></ruby> - head
 
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
-WHERE radical = "高"
+WHERE radical = "首"
 SORT stroke_count ASC
 ```

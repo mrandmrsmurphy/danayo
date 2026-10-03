@@ -18,7 +18,7 @@ tags: [lookup]
 
 ### +4 Strokes
 3. <ruby>[雰](/characters/雰.md)<rt>ㄆㄨㄋ</rt></ruby> - ambience
-4. [[雲 (char)]] - cloud
+4. <ruby>[雲](/characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> - cloud
 
 ### +5 Strokes
 5. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> - heavy rain

@@ -209,7 +209,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[㐮]] in [[lookup/HSK/HSK No]], [[lookup/Stroke/Stroke 13]]
 - [[积]] in [[lookup/HSK/Old HSK 2]]
 - [[邀]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅇ]]
-- [[摸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/名専字]]
+- [[摸]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 5]], [[lookup/List of 名専字]]
 - [[潑]] in [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/Korean/Korean Name ㅂ]]
 - [[裳]] in [[lookup/HSK/Old HSK 4]], [[lookup/HSK/Old HSK 6]]
 - [[../../characters/屍]] in [[lookup/HSK/Old HSK 6]], [[lookup/Japanese/Hyōgai]]

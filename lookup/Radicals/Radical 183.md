@@ -1,21 +1,23 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
-radical: 首
+radical: 飛
+date-last-perfect: 2026-10-03
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 183 is 首, a head or leader — depicting the human head and neck. This radical appears in compounds relating to heads, leaders, chieftains, and things that are at the front or beginning. It carries connotations of authority, leadership, and prominence.
+> Radical 183 is 飛, to fly or wings — depicting a bird in flight with wings spread. This radical appears in compounds relating to flying, wings, speed, and things that move through the air. It symbolizes freedom, movement, and the ethereal or intangible.
 
 ## Characters
 ### Used
-1. <ruby>[[首]]<rt>ㄙ·ㄨ</rt></ruby> - head
+1. <ruby>[[飛 (char)|飛]]<rt>ㄆㄧ</rt></ruby> - fly
+
+### Aliases
+- 䬡 --> 翻
 
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
 FROM "characters"
-WHERE radical = "首"
+WHERE radical = "飛"
 SORT stroke_count ASC
 ```

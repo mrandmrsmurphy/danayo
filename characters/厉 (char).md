@@ -51,7 +51,7 @@ boundedness: 75
 - 形声 (OC \*m·rads): semantic [厂](Radical%20027) + abbreviated phonetic [万](万.md) (OC \*m̥ʰraːds), also had semantic 石.
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 770th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄌㄝ](../syllables/ㄌㄝ.md)
-- [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ### 代用字
 - 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]

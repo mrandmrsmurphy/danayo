@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """build_grade.py N -- (re)build lookup/Grade N.md from characters/ ground truth.
 
-Usage (vault root):  python3 AIOS/scripts/build_grade.py 3 [--stamp]
+Usage (vault root):  python3 AIOS/scripts/build_grade.py 3|先進|名 [--stamp]   (先進 -> Grade Advanced.md, 名 -> Grade Name.md)
 
 Writes: frontmatter (language 単亜語, size, optional date-last-perfect), the intro line
 (第N等級 + 包含 + 字<count>個) with the 種類 bullets (形声/象形/会意/指事, counts from
@@ -14,7 +14,9 @@ Numerals are Dan'a'yo words (ruby, delinked): 二百 / 五十 / 三 + 百 ...; �
 import re, os, sys, subprocess
 from collections import Counter
 N = sys.argv[1]; STAMP = '--stamp' in sys.argv
-ORD = {'1':'一','2':'二','3':'三','4':'四','5':'五','6':'六'}
+ORD = {'1':'第一','2':'第二','3':'第三','4':'第四','5':'第五','6':'第六','先進':'先進','名':'名','名専字':'名専字'}
+PAGE = {'先進':'Grade Advanced','名':'Grade Name','名専字':'List of 名専字'}
+BYSTAND = N == '名専字'   # the list page: select on stand_in == 名専字, not on grade_level
 def sh(*a): return subprocess.run(a, capture_output=True, text=True).stdout
 radno = {}
 for f in os.listdir('lookup/Radicals'):
@@ -28,7 +30,8 @@ for f in sh('git', 'ls-files', 'characters').split('\n'):
     parts = open(f).read().split('---')
     if len(parts) < 3: continue
     fm = parts[1]; st = os.path.basename(f)[:-3]
-    g = re.search(r'^grade_level: *["\']?([^\n"\']*)', fm, re.M)
+    key_ = 'stand_in' if BYSTAND else 'grade_level'
+    g = re.search(rf'^{key_}: *["\']?([^\n"\']*)', fm, re.M)
     if not g or g.group(1).strip() != N: continue
     gq = lambda k: (re.search(rf'^{k}: *["\']?([^\n"\']*)["\']?\s*$', fm, re.M) or [0, ''])[1].strip()
     m = re.search(r'^english:\n((?:\s*- .*\n)+)', fm, re.M)
@@ -36,11 +39,12 @@ for f in sh('git', 'ls-files', 'characters').split('\n'):
     rows[st] = dict(rad=gq('radical'), sc=int(gq('stroke_count') or 0), zy=gq('注音'),
                     eng=[e.strip() for e in re.findall(r'-\s+(.*)', m.group(1))] if m else [],
                     gc=gc.group(1).strip() if gc else '', did=int(gq('danayo_id') or 0))
-path = f'lookup/Grade {N}.md'; t = open(path).read()
-body, base = t.split('## Base check', 1)
+path = f'lookup/{PAGE.get(N, "Grade " + N)}.md'; t = open(path).read()
+body, _, base = t.partition('## Base check')
+base = ('## Base check' + base) if _ else ''
 prev = [re.sub(r'^\.\./characters/', '', l) for l in re.findall(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]', body)]
 idx = {s: i for i, s in enumerate(prev)}
-VARIANT = {'已': '己'}   # radical fields with no radical page of their own (flagged: characters/已, 巻 say 已)
+VARIANT = {}   # radical fields that have no radical page of their own (none at present)
 for v in rows.values(): v['rad'] = VARIANT.get(v['rad'], v['rad'])
 bad = [s for s, v in rows.items() if v['rad'] not in radno]
 if bad: sys.exit(f'no radical number for {bad}')
@@ -73,8 +77,10 @@ for i, s in enumerate(order, 1):
     link = f'[[{s}|{label}]]' if s.endswith(' (char)') else f'[[{s}]]'
     lines.append(f'{i}. <ruby>{link}<rt>{rows[s]["zy"]}</rt></ruby> - ' + ', '.join(rows[s]['eng'][:3]))
 stamp = 'date-last-perfect: ' + __import__('datetime').date.today().isoformat() + '\n' if STAMP else ''
-fm = f'---\nlanguage: 単亜語\n{stamp}size: {len(order)}\ntags: [lookup]\n---\n'
-head = f"**{ru('第' + ORD[N])}{ru('等級')}** {ru('包含')} {ru('字')}{num(len(order))}{ru('個')}.\n\n{ru('種類')}:\n"
+tags = 'tags:\n  - neologism\n  - lookup\n' if BYSTAND else 'tags: [lookup]\n'
+fm = f'---\nlanguage: 単亜語\n{stamp}size: {len(order)}\n{tags}---\n'
+title = ru('名') + '【[[専]]】' + ru('字') if BYSTAND else ru(ORD[N]) + ru('等級')
+head = f"**{title}** {ru('包含')} {ru('字')}{num(len(order))}{ru('個')}.\n\n{ru('種類')}:\n"
 bul = '\n'.join(f"- {ru(k)}{ru('字')}{num(c[k])}{ru('個')}" for k in ['形声', '象形', '会意', '指事'] if c[k])
-open(path, 'w').write(fm + head + bul + '\n\n' + '\n'.join(lines) + '\n\n## Base check' + base)
+open(path, 'w').write(fm + head + bul + '\n\n' + '\n'.join(lines) + '\n' + ('\n' + base if base else ''))
 print(N, len(order), dict(c), 'previous entries kept in order:', sum(1 for s in prev if s in rows))
