@@ -62,6 +62,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 ### Mixing
 
 - <ruby>[交](../words/交.md)<rt>ㄍ⼄ㄨ</rt></ruby>: to mix, exchange — intermingling, distinct from [[混合]]'s general blending.
+- <ruby>[希釈](../words/希釈.md)<rt>ㄏㄧㄜㄙㄝㄎ</rt></ruby>: to dilute — to thin a solution by adding solvent, the opposite of concentrating; the reverse of mixing in more solute.
 - <ruby>[拌和](../words/拌和.md)<rt>ㄅㄚㄋㄏ⺢</rt></ruby>: to stir, mix, blend — see [[Food]] for its own citation there.
 
 ### Piercing & Digging
