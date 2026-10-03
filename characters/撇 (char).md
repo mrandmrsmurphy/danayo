@@ -55,3 +55,6 @@ date-last-perfect: 2026-08-15
 - <ruby>[[直撇]]<rt>ㄐㄧㄊㄆㄝㄊ</rt></ruby> "straight left-falling stroke (calligraphy stroke)"
 - <ruby>[[蘭葉撇]]<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby> "orchid-leaf left-falling stroke (calligraphy stroke)"
 
+## Chengyu
+- <ruby>[[先撇後捺]]<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby> "left-falling stroke first, right-falling after"
+

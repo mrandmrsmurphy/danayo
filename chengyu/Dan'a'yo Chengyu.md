@@ -58,3 +58,11 @@ views:
       note.注音: 81
 
 ```
+- <ruby>[上由下至](chengyu/上由下至.md)<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> - write from the top downward
+- <ruby>[左由右至](chengyu/左由右至.md)<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby> - write from the left to the right
+- <ruby>[先横後豎](chengyu/先横後豎.md)<rt>ㄙㄝㄋㄏ⺢ㄫㄏㄨㄛㄙㄨ</rt></ruby> - horizontal first, vertical after
+- <ruby>[先撇後捺](chengyu/先撇後捺.md)<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby> - left-falling stroke first, right-falling after
+- <ruby>[先外後内](chengyu/先外後内.md)<rt>ㄙㄝㄋ⺢ㄧㄏㄨㄛ·ㄋㄛㄧ</rt></ruby> - outside first, inside after
+- <ruby>[先填後閉](chengyu/先填後閉.md)<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby> - fill first, close after
+- <ruby>[先中後両](chengyu/先中後両.md)<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby> - middle first, both sides after
+- <ruby>[先画後点](chengyu/先画後点.md)<rt>ㄙㄝㄋㄏ⺢ㄎㄏㄨㄛㄉㄝㄇ</rt></ruby> - strokes first, dots after

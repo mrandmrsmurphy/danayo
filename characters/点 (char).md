@@ -75,3 +75,5 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches; one step away from perfection"
+- <ruby>[[先画後点]]<rt>ㄙㄝㄋㄏ⺢ㄎㄏㄨㄛㄉㄝㄇ</rt></ruby> "strokes first, dots after"
+

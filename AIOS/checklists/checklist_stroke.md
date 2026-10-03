@@ -140,3 +140,17 @@ Set when:
 - **`stroke_count` as a string** — use an integer (`3`, not `"3"`).
 - **Missing `OR stroke_count = N`** — the data check query needs both the quoted and unquoted form to catch all records regardless of how the frontmatter was entered.
 - **`## Data search` heading** — always use `## Data check`, not `## Data search` or `### Data check`.
+
+---
+
+## The top-level page `Stroke.md`
+
+`lookup/Stroke/Stroke.md` is not a leaf: it is the overview for the 30 leaf pages and carries the 永字八法 reference. It has its own, lighter rubric (stamped 2026-10-03):
+
+- Frontmatter: `date-last-perfect` and `tags: [lookup]`.
+- **Words get ruby; bare characters go in linked 【】 with no ruby.** A stroke name that is a word (点, 鉤, 撇, 捺, 瓜子点, 懸針豎 and so on) is a ruby'd link to its word file; a bound character mentioned as a character (横, 豎, 提, 弯, the classical 側 勒 努 …) is `【[[X]]】`. Characters that are off-label aliases link to the parent character page (趯 → 躍, 磔 → 捺 (char)).
+- The eight modern names are 点 横 豎 鉤 提 弯 撇 捺; each lists its classical name and Li Puguang's figurative name (怪石 玉案 鉄柱 蟹爪 虎牙 犀角 鳥啄 金刀).
+- Every sub-type named on the page is either a word file or, if ancient or unattested, left as split 【】 + words (仰勒, 俯勒, 斜掠, 豎掠, 弧掠 at the time of stamping).
+- The 筆順 rules are the four-couplet verse of eight 単亜語 chengyu, each linked.
+- `## Stroke Counts`: each line is `[[Stroke NN]]` plus the leaf's `size` written as 字 + Dan'a'yo numeral + 個 (ruby, delinked); recompute from the leaves whenever `lint Stroke` changes any `size`.
+- Remaining English prose in the sub-type descriptions is acknowledged as untranslated.

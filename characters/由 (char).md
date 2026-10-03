@@ -58,6 +58,8 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
+- <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> "write from the top downward"
+- <ruby>[[左由右至]]<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby> "write from the left to the right"
 
 ## Derived Characters
 - <ruby>[[油 (char)|油]]<rt>⼜</rt></ruby> "oil"

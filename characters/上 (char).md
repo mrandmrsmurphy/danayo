@@ -65,3 +65,5 @@ boundedness: 70
 
 ## Chengyu
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "above and below, no idols"
+- <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> "write from the top downward"
+

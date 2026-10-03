@@ -69,3 +69,10 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
 - <ruby>[[先題後述]]<rt>ㄙㄝㄋㄊㄝㄧㄏㄨㄛㄙㄨㄊ</rt></ruby> "topic-comment"
+- <ruby>[[先横後豎]]<rt>ㄙㄝㄋㄏ⺢ㄫㄏㄨㄛㄙㄨ</rt></ruby> "horizontal first, vertical after"
+- <ruby>[[先撇後捺]]<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby> "left-falling stroke first, right-falling after"
+- <ruby>[[先外後内]]<rt>ㄙㄝㄋ⺢ㄧㄏㄨㄛ·ㄋㄛㄧ</rt></ruby> "outside first, inside after"
+- <ruby>[[先填後閉]]<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby> "fill first, close after"
+- <ruby>[[先中後両]]<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby> "middle first, both sides after"
+- <ruby>[[先画後点]]<rt>ㄙㄝㄋㄏ⺢ㄎㄏㄨㄛㄉㄝㄇ</rt></ruby> "strokes first, dots after"
+

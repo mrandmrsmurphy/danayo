@@ -54,3 +54,6 @@ date-last-perfect: 2026-08-10
 ## Words
 - <ruby>[[填]]<rt>ㄉㄝㄋ</rt></ruby> "fill in; make good on" (stand-in for 填)
 - <ruby>[[充填]]<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby> "fill, stuff, pack"
+## Chengyu
+- <ruby>[[先填後閉]]<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby> "fill first, close after"
+

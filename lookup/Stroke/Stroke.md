@@ -1,6 +1,6 @@
 ---
+date-last-perfect: 2026-10-03
 tags: [lookup]
-
 ---
 ## 【[[永]]】<ruby>[[字]]<rt>ㄐㄧ</rt></ruby><ruby>[[八]]<rt>ㄅㄚㄊ</rt></ruby><ruby>[[法]]<rt>ㄈㄚㄆ</rt></ruby>
 ![永](images/forever.svg)
@@ -36,17 +36,13 @@ tags: [lookup]
 	2. <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby>: A "press" where the ending is more rounded and soft.
 
 Writing must be in <ruby>[[筆順]]<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>:
-- <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby>
-- <ruby>[[左由右至]]<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby>
-- <ruby>[[先横後豎]]<rt>ㄙㄝㄋㄏ⺢ㄫㄏㄨㄛㄙㄨ</rt></ruby>
-- <ruby>[[先外後内]]<rt>ㄙㄝㄋ⺢ㄧㄏㄨㄛ·ㄋㄛㄧ</rt></ruby>
-- <ruby>[[先填後閉]]<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby>
-- <ruby>[[先撇後捺]]<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby>
-- <ruby>[[先中後両]]<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby>
-- <ruby>[[点居最後]]<rt>ㄉㄝㄇㄍㄧㄐ⼔ㄏㄨㄛ</rt></ruby>
+- <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby>，<ruby>[[左由右至]]<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby>。
+- <ruby>[[先横後豎]]<rt>ㄙㄝㄋㄏ⺢ㄫㄏㄨㄛㄙㄨ</rt></ruby>，<ruby>[[先撇後捺]]<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby>。
+- <ruby>[[先外後内]]<rt>ㄙㄝㄋ⺢ㄧㄏㄨㄛ·ㄋㄛㄧ</rt></ruby>，<ruby>[[先填後閉]]<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby>。
+- <ruby>[[先中後両]]<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby>，<ruby>[[先画後点]]<rt>ㄙㄝㄋㄏ⺢ㄎㄏㄨㄛㄉㄝㄇ</rt></ruby>。
 
-## Stroke Counts
-**Stroke count/<ruby>[[筆画]]<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby><ruby>[[計数]]<rt>ㄍㄝㄧㄙㄨ</rt></ruby>** is an <ruby>[[古代]]<rt>ㄍㄛㄉㄚㄧ</rt></ruby> <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby> of <ruby>[[分類]]<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby> <ruby>[[漢字]]<rt>ㄏㄚㄋㄐㄧ</rt></ruby>, though not a very effective one.  We <ruby>[[保存]]<rt>ㄅㄚㄨㄐㄛㄋ</rt></ruby> it <ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>, though we prefer <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>, namely the SKIP <ruby>[[技術]]<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby>.  Rather than delineating within each <ruby>[[頁]]<rt>ㄏㄝㄊ</rt></ruby> by <ruby>[[部首]]<rt>ㄅㄛㄨㄙ⼜</rt></ruby>, this is the <ruby>[[体系]]<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby> we prefer.
+## 筆画計数
+**<ruby>[[筆画]]<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby><ruby>[[計数]]<rt>ㄍㄝㄧㄙㄨ</rt></ruby>** is an <ruby>[[古代]]<rt>ㄍㄛㄉㄚㄧ</rt></ruby> <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby> of <ruby>[[分類]]<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby> <ruby>[[漢字]]<rt>ㄏㄚㄋㄐㄧ</rt></ruby>, though not a very effective one.  We <ruby>[[保存]]<rt>ㄅㄚㄨㄐㄛㄋ</rt></ruby> it <ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>, though we prefer <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>, namely the SKIP <ruby>[[技術]]<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby>.  Rather than delineating within each <ruby>[[頁]]<rt>ㄏㄝㄊ</rt></ruby> by <ruby>[[部首]]<rt>ㄅㄛㄨㄙ⼜</rt></ruby>, this is the <ruby>[[体系]]<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby> we prefer.
 
 
 1. [[Stroke 01]] (<ruby>字<rt>ㄐㄧ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>)

@@ -66,3 +66,5 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
 - <ruby>[[魑魅罔両]]<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "all the demons"
+- <ruby>[[先中後両]]<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby> "middle first, both sides after"
+

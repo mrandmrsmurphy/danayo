@@ -89,6 +89,7 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
+- <ruby>[[先中後両]]<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby> "middle first, both sides after"
 
 ## Derived Characters
 - <ruby>[[仲]]<rt>ㄉㄨㄫ</rt></ruby> "mediator"

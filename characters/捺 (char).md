@@ -53,3 +53,6 @@ date-last-perfect: 2026-08-17
 - <ruby>[[方頭捺]]<rt>ㄈㄚㄫㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "square-headed right-falling stroke (calligraphy stroke)"
 - <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "round-headed right-falling stroke (calligraphy stroke)"
 
+## Chengyu
+- <ruby>[[先撇後捺]]<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby> "left-falling stroke first, right-falling after"
+

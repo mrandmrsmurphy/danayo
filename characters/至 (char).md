@@ -58,6 +58,10 @@ date-last-perfect: 2026-08-01
 - <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> "winter solstice"
 - <ruby>[[至極]]<rt>ㄐㄧㄜㄍㄧㄎ</rt></ruby> "height, extremity"
 
+## Chengyu
+- <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> "write from the top downward"
+- <ruby>[[左由右至]]<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby> "write from the left to the right"
+
 ## Derived Characters
 - <ruby>[[致 (char)|致]]<rt>ㄑㄧㄜ</rt></ruby> "cause"
 - <ruby>[[窒]]<rt>ㄉㄝㄊ</rt></ruby> "suffocate, choke"
