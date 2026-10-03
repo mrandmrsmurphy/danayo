@@ -46,11 +46,13 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, toil.
 - <ruby>[刻苦](../words/刻苦.md)<rt>ㄎㄨㄎㄎㄛ</rt></ruby>: assiduous, working hard through hardship — an austere, self-denying diligence, stricter than plain [[努力]].
 - <ruby>[消耗](../words/消耗.md)<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby>: to consume, deplete, drain (energy, resources, strength).
+- <ruby>[苦役](../words/苦役.md)<rt>ㄎㄛ⼶ㄎ</rt></ruby>: hard labor, forced labor, drudgery — painful compelled toil, as in the penal-servitude sense or a thankless chore.
 
 ### Difficulty, Danger & Trouble
 
 - <ruby>[災厄](../words/災厄.md)<rt>ㄐㄚㄧㄜㄎ</rt></ruby>: trouble, burden, disaster.
 - <ruby>[苦悶](../words/苦悶.md)<rt>ㄎㄛ·ㄇㄛㄋ</rt></ruby>: agony, anguish, worry, trouble.
+- <ruby>[苦悩](../words/苦悩.md)<rt>ㄎㄛ·ㄋㄚㄨ</rt></ruby>: anguish, torment, inner suffering — the literary, more introspective counterpart of [[苦悶]].
 - <ruby>[閙事](../words/閙事.md)<rt>ㄋ⼘ㄨㄐㄧ</rt></ruby>: to make a scene, cause trouble.
 - <ruby>[蠢動](../words/蠢動.md)<rt>ㄑㄨㄋㄉㄛㄫ</rt></ruby>: to wriggle, to stir up trouble, to act restlessly.
 

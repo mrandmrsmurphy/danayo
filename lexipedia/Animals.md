@@ -87,6 +87,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey.
 - <ruby>[蚊](../words/蚊.md)<rt>ㄇㄨㄋ</rt></ruby>: mosquito, gnat.
 - <ruby>[家蝿](../words/家蝿.md)<rt>ㄍㄚㄧㄫ</rt></ruby>: housefly.
+- <ruby>[猩蝿](../words/猩蝿.md)<rt>ㄙㄝㄫㄧㄫ</rt></ruby>: fruit fly, *Drosophila* — a Dan'a'yo shortening of the Japanese 猩々蠅, the "red-ape fly" named for its red eyes.
 - <ruby>[蝉](../words/蝉.md)<rt>ㄙㄝㄋ</rt></ruby>: cicada.
 - <ruby>[寒蝉](../words/寒蝉.md)<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby>: winter cicada — also used figuratively for someone who dares not speak (a winter cicada being unusual/silent out of season).
 - <ruby>[蜘蛛](../words/蜘蛛.md)<rt>ㄐㄧㄐㄨ</rt></ruby>: spider — an arachnid, not an insect, but grouped with this set in ordinary usage rather than with reptiles/fish below.
