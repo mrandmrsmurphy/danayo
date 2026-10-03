@@ -52,6 +52,7 @@ date-last-perfect: 2026-08-16
 - <ruby>[梁](../words/梁.md)<rt>ㄌ⼘ㄫ</rt></ruby> "girder"
 - <ruby>[[棟梁]]<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby> "ridgepole; mainstay"
 - <ruby>[[跳梁]]<rt>ㄊㄛㄨㄌ⼘ㄫ</rt></ruby> "to run rampant, to jump about wildly"
+- <ruby>[[梁州]]<rt>ㄌ⼘ㄫㄐㄨㄛ</rt></ruby> "Liang Province, one of the Nine Provinces"
 
 ## Chengyu
 - <ruby>[[跳梁跋扈]]<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> "running rampant; domineering and lawless"

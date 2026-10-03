@@ -46,6 +46,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[決定](../words/決定.md)<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby>: to decide.
 - <ruby>[判断](../words/判断.md)<rt>ㄆㄚㄋㄉ⺢ㄋ</rt></ruby>: to judge, decide, determine — the evaluative sense; see [[Existence]] for its own citation there.
 - <ruby>[決](../words/決.md)<rt>ㄎ⼔ㄊ</rt></ruby>: to determine, decide — the bound, classical form; see [[Existence]] for its own citation there.
+- <ruby>[既定](../words/既定.md)<rt>ㄍㄧㄜㄐㄝㄫ</rt></ruby>: already decided, established, predetermined — what has been settled before the present discussion; compare [[決定]], the act of deciding itself.
 
 ### Considering & Understanding
 
