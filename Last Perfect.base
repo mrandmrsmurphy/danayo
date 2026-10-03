@@ -13,7 +13,7 @@ views:
       - file.folder
     sort:
       - property: date-last-perfect
-        direction: DESC
+        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: joyo_level
@@ -31,7 +31,7 @@ views:
       - property: alias
         direction: ASC
     columnSize:
-      file.name: 75
+      file.name: 136
       note.注音: 97
       note.羅馬字: 106
       note.諺文: 62

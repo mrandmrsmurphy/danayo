@@ -230,4 +230,6 @@ These provinces (州) were civilizational and administrative regions ([[行政]]
 
 This concentric Nine-Provinces model eventually gave way to the historical reality of the Warring States, one of which — <ruby>[秦国](../words/秦国.md)<rt>ㄐㄧㄋㄍㄛㄎ</rt></ruby> (the state of Qin) — unified the others into China's first empire.
 
+Not every ancient polity survived to see that unification.  One of the earliest to vanish was <ruby>[鄂国](../words/鄂国.md)<rt>ㄚㄎㄍㄛㄎ</rt></ruby> (the State of E), destroyed in 863 BC, yet its name endures as the one-character abbreviation for Hubei.
+
 The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]]) to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.

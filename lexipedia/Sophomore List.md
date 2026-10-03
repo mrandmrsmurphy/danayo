@@ -739,7 +739,7 @@ _These are for place names, not the words themselves_
 	- wide - <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby>
 	- narrow - <ruby>[[狭窄]]<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>
 - Locations :
-	- central - <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby>
+	- central - <ruby>[[中央]]<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby>
 	- upper/high - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby>
 	- lower/low - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
 	- near - <ruby>[[近]]<rt>ㄍㄧㄋ</rt></ruby>
