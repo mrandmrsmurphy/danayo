@@ -43,7 +43,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 
 ### Sexual Orientation & Gender Identity
 
-- <ruby>[同性愛](../words/同性愛.md)<rt>ㄉㄛㄫㄙㄧㄫ·ㄚㄧ</rt></ruby>: homosexuality — literally "same-sex love," a clean, directly parallel compound across the whole Sinosphere with no real sense-divergence between languages.
+- <ruby>[同性愛](../words/同性愛.md)<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby>: homosexuality — literally "same-sex love," a clean, directly parallel compound across the whole Sinosphere with no real sense-divergence between languages.
 - <ruby>[跨性別](../words/跨性別.md)<rt>ㄎ⺢ㄙㄧㄫㄅㄝㄊ</rt></ruby>: transgender — literally "crossing/straddling sex/gender." Genuinely current in Mandarin/Cantonese usage; Japanese, Korean, and Vietnamese all prefer their own loanword or native term instead of a compositional reading (see the word's own Notes).
 
 **Not yet coined**: "lesbian" and "gay" as separate identity-words remain uncoined — [[同性愛]] names the general concept (homosexuality) but not either gender-specific identity term.

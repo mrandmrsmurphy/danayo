@@ -53,6 +53,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[災厄](../words/災厄.md)<rt>ㄐㄚㄧㄜㄎ</rt></ruby>: trouble, burden, disaster.
 - <ruby>[苦悶](../words/苦悶.md)<rt>ㄎㄛ·ㄇㄛㄋ</rt></ruby>: agony, anguish, worry, trouble.
 - <ruby>[苦悩](../words/苦悩.md)<rt>ㄎㄛ·ㄋㄚㄨ</rt></ruby>: anguish, torment, inner suffering — the literary, more introspective counterpart of [[苦悶]].
+- <ruby>[苦難](../words/苦難.md)<rt>ㄎㄛ·ㄋㄚㄋ</rt></ruby>: hardship, tribulation, suffering — suffering imposed by circumstance, as against the inner anguish of [[苦悩]].
 - <ruby>[閙事](../words/閙事.md)<rt>ㄋ⼘ㄨㄐㄧ</rt></ruby>: to make a scene, cause trouble.
 - <ruby>[蠢動](../words/蠢動.md)<rt>ㄑㄨㄋㄉㄛㄫ</rt></ruby>: to wriggle, to stir up trouble, to act restlessly.
 
