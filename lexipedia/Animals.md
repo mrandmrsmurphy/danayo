@@ -139,6 +139,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[羚羊](../words/羚羊.md)<rt>ㄌㄝㄫ⼘ㄫ</rt></ruby>: antelope.
 - <ruby>[猿猩](../words/猿猩.md)<rt>ㄛㄋㄙㄝㄫ</rt></ruby>: monkey, ape — the stand-in compound that legitimizes the bound character 猿.
 - <ruby>[倭猩](../words/倭猩.md)<rt>⼔ㄧㄙㄝㄫ</rt></ruby>: bonobo.
+- <ruby>[大猩](../words/大猩.md)<rt>ㄉㄚㄧㄙㄝㄫ</rt></ruby>: gorilla — shortened from 大猩猩, "great ape", the largest living primate.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
 - <ruby>[河馬](../words/河馬.md)<rt>ㄏㄚ·ㄇㄚ</rt></ruby>: hippopotamus.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
