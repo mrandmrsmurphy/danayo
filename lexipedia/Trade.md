@@ -55,6 +55,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[賃](../words/賃.md)<rt>ㄋㄧㄇ</rt></ruby>: rent — a bound near-synonym of [[租金]].
 - <ruby>[貸出](../words/貸出.md)<rt>ㄊㄚㄧㄑㄨㄊ</rt></ruby>: a loan.
 - <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
+- <ruby>[償還](../words/償還.md)<rt>ㄙ⼘ㄫㄏ⺢ㄋ</rt></ruby>: repayment, restitution, compensation — returning what is owed; financial and legal only, not the theological [[救贖]] (see [Christianity](../lexipedia/基督敎.md)).
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
 - <ruby>[利率](../words/利率.md)<rt>ㄌㄧㄜㄌㄨㄊ</rt></ruby>: an interest rate — resolves this page's own previously-flagged "interest" gap.
