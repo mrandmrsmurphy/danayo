@@ -57,5 +57,5 @@ boundedness: 90
 - <ruby>[[宇宙局]]<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby> "space agency"
 - <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
-- <ruby>[[造幣局]]<rt>ㄑㄚㄨㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
+- <ruby>[[造幣局]]<rt>ㄑㄚㄨ·ㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
 - <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"

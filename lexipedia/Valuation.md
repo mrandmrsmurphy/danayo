@@ -53,6 +53,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[些少](../words/些少.md)<rt>ㄙㄚㄙㄛㄨ</rt></ruby>: slight. See [Dimensions](../lexipedia/Dimensions.md) for its own citation there.
 
 **Not yet coined**: "especial" and "intense" both have no dedicated Dan'a'yo word yet.
+- <ruby>[軽重](../words/軽重.md)<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby>: relative weight or importance — literally "lightness and heaviness", the proper weighing of one thing against another.
 
 ### Beauty & Appearance
 
