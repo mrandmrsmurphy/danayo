@@ -1,7 +1,7 @@
 ---
 size: 46
 radical: 宀
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags:
   - lookup
 ---
@@ -26,8 +26,8 @@ tags:
 7. <ruby>[宏](../../characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> - grand
 
 ### +5 Strokes
-8. <ruby>[宕](../../characters/宕.md)<rt>ㄉㄚㄫ</rt></ruby> - quarry
-9. <ruby>[宗](../../characters/宗.md)<rt>ㄐㄛㄫ</rt></ruby> - sect
+8. <ruby>[宕](../../characters/宕.md)<rt>ㄉㄚㄫ</rt></ruby> - cave dwelling
+9. <ruby>[宗](../../characters/宗.md)<rt>ㄐㄛㄫ</rt></ruby> - religion
 10. <ruby>[官](../../characters/官.md)<rt>ㄍ⺢ㄋ</rt></ruby> - official
 11. <ruby>[宙](../../characters/宙%20(char).md)<rt>ㄐㄨㄛ</rt></ruby> - eternity
 12. <ruby>[定](../../characters/定.md)<rt>ㄐㄝㄫ</rt></ruby> - decide
@@ -42,7 +42,7 @@ tags:
 19. <ruby>[室](../../characters/室.md)<rt>ㄙㄧㄊ</rt></ruby> - room
 
 ### +7 Strokes
-20. <ruby>[宮](../../characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> - palace
+20. <ruby>[宮](../../characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> - royal court
 21. <ruby>[宰](../../characters/宰.md)<rt>ㄐㄚㄧ</rt></ruby> - superintend
 22. <ruby>[害](../../characters/害.md)<rt>ㄏㄚㄧ</rt></ruby> - damage
 23. <ruby>[宴](../../characters/宴.md)<rt>ㄝㄋ</rt></ruby> - banquet
@@ -59,7 +59,7 @@ tags:
 32. <ruby>[寇](../../characters/寇.md)<rt>ㄎㄛㄨ</rt></ruby> - bandit
 
 ### +9 Strokes
-33. <ruby>[富](../../characters/富.md)<rt>ㄈㄨㄛ</rt></ruby> - rich
+33. <ruby>[富](../../characters/富.md)<rt>ㄈㄨㄛ</rt></ruby> - abundance
 34. <ruby>[寐](../../characters/寐.md)<rt>ㄇㄧㄜ</rt></ruby> - deep sleep
 35. <ruby>[寒](../../characters/寒.md)<rt>ㄏㄚㄋ</rt></ruby> - cold
 36. <ruby>[寓](../../characters/寓.md)<rt>ㄨ</rt></ruby> - residence
@@ -82,8 +82,8 @@ tags:
 ### +16 Strokes
 46. <ruby>[寵](../../characters/寵.md)<rt>ㄑㄛㄫ</rt></ruby> - pet
 
-## Notes
-- [字 (char)](../../characters/字%20(char).md) is not officially listed here, but bears this radical
+## Other
+- [字](../../characters/字%20(char).md) has 宀 in it, but is listed under 子.
 
 ## Data check
 ```dataview

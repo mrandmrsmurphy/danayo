@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 62
 radical: 女
 tags: [lookup]
@@ -28,9 +28,9 @@ tags: [lookup]
 9. <ruby>[妓](../../characters/妓.md)<rt>ㄍㄧ</rt></ruby> - actress
 10. <ruby>[妖](../../characters/妖.md)<rt>⼘ㄨ</rt></ruby> - goblin
 11. <ruby>[妙](../../characters/妙%20(char).md)<rt>ㄇ⼄ㄨ</rt></ruby> - mysterious
-12. <ruby>[妠](../../characters/妠.md)<rt>ㄋㄨㄇ</rt></ruby> - num
+12. <ruby>[妠](../../characters/妠.md)<rt>ㄋㄨㄇ</rt></ruby> - seize
 13. <ruby>[妥](../../characters/妥.md)<rt>ㄊㄚ</rt></ruby> - appropriate
-14. <ruby>[妨](../../characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> - obstruct
+14. <ruby>[妨](../../characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> - hinder
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous
@@ -40,7 +40,7 @@ tags: [lookup]
 19. <ruby>[姂](../../characters/姂.md)<rt>ㄅㄛㄆ</rt></ruby> - beautiful quiet (of a woman)
 20. <ruby>[姉](../../characters/姉%20(char).md)<rt>ㄐㄚ</rt></ruby> - elder sister
 21. <ruby>[始](../../characters/始.md)<rt>ㄙㄧ</rt></ruby> - begin
-22. <ruby>[姏](../../characters/姏.md)<rt>ㄇㄛㄇ</rt></ruby> - greatgrandmother
+22. <ruby>[姏](../../characters/姏.md)<rt>ㄇㄛㄇ</rt></ruby> - old woman
 23. <ruby>[姑](../../characters/姑.md)<rt>ㄍㄛ</rt></ruby> - paternal aunt
 24. <ruby>[姓](../../characters/姓.md)<rt>ㄙㄧㄫ</rt></ruby> - surname
 25. <ruby>[委](../../characters/委%20(char).md)<rt>⼔ㄧ</rt></ruby> - appoint
@@ -82,7 +82,7 @@ tags: [lookup]
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant
 53. <ruby>[嫁](../../characters/嫁.md)<rt>ㄍㄚ</rt></ruby> - give in marriage
-54. <ruby>[嫉](../../characters/嫉.md)<rt>ㄐㄧㄊ</rt></ruby> - enny
+54. <ruby>[嫉](../../characters/嫉.md)<rt>ㄐㄧㄊ</rt></ruby> - envy
 55. <ruby>[嫌](../../characters/嫌.md)<rt>ㄏㄝㄇ</rt></ruby> - detest
 
 56. <ruby>[嫂](../../characters/嫂.md)<rt>ㄙㄚㄨ</rt></ruby> - sister-in-law
@@ -99,7 +99,7 @@ tags: [lookup]
 61. <ruby>[嬴](../../characters/嬴.md)<rt>⼶ㄫ</rt></ruby> - Yingzhou
 
 ### +14 Strokes
-62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - newborn
+62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - infant
 
 ## Data check
 ```dataview

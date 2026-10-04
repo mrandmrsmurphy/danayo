@@ -1,16 +1,16 @@
 ---
 size: 1
 radical: 夊
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 35 is 夊, the end of autumn or beginning of winter — a variation of 夂 that depicts descent and seasonal transition. It appears in characters related to the season, the passing of time, or things that are waning or coming to an end.
+> Radical 35 is 夊, a variant of 夂 ("walking slowly", a foot pointing down). Only one character is classified here, grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[[夏]]<rt>ㄏ⼘</rt></ruby> - summer
+1. <ruby>[夏](../../characters/夏%20(char).md)<rt>ㄏ⼘</rt></ruby> - summer
 
 ## Data check
 ```dataview

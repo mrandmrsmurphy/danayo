@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 23
 radical: 大
 tags: [lookup]
@@ -13,8 +13,8 @@ tags: [lookup]
 1. <ruby>[大](../../characters/大%20(char).md)<rt>ㄉㄚㄧ</rt></ruby> - big
 
 ### +1 Stroke
-2. <ruby>[夭](../../characters/夭.md)<rt>⼄ㄨ</rt></ruby> - gentle
-3. <ruby>[夫](../../characters/夫%20(char).md)<rt>ㄈㄜ</rt></ruby> - right?
+2. <ruby>[夭](../../characters/夭.md)<rt>⼄ㄨ</rt></ruby> - to die young
+3. <ruby>[夫](../../characters/夫%20(char).md)<rt>ㄈㄜ</rt></ruby> - man
 4. <ruby>[天](../../characters/天%20(char).md)<rt>ㄊㄝㄋ</rt></ruby> - sky
 5. <ruby>[太](../../characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - great
 

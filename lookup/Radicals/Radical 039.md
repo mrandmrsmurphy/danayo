@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 13
 radical: 子
 tags: [lookup]
@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[子](../../characters/子.md)<rt>ㄐㄧ</rt></ruby> - son, child
+1. <ruby>[子](../../characters/子.md)<rt>ㄐㄜ</rt></ruby> - son
 
 ### +1 Stroke
 2. <ruby>[孔](../../characters/孔%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> - cavity
@@ -24,16 +24,16 @@ tags: [lookup]
 5. <ruby>[存](../../characters/存.md)<rt>ㄐㄛㄋ</rt></ruby> - survive
 
 ### +4 Strokes
-6. <ruby>[孚](../../characters/孚.md)<rt>ㄈㄨ</rt></ruby> - confident, sincere
+6. <ruby>[孚](../../characters/孚.md)<rt>ㄈㄨ</rt></ruby> - confident
 7. <ruby>[孝](../../characters/孝%20(char).md)<rt>ㄏ⼘ㄨ</rt></ruby> - filial piety
 
 ### +5 Strokes
-8. <ruby>[孟](../../characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby> - first, great
-9. <ruby>[孤](../../characters/孤.md)<rt>ㄍㄛ</rt></ruby> - lone, lonely
+8. <ruby>[孟](../../characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby> - first
+9. <ruby>[孤](../../characters/孤.md)<rt>ㄍㄛ</rt></ruby> - lone
 10. <ruby>[学](../../characters/学.md)<rt>ㄏㄚㄎ</rt></ruby> - learn
 
 ### +6 Strokes
-11. <ruby>[孩](../../characters/孩.md)<rt>ㄏㄚㄧ</rt></ruby> - baby, child
+11. <ruby>[孩](../../characters/孩.md)<rt>ㄏㄚㄧ</rt></ruby> - baby
 
 ### +7 Strokes
 12. <ruby>[孫](../../characters/孫.md)<rt>ㄙㄛㄋ</rt></ruby> - grandchild
