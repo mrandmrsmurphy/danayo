@@ -52,7 +52,7 @@ boundedness: 80
 - <ruby>[[千年]]<rt>ㄑㄝㄋㄋㄝㄋ</rt></ruby> "millennium; a thousand years"
 - <ruby>[[千年紀]]<rt>ㄑㄝㄋㄋㄝㄋㄍㄧ</rt></ruby> "millennium (numbered historical unit)"
 - <ruby>[[年刊]]<rt>ㄋㄝㄋㄎㄚㄋ</rt></ruby> "annual, annual publication"
-- <ruby>[[週年]]<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby> "anniversary"
+- <ruby>[[週年]]<rt>ㄐㄨㄛ·ㄋㄝㄋ</rt></ruby> "anniversary"
 - <ruby>[[百年]]<rt>ㄅㄚㄎㄋㄝㄋ</rt></ruby> "a hundred years"
 - <ruby>[[万年]]<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby> "ten thousand years; eternity"
 - <ruby>[[前年]]<rt>ㄐㄝㄋㄋㄝㄋ</rt></ruby> "previous year"

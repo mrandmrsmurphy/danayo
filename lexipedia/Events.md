@@ -57,7 +57,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[儀式](../words/儀式.md)<rt>ㄜㄧㄙㄧㄎ</rt></ruby>: a ritual ceremony.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[祭典](../words/祭典.md)<rt>ㄐㄝㄉㄝㄋ</rt></ruby>: a festival, sacrificial ceremony.
-- <ruby>[週年](../words/週年.md)<rt>ㄐㄨㄛㄋㄝㄋ</rt></ruby>: an anniversary.
+- <ruby>[週年](../words/週年.md)<rt>ㄐㄨㄛ·ㄋㄝㄋ</rt></ruby>: an anniversary.
 - <ruby>[生日](../words/生日.md)<rt>ㄙㄚㄫㄋㄧㄊ</rt></ruby>: a birthday.
 - <ruby>[恭賀](../words/恭賀.md)<rt>ㄍ⼄ㄫㄏㄚ</rt></ruby>, <ruby>[慶](../words/慶.md)<rt>ㄎ⼶ㄫ</rt></ruby>, <ruby>[祝賀](../words/祝賀.md)<rt>ㄐㄨㄎㄏㄚ</rt></ruby>: to congratulate, celebrate.
 - <ruby>[来賓](../words/来賓.md)<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby>: a guest, visitor (at an event).
@@ -76,6 +76,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[誠意](../words/誠意.md)<rt>ㄙㄧㄫㄜ</rt></ruby>: to act in good faith, do sincerely.
 - <ruby>[繁忙](../words/繁忙.md)<rt>ㄆㄚㄋㄇㄚㄫ</rt></ruby>: busy.
 - <ruby>[逗留](../words/逗留.md)<rt>ㄉㄚㄨㄌ⼜</rt></ruby>: to stay, pause, sojourn.
+- <ruby>[週番](../words/週番.md)<rt>ㄐㄨㄛㄈㄚㄋ</rt></ruby>: weekly duty — the turn of duty rotated among a group each week, or the person on it.
 
 ### Development & Topic
 

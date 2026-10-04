@@ -56,6 +56,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — an undocumented near-duplicate of [[了解]]; see [[Knowledge]] for its own citation there.
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
+- <ruby>[鑑定](../words/鑑定.md)<rt>ㄍㄚㄇㄐㄝㄫ</rt></ruby>: to appraise, authenticate — an expert's considered determination of what a thing is or is worth.
 
 - <ruby>[具体](../words/具体.md)<rt>ㄍㄨ·ㄊㄝㄧ</rt></ruby>: concrete, specific.
 - <ruby>[許容](../words/許容.md)<rt>ㄏ⼄⼄ㄫ</rt></ruby>: to permit, tolerate.
