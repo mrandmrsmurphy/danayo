@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 方
 tags: [lookup]
@@ -14,7 +14,7 @@ tags: [lookup]
 1. <ruby>[方](../../characters/方.md)<rt>ㄈㄚㄫ</rt></ruby> - direction
 
 ### +4 Strokes
-2. <ruby>[於](../../characters/於%20(char).md)<rt>ㄛ</rt></ruby> - in, at
+2. <ruby>[於](../../characters/於%20(char).md)<rt>ㄛ</rt></ruby> - in
 
 ### +5 Strokes
 3. <ruby>[施](../../characters/施.md)<rt>ㄙㄝ</rt></ruby> - implement
@@ -25,10 +25,10 @@ tags: [lookup]
 
 ### +7 Strokes
 6. <ruby>[旋](../../characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> - revolve
-7. <ruby>[族](../../characters/族.md)<rt>ㄐㄛㄎ</rt></ruby> - tribe, clan
+7. <ruby>[族](../../characters/族.md)<rt>ㄐㄛㄎ</rt></ruby> - tribe
 
 ### +10 Strokes
-8. <ruby>[旗](../../characters/旗.md)<rt>ㄎㄧ</rt></ruby> - banner, flag
+8. <ruby>[旗](../../characters/旗.md)<rt>ㄎㄧ</rt></ruby> - banner
 
 ## Data check
 ```dataview

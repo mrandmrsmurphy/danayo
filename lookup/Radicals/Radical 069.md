@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 7
 radical: 斤
 tags: [lookup]
@@ -21,10 +21,10 @@ tags: [lookup]
 
 ### +7 Strokes
 4. <ruby>[断](../../characters/断.md)<rt>ㄉ⺢ㄋ</rt></ruby> - cut off
-5. <ruby>[斬](../../characters/斬%20(char).md)<rt>ㄐㄚㄇ</rt></ruby> - cut, chop, sever
+5. <ruby>[斬](../../characters/斬%20(char).md)<rt>ㄐㄚㄇ</rt></ruby> - cut
 
 ### +8 Strokes
-6. <ruby>[斯](../../characters/斯.md)<rt>ㄙㄧ</rt></ruby> - this, then
+6. <ruby>[斯](../../characters/斯.md)<rt>ㄙㄧ</rt></ruby> - this
 
 ### +9 Strokes
 7. <ruby>[新](../../characters/新%20(char).md)<rt>ㄙㄧㄋ</rt></ruby> - new

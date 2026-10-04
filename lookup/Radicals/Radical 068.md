@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 5
 radical: 斗
 tags: [lookup]
@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[斗](../../characters/斗%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - peck, Dipper
+1. <ruby>[斗](../../characters/斗%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - peck
 
 ### +6 Strokes
 2. <ruby>[料](../../characters/料.md)<rt>ㄌ⼘ㄨ</rt></ruby> - material

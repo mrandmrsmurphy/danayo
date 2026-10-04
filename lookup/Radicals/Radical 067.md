@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 4
 radical: 文
 tags: [lookup]
@@ -14,11 +14,11 @@ tags: [lookup]
 1. <ruby>[文](../../characters/文.md)<rt>ㄇㄨㄋ</rt></ruby> - culture
 
 ### +7 Strokes
-2. <ruby>[斎](../../characters/斎.md)<rt>ㄐㄚㄧ</rt></ruby> - fast, study
+2. <ruby>[斎](../../characters/斎.md)<rt>ㄐㄚㄧ</rt></ruby> - fast
 
 ### +8 Strokes
-3. <ruby>[斑](../../characters/斑.md)<rt>ㄅㄚㄋ</rt></ruby> - spot, speck
-4. <ruby>[斐](../../characters/斐.md)<rt>ㄈㄨㄧ</rt></ruby> - graceful, elegant
+3. <ruby>[斑](../../characters/斑.md)<rt>ㄅㄚㄋ</rt></ruby> - spot
+4. <ruby>[斐](../../characters/斐.md)<rt>ㄈㄨㄧ</rt></ruby> - graceful
 
 ## Data check
 ```dataview

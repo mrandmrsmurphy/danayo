@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 59
 radical: 日
 tags: [lookup]
@@ -13,7 +13,7 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[日](../../characters/日%20(char).md)<rt>ㄋㄧㄊ</rt></ruby> - day
 
-### +1 Strokes
+### +1 Stroke
 2. <ruby>[旦](../../characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> - daybreak
 3. <ruby>[旧](../../characters/旧%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - paleo-
 
@@ -38,9 +38,9 @@ tags: [lookup]
 17. <ruby>[昏](../../characters/昏.md)<rt>ㄏㄛㄋ</rt></ruby> - dusk
 18. <ruby>[易](../../characters/易.md)<rt>⼶ㄎ</rt></ruby> - easy
 19. <ruby>[昔](../../characters/昔.md)<rt>ㄙㄝㄎ</rt></ruby> - long ago
-20. <ruby>[显](../../characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> - chrysalis
 
 ### +5 Strokes
+20. <ruby>[显](../../characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> - evident
 21. <ruby>[昜](../../characters/昜.md)<rt>⼘ㄇ</rt></ruby> - sunbeam
 22. <ruby>[星](../../characters/星%20(char).md)<rt>ㄙㄝㄫ</rt></ruby> - star
 23. <ruby>[映](../../characters/映%20(char).md)<rt>⼶ㄫ</rt></ruby> - reflect
@@ -59,7 +59,7 @@ tags: [lookup]
 34. <ruby>[晋](../../characters/晋.md)<rt>ㄐㄧㄋ</rt></ruby> - increase
 35. <ruby>[晏](../../characters/晏.md)<rt>⼘ㄋ</rt></ruby> - late
 36. <ruby>[晒](../../characters/晒%20(char).md)<rt>ㄙ⼘ㄧ</rt></ruby> - expose
-37. <ruby>[晦](../../characters/晦.md)<rt>ㄏㄛㄧ</rt></ruby> - obscure
+37. <ruby>[晦](../../characters/晦.md)<rt>ㄏㄛㄧ</rt></ruby> - dark, obscure
 
 ### +7 Strokes
 38. <ruby>[晨](../../characters/晨.md)<rt>ㄙㄧㄋ</rt></ruby> - early morning
