@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 5
 radical: 干
 tags: [lookup]
@@ -11,10 +11,10 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[干](../../characters/干.md)<rt>ㄍㄚㄋ</rt></ruby> - dry
+1. <ruby>[干](../../characters/干.md)<rt>ㄍㄚㄋ</rt></ruby> - shield
 
 ### +2 Strokes
-2. <ruby>[平](../../characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby> - even
+2. <ruby>[平](../../characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby> - horizontal
 
 ### +3 Strokes
 3. <ruby>[年](../../characters/年%20(char).md)<rt>ㄋㄝㄋ</rt></ruby> - year

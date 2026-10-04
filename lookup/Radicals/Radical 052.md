@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 4
 radical: 幺
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The radical 幺 depicts a tiny, short thread or skein of silk. No character is filed at +0, so groupings below start at +N.
+> The radical 幺, 3 strokes, depicting a small thread or skein of silk. No character is filed at +0, so groupings below start at +1.
 
 ## Strokes
 
@@ -17,7 +17,7 @@ tags: [lookup]
 2. <ruby>[幼](../../characters/幼.md)<rt>⼜ㄛ</rt></ruby> - infant
 
 ### +6 Strokes
-3. <ruby>[幽](../../characters/幽%20(char).md)<rt>⼜ㄛ</rt></ruby> - quiet, secluded
+3. <ruby>[幽](../../characters/幽%20(char).md)<rt>⼜ㄛ</rt></ruby> - quiet
 
 ### +9 Strokes
 4. <ruby>[幾](../../characters/幾%20(char).md)<rt>ㄍㄧㄜ</rt></ruby> - several

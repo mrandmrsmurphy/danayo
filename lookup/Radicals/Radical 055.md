@@ -1,16 +1,14 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 4
 radical: 廾
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The two-hands/clasped-hands radical 廾, depicting two hands raised together.
+> The two-hands/clasped-hands radical 廾, 3 strokes, depicting two hands raised together. No character is filed at +0, so groupings below start at +1.
 
 ## Strokes
-
-No character is filed at +0, so groupings below start at +1.
 
 ### +1 Stroke
 1. <ruby>[廿](../../characters/廿.md)<rt>ㄋㄧㄆ</rt></ruby> - twentieth

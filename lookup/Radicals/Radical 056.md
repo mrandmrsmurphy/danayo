@@ -1,17 +1,17 @@
 ---
 size: 2
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 弋
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 56 is 弋, an ancient dart or arrow — a weapon used in hunting and warfare, depicted as a shaft with a barb or hook. This radical appears in compounds relating to shooting, speed, directness, or actions that strike swiftly and decisively.
+> Radical 56 is 弋, an ancient dart or arrow, a shaft with a barb or hook. Characters classified here are grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[式](characters/式.md)<rt>ㄙㄧㄎ</rt></ruby> - style
-2. <ruby>[弒](characters/弒.md)<rt>ㄊㄧ</rt></ruby> - assassinate
+1. <ruby>[式](../../characters/式.md)<rt>ㄙㄧㄎ</rt></ruby> - style
+2. <ruby>[弒](../../characters/弒.md)<rt>ㄊㄧ</rt></ruby> - assassinate
 
 ## Data check
 ```dataview
