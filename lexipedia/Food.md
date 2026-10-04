@@ -85,6 +85,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[穀物](../words/穀物.md)<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>: grain, cereal, crops.
 - <ruby>[穣](../words/穣.md)<rt>ㄋ⼘ㄫ</rt></ruby>: stalks of grain.
 - <ruby>[米粟](../words/米粟.md)<rt>ㄇㄝㄧㄙ⼄ㄎ</rt></ruby>: grains, rice and millet.
+- <ruby>[大麦](../words/大麦.md)<rt>ㄉㄚㄧㄇㄚㄎ</rt></ruby>: barley.
 - <ruby>[稗子](../words/稗子.md)<rt>ㄅㄚㄧㄐㄜ</rt></ruby>: barnyard millet (a specific grain species).
 - <ruby>[玄米](../words/玄米.md)<rt>ㄏ⼔ㄋㄇㄝㄧ</rt></ruby>: brown rice.
 - <ruby>[粥](../words/粥.md)<rt>ㄐㄨㄎ</rt></ruby>: congee, rice porridge.
