@@ -67,6 +67,6 @@ boundedness: 75
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
 
 ## Chengyu
-- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three cardinal guides and five constant virtues"
-- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
+- <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"
+- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference, deceptive wordplay over an unchanged reality"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"

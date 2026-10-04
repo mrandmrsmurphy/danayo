@@ -68,6 +68,6 @@ boundedness: 100
 - <ruby>[[下弦]]<rt>ㄏㄚㄏㄝㄋ</rt></ruby> "last quarter moon"
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"
-- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "above and below, no idols"
+- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"
 - <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> "write from the top downward"
 

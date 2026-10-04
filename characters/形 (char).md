@@ -73,6 +73,6 @@ While this character can appear alone, it is somewhat rare to do so.
 - <ruby>[[古形]]<rt>ㄍㄛㄏㄝㄫ</rt></ruby> "old form; archaic form"
 
 ## Chengyu
-- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
+- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle; the rule that phonology and character are displayed together"
 - <ruby>[[形助顕理]]<rt>ㄏㄝㄫㄐㄛㄏㄝㄋㄌㄧ</rt></ruby> "form helps reveal structure"
 - <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "Create man (in our) image (and) likeness"

@@ -55,4 +55,4 @@ date-last-perfect: 2026-09-08
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
 
 ## Chengyu
-- <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "as boundless as the sky and sea"
+- <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "As boundless as the sky and sea"

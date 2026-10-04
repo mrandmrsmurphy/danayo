@@ -56,4 +56,4 @@ date-last-perfect: 2026-08-09
 - <ruby>[[穿孔机]]<rt>ㄑㄝㄋㄎㄛㄫㄍㄧㄜ</rt></ruby> "puncher, perforator, boring machine"
 
 ## Chengyu
-- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"

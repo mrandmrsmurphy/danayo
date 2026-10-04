@@ -57,7 +57,7 @@ boundedness: 90
 - <ruby>[[耳目]]<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby> "eyes and ears; snoops and spies"
 - <ruby>[[目的語]]<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby> "grammatical object"
 ## Chengyu
-- <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance; obvious; apparent"
+- <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"
 
 ## Derived Characters
 - <ruby>[[冒]]<rt>ㄇㄚㄨ</rt></ruby> "take a risk; adventure"

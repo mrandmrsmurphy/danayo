@@ -56,4 +56,4 @@ boundedness: 100
 - <ruby>[[起死]]<rt>ㄎㄧㄙㄧㄜ</rt></ruby> "to bring the dead back to life (medically)"
 
 ## Chengyu
-- <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "revival from the point of death"
+- <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "to rescue a hopeless situation, to revive what seemed already lost"

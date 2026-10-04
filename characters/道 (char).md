@@ -85,7 +85,7 @@ boundedness: 70
 - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel; underpass"
 
 ## Chengyu
-- <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "the Spirit gives life, but the Letter kills"
+- <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"
 
 ## Derived Characters
 - <ruby>[[導]]<rt>ㄉㄚㄨ</rt></ruby> "guide, lead"

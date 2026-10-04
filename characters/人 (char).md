@@ -136,8 +136,8 @@ boundedness: 75
 - <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
 ## Chengyu
-- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
-- <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "create man in our image and likeness"
+- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"
+- <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "Create man (in our) image (and) likeness"
 - <ruby>[[佳人薄命]]<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> "a fair lady's destiny is thin indeed; whom the gods love die young"
-- <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy"
-- <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "a sea of people, congested"
+- <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"
+- <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "more than "a sea of people", congested"

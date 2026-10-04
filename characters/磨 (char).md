@@ -59,5 +59,5 @@ date-last-perfect: 2026-08-07
 - <ruby>[[琢磨]]<rt>ㄊㄚㄎㄇㄚ</rt></ruby> "polish jewels"
 
 ## Chengyu
-- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"
 - <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"

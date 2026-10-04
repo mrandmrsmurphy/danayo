@@ -63,7 +63,7 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"
-- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
+- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference, deceptive wordplay over an unchanged reality"
 - <ruby>[[朝鮮正音]]<rt>ㄐㄚㄨㄙ⼶ㄇㄐㄧㄫㄨㄇ</rt></ruby> "Korean picks the sound"
 
 ## Derived Characters

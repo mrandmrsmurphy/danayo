@@ -60,5 +60,5 @@ boundedness: 80
 - <ruby>[[銀河系]]<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby> "Milky Way galaxy"
 
 ## Chengyu
-- <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "head on a silver platter"
+- <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "Head on a silver platter"
 - <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

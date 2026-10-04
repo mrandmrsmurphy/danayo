@@ -74,7 +74,7 @@ boundedness: 90
 - <ruby>[[回避]]<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby> "to avoid"
 
 ## Chengyu
-- <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "revival from the point of death"
+- <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "to rescue a hopeless situation, to revive what seemed already lost"
 
 ## Derived Characters
 - <ruby>[[徊]]<rt>ㄏㄛㄧ</rt></ruby> "loiter"

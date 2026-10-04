@@ -119,11 +119,11 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
-- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "to lose the large for the sake of the small; penny-wise and pound-foolish"
-- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
+- <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "sacrifice the greater for the lesser"
+- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "late bloomer"
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
-- <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to laugh uproariously, guffaw"
+- <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to guffaw, to laugh heartily and loudly"
 
 ## Derived Characters
 - <ruby>[[泰]]<rt>ㄊㄚㄧ</rt></ruby> "peaceful, safe"

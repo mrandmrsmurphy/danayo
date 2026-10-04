@@ -73,7 +73,7 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"
-- <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "a sea of people; congested"
+- <ruby>[[人山人海]]<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> "more than "a sea of people", congested"
 - <ruby>[[石山盈界]]<rt>ㄙㄝㄎㄙㄚㄋ·⼶ㄫㄍ⼶</rt></ruby> "stone mountain fills earth"
 
 ## Derived Characters

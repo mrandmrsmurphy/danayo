@@ -68,7 +68,7 @@ boundedness: 65
 - <ruby>[[自我]]<rt>ㄐㄧㄜㄚ</rt></ruby> "self-conscious, self-aware"
 
 ## Chengyu
-- <ruby>[[除我莫神]]<rt>ㄐㄝㄧㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "there are no other gods but me"
+- <ruby>[[除我莫神]]<rt>ㄐㄝㄧㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "There are no other gods but me"
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 
 ## Derived Characters

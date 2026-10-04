@@ -55,7 +55,7 @@ boundedness: 80
 - <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄑㄚㄫ</rt></ruby> "father's sister's husband"
 
 ## Chengyu
-- <ruby>[波乱万丈](/chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> "full of dramatic ups and downs"
+- <ruby>[[波乱万丈]]<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> "full of dramatic ups and downs; turbulent and eventful"
 
 ## Derived Characters
 - <ruby>[[杖 (char)|杖]]<rt>ㄐㄚㄫ</rt></ruby> "staff, stick"

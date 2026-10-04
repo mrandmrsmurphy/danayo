@@ -68,6 +68,6 @@ boundedness:
 - <ruby>[[客気]]<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby> "polite (Mandarin); reckless bravado (Japanese/Korean)"
 - <ruby>[[送気]]<rt>ㄙㄛㄫ·ㄎㄧㄜ</rt></ruby> "aspiration"
 ## Chengyu
-- <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism, proud, complacent"
+- <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"
 ## Derived Characters
 - <ruby>[[汽]]<rt>ㄎㄧㄜ</rt></ruby> "vapor, steam"

@@ -56,5 +56,5 @@ date-last-perfect: 2026-09-05
 - <ruby>[[紅鶴]]<rt>ㄏㄛㄫㄏㄚㄎ</rt></ruby> "flamingo"
 
 ## Chengyu
-- <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "burning the qin for firewood and boiling the crane for soup; destroying beauty through philistine indifference"
+- <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "destroying beauty through philistine indifference"
 - <ruby>[[風声鶴唳]]<rt>ㄈㄨㄫㄙㄧㄫㄏㄚㄎㄌ·⼶</rt></ruby> "panic attack, apprehension for even the slightest sound"

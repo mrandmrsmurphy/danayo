@@ -75,7 +75,7 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
-- <ruby>[[澈頭澈尾]]<rt>ㄐㄝㄊㄊㄛㄨㄐㄝㄊㄇㄨㄧ</rt></ruby> "through and through; right down the line; from head to toe"
+- <ruby>[[澈頭澈尾]]<rt>ㄐㄝㄊㄊㄛㄨㄐㄝㄊㄇㄨㄧ</rt></ruby> "through and through, right down the line, from head to toe"
 - <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄊㄛㄨㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"

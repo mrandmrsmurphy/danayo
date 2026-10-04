@@ -76,7 +76,7 @@ boundedness: 70
 - <ruby>[[龍眼]]<rt>ㄌ⼄ㄫㄚㄋ</rt></ruby> "longan"
 
 ## Chengyu
-- <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches"
+- <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches, one step away from perfection"
 - <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"
 
 ## Derived Characters

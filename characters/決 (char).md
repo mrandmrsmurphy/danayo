@@ -67,6 +67,6 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
-- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle"
+- <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle; the rule that phonology and character are displayed together"
 - <ruby>[[文音共決]]<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> "script and sound resolved together"
 - <ruby>[[覧昭和決]]<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "Japan picks the looks"

@@ -50,7 +50,7 @@ boundedness: 80
 - <ruby>[[是日]]<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> "same day"
 
 ## Chengyu
-- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 
 ## Derived Characters

@@ -62,6 +62,6 @@ boundedness: 90
 - <ruby>[[恭喜発財]]<rt>ㄍ⼄ㄫㄏㄧㄈㄚㄊㄐㄚㄧ</rt></ruby> "happy new years"
 ## Chengyu
 - <ruby>[[喜怒哀楽]]<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"
-- <ruby>[[欣喜雀躍]]<rt>ㄏㄧㄋㄏㄧㄐㄚㄎ·⼘ㄎ</rt></ruby> "jump for joy"
+- <ruby>[[欣喜雀躍]]<rt>ㄏㄧㄋㄏㄧㄐㄚㄎ·⼘ㄎ</rt></ruby> "to jump for joy, overjoyed to the point of visible excitement"
 ## Derived Characters
 - <ruby>[[嬉]]<rt>ㄏㄧ</rt></ruby> "enjoy, play"

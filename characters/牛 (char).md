@@ -59,5 +59,5 @@ boundedness: 90
 - <ruby>[[海牛]]<rt>ㄏㄚㄧㄋ⼜</rt></ruby> "sea cow; manatee"
 - <ruby>[[蝸牛]]<rt>ㄍ⺢·ㄋ⼜</rt></ruby> "snail"
 ## Chengyu
-- <ruby>[[呉牛喘月]]<rt>ㄛ·ㄋ⼜ㄑㄝㄋ⼔ㄊ</rt></ruby> "excessive fear"
+- <ruby>[[呉牛喘月]]<rt>ㄛ·ㄋ⼜ㄑㄝㄋ⼔ㄊ</rt></ruby> "excessive fear born of past trauma"
 - <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall, pearls before swine"

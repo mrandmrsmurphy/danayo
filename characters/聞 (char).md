@@ -55,4 +55,4 @@ boundedness: 90
 - <ruby>[[令聞]]<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby> "good name, reputation"
 
 ## Chengyu
-- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "hearing something a hundred times is not as good as seeing it once"
+- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"

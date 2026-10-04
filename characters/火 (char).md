@@ -69,7 +69,7 @@ boundedness: 90
 - <ruby>[[火曜日]]<rt>ㄏ⺢⼄ㄨㄋㄧㄊ</rt></ruby> "Tuesday"
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"
-- <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash; in the blink of an eye"
+- <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"
 
 ## Derived Characters
 - <ruby>[[炎]]<rt>ㄝㄇ</rt></ruby> "flame, inflammation"

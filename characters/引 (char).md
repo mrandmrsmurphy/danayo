@@ -61,5 +61,5 @@ boundedness: 100
 - <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"
 
 ## Chengyu
-- <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster, cause trouble"
+- <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster cause trouble"
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"

@@ -56,7 +56,7 @@ date-last-perfect: 2026-08-07
 - <ruby>[勿](words/勿.md)<rt>ㄇㄨㄊ</rt></ruby> "do not ever" (stand-in for 勿)
 
 ## Chengyu
-- <ruby>[[勿妄称名]]<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> "do not take the name in vain"
+- <ruby>[[勿妄称名]]<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> "Do not take the name in vain"
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"
 
 ## Derived Characters

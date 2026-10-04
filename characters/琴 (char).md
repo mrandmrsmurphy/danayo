@@ -63,5 +63,5 @@ date-last-perfect: 2026-08-06
 - <ruby>[[錀琴]]<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> "roentgen"
 
 ## Chengyu
-- <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "burning the qin for firewood and boiling the crane for soup; destroying beauty through philistine indifference"
+- <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "destroying beauty through philistine indifference"
 - <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall, pearls before swine"

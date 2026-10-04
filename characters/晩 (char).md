@@ -56,4 +56,4 @@ boundedness:
 - <ruby>[晩餐](../words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby> "supper"
 
 ## Chengyu
-- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "great vessels take longest to complete; great talent ripens slowly"
+- <ruby>[[大器晩成]]<rt>ㄉㄚㄧㄎㄧㄜㄇㄛㄋㄙㄧㄫ</rt></ruby> "late bloomer"

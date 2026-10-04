@@ -68,5 +68,5 @@ boundedness: 75
 - <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"
 
 ## Chengyu
-- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "to wear through an iron inkstone by grinding; indomitable perseverance"
+- <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"
 - <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

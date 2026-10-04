@@ -62,7 +62,7 @@ boundedness: 90
 - <ruby>[[名専字]]<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby> "name-only character"
 
 ## Chengyu
-- <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "one character, one sound"
+- <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "One Character, One Sound"
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 - <ruby>[字南](/words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby> - Chu Nom

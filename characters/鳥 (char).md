@@ -75,7 +75,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"
-- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "rule fish, birds, life"
+- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life"
 
 ## Derived Characters
 - <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle, vulture"

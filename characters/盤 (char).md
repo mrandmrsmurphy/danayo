@@ -63,4 +63,4 @@ date-last-perfect: 2026-08-08
 
 ## Chengyu
 - <ruby>[[涅盤寂静]]<rt>ㄋㄝㄊㄅㄚㄋㄐㄝㄎㄐㄝㄫ</rt></ruby> "nirvana is peace"
-- <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "head on a silver platter"
+- <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "Head on a silver platter"

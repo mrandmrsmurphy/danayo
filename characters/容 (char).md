@@ -69,7 +69,7 @@ boundedness: 90
 - <ruby>[[容認]]<rt>⼄ㄫㄋㄧㄋ</rt></ruby> "to accept"
 
 ## Chengyu
-- <ruby>[[異体不容]]<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted; one canonical character form only"
+- <ruby>[[異体不容]]<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted"
 - <ruby>[[詞彙兼容]]<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> "The lexicon is capable of inclusion"
 
 ## Derived Characters

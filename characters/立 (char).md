@@ -65,7 +65,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"
-- <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
+- <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living"
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
 ## Derived Characters

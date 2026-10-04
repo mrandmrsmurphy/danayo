@@ -57,4 +57,4 @@ boundedness: 80
 - <ruby>[[腹部]]<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby> "abdomen"
 
 ## Chengyu
-- <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(on your) belly (shall you) go, (and) eat dust"
+- <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"

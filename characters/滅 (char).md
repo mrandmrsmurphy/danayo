@@ -58,4 +58,4 @@ date-last-perfect: 2026-08-08
 - <ruby>[[隠滅]]<rt>ㄜㄋㄇㄝㄊ</rt></ruby> "destroy (evidence); vanish"
 
 ## Chengyu
-- <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy; quorum, minyan"
+- <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"

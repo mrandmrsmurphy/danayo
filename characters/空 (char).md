@@ -70,7 +70,7 @@ boundedness: 100
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
-- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is precisely emptiness"
+- <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"
 - <ruby>[[空中楼閣]]<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> "Castle in the sky"
 - <ruby>[[海闊天空]]<rt>ㄏㄚㄧㄎ⺢ㄊㄊㄝㄋㄎㄛㄫ</rt></ruby> "As boundless as the sky and sea"
 

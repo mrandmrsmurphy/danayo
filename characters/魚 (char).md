@@ -72,7 +72,7 @@ boundedness: 35
 
 ## Chengyu
 - <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ·⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"
-- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "rule over fish, birds, and every living thing"
+- <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life"
 
 ## Derived Characters
 - <ruby>[[漁]]<rt>⼄</rt></ruby> "to fish"

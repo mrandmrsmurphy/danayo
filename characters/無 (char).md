@@ -84,9 +84,9 @@ boundedness: 80
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"
 - <ruby>[[孤立無援]]<rt>ㄍㄛㄌㄧㄆㄇㄜㄛㄋ</rt></ruby> "isolated without external support"
-- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "selfishly do what one wants without regard to other people's wishes"
-- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "above and below, no idols"
-- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless"
+- <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"
+- <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"
+- <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless, brazen"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 

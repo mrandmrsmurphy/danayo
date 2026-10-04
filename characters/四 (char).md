@@ -77,4 +77,4 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> "surrounded by the singing of Chu"
-- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference"
+- <ruby>[[朝三暮四]]<rt>ㄐㄚㄨㄙㄚㄇㄇㄛㄙㄧㄜ</rt></ruby> "distinction without a difference, deceptive wordplay over an unchanged reality"

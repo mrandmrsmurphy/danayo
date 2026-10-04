@@ -69,7 +69,7 @@ boundedness: 80
 - <ruby>[[原言語]]<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby> "source language; proto-language"
 
 ## Chengyu
-- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "not speaking a word; total silence"
+- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "total silence"
 - <ruby>[[文言継承]]<rt>ㄇㄨㄋ·ㄝㄋㄍㄝㄧㄙㄨㄫ</rt></ruby> "continuity with the classical written standard"
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"
 - <ruby>[[流言飛語]]<rt>ㄌ⼜ㄝㄋㄈㄝㄧ⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"

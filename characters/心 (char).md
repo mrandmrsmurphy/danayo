@@ -70,7 +70,7 @@ boundedness: 90
 - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby> "careful, cautious; to worry about, take pains over"
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"
-- <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living; settling the heart and establishing oneself in fate"
+- <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living"
 - <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫㄚㄎ</rt></ruby> "evil hearts, evil intents"
 - <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
 

@@ -58,7 +58,7 @@ boundedness: 90
 - <ruby>[[復活節]]<rt>ㄅㄨㄎㄏ⺢ㄊㄐㄝㄊ</rt></ruby> "Easter"
 
 ## Chengyu
-- <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "the Spirit gives life, but the Letter kills"
+- <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"
 
 ## Derived Characters
 - <ruby>[[闊 (char)|闊]]<rt>ㄎ⺢ㄊ</rt></ruby> "broad; wide"

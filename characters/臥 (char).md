@@ -57,5 +57,5 @@ date-last-perfect: 2026-09-16
 - <ruby>[[臥鉤]]<rt>⺢ㄍㄛㄨ</rt></ruby> "lying hook (calligraphy stroke)"
 
 ## Chengyu
-- <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall; endure voluntary hardship to fuel the will to prevail"
+- <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall"
 - <ruby>[[臥虎蔵龍]]<rt>⺢ㄏㄛㄑㄚㄫㄌ⼄ㄫ</rt></ruby> "hidden talents lurk everywhere"

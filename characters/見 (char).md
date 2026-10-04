@@ -54,7 +54,7 @@ boundedness: 90
 - <ruby>[[意見]]<rt>ㄜㄍ⼶ㄋ</rt></ruby> "opinion; view"
 - <ruby>[[発見]]<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby> "discover; find out"
 ## Chengyu
-- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "hearing something a hundred times is not as good as seeing it once"
+- <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"
 ## Derived Characters
 - <ruby>[[現 (char)|現]]<rt>ㄏ⼶ㄋ</rt></ruby> "present"
 - <ruby>[[硯]]<rt>ㄝㄋ</rt></ruby> "inkstone"
