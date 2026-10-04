@@ -218,15 +218,40 @@ Set when:
 2. The `meta-bind-embed` block is the first thing in the body.
 3. The category link correctly reflects the `origin` value.
 4. All eight canonical sections are present (or deliberately omitted with good reason).
-5. The Source and Origin section cites a specific text or explains the modern provenance clearly.
+5. The Source and Origin section cites a specific text or explains the modern provenance clearly. **Every named citation has been verified against the source itself** (added 2026-10-04): each quoted line was found in the named work, and the work, chapter and section label match the passage actually quoted (e.g. a 戰國策 passage filed under the wrong 策). Check against a primary text (wikisource, ctext, or the Bible text for Biblical pages), not against another secondary page or a memory of it. If the citation cannot be found, correct it or remove it; never stamp on an unverified quotation. Dan'a'yo coinages (`origin: 単亜語`) have no external source to verify, but any classical text they cite as a model still falls under this rule.
 6. All five CJKV pronunciations are present in the frontmatter and in the Pronunciations section.
 7. At least two example sentences are included.
 8. All constituent character pages have been back-linked in their `## Chengyu` section.
 
 ---
 
+## Grouping pages (`Misc. Chengyu.md`, `Dan'a'yo Chengyu.md`, `Biblical Chengyu.md`)
+
+Added 2026-10-04. Each grouping page is a full-length index of every chengyu whose `origin` maps to it (see the table under "Fixed opening"). They are unordered bulleted lists: order carries no meaning, and new entries may go anywhere.
+
+Each entry is exactly one bullet in this form, with the same shape on all three pages:
+
+```markdown
+- <ruby>[一刀両断](chengyu/一刀両断.md)<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> - cut in two with one stroke
+```
+
+A grouping page is complete (`date-last-perfect` may be set) when all of these hold on the stamping date:
+
+1. **Membership is exact.** The entries are precisely the leaf pages whose `origin` maps to this page: no missing leaf, no extra, no duplicate. Derive the set by script (`python3 AIOS/scripts/lint_chengyu_groups.py`), never by eye. A chengyu with `origin: 単亜語` is never listed on `Misc.`, whatever it was once filed under.
+2. **Every entry is ruby-annotated, in one link style.** A relative markdown link `chengyu/NAME.md`, never a bare `[[wikilink]]` or an absolute `/chengyu/` path. The `<rt>` text equals the leaf's `注音` byte for byte, so a change to a leaf's 注音 makes this page stale.
+3. **Every entry has a short English gloss** after ` - `. Keep an existing hand-written gloss; otherwise use the leaf's `english`.
+4. **No stray marks** (the old ✅ creation-tracking suffix is meaningless and must be removed) and no doubled separators.
+5. **The `## Base check` block** filters on the correct `origin` for this page's classification (`== "単亜語"`, `== "Bible"`, or neither of those for `Misc.`).
+6. **`size` property.** The frontmatter has `size: N`, where N is the number of entries in the list (the same convention as syllable pages). Update it whenever an entry is added or removed; the script checks it against the actual count.
+7. **An over-arching chengyu is just another entry.** Do not give one a special header line (the old "Over all is [[創反救成]]" intro on the Biblical page became an ordinary entry).
+
+The stamp goes stale whenever a leaf is added, removed, re-origined or has its 注音 changed. Re-run the script after any such change and fix the page before keeping the stamp.
+
+---
+
 ## Common mistakes
 
+- **Unverified or misattributed citations** — a quotation or chapter label taken on trust. Eleven pre-perfection pages were found with invented or misattributed classical quotes, and 舎本逐末 had a correct quote filed under the wrong chapter (趙策四 for 齊策四). Verify every named source at perfecting time; a stamp is a claim that this was done.
 - **`meta-bind-embed` not first** — any content before the embed block will appear above the dashboard. Nothing goes before it.
 - **`origin` left blank** — this field drives the Base check filters in the grouping files; a blank origin is an invisible chengyu.
 - **Mixing `##` and `###` heading levels** — pick one level for main sections and use it consistently throughout the file. `##` is preferred.

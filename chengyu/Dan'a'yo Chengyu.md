@@ -1,11 +1,12 @@
 ---
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-10-04
+size: 34
 tags:
   - chengyu
 ---
 
 - <ruby>[合漢再決](chengyu/合漢再決.md)<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> - The Renew Sinosphere Chooses Unity
-- <ruby>[一字一音](chengyu/一字一音.md)<rt>ㄧㄊㄐㄧ·ㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
+- <ruby>[一字一音](chengyu/一字一音.md)<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> - one character, one sound
 - <ruby>[覧昭和決](chengyu/覧昭和決.md)<rt>ㄌㄚㄇㄐㄛㄨㄏ⺢·ㄎ⼔ㄊ</rt></ruby> - Shōwa decides the look
 - <ruby>[朝鮮正音](chengyu/朝鮮正音.md)<rt>ㄐㄚㄨㄙ⼶ㄇㄐㄧㄫㄨㄇ</rt></ruby> - Joseon standardizes the sound
 - <ruby>[保頭断尾](chengyu/保頭断尾.md)<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> - guard the core, prune the periphery
@@ -21,14 +22,23 @@ tags:
 - <ruby>[文言現代](chengyu/文言現代.md)<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> - Classical Chinese, Modern Day
 - <ruby>[文音共決](chengyu/文音共決.md)<rt>ㄇㄨㄋ·ㄨㄇㄍ⼄ㄫㄎ⼔ㄊ</rt></ruby> - script and sound resolved together
 - <ruby>[東亜自通](chengyu/東亜自通.md)<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> - East Asian self-communication
-- <ruby>[毎字明意](chengyu/毎字明意.md)<rt>ㄇㄛㄧㄐㄧㄇ⼔ㄫ·ㄧ</rt></ruby> - Per Character Clear Meaning
+- <ruby>[毎字明意](chengyu/毎字明意.md)<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> - Per Character Clear Meaning
 - <ruby>[異体不容](chengyu/異体不容.md)<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> - variant forms are not permitted
 - <ruby>[百家共承](chengyu/百家共承.md)<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> - Hundred schools jointly inherited
 - <ruby>[義以立名](chengyu/義以立名.md)<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> - names should be established by meaning
-- <ruby>[義重於音](chengyu/義重於音.md)<rt>ㄨㄧㄫㄑㄛㄫ·ㄛㄇ·ㄨㄇ</rt></ruby> - Meaning is more important than sound
+- <ruby>[義重於音](chengyu/義重於音.md)<rt>ㄜㄧㄑㄛㄫㄛㄨㄇ</rt></ruby> - Meaning is more important than sound
 - <ruby>[詞彙兼容](chengyu/詞彙兼容.md)<rt>ㄙㄚㄏㄨㄍㄝㄇ·⼄ㄫ</rt></ruby> - The lexicon is capable of inclusion
 - <ruby>[選士唯賢](chengyu/選士唯賢.md)<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> - select candidates solely by worthiness; meritocracy as the sole basis of authority
 - <ruby>[鼠世桃源](chengyu/鼠世桃源.md)<rt>ㄙ⼄ㄙㄝㄉㄚㄨ⼔ㄋ</rt></ruby> - the rat-world's Peach Blossom Spring
+- <ruby>[上由下至](chengyu/上由下至.md)<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> - write from the top downward
+- <ruby>[信達雅化](chengyu/信達雅化.md)<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> - Faithful, Transparent, Elegant -ization
+- <ruby>[先中後両](chengyu/先中後両.md)<rt>ㄙㄝㄋㄐㄨㄫㄏㄨㄛㄌ⼘ㄫ</rt></ruby> - middle first, both sides after
+- <ruby>[先填後閉](chengyu/先填後閉.md)<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby> - fill first, close after
+- <ruby>[先外後内](chengyu/先外後内.md)<rt>ㄙㄝㄋ⺢ㄧㄏㄨㄛ·ㄋㄛㄧ</rt></ruby> - outside first, inside after
+- <ruby>[先撇後捺](chengyu/先撇後捺.md)<rt>ㄙㄝㄋㄆㄝㄊㄏㄨㄛ·ㄋㄚㄊ</rt></ruby> - left-falling stroke first, right-falling after
+- <ruby>[先横後豎](chengyu/先横後豎.md)<rt>ㄙㄝㄋㄏ⺢ㄫㄏㄨㄛㄙㄨ</rt></ruby> - horizontal first, vertical after
+- <ruby>[先画後点](chengyu/先画後点.md)<rt>ㄙㄝㄋㄏ⺢ㄎㄏㄨㄛㄉㄝㄇ</rt></ruby> - strokes first, dots after
+- <ruby>[左由右至](chengyu/左由右至.md)<rt>ㄐㄚ⼜ㄛ⼜ㄐㄧㄜ</rt></ruby> - write from the left to the right
 
 ## Base check
 ```base

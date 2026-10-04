@@ -1,5 +1,6 @@
 ---
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-10-04
+size: 148
 tags:
   - chengyu
 ---
@@ -10,39 +11,38 @@ tags:
 - <ruby>[五臓六府](chengyu/五臓六府.md)<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> - internal organs
 - <ruby>[優柔不断](chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - indecisive; undetermined; shilly-shally
 - <ruby>[切磋琢磨](chengyu/切磋琢磨.md)<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> - iron sharpens iron, friendly competition
-- <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄆㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
+- <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄈㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
 - <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄈㄛㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns
 - <ruby>[一朝一夕](chengyu/一朝一夕.md)<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> - one morning one evening
-- <ruby>[一期一会](chengyu/一期一会.md)<rt>ㄧㄜㄎㄧ·ㄧㄊㄏ⼔</rt></ruby>  - one lifetime, one meeting
+- <ruby>[一期一会](chengyu/一期一会.md)<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> - one lifetime, one meeting
 - <ruby>[一目瞭然](chengyu/一目瞭然.md)<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> - obvious
 - <ruby>[八紘一宇](chengyu/八紘一宇.md)<rt>ㄅㄚㄊㄏ⼔ㄫㄧㄊ·ㄨ</rt></ruby> - Manifest Destiny
-- <ruby>[一石二鳥](chengyu/一石二鳥.md)<rt>ㄧㄊㄙㄝㄎㄋㄧㄑㄛㄨ</rt></ruby> - two birds with one stone
+- <ruby>[一石二鳥](chengyu/一石二鳥.md)<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> - two birds with one stone
 - <ruby>[日月星辰](chengyu/日月星辰.md)<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> - Sun, moon, stars, constellations
 - <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> - touch and go
 - <ruby>[鶏鳴狗盗](chengyu/鶏鳴狗盗.md)<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> - bad people use dirty tricks
-- <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> - impregnable 
+- <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> - impregnable
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> - all the demons
 - <ruby>[乾坤一擲](chengyu/乾坤一擲.md)<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> - all in
 - <ruby>[茫然自失](chengyu/茫然自失.md)<rt>ㄇㄚㄫㄋ⼶ㄋㄐㄧㄜㄙㄧㄊ</rt></ruby> - dazed and confused, stunned to the point of losing oneself
 - <ruby>[孤軍奮闘](chengyu/孤軍奮闘.md)<rt>ㄍㄛㄍㄨㄋㄈㄨㄋㄉㄛㄨ</rt></ruby> - to fight on alone
-- <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄆㄨㄫㄙㄧㄫㄏㄚㄎㄌ·ㄝ</rt></ruby> - panic attack
+- <ruby>[風声鶴唳](chengyu/風声鶴唳.md)<rt>ㄈㄨㄫㄙㄧㄫㄏㄚㄎㄌ·⼶</rt></ruby> - panic attack
 - <ruby>[空中楼閣](chengyu/空中楼閣.md)<rt>ㄎㄛㄫㄐㄨㄫㄌㄛㄨㄍㄚㄎ</rt></ruby> - castle in the sky
 - <ruby>[重文軽武](chengyu/重文軽武.md)<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> - weighty culture, light war
 - <ruby>[金科玉律](chengyu/金科玉律.md)<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> - golden rules and jade statutes
-- <ruby>[人山人海](/chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
-- <ruby>[貪官汚吏](/chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
+- <ruby>[人山人海](chengyu/人山人海.md)<rt>ㄋㄧㄋㄙㄚㄋㄋㄧㄋㄏㄚㄧ</rt></ruby> - a sea of people
+- <ruby>[貪官汚吏](chengyu/貪官汚吏.md)<rt>ㄊㄚㄇㄍ⺢ㄋ·ㄛㄌㄧ</rt></ruby> - corrupt official
 - <ruby>[舎本逐末](chengyu/舎本逐末.md)<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> - neglecting the fundamentals while chasing the trivial
 - <ruby>[五風十雨](chengyu/五風十雨.md)<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> - favorable climate leading to prosperity
 - <ruby>[国士無双](chengyu/国士無双.md)<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> - exceptional gentleman
 - <ruby>[開天辟地](chengyu/開天辟地.md)<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> - Open Heaven, Crack the Earth
 - <ruby>[戦戦恐恐](chengyu/戦戦恐恐.md)<rt>ㄐㄝㄋㄐㄝㄋㄎㄛㄫㄎㄛㄫ</rt></ruby> - fear and trembling; extreme trepidation
 - <ruby>[跳梁跋扈](chengyu/跳梁跋扈.md)<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> - running rampant; domineering and lawless
-
 - <ruby>[一字千金](chengyu/一字千金.md)<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> - perfect word
 - <ruby>[一網打尽](chengyu/一網打尽.md)<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> - roundup, wholesale arrest; rounding up the herd with one throw
 - <ruby>[一衣帯水](chengyu/一衣帯水.md)<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> - close neighbors separated only by a narrow strait
-- <ruby>[万物生長](chengyu/万物生長.md)<rt>ㄇㄨㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> - All the universe grows and develops
+- <ruby>[万物生長](chengyu/万物生長.md)<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> - All the universe grows and develops
 - <ruby>[三綱五常](chengyu/三綱五常.md)<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> - three relationships and five virtues
 - <ruby>[不共戴天](chengyu/不共戴天.md)<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> - absolutely irreconcilable
 - <ruby>[不可思議](chengyu/不可思議.md)<rt>ㄅㄛㄊㄎㄜㄙㄚㄜㄧ</rt></ruby> - inconceivable, unimaginable, incomprehensible
@@ -50,7 +50,6 @@ tags:
 - <ruby>[不遠千里](chengyu/不遠千里.md)<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> - not far is a thousand miles
 - <ruby>[令行禁止](chengyu/令行禁止.md)<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> - total command discipline
 - <ruby>[佳人薄命](chengyu/佳人薄命.md)<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> - a fair lady's destiny is thin indeed
-- <ruby>[信達雅化](chengyu/信達雅化.md)<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> - Faithful Transparent Elegent -ization
 - <ruby>[傍若無人](chengyu/傍若無人.md)<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> - acting as if no one else were present; brazenly disregarding others
 - <ruby>[光明正大](chengyu/光明正大.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - high principles and sincere
 - <ruby>[公明正大](chengyu/公明正大.md)<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> - fair and square, open and aboveboard
@@ -88,7 +87,7 @@ tags:
 - <ruby>[弱不禁風](chengyu/弱不禁風.md)<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> - so frail as to be unable to withstand the wind
 - <ruby>[弱肉強食](chengyu/弱肉強食.md)<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> - survival of the fittest
 - <ruby>[意味深長](chengyu/意味深長.md)<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> - full of deep significance; profound and thought-provoking
-- <ruby>[意気揚揚](chengyu/意気揚揚.md)<rt>ㄜㄎㄧㄜ·⼘ㄫ·⼘ㄫ</rt></ruby> - triumphalism
+- <ruby>[意気揚揚](chengyu/意気揚揚.md)<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> - triumphalism
 - <ruby>[成家立業](chengyu/成家立業.md)<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> - Get married and start a job
 - <ruby>[文質彬彬](chengyu/文質彬彬.md)<rt>ㄇㄨㄋㄐㄧㄊㄆㄧㄋㄆㄧㄋ</rt></ruby> - [well balanced between refinement and substance, cultivated without affectation]
 - <ruby>[断章取義](chengyu/断章取義.md)<rt>ㄉ⺢ㄋㄐㄚㄫㄑㄛㄨㄜㄧ</rt></ruby> - take out of context
@@ -143,7 +142,7 @@ tags:
 - <ruby>[蒼海桑田](chengyu/蒼海桑田.md)<rt>ㄑ⺢ㄫㄏㄚㄧㄙㄚㄫㄉㄝㄋ</rt></ruby> - time brings drastic changes to the world; the vicissitudes of life
 - <ruby>[虎視耽耽](chengyu/虎視耽耽.md)<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> - to eye covetously like a prowling tiger
 - <ruby>[言行一致](chengyu/言行一致.md)<rt>ㄝㄋㄏㄚㄫㄧㄊㄑㄧㄜ</rt></ruby> - true to one's word
-- <ruby>[誠心誠意](chengyu/誠心誠意.md)<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫ·ㄧ</rt></ruby> - in all sincerity; with one's whole heart
+- <ruby>[誠心誠意](chengyu/誠心誠意.md)<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> - in all sincerity; with one's whole heart
 - <ruby>[論功行賞](chengyu/論功行賞.md)<rt>ㄌㄛㄋㄍㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> - meritocracy
 - <ruby>[諸法無我](chengyu/諸法無我.md)<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> - every dharma is without self
 - <ruby>[諸行無常](chengyu/諸行無常.md)<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> - all conditioned things are impermanent
