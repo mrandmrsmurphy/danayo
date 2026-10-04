@@ -1,17 +1,17 @@
 ---
 size: 2
 radical: 夂
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 34 is 夂, a winter symbol depicting the season of cold, stillness, and decline. It is a variation of 夅, and appears in characters related to winter, coldness, the end of cycles, or things that are slowing, fading, or coming to an end.
+> Radical 34 is 夂, a variant of 夅, a downward-pointing foot ("to descend"). Characters classified here are grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[[変 (char)|変]]<rt>ㄅ⼶ㄋ</rt></ruby> - change, alter
-2. <ruby>[[夌]]<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
+1. <ruby>[変](../../characters/変%20(char).md)<rt>ㄅ⼶ㄋ</rt></ruby> - change
+2. <ruby>[夌](../../characters/夌.md)<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
 
 ## Data check
 ```dataview

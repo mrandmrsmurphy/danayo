@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 123
 radical: 口
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The mouth radical. Appears in characters related to speech, sound, eating, and orifices.
+> The mouth radical 口, 3 strokes, depicting an open mouth.
 
 ## Strokes
 
@@ -44,7 +44,7 @@ tags: [lookup]
 
 ### +4 Strokes
 27. <ruby>[君](../../characters/君%20(char).md)<rt>ㄍㄨㄋ</rt></ruby> - you
-28. <ruby>[吝](../../characters/吝.md)<rt>ㄌㄧㄋ</rt></ruby> - petty
+28. <ruby>[吝](../../characters/吝.md)<rt>ㄌㄧㄋ</rt></ruby> - stingy
 29. <ruby>[吟](../../characters/吟.md)<rt>ㄜㄇ</rt></ruby> - hum
 30. <ruby>[否](../../characters/否%20(char).md)<rt>ㄈㄚㄨ</rt></ruby> - no
 31. <ruby>[含](../../characters/含.md)<rt>ㄏㄚㄇ</rt></ruby> - include
@@ -77,7 +77,7 @@ tags: [lookup]
 53. <ruby>[咳](../../characters/咳.md)<rt>ㄏㄚㄧ</rt></ruby> - cough
 54. <ruby>[咸](../../characters/咸.md)<rt>ㄏㄚㄇ</rt></ruby> - complete
 55. <ruby>[咼](../../characters/咼.md)<rt>ㄎ⼶ㄧ</rt></ruby> - slanting
-56. <ruby>[咽](../../characters/咽.md)<rt>ㄝㄋ</rt></ruby> - throat
+56. <ruby>[咽](../../characters/咽.md)<rt>ㄝㄋ</rt></ruby> - pharynx
 57. <ruby>[哀](../../characters/哀.md)<rt>ㄚㄧ</rt></ruby> - sad
 58. <ruby>[品](../../characters/品%20(char).md)<rt>ㄆㄨㄇ</rt></ruby> - article
 59. <ruby>[哄](../../characters/哄.md)<rt>ㄏㄛㄫ</rt></ruby> - resound with laughter
@@ -92,10 +92,10 @@ tags: [lookup]
 66. <ruby>[哱](../../characters/哱.md)<rt>ㄆㄛㄊ</rt></ruby> - conch shell
 67. <ruby>[哲](../../characters/哲.md)<rt>ㄐㄝㄊ</rt></ruby> - philosophy
 68. <ruby>[哺](../../characters/哺.md)<rt>ㄅㄛ</rt></ruby> - suckle
-69. <ruby>[唄](../../characters/唄%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - ugh
+69. <ruby>[唄](../../characters/唄%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - hymn
 70. <ruby>[唆](../../characters/唆.md)<rt>ㄙ⺢</rt></ruby> - incite
 71. <ruby>[唇](../../characters/唇%20(char).md)<rt>ㄙㄨㄋ</rt></ruby> - lips
-72. <ruby>[唉](../../characters/唉%20(char).md)<rt>ㄚㄧ</rt></ruby> - alas
+72. <ruby>[唉](../../characters/唉%20(char).md)<rt>ㄚㄧ</rt></ruby> - alas (ancient)
 73. <ruby>[唐](../../characters/唐.md)<rt>ㄉ⺢ㄫ</rt></ruby> - Tang
 74. <ruby>[唖](../../characters/唖.md)<rt>ㄚ</rt></ruby> - dumb
 75. <ruby>[唳](../../characters/唳%20(char).md)<rt>ㄌ⼶</rt></ruby> - bird cry
@@ -104,7 +104,7 @@ tags: [lookup]
 ### +8 Strokes
 77. <ruby>[唯](../../characters/唯%20(char).md)<rt>⼶ㄧ</rt></ruby> - only
 78. <ruby>[唱](../../characters/唱.md)<rt>ㄑ⺢ㄫ</rt></ruby> - chant
-79. <ruby>[唵](../../characters/唵%20(char).md)<rt>ㄛㄇ</rt></ruby> - Ohm
+79. <ruby>[唵](../../characters/唵%20(char).md)<rt>ㄛㄇ</rt></ruby> - Om
 80. <ruby>[唾](../../characters/唾.md)<rt>ㄊㄚ</rt></ruby> - spit
 81. <ruby>[商](../../characters/商.md)<rt>ㄙ⼘ㄫ</rt></ruby> - commerce
 82. <ruby>[問](../../characters/問.md)<rt>ㄇㄨㄋ</rt></ruby> - question
@@ -117,8 +117,8 @@ tags: [lookup]
 87. <ruby>[啼](../../characters/啼.md)<rt>ㄊㄝ</rt></ruby> - cry
 88. <ruby>[喀](../../characters/喀.md)<rt>ㄎㄚㄎ</rt></ruby> - vomit
 89. <ruby>[善](../../characters/善%20(char).md)<rt>ㄙ⼶ㄋ</rt></ruby> - good
-90. <ruby>[喇](../../characters/喇.md)<rt>ㄌㄚ</rt></ruby> - rain sound
-91. <ruby>[喉](../../characters/喉.md)<rt>ㄏㄛㄨ</rt></ruby> - throat
+90. <ruby>[喇](../../characters/喇.md)<rt>ㄌㄚ</rt></ruby> - horn
+91. <ruby>[喉](../../characters/喉.md)<rt>ㄏㄛㄨ</rt></ruby> - larynx
 92. <ruby>[喊](../../characters/喊.md)<rt>ㄏㄚㄇ</rt></ruby> - war cry
 93. <ruby>[喋](../../characters/喋%20(char).md)<rt>ㄉㄝㄆ</rt></ruby> - chatter
 94. <ruby>[喘](../../characters/喘.md)<rt>ㄑㄝㄋ</rt></ruby> - asthma
@@ -145,20 +145,24 @@ tags: [lookup]
 110. <ruby>[呕](../../characters/呕.md)<rt>ㄛㄨ</rt></ruby> - vomit
 111. <ruby>[嘉](../../characters/嘉.md)<rt>ㄍㄚ</rt></ruby> - good
 112. <ruby>[嘗](../../characters/嘗.md)<rt>ㄙ⼘ㄫ</rt></ruby> - taste
+113. <ruby>[噌](../../characters/噌.md)<rt>ㄑㄨㄫ</rt></ruby> - whoosh
 
 ### +12 Strokes
-113. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏ⺢</rt></ruby> - thump
-114. <ruby>[嘱](../../characters/嘱.md)<rt>ㄐㄛㄎ</rt></ruby> - order, instruct
-115. <ruby>[嘲](../../characters/嘲.md)<rt>ㄑㄚㄨ</rt></ruby> - ridicule
-116. <ruby>[噌](../../characters/噌.md)<rt>ㄑㄨㄫ</rt></ruby> - whoosh
+114. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏ⺢</rt></ruby> - thump
+115. <ruby>[嘱](../../characters/嘱.md)<rt>ㄐㄛㄎ</rt></ruby> - order
+116. <ruby>[嘲](../../characters/嘲.md)<rt>ㄑㄚㄨ</rt></ruby> - ridicule
 117. <ruby>[器](../../characters/器.md)<rt>ㄎㄧㄜ</rt></ruby> - container
 118. <ruby>[噴](../../characters/噴.md)<rt>ㄆㄛㄋ</rt></ruby> - erupt
 
-### More Strokes
+### +13 Strokes
 119. <ruby>[嘴](../../characters/嘴.md)<rt>ㄑㄨㄧ</rt></ruby> - bill
 120. <ruby>[噫](../../characters/噫.md)<rt>ㄜ</rt></ruby> - belch
 121. <ruby>[噸](../../characters/噸%20(char).md)<rt>ㄊㄛㄋ</rt></ruby> - ton
+
+### +14 Strokes
 122. <ruby>[嚇](../../characters/嚇%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - scare
+
+### +15 Strokes
 123. <ruby>[嚢](../../characters/嚢.md)<rt>ㄋㄚㄫ</rt></ruby> - bag
 
 ## Data check

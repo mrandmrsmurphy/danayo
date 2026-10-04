@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 14
 radical: 又
 tags: [lookup]
@@ -19,10 +19,10 @@ tags: [lookup]
 
 ### +2 Strokes
 4. <ruby>[双](../../characters/双%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - pair, double
-5. <ruby>[収](../../characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - gather together, collect
+5. <ruby>[収](../../characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - recover
 6. <ruby>[友](../../characters/友.md)<rt>⼜ㄛ</rt></ruby> - friend
 
-7. <ruby>[反](../../characters/反%20(char).md)<rt>ㄈㄛㄋ</rt></ruby> - opposite
+7. <ruby>[反](../../characters/反%20(char).md)<rt>ㄈㄛㄋ</rt></ruby> - anti-
 
 ### +6 Strokes
 8. <ruby>[叔](../../characters/叔.md)<rt>ㄙㄨㄎ</rt></ruby> - uncle

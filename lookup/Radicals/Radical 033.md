@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 士
 tags: [lookup]
@@ -17,15 +17,15 @@ tags: [lookup]
 2. <ruby>[壬](../../characters/壬.md)<rt>ㄋㄧㄇ</rt></ruby> - ninth heavenly stem
 
 ### +3 Strokes
-3. <ruby>[壮](../../characters/壮.md)<rt>ㄐ⺢ㄫ</rt></ruby> - bulky, huge
+3. <ruby>[壮](../../characters/壮.md)<rt>ㄐ⺢ㄫ</rt></ruby> - bulky
 
 ### +4 Strokes
-4. <ruby>[声](../../characters/声.md)<rt>ㄙㄧㄫ</rt></ruby> - sound
-5. <ruby>[壱](../../characters/壱%20(char).md)<rt>ㄧㄊ</rt></ruby> - loyal, faithful
+4. <ruby>[声](../../characters/声.md)<rt>ㄙㄧㄫ</rt></ruby> - vocalize
+5. <ruby>[壱](../../characters/壱%20(char).md)<rt>ㄧㄊ</rt></ruby> - loyal
 6. <ruby>[売](../../characters/売.md)<rt>ㄇㄚㄧ</rt></ruby> - sell
 
 ### +6 Strokes
-7. <ruby>[[壴]]<rt>ㄊㄨㄛ</rt></ruby> - to drum
+7. <ruby>[壴](../../characters/壴.md)<rt>ㄊㄨㄛ</rt></ruby> - to drum
 
 ### +8 Strokes
 8. <ruby>[壷](../../characters/壷.md)<rt>ㄏㄛ</rt></ruby> - pot

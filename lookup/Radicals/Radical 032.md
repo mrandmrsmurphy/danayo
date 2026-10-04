@@ -1,6 +1,6 @@
 ---
 size: 67
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 土
 tags:
   - lookup
@@ -37,16 +37,16 @@ tags:
 13. <ruby>[坤](../../characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> - eighth trigram
 14. <ruby>[坦](../../characters/坦.md)<rt>ㄊㄚㄋ</rt></ruby> - flat
 15. <ruby>[坪](../../characters/坪%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - level ground
+16. <ruby>[垂](../../characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - hang
 
 ### +6 Strokes
-16. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model
-17. <ruby>[垓](../../characters/垓.md)<rt>ㄍㄚㄧ</rt></ruby> - border
-18. <ruby>[垢](../../characters/垢.md)<rt>ㄍㄛㄨ</rt></ruby> - dirt
-19. <ruby>[垣](../../characters/垣%20(char).md)<rt>ㄛㄋ</rt></ruby> - low wall
-20. <ruby>[城](../../characters/城.md)<rt>ㄙㄧㄫ</rt></ruby> - castle
+17. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model
+18. <ruby>[垓](../../characters/垓.md)<rt>ㄍㄚㄧ</rt></ruby> - border
+19. <ruby>[垢](../../characters/垢.md)<rt>ㄍㄛㄨ</rt></ruby> - dirt
+20. <ruby>[垣](../../characters/垣%20(char).md)<rt>ㄛㄋ</rt></ruby> - low wall
+21. <ruby>[城](../../characters/城.md)<rt>ㄙㄧㄫ</rt></ruby> - castle
 
 ### +7 Strokes
-21. <ruby>[垂](../../characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - hang
 22. <ruby>[埃](../../characters/埃.md)<rt>ㄚㄧ</rt></ruby> - fine dirt
 23. <ruby>[埋](../../characters/埋.md)<rt>ㄇ⼶</rt></ruby> - bury
 24. <ruby>[培](../../characters/培.md)<rt>ㄈㄛㄧ</rt></ruby> - cultivate
@@ -62,7 +62,7 @@ tags:
 32. <ruby>[堂](../../characters/堂.md)<rt>ㄉㄚㄫ</rt></ruby> - meeting hall
 33. <ruby>[堆](../../characters/堆.md)<rt>ㄉㄛㄧ</rt></ruby> - piled up
 34. <ruby>[堕](../../characters/堕.md)<rt>ㄉ⺢</rt></ruby> - degenerate
-35. <ruby>[堵](../../characters/堵.md)<rt>ㄉㄛ</rt></ruby> - stifled
+35. <ruby>[堵](../../characters/堵.md)<rt>ㄉㄛ</rt></ruby> - wall
 
 ### +9 Strokes
 36. <ruby>[堅](../../characters/堅.md)<rt>ㄍㄝㄋ</rt></ruby> - hard
@@ -107,13 +107,13 @@ tags:
 67. <ruby>[壌](../../characters/壌.md)<rt>ㄋ⼘ㄫ</rt></ruby> - soil
 
 ### +14 Strokes
-- 壓 -->
+- 壓 --> traditional form of 圧
 
 ### +15 Strokes
-- 壘 -->
+- 壘 --> traditional form of 塁
 
 ### +16 Strokes
-- 壞 -->
+- 壞 --> traditional form of 壊
 
 ## Data check
 ```dataview
