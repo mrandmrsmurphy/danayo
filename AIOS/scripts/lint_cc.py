@@ -20,6 +20,8 @@ Checks (all blocking except the last):
                  of the characters of each final, ignoring the stop-final spelling (g/d/b = k/t/p) and a leading y/w
                  medial, the table as a whole must reach --min-d percent (default 80). Rows below 80% are listed as
                  advisory only.
+              7b. (advisory) the M, C, J, K and V columns scored the same way against each character's mandarin,
+                 cantonese, japanese, korean and vietnamese readings; printed as percentages, never failing
   Links       8. no wanted (red) links: every [[wikilink]] and (relative path) link on a CC page or the 韻図 page resolves
   Top page    9. Classical Chinese.md carries the Initials Check and Finals Check base queries on the right folders
 
@@ -168,6 +170,83 @@ if pct < MIND:
 for n, name, d, cnt, p in low:
     note('rows of the Vowels table whose D column covers under 80% of the final\'s characters',
          f'{n} 韻 {name}: D = {d}, {p}% of {cnt}')
+
+
+# ---------- the other reading columns of the Vowels table (M C J K V): advisory only
+import unicodedata
+
+def field_list(t, key):
+    m = re.search(r'^%s:[ \t]*(.*)$' % key, t, re.M)
+    if not m:
+        return []
+    v = m.group(1).strip()
+    if v:
+        return [v.strip('"\'')]
+    out = []
+    for l in t[m.end():].split('\n'):
+        mm = re.match(r'\s*-\s*(.*)$', l)
+        if mm:
+            out.append(mm.group(1).strip().strip('"\''))
+        elif l.strip():
+            break
+    return out
+
+def r_mandarin(x):
+    x = unicodedata.normalize('NFD', x.lower())
+    x = unicodedata.normalize('NFC', ''.join(c for c in x if unicodedata.category(c) != 'Mn' or c == '\u0308')).replace('\u00fc', 'u')
+    return re.sub(r'^(zh|ch|sh|[bpmfdtnlgkhjqxrzcsyw])', '', x)
+
+def r_cantonese(x):
+    return re.sub(r'^(ng|gw|kw|[bpmfdtnlgkhjszcwv])', '', re.sub(r'\d', '', x.lower()))
+
+def r_japanese(x):
+    return re.sub(r'^(sh|ch|ts|ky|gy|ny|hy|my|ry|by|py|[kstnhfmyrwgzjdbp])', '', x.lower())
+
+_V = ['a', 'ae', 'ya', 'yae', 'eo', 'e', 'yeo', 'ye', 'o', 'wa', 'wae', 'oe', 'yo', 'u', 'wo', 'we', 'wi', 'yu', 'eu', 'ui', 'i']
+_T = {0: '', 1: 'k', 2: 'k', 3: 'k', 4: 'n', 5: 'n', 6: 'n', 7: 't', 8: 'l', 9: 'k', 10: 'm', 11: 'p', 12: 'l', 13: 'l',
+      14: 'p', 15: 'l', 16: 'm', 17: 'p', 18: 'p', 19: 't', 20: 't', 21: 'ng', 22: 't', 23: 't', 24: 'k', 25: 't', 26: 'p', 27: 't'}
+def r_korean(x):
+    o = ord(x[:1] or ' ') - 0xAC00
+    return _V[(o % 588) // 28] + _T[o % 28] if 0 <= o < 11172 else ''
+
+def r_vietnamese(x):
+    x = unicodedata.normalize('NFD', x.lower())
+    x = unicodedata.normalize('NFC', ''.join(c for c in x if c not in '\u0300\u0301\u0303\u0309\u0323')).replace('\u0111', 'd')
+    return re.sub(r'^(ngh|ng|nh|ph|th|tr|ch|kh|gh|gi|qu|[bcdghklmnrstvxpq])', '', x)
+
+COLS = [('M', 'mandarin', r_mandarin), ('C', 'cantonese', r_cantonese), ('J', 'japanese', r_japanese),
+        ('K', 'korean', r_korean), ('V', 'vietnamese', r_vietnamese)]
+readings = collections.defaultdict(list)     # final value -> [dict of reading lists]
+for f in git_files('characters/'):
+    t = open(f).read()
+    b = fm_get(t, 'middle_chinese_final')
+    if b:
+        readings[b].append({k: field_list(t, fld) for k, fld, _ in COLS})
+rowcells = {}
+for l in tab.split('\n'):
+    m = re.match(r'\|\s*(\d{3})\s*\|\s*\[\[?(?:\u97fb )?([^\]|]+?)(?:\]\([^)]*\)|\]\])?\s*\|\s*([^|]*)\|(.*)\|\s*([^|]*)\|?\s*$', l)
+    if m:
+        rowcells[m.group(2).strip()] = (m.group(1), [c.strip() for c in m.group(4).split('|')])
+for i, (k, fld, fn) in enumerate(COLS):
+    h = t_ = 0
+    miss = []
+    for name, (num, cells) in rowcells.items():
+        v = names_f.get(name)
+        if v is None or len(cells) <= i:
+            continue
+        opts = [re.sub(r'[*~?]', '', o).strip().lower() for o in re.split(r'[/,]', cells[i]) if o.strip()]
+        if not opts:
+            continue
+        hh = tt = 0
+        for c in readings.get(v, []):
+            rs = [fn(x) for x in c[k] if x]
+            if rs:
+                tt += 1; hh += any(r in opts for r in rs)
+        h += hh; t_ += tt
+        if tt and hh * 100 < 80 * tt:
+            miss.append((num, name, cells[i], round(100 * hh / tt), tt))
+    if t_:
+        print(f'[info] 韻図 {k} column ({fld}): {100.0 * h / t_:.1f}% of {t_} characters; {len(miss)} rows under 80%')
 
 # ---------- wanted links on CC pages and the rime table
 import os, urllib.parse
