@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 34
 tags: [lookup]
 
@@ -13,7 +13,7 @@ Left half has 10 strokes. Dominant components: 馬, 鳥, 龍, 角, 言.
 - [SKIP-1-10-2](lookup/SKIP/SKIP-1/SKIP-1-10-2.md): 凱, 割, 創, 勤, 馭
 - [SKIP-1-10-3](lookup/SKIP/SKIP-1/SKIP-1-10-3.md): 鄒, 馳, 馴
 - [SKIP-1-10-4](lookup/SKIP/SKIP-1/SKIP-1-10-4.md): 歌, 穀, 馿, 駁, 駄, 駅, 駆
-- [SKIP-1-10-5](lookup/SKIP/SKIP-1/SKIP-1-10-5.md): 駐, 駒, 駝
+- [SKIP-1-10-5](lookup/SKIP/SKIP-1/SKIP-1-10-5.md): 駐, 駒, 駝, 皺
 - [SKIP-1-10-6](lookup/SKIP/SKIP-1/SKIP-1-10-6.md): 骸, 駱, 融
 - [SKIP-1-10-7](lookup/SKIP/SKIP-1/SKIP-1-10-7.md): ø
 - [SKIP-1-10-8](lookup/SKIP/SKIP-1/SKIP-1-10-8.md): 雛, 難, 騎, 騒, 験

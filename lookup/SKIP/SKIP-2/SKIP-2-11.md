@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 20
 tags: [lookup]
 
@@ -14,13 +14,13 @@ Top component has 11 strokes.
 4. [SKIP-2-11-4](lookup/SKIP/SKIP-2/SKIP-2-11-4.md): 勲, 撃, 暫, 熟, 熱, 黙, 慙, 摯, 熬, 慰, 熨
 5. [SKIP-2-11-5](lookup/SKIP/SKIP-2/SKIP-2-11-5.md): 整
 6. [SKIP-2-11-6](lookup/SKIP/SKIP-2/SKIP-2-11-6.md): 繋, 蟄
-7. [SKIP-2-11-7](lookup/SKIP/SKIP-2/SKIP-2-11-7.md): 麌, 謦, 豐, 贄, 贅, 蹙, 醫
-8. ø
+7. [SKIP-2-11-7](lookup/SKIP/SKIP-2/SKIP-2-11-7.md): ø
+8. [SKIP-2-11-8](lookup/SKIP/SKIP-2/SKIP-2-11-8.md): ø
 9. [SKIP-2-11-9](lookup/SKIP/SKIP-2/SKIP-2-11-9.md): 響, 馨
-10. ø
-11. ø
+10. [SKIP-2-11-10](lookup/SKIP/SKIP-2/SKIP-2-11-10.md): ø
+11. [SKIP-2-11-11](lookup/SKIP/SKIP-2/SKIP-2-11-11.md): ø
 12. none
-13. ø
+13. [SKIP-2-11-13](lookup/SKIP/SKIP-2/SKIP-2-11-13.md): ø
 
 ## Base check
 ```base

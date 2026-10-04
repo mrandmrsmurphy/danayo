@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 42
 tags: [lookup]
 
@@ -18,6 +18,7 @@ tags: [lookup]
 - [SKIP-4-9-3](lookup/SKIP/SKIP-4/SKIP-4-9-3.md): 乗, 柬, 禹, 禺
 - [SKIP-4-10-3](lookup/SKIP/SKIP-4/SKIP-4-10-3.md): ø
 - [SKIP-4-11-3](lookup/SKIP/SKIP-4/SKIP-4-11-3.md): 粛
+- 12: There are no SKIP-4-12-3 characters
 - [SKIP-4-13-3](lookup/SKIP/SKIP-4/SKIP-4-13-3.md): ø
 
 ## Base check

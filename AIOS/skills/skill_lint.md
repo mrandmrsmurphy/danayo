@@ -20,6 +20,8 @@ The vault is too large and heterogeneous for one linter to cover everything at o
 
 Rubric: [[AIOS/checklists/checklist_skip.md]] — read it in full before running this; the summary below assumes it.
 
+**Script (added 2026-10-04):** `python3 AIOS/scripts/lint_skip.py [--no-stamp]` runs steps 1-4 below as a report-only check and stamps `lookup/SKIP/SKIP.md` with today's date on a clean run (meaning every leaf and stem was verified and dated within the last 30 days). Ground truth is each character's `skip_number`. It checks: a leaf exists for every code; leaf frontmatter, entries equal to the characters carrying the code, `size` equal to the entry count, Datacheck code; each stem's `size` equal to the sum of its leaves, every existing leaf linked, every position listed (gaps written `none`/`no`/`ø`), previews showing exactly each leaf's characters; the `## Base check` block; `SKIP.md`'s `size` and links. Empty leaves (size 0, only aliases or forbidden marks) are legitimate and can be stamped. First run 2026-10-04: 492 leaves and 61 stems, 32 defects fixed (14 stale previews, 4 empty leaves not linked from `SKIP-2-11`, unlisted gap positions on `SKIP-4-0-1`/`SKIP-4-0-3`, 12 non-standard gap lines), then stamped. The fixing is still manual: the script only reports.
+
 ### 0. Scope
 
 `lookup/SKIP/` is ~536 files: `SKIP.md` (one top-level overview), four first-number folders `SKIP-1/` (189 files) through `SKIP-4/` (62 files), each containing index files (`SKIP-#-#.md`) and leaf files (`SKIP-#-#-#.md`). SKIP-4 additionally has stroke-count indexes (`SKIP-4-#.md`) and four subtype-overview files (`SKIP-4-0-#.md`) — see the checklist for how its breadcrumbs and structure differ from SKIP-1/2/3.

@@ -36,9 +36,10 @@ One per stroke group. Their job is navigation: list which leaf files exist and p
 ```yaml
 ---
 date-last-perfect: YYYY-MM-DD
+size: N
 ---
 ```
-`size` and `skip_number` are not needed on index files.
+`size` is the sum of the `size` of every leaf the index covers (for `SKIP-4-0-K` pages, the leaves `SKIP-4-*-K`); `SKIP.md` carries the total, which equals the number of characters. `skip_number` is not needed on index files. Gap positions are written `none`, `no` or `ø`; an existing empty leaf (aliases or forbidden marks only) is still linked, with `ø` as its preview.
 
 **Body structure:**
 1. Breadcrumb: `> [SKIP](lookup/SKIP/SKIP.md) : 1` (linking back up to the top-level SKIP.md)

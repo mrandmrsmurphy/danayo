@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 159
 tags: [lookup]
 
@@ -9,7 +9,7 @@ tags: [lookup]
 
 1. no
 2. [SKIP-1-2-2](lookup/SKIP/SKIP-1/SKIP-1-2-2.md): 仁, 仇, 仍, 切, 刈, 化, 双, 収, 比
-3. [SKIP-1-2-3](lookup/SKIP/SKIP-1/SKIP-1-2-3.md): 以, 加, 仕, 仙, 他, 代, 氷, 付, 仗
+3. [SKIP-1-2-3](lookup/SKIP/SKIP-1/SKIP-1-2-3.md): 以, 加, 仙, 他, 代, 氷, 付, 仗
 4. [SKIP-1-2-4](lookup/SKIP/SKIP-1/SKIP-1-2-4.md): 仮, 仰, 仲, 件, 任, 伊, 伍, 伎, 伏, 伐, 休, 伝, 佤, 州, 次
 5. [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md): 伯, 伴, 伶, 伸, 伺, 伽, 似, 佃, 但, 佇, 位, 低, 住, 佐, 佑, 体, 何, 作, 佛, 佞, 冴, 冶, 冷
 6. [SKIP-1-2-6](lookup/SKIP/SKIP-1/SKIP-1-2-6.md): 佳, 依, 佩, 使, 侃, 例, 侍, 侏, 侑, 侘, 供, 価, 侮, 協

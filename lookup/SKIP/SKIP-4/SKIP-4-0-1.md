@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 65
 tags: [lookup]
 
@@ -19,6 +19,9 @@ These are <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> with a top line, organized
 | 鼎 | 爾 | |
 
 
+- 10: There are no SKIP-4-10-1 characters
+- 11: There are no SKIP-4-11-1 characters
+- 12: There are no SKIP-4-12-1 characters
 
 ## Base check
 ```base

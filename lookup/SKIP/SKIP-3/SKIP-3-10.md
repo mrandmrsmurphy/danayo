@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 3
 tags: [lookup]
 
@@ -8,21 +8,21 @@ tags: [lookup]
 These are character with a surrounding element of ten-strokes, typically either the demon-radical or the door-radical.
 
 Below are the number of strokes for the other material, that is, that which is surrounded:
-1. Does not exist
-2. Does not exist
-3. Does not exist
+1. none
+2. none
+3. none
 4. [SKIP-3-10-4](lookup/SKIP/SKIP-3/SKIP-3-10-4.md): 魁
 5. [SKIP-3-10-5](lookup/SKIP/SKIP-3/SKIP-3-10-5.md): ø
-6. Does not exist
+6. none
 7. [SKIP-3-10-7](lookup/SKIP/SKIP-3/SKIP-3-10-7.md): 趨
 8. [SKIP-3-10-8](lookup/SKIP/SKIP-3/SKIP-3-10-8.md): ø
-9. Does not exist
+9. none
 10. [SKIP-3-10-10](lookup/SKIP/SKIP-3/SKIP-3-10-10.md): ø
 11. [SKIP-3-10-11](lookup/SKIP/SKIP-3/SKIP-3-10-11.md): 魑
-12. Does not exist
-13. Does not exist
-14. Does not exist
-15. Does not exist
+12. none
+13. none
+14. none
+15. none
 16. [SKIP-3-10-16](lookup/SKIP/SKIP-3/SKIP-3-10-16.md): ø
 
 ## Base check

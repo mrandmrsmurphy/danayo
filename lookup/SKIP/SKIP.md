@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 3362
 language: 単亜語
 tags:
@@ -102,5 +102,8 @@ views:
       - file.name
       - size
       - date-last-perfect
+    sort:
+      - property: size
+        direction: ASC
 
 ```

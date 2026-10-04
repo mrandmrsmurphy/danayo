@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-04
 size: 179
 tags: [lookup]
 
@@ -17,7 +17,7 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md): 刺, 制, 棘, 粧, 糾, 結, 絡, 絶, 絞, 給, 絨, 統, 絵, 翔, 聒, 蛭, 蛙, 蛛, 蛞, 蛤
 - [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md): 継, 続, 絹, 綏, 蛾, 艇, 辞, 聘, 裏, 䎎, 群, 辟
 - [SKIP-1-6-8](lookup/SKIP/SKIP-1/SKIP-1-6-8.md): 精, 維, 綱, 網, 綴, 綻, 綽, 綿, 緋, 総, 緑, 緒, 練, 聡, 蜘, 蠟, 踝, 雑
-- [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md): 箱, 糊, 線, 締, 編, 緩, 縁, 縄, 蝉, 蝓, 蝙, 蝠, 蝦, 蝶, 蝸, 蝿, 輝, 酋, 頬
+- [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md): 箱, 糊, 線, 締, 編, 緩, 縁, 縄, 蝉, 蝓, 蝙, 蝠, 蝦, 蝶, 蝸, 蝿, 輝, 頬
 - [SKIP-1-6-10](lookup/SKIP/SKIP-1/SKIP-1-6-10.md): 糖, 緯, 緻, 縛, 縞, 縦, 縫, 艙, 螂, 螟
 - [SKIP-1-6-11](lookup/SKIP/SKIP-1/SKIP-1-6-11.md): 糟, 糠, 縮, 績, 繃, 繍, 聴, 螳, 螺
 - [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md): 糧, 織, 繕, 繞, 職
@@ -30,7 +30,7 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - SKIP-1-6-19: none
 - SKIP-1-6-20: none
 - SKIP-1-6-21: none
-- [SKIP-1-6-22](lookup/SKIP/SKIP-1/SKIP-1-6-22.md): 纜
+- [SKIP-1-6-22](lookup/SKIP/SKIP-1/SKIP-1-6-22.md): ø
 
 ## Base check
 ```base
