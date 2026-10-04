@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 28
 radical: 力
 tags:
@@ -26,7 +26,7 @@ tags:
 5. <ruby>[劦](../../characters/劦.md)<rt>ㄎㄝㄆ</rt></ruby> - same force
 
 ### +5 Strokes
-6. <ruby>[助](../../characters/助.md)<rt>ㄐㄛ</rt></ruby> - assist
+6. <ruby>[助](../../characters/助.md)<rt>ㄐㄛ</rt></ruby> - rescue
 7. <ruby>[努](../../characters/努.md)<rt>ㄋㄛ</rt></ruby> - endeavor
 - 弩 --> variant of 努
 8. <ruby>[劫](../../characters/劫.md)<rt>ㄍㄚㄆ</rt></ruby> - take by force

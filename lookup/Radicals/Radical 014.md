@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 冖
 tags: [lookup]
@@ -22,7 +22,7 @@ tags: [lookup]
 5. <ruby>[冠](../../characters/冠.md)<rt>ㄍ⺢ㄋ</rt></ruby> - crown
 
 ### +8 Strokes
-6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - injustice
+6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - grievance
 7. <ruby>[冥](../../characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> - dark
 
 ### +14 Strokes
