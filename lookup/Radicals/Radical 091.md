@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 3
 radical: 片
 tags: [lookup]
@@ -11,13 +11,13 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[片](../../characters/片%20(char).md)<rt>ㄆㄝㄋ</rt></ruby> - slice, flake
+1. <ruby>[片](../../characters/片%20(char).md)<rt>ㄆㄝㄋ</rt></ruby> - slice
 
 ### +4 Strokes
-2. <ruby>[版](../../characters/版.md)<rt>ㄆㄚㄋ</rt></ruby> - edition, version
+2. <ruby>[版](../../characters/版.md)<rt>ㄆㄚㄋ</rt></ruby> - edition
 
 ### +8 Strokes
-3. <ruby>[牌](../../characters/牌%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - playing card, tile
+3. <ruby>[牌](../../characters/牌%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - playing card
 
 ## Data check
 ```dataview

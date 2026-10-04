@@ -1,16 +1,16 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 爻
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 89 is 爻, a line pattern or diagram symbol — depicting the alternating lines used in the I Ching (易經) divination system. This radical appears in compounds relating to divination, patterns, lines, or change. It represents the ordered patterns of fate and cosmic structure.
+> Radical 89 is 爻, the alternating line pattern used in the I Ching (易經), 4 strokes. 爽 is the only character classified here.
 
 ## Characters
 ### Used
-1. <ruby>[[爽]]<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing, frank
+1. <ruby>[爽](../../characters/爽.md)<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

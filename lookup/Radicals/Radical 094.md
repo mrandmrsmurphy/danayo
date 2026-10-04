@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 29
 radical: 犬
 tags:
@@ -41,12 +41,12 @@ tags:
 12. <ruby>[狡](../../characters/狡.md)<rt>ㄍ⼄ㄨ</rt></ruby> - cunning
 
 ### +6 Strokes
-13. <ruby>[狸](../../characters/狸%20(char).md)<rt>ㄌㄧ</rt></ruby> - tanuki
+13. <ruby>[狸](../../characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> - tanuki
 - 貍 --> variant of 狸
 - 狢 --> variant of 狸
 - 貉 --> variant of 狸
 14. <ruby>[狼](../../characters/狼%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - wolf
-15. <ruby>[狽](../../characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> - wolf-like beast
+15. <ruby>[狽](../../characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> - mythical wolf-like beast
 
 ### +7 Strokes
 16. <ruby>[猛](../../characters/猛.md)<rt>ㄇㄚㄫ</rt></ruby> - fierce
@@ -62,7 +62,7 @@ tags:
 ### +8 Strokes
 21. <ruby>[猩](../../characters/猩.md)<rt>ㄙㄝㄫ</rt></ruby> - orangutan
 - 狌 --> variant of 猩
-22. <ruby>[猲](../../characters/猲.md)<rt>ㄎ⺢ㄆ</rt></ruby> - flame
+22. <ruby>[猲](../../characters/猲.md)<rt>ㄎ⺢ㄆ</rt></ruby> - hunting dog
 23. <ruby>[猶](../../characters/猶%20(char).md)<rt>⼜ㄛ</rt></ruby> - furthermore
 - 猷 --> variant of 猶
 - 犹 --> simplified of 猶
