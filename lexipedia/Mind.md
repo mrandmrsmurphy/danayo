@@ -69,6 +69,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[憧憬](../words/憧憬.md)<rt>ㄑㄛㄫㄍ⼄ㄫ</rt></ruby>: to long for, desire — yearning toward a distant or aspirational goal.
 - <ruby>[願意](../words/願意.md)<rt>⼔ㄋ·ㄜ</rt></ruby>: willing; to want, wish.
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent — willpower, the faculty of volition; see [[Grammar]] for its own citation there.
+- <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: will, shall — the grammatical future-tense marker, not the psychological faculty; see [[Grammar]] for its own citation there.
 
 ### Doubt & Hesitation
