@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 21
 radical: 尸
 tags: [lookup]

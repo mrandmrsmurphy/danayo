@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 6
 radical: 巛
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The river radical 巛, depicting flowing water (SKIP-1-1-x). No character is filed at 巛 itself, so groupings below start at +0 with the lowest-stroke character that carries this radical.
+> The river radical 巛, 3 strokes, depicting flowing water (SKIP-1-1-x). 巛 is not itself a character, so the +0 group holds 川, which has the same number of strokes.
 
 ## Strokes
 
@@ -21,7 +21,7 @@ tags: [lookup]
 4. <ruby>[巠](../../characters/巠.md)<rt>ㄍㄝㄫ</rt></ruby> - underground stream
 
 ### +5 Strokes
-5. <ruby>[𡿺](../../characters/𡿺.md)<rt>ㄋㄨㄛ</rt></ruby> - fontanel
+5. <ruby>[𡿺](../../characters/𡿺.md)<rt>ㄋㄚㄨ</rt></ruby> - brain
 
 ### +8 Strokes
 6. <ruby>[巣](../../characters/巣.md)<rt>ㄐㄚㄨ</rt></ruby> - nest

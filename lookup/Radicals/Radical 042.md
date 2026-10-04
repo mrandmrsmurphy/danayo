@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 小
 tags: [lookup]
@@ -25,7 +25,7 @@ tags: [lookup]
 6. <ruby>[尚](../../characters/尚%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - still
 
 ### +9 Strokes
-7. <ruby>[[尞]]<rt>ㄌ⼘</rt></ruby> - bonfire
+7. <ruby>[尞](../../characters/尞.md)<rt>ㄌ⼘</rt></ruby> - bonfire
 
 ### +11 Strokes
 8. <ruby>[爾](../../characters/爾%20(char).md)<rt>ㄋㄝ</rt></ruby> - yes
