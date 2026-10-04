@@ -36,6 +36,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[三稜鏡](../words/三稜鏡.md)<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby>: a prism — literally "three-edge lens," the light-dispersing optical instrument.
 - <ruby>[陰影](../words/陰影.md)<rt>ㄧㄇ·⼶ㄫ</rt></ruby>: a shadow.
 - <ruby>[閃光](../words/閃光.md)<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby>: a flash of light, a glint.
+- <ruby>[虹霓](../words/虹霓.md)<rt>ㄏㄛㄫㄝㄧ</rt></ruby>: neon, neon light — classically the double rainbow, repurposed in Dan'a'yo for the vivid glow of neon; the element is [[虹素]].
 
 **Not yet coined**: "ray" (of light) has no dedicated word — [[鱏]], which glosses "ray," names the fish (a stingray/skate), not a beam of light, and is not the referent here.
 
