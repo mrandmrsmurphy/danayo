@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 20
 radical: 一
 tags:
@@ -22,20 +22,20 @@ Radical 1 is 一, the number one.
 
 ### +2 Strokes
 4. <ruby>[万](../../characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
-5. <ruby>[丈](../../characters/丈%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - only
+5. <ruby>[丈](../../characters/丈%20(char).md)<rt>ㄑㄚㄫ</rt></ruby> - ten feet
 6. <ruby>[[三|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
 7. <ruby>[上](../../characters/上%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> - above
 8. <ruby>[下](../../characters/下%20(char).md)<rt>ㄏㄚ</rt></ruby> - below
+9. <ruby>[与](../../characters/与%20(char).md)<rt>·⼄</rt></ruby> - and
 - 丌 --> ancient variant of 其
 - 亐 --> ancient variant of 于
 - 卄 --> ancient variant of 廿
 
 ### +3 Strokes
-9. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
-10. <ruby>[与](../../characters/与%20(char).md)<rt>·⼄</rt></ruby> - only
-11. <ruby>[丐](../../characters/丐.md)<rt>ㄍㄚㄨ</rt></ruby> - begger
+10. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
+11. <ruby>[丐](../../characters/丐.md)<rt>ㄍㄚㄧ</rt></ruby> - beggar
 - 丏 --> ancient variant of 丐
-12. <ruby>[丑](/characters/丑.md)<rt>ㄑㄨ</rt></ruby> - second of 12 earthly branches
+12. <ruby>[丑](../../characters/丑.md)<rt>ㄑㄨ</rt></ruby> - second of 12 earthly branches
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
 
@@ -52,7 +52,7 @@ Radical 1 is 一, the number one.
 - 㐀 --> ancient variant of 丘 
 
 ### +5 Strokes
-18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
+18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄜㄫ</rt></ruby> - rescue
 19. <ruby>[両](../../characters/両%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - both
 - 㐂 --> ancient variant of 喜
 - 丠 --> ancient variant of 丘 and 冀

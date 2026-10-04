@@ -1,12 +1,12 @@
 ---
 size: 3
 radical: 丶
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 3 is 丶, a dot or point stroke — one of the most basic strokes in the script, depicting a drop or spark. Characters classified here are typically built around this single stroke rather than sharing a common meaning: 丸 uses it to mark a small round object, 丹 marks the mineral inside an ancient well-shaped vessel, and 主 traces to a flame's point atop a lampstand.
+> Radical 3 is 丶, a dot or point stroke — one of the most basic strokes in the script, depicting a drop or spark. Characters classified here are typically built around this single stroke rather than sharing a common meaning: 丸 is a differentiated form of 夗 ("to tilt", hence something round), 丹 has the dot marking the cinnabar inside a well or mine shaft, and 主 traces to a flame atop a lamp or torch.
 
 ## Characters
 ### Used

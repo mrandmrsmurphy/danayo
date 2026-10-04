@@ -61,6 +61,8 @@ Per folder-group: counts of leaves created / leaves fixed / indexes fixed / date
 
 ## `lint Radicals`
 
+**Script (added 2026-10-04):** `python3 AIOS/scripts/lint_radicals.py` checks the whole set and stamps `lookup/Radicals/Radicals.md`. Ground truth is each character's `radical:` field; each radical page carries its own `radical:` value, which joins them. It checks that (1) every radical page has a `date-last-perfect` within the last 30 days (`--days N`), (2) every character has a `radical:` that names an existing radical page (none orphaned), (3) `Radicals.md` lists every radical page exactly once (none missing), (4) every link on `Radicals.md` points at a page that exists (none wanted), and (5) the "(N characters)" after each bullet equals the number of characters with that radical (counts up to date). A radical page whose `size:` differs from the characters is reported as a warning. On a clean run it sets `date-last-perfect` on `Radicals.md` to today; `--no-stamp` reports only. It edits no other file. It does not check each page's own character list line by line; that is the per-page audit described below.
+
 Rubric: [[AIOS/checklists/checklist_radicals.md]] — read it in full before running this; the summary below assumes it.
 
 ### 0. Scope

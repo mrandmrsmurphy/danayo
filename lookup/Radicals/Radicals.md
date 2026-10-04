@@ -309,8 +309,6 @@ views:
     sort:
       - property: size
         direction: DESC
-      - property: date-last-perfect
-        direction: ASC
       - property: file.name
         direction: ASC
 
