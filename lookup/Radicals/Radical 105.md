@@ -1,16 +1,15 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 3
 radical: 癶
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The footsteps/legs-apart radical 癶, depicting two feet pointing outward.
+> The footsteps/legs-apart radical 癶, 5 strokes, depicting two feet pointing outward. No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
 
-*No character is filed at +0, so groupings below start at +4.*
 
 ### +4 Strokes
 1. <ruby>[発](../../characters/発%20(char).md)<rt>ㄈㄚㄊ</rt></ruby> - issue forth

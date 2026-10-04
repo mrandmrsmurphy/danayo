@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 3
 radical: 疋
 tags: [lookup]
@@ -14,10 +14,10 @@ tags: [lookup]
 1. <ruby>[疋](../../characters/疋.md)<rt>ㄙㄜ</rt></ruby> - bolt of cloth
 
 ### +7 Strokes
-2. <ruby>[疎](../../characters/疎.md)<rt>ㄙㄜ</rt></ruby> - loose, neglect
+2. <ruby>[疎](../../characters/疎.md)<rt>ㄙㄜ</rt></ruby> - loose
 
 ### +9 Strokes
-3. <ruby>[疑](../../characters/疑.md)<rt>ㄧ</rt></ruby> - doubt, question
+3. <ruby>[疑](../../characters/疑.md)<rt>ㄧ</rt></ruby> - doubt
 
 ## Data check
 ```dataview
