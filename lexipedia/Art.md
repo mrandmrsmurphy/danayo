@@ -166,6 +166,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>: martial art skill.
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
+- <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.
 - <ruby>[気功](../words/気功.md)<rt>ㄎㄧㄜㄍㄛㄫ</rt></ruby>: qigong — a breath/energy-cultivation practice traditionally grouped with the martial arts above, though not itself a fighting art.
 - <ruby>[稽古](../words/稽古.md)<rt>ㄍㄝㄧㄍㄛ</rt></ruby>: practice, training in a traditional art or discipline (Japanese usage); classical "to examine antiquity" (source sense).
 
