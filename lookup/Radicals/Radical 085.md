@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 172
 radical: 水
 tags: [lookup]
@@ -49,7 +49,7 @@ tags: [lookup]
 29. <ruby>[泛](../../characters/泛.md)<rt>ㄈㄧㄇ</rt></ruby> - flood
 
 ### +4 Strokes
-30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - connected
+30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous
 31. <ruby>[沫](../../characters/沫%20(char).md)<rt>ㄇㄚㄊ</rt></ruby> - froth
 32. <ruby>[河](../../characters/河.md)<rt>ㄏㄚ</rt></ruby> - stream
 33. <ruby>[沸](../../characters/沸.md)<rt>ㄈㄨㄊ</rt></ruby> - seethe
@@ -83,7 +83,7 @@ tags: [lookup]
 59. <ruby>[洵](../../characters/洵.md)<rt>ㄙ⼜ㄋ</rt></ruby> - truly
 60. <ruby>[洸](../../characters/洸.md)<rt>ㄍ⺢ㄫ</rt></ruby> - sparkle
 61. <ruby>[活](../../characters/活%20(char).md)<rt>ㄏ⺢ㄊ</rt></ruby> - alive
-62. <ruby>[派](../../characters/派.md)<rt>ㄆㄚㄧ</rt></ruby> - sect
+62. <ruby>[派](../../characters/派.md)<rt>ㄆㄚㄧ</rt></ruby> - branch
 63. <ruby>[浄](../../characters/浄.md)<rt>ㄐㄝㄫ</rt></ruby> - clean
 64. <ruby>[浅](../../characters/浅%20(char).md)<rt>ㄑㄝㄋ</rt></ruby> - shallow
 65. <ruby>[海](../../characters/海.md)<rt>ㄏㄚㄧ</rt></ruby> - sea
@@ -92,7 +92,7 @@ tags: [lookup]
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
 67. <ruby>[流](../../characters/流.md)<rt>ㄌ⼜</rt></ruby> - flow
 68. <ruby>[浜](../../characters/浜%20(char).md)<rt>ㄅㄧㄋ</rt></ruby> - coast
-69. <ruby>[浣](../../characters/浣.md)<rt>ㄏㄨㄚㄎ</rt></ruby> - wash
+69. <ruby>[浣](../../characters/浣.md)<rt>ㄏ⺢ㄎ</rt></ruby> - wash
 70. <ruby>[浦](../../characters/浦%20(char).md)<rt>ㄆㄛ</rt></ruby> - riverbank
 71. <ruby>[浩](../../characters/浩.md)<rt>ㄏㄚㄨ</rt></ruby> - great
 72. <ruby>[浪](../../characters/浪.md)<rt>ㄌㄚㄫ</rt></ruby> - wave
@@ -110,7 +110,7 @@ tags: [lookup]
 82. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
 83. <ruby>[液](../../characters/液.md)<rt>⼶ㄎ</rt></ruby> - fluid
 84. <ruby>[涼](../../characters/涼.md)<rt>ㄌ⼘ㄫ</rt></ruby> - refreshing
-85. <ruby>[淀](../../characters/淀.md)<rt>ㄉㄝㄋ</rt></ruby> - swampy
+85. <ruby>[淀](../../characters/淀.md)<rt>ㄉㄝㄋ</rt></ruby> - sediment
 86. <ruby>[淋](../../characters/淋%20(char).md)<rt>ㄌㄧㄇ</rt></ruby> - drain
 87. <ruby>[淑](../../characters/淑.md)<rt>ㄙㄨㄎ</rt></ruby> - pure
 88. <ruby>[淡](../../characters/淡.md)<rt>ㄉㄚㄇ</rt></ruby> - diluted
@@ -142,12 +142,12 @@ tags: [lookup]
 112. <ruby>[湆](../../characters/湆.md)<rt>ㄎㄨㄆ</rt></ruby> - broth
 113. <ruby>[湊](../../characters/湊.md)<rt>ㄑㄛㄨ</rt></ruby> - piece together
 114. <ruby>[湖](../../characters/湖.md)<rt>ㄏㄛㄨ</rt></ruby> - lake
-115. <ruby>[湘](../../characters/湘.md)<rt>ㄙ⼘ㄫ</rt></ruby> - Xiang River
+115. <ruby>[湘](../../characters/湘.md)<rt>ㄙ⼘ㄫ</rt></ruby> - Xiang
 116. <ruby>[湛](../../characters/湛.md)<rt>ㄉㄚㄇ</rt></ruby> - extensive
 117. <ruby>[湧](../../characters/湧%20(char).md)<rt>⼄ㄫ</rt></ruby> - gush
 118. <ruby>[湯](../../characters/湯%20(char).md)<rt>ㄊㄚㄫ</rt></ruby> - hot water
 119. <ruby>[湾](../../characters/湾.md)<rt>⺢ㄇ</rt></ruby> - gulf
-120. <ruby>[湿](../../characters/湿%20(char).md)<rt>ㄙㄜㄆ</rt></ruby> - wet
+120. <ruby>[湿](../../characters/湿%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - wet
 121. <ruby>[満](../../characters/満%20(char).md)<rt>ㄇㄚㄋ</rt></ruby> - full
 122. <ruby>[滋](../../characters/滋.md)<rt>ㄐㄜ</rt></ruby> - thrive
 
@@ -174,7 +174,7 @@ tags: [lookup]
 140. <ruby>[漂](../../characters/漂%20(char).md)<rt>ㄆ⼄</rt></ruby> - drift
 141. <ruby>[漆](../../characters/漆%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - varnish
 142. <ruby>[漏](../../characters/漏%20(char).md)<rt>ㄌㄛㄨ</rt></ruby> - leak
-143. <ruby>[漑](../../characters/漑.md)<rt>ㄍㄚㄧ</rt></ruby> - water
+143. <ruby>[漑](../../characters/漑.md)<rt>ㄍㄚㄧ</rt></ruby> - water, irrigate
 144. <ruby>[演 (char)](../../characters/演%20(char).md)<rt>⼶ㄋ</rt></ruby> - perform
 145. <ruby>[漕](../../characters/漕.md)<rt>ㄐㄚㄨ</rt></ruby> - canal transportation
 146. <ruby>[漫](../../characters/漫.md)<rt>ㄇㄚㄋ</rt></ruby> - pervade

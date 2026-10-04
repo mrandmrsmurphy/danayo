@@ -1,17 +1,17 @@
 ---
 size: 2
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 毛
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 82 is 毛, fur or hair — depicting strands of hair, animal fur, or feathers. This radical appears in compounds relating to hair, fur, feathers, fine strands, or surface texture. It's particularly prominent in words for animals and their features.
+> Radical 82 is 毛, "fur" or "hair", 4 strokes. Characters classified here are grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[毛](/characters/毛%20(char).md)<rt>ㄇㄚㄨ</rt></ruby> - fur
-2. <ruby>[毫](/characters/毫%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - hair
+1. <ruby>[毛](../../characters/毛%20(char).md)<rt>ㄇㄚㄨ</rt></ruby> - fur
+2. <ruby>[毫](../../characters/毫%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - fine hair
 
 ## Data check
 ```dataview

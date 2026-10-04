@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 46
 radical: 火
 tags: [lookup]
@@ -29,11 +29,11 @@ tags: [lookup]
 10. <ruby>[炒](../../characters/炒%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - fry
 
 ### +5 Strokes
-11. <ruby>[炢](../../characters/炢.md)<rt>ㄉㄨㄊ</rt></ruby> - dud
+11. <ruby>[炢](../../characters/炢.md)<rt>ㄉㄨㄊ</rt></ruby> - produce smoke
 12. <ruby>[炭](../../characters/炭%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - charcoal
 13. <ruby>[炸](../../characters/炸.md)<rt>ㄐㄚㄎ</rt></ruby> - fried
 14. <ruby>[点](../../characters/点%20(char).md)<rt>ㄉㄝㄇ</rt></ruby> - point
-15. <ruby>[為](../../characters/為%20(char).md)<rt>ㄨㄧ</rt></ruby> - namely
+15. <ruby>[為](../../characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
 
 ### +6 Strokes
 16. <ruby>[烈](../../characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> - fiery
@@ -59,7 +59,7 @@ tags: [lookup]
 30. <ruby>[煤](../../characters/煤%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> - soot
 31. <ruby>[煥](../../characters/煥.md)<rt>ㄏ⺢ㄋ</rt></ruby> - blaze
 32. <ruby>[照](../../characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> - shine
-33. <ruby>[煩](../../characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> - toublesome
+33. <ruby>[煩](../../characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> - troublesome
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid

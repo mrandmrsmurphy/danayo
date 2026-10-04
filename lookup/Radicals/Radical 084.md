@@ -1,16 +1,16 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 气
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 84 is 气, steam, breath, or vital energy — depicting vaporous exhalations rising. In Chinese philosophy and medicine, this represents the life force (qi/chi) that animates all things. The radical appears in compounds relating to breathing, air, vapor, mood, or internal vital states.
+> Radical 84 is 气, steam or breath, 4 strokes. 気 is the only character classified here.
 
 ## Characters
 ### Used
-1. <ruby>[[気 (char)|気]]<rt>ㄎㄧㄜ</rt></ruby> - feeling
+1. <ruby>[気](../../characters/気%20(char).md)<rt>ㄎㄧㄜ</rt></ruby> - feeling
 
 ## Data check
 ```dataview
