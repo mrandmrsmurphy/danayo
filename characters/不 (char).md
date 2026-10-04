@@ -85,7 +85,7 @@ boundedness: 50
 - <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
 - <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"
 - <ruby>[[優柔不断]]<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> "indecisive; undetermined; shilly-shally"
-- <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"
+- <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄛㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"
 - <ruby>[[異体不容]]<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted"
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "total silence"
 - <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄜㄙㄚㄜㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"

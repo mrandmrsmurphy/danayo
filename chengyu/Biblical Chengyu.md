@@ -32,7 +32,7 @@ tags:
 - <ruby>[荊棘荻蓬](chengyu/荊棘荻蓬.md)<rt>ㄎ⼶ㄫㄍㄧㄎㄉㄧㄎㄅㄛㄫ</rt></ruby> - thorns and thistles
 - <ruby>[多召少選](chengyu/多召少選.md)<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> - many are called, few are chosen
 - <ruby>[生机勃勃](chengyu/生机勃勃.md)<rt>ㄙㄚㄫㄍㄧㄜㄅㄛㄊㄅㄛㄊ</rt></ruby> - resurrection life
-- <ruby>[飲食歓楽](chengyu/飲食歓楽.md)<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄋ</rt></ruby> - eat, drink, and be merry
+- <ruby>[飲食歓楽](chengyu/飲食歓楽.md)<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄎ</rt></ruby> - eat, drink, and be merry
 - <ruby>[加哀痛産](chengyu/加哀痛産.md)<rt>ㄍㄚㄚㄧㄊㄛㄫㄙㄚㄋ</rt></ruby> - add sorrow to painful labor
 - <ruby>[道活墨殺](chengyu/道活墨殺.md)<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> - Letter kills, Spirit life
 - <ruby>[勿妄称名](chengyu/勿妄称名.md)<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> - Don't take the Name in vain

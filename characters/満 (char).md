@@ -59,4 +59,4 @@ boundedness:
 - <ruby>[[満族]]<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby> "Manchu ethnicity"
 
 ## Chengyu
-- <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"
+- <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄛㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"

@@ -55,6 +55,6 @@ date-last-perfect: 2026-07-17
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"
-- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
+- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
 ## Derived Characters
 - <ruby>[[節 (char)|節]]<rt>ㄐㄝㄊ</rt></ruby> "node"

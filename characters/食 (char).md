@@ -73,7 +73,7 @@ boundedness: 90
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
-- <ruby>[[飲食歓楽]]<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄋ</rt></ruby> "eat drink and be merry"
+- <ruby>[[飲食歓楽]]<rt>ㄨㄇㄙㄧㄎㄏ⺢ㄋㄌㄚㄎ</rt></ruby> "eat drink and be merry"
 - <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"

@@ -82,4 +82,4 @@ boundedness:
 - <ruby>[[恭喜発財]]<rt>ㄍ⼄ㄫㄏㄧㄈㄚㄊㄐㄚㄧ</rt></ruby> "happy new year"
 
 ## Chengyu
-- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
+- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"

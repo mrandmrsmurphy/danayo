@@ -55,4 +55,4 @@ boundedness: 65
 - <ruby>[[鼻音]]<rt>ㄅㄧㄨㄇ</rt></ruby> "nasal"
 
 ## Chengyu
-- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"
+- <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"

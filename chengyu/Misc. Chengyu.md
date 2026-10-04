@@ -20,7 +20,7 @@ tags:
 - <ruby>[八紘一宇](chengyu/八紘一宇.md)<rt>ㄅㄚㄊㄏ⼔ㄫㄧㄊ·ㄨ</rt></ruby> - Manifest Destiny
 - <ruby>[一石二鳥](chengyu/一石二鳥.md)<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> - two birds with one stone
 - <ruby>[日月星辰](chengyu/日月星辰.md)<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> - Sun, moon, stars, constellations
-- <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> - touch and go
+- <ruby>[一触即発](chengyu/一触即発.md)<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> - touch and go
 - <ruby>[鶏鳴狗盗](chengyu/鶏鳴狗盗.md)<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> - bad people use dirty tricks
 - <ruby>[金城湯池](chengyu/金城湯池.md)<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> - impregnable
 - <ruby>[魑魅罔両](chengyu/魑魅罔両.md)<rt>ㄑㄧ·ㄇㄧㄜㄇㄚㄫㄌ⼘ㄫ</rt></ruby> - all the demons
@@ -104,7 +104,7 @@ tags:
 - <ruby>[東奔西走](chengyu/東奔西走.md)<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> - to rush about everywhere, to run around busily from place to place
 - <ruby>[森羅万象](chengyu/森羅万象.md)<rt>ㄙㄨㄇㄌㄛ·ㄇㄛㄋㄙ⼘ㄫ</rt></ruby> - everything that exists
 - <ruby>[欣喜雀躍](chengyu/欣喜雀躍.md)<rt>ㄏㄧㄋㄏㄧㄐㄚㄎ·⼘ㄎ</rt></ruby> - jump for joy
-- <ruby>[欲求不満](chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety, sexual frustrated
+- <ruby>[欲求不満](chengyu/欲求不満.md)<rt>⼄ㄎㄍ⼜ㄛㄅㄛㄊㄇㄚㄋ</rt></ruby> - anxiety, sexual frustrated
 - <ruby>[沈魚落雁](chengyu/沈魚落雁.md)<rt>ㄑㄧㄇ·⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> - so beautiful that fish sink and geese descend
 - <ruby>[波乱万丈](chengyu/波乱万丈.md)<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> - full of dramatic ups and downs; turbulent and eventful
 - <ruby>[流言飛語](chengyu/流言飛語.md)<rt>ㄌ⼜ㄝㄋㄈㄝㄧ⼄</rt></ruby> - baseless rumors, gossip spreading unchecked
@@ -149,7 +149,7 @@ tags:
 - <ruby>[起死回生](chengyu/起死回生.md)<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> - revival from the point of death
 - <ruby>[遠交近攻](chengyu/遠交近攻.md)<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> - ally with the distant, attack the near
 - <ruby>[鏡花水月](chengyu/鏡花水月.md)<rt>ㄍ⼶ㄫㄏ⺢ㄙㄨ⼔ㄊ</rt></ruby> - je ne sais quoi, fantasy, illusion
-- <ruby>[阿鼻叫喚](chengyu/阿鼻叫喚.md)<rt>ㄚㄅㄧㄍ⼘ㄨㄏ⺢ㄋ</rt></ruby> - agonized cries in the midst of tragedy
+- <ruby>[阿鼻叫喚](chengyu/阿鼻叫喚.md)<rt>ㄚㄅㄧㄍ⼘ㄏ⺢ㄋ</rt></ruby> - agonized cries in the midst of tragedy
 - <ruby>[電光石火](chengyu/電光石火.md)<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> - gone in a flash
 - <ruby>[暗送秋波](chengyu/暗送秋波.md)<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> - to flirt, to convey feelings through a knowing glance
 - <ruby>[玩世不恭](chengyu/玩世不恭.md)<rt>⺢ㄋㄙㄝㄅㄛㄊㄍ⼄ㄫ</rt></ruby> - cynical, treating life with irreverent disdain

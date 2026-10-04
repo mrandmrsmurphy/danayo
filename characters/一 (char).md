@@ -99,7 +99,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一攫千金]]<rt>ㄧㄊㄈㄛㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "making a killing in a single stroke, making a fortune in a moment"
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"
-- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄧㄎㄆㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
+- <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
 - <ruby>[[千編一律]]<rt>ㄑㄝㄋㄅ⼶ㄋ·ㄧㄊㄌㄨㄊ</rt></ruby> "monotonously uniform with no variation"
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"
 - <ruby>[[一帆風順]]<rt>ㄧㄊㄆㄚㄇㄈㄨㄫㄙ⼜ㄋ</rt></ruby> "smooth sailing, bon voyage"
