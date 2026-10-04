@@ -73,6 +73,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[怠惰](../words/怠惰.md)<rt>ㄉㄚㄧㄉ⺢</rt></ruby>, <ruby>[懶惰](../words/懶惰.md)<rt>ㄌㄚㄋㄉ⺢</rt></ruby>: lazy, indolent.
 - <ruby>[胡乱](../words/胡乱.md)<rt>ㄏㄛㄨㄌㄚㄋ</rt></ruby>: carelessly, recklessly, at random (Mandarin); suspicious-looking (Japanese, a real semantic shift).
 - <ruby>[臥平](../words/臥平.md)<rt>⺢ㄅ⼶ㄫ</rt></ruby>: to lie flat — deliberate withdrawal from the race for achievement, as against [[怠惰]]/[[懶惰]], which are mere idleness.
+- <ruby>[放腐](../words/放腐.md)<rt>ㄈㄚㄫㄆㄨ</rt></ruby>: to let it rot, give up entirely — deliberate, active acceptance of deterioration, the darker successor of [[臥平]]'s quiet withdrawal.
 
 ### Control & Compulsion
 
