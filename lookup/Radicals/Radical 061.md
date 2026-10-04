@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 105
 radical: 心
 tags: [lookup]
@@ -45,7 +45,7 @@ tags: [lookup]
 21. <ruby>[怠](../../characters/怠.md)<rt>ㄉㄚㄧ</rt></ruby> - idle
 22. <ruby>[急](../../characters/急%20(char).md)<rt>ㄍㄧㄆ</rt></ruby> - quick
 23. <ruby>[怨](../../characters/怨.md)<rt>ㄛㄋ</rt></ruby> - resent
-24. <ruby>[恒](../../characters/恒.md)<rt>ㄏㄨㄫ</rt></ruby> - constant
+24. <ruby>[恒](../../characters/恒.md)<rt>ㄏㄨㄫ</rt></ruby> - permanent
 25. <ruby>[恢](../../characters/恢.md)<rt>ㄎㄛㄧ</rt></ruby> - restore
 26. <ruby>[恨](../../characters/恨%20(char).md)<rt>ㄏㄚㄋ</rt></ruby> - hate
 27. <ruby>[恰](../../characters/恰%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> - exactly
@@ -55,15 +55,15 @@ tags: [lookup]
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance
-31. <ruby>[恐](../../characters/恐.md)<rt>ㄎㄛㄫ</rt></ruby> - fear
-32. <ruby>[恕](../../characters/恕.md)<rt>ㄙ⼄</rt></ruby> - forgive
+31. <ruby>[恐](../../characters/恐.md)<rt>ㄎㄛㄫ</rt></ruby> - be afraid
+32. <ruby>[恕](../../characters/恕.md)<rt>ㄙ⼄</rt></ruby> - to forgive, pardon
 33. <ruby>[恣](../../characters/恣.md)<rt>ㄐㄧㄜ</rt></ruby> - selfish
 34. <ruby>[恥](../../characters/恥.md)<rt>ㄑㄧ</rt></ruby> - shame
 35. <ruby>[恩](../../characters/恩.md)<rt>ㄜㄋ</rt></ruby> - kindness
 36. <ruby>[恭](../../characters/恭.md)<rt>ㄍ⼄ㄫ</rt></ruby> - respectful
 37. <ruby>[息](../../characters/息.md)<rt>ㄙㄧㄎ</rt></ruby> - tell news
 38. <ruby>[恵](../../characters/恵.md)<rt>ㄏ⼔ㄧ</rt></ruby> - favor
-39. <ruby>[悍](../../characters/悍.md)<rt>ㄏㄚㄋ</rt></ruby> - violent
+39. <ruby>[悍](../../characters/悍.md)<rt>ㄏㄚㄋ</rt></ruby> - violent, fierce
 40. <ruby>[悖](../../characters/悖.md)<rt>ㄅㄛㄧ</rt></ruby> - go against
 41. <ruby>[悟](../../characters/悟.md)<rt>ㄛ</rt></ruby> - realize
 42. <ruby>[悦](../../characters/悦.md)<rt>⼶ㄊ</rt></ruby> - ecstatic
@@ -111,7 +111,7 @@ tags: [lookup]
 76. <ruby>[態](../../characters/態.md)<rt>ㄊㄚㄧ</rt></ruby> - manner
 77. <ruby>[慕](../../characters/慕.md)<rt>ㄇㄛ</rt></ruby> - long for
 78. <ruby>[慢](../../characters/慢.md)<rt>ㄇㄚㄋ</rt></ruby> - slow
-79. <ruby>[慣](../../characters/慣.md)<rt></rt></ruby> - to be accustomed
+79. <ruby>[慣](../../characters/慣.md)<rt>ㄍ⺢ㄋ</rt></ruby> - to be accustomed
 80. <ruby>[慷](../../characters/慷.md)<rt>ㄎㄚㄫ</rt></ruby> - ardent
 81. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
 
@@ -124,7 +124,7 @@ tags: [lookup]
 87. <ruby>[慶](../../characters/慶%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - congratulate
 88. <ruby>[憂](../../characters/憂.md)<rt>⼜</rt></ruby> - be worried
 89. <ruby>[憤](../../characters/憤.md)<rt>ㄅㄨㄋ</rt></ruby> - resent
-90. <ruby>[憧](../../characters/憧.md)<rt>ㄑㄛㄫ</rt></ruby> - desire
+90. <ruby>[憧](../../characters/憧.md)<rt>ㄑㄛㄫ</rt></ruby> - restless
 91. <ruby>[憫](../../characters/憫%20(char).md)<rt>ㄇㄧㄋ</rt></ruby> - pity
 92. <ruby>[憬](../../characters/憬.md)<rt>ㄍ⼄ㄫ</rt></ruby> - awaken
 

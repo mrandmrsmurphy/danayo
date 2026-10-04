@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 25
 radical: 彳
 tags:
@@ -15,7 +15,7 @@ tags:
 2. <ruby>[役](../../characters/役.md)<rt>⼶ㄎ</rt></ruby> - serve
 
 ### +5 Strokes
-3. <ruby>[彿](../../characters/彿.md)<rt>ㄈㄨㄊ</rt></ruby> - be like
+3. <ruby>[彿](../../characters/彿.md)<rt>ㄈㄨㄊ</rt></ruby> - resemble
 4. <ruby>[征](../../characters/征.md)<rt>ㄐㄝㄫ</rt></ruby> - conquer
 5. <ruby>[径](../../characters/径.md)<rt>ㄍㄝㄫ</rt></ruby> - diameter
 6. <ruby>[彼](../../characters/彼%20(char).md)<rt>ㄅㄜ</rt></ruby> - yon
@@ -25,7 +25,7 @@ tags:
 8. <ruby>[待](../../characters/待.md)<rt>ㄉㄚㄧ</rt></ruby> - wait
 9. <ruby>[律](../../characters/律.md)<rt>ㄌㄨㄊ</rt></ruby> - statute
 10. <ruby>[後](../../characters/後%20(char).md)<rt>ㄏㄨㄛ</rt></ruby> - after
-11. <ruby>[徊](../../characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> - hesitate
+11. <ruby>[徊](../../characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> - loiter
 
 ### +7 Strokes
 12. <ruby>[徐](../../characters/徐.md)<rt>ㄙ⼄</rt></ruby> - slowly
@@ -35,7 +35,7 @@ tags:
 ### +8 Strokes
 15. <ruby>[得](../../characters/得.md)<rt>ㄊㄜㄎ</rt></ruby> - get
 16. <ruby>[徙](../../characters/徙.md)<rt>ㄙㄝ</rt></ruby> - migrate
-17. <ruby>[徘](../../characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
+17. <ruby>[徘](../../characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - loiter
 
 ### +9 Strokes
 18. <ruby>[御](../../characters/御.md)<rt>⼄</rt></ruby> - defend

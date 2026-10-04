@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 138
 radical: 手
 tags: [lookup]
@@ -9,8 +9,9 @@ tags: [lookup]
 > The hand radical. Appears as 扌on the left side of a character (SKIP-1-3-x).
 
 ## Strokes
+
 ### -1 Stroke
-1. <ruby>[才](../../characters/才.md)<rt>ㄐㄚㄧ</rt></ruby> - talent
+1. <ruby>[才](../../characters/才.md)<rt>ㄐㄚㄧ</rt></ruby> - ability
 
 ### +0 Strokes
 2. <ruby>[手](../../characters/手%20(char).md)<rt>ㄙ⼜</rt></ruby> - hand
@@ -20,24 +21,24 @@ tags: [lookup]
 
 ### +2 Strokes
 4. <ruby>[扱](../../characters/扱%20(char).md)<rt>ㄑㄚㄆ</rt></ruby> - handle
-5. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward
 
 ### +3 Strokes
-6. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up
-7. <ruby>[扶](../../characters/扶%20(char).md)<rt>ㄅㄨ</rt></ruby> - hold on to for support
-8. <ruby>[批](../../characters/批.md)<rt>ㄆㄝㄧ</rt></ruby> - criticism
-9. <ruby>[技](../../characters/技.md)<rt>ㄍㄨㄧ</rt></ruby> - skill
-10. <ruby>[抄](../../characters/抄.md)<rt>ㄑㄚㄨ</rt></ruby> - copy
-11. <ruby>[把](../../characters/把.md)<rt>ㄅㄚ</rt></ruby> - grip
-12. <ruby>[抑](../../characters/抑.md)<rt>ㄧㄎ</rt></ruby> - repress
-13. <ruby>[抒](../../characters/抒.md)<rt>ㄙ⼄</rt></ruby> - express
-14. <ruby>[投](../../characters/投%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - throw
-15. <ruby>[抗](../../characters/抗.md)<rt>ㄏㄚㄫ</rt></ruby> - resist
-16. <ruby>[折](../../characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> - fold
-17. <ruby>[抜](../../characters/抜.md)<rt>ㄅㄚㄊ</rt></ruby> - select
-18. <ruby>[択](../../characters/択.md)<rt>ㄉㄚㄎ</rt></ruby> - choose
+5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up
+6. <ruby>[扶](../../characters/扶%20(char).md)<rt>ㄅㄨ</rt></ruby> - hold on to for support
+7. <ruby>[批](../../characters/批.md)<rt>ㄆㄝㄧ</rt></ruby> - criticism
+8. <ruby>[技](../../characters/技.md)<rt>ㄍㄨㄧ</rt></ruby> - skill
+9. <ruby>[抄](../../characters/抄.md)<rt>ㄑㄚㄨ</rt></ruby> - copy
+10. <ruby>[把](../../characters/把.md)<rt>ㄅㄚ</rt></ruby> - grip
+11. <ruby>[抑](../../characters/抑.md)<rt>ㄧㄎ</rt></ruby> - repress
+12. <ruby>[抒](../../characters/抒.md)<rt>ㄙ⼄</rt></ruby> - express
+13. <ruby>[投](../../characters/投%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - throw
+14. <ruby>[抗](../../characters/抗.md)<rt>ㄏㄚㄫ</rt></ruby> - resist
+15. <ruby>[折](../../characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> - fold
+16. <ruby>[抜](../../characters/抜.md)<rt>ㄅㄚㄊ</rt></ruby> - select
+17. <ruby>[択](../../characters/択.md)<rt>ㄉㄚㄎ</rt></ruby> - choose
 
 ### +4 Strokes
+18. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward
 19. <ruby>[承](../../characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
 20. <ruby>[抛](../../characters/抛.md)<rt>ㄆㄚㄨ</rt></ruby> - throw away
 21. <ruby>[披](../../characters/披%20(char).md)<rt>ㄆㄨㄧ</rt></ruby> - expose
@@ -70,7 +71,7 @@ tags: [lookup]
 46. <ruby>[拾](../../characters/拾.md)<rt>ㄙㄜㄆ</rt></ruby> - pick up
 47. <ruby>[持](../../characters/持%20(char).md)<rt>ㄉㄧ</rt></ruby> - hold
 48. <ruby>[指](../../characters/指.md)<rt>ㄐㄧㄜ</rt></ruby> - finger
-49. <ruby>[按](../../characters/按.md)<rt>ㄚㄋ</rt></ruby> - put hands on
+49. <ruby>[按](../../characters/按.md)<rt>ㄚㄋ</rt></ruby> - press
 50. <ruby>[挑](../../characters/挑.md)<rt>ㄊㄚㄨ</rt></ruby> - challenge authority
 51. <ruby>[挟](../../characters/挟%20(char).md)<rt>ㄏㄝㄆ</rt></ruby> - clasp
 
@@ -79,13 +80,13 @@ tags: [lookup]
 53. <ruby>[拿](../../characters/拿.md)<rt>ㄋㄚ</rt></ruby> - take, grasp
 54. <ruby>[挙](../../characters/挙%20(char).md)<rt>ㄍ⼄</rt></ruby> - raise
 55. <ruby>[挨](../../characters/挨.md)<rt>ㄚㄧ</rt></ruby> - dawdle
-56. <ruby>[挫](../../characters/挫.md)<rt>ㄐ⺢</rt></ruby> - failure
+56. <ruby>[挫](../../characters/挫.md)<rt>ㄐ⺢</rt></ruby> - to break, crush
 57. <ruby>[振](../../characters/振%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> - shake
 58. <ruby>[挺](../../characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> - stand upright
-59. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - recover
+59. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - to pull, draw back
 60. <ruby>[挿](../../characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> - insert
 61. <ruby>[捉](../../characters/捉.md)<rt>ㄐㄚㄎ</rt></ruby> - clutch
-62. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - disentangle
+62. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - to break, disentangle
 63. <ruby>[捏](../../characters/捏.md)<rt>ㄋㄝㄊ</rt></ruby> - fabricate
 64. <ruby>[捕](../../characters/捕%20(char).md)<rt>ㄅㄛ</rt></ruby> - catch
 65. <ruby>[捜](../../characters/捜.md)<rt>ㄙㄛㄨ</rt></ruby> - search
@@ -101,7 +102,7 @@ tags: [lookup]
 73. <ruby>[掃](../../characters/掃.md)<rt>ㄙㄚㄨ</rt></ruby> - sweep
 74. <ruby>[授](../../characters/授.md)<rt>ㄙ⼜</rt></ruby> - confer
 75. <ruby>[掏](../../characters/掏.md)<rt>ㄉㄚㄨ</rt></ruby> - pickpocket
-76. <ruby>[排](../../characters/排%20(char).md)<rt>ㄆㄚㄧ</rt></ruby> - row, rank, line
+76. <ruby>[排](../../characters/排%20(char).md)<rt>ㄆㄚㄧ</rt></ruby> - row
 77. <ruby>[掘](../../characters/掘%20(char).md)<rt>ㄍㄨㄊ</rt></ruby> - dig
 78. <ruby>[掛](../../characters/掛%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - hang
 79. <ruby>[掠](../../characters/掠.md)<rt>ㄌ⼘ㄎ</rt></ruby> - rob
@@ -115,22 +116,22 @@ tags: [lookup]
 87. <ruby>[掲](../../characters/掲%20(char).md)<rt>ㄎㄝㄊ</rt></ruby> - set up
 88. <ruby>[掻](../../characters/掻%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - scratch
 89. <ruby>[描](../../characters/描.md)<rt>ㄇ⼘ㄨ</rt></ruby> - sketch
+90. <ruby>[掩](../../characters/掩.md)<rt>ㄝㄇ</rt></ruby> - cover
 
 ### +8 Strokes
-90. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm
-91. <ruby>[揀](../../characters/揀.md)<rt>ㄍ⼘ㄋ</rt></ruby> - choose
-92. <ruby>[揄](../../characters/揄.md)<rt>⼜ㄇ</rt></ruby> - raise
-93. <ruby>[提](../../characters/提.md)<rt>ㄙㄝ</rt></ruby> - produce
-94. <ruby>[揖](../../characters/揖.md)<rt>ㄜㄆ</rt></ruby> - bow
-95. <ruby>[揚](../../characters/揚%20(char).md)<rt>⼘ㄫ</rt></ruby> - scatter
-96. <ruby>[換](../../characters/換%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - interchange
-97. <ruby>[握](../../characters/握.md)<rt>ㄚㄎ</rt></ruby> - grasp
-98. <ruby>[揮](../../characters/揮.md)<rt>ㄏㄨㄧ</rt></ruby> - command
-99. <ruby>[援](../../characters/援.md)<rt>ㄛㄋ</rt></ruby> - aid
-100. <ruby>[揶](../../characters/揶.md)<rt>⼘</rt></ruby> - ridicule
-101. <ruby>[揺](../../characters/揺%20(char).md)<rt>⼄ㄨ</rt></ruby> - swing
-102. <ruby>[搭](../../characters/搭.md)<rt>ㄊㄚㄆ</rt></ruby> - board
-103. <ruby>[掩](../../characters/掩.md)<rt>ㄝㄇ</rt></ruby> - cover
+91. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm
+92. <ruby>[揀](../../characters/揀.md)<rt>ㄍ⼘ㄋ</rt></ruby> - choose
+93. <ruby>[揄](../../characters/揄.md)<rt>⼜ㄇ</rt></ruby> - raise
+94. <ruby>[提](../../characters/提.md)<rt>ㄙㄝ</rt></ruby> - produce
+95. <ruby>[揖](../../characters/揖.md)<rt>ㄜㄆ</rt></ruby> - bow
+96. <ruby>[揚](../../characters/揚%20(char).md)<rt>⼘ㄫ</rt></ruby> - scatter
+97. <ruby>[換](../../characters/換%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - interchange
+98. <ruby>[握](../../characters/握.md)<rt>ㄚㄎ</rt></ruby> - grasp
+99. <ruby>[揮](../../characters/揮.md)<rt>ㄏㄨㄧ</rt></ruby> - command
+100. <ruby>[援](../../characters/援.md)<rt>ㄛㄋ</rt></ruby> - aid
+101. <ruby>[揶](../../characters/揶.md)<rt>⼘</rt></ruby> - ridicule
+102. <ruby>[揺](../../characters/揺%20(char).md)<rt>⼄ㄨ</rt></ruby> - swing
+103. <ruby>[搭](../../characters/搭.md)<rt>ㄊㄚㄆ</rt></ruby> - board
 
 ### +9 Strokes
 104. <ruby>[損](../../characters/損.md)<rt>ㄙㄛㄋ</rt></ruby> - lose
@@ -170,20 +171,22 @@ tags: [lookup]
 
 ### +14 Strokes
 130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw
-131. <ruby>[擺](../../characters/擺.md)<rt>ㄅㄚㄧ</rt></ruby> - pendulum
+131. <ruby>[擺](../../characters/擺.md)<rt>ㄆ⼶</rt></ruby> - pendulum
 132. <ruby>[擾](../../characters/擾.md)<rt>ㄋ⼄ㄨ</rt></ruby> - disturb
 133. <ruby>[攄](../../characters/攄.md)<rt>ㄑㄛ</rt></ruby> - spread
 134. <ruby>[攅](../../characters/攅.md)<rt>ㄐㄚㄋ</rt></ruby> - save
 
-### More
+### +15 Strokes
 135. <ruby>[攀](../../characters/攀.md)<rt>ㄆㄚㄋ</rt></ruby> - climb
-136. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
 
 ### +16 Strokes
-137. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
+136. <ruby>[攘](../../characters/攘.md)<rt>ㄋ⼘ㄫ</rt></ruby> - expel
 
-### +20 Strokes
-138. <ruby>[攫](../../characters/攫.md)<rt>ㄈㄛㄎ</rt></ruby> - seize
+### +19 Strokes
+137. <ruby>[攫](../../characters/攫.md)<rt>ㄈㄛㄎ</rt></ruby> - seize
+
+### +21 Strokes
+138. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
 
 ## Data check
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 16
 radical: 戈
 tags: [lookup]
@@ -18,31 +18,31 @@ tags: [lookup]
 
 ### +2 Strokes
 3. <ruby>[成](../../characters/成%20(char).md)<rt>ㄙㄧㄫ</rt></ruby> - become
-4. <ruby>[戍](../../characters/戍.md)<rt>ㄙㄨ</rt></ruby> - borderguard
-5. <ruby>[戌](../../characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> - eleventh heavenly stem
+4. <ruby>[戍](../../characters/戍.md)<rt>ㄙㄨ</rt></ruby> - border guard
+5. <ruby>[戌](../../characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> - eleventh earthly branch
 6. <ruby>[戎](../../characters/戎.md)<rt>ㄋㄨㄫ</rt></ruby> - arms
 
 ### +3 Strokes
-7. <ruby>[我](../../characters/我%20(char).md)<rt>ㄚ</rt></ruby> - I, me
+7. <ruby>[我](../../characters/我%20(char).md)<rt>ㄚ</rt></ruby> - I
 8. <ruby>[戒](../../characters/戒.md)<rt>ㄍ⼶</rt></ruby> - warn
 
 ### +4 Strokes
-9. <ruby>[或](../../characters/或%20(char).md)<rt>ㄏㄛㄎ</rt></ruby> - or, perhaps
+9. <ruby>[或](../../characters/或%20(char).md)<rt>ㄏㄛㄎ</rt></ruby> - or
 
 ### +7 Strokes
 10. <ruby>[戚](../../characters/戚.md)<rt>ㄑㄝㄎ</rt></ruby> - grieving
 
 ### +8 Strokes
-11. <ruby>[戟](../../characters/戟.md)<rt>ㄍㄝㄎ</rt></ruby> - halberd
+11. <ruby>[戟](../../characters/戟.md)<rt>ㄍㄝㄎ</rt></ruby> - halberd with crescent blade
 
 ### +9 Strokes
-12. <ruby>[戦](../../characters/戦.md)<rt>ㄐㄝㄋ</rt></ruby> - war, battle
+12. <ruby>[戦](../../characters/戦.md)<rt>ㄐㄝㄋ</rt></ruby> - war
 
 ### +10 Strokes
 13. <ruby>[截](../../characters/截.md)<rt>ㄐㄛㄊ</rt></ruby> - cut off
 
 ### +11 Strokes
-14. <ruby>[戯](../../characters/戯.md)<rt>ㄏㄨㄧ</rt></ruby> - play, trick
+14. <ruby>[戯](../../characters/戯.md)<rt>ㄏㄨㄧ</rt></ruby> - play
 15. <ruby>[戮](../../characters/戮.md)<rt>ㄌㄨㄎ</rt></ruby> - slaughter
 
 ### +13 Strokes
