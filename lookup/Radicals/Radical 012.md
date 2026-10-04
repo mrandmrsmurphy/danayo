@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 10
 radical: 八
 tags: [lookup]
@@ -20,7 +20,7 @@ tags: [lookup]
 4. <ruby>[六](../../characters/六%20(char).md)<rt>ㄌㄨㄎ</rt></ruby> - six
 
 ### +4 Strokes
-5. <ruby>[共](../../characters/共%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - with, together
+5. <ruby>[共](../../characters/共%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - with
 
 ### +5 Strokes
 6. <ruby>[兵](../../characters/兵.md)<rt>ㄅ⼶ㄫ</rt></ruby> - soldier
@@ -31,7 +31,7 @@ tags: [lookup]
 8. <ruby>[典](../../characters/典.md)<rt>ㄉㄝㄋ</rt></ruby> - dictionary
 
 ### +8 Strokes
-9. <ruby>[兼](../../characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> - double as, dual-
+9. <ruby>[兼](../../characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> - double as
 
 ### +10 Strokes
 10. <ruby>[具](../../characters/具.md)<rt>ㄍㄨ</rt></ruby> - tool

@@ -1,7 +1,7 @@
 ---
 size: 3
 radical: 入
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[入](characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - to enter
+1. <ruby>[入](../../characters/入%20(char).md)<rt>ㄋㄧㄆ</rt></ruby> - enter
 
 ### +1 Stroke
 - 𠓛 --> ancient variant of 集
@@ -24,7 +24,7 @@ tags: [lookup]
 - forbidden 㒱
 
 ### +4 Strokes
-2. <ruby>[全](characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby> - whole
+2. <ruby>[全](../../characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby> - whole
 - 㒲 --> ancient variant of 財
 
 ### +5 Strokes
@@ -34,7 +34,7 @@ tags: [lookup]
 - 兩 --> ancient variant of 両
 
 ### +7 Strokes
-3. <ruby>[兪](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - "emperor's consent"
+3. <ruby>[兪](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - agree to
 
 ## Data check
 ```dataview

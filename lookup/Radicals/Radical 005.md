@@ -1,25 +1,26 @@
 ---
 size: 7
 radical: 乙
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 5 is 乙, the second of the ten heavenly stems. Its shape depicts a bent or hooked form, and it appears in characters relating to curvature, second position, or turning. In Chinese cosmology and timekeeping, it occupies the second position in the cyclic ordering system.
+> Radical 5 is 乙, the second of the ten heavenly stems. It is a single bent stroke, and as a radical it gathers characters by that shape rather than by a shared meaning. In the cyclic ordering system used for timekeeping, it occupies the second position.
 
 ## Characters
 ### Used
-1. <ruby>[乙](../../characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - second
-2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine
-3. <ruby>[乞](/characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> - beg
-4. <ruby>[也](/characters/也%20(char).md)<rt>⼘</rt></ruby> - as for
-5. <ruby>[乱](/characters/乱.md)<rt>ㄌㄚㄋ</rt></ruby> - chaotic
-6. <ruby>[乳](/characters/乳.md)<rt>ㄋㄨ</rt></ruby> - milk
-7. <ruby>[乾](/characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
+1. <ruby>[乙](../../characters/乙%20(char).md)<rt>ㄜㄊ</rt></ruby> - second
+2. <ruby>[九](../../characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - nine
+3. <ruby>[乞](../../characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> - beg
+4. <ruby>[也](../../characters/也%20(char).md)<rt>⼘</rt></ruby> - as for
+5. <ruby>[乱](../../characters/乱.md)<rt>ㄌㄚㄋ</rt></ruby> - chaotic
+6. <ruby>[乳](../../characters/乳.md)<rt>ㄋㄨ</rt></ruby> - milk
+7. <ruby>[乾](../../characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
 
 ### Forbidden
-- 乜 - Cantonese/dialects only
+- 乜 --> Cantonese/dialects only
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

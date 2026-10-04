@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 16
 radical: 儿
 tags: [lookup]
@@ -30,13 +30,13 @@ tags: [lookup]
 9. <ruby>[克](../../characters/克%20(char).md)<rt>ㄎㄨㄎ</rt></ruby> - practice self-restraint
 10. <ruby>[児](../../characters/児%20(char).md)<rt>ㄝㄧ</rt></ruby> - baby
 11. <ruby>[免](../../characters/免.md)<rt>ㄇ⼶ㄋ</rt></ruby> - excuse
-12. <ruby>[[兌]]<rt>ㄉ⺢ㄧ</rt></ruby> - exchange
+12. <ruby>[兌](../../characters/兌.md)<rt>ㄉ⺢ㄧ</rt></ruby> - exchange
 
 ### +6 Strokes
 13. <ruby>[兎](../../characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> - rabbit
 
 ### +7 Strokes
-14. <ruby>[兗](../../characters/兗.md)<rt>⼶ㄋ</rt></ruby> - Yanzhou
+14. <ruby>[兗](../../characters/兗.md)<rt>⼶ㄋ</rt></ruby> - Yanzhou (place name)
 
 ### +8 Strokes
 15. <ruby>[党](../../characters/党.md)<rt>ㄉㄚㄫ</rt></ruby> - political party

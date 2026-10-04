@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 9
 radical: 二
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 7 is 二, the number 'two'.
+> Radical 7 is 二, the number 'two', two horizontal strokes. It is itself a character, so the +0 group holds 二 alone.
 
 ## Strokes
 
@@ -37,7 +37,7 @@ Note: 三 is organized under Radical 1.
 - 亚 --> variant of 亜
 
 ### +5 Strokes
-8. <ruby>[亜](../../characters/亜.md)<rt>ㄚ</rt></ruby> - Asia
+8. <ruby>[亜](../../characters/亜.md)<rt>ㄚ</rt></ruby> - secondary
 
 ### +6 Strokes
 9. <ruby>[些](../../characters/些.md)<rt>ㄙㄚ</rt></ruby> - a little
