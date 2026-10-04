@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 3
 radical: 生
 tags: [lookup]
@@ -17,7 +17,7 @@ tags: [lookup]
 2. <ruby>[産](../../characters/産.md)<rt>ㄙㄚㄋ</rt></ruby> - give birth
 
 ### +7 Strokes
-3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - sister's child
+3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - nephew
 
 ## Data check
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 6
 radical: 瓦
 tags: [lookup]
@@ -14,17 +14,17 @@ tags: [lookup]
 1. <ruby>[瓦](../../characters/瓦%20(char).md)<rt>⺢</rt></ruby> - tile
 
 ### +6 Strokes
-2. <ruby>[瓶](../../characters/瓶%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - jug, bottle
+2. <ruby>[瓶](../../characters/瓶%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - jug
 3. <ruby>[瓷](../../characters/瓷.md)<rt>ㄑㄧ</rt></ruby> - porcelain
 
 ### +9 Strokes
-3. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
+4. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
 
 ### +13 Strokes
-4. <ruby>[甕](../../characters/甕%20(char).md)<rt>ㄛㄫ</rt></ruby> - jar
+5. <ruby>[甕](../../characters/甕%20(char).md)<rt>ㄛㄫ</rt></ruby> - jar
 
 ### +14 Strokes
-5. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar, big basin
+6. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar
 
 ## Data check
 ```dataview

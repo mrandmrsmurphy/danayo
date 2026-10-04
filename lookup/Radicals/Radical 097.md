@@ -1,17 +1,17 @@
 ---
 size: 2
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 瓜
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 97 is 瓜, a melon, squash, or gourd — depicting a round or oblong fruit on a vine. This radical appears in compounds relating to gourds, melons, pumpkins, and other trailing vined fruits. It represents fertility, abundance, and the fruits of the earth.
+> Radical 97 is 瓜, a melon or gourd, 5 strokes. Characters classified here are grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[瓜](/characters/瓜.md)<rt>ㄍ⺢</rt></ruby> - cucumber
-2. <ruby>[瓢](/characters/瓢.md)<rt>ㄅ⼄ㄨ</rt></ruby> - ladle 
+1. <ruby>[瓜](../../characters/瓜.md)<rt>ㄍ⺢</rt></ruby> - cucumber
+2. <ruby>[瓢](../../characters/瓢.md)<rt>ㄅ⼄ㄨ</rt></ruby> - ladle
 
 ## Data check
 ```dataview
