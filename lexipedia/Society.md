@@ -112,6 +112,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[賢淑](../words/賢淑.md)<rt>ㄏㄝㄋㄙㄨㄎ</rt></ruby>: virtuous and wise, of refined character — the classical praise-word for a cultivated woman; the stand-in for the bound character 淑.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: upright, honest, incorrupt — especially the virtue of resisting bribery (廉潔, 清廉); a secondary sense, "cheap, low-priced," is housed on [Trade](../lexipedia/Trade.md).
 - <ruby>[徳](../words/徳.md)<rt>ㄊㄨㄎ</rt></ruby>: virtue, moral excellence — the bound root behind [[仁徳]] above; a second, unrelated sense ("germanium," the element) is housed on [Periodic Table](../lexipedia/Periodic%20Table.md) instead.

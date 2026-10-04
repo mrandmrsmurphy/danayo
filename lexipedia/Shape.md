@@ -36,6 +36,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel, circle, ring, loop — distinct from [[環]] in its mechanical/rotational framing.
 - <ruby>[球](../words/球.md)<rt>ㄍ⼜</rt></ruby>: a ball.
 - <ruby>[穹隆](../words/穹隆.md)<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby>: a dome.
+- <ruby>[曲線](../words/曲線.md)<rt>ㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: a curve — a non-straight line, as against the straight [[直線]].
 
 ### Angular & Solid Shapes
 

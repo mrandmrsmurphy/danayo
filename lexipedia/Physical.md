@@ -63,12 +63,14 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 - <ruby>[交](../words/交.md)<rt>ㄍ⼄ㄨ</rt></ruby>: to mix, exchange — intermingling, distinct from [[混合]]'s general blending.
 - <ruby>[希釈](../words/希釈.md)<rt>ㄏㄧㄜㄙㄝㄎ</rt></ruby>: to dilute — to thin a solution by adding solvent, the opposite of concentrating; the reverse of mixing in more solute.
+- <ruby>[抽出](../words/抽出.md)<rt>ㄑㄨㄑㄨㄊ</rt></ruby>: to extract, draw out, isolate — separating one element from a larger whole or mixture (a solute, a sample, a record); the stand-in for the bound character 抽.
 - <ruby>[拌和](../words/拌和.md)<rt>ㄅㄚㄋㄏ⺢</rt></ruby>: to stir, mix, blend — see [[Food]] for its own citation there.
 
 ### Piercing & Digging
 
 - <ruby>[刺](../words/刺.md)<rt>ㄑㄧㄎ</rt></ruby>: to stab, prick, sting.
 - <ruby>[掘](../words/掘.md)<rt>ㄍㄨㄊ</rt></ruby>: to dig, excavate.
+- <ruby>[射出](../words/射出.md)<rt>ㄙ⼘ㄑㄨㄊ</rt></ruby>: to eject, emit, shoot out — forceful sending outward of light, liquid or a projectile; the stand-in for the bound character 射 (see also [[射精]]).
 - <ruby>[剝皮](../words/剝皮.md)<rt>ㄅㄛㄎㄅㄧ</rt></ruby>: to skin, peel, flay — see [[Food]] for its own citation there.
 
 ### Harm & Decay
