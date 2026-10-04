@@ -90,7 +90,7 @@ boundedness: 90
 - <ruby>[[塩地光世]]<rt>⼶ㄇㄉㄧㄜㄎ⺢ㄫㄙㄝ</rt></ruby> "salt of the earth and light of the world"
 - <ruby>[[天地不仁]]<rt>ㄊㄝㄋㄉㄧㄜㄅㄛㄊㄋㄧㄋ</rt></ruby> "Heaven and Earth are not benevolent"
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
-- <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄝㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
+- <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄧㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"
 - <ruby>[[乳蜜流地]]<rt>ㄋㄨ·ㄇㄧㄊㄌ·⼜ㄉㄧㄜ</rt></ruby> "a land flowing with milk and honey"
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
