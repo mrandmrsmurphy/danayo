@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 歹
 tags: [lookup]
@@ -21,9 +21,10 @@ tags: [lookup]
 4. <ruby>[殆](../../characters/殆.md)<rt>ㄉㄛㄧ</rt></ruby> - danger
 
 ### +6 Strokes
-5. <ruby>[殘](../../characters/残%20(char).md)<rt>ㄐㄚㄋ</rt></ruby> - remaining
+5. <ruby>[残](../../characters/残%20(char).md)<rt>ㄐㄚㄋ</rt></ruby> - remaining
 6. <ruby>[殉](../../characters/殉.md)<rt>ㄙ⼜ㄋ</rt></ruby> - be martyred
 7. <ruby>[殊](../../characters/殊.md)<rt>ㄙㄨ</rt></ruby> - special
+- 殘 --> traditional form of 残
 
 ### +8 Strokes
 8. <ruby>[殖](../../characters/殖.md)<rt>ㄙㄧㄎ</rt></ruby> - breed

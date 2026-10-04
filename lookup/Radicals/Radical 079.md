@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 size: 8
 radical: 殳
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The 殳 radical depicts a hand holding a weapon or club. No character is filed at +0, so groupings below start at +N.
+> The 殳 radical, 4 strokes, depicts a hand holding a weapon or club. No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
 
