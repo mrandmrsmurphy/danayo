@@ -45,6 +45,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>: final, last.
+- <ruby>[初代](../words/初代.md)<rt>ㄑㄛㄉㄚㄧ</rt></ruby>: first, inaugural, founding — the first holder of a line of succession (初代社長, "the first president"), not merely first in a sequence.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>: current — see [Calendar](../lexipedia/Calendar.md) and [Grammar](../lexipedia/Grammar.md) for their own citations there.
 - <ruby>[先後](../words/先後.md)<rt>ㄙㄝㄋㄏㄨㄛ</rt></ruby>: successively, one after another, in succession — a strict ordered sequence (先後順序, "order of precedence"), distinct from [[前後]]'s own looser "before and after, roughly."
@@ -65,6 +66,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[恒久](../words/恒久.md)<rt>ㄏㄨㄫㄍ⼜</rt></ruby>: permanent, perpetual.
 - <ruby>[永遠](../words/永遠.md)<rt>ㄨㄧㄫㄛㄋ</rt></ruby>: perpetual, eternal.
 - <ruby>[永久](../words/永久.md)<rt>ㄨㄧㄫㄍ⼜</rt></ruby>: eternal, perpetual, permanent — bridges [[恒久]]'s and [[永遠]]'s senses rather than being a strict duplicate of either.
+- <ruby>[千年](../words/千年.md)<rt>ㄑㄝㄋㄋㄝㄋ</rt></ruby>: a thousand years, millennium — a plain duration, not the counted unit [[千年紀]] (see [Calendar](../lexipedia/Calendar.md)).
 - <ruby>[万年](../words/万年.md)<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby>: ten thousand years; eternity, all ages — a hyperbolic durational idiom (compare English "forever") rather than a literal count, sitting atop the [[百年]]/[[千年]] family.
 - <ruby>[不断](../words/不断.md)<rt>ㄅㄛㄊㄉ⺢ㄋ</rt></ruby>: continuous, unending, without interruption — describes an ongoing process with no gaps (不断の努力, "ceaseless effort"), distinct from [[永遠]]/[[永久]]'s infinite-duration sense.
 
