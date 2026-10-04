@@ -95,6 +95,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[螳螂](../words/螳螂.md)<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby>: mantis.
 - <ruby>[胡蝶](../words/胡蝶.md)<rt>ㄏㄛㄨㄉㄝㄆ</rt></ruby>: butterfly — the stand-in compound that legitimizes the bound character 蝶.
 - <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
+- <ruby>[螟蛉](../words/螟蛉.md)<rt>ㄇㄝㄫㄌㄝㄫ</rt></ruby>: stem borer larva; adopted son (literary) — the caterpillar of the Odes, whose supposed adoption by the sand wasp made the word the classical term for an adopted son.
 - <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
 - <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
 - <ruby>[蛭](../words/蛭.md)<rt>ㄐㄧㄊ</rt></ruby>: a leech.
