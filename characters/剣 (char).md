@@ -10,7 +10,7 @@ japanese_native:
 vietnamese:
   - kiếm
 middle_chinese_initial: "k"
-middle_chinese_final: "iɐm"
+middle_chinese_final: "ɨɐm"
 stroke_count: 10
 radical: "刀"
 skip_number: 1-8-2
@@ -47,7 +47,7 @@ boundedness: 45
 ## Notes
 - 形声 (OC *kams): semantic [[Radical 018|刀]] ("knife, blade") + phonetic [[㑒]] (OC *st͡sʰjam, "unanimous") — a double-edged blade; "sword."
 - [SKIP-1-8-2](lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 916th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 凡|iɐm]] → [ㄍㄛㄇ](syllables/ㄍㄛㄇ.md)
+- 916th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄍㄛㄇ](syllables/ㄍㄛㄇ.md)
 - [Grade 3](lookup/Grade%203.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words

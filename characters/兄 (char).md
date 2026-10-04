@@ -11,7 +11,7 @@ japanese_native: あに
 vietnamese:
   - huynh
 middle_chinese_initial: x
-middle_chinese_final: wɣiæŋ
+middle_chinese_final: ɣwiæŋ
 stroke_count: 5
 radical: 儿
 skip_number: 2-3-2
@@ -46,7 +46,7 @@ boundedness: 65
 ## Notes
 - 会意 of [[Radical 030|口]] ("mouth") and [[Radical 010|儿]] ("legs; person") — an open mouth above a kneeling/standing person, conveying the idea of giving orders; the original sense "elder brother" reflects that the elder brother gives orders to his younger siblings. Compare 令, where an open mouth atop the character conveys the same idea, and 欠, which similarly depicts a kneeling person with an open mouth.
 - [SKIP-2-3-2](lookup/SKIP/SKIP-2/SKIP-2-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 461st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 庚三合|wɣiæŋ]] → [ㄏ⼄ㄫ](syllables/ㄏ⼄ㄫ.md)
+- 461st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 庚三合|ɣwiæŋ]] → [ㄏ⼄ㄫ](syllables/ㄏ⼄ㄫ.md)
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 Reduplication for the diminutive suppletes to [[哥哥]] rather than doubling 兄 itself; care is warranted, since — much like the English "little big brother" — using an endearing, cutesy tone toward one's own older brother can easily read as disrespectful rather than affectionate.

@@ -11,7 +11,7 @@ vietnamese:
   - vẳng
   - vịnh
 middle_chinese_initial: "ø"
-middle_chinese_final: "wɣiæŋ"
+middle_chinese_final: "ɣwiæŋ"
 stroke_count: 12
 radical: "言"
 skip_number: 1-7-5
@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-10
 ## Notes
 - 形聲 (OC \*ɢʷraŋʔ): semantic [[Radical 149|言]] ("speech") + phonetic [[永]] ("long") — "to make long in speech"; "to recite; to chant."
 - [SKIP-1-7-5](lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2714th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云]] (null initial) + [[Lookup/CC/finals/韻 庚三合|wɣiæŋ]] → [ㄨㄧㄫ](syllables/ㄨㄧㄫ.md)
+- 2714th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云]] (null initial) + [[Lookup/CC/finals/韻 庚三合|ɣwiæŋ]] → [ㄨㄧㄫ](syllables/ㄨㄧㄫ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words

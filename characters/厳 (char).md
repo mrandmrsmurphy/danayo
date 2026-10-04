@@ -9,7 +9,7 @@ japanese:
 japanese_native: おごそ
 vietnamese: nghiêm
 middle_chinese_initial: ŋ
-middle_chinese_final: iɐm
+middle_chinese_final: ɨɐm
 stroke_count: 17
 radical: 厂
 skip_number: 3-5-12
@@ -50,7 +50,7 @@ boundedness:
 ## Notes
 - 形声 (OC \*ŋam): semantic 喦/吅 ("talkative," no vault page; simplified to 𭕄 in the shinjitai, the same pattern as 單→単) + phonetic [[敢]] (OC \*klaːmʔ, "daring," retained intact and unchanged in the shinjitai) — the "solemn, stern" sense may be a phonetic-loan development rather than transparent from 敢's own meaning.
 - [SKIP-3-5-12](lookup/SKIP/SKIP-3/SKIP-3-5-12.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 817th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 凡|iɐm]] → [⼄ㄇ](syllables/⼄ㄇ.md)
+- 817th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [⼄ㄇ](syllables/⼄ㄇ.md)
 - [Grade 3](lookup/Grade%203.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words

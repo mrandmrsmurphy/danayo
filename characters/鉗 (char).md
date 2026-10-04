@@ -11,7 +11,7 @@ japanese_native:
   - つぐ-む
 vietnamese:
   - kiềm
-middle_chinese_initial: "ɡ"
+middle_chinese_initial: "g"
 middle_chinese_final: "ɣiᴇm"
 stroke_count: 13
 radical: "金"
@@ -51,7 +51,7 @@ date-last-perfect: 2026-08-14
 ## Notes
 - 形声 (Zhengzhang OC \*ɡram): semantic [[Radical 167|金]] ("metal") + phonetic [[甘 (char)|甘]] — historically a metal neck/leg restraint, later generalized to any clamping tool.
 - [SKIP-1-8-5](lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2702nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|ɡ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄍㄝㄇ](syllables/ㄍㄝㄇ.md)
+- 2702nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄍㄝㄇ](syllables/ㄍㄝㄇ.md)
 - [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words

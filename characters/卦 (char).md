@@ -12,7 +12,7 @@ japanese_native: うらかた
 vietnamese:
   - quái
 middle_chinese_initial: k
-middle_chinese_final: ˠuɛ
+middle_chinese_final: ɣuɛ
 radical: 卜
 pos: 名詞
 english:
@@ -44,7 +44,7 @@ date-last-perfect: 2026-08-16
 ## Notes
 - 形声 (OC *kʷreːs): semantic [[Radical 025|卜]] ("divination") + phonetic [[圭]] — a trigram or hexagram of the I Ching.
 - [SKIP-1-6-2](Lookup/SKIP/SKIP-1/SKIP-1-6-2.md) ([Stroke 08](Lookup/Stroke/Stroke%2008.md))
-- 1567th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳合|ˠuɛ]] → [ㄍ⺢ㄧ](syllables/ㄍ⺢ㄧ.md)
+- 1567th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳合|ɣuɛ]] → [ㄍ⺢ㄧ](syllables/ㄍ⺢ㄧ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words

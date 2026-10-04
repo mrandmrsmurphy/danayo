@@ -12,7 +12,7 @@ vietnamese:
   - chưa
   - chã
 middle_chinese_initial: "t͡ɕ"
-middle_chinese_final: "ɨa"
+middle_chinese_final: "ɨɑ"
 stroke_count: 15
 radical: "言"
 skip_number: 1-7-8
@@ -46,7 +46,7 @@ boundedness: 75
 ## Notes
 - 形声 (OC \*tjaː, \*tja): semantic [[Radical 149|言]] ("speech, words") + phonetic [[者]] (OC \*tjaːʔ) — originally a dependent pronoun/determiner ("many, all, various"), gradually displacing 多 in this function.
 - [SKIP-1-7-8](lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 77th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 戈三開|ɨa]] → [ㄐㄚ](syllables/ㄐㄚ.md)
+- 77th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 戈三開|ɨɑ]] → [ㄐㄚ](syllables/ㄐㄚ.md)
 - [Grade 4](lookup/Grade%204.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
