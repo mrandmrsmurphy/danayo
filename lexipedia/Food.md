@@ -167,6 +167,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[暴飲](../words/暴飲.md)<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby>: to binge drink.
 - <ruby>[飢餓](../words/飢餓.md)<rt>ㄍㄧㄜㄚ</rt></ruby>: hungry, starving.
 - <ruby>[飢饉](../words/飢饉.md)<rt>ㄍㄧㄜㄍㄨㄋ</rt></ruby>: a famine, crop failure.
+- <ruby>[食欲](../words/食欲.md)<rt>ㄙㄧㄎ·⼄ㄎ</rt></ruby>: appetite — the desire to eat.
 
 ### Not Yet Coined
 
