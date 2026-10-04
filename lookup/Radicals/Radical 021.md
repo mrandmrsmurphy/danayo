@@ -1,19 +1,19 @@
 ---
 size: 4
 radical: 匕
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 21 is 匕, a spoon or ladle — a utensil for measuring or serving. The shape depicts a simple spoon, and this radical appears in characters related to tools, utensils, and actions involving scooping or measuring.
+> Radical 21 is 匕, a spoon or ladle, a simple utensil shape. Characters classified here are grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
-2. <ruby>[化](/characters/化.md)<rt>ㄏ⺢</rt></ruby> - -ification
-3. <ruby>[北](/characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
-4. <ruby>[匙](/characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
+1. <ruby>[匕](../../characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
+2. <ruby>[化](../../characters/化.md)<rt>ㄏ⺢</rt></ruby> - -ification
+3. <ruby>[北](../../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> - north
+4. <ruby>[匙](../../characters/匙.md)<rt>ㄙㄧ</rt></ruby> - spoon
 
 ## Data check
 ```dataview

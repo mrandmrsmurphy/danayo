@@ -1,16 +1,16 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-04
 radical: 匚
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 22 is 匚, a box or enclosure — a rectangular frame open on one side. It depicts a container or box, and appears in compounds related to containment, rectification, or things that are bounded or enclosed.
+> Radical 22 is 匚, a rectangular frame open on one side, like a box. Only one character is classified here, grouped by this shape rather than by a shared meaning.
 
 ## Characters
 ### Used
-1. <ruby>[[匡]]<rt>ㄎ⺢ㄫ</rt></ruby> - revise 
+1. <ruby>[匡](../../characters/匡.md)<rt>ㄎ⺢ㄫ</rt></ruby> - correct
 
 ## Data check
 ```dataview
