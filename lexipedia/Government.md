@@ -89,6 +89,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[民主](../words/民主.md)<rt>ㄇㄧㄋㄐㄨ</rt></ruby>: democracy — originally "sovereign" in Classical Chinese (民之主, "ruler of the people"), repurposed in the mid-1860s during the translation of *Elements of International Law*.
 - <ruby>[汎亜](../words/汎亜.md)<rt>ㄈㄚㄇ·ㄚ</rt></ruby>: Pan-Asian (汎亜主義, "Pan-Asianism").
 - <ruby>[総統](../words/総統.md)<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>: a president, head of state.
+- <ruby>[国務領](../words/国務領.md)<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby>: State Affairs Director — the head-of-state title of the Korean Provisional Government in 1925–1927; a specific historical office, not a general term.
 
 ### Government Bodies & Offices
 

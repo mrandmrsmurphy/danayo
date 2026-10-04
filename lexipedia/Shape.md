@@ -45,6 +45,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[五角形](../words/五角形.md)<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby>: a pentagon.
 - <ruby>[塊](../words/塊.md)<rt>ㄎㄛㄧ</rt></ruby>: a lump, piece, chunk, clump — also directly covers "piece" and "block" (a solid chunk), since no separate word for either exists.
 - <ruby>[立方体](../words/立方体.md)<rt>ㄌㄧㄆㄈㄚㄫㄊㄝㄧ</rt></ruby>: a cube — literally "standing-square body," the solid geometric shape with six equal square faces.
+- <ruby>[圓錐](../words/圓錐.md)<rt>⼔ㄋㄐㄨㄧ</rt></ruby>: a cone — the solid with a circular base tapering to a point; its sections are the [[圓錐曲線]].
 - <ruby>[柱](../words/柱.md)<rt>ㄐㄨ</rt></ruby>: a pillar — covers "column" alongside [[杆]]'s "pole/rod."
 - <ruby>[杆](../words/杆.md)<rt>ㄍㄚㄋ</rt></ruby>: a rod, pole.
 - <ruby>[筒](../words/筒.md)<rt>ㄉㄛㄫ</rt></ruby>: a tube.

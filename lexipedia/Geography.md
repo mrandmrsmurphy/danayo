@@ -8,6 +8,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
+  - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
