@@ -218,10 +218,26 @@ Set when:
 2. The `meta-bind-embed` block is the first thing in the body.
 3. The category link correctly reflects the `origin` value.
 4. All eight canonical sections are present (or deliberately omitted with good reason).
-5. The Source and Origin section cites a specific text or explains the modern provenance clearly. **Every named citation has been verified against the source itself** (added 2026-10-04): each quoted line was found in the named work, and the work, chapter and section label match the passage actually quoted (e.g. a 戰國策 passage filed under the wrong 策). Check against a primary text (wikisource, ctext, or the Bible text for Biblical pages), not against another secondary page or a memory of it. If the citation cannot be found, correct it or remove it; never stamp on an unverified quotation. Dan'a'yo coinages (`origin: 単亜語`) have no external source to verify, but any classical text they cite as a model still falls under this rule.
+5. The Source and Origin section cites a specific text or explains the modern provenance clearly. **Every named citation has been verified against the source itself (see "Source check" below)** (added 2026-10-04): each quoted line was found in the named work, and the work, chapter and section label match the passage actually quoted (e.g. a 戰國策 passage filed under the wrong 策). Check against a primary text (wikisource, ctext, or the Bible text for Biblical pages), not against another secondary page or a memory of it. If the citation cannot be found, correct it or remove it; never stamp on an unverified quotation. Dan'a'yo coinages (`origin: 単亜語`) have no external source to verify, but any classical text they cite as a model still falls under this rule.
 6. All five CJKV pronunciations are present in the frontmatter and in the Pronunciations section.
 7. At least two example sentences are included.
 8. All constituent character pages have been back-linked in their `## Chengyu` section.
+
+---
+
+## Source check (required to perfect a chengyu)
+
+Added 2026-10-04. A chengyu is not perfect until its `Source and Origin` section has been **checked against a primary text**, and the check is part of perfecting the page, not a separate audit. Concretely, before stamping `date-last-perfect`:
+
+1. **Find the passage.** Locate every quoted line in the named work (wikisource, ctext, CBETA, or the Bible text for Biblical pages) and confirm the wording, the work, and the chapter or section label. Do not rely on another secondary page or on memory.
+2. **Check that the source really contains the idiom.** Many chengyu pages named a famous work that does not contain the four characters (the idiom was coined later from a story, or from a different text). If the four-character form is not in the cited text, say what the text does contain and name the earliest text in which you can verify the four characters.
+3. **Record what you could not verify.** If a source cannot be reached or checked, say so on the page and do not state it as fact. Do not invent a context, a commentator or a quotation to fill the gap.
+4. **Set `origin` to what you verified**, a single value, quoted if it contains a colon.
+5. **Coinages** (`origin: 単亜語`) have no external source, but any outside claim they make (a historical date, a theory) is checked the same way.
+
+**Scope.** This applies to every chengyu that is newly perfected or re-touched from 2026-10-04 on. It does not oblige a re-audit of already-stamped pages, which were perfected under the earlier rubric; fix a page's citations when you next work on it. A 10-page random sample of the September pages found roughly half with a citation problem, so the check is worth doing whenever a page is touched.
+
+The mechanical lint (`AIOS/scripts/lint_chengyu.py`) cannot check citations; it needs a source lookup, so this step is always done by hand.
 
 ---
 

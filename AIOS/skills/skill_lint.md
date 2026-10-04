@@ -108,6 +108,8 @@ Counts of: character pages missing `radical:` entirely (flag prominently — the
 
 ## `lint Syllables`
 
+**Script (added 2026-10-04):** `python3 AIOS/scripts/lint_syllables.py` runs the whole-set check and stamps `syllables/Syllables.md`. It checks that (1) every character's `注音` names an existing syllable page, (2) every syllable page is linked from `Syllables.md` (a name listed as plain text but with a page counts as missing), (3) there are no wanted syllables (no link on `Syllables.md` and no character `注音` pointing at a page that does not exist), and (4) every syllable page has a `date-last-perfect` within the last 30 days (`--days N` to change). On a clean run it sets `date-last-perfect` on `Syllables.md` to today; `--no-stamp` makes it report only. It edits no other file, so a failing check is fixed by hand (or by the usual per-page perfecting) and the script re-run. Plain-text entries on `Syllables.md` for syllables with no page are "legal but unassigned" slots and are not errors.
+
 Rubric: [[AIOS/checklists/checklist_syllables.md]] — read it in full before running this; the summary below assumes it.
 
 ### 0. Scope
@@ -159,6 +161,9 @@ Checked last, and lightly — it's a hand-authored phonology table plus per-seri
 Per batch: counts of leaves fixed / dates stamped, plus a short list of judgment calls for the user — ambiguous stand-alone determination, a `but requires` compound that turned out not to exist as a word, or an unclear `grade_level` categorization.
 
 ## `lint Chengyu`
+
+**Status 2026-10-04 — `lint Chengyu` is a success and closed.** `python3 AIOS/scripts/lint_chengyu.py` reports 0 of 236 leaf pages with defects (structure, readings against the characters, back-links, scalars, aliases) and `lint_chengyu_groups.py` passes on the three grouping pages. The lint's job is to find stale or drifted chengyu and hand them to the page perfecter; the citation check is a hand step that belongs to perfecting and is spelled out in `checklist_chengyu.md` ("Source check"). It is prospective, with no re-audit of already-stamped pages required.
+
 
 Rubric: [[AIOS/checklists/checklist_chengyu.md]] — read it in full before running this; the summary below assumes it.
 
