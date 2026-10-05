@@ -1,5 +1,5 @@
 ---
-size: 40
+size: 41
 middle_chinese_final: iᴇn
 date-last-perfect: 2026-07-10
 tags: [lookup]
