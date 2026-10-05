@@ -1,7 +1,7 @@
 ---
 size: 45
 middle_chinese_final: iᴇu
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-10-05
 tags: [lookup]
 ---
 > [Classical Chinese](../Classical%20Chinese.md)
