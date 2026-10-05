@@ -1,8 +1,8 @@
 ## 1.1
-<ruby>孟子<rt>ㄇㄚㄫㄐㄜ</rt></ruby><ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>恵<rt>ㄏ⼔ㄧ</rt></ruby><ruby>王<rt>⺢ㄫ</rt></ruby>。  
+<ruby>孟子<rt>ㄇㄚㄫㄐㄜ</rt></ruby>(阿) <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> 梁州<ruby>恵<rt>ㄏ⼔ㄧ</rt></ruby>(阿)<ruby>王<rt>⺢ㄫ</rt></ruby>。  
 <ruby>王<rt>⺢ㄫ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>：  
-「<ruby>老<rt>ㄌㄚㄨ</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>遠<rt>ㄛㄋ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>来<rt>ㄌㄚㄧ</rt></ruby>，  
-<ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>将<rt>ㄐ⺢ㄫ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>？」  
+「<ruby>老<rt>ㄌㄚㄨ</rt></ruby> <ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>遠<rt>ㄛㄋ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby> <ruby>而<rt>ㄋㄧ</rt></ruby><ruby>来<rt>ㄌㄚㄧ</rt></ruby>，  
+<ruby>亦<rt>ㄜㄎ</rt></ruby> <ruby>有<rt>⼜</rt></ruby><ruby>将<rt>ㄐ⺢ㄫ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>？」  
 <ruby>孟子<rt>ㄇㄚㄫㄐㄜ</rt></ruby><ruby>對<rt>ㄉㄛㄧ</rt></ruby><ruby>酬<rt>ㄙㄨㄛ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>：「<ruby>王<rt>⺢ㄫ</rt></ruby><ruby>何<rt>ㄏㄚ</rt></ruby><ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>？  
 <ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>仁徳<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>正<rt>ㄐㄧㄫ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>。  
 <ruby>王<rt>⺢ㄫ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>『<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>』？  
@@ -17,4 +17,4 @@
 <ruby>未<rt>ㄇㄨㄧ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>後<rt>ㄏㄨㄛ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>君<rt>ㄍㄨㄋ</rt></ruby><ruby>者<rt>ㄑㄚ</rt></ruby><ruby>也<rt>⼘</rt></ruby>。  
 <ruby>王<rt>⺢ㄫ</rt></ruby><ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>仁徳<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>正<rt>ㄐㄧㄫ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>，<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>？」
 
-- 老人 - the original text had 叟, a rare word meaning 'gentleman'
+- 老 - the original text had 叟, a rare word meaning 'gentleman'
