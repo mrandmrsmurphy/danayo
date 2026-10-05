@@ -1,18 +1,20 @@
 ## 1.1
-孟子見梁国恵王。  
-王曰：  
-「老人不遠千里而来，  
-亦将有以利潤吾之国家乎？」  
-孟子對酬曰：「王何必曰利潤？  
-亦有仁徳義正而已矣。  
-王曰『何以利潤吾之国家』？  
-大夫曰『何以利潤吾之家族』？  
-士与庶人曰『何以利潤吾身親』？  
-上下交互征服利潤而国家危害矣。  
-万乘之国家弒其君者，必千乘之家族；  
-千乘之国家弒其君者，必百乘之家族。  
-万取千焉，千取百焉，不為不多矣。  
-苟為後義而先利，不奪不飽足。  
-未有仁徳而遺其親者也，  
-未有義而後其君者也。  
-王亦曰仁徳義正而已矣，何必曰利潤？」
+<ruby>孟子<rt>ㄇㄚㄫㄐㄜ</rt></ruby><ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>恵<rt>ㄏ⼔ㄧ</rt></ruby><ruby>王<rt>⺢ㄫ</rt></ruby>。  
+<ruby>王<rt>⺢ㄫ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>：  
+「<ruby>老<rt>ㄌㄚㄨ</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>遠<rt>ㄛㄋ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>里<rt>ㄌㄧ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>来<rt>ㄌㄚㄧ</rt></ruby>，  
+<ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>将<rt>ㄐ⺢ㄫ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>乎<rt>ㄏㄛ</rt></ruby>？」  
+<ruby>孟子<rt>ㄇㄚㄫㄐㄜ</rt></ruby><ruby>對<rt>ㄉㄛㄧ</rt></ruby><ruby>酬<rt>ㄙㄨㄛ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>：「<ruby>王<rt>⺢ㄫ</rt></ruby><ruby>何<rt>ㄏㄚ</rt></ruby><ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>？  
+<ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>仁徳<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>正<rt>ㄐㄧㄫ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>。  
+<ruby>王<rt>⺢ㄫ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>『<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>』？  
+<ruby>大夫<rt>ㄉㄚㄧㄅㄨ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>『<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>家族<rt>ㄍㄚㄐㄛㄎ</rt></ruby>』？  
+<ruby>士<rt>ㄙㄚㄧ</rt></ruby><ruby>与<rt>⼄</rt></ruby><ruby>庶<rt>ㄙ⼄</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby>『<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>吾<rt>ㄚ</rt></ruby><ruby>身<rt>ㄙㄧㄋ</rt></ruby><ruby>親<rt>ㄑㄧㄋ</rt></ruby>』？  
+<ruby>上<rt>ㄙ⼘ㄫ</rt></ruby><ruby>下<rt>ㄏㄚ</rt></ruby><ruby>交互<rt>ㄍ⼄ㄨㄏㄛ</rt></ruby><ruby>征<rt>ㄐㄝㄫ</rt></ruby><ruby>服<rt>ㄅㄨㄎ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>危<rt>⼔ㄧ</rt></ruby><ruby>害<rt>ㄏㄚㄧ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>。  
+<ruby>万乘<rt>ㄇㄛㄋㄙㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>弒<rt>ㄊㄧ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>君<rt>ㄍㄨㄋ</rt></ruby><ruby>者<rt>ㄑㄚ</rt></ruby>，<ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>千乘<rt>ㄑㄝㄋㄙㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>家族<rt>ㄍㄚㄐㄛㄎ</rt></ruby>；  
+<ruby>千乘<rt>ㄑㄝㄋㄙㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby><ruby>弒<rt>ㄊㄧ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>君<rt>ㄍㄨㄋ</rt></ruby><ruby>者<rt>ㄑㄚ</rt></ruby>，<ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>乘<rt>ㄙㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>家族<rt>ㄍㄚㄐㄛㄎ</rt></ruby>。  
+<ruby>万<rt>ㄇㄛㄋ</rt></ruby><ruby>取<rt>ㄑㄛㄨ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>焉<rt>ㄝㄋ</rt></ruby>，<ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>取<rt>ㄑㄛㄨ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>焉<rt>ㄝㄋ</rt></ruby>，<ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>。  
+<ruby>苟<rt>ㄍㄛㄨ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>後<rt>ㄏㄨㄛ</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>先<rt>ㄙㄝㄋ</rt></ruby><ruby>利<rt>ㄌㄧㄜ</rt></ruby>，<ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>奪<rt>ㄉ⺢ㄊ</rt></ruby><ruby>不<rt>ㄅㄛㄊ</rt></ruby><ruby>飽足<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby>。  
+<ruby>未<rt>ㄇㄨㄧ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>仁徳<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>遺<rt>⼶ㄧ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>親<rt>ㄑㄧㄋ</rt></ruby><ruby>者<rt>ㄑㄚ</rt></ruby><ruby>也<rt>⼘</rt></ruby>，  
+<ruby>未<rt>ㄇㄨㄧ</rt></ruby><ruby>有<rt>⼜</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>後<rt>ㄏㄨㄛ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>君<rt>ㄍㄨㄋ</rt></ruby><ruby>者<rt>ㄑㄚ</rt></ruby><ruby>也<rt>⼘</rt></ruby>。  
+<ruby>王<rt>⺢ㄫ</rt></ruby><ruby>亦<rt>ㄜㄎ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>仁徳<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby><ruby>義<rt>ㄜㄧ</rt></ruby><ruby>正<rt>ㄐㄧㄫ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby><ruby>矣<rt>⼔</rt></ruby>，<ruby>何<rt>ㄏㄚ</rt></ruby><ruby>必<rt>ㄅㄧㄊ</rt></ruby><ruby>曰<rt>⼔ㄊ</rt></ruby><ruby>利潤<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>？」
+
+- 老人 - the original text had 叟, a rare word meaning 'gentleman'
