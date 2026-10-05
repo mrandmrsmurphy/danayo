@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 29
 radical: 衣
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 145 is 衣, clothing or garment; appears as 衤 on the left side of characters (SKIP-1-5-x).
+> Radical 145 is 衣, "clothing", 6 strokes; appears as 衤 on the left side of characters (SKIP-1-5-x).
 
 ## Strokes
 

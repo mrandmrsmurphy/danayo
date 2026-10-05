@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 84
 radical: 糸
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The silk radical. Appears in characters related to thread, fabric, and binding.
+> Radical 120 is 糸, "silk thread", 6 strokes; characters here relate to thread, fabric, and binding.
 
 ## Strokes
 
@@ -17,27 +17,25 @@ tags: [lookup]
 2. <ruby>[系](../../characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> - system
 
 ### +3 Strokes
-3. <ruby>[䋇](../../characters/䋇%20(char).md)<rt>⼶ㄎ</rt></ruby> - unravel
-4. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
-5. <ruby>[約](../../characters/約.md)<rt>⼘ㄎ</rt></ruby> - agree
-6. <ruby>[紅](../../characters/紅%20(char).md)<rt>ㄏㄛㄫ</rt></ruby> - crimson
-7. <ruby>[級](../../characters/級.md)<rt>ㄍㄧㄆ</rt></ruby> - level
-
-8. <ruby>[紇](../../characters/紇.md)<rt>ㄏㄜㄊ</rt></ruby> - Uigur
+3. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
+4. <ruby>[約](../../characters/約.md)<rt>⼘ㄎ</rt></ruby> - agree
+5. <ruby>[紅](../../characters/紅%20(char).md)<rt>ㄏㄛㄫ</rt></ruby> - crimson
+6. <ruby>[級](../../characters/級.md)<rt>ㄍㄧㄆ</rt></ruby> - level
+7. <ruby>[紇](../../characters/紇.md)<rt>ㄏㄜㄊ</rt></ruby> - Uigur
 
 ### +4 Strokes
-9. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark
-10. <ruby>[納](../../characters/納%20(char).md)<rt>ㄋㄚㄆ</rt></ruby> - receive
-11. <ruby>[純](../../characters/純.md)<rt>ㄐㄨㄋ</rt></ruby> - pure
-12. <ruby>[紗](../../characters/紗.md)<rt>ㄙ⼘</rt></ruby> - gauze
-13. <ruby>[紘](../../characters/紘.md)<rt>ㄏ⼔ㄫ</rt></ruby> - string
-14. <ruby>[紙](../../characters/紙%20(char).md)<rt>ㄐㄝ</rt></ruby> - paper
-15. <ruby>[紛](../../characters/紛%20(char).md)<rt>ㄈㄜㄋ</rt></ruby> - numerous
-16. <ruby>[素](../../characters/素.md)<rt>ㄙㄛ</rt></ruby> - element
-17. <ruby>[紡](../../characters/紡%20(char).md)<rt>ㄈㄚㄫ</rt></ruby> - spin (yarn)
-18. <ruby>[索](../../characters/索.md)<rt>ㄙㄚㄎ</rt></ruby> - search
-
-19. <ruby>[紐](../../characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> - knot
+8. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark
+9. <ruby>[納](../../characters/納%20(char).md)<rt>ㄋㄚㄆ</rt></ruby> - receive
+10. <ruby>[純](../../characters/純.md)<rt>ㄐㄨㄋ</rt></ruby> - pure
+11. <ruby>[紗](../../characters/紗.md)<rt>ㄙ⼘</rt></ruby> - gauze
+12. <ruby>[紘](../../characters/紘.md)<rt>ㄏ⼔ㄫ</rt></ruby> - string
+13. <ruby>[紙](../../characters/紙%20(char).md)<rt>ㄐㄝ</rt></ruby> - paper
+14. <ruby>[紛](../../characters/紛%20(char).md)<rt>ㄈㄜㄋ</rt></ruby> - numerous
+15. <ruby>[素](../../characters/素.md)<rt>ㄙㄛ</rt></ruby> - element
+16. <ruby>[紡](../../characters/紡%20(char).md)<rt>ㄈㄚㄫ</rt></ruby> - spin (yarn)
+17. <ruby>[索](../../characters/索.md)<rt>ㄙㄚㄎ</rt></ruby> - search
+18. <ruby>[紐](../../characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> - knot
+19. <ruby>[䋇](../../characters/䋇%20(char).md)<rt>⼶ㄎ</rt></ruby> - unravel
 
 ### +5 Strokes
 20. <ruby>[紬](../../characters/紬.md)<rt>ㄑㄨㄛ</rt></ruby> - silk
@@ -51,25 +49,25 @@ tags: [lookup]
 28. <ruby>[組](../../characters/組.md)<rt>ㄐㄜ</rt></ruby> - organize
 29. <ruby>[絆](../../characters/絆.md)<rt>ㄅㄚㄋ</rt></ruby> - band
 30. <ruby>[経](../../characters/経%20(char).md)<rt>ㄍㄝㄫ</rt></ruby> - classic
-31. <ruby>[綏](../../characters/綏.md)<rt>ㄙㄨㄧ</rt></ruby> - sooth
 
 ### +6 Strokes
-32. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist
-33. <ruby>[紫](../../characters/紫.md)<rt>ㄐㄝ</rt></ruby> - purple
-34. <ruby>[結](../../characters/結%20(char).md)<rt>ㄍㄝㄊ</rt></ruby> - tie
-35. <ruby>[絞](../../characters/絞.md)<rt>ㄍ⼄ㄨ</rt></ruby> - twist
-36. <ruby>[絡](../../characters/絡%20(char).md)<rt>ㄌㄚㄎ</rt></ruby> - enmesh
-37. <ruby>[絢](../../characters/絢.md)<rt>ㄏ⼔ㄋ</rt></ruby> - gorgeous
-38. <ruby>[給](../../characters/給.md)<rt>ㄍㄧㄆ</rt></ruby> - supply
-39. <ruby>[絨](../../characters/絨.md)<rt>ㄋㄨㄫ</rt></ruby> - velvet
-40. <ruby>[統](../../characters/統.md)<rt>ㄊㄛㄫ</rt></ruby> - command
-41. <ruby>[絵](../../characters/絵.md)<rt>ㄏ⺢ㄧ</rt></ruby> - draw
-42. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
+31. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist
+32. <ruby>[紫](../../characters/紫.md)<rt>ㄐㄝ</rt></ruby> - purple
+33. <ruby>[結](../../characters/結%20(char).md)<rt>ㄍㄝㄊ</rt></ruby> - tie
+34. <ruby>[絞](../../characters/絞.md)<rt>ㄍ⼄ㄨ</rt></ruby> - twist
+35. <ruby>[絡](../../characters/絡%20(char).md)<rt>ㄌㄚㄎ</rt></ruby> - enmesh
+36. <ruby>[絢](../../characters/絢.md)<rt>ㄏ⼔ㄋ</rt></ruby> - gorgeous
+37. <ruby>[給](../../characters/給.md)<rt>ㄍㄧㄆ</rt></ruby> - supply
+38. <ruby>[絨](../../characters/絨.md)<rt>ㄋㄨㄫ</rt></ruby> - velvet
+39. <ruby>[統](../../characters/統.md)<rt>ㄊㄛㄫ</rt></ruby> - command
+40. <ruby>[絵](../../characters/絵.md)<rt>ㄏ⺢ㄧ</rt></ruby> - draw
+41. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
 
 ### +7 Strokes
-43. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
-44. <ruby>[継](../../characters/継.md)<rt>ㄍㄝㄧ</rt></ruby> - continue
-45. <ruby>[続](../../characters/続.md)<rt>ㄙ⼄ㄎ</rt></ruby> - continue
+42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
+43. <ruby>[継](../../characters/継.md)<rt>ㄍㄝㄧ</rt></ruby> - continue
+44. <ruby>[続](../../characters/続.md)<rt>ㄙ⼄ㄎ</rt></ruby> - continue
+45. <ruby>[綏](../../characters/綏.md)<rt>ㄙㄨㄧ</rt></ruby> - sooth
 
 ### +8 Strokes
 46. <ruby>[維](../../characters/維.md)<rt>⼶ㄧ</rt></ruby> - support
@@ -106,7 +104,7 @@ tags: [lookup]
 ### +11 Strokes
 72. <ruby>[縮](../../characters/縮%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - shrink
 73. <ruby>[績](../../characters/績.md)<rt>ㄐㄝㄎ</rt></ruby> - achievement
-74. <ruby>[繃](../../characters/繃.md)<rt>ㄅㄚㄫ</rt></ruby> - bind, wrap tight
+74. <ruby>[繃](../../characters/繃.md)<rt>ㄅㄚㄫ</rt></ruby> - bind
 75. <ruby>[繊](../../characters/繊.md)<rt>ㄙㄝㄇ</rt></ruby> - fine
 76. <ruby>[繋](../../characters/繋.md)<rt>ㄏㄝㄧ</rt></ruby> - fasten
 77. <ruby>[繍](../../characters/繍.md)<rt>ㄙ⼜</rt></ruby> - embroidery
@@ -115,7 +113,7 @@ tags: [lookup]
 78. <ruby>[織](../../characters/織.md)<rt>ㄐㄧㄎ</rt></ruby> - weave
 79. <ruby>[繕](../../characters/繕.md)<rt>ㄙ⼶ㄋ</rt></ruby> - mend
 80. <ruby>[繞](../../characters/繞%20(char).md)<rt>ㄋㄛㄨ</rt></ruby> - entwine
-81. <ruby>[繭](../../characters/繭%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - cocoon
+81. <ruby>[繭](../../characters/繭%20(char).md)<rt>ㄍ⼶ㄇ</rt></ruby> - cocoon
 
 ### +13 Strokes
 82. <ruby>[繰](../../characters/繰%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - reel

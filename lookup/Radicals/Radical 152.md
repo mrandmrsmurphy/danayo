@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 6
 radical: 豕
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The pig radical 豕.
+> Radical 152 is 豕, "pig", 7 strokes. It depicts a pig.
 
 ## Strokes
 

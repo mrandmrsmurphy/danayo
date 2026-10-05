@@ -1,16 +1,16 @@
 ---
 size: 1
 radical: 長
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 168 is 長, long or elder — depicting hair or length extended, originally representing a person with long hair or beard, a sign of age and wisdom. This radical appears in compounds relating to length, duration, longevity, seniority, and leadership. It carries connotations of time, growth, and respect for age.
+> Radical 168 is 長, "long", 8 strokes. It originally depicted a person with long hair, a sign of age, and gives the senses long, elder, and chief. Only 長 itself is filed here.
 
 ## Characters
 ### Used
-1. <ruby>[[長 (char)|長]]<rt>ㄐㄚㄫ</rt></ruby> - long
+1. <ruby>[長](../../characters/長%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - long
 
 ## Data check
 ```dataview

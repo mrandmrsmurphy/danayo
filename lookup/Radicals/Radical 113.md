@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 25
 radical: 示
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 113 is 示, spirit or altar; appears as 礻 on the left side of characters (SKIP-1-4-x).
+> Radical 113 is 示, "spirit" or "altar", 5 strokes; appears as 礻 on the left side of characters (SKIP-1-4-x).
 
 ## Strokes
 

@@ -1,17 +1,17 @@
 ---
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-05
 size: 21
 radical: 攴
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 66 is 攴, to rap/strike; appears as 攵 on the right side of characters (4 strokes).
+> Radical 66 is 攴, "to rap" or "to strike", 4 strokes; appears as 攵 on the right side of characters.
 
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[[攴]]<rt>ㄆㄨㄎ</rt></ruby> - to knock, to strike
+1. <ruby>[攴](../../characters/攴.md)<rt>ㄆㄨㄎ</rt></ruby> - knock
 
 ### +3 Strokes
 2. <ruby>[改](../../characters/改%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - redo

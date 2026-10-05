@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 23
 radical: 足
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 157 is 足, foot; appears as 足 or ⻊ on the left side of characters (SKIP-1-7-x).
+> Radical 157 is 足, "foot", 7 strokes. It appears as 足 or ⻊ on the left side of characters (SKIP-1-7-x).
 
 ## Strokes
 
@@ -18,7 +18,6 @@ tags:
 3. <ruby>[跌](../../characters/跌.md)<rt>ㄉㄝㄊ</rt></ruby> - fall down
 4. <ruby>[跑](../../characters/跑.md)<rt>ㄅ⼘ㄨ</rt></ruby> - run
 5. <ruby>[距](../../characters/距.md)<rt>ㄍ⼄</rt></ruby> - long-distance
-
 6. <ruby>[跋](../../characters/跋.md)<rt>ㄅㄚㄊ</rt></ruby> - stride
 
 ### +6 Strokes

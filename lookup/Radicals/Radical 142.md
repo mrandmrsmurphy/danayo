@@ -1,12 +1,12 @@
 ---
 size: 42
 radical: 虫
-date-last-perfect: 2026-08-24
+date-last-perfect: 2026-10-05
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 142 is 虫, insect or worm. Six strokes. Appears on the left of characters (SKIP-1-6-x) or doubled as 虫虫 in a few characters.
+> Radical 142 is 虫, "insect", 6 strokes; appears on the left of characters (SKIP-1-6-x) or doubled as 虫虫 in a few characters.
 
 ## Strokes
 

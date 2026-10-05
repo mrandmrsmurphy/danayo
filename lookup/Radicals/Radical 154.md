@@ -1,12 +1,12 @@
 ---
 size: 44
 radical: 貝
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 154 is 貝, shell — originally a picture of a cowrie shell, which served as currency in ancient China. Seven strokes. Appears on the left of characters (SKIP-1-7-x) or below (SKIP-2-x-7).
+> Radical 154 is 貝, "shell", 7 strokes. It was originally a picture of a cowrie shell, which served as currency in ancient China. It appears on the left of characters (SKIP-1-7-x) or below (SKIP-2-x-7).
 
 ## Strokes
 

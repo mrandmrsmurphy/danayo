@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-08-24
+date-last-perfect: 2026-10-05
 size: 22
 radical: 酉
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The wine/alcohol radical 酉, depicting a wine vessel.
+> Radical 164 is 酉, "wine", 7 strokes. It depicts a wine vessel.
 
 ## Strokes
 
@@ -44,7 +44,7 @@ tags: [lookup]
 ### +9 Strokes
 16. <ruby>[醍](../../characters/醍.md)<rt>ㄊㄝㄧ</rt></ruby> - essential oil
 17. <ruby>[醐](../../characters/醐.md)<rt>ㄏㄛㄨ</rt></ruby> - purest cream
-18. <ruby>[醒](../../characters/醒.md)<rt>ㄙㄝㄫ</rt></ruby> - be disillusioned
+18. <ruby>[醒](../../characters/醒.md)<rt>ㄙㄝㄫ</rt></ruby> - sober
 
 ### +10 Strokes
 19. <ruby>[醜](../../characters/醜.md)<rt>ㄑㄨㄛ</rt></ruby> - ugly

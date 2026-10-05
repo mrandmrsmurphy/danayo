@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 21
 radical: 車
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The cart/vehicle radical 車.
+> Radical 159 is 車, "cart", 7 strokes. It depicts a cart seen from above.
 
 ## Strokes
 
@@ -38,7 +38,7 @@ tags: [lookup]
 13. <ruby>[載](../../characters/載%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - carry
 
 ### +7 Strokes
-14. <ruby>[輒](../../characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> - chariot's weapons pouch
+14. <ruby>[輒](../../characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> - then
 15. <ruby>[輔](../../characters/輔.md)<rt>ㄅㄨ</rt></ruby> - assist
 
 ### +8 Strokes

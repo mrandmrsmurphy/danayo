@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 63
 radical: 金
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The gold and metal radical.
+> Radical 167 is 金, "gold", 8 strokes. The radical covers gold and metals in general.
 
 ## Strokes
 
@@ -67,7 +67,7 @@ tags: [lookup]
 40. <ruby>[錦](../../characters/錦.md)<rt>ㄎㄛㄇ</rt></ruby> - brocade
 41. <ruby>[錫](../../characters/錫.md)<rt>ㄙㄝㄎ</rt></ruby> - tin
 42. <ruby>[錬](../../characters/錬.md)<rt>ㄌㄝㄋ</rt></ruby> - temper
-43. <ruby>[錮](../../characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - obstinant
+43. <ruby>[錮](../../characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - confine
 44. <ruby>[錯](../../characters/錯.md)<rt>ㄑㄚㄎ</rt></ruby> - mistake
 45. <ruby>[録](../../characters/録.md)<rt>ㄌㄛㄎ</rt></ruby> - record
 

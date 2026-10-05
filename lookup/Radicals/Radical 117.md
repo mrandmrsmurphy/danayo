@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 8
 radical: 立
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The standing-person radical 立, depicting a person standing on the ground.
+> Radical 117 is 立, "stand", 5 strokes, depicting a person standing on the ground.
 
 ## Strokes
 
@@ -18,12 +18,10 @@ tags: [lookup]
 
 ### +6 Strokes
 3. <ruby>[竟](../../characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - finally
-
 4. <ruby>[章](../../characters/章%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - chapter
 
 ### +7 Strokes
 5. <ruby>[童](../../characters/童.md)<rt>ㄉㄛㄫ</rt></ruby> - juvenile
-
 6. <ruby>[竦](../../characters/竦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - awe
 
 ### +9 Strokes

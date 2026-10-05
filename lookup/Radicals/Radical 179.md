@@ -1,20 +1,19 @@
 ---
+date-last-perfect: 2026-10-05
 size: 1
-date-last-perfect: 2026-07-08
 radical: 韭
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 179 is 韭, leek or garlic chives — depicting the thin, blade-like leaves of the plant. This radical appears in compounds relating to the leek family of plants, particularly garlic chives used in East Asian cuisine. It also symbolizes growth from the ground.
+> Radical 179 is 韭, "leek", 9 strokes. It depicts the thin, blade-like leaves of garlic chives growing from the ground, and heads characters for the leek family.
 
 ## Characters
 ### Used
-1. <ruby>[[韮]]<rt>ㄍ⼜</rt></ruby> - garlic
+1. <ruby>[韮](../../characters/韮.md)<rt>ㄍ⼜</rt></ruby> - garlic
 
 ## Data check
 ```dataview
-TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "韭"
 SORT stroke_count ASC

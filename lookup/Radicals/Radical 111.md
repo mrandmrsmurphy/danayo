@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 7
 radical: 矢
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The arrow radical 矢.
+> Radical 111 is 矢, "arrow", 5 strokes.
 
 ## Strokes
 

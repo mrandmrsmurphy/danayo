@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 118
 radical: 艸
 tags:
   - lookup
 ---
 > [[Radicals]]
-> The grass radical. The canonical form 艸 has 6 strokes, but the abbreviated form ⺾/艹 used atop characters counts as 3, so groupings below use that baseline. No character is filed at +0, so groupings below start at +2.
+> Radical 140 is 艸, "grass", 6 strokes. The canonical form 艸 has 6 strokes, but the abbreviated form ⺾/艹 used atop characters counts as 3, so groupings below use that baseline. No character is filed at +0, so groupings below start at +2.
 
 ## Strokes
 
@@ -16,7 +16,7 @@ tags:
 ### +3 Strokes
 2. <ruby>[芋](../../characters/芋.md)<rt>ㄨ</rt></ruby> - taro
 3. <ruby>[芝](../../characters/芝.md)<rt>ㄐㄧ</rt></ruby> - sesame
-4. <ruby>[芒](../../characters/芒.md)<rt>ㄇ⼘ㄫ</rt></ruby> - ray, radiance
+4. <ruby>[芒](../../characters/芒.md)<rt>ㄇ⼘ㄫ</rt></ruby> - ray
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -67,7 +67,7 @@ tags:
 43. <ruby>[荻](../../characters/荻.md)<rt>ㄉㄧㄎ</rt></ruby> - Miscanthus sacchariflorus
 44. <ruby>[莉](../../characters/莉.md)<rt>ㄌㄝㄧ</rt></ruby> - white jasmin
 45. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
-46. <ruby>[茜](/characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
+46. <ruby>[茜](../../characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
 47. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
 
 ### +8 Strokes
@@ -126,7 +126,7 @@ tags:
 92. <ruby>[蕎](../../characters/蕎.md)<rt>ㄍ⼘ㄨ</rt></ruby> - buckwheat
 93. <ruby>[蕩](../../characters/蕩.md)<rt>ㄉㄚㄫ</rt></ruby> - dissolute
 94. <ruby>[蕪](../../characters/蕪.md)<rt>ㄇㄨ</rt></ruby> - turnip
-95. <ruby>[蕤](/characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
+95. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
 
 ### +13 Strokes
 96. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia

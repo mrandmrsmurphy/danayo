@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 24
 radical: 邑
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 163 is 邑, city or town; appears as 阝 on the right side of characters (SKIP-1-x-3).
+> Radical 163 is 邑, "city", 7 strokes. It appears as 阝 on the right side of characters (SKIP-1-x-3).
 
 ## Strokes
 
@@ -19,7 +19,7 @@ tags:
 
 ### +1 Stroke
 6. <ruby>[邱](../../characters/邱.md)<rt>ㄍㄨ</rt></ruby> - hill
-7. <ruby>[邵](../../characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> - so
+7. <ruby>[邵](../../characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> - surname
 8. <ruby>[邸](../../characters/邸.md)<rt>ㄉㄝㄧ</rt></ruby> - residence
 
 ### +2 Strokes

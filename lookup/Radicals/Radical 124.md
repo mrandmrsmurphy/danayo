@@ -1,17 +1,17 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 16
 radical: 羽
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The feather/wings radical 羽, depicting a pair of feathers or wings.
+> Radical 124 is 羽, "feather" or "wings", 6 strokes, depicting a pair of feathers.
 
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[羽](../../characters/羽.md)<rt>ㄨ</rt></ruby> - feather, plume
+1. <ruby>[羽](../../characters/羽.md)<rt>ㄨ</rt></ruby> - feather
 
 ### +3 Strokes
 2. <ruby>[羿](../../characters/羿.md)<rt>ㄝㄧ</rt></ruby> - famous archer

@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 4
 radical: 豆
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The bean radical 豆, depicting a stemmed ritual vessel/bean.
+> Radical 151 is 豆, "bean", 7 strokes. It depicts a stemmed ritual vessel, later borrowed for the bean.
 
 ## Strokes
 

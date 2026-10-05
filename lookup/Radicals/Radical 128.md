@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 14
 radical: 耳
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The ear radical 耳.
+> Radical 128 is 耳, "ear", 6 strokes.
 
 ## Strokes
 
@@ -30,18 +30,18 @@ tags: [lookup]
 
 ### +7 Strokes
 7. <ruby>[聖](../../characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> - holy
-8. <ruby>[聘](../../characters/聘%20(char).md)<rt>ㄆㄧㄫ</rt></ruby> - engage, betroth
+8. <ruby>[聘](../../characters/聘%20(char).md)<rt>ㄆㄧㄫ</rt></ruby> - engage
 
 ### +8 Strokes
 9. <ruby>[聚](../../characters/聚.md)<rt>ㄑㄨㄧ</rt></ruby> - assemble
 10. <ruby>[聞](../../characters/聞%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - hear
-11. <ruby>[聡](../../characters/聡.md)<rt>ㄑㄛㄫ</rt></ruby> - clever, intelligent
+11. <ruby>[聡](../../characters/聡.md)<rt>ㄑㄛㄫ</rt></ruby> - clever
 
 ### +11 Strokes
 12. <ruby>[聴](../../characters/聴%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - listen
 
 ### +12 Strokes
-13. <ruby>[職](../../characters/職.md)<rt>ㄐㄧㄎ</rt></ruby> - duty, profession
+13. <ruby>[職](../../characters/職.md)<rt>ㄐㄧㄎ</rt></ruby> - duty
 
 ### +16 Strokes
 14. <ruby>[聾](../../characters/聾.md)<rt>ㄌㄛㄫ</rt></ruby> - deaf

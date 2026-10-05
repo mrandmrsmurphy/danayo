@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 4
 radical: 禸
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The track/footprint radical 禸. No character is filed at +0, so groupings below start at +4.
+> Radical 114 is 禸, "track" or "footprint", 5 strokes. No character is filed at +0, so groupings below start at +4.
 
 ## Strokes
 

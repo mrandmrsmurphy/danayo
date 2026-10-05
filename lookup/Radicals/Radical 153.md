@@ -1,17 +1,17 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 3
 radical: 豸
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The badger/legless-animal radical 豸, used for beasts of prey and clawed creatures. No character is filed at +0, so groupings below start at +5.
+> Radical 153 is 豸, "badger", 7 strokes. The radical is used for beasts of prey and clawed creatures. No character is filed at +0, so groupings below start at +5.
 
 ## Strokes
 
 ### +5 Strokes
-1. <ruby>[貂](../../characters/貂.md)<rt>ㄑㄛ</rt></ruby> - mink, sable, marten
+1. <ruby>[貂](../../characters/貂.md)<rt>ㄑㄛ</rt></ruby> - mink
 
 ### +9 Strokes
 2. <ruby>[貒](../../characters/貒%20(char).md)<rt>ㄊ⺢ㄋ</rt></ruby> - wild boar

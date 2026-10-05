@@ -1,12 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 19
 radical: 食
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> The food/eat radical 食.
+> Radical 184 is 食, "eat", 9 strokes. It depicts a lidded vessel of grain, and appears as 飠 on the left side of characters concerning food and eating.
 
 ## Strokes
 

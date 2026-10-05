@@ -1,12 +1,12 @@
 ---
 size: 43
 radical: 竹
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 118 is 竹, bamboo. Six strokes. Appears as the top enclosure of characters in its abbreviated form ⺮ (SKIP-2-6-x).
+> Radical 118 is 竹, "bamboo", 6 strokes; appears as ⺮ on top of characters (SKIP-2-6-x).
 
 ## Strokes
 

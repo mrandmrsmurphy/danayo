@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 94
 radical: 言
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The speech radical. Appears in characters related to speaking, writing, and language.
+> Radical 149 is 言, "speech", 7 strokes. Characters here mostly concern speaking, writing, and language.
 
 ## Strokes
 
@@ -19,11 +19,11 @@ tags: [lookup]
 4. <ruby>[計](../../characters/計.md)<rt>ㄍㄝㄧ</rt></ruby> - measure
 
 ### +3 Strokes
-5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - hearing
+5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - inquire
 6. <ruby>[討](../../characters/討.md)<rt>ㄊㄚㄨ</rt></ruby> - debate
 7. <ruby>[訓](../../characters/訓%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - interpret
 8. <ruby>[託](../../characters/託.md)<rt>ㄊㄚㄎ</rt></ruby> - entrust
-9. <ruby>[記](../../characters/記.md)<rt>ㄍㄧ</rt></ruby> - write
+9. <ruby>[記](../../characters/記.md)<rt>ㄍㄧ</rt></ruby> - remember
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -99,7 +99,7 @@ tags: [lookup]
 70. <ruby>[諭](../../characters/諭.md)<rt>⼜ㄇ</rt></ruby> - issue a decree
 71. <ruby>[諮](../../characters/諮.md)<rt>ㄐㄧㄜ</rt></ruby> - consult with
 72. <ruby>[諱](../../characters/諱%20(char).md)<rt>ㄏㄨㄧ</rt></ruby> - shun
-73. <ruby>[諺](../../characters/諺.md)<rt>ㄝㄋ</rt></ruby> - Hangǔl
+73. <ruby>[諺](../../characters/諺.md)<rt>ㄝㄋ</rt></ruby> - proverb
 74. <ruby>[諾](../../characters/諾%20(char).md)<rt>ㄋㄚㄎ</rt></ruby> - consent
 75. <ruby>[謀](../../characters/謀%20(char).md)<rt>ㄇㄨㄛ</rt></ruby> - conspire
 76. <ruby>[謂](../../characters/謂.md)<rt>ㄨㄧ</rt></ruby> - so called

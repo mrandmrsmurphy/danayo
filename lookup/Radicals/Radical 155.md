@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 3
 radical: 赤
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The red radical 赤, depicting fire over earth/land.
+> Radical 155 is 赤, "red", 7 strokes. It depicts fire over earth.
 
 ## Strokes
 

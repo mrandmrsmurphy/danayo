@@ -1,16 +1,15 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
 radical: 鼓
+date-last-perfect: 2026-10-05
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 207 is 鼓, a drum — depicting a percussion instrument with a hollow chamber and striking surface, used in music and ritual. This radical appears in compounds relating to drums, drumming, hollow containers, resonance, and the making of sound. It symbolizes rhythm, communication, and inspiration.
+> Radical 207 is 鼓, "drum", 13 strokes. It shows a drum on a stand (壴) struck by a hand (支), and heads words for drumming and percussion. Only 鼓 itself is filed here.
 
 ## Characters
 ### Used
-1. <ruby>[[鼓]]<rt>ㄍㄛ</rt></ruby> - drum
+1. <ruby>[鼓](../../characters/鼓%20(char).md)<rt>ㄍㄛ</rt></ruby> - drum
 
 ## Data check
 ```dataview

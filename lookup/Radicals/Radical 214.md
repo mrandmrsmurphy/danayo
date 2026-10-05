@@ -1,40 +1,27 @@
 ---
-date-last-perfect: 2026-07-08
 size: 0
 radical: 龠
+date-last-perfect: 2026-10-05
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> __unused__
+> Radical 214 is 龠, "flute", 17 strokes, the radical with the most strokes of the 214. It pictures a pipe of bound reeds with several finger holes, and is also an ancient unit of volume. In the Kangxi Dictionary 21 characters (out of 40,000) are found under it, and it is the 201st indexing component in the *Table of Indexing Chinese Character Components* used by Simplified Chinese dictionaries in mainland China. No character in the corpus is filed under this radical.
 
-Radical 214 meaning "flute" is the only one of the 214 Kangxi radicals that is composed of 17 strokes, making it the radical that requires the most strokes.
+## Characters
+### Note
+No characters are currently filed under this radical. All the glyphs below are aliases or forbidden.
 
-In the Kangxi Dictionary there are 21 characters (out of 40,000) to be found under this radical.
+### Aliases
+- 䶳 --> 吹 (ancient variant)
+- 龡 --> 吹 (ancient variant)
+- 龢 --> 和 (ancient variant)
+- 䶴 --> 吹 (ancient variant)
+- 龣 --> 角 (ancient variant)
+- 䶵 --> 篪 (ancient variant)
 
-龠 is also the 201st indexing component in the *Table of Indexing Chinese Character Components* predominantly adopted by Simplified Chinese dictionaries published in mainland China.
-
-## Strokes 
-### +0
-* 龠 (this radical) flute, ancient unit of volume
-
-### +4
-* 䶳 --> ancient variant of 吹
-* 龡 --> ancient variant of 吹
-
-### +5
-* 龢 --> ancient variant of 和
-
-### +8
-* 䶴 --> ancient variant of 吹
-* 龣 --> ancient variant of 角
-
-### + 9
-* 龤 - ancient Chinese for "to harmonize", not used
-* 龥/籲 - ancient for "to appeal, to implore", not used
-
-### +10
-* 䶵 --> ancient variant of [[篪]]
+### Forbidden
+- 龤 - ancient Chinese for "to harmonize", not used
+- 龥/籲 - ancient for "to appeal, to implore", not used
 
 ## Data check
 ```dataview

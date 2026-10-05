@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 3
 radical: 老
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The old/aged radical 老, depicting an old man with a stooped back.
+> Radical 125 is 老, "old", 6 strokes, depicting an old person with a stooped back and a staff.
 
 ## Strokes
 

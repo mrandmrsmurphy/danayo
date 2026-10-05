@@ -1,17 +1,17 @@
 ---
 size: 2
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 radical: 身
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> Radical 158 is 身, the human body or oneself — depicting a human figure with arms and torso in profile. This fundamental radical appears in compounds relating to the body, health, oneself, one's own identity, and physical form. It carries associations with action, responsibility, and embodied existence.
+> Radical 158 is 身, "body", 7 strokes. Early forms show a person in profile with a swollen belly, and the character came to mean the body and, by extension, oneself. The few characters filed here, 身 itself and 躬 (the body bowed in person), concern the body and its posture; most body-related characters belong to 肉 or 人 instead.
 
 ## Characters
 ### Used
-1. <ruby>[身](/characters/身.md)<rt>ㄙㄧㄋ</rt></ruby> - body
-2. <ruby>[躬](/characters/躬.md)<rt>ㄍㄨㄫ</rt></ruby> "the emperor's body"
+1. <ruby>[身](../../characters/身.md)<rt>ㄙㄧㄋ</rt></ruby> - body
+2. <ruby>[躬](../../characters/躬.md)<rt>ㄍㄨㄫ</rt></ruby> - emperor's body
 
 ## Data check
 ```dataview

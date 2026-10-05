@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 8
 radical: 見
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The eye/see radical 見, depicting an eye atop a person, meaning "to see."
+> Radical 147 is 見, "see", 7 strokes, depicting an eye atop a person.
 
 ## Strokes
 

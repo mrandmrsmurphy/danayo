@@ -1,12 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 3
 radical: 青
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> The blue/green radical 青, depicting a sprouting plant over a well or cinnabar pigment.
+> Radical 174 is 青, "blue-green", 8 strokes. It is traditionally explained as a sprouting plant 生 over a well or cinnabar pigment 丹; as a phonetic it supplies the sound in compounds such as 清, 晴 and 請.
 
 ## Strokes
 

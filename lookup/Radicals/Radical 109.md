@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 29
 radical: 目
 tags:
   - lookup
 ---
 > [[Radicals]]
-> Radical 109 is 目, eye.
+> Radical 109 is 目, "eye", 5 strokes.
 
 ## Strokes
 
@@ -46,14 +46,13 @@ tags:
 
 ### +9 Strokes
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
-22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal, dupe
+22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal
 
 ### +12 Strokes
 23. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
 24. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink
 25. <ruby>[瞭](../../characters/瞭.md)<rt>ㄌ⼘ㄨ</rt></ruby> - clear
 26. <ruby>[瞳](../../characters/瞳.md)<rt>ㄉㄛㄫ</rt></ruby> - pupil of eye
-
 27. <ruby>[瞰](../../characters/瞰.md)<rt>ㄎㄚㄇ</rt></ruby> - overlook
 
 ### +13 Strokes

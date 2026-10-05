@@ -1,12 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 29
 radical: 頁
-tags:
-  - lookup
+tags: [lookup]
 ---
 > [[Radicals]]
-> The page radical, depicting a human head; used for head, face, and related body parts.
+> Radical 181 is 頁, "head" or "page", 9 strokes. It depicts a human head with the body below; most characters under it concern the head and face, and the sense "page" is a later borrowing.
 
 ## Strokes
 
@@ -20,7 +19,7 @@ tags:
 ### +3 Strokes
 4. <ruby>[項](../../characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - nape
 5. <ruby>[順](../../characters/順.md)<rt>ㄙ⼜ㄋ</rt></ruby> - in order
-6. <ruby>[須](../../characters/須.md)<rt>ㄙㄨ</rt></ruby> - indispensible
+6. <ruby>[須](../../characters/須.md)<rt>ㄙㄨ</rt></ruby> - indispensable
 
 ### +4 Strokes
 7. <ruby>[頌](../../characters/頌.md)<rt>ㄙ⼄ㄫ</rt></ruby> - laud
@@ -51,7 +50,7 @@ tags:
 22. <ruby>[題](../../characters/題.md)<rt>ㄊㄝㄧ</rt></ruby> - topic
 23. <ruby>[顔](../../characters/顔.md)<rt>ㄚㄋ</rt></ruby> - face
 24. <ruby>[顎](../../characters/顎.md)<rt>ㄚㄎ</rt></ruby> - chin
-25. <ruby>[顕](../../characters/顕.md)<rt>ㄏㄝㄋ</rt></ruby> - prominant
+25. <ruby>[顕](../../characters/顕.md)<rt>ㄏㄝㄋ</rt></ruby> - prominent
 26. <ruby>[類](../../characters/類.md)<rt>ㄌㄨㄧ</rt></ruby> - kind
 
 ### +10 Strokes
@@ -63,7 +62,7 @@ tags:
 
 ## Data check
 ```dataview
-TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "頁"
 SORT stroke_count ASC

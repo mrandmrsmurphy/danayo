@@ -1,19 +1,19 @@
 ---
+date-last-perfect: 2026-10-05
 size: 1
 radical: 首
-date-last-perfect: 2026-10-03
 tags: [lookup]
 ---
 > [[Radicals]]
-> Radical 185 is 首, a head or leader — depicting the human head and neck. This radical appears in compounds relating to heads, leaders, chieftains, and things that are at the front or beginning. It carries connotations of authority, leadership, and prominence.
+> Radical 185 is 首, "head", 9 strokes. It depicts the head of a person or animal with hair on top, and extends to the sense of a leader or the first of anything. Only 首 itself is filed under it in the corpus.
 
 ## Characters
 ### Used
-1. <ruby>[[首]]<rt>ㄙ·ㄨ</rt></ruby> - head
+1. <ruby>[首](../../characters/首.md)<rt>ㄙ⼜</rt></ruby> - head
 
 ## Data check
 ```dataview
-TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "首"
 SORT stroke_count ASC

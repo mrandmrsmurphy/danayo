@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 17
 radical: 魚
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The fish radical 魚.
+> Radical 195 is 魚, "fish", 11 strokes. It pictures a fish with head, body scales, and tail, and heads the names of fish and other water creatures as well as words about scales and fins.
 
 ## Strokes
 
@@ -43,7 +43,7 @@ tags: [lookup]
 
 ### +12 Strokes
 16. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
-17. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - scale (fish)
+17. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
 
 ## Data check
 ```dataview

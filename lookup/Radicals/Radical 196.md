@@ -3,23 +3,23 @@ size: 22
 radical: 鳥
 tags:
   - lookup
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 ---
 > [[Radicals]]
-> The bird radical 鳥, a.k.a. simplified 鸟.
+> Radical 196 is 鳥, "bird", 11 strokes (simplified 鸟). It pictures a long-tailed bird, and heads the names of birds and words about plumage and flight.
 
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[鳥](/characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
+1. <ruby>[鳥](../../characters/鳥%20(char).md)<rt>ㄑㄛㄨ</rt></ruby> - bird
 
 ### +2 Strokes
 2. <ruby>[鳩](../../characters/鳩.md)<rt>ㄎ⼜</rt></ruby> - pigeon
 
 ### +3 Strokes
 3. <ruby>[鳳](../../characters/鳳.md)<rt>ㄆㄨㄫ</rt></ruby> - phoenix
-4. <ruby>[鳴](../../characters/鳴%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby> - cry, chirp
-5. <ruby>[鳶](../../characters/鳶%20(char).md)<rt>⼶ㄋ</rt></ruby> - kite (bird)
+4. <ruby>[鳴](../../characters/鳴%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby> - chirp
+5. <ruby>[鳶](../../characters/鳶%20(char).md)<rt>⼶ㄋ</rt></ruby> - kite
 
 ### +4 Strokes
 6. <ruby>[鴎](../../characters/鴎%20(char).md)<rt>ㄛㄨ</rt></ruby> - seagull
@@ -41,7 +41,7 @@ date-last-perfect: 2026-07-08
 
 ### +8 Strokes
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot
-17. <ruby>[鵰](../../characters/鵰%20(char).md)<rt>ㄑㄨㄛ</rt></ruby> - eagle, vulture
+17. <ruby>[鵰](../../characters/鵰%20(char).md)<rt>ㄑㄨㄛ</rt></ruby> - eagle
 18. <ruby>[鶏](../../characters/鶏%20(char).md)<rt>ㄍㄝㄧ</rt></ruby> - chicken
 
 ### +10 Strokes
@@ -62,7 +62,7 @@ date-last-perfect: 2026-07-08
 
 ## Data check
 ```dataview
-TABLE file.link AS "Character", english AS "EN", stroke_count as "Stroke"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "鳥"
 SORT stroke_count ASC

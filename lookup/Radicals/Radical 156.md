@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 9
 radical: 走
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The run/walk radical 走, depicting a person running (SKIP-2-3-x).
+> Radical 156 is 走, "walk", 7 strokes. It depicts a person running (SKIP-2-3-x).
 
 ## Strokes
 
@@ -31,7 +31,7 @@ tags: [lookup]
 8. <ruby>[趣](../../characters/趣.md)<rt>ㄑㄨ</rt></ruby> - interest
 
 ### +10 Strokes
-9. <ruby>[趨](../../characters/趨%20(char).md)<rt>ㄑㄨ</rt></ruby> - take many small steps towards
+9. <ruby>[趨](../../characters/趨%20(char).md)<rt>ㄑㄨ</rt></ruby> - hasten
 
 ## Data check
 ```dataview

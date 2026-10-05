@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 69
 radical: 肉
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The meat radical, appearing as 月 when used as a character component.
+> Radical 130 is 肉, "meat", 6 strokes; appears as 月 on the left side of characters.
 
 ## Strokes
 
@@ -22,7 +22,7 @@ tags: [lookup]
 7. <ruby>[肝](../../characters/肝.md)<rt>ㄍㄚㄋ</rt></ruby> - liver
 
 ### +2 Strokes
-8. <ruby>[䏜](../../characters/䏜.md)<rt>ㄇㄚㄆ</rt></ruby> - plump, fat, obese
+8. <ruby>[䏜](../../characters/䏜.md)<rt>ㄇㄚㄆ</rt></ruby> - plump
 9. <ruby>[股](../../characters/股%20(char).md)<rt>ㄍㄛ</rt></ruby> - crotch
 10. <ruby>[肢](../../characters/肢.md)<rt>ㄐㄝ</rt></ruby> - limbs
 11. <ruby>[肥](../../characters/肥.md)<rt>ㄅㄨㄧ</rt></ruby> - fertile
@@ -94,7 +94,7 @@ tags: [lookup]
 63. <ruby>[膣](../../characters/膣%20(char).md)<rt>ㄐㄧㄊ</rt></ruby> - pussy
 
 ### +10 Strokes
-64. <ruby>[膨](../../characters/膨.md)<rt>ㄆㄚㄫ</rt></ruby> - swell, bloat, inflate
+64. <ruby>[膨](../../characters/膨.md)<rt>ㄆㄚㄫ</rt></ruby> - swell
 65. <ruby>[膳](../../characters/膳.md)<rt>ㄙ⼶ㄋ</rt></ruby> - meal
 
 ### +11 Strokes

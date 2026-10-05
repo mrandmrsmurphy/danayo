@@ -1,11 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 34
 radical: 石
 tags: [lookup]
 ---
 > [[Radicals]]
-> The stone radical.
+> Radical 112 is 石, "stone", 5 strokes.
 
 ## Strokes
 

@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 4
 radical: 龍
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> #212 is 龍, 龙, or 竜 meaning "dragon"
+> Radical 212 is 龍 (also 龙 or 竜), "dragon", 16 strokes.
 
 The character arose as a stylized drawing of a Chinese dragon, and refers to a version of the dragon in each East Asian culture:
 
@@ -25,15 +25,15 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 ### Used
 1. <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby> - dragon
 2. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - huge
-3. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - to give/present
-4. <ruby>[[龕]]<rt>ㄌㄚㄇ</rt></ruby> - shrine
+3. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - present
+4. <ruby>[[龕 (char)|龕]]<rt>ㄌㄚㄇ</rt></ruby> - shrine
 
-### Variants
+### Aliases
 * 龎 --> variant of 龐
 * 龏 --> variant of 恭
 * 龒 --> ancient variant of 龍 
 
-### Illegal
+### Forbidden
 * 龑 - a 9th century made-up name = 龍 + 天
 * 龓 - obscure C character, forbidden in Dan'a'yo
 * 龖/龘 - (obsolete) vista of a dragon in flight, forbidden

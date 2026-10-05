@@ -1,16 +1,15 @@
 ---
 size: 1
-date-last-perfect: 2026-07-08
 radical: 鼠
+date-last-perfect: 2026-10-05
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 208 is 鼠, a rat or mouse — depicting the small rodent that inhabits human dwellings and fields. This radical appears in compounds relating to rats, mice, rodents, and small creatures. It carries associations with cunning, fertility (in zodiacal contexts), and the hidden or nocturnal.
+> Radical 208 is 鼠, "rat", 13 strokes. It is a pictograph of a rodent with prominent teeth and a tail, heading words for rats, mice, and similar small animals. The rat is the first animal of the Chinese zodiac.
 
 ## Characters
 ### Used
-1. <ruby>[鼠](../../characters/鼠.md)<rt>ㄙ·ㄛ</rt></ruby> - rat
+1. <ruby>[鼠](../../characters/鼠.md)<rt>ㄙ⼄</rt></ruby> - rat
 
 ### Aliases
 - 鼯 --> 吾

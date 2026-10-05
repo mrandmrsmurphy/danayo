@@ -1,11 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 35
 radical: 禾
 tags: [lookup]
 ---
 > [[Radicals]]
-> The grain radical, depicting a rice or millet plant.
+> Radical 115 is 禾, "grain", 5 strokes, depicting a rice or millet plant.
 
 ## Strokes
 
@@ -65,7 +65,6 @@ tags: [lookup]
 
 ### +13 Strokes
 33. <ruby>[穫](../../characters/穫.md)<rt>ㄏ⺢ㄎ</rt></ruby> - harvest
-
 34. <ruby>[穢](../../characters/穢.md)<rt>ㄝ</rt></ruby> - filthy
 
 ### +17 Strokes

@@ -1,15 +1,13 @@
 ---
 size: 0
-date-last-perfect: 2026-07-08
 radical: 鬲
+date-last-perfect: 2026-10-05
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 193 is 鬲, a tripod cauldron or food vessel — depicting a three-legged cooking pot used for ritual and practical purposes. No standalone character is currently filed under this radical. It carries historical weight as a symbol of leadership and ritual power.
+> Radical 193 is 鬲, "tripod cauldron", 10 strokes. It pictures a cooking vessel with three hollow, bulging legs that let heat reach the contents, a Neolithic form later cast in bronze for ritual use. No standalone character is currently filed under this radical.
 
 ## Characters
-
 ### Note
 No characters are currently filed under this radical. 鬲 itself is an alias of 隔.
 

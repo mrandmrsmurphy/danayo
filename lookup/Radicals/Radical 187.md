@@ -1,12 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 22
 radical: 馬
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> The horse radical 馬.
+> Radical 187 is 馬, "horse", 10 strokes. It depicts a horse with its mane, and heads characters for horses and riding.
 
 ## Strokes
 

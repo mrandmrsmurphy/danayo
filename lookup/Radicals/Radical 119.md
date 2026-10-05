@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-05
 size: 19
 radical: 米
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The rice radical 米.
+> Radical 119 is 米, "rice", 6 strokes.
 
 ## Strokes
 
@@ -21,28 +21,28 @@ tags: [lookup]
 ### +5 Strokes
 5. <ruby>[粘](../../characters/粘%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sticky
 6. <ruby>[粗](../../characters/粗.md)<rt>ㄐㄛ</rt></ruby> - coarse
-7. <ruby>[粒](../../characters/粒.md)<rt>ㄌㄨㄆ</rt></ruby> - particle, grain
+7. <ruby>[粒](../../characters/粒.md)<rt>ㄌㄨㄆ</rt></ruby> - particle
 8. <ruby>[粛](../../characters/粛.md)<rt>ㄙㄨㄎ</rt></ruby> - solemn
 
 ### +6 Strokes
 9. <ruby>[粥](../../characters/粥%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - congee
 10. <ruby>[粤](../../characters/粤.md)<rt>⼔ㄊ</rt></ruby> - Yue
-11. <ruby>[粟](../../characters/粟.md)<rt>ㄙ⼄ㄎ</rt></ruby> - millet, grain
+11. <ruby>[粟](../../characters/粟.md)<rt>ㄙ⼄ㄎ</rt></ruby> - millet
 12. <ruby>[粧](../../characters/粧.md)<rt>ㄐ⺢ㄫ</rt></ruby> - put on make up
 
 ### +8 Strokes
-13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit, essence
+13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit
 
 ### +9 Strokes
-14. <ruby>[糊](../../characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled, confused
+14. <ruby>[糊](../../characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled
 
 ### +10 Strokes
 15. <ruby>[糖](../../characters/糖%20(char).md)<rt>ㄉ⺢ㄫ</rt></ruby> - sugar
 
 ### +11 Strokes
 16. <ruby>[糞](../../characters/糞%20(char).md)<rt>ㄈㄨㄇ</rt></ruby> - poop
-17. <ruby>[糟](../../characters/糟.md)<rt>ㄐㄚㄨ</rt></ruby> - sediments, dregs
-18. <ruby>[糠](../../characters/糠.md)<rt>ㄎㄚㄫ</rt></ruby> - chaff, bran
+17. <ruby>[糟](../../characters/糟.md)<rt>ㄐㄚㄨ</rt></ruby> - sediments
+18. <ruby>[糠](../../characters/糠.md)<rt>ㄎㄚㄫ</rt></ruby> - chaff
 
 ### +12 Strokes
 19. <ruby>[糧](../../characters/糧%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - provisions

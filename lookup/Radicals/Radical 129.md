@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 radical: 聿
 tags: [lookup]
 
@@ -10,8 +10,8 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[肆](/characters/肆.md)<rt>ㄙㄧㄜ</rt></ruby> - brazenly
-2. <ruby>[肇](/characters/肇.md)<rt>ㄐㄛㄨ</rt></ruby> - begin
+1. <ruby>[肆](../../characters/肆.md)<rt>ㄙㄧㄜ</rt></ruby> - brazenly
+2. <ruby>[肇](../../characters/肇.md)<rt>ㄐㄚㄨ</rt></ruby> - begin
 
 ## Data check
 ```dataview

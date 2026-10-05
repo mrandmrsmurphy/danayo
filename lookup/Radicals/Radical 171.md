@@ -1,16 +1,15 @@
 ---
+date-last-perfect: 2026-10-05
 size: 1
 radical: 隶
-date-last-perfect: 2026-07-08
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> Radical 171 is 隶, a slave, servant, or underling — depicting a person in subjection or service. This radical appears in compounds relating to servants, slaves, submission, and subservience. It carries historical weight as a marker of social status and hierarchy in ancient societies.
+> Radical 171 is 隶, "catch up with", 8 strokes. The oldest form shows a hand 又 grasping an animal by the tail, the sense of seizing from behind; the meaning "servant, bondman" is a later extension. Only 隷 is filed under it in the corpus.
 
 ## Characters
 ### Used
-1. <ruby>[[隷]]<rt>ㄌㄝㄧ</rt></ruby> - slave
+1. <ruby>[隷](../../characters/隷.md)<rt>ㄌㄝㄧ</rt></ruby> - slave
 
 ## Data check
 ```dataview

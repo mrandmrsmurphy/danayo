@@ -1,12 +1,11 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 16
 radical: 隹
 tags: [lookup]
-
 ---
 > [[Radicals]]
-> The short-tailed bird radical 隹.
+> Radical 172 is 隹, "short-tailed bird", 8 strokes. It is the pictograph of a bird seen in profile, and appears in characters for birds, and as a phonetic.
 
 ## Strokes
 
@@ -21,7 +20,7 @@ tags: [lookup]
 
 ### +4 Strokes
 4. <ruby>[雁](../../characters/雁%20(char).md)<rt>ㄚㄋ</rt></ruby> - wild goose
-5. <ruby>[雄](../../characters/雄%20(char).md)<rt>ㄨㄫ</rt></ruby> - manly, male
+5. <ruby>[雄](../../characters/雄%20(char).md)<rt>ㄨㄫ</rt></ruby> - male
 6. <ruby>[集](../../characters/集.md)<rt>ㄐㄧㄆ</rt></ruby> - collect
 7. <ruby>[雇](../../characters/雇.md)<rt>ㄎㄛ</rt></ruby> - employ
 
@@ -35,10 +34,10 @@ tags: [lookup]
 12. <ruby>[雑](../../characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> - miscellaneous
 
 ### +9 Strokes
-13. <ruby>[雖](../../characters/雖%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> - though, although
+13. <ruby>[雖](../../characters/雖%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> - although
 
 ### +10 Strokes
-14. <ruby>[雛](../../characters/雛.md)<rt>ㄑㄨㄛ</rt></ruby> - chick, doll
+14. <ruby>[雛](../../characters/雛.md)<rt>ㄑㄨㄛ</rt></ruby> - chick
 15. <ruby>[難](../../characters/難.md)<rt>ㄋㄚㄋ</rt></ruby> - difficult
 
 ### +11 Strokes

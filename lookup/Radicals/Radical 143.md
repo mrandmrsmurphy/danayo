@@ -1,12 +1,12 @@
 ---
-date-last-perfect: 2026-07-08
+date-last-perfect: 2026-10-05
 size: 3
 radical: 血
 tags: [lookup]
 
 ---
 > [[Radicals]]
-> The blood radical 血, depicting a vessel of blood offering.
+> Radical 143 is 血, "blood", 6 strokes, depicting a vessel holding a blood offering.
 
 ## Strokes
 
@@ -17,7 +17,7 @@ tags: [lookup]
 2. <ruby>[衂](../../characters/衂.md)<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
 
 ### +6 Strokes
-3. <ruby>[衆](../../characters/衆.md)<rt>ㄐㄨㄫ</rt></ruby> - public, crowd
+3. <ruby>[衆](../../characters/衆.md)<rt>ㄐㄨㄫ</rt></ruby> - public
 
 ## Data check
 ```dataview

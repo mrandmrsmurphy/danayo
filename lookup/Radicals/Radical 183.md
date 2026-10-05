@@ -1,22 +1,22 @@
 ---
+date-last-perfect: 2026-10-05
 size: 1
 radical: 飛
-date-last-perfect: 2026-10-03
 tags: [lookup]
 ---
 > [[Radicals]]
-> Radical 183 is 飛, to fly or wings — depicting a bird in flight with wings spread. This radical appears in compounds relating to flying, wings, speed, and things that move through the air. It symbolizes freedom, movement, and the ethereal or intangible.
+> Radical 183 is 飛, "fly", 9 strokes. It depicts a bird in flight with its wings spread, and heads characters for flying and soaring. Only 飛 itself is filed under it in the corpus.
 
 ## Characters
 ### Used
-1. <ruby>[[飛 (char)|飛]]<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[飛](../../characters/飛%20(char).md)<rt>ㄈㄝㄧ</rt></ruby> - fly
 
 ### Aliases
 - 䬡 --> 翻
 
 ## Data check
 ```dataview
-TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"
+TABLE 注音 AS "Sound", english AS "EN"
 FROM "characters"
 WHERE radical = "飛"
 SORT stroke_count ASC
