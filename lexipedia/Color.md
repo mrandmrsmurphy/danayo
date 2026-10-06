@@ -59,6 +59,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 
 - <ruby>[橙色](../words/橙色.md)<rt>ㄉㄨㄫㄙㄧㄎ</rt></ruby>: orange.
 - <ruby>[桃色](../words/桃色.md)<rt>ㄉㄚㄨㄙㄧㄎ</rt></ruby>: pink, peach.
+- <ruby>[火紅](../words/火紅.md)<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby>: fire-red, blazing red — the luminous red of flame, brighter than plain [[紅]]; the root of [[火紅素]] (strontium).
 - <ruby>[朱色](../words/朱色.md)<rt>ㄐㄨㄙㄧㄎ</rt></ruby>: vermillion, cinnabar red — associated with seals and lacquerwork.
 - <ruby>[炎色](../words/炎色.md)<rt>ㄝㄇㄙㄧㄎ</rt></ruby>: flame color — another natural-object-based X色 coinage, alongside 茶色/栗色/桃色/乳色 below.
   - **Note**: the color 朱色 above and the mineral pigment [[丹沙]]/[[朱沙]] ("cinnabar," two independently attested synonyms built on different characters) are a substance-supplies-color-name pair, the same pattern Metals plays with 金色/銀色 — see Semantic Range Notes.

@@ -68,6 +68,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ### Form & Representation
 
 - <ruby>[形成](../words/形成.md)<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby>: to form, take shape — the verb, distinct from [[形]]'s noun.
+- <ruby>[無形](../words/無形.md)<rt>ㄇㄜㄏㄝㄫ</rt></ruby>: formless, intangible — lacking shape or outline; the negation of [[形]], cf. [[無色]] and [[無名]].
 - <ruby>[容](../words/容.md)<rt>⼄ㄫ</rt></ruby>: appearance, form, figure — a weaker, more figurative register (outward bearing/countenance) than [[形]]'s clean geometric sense.
 - <ruby>[交叉](../words/交叉.md)<rt>ㄍ⼄ㄨㄑㄚㄧ</rt></ruby>: to cross, an intersection.
 - <ruby>[交点](../words/交点.md)<rt>ㄍ⼄ㄨㄉㄝㄇ</rt></ruby>: an intersection point, node — the precise point where two lines cross (geometry, road intersections), narrower than [[交叉]]'s general crossing.

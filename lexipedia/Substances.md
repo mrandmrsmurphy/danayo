@@ -25,6 +25,8 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 ### Stone & Mineral
 
 - <ruby>[石頭](../words/石頭.md)<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>: stone, rock — the colloquial compound, an undocumented near-duplicate of [[石]].
+- <ruby>[水晶](../words/水晶.md)<rt>ㄙㄨㄐㄧㄫ</rt></ruby>: rock crystal, quartz crystal — the mineral, with [[石英]] as plain quartz; manufactured glass is [[玻璃]], not 水晶.
+- <ruby>[炉甘石](../words/炉甘石.md)<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby>: calamine, smithsonite — the zinc ore of traditional pharmacology and early brass-making; see [[亜鉛]].
 - <ruby>[玻璃](../words/玻璃.md)<rt>ㄆㄚㄌㄜ</rt></ruby>: glass, crystal.
 - <ruby>[璃](../words/璃.md)<rt>ㄌㄜ</rt></ruby>: glass — the bound/simpler form.
 
