@@ -52,6 +52,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[興](../words/興.md)<rt>ㄏㄜㄫ</rt></ruby>: to entertain, to rise up, to prosper — the bound root behind [[興起]] above; also, in a separate sense, "glad, pleased" (高興).
 - <ruby>[発](../words/発.md)<rt>ㄈㄚㄊ</rt></ruby>: to issue forth, discharge, release — one of the Sinosphere's most productive bound roots, behind [[発生]] ("to arise") above and [[出発]] ("to depart," on [[Movement]]), [[発見]] ("to discover," on [[Knowledge]]), and many more.
 - <ruby>[昌盛](../words/昌盛.md)<rt>ㄑ⺢ㄫㄙㄧㄫ</rt></ruby>: prosperous, flourishing.
+- <ruby>[興旺](../words/興旺.md)<rt>ㄏㄜㄫ⺢ㄫ</rt></ruby>: thriving, prosperous — actively surging, as of a business or household, near [[昌盛]]'s settled prosperity.
 - <ruby>[消](../words/消.md)<rt>ㄙ⼄ㄨ</rt></ruby>: to vanish, to disappear — covers both Rosenfelder line items; Dan'a'yo doesn't split "vanish" from "disappear" as separate words.
 
 #### Concealment — disappearing by intent, not just fading

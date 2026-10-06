@@ -104,6 +104,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[叙述](../words/叙述.md)<rt>ㄙ⼄ㄙㄨㄊ</rt></ruby>: to narrate, describe.
 - <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: argument, controversy, contention.
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to comment, discuss.
+- <ruby>[理屈](../words/理屈.md)<rt>ㄌㄧ·ㄎㄨㄊ</rt></ruby>: a defeated argument, reasoning exhausted — reason that has yielded; the Japanese neutral "reasoning" sense is secondary here.
 - <ruby>[主意](../words/主意.md)<rt>ㄐㄨㄜ</rt></ruby>: idea — literally "master idea," the one settled on.
 - <ruby>[題目](../words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby>: title, heading, topic.
 - <ruby>[情報](../words/情報.md)<rt>ㄑㄧㄫㄅㄚㄨ</rt></ruby>: information, intelligence.
