@@ -91,6 +91,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").
 - <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
+- <ruby>[輪回](../words/輪回.md)<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby>: saṃsāra, the cycle of rebirth — the wheel of existence that Buddhist practice aims to escape; distinct from [[法輪]] (the wheel of dharma) and [[因縁]] (karma).
 - <ruby>[法輪](../words/法輪.md)<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby>: the wheel of dharma, the Buddhist symbol representing the Buddha's teaching.
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[無明](../words/無明.md)<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby>: avidyā, fundamental ignorance — the first of the Twelve Links of Dependent Origination; a Buddhist technical term, not everyday ignorance.

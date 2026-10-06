@@ -105,6 +105,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 - <ruby>[偶像](../words/偶像.md)<rt>ㄛㄨㄙ⼘ㄫ</rt></ruby>: idol, statue.
 - <ruby>[写真](../words/写真.md)<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby>: a photograph.
+- <ruby>[複写](../words/複写.md)<rt>ㄅㄨㄎㄙ⼘</rt></ruby>: a copy, photocopy, carbon copy — a duplicate made from a document or image; not [[写真]] (a photograph).
 - <ruby>[塑像](../words/塑像.md)<rt>ㄙㄛㄙ⼘ㄫ</rt></ruby>: molded statue.
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
