@@ -161,6 +161,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 ### Nutrition & Quality
 
 - <ruby>[営養](../words/営養.md)<rt>⼶ㄫ⼘ㄫ</rt></ruby>, <ruby>[栄養](../words/栄養.md)<rt>ㄨㄧㄫ⼘ㄫ</rt></ruby>: nutrition, nourishment. See Semantic Range Notes.
+- <ruby>[栄養素](../words/栄養素.md)<rt>ㄨㄧㄫ⼘ㄫㄙㄛ</rt></ruby>: a nutrient — the elemental substance of [[栄養]] (nourishment).
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh, novel.
 - <ruby>[鮮美](../words/鮮美.md)<rt>ㄙ⼶ㄇㄇㄧ</rt></ruby>: delicious, tasty.
 - <ruby>[摂食](../words/摂食.md)<rt>ㄋㄝㄆㄙㄧㄎ</rt></ruby>: to feed, ingest.
