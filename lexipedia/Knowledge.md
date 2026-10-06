@@ -174,6 +174,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 ### People of Learning
 
+- <ruby>[荘子](../words/荘子.md)<rt>ㄐ⺢ㄫㄐㄜ</rt></ruby>: Zhuangzi, the Daoist philosopher and the text attributed to him; also a hamlet — see [[老子]], [[孔子]], [[孟子]] for the other "Master" names.
 - <ruby>[士](../words/士.md)<rt>ㄙㄚㄧ</rt></ruby>: scholar (see Semantic Range Notes for its "warrior" cousin sense, kept out of this domain).
 - <ruby>[博士](../words/博士.md)<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby>: doctor (PhD).
 - <ruby>[天才](../words/天才.md)<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby>: talented, genius, gifted.
