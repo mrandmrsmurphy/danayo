@@ -54,6 +54,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>: a palm tree.
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
 - <ruby>[檀木](../words/檀木.md)<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby>: sandalwood — a specific hardwood tree species, not a generic word for "hardwood" (which remains uncoined, alongside "softwood").
+- <ruby>[檀香](../words/檀香.md)<rt>ㄉㄚㄋㄏ⼘ㄫ</rt></ruby>: sandalwood as a fragrant material — the aromatic heartwood and incense, as against [[檀木]], the tree and its wood.
 - <ruby>[桑木](../words/桑木.md)<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby>: a mulberry tree.
 - <ruby>[梨木](../words/梨木.md)<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby>: a pear tree.
 
