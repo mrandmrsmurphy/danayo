@@ -109,6 +109,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
+- <ruby>[書道](../words/書道.md)<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby>: Japanese calligraphy, the Way of Writing — calligraphy as a discipline of self-cultivation, alongside [[武道]]; distinct from plain [[書法]].
 - <ruby>[筆順](../words/筆順.md)<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>: stroke order (the sequence in which a character's strokes are written).
 - <ruby>[長点](../words/長点.md)<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby>: long dot (calligraphy stroke; willow-leaf dot).
 - <ruby>[挑点](../words/挑点.md)<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby>: rising dot (calligraphy stroke).
