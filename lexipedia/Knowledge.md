@@ -112,6 +112,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 - <ruby>[大学校](../words/大学校.md)<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: university, college (the full institutional form; commonly abbreviated to bare [[大学]] above).
 - <ruby>[大学生](../words/大学生.md)<rt>ㄉㄚㄧㄏㄚㄎㄙㄚㄫ</rt></ruby>: college student, undergrad.
+- <ruby>[宿題](../words/宿題.md)<rt>ㄙㄨㄎㄊㄝㄧ</rt></ruby>: homework, an assignment — the task carried home from school; also a pending problem.
 - <ruby>[小学](../words/小学.md)<rt>ㄙㄛㄏㄚㄎ</rt></ruby>: elementary learning, philology; elementary school.
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
 - <ruby>[中学](../words/中学.md)<rt>ㄐㄨㄫㄏㄚㄎ</rt></ruby>: middle school, junior high school — the level-name short form of [[中学校]]; narrower than Chinese 中學, which spans all secondary school.

@@ -93,6 +93,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[念頭](../words/念頭.md)<rt>ㄋㄝㄇㄊㄛㄨ</rt></ruby>: an idea, thought — what is presently on one's mind.
 - <ruby>[思想](../words/思想.md)<rt>ㄙㄚㄙㄚㄫ</rt></ruby>: thought, thinking, ideology — a settled system of ideas, not a passing one.
+- <ruby>[奇想](../words/奇想.md)<rt>ㄍㄨㄧㄙㄚㄫ</rt></ruby>: a fanciful notion, a strange idea — a passing odd thought, opposite to [[思想]]'s settled system of ideas.
 - <ruby>[世界観](../words/世界観.md)<rt>ㄙㄝㄍ⼶ㄍ⺢ㄋ</rt></ruby>: a worldview — a comprehensive outlook on existence, distinct from [[思想]]'s narrower "ideology, system of ideas."
 - <ruby>[意思](../words/意思.md)<rt>ㄜㄙㄚ</rt></ruby>: intent, intention, opinion, mind.
 - <ruby>[傾向](../words/傾向.md)<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby>: a tendency, inclination, drift — a predisposition in preference, politics, or personality, distinct from [[傾斜]]'s own concrete physical slope.

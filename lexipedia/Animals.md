@@ -127,6 +127,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
 - <ruby>[鱏](../words/鱏.md)<rt>ㄏㄧㄇ</rt></ruby>: a ray, skate.
 - <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
+- <ruby>[尊魚](../words/尊魚.md)<rt>ㄐㄛㄋ·⼄</rt></ruby>: trout — like [[堅魚]], a 代用字 form: the phonetic 尊 stands for the rare 鱒.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
