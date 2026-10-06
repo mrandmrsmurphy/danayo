@@ -46,6 +46,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 ### Landforms & Terrain
 
+- <ruby>[高峰](../words/高峰.md)<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>: a peak, summit — the top of a mountain, and figuratively the apex of anything; [[山]] is the mountain itself.
 - <ruby>[山岡](../words/山岡.md)<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>: a hill, hillock — an undocumented near-duplicate of [[丘]].
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].

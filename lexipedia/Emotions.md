@@ -135,6 +135,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 - <ruby>[倦嫌](../words/倦嫌.md)<rt>ㄍ⼔ㄋㄏㄝㄇ</rt></ruby>: weary, world-weary, jaded, sick and tired.
 - <ruby>[厳粛](../words/厳粛.md)<rt>⼄ㄇㄙㄨㄎ</rt></ruby>: solemn, austere, grave.
+- <ruby>[厳然](../words/厳然.md)<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby>: solemn, dignified — an imposing bearing, or a fact that stands undeniable; distinct from [[厳粛]]'s solemn occasion.
 - <ruby>[厳重](../words/厳重.md)<rt>⼄ㄇㄑㄛㄫ</rt></ruby>: serious, rigorous.
 - <ruby>[緊張](../words/緊張.md)<rt>ㄍㄧㄋㄑㄚㄫ</rt></ruby>: tight, tense, worried.
 

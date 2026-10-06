@@ -94,6 +94,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顚]]
 - [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby>
+- <ruby>[高盧](../words/高盧.md)<rt>ㄍㄚㄨㄌㄛ</rt></ruby>: Gaul — the ancient Celtic region, historical, not the modern state of [[法国]].
 - <ruby>[徳国](../words/徳国.md)<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby>
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
