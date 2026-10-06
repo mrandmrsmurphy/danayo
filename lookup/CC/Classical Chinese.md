@@ -29,11 +29,11 @@ views:
       - file.mtime
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: size
         direction: ASC
       - property: file.mtime
-        direction: ASC
-      - property: date-last-perfect
         direction: ASC
     columnSize:
       note.middle_chinese_initial: 86
@@ -56,13 +56,13 @@ views:
       - file.mtime
       - date-last-perfect
     sort:
+      - property: date-last-perfect
+        direction: ASC
       - property: size
         direction: ASC
       - property: middle_chinese_final
         direction: ASC
       - property: file.mtime
-        direction: ASC
-      - property: date-last-perfect
         direction: ASC
     columnSize:
       file.name: 139
