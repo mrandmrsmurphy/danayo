@@ -81,6 +81,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 ### Strategy, Tactics & Explosives
 
 - <ruby>[兵法](../words/兵法.md)<rt>ㄅ⼶ㄫㄈㄚㄆ</rt></ruby>: the art of war, tactics.
+- <ruby>[斬豪](../words/斬豪.md)<rt>ㄐㄚㄇㄏㄚㄨ</rt></ruby>: a trench, entrenchment — the dug defensive position; a 代用字 spelling of 塹壕.
 - <ruby>[鉦鼓](../words/鉦鼓.md)<rt>ㄐㄧㄫㄍㄛ</rt></ruby>: gong and drum — the paired military percussion that signalled advance (the drum, 鼓) and withdrawal (the gong); the plain drum is [[鼓]] on [Art](../lexipedia/Art.md).
 - <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: a campaign — primarily a social/political movement or exercise, housed on [Society](../lexipedia/Society.md); used here loosely for a military campaign in the absence of a dedicated word.
 - <ruby>[爆発](../words/爆発.md)<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby>: a blast — to explode, an explosion. See [Light](../lexipedia/Light.md) for its own citation there.

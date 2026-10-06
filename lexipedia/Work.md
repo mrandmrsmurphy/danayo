@@ -74,6 +74,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
 - <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
 - <ruby>[募集](../words/募集.md)<rt>ㄇㄛㄐㄧㄆ</rt></ruby>: to recruit, solicit; recruitment — a public call to gather workers, members or contributions; the stand-in for the bound character 募.
+- <ruby>[担任](../words/担任.md)<rt>ㄉㄚㄇㄋㄧㄇ</rt></ruby>: to assume a post, take charge of a role — in Japanese and Korean schools also the homeroom teacher; opposite of stepping down ([[卸]]).
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
 

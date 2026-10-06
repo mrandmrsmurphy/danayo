@@ -182,6 +182,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[天才](../words/天才.md)<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby>: talented, genius, gifted.
 - <ruby>[英俊](../words/英俊.md)<rt>ㄝㄫㄐㄨㄋ</rt></ruby>: wise, heroic, handsome, talented.
 - <ruby>[英才](../words/英才.md)<rt>ㄝㄫㄐㄚㄧ</rt></ruby>: a gifted talent, prodigy.
+- <ruby>[才媛](../words/才媛.md)<rt>ㄐㄚㄧㄛㄋ</rt></ruby>: a talented woman — gifted by learning and art, the female counterpart of the scholar-poet ideal; not [[名媛]] (a woman of fame and standing).
 - <ruby>[賢明](../words/賢明.md)<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>: wise.
 - <ruby>[智慧](../words/智慧.md)<rt>ㄐㄨㄧㄏ⼔ㄧ</rt></ruby>: wisdom, intelligence.
 - <ruby>[知性](../words/知性.md)<rt>ㄐㄨㄧㄙㄧㄫ</rt></ruby>: intelligent, smart, knowledgeable.
