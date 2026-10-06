@@ -87,6 +87,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 
 - <ruby>[粗造](../words/粗造.md)<rt>ㄐㄛㄑㄚㄨ</rt></ruby>: rough.
 - <ruby>[鋭利](../words/鋭利.md)<rt>⼶ㄌㄧㄜ</rt></ruby>: sharp.
+- <ruby>[鋒芒](../words/鋒芒.md)<rt>ㄈㄛㄫㄇ⼘ㄫ</rt></ruby>: the keen edge or point of a blade — and figuratively one's sharpness of talent; narrower and more concentrated than plain [[鋭利]].
 - <ruby>[平坦](../words/平坦.md)<rt>ㄅ⼶ㄫㄊㄚㄋ</rt></ruby>: smooth, flat.
 - <ruby>[水平](../words/水平.md)<rt>ㄙㄨㄅ⼶ㄫ</rt></ruby>: level, horizontal — literally "water-level," the surface of standing water as the natural reference.
 - <ruby>[潤](../words/潤.md)<rt>ㄋㄨㄋ</rt></ruby>: smooth — a moist/glossy smoothness, distinct from [[平坦]]'s flatness.

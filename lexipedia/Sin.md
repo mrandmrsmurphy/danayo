@@ -40,6 +40,7 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 - <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby>: anger — the plain emotional state. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: anger, to enrage — more intense than [[怒気]]. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[悪毒](../words/悪毒.md)<rt>ㄚㄎㄉㄛㄎ</rt></ruby>: malicious, vicious.
+- <ruby>[邪心](../words/邪心.md)<rt>ㄙ⼘ㄙㄧㄇ</rt></ruby>: a wicked heart, evil intent — the corrupt inner disposition that wrongdoing flows from; in Korean narrowed to a selfish motive.
 - <ruby>[刻薄](../words/刻薄.md)<rt>ㄎㄨㄎㄅㄚㄎ</rt></ruby>: mean — cruel, unkind in character. [[意味]], which also glosses "mean," is an unrelated homograph meaning "to signify, the meaning of a word."
 
 ### Shame & Disgrace
