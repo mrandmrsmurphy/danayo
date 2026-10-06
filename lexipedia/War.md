@@ -86,6 +86,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[炸薬](../words/炸薬.md)<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby>: an explosive — the closest available match for "bomb," naming the explosive substance rather than a dedicated word for the device itself.
 
 **Not yet coined**: "strategy" (as distinct from [[兵法]]'s tactics), "scout," "parry," and "wield" all have no dedicated Dan'a'yo word yet. "Shoot" (a weapon) is likewise uncoined — [[秀]], which also glosses "shoot," means a plant "to shoot, bear fruit, blossom," an unrelated botanical homograph. "Bow" (the gesture) is covered by [[低下]], [[拝]], and [[鞠躬]], all distinct from [[弓]], the weapon, cited above.
+- <ruby>[綏靖](../words/綏靖.md)<rt>ㄙㄨㄧㄐㄧㄫ</rt></ruby>: pacification; appeasement — restoring order by force or by conceding to an aggressor, the same word for both.
 
 ## Semantic Range Notes
 

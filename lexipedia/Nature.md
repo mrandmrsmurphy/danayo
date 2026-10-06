@@ -60,6 +60,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[雨包](../words/雨包.md)<rt>ㄨㄅ⼘ㄨ</rt></ruby>: hail — specifically large hail.
 - <ruby>[旱災](../words/旱災.md)<rt>ㄏㄚㄋㄐㄚㄧ</rt></ruby>: a drought.
 - <ruby>[閃電](../words/閃電.md)<rt>ㄙㄝㄇㄉㄝㄋ</rt></ruby>: lightning.
+- <ruby>[狂風](../words/狂風.md)<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby>: a gale, violent wind — [[風]] gone wild; not [[風狂]] (madness), its reversal.
 - <ruby>[彩虹](../words/彩虹.md)<rt>ㄑㄚㄧㄏㄛㄫ</rt></ruby>: a rainbow.
 - <ruby>[凍結](../words/凍結.md)<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby>: to freeze.
 - <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>: climate.
