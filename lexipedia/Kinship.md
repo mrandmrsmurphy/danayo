@@ -130,8 +130,8 @@ Resolved 2026-09-21: "nephew via a brother" was a documented gap through most of
 Vocabulary here describes a relationship or role rather than a fixed rung on the generational ladder.
 
 - <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry.
-- <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s more everyday sense.
-- <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage.
+- <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s two-sided, exchange-between-households sense.
+- <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage; the two-sided exchange between households, contrasted with [[婚姻]] (formal/legal) and [[結婚]] (the contract).
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
 - <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
