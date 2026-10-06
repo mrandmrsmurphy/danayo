@@ -64,6 +64,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[鴻鵠](../words/鴻鵠.md)<rt>ㄏㄛㄫㄏㄛㄎ</rt></ruby>: swan, wild swan.
 - <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
+- <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [[堅魚]].
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
 - <ruby>[猛禽](../words/猛禽.md)<rt>ㄇㄚㄫㄎㄧㄇ</rt></ruby>: bird of prey.
 - <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.

@@ -51,6 +51,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[側面](../words/側面.md)<rt>ㄐㄧㄎㄇ⼶ㄋ</rt></ruby>: a side, aspect, lateral side.
 - <ruby>[沿](../words/沿.md)<rt>⼔ㄇ</rt></ruby>: an edge, side.
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: a side, edge, border.
+- <ruby>[地境](../words/地境.md)<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby>: a land boundary — the line where one territory or plot ends; narrower than [[辺界]]'s general edge, and not [[国境]] (a national border).
 - <ruby>[涯](../words/涯.md)<rt>⼘ㄧ</rt></ruby>: horizon, shore, border — a near-synonym of [[辺界]]/[[沿]], but skewing literary/figurative (天涯, "the ends of the earth"; 生涯, "one's whole life"), rather than a plain physical edge.
 - <ruby>[隅](../words/隅.md)<rt>ㄨㄛ</rt></ruby>: a nook, corner, side.
 - <ruby>[並](../words/並.md)<rt>ㄅㄝㄫ</rt></ruby>: side by side.

@@ -54,6 +54,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[或然](../words/或然.md)<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby>: probable, contingent — pairs with [[必然]] "necessary" the way classical logic contrasts the two.
 - <ruby>[蓋然](../words/蓋然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: highly probable, likely, plausible.
 - <ruby>[概然](../words/概然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: generally so, roughly true, broadly speaking — contrasts with "certain" above by degree of approximation, not likelihood.
+- <ruby>[大概](../words/大概.md)<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby>: for the most part, generally, approximately; also, loosely, "probably" — the everyday adverb in the same approximation register as [[概然]], not a graded-likelihood word.
 - <ruby>[偶然](../words/偶然.md)<rt>ㄛㄨㄋ⼶ㄋ</rt></ruby>: accidental, coincidental, random — chance itself, distinct from this cluster's own graded *likelihood* vocabulary (偶然性, "randomness, contingency").
 - <ruby>[当然](../words/当然.md)<rt>ㄉㄚㄫㄋ⼶ㄋ</rt></ruby>: of course, natural, inevitable — an epistemic-certainty adverb sitting near the top of this gradient, alongside [[必然]].
 - <ruby>[実際](../words/実際.md)<rt>ㄙㄧㄊㄐㄝ</rt></ruby>: actual, real, in fact.

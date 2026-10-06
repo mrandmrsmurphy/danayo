@@ -97,6 +97,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[意思](../words/意思.md)<rt>ㄜㄙㄚ</rt></ruby>: intent, intention, opinion, mind.
 - <ruby>[傾向](../words/傾向.md)<rt>ㄎㄝㄫㄏ⼘ㄫ</rt></ruby>: a tendency, inclination, drift — a predisposition in preference, politics, or personality, distinct from [[傾斜]]'s own concrete physical slope.
 - <ruby>[夢](../words/夢.md)<rt>ㄇㄨㄫ</rt></ruby>: a dream — while sleeping; see [[Existence]] for its own citation there.
+- <ruby>[夢嫌](../words/夢嫌.md)<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby>: a nightmare — the bad dream conceived as a spirit pressing on the sleeper (夢魘); the dream itself is [[夢]].
 - <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: an ideal, a dream — an aspiration, not a sleeping vision; see [[Existence]] for its own citation there.
 
 ### Indicating & Representing
