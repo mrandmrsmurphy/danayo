@@ -36,15 +36,20 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[三稜鏡](../words/三稜鏡.md)<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby>: a prism — literally "three-edge lens," the light-dispersing optical instrument.
 - <ruby>[陰影](../words/陰影.md)<rt>ㄧㄇ·⼶ㄫ</rt></ruby>: a shadow.
 - <ruby>[閃光](../words/閃光.md)<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby>: a flash of light, a glint.
+- <ruby>[光芒](../words/光芒.md)<rt>ㄎ⺢ㄫㄇ⼘ㄫ</rt></ruby>: rays, radiance, a beam of light — 光 "light" + 芒 "ray, point," the points of light thrown off by a bright source; figuratively, a person's brilliance.
 - <ruby>[虹霓](../words/虹霓.md)<rt>ㄏㄛㄫㄝㄧ</rt></ruby>: neon, neon light — classically the double rainbow, repurposed in Dan'a'yo for the vivid glow of neon; the element is [[虹素]].
 
-**Not yet coined**: "ray" (of light) has no dedicated word — [[鱏]], which glosses "ray," names the fish (a stingray/skate), not a beam of light, and is not the referent here.
+### Darkness
+
+- <ruby>[暗黒](../words/暗黒.md)<rt>ㄚㄇㄏㄨㄎ</rt></ruby>: dark, pitch black.
+- <ruby>[黒暗](../words/黒暗.md)<rt>ㄏㄨㄎ·ㄚㄇ</rt></ruby>: pure blackness, darkness — the noun-like state of darkness, carrying cosmological and moral weight (see Semantic Range Notes).
 
 ### Fire & Combustion
 
 - <ruby>[爆発](../words/爆発.md)<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby>: to explode, an explosion.
 - <ruby>[破裂](../words/破裂.md)<rt>ㄆㄜㄌㄝㄊ</rt></ruby>: to rupture, burst, crack.
 - <ruby>[焼灼](../words/焼灼.md)<rt>ㄙ⼄ㄨㄐㄚㄎ</rt></ruby>: to burn — specifically to cauterize or scorch, a narrower technical/medical sense than the general [[燃焼]].
+- <ruby>[灯心](../words/灯心.md)<rt>ㄉㄨㄫㄙㄧㄇ</rt></ruby>: a lamp wick — the "heart of the lamp" that draws fuel up to the flame.
 - <ruby>[尞](../words/尞.md)<rt>ㄌ⼘</rt></ruby>: a bonfire, sacrificial firewood — a revived archaic root (the shared phonetic ancestor behind 僚/寮/療/瞭/遼), reclaiming the oracle-bone sense those descendants long ago drifted away from.
 
 ## Advanced / Specialized (C1+)
@@ -53,11 +58,17 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[暗影](../words/暗影.md)<rt>ㄚㄇ·⼶ㄫ</rt></ruby>: an umbra, deep shadow, gloom — a darker, more literary register than the plain [[陰影]].
 - <ruby>[昭](../words/昭.md)<rt>ㄐㄛㄨ</rt></ruby>: to shine, luminous — a literary-register true homophone of [[照]] (both ㄐㄛㄨ), confirmed by 昭's own Notes as part of a three-way homophone group with [[焦]] ("burned, scorched").
 
+- <ruby>[昭明](../words/昭明.md)<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby>: shining and bright, luminous — a literary fixed compound of [[昭]] + [[明]].
+- <ruby>[照耀](../words/照耀.md)<rt>ㄐㄛㄨ⼄ㄨ</rt></ruby>: to shine upon, illuminate, radiate — literary and elevated; everyday contexts prefer 照射 or 照明.
+- <ruby>[陽](../words/陽.md)<rt>⼘ㄫ</rt></ruby>: to shine; also the sun or the yang principle (as in 陰陽). A three-way homophone with [[揚]] and [[様]] (all ⼘ㄫ).
+
 ## Semantic Range Notes
 
 **"Dark" splits by connotation, not just degree**: English "dark" covers one plain idea; Dan'a'yo (following Chinese) has several words that name a *kind* of darkness. [[暗]] is the plain, unmarked word — the one used here. [[冥]] leans toward gloom and the underworld (冥界, the realm of the dead). [[幽]] is darkness understood as seclusion and quiet rather than an absence of light as such. [[昧]] is darkness as ignorance or moral confusion ("benighted"), a metaphorical extension rather than a literal one. None of these three is included as its own Light.md entry, since each belongs more properly to a different domain (the afterlife, solitude, or ignorance) than to light itself — but a learner reaching for "dark" in a Dan'a'yo-to-English direction needs to know 暗 is the default, not these.
 
 **照/昭 are true homophones, not near-synonyms with a hidden split**: both are read ㄐㄛㄨ and both mean "shine." 昭's own Notes confirm this directly, as part of a three-way homophone group with [[焦]] ("burned, scorched") — checked exhaustively against six other candidate characters at the same reading, none of which turned out to have an independent word. The distinction between them is register (照 common, 昭 literary), not meaning.
+
+**暗黒 and 黒暗 are reversed-order doublets, with at most a tendency to split**: both are 暗 "dark" + 黒 "black" and neither word's own Notes records a firm distinction. The stored glosses lean differently, though — [[暗黒]] is "dark, pitch black" (a degree or quality), while [[黒暗]] is "pure blackness, darkness" and its Notes develop it as the counterpart of [[光明]], with Daoist, Buddhist (see [[無明]]), and moral resonance. Treat that as a learner's rule of thumb rather than a confirmed split, closer to the 火炎/火焰 case below than to the 照/昭 homophones.
 
 **火炎 and 火焰 are undocumented duplicates, not a confirmed split**: both independently gloss "flame, blaze," with no recorded distinction between them in either word's own Notes — closer to the unresolved [[親族]]/[[親戚]] case on [[Kinship]] than to a real semantic split. [[火炎]] is used as this page's own entry; [[火焰]] is flagged here rather than silently duplicated.
 

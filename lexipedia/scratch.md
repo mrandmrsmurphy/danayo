@@ -10,7 +10,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Calendar**: 54
 - **Geography**: 95
 - **Life**: 14
-- **Light**: 8
+- **Light**: 1
 - **Locatives**: 4
 - **Measurement**: 2
 - **Mind**: 11
@@ -1515,15 +1515,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[逝去]] — pass away, die
 - [[養殖]] — cultivate, breed
 
-## Light (8)
-- [[光芒]] — rays, radiance, beam of light
+## Light (1)
 - [[孔明]] — bright, clean
-- [[昭明]] — shining and bright, luminous
-- [[暗黒]] — dark, pitch black
-- [[灯心]] — wick; lamp wick
-- [[照耀]] — to shine upon, to illuminate, to radiate
-- [[陽]] — shine
-- [[黒暗]] — pure blackness, darkness
 
 ## Locatives (4)
 
