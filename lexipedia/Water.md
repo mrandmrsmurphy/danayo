@@ -67,6 +67,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[渦流](../words/渦流.md)<rt>ㄍ⺢ㄌ⼜</rt></ruby>: whirlpool, eddy (also "eddy current" in physics).
 - <ruby>[亘](../words/亘.md)<rt>ㄏ⺢ㄋ</rt></ruby>: swirl, whirlpool — an archaic sense of the character, now obsolete in every daughter language (which instead use 亘 for the unrelated "to span, extend continuously" sense it was conflated with).
 - <ruby>[洪水](../words/洪水.md)<rt>ㄏㄛㄫㄙㄨ</rt></ruby>: flood, deluge — the standard, everyday word; see Semantic Range Notes for its rarer variants on the Advanced tier.
+- <ruby>[堤防](../words/堤防.md)<rt>ㄙㄝㄅㄚㄫ</rt></ruby>: a dike, levee, embankment.
 - <ruby>[大水](../words/大水.md)<rt>ㄉㄚㄧㄙㄨ</rt></ruby>: great waters, an inundation — a near-synonym of [[洪水]], more colloquial and more common in southern Chinese varieties.
 
 ### Cleanliness & Flow

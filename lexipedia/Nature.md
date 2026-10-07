@@ -50,6 +50,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 ### Landforms & Terrain
 
 - <ruby>[高峰](../words/高峰.md)<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>: a peak, summit — the top of a mountain, and figuratively the apex of anything; [[山]] is the mountain itself.
+- <ruby>[地形](../words/地形.md)<rt>ㄉㄧㄜㄏㄝㄫ</rt></ruby>: terrain, topography, landform.
 - <ruby>[山岡](../words/山岡.md)<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>: a hill, hillock — an undocumented near-duplicate of [[丘]].
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].
@@ -75,6 +76,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[凝結](../words/凝結.md)<rt>ㄜㄫㄍㄝㄊ</rt></ruby>: to congeal, coagulate, condense.
 - <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>: climate.
 - <ruby>[気象](../words/気象.md)<rt>ㄎㄧㄜㄙ⼘ㄫ</rt></ruby>: weather, meteorology.
+- <ruby>[天気](../words/天気.md)<rt>ㄊㄝㄋㄎㄧㄜ</rt></ruby>: weather.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky — see [[Astronomy]] for its own citation there.
 
 ### Caves
@@ -95,6 +97,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 ### Garden & Cultivated Land
 
 - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫㄛㄋ</rt></ruby>: a garden — see [[Buildings]] for its own citation there.
+- <ruby>[園丁](../words/園丁.md)<rt>ㄛㄋㄉㄝㄫ</rt></ruby>: a gardener.
 - <ruby>[薮沢](../words/薮沢.md)<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>: a marsh, swamp.
 - <ruby>[沼沢](../words/沼沢.md)<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>: a swamp, bog — an undocumented near-duplicate of [[薮沢]].
 
@@ -105,6 +108,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: the earth, globe, world — see [[Astronomy]] for its own citation there; the planet specifically, distinct from [[世界]]'s human/social world.
 - <ruby>[万邦](../words/万邦.md)<rt>ㄇㄛㄋㄅㄚㄫ</rt></ruby>: the world, all the countries, myriad regions — the collective-political sense (all nations), a literary register distinct from [[世界]]'s everyday "world."
 - <ruby>[津波](../words/津波.md)<rt>ㄐㄧㄋㄅㄚ</rt></ruby>: a tsunami.
+- <ruby>[地震](../words/地震.md)<rt>ㄉㄧㄜㄐㄧㄋ</rt></ruby>: an earthquake.
 - <ruby>[海粛](../words/海粛.md)<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby>: a tsunami — an undocumented near-duplicate of [[津波]], using a phonetic-substitute graph (粛 standing in for 嘯) for the real word 海嘯.
 
 ## Semantic Range Notes

@@ -21,6 +21,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel. See [Shape](../lexipedia/Shape.md) for its own citation there.
 - <ruby>[使用](../words/使用.md)<rt>ㄙㄧ⼄ㄫ</rt></ruby>: to use.
 - <ruby>[利用](../words/利用.md)<rt>ㄌㄧㄜ⼄ㄫ</rt></ruby>: to use, utilise — "use for profit," more purposeful than 使用.
+- <ruby>[善用](../words/善用.md)<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby>: to put to good use.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare. See [Mind](../lexipedia/Mind.md) for its own citation there.
 
 **Not yet coined**: "bolt," "engine," "mechanical," "waste," "ready," and "switch" all have no dedicated Dan'a'yo word yet.

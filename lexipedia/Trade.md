@@ -24,11 +24,13 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
 - <ruby>[割引](../words/割引.md)<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby>: a discount.
+- <ruby>[国庫](../words/国庫.md)<rt>ㄍㄛㄎㄎㄛ</rt></ruby>: the national treasury, exchequer.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
 - <ruby>[便宜](../words/便宜.md)<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby>: cheap, inexpensive (in Mandarin/Cantonese) — a genuine cross-linguistic heteronym: the same compound means "convenience, expediency" in Japanese/Korean instead, not "cheap" at all.
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: cheap, low-priced (廉価, "low price") — a secondary sense of the same word whose primary sense is "upright, honest," housed on [Society](../lexipedia/Society.md).
 - <ruby>[費](../words/費.md)<rt>ㄈㄚㄧ</rt></ruby>: an expense, a cost — also, as a verb, "to spend, to waste" (浪費, "to waste"; 費用, "expense, cost").
 - <ruby>[品](../words/品.md)<rt>ㄆㄨㄇ</rt></ruby>: an article, item, product (品目, "inventory entry") — the general word for a good or piece of merchandise, not previously cited on this page.
+- <ruby>[品目](../words/品目.md)<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby>: an article, item, listing.
 
 **Not yet coined**: "account," "deal," "due," and "offer" all have no dedicated Dan'a'yo word yet.
 
@@ -61,6 +63,9 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
 - <ruby>[償還](../words/償還.md)<rt>ㄙ⼘ㄫㄏ⺢ㄋ</rt></ruby>: repayment, restitution, compensation — returning what is owed; financial and legal only, not the theological [[救贖]] (see [Christianity](../lexipedia/基督敎.md)).
 - <ruby>[賠償](../words/賠償.md)<rt>ㄅㄛㄧㄙ⼘ㄫ</rt></ruby>: to compensate, pay damages — to pay for a loss or harm one has caused (損害賠償, "damages"; 戦争賠償, "war reparations"); compensation for a wrong, as against [[償還]]'s repayment of what is owed.
+- <ruby>[報償](../words/報償.md)<rt>ㄅㄚㄨㄙ⼘ㄫ</rt></ruby>: to compensate, pay reparations.
+- <ruby>[報答](../words/報答.md)<rt>ㄅㄚㄨㄉㄚㄆ</rt></ruby>: to reward, requite.
+- <ruby>[報酬](../words/報酬.md)<rt>ㄅㄚㄨㄙㄨㄛ</rt></ruby>: a reward, remuneration.
 - <ruby>[充当](../words/充当.md)<rt>ㄑㄨㄫㄉㄚㄫ</rt></ruby>: to allocate, apply funds toward — to earmark a store of money or resources for a designated use (the bureaucratic act of allocating from a budget); directing a filled store to a purpose, where [[充足]] describes the store as sufficient.
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
@@ -94,6 +99,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 ### Money & Currency
 
 - <ruby>[貨幣](../words/貨幣.md)<rt>ㄏ⺢·ㄆㄝ</rt></ruby>: money, currency.
+- <ruby>[外貨](../words/外貨.md)<rt>⺢ㄧㄏ⺢</rt></ruby>: foreign goods, foreign currency.
 - <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: money, currency — an undocumented near-duplicate of [[貨幣]].
 - <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.

@@ -30,6 +30,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[至善](../words/至善.md)<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby>: the highest good, summum bonum — from the Great Learning (大學).
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
 - <ruby>[公明](../words/公明.md)<rt>ㄍㄛㄫㄇ⼶ㄫ</rt></ruby>: just and open — 公 "public" + 明 "clear."
+- <ruby>[天真](../words/天真.md)<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby>: innocent, naive, artless.
 - <ruby>[批評](../words/批評.md)<rt>ㄆㄝㄧㄅ⼶ㄫ</rt></ruby>: criticism, review, critique — 批 "criticise" + 評 "evaluate."
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
 - <ruby>[拙劣](../words/拙劣.md)<rt>ㄐ⼔ㄊㄌㄝㄊ</rt></ruby>: clumsy, inept, crude — poorly made or poorly done, both unskilled and of low quality (crude writing, a bungled imitation); a literary register, close to [[悪劣]]'s vile inferiority but about lack of skill rather than moral badness.
@@ -111,6 +112,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[奇怪](../words/奇怪.md)<rt>ㄍㄨㄧㄍ⺢ㄧ</rt></ruby>: odd.
 - <ruby>[怪異](../words/怪異.md)<rt>ㄍ⺢ㄧㄧ</rt></ruby>: strange — a near-synonym of [[奇怪]]; see also [[奇妙]] ("strange, wonderful"), already used elsewhere in this vault.
+- <ruby>[奇妙](../words/奇妙.md)<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>: amazing, strange, wondrous.
 - <ruby>[熟知](../words/熟知.md)<rt>ㄙㄨㄎㄐㄨㄧ</rt></ruby>: familiar — "well acquainted with," the relational sense.
 - <ruby>[日用](../words/日用.md)<rt>ㄋㄧㄊ⼄ㄫ</rt></ruby>: daily use, everyday — attributive, of things for ordinary daily use (日用品, "daily necessities"; 日用語, "everyday vocabulary"); half of the chengyu 日用必備.
 - <ruby>[極端](../words/極端.md)<rt>ㄍㄧㄎㄉ⺢ㄋ</rt></ruby>: extreme — the clean, direct adjective.
@@ -124,6 +126,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 ### Hardness
 
 - <ruby>[硬](../words/硬.md)<rt>ㄚㄫ</rt></ruby>: hard — the physical sense. See [Shape](../lexipedia/Shape.md) for its own citation there.
+- <ruby>[堅牢](../words/堅牢.md)<rt>ㄍㄝㄋㄌㄚㄨ</rt></ruby>: strong, robust, durable.
 - <ruby>[嫩](../words/嫩.md)<rt>ㄋㄛㄋ</rt></ruby>: delicate — tender, as of meat or skin.
 - <ruby>[柔](../words/柔.md)<rt>ㄋ⼜</rt></ruby>: soft. See [Efforts](../lexipedia/Efforts.md) for its own citation there.
 - <ruby>[柔軟](../words/柔軟.md)<rt>ㄋ⼜·ㄋㄝㄋ</rt></ruby>: soft — a near-synonym of [[柔]]. See [Efforts](../lexipedia/Efforts.md) for its own citation there.

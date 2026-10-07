@@ -31,6 +31,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[内省](../words/内省.md)<rt>ㄋㄛㄧㄙ⼶ㄫ</rt></ruby>: to reflect, introspect, examine oneself.
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
+- <ruby>[大事](../words/大事.md)<rt>ㄉㄚㄧㄐㄧ</rt></ruby>: an important matter.
 - <ruby>[優先](../words/優先.md)<rt>ㄨㄛㄙㄝㄋ</rt></ruby>: to take priority, precedence.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.
 - <ruby>[必](../words/必.md)<rt>ㄅㄧㄊ</rt></ruby>: surely, definitely — the bound root behind [[必要]] above and 必然 ("necessary, inevitable," the top of [Knowledge](../lexipedia/Knowledge.md)'s own epistemic-certainty gradient, referenced there but not yet its own word page).

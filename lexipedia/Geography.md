@@ -191,6 +191,7 @@ State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a f
 <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[組織](words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
 - <ruby>[他国](../words/他国.md)<rt>ㄊㄜㄍㄛㄎ</rt></ruby>: another country, other countries — relative to a stated reference country, unlike [[外国]].
+- <ruby>[国別](../words/国別.md)<rt>ㄍㄛㄎㄅㄝㄊ</rt></ruby>: by country, country-by-country.
 - <ruby>[外国](../words/外国.md)<rt>⺢ㄧㄍㄛㄎ</rt></ruby>: a foreign country.
 - <ruby>[地方](../words/地方.md)<rt>ㄉㄧㄜㄈㄚㄫ</rt></ruby>: a region, territory.
 - <ruby>[諸国](../words/諸国.md)<rt>ㄐㄚㄍㄛㄎ</rt></ruby>: various countries, the nations.

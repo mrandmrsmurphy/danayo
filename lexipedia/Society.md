@@ -80,6 +80,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[土著](../words/土著.md)<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby>: aborigine, aboriginal, indigenous — the closest existing word to Rosenfelder's "native," though its primary sense is narrower. See Semantic Range Notes.
 - <ruby>[本地](../words/本地.md)<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby>: local, of this locality — a milder complement to [[土著]]. See Semantic Range Notes.
 - <ruby>[居住](../words/居住.md)<rt>ㄍㄧㄐㄨ</rt></ruby>: to reside, dwell.
+- <ruby>[同居](../words/同居.md)<rt>ㄉㄛㄫㄍㄧ</rt></ruby>: to live together, cohabit.
 
 ### Peoples & Ethnicity
 
@@ -258,6 +259,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[恒例](../words/恒例.md)<rt>ㄏㄨㄫㄌㄝ</rt></ruby>: an established practice, custom.
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[各位](../words/各位.md)<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby>: ladies and gentlemen — a respectful address to a group.
+- <ruby>[大家](../words/大家.md)<rt>ㄉㄚㄧㄍㄚ</rt></ruby>: everyone (Mandarin, Cantonese).
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[五礼](../words/五礼.md)<rt>ㄛㄌㄝㄧ</rt></ruby>: the Five Rites — the classical Zhou-dynasty classification of all ceremony into auspicious, inauspicious (funerary), guest, military, and festive rites; first of the Six Arts (六芸, alongside [[五射]] on [War](../lexipedia/War.md)).
 - <ruby>[六楽](../words/六楽.md)<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby>: the Six Musics — the second of the Six Arts of Zhou noble education, six ceremonial dance-and-music suites from the 周禮; the 楽 here is read yuè (music), not lè (joy), as the Notes explain, and follows [[五礼]].

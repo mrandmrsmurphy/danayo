@@ -157,6 +157,7 @@ language: English
 - <ruby>[家具](../words/家具.md)<rt>ㄍㄚㄍㄨ</rt></ruby>: furniture (the general noun this whole section covers).
 - bed - <ruby>[床](../words/床.md)<rt>ㄙ⼘ㄇ</rt></ruby>
 - chair - <ruby>[椅子](../words/椅子.md)<rt>ㄜㄧㄐㄜ</rt></ruby>
+- <ruby>[坐席](../words/坐席.md)<rt>ㄐ⺢ㄙㄝㄎ</rt></ruby>: a seat, mat.
 - curtain - <ruby>[幕](../words/幕.md)<rt>ㄇㄚㄎ</rt></ruby>
 - folding screen - <ruby>[屏風](../words/屏風.md)<rt>ㄅㄧㄫㄈㄨㄫ</rt></ruby>
 - desk - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby> (same word as "table" below — 桌's own gloss already covers table/desk/stand together; Dan'a'yo doesn't split these the way English does)

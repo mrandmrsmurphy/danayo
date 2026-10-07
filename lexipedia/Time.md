@@ -15,6 +15,8 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[時間](../words/時間.md)<rt>ㄙㄧㄍㄚㄋ</rt></ruby>: time — the plain, everyday noun.
+- <ruby>[時差](../words/時差.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: time difference, jet lag.
+- <ruby>[秒](../words/秒.md)<rt>ㄇ⼄ㄨ</rt></ruby>: a second (unit of time).
 - <ruby>[時](../words/時.md)<rt>ㄙㄧ</rt></ruby>: time — the noun and the correlative row heading (此時 "now," 其時 "then").
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[最近](../words/最近.md)<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby>: lately, recently.

@@ -26,6 +26,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[参差](../words/参差.md)<rt>ㄙㄚㄇㄑㄚ</rt></ruby>: irregular, uneven.
 
 - <ruby>[坑](../words/坑.md)<rt>ㄎㄚㄫ</rt></ruby>: a pit, hole, hollow — a depression in the ground, whether natural or dug; broader than [[巣穴]]/[[洞穴]] (both housed on [Nature](../lexipedia/Nature.md)) but still tied to "in the ground," not a fully generic "hole."
+- <ruby>[坑道](../words/坑道.md)<rt>ㄎㄚㄫㄉㄚㄨ</rt></ruby>: a tunnel, mine passage.
 - <ruby>[孔](../words/孔.md)<rt>ㄎㄛㄫ</rt></ruby>: a hole, cavity, opening (毛孔, "pore"; 鼻孔, "nostril") — a small perforation through a surface, yet another narrow sense rather than the fully generic noun.
 - <ruby>[空隙](../words/空隙.md)<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby>: a gap.
 

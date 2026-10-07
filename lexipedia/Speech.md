@@ -39,6 +39,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Naming
 
 - <ruby>[名](../words/名.md)<rt>ㄇㄧㄫ</rt></ruby>: a name — the plain basic noun.
+- <ruby>[名字](../words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby>: a personal name.
 - <ruby>[名称](../words/名称.md)<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby>: a name. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
 - <ruby>[命名](../words/命名.md)<rt>ㄇ⼶ㄫㄇㄧㄫ</rt></ruby>: to name — the verb.
 - <ruby>[謂之](../words/謂之.md)<rt>ㄨㄧ·ㄊㄧ</rt></ruby>: to be called, named X — a classical/literary construction, distinct register from [[命名]].
@@ -59,6 +60,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[詰問](../words/詰問.md)<rt>ㄎㄧㄊㄇㄨㄋ</rt></ruby>: to interrogate, press with questions — to question closely and sharply, demanding an account or justification (cross-examination in reproach); the hard form of [[質問]]'s plain asking.
 - <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, request, please. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request, claim. See [Mind](../lexipedia/Mind.md) for its own citation there.
+- <ruby>[哀求](../words/哀求.md)<rt>ㄚㄧㄍ⼜ㄛ</rt></ruby>: to implore, entreat, beg piteously.
 - <ruby>[要請](../words/要請.md)<rt>⼄ㄨㄑㄧㄫ</rt></ruby>: to request, demand — a more formal/official register than [[要求]]'s forceful claim.
 - <ruby>[催](../words/催.md)<rt>ㄑㄛㄧ</rt></ruby>: to press, urge, hasten (someone to do something) — urging someone into action, distinct from [[要求]]/[[要請]]'s plain demand or request.
 - <ruby>[督促](../words/督促.md)<rt>ㄉㄛㄎㄑㄛㄎ</rt></ruby>: to urge, press, supervise and hurry — to oversee someone and press them to carry out a duty (督促状, "a reminder letter"); an official, supervisory urging, stronger than [[催]]'s plain pressing.
@@ -76,6 +78,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 - <ruby>[報](../words/報.md)<rt>ㄅㄚㄨ</rt></ruby>: to report, tell — the plain basic word.
 - <ruby>[報告](../words/報告.md)<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby>: to report, inform, advise — conveying information formally.
+- <ruby>[報道](../words/報道.md)<rt>ㄅㄚㄨㄉㄚㄨ</rt></ruby>: to cover the news, report on.
 - <ruby>[忠告](../words/忠告.md)<rt>ㄊㄨㄫㄍㄚㄨ</rt></ruby>: to advise — earnest, well-meaning counsel, distinct from [[報告]]'s secondary "advise" sense.
 - <ruby>[勧告](../words/勧告.md)<rt>ㄎㄨㄋㄍㄚㄨ</rt></ruby>: a recommendation, advisory — formal advice urging someone to act in a given way (an official recommendation or warning from an authority, 勧告を受ける "to be advised"); more formal and institutional than [[忠告]]'s personal counsel.
 - <ruby>[報知](../words/報知.md)<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby>: to inform, report, notify.

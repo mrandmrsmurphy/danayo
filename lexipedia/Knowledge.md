@@ -22,8 +22,10 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
 - <ruby>[同学](../words/同学.md)<rt>ㄉㄛㄫㄏㄚㄎ</rt></ruby>: a schoolmate, classmate.
+- <ruby>[同窓](../words/同窓.md)<rt>ㄉㄛㄫㄑ⺢ㄫ</rt></ruby>: alumni, schoolmates — "same window."
 - <ruby>[卒業](../words/卒業.md)<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby>: to graduate, graduation — completion of studies.
 - <ruby>[先生](../words/先生.md)<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>: Mr., sir; teacher.
+- <ruby>[夫子](../words/夫子.md)<rt>ㄈㄜㄐㄜ</rt></ruby>: Confucius, the Master.
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
 - <ruby>[学習](../words/学習.md)<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>: to study, to learn.
 - <ruby>[学習者](../words/学習者.md)<rt>ㄏㄚㄎㄙㄜㄆㄑㄚ</rt></ruby>: a learner.
@@ -92,6 +94,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[分類](../words/分類.md)<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby>: to classify, classification — the act of sorting into kinds ([[種類]]); the science of it is [[分類学]].
 - <ruby>[区分](../words/区分.md)<rt>ㄎㄨㄅㄨㄋ</rt></ruby>: to differentiate, set apart.
 - <ruby>[区別](../words/区別.md)<rt>ㄎㄨㄅㄝㄊ</rt></ruby>: to distinguish, classify.
+- <ruby>[図表](../words/図表.md)<rt>ㄉㄛㄅ⼘ㄨ</rt></ruby>: a diagram, chart, graph.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
 - <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.
@@ -109,6 +112,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[説明](../words/説明.md)<rt>ㄙ⼔ㄊㄇ⼶ㄫ</rt></ruby>: to explain, illustrate.
 - <ruby>[解釈](../words/解釈.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: interpretation, to interpret — explaining what something means, in law (a statute), literary or scriptural exegesis, or everyday meaning; "unpacking" meaning, where [[説明]] is explaining or illustrating.
 - <ruby>[要旨](../words/要旨.md)<rt>⼄ㄨㄐㄧㄜ</rt></ruby>: the gist, summary, main point — the essential point of a text or argument, with the same sense in Mandarin, Korean and Japanese; beside [[解釈]] and [[説明]], for the point rather than the explaining.
+- <ruby>[大旨](../words/大旨.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>: the main idea, gist.
 - <ruby>[叙述](../words/叙述.md)<rt>ㄙ⼄ㄙㄨㄊ</rt></ruby>: to narrate, describe.
 - <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: argument, controversy, contention.
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to comment, discuss.
@@ -194,6 +198,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[英俊](../words/英俊.md)<rt>ㄝㄫㄐㄨㄋ</rt></ruby>: wise, heroic, handsome, talented.
 - <ruby>[英才](../words/英才.md)<rt>ㄝㄫㄐㄚㄧ</rt></ruby>: a gifted talent, prodigy.
 - <ruby>[才媛](../words/才媛.md)<rt>ㄐㄚㄧㄛㄋ</rt></ruby>: a talented woman — gifted by learning and art, the female counterpart of the scholar-poet ideal; not [[名媛]] (a woman of fame and standing).
+- <ruby>[名媛](../words/名媛.md)<rt>ㄇㄧㄫㄛㄋ</rt></ruby>: a famous woman.
 - <ruby>[賢明](../words/賢明.md)<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>: wise.
 - <ruby>[智慧](../words/智慧.md)<rt>ㄐㄨㄧㄏ⼔ㄧ</rt></ruby>: wisdom, intelligence.
 - <ruby>[知性](../words/知性.md)<rt>ㄐㄨㄧㄙㄧㄫ</rt></ruby>: intelligent, smart, knowledgeable.

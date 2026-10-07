@@ -94,6 +94,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
 - <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby>: uvula.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
+- <ruby>[含漱](../words/含漱.md)<rt>ㄏㄚㄇㄙㄛㄨ</rt></ruby>: to gargle.
 - <ruby>[歯齦](../words/歯齦.md)<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby>: gingiva, gums.
 - <ruby>[歯痛](../words/歯痛.md)<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby>: toothache.
 - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚㄚㄎ</rt></ruby>: jaw/chin.
@@ -113,8 +114,12 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ### Reproductive & Excretory
 
 - <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby>: nipple.
+- <ruby>[哺乳](../words/哺乳.md)<rt>ㄅㄛ·ㄋㄨ</rt></ruby>: to breastfeed, suckle.
 - <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy (clinical/formal register).
+- <ruby>[堕胎](../words/堕胎.md)<rt>ㄉ⺢·ㄊㄚㄧ</rt></ruby>: to abort; abortion.
 - <ruby>[妊](../words/妊.md)<rt>ㄋㄧㄇ</rt></ruby>: to be pregnant, conceive — the bound root behind [[妊娠]] above.
+- <ruby>[割包皮](../words/割包皮.md)<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby>: circumcision.
+- <ruby>[奄人](../words/奄人.md)<rt>⼶ㄇㄋㄧㄋ</rt></ruby>: a eunuch, castrato.
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, be pregnant (the everyday Mandarin verb, 懷孕/怀孕).
 - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
 - <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.

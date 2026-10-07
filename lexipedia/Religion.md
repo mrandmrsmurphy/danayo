@@ -32,6 +32,9 @@ Religion vocabulary covers general cross-cultural religious concepts — gods, s
 
 - <ruby>[因縁](../words/因縁.md)<rt>ㄧㄋ·⼶ㄋ</rt></ruby>: fate, karma, a predestined bond — the specifically Buddhist causal-fate concept.
 - <ruby>[宿命](../words/宿命.md)<rt>ㄙㄨㄎㄇ⼶ㄫ</rt></ruby>: destiny, fate — a predetermined, inescapable destiny fixed from birth.
+- <ruby>[天祐](../words/天祐.md)<rt>ㄊㄝㄋ·⼜</rt></ruby>: divine aid, heaven's help.
+- <ruby>[天運](../words/天運.md)<rt>ㄊㄝㄋ·ㄨㄋ</rt></ruby>: fate from heaven (dated).
+- <ruby>[天道](../words/天道.md)<rt>ㄊㄝㄋㄉㄚㄨ</rt></ruby>: the Way of Heaven, law of nature; the god of heaven.
 
 The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is primarily housed on [Existence](../lexipedia/Existence.md); [[因縁]] and [[宿命]] are cited here instead for their distinctly Buddhist/religious register.
 

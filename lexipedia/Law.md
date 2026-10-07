@@ -17,6 +17,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 - <ruby>[法律](../words/法律.md)<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>: law, statute.
 - <ruby>[正義](../words/正義.md)<rt>ㄐㄧㄫㄜㄧ</rt></ruby>: justice.
+- <ruby>[大義](../words/大義.md)<rt>ㄉㄚㄧㄜㄧ</rt></ruby>: the principles of justice.
 - <ruby>[罪](../words/罪.md)<rt>ㄐㄛㄧ</rt></ruby>: sin, crime.
 - <ruby>[犯罪](../words/犯罪.md)<rt>ㄅㄚㄇㄐㄛㄧ</rt></ruby>: crime.
 - <ruby>[詐取](../words/詐取.md)<rt>ㄐㄚㄑㄛㄨ</rt></ruby>: to defraud, obtain by deception — the legal compound for fraud.

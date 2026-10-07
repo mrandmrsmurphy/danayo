@@ -18,6 +18,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[多](../words/多.md)<rt>ㄉㄜ</rt></ruby>: many, much.
+- <ruby>[多少](../words/多少.md)<rt>ㄉㄜㄙㄛㄨ</rt></ruby>: amount, quantity.
 - <ruby>[繁多](../words/繁多.md)<rt>ㄆㄚㄋㄉㄜ</rt></ruby>: varied, numerous, manifold — 繁 "lush" + 多 "many."
 - <ruby>[少](../words/少.md)<rt>ㄙㄛㄨ</rt></ruby>: few, scarce.
 - <ruby>[小](../words/小.md)<rt>ㄙㄛ</rt></ruby>: small — and, by extension, young, junior; one of the vault's most productive modifiers (小雨, "drizzle"; 小学, "elementary school").

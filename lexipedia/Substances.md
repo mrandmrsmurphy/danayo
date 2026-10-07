@@ -32,6 +32,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[緑柱石](../words/緑柱石.md)<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby>: beryl — the mineral behind emerald and aquamarine; its element is [[緑柱素]] (beryllium).
 - <ruby>[炉甘石](../words/炉甘石.md)<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby>: calamine, smithsonite — the zinc ore of traditional pharmacology and early brass-making; see [[亜鉛]].
 - <ruby>[玻璃](../words/玻璃.md)<rt>ㄆㄚㄌㄜ</rt></ruby>: glass, crystal.
+- <ruby>[塑膠](../words/塑膠.md)<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>: plastic — the modern industrial material.
 - <ruby>[璃](../words/璃.md)<rt>ㄌㄜ</rt></ruby>: glass — the bound/simpler form.
 
 ### Fabric

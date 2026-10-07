@@ -51,6 +51,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Correspondence & Documents
 
 - <ruby>[文書](../words/文書.md)<rt>ㄇㄨㄋㄙ⼄</rt></ruby>: letter, document.
+- <ruby>[名刺](../words/名刺.md)<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby>: a business card, name card.
 - <ruby>[書面](../words/書面.md)<rt>ㄙ⼄·ㄇ⼶ㄋ</rt></ruby>: written — as against spoken.
 - <ruby>[刪除](../words/刪除.md)<rt>ㄙㄚㄋㄐㄝㄧ</rt></ruby>: to delete, expunge — to strike something out of a text or record; originally the cutting of bamboo strips (冊 + 刂) to erase a character, now the standard computing term for deletion in Chinese.
 - <ruby>[書簡](../words/書簡.md)<rt>ㄙ⼄ㄍㄚㄋ</rt></ruby>: letter.
@@ -120,9 +121,11 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[写真](../words/写真.md)<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby>: a photograph.
 - <ruby>[複写](../words/複写.md)<rt>ㄅㄨㄎㄙ⼘</rt></ruby>: a copy, photocopy, carbon copy — a duplicate made from a document or image; not [[写真]] (a photograph).
 - <ruby>[塑像](../words/塑像.md)<rt>ㄙㄛㄙ⼘ㄫ</rt></ruby>: molded statue.
+- <ruby>[塑造](../words/塑造.md)<rt>ㄙㄛㄑㄚㄨ</rt></ruby>: to model, mould, shape — in sculpture or figuratively.
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
 - <ruby>[石像](../words/石像.md)<rt>ㄙㄝㄎㄙ⼘ㄫ</rt></ruby>: a stone statue — as against bronze (銅像) or wood (木像).
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
+- <ruby>[塗抹](../words/塗抹.md)<rt>ㄉㄛ·ㄇㄚㄊ</rt></ruby>: to smear, daub, scribble.
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
 - <ruby>[書道](../words/書道.md)<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby>: Japanese calligraphy, the Way of Writing — calligraphy as a discipline of self-cultivation, alongside [[武道]]; distinct from plain [[書法]].
 - <ruby>[筆順](../words/筆順.md)<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>: stroke order (the sequence in which a character's strokes are written).

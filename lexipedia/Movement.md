@@ -194,6 +194,7 @@ Paths vocabulary covers routes, journeys, and their origins and destinations —
 
 - <ruby>[方向](../words/方向.md)<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby>: orientation, course, direction, goal — see [[Directions]] for its own citation there.
 - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>: a road, path, way — see [[Buildings]] for its own citation there.
+- <ruby>[国道](../words/国道.md)<rt>ㄍㄛㄎㄉㄚㄨ</rt></ruby>: a national highway.
 - <ruby>[街道](../words/街道.md)<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>: a street, road — see [[Buildings]] for its own citation there; the urban thoroughfare specifically, distinct from [[道路]]'s general road.
 - <ruby>[衢](../words/衢.md)<rt>ㄍㄨ</rt></ruby>: a crossroads, thoroughfare — a road that branches.
 - <ruby>[軌](../words/軌.md)<rt>ㄎㄨㄧ</rt></ruby>: a track, path, rut — a worn or fixed course, distinct from [[道路]]'s general path.

@@ -139,6 +139,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[主席](../words/主席.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: a chairman, chairperson.
 - <ruby>[副](../words/副.md)<rt>ㄈㄨㄎ</rt></ruby>: vice-, deputy, secondary (副主席, "vice chairman"; 副業, "side job").
 - <ruby>[主従](../words/主従.md)<rt>ㄐㄨㄐㄛㄫ</rt></ruby>: master and servant, lord and retainer.
+- <ruby>[君臣](../words/君臣.md)<rt>ㄍㄨㄋㄙㄧㄋ</rt></ruby>: ruler and minister; fealty.
 - <ruby>[主掌](../words/主掌.md)<rt>ㄐㄨㄐㄚㄫ</rt></ruby>: to be in charge of, administer.
 - <ruby>[統率](../words/統率.md)<rt>ㄊㄛㄫㄙㄨㄊ</rt></ruby>: to command, lead.
 - <ruby>[従](../words/従.md)<rt>ㄐㄛㄫ</rt></ruby>: to obey, observe.
@@ -183,6 +184,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[提携](../words/提携.md)<rt>ㄙㄝㄏ⼔ㄧ</rt></ruby>: an alliance, cooperation, tie-up.
 - <ruby>[公約](../words/公約.md)<rt>ㄍㄛㄫ⼘ㄎ</rt></ruby>: a public pledge, election promise, treaty.
 - <ruby>[連合](../words/連合.md)<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby>: to unite, ally with; an alliance, union — 連 "linked" + 合 "join."
+- <ruby>[国連](../words/国連.md)<rt>ㄍㄛㄎㄌ⼶ㄋ</rt></ruby>: the League of Nations (国際連盟).
 
 ### The Public
 

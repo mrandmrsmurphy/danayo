@@ -27,6 +27,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[保護](../words/保護.md)<rt>ㄅㄚㄨㄏㄛ</rt></ruby>: to protect, safeguard, shield.
 - <ruby>[抵抗](../words/抵抗.md)<rt>ㄉㄝㄧㄏㄚㄫ</rt></ruby>: to resist.
 - <ruby>[剣](../words/剣.md)<rt>ㄍㄛㄇ</rt></ruby>: a sword.
+- <ruby>[双節棍](../words/双節棍.md)<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby>: nunchucks — the "double-jointed stick."
 - <ruby>[憎悪](../words/憎悪.md)<rt>ㄐㄜㄫㄚㄎ</rt></ruby>: to hate, loathe.
 - <ruby>[喪失](../words/喪失.md)<rt>ㄙㄚㄫㄙㄧㄊ</rt></ruby>: to lose. See Semantic Range Notes.
 - <ruby>[暴](../words/暴.md)<rt>ㄅㄛㄎ</rt></ruby>: violent, brutal, fierce, tyrannical.
@@ -38,6 +39,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[䦧](../words/䦧.md)<rt>ㄏㄝㄎ</rt></ruby>: to quarrel.
 - <ruby>[世仇](../words/世仇.md)<rt>ㄙㄝㄍ⼜</rt></ruby>: feud, hereditary enmity.
 - <ruby>[争端](../words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>: dispute, conflict.
+- <ruby>[喧嘩](../words/喧嘩.md)<rt>ㄏㄛㄋㄏ⺢</rt></ruby>: a commotion, brawl.
 - <ruby>[仇敵](../words/仇敵.md)<rt>ㄍ⼜ㄉㄝㄎ</rt></ruby>: enemy, foe — a near-synonym of [[敵人]].
 - <ruby>[紛争](../words/紛争.md)<rt>ㄈㄜㄋㄐㄚㄫ</rt></ruby>: dispute, conflict.
 - <ruby>[紛](../words/紛.md)<rt>ㄈㄜㄋ</rt></ruby>: numerous, disorderly, chaotic — the bound adjectival root behind [[紛争]] above, from an original image of a tangle of threads (its own semantic component 糸, "silk").
@@ -82,6 +84,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[拿捕](../words/拿捕.md)<rt>ㄋㄚㄅㄛ</rt></ruby>: to take, grasp, seize, capture.
 - <ruby>[捕](../words/捕.md)<rt>ㄅㄛ</rt></ruby>: to catch, grab — the bound root behind [[拿捕]] above (also 逮捕, "to arrest").
 - <ruby>[捕獲](../words/捕獲.md)<rt>ㄅㄛㄏ⺢ㄎ</rt></ruby>: to capture, catch.
+- <ruby>[囚徒](../words/囚徒.md)<rt>ㄙㄨㄛㄉㄛ</rt></ruby>: a prisoner, convict.
 - <ruby>[監禁](../words/監禁.md)<rt>ㄍㄚㄇㄍㄧㄇ</rt></ruby>: to imprison, incarcerate; imprisonment.
 - <ruby>[禁錮](../words/禁錮.md)<rt>ㄍㄧㄇㄍㄛ</rt></ruby>: to imprison.
 - <ruby>[俘虜](../words/俘虜.md)<rt>ㄈㄨㄌㄛ</rt></ruby>: a prisoner of war, captive.
@@ -152,6 +155,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[守護](../words/守護.md)<rt>ㄙ⼜ㄏㄛ</rt></ruby>: to guard, protect; a guardian.
 - <ruby>[防守](../words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>: to defend, guard.
 - <ruby>[防御](../words/防御.md)<rt>ㄅㄚㄫ⼄</rt></ruby>: to defend, protect, cover.
+- <ruby>[壁塁](../words/壁塁.md)<rt>ㄅㄝㄎㄌㄨㄧ</rt></ruby>: a rampart, fortification wall.
 - <ruby>[防護](../words/防護.md)<rt>ㄅㄚㄫㄏㄛ</rt></ruby>: to guard against, prevent.
 - <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: coastal defense — the specifically maritime register, historically the Ming/Qing defense against wokou pirates and Western navies.
 - <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚ·ㄆㄝ</rt></ruby>: to cover, protect.

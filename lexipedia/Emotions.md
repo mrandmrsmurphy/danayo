@@ -154,6 +154,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[受難](../words/受難.md)<rt>ㄙ⼜·ㄋㄚㄋ</rt></ruby>: to suffer hardship; the Passion (Christianity).
 - <ruby>[苦](../words/苦.md)<rt>ㄎㄛ</rt></ruby>: suffering, bitter.
 - <ruby>[苦痛](../words/苦痛.md)<rt>ㄎㄛ·ㄊㄛㄫ</rt></ruby>: agony, pain, suffering.
+- <ruby>[呻吟](../words/呻吟.md)<rt>ㄙㄧㄋ·ㄜㄇ</rt></ruby>: to moan, groan.
 - <ruby>[哭](../words/哭.md)<rt>ㄎㄛㄎ</rt></ruby>, <ruby>[泣](../words/泣.md)<rt>ㄎㄧㄆ</rt></ruby>: to cry, weep, sob.
 - <ruby>[嗚咽](../words/嗚咽.md)<rt>ㄛㄝㄋ</rt></ruby>: to sob, whimper.
 
