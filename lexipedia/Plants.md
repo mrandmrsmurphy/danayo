@@ -104,6 +104,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[草木](../words/草木.md)<rt>ㄑㄚㄨㄇㄛㄎ</rt></ruby>: greenery, plants, vegetation — the collective, blanket term.
 - <ruby>[林](../words/林.md)<rt>ㄌㄧㄇ</rt></ruby>: a grove, woods — a stand of trees, smaller than a forest, the character 林 being 木 doubled.
 - <ruby>[林業](../words/林業.md)<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby>: forestry — the industry of growing and harvesting woodland, 林 + 業 "business"; the trade built on [[林]]. Compare [[工業]] under [Trade](../lexipedia/Trade.md).
+- <ruby>[枯](../words/枯.md)<rt>ㄎㄛ</rt></ruby>: withered, dried up — of a plant that has lost its moisture and life (also figuratively, of a dry or spent state).
 - <ruby>[芝草](../words/芝草.md)<rt>ㄐㄧㄑㄚㄨ</rt></ruby>: grass, lawn/ground-cover vegetation — also, in Chinese, a synonym for the lingzhi mushroom (靈芝), an unrelated auspicious-plant sense carried by the same compound.
 - <ruby>[秀](../words/秀.md)<rt>ㄙㄨㄛ</rt></ruby>: to bear fruit, blossom, shoot — originally of a rice plant coming into bloom; by extension "outstanding, excellent" (優秀), an unrelated figurative sense also excluded as a false match on [War](../lexipedia/War.md)'s own "shoot" (the weapon) gap.
 - <ruby>[苔](../words/苔.md)<rt>ㄊㄛㄧ</rt></ruby>: moss, lichen.
