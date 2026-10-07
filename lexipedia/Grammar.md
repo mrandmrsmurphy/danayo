@@ -236,6 +236,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - neologism, a newly coined word : <ruby>[新語](../words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby>
 - honorific speech, polite language : <ruby>[敬語](../words/敬語.md)<rt>ㄍ⼶ㄫ⼄</rt></ruby>
 - international language, lingua franca, koine : <ruby>[国際語](../words/国際語.md)<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby>
+- Japanese (language), the full name, country + 語 (beside the short Sinitic [[日語]]) : <ruby>[日本語](../words/日本語.md)<rt>ㄋㄧㄊㄅㄛㄋ·⼄</rt></ruby>
 - Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 - source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>

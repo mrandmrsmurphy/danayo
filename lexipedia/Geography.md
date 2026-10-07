@@ -121,6 +121,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - <ruby>[法国](../words/法国.md)<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[高盧](../words/高盧.md)<rt>ㄍㄚㄨㄌㄛ</rt></ruby>: Gaul — the ancient Celtic region, historical, not the modern state of [[法国]].
 - <ruby>[徳国](../words/徳国.md)<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby>
+  - <ruby>[日耳曼](../words/日耳曼.md)<rt>ㄋㄧㄊㄋㄧ·ㄇㄚㄋ</rt></ruby>: Germanic — the ethno-linguistic group and adjective (the Germanic peoples and languages), not the modern state of [[徳国]].
 - <ruby>[単鷹国](../words/単鷹国.md)<rt>ㄉㄚㄋ·ㄧㄫㄍㄛㄎ</rt></ruby>: Prussia.
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
@@ -166,6 +167,7 @@ Resource distribution ([[資源]][[分布]]) and <ruby>経済<rt>ㄍㄝㄫㄐㄝ
 
 ### 北美
 - <ruby>[美国](../words/美国.md)<rt>ㄇㄧㄍㄛㄎ</rt></ruby>  
+  - <ruby>[旧金山](../words/旧金山.md)<rt>ㄍ⼜ㄛㄍㄧㄇㄙㄚㄋ</rt></ruby>: San Francisco — lit. "Old Gold Mountain," a Gold Rush-era calque (compare [[金山]]); a city, not a country.
 - <ruby>[珈拿陀](../words/珈拿陀.md)<rt>ㄎㄚ·ㄋㄚㄉㄚ</rt></ruby>
 - <ruby>[墨西哥](/words/墨西哥.md)<rt>ㄇㄨㄎㄙㄝㄧㄍㄜ</rt></ruby>
 
