@@ -22,6 +22,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
 - <ruby>[学区](../words/学区.md)<rt>ㄏㄚㄎㄎㄨ</rt></ruby>: a school district.
+- <ruby>[校区](../words/校区.md)<rt>ㄏ⼘ㄨㄎㄨ</rt></ruby>: a school district, or the campus area of a school — synonymous with [[学区]].
 - <ruby>[同学](../words/同学.md)<rt>ㄉㄛㄫㄏㄚㄎ</rt></ruby>: a schoolmate, classmate.
 - <ruby>[同窓](../words/同窓.md)<rt>ㄉㄛㄫㄑ⺢ㄫ</rt></ruby>: alumni, schoolmates — "same window."
 - <ruby>[卒業](../words/卒業.md)<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby>: to graduate, graduation — completion of studies.
@@ -148,6 +149,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[生徒](../words/生徒.md)<rt>ㄙㄚㄫㄉㄛ</rt></ruby>: pupil, student.
 - <ruby>[学寮](../words/学寮.md)<rt>ㄏㄚㄎㄌ⼘ㄨ</rt></ruby>: student dormitory.
 - <ruby>[校内](../words/校内.md)<rt>ㄏ⼘ㄨㄋㄛㄧ</rt></ruby>: on-campus, school interior.
+- <ruby>[校外](../words/校外.md)<rt>ㄏ⼘ㄨ⺢ㄧ</rt></ruby>: off-campus, outside the school — the counterpart of [[校内]].
 - <ruby>[校門](../words/校門.md)<rt>ㄏ⼘ㄨㄇㄛㄋ</rt></ruby>: school gate.
 - <ruby>[母校](../words/母校.md)<rt>ㄇㄛㄨㄏ⼘ㄨ</rt></ruby>: alma mater.
 - <ruby>[課](../words/課.md)<rt>ㄎ⺢ㄇ</rt></ruby>: lesson, chapter.
