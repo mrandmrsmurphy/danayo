@@ -51,6 +51,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[刈](../words/刈.md)<rt>⼘ㄧ</rt></ruby>: to cut, mow — grass or hair specifically.
 - <ruby>[斬](../words/斬.md)<rt>ㄐㄚㄇ</rt></ruby>: to cut, chop, sever — decisive and often violent (beheading), distinct from [[切]]'s ordinary cutting.
 - <ruby>[割](../words/割.md)<rt>ㄍㄚㄊ</rt></ruby>: to cut, divide, separate — see [[Numbers]] for its own citation there.
+- <ruby>[割断](../words/割断.md)<rt>ㄍㄚㄊㄉ⺢ㄋ</rt></ruby>: to cut off, sever — to cut something through completely so that it is divided, literally (a rope, a cord) and figuratively (ties, a connection); the stand-in for the bound character 断 in this sense.
 
 ### Joining, Linking & Connecting
 

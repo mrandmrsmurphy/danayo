@@ -44,6 +44,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[汚物](../words/汚物.md)<rt>ㄛ·ㄇㄨㄊ</rt></ruby>: dirt, filth, garbage — a cruder register than [[汚垢]], closer to waste matter.
 - <ruby>[汚染](../words/汚染.md)<rt>ㄛ·ㄋ⼄ㄇ</rt></ruby>: to pollute, contaminate — the verb of spreading filth, as opposed to [[汚垢]]/[[汚物]]'s static grime.
 - <ruby>[泥](../words/泥.md)<rt>ㄋㄝㄧ</rt></ruby>: mud — wet earth, distinct from the dry particulate words above.
+- <ruby>[壌土](../words/壌土.md)<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby>: loam, loamy soil — rich, crumbly farmland soil, a balanced mix of sand, silt and clay; the stand-in for the bound character 壌 ("soil"), here as cultivated earth rather than mud ([[泥]]) or bare ground ([[土]]).
 - <ruby>[渣](../words/渣.md)<rt>ㄐ⺢</rt></ruby>: dregs, lees, sediment — leftover residue, distinct from the raw environmental dirt/dust words above.
 - <ruby>[粉](../words/粉.md)<rt>ㄈㄨㄋ</rt></ruby>: powder.
 - <ruby>[粉末](../words/粉末.md)<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby>: powder — a compound form, an undocumented near-duplicate of [[粉]].

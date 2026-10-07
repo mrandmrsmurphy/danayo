@@ -20,6 +20,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[金銭](../words/金銭.md)<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>: money.
 - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>: a store, shop. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[舗](../words/舗.md)<rt>ㄆㄛㄨ</rt></ruby>: a store — an undocumented near-duplicate of [[商店]], with no recorded distinction between the two.
+- <ruby>[暖簾](../words/暖簾.md)<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby>: a noren, a shop-entrance curtain — the short cloth curtain hung in a shop doorway, usually bearing the shop's name or crest; also, by extension, the shop's name, credit and reputation.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.

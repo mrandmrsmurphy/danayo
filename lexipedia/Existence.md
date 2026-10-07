@@ -130,6 +130,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[不均](../words/不均.md)<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby>: uneven, unequal, imbalanced — [[平等]]'s negation (貧富不均 "inequality between rich and poor," 発展不均 "uneven development").
 - <ruby>[類似](../words/類似.md)<rt>ㄌㄨㄧㄙㄚ</rt></ruby>: to resemble, similar, analogous.
+- <ruby>[彷彿](../words/彷彿.md)<rt>ㄆㄚㄫㄈㄨㄊ</rt></ruby>: to resemble, seem like; as if, seemingly — a faint, impressionistic resemblance, closer to "as if" than to [[類似]]'s plain "similar"; the stand-in for the bound character 彿.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: model, type, pattern — classification by kind, as with a product's model number.
 - <ruby>[相対](../words/相対.md)<rt>ㄙㄚㄫㄉㄛㄧ</rt></ruby>: relative, opposite — existence and identity considered relationally rather than absolutely.
 

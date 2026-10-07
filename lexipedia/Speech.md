@@ -108,6 +108,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[風刺](../words/風刺.md)<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby>: to mock — the satirical/mockery register.
 - <ruby>[盟誓](../words/盟誓.md)<rt>ㄇ⼶ㄫㄙㄝ</rt></ruby>: to swear, vow.
 - <ruby>[虚偽](../words/虚偽.md)<rt>ㄏ⼄⼔ㄧ</rt></ruby>: a falsehood, lie — see [Sin](../lexipedia/Sin.md) for its own citation there.
+- <ruby>[捏造](../words/捏造.md)<rt>ㄋㄝㄊㄑㄚㄨ</rt></ruby>: to fabricate, make up (a story, evidence, a rumour) — to invent something that did not happen and present it as fact; the act of fabrication, as opposed to [[虚偽]]'s falsehood or [[騙]]'s deceiving a person; the stand-in for the bound character 捏.
 
 ### Manner of Speaking
 

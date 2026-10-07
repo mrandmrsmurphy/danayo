@@ -22,6 +22,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[安全](../words/安全.md)<rt>ㄚㄋㄐ⼔ㄋ</rt></ruby>: safe, secure.
 - <ruby>[太平](../words/太平.md)<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>: peaceful, peace.
 - <ruby>[勇敢](../words/勇敢.md)<rt>⼄ㄫㄍㄚㄇ</rt></ruby>: brave, courageous.
+- <ruby>[挺身](../words/挺身.md)<rt>ㄉㄝㄫㄙㄧㄋ</rt></ruby>: to step forward, put oneself forward bravely — to straighten up and offer oneself in a crisis; the act of courage, where [[勇敢]] names the trait.
 - <ruby>[英雄](../words/英雄.md)<rt>ㄝㄫㄨㄫ</rt></ruby>: hero. See Semantic Range Notes.
 - <ruby>[保護](../words/保護.md)<rt>ㄅㄚㄨㄏㄛ</rt></ruby>: to protect, safeguard, shield.
 - <ruby>[抵抗](../words/抵抗.md)<rt>ㄉㄝㄧㄏㄚㄫ</rt></ruby>: to resist.

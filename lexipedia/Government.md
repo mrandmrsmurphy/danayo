@@ -38,6 +38,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ### Monarchy & Titles
 
 - <ruby>[王位](../words/王位.md)<rt>⺢ㄫ⼔ㄧ</rt></ruby>: the throne.
+- <ruby>[冠冕](../words/冠冕.md)<rt>ㄍ⺢ㄋㄇ⼶ㄋ</rt></ruby>: a crown, ceremonial or official headwear — the classical ritual cap of rulers and high officials (the 冕 of the Zhou court), and by extension the insignia of high office itself; more literary than [[王冠]], the plain word for a monarch's crown.
 - <ruby>[王朝](../words/王朝.md)<rt>⺢ㄫㄐㄚㄨ</rt></ruby>: a dynasty, reign, court.
 - <ruby>[帝王](../words/帝王.md)<rt>ㄊㄝㄧ⺢ㄫ</rt></ruby>, <ruby>[皇帝](../words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby>: an emperor.
 - <ruby>[万乗](../words/万乗.md)<rt>ㄇㄛㄋㄙㄨㄫ</rt></ruby>: "ten thousand chariots" — a classical idiom for supreme imperial power, a ruler who commands ten thousand war chariots.

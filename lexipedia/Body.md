@@ -143,6 +143,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
 - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
 - <ruby>[腺体](../words/腺体.md)<rt>ㄙ⼶ㄋㄊㄝㄧ</rt></ruby>: a gland.
+- <ruby>[分泌](../words/分泌.md)<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby>: to secrete, produce secretions — what a gland ([[腺体]]) does; the standard physiological verb, also used of cells and plants.
 - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>, <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: shit.
 - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
 - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).

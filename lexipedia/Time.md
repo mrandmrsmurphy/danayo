@@ -86,6 +86,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden — an undocumented near-duplicate of [[忽然]].
 - <ruby>[俄然](../words/俄然.md)<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby>: suddenly — a third undocumented near-duplicate alongside [[忽然]]/[[突然]].
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving. See [Movement](../lexipedia/Movement.md) for its own citation there.
+- <ruby>[急遽](../words/急遽.md)<rt>ㄍㄧㄆㄍ⼄</rt></ruby>: hurriedly, suddenly — in great haste, typically because of a sudden change (a plan changed or a trip cut short at short notice); more about the abruptness and urgency of the action than [[急速]]'s plain speed.
 - <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]]. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[促](../words/促.md)<rt>ㄑㄛㄎ</rt></ruby>: to hurry. See [Movement](../lexipedia/Movement.md) for its own citation there.
 

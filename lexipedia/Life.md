@@ -38,6 +38,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 
 - <ruby>[生物](../words/生物.md)<rt>ㄙㄚㄫㄇㄨㄊ</rt></ruby>: a creature, living being, organism — shared with [[Animals]], which cites it for the same general sense.
 - <ruby>[人生](../words/人生.md)<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby>: a human life, one's life course or biography.
+- <ruby>[分娩](../words/分娩.md)<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby>: to give birth, deliver a child — the formal and clinical word for childbirth (as in a delivery room), rather than the plain everyday verb for having a baby; the stand-in for the bound character 娩.
 - <ruby>[生存](../words/生存.md)<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby>: to survive.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
@@ -52,6 +53,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[死骸](../words/死骸.md)<rt>ㄙㄧㄜㄏ⼶</rt></ruby>: a corpse, dead body — matter-of-fact rather than euphemistic, the body as physical remains.
 - <ruby>[塚](../words/塚.md)<rt>ㄑㄛㄫ</rt></ruby>: a burial mound, grave, tumulus (古塚, "an ancient burial mound"; 貝塚, "a shell midden").
 - <ruby>[墓穴](../words/墓穴.md)<rt>ㄇㄛㄏ⼔ㄊ</rt></ruby>: a grave, burial pit — the excavated cavity that receives the dead; the stand-in for the bound character 墓.
+- <ruby>[墓碑](../words/墓碑.md)<rt>ㄇㄛㄅㄧ</rt></ruby>: a gravestone, tombstone — the inscribed stone that marks a grave; the stand-in for the bound character 碑 (stele) in the funerary sense.
 
 **Not yet coined**: "funeral" and "mortal" have no dedicated Dan'a'yo word yet.
 

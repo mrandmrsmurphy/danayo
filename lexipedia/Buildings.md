@@ -151,6 +151,7 @@ language: English
 - bed - <ruby>[床](../words/床.md)<rt>ㄙ⼘ㄇ</rt></ruby>
 - chair - <ruby>[椅子](../words/椅子.md)<rt>ㄜㄧㄐㄜ</rt></ruby>
 - curtain - <ruby>[幕](../words/幕.md)<rt>ㄇㄚㄎ</rt></ruby>
+- folding screen - <ruby>[屏風](../words/屏風.md)<rt>ㄅㄧㄫㄈㄨㄫ</rt></ruby>
 - desk - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby> (same word as "table" below — 桌's own gloss already covers table/desk/stand together; Dan'a'yo doesn't split these the way English does)
 - seat - <ruby>[坐位](../words/坐位.md)<rt>ㄐ⺢⼔ㄧ</rt></ruby>
 - table - <ruby>[桌](../words/桌.md)<rt>ㄊㄚㄎ</rt></ruby>

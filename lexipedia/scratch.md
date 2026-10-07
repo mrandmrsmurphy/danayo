@@ -6,10 +6,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1306
+- **Unsorted**: 1297
 - **Calendar**: 54
-- **Geography**: 95
-- **Life**: 14
+- **Geography**: 94
+- **Life**: 13
 - **Light**: 1
 - **Locatives**: 4
 - **Measurement**: 2
@@ -17,7 +17,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Movement**: 18
 - **Nature**: 7
 - **Physics**: 7
-- **Plants**: 14
+- **Plants**: 13
 - **Religion**: 18
 - **Sensation**: 8
 - **Reproduction**: 2
@@ -25,14 +25,14 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Sin**: 12
 - **Speech**: 21
 - **Substances**: 11
-- **Time**: 8
+- **Time**: 7
 - **Tools**: 5
 - **Trade**: 12
-- **Valuation**: 21
+- **Valuation**: 20
 - **War**: 11
 - **Work**: 9
 
-## Unsorted (1306)
+## Unsorted (1297)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -136,7 +136,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[雰囲気]] — atmosphere, mood, ambiance
 - [[韓江]] — han river
 - [[儀仗]] — implement
-- [[分泌]] — secrete, produce secretions
 - [[和敬]] — harmony and respect
 - [[国営]] — nationalization, state management
 - [[国子]] — princes, sons of the state
@@ -184,7 +183,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[剣術]] — fencing, swordsmanship
 - [[割包皮]] — circumcision
 - [[割引]] — discount
-- [[割断]] — cut off, sever
 - [[創傷]] — trauma, traumatize
 - [[加皮]] — scab
 - [[効率]] — efficiency, productiveness
@@ -265,7 +263,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[堤防]] — dike, levee
 - [[塑料]] — plastic
 - [[塗抹]] — smear, scribble, daub
-- [[墓碑]] — tombstone, gravestone
 - [[壁塁]] — rampart
 - [[声望]] — prestige, popularity
 - [[外国人]] — foreigner
@@ -343,7 +340,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[弾圧]] — subjugate, repress
 - [[形態]] — morphology
 - [[形貌]] — appearance, countenance
-- [[彷彿]] — resemble
 - [[後置詞]] — postposition
 - [[徐様]] — slowly
 - [[従属]] — subordination, dependency
@@ -409,7 +405,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[改竄]] — to falsify, to tamper with, to alter (a document)
 - [[攻防]] — offense and defense
 - [[放物線]] — parabola
-- [[放蕩]] — licentious, dissolute, debauched
 - [[故郷]] — hometown
 - [[敏感]] — sensitive
 - [[敏捷]] — agile, nimble, quick-witted
@@ -1137,8 +1132,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[所有]] — all; every (determiner — most common mandarin/cantonese usage), possess; own; ownership (formal/legal noun-verb sense, shared across all four languages)
 - [[抜擢]] — select for promotion, single out for advancement, pluck out
 - [[挑戦]] — challenge (authority)
-- [[挺身]] — stand upright, step forward bravely
-- [[捏造]] — fabricate, make up (a story), concoct
 - [[捕獲]] — capture, catch
 - [[捕鯨]] — whaling, whale hunting
 - [[掏模]] — pickpocket, reach in and take
@@ -1334,9 +1327,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[坐席]] — seat, mat
 - [[堡塁]] — fortress, stronghold
 - [[大廈]] — mansion, large building, skyscraper
-- [[屏風]] — folding screen, decorative room divider
 - [[拠点]] — base, foothold
-- [[暖簾]] — noren (japanese shop curtain), hanging curtain (in storefront)
 - [[楼閣]] — multistory pavilion, tower building
 - [[湯池]] — city moat, hot springs (literary)
 - [[穀倉]] — barn, granary
@@ -1401,11 +1392,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (95)
+## Geography (94)
 - [[鄭国]] — state of Zheng (rerouted from the Existence bucket)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
-- [[冠冕]] — royal crown, official headwear
 - [[南山]] — south mountain
 - [[南部]] — south, southern area
 - [[印度洋]] — indian ocean
@@ -1498,12 +1488,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[香芝]] — kashiba (city in nara prefecture, japan)
 - [[黄海]] — yellow sea
 
-## Life (14)
+## Life (13)
 
 - [[出生率]] — birth rate, natality (rerouted from the Existence bucket)
 - [[死亡率]] — mortality rate, death rate (rerouted from the Existence bucket)
 - [[死亡人数]] — death toll (rerouted from the Existence bucket)
-- [[分娩]] — give birth, deliver a child (rerouted from the Existence bucket)
 - [[生育]] — give birth to (rerouted from the Existence bucket)
 - [[生死]] — life and death (rerouted from the Existence bucket)
 - [[年齢]] — someone's age
@@ -1581,11 +1570,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (14)
+## Plants (13)
 - [[化学肥料]] — chemical fertilizer
 - [[土肥]] — farmyard manure, soil fertilizer
 - [[堆肥]] — compost, composted manure
-- [[壌土]] — loam, loamy soil
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
 - [[竹]] — bamboo
@@ -1689,11 +1677,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[芳香族]] — aromatic compounds
 - [[黄沙]] — yellow sand, asian dust
 
-## Time (8)
+## Time (7)
 - [[同時]] — simultaneous
 - [[往往]] — often, frequently
 - [[忽然様]] — suddenly
-- [[急遽]] — rapidly, suddenly, in great haste
 - [[白亜紀]] — cretaceous period
 - [[瞬間]] — momentary, moment, instant
 - [[連続]] — continuous, consecutive, successive
@@ -1720,7 +1707,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[賠償]] — compensate, indemnify, pay reparations
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (21)
+## Valuation (20)
 - [[典雅]] — graceful, elegant
 - [[功績]] — deed, acheivement
 - [[勃勃]] — vigorous, thriving, exuberant
@@ -1731,7 +1718,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[奨励]] — encouragement, incentive, to award and exhort
 - [[彬彬]] — refined, gentle and elegant
 - [[才媛]] — talented woman
-- [[斐然]] — remarkable, brilliant, splendid
 - [[燦乱]] — resplendent, bright, glittering, gorgeous
 - [[秀麗]] — elegant, graceful
 - [[精彩]] — brilliant, splendid

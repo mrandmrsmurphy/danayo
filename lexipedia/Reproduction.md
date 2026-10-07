@@ -33,6 +33,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 ### Illicit & Transgressive
 
 - <ruby>[姦淫](../words/姦淫.md)<rt>ㄍㄚㄋ·ㄧㄇ</rt></ruby>: to fornicate; adultery.
+- <ruby>[放蕩](../words/放蕩.md)<rt>ㄈㄚㄫㄉㄚㄫ</rt></ruby>: dissolute, licentious, debauched — living without restraint in drink, sex and spending; broader than the sexual sense alone, but its sexual licence is why it sits beside [[姦淫]].
 - <ruby>[妓女](../words/妓女.md)<rt>ㄍㄧ·ㄋㄜ</rt></ruby>: a prostitute.
 - <ruby>[艶](../words/艶.md)<rt>⼶ㄇ</rt></ruby>: voluptuous, plump, beautiful — its own Notes explicitly document use "in both aesthetic and erotic registers," the closest available match for "erotic."
 - <ruby>[緊縛](../words/緊縛.md)<rt>ㄍㄧㄋㄈㄚㄎ</rt></ruby>: bondage — literally "tight binding." Japanese きんばく (kinbaku) is the real, internationally attested word for this specific rope-bondage art form; equivalent in sense to Mandarin 綁縛 (bǎngfù), a word this vault cannot yet create since its first character has no character page here.
