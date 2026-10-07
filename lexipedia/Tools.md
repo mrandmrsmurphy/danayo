@@ -65,6 +65,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 ### Operating & Driving
 
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — the clean match for operating machinery or a vehicle. See [Movement](../lexipedia/Movement.md) for its own citation there.
+- <ruby>[操作](../words/操作.md)<rt>ㄑㄚㄨㄐㄚㄎ</rt></ruby>: to operate, manipulate — to work the controls of a machine or carry out a procedure step by step; the hands-on running of a system, where [[運転]] is operating or driving a vehicle.
 - <ruby>[運行](../words/運行.md)<rt>ㄨㄋㄏㄚㄫ</rt></ruby>: to move, operate — a scheduled-service register (e.g. trains running on a timetable), distinct from [[運転]]'s driving.
 - <ruby>[作業](../words/作業.md)<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby>: work, to operate, a task — a general labor register. See [Work](../lexipedia/Work.md) for its own citation there.
 

@@ -60,6 +60,7 @@ These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ
 Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>印度<rt>ㄧㄋㄉㄛ</rt></ruby>  
+- <ruby>[天竺](words/天竺.md)<rt>ㄊㄝㄋㄐㄨㄎ</rt></ruby>: the classical name for India, as the homeland of the Buddha and source of the sutras (the Buddhist-era name, where 印度 is the modern state).
 - <ruby>[巴基斯坦](/words/巴基斯坦.md)<rt>ㄆㄚㄍㄧㄙㄧ·ㄊㄚㄋ</rt></ruby>
 - <ruby>[孟加拉](/words/孟加拉.md)<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby>
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄜㄍㄛㄎ</rt></ruby>

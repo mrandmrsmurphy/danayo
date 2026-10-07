@@ -143,6 +143,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ### Compensation & Duty
 
 - <ruby>[俸祿](../words/俸祿.md)<rt>ㄈㄛㄫㄌㄛㄎ</rt></ruby>, <ruby>[俸給](../words/俸給.md)<rt>ㄈㄛㄫㄍㄧㄆ</rt></ruby>: official salary, stipend.
+- <ruby>[貢品](../words/貢品.md)<rt>ㄍㄛㄫㄆㄨㄇ</rt></ruby>: tribute, tribute goods — the goods (silk, horses, local produce and the like) that a vassal or subordinate polity presents to an overlord as a mark of submission; wealth passed upward to a ruler, the reverse direction of an official's pay ([[俸祿]]).
 - <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to confer, award, grant.
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
 - <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
@@ -160,6 +161,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[伺候](../words/伺候.md)<rt>ㄙㄧㄏㄛㄨ</rt></ruby>: to wait upon, serve, attend to a master or superior — now covers this domain's own flagged "to serve" gap.
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.
+- <ruby>[勅令](../words/勅令.md)<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby>: an imperial edict, decree — a command issued in the throne's own name, the highest register of order (the historical imperial edict in Chinese, the Joseon royal decree in Korean, a cabinet order issued in the emperor's name in prewar Japan); what [[頒布]] and [[諭示]] promulgate.
 
 ### Alliance & Agreement
 

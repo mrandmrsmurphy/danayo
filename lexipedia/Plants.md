@@ -59,6 +59,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[桑木](../words/桑木.md)<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby>: a mulberry tree.
 - <ruby>[梨木](../words/梨木.md)<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby>: a pear tree.
 - <ruby>[槐樹](../words/槐樹.md)<rt>ㄏ⺢ㄧㄙㄨ</rt></ruby>: the pagoda tree (Styphnolobium japonicum), a tall shade tree of China and Korea whose flowers are used as food and as a yellow dye; the stand-in for the bound character 槐.
+- <ruby>[柊木](../words/柊木.md)<rt>ㄐㄨㄫㄇㄛㄎ</rt></ruby>: the holly osmanthus (Osmanthus heterophyllus), an evergreen shrub with spiny leaves and fragrant white autumn flowers, traditionally hung at doorways to ward off evil spirits; the stand-in for the bound character 柊.
 
 ### Flowers & Ornamentals
 

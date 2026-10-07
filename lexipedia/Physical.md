@@ -42,6 +42,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[紮](../words/紮.md)<rt>ㄐㄚㄊ</rt></ruby>: to tie, fasten, bind — an undocumented near-duplicate of [[束縛]].
 - <ruby>[綴](../words/綴.md)<rt>ㄐ⼔ㄊ</rt></ruby>: to bind, stop — specifically bookbinding (binding pages), distinct from [[束縛]]'s general tying.
 - <ruby>[結](../words/結.md)<rt>ㄍㄝㄊ</rt></ruby>: to tie, join.
+- <ruby>[折畳](../words/折畳.md)<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby>: to fold, folding — to bend something over on itself into a flatter, layered, smaller form; the stand-in for the bound character 折 in this sense.
 - <ruby>[締](../words/締.md)<rt>ㄊㄝㄧ</rt></ruby>: a connection, knot, conclusion — abstract, "tying up" a deal or agreement, not a literal knot in rope.
 
 ### Breaking, Cutting & Dividing

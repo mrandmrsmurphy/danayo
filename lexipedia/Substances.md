@@ -57,6 +57,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree. See [Plants](../lexipedia/Plants.md) for its own citation there.
 - <ruby>[炭](../words/炭.md)<rt>ㄊㄚㄋ</rt></ruby>: coal, charcoal — also, bound in 炭素, "carbon."
 - <ruby>[薄膜](../words/薄膜.md)<rt>ㄅㄚㄎㄇㄚㄎ</rt></ruby>: membrane, thin film — a thin layer of material, whether biological or manufactured.
+- <ruby>[脂膏](../words/脂膏.md)<rt>ㄐㄧㄜㄍㄚㄨ</rt></ruby>: grease, fat, oil — rendered animal fat and rich oil; a literary compound, also figuratively the wealth drawn from the people (民脂民膏); the stand-in for the bound character 膏.
 - <ruby>[膠水](../words/膠水.md)<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby>: glue, liquid adhesive — a sticky liquid used to bond surfaces; the stand-in for the bound character 膠 (glue, originally the animal-hide glue).
 - <ruby>[石灰](../words/石灰.md)<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby>: lime, quicklime — burnt limestone, also the root of the element name [[石灰素]] (calcium).
 - <ruby>[石油](../words/石油.md)<rt>ㄙㄝㄎ·⼜</rt></ruby>: petroleum, crude oil — the raw fossil substance, of which [[汽油]] below is a refined product.

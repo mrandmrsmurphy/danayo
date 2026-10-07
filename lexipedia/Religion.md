@@ -106,6 +106,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[神聖](../words/神聖.md)<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>: sacred, holy — see [[基督敎]] for its own citation there.
 - <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind — the cosmological triad. See [Astronomy](../lexipedia/Astronomy.md) for its own citation there.
 - <ruby>[前兆](../words/前兆.md)<rt>ㄐㄝㄋㄐㄚㄨ</rt></ruby>: a premonitory sign, harbinger, omen.
+- <ruby>[瑞兆](../words/瑞兆.md)<rt>ㄙ⼔ㄐㄚㄨ</rt></ruby>: an auspicious omen, propitious sign — a portent marked as fortunate (the good counterpart to [[前兆]]'s plain premonitory sign, often unwelcome); the stand-in for the bound character 瑞.
 - <ruby>[偶像](../words/偶像.md)<rt>ㄛㄨㄙ⼘ㄫ</rt></ruby>: an idol, statue. See [Art](../lexipedia/Art.md) for its own citation there.
 
 ## Advanced / Specialized (C1+)

@@ -139,6 +139,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 ### Creation & Destruction
 
 - <ruby>[創造](../words/創造.md)<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>: to create.
+- <ruby>[開啓](../words/開啓.md)<rt>ㄎㄚㄧㄎㄝㄧ</rt></ruby>: to open, launch, initiate — to open something up (a door, a program) or to start a new phase or era; an opening-up that begins something, more about starting than [[創造]]'s making.
 - <ruby>[破壊](../words/破壊.md)<rt>ㄆㄜㄏ⺢ㄧ</rt></ruby>: to destroy, demolish — the everyday general-purpose word.
 - <ruby>[毀](../words/毀.md)<rt>ㄏ⼔ㄧ</rt></ruby>: to destroy — more literary/formal register than 破壊.
 - <ruby>[滅](../words/滅.md)<rt>ㄇㄝㄊ</rt></ruby>: to wipe out, annihilate, extinguish — total eradication (of a people, a fire, a trace), stronger than [[破壊]]'s physical demolition; the bound root behind [[隠滅]]'s own "destroy evidence" sense above.

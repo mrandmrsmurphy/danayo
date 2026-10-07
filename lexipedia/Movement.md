@@ -68,6 +68,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving.
 - <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]].
 - <ruby>[速](../words/速.md)<rt>ㄙㄛㄎ</rt></ruby>: quick, fast — the bound root behind [[急速]]/[[迅速]] above, and 速度 ("speed").
+- <ruby>[敏捷](../words/敏捷.md)<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby>: agile, nimble — quick in body and mind, swift on one's feet and quick on the uptake; the quality of a person's quickness, where [[急速]] and [[迅速]] describe swiftness of an event; the stand-in for the bound character 捷.
 - <ruby>[敏](../words/敏.md)<rt>ㄇㄧㄋ</rt></ruby>: fast, quick, clever, smart — see [[Mind]] for its own citation there.
 - <ruby>[緩慢](../words/緩慢.md)<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>: slow, sluggish.
 - <ruby>[遅](../words/遅.md)<rt>ㄑㄧㄜ</rt></ruby>: late, slow — tardiness more than sluggishness, distinct from [[緩慢]].
@@ -133,6 +134,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 
 - <ruby>[復帰](../words/復帰.md)<rt>ㄅㄨㄎㄍㄨㄧ</rt></ruby>: to return, come back.
 - <ruby>[回帰](../words/回帰.md)<rt>ㄏㄛㄧㄍㄨㄧ</rt></ruby>: to return, retreat, regress; regression — the abstract or statistical sense, distinct from [[復帰]]'s physical return.
+- <ruby>[送還](../words/送還.md)<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby>: to send back, repatriate — to return a person to their place or country of origin by sending them (強制送還, "deportation"); the causative of returning, where [[復帰]] and [[回帰]] are the person's own return.
 - <ruby>[逗留](../words/逗留.md)<rt>ㄉㄚㄨㄌ⼜</rt></ruby>: to stay, pause, sojourn — see [[Events]] for its own citation there; temporary, a stop along the way.
 - <ruby>[通過](../words/通過.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: to pass — through a place, or an exam.
 - <ruby>[通行証](../words/通行証.md)<rt>ㄊㄛㄫㄏㄚㄫㄐㄧㄫ</rt></ruby>: a permit, pass — see [[Government]] for its own citation there; the document, not the verb.

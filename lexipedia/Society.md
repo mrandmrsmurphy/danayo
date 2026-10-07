@@ -114,6 +114,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[純篤](../words/純篤.md)<rt>ㄐㄨㄋㄉㄛㄎ</rt></ruby>: sincere, genuine and steadfast — pure in character and earnest in devotion; a literary word of praise for plain, unfeigned goodness, the opposite of the counterfeit virtue of [[偽善]].
+- <ruby>[謙遜](../words/謙遜.md)<rt>ㄎㄝㄇㄙㄛㄋ</rt></ruby>: humility, modesty — keeping a low estimate of oneself and deferring to others; the virtue opposite to [[傲慢]]'s pride, shown by self-effacement and by playing down one's own merits.
 - <ruby>[賢淑](../words/賢淑.md)<rt>ㄏㄝㄋㄙㄨㄎ</rt></ruby>: virtuous and wise, of refined character — the classical praise-word for a cultivated woman; the stand-in for the bound character 淑.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: upright, honest, incorrupt — especially the virtue of resisting bribery (廉潔, 清廉); a secondary sense, "cheap, low-priced," is housed on [Trade](../lexipedia/Trade.md).

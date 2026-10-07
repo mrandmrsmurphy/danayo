@@ -64,6 +64,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[薬丸](../words/薬丸.md)<rt>⼘ㄎㄏ⺢ㄋ</rt></ruby>: a pill, tablet.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: a wound; to wound, injure — see [[Law]] for its own placement there in the sense of assault.
 - <ruby>[発熱](../words/発熱.md)<rt>ㄈㄚㄊㄋ⼶ㄊ</rt></ruby>: to have a fever.
+- <ruby>[喘息](../words/喘息.md)<rt>ㄑㄝㄋㄙㄧㄎ</rt></ruby>: asthma; panting — labored breathing, gasping for breath; Japanese and Korean name the disease asthma with it, while Chinese keeps the older sense of panting (and a breather); the stand-in for the bound character 喘.
 - <ruby>[猩紅熱](../words/猩紅熱.md)<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby>: scarlet fever — the streptococcal infection with a fever and a scarlet rash.
 - <ruby>[面疱](../words/面疱.md)<rt>ㄇ⼶ㄋㄆㄚㄨ</rt></ruby>: a pimple, acne.
 

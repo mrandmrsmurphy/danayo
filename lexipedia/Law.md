@@ -53,6 +53,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 - <ruby>[窃盗](../words/窃盗.md)<rt>ㄑㄝㄊㄉㄚㄨ</rt></ruby>: theft, larceny.
 - <ruby>[盗賊](../words/盗賊.md)<rt>ㄉㄚㄨㄐㄨㄎ</rt></ruby>: bandit, robber, thief (also <ruby>[劫盗](../words/劫盗.md)<rt>ㄍㄚㄆㄉㄚㄨ</rt></ruby>, a dated near-synonym).
+- <ruby>[教唆](../words/教唆.md)<rt>ㄍ⼄ㄨㄙ⺢</rt></ruby>: to instigate, incite, abet — to put an idea of wrongdoing into someone else's head so that they commit the offence (the legal category of instigation); a lawful word for incitement, with the instigator's own hands staying clean.
 - <ruby>[海賊](../words/海賊.md)<rt>ㄏㄚㄧㄐㄨㄎ</rt></ruby>: pirate.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: harm, injury, assault.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract.

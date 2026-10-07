@@ -79,6 +79,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>: middle ear.
 - <ruby>[耳朶](../words/耳朶.md)<rt>ㄋㄧㄉㄚ</rt></ruby>: earlobe.
 - <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>: eyebrows.
+- <ruby>[眼瞼](../words/眼瞼.md)<rt>ㄚㄋㄍㄝㄇ</rt></ruby>: the eyelid — the fold of skin covering the eye; the formal and medical word (the everyday words differ by language), the stand-in for the bound character 瞼.
 - <ruby>[虹彩](../words/虹彩.md)<rt>ㄏㄛㄫㄑㄚㄧ</rt></ruby>: iris (of the eye).
 - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>: face.
 - <ruby>[顔色](../words/顔色.md)<rt>ㄚㄋㄙㄧㄎ</rt></ruby>: complexion, expression.
@@ -200,6 +201,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
 - <ruby>[貼](../words/貼.md)<rt>ㄊㄝㄆ</rt></ruby>: to paste on, stick to, attach.
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
+- <ruby>[招手](../words/招手.md)<rt>ㄑㄛㄨㄙ⼜</rt></ruby>: to wave, beckon — to raise the hand and move it, to call someone nearer, flag down a vehicle or say goodbye; the stand-in for the bound character 招.
 - <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).
 - <ruby>[持](../words/持.md)<rt>ㄉㄧ</rt></ruby>: to hold — the general verb, unmarked for grip or number of hands, distinct from [[捧]]'s specific two-handed posture.
 - <ruby>[挟](../words/挟.md)<rt>ㄏㄝㄆ</rt></ruby>: to clasp, hold between (as in tongs, or under the arm).

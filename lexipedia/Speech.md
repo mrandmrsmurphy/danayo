@@ -53,6 +53,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Asking & Requesting
 
 - <ruby>[質問](../words/質問.md)<rt>ㄐㄧㄊㄇㄨㄋ</rt></ruby>: to ask, a question.
+- <ruby>[詰問](../words/詰問.md)<rt>ㄎㄧㄊㄇㄨㄋ</rt></ruby>: to interrogate, press with questions — to question closely and sharply, demanding an account or justification (cross-examination in reproach); the hard form of [[質問]]'s plain asking.
 - <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, request, please. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request, claim. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[要請](../words/要請.md)<rt>⼄ㄨㄑㄧㄫ</rt></ruby>: to request, demand — a more formal/official register than [[要求]]'s forceful claim.
@@ -108,10 +109,12 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[騙](../words/騙.md)<rt>ㄆ⼶ㄋ</rt></ruby>: to deceive, cheat, defraud.
 - <ruby>[諂](../words/諂.md)<rt>ㄑㄝㄇ</rt></ruby>: to flatter.
 - <ruby>[風刺](../words/風刺.md)<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby>: to mock — the satirical/mockery register.
+- <ruby>[嘲笑](../words/嘲笑.md)<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby>: to ridicule, mock, deride — laughter aimed downward at someone, the cruel laugh of mockery and derision; sharper than [[風刺]]'s satire; the stand-in for the bound character 嘲.
 - <ruby>[痛罵](../words/痛罵.md)<rt>ㄊㄛㄫㄇㄚ</rt></ruby>: to berate, scold severely — to denounce someone harshly and at length; stronger than a plain scolding ([[叱責]]'s rebuke), with 痛 ("bitterly") as the intensifier.
 - <ruby>[盟誓](../words/盟誓.md)<rt>ㄇ⼶ㄫㄙㄝ</rt></ruby>: to swear, vow.
 - <ruby>[虚偽](../words/虚偽.md)<rt>ㄏ⼄⼔ㄧ</rt></ruby>: a falsehood, lie — see [Sin](../lexipedia/Sin.md) for its own citation there.
 - <ruby>[捏造](../words/捏造.md)<rt>ㄋㄝㄊㄑㄚㄨ</rt></ruby>: to fabricate, make up (a story, evidence, a rumour) — to invent something that did not happen and present it as fact; the act of fabrication, as opposed to [[虚偽]]'s falsehood or [[騙]]'s deceiving a person; the stand-in for the bound character 捏.
+- <ruby>[改竄](../words/改竄.md)<rt>ㄍㄚㄧㄑㄚㄋ</rt></ruby>: to falsify, tamper with — to secretly alter a document or record so it says something other than it did; altering by stealth, where [[捏造]] is inventing from nothing; the stand-in for the bound character 竄.
 
 ### Manner of Speaking
 

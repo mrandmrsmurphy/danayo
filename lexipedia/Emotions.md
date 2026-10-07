@@ -38,6 +38,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[欣喜](../words/欣喜.md)<rt>ㄏㄧㄋㄏㄧ</rt></ruby>, <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, joyful, pleased.
 - <ruby>[愉快](../words/愉快.md)<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>: happy, pleasant, enjoyable.
 - <ruby>[痛快](../words/痛快.md)<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby>: joyful, thoroughly satisfying, exhilarating.
+- <ruby>[爽快](../words/爽快.md)<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby>: refreshing, invigorating — the clean, light feeling of being refreshed (cool air after a stuffy room, a problem solved); a pleasant sensation more than [[痛快]]'s thorough satisfaction; the stand-in for the bound character 爽.
 - <ruby>[快](../words/快.md)<rt>ㄎ⺢ㄧ</rt></ruby>: sharp, quick, happy.
 - <ruby>[高興](../words/高興.md)<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby>: glad, pleased.
 - <ruby>[台悦](../words/台悦.md)<rt>ㄉㄚㄧ⼶ㄊ</rt></ruby>: happy, pleased, joyful.

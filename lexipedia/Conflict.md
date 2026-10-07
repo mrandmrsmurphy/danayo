@@ -114,6 +114,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 - <ruby>[威脅](../words/威脅.md)<rt>ㄛㄧㄏㄝㄆ</rt></ruby>: to threaten; a threat. See Semantic Range Notes.
 - <ruby>[脅迫](../words/脅迫.md)<rt>ㄏㄝㄆㄅㄚㄎ</rt></ruby>: to force, coerce, intimidate. See Semantic Range Notes.
+- <ruby>[脅威](../words/脅威.md)<rt>ㄏㄝㄆ·ㄛㄧ</rt></ruby>: a threat, menace — the power or presence that intimidates or endangers (the noun side of the pair, where [[威脅]] is the verb "to threaten"); see Semantic Range Notes.
 
 ### Insult & Humiliation
 
@@ -203,7 +204,7 @@ Rosenfelder terms with no Dan'a'yo word yet: to suspect, a trap, rash, to argue,
 
 **威脅 vs. 脅迫 — threatening someone vs. forcing them**: [[威脅]] is the act of threatening itself, and doubles as the noun "a threat" — the more common form in both Mandarin and Korean specifically for the verb. [[脅迫]] is a step further: not just the threat but using it (or other pressure) to force or coerce someone into an action, especially in legal/criminal registers.
 
-**威脅 vs. 脅威 — reverse-order siblings, both real**: [[威脅]] (on this page) and [[脅威]] (not yet linked to any domain page) share the same two morphemes in opposite order — the same pattern as [[安慰]]/[[慰安]]. 脅威 leans toward the noun "a threat, a danger" in the abstract; 威脅 is more often the verb "to threaten," which is why it's the form used here.
+**威脅 vs. 脅威 — reverse-order siblings, both real**: [[威脅]] (on this page) and [[脅威]] (listed just below it) share the same two morphemes in opposite order — the same pattern as [[安慰]]/[[慰安]]. 脅威 leans toward the noun "a threat, a danger" in the abstract; 威脅 is more often the verb "to threaten," which is why it's the form used here.
 
 **侮辱 vs. 屈辱 vs. 恥辱 — insult, humiliation-through-defeat, and disgrace**: [[侮辱]] is an act one person does to another — to insult, to humiliate on purpose. [[屈辱]] names the humiliation itself, especially one bound up with submission or defeat (屈, "to bend"). [[恥辱]] (see [[Society]]) is broader still: disgrace or shame as a state, not necessarily inflicted by anyone in particular.
 

@@ -41,6 +41,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[臘八粥](../words/臘八粥.md)<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby>: Laba congee — the ritual porridge of eight or more grains, beans, nuts and fruits eaten on [[臘八節]]; a specific festival dish, not congee in general ([[粥]]).
 - <ruby>[冷麺](../words/冷麺.md)<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby>: cold noodles — a specific dish (most famously Korean naengmyeon), though the general word "noodle" itself remains uncoined.
 - <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.
+- <ruby>[饗宴](../words/饗宴.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a banquet, feast — a grand formal meal, a state or ceremonial dinner; elevated in register compared with an ordinary [[膳食]] meal.
 - <ruby>[井物](../words/井物.md)<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby>: a rice-bowl dish, the general category. See Semantic Range Notes.
 
 ### Rice Bowl Dishes
@@ -101,6 +102,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
+- <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
 - <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
 - <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
@@ -123,6 +125,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
 - <ruby>[粘](../words/粘.md)<rt>ㄋㄝㄇ</rt></ruby>: sticky, glutinous — the texture of glutinous rice, its own etymological source (粘米, "sticky rice").
 - <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
+- <ruby>[芥子](../words/芥子.md)<rt>ㄍㄝㄐㄜ</rt></ruby>: mustard, mustard seed — the tiny seed of the mustard plant and the pungent condiment made from it; in Japanese the same characters read からし for mustard but けし for the opium poppy.
+- <ruby>[胡椒](../words/胡椒.md)<rt>ㄏㄛㄨㄐㄛㄨ</rt></ruby>: pepper — the pungent spice from the peppercorn; "foreign pepper" (胡, foreign, + 椒, pepper), recalling its arrival from India as an import; the stand-in for the bound character 椒.
 - <ruby>[清馨](../words/清馨.md)<rt>ㄑㄧㄫㄏㄝㄫ</rt></ruby>: a delicate, pure fragrance — a literary descriptor, often of tea, flowers, or wine.
 
 ### Sauces, Broths & Juices

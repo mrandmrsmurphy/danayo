@@ -6,9 +6,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1272
-- **Calendar**: 51
-- **Geography**: 92
+- **Unsorted**: 1250
+- **Calendar**: 50
+- **Geography**: 91
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 4
@@ -16,23 +16,23 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Mind**: 11
 - **Movement**: 18
 - **Nature**: 7
-- **Physics**: 7
-- **Plants**: 13
+- **Physics**: 6
+- **Plants**: 12
 - **Religion**: 18
 - **Sensation**: 7
 - **Reproduction**: 2
 - **Shape**: 4
 - **Sin**: 12
-- **Speech**: 20
-- **Substances**: 10
+- **Speech**: 19
+- **Substances**: 9
 - **Time**: 7
 - **Tools**: 5
 - **Trade**: 11
-- **Valuation**: 20
+- **Valuation**: 18
 - **War**: 11
-- **Work**: 9
+- **Work**: 8
 
-## Unsorted (1272)
+## Unsorted (1250)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -140,7 +140,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[国子]] — princes, sons of the state
 - [[大略]] — roughly, approximately, in general, outline, rough plan
 - [[心緒]] — feelings, state of mind
-- [[恍惚]] — trance, dazed, absent-minded, vague
 - [[感恩]] — feel thankful about, be grateful over
 - [[憬悟]] — to awaken to understanding, to realize
 - [[折線]] — broken line, polyline
@@ -153,7 +152,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[背景]] — background
 - [[自給]] — self-sufficient, self-reliant
 - [[語法]] — grammar, syntax (near-duplicate of [[句法]], already on [[Grammar]])
-- [[貢品]] — tribute, tribute goods
 - [[首尾]] — whole, head to tail, beginning to end
 - [[残]] — remaining, not broken off
 
@@ -237,7 +235,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[哀求]] — implore, entreat
 - [[哨兵]] — sentry
 - [[哺乳]] — breastfeed, suckle
-- [[喘息]] — asthma, panting, gasping
 - [[喧嘩]] — commotion
 - [[噴火]] — erupt
 - [[囚徒]] — prisoner
@@ -350,7 +347,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[恐恐]] — fearfully, with trepidation
 - [[恐龍]] — dinosaur
 - [[恣意]] — selfish, arbitrary
-- [[恣肆]] — unrestrained, wanton
 - [[恩人]] — benefactor, patron
 - [[恭喜]] — congratulations
 - [[恭敬]] — respectful, deferential
@@ -396,15 +392,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[撤]] — omit, remove, withdraw
 - [[擬詞]] — ideophone
 - [[支那]] — zhina
-- [[改竄]] — to falsify, to tamper with, to alter (a document)
 - [[攻防]] — offense and defense
 - [[放物線]] — parabola
 - [[故郷]] — hometown
 - [[敏感]] — sensitive
-- [[敏捷]] — agile, nimble, quick-witted
 - [[救援]] — rescue, relieve
 - [[教員]] — schoolteacher, educator, instructor
-- [[教唆]] — to instigate, to incite, to abet
 - [[教室]] — classroom
 - [[敢為]] — dare to do
 - [[敬語]]
@@ -557,7 +550,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[爬虫]] — reptile
 - [[父子]] — parenthood
 - [[爺爺]] — grandpappy, grandpapa (intimate)
-- [[爽快]] — refreshing, invigorating, exhilarating
 - [[片仮名]] — katakana
 - [[版本]] — edition, version
 - [[版権]] — copyright
@@ -583,7 +575,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[玄武岩]] — basalt
 - [[玄米茶]] — genmaicha
 - [[率直]] — frank, candid, straightforward
-- [[玉葱]] — onion
 - [[王冠]] — crown
 - [[王妃]] — queen
 - [[王子]] — prince
@@ -628,11 +619,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[直観]] — intuition
 - [[眼球]] — eyeball
 - [[眼睛]] — pupil
-- [[眼瞼]] — eyelid
 - [[眼鏡]] — glasses; eyeglasses; spectacles
 - [[瞻余]] — toad
 - [[瞻妄]] — delirium
-- [[矯正]] — correct, rectify
 - [[石版]] — lithograph, slabstone
 - [[石英]] — quartz
 - [[破暁]] — daybreak
@@ -715,7 +704,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[胎盤]] — placenta
 - [[胞子]] — spore
 - [[胞衣]] — afterbirth
-- [[胡椒]] — pepper
 - [[胡瓜]] — cucumber
 - [[胡麻]] — sesame
 - [[胰臓]] — pancreas
@@ -818,7 +806,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[読本]] — reader
 - [[誹謗]] — slander, defamation, verbal abuse
 - [[論語]] — analects
-- [[謙遜]] — humility, modesty
 - [[警戒]] — vigilant
 - [[豊尭]] — fertile, fruitful
 - [[豚肉]] — pork
@@ -957,7 +944,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[食酢]] — vinegar
 - [[飲食物]] — foods and drinks
 - [[餃子]] — jiaozi, dumpling, gyoza
-- [[饗宴]] — banquet, feast
 - [[香気]] — fragrance, aroma, incense
 - [[香港]] — hong kong
 - [[香蒲]] — cattail, bulrush, typha
@@ -1025,7 +1011,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[到達]] — arrive at, reach
 - [[剣道]] — kendo, the way of the sword
 - [[創立]] — establish, found
-- [[勅令]] — imperial edict, decree
 - [[勤勉]] — hard-working, diligent
 - [[北端]] — northern edge
 - [[区分]] — differentiate, distinguish, set apart
@@ -1040,7 +1025,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[古今]] — ancient and modern, old and new
 - [[古典]] — classical
 - [[古文]] — classical chinese, ancient text, classical literature
-- [[古箏]] — guzheng, chinese zither
 - [[古風]] — elegant classical
 - [[叫喚]] — cry out, call out, raurava
 - [[可不]] — able to not (do something), permitted to refrain from
@@ -1050,7 +1034,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[名字]] — name (personal name)
 - [[呵呵]] — laughter sound, haha
 - [[品目]] — article, item, inventory
-- [[噌噌]] — whoosh, scraping sound, rapid friction sound
 - [[四書]] — four books
 - [[四面]] — four cardinal directions, all sides, all around
 - [[回天]] — to turn the tide, to reverse a desperate situation
@@ -1120,7 +1103,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[掏模]] — pickpocket, reach in and take
 - [[掲]] — set up, install, put up
 - [[提琴]] — bowed string instrument, violin family
-- [[操作]] — to operate, to manipulate, to carry out
 - [[攘夷]] — expulsion of barbarians, policy of excluding or driving out foreigners
 - [[放火]] — set on fire, arson
 - [[政治学]] — political science
@@ -1186,7 +1168,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[王国]] — kingdom
 - [[珈沙]] — kāṣāya (buddhist robes)
 - [[現代]] — modern
-- [[瑞兆]] — auspicious omen, propitious sign
 - [[生机]] — vitality, life force
 - [[異常]] — different, weird
 - [[疲困]] — tired, sleepy, worn out
@@ -1213,7 +1194,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[経過]] — pass through, undergo
 - [[経験]] — experience, go through
 - [[結束]] — unity; solidarity; to bind/bundle together (japanese/korean), to end; to conclude; to finish (mandarin — see note)
-- [[綽約]] — graceful, charming, strikingly beautiful (of a woman)
 - [[美国人]] — american person
 - [[翁]] — venerable old man, elder of standing
 - [[翅鞘]] — elytron, wing case
@@ -1244,7 +1224,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[設置]] — set up, install, establish
 - [[詔書]] — imperial edict
 - [[詞典]] — dictionary
-- [[詰問]] — interrogate, cross-examine, question sharply
 - [[謄録]] — transcribe by hand, copy out
 - [[議定]] — reach an agreement, make an agreement
 - [[負]] — carry, bear
@@ -1254,7 +1233,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[軟禁]] — house arrest, soft confinement
 - [[輪回]] — saṃsāra, cycle of rebirth
 - [[近来]] — recently, lately
-- [[送還]] — repatriate, send back, return (a person)
 - [[逍遥]] — free and unfettered, carefree, untroubled
 - [[透視]] — see through
 - [[途中]] — en route, on the way, midway
@@ -1311,7 +1289,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (51)
+## Calendar (50)
 - [[分校]] — branch campus, branch school
 - [[副用]] — auxiliary
 - [[十分]] — very,extremely, ten minutes
@@ -1340,7 +1318,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[更迭]] — change, replace, alternate
 - [[東端]] — eastern tip, eastern end
 - [[松竹梅]] — three friends of winter
-- [[柊木]] — holly osmanthus, holly osmanthus tree
 - [[桃子]] — peach
 - [[桃果]] — peach
 - [[桜]] — cherry blossom
@@ -1364,7 +1341,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (92)
+## Geography (91)
 - [[鄭国]] — state of Zheng (rerouted from the Existence bucket)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
@@ -1395,7 +1372,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[大義]] — principles of justice, be truly righteous
 - [[大陸]] — continent
 - [[天下]] — world, all under heaven
-- [[天竺]] — india
 - [[太平洋]] — pacific ocean
 - [[媒介]] — medium, intermediary, agent (of transmission)
 - [[守戍]] — border guard
@@ -1530,9 +1506,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陽炎]] — heat shimmer, glare of sunlight
 - [[鬼火]] — will-o-the-wisp, ignis fatuos
 
-## Physics (7)
+## Physics (6)
 
-- [[招手]] — to wave, to beckon
 - [[温度]] — temperature
 - [[発情]] — be in heat, aroused, rut
 - [[溶化]] — melt, dissolve
@@ -1540,7 +1515,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (13)
+## Plants (12)
 - [[化学肥料]] — chemical fertilizer
 - [[土肥]] — farmyard manure, soil fertilizer
 - [[堆肥]] — compost, composted manure
@@ -1548,7 +1523,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[新芽]] — bud, sprout
 - [[竹]] — bamboo
 - [[竿竹]] — bamboo pole
-- [[芥子]] — mustard seed, mustard
 - [[茅草]] — cogon grass, thatch
 - [[萌芽]] — bud, sprout
 - [[藍木]] — indigo, anil
@@ -1610,11 +1584,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[慈善]] — charity, benevolence
 
-## Speech (20)
+## Speech (19)
 - [[受動]] — passive (voice), receptive
 - [[叱責]] — rebuke, scold
 - [[吟唱]] — chant, recite
-- [[嘲笑]] — to ridicule, to mock, to deride, to jeer at
 - [[大声]] — loud voice
 - [[対応]] — correspond with, respond to
 - [[巧言]] — flattery; clever but deceptive talk
@@ -1632,7 +1605,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
 
-## Substances (10)
+## Substances (9)
 - [[岩石]] — rocks, crags
 - [[水晶]] — rock crystal, quartz crystal, crystal
 - [[汚穢]] — filthy, filth
@@ -1640,7 +1613,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[溶液]] — solution (chemistry)
 - [[物証]] — material evidence
 - [[玉]] — jade
-- [[脂膏]] — grease, fat, oil
 - [[芳香族]] — aromatic compounds
 - [[黄沙]] — yellow sand, asian dust
 
@@ -1673,7 +1645,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[融資]] — pay by loan, finance
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (20)
+## Valuation (18)
 - [[典雅]] — graceful, elegant
 - [[功績]] — deed, acheivement
 - [[勃勃]] — vigorous, thriving, exuberant
@@ -1684,10 +1656,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[奨励]] — encouragement, incentive, to award and exhort
 - [[彬彬]] — refined, gentle and elegant
 - [[才媛]] — talented woman
-- [[燦乱]] — resplendent, bright, glittering, gorgeous
 - [[秀麗]] — elegant, graceful
 - [[精彩]] — brilliant, splendid
-- [[絢乱]] — gorgeous, brilliant, dazzling
 - [[自尊]] — self-esteem, self-respect, dignity
 - [[興旺]] — thriving, prosperous, flourishing
 - [[華美]] — gorgeous, resplendent
@@ -1708,7 +1678,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Work (9)
+## Work (8)
 - [[分掌]] — to divide work duties, division of responsibilities
 - [[副業]] — side job, second job
 - [[採用]] — adopt, employ, use
@@ -1717,5 +1687,4 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[計画]] — plan, schedule, measure
 - [[辞令]] — letter of dismissal, letter of resignation
 - [[雇員]] — employee
-- [[雇用]] — employment, hire
 

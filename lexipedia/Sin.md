@@ -51,6 +51,7 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 ### Pride & Villainy
 
 - <ruby>[傲慢](../words/傲慢.md)<rt>ㄚㄨㄇㄚㄋ</rt></ruby>: proud, arrogant. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
+- <ruby>[恣肆](../words/恣肆.md)<rt>ㄐㄧㄜㄙㄧㄜ</rt></ruby>: unrestrained, wanton — giving oneself free rein without regard for limits or others; self-indulgent licence, where [[傲慢]] is arrogant pride.
 - <ruby>[凶徒](../words/凶徒.md)<rt>ㄏ⼜ㄫㄉㄛ</rt></ruby>: a villain, thug, criminal gang member. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 
 **Not yet coined or excluded as false matches**: "brute" also loosely matches [[畜生]], but its primary, documented sense is "domestic animal, livestock" (already housed on [Animals](../lexipedia/Animals.md)) — the insult use is secondary and not cited here.
