@@ -6,7 +6,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 762
+- **Unsorted**: 756
 - **Calendar**: 28
 - **Geography**: 46
 - **Life**: 12
@@ -14,7 +14,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Locatives**: 3
 - **Measurement**: 2
 - **Mind**: 6
-- **Movement**: 9
+- **Movement**: 8
 - **Nature**: 3
 - **Physics**: 6
 - **Plants**: 8
@@ -23,7 +23,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Reproduction**: 2
 - **Shape**: 2
 - **Sin**: 9
-- **Speech**: 10
+- **Speech**: 9
 - **Substances**: 5
 - **Time**: 4
 - **Tools**: 4
@@ -32,7 +32,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 6
 - **Work**: 5
 
-## Unsorted (762)
+## Unsorted (756)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
@@ -92,7 +92,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陰]] — yin, shade
 - [[雰囲]] — mood, atmosphere, ambience
 - [[韓江]] — han river
-- [[感恩]] — feel thankful about, be grateful over
 - [[憬悟]] — to awaken to understanding, to realize
 - [[披歴]] — state one's view
 - [[査問]] — inquire about
@@ -127,7 +126,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[川口]] — kawaguchi
 - [[川埼]] — kawasaki
 - [[徽章]] — badge, insignia, emblem
-- [[悪化]] — worsen, aggravate, deteriorate
 - [[慈姑]] — arrowhead, sagittaria sagittifolia
 - [[慧眼]] — discernment, acumen
 - [[慶祝]] — celebrate
@@ -450,7 +448,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蕃息]] — proliferate, flourish
 - [[蕪青]] — turnip
 - [[虹尊]] — rainbow trout
-- [[蚕]] — silkworm
 - [[蛾]] — moth
 - [[蜜月]] — honeymoon
 - [[蝙蝠]] — bat
@@ -497,7 +494,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[貯蔵]] — storage
 - [[購入]] — purchase
 - [[超越]] — surpass
-- [[越]] — exceed
 - [[越共]] — vietcong
 - [[越南]] — vietnam
 - [[越盟]] — viet minh
@@ -554,7 +550,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[閨房]] — boudoir, bower
 - [[防疫]] — prevent epidemic
 - [[阿]] — ah
-- [[附]] — affix, adhere
 - [[附近]] — vicinity
 - [[限定]] — restrict, limit
 - [[限定詞]] — determiner
@@ -656,7 +651,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[他郷]] — foreign land
 - [[大概]] — for the most part, generally, approximately, probably
 - [[字南]] — chu nom, vietnamese written in chinese characters
-- [[愈愈]] — more and more
 - [[挑戦]] — challenge (authority)
 - [[捕鯨]] — whaling, whale hunting
 - [[掏模]] — pickpocket, reach in and take
@@ -914,14 +908,13 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[理屈]] — defeated argument, reasoning exhausted, reasoning; logic (secondary)
 - [[糊塗]] — muddled, confused
 
-## Movement (9)
+## Movement (8)
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
 - [[盛衰]] — rise and fall, flourish and decay
 - [[経営]] — run, manage
 - [[落花]] — falling blossoms
 - [[衰弱]] — fall away, waste away, weaken
-- [[起]] — rise up
 - [[辦理]] — manage, arrange, run
 - [[運送]] — transport
 
@@ -986,13 +979,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[慈善]] — charity, benevolence
 
-## Speech (10)
+## Speech (9)
 - [[揶揄]] — deride, ridicule
 - [[網語]] — online speak
 - [[英語]] — english language
 - [[西班牙語]] — spanish language
 - [[言語]] — language
-- [[話]] — speak on, talk about
 - [[露斯亜語]] — russian language
 - [[露語]] — russian language
 - [[飛報]] — report rapidly

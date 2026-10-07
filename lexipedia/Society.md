@@ -147,6 +147,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[偽善](../words/偽善.md)<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby>: hypocrisy, hypocritical — false virtue, feigning goodness to conceal one's true nature; a broader counterfeit than [[令色]]'s specifically facial/verbal flattery.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
 - <ruby>[恩人](../words/恩人.md)<rt>ㄜㄋㄋㄧㄋ</rt></ruby>: a benefactor, patron.
+- <ruby>[感恩](../words/感恩.md)<rt>ㄍㄚㄇ·ㄜㄋ</rt></ruby>: to feel thankful, be grateful.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.

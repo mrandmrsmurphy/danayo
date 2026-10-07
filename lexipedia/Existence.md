@@ -69,6 +69,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 ### Change & Transformation
 
 - <ruby>[変化](../words/変化.md)<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby>: to change — the general-purpose word.
+- <ruby>[悪化](../words/悪化.md)<rt>ㄚㄎㄏ⺢</rt></ruby>: to worsen, aggravate, deteriorate.
 - <ruby>[改変](../words/改変.md)<rt>ㄍㄚㄧㄅ⼶ㄋ</rt></ruby>: to alter, change.
 - <ruby>[変動](../words/変動.md)<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby>: to change, fluctuate — implies ongoing or unstable movement, not a single discrete change (also <ruby>[起伏](../words/起伏.md)<rt>ㄎㄧㄅㄨㄎ</rt></ruby>, "to undulate, fluctuate," a near-synonym leaning more figurative — "the ups and downs").
 - <ruby>[転化](../words/転化.md)<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby>: to change, convert — implies turning into something categorically different.
@@ -179,6 +180,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 
 - <ruby>[進化](../words/進化.md)<rt>ㄐㄧㄋㄏ⺢</rt></ruby>: to evolve.
 - <ruby>[発生](../words/発生.md)<rt>ㄈㄚㄊㄙㄚㄫ</rt></ruby>: to happen, occur, arise — the closest existing match for Rosenfelder's "generate," though it's intransitive (things arise/come about) rather than transitive (X generates Y).
+- <ruby>[起](../words/起.md)<rt>ㄎㄧ</rt></ruby>: to rise up, arise.
 - <ruby>[生産](../words/生産.md)<rt>ㄙㄚㄫㄙㄚㄋ</rt></ruby>: to produce, manufacture — the transitive counterpart 発生 lacks, though its everyday register leans industrial/economic (to manufacture goods) rather than purely ontological; see Semantic Range Notes.
 - <ruby>[実現](../words/実現.md)<rt>ㄙㄧㄊㄏ⼶ㄋ</rt></ruby>: to realize, implement — actualization of something already conceived (a plan, a dream), distinct from 発生's sense of something simply arising.
 

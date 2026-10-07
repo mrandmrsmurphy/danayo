@@ -35,6 +35,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
 - <ruby>[蛞蝓](../words/蛞蝓.md)<rt>ㄎ⺢ㄊ⼜ㄇ</rt></ruby>: a slug — the formal/biological term.
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎ·⺢ㄎ</rt></ruby>: an inchworm, looper.
+- <ruby>[蚕](../words/蚕.md)<rt>ㄐㄚㄇ</rt></ruby>: a silkworm.
 - <ruby>[寵物](../words/寵物.md)<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby>: pet, favored animal.
 - <ruby>[匹](../words/匹.md)<rt>ㄆㄧㄊ</rt></ruby>: counter word for animals.
 

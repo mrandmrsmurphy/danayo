@@ -17,6 +17,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ## Main Words
 ### Comparatives
 - more <ruby>[更](../words/更.md)<rt>ㄍㄚㄫ</rt></ruby>
+- more and more : <ruby>[愈愈](../words/愈愈.md)<rt>⼜ㄇ·⼜ㄇ</rt></ruby>
 - most <ruby>[最](../words/最.md)<rt>ㄐ⼔</rt></ruby>
 - than, compared to : <ruby>[比](../words/比.md)<rt>ㄅㄧㄜ</rt></ruby>
 - least, less: not yet coined — Dan'a'yo has no dedicated "less/least" pole distinct from negating 更/最.
