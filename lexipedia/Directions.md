@@ -51,6 +51,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北極](../words/北極.md)<rt>ㄅㄨㄎㄍㄧㄎ</rt></ruby>: North Polar.
 - <ruby>[北面](../words/北面.md)<rt>ㄅㄨㄎㄇ⼶ㄋ</rt></ruby>: the north side.
 - <ruby>[南北](../words/南北.md)<rt>ㄋㄚㄇㄅㄨㄎ</rt></ruby>: north and south.
+- <ruby>[東北](../words/東北.md)<rt>ㄉㄛㄫㄅㄨㄎ</rt></ruby>: northeast — the intercardinal direction between 東 and 北 (also used as a region name, e.g. Japan's Tōhoku or China's northeast).
 - <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby>: the South Pole.
 
 ### Sides & Edges
