@@ -65,6 +65,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 - <ruby>[質問](../words/質問.md)<rt>ㄐㄧㄊㄇㄨㄋ</rt></ruby>: to ask, a question.
 - <ruby>[詰問](../words/詰問.md)<rt>ㄎㄧㄊㄇㄨㄋ</rt></ruby>: to interrogate, press with questions — to question closely and sharply, demanding an account or justification (cross-examination in reproach); the hard form of [[質問]]'s plain asking.
+- <ruby>[査問](../words/査問.md)<rt>ㄐㄚ·ㄇㄨㄋ</rt></ruby>: to inquire into, question formally — to investigate by questioning (a hearing or inquiry), where [[質問]] is plain asking and [[詰問]] presses sharply.
 - <ruby>[請](../words/請.md)<rt>ㄑㄧㄫ</rt></ruby>: to ask, request, please. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request, claim. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[哀求](../words/哀求.md)<rt>ㄚㄧㄍ⼜ㄛ</rt></ruby>: to implore, entreat, beg piteously.

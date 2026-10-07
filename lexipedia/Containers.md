@@ -22,6 +22,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 - <ruby>[錠](../words/錠.md)<rt>ㄐㄝㄫ</rt></ruby>: a lock.
 - <ruby>[閉](../words/閉.md)<rt>ㄅㄝㄧ</rt></ruby>, <ruby>[関](../words/関.md)<rt>ㄍ⺢ㄇ</rt></ruby>: to shut, close.
 - <ruby>[覆蓋](../words/覆蓋.md)<rt>ㄈㄨㄎㄍㄚㄧ</rt></ruby>: to cover over (e.g. a channel, a culvert).
+- <ruby>[栓](../words/栓.md)<rt>ㄙ⼔ㄋ</rt></ruby>: a peg, stopper — what plugs the opening of a vessel or pipe, beside [[錠]] and [[鍵]] for fastening and [[覆蓋]] for covering.
 - <ruby>[空](../words/空.md)<rt>ㄎㄛㄫ</rt></ruby>: empty.
 - <ruby>[内容](../words/内容.md)<rt>ㄋㄛㄧ⼄ㄫ</rt></ruby>: content, substance — what a container holds. See Semantic Range Notes.
 - <ruby>[包含](../words/包含.md)<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby>: to have, include, contain.

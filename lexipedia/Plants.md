@@ -63,6 +63,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
 - <ruby>[松](../words/松.md)<rt>ㄙ⼄ㄫ</rt></ruby>: pine, fir — the evergreen conifer of longevity and steadfastness (松柏, "pine and cypress"), beside [[柏]].
 - <ruby>[柳](../words/柳.md)<rt>ㄌ⼜</rt></ruby>: willow — the slender-branched tree of waterside and spring.
+- <ruby>[柿木](../words/柿木.md)<rt>ㄙㄜ·ㄇㄛㄎ</rt></ruby>: the Japanese persimmon tree (Diospyros kaki), the stand-in for the bound character 柿.
 - <ruby>[柏](../words/柏.md)<rt>ㄅ⼘ㄎ</rt></ruby>: cypress, cedar — evergreen conifer of graveyards and longevity (松柏).
 - <ruby>[檀木](../words/檀木.md)<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby>: sandalwood — a specific hardwood tree species, not a generic word for "hardwood" (which remains uncoined, alongside "softwood").
 - <ruby>[檀香](../words/檀香.md)<rt>ㄉㄚㄋㄏ⼘ㄫ</rt></ruby>: sandalwood as a fragrant material — the aromatic heartwood and incense, as against [[檀木]], the tree and its wood.
