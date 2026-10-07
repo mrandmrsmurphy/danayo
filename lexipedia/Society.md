@@ -38,6 +38,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[共同体](../words/共同体.md)<rt>ㄍ⼄ㄫㄉㄛㄫㄊㄝㄧ</rt></ruby>: community.
 - <ruby>[集団](../words/集団.md)<rt>ㄐㄧㄆㄉ⺢ㄋ</rt></ruby>: group, gang, collective.
 - <ruby>[団結](../words/団結.md)<rt>ㄉ⺢ㄋㄍㄝㄊ</rt></ruby>: to unite, rally together.
+- <ruby>[結束](../words/結束.md)<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby>: unity, solidarity; to bind together (Japanese, Korean); in Mandarin, to end.
 - <ruby>[部族](../words/部族.md)<rt>ㄅㄛㄨㄐㄛㄎ</rt></ruby>: tribe, clan.
 - <ruby>[宗派](../words/宗派.md)<rt>ㄐㄛㄫㄆㄚㄧ</rt></ruby>: faction, sect.
 - <ruby>[協会](../words/協会.md)<rt>ㄏㄝㄆㄏ⼔</rt></ruby>: association, league.
@@ -285,10 +286,13 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 ### Games & Recreation
 
 - <ruby>[遊戯](../words/遊戯.md)<rt>⼜ㄛㄏㄨㄧ</rt></ruby>: a game.
+- <ruby>[将棋](../words/将棋.md)<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>: shogi, Japanese chess.
+- <ruby>[蹴球](../words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby>: football, soccer.
 - <ruby>[嬉遊](../words/嬉遊.md)<rt>ㄏㄧ⼜ㄛ</rt></ruby>: to play, frolic, enjoy oneself.
 - <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race.
 - <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: sport, exercise, movement.
 - <ruby>[台球](../words/台球.md)<rt>ㄉㄚㄧㄍ⼜</rt></ruby>: billiards, pool — the Mainland Mandarin name.
+- <ruby>[排球](../words/排球.md)<rt>ㄆㄚㄧㄍ⼜</rt></ruby>: volleyball.
 - <ruby>[得点](../words/得点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a score.
 - <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
 - <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.

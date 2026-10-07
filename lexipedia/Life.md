@@ -30,6 +30,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[治療](../words/治療.md)<rt>ㄑㄧㄌ⼄ㄨ</rt></ruby>: to treat (medically).
 - <ruby>[疾病](../words/疾病.md)<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby>: a disease.
 - <ruby>[病症](../words/病症.md)<rt>ㄅ⼶ㄫㄐㄧㄫ</rt></ruby>: an illness, ailment — the everyday word for a condition as it presents; more concrete than [[疾病]], broader than [[症状]] (symptoms).
+- <ruby>[看病](../words/看病.md)<rt>ㄎㄚㄋㄅ⼶ㄫ</rt></ruby>: to nurse, see a patient.
 - <ruby>[自閉症](../words/自閉症.md)<rt>ㄐㄧㄜㄅㄝㄧㄐㄧㄫ</rt></ruby>: autism — 自 "self" + 閉 "close" + 症 "condition."
 - <ruby>[衛生](../words/衛生.md)<rt>ㄝㄙㄚㄫ</rt></ruby>: hygiene, sanitation — 衛 "guard" + 生 "life."
 - <ruby>[感冒](../words/感冒.md)<rt>ㄍㄚㄇㄇㄚㄨ</rt></ruby>: a cold, to catch a cold — 感 "be affected" + 冒 "expose oneself."

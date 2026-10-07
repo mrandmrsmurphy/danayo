@@ -17,6 +17,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[時間](../words/時間.md)<rt>ㄙㄧㄍㄚㄋ</rt></ruby>: time — the plain, everyday noun.
 - <ruby>[時](../words/時.md)<rt>ㄙㄧ</rt></ruby>: time — the noun and the correlative row heading (此時 "now," 其時 "then").
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now. See [Existence](../lexipedia/Existence.md) for its own citation there.
+- <ruby>[最近](../words/最近.md)<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby>: lately, recently.
 - <ruby>[現用](../words/現用.md)<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby>: currently in use, active — what is in use at present as against what is retired or obsolete (現用字庫 "the active inventory").
 - <ruby>[過去](../words/過去.md)<rt>ㄍ⺢·ㄎ⼄</rt></ruby>: the past.
 - <ruby>[去年](../words/去年.md)<rt>ㄎ⼄·ㄋㄝㄋ</rt></ruby>: last year.
@@ -37,6 +38,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: an old person, age — a Swadesh word, the seniority/elderliness sense.
 - <ruby>[古希](../words/古希.md)<rt>ㄍㄛㄏㄧㄜ</rt></ruby>: seventy years of age — the congratulatory name for a seventieth birthday, from Du Fu's line 人生七十古來稀 ("it has been rare since antiquity to reach seventy").
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.
+- <ruby>[現代](../words/現代.md)<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby>: modern, the present era.
 - <ruby>[中古](../words/中古.md)<rt>ㄐㄨㄫㄍㄛ</rt></ruby>: medieval, the Middle Ages — East Asian historiography's tripartite 古代/中古/近代 (ancient/medieval/modern) periodization scheme; also, distinctly, "secondhand, used" in modern Japanese/Korean consumer usage (中古品, 中古車), a genuinely separate sense from the historical one.
 
 ### Sequence & Succession
@@ -47,6 +49,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>: final, last.
+- <ruby>[最初](../words/最初.md)<rt>ㄐ⼔ㄑㄛ</rt></ruby>: first, initial.
 - <ruby>[畢竟](../words/畢竟.md)<rt>ㄆㄧㄊㄍ⼶ㄫ</rt></ruby>: after all, in the end — when everything has been considered or has run its course; a conclusion-marking adverb for the final outcome or the underlying fact, rather than [[最後]]'s "final, last" in a sequence.
 - <ruby>[初代](../words/初代.md)<rt>ㄑㄛㄉㄚㄧ</rt></ruby>: first, inaugural, founding — the first holder of a line of succession (初代社長, "the first president"), not merely first in a sequence.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.

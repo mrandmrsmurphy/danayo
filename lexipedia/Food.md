@@ -36,6 +36,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 
 - <ruby>[午飯](../words/午飯.md)<rt>ㄛㄅㄛㄋ</rt></ruby>, <ruby>[午餐](../words/午餐.md)<rt>ㄛㄑㄚㄋ</rt></ruby>: lunch, noon meal.
 - <ruby>[晩飯](../words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby>, <ruby>[正餐](../words/正餐.md)<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>: dinner, supper, evening meal.
+- <ruby>[早飯](../words/早飯.md)<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby>: breakfast (Mandarin, Cantonese, Korean); in Japanese, a fast eater.
 - <ruby>[宴会](../words/宴会.md)<rt>ㄝㄋㄏ⼔</rt></ruby>: a banquet, feast.
 - <ruby>[包子](../words/包子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>, <ruby>[饅頭](../words/饅頭.md)<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby>: a steamed bun.
 - <ruby>[点心](../words/点心.md)<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby>: a snack, dim sum, light dish. See Semantic Range Notes.
@@ -106,6 +107,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
+- <ruby>[檸檬](../words/檸檬.md)<rt>ㄌㄝ·ㄇㄛㄋ</rt></ruby>: a lemon.
 - <ruby>[甘蕉](../words/甘蕉.md)<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby>: banana, plantain — the classical and literary word ("sweet banana"), found in older agricultural and medical texts, displaced in everyday use by 香蕉 (Chinese) and バナナ (Japanese).
 - <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
 - <ruby>[昆布](../words/昆布.md)<rt>ㄍㄛㄋㄅㄛ</rt></ruby>: kelp, seaweed — the Japanese kombu of dashi; in Chinese especially used in traditional medicine, and in Korean 곤포, the genuine Sino-Korean term recorded in the Donguibogam.

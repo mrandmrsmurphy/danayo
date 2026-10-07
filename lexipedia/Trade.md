@@ -41,6 +41,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[業](../words/業.md)<rt>ㄝㄆ</rt></ruby>: a profession, business — the bound/abstract sense.
 - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>: a market. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[貿易](../words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>: trade — the international sense.
+- <ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>: the economy.
 - <ruby>[交易](../words/交易.md)<rt>ㄍ⼄ㄨ⼶ㄎ</rt></ruby>: trade — the plain transactional sense.
 - <ruby>[交換](../words/交換.md)<rt>ㄍ⼄ㄨㄏ⺢ㄇ</rt></ruby>: exchange, swap — the general give-and-take sense (交換留学, "exchange study"), broader than [[交易]]'s commercial trade specifically.
 - <ruby>[交流](../words/交流.md)<rt>ㄍ⼄ㄨㄌ⼜</rt></ruby>: exchange, interchange, mingle — the standard word for cultural/social exchange (文化交流), distinct from [[交換]]'s give-and-take of items and [[交易]]'s commercial trade.

@@ -48,6 +48,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[巫術](../words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: shamanism, magic, sorcery, witchcraft — the folk-shamanic register.
 - <ruby>[法術](../words/法術.md)<rt>ㄈㄚㄆㄙㄨㄊ</rt></ruby>: magic, magic arts — the Daoist ritual register, distinct from [[巫術]]'s shamanic one.
+- <ruby>[占卜](../words/占卜.md)<rt>ㄐㄝㄇㄅㄛㄎ</rt></ruby>: to divine, tell fortunes.
 - <ruby>[呪文](../words/呪文.md)<rt>ㄐㄨㄛㄇㄨㄋ</rt></ruby>: an incantation, spell — the recited or written formula itself.
 - <ruby>[唵](../words/唵.md)<rt>ㄛㄇ</rt></ruby>: Om, Aum (ॐ) — the sacred Sanskrit syllable opening most Buddhist and Hindu mantras (唵嘛呢叭咪吽, "Om mani padme hum").
 - <ruby>[唄](../words/唄.md)<rt>ㄅㄚㄧ</rt></ruby>: a Buddhist chant, hymn — survives only bound in 梵唄 ("voice of Brahmā"), never as an independent word.
@@ -114,6 +115,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[斎戒](../words/斎戒.md)<rt>ㄐㄚㄧㄍ⼶</rt></ruby>: to fast, observe abstinence.
 - <ruby>[神聖](../words/神聖.md)<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby>: sacred, holy — see [[基督敎]] for its own citation there.
 - <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind — the cosmological triad. See [Astronomy](../lexipedia/Astronomy.md) for its own citation there.
+- <ruby>[混沌](../words/混沌.md)<rt>ㄏㄛㄋㄉㄛㄋ</rt></ruby>: Hundun, primordial chaos.
 - <ruby>[前兆](../words/前兆.md)<rt>ㄐㄝㄋㄐㄚㄨ</rt></ruby>: a premonitory sign, harbinger, omen.
 - <ruby>[瑞兆](../words/瑞兆.md)<rt>ㄙ⼔ㄐㄚㄨ</rt></ruby>: an auspicious omen, propitious sign — a portent marked as fortunate (the good counterpart to [[前兆]]'s plain premonitory sign, often unwelcome); the stand-in for the bound character 瑞.
 - <ruby>[吉祥](../words/吉祥.md)<rt>ㄍㄧㄊㄙㄚㄫ</rt></ruby>: auspicious, lucky — a pervasive blessing formula pairing two words for good fortune (as in the Buddhist goddess 吉祥天, Lakṣmī); the state of good luck itself, beside the portents of [[瑞兆]] and [[前兆]].

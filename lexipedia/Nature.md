@@ -20,6 +20,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[俄雨](../words/俄雨.md)<rt>ㄚㄨ</rt></ruby>: a rain shower — rain that arrives suddenly and passes quickly, distinct from [[驟雨]]'s intensity-emphasizing "squall" and [[小雨]]'s lightness-emphasizing "drizzle."
 - <ruby>[小雨](../words/小雨.md)<rt>ㄙㄛㄨ</rt></ruby>: light rain, drizzle — rain that is light in volume rather than brief in duration, the counterpart of heavy rain; where [[俄雨]] emphasizes a passing shower.
 - <ruby>[雪](../words/雪.md)<rt>ㄙ⼔ㄊ</rt></ruby>: snow.
+- <ruby>[霜](../words/霜.md)<rt>ㄙ⺢ㄫ</rt></ruby>: frost.
 - <ruby>[風](../words/風.md)<rt>ㄈㄨㄫ</rt></ruby>: wind — see [[Elements]] for its own citation there.
 - <ruby>[山](../words/山.md)<rt>ㄙㄚㄋ</rt></ruby>: a mountain.
 - <ruby>[自然](../words/自然.md)<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>: nature; natural, spontaneously.
@@ -85,6 +86,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to cultivate, grow — see [[Life]] for its own citation there.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: to plow, sow, cultivate.
+- <ruby>[開墾](../words/開墾.md)<rt>ㄎㄚㄧㄎㄚㄋ</rt></ruby>: to cultivate, open up land.
 - <ruby>[壅](../words/壅.md)<rt>ㄛㄫ</rt></ruby>: to bank up with earth, mound soil around (a plant) — also, more generally, "to obstruct, block up" (壅塞, "congestion, blockage").
 - <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: a harvest, crop, yield — see [[Food]] for its own citation there.
 - <ruby>[採取](../words/採取.md)<rt>ㄑㄚㄧㄑㄛㄨ</rt></ruby>: to pick, harvest, collect — see [[Containers]] for its own citation there.

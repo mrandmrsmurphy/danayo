@@ -18,6 +18,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[植物](../words/植物.md)<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>: a plant; flora, in general.
 - <ruby>[木](../words/木.md)<rt>ㄇㄛㄎ</rt></ruby>: a tree — see [Elements](../lexipedia/Elements.md) for its own citation there.
 - <ruby>[草](../words/草.md)<rt>ㄑㄚㄨ</rt></ruby>: grass.
+- <ruby>[巻耳](../words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>: field chickweed, field mouse-ear.
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry — see [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[種子](../words/種子.md)<rt>ㄐㄛㄫㄐㄜ</rt></ruby>: a seed.
 - <ruby>[根](../words/根.md)<rt>ㄍㄜㄋ</rt></ruby>: a root; foundation.

@@ -6,8 +6,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1064
-- **Calendar**: 44
+- **Unsorted**: 1036
+- **Calendar**: 42
 - **Geography**: 77
 - **Life**: 13
 - **Light**: 1
@@ -18,12 +18,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Nature**: 5
 - **Physics**: 6
 - **Plants**: 12
-- **Religion**: 16
+- **Religion**: 14
 - **Sensation**: 6
 - **Reproduction**: 2
 - **Shape**: 3
 - **Sin**: 12
-- **Speech**: 16
+- **Speech**: 15
 - **Substances**: 7
 - **Time**: 5
 - **Tools**: 5
@@ -32,7 +32,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 10
 - **Work**: 6
 
-## Unsorted (1064)
+## Unsorted (1036)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -68,7 +68,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[網球場]] — tennis court (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
 - [[足球]] — football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
 - [[鎧球]] — american football, gridiron football, football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
-- [[汽車]] — steam train, locomotive (Transportation, not effort — moved out of the Efforts bucket 2026-09-28)
 - [[空軍]] — air force (Government/Military, "force" substring match — moved out of the Efforts bucket 2026-09-28)
 - [[失禁]] — incontinence, loss of bladder or bowel control (Body, "control" substring match — moved out of the Efforts bucket 2026-09-28)
 - [[大旨]] — main idea, gist (Knowledge/Speech, unrelated to elements — moved out of the Elements bucket 2026-09-28)
@@ -87,7 +86,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[初版]] — first edition
 - [[区別]] — differentiate, distinguish, classify
 - [[千乗]] — vassal of the son of heaven
-- [[占卜]] — divine, fortune tell
 - [[大江]] — big river, yangtze
 - [[天子]] — son of heaven
 - [[天祐]] — divine aid
@@ -102,7 +100,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[星洲]] — star islet, a literary sobriquet for singapore
 - [[時差]] — time difference, jet lag
 - [[晒]] — expose, dry in the sun, bleach
-- [[最初]] — initial, first
 - [[本校]] — head school, our school, this school
 - [[榜文]] — official proclamation, posted notice
 - [[漢江]] — han river
@@ -330,7 +327,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[挽回]] — recover, restore, retrieve
 - [[捕手]] — catcher (baseball)
 - [[排水溝]] — gutter, culvert
-- [[排球]] — volleyball
 - [[接受]] — accept, receive
 - [[推薦]] — recommend
 - [[揄伽]] — yoga
@@ -347,7 +343,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[敏感]] — sensitive
 - [[救援]] — rescue, relieve
 - [[教員]] — schoolteacher, educator, instructor
-- [[教室]] — classroom
 - [[敢為]] — dare to do
 - [[敬語]]
 - [[整]] — orderly, neat, tidy
@@ -376,7 +371,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[曇]] — overcast
 - [[曲折]] — winding, tortuous
 - [[更新]] — renew, replace, refresh
-- [[書面]] — written
 - [[曼魚]] — eel
 - [[曽]] — great-
 - [[曽子]] — zengzi
@@ -416,7 +410,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[椎菌]] — shitake mushrooms
 - [[検証]] — verify
 - [[楊梅]] — waxfruit
-- [[楕圓]] — ellipse
 - [[概要]] — overview, summary
 - [[様]] — -ly
 - [[樟脳]] — camphor
@@ -426,7 +419,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[橄欖球]] — rugby
 - [[橘]] — tangerine
 - [[檳榔]] — betal
-- [[檸檬]] — lemon
 - [[正字法]] — orthography
 - [[武士]] — warrior, samurai
 - [[水中]] — underwater
@@ -515,7 +507,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[甘露]] — honeydew, nectar, amrita
 - [[甜瓜]] — melon, muskmelon
 - [[用疽]] — abscess, ulcer
-- [[用言]] — declinable word
 - [[異体]] — variant
 - [[異音]] — allophony
 - [[疎忽]] — negligent, neglect
@@ -563,7 +554,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[章程]] — rules, regulations
 - [[章魚]] — octopus
 - [[第八]] — eighth, 8th
-- [[筆画]] — stroke
 - [[筆記]] — take notes
 - [[等待]] — wait for, await
 - [[節減]] — economize, economy
@@ -704,7 +694,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[貯蔵]] — storage
 - [[賄賂]] — bribe
 - [[購入]] — purchase
-- [[贖罪]] — redeem, expiate, atone for
 - [[超越]] — surpass
 - [[越]] — exceed
 - [[越共]] — vietcong
@@ -757,7 +746,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[錦鯉]] — koi
 - [[鐘]] — bell
 - [[鑽石]] — diamond, auger
-- [[開墾]] — cultivate
 - [[開張]] — grand opening
 - [[閑暇]] — freetime, leisure
 - [[関係]] — relationship, related
@@ -776,7 +764,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陶汰]] — scour
 - [[陶瓷]] — ceramics, porcelain
 - [[陶瓷器]] — chinaware, porcelain, pottery
-- [[陸亀]] — tortoise
 - [[険]] — precipitous
 - [[陽傘]] — parasol
 - [[陽光]] — sunshine, sunlight
@@ -794,7 +781,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[震動]] — vibrate, shake
 - [[震怒]] — furious
 - [[霊芝]] — lingzhi, ganoderma lucidum
-- [[霜]] — frost
 - [[霧虹]] — fogbow
 - [[露国]] — russia
 - [[青年]] — youth, young man
@@ -824,7 +810,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[馬𡿺]] — agate
 - [[駆逐]] — expel, banish, deport
 - [[駐屯]] — be stationed, garrison
-- [[駝背]] — hunchbacked, humpbacked
 - [[駱駝]] — camel
 - [[高盧]] — gaul
 - [[高綿]] — cambodia
@@ -928,7 +913,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[山嶺]] — ridge of hills, mountain range
 - [[山脈]] — mountain range
 - [[左右]] — both sides
-- [[巻耳]] — field chickweed, field mouse-ear
 - [[常識]] — common sense
 - [[平日]] — weekday, ordinary day
 - [[平板]] — flat
@@ -939,7 +923,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[復活]] — revive, bring back to life
 - [[愈愈]] — more and more
 - [[挑戦]] — challenge (authority)
-- [[捕獲]] — capture, catch
 - [[捕鯨]] — whaling, whale hunting
 - [[掏模]] — pickpocket, reach in and take
 - [[掲]] — set up, install, put up
@@ -949,11 +932,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[故人]] — deceased, old friend
 - [[故障]] — breakdown, bug, hitch, malfunction
 - [[整斉]] — arrange, straighten, rectify, order
-- [[新聞]] — news (mandarin/cantonese), newspaper (japanese/korean)
 - [[施行]] — execute, carry out
 - [[既以]] — already, too late
 - [[日本語]] — japanese language
-- [[日語]] — japanese language
 - [[昆]] — swarm, descendants
 - [[昇叙]] — be promoted, advanced
 - [[明様]] — brightly, in a bright way
@@ -961,12 +942,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[暗礁]] — submerged reef, hidden obstacle
 - [[曰]] — spake, dub (ancient)
 - [[書道]] — japanese calligraphy, the way of writing
-- [[最近]] — lately, recently
 - [[最高点]] — highest point, peak
 - [[有机]] — organic
-- [[服務]] — serve, work for
 - [[本質]] — essence, nature (intrinsic quality)
-- [[東西]] — thing; object; stuff (mandarin, colloquial neutral-tone dōngxi — 买东西 "to shop," 什么东西 "what thing"), east and west (literal sense, all languages — full-tone mandarin dōngxī, 东西方 "east and west")
 - [[東部]] — east, eastern part
 - [[林雨]] — big rain
 - [[柿木]] — japanese persimmon
@@ -982,11 +960,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[楷]] — model, pattern
 - [[河川]] — rivers
 - [[洋鬼子]] — white devil, western demon
-- [[清楚]] — clear; distinct; sharply defined; understandable (mandarin/cantonese — 说清楚 "explain clearly"), neat, modest, unaffectedly elegant (japanese せいそ, describing a person's demeanor/appearance — see note)
 - [[渓流]] — mountain stream
 - [[漢詩]] — chinese poetry, poem in classical chinese
 - [[火紅]] — fire-red, blazing red
-- [[火車]] — hwacha, fire chariot
 - [[為以]] — in order that, so that
 - [[焦点]] — focus, focal point
 - [[牆壁]] — wall (ancient)
@@ -999,7 +975,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[玉璽]] — royal seal, emperor's seal
 - [[王国]] — kingdom
 - [[珈沙]] — kāṣāya (buddhist robes)
-- [[現代]] — modern
 - [[生机]] — vitality, life force
 - [[異常]] — different, weird
 - [[疲困]] — tired, sleepy, worn out
@@ -1017,9 +992,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[精油]] — oil (all kinds)
 - [[細]] — fine, thin, slender, quiet (sound)
 - [[終身]] — lifetime, whole life
-- [[経過]] — pass through, undergo
-- [[経験]] — experience, go through
-- [[結束]] — unity; solidarity; to bind/bundle together (japanese/korean), to end; to conclude; to finish (mandarin — see note)
 - [[美国人]] — american person
 - [[翅鞘]] — elytron, wing case
 - [[老子]] — laotzi, old man
@@ -1103,7 +1075,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (44)
+## Calendar (42)
 - [[分校]] — branch campus, branch school
 - [[副用]] — auxiliary
 - [[名刺]] — business card
@@ -1119,8 +1091,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[当時]] — then, that other time
 - [[形容詞]] — adjective
 - [[折衷]] — compromise, eclecticism, to find a middle ground
-- [[改変]] — alter, change
-- [[早飯]] — breakfast (mandarin/cantonese/korean), fast eater; early meal (japanese — see note)
 - [[昔日]] — long ago, golden days
 - [[星霜]] — time and years
 - [[春秋]] — spring and autumn
@@ -1314,7 +1284,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
 
-## Religion (16)
+## Religion (14)
 - [[儒家]] — confucianism, ruism
 - [[参拝]] — visit temple, pay respects at a shrine
 - [[因果]] — fateful, unlucky, karmic, causal
@@ -1322,10 +1292,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[夫子]] — confucius, master
 - [[孔子]] — confucius
 - [[孔教]] — confucianism
-- [[方便]] — suitable; convenient (mandarin/cantonese, everyday adjective), expedient means; makeshift solution; upāya (korean/japanese, noun — see note), means; tool; vehicle (vietnamese — see note)
 - [[枢机卿]] — cardinal
 - [[棕枝主日]] — palm sunday
-- [[混沌]] — hundun, primordial chaos
 - [[瞻仰]] — look up to with reverence, pay homage to
 - [[神道]] — natural law
 - [[結加夫坐]] — sit in lotus position
@@ -1365,7 +1333,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[慈善]] — charity, benevolence
 
-## Speech (16)
+## Speech (15)
 - [[受動]] — passive (voice), receptive
 - [[叱責]] — rebuke, scold
 - [[吟唱]] — chant, recite
@@ -1377,7 +1345,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[西班牙語]] — spanish language
 - [[言語]] — language
 - [[話]] — speak on, talk about
-- [[講演]] — lecture, give a speech
 - [[露斯亜語]] — russian language
 - [[露語]] — russian language
 - [[飛報]] — report rapidly

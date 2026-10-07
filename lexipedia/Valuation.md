@@ -90,6 +90,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[彰明](../words/彰明.md)<rt>ㄑㄚㄫㄇ⼶ㄫ</rt></ruby>: clear, manifest, obvious — the best match for "obvious." See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[瞭然](../words/瞭然.md)<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby>: clear, evident — the best match for "evident." See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.
 - <ruby>[簡明](../words/簡明.md)<rt>ㄍㄚㄋㄇ⼶ㄫ</rt></ruby>: simple and clear, concise and plain — clarity through brevity; narrower than [[明白]], and distinct from [[簡単]] ("easy, simple") and [[簡潔]] ("concise").
+- <ruby>[清楚](../words/清楚.md)<rt>ㄑㄧㄫㄑㄛ</rt></ruby>: clear, distinct — in Japanese, neat and modest in demeanor.
 
 **Excluded as false matches**: "clear" also loosely matches four other words, none cited here because each names a different sense: [[晴朗]] and [[明朗]] mean clear/bright in the sense of weather or mood (a sunny sky, a cheerful disposition), not mental clarity; [[清澈]] and [[澄清]] mean clear in the sense of transparent liquid, already housed on [Water](../lexipedia/Water.md). "Direct" also loosely matches [[導演]] and [[監督]], already housed on [Directions](../lexipedia/Directions.md) — those mean to direct a film or supervise a project, not the straightforwardness sense Valuation wants, which remains genuinely uncoined.
 
@@ -97,6 +98,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[精密](../words/精密.md)<rt>ㄐㄝㄫㄇㄧㄊ</rt></ruby>: exact, precise, meticulous.
 - <ruby>[健康](../words/健康.md)<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>: healthy, sound, fit — the physical-fitness sense of "fit."
+- <ruby>[方便](../words/方便.md)<rt>ㄈㄚㄫㄅ⼶ㄋ</rt></ruby>: convenient, suitable — in Korean and Japanese also the Buddhist upāya, "expedient means."
 - <ruby>[健全](../words/健全.md)<rt>ㄍㄝㄋㄐ⼔ㄋ</rt></ruby>: sound, wholesome — soundness of body, mind, or system (a sound institution, a wholesome character), distinct from [[健康]]'s ordinary physical health.
 - <ruby>[有利](../words/有利.md)<rt>⼜ㄌㄧㄜ</rt></ruby>: advantageous, favorable, to one's benefit — the adjective for a position or condition that improves someone's chances; the noun for the gain itself is [[利益]].
 

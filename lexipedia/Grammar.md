@@ -184,6 +184,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[品詞](../words/品詞.md)<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
 - noun <ruby>[名詞](../words/名詞.md)<rt>ㄇㄧㄫㄙㄚ</rt></ruby>
 - verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
+- <ruby>[用言](../words/用言.md)<rt>⼄ㄫㄝㄋ</rt></ruby> "declinable word (Japanese school grammar term: verbs, adjectives)"
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby>
 	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
 - adjective, stative word : <ruby>[性詞](../words/性詞.md)<rt>ㄙㄧㄫㄙㄚ</rt></ruby>
@@ -218,6 +219,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
 - foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
+- Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 - source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>
 - CJKV (Chinese, Japanese, Korean, Vietnamese — the standard Sinographic initialism for the four cultures/languages this vault's own project is built around) : <ruby>[中日韓越](../words/中日韓越.md)<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby>

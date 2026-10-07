@@ -61,6 +61,7 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 - <ruby>[容恕](../words/容恕.md)<rt>⼄ㄫㄙ⼄</rt></ruby>: to forgive.
 - <ruby>[諒解](../words/諒解.md)<rt>ㄌ⼘ㄫㄍ⼘ㄧ</rt></ruby>: to excuse, forgive — leaning toward reaching an understanding rather than formally pardoning.
 - <ruby>[赦免](../words/赦免.md)<rt>ㄙ⼘·ㄇ⼶ㄋ</rt></ruby>: to pardon.
+- <ruby>[贖罪](../words/贖罪.md)<rt>ㄙ⼄ㄎㄐㄛㄧ</rt></ruby>: to redeem, expiate, atone for.
 
 **Excluded as a false match**: "excuse" also loosely matches [[免除]], already housed on [Government](../lexipedia/Government.md) — that word means to be exempted from an administrative obligation (e.g. a tax or duty), not to excuse a moral wrongdoing, so it was not cited here.
 

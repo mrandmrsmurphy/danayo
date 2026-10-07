@@ -49,6 +49,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Correspondence & Documents
 
 - <ruby>[文書](../words/文書.md)<rt>ㄇㄨㄋㄙ⼄</rt></ruby>: letter, document.
+- <ruby>[書面](../words/書面.md)<rt>ㄙ⼄·ㄇ⼶ㄋ</rt></ruby>: written — as against spoken.
 - <ruby>[刪除](../words/刪除.md)<rt>ㄙㄚㄋㄐㄝㄧ</rt></ruby>: to delete, expunge — to strike something out of a text or record; originally the cutting of bamboo strips (冊 + 刂) to erase a character, now the standard computing term for deletion in Chinese.
 - <ruby>[書簡](../words/書簡.md)<rt>ㄙ⼄ㄍㄚㄋ</rt></ruby>: letter.
 - <ruby>[柬](../words/柬.md)<rt>ㄍ⼘ㄋ</rt></ruby>: letter, invitation.
@@ -90,6 +91,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
+- <ruby>[新聞](../words/新聞.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby>: news (Mandarin, Cantonese); newspaper (Japanese, Korean).
 - <ruby>[刊](../words/刊.md)<rt>ㄎㄚㄋ</rt></ruby>: a publication, periodical (週刊, "a weekly publication"; [[季刊]], "a quarterly").
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
 - <ruby>[載](../words/載.md)<rt>ㄐㄚㄧ</rt></ruby>: to record — the bound root behind [[記載]] above (also 転載, "to reprint"); in a separate, unrelated sense, also "to carry, transport" (physical cargo, 搭載).
@@ -119,6 +121,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
 - <ruby>[書道](../words/書道.md)<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby>: Japanese calligraphy, the Way of Writing — calligraphy as a discipline of self-cultivation, alongside [[武道]]; distinct from plain [[書法]].
 - <ruby>[筆順](../words/筆順.md)<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby>: stroke order (the sequence in which a character's strokes are written).
+- <ruby>[筆画](../words/筆画.md)<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby>: a stroke of a character.
 - <ruby>[長点](../words/長点.md)<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby>: long dot (calligraphy stroke; willow-leaf dot).
 - <ruby>[挑点](../words/挑点.md)<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby>: rising dot (calligraphy stroke).
 - <ruby>[懸針豎](../words/懸針豎.md)<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby>: hanging-needle vertical stroke, pointed at the bottom.

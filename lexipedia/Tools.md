@@ -15,6 +15,8 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[車](../words/車.md)<rt>ㄑ⺢</rt></ruby>: a car.
+- <ruby>[汽車](../words/汽車.md)<rt>ㄎㄧㄜㄑ⺢</rt></ruby>: a steam train, locomotive.
+- <ruby>[火車](../words/火車.md)<rt>ㄏ⺢ㄑ⺢</rt></ruby>: a "fire cart," train (hwacha).
 - <ruby>[机器](../words/机器.md)<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby>: a machine.
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel. See [Shape](../lexipedia/Shape.md) for its own citation there.
 - <ruby>[使用](../words/使用.md)<rt>ㄙㄧ⼄ㄫ</rt></ruby>: to use.

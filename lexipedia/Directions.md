@@ -28,6 +28,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[傾斜](../words/傾斜.md)<rt>ㄎㄝㄫㄙ⼘</rt></ruby>: a slope, gradient, incline — the measurable noun for obliqueness (傾斜角, "angle of inclination"), distinct from [[傾向]]'s own abstract drift/tendency.
 - <ruby>[北方](../words/北方.md)<rt>ㄅㄨㄎㄈㄚㄫ</rt></ruby>: north.
 - <ruby>[北部](../words/北部.md)<rt>ㄅㄨㄎㄅㄛㄨ</rt></ruby>: the north, a northern area.
+- <ruby>[東西](../words/東西.md)<rt>ㄉㄛㄫㄙㄝㄧ</rt></ruby>: east and west; also "thing, stuff" in colloquial Mandarin (dōngxi).
 - <ruby>[南方](../words/南方.md)<rt>ㄋㄚㄇㄈㄚㄫ</rt></ruby>: south.
 - <ruby>[東方](../words/東方.md)<rt>ㄉㄛㄫㄈㄚㄫ</rt></ruby>: east.
 - <ruby>[方位](../words/方位.md)<rt>ㄈㄚㄫ⼔ㄧ</rt></ruby>: a direction, bearing, orientation — a point of the compass or the orientation of a building; the position in physical space, in geomancy (風水) given cosmological meaning; where [[方向]] is the direction of travel or aim.

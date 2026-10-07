@@ -50,6 +50,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[表現](../words/表現.md)<rt>ㄅ⼘ㄨㄏ⼶ㄋ</rt></ruby>: to express. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to express, indicate. See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to declare, state formally. See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
+- <ruby>[講演](../words/講演.md)<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby>: a lecture; to give a speech.
 - <ruby>[披露](../words/披露.md)<rt>ㄆㄨㄧㄌㄛ</rt></ruby>: to announce. See [Existence](../lexipedia/Existence.md) for its own citation there.
 
 ### Asking & Requesting

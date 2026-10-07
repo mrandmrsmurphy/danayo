@@ -64,6 +64,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ### Torso & Trunk
 
 - <ruby>[背](../words/背.md)<rt>ㄅㄛㄧ</rt></ruby>: back.
+- <ruby>[駝背](../words/駝背.md)<rt>ㄉㄚㄅㄛㄧ</rt></ruby>: hunchbacked, humpbacked.
 - <ruby>[胴体](../words/胴体.md)<rt>ㄉㄛㄫㄊㄝㄧ</rt></ruby>: torso, trunk — also extends to a vehicle's fuselage or hull.
 - <ruby>[胸部](../words/胸部.md)<rt>ㄏ⼄ㄫㄅㄛㄨ</rt></ruby>: chest/thorax.
 - <ruby>[乳房](../words/乳房.md)<rt>ㄋㄨㄅㄚㄫ</rt></ruby>: breast.

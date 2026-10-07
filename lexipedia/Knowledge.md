@@ -61,6 +61,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[偶然](../words/偶然.md)<rt>ㄛㄨㄋ⼶ㄋ</rt></ruby>: accidental, coincidental, random — chance itself, distinct from this cluster's own graded *likelihood* vocabulary (偶然性, "randomness, contingency").
 - <ruby>[当然](../words/当然.md)<rt>ㄉㄚㄫㄋ⼶ㄋ</rt></ruby>: of course, natural, inevitable — an epistemic-certainty adverb sitting near the top of this gradient, alongside [[必然]].
 - <ruby>[実際](../words/実際.md)<rt>ㄙㄧㄊㄐㄝ</rt></ruby>: actual, real, in fact.
+- <ruby>[経験](../words/経験.md)<rt>ㄍㄝㄫㄝㄇ</rt></ruby>: experience; to go through.
 - <ruby>[真実](../words/真実.md)<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby>: truth, reality; "real."
 - <ruby>[真正](../words/真正.md)<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby>: genuine, real.
 

@@ -68,6 +68,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 ### Change & Transformation
 
 - <ruby>[変化](../words/変化.md)<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby>: to change — the general-purpose word.
+- <ruby>[改変](../words/改変.md)<rt>ㄍㄚㄧㄅ⼶ㄋ</rt></ruby>: to alter, change.
 - <ruby>[変動](../words/変動.md)<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby>: to change, fluctuate — implies ongoing or unstable movement, not a single discrete change (also <ruby>[起伏](../words/起伏.md)<rt>ㄎㄧㄅㄨㄎ</rt></ruby>, "to undulate, fluctuate," a near-synonym leaning more figurative — "the ups and downs").
 - <ruby>[転化](../words/転化.md)<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby>: to change, convert — implies turning into something categorically different.
 - <ruby>[変成](../words/変成.md)<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby>: to change into, metamorphosize into.

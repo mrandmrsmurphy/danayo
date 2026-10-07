@@ -81,6 +81,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[攫取](../words/攫取.md)<rt>ㄈㄛㄎㄑㄛㄨ</rt></ruby>: to seize, grab, snatch — the quick, greedy grab, where [[奪取]] stresses wresting something away.
 - <ruby>[拿捕](../words/拿捕.md)<rt>ㄋㄚㄅㄛ</rt></ruby>: to take, grasp, seize, capture.
 - <ruby>[捕](../words/捕.md)<rt>ㄅㄛ</rt></ruby>: to catch, grab — the bound root behind [[拿捕]] above (also 逮捕, "to arrest").
+- <ruby>[捕獲](../words/捕獲.md)<rt>ㄅㄛㄏ⺢ㄎ</rt></ruby>: to capture, catch.
 - <ruby>[監禁](../words/監禁.md)<rt>ㄍㄚㄇㄍㄧㄇ</rt></ruby>: to imprison, incarcerate; imprisonment.
 - <ruby>[禁錮](../words/禁錮.md)<rt>ㄍㄧㄇㄍㄛ</rt></ruby>: to imprison.
 - <ruby>[俘虜](../words/俘虜.md)<rt>ㄈㄨㄌㄛ</rt></ruby>: a prisoner of war, captive.
