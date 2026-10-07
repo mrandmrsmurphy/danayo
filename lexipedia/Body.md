@@ -160,6 +160,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[腎臓](../words/腎臓.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: kidney.
 - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: brain.
 - <ruby>[腸管](../words/腸管.md)<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>: intestines.
+- <ruby>[内腔](../words/内腔.md)<rt>ㄋㄛㄧㄎㄚㄫ</rt></ruby>: a lumen, body cavity — the hollow inside a tubular organ or vessel (the lumen of a blood vessel or intestine), or an internal cavity of the body; the stand-in for the bound character 腔.
 - <ruby>[骨格](../words/骨格.md)<rt>ㄍㄛㄊㄍㄚㄎ</rt></ruby>, <ruby>[骸骨](../words/骸骨.md)<rt>ㄏ⼶ㄍㄛㄊ</rt></ruby>: skeleton.
 - <ruby>[頭骨](../words/頭骨.md)<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby>: skull.
 - <ruby>[肋骨](../words/肋骨.md)<rt>ㄌㄜㄎㄍㄛㄊ</rt></ruby>: rib.

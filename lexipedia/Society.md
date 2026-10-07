@@ -43,6 +43,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit.
 - <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to join, participate.
 - <ruby>[加入](../words/加入.md)<rt>ㄍㄚ·ㄋㄧㄆ</rt></ruby>: to join, enroll (as a member) — a near-synonym of [[参加]].
+- <ruby>[所属](../words/所属.md)<rt>ㄙㄜㄐㄛㄎ</rt></ruby>: affiliation, membership — the body, team or organization one belongs to (所属部門, "the department one belongs to"); the fact of being attached to a group, as against [[加入]]'s act of joining it.
 
 ### Civilization & Tradition
 
@@ -112,6 +113,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[純篤](../words/純篤.md)<rt>ㄐㄨㄋㄉㄛㄎ</rt></ruby>: sincere, genuine and steadfast — pure in character and earnest in devotion; a literary word of praise for plain, unfeigned goodness, the opposite of the counterfeit virtue of [[偽善]].
 - <ruby>[賢淑](../words/賢淑.md)<rt>ㄏㄝㄋㄙㄨㄎ</rt></ruby>: virtuous and wise, of refined character — the classical praise-word for a cultivated woman; the stand-in for the bound character 淑.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: upright, honest, incorrupt — especially the virtue of resisting bribery (廉潔, 清廉); a secondary sense, "cheap, low-priced," is housed on [Trade](../lexipedia/Trade.md).
@@ -174,6 +176,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[交遊](../words/交遊.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to socialize, form a wide social network — a true inherited Middle Chinese homophone of [[交友]] (already collapsed in Japanese too), but genuinely distinct in scope: a broad social network (交遊廣闊) rather than 交友's individual close bond.
 - <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — two sides interacting through proper etiquette, an undocumented near-synonym of [[交遊]].
 - <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
+- <ruby>[親睦](../words/親睦.md)<rt>ㄑㄧㄋㄇㄨㄎ</rt></ruby>: friendship, cordial relations — warm, friendly relations among the members of a group (親睦会, "a social gathering"); the group-level counterpart to [[友好]]'s friendly relations between parties.
 - <ruby>[仲介](../words/仲介.md)<rt>ㄉㄨㄫㄍ⼶</rt></ruby>: a mediator, broker.
 - <ruby>[仲媒](../words/仲媒.md)<rt>ㄉㄨㄫㄇㄛㄧ</rt></ruby>: a matchmaker.
 - <ruby>[庇護](../words/庇護.md)<rt>ㄅㄧㄜㄏㄛ</rt></ruby>: to protect, shelter.

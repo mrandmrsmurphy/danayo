@@ -16,6 +16,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[気分](../words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby>: mood, feeling.
+- <ruby>[雰囲気](../words/雰囲気.md)<rt>ㄈㄨㄋ·ㄨㄧ·ㄎㄧㄜ</rt></ruby>: atmosphere, mood, ambiance — the overall feeling a place, gathering or situation gives off; the felt tone of surroundings, where [[気分]] is a person's own mood.
 - <ruby>[気](../words/気.md)<rt>ㄎㄧㄜ</rt></ruby>: feeling, spirit, energy — the broader bound root behind [[気分]]'s specific "mood" (also 元気, "vigor"; 空気, "air"); distinct from its sibling compound [[気息]]'s own separate "vital-breath" sense, housed on [[Religion]] instead.
 - <ruby>[幸福](../words/幸福.md)<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby>: happy, blessed.
 - <ruby>[悲](../words/悲.md)<rt>ㄅㄧㄜ</rt></ruby>: to be sad.

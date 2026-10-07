@@ -23,6 +23,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[外部](../words/外部.md)<rt>⺢ㄧㄅㄛㄨ</rt></ruby>: the outside, exterior.
 - <ruby>[周囲](../words/周囲.md)<rt>ㄐㄨㄛㄨㄧ</rt></ruby>: the area around something, surroundings.
 - <ruby>[周辺](../words/周辺.md)<rt>ㄐㄨㄛㄅㄝㄋ</rt></ruby>: the surroundings, vicinity, periphery — the area on all sides of a place or core, set apart from [[周囲]] by its sense of an outer margin (駅周辺 "around the station", 周辺機器 "peripheral devices").
+- <ruby>[窮僻](../words/窮僻.md)<rt>ㄍㄨㄫㄆㄝㄎ</rt></ruby>: remote, out-of-the-way, backward — far from the centre and from main roads, and so poor and underdeveloped (the idiom 窮郷僻壌 "a remote, poor backwater"); a literary word, opposite in direction to [[周辺]]'s periphery around a core.
 - <ruby>[於](../words/於.md)<rt>ㄛ</rt></ruby>: in, at, during — the general locative case particle.
 
 **Not yet coined**: "gap," "space" (as a general abstract noun), and "frame" (in the structural, bounding sense — as opposed to [[床]]'s furniture/chassis sense) all have no dedicated Dan'a'yo word yet.

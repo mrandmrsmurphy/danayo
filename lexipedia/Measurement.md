@@ -42,6 +42,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, tally.
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code — an assigned, identifying number (serial number, ID), distinct from [[数字]]'s abstract numeral.
 - <ruby>[総数](../words/総数.md)<rt>ㄐㄛㄫㄙㄨ</rt></ruby>: a total, grand total.
+- <ruby>[累計](../words/累計.md)<rt>ㄌㄨㄧㄍㄝㄧ</rt></ruby>: a cumulative total, running total — the sum accumulated so far up to a point in time (累計売上, "cumulative sales"), as against [[総数]]'s final overall count.
 
 - <ruby>[付加](../words/付加.md)<rt>ㄈㄨㄍㄚ</rt></ruby>: addition, appending.
 

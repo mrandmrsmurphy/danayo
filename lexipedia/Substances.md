@@ -46,6 +46,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[泥](../words/泥.md)<rt>ㄋㄝㄧ</rt></ruby>: mud — wet earth, distinct from the dry particulate words above.
 - <ruby>[壌土](../words/壌土.md)<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby>: loam, loamy soil — rich, crumbly farmland soil, a balanced mix of sand, silt and clay; the stand-in for the bound character 壌 ("soil"), here as cultivated earth rather than mud ([[泥]]) or bare ground ([[土]]).
 - <ruby>[渣](../words/渣.md)<rt>ㄐ⺢</rt></ruby>: dregs, lees, sediment — leftover residue, distinct from the raw environmental dirt/dust words above.
+- <ruby>[沈淀](../words/沈淀.md)<rt>ㄑㄧㄇㄉㄝㄋ</rt></ruby>: sediment, precipitate; to settle out — particles that sink from a liquid and collect at the bottom, more specifically a settling process than [[渣]]'s general dregs; the stand-in for the bound character 淀.
 - <ruby>[粉](../words/粉.md)<rt>ㄈㄨㄋ</rt></ruby>: powder.
 - <ruby>[粉末](../words/粉末.md)<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby>: powder — a compound form, an undocumented near-duplicate of [[粉]].
 - <ruby>[屑](../words/屑.md)<rt>ㄙㄝㄊ</rt></ruby>: scraps, fragments — sawdust, crumbs, shavings; by extension (不屑), something too trivial to bother with.
@@ -56,6 +57,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree. See [Plants](../lexipedia/Plants.md) for its own citation there.
 - <ruby>[炭](../words/炭.md)<rt>ㄊㄚㄋ</rt></ruby>: coal, charcoal — also, bound in 炭素, "carbon."
 - <ruby>[薄膜](../words/薄膜.md)<rt>ㄅㄚㄎㄇㄚㄎ</rt></ruby>: membrane, thin film — a thin layer of material, whether biological or manufactured.
+- <ruby>[膠水](../words/膠水.md)<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby>: glue, liquid adhesive — a sticky liquid used to bond surfaces; the stand-in for the bound character 膠 (glue, originally the animal-hide glue).
 - <ruby>[石灰](../words/石灰.md)<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby>: lime, quicklime — burnt limestone, also the root of the element name [[石灰素]] (calcium).
 - <ruby>[石油](../words/石油.md)<rt>ㄙㄝㄎ·⼜</rt></ruby>: petroleum, crude oil — the raw fossil substance, of which [[汽油]] below is a refined product.
 - <ruby>[汽油](../words/汽油.md)<rt>ㄎㄧㄜ⼜</rt></ruby>: gasoline — a manufactured liquid fuel, cited here for lack of any dedicated automotive/petrochemical domain elsewhere in this vault.

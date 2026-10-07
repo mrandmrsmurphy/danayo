@@ -57,6 +57,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request, claim. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[要請](../words/要請.md)<rt>⼄ㄨㄑㄧㄫ</rt></ruby>: to request, demand — a more formal/official register than [[要求]]'s forceful claim.
 - <ruby>[催](../words/催.md)<rt>ㄑㄛㄧ</rt></ruby>: to press, urge, hasten (someone to do something) — urging someone into action, distinct from [[要求]]/[[要請]]'s plain demand or request.
+- <ruby>[督促](../words/督促.md)<rt>ㄉㄛㄎㄑㄛㄎ</rt></ruby>: to urge, press, supervise and hurry — to oversee someone and press them to carry out a duty (督促状, "a reminder letter"); an official, supervisory urging, stronger than [[催]]'s plain pressing.
 - <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to suggest, propose. See [Society](../lexipedia/Society.md) for its own citation there.
 - <ruby>[暗示](../words/暗示.md)<rt>ㄚㄇㄍㄝ</rt></ruby>: to suggest, hint, imply — distinct from [[提案]]'s formal proposal.
 
@@ -72,6 +73,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[報](../words/報.md)<rt>ㄅㄚㄨ</rt></ruby>: to report, tell — the plain basic word.
 - <ruby>[報告](../words/報告.md)<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby>: to report, inform, advise — conveying information formally.
 - <ruby>[忠告](../words/忠告.md)<rt>ㄊㄨㄫㄍㄚㄨ</rt></ruby>: to advise — earnest, well-meaning counsel, distinct from [[報告]]'s secondary "advise" sense.
+- <ruby>[勧告](../words/勧告.md)<rt>ㄎㄨㄋㄍㄚㄨ</rt></ruby>: a recommendation, advisory — formal advice urging someone to act in a given way (an official recommendation or warning from an authority, 勧告を受ける "to be advised"); more formal and institutional than [[忠告]]'s personal counsel.
 - <ruby>[報知](../words/報知.md)<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby>: to inform, report, notify.
 - <ruby>[通知](../words/通知.md)<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby>: to notify, inform.
 - <ruby>[稟告](../words/稟告.md)<rt>ㄅㄨㄇㄍㄚㄨ</rt></ruby>: to report to a superior, inform — a hierarchical register.
@@ -106,6 +108,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[騙](../words/騙.md)<rt>ㄆ⼶ㄋ</rt></ruby>: to deceive, cheat, defraud.
 - <ruby>[諂](../words/諂.md)<rt>ㄑㄝㄇ</rt></ruby>: to flatter.
 - <ruby>[風刺](../words/風刺.md)<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby>: to mock — the satirical/mockery register.
+- <ruby>[痛罵](../words/痛罵.md)<rt>ㄊㄛㄫㄇㄚ</rt></ruby>: to berate, scold severely — to denounce someone harshly and at length; stronger than a plain scolding ([[叱責]]'s rebuke), with 痛 ("bitterly") as the intensifier.
 - <ruby>[盟誓](../words/盟誓.md)<rt>ㄇ⼶ㄫㄙㄝ</rt></ruby>: to swear, vow.
 - <ruby>[虚偽](../words/虚偽.md)<rt>ㄏ⼄⼔ㄧ</rt></ruby>: a falsehood, lie — see [Sin](../lexipedia/Sin.md) for its own citation there.
 - <ruby>[捏造](../words/捏造.md)<rt>ㄋㄝㄊㄑㄚㄨ</rt></ruby>: to fabricate, make up (a story, evidence, a rumour) — to invent something that did not happen and present it as fact; the act of fabrication, as opposed to [[虚偽]]'s falsehood or [[騙]]'s deceiving a person; the stand-in for the bound character 捏.

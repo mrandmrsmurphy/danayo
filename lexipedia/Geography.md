@@ -15,7 +15,9 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
+- <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.
 - <ruby>[愛媛](../words/愛媛.md)<rt>ㄚㄧㄛㄋ</rt></ruby>: Ehime, a prefecture of [[日本]] on the island of Shikoku.
+- <ruby>[栃木](../words/栃木.md)<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby>: Tochigi, a prefecture of [[日本]] in the Kantō region north of Tokyo, whose capital is Utsunomiya and which contains Nikkō; named for the horse-chestnut tree (栃) written with a Japan-made character.
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, including specific named rivers such as the <ruby>[江戸川](words/江戸川.md)<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> (Edo River) forming part of the Tokyo–Chiba border and the <ruby>[瀧川](words/瀧川.md)<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby> (Takigawa, "waterfall river," also a Japanese surname).  

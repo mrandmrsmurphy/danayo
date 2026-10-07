@@ -44,6 +44,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[穀物](../words/穀物.md)<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>: grain, cereal crops — the harvested crop collectively, distinct from [[禾]]'s living plant. See [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[五穀](../words/五穀.md)<rt>ㄛㄍㄛㄎ</rt></ruby>: the Five Grains — the staple crops of traditional East Asian agriculture (disputed exact membership; typically millet, wheat/barley, soybeans, plus rice or hemp depending on tradition), central to imperial ritual agriculture and the Mandate of Heaven.
 - <ruby>[穂](../words/穂.md)<rt>ㄙㄨㄧ</rt></ruby>: an ear of grain — the seed-bearing spike of rice, wheat, or similar cereal (稲穂, "ear of rice").
+- <ruby>[苗圃](../words/苗圃.md)<rt>ㄇ⼘ㄨㄅㄛ</rt></ruby>: a plant nursery, seedbed — the plot where seedlings are raised from [[種子]] (seed) before being transplanted; the stand-in for the bound character 圃 (garden plot).
 - <ruby>[野菜](../words/野菜.md)<rt>⼘ㄑㄚㄧ</rt></ruby>: vegetables; edible wild herbs.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens — see [Food](../lexipedia/Food.md) for its own citation there.
 
@@ -57,6 +58,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[檀香](../words/檀香.md)<rt>ㄉㄚㄋㄏ⼘ㄫ</rt></ruby>: sandalwood as a fragrant material — the aromatic heartwood and incense, as against [[檀木]], the tree and its wood.
 - <ruby>[桑木](../words/桑木.md)<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby>: a mulberry tree.
 - <ruby>[梨木](../words/梨木.md)<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby>: a pear tree.
+- <ruby>[槐樹](../words/槐樹.md)<rt>ㄏ⺢ㄧㄙㄨ</rt></ruby>: the pagoda tree (Styphnolobium japonicum), a tall shade tree of China and Korea whose flowers are used as food and as a yellow dye; the stand-in for the bound character 槐.
 
 ### Flowers & Ornamentals
 
@@ -77,6 +79,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[蓼藍](../words/蓼藍.md)<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby>: Japanese indigo, a dye plant — see also [Color](../lexipedia/Color.md)'s [[藍色]], the dye/hue this plant produces (a different word, not a duplicate citation).
 - <ruby>[藍](../words/藍.md)<rt>ㄌㄚㄇ</rt></ruby>: the indigo plant — the bound root behind [[蓼藍]] above and [[藍色]] on [[Color]].
 - <ruby>[篠竹](../words/篠竹.md)<rt>ㄙㄛㄨㄐㄨㄎ</rt></ruby>: dwarf bamboo, bamboo grass.
+- <ruby>[萎蕤](../words/萎蕤.md)<rt>⼔ㄧㄋㄨㄧ</rt></ruby>: Solomon's seal, a drooping-stemmed herb (Polygonatum, especially fragrant Solomon's seal, whose rhizome is the Chinese medicine 玉竹); the stand-in for the bound character 蕤.
 
 ### Vegetation, Generally
 

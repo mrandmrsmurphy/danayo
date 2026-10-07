@@ -45,6 +45,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>: final, last.
+- <ruby>[畢竟](../words/畢竟.md)<rt>ㄆㄧㄊㄍ⼶ㄫ</rt></ruby>: after all, in the end — when everything has been considered or has run its course; a conclusion-marking adverb for the final outcome or the underlying fact, rather than [[最後]]'s "final, last" in a sequence.
 - <ruby>[初代](../words/初代.md)<rt>ㄑㄛㄉㄚㄧ</rt></ruby>: first, inaugural, founding — the first holder of a line of succession (初代社長, "the first president"), not merely first in a sequence.
 - <ruby>[昨](../words/昨.md)<rt>ㄐㄚㄎ</rt></ruby>: last, previous — the Calendar relative-time prefix; see [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>: current — see [Calendar](../lexipedia/Calendar.md) and [Grammar](../lexipedia/Grammar.md) for their own citations there.

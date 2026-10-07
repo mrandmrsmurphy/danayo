@@ -48,6 +48,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 
 - <ruby>[腐朽](../words/腐朽.md)<rt>ㄆㄨㄏ⼜</rt></ruby>: to decay, rot (organic or moral, literary register).
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, become corrupt (organic or moral, ordinary register).
+- <ruby>[瀕死](../words/瀕死.md)<rt>ㄅㄧㄋㄙㄧㄜ</rt></ruby>: near death, moribund — on the point of dying, in the last stage before death; the state of dying, between illness and [[死亡]].
 - <ruby>[荒廃](../words/荒廃.md)<rt>ㄏ⺢ㄫㄈㄝ</rt></ruby>: to fall into ruin, decay (of a place).
 - <ruby>[霊柩](../words/霊柩.md)<rt>ㄌㄝㄫㄍ⼜</rt></ruby>: a coffin.
 - <ruby>[死骸](../words/死骸.md)<rt>ㄙㄧㄜㄏ⼶</rt></ruby>: a corpse, dead body — matter-of-fact rather than euphemistic, the body as physical remains.

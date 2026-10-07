@@ -101,6 +101,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
+- <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
 - <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
 - <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
@@ -144,6 +145,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[酔](../words/酔.md)<rt>ㄐㄨㄧ</rt></ruby>: drunk.
 - <ruby>[酩丁](../words/酩丁.md)<rt>ㄇㄝㄫㄉㄝㄫ</rt></ruby>: dead drunk, thoroughly intoxicated — a step beyond [[酔]]; written 酩酊 in the source languages.
 - <ruby>[酒糟](../words/酒糟.md)<rt>ㄐㄨㄛㄐㄚㄨ</rt></ruby>: distiller's grain, lees.
+- <ruby>[酵母](../words/酵母.md)<rt>ㄍ⼄ㄨㄇㄛㄨ</rt></ruby>: yeast, leaven — the fermenting fungus used in brewing and baking; the agent behind the wine, beer and bread above.
 - <ruby>[渇](../words/渇.md)<rt>ㄎㄚㄊ</rt></ruby>: thirst, thirsty.
 - <ruby>[茉莉](../words/茉莉.md)<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby>: white jasmine (tea-flavoring).
 

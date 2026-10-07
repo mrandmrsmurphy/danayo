@@ -29,6 +29,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[善](../words/善.md)<rt>ㄙ⼶ㄋ</rt></ruby>: good — the moral-goodness register, distinct from plain [[好]].
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
+- <ruby>[拙劣](../words/拙劣.md)<rt>ㄐ⼔ㄊㄌㄝㄊ</rt></ruby>: clumsy, inept, crude — poorly made or poorly done, both unskilled and of low quality (crude writing, a bungled imitation); a literary register, close to [[悪劣]]'s vile inferiority but about lack of skill rather than moral badness.
 - <ruby>[弊](../words/弊.md)<rt>ㄆㄝㄧ</rt></ruby>: wrong, evil. See [Directions](../lexipedia/Directions.md) for its own citation there.
 - <ruby>[偉大](../words/偉大.md)<rt>ㄨㄧㄉㄚㄧ</rt></ruby>: great — of character or achievement, distinct from plain [[大]].
 - <ruby>[浩大](../words/浩大.md)<rt>ㄏㄚㄨㄉㄚㄧ</rt></ruby>: great — vast, immense. See [Dimensions](../lexipedia/Dimensions.md) for its own citation there.

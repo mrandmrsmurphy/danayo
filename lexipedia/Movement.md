@@ -29,6 +29,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[登](../words/登.md)<rt>ㄉㄨㄫ</rt></ruby>: to mount, board, climb.
 - <ruby>[上昇](../words/上昇.md)<rt>ㄙ⼘ㄫㄙㄨㄫ</rt></ruby>: to rise, ascend, increase — the ordinary verb for an upward trajectory, literal (temperature, altitude, smoke) or figurative (prices, rank, morale) alike; distinct from [[登]]'s effortful climbing and [[勃興]]'s abstract-only rise of a trend or power.
 - <ruby>[引](../words/引.md)<rt>ㄧㄋ</rt></ruby>: to pull, tug.
+- <ruby>[牽引](../words/牽引.md)<rt>ㄎㄝㄋ·ㄧㄋ</rt></ruby>: to tow, haul — to pull something along behind, as a vehicle pulls a load or a traction force draws a part; a heavier, sustained pulling than [[引]]'s plain pull.
 - <ruby>[留](../words/留.md)<rt>ㄌ⼜</rt></ruby>: to remain, stay.
 - <ruby>[嵌入](../words/嵌入.md)<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby>: to embed, inlay, insert into.
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.

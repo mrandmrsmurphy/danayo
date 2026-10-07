@@ -52,6 +52,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[斬](../words/斬.md)<rt>ㄐㄚㄇ</rt></ruby>: to cut, chop, sever — decisive and often violent (beheading), distinct from [[切]]'s ordinary cutting.
 - <ruby>[割](../words/割.md)<rt>ㄍㄚㄊ</rt></ruby>: to cut, divide, separate — see [[Numbers]] for its own citation there.
 - <ruby>[割断](../words/割断.md)<rt>ㄍㄚㄊㄉ⺢ㄋ</rt></ruby>: to cut off, sever — to cut something through completely so that it is divided, literally (a rope, a cord) and figuratively (ties, a connection); the stand-in for the bound character 断 in this sense.
+- <ruby>[截取](../words/截取.md)<rt>ㄐㄛㄊㄑㄛㄨ</rt></ruby>: to cut off and take — to sever a portion and take it, or to intercept something in transit (截取画面, "to capture a screen"); a cutting-out-and-taking, not just the cutting through of [[割断]].
 
 ### Joining, Linking & Connecting
 
@@ -66,6 +67,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[希釈](../words/希釈.md)<rt>ㄏㄧㄜㄙㄝㄎ</rt></ruby>: to dilute — to thin a solution by adding solvent, the opposite of concentrating; the reverse of mixing in more solute.
 - <ruby>[抽出](../words/抽出.md)<rt>ㄑㄨㄑㄨㄊ</rt></ruby>: to extract, draw out, isolate — separating one element from a larger whole or mixture (a solute, a sample, a record); the stand-in for the bound character 抽.
 - <ruby>[拌和](../words/拌和.md)<rt>ㄅㄚㄋㄏ⺢</rt></ruby>: to stir, mix, blend — see [[Food]] for its own citation there.
+- <ruby>[添加](../words/添加.md)<rt>ㄊㄝㄇㄍㄚ</rt></ruby>: to add, put in as an addition — to add an ingredient, an additive or a further item to something already there (添加剤, "an additive"); the act of adding in, distinct from [[加多]]'s making something larger.
 
 ### Piercing & Digging
 
