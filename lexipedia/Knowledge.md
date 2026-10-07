@@ -166,6 +166,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[科学](../words/科学.md)<rt>ㄎ⺢ㄏㄚㄎ</rt></ruby>: science.
 - <ruby>[化学](../words/化学.md)<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>: chemistry.
 - <ruby>[地理学](../words/地理学.md)<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby>: geography as a field of study.
+- <ruby>[心理学](../words/心理学.md)<rt>ㄙㄧㄇㄌㄧㄏㄚㄎ</rt></ruby>: psychology.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
 - <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.

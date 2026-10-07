@@ -14,6 +14,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[新羅](../words/新羅.md)<rt>ㄙㄧㄋㄌㄛ</rt></ruby>: Silla, the southeasternmost of the Three Kingdoms of Korea, traditionally founded in 57 BC at Gyeongju and surviving until 935; the Japanese reading しらぎ is the conventional historical one, not the on'yomi しんら.
 - <ruby>[高句麗](../words/高句麗.md)<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby>: Goguryeo, the northernmost of the Korean Three Kingdoms, traditionally founded in 37 BC in the Yalu basin and conquered in 668, a power in Manchuria as much as Korea; its Mandarin reading Gāogōulí has an irregular gōu for 句.
 - <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
+- <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire.
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>

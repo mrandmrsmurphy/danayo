@@ -70,6 +70,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[掩襲](../words/掩襲.md)<rt>ㄝㄇㄙㄜㄆ</rt></ruby>: a sneak attack, ambush.
 - <ruby>[進撃](../words/進撃.md)<rt>ㄐㄧㄋㄍㄝㄎ</rt></ruby>: to charge, attack.
 - <ruby>[打撃](../words/打撃.md)<rt>ㄉㄚㄍㄝㄎ</rt></ruby>: to strike, beat, hit, percuss.
+- <ruby>[撲](../words/撲.md)<rt>ㄆㄛㄎ</rt></ruby>: to rush at.
 - <ruby>[撃](../words/撃.md)<rt>ㄍㄝㄎ</rt></ruby>: to strike, hit, beat.
 - <ruby>[殴打](../words/殴打.md)<rt>ㄛㄨㄉㄚ</rt></ruby>: to strike, batter.
 - <ruby>[攻](../words/攻.md)<rt>ㄍㄛㄫ</rt></ruby>: to attack, criticize.

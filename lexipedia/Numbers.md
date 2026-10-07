@@ -103,6 +103,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cross-checked term by term against real Mandarin/Cantonese/Japanese/Korean/Vietnamese usage rather than invented wholesale. See the Semantic Range Notes below for the recurring patterns this coining work surfaced.
 
 - <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
+- <ruby>[幾何学](../words/幾何学.md)<rt>ㄍㄧㄜㄏㄚㄏㄚㄎ</rt></ruby>: geometry.
 - <ruby>[圓周率](../words/圓周率.md)<rt>⼔ㄋㄐㄨㄛㄌㄨㄊ</rt></ruby>: pi (π) — the circle-circumference ratio.
 - <ruby>[小数点](../words/小数点.md)<rt>ㄙㄛㄙㄨㄉㄝㄇ</rt></ruby>: a decimal point.
 - <ruby>[二次元](../words/二次元.md)<rt>ㄋㄧㄜㄑㄧㄜ⼔ㄋ</rt></ruby>: two-dimensional, 2D — the formal geometric sense (contrast 一次元/三次元/四次元); also, in modern East Asian otaku slang, "the 2D world" of anime/manga/games as opposed to real (三次元) life.

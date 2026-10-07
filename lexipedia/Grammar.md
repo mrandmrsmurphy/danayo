@@ -18,6 +18,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Comparatives
 - more <ruby>[更](../words/更.md)<rt>ㄍㄚㄫ</rt></ruby>
 - most <ruby>[最](../words/最.md)<rt>ㄐ⼔</rt></ruby>
+- than, compared to : <ruby>[比](../words/比.md)<rt>ㄅㄧㄜ</rt></ruby>
 - least, less: not yet coined — Dan'a'yo has no dedicated "less/least" pole distinct from negating 更/最.
 
 ### Conjunctions
@@ -160,6 +161,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[介詞](../words/介詞.md)<rt>ㄍ⼶ㄙㄚ</rt></ruby> "adposition (preposition/postposition), the grammatical category linking a noun phrase to its clause"
 - place after, postposition (verb) : <ruby>[後置](../words/後置.md)<rt>ㄏㄨㄛㄑㄧ</rt></ruby>
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
+- <ruby>[後置詞](../words/後置詞.md)<rt>ㄏㄨㄛㄑㄧㄙㄚ</rt></ruby> "postposition"
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[感詞](../words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> "interjection"
@@ -190,6 +192,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[実詞](../words/実詞.md)<rt>ㄙㄧㄊㄙㄚ</rt></ruby> "content word (as against a function word)"
 - <ruby>[単詞](../words/単詞.md)<rt>ㄉㄚㄋㄙㄚ</rt></ruby> "word (a single word)"
 - verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
+- adjective : <ruby>[形容詞](../words/形容詞.md)<rt>ㄏㄝㄫ⼄ㄫㄙㄚ</rt></ruby>
 - <ruby>[用言](../words/用言.md)<rt>⼄ㄫㄝㄋ</rt></ruby> "declinable word (Japanese school grammar term: verbs, adjectives)"
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby>
 	- intransitive <ruby>[自動詞](../words/自動詞.md)<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby>
@@ -225,6 +228,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
 - foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
+- foreign language, the full form of 外語 : <ruby>[外国語](../words/外国語.md)<rt>⺢ㄧㄍㄛㄎ·⼄</rt></ruby>
 - international language, lingua franca, koine : <ruby>[国際語](../words/国際語.md)<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby>
 - Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>

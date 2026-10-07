@@ -85,6 +85,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 ### Grandparents (+2)
 
 - <ruby>[祖父](../words/祖父.md)<rt>ㄐㄜㄅㄨ</rt></ruby>: paternal grandfather — corrected 2026-09-21; the `english` gloss had been left generic despite the word's own Notes and Vietnamese field already treating it as paternal-specific, contrasted with [[外祖父]] below.
+- <ruby>[曽](../words/曽.md)<rt>ㄐㄜㄫ</rt></ruby>: great- (as in great-grandparent).
 - <ruby>[老爺](../words/老爺.md)<rt>ㄌㄚㄨ⼘</rt></ruby>: grandfather, or a respectful term for a master/elder — unlike [[祖父]], not documented as paternal-specific in its own Notes; not to be confused with the unrelated, un-coined 姥爺 (built on 姥, the same root as [[姥姥]]), which in real Mandarin is the actual colloquial term for a *maternal* grandfather.
 - <ruby>[祖母](../words/祖母.md)<rt>ㄐㄜ·ㄇㄛㄨ</rt></ruby>: paternal grandmother.
 - <ruby>[外祖父](../words/外祖父.md)<rt>⺢ㄧㄐㄜㄅㄨ</rt></ruby>: maternal grandfather.
@@ -123,6 +124,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 ### Beyond: Descendants (−3 and up)
 
 - <ruby>[子孫](../words/子孫.md)<rt>ㄐㄜㄙㄛㄋ</rt></ruby>: descendants — literally "children and grandchildren," the concrete everyday term.
+- <ruby>[昆](../words/昆.md)<rt>ㄍㄛㄋ</rt></ruby>: a swarm, descendants.
 - <ruby>[後裔](../words/後裔.md)<rt>ㄏㄨㄛ⼶</rt></ruby>: descendant, posterity — a more formal/literary near-synonym of [[子孫]].
 - <ruby>[嗣子](../words/嗣子.md)<rt>ㄙㄜㄐㄜ</rt></ruby>: heir.
 

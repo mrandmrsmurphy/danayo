@@ -15,6 +15,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[光](../words/光.md)<rt>ㄎ⺢ㄫ</rt></ruby>: light.
+- <ruby>[晒](../words/晒.md)<rt>ㄙ⼘ㄧ</rt></ruby>: to expose, dry in the sun, bleach.
 - <ruby>[圓光](../words/圓光.md)<rt>⼔ㄋㄎ⺢ㄫ</rt></ruby>: a halo, nimbus, aureole.
 - <ruby>[暗](../words/暗.md)<rt>ㄚㄇ</rt></ruby>: dark.
 - <ruby>[明](../words/明.md)<rt>ㄇ⼶ㄫ</rt></ruby>: bright.

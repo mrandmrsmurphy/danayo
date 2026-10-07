@@ -6,33 +6,33 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 784
-- **Calendar**: 29
-- **Geography**: 49
+- **Unsorted**: 762
+- **Calendar**: 28
+- **Geography**: 46
 - **Life**: 12
 - **Light**: 0
 - **Locatives**: 3
 - **Measurement**: 2
-- **Mind**: 7
-- **Movement**: 11
-- **Nature**: 4
+- **Mind**: 6
+- **Movement**: 9
+- **Nature**: 3
 - **Physics**: 6
 - **Plants**: 8
 - **Religion**: 7
 - **Sensation**: 5
 - **Reproduction**: 2
-- **Shape**: 3
+- **Shape**: 2
 - **Sin**: 9
 - **Speech**: 10
 - **Substances**: 5
-- **Time**: 5
+- **Time**: 4
 - **Tools**: 4
 - **Trade**: 6
 - **Valuation**: 7
 - **War**: 6
 - **Work**: 5
 
-## Unsorted (784)
+## Unsorted (762)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
@@ -76,7 +76,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[挿入]] — insert, stick into
 - [[星条旗]] — stars and stripes
 - [[星洲]] — star islet, a literary sobriquet for singapore
-- [[晒]] — expose, dry in the sun, bleach
 - [[本校]] — head school, our school, this school
 - [[榜文]] — official proclamation, posted notice
 - [[漢江]] — han river
@@ -118,9 +117,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[四捨五入]] — rounding
 - [[国籍]] — nationality
 - [[圓周]] — circumference
-- [[外国人]] — foreigner
 - [[夢嫌]] — nightmare
-- [[大使館]] — embassy
 - [[太様]] — greatly, exceedingly
 - [[宿題]] — homework, assignment
 - [[尊魚]] — trout
@@ -129,9 +126,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[山本]] — yamamoto
 - [[川口]] — kawaguchi
 - [[川埼]] — kawasaki
-- [[後置詞]] — postposition
 - [[徽章]] — badge, insignia, emblem
-- [[恭敬]] — respectful, deferential
 - [[悪化]] — worsen, aggravate, deteriorate
 - [[慈姑]] — arrowhead, sagittaria sagittifolia
 - [[慧眼]] — discernment, acumen
@@ -160,11 +155,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[接受]] — accept, receive
 - [[推薦]] — recommend
 - [[揄伽]] — yoga
-- [[揚]] — scatter, hurl
 - [[握窄]] — dirty, petty, recalcitrant
-- [[摂]] — vicarious
 - [[撞球]] — billiards
-- [[撤]] — omit, remove, withdraw
 - [[支那]] — zhina
 - [[攻防]] — offense and defense
 - [[放物線]] — parabola
@@ -174,7 +166,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[教員]] — schoolteacher, educator, instructor
 - [[敢為]] — dare to do
 - [[敬語]]
-- [[整]] — orderly, neat, tidy
 - [[文学者]] — literati
 - [[料槽]] — feed trough, manger
 - [[斬豪]] — trench, entrenchment
@@ -196,11 +187,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[暴怒]] — rage
 - [[暴政]] — tyranny, despotism
 - [[暴虐]] — tyrannical
-- [[曇]] — overcast
 - [[曲折]] — winding, tortuous
 - [[更新]] — renew, replace, refresh
 - [[曼魚]] — eel
-- [[曽]] — great-
 - [[曽子]] — zengzi
 - [[最善]] — best
 - [[最大]] — maximum, greatest, largest
@@ -238,7 +227,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[検証]] — verify
 - [[楊梅]] — waxfruit
 - [[概要]] — overview, summary
-- [[様]] — -ly
 - [[樟脳]] — camphor
 - [[模倣]] — imitate, emulate
 - [[模擬]] — imitate
@@ -251,7 +239,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[水中]] — underwater
 - [[水原]] — suwon, mizuhara
 - [[水族館]] — aquarium
-- [[沫]] — froth, foam, bubbles, suds
 - [[河内]] — hanoi
 - [[油]] — oil
 - [[泰国]] — thailand
@@ -338,7 +325,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[病症]] — disease, condition, ailment
 - [[症状]] — symptom
 - [[痕跡]] — vestige
-- [[痰]] — phlegm, sputum
 - [[痴情]] — intense infatuation
 - [[痴漢]] — pervert, molester
 - [[白亜]] — chalk
@@ -373,7 +359,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[穿山甲]] — pangolin
 - [[突厥]] — turks
 - [[窒息]] — suffocate, asphyxiate
-- [[窯]] — kiln
 - [[立憲]] — constitutional governance, constitutionalism
 - [[章程]] — rules, regulations
 - [[章魚]] — octopus
@@ -449,7 +434,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[苛刻]] — harsh, demanding
 - [[英語圏]] — anglosphere
 - [[英語学]] — english studies
-- [[苺]] — strawberry
 - [[茄子]] — eggplant, aubergine
 - [[茫然]] — thoughtless, clueless
 - [[荘子]] — zhuangzi, hamlet
@@ -667,33 +651,27 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[𧦅歌]] — eulogize, extol
 - [[慣用]] — customary use, conventional, idiomatic (usage)
 - [[有様]] — forebearingly, calmly (dated)
-- [[栗]] — chestnut
 - [[白頭翁]] — white-haired old man, grey starling, root of pulsatilla cernua
 - [[鬼婆]] — hag, nasty old woman (especially white)
 - [[他郷]] — foreign land
 - [[大概]] — for the most part, generally, approximately, probably
-- [[太極拳]] — tai chi
 - [[字南]] — chu nom, vietnamese written in chinese characters
 - [[愈愈]] — more and more
 - [[挑戦]] — challenge (authority)
 - [[捕鯨]] — whaling, whale hunting
 - [[掏模]] — pickpocket, reach in and take
-- [[掲]] — set up, install, put up
 - [[攘夷]] — expulsion of barbarians, policy of excluding or driving out foreigners
 - [[放火]] — set on fire, arson
 - [[政治学]] — political science
 - [[故人]] — deceased, old friend
-- [[故障]] — breakdown, bug, hitch, malfunction
 - [[整斉]] — arrange, straighten, rectify, order
 - [[施行]] — execute, carry out
 - [[既以]] — already, too late
 - [[日本語]] — japanese language
-- [[昆]] — swarm, descendants
 - [[昇叙]] — be promoted, advanced
 - [[明様]] — brightly, in a bright way
 - [[普通話]] — mandarin
 - [[暗礁]] — submerged reef, hidden obstacle
-- [[曰]] — spake, dub (ancient)
 - [[書道]] — japanese calligraphy, the way of writing
 - [[最高点]] — highest point, peak
 - [[有机]] — organic
@@ -823,9 +801,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (29)
+## Calendar (28)
 - [[当時]] — then, that other time
-- [[形容詞]] — adjective
 - [[折衷]] — compromise, eclecticism, to find a middle ground
 - [[昔日]] — long ago, golden days
 - [[星霜]] — time and years
@@ -854,15 +831,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (49)
+## Geography (46)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[地境]] — border, territorial boundary
-- [[外国語]] — foreign language
-- [[大洋洲]] — oceania
 - [[愛媛]] — ehime, ehime prefecture
 - [[戦国]] — warring states
 - [[担任]] — to assume a post, to take charge
-- [[換]] — interchange, exchange
 - [[改善]] — improvement, reform
 - [[政党]] — political party
 - [[斉国]] — qi nation
@@ -932,20 +906,17 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[数量]] — amount, weight, measure, quantity
 - [[部隊]] — unit, corp
 
-## Mind (7)
+## Mind (6)
 - [[奇想]] — fanciful notion, strange idea
-- [[心理学]] — psychology
 - [[概]] — rough idea, generality
 - [[混乱]] — chaotic, confused, riotous
 - [[為人]] — behave, conduct oneself
 - [[理屈]] — defeated argument, reasoning exhausted, reasoning; logic (secondary)
 - [[糊塗]] — muddled, confused
 
-## Movement (11)
+## Movement (9)
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
-- [[撇]] — throw away
-- [[撲]] — rush at
 - [[盛衰]] — rise and fall, flourish and decay
 - [[経営]] — run, manage
 - [[落花]] — falling blossoms
@@ -954,8 +925,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[辦理]] — manage, arrange, run
 - [[運送]] — transport
 
-## Nature (4)
-- [[暑]] — hot (weather)
+## Nature (3)
 - [[環境]] — environment, surroundings
 - [[陽炎]] — heat shimmer, glare of sunlight
 - [[鬼火]] — will-o-the-wisp, ignis fatuos
@@ -1000,8 +970,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陰性]] — negativity, feminine gender
 - [[陽性]] — positivity, masculine gender
 
-## Shape (3)
-- [[幾何学]] — geometry
+## Shape (2)
 - [[球体]] — sphere
 - [[鋒芒]] — sharp edge, cutting point, keen edge
 
@@ -1036,8 +1005,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[芳香族]] — aromatic compounds
 - [[黄沙]] — yellow sand, asian dust
 
-## Time (5)
-- [[忽然様]] — suddenly
+## Time (4)
 - [[白亜紀]] — cretaceous period
 - [[瞬間]] — momentary, moment, instant
 - [[連続]] — continuous, consecutive, successive

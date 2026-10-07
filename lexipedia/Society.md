@@ -168,6 +168,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[依頼](../words/依頼.md)<rt>ㄧㄜㄌㄚㄧ</rt></ruby>: to rely on, depend on — in Japanese specifically also "to request, commission" (依頼する).
 - <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
+- <ruby>[恭敬](../words/恭敬.md)<rt>ㄍ⼄ㄫㄍ⼶ㄫ</rt></ruby>: respectful, deferential.
 - <ruby>[小人](../words/小人.md)<rt>ㄙㄛ·ㄋㄧㄋ</rt></ruby>: a petty person, jerk.
 - <ruby>[唐突](../words/唐突.md)<rt>ㄉ⺢ㄫㄊㄛㄊ</rt></ruby>: blunt, presumptuous.
 - <ruby>[尊厳](../words/尊厳.md)<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby>: dignity, sanctity.
@@ -276,6 +277,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[各位](../words/各位.md)<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby>: ladies and gentlemen — a respectful address to a group.
 - <ruby>[大家](../words/大家.md)<rt>ㄉㄚㄧㄍㄚ</rt></ruby>: everyone (Mandarin, Cantonese).
 - <ruby>[客人](../words/客人.md)<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby>: a guest, visitor, traveller.
+- <ruby>[外国人](../words/外国人.md)<rt>⺢ㄧㄍㄛㄎㄋㄧㄋ</rt></ruby>: a foreigner.
 - <ruby>[寄宿](../words/寄宿.md)<rt>ㄍㄨㄧㄙㄨㄎ</rt></ruby>: to lodge, board, rent a room.
 - <ruby>[寄宿舎](../words/寄宿舎.md)<rt>ㄍㄨㄧㄙㄨㄎㄙ⼘</rt></ruby>: a boarding house, dormitory.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.

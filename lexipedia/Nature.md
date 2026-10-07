@@ -22,6 +22,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[雪](../words/雪.md)<rt>ㄙ⼔ㄊ</rt></ruby>: snow.
 - <ruby>[霜](../words/霜.md)<rt>ㄙ⺢ㄫ</rt></ruby>: frost.
 - <ruby>[天花](../words/天花.md)<rt>ㄊㄝㄋㄏ⺢</rt></ruby>: a snowflake.
+- <ruby>[曇](../words/曇.md)<rt>ㄉㄚㄇ</rt></ruby>: overcast.
 - <ruby>[風](../words/風.md)<rt>ㄈㄨㄫ</rt></ruby>: wind — see [[Elements]] for its own citation there.
 - <ruby>[山](../words/山.md)<rt>ㄙㄚㄋ</rt></ruby>: a mountain.
 - <ruby>[自然](../words/自然.md)<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>: nature; natural, spontaneously.

@@ -167,6 +167,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
 - <ruby>[膿](../words/膿.md)<rt>ㄋㄛㄫ</rt></ruby>: pus.
 - <ruby>[体液](../words/体液.md)<rt>ㄊㄝㄧ⼶ㄎ</rt></ruby>: bodily fluid — the general umbrella term covering [[血]], [[汗]], [[涙]], and [[膿]] alike.
+- <ruby>[痰](../words/痰.md)<rt>ㄉㄚㄇ</rt></ruby>: phlegm, sputum.
 - <ruby>[細胞](../words/細胞.md)<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>: a biological cell — a Meiji coinage translating German Zelle.
 - <ruby>[粘液](../words/粘液.md)<rt>ㄋㄝㄇ·⼶ㄎ</rt></ruby>: mucus — the sticky bodily secretion; attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found; one of the fluids under [[体液]].
 - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
@@ -228,6 +229,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[挙](../words/挙.md)<rt>ㄍ⼄</rt></ruby>: to raise (挙手, "raise a hand") — also, by extension, "an example, instance" (挙例).
 - <ruby>[捨](../words/捨.md)<rt>ㄙ⼘</rt></ruby>: to throw away, discard.
 - <ruby>[摘](../words/摘.md)<rt>ㄉㄚㄎ</rt></ruby>: to pinch, pluck.
+- <ruby>[掲](../words/掲.md)<rt>ㄎㄝㄊ</rt></ruby>: to set up, put up, install.
 - <ruby>[負](../words/負.md)<rt>ㄅ⼜</rt></ruby>: to carry, bear.
 - <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.
 - <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>: to kowtow, bow deeply (touching forehead to ground) — the vault's one concrete example of a specific "gesture," which has no dedicated general word of its own.

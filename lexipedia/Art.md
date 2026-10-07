@@ -198,6 +198,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[射術](../words/射術.md)<rt>ㄙ⼘ㄙㄨㄊ</rt></ruby>: archery.
 - <ruby>[御術](../words/御術.md)<rt>⼄ㄙㄨㄊ</rt></ruby>: charioteering.
+- <ruby>[太極拳](../words/太極拳.md)<rt>ㄊㄚㄧㄍㄧㄎㄍ⼔ㄋ</rt></ruby>: Tai Chi.
 - <ruby>[剣術](../words/剣術.md)<rt>ㄍㄛㄇㄙㄨㄊ</rt></ruby>: fencing, swordsmanship.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
 - <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.

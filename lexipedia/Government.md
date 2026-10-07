@@ -196,6 +196,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[国歌](../words/国歌.md)<rt>ㄍㄛㄎㄍㄜ</rt></ruby>: the national anthem.
 - <ruby>[国際](../words/国際.md)<rt>ㄍㄛㄎㄐㄝ</rt></ruby>: international.
 - <ruby>[外交](../words/外交.md)<rt>⺢ㄧㄍ⼄ㄨ</rt></ruby>: diplomacy, foreign affairs.
+- <ruby>[大使館](../words/大使館.md)<rt>ㄉㄚㄧㄙㄧㄍ⺢ㄋ</rt></ruby>: an embassy.
 
 ### The Public
 

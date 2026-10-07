@@ -111,6 +111,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
 - <ruby>[檸檬](../words/檸檬.md)<rt>ㄌㄝ·ㄇㄛㄋ</rt></ruby>: a lemon.
+- <ruby>[栗](../words/栗.md)<rt>ㄌㄧㄊ</rt></ruby>: a chestnut.
+- <ruby>[苺](../words/苺.md)<rt>ㄇㄚㄧ</rt></ruby>: a strawberry.
 - <ruby>[甘蕉](../words/甘蕉.md)<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby>: banana, plantain — the classical and literary word ("sweet banana"), found in older agricultural and medical texts, displaced in everyday use by 香蕉 (Chinese) and バナナ (Japanese).
 - <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
 - <ruby>[昆布](../words/昆布.md)<rt>ㄍㄛㄋㄅㄛ</rt></ruby>: kelp, seaweed — the Japanese kombu of dashi; in Chinese especially used in traditional medicine, and in Korean 곤포, the genuine Sino-Korean term recorded in the Donguibogam.

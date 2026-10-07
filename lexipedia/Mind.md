@@ -239,6 +239,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[措置](../words/措置.md)<rt>ㄑㄛㄑㄧ</rt></ruby>: to handle, arrange, manage — administrative, a step taken in response to something.
 - <ruby>[扱](../words/扱.md)<rt>ㄑㄚㄆ</rt></ruby>: to handle, deal with — a more general everyday register than [[措置]]'s administrative one.
 - <ruby>[整理](../words/整理.md)<rt>ㄐㄝㄫㄌㄧ</rt></ruby>: to straighten, arrange, order, tidy.
+- <ruby>[整](../words/整.md)<rt>ㄐㄝㄫ</rt></ruby>: orderly, neat, tidy.
 - <ruby>[企劃](../words/企劃.md)<rt>ㄎㄝㄏ⺢ㄎ</rt></ruby>: to plan; a scheme — a project or undertaking, neutral in tone.
 - <ruby>[劃](../words/劃.md)<rt>ㄏ⺢ㄎ</rt></ruby>: to divide, mark off, delimit, plan out — the bound root behind [[企劃]] above.
 - <ruby>[予定](../words/予定.md)<rt>⼄ㄐㄝㄫ</rt></ruby>: a schedule, plan, appointment — see [[Calendar]] for its own citation there; time-bound, distinct from [[企劃]]'s open-ended project sense.

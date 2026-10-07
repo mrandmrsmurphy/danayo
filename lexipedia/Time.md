@@ -105,6 +105,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 
 - <ruby>[忽然](../words/忽然.md)<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden.
 - <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden — an undocumented near-duplicate of [[忽然]].
+- <ruby>[忽然様](../words/忽然様.md)<rt>ㄏㄛㄊㄋ⼶ㄋ·⼘ㄫ</rt></ruby>: suddenly.
 - <ruby>[俄然](../words/俄然.md)<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby>: suddenly — a third undocumented near-duplicate alongside [[忽然]]/[[突然]].
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[急遽](../words/急遽.md)<rt>ㄍㄧㄆㄍ⼄</rt></ruby>: hurriedly, suddenly — in great haste, typically because of a sudden change (a plan changed or a trip cut short at short notice); more about the abruptness and urgency of the action than [[急速]]'s plain speed.
@@ -143,6 +144,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 
 - <ruby>[午後](../words/午後.md)<rt>ㄛㄏㄨㄛ</rt></ruby>: afternoon.
 - <ruby>[午前](../words/午前.md)<rt>ㄛㄐㄝㄋ</rt></ruby>: a.m., the forenoon.
+- <ruby>[朝](../words/朝.md)<rt>ㄐㄚㄨ</rt></ruby>: morning.
 - <ruby>[黎明](../words/黎明.md)<rt>ㄌㄝㄧㄇ⼶ㄫ</rt></ruby>: dawn.
 - <ruby>[晩](../words/晩.md)<rt>ㄇㄛㄋ</rt></ruby>: evening.
 - <ruby>[夜](../words/夜.md)<rt>⼘</rt></ruby>: night — the bare word (昼夜, "day and night").

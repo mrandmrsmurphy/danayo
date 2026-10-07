@@ -30,6 +30,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[蒸](../words/蒸.md)<rt>ㄐㄧㄫ</rt></ruby>: to steam — the verb counterpart of [[蒸汽]] above.
 - <ruby>[波浪](../words/波浪.md)<rt>ㄅㄚㄌㄚㄫ</rt></ruby>: wave(s), undulation.
 - <ruby>[怒涛](../words/怒涛.md)<rt>ㄋㄛㄉㄚㄨ</rt></ruby>: surging waves.
+- <ruby>[沫](../words/沫.md)<rt>ㄇㄚㄊ</rt></ruby>: froth, foam, bubbles, suds.
   - **Note**: [[波]] ("wave") is likewise a bound character, legitimized only by this compound; 波浪 leans toward the plural/generic "waves, undulation" rather than "a single wave."
 - <ruby>[注入](../words/注入.md)<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby>: to pour (into).
 - <ruby>[汲](../words/汲.md)<rt>ㄎㄨㄆ</rt></ruby>: to draw water.

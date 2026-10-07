@@ -21,6 +21,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel. See [Shape](../lexipedia/Shape.md) for its own citation there.
 - <ruby>[使用](../words/使用.md)<rt>ㄙㄧ⼄ㄫ</rt></ruby>: to use.
 - <ruby>[工具](../words/工具.md)<rt>ㄍㄛㄫㄍㄨ</rt></ruby>: a tool, instrument, implement.
+- <ruby>[故障](../words/故障.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby>: a breakdown, malfunction, bug.
 - <ruby>[回路](../words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby>: a circuit, loop; the way back.
 - <ruby>[利用](../words/利用.md)<rt>ㄌㄧㄜ⼄ㄫ</rt></ruby>: to use, utilise — "use for profit," more purposeful than 使用.
 - <ruby>[善用](../words/善用.md)<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby>: to put to good use.

@@ -15,6 +15,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[言](../words/言.md)<rt>ㄝㄋ</rt></ruby>: to say.
+- <ruby>[曰](../words/曰.md)<rt>⼔ㄊ</rt></ruby>: to say, "spake" (ancient).
 - <ruby>[答](../words/答.md)<rt>ㄉㄚㄆ</rt></ruby>: to answer, reply, assent, return — the plain, basic word; not to be confused with 對答 (not a Dan'a'yo word), a distinct, more formal "questioning and answering" exchange.
 - <ruby>[呼](../words/呼.md)<rt>ㄏㄛ</rt></ruby>: to call.
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: voice.

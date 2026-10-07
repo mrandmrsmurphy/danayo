@@ -34,6 +34,7 @@ Physics vocabulary covers temperature, weight, and the material substance of thi
 - <ruby>[寒冷](../words/寒冷.md)<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby>: cold, freezing — more intense than plain [[冷]].
 - <ruby>[清涼](../words/清涼.md)<rt>ㄑㄧㄫㄌ⼘ㄫ</rt></ruby>: cool, refreshing — a pleasant coolness, distinct from [[冷]]'s neutral cold.
 - <ruby>[灼熱](../words/灼熱.md)<rt>ㄐㄚㄎㄋ⼶ㄊ</rt></ruby>: burning hot, scorching — more intense than plain [[熱]].
+- <ruby>[暑](../words/暑.md)<rt>ㄙ⼄</rt></ruby>: hot (of weather).
 
 ### Matter & Substance
 

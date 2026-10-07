@@ -24,6 +24,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[交差](../words/交差.md)<rt>ㄍ⼄ㄨㄑㄚ</rt></ruby>: to report in, get debriefed — a colloquial Mandarin idiom, "to complete an assigned errand and report back" (回去交差); not the unrelated look-alike [[交叉]] "intersect."
 - <ruby>[技能](../words/技能.md)<rt>ㄍㄨㄧㄋㄜㄫ</rt></ruby>: skill, ability.
 - <ruby>[建築](../words/建築.md)<rt>ㄍㄝㄋㄐㄨㄎ</rt></ruby>: to build; construction, architecture.
+- <ruby>[窯](../words/窯.md)<rt>⼄ㄨ</rt></ruby>: a kiln.
 - <ruby>[修理](../words/修理.md)<rt>ㄙㄨㄛㄌㄧ</rt></ruby>: to fix, to repair.
 - <ruby>[実用](../words/実用.md)<rt>ㄙㄧㄊ⼄ㄫ</rt></ruby>: practical, utilitarian.
 - <ruby>[人工](../words/人工.md)<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby>: artificial, man-made.

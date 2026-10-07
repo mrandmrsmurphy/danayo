@@ -163,6 +163,8 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[相思](../words/相思.md)<rt>ㄙㄚㄫㄙㄚ</rt></ruby>: to pine for, long for, miss — mutual, romantic longing specifically.
 - <ruby>[放棄](../words/放棄.md)<rt>ㄈㄚㄫㄎㄧㄜ</rt></ruby>: to abandon, reject — a right or claim.
 - <ruby>[廃棄](../words/廃棄.md)<rt>ㄈㄝ·ㄎㄧㄜ</rt></ruby>: to discard, abolish, dispose of.
+- <ruby>[撇](../words/撇.md)<rt>ㄆㄝㄊ</rt></ruby>: to throw away.
+- <ruby>[撤](../words/撤.md)<rt>ㄉㄝㄊ</rt></ruby>: to omit, remove, withdraw.
 - <ruby>[放置](../words/放置.md)<rt>ㄈㄚㄫㄑㄧ</rt></ruby>: to put aside, abandon, shelve — neglect, leaving something unattended.
 - <ruby>[断念](../words/断念.md)<rt>ㄉ⺢ㄋㄋㄝㄇ</rt></ruby>: to give up, abandon — an ambition or hope, a resignation.
 - <ruby>[進行](../words/進行.md)<rt>ㄐㄧㄋㄏㄚㄫ</rt></ruby>: to advance, progress.
