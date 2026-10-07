@@ -30,6 +30,8 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[兵卒](../words/兵卒.md)<rt>ㄅ⼶ㄫㄐㄨㄊ</rt></ruby>: a soldier — a near-synonym of [[軍人]].
 - <ruby>[兵士](../words/兵士.md)<rt>ㄅ⼶ㄫㄙㄚㄧ</rt></ruby>: a soldier — another near-synonym of [[軍人]].
 - <ruby>[哨兵](../words/哨兵.md)<rt>ㄙ⼄ㄨㄅ⼶ㄫ</rt></ruby>: a sentry, sentinel.
+- <ruby>[孤軍](../words/孤軍.md)<rt>ㄍㄛㄍㄨㄋ</rt></ruby>: an isolated army, lone forces.
+- <ruby>[守戍](../words/守戍.md)<rt>ㄙ⼜ㄙㄨ</rt></ruby>: a border guard.
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
 - <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
 

@@ -68,8 +68,10 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 ### The Seven Deadly Sins
 
 - <ruby>[情欲](../words/情欲.md)<rt>ㄑㄧㄫ⼄ㄎ</rt></ruby>: lust, sexual desire — the specifically sexual sense. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
+- <ruby>[淫](../words/淫.md)<rt>ㄧㄇ</rt></ruby>: lewd, obscene.
 - <ruby>[欲望](../words/欲望.md)<rt>⼄ㄎㄇㄚㄫ</rt></ruby>: desire, lust, appetite, craving — broader than [[情欲]]'s sexual-specific sense. See [Emotions](../lexipedia/Emotions.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
 - <ruby>[強欲](../words/強欲.md)<rt>ㄍ⼘ㄫ⼄ㄎ</rt></ruby>: greed, avarice.
+- <ruby>[貪](../words/貪.md)<rt>ㄊㄚㄇ</rt></ruby>: greedy.
 - <ruby>[懶惰](../words/懶惰.md)<rt>ㄌㄚㄋㄉ⺢</rt></ruby>: lazy — the closest available match for sloth (the vice), cited here for that angle. See [Efforts](../lexipedia/Efforts.md) for its own citation there.
 - <ruby>[暴食](../words/暴食.md)<rt>ㄅㄛㄎㄙㄧㄎ</rt></ruby>: to gluttonize, overeat, binge — the verb/behavior for gluttony.
 

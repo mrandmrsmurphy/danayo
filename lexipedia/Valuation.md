@@ -58,6 +58,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[絶対](../words/絶対.md)<rt>ㄐ⼔ㄊㄉㄛㄧ</rt></ruby>: absolute.
 - <ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>: special. See [Mind](../lexipedia/Mind.md) for its own citation there.
+- <ruby>[尤其](../words/尤其.md)<rt>⼜ㄛㄍㄜ</rt></ruby>: especially, besides.
 - <ruby>[特殊](../words/特殊.md)<rt>ㄉㄜㄎㄙㄨ</rt></ruby>: special — an undocumented near-duplicate of [[特別]].
 - <ruby>[単純](../words/単純.md)<rt>ㄉㄚㄋㄐㄨㄋ</rt></ruby>: mere — also "simple," see [[複雑]] and its own cluster under Complexity & Commonality below.
 - <ruby>[些少](../words/些少.md)<rt>ㄙㄚㄙㄛㄨ</rt></ruby>: slight. See [Dimensions](../lexipedia/Dimensions.md) for its own citation there.

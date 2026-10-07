@@ -23,6 +23,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[正方形](../words/正方形.md)<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby>: a square — literally "correct/regular square-direction shape," the geometric quadrilateral. [[広場]], which also glosses "square," means a town square or plaza instead, an unrelated architectural/spatial sense.
 - <ruby>[圓形](../words/圓形.md)<rt>⼔ㄋㄏㄝㄫ</rt></ruby>: a circle, round shape.
 - <ruby>[楕圓](../words/楕圓.md)<rt>ㄊㄚ⼔ㄋ</rt></ruby>: an ellipse.
+- <ruby>[対称](../words/対称.md)<rt>ㄉㄛㄧㄑㄧㄫ</rt></ruby>: symmetric.
 - <ruby>[参差](../words/参差.md)<rt>ㄙㄚㄇㄑㄚ</rt></ruby>: irregular, uneven.
 
 - <ruby>[坑](../words/坑.md)<rt>ㄎㄚㄫ</rt></ruby>: a pit, hole, hollow — a depression in the ground, whether natural or dug; broader than [[巣穴]]/[[洞穴]] (both housed on [Nature](../lexipedia/Nature.md)) but still tied to "in the ground," not a fully generic "hole."
@@ -122,6 +123,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: an edge, border. See [Directions](../lexipedia/Directions.md) for its own citation there.
 - <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: a limit. See [Law](../lexipedia/Law.md) for its own citation there.
 - <ruby>[部分](../words/部分.md)<rt>ㄅㄛㄨㄅㄨㄋ</rt></ruby>: a part, portion.
+- <ruby>[大部分](../words/大部分.md)<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby>: the majority, most of it.
 - <ruby>[部](../words/部.md)<rt>ㄅㄛㄨ</rt></ruby>: a part — the bound root behind [[部分]] above (also 全部, "all, the whole"; 部署, "a department," on [[Government]]).
 - <ruby>[片](../words/片.md)<rt>ㄆㄝㄋ</rt></ruby>: a slice, flake — a thin flat piece, distinct from [[塊]]'s solid chunk; also one of [[Food]]'s own cutting-style morphemes (片, "sliced").
 - <ruby>[一体](../words/一体.md)<rt>ㄧㄊㄊㄝㄧ</rt></ruby>: an organic whole, unity — [[部分]]'s structural counterpart, things functioning as one rather than a mere assemblage; distinct from [[全体]]'s quantitative "all of it, the entirety" (not yet placed).

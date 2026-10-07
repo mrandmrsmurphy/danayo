@@ -103,6 +103,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cross-checked term by term against real Mandarin/Cantonese/Japanese/Korean/Vietnamese usage rather than invented wholesale. See the Semantic Range Notes below for the recurring patterns this coining work surfaced.
 
 - <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
+- <ruby>[圓周率](../words/圓周率.md)<rt>⼔ㄋㄐㄨㄛㄌㄨㄊ</rt></ruby>: pi (π) — the circle-circumference ratio.
 - <ruby>[二次元](../words/二次元.md)<rt>ㄋㄧㄜㄑㄧㄜ⼔ㄋ</rt></ruby>: two-dimensional, 2D — the formal geometric sense (contrast 一次元/三次元/四次元); also, in modern East Asian otaku slang, "the 2D world" of anime/manga/games as opposed to real (三次元) life.
 - <ruby>[算術](../words/算術.md)<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby>: arithmetic — the elementary branch, narrower than 数学.
 - <ruby>[代数](../words/代数.md)<rt>ㄉㄚㄧㄙㄨ</rt></ruby>: algebra — the branch using symbols to substitute for numbers; for the study of algebra as a discipline, see [[代数学]].
@@ -121,6 +122,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby>: equal (mathematically).
 - <ruby>[方程式](../words/方程式.md)<rt>ㄈㄚㄫㄉㄧㄫㄙㄧㄎ</rt></ruby>: equation — literally "method-process-formula."
 - <ruby>[参数](../words/参数.md)<rt>ㄙㄚㄇㄙㄨ</rt></ruby>: a parameter.
+- <ruby>[定義域](../words/定義域.md)<rt>ㄐㄝㄫㄜㄧㄨㄧㄎ</rt></ruby>: the domain of a function.
 - <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>: odd (number).
 - <ruby>[[偶数]]<rt>ㄛㄨㄙㄨ</rt></ruby>: even (number).
 - <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby>: number, numeral, digit.

@@ -76,6 +76,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Poetry
 
 - <ruby>[詩歌](../words/詩歌.md)<rt>ㄙㄧㄍㄜ</rt></ruby>: poem, poetry (the general term). See Semantic Range Notes.
+- <ruby>[対連](../words/対連.md)<rt>ㄉㄛㄧㄌ⼶ㄋ</rt></ruby>: a couplet, distich.
 - <ruby>[詩作](../words/詩作.md)<rt>ㄙㄧㄐㄚㄎ</rt></ruby>: a composed poem; to compose poetry. See Semantic Range Notes.
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
@@ -189,6 +190,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 - <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>: martial art skill.
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
+- <ruby>[射術](../words/射術.md)<rt>ㄙ⼘ㄙㄨㄊ</rt></ruby>: archery.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
 - <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.
 - <ruby>[剣道](../words/剣道.md)<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby>: kendo, the Way of the Sword — the modern Japanese martial art of swordsmanship with the bamboo shinai and armour, descended from samurai kenjutsu; a path of self-cultivation like [[弓道]] and [[柔道]].
@@ -209,6 +211,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[頁](../words/頁.md)<rt>ㄏㄝㄊ</rt></ruby>: page, sheet (of a book) — a literary/technical register; modern spoken Japanese overwhelmingly prefers the loanword ページ instead. See Semantic Range Notes.
 - <ruby>[閲読](../words/閲読.md)<rt>⼶ㄊㄉㄛㄎ</rt></ruby>: to read closely, to peruse, to examine a text — a more formal register than casual reading. See Semantic Range Notes.
 - <ruby>[刻印](../words/刻印.md)<rt>ㄎㄨㄎ·ㄧㄋ</rt></ruby>: to engrave; a seal impression (two-dimensional). See Semantic Range Notes.
+- <ruby>[封印](../words/封印.md)<rt>ㄈㄛㄫㄧㄋ</rt></ruby>: a seal, stamp.
 - <ruby>[賦](../words/賦.md)<rt>ㄈㄨ</rt></ruby>: prose-poetry (a classical genre).
 - <ruby>[詠春拳](../words/詠春拳.md)<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby>: Wing Chun.
 - <ruby>[鳳笙](../words/鳳笙.md)<rt>ㄆㄨㄫㄙㄚㄫ</rt></ruby>: phoenix sheng — a free-reed mouth organ. See Semantic Range Notes.

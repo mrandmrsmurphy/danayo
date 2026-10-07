@@ -34,6 +34,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[鮎](../words/鮎.md)<rt>ㄋㄝㄇ</rt></ruby>: a catfish, sheatfish in its original Chinese sense — Japanese uniquely reinterprets the same character for あゆ (ayu, "sweetfish"), an entirely different fish.
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
 - <ruby>[蛞蝓](../words/蛞蝓.md)<rt>ㄎ⺢ㄊ⼜ㄇ</rt></ruby>: a slug — the formal/biological term.
+- <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎ·⺢ㄎ</rt></ruby>: an inchworm, looper.
 - <ruby>[寵物](../words/寵物.md)<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby>: pet, favored animal.
 - <ruby>[匹](../words/匹.md)<rt>ㄆㄧㄊ</rt></ruby>: counter word for animals.
 
@@ -72,6 +73,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.
 - <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
+- <ruby>[就鳥](../words/就鳥.md)<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby>: a vulture.
 - <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [[海就]], without that word's specifically maritime sense.
 - <ruby>[鳶](../words/鳶.md)<rt>⼶ㄋ</rt></ruby>: a kite — the bird of prey (黒鳶, "black kite"); secondarily, the flying toy.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
@@ -113,6 +115,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[鼈](../words/鼈.md)<rt>ㄅㄝㄊ</rt></ruby>: *Pelodiscus sinensis*, a soft-shell turtle species.
 - <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
 - <ruby>[陸亀](../words/陸亀.md)<rt>ㄌㄨㄎㄍㄨㄛ</rt></ruby>: a tortoise, land turtle.
+- <ruby>[安康魚](../words/安康魚.md)<rt>ㄚㄋㄎㄚㄫ⼄</rt></ruby>: an anglerfish.
 - <ruby>[珊瑚](../words/珊瑚.md)<rt>ㄙㄚㄋㄏㄛㄨ</rt></ruby>: coral — a semantic doublet, both halves bound.
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[魶](../words/魶.md)<rt>ㄋㄨㄆ</rt></ruby>: a giant salamander.

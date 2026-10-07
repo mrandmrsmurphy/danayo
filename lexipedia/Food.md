@@ -21,6 +21,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[餐](../words/餐.md)<rt>ㄑㄚㄋ</rt></ruby>: to eat, dine.
 - <ruby>[肉](../words/肉.md)<rt>ㄋㄨㄎ</rt></ruby>: meat.
 - <ruby>[刺身](../words/刺身.md)<rt>ㄑㄧㄎㄙㄧㄋ</rt></ruby>: sashimi — thinly sliced raw fish.
+- <ruby>[寿司](../words/寿司.md)<rt>ㄙ⼜ㄙㄚ</rt></ruby>: sushi.
 - <ruby>[米](../words/米.md)<rt>ㄇㄝㄧ</rt></ruby>: rice (uncooked).
 - <ruby>[米飯](../words/米飯.md)<rt>ㄇㄝㄧㄅㄛㄋ</rt></ruby>: rice (cooked).
 - <ruby>[茶](../words/茶.md)<rt>ㄑㄚ</rt></ruby>: tea (drink or plant).

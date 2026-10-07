@@ -21,6 +21,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[人民](../words/人民.md)<rt>ㄋㄧㄋㄇㄧㄋ</rt></ruby>: people, public, citizen.
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
+- <ruby>[隣](../words/隣.md)<rt>ㄌㄧㄋ</rt></ruby>: neighboring, next door.
 - <ruby>[同意](../words/同意.md)<rt>ㄉㄛㄫㄜ</rt></ruby>: to agree, consent.
 - <ruby>[肯](../words/肯.md)<rt>ㄎㄨㄫ</rt></ruby>: to agree, be willing — a modal-like verb taking a verbal complement.
 - <ruby>[一致](../words/一致.md)<rt>ㄧㄊㄑㄧㄜ</rt></ruby>: to be unanimous, to agree, coincide — a broader "align, match, correspond" than [[同意]]'s individual act of consenting; used for opinions converging, not one person granting permission.
@@ -159,6 +160,8 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[依頼](../words/依頼.md)<rt>ㄧㄜㄌㄚㄧ</rt></ruby>: to rely on, depend on — in Japanese specifically also "to request, commission" (依頼する).
 - <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
+- <ruby>[小人](../words/小人.md)<rt>ㄙㄛ·ㄋㄧㄋ</rt></ruby>: a petty person, jerk.
+- <ruby>[尊厳](../words/尊厳.md)<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby>: dignity, sanctity.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
 - <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.
 - <ruby>[欽敬](../words/欽敬.md)<rt>ㄎㄨㄇㄍ⼶ㄫ</rt></ruby>: to admire, respect.
@@ -260,6 +263,9 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[各位](../words/各位.md)<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby>: ladies and gentlemen — a respectful address to a group.
 - <ruby>[大家](../words/大家.md)<rt>ㄉㄚㄧㄍㄚ</rt></ruby>: everyone (Mandarin, Cantonese).
+- <ruby>[客人](../words/客人.md)<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby>: a guest, visitor, traveller.
+- <ruby>[寄宿](../words/寄宿.md)<rt>ㄍㄨㄧㄙㄨㄎ</rt></ruby>: to lodge, board, rent a room.
+- <ruby>[寄宿舎](../words/寄宿舎.md)<rt>ㄍㄨㄧㄙㄨㄎㄙ⼘</rt></ruby>: a boarding house, dormitory.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[五礼](../words/五礼.md)<rt>ㄛㄌㄝㄧ</rt></ruby>: the Five Rites — the classical Zhou-dynasty classification of all ceremony into auspicious, inauspicious (funerary), guest, military, and festive rites; first of the Six Arts (六芸, alongside [[五射]] on [War](../lexipedia/War.md)).
 - <ruby>[六楽](../words/六楽.md)<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby>: the Six Musics — the second of the Six Arts of Zhou noble education, six ceremonial dance-and-music suites from the 周禮; the 楽 here is read yuè (music), not lè (joy), as the Notes explain, and follows [[五礼]].

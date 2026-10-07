@@ -72,6 +72,8 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[春秋時代](../words/春秋時代.md)<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby>: the Spring and Autumn period (770–476 BC) — the first sub-period of the Eastern Zhou, named after the 春秋 chronicle of Lu, when Zhou royal authority declined and states such as Qi, Jin, Chu and Qin competed for hegemony.
 - <ruby>[週期](../words/週期.md)<rt>ㄐㄨㄛㄎㄧ</rt></ruby>: a period, cycle — the recurring/cyclical sense, distinct from [[期間]]'s plain duration.
 - <ruby>[臨時](../words/臨時.md)<rt>ㄌㄧㄇㄙㄧ</rt></ruby>: temporary.
+- <ruby>[常時](../words/常時.md)<rt>ㄙ⼘ㄫㄙㄧ</rt></ruby>: constantly, at all times.
+- <ruby>[姑息](../words/姑息.md)<rt>ㄍㄛㄙㄧㄎ</rt></ruby>: makeshift, a temporary expedient, stopgap.
 - <ruby>[久](../words/久.md)<rt>ㄍ⼜</rt></ruby>: a long time, long-lasting — the basic root behind the whole duration family below ([[悠久]], [[恒久]]/[[永久]]).
 - <ruby>[恒久](../words/恒久.md)<rt>ㄏㄨㄫㄍ⼜</rt></ruby>: permanent, perpetual.
 - <ruby>[永遠](../words/永遠.md)<rt>ㄨㄧㄫㄛㄋ</rt></ruby>: perpetual, eternal.

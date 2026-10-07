@@ -156,6 +156,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>, <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: shit.
 - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
 - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).
+- <ruby>[小腸](../words/小腸.md)<rt>ㄙㄛㄑㄚㄫ</rt></ruby>: the small intestine.
 - <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>: stomach acid.
 - <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>: stomach cancer.
 - <ruby>[腫瘍](../words/腫瘍.md)<rt>ㄐㄛㄫ⼘ㄫ</rt></ruby>: a tumor, neoplasm.
@@ -249,6 +250,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>: to cough.
 - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>: to suck.
 - <ruby>[呼吸](../words/呼吸.md)<rt>ㄏㄛㄏㄧㄆ</rt></ruby>: to breathe, respiration — 呼 "exhale" + 吸 "inhale."
+- <ruby>[呼吸器](../words/呼吸器.md)<rt>ㄏㄛㄏㄧㄆㄎㄧㄜ</rt></ruby>: a respirator, ventilator.
 - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle.
 - to blink — *not yet coined*
 - to breathe — *not yet coined*

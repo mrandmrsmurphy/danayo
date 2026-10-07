@@ -66,6 +66,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[媽媽](../words/媽媽.md)<rt>ㄇㄚ·ㄇㄚ</rt></ruby>: mom, mama — the reduplicated address form of [[母親]].
 - <ruby>[母母](../words/母母.md)<rt>ㄇㄛㄨㄇㄛㄨ</rt></ruby>: mommy — 母 doubled, an affectionate address.
 - <ruby>[父母](../words/父母.md)<rt>ㄅㄨ·ㄇㄛㄨ</rt></ruby>: parents — literally "father and mother."
+- <ruby>[父子](../words/父子.md)<rt>ㄅㄨㄐㄜ</rt></ruby>: father and son; the parent-child bond.
 - <ruby>[両親](../words/両親.md)<rt>ㄌ⼘ㄫㄑㄧㄋ</rt></ruby>: parents — near-synonymous with [[父母]], but a shade more formal/impersonal, more likely used of *someone else's* parents than one's own; see Semantic Range Notes.
 - <ruby>[伯伯](../words/伯伯.md)<rt>ㄅㄚㄎㄅㄚㄎ</rt></ruby>: uncle — father's older brother, colloquial register.
 - <ruby>[伯父](../words/伯父.md)<rt>ㄅㄚㄎㄅㄨ</rt></ruby>: uncle — father's older brother, the more formal counterpart of [[伯伯]].
@@ -116,6 +117,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 ### Grandchildren (−2)
 
 - <ruby>[孫子](../words/孫子.md)<rt>ㄙㄛㄋㄐㄜ</rt></ruby>: grandson.
+- <ruby>[孫孫](../words/孫孫.md)<rt>ㄙㄛㄋㄙㄛㄋ</rt></ruby>: a grandchild, "grandkiddo."
 - <ruby>[孫女](../words/孫女.md)<rt>ㄙㄛㄋㄋㄜ</rt></ruby>: granddaughter.
 
 ### Beyond: Descendants (−3 and up)

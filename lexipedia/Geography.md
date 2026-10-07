@@ -215,6 +215,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - <ruby>亜洲<rt>ㄚㄐㄨㄛ</rt></ruby>
 - <ruby>欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby>
 - <ruby>[非洲](../words/非洲.md)<rt>ㄈㄧㄐㄨㄛ</rt></ruby>: Africa
+- <ruby>[洲](../words/洲.md)<rt>ㄐㄨㄛ</rt></ruby>: a continent; also an islet (bound character).
 - North America ([[北美洲]]),
 - South America ([[南美洲]]),
 - <ruby>大洋洲<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby>

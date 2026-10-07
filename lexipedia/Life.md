@@ -47,6 +47,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[人生](../words/人生.md)<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby>: a human life, one's life course or biography.
 - <ruby>[分娩](../words/分娩.md)<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby>: to give birth, deliver a child — the formal and clinical word for childbirth (as in a delivery room), rather than the plain everyday verb for having a baby; the stand-in for the bound character 娩.
 - <ruby>[生存](../words/生存.md)<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby>: to survive.
+- <ruby>[存亡](../words/存亡.md)<rt>ㄐㄛㄋㄇㄚㄫ</rt></ruby>: survival (archaic); survival and ruin.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.

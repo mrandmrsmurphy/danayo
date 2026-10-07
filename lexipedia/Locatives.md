@@ -35,6 +35,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[処](../words/処.md)<rt>ㄑㄛ</rt></ruby>: a place — demonstrative in flavor ("this place"), not a general noun.
 - <ruby>[所在](../words/所在.md)<rt>ㄙㄜㄐㄚㄧ</rt></ruby>: whereabouts, location — more formal and abstract than [[位置]], often used of where something *is to be found* rather than its bare coordinates.
 - <ruby>[置](../words/置.md)<rt>ㄑㄧ</rt></ruby>: to put, place (something somewhere) — the verb, where [[位置]]/[[所在]]/[[処]] are all nouns.
+- <ruby>[安置](../words/安置.md)<rt>ㄚㄋㄑㄧ</rt></ruby>: to settle, find a place for (lodging, enshrining).
 - <ruby>[姿態](../words/姿態.md)<rt>ㄐㄧㄜㄊㄚㄧ</rt></ruby>: a pose, position — of a body.
 - <ruby>[定位](../words/定位.md)<rt>ㄐㄝㄫ⼔ㄧ</rt></ruby>: a position — fixed or technical, the sense used for GPS-style positioning rather than a body's pose.
 

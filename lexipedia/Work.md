@@ -59,6 +59,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 ### Skill, Technique & Invention
 
 - <ruby>[熟練](../words/熟練.md)<rt>ㄙㄨㄎㄌㄝㄋ</rt></ruby>: able, skillful, proficient.
+- <ruby>[妙手](../words/妙手.md)<rt>ㄇ⼄ㄨㄙ⼜</rt></ruby>: an expert, master — a brilliantly skilled hand.
 - <ruby>[技術](../words/技術.md)<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby>: technique, technology.
 - <ruby>[技巧](../words/技巧.md)<rt>ㄍㄨㄧㄎ⼘ㄨ</rt></ruby>: technique, craft-skill.
 - <ruby>[術](../words/術.md)<rt>ㄙㄨㄊ</rt></ruby>: skill, method, technique — the free-standing base morpheme underlying [[技術]] and [[芸術]].
@@ -68,6 +69,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 ### Labor & Institutions
 
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, work — the economic category (労動者, "a worker"; 労動力, "labor force").
+- <ruby>[家事](../words/家事.md)<rt>ㄍㄚㄐㄧ</rt></ruby>: housework.
 - <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
 - <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
 - <ruby>[副業](../words/副業.md)<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby>: a side job, second job.

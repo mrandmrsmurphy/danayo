@@ -40,6 +40,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 - <ruby>[名](../words/名.md)<rt>ㄇㄧㄫ</rt></ruby>: a name — the plain basic noun.
 - <ruby>[名字](../words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby>: a personal name.
+- <ruby>[姓名](../words/姓名.md)<rt>ㄙㄧㄫㄇㄧㄫ</rt></ruby>: a full name — surname and given name.
 - <ruby>[名称](../words/名称.md)<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby>: a name. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
 - <ruby>[命名](../words/命名.md)<rt>ㄇ⼶ㄫㄇㄧㄫ</rt></ruby>: to name — the verb.
 - <ruby>[謂之](../words/謂之.md)<rt>ㄨㄧ·ㄊㄧ</rt></ruby>: to be called, named X — a classical/literary construction, distinct register from [[命名]].
@@ -70,6 +71,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Answering & Responding
 
 - <ruby>[応](../words/応.md)<rt>ㄧㄫ</rt></ruby>: to respond, reply.
+- <ruby>[対応](../words/対応.md)<rt>ㄉㄛㄧㄧㄫ</rt></ruby>: to correspond with, respond to.
 - <ruby>[回答](../words/回答.md)<rt>ㄏㄛㄧㄉㄚㄆ</rt></ruby>: to respond, reply — a more formal/written register than plain [[答]].
 
 **Excluded as a false match**: "respond" also loosely matches [[反応]], but that word means "to react" in a physical, chemical, or reflexive sense (a reaction), not a verbal reply — not cited here.
@@ -79,6 +81,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[報](../words/報.md)<rt>ㄅㄚㄨ</rt></ruby>: to report, tell — the plain basic word.
 - <ruby>[報告](../words/報告.md)<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby>: to report, inform, advise — conveying information formally.
 - <ruby>[報道](../words/報道.md)<rt>ㄅㄚㄨㄉㄚㄨ</rt></ruby>: to cover the news, report on.
+- <ruby>[尭舌](../words/尭舌.md)<rt>⼘ㄨㄙㄝㄊ</rt></ruby>: talkative, long-winded.
 - <ruby>[忠告](../words/忠告.md)<rt>ㄊㄨㄫㄍㄚㄨ</rt></ruby>: to advise — earnest, well-meaning counsel, distinct from [[報告]]'s secondary "advise" sense.
 - <ruby>[勧告](../words/勧告.md)<rt>ㄎㄨㄋㄍㄚㄨ</rt></ruby>: a recommendation, advisory — formal advice urging someone to act in a given way (an official recommendation or warning from an authority, 勧告を受ける "to be advised"); more formal and institutional than [[忠告]]'s personal counsel.
 - <ruby>[報知](../words/報知.md)<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby>: to inform, report, notify.

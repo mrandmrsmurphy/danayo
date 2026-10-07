@@ -19,6 +19,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[戦闘](../words/戦闘.md)<rt>ㄐㄝㄋㄉㄛㄨ</rt></ruby>: to fight, engage in combat, battle.
 - <ruby>[勝利](../words/勝利.md)<rt>ㄙㄨㄫㄌㄧㄜ</rt></ruby>: to win, succeed; victory. See Semantic Range Notes.
 - <ruby>[敵人](../words/敵人.md)<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby>: enemy.
+- <ruby>[宿敵](../words/宿敵.md)<rt>ㄙㄨㄎㄉㄝㄎ</rt></ruby>: an archenemy, long-standing rival.
 - <ruby>[安全](../words/安全.md)<rt>ㄚㄋㄐ⼔ㄋ</rt></ruby>: safe, secure.
 - <ruby>[太平](../words/太平.md)<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>: peaceful, peace.
 - <ruby>[勇敢](../words/勇敢.md)<rt>⼄ㄫㄍㄚㄇ</rt></ruby>: brave, courageous.
@@ -141,6 +142,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Peace & Comfort
 
 - <ruby>[安心](../words/安心.md)<rt>ㄚㄋㄙㄧㄇ</rt></ruby>: peace of mind, to be at ease.
+- <ruby>[安楽](../words/安楽.md)<rt>ㄚㄋㄌㄚㄎ</rt></ruby>: at ease, contented, peaceful.
 - <ruby>[平安](../words/平安.md)<rt>ㄅ⼶ㄫㄚㄋ</rt></ruby>: peaceful, safe.
 - <ruby>[康寧](../words/康寧.md)<rt>ㄎㄚㄫㄋㄝㄫ</rt></ruby>: tranquility and peace.
 - <ruby>[安慰](../words/安慰.md)<rt>ㄚㄋ·ㄛㄧ</rt></ruby>: to comfort, console. See Semantic Range Notes.

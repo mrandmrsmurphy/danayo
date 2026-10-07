@@ -26,6 +26,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[到達](../words/到達.md)<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby>: to arrive at, reach.
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.
 - <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
+- <ruby>[奔波](../words/奔波.md)<rt>ㄅㄛㄋㄅㄚ</rt></ruby>: to rush about, run around, toil busily.
 - <ruby>[泳](../words/泳.md)<rt>ㄨㄧㄫ</rt></ruby>: to swim.
 - <ruby>[水泳](../words/水泳.md)<rt>ㄙㄨㄨㄧㄫ</rt></ruby>: swimming — the nominal counterpart to [[泳]]'s bare verb.
 - <ruby>[登](../words/登.md)<rt>ㄉㄨㄫ</rt></ruby>: to mount, board, climb.
@@ -36,6 +37,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[留](../words/留.md)<rt>ㄌ⼜</rt></ruby>: to remain, stay.
 - <ruby>[嵌入](../words/嵌入.md)<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby>: to embed, inlay, insert into.
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.
+- <ruby>[展翅](../words/展翅.md)<rt>ㄐㄝㄋㄙㄧ</rt></ruby>: to spread the wings, take flight.
 - <ruby>[飛行](../words/飛行.md)<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby>: to fly; flight — 飛 plus 行 for directed travel.
 - <ruby>[横断](../words/横断.md)<rt>ㄏ⺢ㄫㄉ⺢ㄋ</rt></ruby>: to cross over, traverse.
 - <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>: to thrust, pierce through.
@@ -184,6 +186,7 @@ Pursuit vocabulary covers the vocabulary of chasing, seeking, and escaping — t
 - <ruby>[踪影](../words/踪影.md)<rt>ㄐㄛㄫ⼶ㄫ</rt></ruby>: a trace, sign — see [[Knowledge]] for its own citation there.
 - <ruby>[追逐](../words/追逐.md)<rt>ㄊㄨㄧㄉㄨㄎ</rt></ruby>: to chase, pursue — overlaps with [[追及]] (already on this page's Core Vocabulary), which specifically means "to catch up to."
 - <ruby>[自由](../words/自由.md)<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>: free, at liberty, unconstrained.
+- <ruby>[奔放](../words/奔放.md)<rt>ㄅㄛㄋㄈㄚㄫ</rt></ruby>: wild, unrestrained, bohemian.
 - <ruby>[暢達](../words/暢達.md)<rt>ㄑㄚㄫㄊㄚㄊ</rt></ruby>: smooth, free, unrestrained — of expression or flow (fluent speech, a free-flowing style), not personal liberty like [[自由]].
 
 **Not yet coined**: "find" in the sense of locating a physical object (as opposed to [[発見]]'s "discover, find out") has no dedicated word.

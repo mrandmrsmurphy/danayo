@@ -73,6 +73,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: a witch, sorceress.
 - <ruby>[巫女](../words/巫女.md)<rt>ㄇㄨ·ㄋㄜ</rt></ruby>: a shrine maiden, miko, shamaness — 巫 with 女; the bare 巫 is bound.
 - <ruby>[僧侶](../words/僧侶.md)<rt>ㄙㄜㄫㄌ⼄</rt></ruby>: a Buddhist monk.
+- <ruby>[尼僧](../words/尼僧.md)<rt>ㄋㄧㄜㄙㄜㄫ</rt></ruby>: a nun.
 - <ruby>[和尚](../words/和尚.md)<rt>ㄏ⺢ㄙ⼘ㄫ</rt></ruby>: an abbot, monk — a specific monastic rank, distinct from [[僧侶]]'s general monk.
 - <ruby>[僧伽](../words/僧伽.md)<rt>ㄙㄜㄫㄍ⼘</rt></ruby>: the sangha, the Buddhist monastic community — the Sanskrit-transliterating source compound (saṃgha) that [[僧]] itself derives from; also loosely "a Buddhist monk" by extension.
 - <ruby>[僧家](../words/僧家.md)<rt>ㄙㄜㄫㄍㄚ</rt></ruby>: a Buddhist monk — an undocumented near-duplicate of [[僧侶]], treating the monastic community as a household/order.
@@ -108,6 +109,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[法輪](../words/法輪.md)<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby>: the wheel of dharma, the Buddhist symbol representing the Buddha's teaching.
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[無明](../words/無明.md)<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby>: avidyā, fundamental ignorance — the first of the Twelve Links of Dependent Origination; a Buddhist technical term, not everyday ignorance.
+- <ruby>[寂滅](../words/寂滅.md)<rt>ㄐㄝㄎㄇㄝㄊ</rt></ruby>: nirvana — the extinguishing of suffering.
 - <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[嬴洲](../words/嬴洲.md)<rt>⼶ㄫㄐㄨㄛ</rt></ruby>: Yingzhou, one of the three legendary island-mountains of the Bohai Sea (with [[蓬莱]] and 方丈), home of the immortals and the elixir of life; often written 瀛洲, and a poetic image of Japan in later Chinese literature.

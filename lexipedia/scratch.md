@@ -6,15 +6,15 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 950
-- **Calendar**: 35
-- **Geography**: 69
+- **Unsorted**: 912
+- **Calendar**: 33
+- **Geography**: 65
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 3
 - **Measurement**: 2
 - **Mind**: 9
-- **Movement**: 14
+- **Movement**: 13
 - **Nature**: 4
 - **Physics**: 6
 - **Plants**: 11
@@ -23,21 +23,20 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Reproduction**: 2
 - **Shape**: 3
 - **Sin**: 11
-- **Speech**: 12
+- **Speech**: 11
 - **Substances**: 6
 - **Time**: 5
 - **Tools**: 5
-- **Trade**: 7
-- **Valuation**: 11
-- **War**: 10
+- **Trade**: 6
+- **Valuation**: 10
+- **War**: 9
 - **Work**: 5
 
-## Unsorted (950)
+## Unsorted (912)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[囲棋]] — go (board game) ("board" false positive — moved out of the Government bucket 2026-09-28)
 - [[学区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
-- [[寄宿]] — lodge, board, rent ("board" false positive — moved out of the Government bucket 2026-09-28)
 - [[年刊]] — annual, annual publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
 - [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
 - [[日刊]] — daily publication, daily periodical (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
@@ -48,7 +47,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
 - [[失業]] — become unemployed, lose one's job (an Economy/Work concept — moved out of the Conflict bucket 2026-09-28)
 - [[養生]] — care for, protect (a TCM/health-preservation concept, not defense — moved out of the Conflict bucket 2026-09-28)
-- [[実詞]] — content word (a Grammar term — "content word" vs. function word — not container "content"; moved out of the Containers bucket 2026-09-28)
 - [[昂揚]] — high-spirited, exalted (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
 - [[極右]] — far-right (Government/politics — moved out of the Dimensions bucket 2026-09-28)
 - [[極左]] — far-left (Government/politics — moved out of the Dimensions bucket 2026-09-28)
@@ -153,7 +151,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[君子]] — junzi, nobleman
 - [[周章]] — troubled, flustered
 - [[周長]] — perimeter, circumference
-- [[呼吸器]] — respirator, ventilator
 - [[哀悼]] — offer condolences
 - [[噴火]] — erupt
 - [[四川]] — sichuan
@@ -165,8 +162,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[国籍]] — nationality
 - [[園芸]] — gardening, horticulture
 - [[圓周]] — circumference
-- [[圓周率]] — pi
-- [[地図冊]] — atlas
 - [[埃及]] — egypt
 - [[塑料]] — plastic
 - [[声望]] — prestige, popularity
@@ -175,42 +170,21 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[大使館]] — embassy
 - [[大同]] — great unity, utopia
 - [[大和]] — yamato
-- [[大部分]] — majority
 - [[天狗]] — tengu, tiangou
 - [[天花]] — snowflake
 - [[天鵝]] — swan, cygnus
 - [[天鼠]] — bat
 - [[太様]] — greatly, exceedingly
 - [[奴隷]] — slave
-- [[妙手]] — expert, master
 - [[妥協]] — compromise, settle
 - [[妨碍]] — hinder
-- [[姑息]] — makeshift
 - [[姓氏]] — surname
 - [[姿勢]] — posture
 - [[孟子]] — mencius
-- [[孫孫]] — grandkiddo, grandchild
-- [[安康魚]] — anglerfish
-- [[安楽]] — at ease, enjoying, contented
-- [[安置]] — settle, get x settled
-- [[実情]] — facts, truth
-- [[客人]] — traveller
-- [[家事]] — housework
 - [[宿題]] — homework, assignment
-- [[寂滅]] — nirvana, cessation of suffering
-- [[寮国]] — laos
-- [[対称]] — symmetric
-- [[対連]] — couplet, distich
-- [[専念]] — concentrate, focus
-- [[射術]] — archery
-- [[射香]] — musk
 - [[尊魚]] — trout
 - [[小冊子]] — booklet
 - [[小川]] — ogawa
-- [[尤其]] — especially, besides
-- [[尭舌]] — talkative, mc-ing
-- [[就鳥]] — vulture
-- [[尺蠖]] — looper, inchworm
 - [[山崩]] — landslide (not snow)
 - [[山川]] — scenery
 - [[山本]] — yamamoto
@@ -221,7 +195,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[差別]] — discriminate
 - [[帰納]] — induce, derive
 - [[帰結]] — conclude, sum up
-- [[常時]] — constantness, frequentness
 - [[干渉]] — interfere, intervene
 - [[幽鬼]] — poltergeist
 - [[序文]] — preface
@@ -372,7 +345,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[油]] — oil
 - [[泰国]] — thailand
 - [[涅盤]] — nirvana
-- [[淫]] — lewd, obscene
 - [[淫靡]] — decadent, lascivious, profligate, extravagant
 - [[深奥]] — abstruse, esoteric
 - [[深淵]] — abyss
@@ -411,7 +383,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[熊猫]] — panda
 - [[熱烈]] — avid, fervent
 - [[爬虫]] — reptile
-- [[父子]] — parenthood
 - [[爺爺]] — grandpappy, grandpapa (intimate)
 - [[片仮名]] — katakana
 - [[版本]] — edition, version
@@ -628,7 +599,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[貢献]] — contribute
 - [[貧窮]] — poverty
 - [[貨物]] — goods, commodity
-- [[貪]] — greedy
 - [[貪林]] — greedy, avaricious
 - [[貯蔵]] — storage
 - [[賄賂]] — bribe
@@ -813,18 +783,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[太太]] — really great, super-duper
 - [[太極拳]] — tai chi
 - [[妄想]] — have a delusion, be in a fantasy
-- [[姓名]] — full name
 - [[字南]] — chu nom, vietnamese written in chinese characters
 - [[孤立]] — isolated, unrelated
 - [[学堂]] — old-style private school
-- [[定義域]] — domain of a function
-- [[宛然]] — as if, just like
-- [[宿敵]] — archenemy, long-standing rival
-- [[寄宿舎]] — boarding house, dormitory
-- [[封印]] — seal, stamp
-- [[小人]] — jerk, petty person
 - [[小数点]] — decimal point
-- [[小腸]] — small intestine
 - [[山地]] — mountain, mountain area
 - [[山岳]] — mountain peak
 - [[山嶺]] — ridge of hills, mountain range
@@ -989,12 +951,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (35)
+## Calendar (33)
 - [[国旗]] — flag, national flag
 - [[国歌]] — national anthem
 - [[国防]] — national defense
-- [[存亡]] — survival (archaic)
-- [[実梅]] — ume, japanese apricot
 - [[強国]] — superpower (country)
 - [[当時]] — then, that other time
 - [[形容詞]] — adjective
@@ -1026,7 +986,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (69)
+## Geography (65)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[南山]] — south mountain
 - [[印度洋]] — indian ocean
@@ -1045,9 +1005,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[大洋洲]] — oceania
 - [[大陸]] — continent
 - [[媒介]] — medium, intermediary, agent (of transmission)
-- [[守戍]] — border guard
-- [[定義]] — define
-- [[展翅]] — to spread the wings, to take flight
 - [[干犯]] — infringe, violate, encroach upon
 - [[当世]] — this time, this world
 - [[愛媛]] — ehime, ehime prefecture
@@ -1068,7 +1025,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[欧洲]] — europe
 - [[欧羅巴]] — europe, europa, eu
 - [[江南]] — south river, gangnam
-- [[洲]] — islet, continent
 - [[火山島]] — volcanic island
 - [[炎帝]] — yan emperor
 - [[版図]] — domain, dominion, territory
@@ -1137,8 +1093,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[理屈]] — defeated argument, reasoning exhausted, reasoning; logic (secondary)
 - [[糊塗]] — muddled, confused
 
-## Movement (14)
-- [[奔波]] — rush about, run around
+## Movement (13)
 - [[奔走]] — run around, walk quickly
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
@@ -1224,8 +1179,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[慈善]] — charity, benevolence
 
-## Speech (12)
-- [[対応]] — correspond with, respond to
+## Speech (11)
 - [[引入]] — lead into, introduce to
 - [[揶揄]] — deride, ridicule
 - [[網語]] — online speak
@@ -1260,8 +1214,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[穿孔机]] — puncher, perforator, boring machine
 - [[装置]] — equipment, device
 
-## Trade (7)
-- [[安価]] — cheap, inexpensive, crappy
+## Trade (6)
 - [[新品]] — new products, new arrivals
 - [[用度]] — supplies
 - [[留意]] — pay attention to
@@ -1269,7 +1222,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[融資]] — pay by loan, finance
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (11)
+## Valuation (10)
 - [[勃勃]] — vigorous, thriving, exuberant
 - [[卓越]] — excellent, outstanding, remarkable
 - [[彬彬]] — refined, gentle and elegant
@@ -1280,10 +1233,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[華美]] — gorgeous, resplendent
 - [[華麗]] — gorgeous, splendid, resplendent
 - [[評価]] — evaluation, appraisal
-- [[隆]] — prosperous, plentiful, abundant
 
-## War (10)
-- [[孤軍]] — isolated army, lone forces
+## War (9)
 - [[帰順]] — submit to, surrender to
 - [[干戈]] — weapons of war, arms
 - [[従軍]] — to serve in the military, military service

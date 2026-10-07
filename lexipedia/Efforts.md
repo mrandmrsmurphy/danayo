@@ -50,6 +50,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[勉](../words/勉.md)<rt>ㄇ⼶ㄋ</rt></ruby>: to exert, urge.
 - <ruby>[勉励](../words/勉励.md)<rt>ㄇ⼶ㄋㄌㄝ</rt></ruby>: to exhort, urge on — to encourage someone to greater effort, pairing two near-synonymous verbs of encouragement for emphasis; formal and written in register.
 - <ruby>[勤勉](../words/勤勉.md)<rt>ㄍㄧㄋㄇ⼶ㄋ</rt></ruby>: diligent, hard-working.
+- <ruby>[専念](../words/専念.md)<rt>ㄐ⼔ㄋㄋㄝㄇ</rt></ruby>: to concentrate, focus.
 - <ruby>[奨励](../words/奨励.md)<rt>ㄐㄚㄫㄌㄝ</rt></ruby>: to encourage, incentivise — 奨 "reward" + 励 "exhort."
 - <ruby>[奮発](../words/奮発.md)<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby>, <ruby>[尽力](../words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby>: to exert oneself, make a special effort.
 - <ruby>[率先](../words/率先.md)<rt>ㄌㄨㄊㄙㄝㄋ</rt></ruby>: to take the lead, be the first to act.

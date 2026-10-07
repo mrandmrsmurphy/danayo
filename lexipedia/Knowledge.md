@@ -63,6 +63,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[偶然](../words/偶然.md)<rt>ㄛㄨㄋ⼶ㄋ</rt></ruby>: accidental, coincidental, random — chance itself, distinct from this cluster's own graded *likelihood* vocabulary (偶然性, "randomness, contingency").
 - <ruby>[当然](../words/当然.md)<rt>ㄉㄚㄫㄋ⼶ㄋ</rt></ruby>: of course, natural, inevitable — an epistemic-certainty adverb sitting near the top of this gradient, alongside [[必然]].
 - <ruby>[実際](../words/実際.md)<rt>ㄙㄧㄊㄐㄝ</rt></ruby>: actual, real, in fact.
+- <ruby>[実情](../words/実情.md)<rt>ㄙㄧㄊㄑㄧㄫ</rt></ruby>: the actual state of affairs, the real facts.
 - <ruby>[経験](../words/経験.md)<rt>ㄍㄝㄫㄝㄇ</rt></ruby>: experience; to go through.
 - <ruby>[真実](../words/真実.md)<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby>: truth, reality; "real."
 - <ruby>[真正](../words/真正.md)<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby>: genuine, real.
@@ -95,6 +96,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[区分](../words/区分.md)<rt>ㄎㄨㄅㄨㄋ</rt></ruby>: to differentiate, set apart.
 - <ruby>[区別](../words/区別.md)<rt>ㄎㄨㄅㄝㄊ</rt></ruby>: to distinguish, classify.
 - <ruby>[図表](../words/図表.md)<rt>ㄉㄛㄅ⼘ㄨ</rt></ruby>: a diagram, chart, graph.
+- <ruby>[地図冊](../words/地図冊.md)<rt>ㄉㄧㄜㄉㄛㄑㄚㄎ</rt></ruby>: an atlas.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
 - <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.
@@ -113,6 +115,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[解釈](../words/解釈.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: interpretation, to interpret — explaining what something means, in law (a statute), literary or scriptural exegesis, or everyday meaning; "unpacking" meaning, where [[説明]] is explaining or illustrating.
 - <ruby>[要旨](../words/要旨.md)<rt>⼄ㄨㄐㄧㄜ</rt></ruby>: the gist, summary, main point — the essential point of a text or argument, with the same sense in Mandarin, Korean and Japanese; beside [[解釈]] and [[説明]], for the point rather than the explaining.
 - <ruby>[大旨](../words/大旨.md)<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby>: the main idea, gist.
+- <ruby>[定義](../words/定義.md)<rt>ㄐㄝㄫㄜㄧ</rt></ruby>: to define; a definition.
 - <ruby>[叙述](../words/叙述.md)<rt>ㄙ⼄ㄙㄨㄊ</rt></ruby>: to narrate, describe.
 - <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: argument, controversy, contention.
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to comment, discuss.

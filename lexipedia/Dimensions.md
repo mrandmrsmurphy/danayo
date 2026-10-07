@@ -20,6 +20,7 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 - <ruby>[多](../words/多.md)<rt>ㄉㄜ</rt></ruby>: many, much.
 - <ruby>[多少](../words/多少.md)<rt>ㄉㄜㄙㄛㄨ</rt></ruby>: amount, quantity.
 - <ruby>[繁多](../words/繁多.md)<rt>ㄆㄚㄋㄉㄜ</rt></ruby>: varied, numerous, manifold — 繁 "lush" + 多 "many."
+- <ruby>[隆](../words/隆.md)<rt>ㄌㄨㄫ</rt></ruby>: prosperous, plentiful, abundant.
 - <ruby>[少](../words/少.md)<rt>ㄙㄛㄨ</rt></ruby>: few, scarce.
 - <ruby>[小](../words/小.md)<rt>ㄙㄛ</rt></ruby>: small — and, by extension, young, junior; one of the vault's most productive modifiers (小雨, "drizzle"; 小学, "elementary school").
 - <ruby>[高](../words/高.md)<rt>ㄍㄚㄨ</rt></ruby>: high.
@@ -75,6 +76,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[闊葉](../words/闊葉.md)<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby>: broad-leaf.
 - <ruby>[低下](../words/低下.md)<rt>ㄉㄝㄧㄏㄚ</rt></ruby>: to lower, drop, droop, bow; also "low" (of height), the opposite of [[高]] — the bare character 低 is bound, so 低下 carries the adjective (as in 低下母音, the low vowel).
 - <ruby>[低廉](../words/低廉.md)<rt>ㄉㄝㄧㄌ⼶ㄇ</rt></ruby>, <ruby>[廉価](../words/廉価.md)<rt>ㄌ⼶ㄇㄍㄚ</rt></ruby>: cheap, low priced — "low" of price, not physical height.
+- <ruby>[安価](../words/安価.md)<rt>ㄚㄋㄍㄚ</rt></ruby>: cheap, inexpensive — with a hint of "crappy."
 - <ruby>[狭窄](../words/狭窄.md)<rt>ㄏㄚㄆㄐㄚㄎ</rt></ruby>: narrow, constricted.
 - <ruby>[浅薄](../words/浅薄.md)<rt>ㄑㄝㄋㄅㄚㄎ</rt></ruby>: superficial, shallow (figurative).
 - <ruby>[短期](../words/短期.md)<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby>: short-term.

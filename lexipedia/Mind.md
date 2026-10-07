@@ -149,6 +149,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[趣味](../words/趣味.md)<rt>ㄑㄨ·ㄇㄨㄧ</rt></ruby>: a hobby, interest, taste.
 - <ruby>[感覚](../words/感覚.md)<rt>ㄍㄚㄇㄍㄚㄎ</rt></ruby>: to feel, think, be of the opinion that — an impression-based judgment, not analytical thought.
 - <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>: like, as — the comparison particles ("X is like Y"), a distinct grammatical sense from [[喜]]'s "to like" (to enjoy); see [[Grammar]] for their own citations there.
+- <ruby>[宛然](../words/宛然.md)<rt>ㄛㄋㄋ⼶ㄋ</rt></ruby>: as if, just like — a vivid resemblance.
 
 ## Analysis
 
