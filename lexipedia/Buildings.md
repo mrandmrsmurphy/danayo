@@ -71,6 +71,7 @@ language: English
 - <ruby>[学堂](../words/学堂.md)<rt>ㄏㄚㄎㄉㄚㄫ</rt></ruby>: an old-style private school.
 - <ruby>[分校](../words/分校.md)<rt>ㄅㄨㄋㄏ⼘ㄨ</rt></ruby>: a branch campus, satellite school.
 - <ruby>[本校](../words/本校.md)<rt>ㄅㄛㄋㄏ⼘ㄨ</rt></ruby>: the head school, our school.
+- <ruby>[校舎](../words/校舎.md)<rt>ㄏ⼘ㄨㄙ⼘</rt></ruby>: a school building — the physical building(s) of a school, beside [[学校]], the institution.
 - academy - <ruby>[学院](../words/学院.md)<rt>ㄏㄚㄎ·⼔ㄋ</rt></ruby>
 - university - <ruby>[大学校](../words/大学校.md)<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 - monument - <ruby>[凱旋門](../words/凱旋門.md)<rt>ㄎㄚㄧㄙ⼔ㄋㄇㄛㄋ</rt></ruby>
