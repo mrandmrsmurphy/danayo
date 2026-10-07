@@ -61,6 +61,7 @@ The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]
 Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 
 - <ruby>[越南](words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>
+  - <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name; the established Sinitic exonym 西貢 is kept as its alias.
 - <ruby>[泰国](words/泰国.md)<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
 - <ruby>[面田](words/面田.md)<rt>ㄇ⼶ㄋㄉㄝㄋ</rt></ruby>
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>

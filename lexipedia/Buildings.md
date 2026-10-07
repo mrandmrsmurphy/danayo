@@ -146,6 +146,7 @@ language: English
 - railing, handrail - <ruby>[欄杆](../words/欄杆.md)<rt>ㄌㄚㄋㄍㄚㄋ</rt></ruby>
 - step - *(functionally the same word as "stair" above in CJKV — not a separate concept)*
 - wall - <ruby>[壁](../words/壁.md)<rt>ㄅㄝㄎ</rt></ruby>
+- fence - <ruby>[柵](../words/柵.md)<rt>ㄑㄚㄎ</rt></ruby> — a barrier of posts and rails around a yard or field, beside [[壁]] "wall" and [[垣]] "low wall."
 - window - <ruby>[窓口](../words/窓口.md)<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby>
   - **Note**: 窓口 is the Dan'a'yo word for "window" itself — the stand-in compound that legitimizes the bound character 窓 ("window"), unlike Japanese/Chinese where the cognate compound's everyday sense has drifted to "service window/counter."
 - attic - *(no clean consensus — structured differently across all three)*
