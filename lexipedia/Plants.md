@@ -84,6 +84,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[菊](../words/菊.md)<rt>ㄍㄨㄎ</rt></ruby>: a chrysanthemum.
 - <ruby>[蓮](../words/蓮.md)<rt>ㄌ⼶ㄋ</rt></ruby>: a lotus — also a major symbol in Buddhist art and iconography, though cited here for the plant itself rather than on [[Religion]], which has no dedicated citation for it.
 - <ruby>[桜](../words/桜.md)<rt>ㄚㄫ</rt></ruby>: cherry blossom — the flower (and by extension the flowering cherry tree) celebrated in spring, beside [[桜桃]] "a cherry" (the fruit) on [Food](../lexipedia/Food.md).
+- <ruby>[梅花](../words/梅花.md)<rt>ㄇㄛㄧㄏ⺢</rt></ruby>: plum blossom — the winter-flowering plum flower, beside [[桜]] "cherry blossom"; the fruit and tree is [[実梅]].
 - <ruby>[草花](../words/草花.md)<rt>ㄑㄚㄨㄏ⺢</rt></ruby>: flowering plants, ornamental flowers.
 - <ruby>[花卉](../words/花卉.md)<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>: flowers and plants, collectively.
 - <ruby>[盆栽](../words/盆栽.md)<rt>ㄆㄨㄋㄐㄚㄧ</rt></ruby>: bonsai, a potted dwarf tree — the art of growing miniature trees in shallow trays; the Chinese penzai is the historical source of the Japanese loanword "bonsai", attested across Mandarin, Cantonese, Japanese and Korean.

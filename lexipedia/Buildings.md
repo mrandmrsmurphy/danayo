@@ -157,6 +157,7 @@ language: English
 - vestibule - [[玄關]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese げんかん (the well-known shoe-removal entryway), and Korean 현관. Not yet a word page.)*
 - balcony - *(no CJKV consensus — Japanese and Korean both use English loanwords for this concept entirely)*
 - foundation - <ruby>[基礎](../words/基礎.md)<rt>ㄍㄧㄑㄛ</rt></ruby>
+- girder, beam - <ruby>[梁](../words/梁.md)<rt>ㄌ⼘ㄫ</rt></ruby> — the horizontal load-bearing member of a roof or floor, beside [[基礎]] "foundation."
 
 ## Furniture 
 - <ruby>[家具](../words/家具.md)<rt>ㄍㄚㄍㄨ</rt></ruby>: furniture (the general noun this whole section covers).
