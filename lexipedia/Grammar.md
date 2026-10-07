@@ -225,6 +225,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>
 - the Chinese language (primarily a Japanese/Korean coinage, country + 語; Mandarin itself prefers 中文/普通話/漢語) : <ruby>[中国語](../words/中国語.md)<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>
+- Mandarin, Standard Chinese (lit. "common speech," the PRC's official name for the standard language, narrower than [[中国語]]) : <ruby>[普通話](../words/普通話.md)<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby>
 - Chinese; the Chinese language/writing/culture (the everyday Mandarin/Cantonese term, emphasizing the cultural-written dimension over [[中国語]]'s system-of-speech sense) : <ruby>[中文](../words/中文.md)<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby>
 - Cantonese, lit. "Guangdong language" (the Guangdong-based variety; compare 粤語, the Yue language as a whole) : <ruby>[広東語](../words/広東語.md)<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby>
 - Korean (language), the short Sinitic name beside the full [[韓国語]] (homophone of [[漢語]]) : <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>

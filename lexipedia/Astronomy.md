@@ -91,6 +91,7 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[天狼星](../words/天狼星.md)<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby>: Sirius, the dog star.
 - <ruby>[牛郎星](../words/牛郎星.md)<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby>: Altair, the cowherd star (of the [[七夕]] legend).
 - <ruby>[七星](../words/七星.md)<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby>: the Big Dipper, "seven stars."
+- <ruby>[昴宿星団](../words/昴宿星団.md)<rt>ㄇ⼘ㄨㄙㄨㄎㄙㄝㄫㄉ⺢ㄋ</rt></ruby>: the Pleiades, the open star cluster in Taurus.
 - <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: the Dipper; also a "peck" measure.
 - <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ⼄ㄨ</rt></ruby>: the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week."
 

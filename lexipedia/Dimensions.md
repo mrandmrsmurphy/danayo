@@ -61,6 +61,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[太](../words/太.md)<rt>ㄊㄚㄧ</rt></ruby>: too, excessively (太好了, "that's too good") — the emphatic superlative of [[大]], narrowed in modern Mandarin to this degree-adverb sense.
 - <ruby>[太太](../words/太太.md)<rt>ㄊㄚㄧㄊㄚㄧ</rt></ruby>: really great, super-duper — 太 doubled.
 - <ruby>[最大](../words/最大.md)<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby>: the maximum, greatest, largest.
+- <ruby>[最高点](../words/最高点.md)<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby>: the highest point, peak, maximum (physical or figurative) — the superlative of height, beside [[最大]]'s superlative of size.
 - <ruby>[細](../words/細.md)<rt>ㄙㄝㄧ</rt></ruby>: fine, thin, slender; quiet (of sound).
 - <ruby>[弥](../words/弥.md)<rt>ㄇㄝ</rt></ruby>: all the more, increasingly — an intensifying adverb (弥漫, "to pervade," literally "increasingly spread").
 - <ruby>[充分](../words/充分.md)<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>: ample, plenty, enough.

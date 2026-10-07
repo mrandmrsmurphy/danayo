@@ -198,6 +198,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[将帥](../words/将帥.md)<rt>ㄐ⺢ㄫㄙㄨㄧ</rt></ruby>: general, marshal, commander.
 - <ruby>[武将](../words/武将.md)<rt>ㄇㄨㄐ⺢ㄫ</rt></ruby>: general, commander.
 - <ruby>[旗幟](../words/旗幟.md)<rt>ㄎㄧㄑㄧ</rt></ruby>: flag, banner, attitude.
+- <ruby>[星条旗](../words/星条旗.md)<rt>ㄙㄝㄫㄐㄛ·ㄎㄧ</rt></ruby>: the Stars and Stripes, the flag of the United States — a specific national flag, not a general word for "flag" (that is [[旗幟]]).
 
 ### Torture
 
