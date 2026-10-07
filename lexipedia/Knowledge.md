@@ -110,6 +110,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[糾](../words/糾.md)<rt>ㄍ⼜ㄛ</rt></ruby>: to investigate (also "to twist").
 - <ruby>[訂](../words/訂.md)<rt>ㄊㄝㄫ</rt></ruby>: to revise, correct.
 - <ruby>[校訂](../words/校訂.md)<rt>ㄏ⼘ㄨㄊㄝㄫ</rt></ruby>: to revise, proofread (a text specifically).
+- <ruby>[校正](../words/校正.md)<rt>ㄏ⼘ㄨㄐㄧㄫ</rt></ruby>: to proofread, correct — to check a text against its source and fix errors, beside [[校訂]], which revises a text.
 - <ruby>[発見](../words/発見.md)<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby>: to discover, find out.
 - <ruby>[参考](../words/参考.md)<rt>ㄙㄚㄇㄎㄚㄨ</rt></ruby>: to consult (a source) for reference — open, exploratory engagement with a source, distinct from binding citation.
 - <ruby>[上述](../words/上述.md)<rt>ㄙ⼘ㄫㄙㄨㄊ</rt></ruby>: aforementioned, above-mentioned — a formal written-register word pointing back at prior content within the same text (reports, contracts, academic writing), not a source-consultation term like [[参考]].

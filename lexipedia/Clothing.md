@@ -41,6 +41,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 - <ruby>[笠帽](../words/笠帽.md)<rt>ㄌㄧㄆㄇㄚㄨ</rt></ruby>: a conical bamboo hat, straw hat.
 - <ruby>[乳押](../words/乳押.md)<rt>ㄋㄨㄚㄆ</rt></ruby>: a bra, brassiere.
 - <ruby>[浴衣](../words/浴衣.md)<rt>⼄ㄎ·ㄧㄜ</rt></ruby>: a yukata, light cotton kimono.
+- <ruby>[校服](../words/校服.md)<rt>ㄏ⼘ㄨㄅㄨㄎ</rt></ruby>: a school uniform — the prescribed dress of a school, beside the general [[衣服]] "clothes."
 
 ### Collar as Social Metaphor
 
