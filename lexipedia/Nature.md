@@ -76,6 +76,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 ### Weather Phenomena
 
 - <ruby>[雨包](../words/雨包.md)<rt>ㄨㄅ⼘ㄨ</rt></ruby>: hail — specifically large hail.
+- <ruby>[梅雨](../words/梅雨.md)<rt>ㄇㄛㄧㄨ</rt></ruby>: the East Asian rainy season, early-summer rain — the long wet spell of early summer, beside [[雨]] for plain rain.
 - <ruby>[旱災](../words/旱災.md)<rt>ㄏㄚㄋㄐㄚㄧ</rt></ruby>: a drought.
 - <ruby>[閃電](../words/閃電.md)<rt>ㄙㄝㄇㄉㄝㄋ</rt></ruby>: lightning.
 - <ruby>[狂風](../words/狂風.md)<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby>: a gale, violent wind — [[風]] gone wild; not [[風狂]] (madness), its reversal.

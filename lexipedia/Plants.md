@@ -60,6 +60,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[樹木](../words/樹木.md)<rt>ㄙㄨ·ㄇㄛㄎ</rt></ruby>: a tree; plant — the compound form, alongside plain [[木]].
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree.
 - <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>: a palm tree.
+- <ruby>[棗椰](../words/棗椰.md)<rt>ㄐㄚㄨ⼘</rt></ruby>: the date palm (Phoenix dactylifera) — a specific palm species, beside the general [[棕枝]] "palm tree."
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
 - <ruby>[松](../words/松.md)<rt>ㄙ⼄ㄫ</rt></ruby>: pine, fir — the evergreen conifer of longevity and steadfastness (松柏, "pine and cypress"), beside [[柏]].
 - <ruby>[柳](../words/柳.md)<rt>ㄌ⼜</rt></ruby>: willow — the slender-branched tree of waterside and spring.
