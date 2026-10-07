@@ -110,6 +110,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[桜桃](../words/桜桃.md)<rt>ㄚㄫㄉㄚㄨ</rt></ruby>: a cherry.
 - <ruby>[李子](../words/李子.md)<rt>ㄌㄧㄐㄜ</rt></ruby>: a plum.
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
+- <ruby>[桃子](../words/桃子.md)<rt>ㄉㄚㄨㄐㄜ</rt></ruby>: a peach — the stand-in word for the bound character 桃, beside the 子-suffixed [[李子]] and [[杏子]].
+- <ruby>[桃果](../words/桃果.md)<rt>ㄉㄚㄨㄍ⺢</rt></ruby>: a peach (the fruit) — a compositional synonym of [[桃子]], built as 桃 + 果 "fruit"; no difference in sense is recorded.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
 - <ruby>[檸檬](../words/檸檬.md)<rt>ㄌㄝ·ㄇㄛㄋ</rt></ruby>: a lemon.
