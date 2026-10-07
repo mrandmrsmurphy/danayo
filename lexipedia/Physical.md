@@ -73,6 +73,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 ### Piercing & Digging
 
 - <ruby>[刺](../words/刺.md)<rt>ㄑㄧㄎ</rt></ruby>: to stab, prick, sting.
+- <ruby>[錐子](../words/錐子.md)<rt>ㄐㄨㄧㄐㄜ</rt></ruby>: an awl — the small pointed hand tool for piercing starting-holes in leather, wood or cloth; the pricking of [[刺]] done by a tool; the stand-in for the bound character 錐.
 - <ruby>[掘](../words/掘.md)<rt>ㄍㄨㄊ</rt></ruby>: to dig, excavate.
 - <ruby>[射出](../words/射出.md)<rt>ㄙ⼘ㄑㄨㄊ</rt></ruby>: to eject, emit, shoot out — forceful sending outward of light, liquid or a projectile; the stand-in for the bound character 射 (see also [[射精]]).
 - <ruby>[剝皮](../words/剝皮.md)<rt>ㄅㄛㄎㄅㄧ</rt></ruby>: to skin, peel, flay — see [[Food]] for its own citation there.

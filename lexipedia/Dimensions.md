@@ -58,6 +58,7 @@ Degree and limiting particles — "only," "very," "also" — measuring the force
 - <ruby>[太](../words/太.md)<rt>ㄊㄚㄧ</rt></ruby>: too, excessively (太好了, "that's too good") — the emphatic superlative of [[大]], narrowed in modern Mandarin to this degree-adverb sense.
 - <ruby>[弥](../words/弥.md)<rt>ㄇㄝ</rt></ruby>: all the more, increasingly — an intensifying adverb (弥漫, "to pervade," literally "increasingly spread").
 - <ruby>[充分](../words/充分.md)<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>: ample, plenty, enough.
+- <ruby>[充足](../words/充足.md)<rt>ㄑㄨㄫㄐㄛㄎ</rt></ruby>: adequate, sufficient — fully met to the point of enough (of supplies, conditions, requirements); a doubling of two words for fullness, a state rather than an amount, beside [[充分]]'s ample and plentiful.
 - <ruby>[分之](../words/分之.md)<rt>ㄅㄨㄋㄊㄧ</rt></ruby>: the fraction marker (denominator分之numerator) — Rosenfelder's "fraction."
 
 ### Linear Extent

@@ -92,6 +92,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄·ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
 - <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
 - <ruby>[卑](../words/卑.md)<rt>ㄅㄝ</rt></ruby>: lowly, inferior — the quality itself (自卑, "to feel inferior"; the self-deprecating classical register of 卑職, "this humble official").
+- <ruby>[地位](../words/地位.md)<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby>: status, social standing — a person's, nation's or institution's place in a hierarchy, the figurative "ground" one stands on; the position itself, where [[卑]] is the lowly quality.
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
 - <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
 - <ruby>[紳士](../words/紳士.md)<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby>: a gentleman.

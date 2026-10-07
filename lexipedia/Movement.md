@@ -81,6 +81,8 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[騎乗](../words/騎乗.md)<rt>ㄍㄨㄧㄙㄨㄫ</rt></ruby>: to ride, be mounted — specifically on horseback.
 - <ruby>[交通](../words/交通.md)<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>: traffic, transportation — the general umbrella term for the whole vehicle/transit cluster below.
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — a vehicle.
+- <ruby>[輸送](../words/輸送.md)<rt>ㄙㄨㄇㄙㄛㄫ</rt></ruby>: to transport, convey — to carry goods or people from one place to another, usually on a large scale; the carrying of the load, where [[運転]] is driving the vehicle; the stand-in for the bound character 輸.
+- <ruby>[遷移](../words/遷移.md)<rt>ㄑㄝㄋ·⼶ㄧ</rt></ruby>: to shift, relocate; a transition — a move of a capital, a population or a species, or in technical writing a change of state; the shifting itself, more than [[輸送]]'s carrying of a load.
 - <ruby>[乗務](../words/乗務.md)<rt>ㄙㄨㄫㄇㄨ</rt></ruby>: crew duty, to serve as crew — the broader occupational role of staffing a vehicle (train, ship, aircraft) as conductor, attendant, or similar, not specifically [[運転]]'s "to drive."
 - <ruby>[乗客](../words/乗客.md)<rt>ㄙㄨㄫㄎㄚㄎ</rt></ruby>: a passenger — literally "riding guest," [[乗務]]'s complement on the other side of the vehicle.
 - <ruby>[乗車](../words/乗車.md)<rt>ㄙㄨㄫㄑ⺢</rt></ruby>: to board a vehicle, get on — the productive 乗 + [vehicle] pattern (cf. [[乗船]] "board a ship," on [Water](../lexipedia/Water.md); [[乗馬]] "ride a horse," on [Animals](../lexipedia/Animals.md)); cited here since a car/bus/train has no other domain home.
@@ -137,6 +139,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[送還](../words/送還.md)<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby>: to send back, repatriate — to return a person to their place or country of origin by sending them (強制送還, "deportation"); the causative of returning, where [[復帰]] and [[回帰]] are the person's own return.
 - <ruby>[逗留](../words/逗留.md)<rt>ㄉㄚㄨㄌ⼜</rt></ruby>: to stay, pause, sojourn — see [[Events]] for its own citation there; temporary, a stop along the way.
 - <ruby>[通過](../words/通過.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: to pass — through a place, or an exam.
+- <ruby>[巡回](../words/巡回.md)<rt>ㄙ⼜ㄋㄏㄛㄧ</rt></ruby>: to patrol, make rounds, tour — to go around a beat, a circuit or a series of places, as a watchman, a travelling doctor or judge, or a touring troupe; a going-around, where [[通過]] is passing through; the stand-in for the bound character 巡.
 - <ruby>[通行証](../words/通行証.md)<rt>ㄊㄛㄫㄏㄚㄫㄐㄧㄫ</rt></ruby>: a permit, pass — see [[Government]] for its own citation there; the document, not the verb.
 
 ### Missing & Abandoning

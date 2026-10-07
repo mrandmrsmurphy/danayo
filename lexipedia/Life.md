@@ -41,6 +41,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[分娩](../words/分娩.md)<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby>: to give birth, deliver a child — the formal and clinical word for childbirth (as in a delivery room), rather than the plain everyday verb for having a baby; the stand-in for the bound character 娩.
 - <ruby>[生存](../words/生存.md)<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby>: to survive.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
+- <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
 - <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
 
@@ -62,6 +63,9 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 
 - <ruby>[医院](../words/医院.md)<rt>ㄜ⼔ㄋ</rt></ruby>: a hospital, clinic — specifically a small private practice, Japanese/Korean usage; see [[Buildings]] for its own placement there.
 - <ruby>[薬丸](../words/薬丸.md)<rt>⼘ㄎㄏ⺢ㄋ</rt></ruby>: a pill, tablet.
+- <ruby>[薬剤](../words/薬剤.md)<rt>⼘ㄎㄐㄝㄧ</rt></ruby>: a medicine, pharmaceutical — medicine as a prepared, measured preparation dispensed by a pharmacist, in a technical or clinical register (not the raw herb); wider than a single dose-form such as [[薬丸]]'s pill; the stand-in for the bound character 剤.
+- <ruby>[梗塞](../words/梗塞.md)<rt>ㄍㄚㄫㄙㄚㄧ</rt></ruby>: an infarction, obstruction — the blocking of a vessel or passage, as the standard clinical term for infarction (心肌梗塞, myocardial infarction; 脳梗塞, cerebral infarction); the stand-in for the bound character 梗 in this sense.
+- <ruby>[穴位](../words/穴位.md)<rt>ㄏ⼔ㄊ⼔ㄧ</rt></ruby>: an acupuncture point, pressure point — one of the specific points on the body where needles, pressure or moxibustion are applied along the meridians; the Chinese-medicine register (in Japanese 経穴 or ツボ are the native words).
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: a wound; to wound, injure — see [[Law]] for its own placement there in the sense of assault.
 - <ruby>[発熱](../words/発熱.md)<rt>ㄈㄚㄊㄋ⼶ㄊ</rt></ruby>: to have a fever.
 - <ruby>[喘息](../words/喘息.md)<rt>ㄑㄝㄋㄙㄧㄎ</rt></ruby>: asthma; panting — labored breathing, gasping for breath; Japanese and Korean name the disease asthma with it, while Chinese keeps the older sense of panting (and a breather); the stand-in for the bound character 喘.

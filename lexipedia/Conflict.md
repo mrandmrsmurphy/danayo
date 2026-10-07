@@ -55,6 +55,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 - <ruby>[凶器](../words/凶器.md)<rt>ㄏ⼜ㄫㄎㄧㄜ</rt></ruby>: murder weapon, lethal weapon, deadly implement.
 - <ruby>[刀剣](../words/刀剣.md)<rt>ㄊㄚㄨㄍㄛㄇ</rt></ruby>: sword, dagger, knife.
+- <ruby>[刀鞘](../words/刀鞘.md)<rt>ㄊㄚㄨㄙㄛ</rt></ruby>: a scabbard, sheath — the fitted leather or wood sleeve that holds a blade; a craft object in its own right in the Japanese sword tradition (さや, with a separate artisan, the 鞘師).
 - <ruby>[槍](../words/槍.md)<rt>ㄑ⺢ㄫ</rt></ruby>: a spear, lance.
 - <ruby>[長矛](../words/長矛.md)<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby>: a spear, lance, pike.
 
@@ -89,6 +90,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[豪傑](../words/豪傑.md)<rt>ㄏㄚㄨㄍㄝㄊ</rt></ruby>: hero, genius. See Semantic Range Notes.
 - <ruby>[侠客](../words/侠客.md)<rt>ㄏㄝㄆㄎㄚㄎ</rt></ruby>: knight-errant, swordsman, hero. See Semantic Range Notes.
 - <ruby>[武士道](../words/武士道.md)<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby>: bushido, the way of the warrior — the ethical and moral code of the samurai.
+- <ruby>[殉難](../words/殉難.md)<rt>ㄙ⼜ㄋㄋㄚㄋ</rt></ruby>: martyrdom, to die for a just cause — death accepted in the face of calamity as the price of loyalty (the person who dies for a lord, a cause or a country); broader than a specifically religious martyrdom.
 - <ruby>[昂然](../words/昂然.md)<rt>ㄚㄫㄋ⼶ㄋ</rt></ruby>: bold, elated.
 
 ### Victory, Loss & Defeat

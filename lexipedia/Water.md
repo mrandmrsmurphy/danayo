@@ -45,6 +45,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 ### Freshwater & Inland
 
 - <ruby>[湖水](../words/湖水.md)<rt>ㄏㄛㄨㄙㄨ</rt></ruby>: lake.
+- <ruby>[水位](../words/水位.md)<rt>ㄙㄨ⼔ㄧ</rt></ruby>: the water level — the height of water in a river, lake, reservoir or tide gauge against a fixed reference point (the basis of flood warnings); "position of the water", where [[湖水]] is the lake itself.
 - <ruby>[川](../words/川.md)<rt>ㄑ⺢ㄋ</rt></ruby>: river.
 - <ruby>[流水](../words/流水.md)<rt>ㄌ⼜ㄙㄨ</rt></ruby>: flowing water; by extension, the inevitable passage of events (高山流水, "high mountains and flowing water," symbolizing deep mutual understanding between friends).
 - <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
@@ -86,6 +87,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 
 - <ruby>[海洋](../words/海洋.md)<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby>: sea, ocean.
 - <ruby>[海湾](../words/海湾.md)<rt>ㄏㄚㄧ⺢ㄇ</rt></ruby>: bay, gulf.
+- <ruby>[潟湖](../words/潟湖.md)<rt>ㄙㄝㄎㄏㄛㄨ</rt></ruby>: a lagoon — a shallow body of brackish water cut off from the sea by a sandbar, barrier island or reef, often with a narrow inlet; in Chinese the term is an orthographic borrowing from the Japanese geographical word (せきこ).
 - <ruby>[海峡](../words/海峡.md)<rt>ㄏㄚㄧㄏㄚㄆ</rt></ruby>: strait, channel.
 - <ruby>[半島](../words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>: peninsula.
 - <ruby>[海辺](../words/海辺.md)<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>: beach, seashore.

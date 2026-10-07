@@ -47,6 +47,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Correspondence & Documents
 
 - <ruby>[文書](../words/文書.md)<rt>ㄇㄨㄋㄙ⼄</rt></ruby>: letter, document.
+- <ruby>[刪除](../words/刪除.md)<rt>ㄙㄚㄋㄐㄝㄧ</rt></ruby>: to delete, expunge — to strike something out of a text or record; originally the cutting of bamboo strips (冊 + 刂) to erase a character, now the standard computing term for deletion in Chinese.
 - <ruby>[書簡](../words/書簡.md)<rt>ㄙ⼄ㄍㄚㄋ</rt></ruby>: letter.
 - <ruby>[柬](../words/柬.md)<rt>ㄍ⼘ㄋ</rt></ruby>: letter, invitation.
 - <ruby>[札](../words/札.md)<rt>ㄐㄚㄊ</rt></ruby>: letter, note.
@@ -79,6 +80,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Literature & Publishing
 
 - <ruby>[叢書](../words/叢書.md)<rt>ㄐㄛㄫㄙ⼄</rt></ruby>: book series, anthology.
+- <ruby>[楔子](../words/楔子.md)<rt>ㄙㄝㄊㄐㄜ</rt></ruby>: a prologue, interlude — a short framing piece "wedged in" before the main body of a work (the scene in Yuan zaju drama, the opening of vernacular novels); the figurative sense of the carpenter's wedge (see [Tools](../lexipedia/Tools.md)).
 - <ruby>[文学](../words/文学.md)<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>: literature (as a body of written work and an academic discipline). See Semantic Range Notes.
 - <ruby>[文献](../words/文献.md)<rt>ㄇㄨㄋㄏㄝㄋ</rt></ruby>: literature (scholarly/historical documents, references). See Semantic Range Notes.
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.

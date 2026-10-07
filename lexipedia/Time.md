@@ -78,6 +78,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[依然](../words/依然.md)<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby>: still — "as ... as ever," a continuity-despite-expectation nuance.
 - <ruby>[尚](../words/尚.md)<rt>ㄙ⼘ㄫ</rt></ruby>: still, even more.
 - <ruby>[猶](../words/猶.md)<rt>⼜ㄛ</rt></ruby>: furthermore, still, yet — a classical/literary register.
+- <ruby>[間歇](../words/間歇.md)<rt>ㄍㄚㄋㄏㄝㄊ</rt></ruby>: intermittent, intermittence — happening with pauses and resuming rather than running continuously; a gap of rest in the continuation that [[仍]] and [[依然]] describe; the stand-in for the bound character 歇.
 
 **Excluded as a false match**: "still" also loosely matches [[寂静]], but that word means quiet, tranquil — physical stillness/silence, not temporal continuation — not cited here.
 

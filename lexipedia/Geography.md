@@ -16,6 +16,8 @@ _Some of these must be #neologism s because sounds have chanced over time._
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.
+- <ruby>[鄭国](../words/鄭国.md)<rt>ㄐㄝㄫㄍㄛㄎ</rt></ruby>: Zheng, a minor state of the Zhou period in what is now Henan, whose "Airs of Zheng" survive in the 詩経 and whose name gave the surname 鄭; a historical state, not a modern country.
+- <ruby>[蜀国](../words/蜀国.md)<rt>ㄙㄛㄎㄍㄛㄎ</rt></ruby>: Shu, the kingdom centred on the Sichuan basin — the generic name for several historical states there (the early Shu conquered by Qin, Shu-Han of the Three Kingdoms, and the Five Dynasties Shu kingdoms); a historical state, not a modern country.
 - <ruby>[愛媛](../words/愛媛.md)<rt>ㄚㄧㄛㄋ</rt></ruby>: Ehime, a prefecture of [[日本]] on the island of Shikoku.
 - <ruby>[栃木](../words/栃木.md)<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby>: Tochigi, a prefecture of [[日本]] in the Kantō region north of Tokyo, whose capital is Utsunomiya and which contains Nikkō; named for the horse-chestnut tree (栃) written with a Japan-made character.
 

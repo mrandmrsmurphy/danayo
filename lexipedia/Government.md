@@ -38,6 +38,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ### Monarchy & Titles
 
 - <ruby>[王位](../words/王位.md)<rt>⺢ㄫ⼔ㄧ</rt></ruby>: the throne.
+- <ruby>[帝位](../words/帝位.md)<rt>ㄊㄝㄧ⼔ㄧ</rt></ruby>: the imperial throne — the throne of an emperor (帝), one tier above [[王位]]'s throne of a king, reflecting the Qin title 皇帝 that placed the emperor above kings.
 - <ruby>[冠冕](../words/冠冕.md)<rt>ㄍ⺢ㄋㄇ⼶ㄋ</rt></ruby>: a crown, ceremonial or official headwear — the classical ritual cap of rulers and high officials (the 冕 of the Zhou court), and by extension the insignia of high office itself; more literary than [[王冠]], the plain word for a monarch's crown.
 - <ruby>[王朝](../words/王朝.md)<rt>⺢ㄫㄐㄚㄨ</rt></ruby>: a dynasty, reign, court.
 - <ruby>[朝廷](../words/朝廷.md)<rt>ㄐㄚㄨㄉㄝㄫ</rt></ruby>: the imperial or royal court — the ruler together with the officials who govern in his name, as the centre of government; distinct from [[宮廷]] (the palace and the ruler's household, housed on [Buildings](../lexipedia/Buildings.md)) and from [[王朝]] (a dynasty).
@@ -52,6 +53,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
+- <ruby>[諡号](../words/諡号.md)<rt>ㄙㄧㄜㄏㄚㄨ</rt></ruby>: a posthumous name, honorary posthumous title — the name conferred on a ruler or notable after death, summing up their reign or character; the stand-in for the bound character 諡.
 - <ruby>[朕](../words/朕.md)<rt>ㄐㄨㄇ</rt></ruby>: "we/I" — the imperial first-person pronoun, used exclusively by emperors and empresses since the Qin dynasty; a specialized register-bound form, distinct from the ordinary pronoun paradigm on [[Grammar]].
 - <ruby>[七事](../words/七事.md)<rt>ㄑㄧㄊㄐㄧ</rt></ruby>: the Seven Duties of a Sovereign — a classical/historical canonical list (offering sacrifice, giving audience, administering jointly, receiving guests, running the army, attending to farm work, and mourning ceremonies).
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
@@ -162,6 +164,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.
 - <ruby>[勅令](../words/勅令.md)<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby>: an imperial edict, decree — a command issued in the throne's own name, the highest register of order (the historical imperial edict in Chinese, the Joseon royal decree in Korean, a cabinet order issued in the emperor's name in prewar Japan); what [[頒布]] and [[諭示]] promulgate.
+- <ruby>[詔書](../words/詔書.md)<rt>ㄐㄛㄨㄙ⼄</rt></ruby>: an imperial edict — the written proclamation issued by an emperor; a stable pan-Sinospheric term for the document itself, where [[勅令]] names the command; the stand-in for the bound character 詔.
 
 ### Alliance & Agreement
 

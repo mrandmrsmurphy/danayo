@@ -17,6 +17,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[身体](../words/身体.md)<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>: body.
+- <ruby>[部位](../words/部位.md)<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby>: a body part, site, region — a specific location on or in the body (an injection site, the site of a wound) or on any larger whole; the general anatomical term whose pinpoint form is [[穴位]] (acupuncture point), where [[身体]] is the body as a whole.
 - <ruby>[頭](../words/頭.md)<rt>ㄊㄛㄨ</rt></ruby>: head.
 - <ruby>[手](../words/手.md)<rt>ㄙ⼜</rt></ruby>: hand.
 - <ruby>[足](../words/足.md)<rt>ㄐㄛㄎ</rt></ruby>: foot.

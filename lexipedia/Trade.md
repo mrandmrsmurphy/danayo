@@ -58,6 +58,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[借](../words/借.md)<rt>ㄐㄚ</rt></ruby>: to borrow; to lend — both directions of a loan, disambiguated by coverb pattern (跟...借, "to borrow from..."; 借給..., "to lend to...").
 - <ruby>[償還](../words/償還.md)<rt>ㄙ⼘ㄫㄏ⺢ㄋ</rt></ruby>: repayment, restitution, compensation — returning what is owed; financial and legal only, not the theological [[救贖]] (see [Christianity](../lexipedia/基督敎.md)).
 - <ruby>[賠償](../words/賠償.md)<rt>ㄅㄛㄧㄙ⼘ㄫ</rt></ruby>: to compensate, pay damages — to pay for a loss or harm one has caused (損害賠償, "damages"; 戦争賠償, "war reparations"); compensation for a wrong, as against [[償還]]'s repayment of what is owed.
+- <ruby>[充当](../words/充当.md)<rt>ㄑㄨㄫㄉㄚㄫ</rt></ruby>: to allocate, apply funds toward — to earmark a store of money or resources for a designated use (the bureaucratic act of allocating from a budget); directing a filled store to a purpose, where [[充足]] describes the store as sufficient.
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
 - <ruby>[利率](../words/利率.md)<rt>ㄌㄧㄜㄌㄨㄊ</rt></ruby>: an interest rate — resolves this page's own previously-flagged "interest" gap.

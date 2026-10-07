@@ -77,6 +77,8 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[募集](../words/募集.md)<rt>ㄇㄛㄐㄧㄆ</rt></ruby>: to recruit, solicit; recruitment — a public call to gather workers, members or contributions; the stand-in for the bound character 募.
 - <ruby>[雇用](../words/雇用.md)<rt>ㄎㄛ⼄ㄫ</rt></ruby>: to employ, hire; employment — taking someone on for pay, or the state of being in work (雇用保険, "employment insurance"); the employer's act of taking on, where [[募集]] is the public call for recruits.
 - <ruby>[担任](../words/担任.md)<rt>ㄉㄚㄇㄋㄧㄇ</rt></ruby>: to assume a post, take charge of a role — in Japanese and Korean schools also the homeroom teacher; opposite of stepping down ([[卸]]).
+- <ruby>[掌管](../words/掌管.md)<rt>ㄐㄚㄫㄍ⺢ㄋ</rt></ruby>: to manage, be in charge of — to hold something in the hand and direct it; overall charge, which [[分掌]] then parcels out among several hands.
+- <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
 

@@ -6,15 +6,15 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1250
-- **Calendar**: 50
-- **Geography**: 91
+- **Unsorted**: 1223
+- **Calendar**: 49
+- **Geography**: 89
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 4
 - **Measurement**: 2
 - **Mind**: 11
-- **Movement**: 18
+- **Movement**: 17
 - **Nature**: 7
 - **Physics**: 6
 - **Plants**: 12
@@ -27,12 +27,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Substances**: 9
 - **Time**: 7
 - **Tools**: 5
-- **Trade**: 11
+- **Trade**: 10
 - **Valuation**: 18
 - **War**: 11
-- **Work**: 8
+- **Work**: 7
 
-## Unsorted (1250)
+## Unsorted (1223)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -162,19 +162,15 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[倶楽部]] — club
 - [[偪陽]] — fuyang
 - [[優先]] — take precedence, take priority
-- [[充足]] — adequate, sufficient
-- [[充電]] — to recharge (a battery), to charge
 - [[入場]] — enter a venue
 - [[公爵]] — duke
 - [[凌駕]] — to override, to surpass
 - [[凝結]] — congeal, coagulate
 - [[凹版]] — gravure, intaglio
-- [[刀鞘]] — scabbard, sheath
 - [[刊行]] — publish
 - [[刑罰]] — penalty
 - [[判別式]] — discriminant
 - [[利用]] — use, utilized
-- [[刪除]] — delete, expunge
 - [[刺身]] — sashimi
 - [[削除]] — erase, delete
 - [[剣術]] — fencing, swordsmanship
@@ -183,7 +179,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[創傷]] — trauma, traumatize
 - [[加皮]] — scab
 - [[効率]] — efficiency, productiveness
-- [[勉励]] — to exhort, to urge on
 - [[包皮]] — foreskin
 - [[匈奴]] — xiongnu
 - [[化身]] — reincarnate, incarnate
@@ -315,7 +310,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[峨峨]] — lofty, towering, rugged
 - [[川口]] — kawaguchi
 - [[川埼]] — kawasaki
-- [[巡回]] — patrol, tour, circuit
 - [[工人]] — worker, craftsman, workman
 - [[工業]] — industry
 - [[巫山]] — wushan
@@ -377,7 +371,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[振幅]] — amplitude
 - [[挽回]] — recover, restore, retrieve
 - [[捕手]] — catcher (baseball)
-- [[掌管]] — to manage, to be in charge of
 - [[排水溝]] — gutter, culvert
 - [[排球]] — volleyball
 - [[接受]] — accept, receive
@@ -463,7 +456,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[校正]] — proofread, correct
 - [[桑田]] — mulberry plantation
 - [[梁]] — girder
-- [[梗塞]] — infarction, obstruction
 - [[梨]] — pear
 - [[棟梁]] — ridgepole, mainstay
 - [[棲息]] — inhabit, roost, perch
@@ -473,7 +465,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[検証]] — verify
 - [[検閲]] — censorship, inspection, to censor
 - [[楊梅]] — waxfruit
-- [[楔子]] — wedge, prologue
 - [[楕圓]] — ellipse
 - [[概要]] — overview, summary
 - [[様]] — -ly
@@ -516,7 +507,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[漁夫]] — fisherman
 - [[漸近線]] — asymptote
 - [[潜在]] — potential, latent
-- [[潟湖]] — lagoon
 - [[潰瘍]] — ulcer
 - [[激励]] — encourage, motivate
 - [[灯籠]] — lantern
@@ -736,7 +726,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[苹果]] — apple
 - [[苺]] — strawberry
 - [[茄子]] — eggplant, aubergine
-- [[茜草]] — indian madder, rubia cordifolia
 - [[茫然]] — thoughtless, clueless
 - [[荘子]] — zhuangzi, hamlet
 - [[荷物]] — luggage, baggage
@@ -752,12 +741,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蒲公英]] — dandelion
 - [[蒸溜]] — distillation
 - [[蒼路]] — crane
-- [[蓄積]] — to accumulate, accumulation
 - [[蓬藁]] — mugwort, artemisia, wormwood
 - [[蕃息]] — proliferate, flourish
 - [[蕪青]] — turnip
-- [[薬剤]] — medicine, pharmaceutical, drug
-- [[蘇生]] — revival, resuscitation
 - [[蘿蔔]] — radish
 - [[虎鯨]] — orca, killer whale
 - [[虹尊]] — rainbow trout
@@ -788,7 +774,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[覇権]] — hegemony, tyranny
 - [[覚醒]] — be disillusioned, sober up
 - [[解剖]] — dissect
-- [[解釈]] — interpretation, to interpret
 - [[討伐]] — subjugate
 - [[討論]] — debate
 - [[記者]] — reporter, journalist
@@ -856,7 +841,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[遊牧]] — nomadic
 - [[道教]] — daoism
 - [[違反]] — violate, transgress, infringe
-- [[遜色]] — inferior, inferiority
 - [[適宜]] — suitable, appropriate
 - [[適応]] — adaptation, to adapt
 - [[遭遇]] — encounter
@@ -877,7 +861,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[鉱物学]] — mineralogy
 - [[銅鑼]] — gong
 - [[銘文]] — inscription, epigraph
-- [[錐子]] — awl
 - [[錦鯉]] — koi
 - [[鐘]] — bell
 - [[鑽石]] — diamond, auger
@@ -885,7 +868,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[開墾]] — cultivate
 - [[開張]] — grand opening
 - [[閑暇]] — freetime, leisure
-- [[間歇]] — intermittent, intermittence
 - [[関係]] — relationship, related
 - [[関島]] — guam
 - [[閨房]] — boudoir, bower
@@ -1030,7 +1012,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[可不]] — able to not (do something), permitted to refrain from
 - [[各種]] — every kind, all kinds, full range
 - [[合成]] — synthesis, compound, composite
-- [[吉祥]] — auspicious, lucky
 - [[名字]] — name (personal name)
 - [[呵呵]] — laughter sound, haha
 - [[品目]] — article, item, inventory
@@ -1040,7 +1021,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[回路]] — way back, loop, circuit
 - [[団結]] — unite, rally together, unify
 - [[図表]] — diagram, chart, graph
-- [[地位]] — status, social standing
 - [[地点]] — point, spot
 - [[坑道]] — tunnel
 - [[執行]] — execute, perform, do, carry out
@@ -1068,7 +1048,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[宛然]] — as if, just like
 - [[宿敵]] — archenemy, long-standing rival
 - [[寄宿舎]] — boarding house, dormitory
-- [[寺刹]] — buddhist temple
 - [[封印]] — seal, stamp
 - [[専門]] — specialty, field of expertise
 - [[小人]] — jerk, petty person
@@ -1082,7 +1061,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[左右]] — both sides
 - [[差異]] — difference, distinction
 - [[巻耳]] — field chickweed, field mouse-ear
-- [[帝位]] — imperial throne
 - [[常常]] — often, frequently, commonly
 - [[常識]] — common sense
 - [[平日]] — weekday, ordinary day
@@ -1145,7 +1123,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[極東]] — far east
 - [[楷]] — model, pattern
 - [[死体]] — corpse, dead body, cadaver
-- [[水位]] — water level
 - [[河川]] — rivers
 - [[洋鬼子]] — white devil, western demon
 - [[清楚]] — clear; distinct; sharply defined; understandable (mandarin/cantonese — 说清楚 "explain clearly"), neat, modest, unaffectedly elegant (japanese せいそ, describing a person's demeanor/appearance — see note)
@@ -1185,7 +1162,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[禁令]] — prohibition order; ban; edict of prohibition
 - [[禁苑]] — imperial garden, forbidden garden
 - [[科挙]] — imperial examination, civil service exam
-- [[穴位]] — acupuncture point, pressure point
 - [[空前]] — unprecedented, as never before
 - [[精油]] — oil (all kinds)
 - [[紅玉]] — ruby
@@ -1214,7 +1190,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[荷担]] — shoulder, carry
 - [[菱形]] — rhombus, diamond shape
 - [[蚊帳]] — mosquito net, tent screen
-- [[蜀国]] — shu kingdom
 - [[蝉冠]] — ancient hat
 - [[衆議院]] — house of representatives, house of commons
 - [[行事]] — action, function
@@ -1222,7 +1197,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[西端]] — western tip, western end
 - [[要旨]] — gist, summary, main point
 - [[設置]] — set up, install, establish
-- [[詔書]] — imperial edict
 - [[詞典]] — dictionary
 - [[謄録]] — transcribe by hand, copy out
 - [[議定]] — reach an agreement, make an agreement
@@ -1242,7 +1216,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[道徳経]] — tao te ching, classic of the way and virtue
 - [[遷怒]] — vent anger, take it out on
 - [[邦畿]] — capitol district (ancient)
-- [[部位]] — region, site, body part
 - [[部門]] — section, division
 - [[郵政]] — postal service, postal system
 - [[配列]] — put in order, arrange, lay out
@@ -1289,7 +1262,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (50)
+## Calendar (49)
 - [[分校]] — branch campus, branch school
 - [[副用]] — auxiliary
 - [[十分]] — very,extremely, ten minutes
@@ -1330,7 +1303,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[精緻]] — delicate, fine, subtle
 - [[終了]] — end, conclusion
 - [[蘭花]] — orchid, lily
-- [[諡号]] — posthumous name, honorary posthumous title
 - [[辦公]] — do business, handle business
 - [[遅到]] — be late, arrive late
 - [[長期]] — long time
@@ -1341,8 +1313,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (91)
-- [[鄭国]] — state of Zheng (rerouted from the Existence bucket)
+## Geography (89)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
 - [[南山]] — south mountain
@@ -1424,7 +1395,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[越境]] — transgress, infringe on the border of
 - [[辺境]] — frontier, border
 - [[違犯]] — violate, infringe upon, disobey
-- [[遷移]] — to shift, to relocate, transition
 - [[郡]] — county, prefecture, district, commandery
 - [[金城]] — impenetrable city, jincheng
 - [[金山]] — gold mine
@@ -1477,7 +1447,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[糊塗]] — muddled, confused
 - [[覚悟]] — enlightenment, awareness, resolve, mental preparedness
 
-## Movement (18)
+## Movement (17)
 - [[奔波]] — rush about, run around
 - [[奔走]] — run around, walk quickly
 - [[搬送]] — transport, convey
@@ -1492,7 +1462,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[衰弱]] — fall away, waste away, weaken
 - [[起]] — rise up
 - [[跳梁]] — to run rampant, to jump about wildly
-- [[輸送]] — transportation, transport, convey
 - [[辦理]] — manage, arrange, run
 - [[運送]] — transport
 - [[飛行]] — fly, flight
@@ -1632,8 +1601,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[穿孔机]] — puncher, perforator, boring machine
 - [[装置]] — equipment, device
 
-## Trade (11)
-- [[充当]] — to allocate, to assign, to apply (funds) toward
+## Trade (10)
 - [[回収]] — recover, retrieve, collect back, recycle
 - [[報償]] — compensate, pay reparations to
 - [[安価]] — cheap, inexpensive, crappy
@@ -1678,8 +1646,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Work (8)
-- [[分掌]] — to divide work duties, division of responsibilities
+## Work (7)
 - [[副業]] — side job, second job
 - [[採用]] — adopt, employ, use
 - [[確定]] — fix, establish

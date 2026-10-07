@@ -29,6 +29,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北方](../words/北方.md)<rt>ㄅㄨㄎㄈㄚㄫ</rt></ruby>: north.
 - <ruby>[南方](../words/南方.md)<rt>ㄋㄚㄇㄈㄚㄫ</rt></ruby>: south.
 - <ruby>[東方](../words/東方.md)<rt>ㄉㄛㄫㄈㄚㄫ</rt></ruby>: east.
+- <ruby>[方位](../words/方位.md)<rt>ㄈㄚㄫ⼔ㄧ</rt></ruby>: a direction, bearing, orientation — a point of the compass or the orientation of a building; the position in physical space, in geomancy (風水) given cosmological meaning; where [[方向]] is the direction of travel or aim.
 - <ruby>[西方](../words/西方.md)<rt>ㄙㄝㄧㄈㄚㄫ</rt></ruby>: west.
 - <ruby>[五方](../words/五方.md)<rt>ㄛㄈㄚㄫ</rt></ruby>: the Five Directions — East Asian cosmology's four cardinal points plus Center, each correlated with a color, element, season, and guardian creature; also, idiomatically, "everywhere, from all quarters" (五方雜處).
 - <ruby>[右側](../words/右側.md)<rt>⼜ㄐㄧㄎ</rt></ruby>: right (side).

@@ -75,6 +75,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Sacred Places & Rites
 
 - <ruby>[寺院](../words/寺院.md)<rt>ㄙㄚ⼔ㄋ</rt></ruby>: a temple (Buddhist) — no generic, non-denominational "temple" word exists.
+- <ruby>[寺刹](../words/寺刹.md)<rt>ㄙㄚㄑㄚㄊ</rt></ruby>: a Buddhist temple — the formal, written word for a temple (寺, "temple", + 刹, from Sanskrit kṣetra, "field, sacred domain"); the same thing as [[寺院]] in a more institutional, scholarly register.
 - <ruby>[庵子](../words/庵子.md)<rt>ㄚㄇㄐㄜ</rt></ruby>: a small Buddhist nunnery, hermitage — smaller in scale than [[寺院]]; a genuine dialectal word that also carries an unrelated regional sense, "a thatched field hut" (agricultural, in the Guanzhong dialect).
 - <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>: a seminary.
 - <ruby>[祭祀](../words/祭祀.md)<rt>ㄐㄝㄙㄜ</rt></ruby>: sacrifice, worship — the ritual act of ceremonial offering, see [[基督敎]] for its own citation there.
@@ -107,6 +108,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind — the cosmological triad. See [Astronomy](../lexipedia/Astronomy.md) for its own citation there.
 - <ruby>[前兆](../words/前兆.md)<rt>ㄐㄝㄋㄐㄚㄨ</rt></ruby>: a premonitory sign, harbinger, omen.
 - <ruby>[瑞兆](../words/瑞兆.md)<rt>ㄙ⼔ㄐㄚㄨ</rt></ruby>: an auspicious omen, propitious sign — a portent marked as fortunate (the good counterpart to [[前兆]]'s plain premonitory sign, often unwelcome); the stand-in for the bound character 瑞.
+- <ruby>[吉祥](../words/吉祥.md)<rt>ㄍㄧㄊㄙㄚㄫ</rt></ruby>: auspicious, lucky — a pervasive blessing formula pairing two words for good fortune (as in the Buddhist goddess 吉祥天, Lakṣmī); the state of good luck itself, beside the portents of [[瑞兆]] and [[前兆]].
 - <ruby>[偶像](../words/偶像.md)<rt>ㄛㄨㄙ⼘ㄫ</rt></ruby>: an idol, statue. See [Art](../lexipedia/Art.md) for its own citation there.
 
 ## Advanced / Specialized (C1+)

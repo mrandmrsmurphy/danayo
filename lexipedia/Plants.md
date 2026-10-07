@@ -79,6 +79,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[艾草](../words/艾草.md)<rt>ㄚㄧㄑㄚㄨ</rt></ruby>: mugwort.
 - <ruby>[蓼藍](../words/蓼藍.md)<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby>: Japanese indigo, a dye plant — see also [Color](../lexipedia/Color.md)'s [[藍色]], the dye/hue this plant produces (a different word, not a duplicate citation).
 - <ruby>[藍](../words/藍.md)<rt>ㄌㄚㄇ</rt></ruby>: the indigo plant — the bound root behind [[蓼藍]] above and [[藍色]] on [[Color]].
+- <ruby>[茜草](../words/茜草.md)<rt>ㄑㄝㄋㄑㄚㄨ</rt></ruby>: Indian madder (Rubia cordifolia), the climbing plant whose root gives a deep madder-red dye and a medicine; the stand-in for the bound character 茜.
 - <ruby>[篠竹](../words/篠竹.md)<rt>ㄙㄛㄨㄐㄨㄎ</rt></ruby>: dwarf bamboo, bamboo grass.
 - <ruby>[萎蕤](../words/萎蕤.md)<rt>⼔ㄧㄋㄨㄧ</rt></ruby>: Solomon's seal, a drooping-stemmed herb (Polygonatum, especially fragrant Solomon's seal, whose rhizome is the Chinese medicine 玉竹); the stand-in for the bound character 蕤.
 
