@@ -33,6 +33,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[沙漠](../words/沙漠.md)<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>: a desert.
 - <ruby>[農民](../words/農民.md)<rt>ㄋㄛㄫㄇㄧㄋ</rt></ruby>: a farmer, peasant.
 - <ruby>[田野](../words/田野.md)<rt>ㄉㄝㄋ·⼘</rt></ruby>: a field — open countryside, not a sports field.
+- <ruby>[桑田](../words/桑田.md)<rt>ㄙㄚㄫㄉㄝㄋ</rt></ruby>: a mulberry plantation — a field planted with mulberry (for silkworm leaves), a cultivated field rather than open countryside like [[田野]].
 - <ruby>[肥沃](../words/肥沃.md)<rt>ㄅㄨㄧㄛㄎ</rt></ruby>: fertile, irrigated — 肥 "fertile" + 沃 "watered."
 - <ruby>[丘](../words/丘.md)<rt>ㄎ⼜</rt></ruby>: a hill.
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
