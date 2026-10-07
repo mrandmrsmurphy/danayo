@@ -29,6 +29,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[善](../words/善.md)<rt>ㄙ⼶ㄋ</rt></ruby>: good — the moral-goodness register, distinct from plain [[好]].
 - <ruby>[至善](../words/至善.md)<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby>: the highest good, summum bonum — from the Great Learning (大學).
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
+- <ruby>[公明](../words/公明.md)<rt>ㄍㄛㄫㄇ⼶ㄫ</rt></ruby>: just and open — 公 "public" + 明 "clear."
 - <ruby>[批評](../words/批評.md)<rt>ㄆㄝㄧㄅ⼶ㄫ</rt></ruby>: criticism, review, critique — 批 "criticise" + 評 "evaluate."
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
 - <ruby>[拙劣](../words/拙劣.md)<rt>ㄐ⼔ㄊㄌㄝㄊ</rt></ruby>: clumsy, inept, crude — poorly made or poorly done, both unskilled and of low quality (crude writing, a bungled imitation); a literary register, close to [[悪劣]]'s vile inferiority but about lack of skill rather than moral badness.
@@ -43,6 +44,8 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[良好](../words/良好.md)<rt>ㄌ⼘ㄫㄏㄚㄨ</rt></ruby>: fine — the "good quality" sense.
 - <ruby>[中等](../words/中等.md)<rt>ㄐㄨㄫㄉㄨㄫ</rt></ruby>: intermediate, medium grade, middle level — the unmarked midpoint on any quality scale (中等 income, 中等 difficulty), not [[良好]]'s positive judgment; also names the middle tier of East Asia's 初等/中等/高等 (elementary/secondary/higher) educational classification.
 - <ruby>[優等](../words/優等.md)<rt>ㄨㄛㄉㄨㄫ</rt></ruby>: excellent, of the top grade, honors — the upper end of the scale whose unmarked midpoint is 中等 (優等生 "honor student"); its opposite is [[劣等]].
+- <ruby>[優秀](../words/優秀.md)<rt>ㄨㄛㄙㄨㄛ</rt></ruby>: excellent, outstanding.
+- <ruby>[典雅](../words/典雅.md)<rt>ㄉㄝㄋ·ㄚ</rt></ruby>: graceful, elegant — of writing and manner.
 - <ruby>[劣等](../words/劣等.md)<rt>ㄌㄝㄊㄉㄨㄫ</rt></ruby>: inferior, of a lower grade — the bottom of the series 劣等, [[中等]], [[優等]]; 劣等感 is the "inferiority complex".
 - <ruby>[初等](../words/初等.md)<rt>ㄑㄛㄉㄨㄫ</rt></ruby>: elementary, of the first and most basic level — the lowest tier of the 初等/中等/高等 educational classification, and "introductory" in 初等数学; see [[中等]] and [[高等]].
 - <ruby>[高等](../words/高等.md)<rt>ㄍㄚㄨㄉㄨㄫ</rt></ruby>: higher-level, advanced — as a modifier before an institution.

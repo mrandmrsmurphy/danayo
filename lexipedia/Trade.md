@@ -23,6 +23,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[暖簾](../words/暖簾.md)<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby>: a noren, a shop-entrance curtain — the short cloth curtain hung in a shop doorway, usually bearing the shop's name or crest; also, by extension, the shop's name, credit and reputation.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
+- <ruby>[割引](../words/割引.md)<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby>: a discount.
 - <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
 - <ruby>[便宜](../words/便宜.md)<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby>: cheap, inexpensive (in Mandarin/Cantonese) — a genuine cross-linguistic heteronym: the same compound means "convenience, expediency" in Japanese/Korean instead, not "cheap" at all.
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: cheap, low-priced (廉価, "low price") — a secondary sense of the same word whose primary sense is "upright, honest," housed on [Society](../lexipedia/Society.md).
@@ -75,6 +76,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[亨通](../words/亨通.md)<rt>ㄏㄚㄫㄊㄛㄫ</rt></ruby>: to prosper — the business/trade-prosperity sense.
 - <ruby>[成功](../words/成功.md)<rt>ㄙㄧㄫㄍㄛㄫ</rt></ruby>: to succeed, achieve success, prosper — broader than [[亨通]]'s commercial prosperity.
 - <ruby>[成績](../words/成績.md)<rt>ㄙㄧㄫㄐㄝㄎ</rt></ruby>: achievements, results, grades.
+- <ruby>[功績](../words/功績.md)<rt>ㄍㄛㄫㄐㄝㄎ</rt></ruby>: a deed, meritorious achievement.
 
 ### Display & Revelation
 

@@ -58,6 +58,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia — the fuller, classical transliteration used historically for the cultural/civilizational sense (Asian peoples, Pan-Asianism), distinct from [[亜洲]]'s plain geographic landmass sense.
 - <ruby>[儒学](../words/儒学.md)<rt>ㄋㄨㄏㄚㄎ</rt></ruby>: Confucianism — framed as a field of study, the academic/scholarly tradition.
 - <ruby>[儒教](../words/儒教.md)<rt>ㄋㄨㄍ⼄ㄨ</rt></ruby>: Confucianism — an undocumented near-duplicate of [[儒学]], framed instead as a religious/moral teaching.
+- <ruby>[儒家](../words/儒家.md)<rt>ㄋㄨㄍㄚ</rt></ruby>: Confucianism, the Ru school.
 - <ruby>[法家](../words/法家.md)<rt>ㄈㄚㄆㄍㄚ</rt></ruby>: Legalism — the "school of law", one of the Hundred Schools of Thought, holding that order rests on clear public laws backed by strict rewards and punishments, not on the moral cultivation of the Confucians of [[儒学]]; associated with Shang Yang and the Qin.
 - <ruby>[諸子](../words/諸子.md)<rt>ㄐㄚㄐㄜ</rt></ruby>: the various masters — the collective name for the independent philosophers and teachers of the late Zhou (子 as the honorific of 孔子 and 老子); the thinkers themselves, where [[諸子百家]] adds their schools.
 - <ruby>[諸子百家](../words/諸子百家.md)<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby>: the Hundred Schools of Thought — the flowering of independent philosophy in the Spring and Autumn and Warring States periods (c. 770–221 BC), "hundred" being hyperbole; it ended with the Qin suppression and the later Confucian establishment. Vietnamese reverses the order to Bách Gia Chư Tử.
@@ -256,6 +257,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[習俗](../words/習俗.md)<rt>ㄙㄜㄆㄙㄛㄎ</rt></ruby>: custom, mores, convention.
 - <ruby>[恒例](../words/恒例.md)<rt>ㄏㄨㄫㄌㄝ</rt></ruby>: an established practice, custom.
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
+- <ruby>[各位](../words/各位.md)<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby>: ladies and gentlemen — a respectful address to a group.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[五礼](../words/五礼.md)<rt>ㄛㄌㄝㄧ</rt></ruby>: the Five Rites — the classical Zhou-dynasty classification of all ceremony into auspicious, inauspicious (funerary), guest, military, and festive rites; first of the Six Arts (六芸, alongside [[五射]] on [War](../lexipedia/War.md)).
 - <ruby>[六楽](../words/六楽.md)<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby>: the Six Musics — the second of the Six Arts of Zhou noble education, six ceremonial dance-and-music suites from the 周禮; the 楽 here is read yuè (music), not lè (joy), as the Notes explain, and follows [[五礼]].

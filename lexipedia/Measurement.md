@@ -92,6 +92,7 @@ These are simultaneously literal units of measurement and, grammatically, measur
 
 - <ruby>[公斤](../words/公斤.md)<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby>: a kilogram.
 - <ruby>[升](../words/升.md)<rt>ㄙㄨㄫ</rt></ruby>: a liter.
+- <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: a peck — the dry measure; also the Dipper.
 - <ruby>[百升](../words/百升.md)<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby>: a hectoliter — a hundred liters.
 - <ruby>[碼](../words/碼.md)<rt>ㄇㄚ</rt></ruby>: a yard.
 

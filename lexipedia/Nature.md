@@ -72,6 +72,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[辟歴](../words/辟歴.md)<rt>ㄆㄧㄎㄌㄝㄎ</rt></ruby>: a thunderclap, thunderbolt — with 辟 and 歴 standing in for 霹 and 靂 of the full form 霹靂, attested in all five languages, including the Japanese idiom 青天の霹靂 ("a bolt from the blue").
 - <ruby>[雷電](../words/雷電.md)<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby>: thunder and lightning — the everyday word for lightning in practice, though [[閃電]] is the technically precise term; attested in all five languages; beside [[辟歴]] for the thunderclap.
 - <ruby>[凍結](../words/凍結.md)<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby>: to freeze.
+- <ruby>[凝結](../words/凝結.md)<rt>ㄜㄫㄍㄝㄊ</rt></ruby>: to congeal, coagulate, condense.
 - <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>: climate.
 - <ruby>[気象](../words/気象.md)<rt>ㄎㄧㄜㄙ⼘ㄫ</rt></ruby>: weather, meteorology.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky — see [[Astronomy]] for its own citation there.

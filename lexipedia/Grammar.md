@@ -49,6 +49,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 
 ### Modals
 - can <ruby>[可](../words/可.md)<rt>ㄎㄜ</rt></ruby>
+- may refrain, permitted not to : <ruby>[可不](../words/可不.md)<rt>ㄎㄜㄅㄛㄊ</rt></ruby>
 - cannot <ruby>[不可](../words/不可.md)<rt>ㄅㄛㄊㄎㄜ</rt></ruby>
 - may (permission) <ruby>[可以](../words/可以.md)<rt>ㄎㄜㄧ</rt></ruby>
 - cannot, may not (impermissive) <ruby>[不可以](../words/不可以.md)<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> — the direct negation of [[可以]] above.
@@ -145,6 +146,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
 - <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
 - <ruby>[被](../words/被.md)<rt>ㄆㄧ</rt></ruby> "passive marker, -ee (marks the patient of an action: 被教, 'be taught')"
+- <ruby>[受動](../words/受動.md)<rt>ㄙ⼜ㄉㄛㄫ</rt></ruby> "passive (voice), receptive"
 - <ruby>[－中](../words/－中.md)<rt>ㄐㄨㄫ</rt></ruby> "-ing (continuous aspect suffix, postfixed to a verb)"
 - <ruby>[了](../words/了.md)<rt>ㄌ⼘ㄨ</rt></ruby> "completed/changed-state aspect particle (吃了飯, 下雨了) — [[－中]]'s perfective counterpart; also a free-standing word, 'done, finished, over' (了結, [[完了]])"
 - <ruby>[已](../words/已.md)<rt>ㄜ</rt></ruby> "-ed, (has) done, completed (perfective aspect marker, postfixed to a verb: 食已, 'has eaten'; marks completion regardless of when) — contrasts with [[未]] ('not yet, unrealized') and [[将]] ('will, prospective')"
@@ -160,6 +162,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[感詞](../words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> "interjection"
+- <ruby>[副用](../words/副用.md)<rt>ㄈㄨㄎ·⼄ㄫ</rt></ruby> "auxiliary (a Dan'a'yo-internal grammatical term)"
 - <ruby>[擬詞](../words/擬詞.md)<rt>ㄧㄙㄚ</rt></ruby> "ideophone"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
@@ -341,6 +344,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[字彙](../words/字彙.md)<rt>ㄐㄧㄏㄨ</rt></ruby> "lexicon, vocabulary"
 - <ruby>[詞彙](../words/詞彙.md)<rt>ㄙㄚㄏㄨ</rt></ruby> "vocabulary, lexicon"
 - <ruby>[語彙](../words/語彙.md)<rt>⼄ㄏㄨ</rt></ruby> "lexicon"
+- <ruby>[古語](../words/古語.md)<rt>ㄍㄛ⼄</rt></ruby> "archaism, an old or obsolete word"
 - <ruby>[語感](../words/語感.md)<rt>⼄ㄍㄚㄇ</rt></ruby> "sprachgefühl, one's intuitive sense of a language"
 - <ruby>[語族](../words/語族.md)<rt>⼄ㄐㄛㄎ</rt></ruby> "language family"
 - <ruby>[語用](../words/語用.md)<rt>⼄⼄ㄫ</rt></ruby> "language usage"

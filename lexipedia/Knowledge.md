@@ -90,6 +90,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[験](../words/験.md)<rt>ㄝㄇ</rt></ruby>: to check, examine — the bound root behind [[試験]] above (also 経験, "experience").
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze, analysis.
 - <ruby>[分類](../words/分類.md)<rt>ㄅㄨㄋㄌㄨㄧ</rt></ruby>: to classify, classification — the act of sorting into kinds ([[種類]]); the science of it is [[分類学]].
+- <ruby>[区分](../words/区分.md)<rt>ㄎㄨㄅㄨㄋ</rt></ruby>: to differentiate, set apart.
+- <ruby>[区別](../words/区別.md)<rt>ㄎㄨㄅㄝㄊ</rt></ruby>: to distinguish, classify.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
 - <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.

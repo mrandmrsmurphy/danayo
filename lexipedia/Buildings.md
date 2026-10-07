@@ -67,6 +67,7 @@ language: English
 - library - <ruby>[図書館](../words/図書館.md)<rt>ㄉㄛㄙ⼄ㄍ⺢ㄋ</rt></ruby>
 - school - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 - <ruby>[教室](../words/教室.md)<rt>ㄍ⼄ㄨㄙㄧㄊ</rt></ruby>: a classroom.
+- <ruby>[分校](../words/分校.md)<rt>ㄅㄨㄋㄏ⼘ㄨ</rt></ruby>: a branch campus, satellite school.
 - academy - <ruby>[学院](../words/学院.md)<rt>ㄏㄚㄎ·⼔ㄋ</rt></ruby>
 - university - <ruby>[大学校](../words/大学校.md)<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 - monument - <ruby>[凱旋門](../words/凱旋門.md)<rt>ㄎㄚㄧㄙ⼔ㄋㄇㄛㄋ</rt></ruby>

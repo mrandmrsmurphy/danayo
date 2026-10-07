@@ -46,6 +46,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[鋏](../words/鋏.md)<rt>ㄍㄝㄆ</rt></ruby>: tongs — distinct from [[鉗]]'s pliers; also the modern word for "scissors" in Japanese (はさみ), though that sense isn't separately documented here.
 - <ruby>[剪](../words/剪.md)<rt>ㄐㄝㄋ</rt></ruby>: scissors — the dedicated Dan'a'yo word for the tool itself, distinct from [[鋏]]'s Japanese-only extension to the same sense.
 - <ruby>[削](../words/削.md)<rt>ㄙ⼘ㄎ</rt></ruby>: to scrape, whittle, pare away with a blade.
+- <ruby>[削除](../words/削除.md)<rt>ㄙ⼘ㄎㄐㄝㄧ</rt></ruby>: to erase, delete.
 - <ruby>[鍬](../words/鍬.md)<rt>ㄑㄚㄨ</rt></ruby>: a shovel.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: a plow. See [Nature](../lexipedia/Nature.md) for its own citation there.
 - <ruby>[矩](../words/矩.md)<rt>ㄎ⼄</rt></ruby>: a carpenter's square, a drafting tool for right angles — by extension, "a standard, rule" (規矩, "compass and square," i.e. proper conduct) and, in modern physics/math, "moment" (力矩, torque) and "quadrature."

@@ -20,6 +20,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[飲食](../words/飲食.md)<rt>ㄨㄇㄙㄧㄎ</rt></ruby>: to eat and drink.
 - <ruby>[餐](../words/餐.md)<rt>ㄑㄚㄋ</rt></ruby>: to eat, dine.
 - <ruby>[肉](../words/肉.md)<rt>ㄋㄨㄎ</rt></ruby>: meat.
+- <ruby>[刺身](../words/刺身.md)<rt>ㄑㄧㄎㄙㄧㄋ</rt></ruby>: sashimi — thinly sliced raw fish.
 - <ruby>[米](../words/米.md)<rt>ㄇㄝㄧ</rt></ruby>: rice (uncooked).
 - <ruby>[米飯](../words/米飯.md)<rt>ㄇㄝㄧㄅㄛㄋ</rt></ruby>: rice (cooked).
 - <ruby>[茶](../words/茶.md)<rt>ㄑㄚ</rt></ruby>: tea (drink or plant).
@@ -59,6 +60,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a knife blade — Rosenfelder's "knife."
 - <ruby>[刀叉](../words/刀叉.md)<rt>ㄊㄚㄨㄑㄚㄧ</rt></ruby>: fork and knife (as a set).
 - <ruby>[砥石](../words/砥石.md)<rt>ㄐㄧㄜㄙㄝㄎ</rt></ruby>: a whetstone, grindstone, for sharpening blades.
+- <ruby>[臼](../words/臼.md)<rt>ㄍ⼜ㄛ</rt></ruby>: a mortar, millstone; also a socket.
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a spoon, ladle.
 - <ruby>[叉勺](../words/叉勺.md)<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby>: a spork.
 - <ruby>[串](../words/串.md)<rt>ㄐ⺢ㄇ</rt></ruby>: a skewer.

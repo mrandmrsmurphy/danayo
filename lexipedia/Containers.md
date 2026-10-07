@@ -33,6 +33,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 
 - <ruby>[杯](../words/杯.md)<rt>ㄅㄛㄧ</rt></ruby>: a cup, cupful.
 - <ruby>[鍋](../words/鍋.md)<rt>ㄍ⺢</rt></ruby>: a pot.
+- <ruby>[鼎](../words/鼎.md)<rt>ㄉㄧㄫ</rt></ruby>: a tripod cauldron, ding.
 - <ruby>[皿](../words/皿.md)<rt>ㄇ⼶ㄫ</rt></ruby>: a dish, container.
 - <ruby>[碗](../words/碗.md)<rt>⺢ㄋ</rt></ruby>, <ruby>[鉢](../words/鉢.md)<rt>ㄅㄚㄊ</rt></ruby>: a bowl.
 - <ruby>[水壷](../words/水壷.md)<rt>ㄙㄨㄏㄛ</rt></ruby>: a kettle, water bottle.

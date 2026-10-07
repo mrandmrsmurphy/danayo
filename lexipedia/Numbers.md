@@ -120,6 +120,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[九九](../words/九九.md)<rt>ㄎ⼜·ㄎ⼜</rt></ruby>: the times table, multiplication table — named for its traditional opening line, "nine nines are eighty-one."
 - <ruby>[[相等]]<rt>ㄙㄚㄫㄉㄨㄫ</rt></ruby>: equal (mathematically).
 - <ruby>[方程式](../words/方程式.md)<rt>ㄈㄚㄫㄉㄧㄫㄙㄧㄎ</rt></ruby>: equation — literally "method-process-formula."
+- <ruby>[参数](../words/参数.md)<rt>ㄙㄚㄇㄙㄨ</rt></ruby>: a parameter.
 - <ruby>[[奇数]]<rt>ㄍㄨㄧㄙㄨ</rt></ruby>: odd (number).
 - <ruby>[[偶数]]<rt>ㄛㄨㄙㄨ</rt></ruby>: even (number).
 - <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby>: number, numeral, digit.

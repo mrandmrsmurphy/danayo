@@ -62,6 +62,8 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
 - <ruby>[侯](../words/侯.md)<rt>ㄏㄛㄨ</rt></ruby>: a marquis — the second-highest of the Five Ranks of Nobility (五等爵), below duke (uncoined) and above [[伯爵]]; also "aristocrat, nobleman" more generally.
 - <ruby>[伯爵](../words/伯爵.md)<rt>ㄅㄚㄎㄐㄚㄎ</rt></ruby>: an earl, count.
+- <ruby>[公爵](../words/公爵.md)<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>: a duke — the highest rank of nobility.
+- <ruby>[千乗](../words/千乗.md)<rt>ㄑㄝㄋㄙㄨㄫ</rt></ruby>: a vassal of the Son of Heaven — "a thousand chariots."
 - <ruby>[卿](../words/卿.md)<rt>ㄎ⼶ㄫ</rt></ruby>: a noble, high officer, sir, m'lord.
 - <ruby>[公卿](../words/公卿.md)<rt>ㄍㄛㄫㄎ⼶ㄫ</rt></ruby>: nobility (collectively).
 - <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ·⼔ㄧ</rt></ruby>: a peerage, title of nobility.

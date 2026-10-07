@@ -220,7 +220,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 - and Antarctica ([[南極洲]]).
 
 <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> include:
-- the Pacific ([[太平]][[洋]]), 
+- the Pacific (<ruby>[太平洋](../words/太平洋.md)<rt>ㄊㄚㄧㄅ⼶ㄫ⼘ㄫ</rt></ruby>), 
 - Atlantic ([[大西洋]]), 
 - <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>,
 - Arctic Ocean ([[北氷洋]]), 

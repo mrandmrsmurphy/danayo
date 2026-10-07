@@ -43,6 +43,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[猿楽](../words/猿楽.md)<rt>ㄛㄋㄌㄚㄎ</rt></ruby>: sarugaku — a form of Japanese theatre popular from the eleventh to fourteenth centuries, the ancestor of Noh and Kyōgen; the characters are read with their own native readings in Mandarin and Cantonese.
 - <ruby>[劇場](../words/劇場.md)<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>: cinema, theater (the venue).
 - <ruby>[演出](../words/演出.md)<rt>⼶ㄋㄑㄨㄊ</rt></ruby>: to perform, put on a show; to direct, stage-direct.
+- <ruby>[公演](../words/公演.md)<rt>ㄍㄛㄫ⼶ㄋ</rt></ruby>: to give a public performance.
+- <ruby>[出演](../words/出演.md)<rt>ㄑㄨㄊ⼶ㄋ</rt></ruby>: to appear on stage, perform.
 - <ruby>[演奏](../words/演奏.md)<rt>⼶ㄋㄙㄛㄨ</rt></ruby>: to play (music).
 - <ruby>[練習](../words/練習.md)<rt>ㄌㄝㄋㄙㄜㄆ</rt></ruby>: to practice, rehearse (a piece).
 
@@ -77,6 +79,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
 - <ruby>[詠](../words/詠.md)<rt>ㄨㄧㄫ</rt></ruby>: to recite, chant — poetry or verse aloud.
+- <ruby>[吟唱](../words/吟唱.md)<rt>ㄜㄇㄑ⺢ㄫ</rt></ruby>: to chant, recite.
 - <ruby>[韻律](../words/韻律.md)<rt>ㄨㄋㄌㄨㄊ</rt></ruby>: meter, rhyme scheme — the pattern of sound in verse; the same word is "prosody" in linguistics (see [Grammar](../lexipedia/Grammar.md)).
 - <ruby>[兮](../words/兮.md)<rt>ㄏㄝㄧ</rt></ruby>: a classical exclamatory/rhythmic particle marking a pause or emphasis in verse, most famous from Xiang Yu's 垓下歌 and the 楚辭 tradition.
 
@@ -91,6 +94,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
+- <ruby>[刊行](../words/刊行.md)<rt>ㄎㄚㄋㄏㄚㄫ</rt></ruby>: to publish (a book or periodical).
+- <ruby>[初版](../words/初版.md)<rt>ㄑㄛ·ㄆㄚㄋ</rt></ruby>: a first edition.
 - <ruby>[新聞](../words/新聞.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby>: news (Mandarin, Cantonese); newspaper (Japanese, Korean).
 - <ruby>[刊](../words/刊.md)<rt>ㄎㄚㄋ</rt></ruby>: a publication, periodical (週刊, "a weekly publication"; [[季刊]], "a quarterly").
 - <ruby>[記載](../words/記載.md)<rt>ㄍㄧㄐㄚㄧ</rt></ruby>: to record, write down.
@@ -146,6 +151,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[鳥啄](../words/鳥啄.md)<rt>ㄑㄛㄨ·ㄊㄛㄎ</rt></ruby>: bird pecking; figurative name of the left-falling stroke.
 - <ruby>[金刀](../words/金刀.md)<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby>: golden blade; figurative name of the right-falling stroke.
 - <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>: a print (picture copied from painting/photography).
+- <ruby>[凹版](../words/凹版.md)<rt>ㄚㄨㄆㄚㄋ</rt></ruby>: gravure, intaglio — printing from a recessed plate.
 - <ruby>[石版](../words/石版.md)<rt>ㄙㄝㄎㄆㄚㄋ</rt></ruby>: a lithograph, stone printing plate.
 - <ruby>[木版](../words/木版.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>: printing block.
 - <ruby>[横幅](../words/横幅.md)<rt>ㄏ⺢ㄫㄈㄨㄎ</rt></ruby>: banner, horizontal scroll.

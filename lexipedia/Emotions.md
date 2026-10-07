@@ -20,11 +20,13 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[気](../words/気.md)<rt>ㄎㄧㄜ</rt></ruby>: feeling, spirit, energy — the broader bound root behind [[気分]]'s specific "mood" (also 元気, "vigor"; 空気, "air"); distinct from its sibling compound [[気息]]'s own separate "vital-breath" sense, housed on [[Religion]] instead.
 - <ruby>[幸福](../words/幸福.md)<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby>: happy, blessed.
 - <ruby>[悲](../words/悲.md)<rt>ㄅㄧㄜ</rt></ruby>: to be sad.
+- <ruby>[可憐](../words/可憐.md)<rt>ㄎㄜㄌㄝㄋ</rt></ruby>: pitiful, pitiable.
 - <ruby>[怒](../words/怒.md)<rt>ㄋㄛ</rt></ruby>: angry.
 - <ruby>[恐怖](../words/恐怖.md)<rt>ㄎㄛㄫㄆㄛ</rt></ruby>: fear, dread.
 - <ruby>[満足](../words/満足.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: satisfied, contented.
 - <ruby>[喜悦](../words/喜悦.md)<rt>ㄏㄧ⼶ㄊ</rt></ruby>: joyous, happy.
 - <ruby>[孤独](../words/孤独.md)<rt>ㄍㄛㄉㄛㄎ</rt></ruby>: lonely, solitary.
+- <ruby>[単身](../words/単身.md)<rt>ㄉㄚㄋㄙㄧㄋ</rt></ruby>: alone, single, unaccompanied (単身赴任).
 - <ruby>[幽](../words/幽.md)<rt>⼜ㄛ</rt></ruby>: quiet, secluded, dark — a place's own quality of tranquil seclusion (幽玄, a key Japanese aesthetic concept), not [[孤独]]'s personal feeling of loneliness.
 - <ruby>[恨](../words/恨.md)<rt>ㄏㄚㄋ</rt></ruby>: to hate; a grudge.
 - <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>: to entertain, amuse oneself.
@@ -95,6 +97,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[羞恥](../words/羞恥.md)<rt>ㄙㄨㄛㄑㄧ</rt></ruby>: shame.
 - <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
 - <ruby>[無恥](../words/無恥.md)<rt>ㄇㄜㄑㄧ</rt></ruby>: shameless, brazen — lacking the Confucian sense of shame; most at home in 厚顔無恥.
+- <ruby>[厚顔](../words/厚顔.md)<rt>ㄏㄛㄨㄚㄋ</rt></ruby>: brazen-faced, shameless.
 
 ### Desire & Longing
 

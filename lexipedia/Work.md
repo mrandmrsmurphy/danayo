@@ -69,6 +69,8 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, work — the economic category (労動者, "a worker"; 労動力, "labor force").
 - <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
+- <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
+- <ruby>[副業](../words/副業.md)<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby>: a side job, second job.
 - <ruby>[工人](../words/工人.md)<rt>ㄍㄛㄫㄋㄧㄋ</rt></ruby>: a worker, craftsman.
 - <ruby>[人手](../words/人手.md)<rt>ㄋㄧㄋㄙ⼜</rt></ruby>: manpower, workforce — the headcount of available hands (人手不足, "insufficient manpower"), distinct from [[労動]]'s abstract economic category.
 - <ruby>[辛苦](../words/辛苦.md)<rt>ㄙㄧㄋㄎㄛ</rt></ruby>: toil, bitter hardship.
@@ -77,12 +79,14 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[工廠](../words/工廠.md)<rt>ㄍㄛㄫㄑㄚㄫ</rt></ruby>: factory, manufacturing plant — see Semantic Range Notes for how this differs from [[工場]].
 - <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
 - <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
+- <ruby>[協力](../words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby>: to join forces, work together.
 - <ruby>[募集](../words/募集.md)<rt>ㄇㄛㄐㄧㄆ</rt></ruby>: to recruit, solicit; recruitment — a public call to gather workers, members or contributions; the stand-in for the bound character 募.
 - <ruby>[雇用](../words/雇用.md)<rt>ㄎㄛ⼄ㄫ</rt></ruby>: to employ, hire; employment — taking someone on for pay, or the state of being in work (雇用保険, "employment insurance"); the employer's act of taking on, where [[募集]] is the public call for recruits.
 - <ruby>[担任](../words/担任.md)<rt>ㄉㄚㄇㄋㄧㄇ</rt></ruby>: to assume a post, take charge of a role — in Japanese and Korean schools also the homeroom teacher; opposite of stepping down ([[卸]]).
 - <ruby>[掌管](../words/掌管.md)<rt>ㄐㄚㄫㄍ⺢ㄋ</rt></ruby>: to manage, be in charge of — to hold something in the hand and direct it; overall charge, which [[分掌]] then parcels out among several hands.
 - <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
+- <ruby>[出勤](../words/出勤.md)<rt>ㄑㄨㄊㄍㄧㄋ</rt></ruby>: to go to work, clock in.
 - <ruby>[辞職](../words/辞職.md)<rt>ㄑㄧㄐㄧㄎ</rt></ruby>: to resign, resignation — to take formal leave of an official post.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
 - <ruby>[缺勤](../words/缺勤.md)<rt>ㄎ⼔ㄊㄍㄧㄋ</rt></ruby>: absence from work, to be absent from duty — failing to report for one's work (欠勤 in Japanese, rendered here with 缺); beside [[退職]] and [[卸]] among the words for leaving or missing a post.

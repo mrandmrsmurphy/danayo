@@ -18,6 +18,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[艱難](../words/艱難.md)<rt>ㄍㄚㄋㄋㄚㄋ</rt></ruby>: arduous, hard — gruelling, sustained difficulty, hardship borne over time (艱難汝を玉にす, "adversity makes a jewel of you"); a literary doubling of two words for hard, heavier than [[困難]]'s plain difficult, and about the struggle rather than the suffering of [[苦難]].
 - <ruby>[容易](../words/容易.md)<rt>⼄ㄫ⼶ㄎ</rt></ruby>: easy, simple — the difficulty judgment.
 - <ruby>[危険](../words/危険.md)<rt>⼔ㄧㄏㄝㄇ</rt></ruby>: dangerous, risky, perilous — 危 "dangerous" + 険 "precipitous."
+- <ruby>[危殆](../words/危殆.md)<rt>⼔ㄧㄉㄛㄧ</rt></ruby>: jeopardy, grave peril.
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
 - <ruby>[妨害](../words/妨害.md)<rt>ㄈㄚㄫㄏㄚㄧ</rt></ruby>: to obstruct, hinder, interfere with — the formal and legal word (妨害公務).
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
@@ -48,6 +49,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[勉](../words/勉.md)<rt>ㄇ⼶ㄋ</rt></ruby>: to exert, urge.
 - <ruby>[勉励](../words/勉励.md)<rt>ㄇ⼶ㄋㄌㄝ</rt></ruby>: to exhort, urge on — to encourage someone to greater effort, pairing two near-synonymous verbs of encouragement for emphasis; formal and written in register.
+- <ruby>[勤勉](../words/勤勉.md)<rt>ㄍㄧㄋㄇ⼶ㄋ</rt></ruby>: diligent, hard-working.
 - <ruby>[奨励](../words/奨励.md)<rt>ㄐㄚㄫㄌㄝ</rt></ruby>: to encourage, incentivise — 奨 "reward" + 励 "exhort."
 - <ruby>[奮発](../words/奮発.md)<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby>, <ruby>[尽力](../words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby>: to exert oneself, make a special effort.
 - <ruby>[率先](../words/率先.md)<rt>ㄌㄨㄊㄙㄝㄋ</rt></ruby>: to take the lead, be the first to act.

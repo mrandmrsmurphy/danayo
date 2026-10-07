@@ -36,6 +36,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[法庭](../words/法庭.md)<rt>ㄈㄚㄆㄉㄝㄫ</rt></ruby>: court, courtroom — the general term (the legal proceeding/institution).
 - <ruby>[裁判所](../words/裁判所.md)<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby>: courthouse — the building specifically.
 - <ruby>[審訊](../words/審訊.md)<rt>ㄙㄧㄇㄙㄧㄋ</rt></ruby>: a judicial hearing, interrogation — formal questioning before an authority.
+- <ruby>[処決](../words/処決.md)<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby>: to handle and decide a case; to execute a sentence.
 - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby>: a lawsuit, to sue.
 - <ruby>[告訴](../words/告訴.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>: to accuse, file a lawsuit.
 - <ruby>[受理](../words/受理.md)<rt>ㄙ⼜ㄌㄧ</rt></ruby>: to accept (a case, application or document) — the formal moment when an authority takes up something submitted to it for processing; the receiving side of a filing, where the citizen files and the office accepts or rejects.
@@ -68,6 +69,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 ### Punishment
 
 - <ruby>[処分](../words/処分.md)<rt>ㄑㄛㄅㄨㄋ</rt></ruby>: to punish, discipline (also <ruby>[懲罰](../words/懲罰.md)<rt>ㄑㄧㄫㄅㄝㄊ</rt></ruby>, an independently attested synonym).
+- <ruby>[刑罰](../words/刑罰.md)<rt>ㄏㄝㄫㄅㄝㄊ</rt></ruby>: a penalty, legal punishment.
 - <ruby>[罰金](../words/罰金.md)<rt>ㄅㄝㄊㄍㄧㄇ</rt></ruby>: a fine, monetary penalty.
 - <ruby>[誅殺](../words/誅殺.md)<rt>ㄐㄨㄙㄚㄊ</rt></ruby>: to execute.
 - <ruby>[極刑](../words/極刑.md)<rt>ㄍㄧㄎㄏㄝㄫ</rt></ruby>: capital punishment.

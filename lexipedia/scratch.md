@@ -6,9 +6,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1036
-- **Calendar**: 42
-- **Geography**: 77
+- **Unsorted**: 991
+- **Calendar**: 40
+- **Geography**: 74
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 3
@@ -17,26 +17,24 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Movement**: 14
 - **Nature**: 5
 - **Physics**: 6
-- **Plants**: 12
-- **Religion**: 14
+- **Plants**: 11
+- **Religion**: 12
 - **Sensation**: 6
 - **Reproduction**: 2
 - **Shape**: 3
 - **Sin**: 12
-- **Speech**: 15
-- **Substances**: 7
+- **Speech**: 12
+- **Substances**: 6
 - **Time**: 5
 - **Tools**: 5
 - **Trade**: 8
-- **Valuation**: 16
+- **Valuation**: 14
 - **War**: 10
-- **Work**: 6
+- **Work**: 5
 
-## Unsorted (1036)
+## Unsorted (991)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
-- [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
-- [[内省]] — reflect, introspect, examine oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
 - [[囲棋]] — go (board game) ("board" false positive — moved out of the Government bucket 2026-09-28)
 - [[学区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
 - [[寄宿]] — lodge, board, rent ("board" false positive — moved out of the Government bucket 2026-09-28)
@@ -83,9 +81,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[八角]] — octagon, star anise (illicium verum)
-- [[初版]] — first edition
-- [[区別]] — differentiate, distinguish, classify
-- [[千乗]] — vassal of the son of heaven
 - [[大江]] — big river, yangtze
 - [[天子]] — son of heaven
 - [[天祐]] — divine aid
@@ -116,7 +111,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陰]] — yin, shade
 - [[雰囲]] — mood, atmosphere, ambience
 - [[韓江]] — han river
-- [[儀仗]] — implement
 - [[国営]] — nationalization, state management
 - [[心緒]] — feelings, state of mind
 - [[感恩]] — feel thankful about, be grateful over
@@ -139,20 +133,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[修飾語]] — modifier
 - [[倶楽部]] — club
 - [[偪陽]] — fuyang
-- [[優先]] — take precedence, take priority
-- [[入場]] — enter a venue
-- [[公爵]] — duke
-- [[凝結]] — congeal, coagulate
-- [[凹版]] — gravure, intaglio
-- [[刊行]] — publish
-- [[刑罰]] — penalty
 - [[判別式]] — discriminant
-- [[刺身]] — sashimi
-- [[削除]] — erase, delete
 - [[剣術]] — fencing, swordsmanship
 - [[割包皮]] — circumcision
-- [[割引]] — discount
-- [[創傷]] — trauma, traumatize
 - [[加皮]] — scab
 - [[効率]] — efficiency, productiveness
 - [[包皮]] — foreskin
@@ -162,27 +145,17 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[午前]] — a.m.
 - [[卍字]] — swastika
 - [[単詞]] — word
-- [[単身]] — loneliness, singleness
 - [[単鷹国]] — prussia
 - [[印度支那]] — indochina (derogatory)
-- [[危殆]] — jeopardy, distress
 - [[厉病]] — leprosy
-- [[参差]] — irregular
-- [[参数]] — parameter
 - [[双曲線]] — hyperbola
 - [[双節棍]] — nunchucks
-- [[双鷹国]] — austria
 - [[反切]] — fanqie
 - [[反駁]] — refute
 - [[古琴]] — guqin
-- [[古語]] — archaism
-- [[句杞]] — wolfberry
-- [[叩頭]] — kowtow
 - [[召集]] — summon, convene
-- [[可憐]] — pitiful
 - [[可読]] — readable, legible
 - [[台北]] — taipei
-- [[各位]] — ladies and gentlemen
 - [[同僚]] — colleague, coworker
 - [[同居]] — coreside, cohabitate
 - [[同窓]] — alum, alumni
@@ -347,7 +320,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[敬語]]
 - [[整]] — orderly, neat, tidy
 - [[文学者]] — literati
-- [[斗]] — peck, dipper
 - [[料槽]] — feed trough, manger
 - [[斬豪]] — trench, entrenchment
 - [[断頭台]] — guillotine
@@ -377,7 +349,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[最善]] — best
 - [[最大]] — maximum, greatest, largest
 - [[月虹]] — moonbow
-- [[服事]] — serve, attend to
 - [[服務員]] — server, waiter
 - [[末梢]] — tiptop, periphery, trivia
 - [[本塁打]] — homerun
@@ -503,7 +474,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[琺瑯]] — enamel, cloisonné
 - [[瑠球]] — ryukyu
 - [[瑠璃]] — glaze
-- [[瓦]] — tile
 - [[甘露]] — honeydew, nectar, amrita
 - [[甜瓜]] — melon, muskmelon
 - [[用疽]] — abscess, ulcer
@@ -615,7 +585,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[自動車]] — automobile
 - [[自在]] — comfortable, carefree, adjustable
 - [[致使]] — that, resulting in
-- [[臼]] — mortar, millstone, socket
 - [[航空]] — aviation
 - [[航空母艦]] — aircraft carrier
 - [[艦船]] — seagoing vessels
@@ -842,7 +811,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[黒猩]] — chimpanzee
 - [[黒貂]] — sable
 - [[黙想]] — meditation, contemplation
-- [[鼎]] — tripod
 - [[鼠類]] — muroidea (rodents)
 - [[龍巻]] — tornado, twister
 - [[龍断]] — monopolize
@@ -855,23 +823,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[白頭翁]] — white-haired old man, grey starling, root of pulsatilla cernua
 - [[鬼婆]] — hag, nasty old woman (especially white)
 - [[他郷]] — foreign land
-- [[克明]] — discern, meticulous, moral judgment
-- [[公明]] — just and open
-- [[共通]] — common, shared
-- [[内臓]] — internal organs, viscera
-- [[出勤]] — go to work
-- [[到達]] — arrive at, reach
 - [[創立]] — establish, found
-- [[勤勉]] — hard-working, diligent
-- [[北端]] — northern edge
-- [[区分]] — differentiate, distinguish, set apart
-- [[協力]] — join forces, work together
 - [[収蔵]] — to store, to house, collection
 - [[古今]] — ancient and modern, old and new
 - [[古典]] — classical
 - [[古風]] — elegant classical
 - [[叫喚]] — cry out, call out, raurava
-- [[可不]] — able to not (do something), permitted to refrain from
 - [[合成]] — synthesis, compound, composite
 - [[名字]] — name (personal name)
 - [[品目]] — article, item, inventory
@@ -971,7 +928,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[狼狽]] — werewolf, flustering, confusion
 - [[猛烈]] — fierce, strong, blistering, furious
 - [[獅城]] — lion city, a classical sobriquet for singapore
-- [[玄]] — deep, profound, mysterious
 - [[玉璽]] — royal seal, emperor's seal
 - [[王国]] — kingdom
 - [[珈沙]] — kāṣāya (buddhist robes)
@@ -1064,7 +1020,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[満盈]] — filled to capacity
 - [[百事]] — myriad issues
 - [[複写]] — photocopy, carbon copy, duplicate
-- [[別荘]] — villa, village
 - [[坐席]] — seat, mat
 - [[拠点]] — base, foothold
 - [[楼閣]] — multistory pavilion, tower building
@@ -1075,9 +1030,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (42)
-- [[分校]] — branch campus, branch school
-- [[副用]] — auxiliary
+## Calendar (40)
 - [[名刺]] — business card
 - [[国別]] — by country, country-by-country, broken down by nation
 - [[国庫]] — national treasury, exchequer
@@ -1119,12 +1072,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (77)
+## Geography (74)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[南山]] — south mountain
-- [[南部]] — south, southern area
 - [[印度洋]] — indian ocean
-- [[厚顔]] — brazen-faced, impudent, shameless
 - [[台湾]] — taiwan
 - [[合肥]] — hefei, capital of anhui province, china
 - [[善人]] — philanthropize, well-doer
@@ -1144,7 +1095,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[大洋洲]] — oceania
 - [[大義]] — principles of justice, be truly righteous
 - [[大陸]] — continent
-- [[太平洋]] — pacific ocean
 - [[媒介]] — medium, intermediary, agent (of transmission)
 - [[守戍]] — border guard
 - [[定義]] — define
@@ -1270,13 +1220,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[要素]] — element, factor, component
 - [[融合]] — fuse, blend, integrate
 
-## Plants (12)
+## Plants (11)
 - [[化学肥料]] — chemical fertilizer
 - [[土肥]] — farmyard manure, soil fertilizer
 - [[堆肥]] — compost, composted manure
 - [[播種]] — sow (seeds), disseminate
 - [[新芽]] — bud, sprout
-- [[竹]] — bamboo
 - [[竿竹]] — bamboo pole
 - [[茅草]] — cogon grass, thatch
 - [[萌芽]] — bud, sprout
@@ -1284,9 +1233,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
 
-## Religion (14)
-- [[儒家]] — confucianism, ruism
-- [[参拝]] — visit temple, pay respects at a shrine
+## Religion (12)
 - [[因果]] — fateful, unlucky, karmic, causal
 - [[天道]] — law of nature, god of heaven
 - [[夫子]] — confucius, master
@@ -1333,10 +1280,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[明徳]] — bright virtue, show virtue
 - [[慈善]] — charity, benevolence
 
-## Speech (15)
-- [[受動]] — passive (voice), receptive
-- [[叱責]] — rebuke, scold
-- [[吟唱]] — chant, recite
+## Speech (12)
 - [[対応]] — correspond with, respond to
 - [[引入]] — lead into, introduce to
 - [[揶揄]] — deride, ridicule
@@ -1350,12 +1294,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
 
-## Substances (7)
+## Substances (6)
 - [[岩石]] — rocks, crags
 - [[水晶]] — rock crystal, quartz crystal, crystal
 - [[溶液]] — solution (chemistry)
 - [[物証]] — material evidence
-- [[玉]] — jade
 - [[芳香族]] — aromatic compounds
 - [[黄沙]] — yellow sand, asian dust
 
@@ -1383,9 +1326,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[融資]] — pay by loan, finance
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (16)
-- [[典雅]] — graceful, elegant
-- [[功績]] — deed, acheivement
+## Valuation (14)
 - [[勃勃]] — vigorous, thriving, exuberant
 - [[卓越]] — excellent, outstanding, remarkable
 - [[名媛]] — famous woman
@@ -1413,8 +1354,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Work (6)
-- [[副業]] — side job, second job
+## Work (5)
 - [[採用]] — adopt, employ, use
 - [[確定]] — fix, establish
 - [[計画]] — plan, schedule, measure

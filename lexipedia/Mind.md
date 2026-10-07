@@ -28,8 +28,10 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
 - <ruby>[内心](../words/内心.md)<rt>ㄋㄛㄧㄙㄧㄇ</rt></ruby>: inner heart, intention, thought — 内 "inside" + 心 "heart."
+- <ruby>[内省](../words/内省.md)<rt>ㄋㄛㄧㄙ⼶ㄫ</rt></ruby>: to reflect, introspect, examine oneself.
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
+- <ruby>[優先](../words/優先.md)<rt>ㄨㄛㄙㄝㄋ</rt></ruby>: to take priority, precedence.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.
 - <ruby>[必](../words/必.md)<rt>ㄅㄧㄊ</rt></ruby>: surely, definitely — the bound root behind [[必要]] above and 必然 ("necessary, inevitable," the top of [Knowledge](../lexipedia/Knowledge.md)'s own epistemic-certainty gradient, referenced there but not yet its own word page).
 - <ruby>[必備](../words/必備.md)<rt>ㄅㄧㄊㄅㄧㄜ</rt></ruby>: essential, indispensable, must-have — attributive, as in 必備品 ("essential items"); attested in Mandarin and Cantonese, with no confirmed independent Japanese, Korean or Vietnamese entries; beside [[必要]].
@@ -59,6 +61,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[斟酌](../words/斟酌.md)<rt>ㄐㄧㄇㄐㄚㄎ</rt></ruby>: to consider, weigh, discuss — deliberation among people, not solitary thought.
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — see [[Knowledge]] for its own citation there.
 - <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — an undocumented near-duplicate of [[了解]]; see [[Knowledge]] for its own citation there.
+- <ruby>[克明](../words/克明.md)<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby>: discerning, meticulous, morally clear-sighted.
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
 - <ruby>[鑑定](../words/鑑定.md)<rt>ㄍㄚㄇㄐㄝㄫ</rt></ruby>: to appraise, authenticate — an expert's considered determination of what a thing is or is worth.
@@ -132,6 +135,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[奥秘](../words/奥秘.md)<rt>ㄨㄎㄅㄧㄜ</rt></ruby>: a secret, mystery — profound and hidden; see [[Art]] for its own citation there.
 - <ruby>[神秘](../words/神秘.md)<rt>ㄙㄧㄋㄅㄧㄜ</rt></ruby>: a mystery, mystical secret; see [[Art]] for its own citation there.
+- <ruby>[玄](../words/玄.md)<rt>ㄏ⼔ㄋ</rt></ruby>: deep, profound, mysterious.
 - <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby>: a riddle, mystery, enigma — a puzzle meant to be solved, distinct from [[奥秘]]/[[神秘]]'s deeper, less soluble mystery; see [[Art]] for its own citation there.
 - <ruby>[迷](../words/迷.md)<rt>ㄇㄝㄧ</rt></ruby>: to be lost, be confused — a genuine Dan'a'yo homophone of [[謎]]; the confused/disoriented state itself, rather than the puzzle that causes it (迷路, "to lose one's way, a maze").
 
