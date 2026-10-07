@@ -21,9 +21,11 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[危殆](../words/危殆.md)<rt>⼔ㄧㄉㄛㄧ</rt></ruby>: jeopardy, grave peril.
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
 - <ruby>[妨害](../words/妨害.md)<rt>ㄈㄚㄫㄏㄚㄧ</rt></ruby>: to obstruct, hinder, interfere with — the formal and legal word (妨害公務).
+- <ruby>[妨碍](../words/妨碍.md)<rt>ㄈㄚㄫㄚㄧ</rt></ruby>: to hinder.
 - <ruby>[干渉](../words/干渉.md)<rt>ㄍㄚㄋㄙㄝㄆ</rt></ruby>: to interfere, intervene.
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
+- <ruby>[強化](../words/強化.md)<rt>ㄍ⼘ㄫㄏ⺢</rt></ruby>: to strengthen.
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.
 - <ruby>[失敗](../words/失敗.md)<rt>ㄙㄧㄊㄅㄚㄧ</rt></ruby>: to fail, be defeated.
 - <ruby>[結果](../words/結果.md)<rt>ㄍㄝㄊㄍ⺢</rt></ruby>: a result, fruit.
@@ -100,6 +102,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[轄](../words/轄.md)<rt>ㄏㄚㄊ</rt></ruby>: the linchpin of a wheel; control — the metaphor "the pin holding it all together." See Semantic Range Notes.
 - <ruby>[自制](../words/自制.md)<rt>ㄐㄧㄜㄐㄝㄧ</rt></ruby>, <ruby>[自禁](../words/自禁.md)<rt>ㄐㄧㄜㄍㄧㄇ</rt></ruby>: restraint, self-control.
 - <ruby>[強迫](../words/強迫.md)<rt>ㄍ⼘ㄫㄅㄚㄎ</rt></ruby>, <ruby>[逼迫](../words/逼迫.md)<rt>ㄅㄧㄎㄅㄚㄎ</rt></ruby>: to force, compel, press, coerce.
+- <ruby>[弾圧](../words/弾圧.md)<rt>ㄉㄚㄋ·ㄚㄊ</rt></ruby>: to subjugate, repress.
 
 ### Physical Actions
 

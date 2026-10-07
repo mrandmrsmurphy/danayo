@@ -38,6 +38,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[法庭](../words/法庭.md)<rt>ㄈㄚㄆㄉㄝㄫ</rt></ruby>: court, courtroom — the general term (the legal proceeding/institution).
 - <ruby>[裁判所](../words/裁判所.md)<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby>: courthouse — the building specifically.
 - <ruby>[審訊](../words/審訊.md)<rt>ㄙㄧㄇㄙㄧㄋ</rt></ruby>: a judicial hearing, interrogation — formal questioning before an authority.
+- <ruby>[応訊](../words/応訊.md)<rt>ㄧㄫㄙㄧㄋ</rt></ruby>: to question, subpoena.
 - <ruby>[処決](../words/処決.md)<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby>: to handle and decide a case; to execute a sentence.
 - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby>: a lawsuit, to sue.
 - <ruby>[告訴](../words/告訴.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>: to accuse, file a lawsuit.

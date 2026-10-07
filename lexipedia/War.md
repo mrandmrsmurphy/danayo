@@ -33,6 +33,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[孤軍](../words/孤軍.md)<rt>ㄍㄛㄍㄨㄋ</rt></ruby>: an isolated army, lone forces.
 - <ruby>[守戍](../words/守戍.md)<rt>ㄙ⼜ㄙㄨ</rt></ruby>: a border guard.
 - <ruby>[干戈](../words/干戈.md)<rt>ㄍㄚㄋㄍ⺢</rt></ruby>: weapons of war, arms.
+- <ruby>[従軍](../words/従軍.md)<rt>ㄐㄛㄫㄍㄨㄋ</rt></ruby>: military service.
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
 - <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
 

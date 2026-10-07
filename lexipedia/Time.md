@@ -43,6 +43,8 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.
 - <ruby>[古今](../words/古今.md)<rt>ㄍㄛㄍㄧㄇ</rt></ruby>: ancient and modern, old and new.
 - <ruby>[現代](../words/現代.md)<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby>: modern, the present era.
+- <ruby>[当世](../words/当世.md)<rt>ㄉㄚㄫㄙㄝ</rt></ruby>: this age, this world.
+- <ruby>[当代](../words/当代.md)<rt>ㄉㄚㄫㄉㄚㄧ</rt></ruby>: contemporary, modern.
 - <ruby>[中古](../words/中古.md)<rt>ㄐㄨㄫㄍㄛ</rt></ruby>: medieval, the Middle Ages — East Asian historiography's tripartite 古代/中古/近代 (ancient/medieval/modern) periodization scheme; also, distinctly, "secondhand, used" in modern Japanese/Korean consumer usage (中古品, 中古車), a genuinely separate sense from the historical one.
 
 ### Sequence & Succession
@@ -118,6 +120,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[一朝](../words/一朝.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: a short time, a brief moment — "a short while," broader than [[一瞬]]/[[刹那]]'s point-instant, closer to "overnight" as a byword for suddenness.
 - <ruby>[俯仰](../words/俯仰.md)<rt>ㄈㄨ⼘ㄫ</rt></ruby>: in an instant, in the blink of an eye (俯仰之間) — figurative, from the literal image of lowering and raising the head.
 - <ruby>[同時](../words/同時.md)<rt>ㄉㄛㄫㄙㄧ</rt></ruby>: simultaneous — at the same time.
+- <ruby>[徐様](../words/徐様.md)<rt>ㄙ⼄⼘ㄫ</rt></ruby>: slowly.
 
 ### The "Present" Cluster
 

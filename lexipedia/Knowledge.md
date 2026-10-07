@@ -21,6 +21,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby>: to know; knowledge.
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
+- <ruby>[学区](../words/学区.md)<rt>ㄏㄚㄎㄎㄨ</rt></ruby>: a school district.
 - <ruby>[同学](../words/同学.md)<rt>ㄉㄛㄫㄏㄚㄎ</rt></ruby>: a schoolmate, classmate.
 - <ruby>[同窓](../words/同窓.md)<rt>ㄉㄛㄫㄑ⺢ㄫ</rt></ruby>: alumni, schoolmates — "same window."
 - <ruby>[卒業](../words/卒業.md)<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby>: to graduate, graduation — completion of studies.
@@ -198,6 +199,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 ### People of Learning
 
 - <ruby>[荘子](../words/荘子.md)<rt>ㄐ⺢ㄫㄐㄜ</rt></ruby>: Zhuangzi, the Daoist philosopher and the text attributed to him; also a hamlet — see [[老子]], [[孔子]], [[孟子]] for the other "Master" names.
+- <ruby>[孔子](../words/孔子.md)<rt>ㄎㄛㄫㄐㄜ</rt></ruby>: Confucius, the Master.
+- <ruby>[孟子](../words/孟子.md)<rt>ㄇㄚㄫㄐㄜ</rt></ruby>: Mencius.
 - <ruby>[士](../words/士.md)<rt>ㄙㄚㄧ</rt></ruby>: scholar (see Semantic Range Notes for its "warrior" cousin sense, kept out of this domain).
 - <ruby>[博士](../words/博士.md)<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby>: doctor (PhD).
 - <ruby>[天才](../words/天才.md)<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby>: talented, genius, gifted.

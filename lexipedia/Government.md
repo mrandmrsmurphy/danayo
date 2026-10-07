@@ -50,6 +50,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[皇后](../words/皇后.md)<rt>ㄏ⺢ㄫㄏㄛㄨ</rt></ruby>: an empress, queen consort.
 - <ruby>[国子](../words/国子.md)<rt>ㄍㄛㄎㄐㄜ</rt></ruby>: princes, sons of the state — from the Rites of Zhou (國子).
 - <ruby>[天皇](../words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>: the Emperor of Japan, Mikado.
+- <ruby>[天子](../words/天子.md)<rt>ㄊㄝㄋㄐㄜ</rt></ruby>: the Son of Heaven.
 - <ruby>[女皇](../words/女皇.md)<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby>: an empress.
 - <ruby>[姫](../words/姫.md)<rt>ㄍㄧ</rt></ruby>: a princess (the everyday Japanese sense, ひめ); elsewhere in the Sinosphere, a palace lady, concubine, or honorific for a noblewoman (寵姬, "favored concubine") — "princess" there survives mainly bound inside specific royal titles rather than standing alone.
 - <ruby>[大王](../words/大王.md)<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby>: a great king.
@@ -146,6 +147,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[従](../words/従.md)<rt>ㄐㄛㄫ</rt></ruby>: to obey, observe.
 - <ruby>[服従](../words/服従.md)<rt>ㄅㄨㄎㄐㄛㄫ</rt></ruby>: obedience, submission, to obey.
 - <ruby>[帰順](../words/帰順.md)<rt>ㄍㄨㄧㄙ⼜ㄋ</rt></ruby>: to submit to, surrender to.
+- <ruby>[従属](../words/従属.md)<rt>ㄐㄛㄫㄐㄛㄎ</rt></ruby>: subordination, dependency.
 - <ruby>[遵守](../words/遵守.md)<rt>ㄐㄨㄋㄙ⼜</rt></ruby>: to abide by, obey.
 - <ruby>[二心](../words/二心.md)<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby>: duplicity, a divided heart, wavering loyalty — literally "two hearts"; in classical Chinese political thought, one of the gravest character defects a minister could possess, the opposite of 一心 (undivided loyalty).
 - <ruby>[壱](../words/壱.md)<rt>ㄧㄊ</rt></ruby>: single-minded, wholehearted, unified in purpose, loyal (壹心/一心, "of one mind") — the formal, complex-stroke variant of [[一]] used in financial/legal documents, tracked here for this extended loyalty sense rather than the plain numeral.
@@ -189,6 +191,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[国連](../words/国連.md)<rt>ㄍㄛㄎㄌ⼶ㄋ</rt></ruby>: the League of Nations (国際連盟).
 - <ruby>[国営](../words/国営.md)<rt>ㄍㄛㄎ·⼶ㄫ</rt></ruby>: state management, nationalization.
 - <ruby>[建国](../words/建国.md)<rt>ㄍㄝㄋㄍㄛㄎ</rt></ruby>: founding a nation, to establish.
+- <ruby>[強国](../words/強国.md)<rt>ㄍ⼘ㄫㄍㄛㄎ</rt></ruby>: a superpower, strong country.
 - <ruby>[国旗](../words/国旗.md)<rt>ㄍㄛㄎㄎㄧ</rt></ruby>: the national flag.
 - <ruby>[国歌](../words/国歌.md)<rt>ㄍㄛㄎㄍㄜ</rt></ruby>: the national anthem.
 - <ruby>[国際](../words/国際.md)<rt>ㄍㄛㄎㄐㄝ</rt></ruby>: international.

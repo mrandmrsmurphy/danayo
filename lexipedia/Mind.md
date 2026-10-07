@@ -27,6 +27,8 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[注意](../words/注意.md)<rt>ㄐㄨㄜ</rt></ruby>: to pay attention, be careful — "pour meaning" onto something.
 - <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
+- <ruby>[心理](../words/心理.md)<rt>ㄙㄧㄇㄌㄧ</rt></ruby>: mentality, psychology.
+- <ruby>[心緒](../words/心緒.md)<rt>ㄙㄧㄇㄙ⼄</rt></ruby>: feelings, state of mind.
 - <ruby>[内心](../words/内心.md)<rt>ㄋㄛㄧㄙㄧㄇ</rt></ruby>: inner heart, intention, thought — 内 "inside" + 心 "heart."
 - <ruby>[内省](../words/内省.md)<rt>ㄋㄛㄧㄙ⼶ㄫ</rt></ruby>: to reflect, introspect, examine oneself.
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
@@ -62,6 +64,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[斟酌](../words/斟酌.md)<rt>ㄐㄧㄇㄐㄚㄎ</rt></ruby>: to consider, weigh, discuss — deliberation among people, not solitary thought.
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — see [[Knowledge]] for its own citation there.
 - <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — an undocumented near-duplicate of [[了解]]; see [[Knowledge]] for its own citation there.
+- <ruby>[思議](../words/思議.md)<rt>ㄙㄚㄜㄧ</rt></ruby>: to imagine, comprehend.
 - <ruby>[克明](../words/克明.md)<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby>: discerning, meticulous, morally clear-sighted.
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
@@ -79,6 +82,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[願意](../words/願意.md)<rt>⼔ㄋ·ㄜ</rt></ruby>: willing; to want, wish.
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent — willpower, the faculty of volition; see [[Grammar]] for its own citation there.
 - <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
+- <ruby>[恣意](../words/恣意.md)<rt>ㄐㄧㄜㄜ</rt></ruby>: selfish, arbitrary.
 - <ruby>[意見](../words/意見.md)<rt>ㄜㄍ⼶ㄋ</rt></ruby>: an opinion, view.
 - <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
 - <ruby>[固執](../words/固執.md)<rt>ㄍㄛㄐㄧㄆ</rt></ruby>: stubborn; to stick to.
@@ -114,6 +118,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[夢](../words/夢.md)<rt>ㄇㄨㄫ</rt></ruby>: a dream — while sleeping; see [[Existence]] for its own citation there.
 - <ruby>[夢嫌](../words/夢嫌.md)<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby>: a nightmare — the bad dream conceived as a spirit pressing on the sleeper (夢魘); the dream itself is [[夢]].
 - <ruby>[幻想](../words/幻想.md)<rt>ㄏ⺢ㄋㄙㄚㄫ</rt></ruby>: fantasy, illusion — an unreal picture the mind builds and may take for real (幻想曲, "a fantasia"); weaker than the waking delusion it shades into, and distinct from [[夢]], a dream while sleeping.
+- <ruby>[妄想](../words/妄想.md)<rt>ㄇㄚㄫㄙㄚㄫ</rt></ruby>: to have a delusion, be in a fantasy.
 - <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: an ideal, a dream — an aspiration, not a sleeping vision; see [[Existence]] for its own citation there.
 
 ### Indicating & Representing

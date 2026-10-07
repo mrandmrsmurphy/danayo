@@ -17,6 +17,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[活](../words/活.md)<rt>ㄏ⺢ㄊ</rt></ruby>: alive.
 - <ruby>[出生](../words/出生.md)<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby>: to be born.
 - <ruby>[死亡](../words/死亡.md)<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby>: to die, death — one word covers both the verb and the noun; see Semantic Range Notes.
+- <ruby>[夭折](../words/夭折.md)<rt>⼄ㄨㄐㄝㄊ</rt></ruby>: to die young, come to a premature end.
 - <ruby>[死体](../words/死体.md)<rt>ㄙㄧㄜㄊㄝㄧ</rt></ruby>: a corpse, dead body.
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to grow, cultivate.
 - <ruby>[培養](../words/培養.md)<rt>ㄈㄛㄧ⼘ㄫ</rt></ruby>: to cultivate, culture (microbes, talent, a skill).
@@ -53,6 +54,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.
 - <ruby>[回生](../words/回生.md)<rt>ㄏㄛㄧㄙㄚㄫ</rt></ruby>: to resurrect, resuscitate, regenerate.
+- <ruby>[復活](../words/復活.md)<rt>ㄅㄨㄎㄏ⺢ㄊ</rt></ruby>: to revive, bring back to life.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
 - <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
 

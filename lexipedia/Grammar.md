@@ -158,6 +158,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[特詞](../words/特詞.md)<rt>ㄉㄜㄎㄙㄚ</rt></ruby> "particle"
 - <ruby>[関詞](../words/関詞.md)<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, relational particle"
 - <ruby>[介詞](../words/介詞.md)<rt>ㄍ⼶ㄙㄚ</rt></ruby> "adposition (preposition/postposition), the grammatical category linking a noun phrase to its clause"
+- place after, postposition (verb) : <ruby>[後置](../words/後置.md)<rt>ㄏㄨㄛㄑㄧ</rt></ruby>
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
@@ -348,6 +349,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[詞彙](../words/詞彙.md)<rt>ㄙㄚㄏㄨ</rt></ruby> "vocabulary, lexicon"
 - <ruby>[語彙](../words/語彙.md)<rt>⼄ㄏㄨ</rt></ruby> "lexicon"
 - <ruby>[古語](../words/古語.md)<rt>ㄍㄛ⼄</rt></ruby> "archaism, an old or obsolete word"
+- <ruby>[形態](../words/形態.md)<rt>ㄏㄝㄫㄊㄚㄧ</rt></ruby> "morphology"
 - <ruby>[語感](../words/語感.md)<rt>⼄ㄍㄚㄇ</rt></ruby> "sprachgefühl, one's intuitive sense of a language"
 - <ruby>[語族](../words/語族.md)<rt>⼄ㄐㄛㄎ</rt></ruby> "language family"
 - <ruby>[語用](../words/語用.md)<rt>⼄⼄ㄫ</rt></ruby> "language usage"

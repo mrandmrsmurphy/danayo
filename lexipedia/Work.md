@@ -89,6 +89,8 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[掌管](../words/掌管.md)<rt>ㄐㄚㄫㄍ⺢ㄋ</rt></ruby>: to manage, be in charge of — to hold something in the hand and direct it; overall charge, which [[分掌]] then parcels out among several hands.
 - <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
+- <ruby>[失業](../words/失業.md)<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby>: to become unemployed, lose one's job.
+- <ruby>[従業](../words/従業.md)<rt>ㄐㄛㄫㄝㄆ</rt></ruby>: employment, being engaged in work.
 - <ruby>[出勤](../words/出勤.md)<rt>ㄑㄨㄊㄍㄧㄋ</rt></ruby>: to go to work, clock in.
 - <ruby>[辞職](../words/辞職.md)<rt>ㄑㄧㄐㄧㄎ</rt></ruby>: to resign, resignation — to take formal leave of an official post.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.

@@ -29,6 +29,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.
 - <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
 - <ruby>[奔波](../words/奔波.md)<rt>ㄅㄛㄋㄅㄚ</rt></ruby>: to rush about, run around, toil busily.
+- <ruby>[奔走](../words/奔走.md)<rt>ㄅㄛㄋㄙㄛㄨ</rt></ruby>: to run around, walk quickly.
 - <ruby>[泳](../words/泳.md)<rt>ㄨㄧㄫ</rt></ruby>: to swim.
 - <ruby>[水泳](../words/水泳.md)<rt>ㄙㄨㄨㄧㄫ</rt></ruby>: swimming — the nominal counterpart to [[泳]]'s bare verb.
 - <ruby>[登](../words/登.md)<rt>ㄉㄨㄫ</rt></ruby>: to mount, board, climb.

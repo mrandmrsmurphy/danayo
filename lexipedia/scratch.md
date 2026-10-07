@@ -6,36 +6,35 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 825
-- **Calendar**: 30
-- **Geography**: 52
+- **Unsorted**: 784
+- **Calendar**: 29
+- **Geography**: 49
 - **Life**: 12
-- **Light**: 1
+- **Light**: 0
 - **Locatives**: 3
 - **Measurement**: 2
-- **Mind**: 9
-- **Movement**: 12
+- **Mind**: 7
+- **Movement**: 11
 - **Nature**: 4
 - **Physics**: 6
 - **Plants**: 8
-- **Religion**: 9
+- **Religion**: 7
 - **Sensation**: 5
 - **Reproduction**: 2
 - **Shape**: 3
-- **Sin**: 10
+- **Sin**: 9
 - **Speech**: 10
 - **Substances**: 5
 - **Time**: 5
 - **Tools**: 4
 - **Trade**: 6
-- **Valuation**: 8
-- **War**: 7
+- **Valuation**: 7
+- **War**: 6
 - **Work**: 5
 
-## Unsorted (825)
+## Unsorted (784)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
-- [[学区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
 - [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
 - [[日刊]] — daily publication, daily periodical (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
 - [[月刊]] — monthly periodical, monthly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
@@ -43,7 +42,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[自分]] — self-examine, assess oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
 - [[週刊]] — weekly periodical, weekly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
 - [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
-- [[失業]] — become unemployed, lose one's job (an Economy/Work concept — moved out of the Conflict bucket 2026-09-28)
 - [[養生]] — care for, protect (a TCM/health-preservation concept, not defense — moved out of the Conflict bucket 2026-09-28)
 - [[昂揚]] — high-spirited, exalted (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
 - [[極右]] — far-right (Government/politics — moved out of the Dimensions bucket 2026-09-28)
@@ -62,7 +60,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[足球]] — football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
 - [[鎧球]] — american football, gridiron football, football (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
 - [[空軍]] — air force (Government/Military, "force" substring match — moved out of the Efforts bucket 2026-09-28)
-- [[失禁]] — incontinence, loss of bladder or bowel control (Body, "control" substring match — moved out of the Efforts bucket 2026-09-28)
 - [[鬼神]] — fierce demon (Religion/Mythology, same false match as 夜叉 — moved out of the Emotions bucket 2026-09-28)
 - [[苦瓜]] — bitter melon (Food, "bitter" substring match — moved out of the Emotions bucket 2026-09-28)
 - [[胃痛]] — stomachache, epigastric pain (Body, "pain" substring match — moved out of the Emotions bucket 2026-09-28)
@@ -74,9 +71,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 **Rerouted from the Astronomy bucket, 2026-09-28** — that bucket turned out to be mostly keyword-matched on common characters (天/星/日/月/夜/朝/後/時/etc.) rather than real astronomy vocabulary; 16 genuine matches were placed on `lexipedia/Astronomy.md` and 6 more (人工,人民,勉強,川,注入,発明) already had a backlink elsewhere, leaving these 107 as real words with no clean Astronomy fit — mostly Time (一朝,今夜安,今昼安,今晩安,今朝,今朝安,以後,先後,昼夜,時,時差,時間,晩,朝,然後,而後,夜,最初,後), Geography (大江,大河,揚州,江戸川,江湖,流域,流水,漁民,漢江,瀧川,無定河,韓江,地域,地帯,辺疆), Grammar (其人等,其処,君,汝,或者,所,某), and Government/miscellaneous (万物,人望,代数学,何故,余波,侏儒,俯仰,倭人,八角,初代,初版,区別,千乗,占卜,土,大,天地之別,天子,天祐,天神地祇,天運,夭折,実践,対象,嵌入,帯,帰還,弁,後置,復帰,所謂,挿入,星条旗,星洲,晒,本校,榜文,欲求,比喩,民意,涯,滲入,照顧,熟知,発音,盆栽,祭物,締,考察,自得,苦肉,荒廃,言,訃告,認識,謀求,追求,週期,遊学,配,陛下,陰,雰囲,雰囲気,雲,需要) — none force-placed:
 - [[八角]] — octagon, star anise (illicium verum)
-- [[天子]] — son of heaven
-- [[夭折]] — to die young, to come to a premature end
-- [[後置]] — place after
 - [[或者]] — some people
 - [[所謂]] — so called
 - [[挿入]] — insert, stick into
@@ -99,7 +93,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陰]] — yin, shade
 - [[雰囲]] — mood, atmosphere, ambience
 - [[韓江]] — han river
-- [[心緒]] — feelings, state of mind
 - [[感恩]] — feel thankful about, be grateful over
 - [[憬悟]] — to awaken to understanding, to realize
 - [[披歴]] — state one's view
@@ -128,17 +121,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[外国人]] — foreigner
 - [[夢嫌]] — nightmare
 - [[大使館]] — embassy
-- [[天狗]] — tengu, tiangou
-- [[天花]] — snowflake
-- [[天鵝]] — swan, cygnus
-- [[天鼠]] — bat
 - [[太様]] — greatly, exceedingly
-- [[奴隷]] — slave
-- [[妥協]] — compromise, settle
-- [[妨碍]] — hinder
-- [[姓氏]] — surname
-- [[姿勢]] — posture
-- [[孟子]] — mencius
 - [[宿題]] — homework, assignment
 - [[尊魚]] — trout
 - [[小川]] — ogawa
@@ -146,23 +129,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[山本]] — yamamoto
 - [[川口]] — kawaguchi
 - [[川埼]] — kawasaki
-- [[強化]] — strengthen
-- [[弾圧]] — subjugate, repress
-- [[形態]] — morphology
-- [[形貌]] — appearance, countenance
 - [[後置詞]] — postposition
-- [[徐様]] — slowly
-- [[従属]] — subordination, dependency
-- [[御術]] — charioteering
 - [[徽章]] — badge, insignia, emblem
-- [[応訊]] — question, subpoena
-- [[快楽]] — cheerful, pleasurable
-- [[怒涛]] — surging waves
-- [[恐恐]] — fearfully, with trepidation
-- [[恐龍]] — dinosaur
-- [[恣意]] — selfish, arbitrary
-- [[恩人]] — benefactor, patron
-- [[恭喜]] — congratulations
 - [[恭敬]] — respectful, deferential
 - [[悪化]] — worsen, aggravate, deteriorate
 - [[慈姑]] — arrowhead, sagittaria sagittifolia
@@ -704,17 +672,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[鬼婆]] — hag, nasty old woman (especially white)
 - [[他郷]] — foreign land
 - [[大概]] — for the most part, generally, approximately, probably
-- [[大腸]] — large intestine, bowel, colon
-- [[太太]] — really great, super-duper
 - [[太極拳]] — tai chi
-- [[妄想]] — have a delusion, be in a fantasy
 - [[字南]] — chu nom, vietnamese written in chinese characters
-- [[孤立]] — isolated, unrelated
-- [[学堂]] — old-style private school
-- [[当代]] — contemporary, modern
-- [[形状]] — shape
-- [[従業]] — employment, being engaged in work
-- [[復活]] — revive, bring back to life
 - [[愈愈]] — more and more
 - [[挑戦]] — challenge (authority)
 - [[捕鯨]] — whaling, whale hunting
@@ -864,8 +823,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (30)
-- [[強国]] — superpower (country)
+## Calendar (29)
 - [[当時]] — then, that other time
 - [[形容詞]] — adjective
 - [[折衷]] — compromise, eclecticism, to find a middle ground
@@ -896,14 +854,11 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (52)
+## Geography (49)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[地境]] — border, territorial boundary
 - [[外国語]] — foreign language
 - [[大洋洲]] — oceania
-- [[大陸]] — continent
-- [[媒介]] — medium, intermediary, agent (of transmission)
-- [[当世]] — this time, this world
 - [[愛媛]] — ehime, ehime prefecture
 - [[戦国]] — warring states
 - [[担任]] — to assume a post, to take charge
@@ -965,8 +920,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[逝去]] — pass away, die
 - [[養殖]] — cultivate, breed
 
-## Light (1)
-- [[孔明]] — bright, clean
+## Light (0)
 
 ## Locatives (3)
 
@@ -978,19 +932,16 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[数量]] — amount, weight, measure, quantity
 - [[部隊]] — unit, corp
 
-## Mind (9)
+## Mind (7)
 - [[奇想]] — fanciful notion, strange idea
-- [[心理]] — mentality, psychology
 - [[心理学]] — psychology
-- [[思議]] — imagine, comprehend
 - [[概]] — rough idea, generality
 - [[混乱]] — chaotic, confused, riotous
 - [[為人]] — behave, conduct oneself
 - [[理屈]] — defeated argument, reasoning exhausted, reasoning; logic (secondary)
 - [[糊塗]] — muddled, confused
 
-## Movement (12)
-- [[奔走]] — run around, walk quickly
+## Movement (11)
 - [[搬送]] — transport, convey
 - [[搭載]] — transport
 - [[撇]] — throw away
@@ -1028,9 +979,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蚕箔]] — bamboo tray, sheet
 - [[鮮花]] — fresh flowers
 
-## Religion (9)
-- [[孔子]] — confucius
-- [[孔教]] — confucianism
+## Religion (7)
 - [[枢机卿]] — cardinal
 - [[棕枝主日]] — palm sunday
 - [[瞻仰]] — look up to with reverence, pay homage to
@@ -1056,11 +1005,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[球体]] — sphere
 - [[鋒芒]] — sharp edge, cutting point, keen edge
 
-## Sin (10)
+## Sin (9)
 
 - [[美徳]] — virtue
 - [[邪心]] — wicked heart, evil intent, selfish motive
-- [[忠実]] — truthful, faithful
 - [[敦厚]] — honest, candid, sincere
 - [[誠実]] — sincere, honest, faithful
 - [[誠心]] — sincere, devout
@@ -1109,8 +1057,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[融資]] — pay by loan, finance
 - [[騰貴]] — to soar in price, price inflation
 
-## Valuation (8)
-- [[彬彬]] — refined, gentle and elegant
+## Valuation (7)
 - [[才媛]] — talented woman
 - [[秀麗]] — elegant, graceful
 - [[精彩]] — brilliant, splendid
@@ -1119,8 +1066,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[華麗]] — gorgeous, splendid, resplendent
 - [[評価]] — evaluation, appraisal
 
-## War (7)
-- [[従軍]] — to serve in the military, military service
+## War (6)
 - [[文武]] — civilian and military
 - [[潜水艦]] — submarine (warship)
 - [[軍艦]] — warship

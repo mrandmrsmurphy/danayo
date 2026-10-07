@@ -41,6 +41,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[名](../words/名.md)<rt>ㄇㄧㄫ</rt></ruby>: a name — the plain basic noun.
 - <ruby>[名字](../words/名字.md)<rt>ㄇㄧㄫㄐㄧ</rt></ruby>: a personal name.
 - <ruby>[姓名](../words/姓名.md)<rt>ㄙㄧㄫㄇㄧㄫ</rt></ruby>: a full name — surname and given name.
+- <ruby>[姓氏](../words/姓氏.md)<rt>ㄙㄧㄫㄙㄧㄜ</rt></ruby>: a surname.
 - <ruby>[名称](../words/名称.md)<rt>ㄇㄧㄫㄑㄧㄫ</rt></ruby>: a name. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
 - <ruby>[命名](../words/命名.md)<rt>ㄇ⼶ㄫㄇㄧㄫ</rt></ruby>: to name — the verb.
 - <ruby>[謂之](../words/謂之.md)<rt>ㄨㄧ·ㄊㄧ</rt></ruby>: to be called, named X — a classical/literary construction, distinct register from [[命名]].

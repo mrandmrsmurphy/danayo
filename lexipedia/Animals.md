@@ -66,6 +66,8 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[鴛鴦](../words/鴛鴦.md)<rt>ㄛㄋ·ㄚㄫ</rt></ruby>: mandarin duck — a classical symbol of marital fidelity, since the species is popularly (if inaccurately) believed to mate for life.
 - <ruby>[鴻鵠](../words/鴻鵠.md)<rt>ㄏㄛㄫㄏㄛㄎ</rt></ruby>: swan, wild swan.
 - <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
+- <ruby>[天鵝](../words/天鵝.md)<rt>ㄊㄝㄋ·ㄚ</rt></ruby>: a swan; Cygnus.
+- <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby>: a bat.
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
 - <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [[堅魚]].
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
@@ -209,6 +211,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 ### Mythical & Legendary Creatures — a real CJKV cultural inventory, not Western fantasy
 
 - <ruby>[龍](../words/龍.md)<rt>ㄌ⼄ㄫ</rt></ruby>: dragon — the auspicious East Asian dragon, associated with rivers, rain, and imperial authority; a wholly different cultural figure from the Western fire-breathing monster despite the shared English gloss. Appears throughout classical idiom, e.g. 画龍点睛 ("dot the dragon's eye," the finishing touch that brings a work to life) and 臥虎蔵龍 ("crouching tiger, hidden dragon," concealed mastery).
+- <ruby>[恐龍](../words/恐龍.md)<rt>ㄎㄛㄫㄌ⼄ㄫ</rt></ruby>: a dinosaur.
 - <ruby>[龍王](../words/龍王.md)<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby>: the Dragon King, ruler of the seas and rain in classical mythology.
 - <ruby>[火鼠](../words/火鼠.md)<rt>ㄏ⺢ㄙ⼄</rt></ruby>: the fire rat, a mythical creature with incombustible fur, famous from *The Tale of the Bamboo Cutter*.
 - <ruby>[鯤魚](../words/鯤魚.md)<rt>ㄍㄛㄋ·⼄</rt></ruby>: kūn, a mythical giant fish from the opening of the *Zhuangzi*, said to transform into the equally vast peng bird.
@@ -224,6 +227,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
 - <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.
 - <ruby>[幽鬼](../words/幽鬼.md)<rt>⼜ㄛㄍㄨㄧ</rt></ruby>: a poltergeist, ghost.
+- <ruby>[天狗](../words/天狗.md)<rt>ㄊㄝㄋㄍㄛㄨ</rt></ruby>: a tengu.
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
 - <ruby>[怪物](../words/怪物.md)<rt>ㄍ⺢ㄧㄇㄨㄊ</rt></ruby>: monster — an uncanny, mysterious figure; contrast 妖物 below.
 - <ruby>[妖物](../words/妖物.md)<rt>⼘ㄨㄇㄨㄊ</rt></ruby>: monster — specifically a bewitching, shapeshifting figure (see Semantic Range Notes).

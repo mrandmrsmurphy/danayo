@@ -16,6 +16,8 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[形](../words/形.md)<rt>ㄏㄝㄫ</rt></ruby>: shape, form, type.
+- <ruby>[形状](../words/形状.md)<rt>ㄏㄝㄫㄐ⺢ㄫ</rt></ruby>: shape.
+- <ruby>[形貌](../words/形貌.md)<rt>ㄏㄝㄫㄇ⼘</rt></ruby>: appearance, countenance.
 - <ruby>[圓](../words/圓.md)<rt>⼔ㄋ</rt></ruby>: circle, round.
 - <ruby>[点](../words/点.md)<rt>ㄉㄝㄇ</rt></ruby>: a point, dot.
 - <ruby>[物](../words/物.md)<rt>ㄇㄨㄊ</rt></ruby>: a thing, object — the concrete physical sense.

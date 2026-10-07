@@ -134,6 +134,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>: semen.
 - <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>: to ejaculate.
 - <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>: urine.
+- <ruby>[失禁](../words/失禁.md)<rt>ㄙㄧㄊㄍㄧㄇ</rt></ruby>: incontinence — loss of bladder or bowel control.
 - <ruby>[屎](../words/屎.md)<rt>ㄏㄜ</rt></ruby>: excrement, feces — [[尿]]'s solid counterpart.
 - <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>: diarrhea.
 - <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>: menstruation.
@@ -158,6 +159,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
 - <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).
 - <ruby>[小腸](../words/小腸.md)<rt>ㄙㄛㄑㄚㄫ</rt></ruby>: the small intestine.
+- <ruby>[大腸](../words/大腸.md)<rt>ㄉㄚㄧㄑㄚㄫ</rt></ruby>: the large intestine, bowel, colon.
 - <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>: stomach acid.
 - <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>: stomach cancer.
 - <ruby>[腫瘍](../words/腫瘍.md)<rt>ㄐㄛㄫ⼘ㄫ</rt></ruby>: a tumor, neoplasm.
@@ -207,6 +209,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
 - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>: to sit.
 - <ruby>[立](../words/立.md)<rt>ㄌㄧㄆ</rt></ruby>: to stand — the bare character used as a word.
+- <ruby>[姿勢](../words/姿勢.md)<rt>ㄐㄧㄜㄙㄝ</rt></ruby>: posture.
 - <ruby>[跪](../words/跪.md)<rt>ㄎ⼔ㄧ</rt></ruby>: to kneel.
 - <ruby>[叩頭](../words/叩頭.md)<rt>ㄎㄛㄨㄊㄛㄨ</rt></ruby>: to kowtow, prostrate oneself.
 - <ruby>[蹲](../words/蹲.md)<rt>ㄐㄛㄋ</rt></ruby>: to squat, crouch.

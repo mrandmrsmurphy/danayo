@@ -32,6 +32,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[至善](../words/至善.md)<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby>: the highest good, summum bonum — from the Great Learning (大學).
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
 - <ruby>[公明](../words/公明.md)<rt>ㄍㄛㄫㄇ⼶ㄫ</rt></ruby>: just and open — 公 "public" + 明 "clear."
+- <ruby>[孔明](../words/孔明.md)<rt>ㄎㄛㄫㄇ⼶ㄫ</rt></ruby>: bright, clean.
 - <ruby>[天真](../words/天真.md)<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby>: innocent, naive, artless.
 - <ruby>[批評](../words/批評.md)<rt>ㄆㄝㄧㄅ⼶ㄫ</rt></ruby>: criticism, review, critique — 批 "criticise" + 評 "evaluate."
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
@@ -50,6 +51,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[優秀](../words/優秀.md)<rt>ㄨㄛㄙㄨㄛ</rt></ruby>: excellent, outstanding.
 - <ruby>[卓越](../words/卓越.md)<rt>ㄊㄚㄎ·⼔ㄊ</rt></ruby>: excellent, outstanding, remarkable.
 - <ruby>[典雅](../words/典雅.md)<rt>ㄉㄝㄋ·ㄚ</rt></ruby>: graceful, elegant — of writing and manner.
+- <ruby>[彬彬](../words/彬彬.md)<rt>ㄆㄧㄋㄆㄧㄋ</rt></ruby>: refined, gentle and elegant.
 - <ruby>[古風](../words/古風.md)<rt>ㄍㄛㄈㄨㄫ</rt></ruby>: elegant, classical in style.
 - <ruby>[劣等](../words/劣等.md)<rt>ㄌㄝㄊㄉㄨㄫ</rt></ruby>: inferior, of a lower grade — the bottom of the series 劣等, [[中等]], [[優等]]; 劣等感 is the "inferiority complex".
 - <ruby>[初等](../words/初等.md)<rt>ㄑㄛㄉㄨㄫ</rt></ruby>: elementary, of the first and most basic level — the lowest tier of the 初等/中等/高等 educational classification, and "introductory" in 初等数学; see [[中等]] and [[高等]].

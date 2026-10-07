@@ -27,6 +27,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[満足](../words/満足.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: satisfied, contented.
 - <ruby>[喜悦](../words/喜悦.md)<rt>ㄏㄧ⼶ㄊ</rt></ruby>: joyous, happy.
 - <ruby>[孤独](../words/孤独.md)<rt>ㄍㄛㄉㄛㄎ</rt></ruby>: lonely, solitary.
+- <ruby>[孤立](../words/孤立.md)<rt>ㄍㄛㄌㄧㄆ</rt></ruby>: isolated, unrelated.
 - <ruby>[単身](../words/単身.md)<rt>ㄉㄚㄋㄙㄧㄋ</rt></ruby>: alone, single, unaccompanied (単身赴任).
 - <ruby>[幽](../words/幽.md)<rt>⼜ㄛ</rt></ruby>: quiet, secluded, dark — a place's own quality of tranquil seclusion (幽玄, a key Japanese aesthetic concept), not [[孤独]]'s personal feeling of loneliness.
 - <ruby>[恨](../words/恨.md)<rt>ㄏㄚㄋ</rt></ruby>: to hate; a grudge.
@@ -40,6 +41,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 - <ruby>[欣喜](../words/欣喜.md)<rt>ㄏㄧㄋㄏㄧ</rt></ruby>, <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, joyful, pleased.
 - <ruby>[愉快](../words/愉快.md)<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>: happy, pleasant, enjoyable.
+- <ruby>[快楽](../words/快楽.md)<rt>ㄎ⺢ㄧㄌㄚㄎ</rt></ruby>: cheerful, pleasurable.
 - <ruby>[痛快](../words/痛快.md)<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby>: joyful, thoroughly satisfying, exhilarating.
 - <ruby>[爽快](../words/爽快.md)<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby>: refreshing, invigorating — the clean, light feeling of being refreshed (cool air after a stuffy room, a problem solved); a pleasant sensation more than [[痛快]]'s thorough satisfaction; the stand-in for the bound character 爽.
 - <ruby>[発剌](../words/発剌.md)<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby>: lively, vivacious — full of energy and spirit, a fish or a person springing with vigour; most familiar as Japanese はつらつ, where the common spelling is 溌剌 (see its aliases).
@@ -60,6 +62,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[哀悼](../words/哀悼.md)<rt>ㄚㄧㄉㄚㄨ</rt></ruby>: to offer condolences.
 - <ruby>[唉](../words/唉.md)<rt>ㄚㄧ</rt></ruby>: alas — an archaic interjection of lament.
 - <ruby>[惜](../words/惜.md)<rt>ㄙㄝㄎ</rt></ruby>: to begrudge, rue — regret at losing or parting with something (惜別, "regret at parting").
+- <ruby>[後悔](../words/後悔.md)<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>: to regret.
 
 ### Anger
 
@@ -75,6 +78,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 - <ruby>[恐惧](../words/恐惧.md)<rt>ㄎㄛㄫㄍㄨ</rt></ruby>: to be afraid of, have a dread or phobia of.
 - <ruby>[恐慌](../words/恐慌.md)<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby>: nervous, frantic, panicky.
+- <ruby>[恐恐](../words/恐恐.md)<rt>ㄎㄛㄫㄎㄛㄫ</rt></ruby>: fearfully, with trepidation.
 - <ruby>[畏](../words/畏.md)<rt>ㄛㄧ</rt></ruby>: fear, dread, reverence, awe, phobia.
 - <ruby>[業業](../words/業業.md)<rt>ㄝㄆ·ㄝㄆ</rt></ruby>: fearfully, apprehensively — a reduplicated classical ideophone for anxious vigilance (best known in 兢兢業業); the same word also means lofty and imposing in the Shijing, as its Notes explain.
 - <ruby>[竦](../words/竦.md)<rt>ㄙㄛㄫ</rt></ruby>: awe, reverence — a near-duplicate of [[畏]], but carrying a specific physical image (standing upright or on tiptoe from fear or respect).

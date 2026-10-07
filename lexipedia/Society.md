@@ -60,6 +60,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[儒学](../words/儒学.md)<rt>ㄋㄨㄏㄚㄎ</rt></ruby>: Confucianism — framed as a field of study, the academic/scholarly tradition.
 - <ruby>[儒教](../words/儒教.md)<rt>ㄋㄨㄍ⼄ㄨ</rt></ruby>: Confucianism — an undocumented near-duplicate of [[儒学]], framed instead as a religious/moral teaching.
 - <ruby>[儒家](../words/儒家.md)<rt>ㄋㄨㄍㄚ</rt></ruby>: Confucianism, the Ru school.
+- <ruby>[孔教](../words/孔教.md)<rt>ㄎㄛㄫㄍ⼄ㄨ</rt></ruby>: Confucianism, the teaching of Confucius.
 - <ruby>[法家](../words/法家.md)<rt>ㄈㄚㄆㄍㄚ</rt></ruby>: Legalism — the "school of law", one of the Hundred Schools of Thought, holding that order rests on clear public laws backed by strict rewards and punishments, not on the moral cultivation of the Confucians of [[儒学]]; associated with Shang Yang and the Qin.
 - <ruby>[諸子](../words/諸子.md)<rt>ㄐㄚㄐㄜ</rt></ruby>: the various masters — the collective name for the independent philosophers and teachers of the late Zhou (子 as the honorific of 孔子 and 老子); the thinkers themselves, where [[諸子百家]] adds their schools.
 - <ruby>[諸子百家](../words/諸子百家.md)<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby>: the Hundred Schools of Thought — the flowering of independent philosophy in the Spring and Autumn and Warring States periods (c. 770–221 BC), "hundred" being hyperbole; it ended with the Qin suppression and the later Confucian establishment. Vietnamese reverses the order to Bách Gia Chư Tử.
@@ -105,6 +106,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[翁](../words/翁.md)<rt>ㄛㄫ</rt></ruby>: a venerable old man, elder — literary and honorific.
 - <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
 - <ruby>[奴家](../words/奴家.md)<rt>ㄋㄛㄍㄚ</rt></ruby>: a house of slavery, bondage — Dan'a'yo fixes this older, compositional sense (the Exodus "house of bondage"), not the Ming–Qing vernacular "I" used by women; its use is in the Biblical chengyu 引出奴家.
+- <ruby>[奴隷](../words/奴隷.md)<rt>ㄋㄛㄌㄝㄧ</rt></ruby>: a slave.
 - <ruby>[卑](../words/卑.md)<rt>ㄅㄝ</rt></ruby>: lowly, inferior — the quality itself (自卑, "to feel inferior"; the self-deprecating classical register of 卑職, "this humble official").
 - <ruby>[地位](../words/地位.md)<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby>: status, social standing — a person's, nation's or institution's place in a hierarchy, the figurative "ground" one stands on; the position itself, where [[卑]] is the lowly quality.
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
@@ -144,6 +146,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[令色](../words/令色.md)<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby>: flattering looks, a sycophantic expression — the insincere counterfeit of the genuine virtues above, from the Analects' 巧言令色，鮮矣仁 ("fine words and an ingratiating face — such men are seldom truly benevolent").
 - <ruby>[偽善](../words/偽善.md)<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby>: hypocrisy, hypocritical — false virtue, feigning goodness to conceal one's true nature; a broader counterfeit than [[令色]]'s specifically facial/verbal flattery.
 - <ruby>[感謝](../words/感謝.md)<rt>ㄍㄚㄇㄙ⼘</rt></ruby>: to thank, appreciate.
+- <ruby>[恩人](../words/恩人.md)<rt>ㄜㄋㄋㄧㄋ</rt></ruby>: a benefactor, patron.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
@@ -205,6 +208,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
 - <ruby>[親睦](../words/親睦.md)<rt>ㄑㄧㄋㄇㄨㄎ</rt></ruby>: friendship, cordial relations — warm, friendly relations among the members of a group (親睦会, "a social gathering"); the group-level counterpart to [[友好]]'s friendly relations between parties.
 - <ruby>[仲介](../words/仲介.md)<rt>ㄉㄨㄫㄍ⼶</rt></ruby>: a mediator, broker.
+- <ruby>[媒介](../words/媒介.md)<rt>ㄇㄛㄧㄍ⼶</rt></ruby>: a medium, intermediary, agent of transmission.
 - <ruby>[仲媒](../words/仲媒.md)<rt>ㄉㄨㄫㄇㄛㄧ</rt></ruby>: a matchmaker.
 - <ruby>[庇護](../words/庇護.md)<rt>ㄅㄧㄜㄏㄛ</rt></ruby>: to protect, shelter.
 
@@ -256,6 +260,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 ### Agreement & Proposal
 
 - <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an accord, agreement, pact.
+- <ruby>[妥協](../words/妥協.md)<rt>ㄊㄚㄏㄝㄆ</rt></ruby>: to compromise, settle.
 - <ruby>[諾](../words/諾.md)<rt>ㄋㄚㄎ</rt></ruby>: to consent, agree — also, as a classical affirmative response particle, "yes, agreed" (承諾, "to consent").
 - <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to propose, suggest.
 - <ruby>[諮詢](../words/諮詢.md)<rt>ㄐㄧㄜㄙ⼜ㄋ</rt></ruby>: to consult, seek advice (formal/institutional register).
@@ -296,6 +301,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
 - <ruby>[江湖](../words/江湖.md)<rt>ㄍㄚㄫㄏㄛㄨ</rt></ruby>: the itinerant world outside settled society, the criminal underworld (as in wuxia fiction), or a reclusive life — the "world" [[武侠]]'s wandering swordsmen move through; literally "rivers and lakes," see [Geography](../lexipedia/Geography.md) for that literal sense (reserved, out of scope here).
 - <ruby>[恭遜](../words/恭遜.md)<rt>ㄍ⼄ㄫㄙㄛㄋ</rt></ruby>: politeness, courteousness, civility — Rosenfelder's "polite," deliberately not [[客気]]; see Semantic Range Notes.
+- <ruby>[恭喜](../words/恭喜.md)<rt>ㄍ⼄ㄫㄏㄧ</rt></ruby>: congratulations.
 - <ruby>[客気](../words/客気.md)<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby>: "guestness" — a Sinosphere auto-antonym: polite and reserved in Chinese and Vietnamese, reckless bravado in Japanese and Korean; use with caution.
 - <ruby>[拝](../words/拝.md)<rt>ㄅ⼶</rt></ruby>: to bow, kowtow.
 - <ruby>[鞠躬](../words/鞠躬.md)<rt>ㄍㄨㄎㄍㄨㄫ</rt></ruby>: to bow respectfully — a near-synonym of [[拝]].

@@ -21,6 +21,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[小雨](../words/小雨.md)<rt>ㄙㄛㄨ</rt></ruby>: light rain, drizzle — rain that is light in volume rather than brief in duration, the counterpart of heavy rain; where [[俄雨]] emphasizes a passing shower.
 - <ruby>[雪](../words/雪.md)<rt>ㄙ⼔ㄊ</rt></ruby>: snow.
 - <ruby>[霜](../words/霜.md)<rt>ㄙ⺢ㄫ</rt></ruby>: frost.
+- <ruby>[天花](../words/天花.md)<rt>ㄊㄝㄋㄏ⺢</rt></ruby>: a snowflake.
 - <ruby>[風](../words/風.md)<rt>ㄈㄨㄫ</rt></ruby>: wind — see [[Elements]] for its own citation there.
 - <ruby>[山](../words/山.md)<rt>ㄙㄚㄋ</rt></ruby>: a mountain.
 - <ruby>[自然](../words/自然.md)<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>: nature; natural, spontaneously.
