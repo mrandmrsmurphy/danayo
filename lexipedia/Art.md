@@ -210,6 +210,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
 - <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.
 - <ruby>[剣道](../words/剣道.md)<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby>: kendo, the Way of the Sword — the modern Japanese martial art of swordsmanship with the bamboo shinai and armour, descended from samurai kenjutsu; a path of self-cultivation like [[弓道]] and [[柔道]].
+- <ruby>[柔道](../words/柔道.md)<rt>ㄋ⼜ㄉㄚㄨ</rt></ruby>: judo, the Way of Gentleness — the modern Japanese martial art of throws and grappling, a dō discipline like [[剣道]] and [[弓道]], and a specific [[武道]], not martial arts in general.
 - <ruby>[茶道](../words/茶道.md)<rt>ㄑㄚㄉㄚㄨ</rt></ruby>: the Way of Tea, tea ceremony — the formalised Japanese preparation and serving of powdered green tea, a dō discipline like [[弓道]] and [[剣道]], shaped by Sen no Rikyū's wabi-sabi.
 - <ruby>[気功](../words/気功.md)<rt>ㄎㄧㄜㄍㄛㄫ</rt></ruby>: qigong — a breath/energy-cultivation practice traditionally grouped with the martial arts above, though not itself a fighting art.
 - <ruby>[稽古](../words/稽古.md)<rt>ㄍㄝㄧㄍㄛ</rt></ruby>: practice, training in a traditional art or discipline (Japanese usage); classical "to examine antiquity" (source sense).
