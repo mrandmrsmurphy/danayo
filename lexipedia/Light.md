@@ -31,6 +31,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 ### Radiance & Reflection
 
 - <ruby>[光輝](../words/光輝.md)<rt>ㄎ⺢ㄫㄏㄨㄧ</rt></ruby>: brilliant, radiant.
+- <ruby>[燐光](../words/燐光.md)<rt>ㄌㄧㄋㄎ⺢ㄫ</rt></ruby>: phosphorescence — the glow of phosphorus and phosphorescent matter (a physics term; also written 磷光); attested in Mandarin and Cantonese.
 - <ruby>[光明](../words/光明.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby>: brightness, radiance — carries real cosmological and moral weight beyond the physical (see Semantic Range Notes).
 - <ruby>[映](../words/映.md)<rt>⼶ㄫ</rt></ruby>: to reflect, project (of light or an image).
 - <ruby>[三稜鏡](../words/三稜鏡.md)<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby>: a prism — literally "three-edge lens," the light-dispersing optical instrument.

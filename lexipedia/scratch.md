@@ -6,16 +6,16 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1186
+- **Unsorted**: 1177
 - **Calendar**: 47
-- **Geography**: 89
+- **Geography**: 87
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 4
 - **Measurement**: 2
 - **Mind**: 10
 - **Movement**: 17
-- **Nature**: 7
+- **Nature**: 6
 - **Physics**: 6
 - **Plants**: 12
 - **Religion**: 17
@@ -24,7 +24,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Shape**: 4
 - **Sin**: 12
 - **Speech**: 19
-- **Substances**: 9
+- **Substances**: 8
 - **Time**: 7
 - **Tools**: 5
 - **Trade**: 10
@@ -32,7 +32,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 11
 - **Work**: 7
 
-## Unsorted (1186)
+## Unsorted (1177)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -106,7 +106,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[挿入]] — insert, stick into
 - [[星条旗]] — stars and stripes
 - [[星洲]] — star islet, a literary sobriquet for singapore
-- [[昼夜]] — day and night, around the clock
 - [[時]] — time
 - [[時差]] — time difference, jet lag
 - [[晒]] — expose, dry in the sun, bleach
@@ -114,7 +113,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[本校]] — head school, our school, this school
 - [[榜文]] — official proclamation, posted notice
 - [[汝]] — you (intimate)
-- [[漁民]] — fisherfolk, fishing people
 - [[漢江]] — han river
 - [[無定河]] — wuding river
 - [[照顧]] — care for, look after
@@ -402,7 +400,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[日本]] — japan
 - [[日耳曼]] — germanic
 - [[日記]] — diary, journal, annal
-- [[昆布]] — kelp, seaweed
 - [[昇級]] — sheng ji
 - [[昴宿星団]] — pleiades
 - [[昼間]] — daytime
@@ -481,7 +478,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[油]] — oil
 - [[泰国]] — thailand
 - [[涅盤]] — nirvana
-- [[液化]] — liquefy, liquefaction
 - [[淫]] — lewd, obscene
 - [[淫靡]] — decadent, lascivious, profligate, extravagant
 - [[深奥]] — abstruse, esoteric
@@ -494,7 +490,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[準線]] — directrix
 - [[溝涜]] — ditch, gutter
 - [[溶岩]] — lava
-- [[漁夫]] — fisherman
 - [[漸近線]] — asymptote
 - [[潜在]] — potential, latent
 - [[潰瘍]] — ulcer
@@ -525,7 +520,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[熊猫]] — panda
 - [[熨斗]] — flatiron
 - [[熱烈]] — avid, fervent
-- [[燐光]] — phosphorescence
 - [[爬虫]] — reptile
 - [[父子]] — parenthood
 - [[爺爺]] — grandpappy, grandpapa (intimate)
@@ -545,8 +539,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[猪八戒]] — zhu bajie
 - [[猪悟能]] — zhu wuneng
 - [[猶太]] — jewish
-- [[猿人]] — apeman
-- [[猿楽]] — sarugaku
 - [[猿痘]] — monkeypox, mpox
 - [[獄吏]] — jailer
 - [[玄暈]] — dizzy, blurry, vertiginous
@@ -1060,7 +1052,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[施行]] — execute, carry out
 - [[既以]] — already, too late
 - [[日本語]] — japanese language
-- [[日用]] — daily use, everyday
 - [[日語]] — japanese language
 - [[昆]] — swarm, descendants
 - [[昇叙]] — be promoted, advanced
@@ -1274,7 +1265,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (89)
+## Geography (87)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
 - [[南山]] — south mountain
@@ -1312,7 +1303,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[干犯]] — infringe, violate, encroach upon
 - [[当世]] — this time, this world
 - [[影響]] — influence, affect, disturb
-- [[必備]] — essential, required, must-have
 - [[必須]] — be essential, be a must
 - [[情況]] — circumstances, conditions
 - [[愛媛]] — ehime, ehime prefecture
@@ -1333,7 +1323,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[欧洲]] — europe
 - [[欧羅巴]] — europe, europa, eu
 - [[江南]] — south river, gangnam
-- [[治世]] — well-governed era, peaceful reign, era of good government
 - [[洲]] — islet, continent
 - [[火山島]] — volcanic island
 - [[炎帝]] — yan emperor
@@ -1426,11 +1415,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[運送]] — transport
 - [[飛行]] — fly, flight
 
-## Nature (7)
+## Nature (6)
 - [[天気]] — weather
 - [[暑]] — hot (weather)
 - [[気象]] — weather, meteorology
-- [[燐火]] — will-o'-the-wisp, ignis fatuus
 - [[環境]] — environment, surroundings
 - [[陽炎]] — heat shimmer, glare of sunlight
 - [[鬼火]] — will-o-the-wisp, ignis fatuos
@@ -1533,11 +1521,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[飛報]] — report rapidly
 - [[黙黙]] — silently, quietly, without a word
 
-## Substances (9)
+## Substances (8)
 - [[岩石]] — rocks, crags
 - [[水晶]] — rock crystal, quartz crystal, crystal
 - [[汚穢]] — filthy, filth
-- [[液晶]] — liquid crystal
 - [[溶液]] — solution (chemistry)
 - [[物証]] — material evidence
 - [[玉]] — jade

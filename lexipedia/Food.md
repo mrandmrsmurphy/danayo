@@ -104,6 +104,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
 - <ruby>[甘蕉](../words/甘蕉.md)<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby>: banana, plantain — the classical and literary word ("sweet banana"), found in older agricultural and medical texts, displaced in everyday use by 香蕉 (Chinese) and バナナ (Japanese).
 - <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
+- <ruby>[昆布](../words/昆布.md)<rt>ㄍㄛㄋㄅㄛ</rt></ruby>: kelp, seaweed — the Japanese kombu of dashi; in Chinese especially used in traditional medicine, and in Korean 곤포, the genuine Sino-Korean term recorded in the Donguibogam.
 - <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
 - <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
@@ -157,6 +158,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 ### Fishing & Harvest
 
 - <ruby>[漁業](../words/漁業.md)<rt>⼄ㄝㄆ</rt></ruby>: the fishing industry, fishery.
+- <ruby>[漁夫](../words/漁夫.md)<rt>⼄ㄈㄜ</rt></ruby>: a fisherman — the individual who fishes; attested in Mandarin, Cantonese, Japanese and Korean, beside [[漁民]] for the fishing population as a whole.
+- <ruby>[漁民](../words/漁民.md)<rt>⼄·ㄇㄧㄋ</rt></ruby>: fisherfolk, fishing people — the fishing population collectively, beside [[漁夫]] (a fisherman) and [[漁業]] (the industry).
 - <ruby>[漁船](../words/漁船.md)<rt>⼄ㄙ⼔ㄇ</rt></ruby>: a fishing boat.
 - <ruby>[禁漁](../words/禁漁.md)<rt>ㄍㄧㄇ·⼄</rt></ruby>: a fishing ban.
 - <ruby>[釣竿](../words/釣竿.md)<rt>ㄑㄛㄨㄍㄚㄋ</rt></ruby>: a fishing pole.

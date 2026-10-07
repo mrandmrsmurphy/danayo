@@ -29,6 +29,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.
 - <ruby>[必](../words/必.md)<rt>ㄅㄧㄊ</rt></ruby>: surely, definitely — the bound root behind [[必要]] above and 必然 ("necessary, inevitable," the top of [Knowledge](../lexipedia/Knowledge.md)'s own epistemic-certainty gradient, referenced there but not yet its own word page).
+- <ruby>[必備](../words/必備.md)<rt>ㄅㄧㄊㄅㄧㄜ</rt></ruby>: essential, indispensable, must-have — attributive, as in 必備品 ("essential items"); attested in Mandarin and Cantonese, with no confirmed independent Japanese, Korean or Vietnamese entries; beside [[必要]].
 - <ruby>[需要](../words/需要.md)<rt>ㄙㄨ⼄ㄨ</rt></ruby>: to need, require.
 - <ruby>[記憶](../words/記憶.md)<rt>ㄍㄧㄧㄎ</rt></ruby>: to remember, recollect; a memory.
 - <ruby>[喜](../words/喜.md)<rt>ㄏㄧ</rt></ruby>: to like, love, enjoy.

@@ -103,6 +103,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[奇怪](../words/奇怪.md)<rt>ㄍㄨㄧㄍ⺢ㄧ</rt></ruby>: odd.
 - <ruby>[怪異](../words/怪異.md)<rt>ㄍ⺢ㄧㄧ</rt></ruby>: strange — a near-synonym of [[奇怪]]; see also [[奇妙]] ("strange, wonderful"), already used elsewhere in this vault.
 - <ruby>[熟知](../words/熟知.md)<rt>ㄙㄨㄎㄐㄨㄧ</rt></ruby>: familiar — "well acquainted with," the relational sense.
+- <ruby>[日用](../words/日用.md)<rt>ㄋㄧㄊ⼄ㄫ</rt></ruby>: daily use, everyday — attributive, of things for ordinary daily use (日用品, "daily necessities"; 日用語, "everyday vocabulary"); half of the chengyu 日用必備.
 - <ruby>[極端](../words/極端.md)<rt>ㄍㄧㄎㄉ⺢ㄋ</rt></ruby>: extreme — the clean, direct adjective.
 - <ruby>[極](../words/極.md)<rt>ㄍㄧㄎ</rt></ruby>: extreme — the bound root behind [[極端]] and [[極度]].
 - <ruby>[極度](../words/極度.md)<rt>ㄍㄧㄎㄉㄛ</rt></ruby>: extreme — a near-synonym of [[極端]].

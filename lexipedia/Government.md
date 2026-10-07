@@ -52,6 +52,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[大王](../words/大王.md)<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby>: a great king.
 - <ruby>[即位](../words/即位.md)<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby>: to ascend the throne.
 - <ruby>[在位](../words/在位.md)<rt>ㄐㄚㄧ⼔ㄧ</rt></ruby>: to reign, to be in office.
+- <ruby>[治世](../words/治世.md)<rt>ㄑㄧㄙㄝ</rt></ruby>: a well-governed, peaceful era — a golden age of good government (中華治世, "Pax Sinica"); the era, where [[在位]] is a ruler's time in office; attested in Mandarin, Japanese and Korean.
 - <ruby>[明君](../words/明君.md)<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby>: a wise ruler, enlightened monarch.
 - <ruby>[諡号](../words/諡号.md)<rt>ㄙㄧㄜㄏㄚㄨ</rt></ruby>: a posthumous name, honorary posthumous title — the name conferred on a ruler or notable after death, summing up their reign or character; the stand-in for the bound character 諡.
 - <ruby>[朕](../words/朕.md)<rt>ㄐㄨㄇ</rt></ruby>: "we/I" — the imperial first-person pronoun, used exclusively by emperors and empresses since the Qin dynasty; a specialized register-bound form, distinct from the ordinary pronoun paradigm on [[Grammar]].

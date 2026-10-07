@@ -62,6 +62,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[石灰](../words/石灰.md)<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby>: lime, quicklime — burnt limestone, also the root of the element name [[石灰素]] (calcium).
 - <ruby>[石油](../words/石油.md)<rt>ㄙㄝㄎ·⼜</rt></ruby>: petroleum, crude oil — the raw fossil substance, of which [[汽油]] below is a refined product.
 - <ruby>[汽油](../words/汽油.md)<rt>ㄎㄧㄜ⼜</rt></ruby>: gasoline — a manufactured liquid fuel, cited here for lack of any dedicated automotive/petrochemical domain elsewhere in this vault.
+- <ruby>[液晶](../words/液晶.md)<rt>⼶ㄎㄐㄧㄫ</rt></ruby>: liquid crystal — as in LCD displays (液晶顯示器, 액정 디스플레이); attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found.
 
 ## Semantic Range Notes
 

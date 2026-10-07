@@ -147,6 +147,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[倭猩](../words/倭猩.md)<rt>⼔ㄧㄙㄝㄫ</rt></ruby>: bonobo.
 - <ruby>[大猩](../words/大猩.md)<rt>ㄉㄚㄧㄙㄝㄫ</rt></ruby>: gorilla — shortened from 大猩猩, "great ape", the largest living primate.
 - <ruby>[大象](../words/大象.md)<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby>: elephant — the stand-in compound that legitimizes the bound character 象.
+- <ruby>[猿人](../words/猿人.md)<rt>ㄛㄋㄋㄧㄋ</rt></ruby>: an apeman, an early hominid (as in 北京猿人, Peking Man) — attested in Mandarin and Japanese; Korean has no independent use of the compound.
 - <ruby>[河馬](../words/河馬.md)<rt>ㄏㄚ·ㄇㄚ</rt></ruby>: hippopotamus.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.

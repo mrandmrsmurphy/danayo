@@ -40,6 +40,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[男優](../words/男優.md)<rt>ㄋㄚㄇ·ㄨㄛ</rt></ruby>: male artist, male actor.
 - <ruby>[芸人](../words/芸人.md)<rt>ㄝ·ㄋㄧㄋ</rt></ruby>: a performer.
 - <ruby>[舞妓](../words/舞妓.md)<rt>ㄇㄨㄍㄧ</rt></ruby>: a maiko, apprentice geisha, dancing entertainer — the apprentice of Kyoto's hanamachi who specializes in traditional dance, training to become a senior 芸妓 (geiko); a performer defined by dance (舞) rather than by the sex-worker sense of [[妓女]].
+- <ruby>[猿楽](../words/猿楽.md)<rt>ㄛㄋㄌㄚㄎ</rt></ruby>: sarugaku — a form of Japanese theatre popular from the eleventh to fourteenth centuries, the ancestor of Noh and Kyōgen; the characters are read with their own native readings in Mandarin and Cantonese.
 - <ruby>[劇場](../words/劇場.md)<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>: cinema, theater (the venue).
 - <ruby>[演出](../words/演出.md)<rt>⼶ㄋㄑㄨㄊ</rt></ruby>: to perform, put on a show; to direct, stage-direct.
 - <ruby>[演奏](../words/演奏.md)<rt>⼶ㄋㄙㄛㄨ</rt></ruby>: to play (music).

@@ -23,6 +23,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[氷水](../words/氷水.md)<rt>ㄅㄧㄫㄙㄨ</rt></ruby>: ice.
   - **Note**: literally "ice water" — [[氷]] ("ice") is a bound character in Dan'a'yo, never appearing independently; 氷水 is its only legitimizing compound, and the closest thing Dan'a'yo has to a bare word for "ice" (confirmed by the same resolution already reached for Swadesh item #165).
 - <ruby>[液体](../words/液体.md)<rt>⼶ㄎㄊㄝㄧ</rt></ruby>: liquid.
+- <ruby>[液化](../words/液化.md)<rt>⼶ㄎㄏ⺢</rt></ruby>: to liquefy, liquefaction — to turn into a liquid, from [[液体]]; attested in Mandarin, Cantonese, Japanese and Korean, with Vietnamese using a descriptive phrase (sự hoá lỏng).
 - <ruby>[湿](../words/湿.md)<rt>ㄙㄧㄆ</rt></ruby>: wet, damp.
 - <ruby>[蒸汽](../words/蒸汽.md)<rt>ㄐㄧㄫㄎㄧㄜ</rt></ruby>: steam, vapor.
 - <ruby>[蒸](../words/蒸.md)<rt>ㄐㄧㄫ</rt></ruby>: to steam — the verb counterpart of [[蒸汽]] above.
