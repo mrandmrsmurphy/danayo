@@ -113,6 +113,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[偉大](../words/偉大.md)<rt>ㄨㄧㄉㄚㄧ</rt></ruby>: great, extraordinary — greatness of character or achievement (a great leader, a great civilization), distinct from the cluster above's physical bigness.
 - <ruby>[巨人](../words/巨人.md)<rt>ㄍ⼄·ㄋㄧㄋ</rt></ruby>: a giant, titan.
 - <ruby>[微小](../words/微小.md)<rt>ㄇㄨㄧㄙㄛ</rt></ruby>: tiny, minute, microscopic.
+- <ruby>[杪小](../words/杪小.md)<rt>ㄇ⼄ㄙㄛ</rt></ruby>: treetop, extremity (the stored gloss; 杪 "tip of a branch" + 小 "small") — the stand-in word that legitimizes 杪, placed beside [[微小]] for its "slight, at the tip" sense.
 - <ruby>[茫茫](../words/茫茫.md)<rt>ㄇㄚㄫㄇㄚㄫ</rt></ruby>: vast, boundless; hazy, indistinct.
 - <ruby>[蒼海](../words/蒼海.md)<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby>: the vast ocean.
 - <ruby>[女女](../words/女女.md)<rt>ㄋㄜ·ㄋㄜ</rt></ruby>: little lady, little girl — a colloquial diminutive, not the general adjective "little."
