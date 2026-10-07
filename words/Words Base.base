@@ -17,7 +17,7 @@ views:
       - file.mtime
     sort:
       - property: date-last-perfect
-        direction: DESC
+        direction: ASC
       - property: lexipedia
         direction: DESC
       - property: file.mtime

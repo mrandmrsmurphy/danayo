@@ -33,24 +33,24 @@ mc_id: 1277
 graphemic_classification: 或
 stand_in: 域
 注音: ㄨㄧㄎ
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 域.
->For the word, see [域](words/域.md)
+>For the word, see [域](../words/域.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC \*ɢʷʰrɯɡ): semantic [[Radical 032|土]] ("earth, land") + phonetic [[或 (char)|或]] (OC \*ɢʷrɯɡ, "a certain, perhaps") — a bounded tract of land; "territory, domain, region."
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1277th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 職合|wɨk]] → [ㄨㄧㄎ](syllables/ㄨㄧㄎ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (6), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- 形声 (OC \*ɢʷrɯɡ): semantic [[Radical 032|土]] ("earth, land") + phonetic [[或 (char)|或]] (OC \*ɢʷrɯɡ, "a certain, perhaps") — a bounded tract of land; "territory, domain, region."
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1277th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 職合|wɨk]] → [ㄨㄧㄎ](../syllables/ㄨㄧㄎ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[域]]<rt>ㄨㄧㄎ</rt></ruby> "domain" (stand-in for 域)
@@ -59,3 +59,4 @@ boundedness: 80
 - <ruby>[[流域]]<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> "river basin"
 - <ruby>[[定義域]]<rt>ㄐㄝㄫㄜㄧㄨㄧㄎ</rt></ruby> "domain of a function"
 - <ruby>[[域内]]<rt>ㄨㄧㄎㄋㄛㄧ</rt></ruby> "within the region; intra-regional"
+- <ruby>[[域階]]<rt>ㄨㄧㄎㄍ⼶ㄧ</rt></ruby> "domain (taxonomic rank)"

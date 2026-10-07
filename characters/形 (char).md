@@ -29,10 +29,10 @@ hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2093
 mc_id: 359
-graphemic_classification: "开"
+graphemic_classification: "井"
 stand_in: "形"
 注音: "ㄏㄝㄫ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
@@ -42,10 +42,10 @@ boundedness: 80
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC *ɡeːŋ): semantic [[Radical 059|彡]] ("lines, pattern, decoration") + phonetic [[开]] (OC *keːŋ) — a decorative pattern or outline; "shape, form, type."
-- [SKIP-1-4-3](lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 359th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄏㄝㄫ](syllables/ㄏㄝㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (2), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 形声 (OC \*ɡeːŋ): semantic [[Radical 059|彡]] ("lines, pattern, decoration") + phonetic [[井]] (which later corrupted into 开/幵, as in [[刑]]) — a decorative pattern or outline; "shape, form, type."
+- [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 359th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄏㄝㄫ](../syllables/ㄏㄝㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Usage
 While this character can appear alone, it is somewhat rare to do so.
@@ -71,6 +71,7 @@ While this character can appear alone, it is somewhat rare to do so.
 - <ruby>[[象形]]<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "pictogram; pictographic character"
 - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> "square"
 - <ruby>[[古形]]<rt>ㄍㄛㄏㄝㄫ</rt></ruby> "old form; archaic form"
+- <ruby>[[隠形]]<rt>ㄜㄋㄏㄝㄫ</rt></ruby> "invisible"
 
 ## Chengyu
 - <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle; the rule that phonology and character are displayed together"

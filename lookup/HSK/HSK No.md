@@ -259,6 +259,7 @@ tags: [lookup]
 [蕭](characters/䔥.md)
 [丞](characters/丞.md)
 [亘 (char)](characters/亘%20(char).md)
+[亙 (char)](../../characters/亙%20(char).md)
 [屏](characters/屏.md)
 [婢](characters/婢.md)
 [胤](characters/胤.md)
@@ -988,6 +989,11 @@ tags: [lookup]
 [[蛉]]
 [[詢]]
 [驟](../../characters/驟.md)
+[冪](../../characters/冪.md)
+[啄 (char)](../../characters/啄%20(char).md)
+[塾](../../characters/塾.md)
+[寨](../../characters/寨.md)
+[徴](../../characters/徴.md)
 ## Datacheck
 ```base
 version: 1

@@ -32,24 +32,24 @@ aliases:
   - 㫡
   - 鼕
 注音: ㄊㄛㄫ
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 冬.
->For the word, see [冬](words/冬.md)
+>For the word, see [冬](../words/冬.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): the oracle-bone form depicts a cord with both ends knotted off, the original pictograph for "end" (later differentiated as [[終]]); the two dots at the bottom were added as the "ice" radical 仌 to specify "the end of the year, winter."
-- [SKIP-2-3-2](lookup/SKIP/SKIP-2/SKIP-2-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 364th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 冬|uoŋ]] → [ㄊㄛㄫ](syllables/ㄊㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): the oracle-bone form depicts a cord with both ends knotted off, the original pictograph for "end" (later differentiated as [[終]]); the two dots at the bottom were added as the "ice" radical 仌 to specify "the end of the year, winter."
+- [SKIP-2-3-2](../lookup/SKIP/SKIP-2/SKIP-2-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 364th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 冬|uoŋ]] → [ㄊㄛㄫ](../syllables/ㄊㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby> "winter"
@@ -61,3 +61,7 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
+
+## Derived Characters
+- <ruby>[[柊]]<rt>ㄐㄨㄫ</rt></ruby> "holly osmanthus"
+- <ruby>[[終]]<rt>ㄐㄨㄫ</rt></ruby> "end"

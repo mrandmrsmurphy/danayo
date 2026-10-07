@@ -29,24 +29,27 @@ mc_id: 913
 graphemic_classification: "会意"
 stand_in: "妾"
 注音: "ㄑㄛㄆ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 妾.
->For the word, see [妾](words/妾.md)
+>For the word, see [妾](../words/妾.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 会意 of [[立 (char)|立]] ("stand") and [[Radical 038|女]] ("woman") — a woman who stands in attendance; "concubine, maidservant."
-- [SKIP-2-5-3](lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 913th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄑㄛㄆ](syllables/ㄑㄛㄆ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- 会意 of [[立 (char)|立]] ("stand") and [[Radical 038|女]] ("woman") — in the modern form the top is 立, a simplification of the older 辛 ("torture device," or a headdress); a woman bound to service, hence "slave woman, concubine."
+- [SKIP-2-5-3](../lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 913th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄑㄛㄆ](../syllables/ㄑㄛㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[妾]]<rt>ㄑㄛㄆ</rt></ruby> "concubine" (stand-in for 妾)
+
+## Derived Characters
+- <ruby>[[接 (char)|接]]<rt>ㄐㄛㄆ</rt></ruby> "contact, connect"

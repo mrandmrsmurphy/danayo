@@ -35,26 +35,27 @@ mc_id: 76
 graphemic_classification: 指事
 stand_in: 六
 注音: ㄌㄨㄎ
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 六.
->For the word, see [六](words/六.md)
+>For the word, see [六](../words/六.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): the numeral "six" is marked by an abstract symbol rather than a depicted object; one theory holds the form was borrowed from the similar-sounding 廬 (OC \*ra, "shed, cabin") to represent the homophonous numeral (Liu Xinglong).
-- [SKIP-2-2-2](lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 76th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄌㄨㄎ](syllables/ㄌㄨㄎ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): the numeral "six" is marked by an abstract symbol rather than a depicted object; one theory holds the form was borrowed from the similar-sounding 廬 (OC \*ra, "shed, cabin") to represent the homophonous numeral (Liu Xinglong).
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 76th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄌㄨㄎ](../syllables/ㄌㄨㄎ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[六]]<rt>ㄌㄨㄎ</rt></ruby> "six" (stand-in for 六)
 - <ruby>[[六十]]<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby> "sixty"
 - <ruby>[[六月]]<rt>ㄌㄨㄎ·⼔ㄊ</rt></ruby> "June"
 - <ruby>[[十六]]<rt>ㄙㄧㄆㄌㄨㄎ</rt></ruby> "sixteen"
@@ -71,5 +72,5 @@ boundedness: 50
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"
 
-### Links
+## Links
 ![[nav/Numerals]]
