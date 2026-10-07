@@ -207,6 +207,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[体系](../words/体系.md)<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>: a system — a coherent framework or body of ideas.
 - <ruby>[様式](../words/様式.md)<rt>⼘ㄫㄙㄧㄎ</rt></ruby>: a type, style, pattern.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: a model, type, pattern — see [[Existence]] for its own citation there.
+- <ruby>[格式](../words/格式.md)<rt>ㄍㄚㄎㄙㄧㄎ</rt></ruby>: format, form, style — the prescribed arrangement something follows (a document's format, the form of a letter), beside [[様式]] "style, pattern."
 - <ruby>[設計](../words/設計.md)<rt>ㄙㄝㄊㄍㄝㄧ</rt></ruby>: to plan, design.
 - <ruby>[複合](../words/複合.md)<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby>: compound, composite — made of multiple combined parts.
 - <ruby>[柄](../words/柄.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a design, pattern — visual/surface (a fabric pattern), distinct from [[様式]]'s structural "style."
