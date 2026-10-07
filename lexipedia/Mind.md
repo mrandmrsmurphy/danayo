@@ -212,6 +212,12 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[複合](../words/複合.md)<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby>: compound, composite — made of multiple combined parts.
 - <ruby>[柄](../words/柄.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a design, pattern — visual/surface (a fabric pattern), distinct from [[様式]]'s structural "style."
 - <ruby>[方法](../words/方法.md)<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>: a method, way, manner — see [[Knowledge]] for its own citation there.
+- <ruby>[楷](../words/楷.md)<rt>ㄎ⼶</rt></ruby>: model, pattern (as in 楷書, "regular script").
+- <ruby>[概](../words/概.md)<rt>ㄍㄚㄧ</rt></ruby>: a rough idea, a generality — the stand-in-bound root of [[概要]].
+- <ruby>[標準](../words/標準.md)<rt>ㄅ⼄ㄐㄨㄋ</rt></ruby>: standard, norm.
+- <ruby>[模倣](../words/模倣.md)<rt>ㄇㄛㄈㄚㄫ</rt></ruby>: to imitate, emulate.
+- <ruby>[模擬](../words/模擬.md)<rt>ㄇㄛㄧ</rt></ruby>: to imitate; a simulation or mock exercise.
+- <ruby>[模範](../words/模範.md)<rt>ㄇㄛㄈㄚㄇ</rt></ruby>: model, exemplar.
 
 #### Cause, Reasoning & Analysis
 

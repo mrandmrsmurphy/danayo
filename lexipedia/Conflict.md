@@ -63,6 +63,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[刀鞘](../words/刀鞘.md)<rt>ㄊㄚㄨㄙㄛ</rt></ruby>: a scabbard, sheath — the fitted leather or wood sleeve that holds a blade; a craft object in its own right in the Japanese sword tradition (さや, with a separate artisan, the 鞘師).
 - <ruby>[槍](../words/槍.md)<rt>ㄑ⺢ㄫ</rt></ruby>: a spear, lance.
 - <ruby>[長矛](../words/長矛.md)<rt>ㄐㄚㄫㄇㄚㄨ</rt></ruby>: a spear, lance, pike.
+- <ruby>[榴弾](../words/榴弾.md)<rt>ㄌ⼜ㄉㄚㄋ</rt></ruby>: high explosives, an explosive shell or grenade (lit. "pomegranate shell").
 
 ### Combat & Tactics
 
@@ -109,6 +110,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[本塁打](../words/本塁打.md)<rt>ㄅㄛㄋㄌㄨㄧㄉㄚ</rt></ruby>: a home run (baseball) — a hit that scores outright; placed here as the nearest existing home for contest and scoring vocabulary, pending a sports/games page.
 - <ruby>[板球](../words/板球.md)<rt>ㄆㄚㄋㄍ⼜</rt></ruby>: cricket (the sport, not the insect) — a bat-and-ball contest, beside [[本塁打]]; placed here pending a sports/games page.
 - <ruby>[桌球](../words/桌球.md)<rt>ㄊㄚㄎㄍ⼜</rt></ruby>: table tennis, ping pong — a table-top racket-and-ball game, beside [[板球]]; placed here pending a sports/games page.
+- <ruby>[橄欖球](../words/橄欖球.md)<rt>ㄍㄚㄇㄌㄚㄇㄍ⼜</rt></ruby>: rugby (lit. "olive ball," after the ball's shape); placed here pending a sports/games page.
 - <ruby>[凌駕](../words/凌駕.md)<rt>ㄌㄜㄫㄍㄚ</rt></ruby>: to surpass, override — "to ride over."
 - <ruby>[損失](../words/損失.md)<rt>ㄙㄛㄋㄙㄧㄊ</rt></ruby>: loss, to lose. See Semantic Range Notes.
 - <ruby>[滅失](../words/滅失.md)<rt>ㄇㄝㄊㄙㄧㄊ</rt></ruby>: to lose (legal: total destruction of property). See Semantic Range Notes.

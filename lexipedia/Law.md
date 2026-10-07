@@ -54,6 +54,8 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[控訴](../words/控訴.md)<rt>ㄎㄛㄫㄙㄛ</rt></ruby>: to formally file charges against; to appeal.
 - <ruby>[審査](../words/審査.md)<rt>ㄙㄧㄇㄐㄚ</rt></ruby>: to judge, review a case — the verb only; no dedicated word yet for "a judge" (the person).
 - <ruby>[検閲](../words/検閲.md)<rt>ㄍㄝㄇ·⼶ㄊ</rt></ruby>: censorship, inspection — to examine and censor.
+- <ruby>[訟](../words/訟.md)<rt>ㄙ⼄ㄫ</rt></ruby>: to sue, to bring a case to court.
+- <ruby>[榜文](../words/榜文.md)<rt>ㄆㄚㄫㄇㄨㄋ</rt></ruby>: an official proclamation, a publicly posted notice.
 
 ### Verdicts
 

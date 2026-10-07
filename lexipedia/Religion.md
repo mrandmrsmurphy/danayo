@@ -66,6 +66,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[忌諱](../words/忌諱.md)<rt>ㄍㄧㄏㄨㄧ</rt></ruby>: a taboo — a subject too sensitive to mention, the social/interpersonal register.
 - <ruby>[諱](../words/諱.md)<rt>ㄏㄨㄧ</rt></ruby>: to shun, avoid saying the name of — the bound root behind [[忌諱]] above, and the classical East Asian name-avoidance custom (避諱) of not writing or speaking an emperor's or ancestor's personal name.
 - <ruby>[禁忌](../words/禁忌.md)<rt>ㄍㄧㄇㄍㄧ</rt></ruby>: a taboo, forbidden thing — the religious/cultural register (also, in medicine, "contraindication"), distinct from [[忌諱]]'s social-etiquette sense.
+- <ruby>[風水](../words/風水.md)<rt>ㄈㄨㄫㄙㄨ</rt></ruby>: feng shui, the geomantic practice of siting buildings and graves (homophone of [[楓樹]]).
 
 **Not yet coined or excluded as false matches**: "offer" (making a religious offering) has no exact dedicated word — [[献上]], which also glosses "offer," means presenting tribute upward to a human superior, a secular register explicitly distinct from religious offering (whose everyday Vietnamese equivalent is the unrelated loan cúng dường); the closest real matches are [[祭祀]] and [[犠牲]] (below), which name the sacrifice/offering ritual and its object rather than the bare verb. "Enchant" (to cast a magical spell on) is likewise uncoined — [[魅惑]], which also glosses "enchant," means to charm or captivate a person romantically/socially, not to work magic.
 

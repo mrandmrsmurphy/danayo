@@ -77,6 +77,12 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[梨](../words/梨.md)<rt>ㄌㄧㄜ</rt></ruby>: a pear — the fruit; the tree is [[梨木]].
 - <ruby>[槐樹](../words/槐樹.md)<rt>ㄏ⺢ㄧㄙㄨ</rt></ruby>: the pagoda tree (Styphnolobium japonicum), a tall shade tree of China and Korea whose flowers are used as food and as a yellow dye; the stand-in for the bound character 槐.
 - <ruby>[柊木](../words/柊木.md)<rt>ㄐㄨㄫㄇㄛㄎ</rt></ruby>: the holly osmanthus (Osmanthus heterophyllus), an evergreen shrub with spiny leaves and fragrant white autumn flowers, traditionally hung at doorways to ward off evil spirits; the stand-in for the bound character 柊.
+- <ruby>[楊柳](../words/楊柳.md)<rt>⼘ㄫㄌ⼜</rt></ruby>: a willow ("poplar-willow"), the stand-in for the bound character 楊.
+- <ruby>[楊梅](../words/楊梅.md)<rt>⼘ㄫㄇㄛㄧ</rt></ruby>: waxfruit, the bayberry (yangmei), synonymous with 山桃.
+- <ruby>[楊樹](../words/楊樹.md)<rt>⼘ㄫㄙㄨ</rt></ruby>: a poplar or aspen tree.
+- <ruby>[楓樹](../words/楓樹.md)<rt>ㄈㄨㄫㄙㄨ</rt></ruby>: a maple tree; the stand-in for the bound character 楓.
+- <ruby>[橄欖](../words/橄欖.md)<rt>ㄍㄚㄇㄌㄚㄇ</rt></ruby>: an olive; the stand-in for both bound characters 橄 and 欖.
+- <ruby>[檳榔](../words/檳榔.md)<rt>ㄅㄧㄋㄌㄚㄫ</rt></ruby>: the betel nut or betel palm; the stand-in for both bound characters 檳 and 榔.
 
 ### Flowers & Ornamentals
 

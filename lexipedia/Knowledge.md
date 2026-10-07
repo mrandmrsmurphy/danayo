@@ -87,6 +87,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[虚偽](../words/虚偽.md)<rt>ㄏ⼄⼔ㄧ</rt></ruby>: falsehood, lie; "fake."
 - <ruby>[前提](../words/前提.md)<rt>ㄐㄝㄋㄙㄝ</rt></ruby>: prerequisite, premise.
 - <ruby>[条件](../words/条件.md)<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby>: condition, prerequisite.
+- <ruby>[検証](../words/検証.md)<rt>ㄍㄝㄇㄐㄧㄫ</rt></ruby>: to verify, to check a claim against evidence.
 
 ### Investigation & Analysis
 
@@ -129,6 +130,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[主意](../words/主意.md)<rt>ㄐㄨㄜ</rt></ruby>: idea — literally "master idea," the one settled on.
 - <ruby>[題目](../words/題目.md)<rt>ㄊㄝㄧㄇㄨㄎ</rt></ruby>: title, heading, topic.
 - <ruby>[情報](../words/情報.md)<rt>ㄑㄧㄫㄅㄚㄨ</rt></ruby>: information, intelligence.
+- <ruby>[概要](../words/概要.md)<rt>ㄍㄚㄧ⼄ㄨ</rt></ruby>: overview, summary.
+- <ruby>[標題](../words/標題.md)<rt>ㄅ⼄·ㄊㄝㄧ</rt></ruby>: topic, title, headline.
 
 ### Schools, Degrees & Roles
 

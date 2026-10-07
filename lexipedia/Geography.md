@@ -20,6 +20,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
 - <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
+- <ruby>[極東](../words/極東.md)<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby>: the Far East — a regional name for East Asia, beside [[東亜]].
 - <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
 - <ruby>[支那](../words/支那.md)<rt>ㄐㄝ·ㄋㄚ</rt></ruby>: "Zhina," an old name for China.
 - <ruby>[斉国](../words/斉国.md)<rt>ㄐㄝㄧㄍㄛㄎ</rt></ruby>: the state of Qi.

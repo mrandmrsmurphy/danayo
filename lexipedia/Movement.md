@@ -65,6 +65,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[離別](../words/離別.md)<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby>: to depart, leave — emotionally loaded, a farewell/separation rather than [[出発]]'s neutral setting-off.
 
 - <ruby>[回避](../words/回避.md)<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby>: to avoid.
+- <ruby>[趨](../words/趨.md)<rt>ㄑㄨ</rt></ruby>: to take many small steps toward, to hasten.
 
 ### Ascending, Descending & Falling
 

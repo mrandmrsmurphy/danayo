@@ -112,6 +112,8 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[汎亜](../words/汎亜.md)<rt>ㄈㄚㄇ·ㄚ</rt></ruby>: Pan-Asian (汎亜主義, "Pan-Asianism").
 - <ruby>[総統](../words/総統.md)<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>: a president, head of state.
 - <ruby>[国務領](../words/国務領.md)<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby>: State Affairs Director — the head-of-state title of the Korean Provisional Government in 1925–1927; a specific historical office, not a general term.
+- <ruby>[極右](../words/極右.md)<rt>ㄍㄧㄎ·⼜</rt></ruby>: far-right, the extreme right of the political spectrum.
+- <ruby>[極左](../words/極左.md)<rt>ㄍㄧㄎㄐㄚ</rt></ruby>: far-left, the extreme left of the political spectrum.
 
 ### Government Bodies & Offices
 

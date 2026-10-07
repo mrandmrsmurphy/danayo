@@ -31,6 +31,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[酸](../words/酸.md)<rt>ㄙ⺢ㄋ</rt></ruby>: acidic, sour.
 - <ruby>[箸](../words/箸.md)<rt>ㄉ⺢</rt></ruby>: chopsticks.
 - <ruby>[叉](../words/叉.md)<rt>ㄑㄚㄧ</rt></ruby>: a fork; prong, tine.
+- <ruby>[食物](../words/食物.md)<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>: food, what is eaten.
 
 ## Intermediate (B1–B2)
 
@@ -102,6 +103,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[粥](../words/粥.md)<rt>ㄐㄨㄎ</rt></ruby>: congee, rice porridge.
 - <ruby>[麺](../words/麺.md)<rt>ㄇㄝㄋ</rt></ruby>: flour.
 - <ruby>[麺包](../words/麺包.md)<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>: bread.
+- <ruby>[糧](../words/糧.md)<rt>ㄌ⼘ㄫ</rt></ruby>: provisions, grain as food supply (homophone of [[両]] and [[梁]]).
 
 ### Fruits & Produce
 
@@ -128,6 +130,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
 - <ruby>[山芋](../words/山芋.md)<rt>ㄙㄚㄋ·ㄨ</rt></ruby>: mountain yam — the starchy tuber of *Dioscorea*, Japanese やまいも; a different plant from the sweet potato.
 - <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
+- <ruby>[椎菌](../words/椎菌.md)<rt>ㄑㄨㄧㄍ⼜ㄋ</rt></ruby>: the shiitake mushroom, echoing Japanese 椎茸 "shii-tree mushroom".
+- <ruby>[橘](../words/橘.md)<rt>ㄍ⼜ㄊ</rt></ruby>: a tangerine, the stand-in for the bound character 橘.
 
 ### Sweets & Flavorings
 

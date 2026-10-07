@@ -78,6 +78,7 @@ language: English
 - theater - [[劇場]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese げきじょう, and Korean 극장. Not yet a word page.)*
 - museum - [[博物館]] *(reserved — identical compound in Mandarin, Japanese はくぶつかん, and Korean 박물관; Vietnamese uses native-leaning bảo tàng instead. Not yet a word page.)*
 - concert hall - [[音楽堂]] *(reserved — shared 音樂/音楽/음악 "music" root; Mandarin ends in 廳 (tīng) rather than Japanese/Korean's 堂 (dō/dang). Not yet a word page.)*
+- <ruby>[楼閣](../words/楼閣.md)<rt>ㄌㄛㄨㄍㄚㄎ</rt></ruby>: a multistory pavilion or tower building, traditional elevated East Asian architecture.
 
 ### Religious 
 - church - <ruby>[教会](../words/教会.md)<rt>ㄍ⼄ㄨㄏ⼔</rt></ruby>

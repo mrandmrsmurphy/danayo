@@ -89,6 +89,8 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[斑鳩](../words/斑鳩.md)<rt>ㄅㄚㄋㄎ⼜</rt></ruby>: turtledove.
 - <ruby>[燕子](../words/燕子.md)<rt>ㄝㄋㄐㄜ</rt></ruby>: swallow — a culturally loaded bird across the Sinosphere (spring, homecoming, conjugal fidelity); secondarily used regionally for a badminton shuttlecock.
 - <ruby>[白頭就](../words/白頭就.md)<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby>: bald eagle.
+- <ruby>[椋鳥](../words/椋鳥.md)<rt>ㄌ⼘ㄫㄑㄛㄨ</rt></ruby>: a starling, a small gregarious songbird (Japanese むくどり).
+- <ruby>[鶴](../words/鶴.md)<rt>ㄏㄚㄎ</rt></ruby>: a crane, the long-legged bird.
 
 ### Insects, Arachnids & Small Creatures
 
@@ -172,6 +174,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海狸](../words/海狸.md)<rt>ㄏㄚㄧㄌㄜ</rt></ruby>: a beaver — extending 狸's generic "small furry mammal" sense yet again, a third distinct animal sharing the character.
 - <ruby>[豹猫](../words/豹猫.md)<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby>: leopard cat (*Prionailurus bengalensis*).
 - <ruby>[貒](../words/貒.md)<rt>ㄊ⺢ㄋ</rt></ruby> / <ruby>[野猪](../words/野猪.md)<rt>⼘ㄐㄛ</rt></ruby>: wild boar — two independently attested synonyms.
+- <ruby>[樹懶](../words/樹懶.md)<rt>ㄙㄨㄌㄚㄋ</rt></ruby>: a sloth, lit. "tree-lazy".
 
 ### Rodents
 

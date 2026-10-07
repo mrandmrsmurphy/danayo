@@ -102,6 +102,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>: bald.
 - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>: to shave.
 - <ruby>[睫毛](../words/睫毛.md)<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby>: eyelash.
+- <ruby>[項](../words/項.md)<rt>ㄏㄚㄫ</rt></ruby>: the nape of the neck; also "an item" (homophones listed on its page).
 
 ### Skin, Build & Coloring
 
