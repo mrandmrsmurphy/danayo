@@ -8,6 +8,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
   - <ruby>[東京](../words/東京.md)<rt>ㄉㄛㄫㄍ⼶ㄫ</rt></ruby>: Tokyo, the capital of Japan — lit. "eastern capital."
+  - <ruby>[鎌倉](../words/鎌倉.md)<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby>: Kamakura, the coastal city south of Tokyo that was the seat of the first Japanese shogunate (1185–1333).
 - <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
   - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
