@@ -41,6 +41,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[会社](../words/会社.md)<rt>ㄏ⼔ㄙ⼘</rt></ruby>: a business, company.
 - <ruby>[公司](../words/公司.md)<rt>ㄍㄛㄫㄙㄚ</rt></ruby>: a company, firm — a near-synonym of [[会社]].
 - <ruby>[企業](../words/企業.md)<rt>ㄎㄝㄝㄆ</rt></ruby>: an enterprise, firm — another near-synonym of [[会社]]/[[公司]], leaning toward the abstract business entity rather than a specific company.
+- <ruby>[東芝](../words/東芝.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: Toshiba, the Japanese electronics corporation — a proper company name (a contraction of 東京芝浦電気), placed here as the one named firm among the general business words.
 - <ruby>[業](../words/業.md)<rt>ㄝㄆ</rt></ruby>: a profession, business — the bound/abstract sense.
 - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>: a market. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[貿易](../words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>: trade — the international sense.
