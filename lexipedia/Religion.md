@@ -67,6 +67,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[神巫](../words/神巫.md)<rt>ㄙㄧㄋㄇㄨ</rt></ruby>: a shaman, wizard.
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: a witch, sorceress.
+- <ruby>[巫女](../words/巫女.md)<rt>ㄇㄨ·ㄋㄜ</rt></ruby>: a shrine maiden, miko, shamaness — 巫 with 女; the bare 巫 is bound.
 - <ruby>[僧侶](../words/僧侶.md)<rt>ㄙㄜㄫㄌ⼄</rt></ruby>: a Buddhist monk.
 - <ruby>[和尚](../words/和尚.md)<rt>ㄏ⺢ㄙ⼘ㄫ</rt></ruby>: an abbot, monk — a specific monastic rank, distinct from [[僧侶]]'s general monk.
 - <ruby>[僧伽](../words/僧伽.md)<rt>ㄙㄜㄫㄍ⼘</rt></ruby>: the sangha, the Buddhist monastic community — the Sanskrit-transliterating source compound (saṃgha) that [[僧]] itself derives from; also loosely "a Buddhist monk" by extension.
@@ -81,6 +82,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[庵子](../words/庵子.md)<rt>ㄚㄇㄐㄜ</rt></ruby>: a small Buddhist nunnery, hermitage — smaller in scale than [[寺院]]; a genuine dialectal word that also carries an unrelated regional sense, "a thatched field hut" (agricultural, in the Guanzhong dialect).
 - <ruby>[神学院](../words/神学院.md)<rt>ㄙㄧㄋㄏㄚㄎ·⼔ㄋ</rt></ruby>: a seminary.
 - <ruby>[祭祀](../words/祭祀.md)<rt>ㄐㄝㄙㄜ</rt></ruby>: sacrifice, worship — the ritual act of ceremonial offering, see [[基督敎]] for its own citation there.
+- <ruby>[祭物](../words/祭物.md)<rt>ㄐㄝ·ㄇㄨㄊ</rt></ruby>: a ritual offering, sacrificial object.
 - <ruby>[犠牲](../words/犠牲.md)<rt>ㄏㄨㄧㄙㄚㄫ</rt></ruby>: sacrifice, victim — the object offered, or the act of sacrificing something, see [[基督敎]] for its own citation there.
 - <ruby>[祭典](../words/祭典.md)<rt>ㄐㄝㄉㄝㄋ</rt></ruby>: a festival, sacrificial ceremony — see [Events](../lexipedia/Events.md) for its own citation there.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: a ceremony; etiquette, courtesy — see [Society](../lexipedia/Society.md) and [Events](../lexipedia/Events.md) for their own citations there.

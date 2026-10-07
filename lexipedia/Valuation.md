@@ -27,7 +27,9 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 ### Moral & Aesthetic Judgment
 
 - <ruby>[善](../words/善.md)<rt>ㄙ⼶ㄋ</rt></ruby>: good — the moral-goodness register, distinct from plain [[好]].
+- <ruby>[至善](../words/至善.md)<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby>: the highest good, summum bonum — from the Great Learning (大學).
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
+- <ruby>[批評](../words/批評.md)<rt>ㄆㄝㄧㄅ⼶ㄫ</rt></ruby>: criticism, review, critique — 批 "criticise" + 評 "evaluate."
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
 - <ruby>[拙劣](../words/拙劣.md)<rt>ㄐ⼔ㄊㄌㄝㄊ</rt></ruby>: clumsy, inept, crude — poorly made or poorly done, both unskilled and of low quality (crude writing, a bungled imitation); a literary register, close to [[悪劣]]'s vile inferiority but about lack of skill rather than moral badness.
 - <ruby>[遜色](../words/遜色.md)<rt>ㄙㄛㄋㄙㄧㄎ</rt></ruby>: inferior, inferiority — falling visibly short in comparison with something else, used almost always in a comparative frame (毫不遜色, "not inferior in the slightest"); about comparison, where [[拙劣]] is plainly clumsy and poor.
@@ -43,6 +45,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[優等](../words/優等.md)<rt>ㄨㄛㄉㄨㄫ</rt></ruby>: excellent, of the top grade, honors — the upper end of the scale whose unmarked midpoint is 中等 (優等生 "honor student"); its opposite is [[劣等]].
 - <ruby>[劣等](../words/劣等.md)<rt>ㄌㄝㄊㄉㄨㄫ</rt></ruby>: inferior, of a lower grade — the bottom of the series 劣等, [[中等]], [[優等]]; 劣等感 is the "inferiority complex".
 - <ruby>[初等](../words/初等.md)<rt>ㄑㄛㄉㄨㄫ</rt></ruby>: elementary, of the first and most basic level — the lowest tier of the 初等/中等/高等 educational classification, and "introductory" in 初等数学; see [[中等]] and [[高等]].
+- <ruby>[高等](../words/高等.md)<rt>ㄍㄚㄨㄉㄨㄫ</rt></ruby>: higher-level, advanced — as a modifier before an institution.
 - <ruby>[繊細](../words/繊細.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>: fine — delicate, sensitive; a different sense of "fine" from [[良好]]'s quality judgment.
 
 **Not yet coined or excluded as false matches**: "awful," "dear," "fancy," "terrible," "foul," "naughty," and "wicked" all have no dedicated Dan'a'yo word yet. "Fine" also loosely matches [[罰金]], already housed on [Law](../lexipedia/Law.md) — that word means a monetary penalty, not the quality-judgment sense cited above. "Well" (in good health, satisfactorily) also loosely matches [[井戸]], which means a water well — an unrelated homograph, not cited here.
@@ -82,6 +85,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[明白](../words/明白.md)<rt>ㄇ⼶ㄫㄅㄚㄎ</rt></ruby>: clear, obvious, evident — the clean, direct match. See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.
 - <ruby>[明確](../words/明確.md)<rt>ㄇ⼶ㄫㄎㄚㄎ</rt></ruby>: clear, definite, unambiguous — a near-synonym of [[明白]].
+- <ruby>[曖昧](../words/曖昧.md)<rt>ㄚㄧㄇㄚㄧ</rt></ruby>: ambiguous, vague — 曖 "obscure" + 昧 "dark."
 - <ruby>[明瞭](../words/明瞭.md)<rt>ㄇ⼶ㄫㄌ⼘ㄨ</rt></ruby>: apparent, clear — a near-synonym of [[明白]]. See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.
 - <ruby>[彰明](../words/彰明.md)<rt>ㄑㄚㄫㄇ⼶ㄫ</rt></ruby>: clear, manifest, obvious — the best match for "obvious." See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[瞭然](../words/瞭然.md)<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby>: clear, evident — the best match for "evident." See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.

@@ -30,6 +30,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[沙漠](../words/沙漠.md)<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>: a desert.
 - <ruby>[農民](../words/農民.md)<rt>ㄋㄛㄫㄇㄧㄋ</rt></ruby>: a farmer, peasant.
 - <ruby>[田野](../words/田野.md)<rt>ㄉㄝㄋ·⼘</rt></ruby>: a field — open countryside, not a sports field.
+- <ruby>[肥沃](../words/肥沃.md)<rt>ㄅㄨㄧㄛㄎ</rt></ruby>: fertile, irrigated — 肥 "fertile" + 沃 "watered."
 - <ruby>[丘](../words/丘.md)<rt>ㄎ⼜</rt></ruby>: a hill.
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
 - <ruby>[崖](../words/崖.md)<rt>ㄚㄧ</rt></ruby>: a cliff.
@@ -71,6 +72,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[雷電](../words/雷電.md)<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby>: thunder and lightning — the everyday word for lightning in practice, though [[閃電]] is the technically precise term; attested in all five languages; beside [[辟歴]] for the thunderclap.
 - <ruby>[凍結](../words/凍結.md)<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby>: to freeze.
 - <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>: climate.
+- <ruby>[気象](../words/気象.md)<rt>ㄎㄧㄜㄙ⼘ㄫ</rt></ruby>: weather, meteorology.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky — see [[Astronomy]] for its own citation there.
 
 ### Caves

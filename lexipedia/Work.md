@@ -62,6 +62,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[技術](../words/技術.md)<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby>: technique, technology.
 - <ruby>[技巧](../words/技巧.md)<rt>ㄍㄨㄧㄎ⼘ㄨ</rt></ruby>: technique, craft-skill.
 - <ruby>[術](../words/術.md)<rt>ㄙㄨㄊ</rt></ruby>: skill, method, technique — the free-standing base morpheme underlying [[技術]] and [[芸術]].
+- <ruby>[専門](../words/専門.md)<rt>ㄐ⼔ㄋㄇㄛㄋ</rt></ruby>: a specialty, field of expertise — 専 "dedicated" + 門 "field."
 - <ruby>[発明](../words/発明.md)<rt>ㄈㄚㄊㄇ⼶ㄫ</rt></ruby>: to invent.
 
 ### Labor & Institutions

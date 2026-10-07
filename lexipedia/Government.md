@@ -39,6 +39,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 - <ruby>[王位](../words/王位.md)<rt>⺢ㄫ⼔ㄧ</rt></ruby>: the throne.
 - <ruby>[帝位](../words/帝位.md)<rt>ㄊㄝㄧ⼔ㄧ</rt></ruby>: the imperial throne — the throne of an emperor (帝), one tier above [[王位]]'s throne of a king, reflecting the Qin title 皇帝 that placed the emperor above kings.
+- <ruby>[君主](../words/君主.md)<rt>ㄍㄨㄋㄐㄨ</rt></ruby>: a monarch — 君 "lord" + 主 "master."
 - <ruby>[冠冕](../words/冠冕.md)<rt>ㄍ⺢ㄋㄇ⼶ㄋ</rt></ruby>: a crown, ceremonial or official headwear — the classical ritual cap of rulers and high officials (the 冕 of the Zhou court), and by extension the insignia of high office itself; more literary than [[王冠]], the plain word for a monarch's crown.
 - <ruby>[王朝](../words/王朝.md)<rt>⺢ㄫㄐㄚㄨ</rt></ruby>: a dynasty, reign, court.
 - <ruby>[朝廷](../words/朝廷.md)<rt>ㄐㄚㄨㄉㄝㄫ</rt></ruby>: the imperial or royal court — the ruler together with the officials who govern in his name, as the centre of government; distinct from [[宮廷]] (the palace and the ruler's household, housed on [Buildings](../lexipedia/Buildings.md)) and from [[王朝]] (a dynasty).
@@ -155,6 +156,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
 - <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
 - <ruby>[抜擢](../words/抜擢.md)<rt>ㄅㄚㄊㄐㄛㄎ</rt></ruby>: to select for promotion, single out for advancement — to pick someone out of the ranks and raise them to a post, on the strength of their ability (若手を抜擢する, "to promote a young talent"); an appointment by selection, where [[晋升]] is promotion in rank.
+- <ruby>[選抜](../words/選抜.md)<rt>ㄙ⼔ㄋㄅㄚㄊ</rt></ruby>: to select as the best, selection — 選 "choose" + 抜 "pull out."
 - <ruby>[孝廉](../words/孝廉.md)<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby>: "filial and incorrupt" — the Han recommendation category (from 134 BC) by which each commandery nominated men of filial devotion and incorruptibility for office, and the name for a candidate so recommended; a nomination route before examinations, where [[抜擢]] is selecting for promotion.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust.
 - <ruby>[受託](../words/受託.md)<rt>ㄙ⼜·ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.

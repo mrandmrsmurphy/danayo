@@ -27,6 +27,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[偏](../words/偏.md)<rt>ㄆ⼶ㄋ</rt></ruby>: slanted, tilted, off-center — [[直]]'s crooked counterpart; also figuratively "biased, partial" (偏見, "prejudice").
 - <ruby>[傾斜](../words/傾斜.md)<rt>ㄎㄝㄫㄙ⼘</rt></ruby>: a slope, gradient, incline — the measurable noun for obliqueness (傾斜角, "angle of inclination"), distinct from [[傾向]]'s own abstract drift/tendency.
 - <ruby>[北方](../words/北方.md)<rt>ㄅㄨㄎㄈㄚㄫ</rt></ruby>: north.
+- <ruby>[北部](../words/北部.md)<rt>ㄅㄨㄎㄅㄛㄨ</rt></ruby>: the north, a northern area.
 - <ruby>[南方](../words/南方.md)<rt>ㄋㄚㄇㄈㄚㄫ</rt></ruby>: south.
 - <ruby>[東方](../words/東方.md)<rt>ㄉㄛㄫㄈㄚㄫ</rt></ruby>: east.
 - <ruby>[方位](../words/方位.md)<rt>ㄈㄚㄫ⼔ㄧ</rt></ruby>: a direction, bearing, orientation — a point of the compass or the orientation of a building; the position in physical space, in geomancy (風水) given cosmological meaning; where [[方向]] is the direction of travel or aim.
@@ -50,6 +51,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 ### Sides & Edges
 
 - <ruby>[側面](../words/側面.md)<rt>ㄐㄧㄎㄇ⼶ㄋ</rt></ruby>: a side, aspect, lateral side.
+- <ruby>[方面](../words/方面.md)<rt>ㄈㄚㄫㄇ⼶ㄋ</rt></ruby>: area, aspect, direction, field — the face of a direction, extended to an abstract "side."
 - <ruby>[沿](../words/沿.md)<rt>⼔ㄇ</rt></ruby>: an edge, side.
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: a side, edge, border.
 - <ruby>[地境](../words/地境.md)<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby>: a land boundary — the line where one territory or plot ends; narrower than [[辺界]]'s general edge, and not [[国境]] (a national border).

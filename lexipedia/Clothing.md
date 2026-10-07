@@ -50,6 +50,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 ### Cosmetics
 
 - <ruby>[化粧](../words/化粧.md)<rt>ㄏ⺢ㄐ⺢ㄫ</rt></ruby>: to put on make-up.
+- <ruby>[白粉](../words/白粉.md)<rt>ㄅㄚㄎㄈㄨㄋ</rt></ruby>: face powder, white powder — also drug slang for heroin in Chinese and Korean.
 - <ruby>[口紅](../words/口紅.md)<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>: lipstick.
 
 ### Textile Production & Care

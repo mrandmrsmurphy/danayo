@@ -116,6 +116,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 ### Vessels & Seafaring
 
 - <ruby>[船舶](../words/船舶.md)<rt>ㄙ⼔ㄇㄅㄚㄎ</rt></ruby>: boat, ship — the general term; also the `stand_in` that legitimizes the bound character [[船]] itself.
+- <ruby>[方舟](../words/方舟.md)<rt>ㄈㄚㄫㄐㄨ</rt></ruby>: an ark, esp. Noah's (挪亞方舟) — "rectangular vessel."
 - <ruby>[帆](../words/帆.md)<rt>ㄆㄚㄇ</rt></ruby>: a sail, a sailboat.
 - <ruby>[航行](../words/航行.md)<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby>: to sail, to navigate — doing double duty for both "sail" (the verb) and "navigation."
 - <ruby>[船尾](../words/船尾.md)<rt>ㄙ⼔ㄇㄇㄨㄧ</rt></ruby>: stern.

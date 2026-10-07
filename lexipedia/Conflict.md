@@ -42,6 +42,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[紛争](../words/紛争.md)<rt>ㄈㄜㄋㄐㄚㄫ</rt></ruby>: dispute, conflict.
 - <ruby>[紛](../words/紛.md)<rt>ㄈㄜㄋ</rt></ruby>: numerous, disorderly, chaotic — the bound adjectival root behind [[紛争]] above, from an original image of a tangle of threads (its own semantic component 糸, "silk").
 - <ruby>[衝](../words/衝.md)<rt>ㄑㄛㄫ</rt></ruby>: to collide, clash — both the literal physical sense and, in 衝突, the figurative "conflict, clash" sense.
+- <ruby>[撞](../words/撞.md)<rt>ㄊ⺢ㄫ</rt></ruby>: to hit, bump, collide.
 - <ruby>[抗争](../words/抗争.md)<rt>ㄏㄚㄫㄐㄚㄫ</rt></ruby>: to fight, contend.
 - <ruby>[闘争](../words/闘争.md)<rt>ㄉㄛㄨㄐㄚㄫ</rt></ruby>, <ruby>[奮闘](../words/奮闘.md)<rt>ㄈㄨㄋㄉㄛㄨ</rt></ruby>: to struggle, strive.
 - <ruby>[刺激](../words/刺激.md)<rt>ㄑㄧㄎㄍㄝㄎ</rt></ruby>: to provoke, irritate.
@@ -96,6 +97,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Victory, Loss & Defeat
 
 - <ruby>[受賞](../words/受賞.md)<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby>: to win an award, to be awarded.
+- <ruby>[凌駕](../words/凌駕.md)<rt>ㄌㄜㄫㄍㄚ</rt></ruby>: to surpass, override — "to ride over."
 - <ruby>[損失](../words/損失.md)<rt>ㄙㄛㄋㄙㄧㄊ</rt></ruby>: loss, to lose. See Semantic Range Notes.
 - <ruby>[滅失](../words/滅失.md)<rt>ㄇㄝㄊㄙㄧㄊ</rt></ruby>: to lose (legal: total destruction of property). See Semantic Range Notes.
 - <ruby>[自失](../words/自失.md)<rt>ㄐㄧㄜㄙㄧㄊ</rt></ruby>: to lose oneself, to be dazed, stunned. See Semantic Range Notes.

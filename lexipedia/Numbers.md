@@ -125,6 +125,7 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby>: number, numeral, digit.
 - <ruby>[乗数](../words/乗数.md)<rt>ㄙㄨㄫㄙㄨ</rt></ruby>: multiplier — the *b* in *a* × *b*, as distinct from 被乗数, the multiplicand.
 - <ruby>[自乗](../words/自乗.md)<rt>ㄐㄧㄜㄙㄨㄫ</rt></ruby>: to square (a number) — literally "multiply by itself."
+- <ruby>[平方](../words/平方.md)<rt>ㄅ⼶ㄫㄈㄚㄫ</rt></ruby>: squared, second power; the "square-" prefix for area units.
 - <ruby>[階乗](../words/階乗.md)<rt>ㄍ⼶ㄧㄙㄨㄫ</rt></ruby>: factorial (*n*!), the product of all positive integers up to *n*.
 - <ruby>[剰余](../words/剰余.md)<rt>ㄙㄧㄫ⼄</rt></ruby>: remainder, surplus.
 

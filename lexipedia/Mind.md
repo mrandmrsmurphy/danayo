@@ -24,7 +24,9 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: the brain — see [[Body]] for its own citation there.
 - <ruby>[精神](../words/精神.md)<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby>: spirit, mind, psyche.
+- <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
+- <ruby>[内心](../words/内心.md)<rt>ㄋㄛㄧㄙㄧㄇ</rt></ruby>: inner heart, intention, thought — 内 "inside" + 心 "heart."
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.

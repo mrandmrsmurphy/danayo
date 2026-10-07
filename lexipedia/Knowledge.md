@@ -21,6 +21,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby>: to know; knowledge.
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
+- <ruby>[卒業](../words/卒業.md)<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby>: to graduate, graduation — completion of studies.
 - <ruby>[先生](../words/先生.md)<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>: Mr., sir; teacher.
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
 - <ruby>[学習](../words/学習.md)<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>: to study, to learn.

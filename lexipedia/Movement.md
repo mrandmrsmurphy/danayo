@@ -131,6 +131,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[埋葬](../words/埋葬.md)<rt>ㄇ⼶ㄐㄚㄫ</rt></ruby>: to bury, inter — the funerary sense.
 - <ruby>[埋蔵](../words/埋蔵.md)<rt>ㄇ⼶ㄑㄚㄫ</rt></ruby>: to bury, conceal, store underground — treasure or a secret, not a body.
 - <ruby>[彷徨](../words/彷徨.md)<rt>ㄆㄚㄫㄏ⺢ㄫ</rt></ruby>: to wander.
+- <ruby>[徘徊](../words/徘徊.md)<rt>ㄈㄛㄧㄏㄛㄧ</rt></ruby>: to loiter, pace about — a 聯綿詞 binome; 徘 and 徊 are bound.
 - <ruby>[爬行](../words/爬行.md)<rt>ㄅㄚㄏㄚㄫ</rt></ruby>: to crawl.
 - <ruby>[散歩](../words/散歩.md)<rt>ㄙㄚㄇㄅㄛ</rt></ruby>: to walk, stroll — leisurely, not walking as opposed to running.
 - <ruby>[履](../words/履.md)<rt>ㄌㄧㄜ</rt></ruby>: to tread on, tread with.

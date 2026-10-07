@@ -24,6 +24,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - also, too : <ruby>[且](../words/且.md)<rt>ㄑㄛ</rt></ruby>
 - and, with (nominal conjunction, joining nouns/noun phrases) : <ruby>[与](../words/与.md)<rt>⼄</rt></ruby>
 - and, but, yet (clausal conjunction, joining clauses or predicates) : <ruby>[而](../words/而.md)<rt>ㄋㄧ</rt></ruby>
+- moreover, furthermore, and also (additive-reinforcing; stronger than 而 alone) : <ruby>[而且](../words/而且.md)<rt>ㄋㄧㄑㄛ</rt></ruby>
 - but, however, yet, only : <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby>
 - but (classical/literary register) : <ruby>[乃](../words/乃.md)<rt>ㄋㄚㄧ</rt></ruby>
 - if, supposing that : <ruby>[若](../words/若.md)<rt>ㄋ⼘</rt></ruby>
@@ -159,6 +160,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[感詞](../words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> "interjection"
+- <ruby>[擬詞](../words/擬詞.md)<rt>ㄧㄙㄚ</rt></ruby> "ideophone"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
 - <ruby>[為](../words/為.md)<rt>⼔ㄋ</rt></ruby> "for, because of, to act as, namely (co-verb: 因為, 'because'; 為了, 'in order to') — not the same as the still-uncoined clause-linking conjunction 'because,' above"
@@ -215,6 +217,8 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - Vietnamese (language), the short Sinitic name beside the full [[越南語]] (homophone of [[粤語]]) : <ruby>[越語](../words/越語.md)<rt>⼔ㄊ⼄</rt></ruby>
 - Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
+- foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
+- Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 - source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>
 - CJKV (Chinese, Japanese, Korean, Vietnamese — the standard Sinographic initialism for the four cultures/languages this vault's own project is built around) : <ruby>[中日韓越](../words/中日韓越.md)<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby>
 - gender, form: not yet coined.
@@ -237,6 +241,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[減字](../words/減字.md)<rt>ㄍㄚㄇㄐㄧ</rt></ruby> "character reduction"
 - <ruby>[篆書](../words/篆書.md)<rt>ㄐ⼔ㄋㄙ⼄</rt></ruby> "seal script"
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
+- <ruby>[新字体](../words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai, the simplified character forms standardized in Japan from 1946"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
 - <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"

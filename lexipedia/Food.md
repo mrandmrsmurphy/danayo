@@ -48,6 +48,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 ### Rice Bowl Dishes
 
 - <ruby>[牛井](../words/牛井.md)<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby>: gyudon, a beef rice bowl.
+- <ruby>[牛乳](../words/牛乳.md)<rt>ㄋ⼜·ㄋㄨ</rt></ruby>: cow's milk — "cow" + "milk."
 - <ruby>[親子井](../words/親子井.md)<rt>ㄑㄧㄋㄐㄜㄐㄧㄫ</rt></ruby>: oyakodon, a chicken and egg rice bowl.
 - <ruby>[豚井](../words/豚井.md)<rt>ㄊㄨㄋㄐㄧㄫ</rt></ruby>: butadon, a pork rice bowl.
 
@@ -98,6 +99,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 ### Fruits & Produce
 
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry.
+- <ruby>[苹果](../words/苹果.md)<rt>ㄈㄝㄫㄍ⺢</rt></ruby>: an apple — the word varies across the Sinosphere.
 - <ruby>[桜桃](../words/桜桃.md)<rt>ㄚㄫㄉㄚㄨ</rt></ruby>: a cherry.
 - <ruby>[李子](../words/李子.md)<rt>ㄌㄧㄐㄜ</rt></ruby>: a plum.
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.

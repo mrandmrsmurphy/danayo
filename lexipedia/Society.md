@@ -22,6 +22,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
 - <ruby>[同意](../words/同意.md)<rt>ㄉㄛㄫㄜ</rt></ruby>: to agree, consent.
+- <ruby>[肯](../words/肯.md)<rt>ㄎㄨㄫ</rt></ruby>: to agree, be willing — a modal-like verb taking a verbal complement.
 - <ruby>[一致](../words/一致.md)<rt>ㄧㄊㄑㄧㄜ</rt></ruby>: to be unanimous, to agree, coincide — a broader "align, match, correspond" than [[同意]]'s individual act of consenting; used for opinions converging, not one person granting permission.
 - <ruby>[群衆](../words/群衆.md)<rt>ㄍㄨㄋㄐㄨㄫ</rt></ruby>: crowd, masses.
 - <ruby>[一処](../words/一処.md)<rt>ㄧㄊㄑㄛ</rt></ruby>: together, in one place.
@@ -107,6 +108,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[下位](../words/下位.md)<rt>ㄏㄚ⼔ㄧ</rt></ruby>: low rank, a subordinate position — [[上位]]'s direct antonym, completing the pair that frames all of Dan'a'yo's ranking/hierarchy vocabulary.
 - <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
 - <ruby>[輩](../words/輩.md)<rt>ㄈㄛㄧ</rt></ruby>: a generation — by extension, a peer-group, cohort, "people of a kind" (先輩/後輩, "senior/junior"; 同輩, "a peer, age-mate").
+- <ruby>[長上](../words/長上.md)<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby>: elders and superiors — seniority by age and by rank.
 
 ### Character & Civic Virtue
 
@@ -164,6 +166,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[賛美](../words/賛美.md)<rt>ㄐㄚㄋㄇㄧ</rt></ruby>: to praise, admire, extol.
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
 - <ruby>[歌頌](../words/歌頌.md)<rt>ㄍㄜㄙ⼄ㄫ</rt></ruby>: to extol, praise, laud.
+- <ruby>[巧言](../words/巧言.md)<rt>ㄎ⼘ㄨㄝㄋ</rt></ruby>: flattery, clever but deceptive talk — Confucius's 巧言令色.
 - <ruby>[褒](../words/褒.md)<rt>ㄆㄚㄨ</rt></ruby>: to praise.
 - <ruby>[賞](../words/賞.md)<rt>ㄙ⼘ㄫ</rt></ruby>: a reward, prize — also "to admire, to enjoy" (鑑賞, "to appreciate [art]"; 賞賛, "praise").
 - <ruby>[傑出](../words/傑出.md)<rt>ㄍㄝㄊㄑㄨㄊ</rt></ruby>: remarkable, outstanding, brilliant — a person or achievement that stands out from the ordinary (傑出人才, "outstanding talent").
@@ -282,6 +285,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[嬉遊](../words/嬉遊.md)<rt>ㄏㄧ⼜ㄛ</rt></ruby>: to play, frolic, enjoy oneself.
 - <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race.
 - <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: sport, exercise, movement.
+- <ruby>[台球](../words/台球.md)<rt>ㄉㄚㄧㄍ⼜</rt></ruby>: billiards, pool — the Mainland Mandarin name.
 - <ruby>[得点](../words/得点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a score.
 - <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
 - <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.

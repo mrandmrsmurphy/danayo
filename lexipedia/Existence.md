@@ -114,6 +114,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 ### Lack, Necessity & Stability
 
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential (its negative counterpart is <ruby>[不用](../words/不用.md)<rt>ㄅㄛㄊ⼄ㄫ</rt></ruby>, "not necessary, unused, useless").
+- <ruby>[必須](../words/必須.md)<rt>ㄅㄧㄊㄙㄨ</rt></ruby>: essential, a must — 必 "surely" + 須 "indispensable."
 - <ruby>[欠乏](../words/欠乏.md)<rt>ㄎ⼘ㄇㄅㄚㄆ</rt></ruby> / <ruby>[欠缺](../words/欠缺.md)<rt>ㄎ⼘ㄇㄎ⼔ㄊ</rt></ruby>: to lack, be deficient — near-synonyms alongside Core [[無]] above.
 - <ruby>[用尽](../words/用尽.md)<rt>⼄ㄫㄐㄧㄋ</rt></ruby>: to exhaust, use up.
 - <ruby>[安定](../words/安定.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: stable, settled (its negative counterpart is <ruby>[不穏](../words/不穏.md)<rt>ㄅㄛㄊ·ㄛㄋ</rt></ruby>, "unstable, unsettled, ominous").
@@ -127,6 +128,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[普及](../words/普及.md)<rt>ㄆㄛㄍㄨㄆ</rt></ruby>: to spread widely, popularize, become universal — deliberate/aspirational diffusion, contrasted with [[波及]]'s involuntary ripple-effect spread.
 - <ruby>[及](../words/及.md)<rt>ㄍㄨㄆ</rt></ruby>: to reach out to, extend to — the bound root behind [[普及]] above.
 - <ruby>[同一](../words/同一.md)<rt>ㄉㄛㄫㄧㄊ</rt></ruby>: same, identical — ties directly to Core [[是]]'s identity sense.
+- <ruby>[差異](../words/差異.md)<rt>ㄑㄚㄧ</rt></ruby>: a difference, distinction — the noun-register word for "discrepancy."
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[不均](../words/不均.md)<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby>: uneven, unequal, imbalanced — [[平等]]'s negation (貧富不均 "inequality between rich and poor," 発展不均 "uneven development").
 - <ruby>[天地之別](../words/天地之別.md)<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby>: a world of difference, the gulf between heaven and earth — a contrast so extreme that the two things seem to belong to different orders of being; the fully compositional form (天地 + 之 + 別), next to the more fixed 天壤之別.

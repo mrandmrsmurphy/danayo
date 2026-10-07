@@ -16,6 +16,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
+- <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with 奥 rather than the real-world 澳.
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.

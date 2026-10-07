@@ -33,6 +33,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [[魚類]] above, the class).
 - <ruby>[鮎](../words/鮎.md)<rt>ㄋㄝㄇ</rt></ruby>: a catfish, sheatfish in its original Chinese sense — Japanese uniquely reinterprets the same character for あゆ (ayu, "sweetfish"), an entirely different fish.
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
+- <ruby>[蛞蝓](../words/蛞蝓.md)<rt>ㄎ⺢ㄊ⼜ㄇ</rt></ruby>: a slug — the formal/biological term.
 - <ruby>[寵物](../words/寵物.md)<rt>ㄑㄛㄫㄇㄨㄊ</rt></ruby>: pet, favored animal.
 - <ruby>[匹](../words/匹.md)<rt>ㄆㄧㄊ</rt></ruby>: counter word for animals.
 
@@ -211,6 +212,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[焦明](../words/焦明.md)<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby>: jiaoming, a legendary phoenix-like bird of the south.
 - <ruby>[九尾狐](../words/九尾狐.md)<rt>ㄎ⼜·ㄇㄨㄧㄏㄛ</rt></ruby>: the nine-tailed fox — a shapeshifting spirit-fox found across Chinese, Japanese (kyūbi no kitsune), and Korean (kumiho) folklore, with a notably darker reputation in the Korean tradition than the Chinese or Japanese ones.
 - <ruby>[孫悟空](../words/孫悟空.md)<rt>ㄙㄛㄋ·ㄛ·ㄎㄛㄫ</rt></ruby>: the Monkey King, the trickster protagonist of *Journey to the West*.
+- <ruby>[猪八戒](../words/猪八戒.md)<rt>ㄐㄛㄅㄚㄊㄍ⼶</rt></ruby>: Zhu Bajie, "Pigsy," disciple in Journey to the West.
+- <ruby>[沙悟浄](../words/沙悟浄.md)<rt>ㄙㄚㄛㄐㄝㄫ</rt></ruby>: Sha Wujing, the sand-monk river demon of Journey to the West.
 - <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
 - <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
 - <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.

@@ -35,6 +35,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 ### Fabric
 
 - <ruby>[絹](../words/絹.md)<rt>ㄍ⼔ㄋ</rt></ruby>: silk. See [Clothing](../lexipedia/Clothing.md) for its own citation there.
+- <ruby>[繭](../words/繭.md)<rt>ㄍ⼶ㄇ</rt></ruby>: a cocoon — the silkworm's; Japanese distinguishes more finely.
 - <ruby>[布帛](../words/布帛.md)<rt>ㄅㄛㄅㄚㄎ</rt></ruby>: silk, textiles — a broader textile sense than [[絹]]'s pure silk fabric. See [Clothing](../lexipedia/Clothing.md) for its own citation there.
 
 ### Particulate & Grime
@@ -43,6 +44,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[灰塵](../words/灰塵.md)<rt>ㄏㄛㄧㄐㄧㄋ</rt></ruby>: dust, ashes — specifically ash-dust, distinct from [[塵埃]]'s general grime.
 - <ruby>[汚垢](../words/汚垢.md)<rt>ㄛㄍㄛㄨ</rt></ruby>: dirt, grime, filth — grime on skin or surfaces.
 - <ruby>[汚物](../words/汚物.md)<rt>ㄛ·ㄇㄨㄊ</rt></ruby>: dirt, filth, garbage — a cruder register than [[汚垢]], closer to waste matter.
+- <ruby>[汚穢](../words/汚穢.md)<rt>ㄛㄝ</rt></ruby>: filthy, filth — a synonym doublet.
 - <ruby>[汚染](../words/汚染.md)<rt>ㄛ·ㄋ⼄ㄇ</rt></ruby>: to pollute, contaminate — the verb of spreading filth, as opposed to [[汚垢]]/[[汚物]]'s static grime.
 - <ruby>[泥](../words/泥.md)<rt>ㄋㄝㄧ</rt></ruby>: mud — wet earth, distinct from the dry particulate words above.
 - <ruby>[壌土](../words/壌土.md)<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby>: loam, loamy soil — rich, crumbly farmland soil, a balanced mix of sand, silt and clay; the stand-in for the bound character 壌 ("soil"), here as cultivated earth rather than mud ([[泥]]) or bare ground ([[土]]).
@@ -57,6 +59,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[材料](../words/材料.md)<rt>ㄑㄚㄧㄌ⼘ㄨ</rt></ruby>: material, stuff, abstracta — see [Physics](../lexipedia/Physics.md) for its own citation there.
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree. See [Plants](../lexipedia/Plants.md) for its own citation there.
 - <ruby>[炭](../words/炭.md)<rt>ㄊㄚㄋ</rt></ruby>: coal, charcoal — also, bound in 炭素, "carbon."
+- <ruby>[煤](../words/煤.md)<rt>ㄇㄛㄧ</rt></ruby>: coal, soot — originally "soot," later "coal."
 - <ruby>[薄膜](../words/薄膜.md)<rt>ㄅㄚㄎㄇㄚㄎ</rt></ruby>: membrane, thin film — a thin layer of material, whether biological or manufactured.
 - <ruby>[脂膏](../words/脂膏.md)<rt>ㄐㄧㄜㄍㄚㄨ</rt></ruby>: grease, fat, oil — rendered animal fat and rich oil; a literary compound, also figuratively the wealth drawn from the people (民脂民膏); the stand-in for the bound character 膏.
 - <ruby>[膠水](../words/膠水.md)<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby>: glue, liquid adhesive — a sticky liquid used to bond surfaces; the stand-in for the bound character 膠 (glue, originally the animal-hide glue).

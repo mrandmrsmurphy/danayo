@@ -179,6 +179,7 @@ language: English
 ## Additions Beyond Rosenfelder's List
 
 - <ruby>[要塞](../words/要塞.md)<rt>⼄ㄨㄙㄚㄧ</rt></ruby>: fortress, stronghold — a genuine building-type concept Rosenfelder's own list never named explicitly, unlike "castle" or "prison" above.
+- <ruby>[堡塁](../words/堡塁.md)<rt>ㄅㄚㄨㄌㄨㄧ</rt></ruby>: a fortress, stronghold — 堡 "fort" + 塁 "rampart."
 - <ruby>[寓居](../words/寓居.md)<rt>ㄨㄍㄧ</rt></ruby>: lodging, a temporary dwelling.
 - <ruby>[磚石](../words/磚石.md)<rt>ㄐㄝㄋㄙㄝㄎ</rt></ruby>: bricks and stones, construction material.
 - <ruby>[畳](../words/畳.md)<rt>ㄉㄝㄆ</rt></ruby>: a tatami mat, folding mat — a genuine flooring/matting item Rosenfelder's own "carpet"/"mattress" entries don't cover (both "no clean consensus," above).

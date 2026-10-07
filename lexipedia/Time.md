@@ -129,6 +129,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 - <ruby>[晩](../words/晩.md)<rt>ㄇㄛㄋ</rt></ruby>: evening.
 - <ruby>[夜](../words/夜.md)<rt>⼘</rt></ruby>: night — the bare word (昼夜, "day and night").
 - <ruby>[昼夜](../words/昼夜.md)<rt>ㄐㄨㄛ⼘</rt></ruby>: day and night, around the clock — a 24-hour span, used of continuous activity without stop; attested in Mandarin, Cantonese, Japanese and Korean.
+- <ruby>[夜半](../words/夜半.md)<rt>⼘ㄅㄚㄋ</rt></ruby>: midnight — the midpoint of the night (楓橋夜泊).
 - <ruby>[今夜](../words/今夜.md)<rt>ㄍㄧㄇ·⼘</rt></ruby>: tonight.
 - <ruby>[今朝](../words/今朝.md)<rt>ㄍㄧㄇㄐㄚㄨ</rt></ruby>: this morning — not to be confused with [[今朝安]] "good morning," the same-family greeting coinage.
 - <ruby>[日暮](../words/日暮.md)<rt>ㄋㄧㄊㄇㄛ</rt></ruby>: dusk.
