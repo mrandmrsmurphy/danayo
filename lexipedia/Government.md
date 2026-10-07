@@ -79,6 +79,8 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[尉](../words/尉.md)<rt>ㄨㄊ</rt></ruby>: an officer (military rank).
 - <ruby>[将校](../words/将校.md)<rt>ㄐ⺢ㄫㄏ⼘ㄨ</rt></ruby>: a commissioned officer.
 - <ruby>[将軍](../words/将軍.md)<rt>ㄐ⺢ㄫㄍㄨㄋ</rt></ruby>: a shogun, supreme commander.
+- <ruby>[提督](../words/提督.md)<rt>ㄙㄝㄉㄛㄎ</rt></ruby>: an admiral — the senior naval commander who oversees and directs a fleet; a title that entered East Asian navies with their nineteenth-century modernization, beside [[将軍]], the supreme commander.
+- <ruby>[僕射](../words/僕射.md)<rt>ㄅㄛㄎㄙ⼘</rt></ruby>: Vice Director — originally the Qin chief steward over the ruler's household archers, later a powerful office of the Department of State Affairs (尚書左僕射 and 尚書右僕射); 射 takes the exceptional reading yè here, consistently across the sphere.
 - <ruby>[首領](../words/首領.md)<rt>ㄙ⼜ㄌㄧㄫ</rt></ruby>: a supreme leader, chief.
 - <ruby>[部長](../words/部長.md)<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>: a head, chief, secretary, minister.
 - <ruby>[汚吏](../words/汚吏.md)<rt>ㄛㄌㄧ</rt></ruby>: a corrupt official.
@@ -150,6 +152,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
 - <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
 - <ruby>[抜擢](../words/抜擢.md)<rt>ㄅㄚㄊㄐㄛㄎ</rt></ruby>: to select for promotion, single out for advancement — to pick someone out of the ranks and raise them to a post, on the strength of their ability (若手を抜擢する, "to promote a young talent"); an appointment by selection, where [[晋升]] is promotion in rank.
+- <ruby>[孝廉](../words/孝廉.md)<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby>: "filial and incorrupt" — the Han recommendation category (from 134 BC) by which each commandery nominated men of filial devotion and incorruptibility for office, and the name for a candidate so recommended; a nomination route before examinations, where [[抜擢]] is selecting for promotion.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust.
 - <ruby>[受託](../words/受託.md)<rt>ㄙ⼜·ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.
 - <ruby>[嘱託](../words/嘱託.md)<rt>ㄐㄛㄎㄊㄚㄎ</rt></ruby>: a commission; to entrust, consign.
@@ -162,6 +165,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[諌議](../words/諌議.md)<rt>ㄍ⼘ㄋㄜㄧ</rt></ruby>, <ruby>[輔佐](../words/輔佐.md)<rt>ㄅㄨㄐㄚ</rt></ruby>, <ruby>[輔弼](../words/輔弼.md)<rt>ㄅㄨㄅㄧㄊ</rt></ruby>: to remonstrate, admonish, or assist a ruler.
 - <ruby>[伺候](../words/伺候.md)<rt>ㄙㄧㄏㄛㄨ</rt></ruby>: to wait upon, serve, attend to a master or superior — now covers this domain's own flagged "to serve" gap.
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
+- <ruby>[改革](../words/改革.md)<rt>ㄍㄚㄧㄎㄧㄎ</rt></ruby>: reform — a deliberate, structural change to a system, institution or policy (economic reform, land reform); the gradual, institutional counterpart to 革命, revolution, as its Notes explain.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.
 - <ruby>[勅令](../words/勅令.md)<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby>: an imperial edict, decree — a command issued in the throne's own name, the highest register of order (the historical imperial edict in Chinese, the Joseon royal decree in Korean, a cabinet order issued in the emperor's name in prewar Japan); what [[頒布]] and [[諭示]] promulgate.
 - <ruby>[詔書](../words/詔書.md)<rt>ㄐㄛㄨㄙ⼄</rt></ruby>: an imperial edict — the written proclamation issued by an emperor; a stable pan-Sinospheric term for the document itself, where [[勅令]] names the command; the stand-in for the bound character 詔.

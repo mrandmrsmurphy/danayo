@@ -54,6 +54,9 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia — the fuller, classical transliteration used historically for the cultural/civilizational sense (Asian peoples, Pan-Asianism), distinct from [[亜洲]]'s plain geographic landmass sense.
 - <ruby>[儒学](../words/儒学.md)<rt>ㄋㄨㄏㄚㄎ</rt></ruby>: Confucianism — framed as a field of study, the academic/scholarly tradition.
 - <ruby>[儒教](../words/儒教.md)<rt>ㄋㄨㄍ⼄ㄨ</rt></ruby>: Confucianism — an undocumented near-duplicate of [[儒学]], framed instead as a religious/moral teaching.
+- <ruby>[法家](../words/法家.md)<rt>ㄈㄚㄆㄍㄚ</rt></ruby>: Legalism — the "school of law", one of the Hundred Schools of Thought, holding that order rests on clear public laws backed by strict rewards and punishments, not on the moral cultivation of the Confucians of [[儒学]]; associated with Shang Yang and the Qin.
+- <ruby>[諸子](../words/諸子.md)<rt>ㄐㄚㄐㄜ</rt></ruby>: the various masters — the collective name for the independent philosophers and teachers of the late Zhou (子 as the honorific of 孔子 and 老子); the thinkers themselves, where [[諸子百家]] adds their schools.
+- <ruby>[諸子百家](../words/諸子百家.md)<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby>: the Hundred Schools of Thought — the flowering of independent philosophy in the Spring and Autumn and Warring States periods (c. 770–221 BC), "hundred" being hyperbole; it ended with the Qin suppression and the later Confucian establishment. Vietnamese reverses the order to Bách Gia Chư Tử.
 - <ruby>[三綱](../words/三綱.md)<rt>ㄙㄚㄇㄍㄚㄫ</rt></ruby>: the Three Bonds — the Confucian doctrine of ruler–subject, father–son, and husband–wife relationships, each assigning a dominant and a subordinate role.
 - <ruby>[五倫](../words/五倫.md)<rt>ㄛㄌㄨㄋ</rt></ruby>: the Five Relationships — [[三綱]]'s fuller, more symmetrical counterpart, adding elder–younger sibling and friend–friend, the two pairs without a strict superior/subordinate structure.
 - <ruby>[五常](../words/五常.md)<rt>ㄛㄙ⼘ㄫ</rt></ruby>: the Five Constant Virtues (仁義禮智信) — the personal-virtue counterpart to [[五倫]]'s relational framework, almost always cited paired with [[三綱]] in the combined formula 三綱五常.
@@ -91,6 +94,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[公民](../words/公民.md)<rt>ㄍㄛㄫㄇㄧㄋ</rt></ruby>: citizen, civics.
 - <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄·ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
 - <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
+- <ruby>[奴家](../words/奴家.md)<rt>ㄋㄛㄍㄚ</rt></ruby>: a house of slavery, bondage — Dan'a'yo fixes this older, compositional sense (the Exodus "house of bondage"), not the Ming–Qing vernacular "I" used by women; its use is in the Biblical chengyu 引出奴家.
 - <ruby>[卑](../words/卑.md)<rt>ㄅㄝ</rt></ruby>: lowly, inferior — the quality itself (自卑, "to feel inferior"; the self-deprecating classical register of 卑職, "this humble official").
 - <ruby>[地位](../words/地位.md)<rt>ㄉㄧㄜ⼔ㄧ</rt></ruby>: status, social standing — a person's, nation's or institution's place in a hierarchy, the figurative "ground" one stands on; the position itself, where [[卑]] is the lowly quality.
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
@@ -116,6 +120,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[純篤](../words/純篤.md)<rt>ㄐㄨㄋㄉㄛㄎ</rt></ruby>: sincere, genuine and steadfast — pure in character and earnest in devotion; a literary word of praise for plain, unfeigned goodness, the opposite of the counterfeit virtue of [[偽善]].
 - <ruby>[謙遜](../words/謙遜.md)<rt>ㄎㄝㄇㄙㄛㄋ</rt></ruby>: humility, modesty — keeping a low estimate of oneself and deferring to others; the virtue opposite to [[傲慢]]'s pride, shown by self-effacement and by playing down one's own merits.
+- <ruby>[和敬](../words/和敬.md)<rt>ㄏ⺢ㄍ⼶ㄫ</rt></ruby>: harmony and respect — an attested compound, best known in Japanese as the first two of the four principles of the tea ceremony, 和敬清寂, attributed to Sen no Rikyū.
 - <ruby>[賢淑](../words/賢淑.md)<rt>ㄏㄝㄋㄙㄨㄎ</rt></ruby>: virtuous and wise, of refined character — the classical praise-word for a cultivated woman; the stand-in for the bound character 淑.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: upright, honest, incorrupt — especially the virtue of resisting bribery (廉潔, 清廉); a secondary sense, "cheap, low-priced," is housed on [Trade](../lexipedia/Trade.md).
@@ -244,6 +249,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[礼](../words/礼.md)<rt>ㄌㄝㄧ</rt></ruby>: manners.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
 - <ruby>[五礼](../words/五礼.md)<rt>ㄛㄌㄝㄧ</rt></ruby>: the Five Rites — the classical Zhou-dynasty classification of all ceremony into auspicious, inauspicious (funerary), guest, military, and festive rites; first of the Six Arts (六芸, alongside [[五射]] on [War](../lexipedia/War.md)).
+- <ruby>[六楽](../words/六楽.md)<rt>ㄌㄨㄎㄌㄚㄎ</rt></ruby>: the Six Musics — the second of the Six Arts of Zhou noble education, six ceremonial dance-and-music suites from the 周禮; the 楽 here is read yuè (music), not lè (joy), as the Notes explain, and follows [[五礼]].
 - <ruby>[妥当](../words/妥当.md)<rt>ㄊㄚㄉㄚㄫ</rt></ruby>: appropriate, proper.
 - <ruby>[得体](../words/得体.md)<rt>ㄊㄜㄎㄊㄝㄧ</rt></ruby>: fitting to the thing's own nature; appropriate, proper, decent. See Semantic Range Notes.
 - <ruby>[圓融](../words/圓融.md)<rt>⼔ㄋ·⼜ㄫ</rt></ruby>: tact, tactful, diplomatically harmonious — Rosenfelder's "tact."

@@ -40,6 +40,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[霊魂](../words/霊魂.md)<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby>: spirit, ghost, soul — a broad umbrella term covering Christian, Buddhist, and secular usages of "soul" alike.
 - <ruby>[魂魄](../words/魂魄.md)<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby>: soul, spirit — specifically the paired hún (魂, the thinking/vital soul-component) and 魄 (the physical/bodily soul-component) of classical Chinese cosmology.
 - <ruby>[神霊](../words/神霊.md)<rt>ㄙㄧㄋㄌㄝㄫ</rt></ruby>: a spirit, divine/numinous force — an impersonal spiritual presence or efficacy, distinct from [[霊魂]]'s personal soul.
+- <ruby>[天神地祇](../words/天神地祇.md)<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby>: the gods of heaven and earth, all the gods — 天神 (heavenly deities) and 地祇 (earthly spirits of mountains, rivers and soil) together, a merism for the totality of divine beings, used in oaths and prayers (in Japanese Shinto in ritual norito); heavenly and earthly subsets of [[神霊]].
 - <ruby>[霊鬼](../words/霊鬼.md)<rt>ㄌㄝㄫㄍㄨㄧ</rt></ruby>: a ghost, malevolent spirit.
 - <ruby>[気息](../words/気息.md)<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby>: breath; spirit — the qi/vital-breath sense, distinct from the soul-words above.
 
@@ -52,6 +53,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[唄](../words/唄.md)<rt>ㄅㄚㄧ</rt></ruby>: a Buddhist chant, hymn — survives only bound in 梵唄 ("voice of Brahmā"), never as an independent word.
 - <ruby>[呪詛](../words/呪詛.md)<rt>ㄐㄨㄛㄐㄛ</rt></ruby>: a curse, spell — the malediction calling misfortune upon someone, distinct from [[呪文]]'s neutral formula.
 - <ruby>[加持](../words/加持.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: to bless, perform incantations — a Buddhist ritual empowerment.
+- <ruby>[芻狗](../words/芻狗.md)<rt>ㄑㄨㄍㄛㄨ</rt></ruby>: a straw dog — a ritual substitute for a sacrificial animal, honored during the rite and cast aside after (the Daodejing's "Heaven and Earth treat the ten thousand things as straw dogs"); figuratively, something valued while useful and then discarded.
 - <ruby>[福](../words/福.md)<rt>ㄈㄨㄎ</rt></ruby>: a blessing, good fortune — the noun, distinct from [[加持]]'s ritual verb.
 - <ruby>[儺](../words/儺.md)<rt>ㄋㄨㄛ</rt></ruby>: exorcism.
 - <ruby>[壇](../words/壇.md)<rt>ㄉㄚㄋ</rt></ruby>: an altar, raised platform — figuratively also "a field, circle of activity" (文壇, "literary circle"; 論壇, "forum").
@@ -88,16 +90,19 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Buddhist & Cosmological Concepts
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
+- <ruby>[観音](../words/観音.md)<rt>ㄍ⺢ㄋ·ㄨㄇ</rt></ruby>: Guanyin, Avalokiteśvara, the bodhisattva of mercy — short for 観世音, a translation ("the one who observes the sounds [of suffering beings]") rather than a transliteration of the Sanskrit; Japanese かんのん, Korean 관음, Vietnamese Quan Âm.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
 - <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").
 - <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
 - <ruby>[輪回](../words/輪回.md)<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby>: saṃsāra, the cycle of rebirth — the wheel of existence that Buddhist practice aims to escape; distinct from [[法輪]] (the wheel of dharma) and [[因縁]] (karma).
+- <ruby>[無色](../words/無色.md)<rt>ㄇㄜㄙㄧㄎ</rt></ruby>: formless — the standard rendering of Sanskrit arūpa, as in 無色界, the "formless realm", highest of the three realms of Buddhist cosmology; also plain "colorless" (see [Color](../lexipedia/Color.md)).
 - <ruby>[法輪](../words/法輪.md)<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby>: the wheel of dharma, the Buddhist symbol representing the Buddha's teaching.
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[無明](../words/無明.md)<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby>: avidyā, fundamental ignorance — the first of the Twelve Links of Dependent Origination; a Buddhist technical term, not everyday ignorance.
 - <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
+- <ruby>[嬴洲](../words/嬴洲.md)<rt>⼶ㄫㄐㄨㄛ</rt></ruby>: Yingzhou, one of the three legendary island-mountains of the Bohai Sea (with [[蓬莱]] and 方丈), home of the immortals and the elixir of life; often written 瀛洲, and a poetic image of Japan in later Chinese literature.
 - <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
 - <ruby>[人間](../words/人間.md)<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby>: the human world, this mortal realm — completing the three-tier cosmology with [[九天]] (heaven) above and [[九泉]] (the underworld) below.
 - <ruby>[冥](../words/冥.md)<rt>ㄇㄝㄫ</rt></ruby>: dark, gloomy — leaning toward the underworld specifically (冥界/冥府, "the underworld, the afterlife"; [[冥王]], "King of the Underworld"), distinct from [Light](../lexipedia/Light.md)'s own plain [[暗]] for literal darkness.

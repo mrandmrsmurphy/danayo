@@ -15,6 +15,8 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[星](../words/星.md)<rt>ㄙㄝㄫ</rt></ruby>: a star — also covers planets and moons in ordinary usage. See Semantic Range Notes.
+- <ruby>[牛郎](../words/牛郎.md)<rt>ㄋ⼜ㄌㄚㄫ</rt></ruby>: the Cowherd Boy of the Cowherd and Weaver Girl legend, whose name is carried by the star Altair (牛郎星) across the Milky Way from 織女 (Vega); the Qixi, Tanabata and Chilseok story.
+- <ruby>[織女](../words/織女.md)<rt>ㄐㄧㄎㄋㄜ</rt></ruby>: the Weaver Girl of the legend with [[牛郎]], whose name is carried by the star Vega (織女星); the weaving goddess of Qixi, Tanabata (Orihime) and Chilseok (직녀).
 - <ruby>[太陽](../words/太陽.md)<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby>: the sun.
 - <ruby>[太陰](../words/太陰.md)<rt>ㄊㄚㄧㄧㄇ</rt></ruby>: the moon.
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: Earth.

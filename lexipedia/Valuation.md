@@ -64,6 +64,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[絢乱](../words/絢乱.md)<rt>ㄏ⼔ㄋㄌㄚㄋ</rt></ruby>: gorgeous, dazzling — brilliantly colourful and elaborate to the eye; written with 乱 in place of the usual 爛 of 絢爛, as its Notes explain, and able to praise or tip into gaudiness.
 - <ruby>[燦乱](../words/燦乱.md)<rt>ㄑㄚㄋㄌㄚㄋ</rt></ruby>: resplendent, glittering — shining with dazzling brilliance (sunlight on water, a star-strewn sky); written with 乱 standing in for the proper 爛, and the near-twin of [[絢乱]]: 燦乱 is brilliance of light, 絢乱 is brilliance of colour and pattern.
 - <ruby>[綽約](../words/綽約.md)<rt>ㄑㄚㄎ·⼘ㄎ</rt></ruby>: graceful, willowy — a literary word for a soft, supple elegance of bearing, said especially of women; an impressionistic binome built on sound as much as sense.
+- <ruby>[嬌眉](../words/嬌眉.md)<rt>ㄍ⼘ㄨㄇㄧㄜ</rt></ruby>: coquettish, charming, alluring — a deliberately charming, flirtatious manner, written with 眉 standing in for the rarer 媚 of the source spelling 嬌媚.
 - <ruby>[醜悪](../words/醜悪.md)<rt>ㄑㄨㄛㄚㄎ</rt></ruby>: ugly.
 - <ruby>[醜陋](../words/醜陋.md)<rt>ㄑㄨㄛㄌ⼘ㄨ</rt></ruby>: ugly, homely. See [Body](../lexipedia/Body.md) for its own citation there.
 

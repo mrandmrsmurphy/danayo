@@ -28,6 +28,7 @@ Dan'a'yo's basic color vocabulary is the classical Sinitic hue set shared across
 - <ruby>[七色](../words/七色.md)<rt>ㄑㄧㄊㄙㄧㄎ</rt></ruby>: the seven spectral colors, ROYGBIV — the full rainbow spectrum as a set concept.
 - <ruby>[五色](../words/五色.md)<rt>ㄛㄙㄧㄎ</rt></ruby>: the Five Colors — East Asian cosmology's five primaries (blue-green, red, yellow, white, black), each paired with a Five Element and a Five Direction ([[五方]]); distinct in kind from [[七色]]'s physical spectrum.
 - <ruby>[単色](../words/単色.md)<rt>ㄉㄚㄋㄙㄧㄎ</rt></ruby>: monochrome, single-color.
+- <ruby>[無色](../words/無色.md)<rt>ㄇㄜㄙㄧㄎ</rt></ruby>: colorless, formless — the absence of color (a colorless, transparent gas or glass); in Buddhist cosmology 無色界 is the formless realm (see [Religion](../lexipedia/Religion.md)), and in Japanese it also means unbiased, politically neutral.
 - <ruby>[彩色](../words/彩色.md)<rt>ㄑㄚㄧㄙㄧㄎ</rt></ruby>: colored (adjective).
 - <ruby>[多彩](../words/多彩.md)<rt>ㄉㄜㄑㄚㄧ</rt></ruby>: multicolored, vibrant, flamboyant — literally "many-colored."
 

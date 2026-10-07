@@ -129,6 +129,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[同一](../words/同一.md)<rt>ㄉㄛㄫㄧㄊ</rt></ruby>: same, identical — ties directly to Core [[是]]'s identity sense.
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[不均](../words/不均.md)<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby>: uneven, unequal, imbalanced — [[平等]]'s negation (貧富不均 "inequality between rich and poor," 発展不均 "uneven development").
+- <ruby>[天地之別](../words/天地之別.md)<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby>: a world of difference, the gulf between heaven and earth — a contrast so extreme that the two things seem to belong to different orders of being; the fully compositional form (天地 + 之 + 別), next to the more fixed 天壤之別.
 - <ruby>[類似](../words/類似.md)<rt>ㄌㄨㄧㄙㄚ</rt></ruby>: to resemble, similar, analogous.
 - <ruby>[彷彿](../words/彷彿.md)<rt>ㄆㄚㄫㄈㄨㄊ</rt></ruby>: to resemble, seem like; as if, seemingly — a faint, impressionistic resemblance, closer to "as if" than to [[類似]]'s plain "similar"; the stand-in for the bound character 彿.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: model, type, pattern — classification by kind, as with a product's model number.

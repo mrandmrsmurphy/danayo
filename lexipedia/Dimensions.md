@@ -117,6 +117,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[拡大](../words/拡大.md)<rt>ㄏ⺢ㄎㄉㄚㄧ</rt></ruby>: to expand, enlarge.
 - <ruby>[拡張](../words/拡張.md)<rt>ㄏ⺢ㄎㄑㄚㄫ</rt></ruby>, <ruby>[延長](../words/延長.md)<rt>⼶ㄋㄐㄚㄫ</rt></ruby>: an expansion; to expand, extend, prolong.
 - <ruby>[膨脹](../words/膨脹.md)<rt>ㄆㄚㄫㄑㄚㄫ</rt></ruby>: to swell, bloat, inflate, expand.
+- <ruby>[適応](../words/適応.md)<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby>: adaptation, to adapt — to respond to changed circumstances by becoming suitable (適, suitable, + 応, respond); a noun that is also verbalized lightly into "to adapt".
 - <ruby>[縮](../words/縮.md)<rt>ㄙㄨㄎ</rt></ruby>: to shrink, contract — the direct opposite of the expand/swell cluster above, filling a real gap in this page's own "growth" vocabulary.
 - <ruby>[蔓延](../words/蔓延.md)<rt>ㄇㄚㄋ·⼶ㄋ</rt></ruby>: to spread, proliferate, extend (of disease or vegetation).
 - <ruby>[加多](../words/加多.md)<rt>ㄍㄚㄉㄜ</rt></ruby>: to add, augment, increase.

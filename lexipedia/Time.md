@@ -61,6 +61,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 
 - <ruby>[期間](../words/期間.md)<rt>ㄎㄧㄍㄚㄋ</rt></ruby>: a period, time, duration — the clean, general noun.
 - <ruby>[期](../words/期.md)<rt>ㄎㄧ</rt></ruby>: a period, time, season — bound and more general than [[期間]].
+- <ruby>[春秋時代](../words/春秋時代.md)<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby>: the Spring and Autumn period (770–476 BC) — the first sub-period of the Eastern Zhou, named after the 春秋 chronicle of Lu, when Zhou royal authority declined and states such as Qi, Jin, Chu and Qin competed for hegemony.
 - <ruby>[週期](../words/週期.md)<rt>ㄐㄨㄛㄎㄧ</rt></ruby>: a period, cycle — the recurring/cyclical sense, distinct from [[期間]]'s plain duration.
 - <ruby>[臨時](../words/臨時.md)<rt>ㄌㄧㄇㄙㄧ</rt></ruby>: temporary.
 - <ruby>[久](../words/久.md)<rt>ㄍ⼜</rt></ruby>: a long time, long-lasting — the basic root behind the whole duration family below ([[悠久]], [[恒久]]/[[永久]]).
@@ -69,6 +70,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[永久](../words/永久.md)<rt>ㄨㄧㄫㄍ⼜</rt></ruby>: eternal, perpetual, permanent — bridges [[恒久]]'s and [[永遠]]'s senses rather than being a strict duplicate of either.
 - <ruby>[千年](../words/千年.md)<rt>ㄑㄝㄋㄋㄝㄋ</rt></ruby>: a thousand years, millennium — a plain duration, not the counted unit [[千年紀]] (see [Calendar](../lexipedia/Calendar.md)).
 - <ruby>[万年](../words/万年.md)<rt>ㄇㄛㄋㄋㄝㄋ</rt></ruby>: ten thousand years; eternity, all ages — a hyperbolic durational idiom (compare English "forever") rather than a literal count, sitting atop the [[百年]]/[[千年]] family.
+- <ruby>[百年](../words/百年.md)<rt>ㄅㄚㄎㄋㄝㄋ</rt></ruby>: a hundred years — a plain durational compound for a length of time (not a fixed century), parallel to [[千年]] and [[万年]], idiomatically "a very long time, a lifetime" (百年大計, a hundred-year plan).
 - <ruby>[不断](../words/不断.md)<rt>ㄅㄛㄊㄉ⺢ㄋ</rt></ruby>: continuous, unending, without interruption — describes an ongoing process with no gaps (不断の努力, "ceaseless effort"), distinct from [[永遠]]/[[永久]]'s infinite-duration sense.
 
 ### Still & Continuation

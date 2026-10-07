@@ -132,6 +132,7 @@ language: English
 - hall - *(no clean consensus — Mandarin 大廳, Japanese native 広間, Korean loanword 홀)*
 - kitchen - <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>
 - roof - <ruby>[屋](../words/屋.md)<rt>ㄛㄎ</rt></ruby> — Dan'a'yo's own coinage choice for the bare noun, built on the shared component behind Mandarin 屋頂/Japanese 屋根 (Korean instead uses native 지붕); 屋 itself extends by compound to "house, building" and is especially productive as a shop/tradesperson suffix in Japanese (本屋, "bookshop"). The verb "to roof, to thatch" is the separate <ruby>[葺](../words/葺.md)<rt>ㄑㄨㄆ</rt></ruby>.
+- villa, country house - <ruby>[別野](../words/別野.md)<rt>ㄅㄝㄊ⼘</rt></ruby> (Dan'a'yo's spelling of Mandarin 別墅, with 野 standing in for 墅; distinct from the parallel [[別荘]])
 - room - <ruby>[房](../words/房.md)<rt>ㄅㄚㄫ</rt></ruby>
 - bathroom - <ruby>[浴室](../words/浴室.md)<rt>⼄ㄎㄙㄧㄊ</rt></ruby>
 - stair - <ruby>[階段](../words/階段.md)<rt>ㄍ⼶ㄧㄉ⺢ㄋ</rt></ruby>

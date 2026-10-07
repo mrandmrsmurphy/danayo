@@ -54,6 +54,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[或然](../words/或然.md)<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby>: probable, contingent — pairs with [[必然]] "necessary" the way classical logic contrasts the two.
 - <ruby>[蓋然](../words/蓋然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: highly probable, likely, plausible.
 - <ruby>[概然](../words/概然.md)<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby>: generally so, roughly true, broadly speaking — contrasts with "certain" above by degree of approximation, not likelihood.
+- <ruby>[大略](../words/大略.md)<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby>: roughly, in broad outline — an approximating adverb, and as a noun a rough outline or plan (雄才大略, "heroic talent and grand strategy"); about the level of detail rather than [[概然]]'s degree of probability.
 - <ruby>[大概](../words/大概.md)<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby>: for the most part, generally, approximately; also, loosely, "probably" — the everyday adverb in the same approximation register as [[概然]], not a graded-likelihood word.
 - <ruby>[偶然](../words/偶然.md)<rt>ㄛㄨㄋ⼶ㄋ</rt></ruby>: accidental, coincidental, random — chance itself, distinct from this cluster's own graded *likelihood* vocabulary (偶然性, "randomness, contingency").
 - <ruby>[当然](../words/当然.md)<rt>ㄉㄚㄫㄋ⼶ㄋ</rt></ruby>: of course, natural, inevitable — an epistemic-certainty adverb sitting near the top of this gradient, alongside [[必然]].
@@ -116,6 +117,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[大学生](../words/大学生.md)<rt>ㄉㄚㄧㄏㄚㄎㄙㄚㄫ</rt></ruby>: college student, undergrad.
 - <ruby>[宿題](../words/宿題.md)<rt>ㄙㄨㄎㄊㄝㄧ</rt></ruby>: homework, an assignment — the task carried home from school; also a pending problem.
 - <ruby>[小学](../words/小学.md)<rt>ㄙㄛㄏㄚㄎ</rt></ruby>: elementary learning, philology; elementary school.
+- <ruby>[太学](../words/太学.md)<rt>ㄊㄚㄧㄏㄚㄎ</rt></ruby>: the Imperial Academy — "the great school", the highest tier of classical education, founded in 124 BC under Emperor Wu of Han to train officials in the Confucian classics; the upper counterpart of [[小学]], and above regional academies like [[書院]].
 - <ruby>[小学校](../words/小学校.md)<rt>ㄙㄛㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: elementary school, primary school.
 - <ruby>[中学](../words/中学.md)<rt>ㄐㄨㄫㄏㄚㄎ</rt></ruby>: middle school, junior high school — the level-name short form of [[中学校]]; narrower than Chinese 中學, which spans all secondary school.
 - <ruby>[中学校](../words/中学校.md)<rt>ㄐㄨㄫㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: middle school, junior high school — completes the three-tier 小学校/中学校/高校 naming system formalized in Meiji-era Japan and spread across CJKV education vocabulary.

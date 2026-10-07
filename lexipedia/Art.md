@@ -39,6 +39,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[女優](../words/女優.md)<rt>ㄋㄜㄨㄛ</rt></ruby>: actress, female artist.
 - <ruby>[男優](../words/男優.md)<rt>ㄋㄚㄇ·ㄨㄛ</rt></ruby>: male artist, male actor.
 - <ruby>[芸人](../words/芸人.md)<rt>ㄝ·ㄋㄧㄋ</rt></ruby>: a performer.
+- <ruby>[舞妓](../words/舞妓.md)<rt>ㄇㄨㄍㄧ</rt></ruby>: a maiko, apprentice geisha, dancing entertainer — the apprentice of Kyoto's hanamachi who specializes in traditional dance, training to become a senior 芸妓 (geiko); a performer defined by dance (舞) rather than by the sex-worker sense of [[妓女]].
 - <ruby>[劇場](../words/劇場.md)<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>: cinema, theater (the venue).
 - <ruby>[演出](../words/演出.md)<rt>⼶ㄋㄑㄨㄊ</rt></ruby>: to perform, put on a show; to direct, stage-direct.
 - <ruby>[演奏](../words/演奏.md)<rt>⼶ㄋㄙㄛㄨ</rt></ruby>: to play (music).
@@ -82,6 +83,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[叢書](../words/叢書.md)<rt>ㄐㄛㄫㄙ⼄</rt></ruby>: book series, anthology.
 - <ruby>[楔子](../words/楔子.md)<rt>ㄙㄝㄊㄐㄜ</rt></ruby>: a prologue, interlude — a short framing piece "wedged in" before the main body of a work (the scene in Yuan zaju drama, the opening of vernacular novels); the figurative sense of the carpenter's wedge (see [Tools](../lexipedia/Tools.md)).
 - <ruby>[文学](../words/文学.md)<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>: literature (as a body of written work and an academic discipline). See Semantic Range Notes.
+- <ruby>[古文](../words/古文.md)<rt>ㄍㄛ·ㄇㄨㄋ</rt></ruby>: Classical Chinese, ancient text — the written language of the Zhou through Han periods in which the classics were composed; distinct from [[文言]], the more conservative literary register of later periods.
+- <ruby>[文言](../words/文言.md)<rt>ㄇㄨㄋ·ㄝㄋ</rt></ruby>: Literary Chinese, literary language — the conservative written register used from the end of the Han onward, broader than [[古文]], the language of the pre-Han classics; in Japanese and Korean also "wording", the phrasing of a text.
 - <ruby>[文献](../words/文献.md)<rt>ㄇㄨㄋㄏㄝㄋ</rt></ruby>: literature (scholarly/historical documents, references). See Semantic Range Notes.
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
@@ -165,6 +168,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
 - <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
 - <ruby>[古箏](../words/古箏.md)<rt>ㄍㄛㄐㄝㄫ</rt></ruby>: the guzheng, the long multi-stringed plucked Chinese zither — the "old 箏", ancestor of a family of East Asian zithers; the stand-in for the bound character 箏, distinct from the [[琴]] and [[瑟]] above.
+- <ruby>[提琴](../words/提琴.md)<rt>ㄙㄝㄍㄨㄇ</rt></ruby>: the violin family, bowed string instruments — a "held-up" stringed instrument played at the body or shoulder (小提琴 violin, 大提琴 cello); distinct from the table-laid zither [[琴]] (the guqin), whose name it shares in 琴.
 
 ### Martial Arts
 
@@ -172,6 +176,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
 - <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.
+- <ruby>[剣道](../words/剣道.md)<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby>: kendo, the Way of the Sword — the modern Japanese martial art of swordsmanship with the bamboo shinai and armour, descended from samurai kenjutsu; a path of self-cultivation like [[弓道]] and [[柔道]].
+- <ruby>[茶道](../words/茶道.md)<rt>ㄑㄚㄉㄚㄨ</rt></ruby>: the Way of Tea, tea ceremony — the formalised Japanese preparation and serving of powdered green tea, a dō discipline like [[弓道]] and [[剣道]], shaped by Sen no Rikyū's wabi-sabi.
 - <ruby>[気功](../words/気功.md)<rt>ㄎㄧㄜㄍㄛㄫ</rt></ruby>: qigong — a breath/energy-cultivation practice traditionally grouped with the martial arts above, though not itself a fighting art.
 - <ruby>[稽古](../words/稽古.md)<rt>ㄍㄝㄧㄍㄛ</rt></ruby>: practice, training in a traditional art or discipline (Japanese usage); classical "to examine antiquity" (source sense).
 
@@ -198,6 +204,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[礼記](../words/礼記.md)<rt>ㄌㄝㄧㄍㄧ</rt></ruby>: Book of Rites.
 - <ruby>[易経](../words/易経.md)<rt>⼶ㄎㄍㄝㄫ</rt></ruby>: Book of Changes.
 - <ruby>[書経](../words/書経.md)<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby>: Book of Documents.
+- <ruby>[尚書](../words/尚書.md)<rt>ㄙ⼘ㄫㄙ⼄</rt></ruby>: the Book of Documents, the older name of [[書経]] ("esteemed/ancient documents"); also, from Qin-Han times, the title of a court secretary and later the heads of the Six Ministries.
 - <ruby>[楽経](../words/楽経.md)<rt>ㄌㄚㄎㄍㄝㄫ</rt></ruby>: Classic of Music.
 - <ruby>[詩経](../words/詩経.md)<rt>ㄙㄧㄍㄝㄫ</rt></ruby>: Classic of Poetry.
 

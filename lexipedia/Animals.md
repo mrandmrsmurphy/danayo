@@ -137,6 +137,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[虎](../words/虎.md)<rt>ㄏㄛ</rt></ruby>: tiger.
 - <ruby>[獅子](../words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>: lion — also carries a secondary "bodhisattva" sense in this vault's own data (the lion is a recurring Buddhist iconographic symbol, e.g. 獅子吼 "lion's roar" for the Buddha's teaching), and shares an alias, 僧伽羅, with [[獅子国]] ("lion country," Sri Lanka).
 - <ruby>[熊](../words/熊.md)<rt>ㄨㄫ</rt></ruby>: bear.
+- <ruby>[袋熊](../words/袋熊.md)<rt>ㄉㄚㄧㄨㄫ</rt></ruby>: a wombat — the "bag-bear", named for its pouch; kept distinct from the koala [[樹袋熊]], with which it is sometimes loosely confused.
+- <ruby>[樹袋熊](../words/樹袋熊.md)<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby>: a koala — the "tree bag-bear", the arboreal counterpart of [[袋熊]] (Japanese コアラ and Korean 코알라 are loanwords from English).
 - <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎ·ㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.

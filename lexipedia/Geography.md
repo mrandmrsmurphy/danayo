@@ -10,6 +10,9 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
   - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
+- <ruby>[新羅](../words/新羅.md)<rt>ㄙㄧㄋㄌㄛ</rt></ruby>: Silla, the southeasternmost of the Three Kingdoms of Korea, traditionally founded in 57 BC at Gyeongju and surviving until 935; the Japanese reading しらぎ is the conventional historical one, not the on'yomi しんら.
+- <ruby>[高句麗](../words/高句麗.md)<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby>: Goguryeo, the northernmost of the Korean Three Kingdoms, traditionally founded in 37 BC in the Yalu basin and conquered in 668, a power in Manchuria as much as Korea; its Mandarin reading Gāogōulí has an irregular gōu for 句.
+- <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
@@ -20,6 +23,12 @@ Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚ�
 - <ruby>[蜀国](../words/蜀国.md)<rt>ㄙㄛㄎㄍㄛㄎ</rt></ruby>: Shu, the kingdom centred on the Sichuan basin — the generic name for several historical states there (the early Shu conquered by Qin, Shu-Han of the Three Kingdoms, and the Five Dynasties Shu kingdoms); a historical state, not a modern country.
 - <ruby>[愛媛](../words/愛媛.md)<rt>ㄚㄧㄛㄋ</rt></ruby>: Ehime, a prefecture of [[日本]] on the island of Shikoku.
 - <ruby>[栃木](../words/栃木.md)<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby>: Tochigi, a prefecture of [[日本]] in the Kantō region north of Tokyo, whose capital is Utsunomiya and which contains Nikkō; named for the horse-chestnut tree (栃) written with a Japan-made character.
+- <ruby>[秋田](../words/秋田.md)<rt>ㄑㄨㄛㄉㄝㄋ</rt></ruby>: Akita, a prefecture of [[日本]] in the Tōhoku region on the Sea of Japan coast of northern Honshu, and its capital; written "autumn field" and known for rice.
+- <ruby>[安土](../words/安土.md)<rt>ㄚㄋㄊㄛ</rt></ruby>: Azuchi, a hill on the eastern shore of Lake Biwa in Shiga Prefecture, site of Oda Nobunaga's Azuchi Castle (begun 1576); a native Japanese place name read あづち.
+- <ruby>[室町](../words/室町.md)<rt>ㄙㄧㄊㄊㄝㄫ</rt></ruby>: Muromachi, the Kyoto district of the Ashikaga shoguns' residence, which gave its name to the Muromachi period (1336–1573); a native Japanese place name read むろまち.
+- <ruby>[桃山](../words/桃山.md)<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby>: Momoyama, a hill in the Fushimi area of southern Kyoto where Toyotomi Hideyoshi built Fushimi Castle in 1594; it lent its name to the Momoyama period, though the name is younger than the period it names.
+- <ruby>[江戸](../words/江戸.md)<rt>ㄍㄚㄫㄏㄛ</rt></ruby>: Edo, the castle town that Tokugawa Ieyasu made his base in 1590 and the seat of the shogunate from 1603, and one of the largest cities in the world by the eighteenth century; the name is first attested in the Azuma Kagami.
+- <ruby>[徳川](../words/徳川.md)<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby>: Tokugawa, the clan that ruled Japan as shoguns from 1603 to 1868, a branch of the Matsudaira; read とくがわ with rendaku in がわ.
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, including specific named rivers such as the <ruby>[江戸川](words/江戸川.md)<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> (Edo River) forming part of the Tokyo–Chiba border and the <ruby>[瀧川](words/瀧川.md)<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby> (Takigawa, "waterfall river," also a Japanese surname).  
@@ -50,6 +59,7 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[馬来西亜](words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby>
 - <ruby>[新嘉浦](/words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> a.k.a. <ruby>[獅城](/words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> a.k.a. <ruby>[星洲](/words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>  
+  - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
 - <ruby>[菲律賓](words/菲律賓.md)<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>
 These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>.
 
@@ -98,6 +108,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 <ruby>[欧洲](words/欧洲.md)<rt>ㄛㄨㄐㄨㄛ</rt></ruby> contains <ruby>半島<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, inland seas ([[内海]]), and fragmented terrain (分散地形).  Modern nation states (民族<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>) and parliamentary systems (議会制度) developed.  Industrialization (産業革命) altered global economic structure (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>経済構造).  Colonial expansion (殖民拡張) extended influence worldwide (全球影響).
 
 - <ruby>[英国](../words/英国.md)<rt>ㄝㄫㄍㄛㄎ</rt></ruby> + [[蘇格蘭]] + [[欽婁]] + [[北]][[愛爾蘭]] = [[連合王国]], not [[大不列顚]]
+  - <ruby>[英格蘭](../words/英格蘭.md)<rt>ㄝㄫㄍㄚㄎㄌㄚㄋ</rt></ruby>: England — the Chinese transliteration of "England" (distinct from 英国, the whole UK, though the distinction is rarely observed in speech); the older form is 英吉利.
 - [[愛爾蘭]][共和国](../words/共和国.md)
 - <ruby>[法国](../words/法国.md)<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[高盧](../words/高盧.md)<rt>ㄍㄚㄨㄌㄛ</rt></ruby>: Gaul — the ancient Celtic region, historical, not the modern state of [[法国]].

@@ -39,6 +39,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[愉快](../words/愉快.md)<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>: happy, pleasant, enjoyable.
 - <ruby>[痛快](../words/痛快.md)<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby>: joyful, thoroughly satisfying, exhilarating.
 - <ruby>[爽快](../words/爽快.md)<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby>: refreshing, invigorating — the clean, light feeling of being refreshed (cool air after a stuffy room, a problem solved); a pleasant sensation more than [[痛快]]'s thorough satisfaction; the stand-in for the bound character 爽.
+- <ruby>[発剌](../words/発剌.md)<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby>: lively, vivacious — full of energy and spirit, a fish or a person springing with vigour; most familiar as Japanese はつらつ, where the common spelling is 溌剌 (see its aliases).
 - <ruby>[快](../words/快.md)<rt>ㄎ⺢ㄧ</rt></ruby>: sharp, quick, happy.
 - <ruby>[高興](../words/高興.md)<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby>: glad, pleased.
 - <ruby>[台悦](../words/台悦.md)<rt>ㄉㄚㄧ⼶ㄊ</rt></ruby>: happy, pleased, joyful.
@@ -71,6 +72,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[恐惧](../words/恐惧.md)<rt>ㄎㄛㄫㄍㄨ</rt></ruby>: to be afraid of, have a dread or phobia of.
 - <ruby>[恐慌](../words/恐慌.md)<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby>: nervous, frantic, panicky.
 - <ruby>[畏](../words/畏.md)<rt>ㄛㄧ</rt></ruby>: fear, dread, reverence, awe, phobia.
+- <ruby>[業業](../words/業業.md)<rt>ㄝㄆ·ㄝㄆ</rt></ruby>: fearfully, apprehensively — a reduplicated classical ideophone for anxious vigilance (best known in 兢兢業業); the same word also means lofty and imposing in the Shijing, as its Notes explain.
 - <ruby>[竦](../words/竦.md)<rt>ㄙㄛㄫ</rt></ruby>: awe, reverence — a near-duplicate of [[畏]], but carrying a specific physical image (standing upright or on tiptoe from fear or respect).
 - <ruby>[怯](../words/怯.md)<rt>ㄎㄚㄆ</rt></ruby>: cowardly, timid, afraid.
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
@@ -122,6 +124,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 ### Pride, Cruelty & Severity
 
 - <ruby>[傲慢](../words/傲慢.md)<rt>ㄚㄨㄇㄚㄋ</rt></ruby>: proud, overbearing, haughty.
+- <ruby>[自尊](../words/自尊.md)<rt>ㄐㄧㄜㄐㄛㄋ</rt></ruby>: self-esteem, self-respect, dignity — respect for oneself and one's own standing; stands in for the classical 矜, which lies outside the closed character set; set against [[傲慢]]'s inflated pride.
 - <ruby>[気炎](../words/気炎.md)<rt>ㄎㄧㄜㄝㄇ</rt></ruby>: bluster, fighting spirit — a blazing show of spirit that can read as arrogance (the derogatory sense) or as high morale (the neutral sense); compare [[傲慢]].
 - <ruby>[逞](../words/逞.md)<rt>ㄑㄧㄫ</rt></ruby>: to indulge, brag, show off — flaunting one's own ability or strength (逞能, "to show off one's skill"; 逞強, "to flaunt one's strength").
 - <ruby>[蔑](../words/蔑.md)<rt>ㄇㄝㄊ</rt></ruby>: to scorn, despise — the bound root behind 侮蔑/軽蔑.

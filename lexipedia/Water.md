@@ -119,6 +119,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[航行](../words/航行.md)<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby>: to sail, to navigate — doing double duty for both "sail" (the verb) and "navigation."
 - <ruby>[船尾](../words/船尾.md)<rt>ㄙ⼔ㄇㄇㄨㄧ</rt></ruby>: stern.
 - <ruby>[舵](../words/舵.md)<rt>ㄉㄚ</rt></ruby>: rudder, helm.
+- <ruby>[芦櫂](../words/芦櫂.md)<rt>ㄌㄛ·ㄊㄛㄨ</rt></ruby>: oars, oarage — the oars and paddles of a boat (櫓櫂); 芦 stands in for its alias 櫓, a scull or stern-worked oar, not for "reed".
 - <ruby>[停泊](../words/停泊.md)<rt>ㄉㄝㄫㄅㄚㄎ</rt></ruby>: to anchor, to berth.
 - <ruby>[埠頭](../words/埠頭.md)<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby>: dock, pier, wharf, quay.
 - <ruby>[乗船](../words/乗船.md)<rt>ㄙㄨㄫㄙ⼔ㄇ</rt></ruby>: to board a ship, to embark.

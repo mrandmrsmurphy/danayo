@@ -102,6 +102,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[杏子](../words/杏子.md)<rt>ㄏㄚㄫㄐㄜ</rt></ruby>: an apricot.
 - <ruby>[橙果](../words/橙果.md)<rt>ㄉㄨㄫㄍ⺢</rt></ruby>: an orange.
 - <ruby>[蜜柑](../words/蜜柑.md)<rt>ㄇㄧㄊㄍㄚㄇ</rt></ruby>: a mandarin orange.
+- <ruby>[甘蕉](../words/甘蕉.md)<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby>: banana, plantain — the classical and literary word ("sweet banana"), found in older agricultural and medical texts, displaced in everyday use by 香蕉 (Chinese) and バナナ (Japanese).
 - <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
 - <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.

@@ -35,6 +35,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[希望](../words/希望.md)<rt>ㄏㄧㄜㄇㄚㄫ</rt></ruby>: to hope, wish.
 - <ruby>[秘密](../words/秘密.md)<rt>ㄅㄧㄜㄇㄧㄊ</rt></ruby>: a secret.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare, get ready.
+- <ruby>[覚悟](../words/覚悟.md)<rt>ㄍㄚㄎ·ㄛ</rt></ruby>: resolve, mental preparedness; awareness, enlightenment — in Japanese and Korean the readiness to face something, in Mandarin the "waking up to" a truth, often Buddhist or ideological; beside [[準備]]'s practical preparing.
 
 **Not yet coined**: "attention," "commit," "conscious," "curious," "dare," "expect," "mental" (as an independent adjective), "prefer," "remind," and "wait" all have no dedicated Dan'a'yo word yet.
 

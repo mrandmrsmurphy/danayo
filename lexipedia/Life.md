@@ -62,6 +62,8 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 ### Medicine & Treatment
 
 - <ruby>[医院](../words/医院.md)<rt>ㄜ⼔ㄋ</rt></ruby>: a hospital, clinic — specifically a small private practice, Japanese/Korean usage; see [[Buildings]] for its own placement there.
+- <ruby>[医学](../words/医学.md)<rt>ㄜㄏㄚㄎ</rt></ruby>: medicine, medical science — medicine as an academic and scientific discipline (the study of the body, disease and treatment taught in medical schools), distinct from 医療 (medical care as practised) and traditional practice such as [[漢方]].
+- <ruby>[漢方](../words/漢方.md)<rt>ㄏㄚㄋㄈㄚㄫ</rt></ruby>: traditional (Sinitic) medicine — the herbal-medicine tradition of Chinese origin, in Japanese kampo and in Korean 한방, run in parallel with Western biomedicine; the field of study is [[医学]].
 - <ruby>[薬丸](../words/薬丸.md)<rt>⼘ㄎㄏ⺢ㄋ</rt></ruby>: a pill, tablet.
 - <ruby>[薬剤](../words/薬剤.md)<rt>⼘ㄎㄐㄝㄧ</rt></ruby>: a medicine, pharmaceutical — medicine as a prepared, measured preparation dispensed by a pharmacist, in a technical or clinical register (not the raw herb); wider than a single dose-form such as [[薬丸]]'s pill; the stand-in for the bound character 剤.
 - <ruby>[梗塞](../words/梗塞.md)<rt>ㄍㄚㄫㄙㄚㄧ</rt></ruby>: an infarction, obstruction — the blocking of a vessel or passage, as the standard clinical term for infarction (心肌梗塞, myocardial infarction; 脳梗塞, cerebral infarction); the stand-in for the bound character 梗 in this sense.

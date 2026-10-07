@@ -20,6 +20,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[交接](../words/交接.md)<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>: to have intercourse — a euphemistic extension of this word's primary literal sense, "to link, join, connect" (e.g. Vietnamese giao tiếp, "to communicate").
 - <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal/literary euphemistic/anatomical compound, an undocumented near-synonym of [[交接]] and the clinical [[性交]].
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, to be pregnant — see [Body](../lexipedia/Body.md) for its own citation there.
+- <ruby>[受胎](../words/受胎.md)<rt>ㄙ⼜·ㄊㄚㄧ</rt></ruby>: conception, to conceive — the moment a womb receives new life (in Christian usage, 受胎告知 is the Annunciation); the start of what [[懐孕]] names as the state of being pregnant.
 
 **Not yet coined**: "Fuck" (the crude verb) is uncoined; only the clinical [[性交]] exists. ("Male," the biological-sex counterpart to [[雌性]], is now covered by [[雄]], above.)
 
