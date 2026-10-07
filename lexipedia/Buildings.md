@@ -8,6 +8,7 @@ language: English
 - bridge - <ruby>[橋](../words/橋.md)<rt>ㄍ⼘ㄨ</rt></ruby>
 - large building, high-rise - <ruby>[大廈](../words/大廈.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby> (a big multi-storey building, a mansion or tower block; in Japanese now mostly literary, ビル being the everyday word)
 - city/town - <ruby>[都市](../words/都市.md)<rt>ㄉㄛㄙㄧ</rt></ruby>
+- settlement, village - <ruby>[聚落](../words/聚落.md)<rt>ㄑㄨㄧㄌㄚㄎ</rt></ruby> (the standard Mandarin and Korean word, preferred here over Japan's more common 集落)
 - suburbs, outskirts - <ruby>[近郊](../words/近郊.md)<rt>ㄍㄧㄋㄍ⼄ㄨ</rt></ruby> (the areas just outside a city, between it and the countryside)
 - capital city, metropolis - <ruby>[京城](../words/京城.md)<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> (the plain compositional meaning only — not the specific historical toponym for colonial-era Seoul, which also used this spelling)
 - capital province - <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby> ([[京城]]'s surrounding administrative territory; a live term, the modern name of Gyeonggi Province around Seoul)

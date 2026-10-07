@@ -16,6 +16,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[努力](../words/努力.md)<rt>ㄋㄛㄌㄧㄎ</rt></ruby>: to strive, endeavor.
 - <ruby>[困難](../words/困難.md)<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>: difficult, hard.
 - <ruby>[艱難](../words/艱難.md)<rt>ㄍㄚㄋㄋㄚㄋ</rt></ruby>: arduous, hard — gruelling, sustained difficulty, hardship borne over time (艱難汝を玉にす, "adversity makes a jewel of you"); a literary doubling of two words for hard, heavier than [[困難]]'s plain difficult, and about the struggle rather than the suffering of [[苦難]].
+- <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.

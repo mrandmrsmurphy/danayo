@@ -65,6 +65,8 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[狂風](../words/狂風.md)<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby>: a gale, violent wind — [[風]] gone wild; not [[風狂]] (madness), its reversal.
 - <ruby>[彩虹](../words/彩虹.md)<rt>ㄑㄚㄧㄏㄛㄫ</rt></ruby>: a rainbow.
 - <ruby>[燐火](../words/燐火.md)<rt>ㄌㄧㄋㄏ⺢</rt></ruby>: a will-o'-the-wisp, ignis fatuus — the eerie light from combusting phosphine from decomposing matter; the scientific-register counterpart of the folkloric [[鬼火]] ("ghost fire"); also written 磷火.
+- <ruby>[辟歴](../words/辟歴.md)<rt>ㄆㄧㄎㄌㄝㄎ</rt></ruby>: a thunderclap, thunderbolt — with 辟 and 歴 standing in for 霹 and 靂 of the full form 霹靂, attested in all five languages, including the Japanese idiom 青天の霹靂 ("a bolt from the blue").
+- <ruby>[雷電](../words/雷電.md)<rt>ㄌㄛㄧㄉㄝㄋ</rt></ruby>: thunder and lightning — the everyday word for lightning in practice, though [[閃電]] is the technically precise term; attested in all five languages; beside [[辟歴]] for the thunderclap.
 - <ruby>[凍結](../words/凍結.md)<rt>ㄉㄛㄫㄍㄝㄊ</rt></ruby>: to freeze.
 - <ruby>[気候](../words/気候.md)<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby>: climate.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky — see [[Astronomy]] for its own citation there.

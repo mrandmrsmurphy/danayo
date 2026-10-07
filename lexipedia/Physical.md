@@ -67,6 +67,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[交](../words/交.md)<rt>ㄍ⼄ㄨ</rt></ruby>: to mix, exchange — intermingling, distinct from [[混合]]'s general blending.
 - <ruby>[希釈](../words/希釈.md)<rt>ㄏㄧㄜㄙㄝㄎ</rt></ruby>: to dilute — to thin a solution by adding solvent, the opposite of concentrating; the reverse of mixing in more solute.
 - <ruby>[抽出](../words/抽出.md)<rt>ㄑㄨㄑㄨㄊ</rt></ruby>: to extract, draw out, isolate — separating one element from a larger whole or mixture (a solute, a sample, a record); the stand-in for the bound character 抽.
+- <ruby>[蒸溜](../words/蒸溜.md)<rt>ㄐㄧㄫㄌ⼜</rt></ruby>: distillation — separating a liquid by boiling and condensing its vapour; attested across Mandarin, Cantonese, Japanese and Korean; a process of separation beside [[抽出]].
 - <ruby>[拌和](../words/拌和.md)<rt>ㄅㄚㄋㄏ⺢</rt></ruby>: to stir, mix, blend — see [[Food]] for its own citation there.
 - <ruby>[添加](../words/添加.md)<rt>ㄊㄝㄇㄍㄚ</rt></ruby>: to add, put in as an addition — to add an ingredient, an additive or a further item to something already there (添加剤, "an additive"); the act of adding in, distinct from [[加多]]'s making something larger.
 
@@ -82,6 +83,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 - <ruby>[残害](../words/残害.md)<rt>ㄐㄚㄋㄏㄚㄧ</rt></ruby>: damage, to harm.
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, corrupt — see [[Life]] for its own citation there.
+- <ruby>[磨耗](../words/磨耗.md)<rt>ㄇㄚㄏㄚㄨ</rt></ruby>: wear, abrasion — the gradual wearing away of a material through friction, in a technical or engineering register (Japanese writes it 摩耗); not "to wear" clothing.
 
 **Not yet coined or excluded as false matches**: "tear" (ripping fabric) has no dedicated word; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) has no exact dedicated word — [[締]] (above) covers only the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" has no dedicated word. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" has no exact dedicated word, though [[破]] (above) covers general breaking/rending loosely.
 

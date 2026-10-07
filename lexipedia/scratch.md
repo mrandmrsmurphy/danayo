@@ -6,9 +6,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 1177
+- **Unsorted**: 1161
 - **Calendar**: 47
-- **Geography**: 87
+- **Geography**: 86
 - **Life**: 13
 - **Light**: 1
 - **Locatives**: 4
@@ -30,9 +30,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Trade**: 10
 - **Valuation**: 17
 - **War**: 11
-- **Work**: 7
+- **Work**: 6
 
-## Unsorted (1177)
+## Unsorted (1161)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[公演]] — put on a public performance of (Arts/Events, "public" false positive — moved out of the Government bucket 2026-09-28)
@@ -47,7 +47,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[校区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
 - [[自分]] — self-examine, assess oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
 - [[週刊]] — weekly periodical, weekly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
-- [[磨耗]] — wear, abrasion (material/engineering degradation, not "to wear clothing" — moved out of the Clothing bucket 2026-09-27)
 - [[暴風]] — windstorm, violent storm, gale (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
 - [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
 - [[失業]] — become unemployed, lose one's job (an Economy/Work concept — moved out of the Conflict bucket 2026-09-28)
@@ -60,7 +59,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[榴弾]] — high explosives (War/Conflict, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
 - [[無然]] — disappointed, in low spirits (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
 - [[趨]] — take many small steps towards (Movement, not a dimension — moved out of the Dimensions bucket 2026-09-28)
-- [[跳高]] — high jump (Events/Sports, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
 - [[更少]] — less, fewer (a Dimensions-domain quantity word, not a direction — moved out of the Directions bucket 2026-09-28)
 - [[羅馬字]] — latin letters, roman alphabet, romanization (Grammar/language, matched on "Latin" in this domain's own descriptive note — moved out of the Directions bucket 2026-09-28)
 - [[羅馬語]] — latin (Grammar/language, same false match as 羅馬字 — moved out of the Directions bucket 2026-09-28)
@@ -116,7 +114,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[漢江]] — han river
 - [[無定河]] — wuding river
 - [[照顧]] — care for, look after
-- [[盆栽]] — bonsai, potted dwarf tree
 - [[祭物]] — ritual offering; sacrificial object
 - [[考察]] — investigate, observe, study
 - [[而後]] — after that, only then
@@ -619,7 +616,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[等待]] — wait for, await
 - [[節減]] — economize, economy
 - [[籠球]] — basketball
-- [[粘液]] — mucus
 - [[精子]] — sperm
 - [[精鋭]] — elite, chosen, picked
 - [[糟糠]] — dregs and husks
@@ -650,7 +646,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[繭]] — cocoon
 - [[罷免]] — defrock, dismiss, discharge
 - [[罷官]] — quit, be dismissed, resigned
-- [[羊狂]] — feign madness, pretend to be insane
 - [[羊駝]] — alpaca
 - [[美洲]] — americas
 - [[羞辱]] — humiliate
@@ -659,7 +654,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[考試]] — test, exam
 - [[－者|者]] — -er, -ist
 - [[而且]] — moreover, furthermore, and also
-- [[耽耽]] — staring fiercely, covetous gaze
 - [[聖人]] — sage, saint
 - [[肉桂]] — cinnamon
 - [[肥大]] — corpulent, hypertrophied, enlarged
@@ -682,7 +676,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[自動車]] — automobile
 - [[自在]] — comfortable, carefree, adjustable
 - [[自閉症]] — autism
-- [[臭膣]] — bitch
 - [[致使]] — that, resulting in
 - [[臼]] — mortar, millstone, socket
 - [[航空]] — aviation
@@ -705,20 +698,17 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[荷物]] — luggage, baggage
 - [[菩薩]] — bodhisattva
 - [[菲律賓]] — philippines
-- [[菲薄]] — meager, humble, to belittle
 - [[萎縮]] — wither, atrophy, slump
 - [[落下傘]] — parachute
 - [[葡萄]] — grapes
 - [[葡萄牙]] — portugal
 - [[蒙朧]] — indistinct, unclear, vague, hazy
 - [[蒲公英]] — dandelion
-- [[蒸溜]] — distillation
 - [[蒼路]] — crane
 - [[蓬藁]] — mugwort, artemisia, wormwood
 - [[蕃息]] — proliferate, flourish
 - [[蕪青]] — turnip
 - [[蘿蔔]] — radish
-- [[虎鯨]] — orca, killer whale
 - [[虹尊]] — rainbow trout
 - [[蚕]] — silkworm
 - [[蛞蝓]] — slug
@@ -787,12 +777,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[蹴鞠]] — cuju, kemari
 - [[車庫]] — garage
 - [[軍隊]] — armed forces
-- [[軣軣]] — rumbling, booming, roaring
 - [[軽罪]] — misdemeanor
 - [[輪郭]] — outline, contour, silhouette
 - [[辞去]] — take one's leave
 - [[辞職]] — to resign, resignation
-- [[辟歴]] — thunderclap, thunderbolt
 - [[農業]] — agriculture, farming
 - [[農耕]] — agriculture
 - [[迂回]] — circumvent
@@ -801,11 +789,9 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[送球]] — handball
 - [[逃避]] — shirk, evade
 - [[逆数]] — reciprocal
-- [[透析]] — dialyze, dialysis
 - [[逗号]] — comma
 - [[速様]] — quickly
 - [[連帯]] — solidarity, joint (responsibility)
-- [[連濁]] — rendaku
 - [[連盟]] — covenant, alliance
 - [[逸事]] — anecdote
 - [[逸話]] — anecdote
@@ -868,7 +854,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[雪崩]] — avalanche
 - [[雪魚]] — whiting, cod
 - [[零]] — zero
-- [[雷電]] — thunder and lightning
 - [[電子版]] — electronic version
 - [[電車]] — trolley, tram
 - [[震動]] — vibrate, shake
@@ -1149,7 +1134,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[行事]] — action, function
 - [[西洋]] — the west, western
 - [[西端]] — western tip, western end
-- [[要旨]] — gist, summary, main point
 - [[設置]] — set up, install, establish
 - [[詞典]] — dictionary
 - [[謄録]] — transcribe by hand, copy out
@@ -1265,7 +1249,7 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (87)
+## Geography (86)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[北部]] — north, northern area (rerouted from the 歴史綱要 bucket — a direction/geography word, not a historical-period one)
 - [[南山]] — south mountain
@@ -1336,7 +1320,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[社会科]] — social studies
 - [[紫禁城]] — the forbidden city, the imperial palace complex in beijing
 - [[羅馬]] — roman
-- [[聚落]] — settlement, village
 - [[英吉利]] — england (dated)
 - [[蘇連]] — soviet union
 - [[西部]] — west, western region
@@ -1591,11 +1574,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[陣営]] — army camp
 - [[駆逐艦]] — destroyer (warship)
 
-## Work (7)
+## Work (6)
 - [[副業]] — side job, second job
 - [[採用]] — adopt, employ, use
 - [[確定]] — fix, establish
-- [[缺勤]] — absence from work, to be absent from duty
 - [[計画]] — plan, schedule, measure
 - [[辞令]] — letter of dismissal, letter of resignation
 - [[雇員]] — employee

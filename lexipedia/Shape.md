@@ -33,6 +33,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ### Round & Curved Shapes
 
 - <ruby>[環](../words/環.md)<rt>ㄏ⺢ㄋ</rt></ruby>: a ring, circle — a hoop-shaped object.
+- <ruby>[環状](../words/環状.md)<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: ring-shaped, annular, concentric — of a ring-like form (環状構造, "concentric structure"; 環状道路, "ring road"); the adjective for the shape of a [[環]].
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel, circle, ring, loop — distinct from [[環]] in its mechanical/rotational framing.
 - <ruby>[直径](../words/直径.md)<rt>ㄐㄧㄊㄍㄝㄫ</rt></ruby>: a diameter — the straight line across a circle through its centre, or its length; the standard mathematical and scientific term, whose counterpart 半径 means the radius.
 - <ruby>[球](../words/球.md)<rt>ㄍ⼜</rt></ruby>: a ball.

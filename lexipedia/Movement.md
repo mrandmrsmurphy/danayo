@@ -104,6 +104,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 ### Jumping & Running
 
 - <ruby>[跳躍](../words/跳躍.md)<rt>ㄊㄛㄨ⼘ㄎ</rt></ruby>: to jump, leap.
+- <ruby>[跳高](../words/跳高.md)<rt>ㄊㄛㄨㄍㄚㄨ</rt></ruby>: the high jump — the athletic event; the standard Mandarin term, with Japanese and Korean using their own native compounds (走り高跳び, 높이뛰기); beside [[跳躍]] (to jump).
 - <ruby>[奔騰](../words/奔騰.md)<rt>ㄅㄛㄋㄉㄜㄫ</rt></ruby>: to jump, soar, skyrocket — figurative (prices, fortunes), not a physical body leaping.
 - <ruby>[奔馳](../words/奔馳.md)<rt>ㄅㄛㄋㄑㄜ</rt></ruby>: to gallop, run, speed — a horse or vehicle at full speed, more intense than plain [[走]].
 - <ruby>[馳](../words/馳.md)<rt>ㄑㄜ</rt></ruby>: to run fast, drive quickly — the bound root behind [[奔馳]] above.

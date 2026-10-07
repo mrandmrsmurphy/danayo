@@ -69,6 +69,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[蓮](../words/蓮.md)<rt>ㄌ⼶ㄋ</rt></ruby>: a lotus — also a major symbol in Buddhist art and iconography, though cited here for the plant itself rather than on [[Religion]], which has no dedicated citation for it.
 - <ruby>[草花](../words/草花.md)<rt>ㄑㄚㄨㄏ⺢</rt></ruby>: flowering plants, ornamental flowers.
 - <ruby>[花卉](../words/花卉.md)<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>: flowers and plants, collectively.
+- <ruby>[盆栽](../words/盆栽.md)<rt>ㄆㄨㄋㄐㄚㄧ</rt></ruby>: bonsai, a potted dwarf tree — the art of growing miniature trees in shallow trays; the Chinese penzai is the historical source of the Japanese loanword "bonsai", attested across Mandarin, Cantonese, Japanese and Korean.
 
 ### Medicinal & Dye Plants
 

@@ -43,6 +43,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: a sound. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[丁丁](../words/丁丁.md)<rt>ㄉㄝㄫㄉㄝㄫ</rt></ruby>: clang, clash — a specific onomatopoeia for a sharp, repeated striking sound (chopping, metal clanging), not a general-purpose "noise" word.
 - <ruby>[噌噌](../words/噌噌.md)<rt>ㄑㄨㄫㄑㄨㄫ</rt></ruby>: whoosh, scraping sound — an onomatopoeia for a quick sharp friction noise, like claws scrabbling up bark; the reduplicated syllable gives repeated, rapid motion; a sibling of [[丁丁]]'s clang.
+- <ruby>[軣軣](../words/軣軣.md)<rt>ㄍ⼔ㄫㄍ⼔ㄫ</rt></ruby>: rumbling, booming, roaring — the reduplicated sound of something large thundering or echoing (machinery, explosions, drums, a train, fire); its standard written form is 轟轟, and Japanese ごうごう is a very common onomatopoeia.
 - <ruby>[騒](../words/騒.md)<rt>ㄙㄚㄨ</rt></ruby>: boisterous, noisy commotion (騒動, "disturbance"; 騒音, "noise") — resolves this page's own previously-flagged "noise" gap; "loud" remains uncoined.
 - <ruby>[聴](../words/聴.md)<rt>ㄑㄝㄫ</rt></ruby>: to listen.
 - <ruby>[反響](../words/反響.md)<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby>: an echo.
@@ -65,6 +66,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[盲目](../words/盲目.md)<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby>: blind.
 - <ruby>[一瞥](../words/一瞥.md)<rt>ㄧㄊㄆㄝㄊ</rt></ruby>: a glance, quick look.
 - <ruby>[俯瞰](../words/俯瞰.md)<rt>ㄈㄨ·ㄎㄚㄇ</rt></ruby>: to look down from above; a bird's-eye view (俯瞰図, "an aerial-view diagram").
+- <ruby>[耽耽](../words/耽耽.md)<rt>ㄉㄛㄇㄉㄛㄇ</rt></ruby>: staring fiercely, a covetous gaze — a reduplicated ideophone for a fierce, greedy stare; 耽 stands in for the real 眈, as in the chengyu 虎視耽耽.
 - <ruby>[影像](../words/影像.md)<rt>⼶ㄫㄙ⼘ㄫ</rt></ruby>: an image — the general sense.
 - <ruby>[肖像](../words/肖像.md)<rt>ㄙ⼄ㄨㄙ⼘ㄫ</rt></ruby>: an image — specifically a portrait of a person, distinct from [[影像]]'s general sense.
 - <ruby>[景致](../words/景致.md)<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby>: a view — scenery. See [Locatives](../lexipedia/Locatives.md) for its own citation there.

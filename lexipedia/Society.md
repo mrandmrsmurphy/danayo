@@ -120,6 +120,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
 - <ruby>[純篤](../words/純篤.md)<rt>ㄐㄨㄋㄉㄛㄎ</rt></ruby>: sincere, genuine and steadfast — pure in character and earnest in devotion; a literary word of praise for plain, unfeigned goodness, the opposite of the counterfeit virtue of [[偽善]].
 - <ruby>[謙遜](../words/謙遜.md)<rt>ㄎㄝㄇㄙㄛㄋ</rt></ruby>: humility, modesty — keeping a low estimate of oneself and deferring to others; the virtue opposite to [[傲慢]]'s pride, shown by self-effacement and by playing down one's own merits.
+- <ruby>[菲薄](../words/菲薄.md)<rt>ㄈㄧㄅㄚㄎ</rt></ruby>: meager, humble; to belittle — of oneself or one's contribution (妄自菲薄, "to demean oneself unjustifiably"); attested in Mandarin and Cantonese, with no confirmed independent use in Japanese, Korean or Vietnamese; beside [[謙遜]]'s humility.
 - <ruby>[和敬](../words/和敬.md)<rt>ㄏ⺢ㄍ⼶ㄫ</rt></ruby>: harmony and respect — an attested compound, best known in Japanese as the first two of the four principles of the tea ceremony, 和敬清寂, attributed to Sen no Rikyū.
 - <ruby>[賢淑](../words/賢淑.md)<rt>ㄏㄝㄋㄙㄨㄎ</rt></ruby>: virtuous and wise, of refined character — the classical praise-word for a cultivated woman; the stand-in for the bound character 淑.
 - <ruby>[仁徳](../words/仁徳.md)<rt>ㄋㄧㄋㄊㄨㄎ</rt></ruby>: benevolence, goodness — an undocumented near-synonym of [[仁慈]], pairing the same 仁 root with virtue (徳) rather than mercy (慈).

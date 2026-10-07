@@ -103,6 +103,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 - <ruby>[説明](../words/説明.md)<rt>ㄙ⼔ㄊㄇ⼶ㄫ</rt></ruby>: to explain, illustrate.
 - <ruby>[解釈](../words/解釈.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: interpretation, to interpret — explaining what something means, in law (a statute), literary or scriptural exegesis, or everyday meaning; "unpacking" meaning, where [[説明]] is explaining or illustrating.
+- <ruby>[要旨](../words/要旨.md)<rt>⼄ㄨㄐㄧㄜ</rt></ruby>: the gist, summary, main point — the essential point of a text or argument, with the same sense in Mandarin, Korean and Japanese; beside [[解釈]] and [[説明]], for the point rather than the explaining.
 - <ruby>[叙述](../words/叙述.md)<rt>ㄙ⼄ㄙㄨㄊ</rt></ruby>: to narrate, describe.
 - <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: argument, controversy, contention.
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to comment, discuss.

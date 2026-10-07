@@ -198,6 +198,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 	- <ruby>[物](../words/－物.md)<rt>ㄇㄨㄊ</rt></ruby> "the thing that is X-ed; the result of X" (nominalizer, distinct from the free word [[物]])
 	- <ruby>[事](../words/－事.md)<rt>ㄐㄧ</rt></ruby> "the act of X; the matter of X" (nominalizer, distinct from the free word [[事]])
 - case (general term) : <ruby>[格](../words/格.md)<rt>ㄍㄚㄎ</rt></ruby>
+- rendaku, sequential voicing (the Japanese process by which a compound's second-element initial becomes voiced) : <ruby>[連濁](../words/連濁.md)<rt>ㄌ⼶ㄋㄉㄚㄎ</rt></ruby> — a Japanese-rooted concept whose characters are read natively in Mandarin and Cantonese too
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>

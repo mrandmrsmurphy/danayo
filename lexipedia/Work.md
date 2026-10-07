@@ -81,6 +81,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
+- <ruby>[缺勤](../words/缺勤.md)<rt>ㄎ⼔ㄊㄍㄧㄋ</rt></ruby>: absence from work, to be absent from duty — failing to report for one's work (欠勤 in Japanese, rendered here with 缺); beside [[退職]] and [[卸]] among the words for leaving or missing a post.
 
 ## Semantic Range Notes
 

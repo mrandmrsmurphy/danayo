@@ -122,6 +122,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby>: dolphin — literally "sea pig."
 - <ruby>[海象](../words/海象.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: walrus — literally "sea elephant."
+- <ruby>[虎鯨](../words/虎鯨.md)<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby>: an orca, killer whale (Orcinus orca) — the "tiger whale", named for its ferocity; the standard Chinese term, with Japanese using シャチ instead; beside [[海豚]] and [[海象]].
 - <ruby>[海馬](../words/海馬.md)<rt>ㄏㄚㄧㄇㄚ</rt></ruby>: seahorse.
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
