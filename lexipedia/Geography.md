@@ -191,6 +191,8 @@ State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a f
 <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[組織](words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
 - <ruby>[他国](../words/他国.md)<rt>ㄊㄜㄍㄛㄎ</rt></ruby>: another country, other countries — relative to a stated reference country, unlike [[外国]].
+- <ruby>[外国](../words/外国.md)<rt>⺢ㄧㄍㄛㄎ</rt></ruby>: a foreign country.
+- <ruby>[地方](../words/地方.md)<rt>ㄉㄧㄜㄈㄚㄫ</rt></ruby>: a region, territory.
 - <ruby>[諸国](../words/諸国.md)<rt>ㄐㄚㄍㄛㄎ</rt></ruby>: various countries, the nations.
 
 Economic interdependence (<ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>[[相互]][[依存]]) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
@@ -211,7 +213,7 @@ These institutions operate within principles of sovereignty ([[主権]][[原則]
 In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby>. The commonly recognized seven continents are:
 - <ruby>亜洲<rt>ㄚㄐㄨㄛ</rt></ruby>
 - <ruby>欧洲<rt>ㄛㄨㄐㄨㄛ</rt></ruby>
-- <ruby>非洲<rt>ㄈㄧㄐㄨㄛ</rt></ruby>
+- <ruby>[非洲](../words/非洲.md)<rt>ㄈㄧㄐㄨㄛ</rt></ruby>: Africa
 - North America ([[北美洲]]),
 - South America ([[南美洲]]),
 - <ruby>大洋洲<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby>

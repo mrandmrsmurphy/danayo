@@ -129,6 +129,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Rebellion & Upheaval
 
 - <ruby>[反乱](../words/反乱.md)<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
+- <ruby>[反対](../words/反対.md)<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby>: to oppose, be opposite.
 - <ruby>[革命](../words/革命.md)<rt>ㄎㄧㄎㄇ⼶ㄫ</rt></ruby>: to revolt against, incite revolution, rebel against.
 - <ruby>[逆](../words/逆.md)<rt>ㄝㄎ</rt></ruby>: rebellion, betrayal, a traitor — this word's primary sense (political treason); its minor "opposite, reverse" sense is not cited separately, since [[Mind]]'s own "opposite" slot is already filled by [[相対]].
 - <ruby>[解放](../words/解放.md)<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby>: to liberate, set free.
@@ -168,6 +169,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[流言](../words/流言.md)<rt>ㄌ⼜ㄝㄋ</rt></ruby>: to spread rumors, gossip.
 - <ruby>[秘訣](../words/秘訣.md)<rt>ㄅㄧㄜㄍ⼔ㄊ</rt></ruby>: a secret, knack, trick.
 - <ruby>[教戒](../words/教戒.md)<rt>ㄍ⼄ㄨㄍ⼶</rt></ruby>: to instruct, admonish, teach and warn.
+- <ruby>[警戒](../words/警戒.md)<rt>ㄍ⼶ㄫㄍ⼶</rt></ruby>: vigilant, on guard — 警 "watch out" + 戒 "warn," both bound.
 
 ### Espionage
 

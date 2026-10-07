@@ -34,6 +34,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[花梗](../words/花梗.md)<rt>ㄏ⺢ㄍㄚㄫ</rt></ruby>: a pedicel, flower stalk — narrower than [[茎]], specifically the small stem supporting an individual flower.
 - <ruby>[枝葉](../words/枝葉.md)<rt>ㄐㄝ⼄ㄆ</rt></ruby>: branches and leaves, together — also, figuratively, "trivial, peripheral details."
 - <ruby>[主幹](../words/主幹.md)<rt>ㄐㄨㄍㄚㄋ</rt></ruby>: a (tree) trunk — see [Containers](../lexipedia/Containers.md) for its own citation there; also figuratively the "backbone" of an organization.
+- <ruby>[樹皮](../words/樹皮.md)<rt>ㄙㄨㄅㄧ</rt></ruby>: bark — "tree skin."
 - <ruby>[株](../words/株.md)<rt>ㄉㄨ</rt></ruby>: a stump — also "stock" and "root" in other registers.
 - <ruby>[花弁](../words/花弁.md)<rt>ㄏ⺢ㄅ⼘ㄋ</rt></ruby>: a (flower) petal.
 - <ruby>[荊棘](../words/荊棘.md)<rt>ㄎ⼶ㄫㄍㄧㄎ</rt></ruby>: thorns, brambles, briers.

@@ -18,6 +18,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[机器](../words/机器.md)<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby>: a machine.
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel. See [Shape](../lexipedia/Shape.md) for its own citation there.
 - <ruby>[使用](../words/使用.md)<rt>ㄙㄧ⼄ㄫ</rt></ruby>: to use.
+- <ruby>[利用](../words/利用.md)<rt>ㄌㄧㄜ⼄ㄫ</rt></ruby>: to use, utilise — "use for profit," more purposeful than 使用.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare. See [Mind](../lexipedia/Mind.md) for its own citation there.
 
 **Not yet coined**: "bolt," "engine," "mechanical," "waste," "ready," and "switch" all have no dedicated Dan'a'yo word yet.
@@ -60,6 +61,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[机械](../words/机械.md)<rt>ㄍㄧㄜㄏ⼶</rt></ruby>: a machine — a near-synonym of [[机器]].
 - <ruby>[机関](../words/机関.md)<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby>: a machine, organ, organization — an institutional/mechanism register, distinct from the plain physical machine. See [Government](../lexipedia/Government.md) for its own citation there.
 - <ruby>[電脳](../words/電脳.md)<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>: a computer.
+- <ruby>[半導体](../words/半導体.md)<rt>ㄅㄚㄋㄉㄚㄨㄊㄝㄧ</rt></ruby>: a semiconductor — "half-conducting body."
 - <ruby>[充電](../words/充電.md)<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby>: to recharge, to charge a battery — to fill (充) a battery or device with electricity (電); a modern compound of old characters, transparent in every language of the sphere.
 - <ruby>[主頁](../words/主頁.md)<rt>ㄐㄨㄏㄝㄊ</rt></ruby>: a website's main page, homepage.
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: to equip, finish, provide. See [Work](../lexipedia/Work.md) and [Events](../lexipedia/Events.md) for their own citations there.

@@ -105,6 +105,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 ### Jumping & Running
 
 - <ruby>[跳躍](../words/跳躍.md)<rt>ㄊㄛㄨ⼘ㄎ</rt></ruby>: to jump, leap.
+- <ruby>[跳梁](../words/跳梁.md)<rt>ㄊㄛㄨㄌ⼘ㄫ</rt></ruby>: to run rampant, leap about wildly — like vermin along the roof beams.
 - <ruby>[跳高](../words/跳高.md)<rt>ㄊㄛㄨㄍㄚㄨ</rt></ruby>: the high jump — the athletic event; the standard Mandarin term, with Japanese and Korean using their own native compounds (走り高跳び, 높이뛰기); beside [[跳躍]] (to jump).
 - <ruby>[奔騰](../words/奔騰.md)<rt>ㄅㄛㄋㄉㄜㄫ</rt></ruby>: to jump, soar, skyrocket — figurative (prices, fortunes), not a physical body leaping.
 - <ruby>[奔馳](../words/奔馳.md)<rt>ㄅㄛㄋㄑㄜ</rt></ruby>: to gallop, run, speed — a horse or vehicle at full speed, more intense than plain [[走]].
@@ -191,6 +192,7 @@ Paths vocabulary covers routes, journeys, and their origins and destinations —
 - <ruby>[方向](../words/方向.md)<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby>: orientation, course, direction, goal — see [[Directions]] for its own citation there.
 - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>: a road, path, way — see [[Buildings]] for its own citation there.
 - <ruby>[街道](../words/街道.md)<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>: a street, road — see [[Buildings]] for its own citation there; the urban thoroughfare specifically, distinct from [[道路]]'s general road.
+- <ruby>[衢](../words/衢.md)<rt>ㄍㄨ</rt></ruby>: a crossroads, thoroughfare — a road that branches.
 - <ruby>[軌](../words/軌.md)<rt>ㄎㄨㄧ</rt></ruby>: a track, path, rut — a worn or fixed course, distinct from [[道路]]'s general path.
 - <ruby>[岐](../words/岐.md)<rt>ㄍㄝ</rt></ruby>: a fork, branching point (in a road) — and by extension, divergence generally (岐路, "crossroads," often figurative of a decisive life choice).
 - <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby>: a way — a route in the literal sense; compare [[方法]] and [[道理]] (already cited on [[Mind]] and [[Knowledge]]), which mean "way" in the sense of "method," not a physical route.

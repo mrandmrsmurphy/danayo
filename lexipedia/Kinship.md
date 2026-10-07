@@ -64,6 +64,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[父父](../words/父父.md)<rt>ㄅㄨㄅㄨ</rt></ruby>: daddy — the reduplicated address form of [[父親]], the direct male counterpart of [[媽媽]] below.
 - <ruby>[母親](../words/母親.md)<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>: mother.
 - <ruby>[媽媽](../words/媽媽.md)<rt>ㄇㄚ·ㄇㄚ</rt></ruby>: mom, mama — the reduplicated address form of [[母親]].
+- <ruby>[母母](../words/母母.md)<rt>ㄇㄛㄨㄇㄛㄨ</rt></ruby>: mommy — 母 doubled, an affectionate address.
 - <ruby>[父母](../words/父母.md)<rt>ㄅㄨ·ㄇㄛㄨ</rt></ruby>: parents — literally "father and mother."
 - <ruby>[両親](../words/両親.md)<rt>ㄌ⼘ㄫㄑㄧㄋ</rt></ruby>: parents — near-synonymous with [[父母]], but a shade more formal/impersonal, more likely used of *someone else's* parents than one's own; see Semantic Range Notes.
 - <ruby>[伯伯](../words/伯伯.md)<rt>ㄅㄚㄎㄅㄚㄎ</rt></ruby>: uncle — father's older brother, colloquial register.
@@ -177,6 +178,7 @@ Words for the kin-group itself, rather than any one relative within it.
 
 - <ruby>[少年](../words/少年.md)<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>: boy, youngster.
 - <ruby>[少女](../words/少女.md)<rt>ㄙㄛㄨㄋㄜ</rt></ruby>: girl, young woman.
+- <ruby>[姑娘](../words/姑娘.md)<rt>ㄍㄛ·ㄋㄚㄫ</rt></ruby>: a girl, young unmarried woman.
 - <ruby>[娘](../words/娘.md)<rt>ㄋㄚㄫ</rt></ruby>: young woman, girl — an undocumented near-duplicate of [[少女]].
 - <ruby>[女](../words/女.md)<rt>ㄋㄜ</rt></ruby>: woman — the bare morpheme, rarely standing alone across the Sinosphere (kept largely to compounds and classifier slots like [[少女]] above); the bound root behind a large family of 女-headed words.
 - <ruby>[人類](../words/人類.md)<rt>ㄋㄧㄋㄌㄨㄧ</rt></ruby>: humanity, human, humankind.

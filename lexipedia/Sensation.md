@@ -26,6 +26,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 
 - <ruby>[出現](../words/出現.md)<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby>: to appear, emerge, be revealed — the clean general verb. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[観察](../words/観察.md)<rt>ㄍ⺢ㄋㄑㄚㄊ</rt></ruby>: to observe, inspect. See [Mind](../lexipedia/Mind.md) for its own citation there.
+- <ruby>[参観](../words/参観.md)<rt>ㄙㄚㄇㄍ⺢ㄋ</rt></ruby>: to visit, tour, observe (a place).
 - <ruby>[観測](../words/観測.md)<rt>ㄍ⺢ㄋㄑㄜㄎ</rt></ruby>: to observe, monitor — a scientific/astronomical register, distinct from [[観察]]'s general inspection.
 - <ruby>[隠匿](../words/隠匿.md)<rt>ㄜㄋㄋㄧㄎ</rt></ruby>: to hide, conceal, cover up. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[隠蔵](../words/隠蔵.md)<rt>ㄜㄋㄑㄚㄫ</rt></ruby>: to hide, conceal — a near-synonym of [[隠匿]]. See [Existence](../lexipedia/Existence.md) for its own citation there.

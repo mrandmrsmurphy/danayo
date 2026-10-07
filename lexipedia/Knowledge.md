@@ -21,6 +21,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby>: to know; knowledge.
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
+- <ruby>[同学](../words/同学.md)<rt>ㄉㄛㄫㄏㄚㄎ</rt></ruby>: a schoolmate, classmate.
 - <ruby>[卒業](../words/卒業.md)<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby>: to graduate, graduation — completion of studies.
 - <ruby>[先生](../words/先生.md)<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>: Mr., sir; teacher.
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
@@ -150,6 +151,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 ### Disciplines & Systems of Thought
 
 - <ruby>[科学](../words/科学.md)<rt>ㄎ⺢ㄏㄚㄎ</rt></ruby>: science.
+- <ruby>[化学](../words/化学.md)<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>: chemistry.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
 - <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.

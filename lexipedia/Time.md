@@ -19,6 +19,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[現用](../words/現用.md)<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby>: currently in use, active — what is in use at present as against what is retired or obsolete (現用字庫 "the active inventory").
 - <ruby>[過去](../words/過去.md)<rt>ㄍ⺢·ㄎ⼄</rt></ruby>: the past.
+- <ruby>[去年](../words/去年.md)<rt>ㄎ⼄·ㄋㄝㄋ</rt></ruby>: last year.
 - <ruby>[将来](../words/将来.md)<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby>: the future.
 - <ruby>[旧](../words/旧.md)<rt>ㄍ⼜ㄛ</rt></ruby>: old.
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh. See [Food](../lexipedia/Food.md) for its own citation there.
@@ -83,6 +84,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[猶](../words/猶.md)<rt>⼜ㄛ</rt></ruby>: furthermore, still, yet — a classical/literary register.
 - <ruby>[間歇](../words/間歇.md)<rt>ㄍㄚㄋㄏㄝㄊ</rt></ruby>: intermittent, intermittence — happening with pauses and resuming rather than running continuously; a gap of rest in the continuation that [[仍]] and [[依然]] describe; the stand-in for the bound character 歇.
 - <ruby>[往往](../words/往往.md)<rt>⺢ㄫ⺢ㄫ</rt></ruby>: often, frequently — 往 doubled; "as is often the case."
+- <ruby>[常常](../words/常常.md)<rt>ㄙ⼘ㄫㄙ⼘ㄫ</rt></ruby>: often, frequently, commonly.
 
 **Excluded as a false match**: "still" also loosely matches [[寂静]], but that word means quiet, tranquil — physical stillness/silence, not temporal continuation — not cited here.
 
@@ -104,6 +106,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[簡略](../words/簡略.md)<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby>: brief.
 - <ruby>[一朝](../words/一朝.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: a short time, a brief moment — "a short while," broader than [[一瞬]]/[[刹那]]'s point-instant, closer to "overnight" as a byword for suddenness.
 - <ruby>[俯仰](../words/俯仰.md)<rt>ㄈㄨ⼘ㄫ</rt></ruby>: in an instant, in the blink of an eye (俯仰之間) — figurative, from the literal image of lowering and raising the head.
+- <ruby>[同時](../words/同時.md)<rt>ㄉㄛㄫㄙㄧ</rt></ruby>: simultaneous — at the same time.
 
 ### The "Present" Cluster
 

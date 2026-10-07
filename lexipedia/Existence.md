@@ -38,6 +38,9 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[万物](../words/万物.md)<rt>ㄇㄛㄋㄇㄨㄊ</rt></ruby>: the myriad things — the 大字 (anti-falsification) orthographic counterpart of [[萬物]] above, not a simple alias (matching the established 萬/万 distinct-word convention elsewhere in this vault).
 - <ruby>[万象](../words/万象.md)<rt>ㄇㄛㄋㄙ⼘ㄫ</rt></ruby>: all things, every manifestation of nature — leans toward natural phenomena specifically (part of the [[森羅万象]] family), distinct from [[萬物]]/[[万物]]'s plainer "all existing things."
 - <ruby>[一切](../words/一切.md)<rt>ㄧㄊㄑㄝㄊ</rt></ruby>: everything, the whole, entirety — a general totality quantifier ("all of X, without exception"), more abstract than [[萬物]]'s specific "all existing things"; a near-synonym of [[全体]]/[[全部]] (not yet placed), both of which lean toward a concrete whole made of counted parts where 一切 stays inclusive/abstract.
+- <ruby>[全体](../words/全体.md)<rt>ㄐ⼔ㄋㄊㄝㄧ</rt></ruby>: the whole, entirety.
+- <ruby>[全部](../words/全部.md)<rt>ㄐ⼔ㄋㄅㄛㄨ</rt></ruby>: everything, the entirety.
+- <ruby>[各種](../words/各種.md)<rt>ㄍㄚㄎㄐㄛㄫ</rt></ruby>: every kind, all kinds, the full range.
 - <ruby>[事物](../words/事物.md)<rt>ㄐㄧ·ㄇㄨㄊ</rt></ruby>: things, the totality of objects and matters — an academic/philosophical register (事物の本質, "the essential nature of things"), pairing concrete 物 with abstract 事 rather than [[萬物]]'s plainer "myriad things."
 - <ruby>[現象](../words/現象.md)<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby>: a phenomenon.
 - <ruby>[成立](../words/成立.md)<rt>ㄙㄧㄫㄌㄧㄆ</rt></ruby>: to come into existence, be established, gain approval.
@@ -90,6 +93,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[元凶](../words/元凶.md)<rt>⼔ㄋㄏ⼜ㄫ</rt></ruby>: chief culprit, ringleader — also "root cause," the sense that ties it to this cluster.
 - <ruby>[追遡](../words/追遡.md)<rt>ㄊㄨㄧㄙㄛ</rt></ruby> / <ruby>[遡及](../words/遡及.md)<rt>ㄙㄛㄍㄨㄆ</rt></ruby>: to trace back, investigate origins — 遡及 also carries the specifically legal sense "retroactivity, to apply retroactively."
 - <ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby> / <ruby>[根本](../words/根本.md)<rt>ㄍㄜㄋㄅㄛㄋ</rt></ruby> / <ruby>[本](../words/本.md)<rt>ㄅㄛㄋ</rt></ruby>: foundation, basis, base — a near-synonym cluster from the concrete (基盤) to the bare abstract root (本).
+- <ruby>[基本](../words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>: foundation, base, standard.
 - <ruby>[以前](../words/以前.md)<rt>ㄧㄐㄝㄋ</rt></ruby> / <ruby>[従前](../words/従前.md)<rt>ㄐㄛㄫㄐㄝㄋ</rt></ruby>: before, formerly, previously (also <ruby>[従来](../words/従来.md)<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby>, "hitherto, conventional, existing" — the same temporal root extended to "the way things have always been").
 
 ### Fate & Destiny
@@ -132,6 +136,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[不均](../words/不均.md)<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby>: uneven, unequal, imbalanced — [[平等]]'s negation (貧富不均 "inequality between rich and poor," 発展不均 "uneven development").
 - <ruby>[天地之別](../words/天地之別.md)<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby>: a world of difference, the gulf between heaven and earth — a contrast so extreme that the two things seem to belong to different orders of being; the fully compositional form (天地 + 之 + 別), next to the more fixed 天壤之別.
+- <ruby>[別人](../words/別人.md)<rt>ㄅㄝㄊㄋㄧㄋ</rt></ruby>: another person, someone else.
 - <ruby>[類似](../words/類似.md)<rt>ㄌㄨㄧㄙㄚ</rt></ruby>: to resemble, similar, analogous.
 - <ruby>[彷彿](../words/彷彿.md)<rt>ㄆㄚㄫㄈㄨㄊ</rt></ruby>: to resemble, seem like; as if, seemingly — a faint, impressionistic resemblance, closer to "as if" than to [[類似]]'s plain "similar"; the stand-in for the bound character 彿.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: model, type, pattern — classification by kind, as with a product's model number.

@@ -16,6 +16,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 
 - <ruby>[衣服](../words/衣服.md)<rt>ㄧㄜㄅㄨㄎ</rt></ruby>: clothes.
 - <ruby>[衣類](../words/衣類.md)<rt>ㄧㄜㄌㄨㄧ</rt></ruby>: clothing, clothes, garments (the collective noun, e.g. on a laundry label or customs form).
+- <ruby>[熨斗](../words/熨斗.md)<rt>⼜ㄊㄉㄛㄨ</rt></ruby>: a flatiron — the old pan-shaped press for cloth.
 - <ruby>[着](../words/着.md)<rt>ㄐ⺢ㄎ</rt></ruby>: to wear.
 - <ruby>[戴](../words/戴.md)<rt>ㄊㄚㄧ</rt></ruby>: to wear on top (specifically a hat, crown, or accessory).
 - <ruby>[佩戴](../words/佩戴.md)<rt>ㄈㄛㄧㄊㄚㄧ</rt></ruby>: to wear accessories, to bear (a badge or ornament) — an undocumented near-duplicate of [[戴]], built directly on it.

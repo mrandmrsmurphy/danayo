@@ -18,6 +18,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[答](../words/答.md)<rt>ㄉㄚㄆ</rt></ruby>: to answer, reply, assent, return — the plain, basic word; not to be confused with 對答 (not a Dan'a'yo word), a distinct, more formal "questioning and answering" exchange.
 - <ruby>[呼](../words/呼.md)<rt>ㄏㄛ</rt></ruby>: to call.
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: voice.
+- <ruby>[大声](../words/大声.md)<rt>ㄉㄚㄧㄙㄧㄫ</rt></ruby>: a loud voice.
 - <ruby>[消息](../words/消息.md)<rt>ㄙ⼄ㄨㄙㄧㄎ</rt></ruby>: a message.
 - <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby>: a word — see [Grammar](../lexipedia/Grammar.md) for its own citation there.
 

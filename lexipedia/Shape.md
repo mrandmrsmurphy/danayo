@@ -21,6 +21,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[物](../words/物.md)<rt>ㄇㄨㄊ</rt></ruby>: a thing, object — the concrete physical sense.
 - <ruby>[硬](../words/硬.md)<rt>ㄚㄫ</rt></ruby>: hard, firm.
 - <ruby>[正方形](../words/正方形.md)<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby>: a square — literally "correct/regular square-direction shape," the geometric quadrilateral. [[広場]], which also glosses "square," means a town square or plaza instead, an unrelated architectural/spatial sense.
+- <ruby>[圓形](../words/圓形.md)<rt>⼔ㄋㄏㄝㄫ</rt></ruby>: a circle, round shape.
 
 - <ruby>[坑](../words/坑.md)<rt>ㄎㄚㄫ</rt></ruby>: a pit, hole, hollow — a depression in the ground, whether natural or dug; broader than [[巣穴]]/[[洞穴]] (both housed on [Nature](../lexipedia/Nature.md)) but still tied to "in the ground," not a fully generic "hole."
 - <ruby>[孔](../words/孔.md)<rt>ㄎㄛㄫ</rt></ruby>: a hole, cavity, opening (毛孔, "pore"; 鼻孔, "nostril") — a small perforation through a surface, yet another narrow sense rather than the fully generic noun.

@@ -111,6 +111,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[女女](../words/女女.md)<rt>ㄋㄜ·ㄋㄜ</rt></ruby>: little lady, little girl — a colloquial diminutive, not the general adjective "little."
 - <ruby>[全盛](../words/全盛.md)<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby>: flourishing, at the height of prosperity, at one's best.
 - <ruby>[至極](../words/至極.md)<rt>ㄐㄧㄜㄍㄧㄎ</rt></ruby>: height, extremity, enormity — a doubled reinforcement of the same "extreme" concept.
+- <ruby>[十分](../words/十分.md)<rt>ㄙㄧㄆㄅㄨㄋ</rt></ruby>: very, extremely — also "ten minutes."
 
 ### Growth & Change
 

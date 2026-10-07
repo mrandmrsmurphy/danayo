@@ -25,6 +25,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[液体](../words/液体.md)<rt>⼶ㄎㄊㄝㄧ</rt></ruby>: liquid.
 - <ruby>[液化](../words/液化.md)<rt>⼶ㄎㄏ⺢</rt></ruby>: to liquefy, liquefaction — to turn into a liquid, from [[液体]]; attested in Mandarin, Cantonese, Japanese and Korean, with Vietnamese using a descriptive phrase (sự hoá lỏng).
 - <ruby>[湿](../words/湿.md)<rt>ㄙㄧㄆ</rt></ruby>: wet, damp.
+- <ruby>[湿度](../words/湿度.md)<rt>ㄙㄧㄆㄉㄛ</rt></ruby>: humidity — the degree of wetness in the air.
 - <ruby>[蒸汽](../words/蒸汽.md)<rt>ㄐㄧㄫㄎㄧㄜ</rt></ruby>: steam, vapor.
 - <ruby>[蒸](../words/蒸.md)<rt>ㄐㄧㄫ</rt></ruby>: to steam — the verb counterpart of [[蒸汽]] above.
 - <ruby>[波浪](../words/波浪.md)<rt>ㄅㄚㄌㄚㄫ</rt></ruby>: wave(s), undulation.
@@ -48,6 +49,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[湖水](../words/湖水.md)<rt>ㄏㄛㄨㄙㄨ</rt></ruby>: lake.
 - <ruby>[水位](../words/水位.md)<rt>ㄙㄨ⼔ㄧ</rt></ruby>: the water level — the height of water in a river, lake, reservoir or tide gauge against a fixed reference point (the basis of flood warnings); "position of the water", where [[湖水]] is the lake itself.
 - <ruby>[川](../words/川.md)<rt>ㄑ⺢ㄋ</rt></ruby>: river.
+- <ruby>[大河](../words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby>: a big river — also the Yellow River in older usage.
 - <ruby>[流水](../words/流水.md)<rt>ㄌ⼜ㄙㄨ</rt></ruby>: flowing water; by extension, the inevitable passage of events (高山流水, "high mountains and flowing water," symbolizing deep mutual understanding between friends).
 - <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
 - <ruby>[小河](../words/小河.md)<rt>ㄙㄛㄏㄚ</rt></ruby>: stream.

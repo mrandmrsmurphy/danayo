@@ -43,6 +43,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 
 - <ruby>[野獣](../words/野獣.md)<rt>⼘ㄙ⼜</rt></ruby>: wild animal, beast, mammal — literally "field beast."
 - <ruby>[家畜](../words/家畜.md)<rt>ㄍㄚㄑㄨㄎ</rt></ruby>: livestock, domesticated animal — literally "house livestock," a neutral term.
+- <ruby>[飼養](../words/飼養.md)<rt>ㄙㄚ⼘ㄫ</rt></ruby>: to raise, rear (animals) — 飼 is bound.
 - <ruby>[畜生](../words/畜生.md)<rt>ㄑㄨㄎㄙㄚㄫ</rt></ruby>: domestic animal, brute — carries a strong pejorative sense in living usage (see Semantic Range Notes).
 
 ### Livestock — the Six Domestic Animals (六畜)

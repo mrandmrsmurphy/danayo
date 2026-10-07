@@ -24,6 +24,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: the brain — see [[Body]] for its own citation there.
 - <ruby>[精神](../words/精神.md)<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby>: spirit, mind, psyche.
+- <ruby>[注意](../words/注意.md)<rt>ㄐㄨㄜ</rt></ruby>: to pay attention, be careful — "pour meaning" onto something.
 - <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
 - <ruby>[内心](../words/内心.md)<rt>ㄋㄛㄧㄙㄧㄇ</rt></ruby>: inner heart, intention, thought — 内 "inside" + 心 "heart."
@@ -73,6 +74,8 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[憧憬](../words/憧憬.md)<rt>ㄑㄛㄫㄍ⼄ㄫ</rt></ruby>: to long for, desire — yearning toward a distant or aspirational goal.
 - <ruby>[願意](../words/願意.md)<rt>⼔ㄋ·ㄜ</rt></ruby>: willing; to want, wish.
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent — willpower, the faculty of volition; see [[Grammar]] for its own citation there.
+- <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
+- <ruby>[意見](../words/意見.md)<rt>ㄜㄍ⼶ㄋ</rt></ruby>: an opinion, view.
 - <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: will, shall — the grammatical future-tense marker, not the psychological faculty; see [[Grammar]] for its own citation there.
 
@@ -98,6 +101,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 - <ruby>[念頭](../words/念頭.md)<rt>ㄋㄝㄇㄊㄛㄨ</rt></ruby>: an idea, thought — what is presently on one's mind.
 - <ruby>[思想](../words/思想.md)<rt>ㄙㄚㄙㄚㄫ</rt></ruby>: thought, thinking, ideology — a settled system of ideas, not a passing one.
+- <ruby>[思考](../words/思考.md)<rt>ㄙㄚ·ㄎㄚㄨ</rt></ruby>: to ponder, think over.
 - <ruby>[奇想](../words/奇想.md)<rt>ㄍㄨㄧㄙㄚㄫ</rt></ruby>: a fanciful notion, a strange idea — a passing odd thought, opposite to [[思想]]'s settled system of ideas.
 - <ruby>[世界観](../words/世界観.md)<rt>ㄙㄝㄍ⼶ㄍ⺢ㄋ</rt></ruby>: a worldview — a comprehensive outlook on existence, distinct from [[思想]]'s narrower "ideology, system of ideas."
 - <ruby>[意思](../words/意思.md)<rt>ㄜㄙㄚ</rt></ruby>: intent, intention, opinion, mind.
@@ -148,6 +152,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 ### Core Vocabulary (A1–A2)
 
 - <ruby>[目標](../words/目標.md)<rt>ㄇㄨㄎㄅ⼄</rt></ruby>: a target, aim, goal.
+- <ruby>[目的](../words/目的.md)<rt>ㄇㄨㄎㄉㄝㄎ</rt></ruby>: an objective, purpose — "the eye's target."
 - <ruby>[問題](../words/問題.md)<rt>ㄇㄨㄋㄊㄝㄧ</rt></ruby>: a question, problem — see [[Knowledge]] for its own citation there.
 - <ruby>[比較](../words/比較.md)<rt>ㄅㄧㄜㄍㄚㄎ</rt></ruby>: to compare — see [[Knowledge]] for its own citation there.
 - <ruby>[種類](../words/種類.md)<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>: a type, kind, sort.
@@ -206,6 +211,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 
 - <ruby>[条件](../words/条件.md)<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby>: a condition, prerequisite — see [[Knowledge]] for its own citation there.
 - <ruby>[事情](../words/事情.md)<rt>ㄐㄧㄑㄧㄫ</rt></ruby>: an affair, matter, situation.
+- <ruby>[情況](../words/情況.md)<rt>ㄑㄧㄫㄏ⺢ㄫ</rt></ruby>: circumstances, conditions.
 - <ruby>[情勢](../words/情勢.md)<rt>ㄑㄧㄫㄙㄝ</rt></ruby>: a situation, circumstances — the broader state of affairs (political, historical), distinct from [[事情]]'s everyday "matter."
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to state, declare; a statement — see [[Existence]] for its own citation there.
 

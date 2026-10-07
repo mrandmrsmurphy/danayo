@@ -37,6 +37,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 - <ruby>[共同体](../words/共同体.md)<rt>ㄍ⼄ㄫㄉㄛㄫㄊㄝㄧ</rt></ruby>: community.
 - <ruby>[集団](../words/集団.md)<rt>ㄐㄧㄆㄉ⺢ㄋ</rt></ruby>: group, gang, collective.
+- <ruby>[団結](../words/団結.md)<rt>ㄉ⺢ㄋㄍㄝㄊ</rt></ruby>: to unite, rally together.
 - <ruby>[部族](../words/部族.md)<rt>ㄅㄛㄨㄐㄛㄎ</rt></ruby>: tribe, clan.
 - <ruby>[宗派](../words/宗派.md)<rt>ㄐㄛㄫㄆㄚㄧ</rt></ruby>: faction, sect.
 - <ruby>[協会](../words/協会.md)<rt>ㄏㄝㄆㄏ⼔</rt></ruby>: association, league.
@@ -186,6 +187,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Friendship, Mediation & Belonging
 
 - <ruby>[交友](../words/交友.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to make friends.
+- <ruby>[友誼](../words/友誼.md)<rt>⼜ㄛㄜㄧ</rt></ruby>: friendship.
 - <ruby>[交遊](../words/交遊.md)<rt>ㄍ⼄ㄨ⼜ㄛ</rt></ruby>: to socialize, form a wide social network — a true inherited Middle Chinese homophone of [[交友]] (already collapsed in Japanese too), but genuinely distinct in scope: a broad social network (交遊廣闊) rather than 交友's individual close bond.
 - <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — two sides interacting through proper etiquette, an undocumented near-synonym of [[交遊]].
 - <ruby>[友好](../words/友好.md)<rt>⼜ㄛㄏㄚㄨ</rt></ruby>: friendly, amicable; friendship.
@@ -276,6 +278,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[武侠](../words/武侠.md)<rt>ㄇㄨㄏㄝㄆ</rt></ruby>: chivalry (also names the wuxia literary genre). See Semantic Range Notes.
 - <ruby>[江湖](../words/江湖.md)<rt>ㄍㄚㄫㄏㄛㄨ</rt></ruby>: the itinerant world outside settled society, the criminal underworld (as in wuxia fiction), or a reclusive life — the "world" [[武侠]]'s wandering swordsmen move through; literally "rivers and lakes," see [Geography](../lexipedia/Geography.md) for that literal sense (reserved, out of scope here).
 - <ruby>[恭遜](../words/恭遜.md)<rt>ㄍ⼄ㄫㄙㄛㄋ</rt></ruby>: politeness, courteousness, civility — Rosenfelder's "polite," deliberately not [[客気]]; see Semantic Range Notes.
+- <ruby>[客気](../words/客気.md)<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby>: "guestness" — a Sinosphere auto-antonym: polite and reserved in Chinese and Vietnamese, reckless bravado in Japanese and Korean; use with caution.
 - <ruby>[拝](../words/拝.md)<rt>ㄅ⼶</rt></ruby>: to bow, kowtow.
 - <ruby>[鞠躬](../words/鞠躬.md)<rt>ㄍㄨㄎㄍㄨㄫ</rt></ruby>: to bow respectfully — a near-synonym of [[拝]].
 

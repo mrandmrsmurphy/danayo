@@ -15,6 +15,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 
 - <ruby>[戦争](../words/戦争.md)<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>: war.
 - <ruby>[軍人](../words/軍人.md)<rt>ㄍㄨㄋㄋㄧㄋ</rt></ruby>: a soldier.
+- <ruby>[軍事](../words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby>: military affairs.
 - <ruby>[敵人](../words/敵人.md)<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby>: enemy. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 - <ruby>[剣](../words/剣.md)<rt>ㄍㄛㄇ</rt></ruby>: a sword. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 - <ruby>[武](../words/武.md)<rt>ㄇㄨ</rt></ruby>: military.

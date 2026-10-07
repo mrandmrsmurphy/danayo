@@ -143,6 +143,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[鳥啄](../words/鳥啄.md)<rt>ㄑㄛㄨ·ㄊㄛㄎ</rt></ruby>: bird pecking; figurative name of the left-falling stroke.
 - <ruby>[金刀](../words/金刀.md)<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby>: golden blade; figurative name of the right-falling stroke.
 - <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>: a print (picture copied from painting/photography).
+- <ruby>[石版](../words/石版.md)<rt>ㄙㄝㄎㄆㄚㄋ</rt></ruby>: a lithograph, stone printing plate.
 - <ruby>[木版](../words/木版.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>: printing block.
 - <ruby>[横幅](../words/横幅.md)<rt>ㄏ⺢ㄫㄈㄨㄎ</rt></ruby>: banner, horizontal scroll.
 - <ruby>[刷子](../words/刷子.md)<rt>ㄙ⺢ㄊㄐㄜ</rt></ruby>, <ruby>[刷](../words/刷.md)<rt>ㄙ⺢ㄊ</rt></ruby>: brush; to brush, scrub.

@@ -197,6 +197,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>: to hang over, overhang.
 - <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
 - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>: to sit.
+- <ruby>[立](../words/立.md)<rt>ㄌㄧㄆ</rt></ruby>: to stand — the bare character used as a word.
 - <ruby>[跪](../words/跪.md)<rt>ㄎ⼔ㄧ</rt></ruby>: to kneel.
 - <ruby>[蹲](../words/蹲.md)<rt>ㄐㄛㄋ</rt></ruby>: to squat, crouch.
 - <ruby>[佇立](../words/佇立.md)<rt>ㄐㄛㄌㄧㄆ</rt></ruby>: to stand still, motionless, often lost in thought or waiting — a specific literary posture-verb, not the same as the still-uncoined plain "to stand" below.
@@ -239,6 +240,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[吐](../words/吐.md)<rt>ㄊㄛ</rt></ruby>, <ruby>[呕吐](../words/呕吐.md)<rt>ㄛㄨㄊㄛ</rt></ruby>: to vomit, spit.
 - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>: to cough.
 - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>: to suck.
+- <ruby>[呼吸](../words/呼吸.md)<rt>ㄏㄛㄏㄧㄆ</rt></ruby>: to breathe, respiration — 呼 "exhale" + 吸 "inhale."
 - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle.
 - to blink — *not yet coined*
 - to breathe — *not yet coined*

@@ -16,6 +16,8 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[努力](../words/努力.md)<rt>ㄋㄛㄌㄧㄎ</rt></ruby>: to strive, endeavor.
 - <ruby>[困難](../words/困難.md)<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>: difficult, hard.
 - <ruby>[艱難](../words/艱難.md)<rt>ㄍㄚㄋㄋㄚㄋ</rt></ruby>: arduous, hard — gruelling, sustained difficulty, hardship borne over time (艱難汝を玉にす, "adversity makes a jewel of you"); a literary doubling of two words for hard, heavier than [[困難]]'s plain difficult, and about the struggle rather than the suffering of [[苦難]].
+- <ruby>[容易](../words/容易.md)<rt>⼄ㄫ⼶ㄎ</rt></ruby>: easy, simple — the difficulty judgment.
+- <ruby>[危険](../words/危険.md)<rt>⼔ㄧㄏㄝㄇ</rt></ruby>: dangerous, risky, perilous — 危 "dangerous" + 険 "precipitous."
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
 - <ruby>[妨害](../words/妨害.md)<rt>ㄈㄚㄫㄏㄚㄧ</rt></ruby>: to obstruct, hinder, interfere with — the formal and legal word (妨害公務).
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
@@ -36,6 +38,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[令](../words/令.md)<rt>ㄌㄝㄫ</rt></ruby>, <ruby>[致](../words/致.md)<rt>ㄑㄧㄜ</rt></ruby>: to cause.
 - <ruby>[故而](../words/故而.md)<rt>ㄍㄛ·ㄋㄧ</rt></ruby>: therefore, as a result, and so.
+- <ruby>[影響](../words/影響.md)<rt>⼶ㄫㄏ⼘ㄫ</rt></ruby>: to influence, affect, disturb — 影 "shadow" + 響 "echo."
 
 ### Attempting & Trying
 
@@ -49,6 +52,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[奮発](../words/奮発.md)<rt>ㄈㄨㄋㄈㄚㄊ</rt></ruby>, <ruby>[尽力](../words/尽力.md)<rt>ㄐㄧㄋㄌㄧㄎ</rt></ruby>: to exert oneself, make a special effort.
 - <ruby>[率先](../words/率先.md)<rt>ㄌㄨㄊㄙㄝㄋ</rt></ruby>: to take the lead, be the first to act.
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, toil.
+- <ruby>[実践](../words/実践.md)<rt>ㄙㄧㄊㄐㄝㄋ</rt></ruby>: to practise, put into practice — 実 "true" + 践 "tread."
 - <ruby>[刻苦](../words/刻苦.md)<rt>ㄎㄨㄎㄎㄛ</rt></ruby>: assiduous, working hard through hardship — an austere, self-denying diligence, stricter than plain [[努力]].
 - <ruby>[消耗](../words/消耗.md)<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby>: to consume, deplete, drain (energy, resources, strength).
 - <ruby>[苦役](../words/苦役.md)<rt>ㄎㄛ⼶ㄎ</rt></ruby>: hard labor, forced labor, drudgery — painful compelled toil, as in the penal-servitude sense or a thankless chore.

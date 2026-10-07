@@ -52,6 +52,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[交付](../words/交付.md)<rt>ㄍ⼄ㄨㄈㄨ</rt></ruby>: delivery, grant, to pay, hand over — a bureaucratic register of [[支付]].
 - <ruby>[納](../words/納.md)<rt>ㄋㄚㄆ</rt></ruby>: to receive, accept, take in — by extension "to pay dues, submit (a payment)" from the payer's own side (納税, "to pay taxes," see [[税金]] on [[Government]]).
 - <ruby>[取得](../words/取得.md)<rt>ㄑㄛㄨㄊㄜㄎ</rt></ruby>: to gain, acquire.
+- <ruby>[回収](../words/回収.md)<rt>ㄏㄛㄧㄙㄨㄛ</rt></ruby>: to recover, collect back, recycle.
 - <ruby>[租金](../words/租金.md)<rt>ㄐㄜㄍㄧㄇ</rt></ruby>: rent — the rental fee.
 - <ruby>[賃](../words/賃.md)<rt>ㄋㄧㄇ</rt></ruby>: rent — a bound near-synonym of [[租金]].
 - <ruby>[貸出](../words/貸出.md)<rt>ㄊㄚㄧㄑㄨㄊ</rt></ruby>: a loan.
@@ -72,6 +73,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[貧乏](../words/貧乏.md)<rt>ㄅㄧㄋㄅㄚㄆ</rt></ruby>: poor.
 - <ruby>[亨通](../words/亨通.md)<rt>ㄏㄚㄫㄊㄛㄫ</rt></ruby>: to prosper — the business/trade-prosperity sense.
 - <ruby>[成功](../words/成功.md)<rt>ㄙㄧㄫㄍㄛㄫ</rt></ruby>: to succeed, achieve success, prosper — broader than [[亨通]]'s commercial prosperity.
+- <ruby>[成績](../words/成績.md)<rt>ㄙㄧㄫㄐㄝㄎ</rt></ruby>: achievements, results, grades.
 
 ### Display & Revelation
 
@@ -96,6 +98,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 ### Work
 
 - <ruby>[職業](../words/職業.md)<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby>: a job, occupation.
+- <ruby>[工業](../words/工業.md)<rt>ㄍㄛㄫㄝㄆ</rt></ruby>: industry.
 
 ### Obligations & Refusals
 

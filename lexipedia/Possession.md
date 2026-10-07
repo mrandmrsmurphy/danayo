@@ -16,6 +16,7 @@ Possession vocabulary covers ownership, property, and the relationship between a
 - <ruby>[主人](../words/主人.md)<rt>ㄐㄨ·ㄋㄧㄋ</rt></ruby>: master, owner, host, proprietor.
 - <ruby>[財産](../words/財産.md)<rt>ㄐㄚㄧㄙㄚㄋ</rt></ruby>: property, wealth.
 - <ruby>[共有](../words/共有.md)<rt>ㄍ⼄ㄫ⼜</rt></ruby>: to share, co-own.
+- <ruby>[所有](../words/所有.md)<rt>ㄙㄜ⼜</rt></ruby>: to possess, own; ownership — also "all, every" as a determiner.
 - <ruby>[占](../words/占.md)<rt>ㄐㄝㄇ</rt></ruby>: to occupy, possess (also <ruby>[占有](../words/占有.md)<rt>ㄐㄝㄇ·⼜</rt></ruby>, a near-synonym compound).
 - <ruby>[専用](../words/専用.md)<rt>ㄐ⼔ㄋ·⼄ㄫ</rt></ruby>: dedicated, exclusive use — reserved for one particular person or purpose rather than shared.
 - <ruby>[窃取](../words/窃取.md)<rt>ㄑㄝㄊㄑㄛㄨ</rt></ruby>: to steal, filch — taking another's possession illicitly, the negation of rightful ownership.
