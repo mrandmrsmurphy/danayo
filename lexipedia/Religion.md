@@ -14,6 +14,8 @@ Religion vocabulary covers general cross-cultural religious concepts — gods, s
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[宗教](../words/宗教.md)<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>: religion.
+- <ruby>[回教](../words/回教.md)<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>: Islam.
+- <ruby>[回教徒](../words/回教徒.md)<rt>ㄏㄛㄧㄍ⼄ㄨㄉㄛ</rt></ruby>: a Muslim.
 - <ruby>[神](../words/神.md)<rt>ㄙㄧㄋ</rt></ruby>: a god, deity; spirit.
 - <ruby>[佛](../words/佛.md)<rt>ㄅㄨㄊ</rt></ruby>: Buddha — also, in compounds, "Buddhism, Buddhist" (佛教, 佛法).
 - <ruby>[佛教](../words/佛教.md)<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>: Buddhism, the religion itself.
@@ -83,6 +85,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Sacred Places & Rites
 
 - <ruby>[寺院](../words/寺院.md)<rt>ㄙㄚ⼔ㄋ</rt></ruby>: a temple (Buddhist) — no generic, non-denominational "temple" word exists.
+- <ruby>[廟堂](../words/廟堂.md)<rt>ㄇ⼘ㄨㄉㄚㄫ</rt></ruby>: an ancestral temple; the imperial court.
 - <ruby>[参拝](../words/参拝.md)<rt>ㄙㄚㄇㄅ⼶</rt></ruby>: to visit a temple or shrine and pay respects.
 - <ruby>[寺刹](../words/寺刹.md)<rt>ㄙㄚㄑㄚㄊ</rt></ruby>: a Buddhist temple — the formal, written word for a temple (寺, "temple", + 刹, from Sanskrit kṣetra, "field, sacred domain"); the same thing as [[寺院]] in a more institutional, scholarly register.
 - <ruby>[庵子](../words/庵子.md)<rt>ㄚㄇㄐㄜ</rt></ruby>: a small Buddhist nunnery, hermitage — smaller in scale than [[寺院]]; a genuine dialectal word that also carries an unrelated regional sense, "a thatched field hut" (agricultural, in the Guanzhong dialect).
@@ -99,6 +102,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[観音](../words/観音.md)<rt>ㄍ⺢ㄋ·ㄨㄇ</rt></ruby>: Guanyin, Avalokiteśvara, the bodhisattva of mercy — short for 観世音, a translation ("the one who observes the sounds [of suffering beings]") rather than a transliteration of the Sanskrit; Japanese かんのん, Korean 관음, Vietnamese Quan Âm.
+- <ruby>[弥勒](../words/弥勒.md)<rt>ㄇㄝㄌㄨㄎ</rt></ruby>: Maitreya, the future Buddha.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
 - <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").
 - <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.

@@ -224,6 +224,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
 - foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
+- international language, lingua franca, koine : <ruby>[国際語](../words/国際語.md)<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby>
 - Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 - source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>

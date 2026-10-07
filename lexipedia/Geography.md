@@ -7,6 +7,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 <ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
+- <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
   - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
@@ -18,6 +19,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
 - <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
 - <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
+- <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
 - <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with 奥 rather than the real-world 澳.
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
@@ -116,6 +118,7 @@ Historically associated with steppe confederations (草原連盟) and caravan ro
 - <ruby>[法国](../words/法国.md)<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby>
 - <ruby>[高盧](../words/高盧.md)<rt>ㄍㄚㄨㄌㄛ</rt></ruby>: Gaul — the ancient Celtic region, historical, not the modern state of [[法国]].
 - <ruby>[徳国](../words/徳国.md)<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby>
+- <ruby>[単鷹国](../words/単鷹国.md)<rt>ㄉㄚㄋ·ㄧㄫㄍㄛㄎ</rt></ruby>: Prussia.
 - <ruby>[双鷹国](/words/双鷹国.md)<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby>
 - Italy (意大利)  
 - <ruby>西班牙<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>
@@ -226,7 +229,7 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> include:
 - the Pacific (<ruby>[太平洋](../words/太平洋.md)<rt>ㄊㄚㄧㄅ⼶ㄫ⼘ㄫ</rt></ruby>), 
 - Atlantic ([[大西洋]]), 
-- <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>,
+- <ruby>[印度洋](../words/印度洋.md)<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>,
 - Arctic Ocean ([[北氷洋]]), 
 - and Southern Ocean ([[南氷洋]]). 
 

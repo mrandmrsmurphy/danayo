@@ -42,9 +42,13 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel, circle, ring, loop — distinct from [[環]] in its mechanical/rotational framing.
 - <ruby>[直径](../words/直径.md)<rt>ㄐㄧㄊㄍㄝㄫ</rt></ruby>: a diameter — the straight line across a circle through its centre, or its length; the standard mathematical and scientific term, whose counterpart 半径 means the radius.
 - <ruby>[周長](../words/周長.md)<rt>ㄐㄨㄛㄐㄚㄫ</rt></ruby>: perimeter, circumference.
+- <ruby>[平板](../words/平板.md)<rt>ㄅ⼶ㄫㄆㄚㄋ</rt></ruby>: flat.
 - <ruby>[球](../words/球.md)<rt>ㄍ⼜</rt></ruby>: a ball.
 - <ruby>[穹隆](../words/穹隆.md)<rt>ㄎㄨㄫㄌㄨㄫ</rt></ruby>: a dome.
 - <ruby>[曲線](../words/曲線.md)<rt>ㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: a curve — a non-straight line, as against the straight [[直線]].
+- <ruby>[弧線](../words/弧線.md)<rt>ㄏㄛㄙ⼶ㄋ</rt></ruby>: an arc.
+- <ruby>[弯曲](../words/弯曲.md)<rt>⺢ㄇㄎ⼄ㄎ</rt></ruby>: curved, bent.
+- <ruby>[双曲線](../words/双曲線.md)<rt>ㄙ⺢ㄫㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: a hyperbola.
 - <ruby>[折線](../words/折線.md)<rt>ㄐㄝㄊㄙ⼶ㄋ</rt></ruby>: a broken line, polyline — a connected series of straight segments joined at angles; the third of the line types with [[直線]] (straight) and [[曲線]] (curved), the form of a line chart's graph.
 
 ### Angular & Solid Shapes

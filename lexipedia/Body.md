@@ -224,6 +224,8 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[拂](../words/拂.md)<rt>ㄈㄨㄊ</rt></ruby>: to shake off, brush off.
 - <ruby>[挙](../words/挙.md)<rt>ㄍ⼄</rt></ruby>: to raise (挙手, "raise a hand") — also, by extension, "an example, instance" (挙例).
 - <ruby>[捨](../words/捨.md)<rt>ㄙ⼘</rt></ruby>: to throw away, discard.
+- <ruby>[摘](../words/摘.md)<rt>ㄉㄚㄎ</rt></ruby>: to pinch, pluck.
+- <ruby>[負](../words/負.md)<rt>ㄅ⼜</rt></ruby>: to carry, bear.
 - <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.
 - <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>: to kowtow, bow deeply (touching forehead to ground) — the vault's one concrete example of a specific "gesture," which has no dedicated general word of its own.
 - to feel — *not yet coined*

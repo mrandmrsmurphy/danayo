@@ -33,6 +33,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[炉甘石](../words/炉甘石.md)<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby>: calamine, smithsonite — the zinc ore of traditional pharmacology and early brass-making; see [[亜鉛]].
 - <ruby>[玻璃](../words/玻璃.md)<rt>ㄆㄚㄌㄜ</rt></ruby>: glass, crystal.
 - <ruby>[塑膠](../words/塑膠.md)<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>: plastic — the modern industrial material.
+- <ruby>[塑料](../words/塑料.md)<rt>ㄙㄛㄌ⼘ㄨ</rt></ruby>: plastic.
 - <ruby>[射香](../words/射香.md)<rt>ㄙ⼘ㄏ⼘ㄫ</rt></ruby>: musk.
 - <ruby>[璃](../words/璃.md)<rt>ㄌㄜ</rt></ruby>: glass — the bound/simpler form.
 

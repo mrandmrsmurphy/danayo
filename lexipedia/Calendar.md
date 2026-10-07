@@ -190,6 +190,7 @@ Adjective "of the same year" (in school or the like): <ruby>[同年](../words/�
 The beginning of the year - <ruby>[年初](../words/年初.md)<rt>ㄋㄝㄋㄑㄛ</rt></ruby>.
 The middle of the year - <ruby>[年中](../words/年中.md)<rt>ㄋㄝㄋㄐㄨㄫ</rt></ruby>.
 The end of the year - <ruby>[年末](../words/年末.md)<rt>ㄋㄝㄋㄇㄚㄊ</rt></ruby>.
+An annual publication, annual (adjective) - <ruby>[年刊](../words/年刊.md)<rt>ㄋㄝㄋㄎㄚㄋ</rt></ruby>.
 
 ### Lunar Calendar
 

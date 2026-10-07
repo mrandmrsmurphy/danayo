@@ -38,6 +38,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[時代](../words/時代.md)<rt>ㄙㄧㄉㄚㄧ</rt></ruby>: time, age, epoch — a historical period, the "age" sense; see [Calendar](../lexipedia/Calendar.md)'s own Eras section for the specific named periods this generalizes over.
 - <ruby>[寿命](../words/寿命.md)<rt>ㄙ⼜·ㄇ⼶ㄫ</rt></ruby>: age, lifespan — specifically how long a life lasts, distinct from [[時代]]'s historical-period sense.
 - <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: an old person, age — a Swadesh word, the seniority/elderliness sense.
+- <ruby>[年齢](../words/年齢.md)<rt>ㄋㄝㄋㄌㄝㄫ</rt></ruby>: age — someone's years.
 - <ruby>[古希](../words/古希.md)<rt>ㄍㄛㄏㄧㄜ</rt></ruby>: seventy years of age — the congratulatory name for a seventieth birthday, from Du Fu's line 人生七十古來稀 ("it has been rare since antiquity to reach seventy").
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.
 - <ruby>[古今](../words/古今.md)<rt>ㄍㄛㄍㄧㄇ</rt></ruby>: ancient and modern, old and new.
@@ -74,6 +75,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[週期](../words/週期.md)<rt>ㄐㄨㄛㄎㄧ</rt></ruby>: a period, cycle — the recurring/cyclical sense, distinct from [[期間]]'s plain duration.
 - <ruby>[臨時](../words/臨時.md)<rt>ㄌㄧㄇㄙㄧ</rt></ruby>: temporary.
 - <ruby>[常時](../words/常時.md)<rt>ㄙ⼘ㄫㄙㄧ</rt></ruby>: constantly, at all times.
+- <ruby>[平日](../words/平日.md)<rt>ㄅ⼶ㄫㄋㄧㄊ</rt></ruby>: a weekday, ordinary day.
 - <ruby>[姑息](../words/姑息.md)<rt>ㄍㄛㄙㄧㄎ</rt></ruby>: makeshift, a temporary expedient, stopgap.
 - <ruby>[久](../words/久.md)<rt>ㄍ⼜</rt></ruby>: a long time, long-lasting — the basic root behind the whole duration family below ([[悠久]], [[恒久]]/[[永久]]).
 - <ruby>[恒久](../words/恒久.md)<rt>ㄏㄨㄫㄍ⼜</rt></ruby>: permanent, perpetual.

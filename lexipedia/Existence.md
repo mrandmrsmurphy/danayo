@@ -107,6 +107,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[運数](../words/運数.md)<rt>ㄨㄋㄙㄨ</rt></ruby>: luck, fortune, fate.
 - <ruby>[随性](../words/随性.md)<rt>ㄙㄨㄧㄙㄧㄫ</rt></ruby>: fate from birth.
 - <ruby>[因縁](../words/因縁.md)<rt>ㄧㄋ·⼶ㄋ</rt></ruby>: a predestined bond, karma — the Buddhist-inflected member of the cluster.
+- <ruby>[因果](../words/因果.md)<rt>ㄧㄋㄍ⺢</rt></ruby>: causal, karmic, fateful.
 - <ruby>[幸運](../words/幸運.md)<rt>ㄏㄚㄫㄨㄋ</rt></ruby>: lucky, fortunate.
 - <ruby>[契机](../words/契机.md)<rt>ㄎㄝㄧㄍㄧㄜ</rt></ruby>: an opportunity, turning point.
 - <ruby>[吉](../words/吉.md)<rt>ㄍㄧㄊ</rt></ruby>: lucky, auspicious, favorable (吉祥, traditionally displayed in calligraphy at the New Year).

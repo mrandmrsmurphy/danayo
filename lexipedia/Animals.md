@@ -74,6 +74,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
 - <ruby>[就鳥](../words/就鳥.md)<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby>: a vulture.
+- <ruby>[鷹](../words/鷹.md)<rt>ㄧㄫ</rt></ruby>: a hawk.
 - <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [[海就]], without that word's specifically maritime sense.
 - <ruby>[鳶](../words/鳶.md)<rt>⼶ㄋ</rt></ruby>: a kite — the bird of prey (黒鳶, "black kite"); secondarily, the flying toy.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
@@ -222,6 +223,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
 - <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
 - <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.
+- <ruby>[幽鬼](../words/幽鬼.md)<rt>⼜ㄛㄍㄨㄧ</rt></ruby>: a poltergeist, ghost.
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: witch, sorceress — a near-synonym of 妖精 above, without the "fairy" sense.
 - <ruby>[怪物](../words/怪物.md)<rt>ㄍ⺢ㄧㄇㄨㄊ</rt></ruby>: monster — an uncanny, mysterious figure; contrast 妖物 below.
 - <ruby>[妖物](../words/妖物.md)<rt>⼘ㄨㄇㄨㄊ</rt></ruby>: monster — specifically a bewitching, shapeshifting figure (see Semantic Range Notes).

@@ -17,6 +17,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[政治](../words/政治.md)<rt>ㄐㄧㄫㄑㄧ</rt></ruby>: politics.
 - <ruby>[体制](../words/体制.md)<rt>ㄊㄝㄧㄐㄝㄧ</rt></ruby>: a system, regime, governing structure.
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
+- <ruby>[国王](../words/国王.md)<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby>: a king, sovereign, monarch.
 - <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>: empire.
 - <ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby>: administration, government, the executive.
 - <ruby>[主宰](../words/主宰.md)<rt>ㄐㄨㄐㄚㄧ</rt></ruby>: to rule, superintend, dominate — carries real philosophical/religious weight beyond ordinary administration (describing a cosmic ruling force, as in Neo-Confucian thought), not merely mundane oversight.
@@ -186,6 +187,12 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[公約](../words/公約.md)<rt>ㄍㄛㄫ⼘ㄎ</rt></ruby>: a public pledge, election promise, treaty.
 - <ruby>[連合](../words/連合.md)<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby>: to unite, ally with; an alliance, union — 連 "linked" + 合 "join."
 - <ruby>[国連](../words/国連.md)<rt>ㄍㄛㄎㄌ⼶ㄋ</rt></ruby>: the League of Nations (国際連盟).
+- <ruby>[国営](../words/国営.md)<rt>ㄍㄛㄎ·⼶ㄫ</rt></ruby>: state management, nationalization.
+- <ruby>[建国](../words/建国.md)<rt>ㄍㄝㄋㄍㄛㄎ</rt></ruby>: founding a nation, to establish.
+- <ruby>[国旗](../words/国旗.md)<rt>ㄍㄛㄎㄎㄧ</rt></ruby>: the national flag.
+- <ruby>[国歌](../words/国歌.md)<rt>ㄍㄛㄎㄍㄜ</rt></ruby>: the national anthem.
+- <ruby>[国際](../words/国際.md)<rt>ㄍㄛㄎㄐㄝ</rt></ruby>: international.
+- <ruby>[外交](../words/外交.md)<rt>⺢ㄧㄍ⼄ㄨ</rt></ruby>: diplomacy, foreign affairs.
 
 ### The Public
 

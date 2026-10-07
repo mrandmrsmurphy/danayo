@@ -93,6 +93,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[満族](../words/満族.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: the Manchu ethnicity.
 - <ruby>[漢族](../words/漢族.md)<rt>ㄏㄚㄋㄐㄛㄎ</rt></ruby>: the Han ethnicity.
 - <ruby>[匈奴](../words/匈奴.md)<rt>ㄏ⼄ㄫㄋㄛ</rt></ruby>: the Xiongnu.
+- <ruby>[回紇](../words/回紇.md)<rt>ㄏㄛㄧㄏㄜㄊ</rt></ruby>: the Uighurs.
 - <ruby>[中国人](../words/中国人.md)<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby>: a Chinese person — the productive country-name + 人 nationality pattern; primarily legal/citizenship (PRC national or mainland-Chinese identity), distinct from [[華人]]'s broader "ethnic Chinese" sense (not cited here).
 - <ruby>[苗族](../words/苗族.md)<rt>ㄇ⼘ㄨㄐㄛㄎ</rt></ruby>: the Hmong/Miao ethnicity.
 - <ruby>[倭人](../words/倭人.md)<rt>⼔ㄧㄋㄧㄋ</rt></ruby>: Wajin — the archaic Chinese term for the Japanese people (as in the 3rd-century Chinese chronicle references to the Wa/Yamatai).
@@ -115,6 +116,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[下位](../words/下位.md)<rt>ㄏㄚ⼔ㄧ</rt></ruby>: low rank, a subordinate position — [[上位]]'s direct antonym, completing the pair that frames all of Dan'a'yo's ranking/hierarchy vocabulary.
 - <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
 - <ruby>[同胞](../words/同胞.md)<rt>ㄉㄛㄫㄅ⼘ㄨ</rt></ruby>: a compatriot, countryman.
+- <ruby>[大同](../words/大同.md)<rt>ㄉㄚㄧㄉㄛㄫ</rt></ruby>: the Great Unity; utopia.
 - <ruby>[輩](../words/輩.md)<rt>ㄈㄛㄧ</rt></ruby>: a generation — by extension, a peer-group, cohort, "people of a kind" (先輩/後輩, "senior/junior"; 同輩, "a peer, age-mate").
 - <ruby>[長上](../words/長上.md)<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby>: elders and superiors — seniority by age and by rank.
 
@@ -230,6 +232,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 ### Honor, Fame & Reputation
 
 - <ruby>[名誉](../words/名誉.md)<rt>ㄇㄧㄫ⼄</rt></ruby>: honor, reputation.
+- <ruby>[声望](../words/声望.md)<rt>ㄙㄧㄫㄇㄚㄫ</rt></ruby>: prestige, popularity.
 - <ruby>[人望](../words/人望.md)<rt>ㄋㄧㄋㄇㄚㄫ</rt></ruby>: popularity, being well-regarded by the people — narrower than [[名誉]], specifically being liked/trusted, not honor in the abstract.
 - <ruby>[勲](../words/勲.md)<rt>ㄏㄨㄋ</rt></ruby>: a meritorious deed, merit.
 - <ruby>[令聞](../words/令聞.md)<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby>: a good name, reputation (literary register).
@@ -301,6 +304,8 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 - <ruby>[遊戯](../words/遊戯.md)<rt>⼜ㄛㄏㄨㄧ</rt></ruby>: a game.
 - <ruby>[将棋](../words/将棋.md)<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>: shogi, Japanese chess.
+- <ruby>[囲棋](../words/囲棋.md)<rt>ㄨㄧㄍㄧ</rt></ruby>: Go, the board game.
+- <ruby>[囲碁](../words/囲碁.md)<rt>ㄨㄧㄍㄧ</rt></ruby>: Go, the board game.
 - <ruby>[蹴球](../words/蹴球.md)<rt>ㄑㄨㄎㄍ⼜</rt></ruby>: football, soccer.
 - <ruby>[嬉遊](../words/嬉遊.md)<rt>ㄏㄧ⼜ㄛ</rt></ruby>: to play, frolic, enjoy oneself.
 - <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race.

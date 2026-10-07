@@ -100,6 +100,9 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to cultivate, grow — see [[Life]] for its own citation there.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: to plow, sow, cultivate.
 - <ruby>[開墾](../words/開墾.md)<rt>ㄎㄚㄧㄎㄚㄋ</rt></ruby>: to cultivate, open up land.
+- <ruby>[土肥](../words/土肥.md)<rt>ㄊㄛㄅㄨㄧ</rt></ruby>: manure, soil fertilizer.
+- <ruby>[堆肥](../words/堆肥.md)<rt>ㄉㄛㄧㄅㄨㄧ</rt></ruby>: compost, composted manure.
+- <ruby>[化学肥料](../words/化学肥料.md)<rt>ㄏ⺢ㄏㄚㄎㄅㄨㄧㄌ⼘ㄨ</rt></ruby>: chemical fertilizer.
 - <ruby>[壅](../words/壅.md)<rt>ㄛㄫ</rt></ruby>: to bank up with earth, mound soil around (a plant) — also, more generally, "to obstruct, block up" (壅塞, "congestion, blockage").
 - <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: a harvest, crop, yield — see [[Food]] for its own citation there.
 - <ruby>[採取](../words/採取.md)<rt>ㄑㄚㄧㄑㄛㄨ</rt></ruby>: to pick, harvest, collect — see [[Containers]] for its own citation there.
@@ -108,6 +111,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[庭園](../words/庭園.md)<rt>ㄉㄝㄫㄛㄋ</rt></ruby>: a garden — see [[Buildings]] for its own citation there.
 - <ruby>[園丁](../words/園丁.md)<rt>ㄛㄋㄉㄝㄫ</rt></ruby>: a gardener.
+- <ruby>[園芸](../words/園芸.md)<rt>ㄛㄋ·ㄝ</rt></ruby>: gardening, horticulture.
 - <ruby>[薮沢](../words/薮沢.md)<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>: a marsh, swamp.
 - <ruby>[沼沢](../words/沼沢.md)<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>: a swamp, bog — an undocumented near-duplicate of [[薮沢]].
 

@@ -98,6 +98,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[区別](../words/区別.md)<rt>ㄎㄨㄅㄝㄊ</rt></ruby>: to distinguish, classify.
 - <ruby>[図表](../words/図表.md)<rt>ㄉㄛㄅ⼘ㄨ</rt></ruby>: a diagram, chart, graph.
 - <ruby>[地図冊](../words/地図冊.md)<rt>ㄉㄧㄜㄉㄛㄑㄚㄎ</rt></ruby>: an atlas.
+- <ruby>[地図](../words/地図.md)<rt>ㄉㄧㄜㄉㄛ</rt></ruby>: a map.
 - <ruby>[解析](../words/解析.md)<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby>: to analyze, analysis — a more technical/mathematical register than 分析 above.
 - <ruby>[推測](../words/推測.md)<rt>ㄑㄨㄧㄑㄜㄎ</rt></ruby>: to surmise, speculate, guess.
 - <ruby>[推定](../words/推定.md)<rt>ㄑㄨㄧㄐㄝㄫ</rt></ruby>: to estimate, presume; to reconstruct — a reasoned conclusion held until corrected, firmer than [[推測]] "surmise" and weaker than proof; also the legal and linguistic-reconstruction sense.
@@ -163,6 +164,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 
 - <ruby>[科学](../words/科学.md)<rt>ㄎ⺢ㄏㄚㄎ</rt></ruby>: science.
 - <ruby>[化学](../words/化学.md)<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>: chemistry.
+- <ruby>[地理学](../words/地理学.md)<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby>: geography as a field of study.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
 - <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.

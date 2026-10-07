@@ -52,6 +52,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[存亡](../words/存亡.md)<rt>ㄐㄛㄋㄇㄚㄫ</rt></ruby>: survival (archaic); survival and ruin.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.
+- <ruby>[回生](../words/回生.md)<rt>ㄏㄛㄧㄙㄚㄫ</rt></ruby>: to resurrect, resuscitate, regenerate.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
 - <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
 
@@ -66,6 +67,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[塚](../words/塚.md)<rt>ㄑㄛㄫ</rt></ruby>: a burial mound, grave, tumulus (古塚, "an ancient burial mound"; 貝塚, "a shell midden").
 - <ruby>[墓穴](../words/墓穴.md)<rt>ㄇㄛㄏ⼔ㄊ</rt></ruby>: a grave, burial pit — the excavated cavity that receives the dead; the stand-in for the bound character 墓.
 - <ruby>[墓碑](../words/墓碑.md)<rt>ㄇㄛㄅㄧ</rt></ruby>: a gravestone, tombstone — the inscribed stone that marks a grave; the stand-in for the bound character 碑 (stele) in the funerary sense.
+- <ruby>[墳墓](../words/墳墓.md)<rt>ㄅㄨㄋㄇㄛ</rt></ruby>: a grave, tomb.
 
 **Not yet coined**: "funeral" and "mortal" have no dedicated Dan'a'yo word yet.
 

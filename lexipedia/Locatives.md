@@ -16,6 +16,8 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[位置](../words/位置.md)<rt>⼔ㄧㄑㄧ</rt></ruby>: a location, place.
+- <ruby>[地点](../words/地点.md)<rt>ㄉㄧㄜㄉㄝㄇ</rt></ruby>: a point, spot.
+- <ruby>[境界](../words/境界.md)<rt>ㄍ⼶ㄫㄍ⼶</rt></ruby>: a boundary, zone.
 - <ruby>[上](../words/上.md)<rt>ㄙ⼘ㄫ</rt></ruby>: above.
 - <ruby>[前](../words/前.md)<rt>ㄐㄝㄋ</rt></ruby>: front, in front of — the spatial sense specifically; see [[Calendar]] for this same word's separate temporal "prior" citation.
 - <ruby>[背後](../words/背後.md)<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>: behind, the rear.

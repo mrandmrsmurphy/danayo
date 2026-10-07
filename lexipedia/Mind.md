@@ -81,6 +81,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
 - <ruby>[意見](../words/意見.md)<rt>ㄜㄍ⼶ㄋ</rt></ruby>: an opinion, view.
 - <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
+- <ruby>[固執](../words/固執.md)<rt>ㄍㄛㄐㄧㄆ</rt></ruby>: stubborn; to stick to.
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: will, shall — the grammatical future-tense marker, not the psychological faculty; see [[Grammar]] for its own citation there.
 
 ### Doubt & Hesitation

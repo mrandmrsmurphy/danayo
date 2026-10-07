@@ -100,6 +100,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
 - <ruby>[刊行](../words/刊行.md)<rt>ㄎㄚㄋㄏㄚㄫ</rt></ruby>: to publish (a book or periodical).
 - <ruby>[小冊子](../words/小冊子.md)<rt>ㄙㄛㄑㄚㄎㄐㄜ</rt></ruby>: a booklet.
+- <ruby>[序文](../words/序文.md)<rt>ㄙ⼄·ㄇㄨㄋ</rt></ruby>: a preface.
 - <ruby>[初版](../words/初版.md)<rt>ㄑㄛ·ㄆㄚㄋ</rt></ruby>: a first edition.
 - <ruby>[新聞](../words/新聞.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby>: news (Mandarin, Cantonese); newspaper (Japanese, Korean).
 - <ruby>[刊](../words/刊.md)<rt>ㄎㄚㄋ</rt></ruby>: a publication, periodical (週刊, "a weekly publication"; [[季刊]], "a quarterly").
@@ -186,6 +187,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[洞簫](../words/洞簫.md)<rt>ㄉㄛㄫㄙㄛㄨ</rt></ruby>: the xiao, an end-blown bamboo flute.
 - <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
 - <ruby>[古琴](../words/古琴.md)<rt>ㄍㄛㄍㄨㄇ</rt></ruby>: the guqin, a seven-string zither.
+- <ruby>[鐘](../words/鐘.md)<rt>ㄐㄛㄫ</rt></ruby>: a bell.
 - <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
 - <ruby>[古箏](../words/古箏.md)<rt>ㄍㄛㄐㄝㄫ</rt></ruby>: the guzheng, the long multi-stringed plucked Chinese zither — the "old 箏", ancestor of a family of East Asian zithers; the stand-in for the bound character 箏, distinct from the [[琴]] and [[瑟]] above.
 - <ruby>[提琴](../words/提琴.md)<rt>ㄙㄝㄍㄨㄇ</rt></ruby>: the violin family, bowed string instruments — a "held-up" stringed instrument played at the body or shoulder (小提琴 violin, 大提琴 cello); distinct from the table-laid zither [[琴]] (the guqin), whose name it shares in 琴.
@@ -225,6 +227,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### The Five Classics (五経)
 
 - <ruby>[五経](../words/五経.md)<rt>ㄛㄍㄝㄫ</rt></ruby>: the Five Classics, collectively — paired with the Four Books ([[四書五経]]) as the core texts of traditional Chinese scholarship.
+- <ruby>[四書](../words/四書.md)<rt>ㄙㄧㄜㄙ⼄</rt></ruby>: the Four Books.
 - <ruby>[礼記](../words/礼記.md)<rt>ㄌㄝㄧㄍㄧ</rt></ruby>: Book of Rites.
 - <ruby>[易経](../words/易経.md)<rt>⼶ㄎㄍㄝㄫ</rt></ruby>: Book of Changes.
 - <ruby>[書経](../words/書経.md)<rt>ㄙ⼄ㄍㄝㄫ</rt></ruby>: Book of Documents.

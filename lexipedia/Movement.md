@@ -22,6 +22,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[往](../words/往.md)<rt>⺢ㄫ</rt></ruby>: to go towards (往復, "round trip"; 往来, "coming and going, interaction") — a near-synonym of [[去]].
 - <ruby>[入](../words/入.md)<rt>ㄋㄧㄆ</rt></ruby>: to enter.
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
+- <ruby>[外出](../words/外出.md)<rt>⺢ㄧㄑㄨㄊ</rt></ruby>: to go out.
 - <ruby>[入場](../words/入場.md)<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby>: to enter a venue, admission.
 - <ruby>[到達](../words/到達.md)<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby>: to arrive at, reach.
 - <ruby>[帰還](../words/帰還.md)<rt>ㄍㄨㄧㄏ⺢ㄋ</rt></ruby>: to return home, give back, be repatriated.
@@ -33,6 +34,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[登](../words/登.md)<rt>ㄉㄨㄫ</rt></ruby>: to mount, board, climb.
 - <ruby>[上昇](../words/上昇.md)<rt>ㄙ⼘ㄫㄙㄨㄫ</rt></ruby>: to rise, ascend, increase — the ordinary verb for an upward trajectory, literal (temperature, altitude, smoke) or figurative (prices, rank, morale) alike; distinct from [[登]]'s effortful climbing and [[勃興]]'s abstract-only rise of a trend or power.
 - <ruby>[引](../words/引.md)<rt>ㄧㄋ</rt></ruby>: to pull, tug.
+- <ruby>[引入](../words/引入.md)<rt>ㄧㄋㄋㄧㄆ</rt></ruby>: to lead into, introduce to.
 - <ruby>[牽引](../words/牽引.md)<rt>ㄎㄝㄋ·ㄧㄋ</rt></ruby>: to tow, haul — to pull something along behind, as a vehicle pulls a load or a traction force draws a part; a heavier, sustained pulling than [[引]]'s plain pull.
 - <ruby>[引出](../words/引出.md)<rt>ㄧㄋㄑㄨㄊ</rt></ruby>: to lead out, extract, derive — to draw something out (an object, a conclusion, a reaction); in Korean the standard word for a bank withdrawal; in Dan'a'yo it governs 奴家 in the Biblical chengyu 引出奴家, "led out of the house of bondage".
 - <ruby>[留](../words/留.md)<rt>ㄌ⼜</rt></ruby>: to remain, stay.
@@ -69,6 +71,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[落下](../words/落下.md)<rt>ㄌㄚㄎㄏㄚ</rt></ruby>: to fall.
 - <ruby>[勃興](../words/勃興.md)<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby>: to rise — of a movement, power, or trend, not a physical body.
 - <ruby>[倒](../words/倒.md)<rt>ㄊㄚㄨ</rt></ruby>: to fall over, topple, overturn, invert — distinct from [[下降]]'s gradual descent and [[墜落]]'s crashing drop; also, in compounds (倒班), "to take turns, rotate shifts," via the idea of alternation.
+- <ruby>[絆倒](../words/絆倒.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>: to trip, fetter and fell.
 
 ### Speed: Fast & Slow
 
@@ -158,6 +161,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[懐](../words/懐.md)<rt>ㄏ⺢ㄧ</rt></ruby>: to miss, think of.
 - <ruby>[相思](../words/相思.md)<rt>ㄙㄚㄫㄙㄚ</rt></ruby>: to pine for, long for, miss — mutual, romantic longing specifically.
 - <ruby>[放棄](../words/放棄.md)<rt>ㄈㄚㄫㄎㄧㄜ</rt></ruby>: to abandon, reject — a right or claim.
+- <ruby>[廃棄](../words/廃棄.md)<rt>ㄈㄝ·ㄎㄧㄜ</rt></ruby>: to discard, abolish, dispose of.
 - <ruby>[放置](../words/放置.md)<rt>ㄈㄚㄫㄑㄧ</rt></ruby>: to put aside, abandon, shelve — neglect, leaving something unattended.
 - <ruby>[断念](../words/断念.md)<rt>ㄉ⺢ㄋㄋㄝㄇ</rt></ruby>: to give up, abandon — an ambition or hope, a resignation.
 - <ruby>[進行](../words/進行.md)<rt>ㄐㄧㄋㄏㄚㄫ</rt></ruby>: to advance, progress.
@@ -234,6 +238,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[伸長](../words/伸長.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: to extend, stretch — see [[Dimensions]] for its own citation there; an undocumented near-duplicate of [[伸展]].
 - <ruby>[回転](../words/回転.md)<rt>ㄏㄛㄧㄐ⼔ㄋ</rt></ruby>: to turn, spin, rotate, revolve.
 - <ruby>[回](../words/回.md)<rt>ㄏㄛㄧ</rt></ruby>: to turn, revolve, return — the bound root behind [[回転]] and [[回帰]] above; also serves as a measure word for repeated occurrences (see [[Numbers]]).
+- <ruby>[回天](../words/回天.md)<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby>: to turn the tide, reverse a desperate situation.
 - <ruby>[旋転](../words/旋転.md)<rt>ㄙ⼔ㄋㄐ⼔ㄋ</rt></ruby>: to revolve, rotate, turn — an undocumented near-duplicate of [[回転]].
 - <ruby>[捻](../words/捻.md)<rt>ㄋㄝㄆ</rt></ruby>: to twist.
 - <ruby>[糾](../words/糾.md)<rt>ㄍ⼜ㄛ</rt></ruby>: to twist, investigate — see [[Knowledge]] for its own citation there; figurative "twisting" (untangling a case), not physical twisting like [[捻]].
