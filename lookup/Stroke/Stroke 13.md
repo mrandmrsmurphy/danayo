@@ -1,7 +1,7 @@
 ---
 stroke_count: 13
 date-last-perfect: 2026-10-03
-size: 280
+size: 281
 tags:
   - lookup
 ---
@@ -33,6 +33,7 @@ tags:
 - 3-4-9: <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[虞]]<rt>ㄨ</rt></ruby>, <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[遊]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[過 (char)|過]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby>
 - 3-5-8: <ruby>[[痰 (char)|痰]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[痴]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[痺]]<rt>ㄅㄧ</rt></ruby>
 - 3-6-7: <ruby>[[載 (char)|載]]<rt>ㄐㄚㄧ</rt></ruby>
+- 3-8-5: <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby>
 - 4-13-1: <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby>
 ### Aliases
 

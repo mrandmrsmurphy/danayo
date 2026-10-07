@@ -640,6 +640,15 @@ tags: [lookup]
 636. [驟](../../characters/驟.md)
 637. [冪](../../characters/冪.md)
 638. [寨](../../characters/寨.md)
+639. [抛](../../characters/抛.md)
+640. [枉](../../characters/枉.md)
+641. [枼](../../characters/枼.md)
+642. [璣](../../characters/璣.md)
+643. [笭](../../characters/笭.md)
+644. [筐 (char)](../../characters/筐%20(char).md)
+645. [胖](../../characters/胖.md)
+646. [雴](../../characters/雴.md)
+647. [鴔](../../characters/鴔.md)
 
 
 [[../../characters/吠]] - barking DO IT

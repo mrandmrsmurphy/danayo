@@ -994,6 +994,12 @@ tags: [lookup]
 [塾](../../characters/塾.md)
 [寨](../../characters/寨.md)
 [徴](../../characters/徴.md)
+[枼](../../characters/枼.md)
+[浜 (char)](../../characters/浜%20(char).md)
+[笭](../../characters/笭.md)
+[賛](../../characters/賛.md)
+[雴](../../characters/雴.md)
+[鴔](../../characters/鴔.md)
 ## Datacheck
 ```base
 version: 1

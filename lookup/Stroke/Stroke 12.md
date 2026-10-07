@@ -1,7 +1,7 @@
 ---
 stroke_count: 12
 date-last-perfect: 2026-10-03
-size: 340
+size: 339
 tags: [lookup]
 ---
 > [[Stroke]]
@@ -34,7 +34,7 @@ tags: [lookup]
 - 3-5-7: <ruby>[[痩 (char)|痩]]<rt>ㄙ⼜</rt></ruby>, <ruby>[[痢]]<rt>ㄌㄧㄜ</rt></ruby>, <ruby>[[痛]]<rt>ㄊㄛㄫ</rt></ruby>, <ruby>[[痘]]<rt>ㄉㄛㄨ</rt></ruby>
 - 3-6-6: <ruby>[[裁]]<rt>ㄑㄚㄧ</rt></ruby>
 - 3-7-5: <ruby>[[越 (char)|越]]<rt>⼔ㄊ</rt></ruby>, <ruby>[[着 (char)|着]]<rt>ㄐ⺢ㄎ</rt></ruby>, <ruby>[[超 (char)|超]]<rt>ㄊㄚㄨ</rt></ruby>
-- 3-8-4: <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby>, <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby>, <ruby>[[間]]<rt>ㄍㄚㄋ</rt></ruby>, <ruby>[[閑]]<rt>ㄏㄚㄋ</rt></ruby>, <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby>, <ruby>[[悶]]<rt>ㄇㄛㄋ</rt></ruby>, <ruby>[[閏 (char)|閏]]<rt>ㄋㄨㄋ</rt></ruby>
+- 3-8-4: <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby>, <ruby>[[間]]<rt>ㄍㄚㄋ</rt></ruby>, <ruby>[[閑]]<rt>ㄏㄚㄋ</rt></ruby>, <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby>, <ruby>[[悶]]<rt>ㄇㄛㄋ</rt></ruby>, <ruby>[[閏 (char)|閏]]<rt>ㄋㄨㄋ</rt></ruby>
 - 4-12-4: <ruby>[[幾 (char)|幾]]<rt>ㄍㄧㄜ</rt></ruby>
 
 ### Aliases

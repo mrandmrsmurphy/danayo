@@ -31,24 +31,24 @@ mc_id: 1033
 graphemic_classification: "非"
 stand_in: "悲"
 注音: "ㄅㄧㄜ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 悲.
->For the word, see [悲](words/悲.md)
+>For the word, see [悲](../words/悲.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC *pɯi): semantic [[Radical 061|心]] ("heart") + phonetic [[非]] (OC *pɯi, "not, wrong") — sorrow felt in the heart; "be sad, sorrowful."
-- [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1033rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 脂B三開|ɣiɪ]] → [ㄅㄧㄜ](syllables/ㄅㄧㄜ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 形声 (OC \*prɯl): semantic [[Radical 061|心]] ("heart") + phonetic [[非]] (OC *pɯi, "not, wrong") — sorrow felt in the heart; "be sad, sorrowful."
+- [SKIP-2-8-4](../lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1033rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 脂B三開|ɣiɪ]] → [ㄅㄧㄜ](../syllables/ㄅㄧㄜ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[悲]]<rt>ㄅㄧㄜ</rt></ruby> "be sad" (stand-in for 悲)

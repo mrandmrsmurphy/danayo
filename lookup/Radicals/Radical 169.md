@@ -24,6 +24,8 @@ tags: [lookup]
 6. <ruby>[閏](../../characters/閏%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - intercalary
 7. <ruby>[閑](../../characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 8. <ruby>[閔](../../characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - urge
+
+### +5 Strokes
 9. <ruby>[閙](../../characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy
 
 ### +6 Strokes

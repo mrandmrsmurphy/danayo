@@ -27,18 +27,18 @@ joyo_level: "日本人名用漢字"
 hsk_level: "1"
 hanmun_edu_level: "名"
 danayo_id: 8267
-mc_id: 2783
+mc_id: 2784
 graphemic_classification: "矞"
 stand_in: "橘"
 注音: "ㄍ⼜ㄊ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 橘.
->For the word, see [橘](words/橘.md)
+>For the word, see [橘](../words/橘.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*kʷid): semantic [[Radical 075|木]] ("tree") + phonetic [[矞]] (OC \*ɢʷid) — a fruit tree, the tangerine. [[桔]] was briefly used as the mainland Chinese second-round (1977) simplified form of this character, a relationship no longer officially recognized in real-world Chinese and not followed in Dan'a'yo, where 桔 keeps its own separate page and unrelated primary meaning ("well-sweep"; balloon flower in 桔梗).
-- [SKIP-1-4-12](lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 2783rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄍ⼜ㄊ](syllables/ㄍ⼜ㄊ.md)
-- [Grade Name](lookup/Grade%20Name.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-4-12](../lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 2784th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄍ⼜ㄊ](../syllables/ㄍ⼜ㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[橘]]<rt>ㄍ⼜ㄊ</rt></ruby> "tangerine"

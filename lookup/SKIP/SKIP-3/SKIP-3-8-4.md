@@ -1,6 +1,6 @@
 ---
 stroke_count: 12
-size: 7
+size: 6
 skip_number: 3-8-4
 date-last-perfect: 2026-09-24
 tags: [lookup]
@@ -16,7 +16,6 @@ tags: [lookup]
 4. <ruby>[閑](/characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 5. <ruby>[間](/characters/間.md)<rt>ㄍㄚㄋ</rt></ruby> - between
 6. <ruby>[閔](/characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - grieve
-7. <ruby>[閙](/characters/閙.md)<rt>ㄋ⼘ㄨ</rt></ruby> - noisy
 
 ## Datacheck
 ```dataview

@@ -7,6 +7,7 @@ japanese:
   - KEI
 japanese_native:
   - にわとり
+  - とり
 vietnamese:
   - ke
   - kê
@@ -34,25 +35,25 @@ aliases:
   - 鷄
   - 鸡
 注音: "ㄍㄝㄧ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 鶏.
->For the word, see [鶏](words/鶏.md)
+>For the word, see [鶏](../words/鶏.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC *ke): semantic [[Radical 196|鳥]] ("bird") + phonetic [[奚]] (OC *ɡeː, "servant") — a domesticated fowl; "chicken, rooster."
-- [SKIP-1-8-11](lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](lookup/Stroke/Stroke%2019.md))
-- 1151st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄍㄝㄧ](syllables/ㄍㄝㄧ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- Old spelling on [Korean MS](lookup/Korean/Korean%20MS.md) and [HSK Beginner](lookup/HSK/HSK%20Beginner.md); shinjitai on [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md).
+- 形声 (OC \*ke): semantic [[Radical 196|鳥]] ("bird") + phonetic [[奚]] (OC \*ɡeː, "servant") — a domesticated fowl; "chicken, rooster."
+- [SKIP-1-8-11](../lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- 1151st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄍㄝㄧ](../syllables/ㄍㄝㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+- Old spelling on [Korean MS](../lookup/Korean/Korean%20MS.md) and [HSK Beginner](../lookup/HSK/HSK%20Beginner.md); shinjitai on [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md).
 
 ## Words
 - <ruby>[[鶏]]<rt>ㄍㄝㄧ</rt></ruby> "chicken" (stand-in for 鶏)

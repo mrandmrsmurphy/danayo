@@ -33,22 +33,22 @@ aliases:
   - 鱆
   - 鮹
 注音: "ㄐㄚㄫ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 章.
->For the word, see [章](words/章.md)
+>For the word, see [章](../words/章.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
 - 会意 of [[辛]] ("chisel") and [[玉 (char)|玉]] ("jade", now written as 日) — incising a pattern into jade; "mark, seal," later "chapter, section."
-- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 365th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](syllables/ㄐㄚㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 365th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](../syllables/ㄐㄚㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[章]]<rt>ㄐㄚㄫ</rt></ruby> "chapter" (stand-in for 章)
@@ -58,7 +58,13 @@ boundedness: 90
 - <ruby>[[章魚]]<rt>ㄐㄚㄫ⼄</rt></ruby> "octopus" (by loan)
 - <ruby>[[肩章]]<rt>ㄍㄝㄋㄐㄚㄫ</rt></ruby> "epaulet (shoulder decoration)"
 - <ruby>[[章程]]<rt>ㄐㄚㄫㄉㄧㄫ</rt></ruby> "rules; regulations"
+- <ruby>[[周章]]<rt>ㄐㄨㄛㄐㄚㄫ</rt></ruby> "troubled, flustered"
 
 ## Chengyu
 - <ruby>[[断章取義]]<rt>ㄉ⺢ㄋㄐㄚㄫㄑㄛㄨㄜㄧ</rt></ruby> "take out of context"
 - <ruby>[[周章狼狽]]<rt>ㄐㄨㄛㄐㄚㄫㄌㄚㄫㄅㄚㄧ</rt></ruby> "flustered and thrown into complete disarray"
+
+## Derived Characters
+- <ruby>[[彰]]<rt>ㄑㄚㄫ</rt></ruby> "clear, manifest, obvious"
+- <ruby>[[樟]]<rt>ㄐㄚㄫ</rt></ruby> "camphor tree"
+- <ruby>[[障]]<rt>ㄐㄚㄫ</rt></ruby> "shield, barricade"

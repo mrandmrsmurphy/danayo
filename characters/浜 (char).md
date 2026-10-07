@@ -9,6 +9,7 @@ japanese_native:
   - はま
 vietnamese:
   - banh
+  - vĩ
 middle_chinese_initial: p
 middle_chinese_final: "iɪn"
 stroke_count: 10
@@ -32,14 +33,14 @@ stand_in: "浜"
 aliases:
   - 濱
 注音: "ㄅㄧㄋ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 浜.
->For the word, see [浜](words/浜.md)
+>For the word, see [浜](../words/浜.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +48,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC *prɯŋ): semantic [[Radical 085|水]] ("water") + phonetic [[兵]] (OC *praŋ, "soldier") — a simplified form of [[濱]], the water's edge; "coast, bank, beach."
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 2355th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄅㄧㄋ](syllables/ㄅㄧㄋ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 2355th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄅㄧㄋ](../syllables/ㄅㄧㄋ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
 - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby> "coast" (stand-in for 浜)

@@ -7,6 +7,7 @@ japanese:
   - ZETSU
 japanese_native:
   - た
+  - たや
 vietnamese:
   - tiệt
   - toẹt
@@ -36,24 +37,24 @@ aliases:
   - 絕
   - 绝
 注音: "ㄐ⼔ㄊ"
-date-last-perfect: 2026-06-14
+date-last-perfect: 2026-10-07
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 絶.
->For the word, see [絶](words/絶.md)
+>For the word, see [絶](../words/絶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 会意 of [[Radical 120|糸]] ("thread, silk") and [[刀]] ("knife") — cutting a thread with a knife; "sever, cut off, discontinue."
-- [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 332nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 薛A三合|iuᴇt]] → [ㄐ⼔ㄊ](syllables/ㄐ⼔ㄊ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (5), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 会意 of [[Radical 120|糸]] ("thread, silk") and [[刀]] ("knife") — cutting a thread with a knife (in the modern form 糸 + 色); "sever, cut off, discontinue."
+- [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 332nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 薛A三合|iuᴇt]] → [ㄐ⼔ㄊ](../syllables/ㄐ⼔ㄊ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[絶]]<rt>ㄐ⼔ㄊ</rt></ruby> "discontinue" (stand-in for 絶)
@@ -62,3 +63,6 @@ boundedness: 75
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
+
+## Derived Characters
+- <ruby>[[脆]]<rt>ㄑㄝ</rt></ruby> "brittle, fragile"
