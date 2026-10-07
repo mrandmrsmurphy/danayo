@@ -153,6 +153,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[感恩](../words/感恩.md)<rt>ㄍㄚㄇ·ㄜㄋ</rt></ruby>: to feel thankful, be grateful.
 - <ruby>[蛮人](../words/蛮人.md)<rt>ㄇㄚㄋㄋㄧㄋ</rt></ruby>: a barbarian.
 - <ruby>[蛮夷](../words/蛮夷.md)<rt>ㄇㄚㄋ·ㄧㄜ</rt></ruby>: a barbarian, non-Han peoples — a near-synonym of [[蛮人]].
+- <ruby>[東夷](../words/東夷.md)<rt>ㄉㄛㄫㄧㄜ</rt></ruby>: the "Eastern barbarians" — the historical Sinocentric name for the peoples east of ancient China (Korea, Japan, the coast); the eastern one of the four directional barbarian names, beside [[蛮夷]]'s general term.
 - <ruby>[教化](../words/教化.md)<rt>ㄍ⼄ㄨㄏ⺢</rt></ruby>: to civilize, cultivate, enlighten.
 - <ruby>[温柔](../words/温柔.md)<rt>ㄛㄆㄋ⼜</rt></ruby>: gentle, loving, sweet — Rosenfelder's "gentle."
 - <ruby>[斯文](../words/斯文.md)<rt>ㄙㄧ·ㄇㄨㄋ</rt></ruby>: genteel, refined, courteous manner — a near-synonym of [[温柔]], cooler and more about refined bearing than warmth. See Semantic Range Notes.

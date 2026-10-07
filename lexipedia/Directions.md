@@ -29,6 +29,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北方](../words/北方.md)<rt>ㄅㄨㄎㄈㄚㄫ</rt></ruby>: north.
 - <ruby>[北部](../words/北部.md)<rt>ㄅㄨㄎㄅㄛㄨ</rt></ruby>: the north, a northern area.
 - <ruby>[北端](../words/北端.md)<rt>ㄅㄨㄎㄉ⺢ㄋ</rt></ruby>: the northern edge.
+- <ruby>[東端](../words/東端.md)<rt>ㄉㄛㄫㄉ⺢ㄋ</rt></ruby>: the eastern edge, eastern tip — the east counterpart of [[北端]].
 - <ruby>[東西](../words/東西.md)<rt>ㄉㄛㄫㄙㄝㄧ</rt></ruby>: east and west; also "thing, stuff" in colloquial Mandarin (dōngxi).
 - <ruby>[南方](../words/南方.md)<rt>ㄋㄚㄇㄈㄚㄫ</rt></ruby>: south.
 - <ruby>[南部](../words/南部.md)<rt>ㄋㄚㄇㄅㄛㄨ</rt></ruby>: the south, a southern area.
@@ -52,6 +53,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北面](../words/北面.md)<rt>ㄅㄨㄎㄇ⼶ㄋ</rt></ruby>: the north side.
 - <ruby>[南北](../words/南北.md)<rt>ㄋㄚㄇㄅㄨㄎ</rt></ruby>: north and south.
 - <ruby>[東北](../words/東北.md)<rt>ㄉㄛㄫㄅㄨㄎ</rt></ruby>: northeast — the intercardinal direction between 東 and 北 (also used as a region name, e.g. Japan's Tōhoku or China's northeast).
+- <ruby>[東南](../words/東南.md)<rt>ㄉㄛㄫㄋㄚㄇ</rt></ruby>: southeast — the intercardinal direction between 東 and 南, beside [[東北]]; also the root of the region name [[東南亜]].
 - <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby>: the South Pole.
 
 ### Sides & Edges
