@@ -86,6 +86,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[鏡鑑](../words/鏡鑑.md)<rt>ㄍ⼶ㄫㄍㄚㄇ</rt></ruby>: a mirror — a more formal/literary near-synonym of [[鏡]].
 - <ruby>[眼鏡](../words/眼鏡.md)<rt>ㄚㄋㄍ⼶ㄫ</rt></ruby>: glasses, spectacles — an "eye-mirror."
 - <ruby>[時計](../words/時計.md)<rt>ㄙㄧㄍㄝㄧ</rt></ruby>: a clock, watch.
+- <ruby>[振子](../words/振子.md)<rt>ㄐㄧㄋㄐㄜ</rt></ruby>: a pendulum.
 - <ruby>[看](../words/看.md)<rt>ㄎㄚㄋ</rt></ruby>: to watch over, look after, watch — the verb, distinct from [[時計]]'s noun.
 
 ### Lighting

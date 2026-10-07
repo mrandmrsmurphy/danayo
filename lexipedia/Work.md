@@ -62,6 +62,8 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[熟練](../words/熟練.md)<rt>ㄙㄨㄎㄌㄝㄋ</rt></ruby>: able, skillful, proficient.
 - <ruby>[妙手](../words/妙手.md)<rt>ㄇ⼄ㄨㄙ⼜</rt></ruby>: an expert, master — a brilliantly skilled hand.
 - <ruby>[技術](../words/技術.md)<rt>ㄍㄨㄧㄙㄨㄊ</rt></ruby>: technique, technology.
+- <ruby>[才能](../words/才能.md)<rt>ㄐㄚㄧㄋㄜㄫ</rt></ruby>: ability, talent.
+- <ruby>[採用](../words/採用.md)<rt>ㄑㄚㄧ⼄ㄫ</rt></ruby>: to adopt, employ, use.
 - <ruby>[技巧](../words/技巧.md)<rt>ㄍㄨㄧㄎ⼘ㄨ</rt></ruby>: technique, craft-skill.
 - <ruby>[術](../words/術.md)<rt>ㄙㄨㄊ</rt></ruby>: skill, method, technique — the free-standing base morpheme underlying [[技術]] and [[芸術]].
 - <ruby>[専門](../words/専門.md)<rt>ㄐ⼔ㄋㄇㄛㄋ</rt></ruby>: a specialty, field of expertise — 専 "dedicated" + 門 "field."

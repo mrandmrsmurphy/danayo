@@ -22,6 +22,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry — see [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[種子](../words/種子.md)<rt>ㄐㄛㄫㄐㄜ</rt></ruby>: a seed.
 - <ruby>[胞子](../words/胞子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>: a spore.
+- <ruby>[新芽](../words/新芽.md)<rt>ㄙㄧㄋ·ㄚ</rt></ruby>: a bud, sprout.
 - <ruby>[根](../words/根.md)<rt>ㄍㄜㄋ</rt></ruby>: a root; foundation.
 - <ruby>[葉](../words/葉.md)<rt>⼄ㄆ</rt></ruby>: a leaf.
 - <ruby>[豆](../words/豆.md)<rt>ㄉㄛㄨ</rt></ruby>: a bean.
@@ -51,6 +52,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[苗圃](../words/苗圃.md)<rt>ㄇ⼘ㄨㄅㄛ</rt></ruby>: a plant nursery, seedbed — the plot where seedlings are raised from [[種子]] (seed) before being transplanted; the stand-in for the bound character 圃 (garden plot).
 - <ruby>[野菜](../words/野菜.md)<rt>⼘ㄑㄚㄧ</rt></ruby>: vegetables; edible wild herbs.
 - <ruby>[蘿蔔](../words/蘿蔔.md)<rt>ㄌㄚㄅㄨㄎ</rt></ruby>: a radish.
+- <ruby>[慈姑](../words/慈姑.md)<rt>ㄐㄧㄍㄛ</rt></ruby>: arrowhead, Sagittaria.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens — see [Food](../lexipedia/Food.md) for its own citation there.
 
 ### Trees & Woody Plants

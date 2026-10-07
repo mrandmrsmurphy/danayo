@@ -45,6 +45,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[秘密](../words/秘密.md)<rt>ㄅㄧㄜㄇㄧㄊ</rt></ruby>: a secret.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare, get ready.
 - <ruby>[覚悟](../words/覚悟.md)<rt>ㄍㄚㄎ·ㄛ</rt></ruby>: resolve, mental preparedness; awareness, enlightenment — in Japanese and Korean the readiness to face something, in Mandarin the "waking up to" a truth, often Buddhist or ideological; beside [[準備]]'s practical preparing.
+- <ruby>[憬悟](../words/憬悟.md)<rt>ㄍ⼄ㄫㄛ</rt></ruby>: to awaken to understanding, realize.
 
 **Not yet coined**: "attention," "commit," "conscious," "curious," "dare," "expect," "mental" (as an independent adjective), "prefer," "remind," and "wait" all have no dedicated Dan'a'yo word yet.
 
@@ -154,6 +155,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request; a claim.
 - <ruby>[趣味](../words/趣味.md)<rt>ㄑㄨ·ㄇㄨㄧ</rt></ruby>: a hobby, interest, taste.
 - <ruby>[感覚](../words/感覚.md)<rt>ㄍㄚㄇㄍㄚㄎ</rt></ruby>: to feel, think, be of the opinion that — an impression-based judgment, not analytical thought.
+- <ruby>[敏感](../words/敏感.md)<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby>: sensitive.
 - <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>: like, as — the comparison particles ("X is like Y"), a distinct grammatical sense from [[喜]]'s "to like" (to enjoy); see [[Grammar]] for their own citations there.
 - <ruby>[宛然](../words/宛然.md)<rt>ㄛㄋㄋ⼶ㄋ</rt></ruby>: as if, just like — a vivid resemblance.
 
@@ -241,6 +243,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[扱](../words/扱.md)<rt>ㄑㄚㄆ</rt></ruby>: to handle, deal with — a more general everyday register than [[措置]]'s administrative one.
 - <ruby>[整理](../words/整理.md)<rt>ㄐㄝㄫㄌㄧ</rt></ruby>: to straighten, arrange, order, tidy.
 - <ruby>[整](../words/整.md)<rt>ㄐㄝㄫ</rt></ruby>: orderly, neat, tidy.
+- <ruby>[整斉](../words/整斉.md)<rt>ㄐㄝㄫㄐㄝㄧ</rt></ruby>: to arrange, straighten, order.
 - <ruby>[企劃](../words/企劃.md)<rt>ㄎㄝㄏ⺢ㄎ</rt></ruby>: to plan; a scheme — a project or undertaking, neutral in tone.
 - <ruby>[劃](../words/劃.md)<rt>ㄏ⺢ㄎ</rt></ruby>: to divide, mark off, delimit, plan out — the bound root behind [[企劃]] above.
 - <ruby>[予定](../words/予定.md)<rt>⼄ㄐㄝㄫ</rt></ruby>: a schedule, plan, appointment — see [[Calendar]] for its own citation there; time-bound, distinct from [[企劃]]'s open-ended project sense.

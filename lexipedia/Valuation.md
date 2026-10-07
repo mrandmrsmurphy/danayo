@@ -87,6 +87,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 ### Wisdom
 
 - <ruby>[賢明](../words/賢明.md)<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>: wise. See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.
+- <ruby>[慧眼](../words/慧眼.md)<rt>ㄏ⼔ㄧㄚㄋ</rt></ruby>: discernment, acumen.
 - <ruby>[愚](../words/愚.md)<rt>ㄨ</rt></ruby>: foolish — the closest available match for "fool," though the adjective rather than a dedicated noun for "a fool."
 - <ruby>[謹慎](../words/謹慎.md)<rt>ㄍㄧㄋㄙㄧㄋ</rt></ruby>: cautious — the closest available match for "prudent," though the two concepts aren't a perfect overlap.
 

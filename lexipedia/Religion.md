@@ -104,6 +104,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[観音](../words/観音.md)<rt>ㄍ⺢ㄋ·ㄨㄇ</rt></ruby>: Guanyin, Avalokiteśvara, the bodhisattva of mercy — short for 観世音, a translation ("the one who observes the sounds [of suffering beings]") rather than a transliteration of the Sanskrit; Japanese かんのん, Korean 관음, Vietnamese Quan Âm.
 - <ruby>[弥勒](../words/弥勒.md)<rt>ㄇㄝㄌㄨㄎ</rt></ruby>: Maitreya, the future Buddha.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
+- <ruby>[揄伽](../words/揄伽.md)<rt>⼜ㄇㄍ⼘</rt></ruby>: yoga.
 - <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").
 - <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).

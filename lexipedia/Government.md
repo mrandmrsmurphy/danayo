@@ -15,6 +15,8 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[政治](../words/政治.md)<rt>ㄐㄧㄫㄑㄧ</rt></ruby>: politics.
+- <ruby>[政党](../words/政党.md)<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby>: a political party.
+- <ruby>[方針](../words/方針.md)<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby>: a policy, principle.
 - <ruby>[体制](../words/体制.md)<rt>ㄊㄝㄧㄐㄝㄧ</rt></ruby>: a system, regime, governing structure.
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
 - <ruby>[国王](../words/国王.md)<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby>: a king, sovereign, monarch.
@@ -178,6 +180,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[伺候](../words/伺候.md)<rt>ㄙㄧㄏㄛㄨ</rt></ruby>: to wait upon, serve, attend to a master or superior — now covers this domain's own flagged "to serve" gap.
 - <ruby>[郭清](../words/郭清.md)<rt>ㄍ⺢ㄎㄑㄧㄫ</rt></ruby>: to purge, clear away (also, literally, surgical dissection). See Semantic Range Notes.
 - <ruby>[改革](../words/改革.md)<rt>ㄍㄚㄧㄎㄧㄎ</rt></ruby>: reform — a deliberate, structural change to a system, institution or policy (economic reform, land reform); the gradual, institutional counterpart to 革命, revolution, as its Notes explain.
+- <ruby>[改善](../words/改善.md)<rt>ㄍㄚㄧㄙ·⼶ㄋ</rt></ruby>: improvement, reform.
 - <ruby>[頒布](../words/頒布.md)<rt>ㄆㄚㄋㄅㄛ</rt></ruby>, <ruby>[諭示](../words/諭示.md)<rt>⼜ㄇㄍㄝ</rt></ruby>: to promulgate, issue a decree officially.
 - <ruby>[勅令](../words/勅令.md)<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby>: an imperial edict, decree — a command issued in the throne's own name, the highest register of order (the historical imperial edict in Chinese, the Joseon royal decree in Korean, a cabinet order issued in the emperor's name in prewar Japan); what [[頒布]] and [[諭示]] promulgate.
 - <ruby>[詔書](../words/詔書.md)<rt>ㄐㄛㄨㄙ⼄</rt></ruby>: an imperial edict — the written proclamation issued by an emperor; a stable pan-Sinospheric term for the document itself, where [[勅令]] names the command; the stand-in for the bound character 詔.

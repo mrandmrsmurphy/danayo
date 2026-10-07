@@ -45,6 +45,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[餃子](../words/餃子.md)<rt>ㄍ⼄ㄨㄐㄜ</rt></ruby>: a jiaozi, dumpling, gyoza — filled dough folded and boiled.
 - <ruby>[臘八粥](../words/臘八粥.md)<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby>: Laba congee — the ritual porridge of eight or more grains, beans, nuts and fruits eaten on [[臘八節]]; a specific festival dish, not congee in general ([[粥]]).
 - <ruby>[冷麺](../words/冷麺.md)<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby>: cold noodles — a specific dish (most famously Korean naengmyeon), though the general word "noodle" itself remains uncoined.
+- <ruby>[拉麺](../words/拉麺.md)<rt>ㄌㄚㄆㄇㄝㄋ</rt></ruby>: ramen.
 - <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.
 - <ruby>[饗宴](../words/饗宴.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a banquet, feast — a grand formal meal, a state or ceremonial dinner; elevated in register compared with an ordinary [[膳食]] meal.
 - <ruby>[井物](../words/井物.md)<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby>: a rice-bowl dish, the general category. See Semantic Range Notes.

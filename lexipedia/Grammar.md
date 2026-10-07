@@ -182,6 +182,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[不亦V乎](../words/不亦V乎.md)<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[之](../words/之.md)<rt>ㄊㄧ</rt></ruby> "of (genitive particle, 属格): suffixed to a possessor noun, X之Y = 'Y of X'"
 - <ruby>[所](../words/所.md)<rt>ㄙㄜ</rt></ruby> "-ee (nominalizer particle): precedes a verb to form a noun phrase naming the object/receiver of the action, 所+有='所有' ('that which is had,' possessions)"
+- so-called : <ruby>[所謂](../words/所謂.md)<rt>ㄙㄜㄨㄧ</rt></ruby>
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
 - <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
 - <ruby>[也](../words/也.md)<rt>⼘</rt></ruby> "as for; EMPHASIS (topic marker / assertive sentence-final particle, classical register)"
@@ -230,6 +231,8 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
 - foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
 - foreign language, the full form of 外語 : <ruby>[外国語](../words/外国語.md)<rt>⺢ㄧㄍㄛㄎ·⼄</rt></ruby>
+- neologism, a newly coined word : <ruby>[新語](../words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby>
+- honorific speech, polite language : <ruby>[敬語](../words/敬語.md)<rt>ㄍ⼶ㄫ⼄</rt></ruby>
 - international language, lingua franca, koine : <ruby>[国際語](../words/国際語.md)<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby>
 - Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>

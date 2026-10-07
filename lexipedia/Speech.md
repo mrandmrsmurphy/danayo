@@ -56,6 +56,8 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[表現](../words/表現.md)<rt>ㄅ⼘ㄨㄏ⼶ㄋ</rt></ruby>: to express. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to express, indicate. See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to declare, state formally. See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
+- <ruby>[披歴](../words/披歴.md)<rt>ㄆㄨㄧㄌㄝㄎ</rt></ruby>: to state one's view.
+- <ruby>[推薦](../words/推薦.md)<rt>ㄑㄨㄧㄐㄝㄋ</rt></ruby>: to recommend.
 - <ruby>[講演](../words/講演.md)<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby>: a lecture; to give a speech.
 - <ruby>[披露](../words/披露.md)<rt>ㄆㄨㄧㄌㄛ</rt></ruby>: to announce. See [Existence](../lexipedia/Existence.md) for its own citation there.
 
@@ -124,6 +126,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[諂](../words/諂.md)<rt>ㄑㄝㄇ</rt></ruby>: to flatter.
 - <ruby>[風刺](../words/風刺.md)<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby>: to mock — the satirical/mockery register.
 - <ruby>[嘲笑](../words/嘲笑.md)<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby>: to ridicule, mock, deride — laughter aimed downward at someone, the cruel laugh of mockery and derision; sharper than [[風刺]]'s satire; the stand-in for the bound character 嘲.
+- <ruby>[揶揄](../words/揶揄.md)<rt>⼘⼜ㄇ</rt></ruby>: to deride, ridicule.
 - <ruby>[呵呵](../words/呵呵.md)<rt>ㄏㄚㄏㄚ</rt></ruby>: laughter sound, "haha" — an onomatopoeic reduplication of 呵.
 - <ruby>[大笑](../words/大笑.md)<rt>ㄉㄚㄧㄙ⼄ㄨ</rt></ruby>: to laugh uproariously.
 - <ruby>[痛罵](../words/痛罵.md)<rt>ㄊㄛㄫㄇㄚ</rt></ruby>: to berate, scold severely — to denounce someone harshly and at length; stronger than a plain scolding ([[叱責]]'s rebuke), with 痛 ("bitterly") as the intensifier.

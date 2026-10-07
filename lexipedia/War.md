@@ -14,11 +14,16 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[戦争](../words/戦争.md)<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>: war.
+- <ruby>[戦国](../words/戦国.md)<rt>ㄐㄝㄋㄍㄛㄎ</rt></ruby>: the Warring States.
+- <ruby>[戦場](../words/戦場.md)<rt>ㄐㄝㄋㄐㄚㄫ</rt></ruby>: a battlefield.
+- <ruby>[戦時](../words/戦時.md)<rt>ㄐㄝㄋㄙㄧ</rt></ruby>: wartime.
+- <ruby>[戦艦](../words/戦艦.md)<rt>ㄐㄝㄋㄏㄚㄇ</rt></ruby>: a battleship.
 - <ruby>[軍人](../words/軍人.md)<rt>ㄍㄨㄋㄋㄧㄋ</rt></ruby>: a soldier.
 - <ruby>[軍事](../words/軍事.md)<rt>ㄍㄨㄋㄐㄧ</rt></ruby>: military affairs.
 - <ruby>[敵人](../words/敵人.md)<rt>ㄉㄝㄎㄋㄧㄋ</rt></ruby>: enemy. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 - <ruby>[剣](../words/剣.md)<rt>ㄍㄛㄇ</rt></ruby>: a sword. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 - <ruby>[武](../words/武.md)<rt>ㄇㄨ</rt></ruby>: military.
+- <ruby>[文武](../words/文武.md)<rt>ㄇㄨㄋㄇㄨ</rt></ruby>: civilian and military.
 
 ## Intermediate (B1–B2)
 
@@ -34,6 +39,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[守戍](../words/守戍.md)<rt>ㄙ⼜ㄙㄨ</rt></ruby>: a border guard.
 - <ruby>[干戈](../words/干戈.md)<rt>ㄍㄚㄋㄍ⺢</rt></ruby>: weapons of war, arms.
 - <ruby>[従軍](../words/従軍.md)<rt>ㄐㄛㄫㄍㄨㄋ</rt></ruby>: military service.
+- <ruby>[拠点](../words/拠点.md)<rt>ㄍ⼄ㄉㄝㄇ</rt></ruby>: a base, foothold.
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
 - <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
 

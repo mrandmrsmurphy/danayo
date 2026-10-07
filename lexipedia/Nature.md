@@ -102,6 +102,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to cultivate, grow — see [[Life]] for its own citation there.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: to plow, sow, cultivate.
 - <ruby>[開墾](../words/開墾.md)<rt>ㄎㄚㄧㄎㄚㄋ</rt></ruby>: to cultivate, open up land.
+- <ruby>[播種](../words/播種.md)<rt>ㄅㄚㄐㄛㄫ</rt></ruby>: to sow seeds; to disseminate.
 - <ruby>[土肥](../words/土肥.md)<rt>ㄊㄛㄅㄨㄧ</rt></ruby>: manure, soil fertilizer.
 - <ruby>[堆肥](../words/堆肥.md)<rt>ㄉㄛㄧㄅㄨㄧ</rt></ruby>: compost, composted manure.
 - <ruby>[化学肥料](../words/化学肥料.md)<rt>ㄏ⺢ㄏㄚㄎㄅㄨㄧㄌ⼘ㄨ</rt></ruby>: chemical fertilizer.

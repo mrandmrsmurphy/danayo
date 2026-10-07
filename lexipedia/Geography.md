@@ -20,6 +20,8 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
 - <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
 - <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
+- <ruby>[支那](../words/支那.md)<rt>ㄐㄝ·ㄋㄚ</rt></ruby>: "Zhina," an old name for China.
+- <ruby>[斉国](../words/斉国.md)<rt>ㄐㄝㄧㄍㄛㄎ</rt></ruby>: the state of Qi.
 - <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
 - <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with 奥 rather than the real-world 澳.
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.

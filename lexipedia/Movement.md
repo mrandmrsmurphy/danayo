@@ -21,6 +21,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[去](../words/去.md)<rt>ㄎ⼄</rt></ruby>: to go.
 - <ruby>[往](../words/往.md)<rt>⺢ㄫ</rt></ruby>: to go towards (往復, "round trip"; 往来, "coming and going, interaction") — a near-synonym of [[去]].
 - <ruby>[入](../words/入.md)<rt>ㄋㄧㄆ</rt></ruby>: to enter.
+- <ruby>[挿入](../words/挿入.md)<rt>ㄑㄚㄆㄋㄧㄆ</rt></ruby>: to insert, stick into.
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
 - <ruby>[外出](../words/外出.md)<rt>⺢ㄧㄑㄨㄊ</rt></ruby>: to go out.
 - <ruby>[入場](../words/入場.md)<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby>: to enter a venue, admission.
@@ -94,6 +95,8 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[交通](../words/交通.md)<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>: traffic, transportation — the general umbrella term for the whole vehicle/transit cluster below.
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — a vehicle.
 - <ruby>[輸送](../words/輸送.md)<rt>ㄙㄨㄇㄙㄛㄫ</rt></ruby>: to transport, convey — to carry goods or people from one place to another, usually on a large scale; the carrying of the load, where [[運転]] is driving the vehicle; the stand-in for the bound character 輸.
+- <ruby>[搬送](../words/搬送.md)<rt>ㄅㄚㄋㄙㄛㄫ</rt></ruby>: to transport, convey.
+- <ruby>[搭載](../words/搭載.md)<rt>ㄊㄚㄆㄐㄚㄧ</rt></ruby>: to load, carry on board.
 - <ruby>[遷移](../words/遷移.md)<rt>ㄑㄝㄋ·⼶ㄧ</rt></ruby>: to shift, relocate; a transition — a move of a capital, a population or a species, or in technical writing a change of state; the shifting itself, more than [[輸送]]'s carrying of a load.
 - <ruby>[乗務](../words/乗務.md)<rt>ㄙㄨㄫㄇㄨ</rt></ruby>: crew duty, to serve as crew — the broader occupational role of staffing a vehicle (train, ship, aircraft) as conductor, attendant, or similar, not specifically [[運転]]'s "to drive."
 - <ruby>[乗客](../words/乗客.md)<rt>ㄙㄨㄫㄎㄚㄎ</rt></ruby>: a passenger — literally "riding guest," [[乗務]]'s complement on the other side of the vehicle.
@@ -231,6 +234,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[巻](../words/巻.md)<rt>ㄍ⼔ㄋ</rt></ruby>: to roll, roll up.
 - <ruby>[滾](../words/滾.md)<rt>ㄍ⺢ㄋ</rt></ruby>: to boil, roll — a rolling boil or churn, distinct from [[巻]]'s rolling-up.
 - <ruby>[振動](../words/振動.md)<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby>: to shake, vibrate.
+- <ruby>[振幅](../words/振幅.md)<rt>ㄐㄧㄋㄈㄨㄎ</rt></ruby>: amplitude.
 - <ruby>[振](../words/振.md)<rt>ㄐㄧㄋ</rt></ruby>: to shake, excite, rouse — see [[Emotions]] for its own citation there; figurative "shaking" (rousing someone), distinct from [[振動]]'s physical vibration.
 - <ruby>[揺](../words/揺.md)<rt>⼄ㄨ</rt></ruby>: to swing, shake, rock.
 - <ruby>[慄](../words/慄.md)<rt>ㄌㄧㄊ</rt></ruby>: to tremble, shudder, shiver.

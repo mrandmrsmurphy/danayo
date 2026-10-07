@@ -42,6 +42,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[欣喜](../words/欣喜.md)<rt>ㄏㄧㄋㄏㄧ</rt></ruby>, <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, joyful, pleased.
 - <ruby>[愉快](../words/愉快.md)<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>: happy, pleasant, enjoyable.
 - <ruby>[快楽](../words/快楽.md)<rt>ㄎ⺢ㄧㄌㄚㄎ</rt></ruby>: cheerful, pleasurable.
+- <ruby>[感情](../words/感情.md)<rt>ㄍㄚㄇㄑㄧㄫ</rt></ruby>: emotions, feeling.
 - <ruby>[痛快](../words/痛快.md)<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby>: joyful, thoroughly satisfying, exhilarating.
 - <ruby>[爽快](../words/爽快.md)<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby>: refreshing, invigorating — the clean, light feeling of being refreshed (cool air after a stuffy room, a problem solved); a pleasant sensation more than [[痛快]]'s thorough satisfaction; the stand-in for the bound character 爽.
 - <ruby>[発剌](../words/発剌.md)<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby>: lively, vivacious — full of energy and spirit, a fish or a person springing with vigour; most familiar as Japanese はつらつ, where the common spelling is 溌剌 (see its aliases).
@@ -70,6 +71,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby>: anger.
 - <ruby>[憤怒](../words/憤怒.md)<rt>ㄅㄨㄋㄋㄛ</rt></ruby>: indignant, angry.
 - <ruby>[憤慨](../words/憤慨.md)<rt>ㄅㄨㄋㄎㄚㄧ</rt></ruby>: indignant, resentful, outraged.
+- <ruby>[慷慨](../words/慷慨.md)<rt>ㄎㄚㄫㄎㄚㄧ</rt></ruby>: impassioned, vehement, fervent.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: to anger, enrage.
 - <ruby>[悩](../words/悩.md)<rt>ㄋㄚㄨ</rt></ruby>: angered, mad.
 - <ruby>[煩](../words/煩.md)<rt>ㄈㄛㄇ</rt></ruby>: troublesome, annoying, vexing — a much milder irritation than [[憤怒]]/[[激怒]]'s real anger (煩悩, "vexation, worldly care"; 麻煩, "a bother, a nuisance").
@@ -79,6 +81,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[恐惧](../words/恐惧.md)<rt>ㄎㄛㄫㄍㄨ</rt></ruby>: to be afraid of, have a dread or phobia of.
 - <ruby>[恐慌](../words/恐慌.md)<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby>: nervous, frantic, panicky.
 - <ruby>[恐恐](../words/恐恐.md)<rt>ㄎㄛㄫㄎㄛㄫ</rt></ruby>: fearfully, with trepidation.
+- <ruby>[憧憧](../words/憧憧.md)<rt>ㄑㄛㄫㄑㄛㄫ</rt></ruby>: restless, flickering, wavering.
 - <ruby>[畏](../words/畏.md)<rt>ㄛㄧ</rt></ruby>: fear, dread, reverence, awe, phobia.
 - <ruby>[業業](../words/業業.md)<rt>ㄝㄆ·ㄝㄆ</rt></ruby>: fearfully, apprehensively — a reduplicated classical ideophone for anxious vigilance (best known in 兢兢業業); the same word also means lofty and imposing in the Shijing, as its Notes explain.
 - <ruby>[竦](../words/竦.md)<rt>ㄙㄛㄫ</rt></ruby>: awe, reverence — a near-duplicate of [[畏]], but carrying a specific physical image (standing upright or on tiptoe from fear or respect).

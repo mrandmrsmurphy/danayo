@@ -19,7 +19,9 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[死亡](../words/死亡.md)<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby>: to die, death — one word covers both the verb and the noun; see Semantic Range Notes.
 - <ruby>[夭折](../words/夭折.md)<rt>⼄ㄨㄐㄝㄊ</rt></ruby>: to die young, come to a premature end.
 - <ruby>[死体](../words/死体.md)<rt>ㄙㄧㄜㄊㄝㄧ</rt></ruby>: a corpse, dead body.
+- <ruby>[故人](../words/故人.md)<rt>ㄍㄛ·ㄋㄧㄋ</rt></ruby>: the deceased; an old friend.
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to grow, cultivate.
+- <ruby>[成熟](../words/成熟.md)<rt>ㄙㄧㄫㄙㄨㄎ</rt></ruby>: to ripen, mature.
 - <ruby>[培養](../words/培養.md)<rt>ㄈㄛㄧ⼘ㄫ</rt></ruby>: to cultivate, culture (microbes, talent, a skill).
 - <ruby>[治癒](../words/治癒.md)<rt>ㄑㄧ⼜</rt></ruby>: to heal, cure.
 - <ruby>[殺](../words/殺.md)<rt>ㄙㄚㄊ</rt></ruby>: to kill.
@@ -30,6 +32,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[病院](../words/病院.md)<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>: a hospital.
 - <ruby>[薬](../words/薬.md)<rt>⼘ㄎ</rt></ruby>: a drug, medicine.
 - <ruby>[治療](../words/治療.md)<rt>ㄑㄧㄌ⼄ㄨ</rt></ruby>: to treat (medically).
+- <ruby>[按磨](../words/按磨.md)<rt>ㄚㄋㄇㄚ</rt></ruby>: massage.
 - <ruby>[疾病](../words/疾病.md)<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby>: a disease.
 - <ruby>[創傷](../words/創傷.md)<rt>ㄑ⺢ㄫㄙ⼘ㄫ</rt></ruby>: a wound, trauma.
 - <ruby>[加皮](../words/加皮.md)<rt>ㄍㄚㄅㄧ</rt></ruby>: a scab.
@@ -52,6 +55,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[勃勃](../words/勃勃.md)<rt>ㄅㄛㄊㄅㄛㄊ</rt></ruby>: vigorous, thriving, exuberant.
 - <ruby>[存亡](../words/存亡.md)<rt>ㄐㄛㄋㄇㄚㄫ</rt></ruby>: survival (archaic); survival and ruin.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
+- <ruby>[挽回](../words/挽回.md)<rt>ㄇㄛㄋㄏㄛㄧ</rt></ruby>: to recover, restore, retrieve.
 - <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.
 - <ruby>[回生](../words/回生.md)<rt>ㄏㄛㄧㄙㄚㄫ</rt></ruby>: to resurrect, resuscitate, regenerate.
 - <ruby>[復活](../words/復活.md)<rt>ㄅㄨㄎㄏ⺢ㄊ</rt></ruby>: to revive, bring back to life.

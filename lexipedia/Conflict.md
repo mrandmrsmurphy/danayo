@@ -23,6 +23,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[安全](../words/安全.md)<rt>ㄚㄋㄐ⼔ㄋ</rt></ruby>: safe, secure.
 - <ruby>[太平](../words/太平.md)<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>: peaceful, peace.
 - <ruby>[勇敢](../words/勇敢.md)<rt>⼄ㄫㄍㄚㄇ</rt></ruby>: brave, courageous.
+- <ruby>[敢為](../words/敢為.md)<rt>ㄍㄚㄇ⼔ㄋ</rt></ruby>: to dare to do.
 - <ruby>[挺身](../words/挺身.md)<rt>ㄉㄝㄫㄙㄧㄋ</rt></ruby>: to step forward, put oneself forward bravely — to straighten up and offer oneself in a crisis; the act of courage, where [[勇敢]] names the trait.
 - <ruby>[英雄](../words/英雄.md)<rt>ㄝㄫㄨㄫ</rt></ruby>: hero. See Semantic Range Notes.
 - <ruby>[保護](../words/保護.md)<rt>ㄅㄚㄨㄏㄛ</rt></ruby>: to protect, safeguard, shield.
@@ -74,6 +75,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[撃](../words/撃.md)<rt>ㄍㄝㄎ</rt></ruby>: to strike, hit, beat.
 - <ruby>[殴打](../words/殴打.md)<rt>ㄛㄨㄉㄚ</rt></ruby>: to strike, batter.
 - <ruby>[攻](../words/攻.md)<rt>ㄍㄛㄫ</rt></ruby>: to attack, criticize.
+- <ruby>[攻防](../words/攻防.md)<rt>ㄍㄛㄫㄅㄚㄫ</rt></ruby>: offense and defense.
 - <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨㄨㄧ</rt></ruby>: to encircle, surround.
 - <ruby>[苦肉](../words/苦肉.md)<rt>ㄎㄛ·ㄋㄨㄎ</rt></ruby>: self-inflicted suffering as a stratagem (苦肉計), and by extension a painful last-resort measure.
 
@@ -87,6 +89,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[捕](../words/捕.md)<rt>ㄅㄛ</rt></ruby>: to catch, grab — the bound root behind [[拿捕]] above (also 逮捕, "to arrest").
 - <ruby>[捕獲](../words/捕獲.md)<rt>ㄅㄛㄏ⺢ㄎ</rt></ruby>: to capture, catch.
 - <ruby>[囚徒](../words/囚徒.md)<rt>ㄙㄨㄛㄉㄛ</rt></ruby>: a prisoner, convict.
+- <ruby>[拘禁](../words/拘禁.md)<rt>ㄍㄨㄍㄧㄇ</rt></ruby>: to detain, hold in custody.
 - <ruby>[監禁](../words/監禁.md)<rt>ㄍㄚㄇㄍㄧㄇ</rt></ruby>: to imprison, incarcerate; imprisonment.
 - <ruby>[禁錮](../words/禁錮.md)<rt>ㄍㄧㄇㄍㄛ</rt></ruby>: to imprison.
 - <ruby>[俘虜](../words/俘虜.md)<rt>ㄈㄨㄌㄛ</rt></ruby>: a prisoner of war, captive.
@@ -137,6 +140,8 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[反乱](../words/反乱.md)<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
 - <ruby>[反対](../words/反対.md)<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby>: to oppose, be opposite.
 - <ruby>[反駁](../words/反駁.md)<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby>: to refute.
+- <ruby>[挑戦](../words/挑戦.md)<rt>ㄊㄚㄨㄐㄝㄋ</rt></ruby>: to challenge (authority).
+- <ruby>[挑発](../words/挑発.md)<rt>ㄊㄚㄨㄈㄚㄊ</rt></ruby>: to provoke.
 - <ruby>[革命](../words/革命.md)<rt>ㄎㄧㄎㄇ⼶ㄫ</rt></ruby>: to revolt against, incite revolution, rebel against.
 - <ruby>[逆](../words/逆.md)<rt>ㄝㄎ</rt></ruby>: rebellion, betrayal, a traitor — this word's primary sense (political treason); its minor "opposite, reverse" sense is not cited separately, since [[Mind]]'s own "opposite" slot is already filled by [[相対]].
 - <ruby>[解放](../words/解放.md)<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby>: to liberate, set free.
@@ -166,6 +171,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[遮蔽](../words/遮蔽.md)<rt>ㄐㄚ·ㄆㄝ</rt></ruby>: to cover, protect.
 - <ruby>[金庫](../words/金庫.md)<rt>ㄍㄧㄇㄎㄛ</rt></ruby>: a safe, strongbox (the physical object — not the adjective [[安全]]).
 - <ruby>[救助](../words/救助.md)<rt>ㄍ⼜ㄐㄛ</rt></ruby>: to rescue, to save.
+- <ruby>[救援](../words/救援.md)<rt>ㄍ⼜ㄛㄋ</rt></ruby>: to rescue, relieve.
 
 ### Accusation & Criticism
 

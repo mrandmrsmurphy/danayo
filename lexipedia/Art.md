@@ -79,6 +79,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 - <ruby>[詩歌](../words/詩歌.md)<rt>ㄙㄧㄍㄜ</rt></ruby>: poem, poetry (the general term). See Semantic Range Notes.
 - <ruby>[対連](../words/対連.md)<rt>ㄉㄛㄧㄌ⼶ㄋ</rt></ruby>: a couplet, distich.
+- <ruby>[押韻](../words/押韻.md)<rt>ㄚㄆ·ㄨㄋ</rt></ruby>: rhyme.
 - <ruby>[詩作](../words/詩作.md)<rt>ㄙㄧㄐㄚㄎ</rt></ruby>: a composed poem; to compose poetry. See Semantic Range Notes.
 - <ruby>[詩篇](../words/詩篇.md)<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby>: poem; also, capitalized, the Book of Psalms. See Semantic Range Notes.
 - <ruby>[唐詩](../words/唐詩.md)<rt>ㄉ⺢ㄫㄙㄧ</rt></ruby>: Tang poetry.
@@ -170,6 +171,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 - <ruby>[音符](../words/音符.md)<rt>ㄨㄇㄅㄨ</rt></ruby>: a musical note.
 - <ruby>[拍](../words/拍.md)<rt>ㄆㄚㄎ</rt></ruby>: beat, pulse; to tap, clap.
+- <ruby>[拍手](../words/拍手.md)<rt>ㄆㄚㄎㄙ⼜</rt></ruby>: to applaud, clap.
 - <ruby>[弦](../words/弦.md)<rt>ㄏㄝㄋ</rt></ruby>: chord, string (also "bowstring, hypotenuse").
 - <ruby>[唱和](../words/唱和.md)<rt>ㄑ⺢ㄫㄏ⺢</rt></ruby>: to sing chorus.
 - <ruby>[歌謡](../words/歌謡.md)<rt>ㄍㄜ⼄ㄨ</rt></ruby>: song, ballad.

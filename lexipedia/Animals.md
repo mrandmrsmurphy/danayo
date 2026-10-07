@@ -46,6 +46,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[野獣](../words/野獣.md)<rt>⼘ㄙ⼜</rt></ruby>: wild animal, beast, mammal — literally "field beast."
 - <ruby>[家畜](../words/家畜.md)<rt>ㄍㄚㄑㄨㄎ</rt></ruby>: livestock, domesticated animal — literally "house livestock," a neutral term.
 - <ruby>[飼養](../words/飼養.md)<rt>ㄙㄚ⼘ㄫ</rt></ruby>: to raise, rear (animals) — 飼 is bound.
+- <ruby>[料槽](../words/料槽.md)<rt>ㄌ⼘ㄨㄐㄚㄨ</rt></ruby>: a feed trough, manger.
 - <ruby>[畜生](../words/畜生.md)<rt>ㄑㄨㄎㄙㄚㄫ</rt></ruby>: domestic animal, brute — carries a strong pejorative sense in living usage (see Semantic Range Notes).
 
 ### Livestock — the Six Domestic Animals (六畜)
@@ -120,6 +121,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
 - <ruby>[陸亀](../words/陸亀.md)<rt>ㄌㄨㄎㄍㄨㄛ</rt></ruby>: a tortoise, land turtle.
 - <ruby>[安康魚](../words/安康魚.md)<rt>ㄚㄋㄎㄚㄫ⼄</rt></ruby>: an anglerfish.
+- <ruby>[捕鯨](../words/捕鯨.md)<rt>ㄅㄛㄍ⼶ㄫ</rt></ruby>: whaling.
 - <ruby>[珊瑚](../words/珊瑚.md)<rt>ㄙㄚㄋㄏㄛㄨ</rt></ruby>: coral — a semantic doublet, both halves bound.
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[魶](../words/魶.md)<rt>ㄋㄨㄆ</rt></ruby>: a giant salamander.

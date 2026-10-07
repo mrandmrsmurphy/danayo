@@ -22,6 +22,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[人口](../words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>: population.
 - <ruby>[隣人](../words/隣人.md)<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby>: neighbor.
 - <ruby>[隣](../words/隣.md)<rt>ㄌㄧㄋ</rt></ruby>: neighboring, next door.
+- <ruby>[故郷](../words/故郷.md)<rt>ㄍㄛㄏ⼘ㄫ</rt></ruby>: a hometown.
 - <ruby>[同意](../words/同意.md)<rt>ㄉㄛㄫㄜ</rt></ruby>: to agree, consent.
 - <ruby>[肯](../words/肯.md)<rt>ㄎㄨㄫ</rt></ruby>: to agree, be willing — a modal-like verb taking a verbal complement.
 - <ruby>[一致](../words/一致.md)<rt>ㄧㄊㄑㄧㄜ</rt></ruby>: to be unanimous, to agree, coincide — a broader "align, match, correspond" than [[同意]]'s individual act of consenting; used for opinions converging, not one person granting permission.
@@ -134,6 +135,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[恩情](../words/恩情.md)<rt>ㄜㄋㄑㄧㄫ</rt></ruby>: favor, kindness, grace.
 - <ruby>[仁慈](../words/仁慈.md)<rt>ㄋㄧㄋㄐㄧ</rt></ruby>: merciful, mercy.
 - <ruby>[善良](../words/善良.md)<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby>: kind, benevolent.
+- <ruby>[慈善](../words/慈善.md)<rt>ㄐㄧㄙ⼶ㄋ</rt></ruby>: charity, benevolence.
 - <ruby>[純篤](../words/純篤.md)<rt>ㄐㄨㄋㄉㄛㄎ</rt></ruby>: sincere, genuine and steadfast — pure in character and earnest in devotion; a literary word of praise for plain, unfeigned goodness, the opposite of the counterfeit virtue of [[偽善]].
 - <ruby>[謙遜](../words/謙遜.md)<rt>ㄎㄝㄇㄙㄛㄋ</rt></ruby>: humility, modesty — keeping a low estimate of oneself and deferring to others; the virtue opposite to [[傲慢]]'s pride, shown by self-effacement and by playing down one's own merits.
 - <ruby>[菲薄](../words/菲薄.md)<rt>ㄈㄧㄅㄚㄎ</rt></ruby>: meager, humble; to belittle — of oneself or one's contribution (妄自菲薄, "to demean oneself unjustifiably"); attested in Mandarin and Cantonese, with no confirmed independent use in Japanese, Korean or Vietnamese; beside [[謙遜]]'s humility.
@@ -170,8 +172,11 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[恭敬](../words/恭敬.md)<rt>ㄍ⼄ㄫㄍ⼶ㄫ</rt></ruby>: respectful, deferential.
+- <ruby>[懇切](../words/懇切.md)<rt>ㄎㄚㄋㄑㄝㄊ</rt></ruby>: sincere, earnest.
+- <ruby>[敦厚](../words/敦厚.md)<rt>ㄉㄛㄋㄏㄛㄨ</rt></ruby>: honest, candid, sincere.
 - <ruby>[小人](../words/小人.md)<rt>ㄙㄛ·ㄋㄧㄋ</rt></ruby>: a petty person, jerk.
 - <ruby>[唐突](../words/唐突.md)<rt>ㄉ⺢ㄫㄊㄛㄊ</rt></ruby>: blunt, presumptuous.
+- <ruby>[握窄](../words/握窄.md)<rt>ㄚㄎㄐㄚㄎ</rt></ruby>: dirty, petty, recalcitrant.
 - <ruby>[尊厳](../words/尊厳.md)<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby>: dignity, sanctity.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
 - <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.
@@ -263,6 +268,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 
 - <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an accord, agreement, pact.
 - <ruby>[妥協](../words/妥協.md)<rt>ㄊㄚㄏㄝㄆ</rt></ruby>: to compromise, settle.
+- <ruby>[折衷](../words/折衷.md)<rt>ㄐㄝㄊㄊㄨㄫ</rt></ruby>: compromise, eclecticism, a middle ground.
 - <ruby>[諾](../words/諾.md)<rt>ㄋㄚㄎ</rt></ruby>: to consent, agree — also, as a classical affirmative response particle, "yes, agreed" (承諾, "to consent").
 - <ruby>[提案](../words/提案.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: to propose, suggest.
 - <ruby>[諮詢](../words/諮詢.md)<rt>ㄐㄧㄜㄙ⼜ㄋ</rt></ruby>: to consult, seek advice (formal/institutional register).
@@ -279,6 +285,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[大家](../words/大家.md)<rt>ㄉㄚㄧㄍㄚ</rt></ruby>: everyone (Mandarin, Cantonese).
 - <ruby>[客人](../words/客人.md)<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby>: a guest, visitor, traveller.
 - <ruby>[外国人](../words/外国人.md)<rt>⺢ㄧㄍㄛㄎㄋㄧㄋ</rt></ruby>: a foreigner.
+- <ruby>[攘夷](../words/攘夷.md)<rt>ㄋ⼘ㄫㄧㄜ</rt></ruby>: the policy of expelling foreigners.
 - <ruby>[寄宿](../words/寄宿.md)<rt>ㄍㄨㄧㄙㄨㄎ</rt></ruby>: to lodge, board, rent a room.
 - <ruby>[寄宿舎](../words/寄宿舎.md)<rt>ㄍㄨㄧㄙㄨㄎㄙ⼘</rt></ruby>: a boarding house, dormitory.
 - <ruby>[儀礼](../words/儀礼.md)<rt>ㄜㄧㄌㄝㄧ</rt></ruby>: etiquette, ceremony, courtesy.
@@ -320,7 +327,9 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[競走](../words/競走.md)<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby>: a race.
 - <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: sport, exercise, movement.
 - <ruby>[台球](../words/台球.md)<rt>ㄉㄚㄧㄍ⼜</rt></ruby>: billiards, pool — the Mainland Mandarin name.
+- <ruby>[撞球](../words/撞球.md)<rt>ㄊ⺢ㄫㄍ⼜</rt></ruby>: billiards.
 - <ruby>[排球](../words/排球.md)<rt>ㄆㄚㄧㄍ⼜</rt></ruby>: volleyball.
+- <ruby>[捕手](../words/捕手.md)<rt>ㄅㄛㄙ⼜</rt></ruby>: a catcher (baseball).
 - <ruby>[得点](../words/得点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a score.
 - <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
 - <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.

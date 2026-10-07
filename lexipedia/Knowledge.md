@@ -28,6 +28,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[先生](../words/先生.md)<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>: Mr., sir; teacher.
 - <ruby>[夫子](../words/夫子.md)<rt>ㄈㄜㄐㄜ</rt></ruby>: Confucius, the Master.
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
+- <ruby>[教員](../words/教員.md)<rt>ㄍ⼄ㄨㄨㄋ</rt></ruby>: a schoolteacher, educator, instructor.
 - <ruby>[学習](../words/学習.md)<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>: to study, to learn.
 - <ruby>[学習者](../words/学習者.md)<rt>ㄏㄚㄎㄙㄜㄆㄑㄚ</rt></ruby>: a learner.
 - <ruby>[新手](../words/新手.md)<rt>ㄙㄧㄋㄙ⼜</rt></ruby>: a beginner, novice; the word to use where 初心 is avoided.
