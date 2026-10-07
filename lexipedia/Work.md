@@ -94,6 +94,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
 - <ruby>[失業](../words/失業.md)<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby>: to become unemployed, lose one's job.
 - <ruby>[従業](../words/従業.md)<rt>ㄐㄛㄫㄝㄆ</rt></ruby>: employment, being engaged in work.
+- <ruby>[服務員](../words/服務員.md)<rt>ㄅㄨㄎㄇㄨㄨㄋ</rt></ruby>: a server, waiter — a worker whose job is serving customers (the everyday Mandarin term, 服務 "service" + 員 "personnel").
 - <ruby>[出勤](../words/出勤.md)<rt>ㄑㄨㄊㄍㄧㄋ</rt></ruby>: to go to work, clock in.
 - <ruby>[辞職](../words/辞職.md)<rt>ㄑㄧㄐㄧㄎ</rt></ruby>: to resign, resignation — to take formal leave of an official post.
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.

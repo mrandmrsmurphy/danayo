@@ -106,6 +106,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Victory, Loss & Defeat
 
 - <ruby>[受賞](../words/受賞.md)<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby>: to win an award, to be awarded.
+- <ruby>[本塁打](../words/本塁打.md)<rt>ㄅㄛㄋㄌㄨㄧㄉㄚ</rt></ruby>: a home run (baseball) — a hit that scores outright; placed here as the nearest existing home for contest and scoring vocabulary, pending a sports/games page.
 - <ruby>[凌駕](../words/凌駕.md)<rt>ㄌㄜㄫㄍㄚ</rt></ruby>: to surpass, override — "to ride over."
 - <ruby>[損失](../words/損失.md)<rt>ㄙㄛㄋㄙㄧㄊ</rt></ruby>: loss, to lose. See Semantic Range Notes.
 - <ruby>[滅失](../words/滅失.md)<rt>ㄇㄝㄊㄙㄧㄊ</rt></ruby>: to lose (legal: total destruction of property). See Semantic Range Notes.
