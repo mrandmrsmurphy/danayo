@@ -70,6 +70,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[瀕死](../words/瀕死.md)<rt>ㄅㄧㄋㄙㄧㄜ</rt></ruby>: near death, moribund — on the point of dying, in the last stage before death; the state of dying, between illness and [[死亡]].
 - <ruby>[荒廃](../words/荒廃.md)<rt>ㄏ⺢ㄫㄈㄝ</rt></ruby>: to fall into ruin, decay (of a place).
 - <ruby>[霊柩](../words/霊柩.md)<rt>ㄌㄝㄫㄍ⼜</rt></ruby>: a coffin.
+- <ruby>[棺](../words/棺.md)<rt>ㄍ⺢ㄋ</rt></ruby>: a coffin — the plain, single-character word for the box a body is buried in, beside the compound [[霊柩]], which carries the same gloss.
 - <ruby>[死骸](../words/死骸.md)<rt>ㄙㄧㄜㄏ⼶</rt></ruby>: a corpse, dead body — matter-of-fact rather than euphemistic, the body as physical remains.
 - <ruby>[塚](../words/塚.md)<rt>ㄑㄛㄫ</rt></ruby>: a burial mound, grave, tumulus (古塚, "an ancient burial mound"; 貝塚, "a shell midden").
 - <ruby>[墓穴](../words/墓穴.md)<rt>ㄇㄛㄏ⼔ㄊ</rt></ruby>: a grave, burial pit — the excavated cavity that receives the dead; the stand-in for the bound character 墓.

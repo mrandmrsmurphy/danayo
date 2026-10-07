@@ -27,6 +27,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[山](../words/山.md)<rt>ㄙㄚㄋ</rt></ruby>: a mountain.
 - <ruby>[自然](../words/自然.md)<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>: nature; natural, spontaneously.
 - <ruby>[森林](../words/森林.md)<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>: a forest, jungle, underbrush.
+- <ruby>[森羅](../words/森羅.md)<rt>ㄙㄨㄇㄌㄛ</rt></ruby>: all of nature, dense foliage — the multitude of things in the natural world (as in 森羅万象), a literary word beside [[森林]] and [[自然]].
 - <ruby>[土地](../words/土地.md)<rt>ㄊㄛㄉㄧㄜ</rt></ruby>: ground, land, soil, region.
 - <ruby>[世界](../words/世界.md)<rt>ㄙㄝㄍ⼶</rt></ruby>: the world.
 - <ruby>[国家](../words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>: a country, nation.

@@ -254,6 +254,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[巣穴](../words/巣穴.md)<rt>ㄐㄚㄨㄏ⼔ㄊ</rt></ruby>: burrow, hole, tunnel.
 - <ruby>[蜂巣](../words/蜂巣.md)<rt>ㄈㄛㄫㄐㄚㄨ</rt></ruby>: beehive.
 - <ruby>[鳥巣](../words/鳥巣.md)<rt>ㄑㄛㄨㄐㄚㄨ</rt></ruby>: bird's nest.
+- <ruby>[棲息](../words/棲息.md)<rt>ㄙㄝㄧㄙㄧㄎ</rt></ruby>: to inhabit, dwell, roost (of animals) — to live in a habitat, beside the nests and dens above.
 - <ruby>[獣群](../words/獣群.md)<rt>ㄙ⼜ㄍㄨㄋ</rt></ruby>: herd, a group of animals.
 - <ruby>[獵](../words/獵.md)<rt>ㄌㄛㄆ</rt></ruby>: to hunt.
 

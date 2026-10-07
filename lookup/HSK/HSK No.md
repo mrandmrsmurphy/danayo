@@ -987,6 +987,7 @@ tags: [lookup]
 [[掩]]
 [[蛉]]
 [[詢]]
+[驟](../../characters/驟.md)
 ## Datacheck
 ```base
 version: 1
