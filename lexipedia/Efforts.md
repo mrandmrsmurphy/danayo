@@ -17,6 +17,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[困難](../words/困難.md)<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>: difficult, hard.
 - <ruby>[艱難](../words/艱難.md)<rt>ㄍㄚㄋㄋㄚㄋ</rt></ruby>: arduous, hard — gruelling, sustained difficulty, hardship borne over time (艱難汝を玉にす, "adversity makes a jewel of you"); a literary doubling of two words for hard, heavier than [[困難]]'s plain difficult, and about the struggle rather than the suffering of [[苦難]].
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
+- <ruby>[妨害](../words/妨害.md)<rt>ㄈㄚㄫㄏㄚㄧ</rt></ruby>: to obstruct, hinder, interfere with — the formal and legal word (妨害公務).
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.
@@ -83,6 +84,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[把握](../words/把握.md)<rt>ㄅㄚㄚㄎ</rt></ruby>, <ruby>[掌握](../words/掌握.md)<rt>ㄐㄚㄫㄚㄎ</rt></ruby>: to grasp, control.
 - <ruby>[支配](../words/支配.md)<rt>ㄐㄝ·ㄆㄛㄧ</rt></ruby>: to rule, control, manage, govern, dominate.
+- <ruby>[収拾](../words/収拾.md)<rt>ㄙㄨㄛㄙㄜㄆ</rt></ruby>: to tidy up, sort out, bring under control — 収 "gather" + 拾 "pick up."
 - <ruby>[轄](../words/轄.md)<rt>ㄏㄚㄊ</rt></ruby>: the linchpin of a wheel; control — the metaphor "the pin holding it all together." See Semantic Range Notes.
 - <ruby>[自制](../words/自制.md)<rt>ㄐㄧㄜㄐㄝㄧ</rt></ruby>, <ruby>[自禁](../words/自禁.md)<rt>ㄐㄧㄜㄍㄧㄇ</rt></ruby>: restraint, self-control.
 - <ruby>[強迫](../words/強迫.md)<rt>ㄍ⼘ㄫㄅㄚㄎ</rt></ruby>, <ruby>[逼迫](../words/逼迫.md)<rt>ㄅㄧㄎㄅㄚㄎ</rt></ruby>: to force, compel, press, coerce.

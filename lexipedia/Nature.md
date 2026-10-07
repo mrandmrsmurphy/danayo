@@ -63,6 +63,8 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[旱災](../words/旱災.md)<rt>ㄏㄚㄋㄐㄚㄧ</rt></ruby>: a drought.
 - <ruby>[閃電](../words/閃電.md)<rt>ㄙㄝㄇㄉㄝㄋ</rt></ruby>: lightning.
 - <ruby>[狂風](../words/狂風.md)<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby>: a gale, violent wind — [[風]] gone wild; not [[風狂]] (madness), its reversal.
+- <ruby>[暴風](../words/暴風.md)<rt>ㄅㄛㄎㄈㄨㄫ</rt></ruby>: a violent windstorm, gale — wind made dangerous by 暴.
+- <ruby>[台風](../words/台風.md)<rt>ㄉㄚㄧㄈㄨㄫ</rt></ruby>: a typhoon — the tropical cyclone of the western Pacific; the traditional form is 颱風.
 - <ruby>[彩虹](../words/彩虹.md)<rt>ㄑㄚㄧㄏㄛㄫ</rt></ruby>: a rainbow.
 - <ruby>[燐火](../words/燐火.md)<rt>ㄌㄧㄋㄏ⺢</rt></ruby>: a will-o'-the-wisp, ignis fatuus — the eerie light from combusting phosphine from decomposing matter; the scientific-register counterpart of the folkloric [[鬼火]] ("ghost fire"); also written 磷火.
 - <ruby>[辟歴](../words/辟歴.md)<rt>ㄆㄧㄎㄌㄝㄎ</rt></ruby>: a thunderclap, thunderbolt — with 辟 and 歴 standing in for 霹 and 靂 of the full form 霹靂, attested in all five languages, including the Japanese idiom 青天の霹靂 ("a bolt from the blue").

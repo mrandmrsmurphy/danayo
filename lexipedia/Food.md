@@ -38,6 +38,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[晩飯](../words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby>, <ruby>[正餐](../words/正餐.md)<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>: dinner, supper, evening meal.
 - <ruby>[包子](../words/包子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>, <ruby>[饅頭](../words/饅頭.md)<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby>: a steamed bun.
 - <ruby>[点心](../words/点心.md)<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby>: a snack, dim sum, light dish. See Semantic Range Notes.
+- <ruby>[餃子](../words/餃子.md)<rt>ㄍ⼄ㄨㄐㄜ</rt></ruby>: a jiaozi, dumpling, gyoza — filled dough folded and boiled.
 - <ruby>[臘八粥](../words/臘八粥.md)<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby>: Laba congee — the ritual porridge of eight or more grains, beans, nuts and fruits eaten on [[臘八節]]; a specific festival dish, not congee in general ([[粥]]).
 - <ruby>[冷麺](../words/冷麺.md)<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby>: cold noodles — a specific dish (most famously Korean naengmyeon), though the general word "noodle" itself remains uncoined.
 - <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.

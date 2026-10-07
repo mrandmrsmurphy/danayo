@@ -110,6 +110,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[玳瑁](../words/玳瑁.md)<rt>ㄉㄚㄧㄇㄚㄨ</rt></ruby>: hawksbill sea turtle.
 - <ruby>[鼈](../words/鼈.md)<rt>ㄅㄝㄊ</rt></ruby>: *Pelodiscus sinensis*, a soft-shell turtle species.
 - <ruby>[海亀](../words/海亀.md)<rt>ㄏㄚㄧㄍㄨㄛ</rt></ruby>: sea turtle (general).
+- <ruby>[珊瑚](../words/珊瑚.md)<rt>ㄙㄚㄋㄏㄛㄨ</rt></ruby>: coral — a semantic doublet, both halves bound.
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[魶](../words/魶.md)<rt>ㄋㄨㄆ</rt></ruby>: a giant salamander.
 - <ruby>[貝類](../words/貝類.md)<rt>ㄅㄚㄧㄌㄨㄧ</rt></ruby>: shellfish, clams — the stand-in compound that legitimizes the bound character 貝.

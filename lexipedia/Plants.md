@@ -54,10 +54,12 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree.
 - <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>: a palm tree.
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
+- <ruby>[柏](../words/柏.md)<rt>ㄅ⼘ㄎ</rt></ruby>: cypress, cedar — evergreen conifer of graveyards and longevity (松柏).
 - <ruby>[檀木](../words/檀木.md)<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby>: sandalwood — a specific hardwood tree species, not a generic word for "hardwood" (which remains uncoined, alongside "softwood").
 - <ruby>[檀香](../words/檀香.md)<rt>ㄉㄚㄋㄏ⼘ㄫ</rt></ruby>: sandalwood as a fragrant material — the aromatic heartwood and incense, as against [[檀木]], the tree and its wood.
 - <ruby>[桑木](../words/桑木.md)<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby>: a mulberry tree.
 - <ruby>[梨木](../words/梨木.md)<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby>: a pear tree.
+- <ruby>[梨](../words/梨.md)<rt>ㄌㄧㄜ</rt></ruby>: a pear — the fruit; the tree is [[梨木]].
 - <ruby>[槐樹](../words/槐樹.md)<rt>ㄏ⺢ㄧㄙㄨ</rt></ruby>: the pagoda tree (Styphnolobium japonicum), a tall shade tree of China and Korea whose flowers are used as food and as a yellow dye; the stand-in for the bound character 槐.
 - <ruby>[柊木](../words/柊木.md)<rt>ㄐㄨㄫㄇㄛㄎ</rt></ruby>: the holly osmanthus (Osmanthus heterophyllus), an evergreen shrub with spiny leaves and fragrant white autumn flowers, traditionally hung at doorways to ward off evil spirits; the stand-in for the bound character 柊.
 

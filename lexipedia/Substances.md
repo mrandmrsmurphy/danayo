@@ -26,6 +26,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 
 - <ruby>[石頭](../words/石頭.md)<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>: stone, rock — the colloquial compound, an undocumented near-duplicate of [[石]].
 - <ruby>[水晶](../words/水晶.md)<rt>ㄙㄨㄐㄧㄫ</rt></ruby>: rock crystal, quartz crystal — the mineral, with [[石英]] as plain quartz; manufactured glass is [[玻璃]], not 水晶.
+- <ruby>[紅玉](../words/紅玉.md)<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby>: ruby — colour + 玉 "gem"; also the Jonathan apple in Japanese and Korean.
 - <ruby>[緑柱石](../words/緑柱石.md)<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby>: beryl — the mineral behind emerald and aquamarine; its element is [[緑柱素]] (beryllium).
 - <ruby>[炉甘石](../words/炉甘石.md)<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby>: calamine, smithsonite — the zinc ore of traditional pharmacology and early brass-making; see [[亜鉛]].
 - <ruby>[玻璃](../words/玻璃.md)<rt>ㄆㄚㄌㄜ</rt></ruby>: glass, crystal.

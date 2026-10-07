@@ -121,6 +121,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 ### Insult & Humiliation
 
 - <ruby>[侮辱](../words/侮辱.md)<rt>ㄇㄨ·ㄋㄛㄎ</rt></ruby>: to insult, humiliate, embarrass. See Semantic Range Notes.
+- <ruby>[誹謗](../words/誹謗.md)<rt>ㄈㄧ·ㄆㄚㄫ</rt></ruby>: to slander, defame — a doublet; speaking ill of someone behind their back or without justification.
 - <ruby>[屈辱](../words/屈辱.md)<rt>ㄎㄨㄊㄋㄛㄎ</rt></ruby>: humiliation, to demean. See Semantic Range Notes.
 
 ### Rebellion & Upheaval

@@ -23,6 +23,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Conjunctions
 - also, too : <ruby>[且](../words/且.md)<rt>ㄑㄛ</rt></ruby>
 - and, with (nominal conjunction, joining nouns/noun phrases) : <ruby>[与](../words/与.md)<rt>⼄</rt></ruby>
+- and, but, yet (clausal conjunction, joining clauses or predicates) : <ruby>[而](../words/而.md)<rt>ㄋㄧ</rt></ruby>
 - but, however, yet, only : <ruby>[但](../words/但.md)<rt>ㄉㄚㄋ</rt></ruby>
 - but (classical/literary register) : <ruby>[乃](../words/乃.md)<rt>ㄋㄚㄧ</rt></ruby>
 - if, supposing that : <ruby>[若](../words/若.md)<rt>ㄋ⼘</rt></ruby>
@@ -34,6 +35,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - namely, in other words, that is to say (introduces a restatement/clarification rather than new information) : <ruby>[即](../words/即.md)<rt>ㄐㄜㄎ</rt></ruby>
 - in order that, so as to (introduces a purpose clause) : <ruby>[以便](../words/以便.md)<rt>ㄧㄅ⼶ㄋ</rt></ruby>
 - while, during, at the time of : <ruby>[当](../words/当.md)<rt>ㄉㄚㄫ</rt></ruby>
+- although, even though, even if (concessive) : <ruby>[雖](../words/雖.md)<rt>ㄙㄨㄧ</rt></ruby>
 - because, else, nor, though, unless: not yet coined.
 - linker/conjunction (general term) : <ruby>[連接詞](../words/連接詞.md)<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby>, <ruby>[接続助詞](../words/接続助詞.md)<rt>ㄐㄛㄆㄙ⼄ㄎㄐㄛㄙㄚ</rt></ruby> (conjunctive particle)
 
@@ -80,6 +82,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Pronoun
 - I : <ruby>[我](../words/我.md)<rt>ㄚ</rt></ruby>
 - thou : <ruby>[君](../words/君.md)<rt>ㄍㄨㄋ</rt></ruby>
+- thou (intimate) : <ruby>[汝](../words/汝.md)<rt>ㄋㄛㄧ</rt></ruby>
 - he/she : <ruby>[其人](../words/其人.md)<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby>
 - it: not yet coined — no dedicated inanimate third-person pronoun distinct from the demonstratives [[此]]/[[其]].
 - we : <ruby>[我等](../words/我等.md)<rt>ㄚㄉㄨㄫ</rt></ruby>
@@ -140,9 +143,11 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[有生](../words/有生.md)<rt>⼜ㄙㄚㄫ</rt></ruby> "animate (grammatical category)"
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby> "mood, modality, voice (grammatical category)"
 - <ruby>[将然](../words/将然.md)<rt>ㄐ⺢ㄫㄋ⼶ㄋ</rt></ruby> "prospective (aspect), about-to-happen"
+- <ruby>[被](../words/被.md)<rt>ㄆㄧ</rt></ruby> "passive marker, -ee (marks the patient of an action: 被教, 'be taught')"
 - <ruby>[－中](../words/－中.md)<rt>ㄐㄨㄫ</rt></ruby> "-ing (continuous aspect suffix, postfixed to a verb)"
 - <ruby>[了](../words/了.md)<rt>ㄌ⼘ㄨ</rt></ruby> "completed/changed-state aspect particle (吃了飯, 下雨了) — [[－中]]'s perfective counterpart; also a free-standing word, 'done, finished, over' (了結, [[完了]])"
 - <ruby>[已](../words/已.md)<rt>ㄜ</rt></ruby> "-ed, (has) done, completed (perfective aspect marker, postfixed to a verb: 食已, 'has eaten'; marks completion regardless of when) — contrasts with [[未]] ('not yet, unrealized') and [[将]] ('will, prospective')"
+- <ruby>[未](../words/未.md)<rt>ㄇㄨㄧ</rt></ruby> "not yet, hasn't yet (imperfective-negative aspect marker) — [[已]]'s negative counterpart"
 - <ruby>[人称](../words/人称.md)<rt>ㄋㄧㄋㄑㄧㄫ</rt></ruby> "grammatical person"
 
 ## Function Words
@@ -153,6 +158,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[前置詞](../words/前置詞.md)<rt>ㄐㄝㄋㄑㄧㄙㄚ</rt></ruby> "preposition"
 - on behalf of (a Dan'a'yo-internal co-verb coinage modeled on classical 爲 wéi, not an attested compound in any source language) : <ruby>[代表之](../words/代表之.md)<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby>
 - <ruby>[副詞](../words/副詞.md)<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
+- <ruby>[感詞](../words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> "interjection"
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby> "toward, -ward"
 - <ruby>[依](../words/依.md)<rt>ㄧㄜ</rt></ruby> "according to, in accordance with (co-verb: 依法, 'in accordance with the law')"
 - <ruby>[為](../words/為.md)<rt>⼔ㄋ</rt></ruby> "for, because of, to act as, namely (co-verb: 因為, 'because'; 為了, 'in order to') — not the same as the still-uncoined clause-linking conjunction 'because,' above"

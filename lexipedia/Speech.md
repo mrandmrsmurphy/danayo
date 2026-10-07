@@ -29,6 +29,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 - <ruby>[通](../words/通.md)<rt>ㄊㄛㄫ</rt></ruby>: to pass through, communicate.
 - <ruby>[会話](../words/会話.md)<rt>ㄏ⼔ㄏ⺢ㄧ</rt></ruby>: to converse, a conversation.
+- <ruby>[談話](../words/談話.md)<rt>ㄉㄚㄇㄏ⺢ㄧ</rt></ruby>: a conversation, talk, statement — 談 "discuss" + 話 "speech."
 - <ruby>[聊](../words/聊.md)<rt>ㄌ⼘ㄨ</rt></ruby>: to chat — a casual near-synonym of [[会話]]; in a separate literary sense, also "somewhat, slightly" or "for the time being."
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby>: colloquial language, spoken language. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
 - <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>: a dialect. See [Grammar](../lexipedia/Grammar.md) for its own citation there.

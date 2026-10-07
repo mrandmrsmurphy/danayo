@@ -85,6 +85,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[嫌悪](../words/嫌悪.md)<rt>ㄏㄝㄇ·ㄚㄎ</rt></ruby>: hatred, aversion, loathing.
 - <ruby>[隙](../words/隙.md)<rt>ㄎㄝㄎ</rt></ruby>: a fissure; a grudge.
 - <ruby>[私讐](../words/私讐.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: a personal grudge.
+- <ruby>[怨望](../words/怨望.md)<rt>ㄛㄋㄇㄚㄫ</rt></ruby>: to resent, begrudge — the cold, brooding grievance toward someone with power over you, rather than hot anger.
 - <ruby>[不満](../words/不満.md)<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby>: to be dissatisfied, resentful, lacking.
 - <ruby>[不平](../words/不平.md)<rt>ㄅㄛㄊㄅ⼶ㄫ</rt></ruby>: unjust, unfair; the resentment felt at injustice, complaint, grumbling (esp. Korean 불평하다, "to complain") — an undocumented near-duplicate of [[不満]], distinct from [[不当]]'s purely legal/objective "unjust" judgment on [Law](../lexipedia/Law.md).
 - <ruby>[嫉妬](../words/嫉妬.md)<rt>ㄐㄧㄊㄉㄛ</rt></ruby>, <ruby>[羨慕](../words/羨慕.md)<rt>ㄧㄜㄇㄛ</rt></ruby>: to be jealous, envious.
@@ -93,6 +94,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 - <ruby>[羞恥](../words/羞恥.md)<rt>ㄙㄨㄛㄑㄧ</rt></ruby>: shame.
 - <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
+- <ruby>[無恥](../words/無恥.md)<rt>ㄇㄜㄑㄧ</rt></ruby>: shameless, brazen — lacking the Confucian sense of shame; most at home in 厚顔無恥.
 
 ### Desire & Longing
 

@@ -114,6 +114,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[複写](../words/複写.md)<rt>ㄅㄨㄎㄙ⼘</rt></ruby>: a copy, photocopy, carbon copy — a duplicate made from a document or image; not [[写真]] (a photograph).
 - <ruby>[塑像](../words/塑像.md)<rt>ㄙㄛㄙ⼘ㄫ</rt></ruby>: molded statue.
 - <ruby>[彫像](../words/彫像.md)<rt>ㄑㄛㄨㄙ⼘ㄫ</rt></ruby>: statue, image.
+- <ruby>[石像](../words/石像.md)<rt>ㄙㄝㄎㄙ⼘ㄫ</rt></ruby>: a stone statue — as against bronze (銅像) or wood (木像).
 - <ruby>[彫刻](../words/彫刻.md)<rt>ㄑㄛㄨㄎㄨㄎ</rt></ruby>: to carve, sculpt (three-dimensional). See Semantic Range Notes.
 - <ruby>[書法](../words/書法.md)<rt>ㄙ⼄ㄈㄚㄆ</rt></ruby>: calligraphy.
 - <ruby>[書道](../words/書道.md)<rt>ㄙ⼄ㄉㄚㄨ</rt></ruby>: Japanese calligraphy, the Way of Writing — calligraphy as a discipline of self-cultivation, alongside [[武道]]; distinct from plain [[書法]].

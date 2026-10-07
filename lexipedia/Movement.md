@@ -34,6 +34,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[留](../words/留.md)<rt>ㄌ⼜</rt></ruby>: to remain, stay.
 - <ruby>[嵌入](../words/嵌入.md)<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby>: to embed, inlay, insert into.
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.
+- <ruby>[飛行](../words/飛行.md)<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby>: to fly; flight — 飛 plus 行 for directed travel.
 - <ruby>[横断](../words/横断.md)<rt>ㄏ⺢ㄫㄉ⺢ㄋ</rt></ruby>: to cross over, traverse.
 - <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>: to thrust, pierce through.
 - <ruby>[穿](../words/穿.md)<rt>ㄑㄝㄋ</rt></ruby>: to penetrate, pierce, drill — an undocumented near-duplicate of [[貫通]], with no recorded distinction between the two.

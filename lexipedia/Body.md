@@ -156,6 +156,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
 - <ruby>[膿](../words/膿.md)<rt>ㄋㄛㄫ</rt></ruby>: pus.
 - <ruby>[体液](../words/体液.md)<rt>ㄊㄝㄧ⼶ㄎ</rt></ruby>: bodily fluid — the general umbrella term covering [[血]], [[汗]], [[涙]], and [[膿]] alike.
+- <ruby>[細胞](../words/細胞.md)<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>: a biological cell — a Meiji coinage translating German Zelle.
 - <ruby>[粘液](../words/粘液.md)<rt>ㄋㄝㄇ·⼶ㄎ</rt></ruby>: mucus — the sticky bodily secretion; attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found; one of the fluids under [[体液]].
 - <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
 - <ruby>[肺臓](../words/肺臓.md)<rt>ㄈㄝㄐㄚㄫ</rt></ruby>: lungs.

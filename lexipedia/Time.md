@@ -15,6 +15,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[時間](../words/時間.md)<rt>ㄙㄧㄍㄚㄋ</rt></ruby>: time — the plain, everyday noun.
+- <ruby>[時](../words/時.md)<rt>ㄙㄧ</rt></ruby>: time — the noun and the correlative row heading (此時 "now," 其時 "then").
 - <ruby>[現在](../words/現在.md)<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>: the present, now. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[現用](../words/現用.md)<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby>: currently in use, active — what is in use at present as against what is retired or obsolete (現用字庫 "the active inventory").
 - <ruby>[過去](../words/過去.md)<rt>ㄍ⺢·ㄎ⼄</rt></ruby>: the past.
@@ -81,6 +82,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[尚](../words/尚.md)<rt>ㄙ⼘ㄫ</rt></ruby>: still, even more.
 - <ruby>[猶](../words/猶.md)<rt>⼜ㄛ</rt></ruby>: furthermore, still, yet — a classical/literary register.
 - <ruby>[間歇](../words/間歇.md)<rt>ㄍㄚㄋㄏㄝㄊ</rt></ruby>: intermittent, intermittence — happening with pauses and resuming rather than running continuously; a gap of rest in the continuation that [[仍]] and [[依然]] describe; the stand-in for the bound character 歇.
+- <ruby>[往往](../words/往往.md)<rt>⺢ㄫ⺢ㄫ</rt></ruby>: often, frequently — 往 doubled; "as is often the case."
 
 **Excluded as a false match**: "still" also loosely matches [[寂静]], but that word means quiet, tranquil — physical stillness/silence, not temporal continuation — not cited here.
 

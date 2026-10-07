@@ -46,6 +46,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[万乗](../words/万乗.md)<rt>ㄇㄛㄋㄙㄨㄫ</rt></ruby>: "ten thousand chariots" — a classical idiom for supreme imperial power, a ruler who commands ten thousand war chariots.
 - <ruby>[万歳](../words/万歳.md)<rt>ㄇㄛㄋㄙㄝ</rt></ruby>: "ten thousand years!" — the pan-Sinospheric royal acclamation wishing a ruler long life, historically a capital offense to say without authorization in China; later broadened into a general cheer (Japanese banzai) and a nationalist rallying cry (Korean manse).
 - <ruby>[皇后](../words/皇后.md)<rt>ㄏ⺢ㄫㄏㄛㄨ</rt></ruby>: an empress, queen consort.
+- <ruby>[国子](../words/国子.md)<rt>ㄍㄛㄎㄐㄜ</rt></ruby>: princes, sons of the state — from the Rites of Zhou (國子).
 - <ruby>[天皇](../words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>: the Emperor of Japan, Mikado.
 - <ruby>[女皇](../words/女皇.md)<rt>ㄋㄜㄏ⺢ㄫ</rt></ruby>: an empress.
 - <ruby>[姫](../words/姫.md)<rt>ㄍㄧ</rt></ruby>: a princess (the everyday Japanese sense, ひめ); elsewhere in the Sinosphere, a palace lady, concubine, or honorific for a noblewoman (寵姬, "favored concubine") — "princess" there survives mainly bound inside specific royal titles rather than standing alone.
@@ -76,6 +77,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[局](../words/局.md)<rt>ㄍ⼄ㄎ</rt></ruby>: an office, bureau (郵便局, "post office"; 造幣局, "mint") — resolves this page's own previously-flagged "office"/"bureau" gaps; also carries a separate, extended sense, "a bounded situation or predicament."
 - <ruby>[宰相](../words/宰相.md)<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>: a supreme chancellor, prime minister, premier.
 - <ruby>[参謀](../words/参謀.md)<rt>ㄙㄚㄇㄇㄨㄛ</rt></ruby>: a staff officer, strategist, advisor.
+- <ruby>[権謀](../words/権謀.md)<rt>ㄍ⼔ㄋㄇㄨㄛ</rt></ruby>: expedient scheming, political stratagem — usually in the set phrase 権謀術数, "machinations."
 - <ruby>[幹部](../words/幹部.md)<rt>ㄍㄚㄋㄅㄛㄨ</rt></ruby>: a leader, officer, executive.
 - <ruby>[尉](../words/尉.md)<rt>ㄨㄊ</rt></ruby>: an officer (military rank).
 - <ruby>[将校](../words/将校.md)<rt>ㄐ⺢ㄫㄏ⼘ㄨ</rt></ruby>: a commissioned officer.
@@ -176,6 +178,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[協定](../words/協定.md)<rt>ㄏㄝㄆㄐㄝㄫ</rt></ruby>: an agreement, accord, pact.
 - <ruby>[提携](../words/提携.md)<rt>ㄙㄝㄏ⼔ㄧ</rt></ruby>: an alliance, cooperation, tie-up.
 - <ruby>[公約](../words/公約.md)<rt>ㄍㄛㄫ⼘ㄎ</rt></ruby>: a public pledge, election promise, treaty.
+- <ruby>[連合](../words/連合.md)<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby>: to unite, ally with; an alliance, union — 連 "linked" + 合 "join."
 
 ### The Public
 

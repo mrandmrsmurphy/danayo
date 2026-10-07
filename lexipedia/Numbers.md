@@ -27,6 +27,7 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 - <ruby>[八](../words/八.md)<rt>ㄅㄚㄊ</rt></ruby>: eight.
 - <ruby>[九](../words/九.md)<rt>ㄎ⼜</rt></ruby>: nine.
 - <ruby>[十](../words/十.md)<rt>ㄙㄧㄆ</rt></ruby>: ten.
+- <ruby>[零](../words/零.md)<rt>ㄌㄝㄫ</rt></ruby>: zero, nil — the placeholder for an absent place value.
 - <ruby>[第一](../words/第一.md)<rt>ㄉㄝㄧㄧㄊ</rt></ruby>: first.
   - **Cross-ling**: The 第- ordinal prefix (第一, 第二, 第三...) is shared across Mandarin, Japanese, and Korean.
 - <ruby>[第二](../words/第二.md)<rt>ㄉㄝㄧㄋㄧㄜ</rt></ruby>: second.
@@ -78,6 +79,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[二千](../words/二千.md)<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby>: two thousand.
 - <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
 - <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
+- <ruby>[阿僧祇](../words/阿僧祇.md)<rt>ㄚㄙㄜㄫㄍㄧ</rt></ruby>: asankhyeya — the Buddhist "incalculable," an immeasurably vast number (Sanskrit असङ्ख्येय).
 - <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄜㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄜㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby>: the anti-forgery financial variant of [[五]] ("five") — originally "a file of five soldiers" (see [War](../lexipedia/War.md) for its own citation there), its extra strokes resist alteration the same way [[壱]]/[[貳]]/[[漆]]/[[玖]] guard [[一]]/[[二]]/[[七]]/[[九]].
 - <ruby>[捌](../words/捌.md)<rt>ㄆㄚㄊ</rt></ruby>: the anti-forgery financial variant of [[八]] ("eight"), completing the same guarded set — its own literal sense is "to break apart, disentangle" (and, of goods, "to sell well").

@@ -43,6 +43,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 ### Darkness
 
 - <ruby>[暗黒](../words/暗黒.md)<rt>ㄚㄇㄏㄨㄎ</rt></ruby>: dark, pitch black.
+- <ruby>[暗中](../words/暗中.md)<rt>ㄚㄇㄐㄨㄫ</rt></ruby>: in the dark, covertly — takes 於 for a full locative phrase (於暗中).
 - <ruby>[黒暗](../words/黒暗.md)<rt>ㄏㄨㄎ·ㄚㄇ</rt></ruby>: pure blackness, darkness — the noun-like state of darkness, carrying cosmological and moral weight (see Semantic Range Notes).
 
 ### Fire & Combustion

@@ -50,6 +50,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[伝統](../words/伝統.md)<rt>ㄐ⼔ㄋㄊㄛㄫ</rt></ruby>: tradition, custom.
 - <ruby>[文明](../words/文明.md)<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>: civilization.
 - <ruby>[文化圏](../words/文化圏.md)<rt>ㄇㄨㄋㄏ⺢ㄍ⼔ㄋ</rt></ruby>: a cultural sphere.
+- <ruby>[天下](../words/天下.md)<rt>ㄊㄝㄋㄏㄚ</rt></ruby>: the world, all under heaven — the civilised world as governed by the Son of Heaven.
 - <ruby>[中華](../words/中華.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby>: Chinese civilization/culture — a civilizational identity rather than a specific state, which is exactly why it names both rival Chinas ([[中華民国]], 中華人民共和国); distinct from [[中国]]'s state/country-name sense.
 - <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia — the fuller, classical transliteration used historically for the cultural/civilizational sense (Asian peoples, Pan-Asianism), distinct from [[亜洲]]'s plain geographic landmass sense.
 - <ruby>[儒学](../words/儒学.md)<rt>ㄋㄨㄏㄚㄎ</rt></ruby>: Confucianism — framed as a field of study, the academic/scholarly tradition.
@@ -93,6 +94,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 - <ruby>[公民](../words/公民.md)<rt>ㄍㄛㄫㄇㄧㄋ</rt></ruby>: citizen, civics.
 - <ruby>[庶民](../words/庶民.md)<rt>ㄙ⼄·ㄇㄧㄋ</rt></ruby>: a commoner, ordinary citizen.
+- <ruby>[翁](../words/翁.md)<rt>ㄛㄫ</rt></ruby>: a venerable old man, elder — literary and honorific.
 - <ruby>[賎人](../words/賎人.md)<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby>: a plebeian, lowly person — derogatory, distinct from the neutral [[庶民]].
 - <ruby>[奴家](../words/奴家.md)<rt>ㄋㄛㄍㄚ</rt></ruby>: a house of slavery, bondage — Dan'a'yo fixes this older, compositional sense (the Exodus "house of bondage"), not the Ming–Qing vernacular "I" used by women; its use is in the Biblical chengyu 引出奴家.
 - <ruby>[卑](../words/卑.md)<rt>ㄅㄝ</rt></ruby>: lowly, inferior — the quality itself (自卑, "to feel inferior"; the self-deprecating classical register of 卑職, "this humble official").

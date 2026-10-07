@@ -137,6 +137,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[一貫](../words/一貫.md)<rt>ㄧㄊㄍ⺢ㄋ</rt></ruby>: consistent, consistency, throughout — one principle or manner running unchanged from start to finish (不一貫 "inconsistent"), not [[一定]]'s "fixed value."
 - <ruby>[正常](../words/正常.md)<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby>: normal — the clean, direct word, also usable loosely for "ordinary" and "regular" given how tightly this English cluster overlaps.
 - <ruby>[平常](../words/平常.md)<rt>ㄅ⼶ㄫㄙ⼘ㄫ</rt></ruby>: usual — a near-synonym of [[正常]], also usable for "ordinary."
+- <ruby>[平凡](../words/平凡.md)<rt>ㄅ⼶ㄫㄅㄛㄇ</rt></ruby>: ordinary, common, unremarkable — 平 "level" plus 凡 "common"; neutral-to-humble, slightly negative in Japanese.
 
 **Excluded as false matches**: "simple" also loosely matches [[容易]] ("easy," a difficulty judgment, not structural simplicity) and [[平凡]] ("mediocre, common," a different quality judgment) — neither cited here.
 
