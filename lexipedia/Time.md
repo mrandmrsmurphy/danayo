@@ -40,6 +40,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[老](../words/老.md)<rt>ㄌㄚㄨ</rt></ruby>: an old person, age — a Swadesh word, the seniority/elderliness sense.
 - <ruby>[古希](../words/古希.md)<rt>ㄍㄛㄏㄧㄜ</rt></ruby>: seventy years of age — the congratulatory name for a seventieth birthday, from Du Fu's line 人生七十古來稀 ("it has been rare since antiquity to reach seventy").
 - <ruby>[古代](../words/古代.md)<rt>ㄍㄛㄉㄚㄧ</rt></ruby>: ancient.
+- <ruby>[古今](../words/古今.md)<rt>ㄍㄛㄍㄧㄇ</rt></ruby>: ancient and modern, old and new.
 - <ruby>[現代](../words/現代.md)<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby>: modern, the present era.
 - <ruby>[中古](../words/中古.md)<rt>ㄐㄨㄫㄍㄛ</rt></ruby>: medieval, the Middle Ages — East Asian historiography's tripartite 古代/中古/近代 (ancient/medieval/modern) periodization scheme; also, distinctly, "secondhand, used" in modern Japanese/Korean consumer usage (中古品, 中古車), a genuinely separate sense from the historical one.
 
@@ -136,6 +137,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 ### Day Divisions
 
 - <ruby>[午後](../words/午後.md)<rt>ㄛㄏㄨㄛ</rt></ruby>: afternoon.
+- <ruby>[午前](../words/午前.md)<rt>ㄛㄐㄝㄋ</rt></ruby>: a.m., the forenoon.
 - <ruby>[黎明](../words/黎明.md)<rt>ㄌㄝㄧㄇ⼶ㄫ</rt></ruby>: dawn.
 - <ruby>[晩](../words/晩.md)<rt>ㄇㄛㄋ</rt></ruby>: evening.
 - <ruby>[夜](../words/夜.md)<rt>⼘</rt></ruby>: night — the bare word (昼夜, "day and night").

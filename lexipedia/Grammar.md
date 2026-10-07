@@ -187,6 +187,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[品詞](../words/品詞.md)<rt>ㄆㄨㄇㄙㄚ</rt></ruby> "part of speech"
 - noun <ruby>[名詞](../words/名詞.md)<rt>ㄇㄧㄫㄙㄚ</rt></ruby>
 - <ruby>[実詞](../words/実詞.md)<rt>ㄙㄧㄊㄙㄚ</rt></ruby> "content word (as against a function word)"
+- <ruby>[単詞](../words/単詞.md)<rt>ㄉㄚㄋㄙㄚ</rt></ruby> "word (a single word)"
 - verb <ruby>[動詞](../words/動詞.md)<rt>ㄉㄛㄫㄙㄚ</rt></ruby>
 - <ruby>[用言](../words/用言.md)<rt>⼄ㄫㄝㄋ</rt></ruby> "declinable word (Japanese school grammar term: verbs, adjectives)"
 	- transitive <ruby>[他動詞](../words/他動詞.md)<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby>

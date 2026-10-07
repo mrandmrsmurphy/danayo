@@ -24,6 +24,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
 - <ruby>[入場](../words/入場.md)<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby>: to enter a venue, admission.
 - <ruby>[到達](../words/到達.md)<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby>: to arrive at, reach.
+- <ruby>[帰還](../words/帰還.md)<rt>ㄍㄨㄧㄏ⺢ㄋ</rt></ruby>: to return home, give back, be repatriated.
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.
 - <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
 - <ruby>[奔波](../words/奔波.md)<rt>ㄅㄛㄋㄅㄚ</rt></ruby>: to rush about, run around, toil busily.

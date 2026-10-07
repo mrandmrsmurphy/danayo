@@ -12,6 +12,7 @@ language: English
 - settlement, village - <ruby>[聚落](../words/聚落.md)<rt>ㄑㄨㄧㄌㄚㄎ</rt></ruby> (the standard Mandarin and Korean word, preferred here over Japan's more common 集落)
 - suburbs, outskirts - <ruby>[近郊](../words/近郊.md)<rt>ㄍㄧㄋㄍ⼄ㄨ</rt></ruby> (the areas just outside a city, between it and the countryside)
 - capital city, metropolis - <ruby>[京城](../words/京城.md)<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> (the plain compositional meaning only — not the specific historical toponym for colonial-era Seoul, which also used this spelling)
+- <ruby>[北京](../words/北京.md)<rt>ㄅㄨㄎㄍ⼶ㄫ</rt></ruby>: Beijing.
 - capital province - <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby> ([[京城]]'s surrounding administrative territory; a live term, the modern name of Gyeonggi Province around Seoul)
 - gate - <ruby>[大門](../words/大門.md)<rt>ㄉㄚㄧㄇㄛㄋ</rt></ruby>
 - road - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>

@@ -135,6 +135,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 - <ruby>[反乱](../words/反乱.md)<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
 - <ruby>[反対](../words/反対.md)<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby>: to oppose, be opposite.
+- <ruby>[反駁](../words/反駁.md)<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby>: to refute.
 - <ruby>[革命](../words/革命.md)<rt>ㄎㄧㄎㄇ⼶ㄫ</rt></ruby>: to revolt against, incite revolution, rebel against.
 - <ruby>[逆](../words/逆.md)<rt>ㄝㄎ</rt></ruby>: rebellion, betrayal, a traitor — this word's primary sense (political treason); its minor "opposite, reverse" sense is not cited separately, since [[Mind]]'s own "opposite" slot is already filled by [[相対]].
 - <ruby>[解放](../words/解放.md)<rt>ㄍ⼘ㄧㄈㄚㄫ</rt></ruby>: to liberate, set free.

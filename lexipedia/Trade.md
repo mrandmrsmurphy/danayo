@@ -66,6 +66,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[報償](../words/報償.md)<rt>ㄅㄚㄨㄙ⼘ㄫ</rt></ruby>: to compensate, pay reparations.
 - <ruby>[報答](../words/報答.md)<rt>ㄅㄚㄨㄉㄚㄆ</rt></ruby>: to reward, requite.
 - <ruby>[報酬](../words/報酬.md)<rt>ㄅㄚㄨㄙㄨㄛ</rt></ruby>: a reward, remuneration.
+- <ruby>[収入](../words/収入.md)<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>: income.
 - <ruby>[充当](../words/充当.md)<rt>ㄑㄨㄫㄉㄚㄫ</rt></ruby>: to allocate, apply funds toward — to earmark a store of money or resources for a designated use (the bureaucratic act of allocating from a budget); directing a filled store to a purpose, where [[充足]] describes the store as sufficient.
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
 - <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.

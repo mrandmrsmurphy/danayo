@@ -24,6 +24,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[連接](../words/連接.md)<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby>: to link, join, connect.
 - <ruby>[敲](../words/敲.md)<rt>ㄎ⼘ㄨ</rt></ruby>: to knock, tap, rap.
 - <ruby>[混合](../words/混合.md)<rt>ㄏㄛㄋㄍㄛㄆ</rt></ruby>: to mix, blend, bundle.
+- <ruby>[合成](../words/合成.md)<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby>: synthesis; compound, composite.
 - <ruby>[鞭打](../words/鞭打.md)<rt>ㄅ⼶ㄋㄉㄚ</rt></ruby>: to whip, flog, lash.
 
 **Not yet coined**: "attract," "bore" (to drill a hole), "mar," "snap," and "web" all have no dedicated Dan'a'yo word yet.

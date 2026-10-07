@@ -44,6 +44,7 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[事物](../words/事物.md)<rt>ㄐㄧ·ㄇㄨㄊ</rt></ruby>: things, the totality of objects and matters — an academic/philosophical register (事物の本質, "the essential nature of things"), pairing concrete 物 with abstract 事 rather than [[萬物]]'s plainer "myriad things."
 - <ruby>[現象](../words/現象.md)<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby>: a phenomenon.
 - <ruby>[成立](../words/成立.md)<rt>ㄙㄧㄫㄌㄧㄆ</rt></ruby>: to come into existence, be established, gain approval.
+- <ruby>[創立](../words/創立.md)<rt>ㄑ⺢ㄫㄌㄧㄆ</rt></ruby>: to establish, found.
 
 ## Intermediate (B1–B2)
 
@@ -135,6 +136,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[及](../words/及.md)<rt>ㄍㄨㄆ</rt></ruby>: to reach out to, extend to — the bound root behind [[普及]] above.
 - <ruby>[同一](../words/同一.md)<rt>ㄉㄛㄫㄧㄊ</rt></ruby>: same, identical — ties directly to Core [[是]]'s identity sense.
 - <ruby>[差異](../words/差異.md)<rt>ㄑㄚㄧ</rt></ruby>: a difference, distinction — the noun-register word for "discrepancy."
+- <ruby>[差別](../words/差別.md)<rt>ㄑㄚㄅㄝㄊ</rt></ruby>: to discriminate.
 - <ruby>[平等](../words/平等.md)<rt>ㄅ⼶ㄫㄉㄨㄫ</rt></ruby>: equality, to be equal.
 - <ruby>[不均](../words/不均.md)<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby>: uneven, unequal, imbalanced — [[平等]]'s negation (貧富不均 "inequality between rich and poor," 発展不均 "uneven development").
 - <ruby>[天地之別](../words/天地之別.md)<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby>: a world of difference, the gulf between heaven and earth — a contrast so extreme that the two things seem to belong to different orders of being; the fully compositional form (天地 + 之 + 別), next to the more fixed 天壤之別.

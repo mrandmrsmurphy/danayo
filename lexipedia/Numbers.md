@@ -104,6 +104,7 @@ Dan'a'yo's mathematical vocabulary is a deliberately coined technical layer, cro
 
 - <ruby>[数学](../words/数学.md)<rt>ㄙㄨㄏㄚㄎ</rt></ruby>: mathematics, the discipline as a whole.
 - <ruby>[圓周率](../words/圓周率.md)<rt>⼔ㄋㄐㄨㄛㄌㄨㄊ</rt></ruby>: pi (π) — the circle-circumference ratio.
+- <ruby>[小数点](../words/小数点.md)<rt>ㄙㄛㄙㄨㄉㄝㄇ</rt></ruby>: a decimal point.
 - <ruby>[二次元](../words/二次元.md)<rt>ㄋㄧㄜㄑㄧㄜ⼔ㄋ</rt></ruby>: two-dimensional, 2D — the formal geometric sense (contrast 一次元/三次元/四次元); also, in modern East Asian otaku slang, "the 2D world" of anime/manga/games as opposed to real (三次元) life.
 - <ruby>[算術](../words/算術.md)<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby>: arithmetic — the elementary branch, narrower than 数学.
 - <ruby>[代数](../words/代数.md)<rt>ㄉㄚㄧㄙㄨ</rt></ruby>: algebra — the branch using symbols to substitute for numbers; for the study of algebra as a discipline, see [[代数学]].

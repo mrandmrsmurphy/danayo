@@ -39,6 +39,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 - <ruby>[正確](../words/正確.md)<rt>ㄐㄧㄫㄎㄚㄎ</rt></ruby>: accurate, correct, proper.
 - <ruby>[事実](../words/事実.md)<rt>ㄐㄧㄙㄧㄊ</rt></ruby>: fact, reality, truth.
 - <ruby>[知識](../words/知識.md)<rt>ㄐㄨㄧㄙㄧㄎ</rt></ruby>: knowledge.
+- <ruby>[常識](../words/常識.md)<rt>ㄙ⼘ㄫㄙㄧㄎ</rt></ruby>: common sense.
 - <ruby>[理解](../words/理解.md)<rt>ㄌㄧ·ㄍ⼘ㄧ</rt></ruby>: to understand, to comprehend.
 - <ruby>[了解](../words/了解.md)<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>: to understand, comprehend — a near-synonym of 理解 above; note its Japanese pragmatic narrowing to a stock "understood!, roger!" acknowledgment, distinct from the general Chinese/Dan'a'yo verb sense.
 - <ruby>[理解度](../words/理解度.md)<rt>ㄌㄧ·ㄍ⼘ㄧㄉㄛ</rt></ruby>: degree/level of understanding, comprehension rate — 理解 above + [[度]] "degree."

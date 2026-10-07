@@ -38,6 +38,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[五方](../words/五方.md)<rt>ㄛㄈㄚㄫ</rt></ruby>: the Five Directions — East Asian cosmology's four cardinal points plus Center, each correlated with a color, element, season, and guardian creature; also, idiomatically, "everywhere, from all quarters" (五方雜處).
 - <ruby>[右側](../words/右側.md)<rt>⼜ㄐㄧㄎ</rt></ruby>: right (side).
 - <ruby>[左側](../words/左側.md)<rt>ㄐㄚㄐㄧㄎ</rt></ruby>: left (side).
+- <ruby>[左右](../words/左右.md)<rt>ㄐㄚ⼜</rt></ruby>: both sides, left and right.
 - <ruby>[反](../words/反.md)<rt>ㄈㄛㄋ</rt></ruby>: anti-, wrong side up, reversed.
 - <ruby>[翻](../words/翻.md)<rt>ㄈㄛㄋ</rt></ruby>: to flip — a genuine Dan'a'yo homophone of [[反]], the verb counterpart to that word's adjectival "reversed" (翻訳, "to translate," literally "flip into another language," see [[Art]]; 翻身, "to turn oneself over").
 - <ruby>[垂直](../words/垂直.md)<rt>ㄐㄨㄧㄐㄧㄊ</rt></ruby>: vertical, perpendicular.

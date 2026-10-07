@@ -104,9 +104,11 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[偈陀](../words/偈陀.md)<rt>ㄍㄝㄊㄉㄚ</rt></ruby>: a gatha — a transliteration of Sanskrit गाथा (gāthā), the verse form used in Buddhist scripture.
 - <ruby>[七宝](../words/七宝.md)<rt>ㄑㄧㄊㄅㄚㄨ</rt></ruby>: the Seven Treasures — a Buddhist canonical list (gold, silver, pearls, agate, crystal, coral, lapis lazuli).
 - <ruby>[輪回](../words/輪回.md)<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby>: saṃsāra, the cycle of rebirth — the wheel of existence that Buddhist practice aims to escape; distinct from [[法輪]] (the wheel of dharma) and [[因縁]] (karma).
+- <ruby>[化身](../words/化身.md)<rt>ㄏ⺢ㄙㄧㄋ</rt></ruby>: to incarnate, reincarnate; an incarnation.
 - <ruby>[堕落](../words/堕落.md)<rt>ㄉ⺢ㄌㄚㄎ</rt></ruby>: to fall, degenerate — in Buddhist cosmology, to sink into a lower realm of rebirth; by extension moral degeneration, depravity.
 - <ruby>[無色](../words/無色.md)<rt>ㄇㄜㄙㄧㄎ</rt></ruby>: formless — the standard rendering of Sanskrit arūpa, as in 無色界, the "formless realm", highest of the three realms of Buddhist cosmology; also plain "colorless" (see [Color](../lexipedia/Color.md)).
 - <ruby>[法輪](../words/法輪.md)<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby>: the wheel of dharma, the Buddhist symbol representing the Buddha's teaching.
+- <ruby>[卍字](../words/卍字.md)<rt>ㄇㄛㄋㄐㄧ</rt></ruby>: the swastika, a Buddhist auspicious sign.
 - <ruby>[五戒](../words/五戒.md)<rt>ㄛㄍ⼶</rt></ruby>: the Five Precepts — the foundational lay-Buddhist ethical code (no killing, stealing, sexual misconduct, false speech, or intoxicants), often mapped onto Confucianism's [[五常]] in East Asian religious synthesis.
 - <ruby>[無明](../words/無明.md)<rt>ㄇㄜ·ㄇ⼶ㄫ</rt></ruby>: avidyā, fundamental ignorance — the first of the Twelve Links of Dependent Origination; a Buddhist technical term, not everyday ignorance.
 - <ruby>[寂滅](../words/寂滅.md)<rt>ㄐㄝㄎㄇㄝㄊ</rt></ruby>: nirvana — the extinguishing of suffering.

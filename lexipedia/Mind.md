@@ -167,6 +167,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[原因](../words/原因.md)<rt>⼔ㄋ·ㄧㄋ</rt></ruby>: a reason, cause.
 - <ruby>[解決](../words/解決.md)<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby>: to solve, resolve, conclude, settle.
 - <ruby>[論理](../words/論理.md)<rt>ㄌㄛㄋㄌㄧ</rt></ruby>: logic — see [[Knowledge]] for its own citation there.
+- <ruby>[帰納](../words/帰納.md)<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby>: to induce, derive.
 - <ruby>[実例](../words/実例.md)<rt>ㄙㄧㄊㄌㄝ</rt></ruby>: an example, precedent.
 
 **Not yet coined**: "case" (in the sense of an instance or example — [[格]] is the grammatical case, [[箱]] the physical box, neither fits this sense), "mess," "program," "relate," and "state" (as a pure condition or status, distinct from [[陳述]]'s "to state, declare," below) all have no dedicated Dan'a'yo word yet.

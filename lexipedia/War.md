@@ -32,6 +32,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[哨兵](../words/哨兵.md)<rt>ㄙ⼄ㄨㄅ⼶ㄫ</rt></ruby>: a sentry, sentinel.
 - <ruby>[孤軍](../words/孤軍.md)<rt>ㄍㄛㄍㄨㄋ</rt></ruby>: an isolated army, lone forces.
 - <ruby>[守戍](../words/守戍.md)<rt>ㄙ⼜ㄙㄨ</rt></ruby>: a border guard.
+- <ruby>[干戈](../words/干戈.md)<rt>ㄍㄚㄋㄍ⺢</rt></ruby>: weapons of war, arms.
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
 - <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
 
@@ -63,6 +64,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 
 - <ruby>[征伐](../words/征伐.md)<rt>ㄐㄝㄫㄈㄝㄊ</rt></ruby>: to conquer, subjugate.
 - <ruby>[侵犯](../words/侵犯.md)<rt>ㄑㄧㄇㄅㄚㄇ</rt></ruby>: to intrude upon, violate, invade.
+- <ruby>[干犯](../words/干犯.md)<rt>ㄍㄚㄋㄅㄚㄇ</rt></ruby>: to infringe, violate, encroach upon.
 - <ruby>[侵略](../words/侵略.md)<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby>: to invade — an undocumented near-duplicate of [[侵犯]].
 - <ruby>[侵入](../words/侵入.md)<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby>: to invade, trespass, intrude — framing unwelcome entry itself as violation (crossing a border, breaching a system), a related but distinct nuance from [[侵犯]]/[[侵略]]'s own act of invading.
 

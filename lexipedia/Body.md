@@ -119,6 +119,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[堕胎](../words/堕胎.md)<rt>ㄉ⺢·ㄊㄚㄧ</rt></ruby>: to abort; abortion.
 - <ruby>[妊](../words/妊.md)<rt>ㄋㄧㄇ</rt></ruby>: to be pregnant, conceive — the bound root behind [[妊娠]] above.
 - <ruby>[割包皮](../words/割包皮.md)<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby>: circumcision.
+- <ruby>[包皮](../words/包皮.md)<rt>ㄅ⼘ㄨㄅㄧ</rt></ruby>: the foreskin.
 - <ruby>[奄人](../words/奄人.md)<rt>⼶ㄇㄋㄧㄋ</rt></ruby>: a eunuch, castrato.
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, be pregnant (the everyday Mandarin verb, 懷孕/怀孕).
 - <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.

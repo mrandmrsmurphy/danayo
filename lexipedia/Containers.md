@@ -55,8 +55,10 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 ### Collecting & Gathering
 
 - <ruby>[収集](../words/収集.md)<rt>ㄙㄨㄛㄐㄧㄆ</rt></ruby>, <ruby>[採取](../words/採取.md)<rt>ㄑㄚㄧㄑㄛㄨ</rt></ruby>, <ruby>[採集](../words/採集.md)<rt>ㄑㄚㄧㄐㄧㄆ</rt></ruby>, <ruby>[聚集](../words/聚集.md)<rt>ㄑㄨㄧㄐㄧㄆ</rt></ruby>, <ruby>[蒐集](../words/蒐集.md)<rt>ㄙ⼜ㄛㄐㄧㄆ</rt></ruby>, <ruby>[㪘](../words/㪘.md)<rt>ㄌ⼶ㄇ</rt></ruby>: to collect, gather. See Semantic Range Notes.
+- <ruby>[収蔵](../words/収蔵.md)<rt>ㄙㄨㄛㄑㄚㄫ</rt></ruby>: to store, house; a collection.
 - <ruby>[会](../words/会.md)<rt>ㄏ⼔</rt></ruby>: to gather, meet.
 - <ruby>[集合](../words/集合.md)<rt>ㄐㄧㄆㄍㄛㄆ</rt></ruby>: to assemble, gather; a group, a set.
+- <ruby>[召集](../words/召集.md)<rt>ㄙ⼄ㄨㄐㄧㄆ</rt></ruby>: to summon, convene.
 - <ruby>[徴税](../words/徴税.md)<rt>ㄉㄧㄫㄙㄝ</rt></ruby>: to collect taxes, levy taxes.
 
 ### Inclusion & Fullness

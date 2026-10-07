@@ -51,6 +51,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[川](../words/川.md)<rt>ㄑ⺢ㄋ</rt></ruby>: river.
 - <ruby>[大河](../words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby>: a big river — also the Yellow River in older usage.
 - <ruby>[瀑布](../words/瀑布.md)<rt>ㄅㄛㄎㄅㄛ</rt></ruby>: a waterfall, cataract, cascade.
+- <ruby>[湧](../words/湧.md)<rt>⼄ㄫ</rt></ruby>: to gush, rush up.
 - <ruby>[流水](../words/流水.md)<rt>ㄌ⼜ㄙㄨ</rt></ruby>: flowing water; by extension, the inevitable passage of events (高山流水, "high mountains and flowing water," symbolizing deep mutual understanding between friends).
 - <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
 - <ruby>[小河](../words/小河.md)<rt>ㄙㄛㄏㄚ</rt></ruby>: stream.

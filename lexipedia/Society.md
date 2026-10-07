@@ -92,6 +92,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[壮族](../words/壮族.md)<rt>ㄐ⺢ㄫㄐㄛㄎ</rt></ruby>: the Zhuang ethnicity.
 - <ruby>[満族](../words/満族.md)<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby>: the Manchu ethnicity.
 - <ruby>[漢族](../words/漢族.md)<rt>ㄏㄚㄋㄐㄛㄎ</rt></ruby>: the Han ethnicity.
+- <ruby>[匈奴](../words/匈奴.md)<rt>ㄏ⼄ㄫㄋㄛ</rt></ruby>: the Xiongnu.
 - <ruby>[中国人](../words/中国人.md)<rt>ㄐㄨㄫㄍㄛㄎㄋㄧㄋ</rt></ruby>: a Chinese person — the productive country-name + 人 nationality pattern; primarily legal/citizenship (PRC national or mainland-Chinese identity), distinct from [[華人]]'s broader "ethnic Chinese" sense (not cited here).
 - <ruby>[苗族](../words/苗族.md)<rt>ㄇ⼘ㄨㄐㄛㄎ</rt></ruby>: the Hmong/Miao ethnicity.
 - <ruby>[倭人](../words/倭人.md)<rt>⼔ㄧㄋㄧㄋ</rt></ruby>: Wajin — the archaic Chinese term for the Japanese people (as in the 3rd-century Chinese chronicle references to the Wa/Yamatai).
@@ -108,10 +109,12 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[烝民](../words/烝民.md)<rt>ㄙㄧㄫㄇㄧㄋ</rt></ruby>: the common people, the masses.
 - <ruby>[国士](../words/国士.md)<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby>: a gentleman, patriot.
 - <ruby>[紳士](../words/紳士.md)<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby>: a gentleman.
+- <ruby>[君子](../words/君子.md)<rt>ㄍㄨㄋㄐㄜ</rt></ruby>: a junzi, gentleman, nobleman.
 - <ruby>[同等](../words/同等.md)<rt>ㄉㄛㄫㄉㄨㄫ</rt></ruby>: equal, equivalent, of the same rank.
 - <ruby>[上位](../words/上位.md)<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby>: upper rank, a superior position — the abstract top pole of any ranked system (a leaderboard, an organization's senior ranks), paired with [[下位]]'s bottom pole.
 - <ruby>[下位](../words/下位.md)<rt>ㄏㄚ⼔ㄧ</rt></ruby>: low rank, a subordinate position — [[上位]]'s direct antonym, completing the pair that frames all of Dan'a'yo's ranking/hierarchy vocabulary.
 - <ruby>[同志](../words/同志.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: a comrade.
+- <ruby>[同胞](../words/同胞.md)<rt>ㄉㄛㄫㄅ⼘ㄨ</rt></ruby>: a compatriot, countryman.
 - <ruby>[輩](../words/輩.md)<rt>ㄈㄛㄧ</rt></ruby>: a generation — by extension, a peer-group, cohort, "people of a kind" (先輩/後輩, "senior/junior"; 同輩, "a peer, age-mate").
 - <ruby>[長上](../words/長上.md)<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby>: elders and superiors — seniority by age and by rank.
 
@@ -161,6 +164,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[不信](../words/不信.md)<rt>ㄅㄛㄊㄙㄧㄋ</rt></ruby>: to not believe, to mistrust — [[信用]]'s direct negation.
 - <ruby>[尊敬](../words/尊敬.md)<rt>ㄐㄛㄋㄍ⼶ㄫ</rt></ruby>: to respect, honor, esteem.
 - <ruby>[小人](../words/小人.md)<rt>ㄙㄛ·ㄋㄧㄋ</rt></ruby>: a petty person, jerk.
+- <ruby>[唐突](../words/唐突.md)<rt>ㄉ⺢ㄫㄊㄛㄊ</rt></ruby>: blunt, presumptuous.
 - <ruby>[尊厳](../words/尊厳.md)<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby>: dignity, sanctity.
 - <ruby>[説服](../words/説服.md)<rt>ㄙ⼔ㄊㄅㄨㄎ</rt></ruby>: to convince — Rosenfelder's "convince." See Semantic Range Notes.
 - <ruby>[説得](../words/説得.md)<rt>ㄙ⼔ㄊㄊㄜㄎ</rt></ruby>: to persuade — a near-synonym of [[説服]], the standard word for this concept in Japanese/Korean rather than Mandarin/Vietnamese.

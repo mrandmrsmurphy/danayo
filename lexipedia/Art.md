@@ -51,6 +51,8 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Correspondence & Documents
 
 - <ruby>[文書](../words/文書.md)<rt>ㄇㄨㄋㄙ⼄</rt></ruby>: letter, document.
+- <ruby>[古典](../words/古典.md)<rt>ㄍㄛㄉㄝㄋ</rt></ruby>: a classic; classical.
+- <ruby>[可読](../words/可読.md)<rt>ㄎㄜㄉㄛㄎ</rt></ruby>: readable, legible.
 - <ruby>[名刺](../words/名刺.md)<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby>: a business card, name card.
 - <ruby>[書面](../words/書面.md)<rt>ㄙ⼄·ㄇ⼶ㄋ</rt></ruby>: written — as against spoken.
 - <ruby>[刪除](../words/刪除.md)<rt>ㄙㄚㄋㄐㄝㄧ</rt></ruby>: to delete, expunge — to strike something out of a text or record; originally the cutting of bamboo strips (冊 + 刂) to erase a character, now the standard computing term for deletion in Chinese.
@@ -97,6 +99,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
 - <ruby>[刊行](../words/刊行.md)<rt>ㄎㄚㄋㄏㄚㄫ</rt></ruby>: to publish (a book or periodical).
+- <ruby>[小冊子](../words/小冊子.md)<rt>ㄙㄛㄑㄚㄎㄐㄜ</rt></ruby>: a booklet.
 - <ruby>[初版](../words/初版.md)<rt>ㄑㄛ·ㄆㄚㄋ</rt></ruby>: a first edition.
 - <ruby>[新聞](../words/新聞.md)<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby>: news (Mandarin, Cantonese); newspaper (Japanese, Korean).
 - <ruby>[刊](../words/刊.md)<rt>ㄎㄚㄋ</rt></ruby>: a publication, periodical (週刊, "a weekly publication"; [[季刊]], "a quarterly").
@@ -182,6 +185,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[喇叭](../words/喇叭.md)<rt>ㄌㄚㄅㄚㄊ</rt></ruby>: horn, trumpet.
 - <ruby>[洞簫](../words/洞簫.md)<rt>ㄉㄛㄫㄙㄛㄨ</rt></ruby>: the xiao, an end-blown bamboo flute.
 - <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
+- <ruby>[古琴](../words/古琴.md)<rt>ㄍㄛㄍㄨㄇ</rt></ruby>: the guqin, a seven-string zither.
 - <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
 - <ruby>[古箏](../words/古箏.md)<rt>ㄍㄛㄐㄝㄫ</rt></ruby>: the guzheng, the long multi-stringed plucked Chinese zither — the "old 箏", ancestor of a family of East Asian zithers; the stand-in for the bound character 箏, distinct from the [[琴]] and [[瑟]] above.
 - <ruby>[提琴](../words/提琴.md)<rt>ㄙㄝㄍㄨㄇ</rt></ruby>: the violin family, bowed string instruments — a "held-up" stringed instrument played at the body or shoulder (小提琴 violin, 大提琴 cello); distinct from the table-laid zither [[琴]] (the guqin), whose name it shares in 琴.
@@ -191,6 +195,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[武芸](../words/武芸.md)<rt>ㄇㄨㄝ</rt></ruby>: martial art skill.
 - <ruby>[武術](../words/武術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: martial art.
 - <ruby>[射術](../words/射術.md)<rt>ㄙ⼘ㄙㄨㄊ</rt></ruby>: archery.
+- <ruby>[剣術](../words/剣術.md)<rt>ㄍㄛㄇㄙㄨㄊ</rt></ruby>: fencing, swordsmanship.
 - <ruby>[武道](../words/武道.md)<rt>ㄇㄨㄉㄚㄨ</rt></ruby>: martial arts (as a way/discipline).
 - <ruby>[弓道](../words/弓道.md)<rt>ㄍㄨㄫㄉㄚㄨ</rt></ruby>: Japanese archery, the Way of the Bow — kyūdō, archery as a discipline of self-cultivation; a specific [[武道]], not archery in general.
 - <ruby>[剣道](../words/剣道.md)<rt>ㄍㄛㄇㄉㄚㄨ</rt></ruby>: kendo, the Way of the Sword — the modern Japanese martial art of swordsmanship with the bamboo shinai and armour, descended from samurai kenjutsu; a path of self-cultivation like [[弓道]] and [[柔道]].
@@ -212,6 +217,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[閲読](../words/閲読.md)<rt>⼶ㄊㄉㄛㄎ</rt></ruby>: to read closely, to peruse, to examine a text — a more formal register than casual reading. See Semantic Range Notes.
 - <ruby>[刻印](../words/刻印.md)<rt>ㄎㄨㄎ·ㄧㄋ</rt></ruby>: to engrave; a seal impression (two-dimensional). See Semantic Range Notes.
 - <ruby>[封印](../words/封印.md)<rt>ㄈㄛㄫㄧㄋ</rt></ruby>: a seal, stamp.
+- <ruby>[印章](../words/印章.md)<rt>ㄧㄋㄐㄚㄫ</rt></ruby>: a seal, chop, stamp.
 - <ruby>[賦](../words/賦.md)<rt>ㄈㄨ</rt></ruby>: prose-poetry (a classical genre).
 - <ruby>[詠春拳](../words/詠春拳.md)<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby>: Wing Chun.
 - <ruby>[鳳笙](../words/鳳笙.md)<rt>ㄆㄨㄫㄙㄚㄫ</rt></ruby>: phoenix sheng — a free-reed mouth organ. See Semantic Range Notes.

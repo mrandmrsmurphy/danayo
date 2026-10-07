@@ -31,6 +31,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[治療](../words/治療.md)<rt>ㄑㄧㄌ⼄ㄨ</rt></ruby>: to treat (medically).
 - <ruby>[疾病](../words/疾病.md)<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby>: a disease.
 - <ruby>[創傷](../words/創傷.md)<rt>ㄑ⺢ㄫㄙ⼘ㄫ</rt></ruby>: a wound, trauma.
+- <ruby>[加皮](../words/加皮.md)<rt>ㄍㄚㄅㄧ</rt></ruby>: a scab.
 - <ruby>[病症](../words/病症.md)<rt>ㄅ⼶ㄫㄐㄧㄫ</rt></ruby>: an illness, ailment — the everyday word for a condition as it presents; more concrete than [[疾病]], broader than [[症状]] (symptoms).
 - <ruby>[看病](../words/看病.md)<rt>ㄎㄚㄋㄅ⼶ㄫ</rt></ruby>: to nurse, see a patient.
 - <ruby>[自閉症](../words/自閉症.md)<rt>ㄐㄧㄜㄅㄝㄧㄐㄧㄫ</rt></ruby>: autism — 自 "self" + 閉 "close" + 症 "condition."
@@ -47,6 +48,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[人生](../words/人生.md)<rt>ㄋㄧㄋㄙㄚㄫ</rt></ruby>: a human life, one's life course or biography.
 - <ruby>[分娩](../words/分娩.md)<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby>: to give birth, deliver a child — the formal and clinical word for childbirth (as in a delivery room), rather than the plain everyday verb for having a baby; the stand-in for the bound character 娩.
 - <ruby>[生存](../words/生存.md)<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby>: to survive.
+- <ruby>[勃勃](../words/勃勃.md)<rt>ㄅㄛㄊㄅㄛㄊ</rt></ruby>: vigorous, thriving, exuberant.
 - <ruby>[存亡](../words/存亡.md)<rt>ㄐㄛㄋㄇㄚㄫ</rt></ruby>: survival (archaic); survival and ruin.
 - <ruby>[回復](../words/回復.md)<rt>ㄏㄛㄧㄅㄨㄎ</rt></ruby>: to recover, restore.
 - <ruby>[蘇生](../words/蘇生.md)<rt>ㄙㄛㄙㄚㄫ</rt></ruby>: revival, resuscitation — coming back to life, both medically (心肺蘇生, cardiopulmonary resuscitation) and figuratively (the revival of a tradition or an economy); a fuller return than [[回復]]'s recovery.

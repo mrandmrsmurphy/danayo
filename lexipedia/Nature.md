@@ -36,6 +36,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
 - <ruby>[崖](../words/崖.md)<rt>ㄚㄧ</rt></ruby>: a cliff.
 - <ruby>[火山](../words/火山.md)<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby>: a volcano.
+- <ruby>[噴火](../words/噴火.md)<rt>ㄆㄛㄋㄏ⺢</rt></ruby>: to erupt.
 - <ruby>[余震](../words/余震.md)<rt>⼄ㄐㄧㄋ</rt></ruby>: an aftershock.
 - <ruby>[余波](../words/余波.md)<rt>⼄ㄅㄚ</rt></ruby>: aftermath, after-effect, fallout — literally "waves remaining after winds subside," extended figuratively.
 - <ruby>[霧](../words/霧.md)<rt>ㄇㄨ</rt></ruby>: fog, mist.
@@ -52,6 +53,15 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[高峰](../words/高峰.md)<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>: a peak, summit — the top of a mountain, and figuratively the apex of anything; [[山]] is the mountain itself.
 - <ruby>[地形](../words/地形.md)<rt>ㄉㄧㄜㄏㄝㄫ</rt></ruby>: terrain, topography, landform.
 - <ruby>[山岡](../words/山岡.md)<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>: a hill, hillock — an undocumented near-duplicate of [[丘]].
+- <ruby>[山地](../words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>: mountain, mountain area.
+- <ruby>[山岳](../words/山岳.md)<rt>ㄙㄚㄋ·ㄚㄎ</rt></ruby>: a mountain peak.
+- <ruby>[山嶺](../words/山嶺.md)<rt>ㄙㄚㄋㄌㄧㄫ</rt></ruby>: a ridge of hills, mountain range.
+- <ruby>[山脈](../words/山脈.md)<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby>: a mountain range.
+- <ruby>[山崩](../words/山崩.md)<rt>ㄙㄚㄋㄅㄨㄫ</rt></ruby>: a landslide (not snow).
+- <ruby>[岩石](../words/岩石.md)<rt>ㄚㄇㄙㄝㄎ</rt></ruby>: rocks, crags.
+- <ruby>[峨峨](../words/峨峨.md)<rt>ㄚㄚ</rt></ruby>: lofty, towering, rugged.
+- <ruby>[巫山](../words/巫山.md)<rt>ㄇㄨㄙㄚㄋ</rt></ruby>: Wushan, the Wu Mountain.
+- <ruby>[南山](../words/南山.md)<rt>ㄋㄚㄇㄙㄚㄋ</rt></ruby>: South Mountain.
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].
 - <ruby>[陸地](../words/陸地.md)<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby>: land, dry land, landmass — land as opposed to sea, distinct from [[土地]]'s ground/soil sense.

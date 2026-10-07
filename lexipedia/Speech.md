@@ -48,6 +48,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Expressing & Declaring
 
 - <ruby>[発音](../words/発音.md)<rt>ㄈㄚㄊ·ㄨㄇ</rt></ruby>: to pronounce, say — leans toward the pronunciation register.
+- <ruby>[反切](../words/反切.md)<rt>ㄈㄛㄋㄑㄝㄊ</rt></ruby>: fanqie, the traditional spelling of a syllable by two characters.
 - <ruby>[表明](../words/表明.md)<rt>ㄅ⼘ㄨㄇ⼶ㄫ</rt></ruby>: to declare, express.
 - <ruby>[表現](../words/表現.md)<rt>ㄅ⼘ㄨㄏ⼶ㄋ</rt></ruby>: to express. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to express, indicate. See [Existence](../lexipedia/Existence.md) and [Mind](../lexipedia/Mind.md) for their own citations there.
@@ -147,6 +148,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[怒号](../words/怒号.md)<rt>ㄋㄛㄏㄚㄨ</rt></ruby>: to roar, howl in anger. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[呼喚](../words/呼喚.md)<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby>: to shout, cry to — the general verb.
 - <ruby>[叫](../words/叫.md)<rt>ㄍ⼘</rt></ruby>: to shout — an undocumented near-duplicate of [[呼喚]].
+- <ruby>[叫喚](../words/叫喚.md)<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby>: to cry out, call out.
 - <ruby>[喊声](../words/喊声.md)<rt>ㄏㄚㄇㄙㄧㄫ</rt></ruby>: a shout, battle cry, war cry — a specialized military register, more noun than [[呼喚]]'s verb.
 - <ruby>[喝](../words/喝.md)<rt>ㄏㄛㄊ</rt></ruby>: to yell, shout — also a cheer of acclaim (喝彩, "to cheer, applaud").
 - <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle. See [Body](../lexipedia/Body.md) for its own citation there.

@@ -21,12 +21,14 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[危殆](../words/危殆.md)<rt>⼔ㄧㄉㄛㄧ</rt></ruby>: jeopardy, grave peril.
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
 - <ruby>[妨害](../words/妨害.md)<rt>ㄈㄚㄫㄏㄚㄧ</rt></ruby>: to obstruct, hinder, interfere with — the formal and legal word (妨害公務).
+- <ruby>[干渉](../words/干渉.md)<rt>ㄍㄚㄋㄙㄝㄆ</rt></ruby>: to interfere, intervene.
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.
 - <ruby>[失敗](../words/失敗.md)<rt>ㄙㄧㄊㄅㄚㄧ</rt></ruby>: to fail, be defeated.
 - <ruby>[結果](../words/結果.md)<rt>ㄍㄝㄊㄍ⺢</rt></ruby>: a result, fruit.
 - <ruby>[効果](../words/効果.md)<rt>ㄏ⼘ㄨㄍ⺢</rt></ruby>: an effect.
+- <ruby>[効率](../words/効率.md)<rt>ㄏ⼘ㄨㄌㄨㄊ</rt></ruby>: efficiency, productiveness.
 - <ruby>[事故](../words/事故.md)<rt>ㄐㄧㄍㄛ</rt></ruby>: an accident.
 - <ruby>[冒険](../words/冒険.md)<rt>ㄇㄚㄨㄏㄝㄇ</rt></ruby>: adventure, risk.
 - <ruby>[嘗試](../words/嘗試.md)<rt>ㄙ⼘ㄫㄙㄧ</rt></ruby>: to try, attempt.
@@ -39,6 +41,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[令](../words/令.md)<rt>ㄌㄝㄫ</rt></ruby>, <ruby>[致](../words/致.md)<rt>ㄑㄧㄜ</rt></ruby>: to cause.
 - <ruby>[故而](../words/故而.md)<rt>ㄍㄛ·ㄋㄧ</rt></ruby>: therefore, as a result, and so.
+- <ruby>[帰結](../words/帰結.md)<rt>ㄍㄨㄧㄍㄝㄊ</rt></ruby>: to conclude, sum up; a consequence.
 - <ruby>[影響](../words/影響.md)<rt>⼶ㄫㄏ⼘ㄫ</rt></ruby>: to influence, affect, disturb — 影 "shadow" + 響 "echo."
 
 ### Attempting & Trying

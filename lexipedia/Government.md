@@ -144,6 +144,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[統率](../words/統率.md)<rt>ㄊㄛㄫㄙㄨㄊ</rt></ruby>: to command, lead.
 - <ruby>[従](../words/従.md)<rt>ㄐㄛㄫ</rt></ruby>: to obey, observe.
 - <ruby>[服従](../words/服従.md)<rt>ㄅㄨㄎㄐㄛㄫ</rt></ruby>: obedience, submission, to obey.
+- <ruby>[帰順](../words/帰順.md)<rt>ㄍㄨㄧㄙ⼜ㄋ</rt></ruby>: to submit to, surrender to.
 - <ruby>[遵守](../words/遵守.md)<rt>ㄐㄨㄋㄙ⼜</rt></ruby>: to abide by, obey.
 - <ruby>[二心](../words/二心.md)<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby>: duplicity, a divided heart, wavering loyalty — literally "two hearts"; in classical Chinese political thought, one of the gravest character defects a minister could possess, the opposite of 一心 (undivided loyalty).
 - <ruby>[壱](../words/壱.md)<rt>ㄧㄊ</rt></ruby>: single-minded, wholehearted, unified in purpose, loyal (壹心/一心, "of one mind") — the formal, complex-stroke variant of [[一]] used in financial/legal documents, tracked here for this extended loyalty sense rather than the plain numeral.

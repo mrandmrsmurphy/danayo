@@ -16,6 +16,8 @@ _Some of these must be #neologism s because sounds have chanced over time._
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
+- <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
+- <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
 - <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with 奥 rather than the real-world 澳.
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.

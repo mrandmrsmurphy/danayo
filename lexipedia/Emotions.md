@@ -20,6 +20,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[気](../words/気.md)<rt>ㄎㄧㄜ</rt></ruby>: feeling, spirit, energy — the broader bound root behind [[気分]]'s specific "mood" (also 元気, "vigor"; 空気, "air"); distinct from its sibling compound [[気息]]'s own separate "vital-breath" sense, housed on [[Religion]] instead.
 - <ruby>[幸福](../words/幸福.md)<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby>: happy, blessed.
 - <ruby>[悲](../words/悲.md)<rt>ㄅㄧㄜ</rt></ruby>: to be sad.
+- <ruby>[周章](../words/周章.md)<rt>ㄐㄨㄛㄐㄚㄫ</rt></ruby>: troubled, flustered.
 - <ruby>[可憐](../words/可憐.md)<rt>ㄎㄜㄌㄝㄋ</rt></ruby>: pitiful, pitiable.
 - <ruby>[怒](../words/怒.md)<rt>ㄋㄛ</rt></ruby>: angry.
 - <ruby>[恐怖](../words/恐怖.md)<rt>ㄎㄛㄫㄆㄛ</rt></ruby>: fear, dread.
@@ -56,6 +57,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[痛哭](../words/痛哭.md)<rt>ㄊㄛㄫㄎㄛㄎ</rt></ruby>: to wail, cry bitterly, weep aloud.
 - <ruby>[懐愁](../words/懐愁.md)<rt>ㄏ⺢ㄧㄙㄚㄨ</rt></ruby>: wistful longing, nostalgic grief.
 - <ruby>[弔](../words/弔.md)<rt>ㄐㄝㄎ</rt></ruby>, <ruby>[悼](../words/悼.md)<rt>ㄉㄚㄨ</rt></ruby>: to condole, mourn, lament.
+- <ruby>[哀悼](../words/哀悼.md)<rt>ㄚㄧㄉㄚㄨ</rt></ruby>: to offer condolences.
 - <ruby>[唉](../words/唉.md)<rt>ㄚㄧ</rt></ruby>: alas — an archaic interjection of lament.
 - <ruby>[惜](../words/惜.md)<rt>ㄙㄝㄎ</rt></ruby>: to begrudge, rue — regret at losing or parting with something (惜別, "regret at parting").
 
