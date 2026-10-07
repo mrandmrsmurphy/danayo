@@ -132,8 +132,10 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[睾丸](../words/睾丸.md)<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby>, <ruby>[精巣](../words/精巣.md)<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>: testicle.
 - <ruby>[肛門](../words/肛門.md)<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>: anus.
 - <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>: semen.
+- <ruby>[精子](../words/精子.md)<rt>ㄐㄝㄫㄐㄜ</rt></ruby>: sperm.
 - <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>: to ejaculate.
 - <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>: urine.
+- <ruby>[旁胱](../words/旁胱.md)<rt>ㄅㄚㄫㄍ⺢ㄫ</rt></ruby>: the urinary bladder.
 - <ruby>[失禁](../words/失禁.md)<rt>ㄙㄧㄊㄍㄧㄇ</rt></ruby>: incontinence — loss of bladder or bowel control.
 - <ruby>[屎](../words/屎.md)<rt>ㄏㄜ</rt></ruby>: excrement, feces — [[尿]]'s solid counterpart.
 - <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>: diarrhea.

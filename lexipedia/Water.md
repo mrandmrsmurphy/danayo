@@ -54,6 +54,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[大河](../words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby>: a big river — also the Yellow River in older usage.
 - <ruby>[大江](../words/大江.md)<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby>: a big river; the Yangtze.
 - <ruby>[瀑布](../words/瀑布.md)<rt>ㄅㄛㄎㄅㄛ</rt></ruby>: a waterfall, cataract, cascade.
+- <ruby>[暗礁](../words/暗礁.md)<rt>ㄚㄇㄐㄚㄨ</rt></ruby>: a submerged reef; a hidden obstacle.
 - <ruby>[湧](../words/湧.md)<rt>⼄ㄫ</rt></ruby>: to gush, rush up.
 - <ruby>[流水](../words/流水.md)<rt>ㄌ⼜ㄙㄨ</rt></ruby>: flowing water; by extension, the inevitable passage of events (高山流水, "high mountains and flowing water," symbolizing deep mutual understanding between friends).
 - <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
@@ -64,6 +65,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[井戸](../words/井戸.md)<rt>ㄐㄧㄫㄏㄛ</rt></ruby>: a water well — a deliberately "very Japanese" entry (not a real Mandarin/Cantonese compound), most familiar in 井戸端会議, "well-side chat," gossip among neighbors.
 - <ruby>[灌漑](../words/灌漑.md)<rt>ㄍ⺢ㄋㄍㄚㄧ</rt></ruby>: irrigation.
 - <ruby>[溝](../words/溝.md)<rt>ㄍㄛㄨ</rt></ruby>: a ditch, drain — a man-made water channel, distinct from [[井堰]]'s weir and the still-uncoined general "sewer" ([[下水道]], reserved on [[Buildings]]).
+- <ruby>[排水溝](../words/排水溝.md)<rt>ㄆㄚㄧㄙㄨㄍㄛㄨ</rt></ruby>: a gutter, culvert.
 
 ### Tides, Currents & Floods
 

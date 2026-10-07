@@ -38,6 +38,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 
 - <ruby>[午飯](../words/午飯.md)<rt>ㄛㄅㄛㄋ</rt></ruby>, <ruby>[午餐](../words/午餐.md)<rt>ㄛㄑㄚㄋ</rt></ruby>: lunch, noon meal.
 - <ruby>[晩飯](../words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby>, <ruby>[正餐](../words/正餐.md)<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>: dinner, supper, evening meal.
+- <ruby>[晩餐](../words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby>: supper.
 - <ruby>[早飯](../words/早飯.md)<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby>: breakfast (Mandarin, Cantonese, Korean); in Japanese, a fast eater.
 - <ruby>[宴会](../words/宴会.md)<rt>ㄝㄋㄏ⼔</rt></ruby>: a banquet, feast.
 - <ruby>[包子](../words/包子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>, <ruby>[饅頭](../words/饅頭.md)<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby>: a steamed bun.

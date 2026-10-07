@@ -70,6 +70,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
 - <ruby>[天鵝](../words/天鵝.md)<rt>ㄊㄝㄋ·ㄚ</rt></ruby>: a swan; Cygnus.
 - <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby>: a bat.
+- <ruby>[旅鼠](../words/旅鼠.md)<rt>ㄌ⼄ㄙ⼄</rt></ruby>: a lemming.
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
 - <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [[堅魚]].
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
@@ -122,6 +123,8 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[陸亀](../words/陸亀.md)<rt>ㄌㄨㄎㄍㄨㄛ</rt></ruby>: a tortoise, land turtle.
 - <ruby>[安康魚](../words/安康魚.md)<rt>ㄚㄋㄎㄚㄫ⼄</rt></ruby>: an anglerfish.
 - <ruby>[捕鯨](../words/捕鯨.md)<rt>ㄅㄛㄍ⼶ㄫ</rt></ruby>: whaling.
+- <ruby>[鯨魚](../words/鯨魚.md)<rt>ㄍ⼶ㄫ⼄</rt></ruby>: a whale.
+- <ruby>[曼魚](../words/曼魚.md)<rt>ㄇㄚㄋ·⼄</rt></ruby>: an eel.
 - <ruby>[珊瑚](../words/珊瑚.md)<rt>ㄙㄚㄋㄏㄛㄨ</rt></ruby>: coral — a semantic doublet, both halves bound.
 - <ruby>[青蛙](../words/青蛙.md)<rt>ㄑㄝㄫ⺢</rt></ruby>: frog — literally "green frog," the stand-in compound that legitimizes the bound character 蛙.
 - <ruby>[魶](../words/魶.md)<rt>ㄋㄨㄆ</rt></ruby>: a giant salamander.

@@ -92,6 +92,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 ### Smell
 
 - <ruby>[臭](../words/臭.md)<rt>ㄑㄨ</rt></ruby>: to stink.
+- <ruby>[芳香](../words/芳香.md)<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby>: fragrant, aromatic, perfumed.
 - <ruby>[芬芳](../words/芬芳.md)<rt>ㄈㄨㄋㄈㄚㄫ</rt></ruby>: fragrant, sweet-smelling — a pleasant scent, perfumed or flowery (the fragrance of flowers, and by extension of virtue or writing); the pleasant counterpart to [[臭]] (to stink).
 - <ruby>[気息](../words/気息.md)<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby>: smell — a weak, tertiary sense of this word, whose primary meaning is "breath."
 

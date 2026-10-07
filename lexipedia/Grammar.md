@@ -18,6 +18,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ### Comparatives
 - more <ruby>[更](../words/更.md)<rt>ㄍㄚㄫ</rt></ruby>
 - more and more : <ruby>[愈愈](../words/愈愈.md)<rt>⼜ㄇ·⼜ㄇ</rt></ruby>
+- less, fewer : <ruby>[更少](../words/更少.md)<rt>ㄍㄚㄫㄙㄛㄨ</rt></ruby>
 - most <ruby>[最](../words/最.md)<rt>ㄐ⼔</rt></ruby>
 - than, compared to : <ruby>[比](../words/比.md)<rt>ㄅㄧㄜ</rt></ruby>
 - least, less: not yet coined — Dan'a'yo has no dedicated "less/least" pole distinct from negating 更/最.
@@ -44,6 +45,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 
 ### Deictics
 - that <ruby>[其](../words/其.md)<rt>ㄍㄜ</rt></ruby>
+- demonstrative (the general term for 此/其/彼) : <ruby>[指示詞](../words/指示詞.md)<rt>ㄐㄧㄜㄍㄝㄙㄚ</rt></ruby>
 - this <ruby>[此](../words/此.md)<rt>ㄑㄜ</rt></ruby>
 - that, yonder (the distal member completing the 此/其/彼 three-way system: this/middle/far) <ruby>[彼](../words/彼.md)<rt>ㄅㄜ</rt></ruby> — see the Correlative Pronoun System below for its full paradigm.
 - there <ruby>[其処](../words/其処.md)<rt>ㄍㄜㄑㄛ</rt></ruby>

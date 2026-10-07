@@ -98,8 +98,12 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[文献](../words/文献.md)<rt>ㄇㄨㄋㄏㄝㄋ</rt></ruby>: literature (scholarly/historical documents, references). See Semantic Range Notes.
 - <ruby>[文芸](../words/文芸.md)<rt>ㄇㄨㄋ·ㄝ</rt></ruby>: literature and art, art and culture.
 - <ruby>[記録](../words/記録.md)<rt>ㄍㄧㄌㄛㄎ</rt></ruby>: to write; record, note, document.
+- <ruby>[日記](../words/日記.md)<rt>ㄋㄧㄊㄍㄧ</rt></ruby>: a diary, journal, annal.
+- <ruby>[書籍](../words/書籍.md)<rt>ㄙ⼄ㄐㄝㄎ</rt></ruby>: books, a register, a list.
 - <ruby>[出版](../words/出版.md)<rt>ㄑㄨㄊㄆㄚㄋ</rt></ruby>: to publish, put out (出版社, "publishing house"; 出版物, "a publication").
 - <ruby>[刊行](../words/刊行.md)<rt>ㄎㄚㄋㄏㄚㄫ</rt></ruby>: to publish (a book or periodical).
+- <ruby>[日刊](../words/日刊.md)<rt>ㄋㄧㄊㄎㄚㄋ</rt></ruby>: a daily publication, daily periodical.
+- <ruby>[月刊](../words/月刊.md)<rt>⼔ㄊㄎㄚㄋ</rt></ruby>: a monthly periodical.
 - <ruby>[小冊子](../words/小冊子.md)<rt>ㄙㄛㄑㄚㄎㄐㄜ</rt></ruby>: a booklet.
 - <ruby>[序文](../words/序文.md)<rt>ㄙ⼄·ㄇㄨㄋ</rt></ruby>: a preface.
 - <ruby>[初版](../words/初版.md)<rt>ㄑㄛ·ㄆㄚㄋ</rt></ruby>: a first edition.
@@ -190,6 +194,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
 - <ruby>[古琴](../words/古琴.md)<rt>ㄍㄛㄍㄨㄇ</rt></ruby>: the guqin, a seven-string zither.
 - <ruby>[鐘](../words/鐘.md)<rt>ㄐㄛㄫ</rt></ruby>: a bell.
+- <ruby>[方響](../words/方響.md)<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby>: a fangxiang, hokyo — a metallophone.
 - <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
 - <ruby>[古箏](../words/古箏.md)<rt>ㄍㄛㄐㄝㄫ</rt></ruby>: the guzheng, the long multi-stringed plucked Chinese zither — the "old 箏", ancestor of a family of East Asian zithers; the stand-in for the bound character 箏, distinct from the [[琴]] and [[瑟]] above.
 - <ruby>[提琴](../words/提琴.md)<rt>ㄙㄝㄍㄨㄇ</rt></ruby>: the violin family, bowed string instruments — a "held-up" stringed instrument played at the body or shoulder (小提琴 violin, 大提琴 cello); distinct from the table-laid zither [[琴]] (the guqin), whose name it shares in 琴.

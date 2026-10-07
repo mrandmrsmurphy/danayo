@@ -29,6 +29,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[善](../words/善.md)<rt>ㄙ⼶ㄋ</rt></ruby>: good — the moral-goodness register, distinct from plain [[好]].
 - <ruby>[善人](../words/善人.md)<rt>ㄙ⼶ㄋㄋㄧㄋ</rt></ruby>: a well-doer, one who does good.
 - <ruby>[善意](../words/善意.md)<rt>ㄙ⼶ㄋ·ㄜ</rt></ruby>: good intentions.
+- <ruby>[最善](../words/最善.md)<rt>ㄐ⼔ㄙ⼶ㄋ</rt></ruby>: the best.
 - <ruby>[至善](../words/至善.md)<rt>ㄐㄧㄜㄙ⼶ㄋ</rt></ruby>: the highest good, summum bonum — from the Great Learning (大學).
 - <ruby>[佳](../words/佳.md)<rt>ㄍ⼘ㄧ</rt></ruby>: good — a literary/formal register.
 - <ruby>[公明](../words/公明.md)<rt>ㄍㄛㄫㄇ⼶ㄫ</rt></ruby>: just and open — 公 "public" + 明 "clear."

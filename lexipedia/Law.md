@@ -75,6 +75,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 - <ruby>[処分](../words/処分.md)<rt>ㄑㄛㄅㄨㄋ</rt></ruby>: to punish, discipline (also <ruby>[懲罰](../words/懲罰.md)<rt>ㄑㄧㄫㄅㄝㄊ</rt></ruby>, an independently attested synonym).
 - <ruby>[刑罰](../words/刑罰.md)<rt>ㄏㄝㄫㄅㄝㄊ</rt></ruby>: a penalty, legal punishment.
+- <ruby>[断頭台](../words/断頭台.md)<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby>: a guillotine.
 - <ruby>[罰金](../words/罰金.md)<rt>ㄅㄝㄊㄍㄧㄇ</rt></ruby>: a fine, monetary penalty.
 - <ruby>[誅殺](../words/誅殺.md)<rt>ㄐㄨㄙㄚㄊ</rt></ruby>: to execute.
 - <ruby>[極刑](../words/極刑.md)<rt>ㄍㄧㄎㄏㄝㄫ</rt></ruby>: capital punishment.

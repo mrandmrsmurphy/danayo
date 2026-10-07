@@ -168,6 +168,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[化学](../words/化学.md)<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>: chemistry.
 - <ruby>[地理学](../words/地理学.md)<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby>: geography as a field of study.
 - <ruby>[心理学](../words/心理学.md)<rt>ㄙㄧㄇㄌㄧㄏㄚㄎ</rt></ruby>: psychology.
+- <ruby>[政治学](../words/政治学.md)<rt>ㄐㄧㄫㄑㄧㄏㄚㄎ</rt></ruby>: political science.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
 - <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.
@@ -203,6 +204,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[荘子](../words/荘子.md)<rt>ㄐ⺢ㄫㄐㄜ</rt></ruby>: Zhuangzi, the Daoist philosopher and the text attributed to him; also a hamlet — see [[老子]], [[孔子]], [[孟子]] for the other "Master" names.
 - <ruby>[孔子](../words/孔子.md)<rt>ㄎㄛㄫㄐㄜ</rt></ruby>: Confucius, the Master.
 - <ruby>[孟子](../words/孟子.md)<rt>ㄇㄚㄫㄐㄜ</rt></ruby>: Mencius.
+- <ruby>[曽子](../words/曽子.md)<rt>ㄐㄜㄫㄐㄜ</rt></ruby>: Zengzi, disciple of Confucius.
 - <ruby>[士](../words/士.md)<rt>ㄙㄚㄧ</rt></ruby>: scholar (see Semantic Range Notes for its "warrior" cousin sense, kept out of this domain).
 - <ruby>[博士](../words/博士.md)<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby>: doctor (PhD).
 - <ruby>[天才](../words/天才.md)<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby>: talented, genius, gifted.

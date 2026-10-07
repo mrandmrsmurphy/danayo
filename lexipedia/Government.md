@@ -16,7 +16,10 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 
 - <ruby>[政治](../words/政治.md)<rt>ㄐㄧㄫㄑㄧ</rt></ruby>: politics.
 - <ruby>[政党](../words/政党.md)<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby>: a political party.
+- <ruby>[投票率](../words/投票率.md)<rt>ㄉㄛㄨㄆ⼘ㄨㄌㄨㄊ</rt></ruby>: voter turnout.
 - <ruby>[方針](../words/方針.md)<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby>: a policy, principle.
+- <ruby>[暴政](../words/暴政.md)<rt>ㄅㄛㄎㄐㄧㄫ</rt></ruby>: tyranny, despotism.
+- <ruby>[暴虐](../words/暴虐.md)<rt>ㄅㄛㄎ·⼘ㄎ</rt></ruby>: tyrannical.
 - <ruby>[体制](../words/体制.md)<rt>ㄊㄝㄧㄐㄝㄧ</rt></ruby>: a system, regime, governing structure.
 - <ruby>[王](../words/王.md)<rt>⺢ㄫ</rt></ruby>: king.
 - <ruby>[国王](../words/国王.md)<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby>: a king, sovereign, monarch.
@@ -92,6 +95,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[提督](../words/提督.md)<rt>ㄙㄝㄉㄛㄎ</rt></ruby>: an admiral — the senior naval commander who oversees and directs a fleet; a title that entered East Asian navies with their nineteenth-century modernization, beside [[将軍]], the supreme commander.
 - <ruby>[僕射](../words/僕射.md)<rt>ㄅㄛㄎㄙ⼘</rt></ruby>: Vice Director — originally the Qin chief steward over the ruler's household archers, later a powerful office of the Department of State Affairs (尚書左僕射 and 尚書右僕射); 射 takes the exceptional reading yè here, consistently across the sphere.
 - <ruby>[首領](../words/首領.md)<rt>ㄙ⼜ㄌㄧㄫ</rt></ruby>: a supreme leader, chief.
+- <ruby>[首長](../words/首長.md)<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>: a chief, leader, emir.
 - <ruby>[部長](../words/部長.md)<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>: a head, chief, secretary, minister.
 - <ruby>[汚吏](../words/汚吏.md)<rt>ㄛㄌㄧ</rt></ruby>: a corrupt official.
 
@@ -149,6 +153,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[従](../words/従.md)<rt>ㄐㄛㄫ</rt></ruby>: to obey, observe.
 - <ruby>[服従](../words/服従.md)<rt>ㄅㄨㄎㄐㄛㄫ</rt></ruby>: obedience, submission, to obey.
 - <ruby>[帰順](../words/帰順.md)<rt>ㄍㄨㄧㄙ⼜ㄋ</rt></ruby>: to submit to, surrender to.
+- <ruby>[昇叙](../words/昇叙.md)<rt>ㄙㄨㄫㄙ⼄</rt></ruby>: to be promoted, advanced.
 - <ruby>[従属](../words/従属.md)<rt>ㄐㄛㄫㄐㄛㄎ</rt></ruby>: subordination, dependency.
 - <ruby>[遵守](../words/遵守.md)<rt>ㄐㄨㄋㄙ⼜</rt></ruby>: to abide by, obey.
 - <ruby>[二心](../words/二心.md)<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby>: duplicity, a divided heart, wavering loyalty — literally "two hearts"; in classical Chinese political thought, one of the gravest character defects a minister could possess, the opposite of 一心 (undivided loyalty).

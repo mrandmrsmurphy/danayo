@@ -63,6 +63,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, toil.
 - <ruby>[実践](../words/実践.md)<rt>ㄙㄧㄊㄐㄝㄋ</rt></ruby>: to practise, put into practice — 実 "true" + 践 "tread."
 - <ruby>[執行](../words/執行.md)<rt>ㄐㄧㄆㄏㄚㄫ</rt></ruby>: to execute, carry out.
+- <ruby>[施行](../words/施行.md)<rt>ㄙㄝㄏㄚㄫ</rt></ruby>: to execute, carry out.
 - <ruby>[刻苦](../words/刻苦.md)<rt>ㄎㄨㄎㄎㄛ</rt></ruby>: assiduous, working hard through hardship — an austere, self-denying diligence, stricter than plain [[努力]].
 - <ruby>[消耗](../words/消耗.md)<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby>: to consume, deplete, drain (energy, resources, strength).
 - <ruby>[苦役](../words/苦役.md)<rt>ㄎㄛ⼶ㄎ</rt></ruby>: hard labor, forced labor, drudgery — painful compelled toil, as in the penal-servitude sense or a thankless chore.

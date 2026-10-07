@@ -70,8 +70,10 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[怒号](../words/怒号.md)<rt>ㄋㄛㄏㄚㄨ</rt></ruby>: to howl in anger, roar.
 - <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby>: anger.
 - <ruby>[憤怒](../words/憤怒.md)<rt>ㄅㄨㄋㄋㄛ</rt></ruby>: indignant, angry.
+- <ruby>[暴怒](../words/暴怒.md)<rt>ㄅㄛㄎㄋㄛ</rt></ruby>: rage.
 - <ruby>[憤慨](../words/憤慨.md)<rt>ㄅㄨㄋㄎㄚㄧ</rt></ruby>: indignant, resentful, outraged.
 - <ruby>[慷慨](../words/慷慨.md)<rt>ㄎㄚㄫㄎㄚㄧ</rt></ruby>: impassioned, vehement, fervent.
+- <ruby>[昂揚](../words/昂揚.md)<rt>ㄚㄫ⼘ㄫ</rt></ruby>: high-spirited, exalted.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: to anger, enrage.
 - <ruby>[悩](../words/悩.md)<rt>ㄋㄚㄨ</rt></ruby>: angered, mad.
 - <ruby>[煩](../words/煩.md)<rt>ㄈㄛㄇ</rt></ruby>: troublesome, annoying, vexing — a much milder irritation than [[憤怒]]/[[激怒]]'s real anger (煩悩, "vexation, worldly care"; 麻煩, "a bother, a nuisance").

@@ -71,6 +71,8 @@ Existence vocabulary covers the abstract verbs of being, becoming, and ceasing t
 - <ruby>[変化](../words/変化.md)<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby>: to change — the general-purpose word.
 - <ruby>[悪化](../words/悪化.md)<rt>ㄚㄎㄏ⺢</rt></ruby>: to worsen, aggravate, deteriorate.
 - <ruby>[改変](../words/改変.md)<rt>ㄍㄚㄧㄅ⼶ㄋ</rt></ruby>: to alter, change.
+- <ruby>[更新](../words/更新.md)<rt>ㄍㄚㄫㄙㄧㄋ</rt></ruby>: to renew, replace, refresh.
+- <ruby>[更迭](../words/更迭.md)<rt>ㄍㄚㄫㄉㄚㄊ</rt></ruby>: to change, replace, alternate.
 - <ruby>[変動](../words/変動.md)<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby>: to change, fluctuate — implies ongoing or unstable movement, not a single discrete change (also <ruby>[起伏](../words/起伏.md)<rt>ㄎㄧㄅㄨㄎ</rt></ruby>, "to undulate, fluctuate," a near-synonym leaning more figurative — "the ups and downs").
 - <ruby>[転化](../words/転化.md)<rt>ㄐ⼔ㄋㄏ⺢</rt></ruby>: to change, convert — implies turning into something categorically different.
 - <ruby>[変成](../words/変成.md)<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby>: to change into, metamorphosize into.
@@ -194,6 +196,9 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 - <ruby>[事](../words/事.md)<rt>ㄐㄧ</rt></ruby>: a thing, a matter, an action — the bound noun-class root also seen throughout [[Grammar]]'s own correlative-pronoun paradigm (此事, 何事, etc.).
 - <ruby>[事宜](../words/事宜.md)<rt>ㄐㄧ·ㄜㄧ</rt></ruby>: an arrangement, matters to be attended to.
 - <ruby>[様子](../words/様子.md)<rt>⼘ㄫㄐㄜ</rt></ruby>: appearances, manner, the state of things.
+- <ruby>[有机](../words/有机.md)<rt>⼜ㄍㄧㄜ</rt></ruby>: organic.
+- <ruby>[有様](../words/有様.md)<rt>⼜⼘ㄫ</rt></ruby>: calmly, forbearingly (dated).
+- <ruby>[本質](../words/本質.md)<rt>ㄅㄛㄋㄐㄧㄊ</rt></ruby>: essence, intrinsic nature.
 - <ruby>[意義](../words/意義.md)<rt>ㄜㄜㄧ</rt></ruby>: sense, meaning, significance.
 - <ruby>[否定](../words/否定.md)<rt>ㄈㄚㄨㄐㄝㄫ</rt></ruby>: negation, denial — the abstract noun behind Core [[非]]'s copula-negation.
 - <ruby>[彰明](../words/彰明.md)<rt>ㄑㄚㄫㄇ⼶ㄫ</rt></ruby>: clear, manifest, obvious — ties to [[顕現]] above.

@@ -6,10 +6,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 
 ## Counts
 
-- **Unsorted**: 709
-- **Calendar**: 27
-- **Geography**: 40
-- **Life**: 12
+- **Unsorted**: 662
+- **Calendar**: 23
+- **Geography**: 39
+- **Life**: 11
 - **Light**: 0
 - **Locatives**: 3
 - **Measurement**: 1
@@ -19,10 +19,10 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **Physics**: 6
 - **Plants**: 6
 - **Religion**: 7
-- **Sensation**: 4
+- **Sensation**: 3
 - **Reproduction**: 2
 - **Shape**: 2
-- **Sin**: 6
+- **Sin**: 5
 - **Speech**: 8
 - **Substances**: 5
 - **Time**: 4
@@ -32,27 +32,22 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - **War**: 5
 - **Work**: 4
 
-## Unsorted (709)
+## Unsorted (662)
 
 **Rerouted from the Existence bucket, 2026-09-23** — genuine words with no clean fit in Existence itself: mostly words belonging to a not-yet-built domain (Government/History: 国営,国子,貢品; Movement/Physics: 旋転,運動,電気,接近; Mind/Emotions: 恍惚,感恩,関心,心緒; Ethics/virtue: 仁慈,善良,人道,和敬; Speech: 披歴,趣旨,首尾; Knowledge-adjacent near-duplicates already covered elsewhere: 大略,語法,考慮,書籍,査問,標題,種類,等分,自給,抄録), plus several too vague or low-value to force a placement (一端,企劃,倒,儀仗,兼,凶,出演,分泌,憬悟,打算,折線,擬,特点,無義,紋,縄,謀,製品,趣旨,首尾,就,残,略,網語体):
 - [[搭乗]] — boarding, embarkation, board, take a conveyance (Transportation, "board" false positive — moved out of the Government bucket 2026-09-28)
-- [[日刊]] — daily publication, daily periodical (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
-- [[月刊]] — monthly periodical, monthly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
 - [[校区]] — school district (Education, not government — moved out of the Government bucket 2026-09-28)
 - [[自分]] — self-examine, assess oneself (Mind, not government — moved out of the Government bucket 2026-09-28)
 - [[週刊]] — weekly periodical, weekly publication (Speech/Media, "periodical" false positive — moved out of the Government bucket 2026-09-28)
 - [[狂風]] — gale, violent wind, tempest (weather, not fighting — moved out of the Conflict bucket 2026-09-28)
 - [[養生]] — care for, protect (a TCM/health-preservation concept, not defense — moved out of the Conflict bucket 2026-09-28)
-- [[昂揚]] — high-spirited, exalted (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
 - [[極右]] — far-right (Government/politics — moved out of the Dimensions bucket 2026-09-28)
 - [[極左]] — far-left (Government/politics — moved out of the Dimensions bucket 2026-09-28)
 - [[榴弾]] — high explosives (War/Conflict, "high" substring match — moved out of the Dimensions bucket 2026-09-28)
 - [[無然]] — disappointed, in low spirits (Emotions, not a physical dimension — moved out of the Dimensions bucket 2026-09-28)
 - [[趨]] — take many small steps towards (Movement, not a dimension — moved out of the Dimensions bucket 2026-09-28)
-- [[更少]] — less, fewer (a Dimensions-domain quantity word, not a direction — moved out of the Directions bucket 2026-09-28)
 - [[羅馬字]] — latin letters, roman alphabet, romanization (Grammar/language, matched on "Latin" in this domain's own descriptive note — moved out of the Directions bucket 2026-09-28)
 - [[羅馬語]] — latin (Grammar/language, same false match as 羅馬字 — moved out of the Directions bucket 2026-09-28)
-- [[朝鮮]] — north korea, choseon (Geography, a country name — moved out of the Directions bucket 2026-09-28)
 - [[韓国]] — korea, south korea (Geography, a country name — moved out of the Directions bucket 2026-09-28)
 - [[桌球]] — table tennis, ping pong (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
 - [[網球]] — tennis, tennis ball, net ball (Society/Games & Recreation — moved out of the Efforts bucket 2026-09-28)
@@ -73,8 +68,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[八角]] — octagon, star anise (illicium verum)
 - [[或者]] — some people
 - [[星条旗]] — stars and stripes
-- [[星洲]] — star islet, a literary sobriquet for singapore
-- [[本校]] — head school, our school, this school
 - [[榜文]] — official proclamation, posted notice
 - [[漢江]] — han river
 - [[無定河]] — wuding river
@@ -122,41 +115,14 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[川口]] — kawaguchi
 - [[川埼]] — kawasaki
 - [[徽章]] — badge, insignia, emblem
-- [[投票率]] — voter turnout, voting rate
-- [[指示詞]] — demonstrative
-- [[排水溝]] — gutter, culvert
 - [[放物線]] — parabola
 - [[文学者]] — literati
 - [[斬豪]] — trench, entrenchment
-- [[断頭台]] — guillotine
 - [[新嘉浦]] — singapore
-- [[方響]] — fangxiang, hokyo, metallophone
-- [[旁胱]] — urinary bladder
-- [[旅鼠]] — lemming
-- [[旗艦]] — flagship
-- [[日出]] — sunrise
-- [[日本]] — japan
 - [[日耳曼]] — germanic
-- [[日記]] — diary, journal, annal
-- [[昇級]] — sheng ji
 - [[昴宿星団]] — pleiades
-- [[昼間]] — daytime
-- [[晩餐]] — supper
-- [[暗暗]] — secretly, inwardly
-- [[暴怒]] — rage
-- [[暴政]] — tyranny, despotism
-- [[暴虐]] — tyrannical
-- [[曲折]] — winding, tortuous
-- [[更新]] — renew, replace, refresh
-- [[曼魚]] — eel
-- [[曽子]] — zengzi
-- [[最善]] — best
-- [[最大]] — maximum, greatest, largest
-- [[月虹]] — moonbow
 - [[服務員]] — server, waiter
-- [[末梢]] — tiptop, periphery, trivia
 - [[本塁打]] — homerun
-- [[朴木]] — hackberry
 - [[杜選]] — careless, sloppy, unsubstantiated
 - [[杪小]] — treetop, extremity
 - [[東京]] — tokyo
@@ -326,7 +292,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[等待]] — wait for, await
 - [[節減]] — economize, economy
 - [[籠球]] — basketball
-- [[精子]] — sperm
 - [[精鋭]] — elite, chosen, picked
 - [[糟糠]] — dregs and husks
 - [[糧]] — provisions
@@ -535,7 +500,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[雪魚]] — whiting, cod
 - [[電子版]] — electronic version
 - [[電車]] — trolley, tram
-- [[震動]] — vibrate, shake
 - [[震怒]] — furious
 - [[霊芝]] — lingzhi, ganoderma lucidum
 - [[霧虹]] — fogbow
@@ -574,7 +538,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[魚雷]] — torpedo
 - [[鮫魚]] — shark
 - [[鯖魚]] — mackerel
-- [[鯨魚]] — whale
 - [[鰌魚]] — loach, weatherfish
 - [[鰐梨]] — avocado
 - [[鰐魚]] — crocodilian
@@ -605,25 +568,16 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[龍眼]] — longan
 - [[龍蝦]] — lobster
 - [[𧦅歌]] — eulogize, extol
-- [[有様]] — forebearingly, calmly (dated)
 - [[白頭翁]] — white-haired old man, grey starling, root of pulsatilla cernua
 - [[鬼婆]] — hag, nasty old woman (especially white)
 - [[他郷]] — foreign land
 - [[大概]] — for the most part, generally, approximately, probably
 - [[字南]] — chu nom, vietnamese written in chinese characters
 - [[掏模]] — pickpocket, reach in and take
-- [[政治学]] — political science
-- [[施行]] — execute, carry out
-- [[既以]] — already, too late
 - [[日本語]] — japanese language
-- [[昇叙]] — be promoted, advanced
-- [[明様]] — brightly, in a bright way
 - [[普通話]] — mandarin
-- [[暗礁]] — submerged reef, hidden obstacle
 - [[書道]] — japanese calligraphy, the way of writing
 - [[最高点]] — highest point, peak
-- [[有机]] — organic
-- [[本質]] — essence, nature (intrinsic quality)
 - [[東部]] — east, eastern part
 - [[林雨]] — big rain
 - [[柿木]] — japanese persimmon
@@ -716,7 +670,6 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[開拓]] — open up, expand
 - [[関数]] — function
 - [[闖入]] — break into, intrude, barge in
-- [[防火]] — fire prevention, fireproofing
 - [[阿鼻]] — avīci, lowest hell
 - [[院落]] — courtyard, compound
 - [[除外]] — exclude
@@ -748,12 +701,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[柵]] — fence
 - [[校舎]] — school building, school house
 
-## Calendar (27)
+## Calendar (23)
 - [[当時]] — then, that other time
-- [[昔日]] — long ago, golden days
-- [[星霜]] — time and years
-- [[春秋]] — spring and autumn
-- [[更迭]] — change, replace, alternate
 - [[東端]] — eastern tip, eastern end
 - [[松竹梅]] — three friends of winter
 - [[桃子]] — peach
@@ -777,13 +726,12 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[麟経]] — the spring and autumn annals (alternative name)
 - [[黄檗]] — amur cork tree
 
-## Geography (40)
+## Geography (39)
 - [[緯線]] — line of latitude (rerouted from the Existence bucket)
 - [[地境]] — border, territorial boundary
 - [[愛媛]] — ehime, ehime prefecture
 - [[担任]] — to assume a post, to take charge
 - [[斜坂]] — slope, incline
-- [[旦夕]] — sooner or later
 - [[旧金山]] — san francisco, old gold mine
 - [[東亜]] — east asia
 - [[柄国]] — rule (literary)
@@ -819,14 +767,13 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[香芝]] — kashiba (city in nara prefecture, japan)
 - [[黄海]] — yellow sea
 
-## Life (12)
+## Life (11)
 
 - [[出生率]] — birth rate, natality (rerouted from the Existence bucket)
 - [[死亡率]] — mortality rate, death rate (rerouted from the Existence bucket)
 - [[死亡人数]] — death toll (rerouted from the Existence bucket)
 - [[生育]] — give birth to (rerouted from the Existence bucket)
 - [[生死]] — life and death (rerouted from the Existence bucket)
-- [[昇天]] — die
 - [[滋生]] — grow, multiply, thrive
 - [[繁殖]] — breed, reproduce
 - [[誕生]] — be born
@@ -892,9 +839,8 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[老師]] — sage, elder monk
 - [[釈珈文尼]] — śākyamuni, gautama buddha
 
-## Sensation (4)
+## Sensation (3)
 - [[檀香]] — sandalwood, aromatic heartwood
-- [[芳香]] — fragrant, aromatic, perfumed
 - [[薫]] — fragrant, incense
 - [[麻痺]] — numb, paralyzed, paralysis
 
@@ -907,14 +853,13 @@ Triage dump, not a curated classification — words sorted roughly against the ~
 - [[球体]] — sphere
 - [[鋒芒]] — sharp edge, cutting point, keen edge
 
-## Sin (6)
+## Sin (5)
 
 - [[美徳]] — virtue
 - [[邪心]] — wicked heart, evil intent, selfish motive
 - [[誠実]] — sincere, honest, faithful
 - [[誠心]] — sincere, devout
 - [[厳然]] — solemn, dignified
-- [[明徳]] — bright virtue, show virtue
 
 ## Speech (8)
 - [[網語]] — online speak

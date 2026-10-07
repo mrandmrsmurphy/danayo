@@ -15,6 +15,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[光](../words/光.md)<rt>ㄎ⺢ㄫ</rt></ruby>: light.
+- <ruby>[明様](../words/明様.md)<rt>ㄇ⼶ㄫ⼘ㄫ</rt></ruby>: brightly, in a bright way.
 - <ruby>[晒](../words/晒.md)<rt>ㄙ⼘ㄧ</rt></ruby>: to expose, dry in the sun, bleach.
 - <ruby>[圓光](../words/圓光.md)<rt>⼔ㄋㄎ⺢ㄫ</rt></ruby>: a halo, nimbus, aureole.
 - <ruby>[暗](../words/暗.md)<rt>ㄚㄇ</rt></ruby>: dark.
@@ -46,6 +47,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 
 - <ruby>[暗黒](../words/暗黒.md)<rt>ㄚㄇㄏㄨㄎ</rt></ruby>: dark, pitch black.
 - <ruby>[暗中](../words/暗中.md)<rt>ㄚㄇㄐㄨㄫ</rt></ruby>: in the dark, covertly — takes 於 for a full locative phrase (於暗中).
+- <ruby>[暗暗](../words/暗暗.md)<rt>ㄚㄇ·ㄚㄇ</rt></ruby>: secretly, inwardly.
 - <ruby>[黒暗](../words/黒暗.md)<rt>ㄏㄨㄎ·ㄚㄇ</rt></ruby>: pure blackness, darkness — the noun-like state of darkness, carrying cosmological and moral weight (see Semantic Range Notes).
 
 ### Fire & Combustion

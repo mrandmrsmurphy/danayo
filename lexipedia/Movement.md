@@ -235,6 +235,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[滾](../words/滾.md)<rt>ㄍ⺢ㄋ</rt></ruby>: to boil, roll — a rolling boil or churn, distinct from [[巻]]'s rolling-up.
 - <ruby>[振動](../words/振動.md)<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby>: to shake, vibrate.
 - <ruby>[振幅](../words/振幅.md)<rt>ㄐㄧㄋㄈㄨㄎ</rt></ruby>: amplitude.
+- <ruby>[震動](../words/震動.md)<rt>ㄐㄧㄋㄉㄛㄫ</rt></ruby>: to vibrate, shake.
 - <ruby>[振](../words/振.md)<rt>ㄐㄧㄋ</rt></ruby>: to shake, excite, rouse — see [[Emotions]] for its own citation there; figurative "shaking" (rousing someone), distinct from [[振動]]'s physical vibration.
 - <ruby>[揺](../words/揺.md)<rt>⼄ㄨ</rt></ruby>: to swing, shake, rock.
 - <ruby>[慄](../words/慄.md)<rt>ㄌㄧㄊ</rt></ruby>: to tremble, shudder, shiver.

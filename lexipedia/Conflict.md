@@ -165,6 +165,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[防守](../words/防守.md)<rt>ㄅㄚㄫㄙ⼜</rt></ruby>: to defend, guard.
 - <ruby>[防御](../words/防御.md)<rt>ㄅㄚㄫ⼄</rt></ruby>: to defend, protect, cover.
 - <ruby>[国防](../words/国防.md)<rt>ㄍㄛㄎㄅㄚㄫ</rt></ruby>: national defense.
+- <ruby>[防火](../words/防火.md)<rt>ㄅㄚㄫㄏ⺢</rt></ruby>: fire prevention, fireproofing.
 - <ruby>[壁塁](../words/壁塁.md)<rt>ㄅㄝㄎㄌㄨㄧ</rt></ruby>: a rampart, fortification wall.
 - <ruby>[防護](../words/防護.md)<rt>ㄅㄚㄫㄏㄛ</rt></ruby>: to guard against, prevent.
 - <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: coastal defense — the specifically maritime register, historically the Ming/Qing defense against wokou pirates and Western navies.

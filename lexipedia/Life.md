@@ -18,6 +18,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[出生](../words/出生.md)<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby>: to be born.
 - <ruby>[死亡](../words/死亡.md)<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby>: to die, death — one word covers both the verb and the noun; see Semantic Range Notes.
 - <ruby>[夭折](../words/夭折.md)<rt>⼄ㄨㄐㄝㄊ</rt></ruby>: to die young, come to a premature end.
+- <ruby>[昇天](../words/昇天.md)<rt>ㄙㄨㄫㄊㄝㄋ</rt></ruby>: to die ("ascend to heaven").
 - <ruby>[死体](../words/死体.md)<rt>ㄙㄧㄜㄊㄝㄧ</rt></ruby>: a corpse, dead body.
 - <ruby>[故人](../words/故人.md)<rt>ㄍㄛ·ㄋㄧㄋ</rt></ruby>: the deceased; an old friend.
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to grow, cultivate.

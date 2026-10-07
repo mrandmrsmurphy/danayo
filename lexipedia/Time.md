@@ -22,8 +22,11 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[最近](../words/最近.md)<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby>: lately, recently.
 - <ruby>[現用](../words/現用.md)<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby>: currently in use, active — what is in use at present as against what is retired or obsolete (現用字庫 "the active inventory").
 - <ruby>[過去](../words/過去.md)<rt>ㄍ⺢·ㄎ⼄</rt></ruby>: the past.
+- <ruby>[昔日](../words/昔日.md)<rt>ㄙㄝㄎㄋㄧㄊ</rt></ruby>: long ago, the golden days.
+- <ruby>[星霜](../words/星霜.md)<rt>ㄙㄝㄫㄙ⺢ㄫ</rt></ruby>: time and years.
 - <ruby>[去年](../words/去年.md)<rt>ㄎ⼄·ㄋㄝㄋ</rt></ruby>: last year.
 - <ruby>[将来](../words/将来.md)<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby>: the future.
+- <ruby>[旦夕](../words/旦夕.md)<rt>ㄉㄚㄋㄙㄝㄎ</rt></ruby>: sooner or later.
 - <ruby>[旧](../words/旧.md)<rt>ㄍ⼜ㄛ</rt></ruby>: old.
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh. See [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[早](../words/早.md)<rt>ㄐㄚㄨ</rt></ruby>: early.
@@ -54,6 +57,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[予様](../words/予様.md)<rt>⼄·⼘ㄫ</rt></ruby>: beforehand, in advance — [[後]]'s temporal counterpart; a Dan'a'yo-internal coinage, since each daughter language reaches for its own real native/Sino word rather than a shared calque of these two characters.
 - <ruby>[然後](../words/然後.md)<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>: then, after, afterwards — the dominant sense is "then"; also usable for "after."
 - <ruby>[既往](../words/既往.md)<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby>: the past — a more literary/classical register than [[過去]].
+- <ruby>[既以](../words/既以.md)<rt>ㄍㄧㄜ·ㄧ</rt></ruby>: already; too late.
 - <ruby>[最後](../words/最後.md)<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby>: final, last.
 - <ruby>[最初](../words/最初.md)<rt>ㄐ⼔ㄑㄛ</rt></ruby>: first, initial.
 - <ruby>[畢竟](../words/畢竟.md)<rt>ㄆㄧㄊㄍ⼶ㄫ</rt></ruby>: after all, in the end — when everything has been considered or has run its course; a conclusion-marking adverb for the final outcome or the underlying fact, rather than [[最後]]'s "final, last" in a sequence.
@@ -145,9 +149,11 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 - <ruby>[午後](../words/午後.md)<rt>ㄛㄏㄨㄛ</rt></ruby>: afternoon.
 - <ruby>[午前](../words/午前.md)<rt>ㄛㄐㄝㄋ</rt></ruby>: a.m., the forenoon.
 - <ruby>[朝](../words/朝.md)<rt>ㄐㄚㄨ</rt></ruby>: morning.
+- <ruby>[日出](../words/日出.md)<rt>ㄋㄧㄊㄑㄨㄊ</rt></ruby>: sunrise.
 - <ruby>[黎明](../words/黎明.md)<rt>ㄌㄝㄧㄇ⼶ㄫ</rt></ruby>: dawn.
 - <ruby>[晩](../words/晩.md)<rt>ㄇㄛㄋ</rt></ruby>: evening.
 - <ruby>[夜](../words/夜.md)<rt>⼘</rt></ruby>: night — the bare word (昼夜, "day and night").
+- <ruby>[昼間](../words/昼間.md)<rt>ㄐㄨㄛㄍㄚㄋ</rt></ruby>: daytime.
 - <ruby>[昼夜](../words/昼夜.md)<rt>ㄐㄨㄛ⼘</rt></ruby>: day and night, around the clock — a 24-hour span, used of continuous activity without stop; attested in Mandarin, Cantonese, Japanese and Korean.
 - <ruby>[夜半](../words/夜半.md)<rt>⼘ㄅㄚㄋ</rt></ruby>: midnight — the midpoint of the night (楓橋夜泊).
 - <ruby>[今夜](../words/今夜.md)<rt>ㄍㄧㄇ·⼘</rt></ruby>: tonight.

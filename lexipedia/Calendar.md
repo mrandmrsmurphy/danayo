@@ -159,6 +159,8 @@ Several months carry more than one attested poetic name; these aren't errors to 
 - <ruby>[夏](../words/夏.md)<rt>ㄏ⼘</rt></ruby> --> <ruby>[夏至](../words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby> — summer solstice
 - <ruby>[冬](../words/冬.md)<rt>ㄊㄛㄫ</rt></ruby> --> <ruby>[冬至](../words/冬至.md)<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> — winter solstice
 
+Spring as a season: <ruby>[春季](../words/春季.md)<rt>ㄑㄨㄋㄍㄨㄧ</rt></ruby>. A year, literally "spring and autumn": <ruby>[春秋](../words/春秋.md)<rt>ㄑㄨㄋㄑㄨㄛ</rt></ruby>.
+
 - <ruby>[時節](../words/時節.md)<rt>ㄙㄧㄐㄝㄊ</rt></ruby> — seasons, the seasons of the year
 - <ruby>[時候](../words/時候.md)<rt>ㄙㄧㄏㄛㄨ</rt></ruby> — time, moment, season/time-of-year (register varies: 什么时候 "when," 有时候 "sometimes" in Mandarin/Cantonese; 時候の挨拶 "seasonal greetings" in formal Japanese)
 

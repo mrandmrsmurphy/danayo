@@ -50,6 +50,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[曲線](../words/曲線.md)<rt>ㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: a curve — a non-straight line, as against the straight [[直線]].
 - <ruby>[弧線](../words/弧線.md)<rt>ㄏㄛㄙ⼶ㄋ</rt></ruby>: an arc.
 - <ruby>[弯曲](../words/弯曲.md)<rt>⺢ㄇㄎ⼄ㄎ</rt></ruby>: curved, bent.
+- <ruby>[曲折](../words/曲折.md)<rt>ㄎ⼄ㄎㄐㄝㄊ</rt></ruby>: winding, tortuous.
 - <ruby>[双曲線](../words/双曲線.md)<rt>ㄙ⺢ㄫㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: a hyperbola.
 - <ruby>[折線](../words/折線.md)<rt>ㄐㄝㄊㄙ⼶ㄋ</rt></ruby>: a broken line, polyline — a connected series of straight segments joined at angles; the third of the line types with [[直線]] (straight) and [[曲線]] (curved), the form of a line chart's graph.
 
@@ -139,6 +140,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[表面](../words/表面.md)<rt>ㄅ⼘ㄨㄇ⼶ㄋ</rt></ruby>: a surface — the everyday, general word.
 - <ruby>[上面](../words/上面.md)<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby>: a surface — a more formal/technical register than [[表面]], specifically "the upper surface."
 - <ruby>[末端](../words/末端.md)<rt>ㄇㄚㄊㄉ⺢ㄋ</rt></ruby>: a tip, end.
+- <ruby>[末梢](../words/末梢.md)<rt>ㄇㄚㄊㄙ⼘ㄨ</rt></ruby>: the tip, periphery; trivia.
 - <ruby>[一端](../words/一端.md)<rt>ㄧㄊㄉ⺢ㄋ</rt></ruby>: one end, one side — extends idiomatically to "one aspect [of a larger issue]," unlike [[末端]]'s purely physical tip.
 - <ruby>[缺点](../words/缺点.md)<rt>ㄎ⼔ㄊㄉㄝㄇ</rt></ruby>: a flaw.
 - <ruby>[皺紋](../words/皺紋.md)<rt>ㄐㄨ·ㄇㄨㄋ</rt></ruby>: wrinkles.
