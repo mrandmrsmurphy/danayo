@@ -93,6 +93,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[違法](../words/違法.md)<rt>ㄨㄧㄈㄚㄆ</rt></ruby>: illegal.
 - <ruby>[制約](../words/制約.md)<rt>ㄐㄝㄧ⼘ㄎ</rt></ruby> / <ruby>[制限](../words/制限.md)<rt>ㄐㄝㄧㄏㄚㄋ</rt></ruby> / <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: restriction, constraint, limit — a near-synonym cluster alongside [[規定]] above.
 - <ruby>[不許](../words/不許.md)<rt>ㄅㄛㄊㄏ⼄</rt></ruby> / <ruby>[禁断](../words/禁断.md)<rt>ㄍㄧㄇㄉ⺢ㄋ</rt></ruby>: to forbid; absolutely forbidden, prohibition.
+- <ruby>[権利](../words/権利.md)<rt>ㄍ⼔ㄋㄌㄧㄜ</rt></ruby>: a right, an entitlement recognized by law — the counterpart of an obligation. It is also listed on [Directions](../lexipedia/Directions.md) as the Rosenfelder "right" entry, but its own sense is the legal one.
 - <ruby>[禁令](../words/禁令.md)<rt>ㄍㄧㄇㄌㄝㄫ</rt></ruby>: a prohibition order, ban, edict.
 - <ruby>[禁書](../words/禁書.md)<rt>ㄍㄧㄇㄙ⼄</rt></ruby>: a banned book, proscribed text.
 - <ruby>[不当](../words/不当.md)<rt>ㄅㄛㄊㄉㄚㄫ</rt></ruby>: unjust, unfair — the negative counterpart of [[公平]]/[[正義]] above.

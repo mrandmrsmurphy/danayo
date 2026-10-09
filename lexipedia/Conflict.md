@@ -197,6 +197,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 
 - <ruby>[偵](../words/偵.md)<rt>ㄊㄧㄫ</rt></ruby>: to spy.
 - <ruby>[窺](../words/窺.md)<rt>ㄎㄨㄧ</rt></ruby>: to spy on.
+- <ruby>[間諜](../words/間諜.md)<rt>ㄍㄚㄋㄉㄝㄆ</rt></ruby>: a spy, secret agent — the person who does the spying, beside [[偵]] and [[窺]], which are the act.
 
 ### Military Rank & Symbols
 

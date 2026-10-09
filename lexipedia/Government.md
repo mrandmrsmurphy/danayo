@@ -30,6 +30,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[許](../words/許.md)<rt>ㄏ⼄</rt></ruby>: to permit, allow.
 - <ruby>[禁止](../words/禁止.md)<rt>ㄍㄧㄇㄐㄧ</rt></ruby>: to forbid, prohibit.
 - <ruby>[税金](../words/税金.md)<rt>ㄙㄝㄍㄧㄇ</rt></ruby>: duty, tax.
+- <ruby>[徴税](../words/徴税.md)<rt>ㄉㄧㄫㄙㄝ</rt></ruby>: to collect taxes, levy taxes — the state's act of exacting [[税金]], also listed under [[Containers]] as a kind of collecting.
 - <ruby>[官僚](../words/官僚.md)<rt>ㄍ⺢ㄋㄌ⼄ㄨ</rt></ruby>: a bureaucrat.
 - <ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby>: autonomy, self-government.
 - <ruby>[主権](../words/主権.md)<rt>ㄐㄨㄍ⼔ㄋ</rt></ruby>: sovereignty — the supreme authority of a state over its own territory and affairs (国家主権 "state sovereignty," 主権在民 "popular sovereignty").
@@ -85,6 +86,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[使者](../words/使者.md)<rt>ㄙㄧㄑㄚ</rt></ruby>: a herald, messenger, emissary, envoy — traditionally one sent by a king to conduct diplomacy.
 - <ruby>[九卿](../words/九卿.md)<rt>ㄎ⼜·ㄎ⼶ㄫ</rt></ruby>: the Nine Ministers — a classical canonical collective for the nine highest executive officials below the Three Excellencies (三公) in imperial Chinese government; the exact nine changed by dynasty, but the term persisted as prestigious shorthand for the top civil-service tier.
 - <ruby>[官僚主義](../words/官僚主義.md)<rt>ㄍ⺢ㄋㄌ⼄ㄨㄐㄨㄜㄧ</rt></ruby>: bureaucracy, bureaucratism.
+- <ruby>[官庁](../words/官庁.md)<rt>ㄍ⺢ㄋㄑㄝㄫ</rt></ruby>: a government office, agency — the institution (and its building) where officials such as [[官吏]] work; see also [[Buildings]]' "office."
 - <ruby>[局](../words/局.md)<rt>ㄍ⼄ㄎ</rt></ruby>: an office, bureau (郵便局, "post office"; 造幣局, "mint") — resolves this page's own previously-flagged "office"/"bureau" gaps; also carries a separate, extended sense, "a bounded situation or predicament."
 - <ruby>[宰相](../words/宰相.md)<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>: a supreme chancellor, prime minister, premier.
 - <ruby>[参謀](../words/参謀.md)<rt>ㄙㄚㄇㄇㄨㄛ</rt></ruby>: a staff officer, strategist, advisor.
