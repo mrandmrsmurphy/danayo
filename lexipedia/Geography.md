@@ -47,13 +47,13 @@ Mountain and sea conditions influence <ruby>[交通](words/交通.md)<rt>ㄍ⼄�
 
 ### Political Development
 Historically, <ruby>[帝国](words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>[制度](/words/制度.md)<rt>ㄐㄝㄧㄉㄛ</rt></ruby> was dominant.  
-<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed extensive territory ([[広土]]), from early capitals such as <ruby>[鎬京](words/鎬京.md)<rt>ㄏㄚㄨㄍ⼶ㄫ</rt></ruby> (Haojing, the Western Zhou capital) onward.  
-<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> served as sovereign ([[国主]]).
+<ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby><ruby>[之](/words/之.md)<rt>ㄊㄧ</rt></ruby><ruby>[皇帝](words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby> governed [[広土]], from early capitals such as <ruby>[鎬京](words/鎬京.md)<rt>ㄏㄚㄨㄍ⼶ㄫ</rt></ruby> onward.  
+<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>[天皇](words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> served as [[国主]].
 
-In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby>[立憲](/words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby><ruby>制度<rt>ㄐㄝㄧㄉㄛ</rt></ruby> and <ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby><ruby>制度<rt>ㄐㄝㄧㄉㄛ</rt></ruby> emerged. Political transformation ([[制度]]変化) often followed internal disorder ([[内乱]]), foreign war ([[対外]][[戦争]]), or social reform (<ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]]).
+In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby>[立憲](/words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby><ruby>制度<rt>ㄐㄝㄧㄉㄛ</rt></ruby> and <ruby>[共和](words/共和.md)<rt>ㄍ⼄ㄫㄏ⺢</rt></ruby><ruby>制度<rt>ㄐㄝㄧㄉㄛ</rt></ruby> emerged. [[制度]]変化 often followed [[内乱]], [[対外]][[戦争]], or <ruby>[社会](words/社会.md)<rt>ㄙ⼘ㄏ⼔</rt></ruby>[[改革]].
 
 ### Cultural Transmission
-<ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a literary medium (<ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]]).  <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby> spread eastward ([[東伝]]).  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄈㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
+<ruby>共通<rt>ㄍ⼄ㄫㄊㄛㄫ</rt></ruby><ruby>文字<rt>ㄇㄨㄋㄐㄧ</rt></ruby> and <ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby><ruby>伝播<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby> shaped the region.  <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> functioned as a <ruby>文学<rt>ㄇㄨㄋㄏㄚㄎ</rt></ruby>[[媒体]].  <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby> [[東伝]].  Exchange generated <ruby>文化<rt>ㄇㄨㄋㄏ⺢</rt></ruby><ruby>発展<rt>ㄈㄚㄊㄐㄝㄋ</rt></ruby> as well as <ruby>競争<rt>ㄍ⼶ㄫㄐㄚㄫ</rt></ruby>.
 
 ## 東南亜
 <ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>.

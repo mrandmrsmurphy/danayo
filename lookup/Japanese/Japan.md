@@ -1,7 +1,14 @@
-<ruby>[日本](/words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
-- Emperor Meiji (<ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>) — Meiji Tennō (1852–1912, reigned 1867–1912)
-- Emperor Taishō (<ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>) — Taishō Tennō (1879–1926, reigned 1912–1926)
-- Emperor Shōwa / Hirohito (<ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[裕](/characters/裕.md)<rt>⼜</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
+---
+aliases:
+language: 単亜語
+---
+
+<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
+
+## Famous People
+- <ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> — (1852–1912, reigned 1867–1912)
+- <ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> — Taishō Tennō (1879–1926, reigned 1912–1926)
+- Hirohito <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[裕](/characters/裕.md)<rt>⼜</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>/ㄏㄧㄌㄛ) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
 - Emperor Heisei / Akihito (<ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>) — Heisei Tennō / Akihito (b. 1933, reigned 1989–2019)
 - Emperor Reiwa / Naruhito (<ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[徳](/characters/徳%20(char).md)<rt>ㄊㄨㄎ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>) — Reiwa Tennō / Naruhito (b. 1960, reigned 2019–present)
 - Itō Hirobumi (<ruby>[伊](/characters/伊.md)<rt>ㄧㄜ</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄨㄫ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby>[[文]]) — (1841–1909)
@@ -15,17 +22,17 @@
 - Akira Kurosawa (<ruby>[黒](/characters/黒%20(char).md)<rt>ㄏㄨㄎ</rt></ruby>[[沢|澤]]<ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby>) — (1910–1998)
 
 ## 玉音放送
-朕짐 深察様심찯양鑑於已감오이 世界서겨之티大勢대서与요帝国테곡之티現状현좡而니, 欲図已욕도이 非常피샹之티措置초치以이收拾숫십 時局시굑, 由玆윳지 爾等너둥為원忠良퉁량之티臣民신민于오 布告보갓:
+<ruby>朕<rt>ㄐㄨㄇ</rt></ruby> <ruby>深<rt>ㄙㄧㄇ</rt></ruby><ruby>察<rt>ㄑㄚㄊ</rt></ruby><ruby>様<rt>⼘ㄫ</rt></ruby><ruby>鑑<rt>ㄍㄚㄇ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby> <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby><ruby>勢<rt>ㄙㄝ</rt></ruby><ruby>与<rt>⼄</rt></ruby><ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>現<rt>ㄏ⼶ㄋ</rt></ruby><ruby>状<rt>ㄐ⺢ㄫ</rt></ruby><ruby>而<rt>ㄋㄧ</rt></ruby>, <ruby>欲<rt>⼄ㄎ</rt></ruby><ruby>図<rt>ㄉㄛ</rt></ruby><ruby>已<rt>ㄜ</rt></ruby> <ruby>非常<rt>ㄈㄧㄙ⼘ㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>措置<rt>ㄑㄛㄑㄧ</rt></ruby><ruby>以<rt>ㄧ</rt></ruby><ruby>收拾<rt>ㄙㄨㄛㄙㄜㄆ</rt></ruby> <ruby>時<rt>ㄙㄧ</rt></ruby><ruby>局<rt>ㄍ⼄ㄎ</rt></ruby>, <ruby>由<rt>⼜ㄛ</rt></ruby><ruby>玆<rt>ㄐㄜ</rt></ruby> <ruby>爾<rt>ㄋㄝ</rt></ruby><ruby>等<rt>ㄉㄨㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>忠<rt>ㄊㄨㄫ</rt></ruby><ruby>良<rt>ㄌ⼘ㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>臣民<rt>ㄙㄧㄋㄇㄧㄋ</rt></ruby><ruby>于<rt>ㄨ</rt></ruby> <ruby>布<rt>ㄅㄛ</rt></ruby><ruby>告<rt>ㄍㄚㄨ</rt></ruby>:
 
-朕짐 令렁 帝国테곡政府지푸 (美英中蘇미엉중소)四国싀곡于오通告통갓 其人之기닌티共同굥동宣言숸원就줏 受諾슈낙之티主旨주즤.
+<ruby>朕<rt>ㄐㄨㄇ</rt></ruby> <ruby>令<rt>ㄌㄝㄫ</rt></ruby> <ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>政府<rt>ㄐㄧㄫㄈㄨ</rt></ruby> (<ruby>美<rt>ㄇㄧ</rt></ruby><ruby>英<rt>ㄝㄫ</rt></ruby><ruby>中<rt>ㄐㄨㄫ</rt></ruby><ruby>蘇<rt>ㄙㄛ</rt></ruby>)<ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>国<rt>ㄍㄛㄎ</rt></ruby><ruby>于<rt>ㄨ</rt></ruby><ruby>通<rt>ㄊㄛㄫ</rt></ruby><ruby>告<rt>ㄍㄚㄨ</rt></ruby> <ruby>其人<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>共同<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby><ruby>宣言<rt>ㄙㄝㄋ·ㄝㄋ</rt></ruby><ruby>就<rt>ㄑ⺢ㄧ</rt></ruby> <ruby>受<rt>ㄙ⼜</rt></ruby><ruby>諾<rt>ㄋㄚㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>主旨<rt>ㄐㄨㄐㄧㄜ</rt></ruby>.
 
-今 為了 意図 帝国테곡臣民신민 康寧 為了 共享 萬邦 共榮 之楽
+<ruby>今<rt>ㄍㄧㄇ</rt></ruby> <ruby>為<rt>⼔ㄋ</rt></ruby><ruby>了<rt>ㄌ⼘ㄨ</rt></ruby> <ruby>意<rt>ㄜ</rt></ruby><ruby>図<rt>ㄉㄛ</rt></ruby> <ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby><ruby>臣民<rt>ㄙㄧㄋㄇㄧㄋ</rt></ruby> <ruby>康寧<rt>ㄎㄚㄫㄋㄝㄫ</rt></ruby> <ruby>為<rt>⼔ㄋ</rt></ruby><ruby>了<rt>ㄌ⼘ㄨ</rt></ruby> <ruby>共<rt>ㄍ⼄ㄫ</rt></ruby><ruby>享<rt>ㄏ⼘ㄫ</rt></ruby> <ruby>萬<rt>ㄇㄛㄋ</rt></ruby><ruby>邦<rt>ㄅㄚㄫ</rt></ruby> <ruby>共<rt>ㄍ⼄ㄫ</rt></ruby><ruby>榮<rt>ㄨㄧㄫ</rt></ruby> <ruby>之<rt>ㄊㄧ</rt></ruby><ruby>楽<rt>ㄌㄚㄎ</rt></ruby>
 
-御名요밍御璽요서
+<ruby>御<rt>⼄</rt></ruby><ruby>名<rt>ㄇㄧㄫ</rt></ruby><ruby>御<rt>⼄</rt></ruby><ruby>璽<rt>ㄙㄝ</rt></ruby>
 
-昭和좃화:二十늬십年넌八月󠄁받웓十四日십싀닏
+<ruby>昭和<rt>ㄐㄛㄨㄏ⺢</rt></ruby>:<ruby>二十<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby><ruby>年<rt>ㄋㄝㄋ</rt></ruby><ruby>八月󠄁<rt>ㄅㄚㄊ⼔ㄊ</rt></ruby><ruby>十四日<rt>ㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby>
 
-内閣뇌각総理종리大臣대신男爵남작鈴木렁목貫太郎관태랑(수주키칸타롯)
+<ruby>内閣<rt>ㄋㄛㄧㄍㄚㄎ</rt></ruby><ruby>総<rt>ㄐㄛㄫ</rt></ruby><ruby>理<rt>ㄌㄧ</rt></ruby><ruby>大臣<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby><ruby>男爵<rt>ㄋㄚㄇㄐㄚㄎ</rt></ruby><ruby>鈴<rt>ㄌㄝㄫ</rt></ruby><ruby>木<rt>ㄇㄛㄎ</rt></ruby><ruby>貫<rt>ㄍ⺢ㄋ</rt></ruby><ruby>太<rt>ㄊㄚㄧ</rt></ruby><ruby>郎<rt>ㄌㄚㄫ</rt></ruby>
 
 ### Original Japanese
 
