@@ -82,7 +82,7 @@ boundedness: 90
 - <ruby>[[抑]]<rt>ㄧㄎ</rt></ruby> "repress"
 - <ruby>[[折]]<rt>ㄐㄝㄊ</rt></ruby> "fold"
 - <ruby>[[抛]]<rt>ㄆㄚㄨ</rt></ruby> "throw away"
-- <ruby>[[抜]]<rt>ㄅㄚㄊ</rt></ruby> "select"
+- <ruby>[[抜 (char)|抜]]<rt>ㄆㄚㄊ</rt></ruby> "select"
 - <ruby>[[抽]]<rt>ㄑㄨ</rt></ruby> "pluck"
 - <ruby>[[抵]]<rt>ㄉㄝㄧ</rt></ruby> "resist"
 - <ruby>[[拐]]<rt>ㄍ⺢ㄧ</rt></ruby> "kidnap"

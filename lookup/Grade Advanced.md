@@ -204,7 +204,7 @@ tags: [lookup]
 190. <ruby>[[按]]<rt>ㄚㄋ</rt></ruby> - press, push down, restrain
 191. <ruby>[[拱 (char)|拱]]<rt>ㄍ⼄ㄫ</rt></ruby> - arch
 192. <ruby>[[拼]]<rt>ㄅㄚㄫ</rt></ruby> - spell
-193. <ruby>[[捌 (char)|捌]]<rt>ㄆㄚㄊ</rt></ruby> - eight (formal financial numeral), to break, disentangle, to sell well
+193. <ruby>[[捌 (char)|捌]]<rt>ㄅㄚㄊ</rt></ruby> - eight (formal financial numeral), to break, disentangle, to sell well
 194. <ruby>[[挽]]<rt>ㄇㄛㄋ</rt></ruby> - to pull, draw back, to save, recover, reverse
 195. <ruby>[[捏]]<rt>ㄋㄝㄊ</rt></ruby> - fabricate, knead
 196. <ruby>[[挫]]<rt>ㄐ⺢</rt></ruby> - to break, crush, to frustrate, thwart, setback, frustration

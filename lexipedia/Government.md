@@ -174,8 +174,8 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[授与](../words/授与.md)<rt>ㄙ⼜⼄</rt></ruby>: to confer, award, grant.
 - <ruby>[委](../words/委.md)<rt>⼔ㄧ</rt></ruby>: to appoint, send, commission.
 - <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
-- <ruby>[抜擢](../words/抜擢.md)<rt>ㄅㄚㄊㄐㄛㄎ</rt></ruby>: to select for promotion, single out for advancement — to pick someone out of the ranks and raise them to a post, on the strength of their ability (若手を抜擢する, "to promote a young talent"); an appointment by selection, where [[晋升]] is promotion in rank.
-- <ruby>[選抜](../words/選抜.md)<rt>ㄙ⼔ㄋㄅㄚㄊ</rt></ruby>: to select as the best, selection — 選 "choose" + 抜 "pull out."
+- <ruby>[抜擢](../words/抜擢.md)<rt>ㄆㄚㄊㄐㄛㄎ</rt></ruby>: to select for promotion, single out for advancement — to pick someone out of the ranks and raise them to a post, on the strength of their ability (若手を抜擢する, "to promote a young talent"); an appointment by selection, where [[晋升]] is promotion in rank.
+- <ruby>[選抜](../words/選抜.md)<rt>ㄙ⼔ㄋㄆㄚㄊ</rt></ruby>: to select as the best, selection — 選 "choose" + 抜 "pull out."
 - <ruby>[孝廉](../words/孝廉.md)<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby>: "filial and incorrupt" — the Han recommendation category (from 134 BC) by which each commandery nominated men of filial devotion and incorruptibility for office, and the name for a candidate so recommended; a nomination route before examinations, where [[抜擢]] is selecting for promotion.
 - <ruby>[委託](../words/委託.md)<rt>⼔ㄧㄊㄚㄎ</rt></ruby>: to entrust, trust.
 - <ruby>[受託](../words/受託.md)<rt>ㄙ⼜·ㄊㄚㄎ</rt></ruby>: to be entrusted with, accept a commission.

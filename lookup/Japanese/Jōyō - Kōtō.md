@@ -838,7 +838,7 @@ tags: [lookup]
 1857. [鉢 (char)](../../characters/鉢%20(char).md) : bowl
 1858. [髪](../../characters/髪.md) : 	髮	S	hair of the head
 1859. [伐](../../characters/伐.md) : fell
-1860. [抜](../../characters/抜.md) : 	拔	S	slip out
+1860. [抜](../../characters/抜%20(char).md) : 	拔	S	slip out
 1861. [罰](../../characters/罰.md) : penalty
 1862. [閥](../../characters/閥.md) : clique
 1863. [氾](../../characters/氾.md) : spread out

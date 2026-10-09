@@ -898,7 +898,7 @@ tags: [lookup]
 [仔](../../characters/子.md): 2
 [[挨]]: 1
 [[岸 (char)]]: 1
-[拔](../../characters/抜.md): 1
+[拔](../../characters/抜%20(char).md): 1
 [[碑]]: 1
 [[笨]]: 1
 [[逼]]: 1

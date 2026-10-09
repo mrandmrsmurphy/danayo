@@ -34,7 +34,7 @@ tags: [lookup]
 13. <ruby>[投](../../characters/投%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> - throw
 14. <ruby>[抗](../../characters/抗.md)<rt>ㄏㄚㄫ</rt></ruby> - resist
 15. <ruby>[折](../../characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> - fold
-16. <ruby>[抜](../../characters/抜.md)<rt>ㄅㄚㄊ</rt></ruby> - select
+16. <ruby>[抜](../../characters/抜%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - select
 17. <ruby>[択](../../characters/択.md)<rt>ㄉㄚㄎ</rt></ruby> - choose
 
 ### +4 Strokes
@@ -86,7 +86,7 @@ tags: [lookup]
 59. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - to pull, draw back
 60. <ruby>[挿](../../characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> - insert
 61. <ruby>[捉](../../characters/捉.md)<rt>ㄐㄚㄎ</rt></ruby> - clutch
-62. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - to break, disentangle
+62. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - to break, disentangle
 63. <ruby>[捏](../../characters/捏.md)<rt>ㄋㄝㄊ</rt></ruby> - fabricate
 64. <ruby>[捕](../../characters/捕%20(char).md)<rt>ㄅㄛ</rt></ruby> - catch
 65. <ruby>[捜](../../characters/捜.md)<rt>ㄙㄛㄨ</rt></ruby> - search

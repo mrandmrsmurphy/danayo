@@ -42,7 +42,7 @@ tags:
 boundedness: 80
 ---
 >[!tip] This is a page about the character 別.
->For the word, see [別](words/別.md)
+>For the word, see [別](../words/別.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -73,3 +73,6 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[千差万別]]<rt>ㄑㄝㄋㄑㄚ·ㄇㄛㄋㄅㄝㄊ</rt></ruby> "variegated, manifold diversity"
+
+## Derived Characters
+- <ruby>[[捌 (char)|捌]]<rt>ㄅㄚㄊ</rt></ruby> "eight (formal financial numeral); to break, disentangle"

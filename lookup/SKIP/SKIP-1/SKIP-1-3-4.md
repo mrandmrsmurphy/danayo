@@ -41,7 +41,7 @@ tags:
 29. <ruby>[抒](characters/抒.md)<rt>ㄙ⼄</rt></ruby> "express"
 30. <ruby>[抗](characters/抗.md)<rt>ㄏㄚㄫ</rt></ruby> "resist"
 31. <ruby>[折](characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> "fold"
-32. <ruby>[抜](characters/抜.md)<rt>ㄅㄚㄊ</rt></ruby> "select"
+32. <ruby>[抜](characters/抜%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> "select"
 33. <ruby>[択](characters/択.md)<rt>ㄉㄚㄎ</rt></ruby> "choose"
 34. <ruby>[改](characters/改%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> "redo"
 35. <ruby>[攻](characters/攻%20(char).md)<rt>ㄍㄛㄫ</rt></ruby> "attack"

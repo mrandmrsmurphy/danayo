@@ -18,6 +18,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[打撃](../words/打撃.md)<rt>ㄉㄚㄍㄝㄎ</rt></ruby>: to strike, beat, hit, percuss — see [[Conflict]] for its own citation there.
 - <ruby>[束縛](../words/束縛.md)<rt>ㄙ⼄ㄎㄈㄚㄎ</rt></ruby>: to tie, bind.
 - <ruby>[破](../words/破.md)<rt>ㄆㄜ</rt></ruby>: to rend, break.
+- <ruby>[抜](../words/抜.md)<rt>ㄆㄚㄊ</rt></ruby>: to pull out, extract — drawing something up or out of where it is fixed; its extended sense "to select" is carried by [[選抜]] and [[抜擢]], on [Government](../lexipedia/Government.md).
 - <ruby>[切](../words/切.md)<rt>ㄑㄝㄊ</rt></ruby>: to cut, mince, carve.
 - <ruby>[分](../words/分.md)<rt>ㄅㄨㄋ</rt></ruby>: to divide — see [[Numbers]] for its own citation there.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: to wound, injure, hurt, assault — see [[Law]] and [[Life]] for their own citations there.

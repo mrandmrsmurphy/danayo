@@ -261,7 +261,7 @@ tags: [lookup]
 [般 (char)](../../characters/般%20(char).md) (돌 반)  [盤 (char)](../../characters/盤%20(char).md) (소반 반)  [班 (char)](../../characters/班%20(char).md) (나눌 반)  [返](../../characters/返.md) (돌아올 반)  叛-->反 (배반할 반)  [伴](../../characters/伴.md) (짝 반)
 
 #### 발
-[拔](../../characters/抜.md) (뺄 발)  [髮](../../characters/髪.md) (터럭 발)
+[拔](../../characters/抜%20(char).md) (뺄 발)  [髮](../../characters/髪.md) (터럭 발)
 
 #### 방
 [芳](../../characters/芳.md) (꽃다울 방)  [傍 (char)](../../characters/傍%20(char).md) (곁 방)  [妨](../../characters/妨.md) (방해할 방)  [倣](../../characters/倣.md) (본뜰 방)  [邦](../../characters/邦.md) (나라 방)

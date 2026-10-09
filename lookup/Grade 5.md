@@ -127,7 +127,7 @@ tags: [lookup]
 113. <ruby>[[抑]]<rt>ㄧㄎ</rt></ruby> - repress, press down
 114. <ruby>[[抗]]<rt>ㄏㄚㄫ</rt></ruby> - resist
 115. <ruby>[[抄]]<rt>ㄑㄚㄨ</rt></ruby> - copy, abridge
-116. <ruby>[[抜]]<rt>ㄅㄚㄊ</rt></ruby> - select
+116. <ruby>[[抜 (char)|抜]]<rt>ㄆㄚㄊ</rt></ruby> - select
 117. <ruby>[[択]]<rt>ㄉㄚㄎ</rt></ruby> - choose, select, pick out
 118. <ruby>[[抵]]<rt>ㄉㄝㄧ</rt></ruby> - resist
 119. <ruby>[[押 (char)|押]]<rt>ㄚㄆ</rt></ruby> - mortgage

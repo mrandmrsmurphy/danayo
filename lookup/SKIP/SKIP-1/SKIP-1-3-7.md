@@ -43,7 +43,7 @@ tags:
 31. <ruby>[挺](characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> "stand upright"
 32. <ruby>[挽](characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> "recover"
 33. <ruby>[挿](characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> "insert"
-34. <ruby>[捌](characters/捌%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> "disentangle"
+34. <ruby>[捌](characters/捌%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> "disentangle"
 35. <ruby>[捉](characters/捉.md)<rt>ㄐㄚㄎ</rt></ruby> "clutch"
 36. <ruby>[捏](characters/捏.md)<rt>ㄋㄝㄊ</rt></ruby> "fabricate"
 37. <ruby>[捕](characters/捕%20(char).md)<rt>ㄅㄛ</rt></ruby> "catch"
