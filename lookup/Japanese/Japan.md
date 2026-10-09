@@ -8,9 +8,9 @@ language: 単亜語
 ## Famous People
 - <ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> — (1852–1912, reigned 1867–1912)
 - <ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> — Taishō Tennō (1879–1926, reigned 1912–1926)
-- Hirohito <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[裕](/characters/裕.md)<rt>⼜</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>/ㄏㄧㄌㄛ) — Shōwa Tennō / Hirohito (1901–1989, reigned 1926–1989)
-- Emperor Heisei / Akihito (<ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>) — Heisei Tennō / Akihito (b. 1933, reigned 1989–2019)
-- Emperor Reiwa / Naruhito (<ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[徳](/characters/徳%20(char).md)<rt>ㄊㄨㄎ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>) — Reiwa Tennō / Naruhito (b. 1960, reigned 2019–present)
+- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[裕](/characters/裕.md)<rt>⼜</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>/ㄏㄧㄌㄛㄏㄧㄊㄛ — (1901–1989, reigned 1926–1989)
+- <ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[明](/characters/明%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>/ㄚㄎㄧㄏㄧㄊㄛ — (b. 1933, reigned 1989–2019)
+- <ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>[徳](/characters/徳%20(char).md)<rt>ㄊㄨㄎ</rt></ruby><ruby>[仁](/characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby>/ㄋㄚㄌㄨㄏㄧㄊㄛ — (b. 1960, reigned 2019–present)
 - Itō Hirobumi (<ruby>[伊](/characters/伊.md)<rt>ㄧㄜ</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄨㄫ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby>[[文]]) — (1841–1909)
 - Abe Shinzō ([[安]][[倍]][[晋]]<ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>) — (1954–2022)
 - Takaichi Sanae (<ruby>[高](/characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby>[[市]][[早]][[苗]]) — (b. 1961)
