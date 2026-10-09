@@ -95,7 +95,7 @@ boundedness: 90
 - <ruby>[[捉]]<rt>ㄐㄚㄎ</rt></ruby> "clutch"
 - <ruby>[[拼]]<rt>ㄅㄚㄫ</rt></ruby> "spell"
 - <ruby>[[授]]<rt>ㄙ⼜</rt></ruby> "confer"
-- <ruby>[[拾]]<rt>ㄙㄜㄆ</rt></ruby> "pick up"
+- <ruby>[[拾]]<rt>ㄙㄧㄆ</rt></ruby> "pick up"
 - <ruby>[[採]]<rt>ㄑㄚㄧ</rt></ruby> "gather"
 - <ruby>[[挑]]<rt>ㄊㄚㄨ</rt></ruby> "challenge, incite"
 - <ruby>[[揀]]<rt>ㄍ⼘ㄋ</rt></ruby> "choose"

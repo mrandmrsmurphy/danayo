@@ -43,7 +43,7 @@ tags:
 31. <ruby>[拶](characters/拶.md)<rt>ㄐ⺢ㄊ</rt></ruby> "compel"
 32. <ruby>[拷](characters/拷.md)<rt>ㄎㄚㄨ</rt></ruby> "torture"
 33. <ruby>[拼](characters/拼.md)<rt>ㄅㄚㄫ</rt></ruby> "spell"
-34. <ruby>[拾](characters/拾.md)<rt>ㄙㄜㄆ</rt></ruby> "pick up"
+34. <ruby>[拾](characters/拾.md)<rt>ㄙㄧㄆ</rt></ruby> "pick up"
 35. <ruby>[指](characters/指.md)<rt>ㄐㄧㄜ</rt></ruby> "finger"
 36. <ruby>[按](characters/按.md)<rt>ㄚㄋ</rt></ruby> "put hands on"
 37. <ruby>[挑](characters/挑.md)<rt>ㄊㄚㄨ</rt></ruby> "challenge authority"

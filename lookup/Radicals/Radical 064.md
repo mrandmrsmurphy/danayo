@@ -68,7 +68,7 @@ tags: [lookup]
 43. <ruby>[拶](../../characters/拶.md)<rt>ㄐ⺢ㄊ</rt></ruby> - compel
 44. <ruby>[拷](../../characters/拷.md)<rt>ㄎㄚㄨ</rt></ruby> - torture
 45. <ruby>[拼](../../characters/拼.md)<rt>ㄅㄚㄫ</rt></ruby> - spell
-46. <ruby>[拾](../../characters/拾.md)<rt>ㄙㄜㄆ</rt></ruby> - pick up
+46. <ruby>[拾](../../characters/拾.md)<rt>ㄙㄧㄆ</rt></ruby> - pick up
 47. <ruby>[持](../../characters/持%20(char).md)<rt>ㄉㄧ</rt></ruby> - hold
 48. <ruby>[指](../../characters/指.md)<rt>ㄐㄧㄜ</rt></ruby> - finger
 49. <ruby>[按](../../characters/按.md)<rt>ㄚㄋ</rt></ruby> - press

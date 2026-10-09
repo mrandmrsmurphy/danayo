@@ -8,14 +8,14 @@ tags: [lookup]
 > **Final 緝A三** genuinely three-way splits, extending its own documented two-way D ambiguity (see below)
 
 ## CJKV Evolution
-緝A三 [iɪp]'s Vowels-table D value is already listed as ambiguous (`ip/up`), and the corpus shows a third group besides: 9 of 18 characters land on **ㄧㄆ** (ip), 4 on **ㄨㄆ** (up), and 5 on a third group, **ㄜㄆ**.
+緝A三 [iɪp]'s Vowels-table D value is already listed as ambiguous (`ip/up`), and the corpus shows a third group besides: 10 of 18 characters land on **ㄧㄆ** (ip), 4 on **ㄨㄆ** (up), and 4 on a third group, **ㄜㄆ**.
 
-The sibilant/palatal class (d͡ʑ, ʑ, z, ɕ, t͡ɕ) scatters across all three groups (十 and 湿 on ㄧㄆ; 汁, 拾, 習, 襲 on ㄜㄆ; 霫 on ㄨㄆ), with the null-initial 揖 also on ㄜㄆ and the ts-initial 葺 and 潗 on ㄨㄆ, echoing the recurring scatter pattern documented on [[韻 之|之]], [[韻 蒸|蒸]], and [[韻 侵B|侵B]]. The l-initial class splits too: 立/笠 land on ㄧㄆ while 粒 lands on ㄨㄆ.
+The sibilant/palatal class (d͡ʑ, ʑ, z, ɕ, t͡ɕ) scatters across all three groups (十, 拾 and 湿 on ㄧㄆ; 汁, 習, 襲 on ㄜㄆ; 霫 on ㄨㄆ), with the null-initial 揖 also on ㄜㄆ and the ts-initial 葺 and 潗 on ㄨㄆ, echoing the recurring scatter pattern documented on [[韻 之|之]], [[韻 蒸|蒸]], and [[韻 侵B|侵B]]. The l-initial class splits too: 立/笠 land on ㄧㄆ while 粒 lands on ㄨㄆ.
 
 ## Characters
 ### In Use
-- ㄧㄆ: <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby>, <ruby>[[立 (char)|立]]<rt>ㄌㄧㄆ</rt></ruby>, <ruby>[[執]]<rt>ㄐㄧㄆ</rt></ruby>, <ruby>[[廿]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[笠]]<rt>ㄌㄧㄆ</rt></ruby>, <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby>, <ruby>[[鴔]]<rt>ㄅㄧㄆ</rt></ruby>, <ruby>[[湿 (char)|湿]]<rt>ㄙㄧㄆ</rt></ruby>
-- ㄜㄆ: <ruby>[[汁 (char)|汁]]<rt>ㄐㄜㄆ</rt></ruby>, <ruby>[[拾]]<rt>ㄙㄜㄆ</rt></ruby>, <ruby>[[揖]]<rt>ㄜㄆ</rt></ruby>, <ruby>[[習]]<rt>ㄙㄜㄆ</rt></ruby>, <ruby>[[襲]]<rt>ㄙㄜㄆ</rt></ruby>
+- ㄧㄆ: <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby>, <ruby>[[拾]]<rt>ㄙㄧㄆ</rt></ruby>, <ruby>[[立 (char)|立]]<rt>ㄌㄧㄆ</rt></ruby>, <ruby>[[執]]<rt>ㄐㄧㄆ</rt></ruby>, <ruby>[[廿]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[笠]]<rt>ㄌㄧㄆ</rt></ruby>, <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby>, <ruby>[[鴔]]<rt>ㄅㄧㄆ</rt></ruby>, <ruby>[[湿 (char)|湿]]<rt>ㄙㄧㄆ</rt></ruby>
+- ㄜㄆ: <ruby>[[汁 (char)|汁]]<rt>ㄐㄜㄆ</rt></ruby>, <ruby>[[揖]]<rt>ㄜㄆ</rt></ruby>, <ruby>[[習]]<rt>ㄙㄜㄆ</rt></ruby>, <ruby>[[襲]]<rt>ㄙㄜㄆ</rt></ruby>
 - ㄨㄆ: <ruby>[[葺 (char)|葺]]<rt>ㄑㄨㄆ</rt></ruby>, <ruby>[[潗]]<rt>ㄐㄨㄆ</rt></ruby>, <ruby>[[粒]]<rt>ㄌㄨㄆ</rt></ruby>, <ruby>[[霫]]<rt>ㄙㄨㄆ</rt></ruby>
 
 ## Datacheck

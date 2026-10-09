@@ -155,7 +155,7 @@ tags: [lookup]
 141. <ruby>[[抱]]<rt>ㄅㄚㄨ</rt></ruby> - embrace
 142. <ruby>[[招]]<rt>ㄑㄛㄨ</rt></ruby> - beckon, recruit
 143. <ruby>[[拝 (char)|拝]]<rt>ㄅ⼶</rt></ruby> - bow, kowtow
-144. <ruby>[[拾]]<rt>ㄙㄜㄆ</rt></ruby> - pick up
+144. <ruby>[[拾]]<rt>ㄙㄧㄆ</rt></ruby> - pick up
 145. <ruby>[[授]]<rt>ㄙ⼜</rt></ruby> - confer, award, grant
 146. <ruby>[[採]]<rt>ㄑㄚㄧ</rt></ruby> - gather
 147. <ruby>[[探]]<rt>ㄊㄚㄇ</rt></ruby> - search
