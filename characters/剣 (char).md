@@ -33,22 +33,22 @@ aliases:
   - 劔
   - 劒
 注音: "ㄍㄛㄇ"
-date-last-perfect: 2026-06-15
+date-last-perfect: 2026-10-09
 kwin: false
 tags:
   - character
 boundedness: 45
 ---
 >[!tip] This is a page about the character 剣.
->For the word, see [剣](words/剣.md)
+>For the word, see [剣](../words/剣.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
 - 形声 (OC *kams): semantic [[Radical 018|刀]] ("knife, blade") + phonetic [[㑒]] (OC *st͡sʰjam, "unanimous") — a double-edged blade; "sword."
-- [SKIP-1-8-2](lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 916th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄍㄛㄇ](syllables/ㄍㄛㄇ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 916th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄍㄛㄇ](../syllables/ㄍㄛㄇ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[剣]]<rt>ㄍㄛㄇ</rt></ruby> "sword" (stand-in for 剣)

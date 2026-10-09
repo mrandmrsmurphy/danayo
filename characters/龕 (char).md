@@ -34,20 +34,22 @@ stand_in: "龕"
 aliases:
   - 龛
 注音: "ㄎㄚㄇ"
-date-last-perfect: 2026-06-15
+date-last-perfect: 2026-10-09
 kwin: false
 tags:
   - character
 boundedness: 30
 ---
 >[!tip] This is a page about the character 龕.
->For the word, see [龕](words/龕.md)
-
+>For the word, see [龕](../words/龕.md)
+```meta-bind-embed
+[[nav/char_info]]
+```
 ## Notes
-- 形声 (OC *kʰrɯːm): semantic [[Radical 212|龍]] ("dragon") + phonetic [[今 (char)|今]] (OC *krɯm, "now") — a dragon-adorned alcove for housing an idol; "shrine, alcove."
-- [SKIP-2-2-20](lookup/SKIP/SKIP-2/SKIP-2-2-20.md) ([Stroke 22](lookup/Stroke/Stroke%2022.md))
-- Not ranked in the Classical Chinese frequency corpus. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄎㄚㄇ](syllables/ㄎㄚㄇ.md)
-- [Grade Name](lookup/Grade%20Name.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- 形声 (OC *kʰrɯːm): semantic [[Radical 212|龍]] ("dragon") + phonetic [[今 (char)|今]] (OC *krɯm, "now") — a dragon-adorned alcove for housing an idol; "shrine, alcove." (The Shuowen analyses it with phonetic 合 and semantic 龍; Duan Yucai instead takes it as a corrupted form of 𪚕, with phonetic 今 and semantic 龍. The vault follows the 今 analysis, and both agree 龍 is the semantic component.)
+- [SKIP-2-2-20](../lookup/SKIP/SKIP-2/SKIP-2-2-20.md) ([Stroke 22](../lookup/Stroke/Stroke%2022.md))
+- Not ranked in the Classical Chinese frequency corpus. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄎㄚㄇ](../syllables/ㄎㄚㄇ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[龕]]<rt>ㄎㄚㄇ</rt></ruby> "shrine, alcove" (stand-in for 龕)
