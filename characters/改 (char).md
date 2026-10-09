@@ -32,13 +32,13 @@ graphemic_classification: 己
 stand_in: 改
 注音: ㄍㄚㄧ
 kwin: true
-date-last-perfect: 2026-06-27
+date-last-perfect: 2026-10-09
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 改.
->For the word, see [改](words/改.md)
+>For the word, see [改](../words/改.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
