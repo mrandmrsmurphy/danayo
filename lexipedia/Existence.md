@@ -222,6 +222,7 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 - <ruby>[重畳](../words/重畳.md)<rt>ㄑㄛㄫㄉㄝㄆ</rt></ruby>: reduplication; layering, overlapping.
 - <ruby>[障碍](../words/障碍.md)<rt>ㄐㄚㄫㄚㄧ</rt></ruby>: obstacle; barrier; handicap.
 - <ruby>[隠形](../words/隠形.md)<rt>ㄜㄋㄏㄝㄫ</rt></ruby>: invisible.
+- <ruby>[現状](../words/現状.md)<rt>ㄏ⼶ㄋㄐ⺢ㄫ</rt></ruby>: the current state of affairs; the status quo.
 
 ## Semantic Range Notes
 

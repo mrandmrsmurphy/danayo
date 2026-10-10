@@ -204,6 +204,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[飛語](../words/飛語.md)<rt>ㄈㄝㄧ⼄</rt></ruby>: baseless rumor; false gossip.
 - <ruby>[黙黙](../words/黙黙.md)<rt>ㄇㄨㄎㄇㄨㄎ</rt></ruby>: silently; quietly; without a word.
 - <ruby>[𧦅歌](../words/𧦅歌.md)<rt>ㄛㄨㄍㄜ</rt></ruby>: eulogize; extol.
+- <ruby>[布告](../words/布告.md)<rt>ㄅㄛㄍㄚㄨ</rt></ruby>: to proclaim; a proclamation.
 
 ## Semantic Range Notes
 

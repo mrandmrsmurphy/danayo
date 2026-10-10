@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[現象]]<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby> "phenomenon"
 - <ruby>[[顕現]]<rt>ㄏㄝㄋㄏ⼶ㄋ</rt></ruby> "appear; be made manifest; show"
 - <ruby>[[現用]]<rt>ㄏ⼶ㄋ·⼄ㄫ</rt></ruby> "currently in use; active"
+- <ruby>[[現状]]<rt>ㄏ⼶ㄋㄐ⺢ㄫ</rt></ruby> "present state; status quo"
 
 ## Chengyu
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"

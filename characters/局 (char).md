@@ -59,3 +59,4 @@ boundedness: 90
 - <ruby>[[放送局]]<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby> "broadcast station"
 - <ruby>[[造幣局]]<rt>ㄑㄚㄨ·ㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
 - <ruby>[[中央情報局]]<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby> "CIA"
+- <ruby>[[時局]]<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby> "current political situation"

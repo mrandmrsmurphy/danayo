@@ -116,6 +116,7 @@ boundedness: 90
 - <ruby>[[大旨]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "main idea, gist"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest"
 - <ruby>[[宏大]]<rt>ㄏ⼔ㄫㄉㄚㄧ</rt></ruby> "grand, magnificent, vast"
+- <ruby>[[大勢]]<rt>ㄉㄚㄧㄙㄝ</rt></ruby> "general trend"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

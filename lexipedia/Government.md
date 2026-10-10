@@ -264,6 +264,7 @@ Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chie
 - <ruby>[陛下](../words/陛下.md)<rt>ㄅㄝㄧㄏㄚ</rt></ruby>: your majesty.
 - <ruby>[領土](../words/領土.md)<rt>ㄌㄧㄫㄊㄛ</rt></ruby>: territory.
 - <ruby>[首都](../words/首都.md)<rt>ㄙ⼜ㄉㄛ</rt></ruby>: capital city.
+- <ruby>[時局](../words/時局.md)<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby>: the current political situation.
 
 ## Semantic Range Notes
 

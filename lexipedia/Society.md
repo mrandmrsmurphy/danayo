@@ -398,6 +398,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[関係](../words/関係.md)<rt>ㄍ⺢ㄇㄍㄝㄧ</rt></ruby>: relationship; related.
 - <ruby>[高人](../words/高人.md)<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby>: person of noble character.
 - <ruby>[鬼老](../words/鬼老.md)<rt>ㄍㄨㄧㄌㄚㄨ</rt></ruby>: male demon; foreigner (Cantonese slang).
+- <ruby>[大勢](../words/大勢.md)<rt>ㄉㄚㄧㄙㄝ</rt></ruby>: the general trend; the tide of events.
 
 ## Semantic Range Notes
 

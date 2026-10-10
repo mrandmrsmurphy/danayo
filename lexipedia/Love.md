@@ -74,6 +74,7 @@ Four independently attested near-synonyms, differing mainly by register rather t
 - <ruby>[艶福](../words/艶福.md)<rt>⼶ㄇㄈㄨㄎ</rt></ruby>: success in love.
 - <ruby>[蜜月](../words/蜜月.md)<rt>ㄇㄧㄊ⼔ㄊ</rt></ruby>: honeymoon.
 - <ruby>[魅惑](../words/魅惑.md)<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby>: charm; captivate; enchant.
+- <ruby>[忠良](../words/忠良.md)<rt>ㄊㄨㄫㄌ⼘ㄫ</rt></ruby>: loyal and good; loyal (of subjects).
 
 ## Semantic Range Notes
 
