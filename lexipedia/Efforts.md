@@ -134,6 +134,7 @@ Rosenfelder terms with no Dan'a'yo word yet: easy, mighty, order, practice, task
 - <ruby>[阻止](../words/阻止.md)<rt>ㄐㄛㄐㄧ</rt></ruby>: thwart; block; impede.
 - <ruby>[除外](../words/除外.md)<rt>ㄐㄝㄧ⺢ㄧ</rt></ruby>: exclude.
 - <ruby>[随意](../words/随意.md)<rt>ㄙㄨㄧ·ㄜ</rt></ruby>: optional; voluntary.
+- <ruby>[発揮](../words/発揮.md)<rt>ㄈㄚㄊㄏㄨㄧ</rt></ruby>: to bring into play; to exert; to display.
 
 ## Semantic Range Notes
 

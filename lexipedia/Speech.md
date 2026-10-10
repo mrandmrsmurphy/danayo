@@ -206,6 +206,8 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[𧦅歌](../words/𧦅歌.md)<rt>ㄛㄨㄍㄜ</rt></ruby>: eulogize; extol.
 - <ruby>[布告](../words/布告.md)<rt>ㄅㄛㄍㄚㄨ</rt></ruby>: to proclaim; a proclamation.
 - <ruby>[通告](../words/通告.md)<rt>ㄊㄛㄫㄍㄚㄨ</rt></ruby>: to notify; a notification.
+- <ruby>[発表](../words/発表.md)<rt>ㄈㄚㄊㄅ⼘ㄨ</rt></ruby>: to announce; to publish.
+- <ruby>[主張](../words/主張.md)<rt>ㄐㄨㄑㄚㄫ</rt></ruby>: to assert; an assertion; to claim.
 
 ## Semantic Range Notes
 

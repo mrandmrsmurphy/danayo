@@ -31,12 +31,12 @@ language: 単亜語
 
 <ruby>公約<rt>ㄍㄛㄫ⼘ㄎ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>章<rt>ㄐㄚㄫ</rt></ruby>
 
-- 一읻: 今日김닏於오 我等아둥之티 此挙처교 正義징위人道닌닷生存尊榮생존존영을 爲위하는 民族민족之티要求윳귯ㅣ니 오즉 自由즤윳之티精神정신을 発揮받휘할 것이오 決퀃코 排他배타之티感情감칭으로 逸走읻좃하지 말라
-- 二늬: 最後줘홋之티 一人일인ᄭᅡ지 最後줘홋之티 一刻읻쿡ᄭᅡ지 民族민족之티 正当징당한 意思이사를 快쾌히 発表팓뱟하라
-- 三삼: 一切읻첟之티 行動항동은 가장 秩序딛쇼를 尊重존총하야 我等아둥之티 主張주창과 態度태도로 하야금 어대ᄭᅡ지던지 光明쾅명正大징대하게 하라
+- <ruby>一<rt>ㄧㄊ</rt></ruby>: <ruby>今日<rt>ㄍㄧㄇㄋㄧㄊ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>我等<rt>ㄚㄉㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>此<rt>ㄑㄜ</rt></ruby><ruby>挙<rt>ㄍ⼄</rt></ruby> <ruby>正義<rt>ㄐㄧㄫㄜㄧ</rt></ruby><ruby>人道<rt>ㄋㄧㄋㄉㄚㄨ</rt></ruby><ruby>生存<rt>ㄙㄚㄫㄐㄛㄋ</rt></ruby><ruby>尊栄<rt>ㄐㄛㄋ·ㄨㄧㄫ</rt></ruby>을 <ruby>為<rt>⼔ㄋ</rt></ruby>하는 <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>要求<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>ㅣ니 오즉 <ruby>自由<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>精神<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby>을 <ruby>発揮<rt>ㄈㄚㄊㄏㄨㄧ</rt></ruby>할 것이오 <ruby>決<rt>ㄎ⼔ㄊ</rt></ruby>코 <ruby>排<rt>ㄆㄚㄧ</rt></ruby><ruby>他<rt>ㄊㄜ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby><ruby>感情<rt>ㄍㄚㄇㄑㄧㄫ</rt></ruby>으로 <ruby>逸<rt>ㄧㄊ</rt></ruby><ruby>走<rt>ㄙㄛㄨ</rt></ruby>하지 말라
+- <ruby>二<rt>ㄋㄧㄜ</rt></ruby>: <ruby>最後<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>一<rt>ㄧㄊ</rt></ruby><ruby>人<rt>ㄋㄧㄋ</rt></ruby>ᄭᅡ지 <ruby>最後<rt>ㄐ⼔ㄏㄨㄛ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>一刻<rt>ㄧㄊㄎㄨㄎ</rt></ruby>ᄭᅡ지 <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>正<rt>ㄐㄧㄫ</rt></ruby><ruby>当<rt>ㄉㄚㄫ</rt></ruby>한 <ruby>意思<rt>ㄜㄙㄚ</rt></ruby>를 <ruby>快<rt>ㄎ⺢ㄧ</rt></ruby>히 <ruby>発表<rt>ㄈㄚㄊㄅ⼘ㄨ</rt></ruby>하라
+- <ruby>三<rt>ㄙㄚㄇ</rt></ruby>: <ruby>一切<rt>ㄧㄊㄑㄝㄊ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>行動<rt>ㄏㄚㄫㄉㄛㄫ</rt></ruby>은 가장 <ruby>秩序<rt>ㄉㄧㄊㄙ⼄</rt></ruby>를 <ruby>尊重<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby>하야 <ruby>我等<rt>ㄚㄉㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>主張<rt>ㄐㄨㄑㄚㄫ</rt></ruby>과 <ruby>態度<rt>ㄊㄚㄧㄉㄛ</rt></ruby>로 하야금 어대ᄭᅡ지던지 <ruby>光明<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>正大<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby>하게 하라
 
   
-朝鮮잣셤建國건곡四千싀천二百늬박五十오십二늬年넌三月삼웓一日읻닏 　朝鮮잣셤民族민족代表대뱟
+<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>建国<rt>ㄍㄝㄋㄍㄛㄎ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>二百<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>年<rt>ㄋㄝㄋ</rt></ruby><ruby>三月<rt>ㄙㄚㄇ⼔ㄊ</rt></ruby><ruby>一日<rt>ㄧㄊㄋㄧㄊ</rt></ruby> 　<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>代表<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>
 
 孫秉熙손빙히 吉善宙긷션줏 李弼柱리빋주 白龍城박룡싱 金完圭김환궤  
 金秉祚김빙조 金昌俊김창준 権東鎮권동친 権秉徳권빙둑 羅龍煥로룡환^  

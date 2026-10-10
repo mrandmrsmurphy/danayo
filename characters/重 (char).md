@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[鄭重]]<rt>ㄐㄝㄫㄑㄛㄫ</rt></ruby> "solemn"
 - <ruby>[[厳重]]<rt>⼄ㄇㄑㄛㄫ</rt></ruby> "serious, rigorous"
 - <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby> "barium"
+- <ruby>[[尊重]]<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby> "respect; esteem"
 
 ## Chengyu
 - <ruby>[[義重於音]]<rt>ㄜㄧㄑㄛㄫㄛㄨㄇ</rt></ruby> "Meaning is more important than sound"

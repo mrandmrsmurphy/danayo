@@ -84,6 +84,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[三十一日]]<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "the thirty-first day (of the month)"
 - <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby> "one quarter, one fourth"
+- <ruby>[[一刻]]<rt>ㄧㄊㄎㄨㄎ</rt></ruby> "a moment"
 
 ## Chengyu
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"

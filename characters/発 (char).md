@@ -80,6 +80,8 @@ boundedness:
 - <ruby>[[誘発]]<rt>⼜ㄛㄈㄚㄊ</rt></ruby> "to induce; to trigger"
 - <ruby>[[発剌]]<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby> "lively, vivacious"
 - <ruby>[[恭喜発財]]<rt>ㄍ⼄ㄫㄏㄧㄈㄚㄊㄐㄚㄧ</rt></ruby> "happy new year"
+- <ruby>[[発揮]]<rt>ㄈㄚㄊㄏㄨㄧ</rt></ruby> "bring into play; exert"
+- <ruby>[[発表]]<rt>ㄈㄚㄊㄅ⼘ㄨ</rt></ruby> "announce; publish"
 
 ## Chengyu
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
