@@ -136,6 +136,7 @@ boundedness: 75
 - <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
 - <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
+- <ruby>[[朝鮮人]]<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby> "Joseon person; Korean"
 
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"

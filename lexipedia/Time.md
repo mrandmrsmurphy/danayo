@@ -193,6 +193,7 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 - <ruby>[鶏鳴](../words/鶏鳴.md)<rt>ㄍㄝㄧㄇ⼶ㄫ</rt></ruby>: cock's crow; daybreak; 2 a.m..
 - <ruby>[黄昏](../words/黄昏.md)<rt>ㄏ⺢ㄫㄏㄛㄋ</rt></ruby>: sunset.
 - <ruby>[一刻](../words/一刻.md)<rt>ㄧㄊㄎㄨㄎ</rt></ruby>: a moment; a short time.
+- <ruby>[万代](../words/万代.md)<rt>ㄇㄛㄋㄉㄚㄧ</rt></ruby>: ten thousand generations; forever.
 
 ## Semantic Range Notes
 

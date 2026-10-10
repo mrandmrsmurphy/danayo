@@ -180,9 +180,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 4 + Korean Name ㅂ
 [[憊]]
 
-### Old HSK 4 + Korean Name ㅊ
-[[闡]]
-
 ### Old HSK 4 + SKIP-2-3-6
 [[荔]]
 

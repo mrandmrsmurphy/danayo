@@ -1,7 +1,7 @@
 ---
 language: 単亜語
 ---
-_Some of these must be #neologism s because sounds have chanced over time._
+
 ## 東亜
 
 <ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
