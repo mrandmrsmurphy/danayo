@@ -1000,6 +1000,8 @@ tags: [lookup]
 [賛](../../characters/賛.md)
 [雴](../../characters/雴.md)
 [鴔](../../characters/鴔.md)
+[闡](../../characters/闡.md)
+
 ## Datacheck
 ```base
 version: 1

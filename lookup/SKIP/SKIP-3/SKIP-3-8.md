@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 25
+size: 26
 tags: [lookup]
 
 ---
@@ -18,6 +18,8 @@ Surrounding component has 8 strokes. Dominant component: 門.
 8. [SKIP-3-8-8](lookup/SKIP/SKIP-3/SKIP-3-8-8.md): 䦨, 䦧
 9. [SKIP-3-8-9](lookup/SKIP/SKIP-3/SKIP-3-8-9.md): 闊
 10. [SKIP-3-8-10](lookup/SKIP/SKIP-3/SKIP-3-8-10.md): 闕, 闖, 闘
+11. ø
+12. [SKIP-3-8-12](lookup/SKIP/SKIP-3/SKIP-3-8-12.md): 闡
 
 ## Base check
 ```base

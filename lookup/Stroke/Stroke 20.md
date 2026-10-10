@@ -1,7 +1,7 @@
 ---
 stroke_count: 20
 date-last-perfect: 2026-10-03
-size: 26
+size: 27
 tags:
   - lookup
 ---
@@ -22,6 +22,7 @@ tags:
 - 2-11-9: <ruby>[[響]]<rt>ㄏ⼘ㄫ</rt></ruby>, <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby>
 - 2-12-8: <ruby>[[礬]]<rt>ㄆㄛㄇ</rt></ruby>
 - 2-16-4: <ruby>[[懸 (char)|懸]]<rt>ㄏ⼔ㄋ</rt></ruby>
+- 3-8-12: <ruby>[[闡]]<rt>ㄑㄝㄋ</rt></ruby>
 
 ### Aliases
 

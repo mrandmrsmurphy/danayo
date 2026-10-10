@@ -68,6 +68,7 @@ boundedness: 100
 - <ruby>[[公明]]<rt>ㄍㄛㄫㄇ⼶ㄫ</rt></ruby> "just and open"
 - <ruby>[[克明]]<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby> "discern; meticulous; moral judgment"
 - <ruby>[[彰明]]<rt>ㄑㄚㄫㄇ⼶ㄫ</rt></ruby> "clear; manifest; obvious"
+- <ruby>[[闡明]]<rt>ㄑㄝㄋㄇ⼶ㄫ</rt></ruby> "clarify; expound"
 - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby> "smart"
 - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby> "wise"
 - <ruby>[[発明]]<rt>ㄈㄚㄊㄇ⼶ㄫ</rt></ruby> "invent"

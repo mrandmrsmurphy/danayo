@@ -78,6 +78,8 @@ boundedness: 100
 - <ruby>[[正常]]<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby> "normal, regular, ordinary"
 - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> "square"
 - <ruby>[[訓民正音]]<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation introducing the Korean script"
+- <ruby>[[正当]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> "legitimate; proper"
+
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
