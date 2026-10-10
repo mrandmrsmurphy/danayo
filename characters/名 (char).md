@@ -72,6 +72,7 @@ boundedness: 90
 - <ruby>[[某名]]<rt>ㄇㄛㄨㄇㄧㄫ</rt></ruby> "a certain distinguished person (polite); someone (polite, unspecified)"
 - <ruby>[[毎名]]<rt>ㄇㄛㄧㄇㄧㄫ</rt></ruby> "each distinguished person; per honoured person"
 - <ruby>[[名専字]]<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby> "name-only character"
+- <ruby>[[御名]]<rt>⼄ㄇㄧㄫ</rt></ruby> "the imperial name; the emperor's signature"
 
 ## Chengyu
 - <ruby>[[勿妄称名]]<rt>ㄇㄨㄊㄇㄚㄫㄑㄧㄫㄇㄧㄫ</rt></ruby> "Do not take the name in vain"
