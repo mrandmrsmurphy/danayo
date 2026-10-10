@@ -6,15 +6,18 @@ language: 単亜語
 <ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
 
 ## Famous People
-- <ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>睦<rt>ㄇㄨㄎ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄇㄜ</rt></ruby><ruby>◌<rt>ㄐㄜ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1852–1912, reigned 1867–1912)
-- <ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>嘉<rt>ㄍㄚ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>⼄</rt></ruby><ruby>◌<rt>ㄙㄧ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1879–1926, reigned 1912–1926)
-- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>裕<rt>⼜</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄌㄛ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1901–1989, reigned 1926–1989)
-- <ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄚ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (b. 1933, reigned 1989–2019)
-- <ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>徳<rt>ㄊㄨㄎ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄋㄚ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (b. 1960, reigned 2019–present)
+### Emperors
+- <ruby>[明治](/words/明治.md)<rt>ㄇ⼶ㄫㄑㄧ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>睦<rt>ㄇㄨㄎ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄇㄜ</rt></ruby><ruby>◌<rt>ㄐㄜ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1852–1912, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 1867–1912)
+- <ruby>[大正](/words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>嘉<rt>ㄍㄚ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>⼄</rt></ruby><ruby>◌<rt>ㄙㄧ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1879–1926, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 1912–1926)
+- <ruby>[昭和](/words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>裕<rt>⼜</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄌㄛ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1901–1989, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 1926–1989)
+- <ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄚ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (b. 1933, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 1989–2019)
+- <ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>徳<rt>ㄊㄨㄎ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄋㄚ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (b. 1960, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 2019–present)
+### Prime Ministers
 - Itō Hirobumi <ruby>[[伊]]<rt>ㄧㄜ</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄨㄫ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby>[[文]]) — (1841–1909)
 - Abe Shinzō ([[安]][[倍]][[晋]]<ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>) — (1954–2022)
 - Takaichi Sanae (<ruby>[高](/characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby>[[市]][[早]][[苗]]) — (b. 1961)
-- Tōjō Hideki ([[東]]<ruby>[条](/characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby>[[英]][[characters/机]]) — (1884–1948)
+### Celebrities
+- Tōjō Hideki ([[東]]<ruby>[条](/characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby>[[英]][[机]]) — (1884–1948)
 - Yamamoto Isoroku (<ruby>[山本](/words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby><ruby>[五](/characters/五%20(char).md)<rt>ㄛ</rt></ruby>十六) — (1884–1943)
 - Katsushika Hokusai ([[葛]][[飾]][[北]][[斎]]) — (1760–1849, but enduring influence)
 - Natsume Sōseki ([[夏]][[目]][[漱]][[石]]) — (1867–1916)

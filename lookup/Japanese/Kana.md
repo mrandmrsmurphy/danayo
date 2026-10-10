@@ -82,16 +82,17 @@ The じゃ and ちゃ rows drop the glide because ㄐ cannot take a y on-glide, 
 
 ## Long vowels
 
-Long vowels violate Dan'a'yo phonotactics, so they are written with workarounds that fit the allowed long-vowel shapes (iy and uw):
+Long vowels violate Dan'a'yo phonotactics, so they are written with workarounds. A doubled ㄚㄚ or ㄝㄝ would need a glottal stop between the vowels, so long a and long e are truncated to a single vowel.
 
 | Japanese | 注音 | Note |
 |---|---|---|
-| おう | ㄛㄨ | mirrors the Japanese spelling |
-| うう (long u) | ㄨㄛ | a workaround; the first vowel is the cardinal ㄨ |
-| いい (long i) | ㄧㄜ | a workaround |
+| ああ, ー after a | ㄚ | truncated |
+| ええ, ー after e | ㄝ | truncated |
+| えい | ㄝㄧ | mirrors the Japanese spelling |
+| おう, おお, ー after o | ㄛㄨ | mirrors the Japanese spelling |
+| うう, ー after u | ㄨㄛ | a workaround; the first vowel is the cardinal ㄨ |
+| いい, ー after i | ㄧㄜ | a workaround |
 
-## Not yet decided
+## ん before a vowel or glide
 
-- The other long vowels (ああ, ええ/えい, おお, and ー after each vowel).
-- Extended kana for foreign sounds (ファ, ティ, ウィ, ヴァ and the rest).
-- ん before a vowel or ya/yu/yo (e.g. きんえん, ほんや).
+A ん followed by a syllable with no onset (a vowel, or ya/yu/yo) is written ㄋ with the syllable-boundary dot ·, so it is not read as the onset of the next syllable: きんえん → ㄎㄧㄋ·ㄝㄋ, ほんや → ㄏㄛㄋ·⼘.
