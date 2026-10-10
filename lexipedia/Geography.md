@@ -7,9 +7,7 @@ _Some of these must be #neologism s because sounds have chanced over time._
 <ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
-  - <ruby>[東京](../words/東京.md)<rt>ㄉㄛㄫㄍ⼶ㄫ</rt></ruby>: Tokyo, the capital of Japan — lit. "eastern capital."
-  - <ruby>[鎌倉](../words/鎌倉.md)<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby>: Kamakura, the coastal city south of Tokyo that was the seat of the first Japanese shogunate (1185–1333).
-- <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
+  - Japan-specific places, clans and companies are on [Japan](Japan.md).
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
   - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
@@ -32,14 +30,6 @@ Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚ�
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.
 - <ruby>[鄭国](../words/鄭国.md)<rt>ㄐㄝㄫㄍㄛㄎ</rt></ruby>: Zheng, a minor state of the Zhou period in what is now Henan, whose "Airs of Zheng" survive in the 詩経 and whose name gave the surname 鄭; a historical state, not a modern country.
 - <ruby>[蜀国](../words/蜀国.md)<rt>ㄙㄛㄎㄍㄛㄎ</rt></ruby>: Shu, the kingdom centred on the Sichuan basin — the generic name for several historical states there (the early Shu conquered by Qin, Shu-Han of the Three Kingdoms, and the Five Dynasties Shu kingdoms); a historical state, not a modern country.
-- <ruby>[愛媛](../words/愛媛.md)<rt>ㄚㄧㄛㄋ</rt></ruby>: Ehime, a prefecture of [[日本]] on the island of Shikoku.
-- <ruby>[栃木](../words/栃木.md)<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby>: Tochigi, a prefecture of [[日本]] in the Kantō region north of Tokyo, whose capital is Utsunomiya and which contains Nikkō; named for the horse-chestnut tree (栃) written with a Japan-made character.
-- <ruby>[秋田](../words/秋田.md)<rt>ㄑㄨㄛㄉㄝㄋ</rt></ruby>: Akita, a prefecture of [[日本]] in the Tōhoku region on the Sea of Japan coast of northern Honshu, and its capital; written "autumn field" and known for rice.
-- <ruby>[安土](../words/安土.md)<rt>ㄚㄋㄊㄛ</rt></ruby>: Azuchi, a hill on the eastern shore of Lake Biwa in Shiga Prefecture, site of Oda Nobunaga's Azuchi Castle (begun 1576); a native Japanese place name read あづち.
-- <ruby>[室町](../words/室町.md)<rt>ㄙㄧㄊㄊㄝㄫ</rt></ruby>: Muromachi, the Kyoto district of the Ashikaga shoguns' residence, which gave its name to the Muromachi period (1336–1573); a native Japanese place name read むろまち.
-- <ruby>[桃山](../words/桃山.md)<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby>: Momoyama, a hill in the Fushimi area of southern Kyoto where Toyotomi Hideyoshi built Fushimi Castle in 1594; it lent its name to the Momoyama period, though the name is younger than the period it names.
-- <ruby>[江戸](../words/江戸.md)<rt>ㄍㄚㄫㄏㄛ</rt></ruby>: Edo, the castle town that Tokugawa Ieyasu made his base in 1590 and the seat of the shogunate from 1603, and one of the largest cities in the world by the eighteenth century; the name is first attested in the Azuma Kagami.
-- <ruby>[徳川](../words/徳川.md)<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby>: Tokugawa, the clan that ruled Japan as shoguns from 1603 to 1868, a branch of the Matsudaira; read とくがわ with rendaku in がわ.
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, including specific named rivers such as the <ruby>[江戸川](words/江戸川.md)<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> (Edo River) forming part of the Tokyo–Chiba border and the <ruby>[瀧川](words/瀧川.md)<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby> (Takigawa, "waterfall river," also a Japanese surname).  
@@ -277,8 +267,6 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 
 - <ruby>[他郷](../words/他郷.md)<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby>: foreign land.
 - <ruby>[偪陽](../words/偪陽.md)<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby>: Fuyang.
-- <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
-- <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
 - <ruby>[欧羅巴](../words/欧羅巴.md)<rt>ㄛㄨㄌㄛ·ㄆㄚ</rt></ruby>: Europe; Europa; EU.
 - <ruby>[水原](../words/水原.md)<rt>ㄙㄨ⼔ㄋ</rt></ruby>: Suwon; Mizuhara.
 - <ruby>[江南](../words/江南.md)<rt>ㄍㄚㄫㄋㄚㄇ</rt></ruby>: south river; Gangnam.
@@ -311,7 +299,6 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[露国](../words/露国.md)<rt>ㄌㄛㄍㄛㄎ</rt></ruby>: Russia.
 - <ruby>[韓江](../words/韓江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
 - <ruby>[香港](../words/香港.md)<rt>ㄏ⼘ㄫㄏㄛㄫ</rt></ruby>: Hong Kong.
-- <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
 - <ruby>[魏国](../words/魏国.md)<rt>ㄝㄍㄛㄎ</rt></ruby>: Wei kingdom.
-- <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: the world; all under heaven.
+- <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku; the world; all under heaven.

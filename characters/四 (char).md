@@ -74,7 +74,7 @@ boundedness: 75
 - <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
 - <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 - <ruby>[[第四]]<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby> "fourth"
-- <ruby>[[四国]]<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby> "the world; all under heaven"
+- <ruby>[[四国]]<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby> "Shikoku; the world; all under heaven"
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> "surrounded by the singing of Chu"

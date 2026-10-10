@@ -1,9 +1,14 @@
 ---
-aliases:
 language: 単亜語
+type: lexipedia
+domain: Japan
+related_domains:
+  - "[[Geography]]"
+  - "[[Government]]"
+  - "[[Society]]"
+status: partial
 ---
-
-<ruby>日本<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
+<ruby>[日本](../words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>: Japan. This page gathers vocabulary that is specific to Japan: its places, clans and surnames, and companies. Words shared across the Sinosphere stay in their own domains, such as [Geography](Geography.md) and [Government](Government.md).
 
 ## <ruby>[有名](/words/有名.md)<rt>⼜·ㄇㄧㄫ</rt></ruby><ruby>[人](/words/人.md)<rt>ㄋㄧㄋ</rt></ruby>
 ### <ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby>
@@ -23,3 +28,34 @@ language: 単亜語
 - <ruby>夏<rt>ㄏ⼘</rt></ruby><ruby>目<rt>ㄇㄨㄎ</rt></ruby><ruby>漱<rt>ㄙㄛㄨ</rt></ruby><ruby>石<rt>ㄙㄝㄎ</rt></ruby>/<ruby>◌<rt>ㄋㄚ</rt></ruby><ruby>◌<rt>ㄐㄜ</rt></ruby><ruby>◌<rt>ㄇㄝ</rt></ruby><ruby>◌<rt>ㄙㄛㄨ</rt></ruby><ruby>◌<rt>ㄙㄝ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby> — (1867–1916)
 - <ruby>宮<rt>ㄍㄨㄫ</rt></ruby><ruby>埼<rt>ㄎㄧㄜ</rt></ruby><ruby>俊<rt>ㄐㄨㄋ</rt></ruby>/<ruby>◌<rt>ㄇ⼘</rt></ruby><ruby>◌<rt>ㄐㄚ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby><ruby>◌<rt>ㄏㄚ</rt></ruby><ruby>◌<rt>⼘</rt></ruby><ruby>◌<rt>ㄛ</rt></ruby> — (1941<ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby>)
 - <ruby>黒<rt>ㄏㄨㄎ</rt></ruby><ruby>沢<rt>ㄉㄚㄎ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby>/<ruby>◌<rt>ㄎㄜ</rt></ruby><ruby>◌<rt>ㄌㄛ</rt></ruby><ruby>◌<rt>ㄙㄚ</rt></ruby><ruby>◌<rt>⺢</rt></ruby><ruby>◌<rt>ㄚ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby><ruby>◌<rt>ㄌㄚ</rt></ruby> — (1910–1998)
+
+## Places
+### Prefectures
+- <ruby>[愛媛](../words/愛媛.md)<rt>ㄚㄧㄛㄋ</rt></ruby>: Ehime, a prefecture of [[日本]] on the island of <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>.
+- <ruby>[栃木](../words/栃木.md)<rt>ㄌㄝㄎㄇㄛㄎ</rt></ruby>: Tochigi, a prefecture of [[日本]] in the Kantō region north of Tokyo, whose capital is Utsunomiya and which contains Nikkō; named for the horse-chestnut tree (栃) written with a Japan-made character.
+- <ruby>[秋田](../words/秋田.md)<rt>ㄑㄨㄛㄉㄝㄋ</rt></ruby>: Akita, a prefecture of [[日本]] in the Tōhoku region on the Sea of Japan coast of northern Honshu, and its capital; written "autumn field" and known for rice.
+
+### Islands and regions
+- <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku, the smallest of the four main islands of Japan, and also "the world; all under heaven."
+
+### Cities and districts
+- <ruby>[東京](../words/東京.md)<rt>ㄉㄛㄫㄍ⼶ㄫ</rt></ruby>: Tokyo, the capital of Japan — lit. "eastern capital."
+- <ruby>[鎌倉](../words/鎌倉.md)<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby>: Kamakura, the coastal city south of Tokyo that was the seat of the first Japanese shogunate (1185–1333).
+- <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
+- <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
+- <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
+
+### Historical places
+- <ruby>[江戸](../words/江戸.md)<rt>ㄍㄚㄫㄏㄛ</rt></ruby>: Edo, the castle town that Tokugawa Ieyasu made his base in 1590 and the seat of the shogunate from 1603, and one of the largest cities in the world by the eighteenth century; the name is first attested in the Azuma Kagami.
+- <ruby>[安土](../words/安土.md)<rt>ㄚㄋㄊㄛ</rt></ruby>: Azuchi, a hill on the eastern shore of Lake Biwa in Shiga Prefecture, site of Oda Nobunaga's Azuchi Castle (begun 1576); a native Japanese place name read あづち.
+- <ruby>[室町](../words/室町.md)<rt>ㄙㄧㄊㄊㄝㄫ</rt></ruby>: Muromachi, the Kyoto district of the Ashikaga shoguns' residence, which gave its name to the Muromachi period (1336–1573); a native Japanese place name read むろまち.
+- <ruby>[桃山](../words/桃山.md)<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby>: Momoyama, a hill in the Fushimi area of southern Kyoto where Toyotomi Hideyoshi built Fushimi Castle in 1594; it lent its name to the Momoyama period, though the name is younger than the period it names.
+- <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
+
+## Clans and Surnames
+- <ruby>[徳川](../words/徳川.md)<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby>: Tokugawa, the clan that ruled Japan as shoguns from 1603 to 1868, a branch of the Matsudaira; read とくがわ with rendaku in がわ.
+- <ruby>[山本](../words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby>: Yamamoto.
+
+## Companies
+- <ruby>[三菱](../words/三菱.md)<rt>ㄙㄚㄇㄌㄜㄫ</rt></ruby>: Mitsubishi, the Japanese industrial group.
+- <ruby>[東芝](../words/東芝.md)<rt>ㄉㄛㄫㄐㄧ</rt></ruby>: Toshiba, the Japanese electronics corporation — a proper company name (a contraction of 東京芝浦電気), placed here as the one named firm among the general business words.

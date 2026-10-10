@@ -68,3 +68,4 @@ Most of these lists are intended for authors, sometimes of science-fiction and o
 * [Geography](lexipedia/Geography.md)
 * [Calendar](lexipedia/Calendar.md)
 * [Periodic Table](lexipedia/Periodic%20Table.md)
+* [Japan](lexipedia/Japan.md)

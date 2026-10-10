@@ -366,7 +366,6 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[倶楽部](../words/倶楽部.md)<rt>ㄍㄨㄌㄚㄎㄅㄛㄨ</rt></ruby>: club.
 - <ruby>[出生率](../words/出生率.md)<rt>ㄑㄨㄊㄙㄚㄫㄌㄨㄊ</rt></ruby>: birth rate; natality.
 - <ruby>[小川](../words/小川.md)<rt>ㄙㄛㄑ⺢ㄋ</rt></ruby>: Ogawa.
-- <ruby>[山本](../words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby>: Yamamoto.
 - <ruby>[徽章](../words/徽章.md)<rt>ㄏㄨㄧㄐㄚㄫ</rt></ruby>: badge; insignia; emblem.
 - <ruby>[洋鬼子](../words/洋鬼子.md)<rt>⼘ㄫㄍㄨㄧㄐㄜ</rt></ruby>: white devil; western demon.
 - <ruby>[為人](../words/為人.md)<rt>⼔ㄋㄋㄧㄋ</rt></ruby>: behave; conduct oneself.

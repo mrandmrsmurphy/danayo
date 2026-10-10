@@ -41,7 +41,7 @@ language: 単亜語
 呉世昌오서창 呉華英오화엉 鄭春洙청춘주 崔聖模최싱모 崔　麟최 린  
 韓龍雲한룡운 洪秉箕홍빙기 洪其兆
 
-### Original Korean
+###  Korean
 
 <ruby>宣言書<rt>선언서</rt></ruby>
 
