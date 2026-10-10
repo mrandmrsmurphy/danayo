@@ -30,7 +30,7 @@ graphemic_classification: 指事
 stand_in: 一
 date-last-perfect: 2026-09-16
 注音: ㄧㄊ
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 90

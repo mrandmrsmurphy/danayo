@@ -34,7 +34,7 @@ graphemic_classification: 象形
 stand_in: 勿
 aliases:
 注音: ㄇㄨㄊ
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 65

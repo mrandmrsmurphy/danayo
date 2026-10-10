@@ -34,7 +34,7 @@ aliases:
   - 𠥱
 注音: ⼔ㄊ
 date-last-perfect: 2026-09-16
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 80

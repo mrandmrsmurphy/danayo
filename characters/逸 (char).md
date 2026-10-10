@@ -38,7 +38,7 @@ aliases:
   - 𨓜
   - 佚
 注音: "ㄧㄊ"
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 30

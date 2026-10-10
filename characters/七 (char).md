@@ -34,7 +34,7 @@ aliases:
   - 桼
 注音: ㄑㄧㄊ
 date-last-perfect: 2026-09-17
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 75

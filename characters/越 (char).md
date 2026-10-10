@@ -39,7 +39,7 @@ stand_in: 越
 aliases:
 注音: ⼔ㄊ
 date-last-perfect: 2026-08-05
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 90

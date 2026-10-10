@@ -36,7 +36,7 @@ stand_in: "辣"
 aliases:
   - 辢
 注音: "ㄌㄚㄊ"
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 90

@@ -33,7 +33,7 @@ stand_in: 骨
 aliases:
 注音: ㄍㄛㄊ
 date-last-perfect: 2026-07-20
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 20
