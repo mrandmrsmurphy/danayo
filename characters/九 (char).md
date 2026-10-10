@@ -64,6 +64,7 @@ boundedness: 75
 - <ruby>[[九尾狐]]<rt>ㄎ⼜·ㄇㄨㄧㄏㄛ</rt></ruby> "nine-tailed fox"
 - <ruby>[[九州]]<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby> "Nine Provinces, Kyushu"
 - <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
+- <ruby>[[九千]]<rt>ㄎ⼜ㄑㄝㄋ</rt></ruby> "nine thousand"
 
 ## Derived Characters
 - <ruby>[[鳩]]<rt>ㄎ⼜</rt></ruby> "pigeon"

@@ -65,6 +65,7 @@ boundedness: 75
 - <ruby>[[三角法]]<rt>ㄙㄚㄇㄍㄛㄎㄈㄚㄆ</rt></ruby> "trigonometry"
 - <ruby>[三角形](/words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> "triangle"
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
+- <ruby>[[三千]]<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> "three thousand"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

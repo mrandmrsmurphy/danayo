@@ -77,6 +77,7 @@ Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 
 - <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
 - <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
 - <ruby>[二千](../words/二千.md)<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby>: two thousand.
+- <ruby>[三千](../words/三千.md)<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> / <ruby>[四千](../words/四千.md)<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby> / <ruby>[五千](../words/五千.md)<rt>ㄛㄑㄝㄋ</rt></ruby> / <ruby>[六千](../words/六千.md)<rt>ㄌㄨㄎㄑㄝㄋ</rt></ruby> / <ruby>[九千](../words/九千.md)<rt>ㄎ⼜ㄑㄝㄋ</rt></ruby>: three/four/five/six/nine thousand.
 - <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
 - <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
 - <ruby>[阿僧祇](../words/阿僧祇.md)<rt>ㄚㄙㄜㄫㄍㄧ</rt></ruby>: asankhyeya — the Buddhist "incalculable," an immeasurably vast number (Sanskrit असङ्ख्येय).

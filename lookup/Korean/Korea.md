@@ -36,15 +36,15 @@ language: 単亜語
 - <ruby>三<rt>ㄙㄚㄇ</rt></ruby>: <ruby>一切<rt>ㄧㄊㄑㄝㄊ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>行動<rt>ㄏㄚㄫㄉㄛㄫ</rt></ruby>은 가장 <ruby>秩序<rt>ㄉㄧㄊㄙ⼄</rt></ruby>를 <ruby>尊重<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby>하야 <ruby>我等<rt>ㄚㄉㄨㄫ</rt></ruby><ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>主張<rt>ㄐㄨㄑㄚㄫ</rt></ruby>과 <ruby>態度<rt>ㄊㄚㄧㄉㄛ</rt></ruby>로 하야금 어대ᄭᅡ지던지 <ruby>光明<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>正大<rt>ㄐㄧㄫㄉㄚㄧ</rt></ruby>하게 하라
 
   
-<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>建国<rt>ㄍㄝㄋㄍㄛㄎ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>千<rt>ㄑㄝㄋ</rt></ruby><ruby>二百<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>年<rt>ㄋㄝㄋ</rt></ruby><ruby>三月<rt>ㄙㄚㄇ⼔ㄊ</rt></ruby><ruby>一日<rt>ㄧㄊㄋㄧㄊ</rt></ruby> 　<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>代表<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>
+<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>建国<rt>ㄍㄝㄋㄍㄛㄎ</rt></ruby><ruby>四千<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby><ruby>二百<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>年<rt>ㄋㄝㄋ</rt></ruby><ruby>三月<rt>ㄙㄚㄇ⼔ㄊ</rt></ruby><ruby>一日<rt>ㄧㄊㄋㄧㄊ</rt></ruby> 　<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>代表<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>
 
-孫秉熙손빙히 吉善宙긷션줏 李弼柱리빋주 白龍城박룡싱 金完圭김환궤  
-金秉祚김빙조 金昌俊김창준 権東鎮권동친 権秉徳권빙둑 羅龍煥로룡환^  
-羅仁協로닌헙 梁旬伯량슌박 梁漢黙량한묵 劉如大류뇨대 李甲成리갑싱  
-李明龍리명룡 李昇薫리숭훈 李鍾勲리종훈 李鍾一리종읻 林礼煥림레환  
-朴準承팍준숭 朴熙道팍히닷 朴東完팍동환 申洪植선홍식 申錫九선석규  
-呉世昌오서창 呉華英오화엉 鄭春洙청춘주 崔聖模최싱모 崔　麟최 린  
-韓龍雲한룡운 洪秉箕홍빙기 洪其兆
+<ruby>孫<rt>ㄙㄛㄋ</rt></ruby><ruby>秉<rt>ㄅㄧㄫ</rt></ruby><ruby>熙<rt>ㄏㄧ</rt></ruby> <ruby>吉<rt>ㄍㄧㄊ</rt></ruby><ruby>善<rt>ㄙ⼶ㄋ</rt></ruby><ruby>宙<rt>ㄐㄨㄛ</rt></ruby> <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>弼<rt>ㄅㄧㄊ</rt></ruby><ruby>柱<rt>ㄐㄨ</rt></ruby> <ruby>白<rt>ㄅㄚㄎ</rt></ruby><ruby>龍<rt>ㄌ⼄ㄫ</rt></ruby><ruby>城<rt>ㄙㄧㄫ</rt></ruby> <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>完<rt>ㄏ⺢ㄋ</rt></ruby><ruby>圭<rt>ㄍ⼔ㄧ</rt></ruby>  
+<ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>秉<rt>ㄅㄧㄫ</rt></ruby><ruby>祚<rt>ㄐㄛ</rt></ruby> <ruby>金<rt>ㄍㄧㄇ</rt></ruby><ruby>昌<rt>ㄑ⺢ㄫ</rt></ruby><ruby>俊<rt>ㄐㄨㄋ</rt></ruby> <ruby>権<rt>ㄍ⼔ㄋ</rt></ruby><ruby>東<rt>ㄉㄛㄫ</rt></ruby><ruby>鎮<rt>ㄑㄧㄋ</rt></ruby> <ruby>権<rt>ㄍ⼔ㄋ</rt></ruby><ruby>秉<rt>ㄅㄧㄫ</rt></ruby><ruby>徳<rt>ㄊㄨㄎ</rt></ruby> <ruby>羅<rt>ㄌㄛ</rt></ruby><ruby>龍<rt>ㄌ⼄ㄫ</rt></ruby><ruby>煥<rt>ㄏ⺢ㄋ</rt></ruby>  
+<ruby>羅<rt>ㄌㄛ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby><ruby>協<rt>ㄏㄝㄆ</rt></ruby> <ruby>梁<rt>ㄌ⼘ㄫ</rt></ruby><ruby>旬<rt>ㄙ⼜ㄋ</rt></ruby><ruby>伯<rt>ㄅㄚㄎ</rt></ruby> <ruby>梁<rt>ㄌ⼘ㄫ</rt></ruby><ruby>漢<rt>ㄏㄚㄋ</rt></ruby><ruby>黙<rt>ㄇㄨㄎ</rt></ruby> <ruby>劉<rt>ㄌ⼜</rt></ruby><ruby>如<rt>ㄋ⼄</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby> <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>甲<rt>ㄍㄚㄆ</rt></ruby><ruby>成<rt>ㄙㄧㄫ</rt></ruby>  
+<ruby>李<rt>ㄌㄧ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>龍<rt>ㄌ⼄ㄫ</rt></ruby> <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>昇<rt>ㄙㄨㄫ</rt></ruby><ruby>薫<rt>ㄏㄨㄋ</rt></ruby> <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>鍾<rt>ㄐㄛㄫ</rt></ruby><ruby>勲<rt>ㄏㄨㄋ</rt></ruby> <ruby>李<rt>ㄌㄧ</rt></ruby><ruby>鍾<rt>ㄐㄛㄫ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby> <ruby>林<rt>ㄌㄧㄇ</rt></ruby><ruby>礼<rt>ㄌㄝㄧ</rt></ruby><ruby>煥<rt>ㄏ⺢ㄋ</rt></ruby>  
+<ruby>朴<rt>ㄆㄚㄎ</rt></ruby><ruby>準<rt>ㄐㄨㄋ</rt></ruby><ruby>承<rt>ㄙㄨㄫ</rt></ruby> <ruby>朴<rt>ㄆㄚㄎ</rt></ruby><ruby>熙<rt>ㄏㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> <ruby>朴<rt>ㄆㄚㄎ</rt></ruby><ruby>東<rt>ㄉㄛㄫ</rt></ruby><ruby>完<rt>ㄏ⺢ㄋ</rt></ruby> <ruby>申<rt>ㄙㄝㄋ</rt></ruby><ruby>洪<rt>ㄏㄛㄫ</rt></ruby><ruby>植<rt>ㄙㄧㄎ</rt></ruby> <ruby>申<rt>ㄙㄝㄋ</rt></ruby><ruby>錫<rt>ㄙㄝㄎ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby>  
+<ruby>呉<rt>ㄛ</rt></ruby><ruby>世<rt>ㄙㄝ</rt></ruby><ruby>昌<rt>ㄑ⺢ㄫ</rt></ruby> <ruby>呉<rt>ㄛ</rt></ruby><ruby>華<rt>ㄏ⺢</rt></ruby><ruby>英<rt>ㄝㄫ</rt></ruby> <ruby>鄭<rt>ㄐㄝㄫ</rt></ruby><ruby>春<rt>ㄑㄨㄋ</rt></ruby><ruby>洙<rt>ㄙㄨ</rt></ruby> <ruby>崔<rt>ㄑㄛㄧ</rt></ruby><ruby>聖<rt>ㄙㄧㄫ</rt></ruby><ruby>模<rt>ㄇㄛ</rt></ruby> <ruby>崔<rt>ㄑㄛㄧ</rt></ruby>　<ruby>麟<rt>ㄌㄧㄋ</rt></ruby>   
+<ruby>韓<rt>ㄏㄚㄋ</rt></ruby><ruby>龍<rt>ㄌ⼄ㄫ</rt></ruby><ruby>雲<rt>ㄨㄋ</rt></ruby> <ruby>洪<rt>ㄏㄛㄫ</rt></ruby><ruby>秉<rt>ㄅㄧㄫ</rt></ruby><ruby>箕<rt>ㄍㄧ</rt></ruby> <ruby>洪<rt>ㄏㄛㄫ</rt></ruby><ruby>其<rt>ㄍㄜ</rt></ruby><ruby>兆<rt>ㄐㄚㄨ</rt></ruby>
 
 ###  Korean
 

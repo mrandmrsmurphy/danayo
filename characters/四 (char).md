@@ -75,6 +75,7 @@ boundedness: 75
 - <ruby>[[四捨五入]]<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby> "rounding"
 - <ruby>[[第四]]<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby> "fourth"
 - <ruby>[[四国]]<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby> "Shikoku; the world; all under heaven"
+- <ruby>[[四千]]<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby> "four thousand"
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> "surrounded by the singing of Chu"
