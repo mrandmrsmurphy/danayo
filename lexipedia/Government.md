@@ -268,6 +268,7 @@ Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chie
 - <ruby>[御璽](../words/御璽.md)<rt>⼄ㄙㄝ</rt></ruby>: the imperial seal.
 - <ruby>[御名](../words/御名.md)<rt>⼄ㄇㄧㄫ</rt></ruby>: the imperial name; the emperor's signature.
 - <ruby>[総理](../words/総理.md)<rt>ㄐㄛㄫㄌㄧ</rt></ruby>: premier; prime minister.
+- <ruby>[大統領](../words/大統領.md)<rt>ㄉㄚㄧㄊㄛㄫㄌㄧㄫ</rt></ruby>: president.
 
 ## Semantic Range Notes
 
