@@ -52,6 +52,7 @@ boundedness: 65
 ## Words
 - <ruby>[[借]]<rt>ㄐㄚ</rt></ruby> "to borrow; lend" (stand-in for 借)
 - <ruby>[[仮借]]<rt>ㄍㄚㄐㄚ</rt></ruby> "to make use of; borrow"
+- <ruby>[[借鑑]]<rt>ㄐㄚㄍㄚㄇ</rt></ruby> "draw lessons from; learn from"
 
 ## Derived Characters
 - <ruby>[[措]]<rt>ㄑㄛ</rt></ruby> "to arrange"

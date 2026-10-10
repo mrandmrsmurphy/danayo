@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[爾]]<rt>ㄋㄝ</rt></ruby> "yes" (stand-in for 爾)
 - <ruby>[[偶爾]]<rt>ㄛㄨㄋㄝ</rt></ruby> "by accident; perchance"
 - <ruby>[[愛爾蘭]]<rt>ㄚㄧㄋㄝㄌㄚㄋ</rt></ruby> "Ireland"
+- <ruby>[[爾等]]<rt>ㄋㄝㄉㄨㄫ</rt></ruby> "ye; you all"
 
 ## Derived Characters
 - <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> "thou; one's deceased father"

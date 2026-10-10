@@ -274,6 +274,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[麟史](../words/麟史.md)<rt>ㄌㄧㄋㄙㄧ</rt></ruby>: the Spring and Autumn Annals (alternative name).
 - <ruby>[麟経](../words/麟経.md)<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby>: the Spring and Autumn Annals (alternative name).
 - <ruby>[黒板](../words/黒板.md)<rt>ㄏㄨㄎㄆㄚㄋ</rt></ruby>: blackboard.
+- <ruby>[借鑑](../words/借鑑.md)<rt>ㄐㄚㄍㄚㄇ</rt></ruby>: draw lessons from; learn from.
 
 ## Semantic Range Notes
 

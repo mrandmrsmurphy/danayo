@@ -67,3 +67,4 @@ boundedness: 75
 - <ruby>[[同等]]<rt>ㄉㄛㄫㄉㄨㄫ</rt></ruby> "equal, equivalent"
 - <ruby>[[優等]]<rt>ㄨㄛㄉㄨㄫ</rt></ruby> "excellent grade"
 - <ruby>[[劣等]]<rt>ㄌㄝㄊㄉㄨㄫ</rt></ruby> "inferior grade"
+- <ruby>[[爾等]]<rt>ㄋㄝㄉㄨㄫ</rt></ruby> "ye; you all"
