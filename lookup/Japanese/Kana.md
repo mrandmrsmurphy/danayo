@@ -93,6 +93,10 @@ Long vowels violate Dan'a'yo phonotactics, so they are written with workarounds.
 | うう, ー after u | ㄨㄛ | a workaround; the first vowel is the cardinal ㄨ |
 | いい, ー after i | ㄧㄜ | a workaround |
 
+## Diphthongs
+
+い after a vowel is the off-glide ㄧ, and う after a vowel is the off-glide ㄨ, so Japanese ai is ㄚㄧ (たかいち → ㄊㄚ ㄎㄚㄧ ㄐㄧ, ほくさい → ㄏㄛ ㄎㄜ ㄙㄚㄧ). This is the same pattern as おう (ㄛㄨ) and えい (ㄝㄧ) above.
+
 ## ん before a vowel or glide
 
 A ん followed by a syllable with no onset (a vowel, or ya/yu/yo) is written ㄋ with the syllable-boundary dot ·, so it is not read as the onset of the next syllable: きんえん → ㄎㄧㄋ·ㄝㄋ, ほんや → ㄏㄛㄋ·⼘.

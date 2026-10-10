@@ -78,6 +78,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[爵位](../words/爵位.md)<rt>ㄐㄚㄎ·⼔ㄧ</rt></ruby>: a peerage, title of nobility.
 - <ruby>[男爵](../words/男爵.md)<rt>ㄋㄚㄇㄐㄚㄎ</rt></ruby>: a baron — the lowest of the Five Ranks of Nobility (五等爵).
 - <ruby>[封](../words/封.md)<rt>ㄈㄛㄫ</rt></ruby>: to enfeoff — to grant land together with lordship over it, the feudal system (封建, "enfeoffment and establishment," the source of 封建制度, "feudalism"); a separate, newer sense means "to seal, close" (a letter, container), also the counter for letters (一封信, "one letter").
+- <ruby>[玉音](../words/玉音.md)<rt>⼄ㄎ·ㄨㄇ</rt></ruby>: voice of the emperor — the honorific for an emperor's spoken words.
 
 ### Officials & Bureaucracy
 
