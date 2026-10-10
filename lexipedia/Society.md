@@ -251,6 +251,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[令聞](../words/令聞.md)<rt>ㄌㄝㄫㄇㄨㄋ</rt></ruby>: a good name, reputation (literary register).
 - <ruby>[光栄](../words/光栄.md)<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby>: honorable, glorious.
 - <ruby>[栄辱](../words/栄辱.md)<rt>ㄨㄧㄫㄋㄛㄎ</rt></ruby>: honor and disgrace — reputation, for better or worse.
+- <ruby>[人物](../words/人物.md)<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby>: figure, personage — a person considered as a notable individual; also a character in a story.
 
 ### Shame & Disgrace
 

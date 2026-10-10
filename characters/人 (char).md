@@ -135,6 +135,8 @@ boundedness: 75
 - <ruby>[[外人]]<rt>⺢ㄧㄋㄧㄋ</rt></ruby> "stranger, outsider"
 - <ruby>[[移住者]]<rt>⼶ㄧㄐㄨㄑㄚ</rt></ruby> "immigrant, migrant"
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
+- <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
+
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"
 - <ruby>[[造人像形]]<rt>ㄑㄚㄨㄋㄧㄋㄙ⼘ㄫㄏㄝㄫ</rt></ruby> "Create man (in our) image (and) likeness"

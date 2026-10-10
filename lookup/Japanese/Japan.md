@@ -13,10 +13,10 @@ language: 単亜語
 - <ruby>[平成](/words/平成.md)<rt>ㄅ·ㄝㄫㄙㄧㄫ</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄚ</rt></ruby><ruby>◌<rt>ㄎㄧ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1933<ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 1989–2019)
 - <ruby>[令和](/words/令和.md)<rt>ㄌㄝㄫㄏ⺢</rt></ruby><ruby>[天皇](/words/天皇.md)<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> / <ruby>徳<rt>ㄊㄨㄎ</rt></ruby><ruby>仁<rt>ㄋㄧㄋ</rt></ruby>/<ruby>◌<rt>ㄋㄚ</rt></ruby><ruby>◌<rt>ㄌㄜ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄊㄛ</rt></ruby> — (1960<ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[統治](/words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> 2019–<ruby>[今](/words/今.md)<rt>ㄍㄧㄇ</rt></ruby>)
 ### <ruby>[宰相](/words/宰相.md)<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>
-- Itō Hirobumi <ruby>[[伊]]<rt>ㄧㄜ</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄨㄫ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby>[[文]]) — (1841–1909)
-- Abe Shinzō ([[安]][[倍]][[晋]]<ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>) — (1954–2022)
-- Takaichi Sanae (<ruby>[高](/characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby>[[市]][[早]][[苗]]) — (1961<ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby>)
-### Celebrities
+- <ruby>[伊](/characters/伊.md)<rt>ㄧㄜ</rt></ruby><ruby>[藤](/characters/藤.md)<rt>ㄉㄜㄫ</rt></ruby><ruby>[博](/characters/博.md)<rt>ㄅㄚㄎ</rt></ruby><ruby>[文](/characters/文.md)<rt>ㄇㄨㄋ</rt></ruby>/<ruby>◌<rt>ㄧ</rt></ruby><ruby>◌<rt>ㄊㄛㄨ</rt></ruby><ruby>◌<rt>ㄏㄧ</rt></ruby><ruby>◌<rt>ㄌㄛ</rt></ruby><ruby>◌<rt>ㄅㄜ</rt></ruby><ruby>◌<rt>ㄇㄧ</rt></ruby> — (1841–1909)
+- <ruby>[安](/characters/安.md)<rt>ㄚㄋ</rt></ruby><ruby>[倍](/characters/倍%20(char).md)<rt>ㄅㄚㄧ</rt></ruby><ruby>[晋](/characters/晋.md)<rt>ㄐㄧㄋ</rt></ruby><ruby>[三](/words/三.md)<rt>ㄙㄚㄇ</rt></ruby>/<ruby>◌<rt>ㄚ</rt></ruby><ruby>◌<rt>ㄅㄝ</rt></ruby><ruby>◌<rt>ㄙㄧㄋ</rt></ruby><ruby>◌<rt>ㄐㄛㄨ</rt></ruby> — (1954–2022)
+- <ruby>[高](/characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby><ruby>[市](/characters/市.md)<rt>ㄙㄧ</rt></ruby><ruby>[早](/characters/早%20(char).md)<rt>ㄐㄚㄨ</rt></ruby><ruby>[苗](/characters/苗.md)<rt>ㄇ⼘ㄨ</rt></ruby>/<ruby>◌<rt>ㄊㄚ</rt></ruby><ruby>◌<rt>ㄎㄚ</rt></ruby><ruby>◌<rt>ㄧ</rt></ruby><ruby>◌<rt>ㄐㄧ</rt></ruby><ruby>◌<rt>ㄙㄚ</rt></ruby><ruby>◌<rt>ㄋㄚ</rt></ruby><ruby>◌<rt>ㄝ</rt></ruby> — (1961<ruby>[生](/characters/生.md)<rt>ㄙㄚㄫ</rt></ruby>)
+### <ruby>[人物](/words/人物.md)<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby>
 - Tōjō Hideki ([[東]]<ruby>[条](/characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby>[[英]][[机]]) — (1884–1948)
 - Yamamoto Isoroku (<ruby>[山本](/words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby><ruby>[五](/characters/五%20(char).md)<rt>ㄛ</rt></ruby>十六) — (1884–1943)
 - Katsushika Hokusai ([[葛]][[飾]][[北]][[斎]]) — (1760–1849)
