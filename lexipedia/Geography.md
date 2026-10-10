@@ -314,3 +314,4 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
 - <ruby>[魏国](../words/魏国.md)<rt>ㄝㄍㄛㄎ</rt></ruby>: Wei kingdom.
+- <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: the world; all under heaven.

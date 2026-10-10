@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[普通]]<rt>ㄆㄛ·ㄊㄛㄫ</rt></ruby> "ordinary; plain; average"
 - <ruby>[[通知]]<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby> "to notify; inform"
 - <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
+- <ruby>[[通告]]<rt>ㄊㄛㄫㄍㄚㄨ</rt></ruby> "to notify; a notification"
 
 ## Chengyu
 - <ruby>[[東亜自通]]<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> "East Asian self-communication"
