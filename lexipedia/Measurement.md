@@ -105,6 +105,11 @@ These are simultaneously literal units of measurement and, grammatically, measur
 - <ruby>[基準](../words/基準.md)<rt>ㄍㄧㄐㄨㄋ</rt></ruby>: a standard, criterion, baseline — what a measurement is taken against.
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit (of measurement) — see [[Knowledge]] and [[Society]] for this same word's separate "academic credit" citation.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
+- <ruby>[温度](../words/温度.md)<rt>ㄛㄆㄉㄛ</rt></ruby>: temperature.
+
 ## Semantic Range Notes
 
 **個 is the classifier system's own default, not just one classifier among sixteen**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.

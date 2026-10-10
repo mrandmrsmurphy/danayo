@@ -100,6 +100,27 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
 - <ruby>[缺勤](../words/缺勤.md)<rt>ㄎ⼔ㄊㄍㄧㄋ</rt></ruby>: absence from work, to be absent from duty — failing to report for one's work (欠勤 in Japanese, rendered here with 缺); beside [[退職]] and [[卸]] among the words for leaving or missing a post.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[書記](../words/書記.md)<rt>ㄙ⼄ㄍㄧ</rt></ruby>: secretary.
+- <ruby>[洗車](../words/洗車.md)<rt>ㄙㄝㄋㄑ⺢</rt></ruby>: wash a car.
+- <ruby>[照顧](../words/照顧.md)<rt>ㄐㄛㄨㄍㄛ</rt></ruby>: care for; look after.
+- <ruby>[牧民](../words/牧民.md)<rt>ㄇㄨㄎㄇㄧㄋ</rt></ruby>: herdsman.
+- <ruby>[琢磨](../words/琢磨.md)<rt>ㄊㄚㄎㄇㄚ</rt></ruby>: polish jewels.
+- <ruby>[経営](../words/経営.md)<rt>ㄍㄝㄫ⼶ㄫ</rt></ruby>: run; manage.
+- <ruby>[脱稿](../words/脱稿.md)<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby>: complete a manuscript.
+- <ruby>[記者](../words/記者.md)<rt>ㄍㄧㄑㄚ</rt></ruby>: reporter; journalist.
+- <ruby>[謄録](../words/謄録.md)<rt>ㄉㄜㄫㄌㄛㄎ</rt></ruby>: transcribe by hand; copy out.
+- <ruby>[辞令](../words/辞令.md)<rt>ㄑㄧㄌㄝㄫ</rt></ruby>: letter of dismissal; letter of resignation.
+- <ruby>[辦公](../words/辦公.md)<rt>ㄅㄚㄋㄍㄛㄫ</rt></ruby>: do business; handle business.
+- <ruby>[辦公室](../words/辦公室.md)<rt>ㄅㄚㄋㄍㄛㄫㄙㄧㄊ</rt></ruby>: office.
+- <ruby>[辦理](../words/辦理.md)<rt>ㄅㄚㄋㄌㄧ</rt></ruby>: manage; arrange; run.
+- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture; farming.
+- <ruby>[農耕](../words/農耕.md)<rt>ㄋㄛㄫㄍㄚㄫ</rt></ruby>: agriculture.
+- <ruby>[陶汰](../words/陶汰.md)<rt>ㄉㄚㄨㄊㄚㄧ</rt></ruby>: scour.
+- <ruby>[雇員](../words/雇員.md)<rt>ㄎㄛㄨㄋ</rt></ruby>: employee.
+- <ruby>[養殖](../words/養殖.md)<rt>⼘ㄫㄙㄧㄎ</rt></ruby>: cultivate; breed.
+
 ## Semantic Range Notes
 
 Dan'a'yo keeps three separate "build" verbs rather than merging them into one, and the split tracks register and object rather than being redundant. [[建築]] is the base architectural word — building in the literal, physical sense that feeds a whole family (建築物, "a building"; 建築家, "an architect"). [[建設]] is more formal and large-scale, built from two characters that are each fully bound morphemes here (neither 建 nor 設 appears independently outside this compound) — it names the deliberate establishment of infrastructure, institutions, or large projects rather than a single structure. [[構築]] is the most abstract of the three: it covers building a physical structure just as readily as building a system, a strategic position, or (figuratively, as in Japanese 信頼関係を構築する) a relationship — the "construct" sense rather than the "erect a building" sense.

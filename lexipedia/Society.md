@@ -360,6 +360,44 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[跆籍](../words/跆籍.md)<rt>ㄊㄛㄧㄐㄝㄎ</rt></ruby>: Taekwondo registration, martial arts membership record.
 - <ruby>[援交](../words/援交.md)<rt>ㄛㄋㄍ⼄ㄨ</rt></ruby>: school-girl prostitution (a Japanese-origin sociological term, short for 援助交際).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[倶楽部](../words/倶楽部.md)<rt>ㄍㄨㄌㄚㄎㄅㄛㄨ</rt></ruby>: club.
+- <ruby>[出生率](../words/出生率.md)<rt>ㄑㄨㄊㄙㄚㄫㄌㄨㄊ</rt></ruby>: birth rate; natality.
+- <ruby>[小川](../words/小川.md)<rt>ㄙㄛㄑ⺢ㄋ</rt></ruby>: Ogawa.
+- <ruby>[山本](../words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby>: Yamamoto.
+- <ruby>[徽章](../words/徽章.md)<rt>ㄏㄨㄧㄐㄚㄫ</rt></ruby>: badge; insignia; emblem.
+- <ruby>[洋鬼子](../words/洋鬼子.md)<rt>⼘ㄫㄍㄨㄧㄐㄜ</rt></ruby>: white devil; western demon.
+- <ruby>[為人](../words/為人.md)<rt>⼔ㄋㄋㄧㄋ</rt></ruby>: behave; conduct oneself.
+- <ruby>[無名](../words/無名.md)<rt>ㄇㄜ·ㄇㄧㄫ</rt></ruby>: namelessness; be anonymous.
+- <ruby>[無家](../words/無家.md)<rt>ㄇㄜㄍㄚ</rt></ruby>: homeless.
+- <ruby>[無援](../words/無援.md)<rt>ㄇㄜㄛㄋ</rt></ruby>: unsupported.
+- <ruby>[班長](../words/班長.md)<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby>: squad leader.
+- <ruby>[知音](../words/知音.md)<rt>ㄐㄨㄧㄨㄇ</rt></ruby>: bosom friend.
+- <ruby>[社交](../words/社交.md)<rt>ㄙ⼘ㄍ⼄ㄨ</rt></ruby>: social interaction.
+- <ruby>[私立](../words/私立.md)<rt>ㄙㄧㄜㄌㄧㄆ</rt></ruby>: private.
+- <ruby>[精鋭](../words/精鋭.md)<rt>ㄐㄝㄫ⼶</rt></ruby>: elite; chosen; picked.
+- <ruby>[繁華](../words/繁華.md)<rt>ㄆㄚㄋㄏ⺢</rt></ruby>: lively; bustling.
+- <ruby>[美国人](../words/美国人.md)<rt>ㄇㄧㄍㄛㄎㄋㄧㄋ</rt></ruby>: American person.
+- <ruby>[翻身](../words/翻身.md)<rt>ㄈㄛㄋㄙㄧㄋ</rt></ruby>: emancipate.
+- <ruby>[自立](../words/自立.md)<rt>ㄐㄧㄜㄌㄧㄆ</rt></ruby>: independent; standalone; self-reliant.
+- <ruby>[自給](../words/自給.md)<rt>ㄐㄧㄜㄍㄧㄆ</rt></ruby>: self-sufficient; self-reliant.
+- <ruby>[芸妓](../words/芸妓.md)<rt>ㄝㄍㄧ</rt></ruby>: geisha.
+- <ruby>[衆議](../words/衆議.md)<rt>ㄐㄨㄫㄜㄧ</rt></ruby>: popular opinion.
+- <ruby>[行列](../words/行列.md)<rt>ㄏㄚㄫㄌㄝㄊ</rt></ruby>: matrix; queue.
+- <ruby>[訃告](../words/訃告.md)<rt>ㄈㄨㄛㄍㄚㄨ</rt></ruby>: obituary; death notice.
+- <ruby>[貧窮](../words/貧窮.md)<rt>ㄅㄧㄋㄍㄨㄫ</rt></ruby>: poverty.
+- <ruby>[越南人](../words/越南人.md)<rt>⼔ㄊㄋㄚㄇㄋㄧㄋ</rt></ruby>: Vietnamese person.
+- <ruby>[連帯](../words/連帯.md)<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby>: solidarity; joint (responsibility).
+- <ruby>[遊牧](../words/遊牧.md)<rt>⼜ㄛㄇㄨㄎ</rt></ruby>: nomadic.
+- <ruby>[郵便](../words/郵便.md)<rt>ㄨㄛㄅ⼶ㄋ</rt></ruby>: mail; post.
+- <ruby>[郵帖](../words/郵帖.md)<rt>ㄨㄛㄊㄛㄆ</rt></ruby>: postcard.
+- <ruby>[郵票](../words/郵票.md)<rt>ㄨㄛㄆ⼘ㄨ</rt></ruby>: stamp; postage stamp.
+- <ruby>[開放](../words/開放.md)<rt>ㄎㄚㄧㄈㄚㄫ</rt></ruby>: be open; liberalize.
+- <ruby>[関係](../words/関係.md)<rt>ㄍ⺢ㄇㄍㄝㄧ</rt></ruby>: relationship; related.
+- <ruby>[高人](../words/高人.md)<rt>ㄍㄚㄨㄋㄧㄋ</rt></ruby>: person of noble character.
+- <ruby>[鬼老](../words/鬼老.md)<rt>ㄍㄨㄧㄌㄚㄨ</rt></ruby>: male demon; foreigner (Cantonese slang).
+
 ## Semantic Range Notes
 
 **植民地 vs. 殖民 — a real orthographic split, not a duplicate**: Japanese conventionally spells "colony" with 植 ("to plant," this vault's chosen form for the place itself), while Mandarin/Cantonese more often spell it with 殖 ("to breed, multiply") — already the vault's existing word [[殖民]] ("colonization, colonial"). Both spellings of the compound are real and attested; 殖民地 is kept as an alias on [[植民地]] rather than picked as primary, so neither existing word had to be renamed.

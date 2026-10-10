@@ -234,6 +234,47 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[明瞭](../words/明瞭.md)<rt>ㄇ⼶ㄫㄌ⼘ㄨ</rt></ruby>: apparent, clear — a near-synonym of Core [[明白]] above.
 - <ruby>[瞭然](../words/瞭然.md)<rt>ㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby>: clear, evident — see 一目瞭然 under Idiomatic uses below.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[判別式](../words/判別式.md)<rt>ㄆㄚㄋㄅㄝㄊㄙㄧㄎ</rt></ruby>: discriminant.
+- <ruby>[原理](../words/原理.md)<rt>⼔ㄋㄌㄧ</rt></ruby>: principle.
+- <ruby>[四書五経](../words/四書五経.md)<rt>ㄙㄧㄜㄙ⼄ㄛㄍㄝㄫ</rt></ruby>: Four Books and Five Classics.
+- <ruby>[文学者](../words/文学者.md)<rt>ㄇㄨㄋㄏㄚㄎㄑㄚ</rt></ruby>: literati.
+- <ruby>[深奥](../words/深奥.md)<rt>ㄙㄧㄇ·ㄨㄎ</rt></ruby>: abstruse; esoteric.
+- <ruby>[溝股](../words/溝股.md)<rt>ㄍㄛㄨㄍㄛ</rt></ruby>: Pythagorean Theorem.
+- <ruby>[版本](../words/版本.md)<rt>ㄆㄚㄋㄅㄛㄋ</rt></ruby>: edition; version.
+- <ruby>[物理学](../words/物理学.md)<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>: physics.
+- <ruby>[生物学](../words/生物学.md)<rt>ㄙㄚㄫㄇㄨㄊㄏㄚㄎ</rt></ruby>: biology.
+- <ruby>[留学生](../words/留学生.md)<rt>ㄌ⼜ㄏㄚㄎㄙㄚㄫ</rt></ruby>: international student; exchange student.
+- <ruby>[百家](../words/百家.md)<rt>ㄅㄚㄎㄍㄚ</rt></ruby>: hundred schools; many schools of thought.
+- <ruby>[百科](../words/百科.md)<rt>ㄅㄚㄎㄎ⺢</rt></ruby>: all knowledge.
+- <ruby>[社会学](../words/社会学.md)<rt>ㄙ⼘ㄏ⼔ㄏㄚㄎ</rt></ruby>: sociology.
+- <ruby>[社会科](../words/社会科.md)<rt>ㄙ⼘ㄏ⼔·ㄎ⺢</rt></ruby>: social studies.
+- <ruby>[社会科学](../words/社会科学.md)<rt>ㄙ⼘ㄏ⼔·ㄎ⺢ㄏㄚㄎ</rt></ruby>: social science.
+- <ruby>[筆記](../words/筆記.md)<rt>ㄆㄨㄊㄍㄧ</rt></ruby>: take notes.
+- <ruby>[統計](../words/統計.md)<rt>ㄊㄛㄫㄍㄝㄧ</rt></ruby>: statistics.
+- <ruby>[綱要](../words/綱要.md)<rt>ㄍㄚㄫ⼄ㄨ</rt></ruby>: outline; sketch; essentials.
+- <ruby>[老人学](../words/老人学.md)<rt>ㄌㄚㄨㄋㄧㄋㄏㄚㄎ</rt></ruby>: gerontology.
+- <ruby>[考察](../words/考察.md)<rt>ㄎㄚㄨㄑㄚㄊ</rt></ruby>: investigate; observe; study.
+- <ruby>[考試](../words/考試.md)<rt>ㄎㄚㄨㄙㄧ</rt></ruby>: test; exam.
+- <ruby>[英語学](../words/英語学.md)<rt>ㄝㄫ⼄ㄏㄚㄎ</rt></ruby>: English studies.
+- <ruby>[補習](../words/補習.md)<rt>ㄅㄛㄙㄜㄆ</rt></ruby>: take extra classes.
+- <ruby>[要約](../words/要約.md)<rt>⼄ㄨ⼘ㄎ</rt></ruby>: summary; to summarize.
+- <ruby>[詞典](../words/詞典.md)<rt>ㄙㄚㄉㄝㄋ</rt></ruby>: dictionary.
+- <ruby>[読書](../words/読書.md)<rt>ㄉㄛㄎㄙ⼄</rt></ruby>: read; study.
+- <ruby>[読本](../words/読本.md)<rt>ㄉㄛㄎㄅㄛㄋ</rt></ruby>: reader.
+- <ruby>[論語](../words/論語.md)<rt>ㄌㄛㄋ·⼄</rt></ruby>: Analects.
+- <ruby>[逆数](../words/逆数.md)<rt>ㄝㄎㄙㄨ</rt></ruby>: reciprocal.
+- <ruby>[遊学](../words/遊学.md)<rt>⼜ㄛㄏㄚㄎ</rt></ruby>: travel abroad to study; study abroad.
+- <ruby>[鉱物学](../words/鉱物学.md)<rt>ㄍ⺢ㄫㄇㄨㄊㄏㄚㄎ</rt></ruby>: mineralogy.
+- <ruby>[開学](../words/開学.md)<rt>ㄎㄚㄧㄏㄚㄎ</rt></ruby>: start school.
+- <ruby>[関数](../words/関数.md)<rt>ㄍ⺢ㄇㄙㄨ</rt></ruby>: function.
+- <ruby>[電子版](../words/電子版.md)<rt>ㄉㄝㄋㄐㄜ·ㄆㄚㄋ</rt></ruby>: electronic version.
+- <ruby>[順序](../words/順序.md)<rt>ㄙ⼜ㄋㄙ⼄</rt></ruby>: sequence; pattern; order.
+- <ruby>[麟史](../words/麟史.md)<rt>ㄌㄧㄋㄙㄧ</rt></ruby>: the Spring and Autumn Annals (alternative name).
+- <ruby>[麟経](../words/麟経.md)<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby>: the Spring and Autumn Annals (alternative name).
+- <ruby>[黒板](../words/黒板.md)<rt>ㄏㄨㄎㄆㄚㄋ</rt></ruby>: blackboard.
+
 ## Semantic Range Notes
 
 **A deliberately built epistemic-modality gradient.** Dan'a'yo needed a clean scale from necessity down to bare possibility, and assembled it from real, independently attested CJKV vocabulary rather than inventing one: [[必然]] "necessary, inevitable" at the top, then [[蓋然]] "highly probable, likely" (the base of the real 蓋然性/がいぜんせい/개연성, the standard philosophy-and-statistics term for "not certain, but quite likely"), then [[或然]] "probable, contingent" (the base of 或然率/或然性, the classical-logic term paired against 必然 the way Aristotelian modality contrasts necessary and contingent), then bare [[可能]] "possible, may, might," with [[概然]] "generally so, roughly true" sitting to the side as an approximation register rather than a probability register. This last pair, 蓋然 and 概然, is a genuine four-way homophone: 蓋 and 概 share the identical reading in Mandarin (gài), Japanese on'yomi (GAI), Korean (개), and now Dan'a'yo (gai/개/ㄍㄚㄧ) — real, documented source of learner confusion in Japanese and Chinese. Vietnamese is the one daughter language that already keeps them apart (蓋 = *cái*, 概 = *khái*), which is what licenses Dan'a'yo to lean into the real ambiguity and cleanly split the two senses rather than collapsing them into true synonyms.

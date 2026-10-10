@@ -74,6 +74,29 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[液晶](../words/液晶.md)<rt>⼶ㄎㄐㄧㄫ</rt></ruby>: liquid crystal — as in LCD displays (液晶顯示器, 액정 디스플레이); attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found.
 - <ruby>[樟脳](../words/樟脳.md)<rt>ㄐㄚㄫㄋㄚㄨ</rt></ruby>: camphor, the aromatic crystalline substance from the camphor tree.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[油](../words/油.md)<rt>⼜</rt></ruby>: oil.
+- <ruby>[溶液](../words/溶液.md)<rt>⼄ㄫ⼶ㄎ</rt></ruby>: solution (chemistry).
+- <ruby>[漆](../words/漆.md)<rt>ㄑㄧㄊ</rt></ruby>: varnish.
+- <ruby>[灰](../words/灰.md)<rt>ㄏㄛㄧ</rt></ruby>: ashes.
+- <ruby>[珍珠](../words/珍珠.md)<rt>ㄑㄧㄋㄐㄨ</rt></ruby>: pearl.
+- <ruby>[琥珀](../words/琥珀.md)<rt>ㄏㄛ·ㄆㄚㄎ</rt></ruby>: amber.
+- <ruby>[琺瑯](../words/琺瑯.md)<rt>ㄈㄚㄆㄌㄚㄫ</rt></ruby>: enamel; cloisonné.
+- <ruby>[瑠璃](../words/瑠璃.md)<rt>ㄌ⼜ㄌㄜ</rt></ruby>: glaze.
+- <ruby>[白亜](../words/白亜.md)<rt>ㄅㄚㄎ·ㄚ</rt></ruby>: chalk.
+- <ruby>[石英](../words/石英.md)<rt>ㄙㄝㄎ·ㄝㄫ</rt></ruby>: quartz.
+- <ruby>[硼沙](../words/硼沙.md)<rt>ㄅㄛㄫㄙㄚ</rt></ruby>: borax.
+- <ruby>[碧玉](../words/碧玉.md)<rt>ㄅ⼶ㄎ·⼄ㄎ</rt></ruby>: jasper.
+- <ruby>[精油](../words/精油.md)<rt>ㄐㄝㄫ⼜</rt></ruby>: oil (all kinds).
+- <ruby>[芳香族](../words/芳香族.md)<rt>ㄈㄚㄫㄏ⼘ㄫㄐㄛㄎ</rt></ruby>: aromatic compounds.
+- <ruby>[酒精](../words/酒精.md)<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby>: alcohol.
+- <ruby>[釉薬](../words/釉薬.md)<rt>⼜ㄛ⼘ㄎ</rt></ruby>: glaze; enamel.
+- <ruby>[鑽石](../words/鑽石.md)<rt>ㄐㄚㄋㄙㄝㄎ</rt></ruby>: diamond; auger.
+- <ruby>[陶瓷](../words/陶瓷.md)<rt>ㄉㄚㄨㄑㄧ</rt></ruby>: ceramics; porcelain.
+- <ruby>[陶瓷器](../words/陶瓷器.md)<rt>ㄉㄚㄨㄑㄧ·ㄎㄧㄜ</rt></ruby>: chinaware; porcelain; pottery.
+- <ruby>[馬𡿺](../words/馬𡿺.md)<rt>ㄇㄚ·ㄋㄚㄨ</rt></ruby>: agate.
+
 ## Semantic Range Notes
 
 **Two tempting candidates were excluded as false matches.** [[揺]], which also glosses "rock," means to swing or shake — the verb, not the mineral noun; [[石]]/[[石頭]] cover the noun instead. [[内容]], which also glosses "substance," means "content" in the abstract sense (the content of a book or argument), not physical matter — [[物質]] covers the physical sense instead. [[明月]] ("bright moon"), which also glosses "jewel," is a poetic extension already flagged elsewhere in this vault, not a dedicated gem word — "jewel," "emerald," and "marble" all remain genuinely uncoined.

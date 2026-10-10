@@ -133,6 +133,17 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[加多](../words/加多.md)<rt>ㄍㄚㄉㄜ</rt></ruby>: to add, augment, increase.
 - <ruby>[漸漸](../words/漸漸.md)<rt>ㄐㄝㄇㄐㄝㄇ</rt></ruby>: gradually, little by little — the manner of a size or quantity change.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[太様](../words/太様.md)<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby>: greatly; exceedingly.
+- <ruby>[深淵](../words/深淵.md)<rt>ㄙㄧㄇ⼔ㄋ</rt></ruby>: abyss.
+- <ruby>[満](../words/満.md)<rt>ㄇㄚㄋ</rt></ruby>: full.
+- <ruby>[満盈](../words/満盈.md)<rt>ㄇㄚㄋ·⼶ㄫ</rt></ruby>: filled to capacity.
+- <ruby>[相当](../words/相当.md)<rt>ㄙㄚㄫㄉㄚㄫ</rt></ruby>: equivalent (to); considerable; quite, fairly.
+- <ruby>[衆多](../words/衆多.md)<rt>ㄐㄨㄫㄉㄜ</rt></ruby>: numerous; multitudinous.
+- <ruby>[長](../words/長.md)<rt>ㄐㄚㄫ</rt></ruby>: long.
+- <ruby>[魏峨](../words/魏峨.md)<rt>ㄝㄚ</rt></ruby>: towering; majestic; lofty.
+
 ## Semantic Range Notes
 
 **不過/只/唯/僅僅 — four "only"s, differing by force and register**: all four narrow a statement down to a single item or a bare minimum, but they don't sound alike. [[不過]] is the mildest, closer to "merely, nothing more than." [[只]] is the everyday, neutral "just, only." [[唯]] is more literary/emphatic — the one and only. [[僅僅]] (reduplicated) stresses bare sufficiency — "barely, just barely enough."

@@ -90,6 +90,22 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 **Not yet coined or excluded as false matches**: "tear" (ripping fabric) has no dedicated word; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) has no exact dedicated word — [[締]] (above) covers only the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" has no dedicated word. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" has no exact dedicated word, though [[破]] (above) covers general breaking/rending loosely.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[汚](../words/汚.md)<rt>ㄛ</rt></ruby>: dirty.
+- <ruby>[混濁](../words/混濁.md)<rt>ㄏㄛㄋㄉㄚㄎ</rt></ruby>: muddy; turbid.
+- <ruby>[溶化](../words/溶化.md)<rt>⼄ㄫㄏ⺢</rt></ruby>: melt; dissolve.
+- <ruby>[溶融](../words/溶融.md)<rt>⼄ㄫ⼜ㄫ</rt></ruby>: melt; fuse.
+- <ruby>[滑](../words/滑.md)<rt>ㄏ⺢ㄊ</rt></ruby>: slippery.
+- <ruby>[濃厚](../words/濃厚.md)<rt>ㄋㄛㄫㄏㄛㄨ</rt></ruby>: concentrated; thick; dense.
+- <ruby>[猛烈](../words/猛烈.md)<rt>ㄇㄚㄫㄌㄝㄊ</rt></ruby>: fierce; strong; blistering.
+- <ruby>[結合](../words/結合.md)<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby>: combine; unite; bond.
+- <ruby>[融化](../words/融化.md)<rt>⼜ㄫㄏ⺢</rt></ruby>: dissolve; thaw.
+- <ruby>[融合](../words/融合.md)<rt>⼜ㄫㄍㄛㄆ</rt></ruby>: fuse; blend; integrate.
+- <ruby>[鈍](../words/鈍.md)<rt>ㄉㄛㄋ</rt></ruby>: dull; not sharp.
+- <ruby>[除湿](../words/除湿.md)<rt>ㄐㄝㄧㄙㄧㄆ</rt></ruby>: dehumidify.
+- <ruby>[険](../words/険.md)<rt>ㄏㄝㄇ</rt></ruby>: precipitous.
+
 ## See Also
 
 **Related domains**:

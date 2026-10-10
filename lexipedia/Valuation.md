@@ -162,6 +162,39 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 **Excluded as false matches**: "simple" also loosely matches [[容易]] ("easy," a difficulty judgment, not structural simplicity) and [[平凡]] ("mediocre, common," a different quality judgment) — neither cited here.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[出色](../words/出色.md)<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby>: outstanding; remarkable; extraordinary.
+- <ruby>[大正](../words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby>: just; fair; Taisho era.
+- <ruby>[杜選](../words/杜選.md)<rt>ㄉㄛㄐ⼶ㄋ</rt></ruby>: careless; sloppy; unsubstantiated.
+- <ruby>[正](../words/正.md)<rt>ㄐㄧㄫ</rt></ruby>: correct.
+- <ruby>[無効](../words/無効.md)<rt>ㄇㄜㄏ⼘ㄨ</rt></ruby>: ineffective; invalid.
+- <ruby>[無双](../words/無双.md)<rt>ㄇㄜㄙ⺢ㄫ</rt></ruby>: matchless; peerless; unparalleled.
+- <ruby>[無私](../words/無私.md)<rt>ㄇㄜㄙㄧㄜ</rt></ruby>: selfless; disinterested.
+- <ruby>[無義](../words/無義.md)<rt>ㄇㄜㄜㄧ</rt></ruby>: lack morals; lack meaning.
+- <ruby>[狡滑](../words/狡滑.md)<rt>ㄍ⼄ㄨㄏ⺢ㄊ</rt></ruby>: cunning; crafty.
+- <ruby>[率直](../words/率直.md)<rt>ㄌㄨㄊㄐㄧㄊ</rt></ruby>: frank; candid; straightforward.
+- <ruby>[異常](../words/異常.md)<rt>ㄧㄙ⼘ㄫ</rt></ruby>: different; weird.
+- <ruby>[福祉](../words/福祉.md)<rt>ㄈㄨㄎㄑㄧ</rt></ruby>: welfare; well-being; happiness.
+- <ruby>[秀麗](../words/秀麗.md)<rt>ㄙㄨㄛㄌㄝ</rt></ruby>: elegant; graceful.
+- <ruby>[精彩](../words/精彩.md)<rt>ㄐㄝㄫㄑㄚㄧ</rt></ruby>: brilliant; splendid.
+- <ruby>[精緻](../words/精緻.md)<rt>ㄐㄝㄫㄉㄧㄜ</rt></ruby>: delicate; fine; subtle.
+- <ruby>[苛刻](../words/苛刻.md)<rt>ㄏㄚ·ㄎㄨㄎ</rt></ruby>: harsh; demanding.
+- <ruby>[華美](../words/華美.md)<rt>ㄏ⺢·ㄇㄧ</rt></ruby>: gorgeous; resplendent.
+- <ruby>[華麗](../words/華麗.md)<rt>ㄏ⺢ㄌㄝ</rt></ruby>: gorgeous; splendid; resplendent.
+- <ruby>[評価](../words/評価.md)<rt>ㄅ⼶ㄫㄍㄚ</rt></ruby>: evaluation; appraisal.
+- <ruby>[詳細](../words/詳細.md)<rt>ㄙㄚㄫㄙㄝㄧ</rt></ruby>: detailed.
+- <ruby>[誠実](../words/誠実.md)<rt>ㄙㄧㄫㄙㄧㄊ</rt></ruby>: sincere; honest; faithful.
+- <ruby>[誠心](../words/誠心.md)<rt>ㄙㄧㄫㄙㄧㄇ</rt></ruby>: sincere; devout.
+- <ruby>[豊尭](../words/豊尭.md)<rt>ㄆㄨㄫ⼘ㄨ</rt></ruby>: fertile; fruitful.
+- <ruby>[豪華](../words/豪華.md)<rt>ㄏㄚㄨㄏ⺢</rt></ruby>: extravagant; luxurious grand; majestic.
+- <ruby>[貴重](../words/貴重.md)<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby>: precious; valuable.
+- <ruby>[適宜](../words/適宜.md)<rt>ㄙㄝㄎㄜㄧ</rt></ruby>: suitable; appropriate.
+- <ruby>[鄭重](../words/鄭重.md)<rt>ㄐㄝㄫㄑㄛㄫ</rt></ruby>: solemn.
+- <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
+- <ruby>[顕着](../words/顕着.md)<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby>: notable; remarkable; prominent.
+- <ruby>[風采](../words/風采.md)<rt>ㄈㄨㄫㄑㄚㄧ</rt></ruby>: demeanor; appearance; bearing.
+
 ## Semantic Range Notes
 
 **"Fine" splits into (at least) two real senses already documented here**: [[良好]] is the quality-judgment "good, fine," while [[罰金]] (excluded above) is an unrelated monetary-penalty homograph, and [[繊細]] covers the "delicate, fine-grained" sense — a genuine three-way split in English that this vault's vocabulary already tracks correctly.

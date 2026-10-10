@@ -84,6 +84,12 @@ Pride and wrath are already covered above ([[傲慢]]; [[怒気]]/[[激怒]]).
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, corrupt. See [Life](../lexipedia/Life.md) and [Physical](../lexipedia/Physical.md) for their own citations there.
 - <ruby>[欺𥈞](../words/欺𥈞.md)<rt>ㄎㄧ·ㄇㄚㄋ</rt></ruby>: fraud.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[淫靡](../words/淫靡.md)<rt>ㄧㄇㄇㄧㄆ</rt></ruby>: decadent; lascivious; profligate.
+- <ruby>[美徳](../words/美徳.md)<rt>ㄇㄧ·ㄊㄨㄎ</rt></ruby>: virtue.
+- <ruby>[貪林](../words/貪林.md)<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby>: greedy; avaricious.
+
 ## Semantic Range Notes
 
 **"Mean" and "excuse" both have false-match candidates that were caught and excluded.** [[意味]] ("mean") is an unrelated homograph meaning "to signify," not the personality trait; [[刻薄]] was cited instead. [[免除]] ("excuse") means administrative exemption from a duty, not forgiving a wrongdoing; [[諒解]] and [[容恕]] were cited instead.

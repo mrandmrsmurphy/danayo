@@ -66,6 +66,10 @@ Metal vocabulary in Dan'a'yo runs on two parallel naming systems that usually, b
 - <ruby>[鈬](../words/鈬.md)<rt>ㄉㄚㄎ</rt></ruby>: a bronze bell — a common everyday object made of [[青銅]].
 - <ruby>[鈴](../words/鈴.md)<rt>ㄌㄝㄫ</rt></ruby>: a small bell — a handbell or jingle-bell, distinct from [[鈬]]'s larger cast bronze bell.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[金山](../words/金山.md)<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby>: gold mine.
+
 ## Semantic Range Notes
 
 The dominant pattern in this domain is that a metal's Dan'a'yo word is simultaneously its everyday noun *and* its Periodic Table symbol-bearing element name — [[黄金]], [[鉄]], [[銀]], [[白金]], [[魔銅]], and [[狼金]] all do double duty this way, so there is normally no separate "colloquial" word to learn alongside the systematic one.

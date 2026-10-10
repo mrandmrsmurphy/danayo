@@ -104,6 +104,30 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 **Not yet coined**: "strategy" (as distinct from [[兵法]]'s tactics), "scout," "parry," and "wield" all have no dedicated Dan'a'yo word yet. "Shoot" (a weapon) is likewise uncoined — [[秀]], which also glosses "shoot," means a plant "to shoot, bear fruit, blossom," an unrelated botanical homograph. "Bow" (the gesture) is covered by [[低下]], [[拝]], and [[鞠躬]], all distinct from [[弓]], the weapon, cited above.
 - <ruby>[綏靖](../words/綏靖.md)<rt>ㄙㄨㄧㄐㄧㄫ</rt></ruby>: pacification; appeasement — restoring order by force or by conceding to an aggressor, the same word for both.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[武士](../words/武士.md)<rt>ㄇㄨㄙㄚㄧ</rt></ruby>: warrior; samurai.
+- <ruby>[潜水艦](../words/潜水艦.md)<rt>ㄐㄝㄇㄙㄨㄏㄚㄇ</rt></ruby>: submarine (warship).
+- <ruby>[無敵](../words/無敵.md)<rt>ㄇㄜㄉㄝㄎ</rt></ruby>: invincible; unbeatable.
+- <ruby>[狙撃](../words/狙撃.md)<rt>ㄑㄛㄍㄝㄎ</rt></ruby>: snipe; ambush.
+- <ruby>[空手道](../words/空手道.md)<rt>ㄎㄛㄫㄙ⼜ㄉㄚㄨ</rt></ruby>: karate.
+- <ruby>[空軍](../words/空軍.md)<rt>ㄎㄛㄫㄍㄨㄋ</rt></ruby>: air force.
+- <ruby>[航空母艦](../words/航空母艦.md)<rt>ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ</rt></ruby>: aircraft carrier.
+- <ruby>[討伐](../words/討伐.md)<rt>ㄊㄚㄨㄈㄝㄊ</rt></ruby>: subjugate.
+- <ruby>[越共](../words/越共.md)<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby>: Vietcong.
+- <ruby>[越盟](../words/越盟.md)<rt>⼔ㄊㄇ⼶ㄫ</rt></ruby>: Viet Minh.
+- <ruby>[跆拳道](../words/跆拳道.md)<rt>ㄊㄛㄧㄍ⼔ㄋㄉㄚㄨ</rt></ruby>: taekwondo.
+- <ruby>[軍艦](../words/軍艦.md)<rt>ㄍㄨㄋㄏㄚㄇ</rt></ruby>: warship.
+- <ruby>[軍隊](../words/軍隊.md)<rt>ㄍㄨㄋㄉㄛㄧ</rt></ruby>: armed forces.
+- <ruby>[部隊](../words/部隊.md)<rt>ㄅㄛㄨㄉㄛㄧ</rt></ruby>: unit; corp.
+- <ruby>[陣営](../words/陣営.md)<rt>ㄑㄧㄋ·⼶ㄫ</rt></ruby>: army camp.
+- <ruby>[陣地](../words/陣地.md)<rt>ㄑㄧㄋㄉㄧㄜ</rt></ruby>: military position.
+- <ruby>[隊伍](../words/隊伍.md)<rt>ㄉㄛㄧㄛ</rt></ruby>: rank; contingent; line of troops.
+- <ruby>[駆逐艦](../words/駆逐艦.md)<rt>ㄎㄨㄉㄨㄎㄏㄚㄇ</rt></ruby>: destroyer (warship).
+- <ruby>[駐屯](../words/駐屯.md)<rt>ㄉㄨㄉㄨㄋ</rt></ruby>: be stationed; garrison.
+- <ruby>[魚雷](../words/魚雷.md)<rt>⼄ㄌㄛㄧ</rt></ruby>: torpedo.
+- <ruby>[鹿砦](../words/鹿砦.md)<rt>ㄌㄛㄎㄐㄚㄧ</rt></ruby>: abatis.
+
 ## Semantic Range Notes
 
 **This page leans heavily on [[Conflict]]**, this vault's much larger existing page for combat vocabulary — rather than duplicate its Weapons, Combat & Tactics, Capture & Imprisonment, Espionage, and Rebellion & Upheaval sections, War cross-cites them directly and focuses on the vocabulary Conflict doesn't already cover: armies and personnel, specific weapons and armor, retreat, looting, and logistics.

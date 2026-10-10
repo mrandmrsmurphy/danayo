@@ -180,6 +180,11 @@ The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten He
 
 - <ruby>[薄命](../words/薄命.md)<rt>ㄅㄚㄎㄇ⼶ㄫ</rt></ruby>: born under an unlucky star, ill-fated — the one surviving idiom directly linking this vault's astronomy vocabulary to its 占星術 sense.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[織女星](../words/織女星.md)<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby>: Vega.
+- <ruby>[黒洞](../words/黒洞.md)<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby>: blackhole.
+
 ## Semantic Range Notes
 
 **天文学 vs. 占星術 — a deliberate split between science and divination**: both grow from the same act of looking up at the sky, but Dan'a'yo keeps them firmly apart. [[天文学]] is the true modern science of celestial objects; [[占星術]] ("star-sign divination") is the ancient practice of reading fortunes from the stars, built on the older verb [[占星]] ("to divine by looking at star signs"). Conflating the two would erase a distinction the domain is organized around.

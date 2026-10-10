@@ -288,6 +288,56 @@ One rank below [[域階]] ("Domain") itself, Dan'a'yo already has real words for
 - <ruby>[古菌](../words/古菌.md)<rt>ㄍㄛㄍ⼜ㄋ</rt></ruby>: archaea (Domain Archaea) — literally "ancient germ."
 - <ruby>[真核](../words/真核.md)<rt>ㄐㄧㄋㄏㄚㄎ</rt></ruby>: eukarya, eukaryotic (Domain Eukarya) — literally "true-nucleus," a bound root rather than a free word in any source language (see Semantic Range Notes).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[烏賊](../words/烏賊.md)<rt>ㄛㄐㄨㄎ</rt></ruby>: squid; cuttlefish.
+- <ruby>[烏鳥](../words/烏鳥.md)<rt>ㄛㄑㄛㄨ</rt></ruby>: crow; raven.
+- <ruby>[熊猫](../words/熊猫.md)<rt>ㄨㄫㄇ⼘ㄨ</rt></ruby>: panda.
+- <ruby>[爬虫](../words/爬虫.md)<rt>ㄅㄚㄐㄨㄫ</rt></ruby>: reptile.
+- <ruby>[牛虻](../words/牛虻.md)<rt>ㄋ⼜·ㄇㄚㄫ</rt></ruby>: gadfly; horsefly.
+- <ruby>[犀牛](../words/犀牛.md)<rt>ㄙㄝㄧㄋ⼜</rt></ruby>: rhinoceros.
+- <ruby>[狐猿](../words/狐猿.md)<rt>ㄏㄛㄛㄋ</rt></ruby>: lemur.
+- <ruby>[狙鳩](../words/狙鳩.md)<rt>ㄑㄛ·ㄎ⼜</rt></ruby>: osprey; royal-coot.
+- <ruby>[猩猩](../words/猩猩.md)<rt>ㄙㄝㄫㄙㄝㄫ</rt></ruby>: orangutan.
+- <ruby>[白路](../words/白路.md)<rt>ㄅㄚㄎㄌㄛ</rt></ruby>: egret.
+- <ruby>[盧魚](../words/盧魚.md)<rt>ㄌㄛ⼄</rt></ruby>: perch; bass.
+- <ruby>[瞻余](../words/瞻余.md)<rt>ㄐㄝㄇ·⼄</rt></ruby>: toad.
+- <ruby>[穿山甲](../words/穿山甲.md)<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby>: pangolin.
+- <ruby>[章魚](../words/章魚.md)<rt>ㄐㄚㄫ⼄</rt></ruby>: octopus.
+- <ruby>[紅鶴](../words/紅鶴.md)<rt>ㄏㄛㄫㄏㄚㄎ</rt></ruby>: flamingo.
+- <ruby>[羊駝](../words/羊駝.md)<rt>⼘ㄫㄉㄚ</rt></ruby>: alpaca.
+- <ruby>[翅鞘](../words/翅鞘.md)<rt>ㄙㄧㄙㄛ</rt></ruby>: elytron; wing case.
+- <ruby>[花栗鼠](../words/花栗鼠.md)<rt>ㄏ⺢ㄌㄧㄊㄙ⼄</rt></ruby>: chipmunk.
+- <ruby>[蒼路](../words/蒼路.md)<rt>ㄑ⺢ㄫㄌㄛ</rt></ruby>: crane.
+- <ruby>[虱](../words/虱.md)<rt>ㄙㄛㄊ</rt></ruby>: louse (lice).
+- <ruby>[虹尊](../words/虹尊.md)<rt>ㄏㄛㄫㄐㄛㄋ</rt></ruby>: rainbow trout.
+- <ruby>[蛾](../words/蛾.md)<rt>ㄚ</rt></ruby>: moth.
+- <ruby>[蝙蝠](../words/蝙蝠.md)<rt>ㄅㄝㄋㄈㄨㄎ</rt></ruby>: bat.
+- <ruby>[蝸牛](../words/蝸牛.md)<rt>ㄍ⺢·ㄋ⼜</rt></ruby>: snail.
+- <ruby>[袋鼠](../words/袋鼠.md)<rt>ㄉㄚㄧㄙ⼄</rt></ruby>: kangaroo.
+- <ruby>[跳蚤](../words/跳蚤.md)<rt>ㄊㄛㄨㄐㄚㄨ</rt></ruby>: flea.
+- <ruby>[錦鯉](../words/錦鯉.md)<rt>ㄎㄛㄇㄌㄧ</rt></ruby>: koi.
+- <ruby>[雛鳥](../words/雛鳥.md)<rt>ㄑㄨㄛㄑㄛㄨ</rt></ruby>: chick.
+- <ruby>[雪魚](../words/雪魚.md)<rt>ㄙ⼔ㄊ⼄</rt></ruby>: whiting; cod.
+- <ruby>[類人猿](../words/類人猿.md)<rt>ㄌㄨㄧㄋㄧㄋ·ㄛㄋ</rt></ruby>: simian.
+- <ruby>[飛鳥](../words/飛鳥.md)<rt>ㄈㄝㄧㄑㄛㄨ</rt></ruby>: Asuka; flying bird.
+- <ruby>[駱駝](../words/駱駝.md)<rt>ㄌㄚㄎㄉㄚ</rt></ruby>: camel.
+- <ruby>[鮫魚](../words/鮫魚.md)<rt>ㄍ⼄ㄨ⼄</rt></ruby>: shark.
+- <ruby>[鯖魚](../words/鯖魚.md)<rt>ㄑㄝㄫ⼄</rt></ruby>: mackerel.
+- <ruby>[鰌魚](../words/鰌魚.md)<rt>ㄑㄨ⼄</rt></ruby>: loach; weatherfish.
+- <ruby>[鰐魚](../words/鰐魚.md)<rt>ㄚㄎ·⼄</rt></ruby>: crocodilian.
+- <ruby>[鳩鳥](../words/鳩鳥.md)<rt>ㄎ⼜ㄑㄛㄨ</rt></ruby>: pigeon.
+- <ruby>[鳳凰](../words/鳳凰.md)<rt>ㄆㄨㄫㄏ⺢ㄫ</rt></ruby>: phoenix.
+- <ruby>[鵖鴔](../words/鵖鴔.md)<rt>ㄅㄨㄆㄅㄧㄆ</rt></ruby>: hoopoe.
+- <ruby>[鸛鶴](../words/鸛鶴.md)<rt>ㄍ⺢ㄋㄏㄚㄎ</rt></ruby>: stork.
+- <ruby>[麒麟](../words/麒麟.md)<rt>ㄍㄧㄌㄧㄋ</rt></ruby>: qilin.
+- <ruby>[麒麟羚羊](../words/麒麟羚羊.md)<rt>ㄍㄧㄌㄧㄋㄌㄝㄫ⼘ㄫ</rt></ruby>: gerenuk.
+- <ruby>[麻雀鳥](../words/麻雀鳥.md)<rt>ㄇㄚㄐㄚㄎㄑㄛㄨ</rt></ruby>: sparrow.
+- <ruby>[黒猩](../words/黒猩.md)<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby>: chimpanzee.
+- <ruby>[黒貂](../words/黒貂.md)<rt>ㄏㄨㄎㄑㄛ</rt></ruby>: sable.
+- <ruby>[鼠類](../words/鼠類.md)<rt>ㄙ⼄ㄌㄨㄧ</rt></ruby>: Muroidea (rodents).
+- <ruby>[龍蝦](../words/龍蝦.md)<rt>ㄌ⼄ㄫㄏㄚ</rt></ruby>: lobster.
+
 ## Semantic Range Notes
 
 **動物 vs. 生物** split by animacy breadth rather than by kingdom: 動物 ("moving thing") is the ordinary word for "animal" and implicitly excludes plants, while 生物 ("living thing") is the broader biological term covering all life, plants included. A learner reaching for "organism" in the scientific sense wants 生物, not 動物.

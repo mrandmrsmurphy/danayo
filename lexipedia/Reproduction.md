@@ -55,6 +55,17 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 
 - <ruby>[妾](../words/妾.md)<rt>ㄑㄛㄆ</rt></ruby>: a concubine — see [Kinship](../lexipedia/Kinship.md) for its own citation there; the closest available word to the polygamous-household concept behind "harem," though not itself a match for that English word.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[出生率](../words/出生率.md)<rt>ㄑㄨㄊㄙㄚㄫㄌㄨㄊ</rt></ruby>: birth rate; natality.
+- <ruby>[生育](../words/生育.md)<rt>ㄙㄚㄫ⼜ㄎ</rt></ruby>: give birth to.
+- <ruby>[発情](../words/発情.md)<rt>ㄈㄚㄊㄑㄧㄫ</rt></ruby>: be in heat; aroused; rut.
+- <ruby>[繁殖](../words/繁殖.md)<rt>ㄆㄚㄋㄙㄧㄎ</rt></ruby>: breed; reproduce.
+- <ruby>[胎児](../words/胎児.md)<rt>ㄊㄚㄧㄝㄧ</rt></ruby>: fetus.
+- <ruby>[胎盤](../words/胎盤.md)<rt>ㄊㄚㄧㄅㄚㄋ</rt></ruby>: placenta.
+- <ruby>[胞衣](../words/胞衣.md)<rt>ㄅ⼘ㄨㄧㄜ</rt></ruby>: afterbirth.
+- <ruby>[雑交](../words/雑交.md)<rt>ㄐㄚㄆㄍ⼄ㄨ</rt></ruby>: hybridize; crossbreed.
+
 ## Semantic Range Notes
 
 **"Transgender" splits cleanly along a Sinosphere/non-Sinosphere line.** [[跨性別]] is a genuinely current, real compositional term in Mandarin and Cantonese — but Japanese, Korean, and Vietnamese all reach for an English loanword or native calque instead in everyday speech, rather than reading the characters aloud. This vault still stores the compositional reading in each language field for consistency, with the real living word documented in the word's own Notes, the same treatment already given to [[英里]] ("mile") and [[墨西哥]] ("Mexico").

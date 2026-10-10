@@ -124,6 +124,23 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[甄選](../words/甄選.md)<rt>ㄍ⼶ㄋㄙ⼔ㄋ</rt></ruby>: to select, screen — the verb "to screen" (vet candidates), not a physical screen/display. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[養成](../words/養成.md)<rt>⼘ㄫㄙㄧㄫ</rt></ruby>: to cultivate, train — the verb "to train" a person or skill, distinct from the uncoined noun "a train" (locomotive). See [Efforts](../lexipedia/Efforts.md) for its own citation there.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[厉](../words/厉.md)<rt>ㄌㄝ</rt></ruby>: whetstone.
+- <ruby>[架](../words/架.md)<rt>ㄍㄚ</rt></ruby>: rack.
+- <ruby>[滑鼠](../words/滑鼠.md)<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>: mouse (computer).
+- <ruby>[無線](../words/無線.md)<rt>ㄇㄜㄙ⼶ㄋ</rt></ruby>: wireless.
+- <ruby>[穿孔机](../words/穿孔机.md)<rt>ㄑㄝㄋㄎㄛㄫㄍㄧㄜ</rt></ruby>: puncher; perforator; boring machine.
+- <ruby>[竿竹](../words/竿竹.md)<rt>ㄍㄚㄋㄐㄨㄎ</rt></ruby>: bamboo pole.
+- <ruby>[紡錘](../words/紡錘.md)<rt>ㄈㄚㄫㄑㄨㄧ</rt></ruby>: spindle.
+- <ruby>[落下傘](../words/落下傘.md)<rt>ㄌㄚㄎㄏㄚㄙㄚㄋ</rt></ruby>: parachute.
+- <ruby>[蚊帳](../words/蚊帳.md)<rt>ㄇㄨㄋㄐ⺢ㄫ</rt></ruby>: mosquito net; tent screen.
+- <ruby>[蚕箔](../words/蚕箔.md)<rt>ㄐㄚㄇㄅㄚㄎ</rt></ruby>: bamboo tray; sheet.
+- <ruby>[装置](../words/装置.md)<rt>ㄐ⺢ㄫㄑㄧ</rt></ruby>: equipment; device.
+- <ruby>[鞍装](../words/鞍装.md)<rt>ㄚㄋㄐ⺢ㄫ</rt></ruby>: saddle.
+- <ruby>[魚叉](../words/魚叉.md)<rt>⼄ㄑㄚㄧ</rt></ruby>: harpoon; fish spear.
+- <ruby>[鳥籠](../words/鳥籠.md)<rt>ㄑㄛㄨㄌㄛㄫ</rt></ruby>: birdcage.
+
 ## Semantic Range Notes
 
 **"Handle" cleanly splits into a physical noun and an abstract verb, and only the noun belongs here.** [[把手]] and [[柄]] are the physical grip; [[処決]], [[扱]], and [[措置]] all mean to handle or manage a situation and were excluded as false matches for a tools-domain word.

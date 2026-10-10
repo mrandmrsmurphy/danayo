@@ -96,6 +96,14 @@ Rosenfelder terms with no Dan'a'yo word yet: again (general), always, common (as
 
 - <ruby>[間諜](../words/間諜.md)<rt>ㄍㄚㄋㄉㄝㄆ</rt></ruby>: a spy, secret agent — the closest match to Rosenfelder's "agent," though narrower (specifically an intelligence operative, not "one who acts" generally). See [Conflict](../lexipedia/Conflict.md)'s own Espionage section.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[百事](../words/百事.md)<rt>ㄅㄚㄎㄐㄧ</rt></ruby>: myriad issues.
+- <ruby>[盛衰](../words/盛衰.md)<rt>ㄙㄧㄫㄙ⼔ㄧ</rt></ruby>: rise and fall; flourish and decay.
+- <ruby>[行事](../words/行事.md)<rt>ㄏㄚㄫㄐㄧ</rt></ruby>: action; function.
+- <ruby>[誘発](../words/誘発.md)<rt>⼜ㄛㄈㄚㄊ</rt></ruby>: induce; trigger.
+- <ruby>[遭遇](../words/遭遇.md)<rt>ㄐㄚㄨㄨ</rt></ruby>: encounter.
+
 ## Semantic Range Notes
 
 **災害/災殃/禍事/禍害 are four near-synonyms without a clean split**: all four mean "disaster, calamity" with no sharp register or scope distinction documented between them — a genuine case of redundancy inherited from the source languages rather than a hidden nuance.

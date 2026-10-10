@@ -251,6 +251,43 @@ Two of the three technique characters (煎, 炸) are marked `名専字` (name/tr
 |**鶏**|<ruby>炸鶏丁<rt>ㄐㄚㄎㄍㄝㄧㄉㄝㄫ</rt></ruby>|<ruby>炸鶏片<rt>ㄐㄚㄎㄍㄝㄧㄆㄝㄋ</rt></ruby>|<ruby>炸鶏条<rt>ㄐㄚㄎㄍㄝㄧㄐㄛ</rt></ruby>|<ruby>炸鶏糸<rt>ㄐㄚㄎㄍㄝㄧㄙㄚ</rt></ruby>|<ruby>炸鶏球<rt>ㄐㄚㄎㄍㄝㄧㄍ⼜</rt></ruby>|
 |**蝦**|<ruby>炸蝦丁<rt>ㄐㄚㄎㄏㄚㄉㄝㄫ</rt></ruby>|<ruby>炸蝦片<rt>ㄐㄚㄎㄏㄚㄆㄝㄋ</rt></ruby>|<ruby>炸蝦条<rt>ㄐㄚㄎㄏㄚㄐㄛ</rt></ruby>|<ruby>炸蝦糸<rt>ㄐㄚㄎㄏㄚㄙㄚ</rt></ruby>|<ruby>炸蝦球<rt>ㄐㄚㄎㄏㄚㄍ⼜</rt></ruby>|
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[八角](../words/八角.md)<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby>: octagon; star anise (Illicium verum).
+- <ruby>[断食](../words/断食.md)<rt>ㄉ⺢ㄋㄙㄧㄎ</rt></ruby>: fast.
+- <ruby>[清酒](../words/清酒.md)<rt>ㄑㄧㄫㄐㄨㄛ</rt></ruby>: sake.
+- <ruby>[烏梅](../words/烏梅.md)<rt>ㄛ·ㄇㄛㄧ</rt></ruby>: smoked ume.
+- <ruby>[烏龍麺](../words/烏龍麺.md)<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby>: udon noodles.
+- <ruby>[煮沸](../words/煮沸.md)<rt>ㄐㄛㄈㄨㄊ</rt></ruby>: boil.
+- <ruby>[玄米茶](../words/玄米茶.md)<rt>ㄏ⼔ㄋㄇㄝㄧㄑㄚ</rt></ruby>: genmaicha.
+- <ruby>[珈啡](../words/珈啡.md)<rt>ㄎㄚㄈㄧ</rt></ruby>: coffee.
+- <ruby>[甘露](../words/甘露.md)<rt>ㄍㄚㄇㄌㄛ</rt></ruby>: honeydew; nectar; amrita.
+- <ruby>[甜瓜](../words/甜瓜.md)<rt>ㄉㄧㄇㄍ⺢</rt></ruby>: melon; muskmelon.
+- <ruby>[糟糠](../words/糟糠.md)<rt>ㄐㄚㄨㄎㄚㄫ</rt></ruby>: dregs and husks.
+- <ruby>[肉桂](../words/肉桂.md)<rt>ㄋㄨㄎㄍ⼔ㄧ</rt></ruby>: cinnamon.
+- <ruby>[胡瓜](../words/胡瓜.md)<rt>ㄏㄛㄨㄍ⺢</rt></ruby>: cucumber.
+- <ruby>[胡麻](../words/胡麻.md)<rt>ㄏㄛㄨㄇㄚ</rt></ruby>: sesame.
+- <ruby>[芝麻醤](../words/芝麻醤.md)<rt>ㄐㄧ·ㄇㄚㄐㄚㄫ</rt></ruby>: sesame paste; tahini.
+- <ruby>[苦瓜](../words/苦瓜.md)<rt>ㄎㄛㄍ⺢</rt></ruby>: bitter melon.
+- <ruby>[茄子](../words/茄子.md)<rt>ㄍㄚㄐㄜ</rt></ruby>: eggplant; aubergine.
+- <ruby>[葡萄](../words/葡萄.md)<rt>ㄅㄛㄉㄚㄨ</rt></ruby>: grapes.
+- <ruby>[蕪青](../words/蕪青.md)<rt>ㄇㄨㄑㄝㄫ</rt></ruby>: turnip.
+- <ruby>[西瓜](../words/西瓜.md)<rt>ㄙㄝㄧㄍ⺢</rt></ruby>: watermelon.
+- <ruby>[豆腐](../words/豆腐.md)<rt>ㄉㄛㄨㄆㄨ</rt></ruby>: tofu.
+- <ruby>[豚肉](../words/豚肉.md)<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby>: pork.
+- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture; farming.
+- <ruby>[里芋](../words/里芋.md)<rt>ㄌㄧㄨ</rt></ruby>: taro.
+- <ruby>[金柑](../words/金柑.md)<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby>: kumquat.
+- <ruby>[釣漁](../words/釣漁.md)<rt>ㄑㄛㄨ⼄</rt></ruby>: fish.
+- <ruby>[雲呑](../words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby>: wonton.
+- <ruby>[食酢](../words/食酢.md)<rt>ㄙㄧㄎㄐㄚㄎ</rt></ruby>: vinegar.
+- <ruby>[飲食物](../words/飲食物.md)<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby>: foods and drinks.
+- <ruby>[香蕉](../words/香蕉.md)<rt>ㄏ⼘ㄫㄐㄛㄨ</rt></ruby>: banana.
+- <ruby>[鰐梨](../words/鰐梨.md)<rt>ㄚㄎㄌㄧㄜ</rt></ruby>: avocado.
+- <ruby>[鳳梨](../words/鳳梨.md)<rt>ㄆㄨㄫㄌㄧㄜ</rt></ruby>: pineapple.
+- <ruby>[麦芽](../words/麦芽.md)<rt>ㄇㄚㄎ·ㄚ</rt></ruby>: malt.
+- <ruby>[麦芽糖](../words/麦芽糖.md)<rt>ㄇㄚㄎ·ㄚㄉ⺢ㄫ</rt></ruby>: maltose.
+
 ## Semantic Range Notes
 
 **井物 is filed under Japanese vocabulary, not a genuine Chinese compound**: this vault's own convention already uses 井 as a substitute glyph for the real character 丼 (donburi, "rice bowl") — 井+物 has no compositional "bowl of food" meaning of its own, the same pattern documented on [[井戸]]. It's the general category name that [[牛井]]/[[親子井]]/[[豚井]] (Rice Bowl Dishes above) are specific members of.

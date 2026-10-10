@@ -132,6 +132,18 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[地震](../words/地震.md)<rt>ㄉㄧㄜㄐㄧㄋ</rt></ruby>: an earthquake.
 - <ruby>[海粛](../words/海粛.md)<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby>: a tsunami — an undocumented near-duplicate of [[津波]], using a phonetic-substitute graph (粛 standing in for 嘯) for the real word 海嘯.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[山川](../words/山川.md)<rt>ㄙㄚㄋㄑ⺢ㄋ</rt></ruby>: scenery.
+- <ruby>[溶岩](../words/溶岩.md)<rt>⼄ㄫㄚㄇ</rt></ruby>: lava.
+- <ruby>[玄武岩](../words/玄武岩.md)<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby>: basalt.
+- <ruby>[環境](../words/環境.md)<rt>ㄏ⺢ㄋㄍ⼶ㄫ</rt></ruby>: environment; surroundings.
+- <ruby>[雪崩](../words/雪崩.md)<rt>ㄙ⼔ㄊㄅㄨㄫ</rt></ruby>: avalanche.
+- <ruby>[霧虹](../words/霧虹.md)<rt>ㄇㄨㄏㄛㄫ</rt></ruby>: fogbow.
+- <ruby>[風潮](../words/風潮.md)<rt>ㄈㄨㄫㄑㄚㄨ</rt></ruby>: tempest; trend.
+- <ruby>[黄沙](../words/黄沙.md)<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby>: yellow sand; Asian dust.
+- <ruby>[龍巻](../words/龍巻.md)<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby>: tornado; twister.
+
 ## Semantic Range Notes
 
 **Three "land/ground" words split by scope, not sense**: [[土地]] is the general word — ground, soil, territory. [[陸地]] narrows to dry land specifically, as opposed to the sea. [[地]] is the bound, classical form that appears mostly in compounds. A learner needs [[土地]] by default and reaches for [[陸地]] only when the land/sea contrast actually matters.

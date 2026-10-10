@@ -86,6 +86,14 @@ Rosenfelder terms with no Dan'a'yo word yet: a cloak, a coat, fashion, a rag, a 
 - <ruby>[錦繍](../words/錦繍.md)<rt>ㄎㄛㄇㄙ⼜</rt></ruby>: brocade, tapestry.
 - <ruby>[黼黻](../words/黼黻.md)<rt>ㄈㄨㄈㄨㄊ</rt></ruby>: ornate embroidered patterns — specifically the axe- and 亞-shaped Twelve Ornaments on an official's ceremonial robe.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[加沙](../words/加沙.md)<rt>ㄍㄚㄙㄚ</rt></ruby>: kāṣāya (Buddhist robes).
+- <ruby>[服装](../words/服装.md)<rt>ㄅㄨㄎㄐ⺢ㄫ</rt></ruby>: clothing; dress; outfit.
+- <ruby>[蝉冠](../words/蝉冠.md)<rt>ㄙㄝㄋㄍ⺢ㄋ</rt></ruby>: ancient hat.
+- <ruby>[陽傘](../words/陽傘.md)<rt>⼘ㄫㄙㄚㄋ</rt></ruby>: parasol.
+- <ruby>[韓服](../words/韓服.md)<rt>ㄏㄚㄋㄅㄨㄎ</rt></ruby>: Hanbok.
+
 ## Semantic Range Notes
 
 **裸 does double duty for "naked" and "to strip"**: the same word covers both the state (naked) and the verb (to undress) — Rosenfelder lists these as separate entries, but Dan'a'yo doesn't distinguish them.

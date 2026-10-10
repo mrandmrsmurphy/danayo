@@ -143,6 +143,41 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[伝説](../words/伝説.md)<rt>ㄐ⼔ㄋㄙ⼔ㄊ</rt></ruby>: legend, lore, folklore.
 - <ruby>[経典](../words/経典.md)<rt>ㄍㄝㄫㄉㄝㄋ</rt></ruby>: scripture, a classic text — the general word, used generically rather than for any one scripture in particular (per [[基督敎]]'s own note on its use there for 聖経).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[修道院](../words/修道院.md)<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby>: monastery; abbey; convent.
+- <ruby>[加沙](../words/加沙.md)<rt>ㄍㄚㄙㄚ</rt></ruby>: kāṣāya (Buddhist robes).
+- <ruby>[基督教](../words/基督教.md)<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>: Christianity.
+- <ruby>[沙羅双樹](../words/沙羅双樹.md)<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby>: sal tree; shala; sakhua.
+- <ruby>[涅盤](../words/涅盤.md)<rt>ㄋㄝㄊㄅㄚㄋ</rt></ruby>: nirvana.
+- <ruby>[炎帝](../words/炎帝.md)<rt>ㄝㄇㄊㄝㄧ</rt></ruby>: Yan emperor.
+- <ruby>[無我](../words/無我.md)<rt>ㄇㄜㄚ</rt></ruby>: non-self; anattā.
+- <ruby>[牧師](../words/牧師.md)<rt>ㄇㄨㄎㄙㄧㄜ</rt></ruby>: pastor; minister (Protestant).
+- <ruby>[猪悟能](../words/猪悟能.md)<rt>ㄐㄛㄛ·ㄋㄜㄫ</rt></ruby>: Zhu Wuneng.
+- <ruby>[猶太](../words/猶太.md)<rt>⼜ㄛㄊㄚㄧ</rt></ruby>: Jewish.
+- <ruby>[盤古](../words/盤古.md)<rt>ㄅㄚㄋㄍㄛ</rt></ruby>: Pangu (primordial creator deity of Chinese mythology).
+- <ruby>[瞻仰](../words/瞻仰.md)<rt>ㄐㄝㄇ·⼘ㄫ</rt></ruby>: look up to with reverence; pay homage to.
+- <ruby>[破戒](../words/破戒.md)<rt>ㄆㄜㄍ⼶</rt></ruby>: break a commandment.
+- <ruby>[神農](../words/神農.md)<rt>ㄙㄧㄋㄋㄛㄫ</rt></ruby>: Shennong.
+- <ruby>[神道](../words/神道.md)<rt>ㄙㄧㄋㄉㄚㄨ</rt></ruby>: natural law.
+- <ruby>[神道教](../words/神道教.md)<rt>ㄙㄧㄋㄉㄚㄨㄍ⼄ㄨ</rt></ruby>: Shintoism.
+- <ruby>[禁欲主義](../words/禁欲主義.md)<rt>ㄍㄧㄇ·⼄ㄎㄐㄨㄜㄧ</rt></ruby>: asceticism.
+- <ruby>[結加夫坐](../words/結加夫坐.md)<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby>: sit in lotus position.
+- <ruby>[老子](../words/老子.md)<rt>ㄌㄚㄨㄐㄜ</rt></ruby>: Laotzi; old man.
+- <ruby>[老師](../words/老師.md)<rt>ㄌㄚㄨㄙㄧㄜ</rt></ruby>: sage; elder monk.
+- <ruby>[聖人](../words/聖人.md)<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby>: sage; saint.
+- <ruby>[菩薩](../words/菩薩.md)<rt>ㄅㄛㄙㄚㄊ</rt></ruby>: bodhisattva.
+- <ruby>[道徳経](../words/道徳経.md)<rt>ㄉㄚㄨㄊㄨㄎㄍㄝㄫ</rt></ruby>: Tao Te Ching; Classic of the Way and Virtue.
+- <ruby>[道教](../words/道教.md)<rt>ㄉㄚㄨㄍ⼄ㄨ</rt></ruby>: Daoism.
+- <ruby>[釈珈文尼](../words/釈珈文尼.md)<rt>ㄙㄝㄎㄎㄚ·ㄇㄨㄋㄋㄧㄜ</rt></ruby>: Śākyamuni; Gautama Buddha.
+- <ruby>[阿鼻](../words/阿鼻.md)<rt>ㄚㄅㄧ</rt></ruby>: Avīci; lowest hell.
+- <ruby>[陰](../words/陰.md)<rt>ㄧㄇ</rt></ruby>: Yin; shade.
+- <ruby>[餓鬼](../words/餓鬼.md)<rt>ㄚㄍㄨㄧ</rt></ruby>: hungry ghost; preta.
+- <ruby>[鬼婆](../words/鬼婆.md)<rt>ㄍㄨㄧㄅㄚ</rt></ruby>: hag; nasty old woman (especially white).
+- <ruby>[鬼火](../words/鬼火.md)<rt>ㄍㄨㄧㄏ⺢</rt></ruby>: will-o-the-wisp; ignis fatuos.
+- <ruby>[鬼神](../words/鬼神.md)<rt>ㄍㄨㄧㄙㄧㄋ</rt></ruby>: fierce demon.
+- <ruby>[黄泉](../words/黄泉.md)<rt>ㄏ⺢ㄫㄐ⼔ㄋ</rt></ruby>: underground spring; underworld.
+
 ## Semantic Range Notes
 
 **The old placeholder "soul: hún / pò" is directly resolved by [[魂魄]]**, the compound naming that exact paired concept — hún (魂) as the vital, thinking soul-component and 魄 as the more physical, bodily one, historically paired in Chinese cosmology. [[霊魂]] sits alongside it as the broader umbrella term, general enough to translate Christian, Buddhist, and secular "soul/spirit" alike, rather than a duplicate of the same concept.

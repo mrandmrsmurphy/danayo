@@ -223,6 +223,11 @@ Rosenfelder terms with no Dan'a'yo word yet: to suspect, a trap, rash, to argue,
 - <ruby>[錮](../words/錮.md)<rt>ㄍㄛ</rt></ruby>: to confine, imprison — a bound root, more technical/legal register than [[監禁]]/[[禁錮]].
 - <ruby>[幟](../words/幟.md)<rt>ㄑㄧ</rt></ruby>: pennant, banner — the bound root behind [[旗幟]] above.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[混乱](../words/混乱.md)<rt>ㄏㄛㄋㄌㄚㄋ</rt></ruby>: chaotic; confused; riotous.
+- <ruby>[迫害](../words/迫害.md)<rt>ㄅㄚㄎㄏㄚㄧ</rt></ruby>: persecute.
+
 ## Semantic Range Notes
 
 **英雄 vs. 俊傑 vs. 豪傑 vs. 侠客 — four "heroes," each a different kind**: [[英雄]] is the general, unmarked word for hero. [[俊傑]] leans toward outstanding intellect and talent rather than action or military prowess. [[豪傑]] names a similarly gifted, larger-than-life figure ("magnificent" + "masterful"). [[侠客]] is narrower and more specific: the wandering, chivalrous swordsman of wuxia fiction — a righteous outsider beholden to no lord, not a hero in the general sense at all.

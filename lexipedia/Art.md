@@ -245,6 +245,35 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[楽経](../words/楽経.md)<rt>ㄌㄚㄎㄍㄝㄫ</rt></ruby>: Classic of Music.
 - <ruby>[詩経](../words/詩経.md)<rt>ㄙㄧㄍㄝㄫ</rt></ruby>: Classic of Poetry.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[漢詩](../words/漢詩.md)<rt>ㄏㄚㄋㄙㄧ</rt></ruby>: Chinese poetry; poem in classical Chinese.
+- <ruby>[狂想曲](../words/狂想曲.md)<rt>ㄍ⺢ㄫㄙㄚㄫㄎ⼄ㄎ</rt></ruby>: rhapsody; capriccio.
+- <ruby>[玻璃版](../words/玻璃版.md)<rt>ㄆㄚㄌㄜ·ㄆㄚㄋ</rt></ruby>: collotype.
+- <ruby>[琵琶](../words/琵琶.md)<rt>ㄅㄧㄅㄚ</rt></ruby>: pipa.
+- <ruby>[籠球](../words/籠球.md)<rt>ㄌㄛㄫㄍ⼜</rt></ruby>: basketball.
+- <ruby>[紙鳶](../words/紙鳶.md)<rt>ㄐㄝ⼶ㄋ</rt></ruby>: kite (paper).
+- <ruby>[素描](../words/素描.md)<rt>ㄙㄛ·ㄇ⼘ㄨ</rt></ruby>: sketch.
+- <ruby>[網球](../words/網球.md)<rt>ㄇㄚㄫㄍ⼜</rt></ruby>: tennis; tennis ball; net ball.
+- <ruby>[詩人](../words/詩人.md)<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby>: poet.
+- <ruby>[足球](../words/足球.md)<rt>ㄐㄛㄎㄍ⼜</rt></ruby>: football.
+- <ruby>[蹴鞠](../words/蹴鞠.md)<rt>ㄑㄨㄎㄍㄨㄎ</rt></ruby>: cuju; kemari.
+- <ruby>[送球](../words/送球.md)<rt>ㄙㄛㄫㄍ⼜</rt></ruby>: handball.
+- <ruby>[銅鑼](../words/銅鑼.md)<rt>ㄉㄛㄫㄌㄚ</rt></ruby>: gong.
+- <ruby>[銘文](../words/銘文.md)<rt>ㄇㄝㄫㄇㄨㄋ</rt></ruby>: inscription; epigraph.
+- <ruby>[録音](../words/録音.md)<rt>ㄌㄛㄎ·ㄨㄇ</rt></ruby>: record sound.
+- <ruby>[鍵盤](../words/鍵盤.md)<rt>ㄍ⼶ㄋㄅㄚㄋ</rt></ruby>: keyboard.
+- <ruby>[鎧球](../words/鎧球.md)<rt>ㄎㄚㄧㄍ⼜</rt></ruby>: American football; gridiron football; football.
+- <ruby>[陶器](../words/陶器.md)<rt>ㄉㄚㄨㄎㄧㄜ</rt></ruby>: pottery.
+- <ruby>[雅楽](../words/雅楽.md)<rt>ㄚㄌㄚㄎ</rt></ruby>: ancient court ritual music.
+- <ruby>[電影](../words/電影.md)<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>: video.
+- <ruby>[電視](../words/電視.md)<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby>: television.
+- <ruby>[鞀鼓](../words/鞀鼓.md)<rt>ㄉㄚㄨㄍㄛ</rt></ruby>: pellet drum.
+- <ruby>[音律](../words/音律.md)<rt>ㄨㄇㄌㄨㄊ</rt></ruby>: metre; rhythm.
+- <ruby>[音程](../words/音程.md)<rt>ㄨㄇㄉㄧㄫ</rt></ruby>: interval.
+- <ruby>[風笛](../words/風笛.md)<rt>ㄈㄨㄫㄉㄝㄎ</rt></ruby>: bagpipes.
+- <ruby>[麻雀](../words/麻雀.md)<rt>ㄇㄚㄐㄚㄎ</rt></ruby>: mahjong.
+
 ## Semantic Range Notes
 
 **図画 vs. 絵画 — a general/technical term vs. fine art specifically**: [[図画]] ("diagram" + "picture") is the general, slightly technical word for a drawing or picture — the kind of word one meets on a school-subject list (図画工作, "arts and crafts" as a subject). [[絵画]] ("draw, sketch" + "draw") is fine-art painting specifically, both the verb "to paint" and the noun "a painting," and is itself a `#cranberry` case: both constituent characters are legitimized as independent Dan'a'yo entries by this exact compound.

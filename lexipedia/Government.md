@@ -227,6 +227,43 @@ Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chie
 
 - <ruby>[射策](../words/射策.md)<rt>ㄙ⼘ㄑㄚㄎ</rt></ruby>: a policy examination — specifically the Han-dynasty method of drawing a random policy question written on a bamboo strip, an early ancestor of the imperial examination system (科舉) that later structured officialdom across the Sinosphere.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[代表](../words/代表.md)<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>: represent.
+- <ruby>[国籍](../words/国籍.md)<rt>ㄍㄛㄎㄐㄝㄎ</rt></ruby>: nationality.
+- <ruby>[無政府](../words/無政府.md)<rt>ㄇㄜㄐㄧㄫㄈㄨ</rt></ruby>: anarchy.
+- <ruby>[版図](../words/版図.md)<rt>ㄆㄚㄋㄉㄛ</rt></ruby>: domain; dominion; territory.
+- <ruby>[独立](../words/独立.md)<rt>ㄉㄛㄎㄌㄧㄆ</rt></ruby>: independence; independent.
+- <ruby>[独立国](../words/独立国.md)<rt>ㄉㄛㄎㄌㄧㄆㄍㄛㄎ</rt></ruby>: independent country.
+- <ruby>[玉璽](../words/玉璽.md)<rt>⼄ㄎㄙㄝ</rt></ruby>: royal seal; emperor's seal.
+- <ruby>[王冠](../words/王冠.md)<rt>⺢ㄫㄍ⺢ㄋ</rt></ruby>: crown.
+- <ruby>[王国](../words/王国.md)<rt>⺢ㄫㄍㄛㄎ</rt></ruby>: kingdom.
+- <ruby>[王妃](../words/王妃.md)<rt>⺢ㄫㄈㄧ</rt></ruby>: queen.
+- <ruby>[王子](../words/王子.md)<rt>⺢ㄫㄐㄜ</rt></ruby>: prince.
+- <ruby>[社会主義](../words/社会主義.md)<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>: socialism.
+- <ruby>[科挙](../words/科挙.md)<rt>ㄎ⺢ㄍ⼄</rt></ruby>: imperial examination; civil service exam.
+- <ruby>[立憲](../words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby>: constitutional governance; constitutionalism.
+- <ruby>[統一](../words/統一.md)<rt>ㄊㄛㄫㄧㄊ</rt></ruby>: unite.
+- <ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>: govern; rule.
+- <ruby>[罷免](../words/罷免.md)<rt>ㄅㄚㄧㄇ⼶ㄋ</rt></ruby>: defrock; dismiss; discharge.
+- <ruby>[罷官](../words/罷官.md)<rt>ㄅㄚㄧㄍ⺢ㄋ</rt></ruby>: quit; be dismissed; resigned.
+- <ruby>[肇造](../words/肇造.md)<rt>ㄐㄚㄨㄑㄚㄨ</rt></ruby>: found; establish.
+- <ruby>[自主](../words/自主.md)<rt>ㄐㄧㄜㄐㄨ</rt></ruby>: be independent; autonomy.
+- <ruby>[衆議院](../words/衆議院.md)<rt>ㄐㄨㄫㄜㄧ⼔ㄋ</rt></ruby>: House of Representatives; House of Commons.
+- <ruby>[表彰](../words/表彰.md)<rt>ㄅ⼘ㄨㄑㄚㄫ</rt></ruby>: commend; cite.
+- <ruby>[覇権](../words/覇権.md)<rt>ㄅㄚㄍ⼔ㄋ</rt></ruby>: hegemony; tyranny.
+- <ruby>[貪官](../words/貪官.md)<rt>ㄊㄚㄇㄍ⺢ㄋ</rt></ruby>: corrupt official; greedy mandarin.
+- <ruby>[跋扈](../words/跋扈.md)<rt>ㄅㄚㄊㄏㄛ</rt></ruby>: domineering; overbearing; tyrannical.
+- <ruby>[連盟](../words/連盟.md)<rt>ㄌ⼶ㄋㄇ⼶ㄫ</rt></ruby>: covenant; alliance.
+- <ruby>[連邦](../words/連邦.md)<rt>ㄌ⼶ㄋㄅㄚㄫ</rt></ruby>: federation; federal state; commonwealth.
+- <ruby>[邦畿](../words/邦畿.md)<rt>ㄅㄚㄫㄍㄧㄜ</rt></ruby>: capitol district (ancient).
+- <ruby>[郡](../words/郡.md)<rt>ㄍㄨㄋ</rt></ruby>: county; prefecture; district.
+- <ruby>[部門](../words/部門.md)<rt>ㄅㄛㄨㄇㄛㄋ</rt></ruby>: section; division.
+- <ruby>[郵政](../words/郵政.md)<rt>ㄨㄛㄐㄧㄫ</rt></ruby>: postal service; postal system.
+- <ruby>[陛下](../words/陛下.md)<rt>ㄅㄝㄧㄏㄚ</rt></ruby>: your majesty.
+- <ruby>[領土](../words/領土.md)<rt>ㄌㄧㄫㄊㄛ</rt></ruby>: territory.
+- <ruby>[首都](../words/首都.md)<rt>ㄙ⼜ㄉㄛ</rt></ruby>: capital city.
+
 ## Semantic Range Notes
 
 **郭清 spans political purging and literal surgery**: the same word means "to purge, clear away" politically and, quite literally, "surgical dissection" — the image of cutting away something unwanted extends cleanly from body to body politic.

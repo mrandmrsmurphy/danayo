@@ -96,6 +96,16 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[芬芳](../words/芬芳.md)<rt>ㄈㄨㄋㄈㄚㄫ</rt></ruby>: fragrant, sweet-smelling — a pleasant scent, perfumed or flowery (the fragrance of flowers, and by extension of virtue or writing); the pleasant counterpart to [[臭]] (to stink).
 - <ruby>[気息](../words/気息.md)<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby>: smell — a weak, tertiary sense of this word, whose primary meaning is "breath."
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[嗅覚](../words/嗅覚.md)<rt>ㄏ⼜ㄍㄚㄎ</rt></ruby>: sense of smell.
+- <ruby>[温暖](../words/温暖.md)<rt>ㄛㄆㄋㄚㄋ</rt></ruby>: lukewarm; tepid.
+- <ruby>[聴取](../words/聴取.md)<rt>ㄑㄝㄫㄑㄛㄨ</rt></ruby>: listen to; take in; hear out.
+- <ruby>[苦渋](../words/苦渋.md)<rt>ㄎㄛㄙㄧㄆ</rt></ruby>: astringent; harsh; rough.
+- <ruby>[薫](../words/薫.md)<rt>ㄏㄨㄋ</rt></ruby>: fragrant; incense.
+- <ruby>[透視](../words/透視.md)<rt>ㄊㄛㄨㄙㄧㄜ</rt></ruby>: see through.
+- <ruby>[香気](../words/香気.md)<rt>ㄏ⼘ㄫㄎㄧㄜ</rt></ruby>: fragrance; aroma; incense.
+
 ## Semantic Range Notes
 
 **This page's "hide/conceal" cluster is unusually large**: [[隠匿]], [[隠蔵]], and [[隠蔽]] are near-synonyms with no sharp distinction recorded, all three already housed on [Existence](../lexipedia/Existence.md) for the broader act of concealment — gathered here for their perceptual angle (something hidden from the senses).

@@ -267,6 +267,31 @@ _consider these; don't accept them blindly_
 * LEADERSHIP IS MOVEMENT - "Can he move the party forward"
 * BENEFIT IS MOVEMENT - "The country isn't progressing"
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[公車](../words/公車.md)<rt>ㄍㄛㄫㄑ⺢</rt></ruby>: bus; public vehicle.
+- <ruby>[搭乗](../words/搭乗.md)<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby>: boarding; embarkation; board.
+- <ruby>[移動](../words/移動.md)<rt>⼶ㄧㄉㄛㄫ</rt></ruby>: mobile; moveable.
+- <ruby>[終点](../words/終点.md)<rt>ㄐㄨㄫㄉㄝㄇ</rt></ruby>: terminus; terminal.
+- <ruby>[自動車](../words/自動車.md)<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby>: automobile.
+- <ruby>[自転車](../words/自転車.md)<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>: bicycle.
+- <ruby>[航空](../words/航空.md)<rt>ㄏㄚㄫㄎㄛㄫ</rt></ruby>: aviation.
+- <ruby>[艦船](../words/艦船.md)<rt>ㄏㄚㄇㄙ⼔ㄇ</rt></ruby>: seagoing vessels.
+- <ruby>[行](../words/行.md)<rt>ㄏㄚㄫ</rt></ruby>: attend; go to.
+- <ruby>[辞去](../words/辞去.md)<rt>ㄑㄧ·ㄎ⼄</rt></ruby>: take one's leave.
+- <ruby>[迂回](../words/迂回.md)<rt>ㄨㄏㄛㄧ</rt></ruby>: circumvent.
+- <ruby>[途中](../words/途中.md)<rt>ㄊㄛㄐㄨㄫ</rt></ruby>: en route; on the way; midway.
+- <ruby>[通行](../words/通行.md)<rt>ㄊㄛㄫㄏㄚㄫ</rt></ruby>: pass through; traffic across.
+- <ruby>[速様](../words/速様.md)<rt>ㄙㄛㄎ·⼘ㄫ</rt></ruby>: quickly.
+- <ruby>[運行](../words/運行.md)<rt>ㄨㄋㄏㄚㄫ</rt></ruby>: move; operate.
+- <ruby>[鉄道](../words/鉄道.md)<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>: railroad.
+- <ruby>[随行](../words/随行.md)<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby>: accompany; go with.
+- <ruby>[電車](../words/電車.md)<rt>ㄉㄝㄋㄑ⺢</rt></ruby>: trolley; tram.
+- <ruby>[飛](../words/飛.md)<rt>ㄈㄝㄧ</rt></ruby>: fly.
+- <ruby>[飛机](../words/飛机.md)<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby>: plane.
+- <ruby>[飛行机](../words/飛行机.md)<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>: airplane.
+- <ruby>[馬上](../words/馬上.md)<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby>: horseback.
+
 ## Semantic Range Notes
 
 **Undocumented near-duplicates recur throughout this domain**: [[逃遁]]/[[逸]] beside [[逃亡]] ("escape"), [[散布]] beside [[伝播]] ("disseminate"), [[伸長]] beside [[伸展]] ("stretch"), and [[旋転]] beside [[回転]] ("turn") are each pairs (or trios) glossing the same core meaning with no distinction recorded in either word's own Notes — the same pattern already documented on [[Mind]] and treated the same way [[親族]]/[[親戚]] are on [[Kinship]]: flagged as likely genuine duplicates, not silently invented distinctions.

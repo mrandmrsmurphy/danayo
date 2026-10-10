@@ -70,6 +70,15 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 
 - <ruby>[景致](../words/景致.md)<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby>: scenery, a scene, a view.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[背景](../words/背景.md)<rt>ㄅㄛㄧㄍ⼶ㄫ</rt></ruby>: background.
+- <ruby>[裏面](../words/裏面.md)<rt>ㄌㄧ·ㄇ⼶ㄋ</rt></ruby>: inside.
+- <ruby>[近](../words/近.md)<rt>ㄍㄧㄋ</rt></ruby>: near.
+- <ruby>[遠方](../words/遠方.md)<rt>ㄛㄋㄈㄚㄫ</rt></ruby>: distant place; far away location.
+- <ruby>[配置](../words/配置.md)<rt>ㄆㄛㄧㄑㄧ</rt></ruby>: deploy; allocate.
+- <ruby>[附近](../words/附近.md)<rt>ㄅㄨㄍㄧㄋ</rt></ruby>: vicinity.
+
 ## Semantic Range Notes
 
 **Four "occupy" words graded by force and register, not meaning alone**: [[占]] is the plain, unmarked verb — the default. [[占有]] is more formal, closer to legal possession. [[占拠]] adds the sense of holding a place *against* something, by force or in defiance of a rightful claim. [[占領]] is specifically military: to capture and hold territory in conquest. All four are cross-cited on [[Possession]] and [[Conflict]] for their own angles (having vs. fighting for), while Locatives cites them for the shared core meaning both other domains build on: to be physically present in and command a place.

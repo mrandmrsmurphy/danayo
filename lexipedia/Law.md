@@ -121,6 +121,29 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 - <ruby>[誓約](../words/誓約.md)<rt>ㄙㄝ⼘ㄎ</rt></ruby>: to swear, take an oath.
 - <ruby>[故意](../words/故意.md)<rt>ㄍㄛㄜ</rt></ruby>: intent, purpose — mens rea, criminal intent.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[掏模](../words/掏模.md)<rt>ㄉㄚㄨㄇㄛ</rt></ruby>: pickpocket; reach in and take.
+- <ruby>[版権](../words/版権.md)<rt>ㄆㄚㄋㄍ⼔ㄋ</rt></ruby>: copyright.
+- <ruby>[物証](../words/物証.md)<rt>ㄇㄨㄊㄐㄧㄫ</rt></ruby>: material evidence.
+- <ruby>[狗盗](../words/狗盗.md)<rt>ㄍㄛㄨㄉㄚㄨ</rt></ruby>: sneak thief.
+- <ruby>[獄吏](../words/獄吏.md)<rt>⼄ㄎㄌㄧ</rt></ruby>: jailer.
+- <ruby>[痴漢](../words/痴漢.md)<rt>ㄑㄧㄏㄚㄋ</rt></ruby>: pervert; molester.
+- <ruby>[章程](../words/章程.md)<rt>ㄐㄚㄫㄉㄧㄫ</rt></ruby>: rules; regulations.
+- <ruby>[規則](../words/規則.md)<rt>ㄍㄨㄧㄐㄨㄎ</rt></ruby>: obey; fixed principle.
+- <ruby>[誘拐](../words/誘拐.md)<rt>⼜ㄛㄍ⺢ㄧ</rt></ruby>: kidnap; abduct.
+- <ruby>[議定](../words/議定.md)<rt>ㄜㄧㄐㄝㄫ</rt></ruby>: reach an agreement; make an agreement.
+- <ruby>[越境](../words/越境.md)<rt>⼔ㄊㄍ⼶ㄫ</rt></ruby>: transgress; infringe on the border of.
+- <ruby>[軟禁](../words/軟禁.md)<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby>: house arrest; soft confinement.
+- <ruby>[軽罪](../words/軽罪.md)<rt>ㄎㄧㄫㄐㄛㄧ</rt></ruby>: misdemeanor.
+- <ruby>[違反](../words/違反.md)<rt>ㄨㄧㄈㄛㄋ</rt></ruby>: violate; transgress; infringe.
+- <ruby>[違犯](../words/違犯.md)<rt>ㄨㄧㄅㄚㄇ</rt></ruby>: violate; infringe upon; disobey.
+- <ruby>[遺産](../words/遺産.md)<rt>⼶ㄧㄙㄚㄋ</rt></ruby>: heritage; legacy; inheritance.
+- <ruby>[釈放](../words/釈放.md)<rt>ㄙㄝㄎㄈㄚㄫ</rt></ruby>: release; liberate.
+- <ruby>[闖入](../words/闖入.md)<rt>ㄊㄨㄇㄋㄧㄆ</rt></ruby>: break into; intrude; barge in.
+- <ruby>[限定](../words/限定.md)<rt>ㄏㄚㄋㄐㄝㄫ</rt></ruby>: restrict; limit.
+- <ruby>[駆逐](../words/駆逐.md)<rt>ㄎㄨㄉㄨㄎ</rt></ruby>: expel; banish; deport.
+
 ## Semantic Range Notes
 
 **Exile is a deliberate three-way split, cross-checked against real usage rather than left to one catch-all word.** [[流亡]] is the general verb (Mandarin liúwáng, and especially Vietnamese lưu vong, well-attested in reference to the post-1975 Vietnamese diaspora — "chính phủ lưu vong," government in exile). [[亡命]] is the compelled, flee-for-one's-life register (Japanese ぼうめい, Korean 망명, both standard words for political defection). [[放逐]] is the transitive act done *by* an authority *to* someone else (Mandarin/Japanese 放逐, more literary, used figuratively too — 放逐される, "to be ousted"). The agentive -者 forms don't cleanly split the same way in every language: Vietnamese collapses both [[流亡者]] and [[亡命者]] to the same native phrase, người lưu vong ("exiled person," built on 流亡, not a Hán Việt 者-suffixed form) — noted on both words' own pages rather than papered over.

@@ -298,6 +298,48 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[三焦](../words/三焦.md)<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby>: the triple burner (a Traditional Chinese Medicine concept with no direct Western anatomical equivalent).
 - <ruby>[繃帯](../words/繃帯.md)<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby>: a bandage.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[厉病](../words/厉病.md)<rt>ㄌㄝㄅ⼶ㄫ</rt></ruby>: leprosy.
+- <ruby>[潰瘍](../words/潰瘍.md)<rt>ㄏㄛㄧ⼘ㄫ</rt></ruby>: ulcer.
+- <ruby>[炎症](../words/炎症.md)<rt>ㄝㄇㄐㄧㄫ</rt></ruby>: inflamed.
+- <ruby>[猿痘](../words/猿痘.md)<rt>ㄛㄋㄉㄛㄨ</rt></ruby>: monkeypox; mpox.
+- <ruby>[玄暈](../words/玄暈.md)<rt>ㄏ⼔ㄋ·ㄨㄋ</rt></ruby>: dizzy; blurry; vertiginous.
+- <ruby>[生病](../words/生病.md)<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby>: to fall ill; to get sick; to catch a disease.
+- <ruby>[用疽](../words/用疽.md)<rt>⼄ㄫㄐㄜ</rt></ruby>: abscess; ulcer.
+- <ruby>[疫病](../words/疫病.md)<rt>⼶ㄎㄅ⼶ㄫ</rt></ruby>: epidemic; plague.
+- <ruby>[疲労](../words/疲労.md)<rt>ㄆㄧㄌㄚㄨ</rt></ruby>: be fatigued; strain.
+- <ruby>[疲困](../words/疲困.md)<rt>ㄆㄧ·ㄎㄛㄋ</rt></ruby>: tired; sleepy; worn out.
+- <ruby>[病毒](../words/病毒.md)<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>: virus.
+- <ruby>[病菌](../words/病菌.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: pathogenic bacteria.
+- <ruby>[症状](../words/症状.md)<rt>ㄐㄧㄫㄐ⺢ㄫ</rt></ruby>: symptom.
+- <ruby>[癒合](../words/癒合.md)<rt>⼜ㄍㄛㄆ</rt></ruby>: recover; get well.
+- <ruby>[白内障](../words/白内障.md)<rt>ㄅㄚㄎㄋㄛㄧㄐㄚㄫ</rt></ruby>: cataract.
+- <ruby>[盲人](../words/盲人.md)<rt>ㄇㄚㄫㄋㄧㄋ</rt></ruby>: blind person.
+- <ruby>[眼球](../words/眼球.md)<rt>ㄚㄋㄍ·⼜</rt></ruby>: eyeball.
+- <ruby>[眼睛](../words/眼睛.md)<rt>ㄚㄋㄐㄧㄫ</rt></ruby>: pupil.
+- <ruby>[瞳孔](../words/瞳孔.md)<rt>ㄉㄛㄫㄎㄛㄫ</rt></ruby>: pupil (of eye).
+- <ruby>[窒息](../words/窒息.md)<rt>ㄉㄝㄊㄙㄧㄎ</rt></ruby>: suffocate; asphyxiate.
+- <ruby>[罹患](../words/罹患.md)<rt>ㄌㄧㄏ⺢ㄇ</rt></ruby>: suffer from; contract.
+- <ruby>[耳根](../words/耳根.md)<rt>ㄋㄧㄍㄜㄋ</rt></ruby>: root of the ear.
+- <ruby>[肥大](../words/肥大.md)<rt>ㄅㄨㄧㄉㄚㄧ</rt></ruby>: corpulent; hypertrophied; enlarged.
+- <ruby>[肥満](../words/肥満.md)<rt>ㄅㄨㄧㄇㄚㄋ</rt></ruby>: obesity; obese.
+- <ruby>[肥脊](../words/肥脊.md)<rt>ㄅㄨㄧㄐㄝㄎ</rt></ruby>: plumpness and leanness; fatness and thinness.
+- <ruby>[胃炎](../words/胃炎.md)<rt>ㄨㄧㄝㄇ</rt></ruby>: gastritis.
+- <ruby>[胃痛](../words/胃痛.md)<rt>ㄨㄧ·ㄊㄛㄫ</rt></ruby>: stomachache; epigastric pain.
+- <ruby>[胆嚢](../words/胆嚢.md)<rt>ㄉㄚㄇㄋㄚㄫ</rt></ruby>: gallbladder.
+- <ruby>[胰臓](../words/胰臓.md)<rt>ㄧㄜㄐㄚㄫ</rt></ruby>: pancreas.
+- <ruby>[脾臓](../words/脾臓.md)<rt>ㄅㄧㄐㄚㄫ</rt></ruby>: spleen.
+- <ruby>[腫脹](../words/腫脹.md)<rt>ㄐㄛㄫㄑㄚㄫ</rt></ruby>: swelling.
+- <ruby>[舌根](../words/舌根.md)<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby>: root of the tongue; taste faculty.
+- <ruby>[艾灸](../words/艾灸.md)<rt>ㄚㄧㄍ⼜</rt></ruby>: moxibustion.
+- <ruby>[衰弱](../words/衰弱.md)<rt>ㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby>: fall away; waste away; weaken.
+- <ruby>[解剖](../words/解剖.md)<rt>ㄍ⼘ㄧㄈㄛㄨ</rt></ruby>: dissect.
+- <ruby>[診断](../words/診断.md)<rt>ㄐㄧㄋㄉ⺢ㄋ</rt></ruby>: diagnose.
+- <ruby>[過量](../words/過量.md)<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby>: overdose on; to have an excess of.
+- <ruby>[防疫](../words/防疫.md)<rt>ㄅㄚㄫ⼶ㄎ</rt></ruby>: prevent epidemic.
+- <ruby>[麻痺](../words/麻痺.md)<rt>ㄇㄚㄅㄧ</rt></ruby>: numb; paralyzed; paralysis.
+
 ## Semantic Range Notes
 
 **且爵 vs. 咬 — a register split, not a duplicate**: both mean "to chew," but [[咬]] is the ordinary, everyday word (also covering "to bite" generally), while [[且爵]] is a more formal, literary alternative specifically for chewing/mastication, not used for "to bite" at all.

@@ -176,6 +176,14 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[号線](../words/号線.md)<rt>ㄏㄚㄨㄙ⼶ㄋ</rt></ruby>: a line number (e.g. a subway or transit line's number).
 - <ruby>[分](../words/分.md)<rt>ㄅㄨㄋ</rt></ruby>: to divide — the bound root behind [[分数]] ("fraction") and [[四分之一]] ("quarter") above.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
+- <ruby>[二度](../words/二度.md)<rt>ㄋㄧㄜㄉㄛ</rt></ruby>: twice; two times.
+- <ruby>[四捨五入](../words/四捨五入.md)<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby>: rounding.
+- <ruby>[第八](../words/第八.md)<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby>: eighth; 8th.
+- <ruby>[等分](../words/等分.md)<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby>: divide into equal parts.
+
 ## Semantic Range Notes
 
 Auditing this domain surfaced several places where Dan'a'yo has to make a deliberate choice among genuinely diverging CJKV conventions, rather than simply concatenating characters.

@@ -272,3 +272,45 @@ This concentric Nine-Provinces model eventually gave way to the historical reali
 Not every ancient polity survived to see that unification.  One of the earliest to vanish was <ruby>[鄂国](../words/鄂国.md)<rt>ㄚㄎㄍㄛㄎ</rt></ruby> (the State of E), destroyed in 863 BC, yet its name endures as the one-character abbreviation for Hubei.
 
 The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]]) to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.
+
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[他郷](../words/他郷.md)<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby>: foreign land.
+- <ruby>[偪陽](../words/偪陽.md)<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby>: Fuyang.
+- <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
+- <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
+- <ruby>[欧羅巴](../words/欧羅巴.md)<rt>ㄛㄨㄌㄛ·ㄆㄚ</rt></ruby>: Europe; Europa; EU.
+- <ruby>[水原](../words/水原.md)<rt>ㄙㄨ⼔ㄋ</rt></ruby>: Suwon; Mizuhara.
+- <ruby>[江南](../words/江南.md)<rt>ㄍㄚㄫㄋㄚㄇ</rt></ruby>: south river; Gangnam.
+- <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
+- <ruby>[漢江](../words/漢江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
+- <ruby>[火山島](../words/火山島.md)<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby>: volcanic island.
+- <ruby>[烏魯斉](../words/烏魯斉.md)<rt>ㄛㄌㄛㄇㄐㄝㄧ</rt></ruby>: Ürümqi.
+- <ruby>[無定河](../words/無定河.md)<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby>: Wuding River.
+- <ruby>[環礁](../words/環礁.md)<rt>ㄏ⺢ㄋㄐㄚㄨ</rt></ruby>: atoll.
+- <ruby>[百済](../words/百済.md)<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby>: Baekje.
+- <ruby>[盧森堡](../words/盧森堡.md)<rt>ㄌㄛㄙㄨㄇㄅㄚㄨ</rt></ruby>: Luxembourg.
+- <ruby>[祖国](../words/祖国.md)<rt>ㄐㄜㄍㄛㄎ</rt></ruby>: motherland; homeland.
+- <ruby>[突厥](../words/突厥.md)<rt>ㄊㄛㄊㄎㄨㄊ</rt></ruby>: Turks.
+- <ruby>[経緯](../words/経緯.md)<rt>ㄍㄝㄫㄨㄧ</rt></ruby>: warp and woof; latitude and longitude.
+- <ruby>[緯線](../words/緯線.md)<rt>ㄨㄧㄙ⼶ㄋ</rt></ruby>: line of latitude.
+- <ruby>[羅馬](../words/羅馬.md)<rt>ㄌㄛ·ㄇㄚ</rt></ruby>: Roman.
+- <ruby>[美洲](../words/美洲.md)<rt>ㄇㄧㄐㄨㄛ</rt></ruby>: Americas.
+- <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
+- <ruby>[英吉利](../words/英吉利.md)<rt>ㄝㄫㄍㄧㄊㄌㄧㄜ</rt></ruby>: England (dated).
+- <ruby>[英語圏](../words/英語圏.md)<rt>ㄝㄫ⼄ㄍ⼔ㄋ</rt></ruby>: Anglosphere.
+- <ruby>[葡萄牙](../words/葡萄牙.md)<rt>ㄅㄛㄉㄚㄨㄚ</rt></ruby>: Portugal.
+- <ruby>[蘇連](../words/蘇連.md)<rt>ㄙㄛㄌ⼶ㄋ</rt></ruby>: Soviet Union.
+- <ruby>[西洋](../words/西洋.md)<rt>ㄙㄝㄧ⼘ㄫ</rt></ruby>: the West; Western.
+- <ruby>[西班牙](../words/西班牙.md)<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby>: Spain.
+- <ruby>[赤道](../words/赤道.md)<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby>: equator.
+- <ruby>[辺境](../words/辺境.md)<rt>ㄅㄝㄋㄍ⼶ㄫ</rt></ruby>: frontier; border.
+- <ruby>[辺疆](../words/辺疆.md)<rt>ㄅㄝㄋㄍ⼘ㄋ</rt></ruby>: frontier; border region.
+- <ruby>[関島](../words/関島.md)<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby>: Guam.
+- <ruby>[隣国](../words/隣国.md)<rt>ㄌㄧㄋㄍㄛㄎ</rt></ruby>: neighboring country.
+- <ruby>[露国](../words/露国.md)<rt>ㄌㄛㄍㄛㄎ</rt></ruby>: Russia.
+- <ruby>[韓江](../words/韓江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
+- <ruby>[香港](../words/香港.md)<rt>ㄏ⼘ㄫㄏㄛㄫ</rt></ruby>: Hong Kong.
+- <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
+- <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
+- <ruby>[魏国](../words/魏国.md)<rt>ㄝㄍㄛㄎ</rt></ruby>: Wei kingdom.

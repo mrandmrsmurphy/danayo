@@ -68,6 +68,15 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[照耀](../words/照耀.md)<rt>ㄐㄛㄨ⼄ㄨ</rt></ruby>: to shine upon, illuminate, radiate — literary and elevated; everyday contexts prefer 照射 or 照明.
 - <ruby>[陽](../words/陽.md)<rt>⼘ㄫ</rt></ruby>: to shine; also the sun or the yang principle (as in 陰陽). A three-way homophone with [[揚]] and [[様]] (all ⼘ㄫ).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[灯籠](../words/灯籠.md)<rt>ㄉㄨㄫㄌㄛㄫ</rt></ruby>: lantern.
+- <ruby>[焦点](../words/焦点.md)<rt>ㄐㄛㄨㄉㄝㄇ</rt></ruby>: focus; focal point.
+- <ruby>[蒙朧](../words/蒙朧.md)<rt>ㄇㄛㄫㄌㄛㄫ</rt></ruby>: indistinct; unclear; vague.
+- <ruby>[陽光](../words/陽光.md)<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby>: sunshine; sunlight.
+- <ruby>[陽炎](../words/陽炎.md)<rt>⼘ㄫㄝㄇ</rt></ruby>: heat shimmer; glare of sunlight.
+- <ruby>[電灯](../words/電灯.md)<rt>ㄉㄝㄋㄉㄨㄫ</rt></ruby>: lamp; electric light.
+
 ## Semantic Range Notes
 
 **"Dark" splits by connotation, not just degree**: English "dark" covers one plain idea; Dan'a'yo (following Chinese) has several words that name a *kind* of darkness. [[暗]] is the plain, unmarked word — the one used here. [[冥]] leans toward gloom and the underworld (冥界, the realm of the dead). [[幽]] is darkness understood as seclusion and quiet rather than an absence of light as such. [[昧]] is darkness as ignorance or moral confusion ("benighted"), a metaphorical extension rather than a literal one. None of these three is included as its own Light.md entry, since each belongs more properly to a different domain (the afterlife, solitude, or ignorance) than to light itself — but a learner reaching for "dark" in a Dan'a'yo-to-English direction needs to know 暗 is the default, not these.

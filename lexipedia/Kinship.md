@@ -192,6 +192,10 @@ Words for the kin-group itself, rather than any one relative within it.
 
 **Not yet linked**: "folk" — no attested vault word for a generic "folk."
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[爺爺](../words/爺爺.md)<rt>⼘⼘</rt></ruby>: grandpappy; grandpapa (intimate).
+
 ## Semantic Range Notes
 
 The clearest structural fact about this domain is that Dan'a'yo, like its CJKV sources, has no unmarked sibling terms at all. English "brother" and "sister" each correspond to two obligatorily-marked Dan'a'yo words apiece — [[兄]]/[[弟]] and [[姉]]/[[細妹]] — splitting on relative age rather than absolute gender-neutral kinship. [[兄弟]] and [[姉妹]] exist as collective plurals ("brothers," "sisters" as a group) but even these presuppose you already know, or don't need to specify, which individuals are older or younger; there is no way to say "I have a brother" in Dan'a'yo without also committing to whether he is older or younger than you.

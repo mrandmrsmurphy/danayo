@@ -169,6 +169,41 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 **Excluded as a false match**: "sign" also loosely matches [[踪影]], but that word means "a trace, sign of" something (evidence), not a semiotic sign or gesture — the semiotic sense is otherwise covered by [[標識]]/[[符号]], already housed on [Shape](../lexipedia/Shape.md) and [Grammar](../lexipedia/Grammar.md) respectively.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[伝播](../words/伝播.md)<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby>: propagate; disseminate; spread.
+- <ruby>[字南](../words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby>: Chu Nom, Vietnamese written in Chinese characters.
+- <ruby>[正字法](../words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby>: orthography.
+- <ruby>[片仮名](../words/片仮名.md)<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby>: katakana.
+- <ruby>[異音](../words/異音.md)<rt>ㄧㄨㄇ</rt></ruby>: allophony.
+- <ruby>[簡潔](../words/簡潔.md)<rt>ㄍㄚㄋㄍㄝㄊ</rt></ruby>: concise; succinct.
+- <ruby>[網語](../words/網語.md)<rt>ㄇㄚㄫ⼄</rt></ruby>: online speak.
+- <ruby>[網語体](../words/網語体.md)<rt>ㄇㄚㄫ⼄·ㄊㄝㄧ</rt></ruby>: internet-language register; netspeak style.
+- <ruby>[羅馬字](../words/羅馬字.md)<rt>ㄌㄛ·ㄇㄚㄐㄧ</rt></ruby>: latin letters; roman alphabet; romanization.
+- <ruby>[羅馬語](../words/羅馬語.md)<rt>ㄌㄛ·ㄇㄚ⼄</rt></ruby>: Latin.
+- <ruby>[英語](../words/英語.md)<rt>ㄝㄫ⼄</rt></ruby>: English language.
+- <ruby>[西班牙語](../words/西班牙語.md)<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ⼄</rt></ruby>: Spanish language.
+- <ruby>[言語](../words/言語.md)<rt>ㄝㄋ·⼄</rt></ruby>: language.
+- <ruby>[討論](../words/討論.md)<rt>ㄊㄚㄨㄌㄛㄋ</rt></ruby>: debate.
+- <ruby>[詞句](../words/詞句.md)<rt>ㄙㄚㄍㄨ</rt></ruby>: words and phrases.
+- <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul.
+- <ruby>[越南語](../words/越南語.md)<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Vietnamese language.
+- <ruby>[逗号](../words/逗号.md)<rt>ㄉㄚㄨㄏㄚㄨ</rt></ruby>: comma.
+- <ruby>[通信](../words/通信.md)<rt>ㄊㄛㄫㄙㄧㄋ</rt></ruby>: communication; correspondence.
+- <ruby>[逸事](../words/逸事.md)<rt>ㄧㄊㄐㄧ</rt></ruby>: anecdote.
+- <ruby>[逸話](../words/逸話.md)<rt>ㄧㄊㄏ⺢ㄧ</rt></ruby>: anecdote.
+- <ruby>[阿](../words/阿.md)<rt>ㄚ</rt></ruby>: ah.
+- <ruby>[電話](../words/電話.md)<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>: telephone.
+- <ruby>[露斯亜語](../words/露斯亜語.md)<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby>: Russian language.
+- <ruby>[露語](../words/露語.md)<rt>ㄌㄛ⼄</rt></ruby>: Russian language.
+- <ruby>[韓国語](../words/韓国語.md)<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>: Korean language (South).
+- <ruby>[音素](../words/音素.md)<rt>ㄨㄇㄙㄛ</rt></ruby>: phoneme.
+- <ruby>[音韻](../words/音韻.md)<rt>ㄨㄇ·ㄨㄋ</rt></ruby>: phonology; phoneme.
+- <ruby>[飛報](../words/飛報.md)<rt>ㄈㄝㄧㄅㄚㄨ</rt></ruby>: report rapidly.
+- <ruby>[飛語](../words/飛語.md)<rt>ㄈㄝㄧ⼄</rt></ruby>: baseless rumor; false gossip.
+- <ruby>[黙黙](../words/黙黙.md)<rt>ㄇㄨㄎㄇㄨㄎ</rt></ruby>: silently; quietly; without a word.
+- <ruby>[𧦅歌](../words/𧦅歌.md)<rt>ㄛㄨㄍㄜ</rt></ruby>: eulogize; extol.
+
 ## Semantic Range Notes
 
 **This page turned up an unusually dense cluster of near-synonym pairs**, more than most other lexipedia pages: [[誇張]]/[[誇]] ("exaggerate"), and a whole family of "report/inform" words ([[報]], [[報告]], [[報知]], [[通知]], [[稟告]], [[申告]]) distinguished mainly by formality and hierarchy rather than sense. None of these were treated as duplicates to be collapsed — each carries a real register distinction documented above — except [[誇張]]/[[誇]], flagged as a genuine undocumented near-duplicate.

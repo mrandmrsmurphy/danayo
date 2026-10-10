@@ -137,6 +137,33 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 
 **Not yet coined**: "rain forest," "temperate forest," "Mediterranean" (as a biome/climate adjective), "taiga," and "tundra" all have no dedicated Dan'a'yo word yet.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[桧木](../words/桧木.md)<rt>ㄍ⺢ㄧㄇㄛㄎ</rt></ruby>: hinoki cypress; Japanese cypress.
+- <ruby>[沙羅双樹](../words/沙羅双樹.md)<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby>: sal tree; shala; sakhua.
+- <ruby>[牡丹](../words/牡丹.md)<rt>ㄇㄛㄨㄉㄚㄋ</rt></ruby>: peony.
+- <ruby>[白止](../words/白止.md)<rt>ㄅㄚㄎㄐㄧ</rt></ruby>: Angelica dahurica.
+- <ruby>[白菜](../words/白菜.md)<rt>ㄅㄚㄎㄑㄚㄧ</rt></ruby>: bok choy.
+- <ruby>[白頭翁](../words/白頭翁.md)<rt>ㄅㄚㄎㄊㄛㄨㄛㄫ</rt></ruby>: white-haired old man; grey starling; root of Pulsatilla cernua.
+- <ruby>[目宿](../words/目宿.md)<rt>ㄇㄨㄎㄙㄨㄎ</rt></ruby>: alfalfa.
+- <ruby>[種苗](../words/種苗.md)<rt>ㄐㄛㄫㄇ⼘ㄨ</rt></ruby>: seedling.
+- <ruby>[紫丁香](../words/紫丁香.md)<rt>ㄐㄝㄉㄝㄫㄏ⼘ㄫ</rt></ruby>: lilac.
+- <ruby>[芦葦](../words/芦葦.md)<rt>ㄌㄛㄏㄨㄧ</rt></ruby>: reed; rush.
+- <ruby>[芭蕉](../words/芭蕉.md)<rt>ㄅㄚㄐㄛㄨ</rt></ruby>: Japanese banana; musa basjoo.
+- <ruby>[花粉](../words/花粉.md)<rt>ㄏ⺢ㄈㄨㄋ</rt></ruby>: pollen.
+- <ruby>[茅草](../words/茅草.md)<rt>ㄇ⼘ㄨㄑㄚㄨ</rt></ruby>: cogon grass; thatch.
+- <ruby>[落花](../words/落花.md)<rt>ㄌㄚㄎㄏ⺢</rt></ruby>: falling blossoms.
+- <ruby>[蒲公英](../words/蒲公英.md)<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby>: dandelion.
+- <ruby>[蓬藁](../words/蓬藁.md)<rt>ㄅㄛㄫㄏㄚㄨ</rt></ruby>: mugwort; artemisia; wormwood.
+- <ruby>[藍木](../words/藍木.md)<rt>ㄌㄚㄇㄇㄛㄎ</rt></ruby>: indigo; anil.
+- <ruby>[蘭花](../words/蘭花.md)<rt>ㄌㄚㄋㄏ⺢</rt></ruby>: orchid; lily.
+- <ruby>[離枝](../words/離枝.md)<rt>ㄌㄝㄧㄐㄝ</rt></ruby>: lychee; kingdom of Lizhi.
+- <ruby>[霊芝](../words/霊芝.md)<rt>ㄌㄝㄫㄐㄧ</rt></ruby>: lingzhi; Ganoderma lucidum.
+- <ruby>[香蒲](../words/香蒲.md)<rt>ㄏ⼘ㄫㄅㄛ</rt></ruby>: cattail; bulrush; Typha.
+- <ruby>[鮮花](../words/鮮花.md)<rt>ㄙ⼶ㄇㄏ⺢</rt></ruby>: fresh flowers.
+- <ruby>[黄檗](../words/黄檗.md)<rt>ㄏ⺢ㄫㄅㄚㄎ</rt></ruby>: amur cork tree.
+- <ruby>[龍眼](../words/龍眼.md)<rt>ㄌ⼄ㄫㄚㄋ</rt></ruby>: longan.
+
 ## Semantic Range Notes
 
 **The missing bare word for "flower" is the most striking gap on this page.** Every plant vocabulary this vault has otherwise developed in real depth — trees, grasses, crops, medicinal herbs — yet the single most basic plant-part word in English has no independent Dan'a'yo word: 花 itself has no word page, appearing only bound inside compounds ([[花梗]] "flower stalk," [[花弁]] "petal," [[花卉]] "flowers and plants," [[草花]] "flowering plants"). This mirrors the pattern already noted on [[Physics]], where foundational vocabulary (energy, gravity, mass) turned out to be genuinely uncoined rather than merely hard to find.

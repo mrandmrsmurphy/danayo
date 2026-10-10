@@ -54,6 +54,15 @@ Subatomic particles — this vocabulary is shared directly with [[Periodic Table
 - <ruby>[電子](../words/電子.md)<rt>ㄉㄝㄋㄐㄜ</rt></ruby>: an electron.
 - <ruby>[光子](../words/光子.md)<rt>ㄎ⺢ㄫㄐㄜ</rt></ruby>: a photon.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[発電](../words/発電.md)<rt>ㄈㄚㄊㄉㄝㄋ</rt></ruby>: generate power.
+- <ruby>[磁性](../words/磁性.md)<rt>ㄐㄧㄙㄧㄫ</rt></ruby>: magnetism.
+- <ruby>[陰極](../words/陰極.md)<rt>ㄧㄇㄍㄧㄎ</rt></ruby>: cathode.
+- <ruby>[陽極](../words/陽極.md)<rt>⼘ㄫㄍㄧㄎ</rt></ruby>: anode.
+- <ruby>[電気](../words/電気.md)<rt>ㄉㄝㄋㄎㄧㄜ</rt></ruby>: electricity; electrify.
+- <ruby>[音波](../words/音波.md)<rt>ㄨㄇㄅㄚ</rt></ruby>: soundwave.
+
 ## Semantic Range Notes
 
 **"Light" (weight) and "light" (illumination) are entirely different words, not one word covering both senses**: [[軽]] means light in weight, the opposite of [[重]]; [[光]] means light as illumination, cited on [[Light]] instead. English collapses these into one word; Dan'a'yo, following its source languages, does not.

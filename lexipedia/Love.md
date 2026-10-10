@@ -67,6 +67,14 @@ Four independently attested near-synonyms, differing mainly by register rather t
 - <ruby>[交際](../words/交際.md)<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby>: to socialize, hang out — courtship-adjacent (used for a couple "seeing each other socially"), a broader ongoing-relationship register than the individual event named by [[約会]] above.
 - <ruby>[嫉妬](../words/嫉妬.md)<rt>ㄐㄧㄊㄉㄛ</rt></ruby>: to be jealous, envious (of a rival or a partner's attention).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[痴情](../words/痴情.md)<rt>ㄑㄧㄑㄧㄫ</rt></ruby>: intense infatuation.
+- <ruby>[結婚礼](../words/結婚礼.md)<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby>: weddings.
+- <ruby>[艶福](../words/艶福.md)<rt>⼶ㄇㄈㄨㄎ</rt></ruby>: success in love.
+- <ruby>[蜜月](../words/蜜月.md)<rt>ㄇㄧㄊ⼔ㄊ</rt></ruby>: honeymoon.
+- <ruby>[魅惑](../words/魅惑.md)<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby>: charm; captivate; enchant.
+
 ## Semantic Range Notes
 
 **愛人's four-way cross-linguistic split, resolved by fiat**: the same two characters (愛 "love" + 人 "person") land on genuinely different, sometimes contradictory senses across the source languages — standard-register "spouse" in mainland Mandarin (not a dating partner, a common trap for learners), closer to "lover" (sometimes illicit) in Taiwan/Hong Kong Mandarin, neutral "boyfriend/girlfriend" in Korean and Vietnamese, and specifically "mistress, the other party in an affair" in modern Japanese (a post-WWII narrowing — before the war it simply meant "lover"). Rather than pick a side, Dan'a'yo imposes a fiat "lover, partner" sense — the mechanical gluing-together of the two components — and mints [[愛女]]/[[愛男]] ("love-woman"/"love-man") as original coinages specifically to name the neutral, gender-marked "girlfriend"/"boyfriend" senses without inheriting 愛人's ambiguity. See [[愛人]]'s own page for the full per-language breakdown.

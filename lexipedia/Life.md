@@ -106,6 +106,25 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 
 **Not yet coined**: "scurvy," "arthritis," "bruise," "rash," "wart," "blister," and "pock-mark" have no dedicated Dan'a'yo word yet — a thin corner of this domain, flagged rather than skipped silently.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[死亡人数](../words/死亡人数.md)<rt>ㄙㄧㄜㄇㄚㄫㄋㄧㄋㄙㄨ</rt></ruby>: death toll.
+- <ruby>[死亡率](../words/死亡率.md)<rt>ㄙㄧㄜㄇㄚㄫㄌㄨㄊ</rt></ruby>: mortality rate; death rate.
+- <ruby>[滋生](../words/滋生.md)<rt>ㄐㄜㄙㄚㄫ</rt></ruby>: grow; multiply; thrive.
+- <ruby>[生机](../words/生机.md)<rt>ㄙㄚㄫㄍㄧㄜ</rt></ruby>: vitality; life force.
+- <ruby>[生死](../words/生死.md)<rt>ㄙㄚㄫㄙㄧㄜ</rt></ruby>: life and death.
+- <ruby>[終身](../words/終身.md)<rt>ㄐㄨㄫㄙㄧㄋ</rt></ruby>: lifetime; whole life.
+- <ruby>[萌芽](../words/萌芽.md)<rt>ㄇㄜㄫㄚ</rt></ruby>: bud; sprout.
+- <ruby>[萎縮](../words/萎縮.md)<rt>⼔ㄧㄙㄨㄎ</rt></ruby>: wither; atrophy; slump.
+- <ruby>[蕃息](../words/蕃息.md)<rt>ㄈㄚㄋㄙㄧㄎ</rt></ruby>: proliferate; flourish.
+- <ruby>[誕生](../words/誕生.md)<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby>: be born.
+- <ruby>[起床](../words/起床.md)<rt>ㄎㄧㄙ⼘ㄇ</rt></ruby>: get out of bed.
+- <ruby>[起死](../words/起死.md)<rt>ㄎㄧㄙㄧㄜ</rt></ruby>: bring the dead back to life (medically).
+- <ruby>[逝去](../words/逝去.md)<rt>ㄙㄝ·ㄎ⼄</rt></ruby>: pass away; die.
+- <ruby>[遺伝子](../words/遺伝子.md)<rt>⼶ㄧㄐ⼔ㄋㄐㄜ</rt></ruby>: gene.
+- <ruby>[青年](../words/青年.md)<rt>ㄑㄝㄫㄋㄝㄋ</rt></ruby>: youth; young man.
+- <ruby>[養生](../words/養生.md)<rt>⼘ㄫㄙㄚㄫ</rt></ruby>: care for; protect.
+
 ## Semantic Range Notes
 
 **Four "life" words, split by angle, not by error**: English collapses "life" into one word where Dan'a'yo (following Chinese) keeps four genuinely distinct compounds. [[生命]] names the bare biological fact of being alive — the thing a corpse has lost. [[人生]] names a *person's* life specifically, viewed as a course or biography ("my life has been..."). [[生活]] names daily living — how one spends one's days, one's lifestyle — and doubles as the ordinary verb "to live." [[生存]] names survival specifically: the continued fact of not having died, often under threat or hardship. A learner reaching for "life" in English must choose among these four depending on which angle — bare existence, biography, daily routine, or survival — is meant.

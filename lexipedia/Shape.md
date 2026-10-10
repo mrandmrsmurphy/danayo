@@ -166,6 +166,19 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: to form, assemble, combine — excluded from general "form" citation above since its dominant sense is "union, association" (already housed on [Work](../lexipedia/Work.md)); listed here only to document why it was not cited as a plain "form" match.
 - <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: to join, fit together, combine — the general verb and the bound root behind [[組合]] above, [[合金]] (on [Metals](../lexipedia/Metals.md)), and 結合/合成 (both still uncited).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[圓周](../words/圓周.md)<rt>⼔ㄋㄐㄨㄛ</rt></ruby>: circumference.
+- <ruby>[圓錐曲線](../words/圓錐曲線.md)<rt>⼔ㄋㄐㄨㄧㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby>: conic section.
+- <ruby>[放物線](../words/放物線.md)<rt>ㄈㄚㄫㄇㄨㄊㄙ⼶ㄋ</rt></ruby>: parabola.
+- <ruby>[斜坂](../words/斜坂.md)<rt>ㄙ⼘ㄅㄛㄋ</rt></ruby>: slope; incline.
+- <ruby>[準線](../words/準線.md)<rt>ㄐㄨㄋㄙ⼶ㄋ</rt></ruby>: directrix.
+- <ruby>[漸近線](../words/漸近線.md)<rt>ㄐㄝㄇㄍㄧㄋㄙ⼶ㄋ</rt></ruby>: asymptote.
+- <ruby>[球体](../words/球体.md)<rt>ㄍ⼜·ㄊㄝㄧ</rt></ruby>: sphere.
+- <ruby>[菱形](../words/菱形.md)<rt>ㄌㄜㄫㄏㄝㄫ</rt></ruby>: rhombus; diamond shape.
+- <ruby>[輪郭](../words/輪郭.md)<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby>: outline; contour; silhouette.
+- <ruby>[頂点](../words/頂点.md)<rt>ㄐㄝㄫㄉㄝㄇ</rt></ruby>: peak; vertex; apex.
+
 ## Semantic Range Notes
 
 **"Square" and "cube" are now resolved by [[正方形]] and [[立方体]]**, both genuinely real, standard, everyday geometric terms in Mandarin and Japanese; Korean and Vietnamese each have their own more common alternative term for the same shapes (noted on the words' own pages), though the compositional readings stored here remain real and correct. [[広場]] ("square," a town plaza) was excluded as an unrelated architectural/spatial homograph.

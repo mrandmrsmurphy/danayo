@@ -135,6 +135,27 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 **Not yet coined or excluded as false matches**: "Partner" (business) has no dedicated word — [[伴侶]] and [[愛人]], which also gloss "partner," both mean a personal/romantic companion or lover. "Shop" (retail) is covered only by [[商店]] above — [[工場]], which also glosses "shop," means a workplace or factory. "Bill" (an invoice) has no dedicated word — [[鳥嘴]], which also glosses "bill," means a bird's beak, an unrelated homograph. "Moneylender," "luxury," "alms," "purse," "advertise," "file," "asset," "debit," and "credit" are all likewise genuinely uncoined.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[兌換](../words/兌換.md)<rt>ㄉ⺢ㄧㄏ⺢ㄇ</rt></ruby>: exchange; redeem currency.
+- <ruby>[新品](../words/新品.md)<rt>ㄙㄧㄋㄆㄨㄇ</rt></ruby>: new products; new arrivals.
+- <ruby>[発財](../words/発財.md)<rt>ㄈㄚㄊㄐㄚㄧ</rt></ruby>: make a fortune.
+- <ruby>[破綻](../words/破綻.md)<rt>ㄆㄜㄉㄚㄋ</rt></ruby>: bankruptcy; breakdown; failure.
+- <ruby>[経済学](../words/経済学.md)<rt>ㄍㄝㄫㄐㄝㄧㄏㄚㄎ</rt></ruby>: economics.
+- <ruby>[経費](../words/経費.md)<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>: expenditures; expenses.
+- <ruby>[花店](../words/花店.md)<rt>ㄏ⺢ㄉㄝㄇ</rt></ruby>: florist.
+- <ruby>[融資](../words/融資.md)<rt>⼜ㄫㄐㄧㄜ</rt></ruby>: pay by loan; finance.
+- <ruby>[証券](../words/証券.md)<rt>ㄐㄧㄫㄎㄛㄋ</rt></ruby>: security.
+- <ruby>[貨物](../words/貨物.md)<rt>ㄏ⺢·ㄇㄨㄊ</rt></ruby>: goods; commodity.
+- <ruby>[資本](../words/資本.md)<rt>ㄐㄧㄜㄅㄛㄋ</rt></ruby>: capital (finance); resource.
+- <ruby>[購入](../words/購入.md)<rt>ㄍㄛㄨㄋㄧㄆ</rt></ruby>: purchase.
+- <ruby>[運送](../words/運送.md)<rt>ㄨㄋㄙㄛㄫ</rt></ruby>: transport.
+- <ruby>[金融](../words/金融.md)<rt>ㄍㄧㄇ·⼜ㄫ</rt></ruby>: finance.
+- <ruby>[開張](../words/開張.md)<rt>ㄎㄚㄧㄑㄚㄫ</rt></ruby>: grand opening.
+- <ruby>[食費](../words/食費.md)<rt>ㄙㄧㄎㄈㄚㄧ</rt></ruby>: food expenses.
+- <ruby>[騰貴](../words/騰貴.md)<rt>ㄉㄜㄫㄍㄨㄧ</rt></ruby>: to soar in price; price inflation.
+- <ruby>[龍断](../words/龍断.md)<rt>ㄌ⼄ㄫㄉ⺢ㄋ</rt></ruby>: monopolize.
+
 ## Semantic Range Notes
 
 **The "display/show" cluster is large but not redundant**: [[陳列]] (exhibiting merchandise), [[顕示]] (revealing/demonstrating), [[顕現]] (manifesting), [[提示]] (presenting/producing), and [[公開]] (making public) each carry a real, distinct register — this vault's own [[Existence]] page already houses most of them for their broader sense, gathered here for their trade-relevant angle.

@@ -207,6 +207,22 @@ Rosenfelder names one concept ("present"); the scratch bucket alone turned up a 
 - <ruby>[力](../words/力.md)<rt>ㄌㄧㄎ</rt></ruby> / <ruby>[勢力](../words/勢力.md)<rt>ㄙㄝㄌㄧㄎ</rt></ruby> / <ruby>[威力](../words/威力.md)<rt>ㄛㄧㄌㄧㄎ</rt></ruby> / <ruby>[魔力](../words/魔力.md)<rt>ㄇㄚㄌㄧㄎ</rt></ruby>: power, strength, influence, might — a cluster from the bare physical (力) through political influence (勢力) to sheer might (威力) to the fantastical (魔力, "magical power").
 - <ruby>[系詞](../words/系詞.md)<rt>ㄏㄝㄧㄙㄚ</rt></ruby> / <ruby>[繋辞](../words/繋辞.md)<rt>ㄏㄝㄧㄑㄧ</rt></ruby>: copula — the grammatical concept underlying this whole domain's [[是]]/[[非]]/[[在]]/[[有]]/[[無]]/[[莫]] discussion above; see [[Grammar]] for the fuller part-of-speech system.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[残](../words/残.md)<rt>ㄐㄚㄋ</rt></ruby>: remaining; not broken off.
+- <ruby>[混然](../words/混然.md)<rt>ㄏㄛㄋㄋ⼶ㄋ</rt></ruby>: integrated; unified.
+- <ruby>[潜在](../words/潜在.md)<rt>ㄐㄝㄇㄐㄚㄧ</rt></ruby>: potential; latent.
+- <ruby>[無人](../words/無人.md)<rt>ㄇㄜ·ㄋㄧㄋ</rt></ruby>: depopulated; unmanned.
+- <ruby>[無常](../words/無常.md)<rt>ㄇㄜㄙ⼘ㄫ</rt></ruby>: transient; impermanent; mutable.
+- <ruby>[異体](../words/異体.md)<rt>ㄧ·ㄊㄝㄧ</rt></ruby>: variant.
+- <ruby>[痕跡](../words/痕跡.md)<rt>ㄏㄜㄋㄐㄝㄎ</rt></ruby>: vestige.
+- <ruby>[縁故](../words/縁故.md)<rt>⼶ㄋㄍㄛ</rt></ruby>: reason; cause; the why of something.
+- <ruby>[衰退](../words/衰退.md)<rt>ㄙ⼔ㄧㄊㄧㄜ</rt></ruby>: decline.
+- <ruby>[要素](../words/要素.md)<rt>⼄ㄨㄙㄛ</rt></ruby>: element; factor; component.
+- <ruby>[重畳](../words/重畳.md)<rt>ㄑㄛㄫㄉㄝㄆ</rt></ruby>: reduplication; layering, overlapping.
+- <ruby>[障碍](../words/障碍.md)<rt>ㄐㄚㄫㄚㄧ</rt></ruby>: obstacle; barrier; handicap.
+- <ruby>[隠形](../words/隠形.md)<rt>ㄜㄋㄏㄝㄫ</rt></ruby>: invisible.
+
 ## Semantic Range Notes
 
 The most consequential feature of this domain is that Dan'a'yo, following Chinese, **splits "to be" into six genuinely distinct, non-interchangeable words** rather than merging them the way English does — confirmed by the vault's own grammar, where all six independently share `pos: 系詞` (copula), not a coincidence of similar meaning but a real shared grammatical class. [[是]] is the identity copula ("this is that"), with [[非]] as its direct negation ("this is not that"). [[在]] is the locative/existential copula ("X is located at Y" / "X exists"), with [[存在]] as the general abstract verb/noun for existence itself — distinct from 在's specifically locative flavor. [[有]] is possessive-existential ("X has Y" / "there is a Y"), with [[無]] as its negation ("there is no Y"). [[莫]] is a sixth, subtler case: a negative existential *quantifier* over an action or agent rather than a static negation of possession — "莫 + verb" means "no one/nothing does [verb]," distinct from 無's flat "there is not [a thing]." A learner cannot substitute any of these for another — "the book is on the table" needs 在, not 是; "there is a book" needs 有, not 在; "no one came" needs 莫, not 無.

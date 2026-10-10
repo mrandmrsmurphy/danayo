@@ -195,3 +195,27 @@ language: English
 - <ruby>[磚石](../words/磚石.md)<rt>ㄐㄝㄋㄙㄝㄎ</rt></ruby>: bricks and stones, construction material.
 - <ruby>[畳](../words/畳.md)<rt>ㄉㄝㄆ</rt></ruby>: a tatami mat, folding mat — a genuine flooring/matting item Rosenfelder's own "carpet"/"mattress" entries don't cover (both "no clean consensus," above).
 - <ruby>[墊](../words/墊.md)<rt>ㄉㄧㄆ</rt></ruby>: a mat, pad, cushion — a general-purpose padding item, distinct from [[畳]]'s specific tatami/flooring sense.
+
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[体育館](../words/体育館.md)<rt>ㄊㄝㄧ⼜ㄎㄍ⺢ㄋ</rt></ruby>: gymnasium; gym.
+- <ruby>[修道院](../words/修道院.md)<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby>: monastery; abbey; convent.
+- <ruby>[宿舎](../words/宿舎.md)<rt>ㄙㄨㄎㄙ⼘</rt></ruby>: dormitory; lodge; living quarters.
+- <ruby>[棟梁](../words/棟梁.md)<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby>: ridgepole; mainstay.
+- <ruby>[水族館](../words/水族館.md)<rt>ㄙㄨㄐㄛㄎㄍ⺢ㄋ</rt></ruby>: aquarium.
+- <ruby>[溝涜](../words/溝涜.md)<rt>ㄍㄛㄨㄉㄛㄎ</rt></ruby>: ditch; gutter.
+- <ruby>[牆壁](../words/牆壁.md)<rt>ㄑ⺢ㄫㄅㄝㄎ</rt></ruby>: wall (ancient).
+- <ruby>[球場](../words/球場.md)<rt>ㄍ⼜ㄐㄚㄫ</rt></ruby>: field; pitch; court.
+- <ruby>[禁苑](../words/禁苑.md)<rt>ㄍㄧㄇ·ㄛㄋ</rt></ruby>: imperial garden; forbidden garden.
+- <ruby>[穀倉](../words/穀倉.md)<rt>ㄍㄛㄎㄑ⺢ㄫ</rt></ruby>: barn; granary.
+- <ruby>[紫禁城](../words/紫禁城.md)<rt>ㄐㄝㄍㄧㄇㄙㄧㄫ</rt></ruby>: the Forbidden City; the imperial palace complex in Beijing.
+- <ruby>[網球場](../words/網球場.md)<rt>ㄇㄚㄫㄍ⼜ㄐㄚㄫ</rt></ruby>: tennis court.
+- <ruby>[車庫](../words/車庫.md)<rt>ㄑ⺢·ㄎㄛ</rt></ruby>: garage.
+- <ruby>[辦公室](../words/辦公室.md)<rt>ㄅㄚㄋㄍㄛㄫㄙㄧㄊ</rt></ruby>: office.
+- <ruby>[遂道](../words/遂道.md)<rt>ㄙㄨㄧㄉㄚㄨ</rt></ruby>: tunnel.
+- <ruby>[郵便局](../words/郵便局.md)<rt>ㄨㄛㄅ⼶ㄋㄍ⼄ㄎ</rt></ruby>: postoffice.
+- <ruby>[金城](../words/金城.md)<rt>ㄍㄧㄇㄙㄧㄫ</rt></ruby>: impenetrable city; Jincheng.
+- <ruby>[閨房](../words/閨房.md)<rt>ㄍㄨㄧㄅㄚㄫ</rt></ruby>: boudoir; bower.
+- <ruby>[閻](../words/閻.md)<rt>⼶ㄇ</rt></ruby>: village gate.
+- <ruby>[院落](../words/院落.md)<rt>⼔ㄋㄌㄚㄎ</rt></ruby>: courtyard; compound.
+- <ruby>[陵墓](../words/陵墓.md)<rt>ㄌㄜㄫㄇㄛ</rt></ruby>: mausoleum.

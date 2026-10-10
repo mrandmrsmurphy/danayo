@@ -274,6 +274,28 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 
 Also relevant here without their own new entries: [[謎]] ("riddle, mystery, enigma") already covers both "puzzle" and "riddle" and is cited on [[Mind]]'s own Mystery cluster above and on [[Art]]; [[方向]] ("orientation, course, direction, goal") already covers a directional sense of "goal," cited on [[Directions]].
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[支離](../words/支離.md)<rt>ㄐㄝㄌㄝㄧ</rt></ruby>: fragmented; disjointed; incoherent.
+- <ruby>[留意](../words/留意.md)<rt>ㄌ⼜ㄜ</rt></ruby>: pay attention to.
+- <ruby>[疎忽](../words/疎忽.md)<rt>ㄙㄜㄏㄛㄊ</rt></ruby>: negligent; neglect.
+- <ruby>[白日夢](../words/白日夢.md)<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby>: daydream.
+- <ruby>[直観](../words/直観.md)<rt>ㄐㄧㄊㄍ⺢ㄋ</rt></ruby>: intuition.
+- <ruby>[瞻妄](../words/瞻妄.md)<rt>ㄙㄝㄇㄇㄚㄫ</rt></ruby>: delirium.
+- <ruby>[確定](../words/確定.md)<rt>ㄎㄚㄎㄐㄝㄫ</rt></ruby>: fix; establish.
+- <ruby>[糊塗](../words/糊塗.md)<rt>ㄏㄛㄨㄉㄛ</rt></ruby>: muddled; confused.
+- <ruby>[聡明](../words/聡明.md)<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>: smart.
+- <ruby>[胸臆](../words/胸臆.md)<rt>ㄏ⼄ㄫㄧㄎ</rt></ruby>: feelings; thoughts; opinions.
+- <ruby>[能力](../words/能力.md)<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby>: ability; capability.
+- <ruby>[自分](../words/自分.md)<rt>ㄐㄧㄜㄅㄨㄋ</rt></ruby>: self-examine; assess oneself.
+- <ruby>[自得](../words/自得.md)<rt>ㄐㄧㄜㄊㄜㄎ</rt></ruby>: come to a realization of one's own accord.
+- <ruby>[茫然](../words/茫然.md)<rt>ㄇㄚㄫㄋ⼶ㄋ</rt></ruby>: thoughtless; clueless.
+- <ruby>[覚醒](../words/覚醒.md)<rt>ㄍㄚㄎㄙㄝㄫ</rt></ruby>: be disillusioned; sober up.
+- <ruby>[誤謬](../words/誤謬.md)<rt>ㄛ·ㄇ⼜</rt></ruby>: err; deceive.
+- <ruby>[関心](../words/関心.md)<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby>: be concerned about; care for.
+- <ruby>[風狂](../words/風狂.md)<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby>: crazy; insane; be a lunatic.
+- <ruby>[黙想](../words/黙想.md)<rt>ㄇㄨㄎㄙㄚㄫ</rt></ruby>: meditation; contemplation.
+
 ## Semantic Range Notes
 
 **Undocumented near-duplicates are common across this domain, not rare**: [[了解]]/[[理解]] ("understand"), [[打算]]/[[擬]] ("intend, plan"), [[原因]]/[[因由]] ("reason, cause"), [[分析]]/[[解析]] ("analyze"), and [[謀]]/[[画策]] ("scheme") are each pairs that gloss the same core meaning with no distinction recorded in either word's own Notes. This is different from a *confirmed* split like [[意欲]]/[[欲望]] (mild motivation vs. visceral craving) or [[原因]]/[[理由]] (raw cause vs. reasoned justification), where the words' own citations or clearly different registers support a real difference. Treat the undocumented pairs the way [[親族]]/[[親戚]] are treated on [[Kinship]]: genuine duplicates most likely, not silently invented distinctions — flagged rather than papered over.

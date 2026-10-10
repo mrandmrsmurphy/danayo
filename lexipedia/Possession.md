@@ -26,6 +26,15 @@ Possession vocabulary covers ownership, property, and the relationship between a
 - <ruby>[蓄積](../words/蓄積.md)<rt>ㄑㄨㄎㄐㄝㄎ</rt></ruby>: to accumulate, accumulation — gradual building up through repeated small additions (wealth, knowledge, experience, sediment, fatigue); the process behind [[蓄]]'s storing; the stand-in for the bound character 積.
 - <ruby>[携帯](../words/携帯.md)<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby>: to carry with one, portable — to have something on one's person; as a noun, the mobile phone in Japanese (携帯電話, shortened).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[獲得](../words/獲得.md)<rt>ㄏ⺢ㄎㄊㄜㄎ</rt></ruby>: get; obtain; aquire.
+- <ruby>[用度](../words/用度.md)<rt>⼄ㄫㄉㄛ</rt></ruby>: supplies.
+- <ruby>[継承](../words/継承.md)<rt>ㄍㄝㄧㄙㄨㄫ</rt></ruby>: accede; inherit.
+- <ruby>[荷物](../words/荷物.md)<rt>ㄏㄚ·ㄇㄨㄊ</rt></ruby>: luggage; baggage.
+- <ruby>[貯蔵](../words/貯蔵.md)<rt>ㄐㄛㄑㄚㄫ</rt></ruby>: storage.
+- <ruby>[返還](../words/返還.md)<rt>ㄈㄛㄋㄏ⺢ㄋ</rt></ruby>: return; restore.
+
 ## Semantic Range Notes
 
 Too few words are placed on this page yet to say whether Dan'a'yo's sense of ownership diverges from the shared CJKV baseline — none of the three words above show a real divergence so far. Revisit once the page has grown past a handful of entries.

@@ -114,6 +114,27 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 Rosenfelder terms with no Dan'a'yo word yet: easy, mighty, order, practice, task, challenge, to excel, fallible, danger (as a standalone noun).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[捜索](../words/捜索.md)<rt>ㄙㄛㄨㄙㄚㄎ</rt></ruby>: search for; seek; investigate.
+- <ruby>[激励](../words/激励.md)<rt>ㄍㄝㄎㄌㄝ</rt></ruby>: encourage; motivate.
+- <ruby>[独力](../words/独力.md)<rt>ㄉㄛㄎㄌㄧㄎ</rt></ruby>: alone.
+- <ruby>[節減](../words/節減.md)<rt>ㄐㄝㄊㄍㄚㄇ</rt></ruby>: economize; economy.
+- <ruby>[荷担](../words/荷担.md)<rt>ㄏㄚㄉㄚㄇ</rt></ruby>: shoulder; carry.
+- <ruby>[補充](../words/補充.md)<rt>ㄅㄛㄑㄨㄫ</rt></ruby>: replenish; supplement.
+- <ruby>[計画](../words/計画.md)<rt>ㄍㄝㄧㄏ⺢ㄎ</rt></ruby>: plan; schedule; measure.
+- <ruby>[設置](../words/設置.md)<rt>ㄙㄝㄊㄑㄧ</rt></ruby>: set up; install; establish.
+- <ruby>[誘餌](../words/誘餌.md)<rt>⼜ㄛㄋㄧ</rt></ruby>: entice; bait.
+- <ruby>[貢献](../words/貢献.md)<rt>ㄍㄛㄫㄏㄝㄋ</rt></ruby>: contribute.
+- <ruby>[超越](../words/超越.md)<rt>ㄊㄚㄨ⼔ㄊ</rt></ruby>: surpass.
+- <ruby>[追求](../words/追求.md)<rt>ㄊㄨㄧㄍ⼜ㄛ</rt></ruby>: pursue; search; go after.
+- <ruby>[逃避](../words/逃避.md)<rt>ㄉㄚㄨㄅㄝ</rt></ruby>: shirk; evade.
+- <ruby>[配列](../words/配列.md)<rt>ㄆㄛㄧㄌㄝㄊ</rt></ruby>: put in order; arrange; lay out.
+- <ruby>[開拓](../words/開拓.md)<rt>ㄎㄚㄧㄊㄚㄎ</rt></ruby>: open up; expand.
+- <ruby>[阻止](../words/阻止.md)<rt>ㄐㄛㄐㄧ</rt></ruby>: thwart; block; impede.
+- <ruby>[除外](../words/除外.md)<rt>ㄐㄝㄧ⺢ㄧ</rt></ruby>: exclude.
+- <ruby>[随意](../words/随意.md)<rt>ㄙㄨㄧ·ㄜ</rt></ruby>: optional; voluntary.
+
 ## Semantic Range Notes
 
 **柔/柔軟 sit at the crossroads of "soft" and "weak"**: both mean "tender, soft, pliable" in a literal physical sense (of fabric, of a body), and only extend to "weak" (of character or resolve) as a secondary, more figurative sense — distinct from [[羸弱]]/[[薄弱]], which mean "weak, feeble" directly and have no "soft to the touch" sense at all.

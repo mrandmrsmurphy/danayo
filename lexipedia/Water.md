@@ -152,6 +152,19 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[汎濫](../words/汎濫.md)<rt>ㄈㄚㄇㄌㄚㄇ</rt></ruby>: flood, overflow — a genuine Dan'a'yo homophone of 氾濫 above (same 注音), but not a duplicate: see Semantic Range Notes.
 - <ruby>[泛濫](../words/泛濫.md)<rt>ㄈㄧㄇㄌㄚㄇ</rt></ruby>: to flood, overflow, spread unchecked — a third variant, distinguished from the other two by its own reading (ㄈㄧㄇ, not ㄈㄚㄇ).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[林雨](../words/林雨.md)<rt>ㄌㄧㄇ·ㄨ</rt></ruby>: long spell of rain; (metaphorical) favor from the monarch.
+- <ruby>[水中](../words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby>: underwater.
+- <ruby>[河川](../words/河川.md)<rt>ㄏㄚㄑ⺢ㄋ</rt></ruby>: rivers.
+- <ruby>[渓流](../words/渓流.md)<rt>ㄎㄝㄧㄌ⼜</rt></ruby>: mountain stream.
+- <ruby>[港湾](../words/港湾.md)<rt>ㄏㄛㄫ⺢ㄇ</rt></ruby>: harbor.
+- <ruby>[湯池](../words/湯池.md)<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby>: city moat; hot springs (literary).
+- <ruby>[雨中](../words/雨中.md)<rt>ㄨㄐㄨㄫ</rt></ruby>: in the rain.
+- <ruby>[雴霫](../words/雴霫.md)<rt>ㄊㄨㄆㄙㄨㄆ</rt></ruby>: heavy rain.
+- <ruby>[驟雨](../words/驟雨.md)<rt>ㄙㄚㄨㄨ</rt></ruby>: sudden rain shower; downpour; squall.
+- <ruby>[黄海](../words/黄海.md)<rt>ㄏ⺢ㄫㄏㄚㄧ</rt></ruby>: Yellow Sea.
+
 ## Semantic Range Notes
 
 The clearest genuine split in this domain is between [[岸]] and [[浜]], both glossing "bank." 岸 is the general, unmarked word for a bank or shore of any kind — river, lake, or sea — free enough in Classical usage to stand as a Dan'a'yo word on its own. 浜 (a simplified form of 濱, "the water's edge") leans specifically toward the coast, the sea's edge, rather than an inland riverbank; the two overlap rather than cleanly dividing the space, since 浜's own stored glosses include "bank" too, but a learner reaching for a plain riverbank should default to 岸. A third word, [[灘]], narrows further still to a sandbar or shallow ford — a specific feature rather than a general term, and never a substitute for either of the other two.

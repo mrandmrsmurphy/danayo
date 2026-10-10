@@ -381,6 +381,23 @@ The traditional classification of Chinese character formation.
 - <ruby>[造語](../words/造語.md)<rt>ㄑㄚㄨ⼄</rt></ruby> "to coin a word; a coinage, neologism"
 - <ruby>[複合語](../words/複合語.md)<rt>ㄅㄨㄎㄍㄛㄆ·⼄</rt></ruby> "a compound word — a word formed from two or more existing words or roots"
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[修飾語](../words/修飾語.md)<rt>ㄙㄨㄛㄙㄧㄎ·⼄</rt></ruby>: modifier.
+- <ruby>[或者](../words/或者.md)<rt>ㄏㄛㄎㄑㄚ</rt></ruby>: some people.
+- <ruby>[曷](../words/曷.md)<rt>ㄏㄨㄊ</rt></ruby>: what; why.
+- <ruby>[某](../words/某.md)<rt>ㄇㄛㄨ</rt></ruby>: some; certain.
+- <ruby>[為以](../words/為以.md)<rt>⼔ㄋ·ㄧ</rt></ruby>: in order that; so that.
+- <ruby>[皆](../words/皆.md)<rt>ㄍ⼶</rt></ruby>: all; every.
+- <ruby>[相互](../words/相互.md)<rt>ㄙㄚㄫㄏㄛ</rt></ruby>: mutual; reciprocal.
+- <ruby>[而後](../words/而後.md)<rt>ㄋㄧㄏㄨㄛ</rt></ruby>: after that; only then.
+- <ruby>[致使](../words/致使.md)<rt>ㄑㄧㄜㄙㄧ</rt></ruby>: that; resulting in.
+- <ruby>[語気助詞](../words/語気助詞.md)<rt>⼄·ㄎㄧㄜㄐㄛㄙㄚ</rt></ruby>: mood particle; modal particle.
+- <ruby>[語法](../words/語法.md)<rt>⼄ㄈㄚㄆ</rt></ruby>: grammar.
+- <ruby>[限定詞](../words/限定詞.md)<rt>ㄏㄚㄋㄐㄝㄫㄙㄚ</rt></ruby>: determiner.
+- <ruby>[陰性](../words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby>: negativity; feminine gender.
+- <ruby>[陽性](../words/陽性.md)<rt>⼘ㄫㄙㄧㄫ</rt></ruby>: positivity; masculine gender.
+
 ## Semantic Range Notes
 
 **却/稍 split English "rather" into two unrelated senses**: 却 is the concessive "rather, on the contrary, all the more" (contrastive, like "he refused — rather, he laughed"), while 稍 is the degree modifier "rather, slightly, somewhat" (like "rather cold"). English collapses both into one word; Dan'a'yo, like its source languages, keeps them apart as genuinely distinct words.

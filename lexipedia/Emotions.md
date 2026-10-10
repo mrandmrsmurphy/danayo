@@ -189,6 +189,24 @@ Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, deli
 - <ruby>[憂慮](../words/憂慮.md)<rt>⼜ㄌ⼄</rt></ruby>, <ruby>[焦思](../words/焦思.md)<rt>ㄐㄛㄨㄙㄚ</rt></ruby>: to worry, be anxious.
 - <ruby>[憫](../words/憫.md)<rt>ㄇㄧㄋ</rt></ruby>: pity (formal/literary register).
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[可笑](../words/可笑.md)<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby>: funny; amusing; ridiculous.
+- <ruby>[操心](../words/操心.md)<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby>: careful; cautious; to worry about.
+- <ruby>[有趣](../words/有趣.md)<rt>⼜ㄑㄨ</rt></ruby>: interesting; amusing; fascinating.
+- <ruby>[無然](../words/無然.md)<rt>ㄇㄜ·ㄋ⼶ㄋ</rt></ruby>: disappointed; in low spirits.
+- <ruby>[無聊](../words/無聊.md)<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby>: boring; bored; tedious.
+- <ruby>[熱烈](../words/熱烈.md)<rt>ㄋ⼶ㄊㄌㄝㄊ</rt></ruby>: avid; fervent.
+- <ruby>[狼狽](../words/狼狽.md)<rt>ㄌㄚㄫㄅㄚㄧ</rt></ruby>: werewolf; flustering; confusion.
+- <ruby>[羞辱](../words/羞辱.md)<rt>ㄙㄨㄛㄋㄛㄎ</rt></ruby>: humiliate.
+- <ruby>[自在](../words/自在.md)<rt>ㄐㄧㄜㄐㄚㄧ</rt></ruby>: comfortable; carefree; adjustable.
+- <ruby>[逍遥](../words/逍遥.md)<rt>ㄙ⼄ㄨ⼄ㄨ</rt></ruby>: free and unfettered; carefree; untroubled.
+- <ruby>[遷怒](../words/遷怒.md)<rt>ㄑㄝㄋㄋㄛ</rt></ruby>: vent anger; take it out on.
+- <ruby>[遺憾](../words/遺憾.md)<rt>⼶ㄧㄏㄚㄇ</rt></ruby>: regrettable; pitiable.
+- <ruby>[雍雍](../words/雍雍.md)<rt>ㄛㄫㄛㄫ</rt></ruby>: harmonious.
+- <ruby>[雰囲](../words/雰囲.md)<rt>ㄈㄨㄋ·ㄨㄧ</rt></ruby>: mood; atmosphere; ambience.
+- <ruby>[震怒](../words/震怒.md)<rt>ㄐㄧㄋㄋㄛ</rt></ruby>: furious.
+
 ## Semantic Range Notes
 
 **A rich "happy" cluster with real register differences**: 欣喜/歓喜 are the general, everyday "happy, joyful." 愉快 leans toward "pleasant, enjoyable" (of an experience, not just a person's state). 痛快 is stronger — "exhilarating, thoroughly satisfying," often used of a satisfying victory or release of tension. 快 alone is the oldest, most classical root, doubling as "sharp, quick." 踊躍/雀躍 are specifically embodied — joy expressed by literally jumping.

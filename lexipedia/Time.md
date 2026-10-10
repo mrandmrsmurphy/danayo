@@ -166,6 +166,33 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 
 **Not yet coined or excluded as false matches**: "hour," "minute," and "midnight" all have no dedicated Dan'a'yo word yet — a striking, specific gap, since [[Calendar]] otherwise builds out day/week/month/year/century in full systematic detail. "Second" (the 60-second time unit) is likewise uncoined; [[乙]] and [[第二]], both of which also gloss "second," mean the ordinal "second (in a sequence)," an unrelated homograph.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[二度](../words/二度.md)<rt>ㄋㄧㄜㄉㄛ</rt></ruby>: twice; two times.
+- <ruby>[季刊](../words/季刊.md)<rt>ㄍㄨㄧㄎㄚㄋ</rt></ruby>: quarterly publication; seasonal periodical.
+- <ruby>[当時](../words/当時.md)<rt>ㄉㄚㄫㄙㄧ</rt></ruby>: then; that other time.
+- <ruby>[新](../words/新.md)<rt>ㄙㄧㄋ</rt></ruby>: new.
+- <ruby>[白亜紀](../words/白亜紀.md)<rt>ㄅㄚㄎ·ㄚㄍㄧ</rt></ruby>: Cretaceous Period.
+- <ruby>[瞬間](../words/瞬間.md)<rt>ㄙ⼜ㄋㄍㄚㄋ</rt></ruby>: momentary; moment, instant.
+- <ruby>[破暁](../words/破暁.md)<rt>ㄆㄜㄏ⼘ㄨ</rt></ruby>: daybreak.
+- <ruby>[空前](../words/空前.md)<rt>ㄎㄛㄫㄐㄝㄋ</rt></ruby>: unprecedented; as never before.
+- <ruby>[等待](../words/等待.md)<rt>ㄉㄨㄫㄉㄚㄧ</rt></ruby>: wait for; await.
+- <ruby>[紀元](../words/紀元.md)<rt>ㄍㄧ⼔ㄋ</rt></ruby>: A.D.; C.E..
+- <ruby>[紀元前](../words/紀元前.md)<rt>ㄍㄧ⼔ㄋㄐㄝㄋ</rt></ruby>: B.C.; B.C.E..
+- <ruby>[紀元後](../words/紀元後.md)<rt>ㄍㄧ⼔ㄋㄏㄨㄛ</rt></ruby>: AD; CE.
+- <ruby>[終了](../words/終了.md)<rt>ㄐㄨㄫㄌ⼘ㄨ</rt></ruby>: end; conclusion.
+- <ruby>[近来](../words/近来.md)<rt>ㄍㄧㄋㄌㄚㄧ</rt></ruby>: recently; lately.
+- <ruby>[連続](../words/連続.md)<rt>ㄌ⼶ㄋㄙ⼄ㄎ</rt></ruby>: continuous; consecutive; successive.
+- <ruby>[週刊](../words/週刊.md)<rt>ㄐㄨㄛㄎㄚㄋ</rt></ruby>: weekly periodical; weekly publication.
+- <ruby>[遅到](../words/遅到.md)<rt>ㄑㄧㄜㄉㄚㄨ</rt></ruby>: be late; arrive late.
+- <ruby>[長期](../words/長期.md)<rt>ㄐㄚㄫㄎㄧ</rt></ruby>: long time.
+- <ruby>[閑暇](../words/閑暇.md)<rt>ㄏㄚㄋㄏㄚ</rt></ruby>: freetime; leisure.
+- <ruby>[間或](../words/間或.md)<rt>ㄍㄚㄋㄏㄛㄎ</rt></ruby>: sometimes; occasionally; now and then.
+- <ruby>[順次](../words/順次.md)<rt>ㄙ⼜ㄋㄑㄧㄜ</rt></ruby>: in order; smooth.
+- <ruby>[首尾](../words/首尾.md)<rt>ㄙ⼜·ㄇㄨㄧ</rt></ruby>: whole; head to tail; beginning to end.
+- <ruby>[鶏鳴](../words/鶏鳴.md)<rt>ㄍㄝㄧㄇ⼶ㄫ</rt></ruby>: cock's crow; daybreak; 2 a.m..
+- <ruby>[黄昏](../words/黄昏.md)<rt>ㄏ⺢ㄫㄏㄛㄋ</rt></ruby>: sunset.
+
 ## Semantic Range Notes
 
 **This page turned up an unusually large cluster of undocumented near-duplicates**: [[忽然]]/[[突然]]/[[俄然]] ("sudden") form a three-way near-identical group, and [[急速]]/[[迅速]] ("swift, rapid") a pair, with no recorded distinction within either, the same treatment given to other such clusters elsewhere in this vault.

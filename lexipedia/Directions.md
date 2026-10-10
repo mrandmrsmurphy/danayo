@@ -121,6 +121,14 @@ Dan'a'yo inherits a real cross-linguistic pattern shared with Latin (*dexter*/*s
 - <ruby>[悪毒](../words/悪毒.md)<rt>ㄚㄎㄉㄛㄎ</rt></ruby>: malicious, vicious.
 - <ruby>[軽視](../words/軽視.md)<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby>: to look down on, disdain, underestimate.
 
+### Additional Vocabulary (backfilled 2026-10-10)
+
+- <ruby>[南端](../words/南端.md)<rt>ㄋㄚㄇㄉ⺢ㄋ</rt></ruby>: southern tip; southern end.
+- <ruby>[西北](../words/西北.md)<rt>ㄙㄝㄧㄅㄨㄎ</rt></ruby>: northwest.
+- <ruby>[西南](../words/西南.md)<rt>ㄙㄝㄧㄋㄚㄇ</rt></ruby>: southwest.
+- <ruby>[西端](../words/西端.md)<rt>ㄙㄝㄧㄉ⺢ㄋ</rt></ruby>: western tip; western end.
+- <ruby>[西部](../words/西部.md)<rt>ㄙㄝㄧㄅㄛㄨ</rt></ruby>: west; western region.
+
 ## Semantic Range Notes
 
 **The right/left moral metaphor is real, not a forced grouping**: this vault's Rosenfelder stub for this domain flagged the pattern before any of these words were placed — "right and left exemplify the same metaphor as Latin: friendly/support/honor vs. evil, vicious." The Advanced tier above cashes that observation out with thirteen genuine "right-side" words (honor, support, correctness, kindness) against four "left-side" words (evil, wrongness, contempt) — a lopsided count that itself reflects how much more productive the positive side of the metaphor has been across the Sinosphere.
