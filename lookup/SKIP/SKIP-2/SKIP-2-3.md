@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 292
+size: 293
 tags: [lookup]
 
 ---
@@ -18,7 +18,7 @@ Top component has 3 strokes. Dominant components: 艹, 宀, 山, 穴.
 8. [SKIP-2-3-8](lookup/SKIP/SKIP-2/SKIP-2-3-8.md): 剪, 壷, 寄, 密, 宿, 寂, 寅, 寇, 崖, 崩, 崇, 崔, 崙, 巣, 窒, 窓, 窕, 羞, 菊, 菱, 菅, 菌, 菜, 菩, 菫, 萄, 萌, 萎, 菲
 9. [SKIP-2-3-9](lookup/SKIP/SKIP-2/SKIP-2-3-9.md): 募, 善, 喜, 奢, 寐, 寒, 寓, 尋, 尊, 嵌, 嵐, 葉, 葛, 葺, 茨, 萩, 萬, 萱, 落, 葡, 董, 葬, 葱, 韮
 10. [SKIP-2-3-10](lookup/SKIP/SKIP-2/SKIP-2-3-10.md): 喿, 塞, 墓, 寝, 寛, 寞, 嵩, 幕, 彙, 慈, 潮, 煎, 窟, 羨, 義, 莫, 蒸, 蓄, 蓮, 葦, 蒋, 蒐, 蒲, 蓋, 蓬
-11. [SKIP-2-3-11](lookup/SKIP/SKIP-2/SKIP-2-3-11.md): 嘉, 奪, 察, 寡, 寧, 寨, 暮, 窩, 窪, 蔑, 䔥, 蓼, 蔓, 蔡, 蕉, 蜜, 鳶
+11. [SKIP-2-3-11](lookup/SKIP/SKIP-2/SKIP-2-3-11.md): 嘉, 奪, 察, 寡, 寧, 寨, 暮, 窩, 窪, 蔑, 䔥, 蓼, 蔓, 蔡, 蕉, 蜜, 鳶, 蔚
 12. [SKIP-2-3-12](lookup/SKIP/SKIP-2/SKIP-2-3-12.md): 審, 寮, 窯, 窮, 蔬, 蔵, 蔽, 蕃, 蕎, 蕩, 蕪, 賓, 養, 蕤
 13. [SKIP-2-3-13](lookup/SKIP/SKIP-2/SKIP-2-3-13.md): 奮, 憲, 窺, 蒼, 薫, 薬, 蒙, 薄, 薇, 薔, 薛, 薦, 薨, 薪, 嬴
 14. [SKIP-2-3-14](lookup/SKIP/SKIP-2/SKIP-2-3-14.md): 嶺, 蔔, 薩, 藁, 賽

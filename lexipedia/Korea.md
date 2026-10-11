@@ -44,24 +44,32 @@ status: partial
 ## Provinces
 A province is a bare name plus <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby> "province", and most of the bare names are the joined first characters of two old chief cities. Three of them were split in 1896 into <ruby>[北](../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> "north" and <ruby>[南](../characters/南.md)<rt>ㄋㄚㄇ</rt></ruby> "south" halves, which is why the full names come in pairs.
 
-- <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경기도) — Gyeonggi
-- <ruby>[忠淸](../words/忠清.md)<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (충청북도) — North Chungcheong
-- <ruby>忠淸<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (충청남도) — South Chungcheong
-- <ruby>[全羅](../words/全羅.md)<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (전라남도) — South Jeolla
-- <ruby>[慶尙](../words/慶尚.md)<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경상북도) — North Gyeongsang
-- <ruby>慶尙<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경상남도) — South Gyeongsang
-- <ruby>[江原](../words/江原.md)<rt>ㄍㄚㄫ⼔ㄋ</rt></ruby><ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (강원특별자치도) — Gangwon
-- <ruby>[全](../words/全.md)<rt>ㄐ⼔ㄋ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (전북특별자치도) — Jeonbuk (North Jeolla), formerly <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby>, the northern half of the old province of <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby>
-- <ruby>[濟州](../words/済州.md)<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (제주특별자치도) — Jeju
+- <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 경기도) — Gyeonggi
+- <ruby>[忠淸](../words/忠清.md)<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 충청북도) — North Chungcheong
+- <ruby>忠淸<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 충청남도) — South Chungcheong
+- <ruby>[全羅](../words/全羅.md)<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 전라남도) — South Jeolla
+- <ruby>[慶尙](../words/慶尚.md)<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 경상북도) — North Gyeongsang
+- <ruby>慶尙<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 경상남도) — South Gyeongsang
+- <ruby>[江原](../words/江原.md)<rt>ㄍㄚㄫ⼔ㄋ</rt></ruby><ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 강원특별자치도) — Gangwon
+- <ruby>[全](../words/全.md)<rt>ㄐ⼔ㄋ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 전북특별자치도) — Jeonbuk (North Jeolla), formerly <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby>, the northern half of the old province of <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby>
+- <ruby>[濟州](../words/済州.md)<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 제주특별자치도) — Jeju
 
 <ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> "special self-governing province" is the modern status of <ruby>江原<rt>ㄍㄚㄫ⼔ㄋ</rt></ruby>, <ruby>全<rt>ㄐ⼔ㄋ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby> and <ruby>濟州<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby>, a title given in 2023, 2024 and 2006 respectively (from memory, not re-checked on a dictionary page); the other provinces keep the plain <ruby>道<rt>ㄉㄚㄨ</rt></ruby>.
+
+## Cities
+Seven cities have a status of their own. Six of them are <ruby>[廣域](../words/広域.md)<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>[市](../characters/市.md)<rt>ㄙㄧ</rt></ruby> "metropolitan cities" (a title built from <ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby> "wide region" and <ruby>市<rt>ㄙㄧ</rt></ruby> "city"), and the seventh is a <ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> "special self-governing city". The capital, <ruby>[漢城](../words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby>, has its own status and is covered under [Geography](Geography.md).
+
+- <ruby>[釜山](../words/釜山.md)<rt>ㄅㄨㄙㄚㄋ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 부산광역시) — Busan
+- <ruby>[大邱](../words/大邱.md)<rt>ㄉㄚㄧㄍㄨ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 대구광역시) — Daegu
+- <ruby>[仁川](../words/仁川.md)<rt>ㄋㄧㄋㄑ⺢ㄋ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 인천광역시) — Incheon
+- <ruby>[光州](../words/光州.md)<rt>ㄎ⺢ㄫㄐㄨㄛ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 광주광역시) — Gwangju
+- <ruby>[大田](../words/大田.md)<rt>ㄉㄚㄧㄉㄝㄋ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 대전광역시) — Daejeon
+- <ruby>[蔚山](../words/蔚山.md)<rt>ㄨㄊㄙㄚㄋ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 울산광역시) — Ulsan
+- <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 세종특별자치시) — Sejong, the administrative capital, named for the king
 
 ## Script and Language
 - <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul.
 - <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
-
-## Rulers
-- <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
 
 ## Culture
 - <ruby>[韓服](../words/韓服.md)<rt>ㄏㄚㄋㄅㄨㄎ</rt></ruby>: Hanbok.

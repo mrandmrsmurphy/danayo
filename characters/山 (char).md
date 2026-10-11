@@ -70,6 +70,8 @@ boundedness: 75
 - <ruby>[[山本]]<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby> "Yamamoto"
 - <ruby>[[穿山甲]]<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby> "pangolin"
 - <ruby>[[高山]]<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby> "high mountain"
+- <ruby>[[釜山]]<rt>ㄅㄨㄙㄚㄋ</rt></ruby> "Busan"
+- <ruby>[[蔚山]]<rt>ㄨㄊㄙㄚㄋ</rt></ruby> "Ulsan"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

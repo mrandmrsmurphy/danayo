@@ -59,4 +59,5 @@ boundedness: 80
 - <ruby>[[流域]]<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> "river basin"
 - <ruby>[[定義域]]<rt>ㄐㄝㄫㄜㄧㄨㄧㄎ</rt></ruby> "domain of a function"
 - <ruby>[[域内]]<rt>ㄨㄧㄎㄋㄛㄧ</rt></ruby> "within the region; intra-regional"
+- <ruby>[[広域]]<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby> "wide area; regional"
 - <ruby>[[域階]]<rt>ㄨㄧㄎㄍ⼶ㄧ</rt></ruby> "domain (taxonomic rank)"

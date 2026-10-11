@@ -53,3 +53,4 @@ date-last-perfect: 2026-08-08
 ## Derived Characters
 - <ruby>[[熨]]<rt>⼜ㄊ</rt></ruby> "flatiron"
 - <ruby>[[慰]]<rt>ㄛㄧ</rt></ruby> "comfort"
+- <ruby>[[蔚]]<rt>ㄨㄊ</rt></ruby> "luxuriant"

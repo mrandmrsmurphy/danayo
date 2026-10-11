@@ -1,7 +1,7 @@
 ---
 stroke_count: 14
 date-last-perfect: 2026-10-03
-size: 192
+size: 193
 tags:
   - lookup
 ---
@@ -21,7 +21,7 @@ tags:
 - 1-11-3: <ruby>[[鄙]]<rt>ㄈㄧㄜ</rt></ruby>, <ruby>[[彰]]<rt>ㄑㄚㄫ</rt></ruby>
 - 1-12-2: <ruby>[[劃 (char)|劃]]<rt>ㄏ⺢ㄎ</rt></ruby>
 - 2-2-12: <ruby>[[膏]]<rt>ㄍㄚㄨ</rt></ruby>, <ruby>[[豪]]<rt>ㄏㄚㄨ</rt></ruby>
-- 2-3-11: <ruby>[[寨]]<rt>ㄐㄚㄧ</rt></ruby>, <ruby>[[鳶 (char)|鳶]]<rt>⼶ㄋ</rt></ruby>, <ruby>[[蕉]]<rt>ㄐㄛㄨ</rt></ruby>, <ruby>[[䔥]]<rt>ㄙ⼘ㄨ</rt></ruby>, <ruby>[[蔑 (char)|蔑]]<rt>ㄇㄝㄊ</rt></ruby>, <ruby>[[察]]<rt>ㄑㄚㄊ</rt></ruby>, <ruby>[[窩]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[蓼]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[奪]]<rt>ㄉ⺢ㄊ</rt></ruby>, <ruby>[[寧]]<rt>ㄋㄝㄫ</rt></ruby>, <ruby>[[蜜]]<rt>ㄇㄧㄊ</rt></ruby>, <ruby>[[蔓]]<rt>ㄇㄚㄋ</rt></ruby>, <ruby>[[寡]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[窪]]<rt>⺢</rt></ruby>, <ruby>[[嘉]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[暮]]<rt>ㄇㄛ</rt></ruby>, <ruby>[[蔡]]<rt>ㄑㄚㄧ</rt></ruby>
+- 2-3-11: <ruby>[[寨]]<rt>ㄐㄚㄧ</rt></ruby>, <ruby>[[鳶 (char)|鳶]]<rt>⼶ㄋ</rt></ruby>, <ruby>[[蕉]]<rt>ㄐㄛㄨ</rt></ruby>, <ruby>[[䔥]]<rt>ㄙ⼘ㄨ</rt></ruby>, <ruby>[[蔑 (char)|蔑]]<rt>ㄇㄝㄊ</rt></ruby>, <ruby>[[察]]<rt>ㄑㄚㄊ</rt></ruby>, <ruby>[[窩]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[蓼]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[奪]]<rt>ㄉ⺢ㄊ</rt></ruby>, <ruby>[[寧]]<rt>ㄋㄝㄫ</rt></ruby>, <ruby>[[蜜]]<rt>ㄇㄧㄊ</rt></ruby>, <ruby>[[蔓]]<rt>ㄇㄚㄋ</rt></ruby>, <ruby>[[寡]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[窪]]<rt>⺢</rt></ruby>, <ruby>[[嘉]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[暮]]<rt>ㄇㄛ</rt></ruby>, <ruby>[[蔡]]<rt>ㄑㄚㄧ</rt></ruby>, <ruby>[[蔚]]<rt>ㄨㄊ</rt></ruby>
 - 2-5-9: <ruby>[[嘗]]<rt>ㄙ⼘ㄫ</rt></ruby>, <ruby>[[罰]]<rt>ㄅㄝㄊ</rt></ruby>
 - 2-6-8: <ruby>[[翟]]<rt>ㄉㄝㄎ</rt></ruby>, <ruby>[[箕]]<rt>ㄍㄧ</rt></ruby>, <ruby>[[算 (char)|算]]<rt>ㄙ⺢ㄋ</rt></ruby>, <ruby>[[箔]]<rt>ㄅㄚㄎ</rt></ruby>, <ruby>[[箋]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[箏]]<rt>ㄐㄝㄫ</rt></ruby>, <ruby>[[鼻 (char)|鼻]]<rt>ㄅㄧ</rt></ruby>, <ruby>[[管]]<rt>ㄍ⺢ㄋ</rt></ruby>, <ruby>[[睾]]<rt>ㄍㄚㄨ</rt></ruby>, <ruby>[[翠]]<rt>ㄑㄨㄧ</rt></ruby>
 - 2-7-7: <ruby>[[墨]]<rt>ㄇㄨㄎ</rt></ruby>, <ruby>[[誓]]<rt>ㄙㄝ</rt></ruby>

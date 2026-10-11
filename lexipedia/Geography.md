@@ -264,3 +264,4 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[韓江](../words/韓江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
 - <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku; the world; all under heaven.
+- <ruby>[広域](../words/広域.md)<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby>: wide area; regional — an area spanning several local units; near [[区域]], [[地域]] and [[域内]].
