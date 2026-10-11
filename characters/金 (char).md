@@ -82,6 +82,7 @@ boundedness: 90
 - <ruby>[[冥金]]<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby> "plutonium" (periodic table neologism)
 - <ruby>[[金刀]]<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby> "golden knife; a blade of gold"
 - <ruby>[[金甌]]<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby> "golden chalice; the nation; Cà Mau"
+- <ruby>[[金角湾]]<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> "Golden Horn"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
