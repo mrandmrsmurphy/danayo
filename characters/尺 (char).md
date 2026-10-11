@@ -58,3 +58,4 @@ boundedness: 90
 - <ruby>[[尺]]<rt>ㄑㄝㄎ</rt></ruby> "foot (distance)" (stand-in for 尺)
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎㄏ⺢ㄎ</rt></ruby> "inchworm"
 - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
+- <ruby>[[尺度]]<rt>ㄑㄝㄎㄉㄛ</rt></ruby> "measure; yardstick; criterion"

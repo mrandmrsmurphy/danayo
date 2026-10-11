@@ -287,6 +287,7 @@ Two of the three technique characters (煎, 炸) are marked `名専字` (name/tr
 - <ruby>[鳳梨](../words/鳳梨.md)<rt>ㄆㄨㄫㄌㄧㄜ</rt></ruby>: pineapple.
 - <ruby>[麦芽](../words/麦芽.md)<rt>ㄇㄚㄎ·ㄚ</rt></ruby>: malt.
 - <ruby>[麦芽糖](../words/麦芽糖.md)<rt>ㄇㄚㄎ·ㄚㄉ⺢ㄫ</rt></ruby>: maltose.
+- <ruby>[麺包](../words/麺包.md)<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>: bread; any baked good with a crust.
 
 ## Semantic Range Notes
 

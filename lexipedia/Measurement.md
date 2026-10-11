@@ -109,6 +109,7 @@ These are simultaneously literal units of measurement and, grammatically, measur
 
 - <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
 - <ruby>[温度](../words/温度.md)<rt>ㄛㄆㄉㄛ</rt></ruby>: temperature.
+- <ruby>[尺度](../words/尺度.md)<rt>ㄑㄝㄎㄉㄛ</rt></ruby>: a measure; a yardstick; a criterion.
 
 ## Semantic Range Notes
 

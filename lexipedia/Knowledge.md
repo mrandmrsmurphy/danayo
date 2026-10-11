@@ -277,6 +277,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[借鑑](../words/借鑑.md)<rt>ㄐㄚㄍㄚㄇ</rt></ruby>: draw lessons from; learn from.
 - <ruby>[闡明](../words/闡明.md)<rt>ㄑㄝㄋㄇ⼶ㄫ</rt></ruby>: to clarify; to expound.
 - <ruby>[検索](../words/検索.md)<rt>ㄍㄝㄇㄙㄚㄎ</rt></ruby>: to search; to look up.
+- <ruby>[主体](../words/主体.md)<rt>ㄐㄨㄊㄝㄧ</rt></ruby>: subject; principal agent.
+- <ruby>[智者](../words/智者.md)<rt>ㄐㄨㄧㄑㄚ</rt></ruby>: a wise person; a sage.
 
 ## Semantic Range Notes
 

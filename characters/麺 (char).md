@@ -58,3 +58,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[拉麺]]<rt>ㄌㄚㄆㄇㄝㄋ</rt></ruby> "ramen"
 - <ruby>[[冷麺]]<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby> "cold noodles"
 - <ruby>[[烏龍麺]]<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby> "udon noodles"
+- <ruby>[[麺包]]<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby> "bread; baked good"
