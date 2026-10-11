@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 7
-size: 33
+size: 34
 skip_number: 2-3-4
 tags:
   - lookup
@@ -43,6 +43,7 @@ tags:
 31. <ruby>[足](characters/足%20(char).md)<rt>ㄐㄛㄎ</rt></ruby> "foot"
 32. <ruby>[邑](characters/邑.md)<rt>ㄧㄆ</rt></ruby> "township"
 33. <ruby>[宏](characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> "vast"
+34. <ruby>[芹](characters/芹.md)<rt>ㄍㄧㄋ</rt></ruby> "celery"
 
 ## Datacheck
 ```dataview

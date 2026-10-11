@@ -60,6 +60,7 @@ boundedness: 75
 - <ruby>[[熟知]]<rt>ㄙㄨㄎㄐㄨㄧ</rt></ruby> "know well; well acquainted with"
 - <ruby>[[通知]]<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby> "notify; inform"
 - <ruby>[[報知]]<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby> "inform; report; notify"
+- <ruby>[[檳知]]<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby> "Ben Tre (檳椥)"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

@@ -53,6 +53,7 @@ boundedness: 90
 ## Words
 - <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 嚼)
 - <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
+- <ruby>[[芹且]]<rt>ㄍㄧㄋㄑㄛ</rt></ruby> "Can Tho (芹苴)"
 
 ## Derived Characters
 - <ruby>[[祖]]<rt>ㄐㄜ</rt></ruby> "ancestor"

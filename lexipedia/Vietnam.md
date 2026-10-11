@@ -38,6 +38,8 @@ status: partial
 - <ruby>[堤岸](../words/堤岸.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: Chợ Lớn, the Chinese quarter of Saigon.
 - <ruby>[芽荘](../words/芽荘.md)<rt>ㄚㄐ⺢ㄫ</rt></ruby>: Nha Trang, a coastal resort city of the south-central coast (also written <ruby>芽莊<rt>ㄚㄐ⺢ㄫ</rt></ruby>).
 - <ruby>[朔荘](../words/朔荘.md)<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>: Sóc Trăng, a city of the Mekong Delta (also written <ruby>朔莊<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>).
+- <ruby>[芹且](../words/芹且.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>: Can Tho, the largest city of the Mekong Delta (also written <ruby>芹苴<rt>ㄍㄧㄋㄑㄛ</rt></ruby>).
+- <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
 
 ### Provinces and places
 - <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
