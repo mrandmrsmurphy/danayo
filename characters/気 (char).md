@@ -67,6 +67,8 @@ boundedness:
 - <ruby>[[大気圏]]<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby> "atmosphere"
 - <ruby>[[客気]]<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby> "polite (Mandarin); reckless bravado (Japanese/Korean)"
 - <ruby>[[送気]]<rt>ㄙㄛㄫ·ㄎㄧㄜ</rt></ruby> "aspiration"
+- <ruby>[[人気]]<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby> "popularity; popular"
+
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"
 ## Derived Characters

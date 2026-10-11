@@ -276,6 +276,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[黒板](../words/黒板.md)<rt>ㄏㄨㄎㄆㄚㄋ</rt></ruby>: blackboard.
 - <ruby>[借鑑](../words/借鑑.md)<rt>ㄐㄚㄍㄚㄇ</rt></ruby>: draw lessons from; learn from.
 - <ruby>[闡明](../words/闡明.md)<rt>ㄑㄝㄋㄇ⼶ㄫ</rt></ruby>: to clarify; to expound.
+- <ruby>[検索](../words/検索.md)<rt>ㄍㄝㄇㄙㄚㄎ</rt></ruby>: to search; to look up.
 
 ## Semantic Range Notes
 

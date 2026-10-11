@@ -137,6 +137,7 @@ boundedness: 75
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
 - <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
 - <ruby>[[朝鮮人]]<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby> "Joseon person; Korean"
+- <ruby>[[人気]]<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby> "popularity; popular"
 
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"

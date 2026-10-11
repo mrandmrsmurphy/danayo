@@ -402,6 +402,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[尊栄](../words/尊栄.md)<rt>ㄐㄛㄋ·ㄨㄧㄫ</rt></ruby>: honorable and glorious; dignity and glory.
 - <ruby>[尊重](../words/尊重.md)<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby>: to respect; to esteem.
 - <ruby>[朝鮮人](../words/朝鮮人.md)<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby>: a person of Joseon; a Korean (historically); a North Korean (today).
+- <ruby>[人気](../words/人気.md)<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby>: popularity; popular.
 
 ## Semantic Range Notes
 
