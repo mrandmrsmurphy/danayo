@@ -212,6 +212,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[複合](../words/複合.md)<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby>: compound, composite — made of multiple combined parts.
 - <ruby>[柄](../words/柄.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a design, pattern — visual/surface (a fabric pattern), distinct from [[様式]]'s structural "style."
 - <ruby>[方法](../words/方法.md)<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby>: a method, way, manner — see [[Knowledge]] for its own citation there.
+- <ruby>[方式](../words/方式.md)<rt>ㄈㄚㄫㄙㄧㄎ</rt></ruby>: a way, mode, manner of doing; a system — the settled scheme in which something is done, beside [[方法]] "method" (the particular means) and [[様式]] "style" (the form a thing takes).
 - <ruby>[楷](../words/楷.md)<rt>ㄎ⼶</rt></ruby>: model, pattern (as in 楷書, "regular script").
 - <ruby>[概](../words/概.md)<rt>ㄍㄚㄧ</rt></ruby>: a rough idea, a generality — the stand-in-bound root of [[概要]].
 - <ruby>[標準](../words/標準.md)<rt>ㄅ⼄ㄐㄨㄋ</rt></ruby>: standard, norm.

@@ -58,6 +58,7 @@ boundedness: 80
 - <ruby>[[代表之]]<rt>ㄉㄚㄧㄅ⼘ㄨㄊㄧ</rt></ruby> "on behalf of"
 - <ruby>[[之間]]<rt>ㄊㄧㄍㄚㄋ</rt></ruby> "between"
 - <ruby>[[天地之別]]<rt>ㄊㄝㄋㄉㄧㄜㄊㄧㄅㄝㄊ</rt></ruby> "a world of difference"
+- <ruby>[[総之]]<rt>ㄐㄛㄫㄊㄧ</rt></ruby> "in short; in sum; in a word"
 
 ## Chengyu
 - <ruby>[[糟糠之妻]]<rt>ㄐㄚㄨㄎㄚㄫㄊㄧㄑㄝㄧ</rt></ruby> "a devoted wife who shared the hardship of poverty, not to be abandoned after success"
