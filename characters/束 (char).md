@@ -52,6 +52,7 @@ boundedness: 90
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[束]]<rt>ㄙ⼄ㄎ</rt></ruby> "bundle of" (stand-in for 束)
 - <ruby>[[約束]]<rt>⼘ㄎㄙ⼄ㄎ</rt></ruby> "promise"
 - <ruby>[[拘束]]<rt>ㄍㄨㄙ⼄ㄎ</rt></ruby> "constrain, restrain"
 - <ruby>[[結束]]<rt>ㄍㄝㄊㄙ⼄ㄎ</rt></ruby> "unity, solidarity (Japanese/Korean); to end, conclude (Mandarin)"
