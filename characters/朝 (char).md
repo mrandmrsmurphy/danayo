@@ -61,6 +61,10 @@ boundedness: 100
 - <ruby>[[王朝]]<rt>⺢ㄫㄐㄚㄨ</rt></ruby> "dynasty; reign"
 - <ruby>[[今朝安]]<rt>ㄍㄧㄇㄐㄚㄨㄚㄋ</rt></ruby> "good morning"
 - <ruby>[[朝鮮人]]<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby> "Joseon person; Korean"
+- <ruby>[[李朝]]<rt>ㄌㄧㄐㄚㄨ</rt></ruby> "the Yi dynasty (Joseon); the Lý dynasty of Vietnam"
+- <ruby>[[陳朝]]<rt>ㄐㄧㄋㄐㄚㄨ</rt></ruby> "the Chen dynasty; the Trần dynasty of Vietnam"
+- <ruby>[[黎朝]]<rt>ㄌㄝㄧㄐㄚㄨ</rt></ruby> "the Lê dynasty of Vietnam"
+- <ruby>[[阮朝]]<rt>⼔ㄋㄐㄚㄨ</rt></ruby> "the Nguyễn dynasty of Vietnam"
 
 ## Chengyu
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"

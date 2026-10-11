@@ -39,6 +39,7 @@ status: partial
 - <ruby>[百済](../words/百済.md)<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby>: Baekje.
 - <ruby>[新羅](../words/新羅.md)<rt>ㄙㄧㄋㄌㄛ</rt></ruby>: Silla, the southeasternmost of the Three Kingdoms of Korea, traditionally founded in 57 BC at Gyeongju and surviving until 935; the Japanese reading しらぎ is the conventional historical one, not the on'yomi しんら.
 - <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
+- <ruby>[李朝](../words/李朝.md)<rt>ㄌㄧㄐㄚㄨ</rt></ruby>: the Yi dynasty, an older Chinese and Japanese name for Joseon (<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>), the dynasty founded in 1392 by Yi Seong-gye after Goryeo (<ruby>高麗<rt>ㄍㄚㄨㄌㄝ</rt></ruby>); the same spelling is the Lý dynasty of Vietnam, listed on Vietnam.
 - <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire.
 
 ## Provinces

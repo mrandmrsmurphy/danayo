@@ -76,6 +76,7 @@ boundedness: 80
 - <ruby>[[雑交]]<rt>ㄐㄚㄆㄍ⼄ㄨ</rt></ruby> "crossbreeding; hybridization"
 - [[性交]] "sexual intercourse"
 - <ruby>[[交替]]<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby> "alternation; to take turns"
+- <ruby>[[交址]]<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby> "Jiaozhi; Giao Chỉ (northern Vietnam)"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

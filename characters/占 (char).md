@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[占卜]]<rt>ㄐㄝㄇㄅㄛㄎ</rt></ruby> "divine, fortune tell"
 - <ruby>[[占星]]<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby> "divination"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"
+- <ruby>[[占城]]<rt>ㄐㄝㄇㄙㄧㄫ</rt></ruby> "Champa"
 ## Derived Characters
 - <ruby>[[站]]<rt>ㄐㄚㄇ</rt></ruby> "station, site"
 - <ruby>[[店]]<rt>ㄉㄝㄇ</rt></ruby> "shop, store"

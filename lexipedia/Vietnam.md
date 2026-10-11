@@ -29,6 +29,15 @@ status: partial
 - <ruby>胡<rt>ㄏㄛㄨ</rt></ruby><ruby>志<rt>ㄐㄧ</rt></ruby><ruby>明<rt>ㄇ⼶ㄫ</rt></ruby> — (<ruby>越南語<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Hồ Chí Minh) <ruby>越南<rt>⼔ㄊㄋㄚㄇ</rt></ruby><ruby>[民主](../words/民主.md)<rt>ㄇㄧㄋㄐㄨ</rt></ruby><ruby>共和国<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby> <ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>[主席](../words/主席.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby> (1890–1969)
 - <ruby>武<rt>ㄇㄨ</rt></ruby><ruby>元<rt>⼔ㄋ</rt></ruby><ruby>甲<rt>ㄍㄚㄆ</rt></ruby> — (<ruby>越南語<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Võ Nguyên Giáp) <ruby>越南<rt>⼔ㄊㄋㄚㄇ</rt></ruby> <ruby>之<rt>ㄊㄧ</rt></ruby> <ruby>[将軍](../words/将軍.md)<rt>ㄐ⺢ㄫㄍㄨㄋ</rt></ruby> (1911–2013)
 
+## Kingdoms and Dynasties
+- <ruby>[李朝](../words/李朝.md)<rt>ㄌㄧㄐㄚㄨ</rt></ruby>: the Lý dynasty (1009–1225), the first long-lived independent Vietnamese dynasty, ruling from Thăng Long (Hanoi); the same spelling is the Yi dynasty, an older name for Joseon, listed on Korea.
+- <ruby>[陳朝](../words/陳朝.md)<rt>ㄐㄧㄋㄐㄚㄨ</rt></ruby>: the Trần dynasty (1225–1400), which repelled the Mongol invasions; the same spelling is the Chen dynasty of China (557–589), listed on China.
+- <ruby>[黎朝](../words/黎朝.md)<rt>ㄌㄝㄧㄐㄚㄨ</rt></ruby>: the Lê dynasty (the Later Lê, 1428–1789), founded by Lê Lợi after the expulsion of the Ming; rarely the Early Lê (980–1009).
+- <ruby>[阮朝](../words/阮朝.md)<rt>⼔ㄋㄐㄚㄨ</rt></ruby>: the Nguyễn dynasty (1802–1945), the last dynasty of Vietnam, whose imperial capital was <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby> (Huế).
+- <ruby>[安南](../words/安南.md)<rt>ㄚㄋㄋㄚㄇ</rt></ruby>: Annam, the old Chinese name for Vietnam and later the central region under the French protectorate; the same spelling is the Tang protectorate of Annam, listed on China.
+- <ruby>[交址](../words/交址.md)<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>: Giao Chỉ, the ancient name of northern Vietnam (also written <ruby>交趾<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby> and <ruby>交阯<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>); the same spelling is Jiaozhi, the Han commandery, listed on China.
+- <ruby>[占城](../words/占城.md)<rt>ㄐㄝㄇㄙㄧㄫ</rt></ruby>: Champa, the kingdom of the Cham people on the central and southern coast, conquered in stages by Đại Việt.
+
 ## Places
 ### Cities
 - <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name; the established Sinitic exonym <ruby>西<rt>ㄙㄝㄧ</rt></ruby><ruby>貢<rt>ㄍㄛㄫ</rt></ruby> is kept as its alias.
@@ -43,7 +52,7 @@ status: partial
 - <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
 - <ruby>[邦美蜀](../words/邦美蜀.md)<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby>: Buôn Ma Thuột, the chief city of the Central Highlands and capital of Đắk Lắk province.
 - <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province (also written <ruby>大叻<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>); the same spelling means "great strength; vigorously", listed on Efforts.
-- <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
+- <ruby>順化<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
 - <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province (also written <ruby>金瓯<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>); the same spelling means "the nation; a golden chalice", listed on Government.
 - <ruby>[金角](../words/金角.md)<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby>: Cam Ranh, the city on Cam Ranh Bay, <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> (Chinese sources write it <ruby>金蘭<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby>, a Dan'a'yo spelling choice); the same spelling is Jinjiao, the demon king of *Journey to the West*, listed on Animals.
 - <ruby>[老街](../words/老街.md)<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby>: Lào Cai, the city and province on the border opposite Hekou in Yunnan; the same spelling means "old street; historic old town" elsewhere (see Buildings).
