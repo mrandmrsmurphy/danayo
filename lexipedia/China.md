@@ -20,6 +20,11 @@ status: partial
 - <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with <ruby>[奥](../words/奥.md)<rt>ㄨㄎ</rt></ruby> rather than the real-world <ruby>澳<rt>ㄨㄎ</rt></ruby>.
 - <ruby>[烏魯斉](../words/烏魯斉.md)<rt>ㄛㄌㄛㄇㄐㄝㄧ</rt></ruby>: Ürümqi.
 - <ruby>[無定河](../words/無定河.md)<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby>: Wuding River.
+- <ruby>[山西](../words/山西.md)<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby>: Shanxi, a province of northern China; the same spelling is Son Tay in Vietnam, listed on Vietnam.
+- <ruby>[河南](../words/河南.md)<rt>ㄏㄚ·ㄋㄚㄇ</rt></ruby>: Henan, a province of central China; the same spelling is Ha Nam in Vietnam, listed on Vietnam.
+- <ruby>[太原](../words/太原.md)<rt>ㄊㄚㄧ⼔ㄋ</rt></ruby>: Taiyuan, the capital of Shanxi; the same spelling is Thai Nguyen in Vietnam, listed on Vietnam.
+- <ruby>[西寧](../words/西寧.md)<rt>ㄙㄝㄧㄋㄝㄫ</rt></ruby>: Xining, the capital of Qinghai; the same spelling is Tay Ninh in Vietnam, listed on Vietnam.
+- <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Guangnan, a county of Yunnan; the same spelling is Quang Nam in Vietnam, listed on Vietnam.
 
 ### Peoples and names
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.

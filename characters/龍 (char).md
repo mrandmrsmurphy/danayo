@@ -74,6 +74,7 @@ boundedness: 70
 - <ruby>[[龍断]]<rt>ㄌ⼄ㄫㄉ⺢ㄋ</rt></ruby> "to monopolize (壟斷)"
 - <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
 - <ruby>[[龍眼]]<rt>ㄌ⼄ㄫㄚㄋ</rt></ruby> "longan"
+- <ruby>[[下龍]]<rt>ㄏㄚㄌ⼄ㄫ</rt></ruby> "Ha Long"
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches, one step away from perfection"

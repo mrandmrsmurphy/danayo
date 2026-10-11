@@ -33,7 +33,20 @@ status: partial
 ### Cities
 - <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name; the established Sinitic exonym <ruby>西<rt>ㄙㄝㄧ</rt></ruby><ruby>貢<rt>ㄍㄛㄫ</rt></ruby> is kept as its alias.
 - <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
+- <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: Haiphong, the principal port of the north; the same spelling means "coastal defense" elsewhere (see Conflict).
 - <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
+
+### Provinces and places
+- <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
+- <ruby>[富国](../words/富国.md)<rt>ㄈㄨㄛㄍㄛㄎ</rt></ruby>: Phu Quoc, Vietnam's largest island, in the Gulf of Thailand.
+- <ruby>[会安](../words/会安.md)<rt>ㄏ⼔ㄚㄋ</rt></ruby>: Hoi An, an old trading port of the central coast.
+- <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Quang Nam, a former province of central Vietnam; the same spelling is Guangnan, a county of Yunnan, listed on China.
+- <ruby>[下龍](../words/下龍.md)<rt>ㄏㄚㄌ⼄ㄫ</rt></ruby>: Ha Long, a coastal city of the northeast and the gateway to Ha Long Bay.
+- <ruby>[山西](../words/山西.md)<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby>: Son Tay, a town northwest of Hanoi and a former province; the same spelling is Shanxi, listed on China.
+- <ruby>[西寧](../words/西寧.md)<rt>ㄙㄝㄧㄋㄝㄫ</rt></ruby>: Tay Ninh, a province and city of the south; the same spelling is Xining, listed on China.
+- <ruby>[太原](../words/太原.md)<rt>ㄊㄚㄧ⼔ㄋ</rt></ruby>: Thai Nguyen, a province and city of the north; the same spelling is Taiyuan, listed on China.
+- <ruby>[河南](../words/河南.md)<rt>ㄏㄚ·ㄋㄚㄇ</rt></ruby>: Ha Nam, a province of the north; the same spelling is Henan, listed on China.
+- <ruby>[太平](../words/太平.md)<rt>ㄊㄚㄧㄅ⼶ㄫ</rt></ruby>: Thai Binh, a province and city of the Red River delta; the same spelling means "peaceful" elsewhere (see Conflict).
 
 ## History
 - <ruby>[越盟](../words/越盟.md)<rt>⼔ㄊㄇ⼶ㄫ</rt></ruby>: Viet Minh.

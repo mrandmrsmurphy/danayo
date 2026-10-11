@@ -60,6 +60,7 @@ boundedness:
 - <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby> "plaza; square"
 - <ruby>[[広東]]<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby> "Guangdong, Canton"
 - <ruby>[[広東語]]<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby> "Cantonese (language)"
+- <ruby>[[広南]]<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby> "Guangnan; Quang Nam"
 
 ## Derived Characters
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"
