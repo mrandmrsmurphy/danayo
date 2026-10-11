@@ -27,6 +27,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
 - <ruby>[強化](../words/強化.md)<rt>ㄍ⼘ㄫㄏ⺢</rt></ruby>: to strengthen.
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.
+- <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: great strength, mighty force; vigorously, with great effort (大力發展) — the same spelling is also Da Lat, listed on Vietnam.
 - <ruby>[失敗](../words/失敗.md)<rt>ㄙㄧㄊㄅㄚㄧ</rt></ruby>: to fail, be defeated.
 - <ruby>[結果](../words/結果.md)<rt>ㄍㄝㄊㄍ⺢</rt></ruby>: a result, fruit.
 - <ruby>[効果](../words/効果.md)<rt>ㄏ⼘ㄨㄍ⺢</rt></ruby>: an effect.

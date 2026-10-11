@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[大人]]<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> "adult"
 - <ruby>[[大事]]<rt>ㄉㄚㄧㄐㄧ</rt></ruby> "important matter; great matter"
 - <ruby>[[大和]]<rt>ㄉㄚㄧㄏ⺢</rt></ruby> "Yamato"
+- <ruby>[[大力]]<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby> "great strength; vigorously; Da Lat"
 - <ruby>[[大器]]<rt>ㄉㄚㄧㄎㄧㄜ</rt></ruby> "great vessel; great capacity"
 - <ruby>[[大学]]<rt>ㄉㄚㄧㄏㄚㄎ</rt></ruby> "university (abbr.); Great Learning"
 - <ruby>[[大家]]<rt>ㄉㄚㄧㄍㄚ</rt></ruby> "everyone; everybody (Mandarin/Cantonese)"

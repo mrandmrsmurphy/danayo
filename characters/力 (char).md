@@ -58,6 +58,7 @@ boundedness: 90
 - <ruby>[[実力]]<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby> "strength"
 - <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
 - <ruby>[[努力]]<rt>ㄋㄛㄌㄧㄎ</rt></ruby> "strive; endeavor"
+- <ruby>[[大力]]<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby> "great strength; vigorously; Da Lat"
 ## Derived Characters
 - <ruby>[[肋]]<rt>ㄌㄜㄎ</rt></ruby> "rib"
 - <ruby>[[勒]]<rt>ㄌㄜㄎ</rt></ruby> "bridle; rein in"
