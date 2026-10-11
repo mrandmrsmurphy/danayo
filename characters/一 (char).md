@@ -86,6 +86,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby> "one quarter, one fourth"
 - <ruby>[[一刻]]<rt>ㄧㄊㄎㄨㄎ</rt></ruby> "a moment"
 - <ruby>[[一生]]<rt>ㄧㄊㄙㄚㄫ</rt></ruby> "lifetime; one's whole life"
+- <ruby>[[一同]]<rt>ㄧㄊㄉㄛㄫ</rt></ruby> "together; all as one"
 
 ## Chengyu
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"

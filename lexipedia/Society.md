@@ -403,6 +403,8 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[尊重](../words/尊重.md)<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby>: to respect; to esteem.
 - <ruby>[朝鮮人](../words/朝鮮人.md)<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby>: a person of Joseon; a Korean (historically); a North Korean (today).
 - <ruby>[人気](../words/人気.md)<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby>: popularity; popular.
+- <ruby>[一同](../words/一同.md)<rt>ㄧㄊㄉㄛㄫ</rt></ruby>: together; all as one — and as a noun, everyone present; the collective counterpart to [[偕同]]'s "together with" and [[一処]]'s "in one place."
+- <ruby>[異化](../words/異化.md)<rt>ㄧㄏ⺢</rt></ruby>: alienation; to alienate — also dissimilation; the philosophical and sociological sense of estrangement, the counterpart to [[同化]]'s assimilation.
 
 ## Semantic Range Notes
 

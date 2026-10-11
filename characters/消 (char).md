@@ -55,4 +55,5 @@ date-last-perfect: 2026-08-06
 - <ruby>[[消]]<rt>ㄙ⼄ㄨ</rt></ruby> "vanish, die out, melt away" (stand-in for 消 (char))
 - <ruby>[[消息]]<rt>ㄙ⼄ㄨㄙㄧㄎ</rt></ruby> "news, message, tidings"
 - <ruby>[[消耗]]<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby> "consume; deplete"
+- <ruby>[[消滅]]<rt>ㄙ⼄ㄨ·ㄇㄝㄊ</rt></ruby> "vanish; die out; become extinct; annihilate"
 - <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"

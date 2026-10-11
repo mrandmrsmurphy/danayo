@@ -55,6 +55,7 @@ date-last-perfect: 2026-08-08
 - <ruby>[[滅]]<rt>ㄇㄝㄊ</rt></ruby> "wipe out" (stand-in for 滅)
 - <ruby>[[寂滅]]<rt>ㄐㄝㄎㄇㄝㄊ</rt></ruby> "nirvana; cessation of suffering"
 - <ruby>[[滅失]]<rt>ㄇㄝㄊㄙㄧㄊ</rt></ruby> "lose"
+- <ruby>[[消滅]]<rt>ㄙ⼄ㄨ·ㄇㄝㄊ</rt></ruby> "vanish; die out; become extinct; annihilate"
 - <ruby>[[隠滅]]<rt>ㄜㄋㄇㄝㄊ</rt></ruby> "destroy (evidence); vanish"
 
 ## Chengyu
