@@ -116,7 +116,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 ## Correlative Pronoun System
 Dan'a'yo builds a closed paradigm of correlatives by crossing a deictic/interrogative/quantifier base with a bound noun class. All 63 combinations exist as real words.
 
-| Base | 事 (matter) | 物 (thing) | 人 (person) | 名 (person, polite) | 処 (place) | 時 (time) | 様 (manner) | 多 (amount) | 類 (kind) |
+| Base | 事 (matter) | 物 (thing) | 人 (person) | 名 (person, polite) | <ruby>[処](../words/処.md)<rt>ㄑㄛ</rt></ruby> (place) | 時 (time) | 様 (manner) | 多 (amount) | 類 (kind) |
 |---|---|---|---|---|---|---|---|---|---|
 | 此 this | <ruby>[此事](../words/此事.md)<rt>ㄑㄜㄐㄧ</rt></ruby> | <ruby>[此物](../words/此物.md)<rt>ㄑㄜ·ㄇㄨㄊ</rt></ruby> | <ruby>[此人](../words/此人.md)<rt>ㄑㄜ·ㄋㄧㄋ</rt></ruby> | <ruby>[此名](../words/此名.md)<rt>ㄑㄜ·ㄇㄧㄫ</rt></ruby> | <ruby>[此処](../words/此処.md)<rt>ㄑㄜㄑㄛ</rt></ruby> | <ruby>[此時](../words/此時.md)<rt>ㄑㄜㄙㄧ</rt></ruby> | <ruby>[此様](../words/此様.md)<rt>ㄑㄜ⼘ㄫ</rt></ruby> | <ruby>[此多](../words/此多.md)<rt>ㄑㄜㄉㄜ</rt></ruby> | <ruby>[此類](../words/此類.md)<rt>ㄑㄜㄌㄨㄧ</rt></ruby> |
 | 其 that | <ruby>[其事](../words/其事.md)<rt>ㄍㄜㄐㄧ</rt></ruby> | <ruby>[其物](../words/其物.md)<rt>ㄍㄜ·ㄇㄨㄊ</rt></ruby> | <ruby>[其人](../words/其人.md)<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby> | <ruby>[其名](../words/其名.md)<rt>ㄍㄜ·ㄇㄧㄫ</rt></ruby> | <ruby>[其処](../words/其処.md)<rt>ㄍㄜㄑㄛ</rt></ruby> | <ruby>[其時](../words/其時.md)<rt>ㄍㄜㄙㄧ</rt></ruby> | <ruby>[其様](../words/其様.md)<rt>ㄍㄜ⼘ㄫ</rt></ruby> | <ruby>[其多](../words/其多.md)<rt>ㄍㄜㄉㄜ</rt></ruby> | <ruby>[其類](../words/其類.md)<rt>ㄍㄜㄌㄨㄧ</rt></ruby> |
@@ -186,6 +186,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[所](../words/所.md)<rt>ㄙㄜ</rt></ruby> "-ee (nominalizer particle): precedes a verb to form a noun phrase naming the object/receiver of the action, 所+有='所有' ('that which is had,' possessions)"
 - so-called : <ruby>[所謂](../words/所謂.md)<rt>ㄙㄜㄨㄧ</rt></ruby>
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby> "to (dative particle, 与格): marks the animate goal of a verb"
+- <ruby>[只](../words/只.md)<rt>ㄑㄝ</rt></ruby> "only (restrictive topic-retaining particle, suffixed to a noun phrase: 一人只, 'only one person') — contrasts with additive [[且]]; see also [[唯]], the prefixing modifier"
 - <ruby>[乎](../words/乎.md)<rt>ㄏㄛ</rt></ruby> "did, do (sentence-final question particle, classical register)"
 - <ruby>[也](../words/也.md)<rt>⼘</rt></ruby> "as for; EMPHASIS (topic marker / assertive sentence-final particle, classical register)"
 - <ruby>[公](../words/公.md)<rt>ㄍㄛㄫ</rt></ruby> "sir (honorific suffix): attaches to a personal name or title to add a respectful, deferential nuance, paralleling Japanese -さん and Korean -님"
