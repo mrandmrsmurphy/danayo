@@ -61,3 +61,4 @@ boundedness: 100
 - <ruby>[[興起]]<rt>ㄏㄜㄫㄎㄧ</rt></ruby> "to rise up, emerge"
 - <ruby>[[勃興]]<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby> "rise"
 - <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby> "glad, pleased"
+- <ruby>[[興奮]]<rt>ㄏㄜㄫㄈㄨㄋ</rt></ruby> "excitement; excited"

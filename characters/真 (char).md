@@ -19,7 +19,7 @@ skip_number: 2-2-8
 grade_level: "1"
 pos: 性詞
 english:
-  - true
+  - "true"
 羅馬字: jin
 諺文: 진
 joyo_level: "3"
@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[真摯]]<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby> "sincere; earnest"
 - <ruby>[[天真]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "innocent; naive; artless"
 - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> "photograph"
+- <ruby>[[真理]]<rt>ㄐㄧㄋㄌㄧ</rt></ruby> "truth"
 
 ## Chengyu
 - <ruby>[[天真乱漫]]<rt>ㄊㄝㄋㄐㄧㄋㄌㄚㄋㄇㄚㄋ</rt></ruby> "simple and artless"

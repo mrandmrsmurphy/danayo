@@ -399,6 +399,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[爾等](../words/爾等.md)<rt>ㄋㄝㄉㄨㄫ</rt></ruby>: ye; you all.
 - <ruby>[即是](../words/即是.md)<rt>ㄐㄜㄎㄙㄝ</rt></ruby>: is precisely; is none other than.
 - <ruby>[以内](../words/以内.md)<rt>ㄧㄋㄛㄧ</rt></ruby>: within; less than.
+- <ruby>[不復](../words/不復.md)<rt>ㄅㄛㄊㄅㄨㄎ</rt></ruby>: no longer; no more.
 
 ## Semantic Range Notes
 

@@ -219,3 +219,4 @@ language: English
 - <ruby>[閻](../words/閻.md)<rt>⼶ㄇ</rt></ruby>: village gate.
 - <ruby>[院落](../words/院落.md)<rt>⼔ㄋㄌㄚㄎ</rt></ruby>: courtyard; compound.
 - <ruby>[陵墓](../words/陵墓.md)<rt>ㄌㄜㄫㄇㄛ</rt></ruby>: mausoleum.
+- <ruby>[草屋](../words/草屋.md)<rt>ㄑㄚㄨㄛㄎ</rt></ruby>: a thatched hut.

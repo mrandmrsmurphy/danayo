@@ -103,6 +103,8 @@ Rosenfelder terms with no Dan'a'yo word yet: again (general), always, common (as
 - <ruby>[行事](../words/行事.md)<rt>ㄏㄚㄫㄐㄧ</rt></ruby>: action; function.
 - <ruby>[誘発](../words/誘発.md)<rt>⼜ㄛㄈㄚㄊ</rt></ruby>: induce; trigger.
 - <ruby>[遭遇](../words/遭遇.md)<rt>ㄐㄚㄨㄨ</rt></ruby>: encounter.
+- <ruby>[煩忙](../words/煩忙.md)<rt>ㄈㄛㄇㄇㄚㄫ</rt></ruby>: busy; bustling (literary).
+- <ruby>[静止](../words/静止.md)<rt>ㄐㄝㄫㄐㄧ</rt></ruby>: stillness; to be motionless.
 
 ## Semantic Range Notes
 

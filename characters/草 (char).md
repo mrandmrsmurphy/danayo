@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[艾草]]<rt>ㄚㄧㄑㄚㄨ</rt></ruby> "mugwort"
 - <ruby>[[海草]]<rt>ㄏㄚㄧㄑㄚㄨ</rt></ruby> "seagrass"
 - <ruby>[[茅草]]<rt>ㄇ⼘ㄨㄑㄚㄨ</rt></ruby> "cogon grass; thatch"
+- <ruby>[[草屋]]<rt>ㄑㄚㄨㄛㄎ</rt></ruby> "thatched hut"

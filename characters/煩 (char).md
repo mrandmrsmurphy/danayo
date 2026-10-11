@@ -54,3 +54,4 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome"
+- <ruby>[[煩忙]]<rt>ㄈㄛㄇㄇㄚㄫ</rt></ruby> "busy; bustling"

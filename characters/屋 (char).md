@@ -50,6 +50,7 @@ boundedness: 30
 
 ## Words
 - <ruby>[[屋]]<rt>ㄛㄎ</rt></ruby> "roof" (stand-in for 屋)
+- <ruby>[[草屋]]<rt>ㄑㄚㄨㄛㄎ</rt></ruby> "thatched hut"
 
 ## Derived Characters
 - <ruby>[[握]]<rt>ㄚㄎ</rt></ruby> "grasp, hold"

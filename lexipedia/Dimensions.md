@@ -143,6 +143,7 @@ Rosenfelder terms with no Dan'a'yo word yet: entire, whole, all, any, each, ever
 - <ruby>[衆多](../words/衆多.md)<rt>ㄐㄨㄫㄉㄜ</rt></ruby>: numerous; multitudinous.
 - <ruby>[長](../words/長.md)<rt>ㄐㄚㄫ</rt></ruby>: long.
 - <ruby>[魏峨](../words/魏峨.md)<rt>ㄝㄚ</rt></ruby>: towering; majestic; lofty.
+- <ruby>[充満](../words/充満.md)<rt>ㄑㄨㄫㄇㄚㄋ</rt></ruby>: to be filled with; to be brimming with.
 
 ## Semantic Range Notes
 

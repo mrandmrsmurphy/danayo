@@ -279,6 +279,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[検索](../words/検索.md)<rt>ㄍㄝㄇㄙㄚㄎ</rt></ruby>: to search; to look up.
 - <ruby>[主体](../words/主体.md)<rt>ㄐㄨㄊㄝㄧ</rt></ruby>: subject; principal agent.
 - <ruby>[智者](../words/智者.md)<rt>ㄐㄨㄧㄑㄚ</rt></ruby>: a wise person; a sage.
+- <ruby>[客観](../words/客観.md)<rt>ㄎㄚㄎㄍ⺢ㄋ</rt></ruby>: objective; objectivity.
+- <ruby>[真理](../words/真理.md)<rt>ㄐㄧㄋㄌㄧ</rt></ruby>: truth.
 
 ## Semantic Range Notes
 
