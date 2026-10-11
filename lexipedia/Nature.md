@@ -143,6 +143,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[風潮](../words/風潮.md)<rt>ㄈㄨㄫㄑㄚㄨ</rt></ruby>: tempest; trend.
 - <ruby>[黄沙](../words/黄沙.md)<rt>ㄏ⺢ㄫㄙㄚ</rt></ruby>: yellow sand; Asian dust.
 - <ruby>[龍巻](../words/龍巻.md)<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby>: tornado; twister.
+- <ruby>[叢林](../words/叢林.md)<rt>ㄐㄛㄫㄌㄧㄇ</rt></ruby>: jungle; thicket.
 
 ## Semantic Range Notes
 

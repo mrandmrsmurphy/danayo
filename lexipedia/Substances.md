@@ -96,6 +96,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[陶瓷](../words/陶瓷.md)<rt>ㄉㄚㄨㄑㄧ</rt></ruby>: ceramics; porcelain.
 - <ruby>[陶瓷器](../words/陶瓷器.md)<rt>ㄉㄚㄨㄑㄧ·ㄎㄧㄜ</rt></ruby>: chinaware; porcelain; pottery.
 - <ruby>[馬𡿺](../words/馬𡿺.md)<rt>ㄇㄚ·ㄋㄚㄨ</rt></ruby>: agate.
+- <ruby>[水泥](../words/水泥.md)<rt>ㄙㄨㄋㄝㄧ</rt></ruby>: cement.
 
 ## Semantic Range Notes
 

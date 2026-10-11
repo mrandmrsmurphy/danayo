@@ -57,6 +57,8 @@ date-last-perfect: 2026-08-08
 - <ruby>[[泥]]<rt>ㄋㄝㄧ</rt></ruby> "mud" (stand-in for 泥)
 - <ruby>[[拘泥]]<rt>ㄍㄨ·ㄋㄝㄧ</rt></ruby> "inflexible, particular"
 - <ruby>[[泥婆羅]]<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby> "Nepal"
+- <ruby>[[水泥]]<rt>ㄙㄨㄋㄝㄧ</rt></ruby> "cement"
 
 ## Chengyu
 - <ruby>[[汗食帰泥]]<rt>ㄏㄚㄋㄙㄧㄎㄍㄨㄧㄋㄝㄧ</rt></ruby> "sweat and eat, return to mud"
+- <ruby>[[水泥叢林]]<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> "concrete jungle"

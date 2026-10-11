@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 148
+size: 149
 tags:
   - chengyu
 ---
@@ -153,6 +153,7 @@ tags:
 - <ruby>[電光石火](chengyu/電光石火.md)<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> - gone in a flash
 - <ruby>[暗送秋波](chengyu/暗送秋波.md)<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> - to flirt, to convey feelings through a knowing glance
 - <ruby>[玩世不恭](chengyu/玩世不恭.md)<rt>⺢ㄋㄙㄝㄅㄛㄊㄍ⼄ㄫ</rt></ruby> - cynical, treating life with irreverent disdain
+- <ruby>[水泥叢林](chengyu/水泥叢林.md)<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> - concrete jungle
 
 ## Base check
 ```base
