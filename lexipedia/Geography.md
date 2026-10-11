@@ -6,6 +6,7 @@ language: 単亜語
 
 <ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
 - <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
+  - China-specific places, historical states, ancient geography and people are on [China](China.md).
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
   - Japan-specific places, clans and companies are on [Japan](Japan.md).
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
@@ -17,17 +18,7 @@ language: 単亜語
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
 - <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
 - <ruby>[極東](../words/極東.md)<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby>: the Far East — a regional name for East Asia, beside [[東亜]].
-- <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
-- <ruby>[支那](../words/支那.md)<rt>ㄐㄝ·ㄋㄚ</rt></ruby>: "Zhina," an old name for China.
-- <ruby>[斉国](../words/斉国.md)<rt>ㄐㄝㄧㄍㄛㄎ</rt></ruby>: the state of Qi.
-- <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
-- <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with 奥 rather than the real-world 澳.
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
-- <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
-- <ruby>[横店](../words/横店.md)<rt>ㄏ⺢ㄫㄉㄝㄇ</rt></ruby>: Hengdian, a town in Dongyang, Zhejiang, home of China's largest film and television studio base.
-- <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.
-- <ruby>[鄭国](../words/鄭国.md)<rt>ㄐㄝㄫㄍㄛㄎ</rt></ruby>: Zheng, a minor state of the Zhou period in what is now Henan, whose "Airs of Zheng" survive in the 詩経 and whose name gave the surname 鄭; a historical state, not a modern country.
-- <ruby>[蜀国](../words/蜀国.md)<rt>ㄙㄛㄎㄍㄛㄎ</rt></ruby>: Shu, the kingdom centred on the Sichuan basin — the generic name for several historical states there (the early Shu conquered by Qin, Shu-Han of the Three Kingdoms, and the Five Dynasties Shu kingdoms); a historical state, not a modern country.
 
 ### Landform
 The region contains <ruby>[山地](words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>, <ruby>[大河](words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>[流域](words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>, <ruby>[列島](words/列島.md)<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby>, and <ruby>[半島](words/半島.md)<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>, including specific named rivers such as the <ruby>[江戸川](words/江戸川.md)<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> (Edo River) forming part of the Tokyo–Chiba border and the <ruby>[瀧川](words/瀧川.md)<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby> (Takigawa, "waterfall river," also a Japanese surname).  
@@ -236,43 +227,19 @@ The two poles: the <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt>
 In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>近代<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
 
 #### Ancient
-In ancient East Asian thought, the division of the world followed a different structure. The <ruby>天下<rt>ㄊㄝㄋㄏㄚ</rt></ruby> was described as surrounded by the Four Seas ([[四海]]), namely 
-1. <ruby>[東海](/words/東海.md)<rt>ㄉㄛㄫㄏㄚㄧ</rt></ruby>, 
-2. <ruby>[西海](/words/西海.md)<rt>ㄙㄝㄧㄏㄚㄧ</rt></ruby>, 
-3. <ruby>[南海](/words/南海.md)<rt>ㄋㄚㄇㄏㄚㄧ</rt></ruby>, 
-4. and <ruby>[北海](/words/北海.md)<rt>ㄅㄨㄎㄏㄚㄧ</rt></ruby>
-
-These were directional boundary waters ([[方位]][[界水]]), not measured oceans. Within these boundaries lay the <ruby>[九州](../words/九州.md)<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>, including:
-1. Ji ([[希州]]),
-2. Yan ([[兗州]]),
-3. Qing ([[青州]]),
-4. Xu ([[徐州]]),
-5. Yang ([[揚州]]),
-6. Jing ([[荊州]]),
-7. Yu ([[予州]]),
-8. Liang ([[梁州]]), and
-9. Yong ([[雍州]]).
-
-These provinces (州) were civilizational and administrative regions ([[行政]][[区域]]), not continents (洲). Thus the ancient model was concentric ([[環状]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain ([[王畿]]), while the modern model is global and comparative ([[全球]][[並列]]<ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions ([[並列]]<ruby>区域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>).
-
-This concentric Nine-Provinces model eventually gave way to the historical reality of the Warring States, one of which — <ruby>[秦国](../words/秦国.md)<rt>ㄐㄧㄋㄍㄛㄎ</rt></ruby> (the state of Qin) — unified the others into China's first empire.
-
-Not every ancient polity survived to see that unification.  One of the earliest to vanish was <ruby>[鄂国](../words/鄂国.md)<rt>ㄚㄎㄍㄛㄎ</rt></ruby> (the State of E), destroyed in 863 BC, yet its name endures as the one-character abbreviation for Hubei.
+In ancient East Asian thought, the world was divided into the Four Seas and the Nine Provinces. Their names, the royal domain and the early states are on [China](China.md).
 
 The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]]) to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
 - <ruby>[他郷](../words/他郷.md)<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby>: foreign land.
-- <ruby>[偪陽](../words/偪陽.md)<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby>: Fuyang.
 - <ruby>[欧羅巴](../words/欧羅巴.md)<rt>ㄛㄨㄌㄛ·ㄆㄚ</rt></ruby>: Europe; Europa; EU.
 - <ruby>[水原](../words/水原.md)<rt>ㄙㄨ⼔ㄋ</rt></ruby>: Suwon; Mizuhara.
 - <ruby>[江南](../words/江南.md)<rt>ㄍㄚㄫㄋㄚㄇ</rt></ruby>: south river; Gangnam.
 - <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
 - <ruby>[漢江](../words/漢江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
 - <ruby>[火山島](../words/火山島.md)<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby>: volcanic island.
-- <ruby>[烏魯斉](../words/烏魯斉.md)<rt>ㄛㄌㄛㄇㄐㄝㄧ</rt></ruby>: Ürümqi.
-- <ruby>[無定河](../words/無定河.md)<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby>: Wuding River.
 - <ruby>[環礁](../words/環礁.md)<rt>ㄏ⺢ㄋㄐㄚㄨ</rt></ruby>: atoll.
 - <ruby>[盧森堡](../words/盧森堡.md)<rt>ㄌㄛㄙㄨㄇㄅㄚㄨ</rt></ruby>: Luxembourg.
 - <ruby>[祖国](../words/祖国.md)<rt>ㄐㄜㄍㄛㄎ</rt></ruby>: motherland; homeland.
@@ -295,7 +262,5 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[隣国](../words/隣国.md)<rt>ㄌㄧㄋㄍㄛㄎ</rt></ruby>: neighboring country.
 - <ruby>[露国](../words/露国.md)<rt>ㄌㄛㄍㄛㄎ</rt></ruby>: Russia.
 - <ruby>[韓江](../words/韓江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
-- <ruby>[香港](../words/香港.md)<rt>ㄏ⼘ㄫㄏㄛㄫ</rt></ruby>: Hong Kong.
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
-- <ruby>[魏国](../words/魏国.md)<rt>ㄝㄍㄛㄎ</rt></ruby>: Wei kingdom.
 - <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku; the world; all under heaven.

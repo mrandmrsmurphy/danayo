@@ -61,6 +61,7 @@ boundedness: 70
 - <ruby>[[上述]]<rt>ㄙ⼘ㄫㄙㄨㄊ</rt></ruby> "the aforementioned"
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 - <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
+- <ruby>[[以上]]<rt>ㄧㄙ⼘ㄫ</rt></ruby> "above; more than; and up; the above"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
 
 ## Chengyu
