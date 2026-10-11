@@ -9,12 +9,9 @@ language: 単亜語
 - <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
   - Japan-specific places, clans and companies are on [Japan](Japan.md).
 - <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
+  - Korea-specific kingdoms, script, rulers and people are on [Korea](Korea.md).
   - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
 - <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
-- <ruby>[新羅](../words/新羅.md)<rt>ㄙㄧㄋㄌㄛ</rt></ruby>: Silla, the southeasternmost of the Three Kingdoms of Korea, traditionally founded in 57 BC at Gyeongju and surviving until 935; the Japanese reading しらぎ is the conventional historical one, not the on'yomi しんら.
-- <ruby>[高句麗](../words/高句麗.md)<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby>: Goguryeo, the northernmost of the Korean Three Kingdoms, traditionally founded in 37 BC in the Yalu basin and conquered in 668, a power in Manchuria as much as Korea; its Mandarin reading Gāogōulí has an irregular gōu for 句.
-- <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
-- <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire.
 - <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
 - <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
 - <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
@@ -276,7 +273,6 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[烏魯斉](../words/烏魯斉.md)<rt>ㄛㄌㄛㄇㄐㄝㄧ</rt></ruby>: Ürümqi.
 - <ruby>[無定河](../words/無定河.md)<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby>: Wuding River.
 - <ruby>[環礁](../words/環礁.md)<rt>ㄏ⺢ㄋㄐㄚㄨ</rt></ruby>: atoll.
-- <ruby>[百済](../words/百済.md)<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby>: Baekje.
 - <ruby>[盧森堡](../words/盧森堡.md)<rt>ㄌㄛㄙㄨㄇㄅㄚㄨ</rt></ruby>: Luxembourg.
 - <ruby>[祖国](../words/祖国.md)<rt>ㄐㄜㄍㄛㄎ</rt></ruby>: motherland; homeland.
 - <ruby>[突厥](../words/突厥.md)<rt>ㄊㄛㄊㄎㄨㄊ</rt></ruby>: Turks.

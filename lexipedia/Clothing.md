@@ -92,7 +92,6 @@ Rosenfelder terms with no Dan'a'yo word yet: a cloak, a coat, fashion, a rag, a 
 - <ruby>[服装](../words/服装.md)<rt>ㄅㄨㄎㄐ⺢ㄫ</rt></ruby>: clothing; dress; outfit.
 - <ruby>[蝉冠](../words/蝉冠.md)<rt>ㄙㄝㄋㄍ⺢ㄋ</rt></ruby>: ancient hat.
 - <ruby>[陽傘](../words/陽傘.md)<rt>⼘ㄫㄙㄚㄋ</rt></ruby>: parasol.
-- <ruby>[韓服](../words/韓服.md)<rt>ㄏㄚㄋㄅㄨㄎ</rt></ruby>: Hanbok.
 
 ## Semantic Range Notes
 

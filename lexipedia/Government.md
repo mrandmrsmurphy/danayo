@@ -68,7 +68,6 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[諡号](../words/諡号.md)<rt>ㄙㄧㄜㄏㄚㄨ</rt></ruby>: a posthumous name, honorary posthumous title — the name conferred on a ruler or notable after death, summing up their reign or character; the stand-in for the bound character 諡.
 - <ruby>[朕](../words/朕.md)<rt>ㄐㄨㄇ</rt></ruby>: "we/I" — the imperial first-person pronoun, used exclusively by emperors and empresses since the Qin dynasty; a specialized register-bound form, distinct from the ordinary pronoun paradigm on [[Grammar]].
 - <ruby>[七事](../words/七事.md)<rt>ㄑㄧㄊㄐㄧ</rt></ruby>: the Seven Duties of a Sovereign — a classical/historical canonical list (offering sacrifice, giving audience, administering jointly, receiving guests, running the army, attending to farm work, and mourning ceremonies).
-- <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>: Sejong — a posthumous royal temple name (廟號), a fixed stock of titles reused across Sinitic dynasties rather than unique to one monarch; most famously Korea's King Sejong the Great, creator of the Korean alphabet.
 - <ruby>[侯](../words/侯.md)<rt>ㄏㄛㄨ</rt></ruby>: a marquis — the second-highest of the Five Ranks of Nobility (五等爵), below duke (uncoined) and above [[伯爵]]; also "aristocrat, nobleman" more generally.
 - <ruby>[伯爵](../words/伯爵.md)<rt>ㄅㄚㄎㄐㄚㄎ</rt></ruby>: an earl, count.
 - <ruby>[公爵](../words/公爵.md)<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>: a duke — the highest rank of nobility.

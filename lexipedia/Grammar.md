@@ -264,7 +264,6 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[新字体](../words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai, the simplified character forms standardized in Japan from 1946"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
-- <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
 - <ruby>[本字](../words/本字.md)<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character — the etymologically correct character for a word, as distinct from a phonetic loan or later variant"
 - <ruby>[字](../words/字.md)<rt>ㄐㄧ</rt></ruby> "character"
