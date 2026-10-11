@@ -56,3 +56,4 @@ boundedness: 65
 
 ## Words
 - <ruby>[[岸]]<rt>ㄚㄋ</rt></ruby> "bank; shore" (stand-in for 岸)
+- <ruby>[[堤岸]]<rt>ㄙㄝㄚㄋ</rt></ruby> "embankment; Chợ Lớn, the Chinese quarter of Saigon"

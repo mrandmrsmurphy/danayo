@@ -35,6 +35,9 @@ status: partial
 - <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
 - <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: Haiphong, the principal port of the north; the same spelling means "coastal defense" elsewhere (see Conflict).
 - <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
+- <ruby>[堤岸](../words/堤岸.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: Chợ Lớn, the Chinese quarter of Saigon.
+- <ruby>[芽荘](../words/芽荘.md)<rt>ㄚㄐ⺢ㄫ</rt></ruby>: Nha Trang, a coastal resort city of the south-central coast (also written <ruby>芽莊<rt>ㄚㄐ⺢ㄫ</rt></ruby>).
+- <ruby>[朔荘](../words/朔荘.md)<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>: Sóc Trăng, a city of the Mekong Delta (also written <ruby>朔莊<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>).
 
 ### Provinces and places
 - <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
