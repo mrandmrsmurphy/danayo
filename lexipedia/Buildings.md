@@ -18,6 +18,7 @@ language: English
 - road - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>
 - square/plaza - <ruby>[広場](../words/広場.md)<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby>
 - street - <ruby>[街道](../words/街道.md)<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>
+- old street, historic old-town quarter - <ruby>[老街](../words/老街.md)<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby> (the Chinese-speaking world's term for a preserved historic street; the same spelling is Lào Cai in Vietnam, listed on Vietnam)
 - tunnel - <ruby>[地下道](../words/地下道.md)<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> (also <ruby>[[隧道]]<rt></rt></ruby>)
 - village - <ruby>[農村](../words/農村.md)<rt>ㄋㄛㄫㄑㄛㄋ</rt></ruby>
 - courtyard - <ruby>[中庭](../words/中庭.md)<rt>ㄐㄨㄫㄉㄝㄫ</rt></ruby>

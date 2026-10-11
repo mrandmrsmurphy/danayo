@@ -52,6 +52,11 @@ status: partial
 - <ruby>[桃山](../words/桃山.md)<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby>: Momoyama, a hill in the Fushimi area of southern Kyoto where Toyotomi Hideyoshi built Fushimi Castle in 1594; it lent its name to the Momoyama period, though the name is younger than the period it names.
 - <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
 
+## Language and Script
+- <ruby>[日本語](../words/日本語.md)<rt>ㄋㄧㄊㄅㄛㄋ·⼄</rt></ruby>: Japanese (language), the full name, country + <ruby>語<rt>⼄</rt></ruby> (beside the short Sinitic <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>).
+- <ruby>日語<rt>ㄋㄧㄊ⼄</rt></ruby>: Japanese (language), the short Sinitic name.
+- <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — Japanese (kokugo) as the speaker's own modern language and the school subject, in contrast with Classical Chinese.
+
 ## Clans and Surnames
 - <ruby>[徳川](../words/徳川.md)<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby>: Tokugawa, the clan that ruled Japan as shoguns from 1603 to 1868, a branch of the Matsudaira; read とくがわ with rendaku in がわ.
 - <ruby>[山本](../words/山本.md)<rt>ㄙㄚㄋㄅㄛㄋ</rt></ruby>: Yamamoto.

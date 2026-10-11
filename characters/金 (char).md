@@ -83,6 +83,7 @@ boundedness: 90
 - <ruby>[[金刀]]<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby> "golden knife; a blade of gold"
 - <ruby>[[金甌]]<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby> "golden chalice; the nation; Cà Mau"
 - <ruby>[[金角湾]]<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> "Golden Horn"
+- <ruby>[[金角]]<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby> "Jinjiao, the demon king of Journey to the West; Cam Ranh"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

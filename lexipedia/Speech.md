@@ -36,6 +36,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[聊](../words/聊.md)<rt>ㄌ⼘ㄨ</rt></ruby>: to chat — a casual near-synonym of [[会話]]; in a separate literary sense, also "somewhat, slightly" or "for the time being."
 - <ruby>[口語](../words/口語.md)<rt>ㄎㄛㄨ⼄</rt></ruby>: colloquial language, spoken language. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
 - <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>: a dialect. See [Grammar](../lexipedia/Grammar.md) for its own citation there.
+- <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — the official or standard language of a country, or a country's own modern language (the Japanese school subject, Korean 국어, Taiwanese Mandarin, Vietnamese quốc ngữ). See [China](../lexipedia/China.md), [Japan](../lexipedia/Japan.md), [Korea](../lexipedia/Korea.md) and [Vietnam](../lexipedia/Vietnam.md).
 - <ruby>[唖口](../words/唖口.md)<rt>ㄚ·ㄎㄛㄨ</rt></ruby>: mute.
 
 ### Naming
@@ -173,7 +174,6 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Additional Vocabulary (backfilled 2026-10-10)
 
 - <ruby>[伝播](../words/伝播.md)<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby>: propagate; disseminate; spread.
-- <ruby>[字南](../words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby>: Chu Nom, Vietnamese written in Chinese characters.
 - <ruby>[正字法](../words/正字法.md)<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby>: orthography.
 - <ruby>[片仮名](../words/片仮名.md)<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby>: katakana.
 - <ruby>[異音](../words/異音.md)<rt>ㄧㄨㄇ</rt></ruby>: allophony.
@@ -195,7 +195,6 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[電話](../words/電話.md)<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>: telephone.
 - <ruby>[露斯亜語](../words/露斯亜語.md)<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby>: Russian language.
 - <ruby>[露語](../words/露語.md)<rt>ㄌㄛ⼄</rt></ruby>: Russian language.
-- <ruby>[韓国語](../words/韓国語.md)<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>: Korean language (South).
 - <ruby>[音素](../words/音素.md)<rt>ㄨㄇㄙㄛ</rt></ruby>: phoneme.
 - <ruby>[音韻](../words/音韻.md)<rt>ㄨㄇ·ㄨㄋ</rt></ruby>: phonology; phoneme.
 - <ruby>[飛報](../words/飛報.md)<rt>ㄈㄝㄧㄅㄚㄨ</rt></ruby>: report rapidly.

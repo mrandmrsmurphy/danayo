@@ -68,6 +68,9 @@ Seven cities have a status of their own. Six of them are <ruby>[廣域](../words
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 세종특별자치시) — Sejong, the administrative capital, named for the king
 
 ## Script and Language
+- <ruby>[韓国語](../words/韓国語.md)<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>: Korean language (South).
+- <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>: Korean (language), the short Sinitic name beside the full <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby> (homophone of <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>).
+- <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — 국어, the Korean language as the nation's own language and school subject, beside the more specific <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>.
 - <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul.
 - <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
 

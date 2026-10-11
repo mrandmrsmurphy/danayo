@@ -226,12 +226,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - grammar : <ruby>[文法](../words/文法.md)<rt>ㄇㄨㄋㄈㄚㄆ</rt></ruby>
 - dialect : <ruby>[方言](../words/方言.md)<rt>ㄈㄚㄫㄝㄋ</rt></ruby>
 - Esperanto (lit. "world language," 世界語's standard Sinographic name, not a generic "universal language" concept) : <ruby>[世界語](../words/世界語.md)<rt>ㄙㄝㄍ⼶⼄</rt></ruby>
-- the Chinese language (primarily a Japanese/Korean coinage, country + 語; Mandarin itself prefers 中文/普通話/漢語) : <ruby>[中国語](../words/中国語.md)<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>
-- Mandarin, Standard Chinese (lit. "common speech," the PRC's official name for the standard language, narrower than [[中国語]]) : <ruby>[普通話](../words/普通話.md)<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby>
-- Chinese; the Chinese language/writing/culture (the everyday Mandarin/Cantonese term, emphasizing the cultural-written dimension over [[中国語]]'s system-of-speech sense) : <ruby>[中文](../words/中文.md)<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby>
-- Cantonese, lit. "Guangdong language" (the Guangdong-based variety; compare 粤語, the Yue language as a whole) : <ruby>[広東語](../words/広東語.md)<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby>
-- Korean (language), the short Sinitic name beside the full [[韓国語]] (homophone of [[漢語]]) : <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>
-- Vietnamese (language), the short Sinitic name beside the full [[越南語]] (homophone of [[粤語]]) : <ruby>[越語](../words/越語.md)<rt>⼔ㄊ⼄</rt></ruby>
+- CJKV language names are on [China](China.md), [Japan](Japan.md), [Korea](Korea.md) and [Vietnam](Vietnam.md).
 - Western languages (the Euro-American contrast class to the CJKV languages) : <ruby>[西洋語](../words/西洋語.md)<rt>ㄙㄝㄧ⼘ㄫ⼄</rt></ruby>
 - loanword, foreign-origin word (as in 外来語転写, transcription of foreign words) : <ruby>[外来語](../words/外来語.md)<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby>
 - foreign language, the pan-Sinospheric short form of 外国語 : <ruby>[外語](../words/外語.md)<rt>⺢ㄧ⼄</rt></ruby>
@@ -239,8 +234,6 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - neologism, a newly coined word : <ruby>[新語](../words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby>
 - honorific speech, polite language : <ruby>[敬語](../words/敬語.md)<rt>ㄍ⼶ㄫ⼄</rt></ruby>
 - international language, lingua franca, koine : <ruby>[国際語](../words/国際語.md)<rt>ㄍㄛㄎㄐㄝ⼄</rt></ruby>
-- Japanese (language), the full name, country + 語 (beside the short Sinitic [[日語]]) : <ruby>[日本語](../words/日本語.md)<rt>ㄋㄧㄊㄅㄛㄋ·⼄</rt></ruby>
-- Japanese (language), the short Sinitic name : <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>
 - Dan'a'yo, this language itself (zonal auxiliary language of the East Asian sphere) : <ruby>[単亜語](../words/単亜語.md)<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby>
 - source language (the language whose phonology shapes a speaker's Dan'a'yo; also "original language" or "protolanguage") : <ruby>[原言語](../words/原言語.md)<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby>
 - CJKV (Chinese, Japanese, Korean, Vietnamese — the standard Sinographic initialism for the four cultures/languages this vault's own project is built around) : <ruby>[中日韓越](../words/中日韓越.md)<rt>ㄐㄨㄫㄋㄧㄊㄏㄚㄋ⼔ㄊ</rt></ruby>
@@ -257,7 +250,6 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[書契](../words/書契.md)<rt>ㄙ⼄·ㄎㄝㄧ</rt></ruby> "writing system, written records, the invention of writing"
 - <ruby>[漢字](../words/漢字.md)<rt>ㄏㄚㄋㄐㄧ</rt></ruby> "Chinese character"
 - <ruby>[漢文](../words/漢文.md)<rt>ㄏㄚㄋㄇㄨㄋ</rt></ruby> "Chinese literature, anything written in Chinese"
-- <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby> "Chinese language(s), Sino-Japanese vocabulary"
 - <ruby>[漢蔵](../words/漢蔵.md)<rt>ㄏㄚㄋㄑㄚㄫ</rt></ruby> "Sino-Tibetan"
 - <ruby>[繁体字](../words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "traditional Chinese characters"
 - <ruby>[簡体字](../words/簡体字.md)<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "simplified Chinese characters"

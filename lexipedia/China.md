@@ -73,3 +73,12 @@ These provinces (<ruby>[州](../words/州.md)<rt>ㄐㄨㄛ</rt></ruby>) were civ
 This concentric Nine-Provinces model eventually gave way to the historical reality of the Warring States, one of which — <ruby>[秦国](../words/秦国.md)<rt>ㄐㄧㄋㄍㄛㄎ</rt></ruby> (the state of Qin) — unified the others into China's first empire.
 
 Not every ancient polity survived to see that unification.  One of the earliest to vanish was <ruby>[鄂国](../words/鄂国.md)<rt>ㄚㄎㄍㄛㄎ</rt></ruby> (the State of E), destroyed in 863 BC, yet its name endures as the one-character abbreviation for Hubei.
+
+## Language and Script
+- <ruby>[中国語](../words/中国語.md)<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>: the Chinese language (primarily a Japanese/Korean coinage, country + <ruby>語<rt>⼄</rt></ruby>; Mandarin itself prefers <ruby>[中文](../words/中文.md)<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby> / <ruby>[普通話](../words/普通話.md)<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> / <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>).
+- <ruby>普通話<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby>: Mandarin, Standard Chinese (lit. "common speech," the PRC's official name for the standard language, narrower than <ruby>中国語<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>).
+- <ruby>中文<rt>ㄐㄨㄫㄇㄨㄋ</rt></ruby>: Chinese; the Chinese language/writing/culture (the everyday Mandarin/Cantonese term, emphasizing the cultural-written dimension over <ruby>中国語<rt>ㄐㄨㄫㄍㄛㄎ·⼄</rt></ruby>'s system-of-speech sense).
+- <ruby>漢語<rt>ㄏㄚㄋ·⼄</rt></ruby>: Chinese language(s), Sino-Japanese vocabulary.
+- <ruby>[広東語](../words/広東語.md)<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby>: Cantonese, lit. "Guangdong language" (the Guangdong-based variety; compare <ruby>[粤語](../words/粤語.md)<rt>⼔ㄊ⼄</rt></ruby>, the Yue language as a whole).
+- <ruby>粤語<rt>⼔ㄊ⼄</rt></ruby>: Yue language, Cantonese as a whole.
+- <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — in Taiwan (<ruby>國語<rt>ㄍㄛㄎ·⼄</rt></ruby>) Mandarin as the standard language, beside the PRC's <ruby>普通話<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby>; the ambiguity of the term ("national language" vs a country's own modern language) is explained on its word page.
