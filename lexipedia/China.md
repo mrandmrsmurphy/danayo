@@ -11,6 +11,57 @@ status: partial
 <ruby>[中国](../words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>: China. This page gathers vocabulary specific to China: its famous people, places, provinces, historical states and ancient geography. Words shared across the Sinosphere stay in their own domains, such as [Geography](Geography.md) and [Government](Government.md).
 
 ## Places
+### Cities
+The four direct-administered municipalities, <ruby>直轄市<rt>ㄐㄧㄊㄏㄚㄊㄙㄧ</rt></ruby> ("municipality directly under the central government", that is, the <ruby>[中央](../words/中央.md)<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby><ruby>[政府](../words/政府.md)<rt>ㄐㄧㄫㄈㄨ</rt></ruby>):
+- <ruby>[北京](../words/北京.md)<rt>ㄅㄨㄎㄍ⼶ㄫ</rt></ruby>: Beijing, capital of the People's Republic of China.
+- <ruby>[上海](../words/上海.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: Shanghai.
+- <ruby>[天津](../words/天津.md)<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby>: Tianjin.
+- <ruby>[重慶](../words/重慶.md)<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby>: Chongqing.
+
+### Other major cities
+Major cities beyond the four municipalities, grouped by region of China (north-east, north, east, centre, south, south-west, north-west). Each is a provincial or regional capital unless noted; Hefei, Taiyuan, Xining and Urumqi are listed under Provinces and cities below. Variant spellings (traditional, simplified, or the real-world form) are given as "also written".
+
+**Northeast**
+- <ruby>[沈陽](../words/沈陽.md)<rt>ㄑㄧㄇ·⼘ㄫ</rt></ruby> (also written <ruby>瀋陽<rt>ㄑㄧㄇ·⼘ㄫ</rt></ruby>, <ruby>沈阳<rt>ㄑㄧㄇ·⼘ㄫ</rt></ruby>): Shenyang, capital of Liaoning.
+- <ruby>[大連](../words/大連.md)<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby> (also written <ruby>大连<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby>): Dalian, a port city of Liaoning (not the capital).
+- <ruby>[長春](../words/長春.md)<rt>ㄐㄚㄫㄑㄨㄋ</rt></ruby> (also written <ruby>长春<rt>ㄐㄚㄫㄑㄨㄋ</rt></ruby>): Changchun, capital of Jilin.
+- <ruby>[呵爾浜](../words/呵爾浜.md)<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby> (also written <ruby>哈爾濱<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby>, <ruby>哈爾浜<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby>, <ruby>哈尔滨<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby>): Harbin, capital of Heilongjiang; the characters are a phonetic spelling, and the vault's spelling follows its alias rule for the first and last characters (see the word).
+
+**North**
+- <ruby>[石家荘](../words/石家荘.md)<rt>ㄙㄝㄎㄍㄚㄐ⺢ㄫ</rt></ruby> (also written <ruby>石家莊<rt>ㄙㄝㄎㄍㄚㄐ⺢ㄫ</rt></ruby>, <ruby>石家庄<rt>ㄙㄝㄎㄍㄚㄐ⺢ㄫ</rt></ruby>): Shijiazhuang, capital of Hebei.
+- <ruby>[呼和浩特](../words/呼和浩特.md)<rt>ㄏㄛㄏ⺢ㄏㄚㄨㄉㄜㄎ</rt></ruby>: Hohhot, capital of Inner Mongolia; a phonetic spelling of the Mongolian for "blue city".
+
+**East**
+- <ruby>[南京](../words/南京.md)<rt>ㄋㄚㄇㄍ⼶ㄫ</rt></ruby>: Nanjing, capital of Jiangsu; the same spelling is the Japanese word for a pumpkin, listed on Food.
+- <ruby>[蘇州](../words/蘇州.md)<rt>ㄙㄛㄐㄨㄛ</rt></ruby> (also written <ruby>苏州<rt>ㄙㄛㄐㄨㄛ</rt></ruby>): Suzhou, a city of Jiangsu (not the capital).
+- <ruby>[抗州](../words/抗州.md)<rt>ㄏㄚㄫㄐㄨㄛ</rt></ruby> (also written <ruby>杭州<rt>ㄏㄚㄫㄐㄨㄛ</rt></ruby>): Hangzhou, capital of Zhejiang; the vault's spelling follows its alias rule for the first character (see the word).
+- <ruby>[済南](../words/済南.md)<rt>ㄐㄝㄧ·ㄋㄚㄇ</rt></ruby> (also written <ruby>濟南<rt>ㄐㄝㄧ·ㄋㄚㄇ</rt></ruby>, <ruby>济南<rt>ㄐㄝㄧ·ㄋㄚㄇ</rt></ruby>): Jinan, capital of Shandong.
+- <ruby>[青島](../words/青島.md)<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby> (also written <ruby>青岛<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby>): Qingdao, a port city of Shandong (not the capital).
+- <ruby>[福州](../words/福州.md)<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby>: Fuzhou, capital of Fujian.
+- <ruby>[廈門](../words/廈門.md)<rt>ㄏㄚ·ㄇㄛㄋ</rt></ruby> (also written <ruby>厦门<rt>ㄏㄚ·ㄇㄛㄋ</rt></ruby>, <ruby>厦門<rt>ㄏㄚ·ㄇㄛㄋ</rt></ruby>): Xiamen (Amoy), a port city of Fujian (not the capital).
+- <ruby>[南昌](../words/南昌.md)<rt>ㄋㄚㄇㄑ⺢ㄫ</rt></ruby>: Nanchang, capital of Jiangxi.
+
+**Central**
+- <ruby>[武漢](../words/武漢.md)<rt>ㄇㄨㄏㄚㄋ</rt></ruby> (also written <ruby>武汉<rt>ㄇㄨㄏㄚㄋ</rt></ruby>): Wuhan, capital of Hubei.
+- <ruby>[鄭州](../words/鄭州.md)<rt>ㄐㄝㄫㄐㄨㄛ</rt></ruby> (also written <ruby>郑州<rt>ㄐㄝㄫㄐㄨㄛ</rt></ruby>): Zhengzhou, capital of Henan.
+- <ruby>[長沙](../words/長沙.md)<rt>ㄐㄚㄫㄙㄚ</rt></ruby> (also written <ruby>长沙<rt>ㄐㄚㄫㄙㄚ</rt></ruby>): Changsha, capital of Hunan.
+
+**South**
+- <ruby>[広州](../words/広州.md)<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby> (also written <ruby>廣州<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby>, <ruby>广州<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby>): Guangzhou, capital of Guangdong; not the same word as the Korean city Gwangju, listed on Korea.
+- <ruby>[南寧](../words/南寧.md)<rt>ㄋㄚㄇㄋㄝㄫ</rt></ruby> (also written <ruby>南宁<rt>ㄋㄚㄇㄋㄝㄫ</rt></ruby>): Nanning, capital of Guangxi.
+- <ruby>[海口](../words/海口.md)<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby>: Haikou, capital of Hainan; also a common noun for a river mouth or seaport, listed on Water.
+
+**Southwest**
+- <ruby>[成都](../words/成都.md)<rt>ㄙㄧㄫㄉㄛ</rt></ruby>: Chengdu, capital of Sichuan.
+- <ruby>[貴陽](../words/貴陽.md)<rt>ㄍㄨㄧ⼘ㄫ</rt></ruby> (also written <ruby>贵阳<rt>ㄍㄨㄧ⼘ㄫ</rt></ruby>): Guiyang, capital of Guizhou.
+- <ruby>[昆明](../words/昆明.md)<rt>ㄍㄛㄋㄇ⼶ㄫ</rt></ruby>: Kunming, capital of Yunnan.
+- <ruby>[拉薩](../words/拉薩.md)<rt>ㄌㄚㄆㄙㄚㄊ</rt></ruby> (also written <ruby>拉萨<rt>ㄌㄚㄆㄙㄚㄊ</rt></ruby>): Lhasa, capital of Tibet; a phonetic spelling of the Tibetan name.
+
+**Northwest**
+- <ruby>[西安](../words/西安.md)<rt>ㄙㄝㄧㄚㄋ</rt></ruby>: Xi'an, capital of Shaanxi.
+- <ruby>[蘭州](../words/蘭州.md)<rt>ㄌㄚㄋㄐㄨㄛ</rt></ruby> (also written <ruby>兰州<rt>ㄌㄚㄋㄐㄨㄛ</rt></ruby>): Lanzhou, capital of Gansu.
+- <ruby>[銀川](../words/銀川.md)<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby> (also written <ruby>银川<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby>): Yinchuan, capital of Ningxia.
+
 ### Provinces and cities
 - <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
 - <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.

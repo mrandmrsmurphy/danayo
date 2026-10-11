@@ -59,6 +59,7 @@ boundedness: 75
 - <ruby>[[武士道]]<rt>ㄇㄨㄙㄚㄧㄉㄚㄨ</rt></ruby> "bushido"
 - <ruby>[[玄武岩]]<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby> "basalt"
 - <ruby>[[武芸]]<rt>ㄇㄨㄝ</rt></ruby> "martial art skill"
+- <ruby>[[武漢]]<rt>ㄇㄨㄏㄚㄋ</rt></ruby> "Wuhan"
 
 ## Chengyu
 - <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"

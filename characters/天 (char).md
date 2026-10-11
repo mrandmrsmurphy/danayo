@@ -113,3 +113,4 @@ boundedness: 80
 - <ruby>[[天皇]]<rt>ㄊㄝㄋㄏ⺢ㄫ</rt></ruby> "Emperor of Japan"
 - <ruby>[[昇天]]<rt>ㄙㄨㄫㄊㄝㄋ</rt></ruby> "to ascend to heaven; to die"
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
+- <ruby>[[天津]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "Tianjin; the Milky Way"

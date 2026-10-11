@@ -60,3 +60,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[百済]]<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby> "Baekje"
 - <ruby>[[経済学]]<rt>ㄍㄝㄫㄐㄝㄧㄏㄚㄎ</rt></ruby> "economics"
 - <ruby>[[済州]]<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby> "Jeju"
+- <ruby>[[済南]]<rt>ㄐㄝㄧ·ㄋㄚㄇ</rt></ruby> "Jinan"

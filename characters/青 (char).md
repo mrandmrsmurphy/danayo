@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[青蛙]]<rt>ㄑㄝㄫ⺢</rt></ruby> "frog"
 - <ruby>[[青銅]]<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby> "bronze"
 - <ruby>[[蕪青]]<rt>ㄇㄨㄑㄝㄫ</rt></ruby> "turnip"
+- <ruby>[[青島]]<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby> "Qingdao"
 
 ## Derived Characters
 - <ruby>[[請 (char)|請]]<rt>ㄑㄧㄫ</rt></ruby> "ask; invite"

@@ -57,6 +57,7 @@ date-last-perfect: 2026-08-09
 - <ruby>[[昆]]<rt>ㄍㄛㄋ</rt></ruby> "swarm, descendants" (stand-in for 昆)
 - <ruby>[[昆虫]]<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby> "insect"
 - <ruby>[[昆布]]<rt>ㄍㄛㄋㄅㄛ</rt></ruby> "kelp; seaweed"
+- <ruby>[[昆明]]<rt>ㄍㄛㄋㄇ⼶ㄫ</rt></ruby> "Kunming"
 
 ## Derived Characters
 - [[棍]]

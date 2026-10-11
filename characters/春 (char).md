@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[春秋]]<rt>ㄑㄨㄋㄑㄨㄛ</rt></ruby> "spring and autumn"
 - <ruby>[[春節]]<rt>ㄑㄨㄋㄐㄝㄊ</rt></ruby> "lunar New Year; Chinese New Year"
 - <ruby>[[詠春拳]]<rt>ㄨㄧㄫㄑㄨㄋㄍ⼔ㄋ</rt></ruby> "Wing Chun"
+- <ruby>[[長春]]<rt>ㄐㄚㄫㄑㄨㄋ</rt></ruby> "Changchun"
 
 ## Chengyu
 - <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"

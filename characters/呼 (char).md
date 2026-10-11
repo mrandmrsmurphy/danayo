@@ -60,3 +60,4 @@ boundedness: 90
 - <ruby>[[呼喚]]<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby> "shout, cry to"
 - <ruby>[[呼格]]<rt>ㄏㄛㄍㄚㄎ</rt></ruby> "vocative case"
 - <ruby>[[歓呼]]<rt>ㄏ⺢ㄋㄏㄛ</rt></ruby> "hail, cheer"
+- <ruby>[[呼和浩特]]<rt>ㄏㄛㄏ⺢ㄏㄚㄨㄉㄜㄎ</rt></ruby> "Hohhot"

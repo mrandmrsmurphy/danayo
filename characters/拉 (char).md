@@ -56,3 +56,4 @@ date-last-perfect: 2026-08-10
 - <ruby>[[孟加拉]]<rt>ㄇㄚㄫㄍㄚㄌㄚㄆ</rt></ruby> "Bangladesh"
 - <ruby>[[拉金]]<rt>ㄌㄚㄆㄍㄧㄇ</rt></ruby> "rutherfordium"
 - <ruby>[[拉麺]]<rt>ㄌㄚㄆㄇㄝㄋ</rt></ruby> "ramen"
+- <ruby>[[拉薩]]<rt>ㄌㄚㄆㄙㄚㄊ</rt></ruby> "Lhasa"

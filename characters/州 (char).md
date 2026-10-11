@@ -65,6 +65,12 @@ date-last-perfect: 2026-08-06
 - <ruby>[[加州金]]<rt>ㄍㄚㄐㄨㄛㄍㄧㄇ</rt></ruby> "californium"
 - <ruby>[[済州]]<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby> "Jeju"
 - <ruby>[[光州]]<rt>ㄎ⺢ㄫㄐㄨㄛ</rt></ruby> "Gwangju"
+- <ruby>[[広州]]<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby> "Guangzhou"
+- <ruby>[[抗州]]<rt>ㄏㄚㄫㄐㄨㄛ</rt></ruby> "Hangzhou (杭州)"
+- <ruby>[[蘇州]]<rt>ㄙㄛㄐㄨㄛ</rt></ruby> "Suzhou"
+- <ruby>[[鄭州]]<rt>ㄐㄝㄫㄐㄨㄛ</rt></ruby> "Zhengzhou"
+- <ruby>[[福州]]<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby> "Fuzhou"
+- <ruby>[[蘭州]]<rt>ㄌㄚㄋㄐㄨㄛ</rt></ruby> "Lanzhou"
 
 ## Derived Characters
 - <ruby>[[洲 (char)|洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet"

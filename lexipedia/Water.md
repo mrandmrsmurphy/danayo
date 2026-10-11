@@ -112,6 +112,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: marine, maritime, on the sea — broader than [[沿海]]'s specifically coastal sense, covering the open sea as well.
 - <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
 - <ruby>[畔](../words/畔.md)<rt>ㄅㄚㄋ</rt></ruby>: ridge, boundary — another near-duplicate of [[岸]]/[[浜]] in its common "waterside" extension (湖畔, "lakeside"; 河畔, "riverside"), though its root sense is a field-ridge boundary rather than a water's edge specifically.
+- <ruby>[海口](../words/海口.md)<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby>: river mouth, estuary; seaport — a Chinese common noun (literally "sea mouth"), also figuratively "to boast"; the same spelling is the city of Haikou, listed on [China](../lexipedia/China.md).
 
 ### Islands
 

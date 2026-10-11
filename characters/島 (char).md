@@ -57,6 +57,7 @@ boundedness: 75
 - <ruby>[[列島]]<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby> "archipelago; chain of islands"
 - <ruby>[[火山島]]<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby> "volcanic island"
 - <ruby>[[群島]]<rt>ㄍㄨㄋㄊㄚㄨ</rt></ruby> "archipelago"
+- <ruby>[[青島]]<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby> "Qingdao"
 
 ## Derived Characters
 - <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle; vulture"

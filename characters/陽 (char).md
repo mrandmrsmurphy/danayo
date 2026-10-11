@@ -67,3 +67,5 @@ boundedness: 80
 - <ruby>[[太陽系]]<rt>ㄊㄚㄧ⼘ㄫㄏㄝㄧ</rt></ruby> "solar system"
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
 - <ruby>[[偪陽]]<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby> "Fuyang (ancient state)"
+- <ruby>[[沈陽]]<rt>ㄑㄧㄇ·⼘ㄫ</rt></ruby> "Shenyang"
+- <ruby>[[貴陽]]<rt>ㄍㄨㄧ⼘ㄫ</rt></ruby> "Guiyang"

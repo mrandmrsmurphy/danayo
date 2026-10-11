@@ -121,6 +121,7 @@ boundedness: 90
 - <ruby>[[大統領]]<rt>ㄉㄚㄧㄊㄛㄫㄌㄧㄫ</rt></ruby> "president"
 - <ruby>[[大邱]]<rt>ㄉㄚㄧㄍㄨ</rt></ruby> "Daegu"
 - <ruby>[[大田]]<rt>ㄉㄚㄧㄉㄝㄋ</rt></ruby> "Daejeon"
+- <ruby>[[大連]]<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby> "Dalian"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

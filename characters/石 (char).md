@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[鉱石]]<rt>ㄍ⺢ㄫㄙㄝㄎ</rt></ruby> "mineral; ore"
 - <ruby>[[鑽石]]<rt>ㄐㄚㄋㄙㄝㄎ</rt></ruby> "diamond; auger"
 - <ruby>[[怪石]]<rt>ㄍ⺢ㄧㄙㄝㄎ</rt></ruby> "strange rock; grotesque stone"
+- <ruby>[[石家荘]]<rt>ㄙㄝㄎㄍㄚㄐ⺢ㄫ</rt></ruby> "Shijiazhuang"
 
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"

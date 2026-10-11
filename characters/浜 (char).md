@@ -54,3 +54,4 @@ boundedness: 75
 
 ## Words
 - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby> "coast" (stand-in for 浜)
+- <ruby>[[呵爾浜]]<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby> "Harbin"

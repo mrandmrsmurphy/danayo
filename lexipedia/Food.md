@@ -132,6 +132,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
 - <ruby>[椎菌](../words/椎菌.md)<rt>ㄑㄨㄧㄍ⼜ㄋ</rt></ruby>: the shiitake mushroom, echoing Japanese 椎茸 "shii-tree mushroom".
 - <ruby>[橘](../words/橘.md)<rt>ㄍ⼜ㄊ</rt></ruby>: a tangerine, the stand-in for the bound character 橘.
+- <ruby>[南京](../words/南京.md)<rt>ㄋㄚㄇㄍ⼶ㄫ</rt></ruby>: a pumpkin, squash — the Japanese ordinary sense of なんきん (from the Chinese city name); the same spelling is also the city of Nanjing, listed on [China](../lexipedia/China.md).
 
 ### Sweets & Flavorings
 

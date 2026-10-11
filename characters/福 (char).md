@@ -55,6 +55,7 @@ boundedness: 80
 - <ruby>[[幸福]]<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby> "happy; blessed"
 - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby> "welfare; well-being"
 - <ruby>[[艶福]]<rt>⼶ㄇㄈㄨㄎ</rt></ruby> "success in love"
+- <ruby>[[福州]]<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby> "Fuzhou"
 
 ## Derived Characters
 - <ruby>[[副 (char)|副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-"

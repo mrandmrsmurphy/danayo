@@ -62,6 +62,7 @@ boundedness: 70
 - <ruby>[[瀧川]]<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby> "Takigawa; waterfall river"
 - <ruby>[[江戸川]]<rt>ㄍㄚㄫㄏㄛㄑ⺢ㄋ</rt></ruby> "Edo River"
 - <ruby>[[仁川]]<rt>ㄋㄧㄋㄑ⺢ㄋ</rt></ruby> "Incheon"
+- <ruby>[[銀川]]<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby> "Yinchuan"
 
 ## Derived Characters
 - <ruby>[[訓 (char)|訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; paraphrase; explicate; exegete"

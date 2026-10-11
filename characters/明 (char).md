@@ -85,6 +85,7 @@ boundedness: 100
 - <ruby>[[明蝦]]<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby> "king prawn"
 - <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
 - <ruby>[[簡明]]<rt>ㄍㄚㄋㄇ⼶ㄫ</rt></ruby> "simple and clear; concise and plain"
+- <ruby>[[昆明]]<rt>ㄍㄛㄋㄇ⼶ㄫ</rt></ruby> "Kunming"
 
 ## Chengyu
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄇㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"
