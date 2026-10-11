@@ -48,6 +48,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[是日]]<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> "same day"
+- <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
 
 ## Chengyu
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"

@@ -295,6 +295,7 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 - <ruby>[関心](../words/関心.md)<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby>: be concerned about; care for.
 - <ruby>[風狂](../words/風狂.md)<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby>: crazy; insane; be a lunatic.
 - <ruby>[黙想](../words/黙想.md)<rt>ㄇㄨㄎㄙㄚㄫ</rt></ruby>: meditation; contemplation.
+- <ruby>[理念](../words/理念.md)<rt>ㄌㄧㄋㄝㄇ</rt></ruby>: idea; ideal; philosophy.
 
 ## Semantic Range Notes
 

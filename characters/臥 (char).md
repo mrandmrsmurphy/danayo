@@ -55,6 +55,7 @@ date-last-perfect: 2026-09-16
 - <ruby>[[臥]]<rt>⺢</rt></ruby> "lie down, crouch" (stand-in for 臥)
 - <ruby>[[臥平]]<rt>⺢ㄅ⼶ㄫ</rt></ruby> "lie flat"
 - <ruby>[[臥鉤]]<rt>⺢ㄍㄛㄨ</rt></ruby> "lying hook (calligraphy stroke)"
+- <ruby>[[平臥]]<rt>ㄅ⼶ㄫ⺢</rt></ruby> "lie supine; lie flat"
 
 ## Chengyu
 - <ruby>[[臥薪嘗胆]]<rt>⺢ㄙㄧㄋㄙ⼘ㄫㄉㄚㄇ</rt></ruby> "sleep on firewood and taste gall"

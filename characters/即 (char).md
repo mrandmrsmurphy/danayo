@@ -52,6 +52,8 @@ date-last-perfect: 2026-07-17
 - <ruby>[[即]]<rt>ㄐㄜㄎ</rt></ruby> "namely; in other words" (stand-in for 即)
 - <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
 - <ruby>[[即日]]<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> "same day"
+- <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
+
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"

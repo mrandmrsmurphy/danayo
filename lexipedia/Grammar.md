@@ -397,6 +397,7 @@ The traditional classification of Chinese character formation.
 - <ruby>[陰性](../words/陰性.md)<rt>ㄧㄇㄙㄧㄫ</rt></ruby>: negativity; feminine gender.
 - <ruby>[陽性](../words/陽性.md)<rt>⼘ㄫㄙㄧㄫ</rt></ruby>: positivity; masculine gender.
 - <ruby>[爾等](../words/爾等.md)<rt>ㄋㄝㄉㄨㄫ</rt></ruby>: ye; you all.
+- <ruby>[即是](../words/即是.md)<rt>ㄐㄜㄎㄙㄝ</rt></ruby>: is precisely; is none other than.
 
 ## Semantic Range Notes
 

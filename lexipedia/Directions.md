@@ -128,6 +128,7 @@ Dan'a'yo inherits a real cross-linguistic pattern shared with Latin (*dexter*/*s
 - <ruby>[西南](../words/西南.md)<rt>ㄙㄝㄧㄋㄚㄇ</rt></ruby>: southwest.
 - <ruby>[西端](../words/西端.md)<rt>ㄙㄝㄧㄉ⺢ㄋ</rt></ruby>: western tip; western end.
 - <ruby>[西部](../words/西部.md)<rt>ㄙㄝㄧㄅㄛㄨ</rt></ruby>: west; western region.
+- <ruby>[平臥](../words/平臥.md)<rt>ㄅ⼶ㄫ⺢</rt></ruby>: to lie supine; to lie flat.
 
 ## Semantic Range Notes
 
