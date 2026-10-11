@@ -50,7 +50,7 @@ boundedness:
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[毎週]]<rt>ㄇㄛㄧㄐㄨㄛ</rt></ruby> "every week, weekly"
-- <ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby> "each time; for every action; in every matter"
+- <ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby> "every matter; each matter; in every matter"
 - <ruby>[[毎人]]<rt>ㄇㄛㄧㄋㄧㄋ</rt></ruby> "per person; for each person"
 - <ruby>[[毎処]]<rt>ㄇㄛㄧㄑㄛ</rt></ruby> "at each place; per location"
 - <ruby>[[毎名]]<rt>ㄇㄛㄧㄇㄧㄫ</rt></ruby> "each distinguished person; per honoured person"
