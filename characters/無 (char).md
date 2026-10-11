@@ -89,6 +89,7 @@ boundedness: 80
 - <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless, brazen"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
+- <ruby>[[金甌無缺]]<rt>ㄍㄧㄇ·ㄛㄨㄇㄜ·ㄎ⼔ㄊ</rt></ruby> "faultless golden chalice; a nation whole and inviolate"
 
 ## Derived Characters
 - <ruby>[[舞]]<rt>ㄇㄨ</rt></ruby> "dance"

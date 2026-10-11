@@ -81,6 +81,7 @@ boundedness: 90
 - <ruby>[[丹金]]<rt>ㄉㄚㄋㄍㄧㄇ</rt></ruby> "hafnium" (periodic table neologism)
 - <ruby>[[冥金]]<rt>ㄇㄝㄫㄍㄧㄇ</rt></ruby> "plutonium" (periodic table neologism)
 - <ruby>[[金刀]]<rt>ㄍㄧㄇㄊㄚㄨ</rt></ruby> "golden knife; a blade of gold"
+- <ruby>[[金甌]]<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby> "golden chalice; the nation; Cà Mau"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
@@ -89,6 +90,7 @@ boundedness: 90
 - <ruby>[[金城湯池]]<rt>ㄍㄧㄇㄙㄧㄫㄊㄚㄫㄐㄨㄧ</rt></ruby> "sure thing, impenetrable city"
 - <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"
 - <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"
+- <ruby>[[金甌無缺]]<rt>ㄍㄧㄇ·ㄛㄨㄇㄜ·ㄎ⼔ㄊ</rt></ruby> "faultless golden chalice; a nation whole and inviolate"
 
 ## Derived Characters
 - <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby> "brocade"

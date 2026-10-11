@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 6
+size: 7
 radical: 瓦
 tags: [lookup]
 
@@ -20,11 +20,14 @@ tags: [lookup]
 ### +9 Strokes
 4. <ruby>[甄](../../characters/甄.md)<rt>ㄍ⼶ㄋ</rt></ruby> - distinguish
 
+### +11 Strokes
+5. <ruby>[甌](../../characters/甌.md)<rt>ㄛㄨ</rt></ruby> - small bowl
+
 ### +13 Strokes
-5. <ruby>[甕](../../characters/甕%20(char).md)<rt>ㄛㄫ</rt></ruby> - jar
+6. <ruby>[甕](../../characters/甕%20(char).md)<rt>ㄛㄫ</rt></ruby> - jar
 
 ### +14 Strokes
-6. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar
+7. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar
 
 ## Data check
 ```dataview

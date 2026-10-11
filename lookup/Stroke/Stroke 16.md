@@ -1,7 +1,7 @@
 ---
 stroke_count: 16
 date-last-perfect: 2026-10-03
-size: 149
+size: 150
 tags:
   - lookup
 ---
@@ -18,7 +18,7 @@ tags:
 - 1-8-8: <ruby>[[館]]<rt>ㄍ⺢ㄋ</rt></ruby>, <ruby>[[錆]]<rt>ㄑㄝㄫ</rt></ruby>, <ruby>[[隷]]<rt>ㄌㄝㄧ</rt></ruby>, <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby>, <ruby>[[錐]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[錬]]<rt>ㄌㄝㄋ</rt></ruby>, <ruby>[[鋼]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[閻 (char)|閻]]<rt>⼶ㄇ</rt></ruby>, <ruby>[[錠 (char)|錠]]<rt>ㄐㄝㄫ</rt></ruby>, <ruby>[[錯]]<rt>ㄑㄚㄎ</rt></ruby>, <ruby>[[錫]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[録]]<rt>ㄌㄛㄎ</rt></ruby>, <ruby>[[錀 (char)|錀]]<rt>ㄌㄛㄋ</rt></ruby>, <ruby>[[錘]]<rt>ㄑㄨㄧ</rt></ruby>, <ruby>[[鋸 (char)|鋸]]<rt>ㄍ⼄</rt></ruby>
 - 1-9-7: <ruby>[[鞘]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[頤]]<rt>ㄧ</rt></ruby>, <ruby>[[辦]]<rt>ㄅㄚㄋ</rt></ruby>, <ruby>[[龍 (char)|龍]]<rt>ㄌ⼄ㄫ</rt></ruby>
 - 1-10-6: <ruby>[[骸]]<rt>ㄏ⼶</rt></ruby>, <ruby>[[駱]]<rt>ㄌㄚㄎ</rt></ruby>, <ruby>[[融 (char)|融]]<rt>⼜ㄫ</rt></ruby>
-- 1-11-5: <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby>, <ruby>[[鮎 (char)|鮎]]<rt>ㄋㄝㄇ</rt></ruby>, <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby>
+- 1-11-5: <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby>, <ruby>[[鮎 (char)|鮎]]<rt>ㄋㄝㄇ</rt></ruby>, <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby>, <ruby>[[甌]]<rt>ㄛㄨ</rt></ruby>
 - 1-12-4: <ruby>[[獣]]<rt>ㄙ⼜</rt></ruby>
 - 1-14-2: <ruby>[[叡]]<rt>⼶</rt></ruby>
 - 2-2-14: <ruby>[[冪]]<rt>ㄇㄧㄎ</rt></ruby>, <ruby>[[橐]]<rt>ㄊㄚㄎ</rt></ruby>

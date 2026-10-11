@@ -1004,6 +1004,7 @@ tags: [lookup]
 [蔚](../../characters/蔚.md)
 [芹](../../characters/芹.md)
 [蜆](../../characters/蜆.md)
+[甌](../../characters/甌.md)
 
 ## Datacheck
 ```base

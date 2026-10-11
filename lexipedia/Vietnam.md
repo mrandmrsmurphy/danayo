@@ -43,6 +43,7 @@ status: partial
 - <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
 - <ruby>[邦美蜀](../words/邦美蜀.md)<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby>: Buôn Ma Thuột, the chief city of the Central Highlands and capital of Đắk Lắk province.
 - <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province (also written <ruby>大叻<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>); the same spelling means "great strength; vigorously", listed on Efforts.
+- <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province (also written <ruby>金瓯<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>); the same spelling means "the nation; a golden chalice", listed on Government.
 
 ### Provinces and places
 - <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands (also written <ruby>得樂<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>).

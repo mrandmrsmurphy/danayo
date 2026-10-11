@@ -262,6 +262,7 @@ Rosenfelder terms with no Dan'a'yo word yet: a boss, a captain, a charge, a chie
 - <ruby>[郵政](../words/郵政.md)<rt>ㄨㄛㄐㄧㄫ</rt></ruby>: postal service; postal system.
 - <ruby>[陛下](../words/陛下.md)<rt>ㄅㄝㄧㄏㄚ</rt></ruby>: your majesty.
 - <ruby>[領土](../words/領土.md)<rt>ㄌㄧㄫㄊㄛ</rt></ruby>: territory.
+- <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: the nation, the country (literary, figurative) — lit. a golden chalice, the image of a state with unbroken territory (see [金甌無缺](../chengyu/金甌無缺.md)); the same spelling is Cà Mau, listed on [Vietnam](Vietnam.md).
 - <ruby>[首都](../words/首都.md)<rt>ㄙ⼜ㄉㄛ</rt></ruby>: capital city.
 - <ruby>[時局](../words/時局.md)<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby>: the current political situation.
 - <ruby>[御璽](../words/御璽.md)<rt>⼄ㄙㄝ</rt></ruby>: the imperial seal.
