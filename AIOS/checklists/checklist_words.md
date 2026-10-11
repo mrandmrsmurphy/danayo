@@ -35,6 +35,10 @@ tags:
 ---
 ```
 
+**One `pos` per word, with two narrow exceptions.** Give a word a single part of speech. A second `pos` (written as a YAML list, primary role first) is allowed only when the grammar itself requires the word in both roles, not merely when it can be glossed both ways. Today only 人 (`代詞`, `量詞`) and 名 (`名詞`, `量詞`) qualify. The bar is deliberately very high; ask before adding a third word.
+
+**Unit words.** A noun naming a standard unit of measure (公尺, 公斤, 升, 秒, 里, 英里, 碼 …) keeps `pos: 名詞`, gets the `unit` tag, and is listed on [[List of 単位詞]]; unit words may take a numeral directly with no classifier. Do not type them 量詞, and do not tag ordinary countable nouns (撮 "pinch") as units.
+
 **Only include these fields when they have a value:**
 
 ```yaml
