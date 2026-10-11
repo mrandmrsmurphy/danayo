@@ -48,6 +48,7 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 
 ### Rate & Proportion
 
+- <ruby>[倍](../words/倍.md)<rt>ㄅㄚㄧ</rt></ruby>: times, -fold — a noun, not a measure word: it multiplies a degree (三倍 聡明, "three times smarter") rather than counting objects.
 - <ruby>[比率](../words/比率.md)<rt>ㄅㄧㄜㄌㄨㄊ</rt></ruby>: a ratio, rate, proportion.
 - <ruby>[比例](../words/比例.md)<rt>ㄅㄧㄜㄌㄝ</rt></ruby>: a ratio, proportion — an undocumented near-duplicate of [[比率]]; see Semantic Range Notes.
 - <ruby>[幅度](../words/幅度.md)<rt>ㄈㄨㄎㄉㄛ</rt></ruby>: a range, extent, scope.
@@ -56,12 +57,11 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 
 ## Measure Words (量詞) — Counters and Classifiers
 
-Chinese, and Dan'a'yo after it, cannot place a number directly before a noun the way English does ("three books"). A classifier — a measure word — must intervene, chosen according to the shape, function, or category of what is being counted: 書本 三**冊** ("books, three [bound-volume]"), not *書本 三. English marks this only for mass nouns ("three *loaves* of bread," "two *head* of cattle") and treats it as the exception; Dan'a'yo, like its source languages, treats it as the rule for every countable noun. The twelve measure words below are the ones with their own Dan'a'yo entries so far; most are cross-cited on the more specific domain where the *thing being counted* lives (a full cross-reference list follows each entry), while this page gathers them as a single grammatical system. The subcategories below follow the standard linguistic typology of Chinese classifiers: shape-based ([[条]] for long thin things, [[枚]] for flat things), function-based ([[台]] for machines, [[匹]] for animals), container-based ([[杯]], a borrowed container standing in for its contents), collective ([[束]], [[双]], [[冊]]), and the semantically bleached general classifier ([[個]]) that can substitute for almost any of the others informally.
+Chinese, and Dan'a'yo after it, cannot place a number directly before a noun the way English does ("three books"). A classifier — a measure word — must intervene, chosen according to the shape, function, or category of what is being counted: 書本 三**冊** ("books, three [bound-volume]"), not *書本 三. English marks this only for mass nouns ("three *loaves* of bread," "two *head* of cattle") and treats it as the exception; Dan'a'yo, like its source languages, treats it as the rule for every countable noun. The eleven measure words below are the ones with their own Dan'a'yo entries so far (人 and 名, which are also nouns, bring the total to thirteen, matching the grammar's table); most are cross-cited on the more specific domain where the *thing being counted* lives (a full cross-reference list follows each entry), while this page gathers them as a single grammatical system. The subcategories below follow the standard linguistic typology of Chinese classifiers: shape-based ([[条]] for long thin things, [[枚]] for flat things), function-based ([[台]] for machines, [[匹]] for animals), container-based ([[杯]], a borrowed container standing in for its contents), collective ([[束]], [[双]], [[冊]]), and the semantically bleached general classifier ([[個]]) that can substitute for almost any of the others informally.
 
-### General & Multiplicative
+### General
 
 - <ruby>[個](../words/個.md)<rt>ㄍㄜ</rt></ruby>: the general, default classifier for individual discrete items — the catch-all when no more specific classifier applies; see [[Containers]] for its own citation there.
-- <ruby>[倍](../words/倍.md)<rt>ㄅㄚㄧ</rt></ruby>: times — a multiplier, not a counter of discrete objects ("three *times* as much").
 
 ### Animals & Elongated Objects
 
@@ -113,7 +113,7 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 
 ## Semantic Range Notes
 
-**個 is the classifier system's own default, not just one classifier among twelve**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
+**個 is the classifier system's own default, not just one classifier among thirteen**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
 
 **比率 and 比例 are an undocumented duplicate, not a confirmed split**: both independently gloss "ratio, proportion," and neither word's own Notes records any distinction between them — closer to the unresolved [[親族]]/[[親戚]] case on [[Kinship]] than to a real semantic split. [[比率]] additionally covers "rate," which is the reason it is used as this page's primary entry.
 
@@ -123,7 +123,7 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 
 **数字 and 番号 split abstract numeral from assigned identifier**: [[数字]] is a numeral or digit as a mathematical object — the abstract concept of a number. [[番号]] is a number *assigned* to something for identification — a serial number, a ticket number, a code — closer to English "number" in "what's your phone number" than to "number" in "count to ten."
 
-**Measure words are cross-cited by the thing they count, not duplicated**: seven of the twelve classifiers gathered here already have a primary home on the domain that owns what they count — [[個]] and [[杯]] on [[Containers]], [[匹]] on [[Animals]], [[条]] on [[Dimensions]], [[双]] on [[Numbers]], [[段]] on [[Grammar]], [[番]] on [[Events]]. This page cites all twelve together because the classifier system itself — the grammatical requirement that a number take *some* measure word — is a single coherent phenomenon worth seeing as a whole, the same reasoning behind gathering [[群衆]] across three of its own domains.
+**Measure words are cross-cited by the thing they count, not duplicated**: seven of the eleven classifiers gathered here already have a primary home on the domain that owns what they count — [[個]] and [[杯]] on [[Containers]], [[匹]] on [[Animals]], [[条]] on [[Dimensions]], [[双]] on [[Numbers]], [[段]] on [[Grammar]], [[番]] on [[Events]]. This page cites all eleven together because the classifier system itself — the grammatical requirement that a number take *some* measure word — is a single coherent phenomenon worth seeing as a whole, the same reasoning behind gathering [[群衆]] across three of its own domains.
 
 ## See Also
 
