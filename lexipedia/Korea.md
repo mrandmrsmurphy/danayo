@@ -41,6 +41,21 @@ status: partial
 - <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
 - <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire.
 
+## Provinces
+A province is a bare name plus <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby> "province", and most of the bare names are the joined first characters of two old chief cities. Three of them were split in 1896 into <ruby>[北](../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> "north" and <ruby>[南](../characters/南.md)<rt>ㄋㄚㄇ</rt></ruby> "south" halves, which is why the full names come in pairs.
+
+- <ruby>[京畿](../words/京畿.md)<rt>ㄍ⼶ㄫㄍㄧㄜ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경기도) — Gyeonggi
+- <ruby>[忠淸](../words/忠清.md)<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (충청북도) — North Chungcheong
+- <ruby>忠淸<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (충청남도) — South Chungcheong
+- <ruby>[全羅](../words/全羅.md)<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (전라남도) — South Jeolla
+- <ruby>[慶尙](../words/慶尚.md)<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경상북도) — North Gyeongsang
+- <ruby>慶尙<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby><ruby>南<rt>ㄋㄚㄇ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (경상남도) — South Gyeongsang
+- <ruby>[江原](../words/江原.md)<rt>ㄍㄚㄫ⼔ㄋ</rt></ruby><ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (강원특별자치도) — Gangwon
+- <ruby>[全](../words/全.md)<rt>ㄐ⼔ㄋ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (전북특별자치도) — Jeonbuk (North Jeolla), formerly <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby>, the northern half of the old province of <ruby>全羅<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby>
+- <ruby>[濟州](../words/済州.md)<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> (제주특별자치도) — Jeju
+
+<ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>道<rt>ㄉㄚㄨ</rt></ruby> "special self-governing province" is the modern status of <ruby>江原<rt>ㄍㄚㄫ⼔ㄋ</rt></ruby>, <ruby>全<rt>ㄐ⼔ㄋ</rt></ruby><ruby>北<rt>ㄅㄨㄎ</rt></ruby> and <ruby>濟州<rt>ㄐㄝㄧㄐㄨㄛ</rt></ruby>, a title given in 2023, 2024 and 2006 respectively (from memory, not re-checked on a dictionary page); the other provinces keep the plain <ruby>道<rt>ㄉㄚㄨ</rt></ruby>.
+
 ## Script and Language
 - <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul.
 - <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"

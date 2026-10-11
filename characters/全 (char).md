@@ -58,6 +58,7 @@ boundedness: 90
 - <ruby>[[健全]]<rt>ㄍㄝㄋㄐ⼔ㄋ</rt></ruby> "sound, wholesome, healthy"
 - <ruby>[[全球]]<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby> "global; the entire world"
 - <ruby>[[全盛]]<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby> "flourishing; at the height of prosperity; at one's best"
+- <ruby>[[全羅]]<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby> "Jeolla"
 
 ## Derived Characters
 - <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> "decode; exegete"

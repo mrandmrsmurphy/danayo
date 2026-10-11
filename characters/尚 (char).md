@@ -56,6 +56,7 @@ boundedness: 80
 - <ruby>[[尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still; even more" (stand-in for 尚)
 - <ruby>[[尚書]]<rt>ㄙ⼘ㄫㄙ⼄</rt></ruby> "the Book of Documents (older name); Secretary / Minister"
 - <ruby>[[和尚]]<rt>ㄏ⺢ㄙ⼘ㄫ</rt></ruby> "abbott; monk"
+- <ruby>[[慶尚]]<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby> "Gyeongsang"
 
 ## Derived Characters
 - <ruby>[[当 (char)|当]]<rt>ㄉㄚㄫ</rt></ruby> "while"
