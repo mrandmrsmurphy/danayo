@@ -206,6 +206,7 @@ Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, deli
 - <ruby>[雍雍](../words/雍雍.md)<rt>ㄛㄫㄛㄫ</rt></ruby>: harmonious.
 - <ruby>[雰囲](../words/雰囲.md)<rt>ㄈㄨㄋ·ㄨㄧ</rt></ruby>: mood; atmosphere; ambience.
 - <ruby>[震怒](../words/震怒.md)<rt>ㄐㄧㄋㄋㄛ</rt></ruby>: furious.
+- <ruby>[心情](../words/心情.md)<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby>: mood; frame of mind.
 
 ## Semantic Range Notes
 

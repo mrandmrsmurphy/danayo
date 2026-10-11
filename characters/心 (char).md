@@ -68,6 +68,8 @@ boundedness: 90
 - <ruby>[[邪心]]<rt>ㄙ⼘ㄙㄧㄇ</rt></ruby> "wicked heart; evil intent; selfish motive"
 - <ruby>[[灯心]]<rt>ㄉㄨㄫㄙㄧㄇ</rt></ruby> "wick; lamp wick"
 - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby> "careful, cautious; to worry about, take pains over"
+- <ruby>[[心情]]<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby> "mood; frame of mind"
+
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"
 - <ruby>[[安心立命]]<rt>ㄚㄋㄙㄧㄇㄌㄧㄆㄇ⼶ㄫ</rt></ruby> "peace of mind through right living"
