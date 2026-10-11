@@ -114,8 +114,6 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[空軍](../words/空軍.md)<rt>ㄎㄛㄫㄍㄨㄋ</rt></ruby>: air force.
 - <ruby>[航空母艦](../words/航空母艦.md)<rt>ㄏㄚㄫㄎㄛㄫㄇㄛㄨㄏㄚㄇ</rt></ruby>: aircraft carrier.
 - <ruby>[討伐](../words/討伐.md)<rt>ㄊㄚㄨㄈㄝㄊ</rt></ruby>: subjugate.
-- <ruby>[越共](../words/越共.md)<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby>: Vietcong.
-- <ruby>[越盟](../words/越盟.md)<rt>⼔ㄊㄇ⼶ㄫ</rt></ruby>: Viet Minh.
 - <ruby>[跆拳道](../words/跆拳道.md)<rt>ㄊㄛㄧㄍ⼔ㄋㄉㄚㄨ</rt></ruby>: taekwondo.
 - <ruby>[軍艦](../words/軍艦.md)<rt>ㄍㄨㄋㄏㄚㄇ</rt></ruby>: warship.
 - <ruby>[軍隊](../words/軍隊.md)<rt>ㄍㄨㄋㄉㄛㄧ</rt></ruby>: armed forces.

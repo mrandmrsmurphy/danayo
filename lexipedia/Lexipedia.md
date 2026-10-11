@@ -71,3 +71,4 @@ Most of these lists are intended for authors, sometimes of science-fiction and o
 * [China](lexipedia/China.md)
 * [Japan](lexipedia/Japan.md)
 * [Korea](lexipedia/Korea.md)
+* [Vietnam](lexipedia/Vietnam.md)

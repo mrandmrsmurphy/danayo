@@ -187,7 +187,6 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[言語](../words/言語.md)<rt>ㄝㄋ·⼄</rt></ruby>: language.
 - <ruby>[討論](../words/討論.md)<rt>ㄊㄚㄨㄌㄛㄋ</rt></ruby>: debate.
 - <ruby>[詞句](../words/詞句.md)<rt>ㄙㄚㄍㄨ</rt></ruby>: words and phrases.
-- <ruby>[越南語](../words/越南語.md)<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Vietnamese language.
 - <ruby>[逗号](../words/逗号.md)<rt>ㄉㄚㄨㄏㄚㄨ</rt></ruby>: comma.
 - <ruby>[通信](../words/通信.md)<rt>ㄊㄛㄫㄙㄧㄋ</rt></ruby>: communication; correspondence.
 - <ruby>[逸事](../words/逸事.md)<rt>ㄧㄊㄐㄧ</rt></ruby>: anecdote.

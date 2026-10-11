@@ -42,7 +42,7 @@ The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]
 Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 
 - <ruby>[越南](words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>
-  - <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name; the established Sinitic exonym 西貢 is kept as its alias.
+  - Vietnam-specific people, places and history are on [Vietnam](Vietnam.md).
 - <ruby>[泰国](words/泰国.md)<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
 - <ruby>[面田](words/面田.md)<rt>ㄇ⼶ㄋㄉㄝㄋ</rt></ruby>
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>
@@ -237,7 +237,6 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[欧羅巴](../words/欧羅巴.md)<rt>ㄛㄨㄌㄛ·ㄆㄚ</rt></ruby>: Europe; Europa; EU.
 - <ruby>[水原](../words/水原.md)<rt>ㄙㄨ⼔ㄋ</rt></ruby>: Suwon; Mizuhara.
 - <ruby>[江南](../words/江南.md)<rt>ㄍㄚㄫㄋㄚㄇ</rt></ruby>: south river; Gangnam.
-- <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
 - <ruby>[漢江](../words/漢江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river.
 - <ruby>[火山島](../words/火山島.md)<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby>: volcanic island.
 - <ruby>[環礁](../words/環礁.md)<rt>ㄏ⺢ㄋㄐㄚㄨ</rt></ruby>: atoll.
@@ -248,7 +247,6 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[緯線](../words/緯線.md)<rt>ㄨㄧㄙ⼶ㄋ</rt></ruby>: line of latitude.
 - <ruby>[羅馬](../words/羅馬.md)<rt>ㄌㄛ·ㄇㄚ</rt></ruby>: Roman.
 - <ruby>[美洲](../words/美洲.md)<rt>ㄇㄧㄐㄨㄛ</rt></ruby>: Americas.
-- <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
 - <ruby>[英吉利](../words/英吉利.md)<rt>ㄝㄫㄍㄧㄊㄌㄧㄜ</rt></ruby>: England (dated).
 - <ruby>[英語圏](../words/英語圏.md)<rt>ㄝㄫ⼄ㄍ⼔ㄋ</rt></ruby>: Anglosphere.
 - <ruby>[葡萄牙](../words/葡萄牙.md)<rt>ㄅㄛㄉㄚㄨㄚ</rt></ruby>: Portugal.
