@@ -154,6 +154,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[食費](../words/食費.md)<rt>ㄙㄧㄎㄈㄚㄧ</rt></ruby>: food expenses.
 - <ruby>[騰貴](../words/騰貴.md)<rt>ㄉㄜㄫㄍㄨㄧ</rt></ruby>: to soar in price; price inflation.
 - <ruby>[龍断](../words/龍断.md)<rt>ㄌ⼄ㄫㄉ⺢ㄋ</rt></ruby>: monopolize.
+- <ruby>[費用](../words/費用.md)<rt>ㄈㄚㄧ⼄ㄫ</rt></ruby>: an expense; a cost; a fee.
 
 ## Semantic Range Notes
 

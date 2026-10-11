@@ -58,6 +58,7 @@ boundedness: 90
 - <ruby>[[可以]]<rt>ㄎㄜㄧ</rt></ruby> "can, may (permissive)"
 - <ruby>[[不可以]]<rt>ㄅㄛㄊㄎㄜㄧ</rt></ruby> "cannot, may not (impermissive)"
 - <ruby>[[以外]]<rt>ㄧ⺢ㄧ</rt></ruby> "other than; except for; outside of"
+- <ruby>[[以内]]<rt>ㄧㄋㄛㄧ</rt></ruby> "within; less than"
 
 ## Chengyu
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"

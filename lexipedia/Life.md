@@ -124,6 +124,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[遺伝子](../words/遺伝子.md)<rt>⼶ㄧㄐ⼔ㄋㄐㄜ</rt></ruby>: gene.
 - <ruby>[青年](../words/青年.md)<rt>ㄑㄝㄫㄋㄝㄋ</rt></ruby>: youth; young man.
 - <ruby>[養生](../words/養生.md)<rt>⼘ㄫㄙㄚㄫ</rt></ruby>: care for; protect.
+- <ruby>[一生](../words/一生.md)<rt>ㄧㄊㄙㄚㄫ</rt></ruby>: a lifetime; one's whole life.
 
 ## Semantic Range Notes
 
