@@ -61,3 +61,4 @@ boundedness: 90
 - <ruby>[[規]]<rt>ㄍㄨㄧ</rt></ruby> "rules"
 - <ruby>[[覧]]<rt>ㄌㄚㄇ</rt></ruby> "look at"
 - <ruby>[[覚]]<rt>ㄍㄚㄎ</rt></ruby> "perceive"
+- <ruby>[[蜆]]<rt>ㄏㄝㄋ</rt></ruby> "basket clam"

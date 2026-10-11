@@ -650,6 +650,7 @@ tags: [lookup]
 646. [雴](../../characters/雴.md)
 647. [鴔](../../characters/鴔.md)
 648. [蔚](../../characters/蔚.md)
+649. [蜆](../../characters/蜆.md)
 
 
 [[../../characters/吠]] - barking DO IT

@@ -36,12 +36,15 @@ status: partial
 - <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: Haiphong, the principal port of the north; the same spelling means "coastal defense" elsewhere (see Conflict).
 - <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
 - <ruby>[堤岸](../words/堤岸.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: Chợ Lớn, the Chinese quarter of Saigon.
+- <ruby>[蜆港](../words/蜆港.md)<rt>ㄏㄝㄋㄏㄛㄫ</rt></ruby>: Da Nang, the largest city of central Vietnam (also written <ruby>峴港<rt>ㄏㄝㄋㄏㄛㄫ</rt></ruby>).
 - <ruby>[芽荘](../words/芽荘.md)<rt>ㄚㄐ⺢ㄫ</rt></ruby>: Nha Trang, a coastal resort city of the south-central coast (also written <ruby>芽莊<rt>ㄚㄐ⺢ㄫ</rt></ruby>).
 - <ruby>[朔荘](../words/朔荘.md)<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>: Sóc Trăng, a city of the Mekong Delta (also written <ruby>朔莊<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>).
 - <ruby>[芹且](../words/芹且.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>: Can Tho, the largest city of the Mekong Delta (also written <ruby>芹苴<rt>ㄍㄧㄋㄑㄛ</rt></ruby>).
 - <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
+- <ruby>[邦美蜀](../words/邦美蜀.md)<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby>: Buôn Ma Thuột, the chief city of the Central Highlands and capital of Đắk Lắk province.
 
 ### Provinces and places
+- <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands (also written <ruby>得樂<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>).
 - <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
 - <ruby>[富国](../words/富国.md)<rt>ㄈㄨㄛㄍㄛㄎ</rt></ruby>: Phu Quoc, Vietnam's largest island, in the Gulf of Thailand.
 - <ruby>[会安](../words/会安.md)<rt>ㄏ⼔ㄚㄋ</rt></ruby>: Hoi An, an old trading port of the central coast.

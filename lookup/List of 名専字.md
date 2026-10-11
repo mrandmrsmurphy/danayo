@@ -1,15 +1,15 @@
 ---
 language: 単亜語
 date-last-perfect: 2026-10-03
-size: 442
+size: 443
 tags:
   - neologism
   - lookup
 ---
-**<ruby>名専字<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>四十二<rt>ㄙㄧㄜㄙㄧㄆㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
+**<ruby>名専字<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>四十三<rt>ㄙㄧㄜㄙㄧㄆㄙㄚㄇ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
 
 <ruby>種類<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>:
-- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>三十一<rt>ㄙㄚㄇㄙㄧㄆㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>三十二<rt>ㄙㄚㄇㄙㄧㄆㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四十<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
@@ -368,91 +368,92 @@ tags:
 352. <ruby>[[藤]]<rt>ㄉㄜㄫ</rt></ruby> - wisteria
 353. <ruby>[[藩]]<rt>ㄆㄛㄋ</rt></ruby> - fence, boundary, outlying border
 354. <ruby>[[虞]]<rt>ㄨ</rt></ruby> - anxious, worry
-355. <ruby>[[衂]]<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
-356. <ruby>[[衲]]<rt>ㄋㄚㄆ</rt></ruby> - cassock
-357. <ruby>[[袁]]<rt>ㄛㄋ</rt></ruby> - robe, surname
-358. <ruby>[[裾]]<rt>ㄍ⼄</rt></ruby> - cuff, hem, lapel
-359. <ruby>[[裴]]<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
-360. <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby> - coat, jacket
-361. <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby> - sock, stocking
-362. <ruby>[[覓]]<rt>ㄇㄝㄎ</rt></ruby> - search, seek, research
-363. <ruby>[[訛]]<rt>⺢</rt></ruby> - error, extort
-364. <ruby>[[詫]]<rt>ㄊㄚ</rt></ruby> - brag, exaggerate
-365. <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> - decode, exegete
-366. <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby> - calm, quiet, still
-367. <ruby>[[譚]]<rt>ㄉㄚㄇ</rt></ruby> - talented, talkative
-368. <ruby>[[豈]]<rt>ㄎㄧㄜ</rt></ruby> - how can it be that
-369. <ruby>[[豎]]<rt>ㄙㄨ</rt></ruby> - vertical line
-370. <ruby>[[豕]]<rt>ㄊㄧㄎ</rt></ruby> - pig, boar
-371. <ruby>[[䝙]]<rt>ㄊㄨ</rt></ruby> - mythical tiger-beast
-372. <ruby>[[貰]]<rt>ㄙㄝ</rt></ruby> - borrow, lend
-373. <ruby>[[賁]]<rt>ㄅㄨㄋ</rt></ruby> - energetic
-374. <ruby>[[賈]]<rt>ㄍㄚ</rt></ruby> - merchant
-375. <ruby>[[賑]]<rt>ㄐㄧㄋ</rt></ruby> - rich
-376. <ruby>[[賽]]<rt>ㄙㄚㄧ</rt></ruby> - compete, contend
-377. <ruby>[[赩]]<rt>ㄏㄧㄎ</rt></ruby> - shining
-378. <ruby>[[趙]]<rt>ㄐㄚㄨ</rt></ruby> - Zhao
-379. <ruby>[[跌]]<rt>ㄉㄝㄊ</rt></ruby> - fall down
-380. <ruby>[[跑]]<rt>ㄅ⼘ㄨ</rt></ruby> - run, trot
-381. <ruby>[[躁]]<rt>ㄐㄚㄨ</rt></ruby> - irascible
-382. <ruby>[[軋]]<rt>ㄚㄊ</rt></ruby> - crush, grind
-383. <ruby>[[軒]]<rt>ㄏㄝㄋ</rt></ruby> - flats
-384. <ruby>[[軣]]<rt>ㄍ⼔ㄫ</rt></ruby> - rumble, explosion
-385. <ruby>[[輒]]<rt>ㄐㄛㄆ</rt></ruby> - then, always, at every turn
-386. <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel, refute
-387. <ruby>[[辰]]<rt>ㄙㄧㄋ</rt></ruby> - fifth earthly branch, dragon
-388. <ruby>[[迄]]<rt>ㄏㄧㄊ</rt></ruby> - extend, reach
-389. <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby> - follow
-390. <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> - meet
-391. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
-392. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
-393. <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby> - transcend, climb
-394. <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby> - strong, unyielding, forceful
-395. <ruby>[[遼]]<rt>ㄌ⼘ㄨ</rt></ruby> - distant, far
-396. <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby> - patrol, watch
-397. <ruby>[[邑]]<rt>ㄧㄆ</rt></ruby> - township
-398. <ruby>[[邢]]<rt>ㄏㄝㄫ</rt></ruby> - Heng
-399. <ruby>[[邱]]<rt>ㄍㄨ</rt></ruby> - hill, mound, surname
-400. <ruby>[[邵]]<rt>ㄙ⼄ㄨ</rt></ruby> - surname, place name
-401. <ruby>[[郁]]<rt>⼜ㄎ</rt></ruby> - sweet smelling
-402. <ruby>[[郝]]<rt>ㄏㄚㄎ</rt></ruby> - place name
-403. <ruby>[[鄒]]<rt>ㄑㄨ</rt></ruby> - Chu kingdom
-404. <ruby>[[鄙]]<rt>ㄈㄧㄜ</rt></ruby> - rustic
-405. <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby> - Teng
-406. <ruby>[[酋]]<rt>ㄑㄨㄛ</rt></ruby> - chieftain, tribal leader
-407. <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> - sweet water
-408. <ruby>[[釧]]<rt>ㄑㄝㄋ</rt></ruby> - bracelet, armlet
-409. <ruby>[[鈩]]<rt>ㄌㄛ</rt></ruby> - fireplace, stove, oven
-410. <ruby>[[鈿]]<rt>ㄉㄝㄋ</rt></ruby> - filigree, hairpin
-411. <ruby>[[鋤]]<rt>ㄐㄛ</rt></ruby> - hoe, spade
-412. <ruby>[[錆]]<rt>ㄑㄝㄫ</rt></ruby> - rust colored
-413. <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby> - melt, smelt
-414. <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby> - prosperous, wealthy
-415. <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby> - grieve, pity
-416. <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby> - curtain, screen, fence
-417. <ruby>[[闕]]<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
-418. <ruby>[[阮]]<rt>⼔ㄋ</rt></ruby> - moon lute
-419. <ruby>[[阜]]<rt>ㄅ⼜</rt></ruby> - mound
-420. <ruby>[[陝]]<rt>ㄙㄝㄇ</rt></ruby> - Shan
-421. <ruby>[[隹]]<rt>ㄉㄛㄧ</rt></ruby> - short tailed bird
-422. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter, thunder
-423. <ruby>[[霍]]<rt>ㄍ⺢ㄎ</rt></ruby> - sudden, quick
-424. <ruby>[[霞]]<rt>ㄏㄚ</rt></ruby> - mist
-425. <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby> - cloudy, hazy
-426. <ruby>[[靠]]<rt>ㄎㄚㄨ</rt></ruby> - lean on
-427. <ruby>[[韋]]<rt>ㄨㄧ</rt></ruby> - tanned leather
-428. <ruby>[[頴]]<rt>⼶ㄫ</rt></ruby> - rice tassel
-429. <ruby>[[頤]]<rt>ㄧ</rt></ruby> - chin
-430. <ruby>[[飧]]<rt>ㄙㄛㄋ</rt></ruby> - evening meal, supper
-431. <ruby>[[飴]]<rt>ㄧ</rt></ruby> - syrup, candy
-432. <ruby>[[馮]]<rt>ㄈㄧㄫ</rt></ruby> - gallop
-433. <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> - tame
-434. <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby> - pony, colt
-435. <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby> - blowfish
-436. <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby> - swan
-437. <ruby>[[鹵]]<rt>ㄌㄛㄊ</rt></ruby> - saline soil
-438. <ruby>[[麓]]<rt>ㄌㄛㄎ</rt></ruby> - foot of a mountain
-439. <ruby>[[黍]]<rt>ㄙ⼄</rt></ruby> - millet
-440. <ruby>[[黛]]<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
-441. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - tall, huge
-442. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - give, present
+355. <ruby>[[蜆]]<rt>ㄏㄝㄋ</rt></ruby> - basket clam, butterfly chrysalis
+356. <ruby>[[衂]]<rt>ㄋㄨㄎ</rt></ruby> - epistaxis
+357. <ruby>[[衲]]<rt>ㄋㄚㄆ</rt></ruby> - cassock
+358. <ruby>[[袁]]<rt>ㄛㄋ</rt></ruby> - robe, surname
+359. <ruby>[[裾]]<rt>ㄍ⼄</rt></ruby> - cuff, hem, lapel
+360. <ruby>[[裴]]<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
+361. <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby> - coat, jacket
+362. <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby> - sock, stocking
+363. <ruby>[[覓]]<rt>ㄇㄝㄎ</rt></ruby> - search, seek, research
+364. <ruby>[[訛]]<rt>⺢</rt></ruby> - error, extort
+365. <ruby>[[詫]]<rt>ㄊㄚ</rt></ruby> - brag, exaggerate
+366. <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> - decode, exegete
+367. <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby> - calm, quiet, still
+368. <ruby>[[譚]]<rt>ㄉㄚㄇ</rt></ruby> - talented, talkative
+369. <ruby>[[豈]]<rt>ㄎㄧㄜ</rt></ruby> - how can it be that
+370. <ruby>[[豎]]<rt>ㄙㄨ</rt></ruby> - vertical line
+371. <ruby>[[豕]]<rt>ㄊㄧㄎ</rt></ruby> - pig, boar
+372. <ruby>[[䝙]]<rt>ㄊㄨ</rt></ruby> - mythical tiger-beast
+373. <ruby>[[貰]]<rt>ㄙㄝ</rt></ruby> - borrow, lend
+374. <ruby>[[賁]]<rt>ㄅㄨㄋ</rt></ruby> - energetic
+375. <ruby>[[賈]]<rt>ㄍㄚ</rt></ruby> - merchant
+376. <ruby>[[賑]]<rt>ㄐㄧㄋ</rt></ruby> - rich
+377. <ruby>[[賽]]<rt>ㄙㄚㄧ</rt></ruby> - compete, contend
+378. <ruby>[[赩]]<rt>ㄏㄧㄎ</rt></ruby> - shining
+379. <ruby>[[趙]]<rt>ㄐㄚㄨ</rt></ruby> - Zhao
+380. <ruby>[[跌]]<rt>ㄉㄝㄊ</rt></ruby> - fall down
+381. <ruby>[[跑]]<rt>ㄅ⼘ㄨ</rt></ruby> - run, trot
+382. <ruby>[[躁]]<rt>ㄐㄚㄨ</rt></ruby> - irascible
+383. <ruby>[[軋]]<rt>ㄚㄊ</rt></ruby> - crush, grind
+384. <ruby>[[軒]]<rt>ㄏㄝㄋ</rt></ruby> - flats
+385. <ruby>[[軣]]<rt>ㄍ⼔ㄫ</rt></ruby> - rumble, explosion
+386. <ruby>[[輒]]<rt>ㄐㄛㄆ</rt></ruby> - then, always, at every turn
+387. <ruby>[[辟]]<rt>ㄆㄧㄎ</rt></ruby> - dispel, refute
+388. <ruby>[[辰]]<rt>ㄙㄧㄋ</rt></ruby> - fifth earthly branch, dragon
+389. <ruby>[[迄]]<rt>ㄏㄧㄊ</rt></ruby> - extend, reach
+390. <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby> - follow
+391. <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> - meet
+392. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
+393. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
+394. <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby> - transcend, climb
+395. <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby> - strong, unyielding, forceful
+396. <ruby>[[遼]]<rt>ㄌ⼘ㄨ</rt></ruby> - distant, far
+397. <ruby>[[邏]]<rt>ㄌㄚ</rt></ruby> - patrol, watch
+398. <ruby>[[邑]]<rt>ㄧㄆ</rt></ruby> - township
+399. <ruby>[[邢]]<rt>ㄏㄝㄫ</rt></ruby> - Heng
+400. <ruby>[[邱]]<rt>ㄍㄨ</rt></ruby> - hill, mound, surname
+401. <ruby>[[邵]]<rt>ㄙ⼄ㄨ</rt></ruby> - surname, place name
+402. <ruby>[[郁]]<rt>⼜ㄎ</rt></ruby> - sweet smelling
+403. <ruby>[[郝]]<rt>ㄏㄚㄎ</rt></ruby> - place name
+404. <ruby>[[鄒]]<rt>ㄑㄨ</rt></ruby> - Chu kingdom
+405. <ruby>[[鄙]]<rt>ㄈㄧㄜ</rt></ruby> - rustic
+406. <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby> - Teng
+407. <ruby>[[酋]]<rt>ㄑㄨㄛ</rt></ruby> - chieftain, tribal leader
+408. <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> - sweet water
+409. <ruby>[[釧]]<rt>ㄑㄝㄋ</rt></ruby> - bracelet, armlet
+410. <ruby>[[鈩]]<rt>ㄌㄛ</rt></ruby> - fireplace, stove, oven
+411. <ruby>[[鈿]]<rt>ㄉㄝㄋ</rt></ruby> - filigree, hairpin
+412. <ruby>[[鋤]]<rt>ㄐㄛ</rt></ruby> - hoe, spade
+413. <ruby>[[錆]]<rt>ㄑㄝㄫ</rt></ruby> - rust colored
+414. <ruby>[[鑠]]<rt>ㄙㄚㄎ</rt></ruby> - melt, smelt
+415. <ruby>[[鑫]]<rt>ㄏㄜㄇ</rt></ruby> - prosperous, wealthy
+416. <ruby>[[閔]]<rt>ㄇㄧㄇ</rt></ruby> - grieve, pity
+417. <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby> - curtain, screen, fence
+418. <ruby>[[闕]]<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
+419. <ruby>[[阮]]<rt>⼔ㄋ</rt></ruby> - moon lute
+420. <ruby>[[阜]]<rt>ㄅ⼜</rt></ruby> - mound
+421. <ruby>[[陝]]<rt>ㄙㄝㄇ</rt></ruby> - Shan
+422. <ruby>[[隹]]<rt>ㄉㄛㄧ</rt></ruby> - short tailed bird
+423. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter, thunder
+424. <ruby>[[霍]]<rt>ㄍ⺢ㄎ</rt></ruby> - sudden, quick
+425. <ruby>[[霞]]<rt>ㄏㄚ</rt></ruby> - mist
+426. <ruby>[[靄]]<rt>ㄚㄧ</rt></ruby> - cloudy, hazy
+427. <ruby>[[靠]]<rt>ㄎㄚㄨ</rt></ruby> - lean on
+428. <ruby>[[韋]]<rt>ㄨㄧ</rt></ruby> - tanned leather
+429. <ruby>[[頴]]<rt>⼶ㄫ</rt></ruby> - rice tassel
+430. <ruby>[[頤]]<rt>ㄧ</rt></ruby> - chin
+431. <ruby>[[飧]]<rt>ㄙㄛㄋ</rt></ruby> - evening meal, supper
+432. <ruby>[[飴]]<rt>ㄧ</rt></ruby> - syrup, candy
+433. <ruby>[[馮]]<rt>ㄈㄧㄫ</rt></ruby> - gallop
+434. <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> - tame
+435. <ruby>[[駒]]<rt>ㄍㄨ</rt></ruby> - pony, colt
+436. <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby> - blowfish
+437. <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby> - swan
+438. <ruby>[[鹵]]<rt>ㄌㄛㄊ</rt></ruby> - saline soil
+439. <ruby>[[麓]]<rt>ㄌㄛㄎ</rt></ruby> - foot of a mountain
+440. <ruby>[[黍]]<rt>ㄙ⼄</rt></ruby> - millet
+441. <ruby>[[黛]]<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
+442. <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby> - tall, huge
+443. <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> - give, present

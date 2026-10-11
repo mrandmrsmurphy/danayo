@@ -15,7 +15,7 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md): 恥, 敏, 料, 朔, 朗, 殺, 殷, 粉, 粋, 䋇, 紋, 納, 紙, 紛, 紡, 純, 紗, 紘, 缺, 耕, 耗, 耽, 能, 致, 般, 航, 蚊, 衲, 紐, 粄
 - [SKIP-1-6-5](lookup/SKIP/SKIP-1/SKIP-1-6-5.md): 瓶, 粘, 粒, 粗, 細, 紺, 経, 紬, 紳, 紹, 終, 組, 絆, 羚, 聊, 舵, 舶, 舷, 船, 蛇, 蛉
 - [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md): 刺, 制, 棘, 粧, 糾, 結, 絡, 絶, 絞, 給, 絨, 統, 絵, 翔, 聒, 蛭, 蛙, 蛛, 蛞, 蛤
-- [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md): 継, 続, 絹, 綏, 蛾, 艇, 辞, 聘, 裏, 䎎, 群, 辟
+- [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md): 継, 続, 絹, 綏, 蛾, 蜆, 艇, 辞, 聘, 裏, 䎎, 群, 辟
 - [SKIP-1-6-8](lookup/SKIP/SKIP-1/SKIP-1-6-8.md): 精, 維, 綱, 網, 綴, 綻, 綽, 綿, 緋, 総, 緑, 緒, 練, 聡, 蜘, 蠟, 踝, 雑
 - [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md): 箱, 糊, 線, 締, 編, 緩, 縁, 縄, 蝉, 蝓, 蝙, 蝠, 蝦, 蝶, 蝸, 蝿, 輝, 頬
 - [SKIP-1-6-10](lookup/SKIP/SKIP-1/SKIP-1-6-10.md): 糖, 緯, 緻, 縛, 縞, 縦, 縫, 艙, 螂, 螟

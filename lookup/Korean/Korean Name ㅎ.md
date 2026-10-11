@@ -57,7 +57,7 @@ This have all be checked for redirects.
 [[赫]] [[爀]] 奕-->打 [[焱]] [[侐]] [[焃]] [[𧹽]] [赩](characters/赩.md) [䦧 (char)](characters/䦧%20(char).md)
 
 ### 현
-見 (done) [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [絢](characters/絢.md) [[呟]] [[俔]] [[睍]] [舷](characters/舷.md) [[衒]] [弦 (char)](characters/弦%20(char).md) [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] 
+見 (done) [[峴]] [[晛]] [[泫]] [[炫]] [[玹]] [[鉉]] [[眩]] [[昡]] [絢](characters/絢.md) [[呟]] [[俔]] [[睍]] [舷](characters/舷.md) [[衒]] [弦 (char)](characters/弦%20(char).md) [[儇]] [[譞]] [[怰]] [[䧋]] [[鋗]] [[㢺]] [[琄]] [[蜆]] 
 
 ### 혈
 [[孑]]

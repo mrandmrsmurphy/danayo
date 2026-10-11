@@ -1003,6 +1003,7 @@ tags: [lookup]
 [闡](../../characters/闡.md)
 [蔚](../../characters/蔚.md)
 [芹](../../characters/芹.md)
+[蜆](../../characters/蜆.md)
 
 ## Datacheck
 ```base

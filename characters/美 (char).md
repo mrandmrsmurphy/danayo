@@ -68,3 +68,4 @@ boundedness: 65
 - <ruby>[[美徳]]<rt>ㄇㄧ·ㄊㄨㄎ</rt></ruby> "virtue"
 - <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
 - <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"
+- <ruby>[[邦美蜀]]<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby> "Buôn Ma Thuột (city)"

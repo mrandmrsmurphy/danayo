@@ -1,5 +1,5 @@
 ---
-size: 12
+size: 13
 stroke_count: 13
 date-last-perfect: 2026-09-24
 skip_number: 1-6-7
@@ -15,13 +15,14 @@ tags: [lookup]
 3. <ruby>[絹](characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> "silk"
 4. <ruby>[綏](/characters/綏.md)<rt>ㄙㄨㄧ</rt></ruby> "soothe; ribbon"
 5. <ruby>[蛾](characters/蛾%20(char).md)<rt>ㄚ</rt></ruby> "moth"
-6. <ruby>[艇](characters/艇%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> "dinghy; rowboat; boat"
-7. <ruby>[辞](/characters/辞.md)<rt>ㄑㄧ</rt></ruby> "bid farewell; resign (with words)"
-8. <ruby>[聘](characters/聘%20(char).md)<rt>ㄆㄧㄫ</rt></ruby> "engage; betroth"
-9. <ruby>[裏](/characters/裏.md)<rt>ㄌㄧ</rt></ruby> "inside; interior; reverse"
-10. <ruby>[䎎](/characters/䎎.md)<rt>ㄋㄛㄆ</rt></ruby> "soar through the air"
-11. <ruby>[群](/characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> "flock; crowd; mob"
-12. <ruby>[辟](/characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> "dispel, refute"
+6. <ruby>[蜆](/characters/蜆.md)<rt>ㄏㄝㄋ</rt></ruby> "basket clam"
+7. <ruby>[艇](characters/艇%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> "dinghy; rowboat; boat"
+8. <ruby>[辞](/characters/辞.md)<rt>ㄑㄧ</rt></ruby> "bid farewell; resign (with words)"
+9. <ruby>[聘](characters/聘%20(char).md)<rt>ㄆㄧㄫ</rt></ruby> "engage; betroth"
+10. <ruby>[裏](/characters/裏.md)<rt>ㄌㄧ</rt></ruby> "inside; interior; reverse"
+11. <ruby>[䎎](/characters/䎎.md)<rt>ㄋㄛㄆ</rt></ruby> "soar through the air"
+12. <ruby>[群](/characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> "flock; crowd; mob"
+13. <ruby>[辟](/characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> "dispel, refute"
 
 ## Datacheck
 ```dataview
