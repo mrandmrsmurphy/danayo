@@ -1,5 +1,5 @@
 ---
-size: 12
+size: 13
 middle_chinese_final: iᴇt
 date-last-perfect: 2026-10-06
 tags: [lookup]
@@ -12,7 +12,7 @@ tags: [lookup]
 
 ## Characters
 ### In Use
-- ㄝㄊ: <ruby>[[撇 (char)|撇]]<rt>ㄆㄝㄊ</rt></ruby>, <ruby>[[烈]]<rt>ㄌㄝㄊ</rt></ruby>, <ruby>[[列]]<rt>ㄌㄝㄊ</rt></ruby>, <ruby>[[舌 (char)|舌]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[設]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[洩]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[禼]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[薛]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[折]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[滅 (char)|滅]]<rt>ㄇㄝㄊ</rt></ruby>, <ruby>[[裂]]<rt>ㄌㄝㄊ</rt></ruby>
+- ㄝㄊ: <ruby>[[撇 (char)|撇]]<rt>ㄆㄝㄊ</rt></ruby>, <ruby>[[烈]]<rt>ㄌㄝㄊ</rt></ruby>, <ruby>[[列]]<rt>ㄌㄝㄊ</rt></ruby>, <ruby>[[舌 (char)|舌]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[設]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[洩]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[禼]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[薛]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[折]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[浙]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[滅 (char)|滅]]<rt>ㄇㄝㄊ</rt></ruby>, <ruby>[[裂]]<rt>ㄌㄝㄊ</rt></ruby>
 - ⼶ㄊ: <ruby>[[熱 (char)|熱]]<rt>ㄋ⼶ㄊ</rt></ruby>
 
 ## Datacheck

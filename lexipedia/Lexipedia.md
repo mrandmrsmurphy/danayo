@@ -68,7 +68,10 @@ Most of these lists are intended for authors, sometimes of science-fiction and o
 * [Geography](lexipedia/Geography.md)
 * [Calendar](lexipedia/Calendar.md)
 * [Periodic Table](lexipedia/Periodic%20Table.md)
-* [China](lexipedia/China.md)
-* [Japan](lexipedia/Japan.md)
-* [Korea](lexipedia/Korea.md)
-* [Vietnam](lexipedia/Vietnam.md)
+
+## Countries
+Dan'a'yo is a zonal auxiliary language for the East Asian cultural sphere, so beyond Rosenfelder's domains it keeps one page for each of its four core countries. Each gathers the vocabulary specific to that country (famous people, places, historical states, language and script), while words shared across the Sinosphere stay in the domain pages above.
+* [[lexipedia/China]]
+* [[lexipedia/Japan]]
+* [[lexipedia/Korea]]
+* [[lexipedia/Vietnam]]

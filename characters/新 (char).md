@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai"
 - <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
+- <ruby>[[新疆]]<rt>ㄙㄧㄋㄍ⼘ㄋ</rt></ruby> "new frontier; Xinjiang"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

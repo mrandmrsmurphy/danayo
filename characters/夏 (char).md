@@ -55,6 +55,7 @@ boundedness: 80
 - <ruby>[[仲夏]]<rt>ㄉㄨㄫㄏ⼘</rt></ruby> "mid summer (5th month)"
 - <ruby>[[孟夏]]<rt>ㄇㄚㄫㄏ⼘</rt></ruby> "early summer (4th month)"
 - <ruby>[[季夏]]<rt>ㄍㄨㄧㄏ⼘</rt></ruby> "late summer (6th month)"
+- <ruby>[[寧夏]]<rt>ㄋㄝㄫㄏ⼘</rt></ruby> "Ningxia"
 
 ## Chengyu
 - <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"

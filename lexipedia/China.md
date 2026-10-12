@@ -32,6 +32,7 @@ The provinces of China, grouped by region as in the city list below, each given 
 
 **East**
 - <ruby>[江蘇](../words/江蘇.md)<rt>ㄍㄚㄫㄙㄛ</rt></ruby> (also written <ruby>江苏<rt>ㄍㄚㄫㄙㄛ</rt></ruby>): Jiangsu.
+- <ruby>[浙江](../words/浙江.md)<rt>ㄐㄝㄊㄍㄚㄫ</rt></ruby> (also written <ruby>淅江<rt>ㄐㄝㄊㄍㄚㄫ</rt></ruby>, <ruby>折江<rt>ㄐㄝㄊㄍㄚㄫ</rt></ruby>): Zhejiang; also the historical name of the Qiantang River.
 - <ruby>[安徽](../words/安徽.md)<rt>ㄚㄋㄏㄨㄧ</rt></ruby>: Anhui.
 - <ruby>[福建](../words/福建.md)<rt>ㄈㄨㄎㄍㄝㄋ</rt></ruby>: Fujian.
 - <ruby>[江西](../words/江西.md)<rt>ㄍㄚㄫㄙㄝㄧ</rt></ruby>: Jiangxi; the same spelling is Gangseo in Korea, listed on Korea.
@@ -55,6 +56,14 @@ The provinces of China, grouped by region as in the city list below, each given 
 - <ruby>[陝西](../words/陝西.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby> (also written <ruby>陕西<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>, <ruby>陜西<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>): Shaanxi; not the same word as Shanxi, which has a different first syllable, but the same sound as <ruby>[繊細](../words/繊細.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby> "delicate", listed on Valuation.
 - <ruby>[甘粛](../words/甘粛.md)<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby> (also written <ruby>甘肅<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby>, <ruby>甘肃<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby>): Gansu.
 - <ruby>[青海](../words/青海.md)<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby> (also written <ruby>靑海<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby>): Qinghai; also Qinghai Lake, listed on Water.
+
+### Autonomous regions
+The five autonomous regions, each written here as separate words rather than as one long compound: the region's name, the people it is named for where there is one, then <ruby>[自治](../words/自治.md)<rt>ㄐㄧㄜㄑㄧ</rt></ruby> ("self-government") and <ruby>[区域](../words/区域.md)<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby> ("area, district"), the word that stands in for the bound character <ruby>区<rt>ㄎㄨ</rt></ruby> (the official Chinese names end in 自治區). The peoples are existing words, and <ruby>内<rt>ㄋㄛㄧ</rt></ruby> "inner" is likewise carried by its stand-in <ruby>[内部](../words/内部.md)<rt>ㄋㄛㄧㄅㄛㄨ</rt></ruby>.
+- <ruby>[廣西](../words/広西.md)<rt>ㄍ⺢ㄫㄙㄝㄧ</rt></ruby> <ruby>[壯族](../words/壮族.md)<rt>ㄐ⺢ㄫㄐㄛㄎ</rt></ruby> <ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby> <ruby>區域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>: Guangxi Zhuang Autonomous Region.
+- <ruby>内部<rt>ㄋㄛㄧㄅㄛㄨ</rt></ruby> <ruby>[蒙古](../words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby> <ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby> <ruby>區域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>: Inner Mongolia Autonomous Region.
+- <ruby>[寧夏](../words/寧夏.md)<rt>ㄋㄝㄫㄏ⼘</rt></ruby> <ruby>[回族](../words/回族.md)<rt>ㄏㄛㄧㄐㄛㄎ</rt></ruby> <ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby> <ruby>區域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>: Ningxia Hui Autonomous Region.
+- <ruby>[西藏](../words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby> <ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby> <ruby>區域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>: Tibet Autonomous Region.
+- <ruby>[新疆](../words/新疆.md)<rt>ㄙㄧㄋㄍ⼘ㄋ</rt></ruby> <ruby>[維吾爾](../words/回紇.md)<rt>ㄏㄛㄧㄏㄜㄊ</rt></ruby> <ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby> <ruby>區域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>: Xinjiang Uyghur Autonomous Region.
 
 ### Other major cities
 Major cities beyond the four municipalities, grouped by region of China (north-east, north, east, centre, south, south-west, north-west). Each is a provincial or regional capital unless noted; Hefei, Taiyuan, Xining and Urumqi are listed under Provinces and cities below. Variant spellings (traditional, simplified, or the real-world form) are given as "also written".
@@ -156,7 +165,7 @@ These were directional boundary waters (<ruby>[方位](../words/方位.md)<rt>�
 8. Liang (<ruby>[梁州](../words/梁州.md)<rt>ㄌ⼘ㄫㄐㄨㄛ</rt></ruby>), and
 9. Yong (<ruby>[雍州](../words/雍州.md)<rt>ㄛㄫㄐㄨㄛ</rt></ruby>).
 
-These provinces (<ruby>[州](../words/州.md)<rt>ㄐㄨㄛ</rt></ruby>) were civilizational and administrative regions (<ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby><ruby>[区域](../words/区域.md)<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>), not continents (<ruby>[洲](../words/洲.md)<rt>ㄐㄨㄛ</rt></ruby>). Thus the ancient model was concentric (<ruby>[環状](../words/環状.md)<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby><ruby>[構造](../words/構造.md)<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain (<ruby>[王畿](../words/王畿.md)<rt>⺢ㄫㄍㄧㄜ</rt></ruby>), while the modern model is global and comparative (<ruby>[全球](../words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>[並列](../words/並列.md)<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions (<ruby>並列<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby><ruby>区域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>).
+These provinces (<ruby>[州](../words/州.md)<rt>ㄐㄨㄛ</rt></ruby>) were civilizational and administrative regions (<ruby>[行政](../words/行政.md)<rt>ㄏㄚㄫㄐㄧㄫ</rt></ruby><ruby>区域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>), not continents (<ruby>[洲](../words/洲.md)<rt>ㄐㄨㄛ</rt></ruby>). Thus the ancient model was concentric (<ruby>[環状](../words/環状.md)<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby><ruby>[構造](../words/構造.md)<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), centered upon the royal domain (<ruby>[王畿](../words/王畿.md)<rt>⺢ㄫㄍㄧㄜ</rt></ruby>), while the modern model is global and comparative (<ruby>[全球](../words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>[並列](../words/並列.md)<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>), treating all continents as parallel divisions (<ruby>並列<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby><ruby>区域<rt>ㄎㄨ·ㄨㄧㄎ</rt></ruby>).
 
 This concentric Nine-Provinces model eventually gave way to the historical reality of the Warring States, one of which — <ruby>[秦国](../words/秦国.md)<rt>ㄐㄧㄋㄍㄛㄎ</rt></ruby> (the state of Qin) — unified the others into China's first empire.
 

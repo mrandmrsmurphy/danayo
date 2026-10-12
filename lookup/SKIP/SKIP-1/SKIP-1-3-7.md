@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 10
-size: 67
+size: 68
 skip_number: 1-3-7
 tags:
   - lookup
@@ -66,17 +66,18 @@ tags:
 54. <ruby>[涛](characters/涛.md)<rt>ㄉㄚㄨ</rt></ruby> "wave"
 55. <ruby>[涜](characters/涜.md)<rt>ㄉㄛㄎ</rt></ruby> "ditch"
 56. <ruby>[涙](characters/涙%20(char).md)<rt>ㄌㄨㄧ</rt></ruby> "tear"
-57. <ruby>[狸](characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> "tanuki"
-58. <ruby>[狼](characters/狼%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> "wolf"
-59. <ruby>[狽](characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> "wolf-like beast"
-60. <ruby>[酒](characters/酒.md)<rt>ㄐㄨㄛ</rt></ruby> "alcohol"
-61. <ruby>[降](characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> "descend"
-62. <ruby>[陛](characters/陛.md)<rt>ㄅㄝㄧ</rt></ruby> "steps of the throne"
-63. <ruby>[陝](characters/陝.md)<rt>ㄙㄝㄇ</rt></ruby> "Shan"
-64. <ruby>[院](characters/院.md)<rt>⼔ㄋ</rt></ruby> "institution"
-65. <ruby>[陣](characters/陣.md)<rt>ㄑㄧㄋ</rt></ruby> "camp (army)"
-66. <ruby>[除](characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> "exclude"
-67. <ruby>[陥](characters/陥%20(char).md)<rt>ㄏㄚㄇ</rt></ruby> "submerge"
+57. <ruby>[浙](characters/浙.md)<rt>ㄐㄝㄊ</rt></ruby> "Zhejiang"
+58. <ruby>[狸](characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> "tanuki"
+59. <ruby>[狼](characters/狼%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> "wolf"
+60. <ruby>[狽](characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> "wolf-like beast"
+61. <ruby>[酒](characters/酒.md)<rt>ㄐㄨㄛ</rt></ruby> "alcohol"
+62. <ruby>[降](characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> "descend"
+63. <ruby>[陛](characters/陛.md)<rt>ㄅㄝㄧ</rt></ruby> "steps of the throne"
+64. <ruby>[陝](characters/陝.md)<rt>ㄙㄝㄇ</rt></ruby> "Shan"
+65. <ruby>[院](characters/院.md)<rt>⼔ㄋ</rt></ruby> "institution"
+66. <ruby>[陣](characters/陣.md)<rt>ㄑㄧㄋ</rt></ruby> "camp (army)"
+67. <ruby>[除](characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> "exclude"
+68. <ruby>[陥](characters/陥%20(char).md)<rt>ㄏㄚㄇ</rt></ruby> "submerge"
 
 ## Datacheck
 ```dataview
