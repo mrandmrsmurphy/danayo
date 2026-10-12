@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 59
+size: 60
 radical: 日
 tags: [lookup]
 
@@ -92,12 +92,13 @@ tags: [lookup]
 
 ### +12 Strokes
 57. <ruby>[曇](../../characters/曇%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - overcast
+58. <ruby>[暹](../../characters/暹.md)<rt>ㄙㄝㄇ</rt></ruby> - Siam
 
 ### +13 Strokes
-58. <ruby>[曖](../../characters/曖.md)<rt>ㄚㄧ</rt></ruby> - obscure
+59. <ruby>[曖](../../characters/曖.md)<rt>ㄚㄧ</rt></ruby> - obscure
 
 ### +14 Strokes
-59. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
+60. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
 
 ## Data check
 ```dataview

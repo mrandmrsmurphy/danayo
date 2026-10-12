@@ -653,6 +653,8 @@ tags: [lookup]
 649. [蜆](../../characters/蜆.md)
 650. [甌](../../characters/甌.md)
 651. [浙](../../characters/浙.md)
+652. [暹](../../characters/暹.md)
+653. [崴](../../characters/崴.md)
 
 
 [[../../characters/吠]] - barking DO IT

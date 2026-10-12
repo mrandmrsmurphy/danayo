@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 22
+size: 23
 radical: 山
 tags: [lookup]
 
@@ -42,13 +42,14 @@ tags: [lookup]
 ### +9 Strokes
 18. <ruby>[嵌](../../characters/嵌.md)<rt>ㄎㄚㄇ</rt></ruby> - inlay
 19. <ruby>[嵐](../../characters/嵐.md)<rt>ㄌㄚㄇ</rt></ruby> - storm
+20. <ruby>[崴](../../characters/崴.md)<rt>⺢ㄧ</rt></ruby> - bend in a mountain or river
 
 ### +10 Strokes
-20. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high
+21. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high
 
 ### +14 Strokes
-21. <ruby>[屿](../../characters/屿.md)<rt>ㄙ⼄</rt></ruby> - islet
-22. <ruby>[嶺](../../characters/嶺.md)<rt>ㄌㄧㄫ</rt></ruby> - mountain range
+22. <ruby>[屿](../../characters/屿.md)<rt>ㄙ⼄</rt></ruby> - islet
+23. <ruby>[嶺](../../characters/嶺.md)<rt>ㄌㄧㄫ</rt></ruby> - mountain range
 
 ## Data check
 ```dataview

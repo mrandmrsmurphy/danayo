@@ -1,7 +1,7 @@
 ---
 stroke_count: 16
 date-last-perfect: 2026-10-03
-size: 150
+size: 151
 tags:
   - lookup
 ---
@@ -35,7 +35,7 @@ tags:
 - 2-13-3: <ruby>[[墾]]<rt>ㄎㄚㄋ</rt></ruby>, <ruby>[[壁 (char)|壁]]<rt>ㄅㄝㄎ</rt></ruby>
 - 2-14-2: <ruby>[[興 (char)|興]]<rt>ㄏㄜㄫ</rt></ruby>
 - 3-3-13: <ruby>[[還]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[磨 (char)|磨]]<rt>ㄇㄚ</rt></ruby>, <ruby>[[避 (char)|避]]<rt>ㄅㄝ</rt></ruby>
-- 3-4-12: <ruby>[[盧]]<rt>ㄌㄛ</rt></ruby>
+- 3-4-12: <ruby>[[盧]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[暹]]<rt>ㄙㄝㄇ</rt></ruby>
 - 3-7-9: <ruby>[[麺 (char)|麺]]<rt>ㄇㄝㄋ</rt></ruby>
 - 3-8-8: <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby>, <ruby>[[䦧 (char)|䦧]]<rt>ㄏㄝㄎ</rt></ruby>
 

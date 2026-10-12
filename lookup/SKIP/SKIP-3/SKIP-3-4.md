@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 43
+size: 44
 tags: [lookup]
 
 ---
@@ -17,7 +17,7 @@ tags: [lookup]
 9. [SKIP-3-4-9](lookup/SKIP/SKIP-3/SKIP-3-4-9.md): 虜, 虞, 逾, 遊, 過, 遒
 10. [SKIP-3-4-10](lookup/SKIP/SKIP-3/SKIP-3-4-10.md): ø
 11. [SKIP-3-4-11](lookup/SKIP/SKIP-3/SKIP-3-4-11.md): 膚, 適
-12. [SKIP-3-4-12](lookup/SKIP/SKIP-3/SKIP-3-4-12.md): 盧
+12. [SKIP-3-4-12](lookup/SKIP/SKIP-3/SKIP-3-4-12.md): 盧, 暹
 13. [SKIP-3-4-13](lookup/SKIP/SKIP-3/SKIP-3-4-13.md): 遽, 邁
 14. [SKIP-3-4-14](lookup/SKIP/SKIP-3/SKIP-3-4-14.md): ø
 15. [SKIP-3-4-15](lookup/SKIP/SKIP-3/SKIP-3-4-15.md): ø

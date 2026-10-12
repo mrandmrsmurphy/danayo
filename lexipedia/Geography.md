@@ -159,6 +159,7 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 - <ruby>[瑞士](../words/瑞士.md)<rt>ㄙ⼔ㄙㄚㄧ</rt></ruby>: Switzerland
 - <ruby>[波蘭](../words/波蘭.md)<rt>ㄅㄚㄌㄚㄋ</rt></ruby>: Poland
 - <ruby>[露斯亜](../words/露斯亜.md)<rt>ㄌㄛㄙㄧㄚ</rt></ruby>, also <ruby>[露国](../words/露国.md)<rt>ㄌㄛㄍㄛㄎ</rt></ruby>: Russia
+  - <ruby>[海参崴](../words/海参崴.md)<rt>ㄏㄚㄧㄙㄚㄇ⺢ㄧ</rt></ruby>: Vladivostok, the port city of the Russian Far East, on the Sea of Japan; its bay is <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>.
 - <ruby>[瑞典](../words/瑞典.md)<rt>ㄙ⼔ㄉㄝㄋ</rt></ruby>: Sweden
 - <ruby>[芬蘭](../words/芬蘭.md)<rt>ㄈㄨㄋㄌㄚㄋ</rt></ruby>: Finland
 - <ruby>[丹麦](../words/丹麦.md)<rt>ㄉㄚㄋㄇㄚㄎ</rt></ruby>: Denmark

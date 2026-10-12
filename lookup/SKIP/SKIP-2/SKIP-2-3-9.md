@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-09-24
 stroke_count: 12
-size: 24
+size: 25
 skip_number: 2-3-9
 tags:
   - lookup
@@ -34,6 +34,7 @@ tags:
 22. <ruby>[葬](characters/葬.md)<rt>ㄐㄚㄫ</rt></ruby> "inter"
 23. <ruby>[葱](characters/葱.md)<rt>ㄑㄛㄫ</rt></ruby> "onion"
 24. <ruby>[韮](characters/韮.md)<rt>ㄍ⼜</rt></ruby> "chive"
+25. <ruby>[崴](characters/崴.md)<rt>⺢ㄧ</rt></ruby> "bend in a mountain or river"
 
 ## Datacheck
 ```dataview

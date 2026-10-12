@@ -91,3 +91,4 @@ boundedness: 75
 
 ## Derived Characters
 - <ruby>[[仙]]<rt>ㄙ⼶ㄋ</rt></ruby> "xian, fairy"
+- <ruby>[[崴]]<rt>⺢ㄧ</rt></ruby> "bend (of a mountain or river)"
