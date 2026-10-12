@@ -41,6 +41,7 @@ status: partial
 ### Cities and districts
 - <ruby>[東京](../words/東京.md)<rt>ㄉㄛㄫㄍ⼶ㄫ</rt></ruby>: Tokyo, the capital of Japan — lit. "eastern capital."
 - <ruby>[鎌倉](../words/鎌倉.md)<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby>: Kamakura, the coastal city south of Tokyo that was the seat of the first Japanese shogunate (1185–1333).
+- <ruby>[深川](../words/深川.md)<rt>ㄙㄧㄇㄑ⺢ㄋ</rt></ruby>: Fukagawa, a district of Kōtō ward in Tokyo, once a ward of its own, and also a city in Hokkaido and a place in Nagato, Yamaguchi, and a surname; the same spelling is Shenzhen in China (real spelling 深圳), listed on [China](China.md).
 - <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
 - <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
 - <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).

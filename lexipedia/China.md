@@ -95,6 +95,7 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 
 **South**
 - <ruby>[広州](../words/広州.md)<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby> (also written <ruby>廣州<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby>, <ruby>广州<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby>): Guangzhou, capital of Guangdong; not the same word as the Korean city Gwangju, listed on Korea.
+- <ruby>[深川](../words/深川.md)<rt>ㄙㄧㄇㄑ⺢ㄋ</rt></ruby>: Shenzhen, a special economic zone city of Guangdong adjoining Hong Kong (not the capital); the real Chinese spelling is 深圳, which is not used here because the character 圳 has no page, so the Dan'a'yo spelling uses 深川; the same spelling is Fukagawa in Japan, listed on [Japan](Japan.md).
 - <ruby>[南寧](../words/南寧.md)<rt>ㄋㄚㄇㄋㄝㄫ</rt></ruby> (also written <ruby>南宁<rt>ㄋㄚㄇㄋㄝㄫ</rt></ruby>): Nanning, capital of Guangxi.
 - <ruby>[海口](../words/海口.md)<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby>: Haikou, capital of Hainan; also a common noun for a river mouth or seaport, listed on Water.
 
