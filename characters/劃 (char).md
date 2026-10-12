@@ -34,7 +34,7 @@ stand_in: 劃
 aliases:
   - 划
 注音: ㄏ⺢ㄎ
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
@@ -47,7 +47,7 @@ boundedness: 100
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*qʰʷreːɡ): semantic [[Radical 018|刂]] ("knife") + phonetic [畫](画.md) (OC \*ɡʷreːɡs) — to cut a dividing line; to demarcate, plan out.
+- 形声 (OC \*qʰʷreːɡ): semantic [[Radical 018|刂]] ("knife") + phonetic [画](../characters/画.md) (OC \*ɡʷreːɡs) — to cut a dividing line; to demarcate, plan out.
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
 - [SKIP-1-12-2](../lookup/SKIP/SKIP-1/SKIP-1-12-2.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 5823rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 麥合|ɣwɛk]] → [ㄏ⺢ㄎ](../syllables/ㄏ⺢ㄎ.md)

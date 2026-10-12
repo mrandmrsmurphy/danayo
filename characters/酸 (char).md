@@ -30,7 +30,7 @@ stand_in: 酸
 aliases:
   - 夋
 注音: ㄙ⺢ㄋ
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
