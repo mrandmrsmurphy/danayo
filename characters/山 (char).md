@@ -73,6 +73,7 @@ boundedness: 75
 - <ruby>[[釜山]]<rt>ㄅㄨㄙㄚㄋ</rt></ruby> "Busan"
 - <ruby>[[蔚山]]<rt>ㄨㄊㄙㄚㄋ</rt></ruby> "Ulsan"
 - <ruby>[[山西]]<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby> "Shanxi; Son Tay"
+- <ruby>[[山東]]<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby> "Shandong"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

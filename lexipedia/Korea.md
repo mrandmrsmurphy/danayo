@@ -68,6 +68,13 @@ Seven cities have a status of their own. Six of them are <ruby>[廣域](../words
 - <ruby>[蔚山](../words/蔚山.md)<rt>ㄨㄊㄙㄚㄋ</rt></ruby><ruby>廣域<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 울산광역시) — Ulsan
 - <ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby><ruby>特別<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby><ruby>自治<rt>ㄐㄧㄜㄑㄧ</rt></ruby><ruby>市<rt>ㄙㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 세종특별자치시) — Sejong, the administrative capital, named for the king
 
+## Counties and regions
+Places whose Korean names are written with the same characters as a Chinese province; each is also listed on [China](China.md).
+
+- <ruby>[海南](../words/海南.md)<rt>ㄏㄚㄧ·ㄋㄚㄇ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 해남) — Haenam, a county of South Jeolla in the south-west; the same spelling is Hainan in China
+- <ruby>[湖南](../words/湖南.md)<rt>ㄏㄛㄨ·ㄋㄚㄇ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 호남) — Honam, the south-western region of South Korea (the Jeolla provinces, from memory, not re-checked); the same spelling is Hunan in China
+- <ruby>[江西](../words/江西.md)<rt>ㄍㄚㄫㄙㄝㄧ</rt></ruby> (<ruby>諺文<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: 강서) — Gangseo, a district of Seoul (from memory, not re-checked), and Kangsŏ, a ward of Namp'o in North Korea; the same spelling is Jiangxi in China
+
 ## Script and Language
 - <ruby>[韓国語](../words/韓国語.md)<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>: Korean language (South).
 - <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>: Korean (language), the short Sinitic name beside the full <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby> (homophone of <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>).

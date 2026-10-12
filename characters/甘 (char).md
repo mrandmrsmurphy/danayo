@@ -54,6 +54,7 @@ boundedness: 60
 - <ruby>[[甘味]]<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby> "sweetness, sweet taste"
 - <ruby>[[甘蕉]]<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby> "banana; plantain"
 - <ruby>[[炉甘金]]<rt>ㄌㄛㄍㄚㄇㄍㄧㄇ</rt></ruby> "cadmium"
+- <ruby>[[甘粛]]<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby> "Gansu"
 
 ## Derived Characters
 - <ruby>[[紺 (char)|紺]]<rt>ㄍㄚㄇ</rt></ruby> "navy blue"

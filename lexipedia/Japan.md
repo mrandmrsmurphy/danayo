@@ -44,6 +44,10 @@ status: partial
 - <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
 - <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
 - <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
+- <ruby>[海南](../words/海南.md)<rt>ㄏㄚㄧ·ㄋㄚㄇ</rt></ruby>: Kainan, a city in Wakayama Prefecture, and an alternative name of Shikoku; also a common noun for the southern sea, listed on [Water](Water.md); the same spelling is Hainan in China, listed on [China](China.md).
+- <ruby>[河北](../words/河北.md)<rt>ㄏㄚㄅㄨㄎ</rt></ruby>: Kahoku, a city in Ishikawa Prefecture and a town in Yamagata Prefecture; the same spelling is Hebei in China, listed on [China](China.md).
+- <ruby>[湖南](../words/湖南.md)<rt>ㄏㄛㄨ·ㄋㄚㄇ</rt></ruby>: Konan, a city in Shiga Prefecture; also a common noun for the south side of a lake, listed on [Water](Water.md); the same spelling is Hunan in China, listed on [China](China.md), and Honam in Korea, listed on [Korea](Korea.md).
+- <ruby>[雲南](../words/雲南.md)<rt>ㄨㄋㄋㄚㄇ</rt></ruby>: Unnan, a city in Shimane Prefecture, whose name is a clipping of Izumo plus "south"; the same spelling is Yunnan in China, listed on [China](China.md).
 
 ### Historical places
 - <ruby>[江戸](../words/江戸.md)<rt>ㄍㄚㄫㄏㄛ</rt></ruby>: Edo, the castle town that Tokugawa Ieyasu made his base in 1590 and the seat of the shogunate from 1603, and one of the largest cities in the world by the eighteenth century; the name is first attested in the Azuma Kagami.
@@ -51,6 +55,7 @@ status: partial
 - <ruby>[室町](../words/室町.md)<rt>ㄙㄧㄊㄊㄝㄫ</rt></ruby>: Muromachi, the Kyoto district of the Ashikaga shoguns' residence, which gave its name to the Muromachi period (1336–1573); a native Japanese place name read むろまち.
 - <ruby>[桃山](../words/桃山.md)<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby>: Momoyama, a hill in the Fushimi area of southern Kyoto where Toyotomi Hideyoshi built Fushimi Castle in 1594; it lent its name to the Momoyama period, though the name is younger than the period it names.
 - <ruby>[大和](../words/大和.md)<rt>ㄉㄚㄧㄏ⺢</rt></ruby>: Yamato.
+- <ruby>[山東](../words/山東.md)<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby>: Santō, an obsolete Japanese name for the region east of the Rocky Mountains in the United States; the same spelling is Shandong in China, listed on [China](China.md).
 
 ## Language and Script
 - <ruby>[日本語](../words/日本語.md)<rt>ㄋㄧㄊㄅㄛㄋ·⼄</rt></ruby>: Japanese (language), the full name, country + <ruby>語<rt>⼄</rt></ruby> (beside the short Sinitic <ruby>[日語](../words/日語.md)<rt>ㄋㄧㄊ⼄</rt></ruby>).

@@ -61,6 +61,7 @@ boundedness: 100
 - <ruby>[[黒洞]]<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby> "blackhole"
 - <ruby>[[黒猩]]<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby> "chimpanzee"
 - <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium"
+- <ruby>[[黒龍江]]<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby> "Amur River; Heilongjiang"
 
 ## Derived Characters
 - <ruby>[[黙]]<rt>ㄇㄨㄎ</rt></ruby> "quiet, still, dark"

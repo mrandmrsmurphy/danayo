@@ -57,6 +57,7 @@ boundedness: 40
 - <ruby>[[林雨]]<rt>ㄌㄧㄇ·ㄨ</rt></ruby> "big rain (alias 霖雨) — long spell of rain, favor from the monarch"
 - <ruby>[[叢林]]<rt>ㄐㄛㄫㄌㄧㄇ</rt></ruby> "jungle; bush"
 - <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious" (uses 林 as Dan'a'yo stand-in for its alias 婪)
+- <ruby>[[吉林]]<rt>ㄍㄧㄊㄌㄧㄇ</rt></ruby> "Jilin"
 
 ## Chengyu
 - <ruby>[[水泥叢林]]<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> "concrete jungle"

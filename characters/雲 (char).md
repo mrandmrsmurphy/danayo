@@ -51,6 +51,7 @@ boundedness: 80
 - <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby> "cloud" (stand-in for 雲)
 - <ruby>[[雲呑]]<rt>ㄨㄋㄊㄚㄋ</rt></ruby> "wontons"
 - <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
+- <ruby>[[雲南]]<rt>ㄨㄋㄋㄚㄇ</rt></ruby> "Yunnan; Unnan"
 
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"

@@ -53,6 +53,9 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[川](../words/川.md)<rt>ㄑ⺢ㄋ</rt></ruby>: river.
 - <ruby>[大河](../words/大河.md)<rt>ㄉㄚㄧㄏㄚ</rt></ruby>: a big river — also the Yellow River in older usage.
 - <ruby>[大江](../words/大江.md)<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby>: a big river; the Yangtze.
+- <ruby>[黒龍江](../words/黒龍江.md)<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby>: the Amur River, on the border between China and Russia; the same spelling is the Chinese province Heilongjiang, listed on [China](China.md).
+- <ruby>[青海](../words/青海.md)<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby>: Qinghai Lake (Kokonor), the large salt lake of western China; the same spelling is the Chinese province Qinghai, listed on [China](China.md).
+- <ruby>[湖南](../words/湖南.md)<rt>ㄏㄛㄨ·ㄋㄚㄇ</rt></ruby>: the south side of a lake — a Japanese common noun (literally "lake south"), usually the south of Lake Biwa; the same spelling is the Chinese province Hunan, listed on [China](China.md).
 - <ruby>[瀑布](../words/瀑布.md)<rt>ㄅㄛㄎㄅㄛ</rt></ruby>: a waterfall, cataract, cascade.
 - <ruby>[暗礁](../words/暗礁.md)<rt>ㄚㄇㄐㄚㄨ</rt></ruby>: a submerged reef; a hidden obstacle.
 - <ruby>[湧](../words/湧.md)<rt>⼄ㄫ</rt></ruby>: to gush, rush up.
@@ -113,6 +116,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[浦](../words/浦.md)<rt>ㄆㄛ</rt></ruby>: riverbank, shore — a near-duplicate of [[岸]]/[[浜]], but also extends to "river mouth, delta," resolving this page's own previously-flagged "delta" gap.
 - <ruby>[畔](../words/畔.md)<rt>ㄅㄚㄋ</rt></ruby>: ridge, boundary — another near-duplicate of [[岸]]/[[浜]] in its common "waterside" extension (湖畔, "lakeside"; 河畔, "riverside"), though its root sense is a field-ridge boundary rather than a water's edge specifically.
 - <ruby>[海口](../words/海口.md)<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby>: river mouth, estuary; seaport — a Chinese common noun (literally "sea mouth"), also figuratively "to boast"; the same spelling is the city of Haikou, listed on [China](../lexipedia/China.md).
+- <ruby>[海南](../words/海南.md)<rt>ㄏㄚㄧ·ㄋㄚㄇ</rt></ruby>: the southern sea and the coastal land beside it — a Japanese common noun (literally "sea south"); the same spelling is the Chinese island and province Hainan, listed on [China](China.md).
 
 ### Islands
 

@@ -54,6 +54,8 @@ boundedness: 80
 ## Words
 - <ruby>[[吉祥]]<rt>ㄍㄧㄊㄙㄚㄫ</rt></ruby> "auspicious"
 - <ruby>[[英吉利]]<rt>ㄝㄫㄍㄧㄊㄌㄧㄜ</rt></ruby> "England (dated)"
+- <ruby>[[吉林]]<rt>ㄍㄧㄊㄌㄧㄇ</rt></ruby> "Jilin"
+
 ## Derived Characters
 - <ruby>[[結 (char)|結]]<rt>ㄍㄝㄊ</rt></ruby> "tie, join"
 - <ruby>[[桔]]<rt>ㄍㄝㄊ</rt></ruby> "balloon flower"

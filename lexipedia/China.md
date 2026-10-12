@@ -18,6 +18,44 @@ The four direct-administered municipalities, <ruby>直轄市<rt>ㄐㄧㄊㄏㄚ�
 - <ruby>[天津](../words/天津.md)<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby>: Tianjin.
 - <ruby>[重慶](../words/重慶.md)<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby>: Chongqing.
 
+### Provinces
+The provinces of China, grouped by region as in the city list below, each given without the final <ruby>[省](../words/省.md)<rt>ㄙ⼶ㄫ</rt></ruby> that the full Chinese names add (in Dan'a'yo <ruby>省<rt>ㄙ⼶ㄫ</rt></ruby> itself means "government ministry"). Where a name is also an older region, a lake or river, or a place in Japan or Korea, that is noted and the other sense is listed on its own page. Variant spellings (traditional, simplified, or the real-world form) are given as "also written".
+
+**Northeast**
+- <ruby>[黒龍江](../words/黒龍江.md)<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby> (also written <ruby>黑龍江<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby>, <ruby>黑龙江<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby>, <ruby>黒竜江<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby>): Heilongjiang, in the far northeast; also the Amur River, listed on Water.
+- <ruby>[吉林](../words/吉林.md)<rt>ㄍㄧㄊㄌㄧㄇ</rt></ruby>: Jilin; also a city of the province (not the capital).
+- <ruby>[遼寧](../words/遼寧.md)<rt>ㄌ⼘ㄨ·ㄋㄝㄫ</rt></ruby> (also written <ruby>辽宁<rt>ㄌ⼘ㄨ·ㄋㄝㄫ</rt></ruby>, <ruby>遼甯<rt>ㄌ⼘ㄨ·ㄋㄝㄫ</rt></ruby>): Liaoning.
+
+**North**
+- <ruby>[河北](../words/河北.md)<rt>ㄏㄚㄅㄨㄎ</rt></ruby>: Hebei, the province around Beijing and Tianjin; also a historical region and a district of Tianjin, and the same spelling is Kahoku in Japan, listed on Japan.
+- <ruby>[山西](../words/山西.md)<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby>: Shanxi, a province of northern China; the same spelling is Son Tay in Vietnam, listed on Vietnam.
+
+**East**
+- <ruby>[江蘇](../words/江蘇.md)<rt>ㄍㄚㄫㄙㄛ</rt></ruby> (also written <ruby>江苏<rt>ㄍㄚㄫㄙㄛ</rt></ruby>): Jiangsu.
+- <ruby>[安徽](../words/安徽.md)<rt>ㄚㄋㄏㄨㄧ</rt></ruby>: Anhui.
+- <ruby>[福建](../words/福建.md)<rt>ㄈㄨㄎㄍㄝㄋ</rt></ruby>: Fujian.
+- <ruby>[江西](../words/江西.md)<rt>ㄍㄚㄫㄙㄝㄧ</rt></ruby>: Jiangxi; the same spelling is Gangseo in Korea, listed on Korea.
+- <ruby>[山東](../words/山東.md)<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby> (also written <ruby>山东<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby>): Shandong; also a historical region east of the mountains, and an obsolete Japanese name, listed on Japan.
+
+**Central**
+- <ruby>[河南](../words/河南.md)<rt>ㄏㄚ·ㄋㄚㄇ</rt></ruby>: Henan, a province of central China; the same spelling is Ha Nam in Vietnam, listed on Vietnam.
+- <ruby>[湖北](../words/湖北.md)<rt>ㄏㄛㄨㄅㄨㄎ</rt></ruby>: Hubei.
+- <ruby>[湖南](../words/湖南.md)<rt>ㄏㄛㄨ·ㄋㄚㄇ</rt></ruby>: Hunan; the same spelling is Konan in Japan and Honam in Korea, listed on Japan and Korea, and a Japanese common noun "the south side of a lake", listed on Water.
+
+**South**
+- <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby> (also written <ruby>廣東<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>, <ruby>广东<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>): Guangdong, Canton.
+- <ruby>[海南](../words/海南.md)<rt>ㄏㄚㄧ·ㄋㄚㄇ</rt></ruby>: Hainan, the island province of the far south; the same spelling is Kainan in Japan and Haenam in Korea, listed on Japan and Korea, and a Japanese common noun "the southern sea", listed on Water.
+
+**Southwest**
+- <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
+- <ruby>[貴州](../words/貴州.md)<rt>ㄍㄨㄧㄐㄨㄛ</rt></ruby> (also written <ruby>贵州<rt>ㄍㄨㄧㄐㄨㄛ</rt></ruby>): Guizhou.
+- <ruby>[雲南](../words/雲南.md)<rt>ㄨㄋㄋㄚㄇ</rt></ruby> (also written <ruby>云南<rt>ㄨㄋㄋㄚㄇ</rt></ruby>): Yunnan; the same spelling is Unnan in Japan, listed on Japan.
+
+**Northwest**
+- <ruby>[陝西](../words/陝西.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby> (also written <ruby>陕西<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>, <ruby>陜西<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>): Shaanxi; not the same word as Shanxi, which has a different first syllable, but the same sound as <ruby>[繊細](../words/繊細.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby> "delicate", listed on Valuation.
+- <ruby>[甘粛](../words/甘粛.md)<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby> (also written <ruby>甘肅<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby>, <ruby>甘肃<rt>ㄍㄚㄇㄙㄨㄎ</rt></ruby>): Gansu.
+- <ruby>[青海](../words/青海.md)<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby> (also written <ruby>靑海<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby>): Qinghai; also Qinghai Lake, listed on Water.
+
 ### Other major cities
 Major cities beyond the four municipalities, grouped by region of China (north-east, north, east, centre, south, south-west, north-west). Each is a provincial or regional capital unless noted; Hefei, Taiyuan, Xining and Urumqi are listed under Provinces and cities below. Variant spellings (traditional, simplified, or the real-world form) are given as "also written".
 
@@ -63,16 +101,12 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 - <ruby>[銀川](../words/銀川.md)<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby> (also written <ruby>银川<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby>): Yinchuan, capital of Ningxia.
 
 ### Provinces and cities
-- <ruby>[四川](../words/四川.md)<rt>ㄙㄧㄜㄑ⺢ㄋ</rt></ruby>: Sichuan.
-- <ruby>[広東](../words/広東.md)<rt>ㄍ⺢ㄫㄉㄛㄫ</rt></ruby>: Guangdong, Canton.
 - <ruby>[合肥](../words/合肥.md)<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby>: Hefei, capital of Anhui.
 - <ruby>[横店](../words/横店.md)<rt>ㄏ⺢ㄫㄉㄝㄇ</rt></ruby>: Hengdian, a town in Dongyang, Zhejiang, home of China's largest film and television studio base.
 - <ruby>[香港](../words/香港.md)<rt>ㄏ⼘ㄫㄏㄛㄫ</rt></ruby>: Hong Kong.
 - <ruby>[奥門](../words/奥門.md)<rt>ㄨㄎㄇㄛㄋ</rt></ruby>: Macau — spelled with <ruby>[奥](../words/奥.md)<rt>ㄨㄎ</rt></ruby> rather than the real-world <ruby>澳<rt>ㄨㄎ</rt></ruby>.
 - <ruby>[烏魯斉](../words/烏魯斉.md)<rt>ㄛㄌㄛㄇㄐㄝㄧ</rt></ruby>: Ürümqi.
 - <ruby>[無定河](../words/無定河.md)<rt>ㄇㄜㄐㄝㄫㄏㄚ</rt></ruby>: Wuding River.
-- <ruby>[山西](../words/山西.md)<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby>: Shanxi, a province of northern China; the same spelling is Son Tay in Vietnam, listed on Vietnam.
-- <ruby>[河南](../words/河南.md)<rt>ㄏㄚ·ㄋㄚㄇ</rt></ruby>: Henan, a province of central China; the same spelling is Ha Nam in Vietnam, listed on Vietnam.
 - <ruby>[太原](../words/太原.md)<rt>ㄊㄚㄧ⼔ㄋ</rt></ruby>: Taiyuan, the capital of Shanxi; the same spelling is Thai Nguyen in Vietnam, listed on Vietnam.
 - <ruby>[西寧](../words/西寧.md)<rt>ㄙㄝㄧㄋㄝㄫ</rt></ruby>: Xining, the capital of Qinghai; the same spelling is Tay Ninh in Vietnam, listed on Vietnam.
 - <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Guangnan, a county of Yunnan; the same spelling is Quang Nam in Vietnam, listed on Vietnam.

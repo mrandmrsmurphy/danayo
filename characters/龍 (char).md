@@ -75,6 +75,7 @@ boundedness: 70
 - <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
 - <ruby>[[龍眼]]<rt>ㄌ⼄ㄫㄚㄋ</rt></ruby> "longan"
 - <ruby>[[下龍]]<rt>ㄏㄚㄌ⼄ㄫ</rt></ruby> "Ha Long"
+- <ruby>[[黒龍江]]<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby> "Amur River; Heilongjiang"
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches, one step away from perfection"

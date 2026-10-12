@@ -71,6 +71,7 @@ date-last-perfect: 2026-08-06
 - <ruby>[[鄭州]]<rt>ㄐㄝㄫㄐㄨㄛ</rt></ruby> "Zhengzhou"
 - <ruby>[[福州]]<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby> "Fuzhou"
 - <ruby>[[蘭州]]<rt>ㄌㄚㄋㄐㄨㄛ</rt></ruby> "Lanzhou"
+- <ruby>[[貴州]]<rt>ㄍㄨㄧㄐㄨㄛ</rt></ruby> "Guizhou"
 
 ## Derived Characters
 - <ruby>[[洲 (char)|洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet"
