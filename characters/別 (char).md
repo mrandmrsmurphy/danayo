@@ -35,7 +35,7 @@ aliases:
   - 别
   - 彆
 注音: ㄅㄝㄊ
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
