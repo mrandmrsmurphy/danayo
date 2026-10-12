@@ -55,11 +55,11 @@ date-last-perfect: 2026-10-11
 - <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province; the same spelling means "great strength; vigorously", listed on Efforts.
 - <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
 - <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province; the same spelling means "the nation; a golden chalice", listed on Government.
-- <ruby>[金角](../words/金角.md)<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby>: Cam Ranh, the city on Cam Ranh Bay, <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> (Chinese sources write it <ruby>金蘭<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby>, a Dan'a'yo spelling choice); the same spelling is Jinjiao, the demon king of *Journey to the West*, listed on Animals.
+- <ruby>[金蘭](../words/金蘭.md)<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby>: Cam Ranh, the city on Cam Ranh Bay, <ruby>[金蘭湾](../words/金蘭湾.md)<rt>ㄍㄧㄇㄌㄚㄋ⺢ㄇ</rt></ruby>; the same spelling is also a literary word for "sworn brotherhood".
 - <ruby>[老街](../words/老街.md)<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby>: Lào Cai, the city and province on the border opposite Hekou in Yunnan; the same spelling means "old street; historic old town" elsewhere (see Buildings).
 
 ### Provinces and places
-- <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: Cam Ranh Bay, the deep-water bay of Khánh Hòa province (the Chinese name is <ruby>金蘭灣<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>, also <ruby>金兰湾<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>); the same spelling is the Golden Horn, listed on Geography.
+- <ruby>[金蘭湾](../words/金蘭湾.md)<rt>ㄍㄧㄇㄌㄚㄋ⺢ㄇ</rt></ruby>: Cam Ranh Bay, the deep-water bay of Khánh Hòa province.
 - <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands.
 - <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954.
 - <ruby>[富国](../words/富国.md)<rt>ㄈㄨㄛㄍㄛㄎ</rt></ruby>: Phu Quoc, Vietnam's largest island, in the Gulf of Thailand.
@@ -87,7 +87,7 @@ date-last-perfect: 2026-10-11
 
 ## Semantic Range Notes
 
-**Shared spellings.** Dan'a'yo gives one word one spelling and one reading, so a place name shared by two countries is one word with two senses, not two words. Vietnam's catalogue leans on this heavily: 李朝, 陳朝, 安南, 交址, 広南, 山西, 西寧, 太原 and 河南 are each also a Korean or Chinese name (listed on Korea and China), and 海防, 太平, 大力, 金甌, 金角, 金角湾 and 老街 are also ordinary words with a different meaning (listed on Conflict, Efforts, Government, Animals, Geography and Buildings). Context chooses the sense; Dan'a'yo does not coin a distinguishing form.
+**Shared spellings.** Dan'a'yo gives one word one spelling and one reading, so a place name shared by two countries is one word with two senses, not two words. Vietnam's catalogue leans on this heavily: 李朝, 陳朝, 安南, 交址, 広南, 山西, 西寧, 太原 and 河南 are each also a Korean or Chinese name (listed on Korea and China), and 海防, 太平, 大力, 金甌 and 老街 are also ordinary words with a different meaning (listed on Conflict, Efforts, Government and Buildings). Context chooses the sense; Dan'a'yo does not coin a distinguishing form.
 
 **Vietnamese, the language.** 越南語 is the full name and 越語 the short one, as Chinese and Korean have 漢語 and 韓語. The short form collides with 粤語 (Cantonese), since both read ⼔ㄊ⼄, so 越南語 is the safe form and 越語 is the shorthand to use only when the context rules Cantonese out. 国語 is a third word to keep apart: on this page it means quốc ngữ, the Latin-alphabet writing system, which replaced 字南 (chữ Nôm), though the same word elsewhere means a country's own language or, in Taiwan, Mandarin (see Speech).
 

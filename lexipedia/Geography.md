@@ -162,18 +162,18 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 
 ## Oceania
 <ruby>[大洋洲](words/大洋洲.md)<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of <ruby>[島屿](/words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby><ruby>[国家](words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.  
-Marine resources (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>[[資源]]) support economic life (<ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby>).  
-Population density (<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]]) is generally low.
+<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>[[資源]] support <ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>生活<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby>.  
+<ruby>[人口](words/人口.md)<rt>ㄋㄧㄋㄎㄛㄨ</rt></ruby>[[密度]] is generally low.
 
 - <ruby>[豪洲](words/豪洲.md)<rt>ㄏㄚㄨㄐㄨㄛ</rt></ruby>
 - <ruby>[新西蘭](words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>  
 - Papua New Guinea (巴布亜新幾内亜)  
 - <ruby>[非志](/words/非志.md)<rt>ㄈㄧㄐㄧ</rt></ruby>
-Island distribution (<ruby>島屿<rt>ㄊㄚㄨㄙ⼄</rt></ruby>[[分布]]) and marine routes (<ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>[[航路]]) define <ruby>地域<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
+<ruby>島屿<rt>ㄊㄚㄨㄙ⼄</rt></ruby>[[分布]] and <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>[[航路]] define <ruby>地域<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby><ruby>構造<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>.
 
 ## The Global System
 The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.  
-State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a fundamental principle (<ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]]).  
+<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]] is a <ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]].  
 <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[組織](words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
 - <ruby>[他国](../words/他国.md)<rt>ㄊㄜㄍㄛㄎ</rt></ruby>: another country, other countries — relative to a stated reference country, unlike [[外国]].
@@ -182,18 +182,18 @@ State sovereignty (<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]]) is a f
 - <ruby>[地方](../words/地方.md)<rt>ㄉㄧㄜㄈㄚㄫ</rt></ruby>: a region, territory.
 - <ruby>[諸国](../words/諸国.md)<rt>ㄐㄚㄍㄛㄎ</rt></ruby>: various countries, the nations.
 
-Economic interdependence (<ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>[[相互]][[依存]]) and communication networks ([[通信]][[網]]) connect regions globally ([[全球]][[連結]]).
+<ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>[[相互]][[依存]] and [[通信]][[網]] [[全球]][[連結]].
 
-Geography remains stable ([[地理]][[相対]]不変).  
-History continues to transform conditions ([[歴史]][[持続]][[変化]]).  
-States seek <ruby>安定<rt>ㄚㄋㄐㄝㄫ</rt></ruby> and development ([[発展]]) within changing structures ([[変動]][[構造]]).
+[[地理]] [[相対]]不変.  
+[[歴史]] [[持続]][[変化]].  
+States seek <ruby>安定<rt>ㄚㄋㄐㄝㄫ</rt></ruby> and development ([[発展]]) within [[変動]][[構造]].
 
-- United Nations ([[連合国]])  
+- [[連合国]]  
 - <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>[貿易](/words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby><ruby>組織<rt>ㄐㄛㄐㄧㄎ</rt></ruby>  
-- International Monetary Fund (<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[貨幣]][[基金]])
+- <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[貨幣]][[基金]]
 - <ruby>[域内](../words/域内.md)<rt>ㄨㄧㄎㄋㄛㄧ</rt></ruby>: within the region, intra-regional — inside a bounded area (a country, a bloc, the East Asian sphere itself); near [[区域]] and [[地域]], which name the area rather than being inside it.
 
-These institutions operate within principles of sovereignty ([[主権]][[原則]]) and multilateral negotiation ([[多辺]][[協議]]).
+These institutions operate within [[主権]][[原則]] and [[多辺]][[協議]].
 
 ### World Divisions
 #### Modern
@@ -217,12 +217,12 @@ In the modern system, the earth is divided into <ruby>大陸<rt>ㄉㄚㄧㄌㄨ�
 
 The two poles: the <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby> (South Pole, distinct from the continent [[南極洲]]) and the <ruby>[北極](../words/北極.md)<rt>ㄅㄨㄎㄍㄧㄎ</rt></ruby> (North Pole, which — unlike the South Pole — sits in open ocean, not on a continent).
 
-In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> refer to smaller regional waters such as the Mediterranean ([[地中海]]) or the South Sea ([[南海]]). This model reflects <ruby>近代<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and global cartography (世界[[地図学]]).
+In this framework, <ruby>大陸<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> designate large landmasses, <ruby>大洋<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> designate global waters, and <ruby>海洋<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby> refer to smaller regional waters such as the [[地中海]] or the [[南海]]. This model reflects <ruby>近代<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby><ruby>地理学<rt>ㄉㄧㄜㄌㄧㄏㄚㄎ</rt></ruby> and 世界[[地図学]].
 
 #### Ancient
 In ancient East Asian thought, the world was divided into the Four Seas and the Nine Provinces. Their names, the royal domain and the early states are on [China](China.md).
 
-The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from civilizational cosmology (<ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]]) to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.
+The shift from Four Seas and Nine Provinces to continents and oceans marks a transition from <ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby>[[宇宙観]] to <ruby>[全球](/words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -256,4 +256,4 @@ The shift from Four Seas and Nine Provinces to continents and oceans marks a tra
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain; alpine.
 - <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku; the world; all under heaven.
 - <ruby>[広域](../words/広域.md)<rt>ㄍ⺢ㄫㄨㄧㄎ</rt></ruby>: wide area; regional — an area spanning several local units; near [[区域]], [[地域]] and [[域内]].
-- <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: the Golden Horn, the inlet of the Bosphorus at Istanbul; also the Golden Horn Bay at Vladivostok and, by Dan'a'yo choice, Cam Ranh Bay in Vietnam (see Vietnam).
+- <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: the Golden Horn, the inlet of the Bosphorus at Istanbul; also the Golden Horn Bay at Vladivostok.
