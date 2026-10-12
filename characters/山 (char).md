@@ -83,6 +83,7 @@ boundedness: 75
 - <ruby>[[岡山]]<rt>ㄍㄚㄫㄙㄚㄋ</rt></ruby> "Okayama Prefecture"
 - <ruby>[[山口]]<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby> "Yamaguchi Prefecture"
 - <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
+- <ruby>[[檀香山]]<rt>ㄉㄚㄋㄏ⼘ㄫㄙㄚㄋ</rt></ruby> "Honolulu"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

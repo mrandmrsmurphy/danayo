@@ -51,3 +51,4 @@ date-last-perfect: 2026-08-06
 ## Words
 - <ruby>[[珍]]<rt>ㄑㄧㄋ</rt></ruby> "rare" (stand-in for 珍 (char))
 - <ruby>[[珍珠]]<rt>ㄑㄧㄋㄐㄨ</rt></ruby> "pearl"
+- <ruby>[[永珍]]<rt>ㄨㄧㄫㄑㄧㄋ</rt></ruby> "Vientiane"

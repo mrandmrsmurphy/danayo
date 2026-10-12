@@ -1,5 +1,5 @@
 ---
-language: 単亜語
+language: English
 type: lexipedia
 domain: Geography
 related_domains:
@@ -110,18 +110,26 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
   - <ruby>[暹羅](../words/暹羅.md)<rt>ㄙㄝㄇㄌㄛ</rt></ruby>: Siam, the former name of Thailand.
   - <ruby>[暹京](../words/暹京.md)<rt>ㄙㄝㄇㄍ⼶ㄫ</rt></ruby>: Bangkok, the capital of Thailand, by its obsolete Chinese name.
 - <ruby>[面田](../words/面田.md)<rt>ㄇ⼶ㄋㄉㄝㄋ</rt></ruby>: Myanmar
+  - <ruby>[仰光](../words/仰光.md)<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby>: Yangon, the largest city of Myanmar.
 - <ruby>[高綿](../words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>: Cambodia
   - <ruby>[金辺](../words/金辺.md)<rt>ㄍㄧㄇㄅㄝㄋ</rt></ruby>: Phnom Penh, the capital of Cambodia.
 - <ruby>[寮国](../words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>: Laos
+  - <ruby>[永珍](../words/永珍.md)<rt>ㄨㄧㄫㄑㄧㄋ</rt></ruby>: Vientiane, the capital of Laos.
 - <ruby>[馬来西亜](../words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby>: Malaysia
+  - <ruby>[婆羅](../words/婆羅.md)<rt>ㄅㄚㄌㄛ</rt></ruby>: Borneo, the island shared by Malaysia, Brunei and Indonesia.
+- <ruby>[文莱](../words/文莱.md)<rt>ㄇㄨㄋㄌㄚㄧ</rt></ruby>: Brunei, the sultanate on the north coast of <ruby>[婆羅](../words/婆羅.md)<rt>ㄅㄚㄌㄛ</rt></ruby>.
   - <ruby>[檳榔屿](../words/檳榔屿.md)<rt>ㄅㄧㄋㄌㄚㄫㄙ⼄</rt></ruby>: Penang, the island and state of Malaysia; the same spelling is Binlang Islet, an islet of <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby> in Taiwan.
   - <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: Surabaya, the city of East Java; the same spelling is the Si River and the county of Sishui in Shandong, listed on China.
 - <ruby>[新嘉浦](../words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby>, also <ruby>[獅城](../words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> and <ruby>[星洲](../words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>: Indonesia
   - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
+  - <ruby>[椰城](../words/椰城.md)<rt>⼘ㄙㄧㄫ</rt></ruby>: Jakarta, the capital of Indonesia, by its dated Chinese name "coconut city".
   - <ruby>[爪哇](../words/爪哇.md)<rt>ㄐ⺢ㄨ⺢ㄨ</rt></ruby>: Java, the island of Indonesia; the capital of East Java is <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>.
   - <ruby>[旧港](../words/旧港.md)<rt>ㄍ⼜ㄛㄏㄛㄫ</rt></ruby>: Palembang, the old Chinese name of the city in South Sumatra.
 - <ruby>[菲律賓](../words/菲律賓.md)<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>: Philippines
+  - <ruby>[呂宋](../words/呂宋.md)<rt>ㄌ⼄ㄙㄛㄫ</rt></ruby>: Luzon, the largest island of the Philippines; archaically the whole country, and formerly Manila.
+  - <ruby>[民埠](../words/民埠.md)<rt>ㄇㄧㄋㄅㄨ</rt></ruby>: Manila, the capital of the Philippines.
+  - <ruby>[蘇祿](../words/蘇祿.md)<rt>ㄙㄛㄌㄛㄎ</rt></ruby>: Sulu, the province of the Philippines and the historical Sultanate of Sulu.
 
 #### <ruby>[南亜](../words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby>
 <ruby>[南亜](../words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
@@ -179,6 +187,7 @@ The Sahara and the <ruby>[尼羅河](../words/尼羅河.md)<rt>ㄋㄧㄜㄌㄛ�
 #### <ruby>[北美](../words/北美.md)<rt>ㄅㄨㄎㄇㄧ</rt></ruby>
 - <ruby>[美国](../words/美国.md)<rt>ㄇㄧㄍㄛㄎ</rt></ruby>: America
   - <ruby>[旧金山](../words/旧金山.md)<rt>ㄍ⼜ㄛㄍㄧㄇㄙㄚㄋ</rt></ruby>: San Francisco, lit. "Old Gold Mountain," a Gold Rush-era calque (compare <ruby>[金山](../words/金山.md)<rt>ㄍㄧㄇㄙㄚㄋ</rt></ruby>); a city, not a country.
+  - <ruby>[檀香山](../words/檀香山.md)<rt>ㄉㄚㄋㄏ⼘ㄫㄙㄚㄋ</rt></ruby>: Honolulu, the capital of Hawaii; a city, not a country.
 - <ruby>[珈拿陀](../words/珈拿陀.md)<rt>ㄎㄚ·ㄋㄚㄉㄚ</rt></ruby>: Canada
 - <ruby>[墨西哥](../words/墨西哥.md)<rt>ㄇㄨㄎㄙㄝㄧㄍㄜ</rt></ruby>: Mexico
 

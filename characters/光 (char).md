@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[陽光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "sunshine; sunlight"
 - <ruby>[[閃光]]<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby> "flash of light; glint"
 - <ruby>[[光州]]<rt>ㄎ⺢ㄫㄐㄨㄛ</rt></ruby> "Gwangju"
+- <ruby>[[仰光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "Yangon"
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
