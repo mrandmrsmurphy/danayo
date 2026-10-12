@@ -125,6 +125,7 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 - <ruby>[支那](../words/支那.md)<rt>ㄐㄝ·ㄋㄚ</rt></ruby>: "Zhina," an old name for China.
 
 ### Historical states
+- <ruby>[平城](../words/平城.md)<rt>ㄅ⼶ㄫㄙㄧㄫ</rt></ruby>: Pingcheng, the Northern Wei capital (now Datong); also Heijō in Japan and Pyongsong in North Korea, see Japan and Korea.
 - <ruby>[斉国](../words/斉国.md)<rt>ㄐㄝㄧㄍㄛㄎ</rt></ruby>: the state of Qi.
 - <ruby>[鄭国](../words/鄭国.md)<rt>ㄐㄝㄫㄍㄛㄎ</rt></ruby>: Zheng, a minor state of the Zhou period in what is now Henan, whose "Airs of Zheng" survive in the <ruby>[詩経](../words/詩経.md)<rt>ㄙㄧㄍㄝㄫ</rt></ruby> and whose name gave the surname <ruby>鄭<rt>ㄐㄝㄫ</rt></ruby>; a historical state, not a modern country.
 - <ruby>[蜀国](../words/蜀国.md)<rt>ㄙㄛㄎㄍㄛㄎ</rt></ruby>: Shu, the kingdom centred on the Sichuan basin — the generic name for several historical states there (the early Shu conquered by Qin, Shu-Han of the Three Kingdoms, and the Five Dynasties Shu kingdoms); a historical state, not a modern country.

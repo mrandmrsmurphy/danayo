@@ -69,3 +69,4 @@ boundedness: 80
 - <ruby>[[偪陽]]<rt>ㄆㄧㄆ·⼘ㄫ</rt></ruby> "Fuyang (ancient state)"
 - <ruby>[[沈陽]]<rt>ㄑㄧㄇ·⼘ㄫ</rt></ruby> "Shenyang"
 - <ruby>[[貴陽]]<rt>ㄍㄨㄧ⼘ㄫ</rt></ruby> "Guiyang"
+- <ruby>[[高陽]]<rt>ㄍㄚㄨ⼘ㄫ</rt></ruby> "Goyang"

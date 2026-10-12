@@ -51,6 +51,9 @@ date-last-perfect: 2026-08-09
 ## Words
 - <ruby>[[浦]]<rt>ㄆㄛ</rt></ruby> "riverbank, shore" (stand-in for 浦)
 - <ruby>[[新嘉浦]]<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby> "Singapore"
+- <ruby>[[南浦]]<rt>ㄋㄚㄇㄆㄛ</rt></ruby> "Nampo"
+- <ruby>[[浦項]]<rt>ㄆㄛㄏㄚㄫ</rt></ruby> "Pohang"
+- <ruby>[[木浦]]<rt>ㄇㄛㄎㄆㄛ</rt></ruby> "Mokpo"
 
 ## Derived Characters
 - [[蒲]]

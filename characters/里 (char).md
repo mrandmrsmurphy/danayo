@@ -54,6 +54,7 @@ boundedness: 100
 - <ruby>[[里芋]]<rt>ㄌㄧㄨ</rt></ruby> "taro"
 - <ruby>[[居里金]]<rt>ㄍㄧㄌㄧㄍㄧㄇ</rt></ruby> "curium" — a phonosemantic coinage (里, the word's second character, since 居 is reserved for other uses)
 - <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> "mile"
+- <ruby>[[沙里院]]<rt>ㄙㄚㄌㄧ⼔ㄋ</rt></ruby> "Sariwon"
 
 ## Chengyu
 - <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"

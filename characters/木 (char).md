@@ -72,6 +72,7 @@ boundedness: 40
 - <ruby>[[梨木]]<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby> "pear tree"
 - <ruby>[[草木]]<rt>ㄑㄚㄨㄇㄛㄎ</rt></ruby> "greenery; plants; vegetation"
 - <ruby>[[藍木]]<rt>ㄌㄚㄇㄇㄛㄎ</rt></ruby> "indigo; anil"
+- <ruby>[[木浦]]<rt>ㄇㄛㄎㄆㄛ</rt></ruby> "Mokpo"
 ## Chengyu
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜·ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 ## Derived Characters

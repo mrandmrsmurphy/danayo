@@ -54,3 +54,4 @@ date-last-perfect: 2026-08-07
 
 ## Words
 - <ruby>[[項]]<rt>ㄏㄚㄫ</rt></ruby> "nape, item" (stand-in for 項)
+- <ruby>[[浦項]]<rt>ㄆㄛㄏㄚㄫ</rt></ruby> "Pohang"

@@ -50,6 +50,7 @@ status: partial
 - <ruby>[雲南](../words/雲南.md)<rt>ㄨㄋㄋㄚㄇ</rt></ruby>: Unnan, a city in Shimane Prefecture, whose name is a clipping of Izumo plus "south"; the same spelling is Yunnan in China, listed on [China](China.md).
 
 ### Historical places
+- <ruby>[平城](../words/平城.md)<rt>ㄅ⼶ㄫㄙㄧㄫ</rt></ruby>: Heijō, the Nara-period capital (平城京); the same spelling is Pingcheng in China, listed on [China](China.md), and Pyongsong in North Korea.
 - <ruby>[江戸](../words/江戸.md)<rt>ㄍㄚㄫㄏㄛ</rt></ruby>: Edo, the castle town that Tokugawa Ieyasu made his base in 1590 and the seat of the shogunate from 1603, and one of the largest cities in the world by the eighteenth century; the name is first attested in the Azuma Kagami.
 - <ruby>[安土](../words/安土.md)<rt>ㄚㄋㄊㄛ</rt></ruby>: Azuchi, a hill on the eastern shore of Lake Biwa in Shiga Prefecture, site of Oda Nobunaga's Azuchi Castle (begun 1576); a native Japanese place name read あづち.
 - <ruby>[室町](../words/室町.md)<rt>ㄙㄧㄊㄊㄝㄫ</rt></ruby>: Muromachi, the Kyoto district of the Ashikaga shoguns' residence, which gave its name to the Muromachi period (1336–1573); a native Japanese place name read むろまち.

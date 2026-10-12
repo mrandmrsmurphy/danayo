@@ -72,6 +72,12 @@ date-last-perfect: 2026-08-06
 - <ruby>[[福州]]<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby> "Fuzhou"
 - <ruby>[[蘭州]]<rt>ㄌㄚㄋㄐㄨㄛ</rt></ruby> "Lanzhou"
 - <ruby>[[貴州]]<rt>ㄍㄨㄧㄐㄨㄛ</rt></ruby> "Guizhou"
+- <ruby>[[新義州]]<rt>ㄙㄧㄋㄜㄧㄐㄨㄛ</rt></ruby> "Sinuiju"
+- <ruby>[[海州]]<rt>ㄏㄚㄧㄐㄨㄛ</rt></ruby> "Haeju"
+- <ruby>[[清州]]<rt>ㄑㄧㄫㄐㄨㄛ</rt></ruby> "Cheongju"
+- <ruby>[[全州]]<rt>ㄐ⼔ㄋㄐㄨㄛ</rt></ruby> "Jeonju"
+- <ruby>[[慶州]]<rt>ㄎ⼶ㄫㄐㄨㄛ</rt></ruby> "Gyeongju"
+- <ruby>[[原州]]<rt>⼔ㄋㄐㄨㄛ</rt></ruby> "Wonju"
 
 ## Derived Characters
 - <ruby>[[洲 (char)|洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet"

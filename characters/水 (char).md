@@ -82,6 +82,7 @@ boundedness: 80
 - <ruby>[[水稲]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "rice grown in a paddy"
 - <ruby>[[洪水]]<rt>ㄏㄛㄫㄙㄨ</rt></ruby> "flood"
 - <ruby>[[水面]]<rt>ㄙㄨ·ㄇ⼶ㄋ</rt></ruby> "water surface"
+- <ruby>[[麗水]]<rt>ㄌㄝㄙㄨ</rt></ruby> "Yeosu"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

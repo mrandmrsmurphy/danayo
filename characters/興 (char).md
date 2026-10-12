@@ -62,3 +62,4 @@ boundedness: 100
 - <ruby>[[勃興]]<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby> "rise"
 - <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby> "glad, pleased"
 - <ruby>[[興奮]]<rt>ㄏㄜㄫㄈㄨㄋ</rt></ruby> "excitement; excited"
+- <ruby>[[咸興]]<rt>ㄏㄚㄇㄏㄜㄫ</rt></ruby> "Hamhung"

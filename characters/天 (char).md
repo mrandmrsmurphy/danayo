@@ -114,3 +114,4 @@ boundedness: 80
 - <ruby>[[昇天]]<rt>ㄙㄨㄫㄊㄝㄋ</rt></ruby> "to ascend to heaven; to die"
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
 - <ruby>[[天津]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "Tianjin; the Milky Way"
+- <ruby>[[天安]]<rt>ㄊㄝㄋ·ㄚㄋ</rt></ruby> "Cheonan"

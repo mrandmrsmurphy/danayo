@@ -74,6 +74,8 @@ boundedness: 75
 - <ruby>[[蔚山]]<rt>ㄨㄊㄙㄚㄋ</rt></ruby> "Ulsan"
 - <ruby>[[山西]]<rt>ㄙㄚㄋㄙㄝㄧ</rt></ruby> "Shanxi; Son Tay"
 - <ruby>[[山東]]<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby> "Shandong"
+- <ruby>[[元山]]<rt>⼔ㄋㄙㄚㄋ</rt></ruby> "Wonsan"
+- <ruby>[[恵山]]<rt>ㄏ⼔ㄧㄙㄚㄋ</rt></ruby> "Hyesan"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

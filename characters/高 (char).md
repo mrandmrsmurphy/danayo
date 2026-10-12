@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[高綿]]<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby> "Cambodia"
 - <ruby>[[高興]]<rt>ㄍㄚㄨㄏㄜㄫ</rt></ruby> "glad; pleased"
 - <ruby>[[高低]]<rt>ㄍㄚㄨㄉㄝㄧ</rt></ruby> "high and low; height; pitch"
+- <ruby>[[高陽]]<rt>ㄍㄚㄨ⼘ㄫ</rt></ruby> "Goyang"
 
 ## Derived Characters
 - <ruby>[[敲 (char)|敲]]<rt>ㄎ⼘ㄨ</rt></ruby> "to knock; tap; rap"

@@ -55,3 +55,4 @@ boundedness: 65
 - <ruby>[[慶祝]]<rt>ㄎ⼶ㄫㄐㄨㄎ</rt></ruby> "celebrate"
 - <ruby>[[慶尚]]<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby> "Gyeongsang"
 - <ruby>[[重慶]]<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby> "Chongqing"
+- <ruby>[[慶州]]<rt>ㄎ⼶ㄫㄐㄨㄛ</rt></ruby> "Gyeongju"

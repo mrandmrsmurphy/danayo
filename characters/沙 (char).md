@@ -70,3 +70,4 @@ date-last-perfect: 2026-09-16
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree; shala; sakhua"
 - <ruby>[[沙悟浄]]<rt>ㄙㄚㄛㄐㄝㄫ</rt></ruby> "Sha Wujing"
 - <ruby>[[長沙]]<rt>ㄐㄚㄫㄙㄚ</rt></ruby> "Changsha"
+- <ruby>[[沙里院]]<rt>ㄙㄚㄌㄧ⼔ㄋ</rt></ruby> "Sariwon"
