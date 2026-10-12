@@ -72,6 +72,7 @@ boundedness: 95
 - <ruby>[[分数]]<rt>ㄅㄨㄋㄙㄨ</rt></ruby> "fraction"
 - <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby> "integrate; integration"
 - <ruby>[[微分]]<rt>ㄇㄨㄧㄅㄨㄋ</rt></ruby> "differentiate; differentiation"
+- <ruby>[[大分]]<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby> "Oita Prefecture"
 
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"

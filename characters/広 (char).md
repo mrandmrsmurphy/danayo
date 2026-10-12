@@ -63,6 +63,7 @@ boundedness:
 - <ruby>[[広南]]<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby> "Guangnan; Quang Nam"
 - <ruby>[[広州]]<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby> "Guangzhou"
 - <ruby>[[広西]]<rt>ㄍ⺢ㄫㄙㄝㄧ</rt></ruby> "Guangxi"
+- <ruby>[[広島]]<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby> "Hiroshima Prefecture"
 
 ## Derived Characters
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"

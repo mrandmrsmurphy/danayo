@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[根本]]<rt>ㄍㄜㄋㄅㄛㄋ</rt></ruby> "basis, foundation, base"
 - <ruby>[[耳根]]<rt>ㄋㄧㄍㄜㄋ</rt></ruby> "root of the ear"
 - <ruby>[[舌根]]<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby> "root of the tongue; taste faculty"
+- <ruby>[[島根]]<rt>ㄊㄚㄨㄍㄜㄋ</rt></ruby> "Shimane Prefecture"
 
 ## Chengyu
 - <ruby>[[財愛悪根]]<rt>ㄐㄚㄧㄚㄧㄚㄎㄍㄜㄋ</rt></ruby> "The love of money is the root of all evil"

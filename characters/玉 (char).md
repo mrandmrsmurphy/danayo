@@ -53,6 +53,7 @@ boundedness: 65
 - <ruby>[[紅玉]]<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby> "ruby"
 - <ruby>[[玉案]]<rt>⼄ㄎ·ㄚㄋ</rt></ruby> "jade table; a desk of jade"
 - <ruby>[[玉音]]<rt>⼄ㄎ·ㄨㄇ</rt></ruby> "voice of the emperor"
+- <ruby>[[埼玉]]<rt>ㄎㄧㄜ⼄ㄎ</rt></ruby> "Saitama Prefecture"
 
 ## Chengyu
 - <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"

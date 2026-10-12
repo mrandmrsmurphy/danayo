@@ -65,6 +65,7 @@ boundedness: 80
 - <ruby>[[愛爾蘭]]<rt>ㄚㄧㄋㄝㄌㄚㄋ</rt></ruby> "Ireland"
 - <ruby>[[愛因金]]<rt>ㄚㄧㄧㄋㄍㄧㄇ</rt></ruby> "einsteinium"
 - <ruby>[[同性愛]]<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby> "homosexuality"
+- <ruby>[[愛知]]<rt>ㄚㄧㄐㄨㄧ</rt></ruby> "Aichi Prefecture"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

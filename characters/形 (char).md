@@ -72,6 +72,7 @@ While this character can appear alone, it is somewhat rare to do so.
 - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> "square"
 - <ruby>[[古形]]<rt>ㄍㄛㄏㄝㄫ</rt></ruby> "old form; archaic form"
 - <ruby>[[隠形]]<rt>ㄜㄋㄏㄝㄫ</rt></ruby> "invisible"
+- <ruby>[[山形]]<rt>ㄙㄚㄋㄏㄝㄫ</rt></ruby> "Yamagata Prefecture"
 
 ## Chengyu
 - <ruby>[[声形和決]]<rt>ㄙㄧㄫㄏㄝㄫㄏ⺢·ㄎ⼔ㄊ</rt></ruby> "the harmony of sound and form, settled as principle; the rule that phonology and character are displayed together"

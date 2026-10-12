@@ -62,4 +62,5 @@ boundedness: 90
 - <ruby>[[枝葉]]<rt>ㄐㄝ⼄ㄆ</rt></ruby> "branches and leaves; trivial details"
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
 - <ruby>[[蘭葉撇]]<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby> "orchid-leaf left-falling stroke (calligraphy stroke)"
+- <ruby>[[千葉]]<rt>ㄑㄝㄋ·⼄ㄆ</rt></ruby> "Chiba Prefecture"
 

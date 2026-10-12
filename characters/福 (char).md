@@ -57,6 +57,9 @@ boundedness: 80
 - <ruby>[[艶福]]<rt>⼶ㄇㄈㄨㄎ</rt></ruby> "success in love"
 - <ruby>[[福州]]<rt>ㄈㄨㄎㄐㄨㄛ</rt></ruby> "Fuzhou"
 - <ruby>[[福建]]<rt>ㄈㄨㄎㄍㄝㄋ</rt></ruby> "Fujian"
+- <ruby>[[福島]]<rt>ㄈㄨㄎㄊㄚㄨ</rt></ruby> "Fukushima Prefecture"
+- <ruby>[[福井]]<rt>ㄈㄨㄎㄐㄧㄫ</rt></ruby> "Fukui Prefecture"
+- <ruby>[[福岡]]<rt>ㄈㄨㄎㄍㄚㄫ</rt></ruby> "Fukuoka Prefecture"
 
 ## Derived Characters
 - <ruby>[[副 (char)|副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-"

@@ -61,6 +61,8 @@ boundedness: 75
 - <ruby>[[通知]]<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby> "notify; inform"
 - <ruby>[[報知]]<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby> "inform; report; notify"
 - <ruby>[[檳知]]<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby> "Ben Tre (檳椥)"
+- <ruby>[[愛知]]<rt>ㄚㄧㄐㄨㄧ</rt></ruby> "Aichi Prefecture"
+- <ruby>[[高知]]<rt>ㄍㄚㄨㄐㄨㄧ</rt></ruby> "Kochi Prefecture"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

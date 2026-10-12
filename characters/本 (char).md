@@ -71,5 +71,6 @@ boundedness: 45
 - <ruby>[[資本]]<rt>ㄐㄧㄜㄅㄛㄋ</rt></ruby> "capital (finance); resource"
 - <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
 - <ruby>[[本字]]<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character"
+- <ruby>[[熊本]]<rt>ㄨㄫㄅㄛㄋ</rt></ruby> "Kumamoto Prefecture"
 ## Chengyu
 - <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"

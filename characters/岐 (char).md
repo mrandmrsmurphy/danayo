@@ -51,3 +51,4 @@ date-last-perfect: 2026-08-08
 
 ## Words
 - <ruby>[[岐]]<rt>ㄍㄝ</rt></ruby> "fork (in road)" (stand-in for 岐)
+- <ruby>[[岐阜]]<rt>ㄍㄝㄅ⼜</rt></ruby> "Gifu Prefecture"

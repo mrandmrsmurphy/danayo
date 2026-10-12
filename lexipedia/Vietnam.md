@@ -6,7 +6,8 @@ related_domains:
   - "[[Geography]]"
   - "[[Government]]"
   - "[[Society]]"
-status: partial
+status: complete
+date-last-perfect: 2026-10-11
 ---
 <ruby>[越南](../words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>: Vietnam. This page gathers vocabulary specific to Vietnam: its famous people, places, historical states and its language and script. Words shared across the Sinosphere stay in their own domains, such as [Geography](Geography.md) and [Government](Government.md).
 ## <ruby>[有名](../words/有名.md)<rt>⼜·ㄇㄧㄫ</rt></ruby><ruby>[人](../words/人.md)<rt>ㄋㄧㄋ</rt></ruby>
@@ -83,6 +84,14 @@ status: partial
 
 ## Peoples and names
 - See also <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>, the "Hundred Yue," on [China](China.md).
+
+## Semantic Range Notes
+
+**Shared spellings.** Dan'a'yo gives one word one spelling and one reading, so a place name shared by two countries is one word with two senses, not two words. Vietnam's catalogue leans on this heavily: 李朝, 陳朝, 安南, 交址, 広南, 山西, 西寧, 太原 and 河南 are each also a Korean or Chinese name (listed on Korea and China), and 海防, 太平, 大力, 金甌, 金角, 金角湾 and 老街 are also ordinary words with a different meaning (listed on Conflict, Efforts, Government, Animals, Geography and Buildings). Context chooses the sense; Dan'a'yo does not coin a distinguishing form.
+
+**Vietnamese, the language.** 越南語 is the full name and 越語 the short one, as Chinese and Korean have 漢語 and 韓語. The short form collides with 粤語 (Cantonese), since both read ⼔ㄊ⼄, so 越南語 is the safe form and 越語 is the shorthand to use only when the context rules Cantonese out. 国語 is a third word to keep apart: on this page it means quốc ngữ, the Latin-alphabet writing system, which replaced 字南 (chữ Nôm), though the same word elsewhere means a country's own language or, in Taiwan, Mandarin (see Speech).
+
+**Transliterated names.** Saigon, Da Nang, Nha Trang and the other southern and central names are phonetic transliterations in characters (柴棍, 蜆港, 芽荘), so their characters carry no meaning of their own and the Sinitic exonyms (西貢, 峴港, 芽莊) are kept as aliases. People are written the same way, in ruby-only characters, and have no word files.
 
 ## See Also
 

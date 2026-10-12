@@ -58,6 +58,11 @@ boundedness: 75
 - <ruby>[[火山島]]<rt>ㄏ⺢ㄙㄚㄋㄊㄚㄨ</rt></ruby> "volcanic island"
 - <ruby>[[群島]]<rt>ㄍㄨㄋㄊㄚㄨ</rt></ruby> "archipelago"
 - <ruby>[[青島]]<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby> "Qingdao"
+- <ruby>[[福島]]<rt>ㄈㄨㄎㄊㄚㄨ</rt></ruby> "Fukushima Prefecture"
+- <ruby>[[島根]]<rt>ㄊㄚㄨㄍㄜㄋ</rt></ruby> "Shimane Prefecture"
+- <ruby>[[広島]]<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby> "Hiroshima Prefecture"
+- <ruby>[[徳島]]<rt>ㄊㄨㄎㄊㄚㄨ</rt></ruby> "Tokushima Prefecture"
+- <ruby>[[鹿児島]]<rt>ㄌㄛㄎ·ㄝㄧㄊㄚㄨ</rt></ruby> "Kagoshima Prefecture"
 
 ## Derived Characters
 - <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle; vulture"

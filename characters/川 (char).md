@@ -65,6 +65,9 @@ boundedness: 70
 - <ruby>[[深川]]<rt>ㄙㄧㄇㄑ⺢ㄋ</rt></ruby> "Shenzhen; Fukagawa"
 - <ruby>[[銀川]]<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby> "Yinchuan"
 - <ruby>[[春川]]<rt>ㄑㄨㄋㄑ⺢ㄋ</rt></ruby> "Chuncheon"
+- <ruby>[[神奈川]]<rt>ㄙㄧㄋㄋ⼘ㄧㄑ⺢ㄋ</rt></ruby> "Kanagawa Prefecture"
+- <ruby>[[石川]]<rt>ㄙㄝㄎㄑ⺢ㄋ</rt></ruby> "Ishikawa Prefecture"
+- <ruby>[[香川]]<rt>ㄏ⼘ㄫㄑ⺢ㄋ</rt></ruby> "Kagawa Prefecture"
 
 ## Derived Characters
 - <ruby>[[訓 (char)|訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; paraphrase; explicate; exegete"

@@ -58,3 +58,4 @@ date-last-perfect: 2026-09-16
 
 ## Words
 - <ruby>[[縄]]<rt>ㄙㄜㄫ</rt></ruby> "rope, cord" (stand-in for 縄)
+- <ruby>[[沖縄]]<rt>ㄑㄨㄫㄙㄜㄫ</rt></ruby> "Okinawa Prefecture"

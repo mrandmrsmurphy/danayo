@@ -65,6 +65,7 @@ boundedness: 90
 - <ruby>[[新人]]<rt>ㄙㄧㄋㄋㄧㄋ</rt></ruby> "newcomer, rookie, new face"
 - <ruby>[[新疆]]<rt>ㄙㄧㄋㄍ⼘ㄋ</rt></ruby> "new frontier; Xinjiang"
 - <ruby>[[新義州]]<rt>ㄙㄧㄋㄜㄧㄐㄨㄛ</rt></ruby> "Sinuiju"
+- <ruby>[[新潟]]<rt>ㄙㄧㄋㄙㄝㄎ</rt></ruby> "Niigata Prefecture"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

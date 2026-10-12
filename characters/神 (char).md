@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[神巫]]<rt>ㄙㄧㄋㄇㄨ</rt></ruby> "shaman, wizard"
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"
 - <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth"
+- <ruby>[[神奈川]]<rt>ㄙㄧㄋㄋ⼘ㄧㄑ⺢ㄋ</rt></ruby> "Kanagawa Prefecture"
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"

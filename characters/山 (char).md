@@ -76,6 +76,12 @@ boundedness: 75
 - <ruby>[[山東]]<rt>ㄙㄚㄋㄉㄛㄫ</rt></ruby> "Shandong"
 - <ruby>[[元山]]<rt>⼔ㄋㄙㄚㄋ</rt></ruby> "Wonsan"
 - <ruby>[[恵山]]<rt>ㄏ⼔ㄧㄙㄚㄋ</rt></ruby> "Hyesan"
+- <ruby>[[山形]]<rt>ㄙㄚㄋㄏㄝㄫ</rt></ruby> "Yamagata Prefecture"
+- <ruby>[[富山]]<rt>ㄈㄨㄛㄙㄚㄋ</rt></ruby> "Toyama Prefecture"
+- <ruby>[[山梨]]<rt>ㄙㄚㄋㄌㄧㄜ</rt></ruby> "Yamanashi Prefecture"
+- <ruby>[[和歌山]]<rt>ㄏ⺢ㄍㄜㄙㄚㄋ</rt></ruby> "Wakayama Prefecture"
+- <ruby>[[岡山]]<rt>ㄍㄚㄫㄙㄚㄋ</rt></ruby> "Okayama Prefecture"
+- <ruby>[[山口]]<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby> "Yamaguchi Prefecture"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

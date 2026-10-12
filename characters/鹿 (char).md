@@ -51,6 +51,7 @@ date-last-perfect: 2026-08-10
 ## Words
 - <ruby>[[鹿]]<rt>ㄌㄛㄎ</rt></ruby> "deer" (stand-in for 鹿)
 - <ruby>[[鹿砦]]<rt>ㄌㄛㄎㄐㄚㄧ</rt></ruby> "abatis"
+- <ruby>[[鹿児島]]<rt>ㄌㄛㄎ·ㄝㄧㄊㄚㄨ</rt></ruby> "Kagoshima Prefecture"
 
 ## Derived Characters
 - <ruby>[[麓]]<rt>ㄌㄛㄎ</rt></ruby> "foot of a mountain"

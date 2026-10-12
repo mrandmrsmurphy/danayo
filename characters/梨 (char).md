@@ -52,3 +52,4 @@ date-last-perfect: 2026-08-07
 - <ruby>[[梨木]]<rt>ㄌㄧㄜㄇㄛㄎ</rt></ruby> "pear tree"
 - <ruby>[[鳳梨]]<rt>ㄆㄨㄫㄌㄧㄜ</rt></ruby> "pineapple"
 - <ruby>[[鰐梨]]<rt>ㄚㄎㄌㄧㄜ</rt></ruby> "avocado"
+- <ruby>[[山梨]]<rt>ㄙㄚㄋㄌㄧㄜ</rt></ruby> "Yamanashi Prefecture"

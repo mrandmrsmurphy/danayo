@@ -54,3 +54,4 @@ date-last-perfect: 2026-08-18
 - <ruby>[[白熊]]<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby> "polar bear"
 - <ruby>[[袋熊]]<rt>ㄉㄚㄧㄨㄫ</rt></ruby> "wombat"
 - <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby> "koala"
+- <ruby>[[熊本]]<rt>ㄨㄫㄅㄛㄋ</rt></ruby> "Kumamoto Prefecture"

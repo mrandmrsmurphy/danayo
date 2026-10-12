@@ -83,6 +83,7 @@ boundedness: 70
 - <ruby>[[国道]]<rt>ㄍㄛㄎㄉㄚㄨ</rt></ruby> "national highway"
 - <ruby>[[天道]]<rt>ㄊㄝㄋㄉㄚㄨ</rt></ruby> "law of nature; god of heaven"
 - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> "tunnel; underpass"
+- <ruby>[[北海道]]<rt>ㄅㄨㄎㄏㄚㄧㄉㄚㄨ</rt></ruby> "Hokkaido Prefecture"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

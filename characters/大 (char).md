@@ -122,6 +122,8 @@ boundedness: 90
 - <ruby>[[大邱]]<rt>ㄉㄚㄧㄍㄨ</rt></ruby> "Daegu"
 - <ruby>[[大田]]<rt>ㄉㄚㄧㄉㄝㄋ</rt></ruby> "Daejeon"
 - <ruby>[[大連]]<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby> "Dalian"
+- <ruby>[[大坂]]<rt>ㄉㄚㄧㄅㄛㄋ</rt></ruby> "Osaka Prefecture"
+- <ruby>[[大分]]<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby> "Oita Prefecture"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

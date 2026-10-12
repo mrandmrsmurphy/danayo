@@ -58,3 +58,4 @@ boundedness:
 - <ruby>[[徳川]]<rt>ㄊㄨㄎㄑ⺢ㄋ</rt></ruby> "Tokugawa"
 - <ruby>[[徳国]]<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby> "Germany"
 - <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium"
+- <ruby>[[徳島]]<rt>ㄊㄨㄎㄊㄚㄨ</rt></ruby> "Tokushima Prefecture"
