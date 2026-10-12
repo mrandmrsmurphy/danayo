@@ -6,7 +6,8 @@ related_domains:
   - "[[Geography]]"
   - "[[Government]]"
   - "[[Society]]"
-status: partial
+status: complete
+date-last-perfect: 2026-10-11
 ---
 <ruby>[朝鮮](../words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby> + <ruby>[韓国](../words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>: Korea. This page gathers vocabulary that is specific to Korea: its kingdoms and dynasties, script, rulers, dress, and the people on the lists below. The country names themselves, and words shared across the Sinosphere, stay in their own domains, such as [Geography](Geography.md) and [Government](Government.md).
 
@@ -36,11 +37,11 @@ status: partial
 
 ## Kingdoms and Dynasties
 - <ruby>[高句麗](../words/高句麗.md)<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby>: Goguryeo, the northernmost of the Korean Three Kingdoms, traditionally founded in 37 BC in the Yalu basin and conquered in 668, a power in Manchuria as much as Korea; its Mandarin reading Gāogōulí has an irregular gōu for 句.
-- <ruby>[百済](../words/百済.md)<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby>: Baekje.
+- <ruby>[百済](../words/百済.md)<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby>: Baekje, the south-western kingdom of the Korean Three Kingdoms, traditionally founded in 18 BC and conquered by Silla and Tang in 660 (from memory, not re-checked); the Three Kingdoms are <ruby>高句麗<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby>, <ruby>百済<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby> and <ruby>新羅<rt>ㄙㄧㄋㄌㄛ</rt></ruby>, collectively <ruby>[三国](../words/三国.md)<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby>.
 - <ruby>[新羅](../words/新羅.md)<rt>ㄙㄧㄋㄌㄛ</rt></ruby>: Silla, the southeasternmost of the Three Kingdoms of Korea, traditionally founded in 57 BC at Gyeongju and surviving until 935; the Japanese reading しらぎ is the conventional historical one, not the on'yomi しんら.
 - <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
 - <ruby>[李朝](../words/李朝.md)<rt>ㄌㄧㄐㄚㄨ</rt></ruby>: the Yi dynasty, an older Chinese and Japanese name for Joseon (<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>), the dynasty founded in 1392 by Yi Seong-gye after Goryeo (<ruby>高麗<rt>ㄍㄚㄨㄌㄝ</rt></ruby>); the same spelling is the Lý dynasty of Vietnam, listed on Vietnam.
-- <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire.
+- <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire, the name Joseon took in 1897 and kept until the Japanese annexation of 1910; the "Han" of <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> descends from it.
 
 ## Provinces
 A province is a bare name plus <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby> "province", and most of the bare names are the joined first characters of two old chief cities. Three of them were split in 1896 into <ruby>[北](../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> "north" and <ruby>[南](../characters/南.md)<rt>ㄋㄚㄇ</rt></ruby> "south" halves, which is why the full names come in pairs.
@@ -131,8 +132,30 @@ Places whose Korean names are written with the same characters as a Chinese prov
 - <ruby>[韓国語](../words/韓国語.md)<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>: Korean language (South).
 - <ruby>[韓語](../words/韓語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>: Korean (language), the short Sinitic name beside the full <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby> (homophone of <ruby>[漢語](../words/漢語.md)<rt>ㄏㄚㄋ·⼄</rt></ruby>).
 - <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — 국어, the Korean language as the nation's own language and school subject, beside the more specific <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby>.
-- <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul.
-- <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see [[諺文]])"
+- <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>: Hangul, the Korean alphabet, devised under King Sejong (<ruby>[世宗](../words/世宗.md)<rt>ㄙㄝㄐㄛㄫ</rt></ruby>) and promulgated in 1446.
+- <ruby>[訓民正音](../words/訓民正音.md)<rt>ㄏㄨㄋㄇㄧㄋㄐㄧㄫㄨㄇ</rt></ruby> "Hunminjeongeum, the 1446 proclamation of King Sejong introducing the Korean script (see <ruby>[諺文](../words/諺文.md)<rt>ㄝㄋㄇㄨㄋ</rt></ruby>)"
 
 ## Culture
-- <ruby>[韓服](../words/韓服.md)<rt>ㄏㄚㄋㄅㄨㄎ</rt></ruby>: Hanbok.
+- <ruby>[韓服](../words/韓服.md)<rt>ㄏㄚㄋㄅㄨㄎ</rt></ruby>: Hanbok, traditional Korean dress (한복), worn today at festivals and weddings.
+
+## Semantic Range Notes
+
+**朝鮮 and 韓国.** The two halves of the peninsula are named with different characters, and Dan'a'yo keeps both spellings as separate words. <ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby> is the Joseon dynasty and North Korea (and, in Japanese and Chinese usage, once the whole peninsula), while <ruby>韓国<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> and <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> are South Korea. Both are covered on [Geography](Geography.md); this page uses 朝鮮 for the dynasty and the northern state and 韓国 for the southern one.
+
+**Language names.** <ruby>韓国語<rt>ㄏㄚㄋㄍㄛㄎ·⼄</rt></ruby> is the full name of Korean and <ruby>韓語<rt>ㄏㄚㄋ·⼄</rt></ruby> the short Sinitic one, parallel to Japan's 日本語 and 日語. 韓語 is a homophone of <ruby>漢語<rt>ㄏㄚㄋ·⼄</rt></ruby> "Chinese", told apart only in writing. <ruby>国語<rt>ㄍㄛㄎ·⼄</rt></ruby> is a third word, Korean as the nation's own language and school subject.
+
+**Shared spellings.** A name that Korea shares with China is one word with several senses. 高陽, 安東, 麗水, 江陵, 海州, 恵山, 海南, 湖南 and 江西 are each also a Chinese place name, and 李朝 is also the Vietnamese Lý dynasty. The word's Notes say which sense is which; the readings are the same everywhere because the spelling is.
+
+**Transliterated names.** The people at the top of this page are written only in ruby-transliterated characters, with the Hangul given beside them, because this is a lexicon and personal names do not get words of their own. Korean surnames with a Chinese reading, such as 金 (Kim), 李 (Yi) and 朴 (Bak), therefore appear here as readings, not as clan entries.
+
+## See Also
+
+**Related domains**:
+- [[Geography]] — 朝鮮, 韓国 and 漢城 beside the rest of the Sinosphere
+- [[Government]] — 首領 and 大統領, and the provincial and city titles
+- [[Society]] — people and everyday life
+
+**Neighbouring country pages**:
+- [[China]] — Chinese places and the language names 漢語 and 国語 that share spellings with entries here
+- [[Japan]] — 平城 and 海南 and the other spellings shared with Japan
+- [[Vietnam]] — the Lý dynasty of 李朝 and the language name 越語

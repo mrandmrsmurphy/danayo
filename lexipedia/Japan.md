@@ -6,7 +6,8 @@ related_domains:
   - "[[Geography]]"
   - "[[Government]]"
   - "[[Society]]"
-status: partial
+status: complete
+date-last-perfect: 2026-10-11
 ---
 <ruby>[日本](../words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>: Japan. This page gathers vocabulary that is specific to Japan: its emperors and other famous people, places, language and script, clans and surnames, and companies. Words shared across the Sinosphere stay in their own domains, such as [Geography](Geography.md) and [Government](Government.md).
 
@@ -68,7 +69,7 @@ All 47 prefectures, grouped by region: one 都 (Tokyo), one 道 (Hokkaido), two 
 - <ruby>[三重](../words/三重.md)<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby>: Mie, a prefecture on the Kii Peninsula; its capital is Tsu.
 - <ruby>[滋賀](../words/滋賀.md)<rt>ㄐㄜㄏㄚ</rt></ruby>: Shiga, a landlocked prefecture of the Kansai region around Lake Biwa; its capital is Ōtsu.
 - <ruby>[京都](../words/京都.md)<rt>ㄍ⼶ㄫㄉㄛ</rt></ruby>: Kyoto, a prefecture of the Kansai region; its capital is Kyoto, the imperial capital until 1868.
-- <ruby>[大坂](../words/大坂.md)<rt>ㄉㄚㄧㄅㄛㄋ</rt></ruby>: Osaka (also written 大阪), an "urban prefecture" (府) of the Kansai region and the commercial centre of western Japan; the city of Osaka is its capital.
+- <ruby>[大坂](../words/大坂.md)<rt>ㄉㄚㄧㄅㄛㄋ</rt></ruby>: Osaka, an "urban prefecture" (府) of the Kansai region and the commercial centre of western Japan; the city of Osaka is its capital.
 - <ruby>[兵庫](../words/兵庫.md)<rt>ㄅ⼶ㄫㄎㄛ</rt></ruby>: Hyōgo, a prefecture of the Kansai region on both the Sea of Japan and the Seto Inland Sea; its capital is Kobe.
 - <ruby>[奈良](../words/奈良.md)<rt>ㄋ⼘ㄧㄌ⼘ㄫ</rt></ruby>: Nara, a prefecture of the Kansai region; its capital is Nara, the first permanent capital of Japan (710–794).
 - <ruby>[和歌山](../words/和歌山.md)<rt>ㄏ⺢ㄍㄜㄙㄚㄋ</rt></ruby>: Wakayama, a prefecture on the Kii Peninsula; its capital is Wakayama.
@@ -77,7 +78,7 @@ All 47 prefectures, grouped by region: one 都 (Tokyo), one 道 (Hokkaido), two 
 - <ruby>[鳥取](../words/鳥取.md)<rt>ㄑㄛㄨㄑㄛㄨ</rt></ruby>: Tottori, the least populous prefecture of Japan, in the Chūgoku region; its capital is Tottori.
 - <ruby>[島根](../words/島根.md)<rt>ㄊㄚㄨㄍㄜㄋ</rt></ruby>: Shimane, a prefecture of the Chūgoku region on the Sea of Japan; its capital is Matsue.
 - <ruby>[岡山](../words/岡山.md)<rt>ㄍㄚㄫㄙㄚㄋ</rt></ruby>: Okayama, a prefecture of the Chūgoku region on the Seto Inland Sea; its capital is Okayama.
-- <ruby>[広島](../words/広島.md)<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby>: Hiroshima (also written 廣島), a prefecture of the Chūgoku region on the Seto Inland Sea; its capital is Hiroshima.
+- <ruby>[広島](../words/広島.md)<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby>: Hiroshima, a prefecture of the Chūgoku region on the Seto Inland Sea; its capital is Hiroshima.
 - <ruby>[山口](../words/山口.md)<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby>: Yamaguchi, the westernmost prefecture of Honshu; its capital is Yamaguchi.
 
 #### Shikoku
@@ -89,12 +90,12 @@ All 47 prefectures, grouped by region: one 都 (Tokyo), one 道 (Hokkaido), two 
 #### Kyūshū and Okinawa
 - <ruby>[福岡](../words/福岡.md)<rt>ㄈㄨㄎㄍㄚㄫ</rt></ruby>: Fukuoka, the northernmost prefecture of Kyushu; its capital is Fukuoka.
 - <ruby>[佐賀](../words/佐賀.md)<rt>ㄐㄚㄏㄚ</rt></ruby>: Saga, a prefecture of northwest Kyushu; its capital is Saga.
-- <ruby>[長埼](../words/長埼.md)<rt>ㄐㄚㄫㄎㄧㄜ</rt></ruby>: Nagasaki (also written 長崎), a prefecture of western Kyushu; its capital is Nagasaki.
+- <ruby>[長埼](../words/長埼.md)<rt>ㄐㄚㄫㄎㄧㄜ</rt></ruby>: Nagasaki, a prefecture of western Kyushu; its capital is Nagasaki.
 - <ruby>[熊本](../words/熊本.md)<rt>ㄨㄫㄅㄛㄋ</rt></ruby>: Kumamoto, a prefecture in the middle of Kyushu; its capital is Kumamoto.
 - <ruby>[大分](../words/大分.md)<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby>: Ōita, a prefecture of northeast Kyushu; its capital is Ōita.
-- <ruby>[宮埼](../words/宮埼.md)<rt>ㄍㄨㄫㄎㄧㄜ</rt></ruby>: Miyazaki (also written 宮崎), a prefecture of southeast Kyushu; its capital is Miyazaki.
+- <ruby>[宮埼](../words/宮埼.md)<rt>ㄍㄨㄫㄎㄧㄜ</rt></ruby>: Miyazaki, a prefecture of southeast Kyushu; its capital is Miyazaki.
 - <ruby>[鹿児島](../words/鹿児島.md)<rt>ㄌㄛㄎ·ㄝㄧㄊㄚㄨ</rt></ruby>: Kagoshima, a prefecture at the southern tip of Kyushu; its capital is Kagoshima.
-- <ruby>[沖縄](../words/沖縄.md)<rt>ㄑㄨㄫㄙㄜㄫ</rt></ruby>: Okinawa (also written 沖繩), the southernmost prefecture of Japan, made up of the Ryukyu Islands; its capital is Naha.
+- <ruby>[沖縄](../words/沖縄.md)<rt>ㄑㄨㄫㄙㄜㄫ</rt></ruby>: Okinawa, the southernmost prefecture of Japan, made up of the Ryukyu Islands; its capital is Naha.
 
 ### Islands and regions
 - <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku, the smallest of the four main islands of Japan, and also "the world; all under heaven."
@@ -102,7 +103,7 @@ All 47 prefectures, grouped by region: one 都 (Tokyo), one 道 (Hokkaido), two 
 ### Cities and districts
 - <ruby>[東京](../words/東京.md)<rt>ㄉㄛㄫㄍ⼶ㄫ</rt></ruby>: Tokyo, the capital of Japan — lit. "eastern capital."
 - <ruby>[鎌倉](../words/鎌倉.md)<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby>: Kamakura, the coastal city south of Tokyo that was the seat of the first Japanese shogunate (1185–1333).
-- <ruby>[深川](../words/深川.md)<rt>ㄙㄧㄇㄑ⺢ㄋ</rt></ruby>: Fukagawa, a district of Kōtō ward in Tokyo, once a ward of its own, and also a city in Hokkaido and a place in Nagato, Yamaguchi, and a surname; the same spelling is Shenzhen in China (real spelling 深圳), listed on [China](China.md).
+- <ruby>[深川](../words/深川.md)<rt>ㄙㄧㄇㄑ⺢ㄋ</rt></ruby>: Fukagawa, a district of Kōtō ward in Tokyo, once a ward of its own, and also a city in Hokkaido and a place in Nagato, Yamaguchi, and a surname; the same spelling is Shenzhen in China, listed on [China](China.md).
 - <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: Kawaguchi.
 - <ruby>[川埼](../words/川埼.md)<rt>ㄑ⺢ㄋㄎㄧㄜ</rt></ruby>: Kawasaki.
 - <ruby>[香芝](../words/香芝.md)<rt>ㄏ⼘ㄫㄐㄧ</rt></ruby>: Kashiba (city in Nara Prefecture, Japan).
@@ -137,7 +138,7 @@ All 47 prefectures, grouped by region: one 都 (Tokyo), one 道 (Hokkaido), two 
 
 **Shared spellings.** Dan'a'yo gives one word one spelling and one reading, so a name that Japan shares with China, Korea or the common vocabulary is one word with several senses, not several words. Japan's catalogue is full of these. 河北, 湖南, 雲南, 山東, 海南 and 平城 are each also a Chinese province, city or ancient capital (listed on China), and 湖南, 海南 and 平城 are also Korean names (listed on Korea). 海南 and 湖南 are also plain Japanese common nouns, "the southern sea" and "the south side of a lake" (listed on Water), and 四国 is both the island and "the world; all under heaven." Context chooses the sense; no distinguishing form is coined.
 
-**深川 is a stand-in.** The Chinese city of Shenzhen is written 深川 because 圳 has no page in the vault, so the real Japanese district Fukagawa and the Chinese city share a spelling by the user's decision, with 深圳 kept as an alias. Of the pairs above, this is the one where the shared spelling is a deliberate substitution rather than a coincidence of two real names.
+**深川 is a stand-in.** The Chinese city of Shenzhen is written 深川 because the character the Chinese name would need has no page in the vault, so the real Japanese district Fukagawa and the Chinese city share a spelling by the user's decision. Of the pairs above, this is the one where the shared spelling is a deliberate substitution rather than a coincidence of two real names.
 
 **Names of the language.** 日本語 is the full name and 日語 the short Sinitic one, as 漢語 and 韓語 are for Chinese and Korean. 国語 is a third word: on this page it is Japanese as the speaker's own language and the school subject (kokugo), not the broader "national language" of other countries (see Speech).
 

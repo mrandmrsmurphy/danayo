@@ -36,32 +36,32 @@ date-last-perfect: 2026-10-11
 - <ruby>[黎朝](../words/黎朝.md)<rt>ㄌㄝㄧㄐㄚㄨ</rt></ruby>: the Lê dynasty (the Later Lê, 1428–1789), founded by Lê Lợi after the expulsion of the Ming; rarely the Early Lê (980–1009).
 - <ruby>[阮朝](../words/阮朝.md)<rt>⼔ㄋㄐㄚㄨ</rt></ruby>: the Nguyễn dynasty (1802–1945), the last dynasty of Vietnam, whose imperial capital was <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby> (Huế).
 - <ruby>[安南](../words/安南.md)<rt>ㄚㄋㄋㄚㄇ</rt></ruby>: Annam, the old Chinese name for Vietnam and later the central region under the French protectorate; the same spelling is the Tang protectorate of Annam, listed on China.
-- <ruby>[交址](../words/交址.md)<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>: Giao Chỉ, the ancient name of northern Vietnam (also written <ruby>交趾<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby> and <ruby>交阯<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>); the same spelling is Jiaozhi, the Han commandery, listed on China.
+- <ruby>[交址](../words/交址.md)<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>: Giao Chỉ, the ancient name of northern Vietnam; the same spelling is Jiaozhi, the Han commandery, listed on China.
 - <ruby>[占城](../words/占城.md)<rt>ㄐㄝㄇㄙㄧㄫ</rt></ruby>: Champa, the kingdom of the Cham people on the central and southern coast, conquered in stages by Đại Việt.
 
 ## Places
 ### Cities
-- <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name; the established Sinitic exonym <ruby>西<rt>ㄙㄝㄧ</rt></ruby><ruby>貢<rt>ㄍㄛㄫ</rt></ruby> is kept as its alias.
+- <ruby>[柴棍](../words/柴棍.md)<rt>ㄐ⺢ㄧㄏㄛㄋ</rt></ruby>: Saigon (Ho Chi Minh City) — a phonetic transliteration of the Vietnamese name.
 - <ruby>[河内](../words/河内.md)<rt>ㄏㄚ·ㄋㄛㄧ</rt></ruby>: Hanoi.
 - <ruby>[海防](../words/海防.md)<rt>ㄏㄚㄧㄅㄚㄫ</rt></ruby>: Haiphong, the principal port of the north; the same spelling means "coastal defense" elsewhere (see Conflict).
 - <ruby>[胡志明市](../words/胡志明市.md)<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby>: Ho Chi Minh City.
 - <ruby>[堤岸](../words/堤岸.md)<rt>ㄙㄝㄚㄋ</rt></ruby>: Chợ Lớn, the Chinese quarter of Saigon.
-- <ruby>[蜆港](../words/蜆港.md)<rt>ㄏㄝㄋㄏㄛㄫ</rt></ruby>: Da Nang, the largest city of central Vietnam (also written <ruby>峴港<rt>ㄏㄝㄋㄏㄛㄫ</rt></ruby>).
-- <ruby>[芽荘](../words/芽荘.md)<rt>ㄚㄐ⺢ㄫ</rt></ruby>: Nha Trang, a coastal resort city of the south-central coast (also written <ruby>芽莊<rt>ㄚㄐ⺢ㄫ</rt></ruby>).
-- <ruby>[朔荘](../words/朔荘.md)<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>: Sóc Trăng, a city of the Mekong Delta (also written <ruby>朔莊<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>).
-- <ruby>[芹且](../words/芹且.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>: Can Tho, the largest city of the Mekong Delta (also written <ruby>芹苴<rt>ㄍㄧㄋㄑㄛ</rt></ruby>).
-- <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
+- <ruby>[蜆港](../words/蜆港.md)<rt>ㄏㄝㄋㄏㄛㄫ</rt></ruby>: Da Nang, the largest city of central Vietnam.
+- <ruby>[芽荘](../words/芽荘.md)<rt>ㄚㄐ⺢ㄫ</rt></ruby>: Nha Trang, a coastal resort city of the south-central coast.
+- <ruby>[朔荘](../words/朔荘.md)<rt>ㄙㄚㄎㄐ⺢ㄫ</rt></ruby>: Sóc Trăng, a city of the Mekong Delta.
+- <ruby>[芹且](../words/芹且.md)<rt>ㄍㄧㄋㄑㄛ</rt></ruby>: Can Tho, the largest city of the Mekong Delta.
+- <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta.
 - <ruby>[邦美蜀](../words/邦美蜀.md)<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby>: Buôn Ma Thuột, the chief city of the Central Highlands and capital of Đắk Lắk province.
-- <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province (also written <ruby>大叻<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>); the same spelling means "great strength; vigorously", listed on Efforts.
+- <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province; the same spelling means "great strength; vigorously", listed on Efforts.
 - <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
-- <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province (also written <ruby>金瓯<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>); the same spelling means "the nation; a golden chalice", listed on Government.
+- <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province; the same spelling means "the nation; a golden chalice", listed on Government.
 - <ruby>[金角](../words/金角.md)<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby>: Cam Ranh, the city on Cam Ranh Bay, <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> (Chinese sources write it <ruby>金蘭<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby>, a Dan'a'yo spelling choice); the same spelling is Jinjiao, the demon king of *Journey to the West*, listed on Animals.
 - <ruby>[老街](../words/老街.md)<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby>: Lào Cai, the city and province on the border opposite Hekou in Yunnan; the same spelling means "old street; historic old town" elsewhere (see Buildings).
 
 ### Provinces and places
 - <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: Cam Ranh Bay, the deep-water bay of Khánh Hòa province (the Chinese name is <ruby>金蘭灣<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>, also <ruby>金兰湾<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>); the same spelling is the Golden Horn, listed on Geography.
-- <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands (also written <ruby>得樂<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>).
-- <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
+- <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands.
+- <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954.
 - <ruby>[富国](../words/富国.md)<rt>ㄈㄨㄛㄍㄛㄎ</rt></ruby>: Phu Quoc, Vietnam's largest island, in the Gulf of Thailand.
 - <ruby>[会安](../words/会安.md)<rt>ㄏ⼔ㄚㄋ</rt></ruby>: Hoi An, an old trading port of the central coast.
 - <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Quang Nam, a former province of central Vietnam; the same spelling is Guangnan, a county of Yunnan, listed on China.
@@ -91,7 +91,7 @@ date-last-perfect: 2026-10-11
 
 **Vietnamese, the language.** 越南語 is the full name and 越語 the short one, as Chinese and Korean have 漢語 and 韓語. The short form collides with 粤語 (Cantonese), since both read ⼔ㄊ⼄, so 越南語 is the safe form and 越語 is the shorthand to use only when the context rules Cantonese out. 国語 is a third word to keep apart: on this page it means quốc ngữ, the Latin-alphabet writing system, which replaced 字南 (chữ Nôm), though the same word elsewhere means a country's own language or, in Taiwan, Mandarin (see Speech).
 
-**Transliterated names.** Saigon, Da Nang, Nha Trang and the other southern and central names are phonetic transliterations in characters (柴棍, 蜆港, 芽荘), so their characters carry no meaning of their own and the Sinitic exonyms (西貢, 峴港, 芽莊) are kept as aliases. People are written the same way, in ruby-only characters, and have no word files.
+**Transliterated names.** Saigon, Da Nang, Nha Trang and the other southern and central names are phonetic transliterations in characters (柴棍, 蜆港, 芽荘), so their characters carry no meaning of their own, the older Sinitic spellings being look-up aliases only. People are written the same way, in ruby-only characters, and have no word files.
 
 ## See Also
 
