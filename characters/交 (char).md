@@ -28,7 +28,7 @@ danayo_id: 108
 mc_id: 498
 graphemic_classification: 象形
 stand_in: 交
-date-last-perfect: 2026-07-02
+date-last-perfect: 2026-10-12
 aliases:
   - 胶
   - 淆
@@ -70,11 +70,11 @@ boundedness: 80
 - <ruby>[[交際]]<rt>ㄍ⼄ㄨㄐㄝ</rt></ruby> "socialize, hang out"
 - <ruby>[[交通]]<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby> "traffic; transportation"
 - <ruby>[[交響]]<rt>ㄍ⼄ㄨㄏ⼘ㄫ</rt></ruby> "symphonic"
-- [[外交]] "foreign relations; diplomacy"
-- [[援交]] "compensated dating"
-- [[社交]] "social interaction; socializing"
+- <ruby>[[外交]]<rt>⺢ㄧㄍ⼄ㄨ</rt></ruby> "foreign relations; diplomacy"
+- <ruby>[[援交]]<rt>ㄛㄋㄍ⼄ㄨ</rt></ruby> "compensated dating"
+- <ruby>[[社交]]<rt>ㄙ⼘ㄍ⼄ㄨ</rt></ruby> "social interaction; socializing"
 - <ruby>[[雑交]]<rt>ㄐㄚㄆㄍ⼄ㄨ</rt></ruby> "crossbreeding; hybridization"
-- [[性交]] "sexual intercourse"
+- <ruby>[[性交]]<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby> "sexual intercourse"
 - <ruby>[[交替]]<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby> "alternation; to take turns"
 - <ruby>[[交址]]<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby> "Jiaozhi; Giao Chỉ (northern Vietnam)"
 

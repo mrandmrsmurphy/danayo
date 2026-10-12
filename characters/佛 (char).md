@@ -31,7 +31,7 @@ graphemic_classification: 弗
 stand_in: 佛
 注音: ㄅㄨㄊ
 kwin: true
-date-last-perfect: 2026-07-02
+date-last-perfect: 2026-10-12
 tags:
   - character
 boundedness: 40
