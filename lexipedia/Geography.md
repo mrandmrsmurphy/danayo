@@ -112,6 +112,7 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 - <ruby>[新嘉浦](../words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby>, also <ruby>[獅城](../words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> and <ruby>[星洲](../words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>: Indonesia
   - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
+  - <ruby>[旧港](../words/旧港.md)<rt>ㄍ⼜ㄛㄏㄛㄫ</rt></ruby>: Palembang, the old Chinese name of the city in South Sumatra.
 - <ruby>[菲律賓](../words/菲律賓.md)<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>: Philippines
 
 #### <ruby>[南亜](../words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby>
@@ -129,6 +130,7 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 
 #### <ruby>[中亜](../words/中亜.md)<rt>ㄐㄨㄫㄚ</rt></ruby>
 <ruby>[中亜](../words/中亜.md)<rt>ㄐㄨㄫㄚ</rt></ruby> contains steppe, historically associated with nomadic peoples. <ruby>[突厥](../words/突厥.md)<rt>ㄊㄛㄊㄎㄨㄊ</rt></ruby> names the Turks.
+- <ruby>[河中府](../words/河中府.md)<rt>ㄏㄚㄐㄨㄫㄈㄨ</rt></ruby>: Samarkand, the city in Uzbekistan, by its Western Liao and Mongol-era Chinese name.
 
 ### <ruby>[欧洲](../words/欧洲.md)<rt>ㄛㄨㄐㄨㄛ</rt></ruby>
 <ruby>[欧洲](../words/欧洲.md)<rt>ㄛㄨㄐㄨㄛ</rt></ruby>, also <ruby>[欧羅巴](../words/欧羅巴.md)<rt>ㄛㄨㄌㄛ·ㄆㄚ</rt></ruby>, contains peninsulas, inland seas and fragmented terrain.
@@ -178,6 +180,7 @@ The countries of Central America have no words yet; see "Not yet coined" below.
 ### <ruby>[大洋洲](../words/大洋洲.md)<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby>
 <ruby>[大洋洲](../words/大洋洲.md)<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby> consists largely of <ruby>[島屿](../words/島屿.md)<rt>ㄊㄚㄨㄙ⼄</rt></ruby> <ruby>[国家](../words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 - <ruby>[豪洲](../words/豪洲.md)<rt>ㄏㄚㄨㄐㄨㄛ</rt></ruby>: Australia
+  - <ruby>[新金山](../words/新金山.md)<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby>: Melbourne, the dated Chinese name, beside <ruby>[旧金山](../words/旧金山.md)<rt>ㄍ⼜ㄛㄍㄧㄇㄙㄚㄋ</rt></ruby>; a city, not a country.
 - <ruby>[新西蘭](../words/新西蘭.md)<rt>ㄙㄧㄋㄙㄝㄧㄌㄚㄋ</rt></ruby>: New Zealand
 - <ruby>[非志](../words/非志.md)<rt>ㄈㄧㄐㄧ</rt></ruby>: Fiji
 - <ruby>[関島](../words/関島.md)<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby>: Guam

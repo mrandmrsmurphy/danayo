@@ -86,6 +86,7 @@ boundedness: 90
 - <ruby>[[金角]]<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby> "Jinjiao, the demon king of Journey to the West"
 - <ruby>[[金蘭]]<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby> "Cam Ranh; sworn brotherhood"
 - <ruby>[[金蘭湾]]<rt>ㄍㄧㄇㄌㄚㄋ⺢ㄇ</rt></ruby> "Cam Ranh Bay"
+- <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"
