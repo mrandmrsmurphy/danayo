@@ -185,6 +185,7 @@ Not every ancient polity survived to see that unification.  One of the earliest 
 - <ruby>[広東語](../words/広東語.md)<rt>ㄍ⺢ㄫㄉㄛㄫ⼄</rt></ruby>: Cantonese, lit. "Guangdong language" (the Guangdong-based variety; compare <ruby>[粤語](../words/粤語.md)<rt>⼔ㄊ⼄</rt></ruby>, the Yue language as a whole).
 - <ruby>粤語<rt>⼔ㄊ⼄</rt></ruby>: Yue language, Cantonese as a whole.
 - <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — in Taiwan (<ruby>國語<rt>ㄍㄛㄎ·⼄</rt></ruby>) Mandarin as the standard language, beside the PRC's <ruby>普通話<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby>; the ambiguity of the term ("national language" vs a country's own modern language) is explained on its word page.
+- <ruby>[注音符号](../words/注音符号.md)<rt>ㄐㄨㄨㄇㄅㄨㄏㄚㄨ</rt></ruby>: Bopomofo, the phonetic script devised in China in 1913 to write Mandarin syllables, and the notation Dan'a'yo adopted and extended for its own sounds; the page ruby text is written in it.
 
 ## Semantic Range Notes
 

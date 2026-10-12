@@ -33,7 +33,7 @@ graphemic_classification: 象形
 stand_in: 莫
 aliases:
 注音: ㄇㄚㄎ
-date-last-perfect: 2026-07-01
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
