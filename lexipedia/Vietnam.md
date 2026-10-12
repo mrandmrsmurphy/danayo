@@ -1,5 +1,5 @@
 ---
-language: 単亜語
+language: English
 type: lexipedia
 domain: Vietnam
 related_domains:
@@ -52,13 +52,13 @@ status: partial
 - <ruby>[檳知](../words/檳知.md)<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>: Ben Tre, a city of the Mekong Delta (also written <ruby>檳椥<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby>).
 - <ruby>[邦美蜀](../words/邦美蜀.md)<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby>: Buôn Ma Thuột, the chief city of the Central Highlands and capital of Đắk Lắk province.
 - <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: Da Lat, the highland city of Lâm Đồng province (also written <ruby>大叻<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>); the same spelling means "great strength; vigorously", listed on Efforts.
-- <ruby>順化<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
+- <ruby>[順化](../words/順化.md)<rt>ㄙ⼜ㄋㄏ⺢</rt></ruby>: Huế, the imperial capital of the Nguyễn dynasty (1802–1945) on the Perfume River in central Vietnam.
 - <ruby>[金甌](../words/金甌.md)<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>: Cà Mau, the southernmost city of Vietnam, capital of Cà Mau province (also written <ruby>金瓯<rt>ㄍㄧㄇ·ㄛㄨ</rt></ruby>); the same spelling means "the nation; a golden chalice", listed on Government.
 - <ruby>[金角](../words/金角.md)<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby>: Cam Ranh, the city on Cam Ranh Bay, <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> (Chinese sources write it <ruby>金蘭<rt>ㄍㄧㄇㄌㄚㄋ</rt></ruby>, a Dan'a'yo spelling choice); the same spelling is Jinjiao, the demon king of *Journey to the West*, listed on Animals.
 - <ruby>[老街](../words/老街.md)<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby>: Lào Cai, the city and province on the border opposite Hekou in Yunnan; the same spelling means "old street; historic old town" elsewhere (see Buildings).
 
 ### Provinces and places
-- <ruby>金角湾<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: Cam Ranh Bay, the deep-water bay of Khánh Hòa province (the Chinese name is <ruby>金蘭灣<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>, also <ruby>金兰湾<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>); the same spelling is the Golden Horn, listed on Geography.
+- <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: Cam Ranh Bay, the deep-water bay of Khánh Hòa province (the Chinese name is <ruby>金蘭灣<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>, also <ruby>金兰湾<rt>ㄍㄧㄇㄌㄚㄋ·⺢ㄇ</rt></ruby>); the same spelling is the Golden Horn, listed on Geography.
 - <ruby>[得楽](../words/得楽.md)<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>: Đắk Lắk, a province of the Central Highlands (also written <ruby>得樂<rt>ㄊㄜㄎㄌㄚㄎ</rt></ruby>).
 - <ruby>[鄭辺府](../words/鄭辺府.md)<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>: Dien Bien Phu, a town in the northwest, site of the decisive battle of 1954 (also written <ruby>奠邊府<rt>ㄐㄝㄫㄅㄝㄋㄈㄨ</rt></ruby>).
 - <ruby>[富国](../words/富国.md)<rt>ㄈㄨㄛㄍㄛㄎ</rt></ruby>: Phu Quoc, Vietnam's largest island, in the Gulf of Thailand.
@@ -76,10 +76,21 @@ status: partial
 - <ruby>[越共](../words/越共.md)<rt>⼔ㄊㄍ⼄ㄫ</rt></ruby>: Vietcong.
 
 ## Language and Script
-- <ruby>越南語<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Vietnamese language.
+- <ruby>[越南語](../words/越南語.md)<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby>: Vietnamese language.
 - <ruby>[越語](../words/越語.md)<rt>⼔ㄊ⼄</rt></ruby>: Vietnamese (language), the short Sinitic name beside the full <ruby>越南語<rt>⼔ㄊㄋㄚㄇ·⼄</rt></ruby> (homophone of <ruby>[粤語](../words/粤語.md)<rt>⼔ㄊ⼄</rt></ruby>).
 - <ruby>[字南](../words/字南.md)<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby>: Chu Nom, Vietnamese written in Chinese characters.
 - <ruby>[国語](../words/国語.md)<rt>ㄍㄛㄎ·⼄</rt></ruby>: "national language" — quốc ngữ, the Latin-alphabet writing system of Vietnamese, which replaced <ruby>字南<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby>.
 
 ## Peoples and names
 - See also <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>, the "Hundred Yue," on [China](China.md).
+
+## See Also
+
+**Related domains**:
+- [[Geography]] — Vietnam's cities and provinces beside the rest of the Sinosphere
+- [[Government]] — dynasties, offices and parties
+- [[Society]] — peoples and everyday life
+
+**Neighbouring country pages**:
+- [[China]] — the Chinese places, dynasties and peoples that share spellings with entries here
+- [[Korea]] — the Yi dynasty, whose spelling is shared with the Lý dynasty above

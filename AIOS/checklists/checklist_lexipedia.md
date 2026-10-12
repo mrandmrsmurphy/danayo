@@ -13,6 +13,14 @@ This checklist is distinct from the domain-list pages this vault treats as a dif
 
 **Structural exception, user-directed 2026-09-21**: `lexipedia/Kinship.md` deliberately replaces the A1–C1 tiering below with an ego-centered genealogical structure instead — Ego's Generation, then Ascending Generations (Parents → Grandparents → Ancestors) and Descending Generations (Children → Grandchildren → Descendants) as their own top-level sections, plus separate sections for marriage/household-status vocabulary and for family-as-a-whole/lineage vocabulary that don't sit on any single generational rung. This is how real kinship charts organize the same material, and it fits kinship terminology better than a difficulty ladder does. `Domain Overview`, `Semantic Range Notes`, and `See Also` are unchanged and still required. Don't "fix" Kinship's structure back to A1–C1 on a future audit — this was a deliberate, explicit choice, not an oversight. If another domain's content structure would obviously suit it better organized some other way than A1–C1 (this is the first and, as of this note, only such case), that's a discussion to have with the user before changing it, not a default.
 
+**Country pages exception, user-directed 2026-10-11**: `lexipedia/China.md`, `Japan.md`, `Korea.md`, and `Vietnam.md` are catalogues of vocabulary specific to one country (famous people, places, dynasties and states, clans, script and language), not semantic-field domain pages, so the A1–C1 tiers do not apply; their existing topical sections (e.g. Places, Kingdoms and Dynasties, Language and Script) stand in for them. Adapted criteria for `date-last-perfect`:
+- Criterion 2 becomes: `status: complete` means the catalogue is thorough for its stated scope (there is no 1500-word threshold and no tier requirement).
+- Criteria 1, 3, 4, 5, and 7 apply unchanged. Criterion 4 here means each place, dynasty, clan, or institution entry links the word file for that exact referent. **Personal names are an explicit exception (user-directed 2026-10-11)**: no words are created for them, since this is a lexicon, not an encyclopedia; they appear as ruby-only transliterated characters, with unlinked ruby accepted.
+- `## See Also` is required.
+- `## Semantic Range Notes` is required only where there is real Dan'a'yo-specific divergence (e.g. how 朝鮮 and 韓国 divide on Korea.md); omit the section rather than invent content.
+- Word and character links use `../words/` and `../characters/`, never a leading slash.
+Don't "fix" these pages back to A1–C1 on a future audit.
+
 ---
 
 ## Frontmatter

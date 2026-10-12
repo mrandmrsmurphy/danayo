@@ -1,5 +1,5 @@
 ---
-language: 単亜語
+language: English
 type: lexipedia
 domain: China
 related_domains:
