@@ -4,19 +4,13 @@ language: 単亜語
 
 ## 東亜
 
-<ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include 
-- <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby>
-  - China-specific places, historical states, ancient geography and people are on [China](China.md).
-- <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>
-  - Japan-specific places, clans and companies are on [Japan](Japan.md).
-- <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> - and its capital, <ruby>[漢城](words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby> (Seoul)
-  - Korea-specific kingdoms, script, rulers and people are on [Korea](Korea.md).
-  - official name: <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>, the Republic of Korea
-- <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>
-- <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>
-- <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>
-- <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>
-- <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>: Taipei.
+<ruby>[東亜](words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby> lies in the <ruby>[亜洲](words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby><ruby>[東部](words/東部.md)<rt>ㄉㄛㄫㄅㄛㄨ</rt></ruby>. Major states include :
+- <ruby>[中国](words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> - China-specific places, historical states, ancient geography and people are on [China](China.md).
+- <ruby>[日本](words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby> - Japan-specific places, clans and companies are on [Japan](Japan.md).
+- <ruby>[韓国](words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> and <ruby>[朝鮮](words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby> - Korea-specific kingdoms, script, rulers and people are on [Korea](Korea.md).
+- <ruby>[蒙古](words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby> - Mongolia
+- <ruby>[西蔵](words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby> - Tibet
+- <ruby>[台湾](words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby> and it's capital <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>
 - <ruby>[極東](../words/極東.md)<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby>: the Far East — a regional name for East Asia, beside [[東亜]].
 Historically related regions include <ruby>[満洲](words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
 
@@ -36,13 +30,12 @@ In the <ruby>[近代](/words/近代.md)<rt>ㄍㄧㄋㄉㄚㄧ</rt></ruby>, <ruby
 
 ## 東南亜
 <ruby>[東南亜](words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>中国<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>印度洋<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>.
-The climate is largely tropical ([[熱帯]][[気候]]). Island groups ([[群島]]) and straits ([[../words/海峡]]) are common.  
-(<ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>交通<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>) forms an economic foundation (<ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>).
+[[気候]] [[熱帯]]. [[群島]] and [[海峡]] are common.  
+<ruby>[海上](../words/海上.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby><ruby>交通<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby> forms an <ruby>経済<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby><ruby>[基盤](../words/基盤.md)<rt>ㄍㄧㄅㄚㄋ</rt></ruby>.
 
-Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) and later established independent states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>). Political structures ([[政治]][[体制]]) vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
+Many states experienced [[殖民]]<ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby> and later established [[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>. [[政治]][[体制]] vary.  Formerly called <ruby>[印度支那](/words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 
-- <ruby>[越南](words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>
-  - Vietnam-specific people, places and history are on [Vietnam](Vietnam.md).
+- <ruby>[越南](words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby> - Vietnam-specific people, places and history are on [Vietnam](Vietnam.md).
 - <ruby>[泰国](words/泰国.md)<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>
 - <ruby>[面田](words/面田.md)<rt>ㄇ⼶ㄋㄉㄝㄋ</rt></ruby>
 - <ruby>[高綿](words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>
@@ -52,15 +45,15 @@ Many states experienced colonial rule ([[殖民]]<ruby>[統治](../words/統治.
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>  
   - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
 - <ruby>[菲律賓](words/菲律賓.md)<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>
-These states developed along maritime trade routes (<ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]]) and <ruby>大河<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>.
+These states developed along <ruby>海上<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>[[商路]] and <ruby>大河<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>.
 
 ## 南亜
 <ruby>[南亜](/words/南亜.md)<rt>ㄋㄚㄇ·ㄚ</rt></ruby> centers on <ruby>[印度](../words/印度.md)<rt>ㄧㄋㄉㄛ</rt></ruby>.
-<ruby>大河<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> and high mountains ([[高山]]) define the region.
+<ruby>大河<rt>ㄉㄚㄧㄏㄚ</rt></ruby><ruby>流域<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby> and [[高山]] define the region.
 
 <ruby>古代<rt>ㄍㄛㄉㄚㄧ</rt></ruby><ruby>文明<rt>ㄇㄨㄋㄇ⼶ㄫ</rt></ruby> developed early.  
 <ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby><ruby>思想<rt>ㄙㄚㄙㄚㄫ</rt></ruby> influenced surrounding regions.  
-Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
+[[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby> preceded the formation of <ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby><ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>.
 
 - <ruby>印度<rt>ㄧㄋㄉㄛ</rt></ruby>  
 - <ruby>[天竺](words/天竺.md)<rt>ㄊㄝㄋㄐㄨㄎ</rt></ruby>: the classical name for India, as the homeland of the Buddha and source of the sutras (the Buddhist-era name, where 印度 is the modern state).
@@ -69,13 +62,13 @@ Colonial administration ([[殖民]]<ruby>統治<rt>ㄊㄛㄫㄑㄧ</rt></ruby>) 
 - <ruby>[獅子国](/words/獅子国.md)<rt>ㄙㄧㄜㄐㄜㄍㄛㄎ</rt></ruby>
 - <ruby>[泥婆羅](/words/泥婆羅.md)<rt>ㄋㄝㄧㄅㄚㄌㄛ</rt></ruby>  
 - <ruby>[不丹](/words/不丹.md)<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby>
-The Himalayan region (喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>) forms a natural boundary (<ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]]).
+The 喜馬拉雅<ruby>山地<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby> forms a <ruby>自然<rt>ㄐㄧㄜㄋ⼶ㄋ</rt></ruby>[[界線]].
 
 ## West and Central Asia
-West Asia ([[西亜]]) includes desert zones ([[沙漠]][[地帯]]) and strategic trade routes ([[商路]][[要地]]).  
-Central Asia ([[中亜]]) contains steppe regions (<ruby>草原<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>[[地帯]]) historically associated with <ruby>遊牧<rt>⼜ㄛㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
+[[西亜]] includes [[沙漠]][[地帯]] and [[商路]][[要地]].  
+[[中亜]] contains <ruby>草原<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>[[地帯]] historically associated with <ruby>遊牧<rt>⼜ㄛㄇㄨㄎ</rt></ruby><ruby>民族<rt>ㄇㄧㄋㄐㄛㄎ</rt></ruby>.
 
-Imperial expansion (<ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[興起]]) and religious diffusion (<ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>[[拡散]]) affected broader <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
+<ruby>帝国<rt>ㄊㄝㄧㄍㄛㄎ</rt></ruby>[[興起]] and <ruby>宗教<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>[[拡散]] affected broader <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>歴史<rt>ㄌㄝㄎㄙㄧ</rt></ruby>.
 
 ### 西亜
 - Iran (伊朗) , formerly Persia [[波斯]]
@@ -137,10 +130,10 @@ Post-independence states ([[独立]]<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>)
 - South Africa ([[南非]])  
 - Morocco (摩洛哥)  
 - Algeria (阿爾及利亜)
-The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and Nile River ([[尼羅河]]) are <ruby>主要<rt>ㄐㄨ⼄ㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>要素<rt>⼄ㄨㄙㄛ</rt></ruby>.
+The Sahara ([[散|撒]][[呵|哈]][[拉]][[沙漠]]) and [[尼羅河]] are <ruby>主要<rt>ㄐㄨ⼄ㄨ</rt></ruby><ruby>地理<rt>ㄉㄧㄜㄌㄧ</rt></ruby><ruby>要素<rt>⼄ㄨㄙㄛ</rt></ruby>.
 
 ## 美洲
-<ruby>美洲<rt>ㄇㄧㄐㄨㄛ</rt></ruby> include North America ([[北美]]) and South America ([[南美]]).
+<ruby>美洲<rt>ㄇㄧㄐㄨㄛ</rt></ruby> include [[北美]] and [[南美]].
 
 北美 contains large plains (広平原) and industrial states (工業<ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>).  
 南美 includes <ruby>山脈<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> and tropical forests ([[熱帯]]<ruby>森林<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>).
