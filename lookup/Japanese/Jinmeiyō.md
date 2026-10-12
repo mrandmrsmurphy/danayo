@@ -481,10 +481,9 @@ tags: [lookup]
 475. [噌](../../characters/噌.md)
 476. [凌](../../characters/凌.md)
 477. [贋 (char)](../../characters/贋%20(char).md)
-478. [汎 (char)](../../characters/汎%20(char).md)
-479. [穆](../../characters/穆.md)
-480. [莱](../../characters/莱.md)
-481. [萬](../../characters/萬.md)
+478. [穆](../../characters/穆.md)
+479. [莱](../../characters/莱.md)
+480. [萬](../../characters/萬.md)
 
 ## Not Done
 

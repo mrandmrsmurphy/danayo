@@ -23,7 +23,7 @@ english:
   - pan-
 羅馬字: fam
 諺文: "빰"
-joyo_level: "日本人名用漢字"
+joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 7508
@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-16
 - 形声 (OC *pʰoms, *bum): semantic [[Radical 085|水]] ("water") + phonetic [[凡]] — floating, all-encompassing; "pan-".
 - [SKIP-1-3-3](Lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](Lookup/Stroke/Stroke%2006.md))
 - 2778th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄈㄚㄇ](syllables/ㄈㄚㄇ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
+- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
 - <ruby>[[汎]]<rt>ㄈㄚㄇ</rt></ruby> "pan-" (stand-in for 汎 (char); dropped from the Korean HS hanja list in 2000)
