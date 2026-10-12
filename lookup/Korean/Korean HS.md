@@ -1,58 +1,58 @@
 ---
-date-last-perfect: 2026-07-04
+date-last-perfect: 2026-10-12
 tags: [lookup]
 ---
 
 ## ㄱ
 #### 가
-1. [架](characters/架%20(char).md) (시렁 가)
-2. [暇](characters/暇.md) (겨를 가)
+1. [架](../../characters/架%20(char).md) (시렁 가)
+2. [暇](../../characters/暇.md) (겨를 가)
 #### 각
-3. [閣](characters/閣.md) (누각 각)
-4. [却](characters/却%20(char).md) (물리칠 각)
-5. [覺](characters/覚.md) (깨달을 각)
-6. [刻](characters/刻.md) (새길 각)
+3. [閣](../../characters/閣.md) (누각 각)
+4. [却](../../characters/却%20(char).md) (물리칠 각)
+5. [覺](../../characters/覚.md) (깨달을 각)
+6. [刻](../../characters/刻.md) (새길 각)
 #### 간
-7. [刊](characters/刊%20(char).md) (책 펴낼 간)
-8. [肝](characters/肝.md) (간 간)
-9. [幹](characters/幹.md) (줄기 간) 
-10. [簡](characters/簡.md) (대쪽 간) 
-11. [姦](characters/姦.md) (간사할 간) 
-12. [懇](characters/懇.md) (정성 간)
+7. [刊](../../characters/刊%20(char).md) (책 펴낼 간)
+8. [肝](../../characters/肝.md) (간 간)
+9. [幹](../../characters/幹.md) (줄기 간) 
+10. [簡](../../characters/簡.md) (대쪽 간) 
+11. [姦](../../characters/姦.md) (간사할 간) 
+12. [懇](../../characters/懇.md) (정성 간)
 #### 감
-[監](characters/監.md) (볼 감) , [鑒](characters/鑑.md) (거울 감)
+[監](../../characters/監.md) (볼 감) , [鑒](../../characters/鑑.md) (거울 감)
 #### 강
-[康](characters/康.md) (편안할 강) , [剛](characters/剛.md) (굳셀 강) , [鋼](characters/鋼.md) (강철 강) , [綱](characters/綱.md) (벼리 강)
+[康](../../characters/康.md) (편안할 강) , [剛](../../characters/剛.md) (굳셀 강) , [鋼](../../characters/鋼.md) (강철 강) , [綱](../../characters/綱.md) (벼리 강)
 #### 개
-[介](characters/介.md) (끼일 개) , [慨](characters/慨%20(char).md) (분개할 개) , [槪](characters/概%20(char).md) (대개 개) , [盖](characters/蓋.md) (덮을 개)
+[介](../../characters/介.md) (끼일 개) , [慨](../../characters/慨%20(char).md) (분개할 개) , [槪](../../characters/概%20(char).md) (대개 개) , [盖](../../characters/蓋.md) (덮을 개)
 #### 거
-[距](characters/距.md) (떨어질 거) , [拒](characters/拒.md) (막을 거) , [據](characters/拠.md) (의거할 거)
+[距](../../characters/距.md) (떨어질 거) , [拒](../../characters/拒.md) (막을 거) , [據](../../characters/拠.md) (의거할 거)
 #### 건
-[件](characters/件.md) (사건 건) , [健](characters/健.md) (튼튼할 건)
+[件](../../characters/件.md) (사건 건) , [健](../../characters/健.md) (튼튼할 건)
 #### 걸
-[傑](characters/傑.md) (뛰어날 걸) , [乞](characters/乞%20(char).md) (빌 걸)
+[傑](../../characters/傑.md) (뛰어날 걸) , [乞](../../characters/乞%20(char).md) (빌 걸)
 #### 검
-[儉](characters/倹.md)  (검소할 검) , [劒](characters/剣%20(char).md) (칼 검) , [檢](characters/検.md) (검사할 검)
+[儉](../../characters/倹.md)  (검소할 검) , [劒](../../characters/剣%20(char).md) (칼 검) , [檢](../../characters/検.md) (검사할 검)
 #### 격
-[格](characters/格%20(char).md) (바로잡을 격) , [擊](characters/撃%20(char).md)  (부딪칠 격) , [激](characters/激.md) (과격할 격) , [隔 (char)](characters/隔%20(char).md) (사이 뜰 격)
+[格](../../characters/格%20(char).md) (바로잡을 격) , [擊](../../characters/撃%20(char).md)  (부딪칠 격) , [激](../../characters/激.md) (과격할 격) , [隔 (char)](../../characters/隔%20(char).md) (사이 뜰 격)
 #### 견
-[肩](characters/肩%20(char).md) (어깨 견) , [絹](characters/絹%20(char).md) (명주 견) , [遣](characters/遣%20(char).md) (보낼 견) , [牽](characters/牽.md) (끌 견)
+[肩](../../characters/肩%20(char).md) (어깨 견) , [絹](../../characters/絹%20(char).md) (명주 견) , [遣](../../characters/遣%20(char).md) (보낼 견) , [牽](../../characters/牽.md) (끌 견)
 #### 결
-[缺](characters/缺.md) (이지러질 결)
+[缺](../../characters/缺.md) (이지러질 결)
 #### 겸
-[兼](characters/兼%20(char).md) (겸할 겸) , [謙](characters/謙.md) (겸손할 겸)
+[兼](../../characters/兼%20(char).md) (겸할 겸) , [謙](../../characters/謙.md) (겸손할 겸)
 #### 경
-[竟](characters/竟%20(char).md) (다할 경) , [境](characters/境.md) (지경 경) , [鏡](characters/鏡%20(char).md) (거울 경) , [頃](characters/頃%20(char).md) (잠깐 경) , [傾](characters/傾.md) (기울 경) , [硬](characters/硬%20(char).md) (굳을 경) , [警](characters/警.md) (경계할 경) , [徑](characters/径.md) (지름길 경) , [卿](characters/卿%20(char).md) (벼슬 경)
+[竟](../../characters/竟%20(char).md) (다할 경) , [境](../../characters/境.md) (지경 경) , [鏡](../../characters/鏡%20(char).md) (거울 경) , [頃](../../characters/頃%20(char).md) (잠깐 경) , [傾](../../characters/傾.md) (기울 경) , [硬](../../characters/硬%20(char).md) (굳을 경) , [警](../../characters/警.md) (경계할 경) , [徑](../../characters/径.md) (지름길 경) , [卿](../../characters/卿%20(char).md) (벼슬 경)
 #### 계
-[系](characters/系.md) (이을 계) , [係](characters/係.md) (걸릴 계) , [戒](characters/戒.md) (경계할 계) , [械](characters/械.md) (형틀 계) , [繼](characters/継.md) (이을 계) , [契](characters/契.md) (맺을 계) , [桂](characters/桂.md) (계수나무 계) , [啓](characters/啓.md) (열 계) , [階](characters/階.md) (섬돌 계) , [繫](characters/繋.md) (맬 계)
+[系](../../characters/系.md) (이을 계) , [係](../../characters/係.md) (걸릴 계) , [戒](../../characters/戒.md) (경계할 계) , [械](../../characters/械.md) (형틀 계) , [繼](../../characters/継.md) (이을 계) , [契](../../characters/契.md) (맺을 계) , [桂](../../characters/桂.md) (계수나무 계) , [啓](../../characters/啓.md) (열 계) , [階](../../characters/階.md) (섬돌 계) , [繫](../../characters/繋.md) (맬 계)
 #### 고
-[枯](characters/枯%20(char).md) (마를 고) , [姑](characters/姑.md) (시어미 고) , [庫](characters/庫.md) (곳집 고) , [孤](characters/孤.md) (외로울 고) , [鼓](characters/鼓%20(char).md) (북 고) , [稿](characters/稿%20(char).md) (볏집 고) , [顧](characters/顧.md) (돌아볼 고)
+[枯](../../characters/枯%20(char).md) (마를 고) , [姑](../../characters/姑.md) (시어미 고) , [庫](../../characters/庫.md) (곳집 고) , [孤](../../characters/孤.md) (외로울 고) , [鼓](../../characters/鼓%20(char).md) (북 고) , [稿](../../characters/稿%20(char).md) (볏집 고) , [顧](../../characters/顧.md) (돌아볼 고)
 #### 곡
 [哭 (char)](../../characters/哭%20(char).md) (울 곡)
 #### 공
 [孔 (char)](../../characters/孔%20(char).md) (구멍 공) , [供](../../characters/供.md) (이바지할 공) , [恭](../../characters/恭.md) (공손할 공) , [攻 (char)](../../characters/攻%20(char).md) (칠 공) , [恐](../../characters/恐.md) (두려울 공) , [貢](../../characters/貢.md) (바칠 공)
 #### 과
-[[誇 (char)]] (자랑할 과) , [寡](../../characters/寡.md) (적을 과)
+[誇 (char)](../../characters/誇%20(char).md) (자랑할 과) , [寡](../../characters/寡.md) (적을 과)
 #### 곽
 [郭 (char)](../../characters/郭%20(char).md) (성곽 곽)
 #### 관
@@ -66,7 +66,7 @@ tags: [lookup]
 #### 교
 [郊](../../characters/郊.md) (성 밖 교) , [較](../../characters/較.md) (견줄 교) , [巧](../../characters/巧.md) (공교할 교) , [矯](../../characters/矯.md) (바로잡을 교)
 #### 구
-[具](../../characters/具.md) (갖출 구) , [俱](characters/倶%20(char).md) (함께 구) , [區](../../characters/区.md) (지경 구) , [驅](../../characters/駆%20(char).md) (몰 구) , [苟 (char)](../../characters/苟%20(char).md) (진실로 구) , [拘](../../characters/拘.md) (잡을 구) , [狗](../../characters/狗.md) (개 구) , [丘 (char)](../../characters/丘%20(char).md) (언덕 구) , [懼](../../characters/惧.md) (두려워할 구) , [龜](../../characters/亀%20(char).md) (땅 이름 구) , [構](../../characters/構.md) (얽을 구) , [球 (char)](../../characters/球%20(char).md) (공 구)
+[具](../../characters/具.md) (갖출 구) , [俱](../../characters/倶%20(char).md) (함께 구) , [區](../../characters/区.md) (지경 구) , [驅](../../characters/駆%20(char).md) (몰 구) , [苟 (char)](../../characters/苟%20(char).md) (진실로 구) , [拘](../../characters/拘.md) (잡을 구) , [狗](../../characters/狗.md) (개 구) , [丘 (char)](../../characters/丘%20(char).md) (언덕 구) , [懼](../../characters/惧.md) (두려워할 구) , [龜](../../characters/亀%20(char).md) (땅 이름 구) , [構](../../characters/構.md) (얽을 구) , [球 (char)](../../characters/球%20(char).md) (공 구)
 #### 국
 [菊 (char)](../../characters/菊%20(char).md) (국화 국) , [局 (char)](../../characters/局%20(char).md) (판 국)
 #### 군
@@ -110,15 +110,15 @@ tags: [lookup]
 #### 납
 [納 (char)](../../characters/納%20(char).md) (바칠 납)
 #### 낭
-[娘 (char)](characters/娘%20(char).md) (아가씨 낭)
+[娘 (char)](../../characters/娘%20(char).md) (아가씨 낭)
 #### 내
-[[../../characters/奈]] (어찌 내)  [耐 (char)](../../characters/耐%20(char).md) (견딜 내)
+[../../characters/奈](../../characters/奈.md) (어찌 내)  [耐 (char)](../../characters/耐%20(char).md) (견딜 내)
 #### 녕
 [寧](../../characters/寧.md) (편안할 녕)
 #### 노
 [奴](../../characters/奴.md) (종 노)  [努](../../characters/努.md) (힘쓸 노)
 #### 뇌
-[[脳 (char)|腦]] (뇌 뇌)  [[悩 (char)|惱]] (괴로워할 뇌)
+[腦](../../characters/脳%20(char).md) (뇌 뇌)  [惱](../../characters/悩%20(char).md) (괴로워할 뇌)
 #### 니
 [泥 (char)](../../characters/泥%20(char).md) (진흙 니)
 
@@ -134,17 +134,17 @@ tags: [lookup]
 #### 당
 [唐](../../characters/唐.md) (당나라 당)  [糖 (char)](../../characters/糖%20(char).md) (사탕 당)  [黨](../../characters/党.md) (무리 당)
 #### 대
-[[帯 (char)|帶]] (띠 대)  [[台 (char)|臺]] (대 대)  [貸](../../characters/貸.md) (빌릴 대)  [隊 (char)](../../characters/隊%20(char).md) (떼 대)
+[帶](../../characters/帯%20(char).md) (띠 대)  [臺](../../characters/台%20(char).md) (대 대)  [貸](../../characters/貸.md) (빌릴 대)  [隊 (char)](../../characters/隊%20(char).md) (떼 대)
 #### 도
-[倒 (char)](characters/倒%20(char).md) (넘어질 도)  [挑](../../characters/挑.md) (휠 도)  [桃](../../characters/桃.md) (복숭아나무 도)  [跳](../../characters/跳.md) (뛸 도)  [逃](../../characters/逃.md) (달아날 도)  [[渡 (char)]] (건널 도)  [陶](../../characters/陶.md) (질그릇 도)  [途](../../characters/途.md) (길 도)  [稻](../../characters/稲.md) (벼 도)  [導](../../characters/導.md) (이끌 도)  [盜](../../characters/盗.md) (훔칠 도)  [塗](../../characters/塗.md) (진흙 도)
+[倒 (char)](../../characters/倒%20(char).md) (넘어질 도)  [挑](../../characters/挑.md) (휠 도)  [桃](../../characters/桃.md) (복숭아나무 도)  [跳](../../characters/跳.md) (뛸 도)  [逃](../../characters/逃.md) (달아날 도)  [渡 (char)](../../characters/渡%20(char).md) (건널 도)  [陶](../../characters/陶.md) (질그릇 도)  [途](../../characters/途.md) (길 도)  [稻](../../characters/稲.md) (벼 도)  [導](../../characters/導.md) (이끌 도)  [盜](../../characters/盗.md) (훔칠 도)  [塗](../../characters/塗.md) (진흙 도)
 #### 독
 [毒 (char)](../../characters/毒%20(char).md) (독 독)  [督](../../characters/督.md) (살펴볼 독)  [篤](../../characters/篤.md) (도타울 독)
 #### 돈
-[豚 (char)](characters/豚%20(char).md) (돼지 돈)  [敦](../../characters/敦.md) (도타울 돈)
+[豚 (char)](../../characters/豚%20(char).md) (돼지 돈)  [敦](../../characters/敦.md) (도타울 돈)
 #### 돌
 [突](../../characters/突.md) (갑자기 돌)
 #### 동
-[[銅 (char)]] (구리 동)  [凍](../../characters/凍.md) (얼 동)
+[銅 (char)](../../characters/銅%20(char).md) (구리 동)  [凍](../../characters/凍.md) (얼 동)
 #### 둔
 [鈍](../../characters/鈍%20(char).md) (무딜 둔)  [屯 (char)](../../characters/屯%20(char).md) (진칠 둔)
 #### 등
@@ -168,17 +168,17 @@ tags: [lookup]
 #### 려
 [麗](../../characters/麗.md) (고울 려)  [慮](../../characters/慮.md) (생각할 려)  [勵](../../characters/励.md) (힘쓸 려)
 #### 력
-[[暦 (char)|曆]] (책력 력)
+[曆](../../characters/暦%20(char).md) (책력 력)
 #### 련
-[鍊](../../characters/錬.md) (불릴 련)  [憐](../../characters/憐.md) (불쌍히 여길 련)  _連 <--聯  (잇달 련)_  [戀](../../characters/恋%20(char).md) (사모할 련)  [蓮 (char)](../../characters/蓮%20(char).md) (연 련)
+[鍊](../../characters/錬.md) (불릴 련)  [憐](../../characters/憐.md) (불쌍히 여길 련)  [聯](../../characters/連%20(char).md) (잇달 련)  [戀](../../characters/恋%20(char).md) (사모할 련)  [蓮 (char)](../../characters/蓮%20(char).md) (연 련)
 #### 렬
 [裂](../../characters/裂.md) (찢을 렬)  [劣](../../characters/劣.md) (못할 렬)
 #### 렴
 [廉 (char)](../../characters/廉%20(char).md) (청렴할 렴)
 #### 렵
-[[characters/獵 (char)|獵]] (사냥 렵)
+[獵](../../characters/獵%20(char).md) (사냥 렵)
 #### 령
-[嶺](../../characters/嶺.md) (재 령)  [[零 (char)]] (떨어질 령)  [靈](../../characters/霊.md) (신령 령)
+[嶺](../../characters/嶺.md) (재 령)  [零 (char)](../../characters/零%20(char).md) (떨어질 령)  [靈](../../characters/霊.md) (신령 령)
 #### 례
 [隷](../../characters/隷.md) (종 례)
 #### 로
@@ -188,13 +188,13 @@ tags: [lookup]
 #### 롱
 [弄 (char)](../../characters/弄%20(char).md) (희롱할 롱)
 #### 뢰
-[[雷 (char)]] (우레 뢰)  [賴](../../characters/頼.md) (힘입을 뢰)
+[雷 (char)](../../characters/雷%20(char).md) (우레 뢰)  [賴](../../characters/頼.md) (힘입을 뢰)
 #### 료
 [了 (char)](../../characters/了%20(char).md) (마칠 료)  [僚](../../characters/僚.md) (동료 료)
 #### 룡
-[[龍 (char)]] (용 룡)
+[龍 (char)](../../characters/龍%20(char).md) (용 룡)
 #### 루
-[屢 (char)](../../characters/屢%20(char).md) (창 루)  [樓](../../characters/楼.md) (다락 루)  [累](../../characters/累.md) (묶을 루)  [[涙 (char)|淚]] (눈물 루)  [漏 (char)](../../characters/漏%20(char).md) (샐 루)
+[屢 (char)](../../characters/屢%20(char).md) (창 루)  [樓](../../characters/楼.md) (다락 루)  [累](../../characters/累.md) (묶을 루)  [淚](../../characters/涙%20(char).md) (눈물 루)  [漏 (char)](../../characters/漏%20(char).md) (샐 루)
 #### 류
 [類](../../characters/類.md) (무리 류)
 #### 륜
@@ -204,7 +204,7 @@ tags: [lookup]
 #### 륭
 [隆 (char)](../../characters/隆%20(char).md) (클 륭)
 #### 리
-[梨 (char)](../../characters/梨%20(char).md) (배나무 리)  [吏](../../characters/吏.md) (벼슬아치 리)  [離](../../characters/離.md) (떼놓을 리)  [裏](../../characters/裏.md), [[characters/裏]] (속 리)  [履 (char)](../../characters/履%20(char).md) (밟을 리)
+[梨 (char)](../../characters/梨%20(char).md) (배나무 리)  [吏](../../characters/吏.md) (벼슬아치 리)  [離](../../characters/離.md) (떼놓을 리)  [裏](../../characters/裏.md), [characters/裏](../../characters/裏.md) (속 리)  [履 (char)](../../characters/履%20(char).md) (밟을 리)
 #### 린
 [隣 (char)](../../characters/隣%20(char).md) (이웃 린)
 #### 림
@@ -232,7 +232,7 @@ tags: [lookup]
 #### 명
 [銘](../../characters/銘.md) (새길 명)  [冥 (char)](../../characters/冥%20(char).md) (어두울 명)
 #### 모
-[某](characters/某%20(char).md) (아무개 모)  [謀](characters/謀%20(char).md) (꾀할 모)  [模](../../characters/模.md) (법 모)  [貌](../../characters/貌.md) (얼굴 모)  [募](../../characters/募.md) (모을 모)  [慕](../../characters/慕.md) (그리워할 모)  [侮](../../characters/侮.md) (업신여길 모)  [冒](../../characters/冒.md) (무릅쓸 모)
+[某](../../characters/某%20(char).md) (아무개 모)  [謀](../../characters/謀%20(char).md) (꾀할 모)  [模](../../characters/模.md) (법 모)  [貌](../../characters/貌.md) (얼굴 모)  [募](../../characters/募.md) (모을 모)  [慕](../../characters/慕.md) (그리워할 모)  [侮](../../characters/侮.md) (업신여길 모)  [冒](../../characters/冒.md) (무릅쓸 모)
 #### 목
 [牧 (char)](../../characters/牧%20(char).md) (칠 목)  [睦](../../characters/睦.md) (화목할 목)
 #### 몰
@@ -242,7 +242,7 @@ tags: [lookup]
 #### 묘
 [苗](../../characters/苗.md) (모 묘)  [廟](../../characters/廟.md) (사당 묘)  [墓](../../characters/墓.md) (무덤 묘)
 #### 무
-[貿](../../characters/貿.md) (바꿀 무)  [霧 (char)](characters/霧%20(char).md) (안개 무)
+[貿](../../characters/貿.md) (바꿀 무)  [霧 (char)](../../characters/霧%20(char).md) (안개 무)
 #### 묵
 [默](../../characters/黙.md) (묵묵할 묵)
 #### 미
@@ -267,13 +267,13 @@ tags: [lookup]
 [芳](../../characters/芳.md) (꽃다울 방)  [傍 (char)](../../characters/傍%20(char).md) (곁 방)  [妨](../../characters/妨.md) (방해할 방)  [倣](../../characters/倣.md) (본뜰 방)  [邦](../../characters/邦.md) (나라 방)
 
 #### 배
-[倍 (char)](../../characters/倍%20(char).md) (곱 배)  [培](../../characters/培.md) (북돋을 배)  [配 (char)](../../characters/配%20(char).md) (아내 배)  [排](characters/排%20(char).md) (밀칠 배)  [輩 (char)](../../characters/輩%20(char).md) (무리 배)  [背 (char)](../../characters/背%20(char).md) (등 배)
+[倍 (char)](../../characters/倍%20(char).md) (곱 배)  [培](../../characters/培.md) (북돋을 배)  [配 (char)](../../characters/配%20(char).md) (아내 배)  [排](../../characters/排%20(char).md) (밀칠 배)  [輩 (char)](../../characters/輩%20(char).md) (무리 배)  [背 (char)](../../characters/背%20(char).md) (등 배)
 
 #### 백
 [伯](../../characters/伯.md) (맏 백)
 
 #### 번
-[煩 (char)](../../characters/煩%20(char).md) (괴로워할 번)  [繁](../../characters/繁.md) (많을 번)  [[翻 (char)|飜]] (펄럭일 번)
+[煩 (char)](../../characters/煩%20(char).md) (괴로워할 번)  [繁](../../characters/繁.md) (많을 번)  [飜](../../characters/翻%20(char).md) (펄럭일 번)
 
 #### 벌
 [罰](../../characters/罰.md) (죄 벌)
@@ -288,7 +288,7 @@ tags: [lookup]
 [辯](../../characters/弁%20(char).md) (말 잘할 변)  [辨](../../characters/弁%20(char).md) (분별할 변)  [邊](../../characters/辺.md) (가 변)
 
 #### 병
-[竝](../../characters/並%20(char).md) (아우를 병)  [屛](../../characters/屏.md) (병풍 병)
+[竝](../../characters/並%20(char).md) (아우를 병)  [屛](../../characters/屏.md) (병풍 병)  [瓶 (char)](../../characters/瓶%20(char).md) (병 병)
 
 #### 보
 [普](../../characters/普.md) (널리 보)  [譜](../../characters/譜.md) (족보 보)  [補](../../characters/補.md) (도울 보)  [寶](../../characters/宝.md) (보배 보)
@@ -352,7 +352,7 @@ tags: [lookup]
 [涉](../../characters/渉%20(char).md) (건널 섭) [攝](../../characters/摂%20(char).md) (당길 섭)
 
 #### 소
-[召](../../characters/召.md) (부를 소) [昭 (char)](characters/昭%20(char).md) (밝을 소) [蘇](../../characters/蘇.md) (깨어날 소) [騷](../../characters/騒%20(char).md) (떠들 소) [燒](../../characters/焼.md) (불태울 소) [訴](../../characters/訴.md) (하소연할 소) [掃](../../characters/掃.md) (쓸 소) [疎](../../characters/疎.md) (트일 소) [蔬](../../characters/蔬.md) (푸성귀 소)
+[召](../../characters/召.md) (부를 소) [昭 (char)](../../characters/昭%20(char).md) (밝을 소) [蘇](../../characters/蘇.md) (깨어날 소) [騷](../../characters/騒%20(char).md) (떠들 소) [燒](../../characters/焼.md) (불태울 소) [訴](../../characters/訴.md) (하소연할 소) [掃](../../characters/掃.md) (쓸 소) [疎](../../characters/疎.md) (트일 소) [蔬](../../characters/蔬.md) (푸성귀 소)
 
 #### 속
 [束 (char)](../../characters/束%20(char).md) (묶을 속) [粟](../../characters/粟.md) (조 속) [屬](../../characters/属.md) (엮을 속)
@@ -370,16 +370,16 @@ tags: [lookup]
 [衰](../../characters/衰.md) (쇠할 쇠)
 
 #### 수
-[[囚]] (가둘 수) [[需]] (구할 수) [[帥]] (장수 수) [[殊]] (다를 수) [[随|隨]] (따를 수) [[輸]] (나를 수) [[獣|獸]] (짐승 수) [[睡]] (잘 수) [[遂]] (이를 수) [[垂]] (드리울 수) [[捜|搜]] (찾을 수)
+[囚](../../characters/囚.md) (가둘 수) [需](../../characters/需.md) (구할 수) [帥](../../characters/帥.md) (장수 수) [殊](../../characters/殊.md) (다를 수) [隨](../../characters/随.md) (따를 수) [輸](../../characters/輸.md) (나를 수) [獸](../../characters/獣.md) (짐승 수) [睡](../../characters/睡.md) (잘 수) [遂](../../characters/遂.md) (이를 수) [垂](../../characters/垂.md) (드리울 수) [搜](../../characters/捜.md) (찾을 수)
 
 #### 숙
-[[熟|孰]] (누구 숙) [[熟]] (익을 숙) [[粛|肅]] (엄숙할 숙)
+[孰](../../characters/熟.md) (누구 숙) [熟](../../characters/熟.md) (익을 숙) [肅](../../characters/粛.md) (엄숙할 숙)
 
 #### 순
-[旬](characters/旬.md) (열흘 순) [殉](characters/殉.md) (따라 죽을 순) [循 (char)](characters/循%20(char).md) (돌 순) [[唇 (char)|脣]] (입술 순) [瞬](characters/瞬.md) (눈깜짝일 순) [巡](characters/巡.md) (돌 순)
+[旬](../../characters/旬.md) (열흘 순) [殉](../../characters/殉.md) (따라 죽을 순) [循 (char)](../../characters/循%20(char).md) (돌 순) [脣](../../characters/唇%20(char).md) (입술 순) [瞬](../../characters/瞬.md) (눈깜짝일 순) [巡](../../characters/巡.md) (돌 순)
 
 #### 술
-[述](characters/述.md) (지을 술) [術 (char)](characters/術%20(char).md) (재주 술)
+[述](../../characters/述.md) (지을 술) [術 (char)](../../characters/術%20(char).md) (재주 술)
 
 #### 습
 [濕](../../characters/湿%20(char).md) (축축할 습) [襲](../../characters/襲.md) (엄습할 습)
@@ -443,23 +443,23 @@ tags: [lookup]
 [焉 (char)](../../characters/焉%20(char).md) (어찌 언)
 
 #### 엄
-厳 (char) <-- 嚴 (엄할 엄)
+[嚴](../../characters/厳%20(char).md) (엄할 엄)
 #### 여
 [予](../../characters/予.md) (나 여)  [輿 (char)](../../characters/輿%20(char).md) (수레 여)
 #### 역
 [譯](../../characters/訳.md) (통변할 역)  [驛](../../characters/駅%20(char).md) (역참 역)  [役](../../characters/役.md) (부릴 역)  [疫](../../characters/疫.md) (염병 역)  [域 (char)](../../characters/域%20(char).md) (지경 역)
 #### 연
-[延](../../characters/延.md) (끌 연)  [燃](../../characters/燃.md) (탈 연)  [燕](../../characters/燕.md) (제비 연)  [沿 (char)](../../characters/沿%20(char).md) (따를 연)  [[鉛 (char)]] (납 연)  [宴](../../characters/宴.md) (잔치 연)  [軟](../../characters/軟.md) (연할 연)  [演 (char)](../../characters/演%20(char).md) (연역할 연)  [緣](../../characters/縁.md) (인연 연)
+[延](../../characters/延.md) (끌 연)  [燃](../../characters/燃.md) (탈 연)  [燕](../../characters/燕.md) (제비 연)  [沿 (char)](../../characters/沿%20(char).md) (따를 연)  [鉛 (char)](../../characters/鉛%20(char).md) (납 연)  [宴](../../characters/宴.md) (잔치 연)  [軟](../../characters/軟.md) (연할 연)  [演 (char)](../../characters/演%20(char).md) (연역할 연)  [緣](../../characters/縁.md) (인연 연)
 #### 열
 [閱](../../characters/閲.md) (검열할 열)
 #### 염
 [染](../../characters/染.md) (물들일 염)  [鹽](../../characters/塩%20(char).md) (소금 염)
 #### 영
-[泳 (char)](../../characters/泳%20(char).md) (헤엄칠 영)  [詠 (char)](../../characters/詠%20(char).md) (읊을 영)  [營](../../characters/営.md) (경영할 영)  [影](../../characters/影.md) (그림자 영)  [映 (char)](characters/映%20(char).md) (비출 영)
+[泳 (char)](../../characters/泳%20(char).md) (헤엄칠 영)  [詠 (char)](../../characters/詠%20(char).md) (읊을 영)  [營](../../characters/営.md) (경영할 영)  [影](../../characters/影.md) (그림자 영)  [映 (char)](../../characters/映%20(char).md) (비출 영)
 #### 예
 [豫](../../characters/予.md) (미리 예)  [譽](../../characters/誉.md) (기릴 예)  [銳](../../characters/鋭.md) (날카로울 예)
 #### 오
-[汚 (char)](../../characters/汚%20(char).md) (더러울 오)  [嗚](../../characters/嗚.md) (탄식소리 오)  [[娯|娛]] (즐거워할 오)  [傲](../../characters/傲.md) (거만할 오)
+[汚 (char)](../../characters/汚%20(char).md) (더러울 오)  [嗚](../../characters/嗚.md) (탄식소리 오)  [娛](../../characters/娯.md) (즐거워할 오)  [傲](../../characters/傲.md) (거만할 오)
 #### 옥
 [獄](../../characters/獄.md) (옥 옥)
 #### 온
@@ -473,20 +473,20 @@ tags: [lookup]
 #### 요
 [腰](../../characters/腰.md) (허리 요)  [搖](../../characters/揺%20(char).md) (흔들 요)  [遙](../../characters/遥.md) (멀 요)  [謠](../../characters/謡.md) (노래 요)
 #### 욕
-1. 欲 <-- 慾 (욕심 욕)
-2. [辱](characters/辱.md) (욕보일 욕)
+1. [慾](../../characters/欲.md) (욕심 욕)
+2. [辱](../../characters/辱.md) (욕보일 욕)
 #### 용
-[庸 (char)](characters/庸%20(char).md) (쓸 용)
+[庸 (char)](../../characters/庸%20(char).md) (쓸 용)
 #### 우
-[羽](characters/羽.md) (깃 우)  [郵](characters/郵.md) (역참 우)  [愚 (char)](characters/愚%20(char).md) (어리석을 우)  [偶](characters/偶.md) (짝 우)  [優](characters/優.md) (넉넉할 우)
+[羽](../../characters/羽.md) (깃 우)  [郵](../../characters/郵.md) (역참 우)  [愚 (char)](../../characters/愚%20(char).md) (어리석을 우)  [偶](../../characters/偶.md) (짝 우)  [優](../../characters/優.md) (넉넉할 우)
 #### 운
-[韻](characters/韻.md) (운 운)
+[韻](../../characters/韻.md) (운 운)
 #### 원
-[員](characters/員.md) (관원 원)  [源](characters/源.md) (근원 원)  [援](characters/援.md) (당길 원)  [院](characters/院.md) (담 원)
+[員](../../characters/員.md) (관원 원)  [源](../../characters/源.md) (근원 원)  [援](../../characters/援.md) (당길 원)  [院](../../characters/院.md) (담 원)
 #### 월
-[越 (char)](characters/越%20(char).md) (넘을 월)
+[越 (char)](../../characters/越%20(char).md) (넘을 월)
 #### 위
-[胃 (char)](characters/胃%20(char).md) (밥통 위)  [[謂]] (이를 위)  [圍](../../characters/囲.md) (둘레 위)  [緯](../../characters/緯.md) (씨 위)  [衛](../../characters/衛.md) (지킬 위)  [違](../../characters/違.md) (어길 위)  [委 (char)](../../characters/委%20(char).md) (맡길 위)  [慰](../../characters/慰.md) (위로할 위)  [僞](../../characters/偽%20(char).md) (거짓 위)
+[胃 (char)](../../characters/胃%20(char).md) (밥통 위)  [謂](../../characters/謂.md) (이를 위)  [圍](../../characters/囲.md) (둘레 위)  [緯](../../characters/緯.md) (씨 위)  [衛](../../characters/衛.md) (지킬 위)  [違](../../characters/違.md) (어길 위)  [委 (char)](../../characters/委%20(char).md) (맡길 위)  [慰](../../characters/慰.md) (위로할 위)  [僞](../../characters/偽%20(char).md) (거짓 위)
 #### 유
 [幽 (char)](../../characters/幽%20(char).md) (그윽할 유)  惟 --> 唯 (생각할 유)  [維](../../characters/維.md) (맬 유)  [乳](../../characters/乳.md) (젖 유)  [儒](../../characters/儒.md) (선비 유)  [裕](../../characters/裕.md) (넉넉할 유)  [誘](../../characters/誘.md) (꾈 유)  [愈](../../characters/愈.md) (나을 유)  [悠](../../characters/悠.md) (멀 유)
 #### 윤
@@ -521,16 +521,16 @@ tags: [lookup]
 [酌](../../characters/酌.md) (따를 작)  [爵](../../characters/爵.md) (벼슬 작)
 
 #### 잔
-[[残 (char)|殘]] (해칠 잔)
+[殘](../../characters/残%20(char).md) (해칠 잔)
 
 #### 잠
-[[潜|潛]] (잠길 잠)  [暫](../../characters/暫.md) (잠시 잠)
+[潛](../../characters/潜.md) (잠길 잠)  [暫](../../characters/暫.md) (잠시 잠)
 
 #### 잡
-[[雑 (char)|雜]] (섞일 잡)
+[雜](../../characters/雑%20(char).md) (섞일 잡)
 
 #### 장
-[[丈 (char)]] (어른 장)  [[張]] (베풀 장)  [[帳]] (휘장 장)  [[荘|莊]] (장중할 장)  [[装 (char)|裝]] (꾸밀 장)  [[奨|奬]] (장려할 장)  [[牆|墻]], [[牆]] (담 장)  [[葬]] (장사지낼 장)  [[粧]] (단장할 장)  [[掌]] (손바닥 장)  [[蔵|藏]] (감출 장)  [臟](../../characters/臓.md) (내장 장)  [[障]] (가로막을 장)  [腸](../../characters/腸.md) (창자 장)
+[丈 (char)](../../characters/丈%20(char).md) (어른 장)  [張](../../characters/張.md) (베풀 장)  [帳](../../characters/帳.md) (휘장 장)  [莊](../../characters/荘.md) (장중할 장)  [裝](../../characters/装%20(char).md) (꾸밀 장)  [奬](../../characters/奨.md) (장려할 장)  [墻](../../characters/牆.md), [牆](../../characters/牆.md) (담 장)  [葬](../../characters/葬.md) (장사지낼 장)  [粧](../../characters/粧.md) (단장할 장)  [掌](../../characters/掌.md) (손바닥 장)  [藏](../../characters/蔵.md) (감출 장)  [臟](../../characters/臓.md) (내장 장)  [障](../../characters/障.md) (가로막을 장)  [腸](../../characters/腸.md) (창자 장)
 
 #### 재
 [災](../../characters/災.md) (재앙 재)  [裁](../../characters/裁.md) (마를 재)  [載 (char)](../../characters/載%20(char).md) (실을 재)  [宰](../../characters/宰.md) (재상 재)
@@ -541,27 +541,27 @@ tags: [lookup]
 #### 적
 [滴 (char)](../../characters/滴%20(char).md) (물방울 적)  [摘 (char)](../../characters/摘%20(char).md) (딸 적)  [寂](../../characters/寂.md) (고요할 적)  [籍](../../characters/籍.md) (서적 적)  [賊](../../characters/賊.md) (도둑 적)  [跡](../../characters/跡.md) (자취 적)  [蹟](../../characters/跡.md) (자취 적)  [積](../../characters/積.md) (쌓을 적)  [績](../../characters/績.md) (길쌈할 적)
 #### 전
-[[専|專]] (오로지 전)  [[転|轉]] (구를 전)  [殿](../../characters/殿.md) (큰 집 전)
+[專](../../characters/専.md) (오로지 전)  [轉](../../characters/転.md) (구를 전)  [殿](../../characters/殿.md) (큰 집 전)
 #### 절
-[切 (char)](../../characters/切%20(char).md) (끊을 절)  [折](../../characters/折.md) (꺾을 절)  [[窃|竊]] (훔칠 절)
+[切 (char)](../../characters/切%20(char).md) (끊을 절)  [折](../../characters/折.md) (꺾을 절)  [竊](../../characters/窃.md) (훔칠 절)
 #### 점
-[[../../characters/占 (char)]] (차지할 점)  [[点 (char)|點]] (점 점)  [漸](../../characters/漸.md) (점점 점)
+[../../characters/占 (char)](../../characters/占%20(char).md) (차지할 점)  [點](../../characters/点%20(char).md) (점 점)  [漸](../../characters/漸.md) (점점 점)
 #### 접
 [蝶](../../characters/蝶.md) (나비 접)
 #### 정
 [亭](../../characters/亭.md) (정자 정)  [訂 (char)](../../characters/訂%20(char).md) (바로잡을 정)  [廷](../../characters/廷.md) (조정 정)  [程](../../characters/程.md) (단위 정)  [征](../../characters/征.md) (칠 정)  [整 (char)](../../characters/整%20(char).md) (가지런할 정)
 #### 제
-[提](../../characters/提.md) (끌 제)  [堤](../../characters/堤.md) (방죽 제)  [制](../../characters/制.md) (억제할 제)  [際 (char)](../../characters/際%20(char).md) (사이 제)  [齊](../../characters/斉.md) (가지런할 제)  [[済 (char)|濟]] (건널 제)
+[提](../../characters/提.md) (끌 제)  [堤](../../characters/堤.md) (방죽 제)  [制](../../characters/制.md) (억제할 제)  [際 (char)](../../characters/際%20(char).md) (사이 제)  [齊](../../characters/斉.md) (가지런할 제)  [濟](../../characters/済%20(char).md) (건널 제)
 #### 조
-[弔 (char)](../../characters/弔%20(char).md) (조상할 조)  [燥](../../characters/燥.md) (마를 조)  [操](../../characters/操.md) (잡을 조)  [照 (char)](../../characters/照%20(char).md) (비출 조)  [[条 (char)|條]] (가지 조)  [[潮]] (조수 조)  [租](../../characters/租.md) (세금 조)  [組](../../characters/組.md) (끈 조)
+[弔 (char)](../../characters/弔%20(char).md) (조상할 조)  [燥](../../characters/燥.md) (마를 조)  [操](../../characters/操.md) (잡을 조)  [照 (char)](../../characters/照%20(char).md) (비출 조)  [條](../../characters/条%20(char).md) (가지 조)  [潮](../../characters/潮.md) (조수 조)  [租](../../characters/租.md) (세금 조)  [組](../../characters/組.md) (끈 조)
 #### 졸
-[[拙]] (졸할 졸)
+[拙](../../characters/拙.md) (졸할 졸)
 #### 종
-[[縦 (char)|縱]] (늘어질 종)
+[縱](../../characters/縦%20(char).md) (늘어질 종)
 #### 좌
-[佐](../../characters/佐.md) (도울 좌)  坐<--座 (자리 좌)
+[佐](../../characters/佐.md) (도울 좌)  [座](../../characters/坐%20(char).md) (자리 좌)
 #### 주
-[舟](../../characters/舟.md) (배 주)  [周](../../characters/周.md) (두루 주)  [株 (char)](../../characters/株%20(char).md) (그루 주)  [[州 (char)]] (고을 주)  [[洲 (char)]] (섬 주)  [柱 (char)](../../characters/柱%20(char).md) (기둥 주)  [奏](../../characters/奏.md) (아뢸 주)  [珠](../../characters/珠.md) (구슬 주)  [鑄](../../characters/鋳.md) (부어 만들 주)
+[舟](../../characters/舟.md) (배 주)  [周](../../characters/周.md) (두루 주)  [株 (char)](../../characters/株%20(char).md) (그루 주)  [州 (char)](../../characters/州%20(char).md) (고을 주)  [洲 (char)](../../characters/洲%20(char).md) (섬 주)  [柱 (char)](../../characters/柱%20(char).md) (기둥 주)  [奏](../../characters/奏.md) (아뢸 주)  [珠](../../characters/珠.md) (구슬 주)  [鑄](../../characters/鋳.md) (부어 만들 주)
 #### 준
 [準](../../characters/準.md) (법도 준)  [俊](../../characters/俊.md) (준걸 준)  [遵](../../characters/遵.md) (좇을 준)
 #### 중
@@ -569,15 +569,15 @@ tags: [lookup]
 #### 증
 [憎](../../characters/憎.md) (미워할 증)  [贈](../../characters/贈.md) (보낼 증)  [症](../../characters/症.md) (증세 증)  [蒸 (char)](../../characters/蒸%20(char).md) (찔 증)
 #### 지
-[池 (char)](../../characters/池%20(char).md) (못 지)  [誌](../../characters/誌.md) (기록할 지)  [智](../../characters/智.md) (지혜 지)  [[遅 (char)|遲]] (늦을 지)
+[池 (char)](../../characters/池%20(char).md) (못 지)  [誌](../../characters/誌.md) (기록할 지)  [智](../../characters/智.md) (지혜 지)  [遲](../../characters/遅%20(char).md) (늦을 지)
 #### 직
 [職](../../characters/職.md) (벼슬 직)  [織](../../characters/織.md) (짤 직)
 #### 진
-[振 (char)](../../characters/振%20(char).md) (떨칠 진)  [[鎮 (char)|鎭]] (진압할 진)  [陳](../../characters/陳.md) (베풀 진)  [陣](../../characters/陣.md) (진칠 진)  [珍 (char)](../../characters/珍%20(char).md) (보배 진)  [震](../../characters/震.md) (진동할 진)
+[振 (char)](../../characters/振%20(char).md) (떨칠 진)  [鎭](../../characters/鎮%20(char).md) (진압할 진)  [陳](../../characters/陳.md) (베풀 진)  [陣](../../characters/陣.md) (진칠 진)  [珍 (char)](../../characters/珍%20(char).md) (보배 진)  [震](../../characters/震.md) (진동할 진)
 #### 질
 [秩](../../characters/秩.md) (차례 질)  [疾](../../characters/疾.md) (병 질)  [姪 (char)](../../characters/姪%20(char).md) (조카 질)
 #### 징
-[[徴|徵]] (부를 징)  [懲](../../characters/懲.md) (혼날 징)
+[徵](../../characters/徴.md) (부를 징)  [懲](../../characters/懲.md) (혼날 징)
 
 ## ㅊ 
 #### 차
@@ -585,21 +585,21 @@ tags: [lookup]
 #### 착
 [錯](../../characters/錯.md) (섞일 착)  [捉](../../characters/捉.md) (잡을 착)
 #### 찬
-[[賛|贊]] (도울 찬)  [[𧦅|讚]] (기릴 찬)
+[贊](../../characters/賛.md) (도울 찬)  [讚](../../characters/𧦅.md) (기릴 찬)
 #### 참
-[[惨 (char)|慘]] (참혹할 참)  [[慙]] (부끄러울 참)
+[慘](../../characters/惨%20(char).md) (참혹할 참)  [慙](../../characters/慙.md) (부끄러울 참)
 #### 창
-[[倉]] (곳집 창)  [[創]] (비롯할 창)  [蒼 (char)](../../characters/蒼%20(char).md) (푸를 창)  [[暢]] (펼 창)
+[倉](../../characters/倉.md) (곳집 창)  [創](../../characters/創.md) (비롯할 창)  [蒼 (char)](../../characters/蒼%20(char).md) (푸를 창)  [暢](../../characters/暢.md) (펼 창)
 #### 채
-[[彩]] (무늬 채)  [[債]] (빚 채)
+[彩](../../characters/彩.md) (무늬 채)  [債](../../characters/債.md) (빚 채)
 #### 책
-[[策]] (꾀 책)
+[策](../../characters/策.md) (꾀 책)
 #### 척
-[[斥]] (물리칠 척)  拓 (열 척)  [[戚]] (겨레 척)
+[斥](../../characters/斥.md) (물리칠 척)  [拓](../../characters/拓.md) (열 척)  [戚](../../characters/戚.md) (겨레 척)
 #### 천
-[[賎|賤]] (천할 천)  [[践|踐]] (밟을 천)  [[遷]] (옮길 천)  [[薦]] (천거할 천)
+[賤](../../characters/賎.md) (천할 천)  [踐](../../characters/践.md) (밟을 천)  [遷](../../characters/遷.md) (옮길 천)  [薦](../../characters/薦.md) (천거할 천)
 #### 철
-[[哲]] (밝을 철)  [[澈|徹]] (뚫을 철)
+[哲](../../characters/哲.md) (밝을 철)  [徹](../../characters/澈.md) (뚫을 철)
 #### 첨
 [尖](../../characters/尖.md) (뾰족할 첨)  [添](../../characters/添.md) (더할 첨)
 #### 첩
@@ -623,7 +623,7 @@ tags: [lookup]
 #### 충
 [衝 (char)](../../characters/衝%20(char).md) (찌를 충)
 #### 취
-[臭 (char)](../../characters/臭%20(char).md) (냄새 취)  [醉](characters/酔%20(char).md) (취할 취)  [[趣]] (달릴 취)
+[臭 (char)](../../characters/臭%20(char).md) (냄새 취)  [醉](../../characters/酔%20(char).md) (취할 취)  [趣](../../characters/趣.md) (달릴 취)
 #### 측
 [側](../../characters/側.md) (곁 측)  [測](../../characters/測.md) (잴 측)
 #### 층
@@ -631,9 +631,9 @@ tags: [lookup]
 #### 치
 [値](../../characters/値.md) (값 치)  [置 (char)](../../characters/置%20(char).md) (둘 치)  [恥](../../characters/恥.md) (부끄러워할 치)
 #### 칠
-[[漆 (char)]] (옻 칠)
+[漆 (char)](../../characters/漆%20(char).md) (옻 칠)
 #### 침
-[侵](../../characters/侵.md) (침노할 침)  [浸 (char)](../../characters/浸%20(char).md) (담글 침)  [[寝 (char)|寢]] (잠잘 침)  [沈](../../characters/沈.md) (가라앉을 침)  [枕](../../characters/枕.md) (베개 침)
+[侵](../../characters/侵.md) (침노할 침)  [浸 (char)](../../characters/浸%20(char).md) (담글 침)  [寢](../../characters/寝%20(char).md) (잠잘 침)  [沈](../../characters/沈.md) (가라앉을 침)  [枕](../../characters/枕.md) (베개 침)
 #### 칭
 [稱](../../characters/称.md) (일컬을 칭)
 
@@ -641,7 +641,7 @@ tags: [lookup]
 #### 타
 [妥](../../characters/妥.md) (온당할 타) , [墮](../../characters/堕.md) (떨어질 타)
 #### 탁
-[濁](../../characters/濁.md) (흐릴 탁) , 託 <-- 托 (밀 탁) , [濯](../../characters/濯.md) (씻을 탁) , [卓](../../characters/卓.md) (높을 탁)
+[濁](../../characters/濁.md) (흐릴 탁) , [托](../../characters/託.md) (밀 탁) , [濯](../../characters/濯.md) (씻을 탁) , [卓](../../characters/卓.md) (높을 탁)
 #### 탄
 [炭 (char)](../../characters/炭%20(char).md) (숯 탄) , 歎-->嘆 (탄식할 탄) , [彈](../../characters/弾.md) (탄알 탄) , [誕](../../characters/誕.md) (태어날 탄)
 #### 탈
@@ -689,13 +689,13 @@ tags: [lookup]
 #### 하
 [荷](../../characters/荷.md) (연 하)
 #### 학
-[[鶴 (char)]] (학 학)
+[鶴 (char)](../../characters/鶴%20(char).md) (학 학)
 #### 한
 [旱](../../characters/旱.md) (가물 한)  [汗 (char)](../../characters/汗%20(char).md) (땀 한)
 #### 할
 [割 (char)](../../characters/割%20(char).md) (나눌 할)
 #### 함
-[咸](../../characters/咸.md) (다 함)  [含](../../characters/含.md) (머금을 함)  [陷](characters/陥%20(char).md) (빠질 함)
+[咸](../../characters/咸.md) (다 함)  [含](../../characters/含.md) (머금을 함)  [陷](../../characters/陥%20(char).md) (빠질 함)
 #### 항
 [巷](../../characters/巷.md) (거리 항)  [港](../../characters/港.md) (항구 항)  [項 (char)](../../characters/項%20(char).md) (목 항)  [抗](../../characters/抗.md) (막을 항)  [航](../../characters/航.md) (배 항)
 #### 해
@@ -707,7 +707,7 @@ tags: [lookup]
 #### 헌
 [軒](../../characters/軒.md) (추녀 헌)  [憲](../../characters/憲.md) (법 헌)  [獻](../../characters/献.md) (바칠 헌)
 #### 험
-[[険 (char)|險]] (험할 험)  [[../../characters/験 (char)|驗]] (시험할 험)
+[險](../../characters/険%20(char).md) (험할 험)  [驗](../../characters/験%20(char).md) (시험할 험)
 #### 현
 [玄 (char)](../../characters/玄%20(char).md) (검을 현)  [弦 (char)](../../characters/弦%20(char).md) (악기 줄 현)  [縣](../../characters/県%20(char).md) (고을 현)  [懸 (char)](../../characters/懸%20(char).md) (매달 현)  [顯](../../characters/顕.md) (나타날 현)  [显](../../characters/显.md) (나타날 현)
 #### 혈
@@ -717,17 +717,15 @@ tags: [lookup]
 #### 형
 [亨](../../characters/亨.md) (형통할 형)  [螢](../../characters/蛍%20(char).md) (반디 형)  [衡](../../characters/衡.md) (저울대 형)
 #### 혜
-[慧 (char)](../../characters/慧%20(char).md) (슬기로울 혜)  [兮 (char)](characters/兮%20(char).md) (어조사 혜)
+[慧 (char)](../../characters/慧%20(char).md) (슬기로울 혜)  [兮 (char)](../../characters/兮%20(char).md) (어조사 혜)
 #### 호
 [互](../../characters/互.md) (서로 호)  [胡](../../characters/胡.md) (오랑캐 호)  [浩](../../characters/浩.md) (클 호)  [毫 (char)](../../characters/毫%20(char).md) (가는 털 호)  [豪](../../characters/豪.md) (호걸 호)  [護](../../characters/護.md) (보호할 호)
 #### 혹
 [惑 (char)](../../characters/惑%20(char).md) (미혹할 혹)
 #### 혼
-[昏](../../characters/昏.md) (어두울 혼)  [[魂 (char)]] (넋 혼)
-#### 홀
-忽 (소홀히 할 홀) already done in MS
+[昏](../../characters/昏.md) (어두울 혼)  [魂 (char)](../../characters/魂%20(char).md) (넋 혼)
 #### 홍
-[洪](../../characters/洪.md) (큰물 홍)  [[弘]] (넓을 홍)  [[鴻]] (큰 기러기 홍)
+[洪](../../characters/洪.md) (큰물 홍)  [弘](../../characters/弘.md) (넓을 홍)  [鴻](../../characters/鴻.md) (큰 기러기 홍)
 #### 화
 [禾 (char)](../../characters/禾%20(char).md) (벼 화)  [禍](../../characters/禍.md) (재앙 화)
 #### 확
@@ -737,15 +735,15 @@ tags: [lookup]
 #### 황
 [況](../../characters/況.md) (하물며 황)  [荒](../../characters/荒.md) (거칠 황)
 #### 회
-[悔](../../characters/悔.md) (뉘우칠 회)  [[懐 (char)|懷]] (품을 회)
+[悔](../../characters/悔.md) (뉘우칠 회)  [懷](../../characters/懐%20(char).md) (품을 회)
 #### 획
-[獲](../../characters/獲.md) (얻을 획)  [劃 (char)](characters/劃%20(char).md) (그을 획)
+[獲](../../characters/獲.md) (얻을 획)  [劃 (char)](../../characters/劃%20(char).md) (그을 획)
 #### 횡
 [橫](../../characters/横.md) (가로 횡)
 #### 효
 [曉](../../characters/暁.md) (새벽 효)
 #### 후
-[侯 (char)](characters/侯%20(char).md) (제후 후)  [候](characters/候.md) (기후 후)
+[侯 (char)](../../characters/侯%20(char).md) (제후 후)  [候](../../characters/候.md) (기후 후)
 #### 훼
 [毁](../../characters/毀%20(char).md) (헐 훼)
 #### 휘
@@ -756,7 +754,7 @@ tags: [lookup]
 [吸 (char)](../../characters/吸%20(char).md) (숨 들이쉴 흡)
 #### 희
 1. [戱](../../characters/戯.md) (놀이 희)
-2. 希 <-- 稀 (드물 희)
+2. [稀](../../characters/希.md) (드물 희)
 
 ## Datacheck
 ```dataviewjs
