@@ -655,6 +655,7 @@ tags: [lookup]
 651. [浙](../../characters/浙.md)
 652. [暹](../../characters/暹.md)
 653. [崴](../../characters/崴.md)
+654. [厠](../../characters/厠.md)
 
 
 [[../../characters/吠]] - barking DO IT

@@ -32,7 +32,7 @@ graphemic_classification: 童
 stand_in: 撞
 aliases:
 注音: ㄊ⺢ㄫ
-date-last-perfect: 2026-07-03
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
@@ -52,4 +52,5 @@ boundedness: 80
 - The Dan'a'yo pronunciation was deliberately adjusted (rather than mechanically derived from Middle Chinese) to fill an otherwise-empty syllable slot.
 
 ## Words
+- <ruby>[[撞]]<rt>ㄊ⺢ㄫ</rt></ruby> "hit; bump" (stand-in for 撞)
 - <ruby>[[撞球]]<rt>ㄊ⺢ㄫㄍ⼜</rt></ruby> "billiards"
