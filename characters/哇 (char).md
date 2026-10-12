@@ -51,3 +51,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[哇]]<rt>⺢ㄨ</rt></ruby> "wow"
+- <ruby>[[爪哇]]<rt>ㄐ⺢ㄨ⺢ㄨ</rt></ruby> "Java"

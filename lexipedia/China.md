@@ -123,6 +123,7 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 - <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Guangnan, a county of Yunnan; the same spelling is Quang Nam in Vietnam, listed on Vietnam.
 - <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby>: Kinmen, the island group off the coast of Fujian, administered by Taiwan; the county includes <ruby>[檳榔屿](../words/檳榔屿.md)<rt>ㄅㄧㄋㄌㄚㄫㄙ⼄</rt></ruby>, an islet that shares its name with Penang.
 - <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: the Si River of Shandong and Sishui, the county named for it; the same spelling is Surabaya in Indonesia, listed on Geography.
+- <ruby>[庫倫](../words/庫倫.md)<rt>ㄎㄛㄌㄨㄋ</rt></ruby>: Hure, a banner of Tongliao in Inner Mongolia; also the historical name of Ulan Bator, listed on Geography.
 
 ### Peoples and names
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.

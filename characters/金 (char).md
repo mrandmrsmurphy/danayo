@@ -88,6 +88,7 @@ boundedness: 90
 - <ruby>[[金蘭湾]]<rt>ㄍㄧㄇㄌㄚㄋ⺢ㄇ</rt></ruby> "Cam Ranh Bay"
 - <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
 - <ruby>[[金門]]<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby> "Kinmen; Quemoy"
+- <ruby>[[金辺]]<rt>ㄍㄧㄇㄅㄝㄋ</rt></ruby> "Phnom Penh"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

@@ -54,4 +54,5 @@ date-last-perfect: 2026-08-08
 ## Words
 - <ruby>[[爪]]<rt>ㄐ⺢ㄨ</rt></ruby> "animal foot, claw" (stand-in for 爪)
 - <ruby>[[蟹爪]]<rt>ㄏ⼘ㄧㄐ⺢ㄨ</rt></ruby> "crab claw"
+- <ruby>[[爪哇]]<rt>ㄐ⺢ㄨ⺢ㄨ</rt></ruby> "Java"
 

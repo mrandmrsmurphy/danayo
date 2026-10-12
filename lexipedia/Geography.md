@@ -93,6 +93,7 @@ Borders and areas:
 - <ruby>[日本](../words/日本.md)<rt>ㄋㄧㄊㄅㄛㄋ</rt></ruby>: Japan-specific places, clans and companies are on [Japan](Japan.md).
 - <ruby>[韓国](../words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby> and <ruby>[朝鮮](../words/朝鮮.md)<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>: Korea-specific kingdoms, script, rulers and people are on [Korea](Korea.md).
 - <ruby>[蒙古](../words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>: Mongolia
+  - <ruby>[庫倫](../words/庫倫.md)<rt>ㄎㄛㄌㄨㄋ</rt></ruby>: Ulan Bator, the capital of Mongolia, by its historical name; also Hure, a banner of Inner Mongolia, listed on China.
 - <ruby>[西蔵](../words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>: Tibet
 - <ruby>[台湾](../words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>, and its capital <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>
   - <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby>: Kinmen, the county and island group off the Fujian coast, administered by Taiwan.
@@ -106,8 +107,11 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 <ruby>[東南亜](../words/東南亜.md)<rt>ㄉㄛㄫㄋㄚㄇ·ㄚ</rt></ruby> lies between <ruby>[中国](../words/中国.md)<rt>ㄐㄨㄫㄍㄛㄎ</rt></ruby> and the <ruby>[印度洋](../words/印度洋.md)<rt>ㄧㄋㄉㄛ⼘ㄫ</rt></ruby>. It was formerly called <ruby>[印度支那](../words/印度支那.md)<rt>ㄧㄋㄉㄛㄐㄝ·ㄋㄚ</rt></ruby>.
 - <ruby>[越南](../words/越南.md)<rt>⼔ㄊㄋㄚㄇ</rt></ruby>: Vietnam-specific people, places and history are on [Vietnam](Vietnam.md).
 - <ruby>[泰国](../words/泰国.md)<rt>ㄊㄚㄧㄍㄛㄎ</rt></ruby>: Thailand
+  - <ruby>[暹羅](../words/暹羅.md)<rt>ㄙㄝㄇㄌㄛ</rt></ruby>: Siam, the former name of Thailand.
+  - <ruby>[暹京](../words/暹京.md)<rt>ㄙㄝㄇㄍ⼶ㄫ</rt></ruby>: Bangkok, the capital of Thailand, by its obsolete Chinese name.
 - <ruby>[面田](../words/面田.md)<rt>ㄇ⼶ㄋㄉㄝㄋ</rt></ruby>: Myanmar
 - <ruby>[高綿](../words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>: Cambodia
+  - <ruby>[金辺](../words/金辺.md)<rt>ㄍㄧㄇㄅㄝㄋ</rt></ruby>: Phnom Penh, the capital of Cambodia.
 - <ruby>[寮国](../words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>: Laos
 - <ruby>[馬来西亜](../words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby>: Malaysia
   - <ruby>[檳榔屿](../words/檳榔屿.md)<rt>ㄅㄧㄋㄌㄚㄫㄙ⼄</rt></ruby>: Penang, the island and state of Malaysia; the same spelling is Binlang Islet, an islet of <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby> in Taiwan.
@@ -115,6 +119,7 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 - <ruby>[新嘉浦](../words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby>, also <ruby>[獅城](../words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> and <ruby>[星洲](../words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>: Indonesia
   - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
+  - <ruby>[爪哇](../words/爪哇.md)<rt>ㄐ⺢ㄨ⺢ㄨ</rt></ruby>: Java, the island of Indonesia; the capital of East Java is <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>.
   - <ruby>[旧港](../words/旧港.md)<rt>ㄍ⼜ㄛㄏㄛㄫ</rt></ruby>: Palembang, the old Chinese name of the city in South Sumatra.
 - <ruby>[菲律賓](../words/菲律賓.md)<rt>ㄈㄧㄌㄨㄊㄅㄧㄋ</rt></ruby>: Philippines
 

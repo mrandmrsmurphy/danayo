@@ -163,3 +163,4 @@ boundedness: 60
 - <ruby>[[晶]]<rt>ㄐㄧㄫ</rt></ruby> "crystal"
 - <ruby>[[显]]<rt>ㄎㄛㄆ</rt></ruby> "evident"
 - <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby> "kitchen stove"
+- <ruby>[[暹]]<rt>ㄙㄝㄇ</rt></ruby> "Siam"
