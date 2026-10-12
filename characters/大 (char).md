@@ -74,7 +74,7 @@ boundedness: 90
 - <ruby>[[大象]]<rt>ㄉㄚㄧㄙ⼘ㄫ</rt></ruby> "elephant"
 - <ruby>[[大声]]<rt>ㄉㄚㄧㄙㄧㄫ</rt></ruby> "loud voice"
 - <ruby>[[大陸]]<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> "continent"
-- <ruby>[[大食]]<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby> "gluttony; binge eating"
+- <ruby>[[大食]]<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby> "gluttony; binge eating; Tajik"
 - <ruby>[[大廈]]<rt>ㄉㄚㄧㄏㄚ</rt></ruby> "mansion; large building; skyscraper"
 - <ruby>[[大水]]<rt>ㄉㄚㄧㄙㄨ</rt></ruby> "flood"
 - <ruby>[[大猩]]<rt>ㄉㄚㄧㄙㄝㄫ</rt></ruby> "gorilla"
@@ -124,6 +124,7 @@ boundedness: 90
 - <ruby>[[大連]]<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby> "Dalian"
 - <ruby>[[大坂]]<rt>ㄉㄚㄧㄅㄛㄋ</rt></ruby> "Osaka Prefecture"
 - <ruby>[[大分]]<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby> "Oita Prefecture"
+- <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[食酢]]<rt>ㄙㄧㄎㄐㄚㄎ</rt></ruby> "vinegar"
 - <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> "solar eclipse"
 - <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby> "lunar eclipse"
+- <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"

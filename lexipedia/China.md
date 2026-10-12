@@ -121,6 +121,8 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 - <ruby>[太原](../words/太原.md)<rt>ㄊㄚㄧ⼔ㄋ</rt></ruby>: Taiyuan, the capital of Shanxi; the same spelling is Thai Nguyen in Vietnam, listed on Vietnam.
 - <ruby>[西寧](../words/西寧.md)<rt>ㄙㄝㄧㄋㄝㄫ</rt></ruby>: Xining, the capital of Qinghai; the same spelling is Tay Ninh in Vietnam, listed on Vietnam.
 - <ruby>[広南](../words/広南.md)<rt>ㄍ⺢ㄫㄋㄚㄇ</rt></ruby>: Guangnan, a county of Yunnan; the same spelling is Quang Nam in Vietnam, listed on Vietnam.
+- <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby>: Kinmen, the island group off the coast of Fujian, administered by Taiwan; the county includes <ruby>[檳榔屿](../words/檳榔屿.md)<rt>ㄅㄧㄋㄌㄚㄫㄙ⼄</rt></ruby>, an islet that shares its name with Penang.
+- <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: the Si River of Shandong and Sishui, the county named for it; the same spelling is Surabaya in Indonesia, listed on Geography.
 
 ### Peoples and names
 - <ruby>[百越](../words/百越.md)<rt>ㄅㄚㄎ·⼔ㄊ</rt></ruby>: Baiyue, the "Hundred Yue" — the collective name of the many non-Han peoples of southern China and northern Vietnam in antiquity (Wu, Minyue, Nanyue, Ouyue, Luoyue and others), a historical designation, not one ethnic group.

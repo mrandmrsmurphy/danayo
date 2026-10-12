@@ -95,6 +95,7 @@ Borders and areas:
 - <ruby>[蒙古](../words/蒙古.md)<rt>ㄇㄛㄫㄍㄛ</rt></ruby>: Mongolia
 - <ruby>[西蔵](../words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>: Tibet
 - <ruby>[台湾](../words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>, and its capital <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>
+  - <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby>: Kinmen, the county and island group off the Fujian coast, administered by Taiwan.
 - <ruby>[極東](../words/極東.md)<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby>: the Far East, a regional name for East Asia, beside <ruby>[東亜](../words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby>.
 
 Historically related regions include <ruby>[満洲](../words/満洲.md)<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> and <ruby>[瑠球](../words/瑠球.md)<rt>ㄌ⼜ㄍ⼜</rt></ruby>.
@@ -109,6 +110,8 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 - <ruby>[高綿](../words/高綿.md)<rt>ㄍㄚㄨㄇ⼶ㄋ</rt></ruby>: Cambodia
 - <ruby>[寮国](../words/寮国.md)<rt>ㄌ⼘ㄨㄍㄛㄎ</rt></ruby>: Laos
 - <ruby>[馬来西亜](../words/馬来西亜.md)<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby>: Malaysia
+  - <ruby>[檳榔屿](../words/檳榔屿.md)<rt>ㄅㄧㄋㄌㄚㄫㄙ⼄</rt></ruby>: Penang, the island and state of Malaysia; the same spelling is Binlang Islet, an islet of <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby> in Taiwan.
+  - <ruby>[四水](../words/四水.md)<rt>ㄙㄧㄜㄙㄨ</rt></ruby>: Surabaya, the city of East Java; the same spelling is the Si River and the county of Sishui in Shandong, listed on China.
 - <ruby>[新嘉浦](../words/新嘉浦.md)<rt>ㄙㄧㄋㄍㄚ·ㄆㄛ</rt></ruby>, also <ruby>[獅城](../words/獅城.md)<rt>ㄙㄧㄜㄙㄧㄫ</rt></ruby> and <ruby>[星洲](../words/星洲.md)<rt>ㄙㄝㄫㄐㄨㄛ</rt></ruby>
 - <ruby>[印度尼西亜](../words/印度尼西亜.md)<rt>ㄧㄋㄉㄛ·ㄋㄧㄜㄙㄝㄧㄚ</rt></ruby>: Indonesia
   - clipped form: <ruby>[印尼](../words/印尼.md)<rt>ㄧㄋㄋㄧㄜ</rt></ruby>, the everyday short form in Mandarin and Cantonese text (Korean 인니), reserving the full transliteration for formal contexts.
@@ -130,6 +133,7 @@ Historically, <ruby>[帝国](../words/帝国.md)<rt>ㄊㄝㄧㄍㄛㄎ</rt></rub
 
 #### <ruby>[中亜](../words/中亜.md)<rt>ㄐㄨㄫㄚ</rt></ruby>
 <ruby>[中亜](../words/中亜.md)<rt>ㄐㄨㄫㄚ</rt></ruby> contains steppe, historically associated with nomadic peoples. <ruby>[突厥](../words/突厥.md)<rt>ㄊㄛㄊㄎㄨㄊ</rt></ruby> names the Turks.
+- <ruby>[大食国](../words/大食国.md)<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby>: Tajikistan, the country of the <ruby>[大食](../words/大食.md)<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby>, the Tajik people (the same spelling as the word for binge eating, listed on Food).
 - <ruby>[河中府](../words/河中府.md)<rt>ㄏㄚㄐㄨㄫㄈㄨ</rt></ruby>: Samarkand, the city in Uzbekistan, by its Western Liao and Mongol-era Chinese name.
 
 ### <ruby>[欧洲](../words/欧洲.md)<rt>ㄛㄨㄐㄨㄛ</rt></ruby>
@@ -200,7 +204,7 @@ Rivers, districts and other features whose names are not a country:
 ## Not yet coined
 These countries and features appear on the page without a word of their own. They are placeholders, kept until the words are coined.
 - Asia, west: Iran (伊朗), Iraq (伊拉克), Turkey (土耳其), Syria (叙利亜), Israel (以色列), Saudi Arabia (沙烏地阿拉伯), United Arab Emirates (阿拉伯連合酋長国)
-- Asia, central: Kazakhstan (哈薩克), Uzbekistan (烏茲別克), Turkmenistan (土庫曼), Kyrgyzstan (吉爾吉斯), Tajikistan (塔吉克)
+- Asia, central: Kazakhstan (哈薩克), Uzbekistan (烏茲別克), Turkmenistan (土庫曼), Kyrgyzstan (吉爾吉斯)
 - Europe: Italy (意大利), Belgium (比利時), Greece (希臘), Norway (挪威)
 - Africa: Ethiopia (埃塞俄比亜), Kenya (肯尼亜), Nigeria (尼日利亜), Morocco (摩洛哥), Algeria (阿爾及利亜)
 - Central America: Guatemala (危地馬拉), Panama (巴拿馬)

@@ -76,6 +76,7 @@ boundedness: 75
 - <ruby>[[第四]]<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby> "fourth"
 - <ruby>[[四国]]<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby> "Shikoku; the world; all under heaven"
 - <ruby>[[四千]]<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby> "four thousand"
+- <ruby>[[四水]]<rt>ㄙㄧㄜㄙㄨ</rt></ruby> "Surabaya; Si River"
 
 ## Chengyu
 - <ruby>[[四面楚歌]]<rt>ㄙㄧㄜㄇ⼶ㄋㄑㄛㄍㄜ</rt></ruby> "surrounded by the singing of Chu"
