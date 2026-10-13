@@ -33,14 +33,14 @@ stand_in: "前"
 aliases:
   - 揃
 注音: "ㄐㄝㄋ"
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 前.
->For the word, see [前](words/前.md)
+>For the word, see [前](../words/前.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,10 @@ boundedness: 100
 
 ## Notes
 - 会意: original form [[歬]] combined 止 ("foot") + [[舟]] ("boat") — a foot on a boat, moving forward. In the modern glyph 止 simplified to 䒑 and 舟 to 月, with [[Radical 018|刀]] ("knife") added later — that addition now represents [[剪 (char)|剪]] ("to cut"), the character 前 itself absorbed the "front, before" sense while shedding the cutting meaning.
-- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 235th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄐㄝㄋ](syllables/ㄐㄝㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 235th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄐㄝㄋ](../syllables/ㄐㄝㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[前]]<rt>ㄐㄝㄋ</rt></ruby> "front; before" (stand-in for 前)
 - <ruby>[[以前]]<rt>ㄧㄐㄝㄋ</rt></ruby> "before; ago"
@@ -70,9 +71,11 @@ boundedness: 100
 - <ruby>[[前世紀]]<rt>ㄐㄝㄋㄙㄝㄍㄧ</rt></ruby> "previous century"
 - <ruby>[[紀元前]]<rt>ㄍㄧ⼔ㄋㄐㄝㄋ</rt></ruby> "B.C.; B.C.E."
 - <ruby>[[前舌]]<rt>ㄐㄝㄋㄙㄝㄊ</rt></ruby> "front (of the tongue)"
+
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"
 - <ruby>[[珠投猪前]]<rt>ㄐㄨㄉㄛㄨㄐㄛㄐㄝㄋ</rt></ruby> "throwing pearls before swine"
+
 ## Derived Characters
 - <ruby>[[剪 (char)|剪]]<rt>ㄐㄝㄋ</rt></ruby> "scissors"
 - <ruby>[[煎]]<rt>ㄐㄝㄋ</rt></ruby> "to boil; to fry"
