@@ -32,22 +32,24 @@ stand_in: 出
 aliases:
   - 齣
 注音: ㄑㄨㄊ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 tags:
   - character
 kwin: true
 boundedness: 90
 ---
 >[!tip] This is a page about the character 出.
->For the word, see [出](words/出.md)
+>For the word, see [出](../words/出.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md) of [[止]] ("foot") + [[Radical 017|凵]] ("cave") — to step out of a cave; to exit.
 - [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 73rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄑㄨㄊ](../syllables/ㄑㄨㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[出]]<rt>ㄑㄨㄊ</rt></ruby> "exit"
 - <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"
@@ -74,8 +76,10 @@ boundedness: 90
 - <ruby>[[日出]]<rt>ㄋㄧㄊㄑㄨㄊ</rt></ruby> "sunrise"
 - <ruby>[[出色]]<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby> "outstanding, remarkable, extraordinary"
 - <ruby>[[放出]]<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby> "release; emit; let out"
+
 ## Chengyu
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"
+
 ## Derived Characters
 - <ruby>[[拙]]<rt>ㄐ⼔ㄊ</rt></ruby> "awkward, clumsy"
 - <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> "dethrone"
