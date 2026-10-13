@@ -32,7 +32,7 @@ stand_in: "飽"
 aliases:
   - 饱
 注音: "ㄅ⼘ㄨ"
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
