@@ -32,7 +32,7 @@ stand_in: 業
 aliases:
   - 业
 注音: ㄝㄆ
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
@@ -43,6 +43,7 @@ boundedness: 100
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): a beam from which bells and chimes hang, per one reading, or a person lifting such a beam per another — either way, a structure built up for a purpose, extended to "achievement, undertaking."
 - [SKIP-2-5-8](../lookup/SKIP/SKIP-2/SKIP-2-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
@@ -50,13 +51,21 @@ boundedness: 100
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[業]]<rt>ㄝㄆ</rt></ruby> "profession; business" (stand-in for 業)
 - <ruby>[[企業]]<rt>ㄎㄝㄝㄆ</rt></ruby> "enterprise, firm"
 - <ruby>[[工業]]<rt>ㄍㄛㄫㄝㄆ</rt></ruby> "industry"
 - <ruby>[[作業]]<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby> "work; operate; task"
-- <ruby>[[業業]]<rt>ㄝㄆㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideophone)
+- <ruby>[[業業]]<rt>ㄝㄆ·ㄝㄆ</rt></ruby> "fearfully; apprehensively; lofty" (ideophone)
 - <ruby>[[漁業]]<rt>⼄ㄝㄆ</rt></ruby> "fishing industry, fishery"
 - <ruby>[[従業]]<rt>ㄐㄛㄫㄝㄆ</rt></ruby> "employment, being engaged in work"
 - <ruby>[[農業]]<rt>ㄋㄛㄫㄝㄆ</rt></ruby> "agriculture, farming"
+- <ruby>[[副業]]<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby> "side job; second job"
+- <ruby>[[卒業]]<rt>ㄐㄨㄊ·ㄝㄆ</rt></ruby> "graduation; to graduate"
+- <ruby>[[商業]]<rt>ㄙ⼘ㄫㄝㄆ</rt></ruby> "commerce; trade"
+- <ruby>[[失業]]<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby> "become unemployed; lose one's job"
+- <ruby>[[授業]]<rt>ㄙ⼜ㄝㄆ</rt></ruby> "teach; instruct"
+- <ruby>[[林業]]<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby> "forestry"
+- <ruby>[[職業]]<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby> "career; job"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

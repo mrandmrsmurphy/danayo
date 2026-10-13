@@ -15,7 +15,7 @@ stroke_count: 13
 radical: "疒"
 skip_number: 3-5-8
 grade_level: "先進"
-pos: ""
+pos: 名詞
 english:
   - phlegm
   - sputum
@@ -30,7 +30,7 @@ graphemic_classification: "炎"
 stand_in: "痰"
 aliases:
 注音: "ㄉㄚㄇ"
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
@@ -46,5 +46,8 @@ boundedness: 75
 ## Notes
 - 形声 (OC \*l'aːm): semantic [疒](../lookup/Radicals/Radical%20104.md) ("illness") + phonetic [[炎]] ("flame") — the discharge produced by illness.
 - [SKIP-3-5-8](../lookup/SKIP/SKIP-3/SKIP-3-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
-- 6374th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 談|ɑm]] → [ㄉㄚㄇ](../syllables/ㄉㄚㄇ.md)
+- 6374th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 談|ɑm]] → [ㄉㄚㄇ](../syllables/ㄉㄚㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
+
+## Words
+- <ruby>[[痰]]<rt>ㄉㄚㄇ</rt></ruby> "phlegm" (stand-in for 痰)
