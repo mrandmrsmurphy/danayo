@@ -16,7 +16,7 @@ stroke_count: 11
 radical: "心"
 skip_number: 1-3-8
 grade_level: "3"
-pos: ""
+pos: 事詞
 english:
   - begrudge
   - rue
@@ -31,7 +31,7 @@ graphemic_classification: "昔"
 stand_in: "惜"
 aliases:
 注音: "ㄙㄝㄎ"
-date-last-perfect: 2026-07-10
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
@@ -42,6 +42,7 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*sjaːɡ): semantic [忄](../lookup/Radicals/Radical%20061.md) ("heart") + phonetic [[昔]] (OC \*sjaːɡ) – a feeling (of the heart).  Note that 昔 has meaning of "past, ending", hence connotations of "feelings for the past, feeling about an ending – regret, rue".
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
@@ -49,4 +50,5 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[惜]]<rt>ㄙㄝㄎ</rt></ruby> "begrudge; rue" (stand-in for 惜)
 - <ruby>[[愛惜]]<rt>ㄚㄧㄙㄝㄎ</rt></ruby> "cherish, treasure"

@@ -1008,6 +1008,7 @@ tags: [lookup]
 [浙](../../characters/浙.md)
 [暹](../../characters/暹.md)
 [崴](../../characters/崴.md)
+[幌](../../characters/幌.md)
 
 ## Datacheck
 ```base
