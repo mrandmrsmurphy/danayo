@@ -43,18 +43,19 @@ aliases:
   - 溌
   - 泼
 注音: ㄈㄚㄊ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness:
 ---
 >[!tip] This is a page about the character 発.
->For the word, see [発](words/発.md)
+>For the word, see [発](../words/発.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*pod, \*pods): originally a pictogram of a bow firing an arrow; a hand (攴) was added, forming 㢭, whose hand component later became the phonetic [[癹]] (OC \*pʰaːd, \*baːd) — semantic [[Radical 057|弓]] ("bow") + phonetic 癹, to shoot forth, to issue, to discharge. The shinjitai 発 simplifies 癹 to [[Radical 105|癶]] (the character's own assigned Kangxi radical, though not the true etymological phonetic).
 - [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))

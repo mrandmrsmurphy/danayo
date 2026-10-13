@@ -32,24 +32,25 @@ aliases:
   - 點
   - 奌
 注音: ㄉㄝㄇ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 点.
->For the word, see [点](words/点.md)
+>For the word, see [点](../words/点.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [[Radical 086|火]] ("fire; dot") + phonetic [[占]]. (Traditional 點 uses 黑 as semantic; shinjitai 点 substitutes 火.)
+- 形声 (OC uncertain): semantic [[Radical 086|火]] ("fire; dot") + phonetic [[占 (char)|占]] (OC uncertain). (Traditional 點 uses 黑 as semantic; shinjitai 点 substitutes 火.)
 - [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 3957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 添|em]] → [ㄉㄝㄇ](syllables/ㄉㄝㄇ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+
 ## Words
 - <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby> "point" (stand-in for 点)
 - <ruby>[[点心]]<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby> "snack, dim sum (Mandarin/Cantonese/Japanese); lunch (Korean)"
@@ -68,6 +69,7 @@ boundedness: 100
 - <ruby>[[缺点]]<rt>ㄎ⼔ㄊㄉㄝㄇ</rt></ruby> "flaw; defect"
 - <ruby>[[読点]]<rt>ㄉㄛㄎㄉㄝㄇ</rt></ruby> "comma (Asian punctuation)"
 - <ruby>[[頂点]]<rt>ㄐㄝㄫㄉㄝㄇ</rt></ruby> "peak; vertex; apex"
+- <ruby>[[終点]]<rt>ㄐㄨㄫㄉㄝㄇ</rt></ruby> "terminus; terminal"
 - <ruby>[[小数点]]<rt>ㄙㄛㄙㄨㄉㄝㄇ</rt></ruby> "decimal point"
 - <ruby>[[長点]]<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby> "long dot (calligraphy stroke)"
 - <ruby>[[挑点]]<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby> "rising dot (calligraphy stroke)"
