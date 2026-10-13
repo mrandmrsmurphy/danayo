@@ -31,7 +31,7 @@ stand_in: 百
 aliases:
   - 佰
 注音: ㄅㄚㄎ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -40,11 +40,12 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic 一 ("one") + phonetic [[Radical 106|白]] (near-identical Middle Chinese, p/b + ɣæk both — a regular voicing alternation on the same rime) — a full count, "hundred."
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 64th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅㄚㄎ](syllables/ㄅㄚㄎ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 64th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅㄚㄎ](../syllables/ㄅㄚㄎ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[百]]<rt>ㄅㄚㄎ</rt></ruby> "hundred" (stand-in for 百)
@@ -66,3 +67,6 @@ boundedness: 80
 ## Chengyu
 - <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"
+
+## Derived Characters
+- <ruby>[[弼]]<rt>ㄅㄧㄊ</rt></ruby> "assistant to the emperor" (as a 会意 component "hundred," not a phonetic borrowing)
