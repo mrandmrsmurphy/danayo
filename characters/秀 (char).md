@@ -30,7 +30,7 @@ graphemic_classification: 会意
 stand_in: 秀
 aliases:
 注音: ㄙㄨㄛ
-date-last-perfect: 2026-07-11
+date-last-perfect: 2026-10-12
 kwin: false
 tags:
   - character
@@ -56,5 +56,5 @@ boundedness: 50
 
 ## Derived Characters
 - <ruby>[[透 (char)|透]]<rt>ㄊㄛㄨ</rt></ruby> "transparent"
-- <ruby>[[銹 (char)|銹]]<rt>ㄙㄨ</rt></ruby> "rust"
-- <ruby>[[誘]]<rt>⼄ㄛ</rt></ruby> "persuade"
+- <ruby>[[銹 (char)|銹]]<rt>ㄙ⼜</rt></ruby> "rust"
+- <ruby>[[誘]]<rt>⼜ㄛ</rt></ruby> "persuade"

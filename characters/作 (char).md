@@ -31,7 +31,7 @@ stand_in: "作"
 aliases:
   - 做
 注音: "ㄐㄚㄎ"
-date-last-perfect: 2026-07-11
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
