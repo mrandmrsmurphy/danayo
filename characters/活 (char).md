@@ -31,14 +31,14 @@ stand_in: "活"
 aliases:
   - 𣴠
 注音: "ㄏ⺢ㄊ"
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 活.
->For the word, see [活](words/活.md)
+>For the word, see [活](../words/活.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*koːd, \*ɡoːd): semantic [[Radical 085|水]] ("water") + phonetic [[𠯑]] (later written as [[舌 (char)|舌]] in the modern glyph) — flowing water; by extension, living, alive.
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1850th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄏ⺢ㄊ](syllables/ㄏ⺢ㄊ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1850th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄏ⺢ㄊ](../syllables/ㄏ⺢ㄊ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[活]]<rt>ㄏ⺢ㄊ</rt></ruby> "alive" (stand-in for 活)
