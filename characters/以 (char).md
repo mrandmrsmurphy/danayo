@@ -66,3 +66,6 @@ boundedness: 90
 
 ## Derived Characters
 - <ruby>[[似 (char)|似]]<rt>ㄙㄚ</rt></ruby> "like; as; resembling"
+- <ruby>[[允]]<rt>⼜ㄋ</rt></ruby> "grant"
+- <ruby>[[台 (char)|台]]<rt>ㄉㄚㄧ</rt></ruby> "pedestal; platform"
+- <ruby>[[矣 (char)|矣]]<rt>⼔</rt></ruby> "indeed"
