@@ -30,22 +30,23 @@ graphemic_classification: "也"
 stand_in: "地"
 aliases:
 注音: "ㄉㄧㄜ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 地.
->For the word, see [地](words/地.md)
+>For the word, see [地](../words/地.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声 (OC \*l'els): semantic [[Radical 032|土]] ("earth") + phonetic [也 (char)](也%20(char).md) (OC \*laːlʔ). One of the first versions of this character is 𡓬 (> 墬), in which a hill, a pig, and a mound of earth are visible; visually, the upper part of the variant is 䧘.
-- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 86th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄉㄧㄜ](syllables/ㄉㄧㄜ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 形声 (OC \*l'els): semantic [[Radical 032|土]] ("earth") + phonetic [也 (char)](../characters/也%20(char).md) (OC \*laːlʔ). One of the first versions of this character is 𡓬 (> 墬), in which a hill, a pig, and a mound of earth are visible; visually, the upper part of the variant is 䧘.
+- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 86th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄉㄧㄜ](../syllables/ㄉㄧㄜ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[地]]<rt>ㄉㄧㄜ</rt></ruby> "land" (stand-in for 地)
@@ -94,10 +95,3 @@ boundedness: 90
 - <ruby>[[乳蜜流地]]<rt>ㄋㄨ·ㄇㄧㄊㄌ·⼜ㄉㄧㄜ</rt></ruby> "a land flowing with milk and honey"
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
 - <ruby>[[詛地哀食]]<rt>ㄐㄛㄉㄧㄜㄚㄧㄙㄧㄎ</rt></ruby> "Cursed ground, sorrowful eating"
-
-## Derived Characters
-- <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby> "another; additional"
-- <ruby>[[池 (char)|池]]<rt>ㄐㄨㄧ</rt></ruby> "pond; reservoir"
-- <ruby>[[馳 (char)|馳]]<rt>ㄑㄜ</rt></ruby> "run fast; drive quickly"
-- <ruby>[[弛]]<rt>ㄙㄝ</rt></ruby> "slacken"
-- <ruby>[[施]]<rt>ㄙㄝ</rt></ruby> "implement"
