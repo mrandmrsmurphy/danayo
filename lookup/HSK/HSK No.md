@@ -1013,6 +1013,7 @@ tags: [lookup]
 [刈 (char)](../../characters/刈%20(char).md)
 [攴](../../characters/攴.md)
 [衢 (char)](../../characters/衢%20(char).md)
+[咼](../../characters/咼.md)
 
 ## Datacheck
 ```base

@@ -77,7 +77,7 @@ Conflict vocabulary spans interpersonal and martial strife: enmity and dispute, 
 - <ruby>[殴打](../words/殴打.md)<rt>ㄛㄨㄉㄚ</rt></ruby>: to strike, batter.
 - <ruby>[攻](../words/攻.md)<rt>ㄍㄛㄫ</rt></ruby>: to attack, criticize.
 - <ruby>[攻防](../words/攻防.md)<rt>ㄍㄛㄫㄅㄚㄫ</rt></ruby>: offense and defense.
-- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨㄨㄧ</rt></ruby>: to encircle, surround.
+- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨ·ㄨㄧ</rt></ruby>: to encircle, surround.
 - <ruby>[苦肉](../words/苦肉.md)<rt>ㄎㄛ·ㄋㄨㄎ</rt></ruby>: self-inflicted suffering as a stratagem (苦肉計), and by extension a painful last-resort measure.
 
 ### Capture & Imprisonment

@@ -637,6 +637,7 @@ tags: [lookup]
 633. [攴](../../characters/攴.md)
 634. [衢 (char)](../../characters/衢%20(char).md)
 635. [堡](../../characters/堡.md)
+636. [咼](../../characters/咼.md)
 
 
 [[../../characters/吠]] - barking DO IT

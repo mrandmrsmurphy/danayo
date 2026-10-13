@@ -27,9 +27,8 @@ danayo_id: 174
 mc_id: 272
 graphemic_classification: "𢦏"
 stand_in: "哉"
-aliases:
 注音: "ㄐㄚㄧ"
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character

@@ -49,7 +49,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[占有](../words/占有.md)<rt>ㄐㄝㄇ·⼜</rt></ruby>: to possess, occupy, hold — see [[Possession]] for its own citation there.
 - <ruby>[占拠](../words/占拠.md)<rt>ㄐㄝㄇㄍ⼄</rt></ruby>: to occupy, hold by force — see [[Conflict]] for its own citation there.
 - <ruby>[占領](../words/占領.md)<rt>ㄐㄝㄇㄌㄧㄫ</rt></ruby>: to capture, occupy, seize — the military-conquest sense; see [[Conflict]] for its own citation there.
-- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨㄨㄧ</rt></ruby>: to encircle, surround — tactically, as of a siege; see [[Conflict]] for its own citation there.
+- <ruby>[包囲](../words/包囲.md)<rt>ㄅ⼘ㄨ·ㄨㄧ</rt></ruby>: to encircle, surround — tactically, as of a siege; see [[Conflict]] for its own citation there.
 - <ruby>[繞](../words/繞.md)<rt>ㄋㄛㄨ</rt></ruby>: to entwine, surround, enclose — physically, as a vine or wrapping does, not tactically.
 
 ### Relational & Directional Particles

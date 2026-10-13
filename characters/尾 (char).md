@@ -32,7 +32,7 @@ mc_id: 1232
 graphemic_classification: "会意"
 stand_in: "尾"
 注音: "ㄇㄨㄧ"
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -68,3 +68,5 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[犀]]<rt>ㄙㄝㄧ</rt></ruby> "rhinoceros"
 - <ruby>[[梶]]<rt>ㄇㄨㄧ</rt></ruby> "oar"
+- <ruby>[[屈 (char)|屈]]<rt>ㄎㄨㄊ</rt></ruby> "bend" (as the semantic component "tail," not a phonetic borrowing)
+- <ruby>[[属]]<rt>ㄐㄛㄎ</rt></ruby> "belong" (as the semantic component "tail," not a phonetic borrowing)
