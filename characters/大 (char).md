@@ -61,7 +61,7 @@ boundedness: 90
 - <ruby>[[大学]]<rt>ㄉㄚㄧㄏㄚㄎ</rt></ruby> "university (abbr.); Great Learning"
 - <ruby>[[大家]]<rt>ㄉㄚㄧㄍㄚ</rt></ruby> "everyone; everybody (Mandarin/Cantonese)"
 - <ruby>[[大概]]<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby> "for the most part; generally; approximately"
-- <ruby>[[大河]]<rt>ㄉㄚㄧㄏㄝㄧ</rt></ruby> "big river; large river"
+- <ruby>[[大河]]<rt>ㄉㄚㄧㄏㄚ</rt></ruby> "big river; large river"
 - <ruby>[[大正]]<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby> "just; fair; Taisho era"
 - <ruby>[[大便]]<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby> "feces; bowel movement"
 - <ruby>[[大洋]]<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> "ocean"

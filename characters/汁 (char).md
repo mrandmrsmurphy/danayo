@@ -30,7 +30,7 @@ graphemic_classification: 十
 stand_in: 汁
 aliases:
 注音: ㄐㄜㄆ
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -53,4 +53,4 @@ boundedness: 65
 - <ruby>[[汁]]<rt>ㄐㄜㄆ</rt></ruby> "juice" (stand-in for 汁)
 - <ruby>[[果汁]]<rt>ㄍ⺢ㄐㄜㄆ</rt></ruby> "fruit juice"
 - <ruby>[[肉汁]]<rt>ㄋㄨㄎㄐㄜㄆ</rt></ruby> "broth"
-- <ruby>[[菜汁]]<rt>ㄑㄚㄧㄐㄧㄆ</rt></ruby> "vegetable juice"
+- <ruby>[[菜汁]]<rt>ㄑㄚㄧㄐㄜㄆ</rt></ruby> "vegetable juice"

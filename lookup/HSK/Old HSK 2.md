@@ -1412,7 +1412,6 @@ tags: [lookup]
 [纠](../../characters/糾%20(char).md): 1
 [[糾 (char)]]: 1
 [[竟 (char)]]: 1
-[[辟]]: 1
 [闢](../../characters/辟.md): 1
 [[慮]]: 1
 [虑](../../characters/慮.md): 1

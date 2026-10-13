@@ -30,9 +30,8 @@ danayo_id: 4309
 mc_id: 718
 graphemic_classification: 冎
 stand_in: 骨
-aliases:
 注音: ㄍㄛㄊ
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -45,6 +44,7 @@ boundedness: 20
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kuːd): semantic [[Radical 130|肉]] ("flesh, meat") + phonetic 冎 (OC \*kroːlʔ, "bone" — no character page of its own in this vault, though it also backs the phonetic component of [[咼]] and [[拐]]) — 冎 was originally the pictograph for "bone" itself; 肉 was added later to disambiguate it.
 - [SKIP-2-6-4](../lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
@@ -75,3 +75,4 @@ boundedness: 20
 
 ## Derived Characters
 - <ruby>[[滑 (char)|滑]]<rt>ㄏ⺢ㄊ</rt></ruby> "slippery"
+- <ruby>[[骸]]<rt>ㄏ⼶</rt></ruby> "corpse" (as the semantic component "bone," not a phonetic borrowing)

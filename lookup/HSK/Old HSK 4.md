@@ -837,7 +837,6 @@ tags: [lookup]
 [[担]]: 3
 [擔](../../characters/担.md): 3
 [忧](../../characters/憂.md): 3
-[[憂]]: 3
 [弹](../../characters/弾.md): 3
 [彈](../../characters/弾.md): 3
 [药](../../characters/薬%20(char).md): 3

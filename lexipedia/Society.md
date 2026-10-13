@@ -399,7 +399,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[鬼老](../words/鬼老.md)<rt>ㄍㄨㄧㄌㄚㄨ</rt></ruby>: male demon; foreigner (Cantonese slang).
 - <ruby>[大勢](../words/大勢.md)<rt>ㄉㄚㄧㄙㄝ</rt></ruby>: the general trend; the tide of events.
 - <ruby>[受諾](../words/受諾.md)<rt>ㄙ⼜·ㄋㄚㄎ</rt></ruby>: to accept; acceptance.
-- <ruby>[尊栄](../words/尊栄.md)<rt>ㄐㄛㄋ·ㄨㄧㄫ</rt></ruby>: honorable and glorious; dignity and glory.
+- <ruby>[尊栄](../words/尊栄.md)<rt>ㄐㄛㄋㄨㄧㄫ</rt></ruby>: honorable and glorious; dignity and glory.
 - <ruby>[尊重](../words/尊重.md)<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby>: to respect; to esteem.
 - <ruby>[朝鮮人](../words/朝鮮人.md)<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby>: a person of Joseon; a Korean (historically); a North Korean (today).
 - <ruby>[人気](../words/人気.md)<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby>: popularity; popular.
