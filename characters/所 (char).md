@@ -31,22 +31,23 @@ graphemic_classification: "戸"
 stand_in: "所"
 aliases:
 注音: "ㄙㄜ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 所.
->For the word, see [所](words/所.md)
+>For the word, see [所](../words/所.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*sqʰraʔ): semantic [[Radical 069|斤]] ("axe") + phonetic [[Radical 063|戶]] (OC \*ɡʷaːʔ) — the sound of logging (the definition given in Shuowen).
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 19th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄙㄜ](syllables/ㄙㄜ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 19th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄙㄜ](../syllables/ㄙㄜ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[所]]<rt>ㄙㄜ</rt></ruby> "-ee" (stand-in for 所)

@@ -35,14 +35,14 @@ aliases:
   - 當
   - 噹
 注音: ㄉㄚㄫ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 当.
->For the word, see [当](words/当.md)
+>For the word, see [当](../words/当.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,9 +50,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*taːŋ): semantic [[田]] ("field," matching plots of equal size) + phonetic [[尚 (char)|尚]] (OC \*djaŋs) — two fields of equal value facing each other, extended to mean "to correspond to, to be equal to, ought."
-- [SKIP-2-3-3](lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 152nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄉㄚㄫ](syllables/ㄉㄚㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 152nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄉㄚㄫ](../syllables/ㄉㄚㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[当]]<rt>ㄉㄚㄫ</rt></ruby> "while; current" (stand-in for 当)
@@ -70,11 +70,3 @@ boundedness: 100
 - <ruby>[[不当]]<rt>ㄅㄛㄊㄉㄚㄫ</rt></ruby> "unjust; unfair"
 - <ruby>[[妥当]]<rt>ㄊㄚㄉㄚㄫ</rt></ruby> "appropriate; proper"
 - <ruby>[[正当]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> "legitimate; proper"
-
-## Derived Characters
-- <ruby>[[賞 (char)|賞]]<rt>ㄙ⼘ㄫ</rt></ruby> "reward"
-- <ruby>[[党]]<rt>ㄉㄚㄫ</rt></ruby> "political party"
-- <ruby>[[嘗]]<rt>ㄙ⼘ㄫ</rt></ruby> "taste; experience"
-- <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> "meeting hall"
-- <ruby>[[掌]]<rt>ㄐㄚㄫ</rt></ruby> "palm; sole"
-- <ruby>[[常]]<rt>ㄙ⼘ㄫ</rt></ruby> "common; normal"

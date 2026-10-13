@@ -26,16 +26,15 @@ danayo_id: 149
 mc_id: 529
 graphemic_classification: "皮"
 stand_in: "彼"
-aliases:
 注音: "ㄅㄜ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 彼.
->For the word, see [彼](words/彼.md)
+>For the word, see [彼](../words/彼.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -43,9 +42,9 @@ boundedness: 80
 
 ## Notes
 - 形声: semantic [[Radical 060|彳]] ("step, road") + phonetic [[皮]] — movement toward a distant point; "that, yonder."
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 529th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄅㄜ](syllables/ㄅㄜ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 529th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄅㄜ](../syllables/ㄅㄜ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[彼]]<rt>ㄅㄜ</rt></ruby> "yon" (stand-in for 彼)
