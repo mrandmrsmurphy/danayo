@@ -29,21 +29,21 @@ stand_in: "送"
 aliases:
   - 䢠
 注音: "ㄙㄛㄫ"
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 送.
->For the word, see [送](words/送.md)
+>For the word, see [送](../words/送.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC \*sloːŋs): semantic [[Radical 162|辵]] ("walking; motion") + phonetic [[灷]] (zhuàn) — to send off, to escort on a journey.
+- 形声 (OC \*sloːŋs): semantic [[Radical 162|辵]] ("walking; motion") + phonetic [[灷]] (zhuàn; OC uncertain) — to send off, to escort on a journey.
 - [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 781st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄙㄛㄫ](syllables/ㄙㄛㄫ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

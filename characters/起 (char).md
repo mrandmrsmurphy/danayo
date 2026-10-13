@@ -29,21 +29,21 @@ graphemic_classification: "巳"
 stand_in: "起"
 aliases:
 注音: "ㄎㄧ"
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 起.
->For the word, see [起](words/起.md)
+>For the word, see [起](../words/起.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC \*kʰɯʔ): semantic [[Radical 156|走]] ("to walk; run") + phonetic [[巳]] (sì) — to rise, to get up.
+- 形声 (OC \*kʰɯʔ): semantic [[Radical 156|走]] ("to walk; run") + phonetic [[巳]] (sì; OC uncertain) — to rise, to get up.
 - [SKIP-3-7-3](lookup/SKIP/SKIP-3/SKIP-3-7-3.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
 - 247th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](syllables/ㄎㄧ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

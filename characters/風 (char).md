@@ -34,17 +34,19 @@ aliases:
   - 讽
   - 諷
 注音: "ㄈㄨㄫ"
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
->[!tip] This is about the character.  For the word, see [[../words/風]].
->For the radical, see [Radical 182](lookup/Radicals/Radical%20182.md).
+>[!tip] This is a page about the character 風.
+>For the word, see [風](../words/風.md). For the radical, see [Radical 182](../lookup/Radicals/Radical%20182.md).
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 假借 (OC \*plum): originally borrowed the character for 鳳 ("phoenix"), itself semantic phoenix-tail feathers + phonetic [[凡]] (OC \*bom); the feather strands were simplified over time into the modern 虫-looking bottom component, which is a graphic vestige, not a true "insect" semantic radical. 風 itself is its own Kangxi radical (182).
 - [SKIP-3-2-7](lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))

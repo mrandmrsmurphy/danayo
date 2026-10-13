@@ -31,18 +31,20 @@ stand_in: 馬
 aliases:
   - 马
 注音: ㄇㄚ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 馬.
->For the word, see [馬](words/馬.md)
->For the radical, see [Radical 187](lookup/Radicals/Radical%20187.md)
+>For the word, see [馬](../words/馬.md)
+>For the radical, see [Radical 187](../lookup/Radicals/Radical%20187.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): a horse with its head facing the left, showing a flowing mane in the wind, standing vertically on two legs. In the bronze inscriptions, the head was often simplified into an eye (目 (mù)). The legs eventually evolved into four dots (灬 (huǒ), unrelated to 火 (huǒ)).
 - [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
@@ -73,3 +75,6 @@ boundedness: 90
 - <ruby>[[媽]]<rt>ㄇㄚ</rt></ruby> "maidservant"
 - <ruby>[[罵]]<rt>ㄇㄚ</rt></ruby> "to abuse; to scold"
 - <ruby>[[闖]]<rt>ㄊㄨㄇ</rt></ruby> "intrude"
+- <ruby>[[馭]]<rt>⼄</rt></ruby> "drive"
+- <ruby>[[馴]]<rt>ㄙ⼜ㄎ</rt></ruby> "tame"
+- <ruby>[[馿 (char)|馿]]<rt>ㄌ⼄</rt></ruby> "donkey"

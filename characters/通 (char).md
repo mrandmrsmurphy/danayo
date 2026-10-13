@@ -31,14 +31,14 @@ graphemic_classification: 甬
 stand_in: 通
 aliases:
 注音: ㄊㄛㄫ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 通.
->For the word, see [通](words/通.md)
+>For the word, see [通](../words/通.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
