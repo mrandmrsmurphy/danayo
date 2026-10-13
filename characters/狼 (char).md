@@ -26,9 +26,8 @@ danayo_id: 8538
 mc_id: 1434
 graphemic_classification: 良
 stand_in: 狼
-aliases:
 注音: ㄌㄚㄫ
-date-last-perfect: 2026-07-21
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character

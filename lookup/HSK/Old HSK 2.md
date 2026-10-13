@@ -1522,7 +1522,6 @@ tags: [lookup]
 [绳](../../characters/縄%20(char).md): 1
 [繩](../../characters/縄%20(char).md): 1
 [[去 (char)]]: 1
-[獅](../../characters/獅.md): 1
 [狮](../../characters/獅.md): 1
 [[穫]]: 1
 [[帕]]: 1
