@@ -29,20 +29,21 @@ graphemic_classification: 象形
 stand_in: 高
 aliases:
 注音: ㄍㄚㄨ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 高.
->For the word, see [高](words/高.md)
+>For the word, see [高](../words/高.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a tall building (compare [[京]], a similar tower pictograph that is not itself a Kangxi radical).
+- [List of 象形](lookup/List%20of%20象形.md): depicts a tall building; itself the Kangxi radical [[Radical 189|高]] (compare [[京]], a similar tower pictograph that is not itself a Kangxi radical).
 - [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
 - 150th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄍㄚㄨ](syllables/ㄍㄚㄨ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
@@ -78,3 +79,4 @@ boundedness: 90
 - <ruby>[[膏]]<rt>ㄍㄚㄨ</rt></ruby> "grease; oil"
 - <ruby>[[鎬]]<rt>ㄏㄚㄨ</rt></ruby> "stove"
 - <ruby>[[豪]]<rt>ㄏㄚㄨ</rt></ruby> "magnificent; bold"
+- <ruby>[[嵩]]<rt>ㄙㄨㄫ</rt></ruby> "high; lofty"
