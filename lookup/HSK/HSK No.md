@@ -1009,6 +1009,7 @@ tags: [lookup]
 [暹](../../characters/暹.md)
 [崴](../../characters/崴.md)
 [幌](../../characters/幌.md)
+[髄](../../characters/髄.md)
 
 ## Datacheck
 ```base
