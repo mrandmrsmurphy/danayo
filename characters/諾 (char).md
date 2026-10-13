@@ -51,4 +51,4 @@ date-last-perfect: 2026-08-08
 ## Words
 - <ruby>[[諾]]<rt>ㄋㄚㄎ</rt></ruby> "consent" (stand-in for 諾)
 - abbreviation for "nobelium": <ruby>[[諾貝金]]<rt>ㄋㄚㄎㄅㄚㄧㄍㄧㄇ</rt></ruby>
-- <ruby>[[受諾]]<rt>ㄙ⼜ㄋㄚㄎ</rt></ruby> "to accept; acceptance"
+- <ruby>[[受諾]]<rt>ㄙ⼜·ㄋㄚㄎ</rt></ruby> "to accept; acceptance"
