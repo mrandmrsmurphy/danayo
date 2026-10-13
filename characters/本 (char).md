@@ -34,26 +34,28 @@ danayo_id: 58
 mc_id: 302
 graphemic_classification: "指事"
 stand_in: "本"
-aliases:
 注音: "ㄅㄛㄋ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 45
 ---
 >[!tip] This is a page about the character 本.
->For the word, see [本](words/本.md)
+>For the word, see [本](../words/本.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - abbreviation for <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium" in periodic-table formulae — see [[Periodic Table]]
 - [List of 指事](../lookup/List%20of%20指事.md): a horizontal stroke added at the base of [[木]] ("tree"), marking the root; "origin, foundation."
 - [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 302nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄅㄛㄋ](../syllables/ㄅㄛㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[本]]<rt>ㄅㄛㄋ</rt></ruby> "foundation" (stand-in for 本)
 - <ruby>[[本質]]<rt>ㄅㄛㄋㄐㄧㄊ</rt></ruby> "essence, nature (intrinsic quality)"
 - <ruby>[[本来]]<rt>ㄅㄛㄋㄌㄚㄧ</rt></ruby> "origin"
 - <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium"
@@ -72,5 +74,10 @@ boundedness: 45
 - <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
 - <ruby>[[本字]]<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character"
 - <ruby>[[熊本]]<rt>ㄨㄫㄅㄛㄋ</rt></ruby> "Kumamoto Prefecture"
+
 ## Chengyu
 - <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"
+
+## Derived Characters
+- <ruby>[[鉢 (char)|鉢]]<rt>ㄅㄚㄊ</rt></ruby> "bowl"
+- <ruby>[[体]]<rt>ㄊㄝㄧ</rt></ruby> "group" (as the 会意 semantic component "root, base," not a phonetic borrowing)

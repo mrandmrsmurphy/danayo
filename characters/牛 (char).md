@@ -28,9 +28,8 @@ danayo_id: 39
 mc_id: 503
 graphemic_classification: 象形
 stand_in: 牛
-aliases:
 注音: ㄋ⼜
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -38,17 +37,20 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 牛.
->For the word, see [牛](words/牛.md)
+>For the word, see [牛](../words/牛.md)
 >For the radical, see [Radical 093](../lookup/Radicals/Radical%20093.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): frontal view of an ox's head, with the horns curving up and out.
 - [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 503rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄋ⼜](../syllables/ㄋ⼜.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby> "cow" (stand-in for 牛)
 - <ruby>[[牛乳]]<rt>ㄋ⼜·ㄋㄨ</rt></ruby> "cow's milk, milk"
 - <ruby>[[牛井]]<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby> "gyudon; beef rice bowl"
 - <ruby>[[犀牛]]<rt>ㄙㄝㄧㄋ⼜</rt></ruby> "rhinoceros"
@@ -58,6 +60,15 @@ boundedness: 90
 - <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"
 - <ruby>[[海牛]]<rt>ㄏㄚㄧㄋ⼜</rt></ruby> "sea cow; manatee"
 - <ruby>[[蝸牛]]<rt>ㄍ⺢·ㄋ⼜</rt></ruby> "snail"
+
 ## Chengyu
 - <ruby>[[呉牛喘月]]<rt>ㄛ·ㄋ⼜ㄑㄝㄋ⼔ㄊ</rt></ruby> "excessive fear born of past trauma"
 - <ruby>[[対牛弾琴]]<rt>ㄉㄛㄧㄋ⼜ㄉㄚㄋㄍㄨㄇ</rt></ruby> "like talking to a wall, pearls before swine"
+
+## Derived Characters
+- <ruby>[[牲]]<rt>ㄙㄚㄫ</rt></ruby> "animal sacrifice" (as the semantic component of a 形声 with phonetic 生)
+- <ruby>[[牽]]<rt>ㄎㄝㄋ</rt></ruby> "tow" (as the semantic component of a 形声)
+- <ruby>[[犂]]<rt>ㄌㄝㄧ</rt></ruby> "plough" (as the semantic component of a 形声)
+- <ruby>[[半 (char)|半]]<rt>ㄅㄚㄋ</rt></ruby> "half" (as the 会意 semantic component "cow, ox," not a phonetic borrowing)
+- <ruby>[[牢]]<rt>ㄌㄚㄨ</rt></ruby> "prison" (as the 会意 semantic component "cow, ox," not a phonetic borrowing)
+- <ruby>[[解 (char)|解]]<rt>ㄍ⼘ㄧ</rt></ruby> "explain" (as the 会意 semantic component "cow, ox," not a phonetic borrowing)

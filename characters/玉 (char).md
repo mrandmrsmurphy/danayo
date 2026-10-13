@@ -27,25 +27,27 @@ danayo_id: 66
 mc_id: 463
 graphemic_classification: "象形"
 stand_in: "玉"
-aliases:
 注音: "⼄ㄎ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 玉.
->For the word, see [玉](words/玉.md)
+>For the word, see [玉](../words/玉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): depicts a 琮 (cong), a ritual jade totem; alternatively, three pieces of jade strung together on a string.
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 463rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [⼄ㄎ](../syllables/⼄ㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[玉]]<rt>⼄ㄎ</rt></ruby> "jade" (stand-in for 玉)
 - <ruby>[[瓊玉]]<rt>ㄍ⼶ㄫ⼄ㄎ</rt></ruby> "fine jade"
 - <ruby>[[玉葱]]<rt>⼄ㄎㄑㄛㄫ</rt></ruby> "onion"
 - <ruby>[[玉璽]]<rt>⼄ㄎㄙㄝ</rt></ruby> "royal seal; emperor's seal"
@@ -57,3 +59,9 @@ boundedness: 65
 
 ## Chengyu
 - <ruby>[[金科玉律]]<rt>ㄍㄧㄇㄎ⺢⼄ㄎㄌㄨㄊ</rt></ruby> "unbreakable rule"
+
+## Derived Characters
+- <ruby>[[玖]]<rt>ㄎ⼜</rt></ruby> "jade" (as the semantic component "jade," not a phonetic borrowing)
+- <ruby>[[瑚]]<rt>ㄏㄛㄨ</rt></ruby> "coral" (as the semantic component "jade," not a phonetic borrowing)
+- <ruby>[[瑞]]<rt>ㄙ⼔</rt></ruby> "auspicious" (as the semantic component "jade," not a phonetic borrowing)
+- <ruby>[[章 (char)|章]]<rt>ㄐㄚㄫ</rt></ruby> "chapter" (as the semantic component "jade," not a phonetic borrowing)
