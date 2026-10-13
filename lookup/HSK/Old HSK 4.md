@@ -615,7 +615,6 @@ tags: [lookup]
 [惡](../../characters/悪%20(char).md): 4
 [[售]]: 4
 [师](../../characters/師.md): 4
-[[師]]: 4
 [储](../../characters/儲.md): 4
 [[儲]]: 4
 [[息]]: 4
