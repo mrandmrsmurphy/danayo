@@ -1285,7 +1285,6 @@ tags: [lookup]
 [凉](../../characters/涼.md): 2
 [[涼]]: 2
 [谬](../../characters/謬.md): 2
-[[謬]]: 2
 [张](../../characters/張.md): 2
 [[張]]: 2
 [[黄 (char)]]: 2

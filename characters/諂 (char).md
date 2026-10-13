@@ -30,7 +30,7 @@ stand_in: "諂"
 aliases:
   - 谄
 注音: "ㄑㄝㄇ"
-date-last-perfect: 2026-07-21
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
