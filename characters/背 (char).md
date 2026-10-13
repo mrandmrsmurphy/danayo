@@ -56,7 +56,7 @@ date-last-perfect: 2026-09-16
 ## Words
 - <ruby>[[背]]<rt>ㄅㄛㄧ</rt></ruby> "back" (stand-in for 背)
 - <ruby>[[背景]]<rt>ㄅㄛㄧㄍ⼶ㄫ</rt></ruby> "background"
-- <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄛㄨ</rt></ruby> "back, rear"
+- <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby> "back, rear"
 - <ruby>[[背骨]]<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby> "backbone, spine"
 - <ruby>[[駝背]]<rt>ㄉㄚㄅㄛㄧ</rt></ruby> "hunchbacked, humpbacked"
 - <ruby>[[舌背]]<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"

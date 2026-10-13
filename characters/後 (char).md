@@ -28,7 +28,7 @@ mc_id: 60
 graphemic_classification: 会意
 stand_in: 後
 注音: ㄏㄨㄛ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -36,7 +36,7 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 後.
->For the word, see [後](words/後.md)
+>For the word, see [後](../words/後.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +44,9 @@ boundedness: 90
 
 ## Notes
 - 会意 (oracle bone form): [[Radical 052|幺]] ("thread") + [[Radical 035|夊]] ("foot") — a foot bound by a rope, thus lagging behind; [[Radical 060|彳]] ("step") was added later to emphasize the action of walking. To trail behind; after. Distinct from [[后]] (会意, "empress") — the two are etymologically unrelated characters that happen to share the modern Mandarin reading hòu; 后 was adopted as this character's simplified substitute in PRC orthography, not followed in Dan'a'yo, which keeps both as fully separate words with distinct readings.
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 60th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄏㄨㄛ](syllables/ㄏㄨㄛ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 60th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄏㄨㄛ](../syllables/ㄏㄨㄛ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[後]]<rt>ㄏㄨㄛ</rt></ruby> "after" (stand-in for 後)
@@ -62,8 +62,9 @@ boundedness: 90
 - <ruby>[[前後]]<rt>ㄐㄝㄋㄏㄨㄛ</rt></ruby> "front and rear; before and after"
 - <ruby>[[絶後]]<rt>ㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "to never happen again; to not have children"
 - <ruby>[[而後]]<rt>ㄋㄧㄏㄨㄛ</rt></ruby> "after that; only then"
-- <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄛㄨ</rt></ruby> "back; rear; behind"
+- <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby> "back; rear; behind"
 - <ruby>[[紀元後]]<rt>ㄍㄧ⼔ㄋㄏㄨㄛ</rt></ruby> "AD; CE"
+- <ruby>[[午後]]<rt>ㄛㄏㄨㄛ</rt></ruby> "p.m."
 - <ruby>[[後舌]]<rt>ㄏㄨㄛ·ㄙㄝㄊ</rt></ruby> "back (of the tongue)"
 
 ## Chengyu
