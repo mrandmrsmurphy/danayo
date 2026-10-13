@@ -6,7 +6,11 @@ korean_native: 밝을
 japanese:
   - MEI
   - MYOU
-japanese_native: あ-かり,あか-るい,あか-るむ,あか-らむ
+japanese_native:
+  - あ-かり
+  - あか-るい
+  - あか-るむ
+  - あか-らむ
 vietnamese:
   - minh
   - mừng
@@ -35,22 +39,23 @@ aliases:
   - 䳟
   - 眀
 注音: ㄇ⼶ㄫ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 明.
->For the word, see [明](words/明.md)
+>For the word, see [明](../words/明.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[日 (char)|日]] ("sun") + [[月 (char)|月]] ("moon") — the sun just rising and the moon not yet set – dawn (天明 (tiānmíng)).
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 83rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄇ⼶ㄫ](syllables/ㄇ⼶ㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 83rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[明]]<rt>ㄇ⼶ㄫ</rt></ruby> "bright" (stand-in for 明)
@@ -81,7 +86,7 @@ boundedness: 100
 - <ruby>[[明君]]<rt>ㄇ⼶ㄫㄍㄨㄋ</rt></ruby> "wise ruler, enlightened monarch"
 - <ruby>[[孔明]]<rt>ㄎㄛㄫㄇ⼶ㄫ</rt></ruby> "bright; clean"
 - <ruby>[[啓明]]<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby> "morning star"
-- <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird" (in place of 鷦明)
+- <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird"
 - <ruby>[[明蝦]]<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby> "king prawn"
 - <ruby>[[胡志明市]]<rt>ㄏㄛㄨㄐㄧ·ㄇ⼶ㄫㄙㄧ</rt></ruby> "Ho Chi Minh City"
 - <ruby>[[簡明]]<rt>ㄍㄚㄋㄇ⼶ㄫ</rt></ruby> "simple and clear; concise and plain"

@@ -27,16 +27,15 @@ danayo_id: 109
 mc_id: 1350
 graphemic_classification: "会意"
 stand_in: "早"
-aliases:
 注音: "ㄐㄚㄨ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 早.
->For the word, see [早](words/早.md)
+>For the word, see [早](../words/早.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 072|日]] ("sun") above 十 (a stylized plant/marker) — the sun risen above the horizon; "early."
-- [SKIP-2-4-2](lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 1350th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄐㄚㄨ](syllables/ㄐㄚㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-2](../lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 1350th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄐㄚㄨ](../syllables/ㄐㄚㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[早]]<rt>ㄐㄚㄨ</rt></ruby> "early" (stand-in for 早)
