@@ -34,7 +34,7 @@ stand_in: 劇
 aliases:
   - 剧
 注音: ㄍㄝㄎ
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -46,6 +46,7 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɡaɡ): semantic [[Radical 018|刀]] ("knife") + phonetic 豦 (OC \*kas, \*ɡa — a 会意 of 虍 "tiger" and 豕 "boar" depicting the two fighting fiercely; no character page of its own in this vault, though it also backs the phonetic component of [[拠]] "depend upon" and [[遽]] "in a hurry") — the cutting sense of 刀 extended metaphorically to "severe, extreme," later narrowing to "drama."
 - [SKIP-1-13-2](../lookup/SKIP/SKIP-1/SKIP-1-13-2.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))

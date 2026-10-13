@@ -6,7 +6,10 @@ korean_native: 옳을
 japanese:
   - KA
   - KOKU
-japanese_native: " よい ,べし ,ばかり"
+japanese_native:
+  - よい
+  - べし
+  - ばかり
 vietnamese:
   - khả
   - khá
@@ -29,9 +32,8 @@ danayo_id: 3053
 mc_id: 35
 graphemic_classification: 丂
 stand_in: 可
-aliases:
 注音: ㄎㄜ
-date-last-perfect: 2026-07-20
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -43,6 +45,7 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʰaːlʔ): semantic [[Radical 030|口]] ("mouth") + phonetic 丂, an ancient variant of [[考]] (OC \*kʰluːʔ; no character page of its own in this vault — the same root also backs [[号]], [[巧]], and [[昜]]) — breath voiced through the mouth, an utterance of assent; generalized to the auxiliary sense "can, may."
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
