@@ -27,9 +27,8 @@ danayo_id: 46
 mc_id: 14
 graphemic_classification: 象形
 stand_in: 王
-aliases:
 注音: ⺢ㄫ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -41,12 +40,15 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): of a ritual axe made perhaps of jade, symbols of the king's power. A ceremonial axe was kept near the throne, and was used for performing rituals in ancient China.
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 14th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [⺢ㄫ](../syllables/⺢ㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[王]]<rt>⺢ㄫ</rt></ruby> "king" (stand-in for 王)
 - <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[王位]]<rt>⺢ㄫ⼔ㄧ</rt></ruby> "throne"
 - <ruby>[[王畿]]<rt>⺢ㄫㄍㄧㄜ</rt></ruby> "royal domain"
@@ -63,8 +65,15 @@ boundedness: 90
 - <ruby>[[王朝]]<rt>⺢ㄫㄐㄚㄨ</rt></ruby> "dynasty; reign; court"
 - <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
 - <ruby>[[国王]]<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby> "king; sovereign; monarch"
+
 ## Chengyu
 - <ruby>[[尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians"
 
 ## Derived Characters
 - <ruby>[[全 (char)|全]]<rt>ㄐ⼔ㄋ</rt></ruby> "whole"
+- <ruby>[[匡]]<rt>ㄎ⺢ㄫ</rt></ruby> "correct"
+- <ruby>[[往 (char)|往]]<rt>⺢ㄫ</rt></ruby> "to go towards"
+- <ruby>[[旺]]<rt>⺢ㄫ</rt></ruby> "flourish"
+- <ruby>[[枉]]<rt>⺢ㄫ</rt></ruby> "bent"
+- <ruby>[[汪]]<rt>⺢ㄫ</rt></ruby> "vast"
+- <ruby>[[皇]]<rt>ㄏ⺢ㄫ</rt></ruby> "emperor"
