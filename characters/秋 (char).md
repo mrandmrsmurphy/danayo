@@ -5,7 +5,7 @@ korean: 추
 korean_native: 가울
 japanese:
   - SHUU
-japanese_native: あき
+japanese_native:
   - あき
 vietnamese:
   - thu
@@ -33,14 +33,14 @@ aliases:
 - 龝
 - 穐
 注音: ㄑㄨㄛ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 秋.
->For the word, see [秋](words/秋.md)
+>For the word, see [秋](../words/秋.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +51,7 @@ boundedness: 65
 - [SKIP-1-5-4](lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
 - 229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑㄨㄛ](syllables/ㄑㄨㄛ.md)
 - [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[秋]]<rt>ㄑㄨㄛ</rt></ruby> "autumn" (stand-in for 秋)
 - <ruby>[[秋波]]<rt>ㄑㄨㄛㄅㄚ</rt></ruby> "autumn ripples; amorous glance"
@@ -62,11 +63,13 @@ boundedness: 65
 - <ruby>[[季秋]]<rt>ㄍㄨㄧㄑㄨㄛ</rt></ruby> "late autumn (9th month)"
 - <ruby>[[春秋]]<rt>ㄑㄨㄋㄑㄨㄛ</rt></ruby> "spring and autumn"
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
+
 ## Chengyu
 - <ruby>[[春秋鼎盛]]<rt>ㄑㄨㄋㄑㄨㄛㄉㄧㄫㄙㄧㄫ</rt></ruby> "in the prime of life; at the height of one's powers"
 - <ruby>[[一日三秋]]<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> "time keeps dragging on"
 - <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"
 - <ruby>[[暗送秋波]]<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> "to flirt, to convey feelings through a knowing glance"
+
 ## Derived Characters
 - <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby> "shovel"
 - <ruby>[[萩]]<rt>ㄑㄨ</rt></ruby> "bush clover"

@@ -31,14 +31,14 @@ stand_in: 草
 aliases:
   - 艸
 注音: ㄑㄚㄨ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 草.
->For the word, see [草](words/草.md)
+>For the word, see [草](../words/草.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

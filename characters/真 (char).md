@@ -34,14 +34,14 @@ aliases:
   - 鷆
   - 鷏
 注音: ㄐㄧㄋ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 真.
->For the word, see [真](words/真.md)
+>For the word, see [真](../words/真.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[天真]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "innocent; naive; artless"
 - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> "photograph"
 - <ruby>[[真理]]<rt>ㄐㄧㄋㄌㄧ</rt></ruby> "truth"
+- <ruby>[[真核]]<rt>ㄐㄧㄋㄏㄚㄎ</rt></ruby> "eukaryotic"
 
 ## Chengyu
 - <ruby>[[天真乱漫]]<rt>ㄊㄝㄋㄐㄧㄋㄌㄚㄋㄇㄚㄋ</rt></ruby> "simple and artless"
@@ -68,3 +69,5 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[鎮 (char)|鎮]]<rt>ㄑㄧㄋ</rt></ruby> "to tranquilize"
 - <ruby>[[慎]]<rt>ㄙㄧㄋ</rt></ruby> "cautious"
+- <ruby>[[填 (char)|填]]<rt>ㄉㄝㄋ</rt></ruby> "fill in"
+- <ruby>[[槙]]<rt>ㄉㄝㄋ</rt></ruby> "tree tip; twig"

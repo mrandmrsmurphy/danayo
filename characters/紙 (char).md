@@ -31,14 +31,14 @@ aliases:
   - 纸
   - 帋
 注音: ㄐㄝ
-date-last-perfect: 2026-07-23
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 紙.
->For the word, see [紙](words/紙.md)
+>For the word, see [紙](../words/紙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
