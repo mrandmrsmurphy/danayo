@@ -32,7 +32,7 @@ stand_in: 下
 aliases:
   - 丅
 注音: ㄏㄚ
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-12
 kwin: true
 tags:
   - character
@@ -43,14 +43,16 @@ boundedness: 100
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): a horizontal stroke placed below a base line, marking the concept of "below"; the original form was a shorter stroke set beneath a longer one, 𠄟.
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 21st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄏㄚ](../syllables/ㄏㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> "down, under"
-- <ruby>[[下愚]]<rt>ㄏㄚㄨ</rt></ruby> "those foolish from birth"
+- <ruby>[[下愚]]<rt>ㄏㄚ·ㄨ</rt></ruby> "those foolish from birth"
 - <ruby>[[天下]]<rt>ㄊㄝㄋㄏㄚ</rt></ruby> "the world"
 - <ruby>[[陛下]]<rt>ㄅㄝㄧㄏㄚ</rt></ruby> "your majesty"
 - <ruby>[[低下]]<rt>ㄉㄝㄧㄏㄚ</rt></ruby> "to lower, to droop"
@@ -67,6 +69,7 @@ boundedness: 100
 - <ruby>[[下半期]]<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby> "second half of the year"
 - <ruby>[[下弦]]<rt>ㄏㄚㄏㄝㄋ</rt></ruby> "last quarter moon"
 - <ruby>[[下龍]]<rt>ㄏㄚㄌ⼄ㄫ</rt></ruby> "Ha Long"
+
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"
