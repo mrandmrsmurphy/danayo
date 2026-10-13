@@ -26,9 +26,8 @@ danayo_id: 70
 mc_id: 711
 graphemic_classification: "会意"
 stand_in: "半"
-aliases:
 注音: "ㄅㄚㄋ"
-date-last-perfect: 2026-07-16
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -37,11 +36,13 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[八]] ("to divide") and [[牛]] ("cow, ox") — to cut a cow into two halves.
 - [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 711th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](../syllables/ㄅㄚㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[半]]<rt>ㄅㄚㄋ</rt></ruby> "half" (stand-in for 半)
 - <ruby>[[半導体]]<rt>ㄅㄚㄋㄉㄚㄨㄊㄝㄧ</rt></ruby> "semiconductor"
@@ -49,6 +50,11 @@ boundedness: 80
 - <ruby>[[下半期]]<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby> "second half of the year"
 - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "peninsula"
 - <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby> "midnight"
+
 ## Derived Characters
 - <ruby>[[絆]]<rt>ㄅㄚㄋ</rt></ruby> "band, fetter"
 - <ruby>[[拌]]<rt>ㄅㄚㄋ</rt></ruby> "mix, blend"
+- <ruby>[[伴]]<rt>ㄅㄚㄋ</rt></ruby> "comrade"
+- <ruby>[[判]]<rt>ㄆㄚㄋ</rt></ruby> "judge"
+- <ruby>[[畔 (char)|畔]]<rt>ㄅㄚㄋ</rt></ruby> "ridge"
+- <ruby>[[胖]]<rt>ㄅㄚㄋ</rt></ruby> "fat"
