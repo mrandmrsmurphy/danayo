@@ -32,14 +32,14 @@ aliases:
   - 𤯞
   - 菁
 注音: ㄑㄝㄫ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 青.
->For the word, see [青](words/青.md)
+>For the word, see [青](../words/青.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ boundedness: 90
 
 ## Notes
 - 形声: phonetic [[生]] — the original form depicted 丹 ("cinnabar, mineral pigment") beneath 生, giving the color sense; "blue-green, verdant."
-- [SKIP-2-4-4](lookup/SKIP/SKIP-2/SKIP-2-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 674th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄑㄝㄫ](syllables/ㄑㄝㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-4](../lookup/SKIP/SKIP-2/SKIP-2-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 674th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄑㄝㄫ](../syllables/ㄑㄝㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "caesium": <ruby>[[青素]]<rt>ㄑㄝㄫㄙㄛ</rt></ruby>
 
 ## Words

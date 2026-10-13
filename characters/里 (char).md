@@ -29,7 +29,7 @@ stand_in: 里
 aliases:
   - 哩
 注音: ㄌㄧ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -40,11 +40,12 @@ boundedness: 100
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[田]] ("field") + [[土]] ("soil; earth") — a measure of land and fields; mile; place.
-- [SKIP-4-7-1](lookup/SKIP/SKIP-4/SKIP-4-7-1.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 212th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄌㄧ](syllables/ㄌㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-7-1](../lookup/SKIP/SKIP-4/SKIP-4-7-1.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 212th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄌㄧ](../syllables/ㄌㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - 里 also serves as this vault's periodic-table abbreviation for curium (Cm), functioning the way a chemical symbol letter does in a compound formula — see [[居里金]]; 居 was already reserved for other uses, so this character carries the abbreviation instead.
 - Because of 毎字明意, we cannot accept the merger of 里 and 裏/裡, as Chinese does.
 - 里 is the traditional East Asian unit of distance; for the Western mile, use 英里.

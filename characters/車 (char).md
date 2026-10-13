@@ -33,7 +33,7 @@ stand_in: 車
 aliases:
   - 车
 注音: ㄑ⺢
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
@@ -41,15 +41,16 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 車.
->For the word, see [車](words/車.md)
+>For the word, see [車](../words/車.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): originally a carriage seen from above. In the oracle bone script, there were large wheels on both sides and a central shaft at the front.
-- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 198th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄑ⺢](syllables/ㄑ⺢.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): originally a carriage seen from above. In the oracle bone script, there were large wheels on both sides and a central shaft at the front.
+- [SKIP-4-7-3](../lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 198th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄑ⺢](../syllables/ㄑ⺢.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Had two Middle Chinese pronunciations: kɨʌ (literary) and tɕʰia (colloquial); Dan'a'yo's own pronunciation was altered from the expected derivation to secure a free syllable.
 
 ## Words
@@ -63,3 +64,13 @@ boundedness: 90
 - <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "hwacha; fire chariot"
 - <ruby>[[車庫]]<rt>ㄑ⺢·ㄎㄛ</rt></ruby> "garage"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
+
+## Derived Characters
+- <ruby>[[庫]]<rt>ㄎㄛ</rt></ruby> "storehouse"
+- <ruby>[[斬 (char)|斬]]<rt>ㄐㄚㄇ</rt></ruby> "cut" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[軋]]<rt>ㄚㄊ</rt></ruby> "crush" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[軌 (char)|軌]]<rt>ㄎㄨㄧ</rt></ruby> "track" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[軣]]<rt>ㄍ⼔ㄫ</rt></ruby> "rumble" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[軸 (char)|軸]]<rt>ㄉㄨㄎ</rt></ruby> "axis" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[轄 (char)|轄]]<rt>ㄏㄚㄊ</rt></ruby> "linchpin of a wheel" (as the semantic component "cart," not a phonetic borrowing)
+- <ruby>[[連 (char)|連]]<rt>ㄌ⼶ㄋ</rt></ruby> "mutual" (as the semantic component "cart," not a phonetic borrowing)
