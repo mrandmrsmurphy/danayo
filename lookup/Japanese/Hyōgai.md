@@ -641,6 +641,7 @@ tags: [lookup]
 637. [廠](../../characters/廠.md)
 638. [昜](../../characters/昜.md)
 639. [辟](../../characters/辟.md)
+640. [滾 (char)](../../characters/滾%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT

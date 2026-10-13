@@ -988,7 +988,6 @@ tags: [lookup]
 [鬼](../../characters/鬼.md): 1
 [跪 (char)](../../characters/跪%20(char).md): 1
 [滚](../../characters/滾%20(char).md): 1
-[滾 (char)](../../characters/滾%20(char).md): 1
 [锅](../../characters/鍋%20(char).md): 1
 [含](../../characters/含.md): 1
 [汗 (char)](../../characters/汗%20(char).md): 1

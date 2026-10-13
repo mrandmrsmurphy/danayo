@@ -1914,7 +1914,6 @@ tags: [lookup]
 [娱](../../characters/娯.md): 1
 [娛](../../characters/娯.md): 1
 [渔](../../characters/漁.md): 1
-[[漁]]: 1
 [[愚 (char)]]: 1
 [[蠢]]: 1
 [與](../../characters/与%20(char).md): 1

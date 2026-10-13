@@ -33,7 +33,7 @@ stand_in: 滾
 aliases:
   - 滚
 注音: ㄍ⺢ㄋ
-date-last-perfect: 2026-07-21
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
