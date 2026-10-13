@@ -33,7 +33,7 @@ aliases:
   - 猟
   - 猎
 注音: ㄌㄛㄆ
-date-last-perfect: 2026-07-21
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character

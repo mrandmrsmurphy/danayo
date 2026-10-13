@@ -30,9 +30,8 @@ danayo_id: 2184
 mc_id: 218
 graphemic_classification: "申"
 stand_in: "神"
-aliases:
 注音: "ㄙㄧㄋ"
-date-last-perfect: 2026-07-21
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character

@@ -1531,7 +1531,6 @@ tags: [lookup]
 [谅](../../characters/諒.md): 1
 [[諒]]: 1
 [猎](../../characters/獵%20(char).md): 1
-[[獵 (char)]]: 1
 [[淋 (char)]]: 1
 [[零 (char)]]: 1
 [[溜]]: 1
