@@ -31,7 +31,7 @@ stand_in: 衢
 aliases:
   - 矍
 注音: ㄍㄨ
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
@@ -46,7 +46,7 @@ boundedness:
 ## Notes
 - 形声: semantic [[Radical 144|行]] ("road, go") + phonetic 瞿 (no vault page — the entire 瞿/矍 phonetic family is unattested in this vault) — a road that branches, a crossroads.
 - [SKIP-1-3-21](../lookup/SKIP/SKIP-1/SKIP-1-3-21.md) ([Stroke 24](../lookup/Stroke/Stroke%2024.md))
-- Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
+- 2523rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words

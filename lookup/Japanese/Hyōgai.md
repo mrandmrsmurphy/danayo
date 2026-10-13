@@ -635,6 +635,7 @@ tags: [lookup]
 631. [桌 (char)](../../characters/桌%20(char).md)
 632. [艮](../../characters/艮.md)
 633. [攴](../../characters/攴.md)
+634. [衢 (char)](../../characters/衢%20(char).md)
 
 
 [[../../characters/吠]] - barking DO IT
