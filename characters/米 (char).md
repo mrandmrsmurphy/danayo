@@ -31,24 +31,24 @@ graphemic_classification: "象形"
 stand_in: "米"
 aliases:
 注音: "ㄇㄝㄧ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 米.
->For the word, see [米](words/米.md)
+>For the word, see [米](../words/米.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts scattered grains of husked rice, the four dots/strokes around a central cross representing individual kernels.
-- [SKIP-4-6-3](lookup/SKIP/SKIP-4/SKIP-4-6-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 1319th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](syllables/ㄇㄝㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts scattered grains of husked rice, the four dots/strokes around a central cross representing individual kernels.
+- [SKIP-4-6-3](../lookup/SKIP/SKIP-4/SKIP-4-6-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 1319th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](../syllables/ㄇㄝㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[米]]<rt>ㄇㄝㄧ</rt></ruby> "rice (uncooked)" (stand-in for 米)
@@ -62,3 +62,11 @@ boundedness: 80
 
 ## Derived Characters
 - <ruby>[[迷]]<rt>ㄇㄝㄧ</rt></ruby> "be lost; be confused"
+- <ruby>[[料]]<rt>ㄌ⼘ㄨ</rt></ruby> "material" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[気 (char)|気]]<rt>ㄎㄧㄜ</rt></ruby> "feeling" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[粋]]<rt>ㄙㄨㄧ</rt></ruby> "pure" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[粧]]<rt>ㄐ⺢ㄫ</rt></ruby> "put on make up" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[精]]<rt>ㄐㄝㄫ</rt></ruby> "spirit" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[糊]]<rt>ㄏㄛㄨ</rt></ruby> "paste" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[糠]]<rt>ㄎㄚㄫ</rt></ruby> "chaff" (as the semantic component "rice," not a phonetic borrowing)
+- <ruby>[[粟]]<rt>ㄙ⼄ㄎ</rt></ruby> "millet" (as the semantic component "rice," not a phonetic borrowing)

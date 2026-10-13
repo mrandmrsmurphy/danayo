@@ -5,7 +5,8 @@ korean: 공
 korean_native: 빌
 japanese:
   - KUU
-japanese_native: あ
+japanese_native:
+  - あ
   - そら
 vietnamese:
   - không
@@ -34,22 +35,23 @@ aliases:
   - 𠀝
   - 𢦉
 注音: ㄎㄛㄫ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 空.
->For the word, see [空](words/空.md)
+>For the word, see [空](../words/空.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʰoːŋ, \*kʰoːŋs): semantic [[Radical 116|穴]] ("cave, hole") + phonetic [[工]] (OC \*koːŋ).
-- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 632nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄎㄛㄫ](syllables/ㄎㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 632nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄎㄛㄫ](../syllables/ㄎㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby> "empty" (stand-in for 空)
