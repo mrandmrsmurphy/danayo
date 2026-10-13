@@ -34,14 +34,14 @@ aliases:
   - 𠱭
   - 𠱰
 注音: ㄍㄨㄋ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 君.
->For the word, see [君](words/君.md)
+>For the word, see [君](../words/君.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +49,9 @@ boundedness: 80
 
 ## Notes
 - 形声: semantic [[Radical 030|口]] ("mouth," to issue commands) + phonetic [[尹]] ("to govern," a hand holding a scepter of authority) — one who governs by command; "ruler, you (respectful)."
-- [SKIP-3-4-3](lookup/SKIP/SKIP-3/SKIP-3-4-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 26th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄍㄨㄋ](syllables/ㄍㄨㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-4-3](../lookup/SKIP/SKIP-3/SKIP-3-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 26th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄍㄨㄋ](../syllables/ㄍㄨㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[君]]<rt>ㄍㄨㄋ</rt></ruby> "you" (stand-in for 君)

@@ -6,8 +6,10 @@ korean_native: 온전할
 japanese:
   - ZEN
   - SEN
-japanese_native: すべ
-  - まった-く,すべ-て
+japanese_native:
+  - すべ
+  - まった-く
+  - すべ-て
 vietnamese:
   - toàn
   - tuyền
@@ -32,22 +34,23 @@ stand_in: 全
 aliases:
   - 㒰
 注音: ㄐ⼔ㄋ
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 全.
->For the word, see [全](words/全.md)
+>For the word, see [全](../words/全.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[Radical 011|入]] ("enter") and 王 (a form of [[王 (char)|王]], "jade," without its dot) — jade brought whole and unblemished, extended to mean "whole, complete." In shinjitai the top strokes are sometimes read as 人 rather than 入, though the traditional analysis treats it as 入.
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 872nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄐ⼔ㄋ](syllables/ㄐ⼔ㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 872nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄐ⼔ㄋ](../syllables/ㄐ⼔ㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[全]]<rt>ㄐ⼔ㄋ</rt></ruby> "whole" (stand-in for 全)
@@ -64,4 +67,4 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> "decode; exegete"
 - <ruby>[[栓 (char)|栓]]<rt>ㄙ⼔ㄋ</rt></ruby> "peg; stopper"
-- 銓 --> 選
+- [銓](../characters/選.md) (an alias, so it points to 選)

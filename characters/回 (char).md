@@ -34,22 +34,23 @@ aliases:
   - 廻
   - 蛔
 注音: "ㄏㄛㄧ"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 回.
->For the word, see [回](words/回.md)
+>For the word, see [回](../words/回.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a whirlpool — the swirling, spiraling motion of rotating water; the oracle-bone form shows a clearer spiral, later squared off into the modern concentric-box shape.
-- [SKIP-3-3-3](lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 1120th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](syllables/ㄏㄛㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a whirlpool — the swirling, spiraling motion of rotating water; the oracle-bone form shows a clearer spiral, later squared off into the modern concentric-box shape.
+- [SKIP-3-3-3](../lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 1120th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](../syllables/ㄏㄛㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[回]]<rt>ㄏㄛㄧ</rt></ruby> "turns" (stand-in for 回)

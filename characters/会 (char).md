@@ -33,24 +33,24 @@ aliases:
   - 會
   - 屶
 注音: "ㄏ⼔"
-date-last-perfect: 2026-07-22
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 会.
->For the word, see [会](words/会.md)
+>For the word, see [会](../words/会.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 会意: originally 亼 ("to converge, come together") stacked over an abbreviated 曾 (a tiered steamer basket, with 曰 omitted) — a lid fitting together with its vessel, extended to mean "to meet, to join, to assemble." 会 is the Jōyō-simplified form of 會 (already listed among this page's own `aliases`).
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 248th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 泰合|uɑi]] → [ㄏ⼔](syllables/ㄏ⼔.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 会意: originally 亼 ("to converge, come together") stacked over an abbreviated 曾 (a tiered steamer basket, with 曰 omitted) — a lid fitting together with its vessel, extended to mean "to meet, to join, to assemble." The traditional form is listed among this page's `aliases`.
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 248th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 泰合|uɑi]] → [ㄏ⼔](../syllables/ㄏ⼔.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby> "meet; gather" (stand-in for 会)
@@ -63,8 +63,11 @@ boundedness: 75
 - <ruby>[[会社員]]<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby> "office worker"
 - <ruby>[[会堂]]<rt>ㄏ⼔ㄉㄚㄫ</rt></ruby> "meeting hall; church"
 - <ruby>[[協会]]<rt>ㄏㄝㄆㄏ⼔</rt></ruby> "association; society"
-- <ruby>[[教会]]<rt>ㄍ⼘ㄨㄏ⼔</rt></ruby> "church"
+- <ruby>[[教会]]<rt>ㄍ⼄ㄨㄏ⼔</rt></ruby> "church"
 - <ruby>[[社会]]<rt>ㄙ⼘ㄏ⼔</rt></ruby> "society"
+- <ruby>[[社会学]]<rt>ㄙ⼘ㄏ⼔ㄏㄚㄎ</rt></ruby> "sociology"
+- <ruby>[[社会科]]<rt>ㄙ⼘ㄏ⼔·ㄎ⺢</rt></ruby> "social studies"
+- <ruby>[[社会科学]]<rt>ㄙ⼘ㄏ⼔·ㄎ⺢ㄏㄚㄎ</rt></ruby> "social science"
 - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby> "socialism"
 - <ruby>[[会意]]<rt>ㄏ⼔ㄜ</rt></ruby> "compound ideograph character"
 - <ruby>[[密会]]<rt>ㄇㄧㄊㄏ⼔</rt></ruby> "secret meeting; secret date; tryst"
@@ -76,3 +79,4 @@ boundedness: 75
 
 ## Derived Characters
 - <ruby>[[桧]]<rt>ㄍ⺢ㄧ</rt></ruby> "tree kind"
+- <ruby>[[絵]]<rt>ㄏ⺢ㄧ</rt></ruby> "draw"
