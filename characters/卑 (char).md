@@ -16,7 +16,7 @@ stroke_count: 9
 radical: "十"
 skip_number: 2-6-3
 grade_level: "6"
-pos: ""
+pos: 性詞
 english:
   - lowly
   - inferior
@@ -29,16 +29,15 @@ danayo_id: 6411
 mc_id: 690
 graphemic_classification: "会意"
 stand_in: "卑"
-aliases:
 注音: "ㄅㄝ"
 kwin: false
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 卑.
->For the word, see [卑](words/卑.md)
+>For the word, see [卑](../words/卑.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,8 +48,10 @@ boundedness: 90
 - [SKIP-2-6-3](../lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 690th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄅㄝ](../syllables/ㄅㄝ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
 - <ruby>[[卑]]<rt>ㄅㄝ</rt></ruby> "lowly; inferior" (stand-in for 卑)
+
 ## Derived Characters
 - <ruby>[[牌 (char)|牌]]<rt>ㄅㄚㄧ</rt></ruby> "playing card"
 - <ruby>[[婢]]<rt>ㄅㄧ</rt></ruby> "servant girl"

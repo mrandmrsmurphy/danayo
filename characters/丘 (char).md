@@ -32,14 +32,14 @@ aliases:
   - 㐀
   - 蚯
 注音: ㄎ⼜
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 丘.
->For the word, see [丘](words/丘.md)
+>For the word, see [丘](../words/丘.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -54,3 +54,7 @@ boundedness: 90
 ## Words
 - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> "hill"
 - <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"
+
+## Derived Characters
+- <ruby>[[邱]]<rt>ㄍㄨ</rt></ruby> "hill"
+- <ruby>[[虚 (char)|虚]]<rt>ㄏ⼄</rt></ruby> "void" (as the semantic component "hill," not a phonetic borrowing)

@@ -16,7 +16,7 @@ stroke_count: 4
 radical: "又"
 skip_number: 3-2-2
 grade_level: "3"
-pos: ""
+pos: 修飾語
 english:
   - anti-
   - wrong side up
@@ -34,23 +34,25 @@ aliases:
   - 叛
 注音: "ㄈㄛㄋ"
 kwin: false
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 反.
->For the word, see [反](words/反.md)
+>For the word, see [反](../words/反.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 (OC \*panʔ, \*pʰan): [[Radical 029|又]] ("hand") + [[Radical 027|厂]] ("a cliff, an overhang") — a hand reaching up against a cliff face, i.e. climbing, or turning something over on it; "to overturn, to invert" (Shuowen: 覆也, "从又，厂反形"). Duan Yucai's commentary instead reads 厂 as a phonetic ("厂聲"), which would make this 形声, but that is a minority revisionist view — mainstream paleography keeps the associative reading, and the vault follows it.
 - We follow Japanese and fold 叛 into this character — "anti-" and "rebel" are close enough, and although 叛's MC reading differed slightly from 反's, the merge is a deliberate choice (per user, 2026-07-19). Words conventionally written with 叛 keep its original sound: [[反乱]] is ㄅㄚㄋㄌㄚㄋ (from pàn), not 反's own ㄈㄛㄋ.
-- [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](syllables/ㄈㄛㄋ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](../syllables/ㄈㄛㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[反]]<rt>ㄈㄛㄋ</rt></ruby> "anti-; wrong side up" (stand-in for 反)
 - <ruby>[[反応]]<rt>ㄈㄛㄋ·ㄧㄫ</rt></ruby> "react; respond"
@@ -62,8 +64,10 @@ boundedness: 100
 - <ruby>[[反乱]]<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
 - <ruby>[[違反]]<rt>ㄨㄧㄈㄛㄋ</rt></ruby> "violate; transgress; infringe"
 - <ruby>[[反駁]]<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby> "refute"
+
 ## Chengyu
 - <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"
+
 ## Derived Characters
 - <ruby>[[坂]]<rt>ㄅㄛㄋ</rt></ruby> "slope; incline"
 - <ruby>[[板]]<rt>ㄆㄚㄋ</rt></ruby> "plank; board"

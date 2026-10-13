@@ -33,17 +33,18 @@ aliases:
   - 𠀇
   - 𠀃
 注音: ㄑㄛ
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 且.
->For the word, see [且](words/且.md)
+>For the word, see [且](../words/且.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): A stone altar – original form of 祖 (OC \*ʔsaːʔ).
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
@@ -51,6 +52,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> "also" (stand-in for 且)
 - <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 嚼)
 - <ruby>[[而且]]<rt>ㄋㄧㄑㄛ</rt></ruby> "moreover"
 - <ruby>[[芹且]]<rt>ㄍㄧㄋㄑㄛ</rt></ruby> "Can Tho (芹苴)"
@@ -59,3 +61,11 @@ boundedness: 90
 - <ruby>[[祖]]<rt>ㄐㄜ</rt></ruby> "ancestor"
 - <ruby>[[詛]]<rt>ㄐㄛ</rt></ruby> "curse"
 - <ruby>[[査]]<rt>ㄐㄚ</rt></ruby> "investigate"
+- <ruby>[[助]]<rt>ㄐㄛ</rt></ruby> "rescue"
+- <ruby>[[狙]]<rt>ㄑㄛ</rt></ruby> "spy"
+- <ruby>[[疽]]<rt>ㄐㄜ</rt></ruby> "ulcer"
+- <ruby>[[租]]<rt>ㄐㄜ</rt></ruby> "rent"
+- <ruby>[[粗]]<rt>ㄐㄛ</rt></ruby> "coarse"
+- <ruby>[[組]]<rt>ㄐㄜ</rt></ruby> "organize"
+- <ruby>[[阻]]<rt>ㄐㄛ</rt></ruby> "thwart"
+- <ruby>[[宜]]<rt>ㄜㄧ</rt></ruby> "suitable" (as the 会意 semantic component "altar," not a phonetic borrowing)

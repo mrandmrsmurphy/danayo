@@ -31,13 +31,13 @@ graphemic_classification: "会意"
 stand_in: "光"
 注音: "ㄎ⺢ㄫ"
 kwin: false
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 光.
->For the word, see [光](words/光.md)
+>For the word, see [光](../words/光.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 086|火]] ("fire") and [[Radical 026|卩]] ("kneeling person") — fire held over a person's head, emphasizing radiant shining; Shuowen Jiezi: 明也，从火在人上。
-- [SKIP-2-4-2](lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 唐合|wɑŋ]] → [ㄎ⺢ㄫ](syllables/ㄎ⺢ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-2](../lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 唐合|wɑŋ]] → [ㄎ⺢ㄫ](../syllables/ㄎ⺢ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[光]]<rt>ㄎ⺢ㄫ</rt></ruby> "light" (stand-in for 光)
@@ -63,12 +63,16 @@ boundedness: 90
 - <ruby>[[閃光]]<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby> "flash of light; glint"
 - <ruby>[[光州]]<rt>ㄎ⺢ㄫㄐㄨㄛ</rt></ruby> "Gwangju"
 - <ruby>[[仰光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "Yangon"
+
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"
 - <ruby>[[光明正大]]<rt>ㄎ⺢ㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "high principles and sincere; fair and square; aboveboard"
 - <ruby>[[塩地光世]]<rt>⼶ㄇㄉㄧㄜㄎ⺢ㄫㄙㄝ</rt></ruby> "salt of the earth and light of the world"
+
 ## Derived Characters
 - <ruby>[[恍]]<rt>ㄍ⺢ㄫ</rt></ruby> "vague"
 - <ruby>[[洸]]<rt>ㄍ⺢ㄫ</rt></ruby> "sparkle"
 - <ruby>[[晃]]<rt>ㄏ⺢ㄫ</rt></ruby> "bright"
 - <ruby>[[胱]]<rt>ㄍ⺢ㄫ</rt></ruby> "bladder"
+- <ruby>[[耀]]<rt>⼄ㄨ</rt></ruby> "shine" (as the semantic component "light," not a phonetic borrowing)
+- <ruby>[[輝]]<rt>ㄏㄨㄧ</rt></ruby> "brilliant" (as the semantic component "light," not a phonetic borrowing)

@@ -27,16 +27,15 @@ danayo_id: 7515
 mc_id: 3233
 graphemic_classification: 乂
 stand_in: 刈
-aliases:
 注音: ⼘ㄧ
 kwin: false
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 刈.
->For the word, see [刈](words/刈.md)
+>For the word, see [刈](../words/刈.md)
 >For the radical, see [Radical 018](../lookup/Radicals/Radical%20018.md)
 
 ```meta-bind-embed
@@ -48,5 +47,6 @@ boundedness: 65
 - [SKIP-1-2-2](../lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 3233rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 廢開|ɨɐi]] → [⼘ㄧ](../syllables/⼘ㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
 ## Words
 - <ruby>[[刈]]<rt>⼘ㄧ</rt></ruby> "cut; mow" (stand-in for 刈)

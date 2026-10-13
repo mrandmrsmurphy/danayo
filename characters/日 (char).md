@@ -81,7 +81,7 @@ boundedness: 60
 - <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"
 - <ruby>[[翌日]]<rt>ㄧㄎㄋㄧㄊ</rt></ruby> "the following day"
 - <ruby>[[当日]]<rt>ㄉㄚㄫㄋㄧㄊ</rt></ruby> "same day"
-- <ruby>[[即日]]<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> "same day"
+- <ruby>[[即日]]<rt>ㄐㄜㄎㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[是日]]<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[毎日]]<rt>ㄇㄛㄧㄋㄧㄊ</rt></ruby> "every day; daily; per day"
 - <ruby>[[連日]]<rt>ㄌ⼶ㄋㄋㄧㄊ</rt></ruby> "successive days"

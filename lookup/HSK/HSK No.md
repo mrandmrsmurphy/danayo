@@ -1010,6 +1010,7 @@ tags: [lookup]
 [崴](../../characters/崴.md)
 [幌](../../characters/幌.md)
 [髄](../../characters/髄.md)
+[刈 (char)](../../characters/刈%20(char).md)
 
 ## Datacheck
 ```base

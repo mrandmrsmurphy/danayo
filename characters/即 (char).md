@@ -36,22 +36,24 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-07-17
+date-last-perfect: 2026-10-13
 ---
 >[!tip] This is a page about the character 即.
->For the word, see [即](words/即.md)
+>For the word, see [即](../words/即.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md) of [[皀]] ("ancient round-mouthed food vessel") and [[Radical 026|卩]] ("to kneel") — to come near to eat; to approach.
-- [SKIP-1-5-2](lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 242nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄐㄜㄎ](syllables/ㄐㄜㄎ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-5-2](../lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 242nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄐㄜㄎ](../syllables/ㄐㄜㄎ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[即]]<rt>ㄐㄜㄎ</rt></ruby> "namely; in other words" (stand-in for 即)
 - <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
-- <ruby>[[即日]]<rt>ㄐㄧㄎㄋㄧㄊ</rt></ruby> "same day"
+- <ruby>[[即日]]<rt>ㄐㄜㄎㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
 
 ## Chengyu
