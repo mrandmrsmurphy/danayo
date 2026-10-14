@@ -32,14 +32,14 @@ aliases:
   - 著
   - 躇
 注音: ㄐ⺢ㄎ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 着.
->For the word, see [着](words/着.md)
+>For the word, see [着](../words/着.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

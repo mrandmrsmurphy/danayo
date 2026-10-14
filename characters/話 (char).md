@@ -32,14 +32,14 @@ aliases:
   - 话
   - 䛡
 注音: "ㄏ⺢ㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 話.
->For the word, see [話](words/話.md)
+>For the word, see [話](../words/話.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

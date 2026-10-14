@@ -5,7 +5,8 @@ korean: "산"
 korean_native: 셈
 japanese:
   - SAN
-japanese_native: そろ
+japanese_native:
+  - そろ
   - かぞえる
 vietnamese:
   - toán
@@ -28,14 +29,14 @@ mc_id: 1984
 graphemic_classification: 会意
 stand_in: 算
 注音: ㄙ⺢ㄋ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 算.
->For the word, see [算](words/算.md)
+>For the word, see [算](../words/算.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
