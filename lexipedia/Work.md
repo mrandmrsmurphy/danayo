@@ -82,7 +82,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[改](../words/改.md)<rt>ㄍㄚㄧ</rt></ruby>: to remake, to redo, to renew.
 - <ruby>[工場](../words/工場.md)<rt>ㄍㄛㄫㄐㄚㄫ</rt></ruby>: factory, workplace.
 - <ruby>[工廠](../words/工廠.md)<rt>ㄍㄛㄫㄑㄚㄫ</rt></ruby>: factory, manufacturing plant — see Semantic Range Notes for how this differs from [[工場]].
-- <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
+- <ruby>[組合](../words/組合.md)<rt>ㄐㄜㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
 - <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
 - <ruby>[協力](../words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby>: to join forces, work together.
 - <ruby>[同僚](../words/同僚.md)<rt>ㄉㄛㄫㄌ⼄ㄨ</rt></ruby>: a colleague, coworker.

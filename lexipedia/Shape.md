@@ -163,7 +163,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 
 ## Advanced / Specialized (C1+)
 
-- <ruby>[組合](../words/組合.md)<rt>ㄐㄛㄍㄛㄆ</rt></ruby>: to form, assemble, combine — excluded from general "form" citation above since its dominant sense is "union, association" (already housed on [Work](../lexipedia/Work.md)); listed here only to document why it was not cited as a plain "form" match.
+- <ruby>[組合](../words/組合.md)<rt>ㄐㄜㄍㄛㄆ</rt></ruby>: to form, assemble, combine — excluded from general "form" citation above since its dominant sense is "union, association" (already housed on [Work](../lexipedia/Work.md)); listed here only to document why it was not cited as a plain "form" match.
 - <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: to join, fit together, combine — the general verb and the bound root behind [[組合]] above, [[合金]] (on [Metals](../lexipedia/Metals.md)), and 結合/合成 (both still uncited).
 
 ### Additional Vocabulary (backfilled 2026-10-10)

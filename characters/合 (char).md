@@ -63,7 +63,7 @@ boundedness: 100
 - <ruby>[[合金]]<rt>ㄍㄛㄆㄍㄧㄇ</rt></ruby> "alloy"
 - <ruby>[[混合]]<rt>ㄏㄛㄋㄍㄛㄆ</rt></ruby> "blend"
 - <ruby>[[癒合]]<rt>⼜ㄍㄛㄆ</rt></ruby> "recover"
-- <ruby>[[組合]]<rt>ㄐㄛㄍㄛㄆ</rt></ruby> "assemble"
+- <ruby>[[組合]]<rt>ㄐㄜㄍㄛㄆ</rt></ruby> "assemble"
 - <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[連合国]]<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby> "United Nations; Allied Powers"
 - <ruby>[[結合]]<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby> "combine; unite"

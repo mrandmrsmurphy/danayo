@@ -174,7 +174,7 @@ The Andes (安第斯山脈) and Amazon (亜馬遜河) are major natural systems 
 ## The Global System
 The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby> operates within an <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>体系<rt>ㄊㄝㄧㄏㄝㄧ</rt></ruby>.  
 <ruby>国家<rt>ㄍㄛㄎㄍㄚ</rt></ruby>[[主権]] is a <ruby>[基本](/words/基本.md)<rt>ㄍㄧㄅㄛㄋ</rt></ruby>[[原則]].  
-<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[組織](words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
+<ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby><ruby>[組織](words/組織.md)<rt>ㄐㄜㄐㄧㄎ</rt></ruby> [[調解]]<ruby>[争端](/words/争端.md)<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby>.
 
 - <ruby>[他国](../words/他国.md)<rt>ㄊㄜㄍㄛㄎ</rt></ruby>: another country, other countries — relative to a stated reference country, unlike [[外国]].
 - <ruby>[国別](../words/国別.md)<rt>ㄍㄛㄎㄅㄝㄊ</rt></ruby>: by country, country-by-country.
@@ -189,7 +189,7 @@ The <ruby>現代<rt>ㄏ⼶ㄋㄉㄚㄧ</rt></ruby><ruby>世界<rt>ㄙㄝㄍ⼶</
 States seek <ruby>安定<rt>ㄚㄋㄐㄝㄫ</rt></ruby> and development ([[発展]]) within [[変動]][[構造]].
 
 - [[連合国]]  
-- <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>[貿易](/words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby><ruby>組織<rt>ㄐㄛㄐㄧㄎ</rt></ruby>  
+- <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby><ruby>[貿易](/words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby><ruby>組織<rt>ㄐㄜㄐㄧㄎ</rt></ruby>  
 - <ruby>国際<rt>ㄍㄛㄎㄐㄝ</rt></ruby>[[貨幣]][[基金]]
 - <ruby>[域内](../words/域内.md)<rt>ㄨㄧㄎㄋㄛㄧ</rt></ruby>: within the region, intra-regional — inside a bounded area (a country, a bloc, the East Asian sphere itself); near [[区域]] and [[地域]], which name the area rather than being inside it.
 

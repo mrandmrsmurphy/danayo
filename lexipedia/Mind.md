@@ -171,7 +171,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[比較](../words/比較.md)<rt>ㄅㄧㄜㄍㄚㄎ</rt></ruby>: to compare — see [[Knowledge]] for its own citation there.
 - <ruby>[種類](../words/種類.md)<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>: a type, kind, sort.
 - <ruby>[不同](../words/不同.md)<rt>ㄅㄛㄊㄉㄛㄫ</rt></ruby>: to differ, disagree; different.
-- <ruby>[組織](../words/組織.md)<rt>ㄐㄛㄐㄧㄎ</rt></ruby>: to organize; an organization.
+- <ruby>[組織](../words/組織.md)<rt>ㄐㄜㄐㄧㄎ</rt></ruby>: to organize; an organization.
 - <ruby>[原因](../words/原因.md)<rt>⼔ㄋ·ㄧㄋ</rt></ruby>: a reason, cause.
 - <ruby>[解決](../words/解決.md)<rt>ㄍ⼘ㄧㄎ⼔ㄊ</rt></ruby>: to solve, resolve, conclude, settle.
 - <ruby>[論理](../words/論理.md)<rt>ㄌㄛㄋㄌㄧ</rt></ruby>: logic — see [[Knowledge]] for its own citation there.
