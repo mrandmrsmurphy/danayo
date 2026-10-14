@@ -32,18 +32,19 @@ aliases:
   - 㤅
   - 薆
 注音: ㄚㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 tags:
   - character
 kwin: true
 boundedness: 80
 ---
 >[!tip] This is a page about the character 愛.
->For the word, see [愛](words/愛.md)
+>For the word, see [愛](../words/愛.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: originally written 㤅, phonetic 旡 (no vault page) + semantic [[Radical 061|心]] ("heart"). During the Qin dynasty a redundant component 夊 ("foot") was added at the bottom; the original phonetic 旡 later corrupted into ⿱爫冖. "To love; to treasure, value; to like, be fond of."
 - [SKIP-2-4-9](lookup/SKIP/SKIP-2/SKIP-2-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
@@ -72,3 +73,6 @@ boundedness: 80
 - <ruby>[[愛隣如自]]<rt>ㄚㄧㄌㄧㄋㄋ⼄ㄐㄧㄜ</rt></ruby> "love your neighbor as yourself"
 - <ruby>[[愛主耳錐]]<rt>ㄚㄧㄐㄨ·ㄋㄧㄐㄨㄧ</rt></ruby> "if you love your master, in your ear put the awl"
 - <ruby>[[財愛悪根]]<rt>ㄐㄚㄧㄚㄧㄚㄎㄍㄜㄋ</rt></ruby> "The love of money is the root of all evil"
+
+## Derived Characters
+- <ruby>[[曖]]<rt>ㄚㄧ</rt></ruby> "obscure; vague"

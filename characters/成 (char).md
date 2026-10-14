@@ -31,17 +31,19 @@ stand_in: "成"
 aliases:
   - 鯎
 注音: "ㄙㄧㄫ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 成.
->For the word, see [成](words/成.md)
+>For the word, see [成](../words/成.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*djeŋ): semantic [[戊]] ("weapon; protection") + phonetic [[丁 (char)|丁]] (OC \*rteːŋ, \*teːŋ) — originally "city walls," a reference to something protected (preserved in [[characters/城|城]]); "to succeed, accomplish, complete; to become."
 - [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
@@ -72,12 +74,6 @@ boundedness: 100
 - <ruby>[[不打不成器]]<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby> "spare the rod, spoil the child"
 
 ## Derived Characters
-- <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> "to hit"
-- <ruby>[[釘 (char)|釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail; spike"
-- <ruby>[[汀 (char)|汀]]<rt>ㄊㄝㄫ</rt></ruby> "sand bar"
-- <ruby>[[訂 (char)|訂]]<rt>ㄊㄝㄫ</rt></ruby> "to revise; correct"
-- <ruby>[[亭]]<rt>ㄉㄝㄫ</rt></ruby> "pavilion; kiosk"
-- <ruby>[[頂]]<rt>ㄐㄝㄫ</rt></ruby> "peak"
-- <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby> "hall; room"
-- <ruby>[[正 (char)|正]]<rt>ㄐㄧㄫ</rt></ruby> "correct"
-- <ruby>[[町]]<rt>ㄊㄝㄫ</rt></ruby> "ridge between fields; boundary"
+- <ruby>[[城]]<rt>ㄙㄧㄫ</rt></ruby> "castle"
+- <ruby>[[盛]]<rt>ㄙㄧㄫ</rt></ruby> "flourish"
+- <ruby>[[誠]]<rt>ㄙㄧㄫ</rt></ruby> "sincere"

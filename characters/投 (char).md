@@ -29,14 +29,14 @@ graphemic_classification: "殳"
 stand_in: "投"
 aliases:
 注音: "ㄉㄛㄨ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 投.
->For the word, see [投](words/投.md)
+>For the word, see [投](../words/投.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

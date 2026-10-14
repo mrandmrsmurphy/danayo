@@ -32,14 +32,14 @@ aliases:
   - 擧
   - 举
 注音: ㄍ⼄
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 挙.
->For the word, see [挙](words/挙.md)
+>For the word, see [挙](../words/挙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -54,7 +54,3 @@ boundedness:
 ## Words
 - <ruby>[[挙]]<rt>ㄍ⼄</rt></ruby> "raise; example" (stand-in for 挙)
 - <ruby>[[科挙]]<rt>ㄎ⺢ㄍ⼄</rt></ruby> "imperial examination"
-
-## Derived Characters
-- <ruby>[[輿 (char)|輿]]<rt>⼄</rt></ruby> "palanquin"
-- <ruby>[[誉]]<rt>⼄</rt></ruby> "reputation; fame"
