@@ -32,14 +32,14 @@ stand_in: 旧
 aliases:
   - 舊
 注音: ㄍ⼜ㄛ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 旧.
->For the word, see [旧](words/旧.md)
+>For the word, see [旧](../words/旧.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -61,6 +61,3 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"
-
-## Derived Characters
-- <ruby>[[舅]]<rt>ㄍ⼜ㄛ</rt></ruby> "maternal uncle"

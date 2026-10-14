@@ -29,17 +29,19 @@ graphemic_classification: "妾"
 stand_in: "接"
 aliases:
 注音: "ㄐㄛㄆ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 接.
->For the word, see [接](words/接.md)
+>For the word, see [接](../words/接.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ʔseb): semantic [[Radical 064|扌]] ("hand") + phonetic [[妾 (char)|妾]] (OC \*sʰeb) — to receive (in the hand).
 - [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
@@ -57,7 +59,6 @@ boundedness: 90
 - <ruby>[[接線]]<rt>ㄐㄛㄆㄙ⼶ㄋ</rt></ruby> "tangent"
 - <ruby>[[交接]]<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby> "to link; join; connect"
 - <ruby>[[連接詞]]<rt>ㄌ⼶ㄋㄐㄛㄆㄙㄚ</rt></ruby> "conjunction (grammar)"
-- <ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> "to link; join; connect"
 - <ruby>[[接近]]<rt>ㄐㄛㄆㄍㄧㄋ</rt></ruby> "to approach; similar"
 - <ruby>[[接辞]]<rt>ㄐㄛㄆㄑㄧ</rt></ruby> "affix (grammar)"
 - <ruby>[[正接]]<rt>ㄐㄧㄫㄐㄛㄆ</rt></ruby> "tangent"
