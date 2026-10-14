@@ -33,17 +33,19 @@ stand_in: 乗
 aliases:
   - 乘
 注音: ㄙㄨㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 乗.
->For the word, see [乗](words/乗.md)
+>For the word, see [乗](../words/乗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): a person 大 climbing a tree 木, with the feet visible; etymology clearer in the alternative form 椉. Originally meant "to ascend"; extended to "to ride" and, later, to arithmetic multiplication.
 - [SKIP-4-9-3](lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))

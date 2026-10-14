@@ -30,19 +30,21 @@ stand_in: 以
 aliases:
   - 㠯
 注音: ㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 以.
->For the word, see [以](words/以.md)
+>For the word, see [以](../words/以.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a person (人) carrying something. It is often simplified to 㠯 in pre- Qin ancient scripts. Today, the person is partly visible on the right (see also the stylization in 从).
+- [List of 象形](lookup/List%20of%20象形.md): a person ([[Radical 009|人]]) carrying something. It is often simplified to 㠯 in pre- Qin ancient scripts. Today, the person is partly visible on the right (see also the stylization in 从).
 - [SKIP-1-2-3](lookup/SKIP/SKIP-1/SKIP-1-2-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
 - 4th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄧ](syllables/ㄧ.md)
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

@@ -29,17 +29,19 @@ graphemic_classification: "象形"
 stand_in: "久"
 aliases:
 注音: "ㄍ⼜"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 久.
->For the word, see [久](words/久.md)
+>For the word, see [久](../words/久.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): likely a pictogram of an arrow tip, though the exact visual relationship to the modern form is uncertain.
 - [SKIP-4-3-1](lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
@@ -59,3 +61,4 @@ boundedness: 65
 ## Derived Characters
 - <ruby>[[灸]]<rt>ㄍ⼜</rt></ruby> "moxibustion"
 - <ruby>[[玖]]<rt>ㄎ⼜</rt></ruby> "jade; seven"
+- <ruby>[[畝 (char)|畝]]<rt>ㄇㄛㄨ</rt></ruby> "furrow"
