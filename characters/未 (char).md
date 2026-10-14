@@ -30,18 +30,19 @@ graphemic_classification: "象形"
 stand_in: "未"
 aliases:
 注音: "ㄇㄨㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 未.
->For the word, see [未](words/未.md)
+>For the word, see [未](../words/未.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): depicts a [[Radical 075|木]] ("tree") with lush, heavy foliage at the top — the Shuowen glosses it as "a tree with layered branches and leaves" (象木重枝葉也).
 - [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))

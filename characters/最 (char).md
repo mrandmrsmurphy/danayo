@@ -32,17 +32,19 @@ graphemic_classification: "会意"
 stand_in: "最"
 aliases:
 注音: "ㄐ⼔"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
->[!tip] This is a page about the character.
->For the word, please see [最](words/最.md).
+>[!tip] This is a page about the character 最.
+>For the word, see [最](../words/最.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 會意 of 冃 ("cap; cover") and [[取]] ("to take") — the Shuowen glosses it as "to violate and seize" (犯而取也); the superlative sense is a later extension.
 - [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))

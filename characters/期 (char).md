@@ -35,14 +35,14 @@ stand_in: "期"
 aliases:
   - 朞
 注音: "ㄎㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 期.
->For the word, see [期](words/期.md)
+>For the word, see [期](../words/期.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

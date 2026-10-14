@@ -35,23 +35,25 @@ stand_in: 極
 aliases:
   - 极
 注音: ㄍㄧㄎ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 極.
->For the word, see [極](words/極.md)
+>For the word, see [極](../words/極.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
 
+## Notes
 - 形声 (OC \*ɡɯɡ): semantic [[Radical 075|木]] ("tree, wood") + phonetic [[文法 - 98違法字#亟|亟]] (OC \*kʰɯɡs, \*kɯɡ — "urgently, repeatedly, extremely," no character page of its own in this vault, permanently forbidden per [[文法 - 98違法字]]) — originally meaning a crossbeam rafter.
 - [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 500th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄍㄧㄎ](syllables/ㄍㄧㄎ.md)
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[極]]<rt>ㄍㄧㄎ</rt></ruby> "extreme; of the highest degree; utmost" (stand-in for 極)
 - <ruby>[[積極]]<rt>ㄐㄝㄎㄍㄧㄎ</rt></ruby> "positive; active; dynamic"

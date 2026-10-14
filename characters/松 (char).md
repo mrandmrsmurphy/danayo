@@ -32,17 +32,19 @@ stand_in: 松
 aliases:
   - 鬆
 注音: ㄙ⼄ㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 松.
->For the word, see [松](words/松.md)
+>For the word, see [松](../words/松.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*sɢloŋ): semantic [[Radical 075|木]] ("wood") + phonetic [[公 (char)|公]] (OC \*kloːŋ).
 - [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))

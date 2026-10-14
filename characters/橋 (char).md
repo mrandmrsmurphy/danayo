@@ -8,7 +8,10 @@ japanese:
   - KOU
 japanese_native: はし
 vietnamese:
-  - kiều, cầu, kéo, kèo
+  - kiều
+  - cầu
+  - kéo
+  - kèo
 middle_chinese_initial: g
 middle_chinese_final: ɣiᴇu
 stroke_count: 16
@@ -20,7 +23,7 @@ english:
   - bridge
   - beam
 羅馬字: gyau
-諺文:  걋
+諺文: 걋
 joyo_level: "3"
 hsk_level: "1"
 hanmun_edu_level: 中
@@ -31,14 +34,14 @@ stand_in: 橋
 aliases:
   - 桥
 注音: ㄍ⼘ㄨ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 橋.
->For the word, see [橋](words/橋.md)
+>For the word, see [橋](../words/橋.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

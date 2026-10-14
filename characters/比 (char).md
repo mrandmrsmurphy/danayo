@@ -34,15 +34,15 @@ aliases:
   - 秕
   - 粃
 注音: "ㄅㄧㄜ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
->[!tip] This is about the character 比.
->For the word, see [比](words/比.md).
->For the radical, see [Radical 081](lookup/Radicals/Radical%20081.md)
+>[!tip] This is a page about the character 比.
+>For the word, see [比](../words/比.md). For the radical, see [Radical 081](../lookup/Radicals/Radical%20081.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
