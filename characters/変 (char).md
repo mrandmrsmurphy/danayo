@@ -31,14 +31,14 @@ stand_in: 変
 aliases:
   - 變
 注音: ㄅ⼶ㄋ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 変.
->For the word, see [変](words/変.md)
+>For the word, see [変](../words/変.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -56,10 +56,3 @@ boundedness: 90
 - <ruby>[[変成]]<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby> "change into; metamorphosize into"
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
 - <ruby>[[変化]]<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby> "to change; vary"
-
-## Derived Characters
-- <ruby>[[弯]]<rt>⺢ㄇ</rt></ruby> "to bend; curve"
-- <ruby>[[鵉]]<rt>ㄌㄚㄋ</rt></ruby> "luan"
-- <ruby>[[恋 (char)|恋]]<rt>ㄌㄝㄋ</rt></ruby> "romance; romantic love"
-- <ruby>[[蛮]]<rt>ㄇㄚㄋ</rt></ruby> "barbarian"
-- <ruby>[[栾]]<rt>ㄌㄚㄋ</rt></ruby> "Koelreuteria paniculata"

@@ -31,14 +31,14 @@ stand_in: "坐"
 aliases:
   - 座
 注音: "ㄐ⺢"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 坐.
->For the word, see [坐](words/坐.md)
+>For the word, see [坐](../words/坐.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

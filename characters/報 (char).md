@@ -30,17 +30,19 @@ stand_in: 報
 aliases:
   - 报
 注音: ㄅㄚㄨ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 報.
->For the word, see [報](words/報.md)
+>For the word, see [報](../words/報.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](lookup/List%20of%20会意.md): 㚔 ("handcuffs," no vault page) + 𠬝 ("to subdue," no vault page) — to convict; to punish; to declare guilty; extended to "to report, to announce."
 - [SKIP-1-8-4](lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
