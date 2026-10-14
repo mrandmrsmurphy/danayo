@@ -148,7 +148,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[彷徨](../words/彷徨.md)<rt>ㄆㄚㄫㄏ⺢ㄫ</rt></ruby>: to wander.
 - <ruby>[徘徊](../words/徘徊.md)<rt>ㄈㄛㄧㄏㄛㄧ</rt></ruby>: to loiter, pace about — a 聯綿詞 binome; 徘 and 徊 are bound.
 - <ruby>[爬行](../words/爬行.md)<rt>ㄅㄚㄏㄚㄫ</rt></ruby>: to crawl.
-- <ruby>[散歩](../words/散歩.md)<rt>ㄙㄚㄇㄅㄛ</rt></ruby>: to walk, stroll — leisurely, not walking as opposed to running.
+- <ruby>[散歩](../words/散歩.md)<rt>ㄙㄚㄋㄅㄛ</rt></ruby>: to walk, stroll — leisurely, not walking as opposed to running.
 - <ruby>[履](../words/履.md)<rt>ㄌㄧㄜ</rt></ruby>: to tread on, tread with.
 
 ### Returning, Remaining & Passing
@@ -242,7 +242,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[慄](../words/慄.md)<rt>ㄌㄧㄊ</rt></ruby>: to tremble, shudder, shiver.
 - <ruby>[敷](../words/敷.md)<rt>ㄈㄨ</rt></ruby>: to spread — laying something out flat (a mat, a cloth).
 - <ruby>[伝播](../words/伝播.md)<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby>: to propagate, disseminate, spread — figurative, of information or influence, distinct from [[敷]]'s physical spreading.
-- <ruby>[散布](../words/散布.md)<rt>ㄙㄚㄇㄅㄛ</rt></ruby>: to scatter, spread, disseminate — an undocumented near-duplicate of [[伝播]].
+- <ruby>[散布](../words/散布.md)<rt>ㄙㄚㄋㄅㄛ</rt></ruby>: to scatter, spread, disseminate — an undocumented near-duplicate of [[伝播]].
 - <ruby>[伸展](../words/伸展.md)<rt>ㄙㄧㄋㄐㄝㄋ</rt></ruby>: to expand, unfold, stretch — see [[Dimensions]] for its own citation there.
 - <ruby>[伸長](../words/伸長.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: to extend, stretch — see [[Dimensions]] for its own citation there; an undocumented near-duplicate of [[伸展]].
 - <ruby>[回転](../words/回転.md)<rt>ㄏㄛㄧㄐ⼔ㄋ</rt></ruby>: to turn, spin, rotate, revolve.
