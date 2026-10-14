@@ -32,17 +32,19 @@ stand_in: 借
 aliases:
   - 藉
 注音: ㄐㄚ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
->[!tip] This page is about the character.
->For the word, see [借](words/借.md)
+>[!tip] This is a page about the character 借.
+>For the word, see [借](../words/借.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [[Radical 009|人]] ("person") + phonetic [[昔]] (OC \*sjaːɡ) — "to lend, to borrow"; also "to make use of, to take advantage of" as an alternate form of 藉.
 - [SKIP-1-2-8](lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))

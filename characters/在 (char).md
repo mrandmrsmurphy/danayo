@@ -28,18 +28,19 @@ graphemic_classification: "才"
 stand_in: "在"
 aliases:
 注音: "ㄐㄚㄧ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 在.
->For the word, see [在](words/在.md)
+>For the word, see [在](../words/在.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*zlɯːʔ, \*zlɯːs): phonetic [[才]] + semantic [[士 (char)|士]] (later corrupted into [[Radical 032|土]], "earth") — "to exist; to be present; to be at, to be located."
 - [SKIP-3-2-4](lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))

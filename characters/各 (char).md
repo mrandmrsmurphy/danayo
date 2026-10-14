@@ -33,14 +33,14 @@ graphemic_classification: 会意
 stand_in: 各
 aliases:
 注音: ㄍㄚㄎ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 各.
->For the word, see [各](words/各.md)
+>For the word, see [各](../words/各.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -68,3 +68,4 @@ boundedness: 75
 - <ruby>[[酪]]<rt>ㄌㄚㄎ</rt></ruby> "cream; cheese; dairy"
 - <ruby>[[閣]]<rt>ㄍㄚㄎ</rt></ruby> "chamber; pavilion; cabinet"
 - <ruby>[[洛]]<rt>ㄌㄚㄎ</rt></ruby> "Luo River"
+- <ruby>[[咎]]<rt>ㄍ⼜</rt></ruby> "calamity; fault"

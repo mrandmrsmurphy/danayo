@@ -36,14 +36,14 @@ stand_in: 句
 aliases:
   - 枸
 注音: ㄍㄨ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 句.
->For the word, see [句](words/句.md)
+>For the word, see [句](../words/句.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -61,7 +61,7 @@ boundedness: 80
 - <ruby>[[高句麗]]<rt>ㄍㄚㄨㄍㄨㄌㄝ</rt></ruby> "Goguryeo"
 - <ruby>[[慣用句]]<rt>ㄍ⺢ㄋ·⼄ㄫㄍㄨ</rt></ruby> "idiom; idiomatic phrase"
 - <ruby>[[句法]]<rt>ㄍㄨㄈㄚㄆ</rt></ruby> "syntax"
-- <ruby>[[句杞]]<rt>ㄎㄧ</rt></ruby> "wolfberry"
+- <ruby>[[句杞]]<rt>ㄍㄨ·ㄎㄧ</rt></ruby> "wolfberry"
 - <ruby>[[詞句]]<rt>ㄙㄚㄍㄨ</rt></ruby> "words and phrases"
 - <ruby>[[句号]]<rt>ㄍㄨㄏㄚㄨ</rt></ruby> "period; full stop"
 
