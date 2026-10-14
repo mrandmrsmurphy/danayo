@@ -30,14 +30,14 @@ stand_in: "島"
 aliases:
   - 岛
 注音: "ㄊㄚㄨ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 島.
->For the word, see [島](words/島.md)
+>For the word, see [島](../words/島.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -63,6 +63,3 @@ boundedness: 75
 - <ruby>[[広島]]<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby> "Hiroshima Prefecture"
 - <ruby>[[徳島]]<rt>ㄊㄨㄎㄊㄚㄨ</rt></ruby> "Tokushima Prefecture"
 - <ruby>[[鹿児島]]<rt>ㄌㄛㄎ·ㄝㄧㄊㄚㄨ</rt></ruby> "Kagoshima Prefecture"
-
-## Derived Characters
-- <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle; vulture"

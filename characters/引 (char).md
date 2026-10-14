@@ -33,17 +33,19 @@ graphemic_classification: 会意
 stand_in: 引
 aliases:
 注音: ㄧㄋ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 引.
->For the word, see [引](words/引.md)
+>For the word, see [引](../words/引.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](lookup/List%20of%20会意.md): [[Radical 057|弓]] ("bow") + [[Radical 004|丿]] ("indicatory stroke") — oracle-bone and bronze forms depict a slack bow with a short slant stroke marking the place of drawing the bowstring; "to pull, to draw (a bow)."
 - [SKIP-1-3-1](lookup/SKIP/SKIP-1/SKIP-1-3-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))

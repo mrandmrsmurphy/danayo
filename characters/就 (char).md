@@ -32,14 +32,14 @@ aliases:
   - 鷲
   - 鹫
 注音: ㄑ⺢ㄧ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 95
 ---
 >[!tip] This is a page about the character 就.
->For the word, see [就](words/就.md)
+>For the word, see [就](../words/就.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

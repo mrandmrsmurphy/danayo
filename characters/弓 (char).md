@@ -30,20 +30,21 @@ graphemic_classification: "象形"
 stand_in: "弓"
 aliases:
 注音: "ㄍㄨㄫ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 弓.
->For the word, see [弓](words/弓.md)
+>For the word, see [弓](../words/弓.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a bow. Extended to references to arching, bending, and (in some dialects) rainbows.
+- [List of 象形](lookup/List%20of%20象形.md): a bow; itself the Kangxi radical [[Radical 057|弓]]. Extended to references to arching, bending, and (in some dialects) rainbows.
 - [SKIP-4-3-1](lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
 - 887th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄍㄨㄫ](syllables/ㄍㄨㄫ.md)
 - [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

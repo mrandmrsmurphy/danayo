@@ -31,14 +31,14 @@ stand_in: 弱
 aliases:
   - 鶸
 注音: ㄋ⼘ㄎ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 弱.
->For the word, see [弱](words/弱.md)
+>For the word, see [弱](../words/弱.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

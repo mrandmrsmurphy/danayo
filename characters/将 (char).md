@@ -36,14 +36,14 @@ aliases:
   - 漿
   - 浆
 注音: "ㄐ⺢ㄫ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 95
 ---
 >[!tip] This is a page about the character 将.
->For the word, see [将](words/将.md)
+>For the word, see [将](../words/将.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -69,3 +69,6 @@ boundedness: 95
 ## Derived Characters
 - <ruby>[[壮]]<rt>ㄐ⺢ㄫ</rt></ruby> "bulky; huge"
 - <ruby>[[状]]<rt>ㄐ⺢ㄫ</rt></ruby> "form; shape"
+- <ruby>[[奨]]<rt>ㄐㄚㄫ</rt></ruby> "award"
+- <ruby>[[蒋]]<rt>ㄐㄚㄫ</rt></ruby> "wild Manchurian rice"
+- <ruby>[[醤]]<rt>ㄐㄚㄫ</rt></ruby> "jam"
