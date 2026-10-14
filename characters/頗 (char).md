@@ -29,7 +29,7 @@ stand_in: "頗"
 aliases:
   - 颇
 注音: "ㄈㄚ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
@@ -37,10 +37,12 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 頗.
->For the word, see [頗](words/頗.md)
+>For the word, see [頗](../words/頗.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*pʰaːl, \*pʰaːlʔ, \*pʰaːls): semantic [[Radical 181|頁]] ("head") + phonetic [[皮 (char)|皮]] (shares initial and vowel pattern in Old Chinese) — very, quite; skewed.
 - [SKIP-1-5-9](lookup/SKIP/SKIP-1/SKIP-1-5-9.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))

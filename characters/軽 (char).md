@@ -7,7 +7,8 @@ japanese:
   - KEI
   - KYOU
   - KIN
-japanese_native: かる
+japanese_native:
+  - かる
   - かる-い
 vietnamese:
   - khinh
@@ -35,17 +36,19 @@ aliases:
   - 輕
   - 轻
 注音: ㄎㄧㄫ
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 軽.
->For the word, see [軽](words/軽.md)
+>For the word, see [軽](../words/軽.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʰeŋ, \*kʰeŋs): semantic [[Radical 159|車]] ("carriage") + phonetic [[巠]] — originally "a kind of light carriage," preserved in the idiom 駕輕就熟 ("to drive a light carriage on a familiar route"); light, not heavy.
 - [SKIP-1-7-5](lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))

@@ -33,17 +33,19 @@ stand_in: "頭"
 aliases:
   - 头
 注音: "ㄊㄛㄨ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 頭.
->For the word, see [頭](words/頭.md)
+>For the word, see [頭](../words/頭.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*doː): semantic [[Radical 181|頁]] ("head") + phonetic [[豆 (char)|豆]] (OC \*doːs) — replaced the earlier word 首 due to homophony with 手 ("hand") in Middle Chinese; head.
 - [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
