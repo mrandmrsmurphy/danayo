@@ -29,18 +29,19 @@ stand_in: "暗"
 aliases:
   - 闇
 注音: "ㄚㄇ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 暗.
->For the word, see [暗](words/暗.md)
+>For the word, see [暗](../words/暗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*qɯːms): semantic [[Radical 072|日]] ("sun") + phonetic [[音]] (OC \*qrɯm).
 - [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))

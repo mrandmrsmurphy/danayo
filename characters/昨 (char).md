@@ -29,14 +29,14 @@ graphemic_classification: "乍"
 stand_in: "昨"
 aliases:
 注音: "ㄐㄚㄎ"
-date-last-perfect: 2026-07-24
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 昨.
->For the word, see [昨](words/昨.md)
+>For the word, see [昨](../words/昨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,11 +55,3 @@ boundedness: 65
 - <ruby>[[昨週]]<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby> "last week"
 - <ruby>[[昨世紀]]<rt>ㄐㄚㄎㄙㄝㄍㄧ</rt></ruby> "last century"
 - <ruby>[[昨月]]<rt>ㄐㄚㄎ·⼔ㄊ</rt></ruby> "last month"
-
-## Derived Characters
-- <ruby>[[詐]]<rt>ㄐㄚ</rt></ruby> "to defraud"
-- <ruby>[[酢]]<rt>ㄐㄚㄎ</rt></ruby> "vinegar"
-- <ruby>[[作 (char)|作]]<rt>ㄐㄚㄎ</rt></ruby> "to make; do"
-- <ruby>[[炸]]<rt>ㄐㄚㄎ</rt></ruby> "fried; explode"
-- <ruby>[[窄]]<rt>ㄐㄚㄎ</rt></ruby> "narrow; tight"
-- <ruby>[[祚]]<rt>ㄐㄛ</rt></ruby> "throne; blessing"
