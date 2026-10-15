@@ -34,14 +34,14 @@ stand_in: 斗
 aliases:
   - 鬥
 注音: ㄉㄛㄨ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 斗.
->For the word, see [斗](words/斗.md)
+>For the word, see [斗](../words/斗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -54,4 +54,5 @@ boundedness: 100
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[斗]]<rt>ㄉㄛㄨ</rt></ruby> "peck; Dipper" (stand-in for 斗)
 - <ruby>[[熨斗]]<rt>⼜ㄊㄉㄛㄨ</rt></ruby> "flatiron"

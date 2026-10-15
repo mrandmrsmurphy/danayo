@@ -36,14 +36,14 @@ stand_in: "揚"
 aliases:
   - 扬
 注音: "⼘ㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 揚.
->For the word, see [揚](words/揚.md)
+>For the word, see [揚](../words/揚.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -56,6 +56,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[揚]]<rt>⼘ㄫ</rt></ruby> "scatter; hurl" (stand-in for 揚)
 - <ruby>[[揚州]]<rt>⼘ㄫㄐㄨㄛ</rt></ruby> "Yang Province, Province of Yang"
 - <ruby>[[昂揚]]<rt>ㄚㄫ⼘ㄫ</rt></ruby> "high-spirited, exalted"
 

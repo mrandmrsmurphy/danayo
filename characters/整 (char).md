@@ -12,7 +12,6 @@ vietnamese:
   - chảnh
   - chểnh
   - chệnh
-  - chỉnh
   - xiềng
   - xiểng
 middle_chinese_initial: "t͡ɕ"
@@ -35,16 +34,15 @@ danayo_id: 3145
 mc_id: 2067
 graphemic_classification: "正"
 stand_in: "整"
-aliases:
 注音: "ㄐㄝㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 45
 ---
 >[!tip] This is a page about the character 整.
->For the word, see [整](words/整.md)
+>For the word, see [整](../words/整.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -57,6 +55,7 @@ boundedness: 45
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[整]]<rt>ㄐㄝㄫ</rt></ruby> "orderly; neat; tidy" (stand-in for 整)
 - <ruby>[[整斉]]<rt>ㄐㄝㄫㄐㄝㄧ</rt></ruby> "arrange, straighten, rectify, order"
 - <ruby>[[整理]]<rt>ㄐㄝㄫㄐㄧ</rt></ruby> "straighten, arrange, order, tidy"
 - <ruby>[[調整]]<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby> "adjust, transfer"
