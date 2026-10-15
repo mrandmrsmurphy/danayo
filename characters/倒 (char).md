@@ -29,9 +29,8 @@ danayo_id: 4018
 mc_id: 2141
 graphemic_classification: "到"
 stand_in: "倒"
-aliases:
 注音: "ㄊㄚㄨ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -39,9 +38,11 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 倒.
 >For the word, see [倒](../words/倒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *taːwʔ, *taːws): semantic [[Radical 009|亻]] ("person") + phonetic [[到]] (OC *taːws) — to fall over, to collapse.
 - [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))

@@ -34,9 +34,8 @@ danayo_id: 4033
 mc_id: 4964
 graphemic_classification: "㕞"
 stand_in: "刷"
-aliases:
 注音: "ㄙ⺢ㄊ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -44,6 +43,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 刷.
 >For the word, see [刷](../words/刷.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -53,5 +53,7 @@ boundedness: 90
 - [SKIP-1-6-2](../lookup/SKIP/SKIP-1/SKIP-1-6-2.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 4964th most used character in Classical Chinese (long-tail rank from the fuller source ranking; beyond the local mirrors' top ~4000). Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 黠合|ɣuat]] → [ㄙ⺢ㄊ](../syllables/ㄙ⺢ㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[刷]]<rt>ㄙ⺢ㄊ</rt></ruby> "brush; scrub" (stand-in for 刷)
 - <ruby>[[刷子]]<rt>ㄙ⺢ㄊㄐㄜ</rt></ruby> "brush"

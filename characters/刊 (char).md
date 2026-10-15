@@ -30,9 +30,8 @@ danayo_id: 4030
 mc_id: 3391
 graphemic_classification: 干
 stand_in: 刊
-aliases:
 注音: ㄎㄚㄋ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -40,15 +39,19 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 刊.
 >For the word, see [刊](../words/刊.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *kʰaːn): semantic [[Radical 018|刀]] ("knife") + phonetic [[干]] (OC *kaːn) — originally "to cut, to carve, to amend (a text)"; now "to publish."
 - [SKIP-1-3-2](../lookup/SKIP/SKIP-1/SKIP-1-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 3391st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄎㄚㄋ](../syllables/ㄎㄚㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[刊]]<rt>ㄎㄚㄋ</rt></ruby> "publication; periodical" (stand-in for 刊)
 - <ruby>[[刊行]]<rt>ㄎㄚㄋㄏㄚㄫ</rt></ruby> "publish"
 - <ruby>[[日刊]]<rt>ㄋㄧㄊㄎㄚㄋ</rt></ruby> "daily publication, daily periodical"
 - <ruby>[[週刊]]<rt>ㄐㄨㄛㄎㄚㄋ</rt></ruby> "weekly periodical, weekly publication"

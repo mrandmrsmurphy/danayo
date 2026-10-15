@@ -33,7 +33,7 @@ stand_in: 克
 aliases:
   - 剋
 注音: ㄎㄨㄎ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -41,6 +41,7 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 克.
 >For the word, see [克](../words/克.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -50,7 +51,9 @@ boundedness: 100
 - [SKIP-2-2-5](../lookup/SKIP/SKIP-2/SKIP-2-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 729th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄎㄨㄎ](../syllables/ㄎㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> "practice self-restraint; overcome; gram (unit of mass)" (stand-in for 克)
 - <ruby>[[克明]]<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby> "discern, meticulous, moral judgment"
 - <ruby>[[珈克敦]]<rt>ㄎㄚ·ㄎㄨㄎㄉㄛㄋ</rt></ruby> "Chalcedon"
 - <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"
