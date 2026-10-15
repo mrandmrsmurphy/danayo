@@ -32,16 +32,15 @@ danayo_id: 4152
 mc_id: 1070
 graphemic_classification: 也
 stand_in: 池
-aliases:
 注音: ㄐㄨㄧ
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 池.
->For the word, see [池](words/池.md)
+>For the word, see [池](../words/池.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -54,7 +53,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby> "pond, reservoir"
+- <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby> "pond, reservoir" (stand-in for 池)
 - <ruby>[[湯池]]<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
 
 ## Chengyu

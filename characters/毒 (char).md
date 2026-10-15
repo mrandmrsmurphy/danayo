@@ -31,16 +31,15 @@ danayo_id: 4151
 mc_id: 1227
 graphemic_classification: "象形"
 stand_in: "毒"
-aliases:
 注音: "ㄉㄛㄎ"
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 毒.
->For the word, see [毒](words/毒.md)
+>For the word, see [毒](../words/毒.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,6 +52,6 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[毒]]<rt>ㄉㄛㄎ</rt></ruby> "poisonous"
+- <ruby>[[毒]]<rt>ㄉㄛㄎ</rt></ruby> "poisonous" (stand-in for 毒)
 - <ruby>[[悪毒]]<rt>ㄚㄎㄉㄛㄎ</rt></ruby> "malicious, vicious"
 - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby> "virus"
