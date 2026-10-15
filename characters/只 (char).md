@@ -35,14 +35,14 @@ aliases:
   - 衹
   - 隻
 注音: ㄑㄝ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 只.
->For the word, see [只](words/只.md)
+>For the word, see [只](../words/只.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,4 +55,4 @@ boundedness: 80
 - [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[只]]<rt>ㄑㄝ</rt></ruby> "only; just; merely"
+- <ruby>[[只]]<rt>ㄑㄝ</rt></ruby> "only; just; merely" (stand-in for 只)

@@ -28,19 +28,20 @@ danayo_id: 3059
 mc_id: 1854
 graphemic_classification: 会意
 stand_in: 品
-aliases:
 注音: ㄆㄨㄇ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 品.
->For the word, see [品](words/品.md)
+>For the word, see [品](../words/品.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: Triplication of [[Radical 030|口]] ("mouth"), representing various objects — a multiplicity of items/things, underlying the later senses "article, product" and "grade, rank" (things sorted into categories). Also occurs in 區 (no vault page).
 - [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))

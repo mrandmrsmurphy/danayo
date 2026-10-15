@@ -29,19 +29,20 @@ danayo_id: 3064
 mc_id: 1164
 graphemic_classification: 勻
 stand_in: 均
-aliases:
 注音: ㄍ⼜ㄋ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 均.
->For the word, see [均](words/均.md)
+>For the word, see [均](../words/均.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʷin): semantic [[Radical 032|土]] ("earth") + phonetic [[勻]] (OC \*ɢʷin).
 - [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
@@ -49,7 +50,7 @@ boundedness: 50
 - [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[均]]<rt>ㄍ⼜ㄋ</rt></ruby> "equal; even; uniform"
+- <ruby>[[均]]<rt>ㄍ⼜ㄋ</rt></ruby> "equal; even; uniform" (stand-in for 均)
 - <ruby>[[不均]]<rt>ㄅㄛㄊㄍ⼜ㄋ</rt></ruby> "uneven, unequal"
 - <ruby>[[均衡]]<rt>ㄍ⼜ㄋㄏㄚㄫ</rt></ruby> "balance; equilibrium"
 - <ruby>[[平均]]<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby> "average; balance; find the mean"

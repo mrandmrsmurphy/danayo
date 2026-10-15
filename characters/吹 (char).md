@@ -44,16 +44,15 @@ danayo_id: 3054
 mc_id: 1838
 graphemic_classification: "会意"
 stand_in: "吹"
-aliases:
 注音: "ㄑㄨㄧ"
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 吹.
->For the word, see [吹](words/吹.md)
+>For the word, see [吹](../words/吹.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -66,7 +65,7 @@ boundedness: 90
 - [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[吹]]<rt>ㄑㄨㄧ</rt></ruby> "blow; puff; bluster"
+- <ruby>[[吹]]<rt>ㄑㄨㄧ</rt></ruby> "blow; puff; bluster" (stand-in for 吹)
 
 ## Derived Characters
 - <ruby>[[炊 (char)|炊]]<rt>ㄑㄨㄧ</rt></ruby> "cook"
