@@ -31,17 +31,19 @@ stand_in: "武"
 aliases:
   - 㱐
 注音: "ㄇㄨ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 武.
->For the word, see [武](words/武.md)
+>For the word, see [武](../words/武.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[戈]] ("blade") and [[Radical 077|止]] ("foot; to walk; to stop") — an army going on an expedition; in the character 武, the 戈 component is written above the 止 component.
 - [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
@@ -49,6 +51,7 @@ boundedness: 75
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[武]]<rt>ㄇㄨ</rt></ruby> "military" (stand-in for 武)
 - <ruby>[[玄武]]<rt>ㄏ⼔ㄋㄇㄨ</rt></ruby> "Black Tortoise; Xuanwu (one of the Four Symbols)"
 - <ruby>[[武将]]<rt>ㄇㄨㄐ⺢ㄫ</rt></ruby> "general, commander"
 - <ruby>[[文武]]<rt>ㄇㄨㄋㄇㄨ</rt></ruby> "civilian and military"

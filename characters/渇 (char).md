@@ -32,26 +32,26 @@ stand_in: 渇
 aliases:
   - 渴
 注音: ㄎㄚㄊ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
-boundedness:
 ---
 >[!tip] This is a page about the character 渇.
->For the word, see [渇](words/渇.md)
+>For the word, see [渇](../words/渇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC *kʰaːd): semantic [[Radical 085|氵]] ("water") + phonetic [[曷]] — water exhausted, dried up; thirst. **Corrected here**: the field previously stored `喝`, a different character (already classified 会意 in this vault, not citing 曷 as its own phonetic either) — likely a visual mix-up, since 喝 visibly contains 曷 as a component, but not the real phonetic citation.
+- 形声 (OC *kʰaːd): semantic [[Radical 085|氵]] ("water") + phonetic [[曷]] — water exhausted, dried up; thirst.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1694th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄎㄚㄊ](../syllables/ㄎㄚㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[渇]]<rt>ㄎㄚㄊ</rt></ruby> "thirst; thirsty" (stand-in for 渇)
 - <ruby>[[渇金]]<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> "tantalum"
 
 ## Chengyu

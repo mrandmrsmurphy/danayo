@@ -22,7 +22,7 @@ english:
 羅馬字: tang
 諺文: "탕"
 joyo_level: "3"
-hsk_level: ""
+hsk_level: 無
 hanmun_edu_level: "高等"
 danayo_id: 3187
 mc_id: 409
@@ -31,14 +31,14 @@ stand_in: "湯"
 aliases:
   - 汤
 注音: "ㄊㄚㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 湯.
->For the word, see [湯](words/湯.md)
+>For the word, see [湯](../words/湯.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[湯]]<rt>ㄊㄚㄫ</rt></ruby> "hot water" (stand-in for 湯)
 - <ruby>[[湯池]]<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby> "city moat, hot springs (literary)"
 - <ruby>[[肉湯]]<rt>ㄋㄨㄎㄊㄚㄫ</rt></ruby> "broth"
 
