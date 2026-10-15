@@ -38,7 +38,7 @@ aliases:
   - 荫
   - 侌
 注音: ㄧㄇ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -46,15 +46,19 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 陰.
 >For the word, see [陰](../words/陰.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *qrɯm): semantic [[Radical 170|阜]] ("mound") + phonetic 侌 (itself [[今]] + 云, "cloud") — the shady side of a hill; shade, darkness, the yin principle.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 158th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄧㄇ](../syllables/ㄧㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[陰]]<rt>ㄧㄇ</rt></ruby> "Yin; shade" (stand-in for 陰)
 - <ruby>[[陰陽]]<rt>ㄧㄇ·⼘ㄫ</rt></ruby> "yin-yang"
 - <ruby>[[陰影]]<rt>ㄧㄇ·⼶ㄫ</rt></ruby> "shadow"
 - <ruby>[[太陰]]<rt>ㄊㄚㄧㄧㄇ</rt></ruby> "moon"
@@ -64,7 +68,6 @@ boundedness: 100
 - <ruby>[[陰門]]<rt>ㄧㄇㄇㄛㄋ</rt></ruby> "vulva"
 - <ruby>[[陰核]]<rt>ㄧㄇㄏㄚㄎ</rt></ruby> "clitoris"
 - <ruby>[[陰茎]]<rt>ㄧㄇㄎㄧㄫ</rt></ruby> "penis"
-- <ruby>[[太陰暦]]<rt>ㄊㄚㄧㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陰暦]]<rt>ㄊㄚㄧㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陰年]]<rt>ㄊㄚㄧㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[陰暦年]]<rt>ㄧㄇㄌㄝㄎㄋㄝㄋ</rt></ruby> "lunar year"

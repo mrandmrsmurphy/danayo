@@ -39,14 +39,14 @@ aliases:
   - 鍼
   - 针
 注音: ㄐㄧㄇ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 針.
->For the word, see [針](words/針.md)
+>For the word, see [針](../words/針.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,10 +55,11 @@ boundedness: 90
 ## Notes
 - 形声 (OC *kjum): semantic [[金 (char)|金]] ("metal") + phonetic [[十 (char)|十]] — needle, pin.
 - [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
-- `mc_id: 3214`, confirmed against `CC 3000.md` line 227. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄐㄧㄇ](../syllables/ㄐㄧㄇ.md)
+- 3214th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄐㄧㄇ](../syllables/ㄐㄧㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[針]]<rt>ㄐㄧㄇ</rt></ruby> "needle; pin; tack; hand (clock)" (stand-in for 針)
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[方針]]<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby> "policy; principle"
 - <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> "hanging-needle vertical (calligraphy stroke)"
