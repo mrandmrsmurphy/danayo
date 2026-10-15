@@ -31,14 +31,14 @@ stand_in: "笑"
 aliases:
   - 咲
 注音: "ㄙ⼄ㄨ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 笑.
->For the word, see [笑](words/笑.md)
+>For the word, see [笑](../words/笑.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

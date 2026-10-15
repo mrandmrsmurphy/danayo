@@ -31,19 +31,20 @@ danayo_id: 2179
 mc_id: 6498
 graphemic_classification: 会意
 stand_in: 看
-aliases:
 注音: ㄎㄚㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
->[!tip] This is about the character.
->For the word, see [看](words/看.md)
+>[!tip] This is a page about the character 看.
+>For the word, see [看](../words/看.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[Radical 064|手]] ("hand") and [[Radical 109|目]] ("eye") — a hand held above the eyes to gaze afar.
 - [SKIP-3-4-5](lookup/SKIP/SKIP-3/SKIP-3-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))

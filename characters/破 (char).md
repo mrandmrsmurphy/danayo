@@ -28,16 +28,15 @@ danayo_id: 2180
 mc_id: 385
 graphemic_classification: "皮"
 stand_in: "破"
-aliases:
 注音: "ㄆㄜ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 破.
->For the word, see [破](words/破.md)
+>For the word, see [破](../words/破.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

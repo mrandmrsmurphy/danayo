@@ -30,16 +30,15 @@ danayo_id: 2174
 mc_id: 767
 graphemic_classification: "会意"
 stand_in: "登"
-aliases:
 注音: "ㄉㄨㄫ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 登.
->For the word, see [登](words/登.md)
+>For the word, see [登](../words/登.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -58,4 +57,5 @@ boundedness: 90
 - <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby> "Teng"
 - <ruby>[[橙]]<rt>ㄉㄨㄫ</rt></ruby> "orange"
 - <ruby>[[澄]]<rt>ㄑㄚㄫ</rt></ruby> "clear; pure"
+- <ruby>[[証]]<rt>ㄐㄧㄫ</rt></ruby> "prove; confirm; verify"
 - <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby> "lamp"

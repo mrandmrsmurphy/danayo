@@ -32,16 +32,15 @@ danayo_id: 2178
 mc_id: 671
 graphemic_classification: 生
 stand_in: 省
-aliases:
 注音: ㄙ⼶ㄫ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 省.
->For the word, see [省](words/省.md)
+>For the word, see [省](../words/省.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
