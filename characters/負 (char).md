@@ -32,14 +32,14 @@ stand_in: "負"
 aliases:
   - 负
 注音: "ㄅ⼜"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 負.
->For the word, see [負](words/負.md)
+>For the word, see [負](../words/負.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,5 +52,6 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[負]]<rt>ㄅ⼜</rt></ruby> "carry; bear" (stand-in for 負)
 - <ruby>[[負債]]<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby> "debt, liabilities"
 - <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby> "negative number"

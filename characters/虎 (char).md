@@ -29,18 +29,19 @@ stand_in: "虎"
 aliases:
   - 乕
 注音: "ㄏㄛ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 虎.
->For the word, see [虎](words/虎.md)
+>For the word, see [虎](../words/虎.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): [[Radical 141|虍]] represents the tiger's head. The torso has disappeared and the legs and the tail have transformed into 人 in the small seal script and later 儿 in the clerical script.
 - [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))

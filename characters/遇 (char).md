@@ -29,16 +29,15 @@ danayo_id: 3252
 mc_id: 603
 graphemic_classification: "禺"
 stand_in: "遇"
-aliases:
 注音: "ㄨ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 30
 ---
 >[!tip] This is a page about the character 遇.
->For the word, see [遇](words/遇.md)
+>For the word, see [遇](../words/遇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,10 +50,5 @@ boundedness: 30
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[遇]]<rt>ㄨ</rt></ruby> "meet; come across; encounter" (stand-in for 遇)
 - <ruby>[[遭遇]]<rt>ㄐㄚㄨㄨ</rt></ruby> "encounter"
-
-## Derived Characters
-- <ruby>[[愚 (char)|愚]]<rt>ㄨ</rt></ruby> "foolish"
-- <ruby>[[隅 (char)|隅]]<rt>ㄨㄛ</rt></ruby> "nook; corner"
-- <ruby>[[偶]]<rt>ㄛㄨ</rt></ruby> "image; doppelganger"
-- <ruby>[[寓]]<rt>ㄨ</rt></ruby> "residence; lodge"

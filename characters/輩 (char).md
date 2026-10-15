@@ -32,18 +32,19 @@ stand_in: 輩
 aliases:
   - 辈
 注音: ㄈㄛㄧ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
-  - hapax
 boundedness: 90
 ---
 >[!tip] This is a page about the character 輩.
 >For the word, see [輩](../words/輩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 159|車]] ("carriage") + phonetic [[Radical 175|非]] — a row of carriages moving in the same direction; a class or cohort of people, a generation.
 - [SKIP-2-8-7](../lookup/SKIP/SKIP-2/SKIP-2-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
@@ -51,4 +52,4 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- [輩](words/輩.md) "generation" — 輩 stands alone as a word in Dan'a'yo.
+- <ruby>[[輩]]<rt>ㄈㄛㄧ</rt></ruby> "generation" (stand-in for 輩)

@@ -37,14 +37,14 @@ stand_in: "請"
 aliases:
   - 请
 注音: "ㄑㄧㄫ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 請.
->For the word, see [請](words/請.md)
+>For the word, see [請](../words/請.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -57,5 +57,5 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> "ask, invite, request, please" (stand-in for 請 (char))
+- <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> "ask, invite, request, please" (stand-in for 請)
 - <ruby>[[要請]]<rt>⼄ㄨㄑㄧㄫ</rt></ruby> "request; demand"

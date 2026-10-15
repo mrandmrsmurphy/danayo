@@ -39,14 +39,14 @@ aliases:
   - 滸
   - 浒
 注音: "ㄏ⼄"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 許.
->For the word, see [許](words/許.md)
+>For the word, see [許](../words/許.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -65,7 +65,3 @@ boundedness: 90
 - <ruby>[[允許]]<rt>⼜ㄋㄏ⼄</rt></ruby> "grant; allow"
 - <ruby>[[不許]]<rt>ㄅㄛㄊㄏ⼄</rt></ruby> "forbid"
 - <ruby>[[許容]]<rt>ㄏ⼄⼄ㄫ</rt></ruby> "to permit, tolerate"
-
-## Derived Characters
-- <ruby>[[御]]<rt>⼄</rt></ruby> "defend"
-- <ruby>[[卸 (char)|卸]]<rt>ㄙ⼘</rt></ruby> "retire; lay down"

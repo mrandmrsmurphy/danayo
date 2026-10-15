@@ -31,19 +31,21 @@ stand_in: "解"
 aliases:
   - 獬
 注音: "ㄍ⼘ㄧ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 解.
->For the word, see [解](words/解.md)
+>For the word, see [解](../words/解.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 会意 of [[Radical 148|角]] ("horn") + [[刀]] ("knife") + [[牛]] ("cow") — a knife separates a horn from a cow, i.e. "to cut up (an ox)," extended to "loosen, explain, understand." **Corrected here**: the field previously stored `角`, which would incorrectly assert a 形声 relationship with 角 as phonetic — the page's own body already correctly described a 会意 compound.
+- 会意 of [[Radical 148|角]] ("horn") + [[刀]] ("knife") + [[牛]] ("cow") — a knife separates a horn from a cow, i.e. "to cut up (an ox)," extended to "loosen, explain, understand."
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 466th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄍ⼘ㄧ](../syllables/ㄍ⼘ㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
