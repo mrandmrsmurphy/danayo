@@ -31,17 +31,19 @@ aliases:
   - 聯
   - 联
 注音: ㄌ⼶ㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 連.
->For the word, see [連](words/連.md)
+>For the word, see [連](../words/連.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](lookup/List%20of%20会意.md) of [[辶]] ("to walk") + [[車]] ("chariot") — man-drawn carriage.
 - [SKIP-3-3-7](lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))

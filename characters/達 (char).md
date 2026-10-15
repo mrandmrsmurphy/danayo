@@ -40,14 +40,14 @@ aliases:
   - 逹
   - 达
 注音: ㄊㄚㄊ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 達.
->For the word, see [達](words/達.md)
+>For the word, see [達](../words/達.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

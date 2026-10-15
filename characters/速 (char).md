@@ -28,16 +28,15 @@ danayo_id: 2249
 mc_id: 1363
 graphemic_classification: 束
 stand_in: 速
-aliases:
 注音: ㄙㄛㄎ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 速.
->For the word, see [速](words/速.md)
+>For the word, see [速](../words/速.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

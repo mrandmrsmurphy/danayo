@@ -31,18 +31,19 @@ stand_in: 銀
 aliases:
   - 银
 注音: ㄧㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 銀.
->For the word, see [銀](words/銀.md)
+>For the word, see [銀](../words/銀.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ŋrɯn): semantic [[Radical 167|金]] ("metal") + phonetic [[艮]] (OC \*kɯːns).
 - [SKIP-1-8-6](lookup/SKIP/SKIP-1/SKIP-1-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
@@ -51,7 +52,7 @@ boundedness: 80
 - the element word 銀 itself doubles as the periodic table abbreviation for "silver"
 
 ## Words
-- <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby> "silver"
+- <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby> "silver" (stand-in for 銀)
 - <ruby>[[銀河]]<rt>ㄧㄋㄏㄚ</rt></ruby> "Milky Way"
 - <ruby>[[銀色]]<rt>ㄧㄋㄙㄧㄎ</rt></ruby> "silver"
 - <ruby>[[銀行]]<rt>ㄧㄋㄏㄚㄫ</rt></ruby> "bank"

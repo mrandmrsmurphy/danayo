@@ -34,14 +34,14 @@ stand_in: "過"
 aliases:
   - 过
 注音: "ㄍ⺢"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 過.
->For the word, see [過](words/過.md)
+>For the word, see [過](../words/過.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
