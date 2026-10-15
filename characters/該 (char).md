@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 該.
->For the word, see [該](words/該.md)
+>For the word, see [該](../words/該.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-01
 ## Notes
 - 形声 (OC \*kɯː): semantic [[言 (char)|言]] ("speech") + phonetic [[亥]] (OC \*ɡɯːʔ).
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
-- 3317th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄍㄛㄧ](../syllables/ㄍㄛㄧ.md) — this final's own prose notes that 該 (phonetic 亥, unrelated to 台) sits in the same ㄛㄧ bucket as three genuinely 台-derived characters (苔, 殆, 跆), with no found explanation for the clustering.
+- 3317th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄍㄛㄧ](../syllables/ㄍㄛㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words

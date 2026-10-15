@@ -40,10 +40,10 @@ kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 訓.
->For the word, see [訓](words/訓.md)
+>For the word, see [訓](../words/訓.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
