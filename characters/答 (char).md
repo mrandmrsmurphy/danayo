@@ -34,14 +34,14 @@ stand_in: 答
 aliases:
   - 荅
 注音: ㄉㄚㄆ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 答.
->For the word, see [答](words/答.md)
+>For the word, see [答](../words/答.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

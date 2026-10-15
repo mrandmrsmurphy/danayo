@@ -30,16 +30,15 @@ danayo_id: 2280
 mc_id: 627
 graphemic_classification: "皮"
 stand_in: "被"
-aliases:
 注音: "ㄆㄧ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 被.
->For the word, see [被](words/被.md)
+>For the word, see [被](../words/被.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,4 +51,4 @@ boundedness: 90
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[被]]<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)"
+- <ruby>[[被]]<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)" (stand-in for 被)

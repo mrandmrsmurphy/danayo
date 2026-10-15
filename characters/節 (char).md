@@ -38,14 +38,14 @@ stand_in: 節
 aliases:
   - 节
 注音: ㄐㄝㄊ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 節.
->For the word, see [節](words/節.md)
+>For the word, see [節](../words/節.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

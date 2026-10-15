@@ -36,14 +36,14 @@ stand_in: 興
 aliases:
   - 兴
 注音: ㄏㄜㄫ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 tags:
   - character
 kwin: true
 boundedness: 100
 ---
 >[!tip] This is a page about the character 興.
->For the word, see [興](words/興.md)
+>For the word, see [興](../words/興.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
