@@ -27,16 +27,15 @@ danayo_id: 2278
 mc_id: 1643
 graphemic_classification: "畀"
 stand_in: "鼻"
-aliases:
 注音: "ㄅㄧ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 鼻.
->For the word, see [鼻](words/鼻.md)
+>For the word, see [鼻](../words/鼻.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,7 +48,7 @@ boundedness: 65
 - [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[鼻]]<rt>ㄅㄧ</rt></ruby> "nose"
+- <ruby>[[鼻]]<rt>ㄅㄧ</rt></ruby> "nose" (stand-in for 鼻)
 - <ruby>[[鼻水]]<rt>ㄅㄧㄙㄨ</rt></ruby> "snot"
 - <ruby>[[阿鼻]]<rt>ㄚㄅㄧ</rt></ruby> "Avīci, lowest hell"
 - <ruby>[[鼻音]]<rt>ㄅㄧㄨㄇ</rt></ruby> "nasal"

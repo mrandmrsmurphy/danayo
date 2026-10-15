@@ -30,14 +30,14 @@ stand_in: "鳴"
 aliases:
   - 鸣
 注音: "ㄇ⼶ㄫ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 鳴.
->For the word, see [鳴](words/鳴.md)
+>For the word, see [鳴](../words/鳴.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,7 +50,7 @@ boundedness: 80
 - [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[鳴]]<rt>ㄇ⼶ㄫ</rt></ruby> "cry, chirp"
+- <ruby>[[鳴]]<rt>ㄇ⼶ㄫ</rt></ruby> "cry, chirp" (stand-in for 鳴)
 - <ruby>[[鶏鳴]]<rt>ㄍㄝㄧㄇ⼶ㄫ</rt></ruby> "cock's crow, daybreak, 2 a.m."
 
 ## Chengyu

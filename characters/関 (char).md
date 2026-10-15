@@ -32,14 +32,14 @@ aliases:
   - 關
   - 关
 注音: ㄍ⺢ㄇ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 関.
->For the word, see [関](words/関.md)
+>For the word, see [関](../words/関.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,7 +52,7 @@ boundedness:
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close"
+- <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close" (stand-in for 関)
 - <ruby>[[机関]]<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby> "machine; organization"
 - <ruby>[[関島]]<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby> "Guam"
 - <ruby>[[関数]]<rt>ㄍ⺢ㄇㄙㄨ</rt></ruby> "function"

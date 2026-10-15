@@ -31,7 +31,7 @@ aliases:
   - 飞
   - 蜚
 注音: "ㄈㄝㄧ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
@@ -39,11 +39,12 @@ tags:
 boundedness: 65
 ---
 >[!tip] This is a page about the character 飛.
->For the word, see [飛](words/飛.md)
+>For the word, see [飛](../words/飛.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): a bird flying upwards.
 - [SKIP-4-9-1](lookup/SKIP/SKIP-4/SKIP-4-9-1.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
@@ -52,7 +53,7 @@ boundedness: 65
 - There is an aspectual difference between using this character alone vs. 飛行 (inherited from Mandarin). 飛 is a short jaunt, a little flight, an immediate flight. 飛行 is "the means of travel known as flying," a prolonged flight, a "real" flight.
 
 ## Words
-- <ruby>[[飛]]<rt>ㄈㄝㄧ</rt></ruby> "to fly"
+- <ruby>[[飛]]<rt>ㄈㄝㄧ</rt></ruby> "to fly" (stand-in for 飛)
 - <ruby>[[飛翔]]<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby> "to fly; to soar"
 - <ruby>[[飛鳥]]<rt>ㄈㄝㄧㄑㄛㄨ</rt></ruby> "Asuka, flying bird"
 - <ruby>[[飛机]]<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby> "plane"
