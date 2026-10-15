@@ -40,7 +40,7 @@ aliases:
   - 𧬆
   - 𧮟
 注音: ㄙ⼶ㄋ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 善.
 >For the word, see [善](../words/善.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -57,7 +58,9 @@ boundedness: 90
 - [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 132nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙ⼶ㄋ](../syllables/ㄙ⼶ㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[善]]<rt>ㄙ⼶ㄋ</rt></ruby> "good" (stand-in for 善)
 - <ruby>[[善意]]<rt>ㄙ⼶ㄋ·ㄜ</rt></ruby> "good intentions"
 - <ruby>[[善良]]<rt>ㄙ⼶ㄋㄌ⼘ㄫ</rt></ruby> "kind, benevolent"
 - <ruby>[[慈善]]<rt>ㄐㄧㄙ⼶ㄋ</rt></ruby> "charity, benevolence"
@@ -67,6 +70,7 @@ boundedness: 90
 - <ruby>[[善人]]<rt>ㄙ⼶ㄋㄋㄧㄋ</rt></ruby> "philanthropize, well-doer"
 - <ruby>[[善用]]<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby> "put to good use"
 - <ruby>[[偽善]]<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby> "hypocritical, hypocrisy"
+
 ## Derived Characters
 - <ruby>[[繕]]<rt>ㄙ⼶ㄋ</rt></ruby> "mend, repair"
 - <ruby>[[膳]]<rt>ㄙ⼶ㄋ</rt></ruby> "meal"

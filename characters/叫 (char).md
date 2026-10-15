@@ -29,9 +29,8 @@ danayo_id: 4046
 mc_id: 3564
 graphemic_classification: "丩"
 stand_in: "叫"
-aliases:
 注音: "ㄍ⼘"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -51,6 +50,7 @@ boundedness: 90
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[叫]]<rt>ㄍ⼘</rt></ruby> "shout" (stand-in for 叫)
 - <ruby>[[叫喚]]<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby> "cry out, call out"
 
 ## Chengyu

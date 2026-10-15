@@ -34,7 +34,7 @@ aliases:
   - 㽬
   - 褔
 注音: ㄈㄨㄎ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -42,6 +42,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 副.
 >For the word, see [副](../words/副.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -51,7 +52,9 @@ boundedness: 90
 - [SKIP-1-9-2](../lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1533rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄈㄨㄎ](../syllables/ㄈㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-" (stand-in for 副)
 - <ruby>[[副詞]]<rt>ㄈㄨㄎㄙㄚ</rt></ruby> "adverb"
 - <ruby>[[副業]]<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby> "side job, second job"
 - <ruby>[[副用]]<rt>ㄈㄨㄎ·⼄ㄫ</rt></ruby> "auxiliary"

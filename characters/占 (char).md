@@ -42,9 +42,8 @@ danayo_id: 4043
 mc_id: 1107
 graphemic_classification: 会意
 stand_in: 占
-aliases:
 注音: ㄐㄝㄇ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
@@ -52,6 +51,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 占.
 >For the word, see [占](../words/占.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -61,7 +61,9 @@ boundedness: 90
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1107th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄐㄝㄇ](../syllables/ㄐㄝㄇ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[占]]<rt>ㄐㄝㄇ</rt></ruby> "occupy; possess" (stand-in for 占)
 - <ruby>[[占領]]<rt>ㄐㄝㄇㄌㄧㄫ</rt></ruby> "capture, occupy, seize"
 - <ruby>[[占拠]]<rt>ㄐㄝㄇㄍ⼄</rt></ruby> "occupy, hold"
 - <ruby>[[占有]]<rt>ㄐㄝㄇ·⼜</rt></ruby> "possess, occupy"
@@ -69,6 +71,7 @@ boundedness: 90
 - <ruby>[[占星]]<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby> "divination"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"
 - <ruby>[[占城]]<rt>ㄐㄝㄇㄙㄧㄫ</rt></ruby> "Champa"
+
 ## Derived Characters
 - <ruby>[[站]]<rt>ㄐㄚㄇ</rt></ruby> "station, site"
 - <ruby>[[店]]<rt>ㄉㄝㄇ</rt></ruby> "shop, store"

@@ -34,7 +34,7 @@ aliases:
   - 劼
   - 佶
 注音: ㄍㄧㄊ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
@@ -42,6 +42,7 @@ boundedness: 80
 ---
 >[!tip] This is a page about the character 吉.
 >For the word, see [吉](../words/吉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -51,7 +52,9 @@ boundedness: 80
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 514th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄍㄧㄊ](../syllables/ㄍㄧㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
+- <ruby>[[吉]]<rt>ㄍㄧㄊ</rt></ruby> "lucky" (stand-in for 吉)
 - <ruby>[[吉祥]]<rt>ㄍㄧㄊㄙㄚㄫ</rt></ruby> "auspicious"
 - <ruby>[[英吉利]]<rt>ㄝㄫㄍㄧㄊㄌㄧㄜ</rt></ruby> "England (dated)"
 - <ruby>[[吉林]]<rt>ㄍㄧㄊㄌㄧㄇ</rt></ruby> "Jilin"

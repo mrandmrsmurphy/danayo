@@ -37,7 +37,7 @@ stand_in: 双
 aliases:
   - 雙
 注音: ㄙ⺢ㄫ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -45,6 +45,7 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 双.
 >For the word, see [双](../words/双.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -54,12 +55,15 @@ boundedness: 90
 - [SKIP-1-2-2](../lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 2183rd most used character in Classical Chinese (ranking lists the traditional form 雙). Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 江|ɣʌŋ]] → [ㄙ⺢ㄫ](../syllables/ㄙ⺢ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[双]]<rt>ㄙ⺢ㄫ</rt></ruby> "pair; double; twin; even" (stand-in for 双)
 - <ruby>[[無双]]<rt>ㄇㄜㄙ⺢ㄫ</rt></ruby> "matchless, peerless"
 - <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby> "twins"
 - <ruby>[[双曲線]]<rt>ㄙ⺢ㄫㄎ⼄ㄎㄙ⼶ㄋ</rt></ruby> "hyperbola"
 - <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree, shala"
 - <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
+
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"
