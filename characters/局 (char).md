@@ -30,16 +30,15 @@ danayo_id: 3099
 mc_id: 3117
 graphemic_classification: 句
 stand_in: 局
-aliases:
 注音: ㄍ⼄ㄎ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 局.
->For the word, see [局](words/局.md)
+>For the word, see [局](../words/局.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

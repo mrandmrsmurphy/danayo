@@ -20,7 +20,6 @@ english:
   - several
   - a few
   - some
-  - several
 羅馬字: giǝ
 諺文: "긔"
 joyo_level: "高等"
@@ -33,14 +32,14 @@ stand_in: "幾"
 aliases:
   - 几
 注音: "ㄍㄧㄜ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 幾.
->For the word, see [幾](words/幾.md)
+>For the word, see [幾](../words/幾.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

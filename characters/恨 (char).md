@@ -30,16 +30,15 @@ danayo_id: 3122
 mc_id: 1324
 graphemic_classification: "艮"
 stand_in: "恨"
-aliases:
 注音: "ㄏㄚㄋ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 恨.
->For the word, see [恨](words/恨.md)
+>For the word, see [恨](../words/恨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,4 +51,5 @@ boundedness: 75
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[恨]]<rt>ㄏㄚㄋ</rt></ruby> "hate; grudge" (stand-in for 恨)
 - <ruby>[[仇恨]]<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby> "hatred, enmity"

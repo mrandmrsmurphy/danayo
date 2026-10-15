@@ -35,14 +35,13 @@ aliases:
   - 𤻮
   - 应
 注音: ㄧㄫ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 
 ---
 >[!tip] This is a page about the character 応.
->For the word, see [応](words/応.md)
+>For the word, see [応](../words/応.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -56,9 +55,11 @@ boundedness:
 - For "ought" (in the sense of Mandarin 應該) use [[該]] as an SFP instead.
 
 ## Words
+- <ruby>[[応]]<rt>ㄧㄫ</rt></ruby> "respond; reply" (stand-in for 応)
 - <ruby>[[適応]]<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation; to adapt"
 - <ruby>[[反応]]<rt>ㄆㄛㄋ·ㄧㄫ</rt></ruby> "react, respond"
 - <ruby>[[対応]]<rt>ㄉㄛㄧㄧㄫ</rt></ruby> "correspond with, respond to"
+- <ruby>[[報応]]<rt>ㄅㄚㄨ·ㄧㄫ</rt></ruby> "retribution; karma"
 - <ruby>[[応訊]]<rt>ㄧㄫㄙㄧㄋ</rt></ruby> "question, subpoena"
 
 ## Chengyu

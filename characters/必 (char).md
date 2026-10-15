@@ -29,16 +29,15 @@ danayo_id: 3115
 mc_id: 79
 graphemic_classification: 象形
 stand_in: 必
-aliases:
 注音: ㄅㄧㄊ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 必.
->For the word, see [必](words/必.md)
+>For the word, see [必](../words/必.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +50,7 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[必]]<rt>ㄅㄧㄊ</rt></ruby> "surely; definitely" (stand-in for 必)
 - <ruby>[[必須]]<rt>ㄅㄧㄊㄙㄨ</rt></ruby> "be essential, be a must"
 - <ruby>[[必要]]<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby> "necessary, essential"
 - <ruby>[[必然]]<rt>ㄅㄧㄊㄋ⼶ㄋ</rt></ruby> "inevitable, certain"
@@ -64,4 +64,3 @@ boundedness: 80
 - <ruby>[[瑟 (char)|瑟]]<rt>ㄙㄜㄊ</rt></ruby> "se (instrument)"
 - <ruby>[[泌]]<rt>ㄅㄧㄊ</rt></ruby> "secrete"
 - <ruby>[[秘]]<rt>ㄅㄧㄜ</rt></ruby> "secret, mysterious"
-- <ruby>[[謐]]<rt>ㄇㄧㄊ</rt></ruby> "calm, quiet, still"

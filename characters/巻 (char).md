@@ -32,17 +32,18 @@ aliases:
   - 卷
   - 捲
 注音: ㄍ⼔ㄋ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
-boundedness:
 ---
 >[!tip] This is a page about the character 巻.
->For the word, see [巻](words/巻.md)
+>For the word, see [巻](../words/巻.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kronʔ, traditional form 卷): semantic 卩 ("kneeling person," bending) + phonetic 龹 (originally 𢍏, "rolling rice into balls" — itself contributing to the "bending" sense) — to roll; to roll up.
 - [SKIP-2-6-3](lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
@@ -55,7 +56,6 @@ boundedness:
 - <ruby>[[龍巻]]<rt>ㄌ⼄ㄫㄍ⼔ㄋ</rt></ruby> "twister"
 
 ## Derived Characters
-- <ruby>[[券 (char)|券]]<rt>ㄎㄛㄋ</rt></ruby> "bond; certificate"
 - <ruby>[[圏 (char)|圏]]<rt>ㄍ⼔ㄋ</rt></ruby> "encircled area"
 - <ruby>[[倦]]<rt>ㄍ⼔ㄋ</rt></ruby> "weary; tired of"
 - <ruby>[[拳]]<rt>ㄍ⼔ㄋ</rt></ruby> "fist"

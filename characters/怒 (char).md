@@ -30,9 +30,8 @@ danayo_id: 3120
 mc_id: 400
 graphemic_classification: "奴"
 stand_in: "怒"
-aliases:
 注音: "ㄋㄛ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
@@ -44,6 +43,7 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *naːʔ, *naːs): semantic [[Radical 061|心]] ("heart") + phonetic [[奴]] ("slave," OC *naː) — angry.
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
@@ -51,6 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[怒]]<rt>ㄋㄛ</rt></ruby> "angry" (stand-in for 怒)
 - <ruby>[[怒気]]<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby> "anger"
 - <ruby>[[憤怒]]<rt>ㄅㄨㄋㄋㄛ</rt></ruby> "indignant, angry"
 - <ruby>[[暴怒]]<rt>ㄅㄛㄎㄋㄛ</rt></ruby> "rage"

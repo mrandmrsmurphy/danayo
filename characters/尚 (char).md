@@ -33,14 +33,14 @@ stand_in: 尚
 aliases:
   - 尙
 注音: ㄙ⼘ㄫ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 尚.
->For the word, see [尚](words/尚.md)
+>For the word, see [尚](../words/尚.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -60,7 +60,6 @@ boundedness: 80
 
 ## Derived Characters
 - <ruby>[[当 (char)|当]]<rt>ㄉㄚㄫ</rt></ruby> "while"
-- <ruby>[[賞 (char)|賞]]<rt>ㄙ⼘ㄫ</rt></ruby> "reward"
 - <ruby>[[党]]<rt>ㄉㄚㄫ</rt></ruby> "political party"
 - <ruby>[[嘗]]<rt>ㄙ⼘ㄫ</rt></ruby> "taste; experience"
 - <ruby>[[堂]]<rt>ㄉㄚㄫ</rt></ruby> "meeting hall"
