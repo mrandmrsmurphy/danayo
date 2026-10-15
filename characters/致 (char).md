@@ -28,14 +28,14 @@ mc_id: 363
 graphemic_classification: 至
 stand_in: 致
 注音: ㄑㄧㄜ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 40
 ---
 >[!tip] This is a page about the character 致.
->For the word, see [致](words/致.md)
+>For the word, see [致](../words/致.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

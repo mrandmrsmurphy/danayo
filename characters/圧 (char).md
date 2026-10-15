@@ -33,14 +33,14 @@ aliases:
   - 壓
   - 压
 注音: ㄚㄊ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
-boundedness: 
 ---
 >[!tip] This is a page about the character 圧.
 >For the word, see [圧](../words/圧.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -50,5 +50,7 @@ boundedness:
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 3189th most used character in Classical Chinese (ranking lists the traditional form 壓). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄚㄊ](../syllables/ㄚㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
 ## Words
+- <ruby>[[圧]]<rt>ㄚㄊ</rt></ruby> "press; control" (stand-in for 圧)
 - <ruby>[[弾圧]]<rt>ㄉㄚㄋ·ㄚㄊ</rt></ruby> "subjugate, repress"

@@ -29,19 +29,20 @@ danayo_id: 3229
 mc_id: 1457
 graphemic_classification: "象形"
 stand_in: "舌"
-aliases:
 注音: "ㄙㄝㄊ"
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 35
 ---
 >[!tip] This is a page about the character 舌.
->For the word, see [舌](words/舌.md)
+>For the word, see [舌](../words/舌.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): a snake's tongue emerging upwards from a mouth ([[口]]) — oracle-bone script showed a mouth plus a forked snake tongue, later variants adding a horizontal stroke at the base that often evolved into a second fork (double-forked).
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))

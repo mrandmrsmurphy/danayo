@@ -35,14 +35,14 @@ stand_in: 脱
 aliases:
   - 脫
 注音: ㄉ⺢ㄊ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 脱.
->For the word, see [脱](words/脱.md)
+>For the word, see [脱](../words/脱.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
