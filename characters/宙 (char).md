@@ -26,16 +26,15 @@ danayo_id: 3084
 mc_id: 3286
 graphemic_classification: "由"
 stand_in: "宙"
-aliases:
 注音: "ㄐㄨㄛ"
-date-last-perfect: 2026-07-27
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 宙.
->For the word, see [宙](words/宙.md)
+>For the word, see [宙](../words/宙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

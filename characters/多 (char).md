@@ -26,9 +26,8 @@ danayo_id: 84
 mc_id: 137
 graphemic_classification: 会意
 stand_in: 多
-aliases:
 注音: ㄉㄜ
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
@@ -39,6 +38,7 @@ boundedness: 70
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: originally two pieces of [[肉 (char)|肉]] ("meat") — abundance of meat suggesting plenty. In the bronze script, 肉 was visually corrupted into [[Radical 036|夕]] ("evening") due to their graphic similarity, making 多 look like a duplication of 夕 instead; this corrupted form was inherited in all later scripts.
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
@@ -62,7 +62,7 @@ boundedness: 70
 - <ruby>[[多彩]]<rt>ㄉㄜㄑㄚㄧ</rt></ruby> "multicolored; vibrant"
 - <ruby>[[多辺]]<rt>ㄉㄜㄅㄝㄋ</rt></ruby> "multilateral; many-sided"
 - <ruby>[[加多]]<rt>ㄍㄚㄉㄜ</rt></ruby> "to add; to augment; to increase"
-- <ruby>[[加多金]]<rt>ㄍㄚㄉㄚㄍㄧㄇ</rt></ruby> "gadolinium" — a phonosemantic coinage (加多 approximates "gado-", 多 also contributing "many, more")
+- <ruby>[[加多金]]<rt>ㄍㄚㄉㄜㄍㄧㄇ</rt></ruby> "gadolinium" — a phonosemantic coinage (加多 approximates "gado-", 多 also contributing "many, more")
 
 ## Chengyu
 - <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"

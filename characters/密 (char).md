@@ -31,20 +31,20 @@ danayo_id: 3088
 mc_id: 1125
 graphemic_classification: "宓"
 stand_in: "密"
-aliases:
 注音: "ㄇㄧㄊ"
-date-last-perfect: 2026-07-27
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 密.
->For the word, see [密](words/密.md)
+>For the word, see [密](../words/密.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*mriɡ): semantic [[山 (char)|山]] ("mountain") + phonetic 宓 (OC \*mriɡ) — hidden in the mountains: secret, intimate. (宓 has no character page in this vault; the character's own Kangxi indexing radical, `宀`, is embedded inside 宓 rather than being the semantic component here.)
 - [SKIP-2-3-8](lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))

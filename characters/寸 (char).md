@@ -32,22 +32,23 @@ danayo_id: 3091
 mc_id: 666
 graphemic_classification: "指事"
 stand_in: "寸"
-aliases:
 注音: "ㄑㄛㄋ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 寸.
->For the word, see [寸](words/寸.md)
->For the radical see [Radical 041](../lookup/Radicals/Radical%20041.md)
+>For the word, see [寸](../words/寸.md)
+>For the radical, see [Radical 041](../lookup/Radicals/Radical%20041.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 指事](../lookup/List%20of%20指事.md): a mark below 又/手 ("hand") indicating the pulse-point on the wrist, one 寸 (inch) inward from the palm — per Shuowen, "a position on the forearm where the pulse can be palpated."
+- [List of 指事](lookup/List%20of%20指事.md): a mark below 又/手 ("hand") indicating the pulse-point on the wrist, one 寸 (inch) inward from the palm — per Shuowen, "a position on the forearm where the pulse can be palpated."
 - [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
 - 666th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄑㄛㄋ](syllables/ㄑㄛㄋ.md)
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)

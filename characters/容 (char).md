@@ -36,16 +36,15 @@ danayo_id: 3087
 mc_id: 553
 graphemic_classification: "谷"
 stand_in: "容"
-aliases:
 注音: "⼄ㄫ"
-date-last-perfect: 2026-07-27
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 容.
->For the word, see [容](words/容.md)
+>For the word, see [容](../words/容.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
