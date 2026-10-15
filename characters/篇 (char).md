@@ -27,16 +27,15 @@ danayo_id: 3213
 mc_id: 819
 graphemic_classification: 扁
 stand_in: 篇
-aliases:
 注音: ㄆ⼶ㄋ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 篇.
->For the word, see [篇](words/篇.md)
+>For the word, see [篇](../words/篇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,10 +49,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[篇]]<rt>ㄆ⼶ㄋ</rt></ruby> "article, piece of writing" (stand-in for 篇)
-
-## Derived Characters
-- <ruby>[[偏 (char)|偏]]<rt>ㄆ⼶ㄋ</rt></ruby> "slanted; inclined"
-- <ruby>[[騙 (char)|騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive; defraud"
-- <ruby>[[遍 (char)|遍]]<rt>ㄅㄝㄋ</rt></ruby> "ubiquitous"
-- <ruby>[[蝙]]<rt>ㄅㄝㄋ</rt></ruby> "bat"
-- <ruby>[[編]]<rt>ㄅ⼶ㄋ</rt></ruby> "compile; edit"
+- <ruby>[[詩篇]]<rt>ㄙㄧ·ㄆ⼶ㄋ</rt></ruby> "poem; psalm"

@@ -30,16 +30,15 @@ danayo_id: 3207
 mc_id: 482
 graphemic_classification: 畐
 stand_in: 福
-aliases:
 注音: ㄈㄨㄎ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 福.
->For the word, see [福](words/福.md)
+>For the word, see [福](../words/福.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +51,7 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[福]]<rt>ㄈㄨㄎ</rt></ruby> "bless" (stand-in for 福)
 - <ruby>[[幸福]]<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby> "happy; blessed"
 - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby> "welfare; well-being"
 - <ruby>[[艶福]]<rt>⼶ㄇㄈㄨㄎ</rt></ruby> "success in love"
@@ -60,11 +60,3 @@ boundedness: 80
 - <ruby>[[福島]]<rt>ㄈㄨㄎㄊㄚㄨ</rt></ruby> "Fukushima Prefecture"
 - <ruby>[[福井]]<rt>ㄈㄨㄎㄐㄧㄫ</rt></ruby> "Fukui Prefecture"
 - <ruby>[[福岡]]<rt>ㄈㄨㄎㄍㄚㄫ</rt></ruby> "Fukuoka Prefecture"
-
-## Derived Characters
-- <ruby>[[副 (char)|副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-"
-- <ruby>[[幅]]<rt>ㄈㄨㄎ</rt></ruby> "breadth; width"
-- <ruby>[[蝠]]<rt>ㄈㄨㄎ</rt></ruby> "bat"
-- <ruby>[[富]]<rt>ㄈㄨㄛ</rt></ruby> "abundance"
-- <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby> "compel; force"
-- <ruby>[[偪]]<rt>ㄆㄧㄆ</rt></ruby> "press; compel"

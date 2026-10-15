@@ -35,7 +35,7 @@ stand_in: 伏
 aliases:
   - 鮲
 注音: ㄅㄨㄎ
-date-last-perfect: 2026-07-30
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
@@ -43,14 +43,17 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 伏.
 >For the word, see [伏](../words/伏.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[Radical 009|人]] ("person") and [[Radical 094|犬]] ("dog") — a person adopting the position of a dog: to lie prostrate, to crouch.
 - [SKIP-1-2-4](../lookup/SKIP/SKIP-1/SKIP-1-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 561st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄅㄨㄎ](../syllables/ㄅㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[伏]]<rt>ㄅㄨㄎ</rt></ruby> "crouch; prostrate; surrender" (stand-in for 伏)
 - <ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "hide, lurk, lie low"
