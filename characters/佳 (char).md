@@ -33,14 +33,14 @@ graphemic_classification: 圭
 stand_in: 佳
 aliases:
 注音: ㄍ⼘ㄧ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 佳.
->For the word, see [佳](words/佳.md)
+>For the word, see [佳](../words/佳.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -58,16 +58,3 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[佳人薄命]]<rt>ㄍ⼘ㄧㄋㄧㄋㄅㄚㄎㄇ⼶ㄫ</rt></ruby> "a fair lady's destiny is thin indeed; whom the gods love die young"
-
-## Derived Characters
-- <ruby>[[卦 (char)|卦]]<rt>ㄍ⺢ㄧ</rt></ruby> "trigram"
-- <ruby>[[哇 (char)|哇]]<rt>⺢ㄨ</rt></ruby> "wow"
-- <ruby>[[鞋 (char)|鞋]]<rt>ㄏ⼘ㄧ</rt></ruby> "shoe"
-- <ruby>[[娃]]<rt>⼘ㄧ</rt></ruby> "beautiful; doll"
-- <ruby>[[桂]]<rt>ㄍ⼔ㄧ</rt></ruby> "cinnamon; cassia"
-- <ruby>[[街]]<rt>ㄍ⼘ㄧ</rt></ruby> "street; road; thoroughfare"
-- <ruby>[[掛 (char)|掛]]<rt>ㄍ⺢ㄧ</rt></ruby> "hang; suspend"
-- <ruby>[[厓]]<rt>⺢ㄧ</rt></ruby> "precipice; cliff"
-- <ruby>[[蛙]]<rt>⺢</rt></ruby> "frog"
-- <ruby>[[閨]]<rt>ㄍㄨㄧ</rt></ruby> "women's bedroom"
-- <ruby>[[硅]]<rt>ㄍ⼜ㄎ</rt></ruby> "silicon"

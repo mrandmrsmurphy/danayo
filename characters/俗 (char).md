@@ -29,14 +29,14 @@ graphemic_classification: "谷"
 stand_in: "俗"
 aliases:
 注音: "ㄙㄛㄎ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 俗.
->For the word, see [俗](words/俗.md)
+>For the word, see [俗](../words/俗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,9 +52,3 @@ boundedness: 90
 - <ruby>[[俗]]<rt>ㄙㄛㄎ</rt></ruby> "vulgar"
 - <ruby>[[習俗]]<rt>ㄙㄧㄆㄙㄛㄎ</rt></ruby> "custom; mores; convention; cultural practices"
 - <ruby>[[世俗]]<rt>ㄙㄝㄙㄛㄎ</rt></ruby> "worldly, secular, mundane"
-
-## Derived Characters
-- <ruby>[[浴]]<rt>⼄ㄎ</rt></ruby> "bathe"
-- <ruby>[[容 (char)|容]]<rt>⼄ㄫ</rt></ruby> "look; appearance; form"
-- <ruby>[[欲]]<rt>⼄ㄎ</rt></ruby> "desire; want"
-- <ruby>[[裕]]<rt>⼜</rt></ruby> "abundant; rich"

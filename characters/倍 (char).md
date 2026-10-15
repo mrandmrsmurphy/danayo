@@ -31,16 +31,15 @@ danayo_id: 3021
 mc_id: 997
 graphemic_classification: "咅"
 stand_in: "倍"
-aliases:
 注音: "ㄅㄚㄧ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 倍.
->For the word, see [倍](words/倍.md)
+>For the word, see [倍](../words/倍.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,12 +52,4 @@ boundedness: 80
 - [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[倍]]<rt>ㄅㄚㄧ</rt></ruby> "times"
-
-## Derived Characters
-- <ruby>[[剖]]<rt>ㄈㄛㄨ</rt></ruby> "dissect; bisect"
-- <ruby>[[培]]<rt>ㄈㄛㄧ</rt></ruby> "cultivate"
-- <ruby>[[菩]]<rt>ㄅㄛ</rt></ruby> "bodhisattva"
-- <ruby>[[部 (char)|部]]<rt>ㄅㄛㄨ</rt></ruby> "part"
-- <ruby>[[陪 (char)|陪]]<rt>ㄅㄛㄧ</rt></ruby> "accompany; be with; keep company"
-- <ruby>[[賠]]<rt>ㄅㄛㄧ</rt></ruby> "indemnify; pay damages"
+- <ruby>[[倍]]<rt>ㄅㄚㄧ</rt></ruby> "times" (stand-in for 倍)
