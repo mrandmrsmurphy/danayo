@@ -38,16 +38,15 @@ danayo_id: 4079
 mc_id: 1673
 graphemic_classification: 奇
 stand_in: 寄
-aliases:
 注音: ㄍㄨㄧ
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 寄.
->For the word, see [寄](words/寄.md)
+>For the word, see [寄](../words/寄.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -60,5 +59,6 @@ boundedness: 50
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[寄]]<rt>ㄍㄨㄧ</rt></ruby> "approach; send; rely on" (stand-in for 寄)
 - <ruby>[[寄宿]]<rt>ㄍㄨㄧㄙㄨㄎ</rt></ruby> "lodge, board, rent"
 - <ruby>[[寄宿舎]]<rt>ㄍㄨㄧㄙㄨㄎㄙ⼘</rt></ruby> "boarding house, dormitory"

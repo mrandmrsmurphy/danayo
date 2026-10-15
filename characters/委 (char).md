@@ -36,13 +36,13 @@ stand_in: "委"
 aliases:
 注音: "⼔ㄧ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 95
 ---
 >[!tip] This is a page about the character 委.
->For the word, see [委](words/委.md)
+>For the word, see [委](../words/委.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,6 +55,7 @@ boundedness: 95
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[委]]<rt>⼔ㄧ</rt></ruby> "appoint; send; commission" (stand-in for 委)
 - <ruby>[[委託]]<rt>⼔ㄧㄊㄚㄎ</rt></ruby> "entrust, trust"
 
 ## Derived Characters

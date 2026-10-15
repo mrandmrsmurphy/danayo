@@ -40,13 +40,13 @@ aliases:
   - 㒱
 注音: "ㄇㄨㄫ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 夢.
->For the word, see [夢](words/夢.md)
+>For the word, see [夢](../words/夢.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -59,5 +59,6 @@ boundedness: 50
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby> "dream" (stand-in for 夢)
 - <ruby>[[夢嫌]]<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby> "nightmare"
 - <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby> "daydream"

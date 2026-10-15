@@ -28,16 +28,15 @@ danayo_id: 4074
 mc_id: 225
 graphemic_classification: "会意"
 stand_in: "孝"
-aliases:
 注音: "ㄏ⼘ㄨ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 孝.
->For the word, see [孝](words/孝.md)
+>For the word, see [孝](../words/孝.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,6 +49,7 @@ boundedness: 75
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[孝]]<rt>ㄏ⼘ㄨ</rt></ruby> "filial piety" (stand-in for 孝)
 - <ruby>[[孝弟]]<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby> "filial piety and fraternal duty"
 - <ruby>[[孝道]]<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby> "filial piety; filial duty"
 - <ruby>[[孝廉]]<rt>ㄏ⼘ㄨㄌ⼶ㄇ</rt></ruby> "filial and incorrupt"

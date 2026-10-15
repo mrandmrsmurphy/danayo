@@ -29,16 +29,15 @@ danayo_id: 4080
 mc_id: 175
 graphemic_classification: 丰
 stand_in: "封"
-aliases:
 注音: "ㄈㄛㄫ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 封.
->For the word, see [封](words/封.md)
+>For the word, see [封](../words/封.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +50,7 @@ boundedness: 90
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[封]]<rt>ㄈㄛㄫ</rt></ruby> "seal; enfeoff" (stand-in for 封)
 - <ruby>[[封印]]<rt>ㄈㄛㄫㄧㄋ</rt></ruby> "seal; stamp"
 
 ## Derived Characters
