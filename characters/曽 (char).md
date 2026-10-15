@@ -33,14 +33,13 @@ stand_in: 曽
 aliases:
   - 曾
 注音: ㄐㄜㄫ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 tags:
   - character
 kwin: true
-boundedness: 
 ---
 >[!tip] This is a page about the character 曽.
->For the word, see [曽](words/曽.md)
+>For the word, see [曽](../words/曽.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,6 +52,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[曽]]<rt>ㄐㄜㄫ</rt></ruby> "great-" (stand-in for 曽)
 - <ruby>[[曽子]]<rt>ㄐㄜㄫㄐㄜ</rt></ruby> "Zengzi"
 
 ## Derived Characters

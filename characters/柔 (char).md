@@ -29,16 +29,15 @@ danayo_id: 3163
 mc_id: 983
 graphemic_classification: "矛"
 stand_in: "柔"
-aliases:
 注音: "ㄋ⼜"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 柔.
->For the word, see [柔](words/柔.md)
+>For the word, see [柔](../words/柔.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +50,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby> "tender; soft; weak" (stand-in for 柔)
 - <ruby>[[柔軟]]<rt>ㄋ⼜·ㄋㄝㄋ</rt></ruby> "soft, pliable, weak"
 - <ruby>[[柔道]]<rt>ㄋ⼜ㄉㄚㄨ</rt></ruby> "judo"
 - <ruby>[[温柔]]<rt>ㄛㄆㄋ⼜</rt></ruby> "gentle, loving, sweet"

@@ -33,14 +33,13 @@ aliases:
   - 樣
   - 样
 注音: ⼘ㄫ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
-boundedness: 
 ---
 >[!tip] This is a page about the character 様.
->For the word, see [様](words/様.md)
+>For the word, see [様](../words/様.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,6 +52,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[様]]<rt>⼘ㄫ</rt></ruby> "-ly (adverbializer)" (stand-in for 様)
 
 ### Correlatives
 - <ruby>[[此様]]<rt>ㄑㄜ⼘ㄫ</rt></ruby> "this way, like this"

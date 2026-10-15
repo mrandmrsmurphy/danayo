@@ -26,16 +26,15 @@ danayo_id: 3164
 mc_id: 1513
 graphemic_classification: "卯"
 stand_in: "柳"
-aliases:
 注音: "ㄌ⼜"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 柳.
->For the word, see [柳](words/柳.md)
+>For the word, see [柳](../words/柳.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,4 +47,5 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby> "willow" (stand-in for 柳)
 - <ruby>[[楊柳]]<rt>⼘ㄫㄌ⼜</rt></ruby> "willow tree"
