@@ -36,14 +36,14 @@ graphemic_classification: "旦"
 stand_in: "但"
 aliases:
 注音: "ㄉㄚㄋ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 但.
->For the word, see [但](words/但.md)
+>For the word, see [但](../words/但.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -58,10 +58,3 @@ boundedness: 75
 ## Words
 - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby> "but; however"
 - <ruby>[[不但]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "not only"
-
-## Derived Characters
-- <ruby>[[曇 (char)|曇]]<rt>ㄉㄚㄇ</rt></ruby> "overcast"
-- <ruby>[[亶]]<rt>ㄉㄚㄋ</rt></ruby> "sincere; real"
-- <ruby>[[担]]<rt>ㄉㄚㄇ</rt></ruby> "shoulder; carry; bear"
-- <ruby>[[胆]]<rt>ㄉㄚㄇ</rt></ruby> "gall bladder; bravery"
-- <ruby>[[坦]]<rt>ㄊㄚㄋ</rt></ruby> "flat; level"

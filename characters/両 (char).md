@@ -37,14 +37,14 @@ aliases:
   - 魎
   - 魉
 注音: ㄌ⼘ㄫ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 tags:
   - character
 kwin: true
 boundedness: 90
 ---
 >[!tip] This is a page about the character 両.
->For the word, see [両](words/両.md)
+>For the word, see [両](../words/両.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

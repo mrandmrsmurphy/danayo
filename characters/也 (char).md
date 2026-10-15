@@ -33,14 +33,14 @@ graphemic_classification: 象形
 stand_in: 也
 aliases:
 注音: ⼘
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 也.
->For the word, see [也](words/也.md)
+>For the word, see [也](../words/也.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

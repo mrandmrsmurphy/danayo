@@ -31,14 +31,14 @@ graphemic_classification: "象形"
 stand_in: "丙"
 aliases:
 注音: "ㄅ⼶ㄫ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 丙.
->For the word, see [丙](words/丙.md)
+>For the word, see [丙](../words/丙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
