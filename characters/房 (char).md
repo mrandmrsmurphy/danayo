@@ -28,16 +28,15 @@ danayo_id: 3133
 mc_id: 980
 graphemic_classification: "方"
 stand_in: "房"
-aliases:
 注音: "ㄅㄚㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 房.
->For the word, see [房](words/房.md)
+>For the word, see [房](../words/房.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,6 +49,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[房]]<rt>ㄅㄚㄫ</rt></ruby> "room" (stand-in for 房)
 - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> "house, room, apartment"
 - <ruby>[[厨房]]<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby> "kitchen"
 - <ruby>[[書房]]<rt>ㄙ⼄ㄅㄚㄫ</rt></ruby> "study (room), library"

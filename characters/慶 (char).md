@@ -32,14 +32,14 @@ stand_in: "慶"
 aliases:
   - 庆
 注音: "ㄎ⼶ㄫ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 慶.
->For the word, see [慶](words/慶.md)
+>For the word, see [慶](../words/慶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +52,7 @@ boundedness: 65
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[慶]]<rt>ㄎ⼶ㄫ</rt></ruby> "congratulate; celebrate" (stand-in for 慶)
 - <ruby>[[慶祝]]<rt>ㄎ⼶ㄫㄐㄨㄎ</rt></ruby> "celebrate"
 - <ruby>[[慶尚]]<rt>ㄎ⼶ㄫㄙ⼘ㄫ</rt></ruby> "Gyeongsang"
 - <ruby>[[重慶]]<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby> "Chongqing"

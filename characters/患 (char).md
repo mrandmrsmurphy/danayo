@@ -27,16 +27,15 @@ danayo_id: 3125
 mc_id: 446
 graphemic_classification: "串"
 stand_in: "患"
-aliases:
 注音: "ㄏ⺢ㄇ"
-date-last-perfect: 2026-07-28
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 患.
->For the word, see [患](words/患.md)
+>For the word, see [患](../words/患.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,6 +48,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[患]]<rt>ㄏ⺢ㄇ</rt></ruby> "suffer from" (stand-in for 患)
 - <ruby>[[罹患]]<rt>ㄌㄧㄏ⼘ㄋ</rt></ruby> "suffer from, contract"
 
 ## Chengyu

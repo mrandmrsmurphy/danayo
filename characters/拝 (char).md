@@ -30,14 +30,13 @@ stand_in: 拝
 aliases:
   - 拜
 注音: ㄅ⼶
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
-boundedness: 
 ---
 >[!tip] This is a page about the character 拝.
->For the word, see [拝](words/拝.md)
+>For the word, see [拝](../words/拝.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,6 +49,7 @@ boundedness:
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[拝]]<rt>ㄅ⼶</rt></ruby> "bow; kowtow" (stand-in for 拝)
 - <ruby>[[礼拝]]<rt>ㄌㄝㄧㄅ⼶</rt></ruby> "worship service, religious worship"
 - <ruby>[[崇拝]]<rt>ㄐㄨㄫㄅ⼶</rt></ruby> "worship, adore"
 - <ruby>[[参拝]]<rt>ㄙㄚㄇㄅ⼶</rt></ruby> "visit temple, pay respects at a shrine"

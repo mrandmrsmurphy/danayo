@@ -30,16 +30,15 @@ danayo_id: 3134
 mc_id: 1034
 graphemic_classification: "夫"
 stand_in: "扶"
-aliases:
 注音: "ㄅㄨ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 扶.
->For the word, see [扶](words/扶.md)
+>For the word, see [扶](../words/扶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,3 +49,6 @@ boundedness: 80
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1034th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄅㄨ](../syllables/ㄅㄨ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[扶]]<rt>ㄅㄨ</rt></ruby> "hold on to for support" (stand-in for 扶)
