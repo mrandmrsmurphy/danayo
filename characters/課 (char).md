@@ -35,7 +35,7 @@ stand_in: "課"
 aliases:
   - 课
 注音: "ㄎ⺢ㄇ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
@@ -47,6 +47,7 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʰloːl, \*kʰloːls): semantic [[Radical 149|言]] ("to say") + phonetic [[果]] (OC \*kloːlʔ) — to assess; to examine.
 - [SKIP-1-7-8](lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
@@ -55,4 +56,4 @@ boundedness: 90
 - pronunciation altered to get a free syllable
 
 ## Words
-- <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter" (stand-in for 課 (char))
+- <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter" (stand-in for 課)

@@ -38,14 +38,14 @@ stand_in: "退"
 aliases:
   - 頽
 注音: "ㄊㄧㄜ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 退.
->For the word, see [退](words/退.md)
+>For the word, see [退](../words/退.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

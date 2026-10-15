@@ -29,20 +29,20 @@ danayo_id: 2247
 mc_id: 752
 graphemic_classification: 𠂤
 stand_in: 追
-aliases:
 注音: ㄊㄨㄧ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 追.
->For the word, see [追](words/追.md)
+>For the word, see [追](../words/追.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*tul, \*truj): semantic [[Radical 162|辵]] ("movement") + phonetic 𠂤 (duī, "mound," no vault page — not to be confused with the derived character [[堆]], itself built from 土+𠂤) — to chase, pursue.
 - [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
