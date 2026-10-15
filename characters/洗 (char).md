@@ -32,16 +32,15 @@ danayo_id: 2156
 mc_id: 1307
 graphemic_classification: 先
 stand_in: 洗
-aliases:
 注音: ㄙㄝㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 tags:
   - character
 kwin: true
 boundedness: 65
 ---
 >[!tip] This is a page about the character 洗.
->For the word, see [洗](words/洗.md)
+>For the word, see [洗](../words/洗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

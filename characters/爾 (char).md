@@ -35,17 +35,19 @@ aliases:
   - 邇
   - 尔
 注音: "ㄋㄝ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 爾.
->For the word, see [爾](words/爾.md)
+>For the word, see [爾](../words/爾.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md): cloth on a loom with threads crossing — the original form of 檷 ("loom"); phonetically borrowed for 爾 ("you").
 - [SKIP-4-14-1](lookup/SKIP/SKIP-4/SKIP-4-14-1.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
@@ -60,5 +62,6 @@ boundedness: 90
 - <ruby>[[呵爾浜]]<rt>ㄏㄚ·ㄋㄝㄅㄧㄋ</rt></ruby> "Harbin"
 
 ## Derived Characters
+- <ruby>[[弥 (char)|弥]]<rt>ㄇㄝ</rt></ruby> "all the more; increasingly"
 - <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> "thou; one's deceased father"
 - <ruby>[[璽]]<rt>ㄙㄝ</rt></ruby> "emperor's seal"

@@ -33,14 +33,14 @@ aliases:
   - 处
   - 處
 注音: ㄑㄛ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 処.
->For the word, see [処](words/処.md)
+>For the word, see [処](../words/処.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,7 +53,7 @@ boundedness: 65
 - [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[処]]<rt>ㄑㄛ</rt></ruby> "place"
+- <ruby>[[処]]<rt>ㄑㄛ</rt></ruby> "place" (stand-in for 処)
 - <ruby>[[一処]]<rt>ㄧㄊㄑㄛ</rt></ruby> "in one place, together"
 - <ruby>[[処女]]<rt>ㄑㄛ·ㄋㄜ</rt></ruby> "virgin, maiden"
 - <ruby>[[処決]]<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby> "handle, resolve, execute"

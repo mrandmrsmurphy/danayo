@@ -29,23 +29,21 @@ danayo_id: 2162
 mc_id: 81
 graphemic_classification: "肰"
 stand_in: "然"
-aliases:
 注音: "ㄋ⼶ㄋ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 然.
->For the word, see [然](words/然.md)
+>For the word, see [然](../words/然.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-
 - 形声: semantic [[Radical 086|火]] ("fire") + phonetic [[肰]] ("dog meat") — "to burn" (the original form of 燃), phonetically borrowed for "so; thus."
 - [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 81st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄋ⼶ㄋ](syllables/ㄋ⼶ㄋ.md)

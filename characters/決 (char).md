@@ -34,18 +34,19 @@ aliases:
   - 夬
   - 蹶
 注音: "ㄎ⼔ㄊ"
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 決.
->For the word, see [決](words/決.md)
+>For the word, see [決](../words/決.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kʷeːd, \*qʰʷeːd): semantic [[Radical 085|氵]] ("water") + phonetic 夬 (OC \*kʷraːds) — originally "to breach (a dike), to channel water"; extended to "decide."
 - [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))

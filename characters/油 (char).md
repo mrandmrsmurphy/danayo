@@ -28,16 +28,15 @@ danayo_id: 2154
 mc_id: 3745
 graphemic_classification: 由
 stand_in: 油
-aliases:
 注音: ⼜
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 油.
->For the word, see [油](words/油.md)
+>For the word, see [油](../words/油.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

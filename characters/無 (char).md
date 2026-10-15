@@ -32,19 +32,20 @@ aliases:
   - 无
   - 憮
 注音: ㄇㄜ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 無.
->For the word, see [無](words/無.md)
+>For the word, see [無](../words/無.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
 
+## Notes
 - [List of 象形](lookup/List%20of%20象形.md): a person dancing with oxtails held in both hands to pray for rain — the original form of 舞 ("dance"), phonetically borrowed for "not have."
 - [SKIP-2-2-10](lookup/SKIP/SKIP-2/SKIP-2-2-10.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
 - 18th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄇㄜ](syllables/ㄇㄜ.md)

@@ -35,14 +35,14 @@ aliases:
   - 热
   - 烧
 注音: ㄋ⼶ㄊ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 熱.
->For the word, see [熱](words/熱.md)
+>For the word, see [熱](../words/熱.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
