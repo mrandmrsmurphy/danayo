@@ -28,16 +28,15 @@ danayo_id: 2165
 mc_id: 3661
 graphemic_classification: 象形
 stand_in: 片
-aliases:
 注音: ㄆㄝㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 片.
->For the word, see [片](words/片.md)
+>For the word, see [片](../words/片.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,3 +51,7 @@ boundedness: 100
 ## Words
 - <ruby>[[片]]<rt>ㄆㄝㄋ</rt></ruby> "slice; flake" (stand-in for 片)
 - <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby> "katakana"
+
+## Derived Characters
+- <ruby>[[版]]<rt>ㄆㄚㄋ</rt></ruby> "edition; version"
+- <ruby>[[牌 (char)|牌]]<rt>ㄅㄚㄧ</rt></ruby> "playing card; tile"

@@ -34,14 +34,14 @@ aliases:
   - 畱
   - 霤
 注音: ㄌ⼜
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 留.
->For the word, see [留](words/留.md)
+>For the word, see [留](../words/留.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -62,5 +62,6 @@ boundedness: 90
 - <ruby>[[留学生]]<rt>ㄌ⼜ㄏㄚㄎㄙㄚㄫ</rt></ruby> "international student; exchange student"
 
 ## Derived Characters
+- <ruby>[[榴]]<rt>ㄌ⼜</rt></ruby> "pomegranate"
 - <ruby>[[瑠]]<rt>ㄌ⼜</rt></ruby> "lapis lazuli"
 - <ruby>[[溜]]<rt>ㄌ⼜</rt></ruby> "slide; glide"

@@ -34,14 +34,14 @@ stand_in: 番
 aliases:
   - 鄱
 注音: ㄈㄚㄋ
-date-last-perfect: 2026-07-25
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 番.
->For the word, see [番](words/番.md)
+>For the word, see [番](../words/番.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
