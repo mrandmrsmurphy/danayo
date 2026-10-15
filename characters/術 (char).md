@@ -35,10 +35,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 術.
->For the word, see [術](words/術.md)
+>For the word, see [術](../words/術.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 装.
->For the word, see [装](words/装.md)
+>For the word, see [装](../words/装.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

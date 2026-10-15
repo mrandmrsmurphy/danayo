@@ -34,10 +34,10 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 藍.
->For the word, see [藍](words/藍.md)
+>For the word, see [藍](../words/藍.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

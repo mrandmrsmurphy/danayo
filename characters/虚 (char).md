@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 虚.
->For the word, see [虚](words/虚.md)
+>For the word, see [虚](../words/虚.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -58,5 +58,4 @@ date-last-perfect: 2026-08-01
 - <ruby>[[空虚]]<rt>ㄎㄛㄫㄏ⼄</rt></ruby> "empty"
 
 ## Derived Characters
-- <ruby>[[戯]]<rt>ㄏㄨㄧ</rt></ruby> "play, trick"
 - <ruby>[[墟]]<rt>ㄎ⼄</rt></ruby> "ruins, wasteland"
