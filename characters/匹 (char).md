@@ -35,14 +35,14 @@ stand_in: "匹"
 aliases:
   - 疋
 注音: "ㄆㄧㄊ"
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 匹.
->For the word, see [匹](words/匹.md)
+>For the word, see [匹](../words/匹.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,9 +55,9 @@ boundedness: 65
 - [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[匹]]<rt>ㄆㄧㄊ</rt></ruby> "animals"
+- <ruby>[[匹]]<rt>ㄆㄧㄊ</rt></ruby> "animals" (stand-in for 匹)
 
 ## Derived Characters
-- <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby> "trumpet"
-- <ruby>[[屑 (char)|屑]]<rt>ㄙㄝㄊ</rt></ruby> "scraps; waste tidbits"
-- <ruby>[[穴]]<rt>ㄏ⼔ㄊ</rt></ruby> "cave"
+- <ruby>[[楚]]<rt>ㄑㄛ</rt></ruby> "clear"
+- <ruby>[[疎]]<rt>ㄙㄜ</rt></ruby> "loose; neglect"
+- <ruby>[[胥]]<rt>ㄙ⼄</rt></ruby> "mutually"

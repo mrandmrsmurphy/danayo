@@ -7,7 +7,8 @@ japanese:
   - GEN
   - GON
 japanese_native: おごそ
-vietnamese: nghiêm
+vietnamese:
+  - nghiêm
 middle_chinese_initial: ŋ
 middle_chinese_final: ɨɐm
 stroke_count: 17
@@ -35,7 +36,7 @@ aliases:
   - 儼
   - 𠑊
 注音: ⼄ㄇ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
@@ -47,6 +48,7 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ŋam): semantic 喦/吅 ("talkative," no vault page; simplified to 𭕄 in the shinjitai, the same pattern as 單→単) + phonetic [[敢]] (OC \*klaːmʔ, "daring," retained intact and unchanged in the shinjitai) — the "solemn, stern" sense may be a phonetic-loan development rather than transparent from 敢's own meaning.
 - [SKIP-3-5-12](lookup/SKIP/SKIP-3/SKIP-3-5-12.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
@@ -54,13 +56,9 @@ boundedness:
 - [Grade 3](lookup/Grade%203.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[厳]]<rt>⼄ㄇ</rt></ruby> "strict; rigorous; rigid; stern"
+- <ruby>[[厳]]<rt>⼄ㄇ</rt></ruby> "strict; rigorous; rigid; stern" (stand-in for 厳)
 - <ruby>[[厳然]]<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby> "solemn; dignified" (alias: 儼然)
 - <ruby>[[厳粛]]<rt>⼄ㄇㄙㄨㄎ</rt></ruby> "solemn; austere; grave"
 - <ruby>[[厳重]]<rt>⼄ㄇㄑㄛㄫ</rt></ruby> "serious, rigorous"
 - <ruby>[[厳禁]]<rt>⼄ㄇㄍㄧㄇ</rt></ruby> "strictly forbidden; strictly prohibit"
 - <ruby>[[尊厳]]<rt>ㄐㄛㄋ·⼄ㄇ</rt></ruby> "dignity; sanctity"
-
-## Derived Characters
-- <ruby>[[橄]]<rt>ㄍㄚㄇ</rt></ruby> "olive"
-- <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby> "look down from a height; overlook; survey"

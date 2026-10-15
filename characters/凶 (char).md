@@ -31,7 +31,7 @@ stand_in: 凶
 aliases:
   - 兇
 注音: ㄏ⼜ㄫ
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
@@ -39,10 +39,12 @@ tags:
 boundedness: 90
 ---
 >[!tip] This is a page about the character 凶.
->For the word, see [凶](words/凶.md)
+>For the word, see [凶](../words/凶.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](lookup/List%20of%20象形.md) (also analyzed as [指事](lookup/List%20of%20指事.md) — Wiktionary presents both as an open dual reading rather than a settled consensus): [[Radical 017|凵]] represents a hole in the ground; 㐅 (no vault page) either — under the 指事 reading — indicates the hole's existence, or — under the 象形 reading — depicts rock, mud, stone, or bamboo inside the hole. Alternately, the glyph may derive from the upper component of 㚇 (no vault page).
 - [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
@@ -50,7 +52,7 @@ boundedness: 90
 - [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[凶]]<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky; calamitous; sinister"
+- <ruby>[[凶]]<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky; calamitous; sinister" (stand-in for 凶)
 - <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> "heinous; atrocious; fiendish"
 - <ruby>[[凶器]]<rt>ㄏ⼜ㄫㄎㄧㄜ</rt></ruby> "murder weapon; lethal weapon; deadly implement"
 - <ruby>[[凶手]]<rt>ㄏ⼜ㄫㄙ⼜</rt></ruby> "murderer; killer; perpetrator of a killing"

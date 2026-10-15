@@ -30,16 +30,15 @@ danayo_id: 3035
 mc_id: 1454
 graphemic_classification: "免"
 stand_in: "勉"
-aliases:
 注音: "ㄇ⼶ㄋ"
-date-last-perfect: 2026-07-26
+date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 勉.
->For the word, see [勉](words/勉.md)
+>For the word, see [勉](../words/勉.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,13 +51,7 @@ boundedness: 75
 - [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[勉]]<rt>ㄇ⼶ㄋ</rt></ruby> "exert; urge"
+- <ruby>[[勉]]<rt>ㄇ⼶ㄋ</rt></ruby> "exert; urge" (stand-in for 勉)
 - <ruby>[[勤勉]]<rt>ㄍㄧㄋㄇ⼶ㄋ</rt></ruby> "hard-working, diligent"
 - <ruby>[[勉励]]<rt>ㄇ⼶ㄋㄌㄝ</rt></ruby> "exhort, urge"
 - <ruby>[[勉強]]<rt>ㄇ⼶ㄋㄍ⼘ㄫ</rt></ruby> "to force to do; to study (Japanese)"
-
-## Derived Characters
-- <ruby>[[晩 (char)|晩]]<rt>ㄇㄛㄋ</rt></ruby> "evening"
-- <ruby>[[冕]]<rt>ㄇ⼶ㄋ</rt></ruby> "crown"
-- <ruby>[[娩]]<rt>ㄇㄚㄋ</rt></ruby> "give birth"
-- <ruby>[[挽]]<rt>ㄇㄛㄋ</rt></ruby> "recover"
