@@ -35,15 +35,17 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 条.
->For the word, see [条](words/条.md)
+>For the word, see [条](../words/条.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声 (OC \*l'ɯːw): semantic [[Radical 075|木]] ("wood") + phonetic 攸 (OC \*lɯw; no character page of its own in this vault) — originally a small branch or wooden stick; extended to the classifier for long, thin objects. **Flagged, not fixed here**: `words/条.md`'s own Notes describe this as "a 會意 compound of 木 (wood) and 夊 (movement)" — Wiktionary gives no such analysis and doesn't mention 夊 at all; likely a conflation with the visually similar 攸 (which itself contains a 夊-like element). Out of scope for this character-page checklist to correct a word file's prose.
+- 形声 (OC \*l'ɯːw): semantic [[Radical 075|木]] ("wood") + phonetic 攸 (OC \*lɯw; no character page of its own in this vault) — originally a small branch or wooden stick; extended to the classifier for long, thin objects.
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1294th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄐㄛ](../syllables/ㄐㄛ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
@@ -54,3 +56,6 @@ date-last-perfect: 2026-07-31
 - <ruby>[[条件]]<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby> "condition, prerequisite"
 - <ruby>[[条約]]<rt>ㄐㄛ⼘ㄎ</rt></ruby> "pact, treaty"
 - <ruby>[[星条旗]]<rt>ㄙㄝㄫㄐㄛ·ㄎㄧ</rt></ruby> "stars and stripes"
+
+## Derived Characters
+- <ruby>[[篠]]<rt>ㄙㄛㄨ</rt></ruby> "dwarf bamboo"

@@ -26,9 +26,8 @@ danayo_id: 4136
 mc_id: 1398
 graphemic_classification: "主"
 stand_in: "柱"
-aliases:
 注音: "ㄐㄨ"
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
@@ -48,6 +47,7 @@ boundedness: 75
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[柱]]<rt>ㄐㄨ</rt></ruby> "pillar" (stand-in for 柱)
 - <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"
 - <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
 - <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"

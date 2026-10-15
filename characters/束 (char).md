@@ -32,21 +32,21 @@ mc_id: 1325
 graphemic_classification: "指事"
 stand_in: "束"
 注音: "ㄙ⼄ㄎ"
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 束.
->For the word, see [束](words/束.md)
+>For the word, see [束](../words/束.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 指事](../lookup/List%20of%20指事.md): a bag tied at both ends (earlier forms often vertically symmetric); to bind, to bundle, and as a measure word, "a bundle of." **Corrected here**: the field was stored as `象形`, but Wiktionary classifies this as 指事, not a pictograph of a physical object.
+- [List of 指事](../lookup/List%20of%20指事.md): a bag tied at both ends (earlier forms often vertically symmetric); to bind, to bundle, and as a measure word, "a bundle of."
 - [SKIP-4-7-3](../lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1325th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄙ⼄ㄎ](../syllables/ㄙ⼄ㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

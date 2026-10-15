@@ -30,16 +30,15 @@ danayo_id: 4138
 mc_id: 2632
 graphemic_classification: "朱"
 stand_in: "株"
-aliases:
 注音: "ㄉㄨ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 株.
->For the word, see [株](words/株.md)
+>For the word, see [株](../words/株.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,7 +51,7 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[株]]<rt>ㄉㄨ</rt></ruby> "stock, root, stump"
+- <ruby>[[株]]<rt>ㄉㄨ</rt></ruby> "stock, root, stump" (stand-in for 株)
 
 ## Chengyu
 - <ruby>[[守株待兎]]<rt>ㄙ⼜ㄉㄨㄉㄚㄧㄊㄛ</rt></ruby> "guarding the stump, waiting for luck to repeat"
