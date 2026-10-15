@@ -32,14 +32,14 @@ aliases:
   - 猷
   - 犹
 注音: ⼜ㄛ
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 猶.
->For the word, see [猶](words/猶.md)
+>For the word, see [猶](../words/猶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,5 +52,6 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[猶]]<rt>⼜ㄛ</rt></ruby> "furthermore; still; yet" (stand-in for 猶)
 - <ruby>[[猶予]]<rt>⼜ㄛ⼄</rt></ruby> "hesitate"
 - <ruby>[[猶太]]<rt>⼜ㄛㄊㄚㄧ</rt></ruby> "Jewish"

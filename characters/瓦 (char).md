@@ -28,16 +28,15 @@ danayo_id: 3194
 mc_id: 1738
 graphemic_classification: 象形
 stand_in: 瓦
-aliases:
 注音: ⺢
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 瓦.
->For the word, see [瓦](words/瓦.md)
+>For the word, see [瓦](../words/瓦.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,6 +47,9 @@ boundedness: 75
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1738th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 麻二合|ɣua]] → [⺢](../syllables/⺢.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Words
+- <ruby>[[瓦]]<rt>⺢</rt></ruby> "tile" (stand-in for 瓦)
 
 ## Derived Characters
 - <ruby>[[佤]]<rt>⺢ㄊ</rt></ruby> "Watt"

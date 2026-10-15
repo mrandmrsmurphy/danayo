@@ -16,7 +16,6 @@ vietnamese:
   - lẫy
   - lẻ
   - lể
-  - lễ
   - lởi
   - lỡi
   - rẽ
@@ -44,14 +43,14 @@ aliases:
   - 禮
   - 𥜪
 注音: "ㄌㄝㄧ"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 礼.
->For the word, see [礼](words/礼.md)
+>For the word, see [礼](../words/礼.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -64,6 +63,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[礼]]<rt>ㄌㄝㄧ</rt></ruby> "manners" (stand-in for 礼)
 - <ruby>[[五礼]]<rt>ㄛㄌㄝㄧ</rt></ruby> "the Five Rites"
 - <ruby>[[聖礼]]<rt>ㄙㄧㄫㄌㄝㄧ</rt></ruby> "sacrament"
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"

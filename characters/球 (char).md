@@ -31,18 +31,19 @@ stand_in: "球"
 aliases:
   - 毬
 注音: "ㄍ⼜"
-date-last-perfect: 2026-07-29
+date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 球.
->For the word, see [球](words/球.md)
+>For the word, see [球](../words/球.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *ɡu): semantic [[Radical 096|玉]] ("jade") + phonetic [[求]] (OC *ɡu, an exact reading match) — originally fine jade or a jade percussion instrument; a sphere, ball.
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
@@ -50,6 +51,7 @@ boundedness: 90
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[球]]<rt>ㄍ⼜</rt></ruby> "sphere; ball" (stand-in for 球)
 
 ### Sports & Games
 - <ruby>[[排球]]<rt>ㄆㄚㄧㄍ⼜</rt></ruby> "volleyball"
