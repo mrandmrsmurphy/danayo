@@ -35,16 +35,15 @@ danayo_id: 4158
 mc_id: 1039
 graphemic_classification: "立"
 stand_in: "泣"
-aliases:
 注音: "ㄎㄧㄆ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 泣.
->For the word, see [泣](words/泣.md)
+>For the word, see [泣](../words/泣.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -57,4 +56,4 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[泣]]<rt>ㄎㄧㄆ</rt></ruby> "cry, sob"
+- <ruby>[[泣]]<rt>ㄎㄧㄆ</rt></ruby> "cry, sob" (stand-in for 泣)

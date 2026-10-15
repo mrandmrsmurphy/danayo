@@ -30,16 +30,15 @@ danayo_id: 4154
 mc_id: 4813
 graphemic_classification: 㕣
 stand_in: 沿
-aliases:
 注音: ⼔ㄇ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 沿.
->For the word, see [沿](words/沿.md)
+>For the word, see [沿](../words/沿.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,5 +51,5 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[沿]]<rt>⼔ㄇ</rt></ruby> "edge, side"
+- <ruby>[[沿]]<rt>⼔ㄇ</rt></ruby> "edge, side" (stand-in for 沿)
 - <ruby>[[沿海]]<rt>⼔ㄇㄏㄚㄧ</rt></ruby> "coastal"

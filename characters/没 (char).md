@@ -39,10 +39,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 没.
->For the word, see [没](words/没.md)
+>For the word, see [没](../words/没.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,5 +55,5 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink"
+- <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink" (stand-in for 没)
 - <ruby>[[沈没]]<rt>ㄑㄧㄇㄇㄛㄊ</rt></ruby> "to sink; to founder"

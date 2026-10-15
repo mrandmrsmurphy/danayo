@@ -33,16 +33,15 @@ danayo_id: 4157
 mc_id: 149
 graphemic_classification: 会意
 stand_in: 法
-aliases:
 注音: ㄈㄚㄆ
 kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 法.
->For the word, see [法](words/法.md)
+>For the word, see [法](../words/法.md)
 
 >[!info] Semi-productive affix
 > 法 is a **semi-productive** suffix for a "law, method" (文法, 方法, 憲法). It is not a [[派生辞]]. Dan'a'yo does not license new coinages with it without authority review, and every derivative has its own page (see Words below). Existing derivatives include [[三角法]], [[乗法]], [[兵法]], [[加法]], [[句法]], [[憲法]]. 法 is also a free word, [[法]]; whether its affix function should get a separate page, as 物 and 事 have, is not decided.
@@ -58,7 +57,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[法]]<rt>ㄈㄚㄆ</rt></ruby> "rule, law"
+- <ruby>[[法]]<rt>ㄈㄚㄆ</rt></ruby> "rule, law" (stand-in for 法)
 - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby> "statute, law, act"
 - <ruby>[[法国]]<rt>ㄈㄚㄆㄍㄛㄎ</rt></ruby> "France"
 - <ruby>[[法語]]<rt>ㄈㄚㄆ·⼄</rt></ruby> "French language; dharma speech"
