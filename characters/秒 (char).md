@@ -28,19 +28,20 @@ danayo_id: 4196
 mc_id: 6507
 graphemic_classification: "少"
 stand_in: "秒"
-aliases:
 注音: "ㄇ⼄ㄨ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 秒.
->For the word, see [秒](words/秒.md)
+>For the word, see [秒](../words/秒.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*mewʔ): semantic [[Radical 115|禾]] ("cereal; grain") + phonetic [[少 (char)|少]] (OC \*hmjewʔ, \*hmjews).
 - [SKIP-1-5-4](../lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 9](../lookup/Stroke/Stroke%2009.md))

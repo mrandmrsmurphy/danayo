@@ -27,16 +27,15 @@ danayo_id: 4205
 mc_id: 7394
 graphemic_classification: "唐"
 stand_in: "糖"
-aliases:
 注音: "ㄉ⺢ㄫ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 糖.
->For the word, see [糖](words/糖.md)
+>For the word, see [糖](../words/糖.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,7 +44,7 @@ date-last-perfect: 2026-08-01
 ## Notes
 - 形声 (OC \*l'aːŋ): semantic [[Radical 119|米]] ("rice") + phonetic [[唐]] (OC \*ɡl'aːŋ).
 - [SKIP-1-6-10](../lookup/SKIP/SKIP-1/SKIP-1-6-10.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
-- 7394th most used character in Classical Chinese (beyond the vault's locally-verifiable CC-ranking range — trusted verbatim). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄉ⺢ㄫ](../syllables/ㄉ⺢ㄫ.md)
+- 7394th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄉ⺢ㄫ](../syllables/ㄉ⺢ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words

@@ -38,10 +38,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 票.
->For the word, see [票](words/票.md)
+>For the word, see [票](../words/票.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

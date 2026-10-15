@@ -28,16 +28,15 @@ danayo_id: 4204
 mc_id: 3243
 graphemic_classification: "分"
 stand_in: "粉"
-aliases:
 注音: "ㄈㄨㄋ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 粉.
->For the word, see [粉](words/粉.md)
+>For the word, see [粉](../words/粉.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +51,7 @@ date-last-perfect: 2026-08-01
 ## Words
 - <ruby>[[粉]]<rt>ㄈㄨㄋ</rt></ruby> "powder" (stand-in for 粉)
 - <ruby>[[白粉]]<rt>ㄅㄚㄎㄈㄨㄋ</rt></ruby> "white powder; face powder"
+- <ruby>[[花粉]]<rt>ㄏ⺢ㄈㄨㄋ</rt></ruby> "pollen"
 - <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> "powder, fine powder"
 
 ## Chengyu

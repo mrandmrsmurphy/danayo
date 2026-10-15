@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 縮.
->For the word, see [縮](words/縮.md)
+>For the word, see [縮](../words/縮.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -54,3 +54,4 @@ date-last-perfect: 2026-08-01
 
 ## Words
 - <ruby>[[縮]]<rt>ㄙㄨㄎ</rt></ruby> "shrink, contract" (stand-in for 縮)
+- <ruby>[[萎縮]]<rt>⼔ㄧㄙㄨㄎ</rt></ruby> "wither; atrophy; slump"
