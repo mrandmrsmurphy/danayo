@@ -38,16 +38,15 @@ danayo_id: 4168
 mc_id: 2744
 graphemic_classification: "票"
 stand_in: "漂"
-aliases:
 注音: "ㄆ⼄"
 kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 漂.
->For the word, see [漂](words/漂.md)
+>For the word, see [漂](../words/漂.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -60,4 +59,4 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[漂]]<rt>ㄆ⼄</rt></ruby> "drift, float"
+- <ruby>[[漂]]<rt>ㄆ⼄</rt></ruby> "drift, float" (stand-in for 漂)

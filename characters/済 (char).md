@@ -11,6 +11,7 @@ japanese_native:
   - す-ます
   - すく-う
 vietnamese:
+  - tế
 middle_chinese_initial: "t͡s"
 middle_chinese_final: ei
 stroke_count: 11
@@ -38,11 +39,10 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 済.
->For the word, see [済](words/済.md)
+>For the word, see [済](../words/済.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,7 +55,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[済]]<rt>ㄐㄝㄧ</rt></ruby> "help, ferry"
+- <ruby>[[済]]<rt>ㄐㄝㄧ</rt></ruby> "help, ferry" (stand-in for 済)
 - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby> "economy"
 - <ruby>[[百済]]<rt>ㄅㄚㄎㄐㄝㄧ</rt></ruby> "Baekje"
 - <ruby>[[経済学]]<rt>ㄍㄝㄫㄐㄝㄧㄏㄚㄎ</rt></ruby> "economics"

@@ -39,16 +39,15 @@ danayo_id: 4169
 mc_id: 2807
 graphemic_classification: 寅
 stand_in: 演
-aliases:
 注音: ⼶ㄋ
 kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 演.
->For the word, see [演](words/演.md)
+>For the word, see [演](../words/演.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -61,7 +60,7 @@ date-last-perfect: 2026-08-01
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[演]]<rt>⼶ㄋ</rt></ruby> "unfold, perform, develop"
+- <ruby>[[演]]<rt>⼶ㄋ</rt></ruby> "unfold, perform, develop" (stand-in for 演)
 - <ruby>[[演出]]<rt>⼶ㄋㄑㄨㄊ</rt></ruby> "perform, put on a show (Mandarin/Cantonese); direct, stage-produce (Japanese)"
 - <ruby>[[演奏]]<rt>⼶ㄋㄙㄛㄨ</rt></ruby> "play (music)"
 - <ruby>[[出演]]<rt>ㄑㄨㄊ⼶ㄋ</rt></ruby> "appear (in a performance)"

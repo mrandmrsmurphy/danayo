@@ -37,21 +37,22 @@ aliases:
 kwin: false
 tags:
   - character
-  - hapax
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 煩.
->For the word, see [煩](words/煩.md)
+>For the word, see [煩](../words/煩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 会意 (per Shuowen) of [[Radical 086|火]] ("fire") + [[頁 (char)|頁]] ("head") — a burning, feverish head; vexation, trouble. **Corrected here**: the old bullet glossed the second component as `[[焚]]` ("head"), but 焚 means "to burn," not "head" — Shuowen's real 会意 account uses 頁; 焚 does appear in an alternate phono-semantic account (as the phonetic component) but is not itself the "head" glyph.
+- 会意 (per Shuowen) of [[Radical 086|火]] ("fire") + [[頁 (char)|頁]] ("head") — a burning, feverish head; vexation, trouble.
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1037th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄇ](../syllables/ㄈㄛㄇ.md) (pronunciation deliberately altered to a final -m to keep this syllable unique)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome"
+- <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome" (stand-in for 煩)
 - <ruby>[[煩忙]]<rt>ㄈㄛㄇㄇㄚㄫ</rt></ruby> "busy; bustling"
