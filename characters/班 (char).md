@@ -34,16 +34,15 @@ danayo_id: 4185
 mc_id: 1402
 graphemic_classification: "会意"
 stand_in: "班"
-aliases:
 注音: "ㄆㄚㄋ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 班.
->For the word, see [班](words/班.md)
+>For the word, see [班](../words/班.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -60,3 +59,6 @@ date-last-perfect: 2026-08-01
 - <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
 - <ruby>[[西班牙]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby> "Spain"
 - <ruby>[[西班牙語]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ⼄</rt></ruby> "Spanish language"
+
+## Derived Characters
+- <ruby>[[斑]]<rt>ㄅㄚㄋ</rt></ruby> "spot; speck"

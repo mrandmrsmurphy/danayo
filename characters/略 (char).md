@@ -31,16 +31,15 @@ danayo_id: 4186
 mc_id: 859
 graphemic_classification: "各"
 stand_in: "略"
-aliases:
 注音: "ㄌ⼘ㄎ"
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 略.
->For the word, see [略](words/略.md)
+>For the word, see [略](../words/略.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
