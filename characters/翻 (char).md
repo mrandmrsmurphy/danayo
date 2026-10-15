@@ -38,10 +38,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 翻.
->For the word, see [翻](words/翻.md)
+>For the word, see [翻](../words/翻.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,7 +50,7 @@ date-last-perfect: 2026-08-01
 ## Notes
 - 形声 (OC \*pʰan): semantic [[羽]] ("wings") + phonetic [[番 (char)|番]] (OC \*paːl, \*paːls, \*pʰaːn, \*pʰan, \*ban) — fluttering, waving motion.
 - [SKIP-1-12-6](../lookup/SKIP/SKIP-1/SKIP-1-12-6.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
-- 4924th most used character in Classical Chinese (beyond the vault's locally-verifiable CC-ranking range — trusted verbatim). Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](../syllables/ㄈㄛㄋ.md)
+- 4924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](../syllables/ㄈㄛㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words

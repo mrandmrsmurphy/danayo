@@ -27,16 +27,15 @@ danayo_id: 4225
 mc_id: 1203
 graphemic_classification: 象形
 stand_in: 胃
-aliases:
 注音: ㄨㄧ
 kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 胃.
->For the word, see [胃](words/胃.md)
+>For the word, see [胃](../words/胃.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

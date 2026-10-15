@@ -28,16 +28,15 @@ danayo_id: 4234
 mc_id: 47
 graphemic_classification: 指事
 stand_in: 至
-aliases:
 注音: ㄐㄧㄜ
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-01
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 至.
->For the word, see [至](words/至.md)
+>For the word, see [至](../words/至.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
