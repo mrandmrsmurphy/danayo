@@ -37,16 +37,15 @@ danayo_id: 4094
 mc_id: 1828
 graphemic_classification: 会意
 stand_in: "床"
-aliases:
 注音: "ㄙ⼘ㄇ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 床.
->For the word, see [床](words/床.md)
+>For the word, see [床](../words/床.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -59,4 +58,5 @@ boundedness: 80
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[床]]<rt>ㄙ⼘ㄇ</rt></ruby> "bed; couch; chassis; frame" (stand-in for 床)
 - <ruby>[[起床]]<rt>ㄎㄧㄙ⼘ㄇ</rt></ruby> "get out of bed"

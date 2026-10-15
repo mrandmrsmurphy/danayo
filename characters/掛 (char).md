@@ -45,10 +45,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 掛.
->For the word, see [掛](words/掛.md)
+>For the word, see [掛](../words/掛.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -61,5 +61,5 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[掛](../words/掛.md)<rt>ㄍ⺢ㄧ</rt></ruby> "hang, suspend" (stand-in for 掛)
+- <ruby>[[掛]]<rt>ㄍ⺢ㄧ</rt></ruby> "hang, suspend" (stand-in for 掛)
 - <ruby>[[垂掛]]<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby> "to hang; to suspend; to dangle"

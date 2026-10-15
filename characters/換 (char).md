@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 換.
->For the word, see [換](words/換.md)
+>For the word, see [換](../words/換.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +52,7 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[換](../words/換.md)<rt>ㄏ⺢ㄇ</rt></ruby> "interchange, exchange" (stand-in for 換)
+- <ruby>[[換]]<rt>ㄏ⺢ㄇ</rt></ruby> "interchange, exchange" (stand-in for 換)
+- <ruby>[[兌換]]<rt>ㄉ⺢ㄧㄏ⺢ㄇ</rt></ruby> "exchange; redeem currency"
 - <ruby>[[交換]]<rt>ㄍ⼄ㄨㄏ⺢ㄇ</rt></ruby> "exchange, swap"
 - <ruby>[[置換]]<rt>ㄑㄧㄏ⺢ㄇ</rt></ruby> "permute, substitute, displace"

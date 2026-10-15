@@ -36,13 +36,12 @@ aliases:
   - 带
 注音: ㄊㄚㄧ
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
-boundedness: 
 ---
 >[!tip] This is a page about the character 帯.
->For the word, see [帯](words/帯.md)
+>For the word, see [帯](../words/帯.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,6 +54,7 @@ boundedness:
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[帯]]<rt>ㄊㄚㄧ</rt></ruby> "sash; belt" (stand-in for 帯)
 - <ruby>[[繃帯]]<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby> "bandage"
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[携帯]]<rt>ㄏ⼔ㄧㄊㄚㄧ</rt></ruby> "carry with; portable"

@@ -15,7 +15,6 @@ vietnamese:
   - đé
   - đẻ
   - đẽ
-  - để
 middle_chinese_initial: t
 middle_chinese_final: ei
 stroke_count: 8
@@ -37,16 +36,15 @@ danayo_id: 4095
 mc_id: 2704
 graphemic_classification: "氐"
 stand_in: "底"
-aliases:
 注音: "ㄉㄝㄧ"
 kwin: false
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 底.
->For the word, see [底](words/底.md)
+>For the word, see [底](../words/底.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -59,4 +57,5 @@ boundedness: 90
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[底]]<rt>ㄉㄝㄧ</rt></ruby> "bottom; underneath; underside; base" (stand-in for 底)
 - <ruby>[[天底]]<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby> "nadir"

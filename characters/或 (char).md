@@ -31,16 +31,15 @@ danayo_id: 4113
 mc_id: 213
 graphemic_classification: "会意"
 stand_in: "或"
-aliases:
 注音: "ㄏㄛㄎ"
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 ---
 >[!tip] This is a page about the character 或.
->For the word, see [或](words/或.md)
+>For the word, see [或](../words/或.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,7 +52,7 @@ date-last-perfect: 2026-07-31
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby> "or; perhaps"
+- <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby> "or; perhaps" (stand-in for 或)
 - <ruby>[[或者]]<rt>ㄏㄛㄎㄑㄚ</rt></ruby> "some people"
 - <ruby>[[間或]]<rt>ㄍㄚㄋㄏㄛㄎ</rt></ruby> "sometimes, occasionally, now and then"
 - <ruby>[[或然]]<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> "probable, contingent"

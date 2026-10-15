@@ -35,13 +35,13 @@ aliases:
   - 层
 注音: ㄑㄜㄫ
 kwin: true
-date-last-perfect: 2026-07-31
+date-last-perfect: 2026-10-15
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 層.
->For the word, see [層](words/層.md)
+>For the word, see [層](../words/層.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
