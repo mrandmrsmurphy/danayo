@@ -36,6 +36,7 @@ tags:
   - hapax
 boundedness: 
 date-last-perfect: 2026-10-09
+---
 >[!tip] This is a page about the character 抜.
 >For the word, see [抜](../words/抜.md)
 ```meta-bind-embed
