@@ -2,7 +2,6 @@
 mandarin: bài
 cantonese: baai6
 korean: 패
-korean_native: ""
 japanese:
   - BAI
 japanese_native: うた
@@ -24,7 +23,6 @@ joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 6055
-mc_id:
 graphemic_classification: 貝
 stand_in: 唄
 aliases:

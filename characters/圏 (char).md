@@ -24,7 +24,6 @@ english:
 羅馬字: gwen
 諺文: 권
 joyo_level: 高等
-hsk_level: ""
 hanmun_edu_level: 名
 danayo_id: 6274
 mc_id: 3579

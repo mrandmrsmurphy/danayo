@@ -29,7 +29,6 @@ danayo_id: 6210
 mc_id: 3186
 graphemic_classification: "亢"
 stand_in: "坑"
-aliases:
 注音: "ㄎㄚㄫ"
 kwin: false
 tags:

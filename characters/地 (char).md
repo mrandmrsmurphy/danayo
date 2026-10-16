@@ -28,7 +28,6 @@ danayo_id: 94
 mc_id: 86
 graphemic_classification: "也"
 stand_in: "地"
-aliases:
 注音: "ㄉㄧㄜ"
 date-last-perfect: 2026-10-13
 kwin: false

@@ -22,7 +22,6 @@ english:
 羅馬字: kog
 諺文: "콕"
 joyo_level: "表外字"
-hsk_level: ""
 hanmun_edu_level: "高等"
 danayo_id: 5097
 mc_id: 820

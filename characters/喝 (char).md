@@ -37,7 +37,6 @@ danayo_id: 6335
 mc_id: 4648
 graphemic_classification: "曷"
 stand_in: "喝"
-aliases:
 注音: "ㄏㄛㄊ"
 kwin: false
 tags:

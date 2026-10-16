@@ -67,3 +67,8 @@ The following are not content pages, but "programming"
 - [Words Base](words/Words%20Base.base)
 - [Syllables Base](syllables/Syllables%20Base.base)
 - [SKIP Leaf Base](lookup/SKIP/SKIP%20Leaf%20Base.base)
+
+## Chinese
+写《自然与人生》的日本作家德富芦花，观察过落日。他记录太阳由衔山到全然沉入地表，需要三分钟。我观察过一次日出，日出比日落缓慢。观看落日，大有守侍圣哲临终之感；观看日出，则像等待伟大英雄辉煌的诞生。仿佛有什么阻力，太阳艰难地向上跃动，伸缩着挺进。太阳从露出一丝红线，到伸缩着跳上地表，用了约五分钟。
+
+世界上的事物在速度上，衰落胜于崛起。

@@ -94,6 +94,7 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 - <ruby>[升](../words/升.md)<rt>ㄙㄨㄫ</rt></ruby>: a liter.
 - <ruby>[数量](../words/数量.md)<rt>ㄙㄨㄌ⼘ㄫ</rt></ruby>: amount, quantity, weight, measure.
 - <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: a peck — the dry measure; also the Dipper.
+- <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a traditional ladle-unit of volume — ten 勺 make one 合, a hundred make one 升; also a spoon, ladle (see [[Food]]).
 - <ruby>[百升](../words/百升.md)<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby>: a hectoliter — a hundred liters.
 - <ruby>[碼](../words/碼.md)<rt>ㄇㄚ</rt></ruby>: a yard.
 

@@ -29,7 +29,7 @@ graphemic_classification: "奄"
 stand_in: "唵"
 aliases:
 注音: "ㄛㄇ"
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 50

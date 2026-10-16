@@ -1,6 +1,6 @@
 ---
 mandarin: yā
-cantonese: zong1
+cantonese: aat3
 korean: 압
 korean_native: 누를
 japanese:

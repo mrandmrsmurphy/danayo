@@ -2,7 +2,6 @@
 mandarin: "xià"
 cantonese: haak3
 korean: "하"
-korean_native: ""
 japanese:
   - KAKU
   - KA
