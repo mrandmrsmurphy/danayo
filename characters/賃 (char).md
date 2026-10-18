@@ -44,7 +44,7 @@ date-last-perfect: 2026-08-09
 ```
 
 ## Notes
-- 形声 (OC \*nɯms): semantic [[Radical 154|貝]] ("shell, money") + phonetic [[任 (char)|任]] — "wages, payment for labor," extended to "to rent, hire."
+- 形声 (OC \*nɯms): semantic [[Radical 154|貝]] ("shell, money") + phonetic [[任]] — "wages, payment for labor," extended to "to rent, hire."
 - [SKIP-2-6-7](lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
 - Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 4278` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 娘|ɳ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄋㄧㄇ](syllables/ㄋㄧㄇ.md)
 - [Grade 6](lookup/Grade%206.md), [Old HSK 6](lookup/HSK/Old%20HSK%206.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)

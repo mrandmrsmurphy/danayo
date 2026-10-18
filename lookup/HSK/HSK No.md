@@ -1017,6 +1017,7 @@ tags: [lookup]
 [昜](../../characters/昜.md)
 [韋](../../characters/韋.md)
 [湯 (char)](../../characters/湯%20(char).md)
+[江](../../characters/江.md)
 
 ## Datacheck
 ```base

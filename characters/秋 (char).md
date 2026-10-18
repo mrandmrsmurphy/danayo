@@ -32,6 +32,7 @@ aliases:
 - 鞦
 - 龝
 - 穐
+- 秌
 注音: ㄑㄨㄛ
 date-last-perfect: 2026-10-13
 kwin: false
