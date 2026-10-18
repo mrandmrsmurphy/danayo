@@ -6,7 +6,7 @@ tags:
 ---
 # Hebrew
 ## Torah
-1. <ruby>[[創世記]]<rt>ㄑㄚㄫㄙㄝㄍㄧ</rt></ruby>
+1. <ruby>[[創世記]]<rt>ㄑ⺢ㄫㄙㄝㄍㄧ</rt></ruby>
 2. [[出谷記]]
 3. 附族記 _The Coming-Near Tribe Story_
 4. 民数記 _Population Size Story_
