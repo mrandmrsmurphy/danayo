@@ -71,7 +71,7 @@ boundedness: 90
 - <ruby>[[暫時]]<rt>ㄐㄚㄇㄙㄧ</rt></ruby> "temporarily; for the time being"
 - <ruby>[[時差]]<rt>ㄙㄧㄑㄚ</rt></ruby> "time difference; jet lag"
 - <ruby>[[時節]]<rt>ㄙㄧㄐㄝㄊ</rt></ruby> "seasons"
-- <ruby>[[時宜]]<rt>ㄙㄧ·ㄨㄧ</rt></ruby> "timely; be right time"
+- <ruby>[[時宜]]<rt>ㄙㄧ·ㄜㄧ</rt></ruby> "timely; be right time"
 - <ruby>[[時制]]<rt>ㄙㄧㄐㄝㄧ</rt></ruby> "tense (grammatical)"
 - <ruby>[[時相]]<rt>ㄙㄧㄙㄚㄫ</rt></ruby> "tense-aspect; grammatical aspect"
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
