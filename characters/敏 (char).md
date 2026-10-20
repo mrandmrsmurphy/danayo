@@ -32,16 +32,15 @@ danayo_id: 5013
 mc_id: 1705
 graphemic_classification: "毎"
 stand_in: "敏"
-aliases:
 注音: "ㄇㄧㄋ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 30
 ---
 >[!tip] This is a page about the character 敏.
->For the word, see [敏](words/敏.md)
+>For the word, see [敏](../words/敏.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,12 +48,15 @@ boundedness: 30
 
 ## Notes
 - 形声 (OC \*mrɯʔ, \*mrɯŋʔ): semantic [[Radical 066|攴]] ("hand, action") + phonetic [[毎 (char)|毎]] (OC \*mɯːʔ) — "quick, fast," extended to "clever, quick-witted."
-- [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1705th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄇㄧㄋ](syllables/ㄇㄧㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1705th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄇㄧㄋ](../syllables/ㄇㄧㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[敏]]<rt>ㄇㄧㄋ</rt></ruby> "fast; quick; clever" (stand-in for 敏 (char))
 - <ruby>[[敏感]]<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby> "sensitive"
 - <ruby>[[敏捷]]<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby> "agile; nimble; quick-witted"
 - <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> "oversensitive, allergic, hypersensitive"
+
+## Derived Characters
+- <ruby>[[繁]]<rt>ㄆㄚㄋ</rt></ruby> "lush; complicated"
