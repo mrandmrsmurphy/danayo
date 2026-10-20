@@ -33,24 +33,25 @@ danayo_id: 5009
 mc_id: 1953
 graphemic_classification: "𡩠"
 stand_in: "浸"
-aliases:
 注音: "ㄑㄧㄇ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 浸.
->For the word, see [浸](words/浸.md)
+>For the word, see [浸](../words/浸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ʔsims, \*sʰim): semantic [[Radical 085|水]] ("water") + phonetic 𡩠 (OC \*sʰim, no vault page) — "to soak, immerse, dunk." Not merged with 滲 (shēn, "to seep, ooze"), a distinct character sometimes conflated with 浸 in Japanese usage.
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1953rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄑㄧㄇ](syllables/ㄑㄧㄇ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1953rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄑㄧㄇ](../syllables/ㄑㄧㄇ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[浸]]<rt>ㄑㄧㄇ</rt></ruby> "immerse; dunk" (stand-in for 浸 (char))

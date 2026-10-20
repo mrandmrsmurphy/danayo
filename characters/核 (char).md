@@ -29,16 +29,15 @@ danayo_id: 5014
 mc_id: 2957
 graphemic_classification: 亥
 stand_in: 核
-aliases:
 注音: ㄏㄚㄎ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 核.
->For the word, see [核](words/核.md)
+>For the word, see [核](../words/核.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,12 +45,13 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ɡuːd, \*ɡrɯːɡ): semantic [[木 (char)|木]] ("tree") + phonetic [[亥]] (OC \*ɡɯːʔ) — originally the woody pit/seed of a tree's fruit, extended to "nucleus, kernel," and by extension "to examine, verify" (to get to the core).
-- [SKIP-1-4-6](lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 2957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄏㄚㄎ](syllables/ㄏㄚㄎ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 2957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄏㄚㄎ](../syllables/ㄏㄚㄎ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[核]]<rt>ㄏㄚㄎ</rt></ruby> "nucleus" (stand-in for 核 (char))
 - <ruby>[[核金]]<rt>ㄏㄚㄎㄍㄧㄇ</rt></ruby> "ytterbium (neologism)"
 - <ruby>[[陰核]]<rt>ㄧㄇㄏㄚㄎ</rt></ruby> "clitoris"
 - <ruby>[[核位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> "nucleus position (within a final)"
+- <ruby>[[真核]]<rt>ㄐㄧㄋㄏㄚㄎ</rt></ruby> "eukarya; eukaryotic"
