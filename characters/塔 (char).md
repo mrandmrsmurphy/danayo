@@ -29,22 +29,24 @@ aliases:
   - 墖
   - 𩫊
 注音: ㄊㄚㄆ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 塔.
->For the word, see [塔](words/塔.md)
+>For the word, see [塔](../words/塔.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*tʰuːb): semantic [[Radical 032|土]] ("earth, soil") + phonetic [[荅]] (OC \*tkuːb) — a Late Old Chinese (Eastern Han) loanword, an abbreviation of 卒塔婆 (a transliteration of Sanskrit स्तूप stūpa, "heap"); the 土 semantic reflects the earthen-mound origin of the stupa form.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 盍|ɑp]] → [ㄊㄚㄆ](syllables/ㄊㄚㄆ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 盍|ɑp]] → [ㄊㄚㄆ](../syllables/ㄊㄚㄆ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[塔]]<rt>ㄊㄚㄆ</rt></ruby> "pagoda" (stand-in for 塔 (char))
