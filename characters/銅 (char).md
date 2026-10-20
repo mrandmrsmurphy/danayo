@@ -30,14 +30,14 @@ stand_in: 銅
 aliases:
   - 铜
 注音: ㄉㄛㄫ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 銅.
->For the word, see [銅](words/銅.md)
+>For the word, see [銅](../words/銅.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,12 +45,12 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*doːŋ): semantic [[Radical 167|金]] ("metal") + phonetic [[同]] (OC \*doːŋ) — "copper." The word may also be related to 彤 ("red"), a plausible color association given copper's reddish hue. 銅 itself doubles as the Dan'a'yo periodic-table abbreviation for copper.
-- [SKIP-1-7-7](lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 1544th most used character in Classical Chinese — **corrected from a stored `1543`**, which is actually 珍's rank (`lookup/CC/CC 1000.md` line 568; 銅 itself is line 569). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](syllables/ㄉㄛㄫ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-7-7](../lookup/SKIP/SKIP-1/SKIP-1-7-7.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1544th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](../syllables/ㄉㄛㄫ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[銅]]<rt>ㄉㄛㄫ</rt></ruby> "copper" (stand-in for 銅)
+- <ruby>[[銅]]<rt>ㄉㄛㄫ</rt></ruby> "copper" (stand-in for 銅 (char))
 - <ruby>[[青銅]]<rt>ㄑㄝㄫㄉㄛㄫ</rt></ruby> "bronze"
 - <ruby>[[黄銅]]<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby> "brass"
 - <ruby>[[魔銅]]<rt>ㄇㄚㄉㄛㄫ</rt></ruby> "nickel"
