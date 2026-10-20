@@ -31,24 +31,24 @@ stand_in: "雖"
 aliases:
   - 虽
 注音: "ㄙㄨㄧ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 雖.
->For the word, see [雖](words/雖.md)
+>For the word, see [雖](../words/雖.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic 虫 ("insect, reptile" — originally "a lizard-like reptile") + phonetic [[唯 (char)|唯]], later phonetically borrowed for "although, though, even if." Kangxi-indexed under [[Radical 172|隹]] rather than the etymological semantic 虫, the same coincidental-radical pattern as [[characters/雑 (char)|雑]] earlier this sweep.
-- [SKIP-1-9-8](lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 201st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙㄨㄧ](syllables/ㄙㄨㄧ.md)
-- [Grade 4](lookup/Grade%204.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 形声: semantic 虫 ("insect, reptile" — originally "a lizard-like reptile") + phonetic [[唯 (char)|唯]], later phonetically borrowed for "although, though, even if." Kangxi-indexed under [[Radical 172|隹]] rather than the etymological semantic 虫, the same coincidental-radical pattern as [[雑 (char)|雑]].
+- [SKIP-1-9-8](../lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 201st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙㄨㄧ](../syllables/ㄙㄨㄧ.md)
+- [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[雖]]<rt>ㄙㄨㄧ</rt></ruby> "although" (stand-in for 雖)
+- <ruby>[[雖]]<rt>ㄙㄨㄧ</rt></ruby> "although" (stand-in for 雖 (char))

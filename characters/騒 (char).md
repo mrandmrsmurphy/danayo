@@ -29,14 +29,14 @@ stand_in: 騒
 aliases:
   - 騷
 注音: ㄙㄚㄨ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness:
 ---
 >[!tip] This is a page about the character 騒.
->For the word, see [騒](words/騒.md)
+>For the word, see [騒](../words/騒.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +44,9 @@ boundedness:
 
 ## Notes
 - 形声: semantic [[Radical 187|馬]] ("horse," relating to a horse's restlessness/itching) + phonetic [[蚤]] ("flea") — "to disturb, agitate"; extended to "boisterous, uproar." 騷 (traditional) and 骚 (simplified) are variant forms; the vault's own graphemic form is the Japanese shinjitai 騒.
-- [SKIP-1-10-8](lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md))
-- 2358th most used character in Classical Chinese (recorded under the traditional form 騷). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](syllables/ㄙㄚㄨ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
+- 2358th most used character in Classical Chinese (recorded under the traditional form 騷). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](../syllables/ㄙㄚㄨ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[騒]]<rt>ㄙㄚㄨ</rt></ruby> "boisterous" (stand-in for 騒 (char))

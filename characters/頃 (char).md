@@ -35,14 +35,14 @@ stand_in: 頃
 aliases:
   - 顷
 注音: ㄎㄝㄫ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 頃.
->For the word, see [頃](words/頃.md)
+>For the word, see [頃](../words/頃.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,9 +50,13 @@ boundedness: 80
 
 ## Notes
 - 会意: 匕 ("person, tilted/upside down," no vault page) + [[頁 (char)|頁]] ("head") — a person with their head tilted, the original sense now written as 傾 ("to tilt, incline"); extended to "a brief moment" (a quick tilt of the head) and, as a unit of land area, "顷" (a PRC agricultural measure).
-- [SKIP-1-2-9](lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 963rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 清合|wiᴇŋ]] → [ㄎㄝㄫ](syllables/ㄎㄝㄫ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-2-9](../lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 963rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 清合|wiᴇŋ]] → [ㄎㄝㄫ](../syllables/ㄎㄝㄫ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[頃]]<rt>ㄎㄝㄫ</rt></ruby> "moment; occasion" (stand-in for 頃)
+- <ruby>[[頃]]<rt>ㄎㄝㄫ</rt></ruby> "moment; occasion" (stand-in for 頃 (char))
+
+## Derived Characters
+- <ruby>[[傾]]<rt>ㄎㄝㄫ</rt></ruby> "lean; incline"
+- <ruby>[[頴]]<rt>⼶ㄫ</rt></ruby> "rice tassel"
