@@ -32,28 +32,28 @@ stand_in: "懸"
 aliases:
   - 悬
 注音: "ㄏ⼔ㄋ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 懸.
->For the word, see [懸](words/懸.md)
+>For the word, see [懸](../words/懸.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [[心 (char)|心]] ("heart," implying anxious suspense) + phonetic 縣 (near-homophonous with 懸; originally depicting "hanging," later specialized to "county, district" — no vault page) — "to hang, suspend, hoist." Formerly stored as `絶` ("to sever"), phonetically unrelated to 懸 — corrected.
-- [SKIP-2-16-4](lookup/SKIP/SKIP-2/SKIP-2-16-4.md) ([Stroke 20](lookup/Stroke/Stroke%2020.md))
-- 1574th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄏ⼔ㄋ](syllables/ㄏ⼔ㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- 形声: semantic [[心 (char)|心]] ("heart," implying anxious suspense) + phonetic 縣 (near-homophonous with 懸; originally depicting "hanging," later specialized to "county, district" — no vault page) — "to hang, suspend, hoist."
+- [SKIP-2-16-4](../lookup/SKIP/SKIP-2/SKIP-2-16-4.md) ([Stroke 20](../lookup/Stroke/Stroke%2020.md))
+- 1574th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄏ⼔ㄋ](../syllables/ㄏ⼔ㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind" (stand-in for 懸 (char))
+- <ruby>[[懸]]<rt>ㄏ⼔ㄋ</rt></ruby> "hang; suspend; hoist" (stand-in for 懸 (char))
+- <ruby>[[懸心]]<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby> "to bear in mind"
 - <ruby>[[懸垂]]<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby> "hang over, overhand"
 - <ruby>[[懸壅垂]]<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby> "uvula"
 - <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> "hanging-needle vertical (calligraphy stroke)"
-
