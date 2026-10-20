@@ -37,14 +37,14 @@ aliases:
   - 𰽔
   - 镜
 注音: ㄍ⼶ㄫ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 鏡.
->For the word, see [鏡](words/鏡.md)
+>For the word, see [鏡](../words/鏡.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,12 +52,12 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*kraŋs): semantic [[Radical 167|金]] ("metal") + phonetic [[竟 (char)|竟]] (OC \*kraŋs) — probably cognate with 景 ("bright") and 影 ("shadow"); "mirror," extended to "lens."
-- [SKIP-1-8-11](lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](lookup/Stroke/Stroke%2019.md))
-- 2583rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄍ⼶ㄫ](syllables/ㄍ⼶ㄫ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-8-11](../lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- 2583rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄍ⼶ㄫ](../syllables/ㄍ⼶ㄫ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[鏡]]<rt>ㄍ⼶ㄫ</rt></ruby> "mirror, lens" (stand-in for 鏡)
+- <ruby>[[鏡]]<rt>ㄍ⼶ㄫ</rt></ruby> "mirror, lens" (stand-in for 鏡 (char))
 - <ruby>[[眼鏡]]<rt>ㄚㄋㄍ⼶ㄫ</rt></ruby> "glasses, eyeglasses, spectacles"
 - <ruby>[[鏡鑑]]<rt>ㄍ⼶ㄫㄍㄚㄇ</rt></ruby> "mirror"
 - <ruby>[[三稜鏡]]<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby> "prism"
