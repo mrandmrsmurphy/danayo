@@ -36,24 +36,25 @@ danayo_id: 5021
 mc_id: 336
 graphemic_classification: 戉
 stand_in: 越
-aliases:
 注音: ⼔ㄊ
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 越.
->For the word, see [越](words/越.md)
+>For the word, see [越](../words/越.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɢʷaːd, \*ɢʷad): semantic [[Radical 156|走]] ("to walk or run") + phonetic [[戉]] (OC \*ɢʷad, originally "large battle-axe," the ancient name of the State of Yue) — "to go over, to cross, to exceed"; also the ethnonym Yue/Việt, the Baiyue peoples of ancient southern China.
-- [SKIP-3-7-5](lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 336th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](syllables/⼔ㄊ.md)
-- [Grade 5](lookup/Grade%205.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-3-7-5](../lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 336th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](../syllables/⼔ㄊ.md)
+- [Grade 5](../lookup/Grade%205.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[越]]<rt>⼔ㄊ</rt></ruby> "exceed" (stand-in for 越 (char))

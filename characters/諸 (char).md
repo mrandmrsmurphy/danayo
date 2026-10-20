@@ -32,22 +32,24 @@ stand_in: "諸"
 aliases:
   - 诸
 注音: "ㄐㄚ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 諸.
->For the word, see [諸](words/諸.md)
+>For the word, see [諸](../words/諸.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*tjaː, \*tja): semantic [[Radical 149|言]] ("speech, words") + phonetic [[者]] (OC \*tjaːʔ) — originally a dependent pronoun/determiner ("many, all, various"), gradually displacing 多 in this function.
-- [SKIP-1-7-8](lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 77th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 戈三開|ɨɑ]] → [ㄐㄚ](syllables/ㄐㄚ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 77th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 戈三開|ɨɑ]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[諸]]<rt>ㄐㄚ</rt></ruby> "various" (stand-in for 諸 (char))
@@ -59,3 +61,7 @@ boundedness: 75
 ## Chengyu
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"
 - <ruby>[[諸行無常]]<rt>ㄐㄚㄏㄚㄫㄇㄜㄙ⼘ㄫ</rt></ruby> "all conditioned things are impermanent"
+
+## Derived Characters
+- <ruby>[[儲]]<rt>ㄐㄛ</rt></ruby> "store; stockpile"
+- <ruby>[[藷]]<rt>ㄙㄛ</rt></ruby> "potato; yam"
