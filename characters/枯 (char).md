@@ -28,16 +28,15 @@ danayo_id: 5017
 mc_id: 1470
 graphemic_classification: "古"
 stand_in: "枯"
-aliases:
 注音: "ㄎㄛ"
-date-last-perfect: 2026-08-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 枯.
->For the word, see [枯](words/枯.md)
+>For the word, see [枯](../words/枯.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,9 @@ boundedness: 50
 
 ## Notes
 - 形声 (OC \*kʰaː): semantic [[木 (char)|木]] ("tree") + phonetic [[古]] (OC \*kaːʔ) — "withered" (of plants), "dried up" (of rivers, wells).
-- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1470th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄎㄛ](syllables/ㄎㄛ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1470th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄎㄛ](../syllables/ㄎㄛ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[枯]]<rt>ㄎㄛ</rt></ruby> "withered" (stand-in for 枯 (char))
