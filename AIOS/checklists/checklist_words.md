@@ -118,6 +118,13 @@ After the homophone callout (or after the meta-bind-embed if there is none), add
 - When a component is a meaningful compound word in its own right (e.g. 世紀), also link to its word page in the same directory: `[世紀](世紀.md)`.
 - If this word is the `stand_in` that legitimizes one of its own constituent characters, append that fact to this bullet — see [[AIOS/memory/feedback_standin_note.md]].
 
+**Prose rules for Notes** (user rulings 2026-10-21; see [[AIOS/memory/feedback_notes_prose_rules.md]]):
+- **Keep** the stand-in note on the opening bullet whenever this word is the `stand_in` of one of its constituent characters, including a single-character word that stands in for its own bound character (e.g. `— stand-in for [[川]], which cannot appear independently`). It is explanatory content, not process commentary.
+- **Do not write `kwin` prose.** `kwin` is a bare boolean; verify it, but add no sentence or paragraph explaining it.
+- **Do not write "no homophones" remarks.** A real homophone gets the callout above; the absence of one needs no sentence.
+- **Do not write sweep or changelog sentences** ("this sweep," "already perfected," "added reciprocal callouts," "corrected," "previously missing," "corpus noise"). State the fact only.
+- **Every link must resolve.** Use `../characters/`, `../lexipedia/`, `../lookup/` prefixes from inside `words/`, and check that each target file exists before stamping.
+
 2. **One or more substantive paragraphs** after the opening bullet, covering (as applicable): etymology/origin, historical or cultural context, and — especially — cross-linguistic variation where the concept differs meaningfully across Chinese/Japanese/Korean/Vietnamese (semantic drift, narrowing, homophone collisions, native coinages). Numbered lists for canonical sets (Nine Ministers, Six Hollow Organs, etc.). Cross-link related vault words. Aim for at least 2–3 real paragraphs of content, not a restatement of the gloss.
 
 After the notes, if there are multiple definitions, they should be listed in a numbered list.

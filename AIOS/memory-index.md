@@ -37,7 +37,8 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Romaji spelling](memory/feedback_romaji_spelling.md) — one capital only: "Romaji," never "ROmaji" (user's typo habit)
 - [Homophone warning callout](memory/feedback_homophone_warning.md) — words with Dan'a'yo homophones need a `>[!warning] Homophones` callout after meta-bind-embed, before Notes
 - [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and ca[...]
-- [kwin paragraph length](memory/feedback_kwin_length.md) — 2–3 sentences max; state verdict, name diverging dimension(s), one parallel example if useful — no more
+- [kwin paragraph length](memory/feedback_kwin_length.md) — SUPERSEDED: no kwin prose at all, kwin is a bare boolean (see notes-prose-rules)
+- [Notes prose rules](memory/feedback_notes_prose_rules.md) — keep stand-in and dual-source notes; drop kwin, no-homophone and sweep/changelog commentary; every link must resolve (`../` prefix)
 - [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia placement is now a required (2026-09-18+, prospective-only) checklist criterion; D-specific sense[...]
 - [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC[...]
 - [Element-abbreviation characters](memory/feedback_element_abbreviation_characters.md) — a character's "abbreviation for [element]" note (e.g. 多→gadolinium) is a permanent character-level f[...]

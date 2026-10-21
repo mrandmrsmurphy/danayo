@@ -31,10 +31,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-10-21
 ---
 >[!tip] This is a page about the character 拱.
->For the word, see [拱](../words/拱.md)
+>For the word, see [拱](../words/拱.md).
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 - 形声/會意 (Zhengzhang OC \*kloŋʔ): semantic [[Radical 064|扌]] ("hand") + phonetic [[共 (char)|共]].
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 2450th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄍ⼄ㄫ](../syllables/ㄍ⼄ㄫ.md)
-- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[拱]]<rt>ㄍ⼄ㄫ</rt></ruby> "arch"

@@ -134,6 +134,12 @@ The Notes section contains exactly four bullets in this fixed order:
 - [Level links]
 ```
 
+**Prose rules for Notes bullets** (user rulings 2026-10-21; see [[AIOS/memory/feedback_notes_prose_rules.md]]):
+- **Keep dual-source confirmation.** A clause saying an analysis or reading was confirmed in both en.Wiktionary and zh.Wiktionary is welcome; keep it and add it when true. State it as a plain fact.
+- **Do not write sweep or changelog sentences** ("corrected," "formerly," "`mc_id` bug found and fixed," "false alias removed," "previously missing," "this sweep"). Write the resulting fact only; the standard long-tail rank wording is "Not present in the Classical Chinese usage ranking" and "Nth most used character … (beyond the top ~4000 locally mirrored, trusted long-tail rank)".
+- **Do not write "no homophones" remarks.**
+- **Every link must resolve.** Prefix links to other top-level folders with `../` (`../lookup/...`, `../syllables/...`, `../characters/...`, `../words/...`) and check that each target exists before stamping.
+
 ### Bullet 1 — Graphemic classification
 
 **形声:**
@@ -295,5 +301,5 @@ Set when:
 - **Chengyu entries without ruby** — despite this doc's own example historically showing plain links, established practice (see [[characters/千]], [[characters/光 (char)|光]]) always ruby-annotates `## Chengyu` entries with the chengyu's own stored `注音`, same as `## Words`. A bare `[[chengyu]] "gloss"` with no `<rt>` is a defect, not an acceptable minimal form.
 - **Notes bullets out of order or missing** — the four-bullet sequence (graphemic → SKIP/Stroke → MC → levels) is fixed. All four must be present.
 - **Missing `## Derived Characters`** — easy to overlook because it's optional and easy to forget to check *for*. A character with a real graphemic family (its phonetic component is reused by several other vault characters, e.g. [[炎]] → 啖/痰/談) should surface that family here; don't assume the section doesn't apply just because the page never had one before.
-- **Callout/link paths missing the `../` prefix** — a recurring defect on older pages: `[X](words/X.md)` or `[[Lookup/...]]`-style links written as if the page lived at the vault root, when it actually needs `../words/X.md` etc. from inside `characters/`. Also watch for the inverse mistake — a relative-path prefix accidentally baked into wiki-link syntax itself, e.g. `[[../lookup/CC/finals/韻 X]]` (Obsidian wiki-links resolve by name, not path, so the `../` breaks it) — the fix there is just to drop the prefix, not the link.
+- **Callout/link paths missing the `../` prefix** — a broken link is never acceptable, and this is a recurring defect on older pages: `[X](words/X.md)` or `[[Lookup/...]]`-style links written as if the page lived at the vault root, when it actually needs `../words/X.md` etc. from inside `characters/`. Also watch for the inverse mistake — a relative-path prefix accidentally baked into wiki-link syntax itself, e.g. `[[../lookup/CC/finals/韻 X]]` (Obsidian wiki-links resolve by name, not path, so the `../` breaks it) — the fix there is just to drop the prefix, not the link.
 - **`mc_id` off-by-one** — don't trust a stored rank at face value even when a plausible-looking number is present; cross-check it against the actual line in `lookup/CC/CC 0000–3000.md`. Found twice in one night (艮: stored 2146 which is actually 鉞's rank,真 rank 2147; 煌: stored 2062 which is actually 蚡's rank, real rank 2063) — both were the entry immediately before the correct one, suggesting a systematic one-line-off transcription error somewhere upstream, not a one-off typo.
