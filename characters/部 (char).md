@@ -29,24 +29,24 @@ danayo_id: 2256
 mc_id: 704
 graphemic_classification: "咅"
 stand_in: "部"
-aliases:
 注音: "ㄅㄛㄨ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 部.
->For the word, see [部](words/部.md)
+>For the word, see [部](../words/部.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*boːʔ): semantic [[Radical 163|邑]] ("city, settlement") + phonetic [[咅]] (OC \*pʰɯʔ, \*pʰl'oːs) — originally a place name in Gansu; extended to "administrative division," "part."
-- [SKIP-1-8-3](lookup/SKIP/SKIP-1/SKIP-1-8-3.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 704th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄅㄛㄨ](syllables/ㄅㄛㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-8-3](../lookup/SKIP/SKIP-1/SKIP-1-8-3.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 704th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄅㄛㄨ](../syllables/ㄅㄛㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[部]]<rt>ㄅㄛㄨ</rt></ruby> "part" (stand-in for 部)
