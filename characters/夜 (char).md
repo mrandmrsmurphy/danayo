@@ -31,14 +31,14 @@ stand_in: 夜
 aliases:
   - 亱
 注音: ⼘
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 夜.
->For the word, see [夜](words/夜.md)
+>For the word, see [夜](../words/夜.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ boundedness: 65
 
 ## Notes
 - 形声 (Shuowen: 従夕，亦省聲): semantic [[Radical 036|夕]] ("evening") + phonetic [[亦 (char)|亦]] (abbreviated) — the time after evening; "night."
-- [SKIP-2-2-6](lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 510th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [⼘](syllables/⼘.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-6](../lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 510th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [⼘](../syllables/⼘.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[夜]]<rt>⼘</rt></ruby> "night" (stand-in for 夜)

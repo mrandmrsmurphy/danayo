@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 狸.
->For the word, see [狸](words/狸.md)
+>For the word, see [狸](../words/狸.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,11 @@ date-last-perfect: 2026-08-17
 
 ## Notes
 - 形声 (OC \*rɯʔ): semantic [犬](characters/犬%20(char).md) ("dog") + phonetic [里](characters/里%20(char).md) — originally an unorthodox variant of 貍; "tanuki, raccoon dog; leopard cat."
-- [SKIP-1-3-7](Lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 3008th most used character in Classical Chinese, recorded under the traditional/orthodox glyph 貍 (CC 3000.md: `3007. 揮`, `3008. 貍`, `3009. 粗`). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄌㄜ](syllables/ㄌㄜ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 3008th most used character in Classical Chinese, recorded under the traditional/orthodox glyph 貍 (CC 3000.md: `3007. 揮`, `3008. 貍`, `3009. 粗`). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄌㄜ](../syllables/ㄌㄜ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words
 - <ruby>[[狸]]<rt>ㄌㄜ</rt></ruby> "tanuki"
+- <ruby>[[海狸]]<rt>ㄏㄚㄧㄌㄜ</rt></ruby> "beaver"
+- <ruby>[[狐狸]]<rt>ㄏㄛㄌㄜ</rt></ruby> "fox"

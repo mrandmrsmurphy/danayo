@@ -32,22 +32,23 @@ stand_in: "大"
 aliases:
   - 亣
 注音: "ㄉㄚㄧ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 大.
->For the word, see [大](words/大.md)
+>For the word, see [大](../words/大.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC \*pa, \*ba, “man”), phonetically borrowed for 大 (OC \*daːds, \*daːds, “big”). Compare 人, which represents the profile of a person.
-- [SKIP-4-3-4](lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 15th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄉㄚㄧ](syllables/ㄉㄚㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a person facing forward. Original form of 夫 (OC \*pa, \*ba, “man”), phonetically borrowed for 大 (OC \*daːds, \*daːds, “big”). Compare 人, which represents the profile of a person.
+- [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 15th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby> "big" (stand-in for 大)

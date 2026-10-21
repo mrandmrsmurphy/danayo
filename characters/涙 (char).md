@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 涙.
->For the word, see [涙](words/涙.md)
+>For the word, see [涙](../words/涙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[戻]] (traditional 戾, OC \*rɯːds, \*rɯːd) — overall OC \*ruds.
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 3843rd most used character in Classical Chinese (ranked under the traditional form 淚). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄌㄨㄧ](syllables/ㄌㄨㄧ.md)
-- [Grade 5](lookup/Grade%205.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md) (not present in the Old HSK lists)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 3843rd most used character in Classical Chinese (ranked under the traditional form 淚). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄌㄨㄧ](../syllables/ㄌㄨㄧ.md)
+- [Grade 5](../lookup/Grade%205.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md) (not present in the Old HSK lists)
 
 ## Words
 - <ruby>[[涙]]<rt>ㄌㄨㄧ</rt></ruby> "tear, eye water" (stand-in for 涙)

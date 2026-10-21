@@ -29,20 +29,20 @@ danayo_id: 73
 mc_id: 92
 graphemic_classification: 象形
 stand_in: 立
-aliases:
 注音: ㄌㄧㄆ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 立.
->For the word, see [立](words/立.md)
+>For the word, see [立](../words/立.md)
 >For the radical, see [Radical 117](../lookup/Radicals/Radical%20117.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – a person standing on the ground; compare 大 and 文. This character is also a contracted form of 辛 on top of 妾 and 童. Unrelated to 音.
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))

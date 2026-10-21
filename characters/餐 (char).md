@@ -40,20 +40,20 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 餐.
->For the word, see [餐](words/餐.md)
+>For the word, see [餐](../words/餐.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 184|食]] ("eat, food") + phonetic 𣦼 (no character page in this vault) — to eat, to dine; a meal. Corrected a graphemic_classification bug: the field previously stored "會意," but both English and Chinese Wiktionary confirm this is a genuine 形聲 phono-semantic compound. Four further genuine variants added ([[湌]], [[飡]], [[䬸]], [[𩛳]]), alongside the already-stored [[喰]] — all five confirmed via both Wiktionary editions.
-- [SKIP-2-7-9](lookup/SKIP/SKIP-2/SKIP-2-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄑㄚㄋ](syllables/ㄑㄚㄋ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- 形聲: semantic [[Radical 184|食]] ("eat, food") + phonetic 𣦼 (no character page in this vault) — to eat, to dine; a meal. Genuine variants: [[喰]], [[湌]], [[飡]], [[䬸]], [[𩛳]] — all confirmed via both Wiktionary editions.
+- [SKIP-2-7-9](../lookup/SKIP/SKIP-2/SKIP-2-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄑㄚㄋ](../syllables/ㄑㄚㄋ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[餐]]<rt>ㄑㄚㄋ</rt></ruby> "eat; dine" (stand-in for 餐)

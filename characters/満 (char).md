@@ -31,22 +31,23 @@ aliases:
   - 滿
   - 满
 注音: ㄇㄚㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 満.
->For the word, see [満](words/満.md)
+>For the word, see [満](../words/満.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*moːnʔ): semantic [[Radical 085|氵]] ("water") + phonetic [[㒼]] ("cover") — water filling to the brim.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 697th most used character in Classical Chinese (ranked under the traditional form 滿). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄇㄚㄋ](syllables/ㄇㄚㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 697th most used character in Classical Chinese (ranked under the traditional form 滿). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄇㄚㄋ](../syllables/ㄇㄚㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby> "full" (stand-in for 満)

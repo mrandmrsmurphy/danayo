@@ -26,19 +26,19 @@ danayo_id: 65
 mc_id: 254
 graphemic_classification: 象形
 stand_in: 石
-aliases:
 注音: ㄙㄝㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 石.
->For the word, see [石](words/石.md)
+>For the word, see [石](../words/石.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): a stone beneath a cliff (厂). The cliff was subsequently distorted into 丆; compare 叚, 段 as well as 度, 席.
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))

@@ -29,14 +29,14 @@ stand_in: "徳"
 aliases:
   - 德
 注音: "ㄊㄨㄎ"
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 徳.
->For the word, see [徳](words/徳.md)
+>For the word, see [徳](../words/徳.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -59,3 +59,4 @@ boundedness:
 - <ruby>[[徳国]]<rt>ㄊㄨㄎㄍㄛㄎ</rt></ruby> "Germany"
 - <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium"
 - <ruby>[[徳島]]<rt>ㄊㄨㄎㄊㄚㄨ</rt></ruby> "Tokushima Prefecture"
+- <ruby>[[徳]]<rt>ㄊㄨㄎ</rt></ruby> "virtue"

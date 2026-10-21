@@ -32,16 +32,15 @@ danayo_id: 4226
 mc_id: 906
 graphemic_classification: "北"
 stand_in: "背"
-aliases:
 注音: "ㄅㄛㄧ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 背.
->For the word, see [背](words/背.md)
+>For the word, see [背](../words/背.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

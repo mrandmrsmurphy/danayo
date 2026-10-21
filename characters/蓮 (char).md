@@ -38,20 +38,20 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-23
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蓮.
->For the word, see [蓮](words/蓮.md)
+>For the word, see [蓮](../words/蓮.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (OC \*g·ren): semantic [[艸]] ("grass") + phonetic [連 (char)](characters/連%20(char).md) — "lotus" (*Nelumbo nucifera*). Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
-- [SKIP-2-3-10](Lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](Lookup/Stroke/Stroke%2013.md))
-- 4459th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄌ⼶ㄋ](syllables/ㄌ⼶ㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
+- 形声 (OC \*g·ren): semantic [[艸]] ("grass") + phonetic [[連 (char)]] — "lotus" (*Nelumbo nucifera*). Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
+- [SKIP-2-3-10](../lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 4459th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄌ⼶ㄋ](../syllables/ㄌ⼶ㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[蓮]]<rt>ㄌ⼶ㄋ</rt></ruby> "lotus" (stand-in for 蓮)

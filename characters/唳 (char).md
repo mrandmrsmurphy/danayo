@@ -27,13 +27,12 @@ danayo_id: 7476
 mc_id: 8277
 graphemic_classification: 戻
 stand_in: 唳
-aliases:
 注音: ㄌ⼶
 tags:
   - character
 kwin: true
 boundedness: 65
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 唳.
 >For the word, see [唳](../words/唳.md)
@@ -44,7 +43,7 @@ date-last-perfect: 2026-08-15
 ## Notes
 - 形声 (OC *rɯːds): semantic [[Radical 030|口]] ("mouth") + phonetic [[戻]] — a bird's cry, especially a crane's.
 - [SKIP-1-2-8](Lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 8277th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄌ⼶](syllables/ㄌ⼶.md)
+- 8277th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄌ⼶](../syllables/ㄌ⼶.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Missing](Lookup/Korean/Korean%20Missing.md)
 
 ## Words

@@ -36,10 +36,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 騙.
->For the word, see [騙](words/騙.md)
+>For the word, see [騙](../words/騙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 形声 (Zhengzhang OC \*pʰens): semantic [[馬 (char)|馬]] ("horse") + phonetic [[扁]] — the sense "to deceive" apparently derives from the notion of leaping onto a horse's back with a swift, deceptive motion.
-- [SKIP-1-10-9](lookup/SKIP/SKIP-1/SKIP-1-10-9.md) ([Stroke 19](lookup/Stroke/Stroke%2019.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](syllables/ㄆ⼶ㄋ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](Lookup/Korean/Korean%20Name%20ㅍ.md)
+- [SKIP-1-10-9](../lookup/SKIP/SKIP-1/SKIP-1-10-9.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](../syllables/ㄆ⼶ㄋ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](Lookup/Korean/Korean%20Name%20ㅍ.md)
 
 ## Words
 - <ruby>[[騙]]<rt>ㄆ⼶ㄋ</rt></ruby> "deceive, defraud" (stand-in for 騙)

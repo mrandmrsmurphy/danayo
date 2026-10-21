@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 謎.
->For the word, see [謎](words/謎.md)
+>For the word, see [謎](../words/謎.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (Zhengzhang OC \*miː, \*miːs): semantic [[Radical 149|言]] ("speech") + phonetic [[迷 (char)|迷]] ("to be lost, bewildered") — a riddle bewilders through speech.
-- [SKIP-1-7-10](lookup/SKIP/SKIP-1/SKIP-1-7-10.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- Not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](syllables/ㄇㄝㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-7-10](../lookup/SKIP/SKIP-1/SKIP-1-7-10.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- Not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](../syllables/ㄇㄝㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[謎]]<rt>ㄇㄝㄧ</rt></ruby> "riddle; mystery; enigma" (stand-in for 謎 (char))

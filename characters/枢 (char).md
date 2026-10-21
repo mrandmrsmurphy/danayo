@@ -36,18 +36,19 @@ kwin: true
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 枢.
->For the word, see [枢](words/枢.md)
+>For the word, see [枢](../words/枢.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形聲 (OC \*kʰjo): semantic [[Radical 075|木]] ("wood") + phonetic [[区]] (OC \*kʰo) — a door hinge; pivot; center of power.
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 2155th most used character in Classical Chinese (as its traditional form 樞). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄑㄨ](syllables/ㄑㄨ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2155th most used character in Classical Chinese (as its traditional form 樞). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄑㄨ](../syllables/ㄑㄨ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[枢]]<rt>ㄑㄨ</rt></ruby> "hinge; pivot" (stand-in for 枢)

@@ -37,22 +37,23 @@ aliases:
   - 绕
   - 遶
 注音: "ㄋㄛㄨ"
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 繞.
->For the word, see [繞](words/繞.md)
+>For the word, see [繞](../words/繞.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ŋjewʔ, \*ŋjaws): semantic [[Radical 120|糸]] ("rope") + phonetic [[堯]] (OC \*ŋeːw) — thread wound around, hence to entwine or surround.
-- [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md))
-- 2691st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄋㄛㄨ](syllables/ㄋㄛㄨ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-6-12](../lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
+- 2691st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄋㄛㄨ](../syllables/ㄋㄛㄨ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[繞]]<rt>ㄋㄛㄨ</rt></ruby> "entwine; surround; enclose" (stand-in for 繞)

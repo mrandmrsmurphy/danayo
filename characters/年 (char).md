@@ -28,19 +28,19 @@ danayo_id: 82
 mc_id: 25
 graphemic_classification: "千"
 stand_in: "年"
-aliases:
 注音: "ㄋㄝㄋ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 年.
->For the word, see [年](words/年.md)
+>For the word, see [年](../words/年.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *niːŋ): semantic [[Radical 115|禾]] ("wheat, grain") + phonetic [[人]] — originally "harvest"; in bronze inscriptions after the Western Zhou, a stroke was added to 人 giving [[千]], which still functions as the phonetic component in the modern form.
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))

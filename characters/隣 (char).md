@@ -35,10 +35,10 @@ kwin: true
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 隣.
->For the word, see [隣](words/隣.md)
+>For the word, see [隣](../words/隣.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*rin): semantic [[Radical 170|阜]] ("mound") + phonetic 粦 (no character page in this vault, OC \*rins) — "neighboring; next door." Shinjitai for traditional 鄰 (aliased, alongside simplified 邻); recorded under that alias's rank in `CC 1000.md`, since 隣 itself doesn't appear independently.
-- [SKIP-1-3-13](lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 1150th most used character in Classical Chinese, recorded under the alias 鄰. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄌㄧㄋ](syllables/ㄌㄧㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 1150th most used character in Classical Chinese, recorded under the alias 鄰. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄌㄧㄋ](../syllables/ㄌㄧㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[隣]]<rt>ㄌㄧㄋ</rt></ruby> "neighboring; next door" (stand-in for 隣)

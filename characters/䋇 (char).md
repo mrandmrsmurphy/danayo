@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 䋇.
 >For the word, see [䋇](../words/䋇.md)
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *laːɡ): semantic [[Radical 120|糸]] ("silk") + phonetic [[尺 (char)|尺]] — to unravel, draw out, explain; extended shinjitai simplification of traditional 繹 (whose own true phonetic is 睪; 尺 substitutes for it in this simplified form, sharing a matching ancient OC *laːɡ reading of its own).
-- [SKIP-1-6-4](Lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 2500th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [⼶ㄎ](syllables/⼶ㄎ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 2500th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [⼶ㄎ](../syllables/⼶ㄎ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[䋇]]<rt>⼶ㄎ</rt></ruby> "unravel, explain" (stand-in for 䋇 (char))

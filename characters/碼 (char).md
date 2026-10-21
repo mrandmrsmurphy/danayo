@@ -35,10 +35,10 @@ kwin: true
 tags:
   - character
 boundedness: 85
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 碼.
->For the word, see [碼](words/碼.md)
+>For the word, see [碼](../words/碼.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-13
 
 ## Notes
 - 形聲: semantic [[Radical 112|石]] ("stone") + phonetic [[馬 (char)|馬]] (OC \*mraːʔ, an exact match) — originally a small counting-stone or tally marker, extended to numerals, codes, and (via the English loanword) the yard unit of length.
-- [SKIP-1-5-10](lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` reflects this absence. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](syllables/ㄇㄚ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-5-10](../lookup/SKIP/SKIP-1/SKIP-1-5-10.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` reflects this absence. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
-- [碼](words/碼.md) "yard" — 碼 stands alone as a word in Dan'a'yo.
+- [碼](../words/碼.md) "yard" — 碼 stands alone as a word in Dan'a'yo.

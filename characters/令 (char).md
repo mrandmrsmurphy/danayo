@@ -41,13 +41,13 @@ aliases:
   - 囹
 注音: "ㄌㄝㄫ"
 kwin: false
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 tags:
   - character
 boundedness: 85
 ---
 >[!tip] This is a page about the character 令.
->For the word, see [令](words/令.md)
+>For the word, see [令](../words/令.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,9 +55,9 @@ boundedness: 85
 
 ## Notes
 - 会意 (OC *reŋs): a kneeling figure (人) positioned below a covering sign — one summoned under authority; from this image derive both the sense of "to cause/order" (令人 = "to make a person...") and the ranked administrative document below 詔 (imperial edict) in the Tang document hierarchy.
-- [SKIP-2-2-3](lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 5](lookup/Stroke/Stroke%205.md))
-- 88th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](syllables/ㄌㄝㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 5](../lookup/Stroke/Stroke%205.md))
+- 88th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](../syllables/ㄌㄝㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"
@@ -67,6 +67,8 @@ boundedness: 85
 - <ruby>[[勅令]]<rt>ㄑㄧㄎㄌㄝㄫ</rt></ruby> "imperial edict; decree"
 - <ruby>[[令色]]<rt>ㄌㄝㄫㄙㄧㄎ</rt></ruby> "flattering looks; sycophantic expression"
 - <ruby>[[辞令]]<rt>ㄑㄧㄌㄝㄫ</rt></ruby> "letter of dismissal/letter of resignation"
+- <ruby>[[命令]]<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby> "decree; order; command"
+- <ruby>[[禁令]]<rt>ㄍㄧㄇㄌㄝㄫ</rt></ruby> "prohibition order; ban; edict of prohibition"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"
@@ -82,3 +84,4 @@ boundedness: 85
 - <ruby>[[笭]]<rt>ㄌ⼶ㄫ</rt></ruby> "bamboo screen"
 - <ruby>[[領]]<rt>ㄌㄧㄫ</rt></ruby> "territory"
 - <ruby>[[齢]]<rt>ㄌㄝㄫ</rt></ruby> "age, years"
+- <ruby>[[蛉]]<rt>ㄌㄝㄫ</rt></ruby> "dragonfly; small flying insect"

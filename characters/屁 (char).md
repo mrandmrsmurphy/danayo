@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 屁.
->For the word, see [屁](words/屁.md)
+>For the word, see [屁](../words/屁.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形聲: semantic [[Radical 044|尸]] ("body") + phonetic [[比 (char)|比]] — flatulence, a fart; (colloquially) worthless, rubbish. Variant [[䊧]] confirmed via both English and Chinese Wiktionary.
-- [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄆㄧㄜ](syllables/ㄆㄧㄜ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+- [SKIP-3-3-4](../lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄆㄧㄜ](../syllables/ㄆㄧㄜ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
-- [屁](words/屁.md) "fart, flatulence" — 屁 stands alone as a word in Dan'a'yo.
+- [屁](../words/屁.md) "fart, flatulence" — 屁 stands alone as a word in Dan'a'yo.

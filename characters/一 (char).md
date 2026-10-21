@@ -28,7 +28,7 @@ danayo_id: 1
 mc_id: 28
 graphemic_classification: 指事
 stand_in: 一
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 注音: ㄧㄊ
 kwin: true
 tags:
@@ -36,16 +36,17 @@ tags:
 boundedness: 90
 ---
 >[!warning] This is a page about the character 一.
->For the word, see [一](words/一.md)
->For the radical, see [Radical 001](lookup/Radicals/Radical%20001.md)
+>For the word, see [一](../words/一.md)
+>For the radical, see [Radical 001](../lookup/Radicals/Radical%20001.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): a single horizontal stroke marking the number "one" — the simplest possible ideographic mark, with nothing pictorial to depict since a numeral is an abstraction. This character is also the first Kangxi radical, [[Radical 001|一]].
-- [SKIP-4-1-4](lookup/SKIP/SKIP-4/SKIP-4-1-4.md) ([Stroke 01](lookup/Stroke/Stroke%2001.md))
-- 28th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](syllables/ㄧㄊ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): a single horizontal stroke marking the number "one" — the simplest possible ideographic mark, with nothing pictorial to depict since a numeral is an abstraction. This character is also the first Kangxi radical, [[Radical 001|一]].
+- [SKIP-4-1-4](../lookup/SKIP/SKIP-4/SKIP-4-1-4.md) ([Stroke 01](../lookup/Stroke/Stroke%2001.md))
+- 28th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](../syllables/ㄧㄊ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 千, 百, 十, 半) to disambiguate the exact quantity.
@@ -87,6 +88,8 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一刻]]<rt>ㄧㄊㄎㄨㄎ</rt></ruby> "a moment"
 - <ruby>[[一生]]<rt>ㄧㄊㄙㄚㄫ</rt></ruby> "lifetime; one's whole life"
 - <ruby>[[一同]]<rt>ㄧㄊㄉㄛㄫ</rt></ruby> "together; all as one"
+- <ruby>[[一処]]<rt>ㄧㄊㄑㄛ</rt></ruby> "in one place; together"
+- <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby> "a dozen; twelve"
 
 ## Chengyu
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"
@@ -114,7 +117,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 
 ## Derived Characters
 This character is also Radical 001; fifteen other characters in this vault (七, 丁, 丈, 三, 上, 下, 与, 不, 且, 丘, 両, 丐, 丑, 丞, 世) are indexed under it for Kangxi radical purposes without being true etymological descendants. Two genuine compositional descendants:
-- <ruby>[戌](characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> "the eleventh earthly branch" (形声, phonetic 一)
+- <ruby>[[戌]]<rt>ㄙㄨㄊ</rt></ruby> "the eleventh earthly branch" (形声, phonetic 一)
 - <ruby>[之 (char)](之%20(char).md)<rt>ㄊㄧ</rt></ruby> "possessive/relative particle" (会意, 止 "foot" + 一 "the starting place")
 
 ![[nav/Numerals]]

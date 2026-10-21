@@ -33,14 +33,14 @@ aliases:
   - 經
   - 经
 注音: ㄍㄝㄫ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 経.
->For the word, see [経](words/経.md)
+>For the word, see [経](../words/経.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

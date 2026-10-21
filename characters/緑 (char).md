@@ -32,23 +32,23 @@ aliases:
   - 綠
   - 绿
 注音: ㄌㄛㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 緑.
->For the word, see [緑](words/緑.md)
+>For the word, see [緑](../words/緑.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*roɡ): semantic [[Radical 120|糸]] ("silk, thread") + phonetic 彔 (OC \*b·roːɡ) — dyed silk or green-colored textiles; green.
-- [SKIP-1-6-8](lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 2419th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄌㄛㄎ](syllables/ㄌㄛㄎ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- abbreviation for <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium" in periodic-table formulae — see [[Periodic Table]]
+- [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 2419th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄌㄛㄎ](../syllables/ㄌㄛㄎ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[緑]]<rt>ㄌㄛㄎ</rt></ruby> "green" (stand-in for 緑)

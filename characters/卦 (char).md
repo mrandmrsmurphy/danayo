@@ -32,7 +32,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 卦.
 >For the word, see [卦](../words/卦.md)
@@ -43,9 +43,9 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *kʷreːs): semantic [[Radical 025|卜]] ("divination") + phonetic [[圭]] — a trigram or hexagram of the I Ching.
-- [SKIP-1-6-2](Lookup/SKIP/SKIP-1/SKIP-1-6-2.md) ([Stroke 08](Lookup/Stroke/Stroke%2008.md))
-- 1567th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳合|ɣuɛ]] → [ㄍ⺢ㄧ](syllables/ㄍ⺢ㄧ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-6-2](../lookup/SKIP/SKIP-1/SKIP-1-6-2.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1567th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳合|ɣuɛ]] → [ㄍ⺢ㄧ](../syllables/ㄍ⺢ㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[卦]]<rt>ㄍ⺢ㄧ</rt></ruby> "trigram" (stand-in for 卦 (char))

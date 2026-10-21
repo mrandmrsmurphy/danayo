@@ -28,16 +28,15 @@ danayo_id: 7403
 mc_id: 5112
 graphemic_classification: "会意"
 stand_in: "柬"
-aliases:
 注音: "ㄍ⼘ㄋ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 柬.
->For the word, see [柬](words/柬.md)
+>For the word, see [柬](../words/柬.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,16 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 会意 (Zhengzhang OC \*kreːnʔ): [[束 (char)|束]] ("tie") + [[八 (char)|八]] ("division, individually") — to pick or select from a tied bundle; the sense later written as 揀/拣.
-- [SKIP-4-9-3](lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 5112th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 山開|ɣɛn]] → [ㄍ⼘ㄋ](syllables/ㄍ⼘ㄋ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-4-9-3](../lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 5112th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 山開|ɣɛn]] → [ㄍ⼘ㄋ](../syllables/ㄍ⼘ㄋ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[柬]]<rt>ㄍ⼘ㄋ</rt></ruby> "letter, invitation"
+
+## Derived Characters
+- <ruby>[[揀]]<rt>ㄍ⼘ㄋ</rt></ruby> "choose; pick"
+- <ruby>[[諌]]<rt>ㄍ⼘ㄋ</rt></ruby> "admonish"
+- <ruby>[[錬]]<rt>ㄌㄝㄋ</rt></ruby> "temper; refine; smelt"
+- <ruby>[[練]]<rt>ㄌㄝㄋ</rt></ruby> "practice"
+- <ruby>[[剌]]<rt>ㄌㄚㄊ</rt></ruby> "lively"

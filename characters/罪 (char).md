@@ -29,16 +29,15 @@ danayo_id: 3221
 mc_id: 216
 graphemic_classification: "会意"
 stand_in: "罪"
-aliases:
 注音: "ㄐㄛㄧ"
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 罪.
->For the word, see [罪](words/罪.md)
+>For the word, see [罪](../words/罪.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

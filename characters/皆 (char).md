@@ -27,9 +27,8 @@ danayo_id: 176
 mc_id: 68
 graphemic_classification: 会意
 stand_in: 皆
-aliases:
 注音: ㄍ⼶
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
@@ -40,6 +39,7 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意, though genuinely contested: modern Old Chinese reconstruction (OC \*kriːl) favors 形声, with semantic [[Radical 141|虍]] and phonetic [[口 (char)|口]] (OC \*krilʔ). The vault follows Shuowen's reinterpretation instead — once the bottom component visually corrupted from 甘 into 白, Shuowen reanalyzed the character as [[比 (char)|比]] ("to stand side by side") + [[Radical 106|白]] ("white") — "all, every, altogether." See [List of 会意](../lookup/List%20of%20会意.md).
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))

@@ -31,16 +31,15 @@ danayo_id: 6266
 mc_id: 1029
 graphemic_classification: 会意
 stand_in: 竟
-aliases:
 注音: ㄍ⼶ㄫ
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 竟.
->For the word, see [竟](words/竟.md)
+>For the word, see [竟](../words/竟.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +47,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 會意 (per Shuowen): [[音]] ("sound, speech") + 儿 ("person," no character page exists for it in this vault) — "a person has finished speaking," the original sense "to finish, end," extended to the adverbial "finally, after all, at last."
-- [SKIP-2-5-6](lookup/SKIP/SKIP-2/SKIP-2-5-6.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1029th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄍ⼶ㄫ](syllables/ㄍ⼶ㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-5-6](../lookup/SKIP/SKIP-2/SKIP-2-5-6.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1029th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄍ⼶ㄫ](../syllables/ㄍ⼶ㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[竟]]<rt>ㄍ⼶ㄫ</rt></ruby> "finally, after all" (stand-in for 竟)

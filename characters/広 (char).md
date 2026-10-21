@@ -33,23 +33,24 @@ aliases:
   - 旷
   - 广
 注音: ㄍ⺢ㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 広.
->For the word, see [広](words/広.md)
+>For the word, see [広](../words/広.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɡʷaːŋ): semantic [[Radical 053|广]] ("shelter, structure") + phonetic [[黄 (char)|黄]] — "broad, wide, extensive, vast."
-- [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 325th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 唐合|wɑŋ]] → [ㄍ⺢ㄫ](syllables/ㄍ⺢ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 325th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 唐合|wɑŋ]] → [ㄍ⺢ㄫ](../syllables/ㄍ⺢ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[広]]<rt>ㄍ⺢ㄫ</rt></ruby> "wide" (stand-in for 広)
@@ -67,3 +68,4 @@ boundedness:
 
 ## Derived Characters
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"
+- <ruby>[[鉱]]<rt>ㄍ⺢ㄫ</rt></ruby> "mineral; ore"

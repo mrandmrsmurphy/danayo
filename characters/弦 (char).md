@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 弦.
->For the word, see [弦](words/弦.md)
+>For the word, see [弦](../words/弦.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*ɡeːn): semantic [[Radical 057|弓]] ("bow") + phonetic [[玄]] (OC \*ɡʷeːn) — "bowstring," extended to "chord; string; hypotenuse."
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 1291st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏㄝㄋ](syllables/ㄏㄝㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1291st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏㄝㄋ](../syllables/ㄏㄝㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[弦]]<rt>ㄏㄝㄋ</rt></ruby> "bowstring; chord; string; hypotenuse" (stand-in for 弦)

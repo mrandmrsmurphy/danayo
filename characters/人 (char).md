@@ -33,25 +33,26 @@ aliases:
   - ⺈
   - 𠂉
 注音: ㄋㄧㄋ
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character **人**.
->For the word, see [人](words/人.md)
+>For the word, see [人](../words/人.md)
 >For the radical, see [Radical 009](../lookup/Radicals/Radical%20009.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – side view of a standing man, highlighting an arm and a leg. 
-- [SKIP-4-2-4](lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md)) - [ㄋㄧㄋ](../syllables/ㄋㄧㄋ.md)
+- [SKIP-4-2-4](../lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md)) - [ㄋㄧㄋ](../syllables/ㄋㄧㄋ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 - 10th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]]
 ### Derived Characters (not the radical)
-- <ruby>[及 (char)](/characters/及%20(char).md)<rt>ㄍㄨㄆ</rt></ruby> "reach out to"
+- <ruby>[[及 (char)]]<rt>ㄍㄨㄆ</rt></ruby> "reach out to"
 - <ruby>[[信]]<rt>ㄙㄧㄋ</rt></ruby> "trust, believe"
 - <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> "thousand"
 - <ruby>[[仁]]<rt>ㄋㄧㄋ</rt></ruby> "benevolence"
@@ -138,6 +139,8 @@ boundedness: 75
 - <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
 - <ruby>[[朝鮮人]]<rt>ㄐㄚㄨㄙ⼶ㄇㄋㄧㄋ</rt></ruby> "Joseon person; Korean"
 - <ruby>[[人気]]<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby> "popularity; popular"
+- <ruby>[[大人]]<rt>ㄉㄚㄧㄋㄧㄋ</rt></ruby> "adult; grown up"
+- <ruby>[[恩人]]<rt>ㄜㄋㄋㄧㄋ</rt></ruby> "benefactor; patron"
 
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"

@@ -36,10 +36,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 融.
->For the word, see [融](words/融.md)
+>For the word, see [融](../words/融.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*luŋ): semantic 鬲 ("cauldron"; no vault page) + phonetic [[虫]] (traditional 蟲, OC \*l'uŋ) — "to melt, blend, harmonize."
-- [SKIP-1-10-6](lookup/SKIP/SKIP-1/SKIP-1-10-6.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 1372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [⼜ㄫ](syllables/⼜ㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-10-6](../lookup/SKIP/SKIP-1/SKIP-1-10-6.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 1372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [⼜ㄫ](../syllables/⼜ㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[融]]<rt>⼜ㄫ</rt></ruby> "melt, blend, harmonize" (stand-in for 融)

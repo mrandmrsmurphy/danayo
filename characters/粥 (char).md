@@ -36,10 +36,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 粥.
->For the word, see [粥](words/粥.md)
+>For the word, see [粥](../words/粥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 會意: a reduced form of 鬻 (pageless in this vault; ⿲弓米弓, an ideogrammic compound, the original character for "congee") — congee, rice gruel, porridge.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2081st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄐㄨㄎ](syllables/ㄐㄨㄎ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2081st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄐㄨㄎ](../syllables/ㄐㄨㄎ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[粥]]<rt>ㄐㄨㄎ</rt></ruby> "congee" (stand-in for 粥)

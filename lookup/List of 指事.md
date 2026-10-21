@@ -1,8 +1,8 @@
 ---
-size: 50
+size: 49
 tags:
   - lookup
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-10-20
 ---
 # 指事 — Simple Indicatives
 ## Explained
@@ -121,33 +121,32 @@ In a constructed system, 指事 is best treated as a **minimal symbolic layer**,
 26. <ruby>[夭](/characters/夭.md)<rt>⼄ㄨ</rt></ruby> - a figure bending forward as if running — young, premature death
 27. <ruby>[曰](/characters/曰%20(char).md)<rt>⼔ㄊ</rt></ruby> - a mouth with breath or a word coming out — "to say"
 ### 5
-28. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - four, originally "breathing"
-29. <ruby>[丘](/characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - a raised mound between two peaks — a natural hill
-30. <ruby>[古](/characters/古.md)<rt>ㄍㄛ</rt></ruby> - a shield over a mouth — "ancient, old"
-31. <ruby>[央](/characters/央.md)<rt>⼘ㄫ</rt></ruby> - a person with the center (neck/waist) marked — "center"
-32. <ruby>[本](/characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> - a mark at the base of 木 ("tree") — root, origin
-33. <ruby>[末](/characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> - a mark across the top of 木 ("tree") — tip, end
-34. <ruby>[旦](/characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> - 日 above 一 — the sun rising above the horizon; daybreak
-35. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> - 氏 with a mark ("ground") affixed below — to reach bottom, base
-36. <ruby>[玄](/characters/玄%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - a twisted, dyed cord — deep black; extended to "profound, mysterious"
-37. <ruby>[甘](/characters/甘%20(char).md)<rt>ㄍㄚㄇ</rt></ruby> - something sweet held in an open mouth
+28. <ruby>[丘](/characters/丘%20(char).md)<rt>ㄎ⼜</rt></ruby> - a raised mound between two peaks — a natural hill
+29. <ruby>[古](/characters/古.md)<rt>ㄍㄛ</rt></ruby> - a shield over a mouth — "ancient, old"
+30. <ruby>[央](/characters/央.md)<rt>⼘ㄫ</rt></ruby> - a person with the center (neck/waist) marked — "center"
+31. <ruby>[本](/characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> - a mark at the base of 木 ("tree") — root, origin
+32. <ruby>[末](/characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> - a mark across the top of 木 ("tree") — tip, end
+33. <ruby>[旦](/characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> - 日 above 一 — the sun rising above the horizon; daybreak
+34. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> - 氏 with a mark ("ground") affixed below — to reach bottom, base
+35. <ruby>[玄](/characters/玄%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - a twisted, dyed cord — deep black; extended to "profound, mysterious"
+36. <ruby>[甘](/characters/甘%20(char).md)<rt>ㄍㄚㄇ</rt></ruby> - something sweet held in an open mouth
 ### 6
-38. <ruby>[亙](/characters/亙%20(char).md)<rt>ㄍㄨㄫ</rt></ruby> - the crescent moon spanning between two lines — extending across
-39. <ruby>[亦](/characters/亦%20(char).md)<rt>ㄜㄎ</rt></ruby> - a human figure with emphasis marks on the armpits, original form of 腋
-40. <ruby>[曲](/characters/曲.md)<rt>ㄎ⼄ㄎ</rt></ruby> - a bent or curved object — crookedness
-41. <ruby>[行](/characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - a crossroads — to walk, to travel
-42. <ruby>[朱](/characters/朱.md)<rt>ㄐㄨ</rt></ruby> - a tree (木) with its trunk marked — cinnabar, vermilion
-43. <ruby>[朶](/characters/朶.md)<rt>ㄉㄚ</rt></ruby> - a stalk with something drooping — a hanging cluster, blossom
-44. <ruby>[牟](/characters/牟.md)<rt>ㄇㄨ</rt></ruby> - an ox (牛) with a mark representing its lowing
-45. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> - an arrow stuck into the ground — to arrive, utmost arrival
+37. <ruby>[亙](/characters/亙%20(char).md)<rt>ㄍㄨㄫ</rt></ruby> - the crescent moon spanning between two lines — extending across
+38. <ruby>[亦](/characters/亦%20(char).md)<rt>ㄜㄎ</rt></ruby> - a human figure with emphasis marks on the armpits, original form of 腋
+39. <ruby>[曲](/characters/曲.md)<rt>ㄎ⼄ㄎ</rt></ruby> - a bent or curved object — crookedness
+40. <ruby>[行](/characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - a crossroads — to walk, to travel
+41. <ruby>[朱](/characters/朱.md)<rt>ㄐㄨ</rt></ruby> - a tree (木) with its trunk marked — cinnabar, vermilion
+42. <ruby>[朶](/characters/朶.md)<rt>ㄉㄚ</rt></ruby> - a stalk with something drooping — a hanging cluster, blossom
+43. <ruby>[牟](/characters/牟.md)<rt>ㄇㄨ</rt></ruby> - an ox (牛) with a mark representing its lowing
+44. <ruby>[至](/characters/至%20(char).md)<rt>ㄐㄧㄜ</rt></ruby> - an arrow stuck into the ground — to arrive, utmost arrival
 ### 7
-46. <ruby>[束](/characters/束%20(char).md)<rt>ㄙ⼄ㄎ</rt></ruby> - a bag tied at both ends — to bind, a bundle
-47. <ruby>[言](/characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - 口 with a mark of debated origin — speech, to say
+45. <ruby>[束](/characters/束%20(char).md)<rt>ㄙ⼄ㄎ</rt></ruby> - a bag tied at both ends — to bind, a bundle
+46. <ruby>[言](/characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - 口 with a mark of debated origin — speech, to say
 ### 9
-48. <ruby>[昷](/characters/昷.md)<rt>ㄛㄆ</rt></ruby> - a person bathing in warm water in a container — original form of 温/溫
-49. <ruby>[音](/characters/音.md)<rt>ㄨㄇ</rt></ruby> - 言 with an added mark for sound emitted from the mouth
+47. <ruby>[昷](/characters/昷.md)<rt>ㄛㄆ</rt></ruby> - a person bathing in warm water in a container — original form of 温/溫
+48. <ruby>[音](/characters/音.md)<rt>ㄨㄇ</rt></ruby> - 言 with an added mark for sound emitted from the mouth
 ### 11
-50. <ruby>[寅](/characters/寅.md)<rt>ㄧㄋ</rt></ruby> - an arrow with a distinguishing mark; third of the twelve earthly branches
+49. <ruby>[寅](/characters/寅.md)<rt>ㄧㄋ</rt></ruby> - an arrow with a distinguishing mark; third of the twelve earthly branches
 
 ## Base check
 ```base

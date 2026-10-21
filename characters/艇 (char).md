@@ -28,16 +28,15 @@ danayo_id: 6113
 mc_id: 6475
 graphemic_classification: "廷"
 stand_in: "艇"
-aliases:
 注音: "ㄉㄝㄫ"
 kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 艇.
->For the word, see [艇](words/艇.md)
+>For the word, see [艇](../words/艇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*l'eːŋʔ): semantic [[Radical 137|舟]] ("boat") + phonetic [[廷]] (OC \*l'eːŋ) — a small boat, "dinghy, rowboat."
-- [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 6475` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](syllables/ㄉㄝㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-6-7](../lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 6475th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](../syllables/ㄉㄝㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[艇]]<rt>ㄉㄝㄫ</rt></ruby> "dinghy, rowboat, boat" (stand-in for 艇)

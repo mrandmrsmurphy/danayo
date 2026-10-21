@@ -27,16 +27,15 @@ danayo_id: 8139
 mc_id: 0
 graphemic_classification: "奈"
 stand_in: "捺"
-aliases:
 注音: "ㄋㄚㄊ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 捺.
->For the word, see [捺](words/捺.md)
+>For the word, see [捺](../words/捺.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-17
 
 ## Notes
 - 形声 (OC \*naːd): semantic [[Radical 064|手]] ("hand") + phonetic [[奈]] — "to press down firmly with the hand"; in calligraphy, the stroke that falls downward to the right (㇏).
-- [SKIP-1-3-8](Lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
-- mc_id confirmed absent from all Classical Chinese frequency lists (rank 0). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄋㄚㄊ](syllables/ㄋㄚㄊ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄴ](Lookup/Korean/Korean%20Name%20ㄴ.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- mc_id confirmed absent from all Classical Chinese frequency lists (rank 0). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄋㄚㄊ](../syllables/ㄋㄚㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)
 
 ## Words
 - <ruby>[[捺]]<rt>ㄋㄚㄊ</rt></ruby> "right down stroke"

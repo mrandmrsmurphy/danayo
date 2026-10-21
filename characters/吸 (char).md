@@ -35,9 +35,8 @@ danayo_id: 4053
 mc_id: 2349
 graphemic_classification: 及
 stand_in: 吸
-aliases:
 注音: ㄏㄧㄆ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character

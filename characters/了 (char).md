@@ -38,7 +38,7 @@ mc_id: 3820
 graphemic_classification: "象形"
 stand_in: "了"
 注音: "ㄌ⼘ㄨ"
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character

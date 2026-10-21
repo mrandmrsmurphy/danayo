@@ -29,16 +29,15 @@ danayo_id: 7138
 mc_id: 7564
 graphemic_classification: "甚"
 stand_in: "勘"
-aliases:
 注音: "ㄎㄚㄇ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 勘.
->For the word, see [勘](words/勘.md)
+>For the word, see [勘](../words/勘.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*kʰluːms): semantic [[力 (char)|力]] ("strength") + phonetic [[甚]] (OC \*ɡljumʔ/\*ɡljums, a loose match) — to look at carefully; to investigate, to proofread, to compare.
-- [SKIP-1-9-2](lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 7564` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄎㄚㄇ](syllables/ㄎㄚㄇ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-9-2](../lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 7564th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄎㄚㄇ](../syllables/ㄎㄚㄇ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[勘]]<rt>ㄎㄚㄇ</rt></ruby> "investigate" (stand-in for 勘)

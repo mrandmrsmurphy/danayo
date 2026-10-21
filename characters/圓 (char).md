@@ -34,22 +34,23 @@ aliases:
   - 圆
   - 円
 注音: ⼔ㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 圓.
->For the word, see [圓](words/圓.md)
+>For the word, see [圓](../words/圓.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɢon): semantic [[Radical 031|囗]] ("enclosure") + phonetic [[員]] (OC \*ɢon, \*ɢun) — the interior 口 is really 〇, the original ideogram for "circle"; 鼎 and 囗 were added later.
-- [SKIP-3-3-10](lookup/SKIP/SKIP-3/SKIP-3-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 1870th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼔ㄋ](syllables/⼔ㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-10](../lookup/SKIP/SKIP-3/SKIP-3-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1870th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼔ㄋ](../syllables/⼔ㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - This is a rare example of a divergence from Shinjitai, as the character 円 is too Japanese, and associated with Japanese money/yen.
 
 ## Words
@@ -69,3 +70,6 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
+
+## Derived Characters
+- <ruby>[[員]]<rt>ㄨㄋ</rt></ruby> "personnel; employee"

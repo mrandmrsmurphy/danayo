@@ -28,21 +28,20 @@ danayo_id: 71
 mc_id: 267
 graphemic_classification: "象形"
 stand_in: "白"
-aliases:
 注音: "ㄅㄚㄎ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 白.
->For the word, see [白](words/白.md)
+>For the word, see [白](../words/白.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- abbreviation for <ruby>[[白金]]<rt>ㄅㄚㄎㄍㄧㄇ</rt></ruby> "platinum" in periodic-table formulae — see [[Periodic Table]]
 - [List of 象形](../lookup/List%20of%20象形.md): uncertain origin; proposed interpretations include an acorn (compare 櫟) or a human head (compare 貌 "face," 黑 "black").
 - [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 267th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅㄚㄎ](../syllables/ㄅㄚㄎ.md)
@@ -85,3 +84,4 @@ boundedness: 100
 - <ruby>[[泊]]<rt>ㄅㄚㄎ</rt></ruby> "lie at anchor"
 - <ruby>[[舶]]<rt>ㄅㄚㄎ</rt></ruby> "oceangoing ship"
 - <ruby>[[迫]]<rt>ㄅㄚㄎ</rt></ruby> "force, compel"
+- <ruby>[[習]]<rt>ㄙㄜㄆ</rt></ruby> "practice"

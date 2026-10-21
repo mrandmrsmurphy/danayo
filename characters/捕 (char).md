@@ -31,24 +31,24 @@ danayo_id: 5224
 mc_id: 1098
 graphemic_classification: "甫"
 stand_in: "捕"
-aliases:
 注音: "ㄅㄛ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 捕.
->For the word, see [捕](words/捕.md)
+>For the word, see [捕](../words/捕.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 064|扌]] ("hand") + phonetic [[甫]] (OC \*paʔ) — overall OC \*baːs.
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1098th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄅㄛ](syllables/ㄅㄛ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1098th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄅㄛ](../syllables/ㄅㄛ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[捕]]<rt>ㄅㄛ</rt></ruby> "catch, grab" (stand-in for 捕)

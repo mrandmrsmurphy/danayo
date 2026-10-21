@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 卸.
->For the word, see [卸](words/卸.md)
+>For the word, see [卸](../words/卸.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*sŋjaːs): an omission of 彳 from [[御]], with [[午]] (OC \*ŋaːʔ) still supplying the sound + [[Radical 026|卩]] ("seal, joint") — to unload; to take off, remove; to release, resign, retire.
-- [SKIP-1-7-2](lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6746`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄙ⼘](syllables/ㄙ⼘.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6746`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄙ⼘](../syllables/ㄙ⼘.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[卸]]<rt>ㄙ⼘</rt></ruby> "retire; lay down" (stand-in for 卸)

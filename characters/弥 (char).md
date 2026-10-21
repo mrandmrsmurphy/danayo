@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 弥.
->For the word, see [弥](words/弥.md)
+>For the word, see [弥](../words/弥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*mnel): semantic [[Radicals/Radical 057|弓]] ("bow") + phonetic [[爾 (char)|爾]] (OC \*njelʔ) — "all the more, increasingly."
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 1184th most used character in Classical Chinese (as 彌). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄇㄝ](syllables/ㄇㄝ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1184th most used character in Classical Chinese (as 彌). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄇㄝ](../syllables/ㄇㄝ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[弥]]<rt>ㄇㄝ</rt></ruby> "all the more, increasingly" (stand-in for 弥)
@@ -56,5 +56,5 @@ date-last-perfect: 2026-08-08
 - <ruby>[[弥勒]]<rt>ㄇㄝㄌㄨㄎ</rt></ruby> "Maitreya"
 
 ## Derived Characters
-- [[祢]]
-- [[璽]]
+- <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> "thou; one's deceased father"
+- <ruby>[[璽]]<rt>ㄙㄝ</rt></ruby> "emperor's seal"

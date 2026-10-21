@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 槌.
->For the word, see [槌](words/槌.md)
+>For the word, see [槌](../words/槌.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 形声 (Zhengzhang OC \*dols, \*dul): semantic [[木 (char)|木]] ("wood") + phonetic [[追 (char)|追]].
-- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 5656th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄐ⼔ㄧ](syllables/ㄐ⼔ㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 5656th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄐ⼔ㄧ](../syllables/ㄐ⼔ㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words
 - <ruby>[[槌]]<rt>ㄐ⼔ㄧ</rt></ruby> "hammer"

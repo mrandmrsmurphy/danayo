@@ -30,28 +30,28 @@ danayo_id: 5206
 mc_id: 230
 graphemic_classification: "会意"
 stand_in: "孔"
-aliases:
 注音: "ㄎㄛㄫ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 孔.
->For the word, see [孔](words/孔.md)
+>For the word, see [孔](../words/孔.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: [[Radical 004|丿]] ("opening") + [[Radical 039|子]] ("child") — the opening in a newborn's skull, i.e. the fontanelle — "cavity."
-- [SKIP-1-3-1](lookup/SKIP/SKIP-1/SKIP-1-3-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 230th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄎㄛㄫ](syllables/ㄎㄛㄫ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-1](../lookup/SKIP/SKIP-1/SKIP-1-3-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 230th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄎㄛㄫ](../syllables/ㄎㄛㄫ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[孔](words/孔.md)<rt>ㄎㄛㄫ</rt></ruby> "cavity" (stand-in for 孔)
+- <ruby>[[孔]]<rt>ㄎㄛㄫ</rt></ruby> "cavity" (stand-in for 孔)
 - <ruby>[[孔子]]<rt>ㄎㄛㄫㄐㄜ</rt></ruby> "Confucius"
 - <ruby>[[孔教]]<rt>ㄎㄛㄫㄍ⼄ㄨ</rt></ruby> "Confucianism"
 - <ruby>[[孔明]]<rt>ㄎㄛㄫㄇ⼶ㄫ</rt></ruby> "bright"

@@ -34,20 +34,20 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蹄.
->For the word, see [蹄](words/蹄.md)
+>For the word, see [蹄](../words/蹄.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [足 (char)](characters/足%20(char).md) ("foot") + phonetic [帝](characters/帝.md) — "hoof."
-- [SKIP-1-7-9](Lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](Lookup/Stroke/Stroke%2016.md))
-- 2932nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](syllables/ㄉㄝㄧ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- 形声: semantic [[足 (char)]] ("foot") + phonetic [[帝]] — "hoof."
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 2932nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](../syllables/ㄉㄝㄧ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[蹄]]<rt>ㄉㄝㄧ</rt></ruby> "hoof" (stand-in for 蹄)

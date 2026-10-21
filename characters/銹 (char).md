@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 銹.
->For the word, see [銹](words/銹.md)
+>For the word, see [銹](../words/銹.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (OC \*slus): semantic [[Radical 167|金]] ("metal") + phonetic [[秀 (char)|秀]].
-- [SKIP-1-8-7](lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 8367th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄙ⼜](syllables/ㄙ⼜.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-1-8-7](../lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 8367th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄙ⼜](../syllables/ㄙ⼜.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[銹]]<rt>ㄙ⼜</rt></ruby> "rust"

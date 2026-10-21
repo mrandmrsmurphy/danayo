@@ -41,10 +41,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 炒.
->For the word, see [炒](words/炒.md)
+>For the word, see [炒](../words/炒.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,9 +52,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*sʰroːʔ): semantic [[Radical 086|火]] ("fire") + phonetic [[少 (char)|少]] (OC \*hmjewʔ) — to stir-fry, sauté.
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7495`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](syllables/ㄑㄚㄨ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7495`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[炒]]<rt>ㄑㄚㄨ</rt></ruby> "fry; sauté" (stand-in for 炒)

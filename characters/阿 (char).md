@@ -34,21 +34,22 @@ kwin: true
 tags:
   - character
 boundedness: 45
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 阿.
->For the word, see [阿](words/阿.md)
+>For the word, see [阿](../words/阿.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*qaːl): semantic [[Radical 170|阜]] ("mound, hill") + phonetic [[可 (char)|可]] (OC \*kʰaːlʔ) — "hill, slope," later borrowed as a vocative prefix and transliteration syllable.
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 1089th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](syllables/ㄚ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md) — dropped from the Korean HS list in 2000.
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1089th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](../syllables/ㄚ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md) — dropped from the Korean HS list in 2000.
 
 ## Words
-- <ruby>[阿](words/阿.md)<rt>ㄚ</rt></ruby> "ah" (stand-in for 阿)
+- <ruby>[[阿]]<rt>ㄚ</rt></ruby> "ah" (stand-in for 阿)
 - <ruby>[[阿鼻]]<rt>ㄚㄅㄧ</rt></ruby> "Avīci, lowest hell"
 - <ruby>[[阿僧祇]]<rt>ㄚㄙㄜㄫㄍㄧ</rt></ruby> "asankhyeya"
 

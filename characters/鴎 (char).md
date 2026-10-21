@@ -34,18 +34,19 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鴎.
->For the word, see [鴎](words/鴎.md)
+>For the word, see [鴎](../words/鴎.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声: semantic [[Radical 196|鳥]] ("bird") + phonetic [区](../characters/区.md) — "seagull." (Japanese shinjitai of 鷗, phonetic component likewise cited via its shinjitai sibling 区.)
-- [SKIP-1-4-11](Lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
-- Absent from all four Classical Chinese frequency lists under any of its glyph forms (鴎/鷗/鸥); `mc_id` trusted long-tail (7852). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄛㄨ](syllables/ㄛㄨ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md#Redirects) — dropped from `Lookup/Korean/Korean HS.md`'s 2000 revision, confirmed absent from the current list
+- 形声: semantic [[Radical 196|鳥]] ("bird") + phonetic [[区]] — "seagull." (Japanese shinjitai of 鷗, phonetic component likewise cited via its shinjitai sibling 区.)
+- [SKIP-1-4-11](../lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- Absent from all four Classical Chinese frequency lists under any of its glyph forms (鴎/鷗/鸥); `mc_id` trusted long-tail (7852). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄛㄨ](../syllables/ㄛㄨ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md#Redirects) — dropped from `Lookup/Korean/Korean HS.md`'s 2000 revision, confirmed absent from the current list
 
 ## Words
 - <ruby>[[鴎]]<rt>ㄛㄨ</rt></ruby> "seagull"

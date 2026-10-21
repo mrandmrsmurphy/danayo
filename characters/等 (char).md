@@ -29,19 +29,19 @@ danayo_id: 221
 mc_id: 291
 graphemic_classification: 寺
 stand_in: 等
-aliases:
 注音: ㄉㄨㄫ
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 等.
->For the word, see [等](words/等.md)
+>For the word, see [等](../words/等.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*tɯːʔ, \*tɯːŋʔ, two distinct Middle Chinese pronunciations /tʌi/ and /təŋ/ reflecting the two Old Chinese readings): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[寺]] (OC \*ljɯs).
 - [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))

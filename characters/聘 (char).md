@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 聘.
->For the word, see [聘](words/聘.md)
+>For the word, see [聘](../words/聘.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (OC \*pʰleŋs): semantic [[Radical 128|耳]] ("ear") + phonetic [[甹]] (OC \*pʰleːŋ) — Shuowen glosses 聘 as 訪 ("to inquire, visit"), an official call or inquiry conducted by ear, i.e. by hearing and being heard.
-- [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 1171st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄆㄧㄫ](syllables/ㄆㄧㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-6-7](../lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1171st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄆㄧㄫ](../syllables/ㄆㄧㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[聘]]<rt>ㄆㄧㄫ</rt></ruby> "engage; betroth" (stand-in for 聘)

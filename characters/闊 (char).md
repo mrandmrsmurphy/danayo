@@ -36,18 +36,19 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-09-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 闊.
->For the word, see [闊](words/闊.md)
+>For the word, see [闊](../words/闊.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (Zhengzhang OC \*kʰoːd): semantic [[Radical 169|門]] ("gate; door") + phonetic [[活]] (OC \*koːd, \*ɡoːd).
-- [SKIP-3-8-9](lookup/SKIP/SKIP-3/SKIP-3-8-9.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 2925th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄎ⺢ㄊ](syllables/ㄎ⺢ㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+- [SKIP-3-8-9](../lookup/SKIP/SKIP-3/SKIP-3-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 2925th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄎ⺢ㄊ](../syllables/ㄎ⺢ㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[闊]]<rt>ㄎ⺢ㄊ</rt></ruby> "broad; wide"

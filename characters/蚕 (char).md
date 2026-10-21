@@ -36,18 +36,19 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蚕.
->For the word, see [蚕](words/蚕.md)
+>For the word, see [蚕](../words/蚕.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[天 (char)|天]] (a shape-based shinjitai/simplified substitution for the traditional phonetic 朁, not a sound-preserving component) — "silkworm." 蠶 is the traditional form. Formerly the semantic/phonetic roles were swapped in the prose (天 wrongly labeled semantic "insect," with the true semantic component 虫 dropped entirely) — corrected.
-- [SKIP-2-4-6](lookup/SKIP/SKIP-2/SKIP-2-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1906th most used character in Classical Chinese (recorded under the traditional form 蠶). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄐㄚㄇ](syllables/ㄐㄚㄇ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[天 (char)|天]] (a shape-based shinjitai/simplified substitution for the traditional phonetic 朁, not a sound-preserving component) — "silkworm." 蠶 is the traditional form.
+- [SKIP-2-4-6](../lookup/SKIP/SKIP-2/SKIP-2-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1906th most used character in Classical Chinese (recorded under the traditional form 蠶). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄐㄚㄇ](../syllables/ㄐㄚㄇ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm" (stand-in for 蚕 (char))

@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 磨.
->For the word, see [磨](words/磨.md)
+>For the word, see [磨](../words/磨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,12 +48,12 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 形声 (OC \*mˤaj): semantic [[Radical 112|石]] ("stone") + phonetic [[麻]] — "grind, polish (with a stone)."
-- [SKIP-3-3-13](lookup/SKIP/SKIP-3/SKIP-3-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 2914th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄇㄚ](syllables/ㄇㄚ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-3-3-13](../lookup/SKIP/SKIP-3/SKIP-3-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 2914th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[磨](words/磨.md)<rt>ㄇㄚ</rt></ruby> "grind, polish" (stand-in for 磨)
+- <ruby>[[磨]]<rt>ㄇㄚ</rt></ruby> "grind, polish" (stand-in for 磨)
 - <ruby>[[按磨]]<rt>ㄚㄋㄇㄚ</rt></ruby> "massage" (uses 磨's alias 摩 in the conventional spelling 按摩)
 - <ruby>[[磨耗]]<rt>ㄇㄚㄏㄚㄨ</rt></ruby> "wear, abrasion"
 - <ruby>[[琢磨]]<rt>ㄊㄚㄎㄇㄚ</rt></ruby> "polish jewels"

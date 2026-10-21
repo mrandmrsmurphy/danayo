@@ -28,23 +28,24 @@ mc_id: 124
 graphemic_classification: "象形"
 stand_in: "水"
 注音: "ㄙㄨ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 水.
->For the word, see [水](words/水.md)
->For the radical, see [Radical 085](lookup/Radicals/Radical%20085.md)
+>For the word, see [水](../words/水.md)
+>For the radical, see [Radical 085](../lookup/Radicals/Radical%20085.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): of water flowing; sometimes written as the variant 氺 (e.g., 泰, 录, and 黎). Next to a character, it is compressed and stylized into 氵 (which is unrelated to 冫).
-- [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 124th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄙㄨ](syllables/ㄙㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): of water flowing; sometimes written as the variant 氺 (e.g., 泰, 录, and 黎). Next to a character, it is compressed and stylized into 氵 (which is unrelated to 冫).
+- [SKIP-1-1-3](../lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 124th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄙㄨ](../syllables/ㄙㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "mercury": <ruby>[[水銀]]<rt>ㄙㄨㄧㄋ</rt></ruby>
 
 ## Words

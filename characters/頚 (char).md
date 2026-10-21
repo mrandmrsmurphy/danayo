@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is about the character.
->For the word, see [頚](words/頚.md).
+>For the word, see [頚](../words/頚.md).
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*keŋʔ, \*ɡeŋ): semantic [[頁 (char)|頁]] ("head") + phonetic [[巠]] (OC \*keːŋ) — "neck."
-- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 1672nd most used character in Classical Chinese (as 頸). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄍㄧㄫ](syllables/ㄍㄧㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 1672nd most used character in Classical Chinese (as 頸). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄍㄧㄫ](../syllables/ㄍㄧㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[頚]]<rt>ㄍㄧㄫ</rt></ruby> "neck" (stand-in for 頚)

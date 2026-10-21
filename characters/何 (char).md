@@ -33,12 +33,12 @@ tags:
   - correlative
   - character
 注音: ㄏㄚ
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 kwin: true
 boundedness: 90
 ---
 >[!tip] This is a page about the character 何.
->For the word, see [何](words/何.md)
+>For the word, see [何](../words/何.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ɡaːl): semantic [[Radical 009|人]] ("person") + phonetic [[可 (char)|可]] (OC \*kʰaːlʔ) — originally depicted a person carrying a load (the original sense later written 荷), borrowed for the interrogative "what."
-- [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 46th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄏㄚ](syllables/ㄏㄚ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-5](../lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 46th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄏㄚ](../syllables/ㄏㄚ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[何]]<rt>ㄏㄚ</rt></ruby> "what" (stand-in for 何)

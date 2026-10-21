@@ -38,10 +38,10 @@ kwin: false
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 挟.
->For the word, see [挟](words/挟.md)
+>For the word, see [挟](../words/挟.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +49,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*ɡeːb): semantic [[手 (char)|手]] ("hand") + phonetic [[夹]] (traditional 夾, OC \*kreːb) — "to clasp, hold between."
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1492nd most used character in Classical Chinese (as 挾). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄏㄝㄆ](syllables/ㄏㄝㄆ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1492nd most used character in Classical Chinese (as 挾). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄏㄝㄆ](../syllables/ㄏㄝㄆ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[挟]]<rt>ㄏㄝㄆ</rt></ruby> "clasp, hold" (stand-in for 挟)

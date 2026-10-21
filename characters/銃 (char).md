@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 銃.
->For the word, see [銃](words/銃.md)
+>For the word, see [銃](../words/銃.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*tʰjuŋs): semantic [[金 (char)|金]] ("metal") + phonetic [[充]] — originally "blunderbuss," extended to "gun, firearm."
-- [SKIP-1-8-6](lookup/SKIP/SKIP-1/SKIP-1-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- Not present in the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄑㄨㄫ](syllables/ㄑㄨㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-8-6](../lookup/SKIP/SKIP-1/SKIP-1-8-6.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- Not present in the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄑㄨㄫ](../syllables/ㄑㄨㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby> "gun" (stand-in for 銃)

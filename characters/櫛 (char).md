@@ -33,10 +33,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 櫛.
->For the word, see [櫛](words/櫛.md)
+>For the word, see [櫛](../words/櫛.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +44,9 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 形声 (Zhengzhang OC \*ʔsriɡ): semantic [[木 (char)|木]] ("wood") + phonetic [[節 (char)|節]] (OC \*ʔsiːɡ).
-- [SKIP-1-4-13](lookup/SKIP/SKIP-1/SKIP-1-4-13.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 3240th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄐㄜㄊ](syllables/ㄐㄜㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-4-13](../lookup/SKIP/SKIP-1/SKIP-1-4-13.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 3240th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄐㄜㄊ](../syllables/ㄐㄜㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

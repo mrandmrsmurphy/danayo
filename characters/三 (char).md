@@ -25,23 +25,23 @@ danayo_id: 16
 mc_id: 24
 graphemic_classification: 指事
 stand_in: 三
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 注音: ㄙㄚㄇ
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
->[!warning] This is the character 三. For the word "three," use [三](words/三.md).
+>[!warning] This is the character 三. For the word "three," use [三](../words/三.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): [[Radical 001|一]] ("one") tripled — three parallel strokes representing the number "three." Compare 一 (one stroke), 二 (two strokes), and 亖 (four strokes, an obsolete precursor to 四). For anti-forgery purposes (as on banknotes), [[参]] is conventionally substituted for 三, though the two are not graphemically related — 参 is 形声 in its own right, sharing only the syllable ㄙㄚㄇ by convention.
-- [SKIP-2-1-2](lookup/SKIP/SKIP-2/SKIP-2-1-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 24th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 談|ɑm]] → [ㄙㄚㄇ](syllables/ㄙㄚㄇ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): [[Radical 001|一]] ("one") tripled — three parallel strokes representing the number "three." Compare 一 (one stroke), 二 (two strokes), and 亖 (four strokes, an obsolete precursor to 四). For anti-forgery purposes (as on banknotes), [[参]] is conventionally substituted for 三, though the two are not graphemically related — 参 is 形声 in its own right, sharing only the syllable ㄙㄚㄇ by convention.
+- [SKIP-2-1-2](../lookup/SKIP/SKIP-2/SKIP-2-1-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 24th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 談|ɑm]] → [ㄙㄚㄇ](../syllables/ㄙㄚㄇ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[三]]<rt>ㄙㄚㄇ</rt></ruby> "three" (stand-in for 三)
@@ -67,6 +67,7 @@ boundedness: 75
 - <ruby>[[三位一体]]<rt>ㄙㄚㄇ⼔ㄧㄧㄊㄊㄝㄧ</rt></ruby> "Trinity"
 - <ruby>[[三千]]<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> "three thousand"
 - <ruby>[[三重]]<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby> "Mie Prefecture"
+- <ruby>[[三角形]]<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> "triangle"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

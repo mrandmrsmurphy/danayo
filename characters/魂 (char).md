@@ -35,10 +35,10 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 魂.
->For the word, see [魂](words/魂.md)
+>For the word, see [魂](../words/魂.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,11 +46,11 @@ date-last-perfect: 2026-08-13
 
 ## Notes
 - 形聲 (OC \*ɢuːn): semantic [[鬼]] ("ghost") + phonetic [[雲 (char)|云]] (OC \*ɢun, an exact match) — the soul, the spirit (specifically the yang/ethereal soul in Chinese cosmology, paired with 魄, the yin/corporeal soul). Variant [[䰟]] confirmed via both English and Chinese Wiktionary.
-- [SKIP-1-4-10](lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄏㄛㄋ](syllables/ㄏㄛㄋ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄏㄛㄋ](../syllables/ㄏㄛㄋ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- [魂](words/魂.md) "soul" — 魂 stands alone as a word in Dan'a'yo.
+- [魂](../words/魂.md) "soul" — 魂 stands alone as a word in Dan'a'yo.
 - <ruby>[[魂魄]]<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby> "soul; spirit"
 - <ruby>[[霊魂]]<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby> "soul, spirit"

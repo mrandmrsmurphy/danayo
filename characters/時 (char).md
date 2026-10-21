@@ -34,23 +34,24 @@ aliases:
   - 时
   - 蒔
 注音: ㄙㄧ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 時.
->For the word, see [時](words/時.md)
+>For the word, see [時](../words/時.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 
 - 形声 (OC \*djɯ): semantic [[Radical 072|日]] ("sun; day") + phonetic [[寺]] (OC \*ljɯs) — the passing of days marks time.
-- [SKIP-1-4-6](lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 65th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄙㄧ](syllables/ㄙㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 65th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄙㄧ](../syllables/ㄙㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[時]]<rt>ㄙㄧ</rt></ruby> "time" (stand-in for 時)
 - <ruby>[[時間]]<rt>ㄙㄧㄍㄚㄋ</rt></ruby> "time"

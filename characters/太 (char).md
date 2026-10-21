@@ -33,16 +33,17 @@ aliases:
   - 冭
 注音: ㄊㄚㄧ
 kwin: true
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 太.
->For the word, see [太](words/太.md)
+>For the word, see [太](../words/太.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): [[Radical 037|大]] ("great person with arms spread") with [[Radical 003|丶]] marking the utmost degree — the emphatic and superlative form of 大, denoting excess or the extreme of a quality. The original written form of 泰; compare 天.
 - [SKIP-2-3-1](../lookup/SKIP/SKIP-2/SKIP-2-3-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

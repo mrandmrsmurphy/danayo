@@ -40,19 +40,20 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 拂.
->For the word, see [拂](words/拂.md)
+>For the word, see [拂](../words/拂.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*pʰɯd): semantic [[Radical 064|扌]] ("hand") + phonetic [[弗]] (OC \*pɯd) — "to stroke, flick, brush off," extended (literary) to "to go against, defy." Dan'a'yo does not follow the shinjitai practice of replacing the component 弗 with 厶.
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 2020th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄈㄨㄊ](syllables/ㄈㄨㄊ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2020th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄈㄨㄊ](../syllables/ㄈㄨㄊ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[拂]]<rt>ㄈㄨㄊ</rt></ruby> "shake off, brush off" (stand-in for 拂)

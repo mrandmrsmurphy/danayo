@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 釘.
->For the word, see [釘](words/釘.md)
+>For the word, see [釘](../words/釘.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-17
 
 ## Notes
 - 形声: semantic [[Radical 167|金]] ("metal") + phonetic [丁](characters/丁%20(char).md) — "nail, spike."
-- [SKIP-1-8-2](Lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 5661st most used character in Classical Chinese (trusted long-tail). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](syllables/ㄉㄝㄫ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [Old HSK 6](Lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 5661st most used character in Classical Chinese (trusted long-tail). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](../syllables/ㄉㄝㄫ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail" (stand-in for 釘)

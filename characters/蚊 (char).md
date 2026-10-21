@@ -27,16 +27,15 @@ danayo_id: 8132
 mc_id: 3639
 graphemic_classification: "文"
 stand_in: "蚊"
-aliases:
 注音: "ㄇㄨㄋ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蚊.
->For the word, see [蚊](words/蚊.md)
+>For the word, see [蚊](../words/蚊.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-17
 
 ## Notes
 - 形声 (OC \*mɯn): semantic [[虫]] ("insect") + phonetic [文](characters/文.md) — "mosquito, gnat."
-- [SKIP-1-6-4](Lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 3639th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄇㄨㄋ](syllables/ㄇㄨㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](Lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 3639th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄇㄨㄋ](../syllables/ㄇㄨㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[蚊]]<rt>ㄇㄨㄋ</rt></ruby> "mosquito, gnat" (stand-in for 蚊)

@@ -30,7 +30,7 @@ stand_in: 毎
 aliases:
   - 每
 注音: ㄇㄛㄧ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - adverbial
@@ -39,10 +39,11 @@ tags:
 boundedness: 
 ---
 >[!tip] This is a page about the character 毎.
->For the word, see [毎](words/毎.md)
+>For the word, see [毎](../words/毎.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *mɯːʔ), possibly also 会意: semantic [[屮]] ("sprout") + phonetic [[母]] (OC *mɯʔ) — 毎 is the shinjitai-simplified form of 每.
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
@@ -63,6 +64,8 @@ boundedness:
 - <ruby>[[毎物]]<rt>ㄇㄛㄧㄇㄨㄊ</rt></ruby> "each thing; for every object"
 - <ruby>[[毎類]]<rt>ㄇㄛㄧㄌㄨㄧ</rt></ruby> "each kind; each type separately"
 - <ruby>[[毎世紀]]<rt>ㄇㄛㄧㄙㄝㄍㄧ</rt></ruby> "every century"
+- <ruby>[[毎]]<rt>ㄇㄛㄧ</rt></ruby> "every; each"
+
 ## Chengyu
 - <ruby>[[毎字明意]]<rt>ㄇㄛㄧㄐㄧ·ㄇ⼶ㄫㄜ</rt></ruby> "Per Character Clear Meaning"
 ## Derived Characters

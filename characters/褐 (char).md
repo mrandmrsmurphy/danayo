@@ -29,16 +29,15 @@ danayo_id: 6014
 mc_id: 2411
 graphemic_classification: 曷
 stand_in: 褐
-aliases:
 注音: ㄏㄚㄊ
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 褐.
->For the word, see [褐](words/褐.md)
+>For the word, see [褐](../words/褐.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,14 +45,10 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*ɡaːd): semantic [[衣]] ("clothing") + phonetic [[曷]] — "brown, dull, dark" (originally coarse clothing dyed a drab color).
-- [SKIP-1-5-8](lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2411th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄏㄚㄊ](syllables/ㄏㄚㄊ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-5-8](../lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2411th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄏㄚㄊ](../syllables/ㄏㄚㄊ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[褐]]<rt>ㄏㄚㄊ</rt></ruby> "brown, dull, dark" (stand-in for 褐)
-- abbreviation for "holmium": <ruby>[[褐金]]<rt>ㄏㄚㄊㄍㄧㄇ</rt></ruby>
-
-## Derived Characters
-- [[渇 (char)|渇]]
-- [[蝎 (char)|蝎]]
+- <ruby>[[褐金]]<rt>ㄏㄚㄊㄍㄧㄇ</rt></ruby> "holmium" (褐 alone is the abbreviation for it)

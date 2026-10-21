@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 悩.
->For the word, see [悩](words/悩.md)
+>For the word, see [悩](../words/悩.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*nuːʔ): semantic [[Radical 061|忄]] ("heart") + phonetic [[𡿺]] — "angered; vexed; irritated."
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7693`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄋㄚㄨ](syllables/ㄋㄚㄨ.md)
-- [Grade 6](lookup/Grade%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7693`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄋㄚㄨ](../syllables/ㄋㄚㄨ.md)
+- [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[悩]]<rt>ㄋㄚㄨ</rt></ruby> "angered; mad" (stand-in for 悩)

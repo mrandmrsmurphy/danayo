@@ -34,10 +34,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鳶.
->For the word, see [鳶](words/鳶.md)
+>For the word, see [鳶](../words/鳶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-09-05
 
 ## Notes
 - 形声 (possibly): semantic 鳥 ("bird") + phonetic 弋 (structural decomposition ⿱弋鳥; zh.Wiktionary's OC reconstruction cites the closely related 戈, same phonetic series) — "kite (bird)."
-- [SKIP-2-3-11](Lookup/SKIP/SKIP-2/SKIP-2-3-11.md) ([Stroke 14](Lookup/Stroke/Stroke%2014.md))
-- 3264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](syllables/⼶ㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-2-3-11](../lookup/SKIP/SKIP-2/SKIP-2-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 3264th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](../syllables/⼶ㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[鳶]]<rt>⼶ㄋ</rt></ruby> "kite (bird)" (stand-in for 鳶)

@@ -31,16 +31,15 @@ danayo_id: 2177
 mc_id: 444
 graphemic_classification: "会意"
 stand_in: "直"
-aliases:
 注音: "ㄐㄧㄊ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 直.
->For the word, see [直](words/直.md)
+>For the word, see [直](../words/直.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +48,9 @@ boundedness: 90
 ## Notes
 - 会意 of 十, [[Radical 109|目]] ("eye"), and ∟ — an eye sighting along a straight line: "straight; erect."
 - Corrected a data-entry bug: `羅馬字`/`諺文`/`kwin` were stored as jig/직/true, but every other character sharing this syllable (質, 疾, 嫉, 膣, 蛭) independently uses jid/짇, matching `syllables/ㄐㄧㄊ.md` — corrected to jid/짇/false. The old, wrong 직 happened to coincide with this character's own real Korean reading (also 직), which is likely how the error went unnoticed.
-- [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 444th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄐㄧㄊ](syllables/ㄐㄧㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-1-7](../lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 444th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄐㄧㄊ](../syllables/ㄐㄧㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[直]]<rt>ㄐㄧㄊ</rt></ruby> "straight; erect; aligned" (stand-in for 直)

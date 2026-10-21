@@ -34,14 +34,14 @@ aliases:
   - 擊
   - 击
 注音: "ㄍㄝㄎ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 85
 ---
 >[!tip] This is a page about the character 撃.
->For the word, see [撃](words/撃.md)
+>For the word, see [撃](../words/撃.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +49,9 @@ boundedness: 85
 
 ## Notes
 - 形声 (OC *kreːɢ): semantic [[Radical 064|手]] ("hand") + phonetic [[毄]] (OC *kreːɢ, "to strike, collide") — striking with the hand; "strike, hit, beat."
-- [SKIP-2-11-4](lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 259th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄍㄝㄎ](syllables/ㄍㄝㄎ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-11-4](../lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 259th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄍㄝㄎ](../syllables/ㄍㄝㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[撃]]<rt>ㄍㄝㄎ</rt></ruby> "strike" (stand-in for 撃)

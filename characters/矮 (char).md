@@ -27,16 +27,15 @@ danayo_id: 6147
 mc_id: 9899
 graphemic_classification: "委"
 stand_in: "矮"
-aliases:
 注音: "⺢ㄧ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 矮.
->For the word, see [矮](words/矮.md)
+>For the word, see [矮](../words/矮.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声: semantic [[Radical 111|矢]] ("arrow") + phonetic [[委]].
-- [SKIP-1-5-8](lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 9899th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [⺢ㄧ](syllables/⺢ㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-5-8](../lookup/SKIP/SKIP-1/SKIP-1-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 9899th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [⺢ㄧ](../syllables/⺢ㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[矮]]<rt>⺢ㄧ</rt></ruby> "short (person)" (stand-in for 矮)

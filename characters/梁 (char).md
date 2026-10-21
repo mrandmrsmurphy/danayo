@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 梁.
 >For the word, see [梁](../words/梁.md)
@@ -44,15 +44,16 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *raŋ): semantic [[Radical 085|水]] ("water") + [[Radical 075|木]] ("wood") + phonetic [[刅]] — a wooden bridge over water; a girder.
-- [SKIP-2-7-4](Lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
-- 368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](syllables/ㄌ⼘ㄫ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 2](Lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
+- [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[梁](../words/梁.md)<rt>ㄌ⼘ㄫ</rt></ruby> "girder"
+- <ruby>[[梁]]<rt>ㄌ⼘ㄫ</rt></ruby> "girder"
 - <ruby>[[棟梁]]<rt>ㄉㄛㄫㄌ⼘ㄫ</rt></ruby> "ridgepole; mainstay"
 - <ruby>[[跳梁]]<rt>ㄊㄛㄨㄌ⼘ㄫ</rt></ruby> "to run rampant, to jump about wildly"
 - <ruby>[[梁州]]<rt>ㄌ⼘ㄫㄐㄨㄛ</rt></ruby> "Liang Province, one of the Nine Provinces"
+- <ruby>[[橋梁]]<rt>ㄍ⼘ㄨㄌ⼘ㄫ</rt></ruby> "beam; bridge"
 
 ## Chengyu
 - <ruby>[[跳梁跋扈]]<rt>ㄊㄛㄨㄌ⼘ㄫㄅㄚㄊㄏㄛ</rt></ruby> "running rampant; domineering and lawless"

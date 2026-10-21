@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-08-20
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 貒.
->For the word, see [貒](words/貒.md)
+>For the word, see [貒](../words/貒.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-20
 
 ## Notes
 - 形声: semantic [[Radical 153|豸]] ("legless beast") + phonetic [[耑]] — dual-source confirmed with two attested senses, "hog badger" (matching `korean_native: 오소리` "badger") and "wild boar," probably related to 豚 ("piglet") and 彖 ("running pig"); the vault's own bound word draws on the "wild boar" sense.
-- [SKIP-1-7-9](Lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](Lookup/Stroke/Stroke%2016.md))
-- 7387th most used character in Classical Chinese (trusted long-tail value, per policy not cross-checked against `Lookup/CC/CC 0000–3000.md`, which only mirrors the top ~4000 ranks). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄊ⺢ㄋ](syllables/ㄊ⺢ㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Missing](Lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 7387th most used character in Classical Chinese (trusted long-tail value, per policy not cross-checked against `Lookup/CC/CC 0000–3000.md`, which only mirrors the top ~4000 ranks). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄊ⺢ㄋ](../syllables/ㄊ⺢ㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[貒]]<rt>ㄊ⺢ㄋ</rt></ruby> "wild boar" (stand-in for 貒 (char))

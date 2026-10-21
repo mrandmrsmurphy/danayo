@@ -40,14 +40,14 @@ aliases:
   - 啮
   - 𪘂
 注音: ⼘ㄨ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 咬.
->For the word, see [咬](words/咬.md)
+>For the word, see [咬](../words/咬.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -55,9 +55,9 @@ boundedness: 75
 
 ## Notes
 - 形声: semantic [[Radical 030|口]] ("mouth") + phonetic [[交]] — "to bite, gnaw, chew."
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [⼘ㄨ](syllables/⼘ㄨ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [⼘ㄨ](../syllables/⼘ㄨ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[咬]]<rt>⼘ㄨ</rt></ruby> "bite; gnaw; chew" (stand-in for 咬)

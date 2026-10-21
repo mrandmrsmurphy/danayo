@@ -33,19 +33,19 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is about the character.
->For the word, see [姜](words/姜.md).
+>For the word, see [姜](../words/姜.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
 - 形声: semantic [女](characters/女%20(char).md) ("female") + phonetic [[羊]] (OC \*laŋ) — "ginger."
-- [SKIP-2-6-3](Lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](Lookup/Stroke/Stroke%2009.md))
-- 1110th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄍ⼘ㄋ](syllables/ㄍ⼘ㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-2-6-3](../lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1110th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄍ⼘ㄋ](../syllables/ㄍ⼘ㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[姜]]<rt>ㄍ⼘ㄋ</rt></ruby> "ginger"

@@ -34,10 +34,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 置.
->For the word, see [置](words/置.md)
+>For the word, see [置](../words/置.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声: semantic 网 ("net"; no vault page) + phonetic [[直]] (OC \*tɯɡs) — "to put, place."
-- [SKIP-2-5-8](lookup/SKIP/SKIP-2/SKIP-2-5-8.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 433rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄑㄧ](syllables/ㄑㄧ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-5-8](../lookup/SKIP/SKIP-2/SKIP-2-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 433rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄑㄧ](../syllables/ㄑㄧ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[置]]<rt>ㄑㄧ</rt></ruby> "put, place" (stand-in for 置)

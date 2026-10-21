@@ -29,16 +29,15 @@ danayo_id: 7305
 mc_id: 5288
 graphemic_classification: "咠"
 stand_in: "葺"
-aliases:
 注音: "ㄑㄨㄆ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 葺.
->For the word, see [葺](words/葺.md)
+>For the word, see [葺](../words/葺.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (Zhengzhang OC \*ʔsib, \*sʰib, \*zib): semantic [[Radical 140|艸]] ("grass") + phonetic [[咠]] (OC \*ʔsib, \*sʰib) — thatch roofing is made of grass/straw.
-- [SKIP-2-3-9](lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 5288th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄑㄨㄆ](syllables/ㄑㄨㄆ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 5288th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄑㄨㄆ](../syllables/ㄑㄨㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[葺]]<rt>ㄑㄨㄆ</rt></ruby> "roofed with" (stand-in for 葺)

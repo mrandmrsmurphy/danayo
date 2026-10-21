@@ -27,16 +27,15 @@ danayo_id: 6259
 mc_id: 2582
 graphemic_classification: "舎"
 stand_in: "捨"
-aliases:
 注音: "ㄙ⼘"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 捨.
->For the word, see [捨](words/捨.md)
+>For the word, see [捨](../words/捨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*hljaːʔ): semantic [[Radical 064|手]] ("hand") + phonetic [[舎]] — "to throw away, discard, abandon" (with the hand).
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 2582nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄙ⼘](syllables/ㄙ⼘.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 2582nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄙ⼘](../syllables/ㄙ⼘.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[捨]]<rt>ㄙ⼘</rt></ruby> "throw away, discard" (stand-in for 捨)

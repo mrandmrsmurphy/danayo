@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 訥.
->For the word, see [訥](words/訥.md)
+>For the word, see [訥](../words/訥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,12 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声兼会意 (Zhengzhang OC \*nuːd): semantic [[Radical 149|言]] ("speech") + phonetic [[内]] (OC \*nuːbs, "inside") — speech held inside, i.e. stammered/withheld.
-- [SKIP-1-7-4](lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 3924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄋㄛㄊ](syllables/ㄋㄛㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](lookup/Korean/Korean%20Name%20ㄴ.md)
+- [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 3924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄋㄛㄊ](../syllables/ㄋㄛㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)
 
 ## Words
 - <ruby>[[訥]]<rt>ㄋㄛㄊ</rt></ruby> "mumble; stammer" (stand-in for 訥 (char))
+
+## Derived Characters
+- <ruby>[[裔]]<rt>⼶</rt></ruby> "descendant"

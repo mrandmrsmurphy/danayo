@@ -36,10 +36,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 紺.
->For the word, see [紺](words/紺.md)
+>For the word, see [紺](../words/紺.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*kɯːms): semantic [[糸]] ("silk, thread") + phonetic [[甘 (char)|甘]] — "navy blue" (a dark purplish-blue dye color).
-- [SKIP-1-6-5](lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 3800th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄍㄚㄇ](syllables/ㄍㄚㄇ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 3800th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄍㄚㄇ](../syllables/ㄍㄚㄇ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[紺]]<rt>ㄍㄚㄇ</rt></ruby> "navy blue" (stand-in for 紺)

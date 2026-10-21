@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 逞.
->For the word, see [逞](words/逞.md)
+>For the word, see [逞](../words/逞.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (Zhengzhang OC \*l̥ʰeŋʔ): semantic [[Radical 162|辵]] ("movement, path") + phonetic [[呈]].
-- [SKIP-3-4-7](lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 2762nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 徹|ʈʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄑㄧㄫ](syllables/ㄑㄧㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](lookup/Korean/Korean%20Name%20ㄹ.md)
+- [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 2762nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 徹|ʈʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄑㄧㄫ](../syllables/ㄑㄧㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words
 - <ruby>[[逞]]<rt>ㄑㄧㄫ</rt></ruby> "indulge; brag" (stand-in for 逞)

@@ -30,7 +30,7 @@ stand_in: 筆
 aliases:
   - 笔
 注音: ㄆㄨㄊ
-date-last-perfect: 2026-09-06
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
@@ -38,15 +38,16 @@ tags:
 boundedness: 80
 ---
 >[!tip] This is a page about the character 筆.
->For the word, see [筆](words/筆.md)
+>For the word, see [筆](../words/筆.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*prud): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[聿]] (OC \*b·lud, "writing brush") — 竹 was added later to differentiate a bamboo-made brush from the original 聿, which already meant "writing brush" on its own.
-- [SKIP-2-6-6](lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2106th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄆㄨㄊ](syllables/ㄆㄨㄊ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2106th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄆㄨㄊ](../syllables/ㄆㄨㄊ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Altered to take advantage of a vacant syllable.
 
 ## Words

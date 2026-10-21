@@ -30,17 +30,18 @@ stand_in: 与
 aliases:
   - 與
 注音: ⼄
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 与.
->For the word, see [与](words/与.md)
+>For the word, see [与](../words/与.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: originally a picture of 牙 ("ivory tusk") being carried on the shoulders (舁, itself made up of [[Radical 134|臼]] "hands" + 廾 "hands"). In the historical Kangxi dictionary, this character is written with four strokes: ⿱⺊⿹𠃌一. In modern Japanese (and hence, Dan'a'yo), the character is written slightly differently, with the final 一 stroke extending across ㇉.
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))

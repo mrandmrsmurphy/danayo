@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 諦.
->For the word, see [諦](words/諦.md)
+>For the word, see [諦](../words/諦.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-13
 
 ## Notes
 - 形聲: semantic [[Radical 149|言]] ("speech") + phonetic [[帝]] — to examine, to scrutinize; (Buddhism) truth, ultimate principle. Simplified form [[谛]] confirmed via both English and Chinese Wiktionary.
-- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄊㄝㄧ](syllables/ㄊㄝㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄊㄝㄧ](../syllables/ㄊㄝㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[諦]]<rt>ㄊㄝㄧ</rt></ruby> "truth (Buddhist)" (stand-in for 諦 (char))

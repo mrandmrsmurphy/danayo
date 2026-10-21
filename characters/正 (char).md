@@ -39,17 +39,18 @@ aliases:
   - 𧾸
   - 𠙺
 注音: "ㄐㄧㄫ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 正.
->For the word, see [正](words/正.md)
+>For the word, see [正](../words/正.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *tjeŋ, *tjeŋs): phonetic [[丁]] (OC *rteːŋ, *teːŋ) + semantic [[止]] ("foot") – to go on a long journey. Original form of 征 (OC *tjeŋ, "to go on long campaign"). Later, 丁 was simplified into a horizontal stroke, as in 旦. Folk etymologies do not recognize 丁. Unrelated in meaning and reading to [[疋]] ("bolt of cloth"), which is sometimes substituted for this character in certain historical/regional contexts as a graphic variant, not a phonetic derivation — not followed in Dan'a'yo, which keeps both as fully separate words.
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))

@@ -31,24 +31,24 @@ stand_in: "来"
 aliases:
   - 來
 注音: "ㄌㄚㄧ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 来.
->For the word, see [来](words/来.md)
+>For the word, see [来](../words/来.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a stalk of wheat — the original sense was "wheat" (cf. derived [[麦]]), phonetically borrowed for "come."
-- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 168th most used character in Classical Chinese (ranked under the traditional form 來). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄌㄚㄧ](syllables/ㄌㄚㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a stalk of wheat — the original sense was "wheat" (cf. derived [[麦]]), phonetically borrowed for "come."
+- [SKIP-4-7-3](../lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 168th most used character in Classical Chinese (ranked under the traditional form 來). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄌㄚㄧ](../syllables/ㄌㄚㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[来]]<rt>ㄌㄚㄧ</rt></ruby> "come" (stand-in for 来)

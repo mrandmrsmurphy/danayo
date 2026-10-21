@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 填.
->For the word, see [填](words/填.md)
+>For the word, see [填](../words/填.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*diːn/\*diːns/\*tin/\*tins): semantic [[Radical 032|土]] ("earth, soil") + phonetic [[真 (char)|真]] — "to fill in; to make good on." (Kangxi's orthodox form is [[塡]], the traditional variant listed among this character's `aliases`; the simplified/common spelling 填 is used as the graphemic classification base since it is the one with its own vault page.)
-- [SKIP-1-3-10](lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2019th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄉㄝㄋ](syllables/ㄉㄝㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](lookup/Korean/Korean%20Name%20ㄷ.md)
+- [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2019th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄉㄝㄋ](../syllables/ㄉㄝㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
 
 ## Words
 - <ruby>[[填]]<rt>ㄉㄝㄋ</rt></ruby> "fill in; make good on" (stand-in for 填)

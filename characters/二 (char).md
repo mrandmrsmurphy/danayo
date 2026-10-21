@@ -31,7 +31,7 @@ stand_in: 二
 aliases:
   - 弍
   - 𠄠
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 注音: ㄋㄧㄜ
 kwin: false
 tags:
@@ -43,11 +43,12 @@ boundedness: 80
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 ("one").
-- [SKIP-2-1-1](lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md))
-- 27th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](syllables/ㄋㄧㄜ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): two parallel strokes. Compare with 一, one stroke meaning one, 三, three strokes meaning three, and 亖 (sǐ), four strokes meaning four. Duplication of 一 ("one").
+- [SKIP-2-1-1](../lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
+- 27th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](../syllables/ㄋㄧㄜ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two" (stand-in for 二)
@@ -83,3 +84,6 @@ boundedness: 80
 
 ### Links
 ![[nav/Numerals]]
+
+## Derived Characters
+- <ruby>[[貳 (char)|貳]]<rt>ㄋㄧㄜ</rt></ruby> "disloyal; betray"

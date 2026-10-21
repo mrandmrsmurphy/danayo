@@ -30,17 +30,18 @@ aliases:
   - 齒
   - 齿
 注音: ㄑㄧ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 歯.
->For the word, see [歯](words/歯.md)
+>For the word, see [歯](../words/歯.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): originally a pictogram of a mouth full of teeth; later analyzed as ⿱止𠚕 with 止 added as a phonetic element (OC *kjɯʔ). The modern Japanese shinjitai 歯 (and simplified 齿) keep essentially just this 止 component — which is why, despite being a simplification of 齒 (itself filed under [Radical 211](../lookup/Radicals/Radical%20211.md)), this glyph is instead filed under [[Radical 077|止]]: a genuine consequence of which part of the original pictogram survived simplification, not an arbitrary quirk.
 - [SKIP-2-4-8](../lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))

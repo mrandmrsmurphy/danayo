@@ -32,14 +32,14 @@ stand_in: "暖"
 aliases:
   - 煖
 注音: "ㄋㄚㄋ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 暖.
->For the word, see [暖](words/暖.md)
+>For the word, see [暖](../words/暖.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ boundedness: 80
 
 ## Notes
 - 形声: semantic [[Radical 072|日]] ("sun; day") + phonetic [[爰]] — the warmth of the sun.
-- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄋㄚㄋ](syllables/ㄋㄚㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄋㄚㄋ](../syllables/ㄋㄚㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[暖]]<rt>ㄋㄚㄋ</rt></ruby> "warm" (stand-in for 暖)

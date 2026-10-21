@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 絹.
->For the word, see [絹](words/絹.md)
+>For the word, see [絹](../words/絹.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*kʷens): semantic [[Radical 120|糸]] ("thread") + phonetic 肙 (no character page exists for it in this vault; graphically simplified over time to resemble [[月 (char)|月]], but not actually related to it) — "silk, silk fabric."
-- [SKIP-1-6-7](lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 3983rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄍ⼔ㄋ](syllables/ㄍ⼔ㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-6-7](../lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 3983rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄍ⼔ㄋ](../syllables/ㄍ⼔ㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[絹]]<rt>ㄍ⼔ㄋ</rt></ruby> "silk" (stand-in for 絹)

@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 慄.
->For the word, see [慄](words/慄.md)
+>For the word, see [慄](../words/慄.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*riɡ): semantic [[Radical 061|心]] ("heart") + phonetic [[栗 (char)|栗]] — "to tremble; to shudder; to shiver [with fear]." Traditional form; simplified Chinese collapses it onto 栗 ("chestnut," an unrelated word) — not followed in Dan'a'yo, which keeps both as fully separate words.
-- [SKIP-1-3-10](lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2316th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄌㄧㄊ](syllables/ㄌㄧㄊ.md)
-- [Grade 6](lookup/Grade%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2316th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄌㄧㄊ](../syllables/ㄌㄧㄊ.md)
+- [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[慄]]<rt>ㄌㄧㄊ</rt></ruby> "tremble; shudder; shiver" (stand-in for 慄)

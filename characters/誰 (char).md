@@ -31,7 +31,7 @@ stand_in: 誰
 aliases:
   - 谁
 注音: ㄙ⼶ㄧ
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
@@ -42,6 +42,7 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*djul): semantic [[Radical 149|言]] ("speech") + phonetic [[Radical 172|隹]] (OC \*tjul) — who, whom.
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))

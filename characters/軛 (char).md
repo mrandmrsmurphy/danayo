@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 軛.
 >For the word, see [軛](../words/軛.md)
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *qreːɡ): semantic [[Radical 159|車]] ("chariot") + phonetic [[厄]] — 厄 originally referred to this word ("yoke"); 車 was added to differentiate.
-- [SKIP-1-7-4](Lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
-- 4283rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄚㄎ](syllables/ㄚㄎ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Missing](Lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 4283rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄚㄎ](../syllables/ㄚㄎ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[軛]]<rt>ㄚㄎ</rt></ruby> "yoke" (stand-in for 軛 (char))

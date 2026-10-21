@@ -30,16 +30,15 @@ danayo_id: 4232
 mc_id: 1278
 graphemic_classification: "会意"
 stand_in: "臥"
-aliases:
 注音: "⺢"
 kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 臥.
->For the word, see [臥](words/臥.md)
+>For the word, see [臥](../words/臥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

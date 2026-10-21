@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 窺.
->For the word, see [窺](words/窺.md)
+>For the word, see [窺](../words/窺.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,7 +46,7 @@ date-last-perfect: 2026-08-15
 ## Notes
 - 形声 (OC \*kʰʷel): semantic [[Radical 116|穴]] ("hole") + phonetic [[規]] — to peek through a small opening, to spy on.
 - [SKIP-2-3-13](Lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](Lookup/Stroke/Stroke%2016.md))
-- 2133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄎㄨㄧ](syllables/ㄎㄨㄧ.md)
+- 2133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄎㄨㄧ](../syllables/ㄎㄨㄧ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words

@@ -32,16 +32,17 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-25
+date-last-perfect: 2026-10-20
 ---
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*klaːb, \*kraːb): semantic [[Radical 167|金]] ("metal") + phonetic [[甲]] (OC \*kraːb) — names the element potassium (K, atomic number 19); the word also doubles as this vault's periodic-table abbreviation for the element. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
-- [SKIP-1-8-5](Lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](Lookup/Stroke/Stroke%2013.md))
-- 8866th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄍㄚㄆ](syllables/ㄍㄚㄆ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 8866th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 狎|ɣap]] → [ㄍㄚㄆ](../syllables/ㄍㄚㄆ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[鉀]]<rt>ㄍㄚㄆ</rt></ruby> "potassium" (stand-in for 鉀 (char))

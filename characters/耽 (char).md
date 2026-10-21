@@ -33,18 +33,19 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 耽.
->For the word, see [耽](words/耽.md)
+>For the word, see [耽](../words/耽.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ʔl'uːm): semantic [[Radical 128|耳]] ("ear") + phonetic [[冘]] (OC \*lu, \*lum) — to indulge in, be absorbed in.
-- [SKIP-1-6-4](Lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 3012th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄉㄛㄇ](syllables/ㄉㄛㄇ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+- [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 3012th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄉㄛㄇ](../syllables/ㄉㄛㄇ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words
 - <ruby>[[耽]]<rt>ㄉㄛㄇ</rt></ruby> "indulge in" (stand-in for 耽)

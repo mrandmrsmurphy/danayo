@@ -31,18 +31,19 @@ stand_in: 心
 aliases:
   - 芯
 注音: ㄙㄧㄇ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 心.
->For the word, see [心](words/心.md)
+>For the word, see [心](../words/心.md)
 >For the radical, see [Radical 061](../lookup/Radicals/Radical%20061.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): a heart, now highly stylized.
 - [SKIP-1-1-3](../lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

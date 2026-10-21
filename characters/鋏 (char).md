@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-09-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鋏.
->For the word, see [鋏](words/鋏.md)
+>For the word, see [鋏](../words/鋏.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-09-07
 
 ## Notes
 - 形声: semantic [[金]] ("metal") + phonetic [[夹]] — a pair of metal tongs (compare [[鉗]], "vice, pliers, forceps," a near-synonym with a different phonetic).
-- [SKIP-1-8-7](Lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 5392`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄍㄝㄆ](syllables/ㄍㄝㄆ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](Lookup/Korean/Korean%20Name%20ㅎ.md)
+- [SKIP-1-8-7](../lookup/SKIP/SKIP-1/SKIP-1-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 5392`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄍㄝㄆ](../syllables/ㄍㄝㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[鋏]]<rt>ㄍㄝㄆ</rt></ruby> "tongs"

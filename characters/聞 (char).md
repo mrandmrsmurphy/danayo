@@ -30,14 +30,14 @@ stand_in: "聞"
 aliases:
   - 闻
 注音: "ㄇㄨㄋ"
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 聞.
->For the word, see [聞](words/聞.md)
+>For the word, see [聞](../words/聞.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*mɯn): semantic [[Radical 128|耳]] ("ear") + phonetic [[門]] (OC \*mɯːn) — to hear.
-- [SKIP-3-8-6](lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 99th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄇㄨㄋ](syllables/ㄇㄨㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-8-6](../lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 99th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄇㄨㄋ](../syllables/ㄇㄨㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[聞]]<rt>ㄇㄨㄋ</rt></ruby> "hear" (stand-in for 聞)

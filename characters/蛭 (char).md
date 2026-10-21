@@ -35,16 +35,15 @@ danayo_id: 8626
 mc_id: 3500
 graphemic_classification: "至"
 stand_in: "蛭"
-aliases:
 注音: "ㄐㄧㄊ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-23
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蛭.
->For the word, see [蛭](words/蛭.md)
+>For the word, see [蛭](../words/蛭.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,9 +51,9 @@ date-last-perfect: 2026-08-23
 
 ## Notes
 - 形声 (PST \*mV-lit): semantic [[虫]] ("insect") + phonetic [[至]] (OC \*tjiɡs) — "leech." Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
-- [SKIP-1-6-6](Lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](Lookup/Stroke/Stroke%2012.md))
-- 3500th most used character in Classical Chinese (off-by-one bug found and fixed — stored `3499` was actually 綈's rank; `CC 3000.md`: `3499. 綈`, `3500. 蛭`). Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄐㄧㄊ](syllables/ㄐㄧㄊ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 3500th most used character in Classical Chinese (off-by-one bug found and fixed — stored `3499` was actually 綈's rank; `CC 3000.md`: `3499. 綈`, `3500. 蛭`). Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄐㄧㄊ](../syllables/ㄐㄧㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[蛭]]<rt>ㄐㄧㄊ</rt></ruby> "leech" (stand-in for 蛭)

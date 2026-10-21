@@ -37,20 +37,20 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鉤.
->For the word, see [鉤](words/鉤.md)
+>For the word, see [鉤](../words/鉤.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [金 (char)](characters/金%20(char).md) ("metal") + phonetic [句 (char)](characters/句%20(char).md) — "hook; barb."
-- [SKIP-1-8-5](Lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](Lookup/Stroke/Stroke%2013.md))
-- 1420th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄍㄛㄨ](syllables/ㄍㄛㄨ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md), [Old HSK 6](Lookup/HSK/Old%20HSK%206.md)
+- 形声: semantic [[金 (char)]] ("metal") + phonetic [[句 (char)]] — "hook; barb."
+- [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1420th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄍㄛㄨ](../syllables/ㄍㄛㄨ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md)
 
 ## Words
 - <ruby>[[鉤]]<rt>ㄍㄛㄨ</rt></ruby> "hook; barb"

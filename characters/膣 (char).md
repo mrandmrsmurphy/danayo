@@ -31,7 +31,7 @@ graphemic_classification: 窒
 stand_in: 膣
 aliases:
   - 腟
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 注音: ㄐㄧㄊ
 kwin: true
 tags:
@@ -45,9 +45,9 @@ boundedness: 65
 
 ## Notes
 - 形声: semantic [[Radical 130|月]] ("flesh") + phonetic [[窒]] (OC \*tiːɡ, \*tiɡ) — flesh named after its phonetic donor; a vulgar term for the vagina.
-- [SKIP-1-4-11](lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- Genuinely absent from the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄐㄧㄊ](syllables/ㄐㄧㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-4-11](../lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- Genuinely absent from the Classical Chinese usage ranking (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄐㄧㄊ](../syllables/ㄐㄧㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[膣]]<rt>ㄐㄧㄊ</rt></ruby> "cunt" (stand-in for 膣)

@@ -27,16 +27,15 @@ danayo_id: 6013
 mc_id: 3404
 graphemic_classification: "就"
 stand_in: "蹴"
-aliases:
 注音: "ㄑㄨㄎ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蹴.
->For the word, see [蹴](words/蹴.md)
+>For the word, see [蹴](../words/蹴.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*ʔsuɡ, \*sʰuɡ): semantic [[Radicals/Radical 157|足]] ("foot") + phonetic [[就 (char)|就]] (OC \*zuɡs) — "to kick."
-- [SKIP-1-7-12](lookup/SKIP/SKIP-1/SKIP-1-7-12.md) ([Stroke 19](lookup/Stroke/Stroke%2019.md))
-- 3404th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄑㄨㄎ](syllables/ㄑㄨㄎ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-7-12](../lookup/SKIP/SKIP-1/SKIP-1-7-12.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- 3404th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄑㄨㄎ](../syllables/ㄑㄨㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[蹴]]<rt>ㄑㄨㄎ</rt></ruby> "kick" (stand-in for 蹴)

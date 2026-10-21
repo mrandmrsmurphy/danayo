@@ -34,10 +34,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 貪.
->For the word, see [貪](words/貪.md)
+>For the word, see [貪](../words/貪.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲/會意 (OC \*kʰl'uːm): phonetic [[今]] (OC \*krɯm, "open mouth") + semantic [[Radical 154|貝]] ("money") — "greedy."
-- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 912th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄊㄚㄇ](syllables/ㄊㄚㄇ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 912th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄊㄚㄇ](../syllables/ㄊㄚㄇ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[貪]]<rt>ㄊㄚㄇ</rt></ruby> "greedy" (stand-in for 貪)

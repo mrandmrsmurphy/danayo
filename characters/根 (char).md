@@ -29,16 +29,15 @@ danayo_id: 191
 mc_id: 1165
 graphemic_classification: 艮
 stand_in: 根
-aliases:
 注音: ㄍㄜㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 根.
->For the word, see [根](words/根.md)
+>For the word, see [根](../words/根.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*kɯːn): semantic [[Radical 075|木]] ("tree") + phonetic [[艮]] (OC \*kɯːns) — the root of a tree; by extension, foundation, origin.
-- [SKIP-1-4-6](lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1165th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 痕|ən]] → [ㄍㄜㄋ](syllables/ㄍㄜㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1165th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 痕|ən]] → [ㄍㄜㄋ](../syllables/ㄍㄜㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[根]]<rt>ㄍㄜㄋ</rt></ruby> "root" (stand-in for 根)

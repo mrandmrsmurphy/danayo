@@ -28,16 +28,15 @@ danayo_id: 7041
 mc_id: 5410
 graphemic_classification: 占
 stand_in: 帖
-aliases:
 注音: ㄊㄛㄆ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 帖.
->For the word, see [帖](words/帖.md)
+>For the word, see [帖](../words/帖.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,10 +44,11 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*tʰeːb): semantic [[Radical 050|巾]] ("cloth") + phonetic [[占 (char)|占]] (OC \*tjems) — a note, invitation, card; an official document or proclamation (this reading, tiě, distinct from the homographic tiē "submissive" and tiè "copybook" senses of the same character).
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 5410`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄊㄛㄆ](syllables/ㄊㄛㄆ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 5410`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄊㄛㄆ](../syllables/ㄊㄛㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[帖]]<rt>ㄊㄛㄆ</rt></ruby> "invitation; card" (stand-in for 帖)
 - <ruby>[[郵帖]]<rt>ㄨㄛㄊㄛㄆ</rt></ruby> "postcard"
+- <ruby>[[手帖]]<rt>ㄙ⼜·ㄊㄛㄆ</rt></ruby> "handwritten letter; notebook"

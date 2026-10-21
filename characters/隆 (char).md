@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 隆.
->For the word, see [隆](words/隆.md)
+>For the word, see [隆](../words/隆.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*ɡ·ruːŋ): semantic [[生]] ("life; growth") + phonetic [[降]] (OC \*kruːŋs/\*ɡruːŋ, "descend") — "prosperous; plentiful; abundant" (also "protruding; high").
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1135th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄌㄨㄫ](syllables/ㄌㄨㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1135th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄌㄨㄫ](../syllables/ㄌㄨㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[隆]]<rt>ㄌㄨㄫ</rt></ruby> "prosperous; plentiful; abundant" (stand-in for 隆)

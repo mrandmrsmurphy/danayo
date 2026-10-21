@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 慨.
->For the word, see [慨](words/慨.md)
+>For the word, see [慨](../words/慨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*kʰɯːds): semantic [[Radical 061|心]] ("heart") + phonetic [[既]] (OC \*kɯds) — "to sigh; to lament."
-- [SKIP-1-3-10](lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2768th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄎㄚㄧ](syllables/ㄎㄚㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2768th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄎㄚㄧ](../syllables/ㄎㄚㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[慨]]<rt>ㄎㄚㄧ</rt></ruby> "sigh" (stand-in for 慨)

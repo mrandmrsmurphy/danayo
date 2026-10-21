@@ -29,22 +29,23 @@ stand_in: 虱
 aliases:
   - 蝨
 注音: ㄙㄛㄊ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 虱.
->For the word, see [虱](words/虱.md)
+>For the word, see [虱](../words/虱.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[文法 - 98違法字#卂|卂]] ("to fly swiftly," no character page of its own in this vault, permanently forbidden per [[文法 - 98違法字]]) — an insect pest; "louse."
-- [SKIP-3-1-7](lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 4234th most used character in Classical Chinese (trusted long-tail, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄙㄛㄊ](syllables/ㄙㄛㄊ.md)
-- [Grade Name](lookup/Grade%20Name.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-3-1-7](../lookup/SKIP/SKIP-3/SKIP-3-1-7.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 4234th most used character in Classical Chinese (trusted long-tail, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄙㄛㄊ](../syllables/ㄙㄛㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[虱]]<rt>ㄙㄛㄊ</rt></ruby> "louse (lice)" (stand-in for 虱)

@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 謀.
->For the word, see [謀](words/謀.md)
+>For the word, see [謀](../words/謀.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*mɯ): semantic [[Radical 149|言]] ("speech") + phonetic [[某]] (OC \*mɯʔ) — "to plan, scheme, conspire."
-- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 331st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄇㄨㄛ](syllables/ㄇㄨㄛ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 331st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄇㄨㄛ](../syllables/ㄇㄨㄛ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[謀]]<rt>ㄇㄨㄛ</rt></ruby> "conspire; plan; scheme" (stand-in for 謀)

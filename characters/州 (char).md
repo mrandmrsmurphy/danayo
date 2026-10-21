@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-06
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 州.
->For the word, see [州](words/州.md)
+>For the word, see [州](../words/州.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-06
 
 ## Notes
 - 象形: a pictograph of an islet in a river (a bend of water, 川/巛, with a dot or loop for the land within it). Originally "river islet, sandbank," a sense later taken over by the derived form [[洲 (char)|洲]] (水 added as a semantic marker); 州 itself specialized into "administrative division, province, state." Easily confused with 洲 — the two remain semantically distinct in Chinese and in this vault, though modern Japanese orthography uses 州 for both senses since 洲 fell outside the postwar jōyō kanji list.
-- [SKIP-1-2-4](lookup/SKIP/SKIP-1/SKIP-1-2-4.md) ([Stroke 6](lookup/Stroke/Stroke%206.md))
-- 407th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](syllables/ㄐㄨㄛ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-2-4](../lookup/SKIP/SKIP-1/SKIP-1-2-4.md) ([Stroke 6](../lookup/Stroke/Stroke%206.md))
+- 407th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](../syllables/ㄐㄨㄛ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[州]]<rt>ㄐㄨㄛ</rt></ruby> "state" (stand-in for 州 (char))
@@ -81,3 +81,4 @@ date-last-perfect: 2026-08-06
 
 ## Derived Characters
 - <ruby>[[洲 (char)|洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet"
+- <ruby>[[酬]]<rt>ㄙㄨㄛ</rt></ruby> "reward"

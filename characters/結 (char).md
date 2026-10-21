@@ -35,14 +35,14 @@ stand_in: "結"
 aliases:
   - 结
 注音: "ㄍㄝㄊ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 結.
->For the word, see [結](words/結.md)
+>For the word, see [結](../words/結.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

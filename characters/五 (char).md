@@ -31,23 +31,24 @@ aliases:
   - 㐅
   - 𠄡
 注音: ㄛ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 五.
->For the word, see [五](words/五.md)
+>For the word, see [五](../words/五.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): the modern X-like form no longer transparently depicts anything specific — early forms are thought to represent two crossed sticks used for counting. For anti-forgery purposes, use [[伍 (char)]].
-- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 38th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](syllables/ㄛ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): the modern X-like form no longer transparently depicts anything specific — early forms are thought to represent two crossed sticks used for counting. For anti-forgery purposes, use [[伍 (char)]].
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 38th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](../syllables/ㄛ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[五]]<rt>ㄛ</rt></ruby> "five" (stand-in for 五)

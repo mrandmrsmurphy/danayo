@@ -27,20 +27,20 @@ danayo_id: 24
 mc_id: 403
 graphemic_classification: 象形
 stand_in: 口
-aliases:
 注音: ㄎㄛㄨ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 口.
->For the word, see [口](words/口.md)
+>For the word, see [口](../words/口.md)
 >For the radical, see [Radical 030](../lookup/Radicals/Radical%20030.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): resembles an open mouth.
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))

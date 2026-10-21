@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 壱.
 >For the word, see [壱](../words/壱.md)
@@ -47,9 +47,12 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *qlid): semantic 壺 ("jar") + phonetic [[吉 (char)|吉]] — single-minded, wholehearted, unified in purpose, loyal; also the dedicated anti-forgery financial-numeral variant of 一.
-- [SKIP-2-3-4](Lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](Lookup/Stroke/Stroke%2007.md))
-- 1256th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](syllables/ㄧㄊ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](Lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](Lookup/Korean/Korean%20Missing.md)
+- [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1256th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](../syllables/ㄧㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[壱]]<rt>ㄧㄊ</rt></ruby> "loyal; faithful" (stand-in for 壱 (char); 壹 was dropped from the Korean MS hanja list in 2000)
+
+## Derived Characters
+- <ruby>[[懿]]<rt>ㄧㄜ</rt></ruby> "esteemed; beautiful"

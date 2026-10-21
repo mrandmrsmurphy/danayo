@@ -29,16 +29,15 @@ danayo_id: 6081
 mc_id: 9251
 graphemic_classification: 方
 stand_in: 肪
-aliases:
 注音: ㄈㄚㄫ
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 肪.
->For the word, see [肪](words/肪.md)
+>For the word, see [肪](../words/肪.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ date-last-perfect: 2026-09-16
 
 ## Notes
 - 形声 (OC \*paŋ, \*baŋ): semantic [[肉 (char)|肉]] ("flesh") + phonetic [[方 (char)|方]] — "fat, obese."
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 9251st most used character in Classical Chinese (long-tail, far beyond the vault's verifiable CC lookup range). Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄈㄚㄫ](syllables/ㄈㄚㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 6](lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](lookup/Korean/Korean%20Name%20ㅂ.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 9251st most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄈㄚㄫ](../syllables/ㄈㄚㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
 - <ruby>[[肪]]<rt>ㄈㄚㄫ</rt></ruby> "fat, obese" (stand-in for 肪)

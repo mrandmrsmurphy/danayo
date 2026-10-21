@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 冗.
->For the word, see [冗](words/冗.md)
+>For the word, see [冗](../words/冗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 會意 of [[Radical 014|冖]] ("a covering, roof") and 儿 ("person," no character page in this vault) — a person idling indoors, at leisure with nothing to do; "superfluous; excessive." Not a script variant of [[冘]] — the two are unrelated in meaning, reading, and origin, but easily confused visually since they differ by only a single stroke.
-- [SKIP-2-2-2](lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 3707th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄋ⼄ㄫ](syllables/ㄋ⼄ㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 3707th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄋ⼄ㄫ](../syllables/ㄋ⼄ㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[冗]]<rt>ㄋ⼄ㄫ</rt></ruby> "superfluous; excessive" (stand-in for 冗)

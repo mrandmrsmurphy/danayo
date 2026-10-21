@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 綴.
 >For the word, see [綴](../words/綴.md)
@@ -48,9 +48,9 @@ date-last-perfect: 2026-09-05
 
 ## Notes
 - 形声 (OC *tods, *tod): semantic [[Radical 120|糸]] ("silk") + phonetic 叕 — to bind, stitch, connect; to stop.
-- [SKIP-1-6-8](Lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](Lookup/Stroke/Stroke%2014.md))
-- 2553rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 薛B三合|ɣiuᴇt]] → [ㄐ⼔ㄊ](syllables/ㄐ⼔ㄊ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](Lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 2553rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 薛B三合|ɣiuᴇt]] → [ㄐ⼔ㄊ](../syllables/ㄐ⼔ㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[綴]]<rt>ㄐ⼔ㄊ</rt></ruby> "bind, stop" (stand-in for 綴)

@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 禿.
->For the word, see [禿](words/禿.md)
+>For the word, see [禿](../words/禿.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-15
 ## Notes
 - 會意: 毛 ("hair," later corrupted into 禾) + [[儿]] ("person") — bald.
 - [SKIP-2-5-2](Lookup/SKIP/SKIP-2/SKIP-2-5-2.md) ([Stroke 07](Lookup/Stroke/Stroke%2007.md))
-- 3839th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄊㄛㄎ](syllables/ㄊㄛㄎ.md)
+- 3839th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄊㄛㄎ](../syllables/ㄊㄛㄎ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄷ](Lookup/Korean/Korean%20Name%20ㄷ.md)
 
 ## Words

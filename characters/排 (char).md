@@ -28,16 +28,15 @@ danayo_id: 5364
 mc_id: 2459
 graphemic_classification: 非
 stand_in: 排
-aliases:
 注音: ㄆㄚㄧ
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is about the character.
->For the word, see [排](words/排.md)
+>For the word, see [排](../words/排.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*brɯːl): semantic [[手 (char)|手]] ("hand") + phonetic [[非 (char)|非]] (OC \*pɯl) — "to place in line."
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 2459th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 皆開|ɣɛi]] → [ㄆㄚㄧ](syllables/ㄆㄚㄧ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 2459th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 皆開|ɣɛi]] → [ㄆㄚㄧ](../syllables/ㄆㄚㄧ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[排]]<rt>ㄆㄚㄧ</rt></ruby> "row, rank, line" (stand-in for 排)

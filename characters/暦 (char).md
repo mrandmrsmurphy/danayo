@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 暦.
->For the word, see [暦](words/暦.md)
+>For the word, see [暦](../words/暦.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,13 +45,14 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*reːɡ): semantic [[日 (char)|日]] ("sun, day") + phonetic 厤 (itself built from 秝, OC \*reːɡ, an obsolete word for "sparse, thinly spread" — 秝 and 厤 share the exact same Old Chinese reading, so citing the ultimate root 秝 carries no phonetic loss) — "calendar, almanac."
-- [SKIP-3-2-12](lookup/SKIP/SKIP-3/SKIP-3-2-12.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 1522nd most used character in Classical Chinese (recorded under the traditional form 曆). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄌㄝㄎ](syllables/ㄌㄝㄎ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-3-2-12](../lookup/SKIP/SKIP-3/SKIP-3-2-12.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1522nd most used character in Classical Chinese (recorded under the traditional form 曆). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄌㄝㄎ](../syllables/ㄌㄝㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[暦]]<rt>ㄌㄝㄎ</rt></ruby> "calendar, almanac" (stand-in for 暦)
 - <ruby>[[暦数]]<rt>ㄌㄝㄎㄙㄨ</rt></ruby> "calendar system"
+- <ruby>[[暦法]]<rt>ㄌㄝㄎㄈㄚㄆ</rt></ruby> "calendrical system; calendar method"
 - <ruby>[[太陽暦]]<rt>ㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "solar calendar"
 - <ruby>[[太陰暦]]<rt>ㄊㄚㄧㄧㄇㄌㄝㄎ</rt></ruby> "lunar calendar"
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"

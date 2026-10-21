@@ -1,8 +1,8 @@
 ---
-size: 300
+size: 303
 tags:
   - lookup
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-10-20
 ---
 # 象形 — Pictographs
 ## Explained
@@ -85,7 +85,7 @@ In a constructed system like Dan’a’yo:
 Practically, 象形 remains a **small, core inventory** of basic nouns and natural forms that anchor the system visually and historically.
 
 ## List
-1. <ruby>[乙](/characters/乙%20(char).md)<rt>ㄛㄊ</rt></ruby> - fish cuts
+1. <ruby>[乙](/characters/乙%20(char).md)<rt>ㄜㄊ</rt></ruby> - fish cuts
 2. <ruby>[九](/characters/九%20(char).md)<rt>ㄎ⼜</rt></ruby> - elbow (nine)
 3. <ruby>[勿](/characters/勿%20(char).md)<rt>ㄇㄨㄊ</rt></ruby> - blood on a knife (do not)
 4. <ruby>[長](/characters/長%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - old man with long hair (long)
@@ -385,6 +385,9 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 298. <ruby>[須](/characters/須.md)<rt>ㄙㄨ</rt></ruby> - a bearded face (original form of 鬚; borrowed for 'must')
 299. <ruby>[飛](/characters/飛%20(char).md)<rt>ㄈㄝㄧ</rt></ruby> - a bird flying upwards
 300. <ruby>[黍](/characters/黍.md)<rt>ㄙ⼄</rt></ruby> - a cereal with water or kernels beneath it (millet)
+301. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - breath dispersing from a mouth, originally "breathing" (four)
+302. <ruby>[壴](/characters/壴.md)<rt>ㄊㄨㄛ</rt></ruby> - a drum mounted on a stand, with ornamental tassels — "to drum"
+303. <ruby>[戌](/characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> - an axe or halberd, almost identical to 戊 — eleventh earthly branch
 
 ## Base check
 ```base

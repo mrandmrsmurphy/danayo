@@ -28,16 +28,15 @@ danayo_id: 6139
 mc_id: 1535
 graphemic_classification: "未"
 stand_in: "昧"
-aliases:
 注音: "ㄇㄚㄧ"
 kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 昧.
->For the word, see [昧](words/昧.md)
+>For the word, see [昧](../words/昧.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*mɯːds): semantic [[日 (char)|日]] ("sun, day") + phonetic [[未 (char)|未]] — "dark, dim," extended to "ignorant, foolish" and "ambiguous, unclear."
-- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1535th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄇㄚㄧ](syllables/ㄇㄚㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1535th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄇㄚㄧ](../syllables/ㄇㄚㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[昧]]<rt>ㄇㄚㄧ</rt></ruby> "dark, benighted" (stand-in for 昧)

@@ -29,24 +29,24 @@ danayo_id: 2166
 mc_id: 156
 graphemic_classification: 勿
 stand_in: 物
-aliases:
 注音: ㄇㄨㄊ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 50
 ---
 >[!tip] This is a page about the character 物.
->For the word, see [物](words/物.md).
+>For the word, see [物](../words/物.md).
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*mɯd): semantic [[Radical 093|牛]] ("cow; ox") + phonetic [[勿 (char)|勿]] (OC \*mɯd).
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 156th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄇㄨㄊ](syllables/ㄇㄨㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 156th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄇㄨㄊ](../syllables/ㄇㄨㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[－物|物]]<rt>ㄇㄨㄊ</rt></ruby> "thing that is X-ed" (fully productive affix)

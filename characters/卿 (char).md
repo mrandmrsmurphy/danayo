@@ -30,24 +30,24 @@ danayo_id: 7218
 mc_id: 352
 graphemic_classification: 会意
 stand_in: 卿
-aliases:
 注音: ㄎ⼶ㄫ
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 卿.
->For the word, see [卿](words/卿.md)
+>For the word, see [卿](../words/卿.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 會意 ([List of 会意](lookup/List%20of%20会意.md)) (OC \*kʰraŋ): semantic 𠨍 ("two men facing each other," related to [[Radical 026|卩]]) + 皀 ("a food vessel on a stand," visually close to [[即 (char)|即]]) — people engaged in ritual feasting (Yang, 1965); the character was once graphically indistinguishable from 鄉/乡 ("village," OC \*qʰaŋ). Extended to a high-ranking court official or noble, and to a respectful/affectionate term of address ("sir, my lord"). No aliases confirmed on both Wiktionary editions.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄎ⼶ㄫ](syllables/ㄎ⼶ㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- 會意 ([List of 会意](../lookup/List%20of%20会意.md)) (OC \*kʰraŋ): semantic 𠨍 ("two men facing each other," related to [[Radical 026|卩]]) + 皀 ("a food vessel on a stand," visually close to [[即 (char)|即]]) — people engaged in ritual feasting (Yang, 1965); the character was once graphically indistinguishable from 鄉/乡 ("village," OC \*qʰaŋ). Extended to a high-ranking court official or noble, and to a respectful/affectionate term of address ("sir, my lord"). No aliases confirmed on both Wiktionary editions.
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄎ⼶ㄫ](../syllables/ㄎ⼶ㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[卿]]<rt>ㄎ⼶ㄫ</rt></ruby> "noble; high officer; sir; m'lord" (stand-in for 卿)

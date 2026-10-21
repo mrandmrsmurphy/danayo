@@ -37,22 +37,23 @@ stand_in: "殺"
 aliases:
   - 杀
 注音: "ㄙㄚㄊ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 殺.
->For the word, see [殺](words/殺.md)
+>For the word, see [殺](../words/殺.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 079|殳]] ("weapon; to strike") + phonetic 杀 — to strike dead. (杀 doubles as the simplified form of 殺 itself.)
-- [SKIP-1-6-4](lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄙㄚㄊ](syllables/ㄙㄚㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄙㄚㄊ](../syllables/ㄙㄚㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[殺]]<rt>ㄙㄚㄊ</rt></ruby> "kill" (stand-in for 殺)
@@ -69,3 +70,4 @@ boundedness: 80
 
 ## Derived Characters
 - <ruby>[[弒]]<rt>ㄊㄧ</rt></ruby> "assassinate"
+- <ruby>[[刹]]<rt>ㄑㄚㄊ</rt></ruby> "moment"

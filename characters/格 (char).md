@@ -30,25 +30,25 @@ danayo_id: 5331
 mc_id: 1580
 graphemic_classification: 各
 stand_in: 格
-aliases:
 注音: ㄍㄚㄎ
 kwin: false
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 格.
->For the word, see [格](words/格.md)
+>For the word, see [格](../words/格.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*klaːɡ, \*kraːɡ): semantic [[Radical 075|木]] ("wood") + phonetic [[各]] (OC \*klaːɡ).
-- [SKIP-1-4-6](lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1580th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄍㄚㄎ](syllables/ㄍㄚㄎ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1580th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄍㄚㄎ](../syllables/ㄍㄚㄎ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[格]]<rt>ㄍㄚㄎ</rt></ruby> "case, status" (stand-in for 格)

@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 剃.
->For the word, see [剃](words/剃.md)
+>For the word, see [剃](../words/剃.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (OC \*tʰiːls): semantic [[Radical 018|刀]] ("knife") + phonetic [[弟 (char)|弟]] — possibly a post-Han variant of [[剔]] (OC \*l̥ʰeːɡ).
-- [SKIP-1-7-2](lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 7175th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄊㄝㄧ](syllables/ㄊㄝㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 7175th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄊㄝㄧ](../syllables/ㄊㄝㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[剃]]<rt>ㄊㄝㄧ</rt></ruby> "shave"

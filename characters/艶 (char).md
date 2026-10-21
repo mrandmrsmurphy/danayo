@@ -35,10 +35,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 艶.
->For the word, see [艶](words/艶.md)
+>For the word, see [艶](../words/艶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*lams): semantic 豐 ("abundant, great," no character page exists for it in this vault) + phonetic 盍 (no character page exists for it in this vault, corrupted from 盇) — "voluptuous, richly beautiful," extended to "glossy, sensuous" in both aesthetic and erotic registers.
-- [SKIP-1-13-6](lookup/SKIP/SKIP-1/SKIP-1-13-6.md) ([Stroke 19](lookup/Stroke/Stroke%2019.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 4351` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [⼶ㄇ](syllables/⼶ㄇ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-13-6](../lookup/SKIP/SKIP-1/SKIP-1-13-6.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- 4351st most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [⼶ㄇ](../syllables/⼶ㄇ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[艶]]<rt>⼶ㄇ</rt></ruby> "plump; beautiful" (stand-in for 艶)

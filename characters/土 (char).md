@@ -31,24 +31,24 @@ aliases:
   - 圡
   - 𡈽
 注音: ㄊㄛ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 土.
->For the word, see [土](words/土.md)
+>For the word, see [土](../words/土.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a lump or mound of earth on the ground.
-- [SKIP-4-3-2](lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 337th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](syllables/ㄊㄛ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a lump or mound of earth on the ground.
+- [SKIP-4-3-2](../lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 337th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "tellurium": <ruby>[[土素]]<rt>ㄊㄛㄙㄛ</rt></ruby>
 
 ## Words

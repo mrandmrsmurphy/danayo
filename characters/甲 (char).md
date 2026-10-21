@@ -35,16 +35,15 @@ danayo_id: 3197
 mc_id: 419
 graphemic_classification: 象形
 stand_in: 甲
-aliases:
 注音: ㄍㄚㄆ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 甲.
->For the word, see [甲](words/甲.md)
+>For the word, see [甲](../words/甲.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

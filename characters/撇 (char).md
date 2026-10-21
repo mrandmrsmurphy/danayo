@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 撇.
->For the word, see [撇](words/撇.md)
+>For the word, see [撇](../words/撇.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 形声 (Zhengzhang OC \*pʰeːd): semantic [[Radical 064|手]] ("hand") + phonetic [[敝]] (OC \*beds, \*bed).
-- [SKIP-1-3-12](lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 9478th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄆㄝㄊ](syllables/ㄆㄝㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
+- [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 9478th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄆㄝㄊ](../syllables/ㄆㄝㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
 
 ## Words
 - <ruby>[[撇]]<rt>ㄆㄝㄊ</rt></ruby> "throw away"

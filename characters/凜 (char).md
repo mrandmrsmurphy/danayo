@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 凜.
->For the word, see [凜](words/凜.md)
+>For the word, see [凜](../words/凜.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,7 +47,7 @@ date-last-perfect: 2026-08-15
 ## Notes
 - 形声: semantic [[Radical 015|冫]] ("ice") + phonetic [[稟]] — cold, stern, dignified.
 - [SKIP-1-2-13](Lookup/SKIP/SKIP-1/SKIP-1-2-13.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6213`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄨㄇ](syllables/ㄌㄨㄇ.md)
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6213`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄨㄇ](../syllables/ㄌㄨㄇ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words

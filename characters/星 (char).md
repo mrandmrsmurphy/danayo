@@ -35,14 +35,14 @@ aliases:
   - 皨
   - 𤾪
 注音: ㄙㄝㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 星.
->For the word, see [星](words/星.md)
+>For the word, see [星](../words/星.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,9 +50,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*seːŋ): semantic [[Radical 072|日]] ("sun") + phonetic [[生 (char)|生]] (OC \*sʰraːŋ) — the bright bodies in the sky shining like a sun.
-- [SKIP-2-4-5](lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](syllables/ㄙㄝㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-5](../lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](../syllables/ㄙㄝㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[星]]<rt>ㄙㄝㄫ</rt></ruby> "star"
@@ -82,6 +82,11 @@ boundedness: 80
 - <ruby>[[海王星]]<rt>ㄏㄚㄧ⺢ㄫㄙㄝㄫ</rt></ruby> "Neptune"
 - <ruby>[[織女星]]<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby> "Vega"
 - <ruby>[[天王星]]<rt>ㄊㄝㄋ⺢ㄫㄙㄝㄫ</rt></ruby> "Uranus"
+- <ruby>[[恒星系]]<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby> "galaxy"
+- <ruby>[[星雲]]<rt>ㄙㄝㄫㄨㄋ</rt></ruby> "nebula"
+- <ruby>[[昴宿星団]]<rt>ㄇ⼘ㄨㄙㄨㄎㄙㄝㄫㄉ⺢ㄋ</rt></ruby> "Pleiades"
+- <ruby>[[木星]]<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby> "Jupiter"
+- <ruby>[[火星]]<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby> "Mars"
 
 ## Chengyu
 - <ruby>[[日月星辰]]<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"

@@ -26,20 +26,20 @@ danayo_id: 37
 mc_id: 1088
 graphemic_classification: 象形
 stand_in: 犬
-aliases:
 注音: ㄎ⼔ㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 犬.
->For the word, see [犬](words/犬.md)
+>For the word, see [犬](../words/犬.md)
 >For the radical, see [Radical 094](../lookup/Radicals/Radical%20094.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): the side view of a dog.
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

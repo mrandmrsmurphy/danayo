@@ -27,16 +27,15 @@ danayo_id: 3176
 mc_id: 5141
 graphemic_classification: "永"
 stand_in: "泳"
-aliases:
 注音: "ㄨㄧㄫ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 泳.
->For the word, see [泳](words/泳.md)
+>For the word, see [泳](../words/泳.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

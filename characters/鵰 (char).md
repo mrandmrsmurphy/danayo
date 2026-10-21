@@ -35,20 +35,20 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-19
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鵰.
->For the word, see [鵰](words/鵰.md)
+>For the word, see [鵰](../words/鵰.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [鳥 (char)](characters/鳥%20(char).md) ("bird") + phonetic 周 — "eagle; vulture." Shares its ㄑㄨㄛ reading with several other characters (e.g. [[秋 (char)|秋]], [[酋]], [[醜]]), a genuine pronunciation collision rather than a data error.
-- [SKIP-1-8-11](Lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](Lookup/Stroke/Stroke%2019.md))
-- 1967th most used character in Classical Chinese (recorded under simplified sibling glyph 雕). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄨㄛ](syllables/ㄑㄨㄛ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- 形声: semantic [[鳥 (char)]] ("bird") + phonetic 周 — "eagle; vulture." Shares its ㄑㄨㄛ reading with several other characters (e.g. [[秋 (char)|秋]], [[酋]], [[醜]]), a genuine pronunciation collision rather than a data error.
+- [SKIP-1-8-11](../lookup/SKIP/SKIP-1/SKIP-1-8-11.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
+- 1967th most used character in Classical Chinese (recorded under simplified sibling glyph 雕). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄨㄛ](../syllables/ㄑㄨㄛ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[鵰]]<rt>ㄑㄨㄛ</rt></ruby> "eagle; vulture"

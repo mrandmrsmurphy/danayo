@@ -28,24 +28,24 @@ danayo_id: 93
 mc_id: 317
 graphemic_classification: 象形
 stand_in: 耳
-aliases:
 注音: ㄋㄧ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 耳.
->For the word, see [耳](words/耳.md)
+>For the word, see [耳](../words/耳.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts an ear, showing its outer rim and inner canal.
-- [SKIP-4-6-1](lookup/SKIP/SKIP-4/SKIP-4-6-1.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 317th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄋㄧ](syllables/ㄋㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts an ear, showing its outer rim and inner canal.
+- [SKIP-4-6-1](../lookup/SKIP/SKIP-4/SKIP-4-6-1.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 317th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄋㄧ](../syllables/ㄋㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[耳]]<rt>ㄋㄧ</rt></ruby> "ear" (stand-in for 耳)

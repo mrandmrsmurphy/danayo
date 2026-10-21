@@ -27,20 +27,20 @@ danayo_id: 35
 mc_id: 951
 graphemic_classification: 象形
 stand_in: 毛
-aliases:
 注音: ㄇㄚㄨ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is about the character 毛.
->For the word, see [毛](words/毛.md).
+>For the word, see [毛](../words/毛.md).
 >For the radical, see [Radical 082](../lookup/Radicals/Radical%20082.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): feather or hair.
 - [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

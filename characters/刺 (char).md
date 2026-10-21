@@ -37,17 +37,18 @@ stand_in: 刺
 aliases:
   - 朿
 注音: ㄑㄧㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 刺.
->For the word, see [刺](words/刺.md)
+>For the word, see [刺](../words/刺.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*sʰeɡs): semantic [[Radical 018|刂]] ("knife") + phonetic 朿 ("thorn," OC \*[tsʰ]ek, the character's own ancestral form, kept here as an alias) — a thorn-like point that pierces; to stab, prick.
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
@@ -61,3 +62,9 @@ boundedness: 90
 - <ruby>[[刺身]]<rt>ㄑㄧㄎㄙㄧㄋ</rt></ruby> "sashimi"
 - <ruby>[[名刺]]<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby> "business card"
 - <ruby>[[風刺]]<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby> "satirize; mock"
+- <ruby>[[刺]]<rt>ㄑㄧㄎ</rt></ruby> "stab; prick; sting"
+
+## Derived Characters
+- <ruby>[[策]]<rt>ㄑㄚㄎ</rt></ruby> "scheme; plan"
+- <ruby>[[脊]]<rt>ㄐㄝㄎ</rt></ruby> "spine; ridge"
+- <ruby>[[責]]<rt>ㄐㄚㄎ</rt></ruby> "responsibility; duty"

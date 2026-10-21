@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 坑.
->For the word, see [坑](words/坑.md)
+>For the word, see [坑](../words/坑.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*kʰraːŋ): semantic [[土 (char)|土]] ("earth") + phonetic [[亢]] — "pit, hole, hollow," extended to "tunnel, mine shaft" and (literary) "to bury alive."
-- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 3186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄎㄚㄫ](syllables/ㄎㄚㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 3186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄎㄚㄫ](../syllables/ㄎㄚㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[坑]]<rt>ㄎㄚㄫ</rt></ruby> "pit, hole" (stand-in for 坑)

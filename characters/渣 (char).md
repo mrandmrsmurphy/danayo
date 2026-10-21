@@ -29,16 +29,15 @@ danayo_id: 7377
 mc_id: 0
 graphemic_classification: "査"
 stand_in: "渣"
-aliases:
 注音: "ㄐ⺢"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 渣.
->For the word, see [渣](words/渣.md)
+>For the word, see [渣](../words/渣.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ date-last-perfect: 2026-08-15
 
 ## Notes
 - 形声 (Zhengzhang OC \*ʔsraː): semantic [[Radical 085|氵]] ("water") + phonetic [[査|査]] (alias 查).
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄐ⺢](syllables/ㄐ⺢.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄐ⺢](../syllables/ㄐ⺢.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[渣]]<rt>ㄐ⺢</rt></ruby> "dregs, lees, sediment"

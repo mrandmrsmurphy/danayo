@@ -36,7 +36,7 @@ aliases:
   - 𠃢
   - 𦉭
   - 泗
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 注音: ㄙㄧㄜ
 kwin: false
 tags:
@@ -48,11 +48,12 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): originally depicted breath dispersing from a mouth — [[Radical 030|口]] ("mouth") + 八 ("to divide, to disperse") — the original form of 呬 (OC \*hrids, "to exhale"). Before the Western Zhou, "four" was instead written 亖 (four stacked strokes, on the model of 一/二/三); this glyph was borrowed for its phonetic value (OC \*hljids) to write "four" during the late Spring and Autumn period, replacing 亖 to avoid confusion with 二/三 in vertical text, and was standardized in the Qin dynasty. The bronze-script breath glyph was repositioned inside 口, later reanalyzed into the modern [[Radical 031|囗]]+儿 shape — a Kangxi-indexing artifact of the squared-off form, not the original composition. Compare 只 and 曰.
-- [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 48th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄙㄧㄜ](syllables/ㄙㄧㄜ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): originally depicted breath dispersing from a mouth — [[Radical 030|口]] ("mouth") + 八 ("to divide, to disperse") — the original form of 呬 (OC \*hrids, "to exhale"). Before the Western Zhou, "four" was instead written 亖 (four stacked strokes, on the model of 一/二/三); this glyph was borrowed for its phonetic value (OC \*hljids) to write "four" during the late Spring and Autumn period, replacing 亖 to avoid confusion with 二/三 in vertical text, and was standardized in the Qin dynasty. The bronze-script breath glyph was repositioned inside 口, later reanalyzed into the modern [[Radical 031|囗]]+儿 shape — a Kangxi-indexing artifact of the squared-off form, not the original composition. Compare 只 and 曰.
+- [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 48th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄙㄧㄜ](../syllables/ㄙㄧㄜ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - The anti-forgery variant for "four" is [[肆]].
 - 四 and [[死]] are genuine homophones in Dan'a'yo (both ㄙㄧㄜ) as well as in real Sino-Korean (both 사) — this preserves, rather than avoids, the traditional East Asian taboo linking "four" and "death."
 

@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 揺.
->For the word, see [揺](words/揺.md)
+>For the word, see [揺](../words/揺.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声: semantic [[Radical 064|手]] ("hand") + phonetic [[䍃]] (via 謠's own phonetic series, no vault page for 謠 itself) — OC \*lews, \*lew — "to shake, swing."
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1443rd most used character in Classical Chinese (ranked under the traditional form 搖). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [⼄ㄨ](syllables/⼄ㄨ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1443rd most used character in Classical Chinese (ranked under the traditional form 搖). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [⼄ㄨ](../syllables/⼄ㄨ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[揺]]<rt>⼄ㄨ</rt></ruby> "swing, shake, rock" (stand-in for 揺)

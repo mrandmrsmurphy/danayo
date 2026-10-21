@@ -31,10 +31,10 @@ kwin: false
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-08-17
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 栗.
->For the word, see [栗](words/栗.md)
+>For the word, see [栗](../words/栗.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -42,10 +42,15 @@ date-last-perfect: 2026-08-17
 
 ## Notes
 - 象形: chestnuts growing on a tree, similar in formation to [[果]] and 某. Traditional 慄 ("tremble") is collapsed onto this glyph in simplified Chinese — not followed in Dan'a'yo, where 慄 retains its own independent page for the unrelated "tremble" sense.
-- [SKIP-2-6-4](Lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](Lookup/Stroke/Stroke%2010.md))
-- 1702nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄌㄧㄊ](syllables/ㄌㄧㄊ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
+- [SKIP-2-6-4](../lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1702nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄌㄧㄊ](../syllables/ㄌㄧㄊ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words
+- <ruby>[[栗]]<rt>ㄌㄧㄊ</rt></ruby> "chestnut" (stand-in for 栗)
 - <ruby>[[栗色]]<rt>ㄌㄧㄊㄙㄧㄎ</rt></ruby> "chestnut"
 - <ruby>[[栗鼠]]<rt>ㄌㄧㄊㄙ⼄</rt></ruby> "squirrel"
+- <ruby>[[花栗鼠]]<rt>ㄏ⺢ㄌㄧㄊㄙ⼄</rt></ruby> "chipmunk"
+
+## Derived Characters
+- <ruby>[[慄 (char)|慄]]<rt>ㄌㄧㄊ</rt></ruby> "tremble; shudder; shiver"

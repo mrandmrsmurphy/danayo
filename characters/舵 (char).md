@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 舵.
->For the word, see [舵](words/舵.md)
+>For the word, see [舵](../words/舵.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,7 +49,7 @@ date-last-perfect: 2026-08-14
 ## Notes
 - 形声 (Zhengzhang OC *l'aːlʔ): semantic [[Radical 137|舟]] ("boat") + phonetic [[它]] (OC *l̥ʰaːl) — a rudder is a boat part, guessable via the shared 它 series (compare [[陀]], [[駝]], [[駄 (char)|駄]], all also ㄉㄚ).
 - [SKIP-1-6-5](Lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](Lookup/Stroke/Stroke%2011.md))
-- Confirmed not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄚ](syllables/ㄉㄚ.md)
+- Confirmed not present in the Classical Chinese usage ranking tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄚ](../syllables/ㄉㄚ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words

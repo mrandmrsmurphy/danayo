@@ -30,26 +30,24 @@ danayo_id: 5199
 mc_id: 1311
 graphemic_classification: 扁
 stand_in: 偏
-aliases:
 注音: ㄆ⼶ㄋ
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 偏.
->For the word, see [偏](words/偏.md)
+>For the word, see [偏](../words/偏.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*pʰen, \*pʰens): semantic [[Radical 009|人]] ("person") + phonetic [[扁]] (OC \*pʰen, \*benʔ, \*peːnʔ, \*beːnʔ) — "slanted, inclined, biased."
-- [SKIP-1-2-9](lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1311th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](syllables/ㄆ⼶ㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
-
-偏 was added to the Korean HS list in 2000.
+- [SKIP-1-2-9](../lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1311th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄆ⼶ㄋ](../syllables/ㄆ⼶ㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md) — added to the Korean high school hanja list in 2000.
 
 ## Words
 - <ruby>[[偏]]<rt>ㄆ⼶ㄋ</rt></ruby> "slanted, biased" (stand-in for 偏)

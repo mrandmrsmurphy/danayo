@@ -38,10 +38,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 墊.
->For the word, see [墊](words/墊.md)
+>For the word, see [墊](../words/墊.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,6 +49,6 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (Zhengzhang OC \*diːb): semantic [[Radical 032|土]] ("earth") + phonetic [[執]] (OC \*tjib).
-- [SKIP-2-11-3](lookup/SKIP/SKIP-2/SKIP-2-11-3.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 4368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄧㄆ](syllables/ㄉㄧㄆ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-2-11-3](../lookup/SKIP/SKIP-2/SKIP-2-11-3.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 4368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄧㄆ](../syllables/ㄉㄧㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)

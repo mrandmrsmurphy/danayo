@@ -42,14 +42,14 @@ aliases:
   - 𩇶
 注音: ㄚ
 swadesh: 1
-date-last-perfect: 2026-09-13
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 我.
->For the word, see [我](words/我.md)
+>For the word, see [我](../words/我.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -57,9 +57,9 @@ boundedness: 65
 
 ## Notes
 - 会意, though the actual components are genuinely uncertain: folk etymology reads it as a hand ([[Radical 064|手]]) gripping a weapon ([[Radical 062|戈]]); in all likelihood the true graphemic story is lost to time. Neither [[吾]] nor [[瓦]] is used as the modern first-person pronoun, so 我 fills that role instead. This is [[Swadesh]] word #1.
-- [SKIP-4-7-3](lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 113th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](syllables/ㄚ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-7-3](../lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 113th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](../syllables/ㄚ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[我]]<rt>ㄚ</rt></ruby> "I, me" (stand-in for 我)

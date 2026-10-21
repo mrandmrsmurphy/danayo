@@ -31,16 +31,15 @@ danayo_id: 3232
 mc_id: 8436
 graphemic_classification: "余"
 stand_in: "茶"
-aliases:
 注音: "ㄑㄚ"
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 茶.
->For the word, see [茶](words/茶.md)
+>For the word, see [茶](../words/茶.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

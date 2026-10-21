@@ -32,14 +32,14 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 悪.
->For the word, see [悪](words/悪.md)
+>For the word, see [悪](../words/悪.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

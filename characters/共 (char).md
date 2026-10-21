@@ -27,19 +27,19 @@ danayo_id: 2024
 mc_id: 381
 graphemic_classification: 会意
 stand_in: 共
-aliases:
 注音: ㄍ⼄ㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 共.
->For the word, see [共](words/共.md)
+>For the word, see [共](../words/共.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 会意](../lookup/List%20of%20会意.md): [[Radical 055|廾]] ("two hands") + [[Radical 030|口]] ("an object") — holding up an object with two hands.  Eventually 口 (not "mouth") came to be written 廿 (not "twenty"), which later fused with 廾 to form the modern 共.
 - [SKIP-2-4-2](../lookup/SKIP/SKIP-2/SKIP-2-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
@@ -65,6 +65,8 @@ boundedness: 90
 - <ruby>[[哄]]<rt>ㄏㄛㄫ</rt></ruby> "resound with laughter"
 - <ruby>[[洪]]<rt>ㄏㄛㄫ</rt></ruby> "deluge, flood"
 - <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby> "give, present"
+- <ruby>[[巷]]<rt>ㄏㄚㄫ</rt></ruby> "alley; lane"
+
 ## Chengyu
 - <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
 - <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"

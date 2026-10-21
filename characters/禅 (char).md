@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 禅.
->For the word, see [禅](words/禅.md)
+>For the word, see [禅](../words/禅.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*djan): semantic [[示 (char)|示]] ("to show, spirit") + phonetic [[単 (char)|單]] — originally "to offer sacrifices to nature" and "to abdicate, pass the throne," now used for Buddhist "dhyana, meditation, Zen."
-- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 1474th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](syllables/ㄙㄝㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 1474th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[禅]]<rt>ㄙㄝㄋ</rt></ruby> "oneness, Zen" (stand-in for 禅)

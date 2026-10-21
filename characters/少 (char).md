@@ -32,19 +32,19 @@ danayo_id: 51
 mc_id: 189
 graphemic_classification: "小"
 stand_in: "少"
-aliases:
 注音: "ㄙㄛㄨ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 少.
->For the word, see [少](words/少.md)
+>For the word, see [少](../words/少.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): four dots, perhaps three grains of sand (see 沙), to indicate "a few, a little". Phonetically borrowed from 小 (OC *smewʔ, “small”), which is depicted by three dots.
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

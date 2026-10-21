@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 25
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 喋.
->For the word, see [喋](words/喋.md)
+>For the word, see [喋](../words/喋.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*l'eːb): semantic [[口 (char)|口]] ("mouth") + phonetic [[枼]] (a loose match) — talking endlessly, talkative; chattering, babbling.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 4282` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](syllables/ㄉㄝㄆ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 4282nd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](../syllables/ㄉㄝㄆ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[喋]]<rt>ㄉㄝㄆ</rt></ruby> "chatter" (stand-in for 喋)

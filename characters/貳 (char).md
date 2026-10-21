@@ -39,10 +39,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 貳.
->For the word, see [貳](words/貳.md)
+>For the word, see [貳](../words/貳.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,9 +50,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*njis): semantic [[Radical 154|貝]] ("shell; money") + phonetic [[弍]] (OC \*njis, "two") — a formal/financial variant of plain "two" (二); by extension, a "secondary" or "assistant" role with respect to money came to mean "unfaithful; disloyal" (loyalty given elsewhere, for a price).
-- [SKIP-3-3-9](lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1301st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](syllables/ㄋㄧㄜ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md). Dropped from the Korean MS list in 2000.
+- [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1301st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](../syllables/ㄋㄧㄜ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md). Dropped from the Korean MS list in 2000.
 
 ## Words
 - <ruby>[[貳]]<rt>ㄋㄧㄜ</rt></ruby> "disloyal; betray" (stand-in for 貳)

@@ -34,16 +34,15 @@ danayo_id: 5162
 mc_id: 232
 graphemic_classification: "君"
 stand_in: "郡"
-aliases:
 注音: "ㄍㄨㄋ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 郡.
->For the word, see [郡](words/郡.md)
+>For the word, see [郡](../words/郡.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,9 +50,9 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 形声 (OC \*ɡluns): semantic [[Radical 163|邑]] ("city, town") + phonetic [[君 (char)|君]] (OC \*klun) — "commandery, county, district."
-- [SKIP-1-7-3](lookup/SKIP/SKIP-1/SKIP-1-7-3.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 232nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄍㄨㄋ](syllables/ㄍㄨㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (4), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-7-3](../lookup/SKIP/SKIP-1/SKIP-1-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 232nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄍㄨㄋ](../syllables/ㄍㄨㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (4), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[郡](words/郡.md)<rt>ㄍㄨㄋ</rt></ruby> "county, prefecture" (stand-in for 郡)
+- <ruby>[[郡]]<rt>ㄍㄨㄋ</rt></ruby> "county, prefecture" (stand-in for 郡)

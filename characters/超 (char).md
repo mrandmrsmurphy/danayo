@@ -30,16 +30,15 @@ danayo_id: 5233
 mc_id: 1361
 graphemic_classification: "召"
 stand_in: "超"
-aliases:
 注音: "ㄊㄚㄨ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 超.
->For the word, see [超](words/超.md)
+>For the word, see [超](../words/超.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +46,9 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 形声: semantic [[走 (char)|走]] ("run") + phonetic [[召]] (OC \*dews, \*djews) — to leap over, surpass.
-- [SKIP-3-7-5](lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1361st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 徹|ʈʰ]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄊㄚㄨ](syllables/ㄊㄚㄨ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-3-7-5](../lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1361st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 徹|ʈʰ]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄊㄚㄨ](../syllables/ㄊㄚㄨ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[超]]<rt>ㄊㄚㄨ</rt></ruby> "transcend, surpass" (stand-in for 超)

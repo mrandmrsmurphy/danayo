@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 尋.
->For the word, see [尋](words/尋.md)
+>For the word, see [尋](../words/尋.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 會意 (with phono-semantic elements): two hands (now 彐 and 寸) stretched out measuring a mat (now 工), with 口 added for emphasis — "to seek, search."
-- [SKIP-2-3-9](lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1483rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄙㄧㄇ](syllables/ㄙㄧㄇ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1483rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄙㄧㄇ](../syllables/ㄙㄧㄇ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[尋]]<rt>ㄙㄧㄇ</rt></ruby> "inquire for, seek" (stand-in for 尋)

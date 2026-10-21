@@ -26,17 +26,16 @@ danayo_id: 6454
 mc_id: 686
 graphemic_classification: 女
 stand_in: 汝
-aliases:
 注音: ㄋㄛㄧ
 kwin: false
 tags:
   - character
   - hapax
 boundedness: 65
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 汝.
->For the word, see [汝](words/汝.md)
+>For the word, see [汝](../words/汝.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*njaʔ): semantic [[Radical 085|水]] ("river; water") + phonetic [[女]] (OC \*naʔ/\*nas) — "you; thou" (intimate second-person pronoun).
-- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 686th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄋㄛㄧ](syllables/ㄋㄛㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 686th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄋㄛㄧ](../syllables/ㄋㄛㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (intimate)" (stand-in for 汝)

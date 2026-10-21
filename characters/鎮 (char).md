@@ -42,10 +42,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-06
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鎮.
->For the word, see [鎮](words/鎮.md)
+>For the word, see [鎮](../words/鎮.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,9 +53,9 @@ date-last-perfect: 2026-08-06
 
 ## Notes
 - 形声: semantic [[Radical 167|金]] ("metal," a heavy weight) + phonetic [[真 (char)|真]] — "to press down, hold in place," extended to "to tranquilize, subdue, garrison." 鎭 is a traditional variant form and 镇 the standard simplified form.
-- [SKIP-1-8-10](lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md))
-- 1746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄑㄧㄋ](syllables/ㄑㄧㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
+- 1746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄑㄧㄋ](../syllables/ㄑㄧㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[鎮]]<rt>ㄑㄧㄋ</rt></ruby> "tranquilize" (stand-in for 鎮 (char))

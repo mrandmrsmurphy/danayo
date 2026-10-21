@@ -35,24 +35,24 @@ stand_in: 其
 aliases:
   - 丌
 注音: ㄍㄜ
-date-last-perfect: 2026-09-15
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 其.
->For the word, see [其](words/其.md)
+>For the word, see [其](../words/其.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): originally 𠀠, depicting a winnowing basket; bronze script added a stand below (丌, resembling [[Radical 012|八]]'s splayed legs), possibly also functioning as a phonetic hint. The basket sense was later inherited by 箕 (OC \*kɯ, with 竹 "bamboo" added), while 其 itself was phonetically borrowed (假借) to write a demonstrative/possessive pronoun and grammatical particle — the concrete image effectively abandoned for a purely grammatical function.
-- [SKIP-2-6-2](lookup/SKIP/SKIP-2/SKIP-2-6-2.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 6th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄍㄜ](syllables/ㄍㄜ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): originally 𠀠, depicting a winnowing basket; bronze script added a stand below (丌, resembling [[Radical 012|八]]'s splayed legs), possibly also functioning as a phonetic hint. The basket sense was later inherited by 箕 (OC \*kɯ, with 竹 "bamboo" added), while 其 itself was phonetically borrowed (假借) to write a demonstrative/possessive pronoun and grammatical particle — the concrete image effectively abandoned for a purely grammatical function.
+- [SKIP-2-6-2](../lookup/SKIP/SKIP-2/SKIP-2-6-2.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 6th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄍㄜ](../syllables/ㄍㄜ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[其]]<rt>ㄍㄜ</rt></ruby> "that (middle)"

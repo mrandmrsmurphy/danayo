@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-13
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 槍.
->For the word, see [槍](words/槍.md)
+>For the word, see [槍](../words/槍.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-13
 
 ## Notes
 - 形聲: semantic [[Radical 075|木]] ("wood") + phonetic [[倉]] — a spear, a lance; extended in modern usage to "gun, rifle." Variant [[鎗]] confirmed via both English and Chinese Wiktionary; excluded 鑓 (a Japanese-only form, not corroborated on Chinese Wiktionary).
-- [SKIP-1-4-10](lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 4006` reflects long-tail data beyond that range, left unverified rather than guessed. Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄑ⺢ㄫ](syllables/ㄑ⺢ㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 4006th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄑ⺢ㄫ](../syllables/ㄑ⺢ㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
-- [槍](words/槍.md) "spear; lance" — 槍 stands alone as a word in Dan'a'yo.
+- [槍](../words/槍.md) "spear; lance" — 槍 stands alone as a word in Dan'a'yo.

@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 籠.
->For the word, see [籠](words/籠.md)
+>For the word, see [籠](../words/籠.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*roːŋ): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[龍 (char)|龍]] — "a bamboo basket, cage."
-- [SKIP-2-6-16](lookup/SKIP/SKIP-2/SKIP-2-6-16.md) ([Stroke 22](lookup/Stroke/Stroke%2022.md))
-- 2734th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄌㄛㄫ](syllables/ㄌㄛㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](lookup/Korean/Korean%20Name%20ㄹ.md)
+- [SKIP-2-6-16](../lookup/SKIP/SKIP-2/SKIP-2-6-16.md) ([Stroke 22](../lookup/Stroke/Stroke%2022.md))
+- 2734th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄌㄛㄫ](../syllables/ㄌㄛㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ## Words
 - <ruby>[[籠]]<rt>ㄌㄛㄫ</rt></ruby> "basket" (stand-in for 籠)

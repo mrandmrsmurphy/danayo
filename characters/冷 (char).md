@@ -36,16 +36,15 @@ danayo_id: 2028
 mc_id: 2294
 graphemic_classification: 令
 stand_in: 冷
-aliases:
 注音: ㄌㄚㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 冷.
->For the word, see [冷](words/冷.md)
+>For the word, see [冷](../words/冷.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,9 +52,9 @@ boundedness: 65
 
 ## Notes
 - 形声: semantic [[Radical 015|冫]] ("ice") + phonetic [[令]] — "cold as ice"; "cold, cool," extended to "desolate, indifferent, unpopular."
-- [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 2294th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄌㄚㄫ](syllables/ㄌㄚㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-5](../lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 2294th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄌㄚㄫ](../syllables/ㄌㄚㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[冷]]<rt>ㄌㄚㄫ</rt></ruby> "cool; cold" (stand-in for 冷)

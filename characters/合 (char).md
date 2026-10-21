@@ -39,14 +39,14 @@ stand_in: 合
 aliases:
   - 閤
 注音: ㄍㄛㄆ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 合.
->For the word, see [合](words/合.md)
+>For the word, see [合](../words/合.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -54,9 +54,9 @@ boundedness: 100
 ## Notes
 - Also pronounced /ɣʌp/ in MC: our pronunciation is a merger of the two.
 - 会意: [[集]] (亼) + [[Radical 030|口]] ("mouth") — two mouths speaking together.
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 260th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄍㄛㄆ](syllables/ㄍㄛㄆ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 260th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄍㄛㄆ](../syllables/ㄍㄛㄆ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby> "join; fit together; combine" (stand-in for 合)
@@ -72,6 +72,8 @@ boundedness: 100
 - <ruby>[[集合]]<rt>ㄐㄧㄆㄍㄛㄆ</rt></ruby> "assemble, gather; a group, a set"
 - <ruby>[[複合]]<rt>ㄅㄨㄎㄍㄛㄆ</rt></ruby> "compound; composite"
 - <ruby>[[複合語]]<rt>ㄅㄨㄎㄍㄛㄆ·⼄</rt></ruby> "compound word"
+- <ruby>[[合肥]]<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby> "Hefei; capital of Anhui province, China"
+- <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> "unite; ally with; alliance; union"
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"
@@ -80,3 +82,8 @@ boundedness: 100
 - [[恰 (char)|恰]]
 - <ruby>[[蛤]]<rt></rt></ruby> "clam"
 - <ruby>[[拿]]<rt>ㄋㄚ</rt></ruby> "grasp"
+- <ruby>[[拾]]<rt>ㄙㄧㄆ</rt></ruby> "pick up"
+- <ruby>[[盒]]<rt>ㄏㄛㄆ</rt></ruby> "box; case"
+- <ruby>[[答 (char)|答]]<rt>ㄉㄚㄆ</rt></ruby> "answer; reply; assent; return"
+- <ruby>[[給]]<rt>ㄍㄧㄆ</rt></ruby> "supply; give"
+- <ruby>[[翕]]<rt>ㄏㄨㄆ</rt></ruby> "agreeable; gather"

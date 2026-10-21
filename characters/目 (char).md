@@ -28,18 +28,19 @@ mc_id: 462
 graphemic_classification: 象形
 stand_in: 目
 注音: ㄇㄨㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 目.
->For the word, see [目](words/目.md)
+>For the word, see [目](../words/目.md)
 >For the radical, see [Radical 109](../lookup/Radicals/Radical%20109.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): human eye, now rotated 90 degrees. Compare the Egyptian hieroglyph 𓁹.
 - [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
@@ -56,6 +57,8 @@ boundedness: 90
 - <ruby>[[盲目]]<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby> "blind"
 - <ruby>[[耳目]]<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby> "eyes and ears; snoops and spies"
 - <ruby>[[目的語]]<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby> "grammatical object"
+- <ruby>[[目階]]<rt>ㄇㄨㄎㄍ⼶ㄧ</rt></ruby> "order"
+
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"
 

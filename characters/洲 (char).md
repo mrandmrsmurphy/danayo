@@ -26,13 +26,12 @@ danayo_id: 7503
 mc_id: 3213
 graphemic_classification: "州"
 stand_in: "洲"
-aliases:
 注音: "ㄐㄨㄛ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 洲.
 >For the word, see [洲](../words/洲.md)
@@ -43,9 +42,9 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[州 (char)|州]] — land formed in water; an islet, sandbank.
-- [SKIP-1-3-6](Lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](Lookup/Stroke/Stroke%2009.md))
-- 3213th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](syllables/ㄐㄨㄛ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean HS](Lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 3213th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](../syllables/ㄐㄨㄛ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 ## Words
 - <ruby>[[洲]]<rt>ㄐㄨㄛ</rt></ruby> "islet" (stand-in for 洲 (char))
 - <ruby>[[亜洲]]<rt>ㄚㄐㄨㄛ</rt></ruby> "Asia"
@@ -56,3 +55,8 @@ date-last-perfect: 2026-08-16
 - <ruby>[[嬴洲]]<rt>⼶ㄫㄐㄨㄛ</rt></ruby> "Yingzhou, the mythological eastern island"
 - <ruby>[[南極洲]]<rt>ㄋㄚㄇㄍㄧㄎㄐㄨㄛ</rt></ruby> "Antarctica"
 - <ruby>[[美洲金]]<rt>ㄇㄧㄐㄨㄛㄍㄧㄇ</rt></ruby> "americium"
+- <ruby>[[大洋洲]]<rt>ㄉㄚㄧ⼘ㄫㄐㄨㄛ</rt></ruby> "Oceania"
+- <ruby>[[欧洲]]<rt>ㄛㄨㄐㄨㄛ</rt></ruby> "Europe"
+- <ruby>[[満洲]]<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> "Manchu"
+- <ruby>[[美洲]]<rt>ㄇㄧㄐㄨㄛ</rt></ruby> "Americas"
+- <ruby>[[豪洲]]<rt>ㄏㄚㄨㄐㄨㄛ</rt></ruby> "Australia"

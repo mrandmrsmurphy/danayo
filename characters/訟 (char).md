@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 訟.
->For the word, see [訟](words/訟.md)
+>For the word, see [訟](../words/訟.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*sɢloŋ/\*sɢloŋs): semantic [[Radical 149|言]] ("speech") + phonetic [[公 (char)|公]] (OC \*kloːŋ) — "to sue; to dispute."
-- [SKIP-1-7-4](lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1188th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙ⼄ㄫ](syllables/ㄙ⼄ㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1188th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙ⼄ㄫ](../syllables/ㄙ⼄ㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[訟]]<rt>ㄙ⼄ㄫ</rt></ruby> "sue" (stand-in for 訟)

@@ -37,14 +37,14 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 動.
->For the word, see [動](words/動.md)
+>For the word, see [動](../words/動.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,9 +52,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*doːŋʔ): semantic [[Radical 019|力]] ("strength") + phonetic [[重 (char)|重]] (OC \*doŋ, \*doŋʔ, \*doŋs) — a reference to a heavy bag ready to be moved by a person; to move.
-- [SKIP-1-9-2](lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 338th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](syllables/ㄉㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-9-2](../lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 338th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](../syllables/ㄉㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[動]]<rt>ㄉㄛㄫ</rt></ruby> "to move" (stand-in for 動)

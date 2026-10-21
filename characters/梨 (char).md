@@ -26,16 +26,15 @@ danayo_id: 5215
 mc_id: 3412
 graphemic_classification: "利"
 stand_in: "梨"
-aliases:
 注音: "ㄌㄧㄜ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 梨.
->For the word, see [梨](words/梨.md)
+>For the word, see [梨](../words/梨.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -43,9 +42,9 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 形声: semantic [[Radical 075|木]] ("tree") + phonetic [[利]] (OC \*ril).
-- [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 3412th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄌㄧㄜ](syllables/ㄌㄧㄜ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 3412th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄌㄧㄜ](../syllables/ㄌㄧㄜ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[梨]]<rt>ㄌㄧㄜ</rt></ruby> "pear" (stand-in for 梨)

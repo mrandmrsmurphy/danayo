@@ -29,16 +29,15 @@ danayo_id: 6330
 mc_id: 1279
 graphemic_classification: "弋"
 stand_in: "戴"
-aliases:
 注音: "ㄊㄚㄧ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 戴.
->For the word, see [戴](words/戴.md)
+>For the word, see [戴](../words/戴.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*ʔl'ɯːɡs): originally an oracle-bone pictograph of a person holding something on their head with both hands (possibly the same character as [[異]] "person carrying something on their head"). Later reanalyzed as semantic [[異]] + phonetic 弋 (pageless in this vault; Wiktionary also lists 𢦏 and 之 as alternate phonetic candidates) — "to be crowned with; to wear on top." Radical [[Radical 062|戈]] traces to the 𢦏 component.
-- [SKIP-3-6-11](lookup/SKIP/SKIP-3/SKIP-3-6-11.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 1279th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄊㄚㄧ](syllables/ㄊㄚㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](lookup/Korean/Korean%20Name%20ㄷ.md)
+- [SKIP-3-6-11](../lookup/SKIP/SKIP-3/SKIP-3-6-11.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 1279th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄊㄚㄧ](../syllables/ㄊㄚㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
 
 ## Words
 - <ruby>[[戴]]<rt>ㄊㄚㄧ</rt></ruby> "be crowned with; wear on top" (stand-in for 戴)

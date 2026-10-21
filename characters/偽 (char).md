@@ -36,10 +36,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 偽.
->For the word, see [偽](words/偽.md)
+>For the word, see [偽](../words/偽.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-10
 
 ## Notes
 - 形聲 (OC \*ŋʷrals): semantic [[Radical 009|人]] ("person") + phonetic [[為 (char)|為]] (OC \*ɢʷal, "to make") — originally "artificial," extended to "false; fake."
-- [SKIP-1-2-9](lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1144th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [⼔ㄧ](syllables/⼔ㄧ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-2-9](../lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1144th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [⼔ㄧ](../syllables/⼔ㄧ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[偽]]<rt>⼔ㄧ</rt></ruby> "false; artificial" (stand-in for 偽)

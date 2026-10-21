@@ -28,13 +28,12 @@ danayo_id: 7537
 mc_id: 9433
 graphemic_classification: 某
 stand_in: 煤
-aliases:
 注音: ㄇㄛㄧ
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 煤.
 >For the word, see [煤](../words/煤.md)
@@ -45,9 +44,9 @@ date-last-perfect: 2026-08-16
 
 ## Notes
 - 形声 (OC *mɯː): semantic [[Radical 086|火]] ("fire") + phonetic [[某 (char)|某]] — soot, smoke-dust; coal.
-- [SKIP-1-4-9](Lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](Lookup/Stroke/Stroke%2013.md))
-- 9433rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄛㄧ](syllables/ㄇㄛㄧ.md)
-- [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 2](Lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](Lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 9433rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄛㄧ](../syllables/ㄇㄛㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[煤]]<rt>ㄇㄛㄧ</rt></ruby> "coal; soot" (stand-in for 煤 (char))

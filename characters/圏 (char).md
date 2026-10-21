@@ -36,10 +36,10 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 圏.
->For the word, see [圏](words/圏.md)
+>For the word, see [圏](../words/圏.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,9 +47,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*ɡronʔ): semantic [[Radical 031|囗]] ("enclosure") + phonetic [[巻 (char)|巻]] — "a ring, circle, pen," extended (abstract) to "an encircled area, zone, sphere."
-- [SKIP-3-3-9](lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 3579th most used character in Classical Chinese (recorded in the corpus under its traditional form 圈). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三合|ɣiuᴇn]] → [ㄍ⼔ㄋ](syllables/ㄍ⼔ㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 3579th most used character in Classical Chinese (recorded in the corpus under its traditional form 圈). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三合|ɣiuᴇn]] → [ㄍ⼔ㄋ](../syllables/ㄍ⼔ㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
 - <ruby>[[圏]]<rt>ㄍ⼔ㄋ</rt></ruby> "encircled area" (stand-in for 圏)

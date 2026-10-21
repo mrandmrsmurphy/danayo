@@ -29,24 +29,24 @@ danayo_id: 6347
 mc_id: 659
 graphemic_classification: 指事
 stand_in: 玄
-aliases:
 注音: ㄏ⼔ㄋ
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-10
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 玄.
->For the word, see [玄](words/玄.md)
+>For the word, see [玄](../words/玄.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 指事 (OC \*ɡʷeːn): two interwoven threads 幺 with a distinguishing mark 亠 on top, depicting a twisted cord dyed a deep blackish-red. The oldest basic Chinese color term for "black," later displaced by 黑; generalized to "deep, profound, mysterious" (as in the Dao De Jing's opening 玄之又玄, "mystery upon mystery").
-- [SKIP-2-2-3](lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 659th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄏ⼔ㄋ](syllables/ㄏ⼔ㄋ.md)
-- [Grade 6](lookup/Grade%206.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 659th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄏ⼔ㄋ](../syllables/ㄏ⼔ㄋ.md)
+- [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[玄]]<rt>ㄏ⼔ㄋ</rt></ruby> "deep; profound; mysterious" (stand-in for 玄)

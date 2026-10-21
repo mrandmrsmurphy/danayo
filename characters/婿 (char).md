@@ -38,10 +38,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 婿.
->For the word, see [婿](words/婿.md)
+>For the word, see [婿](../words/婿.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +49,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*sŋeːs): semantic [[女 (char)|女]] ("woman") + phonetic [[胥]] (OC \*sŋa/\*sŋaʔ, a close match) — a son-in-law; a husband.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2566th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](syllables/ㄙㄝㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2566th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](../syllables/ㄙㄝㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[婿]]<rt>ㄙㄝㄧ</rt></ruby> "son-in-law" (stand-in for 婿)

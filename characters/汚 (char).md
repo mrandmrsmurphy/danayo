@@ -37,7 +37,7 @@ aliases:
   - 汙
   - 污
 注音: "ㄛ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
@@ -48,6 +48,7 @@ boundedness:
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[于 (char)|于]] — stagnant, dirty water; filth.
 - [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))

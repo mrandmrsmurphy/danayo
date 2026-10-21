@@ -42,10 +42,10 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 妙.
->For the word, see [妙](words/妙.md)
+>For the word, see [妙](../words/妙.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,9 +53,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声: semantic [[女 (char)|女]] ("woman") + phonetic [[少 (char)|少]] (OC \*hmjewʔ) — "mysterious, subtle, exquisite."
-- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 2130th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄇ⼄ㄨ](syllables/ㄇ⼄ㄨ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 2130th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄇ⼄ㄨ](../syllables/ㄇ⼄ㄨ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle, exquisite" (stand-in for 妙)

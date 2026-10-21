@@ -32,13 +32,13 @@ stand_in: 憑
 aliases:
   - 凭
 注音: ㄅㄧㄫ
-date-last-perfect: 2026-09-12
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 ---
 >[!tip] This is a page about the character 憑.
->For the word, see [憑](words/憑.md)
+>For the word, see [憑](../words/憑.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

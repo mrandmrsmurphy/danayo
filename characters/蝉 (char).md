@@ -36,18 +36,19 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 蝉.
->For the word, see [蝉](words/蝉.md)
+>For the word, see [蝉](../words/蝉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [単](characters/単.md) — "cicada."
-- [SKIP-1-6-9](Lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
-- 2628th most used character in Classical Chinese (recorded under traditional sibling glyph 蟬). Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](syllables/ㄙㄝㄋ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
+- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[単]] — "cicada."
+- [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 2628th most used character in Classical Chinese (recorded under traditional sibling glyph 蟬). Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[蝉]]<rt>ㄙㄝㄋ</rt></ruby> "cicada" (stand-in for 蝉)

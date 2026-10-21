@@ -42,10 +42,10 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 沫.
->For the word, see [沫](words/沫.md)
+>For the word, see [沫](../words/沫.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,9 +53,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 形聲 (OC \*maːd): semantic [[Radical 085|氵]] ("water") + phonetic [[末]] (OC \*maːd, an exact match) — froth, foam, bubbles, suds; saliva.
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 2584th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄇㄚㄊ](syllables/ㄇㄚㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](lookup/Korean/Korean%20Name%20ㅁ.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2584th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄇㄚㄊ](../syllables/ㄇㄚㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
 - <ruby>[[沫]]<rt>ㄇㄚㄊ</rt></ruby> "froth; foam; bubbles; suds" (stand-in for 沫)

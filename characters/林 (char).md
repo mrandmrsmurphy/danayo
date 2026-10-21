@@ -33,22 +33,23 @@ aliases:
   - 婪
   - 菻
 注音: ㄌㄧㄇ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 40
 ---
 >[!tip] This is a page about the character 林.
->For the word, see [林](words/林.md)
+>For the word, see [林](../words/林.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): duplication of [[Radical 075|木]] ("tree") to give the idea of multiple trees (compare 森), thus a forest. See also the top component of 散 in its original version.
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 649th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄧㄇ](syllables/ㄌㄧㄇ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): duplication of [[Radical 075|木]] ("tree") to give the idea of multiple trees (compare 森), thus a forest. See also the top component of 散 in its original version.
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 649th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄧㄇ](../syllables/ㄌㄧㄇ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby> "grove" (stand-in for 林)

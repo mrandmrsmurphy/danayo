@@ -30,14 +30,14 @@ stand_in: "名"
 aliases:
   - 洺
 注音: "ㄇㄧㄫ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 名.
->For the word, see [名](words/名.md)
+>For the word, see [名](../words/名.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 036|夕]] ("evening, dusk") and [[Radical 030|口]] ("mouth") — in the dark, one announces oneself by calling out one's name.
-- [SKIP-2-3-3](lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 128th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄇㄧㄫ](syllables/ㄇㄧㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 128th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄇㄧㄫ](../syllables/ㄇㄧㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[名]]<rt>ㄇㄧㄫ</rt></ruby> "name" (stand-in for 名)

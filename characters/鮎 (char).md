@@ -37,20 +37,20 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鮎.
->For the word, see [鮎](words/鮎.md)
+>For the word, see [鮎](../words/鮎.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [魚 (char)](characters/魚%20(char).md) ("fish") + phonetic [占 (char)](characters/占%20(char).md) — "catfish; sheatfish" (in Japanese, reinterpreted to mean "sweetfish/ayu" instead, a semantic divergence unique to Japanese usage).
-- [SKIP-1-11-5](Lookup/SKIP/SKIP-1/SKIP-1-11-5.md) ([Stroke 16](Lookup/Stroke/Stroke%2016.md))
-- mc_id trusted long-tail (8991; absent from all four Classical Chinese frequency lists). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 添|em]] → [ㄋㄝㄇ](syllables/ㄋㄝㄇ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+- 形声: semantic [[魚 (char)]] ("fish") + phonetic [[占 (char)]] — "catfish; sheatfish" (in Japanese, reinterpreted to mean "sweetfish/ayu" instead, a semantic divergence unique to Japanese usage).
+- [SKIP-1-11-5](../lookup/SKIP/SKIP-1/SKIP-1-11-5.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- mc_id trusted long-tail (8991; absent from all four Classical Chinese frequency lists). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 添|em]] → [ㄋㄝㄇ](../syllables/ㄋㄝㄇ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[鮎]]<rt>ㄋㄝㄇ</rt></ruby> "sweetfish; sheatfish" (stand-in for 鮎)

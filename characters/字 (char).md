@@ -29,7 +29,7 @@ mc_id: 594
 graphemic_classification: 子
 stand_in: 字
 注音: ㄐㄧ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
@@ -40,9 +40,10 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声: OC \*zlɯs): semantic [宀](Radical%20040) (“roof”) + phonetic [子](Radical%20039) (OC \*ʔslɯʔ, “child”) - [ㄐㄧ](syllables/ㄐㄧ.md)
-- [Korean MS](lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Grade 1](lookup/Grade%201.md)
+- 形声: OC \*zlɯs): semantic [宀](Radical%20040) (“roof”) + phonetic [子](Radical%20039) (OC \*ʔslɯʔ, “child”) - [ㄐㄧ](../syllables/ㄐㄧ.md)
+- [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 
 
 ## Words
@@ -60,6 +61,23 @@ boundedness: 90
 - <ruby>[繁体字](/words/繁体字.md)<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> - traditional Chinese characters
 - <ruby>[[本字]]<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character"
 - <ruby>[[名専字]]<rt>ㄇㄧㄫㄐ⼔ㄋㄐㄧ</rt></ruby> "name-only character"
+- <ruby>[[卍字]]<rt>ㄇㄛㄋㄐㄧ</rt></ruby> "swastika"
+- <ruby>[[名字]]<rt>ㄇㄧㄫㄐㄧ</rt></ruby> "name (personal name)"
+- <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> "four-character fixed expression; four-character idiom"
+- <ruby>[[字]]<rt>ㄐㄧ</rt></ruby> "character"
+- <ruby>[[字典]]<rt>ㄐㄧㄉㄝㄋ</rt></ruby> "dictionary"
+- <ruby>[[字南]]<rt>ㄐㄧ·ㄋㄚㄇ</rt></ruby> "Chu Nom, Vietnamese written in Chinese characters"
+- <ruby>[[字母]]<rt>ㄐㄧ·ㄇㄛㄨ</rt></ruby> "grapheme"
+- <ruby>[[字源]]<rt>ㄐㄧ⼔ㄋ</rt></ruby> "etymology (of a Chinese character)"
+- <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby> "numeral; digit; number"
+- <ruby>[[文字]]<rt>ㄇㄨㄋㄐㄧ</rt></ruby> "writing; text; script; character"
+- <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai"
+- <ruby>[[正字]]<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
+- <ruby>[[正字法]]<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby> "orthography"
+- <ruby>[[漢字]]<rt>ㄏㄚㄋㄐㄧ</rt></ruby> "Chinese character"
+- <ruby>[[簡体字]]<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "Simplified Chinese characters"
+- <ruby>[[繁体字]]<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "Traditional Chinese characters"
+- <ruby>[[識字]]<rt>ㄙㄧㄎㄐㄧ</rt></ruby> "literacy; know how to read"
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "One Character, One Sound"

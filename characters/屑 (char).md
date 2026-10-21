@@ -34,10 +34,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 屑.
->For the word, see [屑](words/屑.md)
+>For the word, see [屑](../words/屑.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形声 (Zhengzhang OC \*slɯːd, \*sluːd): semantic [[Radical 044|尸]] ("body") + phonetic [[肖]] — originally written 㞕.
-- [SKIP-3-3-7](lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 3099th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄙㄝㄊ](syllables/ㄙㄝㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-3-3-7](../lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 3099th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄙㄝㄊ](../syllables/ㄙㄝㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[屑]]<rt>ㄙㄝㄊ</rt></ruby> "scraps, waste tidbits"

@@ -28,16 +28,15 @@ danayo_id: 3231
 mc_id: 87
 graphemic_classification: 象形
 stand_in: 若
-aliases:
 注音: ㄋ⼘
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 55
 ---
 >[!tip] This is a page about the character 若.
->For the word, see [若](words/若.md)
+>For the word, see [若](../words/若.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

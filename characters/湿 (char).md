@@ -34,10 +34,10 @@ tags:
   - character
 kwin: false
 boundedness: 75
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 湿.
->For the word, see [湿](words/湿.md)
+>For the word, see [湿](../words/湿.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-09-16
 ## Notes
 - **Corrected a real bug**: this page's own `羅馬字`/`諺文`/`注音` header fields had drifted to sǝb/습/ㄙㄜㄆ, inconsistent with this very page's own Words-list entry for [[湿]] (already ㄙㄧㄆ) and with the already-perfected [[湿度]] (ㄙㄧㄆㄉㄛ) — corrected to sib/십/ㄙㄧㄆ, and `kwin` updated to `false` accordingly (諺文 십 vs Korean 습 diverge). [[除湿]]'s own ruby annotation, still awaiting its own turn in the word-perfecting sweep, will need the same fix when it comes up.
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[显]] (also written 㬎, an alias of the same character) — overall OC \*hŋjɯb.
-- [SKIP-1-3-9](lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1630th most used character in Classical Chinese (ranked under the traditional form 濕). Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](syllables/ㄙㄧㄆ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1630th most used character in Classical Chinese (ranked under the traditional form 濕). Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](../syllables/ㄙㄧㄆ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[湿]]<rt>ㄙㄧㄆ</rt></ruby> "wet, damp" (stand-in for 湿)

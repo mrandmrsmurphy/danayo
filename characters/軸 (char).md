@@ -35,10 +35,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 軸.
->For the word, see [軸](words/軸.md)
+>For the word, see [軸](../words/軸.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +46,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声/會意 (OC \*l'ɯwɢ): semantic [[車 (char)|車]] ("cart") + phonetic [[由 (char)|由]] (OC \*lɯw, "to pass through") — the axle that passes through a cartwheel.
-- [SKIP-1-7-5](lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2288th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄉㄨㄎ](syllables/ㄉㄨㄎ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](lookup/Korean/Korean%20Name%20ㅈ.md)
+- [SKIP-1-7-5](../lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2288th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄉㄨㄎ](../syllables/ㄉㄨㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
 - <ruby>[[軸]]<rt>ㄉㄨㄎ</rt></ruby> "axis, axle, pivot" (stand-in for 軸)

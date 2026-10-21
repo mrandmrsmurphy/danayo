@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鎌.
->For the word, see [鎌](words/鎌.md)
+>For the word, see [鎌](../words/鎌.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,10 +45,10 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[兼]] — a sickle. Variant [[鐮]] confirmed via Chinese Wiktionary.
-- [SKIP-1-8-10](lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](lookup/Stroke/Stroke%2018.md))
-- Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄌㄝㄇ](syllables/ㄌㄝㄇ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
+- Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄌㄝㄇ](../syllables/ㄌㄝㄇ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
 
 ## Words
-- [鎌](words/鎌.md) "sickle" — 鎌 stands alone as a word in Dan'a'yo.
+- [鎌](../words/鎌.md) "sickle" — 鎌 stands alone as a word in Dan'a'yo.
 - <ruby>[[鎌倉]]<rt>ㄌㄝㄇㄑ⺢ㄫ</rt></ruby> "Kamakura"

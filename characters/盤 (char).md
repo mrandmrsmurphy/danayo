@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 盤.
->For the word, see [盤](words/盤.md)
+>For the word, see [盤](../words/盤.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声: semantic [[皿 (char)|皿]] ("vessel") + phonetic [[般]] (OC \*praːn, \*paːn, \*baːn) — overall OC \*baːn.
-- [SKIP-2-10-5](lookup/SKIP/SKIP-2/SKIP-2-10-5.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 2118th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](syllables/ㄅㄚㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-2-10-5](../lookup/SKIP/SKIP-2/SKIP-2-10-5.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 2118th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄅㄚㄋ](../syllables/ㄅㄚㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[盤]]<rt>ㄅㄚㄋ</rt></ruby> "tray" (stand-in for 盤)

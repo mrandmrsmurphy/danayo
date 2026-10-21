@@ -27,19 +27,19 @@ danayo_id: 83
 mc_id: 589
 graphemic_classification: "象形"
 stand_in: "肉"
-aliases:
 注音: "ㄋㄨㄎ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 肉.
->For the word, see [肉](words/肉.md)
+>For the word, see [肉](../words/肉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): the ribs of an animal's torso, or a slice of meat; stylized into 月 when placed next to a phonetic component.
 - [SKIP-3-4-2](../lookup/SKIP/SKIP-3/SKIP-3-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
@@ -58,6 +58,8 @@ boundedness: 90
 - <ruby>[[筋肉]]<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby> "muscles"
 - <ruby>[[豚肉]]<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby> "pork"
 - <ruby>[[皮肉]]<rt>ㄅㄧ·ㄋㄨㄎ</rt></ruby> "irony, sarcasm, shallow criticism"
+- <ruby>[[肉]]<rt>ㄋㄨㄎ</rt></ruby> "meat"
+
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"

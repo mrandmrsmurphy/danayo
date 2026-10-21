@@ -35,16 +35,15 @@ danayo_id: 8813
 mc_id: 2125
 graphemic_classification: 去
 stand_in: 怯
-aliases:
 注音: ㄎㄚㄆ
 kwin: false
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-08-25
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 怯.
->For the word, see [怯](words/怯.md)
+>For the word, see [怯](../words/怯.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,6 +51,9 @@ date-last-perfect: 2026-08-25
 
 ## Notes
 - 形声: semantic [[Radical 061|忄]] ("heart, emotion") + phonetic [[去 (char)|去]] ("go") — timidity as a quality of the heart. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
-- [SKIP-1-3-5](Lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](Lookup/Stroke/Stroke%2008.md))
-- 2125th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 乏|iɐp]] → [ㄎㄚㄆ](syllables/ㄎㄚㄆ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [Old HSK 6](Lookup/HSK/Old%20HSK%206.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2125th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 乏|iɐp]] → [ㄎㄚㄆ](../syllables/ㄎㄚㄆ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Words
+- <ruby>[[怯]]<rt>ㄎㄚㄆ</rt></ruby> "cowardly; timid; afraid"

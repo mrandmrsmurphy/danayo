@@ -29,7 +29,7 @@ danayo_id: 2001
 mc_id: 2
 graphemic_classification: 象形
 stand_in: 不
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 aliases:
   - 𠀚
   - 𠙐
@@ -41,15 +41,16 @@ tags:
 boundedness: 50
 ---
 >[!tip] This is a page about the character 不.
->For the word, see [不](words/不.md)
+>For the word, see [不](../words/不.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts the calyx of a flower (original meaning now written [[柎]], OC *po); the negation meaning arose by phonetic borrowing. 不 was later compounded with 口 to form [[否 (char)]] (OC *brɯʔ) to make “no” unambiguous, leaving 不 for grammatical negation.
-- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 4](lookup/Stroke/Stroke%204.md))
-- 2nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄛㄊ](syllables/ㄅㄛㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts the calyx of a flower (original meaning now written [[柎]], OC *po); the negation meaning arose by phonetic borrowing. 不 was later compounded with 口 to form [[否 (char)]] (OC *brɯʔ) to make “no” unambiguous, leaving 不 for grammatical negation.
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 4](../lookup/Stroke/Stroke%204.md))
+- 2nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[不]]<rt>ㄅㄛㄊ</rt></ruby> "not" (stand-in for 不)
@@ -91,7 +92,6 @@ boundedness: 50
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "total silence"
 - <ruby>[[不可思議]]<rt>ㄅㄛㄊㄎㄜㄙㄚㄜㄧ</rt></ruby> "inconceivable, unimaginable, incomprehensible"
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"
-- <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "total silence"
 - <ruby>[[不打不成器]]<rt>ㄅㄛㄊㄉㄚㄅㄛㄊㄙㄧㄫㄎㄧㄜ</rt></ruby> "spare the rod, spoil the child"
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"

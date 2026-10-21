@@ -36,18 +36,19 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 糾.
->For the word, see [糾](words/糾.md)
+>For the word, see [糾](../words/糾.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*kriwʔ): semantic [[Radical 120|糸]] ("silk") + phonetic 丩 (OC \*kiw) — a twisted silk cord, giving the sense "twist, entangle" and by extension "investigate."
-- [SKIP-1-6-6](lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1760th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 幽|iɪu]] → [ㄍ⼜ㄛ](syllables/ㄍ⼜ㄛ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1760th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 幽|iɪu]] → [ㄍ⼜ㄛ](../syllables/ㄍ⼜ㄛ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[糾]]<rt>ㄍ⼜ㄛ</rt></ruby> "twist, investigate" (stand-in for 糾)

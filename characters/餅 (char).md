@@ -37,10 +37,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 餅.
->For the word, see [餅](words/餅.md)
+>For the word, see [餅](../words/餅.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 形声 (OC \*peŋʔ): semantic [[食 (char)|食]] ("food") + phonetic [[並 (char)|并]] (OC \*peŋ) — "flat wheaten food" (flatbread, pancake, biscuit), extended to any flatbread-shaped object.
-- [SKIP-1-9-8](lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](lookup/Stroke/Stroke%2017.md))
-- 3920th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄅㄧㄫ](syllables/ㄅㄧㄫ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-1-9-8](../lookup/SKIP/SKIP-1/SKIP-1-9-8.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
+- 3920th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄅㄧㄫ](../syllables/ㄅㄧㄫ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[餅]]<rt>ㄅㄧㄫ</rt></ruby> "pastry, cake, mochi" (stand-in for 餅)

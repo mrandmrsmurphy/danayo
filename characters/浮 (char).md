@@ -28,16 +28,15 @@ danayo_id: 3181
 mc_id: 903
 graphemic_classification: 孚
 stand_in: 浮
-aliases:
 注音: ㄅㄨㄛ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 浮.
->For the word, see [浮](words/浮.md)
+>For the word, see [浮](../words/浮.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-09-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is about the character.
->For the word, see [頬](words/頬.md)
+>For the word, see [頬](../words/頬.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-09-07
 
 ## Notes
 - 形声 (OC \*keːb): semantic [[頁 (char)|頁]] ("head") + phonetic [[夹]] (traditional 夾, OC \*kreːb) — "cheek."
-- [SKIP-1-6-9](lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 2879th most used character in Classical Chinese (as 頰). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄍㄝㄆ](syllables/ㄍㄝㄆ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](lookup/Korean/Korean%20Name%20ㅎ.md)
+- [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 2879th most used character in Classical Chinese (as 頰). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄍㄝㄆ](../syllables/ㄍㄝㄆ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words
 - <ruby>[[頬]]<rt>ㄍㄝㄆ</rt></ruby> "cheek" (stand-in for 頬)

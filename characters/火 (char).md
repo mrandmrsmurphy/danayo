@@ -30,18 +30,19 @@ stand_in: 火
 aliases:
   - 灬
 注音: ㄏ⺢
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 火.
->For the word, see [火](words/火.md)
+>For the word, see [火](../words/火.md)
 >It is the chemical formula abbreviation for strontium.
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): pictographic representation of a fire. Written as 灬 when at the bottom of a character, but still seen in the original form in the character 灸.
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

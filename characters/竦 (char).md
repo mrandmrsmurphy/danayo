@@ -37,10 +37,10 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-14
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 竦.
->For the word, see [竦](words/竦.md)
+>For the word, see [竦](../words/竦.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +48,9 @@ date-last-perfect: 2026-08-14
 
 ## Notes
 - 形聲: semantic [[立]] ("stand") + phonetic [[束 (char)|束]] — to revere, respect, be in awe of; to fear, be alarmed; to stand upright or on tiptoes. Alternative form [[聳]] (via a different phonetic route but same word family, per English Wiktionary) and variant [[捒]] both confirmed.
-- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙㄛㄫ](syllables/ㄙㄛㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-1-5-7](../lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙㄛㄫ](../syllables/ㄙㄛㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[竦]]<rt>ㄙㄛㄫ</rt></ruby> "awe" (stand-in for 竦)

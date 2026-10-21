@@ -38,10 +38,10 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-11
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 呆.
->For the word, see [呆](words/呆.md)
+>For the word, see [呆](../words/呆.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,9 +49,9 @@ date-last-perfect: 2026-08-11
 
 ## Notes
 - 會意: [[Radical 030|口]] ("mouth") + [[木]] ("tree") — a person standing dumbstruck like a tree trunk, mouth agape; "dull-witted, foolish, dazed," and of expressions/manners, "wooden, rigid."
-- [SKIP-2-3-4](lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄚㄧ](syllables/ㄇㄚㄧ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Missing](lookup/Korean/Korean%20Missing.md)
+- [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄚㄧ](../syllables/ㄇㄚㄧ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
 - <ruby>[[呆]]<rt>ㄇㄚㄧ</rt></ruby> "confused; dazed; foolish" (stand-in for 呆)

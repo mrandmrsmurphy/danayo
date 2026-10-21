@@ -33,20 +33,20 @@ danayo_id: 48
 mc_id: 67
 graphemic_classification: 象形
 stand_in: 日
-aliases:
 注音: ㄋㄧㄊ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 60
 ---
 >[!tip] This is a page about the character 日.
->For the word, see [日](words/日.md)
+>For the word, see [日](../words/日.md)
 >For the radical, see [Radical 072](../lookup/Radicals/Radical%20072.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - abbreviation for <ruby>[日素](/words/日素.md)<rt>ㄋㄧㄊㄙㄛ</rt></ruby> "helium" in periodic-table formulae — see [Periodic Table](../lexipedia/Periodic%20Table.md)
 - [List of 象形](../lookup/List%20of%20象形.md): depicts the sun, originally drawn as a circle with a dot or short stroke inside marking a sunspot or the sun's brightness.

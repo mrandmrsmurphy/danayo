@@ -33,22 +33,23 @@ aliases:
   - 𠙸
   - 𡶸
 注音: "ㄙㄚㄋ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 山.
->For the word, see [山](words/山.md)
+>For the word, see [山](../words/山.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): three mountain peaks. In the Oracle Bone Script, they were represented by triangles rather than vertical strokes. Compare 丘 (qiū), particularly earlier forms.
-- [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 117th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 山開|ɣɛn]] → [ㄙㄚㄋ](syllables/ㄙㄚㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): three mountain peaks. In the Oracle Bone Script, they were represented by triangles rather than vertical strokes. Compare 丘 (qiū), particularly earlier forms.
+- [SKIP-3-2-1](../lookup/SKIP/SKIP-3/SKIP-3-2-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 117th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 山開|ɣɛn]] → [ㄙㄚㄋ](../syllables/ㄙㄚㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby> "mountain" (stand-in for 山)
@@ -84,6 +85,7 @@ boundedness: 75
 - <ruby>[[山口]]<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby> "Yamaguchi Prefecture"
 - <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
 - <ruby>[[檀香山]]<rt>ㄉㄚㄋㄏ⼘ㄫㄙㄚㄋ</rt></ruby> "Honolulu"
+- <ruby>[[山羊]]<rt>ㄙㄚㄋ·⼘ㄫ</rt></ruby> "goat"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

@@ -40,18 +40,20 @@ tags:
   - character
   - hapax
 boundedness: 90
-date-last-perfect: 2026-08-20
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鱏.
->For the word, see [鱏](words/鱏.md)
+>For the word, see [鱏](../words/鱏.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC recon. uncertain): semantic [[Radical 195|魚]] ("fish") + phonetic [[覃]] — dual-source confirmed with two attested senses: primarily "sturgeon" in Chinese/Korean usage (matching `korean_native: 심어`, and aliases 鱘/𱈓), and "ray/eagle ray" in Japanese usage (matching kun'yomi えい, and aliases 鱝/鰩) — the Dan'a'yo word draws on the latter sense.
-- [SKIP-1-11-12](Lookup/SKIP/SKIP-1/SKIP-1-11-12.md) ([Stroke 23](Lookup/Stroke/Stroke%2023.md))
-- mc_id confirmed absent from all Classical Chinese frequency lists (trusted long-tail value, >4000). Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄏㄧㄇ](syllables/ㄏㄧㄇ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-1-11-12](../lookup/SKIP/SKIP-1/SKIP-1-11-12.md) ([Stroke 23](../lookup/Stroke/Stroke%2023.md))
+- mc_id confirmed absent from all Classical Chinese frequency lists (trusted long-tail value, >4000). Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄏㄧㄇ](../syllables/ㄏㄧㄇ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[words/鱏|鱏]]<rt>ㄏㄧㄇ</rt></ruby> "ray, skate"
+- <ruby>[[鱏]]<rt>ㄏㄧㄇ</rt></ruby> "ray; skate"

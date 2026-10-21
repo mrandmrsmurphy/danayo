@@ -26,20 +26,20 @@ danayo_id: 38
 mc_id: 540
 graphemic_classification: "象形"
 stand_in: "手"
-aliases:
 注音: "ㄙ⼜"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 手.
->For the word, see [手](words/手.md)
+>For the word, see [手](../words/手.md)
 >For the radical, see [Radical 064](../lookup/Radicals/Radical%20064.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): depicts an open hand with the fingers and wrist visible.
 - [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

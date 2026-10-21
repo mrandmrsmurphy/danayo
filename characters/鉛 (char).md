@@ -33,10 +33,10 @@ kwin: true
 tags:
   - character
 boundedness: 35
-date-last-perfect: 2026-09-06
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 鉛.
->For the word, see [鉛](words/鉛.md)
+>For the word, see [鉛](../words/鉛.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +44,9 @@ date-last-perfect: 2026-09-06
 
 ## Notes
 - 形声: semantic [[Radical 167|金]] ("metal") + phonetic 㕣 (no vault page) — names the element lead (Pb, atomic number 82); the word also doubles as this vault's periodic-table abbreviation for the element. 铅 is the standard simplified form.
-- [SKIP-1-8-5](lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 3903rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](syllables/⼶ㄋ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 1](lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 3903rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [⼶ㄋ](../syllables/⼶ㄋ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[鉛]]<rt>⼶ㄋ</rt></ruby> "lead" (stand-in for 鉛 (char))

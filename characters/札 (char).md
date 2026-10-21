@@ -29,16 +29,15 @@ danayo_id: 6059
 mc_id: 2184
 graphemic_classification: "乚"
 stand_in: "札"
-aliases:
 注音: "ㄐㄚㄊ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-08
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 札.
->For the word, see [札](words/札.md)
+>For the word, see [札](../words/札.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,12 @@ date-last-perfect: 2026-08-08
 
 ## Notes
 - 形声 (OC \*sqriːd): semantic [[木 (char)|木]] ("wood") + phonetic 乚 (no vault page) — a thinly shaved wooden tag, by extension a tag or document bearing writing; "letter, note."
-- [SKIP-1-4-1](lookup/SKIP/SKIP-1/SKIP-1-4-1.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 2184th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄐㄚㄊ](syllables/ㄐㄚㄊ.md)
-- [Grade 6](lookup/Grade%206.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅊ](lookup/Korean/Korean%20Name%20ㅊ.md)
+- [SKIP-1-4-1](../lookup/SKIP/SKIP-1/SKIP-1-4-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 2184th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄐㄚㄊ](../syllables/ㄐㄚㄊ.md)
+- [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
 ## Words
 - <ruby>[[札]]<rt>ㄐㄚㄊ</rt></ruby> "letter, note" (stand-in for 札)
+
+## Derived Characters
+- <ruby>[[紮 (char)|紮]]<rt>ㄐㄚㄊ</rt></ruby> "tie; fasten; bind"

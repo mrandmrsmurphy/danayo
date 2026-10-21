@@ -35,20 +35,20 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-08-19
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 穣.
->For the word, see [穣](words/穣.md)
+>For the word, see [穣](../words/穣.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [禾 (char)](characters/禾%20(char).md) ("grain") + phonetic 襄 — "stalks of grain." Shinjitai of traditional 穰.
-- [SKIP-1-5-17](Lookup/SKIP/SKIP-1/SKIP-1-5-17.md) ([Stroke 22](Lookup/Stroke/Stroke%2022.md))
-- 1804th most used character in Classical Chinese (recorded under traditional sibling glyph 穰). Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](syllables/ㄋ⼘ㄫ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md#Redirects), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+- 形声: semantic [[禾 (char)]] ("grain") + phonetic 襄 — "stalks of grain." Shinjitai of traditional 穰.
+- [SKIP-1-5-17](../lookup/SKIP/SKIP-1/SKIP-1-5-17.md) ([Stroke 22](../lookup/Stroke/Stroke%2022.md))
+- 1804th most used character in Classical Chinese (recorded under traditional sibling glyph 穰). Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](../syllables/ㄋ⼘ㄫ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md#Redirects), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[穣]]<rt>ㄋ⼘ㄫ</rt></ruby> "stalks of grain" (stand-in for 穣)

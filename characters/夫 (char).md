@@ -29,16 +29,15 @@ danayo_id: 4315
 mc_id: 34
 graphemic_classification: "象形"
 stand_in: "夫"
-aliases:
 注音: "ㄈㄜ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 夫.
->For the word, see [夫](words/夫.md)
+>For the word, see [夫](../words/夫.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -46,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 象形 (OC \*pa): a variant of [[大]] ("man"), depicting a standing man; the added top stroke is a Han-dynasty Shuowen folk etymology ("hairpin," worn by men at the age-20 capping ceremony) rather than the original graphemic intent — 大 and 夫 were originally interchangeable. Not related to [[父]] (OC \*paʔ/\*baʔ, "father") despite the visual/semantic similarity. Meanings: "man, husband, laborer."
-- [SKIP-4-4-4](lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 34th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄈㄜ](syllables/ㄈㄜ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 34th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄈㄜ](../syllables/ㄈㄜ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[夫]]<rt>ㄈㄜ</rt></ruby> "man; husband; laborer" (stand-in for 夫 (char))

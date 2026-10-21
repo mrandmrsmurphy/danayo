@@ -31,16 +31,15 @@ danayo_id: 5198
 mc_id: 2042
 graphemic_classification: "旁"
 stand_in: "傍"
-aliases:
 注音: "ㄆㄚㄫ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-07
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 傍.
->For the word, see [傍](words/傍.md)
+>For the word, see [傍](../words/傍.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -48,9 +47,9 @@ date-last-perfect: 2026-08-07
 
 ## Notes
 - 形声: semantic [[Radical 009|人]] ("person") + phonetic [[旁]] — "beside, close."
-- [SKIP-1-2-10](lookup/SKIP/SKIP-1/SKIP-1-2-10.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2042nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄆㄚㄫ](syllables/ㄆㄚㄫ.md)
-- [Grade 5](lookup/Grade%205.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-2-10](../lookup/SKIP/SKIP-1/SKIP-1-2-10.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2042nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄆㄚㄫ](../syllables/ㄆㄚㄫ.md)
+- [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[傍]]<rt>ㄆㄚㄫ</rt></ruby> "beside, close" (stand-in for 傍)

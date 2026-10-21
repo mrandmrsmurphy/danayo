@@ -41,27 +41,24 @@ aliases:
   - 靔
   - 𠀑
 注音: ㄊㄝㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 天.
->For the word, see [天](words/天.md)
+>For the word, see [天](../words/天.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
-## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a person (大) with a stroke marking the top — heaven, the sky above.
-- [SKIP-4-4-1](lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 20th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄊㄝㄋ](syllables/ㄊㄝㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- abbreviation for "uranium": <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>
 
-## Derived Characters
-- <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"
-- <ruby>[[忝]]<rt>ㄊㄧㄇ</rt></ruby> "shame"
+## Notes
+- [List of 象形](../lookup/List%20of%20象形.md): a person (大) with a stroke marking the top — heaven, the sky above.
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 20th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄊㄝㄋ](../syllables/ㄊㄝㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+- abbreviation for "uranium": <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby>
 
 ## Chengyu
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"
@@ -115,3 +112,8 @@ boundedness: 80
 - <ruby>[[回天]]<rt>ㄏㄛㄧㄊㄝㄋ</rt></ruby> "to turn the tide"
 - <ruby>[[天津]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "Tianjin; the Milky Way"
 - <ruby>[[天安]]<rt>ㄊㄝㄋ·ㄚㄋ</rt></ruby> "Cheonan"
+- <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby> "uranium"
+
+## Derived Characters
+- <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"
+- <ruby>[[忝]]<rt>ㄊㄧㄇ</rt></ruby> "shame"

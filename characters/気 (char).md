@@ -31,17 +31,18 @@ aliases:
   - 氣
   - 气
 注音: ㄎㄧㄜ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 気.
->For the word, see [気](words/気.md)
+>For the word, see [気](../words/気.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *kʰɯds): semantic [[米]] ("rice") + phonetic [[气]] (OC *kʰɯds) — vapors rising from cooking grain; 気 is the shinjitai-simplified form of 氣, whose own original form 气 was a bare pictograph of rising cloud-vapor.
 - [SKIP-3-4-2](../lookup/SKIP/SKIP-3/SKIP-3-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))

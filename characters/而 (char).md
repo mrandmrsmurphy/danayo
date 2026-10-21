@@ -34,16 +34,15 @@ danayo_id: 4220
 mc_id: 5
 graphemic_classification: 象形
 stand_in: 而
-aliases:
 注音: ㄋㄧ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 而.
->For the word, see [而](words/而.md)
+>For the word, see [而](../words/而.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

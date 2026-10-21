@@ -34,10 +34,10 @@ kwin: false
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-09
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 奥.
->For the word, see [奥](words/奥.md)
+>For the word, see [奥](../words/奥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +45,9 @@ date-last-perfect: 2026-08-09
 
 ## Notes
 - 會意: 匊 ("rice," no character page exists for it in this vault) + 𠬞 ("hands," no character page exists for it in this vault) — hands storing/concealing rice inside a house, "the innermost, hidden corner of a room" (the oldest, architectural sense), extended to "deep, profound, abstruse." (Shuowen's alternate 形聲 analysis is explicitly noted by Wiktionary as not widely accepted.)
-- [SKIP-2-9-3](lookup/SKIP/SKIP-2/SKIP-2-9-3.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2369th most used character in Classical Chinese (recorded in the corpus under its traditional form 奧). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄨㄎ](syllables/ㄨㄎ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-2-9-3](../lookup/SKIP/SKIP-2/SKIP-2-9-3.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2369th most used character in Classical Chinese (recorded in the corpus under its traditional form 奧). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄨㄎ](../syllables/ㄨㄎ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[奥]]<rt>ㄨㄎ</rt></ruby> "deep" (stand-in for 奥)

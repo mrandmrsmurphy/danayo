@@ -32,13 +32,13 @@ aliases:
   - 盐
 注音: ⼶ㄇ
 kwin: true
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 塩.
->For the word, see [塩](words/塩.md)
+>For the word, see [塩](../words/塩.md)
 
 ```meta-bind-embed
 [[nav/char_info]]

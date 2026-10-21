@@ -30,19 +30,20 @@ stand_in: 丈
 aliases:
   - 𠀋
 注音: ㄑㄚㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 丈.
->For the word, see [丈](words/丈.md)
+>For the word, see [丈](../words/丈.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): [[Radical 024|十]] ("ten") + [[Radical 029|又]] ("hand") – ten ceg (尺) is one cang (丈). Similar but unrelated to 支. Also listed under [Radical 001](../lookup/Radicals/Radical%20001.md) for Kangxi-indexing purposes.
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 024|十]] ("ten") + [[Radical 029|又]] ("hand") – ten ceg (尺) is one cang (丈). Similar but unrelated to 支. Also listed under [Radical 001](../lookup/Radicals/Radical%20001.md) for Kangxi-indexing purposes.
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 881st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄑㄚㄫ](../syllables/ㄑㄚㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
@@ -53,6 +54,10 @@ boundedness: 80
 - <ruby>[丈人](/words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"
 - <ruby>[丈母](/words/丈母.md)<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby> "mother-in-law"
 - <ruby>[姑丈](/words/姑丈.md)<rt>ㄍㄛㄑㄚㄫ</rt></ruby> "father's sister's husband"
+- <ruby>[[丈人]]<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law; wife's father"
+- <ruby>[[丈夫]]<rt>ㄑㄚㄫㄈㄜ</rt></ruby> "husband"
+- <ruby>[[丈母]]<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby> "mother-in-law"
+- <ruby>[[姑丈]]<rt>ㄍㄛㄑㄚㄫ</rt></ruby> "aunt's man; father's sister's husband"
 
 ## Chengyu
 - <ruby>[[波乱万丈]]<rt>ㄅㄚㄌㄚㄋㄇㄛㄋㄑㄚㄫ</rt></ruby> "full of dramatic ups and downs; turbulent and eventful"

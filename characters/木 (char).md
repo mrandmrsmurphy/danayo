@@ -29,20 +29,20 @@ danayo_id: 43
 mc_id: 290
 graphemic_classification: 象形
 stand_in: 木
-aliases:
 注音: ㄇㄛㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 tags:
   - character
 kwin: true
 boundedness: 40
 ---
 >[!tip] This is a page about the character 木.
->For the word, see [木](words/木.md)
+>For the word, see [木](../words/木.md)
 >For the radical, see [Radical 075](../lookup/Radicals/Radical%20075.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): a tree: branches on top, roots on the bottom (more visible in earlier forms).
 - [SKIP-4-4-3](../lookup/SKIP/SKIP-4/SKIP-4-4-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))

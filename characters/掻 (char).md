@@ -41,10 +41,10 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 掻.
->For the word, see [掻](words/掻.md)
+>For the word, see [掻](../words/掻.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,9 +52,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*suː): semantic [[Radical 064|手]] ("hand") + phonetic [[蚤]] (OC \*ʔsuːʔ, "flea, louse," a close match) — to scratch; by extension, a pruritic skin disease (archaic).
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 3326th most used character in Classical Chinese (tracked under the traditional form [[搔]]). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](syllables/ㄙㄚㄨ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 3326th most used character in Classical Chinese (tracked under the traditional form [[搔]]). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](../syllables/ㄙㄚㄨ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[掻]]<rt>ㄙㄚㄨ</rt></ruby> "scratch" (stand-in for 掻)

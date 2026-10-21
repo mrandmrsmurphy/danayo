@@ -29,26 +29,25 @@ danayo_id: 2171
 mc_id: 377
 graphemic_classification: 象形
 stand_in: 由
-aliases:
 注音: ⼜ㄛ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 由.
->For the word, see [由](words/由.md)
+>For the word, see [由](../words/由.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a sprout (丨) emerging from a field ([[Radical 102|田]]) — "to grow from; origin."
-- [SKIP-4-5-2](lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 377th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [⼜ㄛ](syllables/⼜ㄛ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a sprout (丨) emerging from a field ([[Radical 102|田]]) — "to grow from; origin."
+- [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 377th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [⼜ㄛ](../syllables/⼜ㄛ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[由]]<rt>⼜ㄛ</rt></ruby> "from; since" (stand-in for 由)

@@ -35,14 +35,14 @@ stand_in: 細
 aliases:
   - 细
 注音: ㄙㄝㄧ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 細.
->For the word, see [細](words/細.md)
+>For the word, see [細](../words/細.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -50,9 +50,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*snɯːls): semantic [[Radical 120|糸]] ("silk, thread") + phonetic 囟 (OC \*snɯns) — the same phonetic component as [[characters/思|思]], where it likewise had been mis-transcribed as `四` in this vault's own stored data before this correction; genuinely unrelated to 田, which it resembles only after Han-dynasty graphic corruption. Fine, thin, slender.
-- [SKIP-1-6-5](lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1235th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](syllables/ㄙㄝㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1235th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](../syllables/ㄙㄝㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[細]]<rt>ㄙㄝㄧ</rt></ruby> "fine; thin; slender" (stand-in for 細)

@@ -45,10 +45,10 @@ tags:
   - character
   - hapax
 boundedness: 50
-date-last-perfect: 2026-08-15
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 屎.
->For the word, see [屎](words/屎.md)
+>For the word, see [屎](../words/屎.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -57,7 +57,7 @@ date-last-perfect: 2026-08-15
 ## Notes
 - 會意 (兼形聲): originally three-to-five dots depicting faeces beneath a kneeling figure [[尸]] ("body, corpse"), which also carries the sound (亦聲) — a person defecating.
 - [SKIP-3-3-6](Lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](Lookup/Stroke/Stroke%2009.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4079`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄏㄜ](syllables/ㄏㄜ.md)
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4079`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄏㄜ](../syllables/ㄏㄜ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](Lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words

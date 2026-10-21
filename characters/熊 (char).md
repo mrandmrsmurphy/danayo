@@ -26,16 +26,15 @@ danayo_id: 8227
 mc_id: 1437
 graphemic_classification: "炎"
 stand_in: "熊"
-aliases:
 注音: "ㄨㄫ"
 kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-08-18
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 熊.
->For the word, see [熊](words/熊.md)
+>For the word, see [熊](../words/熊.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -43,9 +42,9 @@ date-last-perfect: 2026-08-18
 
 ## Notes
 - 形声: semantic [[能]] ("bear," 能's original meaning before being borrowed for "able") + abbreviated phonetic [[炎]] (surfacing as the 灬 "fire" component) — "bear."
-- [SKIP-2-10-14](Lookup/SKIP/SKIP-2/SKIP-2-10-14.md) ([Stroke 14](Lookup/Stroke/Stroke%2014.md))
-- 1437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄨㄫ](syllables/ㄨㄫ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](Lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-2-10-14](../lookup/SKIP/SKIP-2/SKIP-2-10-14.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄨㄫ](../syllables/ㄨㄫ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[熊]]<rt>ㄨㄫ</rt></ruby> "bear"

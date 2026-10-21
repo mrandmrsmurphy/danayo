@@ -27,16 +27,15 @@ danayo_id: 7129
 mc_id: 0
 graphemic_classification: "奄"
 stand_in: "唵"
-aliases:
 注音: "ㄛㄇ"
 kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-08-12
+date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 唵.
->For the word, see [唵](words/唵.md)
+>For the word, see [唵](../words/唵.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,9 +43,9 @@ date-last-perfect: 2026-08-12
 
 ## Notes
 - 形聲 (OC \*qoːmʔ): semantic [[口 (char)|口]] ("mouth") + phonetic [[奄]] (a loose match). The sense used here is a separate, unrelated learned borrowing from Sanskrit ॐ (oṃ) — "Om," the Buddhist/Hindu sacred syllable — not connected to the native Chinese "to hold in the mouth" sense the graph was originally built for; this borrowed sense has no traditional Korean/Japanese native gloss of its own, hence the blank `korean_native`/`japanese_native`.
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking — expected, given this is a Buddhist loan character). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄛㄇ](syllables/ㄛㄇ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Hyōgai](lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking — expected, given this is a Buddhist loan character). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄛㄇ](../syllables/ㄛㄇ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[唵]]<rt>ㄛㄇ</rt></ruby> "Om" (stand-in for 唵)

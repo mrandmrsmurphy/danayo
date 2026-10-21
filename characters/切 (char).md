@@ -34,9 +34,8 @@ danayo_id: 4029
 mc_id: 1183
 graphemic_classification: 七
 stand_in: 切
-aliases:
 注音: ㄑㄝㄊ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
@@ -59,5 +58,7 @@ boundedness: 75
 - <ruby>[[懇切]]<rt>ㄎㄚㄋㄑㄝㄊ</rt></ruby> "sincere, earnest"
 - <ruby>[[締切]]<rt>ㄊㄝㄧㄑㄝㄊ</rt></ruby> "deadline, closing date"
 - <ruby>[[反切]]<rt>ㄈㄛㄋㄑㄝㄊ</rt></ruby> "fanqie"
+- <ruby>[[切]]<rt>ㄑㄝㄊ</rt></ruby> "cut; mince; carve"
+
 ## Chengyu
 - <ruby>[[切磋琢磨]]<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> "iron sharpens iron, friendly competition"

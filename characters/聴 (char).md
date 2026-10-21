@@ -30,14 +30,14 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄫ
-date-last-perfect: 2026-09-05
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 
 ---
 >[!tip] This is a page about the character 聴.
->For the word, see [聴](words/聴.md)
+>For the word, see [聴](../words/聴.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -53,3 +53,6 @@ boundedness:
 - <ruby>[[聴]]<rt>ㄑㄝㄫ</rt></ruby> "listen" (stand-in for 聴)
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"
 - <ruby>[[聴取]]<rt>ㄑㄝㄫㄑㄛㄨ</rt></ruby> "listen to; take in"
+
+## Derived Characters
+- <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby> "hall; room"
