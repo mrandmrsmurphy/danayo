@@ -64,6 +64,8 @@ boundedness: 90
 - <ruby>[[妙手]]<rt>ㄇ⼄ㄨㄙ⼜</rt></ruby> "expert; master"
 - <ruby>[[捕手]]<rt>ㄅㄛㄙ⼜</rt></ruby> "catcher (baseball)"
 - <ruby>[[岩手]]<rt>ㄚㄇㄙ⼜</rt></ruby> "Iwate Prefecture"
+- <ruby>[[援手]]<rt>ㄛㄋㄙ⼜</rt></ruby> "helping hand; assistance"
+
 ## Derived Characters
 - <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby> "lose"
 - <ruby>[[技]]<rt>ㄍㄨㄧ</rt></ruby> "skill"

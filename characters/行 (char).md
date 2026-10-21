@@ -34,26 +34,25 @@ danayo_id: 97
 mc_id: 40
 graphemic_classification: 指事
 stand_in: 行
-aliases:
 注音: ㄏㄚㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 55
 ---
 >[!tip] This is a page about the character 行.
->For the word, see [行](words/行.md)
+>For the word, see [行](../words/行.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): a crossroads — two paths crossing; to walk, to travel.
-- [SKIP-1-3-3](lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 40th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄏㄚㄫ](syllables/ㄏㄚㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): a crossroads — two paths crossing; to walk, to travel.
+- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 40th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄏㄚㄫ](../syllables/ㄏㄚㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[行]]<rt>ㄏㄚㄫ</rt></ruby> "attend; go to" (stand-in for 行)

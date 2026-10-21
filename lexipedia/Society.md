@@ -201,6 +201,7 @@ Society vocabulary names the groups people belong to above the level of the fami
 
 - <ruby>[幇助](../words/幇助.md)<rt>ㄅㄚㄫㄐㄛ</rt></ruby>: to help, assist.
 - <ruby>[援助](../words/援助.md)<rt>ㄛㄋㄐㄛ</rt></ruby>: to aid, assist.
+- <ruby>[援手](../words/援手.md)<rt>ㄛㄋㄙ⼜</rt></ruby>: a helping hand, aid extended to someone in difficulty.
 - <ruby>[佐理](../words/佐理.md)<rt>ㄐㄚㄌㄧ</rt></ruby>: to assist.
 - <ruby>[補助](../words/補助.md)<rt>ㄅㄛㄐㄛ</rt></ruby>: assistance, aid, auxiliary.
 - <ruby>[賛助](../words/賛助.md)<rt>ㄐㄚㄋㄐㄛ</rt></ruby>: to support, sponsor.
