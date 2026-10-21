@@ -35,22 +35,23 @@ stand_in: 近
 aliases:
   - 𫙧
 注音: ㄍㄧㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 近.
->For the word, see [近](words/近.md)
+>For the word, see [近](../words/近.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɡɯnʔ, \*ɡɯns): semantic [[Radical 162|辶]] ("walk") + phonetic [[斤]] (OC \*kɯn, \*kɯns) — to be near something.
-- [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 501st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 欣|ɨn]] → [ㄍㄧㄋ](syllables/ㄍㄧㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-4](../lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 501st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 欣|ɨn]] → [ㄍㄧㄋ](../syllables/ㄍㄧㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[近]]<rt>ㄍㄧㄋ</rt></ruby> "near" (stand-in for 近)

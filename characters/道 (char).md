@@ -33,22 +33,23 @@ mc_id: 57
 graphemic_classification: "会意"
 stand_in: "道"
 注音: "ㄉㄚㄨ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 道.
->For the word, see [道](words/道.md)
+>For the word, see [道](../words/道.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[Radical 162|辵]] ("walk, road") and [[首 (char)|首]] ("head") — the head leading the way; "path, way, doctrine."
-- [SKIP-3-3-9](lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 57th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄉㄚㄨ](syllables/ㄉㄚㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md) (2), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 57th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄉㄚㄨ](../syllables/ㄉㄚㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (2), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[道]]<rt>ㄉㄚㄨ</rt></ruby> "way" (stand-in for 道)
