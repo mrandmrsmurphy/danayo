@@ -33,19 +33,19 @@ danayo_id: 3237
 mc_id: 39
 graphemic_classification: "指事"
 stand_in: "言"
-aliases:
 注音: "ㄝㄋ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This page is about the character.
->For the word, see [言](words/言.md)
+>For the word, see [言](../words/言.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): from [[口]] and ▽ (possibly the original form of 弋, marking location); later forms show 口 with 辛 or 䇂, possibly mixed with 舌. The precise indicated concept is debated, but the character has meant "speech, word, to say" since its earliest attestations.
 - [SKIP-2-1-6](../lookup/SKIP/SKIP-2/SKIP-2-1-6.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))

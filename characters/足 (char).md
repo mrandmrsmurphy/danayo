@@ -28,16 +28,15 @@ danayo_id: 110
 mc_id: 146
 graphemic_classification: 会意
 stand_in: 足
-aliases:
 注音: ㄐㄛㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 足.
->For the word, see [足](words/足.md)
+>For the word, see [足](../words/足.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -45,9 +44,9 @@ boundedness: 70
 
 ## Notes
 - 会意 of 口 (a knee/joint shape) and [[止]] ("stop; foot") — the whole leg, from knee to foot.
-- [SKIP-2-3-4](lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 146th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄐㄛㄎ](syllables/ㄐㄛㄎ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 146th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄐㄛㄎ](../syllables/ㄐㄛㄎ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby> "foot" (stand-in for 足)
