@@ -30,23 +30,24 @@ aliases:
   - 鱼
   - 𤋳
 注音: ⼄
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 35
 ---
 >[!tip] This is a page about the character 魚.
->For the word, see [魚](words/魚.md).
->For the radical, see [Radical 195](lookup/Radicals/Radical%20195.md)
+>For the word, see [魚](../words/魚.md).
+>For the radical, see [Radical 195](../lookup/Radicals/Radical%20195.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a fish (OC \*ŋa). A conservative variant is 𤋳.
-- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 551st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](syllables/⼄.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a fish (OC \*ŋa). A conservative variant is 𤋳.
+- [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 551st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](../syllables/⼄.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[魚]]<rt>⼄</rt></ruby> "fish" (stand-in for 魚)

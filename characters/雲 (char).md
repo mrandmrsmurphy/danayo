@@ -30,28 +30,30 @@ aliases:
   - 云
   - 澐
 注音: ㄨㄋ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 雲.
->For the word, see [雲](words/雲.md)
+>For the word, see [雲](../words/雲.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 云 was the original form of this word, but the weather radical ([雨](Radical%20173)) was added as the meaning "speak" came to be associated with it. We fold 云 into this character. The orthographic substitution carries through compounds too: 云云→雲雲 ("etc.") and its opposite 云爾→雲爾 ("that is all") — neither has an independent vault word page.
-- [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 611th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄨㄋ](syllables/ㄨㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 云 was the original form of this word, but the weather radical ([雨](../lookup/Radicals/Radical%20173.md)) was added as the meaning "speak" came to be associated with it. We fold 云 into this character. The orthographic substitution carries through compounds too: 云云→雲雲 ("etc.") and its opposite 云爾→雲爾 ("that is all") — neither has an independent vault word page.
+- [SKIP-2-8-4](../lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 611th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄨㄋ](../syllables/ㄨㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[雲]]<rt>ㄨㄋ</rt></ruby> "cloud" (stand-in for 雲)
 - <ruby>[[雲呑]]<rt>ㄨㄋㄊㄚㄋ</rt></ruby> "wontons"
 - <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
 - <ruby>[[雲南]]<rt>ㄨㄋㄋㄚㄇ</rt></ruby> "Yunnan; Unnan"
+- <ruby>[[星雲]]<rt>ㄙㄝㄫㄨㄋ</rt></ruby> "nebula"
 
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"

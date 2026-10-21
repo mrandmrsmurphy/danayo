@@ -30,23 +30,24 @@ aliases:
   - 雩
   - 䨒
 注音: ㄨ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 雨.
->For the word, see [雨](words/雨.md)
+>For the word, see [雨](../words/雨.md)
 >For the radical, see [Radical 173](../lookup/Radicals/Radical%20173.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a cloud with drops of rain falling from it. The horizontal stroke at the top was added later. (Compare Egyptian 𓇲.)
-- [SKIP-4-8-1](lookup/SKIP/SKIP-4/SKIP-4-8-1.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 448th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄨ](syllables/ㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a cloud with drops of rain falling from it. The horizontal stroke at the top was added later. (Compare Egyptian 𓇲.)
+- [SKIP-4-8-1](../lookup/SKIP/SKIP-4/SKIP-4-8-1.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 448th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄨ](../syllables/ㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[雨]]<rt>ㄨ</rt></ruby> "rain" (stand-in for 雨)

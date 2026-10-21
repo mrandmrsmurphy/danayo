@@ -31,25 +31,24 @@ stand_in: 黒
 aliases:
   - 黑
 注音: ㄏㄨㄎ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 100
 ---
 >[!tip] This is a page about the character 黒.
->For the word, see [黒](words/黒.md)
+>For the word, see [黒](../words/黒.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): the oracle-bone form depicts a chimney or window with soot rising above a fire, giving the original sense "soot, smoke-black," generalized to "black" overall.
-- [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄏㄨㄎ](syllables/ㄏㄨㄎ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- abbreviation for "hassium": <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby>
+- [List of 象形](../lookup/List%20of%20象形.md): the oracle-bone form depicts a chimney or window with soot rising above a fire, giving the original sense "soot, smoke-black," generalized to "black" overall.
+- [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄏㄨㄎ](../syllables/ㄏㄨㄎ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[黒]]<rt>ㄏㄨㄎ</rt></ruby> "black" (stand-in for 黒)
@@ -60,8 +59,9 @@ boundedness: 100
 - <ruby>[[黒貂]]<rt>ㄏㄨㄎㄑㄛ</rt></ruby> "sable"
 - <ruby>[[黒洞]]<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby> "blackhole"
 - <ruby>[[黒猩]]<rt>ㄏㄨㄎㄙㄝㄫ</rt></ruby> "chimpanzee"
-- <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium"
+- <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium" (黒 alone is the abbreviation for it)
 - <ruby>[[黒龍江]]<rt>ㄏㄨㄎㄌ⼄ㄫㄍㄚㄫ</rt></ruby> "Amur River; Heilongjiang"
 
 ## Derived Characters
 - <ruby>[[黙]]<rt>ㄇㄨㄎ</rt></ruby> "quiet, still, dark"
+- <ruby>[[墨]]<rt>ㄇㄨㄎ</rt></ruby> "ink"

@@ -32,24 +32,24 @@ stand_in: "鳥"
 aliases:
   - 鸟
 注音: "ㄑㄛㄨ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 鳥.
->For the word, see [鳥](words/鳥.md)
+>For the word, see [鳥](../words/鳥.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a bird with a dangling tail.
-- [SKIP-3-7-4](lookup/SKIP/SKIP-3/SKIP-3-7-4.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 581st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄛㄨ](syllables/ㄑㄛㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a bird with a dangling tail.
+- [SKIP-3-7-4](../lookup/SKIP/SKIP-3/SKIP-3-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 581st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 蕭|eu]] → [ㄑㄛㄨ](../syllables/ㄑㄛㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[鳥]]<rt>ㄑㄛㄨ</rt></ruby> "bird" (stand-in for 鳥)

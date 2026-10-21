@@ -35,7 +35,7 @@ stand_in: "食"
 aliases:
   - 蝕
 注音: "ㄙㄧㄎ"
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
@@ -47,11 +47,13 @@ boundedness: 90
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of 亼 ("mouth") and [[皀]] ("a bowl of rice on a stand") — a mouth over a bowl of food: to eat. The bowl has corrupted into the look-alike 良/艮 in the modern form; Shuowen instead reads 亼 as the phonetic component.
 - [SKIP-2-2-7](../lookup/SKIP/SKIP-2/SKIP-2-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 110th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄙㄧㄎ](../syllables/ㄙㄧㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[食]]<rt>ㄙㄧㄎ</rt></ruby> "eat" (stand-in for 食)
 - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby> "food"
@@ -71,6 +73,7 @@ boundedness: 90
 - <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> "solar eclipse"
 - <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby> "lunar eclipse"
 - <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
+
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"

@@ -35,16 +35,15 @@ danayo_id: 157
 mc_id: 183
 graphemic_classification: 東
 stand_in: 重
-aliases:
 注音: ㄑㄛㄫ
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 重.
->For the word, see [重](words/重.md)
+>For the word, see [重](../words/重.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,10 +51,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*doŋʔ, \*doŋs): semantic [[壬]] ("a standing figure bent under a load") + phonetic [[東]] (OC \*toːŋ) — heavy, weighty; by extension, importance and duplication.
-- [SKIP-4-9-2](lookup/SKIP/SKIP-4/SKIP-4-9-2.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 183rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄑㄛㄫ](syllables/ㄑㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- abbreviation for <ruby>[[重素]]<rt>ㄑㄛㄫㄙㄛ</rt></ruby> "barium" in periodic-table formulae — see [[Periodic Table]]
+- [SKIP-4-9-2](../lookup/SKIP/SKIP-4/SKIP-4-9-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 183rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄑㄛㄫ](../syllables/ㄑㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[重]]<rt>ㄑㄛㄫ</rt></ruby> "heavy" (stand-in for 重)
