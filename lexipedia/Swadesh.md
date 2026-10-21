@@ -1,6 +1,6 @@
 ---
 language: English
-date-last-perfect: 2026-09-16
+date-last-perfect: 2026-10-21
 ---
 
 |  #  |     English     | 上古漢語 |  Man.  | Cant.  |        Japan.        |         Kor.         |                 V.                 |                Dan'a'yo                |     |
@@ -13,10 +13,10 @@ date-last-perfect: 2026-09-16
 |  6  |      they       | 之,斯  |   他們   |   佢哋   |        彼等, 彼ら        |                      |                户họ                 | <ruby>[[其人等]]<rt>ㄍㄜ·ㄋㄧㄋㄉㄨㄫ</rt></ruby>  |     |
 |  7  |      this       |  是   |   這    |   呢    |          此れ          |          此는          |               尼 này                |     <ruby>[[此]]<rt>ㄑㄜ</rt></ruby>      |     |
 |  8  |      that       |  彼   |   那    |   嗰    |          其れ          |          其는          |               𪦆 đó                |  <ruby>[[其]]<rt>ㄍㄜ</rt></ruby>  |     |
-|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[彼](../words/彼.md)<rt>ㄅㄧ</rt></ruby>  |     |
+|     |       yon       |      |        |        |                      |          彼는          |                                    |  <ruby>[彼](../words/彼.md)<rt>ㄅㄜ</rt></ruby>  |     |
 |  9  |      here       |      |   這裡   |   呢度   |          此処          |          此處          |               低 đây                |    <ruby>[[此処]]<rt>ㄑㄜㄑㄛ</rt></ruby>    |     |
 | 10  |      there      |      |   那裡   |   嗰度   |          其処          |          其處          |                                    |    <ruby>[[其処]]<rt>ㄍㄜㄑㄛ</rt></ruby>    |     |
-|     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄧㄑㄛ</rt></ruby>    |     |
+|     |     yonder      |      |        |        |          彼処          |          彼處          |                                    |    <ruby>[[彼処]]<rt>ㄅㄜㄑㄛ</rt></ruby>    |     |
 | 11  |       who       |  孰   |   誰    |   邊個   |          誰           |        誰 or 孰        |                唉 ai                | <ruby>[誰](../words/誰.md)<rt>ㄙ⼶ㄧ</rt></ruby> |     |
 | 12  |      what       |  何   |   甚麼   |   乜    |          何           |          啥           |                之 gì                |  <ruby>[何](../words/何.md)<rt>ㄏㄚ</rt></ruby>  |     |
 | 13  |      where      |  何處  |   哪裡   |   邊度   |          何処          |        奚 or 焉        |               兜 đâu                |    <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby>    |     |
