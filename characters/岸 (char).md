@@ -5,7 +5,7 @@ korean: "안"
 korean_native: 언덕
 japanese:
   - GAN
-japanese_native: きし
+japanese_native:
   - きし
 vietnamese:
   - ngàn
@@ -36,23 +36,24 @@ aliases:
   - 厈
   - 垾
 注音: ㄚㄋ
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 岸.
->For the word, see [岸](words/岸.md)
+>For the word, see [岸](../words/岸.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 形声 (OC \*ŋɡaːns, Zhengzhang): semantic 屵 ("cliff," no character page of its own in this vault) + phonetic [[干]] (OC \*kaːn) — the edge of the land, proto-form 屵. Dual-source confirmed (en.Wiktionary).
-- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 2159th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄚㄋ](syllables/ㄚㄋ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- 形声 (OC \*ŋɡaːns, Zhengzhang): semantic 屵 ("cliff," no character page of its own in this vault) + phonetic [[干]] (OC \*kaːn) — the edge of the land, proto-form 屵. Confirmed in en.Wiktionary.
+- [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 2159th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄚㄋ](../syllables/ㄚㄋ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[岸]]<rt>ㄚㄋ</rt></ruby> "bank; shore" (stand-in for 岸)

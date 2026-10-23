@@ -33,7 +33,7 @@ stand_in: 蝎
 aliases:
   - 蠍
 注音: ㄏ⼶ㄊ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -41,13 +41,15 @@ boundedness: 30
 ---
 >[!tip] This is a page about the character 蝎.
 >For the word, see [蝎](../words/蝎.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[曷]] — "scorpion."
 - [SKIP-2-6-9](../lookup/SKIP/SKIP-2/SKIP-2-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
-- Absent from the Classical Chinese usage ranking's verifiable range (`mc_id: 0`). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 月開|ɨɐt]] → [ㄏ⼶ㄊ](../syllables/ㄏ⼶ㄊ.md)
+- Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 月開|ɨɐt]] → [ㄏ⼶ㄊ](../syllables/ㄏ⼶ㄊ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
 
 ## Words

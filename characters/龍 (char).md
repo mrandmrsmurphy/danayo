@@ -6,7 +6,7 @@ korean_native: 룡
 japanese:
   - RYUU
   - ROU
-japanese_native: たつ
+japanese_native:
   - たつ
 vietnamese:
   - long
@@ -42,24 +42,24 @@ aliases:
   - 瓏
   - 壟
 注音: ㄌ⼄ㄫ
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character 龍.
->For the word, see [龍](words/龍.md)
+>For the word, see [龍](../words/龍.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): originally depicting a sacred composite creature — a crested, open-mouthed serpentine head combined with features of the crocodile, fish, and deer visible in oracle-bone and bronze forms. Also stands as [[Radical 212|Kangxi Radical 212]] in its own right. Dan'a'yo keeps the traditional form, rejecting both the Chinese simplification 龙 and the Japanese Shinjitai 竜 — the Shinjitai is only used in Japanese when the character stands alone, with the long form reappearing in Japanese compound words.
-- [SKIP-1-9-7](lookup/SKIP/SKIP-1/SKIP-1-9-7.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 476th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄌ⼄ㄫ](syllables/ㄌ⼄ㄫ.md)
-- [Grade 4](lookup/Grade%204.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): originally depicting a sacred composite creature — a crested, open-mouthed serpentine head combined with features of the crocodile, fish, and deer visible in oracle-bone and bronze forms. Also stands as [[Radical 212|Kangxi Radical 212]] in its own right. Dan'a'yo keeps the traditional form, rejecting both the Chinese simplification 龙 and the Japanese Shinjitai 竜 — the Shinjitai is only used in Japanese when the character stands alone, with the long form reappearing in Japanese compound words.
+- [SKIP-1-9-7](../lookup/SKIP/SKIP-1/SKIP-1-9-7.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 476th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄌ⼄ㄫ](../syllables/ㄌ⼄ㄫ.md)
+- [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[龍]]<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile" (stand-in for 龍)

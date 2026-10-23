@@ -31,23 +31,24 @@ danayo_id: 5
 mc_id: 96
 graphemic_classification: 象形
 stand_in: 入
-aliases:
 注音: ㄋㄧㄆ
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
 boundedness: 70
 ---
 >[!tip] This is a page about the character. For the word, see [[入]]. For the radical, see [[Radical 011]].
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a wedge-shaped mark depicting entry into an opening — a schematic image bordering on 指事 (some Western sources, e.g. Wiktionary, classify it as an ideogram of an arrowhead rather than a picture; this vault follows the wedge/opening reading).
-- [SKIP-4-2-4](lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md))
-- 96th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄋㄧㄆ](syllables/ㄋㄧㄆ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): this character is also Kangxi radical [[Radical 011|入]]. A wedge-shaped mark depicting entry into an opening — a schematic image bordering on 指事 (some Western sources, e.g. Wiktionary, classify it as an ideogram of an arrowhead rather than a picture; this vault follows the wedge/opening reading).
+- [SKIP-4-2-4](../lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
+- 96th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄋㄧㄆ](../syllables/ㄋㄧㄆ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[入]]<rt>ㄋㄧㄆ</rt></ruby> "enter" (stand-in for 入)
@@ -62,7 +63,11 @@ boundedness: 70
 - <ruby>[[嵌入]]<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby> "embed; inlay"
 - <ruby>[[参入]]<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby> "enter, join"
 - <ruby>[[滲入]]<rt>ㄙㄛㄇㄋㄧㄆ</rt></ruby> "seep into"
-
 - <ruby>[[加入]]<rt>ㄍㄚ·ㄋㄧㄆ</rt></ruby> "add in, joining"
+- <ruby>[[収入]]<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby> "income"
+- <ruby>[[引入]]<rt>ㄧㄋㄋㄧㄆ</rt></ruby> "lead into; introduce to"
+- <ruby>[[挿入]]<rt>ㄑㄚㄆㄋㄧㄆ</rt></ruby> "insert; stick into"
+- <ruby>[[注入]]<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby> "pour into; inject"
+
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

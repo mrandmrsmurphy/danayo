@@ -32,7 +32,7 @@ aliases:
   - 蜙
   - 𧌻
 注音: ㄍㄛㄫ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
@@ -40,9 +40,11 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 公.
 >For the word, see [公](../words/公.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: the traditional interpretation, given by Han Feizi, is that 公 is a compound of [[Radical 012|八]] (= 背, "to deviate; opposite") and [[Radical 028|厶]] (original form of 私, "individual; private"), i.e. the opposite of "private" — "public." This theory is supported by Sun Yirang and Qiang Kaiyun, despite the somewhat different shape of the bottom component from 厶.
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
@@ -69,6 +71,7 @@ boundedness: 100
 - <ruby>[[公司]]<rt>ㄍㄛㄫㄙㄚ</rt></ruby> "company, firm"
 - <ruby>[[公館]]<rt>ㄍㄛㄫㄍ⺢ㄋ</rt></ruby> "official residence"
 - <ruby>[[蒲公英]]<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby> "dandelion"
+- <ruby>[[公爵]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby> "duke"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
 
 ## Chengyu

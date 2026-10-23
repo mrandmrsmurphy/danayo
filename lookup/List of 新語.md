@@ -1,7 +1,7 @@
 ---
 tags:
   - lookup
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-10-23
 ---
 #neologism 
 
@@ -13,7 +13,7 @@ date-last-perfect: 2026-09-17
 5. <ruby>[感詞](/words/感詞.md)<rt>ㄍㄚㄇㄙㄚ</rt></ruby> - interjection word
 6. <ruby>[擬詞](/words/擬詞.md)<rt>ㄧㄙㄚ</rt></ruby> - onomatopoeia word
 
-Note: 実詞 (content word) is deliberately *not* listed here — it's a real, pre-existing East Asian grammatical term (实词/じっし/실사/thực từ), not a Dan'a'yo coinage; its `neologism` tag was correctly removed in an earlier pass (see [[words/実詞|実詞]]'s own Notes).
+Note: 実詞 (content word) is deliberately *not* listed here — it is a real, pre-existing East Asian grammatical term (实词/じっし/실사/thực từ), not a Dan'a'yo coinage (see [[words/実詞|実詞]]).
 
 ### Correlative Table
 The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此/毎/皆 × 事/人/処/名/多/時/様/物/類). Cells marked "—" already have a real, independently-attested classical word (e.g. 何事, 何人) and were not coined here.
@@ -40,6 +40,10 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 ## Miscellaneous
 1. <ruby>[週初](/words/週初.md)<rt>ㄐㄨㄛㄑㄛ</rt></ruby> - beginning of the week
 2. <ruby>[臭膣](/words/臭膣.md)<rt>ㄑㄨㄐㄧㄊ</rt></ruby> - bitch (vulgar)
+3. <ruby>[新語](/words/新語.md)<rt>ㄙㄧㄋ·⼄</rt></ruby> - neologism
+4. <ruby>[坊巷](/words/坊巷.md)<rt>ㄈㄚㄫㄏㄚㄫ</rt></ruby> - alley, lane
+5. <ruby>[爾等](/words/爾等.md)<rt>ㄋㄝㄉㄨㄫ</rt></ruby> - ye, you all
+6. <ruby>[汚璃他雲](/words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> - Oort Cloud
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.

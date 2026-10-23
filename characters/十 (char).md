@@ -30,7 +30,7 @@ stand_in: 十
 aliases:
   - 什
 注音: ㄙㄧㄆ
-date-last-perfect: 2026-09-17
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
@@ -38,16 +38,17 @@ boundedness: 75
 ---
 >[!tip] This is a character.
 >For the word, see [[十]].
->For the radical, see [Radical 024](lookup/Radicals/Radical%20024.md)
+>For the radical, see [Radical 024](../lookup/Radicals/Radical%20024.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md) (OC \*ɡjub, Zhengzhang): unlike [[一 (char)|一]], which was one horizontal stroke meaning "one," 十 was originally simply a vertical stroke (a few oracle-bone examples add a central dot); a horizontal stroke was added in later forms, producing a cross. One proposed etymology holds it as a phonetic loan of the graph for 針 (OC \*kim, "needle," now disambiguated from 十); another traces it to a knotted-cord or thread-joining form related to 什 (an alias of this character, see frontmatter). Dual-source confirmed (en.Wiktionary).
-- [SKIP-4-2-3](lookup/SKIP/SKIP-4/SKIP-4-2-3.md) ([Stroke 02](lookup/Stroke/Stroke%2002.md))
-- 16th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](syllables/ㄙㄧㄆ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
-- For anti-forgery purposes on financial documents, [[拾]] is used in place of 十.
+- [List of 指事](../lookup/List%20of%20指事.md) (OC \*ɡjub, Zhengzhang): this character is also Kangxi radical [[Radical 024|十]]. Unlike [[Radical 001|一]], which was one horizontal stroke meaning "one," 十 was originally simply a vertical stroke (a few oracle-bone examples add a central dot); a horizontal stroke was added in later forms, producing a cross. One proposed etymology holds it as a phonetic loan of the graph for 針 (OC \*kim, "needle," now disambiguated from 十); another traces it to a knotted-cord or thread-joining form related to 什 (an alias of this character, see frontmatter). Confirmed in en.Wiktionary. For anti-forgery purposes on financial documents, [[拾]] is used in place of 十.
+- [SKIP-4-2-3](../lookup/SKIP/SKIP-4/SKIP-4-2-3.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
+- 16th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](../syllables/ㄙㄧㄆ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[十]]<rt>ㄙㄧㄆ</rt></ruby> "ten" (stand-in for 十)
@@ -74,6 +75,16 @@ boundedness: 75
 - <ruby>[[十月]]<rt>ㄙㄧㄆ⼔ㄊ</rt></ruby> "October"
 - <ruby>[[十一月]]<rt>ㄙㄧㄆ·ㄧㄊ⼔ㄊ</rt></ruby> "November"
 - <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ⼔ㄊ</rt></ruby> "December"
+- <ruby>[[十日]]<rt>ㄙㄧㄆㄋㄧㄊ</rt></ruby> "tenth day of the month"
+- <ruby>[[十一日]]<rt>ㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "eleventh day of the month"
+- <ruby>[[十二日]]<rt>ㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twelfth day of the month"
+- <ruby>[[十三日]]<rt>ㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "thirteenth day of the month"
+- <ruby>[[十四日]]<rt>ㄙㄧㄆㄙㄧㄜㄋㄧㄊ</rt></ruby> "fourteenth day of the month"
+- <ruby>[[十五日]]<rt>ㄙㄧㄆ·ㄛ·ㄋㄧㄊ</rt></ruby> "fifteenth day of the month"
+- <ruby>[[十六日]]<rt>ㄙㄧㄆㄌㄨㄎㄋㄧㄊ</rt></ruby> "sixteenth day of the month"
+- <ruby>[[十七日]]<rt>ㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "seventeenth day of the month"
+- <ruby>[[十八日]]<rt>ㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "eighteenth day of the month"
+- <ruby>[[十九日]]<rt>ㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "nineteenth day of the month"
 - <ruby>[[二十一日]]<rt>ㄋㄧㄜㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "twenty-first day of the month"
 - <ruby>[[二十二日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄜㄋㄧㄊ</rt></ruby> "twenty-second day of the month"
 - <ruby>[[二十三日]]<rt>ㄋㄧㄜㄙㄧㄆㄙㄚㄇㄋㄧㄊ</rt></ruby> "twenty-third day of the month"
@@ -84,9 +95,15 @@ boundedness: 75
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
 - <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
+- <ruby>[[三十日]]<rt>ㄙㄚㄇㄙㄧㄆㄋㄧㄊ</rt></ruby> "thirtieth day of the month"
+- <ruby>[[三十一日]]<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "thirty-first day of the month"
 
 ## Chengyu
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"
+
+## Derived Characters
+- <ruby>[[汁 (char)|汁]]<rt>ㄐㄜㄆ</rt></ruby> "soup; juice" (形声, phonetic 十)
+- <ruby>[[針 (char)|針]]<rt>ㄐㄧㄇ</rt></ruby> "needle; pin" (形声, phonetic 十)
 
 ![[nav/Numerals]]

@@ -7,6 +7,7 @@ japanese:
   - SHI
 japanese_native: よわい
 vietnamese:
+  - xỉ
 middle_chinese_initial: t͡ɕʰ
 middle_chinese_final: ɨ
 stroke_count: 12

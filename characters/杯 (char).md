@@ -32,7 +32,7 @@ aliases:
   - 盃
   - 桮
 注音: ㄅㄛㄧ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -40,9 +40,11 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 杯.
 >For the word, see [杯](../words/杯.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *plɯː): semantic [[Radical 075|木]] ("wood") + phonetic [[不 (char)|不]] (OC *pɯ, *pɯʔ, *pɯ') — a wooden drinking vessel, "cup." According to a variant analysis, the phonetic component is instead 否, which also had the ancient meaning "to block," perhaps referring to liquid held in a glass.
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))

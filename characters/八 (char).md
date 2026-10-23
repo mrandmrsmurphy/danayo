@@ -34,9 +34,8 @@ danayo_id: 9
 mc_id: 142
 graphemic_classification: 指事
 stand_in: 八
-aliases:
 注音: ㄅㄚㄊ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -45,11 +44,13 @@ boundedness: 65
 >[!tip] This is a page about the character 八.
 >For the word, see [八](../words/八.md)
 >For the radical, see [Radical 012](../lookup/Radicals/Radical%20012.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- [List of 指事](../lookup/List%20of%20指事.md): two bent lines indicating the original meaning of "to divide". This character is later borrowed to mean "eight" because of homonymy, making the original meaning obsolete (now represented by 分 and 別). Unrelated to the bottom part of 兵, 共, 具, and 興, in which it represents two hands holding an object. Also unrelated to 只 and 兑 in which it represents air coming out of a mouth. Unrelated to 貝. Eventually, unrelated to the bottom part of 其, 真, and 典, in which it represents the legs of a table.
+- [List of 指事](../lookup/List%20of%20指事.md): this character is also Kangxi radical [[Radical 012|八]]. Two bent lines indicating the original meaning of "to divide". This character is later borrowed to mean "eight" because of homonymy, making the original meaning obsolete (now represented by 分 and 別). Unrelated to the bottom part of 兵, 共, 具, and 興, in which it represents two hands holding an object. Also unrelated to 只 and 兑 in which it represents air coming out of a mouth. Unrelated to 貝. Eventually, unrelated to the bottom part of 其, 真, and 典, in which it represents the legs of a table.
 - [SKIP-1-1-1](../lookup/SKIP/SKIP-1/SKIP-1-1-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 142nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄅㄚㄊ](../syllables/ㄅㄚㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
@@ -69,6 +70,8 @@ boundedness: 65
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
 - <ruby>[[臘八粥]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby> "Laba congee"
 - <ruby>[[八紘]]<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby> "eight cords"
+- <ruby>[[十八]]<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby> "eighteen"
+- <ruby>[[十八日]]<rt>ㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "eighteenth day of the month"
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
 
 ## Chengyu

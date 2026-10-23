@@ -32,7 +32,7 @@ stand_in: 晩
 aliases:
   - 晚
 注音: ㄇㄛㄋ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -40,9 +40,11 @@ boundedness:
 ---
 >[!tip] This is a page about the character 晩.
 >For the word, see [晩](../words/晩.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *monʔ): semantic [[Radical 072|日]] ("sun") + phonetic [[免]] (OC *mronʔ) — "evening, late."
 - [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))

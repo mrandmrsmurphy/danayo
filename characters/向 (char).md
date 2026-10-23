@@ -37,7 +37,7 @@ aliases:
   - 曏
   - 嚮
 注音: ㄏ⼘ㄫ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
@@ -45,9 +45,11 @@ boundedness: 100
 ---
 >[!tip] This is a page about the character 向.
 >For the word, see [向](../words/向.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[Radical 040|宀]] ("house") and [[Radical 030|口]] ("mouth") — echoes in a place; the original form of 響 (OC *qʰaŋʔ), later borrowed to represent 嚮 (this page's own alias). The mouth here does not represent an opening as in [[高 (char)|高]] and [[谷 (char)|谷]]; compare 冋.
 - [SKIP-3-3-3](../lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))

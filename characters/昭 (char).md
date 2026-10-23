@@ -28,7 +28,7 @@ danayo_id: 6322
 mc_id: 393
 graphemic_classification: 召
 stand_in: 昭
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 注音: ㄐㄛㄨ
 kwin: false
 tags:
@@ -37,9 +37,11 @@ boundedness: 80
 ---
 >[!tip] This is a page about the character 昭.
 >For the word, see [昭](../words/昭.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *tjew): semantic [[Radical 072|日]] ("sun") + phonetic [[召]] (OC *dews, *djews) — light associated with brightness, "shine, bright."
 - [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
@@ -47,6 +49,7 @@ boundedness: 80
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
+- <ruby>[[昭]]<rt>ㄐㄛㄨ</rt></ruby> "shine; luminous" (stand-in for 昭)
 - <ruby>[[昭明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "shining and bright; luminous"
 - <ruby>[昭和](../words/昭和.md)<rt>ㄐㄛㄨㄏ⺢</rt></ruby> "Shōwa"
 

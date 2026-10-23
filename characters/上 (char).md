@@ -31,7 +31,7 @@ stand_in: 上
 aliases:
   - 丄
 注音: ㄙ⼘ㄫ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -39,9 +39,11 @@ boundedness: 70
 ---
 >[!tip] This is a page about the character 上.
 >For the word, see [上](../words/上.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - [List of 指事](../lookup/List%20of%20指事.md): a short stroke placed above a horizontal line ([[Radical 001|一]]) marks the concept of "above"; original form 丄 (this page's own alias).
 - [SKIP-4-3-2](../lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
@@ -62,6 +64,8 @@ boundedness: 70
 - <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> "offer as tribute; present"
 - <ruby>[[上位]]<rt>ㄙ⼘ㄫ⼔ㄧ</rt></ruby> "upper rank"
 - <ruby>[[以上]]<rt>ㄧㄙ⼘ㄫ</rt></ruby> "above; more than; and up; the above"
+- <ruby>[[海上]]<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby> "maritime; on the sea"
+- <ruby>[[長上]]<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby> "elders and superiors"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
 
 ## Chengyu

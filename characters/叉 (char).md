@@ -37,7 +37,7 @@ aliases:
   - 扠
   - 紁
 注音: ㄑㄚㄧ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: false
 tags:
   - character
@@ -45,9 +45,11 @@ boundedness: 85
 ---
 >[!tip] This is a page about the character 叉.
 >For the word, see [叉](../words/叉.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: [[Radical 029|又]] ("right hand") + [[Radical 003|丶]] ("dot") — the real radical is 又; the visual 丶 component is reciprocated on Radical 003's own page.
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))

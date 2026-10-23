@@ -32,18 +32,20 @@ aliases:
   - 﨤
 注音: ㄍㄨㄆ
 kwin: false
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 及.
 >For the word, see [及](../words/及.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- 会意: [[人 (char)|人]] ("person") + [[Radical 029|又]] ("hand") — a hand grabbing a person; 又 is the real radical, not 人.
+- 会意: [[Radical 009|人]] ("person") + [[Radical 029|又]] ("hand") — a hand grabbing a person; 又 is the real radical, not 人.
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 90th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 緝B三|ɣiɪp]] → [ㄍㄨㄆ](../syllables/ㄍㄨㄆ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

@@ -33,7 +33,7 @@ stand_in: 分
 aliases:
   - 份
 注音: ㄅㄨㄋ
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-23
 kwin: true
 tags:
   - character
@@ -41,9 +41,11 @@ boundedness: 95
 ---
 >[!tip] This is a page about the character 分.
 >For the word, see [分](../words/分.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意: [[Radical 012|八]] ("to separate") + [[Radical 018|刀]] ("knife") — to separate with a knife.
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
@@ -73,6 +75,12 @@ boundedness: 95
 - <ruby>[[積分]]<rt>ㄐㄝㄎㄅㄨㄋ</rt></ruby> "integrate; integration"
 - <ruby>[[微分]]<rt>ㄇㄨㄧㄅㄨㄋ</rt></ruby> "differentiate; differentiation"
 - <ruby>[[大分]]<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby> "Oita Prefecture"
+- <ruby>[[春分]]<rt>ㄑㄨㄋㄅㄨㄋ</rt></ruby> "spring equinox"
+- <ruby>[[秋分]]<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby> "autumn equinox"
+- <ruby>[[等分]]<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby> "divide into equal parts"
+- <ruby>[[自分]]<rt>ㄐㄧㄜㄅㄨㄋ</rt></ruby> "self-examine"
+- <ruby>[[大部分]]<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby> "majority"
+- <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby> "quarter"
 
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"
