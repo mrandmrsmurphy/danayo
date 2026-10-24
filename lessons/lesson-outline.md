@@ -591,3 +591,9 @@ This curriculum guides learners from **sound → characters → basic sentences 
 5. **Real discourse**: By Lesson 17, learner can read/write connected text, not isolated sentences.
 6. **Three modes of practice**: Recognition (reading), production (writing), and analysis (grammar exercises).
 
+
+---
+
+## PLANNED: The Reader
+
+The reader will be part of the lessons, not a separate book. Once the lessons are complete, it will serve as a roadmap for advanced learners to navigate the [`translation/`](../translation) folder (Analects, Zhuangzi, Dao De Jing, Art of War, Shijing, modern essays, etc.), ordering the texts by difficulty. Not yet started.

@@ -57,6 +57,9 @@ The following are not content pages, but "programming"
 
 ## Content
 
+- **[characters/](characters)** — individual Han characters only (none are words). A character that can also stand alone as a word is named `X (char).md`, because `X.md` is reserved for the word.
+- **[words/](words)** — the vocabulary: every word, including single-character words.
+- **[chengyu/](chengyu)** — idioms; **[syllables/](syllables)** — the Bopomofo phonetic inventory.
 - [Lexipedia](lexipedia/Lexipedia.md) — domain-organized vocabulary (Animals, Body, Government, Measurement, etc.)
 
 ## Bases

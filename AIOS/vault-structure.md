@@ -20,7 +20,7 @@ Note: `.obsidian/` is gitignored, so plugin configs are not tracked in the repo.
 
 Content is organized into four atomic entry types, all linked:
 
-- **`characters/`** — one file per character (e.g. `一 (char).md`), with cross-linguistic pronunciation, stroke/radical/SKIP metadata, grade levels across HSK/Jōyō/Korean edu systems, and danayo_id
+- **`characters/`** — one file per character, and only characters — none of these files is a word (e.g. `一 (char).md`, whose word counterpart is `words/一.md`), with cross-linguistic pronunciation, stroke/radical/SKIP metadata, grade levels across HSK/Jōyō/Korean edu systems, and danayo_id
 - **`words/`** — multi-character compound words; frontmatter lists `characters:` (constituent parts), pronunciation across all five languages, `pos:`, and `注音:` (Bopomofo)
 - **`chengyu/`** — idiomatic set phrases with similar structure to words
 - **`syllables/`** — individual phonetic units represented in Bopomofo
@@ -35,7 +35,7 @@ Supporting content:
 
 A character file is named either `X.md` or `X (char).md`. The distinction is intentional and determines how the character is linked:
 
-- **`X (char).md`** — the character is also a stand-alone Dan'a'yo word, so `words/X.md` exists. The `(char)` suffix prevents the character file from colliding with the word file of the same name. Link as `[[X (char)]]` or `[X (char)](../characters/X%20(char).md)`.
+- **`X (char).md`** — the character can also function as a stand-alone Dan'a'yo word, so `words/X.md` exists (`X.md` is reserved for the word file). The file in `characters/` is still the character, never the word. The `(char)` suffix prevents the character file from colliding with the word file of the same name. Link as `[[X (char)]]` or `[X (char)](../characters/X%20(char).md)`.
 - **`X.md`** — the character is bound-only; it does not appear as a stand-alone word. Link as `[[X]]` or `[X](../characters/X.md)`.
   - A bound character that is a **fully productive affix** also stays `X.md`: its affix word is `words/－X.md` (suffix) or `words/X－.md` (prefix), using the fullwidth hyphen U+FF0D, so there is no collision and no `(char)` suffix is needed. A **semi-productive** affix has no affix word, only a note on the character page. See [[AIOS/memory/feedback_affix_naming_and_productivity.md]].
 
@@ -94,3 +94,24 @@ The `.base` files are Obsidian Bases databases for querying entries:
 - `words/Words Base.base`
 - `chengyu/All Chengyu Base.base`
 - `Last Perfect.base` — tracks `date-last-perfect` for spaced repetition review
+
+## Current state (as of 2026-10-24)
+
+Counts drift; recompute with `git ls-files <folder> | grep -c '\.md$'` (use `git ls-files`, not `find`, because the vault is iCloud-synced and a plain walk can hang).
+
+| Folder | `.md` files | Notes |
+|---|---|---|
+| `characters/` | ~3,370 | Characters only, no words. ~1,030 are `X (char).md` (have a same-name word). |
+| `words/` | ~6,530 | All vocabulary. Includes the affix words `－X.md` / `X－.md`. |
+| `chengyu/` | 241 | 238 idiom pages + 3 grouping pages (`Misc.`, `Dan'a'yo`, `Biblical Chengyu`). |
+| `syllables/` | 902 | 901 syllable pages + `Syllables.md`. |
+
+**Perfection status:** every file in all four folders carries `date-last-perfect` (no unperfected backlog). Chengyu citations were verified against their named sources in a 2026-10 sweep; roughly half of the earlier citations had been wrong and were fixed.
+
+**Grammar** (`grammar/`): 単亜語之文法書 chapters 01–05 have English mirrors (`.en.md`); 06 語用 (pragmatics) is a short skeleton (~3 KB vs ~18 KB for chapters 04/05) and has no English mirror. 91–99 are appendices (source-language booklets, parts of speech, forbidden characters, 韻図).
+
+**Lessons** (`lessons/`): `lesson-outline.md` plans 20 lessons; only Lesson 01–03 are written. Reference use of the vault is well covered; learner-facing material is the open frontier. The planned reader will be part of the lessons: once they're complete, it becomes a roadmap for advanced learners through `translation/` (not started) (see `AIOS/memory/analysis_documentation_sufficiency_2026_09_13.md`: ~85% sufficient for scholars, ~40% for learners).
+
+**Other content:** `lexipedia/` (64 files, incl. the `Swadesh.md` comparative table: Old Chinese, Mandarin, Cantonese, Japanese, Korean, Vietnamese, Dan'a'yo); `translation/` (Analects, Zhuangzi, Dao De Jing, Art of War, Shijing, etc.; many fragmentary); `bible/` (partial); `lookup/` (CC initials/finals, Radicals, SKIP, Stroke, HSK, Japanese, Korean, Grade pages, and `List of …` pages).
+
+**Tooling** (`AIOS/scripts/`): 7 report-only linters (`lint_cc`, `lint_chengyu`, `lint_chengyu_groups`, `lint_radicals`, `lint_skip`, `lint_stroke`, `lint_syllables`) plus `build_grade.py`, which rebuilds `lookup/Grade N.md`. There is no linter for `characters/` or `words/` pages; those are judged against `AIOS/checklists/`.
