@@ -33,7 +33,7 @@ date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 60
 ---
 >[!tip] This is a page about the character 徳.
 >For the word, see [徳](../words/徳.md)

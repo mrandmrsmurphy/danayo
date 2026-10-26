@@ -36,7 +36,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 60
 ---
 >[!tip] This is a page about the character 挙.
 >For the word, see [挙](../words/挙.md)

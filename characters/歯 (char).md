@@ -35,7 +35,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness: 40
 ---
 >[!tip] This is a page about the character 歯.
 >For the word, see [歯](../words/歯.md)

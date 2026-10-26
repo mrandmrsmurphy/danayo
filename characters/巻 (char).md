@@ -39,6 +39,7 @@ date-last-perfect: 2026-10-14
 kwin: true
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 巻.
 >For the word, see [巻](../words/巻.md)

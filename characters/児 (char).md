@@ -36,7 +36,7 @@ date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 60
 ---
 >[!tip] This is a page about the character 児.
 >For the word, see [児](../words/児.md)

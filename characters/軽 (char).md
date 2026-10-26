@@ -40,7 +40,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 40
 ---
 >[!tip] This is a page about the character 軽.
 >For the word, see [軽](../words/軽.md)

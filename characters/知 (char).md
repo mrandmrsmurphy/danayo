@@ -31,6 +31,8 @@ graphemic_classification: 会意
 stand_in: 知
 aliases:
   - 𥎵
+  - 𣉻
+  - 𥏼
 注音: ㄐㄨㄧ
 date-last-perfect: 2026-10-13
 kwin: false

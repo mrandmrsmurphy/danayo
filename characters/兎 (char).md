@@ -35,6 +35,7 @@ kwin: true
 date-last-perfect: 2026-10-12
 tags:
   - character
+boundedness: 45
 ---
 >[!tip] This is a page about the character 兎.
 >For the word, see [兎](words/兎.md)

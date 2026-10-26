@@ -35,7 +35,7 @@ date-last-perfect: 2026-10-20
 kwin: false
 tags:
   - character
-boundedness:
+boundedness: 45
 ---
 >[!tip] This is a page about the character 遅.
 >For the word, see [遅](../words/遅.md)

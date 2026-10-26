@@ -37,6 +37,7 @@ date-last-perfect: 2026-10-15
 tags:
   - character
 kwin: true
+boundedness: 70
 ---
 >[!tip] This is a page about the character 曽.
 >For the word, see [曽](../words/曽.md)

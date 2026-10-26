@@ -34,7 +34,7 @@ aliases:
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness: 80
 date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 䋇.

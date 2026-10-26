@@ -36,7 +36,7 @@ tags:
   - adverbial
   - correlative
   - character
-boundedness: 
+boundedness: 50
 ---
 >[!tip] This is a page about the character 毎.
 >For the word, see [毎](../words/毎.md)

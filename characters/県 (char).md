@@ -41,6 +41,7 @@ kwin: false
 tags:
   - character
 date-last-perfect: 2026-10-15
+boundedness: 45
 ---
 >[!tip] This is a page about the character 県.
 >For the word, see [県](../words/県.md)

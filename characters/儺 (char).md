@@ -35,6 +35,7 @@ date-last-perfect: 2026-09-25
 kwin: false
 tags:
   - character
+boundedness: 85
 ---
 >[!tip] This is a page about the character 儺.
 >For the word, see [儺](words/儺.md)

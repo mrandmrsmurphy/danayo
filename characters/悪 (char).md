@@ -36,7 +36,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness: 40
 ---
 >[!tip] This is a page about the character 悪.
 >For the word, see [悪](../words/悪.md)

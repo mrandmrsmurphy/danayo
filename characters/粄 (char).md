@@ -31,6 +31,7 @@ date-last-perfect: 2026-09-25
 kwin: false
 tags:
   - character
+boundedness: 90
 ---
 >[!tip] This is a page about the character 粄.
 >For the word, see [粄](words/粄.md)

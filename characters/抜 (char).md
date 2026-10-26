@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
   - hapax
-boundedness: 
+boundedness: 50
 date-last-perfect: 2026-10-09
 ---
 >[!tip] This is a page about the character 抜.

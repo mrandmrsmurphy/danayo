@@ -36,7 +36,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 55
 date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 袴.

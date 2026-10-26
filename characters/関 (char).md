@@ -36,7 +36,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 60
 ---
 >[!tip] This is a page about the character 関.
 >For the word, see [関](../words/関.md)

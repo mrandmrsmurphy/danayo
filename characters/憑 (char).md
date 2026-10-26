@@ -36,6 +36,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
+boundedness: 70
 ---
 >[!tip] This is a page about the character 憑.
 >For the word, see [憑](../words/憑.md)

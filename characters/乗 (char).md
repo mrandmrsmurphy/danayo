@@ -37,7 +37,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 50
 ---
 >[!tip] This is a page about the character 乗.
 >For the word, see [乗](../words/乗.md)

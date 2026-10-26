@@ -35,7 +35,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
-boundedness:
+boundedness: 60
 ---
 >[!tip] This is a page about the character 雑.
 >For the word, see [雑](../words/雑.md)

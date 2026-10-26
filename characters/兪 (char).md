@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 75
 date-last-perfect: 2026-10-20
 ---
 ```meta-bind-embed

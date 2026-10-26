@@ -34,7 +34,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness: 60
 ---
 >[!tip] This is a page about the character 聴.
 >For the word, see [聴](../words/聴.md)

@@ -33,7 +33,7 @@ aliases:
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 55
 date-last-perfect: 2026-09-29
 ---
 >[!tip] This is a page about the character 懐.

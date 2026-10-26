@@ -40,6 +40,7 @@ kwin: true
 tags:
   - character
 date-last-perfect: 2026-10-15
+boundedness: 60
 ---
 >[!tip] This is a page about the character 済.
 >For the word, see [済](../words/済.md)

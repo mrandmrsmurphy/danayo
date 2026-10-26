@@ -37,6 +37,7 @@ date-last-perfect: 2026-10-15
 kwin: true
 tags:
   - character
+boundedness: 60
 ---
 >[!tip] This is a page about the character 様.
 >For the word, see [様](../words/様.md)

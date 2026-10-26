@@ -39,6 +39,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
+boundedness: 55
 ---
 >[!tip] This is a page about the character 応.
 >For the word, see [応](../words/応.md)

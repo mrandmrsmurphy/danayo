@@ -33,6 +33,7 @@ date-last-perfect: 2026-10-15
 kwin: false
 tags:
   - character
+boundedness: 60
 ---
 >[!tip] This is a page about the character 譲.
 >For the word, see [譲](../words/譲.md)

@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-13
 kwin: false
 tags:
   - character
-boundedness:
+boundedness: 60
 ---
 >[!tip] This is a page about the character 発.
 >For the word, see [発](../words/発.md)

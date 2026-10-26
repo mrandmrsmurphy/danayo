@@ -40,7 +40,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness:
+boundedness: 60
 ---
 >[!tip] This is a page about the character 厳.
 >For the word, see [厳](words/厳.md)

@@ -37,7 +37,7 @@ date-last-perfect: 2026-10-20
 kwin: true
 tags:
   - character
-boundedness: 
+boundedness: 50
 ---
 >[!tip] This is a page about the character 広.
 >For the word, see [広](../words/広.md)

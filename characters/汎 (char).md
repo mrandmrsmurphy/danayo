@@ -34,7 +34,7 @@ stand_in: "汎"
 kwin: false
 tags:
   - character
-boundedness: 
+boundedness: 80
 date-last-perfect: 2026-10-20
 ---
 >[!tip] This is a page about the character 汎.

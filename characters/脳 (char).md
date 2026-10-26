@@ -38,6 +38,7 @@ kwin: false
 tags:
   - character
 date-last-perfect: 2026-10-15
+boundedness: 45
 ---
 >[!tip] This is a page about the character 脳.
 >For the word, see [脳](../words/脳.md)

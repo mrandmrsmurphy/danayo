@@ -39,6 +39,7 @@ kwin: false
 date-last-perfect: 2026-10-15
 tags:
   - character
+boundedness: 45
 ---
 >[!tip] This is a page about the character 帯.
 >For the word, see [帯](../words/帯.md)
