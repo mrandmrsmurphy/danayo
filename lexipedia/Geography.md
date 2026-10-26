@@ -14,6 +14,8 @@ This page gathers the vocabulary of the world's geography: how the earth is divi
 
 ## <ruby>[世界](../words/世界.md)<rt>ㄙㄝㄍ⼶</rt></ruby>: the world's divisions
 
+- <ruby>[全球](../words/全球.md)<rt>ㄐ⼔ㄋㄍ⼜</rt></ruby>: global; the whole world taken as a unit.
+
 ### <ruby>[大陸](../words/大陸.md)<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>[大洋](../words/大洋.md)<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby>
 In the modern system, the earth is divided into <ruby>[大陸](../words/大陸.md)<rt>ㄉㄚㄧㄌㄨㄎ</rt></ruby> and <ruby>[大洋](../words/大洋.md)<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby>. The commonly recognized seven continents are:
 - <ruby>[亜洲](../words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby>: Asia
