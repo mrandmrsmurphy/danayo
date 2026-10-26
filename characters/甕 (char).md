@@ -35,23 +35,25 @@ danayo_id: 8815
 mc_id: 3266
 graphemic_classification: 雍
 stand_in: 甕
-aliases:
 注音: ㄛㄫ
 kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-09-23
+date-last-perfect: 2026-10-26
 ---
+>[!tip] This is a page about the character 甕.
+>For the word, see [甕](../words/甕.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
 - 形声: semantic [[Radical 098|瓦]] ("earthenware") + phonetic [[雍]] (yōng) — a large earthenware jar, urn. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
-- [SKIP-2-2-16](Lookup/SKIP/SKIP-2/SKIP-2-2-16.md) ([Stroke 18](Lookup/Stroke/Stroke%2018.md))
-- 3266th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄛㄫ](syllables/ㄛㄫ.md)
-- [Grade Name](Lookup/Grade%20Name.md), [HSK No](Lookup/HSK/HSK%20No.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](Lookup/Korean/Korean%20Name%20ㅇ.md)
+- [SKIP-2-2-16](../lookup/SKIP/SKIP-2/SKIP-2-2-16.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
+- 3266th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄛㄫ](../syllables/ㄛㄫ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Words
 - <ruby>[[甕]]<rt>ㄛㄫ</rt></ruby> "jar; jug; vat" (stand-in for 甕)
