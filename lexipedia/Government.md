@@ -149,6 +149,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 ### Command, Authority & Obedience
 
 - <ruby>[主導](../words/主導.md)<rt>ㄐㄨㄉㄚㄨ</rt></ruby>: to lead.
+- <ruby>[指揮](../words/指揮.md)<rt>ㄐㄧㄜㄏㄨㄧ</rt></ruby>: to command; to conduct (an orchestra).
 - <ruby>[主席](../words/主席.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby>: a chairman, chairperson.
 - <ruby>[副](../words/副.md)<rt>ㄈㄨㄎ</rt></ruby>: vice-, deputy, secondary (副主席, "vice chairman"; 副業, "side job").
 - <ruby>[主従](../words/主従.md)<rt>ㄐㄨㄐㄛㄫ</rt></ruby>: master and servant, lord and retainer.
