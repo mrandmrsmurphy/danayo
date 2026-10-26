@@ -8,7 +8,6 @@ japanese:
   - SEKI
 japanese_native:
   - さし
-  - ものさし
 vietnamese:
   - xích
 middle_chinese_initial: t͡ɕʰ
@@ -32,14 +31,14 @@ stand_in: 尺
 aliases:
   - 睪
 注音: ㄑㄝㄎ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: true
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 尺.
->For the word, see [尺](words/尺.md)
+>For the word, see [尺](../words/尺.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -48,14 +47,18 @@ boundedness: 90
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 531st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 3](../lookup/Grade%203.md)
-- Descendants: 
-	- [択](characters/択.md)
-	- [䋇](characters/䋇%20(char).md)
-	- [鈬](characters/鈬%20(char).md)
-	- [[訳]]
-	- [[沢]]
+
 ## Words
 - <ruby>[[尺]]<rt>ㄑㄝㄎ</rt></ruby> "foot (distance)" (stand-in for 尺)
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎㄏ⺢ㄎ</rt></ruby> "inchworm"
 - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
 - <ruby>[[尺度]]<rt>ㄑㄝㄎㄉㄛ</rt></ruby> "measure; yardstick; criterion"
+
+## Derived Characters
+- <ruby>[[択]]<rt>ㄉㄚㄎ</rt></ruby> "choose; select"
+- <ruby>[[䋇 (char)|䋇]]<rt>⼶ㄎ</rt></ruby> "unravel; explain"
+- <ruby>[[鈬 (char)|鈬]]<rt>ㄉㄚㄎ</rt></ruby> "bronze bell"
+- <ruby>[[訳]]<rt>⼶ㄎ</rt></ruby> "translate; decode"
+- <ruby>[[沢]]<rt>ㄉㄚㄎ</rt></ruby> "stream; swamp"
+- <ruby>[[釈]]<rt>ㄙㄝㄎ</rt></ruby> "explain; interpret"
+- <ruby>[[駅 (char)|駅]]<rt>⼶ㄎ</rt></ruby> "station"

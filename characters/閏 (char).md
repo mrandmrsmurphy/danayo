@@ -27,7 +27,7 @@ joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 高等
 danayo_id: 7147
-mc_id: 1628
+mc_id: 1629
 graphemic_classification: 会意
 stand_in: 閏
 aliases:
@@ -36,21 +36,21 @@ aliases:
   - 䦞
   - 𥹿
 注音: ㄋㄨㄋ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 閏.
->For the word, see [閏](words/閏.md)
+>For the word, see [閏](../words/閏.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [門](Radical%20169) ("gate") + [王 (char)](王%20(char).md) ("king"). The original meaning "intercalary" is derived from kings' ancient practice of remaining within the palace gates on a leap day (which was in excess of the lunar calendar's 364 days, whence the meanings "remainder" and "surplus"), not engaging in their usual governing functions.
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 169|門]] ("gate") + [王 (char)](../characters/王%20(char).md) ("king"). The original meaning "intercalary" is derived from kings' ancient practice of remaining within the palace gates on a leap day (which was in excess of the lunar calendar's 364 days, whence the meanings "remainder" and "surplus"), not engaging in their usual governing functions.
 - [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 1628th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
+- 1629th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
 - [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [HSK No](../lookup/HSK/HSK%20No.md), [Grade Advanced](../lookup/Grade%20Advanced.md)
 
 ## Words
@@ -60,3 +60,6 @@ boundedness: 75
 - <ruby>[[閏日]]<rt>ㄋㄨㄋㄋㄧㄊ</rt></ruby> "leap day"
 - <ruby>[[閏秒]]<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> "leap second"
 - <ruby>[[置閏]]<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> "intercalation"
+
+## Derived Characters
+- <ruby>[[潤 (char)|潤]]<rt>ㄋㄨㄋ</rt></ruby> "soft; smooth; wet"

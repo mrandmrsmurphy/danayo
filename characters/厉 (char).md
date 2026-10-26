@@ -5,7 +5,11 @@ korean: 려
 korean_native: 엄할/숫돌
 japanese:
   - REI
-japanese_native: きつい
+japanese_native:
+  - きつい
+  - といし
+  - と-ぐ
+  - こす-る
 vietnamese:
   - lẹ
   - lệ
@@ -36,26 +40,26 @@ aliases:
   - 癘
   - 疠
 注音: ㄌㄝ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 厉.
->For the word, see [厉](words/厉.md)
+>For the word, see [厉](../words/厉.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*m·rads): semantic [厂](Radical%20027) + abbreviated phonetic [万](万.md) (OC \*m̥ʰraːds), also had semantic 石.
+- 形声 (OC \*m·rads): semantic [[Radical 027|厂]] + abbreviated phonetic [万](../characters/万.md) (OC \*m̥ʰraːds), also had semantic 石.
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 770th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄌㄝ](../syllables/ㄌㄝ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
 
 ### 代用字
-- 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [[words/牡厉]]
-- "leprosy", hence --> [[words/厉病]] (and 厉人 for 'leper')
+- 蛎/蠣 "oyster", hence 牡蛎/牡蠣 --> [牡厉](../words/牡厉.md)
+- "leprosy", hence --> [厉病](../words/厉病.md) (and 厉人 for 'leper')
 
 ## Words
 - <ruby>[[厉]]<rt>ㄌㄝ</rt></ruby> "whetstone" (stand-in for 厉)

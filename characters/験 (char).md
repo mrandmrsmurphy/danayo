@@ -8,7 +8,9 @@ japanese:
   - GEN
 japanese_native:
   - あかし
-  - いさお
+  - しるし
+  - ため-す
+  - ためし
 vietnamese:
   - nghiệm
 middle_chinese_initial: ŋ
@@ -36,20 +38,24 @@ aliases:
   - 𩥾
   - 騐
 注音: ㄝㄇ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: false
 tags:
   - character
 boundedness: 65
 ---
+>[!tip] This is a page about the character 験.
+>For the word, see [験](../words/験.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*ŋrams): semantic [馬](Radical%20187) ("horse") + phonetic [㑒](㑒.md) (OC \*skʰlam).
+- 形声 (OC \*ŋrams): semantic [[Radical 187|馬]] ("horse") + phonetic [㑒](../characters/㑒.md) (OC \*skʰlam).
 - [SKIP-1-10-8](../lookup/SKIP/SKIP-1/SKIP-1-10-8.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 1136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄝㄇ](../syllables/ㄝㄇ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Grade 4](../lookup/Grade%204.md)
+
 ## Words
 - <ruby>[[験]]<rt>ㄝㄇ</rt></ruby> "check, examine" (stand-in for 験)
 - <ruby>[[経験]]<rt>ㄍㄝㄫㄝㄇ</rt></ruby> "experience"

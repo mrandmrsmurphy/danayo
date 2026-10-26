@@ -8,7 +8,9 @@ japanese:
   - SHAKU
 japanese_native:
   - あか
-  - あかい
+  - あか-い
+  - あか-らむ
+  - あか-らめる
 vietnamese:
   - xích
 middle_chinese_initial: t͡ɕʰ
@@ -34,14 +36,14 @@ aliases:
   - 𤆍
   - 烾
 注音: ㄑㄝㄎ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
 >[!tip] This is a page about the character 赤.
->For the word, see [赤](words/赤.md)
+>For the word, see [赤](../words/赤.md)
 >For the radical, see [Radical 155](../lookup/Radicals/Radical%20155.md)
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +53,11 @@ boundedness: 80
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 614th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄝㄎ](../syllables/ㄑㄝㄎ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Grade 2](../lookup/Grade%202.md)
+
 ## Words
 - <ruby>[[赤]]<rt>ㄑㄝㄎ</rt></ruby> "red" (stand-in for 赤)
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
+
+## Derived Characters
+- <ruby>[[赦]]<rt>ㄙ⼘</rt></ruby> "pardon"
+- <ruby>[[郝]]<rt>ㄏㄚㄎ</rt></ruby> "place name"

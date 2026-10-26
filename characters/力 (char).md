@@ -6,7 +6,8 @@ korean_native: 힘
 japanese:
   - RYOKU
   - RIKI
-japanese_native: いさお
+japanese_native:
+  - ちから
 vietnamese:
   - lực
 middle_chinese_initial: l
@@ -34,7 +35,7 @@ aliases:
 kwin: false
 tags:
   - character
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 boundedness: 90
 ---
 >[!tip] This is a page about the character 力.
@@ -47,6 +48,7 @@ boundedness: 90
 - [SKIP-4-2-4](../lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 300th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄌㄧㄎ](../syllables/ㄌㄧㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
 ## Words
 - <ruby>[[力]]<rt>ㄌㄧㄎ</rt></ruby> "power; strength" (stand-in for 力)
 - <ruby>[[勢力]]<rt>ㄙㄝㄌㄧㄎ</rt></ruby> "power"
@@ -59,6 +61,10 @@ boundedness: 90
 - <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
 - <ruby>[[努力]]<rt>ㄋㄛㄌㄧㄎ</rt></ruby> "strive; endeavor"
 - <ruby>[[大力]]<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby> "great strength; vigorously; Da Lat"
+
+## Chengyu
+- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
+
 ## Derived Characters
 - <ruby>[[肋]]<rt>ㄌㄜㄎ</rt></ruby> "rib"
 - <ruby>[[勒]]<rt>ㄌㄜㄎ</rt></ruby> "bridle; rein in"
@@ -69,6 +75,3 @@ boundedness: 90
 - <ruby>[[抛]]<rt>ㄆㄚㄨ</rt></ruby> "throw away; abandon"
 - <ruby>[[男]]<rt>ㄋㄚㄇ</rt></ruby> "man"
 - <ruby>[[辦]]<rt>ㄅㄚㄋ</rt></ruby> "manage; run"
-
-## Chengyu
-- <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"
