@@ -5,7 +5,8 @@ korean: "자"
 korean_native: "윗누이"
 japanese:
   - SHI
-japanese_native: あね
+japanese_native:
+  - あね
 vietnamese:
   - chị
   - tỷ
@@ -31,24 +32,24 @@ aliases:
   - 姐
   - 姊
 注音: "ㄐㄚ"
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-26
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 姉.
->For the word, see [姉](words/姉.md)
+>For the word, see [姉](../words/姉.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声 (Shuowen: 従女，𠂔聲): semantic [[Radical 038|女]] ("female, woman") + phonetic 𠂔 (a rare, obsolete glyph with no character page of its own in this vault) — an older sister.
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 1552nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](syllables/ㄐㄚ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- 形声 (Shuowen: 従女，𠂔聲): semantic [[Radical 038|女]] ("female, woman") + phonetic 𠂔 (a rare, obsolete glyph) — an older sister.
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1552nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[姉]]<rt>ㄐㄚ</rt></ruby> "elder sister" (stand-in for 姉)

@@ -40,19 +40,19 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-26
 ---
 >[!tip] This is a page about the character 姪.
->For the word, see [姪](words/姪.md)
+>For the word, see [姪](../words/姪.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形聲 (OC \*diːɡ, \*diɡ): semantic [[Radical 038|女]] ("woman") + phonetic [[至 (char)|至]] (OC \*tjiɡs, a close match) — originally a fraternal niece (a brother's daughter), later extended to nephew after the Jin dynasty. **Broadened 2026-09-21, user-directed**: 姪 was previously bound in Dan'a'yo, legitimized only by the compound [[姪女]]; `stand_in` changed to 姪 itself, making it independently usable as the general Dan'a'yo word for "niece" (any sibling's daughter), paralleling [[甥]]'s own self-standing status and broadened "nephew" sense — filename correspondingly renamed to `姪 (char).md` now that the word [[姪]] exists.
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 3560th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄉㄝㄊ](syllables/ㄉㄝㄊ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- 形聲 (OC \*diːɡ, \*diɡ): semantic [[Radical 038|女]] ("woman") + phonetic [[至 (char)|至]] (OC \*tjiɡs, a close match) — originally a fraternal niece (a brother's daughter), later extended to nephew after the Jin dynasty. In Dan'a'yo 姪 is independently usable (its own stand-in) as the general word for "niece" (any sibling's daughter), paralleling [[甥]]'s self-standing status and broadened "nephew" sense.
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 3560th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄉㄝㄊ](../syllables/ㄉㄝㄊ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[姪]]<rt>ㄉㄝㄊ</rt></ruby> "niece" (stand-in for 姪)
