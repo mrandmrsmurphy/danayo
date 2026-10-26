@@ -162,6 +162,8 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[林雨](../words/林雨.md)<rt>ㄌㄧㄇ·ㄨ</rt></ruby>: long spell of rain; (metaphorical) favor from the monarch.
 - <ruby>[水中](../words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby>: underwater.
 - <ruby>[河川](../words/河川.md)<rt>ㄏㄚㄑ⺢ㄋ</rt></ruby>: rivers.
+- <ruby>[小川](../words/小川.md)<rt>ㄙㄛㄑ⺢ㄋ</rt></ruby>: small stream, brook.
+- <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: river mouth, estuary.
 - <ruby>[渓流](../words/渓流.md)<rt>ㄎㄝㄧㄌ⼜</rt></ruby>: mountain stream.
 - <ruby>[港湾](../words/港湾.md)<rt>ㄏㄛㄫ⺢ㄇ</rt></ruby>: harbor.
 - <ruby>[湯池](../words/湯池.md)<rt>ㄊㄚㄫㄐㄨㄧ</rt></ruby>: city moat; hot springs (literary).
