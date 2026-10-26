@@ -16,7 +16,7 @@ stroke_count: 10
 radical: 彳
 skip_number: 1-3-7
 grade_level: "2"
-pos: 動詞
+pos: 事詞
 english:
   - obey
   - observe

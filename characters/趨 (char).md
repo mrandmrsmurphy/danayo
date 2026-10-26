@@ -17,7 +17,7 @@ stroke_count: 17
 radical: "走"
 skip_number: 3-10-7
 grade_level: "先進"
-pos: 動詞
+pos: 事詞
 english:
   - take many small steps towards
 羅馬字: cu

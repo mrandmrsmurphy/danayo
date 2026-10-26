@@ -5,7 +5,8 @@ korean: "소"
 korean_native: 작을
 japanese:
   - SHOU
-japanese_native: いさら ,こう ,ささ ,さざ ,ちいさ ,ちひさ
+japanese_native:
+  - ちい-さい
 vietnamese:
   - tiểu
 middle_chinese_initial: s

@@ -14,7 +14,7 @@ stroke_count: 13
 radical: 殳
 skip_number: 1-9-4
 grade_level: "5"
-pos: 動詞
+pos: 事詞
 english:
   - destroy
   - slander

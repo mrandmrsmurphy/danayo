@@ -14,7 +14,7 @@ stroke_count: 11
 radical: "人"
 skip_number: 1-2-9
 grade_level: "6"
-pos: 動詞
+pos: 事詞
 english:
   - spy
 羅馬字: ting

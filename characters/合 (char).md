@@ -7,7 +7,11 @@ japanese:
   - GOU
   - KATSU
   - GATSU
-japanese_native: あ-う,あ-わす,あ-わせる
+japanese_native:
+  - あ-う
+  - あ-い
+  - あ-わす
+  - あ-わせる
 vietnamese:
   - hợp
   - cáp

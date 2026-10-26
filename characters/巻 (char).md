@@ -6,7 +6,10 @@ korean_native: 책
 japanese:
   - KAN
   - KEN
-japanese_native: ま-く,まき
+japanese_native:
+  - ま-く
+  - まき
+  - ま-き
 vietnamese:
   - quyển
 middle_chinese_initial: g

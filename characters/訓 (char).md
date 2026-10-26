@@ -17,7 +17,7 @@ stroke_count: 10
 radical: "言"
 skip_number: 1-7-3
 grade_level: "4"
-pos: 動詞
+pos: 事詞
 english:
   - interpret
   - translate

@@ -8,7 +8,6 @@ japanese:
   - BU
   - FUTSU
   - HI
-japanese_native: ず ,せず ,にあらず ,いなや
 vietnamese:
   - bất
 middle_chinese_initial: p

@@ -15,7 +15,7 @@ stroke_count: 3
 radical: 乙
 skip_number: 2-2-1
 grade_level: "6"
-pos: 動詞
+pos: 事詞
 english:
   - beg
 羅馬字: kid

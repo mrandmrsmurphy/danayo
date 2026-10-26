@@ -6,7 +6,10 @@ korean_native: 열
 japanese:
   - JUU
   - JITSU
-japanese_native: とお,と
+japanese_native:
+  - とお
+  - と
+  - そ
 vietnamese:
   - thập
 middle_chinese_initial: d͡ʑ

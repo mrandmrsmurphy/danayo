@@ -5,7 +5,11 @@ korean: 지
 korean_native: 갈
 japanese:
   - SHI
-japanese_native: ゆく, これ, の
+japanese_native:
+  - の
+  - これ
+  - ゆく
+  - この
 vietnamese:
   - chi
 middle_chinese_initial: t͡ɕ

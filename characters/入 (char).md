@@ -7,7 +7,10 @@ japanese:
   - NYUU
   - JU
   - JUU
-japanese_native: いり ,いる ,しほ ,なり
+japanese_native:
+  - い-る
+  - い-れる
+  - はい-る
 vietnamese:
   - nhập
   - nhạp

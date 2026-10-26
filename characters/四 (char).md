@@ -5,7 +5,11 @@ korean: 사
 korean_native: 넉
 japanese:
   - SHI
-japanese_native: あ ,つ ,ひろ ,もち ,よつ
+japanese_native:
+  - よ
+  - よ-つ
+  - よっ-つ
+  - よん
 vietnamese:
   - tứ
   - tớ

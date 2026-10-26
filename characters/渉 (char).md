@@ -13,7 +13,7 @@ stroke_count: 11
 radical: 水
 skip_number: 1-3-8
 grade_level: "5"
-pos: 動詞
+pos: 事詞
 english:
   - ford
 羅馬字: seb

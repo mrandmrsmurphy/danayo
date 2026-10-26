@@ -16,7 +16,7 @@ stroke_count: 11
 radical: "斤"
 skip_number: 1-7-4
 grade_level: "6"
-pos: 動詞
+pos: 事詞
 english:
   - cut
   - chop

@@ -15,7 +15,7 @@ stroke_count: 10
 radical: 人
 skip_number: 1-2-8
 grade_level: 先進
-pos: 動詞
+pos: 事詞
 english:
   - rely on
   - depend upon

@@ -14,7 +14,7 @@ stroke_count: 11
 radical: "糸"
 skip_number: 2-5-6
 grade_level: "先進"
-pos: "動詞"
+pos: 事詞
 english:
   - tie
   - fasten

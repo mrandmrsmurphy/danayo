@@ -1,7 +1,7 @@
 ---
 mandarin: xǐ
 cantonese: sai2
-korean: 선
+korean: 세
 korean_native: 씻을
 japanese:
   - SEN
@@ -36,7 +36,7 @@ stand_in: 洗
 date-last-perfect: 2026-10-14
 tags:
   - character
-kwin: true
+kwin: false
 boundedness: 65
 ---
 >[!tip] This is a page about the character 洗.

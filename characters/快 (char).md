@@ -29,7 +29,7 @@ hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2099
 mc_id: 1968
-graphemic_classification: 決 (char)
+graphemic_classification: 決
 stand_in: 快
 aliases:
 注音: ㄎ⺢ㄧ

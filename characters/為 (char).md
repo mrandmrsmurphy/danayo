@@ -5,7 +5,14 @@ korean: 위
 korean_native: 할
 japanese:
   - I
-japanese_native: す - さだ
+japanese_native:
+  - ため
+  - な-る
+  - な-す
+  - す-る
+  - たり
+  - つく-る
+  - なり
 vietnamese:
   - vi
   - vị

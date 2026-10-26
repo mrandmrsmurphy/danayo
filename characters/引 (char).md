@@ -18,7 +18,7 @@ stroke_count: 4
 radical: 弓
 skip_number: 1-3-1
 grade_level: "2"
-pos: 動詞
+pos: 事詞
 english:
   - pull
   - tug

@@ -6,7 +6,17 @@ korean_native: 윗
 japanese:
   - JOU
   - SHOU
-japanese_native: あおい
+japanese_native:
+  - うえ
+  - かみ
+  - あ-げる
+  - あ-がる
+  - あ-がり
+  - のぼ-る
+  - のぼ-り
+  - のぼ-せる
+  - のぼ-す
+  - たてまつ-る
 vietnamese:
   - thượng
 middle_chinese_initial: d͡ʑ

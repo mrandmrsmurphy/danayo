@@ -33,7 +33,7 @@ stroke_count: 13            # integer — total stroke count
 radical: 言                 # Kangxi radical name (character only, no number)
 skip_number: 1-7-6         # SKIP code as a string, three hyphen-separated integers
 grade_level: "2"            # Dan'a'yo grade: "1"–"6", "先進", or "名"
-pos: 名詞                   # part of speech: 名詞, 動詞, 性詞, 数詞, etc.
+pos: 名詞                   # part of speech: 名詞, 事詞, 性詞, 数詞, etc.
 english:                   # English gloss(es), as a list
   - poem
 羅馬字: si                  # Dan'a'yo romanisation

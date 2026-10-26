@@ -15,7 +15,7 @@ stroke_count: 16
 radical: 心
 skip_number: 2-12-4
 grade_level: 先進
-pos: 動詞
+pos: 事詞
 english:
   - rely on
   - based on

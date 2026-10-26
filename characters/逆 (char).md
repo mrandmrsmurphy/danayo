@@ -6,7 +6,10 @@ korean_native: 거스를
 japanese:
   - GYAKU
   - GEKI
-japanese_native: さか,さか-らう
+japanese_native:
+  - さか
+  - さか-さ
+  - さか-らう
 vietnamese:
   - nghịch
   - nghếch
