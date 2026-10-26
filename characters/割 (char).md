@@ -6,8 +6,10 @@ korean_native: 나눌
 japanese:
   - KATSU
 japanese_native:
-  - さ
   - わ-る
+  - わ-り
+  - わ-れる
+  - さ-く
 vietnamese:
   - cát
   - cắt
@@ -32,24 +34,24 @@ danayo_id: 4037
 mc_id: 1166
 graphemic_classification: 害
 stand_in: 割
-aliases:
 注音: ㄍㄚㄊ
-date-last-perfect: 2026-09-22
+date-last-perfect: 2026-10-26
 kwin: false
 tags:
   - character
 boundedness: 75
 ---
 >[!tip] This is a page about the character 割.
->For the word, see [割](words/割.md)
+>For the word, see [割](../words/割.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*kaːd): phonetic [害](害.md) (OC \*ɡaːds) + semantic [刂](Radical%20018).
+- 形声 (OC \*kaːd): phonetic [害](../characters/害.md) (OC \*ɡaːds) + semantic [[Radical 018|刂]].
 - [SKIP-1-10-2](../lookup/SKIP/SKIP-1/SKIP-1-10-2.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1166th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄍㄚㄊ](../syllables/ㄍㄚㄊ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Grade 4](../lookup/Grade%204.md)
+
 ## Words
 - <ruby>[[割]]<rt>ㄍㄚㄊ</rt></ruby> "cut; divide; separate" (stand-in for 割)
 - <ruby>[[割断]]<rt>ㄍㄚㄊㄉ⺢ㄋ</rt></ruby> "cut off; sever"
