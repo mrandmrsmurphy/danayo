@@ -107,6 +107,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 
 ### Fruits & Produce
 
+- <ruby>[椰子](../words/椰子.md)<rt>⼘ㄐㄜ</rt></ruby>: coconut — the fruit and the palm itself.
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry.
 - <ruby>[苹果](../words/苹果.md)<rt>ㄈㄝㄫㄍ⺢</rt></ruby>: an apple — the word varies across the Sinosphere.
 - <ruby>[桜桃](../words/桜桃.md)<rt>ㄚㄫㄉㄚㄨ</rt></ruby>: a cherry.
