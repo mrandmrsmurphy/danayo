@@ -7,7 +7,9 @@ japanese:
   - JUU
   - SHOU
   - JU
-japanese_native: したが
+japanese_native:
+  - したが-う
+  - したが-える
 vietnamese:
   - tùng
 middle_chinese_initial: d͡z
@@ -35,22 +37,22 @@ aliases:
   - 慫
   - 怂
 注音: ㄐㄛㄫ
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-26
 kwin: true
 tags:
   - character
 boundedness: 65
 ---
 >[!tip] This is a page about the character 従.
->For the word, see [従](words/従.md)
+>For the word, see [従](../words/従.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): the deepest layer of this character's history is the alias 从 — two [[Radical 009|人]] ("person") walking in the same direction, "to follow." The fuller forms 從/従 are usually described as 形声 (phonetic 从 + semantic 辵/[[Radical 060|彳]], "walk"), but since 从 is only an alias of this very character in this vault (not an independently paged glyph), the field is kept at 會意 — the classification of the meaning-bearing root — rather than naming the character's own alias as if it were a distinct phonetic component.
-- [SKIP-1-3-7](lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 85th most used character in Classical Chinese (mirrored under the alias 从). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](syllables/ㄐㄛㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): the deepest layer of this character's history is the alias 从 — two [[Radical 009|人]] ("person") walking in the same direction, "to follow." The fuller forms 從/従 are usually described as 形声 (phonetic 从 + semantic 辵/[[Radical 060|彳]], "walk"), but since 从 is only an alias of this very character in this vault (not an independently paged glyph), the field is kept at 會意 — the classification of the meaning-bearing root — rather than naming the character's own alias as if it were a distinct phonetic component.
+- [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 85th most used character in Classical Chinese (mirrored under the alias 从). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](../syllables/ㄐㄛㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[従]]<rt>ㄐㄛㄫ</rt></ruby> "obey; observe" (stand-in for 従)
@@ -70,3 +72,7 @@ boundedness: 65
 - <ruby>[[従姉]]<rt>ㄐㄛㄫㄐㄚ</rt></ruby> "older female cousin"
 - <ruby>[[従妹]]<rt>ㄐㄛㄫㄇㄛㄧ</rt></ruby> "younger female cousin"
 - <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚ·ㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"
+
+## Derived Characters
+- <ruby>[[縦 (char)|縦]]<rt>ㄐㄛㄇ</rt></ruby> "selfish; arbitrary"
+- <ruby>[[踪]]<rt>ㄐㄛㄫ</rt></ruby> "remains; footprints"

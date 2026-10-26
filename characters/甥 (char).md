@@ -6,7 +6,8 @@ korean_native: 생질
 japanese:
   - SEI
   - SHOU
-japanese_native: おい
+japanese_native:
+  - おい
 vietnamese:
   - sinh
   - sanh
@@ -28,24 +29,23 @@ danayo_id: 7159
 mc_id: 2862
 graphemic_classification: 生
 stand_in: 甥
-aliases:
 注音: ㄙㄚㄫ
 kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-26
 ---
 >[!tip] This is a page about the character 甥.
->For the word, see [甥](words/甥.md)
+>For the word, see [甥](../words/甥.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
-- 形聲 (OC \*sreŋ): phonetic [[生]] ("life, birth," a close match) + semantic [[男]] ("male") — originally a sororal niece or nephew (a sister's child, gender-unmarked); (obsolete) a son-in-law. **Broadened 2026-09-21, user-directed**: Dan'a'yo now uses 甥 as the general word for "nephew" (either sibling's son), paralleling how Japanese おい already treats sex, not lineage, as the relevant distinction — see [[甥]]'s own Notes.
-- [SKIP-1-5-7](lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 2862nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄙㄚㄫ](syllables/ㄙㄚㄫ.md)
-- [Grade Advanced](lookup/Grade%20Advanced.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](lookup/Korean/Korean%20Name%20ㅅ.md)
+- 形聲 (OC \*sreŋ): phonetic [[生]] ("life, birth," a close match) + semantic [[男]] ("male") — originally a sororal niece or nephew (a sister's child, gender-unmarked); (obsolete) a son-in-law. In Dan'a'yo 甥 is the general word for "nephew" (either sibling's son), paralleling how Japanese おい already treats sex, not lineage, as the relevant distinction — see [甥](../words/甥.md)'s own Notes.
+- [SKIP-1-5-7](../lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 2862nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄙㄚㄫ](../syllables/ㄙㄚㄫ.md)
+- [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
 - <ruby>[[甥]]<rt>ㄙㄚㄫ</rt></ruby> "nephew" (stand-in for 甥)
