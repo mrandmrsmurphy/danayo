@@ -1019,6 +1019,8 @@ tags: [lookup]
 [湯 (char)](../../characters/湯%20(char).md)
 [江](../../characters/江.md)
 [冉](../../characters/冉.md)
+[鳩](../../characters/鳩.md)
+[黜](../../characters/黜.md)
 
 ## Datacheck
 ```base

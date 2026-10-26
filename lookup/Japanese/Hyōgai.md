@@ -644,6 +644,7 @@ tags: [lookup]
 640. [滾 (char)](../../characters/滾%20(char).md)
 641. [諂 (char)](../../characters/諂%20(char).md)
 642. [冉](../../characters/冉.md)
+643. [黜](../../characters/黜.md)
 
 
 [[../../characters/吠]] - barking DO IT
