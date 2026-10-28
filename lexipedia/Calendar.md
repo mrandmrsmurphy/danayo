@@ -1,10 +1,15 @@
 ---
 language: 単亜語
+type: lexipedia
+domain: Calendar
+related_domains:
+  - "[[Time]]"
+status: complete
 tags:
   - calendar
 cssclasses:
   - wide-page
-date-last-perfect: 2026-09-18
+date-last-perfect: 2026-10-28
 ---
 
 Calendar vocabulary isn't one of Rosenfelder's Lexipedia topics, but a functioning auxiliary language needs it regardless — Gregorian day/week/month/year naming inherited in parallel across Mandarin, Cantonese, Japanese, and Korean, plus a systematic relative-time prefix system, plus three older Sinitic calendrical systems still attested in literary, cultural, or ceremonial use: the Earthly-Branches month names, a poetic month-name set, and the 孟/仲/季 seasonal-month system.
@@ -127,7 +132,7 @@ An ancient calendar named months after the twelve Earthly Branches:
 |<ruby>[子月](../words/子月.md)<rt>ㄐㄜ⼔ㄊ</rt></ruby>|11|
 |<ruby>[丑月](../words/丑月.md)<rt>ㄑㄨ⼔ㄊ</rt></ruby>|12|
 
-The Earthly Branches are traditionally paired with the ten <ruby>[十干](../words/十干.md)<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "Heavenly Stems" (甲乙丙丁戊己庚辛壬癸, see [[天干]]) to form the 60-term sexagenary (干支) cycle used for naming years and days.
+The Earthly Branches are traditionally paired with the ten <ruby>[十干](../words/十干.md)<rt>ㄙㄧㄆㄍㄚㄋ</rt></ruby> "Heavenly Stems" (甲乙丙丁戊己庚辛壬癸, see [天干](../words/天干.md)) to form the 60-term sexagenary (干支) cycle used for naming years and days.
 
 ### Poetic Month Names
 
@@ -166,7 +171,7 @@ Spring as a season: <ruby>[春季](../words/春季.md)<rt>ㄑㄨㄋㄍㄨㄧ</rt
 
 ### Ancient Seasonal-Month Names (孟仲季)
 
-Using [[孟]], [[仲]], [[季]] produced an ancient calendar:
+Using [孟](../characters/孟.md), [仲](../characters/仲.md), [季](../characters/季.md) produced an ancient calendar:
 
 |Month|Name|Season|
 |---|---|---|
@@ -218,7 +223,7 @@ Lunar months had their own terminology:
 - <ruby>[閏年](../words/閏年.md)<rt>ㄋㄨㄋㄋㄝㄋ</rt></ruby> — leap year
 - <ruby>[平年](../words/平年.md)<rt>ㄅ⼶ㄫㄋㄝㄋ</rt></ruby> — common year
 - <ruby>[閏月](../words/閏月.md)<rt>ㄋㄨㄋ⼔ㄊ</rt></ruby> — intercalary month (lunisolar calendars)
-- <ruby>[閏](../words/閏.md)<rt>ㄋㄨㄋ</rt></ruby> — intercalary, the bound root behind [[閏年]]/[[閏月]] above
+- <ruby>[閏](../words/閏.md)<rt>ㄋㄨㄋ</rt></ruby> — intercalary, the bound root behind [閏年](../words/閏年.md)/[閏月](../words/閏月.md) above
 - <ruby>[閏日](../words/閏日.md)<rt>ㄋㄨㄋㄋㄧㄊ</rt></ruby> — leap day
 - <ruby>[閏秒](../words/閏秒.md)<rt>ㄋㄨㄋㄇ⼄ㄨ</rt></ruby> — leap second
 - <ruby>[置閏](../words/置閏.md)<rt>ㄑㄧ·ㄋㄨㄋ</rt></ruby> — intercalation, the system of inserting leap periods
@@ -276,3 +281,8 @@ Duration:
 - <ruby>[暫時](../words/暫時.md)<rt>ㄐㄚㄇㄙㄧ</rt></ruby> — temporarily, for the time being
 - <ruby>[期限](../words/期限.md)<rt>ㄎㄧㄏㄚㄋ</rt></ruby> — due date
 - <ruby>[更改](../words/更改.md)<rt>ㄍㄚㄫㄍㄚㄧ</rt></ruby> — to change, revise, or reschedule (a plan, a schedule)
+
+## See Also
+
+**Related domains**:
+- [Time](Time.md) — the qualitative side of time: times of day (朝, 夜, 午前), duration, past and present, and clock units, which this page leaves to it.
