@@ -60,6 +60,9 @@ boundedness: 90
 - <ruby>[[第四]]<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby> "fourth"
 - <ruby>[[第五]]<rt>ㄉㄝㄧㄛ</rt></ruby> "fifth"
 - <ruby>[[第六]]<rt>ㄉㄝㄧㄌㄨㄎ</rt></ruby> "sixth"
+- <ruby>[[第七]]<rt>ㄉㄝㄧㄑㄧㄊ</rt></ruby> "seventh"
+- <ruby>[[第九]]<rt>ㄉㄝㄧㄎ⼜</rt></ruby> "ninth"
+- <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
 
 ## Links
 ![[nav/Numerals]]

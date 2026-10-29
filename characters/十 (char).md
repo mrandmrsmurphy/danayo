@@ -100,6 +100,8 @@ boundedness: 75
 - <ruby>[[二十日]]<rt>ㄋㄧㄜㄙㄧㄆㄋㄧㄊ</rt></ruby> "twentieth day of the month"
 - <ruby>[[三十日]]<rt>ㄙㄚㄇㄙㄧㄆㄋㄧㄊ</rt></ruby> "thirtieth day of the month"
 - <ruby>[[三十一日]]<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "thirty-first day of the month"
+- <ruby>[[十万]]<rt>ㄙㄧㄆㄇㄛㄋ</rt></ruby> "one hundred thousand"
+- <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
 
 ## Chengyu
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"

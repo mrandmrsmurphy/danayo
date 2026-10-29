@@ -8,7 +8,7 @@ related_domains:
   - "[[Grammar]]"
   - "[[Measurement]]"
 status: complete
-date-last-perfect: 2026-09-19
+date-last-perfect: 2026-10-29
 ---
 
 # Numbers
@@ -35,6 +35,10 @@ Number vocabulary spans the full range from everyday counting to specialized mat
 - <ruby>[第四](../words/第四.md)<rt>ㄉㄝㄧㄙㄧㄜ</rt></ruby>: fourth.
 - <ruby>[第五](../words/第五.md)<rt>ㄉㄝㄧㄛ</rt></ruby>: fifth.
 - <ruby>[第六](../words/第六.md)<rt>ㄉㄝㄧㄌㄨㄎ</rt></ruby>: sixth.
+- <ruby>[[第七]]<rt>ㄉㄝㄧㄑㄧㄊ</rt></ruby>: seventh.
+- <ruby>[第八](../words/第八.md)<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby>: eighth.
+- <ruby>[[第九]]<rt>ㄉㄝㄧㄎ⼜</rt></ruby>: ninth.
+- <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby>: tenth.
 - <ruby>[第](../words/第.md)<rt>ㄉㄝㄧ</rt></ruby>: "-th" — the bound ordinal-forming prefix itself, behind [[第一]]/[[第二]]/[[第三]] above.
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby>: both.
 - <ruby>[双](../words/双.md)<rt>ㄙ⺢ㄫ</rt></ruby>: pair.
@@ -63,25 +67,36 @@ Dan'a'yo builds the teens and tens transparently — 十 ("ten") combines with a
 - <ruby>[[八十]]<rt>ㄅㄚㄊㄙㄧㄆ</rt></ruby>: eighty.
 - <ruby>[[九十]]<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby>: ninety.
 
-### Large Numbers
+### Hundreds, Thousands & Myriads
 
-Above a hundred, Dan'a'yo groups by powers of ten up through 萬/万 ("myriad," 10,000) rather than by powers of a thousand — the same 萬-based grouping used throughout the Sinosphere, distinct from the English thousand/million/billion chain.
+Above ten, Dan'a'yo counts by prefixing a digit to 百 (100), 千 (1,000) and 万 (10,000) — a regular digit + unit pattern, as in Mandarin, Japanese and Korean. The system groups by powers of ten up through 萬/万 ("myriad," 10,000) rather than by powers of a thousand, so 100,000 is "ten myriad" and 1,000,000 is "a hundred myriad," unlike the English thousand/million/billion chain. The bare 百 and 十 are words; 千 and 万 only appear in compounds such as 一千 and 一万.
 
-- <ruby>[一百](../words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>: hundred.
-- <ruby>[一千](../words/一千.md)<rt>ㄧㄊㄑㄝㄋ</rt></ruby>: thousand.
+- <ruby>[百](../words/百.md)<rt>ㄅㄚㄎ</rt></ruby>: hundred (bare form, contrast [[一百]]).
+- <ruby>[一百](../words/一百.md)<rt>ㄧㄊㄅㄚㄎ</rt></ruby>: one hundred.
+- **Hundreds**: <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby> / [[三百]] / [[四百]] / [[五百]] / [[六百]] / <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / [[九百]]: two through nine hundred.
+- <ruby>[一千](../words/一千.md)<rt>ㄧㄊㄑㄝㄋ</rt></ruby>: one thousand.
+- **Thousands**: <ruby>[二千](../words/二千.md)<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby> / <ruby>[三千](../words/三千.md)<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> / <ruby>[四千](../words/四千.md)<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby> / <ruby>[五千](../words/五千.md)<rt>ㄛㄑㄝㄋ</rt></ruby> / <ruby>[六千](../words/六千.md)<rt>ㄌㄨㄎㄑㄝㄋ</rt></ruby> / <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby> / <ruby>[九千](../words/九千.md)<rt>ㄎ⼜ㄑㄝㄋ</rt></ruby>: two through nine thousand.
 - <ruby>[一万](../words/一万.md)<rt>ㄧㄊㄇㄛㄋ</rt></ruby>: myriad (ten thousand).
-- <ruby>[一億](../words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
-- <ruby>[一溝](../words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
-- <ruby>[一兆](../words/一兆.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: one trillion.
-- <ruby>[百](../words/百.md)<rt>ㄅㄚㄎ</rt></ruby>: hundred (bare form, contrast [[一百]] above).
-- <ruby>[七百](../words/七百.md)<rt>ㄑㄧㄊㄅㄚㄎ</rt></ruby> / <ruby>[八百](../words/八百.md)<rt>ㄅㄚㄊㄅㄚㄎ</rt></ruby> / <ruby>[二百](../words/二百.md)<rt>ㄋㄧㄜㄅㄚㄎ</rt></ruby>: seven/eight/two hundred — fully transparent digit + 百 compounds.
-- <ruby>[七千](../words/七千.md)<rt>ㄑㄧㄊㄑㄝㄋ</rt></ruby> / <ruby>[八千](../words/八千.md)<rt>ㄅㄚㄊㄑㄝㄋ</rt></ruby>: seven/eight thousand.
-- <ruby>[二千](../words/二千.md)<rt>ㄋㄧㄜㄑㄝㄋ</rt></ruby>: two thousand.
-- <ruby>[三千](../words/三千.md)<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> / <ruby>[四千](../words/四千.md)<rt>ㄙㄧㄜㄑㄝㄋ</rt></ruby> / <ruby>[五千](../words/五千.md)<rt>ㄛㄑㄝㄋ</rt></ruby> / <ruby>[六千](../words/六千.md)<rt>ㄌㄨㄎㄑㄝㄋ</rt></ruby> / <ruby>[九千](../words/九千.md)<rt>ㄎ⼜ㄑㄝㄋ</rt></ruby>: three/four/five/six/nine thousand.
-- <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby>: seventy thousand, twenty thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
+- **Myriads**: <ruby>[二万](../words/二万.md)<rt>ㄋㄧㄜㄇㄛㄋ</rt></ruby> / [[三万]] / [[四万]] / [[五万]] / [[六万]] / <ruby>[七万](../words/七万.md)<rt>ㄑㄧㄊㄇㄛㄋ</rt></ruby> / [[八万]] / [[九万]]: twenty through ninety thousand — digit + 万 ("myriad"), not a new grouping word; 七万 is literally "seven myriad."
+- [[十万]]: one hundred thousand ("ten myriad").
+- [[百万]]: one million ("a hundred myriad").
+- [[千万]]: ten million ("a thousand myriad").
 - <ruby>[数万](../words/数万.md)<rt>ㄙㄨ·ㄇㄛㄋ</rt></ruby>: tens of thousands (an approximate, uncounted "several myriad").
+
+### Very Large Numbers
+
+Beyond the myriad, the classical hierarchy (億, 兆, 京, 垓, …, 溝, …) names ever larger units. Only a few are in the vocabulary, mostly as a reference.
+
+- <ruby>[一億](../words/一億.md)<rt>ㄧㄊ·ㄧㄎ</rt></ruby>: one hundred million.
+- <ruby>[一兆](../words/一兆.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: one trillion.
+- <ruby>[一溝](../words/一溝.md)<rt>ㄧㄊㄍㄛㄨ</rt></ruby>: one hundred nonillion.
 - <ruby>[阿僧祇](../words/阿僧祇.md)<rt>ㄚㄙㄜㄫㄍㄧ</rt></ruby>: asankhyeya — the Buddhist "incalculable," an immeasurably vast number (Sanskrit असङ्ख्येय).
-- <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby>: thirty, forty — anti-forgery numeral forms (using 参/肆 in place of 三/四), the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday 三十/四十.
+
+### Formal (Anti-Forgery) Numerals
+
+The 大寫 forms are the formal register used on checks, contracts, and financial documents to prevent alteration, alongside the everyday forms.
+
+- <ruby>[参拾](../words/参拾.md)<rt>ㄙㄚㄇㄙㄧㄆ</rt></ruby> / <ruby>[肆拾](../words/肆拾.md)<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby>: thirty, forty (using 参/肆 in place of 三/四), alongside the everyday 三十/四十.
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby>: the anti-forgery financial variant of [[五]] ("five") — originally "a file of five soldiers" (see [War](../lexipedia/War.md) for its own citation there), its extra strokes resist alteration the same way [[壱]]/[[貳]]/[[漆]]/[[玖]] guard [[一]]/[[二]]/[[七]]/[[九]].
 - <ruby>[捌](../words/捌.md)<rt>ㄅㄚㄊ</rt></ruby>: the anti-forgery financial variant of [[八]] ("eight"), completing the same guarded set, and read exactly as 八 is, ㄅㄚㄊ, so that a written amount sounds the same in either form — its own literal sense is "to break apart, disentangle" (and, of goods, "to sell well").
 
@@ -134,6 +149,8 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[平方](../words/平方.md)<rt>ㄅ⼶ㄫㄈㄚㄫ</rt></ruby>: squared, second power; the "square-" prefix for area units.
 - <ruby>[階乗](../words/階乗.md)<rt>ㄍ⼶ㄧㄙㄨㄫ</rt></ruby>: factorial (*n*!), the product of all positive integers up to *n*.
 - <ruby>[剰余](../words/剰余.md)<rt>ㄙㄧㄫ⼄</rt></ruby>: remainder, surplus.
+- <ruby>[四捨五入](../words/四捨五入.md)<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby>: rounding.
+- <ruby>[等分](../words/等分.md)<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby>: divide into equal parts.
 
 ### Number Types
 
@@ -176,14 +193,6 @@ Dan'a'yo names each of the four basic operations twice: as a *method* (X法, the
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code (an assigned identifier — a ticket number, ID number).
 - <ruby>[号線](../words/号線.md)<rt>ㄏㄚㄨㄙ⼶ㄋ</rt></ruby>: a line number (e.g. a subway or transit line's number).
 - <ruby>[分](../words/分.md)<rt>ㄅㄨㄋ</rt></ruby>: to divide — the bound root behind [[分数]] ("fraction") and [[四分之一]] ("quarter") above.
-
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
-- <ruby>[二度](../words/二度.md)<rt>ㄋㄧㄜㄉㄛ</rt></ruby>: twice; two times.
-- <ruby>[四捨五入](../words/四捨五入.md)<rt>ㄙㄧㄜㄙ⼘ㄛ·ㄋㄧㄆ</rt></ruby>: rounding.
-- <ruby>[第八](../words/第八.md)<rt>ㄉㄝㄧㄅㄚㄊ</rt></ruby>: eighth; 8th.
-- <ruby>[等分](../words/等分.md)<rt>ㄉㄨㄫㄅㄨㄋ</rt></ruby>: divide into equal parts.
 
 ## Semantic Range Notes
 

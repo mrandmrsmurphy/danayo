@@ -68,6 +68,8 @@ boundedness: 50
 - <ruby>[[六芸]]<rt>ㄌㄨㄎ·ㄝ</rt></ruby> "six arts"
 - <ruby>[[第六]]<rt>ㄉㄝㄧㄌㄨㄎ</rt></ruby> "sixth"
 - <ruby>[[六千]]<rt>ㄌㄨㄎㄑㄝㄋ</rt></ruby> "six thousand"
+- <ruby>[[六百]]<rt>ㄌㄨㄎㄅㄚㄎ</rt></ruby> "six hundred"
+- <ruby>[[六万]]<rt>ㄌㄨㄎㄇㄛㄋ</rt></ruby> "sixty thousand"
 
 ## Chengyu
 - <ruby>[[五臓六府]]<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> "internal organs"

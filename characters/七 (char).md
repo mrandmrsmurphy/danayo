@@ -72,6 +72,7 @@ boundedness: 75
 - <ruby>[[七角形]]<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby> "heptagon"
 - <ruby>[[十七日]]<rt>ㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "seventeenth day of the month"
 - <ruby>[[二十七日]]<rt>ㄋㄧㄜㄙㄧㄆㄑㄧㄊㄋㄧㄊ</rt></ruby> "twenty-seventh day of the month"
+- <ruby>[[第七]]<rt>ㄉㄝㄧㄑㄧㄊ</rt></ruby> "seventh"
 
 ## Derived Characters
 - <ruby>[[切 (char)|切]]<rt>ㄑㄝㄊ</rt></ruby> "to cut" (七 + 刀, disambiguating the original "cut" sense once 七 became the numeral)

@@ -69,6 +69,9 @@ boundedness: 75
 - <ruby>[[十九日]]<rt>ㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "nineteenth day of the month"
 - <ruby>[[二十九日]]<rt>ㄋㄧㄜㄙㄧㄆㄎ⼜·ㄋㄧㄊ</rt></ruby> "twenty-ninth day of the month"
 - <ruby>[[九千]]<rt>ㄎ⼜ㄑㄝㄋ</rt></ruby> "nine thousand"
+- <ruby>[[九百]]<rt>ㄎ⼜ㄅㄚㄎ</rt></ruby> "nine hundred"
+- <ruby>[[九万]]<rt>ㄎ⼜ㄇㄛㄋ</rt></ruby> "ninety thousand"
+- <ruby>[[第九]]<rt>ㄉㄝㄧㄎ⼜</rt></ruby> "ninth"
 
 ## Derived Characters
 - <ruby>[[仇]]<rt>ㄍ⼜</rt></ruby> "enemy, foe"

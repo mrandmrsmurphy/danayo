@@ -63,6 +63,12 @@ boundedness: 80
 - <ruby>[[百科事典]]<rt>ㄅㄚㄎㄎ⺢ㄐㄧㄉㄝㄋ</rt></ruby> "encyclopedia"
 - <ruby>[[百家]]<rt>ㄅㄚㄎㄍㄚ</rt></ruby> "hundred schools, many schools of thought"
 - <ruby>[[諸子百家]]<rt>ㄐㄚㄐㄜㄅㄚㄎㄍㄚ</rt></ruby> "Hundred Schools of Thought"
+- <ruby>[[三百]]<rt>ㄙㄚㄇㄅㄚㄎ</rt></ruby> "three hundred"
+- <ruby>[[四百]]<rt>ㄙㄧㄜㄅㄚㄎ</rt></ruby> "four hundred"
+- <ruby>[[五百]]<rt>ㄛㄅㄚㄎ</rt></ruby> "five hundred"
+- <ruby>[[六百]]<rt>ㄌㄨㄎㄅㄚㄎ</rt></ruby> "six hundred"
+- <ruby>[[九百]]<rt>ㄎ⼜ㄅㄚㄎ</rt></ruby> "nine hundred"
+- <ruby>[[百万]]<rt>ㄅㄚㄎㄇㄛㄋ</rt></ruby> "one million"
 
 ## Chengyu
 - <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"
