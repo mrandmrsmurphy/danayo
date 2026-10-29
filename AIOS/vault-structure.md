@@ -95,6 +95,8 @@ The `.base` files are Obsidian Bases databases for querying entries:
 - `chengyu/All Chengyu Base.base`
 - `Last Perfect.base` — tracks `date-last-perfect` for spaced repetition review
 
+**Front door for outside agents:** [`AIOS/facts.yaml`](facts.yaml) holds machine-readable counts and key-page paths (reportage protocol shared with the UL and middle-semitic vaults). Regenerate with `python3 AIOS/scripts/build_facts.py` after any work that changes the numbers; don't recompute or quote counts from prose.
+
 ## Current state (as of 2026-10-24)
 
 Counts drift; recompute with `git ls-files <folder> | grep -c '\.md$'` (use `git ls-files`, not `find`, because the vault is iCloud-synced and a plain walk can hang).

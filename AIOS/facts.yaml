@@ -1,0 +1,23 @@
+# Machine-readable vault facts for outside agents. Regenerate: AIOS/scripts/build_facts.py
+vault: danayo
+language: Dan'a'yo (単亜語)
+hub: README.md
+counts:
+  characters: 3372  # characters/*.md; `X (char).md` files are characters, not words
+  words: 6546  # words/*.md, includes affix pages and single-character words
+  syllables: 903  # includes the Syllables.md index
+  chengyu: 241  # includes the grouping pages
+  lexipedia_pages: 64
+progress:
+  lessons_written: 3
+  lessons_planned: 20
+  grammar_chapters_with_english_mirror: 5
+key_pages:
+  grammar_index: grammar/単亜語之文法書.md
+  lesson_outline: lessons/lesson-outline.md
+  lexipedia_index: lexipedia/Lexipedia.md
+  swadesh: lexipedia/Swadesh.md
+  vault_structure: AIOS/vault-structure.md
+  memory_index: AIOS/memory-index.md
+source_record: none
+generated: 2026-10-29
