@@ -177,6 +177,9 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s two-sided, exchange-between-households sense.
 - <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage; the two-sided exchange between households, contrasted with [[婚姻]] (formal/legal) and [[結婚]] (the contract).
 - <ruby>[一夫一妻](../words/一夫一妻.md)<rt>ㄧㄊㄈㄜㄧㄊㄑㄝㄧ</rt></ruby>: monogamy.
+- <ruby>[嫁資](../words/嫁資.md)<rt>ㄍㄚㄐㄧㄜ</rt></ruby>: dowry — property the bride brings.
+- <ruby>[聘金](../words/聘金.md)<rt>ㄆㄧㄫㄍㄧㄇ</rt></ruby>: bride-price — betrothal gifts from the groom's family.
+- <ruby>[婚費](../words/婚費.md)<rt>ㄏㄛㄋㄈㄚㄧ</rt></ruby>: marriage expenses, wedding costs.
 - <ruby>[結婚礼](../words/結婚礼.md)<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby>: weddings — the marriage ceremony itself, alongside the act ([[結婚]]) and the exchange ([[嫁娶]]).
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
 - <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
@@ -187,6 +190,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[離婚](../words/離婚.md)<rt>ㄌㄝㄧㄏㄛㄋ</rt></ruby>: divorce.
 - <ruby>[独身](../words/独身.md)<rt>ㄉㄛㄎㄙㄧㄋ</rt></ruby>: unmarried, single.
 - <ruby>[寡婦](../words/寡婦.md)<rt>ㄍ⺢ㄅ⼜</rt></ruby>: widow.
+- <ruby>[鰥夫](../words/鰥夫.md)<rt>ㄍ⺢ㄇㄈㄜ</rt></ruby>: widower — the male pair of [[寡婦]]; see also [[鰥寡孤独]].
 - <ruby>[妻子](../words/妻子.md)<rt>ㄑㄝㄧㄐㄜ</rt></ruby>: wife and child(ren), one's family collectively.
 - <ruby>[嫡](../words/嫡.md)<rt>ㄉㄚㄎ</rt></ruby>: a legitimate wife — historically, the primary wife in a household that could include concubines.
 - <ruby>[妾](../words/妾.md)<rt>ㄑㄛㄆ</rt></ruby>: a concubine.
@@ -203,7 +207,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.
 
-**Not yet linked**: "dowry"/"bride-price," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement," "bride," "groom" and "monogamy" are resolved as of [[婚約]], [[新婦]], [[新郎]] and [[一夫一妻]] above.
+**Not yet linked**: "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement," "bride," "groom" and "monogamy" are resolved as of [[婚約]], [[新婦]], [[新郎]] and [[一夫一妻]] above.
 
 ## Family & Lineage (Collective Concepts)
 
@@ -269,4 +273,5 @@ The in-law words follow an Asian template rather than an English one. English "b
 - [[Society]] — group belonging beyond the family lives there; [[新人]] ("newcomer") and [[外人]]/[[本地]]/[[土著]] (stranger/local/native) all touch questions of who counts as "one of us" from the outside-the-family angle this page doesn't cover.
 
 **Idiomatic uses**:
+- [[鰥寡孤独]] — the four classes of those without family support (the widower, the widow, the orphan and the childless old), from Mencius; the standing phrase for the helpless in need of care.
 - [[骨肉]] — literally "flesh and bone," used for blood kinship itself: 骨肉之親 ("flesh-and-blood relatives"), 骨肉相残 ("blood relatives turning on each other") — the literal anatomical sense has receded almost entirely behind the kinship idiom in living usage.

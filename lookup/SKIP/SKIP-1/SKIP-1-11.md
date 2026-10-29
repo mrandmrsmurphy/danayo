@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 33
+size: 34
 tags: [lookup]
 
 ---
@@ -18,7 +18,7 @@ Left half has 11 strokes. Dominant components: 魚, 鳥, 角, 食, 馬.
 - [SKIP-1-11-7](lookup/SKIP/SKIP-1/SKIP-1-11-7.md): 観, 鯉
 - [SKIP-1-11-8](lookup/SKIP/SKIP-1/SKIP-1-11-8.md): 離, 鯖, 鯤, 鯨, 鹸, 麒
 - [SKIP-1-11-9](lookup/SKIP/SKIP-1/SKIP-1-11-9.md): 鰌, 鰐
-- [SKIP-1-11-10](lookup/SKIP/SKIP-1/SKIP-1-11-10.md): 鰭
+- [SKIP-1-11-10](lookup/SKIP/SKIP-1/SKIP-1-11-10.md): 鰭, 鰥
 - [SKIP-1-11-11](lookup/SKIP/SKIP-1/SKIP-1-11-11.md): ø
 - [SKIP-1-11-12](lookup/SKIP/SKIP-1/SKIP-1-11-12.md): 鱏, 鱗, 麟
 - [SKIP-1-11-13](lookup/SKIP/SKIP-1/SKIP-1-11-13.md): ø

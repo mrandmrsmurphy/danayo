@@ -650,6 +650,7 @@ tags: [lookup]
 [[../../characters/吠]] - barking DO IT
 644. [蟻 (char)](../../characters/蟻%20(char).md)
 645. [獺](../../characters/獺.md)
+646. [鰥](../../characters/鰥.md)
 
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 

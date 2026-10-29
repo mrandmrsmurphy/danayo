@@ -57,3 +57,4 @@ boundedness: 90
 - <ruby>[[食費]]<rt>ㄙㄧㄎㄈㄚㄧ</rt></ruby> "food expenses"
 - <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium" (費 alone is the abbreviation for it)
 - <ruby>[[費用]]<rt>ㄈㄚㄧ⼄ㄫ</rt></ruby> "expense; cost; fee"
+- <ruby>[[婚費]]<rt>ㄏㄛㄋㄈㄚㄧ</rt></ruby> "marriage expenses"

@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 150
+size: 151
 tags:
   - chengyu
 ---
@@ -188,3 +188,4 @@ views:
       note.注音: 81
 
 ```
+- <ruby>[鰥寡孤独](chengyu/鰥寡孤独.md)<rt>ㄍ⺢ㄇㄍ⺢ㄍㄛㄉㄛㄎ</rt></ruby> - the widowed, the childless, the orphaned and the alone

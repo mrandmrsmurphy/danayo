@@ -1,13 +1,13 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-10-03
-size: 561
+date-last-perfect: 2026-10-29
+size: 562
 tags: [lookup]
 ---
-**<ruby>先進<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
+**<ruby>先進<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
 
 <ruby>種類<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>:
-- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>九十<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>九十<rt>ㄎ⼜ㄙㄧㄆ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>十八<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四十<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
@@ -566,13 +566,14 @@ tags: [lookup]
 552. <ruby>[[魂 (char)|魂]]<rt>ㄏㄛㄋ</rt></ruby> - soul
 553. <ruby>[[魄]]<rt>ㄅㄚㄎ</rt></ruby> - yin soul, bodily spirit
 554. <ruby>[[鰭]]<rt>ㄍㄧㄜ</rt></ruby> - fish fin
-555. <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby> - scale (fish)
-556. <ruby>[[鳳]]<rt>ㄆㄨㄫ</rt></ruby> - phoenix
-557. <ruby>[[鹸 (char)|鹸]]<rt>ㄑㄝㄇ</rt></ruby> - base, alkali
-558. <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> - dethrone
-559. <ruby>[[黻]]<rt>ㄈㄨㄊ</rt></ruby> - 亞-pattern embroidery
-560. <ruby>[[黼]]<rt>ㄈㄨ</rt></ruby> - axe-pattern embroidery
-561. <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby> - tripod
+555. <ruby>[[鰥]]<rt>ㄍ⺢ㄇ</rt></ruby> - widower
+556. <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby> - scale (fish)
+557. <ruby>[[鳳]]<rt>ㄆㄨㄫ</rt></ruby> - phoenix
+558. <ruby>[[鹸 (char)|鹸]]<rt>ㄑㄝㄇ</rt></ruby> - base, alkali
+559. <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> - dethrone
+560. <ruby>[[黻]]<rt>ㄈㄨㄊ</rt></ruby> - 亞-pattern embroidery
+561. <ruby>[[黼]]<rt>ㄈㄨ</rt></ruby> - axe-pattern embroidery
+562. <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby> - tripod
 
 ## Base check
 ```base

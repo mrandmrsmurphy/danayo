@@ -151,6 +151,7 @@ boundedness: 90
 - <ruby>[[年金]]<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby> "pension"
 - <ruby>[[賞金]]<rt>ㄙ⼘ㄫㄍㄧㄇ</rt></ruby> "prize money"
 - <ruby>[[賞与金]]<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby> "bonus"
+- <ruby>[[聘金]]<rt>ㄆㄧㄫㄍㄧㄇ</rt></ruby> "bride-price"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

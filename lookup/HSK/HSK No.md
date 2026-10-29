@@ -1051,3 +1051,4 @@ views:
     columnSize:
       note.characters: 189
 ```
+[鰥](../../characters/鰥.md)

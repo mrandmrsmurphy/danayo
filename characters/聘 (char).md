@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[聘]]<rt>ㄆㄧㄫ</rt></ruby> "engage; betroth" (stand-in for 聘)
+- <ruby>[[聘金]]<rt>ㄆㄧㄫㄍㄧㄇ</rt></ruby> "bride-price"

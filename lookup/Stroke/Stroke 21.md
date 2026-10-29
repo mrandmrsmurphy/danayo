@@ -1,7 +1,7 @@
 ---
 stroke_count: 21
 date-last-perfect: 2026-10-03
-size: 16
+size: 17
 tags:
   - lookup
 ---
@@ -15,7 +15,7 @@ tags:
 - 1-6-15: <ruby>[[纏]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[艦]]<rt>ㄏㄚㄇ</rt></ruby>
 - 1-7-14: <ruby>[[躍]]<rt>⼘ㄎ</rt></ruby>
 - 1-10-11: <ruby>[[鶴 (char)|鶴]]<rt>ㄏㄚㄎ</rt></ruby>
-- 1-11-10: <ruby>[[鰭]]<rt>ㄍㄧㄜ</rt></ruby>
+- 1-11-10: <ruby>[[鰭]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[鰥]]<rt>ㄍ⺢ㄇ</rt></ruby>
 - 1-12-9: <ruby>[[顧]]<rt>ㄍㄛ</rt></ruby>
 - 1-15-6: <ruby>[[齦]]<rt>ㄎㄚㄋ</rt></ruby>
 - 2-6-15: <ruby>[[籃]]<rt>ㄌㄚㄇ</rt></ruby>

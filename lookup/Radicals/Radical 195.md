@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-05
-size: 17
+size: 18
 radical: 魚
 tags: [lookup]
 
@@ -40,10 +40,11 @@ tags: [lookup]
 
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin
+16. <ruby>[鰥](../../characters/鰥.md)<rt>ㄍ⺢ㄇ</rt></ruby> - widower
 
 ### +12 Strokes
-16. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
-17. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
+17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
+18. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
 
 ## Data check
 ```dataview

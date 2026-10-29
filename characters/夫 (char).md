@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[姉夫]]<rt>ㄐㄚㄈㄜ</rt></ruby> "elder sister's husband"
 - <ruby>[[夫兄]]<rt>ㄈㄜㄏ⼄ㄫ</rt></ruby> "husband's elder brother"
 - <ruby>[[夫弟]]<rt>ㄈㄜㄉㄝ</rt></ruby> "husband's younger brother"
+- <ruby>[[鰥夫]]<rt>ㄍ⺢ㄇㄈㄜ</rt></ruby> "widower"
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"
