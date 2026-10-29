@@ -2,14 +2,16 @@
 language: English
 type: lexipedia
 domain: Animals
-related_domains: []
+related_domains:
+  - "[[Food]]"
+  - "[[Body]]"
 status: complete
 date-last-perfect: 2026-09-19
 ---
 
 # Animals
 
-English folk taxonomy sorts the animal kingdom mostly by size and danger — "animal" vs. "bug" vs. "beast" vs. "monster." The classical Sinitic tradition Dan'a'yo inherits cuts the field along different lines entirely: an animacy axis broader than "animal" ([[生物]], "living thing," which also covers plants), a wild/tame axis carrying real moral weight rather than just a biological label ([[家畜]] vs. the pejorative [[畜生]], loaded with Buddhist rebirth cosmology), and an old fixed inventory of culturally load-bearing livestock (六畜, the "six domestic animals") that doesn't map onto the Western "farm animal" concept item-for-item. Modern Linnaean taxonomy ([[分類学]]) was grafted onto this older framework relatively recently in all four source languages, and Dan'a'yo resolves an ambiguity none of them bothered to — see Taxonomy below for how the eight-rank hierarchy gets a dedicated disambiguating suffix no source language uses.
+English folk taxonomy sorts the animal kingdom mostly by size and danger — "animal" vs. "bug" vs. "beast" vs. "monster." The classical Sinitic tradition Dan'a'yo inherits cuts the field along different lines entirely: an animacy axis broader than "animal" ([生物](../words/生物.md), "living thing," which also covers plants), a wild/tame axis carrying real moral weight rather than just a biological label ([家畜](../words/家畜.md) vs. the pejorative [畜生](../words/畜生.md), loaded with Buddhist rebirth cosmology), and an old fixed inventory of culturally load-bearing livestock (六畜, the "six domestic animals") that doesn't map onto the Western "farm animal" concept item-for-item. Modern Linnaean taxonomy ([分類学](../words/分類学.md)) was grafted onto this older framework relatively recently in all four source languages, and Dan'a'yo resolves an ambiguity none of them bothered to — see Taxonomy below for how the eight-rank hierarchy gets a dedicated disambiguating suffix no source language uses.
 
 ## Core Vocabulary (A1–A2)
 
@@ -26,11 +28,11 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 - <ruby>[蛇](../words/蛇.md)<rt>ㄊㄚ</rt></ruby>: snake.
 - <ruby>[老鼠](../words/老鼠.md)<rt>ㄌㄚㄨㄙ⼄</rt></ruby>: rat, mouse (generic).
 - <ruby>[鳥類](../words/鳥類.md)<rt>ㄑㄛㄨㄌㄨㄧ</rt></ruby>: bird, as a taxonomic class.
-- <ruby>[鳥](../words/鳥.md)<rt>ㄑㄛㄨ</rt></ruby>: bird (the plain, individual noun — contrast [[鳥類]] above, the class).
+- <ruby>[鳥](../words/鳥.md)<rt>ㄑㄛㄨ</rt></ruby>: bird (the plain, individual noun — contrast [鳥類](../words/鳥類.md) above, the class).
 - <ruby>[唳](../words/唳.md)<rt>ㄌ⼶</rt></ruby>: a bird's cry — almost always a crane's (鶴唳); survives mainly in the idiom 風聲鶴唳, "a state of extreme, self-generated paranoia."
 - <ruby>[啄](../words/啄.md)<rt>ㄊㄛㄎ</rt></ruby>: to peck at (啄木鳥, "woodpecker," literally "wood-pecking bird").
 - <ruby>[魚類](../words/魚類.md)<rt>⼄ㄌㄨㄧ</rt></ruby>: fish, as a taxonomic class.
-- <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [[魚類]] above, the class).
+- <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: fish (the plain, individual noun — contrast [魚類](../words/魚類.md) above, the class).
 - <ruby>[鮎](../words/鮎.md)<rt>ㄋㄝㄇ</rt></ruby>: a catfish, sheatfish in its original Chinese sense — Japanese uniquely reinterprets the same character for あゆ (ayu, "sweetfish"), an entirely different fish.
 - <ruby>[昆虫](../words/昆虫.md)<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>: insect, bug.
 - <ruby>[蛞蝓](../words/蛞蝓.md)<rt>ㄎ⺢ㄊ⼜ㄇ</rt></ruby>: a slug — the formal/biological term.
@@ -51,7 +53,7 @@ English folk taxonomy sorts the animal kingdom mostly by size and danger — "an
 
 ### Livestock — the Six Domestic Animals (六畜)
 
-Classical Sinitic culture organizes domesticated animals around a fixed traditional set rather than an open-ended "farm animal" category: horse, ox, sheep, chicken, dog, and pig. Dan'a'yo has a real word for all six: [[馬]], [[牛]], [[鶏]], [[犬]], [[豚]] above, plus:
+Classical Sinitic culture organizes domesticated animals around a fixed traditional set rather than an open-ended "farm animal" category: horse, ox, sheep, chicken, dog, and pig. Dan'a'yo has a real word for all six: [馬](../words/馬.md), [牛](../words/牛.md), [鶏](../words/鶏.md), [犬](../words/犬.md), [豚](../words/豚.md) above, plus:
 
 - <ruby>[綿羊](../words/綿羊.md)<rt>ㄇ⼶ㄋ·⼘ㄫ</rt></ruby>: sheep — literally "wool-sheep," the stand-in compound that legitimizes the bound character 羊.
 - <ruby>[山羊](../words/山羊.md)<rt>ㄙㄚㄋ·⼘ㄫ</rt></ruby>: goat — literally "mountain-sheep/goat"; 羊 itself is ambiguous between "sheep" and "goat," resolved by the 綿-/山- prefix in each compound (see Semantic Range Notes for a striking Korean/Vietnamese false-friend trap hiding in this word).
@@ -72,7 +74,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby>: a bat.
 - <ruby>[旅鼠](../words/旅鼠.md)<rt>ㄌ⼄ㄙ⼄</rt></ruby>: a lemming.
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
-- <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [[堅魚]].
+- <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [堅魚](../words/堅魚.md).
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
 - <ruby>[猛禽](../words/猛禽.md)<rt>ㄇㄚㄫㄎㄧㄇ</rt></ruby>: bird of prey.
 - <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.
@@ -80,7 +82,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
 - <ruby>[就鳥](../words/就鳥.md)<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby>: a vulture.
 - <ruby>[鷹](../words/鷹.md)<rt>ㄧㄫ</rt></ruby>: a hawk.
-- <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [[海就]], without that word's specifically maritime sense.
+- <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [海就](../words/海就.md), without that word's specifically maritime sense.
 - <ruby>[鳶](../words/鳶.md)<rt>⼶ㄋ</rt></ruby>: a kite — the bird of prey (黒鳶, "black kite"); secondarily, the flying toy.
 - <ruby>[九官鳥](../words/九官鳥.md)<rt>ㄎ⼜ㄍ⺢ㄋㄑㄛㄨ</rt></ruby>: common hill myna.
 - <ruby>[企鵝](../words/企鵝.md)<rt>ㄎㄝㄚ</rt></ruby>: penguin.
@@ -94,7 +96,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 
 ### Insects, Arachnids & Small Creatures
 
-Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] itself literally means "insect+worm+snake" rather than the strict biological definition of Insecta (which would exclude the spider below).
+Folk-classified together here as "small creepy-crawlies," the way [昆虫](../words/昆虫.md) itself literally means "insect+worm+snake" rather than the strict biological definition of Insecta (which would exclude the spider below).
 
 - <ruby>[蜂](../words/蜂.md)<rt>ㄈㄛㄫ</rt></ruby>: bee, wasp, hornet.
 - <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey.
@@ -104,7 +106,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[蝉](../words/蝉.md)<rt>ㄙㄝㄋ</rt></ruby>: cicada.
 - <ruby>[寒蝉](../words/寒蝉.md)<rt>ㄏㄚㄋㄙㄝㄋ</rt></ruby>: winter cicada — also used figuratively for someone who dares not speak (a winter cicada being unusual/silent out of season).
 - <ruby>[蜘蛛](../words/蜘蛛.md)<rt>ㄐㄧㄐㄨ</rt></ruby>: spider — an arachnid, not an insect, but grouped with this set in ordinary usage rather than with reptiles/fish below.
-- <ruby>[蝎](../words/蝎.md)<rt>ㄏ⼶ㄊ</rt></ruby>: a scorpion — another arachnid, grouped alongside [[蜘蛛]].
+- <ruby>[蝎](../words/蝎.md)<rt>ㄏ⼶ㄊ</rt></ruby>: a scorpion — another arachnid, grouped alongside [蜘蛛](../words/蜘蛛.md).
 - <ruby>[螳螂](../words/螳螂.md)<rt>ㄉㄚㄫㄌㄚㄫ</rt></ruby>: mantis.
 - <ruby>[胡蝶](../words/胡蝶.md)<rt>ㄏㄛㄨㄉㄝㄆ</rt></ruby>: butterfly — the stand-in compound that legitimizes the bound character 蝶.
 - <ruby>[蛍](../words/蛍.md)<rt>ㄏㄧㄫ</rt></ruby> / <ruby>[蛍火虫](../words/蛍火虫.md)<rt>ㄏㄧㄫㄏ⺢ㄐㄨㄫ</rt></ruby>: firefly, glow-worm — bare and explicitly bug-suffixed forms of the same word.
@@ -140,13 +142,13 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
 - <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby>: dolphin — literally "sea pig."
 - <ruby>[海象](../words/海象.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: walrus — literally "sea elephant."
-- <ruby>[虎鯨](../words/虎鯨.md)<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby>: an orca, killer whale (Orcinus orca) — the "tiger whale", named for its ferocity; the standard Chinese term, with Japanese using シャチ instead; beside [[海豚]] and [[海象]].
+- <ruby>[虎鯨](../words/虎鯨.md)<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby>: an orca, killer whale (Orcinus orca) — the "tiger whale", named for its ferocity; the standard Chinese term, with Japanese using シャチ instead; beside [海豚](../words/海豚.md) and [海象](../words/海象.md).
 - <ruby>[海馬](../words/海馬.md)<rt>ㄏㄚㄧㄇㄚ</rt></ruby>: seahorse.
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.
 - <ruby>[鱏](../words/鱏.md)<rt>ㄏㄧㄇ</rt></ruby>: a ray, skate.
 - <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
-- <ruby>[尊魚](../words/尊魚.md)<rt>ㄐㄛㄋ·⼄</rt></ruby>: trout — like [[堅魚]], a 代用字 form: the phonetic 尊 stands for the rare 鱒.
+- <ruby>[尊魚](../words/尊魚.md)<rt>ㄐㄛㄋ·⼄</rt></ruby>: trout — like [堅魚](../words/堅魚.md), a 代用字 form: the phonetic 尊 stands for the rare 鱒.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
@@ -154,10 +156,10 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 ### Large & Notable Wild Mammals
 
 - <ruby>[虎](../words/虎.md)<rt>ㄏㄛ</rt></ruby>: tiger.
-- <ruby>[獅子](../words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>: lion — also carries a secondary "bodhisattva" sense in this vault's own data (the lion is a recurring Buddhist iconographic symbol, e.g. 獅子吼 "lion's roar" for the Buddha's teaching), and shares an alias, 僧伽羅, with [[獅子国]] ("lion country," Sri Lanka).
+- <ruby>[獅子](../words/獅子.md)<rt>ㄙㄧㄜㄐㄜ</rt></ruby>: lion — also carries a secondary "bodhisattva" sense in this vault's own data (the lion is a recurring Buddhist iconographic symbol, e.g. 獅子吼 "lion's roar" for the Buddha's teaching), and shares an alias, 僧伽羅, with [獅子国](../words/獅子国.md) ("lion country," Sri Lanka).
 - <ruby>[熊](../words/熊.md)<rt>ㄨㄫ</rt></ruby>: bear.
-- <ruby>[袋熊](../words/袋熊.md)<rt>ㄉㄚㄧㄨㄫ</rt></ruby>: a wombat — the "bag-bear", named for its pouch; kept distinct from the koala [[樹袋熊]], with which it is sometimes loosely confused.
-- <ruby>[樹袋熊](../words/樹袋熊.md)<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby>: a koala — the "tree bag-bear", the arboreal counterpart of [[袋熊]] (Japanese コアラ and Korean 코알라 are loanwords from English).
+- <ruby>[袋熊](../words/袋熊.md)<rt>ㄉㄚㄧㄨㄫ</rt></ruby>: a wombat — the "bag-bear", named for its pouch; kept distinct from the koala [樹袋熊](../words/樹袋熊.md), with which it is sometimes loosely confused.
+- <ruby>[樹袋熊](../words/樹袋熊.md)<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby>: a koala — the "tree bag-bear", the arboreal counterpart of [袋熊](../words/袋熊.md) (Japanese コアラ and Korean 코알라 are loanwords from English).
 - <ruby>[北極熊](../words/北極熊.md)<rt>ㄅㄨㄎㄍㄧㄎ·ㄨㄫ</rt></ruby> / <ruby>[白熊](../words/白熊.md)<rt>ㄅㄚㄎ·ㄨㄫ</rt></ruby>: polar bear — two independently attested synonyms ("arctic bear" and "white bear").
 - <ruby>[狼](../words/狼.md)<rt>ㄌㄚㄫ</rt></ruby>: wolf.
 - <ruby>[鹿](../words/鹿.md)<rt>ㄌㄛㄎ</rt></ruby>: deer.
@@ -170,7 +172,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[河馬](../words/河馬.md)<rt>ㄏㄚ·ㄇㄚ</rt></ruby>: hippopotamus.
 - <ruby>[狐狸](../words/狐狸.md)<rt>ㄏㄛㄌㄜ</rt></ruby>: fox — the stand-in compound that legitimizes the bound character 狐.
 - <ruby>[北極狐](../words/北極狐.md)<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> / <ruby>[白狐](../words/白狐.md)<rt>ㄅㄚㄎㄏㄛ</rt></ruby>: arctic fox — two independently attested synonyms, matching the same doubling pattern as the polar bear pair above.
-- <ruby>[狸](../words/狸.md)<rt>ㄌㄜ</rt></ruby>: a tanuki, raccoon dog — a real, distinct animal, not to be confused with [[狐狸]]'s compound "fox" sense above despite sharing the same character.
+- <ruby>[狸](../words/狸.md)<rt>ㄌㄜ</rt></ruby>: a tanuki, raccoon dog — a real, distinct animal, not to be confused with [狐狸](../words/狐狸.md)'s compound "fox" sense above despite sharing the same character.
 - <ruby>[海狸](../words/海狸.md)<rt>ㄏㄚㄧㄌㄜ</rt></ruby>: a beaver — extending 狸's generic "small furry mammal" sense yet again, a third distinct animal sharing the character.
 - <ruby>[豹猫](../words/豹猫.md)<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby>: leopard cat (*Prionailurus bengalensis*).
 - <ruby>[貒](../words/貒.md)<rt>ㄊ⺢ㄋ</rt></ruby> / <ruby>[野猪](../words/野猪.md)<rt>⼘ㄐㄛ</rt></ruby>: wild boar — two independently attested synonyms.
@@ -178,7 +180,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 
 ### Rodents
 
-- <ruby>[熊鼠](../words/熊鼠.md)<rt>ㄨㄫㄙ⼄</rt></ruby>: the black rat / roof rat (*Rattus rattus*) specifically — literally "bear-rat," distinct from generic [[老鼠]] above.
+- <ruby>[熊鼠](../words/熊鼠.md)<rt>ㄨㄫㄙ⼄</rt></ruby>: the black rat / roof rat (*Rattus rattus*) specifically — literally "bear-rat," distinct from generic [老鼠](../words/老鼠.md) above.
 - <ruby>[家鼠](../words/家鼠.md)<rt>ㄍㄚㄙ⼄</rt></ruby>: house mouse, house rat, commensal rodent.
 - <ruby>[小鼠](../words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>: mouse.
 - <ruby>[田鼠](../words/田鼠.md)<rt>ㄉㄝㄋㄙ⼄</rt></ruby>: vole, field mouse.
@@ -211,7 +213,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[交尾](../words/交尾.md)<rt>ㄍ⼄ㄨㄇㄨㄧ</rt></ruby>: to mate, copulate (of animals).
 - <ruby>[犬吠](../words/犬吠.md)<rt>ㄎ⼔ㄋㄈㄝ</rt></ruby> / <ruby>[狗吠](../words/狗吠.md)<rt>ㄍㄛㄨㄈㄝ</rt></ruby>: to bark — two independently attested synonyms.
 - <ruby>[狗肉](../words/狗肉.md)<rt>ㄍㄛㄨㄋㄨㄎ</rt></ruby>: dog meat (used as an insult in some contexts).
-- <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [[獵]] below.
+- <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — a near-synonym of [獵](../words/獵.md) below.
 - <ruby>[禁獵](../words/禁獵.md)<rt>ㄍㄧㄇㄌㄛㄆ</rt></ruby>: a hunting ban.
 - <ruby>[吼](../words/吼.md)<rt>ㄏㄛㄨ</rt></ruby>: to roar, howl.
 - <ruby>[蟄](../words/蟄.md)<rt>ㄑㄧㄆ</rt></ruby>: to hibernate.
@@ -235,7 +237,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[金角](../words/金角.md)<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby>: Jinjiao, "Golden Horn," the elder of the two demon kings Golden Horn and Silver Horn in *Journey to the West*.
 - <ruby>[沙悟浄](../words/沙悟浄.md)<rt>ㄙㄚㄛㄐㄝㄫ</rt></ruby>: Sha Wujing, the sand-monk river demon of Journey to the West.
 - <ruby>[三猿](../words/三猿.md)<rt>ㄙㄚㄇ·ㄛㄋ</rt></ruby>: the "three wise monkeys" (see-no-evil, hear-no-evil, speak-no-evil) — a proverbial image, not literally a species.
-- <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([[妖怪]]-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
+- <ruby>[妖精](../words/妖精.md)<rt>⼘ㄨㄐㄝㄫ</rt></ruby>: witch, fairy, nature-spirit — closer to a shapeshifting East Asian folklore spirit ([妖怪](../words/妖怪.md)-adjacent) than the Tolkien-derived "elf" the English gloss suggests.
 - <ruby>[妖怪](../words/妖怪.md)<rt>⼘ㄨㄍ⺢ㄧ</rt></ruby>: a yōkai — the broad Japanese folklore category of supernatural creatures, spirits, and monsters that 妖精 above sits within.
 - <ruby>[幽鬼](../words/幽鬼.md)<rt>⼜ㄛㄍㄨㄧ</rt></ruby>: a poltergeist, ghost.
 - <ruby>[天狗](../words/天狗.md)<rt>ㄊㄝㄋㄍㄛㄨ</rt></ruby>: a tengu.
@@ -250,7 +252,7 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[僵死](../words/僵死.md)<rt>ㄍ⼘ㄫㄙㄧㄜ</rt></ruby>: jiangshi, the reanimated "hopping corpse" of Chinese folklore — a genuinely East Asian creature, not the Western zombie, despite the English gloss's shorthand.
 - <ruby>[一角獣](../words/一角獣.md)<rt>ㄧㄊㄍㄛㄎㄙ⼜</rt></ruby>: unicorn — literally "one-horn beast," another transparent calque of a Western figure already in real cross-linguistic use (Japanese いっかくじゅう, Mandarin/Cantonese 獨角獸/独角兽), the same category as 吸血鬼 below rather than a Dan'a'yo-invented fantasy word. Vietnamese notably reuses its own native *kỳ lân* (qilin/kirin) for this concept instead of calquing — a real terminological conflation, not an error.
 
-**Note on the fantasy genre**: Dan'a'yo has no coined words for troll, orc, gnome, or werewolf — these belong to a Western/Northern European mythological inventory with no organic CJKV counterpart, and a learner wanting them would reach for a transliteration rather than a native Dan'a'yo coinage. "Vampire," "zombie," and "unicorn" are the exception, not the rule: [[吸血鬼]], [[僵死]], and [[一角獣]] all already exist, but none is really a counterexample — 吸血鬼 and 一角獣 are transparent calques already used across the sphere for the *foreign* figure (much like [[怪獣]] "kaiju" below), and 僵死/jiangshi is not the Western zombie at all but a distinct, older Chinese folk creature that only gets glossed "zombie" for convenience.
+**Note on the fantasy genre**: Dan'a'yo has no coined words for troll, orc, gnome, or werewolf — these belong to a Western/Northern European mythological inventory with no organic CJKV counterpart, and a learner wanting them would reach for a transliteration rather than a native Dan'a'yo coinage. "Vampire," "zombie," and "unicorn" are the exception, not the rule: [吸血鬼](../words/吸血鬼.md), [僵死](../words/僵死.md), and [一角獣](../words/一角獣.md) all already exist, but none is really a counterexample — 吸血鬼 and 一角獣 are transparent calques already used across the sphere for the *foreign* figure (much like [怪獣](../words/怪獣.md) "kaiju" below), and 僵死/jiangshi is not the Western zombie at all but a distinct, older Chinese folk creature that only gets glossed "zombie" for convenience.
 
 ### Habitats & Group Behavior
 
@@ -275,21 +277,21 @@ Folk-classified together here as "small creepy-crawlies," the way [[昆虫]] its
 - <ruby>[科階](../words/科階.md)<rt>ㄎ⺢ㄍ⼶ㄧ</rt></ruby>: family.
 - <ruby>[属階](../words/属階.md)<rt>ㄐㄛㄎㄍ⼶ㄧ</rt></ruby>: genus.
 - <ruby>[種階](../words/種階.md)<rt>ㄐㄛㄫㄍ⼶ㄧ</rt></ruby>: species (the fundamental/lowest standard rank).
-- <ruby>[物種](../words/物種.md)<rt>ㄇㄨㄊㄐㄛㄫ</rt></ruby>: species (the organism-kind itself, as against [[種階]], the rank it occupies).
+- <ruby>[物種](../words/物種.md)<rt>ㄇㄨㄊㄐㄛㄫ</rt></ruby>: species (the organism-kind itself, as against [種階](../words/種階.md), the rank it occupies).
 
-Each rank word is built by suffixing [[階]] ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [[目]] was already taken by "eye."
+Each rank word is built by suffixing [階](../characters/階.md) ("level, tier") onto the bare rank character — a purely Dan'a'yo-internal disambiguation not found in any of the four source languages, which rely on context alone to read (for instance) bare 目 as "order" rather than "eye." The bare character remains a commonly understood abbreviation of the full 階-suffixed word (see Semantic Range Notes); Dan'a'yo needed the fuller forms as genuine standalone dictionary entries specifically because bare [目](../words/目.md) was already taken by "eye."
 
-A concrete worked example of [[目階]] ("order") in use: <ruby>[霊長類](../words/霊長類.md)<rt>ㄌㄝㄫㄐㄚㄫㄌㄨㄧ</rt></ruby>, "primate," names the real biological order humans, monkeys, and apes belong to — the taxonomic rank word plus this real order-name together demonstrate the full [[目階]] system, not just an abstract disambiguation exercise.
+A concrete worked example of [目階](../words/目階.md) ("order") in use: <ruby>[霊長類](../words/霊長類.md)<rt>ㄌㄝㄫㄐㄚㄫㄌㄨㄧ</rt></ruby>, "primate," names the real biological order humans, monkeys, and apes belong to — the taxonomic rank word plus this real order-name together demonstrate the full [目階](../words/目階.md) system, not just an abstract disambiguation exercise.
 
 ### The Three Domains of Life
 
-One rank below [[域階]] ("Domain") itself, Dan'a'yo already has real words for all three domains — no suffix needed, since each is already an unambiguous, independently attested term:
+One rank below [域階](../words/域階.md) ("Domain") itself, Dan'a'yo already has real words for all three domains — no suffix needed, since each is already an unambiguous, independently attested term:
 
 - <ruby>[細菌](../words/細菌.md)<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>: bacteria (Domain Bacteria).
 - <ruby>[古菌](../words/古菌.md)<rt>ㄍㄛㄍ⼜ㄋ</rt></ruby>: archaea (Domain Archaea) — literally "ancient germ."
 - <ruby>[真核](../words/真核.md)<rt>ㄐㄧㄋㄏㄚㄎ</rt></ruby>: eukarya, eukaryotic (Domain Eukarya) — literally "true-nucleus," a bound root rather than a free word in any source language (see Semantic Range Notes).
 
-### Additional Vocabulary (backfilled 2026-10-10)
+### Additional Vocabulary
 
 - <ruby>[烏賊](../words/烏賊.md)<rt>ㄛㄐㄨㄎ</rt></ruby>: squid; cuttlefish.
 - <ruby>[烏鳥](../words/烏鳥.md)<rt>ㄛㄑㄛㄨ</rt></ruby>: crow; raven.
@@ -347,14 +349,16 @@ One rank below [[域階]] ("Domain") itself, Dan'a'yo already has real words for
 
 **怪物 vs. 妖物 split the English catch-all "monster" by the nature of the threat.** 怪物 names something uncanny or mysterious — its strangeness is the point. 妖物 specifically names a bewitching, shapeshifting creature (etymologically linked to 妖精 above) — its danger lies in deception and transformation, not mere strangeness. English "monster" flattens this distinction that Dan'a'yo, following its sources, keeps.
 
-**A single pattern recurs across this whole domain: the everyday animal name is almost never the bare character alone.** 羊, 猿, 象, 狐, 蝶, 蛙, and 貝 are all bound morphemes on their own character pages — each requires its own stand-in compound ([[綿羊]], [[猿猩]], [[大象]], [[狐狸]], [[胡蝶]], [[青蛙]], [[貝類]] respectively) to function as an independent Dan'a'yo word, the same legitimizing mechanism this vault's `stand_in` field tracks throughout the character system generally. This isn't a gap so much as the ordinary shape of common-animal vocabulary in this domain — a learner should expect most animal names to be two characters, not one.
+**A single pattern recurs across this whole domain: the everyday animal name is almost never the bare character alone.** 羊, 猿, 象, 狐, 蝶, 蛙, and 貝 are all bound morphemes on their own character pages — each requires its own stand-in compound ([綿羊](../words/綿羊.md), [猿猩](../words/猿猩.md), [大象](../words/大象.md), [狐狸](../words/狐狸.md), [胡蝶](../words/胡蝶.md), [青蛙](../words/青蛙.md), [貝類](../words/貝類.md) respectively) to function as an independent Dan'a'yo word, the same legitimizing mechanism this vault's `stand_in` field tracks throughout the character system generally. This isn't a gap so much as the ordinary shape of common-animal vocabulary in this domain — a learner should expect most animal names to be two characters, not one.
 
-**山羊 ("goat") hides a genuine false-friend trap worth knowing explicitly.** 羊 alone is ambiguous between "sheep" and "goat" in Dan'a'yo, as in its Sinitic sources, so [[綿羊]] and [[山羊]] disambiguate the two the same way Mandarin, Cantonese, and Japanese do — and in all three of those languages, plus Dan'a'yo itself, 山羊's compositional reading really does mean "domestic goat." Korean and Vietnamese break the pattern: the exact same compositional reading (산양 in Korean, sơn dương in Vietnamese) instead names a wild goat-antelope — the long-tailed goral and the serow, respectively — while the domestic goat is a completely unrelated native word in each (염소, dê). [[山羊]]'s own `korean`/`vietnamese` fields store the real domestic-goat words for this reason, even though `kwin` is still technically true: Dan'a'yo's own coined reading matches real Sino-Korean 산양 perfectly in *sound*, just not in *referent*.
+**山羊 ("goat") hides a genuine false-friend trap worth knowing explicitly.** 羊 alone is ambiguous between "sheep" and "goat" in Dan'a'yo, as in its Sinitic sources, so [綿羊](../words/綿羊.md) and [山羊](../words/山羊.md) disambiguate the two the same way Mandarin, Cantonese, and Japanese do — and in all three of those languages, plus Dan'a'yo itself, 山羊's compositional reading really does mean "domestic goat." Korean and Vietnamese break the pattern: the exact same compositional reading (산양 in Korean, sơn dương in Vietnamese) instead names a wild goat-antelope — the long-tailed goral and the serow, respectively — while the domestic goat is a completely unrelated native word in each (염소, dê). [山羊](../words/山羊.md)'s own `korean`/`vietnamese` fields store the real domestic-goat words for this reason, even though `kwin` is still technically true: Dan'a'yo's own coined reading matches real Sino-Korean 산양 perfectly in *sound*, just not in *referent*.
 
-**The taxonomy rank words ([[域階]] through [[種階]]) are a deliberate, uniform coining decision, not organic vocabulary.** Every rank is built the same way — bare rank character + [[階]] ("level") — specifically to avoid the ambiguity real CJKV taxonomy tolerates via context alone (bare 目 reads as "order" in a taxonomy chart and "eye" everywhere else; Dan'a'yo instead keeps [[目]] "eye" and [[目階]] "order" permanently distinct). The four source languages mostly agree on the underlying bare-character terms (界/門/綱/科/属/種 read compositionally in Mandarin, Cantonese, Japanese, and often Korean), with two systematic exceptions worth remembering: Japanese borrows English "domain" outright as ドメイン rather than using 域 at all, and Vietnamese substitutes native words for five of the eight ranks (ngành, lớp, bộ, họ, chi, loài) rather than reading their Sino-Vietnamese equivalents — most strikingly for [[目階]] "order," where real Vietnamese taxonomy uses an entirely different character, [[部]] ("bộ"), instead of 目.
+**The taxonomy rank words ([域階](../words/域階.md) through [種階](../words/種階.md)) are a deliberate, uniform coining decision, not organic vocabulary.** Every rank is built the same way — bare rank character + [階](../characters/階.md) ("level") — specifically to avoid the ambiguity real CJKV taxonomy tolerates via context alone (bare 目 reads as "order" in a taxonomy chart and "eye" everywhere else; Dan'a'yo instead keeps [目](../words/目.md) "eye" and [目階](../words/目階.md) "order" permanently distinct). The four source languages mostly agree on the underlying bare-character terms (界/門/綱/科/属/種 read compositionally in Mandarin, Cantonese, Japanese, and often Korean), with two systematic exceptions worth remembering: Japanese borrows English "domain" outright as ドメイン rather than using 域 at all, and Vietnamese substitutes native words for five of the eight ranks (ngành, lớp, bộ, họ, chi, loài) rather than reading their Sino-Vietnamese equivalents — most strikingly for [目階](../words/目階.md) "order," where real Vietnamese taxonomy uses an entirely different character, [部](../characters/部%20(char).md) ("bộ"), instead of 目.
 
-**The three domains of life ([[細菌]], [[古菌]], [[真核]]) needed no 階-suffixing at all**, unlike the eight ranks above — each is already an unambiguous standalone term with no competing sense to collide with. [[古菌]] is a small cross-linguistic success story: Dan'a'yo's compositional coinage happens to land on 古菌/고균, the *currently preferred* modern term in both Chinese and Korean science (displacing the older 古細菌/고세균) — though Japanese still holds onto 古細菌 rather than bare 古菌. [[真核]] is the opposite case: a bound root with no free-standing form in any of the four languages (the full technical term is always 真核生物/真核細胞-style), and Vietnamese abandons the Sino-Vietnamese reading of 真核 altogether in favor of nhân thực, built from different characters in the reverse order.
+**The three domains of life ([細菌](../words/細菌.md), [古菌](../words/古菌.md), [真核](../words/真核.md)) needed no 階-suffixing at all**, unlike the eight ranks above — each is already an unambiguous standalone term with no competing sense to collide with. [古菌](../words/古菌.md) is a small cross-linguistic success story: Dan'a'yo's compositional coinage happens to land on 古菌/고균, the *currently preferred* modern term in both Chinese and Korean science (displacing the older 古細菌/고세균) — though Japanese still holds onto 古細菌 rather than bare 古菌. [真核](../words/真核.md) is the opposite case: a bound root with no free-standing form in any of the four languages (the full technical term is always 真核生物/真核細胞-style), and Vietnamese abandons the Sino-Vietnamese reading of 真核 altogether in favor of nhân thực, built from different characters in the reverse order.
 
 ## See Also
 
-**Related domains**: none of this vault's other domain pages are migrated to the point of reciprocating yet. **Food** *(not yet migrated — still a flat Rosenfelder word list)* would naturally connect through livestock-as-food vocabulary (家畜, 豚, 鶏, etc.); **Body** *(likewise unmigrated)* would connect through animal anatomy terms once either page is built out.
+**Related domains**:
+- [[Food]] — livestock-as-food vocabulary (家畜, 豚, 鶏, etc.).
+- [[Body]] — animal anatomy terms.

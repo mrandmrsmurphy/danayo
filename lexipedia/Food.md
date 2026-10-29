@@ -5,6 +5,7 @@ domain: Food
 related_domains:
   - "[[Plants]]"
   - "[[Sensation]]"
+  - "[[Animals]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

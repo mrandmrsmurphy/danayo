@@ -6,6 +6,7 @@ related_domains:
   - "[[Love]]"
   - "[[Life]]"
   - "[[Physical]]"
+  - "[[Animals]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---
