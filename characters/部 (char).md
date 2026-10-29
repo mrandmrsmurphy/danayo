@@ -73,3 +73,4 @@ boundedness: 90
 - <ruby>[[全部]]<rt>ㄐ⼔ㄋㄅㄛㄨ</rt></ruby> "entirety; everything"
 - <ruby>[[部位]]<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby> "region, site"
 - <ruby>[[部品]]<rt>ㄅㄛㄨ·ㄆㄨㄇ</rt></ruby> "part, component"
+- <ruby>[[部下]]<rt>ㄅㄛㄨㄏㄚ</rt></ruby> "subordinate"

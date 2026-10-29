@@ -79,3 +79,4 @@ boundedness: 80
 - <ruby>[[昨年]]<rt>ㄐㄚㄎㄋㄝㄋ</rt></ruby> "last year"
 - <ruby>[[来年]]<rt>ㄌㄚㄧㄋㄝㄋ</rt></ruby> "next year"
 - <ruby>[[青年]]<rt>ㄑㄝㄫㄋㄝㄋ</rt></ruby> "youth; young man"
+- <ruby>[[年金]]<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby> "pension"

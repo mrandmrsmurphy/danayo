@@ -53,6 +53,7 @@ boundedness: 80
 - <ruby>[[贈与]]<rt>ㄐㄜㄫ⼄</rt></ruby> "donate, present, bestow"
 - <ruby>[[授与]]<rt>ㄙ⼜⼄</rt></ruby> "confer, grant"
 - <ruby>[[与格]]<rt>⼄ㄍㄚㄎ</rt></ruby> "dative case"
+- <ruby>[[賞与金]]<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby> "bonus"
 
 ## Derived Characters
 - <ruby>[[挙 (char)|挙]]<rt>ㄍ⼄</rt></ruby> "raise"

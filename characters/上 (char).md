@@ -77,6 +77,7 @@ boundedness: 70
 - <ruby>[[海上]]<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby> "maritime; on the sea"
 - <ruby>[[長上]]<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby> "elders and superiors"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
+- <ruby>[[上司]]<rt>ㄙ⼘ㄫㄙㄚ</rt></ruby> "boss"
 
 ## Chengyu
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"

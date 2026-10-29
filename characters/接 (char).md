@@ -66,3 +66,4 @@ boundedness: 90
 - <ruby>[[迎接]]<rt>⼶ㄫㄐㄛㄆ</rt></ruby> "to greet, welcome, receive, meet"
 - <ruby>[[接頭辞]]<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby> "prefix; verbal prefix"
 - <ruby>[[溶接]]<rt>⼄ㄫㄐㄛㄆ</rt></ruby> "welding"
+- <ruby>[[面接]]<rt>ㄇ⼶ㄋㄐㄛㄆ</rt></ruby> "interview"

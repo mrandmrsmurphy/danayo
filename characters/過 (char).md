@@ -64,3 +64,5 @@ boundedness: 90
 - <ruby>[[過失]]<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby> "fault, error, negligence"
 - <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> "oversensitive, allergic, hypersensitive"
 - <ruby>[[過程]]<rt>ㄍ⺢ㄉㄧㄫ</rt></ruby> "a process"
+- <ruby>[[超過勤務]]<rt>ㄊㄚㄨㄍ⺢ㄍㄧㄋㄇㄨ</rt></ruby> "overtime"
+- <ruby>[[超過]]<rt>ㄊㄚㄨㄍ⺢</rt></ruby> "excess"

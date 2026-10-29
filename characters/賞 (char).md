@@ -51,6 +51,8 @@ boundedness: 90
 ## Words
 - <ruby>[[賞]]<rt>ㄙ⼘ㄫ</rt></ruby> "reward" (stand-in for 賞)
 - <ruby>[[受賞]]<rt>ㄙ⼜ㄙ⼘ㄫ</rt></ruby> "win an award"
+- <ruby>[[賞金]]<rt>ㄙ⼘ㄫㄍㄧㄇ</rt></ruby> "prize money"
+- <ruby>[[賞与金]]<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby> "bonus"
 
 ## Chengyu
 - <ruby>[[論功行賞]]<rt>ㄌㄛㄋㄍㄛㄫㄏㄚㄫㄙ⼘ㄫ</rt></ruby> "meritocracy"

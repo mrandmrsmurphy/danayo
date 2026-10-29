@@ -58,6 +58,7 @@ boundedness: 70
 - <ruby>[[番号]]<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby> "number; code"
 - <ruby>[[週番]]<rt>ㄐㄨㄛㄈㄚㄋ</rt></ruby> "weekly duty"
 - <ruby>[[原子番号]]<rt>⼔ㄋㄐㄜㄈㄚㄋㄏㄚㄨ</rt></ruby> "atomic number"
+- <ruby>[[当番]]<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby> "duty turn"
 
 ## Derived Characters
 - <ruby>[[翻 (char)|翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip"

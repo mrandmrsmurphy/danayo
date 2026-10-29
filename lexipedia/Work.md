@@ -51,7 +51,11 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[雇員](../words/雇員.md)<rt>ㄎㄛㄨㄋ</rt></ruby>: employee.
 - <ruby>[服務員](../words/服務員.md)<rt>ㄅㄨㄎㄇㄨㄨㄋ</rt></ruby>: a server, waiter — a worker whose job is serving customers (the everyday Mandarin term, 服務 "service" + 員 "personnel").
 - <ruby>[弟子](../words/弟子.md)<rt>ㄉㄝㄐㄜ</rt></ruby>: apprentice, disciple.
+- <ruby>[実習生](../words/実習生.md)<rt>ㄙㄧㄊㄙㄜㄆㄙㄚㄫ</rt></ruby>: trainee, intern.
 - <ruby>[同僚](../words/同僚.md)<rt>ㄉㄛㄫㄌ⼄ㄨ</rt></ruby>: a colleague, coworker.
+- <ruby>[上司](../words/上司.md)<rt>ㄙ⼘ㄫㄙㄚ</rt></ruby>: boss, direct superior.
+- <ruby>[社長](../words/社長.md)<rt>ㄙ⼘ㄐㄚㄫ</rt></ruby>: company president.
+- <ruby>[部下](../words/部下.md)<rt>ㄅㄛㄨㄏㄚ</rt></ruby>: subordinate.
 
 ### Workplaces
 
@@ -90,6 +94,17 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[辦理](../words/辦理.md)<rt>ㄅㄚㄋㄌㄧ</rt></ruby>: to manage, arrange, run.
 - <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
 - <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
+- <ruby>[実習](../words/実習.md)<rt>ㄙㄧㄊㄙㄜㄆ</rt></ruby>: practical training, internship.
+- <ruby>[当番](../words/当番.md)<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby>: one's turn on duty, duty rotation.
+- <ruby>[通勤](../words/通勤.md)<rt>ㄊㄛㄫㄍㄧㄋ</rt></ruby>: to commute to work.
+- <ruby>[勤務](../words/勤務.md)<rt>ㄍㄧㄋㄇㄨ</rt></ruby>: duty, work at a post.
+- <ruby>[超過](../words/超過.md)<rt>ㄊㄚㄨㄍ⺢</rt></ruby>: excess, to exceed.
+- <ruby>[超過勤務](../words/超過勤務.md)<rt>ㄊㄚㄨㄍ⺢ㄍㄧㄋㄇㄨ</rt></ruby>: overtime work; short form 超勤.
+- <ruby>[解雇](../words/解雇.md)<rt>ㄍ⼘ㄧㄎㄛ</rt></ruby>: to dismiss (an employee), to fire.
+- <ruby>[昇進](../words/昇進.md)<rt>ㄙㄨㄫㄐㄧㄋ</rt></ruby>: promotion, to be promoted.
+- <ruby>[面接](../words/面接.md)<rt>ㄇ⼶ㄋㄐㄛㄆ</rt></ruby>: interview.
+- <ruby>[履歴書](../words/履歴書.md)<rt>ㄌㄧㄜㄌㄝㄎㄙ⼄</rt></ruby>: résumé, CV.
+- <ruby>[罷工](../words/罷工.md)<rt>ㄅㄚㄧㄍㄛㄫ</rt></ruby>: a strike.
 
 ### Pay & Income
 
@@ -99,6 +114,10 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[利潤](../words/利潤.md)<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>: profit.
 - <ruby>[報償](../words/報償.md)<rt>ㄅㄚㄨㄙ⼘ㄫ</rt></ruby>: to compensate; compensation.
 - <ruby>[支付](../words/支付.md)<rt>ㄐㄝㄈㄨ</rt></ruby>: to pay.
+- <ruby>[賃金](../words/賃金.md)<rt>ㄋㄧㄇㄍㄧㄇ</rt></ruby>: wage, wages.
+- <ruby>[賞金](../words/賞金.md)<rt>ㄙ⼘ㄫㄍㄧㄇ</rt></ruby>: prize money, monetary reward.
+- <ruby>[賞与金](../words/賞与金.md)<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby>: bonus — reward-bestowed money added to pay.
+- <ruby>[年金](../words/年金.md)<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby>: pension, annuity.
 
 ### Time Off & Deadlines
 
@@ -194,6 +213,8 @@ Dan'a'yo keeps three separate "build" verbs rather than merging them into one, a
 The repair and maintenance vocabulary shows the same pattern. [[修理]], [[修繕]], and [[修補]] all gloss as "repair," but each legitimizes a different bound character (修理 legitimizes 理, 修繕 legitimizes 繕, 修補 legitimizes 補) and specializes by object and register: 修理 is the everyday word for fixing machinery or electronics, 修繕 leans toward renovating structures in a more classical/formal register (city walls, buildings), and 修補 covers restoration work on buildings or antiques, nuanced between "maintenance" and "repair" rather than fixing something broken outright. Separately, [[維持]] and [[保持]] both mean "maintain," but 保持 is specifically retentive — keeping a state or condition unchanged (現状保持, "maintaining the status quo") — in deliberate contrast to the defensive "protect from harm" sense carried by [[保護]] instead. 維持 is the unmarked, general-purpose "maintain" that every source language reaches for by default.
 
 The two factory words turned out to hide a real, now-corrected data bug rather than a genuine synonym pair: [[工場]] and [[工廠]] both mean "factory," but they follow different historical channels within the Sinosphere — 工場 (工 "work" + 場 "place, venue") is the Japanese/Korean-channel term, while 工廠 (工 + 廠 "workshop, factory shed") is the Mandarin/Cantonese-channel term, and Dan'a'yo has independently perfected both with their own distinct pronunciations (ㄍㄛㄫㄐㄚㄫ vs. ㄍㄛㄫㄑㄚㄫ). 工場's page had incorrectly listed 工廠 as an `aliases` entry — but 工廠 cannot be a mere alias of 工場, since it is itself the `stand_in` that independently legitimizes the character [[廠]] as a Dan'a'yo entry; an alias, by vault convention, is never used independently. Fixed by removing the erroneous alias entry while auditing this page. Two further near-synonym pairs are worth flagging the same way: [[提供]] and [[供給]] both translate "supply/provide," but 提供 is the general verb for offering or furnishing something, while 供給 is anchored to the narrower economic sense of supply meeting demand (供給と需要); and [[労動]] and [[辛苦]] both touch "toil," but 労動 is the neutral economic category (labor as a factor of production) while 辛苦 carries the connotation of bitter hardship rather than labor as such.
+
+Pay vocabulary now separates five kinds of money by who pays and why. [[賃金]] is the wage paid for labor; [[俸給]] and [[俸祿]] are the official pay of a government post; [[収入]] is income of any kind; [[賞金]] is prize or reward money (leaning toward "prize"); [[賞与金]] is a bonus added to regular pay; and [[年金]] is a pension, paid after retirement ([[退職]]). On the employment side, [[雇用]] (hire) and [[解雇]] (dismiss) are an employer-side pair, [[退職]] and [[辞職]] are the worker's own leaving, [[罷免]] and [[廃黜]] remove an official from office, and [[罷工]] is workers collectively refusing to work. [[昇進]] (promotion, Japanese/Korean/Vietnamese) sits beside the Chinese-channel [[晋升]], and [[超過勤務]] (overtime, with the short form 超勤) is a formal compound chosen because the regional words differ: Mandarin 加班, Japanese 残業, Korean 야근.
 
 Dan'a'yo has no dedicated word for "craft" distinct from skill/technique — the closest fit, [[芸術]] ("skill, art, craft"), belongs primarily to [[Art]] and is cross-referenced there rather than duplicated here; within Work, [[技術]] and [[技巧]] cover the practical-technique end of the same conceptual space.
 

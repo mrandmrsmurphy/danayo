@@ -147,6 +147,10 @@ boundedness: 90
 - <ruby>[[金箔]]<rt>ㄍㄧㄇㄅㄚㄎ</rt></ruby> "gold leaf"
 - <ruby>[[冶金]]<rt>⼘ㄍㄧㄇ</rt></ruby> "metallurgy"
 - <ruby>[[錬金術]]<rt>ㄌㄝㄋㄍㄧㄇㄙㄨㄊ</rt></ruby> "alchemy"
+- <ruby>[[賃金]]<rt>ㄋㄧㄇㄍㄧㄇ</rt></ruby> "wage"
+- <ruby>[[年金]]<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby> "pension"
+- <ruby>[[賞金]]<rt>ㄙ⼘ㄫㄍㄧㄇ</rt></ruby> "prize money"
+- <ruby>[[賞与金]]<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby> "bonus"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

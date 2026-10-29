@@ -70,3 +70,4 @@ boundedness: 100
 - <ruby>[[不当]]<rt>ㄅㄛㄊㄉㄚㄫ</rt></ruby> "unjust; unfair"
 - <ruby>[[妥当]]<rt>ㄊㄚㄉㄚㄫ</rt></ruby> "appropriate; proper"
 - <ruby>[[正当]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> "legitimate; proper"
+- <ruby>[[当番]]<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby> "duty turn"

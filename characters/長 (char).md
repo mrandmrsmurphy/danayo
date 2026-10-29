@@ -79,6 +79,7 @@ boundedness: 75
 - <ruby>[[長沙]]<rt>ㄐㄚㄫㄙㄚ</rt></ruby> "Changsha"
 - <ruby>[[長野]]<rt>ㄐㄚㄫ⼘</rt></ruby> "Nagano Prefecture"
 - <ruby>[[長埼]]<rt>ㄐㄚㄫㄎㄧㄜ</rt></ruby> "Nagasaki Prefecture"
+- <ruby>[[社長]]<rt>ㄙ⼘ㄐㄚㄫ</rt></ruby> "company president"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

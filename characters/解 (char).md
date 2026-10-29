@@ -63,6 +63,7 @@ boundedness: 100
 - <ruby>[[解釈]]<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby> "interpretation; to interpret"
 - <ruby>[[調解]]<rt>ㄐㄨㄛㄍ⼘ㄧ</rt></ruby> "to mediate, settle a dispute"
 - <ruby>[[解析]]<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby> "to analyze (technical/mathematical)"
+- <ruby>[[解雇]]<rt>ㄍ⼘ㄧㄎㄛ</rt></ruby> "dismissal"
 
 ## Derived Characters
 - <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"

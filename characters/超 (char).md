@@ -53,3 +53,5 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[超]]<rt>ㄊㄚㄨ</rt></ruby> "transcend, surpass" (stand-in for 超)
 - <ruby>[[超越]]<rt>ㄊㄚㄨ⼔ㄊ</rt></ruby> "surpass"
+- <ruby>[[超過勤務]]<rt>ㄊㄚㄨㄍ⺢ㄍㄧㄋㄇㄨ</rt></ruby> "overtime"
+- <ruby>[[超過]]<rt>ㄊㄚㄨㄍ⺢</rt></ruby> "excess"

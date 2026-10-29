@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[賃]]<rt>ㄋㄧㄇ</rt></ruby> "rent" (stand-in for 賃)
+- <ruby>[[賃金]]<rt>ㄋㄧㄇㄍㄧㄇ</rt></ruby> "wage"

@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[履]]<rt>ㄌㄧㄜ</rt></ruby> "tread on/with" (stand-in for 履)
+- <ruby>[[履歴書]]<rt>ㄌㄧㄜㄌㄝㄎㄙ⼄</rt></ruby> "resume"
