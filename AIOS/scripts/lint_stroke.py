@@ -7,7 +7,7 @@ Usage (run from the vault root):
   python3 AIOS/scripts/lint_stroke.py --fix 17        # also rewrite ### In Use + size to match ground truth
   python3 AIOS/scripts/lint_stroke.py --fix --stamp   # ...and stamp date-last-perfect on pages that come out clean
 
-Ground truth = every tracked characters/*.md, read from the working tree (so uncommitted edits count).
+Ground truth = every tracked or untracked characters/*.md, read from the working tree (so uncommitted edits and new files count).
 --fix never touches ### Aliases / ### Forbidden / prose; it only rebuilds the ### In Use bullets
 (keeping existing order within a SKIP group, appending new entries) and `size`.
 Judgment calls are only REPORTED, never auto-fixed: see the FLAG lines.
@@ -23,7 +23,7 @@ TODAY = datetime.date.today().isoformat()
 key = lambda s: [int(x) for x in s.split('-')]
 
 # ---- ground truth ---------------------------------------------------------
-files = [f for f in sh('git', 'ls-files', 'characters').split('\n') if f.endswith('.md')]
+files = [f for f in sh('git', 'ls-files', '--cached', '--others', '--exclude-standard', 'characters').split('\n') if f.endswith('.md')]
 chars = {}   # stem -> dict(stroke, skip, zy)
 flags = []
 for f in files:
