@@ -57,3 +57,4 @@ boundedness: 80
 ## Words
 - <ruby>[[脱]]<rt>ㄉ⺢ㄊ</rt></ruby> "undress" (stand-in for 脱)
 - <ruby>[[脱稿]]<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby> "complete a manuscript"
+- <ruby>[[脱色]]<rt>ㄉ⺢ㄊㄙㄧㄎ</rt></ruby> "bleaching"

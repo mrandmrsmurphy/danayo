@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[透析]]<rt>ㄊㄛㄨㄙㄝㄎ</rt></ruby> "to dialyze; dialysis"
 - <ruby>[[透視]]<rt>ㄊㄛㄨㄙㄧㄜ</rt></ruby> "see through"
 - <ruby>[[滲透]]<rt>ㄙㄛㄇㄊㄛㄨ</rt></ruby> "seep through"
+- <ruby>[[透明]]<rt>ㄊㄛㄨㄇ⼶ㄫ</rt></ruby> "transparent"

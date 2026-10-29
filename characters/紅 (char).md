@@ -60,3 +60,4 @@ boundedness: 65
 - <ruby>[[火紅]]<rt>ㄏ⺢ㄏㄛㄫ</rt></ruby> "fire-red; blazing red"
 - <ruby>[[火紅素]]<rt>ㄏ⺢ㄏㄛㄫㄙㄛ</rt></ruby> "strontium"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
+- <ruby>[[紅色]]<rt>ㄏㄛㄫㄙㄧㄎ</rt></ruby> "red"

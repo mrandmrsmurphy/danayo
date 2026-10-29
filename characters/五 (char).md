@@ -80,7 +80,7 @@ boundedness: 75
 - <ruby>[[第五]]<rt>ㄉㄝㄧㄛ</rt></ruby> "fifth"
 - <ruby>[[五千]]<rt>ㄛㄑㄝㄋ</rt></ruby> "five thousand"
 - <ruby>[[五百]]<rt>ㄛㄅㄚㄎ</rt></ruby> "five hundred"
-- <ruby>[[五万]]<rt>ㄛㄇㄛㄋ</rt></ruby> "fifty thousand"
+- <ruby>[[五万]]<rt>ㄛ·ㄇㄛㄋ</rt></ruby> "fifty thousand"
 
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"

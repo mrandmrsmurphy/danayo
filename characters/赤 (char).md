@@ -57,6 +57,7 @@ boundedness: 80
 ## Words
 - <ruby>[[赤]]<rt>ㄑㄝㄎ</rt></ruby> "red" (stand-in for 赤)
 - <ruby>[[赤道]]<rt>ㄑㄝㄎㄉㄚㄨ</rt></ruby> "equator"
+- <ruby>[[赤色]]<rt>ㄑㄝㄎㄙㄧㄎ</rt></ruby> "red"
 
 ## Derived Characters
 - <ruby>[[赦]]<rt>ㄙ⼘</rt></ruby> "pardon"

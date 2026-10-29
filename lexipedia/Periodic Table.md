@@ -4,13 +4,18 @@ tags:
   - periodictable
 cssclasses:
   - wide-page
-date-last-perfect: 2026-09-19
+date-last-perfect: 2026-10-29
 ---
 <ruby>[週期表](../words/週期表.md)<rt>ㄐㄨㄛㄎㄧㄅ⼘ㄨ</rt></ruby> - While many elements have common names across the region, it is necessary to invent an overall system made of #neologism s.  The system is
 - Common names are followed when all agree.
 - Elements in groups 1, 2, and 13-18 end in -素.
 - Lanthanide, Actinide, and groups 3-12 end in 金.
 - The etymology of the periodic table is followed whenever possible.
+
+**Exceptions.** Twelve entries deliberately do not follow the -素/金 ending, because their common names are shared across the region and rule 1 takes precedence:
+- Groups 1, 2 and 13–18: <ruby>[硫黄](../words/硫黄.md)<rt>ㄌ⼜ㄏ⺢ㄫ</rt></ruby> (sulfur), <ruby>[鉀](../words/鉀.md)<rt>ㄍㄚㄆ</rt></ruby> (potassium), <ruby>[朱錫](../words/朱錫.md)<rt>ㄐㄨㄙㄝㄎ</rt></ruby> (tin), <ruby>[鉛](../words/鉛.md)<rt>⼶ㄋ</rt></ruby> (lead) and <ruby>[蒼鉛](../words/蒼鉛.md)<rt>ㄑ⺢ㄫ⼶ㄋ</rt></ruby> (bismuth).
+- Groups 3–12: <ruby>[鉄](../words/鉄.md)<rt>ㄊㄝㄊ</rt></ruby> (iron), <ruby>[銅](../words/銅.md)<rt>ㄉㄛㄫ</rt></ruby> (copper), <ruby>[銀](../words/銀.md)<rt>ㄧㄋ</rt></ruby> (silver), <ruby>[亜鉛](../words/亜鉛.md)<rt>ㄚ⼶ㄋ</rt></ruby> (zinc), <ruby>[水銀](../words/水銀.md)<rt>ㄙㄨㄧㄋ</rt></ruby> (mercury) and <ruby>[魔銅](../words/魔銅.md)<rt>ㄇㄚㄉㄛㄫ</rt></ruby> (nickel). The abbreviation for each is the single character of its name.
+- Element 111 is <ruby>[錀](../words/錀.md)<rt>ㄌㄛㄋ</rt></ruby>, a single character borrowed whole for its sound, with no 金 suffix. 
 
 ## Formula Notation
 Real chemical formulae can be rendered using each element's single-character abbreviation (see the Abbreviations table below) rather than the full binomial word — e.g. 軽 for hydrogen, not 軽素.
@@ -58,6 +63,44 @@ Element 111 (roentgenium, 錀) also lends its phonetic to <ruby>[錀琴](../word
 - <ruby>[元素](../words/元素.md)<rt>⼔ㄋㄙㄛ</rt></ruby>: element, the general noun this whole table classifies.
 - <ruby>[苦土](../words/苦土.md)<rt>ㄎㄛ·ㄊㄛ</rt></ruby>: magnesia, magnesium oxide — the historical compound magnesium was isolated from, and the direct source of magnesium's own Dan'a'yo name, [[苦土素]].
 - <ruby>[硝石](../words/硝石.md)<rt>ㄙ⼄ㄨㄙㄝㄎ</rt></ruby>: saltpetre, potassium nitrate — a historically important potassium compound (gunpowder, food preservation), unrelated in coinage to [[鉀]]'s own name.
+
+## Chemistry Vocabulary
+
+The words around the table, grouped by what they describe. Each is a compound of standard CJKV vocabulary, checked against Mandarin, Japanese and Korean usage.
+
+### Matter & Substances
+
+- <ruby>[元素](../words/元素.md)<rt>⼔ㄋㄙㄛ</rt></ruby>: element (listed above).
+- <ruby>[化合物](../words/化合物.md)<rt>ㄏ⺢ㄍㄛㄆㄇㄨㄊ</rt></ruby>: chemical compound — written with the element abbreviations, see Formula Notation.
+- <ruby>[混合物](../words/混合物.md)<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby>: mixture.
+- <ruby>[化学式](../words/化学式.md)<rt>ㄏ⺢ㄏㄚㄎㄙㄧㄎ</rt></ruby>: chemical formula.
+- <ruby>[気体](../words/気体.md)<rt>ㄎㄧㄜㄊㄝㄧ</rt></ruby> / <ruby>[液体](../words/液体.md)<rt>⼶ㄎㄊㄝㄧ</rt></ruby> / <ruby>[固体](../words/固体.md)<rt>ㄍㄛ·ㄊㄝㄧ</rt></ruby>: gas / liquid / solid, the three ordinary states of matter.
+- <ruby>[溶媒](../words/溶媒.md)<rt>⼄ㄫㄇㄛㄧ</rt></ruby> / <ruby>[溶質](../words/溶質.md)<rt>⼄ㄫㄐㄧㄊ</rt></ruby> / <ruby>[溶液](../words/溶液.md)<rt>⼄ㄫ⼶ㄎ</rt></ruby>: solvent / solute / solution.
+- <ruby>[酸](../words/酸.md)<rt>ㄙ⺢ㄋ</rt></ruby> / <ruby>[鹸](../words/鹸.md)<rt>ㄑㄝㄇ</rt></ruby> / <ruby>[塩](../words/塩.md)<rt>⼶ㄇ</rt></ruby>: acid / alkali / salt.
+
+### Atoms & Particles
+
+- <ruby>[原子](../words/原子.md)<rt>⼔ㄋㄐㄜ</rt></ruby> / <ruby>[分子](../words/分子.md)<rt>ㄅㄨㄋㄐㄜ</rt></ruby>: atom / molecule.
+- <ruby>[核](../words/核.md)<rt>ㄏㄚㄎ</rt></ruby>: nucleus.
+- <ruby>[電子](../words/電子.md)<rt>ㄉㄝㄋㄐㄜ</rt></ruby> / <ruby>[陽子](../words/陽子.md)<rt>⼘ㄫㄐㄜ</rt></ruby> / <ruby>[中性子](../words/中性子.md)<rt>ㄐㄨㄫㄙㄧㄫㄐㄜ</rt></ruby>: electron / proton / neutron.
+- <ruby>[電荷](../words/電荷.md)<rt>ㄉㄝㄋㄏㄚ</rt></ruby>: electric charge.
+- <ruby>[離子](../words/離子.md)<rt>ㄌㄝㄧㄐㄜ</rt></ruby>: ion — an atom or molecule with a net electric charge.
+- <ruby>[原子番号](../words/原子番号.md)<rt>⼔ㄋㄐㄜㄈㄚㄋㄏㄚㄨ</rt></ruby>: atomic number.
+- <ruby>[原子量](../words/原子量.md)<rt>⼔ㄋㄐㄜㄌ⼘ㄫ</rt></ruby>: atomic weight.
+- <ruby>[分子量](../words/分子量.md)<rt>ㄅㄨㄋㄐㄜㄌ⼘ㄫ</rt></ruby>: molecular weight.
+- <ruby>[質量数](../words/質量数.md)<rt>ㄐㄧㄊㄌ⼘ㄫㄙㄨ</rt></ruby>: mass number.
+- <ruby>[同位元素](../words/同位元素.md)<rt>ㄉㄛㄫ⼔ㄧ⼔ㄋㄙㄛ</rt></ruby>: isotope.
+- <ruby>[放射性](../words/放射性.md)<rt>ㄈㄚㄫㄙ⼘ㄙㄧㄫ</rt></ruby>: radioactivity — its two characters are also the radioactive elements [[放素]] (radium) and [[射素]] (radon).
+
+### Reactions & Processes
+
+- <ruby>[化学](../words/化学.md)<rt>ㄏ⺢ㄏㄚㄎ</rt></ruby>: chemistry.
+- <ruby>[反応](../words/反応.md)<rt>ㄈㄛㄋ·ㄧㄫ</rt></ruby>: reaction (see [[化学]] for the chemical sense).
+- <ruby>[養化](../words/養化.md)<rt>⼘ㄫㄏ⺢</rt></ruby>: oxidation — built on [[養素]] (oxygen), the opposite of [[還元]].
+- <ruby>[還元](../words/還元.md)<rt>ㄏ⺢ㄋ⼔ㄋ</rt></ruby>: reduction.
+- <ruby>[燃焼](../words/燃焼.md)<rt>ㄋ⼶ㄋㄙ⼄ㄨ</rt></ruby>: combustion.
+- <ruby>[結合](../words/結合.md)<rt>ㄍㄝㄊㄍㄛㄆ</rt></ruby>: bond, combine.
+- <ruby>[合成](../words/合成.md)<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby>: synthesis.
 
 ## Abbreviations
 ```

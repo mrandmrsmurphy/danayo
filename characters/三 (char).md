@@ -71,6 +71,7 @@ boundedness: 75
 - <ruby>[[三文魚]]<rt>ㄙㄚㄇㄇㄨㄋ·⼄</rt></ruby> "salmon"
 - <ruby>[[三百]]<rt>ㄙㄚㄇㄅㄚㄎ</rt></ruby> "three hundred"
 - <ruby>[[三万]]<rt>ㄙㄚㄇㄇㄛㄋ</rt></ruby> "thirty thousand"
+- <ruby>[[三原色]]<rt>ㄙㄚㄇ⼔ㄋㄙㄧㄎ</rt></ruby> "three primary colors"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

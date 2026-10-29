@@ -56,3 +56,4 @@ boundedness: 90
 - <ruby>[[変成]]<rt>ㄅ⼶ㄋㄙㄧㄫ</rt></ruby> "change into; metamorphosize into"
 - <ruby>[[変動]]<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby> "change, fluctuation"
 - <ruby>[[変化]]<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby> "to change; vary"
+- <ruby>[[変色]]<rt>ㄅ⼶ㄋㄙㄧㄎ</rt></ruby> "discoloration"

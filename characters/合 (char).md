@@ -78,6 +78,8 @@ boundedness: 100
 - <ruby>[[複合語]]<rt>ㄅㄨㄎㄍㄛㄆ·⼄</rt></ruby> "compound word"
 - <ruby>[[合肥]]<rt>ㄍㄛㄆㄅㄨㄧ</rt></ruby> "Hefei; capital of Anhui province, China"
 - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> "unite; ally with; alliance; union"
+- <ruby>[[化合物]]<rt>ㄏ⺢ㄍㄛㄆㄇㄨㄊ</rt></ruby> "chemical compound"
+- <ruby>[[混合物]]<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby> "mixture"
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"

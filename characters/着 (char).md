@@ -57,3 +57,4 @@ boundedness: 100
 - <ruby>[[顕着]]<rt>ㄏㄝㄋㄐ⺢ㄎ</rt></ruby> "notable, remarkable, prominent"
 - <ruby>[[寿着]]<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby> "hesitate, waver"
 - <ruby>[[土著]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
+- <ruby>[[着色]]<rt>ㄐ⺢ㄎㄙㄧㄎ</rt></ruby> "coloring"

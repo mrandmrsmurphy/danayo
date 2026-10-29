@@ -62,6 +62,7 @@ boundedness: 80
 - <ruby>[[辞退]]<rt>ㄑㄧ·ㄊㄧㄜ</rt></ruby> "decline, refuse"
 - <ruby>[[衰退]]<rt>ㄙ⼔ㄧㄊㄧㄜ</rt></ruby> "decline"
 - <ruby>[[退職]]<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby> "retire, resign"
+- <ruby>[[退色]]<rt>ㄊㄧㄜㄙㄧㄎ</rt></ruby> "fading"
 
 ## Derived Characters
 - <ruby>[[腿]]<rt>ㄊㄧㄜ</rt></ruby> "thigh"

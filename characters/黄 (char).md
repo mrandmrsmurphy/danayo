@@ -60,6 +60,7 @@ boundedness: 80
 - <ruby>[[黄檗]]<rt>ㄏ⺢ㄫㄅㄚㄎ</rt></ruby> "amur cork tree"
 - <ruby>[[黄海]]<rt>ㄏ⺢ㄫㄏㄚㄧ</rt></ruby> "Yellow Sea"
 - <ruby>[[黄銅]]<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby> "brass"
+- <ruby>[[黄色]]<rt>ㄏ⺢ㄫㄙㄧㄎ</rt></ruby> "yellow"
 
 ## Derived Characters
 - <ruby>[[広 (char)|広]]<rt>ㄍ⺢ㄫ</rt></ruby> "wide, broad, extensive, vast"

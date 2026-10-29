@@ -69,6 +69,7 @@ boundedness: 50
 - <ruby>[[客気]]<rt>ㄎㄚㄎㄎㄧㄜ</rt></ruby> "polite (Mandarin); reckless bravado (Japanese/Korean)"
 - <ruby>[[送気]]<rt>ㄙㄛㄫ·ㄎㄧㄜ</rt></ruby> "aspiration"
 - <ruby>[[人気]]<rt>ㄋㄧㄋㄎㄧㄜ</rt></ruby> "popularity; popular"
+- <ruby>[[気体]]<rt>ㄎㄧㄜㄊㄝㄧ</rt></ruby> "gas"
 
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"

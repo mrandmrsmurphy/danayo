@@ -81,6 +81,7 @@ boundedness: 95
 - <ruby>[[自分]]<rt>ㄐㄧㄜㄅㄨㄋ</rt></ruby> "self-examine"
 - <ruby>[[大部分]]<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby> "majority"
 - <ruby>[[四分之一]]<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby> "quarter"
+- <ruby>[[分子量]]<rt>ㄅㄨㄋㄐㄜㄌ⼘ㄫ</rt></ruby> "molecular weight"
 
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"

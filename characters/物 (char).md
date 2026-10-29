@@ -87,6 +87,8 @@ boundedness: 50
 - <ruby>[[放物線]]<rt>ㄈㄚㄫㄇㄨㄊㄙ⼶ㄋ</rt></ruby> "parabola"
 - <ruby>[[物種]]<rt>ㄇㄨㄊㄐㄛㄫ</rt></ruby> "species"
 - <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
+- <ruby>[[化合物]]<rt>ㄏ⺢ㄍㄛㄆㄇㄨㄊ</rt></ruby> "chemical compound"
+- <ruby>[[混合物]]<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby> "mixture"
 
 ## Chengyu
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"
