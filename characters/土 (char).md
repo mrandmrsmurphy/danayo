@@ -64,7 +64,7 @@ boundedness: 90
 - <ruby>[[苦土]]<rt>ㄎㄛ·ㄊㄛ</rt></ruby> "magnesia; magnesium oxide"
 - <ruby>[[土曜日]]<rt>ㄊㄛ⼄ㄨㄋㄧㄊ</rt></ruby> "Saturday"
 - <ruby>[[苦土素]]<rt>ㄎㄛ·ㄊㄛㄙㄛ</rt></ruby> "magnesium"
-- <ruby>[[土著]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
+- <ruby>[[../words/土着]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
 
 ## Chengyu
 - <ruby>[[帰塵帰土]]<rt>ㄍㄨㄧㄐㄧㄋㄍㄨㄧㄊㄛ</rt></ruby> "Dust to dust"

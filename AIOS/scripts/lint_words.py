@@ -9,7 +9,8 @@ page files is read.
 Tier A  corpus-wide, every run
   A1  frontmatter present; the `word` tag
   A2  every `characters:` entry is the exact name of a character file (`X.md` or `X (char).md`)
-  A3  the file name is the characters joined (affix words named with － and the V pattern are exempt)
+  A3  the file name is the characters joined, or its distinct characters listed once each in first-appearance
+      order (a repeated character need not be listed again); affix words named with － and the V pattern are exempt
   A4  homophones: words with the same 注音 each carry a `>[!warning] Homophones` callout naming all the others
 Tier B  per page, every run (frontmatter only)
   B1  required keys; the four languages mandarin/cantonese/japanese/korean are counted as a to-do, not a failure
@@ -35,6 +36,10 @@ DEEP = '--deep' in ARGS
 STAMP = '--no-stamp' not in ARGS
 MAXN = int(ARGS[ARGS.index('--max') + 1]) if '--max' in ARGS else 12
 TODAY = datetime.date.today()
+
+# Words whose sound deliberately departs from their characters (documented in the word's or character's Notes)
+SOUND_EXCEPTIONS = {'棕枝', '棕枝主日', '反乱', '就鳥', '海就', '白頭就', '禿就', '得点', '特点',
+                    '杜選', '瞻妄', '統率', '率性', '釩金', '蓬藁'}
 
 def sh(*a):
     return subprocess.run(a, capture_output=True, text=True, check=True).stdout
@@ -123,8 +128,11 @@ for stem, w in words.items():
             hint = ' (' + s + ' (char) exists)' if s + ' (char)' in chars else ''
             add('A2', '`characters:` entry is not an exact character file name' + ('' if not hint else ' (the file carries the " (char)" suffix)'), f'{stem}: {s}')
     exempt = stem.startswith('－') or 'V' in stem
-    if stems and not exempt and ''.join(s.replace(' (char)', '') for s in stems) != stem:
-        add('A3', 'file name is not the characters joined', f'{stem} ({" ".join(stems)})')
+    have = [s.replace(' (char)', '') for s in stems]
+    need = list(dict.fromkeys(stem))                  # distinct characters, first-appearance order
+    if stems and not exempt and ''.join(have) != stem and have != need:
+        add('A3', 'file name is not the characters joined (a repeated character may be listed once)', f'{stem} ({" ".join(stems)})')
+    w['deduped'] = bool(stems) and not exempt and ''.join(have) != stem and have == need
     zy = g('注音')
     if zy: by_sound[zy].append(stem)
     for k in ('characters', '羅馬字', '諺文', 'english', 'pos', '注音', 'kwin', 'date-last-perfect', 'tags'):
@@ -144,8 +152,11 @@ for stem, w in words.items():
         should = 'true' if final_ld(ko) == final_ld(hg) else 'false'
         if str(kw).lower() != should:
             add('B4', f'kwin is {kw} but 諺文 vs korean says {should}', f'{stem} ({hg} vs {ko})')
-    if stems and all(s in chars for s in stems) and stem not in ('棕枝', '棕枝主日'):
-        cz = ''.join(chars[s]['z'] for s in stems); cr = ''.join(chars[s]['r'] for s in stems); ch = ''.join(chars[s]['h'] for s in stems)
+    seq = stems
+    if w.get('deduped'):                              # repeats listed once: take the sound from the file name
+        seq = [c if c in chars else (c + ' (char)' if c + ' (char)' in chars else c) for c in stem]
+    if stems and all(s in chars for s in seq) and stem not in SOUND_EXCEPTIONS:
+        cz = ''.join(chars[s]['z'] for s in seq); cr = ''.join(chars[s]['r'] for s in seq); ch = ''.join(chars[s]['h'] for s in seq)
         if zy and strip_marks(zy) != strip_marks(cz):
             add('B5', '注音 differs from the characters joined', f'{stem} ({zy} vs {cz})')
         rm = g('羅馬字')

@@ -26,7 +26,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[丈夫](../words/丈夫.md)<rt>ㄑㄚㄫㄈㄜ</rt></ruby>: husband.
 - <ruby>[妻](../words/妻.md)<rt>ㄑㄝㄧ</rt></ruby>: wife.
 - <ruby>[婦](../words/婦.md)<rt>ㄅ⼜</rt></ruby>: lady, woman — the bound root behind [[夫婦]] (married couple) and [[主婦]] (housewife), below.
-- <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: a married couple.
+- <ruby>[夫婦](../words/夫婦.md)<rt>ㄈㄜㄅ⼜</rt></ruby>: a married couple.
 - <ruby>[配偶](../words/配偶.md)<rt>ㄆㄛㄧㄛㄨ</rt></ruby>: spouse.
 - <ruby>[夫人](../words/夫人.md)<rt>ㄈㄜ·ㄋㄧㄋ</rt></ruby>: madam, lady — a formal, respectful address term for a wife.
 - <ruby>[兄](../words/兄.md)<rt>ㄏ⼄ㄫ</rt></ruby>: older brother — the biological/literal term, a direct sibling only. Has no reduplicated form of its own; see [[哥哥]] for the intimate register.
@@ -216,7 +216,7 @@ Words for the kin-group itself, rather than any one relative within it.
 - <ruby>[家族](../words/家族.md)<rt>ㄍㄚㄐㄛㄎ</rt></ruby>: family — the wider, more anthropological "lineage/kin-group" sense.
 - <ruby>[家長](../words/家長.md)<rt>ㄍㄚㄐㄚㄫ</rt></ruby>: head of household, family head.
 - <ruby>[家庭](../words/家庭.md)<rt>ㄍㄚㄉㄝㄫ</rt></ruby>: household, family — literally "the courtyard of the house," extended metonymically to the family unit's shared living space; see Semantic Range Notes for how it differs from [[家族]].
-- <ruby>[自家](../words/自家.md)<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>: one's own family or household.
+- <ruby>[自家](../words/自家.md)<rt>ㄐㄧㄜㄍㄚ</rt></ruby>: one's own family or household.
 - <ruby>[親族](../words/親族.md)<rt>ㄑㄧㄋㄐㄛㄎ</rt></ruby>: relatives, kin — the formal register, the kin group as a unit; see Semantic Range Notes.
 - <ruby>[親戚](../words/親戚.md)<rt>ㄑㄧㄋㄑㄝㄎ</rt></ruby>: relative, relation — everyday relatives, against the formal [[親族]]; see Semantic Range Notes.
 - <ruby>[氏族](../words/氏族.md)<rt>ㄙㄧㄜㄐㄛㄎ</rt></ruby>: clan — the classical/anthropological term.
@@ -270,7 +270,7 @@ The in-law words follow an Asian template rather than an English one. English "b
 **Related domains**:
 - [[Government]] — [[王朝]] ("dynasty") sits at the scale where lineage and rule become the same concept; Government hasn't been migrated to this template yet, so the link isn't yet reciprocated on that page.
 - [[Love]] — romantic/affectionate vocabulary lives there rather than here; [[愛人]]'s mainland-Mandarin "spouse" sense borders this domain even though Love treats the word under its fiat "lover" sense.
-- [[Society]] — group belonging beyond the family lives there; [[新人]] ("newcomer") and [[外人]]/[[本地]]/[[土著]] (stranger/local/native) all touch questions of who counts as "one of us" from the outside-the-family angle this page doesn't cover.
+- [[Society]] — group belonging beyond the family lives there; [[新人]] ("newcomer") and [[外人]]/[[本地]]/[[../words/土着]] (stranger/local/native) all touch questions of who counts as "one of us" from the outside-the-family angle this page doesn't cover.
 
 **Idiomatic uses**:
 - [[鰥寡孤独]] — the four classes of those without family support (the widower, the widow, the orphan and the childless old), from Mencius; the standing phrase for the helpless in need of care.

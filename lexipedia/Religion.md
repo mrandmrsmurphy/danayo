@@ -103,7 +103,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[観音](../words/観音.md)<rt>ㄍ⺢ㄋ·ㄨㄇ</rt></ruby>: Guanyin, Avalokiteśvara, the bodhisattva of mercy — short for 観世音, a translation ("the one who observes the sounds [of suffering beings]") rather than a transliteration of the Sanskrit; Japanese かんのん, Korean 관음, Vietnamese Quan Âm.
-- <ruby>[弥勒](../words/弥勒.md)<rt>ㄇㄝㄌㄨㄎ</rt></ruby>: Maitreya, the future Buddha.
+- <ruby>[弥勒](../words/弥勒.md)<rt>ㄇㄝㄌㄜㄎ</rt></ruby>: Maitreya, the future Buddha.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
 - <ruby>[揄伽](../words/揄伽.md)<rt>⼜ㄇㄍ⼘</rt></ruby>: yoga.
 - <ruby>[修道](../words/修道.md)<rt>ㄙㄨㄛㄉㄚㄨ</rt></ruby>: spiritual discipline, cultivation of the Way — the sustained practice of self-cultivation shared across Daoist, Buddhist, and Confucian traditions alike (修道院, "monastery"; 修道士, "monk").

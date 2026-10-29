@@ -52,7 +52,7 @@ boundedness: 90
 ## Words
 - <ruby>[[由]]<rt>⼜ㄛ</rt></ruby> "from; since" (stand-in for 由)
 - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby> "free; at liberty; unconstrained"
-- <ruby>[[理由]]<rt>ㄌㄧ·⼜</rt></ruby> "reason; grounds; justification"
+- <ruby>[[理由]]<rt>ㄌㄧ⼜ㄛ</rt></ruby> "reason; grounds; justification"
 - <ruby>[[因由]]<rt>ㄧㄋ·⼜ㄛ</rt></ruby> "reason; cause"
 - <ruby>[[由鼠]]<rt>⼜ㄛ·ㄙ⼄</rt></ruby> "weasel"
 

@@ -20,7 +20,7 @@ Generated 2026-10-29 from the linters' own output. Every flagged page is a click
 | Stroke | `python3 AIOS/scripts/lint_stroke.py` | Clean (does not stamp) |
 | Chengyu | `python3 AIOS/scripts/lint_chengyu.py`, `lint_chengyu_groups.py` | Clean; grouping pages stamped 2026-10-29 |
 | Characters | `python3 AIOS/scripts/lint_characters.py` | Default run clean; stamped 2026-10-29. `--deep` shows the drift listed below. |
-| **Words** | `python3 AIOS/scripts/lint_words.py` | **Fails**: A2 2, A3 8, B1 7, B2 6, B5 328, C1 3, C2 58, C3 22 |
+| **Words** | `python3 AIOS/scripts/lint_words.py` | **Fails**: A2 1, A3 2, B1 4, B2 6, B5 310, C1 3, C2 58, C3 22 (snapshot; the sections below list the earlier run) |
 
 ## Contents
 
@@ -31,38 +31,6 @@ Generated 2026-10-29 from the linters' own output. Every flagged page is a click
 ## Words (lint_words.py)
 
 Done already this session: the `word` tag (7), " (char)" suffixes on `characters:` entries (198 added, 37 removed), `kwin` (167 + 9), lexipedia "See" bullets (116) and homophone callouts (57). What is left:
-
-### [A2] `characters:` entry is not an exact character file name (2)
-
-- [[words/神霊|神霊]]: 神靈
-- [[words/神霊|神霊]]: 神灵
-
-### [A3] file name is not the characters joined (8)
-
-- [[words/九九|九九]] (九 (char))
-- [[words/二十二日|二十二日]] (二 (char) 十 (char) 日 (char))
-- [[words/亜細亜|亜細亜]] (亜 細 (char))
-- [[words/人人|人人]] (人 (char))
-- [[words/伯伯|伯伯]] (伯)
-- [[words/土著|土著]] (土 (char) 着 (char))
-- [[words/太太|太太]] (太 (char))
-- [[words/神霊|神霊]] (神 (char) 霊 神靈 神灵)
-
-### [B1] missing key `pos` (5)
-
-- [[words/恭喜発財|恭喜発財]]
-- [[words/敬語|敬語]]
-- [[words/神|神]]
-- [[words/超|超]]
-- [[words/頚|頚]]
-
-### [B1] missing key `english` (1)
-
-- [[words/敬語|敬語]]
-
-### [B1] missing key `characters` (1)
-
-- [[words/葺|葺]]
 
 ### [B2] pos is blank (3)
 
@@ -469,8 +437,6 @@ Done already this session: the `word` tag (7), " (char)" suffixes on `characters
 
 ### [C2] a [[wikilink]] does not resolve (13)
 
-- [[words/勿|勿]]: [[刎]]
-- [[words/占卜|占卜]]: [[卜占]]
 - [[words/安慰|安慰]]: [[紹介]]
 - [[words/客人|客人]]: [[来客]]
 - [[words/性交|性交]]: [[個性]]
@@ -882,7 +848,6 @@ The default run checks only pages changed since their own stamp and is clean. `p
 
 ### [C2] ## Words links a word that has no file (3)
 
-- [[characters/酉|酉]] -> words/酉月
 - [[characters/魶 (char)|魶 (char)]] -> words/魶
 - [[characters/鱏 (char)|鱏 (char)]] -> words/鱏
 
@@ -919,4 +884,4 @@ The default run checks only pages changed since their own stamp and is clean. `p
 - **Three words naming a lexipedia domain page that doesn't exist:** [[words/信条|信条]], [[words/傾向|傾向]], [[words/六府|六府]].
 - **Stale readings (B5):** a word's 羅馬字, 諺文 or 注音 differs from its characters. The character is the authority, so the word is stale, except documented stand-ins such as [[words/棕枝|棕枝]] (which reads 枝 as 櫚). Fixing a 注音 also means updating the cached rubies on character, lexipedia and lookup pages.
 - **Alias glyphs listed as characters:** [[words/神霊|神霊]] lists 神靈 and 神灵 in `characters:`.
-- **Filename vs characters (A3):** eight words whose filename isn't their characters joined.
+- **Filename vs characters (A3):** two alias-glyph words, [[words/土着|土着]] and [[words/神霊|神霊]].

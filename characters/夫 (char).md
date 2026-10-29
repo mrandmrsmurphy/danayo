@@ -52,10 +52,10 @@ boundedness: 90
 ## Words
 - <ruby>[[夫]]<rt>ㄈㄜ</rt></ruby> "man; husband; laborer" (stand-in for 夫 (char))
 - <ruby>[[夫人]]<rt>ㄈㄜ·ㄋㄧㄋ</rt></ruby> "madam; lady; (someone else's) wife"
-- <ruby>[[夫婦]]<rt>ㄅㄨㄅ⼜</rt></ruby> "couple"
+- <ruby>[[夫婦]]<rt>ㄈㄜㄅ⼜</rt></ruby> "couple"
 - <ruby>[[夫子]]<rt>ㄈㄜㄐㄜ</rt></ruby> "Confucius; master"
 - <ruby>[[丈夫]]<rt>ㄑㄚㄫㄈㄜ</rt></ruby> "husband"
-- <ruby>[[大夫]]<rt>ㄉㄚㄧㄅㄨ</rt></ruby> "official"
+- <ruby>[[大夫]]<rt>ㄉㄚㄧㄈㄜ</rt></ruby> "official"
 - <ruby>[[漁夫]]<rt>⼄ㄈㄜ</rt></ruby> "fisherman"
 - <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "sit in lotus position"
 - <ruby>[[一夫一妻]]<rt>ㄧㄊㄈㄜㄧㄊㄑㄝㄧ</rt></ruby> "monogamy"

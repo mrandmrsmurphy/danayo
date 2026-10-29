@@ -53,7 +53,7 @@ boundedness: 65
 
 ## Words
 - <ruby>[[婦]]<rt>ㄅ⼜</rt></ruby> "lady; woman"
-- <ruby>[[夫婦]]<rt>ㄅㄨㄅ⼜</rt></ruby> "couple"
+- <ruby>[[夫婦]]<rt>ㄈㄜㄅ⼜</rt></ruby> "couple"
 - <ruby>[[主婦]]<rt>ㄐㄨㄅ⼜</rt></ruby> "housewife"
 - <ruby>[[寡婦]]<rt>ㄍ⺢ㄅ⼜</rt></ruby> "widow"
 - <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"

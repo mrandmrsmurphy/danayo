@@ -110,7 +110,7 @@ The 大寫 forms are the formal register used on checks, contracts, and financia
 - <ruby>[半](../words/半.md)<rt>ㄅㄚㄋ</rt></ruby>: half.
 - <ruby>[四分之一](../words/四分之一.md)<rt>ㄙㄧㄜㄅㄨㄋㄊㄧㄧㄊ</rt></ruby>: quarter.
 - <ruby>[[単独]]<rt>ㄉㄚㄋㄉㄛㄎ</rt></ruby>: single (alone, solitary).
-- <ruby>[夫婦](../words/夫婦.md)<rt>ㄅㄨㄅ⼜</rt></ruby>: couple (married pair).
+- <ruby>[夫婦](../words/夫婦.md)<rt>ㄈㄜㄅ⼜</rt></ruby>: couple (married pair).
 - <ruby>[[二人]]<rt>ㄋㄧㄜㄋㄧㄋ</rt></ruby>: couple (two people, more general).
 - <ruby>[[双子]]<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>: twin.
 

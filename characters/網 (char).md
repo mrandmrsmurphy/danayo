@@ -26,7 +26,7 @@ joyo_level: 高等
 hsk_level: "1"
 hanmun_edu_level: 名
 danayo_id: 6239
-mc_id: 2014
+mc_id: 2015
 graphemic_classification: 罔
 stand_in: 網
 aliases:
@@ -50,7 +50,7 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声: semantic [[Radical 120|糸]] ("thread") + phonetic [[罔]] — a woven net.
 - [SKIP-1-6-8](../lookup/SKIP/SKIP-1/SKIP-1-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
-- 2014th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄇㄚㄫ](../syllables/ㄇㄚㄫ.md)
+- 2015th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄇㄚㄫ](../syllables/ㄇㄚㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words

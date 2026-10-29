@@ -61,7 +61,7 @@ Set it once, and only once, a word page satisfies every criterion in this checkl
 
 ## `characters` field
 
-List every constituent character in order. Use the `X (char)` form when the character file is named `X (char).md`; use the plain name when it is simply `X.md`. When a component is itself a multi-character compound (e.g. 世紀 in 今世紀), list its individual characters separately — do not nest compounds.
+List every constituent character in order. A character that repeats (reduplication such as 人人, or 二十二日, 亜細亜) may be listed once, at its first appearance; listing the repeat as well is also fine, and the file name carries the full sequence. Use the `X (char)` form when the character file is named `X (char).md`; use the plain name when it is simply `X.md`. When a component is itself a multi-character compound (e.g. 世紀 in 今世紀), list its individual characters separately — do not nest compounds.
 
 ```yaml
 characters:      # ✓ correct — every character listed individually

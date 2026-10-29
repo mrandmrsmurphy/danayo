@@ -85,7 +85,7 @@ boundedness: 90
 - <ruby>[[大麦]]<rt>ㄉㄚㄧㄇㄚㄎ</rt></ruby> "barley"
 - <ruby>[[大乗]]<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby> "Mahayana; Great Vehicle"
 - <ruby>[[大同]]<rt>ㄉㄚㄧㄉㄛㄫ</rt></ruby> "Great Unity; utopia"
-- <ruby>[[大夫]]<rt>ㄉㄚㄧㄅㄨ</rt></ruby> "official"
+- <ruby>[[大夫]]<rt>ㄉㄚㄧㄈㄜ</rt></ruby> "official"
 - <ruby>[[大指]]<rt>ㄉㄚㄧㄐㄧㄜ</rt></ruby> "thumb; big toe"
 - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> "big river; Yangtze"
 - <ruby>[[大略]]<rt>ㄉㄚㄧㄌ⼘ㄎ</rt></ruby> "roughly; approximately; outline"

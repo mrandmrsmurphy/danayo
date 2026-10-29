@@ -224,7 +224,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 #### Cause, Reasoning & Analysis
 
 - <ruby>[因由](../words/因由.md)<rt>ㄧㄋ·⼜ㄛ</rt></ruby>: a reason, cause — an undocumented near-duplicate of [[原因]]; see Core, above.
-- <ruby>[理由](../words/理由.md)<rt>ㄌㄧ·⼜</rt></ruby>: a reason, grounds, justification — the argument *for* something, distinct from [[原因]]'s raw causation; see [[Knowledge]] for its own citation there.
+- <ruby>[理由](../words/理由.md)<rt>ㄌㄧ⼜ㄛ</rt></ruby>: a reason, grounds, justification — the argument *for* something, distinct from [[原因]]'s raw causation; see [[Knowledge]] for its own citation there.
 - <ruby>[道理](../words/道理.md)<rt>ㄉㄚㄨㄌㄧ</rt></ruby>: logic, method, principle — looser and more common-sense than the formal [[論理]]; see [[Knowledge]] for its own citation there.
 - <ruby>[信条](../words/信条.md)<rt>ㄙㄧㄋㄐㄛ</rt></ruby>: a creed, article, precept, tenet — a personal belief or principle one holds to, or an article of a formal document; distinct from [[道理]]'s general logic/reasoning.
 - <ruby>[分析](../words/分析.md)<rt>ㄅㄨㄋㄙㄝㄎ</rt></ruby>: to analyze; analysis — see [[Knowledge]] for its own citation there.
