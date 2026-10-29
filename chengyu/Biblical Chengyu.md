@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-10-29
 size: 54
 tags:
   - chengyu

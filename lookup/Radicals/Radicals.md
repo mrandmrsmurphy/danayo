@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-10-29
 tags: [lookup]
 ---
 
@@ -118,7 +118,7 @@ __Combining or simplified radicals with 3 strokes__
 - [[Radical 082]] 毛 (2 characters)
 - [[Radical 083]] 氏 (3 characters)
 - [[Radical 084]] 气 (1 character)
-- [[Radical 085]] 水 or combining as 氵 (172 characters)
+- [[Radical 085]] 水 or combining as 氵 (173 characters)
 - [[Radical 086]] 火 or combining as 灬 (46 characters)
 - [[Radical 087]] 爪 or combining as 爫 (4 characters)
 - [[Radical 088]] 父 (3 characters)
@@ -127,7 +127,7 @@ __Combining or simplified radicals with 3 strokes__
 - [[Radical 091]] 片 (3 characters)
 - [[Radical 092]] 牙 (1 character)
 - [[Radical 093]] 牛 or combining as 牜 (12 characters)
-- [[Radical 094]] 犬 or combining as 犭 (29 characters)
+- [[Radical 094]] 犬 or combining as 犭 (30 characters)
 
 __Combining or simplified radicals with 4 strokes__
 - 43. combining 尣, used for radical 尢
@@ -140,7 +140,7 @@ __Combining or simplified radicals with 4 strokes__
 - [[Radical 095]] 玄 (3 characters)
 - [[Radical 096]] 玉 or combining as 王 (38 characters)
 - [[Radical 097]] 瓜 (2 characters)
-- [[Radical 098]] 瓦 (6 characters)
+- [[Radical 098]] 瓦 (7 characters)
 - [[Radical 099]] 甘 (3 characters)
 - [[Radical 100]] 生 (3 characters)
 - [[Radical 101]] 用 (3 characters)
@@ -192,9 +192,9 @@ __Combining or simplified radicals with 5 strokes__
 - [[Radical 137]] 舟 (10 characters)
 - [[Radical 138]] 艮 (3 characters)
 - [[Radical 139]] 色 (2 characters)
-- [[Radical 140]] 艸 or combining as 艹 (118 characters)
+- [[Radical 140]] 艸 or combining as 艹 (120 characters)
 - [[Radical 141]] 虍 (5 characters)
-- [[Radical 142]] 虫 (42 characters)
+- [[Radical 142]] 虫 (44 characters)
 - [[Radical 143]] 血 (3 characters)
 - [[Radical 144]] 行 (7 characters)
 - [[Radical 145]] 衣 or combining as 衤 (29 characters)
@@ -228,7 +228,7 @@ __Combining or simplified radicals with 6 strokes__
 ### 8 strokes
 - [[Radical 167]] 金 (63 characters)
 - [[Radical 168]] 長 (1 character)
-- [[Radical 169]] 門 (20 characters)
+- [[Radical 169]] 門 (21 characters)
 - [[Radical 170]] 阜 or combining as 阝 (35 characters)
 - [[Radical 171]] 隶 (1 character)
 - [[Radical 172]] 隹 (16 characters)
@@ -260,7 +260,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 194]] 鬼 (8 characters)
 
 ### 11 strokes
-- [[Radical 195]] 魚 (17 characters)
+- [[Radical 195]] 魚 (18 characters)
 - [[Radical 196]] 鳥 (22 characters)
 - [[Radical 197]] 鹵 (2 characters)
 - [[Radical 198]] 鹿 (5 characters)

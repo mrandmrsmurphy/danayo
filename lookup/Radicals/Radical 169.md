@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-05
-size: 20
+size: 21
 radical: 門
 tags: [lookup]
 ---
@@ -48,6 +48,9 @@ tags: [lookup]
 18. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude
 19. <ruby>[闕](../../characters/闕.md)<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
 20. <ruby>[闘](../../characters/闘.md)<rt>ㄉㄛㄨ</rt></ruby> - fight
+
+### +12 Strokes
+21. <ruby>[闡](../../characters/闡.md)<rt>ㄑㄝㄋ</rt></ruby> - clarify
 
 ## Data check
 ```dataview

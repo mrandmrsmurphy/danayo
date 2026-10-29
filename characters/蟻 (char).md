@@ -23,7 +23,7 @@ english:
 joyo_level: "表外字"
 hsk_level: "4"
 hanmun_edu_level: "名"
-danayo_id: 8836
+danayo_id: 8821
 mc_id: 2918
 graphemic_classification: "義"
 stand_in: "蟻"

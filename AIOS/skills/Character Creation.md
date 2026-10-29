@@ -115,9 +115,9 @@ It is fine for `stand_in` to reference a word file that does not yet exist. The 
 
 ## `danayo_id` allocation
 
-The `danayo_id` is **not** the same as `mc_id`. It is a Dan'a'yo-internal ID, assigned by incrementing from the highest current ID within the character's grade level.
+The `danayo_id` is **not** the same as `mc_id`. It is a Dan'a'yo-internal ID, unique across the vault. Each grade owns one contiguous block: grade 1 runs from 1, grade 2 from 2001, grade 3 from 3001, grade 4 from 4001, grade 5 from 5001, grade 6 from 6001, 先進 from 7001, and 名 from 8001. Within a block the ids run `BASE+1` to `BASE+N` with no holes (N = the number of characters in that grade); only the jump to the next thousand is a gap.
 
-To find the next available ID: ask the user, or check the current highest value for that grade across all character files.
+To allocate: a new character takes `BASE + N + 1` for its grade, where N is the number of existing characters with that `grade_level` (count the files; do not take "the highest id plus one", since a single stray id in the wrong block poisons that rule). If a character changes grade, give it the next id in its new block and close the hole it leaves. `lint_characters.py` checks uniqueness, block membership and contiguity.
 
 ---
 

@@ -20,7 +20,7 @@ english:
 joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
-danayo_id: 4391
+danayo_id: 4326
 mc_id: 0
 graphemic_classification: 会意
 stand_in: 曇

@@ -24,7 +24,7 @@ english:
 joyo_level: "3"
 hsk_level: "4"
 hanmun_edu_level: 高等
-danayo_id: 5132
+danayo_id: 3293
 mc_id: 407
 graphemic_classification: 象形
 stand_in: 州

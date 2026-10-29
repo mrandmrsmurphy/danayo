@@ -27,7 +27,7 @@ english:
 joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 名
-danayo_id: 5467
+danayo_id: 5367
 mc_id: 2226
 graphemic_classification: 皮
 stand_in: 披

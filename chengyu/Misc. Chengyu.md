@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-04
+date-last-perfect: 2026-10-29
 size: 151
 tags:
   - chengyu
@@ -155,6 +155,7 @@ tags:
 - <ruby>[玩世不恭](chengyu/玩世不恭.md)<rt>⺢ㄋㄙㄝㄅㄛㄊㄍ⼄ㄫ</rt></ruby> - cynical, treating life with irreverent disdain
 - <ruby>[水泥叢林](chengyu/水泥叢林.md)<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> - concrete jungle
 - <ruby>[金甌無缺](chengyu/金甌無缺.md)<rt>ㄍㄧㄇ·ㄛㄨㄇㄜ·ㄎ⼔ㄊ</rt></ruby> - faultless golden chalice; a nation whole and inviolate
+- <ruby>[鰥寡孤独](chengyu/鰥寡孤独.md)<rt>ㄍ⺢ㄇㄍ⺢ㄍㄛㄉㄛㄎ</rt></ruby> - the widowed, the childless, the orphaned and the alone
 
 ## Base check
 ```base
@@ -188,4 +189,3 @@ views:
       note.注音: 81
 
 ```
-- <ruby>[鰥寡孤独](chengyu/鰥寡孤独.md)<rt>ㄍ⺢ㄇㄍ⺢ㄍㄛㄉㄛㄎ</rt></ruby> - the widowed, the childless, the orphaned and the alone

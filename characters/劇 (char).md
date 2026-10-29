@@ -27,7 +27,7 @@ english:
 joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: 高等
-danayo_id: 6666
+danayo_id: 6471
 mc_id: 1969
 graphemic_classification: 豦
 stand_in: 劇

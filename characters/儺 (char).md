@@ -24,7 +24,7 @@ english:
 joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
-danayo_id: 8821
+danayo_id: 7556
 mc_id: 0
 graphemic_classification: 難
 stand_in: 儺

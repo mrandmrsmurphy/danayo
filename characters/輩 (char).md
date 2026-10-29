@@ -25,7 +25,7 @@ english:
 joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 高等
-danayo_id: 3999
+danayo_id: 3292
 mc_id:
 graphemic_classification: 非
 stand_in: 輩
