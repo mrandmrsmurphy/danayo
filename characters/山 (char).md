@@ -56,6 +56,7 @@ boundedness: 75
 - <ruby>[[桃山]]<rt>ㄉㄚㄨㄙㄚㄋ</rt></ruby> "Momoyama"
 - <ruby>[[山地]]<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby> "mountain"
 - <ruby>[[山岡]]<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby> "hill"
+- <ruby>[[山桃]]<rt>ㄙㄚㄋㄉㄚㄨ</rt></ruby> "Chinese wild peach, David's peach (Prunus davidiana)"
 - <ruby>[[山岳]]<rt>ㄙㄚㄋ·ㄚㄎ</rt></ruby> "mountain peak"
 - <ruby>[[山川]]<rt>ㄙㄚㄋㄑ⺢ㄋ</rt></ruby> "scenery"
 - <ruby>[[山脈]]<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> "mountain range"

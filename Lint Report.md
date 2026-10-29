@@ -20,7 +20,7 @@ Generated 2026-10-29 by `AIOS/scripts/make_lint_report.py` from the linters' own
 | Stroke | `python3 AIOS/scripts/lint_stroke.py` | Clean (does not stamp) |
 | Chengyu | `python3 AIOS/scripts/lint_chengyu.py`, `lint_chengyu_groups.py` | Clean; grouping pages stamped 2026-10-29 |
 | Characters | `python3 AIOS/scripts/lint_characters.py` | Default run clean; stamped 2026-10-29. `--deep`: C1 21 |
-| **Words** | `python3 AIOS/scripts/lint_words.py` | Fails: C3 9. `--deep`: C1 56, C2 38, C3 41 |
+| **Words** | `python3 AIOS/scripts/lint_words.py` | Fails: C3 9. `--deep`: C1 56, C2 23, C3 41 |
 
 ## Contents
 
@@ -107,7 +107,7 @@ The default run checks the body only of pages changed since their own stamp. `py
 - [[words/遺憾|遺憾]]
 - [[words/黒暗|黒暗]]
 
-### [C2] a [[wikilink]] does not resolve (38)
+### [C2] a [[wikilink]] does not resolve (23)
 
 - [[words/一|一]]: [[nav/Numerals]]
 - [[words/七|七]]: [[nav/Numerals]]
@@ -122,27 +122,13 @@ The default run checks the body only of pages changed since their own stamp. `py
 - [[words/反|反]]: [[厂]]
 - [[words/合|合]]: [[亼]]
 - [[words/喚|喚]]: [[奐]]
-- [[words/寝|寝]]: [[牀]]
-- [[words/尭舌|尭舌]]: [[饒]]
-- [[words/徐様|徐様]]: [[緩慢様]]
-- [[words/心理学|心理学]]: [[心理学家]]
-- [[words/性質|性質]]: [[個性]]
-- [[words/景色|景色]]: [[風景]]
-- [[words/楊梅|楊梅]]: [[山桃]]
-- [[words/汽車|汽車]]: [[列車]]
-- [[words/混沌|混沌]]: [[混淪]]
-- [[words/混沌|混沌]]: [[開天闢地]]
-- [[words/火車|火車]]: [[列車]]
 - [[words/特点|特点]]: [[特徵]]
-- [[words/白頭就|白頭就]]: [[鷲]]
-- [[words/盧魚|盧魚]]: [[鱸魚]]
 - [[words/神道教|神道教]]: [[仏教]]
 - [[words/禁書|禁書]]: [[書經]]
 - [[words/第|第]]: [[nav/Numerals]]
 - [[words/股|股]]: [[殳]]
 - [[words/肥脊|肥脊]]: [[瘠]]
 - [[words/肺臓|肺臓]]: [[肺腑]]
-- [[words/道|道]]: [[首 (char)]]
 - [[words/重畳|重畳]]: [[迂言]]
 - [[words/零|零]]: [[nav/Numerals]]
 - [[words/龍|龍]]: [[wikilink]]

@@ -151,6 +151,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
 - <ruby>[内臓](../words/内臓.md)<rt>ㄋㄛㄧㄐㄚㄫ</rt></ruby>: internal organs, viscera.
 - <ruby>[六府](../words/六府.md)<rt>ㄌㄨㄎㄈㄨ</rt></ruby>: the Six Hollow Organs — [[五臓]]'s own complementary yang organs (stomach, small/large intestine, gallbladder, bladder, and the triple burner).
+- <ruby>[肺府](../words/肺府.md)<rt>ㄈㄝㄈㄨ</rt></ruby>: lungs and viscera; the innermost heart (肺腑) — 府 stands in for 腑 as in 六府.
 - <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
 - <ruby>[肪](../words/肪.md)<rt>ㄈㄚㄫ</rt></ruby>: fat, obese — the bound root behind [[脂肪]] above, an undocumented near-duplicate of [[肥胖]] in its own "obese" sense.

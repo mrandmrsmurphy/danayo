@@ -69,6 +69,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 ## Advanced / Specialized (C1+)
 
 - <ruby>[景致](../words/景致.md)<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby>: scenery, a scene, a view.
+- <ruby>[風景](../words/風景.md)<rt>ㄈㄨㄫㄍ⼶ㄫ</rt></ruby>: scenery, landscape, a view.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 

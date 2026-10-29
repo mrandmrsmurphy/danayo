@@ -287,6 +287,7 @@ _consider these; don't accept them blindly_
 - <ruby>[鉄道](../words/鉄道.md)<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>: railroad.
 - <ruby>[随行](../words/随行.md)<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby>: accompany; go with.
 - <ruby>[電車](../words/電車.md)<rt>ㄉㄝㄋㄑ⺢</rt></ruby>: trolley; tram.
+- <ruby>[列車](../words/列車.md)<rt>ㄌㄝㄊㄑ⺢</rt></ruby>: train, the general word; beside 汽車 (steam train), 電車 (tram) and 鉄道 (the railway).
 - <ruby>[飛](../words/飛.md)<rt>ㄈㄝㄧ</rt></ruby>: fly.
 - <ruby>[飛机](../words/飛机.md)<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby>: plane.
 - <ruby>[飛行机](../words/飛行机.md)<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>: airplane.

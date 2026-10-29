@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[屏風]]<rt>ㄅㄧㄫㄈㄨㄫ</rt></ruby> "folding screen"
 - <ruby>[[狂風]]<rt>ㄍ⺢ㄫㄈㄨㄫ</rt></ruby> "gale; violent wind"
 - <ruby>[[風刺]]<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby> "to satirize; to mock"
+- <ruby>[[風景]]<rt>ㄈㄨㄫㄍ⼶ㄫ</rt></ruby> "scenery, landscape, view"
 - <ruby>[[風笛]]<rt>ㄈㄨㄫㄉㄝㄎ</rt></ruby> "bagpipes"
 - <ruby>[[風潮]]<rt>ㄈㄨㄫㄑㄚㄨ</rt></ruby> "tempest"
 - <ruby>[[古風]]<rt>ㄍㄛㄈㄨㄫ</rt></ruby> "elegant classical"

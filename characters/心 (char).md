@@ -52,6 +52,7 @@ boundedness: 90
 ## Words
 - <ruby>[[心]]<rt>ㄙㄧㄇ</rt></ruby> "heart" (stand-in for 心)
 - <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"
+- <ruby>[[心理学家]]<rt>ㄙㄧㄇㄌㄧㄏㄚㄎㄍㄚ</rt></ruby> "psychologist"
 - <ruby>[[二心]]<rt>ㄋㄧㄜㄙㄧㄇ</rt></ruby> "duplicity; a divided heart"
 - <ruby>[[心緒]]<rt>ㄙㄧㄇㄙ⼄</rt></ruby> "feelings; state of mind"
 - <ruby>[[悪心]]<rt>ㄚㄎㄙㄧㄇ</rt></ruby> "nauseated; nauseous"

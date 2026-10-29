@@ -111,6 +111,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[呆](../words/呆.md)<rt>ㄇㄚㄧ</rt></ruby>: dull-witted, foolish, dazed — the opposite pole from this section's cleverness words (發呆, "to space out"; 呆板, "rigid, wooden").
 - <ruby>[慧](../words/慧.md)<rt>ㄏ⼔ㄧ</rt></ruby>: bright, intelligent.
 - <ruby>[知性](../words/知性.md)<rt>ㄐㄨㄧㄙㄧㄫ</rt></ruby>: intelligent, smart, knowledgeable — see [[Knowledge]] for its own citation there.
+- <ruby>[個性](../words/個性.md)<rt>ㄍㄜㄙㄧㄫ</rt></ruby>: personality, individuality — what is distinctive in one person.
 
 ### Idea, Thought & Meaning
 

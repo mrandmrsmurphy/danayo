@@ -56,3 +56,4 @@ boundedness: 35
 - <ruby>[[個]]<rt>ㄍㄜ</rt></ruby> "individual" (stand-in for 個)
 - <ruby>[[個人]]<rt>ㄍㄜ·ㄋㄧㄋ</rt></ruby> "individual"
 - <ruby>[[個別]]<rt>ㄍㄜㄅㄝㄊ</rt></ruby> "individual, separate"
+- <ruby>[[個性]]<rt>ㄍㄜㄙㄧㄫ</rt></ruby> "personality, individuality, character"

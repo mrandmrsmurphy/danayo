@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby> "cart; car" (stand-in for 車)
 - <ruby>[[汽車]]<rt>ㄎㄧㄜㄑ⺢</rt></ruby> "steam train; locomotive"
 - <ruby>[[電車]]<rt>ㄉㄝㄋㄑ⺢</rt></ruby> "trolley; tram"
+- <ruby>[[列車]]<rt>ㄌㄝㄊㄑ⺢</rt></ruby> "train"
 - <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"
 - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby> "bicycle"
 - <ruby>[[乗車]]<rt>ㄙㄨㄫㄑ⺢</rt></ruby> "board a vehicle; get on"

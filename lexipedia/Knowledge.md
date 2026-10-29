@@ -216,6 +216,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[曽子](../words/曽子.md)<rt>ㄐㄜㄫㄐㄜ</rt></ruby>: Zengzi, disciple of Confucius.
 - <ruby>[士](../words/士.md)<rt>ㄙㄚㄧ</rt></ruby>: scholar (see Semantic Range Notes for its "warrior" cousin sense, kept out of this domain).
 - <ruby>[博士](../words/博士.md)<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby>: doctor (PhD).
+- <ruby>[心理学家](../words/心理学家.md)<rt>ㄙㄧㄇㄌㄧㄏㄚㄎㄍㄚ</rt></ruby>: psychologist, the practitioner of 心理学.
 - <ruby>[天才](../words/天才.md)<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby>: talented, genius, gifted.
 - <ruby>[英俊](../words/英俊.md)<rt>ㄝㄫㄐㄨㄋ</rt></ruby>: wise, heroic, handsome, talented.
 - <ruby>[英才](../words/英才.md)<rt>ㄝㄫㄐㄚㄧ</rt></ruby>: a gifted talent, prodigy.

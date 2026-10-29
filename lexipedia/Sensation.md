@@ -73,6 +73,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[肖像](../words/肖像.md)<rt>ㄙ⼄ㄨㄙ⼘ㄫ</rt></ruby>: an image — specifically a portrait of a person, distinct from [[影像]]'s general sense.
 - <ruby>[景致](../words/景致.md)<rt>ㄍ⼶ㄫㄑㄧㄜ</rt></ruby>: a view — scenery. See [Locatives](../lexipedia/Locatives.md) for its own citation there.
 - <ruby>[景色](../words/景色.md)<rt>ㄍ⼶ㄫㄙㄧㄎ</rt></ruby>: a view — a near-synonym of [[景致]].
+- <ruby>[風景](../words/風景.md)<rt>ㄈㄨㄫㄍ⼶ㄫ</rt></ruby>: a view — scenery, landscape. See [Locatives](../lexipedia/Locatives.md) for its own citation there.
 - <ruby>[観覧](../words/観覧.md)<rt>ㄍ⺢ㄋㄌㄚㄇ</rt></ruby>: to view, observe — the verb. See [Art](../lexipedia/Art.md) for its own citation there.
 - <ruby>[透](../words/透.md)<rt>ㄊㄛㄨ</rt></ruby>: transparent.
 
