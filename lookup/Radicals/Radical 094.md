@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 29
+size: 30
 radical: 犬
 tags:
   - lookup
@@ -84,6 +84,10 @@ tags:
 - 獸 --> traditional form of 獣
 - 兽 --> simplified of 獣
 29. <ruby>[獲](../../characters/獲.md)<rt>ㄏ⺢ㄎ</rt></ruby> - seize
+
+### +15 Strokes
+30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter
+- 獭 --> simplified of 獺
 
 ## Data check
 ```dataview

@@ -103,6 +103,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 
 - <ruby>[蜂](../words/蜂.md)<rt>ㄈㄛㄫ</rt></ruby>: bee, wasp, hornet.
 - <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey.
+- <ruby>[蟻](../words/蟻.md)<rt>ㄜㄧ</rt></ruby>: an ant.
 - <ruby>[蚊](../words/蚊.md)<rt>ㄇㄨㄋ</rt></ruby>: mosquito, gnat.
 - <ruby>[家蝿](../words/家蝿.md)<rt>ㄍㄚㄧㄫ</rt></ruby>: housefly.
 - <ruby>[猩蝿](../words/猩蝿.md)<rt>ㄙㄝㄫㄧㄫ</rt></ruby>: fruit fly, *Drosophila* — a Dan'a'yo shortening of the Japanese 猩々蠅, the "red-ape fly" named for its red eyes.
@@ -146,6 +147,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby>: dolphin — literally "sea pig."
 - <ruby>[海象](../words/海象.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: walrus — literally "sea elephant."
 - <ruby>[虎鯨](../words/虎鯨.md)<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby>: an orca, killer whale (Orcinus orca) — the "tiger whale", named for its ferocity; the standard Chinese term, with Japanese using シャチ instead; beside [海豚](../words/海豚.md) and [海象](../words/海象.md).
+- <ruby>[水獺](../words/水獺.md)<rt>ㄙㄨ·ㄊ⺢ㄊ</rt></ruby>: an otter — literally "water otter," the stand-in compound for the bound character 獺.
 - <ruby>[海馬](../words/海馬.md)<rt>ㄏㄚㄧㄇㄚ</rt></ruby>: seahorse.
 - <ruby>[海鼠](../words/海鼠.md)<rt>ㄏㄚㄧㄙ⼄</rt></ruby>: sea cucumber.
 - <ruby>[周魚](../words/周魚.md)<rt>ㄐㄨㄛ⼄</rt></ruby>: sea bream.

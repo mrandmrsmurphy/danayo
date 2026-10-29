@@ -1,7 +1,7 @@
 ---
 stroke_count: 19
 date-last-perfect: 2026-10-03
-size: 55
+size: 57
 tags:
   - lookup
 ---
@@ -9,10 +9,10 @@ tags:
 
 ## Characters
 ### In Use
-- 1-3-16: <ruby>[[懶]]<rt>ㄌㄚㄋ</rt></ruby>, <ruby>[[瀧]]<rt>ㄌㄛㄫ</rt></ruby>, <ruby>[[瀬]]<rt>ㄌㄚㄧ</rt></ruby>
+- 1-3-16: <ruby>[[懶]]<rt>ㄌㄚㄋ</rt></ruby>, <ruby>[[瀧]]<rt>ㄌㄛㄫ</rt></ruby>, <ruby>[[瀬]]<rt>ㄌㄚㄧ</rt></ruby>, <ruby>[[獺]]<rt>ㄊ⺢ㄊ</rt></ruby>
 - 1-4-15: <ruby>[[臘]]<rt>ㄌㄚㄆ</rt></ruby>, <ruby>[[臓]]<rt>ㄐㄚㄫ</rt></ruby>, <ruby>[[爆]]<rt>ㄅㄛㄎ</rt></ruby>
 - 1-5-14: <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby>
-- 1-6-13: <ruby>[[疆]]<rt>ㄍ⼘ㄋ</rt></ruby>, <ruby>[[繰 (char)|繰]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[蠖]]<rt>⺢ㄎ</rt></ruby>
+- 1-6-13: <ruby>[[疆]]<rt>ㄍ⼘ㄋ</rt></ruby>, <ruby>[[繰 (char)|繰]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[蠖]]<rt>⺢ㄎ</rt></ruby>, <ruby>[[蟻 (char)|蟻]]<rt>ㄜㄧ</rt></ruby>
 - 1-7-12: <ruby>[[蹲 (char)|蹲]]<rt>ㄐㄛㄋ</rt></ruby>, <ruby>[[蹴 (char)|蹴]]<rt>ㄑㄨㄎ</rt></ruby>, <ruby>[[譚]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[識]]<rt>ㄙㄧㄎ</rt></ruby>, <ruby>[[譜]]<rt>ㄅㄛ</rt></ruby>
 - 1-8-11: <ruby>[[鵰 (char)|鵰]]<rt>ㄑㄨㄛ</rt></ruby>, <ruby>[[鶏 (char)|鶏]]<rt>ㄍㄝㄧ</rt></ruby>, <ruby>[[鵡]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[鏡 (char)|鏡]]<rt>ㄍ⼶ㄫ</rt></ruby>
 - 1-9-10: <ruby>[[韻]]<rt>ㄨㄋ</rt></ruby>

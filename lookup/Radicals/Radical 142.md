@@ -1,5 +1,5 @@
 ---
-size: 43
+size: 44
 radical: 虫
 date-last-perfect: 2026-10-05
 tags:
@@ -74,12 +74,13 @@ tags:
 ### +13 Strokes
 40. <ruby>[蟹](../../characters/蟹%20(char).md)<rt>ㄏ⼘ㄧ</rt></ruby> - crab
 41. <ruby>[蠖](../../characters/蠖.md)<rt>⺢ㄎ</rt></ruby> - looper
+42. <ruby>[蟻](../../characters/蟻%20(char).md)<rt>ㄜㄧ</rt></ruby> - ant
 
 ### +14 Strokes
-42. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
+43. <ruby>[蠕](../../characters/蠕.md)<rt>ㄋㄨ</rt></ruby> - worm
 
 ### +15 Strokes
-43. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
+44. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
 
 ## Data check
 ```dataview

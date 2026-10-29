@@ -21,7 +21,7 @@ Left half has 6 strokes. Dominant components: 糸, 虫, 耳, 米, 舟.
 - [SKIP-1-6-10](lookup/SKIP/SKIP-1/SKIP-1-6-10.md): 糖, 緯, 緻, 縛, 縞, 縦, 縫, 艙, 螂, 螟
 - [SKIP-1-6-11](lookup/SKIP/SKIP-1/SKIP-1-6-11.md): 糟, 糠, 縮, 績, 繃, 繍, 聴, 螳, 螺
 - [SKIP-1-6-12](lookup/SKIP/SKIP-1/SKIP-1-6-12.md): 糧, 織, 繕, 繞, 職
-- [SKIP-1-6-13](lookup/SKIP/SKIP-1/SKIP-1-6-13.md): 繰, 蠖, 疆
+- [SKIP-1-6-13](lookup/SKIP/SKIP-1/SKIP-1-6-13.md): 繰, 蠖, 疆, 蟻
 - [SKIP-1-6-14](lookup/SKIP/SKIP-1/SKIP-1-6-14.md): 蠕, 耀
 - [SKIP-1-6-15](lookup/SKIP/SKIP-1/SKIP-1-6-15.md): 纏, 艦
 - [SKIP-1-6-16](lookup/SKIP/SKIP-1/SKIP-1-6-16.md): (aliases/redirects only)

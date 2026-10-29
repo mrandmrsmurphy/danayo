@@ -85,6 +85,7 @@ boundedness: 80
 - <ruby>[[水面]]<rt>ㄙㄨ·ㄇ⼶ㄋ</rt></ruby> "water surface"
 - <ruby>[[麗水]]<rt>ㄌㄝㄙㄨ</rt></ruby> "Yeosu"
 - <ruby>[[四水]]<rt>ㄙㄧㄜㄙㄨ</rt></ruby> "Surabaya; Si River"
+- <ruby>[[水獺]]<rt>ㄙㄨ·ㄊ⺢ㄊ</rt></ruby> "otter"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

@@ -1021,6 +1021,7 @@ tags: [lookup]
 [冉](../../characters/冉.md)
 [鳩](../../characters/鳩.md)
 [黜](../../characters/黜.md)
+[獺](../../characters/獺.md)
 
 ## Datacheck
 ```base

@@ -2113,9 +2113,9 @@ tags: [lookup]
 [铃](../../characters/鈴%20(char).md): 1
 [[鈴 (char)]]: 1
 [[蚂]]: 1
-[蚁](../../characters/蛾%20(char).md): 1
+[蚁](../../characters/蟻%20(char).md): 1
 [[螞]]: 1
-[蟻](../../characters/蛾%20(char).md): 1
+[蟻](../../characters/蟻%20(char).md): 1
 [[蔓]]: 1
 [[碌]]: 1
 [辙](../../characters/綴%20(char).md): 1

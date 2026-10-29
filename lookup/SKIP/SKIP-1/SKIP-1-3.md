@@ -21,7 +21,7 @@ tags: [lookup]
 13. [SKIP-1-3-13](lookup/SKIP/SKIP-1/SKIP-1-3-13.md): 嘴, 噫, 噸, 壅, 壇, 壊, 壌, 憐, 憶, 憾, 懐, 拠, 擁, 擅, 操, 澪, 激, 濁, 濃, 獲, 衛, 衡, 隣, 屿, 懍
 14. [SKIP-1-3-14](lookup/SKIP/SKIP-1/SKIP-1-3-14.md): 嚇, 徽, 擡, 擢, 擦, 擬, 擱, 濯, 鴻
 15. [SKIP-1-3-15](lookup/SKIP/SKIP-1/SKIP-1-3-15.md): 擲, 擺, 擾, 攄, 攅, 濫, 瀑
-16. [SKIP-1-3-16](lookup/SKIP/SKIP-1/SKIP-1-3-16.md): 懶, 瀧, 瀬
+16. [SKIP-1-3-16](lookup/SKIP/SKIP-1/SKIP-1-3-16.md): 懶, 瀧, 瀬, 獺
 17. [SKIP-1-3-17](lookup/SKIP/SKIP-1/SKIP-1-3-17.md): 瀕, 灌, 攘
 18. [SKIP-1-3-18](lookup/SKIP/SKIP-1/SKIP-1-3-18.md): 灋, 灘
 19. [SKIP-1-3-19](lookup/SKIP/SKIP-1/SKIP-1-3-19.md): ø

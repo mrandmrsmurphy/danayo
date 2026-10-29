@@ -1,5 +1,5 @@
 ---
-size: 27
+size: 28
 middle_chinese_final: ɣiᴇ
 date-last-perfect: 2026-10-05
 tags: [lookup]
@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 支B三開** splits by initial type into ㄨㄧ vs ㄜㄧ, with several smaller exceptions (see below)
 
 ## CJKV Evolution
-支B三開 [ɣiᴇ] shows the dual outcome the Vowels table already documents (`wi/i`): 10 real-initial characters land on **ㄨㄧ**, while all 7 null-initial characters (倚, 儀, 宜, 椅, 義, 議, 誼) land on **ㄜㄧ** instead — a clean initial-type split, not just a spelling artifact of glide fusion.
+支B三開 [ɣiᴇ] shows the dual outcome the Vowels table already documents (`wi/i`): 10 real-initial characters land on **ㄨㄧ**, while all 8 null-initial characters (倚, 儀, 宜, 椅, 義, 議, 誼, 蟻) land on **ㄜㄧ** instead — a clean initial-type split, not just a spelling artifact of glide fusion.
 
 A further 6 characters (被, 妓, 疲, 皮, 碑, 魑) drop the w-glide entirely and land on plain **ㄧ**. Four of these — 被, 疲, 皮, 碑 — are the same labial (b/p) family already documented scattering away from a w-glide outcome on [[聲 並|聲並]] (the 皮/疲/被 finding); 妓 dodges an already-crowded ㄍㄨㄧ (shared by 寄, 奇, 技, 騎); and 魑 has no daughter-language support either way (Mandarin chī, Cantonese ci1, Korean 치 show no /u/ quality, but neither does 知's identical-looking daughter set, and 知 still gets the w-glide) — a genuine unconditioned per-character pick.
 
@@ -19,7 +19,7 @@ Two singleton oddities round out the page: **晒** (⼘ㄧ) has no comparable sa
 ## Characters
 ### In Use
 - ㄨㄧ: <ruby>[[寄 (char)|寄]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[披 (char)|披]]<rt>ㄆㄨㄧ</rt></ruby>, <ruby>[[池 (char)|池]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[知 (char)|知]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[奇]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[戯]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[技]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[智]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[犠]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[騎]]<rt>ㄍㄨㄧ</rt></ruby>
-- ㄜㄧ: <ruby>[[倚 (char)|倚]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[儀]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[宜]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[椅]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[義]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[議]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[誼]]<rt>ㄜㄧ</rt></ruby>
+- ㄜㄧ: <ruby>[[倚 (char)|倚]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[儀]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[宜]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[椅]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[義]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[議]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[誼]]<rt>ㄜㄧ</rt></ruby>, <ruby>[[蟻 (char)|蟻]]<rt>ㄜㄧ</rt></ruby>
 - ㄧ: <ruby>[[被 (char)|被]]<rt>ㄆㄧ</rt></ruby>, <ruby>[[妓]]<rt>ㄍㄧ</rt></ruby>, <ruby>[[疲]]<rt>ㄆㄧ</rt></ruby>, <ruby>[[皮]]<rt>ㄅㄧ</rt></ruby>, <ruby>[[碑]]<rt>ㄅㄧ</rt></ruby>, <ruby>[[魑]]<rt>ㄑㄧ</rt></ruby>
 - ㄜ: <ruby>[[彼 (char)|彼]]<rt>ㄅㄜ</rt></ruby>, <ruby>[[馳]]<rt>ㄑㄜ</rt></ruby>
 - ⼘ㄧ: <ruby>[[晒 (char)|晒]]<rt>ㄙ⼘ㄧ</rt></ruby>

@@ -648,6 +648,9 @@ tags: [lookup]
 
 
 [[../../characters/吠]] - barking DO IT
+644. [蟻 (char)](../../characters/蟻%20(char).md)
+645. [獺](../../characters/獺.md)
+
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 
 [[棹]] [[樋]] [[鎚]] [[辻]] [[掟]] [[捗]] [[瀦]] [[躇]] [[銚]] [[楮]] [[疇]] [[躊]] [毯](../../characters/淡.md)
@@ -779,7 +782,6 @@ tags: [lookup]
 - 鹼 --> 鹸
 - 蔭-->陰
 - 鷲-->就
-- 蟻 --> 蛾
 - 搔 --> 掻
 - 繡 --> 繍
 - 曾 --> 曽
