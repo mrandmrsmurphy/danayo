@@ -44,9 +44,9 @@ boundedness: 65
 
 ## Notes
 - 形声: semantic [[Radical 072|日]] ("sun") + phonetic [[乍]] — "yesterday" (obsolete standalone in Standard Chinese); "former times, the past."
-- [SKIP-1-4-5](lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 3844th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄐㄚㄎ](syllables/ㄐㄚㄎ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 3844th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄐㄚㄎ](../syllables/ㄐㄚㄎ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[昨]]<rt>ㄐㄚㄎ</rt></ruby> "last; previous" (stand-in for 昨)

@@ -46,9 +46,9 @@ boundedness: 90
 ```
 ## Notes
 - 会意/形声 (OC \*ɢaː): semantic "wind; air" + phonetic 丂 (OC \*kʰluːʔ, "branch") — the original form of 呼 (OC \*qʰaː, "to call; to cry"), later differentiated from it; a grammatical particle.
-- [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 69th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](syllables/ㄏㄛ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 69th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[乎]]<rt>ㄏㄛ</rt></ruby> "did; do" (stand-in for 乎)

@@ -45,10 +45,10 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): [[Radical 057|弓]] ("bow") + [[Radical 059|彡]] ("hair," decoration in this case) — a decorative bow that is functionally inferior (an alternative reading takes the components as depicting a shaking, worn-out bow); "weak, feeble."
-- [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 550th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄋ⼘ㄎ](syllables/ㄋ⼘ㄎ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 057|弓]] ("bow") + [[Radical 059|彡]] ("hair," decoration in this case) — a decorative bow that is functionally inferior (an alternative reading takes the components as depicting a shaking, worn-out bow); "weak, feeble."
+- [SKIP-1-5-5](../lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 550th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄋ⼘ㄎ](../syllables/ㄋ⼘ㄎ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[弱]]<rt>ㄋ⼘ㄎ</rt></ruby> "weak" (stand-in for 弱)

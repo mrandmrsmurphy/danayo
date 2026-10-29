@@ -44,9 +44,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*kʰɯʔ): semantic [[Radical 156|走]] ("to walk; run") + phonetic [[巳]] (sì; OC uncertain) — to rise, to get up.
-- [SKIP-3-7-3](lookup/SKIP/SKIP-3/SKIP-3-7-3.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 247th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](syllables/ㄎㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-7-3](../lookup/SKIP/SKIP-3/SKIP-3-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 247th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](../syllables/ㄎㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[起]]<rt>ㄎㄧ</rt></ruby> "to rise up" (stand-in for 起)

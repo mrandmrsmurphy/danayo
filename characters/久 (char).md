@@ -43,10 +43,10 @@ boundedness: 65
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): likely a pictogram of an arrow tip, though the exact visual relationship to the modern form is uncertain.
-- [SKIP-4-3-1](lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 411th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜](syllables/ㄍ⼜.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): likely a pictogram of an arrow tip, though the exact visual relationship to the modern form is uncertain.
+- [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 411th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜](../syllables/ㄍ⼜.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[久]]<rt>ㄍ⼜</rt></ruby> "long time (ago)" (stand-in for 久)

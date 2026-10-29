@@ -49,10 +49,10 @@ boundedness: 65
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a turtle viewed from above — shell, head, tail, and four legs visible. Dan'a'yo uses 亀 (shinjitai) rather than the traditional 龜 or simplified 龟, both of which are visually distinctive to audiences outside their respective writing traditions.
-- [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1,059th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍㄨㄛ](syllables/ㄍㄨㄛ.md)
-- [Grade 6](lookup/Grade%206.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a turtle viewed from above — shell, head, tail, and four legs visible. Dan'a'yo uses 亀 (shinjitai) rather than the traditional 龜 or simplified 龟, both of which are visually distinctive to audiences outside their respective writing traditions.
+- [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1,059th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍㄨㄛ](../syllables/ㄍㄨㄛ.md)
+- [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby> "turtle"

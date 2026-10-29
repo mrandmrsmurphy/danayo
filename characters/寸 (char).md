@@ -48,10 +48,10 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): a mark below 又/手 ("hand") indicating the pulse-point on the wrist, one 寸 (inch) inward from the palm — per Shuowen, "a position on the forearm where the pulse can be palpated."
-- [SKIP-3-2-1](lookup/SKIP/SKIP-3/SKIP-3-2-1.md) ([Stroke 03](lookup/Stroke/Stroke%2003.md))
-- 666th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄑㄛㄋ](syllables/ㄑㄛㄋ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): a mark below 又/手 ("hand") indicating the pulse-point on the wrist, one 寸 (inch) inward from the palm — per Shuowen, "a position on the forearm where the pulse can be palpated."
+- [SKIP-3-2-1](../lookup/SKIP/SKIP-3/SKIP-3-2-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
+- 666th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄑㄛㄋ](../syllables/ㄑㄛㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[寸]]<rt>ㄑㄛㄋ</rt></ruby> "inch; measurement" (stand-in for 寸)

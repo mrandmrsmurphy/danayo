@@ -60,6 +60,7 @@ boundedness: 55
 - <ruby>[[飛行]]<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby> "fly; flight"
 - <ruby>[[銀行]]<rt>ㄧㄋㄏㄚㄫ</rt></ruby> "bank"
 - <ruby>[[行動]]<rt>ㄏㄚㄫㄉㄛㄫ</rt></ruby> "act; action"
+- <ruby>[[並行]]<rt>ㄅㄝㄫㄏㄚㄫ</rt></ruby> "go side by side, run concurrently, proceed in parallel"
 - <ruby>[[行事]]<rt>ㄏㄚㄫㄐㄧ</rt></ruby> "action; function"
 - <ruby>[[通行]]<rt>ㄊㄛㄫㄏㄚㄫ</rt></ruby> "pass through; traffic across"
 - <ruby>[[通行証]]<rt>ㄊㄛㄫㄏㄚㄫㄐㄧㄫ</rt></ruby> "permit; pass; prerequisite"

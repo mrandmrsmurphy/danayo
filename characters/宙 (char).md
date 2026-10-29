@@ -42,9 +42,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*l'ɯwɢs): semantic [[Radical 040|宀]] ("roof") + phonetic [[由 (char)|由]] (OC \*lɯw) — originally the ridgepole and beams of a house, extended to boundless space and time (as in 宇宙).
-- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 3286th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](syllables/ㄐㄨㄛ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 3286th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄛ](../syllables/ㄐㄨㄛ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[宙]]<rt>ㄐㄨㄛ</rt></ruby> "eternity" (stand-in for 宙)

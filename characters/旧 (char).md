@@ -47,9 +47,9 @@ boundedness: 80
 
 ## Notes
 - 形声: semantic 雈 ("owl," no vault page) + phonetic [[臼 (char)|臼]] (OC \*ɡuʔ) — originally a type of owl, later phonetically borrowed for a homophonous word meaning "old."
-- [SKIP-1-1-4](lookup/SKIP/SKIP-1/SKIP-1-1-4.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 873rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜ㄛ](syllables/ㄍ⼜ㄛ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-1-4](../lookup/SKIP/SKIP-1/SKIP-1-1-4.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 873rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜ㄛ](../syllables/ㄍ⼜ㄛ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[旧]]<rt>ㄍ⼜ㄛ</rt></ruby> "paleo-; former; old" (stand-in for 旧)

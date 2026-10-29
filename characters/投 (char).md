@@ -44,9 +44,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*doː): semantic [[Radical 064|手]] ("hand") + phonetic 殳 (OC \*djo, no vault page) — "to throw, to fling"; extended to "casting, projecting, putting in, abandoning."
-- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 1287th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄉㄛㄨ](syllables/ㄉㄛㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1287th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄉㄛㄨ](../syllables/ㄉㄛㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[投]]<rt>ㄉㄛㄨ</rt></ruby> "to throw" (stand-in for 投)

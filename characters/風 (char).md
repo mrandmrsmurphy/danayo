@@ -49,9 +49,9 @@ boundedness: 90
 
 ## Notes
 - 假借 (OC \*plum): originally borrowed the character for 鳳 ("phoenix"), itself semantic phoenix-tail feathers + phonetic [[凡]] (OC \*bom); the feather strands were simplified over time into the modern 虫-looking bottom component, which is a graphic vestige, not a true "insect" semantic radical. 風 itself is its own Kangxi radical (182).
-- [SKIP-3-2-7](lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 279th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄈㄨㄫ](syllables/ㄈㄨㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-2-7](../lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 279th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄈㄨㄫ](../syllables/ㄈㄨㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[風]]<rt>ㄈㄨㄫ</rt></ruby> "wind" (stand-in for 風)

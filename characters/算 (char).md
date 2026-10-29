@@ -44,9 +44,9 @@ boundedness: 80
 
 ## Notes
 - 会意: [[Radical 118|竹]] ("bamboo") + 目 (originally counting rods) + 廾 ("hands, a grasp") — to calculate, to count.
-- [SKIP-2-6-8](lookup/SKIP/SKIP-2/SKIP-2-6-8.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 1984th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄙ⺢ㄋ](syllables/ㄙ⺢ㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-8](../lookup/SKIP/SKIP-2/SKIP-2-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1984th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄙ⺢ㄋ](../syllables/ㄙ⺢ㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[算]]<rt>ㄙ⺢ㄋ</rt></ruby> "to calculate" (stand-in for 算)

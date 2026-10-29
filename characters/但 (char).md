@@ -51,9 +51,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*daːn, \*daːnʔ, \*daːns): semantic [[Radical 009|人]] ("person") + phonetic [[旦]] (OC \*taːns) — traced to Proto-Sino-Tibetan \*(d/t)a(n/j) ("single; one; whole; only"), cognate with 單 (OC \*taːn, "single"); "single, only" extended to the contrastive "but, however, yet."
-- [SKIP-1-2-5](lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 1,241st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄉㄚㄋ](syllables/ㄉㄚㄋ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-5](../lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1,241st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄉㄚㄋ](../syllables/ㄉㄚㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby> "but; however"

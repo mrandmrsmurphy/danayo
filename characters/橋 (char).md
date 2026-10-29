@@ -49,9 +49,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*ɡrew): semantic [[Radical 075|木]] ("wood") + phonetic [[喬]] (OC \*krew, \*ɡrew) — bridge.
-- [SKIP-1-4-12](lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 1825th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄍ⼘ㄨ](syllables/ㄍ⼘ㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-12](../lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 1825th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄍ⼘ㄨ](../syllables/ㄍ⼘ㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[橋]]<rt>ㄍ⼘ㄨ</rt></ruby> "bridge" (stand-in for 橋)

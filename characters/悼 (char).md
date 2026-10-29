@@ -51,4 +51,4 @@ boundedness: 75
 
 ## Words
 - <ruby>[[悼]]<rt>ㄉㄚㄨ</rt></ruby> "lament" (stand-in for 悼)
-- <ruby>[[哀悼]]<rt>ㄚㄋㄙㄚㄨ</rt></ruby> "offer condolences"
+- <ruby>[[哀悼]]<rt>ㄚㄧㄉㄚㄨ</rt></ruby> "offer condolences"

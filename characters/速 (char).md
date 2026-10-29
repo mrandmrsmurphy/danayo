@@ -44,9 +44,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*sloːɡ): semantic [[Radical 162|辵]] ("motion") + phonetic [[束 (char)|束]] (OC \*hljoɡ) — fast, rapid motion.
-- [SKIP-3-4-7](lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1363rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄙㄛㄎ](syllables/ㄙㄛㄎ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1363rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄙㄛㄎ](../syllables/ㄙㄛㄎ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby> "quick, fast" (stand-in for 速)

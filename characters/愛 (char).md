@@ -47,9 +47,9 @@ boundedness: 80
 
 ## Notes
 - 形声: originally written 㤅, phonetic 旡 (no vault page) + semantic [[Radical 061|心]] ("heart"). During the Qin dynasty a redundant component 夊 ("foot") was added at the bottom; the original phonetic 旡 later corrupted into ⿱爫冖. "To love; to treasure, value; to like, be fond of."
-- [SKIP-2-4-9](lookup/SKIP/SKIP-2/SKIP-2-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 362nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄚㄧ](syllables/ㄚㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-9](../lookup/SKIP/SKIP-2/SKIP-2-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 362nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄚㄧ](../syllables/ㄚㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby> "love" (stand-in for 愛)
@@ -58,7 +58,7 @@ boundedness: 80
 - <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> "boyfriend"
 - <ruby>[[愛媛]]<rt>ㄚㄧㄛㄋ</rt></ruby> "Ehime Prefecture"
 - <ruby>[[可愛]]<rt>ㄎㄜㄚㄧ</rt></ruby> "cute"
-- <ruby>[[恩愛]]<rt>ㄚㄋ·ㄚㄧ</rt></ruby> "love"
+- <ruby>[[恩愛]]<rt>ㄜㄋ·ㄚㄧ</rt></ruby> "love"
 - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby> "to like"
 - <ruby>[[愛惜]]<rt>ㄚㄧㄙㄝㄎ</rt></ruby> "to cherish; treasure"
 - <ruby>[[愛情]]<rt>ㄚㄧㄑㄧㄫ</rt></ruby> "love; affection; romance"

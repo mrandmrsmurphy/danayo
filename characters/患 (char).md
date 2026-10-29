@@ -49,7 +49,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[患]]<rt>ㄏ⺢ㄇ</rt></ruby> "suffer from" (stand-in for 患)
-- <ruby>[[罹患]]<rt>ㄌㄧㄏ⼘ㄋ</rt></ruby> "suffer from, contract"
+- <ruby>[[罹患]]<rt>ㄌㄧㄏ⺢ㄇ</rt></ruby> "suffer from, contract"
 
 ## Chengyu
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"

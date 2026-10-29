@@ -45,9 +45,9 @@ boundedness: 80
 
 ## Notes
 - 会意 of [[口 (char)|口]] ("mouth") and [[Radical 196|鳥]] ("bird") — a bird's cry, vocalization.
-- [SKIP-1-3-11](lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 865th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄇ⼶ㄫ](syllables/ㄇ⼶ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 865th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[鳴]]<rt>ㄇ⼶ㄫ</rt></ruby> "cry, chirp" (stand-in for 鳴)

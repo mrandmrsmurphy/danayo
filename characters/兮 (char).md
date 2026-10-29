@@ -41,7 +41,7 @@ date-last-perfect: 2026-10-20
 
 ## Notes
 - 會意: [[丂]] ("a fork in a tree, breath catching on an obstruction," no vault page) + [[八 (char)|八]] ("dispersal, breath escaping outward like wind through trees") — together depicting an exhaled sigh or exclamatory breath. Functions purely as a classical exclamatory/rhythmic particle, marking a pause or emphasis in verse (e.g. Xiang Yu's 垓下歌, and throughout the 楚辭).
-- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 4](../lookup/Stroke/Stroke%204.md))
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 258th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄏㄝㄧ](../syllables/ㄏㄝㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 

@@ -46,14 +46,14 @@ boundedness: 95
 ```
 
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): originally 𫢁, combining 享 ("temple") + [[京]] ("tower") — "to sacrifice at a high place." During the Warring States period, 享 was omitted and [[尤]] ("especially, even more") added — "high, to go to a higher place"; extended to "to approach, reach; to undertake; to succeed."
-- [SKIP-1-8-4](lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 552nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑ⺢ㄧ](syllables/ㄑ⺢ㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): originally 𫢁, combining 享 ("temple") + [[京]] ("tower") — "to sacrifice at a high place." During the Warring States period, 享 was omitted and [[尤]] ("especially, even more") added — "high, to go to a higher place"; extended to "to approach, reach; to undertake; to succeed."
+- [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 552nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑ⺢ㄧ](../syllables/ㄑ⺢ㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - 就 also serves as a borrowed character (代用字) for 鷲 ("eagle"), hence 鷲鳥 → [[就鳥]] and 禿鷲 → [[禿就]] below; that sense uses the alias reading ㄐㄨㄛ rather than this character's own ㄑ⺢ㄧ.
 
 ## Words
-- <ruby>[[就]]<rt>ㄐㄨㄛ</rt></ruby> "about; let" (stand-in for 就)
+- <ruby>[[就]]<rt>ㄑ⺢ㄧ</rt></ruby> "about; let" (stand-in for 就)
 - <ruby>[[就鳥]]<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby> "vulture"
 - <ruby>[[禿就]]<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby> "old world vulture"
 - <ruby>[[海就]]<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby> "sea eagle"

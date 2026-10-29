@@ -50,9 +50,9 @@ boundedness: 90
 
 ## Notes
 - 形声: semantic [[Radical 086|火]] ("fire") + phonetic 埶 — heat.
-- [SKIP-2-11-4](lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](lookup/Stroke/Stroke%2015.md))
-- 641st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄋ⼶ㄊ](syllables/ㄋ⼶ㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-11-4](../lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
+- 641st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄋ⼶ㄊ](../syllables/ㄋ⼶ㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[熱]]<rt>ㄋ⼶ㄊ</rt></ruby> "heat up; be hot" (stand-in for 熱)

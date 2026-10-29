@@ -46,9 +46,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*djeŋ): semantic [[戊]] ("weapon; protection") + phonetic [[丁 (char)|丁]] (OC \*rteːŋ, \*teːŋ) — originally "city walls," a reference to something protected (preserved in [[characters/城|城]]); "to succeed, accomplish, complete; to become."
-- [SKIP-4-6-4](lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 93rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄙㄧㄫ](syllables/ㄙㄧㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-6-4](../lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 93rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄙㄧㄫ](../syllables/ㄙㄧㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[成]]<rt>ㄙㄧㄫ</rt></ruby> "to become" (stand-in for 成)

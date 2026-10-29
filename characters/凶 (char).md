@@ -46,10 +46,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md) (also analyzed as [指事](lookup/List%20of%20指事.md) — Wiktionary presents both as an open dual reading rather than a settled consensus): [[Radical 017|凵]] represents a hole in the ground; 㐅 (no vault page) either — under the 指事 reading — indicates the hole's existence, or — under the 象形 reading — depicts rock, mud, stone, or bamboo inside the hole. Alternately, the glyph may derive from the upper component of 㚇 (no vault page).
-- [SKIP-3-2-2](lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 682nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄏ⼜ㄫ](syllables/ㄏ⼜ㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md) (also analyzed as [指事](../lookup/List%20of%20指事.md) — Wiktionary presents both as an open dual reading rather than a settled consensus): [[Radical 017|凵]] represents a hole in the ground; 㐅 (no vault page) either — under the 指事 reading — indicates the hole's existence, or — under the 象形 reading — depicts rock, mud, stone, or bamboo inside the hole. Alternately, the glyph may derive from the upper component of 㚇 (no vault page).
+- [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 682nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄏ⼜ㄫ](../syllables/ㄏ⼜ㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[凶]]<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky; calamitous; sinister" (stand-in for 凶)

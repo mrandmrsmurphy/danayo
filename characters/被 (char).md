@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声: semantic [[Radical 145|衣]] ("clothing") + phonetic [[皮]] (OC *bral) — cognate with [[披 (char)|披]] ("to wear; to be covered"); originally "to cover, a coverlet," extended metaphorically to the passive-voice marker ("to be covered by [an action]").
-- [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 627th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄆㄧ](syllables/ㄆㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-5-5](../lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 627th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄆㄧ](../syllables/ㄆㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[被]]<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)" (stand-in for 被)

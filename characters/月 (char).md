@@ -104,7 +104,7 @@ boundedness: 80
 - <ruby>[[亥月]]<rt>ㄏㄚㄧ⼔ㄊ</rt></ruby> "tenth month (pig month)"
 - <ruby>[[子月]]<rt>ㄐㄜ⼔ㄊ</rt></ruby> "eleventh month (rat month)"
 - <ruby>[[丑月]]<rt>ㄑㄨ⼔ㄊ</rt></ruby> "twelfth month (ox month)"
-- <ruby>[[正月]]<rt>ㄍㄧㄫ·⼔ㄊ</rt></ruby> "first month of the year"
+- <ruby>[[正月]]<rt>ㄐㄧㄫ⼔ㄊ</rt></ruby> "first month of the year"
 - <ruby>[[杏月]]<rt>ㄏㄚㄫ⼔ㄊ</rt></ruby> "apricot blossom month (2nd month)"
 - <ruby>[[桃月]]<rt>ㄉㄚㄨ⼔ㄊ</rt></ruby> "peach blossom month (3rd month)"
 - <ruby>[[槐月]]<rt>ㄏ⺢ㄧ⼔ㄊ</rt></ruby> "pagoda-tree month (4th month)"

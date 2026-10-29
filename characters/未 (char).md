@@ -44,10 +44,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a [[Radical 075|木]] ("tree") with lush, heavy foliage at the top — the Shuowen glosses it as "a tree with layered branches and leaves" (象木重枝葉也).
-- [SKIP-4-5-3](lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 103rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄇㄨㄧ](syllables/ㄇㄨㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a [[Radical 075|木]] ("tree") with lush, heavy foliage at the top — the Shuowen glosses it as "a tree with layered branches and leaves" (象木重枝葉也).
+- [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 103rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄇㄨㄧ](../syllables/ㄇㄨㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[未]]<rt>ㄇㄨㄧ</rt></ruby> "not yet" (stand-in for 未)

@@ -44,9 +44,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*qɯːms): semantic [[Radical 072|日]] ("sun") + phonetic [[音]] (OC \*qrɯm).
-- [SKIP-1-4-9](lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 2372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄚㄇ](syllables/ㄚㄇ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 2372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄚㄇ](../syllables/ㄚㄇ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[暗]]<rt>ㄚㄇ</rt></ruby> "dark" (stand-in for 暗)

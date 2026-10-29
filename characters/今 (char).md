@@ -44,10 +44,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 指事](lookup/List%20of%20指事.md): an indicator beneath 亼 (a covered gathering) marking the present moment; Shuowen interprets this as an inverted 曰 ("to speak"), suggesting the present is the moment of speech — what is being said *right now*.
-- [SKIP-2-2-2](lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 4](lookup/Stroke/Stroke%204.md))
-- 80th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](syllables/ㄍㄧㄇ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 指事](../lookup/List%20of%20指事.md): an indicator beneath 亼 (a covered gathering) marking the present moment; Shuowen interprets this as an inverted 曰 ("to speak"), suggesting the present is the moment of speech — what is being said *right now*.
+- [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 80th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](../syllables/ㄍㄧㄇ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby> "now"

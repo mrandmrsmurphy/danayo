@@ -45,10 +45,10 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground; "to sit."
-- [SKIP-4-7-2](lookup/SKIP/SKIP-4/SKIP-4-7-2.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 306th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄐ⺢](syllables/ㄐ⺢.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground; "to sit."
+- [SKIP-4-7-2](../lookup/SKIP/SKIP-4/SKIP-4-7-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 306th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄐ⺢](../syllables/ㄐ⺢.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[坐]]<rt>ㄐ⺢</rt></ruby> "to sit" (stand-in for 坐)

@@ -48,9 +48,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*kreː): semantic [[Radical 009|人]] ("man; person") + phonetic [[圭]] (OC \*kʷeː).
-- [SKIP-1-2-6](lookup/SKIP/SKIP-1/SKIP-1-2-6.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 3,380th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄍ⼘ㄧ](syllables/ㄍ⼘ㄧ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-6](../lookup/SKIP/SKIP-1/SKIP-1-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 3,380th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄍ⼘ㄧ](../syllables/ㄍ⼘ㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[佳]]<rt>ㄍ⼘ㄧ</rt></ruby> "beautiful; good; excellent"

@@ -51,9 +51,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*koː, \*koːs, \*kos, \*ɡo): semantic 丩 ("to entangle," no vault page) + phonetic [[Radical 030|口]] (OC \*kʰoːʔ) — "sentence; phrase"; also a classifier for sentences.
-- [SKIP-3-2-3](lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 1075th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](syllables/ㄍㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 1075th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[句]]<rt>ㄍㄨ</rt></ruby> "phrase; sentence; stanza" (stand-in for 句)

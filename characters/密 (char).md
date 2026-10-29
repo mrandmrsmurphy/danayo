@@ -47,9 +47,9 @@ boundedness: 70
 
 ## Notes
 - 形声 (OC \*mriɡ): semantic [[山 (char)|山]] ("mountain") + phonetic 宓 (OC \*mriɡ) — hidden in the mountains: secret, intimate. (宓 has no character page in this vault; the character's own Kangxi indexing radical, `宀`, is embedded inside 宓 rather than being the semantic component here.)
-- [SKIP-2-3-8](lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1125th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄇㄧㄊ](syllables/ㄇㄧㄊ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-8](../lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1125th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄇㄧㄊ](../syllables/ㄇㄧㄊ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby> "dense; thick; close; intimate; secret" (stand-in for 密)

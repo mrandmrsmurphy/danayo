@@ -50,9 +50,9 @@ boundedness: 100
 
 ## Notes
 - 形声: semantic [[Radical 074|月]] ("moon") + phonetic [[其]] — the moon's phases mark periods of time.
-- [SKIP-1-4-8](lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 675th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](syllables/ㄎㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 675th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](../syllables/ㄎㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[期]]<rt>ㄎㄧ</rt></ruby> "period; time; season" (stand-in for 期)

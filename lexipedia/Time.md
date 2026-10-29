@@ -125,6 +125,7 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[一朝](../words/一朝.md)<rt>ㄧㄊㄐㄚㄨ</rt></ruby>: a short time, a brief moment — "a short while," broader than [[一瞬]]/[[刹那]]'s point-instant, closer to "overnight" as a byword for suddenness.
 - <ruby>[俯仰](../words/俯仰.md)<rt>ㄈㄨ⼘ㄫ</rt></ruby>: in an instant, in the blink of an eye (俯仰之間) — figurative, from the literal image of lowering and raising the head.
 - <ruby>[同時](../words/同時.md)<rt>ㄉㄛㄫㄙㄧ</rt></ruby>: simultaneous — at the same time.
+- <ruby>[並行](../words/並行.md)<rt>ㄅㄝㄫㄏㄚㄫ</rt></ruby>: to run concurrently, side by side in time.
 - <ruby>[徐様](../words/徐様.md)<rt>ㄙ⼄⼘ㄫ</rt></ruby>: slowly.
 
 ### The "Present" Cluster

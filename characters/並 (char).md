@@ -53,6 +53,7 @@ boundedness: 90
 ## Words
 - <ruby>[[並]]<rt>ㄅㄝㄫ</rt></ruby> "side by side" (stand-in for 並)
 - <ruby>[[並列]]<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby> "parallel, juxtaposed"
+- <ruby>[[並行]]<rt>ㄅㄝㄫㄏㄚㄫ</rt></ruby> "go side by side, run concurrently, proceed in parallel"
 - <ruby>[[並立]]<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby> "to stand side by side; coexist"
 
 ## Chengyu

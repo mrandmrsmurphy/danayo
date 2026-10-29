@@ -49,9 +49,9 @@ boundedness: 90
 
 ## Notes
 - 形声: semantic [[Radical 102|田]] ("field") + phonetic 丣 — to stay put in one place.
-- [SKIP-2-5-5](lookup/SKIP/SKIP-2/SKIP-2-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 541st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄌ⼜](syllables/ㄌ⼜.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-5-5](../lookup/SKIP/SKIP-2/SKIP-2-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 541st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄌ⼜](../syllables/ㄌ⼜.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[留]]<rt>ㄌ⼜</rt></ruby> "remain; stay" (stand-in for 留)

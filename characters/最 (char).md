@@ -47,9 +47,9 @@ boundedness: 80
 
 ## Notes
 - 會意 of 冃 ("cap; cover") and [[取]] ("to take") — the Shuowen glosses it as "to violate and seize" (犯而取也); the superlative sense is a later extension.
-- [SKIP-2-4-8](lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1207th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 泰合|uɑi]] → [ㄐ⼔](syllables/ㄐ⼔.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-8](../lookup/SKIP/SKIP-2/SKIP-2-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1207th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 泰合|uɑi]] → [ㄐ⼔](../syllables/ㄐ⼔.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[最]]<rt>ㄐ⼔</rt></ruby> "most" (stand-in for 最)

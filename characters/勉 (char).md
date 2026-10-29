@@ -46,9 +46,9 @@ boundedness: 75
 
 ## Notes
 - 形声 (OC \*mronʔ): semantic [[Radical 019|力]] ("strength, effort") + phonetic [[免]] (OC \*mronʔ) — "to make a strong effort," 力 supplying the force and 免 the sound.
-- [SKIP-3-8-2](lookup/SKIP/SKIP-3/SKIP-3-8-2.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1,454th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 仙B三開|ɣiᴇn]] → [ㄇ⼶ㄋ](syllables/ㄇ⼶ㄋ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-8-2](../lookup/SKIP/SKIP-3/SKIP-3-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1,454th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 仙B三開|ɣiᴇn]] → [ㄇ⼶ㄋ](../syllables/ㄇ⼶ㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[勉]]<rt>ㄇ⼶ㄋ</rt></ruby> "exert; urge" (stand-in for 勉)

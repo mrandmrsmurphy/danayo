@@ -45,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*pʰaːl, \*pʰaːlʔ, \*pʰaːls): semantic [[Radical 181|頁]] ("head") + phonetic [[皮 (char)|皮]] (shares initial and vowel pattern in Old Chinese) — very, quite; skewed.
-- [SKIP-1-5-9](lookup/SKIP/SKIP-1/SKIP-1-5-9.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 1176th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄈㄚ](syllables/ㄈㄚ.md)
-- [Grade 1](lookup/Grade%201.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-5-9](../lookup/SKIP/SKIP-1/SKIP-1-5-9.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1176th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄈㄚ](../syllables/ㄈㄚ.md)
+- [Grade 1](../lookup/Grade%201.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 - Vietnamese pronunciation chosen to fill a vacant syllable
 
 ## Words

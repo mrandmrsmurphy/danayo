@@ -49,4 +49,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[霜]]<rt>ㄙ⺢ㄫ</rt></ruby> "frost" (stand-in for 霜)
-- <ruby>[[星霜]]<rt>ㄙㄝㄋㄙ⺢ㄫ</rt></ruby> "time and years"
+- <ruby>[[星霜]]<rt>ㄙㄝㄫㄙ⺢ㄫ</rt></ruby> "time and years"

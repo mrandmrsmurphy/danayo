@@ -44,10 +44,10 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): vertical bamboo slips bound by horizontal cords — the vertical strokes are the slips, the horizontal line(s) the binding string. Shares this pictographic component with 侖 (no vault page), [[扁]], and [[典]]; similar in appearance but etymologically unrelated to 龠 (no vault page). The contemporary stylized form 册 is unrelated to 朋.
-- [SKIP-4-5-1](lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 2,941st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄑㄚㄎ](syllables/ㄑㄚㄎ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): vertical bamboo slips bound by horizontal cords — the vertical strokes are the slips, the horizontal line(s) the binding string. Shares this pictographic component with 侖 (no vault page), [[扁]], and [[典]]; similar in appearance but etymologically unrelated to 龠 (no vault page). The contemporary stylized form 册 is unrelated to 朋.
+- [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 2,941st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄑㄚㄎ](../syllables/ㄑㄚㄎ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[冊]]<rt>ㄑㄚㄎ</rt></ruby> "bound volumes" (stand-in for 冊)

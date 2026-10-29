@@ -69,6 +69,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[並](../words/並.md)<rt>ㄅㄝㄫ</rt></ruby>: side by side.
 - <ruby>[並列](../words/並列.md)<rt>ㄅㄝㄫㄌㄝㄊ</rt></ruby>: parallel, juxtaposed, side by side.
 - <ruby>[並立](../words/並立.md)<rt>ㄅㄝㄫㄌㄧㄆ</rt></ruby>: to stand side by side, to coexist, to be parallel.
+- <ruby>[並行](../words/並行.md)<rt>ㄅㄝㄫㄏㄚㄫ</rt></ruby>: to go side by side, run concurrently; the motion word beside 並列 and 並立.
 
 ### Alignment & Angle
 

@@ -48,9 +48,9 @@ boundedness: 100
 
 ## Notes
 - 会意 (oracle-bone form): 屮/木 ("grass, tree") + 日 ("sun") + [[Radical 074|月]] ("moon") — the sun rising above the ground while the waning moon is still in the sky; morning. The clerical-script form condensed the grass-and-sun elements into [[卓|龺]]. "Morning" extended to "perform the morning ceremony" and then "to go to court, to have an audience" — hence the modern senses of dynasty and court.
-- [SKIP-1-8-4](lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 210th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄐㄚㄨ](syllables/ㄐㄚㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 210th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄐㄚㄨ](../syllables/ㄐㄚㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[朝]]<rt>ㄐㄚㄨ</rt></ruby> "morning" (stand-in for 朝)

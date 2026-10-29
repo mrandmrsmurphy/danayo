@@ -43,7 +43,7 @@ date-last-perfect: 2026-10-20
 
 ## Notes
 - 形声: semantic [[Radical 096|玉]] ("jade") + phonetic [[㐱]] (zhěn) — "rare, precious" (a rare treasure, as jade).
-- [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 9](../lookup/Stroke/Stroke%209.md))
+- [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1543rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄑㄧㄋ](../syllables/ㄑㄧㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 

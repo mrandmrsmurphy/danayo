@@ -48,9 +48,9 @@ boundedness: 65
 
 ## Notes
 - 会意 of 夂 ("foot," originally 人) and [[Radical 016|几]] ("table, stool") — to arrive at a table and stop; "to dwell, to be at a place." Per Shuowen, 処 (this form) is actually the standard/original character; 處 (with 虍 added) is the later variant that came to dominate — the reverse of the usual assumption that 処 is merely a simplification of 處.
-- [SKIP-3-3-2](lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](lookup/Stroke/Stroke%2005.md))
-- 323rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄑㄛ](syllables/ㄑㄛ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
+- 323rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄑㄛ](../syllables/ㄑㄛ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[処]]<rt>ㄑㄛ</rt></ruby> "place" (stand-in for 処)

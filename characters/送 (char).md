@@ -44,9 +44,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*sloːŋs): semantic [[Radical 162|辵]] ("walking; motion") + phonetic [[灷]] (zhuàn; OC uncertain) — to send off, to escort on a journey.
-- [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 781st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄙㄛㄫ](syllables/ㄙㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 781st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄙㄛㄫ](../syllables/ㄙㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[送]]<rt>ㄙㄛㄫ</rt></ruby> "give" (stand-in for 送)

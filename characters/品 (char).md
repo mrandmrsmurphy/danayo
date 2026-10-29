@@ -44,9 +44,9 @@ boundedness: 75
 
 ## Notes
 - 会意: Triplication of [[Radical 030|口]] ("mouth"), representing various objects — a multiplicity of items/things, underlying the later senses "article, product" and "grade, rank" (things sorted into categories). Also occurs in 區 (no vault page).
-- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1,854th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄆㄨㄇ](syllables/ㄆㄨㄇ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1,854th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄆㄨㄇ](../syllables/ㄆㄨㄇ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[品]]<rt>ㄆㄨㄇ</rt></ruby> "article; item" (stand-in for 品)

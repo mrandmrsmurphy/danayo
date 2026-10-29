@@ -44,9 +44,9 @@ boundedness: 100
 
 ## Notes
 - 形声: semantic [[Radical 112|石]] ("stone") + phonetic [[皮]] — to break (as stone breaks things).
-- [SKIP-1-5-5](lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 385th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄆㄜ](syllables/ㄆㄜ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-5-5](../lookup/SKIP/SKIP-1/SKIP-1-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 385th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄆㄜ](../syllables/ㄆㄜ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[破]]<rt>ㄆㄜ</rt></ruby> "rend; break" (stand-in for 破)

@@ -46,10 +46,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a horse with its head facing the left, showing a flowing mane in the wind, standing vertically on two legs. In the bronze inscriptions, the head was often simplified into an eye (目 (mù)). The legs eventually evolved into four dots (灬 (huǒ), unrelated to 火 (huǒ)).
-- [SKIP-3-6-4](lookup/SKIP/SKIP-3/SKIP-3-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 145th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](syllables/ㄇㄚ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a horse with its head facing the left, showing a flowing mane in the wind, standing vertically on two legs. In the bronze inscriptions, the head was often simplified into an eye (目 (mù)). The legs eventually evolved into four dots (灬 (huǒ), unrelated to 火 (huǒ)).
+- [SKIP-3-6-4](../lookup/SKIP/SKIP-3/SKIP-3-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 145th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby> "horse" (stand-in for 馬)

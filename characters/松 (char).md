@@ -47,9 +47,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*sɢloŋ): semantic [[Radical 075|木]] ("wood") + phonetic [[公 (char)|公]] (OC \*kloːŋ).
-- [SKIP-1-4-4](lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 1728th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙ⼄ㄫ](syllables/ㄙ⼄ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 1728th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙ⼄ㄫ](../syllables/ㄙ⼄ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby> "pine; fir" (stand-in for 松)

@@ -52,9 +52,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*loŋ): semantic [[Radical 040|宀]] ("roof") + phonetic [[谷 (char)|谷]] (OC \*kloːɡ) — to hold/contain within an enclosed space, extending to "appearance; countenance."
-- [SKIP-2-3-7](lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 553rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [⼄ㄫ](syllables/⼄ㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-7](../lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 553rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [⼄ㄫ](../syllables/⼄ㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[容]]<rt>⼄ㄫ</rt></ruby> "look; appearance; form; figure" (stand-in for 容)

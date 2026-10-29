@@ -74,6 +74,7 @@ boundedness: 90
 - <ruby>[[数字]]<rt>ㄙㄨㄐㄧ</rt></ruby> "numeral; digit; number"
 - <ruby>[[文字]]<rt>ㄇㄨㄋㄐㄧ</rt></ruby> "writing; text; script; character"
 - <ruby>[[新字体]]<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai"
+- <ruby>[[正体字]]<rt>ㄐㄧㄫㄊㄝㄧㄐㄧ</rt></ruby> "standard-form character, character in its regular form"
 - <ruby>[[正字]]<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
 - <ruby>[[正字法]]<rt>ㄐㄧㄫㄐㄧㄈㄚㄆ</rt></ruby> "orthography"
 - <ruby>[[漢字]]<rt>ㄏㄚㄋㄐㄧ</rt></ruby> "Chinese character"

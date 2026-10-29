@@ -54,9 +54,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (Shuowen): phonetic [[弘]] (OC \*ɡʷɯːŋ) + semantic [[Radical 142|虫]] ("insect") — the character likely originally referred to the rice weevil, before being phonetically borrowed for "strong, powerful."
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 496th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄍ⼘ㄫ](syllables/ㄍ⼘ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 496th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄍ⼘ㄫ](../syllables/ㄍ⼘ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> "strong; powerful" (stand-in for 強)

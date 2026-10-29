@@ -55,7 +55,7 @@ boundedness: 85
 
 ## Notes
 - 会意 (OC *reŋs): a kneeling figure (人) positioned below a covering sign — one summoned under authority; from this image derive both the sense of "to cause/order" (令人 = "to make a person...") and the ranked administrative document below 詔 (imperial edict) in the Tang document hierarchy.
-- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 5](../lookup/Stroke/Stroke%205.md))
+- [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 88th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](../syllables/ㄌㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 

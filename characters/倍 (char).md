@@ -47,9 +47,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*bɯːʔ): semantic [[Radical 009|人]] ("person") + phonetic [[咅]] (OC \*pʰɯʔ, \*pʰl'oːs) — an obsolete sense "to turn one's back on, betray" survives as an alternate form of 背 ("the back"), sharing the same phonetic element and body-part imagery; the modern "times, -fold" sense plausibly extends from "back-to-back" → a second, opposing counterpart → a duplicate → multiplicative "-fold," though this bridge is not explicitly attested.
-- [SKIP-1-2-8](lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 997th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄅㄚㄧ](syllables/ㄅㄚㄧ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 997th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄅㄚㄧ](../syllables/ㄅㄚㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[倍]]<rt>ㄅㄚㄧ</rt></ruby> "times" (stand-in for 倍)

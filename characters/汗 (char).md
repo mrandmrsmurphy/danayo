@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 
 ## Notes
 - 形声 (OC \*gaːns): semantic [[Radical 085|水]] ("water") + phonetic [[干]] (OC \*kaːn) — "sweat."
-- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 6](../lookup/Stroke/Stroke%206.md))
+- [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 999th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄏㄚㄋ](../syllables/ㄏㄚㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 

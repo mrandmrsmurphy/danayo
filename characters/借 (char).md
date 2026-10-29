@@ -47,9 +47,9 @@ boundedness: 65
 
 ## Notes
 - 形声 (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [[Radical 009|人]] ("person") + phonetic [[昔]] (OC \*sjaːɡ) — "to lend, to borrow"; also "to make use of, to take advantage of" as an alternate form of 藉.
-- [SKIP-1-2-8](lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 1986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](syllables/ㄐㄚ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 1986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[借]]<rt>ㄐㄚ</rt></ruby> "to borrow; lend" (stand-in for 借)

@@ -45,9 +45,9 @@ boundedness: 75
 
 ## Notes
 - 形声: phonetic [[鳥 (char)|鳥]] (OC \*tɯːwʔ) + semantic [[Radical 046|山]] ("mountain") — "island."
-- [SKIP-3-7-3](lookup/SKIP/SKIP-3/SKIP-3-7-3.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 4188th most used character in Classical Chinese (beyond the vault's mirrored ~4000-entry range; trusted as-is). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄊㄚㄨ](syllables/ㄊㄚㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-7-3](../lookup/SKIP/SKIP-3/SKIP-3-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 4188th most used character in Classical Chinese (beyond the vault's mirrored ~4000-entry range; trusted as-is). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄊㄚㄨ](../syllables/ㄊㄚㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby> "island" (stand-in for 島)

@@ -48,9 +48,9 @@ boundedness: 90
 
 ## Notes
 - 形声: originally 㞷/𫭠, semantic [[Radical 077|止]] ("foot") + phonetic [[王 (char)|王]] (OC \*ɢʷaŋ, \*ɢʷaŋs); [[Radical 060|彳]] ("to step") was later added as an additional semantic element. "To go, depart, head for"; "the past, former"; "to, towards."
-- [SKIP-1-3-5](lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 335th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [⺢ㄫ](syllables/⺢ㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 335th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [⺢ㄫ](../syllables/⺢ㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[往]]<rt>⺢ㄫ</rt></ruby> "to go towards" (stand-in for 往)

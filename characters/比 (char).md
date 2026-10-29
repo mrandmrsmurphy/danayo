@@ -49,9 +49,9 @@ boundedness: 90
 
 ## Notes
 - 会意: two [[Radical 021|匕]] ("person") side by side — people standing next to each other: to compare.
-- [SKIP-1-2-2](lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 426th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄅㄧㄜ](syllables/ㄅㄧㄜ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-2-2](../lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 426th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄅㄧㄜ](../syllables/ㄅㄧㄜ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[比]]<rt>ㄅㄧㄜ</rt></ruby> "than; compared to" (stand-in for 比)

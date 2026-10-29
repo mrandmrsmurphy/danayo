@@ -43,9 +43,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*zlɯːʔ, \*zlɯːs): phonetic [[才]] + semantic [[士 (char)|士]] (later corrupted into [[Radical 032|土]], "earth") — "to exist; to be present; to be at, to be located."
-- [SKIP-3-2-4](lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](lookup/Stroke/Stroke%2006.md))
-- 71st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄐㄚㄧ](syllables/ㄐㄚㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-2-4](../lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 71st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄐㄚㄧ](../syllables/ㄐㄚㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[在]]<rt>ㄐㄚㄧ</rt></ruby> "to exist" (stand-in for 在)

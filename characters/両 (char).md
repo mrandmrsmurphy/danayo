@@ -52,9 +52,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 001|一]] ("one") and 㒳 (an archaic glyph for a joined pair, no vault page) — two things joined together, "both, a pair." Bronze-script forms also resemble two [[丙 (char)|丙]] (OC \*praŋʔ) joined (Baxter 1992), from which 丙 is sometimes cited as an incidental phonetic; whole-character OC reconstructions: \*raŋʔ (Zhengzhang), \*p.raŋʔ (Baxter–Sagart).
-- [SKIP-4-6-1](lookup/SKIP/SKIP-4/SKIP-4-6-1.md) ([Stroke 6](lookup/Stroke/Stroke%2006.md))
-- 349th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](syllables/ㄌ⼘ㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-6-1](../lookup/SKIP/SKIP-4/SKIP-4-6-1.md) ([Stroke 6](../lookup/Stroke/Stroke%2006.md))
+- 349th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby> "both"

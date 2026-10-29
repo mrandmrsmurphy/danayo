@@ -55,9 +55,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*tʰaːd, \*daːd): semantic [[Radical 162|辵]] ("movement") + phonetic 羍 (OC \*tʰaːd, no vault page) — shares its phonetic series with 羍/闥/撻/躂, all deriving from a root meaning movement or arrival.
-- [SKIP-3-3-9](lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄊㄚㄊ](syllables/ㄊㄚㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄊㄚㄊ](../syllables/ㄊㄚㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "darmstadtium": <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby>
 
 ## Words

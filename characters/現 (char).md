@@ -48,9 +48,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ɡeːns): semantic [[Radical 096|玉]] ("jade") + phonetic [[見 (char)|見]] (OC \*keːns, \*ɡeːns) — to appear.
-- [SKIP-1-4-7](lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 7052nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏ⼶ㄋ](syllables/ㄏ⼶ㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 7052nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏ⼶ㄋ](../syllables/ㄏ⼶ㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[現]]<rt>ㄏ⼶ㄋ</rt></ruby> "present; revealed" (stand-in for 現)

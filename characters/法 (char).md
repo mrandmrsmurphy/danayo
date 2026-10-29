@@ -64,7 +64,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[法家]]<rt>ㄈㄚㄆㄍㄚ</rt></ruby> "Legalism"
 - <ruby>[[法術]]<rt>ㄈㄚㄆㄙㄨㄊ</rt></ruby> "magic, magic arts"
 - <ruby>[[法輪]]<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby> "wheel of dharma"
-- <ruby>[[法則]]<rt>ㄈㄚㄆㄐㄜㄎ</rt></ruby> "law, rule, code"
+- <ruby>[[法則]]<rt>ㄈㄚㄆㄐㄨㄎ</rt></ruby> "law, rule, code"
 - <ruby>[[法庭]]<rt>ㄈㄚㄆㄉㄝㄫ</rt></ruby> "court, courtroom"
 - <ruby>[[法螺]]<rt>ㄈㄚㄆㄌㄚ</rt></ruby> "boast"
 - <ruby>[[法素]]<rt>ㄈㄚㄆㄙㄛ</rt></ruby> "abbreviation for francium"

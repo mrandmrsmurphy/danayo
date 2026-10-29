@@ -60,9 +60,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of [[Radical 030|口]] ("mouth") and [[欠 (char)|欠]] ("to open the mouth wide, to exhale") — the literal action of blowing air through an open mouth, combining iconically rather than phonetically.
-- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 1,838th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄑㄨㄧ](syllables/ㄑㄨㄧ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 4](lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1,838th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄑㄨㄧ](../syllables/ㄑㄨㄧ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[吹]]<rt>ㄑㄨㄧ</rt></ruby> "blow; puff; bluster" (stand-in for 吹)

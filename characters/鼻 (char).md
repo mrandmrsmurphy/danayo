@@ -43,9 +43,9 @@ boundedness: 65
 
 ## Notes
 - 形声 (OC \*blids): semantic [[Radical 132|自]] ("nose" — before it was repurposed to mean "self," the same shift documented on [[自]]'s own page) + phonetic 畀 (OC \*pids, no vault page).
-- [SKIP-2-6-8](lookup/SKIP/SKIP-2/SKIP-2-6-8.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 1643rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄅㄧ](syllables/ㄅㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-8](../lookup/SKIP/SKIP-2/SKIP-2-6-8.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 1643rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄅㄧ](../syllables/ㄅㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[鼻]]<rt>ㄅㄧ</rt></ruby> "nose" (stand-in for 鼻)

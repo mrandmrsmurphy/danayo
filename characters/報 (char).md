@@ -44,10 +44,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): 㚔 ("handcuffs," no vault page) + 𠬝 ("to subdue," no vault page) — to convict; to punish; to declare guilty; extended to "to report, to announce."
-- [SKIP-1-8-4](lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 559th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄅㄚㄨ](syllables/ㄅㄚㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): 㚔 ("handcuffs," no vault page) + 𠬝 ("to subdue," no vault page) — to convict; to punish; to declare guilty; extended to "to report, to announce."
+- [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 559th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄅㄚㄨ](../syllables/ㄅㄚㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[報]]<rt>ㄅㄚㄨ</rt></ruby> "to report; tell" (stand-in for 報)

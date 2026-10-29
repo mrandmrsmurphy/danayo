@@ -210,6 +210,7 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - eventive (transitive verb class, adapted to Dan'a'yo's own topic-comment sentence structure) : <ruby>[事詞](../words/事詞.md)<rt>ㄐㄧㄙㄚ</rt></ruby>
 - grammatical object (of a verb; a Japanese/Korean grammar term, whereas in Mandarin 目的语 means "target language" and the grammatical object is 宾语) : <ruby>[目的語](../words/目的語.md)<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby>
 - predicate : <ruby>[述語](../words/述語.md)<rt>ㄙㄨㄊ⼄</rt></ruby> — the comment of the topic–comment sentence; every clause must have one (述語必須)
+- grammatical subject (of a clause; the argument a 事詞 requires, distinct from the topic 主題) : <ruby>[主語](../words/主語.md)<rt>ㄐㄨ⼄</rt></ruby>
 - affix : <ruby>[接辞](../words/接辞.md)<rt>ㄐㄛㄆㄑㄧ</rt></ruby> (see also [[接尾辞]] "suffix" below)
 - prefix, verbal prefix (the category of aspect and mood prefixes on verbs: 有–, 無–, 在–, 莫–) : <ruby>[接頭辞](../words/接頭辞.md)<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby>
 - derivational affix, fully productive (a bound element that derives a new lexical item from a stem; any transparent stem + affix is valid without its own page; filed under the fullwidth hyphen, －X) : <ruby>[派生辞](../words/派生辞.md)<rt>ㄆㄚㄧㄙㄚㄫㄑㄧ</rt></ruby>
@@ -257,6 +258,8 @@ Dan'a'yo marks 12 grammatical cases with dedicated particles.
 - <ruby>[篆書](../words/篆書.md)<rt>ㄐ⼔ㄋㄙ⼄</rt></ruby> "seal script"
 - <ruby>[旧字体](../words/旧字体.md)<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[新字体](../words/新字体.md)<rt>ㄙㄧㄋㄐㄧ·ㄊㄝㄧ</rt></ruby> "shinjitai, the simplified character forms standardized in Japan from 1946"
+- <ruby>[正体](../words/正体.md)<rt>ㄐㄧㄫㄊㄝㄧ</rt></ruby> "standard form of a character; true form, real identity"
+- <ruby>[正体字](../words/正体字.md)<rt>ㄐㄧㄫㄊㄝㄧㄐㄧ</rt></ruby> "a character in its standard form"
 - <ruby>[正字](../words/正字.md)<rt>ㄐㄧㄫㄐㄧ</rt></ruby> "correct character"
 - <ruby>[別字](../words/別字.md)<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
 - <ruby>[本字](../words/本字.md)<rt>ㄅㄛㄋㄐㄧ</rt></ruby> "original character — the etymologically correct character for a word, as distinct from a phonetic loan or later variant"

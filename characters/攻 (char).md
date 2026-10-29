@@ -43,7 +43,7 @@ date-last-perfect: 2026-10-20
 
 ## Notes
 - 形声 (OC \*koːŋ): semantic [[Radical 066|攴]] ("to strike, hit," combining form 攵) + phonetic [[工 (char)|工]] (OC \*koːŋ, "work") — "to attack," extended to "to criticize."
-- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 7](../lookup/Stroke/Stroke%207.md))
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 280th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 冬|uoŋ]] → [ㄍㄛㄫ](../syllables/ㄍㄛㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 

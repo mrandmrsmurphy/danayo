@@ -49,9 +49,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*tkuːb): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[合 (char)|合]] (OC \*kuːb) — originally a variant of 荅 (the grass radical 艸 mistakenly replaced with bamboo 竹); "to respond, answer."
-- [SKIP-2-6-6](lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 1066th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄉㄚㄆ](syllables/ㄉㄚㄆ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 1066th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄉㄚㄆ](../syllables/ㄉㄚㄆ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - don't use 對答
 
 ## Words

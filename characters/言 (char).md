@@ -65,7 +65,7 @@ boundedness: 80
 - <ruby>[[宣言]]<rt>ㄙㄝㄋ·ㄝㄋ</rt></ruby> "proclaim; manifesto"
 - <ruby>[[証言]]<rt>ㄐㄧㄫㄝㄋ</rt></ruby> "testify"
 - <ruby>[[流言]]<rt>ㄌ⼜ㄝㄋ</rt></ruby> "spread rumors; gossip"
-- <ruby>[[方言]]<rt>ㄆㄚㄫ·ㄝㄋ</rt></ruby> "dialect"
+- <ruby>[[方言]]<rt>ㄈㄚㄫㄝㄋ</rt></ruby> "dialect"
 - <ruby>[[原言語]]<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby> "source language; proto-language"
 
 ## Chengyu

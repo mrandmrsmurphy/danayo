@@ -49,9 +49,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ʔljin): bronze-inscription form is semantic 貝 ("cowrie shell," later replaced by 鼎 "tripod") + phonetic 𠂈 (originally the pictograph of 顛, "to fall headlong") — the Kangxi-assigned radical [[Radical 109|目]] reflects neither ancestral component, the same "radical assignment diverges from real etymology" pattern seen elsewhere in this vault.
-- [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄐㄧㄋ](syllables/ㄐㄧㄋ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-2-8](../lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄐㄧㄋ](../syllables/ㄐㄧㄋ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> "true" (stand-in for 真)

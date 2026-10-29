@@ -46,9 +46,9 @@ boundedness: 80
 
 ## Notes
 - 形声: semantic [[Radical 118|竹]] ("bamboo") + phonetic 夭 — as bamboo sways in the wind: the body shaking with laughter.
-- [SKIP-2-6-4](lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 882nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙ⼄ㄨ](syllables/ㄙ⼄ㄨ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-4](../lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 882nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙ⼄ㄨ](../syllables/ㄙ⼄ㄨ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[笑]]<rt>ㄙ⼄ㄨ</rt></ruby> "laugh; smile" (stand-in for 笑)

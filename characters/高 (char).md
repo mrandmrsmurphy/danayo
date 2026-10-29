@@ -43,10 +43,10 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a tall building; itself the Kangxi radical [[Radical 189|高]] (compare [[京]], a similar tower pictograph that is not itself a Kangxi radical).
-- [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 150th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄍㄚㄨ](syllables/ㄍㄚㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a tall building; itself the Kangxi radical [[Radical 189|高]] (compare [[京]], a similar tower pictograph that is not itself a Kangxi radical).
+- [SKIP-2-2-8](../lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 150th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄍㄚㄨ](../syllables/ㄍㄚㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for <ruby>[[高素]]<rt>ㄍㄚㄨㄙㄛ</rt></ruby> "gallium" in periodic-table formulae — see [[Periodic Table]]
 
 ## Words

@@ -46,9 +46,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*ŋrɯn): semantic [[Radical 167|金]] ("metal") + phonetic [[艮]] (OC \*kɯːns).
-- [SKIP-1-8-6](lookup/SKIP/SKIP-1/SKIP-1-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 2121st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄧㄋ](syllables/ㄧㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-8-6](../lookup/SKIP/SKIP-1/SKIP-1-8-6.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 2121st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄧㄋ](../syllables/ㄧㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - the element word 銀 itself doubles as the periodic table abbreviation for "silver"
 
 ## Words

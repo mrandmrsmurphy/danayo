@@ -53,9 +53,9 @@ boundedness: 70
 
 ## Notes
 - 形声 (OC \*ʔsiːɡ): semantic [[Radical 118|竹]] ("bamboo") + phonetic [[即 (char)|即]] (OC \*ʔsɯɡ) — the node of bamboo; extended to "segment, joint, festival."
-- [SKIP-2-6-7](lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](lookup/Stroke/Stroke%2013.md))
-- 295th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄐㄝㄊ](syllables/ㄐㄝㄊ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-7](../lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- 295th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄐㄝㄊ](../syllables/ㄐㄝㄊ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[節]]<rt>ㄐㄝㄊ</rt></ruby> "node, joint, festival" (stand-in for 節)

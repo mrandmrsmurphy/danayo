@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*sʰuːʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[早 (char)|早]] (OC \*ʔsuːʔ) — originally the name of a specific bitter plant (and a loan for 皂), 草 later displaced 艸 itself as the general word for "grass" (艸 survives here only as this character's own listed alias, not a separate page).
-- [SKIP-2-3-6](lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 590th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](syllables/ㄑㄚㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 590th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[草]]<rt>ㄑㄚㄨ</rt></ruby> "grass" (stand-in for 草)
