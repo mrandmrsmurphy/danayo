@@ -48,9 +48,9 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*djaŋs): semantic [[Radical 042|小]] ("small," originally 八 "divide") + phonetic [[向 (char)|向]] (OC \*hlaŋs) — "still; yet," extending to "to esteem; noble."
-- [SKIP-2-3-5](lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](lookup/Stroke/Stroke%2008.md))
-- 313th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](syllables/ㄙ⼘ㄫ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 313th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](../syllables/ㄙ⼘ㄫ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still; even more" (stand-in for 尚)

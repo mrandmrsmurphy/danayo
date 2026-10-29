@@ -47,7 +47,7 @@ boundedness: 30
 ```
 
 ## Notes
-- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[曷]] — "scorpion."
+- 形声: semantic [[Radical 142|虫]] ("insect") + phonetic [[曷 (char)|曷]] — "scorpion."
 - [SKIP-2-6-9](../lookup/SKIP/SKIP-2/SKIP-2-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 月開|ɨɐt]] → [ㄏ⼶ㄊ](../syllables/ㄏ⼶ㄊ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)

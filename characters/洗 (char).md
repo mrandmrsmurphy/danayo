@@ -48,12 +48,12 @@ boundedness: 65
 
 ## Notes
 - 形声: semantic [[Radical 085|氵]] ("water") + phonetic [[先]] — to wash with water.
-- [SKIP-1-3-6](lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1307th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄙㄝㄋ](syllables/ㄙㄝㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1307th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[洗]]<rt>ㄙㄝㄋ</rt></ruby> "wash; rinse" (stand-in for 洗)
 - <ruby>[[洗濯]]<rt>ㄙㄝㄋㄉㄚㄎ</rt></ruby> "launder; rinse; wash"
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"
-- <ruby>[[洗車]]<rt>ㄙㄝㄋㄑㄚ</rt></ruby> "wash a car"
+- <ruby>[[洗車]]<rt>ㄙㄝㄋㄑ⺢</rt></ruby> "wash a car"

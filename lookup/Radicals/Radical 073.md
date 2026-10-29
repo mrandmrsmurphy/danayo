@@ -22,7 +22,7 @@ tags: [lookup]
 4. <ruby>[更](../../characters/更%20(char).md)<rt>ㄍㄚㄫ</rt></ruby> - more
 
 ### +5 Strokes
-5. <ruby>[曷](../../characters/曷.md)<rt>ㄏㄨㄊ</rt></ruby> - what
+5. <ruby>[曷](../../characters/曷%20(char).md)<rt>ㄏㄨㄊ</rt></ruby> - what
 
 ### +6 Strokes
 6. <ruby>[書](../../characters/書.md)<rt>ㄙ⼄</rt></ruby> - book

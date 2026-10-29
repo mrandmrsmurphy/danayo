@@ -48,9 +48,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*kʷraːds): semantic [[Radical 061|心]] ("heart") + phonetic [[決 (char)|叏]] (a variant spelling of the standard 夬, both aliases of [[決 (char)|決]] per its own `aliases` field — the same phonetic shared by its sibling characters 訣/決/缺) — "pleased, happy"; also "sharp; quick; forthright."
-- [SKIP-1-3-4](lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 1968th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 夬合|ɣuai]] → [ㄎ⺢ㄧ](syllables/ㄎ⺢ㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 1968th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 夬合|ɣuai]] → [ㄎ⺢ㄧ](../syllables/ㄎ⺢ㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[快]]<rt>ㄎ⺢ㄧ</rt></ruby> "sharp; quick; happy" (stand-in for 快)

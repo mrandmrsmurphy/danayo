@@ -31,7 +31,7 @@ aliases:
   - 蚁
   - 螘
 注音: "ㄜㄧ"
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 65

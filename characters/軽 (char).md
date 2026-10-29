@@ -51,9 +51,9 @@ boundedness: 40
 
 ## Notes
 - 形声 (OC \*kʰeŋ, \*kʰeŋs): semantic [[Radical 159|車]] ("carriage") + phonetic [[巠]] — originally "a kind of light carriage," preserved in the idiom 駕輕就熟 ("to drive a light carriage on a familiar route"); light, not heavy.
-- [SKIP-1-7-5](lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 475th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄎㄧㄫ](syllables/ㄎㄧㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-7-5](../lookup/SKIP/SKIP-1/SKIP-1-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 475th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄎㄧㄫ](../syllables/ㄎㄧㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for <ruby>[[軽素]]<rt>ㄎㄧㄫㄙㄛ</rt></ruby> "hydrogen" in periodic-table formulae — see [[Periodic Table]]
 
 ## Words

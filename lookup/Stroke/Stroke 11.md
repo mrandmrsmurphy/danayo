@@ -31,7 +31,7 @@ tags:
 - 3-5-6: <ruby>[[痕]]<rt>ㄏㄜㄋ</rt></ruby>
 - 3-6-5: <ruby>[[産]]<rt>ㄙㄚㄋ</rt></ruby>
 - 3-7-4: <ruby>[[鳥 (char)|鳥]]<rt>ㄑㄛㄨ</rt></ruby>
-- 3-8-3: <ruby>[[問]]<rt>ㄇㄨㄋ</rt></ruby>, <ruby>[[彪]]<rt>ㄅ⼜ㄛ</rt></ruby>, <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby>
+- 3-8-3: <ruby>[[問]]<rt>ㄇㄨㄋ</rt></ruby>, <ruby>[[彪]]<rt>ㄅ⼜ㄛ</rt></ruby>, <ruby>[[閉 (char)|閉]]<rt>ㄅㄝㄧ</rt></ruby>
 - 3-9-2: <ruby>[[匙]]<rt>ㄙㄧ</rt></ruby>
 - 4-11-3: <ruby>[[粛]]<rt>ㄙㄨㄎ</rt></ruby>
 - 4-11-4: <ruby>[[爽]]<rt>ㄙ⺢ㄫ</rt></ruby>, <ruby>[[戚]]<rt>ㄑㄝㄎ</rt></ruby>

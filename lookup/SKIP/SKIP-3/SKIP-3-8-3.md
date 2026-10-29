@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[問](/characters/問.md)<rt>ㄇㄨㄋ</rt></ruby> "question"
 2. <ruby>[彪](/characters/彪.md)<rt>ㄅ⼜ㄛ</rt></ruby> "tiger stripes"
-3. <ruby>[閉](/characters/閉.md)<rt>ㄅㄝㄧ</rt></ruby> "close"
+3. <ruby>[閉](/characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> "close"
 
 ## Datacheck
 ```dataview

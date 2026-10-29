@@ -47,9 +47,9 @@ boundedness: 90
 
 ## Notes
 - 会意 of 𢆶 ("silk threads; little things") and 戍 ("to guard against") — watching over the fine details: "how many; a few," extending to "subtle sign." (Neither component has its own character page in this vault; both cited bare.)
-- [SKIP-4-12-4](lookup/SKIP/SKIP-4/SKIP-4-12-4.md) ([Stroke 12](lookup/Stroke/Stroke%2012.md))
-- 678th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄍㄧㄜ](syllables/ㄍㄧㄜ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-4-12-4](../lookup/SKIP/SKIP-4/SKIP-4-12-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
+- 678th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄍㄧㄜ](../syllables/ㄍㄧㄜ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[幾]]<rt>ㄍㄧㄜ</rt></ruby> "several; a few; some" (stand-in for 幾)

@@ -56,7 +56,7 @@ boundedness: 80
 - <ruby>[[陽]]<rt>⼘ㄫ</rt></ruby> "shine" (stand-in for 陽)
 - <ruby>[[陽光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "sunshine, sunlight"
 - <ruby>[[陽性]]<rt>⼘ㄫㄙㄧㄫ</rt></ruby> "positivity, masculine gender"
-- <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby> "proton"
+- <ruby>[[陽子]]<rt>⼘ㄫㄐㄜ</rt></ruby> "proton"
 - <ruby>[[陽極]]<rt>⼘ㄫㄍㄧㄎ</rt></ruby> "anode"
 - <ruby>[[陰陽]]<rt>ㄧㄇ·⼘ㄫ</rt></ruby> "yin-yang"
 - <ruby>[[夕陽]]<rt>ㄙㄝㄎ·⼘ㄫ</rt></ruby> "setting sun, sunset"

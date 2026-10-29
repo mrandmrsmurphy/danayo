@@ -51,7 +51,7 @@ boundedness: 75
 - Pictogram ([List of 象形](../lookup/List%20of%20象形.md)) – side view of a standing man, highlighting an arm and a leg. 
 - [SKIP-4-2-4](../lookup/SKIP/SKIP-4/SKIP-4-2-4.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md)) - [ㄋㄧㄋ](../syllables/ㄋㄧㄋ.md)
 - [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
-- 10th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]]
+- 10th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄋㄧㄋ](../syllables/ㄋㄧㄋ.md)
 ### Derived Characters (not the radical)
 - <ruby>[[及 (char)]]<rt>ㄍㄨㄆ</rt></ruby> "reach out to"
 - <ruby>[[信]]<rt>ㄙㄧㄋ</rt></ruby> "trust, believe"

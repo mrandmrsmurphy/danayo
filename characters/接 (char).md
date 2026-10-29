@@ -44,9 +44,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ʔseb): semantic [[Radical 064|扌]] ("hand") + phonetic [[妾 (char)|妾]] (OC \*sʰeb) — to receive (in the hand).
-- [SKIP-1-3-8](lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 1047th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄐㄛㄆ](syllables/ㄐㄛㄆ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 1047th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄐㄛㄆ](../syllables/ㄐㄛㄆ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[接]]<rt>ㄐㄛㄆ</rt></ruby> "contact; connect" (stand-in for 接)

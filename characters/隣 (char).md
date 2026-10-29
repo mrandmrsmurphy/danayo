@@ -21,7 +21,7 @@ english:
 羅馬字: lin
 諺文: "린"
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 6410
 mc_id: 1150

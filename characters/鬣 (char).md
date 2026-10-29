@@ -22,7 +22,7 @@ english:
 諺文: "롭"
 joyo_level: "表外字"
 hsk_level: "無"
-hanmun_edu_level: ""
+hanmun_edu_level: "無"
 danayo_id: 7416
 mc_id: 3632
 graphemic_classification: "巤"

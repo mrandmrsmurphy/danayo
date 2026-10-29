@@ -16,7 +16,7 @@ tags: [lookup]
 2. <ruby>[閃](../../characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - flash
 
 ### +3 Strokes
-3. <ruby>[閉](../../characters/閉.md)<rt>ㄅㄝㄧ</rt></ruby> - shut
+3. <ruby>[閉](../../characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> - shut
 
 ### +4 Strokes
 4. <ruby>[開](../../characters/開.md)<rt>ㄎㄚㄧ</rt></ruby> - open

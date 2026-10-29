@@ -23,7 +23,7 @@ TODAY = datetime.date.today().isoformat()
 key = lambda s: [int(x) for x in s.split('-')]
 
 # ---- ground truth ---------------------------------------------------------
-files = [f for f in sh('git', 'ls-files', '--cached', '--others', '--exclude-standard', 'characters').split('\n') if f.endswith('.md')]
+files = [f for f in sh('git', 'ls-files', '--cached', '--others', '--exclude-standard', 'characters').split('\n') if f.endswith('.md') and os.path.exists(f)]
 chars = {}   # stem -> dict(stroke, skip, zy)
 flags = []
 for f in files:

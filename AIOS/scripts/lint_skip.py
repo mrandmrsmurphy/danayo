@@ -24,7 +24,7 @@ Checks (all must pass before SKIP.md is stamped):
 On a clean run it sets `date-last-perfect:` in SKIP.md to today's date. It edits no other file.
 Exit status 0 if clean, 1 otherwise.
 """
-import re, subprocess, sys, datetime, collections
+import re, subprocess, sys, datetime, collections, os
 
 DAYS = 60
 if '--days' in sys.argv:
@@ -36,7 +36,7 @@ TOP = 'lookup/SKIP/SKIP.md'
 CJK = re.compile('[⺀-鿿㐀-䶿豈-﫿\U00020000-\U0003ffff]')
 
 def git_files(prefix):
-    return [f for f in subprocess.check_output(['git', 'ls-files', '-z', prefix], text=True).split('\0') if f.endswith('.md')]
+    return [f for f in subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z', prefix], text=True).split('\0') if f.endswith('.md') and os.path.exists(f)]
 
 def fm_block(t):
     m = re.match(r'---\n(.*?)\n---', t, re.S)

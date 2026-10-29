@@ -902,7 +902,7 @@ tags: [lookup]
 [[碑]]: 1
 [[笨]]: 1
 [[逼]]: 1
-[闭](../../characters/閉.md): 1
+[闭](../../characters/閉%20(char).md): 1
 [编](../../characters/編.md): 1
 [[扁]]: 1
 [[兵]]: 1

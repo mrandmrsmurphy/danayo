@@ -45,9 +45,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*diːls): semantic [[Radical 118|竹]] ("bamboo," referring to bamboo strips used for writing/accounting/classification) + phonetic [[弟 (char)|弟]] (the character may originally have simply been written 弟) — sequential order; the ordinal marker "-th."
-- [SKIP-2-6-5](lookup/SKIP/SKIP-2/SKIP-2-6-5.md) ([Stroke 11](lookup/Stroke/Stroke%2011.md))
-- 902nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](syllables/ㄉㄝㄧ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-5](../lookup/SKIP/SKIP-2/SKIP-2-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- 902nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](../syllables/ㄉㄝㄧ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[第]]<rt>ㄉㄝㄧ</rt></ruby> "-th" (stand-in for 第)

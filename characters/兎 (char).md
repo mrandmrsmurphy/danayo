@@ -45,10 +45,10 @@ boundedness: 45
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): depicts a crouching hare — long ears, rounded body, and the prominent short tail (the right-hand stroke); 兎 and 兔 are variant forms, 兔 retaining the tail-stroke more explicitly. Dropped from the Korean high-school hanmun list in 2000.
-- [SKIP-4-8-4](lookup/SKIP/SKIP-4/SKIP-4-8-4.md) ([Stroke 8](lookup/Stroke/Stroke%208.md))
-- 9,935th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](syllables/ㄊㄛ.md)
-- [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Jinmeiyō](lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](lookup/Korean/Korean%20Name%20ㅌ.md)
+- [List of 象形](../lookup/List%20of%20象形.md): depicts a crouching hare — long ears, rounded body, and the prominent short tail (the right-hand stroke); 兎 and 兔 are variant forms, 兔 retaining the tail-stroke more explicitly. Dropped from the Korean high-school hanmun list in 2000.
+- [SKIP-4-8-4](../lookup/SKIP/SKIP-4/SKIP-4-8-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
+- 9,935th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
+- [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words
 - <ruby>[[兎]]<rt>ㄊㄛ</rt></ruby> "rabbit; hare"

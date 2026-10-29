@@ -48,9 +48,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*doː): semantic [[Radical 181|頁]] ("head") + phonetic [[豆 (char)|豆]] (OC \*doːs) — replaced the earlier word 首 due to homophony with 手 ("hand") in Middle Chinese; head.
-- [SKIP-1-7-9](lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 680th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄊㄛㄨ](syllables/ㄊㄛㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-7-9](../lookup/SKIP/SKIP-1/SKIP-1-7-9.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 680th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄊㄛㄨ](../syllables/ㄊㄛㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[頭]]<rt>ㄊㄛㄨ</rt></ruby> "head" (stand-in for 頭)
@@ -68,7 +68,7 @@ boundedness: 100
 - <ruby>[[拳頭]]<rt>ㄍ⼔ㄋㄊㄛㄨ</rt></ruby> "fist"
 - <ruby>[[枕頭]]<rt>ㄐㄧㄇㄊㄛㄨ</rt></ruby> "pillow"
 - <ruby>[[叩頭]]<rt>ㄎㄛㄨㄊㄛㄨ</rt></ruby> "kowtow"
-- <ruby>[[頭骨]]<rt>ㄊㄛㄨㄍㄨㄊ</rt></ruby> "skull; cranium"
+- <ruby>[[頭骨]]<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby> "skull; cranium"
 - <ruby>[[念頭]]<rt>ㄋㄝㄇㄊㄛㄨ</rt></ruby> "idea; thought"
 - <ruby>[[缶頭]]<rt>ㄍ⺢ㄋㄊㄛㄨ</rt></ruby> "canned goods"
 - <ruby>[[接頭辞]]<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby> "prefix; verbal prefix"

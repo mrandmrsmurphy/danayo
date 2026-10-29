@@ -22,7 +22,7 @@ english:
 羅馬字: lui
 諺文: 뤼
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 5303
 mc_id: 3843

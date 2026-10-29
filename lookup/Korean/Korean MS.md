@@ -857,7 +857,7 @@ tags: [lookup]
 [平](../../characters/平.md) (평평할 평)
 
 #### 폐
-[閉](../../characters/閉.md) (닫을 폐)
+[閉](../../characters/閉%20(char).md) (닫을 폐)
 
 #### 포
 [布](../../characters/布.md) (베 포) [抱](../../characters/抱.md) (안을 포)

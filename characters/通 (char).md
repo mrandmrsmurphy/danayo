@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*l̥ʰoːŋ): semantic [[Radical 162|辵]] ("walking; motion") + phonetic [[甬]] (yǒng) — to pass through, to communicate.
-- [SKIP-3-3-7](lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 252nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄊㄛㄫ](syllables/ㄊㄛㄫ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-7](../lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 252nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄊㄛㄫ](../syllables/ㄊㄛㄫ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[通]]<rt>ㄊㄛㄫ</rt></ruby> "to pass through; communicate" (stand-in for 通)

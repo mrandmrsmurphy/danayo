@@ -282,7 +282,7 @@ tags: [lookup]
 268. <ruby>[[郷]]<rt>ㄏ⼘ㄫ</rt></ruby> - hometown
 269. <ruby>[[針 (char)|針]]<rt>ㄐㄧㄇ</rt></ruby> - needle, pin, tack
 270. <ruby>[[鐘 (char)|鐘]]<rt>ㄐㄛㄫ</rt></ruby> - bell
-271. <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby> - shut, close
+271. <ruby>[[閉 (char)|閉]]<rt>ㄅㄝㄧ</rt></ruby> - shut, close
 272. <ruby>[[閑]]<rt>ㄏㄚㄋ</rt></ruby> - free time
 273. <ruby>[[防]]<rt>ㄅㄚㄫ</rt></ruby> - prevent
 274. <ruby>[[限]]<rt>ㄏㄚㄋ</rt></ruby> - limit, boundary

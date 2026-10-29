@@ -26,8 +26,8 @@ TODAY = datetime.date.today()
 CUTOFF = TODAY - datetime.timedelta(days=DAYS)
 
 def git_files(prefix):
-    out = subprocess.check_output(['git', 'ls-files', '-z', prefix], text=True).split('\0')
-    return [f for f in out if f.endswith('.md')]
+    out = subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z', prefix], text=True).split('\0')
+    return [f for f in out if f.endswith('.md') and os.path.exists(f)]
 
 def fm_get(text, key):
     m = re.match(r'---\n(.*?)\n---', text, re.S)

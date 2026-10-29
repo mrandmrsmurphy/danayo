@@ -49,9 +49,9 @@ boundedness: 65
 
 ## Notes
 - 会意 of [[Radical 115|禾]] ("grain") and [[Radical 086|火]] ("fire") — grain parched or dried by fire at the harvest, or the burning of stubble after reaping; by extension, the harvest season, "autumn."
-- [SKIP-1-5-4](lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑㄨㄛ](syllables/ㄑㄨㄛ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-1-5-4](../lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑㄨㄛ](../syllables/ㄑㄨㄛ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[秋]]<rt>ㄑㄨㄛ</rt></ruby> "autumn" (stand-in for 秋)

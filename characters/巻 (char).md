@@ -50,9 +50,9 @@ boundedness: 55
 
 ## Notes
 - 形声 (OC \*kronʔ, traditional form 卷): semantic 卩 ("kneeling person," bending) + phonetic 龹 (originally 𢍏, "rolling rice into balls" — itself contributing to the "bending" sense) — to roll; to roll up.
-- [SKIP-2-6-3](lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 1229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三合|ɣiuᴇn]] → [ㄍ⼔ㄋ](syllables/ㄍ⼔ㄋ.md)
-- [Grade 3](lookup/Grade%203.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-3](../lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 1229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 仙B三合|ɣiuᴇn]] → [ㄍ⼔ㄋ](../syllables/ㄍ⼔ㄋ.md)
+- [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[巻]]<rt>ㄍ⼔ㄋ</rt></ruby> "roll; roll up" (stand-in for 巻)

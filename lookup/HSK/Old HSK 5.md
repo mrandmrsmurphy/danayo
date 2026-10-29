@@ -505,7 +505,7 @@ tags: [lookup]
 502.  [[帝]]
 503.  [[脖]]
 504.  [[嘉]]
-505.  [闭](../../characters/閉.md)
+505.  [闭](../../characters/閉%20(char).md)
 506.  [闯](../../characters/闖.md)
 507.  [[裁]]
 508.  [闲](../../characters/閑.md)

@@ -386,7 +386,7 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 299. <ruby>[飛](/characters/飛%20(char).md)<rt>ㄈㄝㄧ</rt></ruby> - a bird flying upwards
 300. <ruby>[黍](/characters/黍.md)<rt>ㄙ⼄</rt></ruby> - a cereal with water or kernels beneath it (millet)
 301. <ruby>[四](/characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - breath dispersing from a mouth, originally "breathing" (four)
-302. <ruby>[壴](/characters/壴.md)<rt>ㄊㄨㄛ</rt></ruby> - a drum mounted on a stand, with ornamental tassels — "to drum"
+302. <ruby>[壴](/characters/壴%20(char).md)<rt>ㄊㄨㄛ</rt></ruby> - a drum mounted on a stand, with ornamental tassels — "to drum"
 303. <ruby>[戌](/characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> - an axe or halberd, almost identical to 戊 — eleventh earthly branch
 
 ## Base check

@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*prons): phonetic [[乱|䜌]] (an alias of [[乱]], per its own `aliases` field) + semantic 攴 (simplified to [[Radical 034|夂]] in the shinjitai reform, the same pattern as 云 replacing 專 in [[characters/伝|伝]]) — "to change, to transform; to become, to turn into."
-- [SKIP-2-6-3](lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 318th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 仙B三開|ɣiᴇn]] → [ㄅ⼶ㄋ](syllables/ㄅ⼶ㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-6-3](../lookup/SKIP/SKIP-2/SKIP-2-6-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 318th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 仙B三開|ɣiᴇn]] → [ㄅ⼶ㄋ](../syllables/ㄅ⼶ㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[変]]<rt>ㄅ⼶ㄋ</rt></ruby> "change; transform; alter" (stand-in for 変)

@@ -47,10 +47,10 @@ boundedness: 100
 ```
 
 ## Notes
-- [List of 会意](lookup/List%20of%20会意.md): [[Radical 057|弓]] ("bow") + [[Radical 004|丿]] ("indicatory stroke") — oracle-bone and bronze forms depict a slack bow with a short slant stroke marking the place of drawing the bowstring; "to pull, to draw (a bow)."
-- [SKIP-1-3-1](lookup/SKIP/SKIP-1/SKIP-1-3-1.md) ([Stroke 04](lookup/Stroke/Stroke%2004.md))
-- 569th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄧㄋ](syllables/ㄧㄋ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 057|弓]] ("bow") + [[Radical 004|丿]] ("indicatory stroke") — oracle-bone and bronze forms depict a slack bow with a short slant stroke marking the place of drawing the bowstring; "to pull, to draw (a bow)."
+- [SKIP-1-3-1](../lookup/SKIP/SKIP-1/SKIP-1-3-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
+- 569th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄧㄋ](../syllables/ㄧㄋ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[引]]<rt>ㄧㄋ</rt></ruby> "pull; tug" (stand-in for 引)

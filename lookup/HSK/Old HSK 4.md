@@ -444,7 +444,7 @@ tags: [lookup]
 [[温]]: 5
 [溫](../../characters/温.md): 5
 [[答 (char)]]: 5
-[闭](../../characters/閉.md): 5
+[闭](../../characters/閉%20(char).md): 5
 [[閉]]: 5
 [换](../../characters/換%20(char).md): 5
 [[換 (char)]]: 5

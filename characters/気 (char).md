@@ -51,7 +51,7 @@ boundedness: 50
 ## Words
 - <ruby>[[気]]<rt>ㄎㄧㄜ</rt></ruby> "feeling" (stand-in for 気)
 - <ruby>[[気息]]<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby> "breath, smell, spirit"
-- <ruby>[[雰囲気]]<rt>ㄈㄨㄋ·ㄨㄧㄎㄧㄜ</rt></ruby> "atmosphere; mood"
+- <ruby>[[雰囲気]]<rt>ㄈㄨㄋ·ㄨㄧ·ㄎㄧㄜ</rt></ruby> "atmosphere; mood"
 - <ruby>[[煙気]]<rt>ㄝㄋㄎㄧㄜ</rt></ruby> "smoke, flue gas"
 - <ruby>[[気分]]<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby> "mood"
 - <ruby>[[気候]]<rt>ㄎㄧㄜㄏㄛㄨ</rt></ruby> "climate"

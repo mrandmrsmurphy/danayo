@@ -45,9 +45,9 @@ boundedness: 100
 
 ## Notes
 - 形声 (OC \*tul, \*truj): semantic [[Radical 162|辵]] ("movement") + phonetic 𠂤 (duī, "mound," no vault page — not to be confused with the derived character [[堆]], itself built from 土+𠂤) — to chase, pursue.
-- [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 752nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄊㄨㄧ](syllables/ㄊㄨㄧ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 752nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 脂B合|ɣiuɪ]] → [ㄊㄨㄧ](../syllables/ㄊㄨㄧ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby> "follow, hunt" (stand-in for 追)

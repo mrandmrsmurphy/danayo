@@ -1117,7 +1117,7 @@ tags: [lookup]
 [[甭]]: 1
 [毕](../../characters/畢.md): 1
 [[畢]]: 1
-[闭](../../characters/閉.md): 1
+[闭](../../characters/閉%20(char).md): 1
 [[閉]]: 1
 [辩](../../characters/弁%20(char).md): 1
 [辯](../../characters/弁%20(char).md): 1

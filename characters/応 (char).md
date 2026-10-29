@@ -58,7 +58,7 @@ boundedness: 55
 ## Words
 - <ruby>[[応]]<rt>ㄧㄫ</rt></ruby> "respond; reply" (stand-in for 応)
 - <ruby>[[適応]]<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby> "adaptation; to adapt"
-- <ruby>[[反応]]<rt>ㄆㄛㄋ·ㄧㄫ</rt></ruby> "react, respond"
+- <ruby>[[反応]]<rt>ㄈㄛㄋ·ㄧㄫ</rt></ruby> "react, respond"
 - <ruby>[[対応]]<rt>ㄉㄛㄧㄧㄫ</rt></ruby> "correspond with, respond to"
 - <ruby>[[報応]]<rt>ㄅㄚㄨ·ㄧㄫ</rt></ruby> "retribution; karma"
 - <ruby>[[応訊]]<rt>ㄧㄫㄙㄧㄋ</rt></ruby> "question, subpoena"

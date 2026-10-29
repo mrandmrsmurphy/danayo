@@ -21,7 +21,7 @@ english:
 羅馬字: pad
 諺文: 팓
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 5261
 mc_id: 945

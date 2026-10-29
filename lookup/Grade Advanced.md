@@ -121,7 +121,7 @@ tags: [lookup]
 107. <ruby>[[墾]]<rt>ㄎㄚㄋ</rt></ruby> - cultivate
 108. <ruby>[[壅 (char)|壅]]<rt>ㄛㄫ</rt></ruby> - obstruct
 109. <ruby>[[壱 (char)|壱]]<rt>ㄧㄊ</rt></ruby> - loyal, faithful
-110. <ruby>[[壴]]<rt>ㄊㄨㄛ</rt></ruby> - to drum
+110. <ruby>[[壴 (char)|壴]]<rt>ㄊㄨㄛ</rt></ruby> - to drum
 111. <ruby>[[夭]]<rt>⼄ㄨ</rt></ruby> - to die young, premature death
 112. <ruby>[[夷]]<rt>ㄧㄜ</rt></ruby> - barbarian
 113. <ruby>[[奄]]<rt>⼶ㄇ</rt></ruby> - castrated person, feeble person
@@ -148,7 +148,7 @@ tags: [lookup]
 134. <ruby>[[寞]]<rt>ㄇㄚㄎ</rt></ruby> - lonely, desolate
 135. <ruby>[[寮]]<rt>ㄌ⼘ㄨ</rt></ruby> - dormitory
 136. <ruby>[[寵]]<rt>ㄑㄛㄫ</rt></ruby> - pet
-137. <ruby>[[尞]]<rt>ㄌ⼘</rt></ruby> - bonfire, sacrificial firewood
+137. <ruby>[[尞 (char)|尞]]<rt>ㄌ⼘</rt></ruby> - bonfire, sacrificial firewood
 138. <ruby>[[尼]]<rt>ㄋㄧㄜ</rt></ruby> - nun
 139. <ruby>[[屁 (char)|屁]]<rt>ㄆㄧㄜ</rt></ruby> - fart, flatulence
 140. <ruby>[[屏]]<rt>ㄅㄧㄫ</rt></ruby> - folding screen
@@ -241,7 +241,7 @@ tags: [lookup]
 227. <ruby>[[暈]]<rt>ㄨㄋ</rt></ruby> - dizzy, blurry
 228. <ruby>[[暢]]<rt>ㄑㄚㄫ</rt></ruby> - smooth, free, unrestrained
 229. <ruby>[[曰 (char)|曰]]<rt>⼔ㄊ</rt></ruby> - saith
-230. <ruby>[[曷]]<rt>ㄏㄨㄊ</rt></ruby> - what, why
+230. <ruby>[[曷 (char)|曷]]<rt>ㄏㄨㄊ</rt></ruby> - what, why
 231. <ruby>[[朕 (char)|朕]]<rt>ㄐㄨㄇ</rt></ruby> - we (royal), I (royalty)
 232. <ruby>[[杆 (char)|杆]]<rt>ㄍㄚㄋ</rt></ruby> - rod, pole, lever
 233. <ruby>[[杜]]<rt>ㄉㄛ</rt></ruby> - careless, sloppy, fabricating

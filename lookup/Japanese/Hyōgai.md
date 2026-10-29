@@ -651,6 +651,16 @@ tags: [lookup]
 644. [蟻 (char)](../../characters/蟻%20(char).md)
 645. [獺](../../characters/獺.md)
 646. [鰥](../../characters/鰥.md)
+647. [㐱](../../characters/㐱.md)
+648. [䦨](../../characters/䦨.md)
+649. [俘](../../characters/俘.md)
+650. [泛](../../characters/泛.md)
+651. [浣](../../characters/浣.md)
+652. [玻](../../characters/玻.md)
+653. [禼](../../characters/禼.md)
+654. [艱](../../characters/艱.md)
+655. [跆](../../characters/跆.md)
+656. [鑼](../../characters/鑼.md)
 
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 

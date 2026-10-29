@@ -72,7 +72,7 @@ boundedness: 80
 - <ruby>[[排水溝]]<rt>ㄆㄚㄧㄙㄨㄍㄛㄨ</rt></ruby> "gutter; culvert"
 - <ruby>[[淡水]]<rt>ㄉㄚㄇㄙㄨ</rt></ruby> "fresh water; potable water"
 - <ruby>[[水平]]<rt>ㄙㄨㄅ⼶ㄫ</rt></ruby> "lateral; level"
-- <ruby>[[大水]]<rt>ㄙㄚㄧㄙㄨ</rt></ruby> "flood"
+- <ruby>[[大水]]<rt>ㄉㄚㄧㄙㄨ</rt></ruby> "flood"
 - <ruby>[[水田]]<rt>ㄙㄨㄉㄝㄋ</rt></ruby> "rice paddy; paddy field"
 - <ruby>[[水原]]<rt>ㄙㄨ⼔ㄋ</rt></ruby> "Suwon; Mizuhara"
 - <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"

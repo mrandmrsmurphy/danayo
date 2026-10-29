@@ -25,7 +25,7 @@ tags: [lookup]
 6. <ruby>[売](../../characters/売.md)<rt>ㄇㄚㄧ</rt></ruby> - sell
 
 ### +6 Strokes
-7. <ruby>[壴](../../characters/壴.md)<rt>ㄊㄨㄛ</rt></ruby> - to drum
+7. <ruby>[壴](../../characters/壴%20(char).md)<rt>ㄊㄨㄛ</rt></ruby> - to drum
 
 ### +8 Strokes
 8. <ruby>[壷](../../characters/壷.md)<rt>ㄏㄛ</rt></ruby> - pot

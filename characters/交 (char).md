@@ -46,10 +46,10 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a human with crossed legs; the upper part resembles 立 (standing person) but the lower strokes cross — the crossing itself carries the meaning of mixing and exchange. Unrelated to 父.
-- [SKIP-2-2-4](lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 6](lookup/Stroke/Stroke%206.md))
-- 498th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄍ⼄ㄨ](syllables/ㄍ⼄ㄨ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a human with crossed legs; the upper part resembles 立 (standing person) but the lower strokes cross — the crossing itself carries the meaning of mixing and exchange. Unrelated to 父.
+- [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 498th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄍ⼄ㄨ](../syllables/ㄍ⼄ㄨ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[交]]<rt>ㄍ⼄ㄨ</rt></ruby> "mix; exchange"

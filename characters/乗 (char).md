@@ -47,10 +47,10 @@ boundedness: 50
 ```
 
 ## Notes
-- [List of 象形](lookup/List%20of%20象形.md): a person 大 climbing a tree 木, with the feet visible; etymology clearer in the alternative form 椉. Originally meant "to ascend"; extended to "to ride" and, later, to arithmetic multiplication.
-- [SKIP-4-9-3](lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 269th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄙㄨㄫ](syllables/ㄙㄨㄫ.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 3](lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [List of 象形](../lookup/List%20of%20象形.md): a person 大 climbing a tree 木, with the feet visible; etymology clearer in the alternative form 椉. Originally meant "to ascend"; extended to "to ride" and, later, to arithmetic multiplication.
+- [SKIP-4-9-3](../lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 269th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄙㄨㄫ](../syllables/ㄙㄨㄫ.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Open question, not yet resolved: how to express "exponentiation" — candidates considered include 累乘/冪乗/指数乗, none yet created as word files.
 
 ## Words

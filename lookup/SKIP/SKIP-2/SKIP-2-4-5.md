@@ -28,7 +28,7 @@ tags: [lookup]
 15. <ruby>[革](characters/革.md)<rt>ㄎㄧㄎ</rt></ruby> "leather"
 16. <ruby>[茄](characters/茄.md)<rt>ㄍㄚ</rt></ruby> "eggplant"
 17. <ruby>[巷](characters/巷.md)<rt>ㄏㄚㄫ</rt></ruby> "alley, lane"
-18. <ruby>[[曷]]<rt>ㄏㄨㄊ</rt></ruby> "what, why"
+18. <ruby>[[曷 (char)|曷]]<rt>ㄏㄨㄊ</rt></ruby> "what, why"
 19. <ruby>[显](characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> "chrysalis"
 
 ## Datacheck

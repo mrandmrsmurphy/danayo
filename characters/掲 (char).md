@@ -23,7 +23,7 @@ english:
 羅馬字: ked
 諺文: 컫
 joyo_level: 高等
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 名
 danayo_id: 6251
 mc_id: 2472
@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*ɡad): semantic [[Radical 064|手]] ("hand") + phonetic [[曷]] (visually close to but distinct from its own derivative [[喝 (char)|喝]], "to shout") — "to lift up, raise," extended to "to put up, post, announce publicly."
+- 形声 (OC \*ɡad): semantic [[Radical 064|手]] ("hand") + phonetic [[曷 (char)|曷]] (visually close to but distinct from its own derivative [[喝 (char)|喝]], "to shout") — "to lift up, raise," extended to "to put up, post, announce publicly."
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2472nd most used character in Classical Chinese (recorded in the corpus under its traditional form 揭). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 薛B三開|ɣiᴇt]] → [ㄎㄝㄊ](../syllables/ㄎㄝㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)

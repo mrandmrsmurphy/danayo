@@ -28,7 +28,7 @@ Checks (all blocking except the last):
 On a clean run it sets `date-last-perfect:` in Classical Chinese.md to today's date (adding the field if absent).
 It edits no other file. Exit status 0 if clean, 1 otherwise.
 """
-import re, subprocess, sys, datetime, collections
+import re, subprocess, sys, datetime, collections, os
 
 DAYS = 30
 MIND = 80.0
@@ -43,7 +43,7 @@ TOP = 'lookup/CC/Classical Chinese.md'
 TABLE = 'grammar/文法 - 99韻図.md'
 
 def git_files(prefix):
-    return [f for f in subprocess.check_output(['git', 'ls-files', '-z', prefix], text=True).split('\0') if f.endswith('.md')]
+    return [f for f in subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z', prefix], text=True).split('\0') if f.endswith('.md') and os.path.exists(f)]
 
 def fm_block(t):
     m = re.match(r'---\n(.*?)\n---', t, re.S)
@@ -250,7 +250,7 @@ for i, (k, fld, fn) in enumerate(COLS):
 
 # ---------- wanted links on CC pages and the rime table
 import os, urllib.parse
-all_files = set(subprocess.check_output(['git', 'ls-files', '-z'], text=True).split('\0'))
+all_files = set(f for f in subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z'], text=True).split('\0') if os.path.exists(f))
 base_names = {os.path.basename(f)[:-3] if f.endswith('.md') else os.path.basename(f) for f in all_files}
 for f in git_files('lookup/CC/') + [TABLE]:
     t = re.sub(r'```.*?```', '', open(f).read(), flags=re.S)

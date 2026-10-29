@@ -47,7 +47,7 @@ boundedness: 50
 
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): depicts the calyx of a flower (original meaning now written [[柎]], OC *po); the negation meaning arose by phonetic borrowing. 不 was later compounded with 口 to form [[否 (char)]] (OC *brɯʔ) to make “no” unambiguous, leaving 不 for grammatical negation.
-- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 4](../lookup/Stroke/Stroke%204.md))
+- [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 2nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 

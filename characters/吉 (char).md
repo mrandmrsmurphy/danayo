@@ -35,7 +35,7 @@ aliases:
   - 佶
 注音: ㄍㄧㄊ
 date-last-perfect: 2026-10-15
-kwin: false
+kwin: true
 tags:
   - character
 boundedness: 80

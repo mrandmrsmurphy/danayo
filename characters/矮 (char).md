@@ -21,7 +21,7 @@ english:
 羅馬字: "'wai"
 諺文: "왜"
 joyo_level: "表外字"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6147
 mc_id: 9899

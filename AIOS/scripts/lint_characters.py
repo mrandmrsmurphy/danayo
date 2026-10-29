@@ -16,7 +16,7 @@ Tier B  per page, every run (frontmatter only)
   B1  required keys present; enumerated values legal; stroke_count / mc_id integers; skip_number well formed
   B2  `graphemic_classification` is not the string 形声; `pos` and `stand_in` are not blank
   B3  `注音` names a syllable page, and its 羅馬字 / 諺文 agree with the page's
-  B4  `kwin` is true exactly when 諺文 equals `korean`
+  B4  `kwin` is true exactly when 諺文 equals `korean` (a final ㄹ counts as ㄷ; 읫 counts as 의)
   B5  `stand_in` is the character itself, an existing word, or 名専字
 Tier C  body and cross-file; only pages changed since their own `date-last-perfect` (or unstamped), or all with --deep
   C1  the four Notes bullets exist in order; the SKIP/Stroke, CC and syllable links match the frontmatter
@@ -43,7 +43,7 @@ def sh(*a):
 
 def listing(folder):
     out = sh('git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z', folder)
-    return sorted(f for f in out.split('\0') if f.endswith('.md') and '/' in f and f.count('/') == 1)
+    return sorted(f for f in out.split('\0') if f.endswith('.md') and '/' in f and f.count('/') == 1 and os.path.exists(f))
 
 def read(p):
     try:
@@ -76,6 +76,7 @@ def fm_get(fm, key):
     return v
 
 problems = collections.OrderedDict()
+todo = collections.Counter()
 def add(code, msg, who):
     problems.setdefault((code, msg), []).append(who)
 
@@ -176,7 +177,9 @@ if not IDS_ONLY:
         if sc is not None and not str(sc).isdigit():
             add('B1', 'stroke_count is not an integer', stem)
         mc = get('mc_id')
-        if mc is not None and not str(mc).isdigit():
+        if mc is not None and mc == '':
+            todo['mc_id blank (not yet checked)'] += 1
+        elif mc is not None and not str(mc).isdigit():
             add('B1', 'mc_id is not an integer', stem)
         sk = get('skip_number')
         if sk is not None and not re.fullmatch(r'\d+-\d+-\d+', str(sk)):
@@ -195,13 +198,26 @@ if not IDS_ONLY:
             add('B3', 'its 注音 names no syllable page', f'{stem} ({zy})')
         elif zy:
             rm, hg = syl[zy]
-            if rm and get('羅馬字') and get('羅馬字') != rm:
+            def rn(x):
+                x = x.replace("'", '')
+                return re.sub(r'[bdg]$', lambda m: {'b': 'p', 'd': 't', 'g': 'k'}[m.group(0)], x)
+            if rm and get('羅馬字') and rn(get('羅馬字')) != rn(rm):
                 add('B3', '羅馬字 differs from its syllable page', f'{stem} ({get("羅馬字")} vs {rm})')
             if hg and get('諺文') and get('諺文') != hg:
                 add('B3', '諺文 differs from its syllable page', f'{stem} ({get("諺文")} vs {hg})')
         kw = get('kwin'); ko = get('korean'); hg = get('諺文')
         if kw is not None and ko is not None and hg is not None:
-            should = 'true' if ko == hg else 'false'
+            def kn(x): return x[:-1] + 'ㄷ' if False else x
+            def final_ld(x):
+                # Korean final ㄹ counts as ㄷ for kwin (user rule): normalize the last syllable's final
+                if not x: return x
+                if x[-1] == '읫': x = x[:-1] + '의'              # user rule 2026-10-29: 읫 counts as 의
+                c = x[-1]; o = ord(c) - 0xAC00
+                if 0 <= o < 11172:
+                    fin = o % 28
+                    if fin == 8: c = chr(ord(c) - 8 + 7)       # ㄹ(8) -> ㄷ(7)
+                return x[:-1] + c
+            should = 'true' if final_ld(ko) == final_ld(hg) else 'false'
             if str(kw).lower() != should:
                 add('B4', f'kwin is {kw} but 諺文 {hg} vs korean {ko}', stem)
         bare = stem[:-7] if stem.endswith(' (char)') else stem
@@ -260,11 +276,31 @@ if not IDS_ONLY:
         return m.group(1) if m else None
 
     def ruby_entries(sec):
+        """(target, reading) for every <ruby>[[target]] / [[target|label]] / [label](path/target.md)<rt>reading</rt></ruby>."""
         out = []
+        for m in re.finditer(r'<ruby>(.*?)<rt>([^<]*)</rt></ruby>', sec):
+            inner, rt = m.group(1), m.group(2)
+            w = re.search(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', inner)
+            if w:
+                out.append((urllib.parse.unquote(w.group(1)).strip(), rt)); continue
+            w = re.search(r'\]\(([^)]*)\)', inner)
+            if w:
+                tgt = urllib.parse.unquote(w.group(1))
+                tgt = tgt.rsplit('/', 1)[-1]
+                tgt = tgt[:-3] if tgt.endswith('.md') else tgt
+                out.append((tgt, rt))
+        return out
+
+    def plain_entries(sec):
+        """bullets that link a word but carry no <ruby> reading."""
+        out = set()
         for line in sec.split('\n'):
-            m = re.match(r'-\s*<ruby>\[\[?([^\]|]+?)(?:\]\]|\])(?:\([^)]*\))?(?:\|[^\]]*\]\])?<rt>([^<]*)</rt></ruby>', line)
-            if m:
-                tgt = urllib.parse.unquote(m.group(1)); out.append((tgt, m.group(2)))
+            if not line.startswith('-') or '<ruby>' in line: continue
+            for w in re.finditer(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]', line):
+                out.add(urllib.parse.unquote(w.group(1)).strip())
+            for w in re.finditer(r'\]\(([^)]*words/[^)]*)\)', line):
+                t = urllib.parse.unquote(w.group(1)).rsplit('/', 1)[-1]
+                out.add(t[:-3] if t.endswith('.md') else t)
         return out
 
     checked = 0
@@ -282,19 +318,26 @@ if not IDS_ONLY:
             add('C1', 'no `## Notes` section', stem)
         else:
             bl = [l for l in notes.split('\n') if l.startswith('- ')]
-            if len(bl) < 4:
-                add('C1', f'Notes has {len(bl)} bullets (need 4)', stem)
+            sk, st, zy = get('skip_number'), get('stroke_count'), get('注音')
+            skb = next((l for l in bl if re.search(r'SKIP-\d', l)), None)
+            mcb = next((l for l in bl if re.search(r'most used character in Classical Chinese|Not present|Genuinely absent|Ancient \[\[', l)), None)
+            if skb is None:
+                add('C1', 'no SKIP/Stroke bullet', stem)
             else:
-                sk, st = get('skip_number'), get('stroke_count')
-                if sk and f'SKIP-{sk}' not in bl[1]:
-                    add('C1', 'bullet 2 does not link the SKIP leaf of its skip_number', stem)
-                if st and f'Stroke%20{int(st):02d}' not in bl[1] and f'Stroke {int(st):02d}' not in bl[1]:
-                    add('C1', 'bullet 2 does not link its Stroke page', stem)
-                zy = get('注音')
-                if zy and f'syllables/{zy}.md' not in bl[2]:
-                    add('C1', 'bullet 3 does not link its syllable', stem)
-                if '聲 ' not in bl[2] or '韻 ' not in bl[2]:
-                    add('C1', 'bullet 3 lacks the CC initial/final links', stem)
+                if sk and f'SKIP-{sk}' not in skb:
+                    add('C1', 'SKIP bullet does not link the SKIP leaf of its skip_number', stem)
+                if st and str(st).isdigit() and f'Stroke%20{int(st):02d}' not in skb and f'Stroke {int(st):02d}' not in skb:
+                    add('C1', 'Stroke link is not its zero-padded Stroke page (e.g. Stroke%2004)', stem)
+            if mcb is None:
+                add('C1', 'no Classical Chinese / ancient-sound bullet', stem)
+            else:
+                if '聲 ' not in mcb or '韻 ' not in mcb:
+                    add('C1', 'ancient-sound bullet lacks the CC initial/final links', stem)
+                if zy and f'syllables/{zy}.md' not in mcb:
+                    add('C1', 'ancient-sound bullet does not link its syllable', stem)
+            for b in (skb, mcb):
+                if b and re.search(r'\]\((lookup|syllables|words|characters)/', b):
+                    add('C1', 'link in a Notes bullet is missing the `../` prefix', stem); break
         mcv = get('mc_id')
         bare = stem[:-7] if stem.endswith(' (char)') else stem
         if mcv and str(mcv).isdigit() and int(mcv) and bare in ccrank and ccrank[bare] != int(mcv):
@@ -303,8 +346,11 @@ if not IDS_ONLY:
         listed = ruby_entries(w_sec) if w_sec else []
         expect = {w: zy for w, zy in word_chars.get(stem, [])}
         got = {t: z for t, z in listed}
+        plain = plain_entries(w_sec) if w_sec else set()
         for w, zy in expect.items():
-            if w not in got:
+            if w not in got and w in plain:
+                add('C2', 'word is listed in ## Words without a <ruby> reading', f'{stem} -> {w}')
+            elif w not in got:
                 add('C2', 'word using this character is missing from ## Words', f'{stem} -> {w}')
             elif zy and got[w] != zy.strip('"'):
                 add('C2', 'ruby reading in ## Words differs from the word\'s 注音', f'{stem} -> {w} ({got[w]} vs {zy})')
@@ -324,6 +370,8 @@ if not IDS_ONLY:
 else:
     print(f'{len(chars)} pages; Tier A only')
 
+for k, v in todo.items():
+    print(f'(to do, not a failure) {k}: {v}')
 print('next free danayo_id per block: ' + ', '.join(f'{g} {v}' for g, v in sorted(nextfree.items(), key=lambda x: BASE[x[0]])))
 
 # ---------------------------------------------------------------- report

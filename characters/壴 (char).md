@@ -35,6 +35,9 @@ tags:
   - character
 boundedness: 85
 ---
+>[!tip] This is a page about the character 壴.
+>For the word, see [壴](../words/壴.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```

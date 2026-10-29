@@ -1027,7 +1027,7 @@ The following prefecture names were added in 2017:
 1012. [針 (char)](../../characters/針%20(char).md) : shin hari needle
 1013. [退 (char)](../../characters/退%20(char).md) : tai shirizo-ku retreat
 1014. [鋼](../../characters/鋼.md) : kou hagane steel
-1015. [閉](../../characters/閉.md) : hei shi-meru closed
+1015. [閉](../../characters/閉%20(char).md) : hei shi-meru closed
 1016. [閣](../../characters/閣.md) : kaku tall
 1017. [降](../../characters/降.md) : kou o-riru descend
 1018. [陛](../../characters/陛.md) : hei majesty

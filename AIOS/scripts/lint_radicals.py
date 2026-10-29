@@ -29,7 +29,7 @@ CUTOFF = TODAY - datetime.timedelta(days=DAYS)
 INDEX = 'lookup/Radicals/Radicals.md'
 
 def git_files(prefix):
-    return [f for f in subprocess.check_output(['git', 'ls-files', '-z', prefix], text=True).split('\0') if f.endswith('.md')]
+    return [f for f in subprocess.check_output(['git', 'ls-files', '--cached', '--others', '--exclude-standard', '-z', prefix], text=True).split('\0') if f.endswith('.md') and os.path.exists(f)]
 
 def fm_block(t):
     m = re.match(r'---\n(.*?)\n---', t, re.S)

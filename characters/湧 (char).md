@@ -25,7 +25,7 @@ english:
 諺文: 용
 joyo_level: 高等
 hsk_level: "4"
-hanmun_edu_level: ""
+hanmun_edu_level: "無"
 danayo_id: 6228
 mc_id: 2620
 graphemic_classification: 甬

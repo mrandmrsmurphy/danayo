@@ -31,7 +31,7 @@ tags:
 19. <ruby>[荊](characters/荊.md)<rt>ㄎ⼶ㄫ</rt></ruby> "thorn"
 20. <ruby>[荒](characters/荒.md)<rt>ㄏ⺢ㄫ</rt></ruby> "laid waste"
 21. <ruby>[荘](characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> "villa"
-22. <ruby>[[壴]]<rt>ㄊㄨㄛ</rt></ruby> "to drum"
+22. <ruby>[[壴 (char)|壴]]<rt>ㄊㄨㄛ</rt></ruby> "to drum"
 
 ## Datacheck
 ```dataview

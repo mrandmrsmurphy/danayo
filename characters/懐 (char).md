@@ -21,7 +21,7 @@ english:
 羅馬字: hwai
 諺文: 홰
 joyo_level: "高等"
-hsk_level: ""
+hsk_level: "無"
 hanmun_edu_level: 高等
 danayo_id: 5087
 mc_id: 575
@@ -46,9 +46,9 @@ date-last-perfect: 2026-09-29
 ## Notes
 - 形声: semantic [[心 (char)|心]] ("heart") + phonetic 褱 (huái, "to carry inside one's clothes," no vault page) — "to hold dear in one's heart, to miss, to think of." 懷 is the traditional form.
 - **Real bug found and fixed 2026-09-29**: `vietnamese` was left completely blank — filled with hoài, the standard Sino-Vietnamese reading (as in hoài niệm, "nostalgia"; hoài bão, "aspiration"; and hoài thai, "to be pregnant" — the same "carry within" sense at work in this character's own [[懐孕]]).
-- [SKIP-1-3-13](lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](lookup/Stroke/Stroke%2016.md))
-- 575th most used character in Classical Chinese (recorded under the traditional form 懷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 皆合|ɣuɛi]] → [ㄏ⺢ㄧ](syllables/ㄏ⺢ㄧ.md)
-- [Grade 5](lookup/Grade%205.md), [HSK No](lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
+- 575th most used character in Classical Chinese (recorded under the traditional form 懷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 皆合|ɣuɛi]] → [ㄏ⺢ㄧ](../syllables/ㄏ⺢ㄧ.md)
+- [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[懐]]<rt>ㄏ⺢ㄧ</rt></ruby> "miss, think of" (stand-in for 懐 (char))

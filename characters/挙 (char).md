@@ -47,9 +47,9 @@ boundedness: 60
 
 ## Notes
 - 形声: semantic [[Radical 064|手]] ("hand") + phonetic [[与 (char)|與]] — "to raise, to lift up"; extended to "to elect; to start, initiate."
-- [SKIP-2-4-6](lookup/SKIP/SKIP-2/SKIP-2-4-6.md) ([Stroke 10](lookup/Stroke/Stroke%2010.md))
-- 227th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄍ⼄](syllables/ㄍ⼄.md)
-- [Grade 2](lookup/Grade%202.md), [Old HSK 2](lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-4-6](../lookup/SKIP/SKIP-2/SKIP-2-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- 227th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄍ⼄](../syllables/ㄍ⼄.md)
+- [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[挙]]<rt>ㄍ⼄</rt></ruby> "raise; example" (stand-in for 挙)

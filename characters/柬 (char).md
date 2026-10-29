@@ -23,7 +23,7 @@ english:
 諺文: "갼"
 joyo_level: "表外字"
 hsk_level: "4"
-hanmun_edu_level: ""
+hanmun_edu_level: "無"
 danayo_id: 7403
 mc_id: 5112
 graphemic_classification: "会意"

@@ -58,9 +58,9 @@ boundedness: 60
 
 ## Notes
 - 形声 (OC \*pod, \*pods): originally a pictogram of a bow firing an arrow; a hand (攴) was added, forming 㢭, whose hand component later became the phonetic [[癹]] (OC \*pʰaːd, \*baːd) — semantic [[Radical 057|弓]] ("bow") + phonetic 癹, to shoot forth, to issue, to discharge. The shinjitai 発 simplifies 癹 to [[Radical 105|癶]] (the character's own assigned Kangxi radical, though not the true etymological phonetic).
-- [SKIP-2-5-4](lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](lookup/Stroke/Stroke%2009.md))
-- 226th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [ㄈㄚㄊ](syllables/ㄈㄚㄊ.md)
-- [Grade 1](lookup/Grade%201.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
+- 226th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [ㄈㄚㄊ](../syllables/ㄈㄚㄊ.md)
+- [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[発]]<rt>ㄈㄚㄊ</rt></ruby> "issue forth; discharge" (stand-in for 発)

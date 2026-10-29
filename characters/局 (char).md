@@ -46,9 +46,9 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*ɡoɡ): semantic [[Radical 044|尸]] ("a bent/curled form") + phonetic [[句]] (OC \*koː) — a confined, curved space; "office; bureau; situation (as in a game)."
-- [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](lookup/Stroke/Stroke%2007.md))
-- 3117th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄍ⼄ㄎ](syllables/ㄍ⼄ㄎ.md)
-- [Grade 3](lookup/Grade%203.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](lookup/Korean/Korean%20HS.md)
+- [SKIP-3-3-4](../lookup/SKIP/SKIP-3/SKIP-3-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
+- 3117th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 燭|ɨok]] → [ㄍ⼄ㄎ](../syllables/ㄍ⼄ㄎ.md)
+- [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
 - <ruby>[[局]]<rt>ㄍ⼄ㄎ</rt></ruby> "office" (stand-in for 局)

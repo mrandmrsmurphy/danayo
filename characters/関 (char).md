@@ -47,9 +47,9 @@ boundedness: 60
 
 ## Notes
 - 形声 (OC \*kroːn): semantic [[Radical 169|門]] ("door") + phonetic 丱 (also written 卝, guàn/luǎn — no vault page; the bronze-script form depicted a door locked with two wooden sticks).
-- [SKIP-3-8-6](lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](lookup/Stroke/Stroke%2014.md))
-- 424th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 刪合|ɣuan]] → [ㄍ⺢ㄇ](syllables/ㄍ⺢ㄇ.md)
-- [Grade 2](lookup/Grade%202.md), [HSK Beginner](lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](lookup/Korean/Korean%20MS.md)
+- [SKIP-3-8-6](../lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
+- 424th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 刪合|ɣuan]] → [ㄍ⺢ㄇ](../syllables/ㄍ⺢ㄇ.md)
+- [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
 - <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close" (stand-in for 関)

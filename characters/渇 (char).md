@@ -46,7 +46,7 @@ boundedness: 55
 ```
 
 ## Notes
-- 形声 (OC *kʰaːd): semantic [[Radical 085|氵]] ("water") + phonetic [[曷]] — water exhausted, dried up; thirst.
+- 形声 (OC *kʰaːd): semantic [[Radical 085|氵]] ("water") + phonetic [[曷 (char)|曷]] — water exhausted, dried up; thirst.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1694th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄎㄚㄊ](../syllables/ㄎㄚㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
