@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[青島]]<rt>ㄑㄝㄫㄊㄚㄨ</rt></ruby> "Qingdao"
 - <ruby>[[青海]]<rt>ㄑㄝㄫㄏㄚㄧ</rt></ruby> "Qinghai Lake; Qinghai"
 - <ruby>[[青森]]<rt>ㄑㄝㄫㄙㄨㄇ</rt></ruby> "Aomori Prefecture"
+- <ruby>[[青廷]]<rt>ㄑㄝㄫㄉㄝㄫ</rt></ruby> "dragonfly"
 
 ## Derived Characters
 - <ruby>[[請 (char)|請]]<rt>ㄑㄧㄫ</rt></ruby> "ask; invite"

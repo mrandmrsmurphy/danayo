@@ -6,7 +6,7 @@ related_domains:
   - "[[Food]]"
   - "[[Body]]"
 status: complete
-date-last-perfect: 2026-09-19
+date-last-perfect: 2026-10-28
 ---
 
 # Animals
@@ -104,6 +104,9 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[蜂](../words/蜂.md)<rt>ㄈㄛㄫ</rt></ruby>: bee, wasp, hornet.
 - <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey.
 - <ruby>[蟻](../words/蟻.md)<rt>ㄜㄧ</rt></ruby>: an ant.
+- <ruby>[悉率](../words/悉率.md)<rt>ㄙㄧㄊㄌㄨㄊ</rt></ruby>: a cricket — written with 悉 and 率 standing in for the rare 蟋蟀.
+- <ruby>[青廷](../words/青廷.md)<rt>ㄑㄝㄫㄉㄝㄫ</rt></ruby>: a dragonfly — written with 青 and 廷, the rare 蜻蜓 without its 虫 radicals.
+- <ruby>[皇虫](../words/皇虫.md)<rt>ㄏ⺢ㄫㄐㄨㄫ</rt></ruby>: a locust — written with 皇 standing in for the rare 蝗.
 - <ruby>[蚊](../words/蚊.md)<rt>ㄇㄨㄋ</rt></ruby>: mosquito, gnat.
 - <ruby>[家蝿](../words/家蝿.md)<rt>ㄍㄚㄧㄫ</rt></ruby>: housefly.
 - <ruby>[猩蝿](../words/猩蝿.md)<rt>ㄙㄝㄫㄧㄫ</rt></ruby>: fruit fly, *Drosophila* — a Dan'a'yo shortening of the Japanese 猩々蠅, the "red-ape fly" named for its red eyes.
@@ -144,7 +147,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[海狗](../words/海狗.md)<rt>ㄏㄚㄧㄍㄛㄨ</rt></ruby> / <ruby>[腽肭](../words/腽肭.md)<rt>⺢ㄆㄋㄨㄊ</rt></ruby>: fur seal — two independently attested synonyms, the first descriptive ("sea-dog"), the second a dedicated compound.
 - <ruby>[海牛](../words/海牛.md)<rt>ㄏㄚㄧㄋ⼜</rt></ruby>: manatee, sea cow.
 - <ruby>[海豹](../words/海豹.md)<rt>ㄏㄚㄧㄅ⼘ㄨ</rt></ruby>: seal (the animal).
-- <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄉㄛㄋ</rt></ruby>: dolphin — literally "sea pig."
+- <ruby>[海豚](../words/海豚.md)<rt>ㄏㄚㄧㄊㄨㄋ</rt></ruby>: dolphin — literally "sea pig."
 - <ruby>[海象](../words/海象.md)<rt>ㄏㄚㄧㄙ⼘ㄫ</rt></ruby>: walrus — literally "sea elephant."
 - <ruby>[虎鯨](../words/虎鯨.md)<rt>ㄏㄛㄍ⼶ㄫ</rt></ruby>: an orca, killer whale (Orcinus orca) — the "tiger whale", named for its ferocity; the standard Chinese term, with Japanese using シャチ instead; beside [海豚](../words/海豚.md) and [海象](../words/海象.md).
 - <ruby>[水獺](../words/水獺.md)<rt>ㄙㄨ·ㄊ⺢ㄊ</rt></ruby>: an otter — literally "water otter," the stand-in compound for the bound character 獺.
@@ -187,6 +190,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 ### Rodents
 
 - <ruby>[熊鼠](../words/熊鼠.md)<rt>ㄨㄫㄙ⼄</rt></ruby>: the black rat / roof rat (*Rattus rattus*) specifically — literally "bear-rat," distinct from generic [老鼠](../words/老鼠.md) above.
+- <ruby>[由鼠](../words/由鼠.md)<rt>⼜ㄛ·ㄙ⼄</rt></ruby>: a weasel — written with 由 standing in for the rare 鼬.
 - <ruby>[家鼠](../words/家鼠.md)<rt>ㄍㄚㄙ⼄</rt></ruby>: house mouse, house rat, commensal rodent.
 - <ruby>[小鼠](../words/小鼠.md)<rt>ㄙㄛㄙ⼄</rt></ruby>: mouse.
 - <ruby>[田鼠](../words/田鼠.md)<rt>ㄉㄝㄋㄙ⼄</rt></ruby>: vole, field mouse.
