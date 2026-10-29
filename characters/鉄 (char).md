@@ -66,6 +66,7 @@ boundedness: 75
 - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby> "railroad"
 - <ruby>[[鋼鉄]]<rt>ㄍㄚㄫㄊㄝㄊ</rt></ruby> "steel"
 - <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"
+- <ruby>[[鉄線]]<rt>ㄊㄝㄊㄙ⼶ㄋ</rt></ruby> "wire"
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"

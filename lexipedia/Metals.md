@@ -90,6 +90,7 @@ Metals without a separate everyday word use their systematic element name from t
 - <ruby>[精錬](../words/精錬.md)<rt>ㄐㄝㄫㄌㄝㄋ</rt></ruby>: to refine (metal), refining.
 - <ruby>[鋳造](../words/鋳造.md)<rt>ㄐㄨㄑㄚㄨ</rt></ruby>: casting, to cast metal.
 - <ruby>[鍛造](../words/鍛造.md)<rt>ㄉ⺢ㄋㄑㄚㄨ</rt></ruby>: forging, to forge metal.
+- <ruby>[溶接](../words/溶接.md)<rt>⼄ㄫㄐㄛㄆ</rt></ruby>: welding, to weld.
 - <ruby>[鍛冶](../words/鍛冶.md)<rt>ㄉ⺢ㄋ·⼘</rt></ruby>: to smith; the craft/trade of blacksmithing.
   - **Note**: distinct from [[鍛錬]] below — see Semantic Range Notes.
 - <ruby>[鍛錬](../words/鍛錬.md)<rt>ㄉ⺢ㄋㄌㄝㄋ</rt></ruby>: to forge and refine (v.).
@@ -103,6 +104,8 @@ Metals without a separate everyday word use their systematic element name from t
 
 ### Metal Objects
 
+- <ruby>[鉄線](../words/鉄線.md)<rt>ㄊㄝㄊㄙ⼶ㄋ</rt></ruby>: wire (iron or metal wire).
+- <ruby>[電線](../words/電線.md)<rt>ㄉㄝㄋㄙ⼶ㄋ</rt></ruby>: electric wire — wire defined by its use, to carry current.
 - <ruby>[鉄板](../words/鉄板.md)<rt>ㄊㄝㄊㄆㄚㄋ</rt></ruby>: an iron grill/plate — a common everyday object made of [[鉄]].
 - <ruby>[鈬](../words/鈬.md)<rt>ㄉㄚㄎ</rt></ruby>: a bronze bell — a common everyday object made of [[青銅]].
 - <ruby>[鈴](../words/鈴.md)<rt>ㄌㄝㄫ</rt></ruby>: a small bell — a handbell or jingle-bell, distinct from [[鈬]]'s larger cast bronze bell.
