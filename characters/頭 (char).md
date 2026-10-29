@@ -74,6 +74,7 @@ boundedness: 100
 - <ruby>[[接頭辞]]<rt>ㄐㄛㄆㄊㄛㄨㄑㄧ</rt></ruby> "prefix; verbal prefix"
 - <ruby>[[方頭捺]]<rt>ㄈㄚㄫㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "square-headed right-falling stroke (calligraphy stroke)"
 - <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "round-headed right-falling stroke (calligraphy stroke)"
+- <ruby>[[猫頭鷹]]<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby> "owl"
 
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"

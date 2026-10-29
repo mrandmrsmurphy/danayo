@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[猫]]<rt>ㄇ⼘ㄨ</rt></ruby> "cat" (stand-in for 猫)
 - <ruby>[[豹猫]]<rt>ㄅ⼘ㄨㄇ⼘ㄨ</rt></ruby> "leopard cat"
 - <ruby>[[熊猫]]<rt>ㄨㄫㄇ⼘ㄨ</rt></ruby> "panda"
+- <ruby>[[猫頭鷹]]<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby> "owl"

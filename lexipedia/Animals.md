@@ -62,6 +62,8 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 
 - <ruby>[鴨](../words/鴨.md)<rt>ㄚㄆ</rt></ruby>: duck.
 - <ruby>[鴎](../words/鴎.md)<rt>ㄛㄨ</rt></ruby>: a seagull.
+- <ruby>[孔雀](../words/孔雀.md)<rt>ㄎㄛㄫㄐㄚㄎ</rt></ruby>: a peacock, peafowl.
+- <ruby>[猫頭鷹](../words/猫頭鷹.md)<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby>: an owl — literally "cat-head hawk," shared by Mandarin and Cantonese.
 - <ruby>[鸚鵡](../words/鸚鵡.md)<rt>ㄚㄫㄇㄨ</rt></ruby>: parrot.
 - <ruby>[鸚哥](../words/鸚哥.md)<rt>ㄚㄫㄍㄜ</rt></ruby>: parakeet, parrot — a near-synonym of 鸚鵡 above, distinguished by size rather than a firm species boundary.
 - <ruby>[雁](../words/雁.md)<rt>ㄚㄋ</rt></ruby>: wild goose.
@@ -207,6 +209,9 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[勒馬](../words/勒馬.md)<rt>ㄌㄜㄎㄇㄚ</rt></ruby>: to rein in a horse.
 - <ruby>[馿](../words/馿.md)<rt>ㄌ⼄</rt></ruby>: a donkey.
 - <ruby>[駄](../words/駄.md)<rt>ㄉㄚ</rt></ruby>: a pack, to carry — specifically a beast's pack-load (駄馬, "pack horse"; 無駄, "futile, wasted effort").
+- <ruby>[牧場](../words/牧場.md)<rt>ㄇㄨㄎㄐㄚㄫ</rt></ruby>: a ranch, livestock farm, pasture.
+- <ruby>[放牧](../words/放牧.md)<rt>ㄈㄚㄫㄇㄨㄎ</rt></ruby>: to graze, to put livestock out to pasture.
+- <ruby>[獣医](../words/獣医.md)<rt>ㄙ⼜ㄜ</rt></ruby>: a veterinarian, an animal doctor.
 
 ### Animal Behavior
 
@@ -217,6 +222,9 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[禁獵](../words/禁獵.md)<rt>ㄍㄧㄇㄌㄛㄆ</rt></ruby>: a hunting ban.
 - <ruby>[吼](../words/吼.md)<rt>ㄏㄛㄨ</rt></ruby>: to roar, howl.
 - <ruby>[蟄](../words/蟄.md)<rt>ㄑㄧㄆ</rt></ruby>: to hibernate.
+- <ruby>[群集](../words/群集.md)<rt>ㄍㄨㄋㄐㄧㄆ</rt></ruby>: to swarm, to flock together — animals gathering in a mass, as insects swarm or birds flock.
+- <ruby>[追跡](../words/追跡.md)<rt>ㄊㄨㄧㄐㄝㄎ</rt></ruby>: to track, to stalk — to follow an animal by its traces, the hunter's sense of "stalk."
+- <ruby>[受粉](../words/受粉.md)<rt>ㄙ⼜ㄈㄨㄋ</rt></ruby>: pollination, to pollinate — pollen reaching a flower's stigma.
 
 ## Advanced / Specialized (C1+)
 
@@ -264,7 +272,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[獣群](../words/獣群.md)<rt>ㄙ⼜ㄍㄨㄋ</rt></ruby>: herd, a group of animals.
 - <ruby>[獵](../words/獵.md)<rt>ㄌㄛㄆ</rt></ruby>: to hunt.
 
-**Gap**: Dan'a'yo has no dedicated words yet for "to pollinate," "to swarm" (as a mass-insect verb), "to graze," "to tame," or "to stalk" (in the hunting sense — a plant-stalk homograph exists for other words, but not this verb sense). Worth flagging for future coining.
+**Gap**: Dan'a'yo has no dedicated word yet for "to tame" (the obvious 馴 is a 名専字 and cannot be used in an ordinary word). Worth flagging for future coining.
 
 ### Taxonomy (分類学) — the eight-rank hierarchy
 

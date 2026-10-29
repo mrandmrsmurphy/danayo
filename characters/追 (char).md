@@ -56,6 +56,7 @@ boundedness: 100
 - <ruby>[[追随]]<rt>ㄊㄨㄧㄙㄨㄧ</rt></ruby> "follow, pursue"
 - <ruby>[[追遡]]<rt>ㄊㄨㄧㄙㄛ</rt></ruby> "trace back; investigate origins"
 - <ruby>[[追求]]<rt>ㄊㄨㄧㄍ⼜ㄛ</rt></ruby> "pursue, search, go after"
+- <ruby>[[追跡]]<rt>ㄊㄨㄧㄐㄝㄎ</rt></ruby> "to track; to pursue"
 
 ## Derived Characters
 - <ruby>[[槌 (char)|槌]]<rt>ㄐ⼔ㄧ</rt></ruby> "hammer"

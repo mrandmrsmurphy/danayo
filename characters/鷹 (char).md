@@ -45,6 +45,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[鷹]]<rt>ㄧㄫ</rt></ruby> "hawk"
 - <ruby>[[単鷹国]]<rt>ㄉㄚㄋ·ㄧㄫㄍㄛㄎ</rt></ruby> "Prussia"
 - <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
+- <ruby>[[猫頭鷹]]<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby> "owl"
 
 ## Notes
 - 形声: semantic [[鳥 (char)]] ("bird") + phonetic [[䧹]] — "hawk; eagle."

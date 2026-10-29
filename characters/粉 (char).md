@@ -53,6 +53,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[白粉]]<rt>ㄅㄚㄎㄈㄨㄋ</rt></ruby> "white powder; face powder"
 - <ruby>[[花粉]]<rt>ㄏ⺢ㄈㄨㄋ</rt></ruby> "pollen"
 - <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> "powder, fine powder"
+- <ruby>[[受粉]]<rt>ㄙ⼜ㄈㄨㄋ</rt></ruby> "pollination"
 
 ## Chengyu
 - <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

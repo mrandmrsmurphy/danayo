@@ -56,3 +56,5 @@ date-last-perfect: 2026-10-15
 - <ruby>[[牧民]]<rt>ㄇㄨㄎㄇㄧㄋ</rt></ruby> "herdsman"
 - <ruby>[[牧師]]<rt>ㄇㄨㄎㄙㄧㄜ</rt></ruby> "pastor; minister (Protestant)"
 - <ruby>[[遊牧]]<rt>⼜ㄛㄇㄨㄎ</rt></ruby> "nomadic"
+- <ruby>[[牧場]]<rt>ㄇㄨㄎㄐㄚㄫ</rt></ruby> "ranch"
+- <ruby>[[放牧]]<rt>ㄈㄚㄫㄇㄨㄎ</rt></ruby> "to graze"
