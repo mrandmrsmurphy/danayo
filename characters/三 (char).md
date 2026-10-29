@@ -68,6 +68,7 @@ boundedness: 75
 - <ruby>[[三千]]<rt>ㄙㄚㄇㄑㄝㄋ</rt></ruby> "three thousand"
 - <ruby>[[三重]]<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby> "Mie Prefecture"
 - <ruby>[[三角形]]<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> "triangle"
+- <ruby>[[三文魚]]<rt>ㄙㄚㄇㄇㄨㄋ·⼄</rt></ruby> "salmon"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

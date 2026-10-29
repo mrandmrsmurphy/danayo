@@ -151,6 +151,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[鱏](../words/鱏.md)<rt>ㄏㄧㄇ</rt></ruby>: a ray, skate.
 - <ruby>[堅魚](../words/堅魚.md)<rt>ㄍㄝㄋ·⼄</rt></ruby>: skipjack tuna, bonito.
 - <ruby>[尊魚](../words/尊魚.md)<rt>ㄐㄛㄋ·⼄</rt></ruby>: trout — like [堅魚](../words/堅魚.md), a 代用字 form: the phonetic 尊 stands for the rare 鱒.
+- <ruby>[三文魚](../words/三文魚.md)<rt>ㄙㄚㄇㄇㄨㄋ·⼄</rt></ruby>: salmon — a Cantonese-route transcription of the English word plus 魚.
 - <ruby>[水族](../words/水族.md)<rt>ㄙㄨㄐㄛㄎ</rt></ruby>: aquatic animals (collective).
 - <ruby>[魚鰭](../words/魚鰭.md)<rt>⼄ㄍㄧㄜ</rt></ruby>: fish fin.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: fish scale.
@@ -212,6 +213,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[牧場](../words/牧場.md)<rt>ㄇㄨㄎㄐㄚㄫ</rt></ruby>: a ranch, livestock farm, pasture.
 - <ruby>[放牧](../words/放牧.md)<rt>ㄈㄚㄫㄇㄨㄎ</rt></ruby>: to graze, to put livestock out to pasture.
 - <ruby>[獣医](../words/獣医.md)<rt>ㄙ⼜ㄜ</rt></ruby>: a veterinarian, an animal doctor.
+- <ruby>[調教](../words/調教.md)<rt>ㄐㄨㄛㄍ⼄ㄨ</rt></ruby>: to tame, train an animal.
 
 ### Animal Behavior
 
@@ -271,8 +273,6 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[棲息](../words/棲息.md)<rt>ㄙㄝㄧㄙㄧㄎ</rt></ruby>: to inhabit, dwell, roost (of animals) — to live in a habitat, beside the nests and dens above.
 - <ruby>[獣群](../words/獣群.md)<rt>ㄙ⼜ㄍㄨㄋ</rt></ruby>: herd, a group of animals.
 - <ruby>[獵](../words/獵.md)<rt>ㄌㄛㄆ</rt></ruby>: to hunt.
-
-**Gap**: Dan'a'yo has no dedicated word yet for "to tame" (the obvious 馴 is a 名専字 and cannot be used in an ordinary word). Worth flagging for future coining.
 
 ### Taxonomy (分類学) — the eight-rank hierarchy
 

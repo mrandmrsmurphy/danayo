@@ -72,6 +72,7 @@ boundedness: 35
 - <ruby>[[鯨魚]]<rt>ㄍ⼶ㄫ⼄</rt></ruby> "whale"
 - <ruby>[[鰐魚]]<rt>ㄚㄎ·⼄</rt></ruby> "crocodilian"
 - <ruby>[[安康魚]]<rt>ㄚㄋㄎㄚㄫ⼄</rt></ruby> "anglerfish"
+- <ruby>[[三文魚]]<rt>ㄙㄚㄇㄇㄨㄋ·⼄</rt></ruby> "salmon"
 
 ## Chengyu
 - <ruby>[[沈魚落雁]]<rt>ㄑㄧㄇ·⼄ㄌㄚㄎ·ㄚㄋ</rt></ruby> "so beautiful that fish sink and geese descend"
