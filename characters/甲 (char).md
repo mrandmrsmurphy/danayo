@@ -60,6 +60,7 @@ boundedness: 100
 - <ruby>[[指甲]]<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby> "fingernail; toenail; nail"
 - <ruby>[[穿山甲]]<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby> "pangolin"
 - <ruby>[[肩甲骨]]<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby> "shoulder blade"
+- <ruby>[[甲板]]<rt>ㄍㄚㄆㄆㄚㄋ</rt></ruby> "deck"
 
 ## Derived Characters
 - <ruby>[[押 (char)|押]]<rt>ㄚㄆ</rt></ruby> "mortgage"

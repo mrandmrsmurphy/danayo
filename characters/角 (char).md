@@ -68,4 +68,4 @@ boundedness: 100
 - <ruby>[[犀角]]<rt>ㄙㄝㄧㄍㄛㄎ</rt></ruby> "rhinoceros horn"
 - <ruby>[[金角湾]]<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby> "Golden Horn"
 - <ruby>[[金角]]<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby> "Jinjiao, the demon king of Journey to the West"
-
+- <ruby>[[海角]]<rt>ㄏㄚㄧㄍㄛㄎ</rt></ruby> "cape"

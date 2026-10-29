@@ -29,7 +29,7 @@ language: English
 - port - [[海港]] *(reserved — "seaport," built on [海](../characters/海.md) "sea" + [港](../characters/港.md) "harbor"; not yet a word page. Distinct from the existing [[港湾]] "harbor" itself.)*
 - alley - <ruby>[坊巷](../words/坊巷.md)<rt>ㄈㄚㄫㄏㄚㄫ</rt></ruby>
   - **Note**: no modern colloquial CJKV consensus existed for this concept (Mandarin/Cantonese lean Sino 巷/胡同, but Japanese uses native 路地 and Korean uses native 골목), so Dan'a'yo resolves the disagreement with a real, dictionary-attested classical Chinese term instead — the same dispute-resolution method used for [[妓院]]. This also required finally giving [[巷]] its own character page — it had long been correctly identified as [[港]]'s own phonetic component but never given a page of its own, and had been mistakenly treated as an alias of the unrelated [[巻 (char)|巻]] ("roll, scroll") across several lookup files; both fixed.
-- sewer - [[下水道]] *(reserved — genuine three-way consensus: the exact same compound "under-water-way" in Mandarin, Japanese げすいどう, and Korean 하수도; Vietnamese leans native (cống) but has an attested formal Sino-Vietnamese form too. Not yet a word page.)*
+- sewer - <ruby>[下水道](../words/下水道.md)<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> *(three-way consensus: the exact same compound "under-water-way" in Mandarin, Japanese げすいどう, and Korean 하수도; Vietnamese leans native (cống) but has an attested formal Sino-Vietnamese form too.)*
 - forum - *(no CJKV equivalent — a foreign/imported Roman concept, not a genuine gap to fill)*
 
 ## Buildings 
@@ -115,7 +115,7 @@ language: English
 - aqueduct - [[水道橋]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese すいどうきょう, and Korean 수도교. Not yet a word page.)*
 - reservoir - <ruby>[池](../words/池.md)<rt>ㄐㄨㄧ</rt></ruby>
 - fountain - [[噴水]] *(reserved — "spray-water," identical in Japanese ふんすい and Korean 분수; Mandarin uses 噴泉 ("spray-spring") instead. Not yet a word page.)*
-- sewer - [[下水道]] (same reserved term as The City's own "sewer" above)
+- sewer - <ruby>[下水道](../words/下水道.md)<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> (same term as The City's own "sewer" above)
 - hospital - <ruby>[病院](../words/病院.md)<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>
 
 ### Commercial 

@@ -6,7 +6,7 @@ related_domains:
   - "[[Efforts]]"
   - "[[Art]]"
 status: complete
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-29
 ---
 
 # Work
@@ -15,26 +15,102 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 
 ## Core Vocabulary (A1–A2)
 
+### Working & Resting
+
 - <ruby>[工作](../words/工作.md)<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>: work; a job, to be employed.
-- <ruby>[兼](../words/兼.md)<rt>ㄍㄝㄇ</rt></ruby>: to hold concurrently, double as (兼職, "to hold a second job, moonlight"; 兼任, "to serve concurrently in a post").
-- <ruby>[休息](../words/休息.md)<rt>ㄏ⼜ㄙㄧㄎ</rt></ruby>: to rest, take a break — the natural complement to labor in this domain's own life-cycle-of-work scope.
-- <ruby>[休憩](../words/休憩.md)<rt>ㄏ⼜·ㄎㄝ</rt></ruby>: to rest, take a break — a more formal/literary near-synonym of [[休息]].
 - <ruby>[作](../words/作.md)<rt>ㄐㄚㄎ</rt></ruby>: to make, to do.
 - <ruby>[作業](../words/作業.md)<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby>: a task; to operate, to work on something.
-- <ruby>[交差](../words/交差.md)<rt>ㄍ⼄ㄨㄑㄚ</rt></ruby>: to report in, get debriefed — a colloquial Mandarin idiom, "to complete an assigned errand and report back" (回去交差); not the unrelated look-alike [[交叉]] "intersect."
+- <ruby>[休息](../words/休息.md)<rt>ㄏ⼜ㄙㄧㄎ</rt></ruby>: to rest, take a break — the natural complement to labor in this domain's own life-cycle-of-work scope.
+- <ruby>[休憩](../words/休憩.md)<rt>ㄏ⼜·ㄎㄝ</rt></ruby>: to rest, take a break — a more formal/literary near-synonym of [[休息]].
+- <ruby>[兼](../words/兼.md)<rt>ㄍㄝㄇ</rt></ruby>: to hold concurrently, double as (兼職, "to hold a second job, moonlight"; 兼任, "to serve concurrently in a post").
 - <ruby>[技能](../words/技能.md)<rt>ㄍㄨㄧㄋㄜㄫ</rt></ruby>: skill, ability.
+
+### Making & Fixing
+
 - <ruby>[建築](../words/建築.md)<rt>ㄍㄝㄋㄐㄨㄎ</rt></ruby>: to build; construction, architecture.
-- <ruby>[窯](../words/窯.md)<rt>⼄ㄨ</rt></ruby>: a kiln.
 - <ruby>[修理](../words/修理.md)<rt>ㄙㄨㄛㄌㄧ</rt></ruby>: to fix, to repair.
-- <ruby>[実用](../words/実用.md)<rt>ㄙㄧㄊ⼄ㄫ</rt></ruby>: practical, utilitarian.
 - <ruby>[人工](../words/人工.md)<rt>ㄋㄧㄋㄍㄛㄫ</rt></ruby>: artificial, man-made.
+- <ruby>[実用](../words/実用.md)<rt>ㄙㄧㄊ⼄ㄫ</rt></ruby>: practical, utilitarian.
 
 ## Intermediate (B1–B2)
+
+### Jobs & Professions
+
+- <ruby>[職業](../words/職業.md)<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby>: job, profession, career.
+- <ruby>[業](../words/業.md)<rt>ㄝㄆ</rt></ruby>: profession, business — the base morpheme of [[職業]].
+- <ruby>[工人](../words/工人.md)<rt>ㄍㄛㄫㄋㄧㄋ</rt></ruby>: a worker, craftsman.
+- <ruby>[工匠](../words/工匠.md)<rt>ㄍㄛㄫㄑ⺢ㄫ</rt></ruby>: artisan, craftsman.
+- <ruby>[農民](../words/農民.md)<rt>ㄋㄛㄫㄇㄧㄋ</rt></ruby>: farmer, peasant.
+- <ruby>[牧民](../words/牧民.md)<rt>ㄇㄨㄎㄇㄧㄋ</rt></ruby>: herdsman.
+- <ruby>[漁夫](../words/漁夫.md)<rt>⼄ㄈㄜ</rt></ruby>: fisherman.
+- <ruby>[漁民](../words/漁民.md)<rt>⼄·ㄇㄧㄋ</rt></ruby>: fisherfolk, fishing people.
+- <ruby>[記者](../words/記者.md)<rt>ㄍㄧㄑㄚ</rt></ruby>: reporter, journalist.
+- <ruby>[書記](../words/書記.md)<rt>ㄙ⼄ㄍㄧ</rt></ruby>: secretary.
+- <ruby>[会社員](../words/会社員.md)<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby>: office worker.
+- <ruby>[人員](../words/人員.md)<rt>ㄋㄧㄋ·ㄨㄋ</rt></ruby>: staff, personnel.
+- <ruby>[雇員](../words/雇員.md)<rt>ㄎㄛㄨㄋ</rt></ruby>: employee.
+- <ruby>[服務員](../words/服務員.md)<rt>ㄅㄨㄎㄇㄨㄨㄋ</rt></ruby>: a server, waiter — a worker whose job is serving customers (the everyday Mandarin term, 服務 "service" + 員 "personnel").
+- <ruby>[弟子](../words/弟子.md)<rt>ㄉㄝㄐㄜ</rt></ruby>: apprentice, disciple.
+- <ruby>[同僚](../words/同僚.md)<rt>ㄉㄛㄫㄌ⼄ㄨ</rt></ruby>: a colleague, coworker.
+
+### Workplaces
+
+- <ruby>[工場](../words/工場.md)<rt>ㄍㄛㄫㄐㄚㄫ</rt></ruby>: factory, workplace.
+- <ruby>[工廠](../words/工廠.md)<rt>ㄍㄛㄫㄑㄚㄫ</rt></ruby>: factory, manufacturing plant — see Semantic Range Notes for how this differs from [[工場]].
+- <ruby>[作坊](../words/作坊.md)<rt>ㄐㄚㄎㄈㄚㄫ</rt></ruby>: a workshop, atelier — specifically a small-scale handicraft workshop, distinct from the more modern artist's-studio sense of 工房/工作室.
+- <ruby>[窯](../words/窯.md)<rt>⼄ㄨ</rt></ruby>: a kiln.
+- <ruby>[会社](../words/会社.md)<rt>ㄏ⼔ㄙ⼘</rt></ruby>: business, company.
+- <ruby>[公司](../words/公司.md)<rt>ㄍㄛㄫㄙㄚ</rt></ruby>: company, firm.
+- <ruby>[企業](../words/企業.md)<rt>ㄎㄝㄝㄆ</rt></ruby>: enterprise, firm.
+- <ruby>[事務所](../words/事務所.md)<rt>ㄐㄧ·ㄇㄨㄙㄜ</rt></ruby>: office building, firm, agency.
+- <ruby>[辦公室](../words/辦公室.md)<rt>ㄅㄚㄋㄍㄛㄫㄙㄧㄊ</rt></ruby>: office.
+
+### Employment
+
+- <ruby>[雇用](../words/雇用.md)<rt>ㄎㄛ⼄ㄫ</rt></ruby>: to employ, hire; employment — taking someone on for pay, or the state of being in work (雇用保険, "employment insurance"); the employer's act of taking on, where [[募集]] is the public call for recruits.
+- <ruby>[募集](../words/募集.md)<rt>ㄇㄛㄐㄧㄆ</rt></ruby>: to recruit, solicit; recruitment — a public call to gather workers, members or contributions; the stand-in for the bound character 募.
+- <ruby>[従業](../words/従業.md)<rt>ㄐㄛㄫㄝㄆ</rt></ruby>: employment, being engaged in work.
+- <ruby>[出勤](../words/出勤.md)<rt>ㄑㄨㄊㄍㄧㄋ</rt></ruby>: to go to work, clock in.
+- <ruby>[缺勤](../words/缺勤.md)<rt>ㄎ⼔ㄊㄍㄧㄋ</rt></ruby>: absence from work, to be absent from duty — failing to report for one's work (欠勤 in Japanese, rendered here with 缺); beside [[退職]] and [[卸]] among the words for leaving or missing a post.
+- <ruby>[失業](../words/失業.md)<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby>: to become unemployed, lose one's job.
+- <ruby>[副業](../words/副業.md)<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby>: a side job, second job.
+- <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
+- <ruby>[辞職](../words/辞職.md)<rt>ㄑㄧㄐㄧㄎ</rt></ruby>: to resign, resignation — to take formal leave of an official post.
+- <ruby>[辞任](../words/辞任.md)<rt>ㄑㄧ·ㄋㄧㄇ</rt></ruby>: to resign from an office or post.
+- <ruby>[辞令](../words/辞令.md)<rt>ㄑㄧㄌㄝㄫ</rt></ruby>: letter of dismissal or resignation.
+- <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
+- <ruby>[担任](../words/担任.md)<rt>ㄉㄚㄇㄋㄧㄇ</rt></ruby>: to assume a post, take charge of a role — in Japanese and Korean schools also the homeroom teacher; opposite of stepping down ([[卸]]).
+- <ruby>[昇叙](../words/昇叙.md)<rt>ㄙㄨㄫㄙ⼄</rt></ruby>: to be promoted, advanced in rank.
+- <ruby>[晋升](../words/晋升.md)<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby>: to promote, advance in rank.
+- <ruby>[抜擢](../words/抜擢.md)<rt>ㄆㄚㄊㄐㄛㄎ</rt></ruby>: to select for promotion, single out for advancement.
+- <ruby>[罷免](../words/罷免.md)<rt>ㄅㄚㄧㄇ⼶ㄋ</rt></ruby>: to dismiss from office.
+- <ruby>[廃黜](../words/廃黜.md)<rt>ㄈㄝ·ㄊㄨㄊ</rt></ruby>: to depose, dismiss from office.
+- <ruby>[交差](../words/交差.md)<rt>ㄍ⼄ㄨㄑㄚ</rt></ruby>: to report in, get debriefed — a colloquial Mandarin idiom, "to complete an assigned errand and report back" (回去交差); not the unrelated look-alike [[交叉]] "intersect."
+- <ruby>[辦公](../words/辦公.md)<rt>ㄅㄚㄋㄍㄛㄫ</rt></ruby>: to do business, handle business.
+- <ruby>[辦理](../words/辦理.md)<rt>ㄅㄚㄋㄌㄧ</rt></ruby>: to manage, arrange, run.
+- <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
+- <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
+
+### Pay & Income
+
+- <ruby>[俸給](../words/俸給.md)<rt>ㄈㄛㄫㄍㄧㄆ</rt></ruby>: salary, stipend — official pay.
+- <ruby>[俸祿](../words/俸祿.md)<rt>ㄈㄛㄫㄌㄛㄎ</rt></ruby>: official salary, stipend, emolument.
+- <ruby>[収入](../words/収入.md)<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>: income.
+- <ruby>[利潤](../words/利潤.md)<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>: profit.
+- <ruby>[報償](../words/報償.md)<rt>ㄅㄚㄨㄙ⼘ㄫ</rt></ruby>: to compensate; compensation.
+- <ruby>[支付](../words/支付.md)<rt>ㄐㄝㄈㄨ</rt></ruby>: to pay.
+
+### Time Off & Deadlines
+
+- <ruby>[休暇](../words/休暇.md)<rt>ㄏ⼜ㄏㄚ</rt></ruby>: vacation.
+- <ruby>[休日](../words/休日.md)<rt>ㄏ⼜·ㄋㄧㄊ</rt></ruby>: day off, holiday.
+- <ruby>[祝日](../words/祝日.md)<rt>ㄐㄨㄎㄋㄧㄊ</rt></ruby>: national holiday, public holiday.
+- <ruby>[期限](../words/期限.md)<rt>ㄎㄧㄏㄚㄋ</rt></ruby>: due date, deadline, time limit.
+- <ruby>[締切](../words/締切.md)<rt>ㄊㄝㄧㄑㄝㄊ</rt></ruby>: deadline, closing date.
 
 ### Construction & Production
 
 - <ruby>[構築](../words/構築.md)<rt>ㄍㄛㄨㄐㄨㄎ</rt></ruby>: to construct, to build (a system, a structure, a position) — see Semantic Range Notes.
-- <ruby>[作坊](../words/作坊.md)<rt>ㄐㄚㄎㄈㄚㄫ</rt></ruby>: a workshop, atelier — specifically a small-scale handicraft workshop, distinct from the more modern artist's-studio sense of 工房/工作室.
 - <ruby>[建設](../words/建設.md)<rt>ㄍㄝㄋㄙㄝㄊ</rt></ruby>: to establish, to build (formal, large-scale).
 - <ruby>[構造](../words/構造.md)<rt>ㄍㄛㄨㄑㄚㄨ</rt></ruby>: structure, composition.
 - <ruby>[製作](../words/製作.md)<rt>ㄐㄝㄐㄚㄎ</rt></ruby>: to manufacture, to make.
@@ -43,6 +119,11 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: equipment, facilities.
 - <ruby>[供給](../words/供給.md)<rt>ㄍ⼄ㄫㄍㄧㄆ</rt></ruby>: to supply.
 - <ruby>[提供](../words/提供.md)<rt>ㄙㄝㄍ⼄ㄫ</rt></ruby>: to provide, to offer.
+- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture, farming.
+- <ruby>[農耕](../words/農耕.md)<rt>ㄋㄛㄫㄍㄚㄫ</rt></ruby>: agriculture.
+- <ruby>[養殖](../words/養殖.md)<rt>⼘ㄫㄙㄧㄎ</rt></ruby>: to cultivate, breed.
+- <ruby>[工業](../words/工業.md)<rt>ㄍㄛㄫㄝㄆ</rt></ruby>: industry.
+- <ruby>[商業](../words/商業.md)<rt>ㄙ⼘ㄫㄝㄆ</rt></ruby>: commerce, trade.
 
 ### Repair & Maintenance
 
@@ -69,57 +150,42 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[専門](../words/専門.md)<rt>ㄐ⼔ㄋㄇㄛㄋ</rt></ruby>: a specialty, field of expertise — 専 "dedicated" + 門 "field."
 - <ruby>[発明](../words/発明.md)<rt>ㄈㄚㄊㄇ⼶ㄫ</rt></ruby>: to invent.
 
-### Labor & Institutions
+### Management & Cooperation
+
+- <ruby>[掌管](../words/掌管.md)<rt>ㄐㄚㄫㄍ⺢ㄋ</rt></ruby>: to manage, be in charge of — to hold something in the hand and direct it; overall charge, which [[分掌]] then parcels out among several hands.
+- <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
+- <ruby>[経営](../words/経営.md)<rt>ㄍㄝㄫ⼶ㄫ</rt></ruby>: to run, manage (a business).
+- <ruby>[管理](../words/管理.md)<rt>ㄍ⺢ㄋㄌㄧ</rt></ruby>: to supervise, administer, manage.
+- <ruby>[部長](../words/部長.md)<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>: head, chief — a department head.
+- <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty.
+- <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract, agreement.
+- <ruby>[計画](../words/計画.md)<rt>ㄍㄝㄧㄏ⺢ㄎ</rt></ruby>: plan, schedule.
+- <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
+- <ruby>[協力](../words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby>: to join forces, work together.
+- <ruby>[組合](../words/組合.md)<rt>ㄐㄜㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
+
+### Labor & Hardship
 
 - <ruby>[労動](../words/労動.md)<rt>ㄌㄚㄨㄉㄛㄫ</rt></ruby>: labor, work — the economic category (労動者, "a worker"; 労動力, "labor force").
 - <ruby>[家事](../words/家事.md)<rt>ㄍㄚㄐㄧ</rt></ruby>: housework.
-- <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
-- <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
-- <ruby>[副業](../words/副業.md)<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby>: a side job, second job.
-- <ruby>[工人](../words/工人.md)<rt>ㄍㄛㄫㄋㄧㄋ</rt></ruby>: a worker, craftsman.
 - <ruby>[人手](../words/人手.md)<rt>ㄋㄧㄋㄙ⼜</rt></ruby>: manpower, workforce — the headcount of available hands (人手不足, "insufficient manpower"), distinct from [[労動]]'s abstract economic category.
 - <ruby>[辛苦](../words/辛苦.md)<rt>ㄙㄧㄋㄎㄛ</rt></ruby>: toil, bitter hardship.
 - <ruby>[改](../words/改.md)<rt>ㄍㄚㄧ</rt></ruby>: to remake, to redo, to renew.
-- <ruby>[工場](../words/工場.md)<rt>ㄍㄛㄫㄐㄚㄫ</rt></ruby>: factory, workplace.
-- <ruby>[工廠](../words/工廠.md)<rt>ㄍㄛㄫㄑㄚㄫ</rt></ruby>: factory, manufacturing plant — see Semantic Range Notes for how this differs from [[工場]].
-- <ruby>[組合](../words/組合.md)<rt>ㄐㄜㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
-- <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
-- <ruby>[協力](../words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby>: to join forces, work together.
-- <ruby>[同僚](../words/同僚.md)<rt>ㄉㄛㄫㄌ⼄ㄨ</rt></ruby>: a colleague, coworker.
-- <ruby>[募集](../words/募集.md)<rt>ㄇㄛㄐㄧㄆ</rt></ruby>: to recruit, solicit; recruitment — a public call to gather workers, members or contributions; the stand-in for the bound character 募.
-- <ruby>[雇用](../words/雇用.md)<rt>ㄎㄛ⼄ㄫ</rt></ruby>: to employ, hire; employment — taking someone on for pay, or the state of being in work (雇用保険, "employment insurance"); the employer's act of taking on, where [[募集]] is the public call for recruits.
-- <ruby>[担任](../words/担任.md)<rt>ㄉㄚㄇㄋㄧㄇ</rt></ruby>: to assume a post, take charge of a role — in Japanese and Korean schools also the homeroom teacher; opposite of stepping down ([[卸]]).
-- <ruby>[掌管](../words/掌管.md)<rt>ㄐㄚㄫㄍ⺢ㄋ</rt></ruby>: to manage, be in charge of — to hold something in the hand and direct it; overall charge, which [[分掌]] then parcels out among several hands.
-- <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
-- <ruby>[退職](../words/退職.md)<rt>ㄊㄧㄜㄐㄧㄎ</rt></ruby>: to retire, to resign.
-- <ruby>[失業](../words/失業.md)<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby>: to become unemployed, lose one's job.
-- <ruby>[従業](../words/従業.md)<rt>ㄐㄛㄫㄝㄆ</rt></ruby>: employment, being engaged in work.
-- <ruby>[服務員](../words/服務員.md)<rt>ㄅㄨㄎㄇㄨㄨㄋ</rt></ruby>: a server, waiter — a worker whose job is serving customers (the everyday Mandarin term, 服務 "service" + 員 "personnel").
-- <ruby>[出勤](../words/出勤.md)<rt>ㄑㄨㄊㄍㄧㄋ</rt></ruby>: to go to work, clock in.
-- <ruby>[辞職](../words/辞職.md)<rt>ㄑㄧㄐㄧㄎ</rt></ruby>: to resign, resignation — to take formal leave of an official post.
-- <ruby>[卸](../words/卸.md)<rt>ㄙ⼘</rt></ruby>: to unload, lay down; figuratively, to step down from a post (卸任, "to leave office"; 卸責, "to shed responsibility") — a near-synonym of [[退職]] in this figurative sense.
-- <ruby>[缺勤](../words/缺勤.md)<rt>ㄎ⼔ㄊㄍㄧㄋ</rt></ruby>: absence from work, to be absent from duty — failing to report for one's work (欠勤 in Japanese, rendered here with 缺); beside [[退職]] and [[卸]] among the words for leaving or missing a post.
 
-### Additional Vocabulary (backfilled 2026-10-10)
+### Tools & Equipment
 
-- <ruby>[書記](../words/書記.md)<rt>ㄙ⼄ㄍㄧ</rt></ruby>: secretary.
-- <ruby>[洗車](../words/洗車.md)<rt>ㄙㄝㄋㄑ⺢</rt></ruby>: wash a car.
-- <ruby>[照顧](../words/照顧.md)<rt>ㄐㄛㄨㄍㄛ</rt></ruby>: care for; look after.
-- <ruby>[牧民](../words/牧民.md)<rt>ㄇㄨㄎㄇㄧㄋ</rt></ruby>: herdsman.
-- <ruby>[琢磨](../words/琢磨.md)<rt>ㄊㄚㄎㄇㄚ</rt></ruby>: polish jewels.
-- <ruby>[経営](../words/経営.md)<rt>ㄍㄝㄫ⼶ㄫ</rt></ruby>: run; manage.
-- <ruby>[脱稿](../words/脱稿.md)<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby>: complete a manuscript.
-- <ruby>[記者](../words/記者.md)<rt>ㄍㄧㄑㄚ</rt></ruby>: reporter; journalist.
-- <ruby>[謄録](../words/謄録.md)<rt>ㄉㄜㄫㄌㄛㄎ</rt></ruby>: transcribe by hand; copy out.
-- <ruby>[辞令](../words/辞令.md)<rt>ㄑㄧㄌㄝㄫ</rt></ruby>: letter of dismissal; letter of resignation.
-- <ruby>[辦公](../words/辦公.md)<rt>ㄅㄚㄋㄍㄛㄫ</rt></ruby>: do business; handle business.
-- <ruby>[辦公室](../words/辦公室.md)<rt>ㄅㄚㄋㄍㄛㄫㄙㄧㄊ</rt></ruby>: office.
-- <ruby>[辦理](../words/辦理.md)<rt>ㄅㄚㄋㄌㄧ</rt></ruby>: manage; arrange; run.
-- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture; farming.
-- <ruby>[農耕](../words/農耕.md)<rt>ㄋㄛㄫㄍㄚㄫ</rt></ruby>: agriculture.
-- <ruby>[陶汰](../words/陶汰.md)<rt>ㄉㄚㄨㄊㄚㄧ</rt></ruby>: scour.
-- <ruby>[雇員](../words/雇員.md)<rt>ㄎㄛㄨㄋ</rt></ruby>: employee.
-- <ruby>[養殖](../words/養殖.md)<rt>⼘ㄫㄙㄧㄎ</rt></ruby>: cultivate; breed.
+- <ruby>[工具](../words/工具.md)<rt>ㄍㄛㄫㄍㄨ</rt></ruby>: tool, instrument, implement.
+- <ruby>[机械](../words/机械.md)<rt>ㄍㄧㄜㄏ⼶</rt></ruby>: machine, machinery.
+- <ruby>[机器](../words/机器.md)<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby>: machine, machinery.
+
+### Specific Tasks
+
+- <ruby>[洗車](../words/洗車.md)<rt>ㄙㄝㄋㄑ⺢</rt></ruby>: to wash a car.
+- <ruby>[照顧](../words/照顧.md)<rt>ㄐㄛㄨㄍㄛ</rt></ruby>: to care for, look after.
+- <ruby>[琢磨](../words/琢磨.md)<rt>ㄊㄚㄎㄇㄚ</rt></ruby>: to polish jewels.
+- <ruby>[陶汰](../words/陶汰.md)<rt>ㄉㄚㄨㄊㄚㄧ</rt></ruby>: to scour.
+- <ruby>[脱稿](../words/脱稿.md)<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby>: to complete a manuscript.
+- <ruby>[謄録](../words/謄録.md)<rt>ㄉㄜㄫㄌㄛㄎ</rt></ruby>: to transcribe by hand, copy out.
 
 ## Semantic Range Notes
 
