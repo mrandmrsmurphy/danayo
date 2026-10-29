@@ -144,6 +144,9 @@ boundedness: 90
 - <ruby>[[韮金]]<rt>ㄍ⼜ㄍㄧㄇ</rt></ruby> "praseodymium"
 - <ruby>[[鬼金]]<rt>ㄍㄨㄧㄍㄧㄇ</rt></ruby> "cobalt"
 - <ruby>[[黒金]]<rt>ㄏㄨㄎㄍㄧㄇ</rt></ruby> "hassium"
+- <ruby>[[金箔]]<rt>ㄍㄧㄇㄅㄚㄎ</rt></ruby> "gold leaf"
+- <ruby>[[冶金]]<rt>⼘ㄍㄧㄇ</rt></ruby> "metallurgy"
+- <ruby>[[錬金術]]<rt>ㄌㄝㄋㄍㄧㄇㄙㄨㄊ</rt></ruby> "alchemy"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

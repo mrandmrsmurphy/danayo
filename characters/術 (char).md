@@ -62,3 +62,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[算術]]<rt>ㄙ⺢ㄋㄙㄨㄊ</rt></ruby> "arithmetic"
 - <ruby>[[芸術]]<rt>ㄝㄙㄨㄊ</rt></ruby> "skill, art, craft"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"
+- <ruby>[[錬金術]]<rt>ㄌㄝㄋㄍㄧㄇㄙㄨㄊ</rt></ruby> "alchemy"

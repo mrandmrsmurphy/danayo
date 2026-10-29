@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[堅硬]]<rt>ㄍㄝㄋ·ㄚㄫ</rt></ruby> "solid, hard"
 - <ruby>[[硬金]]<rt>ㄚㄫㄍㄧㄇ</rt></ruby> "molybdenum"
 - <ruby>[[硬口蓋]]<rt>ㄚㄫ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "hard palate; palatal"
+- <ruby>[[硬度]]<rt>ㄚㄫㄉㄛ</rt></ruby> "hardness"

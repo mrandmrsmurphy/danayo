@@ -73,6 +73,7 @@ boundedness: 90
 - <ruby>[[日食]]<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby> "solar eclipse"
 - <ruby>[[月食]]<rt>⼔ㄊㄙㄧㄎ</rt></ruby> "lunar eclipse"
 - <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
+- <ruby>[[腐食]]<rt>ㄆㄨㄙㄧㄎ</rt></ruby> "corrosion"
 
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"

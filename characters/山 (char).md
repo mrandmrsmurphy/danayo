@@ -86,6 +86,7 @@ boundedness: 75
 - <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
 - <ruby>[[檀香山]]<rt>ㄉㄚㄋㄏ⼘ㄫㄙㄚㄋ</rt></ruby> "Honolulu"
 - <ruby>[[山羊]]<rt>ㄙㄚㄋ·⼘ㄫ</rt></ruby> "goat"
+- <ruby>[[鉱山]]<rt>ㄍ⺢ㄫㄙㄚㄋ</rt></ruby> "mine"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"
