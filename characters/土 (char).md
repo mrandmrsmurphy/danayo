@@ -56,7 +56,7 @@ boundedness: 90
 - <ruby>[[安土]]<rt>ㄚㄋㄊㄛ</rt></ruby> "Azuchi"
 - <ruby>[[壌土]]<rt>ㄋ⼘ㄫㄊㄛ</rt></ruby> "loam; loamy soil"
 - <ruby>[[土星]]<rt>ㄊㄛㄙㄝㄫ</rt></ruby> "Saturn"
-- <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
+- <ruby>[[土着]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"- <ruby>[[広土]]<rt>ㄍ⺢ㄫㄊㄛ</rt></ruby> "vast territory, extensive land"
 - <ruby>[[領土]]<rt>ㄌㄧㄫㄊㄛ</rt></ruby> "territory"
 - <ruby>[[土素]]<rt>ㄊㄛㄙㄛ</rt></ruby> "tellurium"
 - <ruby>[[土地]]<rt>ㄊㄛㄉㄧㄜ</rt></ruby> "ground; land"

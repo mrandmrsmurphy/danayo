@@ -142,8 +142,13 @@ for stem, w in words.items():
         if not re.search(rf'^{k}:', fm, re.M):
             todo[f'no `{k}` field (omitted, not yet sourced)'] += 1
     pos = g('pos')
-    if pos is not None and (pos == '' or pos not in LEGAL_POS):
-        add('B2', 'pos is blank' if pos == '' else f'pos {pos!r} is not a legal part of speech', stem)
+    if pos == '':
+        pos_list = fm_list(fm, 'pos') or []                   # several parts of speech are written as a YAML list
+        for q in pos_list:
+            if q not in LEGAL_POS: add('B2', f'pos {q!r} is not a legal part of speech', stem)
+        if not pos_list: add('B2', 'pos is blank', stem)
+    elif pos is not None and pos not in LEGAL_POS:
+        add('B2', f'pos {pos!r} is not a legal part of speech', stem)
     en = fm_list(fm, 'english')
     if re.search(r'^english:', fm, re.M) and not en and not g('english'):
         add('B3', 'english is empty', stem)

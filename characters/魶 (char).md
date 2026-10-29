@@ -50,5 +50,4 @@ date-last-perfect: 2026-10-20
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
-- <ruby>[[words/魶|魶]]<rt>ㄋㄨㄆ</rt></ruby> "giant salamander"
 - <ruby>[[魶]]<rt>ㄋㄨㄆ</rt></ruby> "giant salamander"

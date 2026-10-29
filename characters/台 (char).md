@@ -55,7 +55,7 @@ boundedness: 95
 ## Notes
 - 形声 (OC *l'ɯ): semantic [[Radical 030|口]] ("enclosure; mouth") + phonetic [[以 (char)|㠯]] (OC *l'ɯʔ), the archaic bronze-inscription form of 以 — 台 absorbs several originally distinct characters (the aliases above), covering platform or stage, typhoon, and the archaic first-person pronoun (yí), all now unified under one form.
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
-- 840th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
+- 840th most used character in Classical Chinese (ranked there under 臺). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words

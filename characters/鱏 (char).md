@@ -55,5 +55,4 @@ date-last-perfect: 2026-10-20
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words
-- <ruby>[[words/鱏|鱏]]<rt>ㄏㄧㄇ</rt></ruby> "ray, skate"
 - <ruby>[[鱏]]<rt>ㄏㄧㄇ</rt></ruby> "ray; skate"

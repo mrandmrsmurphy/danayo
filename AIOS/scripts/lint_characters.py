@@ -340,7 +340,7 @@ if not IDS_ONLY:
                     add('C1', 'link in a Notes bullet is missing the `../` prefix', stem); break
         mcv = get('mc_id')
         bare = stem[:-7] if stem.endswith(' (char)') else stem
-        documented = bool(re.search(r'(recorded|ranked|listed)( there| in the CC lists)? under', body))
+        documented = bool(re.search(r'(recorded|ranked|listed|mirrored)( there| in the CC lists)? under|as its variant form|ranking lists the variant form', body))
         if mcv and str(mcv).isdigit() and int(mcv) and bare in ccrank and ccrank[bare] != int(mcv) and not documented:
             add('C3', f'mc_id {mcv} but lookup/CC lists it at {ccrank[bare]}', stem)
         w_sec = section(body, 'Words')

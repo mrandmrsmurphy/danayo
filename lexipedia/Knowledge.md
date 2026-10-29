@@ -176,6 +176,8 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[心理学](../words/心理学.md)<rt>ㄙㄧㄇㄌㄧㄏㄚㄎ</rt></ruby>: psychology.
 - <ruby>[政治学](../words/政治学.md)<rt>ㄐㄧㄫㄑㄧㄏㄚㄎ</rt></ruby>: political science.
 - <ruby>[哲学](../words/哲学.md)<rt>ㄐㄝㄊㄏㄚㄎ</rt></ruby>: philosophy.
+- <ruby>[哲学者](../words/哲学者.md)<rt>ㄐㄝㄊㄏㄚㄎㄑㄚ</rt></ruby>: philosopher, one who does philosophy.
+- <ruby>[哲学家](../words/哲学家.md)<rt>ㄐㄝㄊㄏㄚㄎㄍㄚ</rt></ruby>: philosopher as an acknowledged title.
 - <ruby>[史学](../words/史学.md)<rt>ㄙㄧㄏㄚㄎ</rt></ruby>: historiography, history as an academic discipline.
 - <ruby>[人類学](../words/人類学.md)<rt>ㄋㄧㄋㄌㄨㄧㄏㄚㄎ</rt></ruby>: anthropology, the study of humankind.
 - <ruby>[律学](../words/律学.md)<rt>ㄌㄨㄊㄏㄚㄎ</rt></ruby>: jurisprudence, the study of law (the discipline, distinct from Law's own substantive vocabulary).
