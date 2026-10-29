@@ -4,6 +4,13 @@ This file provides guidance to AI Code software when working with code in this r
 
 An **Obsidian vault** for *単亜語* (Dan'a'yo), a constructed zonal auxiliary language for the East Asian cultural sphere (Mandarin, Cantonese, Japanese, Korean, Vietnamese).
 
+**It is a daughter project.** Dan'a'yo is the flagship of the Universal Languages (UL) project (parent vault: UL; see [[AIOS/memory/reference_ul_family_structure.md]]). It is free-standing, with its own vault, grammar and vocabulary, but it is also in line with the UL family, whose design principles it must satisfy:
+
+- **Every UL has its own script.** Dan'a'yo's is Han characters, with Bopomofo (注音) for sound. A pinyin-style Latin alphabet for Dan'a'yo phonetics was never an option.
+- **Each UL should be easier for its region's speakers than any other language of that region**, not necessarily rock-bottom easy. Dan'a'yo should be easier for a Korean to learn than Mandarin, for example.
+
+When describing the vault, include this framing, and when judging a design choice, test it against both principles.
+
 ## Orientation (read before describing this vault to anyone)
 
 Four atomic entry types, each in its own folder:

@@ -14,3 +14,9 @@ Inter-vault communication is uncommon, but must be painless and consistently for
 2. **Requests** between vaults travel as dated note files placed in the target vault's `AIOS/` folder; the user carries them over and points the receiving agent at the note.
 
 **How to apply:** when a UL-vault session asks about Dan'a'yo, the answer is this vault's `AIOS/facts.yaml`. Rerun `build_facts.py` after changes to counts or progress.
+
+**Definition of Dan'a'yo (user, 2026-10-29):** it is a daughter project, free-standing in some sense but in line with the UL family in another. Two UL-wide principles bind it:
+- Every UL has its own script, so a pinyin-style Latin alphabet for Dan'a'yo phonetics was never an option (Han characters + Bopomofo).
+- Each UL should be easier to learn for its region's speakers than any other language of the region, though not necessarily the lowest common denominator. Dan'a'yo should be easier for a Korean than Mandarin is.
+
+This framing is part of the answer whenever someone asks what the vault is; it is also stated in `AGENTS.md`.
