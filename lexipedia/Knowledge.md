@@ -88,6 +88,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[前提](../words/前提.md)<rt>ㄐㄝㄋㄙㄝ</rt></ruby>: prerequisite, premise.
 - <ruby>[条件](../words/条件.md)<rt>ㄐㄛㄍ⼶ㄋ</rt></ruby>: condition, prerequisite.
 - <ruby>[検証](../words/検証.md)<rt>ㄍㄝㄇㄐㄧㄫ</rt></ruby>: to verify, to check a claim against evidence.
+- <ruby>[理由](../words/理由.md)<rt>ㄌㄧ⼜ㄛ</rt></ruby>: reason, grounds, justification.
 
 ### Investigation & Analysis
 

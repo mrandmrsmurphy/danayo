@@ -42,7 +42,9 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声: OC \*zlɯs): semantic [宀](Radical%20040) (“roof”) + phonetic [子](Radical%20039) (OC \*ʔslɯʔ, “child”) - [ㄐㄧ](../syllables/ㄐㄧ.md)
+- 形声: OC \*zlɯs): semantic [宀](Radical%20040) (“roof”) + phonetic [子](Radical%20039) (OC \*ʔslɯʔ, “child”)
+- [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
+- 594th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄐㄧ](../syllables/ㄐㄧ.md)
 - [Korean MS](../lookup/Korean/Korean%20MS.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Grade 1](../lookup/Grade%201.md)
 
 
@@ -78,6 +80,12 @@ boundedness: 90
 - <ruby>[[簡体字]]<rt>ㄍㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "Simplified Chinese characters"
 - <ruby>[[繁体字]]<rt>ㄆㄚㄋㄊㄝㄧㄐㄧ</rt></ruby> "Traditional Chinese characters"
 - <ruby>[[識字]]<rt>ㄙㄧㄎㄐㄧ</rt></ruby> "literacy; know how to read"
+- <ruby>[[別字]]<rt>ㄅㄝㄊㄐㄧ</rt></ruby> "typo, misspelt or variant character"
+- <ruby>[[単字]]<rt>ㄉㄚㄋㄐㄧ</rt></ruby> "single character, single-character word"
+- <ruby>[[字庫]]<rt>ㄐㄧ·ㄎㄛ</rt></ruby> "font library, character/glyph repository"
+- <ruby>[[字形]]<rt>ㄐㄧㄏㄝㄫ</rt></ruby> "glyph, character shape, graphic form"
+- <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
+- <ruby>[[用字]]<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use, character usage"
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "One Character, One Sound"

@@ -124,6 +124,7 @@ Rosenfelder terms with no Dan'a'yo word yet: easy, mighty, order, practice, task
 - <ruby>[荷担](../words/荷担.md)<rt>ㄏㄚㄉㄚㄇ</rt></ruby>: shoulder; carry.
 - <ruby>[補充](../words/補充.md)<rt>ㄅㄛㄑㄨㄫ</rt></ruby>: replenish; supplement.
 - <ruby>[計画](../words/計画.md)<rt>ㄍㄝㄧㄏ⺢ㄎ</rt></ruby>: plan; schedule; measure.
+- <ruby>[安排](../words/安排.md)<rt>ㄚㄋㄆㄚㄧ</rt></ruby>: to arrange, schedule, make arrangements for.
 - <ruby>[設置](../words/設置.md)<rt>ㄙㄝㄊㄑㄧ</rt></ruby>: set up; install; establish.
 - <ruby>[誘餌](../words/誘餌.md)<rt>⼜ㄛㄋㄧ</rt></ruby>: entice; bait.
 - <ruby>[貢献](../words/貢献.md)<rt>ㄍㄛㄫㄏㄝㄋ</rt></ruby>: contribute.

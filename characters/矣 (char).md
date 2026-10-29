@@ -55,6 +55,7 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [矣](../words/矣.md) "indeed" — 矣 stands alone as a word in Dan'a'yo.
+- <ruby>[[矣]]<rt>⼔</rt></ruby> "indeed" (stand-in for 矣)
 
 ## Derived Characters
 - [[欸]] (phonetic 矣 + semantic 欠, "hey," an interjection)

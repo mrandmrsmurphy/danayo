@@ -47,6 +47,13 @@ The <ruby>[大洋](../words/大洋.md)<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> are:
 ### Ancient divisions
 In ancient East Asian thought, the world was divided into the Four Seas and the Nine Provinces. Their names, the royal domain and the early states are on [China](China.md). The shift from the Four Seas and Nine Provinces to continents and oceans marks a transition from a civilizational view of the cosmos to a global geographic system.
 
+- <ruby>[四海](../words/四海.md)<rt>ㄙㄧㄜㄏㄚㄧ</rt></ruby>: the Four Seas, the seas thought to bound the world.
+- <ruby>[北海](../words/北海.md)<rt>ㄅㄨㄎㄏㄚㄧ</rt></ruby>: the Northern Sea of the Four Seas.
+- <ruby>[西海](../words/西海.md)<rt>ㄙㄝㄧㄏㄚㄧ</rt></ruby>: the Western Sea of the Four Seas.
+- <ruby>[兗州](../words/兗州.md)<rt>⼶ㄋㄐㄨㄛ</rt></ruby>: Yan Province, one of the Nine Provinces.
+- <ruby>[荊州](../words/荊州.md)<rt>ㄎ⼶ㄫㄐㄨㄛ</rt></ruby>: Jing Province, one of the Nine Provinces.
+- <ruby>[王畿](../words/王畿.md)<rt>⺢ㄫㄍㄧㄜ</rt></ruby>: the royal domain, the land the Zhou king ruled directly around his capital.
+
 ## Landforms and borders
 - <ruby>[山地](../words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>: mountain
 - <ruby>[高山](../words/高山.md)<rt>ㄍㄚㄨㄙㄚㄋ</rt></ruby>: high mountain
@@ -98,6 +105,7 @@ Borders and areas:
   - <ruby>[庫倫](../words/庫倫.md)<rt>ㄎㄛㄌㄨㄋ</rt></ruby>: Ulan Bator, the capital of Mongolia, by its historical name; also Hure, a banner of Inner Mongolia, listed on China.
 - <ruby>[西蔵](../words/西蔵.md)<rt>ㄙㄝㄧㄑㄚㄫ</rt></ruby>: Tibet
 - <ruby>[台湾](../words/台湾.md)<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby>, and its capital <ruby>[台北](../words/台北.md)<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby>
+  - <ruby>[中華民国](../words/中華民国.md)<rt>ㄐㄨㄫㄏ⺢·ㄇㄧㄋㄍㄛㄎ</rt></ruby>: the Republic of China, the formal name of the state on Taiwan; also the Chinese republic of 1912–1949, see China.
   - <ruby>[金門](../words/金門.md)<rt>ㄍㄧㄇㄇㄛㄋ</rt></ruby>: Kinmen, the county and island group off the Fujian coast, administered by Taiwan.
 - <ruby>[極東](../words/極東.md)<rt>ㄍㄧㄎㄉㄛㄫ</rt></ruby>: the Far East, a regional name for East Asia, beside <ruby>[東亜](../words/東亜.md)<rt>ㄉㄛㄫㄚ</rt></ruby>.
 
@@ -206,6 +214,13 @@ The countries of Central America have no words yet; see "Not yet coined" below.
 - <ruby>[非志](../words/非志.md)<rt>ㄈㄧㄐㄧ</rt></ruby>: Fiji
 - <ruby>[関島](../words/関島.md)<rt>ㄍ⺢ㄇㄊㄚㄨ</rt></ruby>: Guam
 
+## Maps, routes and patterns
+- <ruby>[地図学](../words/地図学.md)<rt>ㄉㄧㄜㄉㄛㄏㄚㄎ</rt></ruby>: cartography, the study and making of maps.
+- <ruby>[航路](../words/航路.md)<rt>ㄏㄚㄫㄌㄛ</rt></ruby>: sea route, shipping lane; also an air route.
+- <ruby>[環状](../words/環状.md)<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: ring-shaped, annular, as in a ring road.
+- <ruby>[密度](../words/密度.md)<rt>ㄇㄧㄊㄉㄛ</rt></ruby>: density, as in population density.
+- <ruby>[拡散](../words/拡散.md)<rt>ㄏ⺢ㄎㄙㄚㄋ</rt></ruby>: to diffuse, spread across a region.
+
 ## Named places
 Rivers, districts and other features whose names are not a country:
 - <ruby>[漢江](../words/漢江.md)<rt>ㄏㄚㄋㄍㄚㄫ</rt></ruby>: Han river
@@ -230,6 +245,7 @@ These countries and features appear on the page without a word of their own. The
 - Features: the Himalaya (喜馬拉雅), the Sahara (撒哈拉), the Andes (安第斯山脈), the Amazon (亜馬遜河)
 
 ## International system
+- <ruby>[基金](../words/基金.md)<rt>ㄍㄧㄍㄧㄇ</rt></ruby>: a fund, as in the International Monetary Fund.
 Institutions and the state system are on [Government](Government.md): <ruby>[連合国](../words/連合国.md)<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby>, and the trade and monetary bodies. States hold <ruby>[主権](../words/主権.md)<rt>ㄐㄨㄍ⼔ㄋ</rt></ruby> as a basic principle.
 
 ## Semantic Range Notes

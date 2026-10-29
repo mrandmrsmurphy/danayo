@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[原来]]<rt>⼔ㄋㄌㄚㄧ</rt></ruby> "originally"
 - <ruby>[[近来]]<rt>ㄍㄧㄋㄌㄚㄧ</rt></ruby> "recently; lately"
 - <ruby>[[外来]]<rt>⺢ㄧㄌㄚㄧ</rt></ruby> "foreign; extrinsic"
+- <ruby>[[来客]]<rt>ㄌㄚㄧㄎㄚㄎ</rt></ruby> "visitor; caller"
 - <ruby>[[従来]]<rt>ㄐㄛㄫㄌㄚㄧ</rt></ruby> "hitherto; conventional; existing"
 - <ruby>[[来賓]]<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby> "guest; visitor (at an event)"
 - <ruby>[[来臨]]<rt>ㄌㄚㄧㄌㄧㄇ</rt></ruby> "come near; arrive"

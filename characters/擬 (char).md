@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 - [擬](../words/擬.md) "intend, plan" — 擬 stands alone as a word in Dan'a'yo.
 - <ruby>[[模擬]]<rt>ㄇㄛㄧ</rt></ruby> "imitate"
 - <ruby>[[擬詞]]<rt>ㄧㄙㄚ</rt></ruby> "ideophone"
+- <ruby>[[擬]]<rt>ㄧ</rt></ruby> "intend, plan" (stand-in for 擬)

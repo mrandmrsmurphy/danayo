@@ -40,7 +40,7 @@ def section(groups, folder):
         out += [f'### [{tag}] {msg} ({len(items)})', ''] + [link(folder, i, d) for i, d in items] + ['']
     return out
 
-w = parse(run('lint_words.py')); c = parse(run('lint_characters.py', '--deep'))
+w = parse(run('lint_words.py')); wd = parse(run('lint_words.py', '--deep')); c = parse(run('lint_characters.py', '--deep'))
 wsum = re.search(r'^FAIL: (.*)$', run('lint_words.py'), re.M)
 old = open('Lint Report.md').read()
 judg = old[old.index('## Judgment items still open'):]
@@ -73,18 +73,21 @@ Generated {today} by `AIOS/scripts/make_lint_report.py` from the linters' own ou
 | Stroke | `python3 AIOS/scripts/lint_stroke.py` | Clean (does not stamp) |
 | Chengyu | `python3 AIOS/scripts/lint_chengyu.py`, `lint_chengyu_groups.py` | Clean; grouping pages stamped 2026-10-29 |
 | Characters | `python3 AIOS/scripts/lint_characters.py` | Default run clean; stamped 2026-10-29. `--deep`: {tally(c)} |
-| **Words** | `python3 AIOS/scripts/lint_words.py` | **Fails**: {tally(w)} |
+| **Words** | `python3 AIOS/scripts/lint_words.py` | {('Default run clean; stamped ' + today) if not w else 'Fails: ' + tally(w)}. `--deep`: {tally(wd)} |
 
 ## Contents
 
 - [[#Words (lint_words.py)]]
+- [[#Words, --deep run]]
 - [[#Characters, --deep run]]
 - [[#Judgment items still open]]
 
 ## Words (lint_words.py)
 
 """.split('\n')
-lines += section(w, 'words')
+lines += section(w, 'words') or ['The default run is clean.', '']
+lines += ['## Words, --deep run', '', 'The default run checks the body only of pages changed since their own stamp. `python3 AIOS/scripts/lint_words.py --deep` checks every word and finds this drift in already-stamped pages.', '']
+lines += section(wd, 'words')
 lines += ['## Characters, --deep run', '', 'The default run checks only pages changed since their own stamp and is clean. `python3 AIOS/scripts/lint_characters.py --deep` checks every page and finds this hidden drift in already-stamped pages.', '']
 lines += section(c, 'characters')
 open('Lint Report.md', 'w').write('\n'.join(lines) + '\n' + judg)

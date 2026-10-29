@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[暴飲]]<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby> "binge drink"
 - <ruby>[[暴徒]]<rt>ㄅㄛㄎㄉㄛ</rt></ruby> "mob, riot"
 - <ruby>[[暴怒]]<rt>ㄅㄛㄎㄋㄛ</rt></ruby> "rage"
+- <ruby>[[暴]]<rt>ㄅㄛㄎ</rt></ruby> "violent, brutal, fierce" (stand-in for 暴)
 
 ## Chengyu
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"

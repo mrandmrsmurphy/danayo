@@ -193,6 +193,7 @@ The 番 family is a systematic schema for shift work: 番 is the root, and each 
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract, agreement.
 - <ruby>[計画](../words/計画.md)<rt>ㄍㄝㄧㄏ⺢ㄎ</rt></ruby>: plan, schedule.
+- <ruby>[安排](../words/安排.md)<rt>ㄚㄋㄆㄚㄧ</rt></ruby>: to arrange, schedule; an arrangement.
 - <ruby>[事業](../words/事業.md)<rt>ㄐㄧㄝㄆ</rt></ruby>: project, undertaking, enterprise — from the I Ching (易經, 繫辭上): 「舉而錯之天下之民謂之事業」.
 - <ruby>[会議](../words/会議.md)<rt>ㄏ⼔ㄜㄧ</rt></ruby>: meeting, conference.
 - <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").

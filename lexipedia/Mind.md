@@ -58,6 +58,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[判断](../words/判断.md)<rt>ㄆㄚㄋㄉ⺢ㄋ</rt></ruby>: to judge, decide, determine — the evaluative sense; see [[Existence]] for its own citation there.
 - <ruby>[決](../words/決.md)<rt>ㄎ⼔ㄊ</rt></ruby>: to determine, decide — the bound, classical form; see [[Existence]] for its own citation there.
 - <ruby>[既定](../words/既定.md)<rt>ㄍㄧㄜㄐㄝㄫ</rt></ruby>: already decided, established, predetermined — what has been settled before the present discussion; compare [[決定]], the act of deciding itself.
+- <ruby>[甄選](../words/甄選.md)<rt>ㄍ⼶ㄋㄙ⼔ㄋ</rt></ruby>: to select, screen (applicants or candidates).
 
 ### Considering & Understanding
 
@@ -75,6 +76,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[具体](../words/具体.md)<rt>ㄍㄨ·ㄊㄝㄧ</rt></ruby>: concrete, specific.
 - <ruby>[許容](../words/許容.md)<rt>ㄏ⼄⼄ㄫ</rt></ruby>: to permit, tolerate.
 - <ruby>[容認](../words/容認.md)<rt>⼄ㄫㄋㄧㄋ</rt></ruby>: to accept.
+- <ruby>[観察](../words/観察.md)<rt>ㄍ⺢ㄋㄑㄚㄊ</rt></ruby>: to observe, inspect.
 
 ### Desire & Will
 
@@ -89,6 +91,8 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
 - <ruby>[固執](../words/固執.md)<rt>ㄍㄛㄐㄧㄆ</rt></ruby>: stubborn; to stick to.
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: will, shall — the grammatical future-tense marker, not the psychological faculty; see [[Grammar]] for its own citation there.
+- <ruby>[毅然](../words/毅然.md)<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby>: resolutely, firmly.
+- <ruby>[真摯](../words/真摯.md)<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby>: sincere, genuine, earnest.
 
 ### Doubt & Hesitation
 
@@ -122,6 +126,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[幻想](../words/幻想.md)<rt>ㄏ⺢ㄋㄙㄚㄫ</rt></ruby>: fantasy, illusion — an unreal picture the mind builds and may take for real (幻想曲, "a fantasia"); weaker than the waking delusion it shades into, and distinct from [[夢]], a dream while sleeping.
 - <ruby>[妄想](../words/妄想.md)<rt>ㄇㄚㄫㄙㄚㄫ</rt></ruby>: to have a delusion, be in a fantasy.
 - <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: an ideal, a dream — an aspiration, not a sleeping vision; see [[Existence]] for its own citation there.
+- <ruby>[言及](../words/言及.md)<rt>ㄝㄋㄍㄨㄆ</rt></ruby>: to mention, refer to, touch on a topic.
 
 ### Indicating & Representing
 
@@ -159,6 +164,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[敏感](../words/敏感.md)<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby>: sensitive.
 - <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>: like, as — the comparison particles ("X is like Y"), a distinct grammatical sense from [[喜]]'s "to like" (to enjoy); see [[Grammar]] for their own citations there.
 - <ruby>[宛然](../words/宛然.md)<rt>ㄛㄋㄋ⼶ㄋ</rt></ruby>: as if, just like — a vivid resemblance.
+- <ruby>[自閉](../words/自閉.md)<rt>ㄐㄧㄜㄅㄝㄧ</rt></ruby>: to withdraw from others; autistic.
 
 ## Analysis
 

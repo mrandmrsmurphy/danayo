@@ -58,3 +58,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [晒](../words/晒.md) "expose, dry in the sun, bleach" — 晒 stands alone as a word in Dan'a'yo.
+- <ruby>[[晒]]<rt>ㄙ⼘ㄧ</rt></ruby> "expose, dry in the sun, bleach" (stand-in for 晒)

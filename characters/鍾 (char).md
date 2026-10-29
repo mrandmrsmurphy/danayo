@@ -55,3 +55,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [鍾](../words/鍾.md) "alcohol bottle" — 鍾 stands alone as a word in Dan'a'yo.
+- <ruby>[[鍾]]<rt>ㄐㄛㄫ</rt></ruby> "alcohol bottle" (stand-in for 鍾)

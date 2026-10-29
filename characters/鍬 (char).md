@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [鍬](../words/鍬.md) "shovel" — 鍬 stands alone as a word in Dan'a'yo.
+- <ruby>[[鍬]]<rt>ㄑㄚㄨ</rt></ruby> "shovel" (stand-in for 鍬)

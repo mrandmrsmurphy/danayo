@@ -49,5 +49,6 @@ date-last-perfect: 2026-10-20
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md)
 
 ## Words
-- [噸](../words/噸.md) "ton" — 噸 stands alone as a word in Dan'a'yo.
+- [噸](../words/噸.md) "ton" — stands alone as a word in Dan'a'yo.
 - <ruby>[[公噸]]<rt>ㄍㄛㄫㄊㄛㄋ</rt></ruby> "tonne (metric ton)"
+- <ruby>[[噸]]<rt>ㄊㄛㄋ</rt></ruby> "ton" (stand-in for 噸)

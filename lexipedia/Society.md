@@ -288,6 +288,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[各位](../words/各位.md)<rt>ㄍㄚㄎ·⼔ㄧ</rt></ruby>: ladies and gentlemen — a respectful address to a group.
 - <ruby>[大家](../words/大家.md)<rt>ㄉㄚㄧㄍㄚ</rt></ruby>: everyone (Mandarin, Cantonese).
 - <ruby>[客人](../words/客人.md)<rt>ㄎㄚㄎㄋㄧㄋ</rt></ruby>: a guest, visitor, traveller.
+- <ruby>[来客](../words/来客.md)<rt>ㄌㄚㄧㄎㄚㄎ</rt></ruby>: a visitor, a caller at a home or business.
 - <ruby>[外国人](../words/外国人.md)<rt>⺢ㄧㄍㄛㄎㄋㄧㄋ</rt></ruby>: a foreigner.
 - <ruby>[攘夷](../words/攘夷.md)<rt>ㄋ⼘ㄫㄧㄜ</rt></ruby>: the policy of expelling foreigners.
 - <ruby>[寄宿](../words/寄宿.md)<rt>ㄍㄨㄧㄙㄨㄎ</rt></ruby>: to lodge, board, rent a room.

@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [屁](../words/屁.md) "fart, flatulence" — 屁 stands alone as a word in Dan'a'yo.
+- <ruby>[[屁]]<rt>ㄆㄧㄜ</rt></ruby> "fart, flatulence" (stand-in for 屁)

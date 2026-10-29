@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[毫]]<rt>ㄏㄚㄨ</rt></ruby> "fine hair" (stand-in for 毫)
 - [[毫米]] "millimeter"
+- <ruby>[[毫米]]<rt>ㄏㄚㄨㄇㄝㄧ</rt></ruby> "millimeter"

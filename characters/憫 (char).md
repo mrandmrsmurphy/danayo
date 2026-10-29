@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [憫](../words/憫.md) "pity" — 憫 stands alone as a word in Dan'a'yo.
+- <ruby>[[憫]]<rt>ㄇㄧㄋ</rt></ruby> "pity" (stand-in for 憫)

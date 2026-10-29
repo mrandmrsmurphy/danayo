@@ -51,6 +51,7 @@ date-last-perfect: 2026-10-20
 ## Words
 - [幟](../words/幟.md) "pennant; banner" — 幟 stands alone as a word in Dan'a'yo.
 - <ruby>[[旗幟]]<rt>ㄎㄧㄑㄧ</rt></ruby> "flag, banner, attitude"
+- <ruby>[[幟]]<rt>ㄑㄧ</rt></ruby> "pennant, banner" (stand-in for 幟)
 
 ## Chengyu
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄇㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"

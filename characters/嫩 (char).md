@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [嫩](../words/嫩.md) "delicate; tender" — 嫩 stands alone as a word in Dan'a'yo.
+- <ruby>[[嫩]]<rt>ㄋㄛㄋ</rt></ruby> "delicate, tender" (stand-in for 嫩)

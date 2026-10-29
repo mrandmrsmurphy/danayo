@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - [錮](../words/錮.md) "confine; imprison" — 錮 stands alone as a word in Dan'a'yo.
 - <ruby>[[禁錮]]<rt>ㄍㄧㄇㄍㄛ</rt></ruby> "imprison"
+- <ruby>[[錮]]<rt>ㄍㄛ</rt></ruby> "confine, imprison" (stand-in for 錮)

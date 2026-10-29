@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - [潰](../words/潰.md) "crush; breakdown" — 潰 stands alone as a word in Dan'a'yo.
 - <ruby>[[潰瘍]]<rt>ㄏㄛㄧ⼘ㄫ</rt></ruby> "ulcer"
+- <ruby>[[潰]]<rt>ㄏㄛㄧ</rt></ruby> "crush, breakdown" (stand-in for 潰)

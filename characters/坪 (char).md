@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [坪](../words/坪.md) "level ground, pyeong" — 坪 stands alone as a word in Dan'a'yo.
+- <ruby>[[坪]]<rt>ㄅ⼶ㄫ</rt></ruby> "level ground, 36 square shaku, pyeong" (stand-in for 坪)

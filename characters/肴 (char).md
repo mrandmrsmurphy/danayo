@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [肴](../words/肴.md) "cooked meat" — 肴 stands alone as a word in Dan'a'yo.
+- <ruby>[[肴]]<rt>ㄏ⼘ㄨ</rt></ruby> "cooked meat" (stand-in for 肴)

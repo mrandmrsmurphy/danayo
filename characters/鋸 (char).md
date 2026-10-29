@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [鋸](../words/鋸.md) "saw" — 鋸 stands alone as a word in Dan'a'yo.
+- <ruby>[[鋸]]<rt>ㄍ⼄</rt></ruby> "saw" (stand-in for 鋸)

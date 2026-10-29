@@ -52,4 +52,5 @@ date-last-perfect: 2026-10-20
 - <ruby>[[排]]<rt>ㄆㄚㄧ</rt></ruby> "row, rank, line" (stand-in for 排)
 - <ruby>[[排球]]<rt>ㄆㄚㄧㄍ⼜</rt></ruby> "volleyball"
 - <ruby>[[排斥]]<rt>ㄆㄚㄧㄑㄝㄎ</rt></ruby> "reject, exclude"
+- <ruby>[[安排]]<rt>ㄚㄋㄆㄚㄧ</rt></ruby> "arrange; schedule"
 - <ruby>[[排水溝]]<rt>ㄆㄚㄧㄙㄨㄍㄛㄨ</rt></ruby> "gutter, culvert"

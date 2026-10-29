@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 - [魂](../words/魂.md) "soul" — 魂 stands alone as a word in Dan'a'yo.
 - <ruby>[[魂魄]]<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby> "soul; spirit"
 - <ruby>[[霊魂]]<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby> "soul, spirit"
+- <ruby>[[魂]]<rt>ㄏㄛㄋ</rt></ruby> "soul" (stand-in for 魂)

@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [輿](../words/輿.md) "palanquin" — 輿 stands alone as a word in Dan'a'yo.
+- <ruby>[[輿]]<rt>⼄</rt></ruby> "palanquin" (stand-in for 輿)

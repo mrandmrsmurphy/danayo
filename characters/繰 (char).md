@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [繰](../words/繰.md) "reel" — 繰 stands alone as a word in Dan'a'yo.
+- <ruby>[[繰]]<rt>ㄐㄚㄨ</rt></ruby> "reel, bolt of cloth" (stand-in for 繰)

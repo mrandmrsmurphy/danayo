@@ -42,6 +42,7 @@ Physics vocabulary covers temperature, weight, and the material substance of thi
 - <ruby>[位相](../words/位相.md)<rt>⼔ㄧㄙㄚㄫ</rt></ruby>: phase — a wave or periodic function's position within its cycle (位相差, "phase difference").
 - <ruby>[鹸](../words/鹸.md)<rt>ㄑㄝㄇ</rt></ruby>: a base, alkali — the chemistry-concept word, also the root of [[鹸素]] (sodium) on [[Periodic Table]].
 - <ruby>[中和](../words/中和.md)<rt>ㄐㄨㄫㄏ⺢</rt></ruby>: to neutralize — an acid and a [[鹸]] meeting in a neutral solution; extended to balancing opposed forces, and in phonetics to a contrast collapsing.
+- <ruby>[粒子](../words/粒子.md)<rt>ㄌㄨㄆㄐㄜ</rt></ruby>: particle, grain.
 
 ## Advanced / Specialized (C1+)
 

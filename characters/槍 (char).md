@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [槍](../words/槍.md) "spear; lance" — 槍 stands alone as a word in Dan'a'yo.
+- <ruby>[[槍]]<rt>ㄑ⺢ㄫ</rt></ruby> "spear, lance" (stand-in for 槍)

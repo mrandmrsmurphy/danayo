@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [牌](../words/牌.md) "playing card; tile" — 牌 stands alone as a word in Dan'a'yo.
+- <ruby>[[牌]]<rt>ㄅㄚㄧ</rt></ruby> "playing card, tile" (stand-in for 牌)

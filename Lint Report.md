@@ -19,121 +19,198 @@ Generated 2026-10-29 by `AIOS/scripts/make_lint_report.py` from the linters' own
 | CC | `python3 AIOS/scripts/lint_cc.py` | Pass; stamped 2026-10-29 |
 | Stroke | `python3 AIOS/scripts/lint_stroke.py` | Clean (does not stamp) |
 | Chengyu | `python3 AIOS/scripts/lint_chengyu.py`, `lint_chengyu_groups.py` | Clean; grouping pages stamped 2026-10-29 |
-| Characters | `python3 AIOS/scripts/lint_characters.py` | Default run clean; stamped 2026-10-29. `--deep`: C1 268, C2 64 |
-| **Words** | `python3 AIOS/scripts/lint_words.py` | **Fails**: C2 61, C3 25 |
+| Characters | `python3 AIOS/scripts/lint_characters.py` | Default run clean; stamped 2026-10-29. `--deep`: C1 265, C2 52 |
+| **Words** | `python3 AIOS/scripts/lint_words.py` | Default run clean; stamped 2026-10-29. `--deep`: C1 56, C2 46, C3 54 |
 
 ## Contents
 
 - [[#Words (lint_words.py)]]
+- [[#Words, --deep run]]
 - [[#Characters, --deep run]]
 - [[#Judgment items still open]]
 
 ## Words (lint_words.py)
 
 
-### [C2] a markdown link does not resolve (51)
+The default run is clean.
 
-- [[words/互連網|互連網]]: /characters/連.md
-- [[words/互連網|互連網]]: /characters/網.md
-- [[words/互連網|互連網]]: ../characters/連.md
-- [[words/互連網|互連網]]: ../characters/網.md
-- [[words/人気|人気]]: ../characters/気.md
-- [[words/付加|付加]]: ../words/加.md
-- [[words/代表之|代表之]]: /characters/之.md
-- [[words/分校|分校]]: /characters/分.md
-- [[words/分校|分校]]: ../characters/分.md
-- [[words/到達|到達]]: /characters/達.md
-- [[words/到達|到達]]: ../characters/達.md
-- [[words/前舌|前舌]]: ../characters/前.md
-- [[words/前舌|前舌]]: ../characters/舌.md
-- [[words/協力|協力]]: /characters/力.md
-- [[words/協力|協力]]: ../characters/力.md
-- [[words/南部|南部]]: /characters/部.md
-- [[words/南部|南部]]: ../characters/部.md
-- [[words/古層|古層]]: ../characters/層.md
-- [[words/叩頭|叩頭]]: /characters/頭.md
-- [[words/叩頭|叩頭]]: ../characters/頭.md
-- [[words/夫婦|夫婦]]: ../characters/婦.md
-- [[words/巨人|巨人]]: ../characters/人.md
-- [[words/巨大|巨大]]: ../characters/大.md
-- [[words/広東|広東]]: ../characters/広.md
-- [[words/広東|広東]]: ../words/東.md
-- [[words/打撃|打撃]]: ../characters/撃.md
-- [[words/撞球|撞球]]: ../characters/撞.md
-- [[words/火山島|火山島]]: ../characters/山.md
-- [[words/火山島|火山島]]: ../characters/島.md
-- [[words/火星|火星]]: ../characters/星.md
-- [[words/灰塵|灰塵]]: ../characters/灰.md
-- [[words/無名指|無名指]]: ../characters/指 (char).md
-- [[words/無政府|無政府]]: ../characters/政 (char).md
-- [[words/無政府|無政府]]: ../characters/府 (char).md
-- [[words/疑問|疑問]]: ../words/疑.md
-- [[words/硬口蓋|硬口蓋]]: ../words/蓋.md
-- [[words/空隙|空隙]]: ../characters/空.md
-- [[words/空隙|空隙]]: ../characters/隙.md
-- [[words/終止|終止]]: ../words/終.md
-- [[words/胸部|胸部]]: ../characters/部.md
-- [[words/自分|自分]]: ../characters/分.md
-- [[words/苦渋|苦渋]]: ../characters/苦.md
-- [[words/草屋|草屋]]: ../characters/草.md
-- [[words/草屋|草屋]]: ../characters/屋.md
-- [[words/軟口蓋|軟口蓋]]: ../words/軟.md
-- [[words/軟口蓋|軟口蓋]]: ../words/蓋.md
-- [[words/送気|送気]]: ../characters/気.md
-- [[words/過程|過程]]: ../characters/過.md
-- [[words/部族|部族]]: ../characters/部.md
-- [[words/階段|階段]]: ../characters/段.md
-- [[words/露国|露国]]: ../characters/露.md
+## Words, --deep run
 
-### [C2] a [[wikilink]] does not resolve (10)
+The default run checks the body only of pages changed since their own stamp. `python3 AIOS/scripts/lint_words.py --deep` checks every word and finds this drift in already-stamped pages.
 
-- [[words/客人|客人]]: [[来客]]
-- [[words/性交|性交]]: [[個性]]
-- [[words/愛爾蘭|愛爾蘭]]: [[共和國]]
-- [[words/愛爾蘭|愛爾蘭]]: [[共和國]]
-- [[words/白路|白路]]: [[鷺]]
-- [[words/瞻妄|瞻妄]]: [[譫]]
-- [[words/脂肪|脂肪]]: [[方 (char)]]
-- [[words/見|見]]: [[卩]]
-- [[words/計画|計画]]: [[安排]]
-- [[words/高句麗|高句麗]]: [[渤海]]
+### [C1] no `## Notes` section (56)
 
-### [C3] the lexipedia domain page does not link this word (22)
+- [[words/天地|天地]]
+- [[words/太始|太始]]
+- [[words/深淵|深淵]]
+- [[words/焦思|焦思]]
+- [[words/焦点|焦点]]
+- [[words/熊猫|熊猫]]
+- [[words/熟練|熟練]]
+- [[words/熱烈|熱烈]]
+- [[words/爬虫|爬虫]]
+- [[words/牆壁|牆壁]]
+- [[words/片仮名|片仮名]]
+- [[words/版図|版図]]
+- [[words/版本|版本]]
+- [[words/版権|版権]]
+- [[words/牡丹|牡丹]]
+- [[words/牢獄|牢獄]]
+- [[words/牧民|牧民]]
+- [[words/物証|物証]]
+- [[words/物質|物質]]
+- [[words/犬吠|犬吠]]
+- [[words/犯罪|犯罪]]
+- [[words/狂想曲|狂想曲]]
+- [[words/狐狸|狐狸]]
+- [[words/狗吠|狗吠]]
+- [[words/狗盗|狗盗]]
+- [[words/狗肉|狗肉]]
+- [[words/猛禽|猛禽]]
+- [[words/猩猩|猩猩]]
+- [[words/猿痘|猿痘]]
+- [[words/獄吏|獄吏]]
+- [[words/玩具|玩具]]
+- [[words/班長|班長]]
+- [[words/現象|現象]]
+- [[words/球体|球体]]
+- [[words/球場|球場]]
+- [[words/理想|理想]]
+- [[words/理論|理論]]
+- [[words/琢磨|琢磨]]
+- [[words/環境|環境]]
+- [[words/甘味|甘味]]
+- [[words/甘藷|甘藷]]
+- [[words/甘露|甘露]]
+- [[words/産量|産量]]
+- [[words/用度|用度]]
+- [[words/男性|男性]]
+- [[words/畝|畝]]
+- [[words/異体|異体]]
+- [[words/異常|異常]]
+- [[words/異音|異音]]
+- [[words/畳|畳]]
+- [[words/疲労|疲労]]
+- [[words/痕跡|痕跡]]
+- [[words/盤|盤]]
+- [[words/般|般]]
+- [[words/遺憾|遺憾]]
+- [[words/黒暗|黒暗]]
 
-- [[words/中華民国|中華民国]] -> Geography
-- [[words/兗州|兗州]] -> Geography
-- [[words/北海|北海]] -> Geography
-- [[words/四海|四海]] -> Geography
-- [[words/地図学|地図学]] -> Geography
-- [[words/基金|基金]] -> Geography
-- [[words/密度|密度]] -> Geography
-- [[words/拡散|拡散]] -> Geography
-- [[words/毅然|毅然]] -> Mind
-- [[words/王畿|王畿]] -> Geography
-- [[words/理由|理由]] -> Knowledge
-- [[words/環状|環状]] -> Geography
-- [[words/甄選|甄選]] -> Mind
-- [[words/真摯|真摯]] -> Mind
-- [[words/粒子|粒子]] -> Physics
-- [[words/自閉|自閉]] -> Mind
-- [[words/航路|航路]] -> Geography
-- [[words/荊州|荊州]] -> Geography
-- [[words/西海|西海]] -> Geography
-- [[words/観察|観察]] -> Mind
-- [[words/言及|言及]] -> Mind
-- [[words/鎬京|鎬京]] -> China
+### [C2] a [[wikilink]] does not resolve (46)
 
-### [C3] `lexipedia:` property and the "See" bullets name different domains (3)
+- [[words/一|一]]: [[nav/Numerals]]
+- [[words/七|七]]: [[nav/Numerals]]
+- [[words/並立|並立]]: [[並行]]
+- [[words/主題|主題]]: [[主語]]
+- [[words/九|九]]: [[nav/Numerals]]
+- [[words/借|借]]: [[藉]]
+- [[words/偕者|偕者]]: [[助偕]]
+- [[words/偕者|偕者]]: [[誰偕]]
+- [[words/光|光]]: [[卩]]
+- [[words/兮|兮]]: [[丂]]
+- [[words/凶|凶]]: [[凵]]
+- [[words/出|出]]: [[凵]]
+- [[words/十|十]]: [[nav/Numerals]]
+- [[words/反|反]]: [[厂]]
+- [[words/古形|古形]]: [[正体]]
+- [[words/合|合]]: [[亼]]
+- [[words/喚|喚]]: [[奐]]
+- [[words/天鼠|天鼠]]: [[飛鼠]]
+- [[words/好|好]]: [[子 (char)]]
+- [[words/嬴洲|嬴洲]]: [[瀛]]
+- [[words/宗徒|宗徒]]: [[行傳]]
+- [[words/寝|寝]]: [[牀]]
+- [[words/尭舌|尭舌]]: [[饒]]
+- [[words/徐様|徐様]]: [[緩慢様]]
+- [[words/心理学|心理学]]: [[心理学家]]
+- [[words/性質|性質]]: [[個性]]
+- [[words/景色|景色]]: [[風景]]
+- [[words/楊梅|楊梅]]: [[山桃]]
+- [[words/汽車|汽車]]: [[列車]]
+- [[words/洗車|洗車]]: [[lexipedia/scratch.md]]
+- [[words/混沌|混沌]]: [[混淪]]
+- [[words/混沌|混沌]]: [[開天闢地]]
+- [[words/火車|火車]]: [[列車]]
+- [[words/特点|特点]]: [[特徵]]
+- [[words/白頭就|白頭就]]: [[鷲]]
+- [[words/盧魚|盧魚]]: [[鱸魚]]
+- [[words/神道教|神道教]]: [[仏教]]
+- [[words/禁書|禁書]]: [[書經]]
+- [[words/第|第]]: [[nav/Numerals]]
+- [[words/股|股]]: [[殳]]
+- [[words/肥脊|肥脊]]: [[瘠]]
+- [[words/肺臓|肺臓]]: [[肺腑]]
+- [[words/道|道]]: [[首 (char)]]
+- [[words/重畳|重畳]]: [[迂言]]
+- [[words/零|零]]: [[nav/Numerals]]
+- [[words/龍|龍]]: [[wikilink]]
 
-- [[words/中華民国|中華民国]]: property ['Geography'] vs bullets []
-- [[words/四海|四海]]: property ['China', 'Geography'] vs bullets ['China']
-- [[words/恭喜発財|恭喜発財]]: property [] vs bullets ['Calendar']
+### [C3] the lexipedia domain page does not link this word (41)
+
+- [[words/䔥国|䔥国]] -> China
+- [[words/中原|中原]] -> Geography
+- [[words/中央情報局|中央情報局]] -> Geography
+- [[words/九州|九州]] -> Geography
+- [[words/九龍|九龍]] -> Geography
+- [[words/予州|予州]] -> Geography
+- [[words/亜細亜|亜細亜]] -> Geography
+- [[words/内乱|内乱]] -> Geography
+- [[words/分布|分布]] -> Geography
+- [[words/協議|協議]] -> Geography
+- [[words/商路|商路]] -> Geography
+- [[words/地域|地域]] -> Geography
+- [[words/地理|地理]] -> Geography
+- [[words/地龍|地龍]] -> Animals
+- [[words/報応|報応]] -> Law
+- [[words/多様|多様]] -> Geography
+- [[words/多辺|多辺]] -> Geography
+- [[words/大韓民国|大韓民国]] -> Geography
+- [[words/媒体|媒体]] -> Geography
+- [[words/宇宙観|宇宙観]] -> Geography
+- [[words/対外|対外]] -> Geography
+- [[words/希州|希州]] -> Geography
+- [[words/徐州|徐州]] -> Geography
+- [[words/徳|徳]] -> Periodic Table
+- [[words/持続|持続]] -> Geography
+- [[words/揚州|揚州]] -> Geography
+- [[words/東伝|東伝]] -> Geography
+- [[words/梁州|梁州]] -> Geography
+- [[words/殖民|殖民]] -> Geography
+- [[words/漢城|漢城]] -> Geography
+- [[words/熱帯|熱帯]] -> Geography
+- [[words/珈啡因|珈啡因]] -> Food
+- [[words/界水|界水]] -> Geography
+- [[words/界線|界線]] -> Geography
+- [[words/蘇連|蘇連]] -> Geography
+- [[words/要地|要地]] -> Geography
+- [[words/語言|語言]] -> Geography
+- [[words/資源|資源]] -> Geography
+- [[words/邾国|邾国]] -> China
+- [[words/雍州|雍州]] -> Geography
+- [[words/青州|青州]] -> Geography
+
+### [C3] `lexipedia:` property and the "See" bullets name different domains (13)
+
+- [[words/䔥国|䔥国]]: property ['China'] vs bullets []
+- [[words/中原|中原]]: property ['Geography'] vs bullets []
+- [[words/中央情報局|中央情報局]]: property ['Geography'] vs bullets []
+- [[words/九州|九州]]: property ['China', 'Geography'] vs bullets ['China']
+- [[words/九龍|九龍]]: property ['Geography'] vs bullets []
+- [[words/予州|予州]]: property ['Geography'] vs bullets []
+- [[words/亜細亜|亜細亜]]: property ['Geography', 'Society'] vs bullets ['Society']
+- [[words/信条|信条]]: property ['Mind', '信條'] vs bullets ['Mind']
+- [[words/傾向|傾向]]: property ['Mind', '倾向'] vs bullets ['Mind']
+- [[words/六府|六府]]: property ['Body', '六腑'] vs bullets ['Body']
+- [[words/安排|安排]]: property ['Efforts', 'Work'] vs bullets ['Efforts']
+- [[words/徳|徳]]: property ['Periodic Table', 'Society'] vs bullets ['Society']
+- [[words/邾国|邾国]]: property ['China'] vs bullets []
 
 ## Characters, --deep run
 
 The default run checks only pages changed since their own stamp and is clean. `python3 AIOS/scripts/lint_characters.py --deep` checks every page and finds this hidden drift in already-stamped pages.
 
-### [C1] link in a Notes bullet is missing the `../` prefix (177)
+### [C1] link in a Notes bullet is missing the `../` prefix (176)
 
 - [[characters/丙 (char)|丙 (char)]]
 - [[characters/両 (char)|両 (char)]]
@@ -197,7 +274,6 @@ The default run checks only pages changed since their own stamp and is clean. `p
 - [[characters/官|官]]
 - [[characters/宙 (char)|宙 (char)]]
 - [[characters/定|定]]
-- [[characters/客|客]]
 - [[characters/室|室]]
 - [[characters/害|害]]
 - [[characters/容 (char)|容 (char)]]
@@ -410,18 +486,12 @@ The default run checks only pages changed since their own stamp and is clean. `p
 - [[characters/賠|賠]]
 - [[characters/𡈼|𡈼]]
 
-### [C1] no Classical Chinese / ancient-sound bullet (2)
+### [C1] no Classical Chinese / ancient-sound bullet (1)
 
 - [[characters/佤|佤]]
-- [[characters/字 (char)|字 (char)]]
 
-### [C1] no SKIP/Stroke bullet (1)
+### [C2] word is listed in ## Words without a <ruby> reading (27)
 
-- [[characters/字 (char)|字 (char)]]
-
-### [C2] word is listed in ## Words without a <ruby> reading (29)
-
-- [[characters/噸 (char)|噸 (char)]] -> 噸
 - [[characters/坪 (char)|坪 (char)]] -> 坪
 - [[characters/壅 (char)|壅 (char)]] -> 壅
 - [[characters/嫡 (char)|嫡 (char)]] -> 嫡
@@ -441,7 +511,6 @@ The default run checks only pages changed since their own stamp and is clean. `p
 - [[characters/碼 (char)|碼 (char)]] -> 碼
 - [[characters/繰 (char)|繰 (char)]] -> 繰
 - [[characters/肴 (char)|肴 (char)]] -> 肴
-- [[characters/蘿|蘿]] -> 女蘿
 - [[characters/跨 (char)|跨 (char)]] -> 跨
 - [[characters/蹲 (char)|蹲 (char)]] -> 蹲
 - [[characters/輿 (char)|輿 (char)]] -> 輿
@@ -478,24 +547,13 @@ The default run checks only pages changed since their own stamp and is clean. `p
 - [[characters/霜 (char)|霜 (char)]] -> 星霜 (ㄙㄝㄋㄙ⺢ㄫ vs ㄙㄝㄫㄙ⺢ㄫ)
 - [[characters/駁|駁]] -> 反駁 (ㄆㄛㄋㄅㄚㄎ vs ㄈㄛㄋㄅㄚㄎ)
 
-### [C2] word using this character is missing from ## Words (11)
+### [C2] word using this character is missing from ## Words (1)
 
-- [[characters/墊 (char)|墊 (char)]] -> 墊
-- [[characters/字 (char)|字 (char)]] -> 別字
-- [[characters/字 (char)|字 (char)]] -> 単字
-- [[characters/字 (char)|字 (char)]] -> 字庫
-- [[characters/字 (char)|字 (char)]] -> 字形
-- [[characters/字 (char)|字 (char)]] -> 旧字体
-- [[characters/字 (char)|字 (char)]] -> 用字
-- [[characters/暴 (char)|暴 (char)]] -> 暴
-- [[characters/難|難]] -> 難金
-- [[characters/麻|麻]] -> 大麻
-- [[characters/麻|麻]] -> 麻雀鳥
+- [[characters/蘿|蘿]] -> 女蘿
 
 ## Judgment items still open
 
-- **Words listed under a lexipedia domain whose page doesn't link them (C3 above):** add the word to the domain page, or drop the placement. Across the whole corpus there are 63.
+- **Default words run:** clean and stamped. The words `--deep` run (above) shows the drift in already-stamped pages: C1 56 (no Notes section), C2 87 (unresolved links) and C3 54 (domain placement). The C2 markdown links and the C3 placements on this page's default scope were fixed in bulk; the deep ones are the same kinds of fix.
 - **Three words naming a lexipedia domain page that doesn't exist:** [[words/信条|信条]], [[words/傾向|傾向]], [[words/六府|六府]].
-- **Sound exceptions (B5, resolved):** the 191 stale words were reset to their characters' readings and 5 more had their 注音 fixed (夫婦, 大夫, 理由, 自家, 弥勒). Thirteen words keep a documented divergence and are exempt via `SOUND_EXCEPTIONS` in `lint_words.py`: 反乱, 就鳥, 海就, 白頭就, 禿就, 得点, 特点, 杜選, 瞻妄, 統率, 率性, 釩金, 蓬藁 (plus 棕枝 and 棕枝主日).
-- **Alias glyphs listed as characters:** [[words/神霊|神霊]] lists 神靈 and 神灵 in `characters:`; [[words/土着|土着]] is the other alias-glyph word.
-- **`mc_id` drift (characters C3, resolved):** all 24 fixed. Twelve were off by one, eight point at an alias and now say "ranked there under", four were stale ranks reset to the CC list (吝, 啖, 稼, 酋).
+- **Sound exceptions (B5, resolved):** 13 words keep a documented divergence from their characters and are exempt via `SOUND_EXCEPTIONS` in `lint_words.py`: 反乱, 就鳥, 海就, 白頭就, 禿就, 得点, 特点, 杜選, 瞻妄, 統率, 率性, 釩金, 蓬藁 (plus 棕枝 and 棕枝主日).
+- **`mc_id` drift (characters C3, resolved):** all 24 fixed.

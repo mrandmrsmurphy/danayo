@@ -171,6 +171,7 @@ Cross-listed from [Nature](../lexipedia/Nature.md), which carries the main rain 
 - <ruby>[海南](../words/海南.md)<rt>ㄏㄚㄧ·ㄋㄚㄇ</rt></ruby>: the southern sea and the coastal land beside it — a Japanese common noun (literally "sea south"); the same spelling is the Chinese island and province Hainan, listed on [China](China.md).
 - <ruby>[港湾](../words/港湾.md)<rt>ㄏㄛㄫ⺢ㄇ</rt></ruby>: harbor.
 - <ruby>[黄海](../words/黄海.md)<rt>ㄏ⺢ㄫㄏㄚㄧ</rt></ruby>: Yellow Sea.
+- <ruby>[勃海](../words/勃海.md)<rt>ㄅㄛㄊㄏㄚㄧ</rt></ruby>: Bohai Sea, the inner gulf of the Yellow Sea.
 
 ### Islands
 

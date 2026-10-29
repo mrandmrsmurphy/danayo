@@ -139,6 +139,7 @@ Major cities beyond the four municipalities, grouped by region of China (north-e
 - <ruby>[陳朝](../words/陳朝.md)<rt>ㄐㄧㄋㄐㄚㄨ</rt></ruby>: the Chen dynasty (557–589), the last of the Southern Dynasties; the same spelling is the Trần dynasty of Vietnam, listed on Vietnam.
 - <ruby>[安南](../words/安南.md)<rt>ㄚㄋㄋㄚㄇ</rt></ruby>: Annam, the Tang Protectorate General to Pacify the South in what is now northern Vietnam, and later the Chinese name for Vietnam; also Vietnamese, see Vietnam.
 - <ruby>[交址](../words/交址.md)<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby>: Jiaozhi, the Han-dynasty commandery in northern Vietnam and a generic term for the lands south of the Five Ridges; also Vietnamese, see Vietnam.
+- <ruby>[鎬京](../words/鎬京.md)<rt>ㄏㄚㄨㄍ⼶ㄫ</rt></ruby>: Haojing, the ancient capital of the Western Zhou.
 
 ## <ruby>[有名](../words/有名.md)<rt>⼜·ㄇㄧㄫ</rt></ruby><ruby>[人](../words/人.md)<rt>ㄋㄧㄋ</rt></ruby>
 ### <ruby>[皇帝](../words/皇帝.md)<rt>ㄏ⺢ㄫㄊㄝㄧ</rt></ruby>

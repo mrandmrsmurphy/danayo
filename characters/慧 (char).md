@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 - [慧](../words/慧.md) "bright; intelligent" — 慧 stands alone as a word in Dan'a'yo.
 - <ruby>[[慧眼]]<rt>ㄏ⼔ㄧㄚㄋ</rt></ruby> "discernment, acumen"
 - <ruby>[[智慧]]<rt>ㄐㄨㄧㄏ⼔ㄧ</rt></ruby> "wisdom, intelligence"
+- <ruby>[[慧]]<rt>ㄏ⼔ㄧ</rt></ruby> "bright, intelligent" (stand-in for 慧)

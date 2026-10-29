@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [碼](../words/碼.md) "yard" — 碼 stands alone as a word in Dan'a'yo.
+- <ruby>[[碼]]<rt>ㄇㄚ</rt></ruby> "yard" (stand-in for 碼)

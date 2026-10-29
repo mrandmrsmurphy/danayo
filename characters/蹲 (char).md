@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [蹲](../words/蹲.md) "squat, crouch" — 蹲 stands alone as a word in Dan'a'yo.
+- <ruby>[[蹲]]<rt>ㄐㄛㄋ</rt></ruby> "squat, crouch" (stand-in for 蹲)

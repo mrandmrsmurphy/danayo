@@ -49,3 +49,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - [嫡](../words/嫡.md) "legitimate wife" — 嫡 stands alone as a word in Dan'a'yo.
+- <ruby>[[嫡]]<rt>ㄉㄚㄎ</rt></ruby> "legitimate wife" (stand-in for 嫡)
