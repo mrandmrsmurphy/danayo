@@ -48,4 +48,4 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 ## Reference
 - [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
 - [Documentation sufficiency analysis](memory/analysis_documentation_sufficiency_2026_09_13.md) — comprehensive assessment of what is well-documented (grammar, character system, cross-linguistic grounding) vs. what's missing (pedagogy, pragmatics, discourse structure). **Key finding**: reference use 85% sufficient; learner use 40% sufficient. **User has begun addressing this with lessons/ content.** See Lesson 01 (phonology/Bopomofo), Lesson 02 (character types and radical/SKIP systems). Focus: graded progression, examples in use, discourse context.
-
+- [UL family structure](memory/reference_ul_family_structure.md) — Dan'a'yo is the flagship of the Universal Languages project; sibling vaults (UL, middle-semitic) and inter-vault rules: `AIOS/facts.yaml` reportage + dated request notes in the target's `AIOS/`
