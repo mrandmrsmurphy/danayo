@@ -55,3 +55,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[婿]]<rt>ㄙㄝㄧ</rt></ruby> "son-in-law" (stand-in for 婿)
+- <ruby>[[妹婿]]<rt>ㄇㄛㄧㄙㄝㄧ</rt></ruby> "younger sister's husband"

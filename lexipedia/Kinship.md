@@ -40,9 +40,36 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[兄弟](../words/兄弟.md)<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby>: brothers, brotherhood — Dan'a'yo's closest equivalent to an unmarked collective "brothers."
 - <ruby>[姉妹](../words/姉妹.md)<rt>ㄐㄚ·ㄇㄛㄧ</rt></ruby>: sisters, collectively.
 - <ruby>[兄弟姉妹](../words/兄弟姉妹.md)<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby>: siblings — spelling out all four sibling roles at once, rather than choosing a gendered collective.
+- <ruby>[異母](../words/異母.md)<rt>ㄧ·ㄇㄛㄨ</rt></ruby>: of a different mother — half-siblings sharing a father; combines with the sibling roots.
 - <ruby>[双子](../words/双子.md)<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>: twins — two children born at the same birth; the one sibling relation not marked for relative age.
-- <ruby>[中子](../words/中子.md)<rt>ㄐㄨㄫㄐㄜ</rt></ruby>: a middle son — a classical genealogical ordinal term (distinct from the eldest 長子 and youngest 季子/末子, neither yet coined), a different system from the modern elder/younger-marked [[兄]]/[[弟]] above. A striking false-match homograph with the unrelated modern "neutron" (also 中子); this word covers only the genealogical sense.
 - <ruby>[兄嫂](../words/兄嫂.md)<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby>: sister-in-law — an older brother's wife specifically; an in-law at ego's own generational level.
+
+### Birth Order
+
+The classical genealogical rank terms name a son by his place in the family, a different system from the modern elder/younger-marked [[兄]]/[[弟]].
+
+- <ruby>[長子](../words/長子.md)<rt>ㄐㄚㄫㄐㄜ</rt></ruby>: eldest son, firstborn.
+- <ruby>[長男](../words/長男.md)<rt>ㄐㄚㄫㄋㄚㄇ</rt></ruby>: eldest son.
+- <ruby>[長女](../words/長女.md)<rt>ㄐㄚㄫㄋㄜ</rt></ruby>: eldest daughter.
+- <ruby>[次男](../words/次男.md)<rt>ㄑㄧㄜㄋㄚㄇ</rt></ruby>: second son.
+- <ruby>[次女](../words/次女.md)<rt>ㄑㄧㄜㄋㄜ</rt></ruby>: second daughter.
+- <ruby>[中子](../words/中子.md)<rt>ㄐㄨㄫㄐㄜ</rt></ruby>: a middle son — a classical genealogical ordinal term (distinct from the eldest [[長子]] and youngest [[季子]]/[[末子]], now in Birth Order below), a different system from the modern elder/younger-marked [[兄]]/[[弟]] above. A striking false-match homograph with the unrelated modern "neutron" (also 中子); this word covers only the genealogical sense.
+- <ruby>[季子](../words/季子.md)<rt>ㄍㄨㄧㄐㄜ</rt></ruby>: youngest son.
+- <ruby>[末子](../words/末子.md)<rt>ㄇㄚㄊㄐㄜ</rt></ruby>: youngest child, of either sex.
+
+### In-Laws at Ego's Generation
+
+Dan'a'yo names brothers by marriage in the Asian template: by whose husband or brother, and by relative age. The hypernyms are [[姻兄]] and [[姻弟]] (affinal elder / younger brother), and [[連襟]] is the relation between men married to sisters.
+
+- <ruby>[姉夫](../words/姉夫.md)<rt>ㄐㄚㄈㄜ</rt></ruby>: older sister's husband.
+- <ruby>[妹婿](../words/妹婿.md)<rt>ㄇㄛㄧㄙㄝㄧ</rt></ruby>: younger sister's husband.
+- <ruby>[妻兄](../words/妻兄.md)<rt>ㄑㄝㄧㄏ⼄ㄫ</rt></ruby>: wife's older brother.
+- <ruby>[妻弟](../words/妻弟.md)<rt>ㄑㄝㄧㄉㄝ</rt></ruby>: wife's younger brother.
+- <ruby>[夫兄](../words/夫兄.md)<rt>ㄈㄜㄏ⼄ㄫ</rt></ruby>: husband's older brother.
+- <ruby>[夫弟](../words/夫弟.md)<rt>ㄈㄜㄉㄝ</rt></ruby>: husband's younger brother.
+- <ruby>[姻兄](../words/姻兄.md)<rt>ㄧㄋㄏ⼄ㄫ</rt></ruby>: affinal older brother — the hypernym of the three above.
+- <ruby>[姻弟](../words/姻弟.md)<rt>ㄧㄋㄉㄝ</rt></ruby>: affinal younger brother — the hypernym of the younger three.
+- <ruby>[連襟](../words/連襟.md)<rt>ㄌ⼶ㄋㄍㄧㄇ</rt></ruby>: men married to sisters of each other.
 
 ### Cousins
 
@@ -78,6 +105,8 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[姑母](../words/姑母.md)<rt>ㄍㄛ·ㄇㄛㄨ</rt></ruby>: paternal aunt — father's sister, as distinct from an uncle's wife.
 - <ruby>[姑丈](../words/姑丈.md)<rt>ㄍㄛㄑㄚㄫ</rt></ruby>: paternal aunt's husband — father's sister's husband specifically, paired with [[姑母]].
 - <ruby>[姨母](../words/姨母.md)<rt>ㄧㄜㄇㄛㄨ</rt></ruby>: maternal aunt — mother's sister or mother's brother's wife.
+- <ruby>[舅父](../words/舅父.md)<rt>ㄍ⼜ㄛㄅㄨ</rt></ruby>: maternal uncle — mother's brother.
+- <ruby>[舅母](../words/舅母.md)<rt>ㄍ⼜ㄛㄇㄛㄨ</rt></ruby>: maternal uncle's wife.
 - <ruby>[丈人](../words/丈人.md)<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby>: father-in-law — wife's father; an in-law at this generational level.
 - <ruby>[丈母](../words/丈母.md)<rt>ㄑㄚㄫㄇㄛㄨ</rt></ruby>: mother-in-law.
 - <ruby>[継母](../words/継母.md)<rt>ㄍㄝㄧㄇㄛㄨ</rt></ruby>: stepmother.
@@ -99,6 +128,9 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 
 - <ruby>[祖先](../words/祖先.md)<rt>ㄐㄜㄙㄝㄋ</rt></ruby>: ancestor, forebear.
 - <ruby>[始祖](../words/始祖.md)<rt>ㄙㄧㄐㄜ</rt></ruby>: founder, first ancestor, progenitor — the specific originating ancestor, narrower than [[祖先]]'s general sense.
+- <ruby>[先祖](../words/先祖.md)<rt>ㄙㄝㄋㄐㄜ</rt></ruby>: ancestor, forebear — a near-synonym of [[祖先]], a little more literary.
+- <ruby>[曽祖父](../words/曽祖父.md)<rt>ㄐㄜㄫㄐㄜㄅㄨ</rt></ruby>: great-grandfather.
+- <ruby>[曽祖母](../words/曽祖母.md)<rt>ㄐㄜㄫㄐㄜㄇㄛㄨ</rt></ruby>: great-grandmother.
 - <ruby>[王朝](../words/王朝.md)<rt>⺢ㄫㄐㄚㄨ</rt></ruby>: dynasty, reign, royal court — an extended-lineage concept at the scale of a ruling house, inherited from ancestors.
 
 ## Descending Generations
@@ -116,16 +148,21 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[姪](../words/姪.md)<rt>ㄉㄝㄊ</rt></ruby>: niece — the direct female counterpart of [[甥]], broadened the same day and the same way.
 - <ruby>[姪女](../words/姪女.md)<rt>ㄉㄝㄊㄋㄜ</rt></ruby>: niece — a more explicit "niece-woman" compound, now a near-synonym of bare [[姪]] rather than the only way to say "niece."
 - <ruby>[養子](../words/養子.md)<rt>⼘ㄫㄐㄜ</rt></ruby>: an adopted or foster child.
+- <ruby>[継子](../words/継子.md)<rt>ㄍㄝㄧㄐㄜ</rt></ruby>: stepchild, stepson.
+- <ruby>[子婦](../words/子婦.md)<rt>ㄐㄜㄅ⼜</rt></ruby>: daughter-in-law — son's wife.
 
 ### Grandchildren (−2)
 
 - <ruby>[孫子](../words/孫子.md)<rt>ㄙㄛㄋㄐㄜ</rt></ruby>: grandson.
 - <ruby>[孫孫](../words/孫孫.md)<rt>ㄙㄛㄋㄙㄛㄋ</rt></ruby>: a grandchild, "grandkiddo."
 - <ruby>[孫女](../words/孫女.md)<rt>ㄙㄛㄋㄋㄜ</rt></ruby>: granddaughter.
+- <ruby>[外孫](../words/外孫.md)<rt>⺢ㄧㄙㄛㄋ</rt></ruby>: daughter's son — maternal grandson.
+- <ruby>[外孫女](../words/外孫女.md)<rt>⺢ㄧㄙㄛㄋㄋㄜ</rt></ruby>: daughter's daughter — maternal granddaughter.
 
 ### Beyond: Descendants (−3 and up)
 
 - <ruby>[子孫](../words/子孫.md)<rt>ㄐㄜㄙㄛㄋ</rt></ruby>: descendants — literally "children and grandchildren," the concrete everyday term.
+- <ruby>[曽孫](../words/曽孫.md)<rt>ㄐㄜㄫㄙㄛㄋ</rt></ruby>: great-grandchild.
 - <ruby>[昆](../words/昆.md)<rt>ㄍㄛㄋ</rt></ruby>: a swarm, descendants.
 - <ruby>[後裔](../words/後裔.md)<rt>ㄏㄨㄛ⼶</rt></ruby>: descendant, posterity — a more formal/literary near-synonym of [[子孫]].
 - <ruby>[嗣子](../words/嗣子.md)<rt>ㄙㄜㄐㄜ</rt></ruby>: heir.
@@ -139,13 +176,16 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry.
 - <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s two-sided, exchange-between-households sense.
 - <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage; the two-sided exchange between households, contrasted with [[婚姻]] (formal/legal) and [[結婚]] (the contract).
+- <ruby>[一夫一妻](../words/一夫一妻.md)<rt>ㄧㄊㄈㄜㄧㄊㄑㄝㄧ</rt></ruby>: monogamy.
 - <ruby>[結婚礼](../words/結婚礼.md)<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby>: weddings — the marriage ceremony itself, alongside the act ([[結婚]]) and the exchange ([[嫁娶]]).
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
 - <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
 - <ruby>[新婦](../words/新婦.md)<rt>ㄙㄧㄋㄅ⼜</rt></ruby>: bride — the direct female counterpart of [[婿]] on the wedding side, standard wedding vocabulary (新郎新婦, "the bride and groom").
+- <ruby>[新郎](../words/新郎.md)<rt>ㄙㄧㄋㄌㄚㄫ</rt></ruby>: groom, bridegroom — the pair of [[新婦]].
 - <ruby>[出奔](../words/出奔.md)<rt>ㄑㄨㄊㄅㄛㄋ</rt></ruby>: to elope, to flee, to run away.
 - <ruby>[離婚](../words/離婚.md)<rt>ㄌㄝㄧㄏㄛㄋ</rt></ruby>: divorce.
+- <ruby>[独身](../words/独身.md)<rt>ㄉㄛㄎㄙㄧㄋ</rt></ruby>: unmarried, single.
 - <ruby>[寡婦](../words/寡婦.md)<rt>ㄍ⺢ㄅ⼜</rt></ruby>: widow.
 - <ruby>[妻子](../words/妻子.md)<rt>ㄑㄝㄧㄐㄜ</rt></ruby>: wife and child(ren), one's family collectively.
 - <ruby>[嫡](../words/嫡.md)<rt>ㄉㄚㄎ</rt></ruby>: a legitimate wife — historically, the primary wife in a household that could include concubines.
@@ -153,6 +193,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[養母](../words/養母.md)<rt>⼘ㄫㄇㄛㄨ</rt></ruby>: adoptive mother.
 - <ruby>[養父](../words/養父.md)<rt>⼘ㄫㄅㄨ</rt></ruby>: adoptive father.
 - <ruby>[養育](../words/養育.md)<rt>⼘ㄫ⼜ㄎ</rt></ruby>: to foster, to raise (a child).
+- <ruby>[孤児](../words/孤児.md)<rt>ㄍㄛㄝㄧ</rt></ruby>: orphan.
 - <ruby>[孤児院](../words/孤児院.md)<rt>ㄍㄛㄝㄧ⼔ㄋ</rt></ruby>: an orphanage.
 - <ruby>[主婦](../words/主婦.md)<rt>ㄐㄨㄅ⼜</rt></ruby>: a housewife — literally "the main woman [of the household]."
 - <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, a maidservant.
@@ -162,17 +203,18 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.
 
-**Not yet linked**: "dowry"/"bride-price," "monogamy," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement" and "bride" are resolved as of [[婚約]]/[[新婦]] above.
+**Not yet linked**: "dowry"/"bride-price," "maid" (in the housemaid/servant sense — [[婢女]] above is the closest match, not a perfect synonym) — no attested vault word for any of these. "Engagement," "bride," "groom" and "monogamy" are resolved as of [[婚約]], [[新婦]], [[新郎]] and [[一夫一妻]] above.
 
 ## Family & Lineage (Collective Concepts)
 
 Words for the kin-group itself, rather than any one relative within it.
 
 - <ruby>[家族](../words/家族.md)<rt>ㄍㄚㄐㄛㄎ</rt></ruby>: family — the wider, more anthropological "lineage/kin-group" sense.
+- <ruby>[家長](../words/家長.md)<rt>ㄍㄚㄐㄚㄫ</rt></ruby>: head of household, family head.
 - <ruby>[家庭](../words/家庭.md)<rt>ㄍㄚㄉㄝㄫ</rt></ruby>: household, family — literally "the courtyard of the house," extended metonymically to the family unit's shared living space; see Semantic Range Notes for how it differs from [[家族]].
 - <ruby>[自家](../words/自家.md)<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>: one's own family or household.
-- <ruby>[親族](../words/親族.md)<rt>ㄑㄧㄋㄐㄛㄎ</rt></ruby>: relatives, kin.
-- <ruby>[親戚](../words/親戚.md)<rt>ㄑㄧㄋㄑㄝㄎ</rt></ruby>: relative, relation — see Semantic Range Notes; this may be a genuine, undifferentiated duplicate of [[親族]] rather than a real near-synonym.
+- <ruby>[親族](../words/親族.md)<rt>ㄑㄧㄋㄐㄛㄎ</rt></ruby>: relatives, kin — the formal register, the kin group as a unit; see Semantic Range Notes.
+- <ruby>[親戚](../words/親戚.md)<rt>ㄑㄧㄋㄑㄝㄎ</rt></ruby>: relative, relation — everyday relatives, against the formal [[親族]]; see Semantic Range Notes.
 - <ruby>[氏族](../words/氏族.md)<rt>ㄙㄧㄜㄐㄛㄎ</rt></ruby>: clan — the classical/anthropological term.
 - <ruby>[部族](../words/部族.md)<rt>ㄅㄛㄨㄐㄛㄎ</rt></ruby>: tribe, clan — leans toward the ethnographic "tribe" sense.
 - <ruby>[同族](../words/同族.md)<rt>ㄉㄛㄫㄐㄛㄎ</rt></ruby>: to be of the same clan; a kinsman.
@@ -215,7 +257,9 @@ The six [[従兄|従]]-prefixed cousin words (coined 2026-09-21, user-directed) 
 
 [[夫人]] is a third genuine asymmetry, considered explicitly and left as-is rather than "corrected": it's a formal, respectful address term for a wife specifically, not a gender-neutral spousal honorific — this was checked against all five source languages before being confirmed, not assumed from Korean alone, since 夫人's literal etymology (夫 "husband" + 人 "person") could suggest otherwise. Mandarin, Cantonese, Japanese, Korean, and Vietnamese all independently use their own descendant of this exact compound specifically for "wife" (总统夫人/大統領夫人, "the First Lady"), an old, stable pan-CJKV sense going back to a Zhou-dynasty court title for a feudal lord's wife, not a single-language accident. [[丈夫]] is the plain word for "husband," so the relationship itself isn't wordless in Dan'a'yo — only the elevated/honorific register is missing on the husband's side, with no invented symmetric counterpart added to paper over it.
 
-**Duplicate-terminology audit** (run explicitly at the user's request): most near-synonym pairs on this page carry a real, documented distinction and are not true duplicates — [[父母]] and [[両親]] both mean "parents," and looked at first glance like plain duplicates, but [[両親]]'s own Notes record a genuine register gap: it's more formal/impersonal, and more likely used of someone else's parents than one's own, mirroring the English "my parents" vs. "one's parents" distinction. [[子孫]]/[[後裔]] (concrete vs. literary "descendants"), [[祖先]]/[[始祖]] (general ancestor vs. the one specific founder), and [[家族]]/[[家庭]] (kin-group vs. household/living-space) all likewise hold up under inspection. The clan cluster — [[氏族]] (lineage-based "clan"), [[部族]] (the ethnographic "tribe" sense), [[同族]] ("of the same clan," a kinsman relationship rather than the group itself), and [[閥族]] (specifically a *powerful*, influential clan) — carves out four genuinely different pieces of the same territory. One pair, however, did **not** turn up a documented distinction on this audit: [[親族]] and [[親戚]] both gloss simply as "relatives, kin," and neither word's own Notes records any register, specificity, or usage difference between them — the honest conclusion is that this is either a real duplicate or an undocumented distinction, not a confirmed near-synonym pair like the others. Left both on the page rather than silently dropping one, flagged here for whoever looks at it next.
+**Duplicate-terminology audit** (run explicitly at the user's request): most near-synonym pairs on this page carry a real, documented distinction and are not true duplicates — [[父母]] and [[両親]] both mean "parents," and looked at first glance like plain duplicates, but [[両親]]'s own Notes record a genuine register gap: it's more formal/impersonal, and more likely used of someone else's parents than one's own, mirroring the English "my parents" vs. "one's parents" distinction. [[子孫]]/[[後裔]] (concrete vs. literary "descendants"), [[祖先]]/[[始祖]] (general ancestor vs. the one specific founder), and [[家族]]/[[家庭]] (kin-group vs. household/living-space) all likewise hold up under inspection. The clan cluster — [[氏族]] (lineage-based "clan"), [[部族]] (the ethnographic "tribe" sense), [[同族]] ("of the same clan," a kinsman relationship rather than the group itself), and [[閥族]] (specifically a *powerful*, influential clan) — carves out four genuinely different pieces of the same territory. One pair, [[親族]] and [[親戚]], did not turn up a sourced distinction on this audit: both are real in all four daughter languages and Wiktionary treats them as plain "relatives, kin." Resolved 2026-10-29 by a design choice, not a discovery: 親戚 is the everyday word for the relatives one knows, and 親族 the formal register for the kin group as a unit (the legal or clan sense), so the pair is no longer a duplicate.
+
+The in-law words follow an Asian template rather than an English one. English "brother-in-law" covers three different relations, and Dan'a'yo, like its sources, names them by whose spouse or sibling and by relative age: [[姉夫]] and [[妹婿]] (a sister's husband), [[妻兄]] and [[妻弟]] (a wife's brothers), [[夫兄]] and [[夫弟]] (a husband's brothers). [[姻兄]] and [[姻弟]] are the hypernyms, one per age, and [[連襟]] names the bond between men who married sisters. Only some of these are confirmed in the sources (姉夫, 妹婿, 妻兄, 妻弟 and 連襟 in Chinese; 妹婿 also in Japanese), and the rest are schema words that complete the set. The birth-order series ([[長子]], [[長男]], [[長女]], [[次男]], [[次女]], [[中子]], [[季子]], [[末子]]) likewise offers a second system beside the age-marked [[兄]]/[[弟]], and the maternal-side words [[舅父]], [[舅母]], [[外孫]], [[外孫女]] extend the paternal/maternal split the page already describes.
 
 ## See Also
 

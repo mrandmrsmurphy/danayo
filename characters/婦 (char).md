@@ -57,3 +57,4 @@ boundedness: 65
 - <ruby>[[主婦]]<rt>ㄐㄨㄅ⼜</rt></ruby> "housewife"
 - <ruby>[[寡婦]]<rt>ㄍ⺢ㄅ⼜</rt></ruby> "widow"
 - <ruby>[[新婦]]<rt>ㄙㄧㄋㄅ⼜</rt></ruby> "bride"
+- <ruby>[[子婦]]<rt>ㄐㄜㄅ⼜</rt></ruby> "daughter-in-law"

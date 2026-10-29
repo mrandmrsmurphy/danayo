@@ -90,6 +90,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[一同]]<rt>ㄧㄊㄉㄛㄫ</rt></ruby> "together; all as one"
 - <ruby>[[一処]]<rt>ㄧㄊㄑㄛ</rt></ruby> "in one place; together"
 - <ruby>[[一打]]<rt>ㄧㄊㄉㄚ</rt></ruby> "a dozen; twelve"
+- <ruby>[[一夫一妻]]<rt>ㄧㄊㄈㄜㄧㄊㄑㄝㄧ</rt></ruby> "monogamy"
 
 ## Chengyu
 - <ruby>[[一字千金]]<rt>ㄧㄊㄐㄧㄑㄝㄋㄍㄧㄇ</rt></ruby> "perfect word"

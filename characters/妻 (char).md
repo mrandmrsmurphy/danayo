@@ -52,6 +52,9 @@ boundedness: 50
 ## Words
 - <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby> "wife" (stand-in for 妻)
 - <ruby>[[妻子]]<rt>ㄑㄝㄧㄐㄜ</rt></ruby> "women and children; wife and child"
+- <ruby>[[一夫一妻]]<rt>ㄧㄊㄈㄜㄧㄊㄑㄝㄧ</rt></ruby> "monogamy"
+- <ruby>[[妻兄]]<rt>ㄑㄝㄧㄏ⼄ㄫ</rt></ruby> "wife's elder brother"
+- <ruby>[[妻弟]]<rt>ㄑㄝㄧㄉㄝ</rt></ruby> "wife's younger brother"
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"

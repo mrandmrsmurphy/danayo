@@ -62,6 +62,9 @@ boundedness: 80
 - <ruby>[[孝弟]]<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby> "filial piety and fraternal duty"
 - <ruby>[[従弟]]<rt>ㄐㄛㄫㄉㄝ</rt></ruby> "younger male cousin"
 - <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
+- <ruby>[[妻弟]]<rt>ㄑㄝㄧㄉㄝ</rt></ruby> "wife's younger brother"
+- <ruby>[[夫弟]]<rt>ㄈㄜㄉㄝ</rt></ruby> "husband's younger brother"
+- <ruby>[[姻弟]]<rt>ㄧㄋㄉㄝ</rt></ruby> "affinal younger brother"
 
 ## Derived Characters
 - <ruby>[[剃 (char)|剃]]<rt>ㄊㄝㄧ</rt></ruby> "shave"

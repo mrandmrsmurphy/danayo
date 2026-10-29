@@ -57,6 +57,9 @@ Reduplication for the diminutive suppletes to [[哥哥]] rather than doubling �
 - <ruby>[[兄嫂]]<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby> "sister-in-law, older brother's wife"
 - <ruby>[[従兄]]<rt>ㄐㄛㄫㄏ⼄ㄫ</rt></ruby> "older male cousin"
 - <ruby>[[従兄弟]]<rt>ㄐㄛㄫㄏ⼄ㄫㄉㄝ</rt></ruby> "male cousin(s), cousin (generic)"
+- <ruby>[[妻兄]]<rt>ㄑㄝㄧㄏ⼄ㄫ</rt></ruby> "wife's elder brother"
+- <ruby>[[夫兄]]<rt>ㄈㄜㄏ⼄ㄫ</rt></ruby> "husband's elder brother"
+- <ruby>[[姻兄]]<rt>ㄧㄋㄏ⼄ㄫ</rt></ruby> "affinal older brother"
 
 ## Derived Characters
 - <ruby>[[況]]<rt>ㄏ⺢ㄫ</rt></ruby> "condition"

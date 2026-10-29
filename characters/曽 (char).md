@@ -55,6 +55,9 @@ boundedness: 70
 ## Words
 - <ruby>[[曽]]<rt>ㄐㄜㄫ</rt></ruby> "great-" (stand-in for 曽)
 - <ruby>[[曽子]]<rt>ㄐㄜㄫㄐㄜ</rt></ruby> "Zengzi"
+- <ruby>[[曽孫]]<rt>ㄐㄜㄫㄙㄛㄋ</rt></ruby> "great-grandchild"
+- <ruby>[[曽祖父]]<rt>ㄐㄜㄫㄐㄜㄅㄨ</rt></ruby> "great-grandfather"
+- <ruby>[[曽祖母]]<rt>ㄐㄜㄫㄐㄜㄇㄛㄨ</rt></ruby> "great-grandmother"
 
 ## Derived Characters
 - <ruby>[[層 (char)|層]]<rt>ㄑㄜㄫ</rt></ruby> "stratum"

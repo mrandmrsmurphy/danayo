@@ -80,6 +80,10 @@ boundedness: 75
 - <ruby>[[長野]]<rt>ㄐㄚㄫ⼘</rt></ruby> "Nagano Prefecture"
 - <ruby>[[長埼]]<rt>ㄐㄚㄫㄎㄧㄜ</rt></ruby> "Nagasaki Prefecture"
 - <ruby>[[社長]]<rt>ㄙ⼘ㄐㄚㄫ</rt></ruby> "company president"
+- <ruby>[[長男]]<rt>ㄐㄚㄫㄋㄚㄇ</rt></ruby> "eldest son"
+- <ruby>[[長女]]<rt>ㄐㄚㄫㄋㄜ</rt></ruby> "eldest daughter"
+- <ruby>[[長子]]<rt>ㄐㄚㄫㄐㄜ</rt></ruby> "eldest son"
+- <ruby>[[家長]]<rt>ㄍㄚㄐㄚㄫ</rt></ruby> "head of household"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

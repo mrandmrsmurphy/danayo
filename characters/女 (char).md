@@ -66,6 +66,10 @@ boundedness: 80
 - <ruby>[[妓女]]<rt>ㄍㄧ·ㄋㄜ</rt></ruby> "prostitute"
 - <ruby>[[織女]]<rt>ㄐㄧㄎㄋㄜ</rt></ruby> "the Weaver Girl"
 - <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> "girlfriend"
+- <ruby>[[長女]]<rt>ㄐㄚㄫㄋㄜ</rt></ruby> "eldest daughter"
+- <ruby>[[次女]]<rt>ㄑㄧㄜㄋㄜ</rt></ruby> "second daughter"
+- <ruby>[[外孫女]]<rt>⺢ㄧㄙㄛㄋㄋㄜ</rt></ruby> "granddaughter through a daughter"
+
 ## Derived Characters
 - <ruby>[[如 (char)|如]]<rt>ㄋ⼄</rt></ruby> "like, as"
 - <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby> "you (dear)"

@@ -58,3 +58,4 @@ boundedness: 65
 - <ruby>[[兄弟姉妹]]<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby> "siblings; brothers and sisters"
 - <ruby>[[従姉]]<rt>ㄐㄛㄫㄐㄚ</rt></ruby> "older female cousin"
 - <ruby>[[従姉妹]]<rt>ㄐㄛㄫㄐㄚ·ㄇㄛㄧ</rt></ruby> "female cousin(s), cousin (generic)"
+- <ruby>[[姉夫]]<rt>ㄐㄚㄈㄜ</rt></ruby> "elder sister's husband"

@@ -62,6 +62,7 @@ boundedness: 60
 - <ruby>[[嬰児]]<rt>ㄧㄫㄝㄧ</rt></ruby> "baby"
 - <ruby>[[児童]]<rt>ㄝㄧㄉㄛㄫ</rt></ruby> "minor; student; child"
 - <ruby>[[鹿児島]]<rt>ㄌㄛㄎ·ㄝㄧㄊㄚㄨ</rt></ruby> "Kagoshima Prefecture"
+- <ruby>[[孤児]]<rt>ㄍㄛㄝㄧ</rt></ruby> "orphan"
 
 ## Derived Characters
 - <ruby>[[䦧 (char)|䦧]]<rt>ㄏㄝㄎ</rt></ruby> "quarrel"
