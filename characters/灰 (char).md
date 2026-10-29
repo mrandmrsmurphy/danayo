@@ -50,6 +50,7 @@ boundedness: 90
 - [SKIP-3-2-4](../lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 2408th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](../syllables/ㄏㄛㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md) (dropped from the Korean list in 2000)
+- 灰 also serves as this vault's periodic-table abbreviation for calcium (Ca), functioning the way a chemical symbol letter does in a compound formula — see [[石灰素]]. It replaces the word's leading character 石, which is already the abbreviation for lithium ([[石素]]).
 
 ## Words
 - <ruby>[[灰]]<rt>ㄏㄛㄧ</rt></ruby> "ashes" (stand-in for 灰)

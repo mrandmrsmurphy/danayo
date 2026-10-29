@@ -45,6 +45,7 @@ boundedness: 60
 - [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 582nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 談|ɑm]] → [ㄍㄚㄇ](../syllables/ㄍㄚㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+- 甘 also serves as this vault's periodic-table abbreviation for cadmium (Cd), functioning the way a chemical symbol letter does in a compound formula — see [[炉甘金]]. It replaces the word's leading character 炉, whose reading ㄌㄛ is already the abbreviation for ruthenium ([[露金]]).
 
 ## Words
 - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> "sweet" (stand-in for 甘)

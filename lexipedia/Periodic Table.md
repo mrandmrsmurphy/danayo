@@ -22,6 +22,9 @@ Real chemical formulae can be rendered using each element's single-character abb
 - An abbreviation with no subscript implies a count of 1.
 - A trailing `_数` gives the atom count when greater than 1 (数 = 二, 三, 四...).
 - 〔 〕 brackets group a repeated substructure; the group's own `_数` follows the closing bracket.
+- A trailing `^` gives an ion's charge: the magnitude (数, omitted when 1) followed by the sign, 陽 (positive) or 陰 (negative). A charge of more than one character is written in braces, `^{三陽}`, so that both characters are raised; a bare sign needs none. The charge belongs to the whole particle written before it; to charge only part of a longer formula, bracket that part and put the charge after the closing bracket.
+- A `·` joins the parts of a hydrate or other dot-bonded compound. A numeral written directly before a part is its coefficient (the number of that part); a numeral after `_` is always a subscript. No element abbreviation is itself a numeral, so the two never clash.
+- Oxidation states are not part of the formula. In running text they are written as 数価 before the element name, e.g. 二価鉄 for iron(II) and 三価鉄 for iron(III).
 
 Examples:
 - H₂O (water) → **$軽_二養$**
@@ -30,6 +33,11 @@ Examples:
 - InP (indium phosphide) → **$紫燐$** (see [紫素](../words/紫素.md))
 - Nb–Ta alloy (columbite-tantalite / coltan) → **$孝渇$** (see [孝金](../words/孝金.md))
 - (CH₃)₂CO (acetone) → **$〔炭軽_三〕_二炭養$** — two CH₃ groups (bracketed, ×2), then the remaining C=O
+- Na⁺ (sodium ion) → **$鹸^陽$**
+- Cl⁻ (chloride ion) → **$塩^陰$**
+- Fe³⁺ (iron(III) ion) → **$鉄^{三陽}$** — a charge of three, positive
+- SO₄²⁻ (sulfate ion) → **$硫養_四^{二陰}$** — the charge belongs to the whole sulfate ion
+- CuSO₄·5H₂O (copper sulfate pentahydrate) → **$銅硫養_四·五軽_二養$** — five water molecules attached to one copper sulfate
 
 ### Main
 | | 1 | 2   | 13 | 14 | 15 | 16 | 17 |  18 |
@@ -104,15 +112,16 @@ The words around the table, grouped by what they describe. Each is a compound of
 
 ## Abbreviations
 ```
-────┼─────────────────────────────────────────────────
- 1  │ 軽 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · ·  ·  · 日
- 2  │ 石 緑 ·  ·  ·  ·  ·  ·  ·  ·  ·  硼 炭 窒 養 弗 虹
- 3  │ 鹸 苦 ·  ·  ·  ·  ·  ·  ·  ·  ·  礬 硅 燐 硫 塩 惰
+    │ 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18
+────┼─────────────────────────────────────────────────────
+ 1  │ 軽 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 日
+ 2  │ 石 緑 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  硼 炭 窒 養 弗 虹
+ 3  │ 鹸 苦 ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  礬 硅 燐 硫 塩 惰
  4  │ 鉀 灰 康 巨 釩 色 孟 鉄 鬼 魔 銅 亜 高 徳 砒 月 臭 潜
  5  │ 茜 火 蛍 晶 孝 硬 造 露 薇 護 銀 甘 紫 朱 墨 土 沃 異
  6  │ 青 重 隠 丹 渇 狼 莱 嗅 霓 白 黄 水 蕤 鉛 蒼 波 穏 射
  7  │ 法 放 始 拉 杜 西 玻 黒 邁 達 錀 哥 本 佛 莫 利 田 奥
  
  L  | 穀 韮 磁 孫 吸 欧 多 翠 難 褐 桃 嬴 核 沼 
- A  | 雷 副 天 海 冥 美 里 柏 加 愛 費 門 諾 倫
+ A  | 雷 副 天 海 冥 美 居 柏 加 愛 費 門 諾 倫
 ```
