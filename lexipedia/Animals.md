@@ -63,6 +63,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[鴨](../words/鴨.md)<rt>ㄚㄆ</rt></ruby>: duck.
 - <ruby>[鴎](../words/鴎.md)<rt>ㄛㄨ</rt></ruby>: a seagull.
 - <ruby>[孔雀](../words/孔雀.md)<rt>ㄎㄛㄫㄐㄚㄎ</rt></ruby>: a peacock, peafowl.
+- <ruby>[盧玆](../words/盧玆.md)<rt>ㄌㄛㄐㄜ</rt></ruby>: a cormorant — written with 盧 and 玆 standing in for the rare 鸕鶿.
 - <ruby>[猫頭鷹](../words/猫頭鷹.md)<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby>: an owl — literally "cat-head hawk," shared by Mandarin and Cantonese.
 - <ruby>[鸚鵡](../words/鸚鵡.md)<rt>ㄚㄫㄇㄨ</rt></ruby>: parrot.
 - <ruby>[鸚哥](../words/鸚哥.md)<rt>ㄚㄫㄍㄜ</rt></ruby>: parakeet, parrot — a near-synonym of 鸚鵡 above, distinguished by size rather than a firm species boundary.

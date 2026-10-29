@@ -29,8 +29,6 @@ danayo_id: 8201
 mc_id: 3437
 graphemic_classification: "我"
 stand_in: "蛾"
-aliases:
-  - 蟻
 注音: "ㄚ"
 kwin: true
 tags:
@@ -46,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声: semantic [[虫]] ("insect") + phonetic [[我 (char)|我]] — "moth." Also attested (Etymology 2) as a variant form of 蟻 ("ant"), matching the vault's existing `蟻 --> 蛾` redirect.
+- 形声: semantic [[虫]] ("insect") + phonetic [[我 (char)|我]] — "moth." Also attested (Etymology 2) as a variant form of 蟻 ("ant"), which the vault keeps as its own character.
 - [SKIP-1-6-7](../lookup/SKIP/SKIP-1/SKIP-1-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 3437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄚ](../syllables/ㄚ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
