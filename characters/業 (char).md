@@ -66,6 +66,7 @@ boundedness: 100
 - <ruby>[[授業]]<rt>ㄙ⼜ㄝㄆ</rt></ruby> "teach; instruct"
 - <ruby>[[林業]]<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby> "forestry"
 - <ruby>[[職業]]<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby> "career; job"
+- <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

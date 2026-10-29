@@ -59,6 +59,12 @@ boundedness: 70
 - <ruby>[[週番]]<rt>ㄐㄨㄛㄈㄚㄋ</rt></ruby> "weekly duty"
 - <ruby>[[原子番号]]<rt>⼔ㄋㄐㄜㄈㄚㄋㄏㄚㄨ</rt></ruby> "atomic number"
 - <ruby>[[当番]]<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby> "duty turn"
+- <ruby>[[輪番]]<rt>ㄌㄨㄋㄈㄚㄋ</rt></ruby> "rotating duty"
+- <ruby>[[非番]]<rt>ㄈㄧㄈㄚㄋ</rt></ruby> "off duty"
+- <ruby>[[夜番]]<rt>⼘ㄈㄚㄋ</rt></ruby> "night shift"
+- <ruby>[[日番]]<rt>ㄋㄧㄊㄈㄚㄋ</rt></ruby> "day shift"
+- <ruby>[[勤番]]<rt>ㄍㄧㄋㄈㄚㄋ</rt></ruby> "serving a duty shift"
+- <ruby>[[番次]]<rt>ㄈㄚㄋㄑㄧㄜ</rt></ruby> "order of duty"
 
 ## Derived Characters
 - <ruby>[[翻 (char)|翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip"

@@ -77,6 +77,7 @@ boundedness: 80
 - <ruby>[[性交]]<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby> "sexual intercourse"
 - <ruby>[[交替]]<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby> "alternation; to take turns"
 - <ruby>[[交址]]<rt>ㄍ⼄ㄨㄐㄧ</rt></ruby> "Jiaozhi; Giao Chỉ (northern Vietnam)"
+- <ruby>[[交代制]]<rt>ㄍ⼄ㄨㄉㄚㄧㄐㄝㄧ</rt></ruby> "shift work system"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

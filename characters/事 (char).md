@@ -83,7 +83,7 @@ boundedness: 90
 - <ruby>[[皆事]]<rt>ㄍ⼶ㄐㄧ</rt></ruby> "everything; every act; all matters"
 - <ruby>[[某事]]<rt>ㄇㄛㄨㄐㄧ</rt></ruby> "some action; a certain matter"
 - <ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby> "every matter; each matter; in every matter"
-
+- <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"

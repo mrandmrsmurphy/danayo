@@ -147,6 +147,8 @@ boundedness: 60
 - <ruby>[[朔日]]<rt>ㄙㄚㄎㄋㄧㄊ</rt></ruby> "first day of the lunar month"
 - <ruby>[[望日]]<rt>ㄇㄚㄫㄋㄧㄊ</rt></ruby> "full moon day; 15th of the lunar month"
 - <ruby>[[昔日]]<rt>ㄙㄝㄎㄋㄧㄊ</rt></ruby> "long ago; golden days"
+- <ruby>[[日番]]<rt>ㄋㄧㄊㄈㄚㄋ</rt></ruby> "day shift"
+
 ## Chengyu
 - <ruby>[[日用必備]]<rt>ㄋㄧㄊ⼄ㄫㄅㄧㄊㄅㄧㄜ</rt></ruby> "daily use, always needed"
 - <ruby>[[日月星辰]]<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"

@@ -8,7 +8,7 @@ related_domains:
   - "[[Society]]"
   - "[[Reproduction]]"
 status: complete
-date-last-perfect: 2026-09-21
+date-last-perfect: 2026-10-29
 ---
 
 # Kinship
@@ -40,6 +40,7 @@ Kinship vocabulary in Dan'a'yo names family relationships, marriage, and the bas
 - <ruby>[兄弟](../words/兄弟.md)<rt>ㄏ⼄ㄫㄉㄝ</rt></ruby>: brothers, brotherhood — Dan'a'yo's closest equivalent to an unmarked collective "brothers."
 - <ruby>[姉妹](../words/姉妹.md)<rt>ㄐㄚ·ㄇㄛㄧ</rt></ruby>: sisters, collectively.
 - <ruby>[兄弟姉妹](../words/兄弟姉妹.md)<rt>ㄏ⼄ㄫㄉㄝㄐㄚ·ㄇㄛㄧ</rt></ruby>: siblings — spelling out all four sibling roles at once, rather than choosing a gendered collective.
+- <ruby>[双子](../words/双子.md)<rt>ㄙ⺢ㄫㄐㄜ</rt></ruby>: twins — two children born at the same birth; the one sibling relation not marked for relative age.
 - <ruby>[中子](../words/中子.md)<rt>ㄐㄨㄫㄐㄜ</rt></ruby>: a middle son — a classical genealogical ordinal term (distinct from the eldest 長子 and youngest 季子/末子, neither yet coined), a different system from the modern elder/younger-marked [[兄]]/[[弟]] above. A striking false-match homograph with the unrelated modern "neutron" (also 中子); this word covers only the genealogical sense.
 - <ruby>[兄嫂](../words/兄嫂.md)<rt>ㄏ⼄ㄫㄙㄚㄨ</rt></ruby>: sister-in-law — an older brother's wife specifically; an in-law at ego's own generational level.
 
@@ -87,6 +88,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[祖父](../words/祖父.md)<rt>ㄐㄜㄅㄨ</rt></ruby>: paternal grandfather — corrected 2026-09-21; the `english` gloss had been left generic despite the word's own Notes and Vietnamese field already treating it as paternal-specific, contrasted with [[外祖父]] below.
 - <ruby>[曽](../words/曽.md)<rt>ㄐㄜㄫ</rt></ruby>: great- (as in great-grandparent).
 - <ruby>[老爺](../words/老爺.md)<rt>ㄌㄚㄨ⼘</rt></ruby>: grandfather, or a respectful term for a master/elder — unlike [[祖父]], not documented as paternal-specific in its own Notes; not to be confused with the unrelated, un-coined 姥爺 (built on 姥, the same root as [[姥姥]]), which in real Mandarin is the actual colloquial term for a *maternal* grandfather.
+- <ruby>[爺爺](../words/爺爺.md)<rt>⼘⼘</rt></ruby>: grandpappy, grandpapa — the intimate, reduplicated address form for a grandfather.
 - <ruby>[祖母](../words/祖母.md)<rt>ㄐㄜ·ㄇㄛㄨ</rt></ruby>: paternal grandmother.
 - <ruby>[外祖父](../words/外祖父.md)<rt>⺢ㄧㄐㄜㄅㄨ</rt></ruby>: maternal grandfather.
 - <ruby>[外祖母](../words/外祖母.md)<rt>⺢ㄧㄐㄜ·ㄇㄛㄨ</rt></ruby>: maternal grandmother.
@@ -137,6 +139,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry.
 - <ruby>[婚姻](../words/婚姻.md)<rt>ㄏㄛㄋ·ㄧㄋ</rt></ruby>: marriage, matrimony — the formal/legal register (婚姻法, "marriage law"), alongside [[嫁娶]]'s two-sided, exchange-between-households sense.
 - <ruby>[嫁娶](../words/嫁娶.md)<rt>ㄍㄚㄑㄨ</rt></ruby>: marriage, wedding — marrying and being given in marriage; the two-sided exchange between households, contrasted with [[婚姻]] (formal/legal) and [[結婚]] (the contract).
+- <ruby>[結婚礼](../words/結婚礼.md)<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby>: weddings — the marriage ceremony itself, alongside the act ([[結婚]]) and the exchange ([[嫁娶]]).
 - <ruby>[聘](../words/聘.md)<rt>ㄆㄧㄫ</rt></ruby>: to become engaged, to betroth — the act.
 - <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: engagement, betrothal — the state/event itself, and the period between it and the wedding; distinct from [[聘]]'s focus on the act of betrothing.
 - <ruby>[婿](../words/婿.md)<rt>ㄙㄝㄧ</rt></ruby>: bridegroom, son-in-law.
@@ -155,6 +158,7 @@ Vocabulary here describes a relationship or role rather than a fixed rung on the
 - <ruby>[婢女](../words/婢女.md)<rt>ㄅㄧ·ㄋㄜ</rt></ruby>: a servant girl, a maidservant.
 - <ruby>[保母](../words/保母.md)<rt>ㄅㄚㄨㄇㄛㄨ</rt></ruby>: a governess, nanny, babysitter — a professional child-caregiver, distinct from [[養育]]'s own act of fostering/raising.
 - <ruby>[孝道](../words/孝道.md)<rt>ㄏ⼘ㄨㄉㄚㄨ</rt></ruby>: filial piety, filial duty.
+- <ruby>[孝](../words/孝.md)<rt>ㄏ⼘ㄨ</rt></ruby>: filial piety — the bare virtue behind [[孝道]] and [[孝弟]].
 - <ruby>[孝弟](../words/孝弟.md)<rt>ㄏ⼘ㄨㄉㄝ</rt></ruby>: filial piety and fraternal duty — [[孝道]] extended to include duty toward older siblings, not just parents.
 - <ruby>[反哺](../words/反哺.md)<rt>ㄈㄛㄋㄅㄛ</rt></ruby>: to take care of one's aging parents — literally "to feed back," the image of a bird returning food to the nest that once fed it.
 
@@ -177,6 +181,9 @@ Words for the kin-group itself, rather than any one relative within it.
 - <ruby>[族譜](../words/族譜.md)<rt>ㄐㄛㄎㄅㄛ</rt></ruby>: a clan registry, a genealogy book.
 - <ruby>[戸籍](../words/戸籍.md)<rt>ㄏㄛㄐㄝㄎ</rt></ruby>: a family register — the household's own legal registration, distinct from [[族譜]]'s genealogical record.
 - <ruby>[九族](../words/九族.md)<rt>ㄎ⼜ㄐㄛㄎ</rt></ruby>: the nine degrees of kinship — nine generations of one's family, traditionally reckoned outward from oneself in *both* directions (not purely ascending or descending, hence its placement here rather than on either generational branch).
+- <ruby>[世代](../words/世代.md)<rt>ㄙㄝㄉㄚㄧ</rt></ruby>: generation; era — the unit of the generational ladder this page is organized around.
+- <ruby>[輩](../words/輩.md)<rt>ㄈㄛㄧ</rt></ruby>: generation — one's own generational cohort (the 輩 of a clan).
+- <ruby>[遺産](../words/遺産.md)<rt>⼶ㄧㄙㄚㄋ</rt></ruby>: inheritance, legacy — what a family passes down.
 
 ## People (Personhood, Not Kinship-Specific)
 
@@ -191,10 +198,6 @@ Words for the kin-group itself, rather than any one relative within it.
 - <ruby>[伴侶](../words/伴侶.md)<rt>ㄅㄚㄋㄌ⼄</rt></ruby>: companion, partner, mate — covers "fellow"; also overlaps with [[配偶]]/[[夫婦]] in its "life partner" sense.
 
 **Not yet linked**: "folk" — no attested vault word for a generic "folk."
-
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[爺爺](../words/爺爺.md)<rt>⼘⼘</rt></ruby>: grandpappy; grandpapa (intimate).
 
 ## Semantic Range Notes
 

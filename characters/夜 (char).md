@@ -57,6 +57,7 @@ boundedness: 65
 - <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby> "midnight"
 - <ruby>[[夜叉]]<rt>⼘ㄑㄚㄧ</rt></ruby> "yaksha; fierce demon"
 - <ruby>[[昼夜]]<rt>ㄐㄨㄛ⼘</rt></ruby> "day and night"
+- <ruby>[[夜番]]<rt>⼘ㄈㄚㄋ</rt></ruby> "night shift"
 
 ## Chengyu
 - <ruby>[[雲昼火夜]]<rt>ㄨㄋㄐㄨㄛㄏ⺢·⼘</rt></ruby> "cloud by day, fire by night"

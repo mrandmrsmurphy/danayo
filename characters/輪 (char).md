@@ -58,3 +58,4 @@ boundedness: 80
 - <ruby>[[輪郭]]<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby> "outline, contour, silhouette"
 - <ruby>[[輪回]]<rt>ㄌㄨㄋㄏㄛㄧ</rt></ruby> "saṃsāra; cycle of rebirth"
 - <ruby>[[法輪]]<rt>ㄈㄚㄆㄌㄨㄋ</rt></ruby> "wheel of dharma"
+- <ruby>[[輪番]]<rt>ㄌㄨㄋㄈㄚㄋ</rt></ruby> "rotating duty"

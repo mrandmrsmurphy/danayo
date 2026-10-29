@@ -95,7 +95,6 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[服務](../words/服務.md)<rt>ㄅㄨㄎㄇㄨ</rt></ruby>: to serve, work for.
 - <ruby>[服事](../words/服事.md)<rt>ㄅㄨㄎㄐㄧ</rt></ruby>: to serve, attend to.
 - <ruby>[実習](../words/実習.md)<rt>ㄙㄧㄊㄙㄜㄆ</rt></ruby>: practical training, internship.
-- <ruby>[当番](../words/当番.md)<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby>: one's turn on duty, duty rotation.
 - <ruby>[通勤](../words/通勤.md)<rt>ㄊㄛㄫㄍㄧㄋ</rt></ruby>: to commute to work.
 - <ruby>[勤務](../words/勤務.md)<rt>ㄍㄧㄋㄇㄨ</rt></ruby>: duty, work at a post.
 - <ruby>[超過](../words/超過.md)<rt>ㄊㄚㄨㄍ⺢</rt></ruby>: excess, to exceed.
@@ -105,6 +104,21 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[面接](../words/面接.md)<rt>ㄇ⼶ㄋㄐㄛㄆ</rt></ruby>: interview.
 - <ruby>[履歴書](../words/履歴書.md)<rt>ㄌㄧㄜㄌㄝㄎㄙ⼄</rt></ruby>: résumé, CV.
 - <ruby>[罷工](../words/罷工.md)<rt>ㄅㄚㄧㄍㄛㄫ</rt></ruby>: a strike.
+
+### Shifts & Duty
+
+The 番 family is a systematic schema for shift work: 番 is the root, and each word below names one part of the paradigm (see [番](../words/番.md)).
+
+- <ruby>[番](../words/番.md)<rt>ㄈㄚㄋ</rt></ruby>: a shift, one's turn of duty (second sense; also a classifier for occurrences).
+- <ruby>[当番](../words/当番.md)<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby>: one's turn on duty, duty rotation.
+- <ruby>[非番](../words/非番.md)<rt>ㄈㄧㄈㄚㄋ</rt></ruby>: off duty, not on shift.
+- <ruby>[日番](../words/日番.md)<rt>ㄋㄧㄊㄈㄚㄋ</rt></ruby>: day shift.
+- <ruby>[夜番](../words/夜番.md)<rt>⼘ㄈㄚㄋ</rt></ruby>: night shift.
+- <ruby>[輪番](../words/輪番.md)<rt>ㄌㄨㄋㄈㄚㄋ</rt></ruby>: rotating duty, taking turns on duty.
+- <ruby>[勤番](../words/勤番.md)<rt>ㄍㄧㄋㄈㄚㄋ</rt></ruby>: serving a turn of duty.
+- <ruby>[番次](../words/番次.md)<rt>ㄈㄚㄋㄑㄧㄜ</rt></ruby>: the order of turns, shift order.
+- <ruby>[交代制](../words/交代制.md)<rt>ㄍ⼄ㄨㄉㄚㄧㄐㄝㄧ</rt></ruby>: shift-work system.
+- <ruby>[交替](../words/交替.md)<rt>ㄍ⼄ㄨㄑㄝㄧ</rt></ruby>: to take turns, to swap.
 
 ### Pay & Income
 
@@ -179,6 +193,8 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract, agreement.
 - <ruby>[計画](../words/計画.md)<rt>ㄍㄝㄧㄏ⺢ㄎ</rt></ruby>: plan, schedule.
+- <ruby>[事業](../words/事業.md)<rt>ㄐㄧㄝㄆ</rt></ruby>: project, undertaking, enterprise — from the I Ching (易經, 繫辭上): 「舉而錯之天下之民謂之事業」.
+- <ruby>[会議](../words/会議.md)<rt>ㄏ⼔ㄜㄧ</rt></ruby>: meeting, conference.
 - <ruby>[共同](../words/共同.md)<rt>ㄍ⼄ㄫㄉㄛㄫ</rt></ruby>: joint, common, mutual — also, verbally, "to cooperate, collaborate" (共同作業, "joint work"; 共同体, "a community").
 - <ruby>[協力](../words/協力.md)<rt>ㄏㄝㄆㄌㄧㄎ</rt></ruby>: to join forces, work together.
 - <ruby>[組合](../words/組合.md)<rt>ㄐㄜㄍㄛㄆ</rt></ruby>: union, cooperative — the closest Dan'a'yo word to a trade guild.
@@ -214,7 +230,7 @@ The repair and maintenance vocabulary shows the same pattern. [[修理]], [[修�
 
 The two factory words turned out to hide a real, now-corrected data bug rather than a genuine synonym pair: [[工場]] and [[工廠]] both mean "factory," but they follow different historical channels within the Sinosphere — 工場 (工 "work" + 場 "place, venue") is the Japanese/Korean-channel term, while 工廠 (工 + 廠 "workshop, factory shed") is the Mandarin/Cantonese-channel term, and Dan'a'yo has independently perfected both with their own distinct pronunciations (ㄍㄛㄫㄐㄚㄫ vs. ㄍㄛㄫㄑㄚㄫ). 工場's page had incorrectly listed 工廠 as an `aliases` entry — but 工廠 cannot be a mere alias of 工場, since it is itself the `stand_in` that independently legitimizes the character [[廠]] as a Dan'a'yo entry; an alias, by vault convention, is never used independently. Fixed by removing the erroneous alias entry while auditing this page. Two further near-synonym pairs are worth flagging the same way: [[提供]] and [[供給]] both translate "supply/provide," but 提供 is the general verb for offering or furnishing something, while 供給 is anchored to the narrower economic sense of supply meeting demand (供給と需要); and [[労動]] and [[辛苦]] both touch "toil," but 労動 is the neutral economic category (labor as a factor of production) while 辛苦 carries the connotation of bitter hardship rather than labor as such.
 
-Pay vocabulary now separates five kinds of money by who pays and why. [[賃金]] is the wage paid for labor; [[俸給]] and [[俸祿]] are the official pay of a government post; [[収入]] is income of any kind; [[賞金]] is prize or reward money (leaning toward "prize"); [[賞与金]] is a bonus added to regular pay; and [[年金]] is a pension, paid after retirement ([[退職]]). On the employment side, [[雇用]] (hire) and [[解雇]] (dismiss) are an employer-side pair, [[退職]] and [[辞職]] are the worker's own leaving, [[罷免]] and [[廃黜]] remove an official from office, and [[罷工]] is workers collectively refusing to work. [[昇進]] (promotion, Japanese/Korean/Vietnamese) sits beside the Chinese-channel [[晋升]], and [[超過勤務]] (overtime, with the short form 超勤) is a formal compound chosen because the regional words differ: Mandarin 加班, Japanese 残業, Korean 야근.
+Pay vocabulary now separates five kinds of money by who pays and why. [[賃金]] is the wage paid for labor; [[俸給]] and [[俸祿]] are the official pay of a government post; [[収入]] is income of any kind; [[賞金]] is prize or reward money (leaning toward "prize"); [[賞与金]] is a bonus added to regular pay; and [[年金]] is a pension, paid after retirement ([[退職]]). A project has two layers: [[事業]] is the undertaking itself (an old word, from the I Ching), [[計画]] is the plan for it and [[作業]] a single task within it. On the employment side, [[雇用]] (hire) and [[解雇]] (dismiss) are an employer-side pair, [[退職]] and [[辞職]] are the worker's own leaving, [[罷免]] and [[廃黜]] remove an official from office, and [[罷工]] is workers collectively refusing to work. [[昇進]] (promotion, Japanese/Korean/Vietnamese) sits beside the Chinese-channel [[晋升]], and [[超過勤務]] (overtime, with the short form 超勤) is a formal compound chosen because the regional words differ: Mandarin 加班, Japanese 残業, Korean 야근.
 
 Dan'a'yo has no dedicated word for "craft" distinct from skill/technique — the closest fit, [[芸術]] ("skill, art, craft"), belongs primarily to [[Art]] and is cross-referenced there rather than duplicated here; within Work, [[技術]] and [[技巧]] cover the practical-technique end of the same conceptual space.
 
