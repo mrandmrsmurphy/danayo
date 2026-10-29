@@ -26,7 +26,7 @@ Exit status 0 if clean, 1 otherwise.
 """
 import re, subprocess, sys, datetime, collections
 
-DAYS = 30
+DAYS = 60
 if '--days' in sys.argv:
     DAYS = int(sys.argv[sys.argv.index('--days') + 1])
 STAMP = '--no-stamp' not in sys.argv
