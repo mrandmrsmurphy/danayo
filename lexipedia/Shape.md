@@ -136,6 +136,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[片](../words/片.md)<rt>ㄆㄝㄋ</rt></ruby>: a slice, flake — a thin flat piece, distinct from [[塊]]'s solid chunk; also one of [[Food]]'s own cutting-style morphemes (片, "sliced").
 - <ruby>[一体](../words/一体.md)<rt>ㄧㄊㄊㄝㄧ</rt></ruby>: an organic whole, unity — [[部分]]'s structural counterpart, things functioning as one rather than a mere assemblage; distinct from [[全体]]'s quantitative "all of it, the entirety" (not yet placed).
 - <ruby>[特点](../words/特点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a feature, characteristic, trait.
+- <ruby>[特徴](../words/特徴.md)<rt>ㄉㄜㄎㄉㄧㄫ</rt></ruby>: a distinguishing feature, the identifying mark — the analytic counterpart of [[特点]].
 - <ruby>[斑点](../words/斑点.md)<rt>ㄅㄚㄋㄉㄝㄇ</rt></ruby>: a spot, speck.
 - <ruby>[表面](../words/表面.md)<rt>ㄅ⼘ㄨㄇ⼶ㄋ</rt></ruby>: a surface — the everyday, general word.
 - <ruby>[上面](../words/上面.md)<rt>ㄙ⼘ㄫㄇ⼶ㄋ</rt></ruby>: a surface — a more formal/technical register than [[表面]], specifically "the upper surface."
