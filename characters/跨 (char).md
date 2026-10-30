@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*kʷʰraː): semantic [[Radical 157|足]] ("foot") + phonetic 夸 (no character page in this vault, OC \*kʷʰraː, an exact match) — to step over, to straddle; to span, to ride. Variants [[𡕒]] and [[㐄]] confirmed via both English and Chinese Wiktionary.
+- 形聲 (OC \*kʷʰraː): semantic [[Radical 157|足]] ("foot") + phonetic 夸 (no character page in this vault, OC \*kʷʰraː, an exact match) — to step over, to straddle; to span, to ride. Variants *𡕒* and *㐄* confirmed via both English and Chinese Wiktionary.
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 麻二合|ɣua]] → [ㄎ⺢](../syllables/ㄎ⺢.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)

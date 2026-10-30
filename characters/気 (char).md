@@ -44,7 +44,7 @@ boundedness: 50
 ```
 
 ## Notes
-- 形声 (OC *kʰɯds): semantic [[米]] ("rice") + phonetic [[气]] (OC *kʰɯds) — vapors rising from cooking grain; 気 is the shinjitai-simplified form of 氣, whose own original form 气 was a bare pictograph of rising cloud-vapor.
+- 形声 (OC *kʰɯds): semantic [[米]] ("rice") + phonetic *气* (OC *kʰɯds) — vapors rising from cooking grain; 気 is the shinjitai-simplified form of 氣, whose own original form 气 was a bare pictograph of rising cloud-vapor.
 - [SKIP-3-4-2](../lookup/SKIP/SKIP-3/SKIP-3-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 126th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄎㄧㄜ](../syllables/ㄎㄧㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

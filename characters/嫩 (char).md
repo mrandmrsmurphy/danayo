@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 038|女]] ("woman") + phonetic 敕 (no character page in this vault) — delicate, tender, young; soft and unhardened (as of a plant shoot or young skin). Variants [[嫰]] and [[媆]] confirmed via both English and Chinese Wiktionary.
+- 形聲: semantic [[Radical 038|女]] ("woman") + phonetic 敕 (no character page in this vault) — delicate, tender, young; soft and unhardened (as of a plant shoot or young skin). Variants *嫰* and *媆* confirmed via both English and Chinese Wiktionary.
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 9163rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄋㄛㄋ](../syllables/ㄋㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)

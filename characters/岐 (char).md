@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*ɡe): semantic [[山]] ("mountain") + phonetic [[支 (char)|支]] — originally the place name 岐山 (Mount Qi); an alternative form of [[歧]] "fork in the road, divergent."
+- 形声 (OC \*ɡe): semantic [[山]] ("mountain") + phonetic [[支 (char)|支]] — originally the place name 岐山 (Mount Qi); an alternative form of *歧* "fork in the road, divergent."
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 982nd most used character in Classical Chinese (recorded under the traditional form 歧). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄍㄝ](../syllables/ㄍㄝ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)

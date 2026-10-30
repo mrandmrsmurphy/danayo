@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 061|心]] ("heart") + phonetic [[閔]] — to pity, to sympathize, to feel compassion for; sorrowful, grieved. Simplified form [[悯]] and variant [[愍]] both confirmed via both English and Chinese Wiktionary; excluded 閔/闵, which despite also being listed as a variant, has its own full character page with a distinct dominant meaning ("urge, incite").
+- 形聲: semantic [[Radical 061|心]] ("heart") + phonetic [[閔]] — to pity, to sympathize, to feel compassion for; sorrowful, grieved. Simplified form *悯* and variant *愍* both confirmed via both English and Chinese Wiktionary; excluded 閔/闵, which despite also being listed as a variant, has its own full character page with a distinct dominant meaning ("urge, incite").
 - [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 4366th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄇㄧㄋ](../syllables/ㄇㄧㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

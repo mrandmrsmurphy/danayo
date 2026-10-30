@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*ɢuːn): semantic [[鬼]] ("ghost") + phonetic [[雲 (char)|云]] (OC \*ɢun, an exact match) — the soul, the spirit (specifically the yang/ethereal soul in Chinese cosmology, paired with 魄, the yin/corporeal soul). Variant [[䰟]] confirmed via both English and Chinese Wiktionary.
+- 形聲 (OC \*ɢuːn): semantic [[鬼]] ("ghost") + phonetic [[雲 (char)|云]] (OC \*ɢun, an exact match) — the soul, the spirit (specifically the yang/ethereal soul in Chinese cosmology, paired with 魄, the yin/corporeal soul). Variant *䰟* confirmed via both English and Chinese Wiktionary.
 - [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄏㄛㄋ](../syllables/ㄏㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

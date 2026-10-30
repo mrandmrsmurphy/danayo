@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 075|木]] ("wood") + phonetic [[倉]] — a spear, a lance; extended in modern usage to "gun, rifle." Variant [[鎗]] confirmed via both English and Chinese Wiktionary; excluded 鑓 (a Japanese-only form, not corroborated on Chinese Wiktionary).
+- 形聲: semantic [[Radical 075|木]] ("wood") + phonetic [[倉]] — a spear, a lance; extended in modern usage to "gun, rifle." Variant *鎗* confirmed via both English and Chinese Wiktionary; excluded 鑓 (a Japanese-only form, not corroborated on Chinese Wiktionary).
 - [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 4006th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄑ⺢ㄫ](../syllables/ㄑ⺢ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)

@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 120|糸]] ("silk, thread") + phonetic [[札 (char)|札]] — to tie, bind, fasten. Simplified form [[扎]] and variant [[紥]] both confirmed via both English and Chinese Wiktionary.
+- 形聲: semantic [[Radical 120|糸]] ("silk, thread") + phonetic [[札 (char)|札]] — to tie, bind, fasten. Simplified form *扎* and variant *紥* both confirmed via both English and Chinese Wiktionary.
 - [SKIP-2-5-6](../lookup/SKIP/SKIP-2/SKIP-2-5-6.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄐㄚㄊ](../syllables/ㄐㄚㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)

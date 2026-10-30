@@ -53,7 +53,7 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形聲 (OC \*suː): semantic [[Radical 064|手]] ("hand") + phonetic [[蚤]] (OC \*ʔsuːʔ, "flea, louse," a close match) — to scratch; by extension, a pruritic skin disease (archaic).
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 3326th most used character in Classical Chinese (tracked under the traditional form [[搔]]). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](../syllables/ㄙㄚㄨ.md)
+- 3326th most used character in Classical Chinese (tracked under the traditional form *搔*). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](../syllables/ㄙㄚㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 
 ## Words

@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): oracle-bone/seal form depicts two hands ([[Lookup/Radicals/Radical 055|廾]]) sweeping away scattered dots (filth), originally meaning "to sweep"; the modern form reinterprets these as grains of [[米 (char)|米]], with the meaning narrowing to excrement, dung, manure. Variant [[𥻔]] and simplified [[粪]] confirmed via both English and Chinese Wiktionary.
+- [List of 象形](../lookup/List%20of%20象形.md): oracle-bone/seal form depicts two hands ([[Lookup/Radicals/Radical 055|廾]]) sweeping away scattered dots (filth), originally meaning "to sweep"; the modern form reinterprets these as grains of [[米 (char)|米]], with the meaning narrowing to excrement, dung, manure. Variant *𥻔* and simplified *粪* confirmed via both English and Chinese Wiktionary.
 - [SKIP-2-6-11](../lookup/SKIP/SKIP-2/SKIP-2-6-11.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄈㄨㄇ](../syllables/ㄈㄨㄇ.md). Pronunciation altered to -m (dodging a crowded ㄈㄨㄋ cluster shared with 奮/芬/粉/雰) so that there's no homophony.
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)

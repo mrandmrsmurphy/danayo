@@ -48,7 +48,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*naːl/\*naːlʔ/\*naːls): semantic [[邑]] ("city" — originally a state name) + phonetic [[冉]] (OC \*njam/\*njamʔ) — later borrowed for the distal demonstrative "then; in that case." `aliases` lists [[哪]] (the interrogative "which; where"): historically the same written form until the two senses were graphically split apart in the 20th century, though 哪 is itself considered a fusion of 奈何 rather than a direct etymological descendant of 那.
+- 形聲 (OC \*naːl/\*naːlʔ/\*naːls): semantic [[邑]] ("city" — originally a state name) + phonetic [[冉]] (OC \*njam/\*njamʔ) — later borrowed for the distal demonstrative "then; in that case." `aliases` lists *哪* (the interrogative "which; where"): historically the same written form until the two senses were graphically split apart in the 20th century, though 哪 is itself considered a fusion of 奈何 rather than a direct etymological descendant of 那.
 - [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 3626th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄋㄚ](../syllables/ㄋㄚ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)

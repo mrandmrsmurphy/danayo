@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[秋 (char)|秋]] — a metal shovel or spade; in Japanese, more broadly any earth-working tool (plough, hoe, harrow). Simplified form [[锹]] confirmed via English Wiktionary.
+- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[秋 (char)|秋]] — a metal shovel or spade; in Japanese, more broadly any earth-working tool (plough, hoe, harrow). Simplified form *锹* confirmed via English Wiktionary.
 - [SKIP-1-8-9](../lookup/SKIP/SKIP-1/SKIP-1-8-9.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md). No attested historical Guangyun entry was found for 鍬 itself (`mc_id: 0`); the stored initial/final are a reconstruction from the phonetic series (秋) rather than a directly attested reading.
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)

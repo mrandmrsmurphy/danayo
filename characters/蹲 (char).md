@@ -52,7 +52,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 157|足]] ("foot") + phonetic [[尊]] — to squat, crouch. Variants [[壿]]/[[踆]]/[[躦]]/[[鷷]] all confirmed via Chinese Wiktionary.
+- 形聲: semantic [[Radical 157|足]] ("foot") + phonetic [[尊]] — to squat, crouch. Variants *壿*/*踆*/*躦*/*鷷* all confirmed via Chinese Wiktionary.
 - [SKIP-1-7-12](../lookup/SKIP/SKIP-1/SKIP-1-7-12.md) ([Stroke 19](../lookup/Stroke/Stroke%2019.md))
 - Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄐㄛㄋ](../syllables/ㄐㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)

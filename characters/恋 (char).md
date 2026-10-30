@@ -45,9 +45,9 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*b·rons): semantic [[Radical 061|心]] ("heart") + phonetic [[乱|䜌]] (OC \*b·roːn/\*b·ron/\*b·rons; an alias of [[乱]], per its own `aliases` field) — "romance; romantic love." Shinjitai for traditional [[戀]] (listed among this character's `aliases`).
+- 形聲 (OC \*b·rons): semantic [[Radical 061|心]] ("heart") + phonetic [[乱|䜌]] (OC \*b·roːn/\*b·ron/\*b·rons; an alias of [[乱]], per its own `aliases` field) — "romance; romantic love." Shinjitai for traditional *戀* (listed among this character's `aliases`).
 - [SKIP-2-2-8](../lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
-- 3591st most used character in Classical Chinese, recorded under the alias [[戀]]. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄌㄝㄋ](../syllables/ㄌㄝㄋ.md)
+- 3591st most used character in Classical Chinese, recorded under the alias *戀*. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄌㄝㄋ](../syllables/ㄌㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words

@@ -48,7 +48,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC *ɢlɯʔ): semantic [[Radical 111|矢]] ("arrow") + phonetic [[以 (char)|以]] (via its old form 㠯, OC *lɯʔ) — a sentence-final particle expressing completion or emphasis ("indeed"), comparable to 了 or 啦 in Mandarin. Variants [[𠤘]]/[[𢦕]]/[[𡗞]] confirmed via Chinese Wiktionary; excluded [[欸]], confirmed a genuinely distinct derived character (phono-semantic compound: phonetic 矣 + semantic 欠) rather than a variant of 矣 itself — its own meaning ("hey," an interjection) had wrongly leaked onto this page's `english` field and propagated to several shared lookup pages, all now corrected.
+- 形声 (OC *ɢlɯʔ): semantic [[Radical 111|矢]] ("arrow") + phonetic [[以 (char)|以]] (via its old form 㠯, OC *lɯʔ) — a sentence-final particle expressing completion or emphasis ("indeed"), comparable to 了 or 啦 in Mandarin. Variants *𠤘*/*𢦕*/*𡗞* confirmed via Chinese Wiktionary; excluded [[欸]], confirmed a genuinely distinct derived character (phono-semantic compound: phonetic 矣 + semantic 欠) rather than a variant of 矣 itself — its own meaning ("hey," an interjection) had wrongly leaked onto this page's `english` field and propagated to several shared lookup pages, all now corrected.
 - [SKIP-2-2-5](../lookup/SKIP/SKIP-2/SKIP-2-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 皆開|ɣɛi]] → [⼔](../syllables/⼔.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md)

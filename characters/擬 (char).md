@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 064|手]] ("hand") + phonetic [[疑]] — to compare, imitate; to plan, draft, propose. Simplified form [[拟]] and variant [[儗]] both confirmed via English and Chinese Wiktionary.
+- 形聲: semantic [[Radical 064|手]] ("hand") + phonetic [[疑]] — to compare, imitate; to plan, draft, propose. Simplified form *拟* and variant *儗* both confirmed via English and Chinese Wiktionary.
 - [SKIP-1-3-14](../lookup/SKIP/SKIP-1/SKIP-1-3-14.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄧ](../syllables/ㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)

@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[固]] — to solder or seal metal into cracks; to block, to confine, to imprison. Simplified form [[锢]] is a genuine variant.
+- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[固]] — to solder or seal metal into cracks; to block, to confine, to imprison. Simplified form *锢* is a genuine variant.
 - [SKIP-2-8-8](../lookup/SKIP/SKIP-2/SKIP-2-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄍㄛ](../syllables/ㄍㄛ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)

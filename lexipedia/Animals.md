@@ -74,7 +74,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[鴻鵠](../words/鴻鵠.md)<rt>ㄏㄛㄫㄏㄛㄎ</rt></ruby>: swan, wild swan.
 - <ruby>[白鳥](../words/白鳥.md)<rt>ㄅㄚㄎㄑㄛㄨ</rt></ruby>: white bird, white swan.
 - <ruby>[天鵝](../words/天鵝.md)<rt>ㄊㄝㄋ·ㄚ</rt></ruby>: a swan; Cygnus.
-- <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby>: a bat.
+- <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby>: a bat — a poetic synonym of <ruby>[蝙蝠](../words/蝙蝠.md)<rt>ㄅㄝㄋㄈㄨㄎ</rt></ruby>, not the flying squirrel <ruby>[飛鼠](../words/飛鼠.md)<rt>ㄈㄝㄧㄙ⼄</rt></ruby>.
 - <ruby>[旅鼠](../words/旅鼠.md)<rt>ㄌ⼄ㄙ⼄</rt></ruby>: a lemming.
 - <ruby>[雉](../words/雉.md)<rt>ㄉㄧㄜ</rt></ruby>: green pheasant.
 - <ruby>[堅鳥](../words/堅鳥.md)<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby>: booby, the "bonito bird" — a seabird that follows schools of skipjack, named after the fish [堅魚](../words/堅魚.md).
@@ -332,7 +332,7 @@ One rank below [域階](../words/域階.md) ("Domain") itself, Dan'a'yo already 
 - <ruby>[虱](../words/虱.md)<rt>ㄙㄛㄊ</rt></ruby>: louse (lice).
 - <ruby>[虹尊](../words/虹尊.md)<rt>ㄏㄛㄫㄐㄛㄋ</rt></ruby>: rainbow trout.
 - <ruby>[蛾](../words/蛾.md)<rt>ㄚ</rt></ruby>: moth.
-- <ruby>[蝙蝠](../words/蝙蝠.md)<rt>ㄅㄝㄋㄈㄨㄎ</rt></ruby>: bat.
+- <ruby>[蝙蝠](../words/蝙蝠.md)<rt>ㄅㄝㄋㄈㄨㄎ</rt></ruby>: bat, the standard word; <ruby>[天鼠](../words/天鼠.md)<rt>ㄊㄝㄋㄙ⼄</rt></ruby> is a synonym, and the flying squirrel <ruby>[飛鼠](../words/飛鼠.md)<rt>ㄈㄝㄧㄙ⼄</rt></ruby> is a different animal.
 - <ruby>[蝸牛](../words/蝸牛.md)<rt>ㄍ⺢·ㄋ⼜</rt></ruby>: snail.
 - <ruby>[袋鼠](../words/袋鼠.md)<rt>ㄉㄚㄧㄙ⼄</rt></ruby>: kangaroo.
 - <ruby>[跳蚤](../words/跳蚤.md)<rt>ㄊㄛㄨㄐㄚㄨ</rt></ruby>: flea.

@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 會意 (OC \*kʷaːɡ): "tall building" (亯/high, no vault page) + [[邑]] ("city") — "outer city wall," extended to "outline." Its alias [[廓]] (no vault page) shares this reading and is used as 郭 in [[郭清]] and [[輪郭]].
+- 會意 (OC \*kʷaːɡ): "tall building" (亯/high, no vault page) + [[邑]] ("city") — "outer city wall," extended to "outline." Its alias *廓* (no vault page) shares this reading and is used as 郭 in [[郭清]] and [[輪郭]].
 - [SKIP-1-8-3](../lookup/SKIP/SKIP-1/SKIP-1-8-3.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 821st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鈬合|wɑk]] → [ㄍ⺢ㄎ](../syllables/ㄍ⺢ㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

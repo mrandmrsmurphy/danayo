@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[兼]] — a sickle. Variant [[鐮]] confirmed via Chinese Wiktionary.
+- 形聲: semantic [[Radical 167|金]] ("metal") + phonetic [[兼]] — a sickle. Variant *鐮* confirmed via Chinese Wiktionary.
 - [SKIP-1-8-10](../lookup/SKIP/SKIP-1/SKIP-1-8-10.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄌㄝㄇ](../syllables/ㄌㄝㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
