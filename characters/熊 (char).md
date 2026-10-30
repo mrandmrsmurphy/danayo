@@ -10,9 +10,9 @@ vietnamese:
   - hùng
 middle_chinese_initial: "ø"
 middle_chinese_final: "ɨuŋ"
-stroke_count: 24
+stroke_count: 14
 radical: "火"
-skip_number: 2-10-14
+skip_number: 2-10-4
 grade_level: "名"
 pos: "名詞"
 english:

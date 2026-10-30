@@ -1,7 +1,7 @@
 ---
 stroke_count: 14
 date-last-perfect: 2026-10-03
-size: 193
+size: 194
 tags:
   - lookup
 ---
@@ -27,7 +27,7 @@ tags:
 - 2-7-7: <ruby>[[墨]]<rt>ㄇㄨㄎ</rt></ruby>, <ruby>[[誓]]<rt>ㄙㄝ</rt></ruby>
 - 2-8-6: <ruby>[[聚]]<rt>ㄑㄨㄧ</rt></ruby>, <ruby>[[製]]<rt>ㄐㄝ</rt></ruby>, <ruby>[[需]]<rt>ㄙㄨ</rt></ruby>, <ruby>[[裴]]<rt>ㄅㄨㄧ</rt></ruby>, <ruby>[[肇]]<rt>ㄐㄚㄨ</rt></ruby>
 - 2-9-5: <ruby>[[碧]]<rt>ㄅ⼶ㄎ</rt></ruby>
-- 2-10-4: <ruby>[[髪]]<rt>ㄈㄚㄊ</rt></ruby>, <ruby>[[態]]<rt>ㄊㄚㄧ</rt></ruby>, <ruby>[[敲 (char)|敲]]<rt>ㄎ⼘ㄨ</rt></ruby>, <ruby>[[慕]]<rt>ㄇㄛ</rt></ruby>, <ruby>[[熙]]<rt>ㄏㄧ</rt></ruby>, <ruby>[[愨]]<rt>ㄎㄚㄎ</rt></ruby>
+- 2-10-4: <ruby>[[髪]]<rt>ㄈㄚㄊ</rt></ruby>, <ruby>[[態]]<rt>ㄊㄚㄧ</rt></ruby>, <ruby>[[敲 (char)|敲]]<rt>ㄎ⼘ㄨ</rt></ruby>, <ruby>[[慕]]<rt>ㄇㄛ</rt></ruby>, <ruby>[[熙]]<rt>ㄏㄧ</rt></ruby>, <ruby>[[熊 (char)|熊]]<rt>ㄨㄫ</rt></ruby>, <ruby>[[愨]]<rt>ㄎㄚㄎ</rt></ruby>
 - 2-11-3: <ruby>[[墊 (char)|墊]]<rt>ㄉㄧㄆ</rt></ruby>, <ruby>[[塾]]<rt>ㄙㄨㄎ</rt></ruby>
 - 3-2-12: <ruby>[[鳳]]<rt>ㄆㄨㄫ</rt></ruby>, <ruby>[[暦 (char)|暦]]<rt>ㄌㄝㄎ</rt></ruby>, <ruby>[[歴]]<rt>ㄌㄝㄎ</rt></ruby>
 - 3-3-11: <ruby>[[屢 (char)|屢]]<rt>ㄌㄨ</rt></ruby>, <ruby>[[腐]]<rt>ㄆㄨ</rt></ruby>, <ruby>[[層 (char)|層]]<rt>ㄑㄜㄫ</rt></ruby>, <ruby>[[遭]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[遮]]<rt>ㄐㄚ</rt></ruby>, <ruby>[[塵]]<rt>ㄐㄧㄋ</rt></ruby>
