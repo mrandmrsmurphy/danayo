@@ -53,6 +53,15 @@ In ancient East Asian thought, the world was divided into the Four Seas and the 
 - <ruby>[兗州](../words/兗州.md)<rt>⼶ㄋㄐㄨㄛ</rt></ruby>: Yan Province, one of the Nine Provinces.
 - <ruby>[荊州](../words/荊州.md)<rt>ㄎ⼶ㄫㄐㄨㄛ</rt></ruby>: Jing Province, one of the Nine Provinces.
 - <ruby>[王畿](../words/王畿.md)<rt>⺢ㄫㄍㄧㄜ</rt></ruby>: the royal domain, the land the Zhou king ruled directly around his capital.
+- <ruby>[九州](../words/九州.md)<rt>ㄎ⼜ㄐㄨㄛ</rt></ruby>: the Nine Provinces, the legendary division of the realm; also Kyushu, the Japanese island.
+- <ruby>[予州](../words/予州.md)<rt>⼄ㄐㄨㄛ</rt></ruby>: Yu Province (豫州), the central one of the Nine Provinces, roughly modern Henan.
+- <ruby>[希州](../words/希州.md)<rt>ㄏㄧㄜㄐㄨㄛ</rt></ruby>: Ji Province, one of the Nine Provinces.
+- <ruby>[徐州](../words/徐州.md)<rt>ㄙ⼄ㄐㄨㄛ</rt></ruby>: Xu Province, one of the Nine Provinces.
+- <ruby>[揚州](../words/揚州.md)<rt>⼘ㄫㄐㄨㄛ</rt></ruby>: Yang Province, one of the Nine Provinces.
+- <ruby>[梁州](../words/梁州.md)<rt>ㄌ⼘ㄫㄐㄨㄛ</rt></ruby>: Liang Province, one of the Nine Provinces.
+- <ruby>[雍州](../words/雍州.md)<rt>ㄛㄫㄐㄨㄛ</rt></ruby>: Yong Province, one of the Nine Provinces.
+- <ruby>[青州](../words/青州.md)<rt>ㄑㄝㄫㄐㄨㄛ</rt></ruby>: Qing Province, one of the Nine Provinces.
+- <ruby>[中原](../words/中原.md)<rt>ㄐㄨㄫ·⼔ㄋ</rt></ruby>: the Central Plains, the Yellow River heartland of Chinese civilization.
 
 ## Landforms and borders
 - <ruby>[山地](../words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>: mountain
@@ -90,6 +99,9 @@ Borders and areas:
 - <ruby>[他郷](../words/他郷.md)<rt>ㄊㄜㄏ⼘ㄫ</rt></ruby>: foreign land
 - <ruby>[西洋](../words/西洋.md)<rt>ㄙㄝㄧ⼘ㄫ</rt></ruby>: the West
 - <ruby>[英語圏](../words/英語圏.md)<rt>ㄝㄫ⼄ㄍ⼔ㄋ</rt></ruby>: Anglosphere
+- <ruby>[蘇連](../words/蘇連.md)<rt>ㄙㄛㄌ⼶ㄋ</rt></ruby>: the Soviet Union.
+- <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>: the Republic of Korea, South Korea; the official full name beside the everyday <ruby>[韓国](../words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>. See [Korea](Korea.md).
+- <ruby>[亜細亜](../words/亜細亜.md)<rt>ㄚㄙㄝㄧ·ㄚ</rt></ruby>: Asia, the fuller classical transliteration beside <ruby>[亜洲](../words/亜洲.md)<rt>ㄚㄐㄨㄛ</rt></ruby>. See [Society](Society.md) for its cultural sense.
 
 ## Regions
 
@@ -220,6 +232,21 @@ The countries of Central America have no words yet; see "Not yet coined" below.
 - <ruby>[環状](../words/環状.md)<rt>ㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: ring-shaped, annular, as in a ring road.
 - <ruby>[密度](../words/密度.md)<rt>ㄇㄧㄊㄉㄛ</rt></ruby>: density, as in population density.
 - <ruby>[拡散](../words/拡散.md)<rt>ㄏ⺢ㄎㄙㄚㄋ</rt></ruby>: to diffuse, spread across a region.
+- <ruby>[地理](../words/地理.md)<rt>ㄉㄧㄜㄌㄧ</rt></ruby>: geography, the lie of a land and the study of it.
+- <ruby>[地域](../words/地域.md)<rt>ㄉㄧㄜㄨㄧㄎ</rt></ruby>: a district, region, locality.
+- <ruby>[分布](../words/分布.md)<rt>ㄅㄨㄋㄅㄛ</rt></ruby>: distribution, how things are spread across a region.
+- <ruby>[熱帯](../words/熱帯.md)<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby>: the tropics, the hot zone around the equator.
+- <ruby>[商路](../words/商路.md)<rt>ㄙ⼘ㄫㄌㄛ</rt></ruby>: a trade route.
+- <ruby>[界線](../words/界線.md)<rt>ㄍ⼶ㄙ⼶ㄋ</rt></ruby>: a boundary line, dividing line.
+- <ruby>[界水](../words/界水.md)<rt>ㄍ⼶ㄙㄨ</rt></ruby>: boundary water, water that marks a border.
+- <ruby>[要地](../words/要地.md)<rt>⼄ㄨㄉㄧㄜ</rt></ruby>: a strategic location, key point.
+- <ruby>[資源](../words/資源.md)<rt>ㄐㄧㄜ⼔ㄋ</rt></ruby>: resources, especially natural resources.
+- <ruby>[持続](../words/持続.md)<rt>ㄉㄧㄙ⼄ㄎ</rt></ruby>: continuous, sustained; to persist.
+- <ruby>[多様](../words/多様.md)<rt>ㄉㄜ⼘ㄫ</rt></ruby>: diverse, diversity.
+- <ruby>[語言](../words/語言.md)<rt>⼄ㄝㄋ</rt></ruby>: language, speech, as a feature of a region.
+- <ruby>[媒体](../words/媒体.md)<rt>ㄇㄛㄧㄊㄝㄧ</rt></ruby>: a medium, media, the channel that carries information.
+- <ruby>[宇宙観](../words/宇宙観.md)<rt>ㄨㄐㄨㄛㄍ⺢ㄋ</rt></ruby>: cosmology, a worldview; a people's picture of the universe.
+- <ruby>[東伝](../words/東伝.md)<rt>ㄉㄛㄫㄐ⼔ㄋ</rt></ruby>: eastward transmission, above all of Buddhism from India to East Asia.
 
 ## Named places
 Rivers, districts and other features whose names are not a country:
@@ -231,6 +258,8 @@ Rivers, districts and other features whose names are not a country:
 - <ruby>[瀧川](../words/瀧川.md)<rt>ㄌㄛㄫㄑ⺢ㄋ</rt></ruby>: Takigawa, "waterfall river," also a Japanese surname.
 - <ruby>[四国](../words/四国.md)<rt>ㄙㄧㄜㄍㄛㄎ</rt></ruby>: Shikoku
 - <ruby>[金角湾](../words/金角湾.md)<rt>ㄍㄧㄇㄍㄛㄎ·⺢ㄇ</rt></ruby>: the Golden Horn, the inlet of the Bosphorus at Istanbul; also the Golden Horn Bay at Vladivostok.
+- <ruby>[漢城](../words/漢城.md)<rt>ㄏㄚㄋㄙㄧㄫ</rt></ruby>: Hanseong, the Joseon-era name of Seoul.
+- <ruby>[九龍](../words/九龍.md)<rt>ㄎ⼜ㄌ⼄ㄫ</rt></ruby>: Kowloon, the district of Hong Kong opposite Hong Kong Island.
 - <ruby>[辺境](../words/辺境.md)<rt>ㄅㄝㄋㄍ⼶ㄫ</rt></ruby>: frontier
 
 ## Not yet coined
@@ -246,6 +275,12 @@ These countries and features appear on the page without a word of their own. The
 
 ## International system
 - <ruby>[基金](../words/基金.md)<rt>ㄍㄧㄍㄧㄇ</rt></ruby>: a fund, as in the International Monetary Fund.
+- <ruby>[中央情報局](../words/中央情報局.md)<rt>ㄐㄨㄫ⼘ㄫㄑㄧㄫㄅㄚㄨㄍ⼄ㄎ</rt></ruby>: the Central Intelligence Agency, the CIA.
+- <ruby>[協議](../words/協議.md)<rt>ㄏㄝㄆㄜㄧ</rt></ruby>: negotiation, consultation, or the agreement reached by it.
+- <ruby>[多辺](../words/多辺.md)<rt>ㄉㄜㄅㄝㄋ</rt></ruby>: multilateral, as in 多辺協議.
+- <ruby>[対外](../words/対外.md)<rt>ㄉㄛㄧ⺢ㄧ</rt></ruby>: foreign, external, directed toward other countries.
+- <ruby>[内乱](../words/内乱.md)<rt>ㄋㄛㄧㄌㄚㄋ</rt></ruby>: civil strife, rebellion within a state.
+- <ruby>[殖民](../words/殖民.md)<rt>ㄙㄧㄎㄇㄧㄋ</rt></ruby>: colonization, the settling and rule of a foreign land.
 Institutions and the state system are on [Government](Government.md): <ruby>[連合国](../words/連合国.md)<rt>ㄌ⼶ㄋㄍㄛㄆㄍㄛㄎ</rt></ruby>, and the trade and monetary bodies. States hold <ruby>[主権](../words/主権.md)<rt>ㄐㄨㄍ⼔ㄋ</rt></ruby> as a basic principle.
 
 ## Semantic Range Notes

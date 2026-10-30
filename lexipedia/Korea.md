@@ -43,6 +43,7 @@ date-last-perfect: 2026-10-11
 - <ruby>[高麗](../words/高麗.md)<rt>ㄍㄚㄨㄌㄝ</rt></ruby>: Goryeo, the Korean dynasty that succeeded Unified Silla in 918 under Wang Geon and lasted until 1392, the origin of the exonym "Korea"; named in echo of 高句麗.
 - <ruby>[李朝](../words/李朝.md)<rt>ㄌㄧㄐㄚㄨ</rt></ruby>: the Yi dynasty, an older Chinese and Japanese name for Joseon (<ruby>朝鮮<rt>ㄐㄚㄨㄙ⼶ㄇ</rt></ruby>), the dynasty founded in 1392 by Yi Seong-gye after Goryeo (<ruby>高麗<rt>ㄍㄚㄨㄌㄝ</rt></ruby>); the same spelling is the Lý dynasty of Vietnam, listed on Vietnam.
 - <ruby>[大韓帝国](../words/大韓帝国.md)<rt>ㄉㄚㄧㄏㄚㄋㄊㄝㄧㄍㄛㄎ</rt></ruby>: the Korean Empire, the name Joseon took in 1897 and kept until the Japanese annexation of 1910; the "Han" of <ruby>大韓民国<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby> descends from it.
+- <ruby>[大韓民国](../words/大韓民国.md)<rt>ㄉㄚㄧㄏㄚㄋㄇㄧㄋㄍㄛㄎ</rt></ruby>: the Republic of Korea, South Korea, founded in 1948; the official full name beside the everyday <ruby>[韓国](../words/韓国.md)<rt>ㄏㄚㄋㄍㄛㄎ</rt></ruby>.
 
 ## Provinces
 A province is a bare name plus <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby> "province", and most of the bare names are the joined first characters of two old chief cities. Three of them were split in 1896 into <ruby>[北](../characters/北.md)<rt>ㄅㄨㄎ</rt></ruby> "north" and <ruby>[南](../characters/南.md)<rt>ㄋㄚㄇ</rt></ruby> "south" halves, which is why the full names come in pairs.

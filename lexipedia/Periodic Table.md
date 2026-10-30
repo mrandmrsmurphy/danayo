@@ -69,6 +69,7 @@ Element 111 (roentgenium, 錀) also lends its phonetic to <ruby>[錀琴](../word
 ## Related Concepts & Compounds
 
 - <ruby>[元素](../words/元素.md)<rt>⼔ㄋㄙㄛ</rt></ruby>: element, the general noun this whole table classifies.
+- <ruby>[徳](../words/徳.md)<rt>ㄊㄨㄎ</rt></ruby>: short for germanium, as in <ruby>[徳素](../words/徳素.md)<rt>ㄊㄨㄎㄙㄛ</rt></ruby>; also "virtue", see [Society](Society.md).
 - <ruby>[苦土](../words/苦土.md)<rt>ㄎㄛ·ㄊㄛ</rt></ruby>: magnesia, magnesium oxide — the historical compound magnesium was isolated from, and the direct source of magnesium's own Dan'a'yo name, [[苦土素]].
 - <ruby>[硝石](../words/硝石.md)<rt>ㄙ⼄ㄨㄙㄝㄎ</rt></ruby>: saltpetre, potassium nitrate — a historically important potassium compound (gunpowder, food preservation), unrelated in coinage to [[鉀]]'s own name.
 

@@ -76,4 +76,4 @@ boundedness: 50
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"
 
 ## Links
-![[nav/Numerals]]
+![[nav/numerals]]

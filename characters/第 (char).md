@@ -65,4 +65,4 @@ boundedness: 90
 - <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
 
 ## Links
-![[nav/Numerals]]
+![[nav/numerals]]

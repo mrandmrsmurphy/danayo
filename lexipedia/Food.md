@@ -176,6 +176,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[酵母](../words/酵母.md)<rt>ㄍ⼄ㄨㄇㄛㄨ</rt></ruby>: yeast, leaven — the fermenting fungus used in brewing and baking; the agent behind the wine, beer and bread above.
 - <ruby>[渇](../words/渇.md)<rt>ㄎㄚㄊ</rt></ruby>: thirst, thirsty.
 - <ruby>[茉莉](../words/茉莉.md)<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby>: white jasmine (tea-flavoring).
+- <ruby>[珈啡因](../words/珈啡因.md)<rt>ㄎㄚㄈㄧㄧㄋ</rt></ruby>: caffeine, the bitter alkaloid of coffee and tea.
 
 ### Fishing & Harvest
 

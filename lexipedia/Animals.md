@@ -120,6 +120,7 @@ Folk-classified together here as "small creepy-crawlies," the way [昆虫](../wo
 - <ruby>[螟蛉](../words/螟蛉.md)<rt>ㄇㄝㄫㄌㄝㄫ</rt></ruby>: stem borer larva; adopted son (literary) — the caterpillar of the Odes, whose supposed adoption by the sand wasp made the word the classical term for an adopted son.
 - <ruby>[蠕虫](../words/蠕虫.md)<rt>ㄋㄨㄐㄨㄫ</rt></ruby>: worm.
 - <ruby>[回虫](../words/回虫.md)<rt>ㄏㄛㄧㄐㄨㄫ</rt></ruby>: roundworm, intestinal worm.
+- <ruby>[地龍](../words/地龍.md)<rt>ㄉㄧㄜㄌ⼄ㄫ</rt></ruby>: an earthworm, literally "earth dragon".
 - <ruby>[蛭](../words/蛭.md)<rt>ㄐㄧㄊ</rt></ruby>: a leech.
 - <ruby>[丘引](../words/丘引.md)<rt>ㄎ⼜ㄧㄋ</rt></ruby>: earthworm.
 - <ruby>[壁虱](../words/壁虱.md)<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby>: tick, mite, bedbug.

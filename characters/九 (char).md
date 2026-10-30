@@ -81,4 +81,4 @@ boundedness: 75
 - <ruby>[[鳩]]<rt>ㄎ⼜</rt></ruby> "pigeon"
 - <ruby>[[究]]<rt>ㄍ⼜</rt></ruby> "investigate"
 
-![[nav/Numerals]]
+![[nav/numerals]]

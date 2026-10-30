@@ -60,4 +60,4 @@ boundedness: 100
 - <ruby>[[澪]]<rt>ㄌㄝㄫ</rt></ruby> "waterway"
 
 ## Links
-![[nav/Numerals]]
+![[nav/numerals]]

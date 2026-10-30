@@ -83,7 +83,7 @@ boundedness: 80
 - <ruby>[[指記二碑]]<rt>ㄐㄧㄜㄍㄧ·ㄋㄧㄜㄅㄧ</rt></ruby> "the two tablets of the law"
 
 ### Links
-![[nav/Numerals]]
+![[nav/numerals]]
 
 ## Derived Characters
 - <ruby>[[貳 (char)|貳]]<rt>ㄋㄧㄜ</rt></ruby> "disloyal; betray"

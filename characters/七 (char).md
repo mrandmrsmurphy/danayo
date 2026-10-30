@@ -78,4 +78,4 @@ boundedness: 75
 - <ruby>[[切 (char)|切]]<rt>ㄑㄝㄊ</rt></ruby> "to cut" (七 + 刀, disambiguating the original "cut" sense once 七 became the numeral)
 - <ruby>[[叱]]<rt>ㄑㄧㄊ</rt></ruby> "to scold, shout at" (七 + 口)
 
-![[nav/Numerals]]
+![[nav/numerals]]

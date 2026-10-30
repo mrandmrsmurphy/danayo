@@ -121,4 +121,4 @@ This character is also Radical 001; fifteen other characters in this vault (七,
 - <ruby>[[戌]]<rt>ㄙㄨㄊ</rt></ruby> "the eleventh earthly branch" (形声, phonetic 一)
 - <ruby>[之 (char)](之%20(char).md)<rt>ㄊㄧ</rt></ruby> "possessive/relative particle" (会意, 止 "foot" + 一 "the starting place")
 
-![[nav/Numerals]]
+![[nav/numerals]]

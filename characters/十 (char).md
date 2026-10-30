@@ -111,4 +111,4 @@ boundedness: 75
 - <ruby>[[汁 (char)|汁]]<rt>ㄐㄜㄆ</rt></ruby> "soup; juice" (形声, phonetic 十)
 - <ruby>[[針 (char)|針]]<rt>ㄐㄧㄇ</rt></ruby> "needle; pin" (形声, phonetic 十)
 
-![[nav/Numerals]]
+![[nav/numerals]]

@@ -90,4 +90,4 @@ where contains(characters, this.file.name)
 sort file.name
 ```
 ### Links
-![[nav/Numerals]]
+![[nav/numerals]]

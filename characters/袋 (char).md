@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声 (OC \*l'ɯːɡs): semantic [[Radical 145|衣]] ("clothing") + phonetic [[代 (char)|代]] — "a sack, bag."
 - [SKIP-2-5-6](../lookup/SKIP/SKIP-2/SKIP-2-5-6.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` is a legitimate sentinel, verified absent rather than guessed.
+- Not present in the Classical Chinese usage ranking's verifiable range (`CC 0000`–`CC 3000`, ranks 1–4000); `mc_id: 0` is a legitimate sentinel, verified absent rather than guessed. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
 
 ## Words

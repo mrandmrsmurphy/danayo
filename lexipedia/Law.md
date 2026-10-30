@@ -144,6 +144,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 - <ruby>[限定](../words/限定.md)<rt>ㄏㄚㄋㄐㄝㄫ</rt></ruby>: restrict; limit.
 - <ruby>[駆逐](../words/駆逐.md)<rt>ㄎㄨㄉㄨㄎ</rt></ruby>: expel; banish; deport.
 - <ruby>[正当](../words/正当.md)<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby>: legitimate; proper.
+- <ruby>[報応](../words/報応.md)<rt>ㄅㄚㄨ·ㄧㄫ</rt></ruby>: retribution, karmic retribution.
 
 ## Semantic Range Notes
 

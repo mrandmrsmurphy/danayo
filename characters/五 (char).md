@@ -92,4 +92,4 @@ boundedness: 75
 - <ruby>[[吾]]<rt>ㄚ</rt></ruby> "I, me" (五 + 口; see there for more descendants)
 
 ### Links
-![[nav/Numerals]]
+![[nav/numerals]]
