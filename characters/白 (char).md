@@ -70,6 +70,7 @@ boundedness: 100
 - <ruby>[[白止]]<rt>ㄅㄚㄎㄐㄧ</rt></ruby> "Angelica dahurica"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨㄛㄫ</rt></ruby> "white-haired old man; grey starling"
 - <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
+- <ruby>[[自白]]<rt>ㄐㄧㄜㄅㄚㄎ</rt></ruby> "confession"
 ## Chengyu
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄊㄛㄨㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"
 ## Derived Characters

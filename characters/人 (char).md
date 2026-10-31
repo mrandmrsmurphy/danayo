@@ -118,6 +118,7 @@ boundedness: 75
 - <ruby>[[賎人]]<rt>ㄐㄝㄋㄋㄧㄋ</rt></ruby> "plebeian, lowly person"
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄·ㄋㄧㄋ</rt></ruby> "rat person"
 - <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"
+- <ruby>[[犯人]]<rt>ㄅㄚㄇㄋㄧㄋ</rt></ruby> "criminal"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

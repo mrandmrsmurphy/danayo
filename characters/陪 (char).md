@@ -51,3 +51,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[陪]]<rt>ㄅㄛㄧ</rt></ruby> "accompany, be with, keep company" (stand-in for 陪)
+- <ruby>[[陪審]]<rt>ㄅㄛㄧㄙㄧㄇ</rt></ruby> "jury"

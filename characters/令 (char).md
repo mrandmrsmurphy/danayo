@@ -69,6 +69,7 @@ boundedness: 85
 - <ruby>[[辞令]]<rt>ㄑㄧㄌㄝㄫ</rt></ruby> "letter of dismissal/letter of resignation"
 - <ruby>[[命令]]<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby> "decree; order; command"
 - <ruby>[[禁令]]<rt>ㄍㄧㄇㄌㄝㄫ</rt></ruby> "prohibition order; ban; edict of prohibition"
+- <ruby>[[令状]]<rt>ㄌㄝㄫㄐ⺢ㄫ</rt></ruby> "warrant"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

@@ -35,30 +35,45 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 
 ## Intermediate (B1–B2)
 
+### People in a Case
+
+- <ruby>[裁判官](../words/裁判官.md)<rt>ㄑㄚㄧㄆㄚㄋㄍ⺢ㄋ</rt></ruby>: judge — the person who presides over a trial; [[審査]] is the verb "to judge, review a case".
+- <ruby>[検察官](../words/検察官.md)<rt>ㄍㄝㄇㄑㄚㄊㄍ⺢ㄋ</rt></ruby>: public prosecutor — the state's official who brings the charge.
+- <ruby>[律師](../words/律師.md)<rt>ㄌㄨㄊㄙㄧㄜ</rt></ruby>: lawyer, attorney — transparent to Chinese and Vietnamese readers; Japanese りっし is a Buddhist rank, and the usual Japanese and Korean word is 弁護士 / 변호사.
+- <ruby>[原告](../words/原告.md)<rt>⼔ㄋㄍㄚㄨ</rt></ruby>: plaintiff.
+- <ruby>[被告](../words/被告.md)<rt>ㄆㄧㄍㄚㄨ</rt></ruby>: defendant, the accused — the counterpart of [[原告]].
+- <ruby>[容疑者](../words/容疑者.md)<rt>⼄ㄫ·ㄧㄑㄚ</rt></ruby>: suspect — a person suspected of a crime but not yet charged; the stage before [[被告]].
+- <ruby>[被害者](../words/被害者.md)<rt>ㄆㄧㄏㄚㄧㄑㄚ</rt></ruby>: victim — the one who is harmed.
+- <ruby>[犯人](../words/犯人.md)<rt>ㄅㄚㄇㄋㄧㄋ</rt></ruby>: criminal, culprit, offender — the one who committed the act, as against a suspect or a convicted prisoner ([[囚徒]]).
+- <ruby>[証人](../words/証人.md)<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby>: witness.
+
 ### Courts & Legal Process
 
 - <ruby>[法庭](../words/法庭.md)<rt>ㄈㄚㄆㄉㄝㄫ</rt></ruby>: court, courtroom — the general term (the legal proceeding/institution).
 - <ruby>[裁判所](../words/裁判所.md)<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby>: courthouse — the building specifically.
+- <ruby>[裁判](../words/裁判.md)<rt>ㄑㄚㄧㄆㄚㄋ</rt></ruby>: trial, judicial proceeding — the process held in the court, as against the building ([[裁判所]]) and the institution ([[法庭]]).
+- <ruby>[陪審](../words/陪審.md)<rt>ㄅㄛㄧㄙㄧㄇ</rt></ruby>: jury — citizens who sit with the court and help reach the verdict.
 - <ruby>[審訊](../words/審訊.md)<rt>ㄙㄧㄇㄙㄧㄋ</rt></ruby>: a judicial hearing, interrogation — formal questioning before an authority.
 - <ruby>[応訊](../words/応訊.md)<rt>ㄧㄫㄙㄧㄋ</rt></ruby>: to question, subpoena.
 - <ruby>[処決](../words/処決.md)<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby>: to handle and decide a case; to execute a sentence.
 - <ruby>[訴訟](../words/訴訟.md)<rt>ㄙㄛㄙ⼄ㄫ</rt></ruby>: a lawsuit, to sue.
 - <ruby>[案件](../words/案件.md)<rt>ㄚㄋㄍ⼶ㄋ</rt></ruby>: a case, a matter at hand — a legal case or any item of business being handled, beside [[訴訟]], the lawsuit itself.
 - <ruby>[告訴](../words/告訴.md)<rt>ㄍㄚㄨㄙㄛ</rt></ruby>: to accuse, file a lawsuit.
+- <ruby>[自白](../words/自白.md)<rt>ㄐㄧㄜㄅㄚㄎ</rt></ruby>: to confess, a confession — to state of oneself what one has done; distinct from [[証言]], a witness's testimony.
+- <ruby>[起訴](../words/起訴.md)<rt>ㄎㄧㄙㄛ</rt></ruby>: to indict, prosecute — to bring a formal charge in court, between [[告訴]]'s "accuse" and the trial itself.
 - <ruby>[受理](../words/受理.md)<rt>ㄙ⼜ㄌㄧ</rt></ruby>: to accept (a case, application or document) — the formal moment when an authority takes up something submitted to it for processing; the receiving side of a filing, where the citizen files and the office accepts or rejects.
 - <ruby>[誣告](../words/誣告.md)<rt>ㄇㄨㄍㄚㄨ</rt></ruby>: to falsely accuse, bring false charges against — distinct from 告訴's neutral "to accuse."
-- <ruby>[原告](../words/原告.md)<rt>⼔ㄋㄍㄚㄨ</rt></ruby>: plaintiff.
-- <ruby>[証人](../words/証人.md)<rt>ㄐㄧㄫㄋㄧㄋ</rt></ruby>: witness.
 - <ruby>[証言](../words/証言.md)<rt>ㄐㄧㄫㄝㄋ</rt></ruby>: to testify.
 - <ruby>[人証](../words/人証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: testimony, personal evidence.
-- <ruby>[控訴](../words/控訴.md)<rt>ㄎㄛㄫㄙㄛ</rt></ruby>: to formally file charges against; to appeal.
-- <ruby>[審査](../words/審査.md)<rt>ㄙㄧㄇㄐㄚ</rt></ruby>: to judge, review a case — the verb only; no dedicated word yet for "a judge" (the person).
+- <ruby>[控訴](../words/控訴.md)<rt>ㄎㄛㄫㄙㄛ</rt></ruby>: to appeal — to bring a case to a higher court after a first judgment, distinct from [[告訴]]'s neutral "to accuse".
+- <ruby>[審査](../words/審査.md)<rt>ㄙㄧㄇㄐㄚ</rt></ruby>: to judge, review a case — the verb; the person is the [[裁判官]].
 - <ruby>[検閲](../words/検閲.md)<rt>ㄍㄝㄇ·⼶ㄊ</rt></ruby>: censorship, inspection — to examine and censor.
 - <ruby>[訟](../words/訟.md)<rt>ㄙ⼄ㄫ</rt></ruby>: to sue, to bring a case to court.
 - <ruby>[榜文](../words/榜文.md)<rt>ㄆㄚㄫㄇㄨㄋ</rt></ruby>: an official proclamation, a publicly posted notice.
 
 ### Verdicts
 
+- <ruby>[判決](../words/判決.md)<rt>ㄆㄚㄋㄎ⼔ㄊ</rt></ruby>: verdict, judgment, ruling — the court's decision at the end of a case.
 - <ruby>[無罪](../words/無罪.md)<rt>ㄇㄜㄐㄛㄧ</rt></ruby>: innocent, not guilty.
 - <ruby>[有罪](../words/有罪.md)<rt>⼜ㄐㄛㄧ</rt></ruby>: guilty.
 
@@ -73,6 +88,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[款](../words/款.md)<rt>ㄎ⺢ㄋ</rt></ruby>: a clause, item, article (in a contract, law, or document) — a subdivision within a larger article, distinct from [[条]]'s own classifier-and-article sense (housed on [[Measurement]]/[[Dimensions]]/[[Shape]] instead).
 - <ruby>[許可](../words/許可.md)<rt>ㄏ⼄·ㄎㄜ</rt></ruby>: license, permission, authorization.
 - <ruby>[召喚状](../words/召喚状.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋㄐ⺢ㄫ</rt></ruby>: summons, subpoena (also <ruby>[召喚](../words/召喚.md)<rt>ㄙ⼄ㄨㄏ⺢ㄋ</rt></ruby>, "to summon," the verb).
+- <ruby>[令状](../words/令状.md)<rt>ㄌㄝㄫㄐ⺢ㄫ</rt></ruby>: warrant, writ — a written court order authorising an arrest or search, beside the summons.
 
 ### Punishment
 
@@ -91,6 +107,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[秩序](../words/秩序.md)<rt>ㄉㄧㄊㄙ⼄</rt></ruby>: law and order, regularity.
 - <ruby>[規範](../words/規範.md)<rt>ㄍㄨㄧㄈㄚㄇ</rt></ruby>: norm, standard — the general "should" that specific provisions ([[規定]]) spell out; the 文字規範 of the writing-system chapter.
 - <ruby>[違法](../words/違法.md)<rt>ㄨㄧㄈㄚㄆ</rt></ruby>: illegal.
+- <ruby>[合法](../words/合法.md)<rt>ㄍㄛㄆㄈㄚㄆ</rt></ruby>: legal, lawful — the counterpart of [[違法]]; narrower than [[正当]], since it asks only whether the act agrees with the law.
 - <ruby>[制約](../words/制約.md)<rt>ㄐㄝㄧ⼘ㄎ</rt></ruby> / <ruby>[制限](../words/制限.md)<rt>ㄐㄝㄧㄏㄚㄋ</rt></ruby> / <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: restriction, constraint, limit — a near-synonym cluster alongside [[規定]] above.
 - <ruby>[不許](../words/不許.md)<rt>ㄅㄛㄊㄏ⼄</rt></ruby> / <ruby>[禁断](../words/禁断.md)<rt>ㄍㄧㄇㄉ⺢ㄋ</rt></ruby>: to forbid; absolutely forbidden, prohibition.
 - <ruby>[権利](../words/権利.md)<rt>ㄍ⼔ㄋㄌㄧㄜ</rt></ruby>: a right, an entitlement recognized by law — the counterpart of an obligation. It is also listed on [Directions](../lexipedia/Directions.md) as the Rosenfelder "right" entry, but its own sense is the legal one.
@@ -113,11 +130,14 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 
 - <ruby>[法](../words/法.md)<rt>ㄈㄚㄆ</rt></ruby> / <ruby>[法則](../words/法則.md)<rt>ㄈㄚㄆㄐㄨㄎ</rt></ruby>: bare "rule, law" and "law, rule, code" — the roots [[法律]] above builds on.
 - <ruby>[原則](../words/原則.md)<rt>⼔ㄋㄐㄨㄎ</rt></ruby>: a fundamental principle — the foundational rule one appeals to as a matter of principle, set against the stipulated [[規則]] and the theoretical [[原理]]; compare [[法則]].
+- <ruby>[司法](../words/司法.md)<rt>ㄙㄚㄈㄚㄆ</rt></ruby>: the judiciary, administration of justice — the branch of government that applies the law, paired with [[立法]].
+- <ruby>[立法](../words/立法.md)<rt>ㄌㄧㄆㄈㄚㄆ</rt></ruby>: to legislate, legislation — the law-making function, where [[法律]] names a law already made.
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty — legal liability.
 - <ruby>[負債](../words/負債.md)<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>: debt, liabilities.
 - <ruby>[盲従](../words/盲従.md)<rt>ㄇㄚㄫㄐㄛㄫ</rt></ruby>: blind obedience, to follow blindly — the failure mode [[循]] above doesn't itself imply.
 - <ruby>[除籍](../words/除籍.md)<rt>ㄐㄝㄧㄐㄝㄎ</rt></ruby>: to remove from the register, expunge, expel.
 - <ruby>[逮捕](../words/逮捕.md)<rt>ㄉㄚㄧㄅㄛ</rt></ruby>: to arrest.
+- <ruby>[保釈](../words/保釈.md)<rt>ㄅㄚㄨㄙㄝㄎ</rt></ruby>: release on bail — temporary release of an accused on a guarantee of return for trial.
 - <ruby>[誓約](../words/誓約.md)<rt>ㄙㄝ⼘ㄎ</rt></ruby>: to swear, take an oath.
 - <ruby>[故意](../words/故意.md)<rt>ㄍㄛㄜ</rt></ruby>: intent, purpose — mens rea, criminal intent.
 
@@ -130,7 +150,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 - <ruby>[獄吏](../words/獄吏.md)<rt>⼄ㄎㄌㄧ</rt></ruby>: jailer.
 - <ruby>[痴漢](../words/痴漢.md)<rt>ㄑㄧㄏㄚㄋ</rt></ruby>: pervert; molester.
 - <ruby>[章程](../words/章程.md)<rt>ㄐㄚㄫㄉㄧㄫ</rt></ruby>: rules; regulations.
-- <ruby>[規則](../words/規則.md)<rt>ㄍㄨㄧㄐㄨㄎ</rt></ruby>: obey; fixed principle.
+- <ruby>[規則](../words/規則.md)<rt>ㄍㄨㄧㄐㄨㄎ</rt></ruby>: a rule, regulation — a rule laid down by an authority, set against [[原則]], the principle one appeals to, and [[規範]], the general norm that specific rules spell out.
 - <ruby>[誘拐](../words/誘拐.md)<rt>⼜ㄛㄍ⺢ㄧ</rt></ruby>: kidnap; abduct.
 - <ruby>[議定](../words/議定.md)<rt>ㄜㄧㄐㄝㄫ</rt></ruby>: reach an agreement; make an agreement.
 - <ruby>[越境](../words/越境.md)<rt>⼔ㄊㄍ⼶ㄫ</rt></ruby>: transgress; infringe on the border of.

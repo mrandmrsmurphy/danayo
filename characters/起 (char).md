@@ -54,6 +54,7 @@ boundedness: 100
 - <ruby>[[起床]]<rt>ㄎㄧㄙ⼘ㄇ</rt></ruby> "to get out of bed"
 - <ruby>[[起伏]]<rt>ㄎㄧㄅㄨㄎ</rt></ruby> "to undulate; fluctuate"
 - <ruby>[[起死]]<rt>ㄎㄧㄙㄧㄜ</rt></ruby> "to bring the dead back to life (medically)"
+- <ruby>[[起訴]]<rt>ㄎㄧㄙㄛ</rt></ruby> "indict"
 
 ## Chengyu
 - <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "to rescue a hopeless situation, to revive what seemed already lost"

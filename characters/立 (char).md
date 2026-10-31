@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[孤立]]<rt>ㄍㄛㄌㄧㄆ</rt></ruby> "isolated; unrelated"
 - <ruby>[[立方体]]<rt>ㄌㄧㄆㄈㄚㄫㄊㄝㄧ</rt></ruby> "cube"
 - <ruby>[[対立]]<rt>ㄉㄛㄧ·ㄌㄧㄆ</rt></ruby> "opposition, contrast"
+- <ruby>[[立法]]<rt>ㄌㄧㄆㄈㄚㄆ</rt></ruby> "legislation"
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"

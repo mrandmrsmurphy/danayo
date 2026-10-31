@@ -80,6 +80,7 @@ boundedness: 100
 - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> "unite; ally with; alliance; union"
 - <ruby>[[化合物]]<rt>ㄏ⺢ㄍㄛㄆㄇㄨㄊ</rt></ruby> "chemical compound"
 - <ruby>[[混合物]]<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby> "mixture"
+- <ruby>[[合法]]<rt>ㄍㄛㄆㄈㄚㄆ</rt></ruby> "legal"
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"

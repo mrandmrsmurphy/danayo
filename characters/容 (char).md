@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[形容詞]]<rt>ㄏㄝㄫ⼄ㄫㄙㄚ</rt></ruby> "adjective"
 - <ruby>[[許容]]<rt>ㄏ⼄⼄ㄫ</rt></ruby> "to permit, tolerate"
 - <ruby>[[容認]]<rt>⼄ㄫㄋㄧㄋ</rt></ruby> "to accept"
+- <ruby>[[容疑者]]<rt>⼄ㄫ·ㄧㄑㄚ</rt></ruby> "suspect"
 
 ## Chengyu
 - <ruby>[[異体不容]]<rt>ㄧ·ㄊㄝㄧㄅㄛㄊ⼄ㄫ</rt></ruby> "variant forms are not permitted"
