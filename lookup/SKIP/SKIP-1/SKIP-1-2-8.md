@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 10
 size: 24
 skip_number: 1-2-8
@@ -23,7 +23,7 @@ tags:
 11. <ruby>[俸](characters/俸.md)<rt>ㄈㄛㄫ</rt></ruby> "salary"
 12. <ruby>[俺](characters/俺.md)<rt>ㄝㄇ</rt></ruby> "I (humble)"
 13. <ruby>[候](characters/候.md)<rt>ㄏㄛㄨ</rt></ruby> "climate"
-14. <ruby>[倣](characters/倣.md)<rt>ㄈㄚㄫ</rt></ruby> "immitate"
+14. <ruby>[倣](characters/倣.md)<rt>ㄈㄚㄫ</rt></ruby> "imitate"
 15. <ruby>[値](characters/値.md)<rt>ㄉㄧ</rt></ruby> "value"
 16. <ruby>[倫](characters/倫.md)<rt>ㄌㄨㄋ</rt></ruby> "ethics"
 17. <ruby>[倭](characters/倭.md)<rt>⼔ㄧ</rt></ruby> "dwarf"

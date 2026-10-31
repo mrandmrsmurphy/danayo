@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 9
 size: 16
 skip_number: 1-2-7
@@ -11,7 +11,7 @@ tags:
 
 ## Characters
 1. <ruby>[侯](characters/侯%20(char).md)<rt>ㄏㄛㄨ</rt></ruby> "marquis"
-2. <ruby>[便](characters/便%20(char).md)<rt>ㄅ⼶ㄋ</rt></ruby> "convinient"
+2. <ruby>[便](characters/便%20(char).md)<rt>ㄅ⼶ㄋ</rt></ruby> "convenient"
 3. <ruby>[促](characters/促%20(char).md)<rt>ㄑㄛㄎ</rt></ruby> "hurry"
 4. <ruby>[俗](characters/俗%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> "vulgar"
 5. <ruby>[侠](characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> "knight-errant"
@@ -21,7 +21,7 @@ tags:
 9. <ruby>[係](characters/係.md)<rt>ㄍㄝㄧ</rt></ruby> "be in relationship"
 10. <ruby>[俄](characters/俄.md)<rt>ㄚ</rt></ruby> "suddenly"
 11. <ruby>[俊](characters/俊.md)<rt>ㄐㄨㄋ</rt></ruby> "outstanding talent"
-12. <ruby>[俐](characters/俐.md)<rt>ㄌㄧㄜ</rt></ruby> "smooth"
+12. <ruby>[俐](characters/俐.md)<rt>ㄌㄧㄜ</rt></ruby> "clever"
 13. <ruby>[俘](characters/俘.md)<rt>ㄈㄨ</rt></ruby> "prisoner of war"
 14. <ruby>[保](characters/保.md)<rt>ㄅㄚㄨ</rt></ruby> "defend"
 15. <ruby>[信](characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> "trust"
