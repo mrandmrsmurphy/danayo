@@ -52,6 +52,7 @@ boundedness: 65
 - <ruby>[[鼻水]]<rt>ㄅㄧㄙㄨ</rt></ruby> "snot"
 - <ruby>[[阿鼻]]<rt>ㄚㄅㄧ</rt></ruby> "Avīci, lowest hell"
 - <ruby>[[鼻音]]<rt>ㄅㄧㄨㄇ</rt></ruby> "nasal"
+- <ruby>[[噴鼻]]<rt>ㄆㄛㄋㄅㄧ</rt></ruby> "sneeze"
 
 ## Chengyu
 - <ruby>[[阿鼻叫喚]]<rt>ㄚㄅㄧㄍ⼘ㄏ⺢ㄋ</rt></ruby> "agonized cries in the midst of tragedy"

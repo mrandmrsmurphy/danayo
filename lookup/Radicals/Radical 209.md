@@ -1,5 +1,5 @@
 ---
-size: 1
+size: 2
 radical: 鼻
 date-last-perfect: 2026-10-05
 tags: [lookup]
@@ -10,6 +10,7 @@ tags: [lookup]
 ## Characters
 ### Used
 1. <ruby>[鼻](../../characters/鼻%20(char).md)<rt>ㄅㄧ</rt></ruby> - nose
+2. <ruby>[鼾](../../characters/鼾%20(char).md)<rt>ㄏ⼘ㄋ</rt></ruby> - snore
 
 ## Data check
 ```dataview

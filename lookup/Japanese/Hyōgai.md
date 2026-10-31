@@ -661,6 +661,7 @@ tags: [lookup]
 654. [艱](../../characters/艱.md)
 655. [跆](../../characters/跆.md)
 656. [鑼](../../characters/鑼.md)
+657. [鼾](../../characters/鼾%20(char).md)
 
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 

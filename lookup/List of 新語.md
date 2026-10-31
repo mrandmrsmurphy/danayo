@@ -44,6 +44,7 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 4. <ruby>[坊巷](/words/坊巷.md)<rt>ㄈㄚㄫㄏㄚㄫ</rt></ruby> - alley, lane
 5. <ruby>[爾等](/words/爾等.md)<rt>ㄋㄝㄉㄨㄫ</rt></ruby> - ye, you all
 6. <ruby>[汚璃他雲](/words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> - Oort Cloud
+7. <ruby>[流唾](/words/流唾.md)<rt>ㄌ⼜·ㄊㄚ</rt></ruby> - to drool
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.

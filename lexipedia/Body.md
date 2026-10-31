@@ -179,6 +179,7 @@ Body vocabulary covers the parts of the human body inside and out — limbs, tor
 - <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
 - <ruby>[脊髄](../words/脊髄.md)<rt>ㄐㄝㄎㄙㄨㄧ</rt></ruby>: spinal cord.
 - <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
+- <ruby>[肌建](../words/肌建.md)<rt>ㄍㄧㄜㄍㄝㄋ</rt></ruby>: tendon (properly 肌腱).
 - <ruby>[血管](../words/血管.md)<rt>ㄏ⼔ㄊㄍ⺢ㄋ</rt></ruby>: blood vessel.
 - <ruby>[動脈](../words/動脈.md)<rt>ㄉㄛㄫㄇㄚㄎ</rt></ruby>: artery, the vessel that carries blood from the heart. See Semantic Range Notes.
 - <ruby>[静脈](../words/静脈.md)<rt>ㄐㄝㄫㄇㄚㄎ</rt></ruby>: vein, the vessel that carries blood back to the heart. See Semantic Range Notes.
@@ -286,6 +287,7 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[招手](../words/招手.md)<rt>ㄑㄛㄨㄙ⼜</rt></ruby>: to wave, beckon — to raise the hand and move it, to call someone nearer, flag down a vehicle or say goodbye; the stand-in for the bound character 招.
 - <ruby>[点頭](../words/点頭.md)<rt>ㄉㄝㄇㄊㄛㄨ</rt></ruby>: to nod.
 - <ruby>[𦚖](../words/𦚖.md)<rt>ㄇㄛㄆ</rt></ruby>: to blink, wink. See Semantic Range Notes.
+- <ruby>[怒視](../words/怒視.md)<rt>ㄋㄛㄙㄧㄜ</rt></ruby>: to glare — to look at someone with open anger.
 - <ruby>[皺眉](../words/皺眉.md)<rt>ㄐㄨ·ㄇㄧㄜ</rt></ruby>: to frown — to knit the eyebrows.
 - <ruby>[伸手](../words/伸手.md)<rt>ㄙㄧㄋㄙ⼜</rt></ruby>: to reach out, extend the hand.
 - <ruby>[竦肩](../words/竦肩.md)<rt>ㄙㄛㄫㄍㄝㄋ</rt></ruby>: to shrug — to raise the shoulders.
@@ -320,7 +322,9 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[欠](../words/欠.md)<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[欠伸](../words/欠伸.md)<rt>ㄎ⼘ㄇㄙㄧㄋ</rt></ruby> (yawn and stretch): to yawn.
 - <ruby>[咬](../words/咬.md)<rt>⼘ㄨ</rt></ruby>: to bite, chew.
 - <ruby>[且爵](../words/且爵.md)<rt>ㄑㄛㄐㄚㄎ</rt></ruby>: to chew, masticate — a more formal/literary register than [[咬]]. See Semantic Range Notes.
+- <ruby>[流唾](../words/流唾.md)<rt>ㄌ⼜·ㄊㄚ</rt></ruby>: to drool — to let saliva run from the mouth.
 - <ruby>[呑咽](../words/呑咽.md)<rt>ㄊㄚㄋ·ㄝㄋ</rt></ruby>: to swallow.
+- <ruby>[噴鼻](../words/噴鼻.md)<rt>ㄆㄛㄋㄅㄧ</rt></ruby>: to sneeze (properly 噴嚏).
 - <ruby>[吐](../words/吐.md)<rt>ㄊㄛ</rt></ruby>, <ruby>[呕吐](../words/呕吐.md)<rt>ㄛㄨㄊㄛ</rt></ruby>: to vomit, spit.
 - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>: to cough.
 - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>: to suck.
@@ -333,6 +337,7 @@ The egg as an animal product, housed here with the other animal body parts.
 ### Sleep & Consciousness
 
 - <ruby>[睡眠](../words/睡眠.md)<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby>, <ruby>[寝](../words/寝.md)<rt>ㄑㄧㄇ</rt></ruby> (lie down, rest): to sleep.
+- <ruby>[鼾](../words/鼾.md)<rt>ㄏ⼘ㄋ</rt></ruby>: to snore; a snore.
 - <ruby>[就寝](../words/就寝.md)<rt>ㄑ⺢ㄧㄑㄧㄇ</rt></ruby>: to go to bed, retire for the night.
 - <ruby>[昏倒](../words/昏倒.md)<rt>ㄏㄛㄋㄊㄚㄨ</rt></ruby>: to faint, collapse unconscious. See Semantic Range Notes.
 - <ruby>[気絶](../words/気絶.md)<rt>ㄎㄧㄜㄐ⼔ㄊ</rt></ruby>: to faint, lose consciousness. See Semantic Range Notes.

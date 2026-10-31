@@ -1,7 +1,7 @@
 ---
 stroke_count: 17
 date-last-perfect: 2026-10-03
-size: 103
+size: 104
 tags:
   - lookup
 ---
@@ -19,6 +19,7 @@ tags:
 - 1-9-8: <ruby>[[頻 (char)|頻]]<rt>ㄆㄧㄇ</rt></ruby>, <ruby>[[雖 (char)|雖]]<rt>ㄙㄨㄧ</rt></ruby>, <ruby>[[鞠]]<rt>ㄍㄨㄎ</rt></ruby>, <ruby>[[餅 (char)|餅]]<rt>ㄅㄧㄫ</rt></ruby>
 - 1-11-6: <ruby>[[艱]]<rt>ㄍㄚㄋ</rt></ruby>, <ruby>[[鮫]]<rt>ㄍ⼄ㄨ</rt></ruby>, <ruby>[[瓢]]<rt>ㄅ⼄ㄨ</rt></ruby>, <ruby>[[鮮]]<rt>ㄙ⼶ㄇ</rt></ruby>
 - 1-12-5: <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby>, <ruby>[[黻]]<rt>ㄈㄨㄊ</rt></ruby>
+- 1-14-3: <ruby>[[鼾 (char)|鼾]]<rt>ㄏ⼘ㄋ</rt></ruby>
 - 2-3-14: <ruby>[[嶺]]<rt>ㄌㄧㄫ</rt></ruby>, <ruby>[[賽]]<rt>ㄙㄚㄧ</rt></ruby>, <ruby>[[蔔]]<rt>ㄅㄨㄎ</rt></ruby>, <ruby>[[藁]]<rt>ㄍㄚㄨ</rt></ruby>, <ruby>[[薩]]<rt>ㄙㄚㄊ</rt></ruby>
 - 2-4-13: <ruby>[[爵]]<rt>ㄐㄚㄎ</rt></ruby>
 - 2-5-12: <ruby>[[竃]]<rt>ㄐ⺢</rt></ruby>

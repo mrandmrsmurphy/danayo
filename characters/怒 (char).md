@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[遷怒]]<rt>ㄑㄝㄋㄋㄛ</rt></ruby> "vent anger, take it out on"
 - <ruby>[[怒涛]]<rt>ㄋㄛㄉㄚㄨ</rt></ruby> "surging waves"
 - <ruby>[[怒号]]<rt>ㄋㄛㄏㄚㄨ</rt></ruby> "howl in anger, roar"
+- <ruby>[[怒視]]<rt>ㄋㄛㄙㄧㄜ</rt></ruby> "glare"
 
 ## Chengyu
 - <ruby>[[喜怒哀楽]]<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"

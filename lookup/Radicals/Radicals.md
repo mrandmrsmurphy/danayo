@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-29
+date-last-perfect: 2026-10-31
 tags: [lookup]
 ---
 
@@ -280,7 +280,7 @@ __Combining or simplified radicals with 6 strokes__
 - [[Radical 208]] 鼠 (1 character)
 
 ### 14 strokes
-- [[Radical 209]] 鼻 (1 character)
+- [[Radical 209]] 鼻 (2 characters)
 - [[Radical 210]] 齊 (1 character)
 
 ### 15 strokes
