@@ -6,6 +6,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Physical]]"
   - "[[War]]"
+  - "[[Law]]"
 status: partial
 date-last-perfect: 2026-09-27
 ---

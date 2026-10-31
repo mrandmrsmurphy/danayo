@@ -5,6 +5,7 @@ domain: Society
 related_domains:
   - "[[Kinship]]"
   - "[[Love]]"
+  - "[[Law]]"
 status: complete
 date-last-perfect: 2026-09-27
 ---

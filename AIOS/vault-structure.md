@@ -14,7 +14,7 @@ Open the folder as a vault in Obsidian. Required plugins to enable:
 - Core: **Bases**, **Dataview**, **Graph View**, **Templates**
 - Community (install via Obsidian): **Templater**, **meta-bind**, **obsidian-furigana**, **obsidian-git**, **metaedit**
 
-Note: `.obsidian/` is gitignored, so plugin configs are not tracked in the repo.
+Note: the shared Obsidian settings (`app.json`, `appearance.json`, `core-plugins.json`, `community-plugins.json`, `types.json`, `templates.json` and `snippets/`) are tracked in the repo. Per-user state (`workspace.json`, plugin folders, themes) is gitignored, so install the community plugins listed in `community-plugins.json` yourself.
 
 ## Data model
 

@@ -61,6 +61,7 @@ boundedness: 100
 - <ruby>[[引入]]<rt>ㄧㄋㄋㄧㄆ</rt></ruby> "lead into"
 - <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"
 - <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"
+- <ruby>[[引渡]]<rt>ㄧㄋㄉㄛ</rt></ruby> "extradition"
 
 ## Chengyu
 - <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster cause trouble"

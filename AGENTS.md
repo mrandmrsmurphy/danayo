@@ -33,4 +33,4 @@ Counts change daily — compute them (`git ls-files characters | wc -l`) rather 
 - **How to judge whether an existing page is complete:** [[AIOS/checklist-index.md]]
 - **What AIOS is and how this persistence system works:** [[AIOS/README.md]]
 
-License: code MIT, content CC BY-SA.
+License: CC BY-SA 4.0 for all content and code (see `LICENSE`).

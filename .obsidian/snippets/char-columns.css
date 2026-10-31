@@ -1,0 +1,16 @@
+.callout[data-callout="multi-column"] > .callout-content {
+  column-count: 10;
+  column-gap: 1em;
+}
+
+/* Normal text size for the characters */
+.callout[data-callout="multi-column"] ol li {
+  white-space: nowrap;
+  font-size: 1em;
+}
+
+/* Smaller numbers */
+.callout[data-callout="multi-column"] ol li::marker {
+  font-size: 0.7em;   /* tweak to taste */
+  color: #666;
+}

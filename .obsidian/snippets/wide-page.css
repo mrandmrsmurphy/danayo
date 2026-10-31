@@ -1,0 +1,5 @@
+.wide-page .markdown-preview-view,
+.wide-page .cm-sizer {
+    max-width: 90% !important;
+}
+

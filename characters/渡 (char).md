@@ -55,3 +55,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[渡]]<rt>ㄉㄛ</rt></ruby> "transit" (stand-in for 渡)
+- <ruby>[[引渡]]<rt>ㄧㄋㄉㄛ</rt></ruby> "extradition"

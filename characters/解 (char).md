@@ -64,6 +64,7 @@ boundedness: 100
 - <ruby>[[調解]]<rt>ㄐㄨㄛㄍ⼘ㄧ</rt></ruby> "to mediate, settle a dispute"
 - <ruby>[[解析]]<rt>ㄍ⼘ㄧㄙㄝㄎ</rt></ruby> "to analyze (technical/mathematical)"
 - <ruby>[[解雇]]<rt>ㄍ⼘ㄧㄎㄛ</rt></ruby> "dismissal"
+- <ruby>[[和解]]<rt>ㄏ⺢ㄍ⼘ㄧ</rt></ruby> "settlement"
 
 ## Derived Characters
 - <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"

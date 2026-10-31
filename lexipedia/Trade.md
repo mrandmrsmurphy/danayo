@@ -5,6 +5,7 @@ domain: Trade
 related_domains:
   - "[[Existence]]"
   - "[[Buildings]]"
+  - "[[Law]]"
 status: partial
 ---
 

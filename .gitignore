@@ -2,5 +2,19 @@
 /site/
 .venv/
 __pycache__/
-.obsidian/
+*.pyc
 *.swp
+
+# Local tool state
+.claude/
+.tmp/
+
+# Obsidian per-user state (keep shared settings)
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/types.json
+!.obsidian/templates.json
+!.obsidian/snippets/

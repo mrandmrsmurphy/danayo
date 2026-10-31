@@ -1,0 +1,19 @@
+/* Full-width, compact grid */
+.markdown-preview-view table.syllables {
+  width: 110%;            /* fill the available width */
+  table-layout: fixed;    /* distribute width across columns */
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+
+.markdown-preview-view table.syllables th,
+.markdown-preview-view table.syllables td {
+  padding: 2px 4px;                 /* tighter cells */
+  text-align: center;
+  white-space: nowrap;               /* keep single glyphs on one line */
+  border: 1px solid var(--background-modifier-border);
+}
+
+/* Optional: set per-column widths (ch = “character” units) */
+.markdown-preview-view table.syllables col.c-coda  { width: 4ch; }  /* left label column */
+.markdown-preview-view table.syllables col.c-small { width: 4ch; }/* single-syllable cells */

@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "furi",
+    "tables",
+    "char-columns"
+  ],
+  "cssTheme": "Blue Topaz",
+  "showRibbon": true
+}

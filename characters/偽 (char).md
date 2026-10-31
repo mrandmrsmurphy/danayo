@@ -55,6 +55,8 @@ date-last-perfect: 2026-10-20
 - <ruby>[[偽]]<rt>⼔ㄧ</rt></ruby> "false; artificial" (stand-in for 偽)
 - <ruby>[[偽善]]<rt>⼔ㄧㄙ⼶ㄋ</rt></ruby> "hypocritical, hypocrisy"
 - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby> "falsehood; lie"
+- <ruby>[[偽造]]<rt>⼔ㄧㄑㄚㄨ</rt></ruby> "forgery"
+- <ruby>[[偽証]]<rt>⼔ㄧㄐㄧㄫ</rt></ruby> "perjury"
 
 ## Chengyu
 - <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ⼔ㄧ</rt></ruby> "murder, adultery, theft, lying"

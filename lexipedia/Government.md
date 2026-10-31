@@ -4,6 +4,7 @@ type: lexipedia
 domain: Government
 related_domains:
   - "[[Society]]"
+  - "[[Law]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

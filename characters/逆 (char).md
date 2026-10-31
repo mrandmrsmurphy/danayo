@@ -63,3 +63,4 @@ boundedness: 90
 ## Words
 - <ruby>[[逆]]<rt>ㄝㄎ</rt></ruby> "rebellion, betrayal, traitor" (stand-in for 逆 (char))
 - <ruby>[[逆数]]<rt>ㄝㄎㄙㄨ</rt></ruby> "reciprocal"
+- <ruby>[[反逆]]<rt>ㄈㄛㄋ·ㄝㄎ</rt></ruby> "treason"

@@ -59,3 +59,4 @@ boundedness: 70
 - <ruby>[[茂密]]<rt>ㄇㄛㄨㄇㄧㄊ</rt></ruby> "dense; thick"
 - <ruby>[[密陀僧]]<rt>ㄇㄧㄊㄉㄚㄙㄜㄫ</rt></ruby> "litharge; lead monoxide"
 - <ruby>[[密会]]<rt>ㄇㄧㄊㄏ⼔</rt></ruby> "secret meeting; secret date; tryst"
+- <ruby>[[密輸]]<rt>ㄇㄧㄊㄙㄨㄇ</rt></ruby> "smuggling"

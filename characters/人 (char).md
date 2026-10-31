@@ -119,6 +119,9 @@ boundedness: 75
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄·ㄋㄧㄋ</rt></ruby> "rat person"
 - <ruby>[[宇宙人]]<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby> "alien; astronaut"
 - <ruby>[[犯人]]<rt>ㄅㄚㄇㄋㄧㄋ</rt></ruby> "criminal"
+- <ruby>[[囚人]]<rt>ㄙㄨㄛㄋㄧㄋ</rt></ruby> "prisoner"
+- <ruby>[[殺人]]<rt>ㄙㄚㄊㄋㄧㄋ</rt></ruby> "murder"
+- <ruby>[[人質]]<rt>ㄋㄧㄋㄐㄧㄊ</rt></ruby> "hostage"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

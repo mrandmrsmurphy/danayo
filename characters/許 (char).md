@@ -65,3 +65,4 @@ boundedness: 90
 - <ruby>[[允許]]<rt>⼜ㄋㄏ⼄</rt></ruby> "grant; allow"
 - <ruby>[[不許]]<rt>ㄅㄛㄊㄏ⼄</rt></ruby> "forbid"
 - <ruby>[[許容]]<rt>ㄏ⼄⼄ㄫ</rt></ruby> "to permit, tolerate"
+- <ruby>[[特許]]<rt>ㄉㄜㄎㄏ⼄</rt></ruby> "patent"

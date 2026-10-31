@@ -18,8 +18,14 @@ For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文�
 
 ## License
 
-This project is licensed under CC BY-SA.
-See LICENSE for details.
+This project, both its text and its code, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+See [LICENSE](LICENSE) for the full text.
+
+---
+
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md). The reasons behind the design are in [Design Philosophy](Design%20Philosophy.md).
 
 ---
 

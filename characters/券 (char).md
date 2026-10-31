@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[券]]<rt>ㄎㄛㄋ</rt></ruby> "bond, certificate" (stand-in for 券)
 - <ruby>[[証券]]<rt>ㄐㄧㄫㄎㄛㄋ</rt></ruby> "security"
+- <ruby>[[旅券]]<rt>ㄌ⼄ㄎㄛㄋ</rt></ruby> "passport"

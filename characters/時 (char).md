@@ -78,6 +78,7 @@ boundedness: 90
 - <ruby>[[春秋時代]]<rt>ㄑㄨㄋㄑㄨㄛㄙㄧㄉㄚㄧ</rt></ruby> "the Spring and Autumn period"
 - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby> "clock, watch, timepiece"
 - <ruby>[[時局]]<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby> "current political situation"
+- <ruby>[[時効]]<rt>ㄙㄧㄏ⼘ㄨ</rt></ruby> "statute of limitations"
 
 ## Chengyu
 - <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> "anachronism"

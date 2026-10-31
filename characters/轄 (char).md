@@ -55,6 +55,7 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[轄]]<rt>ㄏㄚㄊ</rt></ruby> "linchpin of a wheel, control" (stand-in for 轄)
+- <ruby>[[管轄]]<rt>ㄍ⺢ㄋㄏㄚㄊ</rt></ruby> "jurisdiction"
 
 ## Chengyu
 - <ruby>[[轄魚鳥牲]]<rt>ㄏㄚㄊ⼄ㄑㄛㄨㄙㄚㄫ</rt></ruby> "Rule fish, birds, life"
