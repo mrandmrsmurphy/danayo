@@ -1,6 +1,6 @@
 ---
 stroke_count: 3
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-30
 size: 2
 skip_number: 1-1-2
 tags: [lookup]
@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 ### Uses
-1. <ruby>[川](characters/川%20(char).md)<rt>ㄑㄝㄋ</rt></ruby> - river
+1. <ruby>[川](characters/川%20(char).md)<rt>ㄑ⺢ㄋ</rt></ruby> - river
 2. <ruby>[小](characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - small
 ### Aliases
 - 巛 is [[Radical 047]]
