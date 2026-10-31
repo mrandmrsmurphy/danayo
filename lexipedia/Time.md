@@ -5,6 +5,7 @@ domain: Time
 related_domains:
   - "[[Existence]]"
   - "[[Calendar]]"
+  - "[[Astronomy]]"
 status: partial
 ---
 

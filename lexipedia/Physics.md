@@ -8,6 +8,7 @@ related_domains:
   - "[[Dimensions]]"
   - "[[Substances]]"
   - "[[Existence]]"
+  - "[[Astronomy]]"
 status: partial
 ---
 

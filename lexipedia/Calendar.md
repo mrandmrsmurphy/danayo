@@ -4,6 +4,7 @@ type: lexipedia
 domain: Calendar
 related_domains:
   - "[[Time]]"
+  - "[[Astronomy]]"
 status: complete
 tags:
   - calendar

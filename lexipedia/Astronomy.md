@@ -65,6 +65,7 @@ Astronomy vocabulary here covers the sky as East Asia has known it, together wit
 - <ruby>[彗星](../words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>: a comet.
 - <ruby>[流星](../words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>: a shooting star, meteor — what a comet or other object becomes when it burns up entering the atmosphere.
 - <ruby>[流星群](../words/流星群.md)<rt>ㄌ⼜ㄙㄝㄫㄍㄨㄋ</rt></ruby>: a meteor shower.
+- <ruby>[員石](../words/員石.md)<rt>ㄨㄋㄙㄝㄎ</rt></ruby>: a meteorite — written 員石 for the real 隕石, which stands in the vault as an alias.
 - <ruby>[衛星](../words/衛星.md)<rt>ㄝㄙㄝㄫ</rt></ruby>: a satellite — a natural moon or a made one. See Semantic Range Notes.
 - <ruby>[月面](../words/月面.md)<rt>⼔ㄊㄇ⼶ㄋ</rt></ruby>: the surface of the moon.
 - <ruby>[軌道](../words/軌道.md)<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby>: an orbit.

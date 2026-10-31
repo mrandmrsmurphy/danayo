@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[石家荘]]<rt>ㄙㄝㄎㄍㄚㄐ⺢ㄫ</rt></ruby> "Shijiazhuang"
 - <ruby>[[石川]]<rt>ㄙㄝㄎㄑ⺢ㄋ</rt></ruby> "Ishikawa Prefecture"
 - <ruby>[[磁石]]<rt>ㄐㄧㄙㄝㄎ</rt></ruby> "magnet"
+- <ruby>[[員石]]<rt>ㄨㄋㄙㄝㄎ</rt></ruby> "meteorite"
 
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"

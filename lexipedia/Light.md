@@ -5,6 +5,7 @@ domain: Light
 related_domains:
   - "[[Color]]"
   - "[[Physics]]"
+  - "[[Astronomy]]"
 status: partial
 ---
 

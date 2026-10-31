@@ -4,6 +4,7 @@ type: lexipedia
 domain: Religion
 related_domains:
   - "[[Existence]]"
+  - "[[Astronomy]]"
 status: partial
 ---
 
