@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 11
 size: 16
 skip_number: 1-2-9
@@ -19,7 +19,7 @@ tags:
 7. <ruby>[停](characters/停.md)<rt>ㄉㄝㄫ</rt></ruby> "halt"
 8. <ruby>[健](characters/健.md)<rt>ㄍㄝㄋ</rt></ruby> "healthy"
 9. <ruby>[偪](characters/偪.md)<rt>ㄆㄧㄆ</rt></ruby> "press; compel"
-10. <ruby>[偰](characters/偰.md)<rt>ㄙㄝㄊ</rt></ruby> "contract"
+10. <ruby>[偰](characters/偰.md)<rt>ㄙㄝㄊ</rt></ruby> "clear; pure"
 11. <ruby>[偲](characters/偲.md)<rt>ㄑㄚㄧ</rt></ruby> "talented; urge one another"
 12. <ruby>[側](characters/側.md)<rt>ㄐㄧㄎ</rt></ruby> "side"
 13. <ruby>[偶](characters/偶.md)<rt>ㄛㄨ</rt></ruby> "image"
