@@ -6,6 +6,7 @@ related_domains:
   - "[[Plants]]"
   - "[[Sensation]]"
   - "[[Animals]]"
+  - "[[Body]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

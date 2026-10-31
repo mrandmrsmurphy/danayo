@@ -5,6 +5,7 @@ domain: Sensation
 related_domains:
   - "[[Existence]]"
   - "[[Food]]"
+  - "[[Body]]"
 status: partial
 ---
 

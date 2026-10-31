@@ -4,6 +4,7 @@ type: lexipedia
 domain: Reproduction
 related_domains:
   - "[[Kinship]]"
+  - "[[Body]]"
 status: partial
 ---
 

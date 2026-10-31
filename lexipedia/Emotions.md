@@ -7,6 +7,7 @@ related_domains:
   - "[[Sin]]"
   - "[[Society]]"
   - "[[Conflict]]"
+  - "[[Body]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
