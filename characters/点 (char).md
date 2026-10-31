@@ -74,6 +74,7 @@ boundedness: 100
 - <ruby>[[長点]]<rt>ㄐㄚㄫㄉㄝㄇ</rt></ruby> "long dot (calligraphy stroke)"
 - <ruby>[[挑点]]<rt>ㄊㄚㄨㄉㄝㄇ</rt></ruby> "rising dot (calligraphy stroke)"
 - <ruby>[[瓜子点]]<rt>ㄍ⺢ㄐㄜㄉㄝㄇ</rt></ruby> "melon-seed dot (calligraphy stroke)"
+- <ruby>[[採点]]<rt>ㄑㄚㄧㄉㄝㄇ</rt></ruby> "to grade"
 
 ## Chengyu
 - <ruby>[[画龍点睛]]<rt>ㄏ⺢ㄎㄌ⼄ㄫㄉㄝㄇㄐㄧㄫ</rt></ruby> "finishing touches, one step away from perfection"

@@ -65,6 +65,7 @@ boundedness: 75
 - <ruby>[[檳知]]<rt>ㄅㄧㄋㄐㄨㄧ</rt></ruby> "Ben Tre (檳椥)"
 - <ruby>[[愛知]]<rt>ㄚㄧㄐㄨㄧ</rt></ruby> "Aichi Prefecture"
 - <ruby>[[高知]]<rt>ㄍㄚㄨㄐㄨㄧ</rt></ruby> "Kochi Prefecture"
+- <ruby>[[無知]]<rt>ㄇㄜㄐㄨㄧ</rt></ruby> "ignorance"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

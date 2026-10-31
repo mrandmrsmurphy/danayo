@@ -67,3 +67,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[公演]]<rt>ㄍㄛㄫ⼶ㄋ</rt></ruby> "put on a public performance"
 - <ruby>[[講演]]<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby> "lecture, give a speech"
 - <ruby>[[導演]]<rt>ㄉㄚㄨ⼶ㄋ</rt></ruby> "direct; director"
+- <ruby>[[演䋇]]<rt>⼶ㄋ·⼶ㄎ</rt></ruby> "deduction"

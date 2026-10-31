@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[灯心]]<rt>ㄉㄨㄫㄙㄧㄇ</rt></ruby> "wick; lamp wick"
 - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby> "careful, cautious; to worry about, take pains over"
 - <ruby>[[心情]]<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby> "mood; frame of mind"
+- <ruby>[[好奇心]]<rt>ㄏㄚㄨㄍㄨㄧㄙㄧㄇ</rt></ruby> "curiosity"
 
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"

@@ -62,6 +62,8 @@ boundedness: 100
 - <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"
 - <ruby>[[割引]]<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby> "discount"
 - <ruby>[[引渡]]<rt>ㄧㄋㄉㄛ</rt></ruby> "extradition"
+- <ruby>[[索引]]<rt>ㄙㄚㄎ·ㄧㄋ</rt></ruby> "index"
+- <ruby>[[引用]]<rt>ㄧㄋ·⼄ㄫ</rt></ruby> "quotation"
 
 ## Chengyu
 - <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster cause trouble"

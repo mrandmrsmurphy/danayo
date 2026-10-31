@@ -58,6 +58,8 @@ boundedness: 90
 - <ruby>[[耳目]]<rt>ㄋㄧ·ㄇㄨㄎ</rt></ruby> "eyes and ears; snoops and spies"
 - <ruby>[[目的語]]<rt>ㄇㄨㄎㄉㄝㄎ·⼄</rt></ruby> "grammatical object"
 - <ruby>[[目階]]<rt>ㄇㄨㄎㄍ⼶ㄧ</rt></ruby> "order"
+- <ruby>[[目次]]<rt>ㄇㄨㄎㄑㄧㄜ</rt></ruby> "table of contents"
+- <ruby>[[目録]]<rt>ㄇㄨㄎㄌㄛㄎ</rt></ruby> "list"
 
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"

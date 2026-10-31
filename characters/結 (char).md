@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[凝結]]<rt>ㄜㄫㄍㄝㄊ</rt></ruby> "congeal; coagulate"
 - <ruby>[[連結]]<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby> "connect; link"
 - <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "sit in lotus position"
+- <ruby>[[結論]]<rt>ㄍㄝㄊㄌㄛㄋ</rt></ruby> "conclusion"
 
 ## Chengyu
 - <ruby>[[結髪夫妻]]<rt>ㄍㄝㄊㄈㄚㄊㄈㄜㄑㄝㄧ</rt></ruby> "a couple bound together from youth; lifelong marital devotion"

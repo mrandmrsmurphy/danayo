@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[䋇]]<rt>⼶ㄎ</rt></ruby> "unravel, explain" (stand-in for 䋇 (char))
+- <ruby>[[演䋇]]<rt>⼶ㄋ·⼶ㄎ</rt></ruby> "deduction"

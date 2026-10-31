@@ -80,3 +80,5 @@ boundedness: 80
 - <ruby>[[来年]]<rt>ㄌㄚㄧㄋㄝㄋ</rt></ruby> "next year"
 - <ruby>[[青年]]<rt>ㄑㄝㄫㄋㄝㄋ</rt></ruby> "youth; young man"
 - <ruby>[[年金]]<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby> "pension"
+- <ruby>[[学年]]<rt>ㄏㄚㄎㄋㄝㄋ</rt></ruby> "school year"
+- <ruby>[[年鑑]]<rt>ㄋㄝㄋㄍㄚㄇ</rt></ruby> "yearbook"

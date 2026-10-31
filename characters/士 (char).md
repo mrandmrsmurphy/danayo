@@ -63,6 +63,8 @@ boundedness: 90
 - <ruby>[[国士]]<rt>ㄍㄛㄎㄙㄚㄧ</rt></ruby> "gentleman; patriot"
 - <ruby>[[武士]]<rt>ㄇㄨㄙㄚㄧ</rt></ruby> "warrior; samurai"
 - <ruby>[[紳士]]<rt>ㄙㄧㄋㄙㄚㄧ</rt></ruby> "gentleman"
+- <ruby>[[学士]]<rt>ㄏㄚㄎㄙㄚㄧ</rt></ruby> "bachelor's degree"
+- <ruby>[[碩士]]<rt>ㄙㄝㄎㄙㄚㄧ</rt></ruby> "master's degree"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"

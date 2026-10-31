@@ -13,6 +13,7 @@ related_domains:
   - "[[Trade]]"
   - "[[Valuation]]"
   - "[[Sensation]]"
+  - "[[Knowledge]]"
 status: complete
 date-last-perfect: 2026-09-23
 ---

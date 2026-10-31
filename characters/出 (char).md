@@ -76,6 +76,7 @@ boundedness: 90
 - <ruby>[[日出]]<rt>ㄋㄧㄊㄑㄨㄊ</rt></ruby> "sunrise"
 - <ruby>[[出色]]<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby> "outstanding, remarkable, extraordinary"
 - <ruby>[[放出]]<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby> "release; emit; let out"
+- <ruby>[[出典]]<rt>ㄑㄨㄊㄉㄝㄋ</rt></ruby> "source (of a quotation)"
 
 ## Chengyu
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"

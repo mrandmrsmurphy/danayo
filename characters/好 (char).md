@@ -52,3 +52,4 @@ boundedness: 100
 - <ruby>[[良好]]<rt>ㄌ⼘ㄫㄏㄚㄨ</rt></ruby> "good; fine; kind"
 - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby> "to like"
 - <ruby>[[友好]]<rt>⼜ㄛㄏㄚㄨ</rt></ruby> "friendly; amicable"
+- <ruby>[[好奇心]]<rt>ㄏㄚㄨㄍㄨㄧㄙㄧㄇ</rt></ruby> "curiosity"

@@ -67,6 +67,7 @@ boundedness: 100
 - <ruby>[[林業]]<rt>ㄌㄧㄇ·ㄝㄆ</rt></ruby> "forestry"
 - <ruby>[[職業]]<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby> "career; job"
 - <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
+- <ruby>[[卒業証書]]<rt>ㄐㄨㄊ·ㄝㄆㄐㄧㄫㄙ⼄</rt></ruby> "diploma"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

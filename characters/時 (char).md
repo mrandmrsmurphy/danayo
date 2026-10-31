@@ -79,6 +79,7 @@ boundedness: 90
 - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby> "clock, watch, timepiece"
 - <ruby>[[時局]]<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby> "current political situation"
 - <ruby>[[時効]]<rt>ㄙㄧㄏ⼘ㄨ</rt></ruby> "statute of limitations"
+- <ruby>[[時間表]]<rt>ㄙㄧㄍㄚㄋㄅ⼘ㄨ</rt></ruby> "timetable"
 
 ## Chengyu
 - <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> "anachronism"

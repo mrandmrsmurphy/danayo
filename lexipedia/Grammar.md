@@ -6,6 +6,7 @@ related_domains:
   - "[[Speech]]"
   - "[[Locatives]]"
   - "[[Mind]]"
+  - "[[Knowledge]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

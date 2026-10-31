@@ -71,6 +71,8 @@ boundedness: 70
 - <ruby>[[引入]]<rt>ㄧㄋㄋㄧㄆ</rt></ruby> "lead into; introduce to"
 - <ruby>[[挿入]]<rt>ㄑㄚㄆㄋㄧㄆ</rt></ruby> "insert; stick into"
 - <ruby>[[注入]]<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby> "pour into; inject"
+- <ruby>[[入学]]<rt>ㄋㄧㄆㄏㄚㄎ</rt></ruby> "enter school"
+- <ruby>[[入試]]<rt>ㄋㄧㄆㄙㄧ</rt></ruby> "entrance exam"
 
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

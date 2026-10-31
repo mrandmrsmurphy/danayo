@@ -71,3 +71,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[終止格]]<rt>ㄐㄨㄫㄐㄧㄍㄚㄎ</rt></ruby> "terminative case"
 - <ruby>[[英格蘭]]<rt>ㄝㄫㄍㄚㄎㄌㄚㄋ</rt></ruby> "England"
 - <ruby>[[蘇格蘭]]<rt>ㄙㄛㄍㄚㄎㄌㄚㄋ</rt></ruby> "Scotland"
+- <ruby>[[合格]]<rt>ㄍㄛㄆㄍㄚㄎ</rt></ruby> "pass"

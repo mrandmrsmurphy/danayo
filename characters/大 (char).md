@@ -127,6 +127,7 @@ boundedness: 90
 - <ruby>[[大分]]<rt>ㄉㄚㄧㄅㄨㄋ</rt></ruby> "Oita Prefecture"
 - <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
 - <ruby>[[膨大]]<rt>ㄆㄚㄫㄉㄚㄧ</rt></ruby> "huge; swollen"
+- <ruby>[[大学院]]<rt>ㄉㄚㄧㄏㄚㄎ·⼔ㄋ</rt></ruby> "graduate school"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

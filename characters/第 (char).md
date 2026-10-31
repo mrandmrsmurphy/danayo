@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[第七]]<rt>ㄉㄝㄧㄑㄧㄊ</rt></ruby> "seventh"
 - <ruby>[[第九]]<rt>ㄉㄝㄧㄎ⼜</rt></ruby> "ninth"
 - <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
+- <ruby>[[落第]]<rt>ㄌㄚㄎㄉㄝㄧ</rt></ruby> "fail"
 
 ## Links
 ![[nav/numerals]]
