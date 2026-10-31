@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 10
 size: 68
 skip_number: 1-3-7
@@ -12,10 +12,10 @@ tags:
 ## Characters
 1. <ruby>[哱](characters/哱.md)<rt>ㄆㄛㄊ</rt></ruby> "conch shell"
 2. <ruby>[哺](characters/哺.md)<rt>ㄅㄛ</rt></ruby> "suckle"
-3. <ruby>[哨](characters/哨.md)<rt>ㄙ⼄ㄨ</rt></ruby> "sentinal"
+3. <ruby>[哨](characters/哨.md)<rt>ㄙ⼄ㄨ</rt></ruby> "sentinel"
 4. <ruby>[唆](characters/唆.md)<rt>ㄙ⺢</rt></ruby> "incite"
 5. <ruby>[唉](characters/唉%20(char).md)<rt>ㄚㄧ</rt></ruby> "alas (ancient)"
-6. <ruby>[唄](characters/唄%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> "ugh"
+6. <ruby>[唄](characters/唄%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> "Buddhist chant"
 7. <ruby>[唖](characters/唖.md)<rt>ㄚ</rt></ruby> "dumb"
 8. <ruby>[啄](characters/啄%20(char).md)<rt>ㄊㄛㄎ</rt></ruby> "peck at"
 9. <ruby>[埃](characters/埃.md)<rt>ㄚㄧ</rt></ruby> "fine dirt"
@@ -39,7 +39,7 @@ tags:
 27. <ruby>[悦](characters/悦.md)<rt>⼶ㄊ</rt></ruby> "ecstatic"
 28. <ruby>[悩](characters/悩%20(char).md)<rt>ㄋㄚㄨ</rt></ruby> "angered"
 29. <ruby>[挨](characters/挨.md)<rt>ㄚㄧ</rt></ruby> "dawdle"
-30. <ruby>[挫](characters/挫.md)<rt>ㄐ⺢</rt></ruby> "failure"
+30. <ruby>[挫](characters/挫.md)<rt>ㄐ⺢</rt></ruby> "setback"
 31. <ruby>[挺](characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> "stand upright"
 32. <ruby>[挽](characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> "recover"
 33. <ruby>[挿](characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> "insert"

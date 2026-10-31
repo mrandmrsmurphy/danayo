@@ -1,6 +1,6 @@
 ---
 stroke_count: 12
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-3-9
 size: 78
 tags:
@@ -105,7 +105,7 @@ tags:
 60. <ruby>[湧](/characters/湧%20(char).md)<rt>⼄ㄫ</rt></ruby> - gush, surge, well up
 61. <ruby>[湯](/characters/湯%20(char).md)<rt>ㄊㄚㄫ</rt></ruby> - hot water; soup, broth
 62. <ruby>[湾](/characters/湾.md)<rt>⺢ㄇ</rt></ruby> - bay, gulf; bend (in a river)
-63. <ruby>[湿](/characters/湿%20(char).md)<rt>ㄙㄜㄆ</rt></ruby> - wet, damp, moist
+63. <ruby>[湿](/characters/湿%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - wet, damp, moist
 64. <ruby>[満](/characters/満%20(char).md)<rt>ㄇㄚㄋ</rt></ruby> - full, filled; satisfied; Manchu
 65. <ruby>[滋](/characters/滋.md)<rt>ㄐㄜ</rt></ruby> - nourish; grow; juice; more
 
