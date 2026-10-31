@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 2
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-2-3
 tags: [lookup]
 
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 02](lookup/Stroke/Stroke%2002.md)
 
 ## Characters
-1. <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby> - ten
+1. <ruby>[十](/characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten
 
 ## Datacheck
 ```dataview

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 11
 size: 21
 skip_number: 1-6-5
@@ -26,7 +26,7 @@ tags:
 14. <ruby>[羚](characters/羚.md)<rt>ㄌㄝㄫ</rt></ruby> "antelope"
 15. <ruby>[聊](characters/聊%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> "chat"
 16. <ruby>[舵](characters/舵%20(char).md)<rt>ㄉㄚ</rt></ruby> "rudder"
-17. <ruby>[舶](characters/舶.md)<rt>ㄅㄚㄎ</rt></ruby> "oceanliner"
+17. <ruby>[舶](characters/舶.md)<rt>ㄅㄚㄎ</rt></ruby> "oceangoing ship"
 18. <ruby>[舷](characters/舷.md)<rt>ㄏㄝㄋ</rt></ruby> "side of a boat"
 19. <ruby>[船](characters/船.md)<rt>ㄙ⼔ㄇ</rt></ruby> "boat"
 20. <ruby>[蛇](characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> "snake"

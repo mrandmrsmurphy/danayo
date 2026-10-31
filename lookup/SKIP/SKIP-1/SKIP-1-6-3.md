@@ -1,6 +1,6 @@
 ---
 stroke_count: 9
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-6-3
 size: 17
 tags: [lookup]
@@ -19,7 +19,7 @@ tags: [lookup]
 6. <ruby>[紅](characters/紅%20(char).md)<rt>ㄏㄛㄫ</rt></ruby> "crimson"
 7. <ruby>[缸](characters/缸.md)<rt>ㄏㄚㄫ</rt></ruby> "jug"
 8. <ruby>[耐](characters/耐%20(char).md)<rt>ㄋㄚㄧ</rt></ruby> "able to endure"
-9. <ruby>[耶](characters/耶%20(char).md)<rt>⼶</rt></ruby> "yes?"
+9. <ruby>[耶](characters/耶%20(char).md)<rt>⼶</rt></ruby> "questioning particle"
 10. <ruby>[虹](characters/虹.md)<rt>ㄏㄛㄫ</rt></ruby> "rainbow"
 11. <ruby>[虻](characters/虻.md)<rt>ㄇㄚㄫ</rt></ruby> "horsefly"
 12. <ruby>[衂](characters/衂.md)<rt>ㄋㄨㄎ</rt></ruby> "epistaxis"

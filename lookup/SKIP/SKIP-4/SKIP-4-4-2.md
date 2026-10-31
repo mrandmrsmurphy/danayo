@@ -1,6 +1,6 @@
 ---
 size: 2
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 4
 skip_number: 4-4-2
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters
-1. <ruby>[壬](/characters/壬.md)<rt>ㄋㄧㄋ</rt></ruby> - ninth heavenly stem
+1. <ruby>[壬](/characters/壬.md)<rt>ㄋㄧㄇ</rt></ruby> - ninth heavenly stem
 2. <ruby>[廿](/characters/廿.md)<rt>ㄋㄧㄆ</rt></ruby> - twentieth
 
 ## Datacheck

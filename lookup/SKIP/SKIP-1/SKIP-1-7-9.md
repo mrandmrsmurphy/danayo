@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 16
 size: 24
 skip_number: 1-7-9
@@ -33,7 +33,7 @@ tags:
 21. <ruby>[頭](characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> "head"
 22. <ruby>[頴](characters/頴.md)<rt>⼶ㄫ</rt></ruby> "rice tassel"
 23. <ruby>[頼](characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> "trust, rely upon, depend on"
-24. <ruby>[諺](characters/諺.md)<rt>ㄝㄋ</rt></ruby> "Hangǔl"
+24. <ruby>[諺](characters/諺.md)<rt>ㄝㄋ</rt></ruby> "proverb"
 
 ## Datacheck
 ```dataview

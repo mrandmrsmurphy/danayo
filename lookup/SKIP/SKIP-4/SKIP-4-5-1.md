@@ -1,7 +1,7 @@
 ---
 size: 13
 stroke_count: 5
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-5-1
 tags: [lookup]
 
@@ -16,7 +16,7 @@ tags: [lookup]
 3. <ruby>[冊](/characters/冊%20(char).md)<rt>ㄑㄚㄎ</rt></ruby> "book"
 4. <ruby>[凸](/characters/凸%20(char).md)<rt>ㄉㄛㄊ</rt></ruby> "convex"
 5. <ruby>[凹](/characters/凹%20(char).md)<rt>ㄚㄨ</rt></ruby> "concave"
-6. <ruby>[平](/characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby> "even"
+6. <ruby>[平](/characters/平.md)<rt>ㄅ⼶ㄫ</rt></ruby> "horizontal"
 7. <ruby>[正](/characters/正%20(char).md)<rt>ㄐㄧㄫ</rt></ruby> "correct"
 8. <ruby>[母](/characters/母.md)<rt>ㄇㄛㄨ</rt></ruby> "mother"
 9. <ruby>[玉](/characters/玉%20(char).md)<rt>⼄ㄎ</rt></ruby> "jade"

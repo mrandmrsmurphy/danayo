@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 11
 size: 29
 skip_number: 2-3-8
@@ -33,7 +33,7 @@ tags:
 21. <ruby>[菅](characters/菅.md)<rt>ㄍㄚㄋ</rt></ruby> "coarse grass"
 22. <ruby>[菌](characters/菌.md)<rt>ㄍ⼜ㄋ</rt></ruby> "fungus"
 23. <ruby>[菜](characters/菜.md)<rt>ㄑㄚㄧ</rt></ruby> "vegetable"
-24. <ruby>[菩](characters/菩.md)<rt>ㄅㄛ</rt></ruby> "sacred tree"
+24. <ruby>[菩](characters/菩.md)<rt>ㄅㄛ</rt></ruby> "bodhisattva"
 25. <ruby>[菫](characters/菫.md)<rt>ㄍㄧㄋ</rt></ruby> "celery"
 26. <ruby>[萄](characters/萄.md)<rt>ㄉㄚㄨ</rt></ruby> "grapes"
 27. <ruby>[萌](characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> "bud"

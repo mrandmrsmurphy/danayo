@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 2
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-1-1
 tags: [lookup]
 
@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 Only one:
-1. <ruby>[[二 (char)|二]]<rt>ㄋㄧㄜ</rt></ruby> - two
+1. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two
 
 ## Datacheck
 ```dataview

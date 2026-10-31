@@ -1,7 +1,7 @@
 ---
 size: 9
 stroke_count: 5
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-5-3
 tags: [lookup]
 
@@ -18,7 +18,7 @@ tags: [lookup]
 5. <ruby>[冉](characters/冉.md)<rt>ㄋ⼶ㄇ</rt></ruby> "passing of time"
 6. <ruby>[半](characters/半%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> "half"
 7. <ruby>[末](characters/末.md)<rt>ㄇㄚㄊ</rt></ruby> "end"
-8. <ruby>[朮](characters/朮.md)<rt>ㄐㄨㄊ</rt></ruby> "atractylodes"
+8. <ruby>[朮](characters/朮.md)<rt>ㄙㄨㄊ</rt></ruby> "atractylodes"
 9. <ruby>[申](characters/申.md)<rt>ㄙㄝㄋ</rt></ruby> "report"
 
 ## Datacheck

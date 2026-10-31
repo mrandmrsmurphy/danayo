@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 7
 size: 34
 skip_number: 2-3-4
@@ -12,7 +12,7 @@ tags:
 ## Characters
 1. <ruby>[呆](characters/呆%20(char).md)<rt>ㄇㄚㄧ</rt></ruby> "confused"
 2. <ruby>[呈](characters/呈%20(char).md)<rt>ㄉㄧㄫ</rt></ruby> "display"
-3. <ruby>[吝](characters/吝.md)<rt>ㄌㄧㄋ</rt></ruby> "petty"
+3. <ruby>[吝](characters/吝.md)<rt>ㄌㄧㄋ</rt></ruby> "stingy"
 4. <ruby>[呂](characters/呂.md)<rt>ㄌ⼄</rt></ruby> "spine"
 5. <ruby>[壱](characters/壱%20(char).md)<rt>ㄧㄊ</rt></ruby> "loyal"
 6. <ruby>[声](characters/声.md)<rt>ㄙㄧㄫ</rt></ruby> "sound"

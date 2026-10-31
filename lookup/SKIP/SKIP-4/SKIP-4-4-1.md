@@ -2,11 +2,11 @@
 size: 15
 skip_number: 4-4-1
 stroke_count: 4
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 tags: [lookup]
 
 ---
-> SKIP : 4 : [4](lookup/SKIP/SKIP-4/SKIP-4-4.md) | [[SKIP-4-0-1]]
+> SKIP : 4 : [4](lookup/SKIP/SKIP-4/SKIP-4-4.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
 > [Stroke 04](lookup/Stroke/Stroke%2004.md)
 
 ## Characters

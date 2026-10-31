@@ -1,7 +1,7 @@
 ---
 size: 8
 stroke_count: 4
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-4-4
 tags: [lookup]
 
@@ -11,13 +11,13 @@ tags: [lookup]
 
 ## Characters
 
-1. <ruby>[夫](characters/夫%20(char).md)<rt>ㄈㄜ</rt></ruby> "right?"
+1. <ruby>[夫](characters/夫%20(char).md)<rt>ㄈㄜ</rt></ruby> "man, husband"
 2. <ruby>[少](characters/少%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> "few"
 3. <ruby>[火](characters/火%20(char).md)<rt>ㄏ⺢</rt></ruby> "fire"
 4. <ruby>[片](characters/片%20(char).md)<rt>ㄆㄝㄋ</rt></ruby> "slice"
 5. <ruby>[犬](characters/犬%20(char).md)<rt>ㄎ⼔ㄋ</rt></ruby> "dog"
 6. <ruby>[内](characters/内.md)<rt>ㄋㄛㄧ</rt></ruby> "inside"
-7. <ruby>[夭](characters/夭.md)<rt>⼄ㄨ</rt></ruby> "gentle"
+7. <ruby>[夭](characters/夭.md)<rt>⼄ㄨ</rt></ruby> "to die young"
 8. <ruby>[戈](characters/戈.md)<rt>ㄍ⺢</rt></ruby> "dagger-axe"
 
 ## Datacheck

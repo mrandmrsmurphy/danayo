@@ -1,6 +1,6 @@
 ---
 stroke_count: 6
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 size: 1
 skip_number: 2-5-1
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-1. <ruby>[丞](/characters/丞.md)<rt>ㄙㄧㄫ</rt></ruby> - rescue
+1. <ruby>[丞](/characters/丞.md)<rt>ㄙㄜㄫ</rt></ruby> - rescue
 
 ## Datacheck
 ```dataview

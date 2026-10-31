@@ -1,6 +1,6 @@
 ---
 stroke_count: 7
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 size: 14
 skip_number: 2-2-5
 tags: [lookup]
@@ -23,7 +23,7 @@ tags: [lookup]
 11. <ruby>[角](characters/角%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> "horn; angle"
 12. <ruby>[谷](characters/谷%20(char).md)<rt>ㄍㄛㄎ</rt></ruby> "valley"
 13. <ruby>[辛](/characters/辛.md)<rt>ㄙㄧㄋ</rt></ruby> "spicy"
-14. <ruby>[[兌]]<rt>ㄉ⺢ㄧ</rt></ruby> "exchange"
+14. <ruby>[兌](/characters/兌.md)<rt>ㄉ⺢ㄧ</rt></ruby> "exchange"
 
 ## Datacheck
 ```dataview

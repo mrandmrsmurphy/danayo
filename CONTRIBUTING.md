@@ -1,6 +1,6 @@
 # Contributing
 
-Corrections, sources and design discussion for Dan'a'yo (単亜語) are welcome. This repository is the flagship of the Universal Languages project; the parent repository holds the shared pages and the other languages.
+Corrections, sources and design discussion for Dan'a'yo (単亜語) are welcome. This repository is the flagship of the Universal Languages project; the [parent repository](https://github.com/mrandmrsmurphy/universal-languages) holds the shared pages and the other languages.
 
 ## How it works
 

@@ -1,6 +1,6 @@
 ---
 size: 5
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 3
 skip_number: 3-2-1
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 03](lookup/Stroke/Stroke%2003.md)
 
 ## Characters
-1. <ruby>[万](/characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - myriad
+1. <ruby>[万](/characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
 2. <ruby>[凡](/characters/凡.md)<rt>ㄅㄛㄇ</rt></ruby> - ordinary
 3. <ruby>[勺](/characters/勺%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - spoon
 4. <ruby>[寸](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> - inch

@@ -1,6 +1,6 @@
 ---
 stroke_count: 6
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-1-5
 size: 1
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 06](lookup/Stroke/Stroke%2006.md)
 
 ## Characters
-1. <ruby>[亘](/characters/亘%20(char).md)<rt>ㄏ⺢ㄎ</rt></ruby>
+1. <ruby>[亘](/characters/亘%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby>
 
 ## Datacheck
 ```dataview

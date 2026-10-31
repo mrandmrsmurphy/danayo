@@ -1,7 +1,7 @@
 ---
 stroke_count: 17
 date-last-perfect: 2026-10-03
-size: 104
+size: 103
 tags:
   - lookup
 ---
@@ -10,7 +10,6 @@ tags:
 ## Characters
 ### In Use
 - 1-2-15: <ruby>[[儲]]<rt>ㄐㄛ</rt></ruby>, <ruby>[[優]]<rt>ㄨㄛ</rt></ruby>, <ruby>[[儡]]<rt>ㄌㄛㄧ</rt></ruby>, <ruby>[[償]]<rt>ㄙ⼘ㄫ</rt></ruby>, <ruby>[[儧]]<rt>ㄐ⺢ㄋ</rt></ruby>
-- 1-3-13: <ruby>[[屿]]<rt>ㄙ⼄</rt></ruby>
 - 1-3-14: <ruby>[[擱]]<rt>ㄍㄚㄎ</rt></ruby>, <ruby>[[鴻]]<rt>ㄏㄛㄫ</rt></ruby>, <ruby>[[擦 (char)|擦]]<rt>ㄑㄚㄊ</rt></ruby>, <ruby>[[擬 (char)|擬]]<rt>ㄧ</rt></ruby>, <ruby>[[嚇 (char)|嚇]]<rt>ㄏㄚㄎ</rt></ruby>, <ruby>[[擢]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[濯]]<rt>ㄉㄚㄎ</rt></ruby>, <ruby>[[徽]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[擡]]<rt>ㄉㄚㄧ</rt></ruby>
 - 1-4-13: <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby>, <ruby>[[燦]]<rt>ㄑㄚㄋ</rt></ruby>, <ruby>[[燭]]<rt>ㄑㄛㄎ</rt></ruby>, <ruby>[[牆]]<rt>ㄑ⺢ㄫ</rt></ruby>, <ruby>[[環 (char)|環]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[曖]]<rt>ㄚㄧ</rt></ruby>, <ruby>[[檀]]<rt>ㄉㄚㄋ</rt></ruby>, <ruby>[[臆]]<rt>ㄧㄎ</rt></ruby>, <ruby>[[膿 (char)|膿]]<rt>ㄋㄛㄫ</rt></ruby>, <ruby>[[犠]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[燥]]<rt>ㄙㄚㄨ</rt></ruby>
 - 1-5-12: <ruby>[[瞭]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[礁]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[襖]]<rt>ㄚㄨ</rt></ruby>, <ruby>[[磯]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[矯]]<rt>ㄍ⼘ㄨ</rt></ruby>, <ruby>[[瞳]]<rt>ㄉㄛㄫ</rt></ruby>, <ruby>[[瞬]]<rt>ㄙ⼜ㄋ</rt></ruby>, <ruby>[[瞰]]<rt>ㄎㄚㄇ</rt></ruby>

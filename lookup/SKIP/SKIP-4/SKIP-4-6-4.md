@@ -1,7 +1,7 @@
 ---
 size: 7
 stroke_count: 6
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-6-4
 tags: [lookup]
 
@@ -15,7 +15,7 @@ tags: [lookup]
 2. <ruby>[吏](characters/吏.md)<rt>ㄌㄧ</rt></ruby> "officer"
 3. <ruby>[夷](characters/夷.md)<rt>ㄧㄜ</rt></ruby> "barbarian"
 4. <ruby>[戌](characters/戌.md)<rt>ㄙㄨㄊ</rt></ruby> "eleventh heavenly stem"
-5. <ruby>[戍](characters/戍.md)<rt>ㄙㄨ</rt></ruby> "borderguard"
+5. <ruby>[戍](characters/戍.md)<rt>ㄙㄨ</rt></ruby> "border guard"
 6. <ruby>[曳](characters/曳.md)<rt>⼶</rt></ruby> "trail"
 7. <ruby>[舟](characters/舟.md)<rt>ㄐㄨ</rt></ruby> "boat"
 

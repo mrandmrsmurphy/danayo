@@ -1,7 +1,7 @@
 ---
 size: 4
 stroke_count: 9
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-9-3
 tags: [lookup]
 
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[乗](/characters/乗%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - multiply
+1. <ruby>[乗](/characters/乗%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - ride
 2. <ruby>[柬](/characters/柬%20(char).md)<rt>ㄍ⼘ㄋ</rt></ruby> - letter
 3. <ruby>[禹](/characters/禹.md)<rt>ㄨ</rt></ruby> - Yu
 4. <ruby>[禺](/characters/禺.md)<rt>ㄨ</rt></ruby> - long-tailed monkey

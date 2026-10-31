@@ -1,7 +1,7 @@
 ---
 size: 17
 stroke_count: 12
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-8-4
 tags: [lookup]
 
@@ -23,9 +23,9 @@ tags: [lookup]
 10. <ruby>[煮](characters/煮.md)<rt>ㄐㄛ</rt></ruby> "boil"
 11. <ruby>[犂](characters/犂.md)<rt>ㄌㄝㄧ</rt></ruby> "plough"
 12. <ruby>[琴](characters/琴%20(char).md)<rt>ㄍㄨㄇ</rt></ruby> "zither"
-13. <ruby>[琵](characters/琵.md)<rt>ㄅㄧ</rt></ruby> "plucked instrument"
-14. <ruby>[琶](characters/琶.md)<rt>ㄅㄚ</rt></ruby> "zither"
-15. <ruby>[集](characters/集.md)<rt>ㄐㄧㄆ</rt></ruby> "collect"
+13. <ruby>[琵](characters/琵.md)<rt>ㄅㄧ</rt></ruby> "pipa"
+14. <ruby>[琶](characters/琶.md)<rt>ㄅㄚ</rt></ruby> "pipa"
+15. <ruby>[集](characters/集.md)<rt>ㄐㄧㄆ</rt></ruby> "assemble"
 16. <ruby>[雰](characters/雰.md)<rt>ㄈㄨㄋ</rt></ruby> "atmosphere"
 17. <ruby>[雲](characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> "cloud"
 

@@ -2,7 +2,7 @@
 size: 2
 stroke_count: 13
 skip_number: 2-7-6
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 tags: [lookup]
 
 ---
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 13](lookup/Stroke/Stroke%2013.md)
 ## Characters
 1. <ruby>[資](/characters/資.md)<rt>ㄐㄧㄜ</rt></ruby> - property
-2. <ruby>[嗇](/characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - miserly
+2. <ruby>[嗇](/characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - stingy
 
 ## Datacheck
 ```dataview

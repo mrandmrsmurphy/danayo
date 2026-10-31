@@ -1,13 +1,13 @@
 ---
 size: 4
-date-last-perfect: 2026-09-24
-stroke_count: 11
+date-last-perfect: 2026-10-31
+stroke_count: 8
 skip_number: 4-8-3
 tags: [lookup]
 
 ---
 > SKIP : 4 : [8](lookup/SKIP/SKIP-4/SKIP-4-8.md) | [SKIP-4-0-3](lookup/SKIP/SKIP-4/SKIP-4-0-3.md)
-> [Stroke 11](lookup/Stroke/Stroke%2011.md)
+> [Stroke 08](lookup/Stroke/Stroke%2008.md)
 
 ## Characters
 1. <ruby>[乖](/characters/乖.md)<rt>ㄍ⺢ㄧ</rt></ruby> - obedient

@@ -18,8 +18,9 @@ For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文�
 
 ## License
 
-This project, both its text and its code, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-See [LICENSE](LICENSE) for the full text.
+Copyright (c) 2025 Robert Marshall Murphy.
+
+This project, both its text and its code, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Derivatives must use the same license. See [LICENSE](LICENSE) for the full legal text.
 
 ---
 
@@ -32,6 +33,8 @@ See [CONTRIBUTING](CONTRIBUTING.md). The reasons behind the design are in [Desig
 ## About
 
 Created by **武明帥**, 2016-26.
+
+Dan'a'yo is the flagship of the [Universal Languages](https://github.com/mrandmrsmurphy/universal-languages) project, which holds the shared pages and the other languages.
 
 ---
 

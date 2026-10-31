@@ -1,6 +1,6 @@
 ---
 stroke_count: 10
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-6-4
 size: 20
 tags: [lookup]
@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 
 1. <ruby>[哭](/characters/哭%20(char).md)<rt>ㄎㄛㄎ</rt></ruby> "cry"
-2. <ruby>[恐](/characters/恐.md)<rt>ㄎㄛㄫ</rt></ruby> "fear"
+2. <ruby>[恐](/characters/恐.md)<rt>ㄎㄛㄫ</rt></ruby> "be afraid"
 3. <ruby>[恕](/characters/恕.md)<rt>ㄙ⼄</rt></ruby> "forgive"
 4. <ruby>[恣](/characters/恣.md)<rt>ㄐㄧㄜ</rt></ruby> "selfish"
 5. <ruby>[恩](/characters/恩.md)<rt>ㄜㄋ</rt></ruby> "kindness"

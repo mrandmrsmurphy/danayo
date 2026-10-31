@@ -1,16 +1,16 @@
 ---
 size: 1
 stroke_count: 9
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-9-1
 tags: [lookup]
 
 ---
-> SKIP : 4 : [SKIP-4-9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
+> SKIP : 4 : [9](lookup/SKIP/SKIP-4/SKIP-4-9.md) | [SKIP-4-0-1](lookup/SKIP/SKIP-4/SKIP-4-0-1.md)
 > [Stroke 09](lookup/Stroke/Stroke%2009.md)
 
 ## Characters
-1. <ruby>[飛](../../../characters/飛%20(char).md)<rt>ㄆㄧ</rt></ruby> - fly
+1. <ruby>[飛](/characters/飛%20(char).md)<rt>ㄈㄝㄧ</rt></ruby> - fly
 
 ## Datacheck
 ```dataview

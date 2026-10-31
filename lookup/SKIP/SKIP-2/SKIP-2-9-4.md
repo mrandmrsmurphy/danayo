@@ -1,6 +1,6 @@
 ---
 stroke_count: 13
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-9-4
 size: 10
 tags: [lookup]
@@ -16,7 +16,7 @@ tags: [lookup]
 4. <ruby>[愚](characters/愚%20(char).md)<rt>ㄨ</rt></ruby> "foolish"
 5. <ruby>[感](/characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> "feel; sense"
 6. <ruby>[暋](/characters/暋.md)<rt>ㄇㄧㄋ</rt></ruby> "strong; robust; tough"
-7. <ruby>[楽](/characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> "entertainment"
+7. <ruby>[楽](/characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> "pleasure"
 8. <ruby>[照](characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> "shine"
 9. <ruby>[聖](/characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> "holy"
 10. <ruby>[腎](/characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> "kidney"

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 10
 size: 30
 skip_number: 1-6-4
@@ -32,14 +32,14 @@ tags:
 20. <ruby>[耕](characters/耕.md)<rt>ㄍㄚㄫ</rt></ruby> "plow"
 21. <ruby>[耗](characters/耗.md)<rt>ㄏㄚㄨ</rt></ruby> "deplete"
 22. <ruby>[耽](characters/耽%20(char).md)<rt>ㄉㄛㄇ</rt></ruby> "indulge in"
-23. <ruby>[能](characters/能.md)<rt>ㄋㄜㄫ</rt></ruby> "talent"
+23. <ruby>[能](characters/能.md)<rt>ㄋㄜㄫ</rt></ruby> "technique"
 24. <ruby>[致](characters/致%20(char).md)<rt>ㄑㄧㄜ</rt></ruby> "cause"
 25. <ruby>[般](characters/般%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> "category"
 26. <ruby>[航](characters/航.md)<rt>ㄏㄚㄫ</rt></ruby> "sail"
 27. <ruby>[蚊](characters/蚊%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> "mosquito"
 28. <ruby>[衲](characters/衲.md)<rt>ㄋㄚㄆ</rt></ruby> "cassock"
 29. <ruby>[紐](characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> "knot"
-30. <ruby>[粄 (char)](characters/粄%20(char).md)<rt>ㄅㄧㄇ</rt></ruby> "rice cake"
+30. <ruby>[粄](/characters/粄%20(char).md)<rt>ㄅㄧㄇ</rt></ruby> "rice cake"
 
 ## Datacheck
 ```dataview

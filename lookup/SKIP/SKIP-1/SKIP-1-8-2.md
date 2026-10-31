@@ -1,7 +1,7 @@
 ---
 size: 7
 stroke_count: 10
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-8-2
 tags: [lookup]
 
@@ -25,4 +25,3 @@ FROM "characters"
 WHERE skip_number = "1-8-2"
 SORT file.name ASC
 ```
-</content>

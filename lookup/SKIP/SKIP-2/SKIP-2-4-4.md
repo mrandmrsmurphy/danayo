@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 8
 size: 21
 skip_number: 2-4-4
@@ -25,7 +25,7 @@ tags:
 13. <ruby>[昔](characters/昔.md)<rt>ㄙㄝㄎ</rt></ruby> "long ago"
 14. <ruby>[歩](characters/歩.md)<rt>ㄅㄛ</rt></ruby> "walk"
 15. <ruby>[毒](characters/毒%20(char).md)<rt>ㄉㄛㄎ</rt></ruby> "poisonous"
-16. <ruby>[沓](characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> "connected"
+16. <ruby>[沓](characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> "overlapping"
 17. <ruby>[炎](characters/炎.md)<rt>ㄝㄇ</rt></ruby> "flame"
 18. <ruby>[肯](characters/肯%20(char).md)<rt>ㄎㄨㄫ</rt></ruby> "agree"
 19. <ruby>[表](characters/表.md)<rt>ㄅ⼘ㄨ</rt></ruby> "show"

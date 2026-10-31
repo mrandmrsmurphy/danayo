@@ -1,6 +1,6 @@
 ---
 stroke_count: 9
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-2-7
 size: 20
 tags: [lookup]
@@ -20,7 +20,7 @@ tags: [lookup]
 7. <ruby>[帝](/characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> "emperor"
 8. <ruby>[怠](/characters/怠.md)<rt>ㄉㄚㄧ</rt></ruby> "idle"
 9. <ruby>[急](/characters/急%20(char).md)<rt>ㄍㄧㄆ</rt></ruby> "quick"
-10. <ruby>[盆](/characters/盆%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> "basin"
+10. <ruby>[盆](/characters/盆%20(char).md)<rt>ㄆㄨㄋ</rt></ruby> "basin"
 11. <ruby>[貞](/characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> "chaste"
 12. <ruby>[負](/characters/負%20(char).md)<rt>ㄅ⼜</rt></ruby> "carry"
 13. <ruby>[軍](/characters/軍.md)<rt>ㄍㄨㄋ</rt></ruby> "armed forces"

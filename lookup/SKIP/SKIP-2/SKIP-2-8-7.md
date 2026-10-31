@@ -1,7 +1,7 @@
 ---
 size: 8
 stroke_count: 15
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-8-7
 tags: [lookup]
 
@@ -11,14 +11,14 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[[黎]]<rt>ㄌㄝㄧ</rt></ruby> - Liǝ
-2. <ruby>[[賛]]<rt>ㄐㄚㄋ</rt></ruby> - help, support
-3. <ruby>[[質]]<rt>ㄐㄧㄊ</rt></ruby> - essense, nature
-4. <ruby>[[震]]<rt>ㄐㄧㄋ</rt></ruby> - shake
-5. <ruby>[[輩 (char)|輩]]<rt>ㄅㄛㄧ</rt></ruby> - generation
-6. <ruby>[[霊]]<rt>ㄌㄝㄫ</rt></ruby> - ghost
-7. <ruby>[[慧 (char)|慧]]<rt>ㄏ⼔ㄧ</rt></ruby> - bright, intelligent
-8. <ruby>[[霅]]<rt>ㄙㄛㄆ</rt></ruby> - pitter patter
+1. <ruby>[黎](/characters/黎.md)<rt>ㄌㄝㄧ</rt></ruby> - Liǝ
+2. <ruby>[賛](/characters/賛.md)<rt>ㄐㄚㄋ</rt></ruby> - help, support
+3. <ruby>[質](/characters/質.md)<rt>ㄐㄧㄊ</rt></ruby> - essense, nature
+4. <ruby>[震](/characters/震.md)<rt>ㄐㄧㄋ</rt></ruby> - shake
+5. <ruby>[輩](/characters/輩%20(char).md)<rt>ㄈㄛㄧ</rt></ruby> - generation
+6. <ruby>[霊](/characters/霊.md)<rt>ㄌㄝㄫ</rt></ruby> - ghost
+7. <ruby>[慧](/characters/慧%20(char).md)<rt>ㄏ⼔ㄧ</rt></ruby> - bright, intelligent
+8. <ruby>[霅](/characters/霅.md)<rt>ㄙㄛㄆ</rt></ruby> - pitter patter
 ### Aliases
 - 瑩 --> 瑛
 - 霄--> 肖

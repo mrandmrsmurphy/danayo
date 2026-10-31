@@ -1,6 +1,6 @@
 ---
 stroke_count: 12
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 2-5-7
 size: 14
 tags: [lookup]
@@ -16,7 +16,7 @@ tags: [lookup]
 3. <ruby>[掌](characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> "palm"
 4. <ruby>[畳](characters/畳%20(char).md)<rt>ㄉㄝㄆ</rt></ruby> "tatami mat"
 5. <ruby>[登](characters/登%20(char).md)<rt>ㄉㄨㄫ</rt></ruby> "climb"
-6. <ruby>[覚](characters/覚.md)<rt>ㄍㄚㄎ</rt></ruby> "wake"
+6. <ruby>[覚](characters/覚.md)<rt>ㄍㄚㄎ</rt></ruby> "perceive"
 7. <ruby>[貰](characters/貰.md)<rt>ㄙㄝ</rt></ruby> "borrow"
 8. <ruby>[貴](characters/貴.md)<rt>ㄍㄨㄧ</rt></ruby> "expensive"
 9. <ruby>[買](characters/買.md)<rt>ㄇㄚㄧ</rt></ruby> "buy"

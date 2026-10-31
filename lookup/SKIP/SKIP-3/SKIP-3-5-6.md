@@ -1,6 +1,6 @@
 ---
 stroke_count: 11
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 size: 1
 skip_number: 3-5-6
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 11](lookup/Stroke/Stroke%2011.md)
 
 ## Characters
-1. <ruby>[痕](/characters/痕.md)<rt>ㄏㄚㄋ</rt></ruby> - scar
+1. <ruby>[痕](/characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
 
 ## Datacheck
 ```dataview

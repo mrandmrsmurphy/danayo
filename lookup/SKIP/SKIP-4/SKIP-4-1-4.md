@@ -1,7 +1,7 @@
 ---
 size: 1
 stroke_count: 1
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-1-4
 tags: [lookup]
 
@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one
+1. <ruby>[一](/characters/一%20(char).md)<rt>ㄧㄊ</rt></ruby> - one
 ### Aliases
 - 丶 is an alias of [[Radical 003]], "dot"
 * 丿 is an alias of [[Radical 004]], "slash"

@@ -1,8 +1,8 @@
 # Design Philosophy
 
-> Parent: Universal Languages · Grammar preface: [文法 - 01序文.en](grammar/文法%20-%2001序文.en.md) · Orthography: [文法 - 03文字法.en](grammar/文法%20-%2003文字法.en.md)
+> Parent: [Universal Languages](https://github.com/mrandmrsmurphy/universal-languages) · Grammar preface: [文法 - 01序文.en](grammar/文法%20-%2001序文.en.md) · Orthography: [文法 - 03文字法.en](grammar/文法%20-%2003文字法.en.md)
 
-The principles behind the design choices of Dan'a'yo, each with its reason and the pages where it is carried out. The language is the flagship of the Universal Languages project and satisfies its two shared principles (easier than any other regional language; its own script).
+The principles behind the design choices of Dan'a'yo, each with its reason and the pages where it is carried out. The language is the flagship of the [Universal Languages](https://github.com/mrandmrsmurphy/universal-languages) project and satisfies its two shared principles (easier than any other regional language; its own script).
 
 ## The Renewed Sinosphere chooses unity
 

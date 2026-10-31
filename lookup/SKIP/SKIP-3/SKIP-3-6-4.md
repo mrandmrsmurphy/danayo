@@ -1,6 +1,6 @@
 ---
 stroke_count: 10
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 size: 3
 skip_number: 3-6-4
 tags: [lookup]
@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 1. <ruby>[栽](/characters/栽.md)<rt>ㄐㄚㄧ</rt></ruby> - cultivate
-2. <ruby>[烏](/characters/烏.md)<rt>ㄛ</rt></ruby> - bird
+2. <ruby>[烏](/characters/烏.md)<rt>ㄛ</rt></ruby> - crow
 3. <ruby>[馬](/characters/馬%20(char).md)<rt>ㄇㄚ</rt></ruby> - horse
 
 ## Datacheck

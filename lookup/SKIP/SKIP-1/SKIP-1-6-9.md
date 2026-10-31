@@ -1,6 +1,6 @@
 ---
 stroke_count: 15
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-6-9
 size: 18
 tags:
@@ -14,10 +14,10 @@ tags:
 2. <ruby>[糊](/characters/糊.md)<rt>ㄏㄛㄨ</rt></ruby> - muddled
 3. <ruby>[線](/characters/線.md)<rt>ㄙ⼶ㄋ</rt></ruby> - clue 
 4. <ruby>[締](/characters/締%20(char).md)<rt>ㄊㄝㄧ</rt></ruby> - connection
-5. <ruby>[編](/characters/編.md)<rt>ㄅ⼶ㄋ</rt></ruby> - combine
+5. <ruby>[編](/characters/編.md)<rt>ㄅ⼶ㄋ</rt></ruby> - compile, edit
 6. <ruby>[緩](/characters/緩.md)<rt>ㄏ⺢ㄋ</rt></ruby> - sluggish
 7. <ruby>[縁](/characters/縁.md)<rt>⼶ㄋ</rt></ruby> - fate
-8. <ruby>[縄](/characters/縄%20(char).md)<rt>ㄙㄧㄫ</rt></ruby> - cord
+8. <ruby>[縄](/characters/縄%20(char).md)<rt>ㄙㄜㄫ</rt></ruby> - cord
 9. <ruby>[蝉](/characters/蝉%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - cicada
 10. <ruby>[蝓](/characters/蝓.md)<rt>⼜ㄇ</rt></ruby> - slug
 11. <ruby>[蝙](/characters/蝙.md)<rt>ㄅㄝㄋ</rt></ruby> - bat

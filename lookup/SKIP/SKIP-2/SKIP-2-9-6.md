@@ -1,6 +1,6 @@
 ---
 stroke_count: 15
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 size: 1
 skip_number: 2-9-6
 tags: [lookup]
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 15](lookup/Stroke/Stroke%2015.md)
 
 ## Characters
-1. <ruby>[緊](/characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - taut
+1. <ruby>[緊](/characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
 
 ## Datacheck
 ```dataview

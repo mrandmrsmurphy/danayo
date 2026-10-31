@@ -1,7 +1,7 @@
 ---
 size: 4
 stroke_count: 3
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 4-3-3
 tags: [lookup]
 
@@ -14,7 +14,7 @@ tags: [lookup]
 1. <ruby>[千](characters/千.md)<rt>ㄑㄝㄋ</rt></ruby> "thousand"
 2. <ruby>[屮](characters/屮.md)<rt>ㄊㄧㄊ</rt></ruby> "new plant"
 3. <ruby>[巾](characters/巾.md)<rt>ㄎㄧㄋ</rt></ruby> "towel"
-4. <ruby>[才](characters/才.md)<rt>ㄐㄚㄧ</rt></ruby> "talent"
+4. <ruby>[才](characters/才.md)<rt>ㄐㄚㄧ</rt></ruby> "ability"
 
 ## Datacheck
 ```dataview

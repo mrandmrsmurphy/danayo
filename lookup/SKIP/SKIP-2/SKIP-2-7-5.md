@@ -2,7 +2,7 @@
 size: 4
 stroke_count: 12
 skip_number: 2-7-5
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 tags: [lookup]
 
 ---
@@ -10,7 +10,7 @@ tags: [lookup]
 > [Stroke 12](lookup/Stroke/Stroke%2012.md)
 
 ## Characters
-1. <ruby>[番](/characters/番%20(char).md)<rt>ㄆㄚㄋ</rt></ruby> - TIMES
+1. <ruby>[番](/characters/番%20(char).md)<rt>ㄈㄚㄋ</rt></ruby> - TIMES
 2. <ruby>[盛](/characters/盛.md)<rt>ㄙㄧㄫ</rt></ruby> - flourish
 3. <ruby>[禼](/characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - insect
 4. <ruby>[貿](/characters/貿.md)<rt>ㄇㄛㄨ</rt></ruby> - commerce

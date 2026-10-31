@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 10
 size: 28
 skip_number: 2-3-7
@@ -12,10 +12,10 @@ tags:
 ## Characters
 1. <ruby>[兼](characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> "double as"
 2. <ruby>[㒼](characters/㒼.md)<rt>ㄇㄚㄇ</rt></ruby> "cover"
-3. <ruby>[員](characters/員.md)<rt>ㄨㄋ</rt></ruby> "personel"
+3. <ruby>[員](characters/員.md)<rt>ㄨㄋ</rt></ruby> "personnel"
 4. <ruby>[套](characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> "covering"
 5. <ruby>[容](characters/容%20(char).md)<rt>⼄ㄫ</rt></ruby> "look"
-6. <ruby>[宮](characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> "palace"
+6. <ruby>[宮](characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> "royal court"
 7. <ruby>[宰](characters/宰.md)<rt>ㄐㄚㄧ</rt></ruby> "superintend"
 8. <ruby>[害](characters/害.md)<rt>ㄏㄚㄧ</rt></ruby> "damage"
 9. <ruby>[宴](characters/宴.md)<rt>ㄝㄋ</rt></ruby> "banquet"

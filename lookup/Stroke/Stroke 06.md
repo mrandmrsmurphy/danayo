@@ -1,7 +1,7 @@
 ---
 stroke_count: 6
 date-last-perfect: 2026-10-03
-size: 145
+size: 146
 tags:
   - lookup
 ---
@@ -10,7 +10,7 @@ tags:
 ## Characters
 ### In Use
 - 1-2-4: <ruby>[[伊]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[佤]]<rt>⺢ㄊ</rt></ruby>, <ruby>[[任]]<rt>ㄋㄧㄇ</rt></ruby>, <ruby>[[伎]]<rt>ㄍㄝ</rt></ruby>, <ruby>[[州 (char)|州]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[次]]<rt>ㄑㄧㄜ</rt></ruby>, <ruby>[[伍 (char)|伍]]<rt>ㄛ</rt></ruby>, <ruby>[[伝]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[仰]]<rt>⼘ㄫ</rt></ruby>, <ruby>[[仲]]<rt>ㄉㄨㄫ</rt></ruby>, <ruby>[[件]]<rt>ㄍ⼶ㄋ</rt></ruby>, <ruby>[[仮]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[伏 (char)|伏]]<rt>ㄅㄨㄎ</rt></ruby>, <ruby>[[伐]]<rt>ㄈㄝㄊ</rt></ruby>, <ruby>[[休]]<rt>ㄏ⼜</rt></ruby>
-- 1-3-3: <ruby>[[汐]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[行 (char)|行]]<rt>ㄏㄚㄫ</rt></ruby>, <ruby>[[地 (char)|地]]<rt>ㄉㄧㄜ</rt></ruby>, <ruby>[[妃]]<rt>ㄈㄧ</rt></ruby>, <ruby>[[扱 (char)|扱]]<rt>ㄑㄚㄆ</rt></ruby>, <ruby>[[汗 (char)|汗]]<rt>ㄏㄚㄋ</rt></ruby>, <ruby>[[好 (char)|好]]<rt>ㄏㄚㄨ</rt></ruby>, <ruby>[[壮]]<rt>ㄐ⺢ㄫ</rt></ruby>, <ruby>[[汚 (char)|汚]]<rt>ㄛ</rt></ruby>, <ruby>[[江]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[竹 (char)|竹]]<rt>ㄐㄨㄎ</rt></ruby>, <ruby>[[弛]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[羽]]<rt>ㄨ</rt></ruby>, <ruby>[[吸 (char)|吸]]<rt>ㄏㄧㄆ</rt></ruby>, <ruby>[[忙]]<rt>ㄇㄚㄫ</rt></ruby>, <ruby>[[池 (char)|池]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[汎 (char)|汎]]<rt>ㄈㄚㄇ</rt></ruby>, <ruby>[[兆]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[帆 (char)|帆]]<rt>ㄆㄚㄇ</rt></ruby>, <ruby>[[吐 (char)|吐]]<rt>ㄊㄛ</rt></ruby>, <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby>, <ruby>[[如 (char)|如]]<rt>ㄋ⼄</rt></ruby>
+- 1-3-3: <ruby>[[汐]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[屿]]<rt>ㄙ⼄</rt></ruby>, <ruby>[[行 (char)|行]]<rt>ㄏㄚㄫ</rt></ruby>, <ruby>[[地 (char)|地]]<rt>ㄉㄧㄜ</rt></ruby>, <ruby>[[妃]]<rt>ㄈㄧ</rt></ruby>, <ruby>[[扱 (char)|扱]]<rt>ㄑㄚㄆ</rt></ruby>, <ruby>[[汗 (char)|汗]]<rt>ㄏㄚㄋ</rt></ruby>, <ruby>[[好 (char)|好]]<rt>ㄏㄚㄨ</rt></ruby>, <ruby>[[壮]]<rt>ㄐ⺢ㄫ</rt></ruby>, <ruby>[[汚 (char)|汚]]<rt>ㄛ</rt></ruby>, <ruby>[[江]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[竹 (char)|竹]]<rt>ㄐㄨㄎ</rt></ruby>, <ruby>[[弛]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[羽]]<rt>ㄨ</rt></ruby>, <ruby>[[吸 (char)|吸]]<rt>ㄏㄧㄆ</rt></ruby>, <ruby>[[忙]]<rt>ㄇㄚㄫ</rt></ruby>, <ruby>[[池 (char)|池]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[汎 (char)|汎]]<rt>ㄈㄚㄇ</rt></ruby>, <ruby>[[兆]]<rt>ㄐㄚㄨ</rt></ruby>, <ruby>[[帆 (char)|帆]]<rt>ㄆㄚㄇ</rt></ruby>, <ruby>[[吐 (char)|吐]]<rt>ㄊㄛ</rt></ruby>, <ruby>[[汝 (char)|汝]]<rt>ㄋㄛㄧ</rt></ruby>, <ruby>[[如 (char)|如]]<rt>ㄋ⼄</rt></ruby>
 - 1-4-2: <ruby>[[肋]]<rt>ㄌㄜㄎ</rt></ruby>, <ruby>[[列]]<rt>ㄌㄝㄊ</rt></ruby>, <ruby>[[朽]]<rt>ㄏ⼜</rt></ruby>, <ruby>[[机]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[刑]]<rt>ㄏㄝㄫ</rt></ruby>, <ruby>[[此 (char)|此]]<rt>ㄑㄜ</rt></ruby>, <ruby>[[印]]<rt>ㄧㄋ</rt></ruby>, <ruby>[[朴]]<rt>ㄆㄚㄎ</rt></ruby>, <ruby>[[肌]]<rt>ㄍㄧㄜ</rt></ruby>, <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby>
 - 2-1-5: <ruby>[[亘 (char)|亘]]<rt>ㄏ⺢ㄋ</rt></ruby>
 - 2-2-4: <ruby>[[缶]]<rt>ㄍ⺢ㄋ</rt></ruby>, <ruby>[[劦]]<rt>ㄎㄝㄆ</rt></ruby>, <ruby>[[旨]]<rt>ㄐㄧㄜ</rt></ruby>, <ruby>[[而 (char)|而]]<rt>ㄋㄧ</rt></ruby>, <ruby>[[朶]]<rt>ㄉㄚ</rt></ruby>, <ruby>[[争]]<rt>ㄐㄚㄫ</rt></ruby>, <ruby>[[全 (char)|全]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[交 (char)|交]]<rt>ㄍ⼄ㄨ</rt></ruby>, <ruby>[[衣]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[充]]<rt>ㄑㄨㄫ</rt></ruby>, <ruby>[[毎 (char)|毎]]<rt>ㄇㄛㄧ</rt></ruby>, <ruby>[[企]]<rt>ㄎㄝ</rt></ruby>, <ruby>[[牟]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[亦 (char)|亦]]<rt>ㄜㄎ</rt></ruby>, <ruby>[[亥]]<rt>ㄏㄚㄧ</rt></ruby>, <ruby>[[百 (char)|百]]<rt>ㄅㄚㄎ</rt></ruby>, <ruby>[[会 (char)|会]]<rt>ㄏ⼔</rt></ruby>, <ruby>[[色]]<rt>ㄙㄧㄎ</rt></ruby>, <ruby>[[年 (char)|年]]<rt>ㄋㄝㄋ</rt></ruby>, <ruby>[[合 (char)|合]]<rt>ㄍㄛㄆ</rt></ruby>

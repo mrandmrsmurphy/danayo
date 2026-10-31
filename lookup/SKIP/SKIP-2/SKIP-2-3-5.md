@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 8
 size: 38
 skip_number: 2-3-5
@@ -13,11 +13,11 @@ tags:
 1. <ruby>[並](characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> "side by side"
 2. <ruby>[奄](characters/奄.md)<rt>⼶ㄇ</rt></ruby> "castrated person"
 3. <ruby>[奇](characters/奇.md)<rt>ㄍㄨㄧ</rt></ruby> "strange"
-4. <ruby>[奈](characters/奈.md)<rt></rt></ruby> "apple tree"
+4. <ruby>[奈](characters/奈.md)<rt>ㄋ⼘ㄧ</rt></ruby> "apple tree"
 5. <ruby>[孟](characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby> "first"
 6. <ruby>[宙](characters/宙%20(char).md)<rt>ㄐㄨㄛ</rt></ruby> "eternity"
-7. <ruby>[宕](characters/宕.md)<rt>ㄉㄚㄫ</rt></ruby> "quarry"
-8. <ruby>[宗](characters/宗.md)<rt>ㄐㄛㄫ</rt></ruby> "sect"
+7. <ruby>[宕](characters/宕.md)<rt>ㄉㄚㄫ</rt></ruby> "cave dwelling"
+8. <ruby>[宗](characters/宗.md)<rt>ㄐㄛㄫ</rt></ruby> "religion"
 9. <ruby>[官](characters/官.md)<rt>ㄍ⺢ㄋ</rt></ruby> "official"
 10. <ruby>[定](characters/定.md)<rt>ㄐㄝㄫ</rt></ruby> "decide"
 11. <ruby>[宛](characters/宛.md)<rt>ㄛㄋ</rt></ruby> "just like"
@@ -27,7 +27,7 @@ tags:
 15. <ruby>[尚](characters/尚%20(char).md)<rt>ㄙ⼘ㄫ</rt></ruby> "still"
 16. <ruby>[岸](characters/岸%20(char).md)<rt>ㄚㄋ</rt></ruby> "bank"
 17. <ruby>[岩](characters/岩.md)<rt>ㄚㄇ</rt></ruby> "rocks"
-18. <ruby>[𡿺](characters/𡿺.md)<rt>ㄋㄚㄨ</rt></ruby> "fontanel"
+18. <ruby>[𡿺](characters/𡿺.md)<rt>ㄋㄚㄨ</rt></ruby> "brain"
 19. <ruby>[帚](characters/帚.md)<rt>ㄐㄨ</rt></ruby> "broom"
 20. <ruby>[幸](characters/幸.md)<rt>ㄏㄚㄫ</rt></ruby> "lucky"
 21. <ruby>[盂](characters/盂.md)<rt>ㄨ</rt></ruby> "cup"
