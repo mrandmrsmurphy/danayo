@@ -1,19 +1,20 @@
 ---
 size: 2
 stroke_count: 7
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-6-1
 tags: [lookup]
 
 ---
 > SKIP : 1 : [6](lookup/SKIP/SKIP-1/SKIP-1-6.md)
+> [Stroke 07](lookup/Stroke/Stroke%2007.md)
 
 ## Characters
 1. <ruby>[乱](characters/乱.md)<rt>ㄌㄚㄋ</rt></ruby> - chaos
 2. <ruby>[耴](/characters/耴.md)<rt>ㄐㄨㄆ</rt></ruby> - earlobe
 
 ### Aliases
-- 糺 -> 糾
+- 糺 --> 糾
 
 ## Datacheck
 ```dataview
