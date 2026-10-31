@@ -52,6 +52,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[球]]<rt>ㄍ⼜</rt></ruby> "sphere; ball" (stand-in for 球)
+- <ruby>[[天球]]<rt>ㄊㄝㄋㄍ⼜</rt></ruby> "celestial sphere"
 
 ### Sports & Games
 - <ruby>[[排球]]<rt>ㄆㄚㄧㄍ⼜</rt></ruby> "volleyball"

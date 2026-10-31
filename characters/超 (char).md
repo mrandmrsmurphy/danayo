@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[超過勤務]]<rt>ㄊㄚㄨㄍ⺢ㄍㄧㄋㄇㄨ</rt></ruby> "overtime"
 - <ruby>[[超過]]<rt>ㄊㄚㄨㄍ⺢</rt></ruby> "excess"
 - <ruby>[[超自然]]<rt>ㄊㄚㄨㄐㄧㄜㄋ⼶ㄋ</rt></ruby> "supernatural"
+- <ruby>[[超新星]]<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby> "supernova"

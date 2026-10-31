@@ -70,6 +70,8 @@ boundedness: 90
 - <ruby>[[新潟]]<rt>ㄙㄧㄋㄙㄝㄎ</rt></ruby> "Niigata Prefecture"
 - <ruby>[[新金山]]<rt>ㄙㄧㄋㄍㄧㄇㄙㄚㄋ</rt></ruby> "Melbourne"
 - <ruby>[[新郎]]<rt>ㄙㄧㄋㄌㄚㄫ</rt></ruby> "groom"
+- <ruby>[[新月]]<rt>ㄙㄧㄋ⼔ㄊ</rt></ruby> "new moon"
+- <ruby>[[超新星]]<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby> "supernova"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

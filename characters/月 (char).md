@@ -52,6 +52,10 @@ boundedness: 80
 - 56th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](../syllables/⼔ㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
+- <ruby>[[新月]]<rt>ㄙㄧㄋ⼔ㄊ</rt></ruby> "new moon"
+- <ruby>[[半月]]<rt>ㄅㄚㄋ⼔ㄊ</rt></ruby> "half-moon"
+- <ruby>[[月光]]<rt>⼔ㄊㄎ⺢ㄫ</rt></ruby> "moonlight"
+- <ruby>[[月面]]<rt>⼔ㄊㄇ⼶ㄋ</rt></ruby> "lunar surface"
 ### Moon
 - <ruby>[[月]]<rt>⼔ㄊ</rt></ruby> "moon; month" (stand-in for 月)
 - <ruby>[[望月]]<rt>ㄇㄚㄫ⼔ㄊ</rt></ruby> "full moon"

@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[重慶]]<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby> "Chongqing"
 - <ruby>[[三重]]<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby> "Mie Prefecture"
 - <ruby>[[体重]]<rt>ㄊㄝㄧㄑㄛㄫ</rt></ruby> "body weight"
+- <ruby>[[重力]]<rt>ㄑㄛㄫㄌㄧㄎ</rt></ruby> "gravity"
 
 ## Chengyu
 - <ruby>[[義重於音]]<rt>ㄜㄧㄑㄛㄫㄛㄨㄇ</rt></ruby> "Meaning is more important than sound"

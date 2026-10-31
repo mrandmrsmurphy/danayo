@@ -60,6 +60,7 @@ boundedness: 80
 - <ruby>[[軽銀]]<rt>ㄎㄧㄫㄧㄋ</rt></ruby> "aluminium"
 - <ruby>[[銀河系]]<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby> "Milky Way galaxy"
 - <ruby>[[銀川]]<rt>ㄧㄋㄑ⺢ㄋ</rt></ruby> "Yinchuan"
+- <ruby>[[銀漢]]<rt>ㄧㄋㄏㄚㄋ</rt></ruby> "Milky Way (literary)"
 
 ## Chengyu
 - <ruby>[[銀盤呈首]]<rt>ㄧㄋㄅㄚㄋㄉㄧㄫㄙ⼜</rt></ruby> "Head on a silver platter"

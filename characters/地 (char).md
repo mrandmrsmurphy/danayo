@@ -85,6 +85,7 @@ boundedness: 90
 - <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth; all the gods"
 - <ruby>[[植民地]]<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby> "colony"
 - <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
+- <ruby>[[地軸]]<rt>ㄉㄧㄜㄉㄨㄎ</rt></ruby> "Earth's axis"
 
 ## Chengyu
 - <ruby>[[塩地光世]]<rt>⼶ㄇㄉㄧㄜㄎ⺢ㄫㄙㄝ</rt></ruby> "salt of the earth and light of the world"

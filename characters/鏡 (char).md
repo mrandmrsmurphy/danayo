@@ -62,6 +62,7 @@ boundedness: 75
 - <ruby>[[鏡鑑]]<rt>ㄍ⼶ㄫㄍㄚㄇ</rt></ruby> "mirror"
 - <ruby>[[三稜鏡]]<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby> "prism"
 - <ruby>[[咸鏡]]<rt>ㄏㄚㄇㄍ⼶ㄫ</rt></ruby> "Hamgyong"
+- <ruby>[[望遠鏡]]<rt>ㄇㄚㄫㄛㄋㄍ⼶ㄫ</rt></ruby> "telescope"
 
 ## Chengyu
 - <ruby>[[鏡花水月]]<rt>ㄍ⼶ㄫㄏ⺢ㄙㄨ⼔ㄊ</rt></ruby> "je ne sais quoi, fantasy, illusion"

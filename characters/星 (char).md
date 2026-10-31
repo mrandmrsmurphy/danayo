@@ -87,6 +87,15 @@ boundedness: 80
 - <ruby>[[昴宿星団]]<rt>ㄇ⼘ㄨㄙㄨㄎㄙㄝㄫㄉ⺢ㄋ</rt></ruby> "Pleiades"
 - <ruby>[[木星]]<rt>ㄇㄛㄎㄙㄝㄫ</rt></ruby> "Jupiter"
 - <ruby>[[火星]]<rt>ㄏ⺢ㄙㄝㄫ</rt></ruby> "Mars"
+- <ruby>[[星空]]<rt>ㄙㄝㄫㄎㄛㄫ</rt></ruby> "starry sky"
+- <ruby>[[衛星]]<rt>ㄝㄙㄝㄫ</rt></ruby> "satellite"
+- <ruby>[[星団]]<rt>ㄙㄝㄫㄉ⺢ㄋ</rt></ruby> "star cluster"
+- <ruby>[[超新星]]<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby> "supernova"
+- <ruby>[[流星群]]<rt>ㄌ⼜ㄙㄝㄫㄍㄨㄋ</rt></ruby> "meteor shower"
+- <ruby>[[北極星]]<rt>ㄅㄨㄎㄍㄧㄎㄙㄝㄫ</rt></ruby> "North Star"
+- <ruby>[[客星]]<rt>ㄎㄚㄎㄙㄝㄫ</rt></ruby> "guest star"
+- <ruby>[[星辰]]<rt>ㄙㄝㄫㄙㄧㄋ</rt></ruby> "stars"
+- <ruby>[[星宿]]<rt>ㄙㄝㄫㄙㄨㄎ</rt></ruby> "constellation (classical)"
 
 ## Chengyu
 - <ruby>[[日月星辰]]<rt>ㄋㄧㄊ⼔ㄊㄙㄝㄫㄙㄧㄋ</rt></ruby> "heavenly bodies"

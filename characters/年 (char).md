@@ -82,3 +82,4 @@ boundedness: 80
 - <ruby>[[年金]]<rt>ㄋㄝㄋㄍㄧㄇ</rt></ruby> "pension"
 - <ruby>[[学年]]<rt>ㄏㄚㄎㄋㄝㄋ</rt></ruby> "school year"
 - <ruby>[[年鑑]]<rt>ㄋㄝㄋㄍㄚㄇ</rt></ruby> "yearbook"
+- <ruby>[[光年]]<rt>ㄎ⺢ㄫㄋㄝㄋ</rt></ruby> "light-year"

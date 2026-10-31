@@ -63,6 +63,9 @@ boundedness: 90
 - <ruby>[[閃光]]<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby> "flash of light; glint"
 - <ruby>[[光州]]<rt>ㄎ⺢ㄫㄐㄨㄛ</rt></ruby> "Gwangju"
 - <ruby>[[仰光]]<rt>⼘ㄫㄎ⺢ㄫ</rt></ruby> "Yangon"
+- <ruby>[[月光]]<rt>⼔ㄊㄎ⺢ㄫ</rt></ruby> "moonlight"
+- <ruby>[[日光]]<rt>ㄋㄧㄊㄎ⺢ㄫ</rt></ruby> "sunlight"
+- <ruby>[[光年]]<rt>ㄎ⺢ㄫㄋㄝㄋ</rt></ruby> "light-year"
 
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"

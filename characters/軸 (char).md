@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[軸]]<rt>ㄉㄨㄎ</rt></ruby> "axis, axle, pivot" (stand-in for 軸)
+- <ruby>[[地軸]]<rt>ㄉㄧㄜㄉㄨㄎ</rt></ruby> "Earth's axis"

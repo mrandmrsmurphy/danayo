@@ -70,6 +70,7 @@ boundedness: 100
 - <ruby>[[孫悟空]]<rt>ㄙㄛㄋ·ㄛ·ㄎㄛㄫ</rt></ruby> "Monkey King"
 - <ruby>[[空隙]]<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby> "a gap"
 - <ruby>[[架空]]<rt>ㄍㄚ·ㄎㄛㄫ</rt></ruby> "imaginary"
+- <ruby>[[星空]]<rt>ㄙㄝㄫㄎㄛㄫ</rt></ruby> "starry sky"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

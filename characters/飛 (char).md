@@ -62,6 +62,7 @@ boundedness: 65
 - <ruby>[[飛報]]<rt>ㄈㄝㄧㄅㄚㄨ</rt></ruby> "report rapidly"
 - <ruby>[[飛行机]]<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
 - <ruby>[[飛語]]<rt>ㄈㄝㄧ⼄</rt></ruby> "baseless rumor, false gossip"
+- <ruby>[[宇宙飛行士]]<rt>ㄨㄐㄨㄛㄈㄝㄧㄏㄚㄫㄙㄚㄧ</rt></ruby> "astronaut"
 
 ## Chengyu
 - <ruby>[[流言飛語]]<rt>ㄌ⼜ㄝㄋㄈㄝㄧ⼄</rt></ruby> "baseless rumors, gossip spreading unchecked"

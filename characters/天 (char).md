@@ -113,6 +113,9 @@ boundedness: 80
 - <ruby>[[天津]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "Tianjin; the Milky Way"
 - <ruby>[[天安]]<rt>ㄊㄝㄋ·ㄚㄋ</rt></ruby> "Cheonan"
 - <ruby>[[天金]]<rt>ㄊㄝㄋㄍㄧㄇ</rt></ruby> "uranium"
+- <ruby>[[天体]]<rt>ㄊㄝㄋㄊㄝㄧ</rt></ruby> "celestial body"
+- <ruby>[[天文台]]<rt>ㄊㄝㄋㄇㄨㄋㄉㄚㄧ</rt></ruby> "observatory"
+- <ruby>[[天球]]<rt>ㄊㄝㄋㄍ⼜</rt></ruby> "celestial sphere"
 
 ## Derived Characters
 - <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"

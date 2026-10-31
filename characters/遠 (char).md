@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[永遠]]<rt>ㄨㄧㄫㄛㄋ</rt></ruby> "perpetual; eternal"
 - <ruby>[[遥遠]]<rt>⼄ㄨㄛㄋ</rt></ruby> "distant; faraway"
 - <ruby>[[遠方]]<rt>ㄛㄋㄈㄚㄫ</rt></ruby> "distant place; far away location"
+- <ruby>[[望遠鏡]]<rt>ㄇㄚㄫㄛㄋㄍ⼶ㄫ</rt></ruby> "telescope"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

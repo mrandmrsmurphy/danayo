@@ -75,3 +75,4 @@ boundedness: 80
 - <ruby>[[南極洲]]<rt>ㄋㄚㄇㄍㄧㄎㄐㄨㄛ</rt></ruby> "Antarctica"
 - <ruby>[[北極熊]]<rt>ㄅㄨㄎㄍㄧㄎ·ㄨㄫ</rt></ruby> "arctic bear"
 - <ruby>[[北極狐]]<rt>ㄅㄨㄎㄍㄧㄎㄏㄛ</rt></ruby> "arctic fox"
+- <ruby>[[北極星]]<rt>ㄅㄨㄎㄍㄧㄎㄙㄝㄫ</rt></ruby> "North Star"

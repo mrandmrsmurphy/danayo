@@ -56,3 +56,4 @@ boundedness: 100
 ## Words
 - <ruby>[[斗]]<rt>ㄉㄛㄨ</rt></ruby> "peck; Dipper" (stand-in for 斗)
 - <ruby>[[熨斗]]<rt>⼜ㄊㄉㄛㄨ</rt></ruby> "flatiron"
+- <ruby>[[北斗]]<rt>ㄅㄨㄎㄉㄛㄨ</rt></ruby> "Big Dipper"

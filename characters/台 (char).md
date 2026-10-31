@@ -66,6 +66,7 @@ boundedness: 95
 - <ruby>[[台北]]<rt>ㄉㄚㄧㄅㄨㄎ</rt></ruby> "Taipei"
 - <ruby>[[台湾]]<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby> "Taiwan"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
+- <ruby>[[天文台]]<rt>ㄊㄝㄋㄇㄨㄋㄉㄚㄧ</rt></ruby> "observatory"
 
 ## Derived Characters
 - <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss"

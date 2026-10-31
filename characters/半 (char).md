@@ -50,6 +50,7 @@ boundedness: 80
 - <ruby>[[下半期]]<rt>ㄏㄚㄅㄚㄋㄎㄧ</rt></ruby> "second half of the year"
 - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "peninsula"
 - <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby> "midnight"
+- <ruby>[[半月]]<rt>ㄅㄚㄋ⼔ㄊ</rt></ruby> "half-moon"
 
 ## Derived Characters
 - <ruby>[[絆]]<rt>ㄅㄚㄋ</rt></ruby> "band, fetter"

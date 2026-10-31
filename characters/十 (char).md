@@ -102,6 +102,8 @@ boundedness: 75
 - <ruby>[[三十一日]]<rt>ㄙㄚㄇㄙㄧㄆ·ㄧㄊㄋㄧㄊ</rt></ruby> "thirty-first day of the month"
 - <ruby>[[十万]]<rt>ㄙㄧㄆㄇㄛㄋ</rt></ruby> "one hundred thousand"
 - <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
+- <ruby>[[二十八宿]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby> "Twenty-Eight Mansions"
+- <ruby>[[十二宮]]<rt>ㄙㄧㄆㄋㄧㄜㄍㄨㄫ</rt></ruby> "zodiac"
 
 ## Chengyu
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"

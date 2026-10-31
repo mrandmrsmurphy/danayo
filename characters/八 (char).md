@@ -74,6 +74,7 @@ boundedness: 65
 - <ruby>[[十八日]]<rt>ㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "eighteenth day of the month"
 - <ruby>[[二十八日]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄋㄧㄊ</rt></ruby> "twenty-eighth day of the month"
 - <ruby>[[八万]]<rt>ㄅㄚㄊㄇㄛㄋ</rt></ruby> "eighty thousand"
+- <ruby>[[二十八宿]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby> "Twenty-Eight Mansions"
 
 ## Chengyu
 - <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"
