@@ -58,6 +58,7 @@ boundedness: 90
 - <ruby>[[無罪]]<rt>ㄇㄜㄐㄛㄧ</rt></ruby> "innocent, not guilty"
 - <ruby>[[有罪]]<rt>⼜ㄐㄛㄧ</rt></ruby> "guilty"
 - <ruby>[[冤罪]]<rt>ㄛㄋㄐㄛㄧ</rt></ruby> "wrongful conviction"
+- <ruby>[[謝罪]]<rt>ㄙ⼘ㄐㄛㄧ</rt></ruby> "apology"
 
 ## Chengyu
 - <ruby>[[世間罪盛]]<rt>ㄙㄝㄍㄚㄋㄐㄛㄧㄙㄧㄫ</rt></ruby> "the world is sinful"

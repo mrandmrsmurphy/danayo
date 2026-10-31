@@ -60,3 +60,4 @@ boundedness: 60
 - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby> "be concerned about, care for"
 - <ruby>[[関詞]]<rt>ㄍ⺢ㄇㄙㄚ</rt></ruby> "relator, particle (grammar), relational"
 - <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, joint"
+- <ruby>[[関節]]<rt>ㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "joint (anatomical)"

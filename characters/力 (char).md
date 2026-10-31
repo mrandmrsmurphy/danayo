@@ -61,6 +61,7 @@ boundedness: 90
 - <ruby>[[能力]]<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby> "ability; capability"
 - <ruby>[[努力]]<rt>ㄋㄛㄌㄧㄎ</rt></ruby> "strive; endeavor"
 - <ruby>[[大力]]<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby> "great strength; vigorously; Da Lat"
+- <ruby>[[暴力]]<rt>ㄅㄛㄎㄌㄧㄎ</rt></ruby> "violence"
 
 ## Chengyu
 - <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"

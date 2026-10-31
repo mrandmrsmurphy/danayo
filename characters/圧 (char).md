@@ -55,3 +55,4 @@ boundedness: 55
 ## Words
 - <ruby>[[圧]]<rt>ㄚㄊ</rt></ruby> "press; control" (stand-in for 圧)
 - <ruby>[[弾圧]]<rt>ㄉㄚㄋ·ㄚㄊ</rt></ruby> "subjugate, repress"
+- <ruby>[[鎮圧]]<rt>ㄑㄧㄋ·ㄚㄊ</rt></ruby> "suppression"

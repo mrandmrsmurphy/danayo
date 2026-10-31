@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[寝]]<rt>ㄑㄧㄇ</rt></ruby> "sleep, lie down, rest" (stand-in for 寝)
+- <ruby>[[就寝]]<rt>ㄑ⺢ㄧㄑㄧㄇ</rt></ruby> "go to bed"

@@ -55,3 +55,4 @@ boundedness: 75
 ## Words
 - <ruby>[[眉]]<rt>ㄇㄧㄜ</rt></ruby> "eyebrows" (stand-in for 眉 (char))
 - <ruby>[[嬌眉]]<rt>ㄍ⼘ㄨㄇㄧㄜ</rt></ruby> "coquettish, charming"
+- <ruby>[[皺眉]]<rt>ㄐㄨ·ㄇㄧㄜ</rt></ruby> "frown"

@@ -87,6 +87,7 @@ boundedness: 75
 - <ruby>[[校長]]<rt>ㄏ⼘ㄨㄐㄚㄫ</rt></ruby> "principal"
 - <ruby>[[成長]]<rt>ㄙㄧㄫㄐㄚㄫ</rt></ruby> "grow"
 - <ruby>[[会長]]<rt>ㄏ⼔ㄐㄚㄫ</rt></ruby> "president"
+- <ruby>[[身長]]<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby> "height"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

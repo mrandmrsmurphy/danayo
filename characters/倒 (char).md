@@ -52,3 +52,4 @@ boundedness: 100
 ## Words
 - <ruby>[[倒]]<rt>ㄊㄚㄨ</rt></ruby> "turn over; take turns" (stand-in for 倒)
 - <ruby>[[絆倒]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "to trip; to cause to stumble"
+- <ruby>[[昏倒]]<rt>ㄏㄛㄋㄊㄚㄨ</rt></ruby> "faint"

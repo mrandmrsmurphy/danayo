@@ -59,3 +59,5 @@ boundedness: 85
 - <ruby>[[挟撃]]<rt>ㄏㄝㄆㄍㄝㄎ</rt></ruby> "pincer strike, converging attack"
 - <ruby>[[狙撃]]<rt>ㄑㄛㄍㄝㄎ</rt></ruby> "snipe"
 - <ruby>[[進撃]]<rt>ㄐㄧㄋㄍㄝㄎ</rt></ruby> "charge"
+- <ruby>[[攻撃]]<rt>ㄍㄛㄫㄍㄝㄎ</rt></ruby> "attack"
+- <ruby>[[襲撃]]<rt>ㄙㄜㄆㄍㄝㄎ</rt></ruby> "raid"

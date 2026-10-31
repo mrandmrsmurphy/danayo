@@ -69,6 +69,7 @@ boundedness: 20
 - <ruby>[[肋骨]]<rt>ㄌㄜㄎㄍㄛㄊ</rt></ruby> "rib"
 - <ruby>[[腰骨]]<rt>⼄ㄨㄍㄛㄊ</rt></ruby> "hip bone"
 - <ruby>[[龍骨]]<rt>ㄌ⼄ㄫㄍㄛㄊ</rt></ruby> "keel"
+- <ruby>[[軟骨]]<rt>ㄋㄝㄋㄍㄛㄊ</rt></ruby> "cartilage"
 
 ## Chengyu
 - <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

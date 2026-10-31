@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[惑]]<rt>ㄏㄛㄎ</rt></ruby> "confusing; bewildering; doubt" (stand-in for 惑)
 - <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby> "charm; captivate"
+- <ruby>[[疑惑]]<rt>ㄧㄏㄛㄎ</rt></ruby> "suspicion"

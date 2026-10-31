@@ -70,6 +70,7 @@ boundedness: 70
 - <ruby>[[臘八節]]<rt>ㄌㄚㄆㄅㄚㄊㄐㄝㄊ</rt></ruby> "Laba Festival"
 - <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, finger joint"
 - <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
+- <ruby>[[関節]]<rt>ㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "joint (anatomical)"
 
 ## Derived Characters
 - <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

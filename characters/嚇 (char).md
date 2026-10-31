@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[嚇]]<rt>ㄏㄚㄎ</rt></ruby> "scare; frighten" (stand-in for 嚇)
+- <ruby>[[威嚇]]<rt>ㄛㄧㄏㄚㄎ</rt></ruby> "intimidation"

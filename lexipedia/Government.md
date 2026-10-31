@@ -5,6 +5,7 @@ domain: Government
 related_domains:
   - "[[Society]]"
   - "[[Law]]"
+  - "[[Conflict]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

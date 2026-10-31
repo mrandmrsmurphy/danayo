@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[尊重]]<rt>ㄐㄛㄋㄑㄛㄫ</rt></ruby> "respect; esteem"
 - <ruby>[[重慶]]<rt>ㄑㄛㄫㄎ⼶ㄫ</rt></ruby> "Chongqing"
 - <ruby>[[三重]]<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby> "Mie Prefecture"
+- <ruby>[[体重]]<rt>ㄊㄝㄧㄑㄛㄫ</rt></ruby> "body weight"
 
 ## Chengyu
 - <ruby>[[義重於音]]<rt>ㄜㄧㄑㄛㄫㄛㄨㄇ</rt></ruby> "Meaning is more important than sound"

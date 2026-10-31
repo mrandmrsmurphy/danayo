@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[鎮]]<rt>ㄑㄧㄋ</rt></ruby> "tranquilize" (stand-in for 鎮 (char))
+- <ruby>[[鎮圧]]<rt>ㄑㄧㄋ·ㄚㄊ</rt></ruby> "suppression"

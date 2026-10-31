@@ -6,6 +6,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Sin]]"
   - "[[Society]]"
+  - "[[Conflict]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

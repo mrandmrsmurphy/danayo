@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[決定]]<rt>ㄎ⼔ㄊㄐㄝㄫ</rt></ruby> "decide; choose"
 - <ruby>[[処決]]<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby> "handle; resolve; execute"
 - <ruby>[[判決]]<rt>ㄆㄚㄋㄎ⼔ㄊ</rt></ruby> "verdict"
+- <ruby>[[対決]]<rt>ㄉㄛㄧㄎ⼔ㄊ</rt></ruby> "showdown"
 
 ## Derived Characters
 - <ruby>[[快 (char)|快]]<rt>ㄎ⺢ㄧ</rt></ruby> "sharp"

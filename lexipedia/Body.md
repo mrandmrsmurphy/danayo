@@ -7,15 +7,22 @@ related_domains:
   - "[[Life]]"
   - "[[Physical]]"
   - "[[Animals]]"
-status: partial
-date-last-perfect: 2026-09-27
+  - "[[Sensation]]"
+  - "[[Food]]"
+  - "[[Reproduction]]"
+  - "[[Mind]]"
+  - "[[Emotions]]"
+status: complete
+date-last-perfect: 2026-10-31
 ---
 
 # Body
 
-Body vocabulary covers the parts of the human body inside and out, the corresponding anatomical terms specific to animals (claws, wings, hooves, scales), and the physical actions, gestures, and involuntary reactions the body performs. A number of everyday physical verbs (to stand, to touch, to blink, to sneeze) have no Dan'a'yo word yet — flagged below rather than silently skipped, so this remains an honest map of what's actually built.
+Body vocabulary covers the parts of the human body inside and out — limbs, torso, head and face, skeleton, organs, vessels, fluids, digestion and reproduction — together with the corresponding parts of animals (claws, wings, hooves, scales). It also covers what the body does: posture and gesture, handling and gripping, the actions of the mouth and breath, sleep and fainting, and the illnesses and medical terms that go with it. The senses, hunger and thirst, and waking are housed on other pages; see See Also.
 
 ## Core Vocabulary (A1–A2)
+
+### The Body & Its Parts
 
 - <ruby>[身体](../words/身体.md)<rt>ㄙㄧㄋㄊㄝㄧ</rt></ruby>: body.
 - <ruby>[部位](../words/部位.md)<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby>: a body part, site, region — a specific location on or in the body (an injection site, the site of a wound) or on any larger whole; the general anatomical term whose pinpoint form is [[穴位]] (acupuncture point), where [[身体]] is the body as a whole.
@@ -27,6 +34,9 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[口](../words/口.md)<rt>ㄎㄛㄨ</rt></ruby>: mouth.
 - <ruby>[鼻](../words/鼻.md)<rt>ㄅㄧ</rt></ruby>: nose.
 - <ruby>[舌](../words/舌.md)<rt>ㄙㄝㄊ</rt></ruby>: tongue.
+
+### Heart, Blood & Bone
+
 - <ruby>[心臓](../words/心臓.md)<rt>ㄙㄧㄇㄐㄚㄫ</rt></ruby>: heart.
 - <ruby>[血](../words/血.md)<rt>ㄏ⼔ㄊ</rt></ruby>, <ruby>[血液](../words/血液.md)<rt>ㄏ⼔ㄊ⼶ㄎ</rt></ruby>: blood.
 - <ruby>[出血](../words/出血.md)<rt>ㄑㄨㄊㄏ⼔ㄊ</rt></ruby>: to bleed, hemorrhage (出血性, "hemorrhagic").
@@ -38,6 +48,7 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 ### Limbs & Extremities
 
 - <ruby>[腕](../words/腕.md)<rt>⺢ㄋ</rt></ruby>: arm.
+- <ruby>[手首](../words/手首.md)<rt>ㄙ⼜ㄙ⼜</rt></ruby>: wrist.
 - <ruby>[脚](../words/脚.md)<rt>ㄍ⼘ㄎ</rt></ruby>: leg.
 - <ruby>[肢体](../words/肢体.md)<rt>ㄐㄝ·ㄊㄝㄧ</rt></ruby>, <ruby>[手足](../words/手足.md)<rt>ㄙ⼜ㄐㄛㄎ</rt></ruby>: limb.
 - <ruby>[肩](../words/肩.md)<rt>ㄍㄝㄋ</rt></ruby>: shoulder.
@@ -52,7 +63,6 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[無名指](../words/無名指.md)<rt>ㄇㄜ·ㄇㄧㄫㄐㄧㄜ</rt></ruby>: ring finger/fourth toe.
 - <ruby>[小指](../words/小指.md)<rt>ㄙㄛㄐㄧㄜ</rt></ruby>: pinky/little finger/little toe.
 - <ruby>[指甲](../words/指甲.md)<rt>ㄐㄧㄜㄍㄚㄆ</rt></ruby>: fingernail/toenail.
-- <ruby>[節](../words/節.md)<rt>ㄐㄝㄊ</rt></ruby>: joint (general).
 - <ruby>[膝蓋](../words/膝蓋.md)<rt>ㄙㄜㄊㄍㄚㄧ</rt></ruby>: knee.
 - <ruby>[大腿](../words/大腿.md)<rt>ㄉㄚㄧㄊㄧㄜ</rt></ruby>: thigh.
 - <ruby>[股](../words/股.md)<rt>ㄍㄛ</rt></ruby>: the crotch, groin — by extension, any forked or bifurcated shape, as in [[溝股]] ("Pythagorean Theorem," from the two legs of a right triangle).
@@ -79,122 +89,168 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 - <ruby>[五官](../words/五官.md)<rt>ㄛㄍ⺢ㄋ</rt></ruby>: the five sense organs (classical Chinese medicine's diagnostic correspondences); in modern usage, most commonly "facial features" collectively (五官端正, "regular, well-proportioned features").
 - <ruby>[頬](../words/頬.md)<rt>ㄍㄝㄆ</rt></ruby>: cheek.
-- <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>: middle ear.
-- <ruby>[耳朶](../words/耳朶.md)<rt>ㄋㄧㄉㄚ</rt></ruby>: earlobe.
-- <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>: eyebrows.
-- <ruby>[眼瞼](../words/眼瞼.md)<rt>ㄚㄋㄍㄝㄇ</rt></ruby>: the eyelid — the fold of skin covering the eye; the formal and medical word (the everyday words differ by language), the stand-in for the bound character 瞼.
-- <ruby>[虹彩](../words/虹彩.md)<rt>ㄏㄛㄫㄑㄚㄧ</rt></ruby>: iris (of the eye).
 - <ruby>[顔面](../words/顔面.md)<rt>ㄚㄋㄇ⼶ㄋ</rt></ruby>: face.
 - <ruby>[顔色](../words/顔色.md)<rt>ㄚㄋㄙㄧㄎ</rt></ruby>: complexion, expression.
 - <ruby>[人中](../words/人中.md)<rt>ㄋㄧㄋㄐㄨㄫ</rt></ruby>: philtrum.
 - <ruby>[額頭](../words/額頭.md)<rt>ㄚㄎㄊㄛㄨ</rt></ruby>: forehead.
-- <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby>: hair.
+- <ruby>[眉](../words/眉.md)<rt>ㄇㄧㄜ</rt></ruby>: eyebrows.
+- <ruby>[眼瞼](../words/眼瞼.md)<rt>ㄚㄋㄍㄝㄇ</rt></ruby>: the eyelid — the fold of skin covering the eye; the formal and medical word (the everyday words differ by language), the stand-in for the bound character 瞼.
+- <ruby>[眼球](../words/眼球.md)<rt>ㄚㄋㄍ·⼜</rt></ruby>: eyeball.
+- <ruby>[眼睛](../words/眼睛.md)<rt>ㄚㄋㄐㄧㄫ</rt></ruby>: eye — the ordinary word for the eye as a whole (originally the pupil); the pupil proper is [[瞳孔]]. See Semantic Range Notes.
+- <ruby>[瞳孔](../words/瞳孔.md)<rt>ㄉㄛㄫㄎㄛㄫ</rt></ruby>: pupil (of the eye).
+- <ruby>[虹彩](../words/虹彩.md)<rt>ㄏㄛㄫㄑㄚㄧ</rt></ruby>: iris (of the eye).
+- <ruby>[中耳](../words/中耳.md)<rt>ㄐㄨㄫㄋㄧ</rt></ruby>: middle ear.
+- <ruby>[耳朶](../words/耳朶.md)<rt>ㄋㄧㄉㄚ</rt></ruby>: earlobe.
+- <ruby>[耳根](../words/耳根.md)<rt>ㄋㄧㄍㄜㄋ</rt></ruby>: the root of the ear.
 - <ruby>[唇](../words/唇.md)<rt>ㄙㄨㄋ</rt></ruby>: lip.
 - <ruby>[口臭](../words/口臭.md)<rt>ㄎㄛㄨㄑㄨ</rt></ruby>: bad breath.
-- <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.
-- <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
-- <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby>: uvula.
 - <ruby>[歯](../words/歯.md)<rt>ㄑㄧ</rt></ruby>: tooth.
-- <ruby>[含漱](../words/含漱.md)<rt>ㄏㄚㄇㄙㄛㄨ</rt></ruby>: to gargle.
 - <ruby>[歯齦](../words/歯齦.md)<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby>: gingiva, gums.
 - <ruby>[歯痛](../words/歯痛.md)<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby>: toothache.
+- <ruby>[含漱](../words/含漱.md)<rt>ㄏㄚㄇㄙㄛㄨ</rt></ruby>: to gargle.
+- <ruby>[舌根](../words/舌根.md)<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby>: the root of the tongue.
 - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚㄚㄎ</rt></ruby>: jaw/chin.
+
+### Hair & Beard
+
+- <ruby>[頭髪](../words/頭髪.md)<rt>ㄊㄛㄨㄈㄚㄊ</rt></ruby>: hair.
+- <ruby>[睫毛](../words/睫毛.md)<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby>: eyelash.
 - <ruby>[鬚髯](../words/鬚髯.md)<rt>ㄙㄨ·ㄋㄛㄇ</rt></ruby>: beard/moustache — a single word spans both; Korean 수염, its everyday native gloss, does the same.
 - <ruby>[禿](../words/禿.md)<rt>ㄊㄛㄎ</rt></ruby>: bald.
 - <ruby>[剃](../words/剃.md)<rt>ㄊㄝㄧ</rt></ruby>: to shave.
-- <ruby>[睫毛](../words/睫毛.md)<rt>ㄑㄝㄆㄇㄚㄨ</rt></ruby>: eyelash.
-- <ruby>[項](../words/項.md)<rt>ㄏㄚㄫ</rt></ruby>: the nape of the neck; also "an item" (homophones listed on its page).
 
-### Skin, Build & Coloring
+### Neck, Throat & Airway
+
+- <ruby>[頚](../words/頚.md)<rt>ㄍㄧㄫ</rt></ruby>: neck.
+- <ruby>[項](../words/項.md)<rt>ㄏㄚㄫ</rt></ruby>: the nape of the neck; also "an item" (homophones listed on its page).
+- <ruby>[咽喉](../words/咽喉.md)<rt>ㄝㄋㄏㄛㄨ</rt></ruby>: throat.
+- <ruby>[懸壅垂](../words/懸壅垂.md)<rt>ㄏ⼔ㄋ·ㄛㄫㄐㄨㄧ</rt></ruby>: uvula.
+- <ruby>[喉頭](../words/喉頭.md)<rt>ㄏㄛㄨㄊㄛㄨ</rt></ruby>: larynx, voice box.
+- <ruby>[声帯](../words/声帯.md)<rt>ㄙㄧㄫㄊㄚㄧ</rt></ruby>: vocal cords.
+- <ruby>[気管](../words/気管.md)<rt>ㄎㄧㄜㄍ⺢ㄋ</rt></ruby>: windpipe, trachea.
+
+### Skin, Build & Appearance
 
 - <ruby>[肌理](../words/肌理.md)<rt>ㄍㄧㄜㄌㄧ</rt></ruby>: skin texture.
 - <ruby>[瘡口](../words/瘡口.md)<rt>ㄑ⺢ㄫㄎㄛㄨ</rt></ruby>: a wound opening, open sore. Homophone of [[窓口]] ("window") — unrelated.
-- <ruby>[肥胖](../words/肥胖.md)<rt>ㄅㄨㄧㄅㄚㄋ</rt></ruby>: fat, obese.
 - <ruby>[醜陋](../words/醜陋.md)<rt>ㄑㄨㄛㄌ⼘ㄨ</rt></ruby>: ugly.
 - <ruby>[金髪碧眼](../words/金髪碧眼.md)<rt>ㄍㄧㄇㄈㄚㄊㄅ⼶ㄎ·ㄚㄋ</rt></ruby>: blonde hair, blue eyes.
-
-### Reproductive & Excretory
-
-- <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby>: nipple.
-- <ruby>[哺乳](../words/哺乳.md)<rt>ㄅㄛ·ㄋㄨ</rt></ruby>: to breastfeed, suckle.
-- <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy (clinical/formal register).
-- <ruby>[堕胎](../words/堕胎.md)<rt>ㄉ⺢·ㄊㄚㄧ</rt></ruby>: to abort; abortion.
-- <ruby>[妊](../words/妊.md)<rt>ㄋㄧㄇ</rt></ruby>: to be pregnant, conceive — the bound root behind [[妊娠]] above.
-- <ruby>[割包皮](../words/割包皮.md)<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby>: circumcision.
-- <ruby>[包皮](../words/包皮.md)<rt>ㄅ⼘ㄨㄅㄧ</rt></ruby>: the foreskin.
-- <ruby>[奄人](../words/奄人.md)<rt>⼶ㄇㄋㄧㄋ</rt></ruby>: a eunuch, castrato.
-- <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, be pregnant (the everyday Mandarin verb, 懷孕/怀孕).
-- <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
-- <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.
-- <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>: vagina.
-- <ruby>[膣](../words/膣.md)<rt>ㄐㄧㄊ</rt></ruby>: cunt — a vulgar/crude register of [[陰道]]'s neutral anatomical term.
-- <ruby>[陰核](../words/陰核.md)<rt>ㄧㄇㄏㄚㄎ</rt></ruby>: clitoris.
-- <ruby>[陰茎](../words/陰茎.md)<rt>ㄧㄇㄎㄧㄫ</rt></ruby>: penis.
-- <ruby>[亀頭](../words/亀頭.md)<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby>: glans penis.
-- <ruby>[睾丸](../words/睾丸.md)<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby>, <ruby>[精巣](../words/精巣.md)<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>: testicle.
-- <ruby>[肛門](../words/肛門.md)<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>: anus.
-- <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>: semen.
-- <ruby>[精子](../words/精子.md)<rt>ㄐㄝㄫㄐㄜ</rt></ruby>: sperm.
-- <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>: to ejaculate.
-- <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>: urine.
-- <ruby>[旁胱](../words/旁胱.md)<rt>ㄅㄚㄫㄍ⺢ㄫ</rt></ruby>: the urinary bladder.
-- <ruby>[失禁](../words/失禁.md)<rt>ㄙㄧㄊㄍㄧㄇ</rt></ruby>: incontinence — loss of bladder or bowel control.
-- <ruby>[屎](../words/屎.md)<rt>ㄏㄜ</rt></ruby>: excrement, feces — [[尿]]'s solid counterpart.
-- <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>: diarrhea.
-- <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>: menstruation.
-- <ruby>[屁](../words/屁.md)<rt>ㄆㄧㄜ</rt></ruby>: fart.
-- <ruby>[唾液](../words/唾液.md)<rt>ㄊㄚ⼶ㄎ</rt></ruby>: spit.
-- <ruby>[鼻水](../words/鼻水.md)<rt>ㄅㄧㄙㄨ</rt></ruby>: snot.
-
-### Internal Organs & Fluids
-
-- <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
-- <ruby>[内臓](../words/内臓.md)<rt>ㄋㄛㄧㄐㄚㄫ</rt></ruby>: internal organs, viscera.
-- <ruby>[六府](../words/六府.md)<rt>ㄌㄨㄎㄈㄨ</rt></ruby>: the Six Hollow Organs — [[五臓]]'s own complementary yang organs (stomach, small/large intestine, gallbladder, bladder, and the triple burner).
-- <ruby>[肺府](../words/肺府.md)<rt>ㄈㄝㄈㄨ</rt></ruby>: lungs and viscera; the innermost heart (肺腑) — 府 stands in for 腑 as in 六府.
-- <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
+- <ruby>[身長](../words/身長.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: height, stature.
+- <ruby>[体重](../words/体重.md)<rt>ㄊㄝㄧㄑㄛㄫ</rt></ruby>: body weight.
+- <ruby>[肥胖](../words/肥胖.md)<rt>ㄅㄨㄧㄅㄚㄋ</rt></ruby>: fat, obese.
+- <ruby>[肥満](../words/肥満.md)<rt>ㄅㄨㄧㄇㄚㄋ</rt></ruby>: obesity; obese.
+- <ruby>[肥大](../words/肥大.md)<rt>ㄅㄨㄧㄉㄚㄧ</rt></ruby>: enlarged, hypertrophied; corpulent.
+- <ruby>[肥脊](../words/肥脊.md)<rt>ㄅㄨㄧㄐㄝㄎ</rt></ruby>: fatness and leanness — plumpness and thinness as a contrast.
 - <ruby>[脂肪](../words/脂肪.md)<rt>ㄐㄧㄜㄈㄚㄫ</rt></ruby>: fat.
-- <ruby>[肪](../words/肪.md)<rt>ㄈㄚㄫ</rt></ruby>: fat, obese — the bound root behind [[脂肪]] above, an undocumented near-duplicate of [[肥胖]] in its own "obese" sense.
-- <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
-- <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
-- <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
-- <ruby>[腺体](../words/腺体.md)<rt>ㄙ⼶ㄋㄊㄝㄧ</rt></ruby>: a gland.
-- <ruby>[分泌](../words/分泌.md)<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby>: to secrete, produce secretions — what a gland ([[腺体]]) does; the standard physiological verb, also used of cells and plants.
-- <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>, <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: shit.
-- <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
-- <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).
-- <ruby>[小腸](../words/小腸.md)<rt>ㄙㄛㄑㄚㄫ</rt></ruby>: the small intestine.
-- <ruby>[大腸](../words/大腸.md)<rt>ㄉㄚㄧㄑㄚㄫ</rt></ruby>: the large intestine, bowel, colon.
-- <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>: stomach acid.
-- <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>: stomach cancer.
-- <ruby>[腫瘍](../words/腫瘍.md)<rt>ㄐㄛㄫ⼘ㄫ</rt></ruby>: a tumor, neoplasm.
-- <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>: sweat.
-- <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
-- <ruby>[膿](../words/膿.md)<rt>ㄋㄛㄫ</rt></ruby>: pus.
-- <ruby>[体液](../words/体液.md)<rt>ㄊㄝㄧ⼶ㄎ</rt></ruby>: bodily fluid — the general umbrella term covering [[血]], [[汗]], [[涙]], and [[膿]] alike.
-- <ruby>[痰](../words/痰.md)<rt>ㄉㄚㄇ</rt></ruby>: phlegm, sputum.
-- <ruby>[細胞](../words/細胞.md)<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>: a biological cell — a Meiji coinage translating German Zelle.
-- <ruby>[核](../words/核.md)<rt>ㄏㄚㄎ</rt></ruby>: a nucleus — the core of a [[細胞]] (cell), and by extension of an atom (原子核); the bound root behind [[真核]] on [Animals](../lexipedia/Animals.md).
-- <ruby>[粘液](../words/粘液.md)<rt>ㄋㄝㄇ·⼶ㄎ</rt></ruby>: mucus — the sticky bodily secretion; attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found; one of the fluids under [[体液]].
-- <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
-- <ruby>[肺臓](../words/肺臓.md)<rt>ㄈㄝㄐㄚㄫ</rt></ruby>: lungs.
-- <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>: womb.
-- <ruby>[腎臓](../words/腎臓.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: kidney.
-- <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: brain.
-- <ruby>[腸管](../words/腸管.md)<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>: intestines.
-- <ruby>[内腔](../words/内腔.md)<rt>ㄋㄛㄧㄎㄚㄫ</rt></ruby>: a lumen, body cavity — the hollow inside a tubular organ or vessel (the lumen of a blood vessel or intestine), or an internal cavity of the body; the stand-in for the bound character 腔.
+- <ruby>[肪](../words/肪.md)<rt>ㄈㄚㄫ</rt></ruby>: fat — the bound root behind [[脂肪]]; also "obese."
+
+### Skeleton & Joints
+
 - <ruby>[骨格](../words/骨格.md)<rt>ㄍㄛㄊㄍㄚㄎ</rt></ruby>, <ruby>[骸骨](../words/骸骨.md)<rt>ㄏ⼶ㄍㄛㄊ</rt></ruby>: skeleton.
 - <ruby>[頭骨](../words/頭骨.md)<rt>ㄊㄛㄨㄍㄛㄊ</rt></ruby>: skull.
 - <ruby>[肋骨](../words/肋骨.md)<rt>ㄌㄜㄎㄍㄛㄊ</rt></ruby>: rib.
 - <ruby>[背骨](../words/背骨.md)<rt>ㄅㄛㄧㄍㄛㄊ</rt></ruby>, <ruby>[脊椎](../words/脊椎.md)<rt>ㄐㄝㄎㄑㄨㄧ</rt></ruby> (vertebrae): spine.
 - <ruby>[骨盤](../words/骨盤.md)<rt>ㄍㄛㄊㄅㄚㄋ</rt></ruby>: pelvis.
+- <ruby>[節](../words/節.md)<rt>ㄐㄝㄊ</rt></ruby>: joint (general).
+- <ruby>[関節](../words/関節.md)<rt>ㄍ⺢ㄇㄐㄝㄊ</rt></ruby>: joint (anatomical), where two bones meet.
+- <ruby>[軟骨](../words/軟骨.md)<rt>ㄋㄝㄋㄍㄛㄊ</rt></ruby>: cartilage.
+- <ruby>[骨髄](../words/骨髄.md)<rt>ㄍㄛㄊㄙㄨㄧ</rt></ruby>: bone marrow.
+
+### Organs
+
+- <ruby>[内臓](../words/内臓.md)<rt>ㄋㄛㄧㄐㄚㄫ</rt></ruby>: internal organs, viscera.
+- <ruby>[五臓](../words/五臓.md)<rt>ㄛㄐㄚㄫ</rt></ruby>: the Five Solid Organs of traditional Chinese medicine (heart, liver, spleen, lungs, kidneys), paired with the Five Elements and [[五官]]'s sense organs; often combined with the Six Hollow Organs (六府) as 五臓六府, "all the internal organs."
+- <ruby>[六府](../words/六府.md)<rt>ㄌㄨㄎㄈㄨ</rt></ruby>: the Six Hollow Organs — [[五臓]]'s own complementary yang organs (stomach, small/large intestine, gallbladder, bladder, and the triple burner).
+- <ruby>[肺府](../words/肺府.md)<rt>ㄈㄝㄈㄨ</rt></ruby>: lungs and viscera; the innermost heart (肺腑) — 府 stands in for 腑 as in 六府.
+- <ruby>[肝臓](../words/肝臓.md)<rt>ㄍㄚㄋㄐㄚㄫ</rt></ruby>: liver.
+- <ruby>[肺臓](../words/肺臓.md)<rt>ㄈㄝㄐㄚㄫ</rt></ruby>: lungs.
+- <ruby>[腎臓](../words/腎臓.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: kidney.
+- <ruby>[胰臓](../words/胰臓.md)<rt>ㄧㄜㄐㄚㄫ</rt></ruby>: pancreas.
+- <ruby>[脾臓](../words/脾臓.md)<rt>ㄅㄧㄐㄚㄫ</rt></ruby>: spleen.
+- <ruby>[胆嚢](../words/胆嚢.md)<rt>ㄉㄚㄇㄋㄚㄫ</rt></ruby>: gallbladder.
+- <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: brain.
+- <ruby>[腺体](../words/腺体.md)<rt>ㄙ⼶ㄋㄊㄝㄧ</rt></ruby>: a gland.
+- <ruby>[分泌](../words/分泌.md)<rt>ㄅㄨㄋㄅㄧㄊ</rt></ruby>: to secrete, produce secretions — what a gland ([[腺体]]) does; the standard physiological verb, also used of cells and plants.
+- <ruby>[内腔](../words/内腔.md)<rt>ㄋㄛㄧㄎㄚㄫ</rt></ruby>: a lumen, body cavity — the hollow inside a tubular organ or vessel (the lumen of a blood vessel or intestine), or an internal cavity of the body; the stand-in for the bound character 腔.
+
+### Nerves, Muscle & Blood Vessels
+
+- <ruby>[神経](../words/神経.md)<rt>ㄙㄧㄋㄍㄝㄫ</rt></ruby>: nerve.
+- <ruby>[三叉](../words/三叉.md)<rt>ㄙㄚㄇㄑㄚㄧ</rt></ruby>: three-forked, tripartite — a bound descriptive root whose single most common real-world use across the Sinosphere is medical, in 三叉神経 (trigeminal nerve, the three-branched fifth cranial nerve), rather than its literal "trident" sense.
+- <ruby>[脊髄](../words/脊髄.md)<rt>ㄐㄝㄎㄙㄨㄧ</rt></ruby>: spinal cord.
+- <ruby>[筋肉](../words/筋肉.md)<rt>ㄍㄧㄋㄋㄨㄎ</rt></ruby>: muscle.
+- <ruby>[血管](../words/血管.md)<rt>ㄏ⼔ㄊㄍ⺢ㄋ</rt></ruby>: blood vessel.
+- <ruby>[動脈](../words/動脈.md)<rt>ㄉㄛㄫㄇㄚㄎ</rt></ruby>: artery, the vessel that carries blood from the heart. See Semantic Range Notes.
+- <ruby>[静脈](../words/静脈.md)<rt>ㄐㄝㄫㄇㄚㄎ</rt></ruby>: vein, the vessel that carries blood back to the heart. See Semantic Range Notes.
 - <ruby>[輸血](../words/輸血.md)<rt>ㄙㄨㄇㄏ⼔ㄊ</rt></ruby>: to transfuse blood.
+- <ruby>[脈拍](../words/脈拍.md)<rt>ㄇㄚㄎㄆㄚㄎ</rt></ruby>: pulse.
+- <ruby>[体温](../words/体温.md)<rt>ㄊㄝㄧㄛㄆ</rt></ruby>: body temperature.
+
+### Blood, Fluids & Cells
+
+- <ruby>[体液](../words/体液.md)<rt>ㄊㄝㄧ⼶ㄎ</rt></ruby>: bodily fluid — the general umbrella term covering [[血]], [[汗]], [[涙]], and [[膿]] alike.
+- <ruby>[汗](../words/汗.md)<rt>ㄏㄚㄋ</rt></ruby>: sweat.
+- <ruby>[涙](../words/涙.md)<rt>ㄌㄨㄧ</rt></ruby>: tear.
+- <ruby>[膿](../words/膿.md)<rt>ㄋㄛㄫ</rt></ruby>: pus.
+- <ruby>[痰](../words/痰.md)<rt>ㄉㄚㄇ</rt></ruby>: phlegm, sputum.
+- <ruby>[粘液](../words/粘液.md)<rt>ㄋㄝㄇ·⼶ㄎ</rt></ruby>: mucus — the sticky bodily secretion; attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found; one of the fluids under [[体液]].
+- <ruby>[唾液](../words/唾液.md)<rt>ㄊㄚ⼶ㄎ</rt></ruby>: spit.
+- <ruby>[鼻水](../words/鼻水.md)<rt>ㄅㄧㄙㄨ</rt></ruby>: snot.
+- <ruby>[細胞](../words/細胞.md)<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>: a biological cell — a Meiji coinage translating German Zelle.
+- <ruby>[核](../words/核.md)<rt>ㄏㄚㄎ</rt></ruby>: a nucleus — the core of a [[細胞]] (cell), and by extension of an atom (原子核); the bound root behind [[真核]] on [Animals](../lexipedia/Animals.md).
+
+### Digestion & Excretion
+
+- <ruby>[腹](../words/腹.md)<rt>ㄈㄨㄎ</rt></ruby>: stomach (belly, abdomen).
+- <ruby>[胃](../words/胃.md)<rt>ㄨㄧ</rt></ruby>: stomach (organ).
+- <ruby>[食道](../words/食道.md)<rt>ㄙㄧㄎㄉㄚㄨ</rt></ruby>: esophagus, gullet.
+- <ruby>[小腸](../words/小腸.md)<rt>ㄙㄛㄑㄚㄫ</rt></ruby>: the small intestine.
+- <ruby>[大腸](../words/大腸.md)<rt>ㄉㄚㄧㄑㄚㄫ</rt></ruby>: the large intestine, bowel, colon.
+- <ruby>[腸管](../words/腸管.md)<rt>ㄑㄚㄫㄍ⺢ㄋ</rt></ruby>: intestines.
+- <ruby>[胃酸](../words/胃酸.md)<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby>: stomach acid.
+- <ruby>[大便](../words/大便.md)<rt>ㄉㄚㄧㄅ⼶ㄋ</rt></ruby>: stool, feces (the neutral term).
+- <ruby>[尿](../words/尿.md)<rt>ㄋ⼘ㄨ</rt></ruby>: urine.
+- <ruby>[旁胱](../words/旁胱.md)<rt>ㄅㄚㄫㄍ⺢ㄫ</rt></ruby>: the urinary bladder.
+- <ruby>[失禁](../words/失禁.md)<rt>ㄙㄧㄊㄍㄧㄇ</rt></ruby>: incontinence — loss of bladder or bowel control.
+- <ruby>[下痢](../words/下痢.md)<rt>ㄏㄚㄌㄧㄜ</rt></ruby>: diarrhea.
+- <ruby>[肛門](../words/肛門.md)<rt>ㄍㄚㄫㄇㄛㄋ</rt></ruby>: anus.
+
+### Reproduction & Pregnancy
+
+- <ruby>[乳頭](../words/乳頭.md)<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby>: nipple.
+- <ruby>[哺乳](../words/哺乳.md)<rt>ㄅㄛ·ㄋㄨ</rt></ruby>: to breastfeed, suckle.
+- <ruby>[妊娠](../words/妊娠.md)<rt>ㄋㄧㄇㄐㄧㄋ</rt></ruby>: pregnancy (clinical/formal register).
+- <ruby>[妊](../words/妊.md)<rt>ㄋㄧㄇ</rt></ruby>: to be pregnant, conceive — the bound root behind [[妊娠]] above.
+- <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, be pregnant (the everyday Mandarin verb, 懷孕/怀孕).
+- <ruby>[堕胎](../words/堕胎.md)<rt>ㄉ⺢·ㄊㄚㄧ</rt></ruby>: to abort; abortion.
+- <ruby>[子宮](../words/子宮.md)<rt>ㄐㄜㄍㄨㄫ</rt></ruby>: womb.
+- <ruby>[月経](../words/月経.md)<rt>⼔ㄊㄍㄝㄫ</rt></ruby>: menstruation.
+- <ruby>[𦜝](../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby>: navel.
+- <ruby>[陰門](../words/陰門.md)<rt>ㄧㄇㄇㄛㄋ</rt></ruby>: vulva.
+- <ruby>[陰道](../words/陰道.md)<rt>ㄧㄇㄉㄚㄨ</rt></ruby>: vagina.
+- <ruby>[陰核](../words/陰核.md)<rt>ㄧㄇㄏㄚㄎ</rt></ruby>: clitoris.
+- <ruby>[陰茎](../words/陰茎.md)<rt>ㄧㄇㄎㄧㄫ</rt></ruby>: penis.
+- <ruby>[亀頭](../words/亀頭.md)<rt>ㄍㄨㄛㄊㄛㄨ</rt></ruby>: glans penis.
+- <ruby>[睾丸](../words/睾丸.md)<rt>ㄍㄚㄨㄏ⺢ㄋ</rt></ruby>, <ruby>[精巣](../words/精巣.md)<rt>ㄐㄝㄫㄐㄚㄨ</rt></ruby>: testicle.
+- <ruby>[精液](../words/精液.md)<rt>ㄐㄝㄫ⼶ㄎ</rt></ruby>: semen.
+- <ruby>[精子](../words/精子.md)<rt>ㄐㄝㄫㄐㄜ</rt></ruby>: sperm.
+- <ruby>[射精](../words/射精.md)<rt>ㄙ⼘ㄐㄝㄫ</rt></ruby>: to ejaculate.
+- <ruby>[割包皮](../words/割包皮.md)<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby>: circumcision.
+- <ruby>[包皮](../words/包皮.md)<rt>ㄅ⼘ㄨㄅㄧ</rt></ruby>: the foreskin.
+- <ruby>[奄人](../words/奄人.md)<rt>⼶ㄇㄋㄧㄋ</rt></ruby>: a eunuch, castrato.
+
+### Crude Terms
+
+Plain or vulgar words for the same parts and products, listed for recognition rather than for polite use. The neutral terms are [[陰道]] and [[大便]].
+
+- <ruby>[膣](../words/膣.md)<rt>ㄐㄧㄊ</rt></ruby>: cunt — a crude register; the neutral anatomical term is [[陰道]].
+- <ruby>[屁](../words/屁.md)<rt>ㄆㄧㄜ</rt></ruby>: fart.
+- <ruby>[屎](../words/屎.md)<rt>ㄏㄜ</rt></ruby>: excrement, feces (crude).
+- <ruby>[糞](../words/糞.md)<rt>ㄈㄨㄇ</rt></ruby>: dung, shit (crude).
 
 ### Animal Body Parts
 
 - <ruby>[爪](../words/爪.md)<rt>ㄐ⺢ㄨ</rt></ruby>: claw.
-- <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby>: egg.
-- <ruby>[卵白](../words/卵白.md)<rt>ㄌㄚㄋㄅㄚㄎ</rt></ruby>, <ruby>[蛋白](../words/蛋白.md)<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby>: egg white, albumen (also "protein" generally).
 - <ruby>[毛](../words/毛.md)<rt>ㄇㄚㄨ</rt></ruby>: fur.
 - <ruby>[皮革](../words/皮革.md)<rt>ㄅㄧ·ㄎㄧㄎ</rt></ruby>: hide.
 - <ruby>[鱗](../words/鱗.md)<rt>ㄌㄧㄋ</rt></ruby>: scale.
@@ -208,52 +264,54 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[鬣](../words/鬣.md)<rt>ㄌㄛㄆ</rt></ruby>: mane.
 - <ruby>[長牙](../words/長牙.md)<rt>ㄐㄚㄫㄚ</rt></ruby>: tusk.
 
-### Physical Actions & Gestures
+### Eggs
 
-- <ruby>[懸](../words/懸.md)<rt>ㄏ⼔ㄋ</rt></ruby>, <ruby>[掛](../words/掛.md)<rt>ㄍ⺢ㄧ</rt></ruby>: to hang.
-- <ruby>[垂掛](../words/垂掛.md)<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby>: to dangle.
-- <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>: to hang over, overhang.
-- <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
+The egg as an animal product, housed here with the other animal body parts.
+
+- <ruby>[卵子](../words/卵子.md)<rt>ㄌㄚㄋㄐㄜ</rt></ruby>: egg.
+- <ruby>[卵白](../words/卵白.md)<rt>ㄌㄚㄋㄅㄚㄎ</rt></ruby>, <ruby>[蛋白](../words/蛋白.md)<rt>ㄉㄚㄋㄅㄚㄎ</rt></ruby>: egg white, albumen (also "protein" generally).
+
+### Posture & Gestures
+
 - <ruby>[坐](../words/坐.md)<rt>ㄐ⺢</rt></ruby>: to sit.
-- <ruby>[立](../words/立.md)<rt>ㄌㄧㄆ</rt></ruby>: to stand — the bare character used as a word.
+- <ruby>[立](../words/立.md)<rt>ㄌㄧㄆ</rt></ruby>: to stand.
 - <ruby>[姿勢](../words/姿勢.md)<rt>ㄐㄧㄜㄙㄝ</rt></ruby>: posture.
 - <ruby>[跪](../words/跪.md)<rt>ㄎ⼔ㄧ</rt></ruby>: to kneel.
-- <ruby>[叩頭](../words/叩頭.md)<rt>ㄎㄛㄨㄊㄛㄨ</rt></ruby>: to kowtow, prostrate oneself.
 - <ruby>[蹲](../words/蹲.md)<rt>ㄐㄛㄋ</rt></ruby>: to squat, crouch.
 - <ruby>[佇立](../words/佇立.md)<rt>ㄐㄛㄌㄧㄆ</rt></ruby>: to stand still, motionless, often lost in thought or waiting — a specific literary posture-verb, not the same as the still-uncoined plain "to stand" below.
 - <ruby>[倚](../words/倚.md)<rt>ㄜㄧ</rt></ruby>: to lean on, lean against — the physical posture-verb (倚靠); also figuratively "to rely on, depend upon" (倚賴).
-- <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
-- <ruby>[貼](../words/貼.md)<rt>ㄊㄝㄆ</rt></ruby>: to paste on, stick to, attach.
-- <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
+- <ruby>[懸](../words/懸.md)<rt>ㄏ⼔ㄋ</rt></ruby>, <ruby>[掛](../words/掛.md)<rt>ㄍ⺢ㄧ</rt></ruby>: to hang.
+- <ruby>[垂掛](../words/垂掛.md)<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby>: to dangle.
+- <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>: to hang over, overhang.
 - <ruby>[招手](../words/招手.md)<rt>ㄑㄛㄨㄙ⼜</rt></ruby>: to wave, beckon — to raise the hand and move it, to call someone nearer, flag down a vehicle or say goodbye; the stand-in for the bound character 招.
-- <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).
+- <ruby>[点頭](../words/点頭.md)<rt>ㄉㄝㄇㄊㄛㄨ</rt></ruby>: to nod.
+- <ruby>[皺眉](../words/皺眉.md)<rt>ㄐㄨ·ㄇㄧㄜ</rt></ruby>: to frown — to knit the eyebrows.
+- <ruby>[伸手](../words/伸手.md)<rt>ㄙㄧㄋㄙ⼜</rt></ruby>: to reach out, extend the hand.
+- <ruby>[挙](../words/挙.md)<rt>ㄍ⼄</rt></ruby>: to raise (挙手, "raise a hand") — also, by extension, "an example, instance" (挙例).
+- <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
+- <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.
+- <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: to hug.
+- <ruby>[愛撫](../words/愛撫.md)<rt>ㄚㄧㄈㄨ</rt></ruby>: to caress; a caress. See Semantic Range Notes.
+- <ruby>[叩頭](../words/叩頭.md)<rt>ㄎㄛㄨㄊㄛㄨ</rt></ruby>: to kowtow, prostrate oneself.
+- <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>: to kowtow, bow deeply (touching forehead to ground).
+
+### Handling & Gripping
+
 - <ruby>[持](../words/持.md)<rt>ㄉㄧ</rt></ruby>: to hold — the general verb, unmarked for grip or number of hands, distinct from [[捧]]'s specific two-handed posture.
+- <ruby>[捧](../words/捧.md)<rt>ㄆㄛㄫ</rt></ruby>: to hold (in two hands).
 - <ruby>[挟](../words/挟.md)<rt>ㄏㄝㄆ</rt></ruby>: to clasp, hold between (as in tongs, or under the arm).
 - <ruby>[投](../words/投.md)<rt>ㄉㄛㄨ</rt></ruby>: to throw, cast (投票, "cast a vote").
 - <ruby>[拉](../words/拉.md)<rt>ㄌㄚㄆ</rt></ruby>: to drag, pull — also, of a bowed instrument, "to play."
 - <ruby>[拂](../words/拂.md)<rt>ㄈㄨㄊ</rt></ruby>: to shake off, brush off.
-- <ruby>[挙](../words/挙.md)<rt>ㄍ⼄</rt></ruby>: to raise (挙手, "raise a hand") — also, by extension, "an example, instance" (挙例).
 - <ruby>[捨](../words/捨.md)<rt>ㄙ⼘</rt></ruby>: to throw away, discard.
 - <ruby>[摘](../words/摘.md)<rt>ㄉㄚㄎ</rt></ruby>: to pinch, pluck.
 - <ruby>[掲](../words/掲.md)<rt>ㄎㄝㄊ</rt></ruby>: to set up, put up, install.
 - <ruby>[負](../words/負.md)<rt>ㄅ⼜</rt></ruby>: to carry, bear.
-- <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.
-- <ruby>[頓首](../words/頓首.md)<rt>ㄊㄛㄋㄙ⼜</rt></ruby>: to kowtow, bow deeply (touching forehead to ground) — the vault's one concrete example of a specific "gesture," which has no dedicated general word of its own.
-- to feel — *not yet coined*
-- to lay — *not yet coined*
-- to point — *not yet coined*
-- to reach — *not yet coined*
-- to rest — *not yet coined*
-- to shrug — *not yet coined*
-- to stand — *not yet coined*
-- to touch — *not yet coined*
-- to slap — *not yet coined*
-- to caress — *not yet coined*
+- <ruby>[貼](../words/貼.md)<rt>ㄊㄝㄆ</rt></ruby>: to paste on, stick to, attach.
+- <ruby>[蹴](../words/蹴.md)<rt>ㄑㄨㄎ</rt></ruby>: to kick.
 
-### Facial & Vocal Expressions
+### Mouth, Breath & Face Actions
 
-- <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby>: to blow.
-- <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>: to kiss.
 - <ruby>[笑](../words/笑.md)<rt>ㄙ⼄ㄨ</rt></ruby>: to laugh, smile.
 - <ruby>[哄笑](../words/哄笑.md)<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby>: to burst out laughing, roar with laughter.
 - <ruby>[嘆](../words/嘆.md)<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby> (sigh, exclaim), <ruby>[慨](../words/慨.md)<rt>ㄎㄚㄧ</rt></ruby>: to sigh.
@@ -263,84 +321,62 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 - <ruby>[吐](../words/吐.md)<rt>ㄊㄛ</rt></ruby>, <ruby>[呕吐](../words/呕吐.md)<rt>ㄛㄨㄊㄛ</rt></ruby>: to vomit, spit.
 - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>: to cough.
 - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>: to suck.
+- <ruby>[吹](../words/吹.md)<rt>ㄑㄨㄧ</rt></ruby>: to blow.
+- <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>: to kiss.
+- <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle.
 - <ruby>[呼吸](../words/呼吸.md)<rt>ㄏㄛㄏㄧㄆ</rt></ruby>: to breathe, respiration — 呼 "exhale" + 吸 "inhale."
 - <ruby>[呼吸器](../words/呼吸器.md)<rt>ㄏㄛㄏㄧㄆㄎㄧㄜ</rt></ruby>: a respirator, ventilator.
-- <ruby>[口笛](../words/口笛.md)<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby>: to whistle.
-- to blink — *not yet coined*
-- to breathe — *not yet coined*
-- to faint — *not yet coined*
-- to frown — *not yet coined*
-- to gasp — *not yet coined*
-- to glare — *not yet coined*
-- to grin — *not yet coined*
-- to hiss — *not yet coined*
-- to nod — *not yet coined*
-- to swallow — *not yet coined*
-- to sneeze — *not yet coined*
-- to drool — *not yet coined*
-- to choke — *not yet coined*
-- to snore — *not yet coined*
 
-### Drives
+### Sleep & Consciousness
 
 - <ruby>[睡眠](../words/睡眠.md)<rt>ㄙㄨㄧㄇㄝㄇ</rt></ruby>, <ruby>[寝](../words/寝.md)<rt>ㄑㄧㄇ</rt></ruby> (lie down, rest): to sleep.
-- to wake — *not yet coined*
-- hunger — *not yet coined*
-- sex — *not yet coined*
-- to tire — *not yet coined*
-- thirst — *not yet coined*
-- sated — *not yet coined*
+- <ruby>[就寝](../words/就寝.md)<rt>ㄑ⺢ㄧㄑㄧㄇ</rt></ruby>: to go to bed, retire for the night.
+- <ruby>[昏倒](../words/昏倒.md)<rt>ㄏㄛㄋㄊㄚㄨ</rt></ruby>: to faint, collapse unconscious. See Semantic Range Notes.
+- <ruby>[気絶](../words/気絶.md)<rt>ㄎㄧㄜㄐ⼔ㄊ</rt></ruby>: to faint, lose consciousness. See Semantic Range Notes.
+
+### Illness & Medicine
+
+- <ruby>[生病](../words/生病.md)<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby>: to fall ill, get sick.
+- <ruby>[罹患](../words/罹患.md)<rt>ㄌㄧㄏ⺢ㄇ</rt></ruby>: to contract, suffer from (an illness).
+- <ruby>[症状](../words/症状.md)<rt>ㄐㄧㄫㄐ⺢ㄫ</rt></ruby>: symptom.
+- <ruby>[診断](../words/診断.md)<rt>ㄐㄧㄋㄉ⺢ㄋ</rt></ruby>: to diagnose; a diagnosis.
+- <ruby>[疲労](../words/疲労.md)<rt>ㄆㄧㄌㄚㄨ</rt></ruby>: fatigue; to tire.
+- <ruby>[疲困](../words/疲困.md)<rt>ㄆㄧ·ㄎㄛㄋ</rt></ruby>: tired, sleepy, worn out.
+- <ruby>[衰弱](../words/衰弱.md)<rt>ㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby>: to weaken, waste away.
+- <ruby>[玄暈](../words/玄暈.md)<rt>ㄏ⼔ㄋ·ㄨㄋ</rt></ruby>: dizzy; vertigo (properly written 眩暈).
+- <ruby>[麻痺](../words/麻痺.md)<rt>ㄇㄚㄅㄧ</rt></ruby>: numb; paralysis; to paralyze.
+- <ruby>[窒息](../words/窒息.md)<rt>ㄉㄝㄊㄙㄧㄎ</rt></ruby>: suffocate; asphyxiate.
+- <ruby>[過量](../words/過量.md)<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby>: overdose; to take an excess.
+- <ruby>[炎症](../words/炎症.md)<rt>ㄝㄇㄐㄧㄫ</rt></ruby>: inflammation.
+- <ruby>[腫脹](../words/腫脹.md)<rt>ㄐㄛㄫㄑㄚㄫ</rt></ruby>: swelling.
+- <ruby>[胃炎](../words/胃炎.md)<rt>ㄨㄧㄝㄇ</rt></ruby>: gastritis.
+- <ruby>[胃痛](../words/胃痛.md)<rt>ㄨㄧ·ㄊㄛㄫ</rt></ruby>: stomachache.
+- <ruby>[潰瘍](../words/潰瘍.md)<rt>ㄏㄛㄧ⼘ㄫ</rt></ruby>: ulcer.
+- <ruby>[用疽](../words/用疽.md)<rt>⼄ㄫㄐㄜ</rt></ruby>: abscess, carbuncle.
+- <ruby>[腫瘍](../words/腫瘍.md)<rt>ㄐㄛㄫ⼘ㄫ</rt></ruby>: a tumor, neoplasm.
+- <ruby>[胃癌](../words/胃癌.md)<rt>ㄨㄧㄚㄇ</rt></ruby>: stomach cancer.
+- <ruby>[白内障](../words/白内障.md)<rt>ㄅㄚㄎㄋㄛㄧㄐㄚㄫ</rt></ruby>: cataract.
+- <ruby>[盲人](../words/盲人.md)<rt>ㄇㄚㄫㄋㄧㄋ</rt></ruby>: a blind person.
+- <ruby>[厉病](../words/厉病.md)<rt>ㄌㄝㄅ⼶ㄫ</rt></ruby>: leprosy.
+- <ruby>[疫病](../words/疫病.md)<rt>⼶ㄎㄅ⼶ㄫ</rt></ruby>: epidemic, plague.
+- <ruby>[猿痘](../words/猿痘.md)<rt>ㄛㄋㄉㄛㄨ</rt></ruby>: monkeypox (mpox).
+- <ruby>[病毒](../words/病毒.md)<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>: virus.
+- <ruby>[病菌](../words/病菌.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: pathogenic bacteria.
+- <ruby>[防疫](../words/防疫.md)<rt>ㄅㄚㄫ⼶ㄎ</rt></ruby>: to prevent epidemic; epidemic control.
+- <ruby>[癒合](../words/癒合.md)<rt>⼜ㄍㄛㄆ</rt></ruby>: healing, union — the closing and knitting together of a wound or a broken bone.
+- <ruby>[艾灸](../words/艾灸.md)<rt>ㄚㄧㄍ⼜</rt></ruby>: moxibustion — burning mugwort on the skin as a treatment.
+- <ruby>[解剖](../words/解剖.md)<rt>ㄍ⼘ㄧㄈㄛㄨ</rt></ruby>: to dissect; dissection.
+- <ruby>[繃帯](../words/繃帯.md)<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby>: a bandage.
 
 ## Advanced / Specialized (C1+)
+
+### Specialized Anatomy
 
 - <ruby>[肩甲骨](../words/肩甲骨.md)<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby>: shoulder blade.
 - <ruby>[指関節](../words/指関節.md)<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby>: knuckle.
 - <ruby>[蹠骨](../words/蹠骨.md)<rt>ㄐㄝㄎㄍㄛㄊ</rt></ruby>: metatarsal bone.
 - <ruby>[脛骨](../words/脛骨.md)<rt>ㄏㄝㄫㄍㄛㄊ</rt></ruby>: tibia, shinbone.
 - <ruby>[三焦](../words/三焦.md)<rt>ㄙㄚㄇㄐㄛㄨ</rt></ruby>: the triple burner (a Traditional Chinese Medicine concept with no direct Western anatomical equivalent).
-- <ruby>[繃帯](../words/繃帯.md)<rt>ㄅㄚㄫㄊㄚㄧ</rt></ruby>: a bandage.
-
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[厉病](../words/厉病.md)<rt>ㄌㄝㄅ⼶ㄫ</rt></ruby>: leprosy.
-- <ruby>[潰瘍](../words/潰瘍.md)<rt>ㄏㄛㄧ⼘ㄫ</rt></ruby>: ulcer.
-- <ruby>[炎症](../words/炎症.md)<rt>ㄝㄇㄐㄧㄫ</rt></ruby>: inflamed.
-- <ruby>[猿痘](../words/猿痘.md)<rt>ㄛㄋㄉㄛㄨ</rt></ruby>: monkeypox; mpox.
-- <ruby>[玄暈](../words/玄暈.md)<rt>ㄏ⼔ㄋ·ㄨㄋ</rt></ruby>: dizzy; blurry; vertiginous.
-- <ruby>[生病](../words/生病.md)<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby>: to fall ill; to get sick; to catch a disease.
-- <ruby>[用疽](../words/用疽.md)<rt>⼄ㄫㄐㄜ</rt></ruby>: abscess; ulcer.
-- <ruby>[疫病](../words/疫病.md)<rt>⼶ㄎㄅ⼶ㄫ</rt></ruby>: epidemic; plague.
-- <ruby>[疲労](../words/疲労.md)<rt>ㄆㄧㄌㄚㄨ</rt></ruby>: be fatigued; strain.
-- <ruby>[疲困](../words/疲困.md)<rt>ㄆㄧ·ㄎㄛㄋ</rt></ruby>: tired; sleepy; worn out.
-- <ruby>[病毒](../words/病毒.md)<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>: virus.
-- <ruby>[病菌](../words/病菌.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: pathogenic bacteria.
-- <ruby>[症状](../words/症状.md)<rt>ㄐㄧㄫㄐ⺢ㄫ</rt></ruby>: symptom.
-- <ruby>[癒合](../words/癒合.md)<rt>⼜ㄍㄛㄆ</rt></ruby>: recover; get well.
-- <ruby>[白内障](../words/白内障.md)<rt>ㄅㄚㄎㄋㄛㄧㄐㄚㄫ</rt></ruby>: cataract.
-- <ruby>[盲人](../words/盲人.md)<rt>ㄇㄚㄫㄋㄧㄋ</rt></ruby>: blind person.
-- <ruby>[眼球](../words/眼球.md)<rt>ㄚㄋㄍ·⼜</rt></ruby>: eyeball.
-- <ruby>[眼睛](../words/眼睛.md)<rt>ㄚㄋㄐㄧㄫ</rt></ruby>: pupil.
-- <ruby>[瞳孔](../words/瞳孔.md)<rt>ㄉㄛㄫㄎㄛㄫ</rt></ruby>: pupil (of eye).
-- <ruby>[窒息](../words/窒息.md)<rt>ㄉㄝㄊㄙㄧㄎ</rt></ruby>: suffocate; asphyxiate.
-- <ruby>[罹患](../words/罹患.md)<rt>ㄌㄧㄏ⺢ㄇ</rt></ruby>: suffer from; contract.
-- <ruby>[耳根](../words/耳根.md)<rt>ㄋㄧㄍㄜㄋ</rt></ruby>: root of the ear.
-- <ruby>[肥大](../words/肥大.md)<rt>ㄅㄨㄧㄉㄚㄧ</rt></ruby>: corpulent; hypertrophied; enlarged.
-- <ruby>[肥満](../words/肥満.md)<rt>ㄅㄨㄧㄇㄚㄋ</rt></ruby>: obesity; obese.
-- <ruby>[肥脊](../words/肥脊.md)<rt>ㄅㄨㄧㄐㄝㄎ</rt></ruby>: plumpness and leanness; fatness and thinness.
-- <ruby>[胃炎](../words/胃炎.md)<rt>ㄨㄧㄝㄇ</rt></ruby>: gastritis.
-- <ruby>[胃痛](../words/胃痛.md)<rt>ㄨㄧ·ㄊㄛㄫ</rt></ruby>: stomachache; epigastric pain.
-- <ruby>[胆嚢](../words/胆嚢.md)<rt>ㄉㄚㄇㄋㄚㄫ</rt></ruby>: gallbladder.
-- <ruby>[胰臓](../words/胰臓.md)<rt>ㄧㄜㄐㄚㄫ</rt></ruby>: pancreas.
-- <ruby>[脾臓](../words/脾臓.md)<rt>ㄅㄧㄐㄚㄫ</rt></ruby>: spleen.
-- <ruby>[腫脹](../words/腫脹.md)<rt>ㄐㄛㄫㄑㄚㄫ</rt></ruby>: swelling.
-- <ruby>[舌根](../words/舌根.md)<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby>: root of the tongue; taste faculty.
-- <ruby>[艾灸](../words/艾灸.md)<rt>ㄚㄧㄍ⼜</rt></ruby>: moxibustion.
-- <ruby>[衰弱](../words/衰弱.md)<rt>ㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby>: fall away; waste away; weaken.
-- <ruby>[解剖](../words/解剖.md)<rt>ㄍ⼘ㄧㄈㄛㄨ</rt></ruby>: dissect.
-- <ruby>[診断](../words/診断.md)<rt>ㄐㄧㄋㄉ⺢ㄋ</rt></ruby>: diagnose.
-- <ruby>[過量](../words/過量.md)<rt>ㄍ⺢ㄌ⼘ㄫ</rt></ruby>: overdose on; to have an excess of.
-- <ruby>[防疫](../words/防疫.md)<rt>ㄅㄚㄫ⼶ㄎ</rt></ruby>: prevent epidemic.
-- <ruby>[麻痺](../words/麻痺.md)<rt>ㄇㄚㄅㄧ</rt></ruby>: numb; paralyzed; paralysis.
 
 ## Semantic Range Notes
 
@@ -348,9 +384,29 @@ Body vocabulary covers the parts of the human body inside and out, the correspon
 
 **皮膚/肌膚 sit beside 皮革 — the same root, a different domain**: 皮 ("skin, hide") supplies this page's own [[皮膚]]/[[肌膚]] ("skin," of a living body) as well as the Animal Body Parts entry [[皮革]] ("hide," the processed/tanned material) — related by root, but naming different things: a living covering vs. a product made from it.
 
-**A substantial gap in everyday physical-action vocabulary remains**: roughly thirty common verbs and involuntary reactions — to stand, to touch, to point, to blink, to sneeze, to frown, hunger, and others — have no Dan'a'yo word yet, flagged individually above rather than omitted. This is the main thing standing between this page's current `partial` status and `complete`.
+**血管 vs. 動脈 vs. 静脈 — the vessel and its two kinds**: [[血管]] is the general word for a blood vessel. [[動脈]] is the artery, which carries blood away from the heart and is where the pulse is felt, and [[静脈]] is the vein, which carries it back.
+
+**眼睛 vs. 眼球 vs. 瞳孔 — three words for the eye**: [[眼睛]] is the everyday word for the eye as a whole, though its older sense was the pupil. [[眼球]] is the anatomical eyeball, the organ as a physical object. [[瞳孔]] is the pupil proper, the opening in the iris.
+
+**肥胖 vs. 肥満 vs. 肥大 vs. 脂肪 — fat as a state and as a substance**: [[肥胖]] and [[肥満]] both describe a fat body (obese, obesity), 肥満 being the usual clinical word. [[肥大]] is enlargement, of a body or of an organ. [[脂肪]] is fat as a substance, and its root [[肪]] is the bound character behind it.
+
+**腹 vs. 胃 vs. 腹部 — belly, stomach and abdomen**: [[腹]] is the belly, the part of the body. [[胃]] is the stomach, the organ inside it. [[腹部]] is the abdomen, the clinical word for the region.
+
+**昏倒 vs. 気絶 — fainting as a fall and as a loss of consciousness**: [[昏倒]] stresses the collapse, falling down unconscious. [[気絶]] stresses the loss of consciousness itself. Both are temporary, and the return is [[覚醒]] (see [[Mind]]).
+
+**愛撫 vs. 抱擁 vs. 握手 vs. 接吻 — the gestures of touch**: [[愛撫]] is the tender stroking touch of affection. [[抱擁]] is the embrace, [[握手]] is the handshake, and [[接吻]] is the kiss. The plain fact of touching is [[接触]] (see [[Society]]).
+
+**膣, 屁, 屎, 糞 — crude words beside neutral ones**: [[膣]] is the crude register beside the neutral [[陰道]]. [[屎]] and [[糞]] are crude beside the neutral [[大便]], with [[糞]] the common coarse word for "shit". [[屁]], the fart, is plain rather than neutral.
 
 ## See Also
 
 **Related domains**:
 - [[Love]] — this page's own [[抱擁]] ("hug") and [[接吻]] ("kiss") are physical-action entries here, but the same two words are also cited on [[Love]] for their romantic/affectionate use.
+- [[Sensation]] — the senses that the body's organs carry: [[感触]] (touch), [[視覚]] (sight), [[味覚]] (taste), [[嗅覚]] (smell).
+- [[Food]] — the body's drives: [[飢餓]] (hunger), [[渇]] (thirst), [[飽]] and [[飽足]] (sated), and [[肉]], flesh as food.
+- [[Reproduction]] — [[性交]], sex, and the wider vocabulary of conception and birth.
+- [[Mind]] — [[感覚]], feeling, and [[覚醒]], waking.
+- [[Life]] — [[起床]], getting out of bed, [[喘息]], panting and gasping, and [[死体]], the dead body.
+- [[Work]] — [[休息]], rest.
+- [[Emotions]] — [[呻吟]], a groan of pain or grief.
+- [[Animals]] — [[毛皮]], the pelt, and the animals whose body parts are listed above.

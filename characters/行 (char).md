@@ -82,6 +82,7 @@ boundedness: 55
 - <ruby>[[小行星帯]]<rt>ㄙㄛㄏㄚㄫㄙㄝㄫㄊㄚㄧ</rt></ruby> "asteroid belt"
 - <ruby>[[飛行机]]<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby> "airplane"
 - <ruby>[[流行]]<rt>ㄌ⼜ㄏㄚㄫ</rt></ruby> "fashion"
+- <ruby>[[暴行]]<rt>ㄅㄛㄎㄏㄚㄫ</rt></ruby> "assault"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

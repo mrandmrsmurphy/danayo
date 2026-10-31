@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[権謀]]<rt>ㄍ⼔ㄋㄇㄨㄛ</rt></ruby> "stratagems; political cunning"
 - <ruby>[[謀求]]<rt>ㄇㄨㄛㄍ⼜ㄛ</rt></ruby> "pursue, seek, strive for, quest after"
 - <ruby>[[参謀]]<rt>ㄙㄚㄇㄇㄨㄛ</rt></ruby> "staff officer, strategist"
+- <ruby>[[陰謀]]<rt>ㄧㄇㄇㄨㄛ</rt></ruby> "plot"

@@ -63,6 +63,7 @@ boundedness: 45
 - <ruby>[[熱帯]]<rt>ㄋ⼶ㄊㄊㄚㄧ</rt></ruby> "tropical, the tropics"
 - <ruby>[[連帯]]<rt>ㄌ⼶ㄋㄊㄚㄧ</rt></ruby> "solidarity; joint (responsibility)"
 - <ruby>[[腰帯]]<rt>⼄ㄨㄊㄚㄧ</rt></ruby> "belt (clothing)"
+- <ruby>[[声帯]]<rt>ㄙㄧㄫㄊㄚㄧ</rt></ruby> "vocal cords"
 
 ## Chengyu
 - <ruby>[[一衣帯水]]<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"

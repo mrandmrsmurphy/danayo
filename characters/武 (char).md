@@ -63,6 +63,7 @@ boundedness: 75
 - <ruby>[[玄武岩]]<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby> "basalt"
 - <ruby>[[武芸]]<rt>ㄇㄨㄝ</rt></ruby> "martial art skill"
 - <ruby>[[武漢]]<rt>ㄇㄨㄏㄚㄋ</rt></ruby> "Wuhan"
+- <ruby>[[武器]]<rt>ㄇㄨ·ㄎㄧㄜ</rt></ruby> "weapon"
 
 ## Chengyu
 - <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"

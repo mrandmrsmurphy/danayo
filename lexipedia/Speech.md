@@ -5,6 +5,7 @@ domain: Speech
 related_domains:
   - "[[Grammar]]"
   - "[[Mind]]"
+  - "[[Conflict]]"
 status: partial
 ---
 

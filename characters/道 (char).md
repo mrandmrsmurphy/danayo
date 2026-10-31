@@ -87,6 +87,7 @@ boundedness: 70
 - <ruby>[[北海道]]<rt>ㄅㄨㄎㄏㄚㄧㄉㄚㄨ</rt></ruby> "Hokkaido Prefecture"
 - <ruby>[[下水道]]<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> "sewer"
 - <ruby>[[道徳]]<rt>ㄉㄚㄨㄊㄨㄎ</rt></ruby> "morality"
+- <ruby>[[食道]]<rt>ㄙㄧㄎㄉㄚㄨ</rt></ruby> "esophagus"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

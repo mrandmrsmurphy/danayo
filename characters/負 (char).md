@@ -55,3 +55,5 @@ boundedness: 90
 - <ruby>[[負]]<rt>ㄅ⼜</rt></ruby> "carry; bear" (stand-in for 負)
 - <ruby>[[負債]]<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby> "debt, liabilities"
 - <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby> "negative number"
+- <ruby>[[勝負]]<rt>ㄙㄨㄫㄅ⼜</rt></ruby> "contest"
+- <ruby>[[負傷]]<rt>ㄅ⼜ㄙ⼘ㄫ</rt></ruby> "injury"

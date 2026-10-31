@@ -63,6 +63,7 @@ boundedness: 80
 - <ruby>[[軟口蓋]]<rt>ㄋㄝㄋ·ㄎㄛㄨ·ㄍㄚㄧ</rt></ruby> "soft palate; velar"
 - <ruby>[[海口]]<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby> "Haikou; estuary"
 - <ruby>[[山口]]<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby> "Yamaguchi Prefecture"
+- <ruby>[[口論]]<rt>ㄎㄛㄨㄌㄛㄋ</rt></ruby> "quarrel"
 
 ## Derived Characters
 - <ruby>[[叩]]<rt>ㄎㄛㄨ</rt></ruby> "kowtow, knock"

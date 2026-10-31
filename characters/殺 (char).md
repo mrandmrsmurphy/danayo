@@ -64,6 +64,7 @@ boundedness: 80
 - <ruby>[[誅殺]]<rt>ㄐㄨㄙㄚㄊ</rt></ruby> "execute; kill"
 - <ruby>[[絞殺]]<rt>ㄍ⼄ㄨㄙㄚㄊ</rt></ruby> "strangle"
 - <ruby>[[殺人]]<rt>ㄙㄚㄊㄋㄧㄋ</rt></ruby> "murder"
+- <ruby>[[虐殺]]<rt>⼘ㄎㄙㄚㄊ</rt></ruby> "massacre"
 
 ## Chengyu
 - <ruby>[[殺姦窃偽]]<rt>ㄙㄚㄊㄍㄚㄋㄑㄝㄊ⼔ㄧ</rt></ruby> "murder, adultery, theft, lying"

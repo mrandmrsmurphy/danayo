@@ -5,6 +5,7 @@ domain: Sin
 related_domains:
   - "[[Emotions]]"
   - "[[Law]]"
+  - "[[Conflict]]"
 status: partial
 ---
 

@@ -77,3 +77,5 @@ boundedness: 90
 - <ruby>[[自動詞]]<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby> "intransitive verb"
 - <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"
 - <ruby>[[動机]]<rt>ㄉㄛㄫㄍㄧㄜ</rt></ruby> "motive"
+- <ruby>[[暴動]]<rt>ㄅㄛㄎㄉㄛㄫ</rt></ruby> "riot"
+- <ruby>[[動脈]]<rt>ㄉㄛㄫㄇㄚㄎ</rt></ruby> "artery"

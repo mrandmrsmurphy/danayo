@@ -75,6 +75,8 @@ boundedness: 100
 - <ruby>[[方頭捺]]<rt>ㄈㄚㄫㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "square-headed right-falling stroke (calligraphy stroke)"
 - <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "round-headed right-falling stroke (calligraphy stroke)"
 - <ruby>[[猫頭鷹]]<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby> "owl"
+- <ruby>[[喉頭]]<rt>ㄏㄛㄨㄊㄛㄨ</rt></ruby> "larynx"
+- <ruby>[[点頭]]<rt>ㄉㄝㄇㄊㄛㄨ</rt></ruby> "nod"
 
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"

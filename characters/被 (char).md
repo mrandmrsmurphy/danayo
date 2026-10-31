@@ -54,3 +54,4 @@ boundedness: 90
 - <ruby>[[被]]<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)" (stand-in for 被)
 - <ruby>[[被告]]<rt>ㄆㄧㄍㄚㄨ</rt></ruby> "defendant"
 - <ruby>[[被害者]]<rt>ㄆㄧㄏㄚㄧㄑㄚ</rt></ruby> "victim"
+- <ruby>[[被害]]<rt>ㄆㄧㄏㄚㄧ</rt></ruby> "damage suffered"

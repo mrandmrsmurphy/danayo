@@ -65,6 +65,8 @@ boundedness: 90
 - <ruby>[[捕手]]<rt>ㄅㄛㄙ⼜</rt></ruby> "catcher (baseball)"
 - <ruby>[[岩手]]<rt>ㄚㄇㄙ⼜</rt></ruby> "Iwate Prefecture"
 - <ruby>[[援手]]<rt>ㄛㄋㄙ⼜</rt></ruby> "helping hand; assistance"
+- <ruby>[[手首]]<rt>ㄙ⼜ㄙ⼜</rt></ruby> "wrist"
+- <ruby>[[伸手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> "reach out"
 
 ## Derived Characters
 - <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby> "lose"

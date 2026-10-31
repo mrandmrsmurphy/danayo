@@ -72,3 +72,4 @@ boundedness: 100
 - <ruby>[[太陰年]]<rt>ㄊㄚㄧㄧㄇㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[陰暦年]]<rt>ㄧㄇㄌㄝㄎㄋㄝㄋ</rt></ruby> "lunar year"
 - <ruby>[[太陰太陽暦]]<rt>ㄊㄚㄧㄧㄇㄊㄚㄧ⼘ㄫㄌㄝㄎ</rt></ruby> "lunisolar calendar"
+- <ruby>[[陰謀]]<rt>ㄧㄇㄇㄨㄛ</rt></ruby> "plot"

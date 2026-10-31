@@ -58,3 +58,4 @@ boundedness: 100
 - <ruby>[[伏]]<rt>ㄅㄨㄎ</rt></ruby> "crouch; prostrate; surrender" (stand-in for 伏)
 - <ruby>[[潜伏]]<rt>ㄐㄝㄇㄅㄨㄎ</rt></ruby> "hide, lurk, lie low"
 - <ruby>[[起伏]]<rt>ㄎㄧㄅㄨㄎ</rt></ruby> "undulate, fluctuate"
+- <ruby>[[降伏]]<rt>ㄍㄚㄫㄅㄨㄎ</rt></ruby> "surrender"

@@ -51,6 +51,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[攻]]<rt>ㄍㄛㄫ</rt></ruby> "attack, criticize" (stand-in for 攻 (char))
 - <ruby>[[攻防]]<rt>ㄍㄛㄫㄅㄚㄫ</rt></ruby> "offense and defense"
 - <ruby>[[挟攻]]<rt>ㄏㄝㄆㄍㄛㄫ</rt></ruby> "flanking attack, pincer attack"
+- <ruby>[[攻撃]]<rt>ㄍㄛㄫㄍㄝㄎ</rt></ruby> "attack"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"
