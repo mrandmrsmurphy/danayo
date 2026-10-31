@@ -1,6 +1,6 @@
 ---
 stroke_count: 9
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-30
 size: 19
 skip_number: 2-4-5
 tags: [lookup]
@@ -28,7 +28,7 @@ tags: [lookup]
 15. <ruby>[革](characters/革.md)<rt>ㄎㄧㄎ</rt></ruby> "leather"
 16. <ruby>[茄](characters/茄.md)<rt>ㄍㄚ</rt></ruby> "eggplant"
 17. <ruby>[巷](characters/巷.md)<rt>ㄏㄚㄫ</rt></ruby> "alley, lane"
-18. <ruby>[[曷 (char)|曷]]<rt>ㄏㄨㄊ</rt></ruby> "what, why"
+18. <ruby>[曷](characters/曷%20(char).md)<rt>ㄏㄨㄊ</rt></ruby> "what, why"
 19. <ruby>[显](characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> "chrysalis"
 
 ## Datacheck

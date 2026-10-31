@@ -1,16 +1,16 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-30
 stroke_count: 9
 size: 1
 skip_number: 1-1-8
 tags: [lookup]
 
 ---
-> SKIP : 1 :| [1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
+> SKIP : 1 : [1](lookup/SKIP/SKIP-1/SKIP-1-1.md)
 > These are all of [Stroke 09](lookup/Stroke/Stroke%2009.md).
 
 ## Characters
-1. <ruby>[胤](characters/胤.md)<rt>·⼜ㄋ</rt></ruby> - heir
+1. <ruby>[胤](characters/胤.md)<rt>ㄧㄋ</rt></ruby> - heir
 
 ## Datacheck
 ```dataview
