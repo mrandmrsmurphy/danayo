@@ -4,58 +4,51 @@ type: lexipedia
 domain: Astronomy
 related_domains:
   - "[[Nature]]"
+  - "[[Calendar]]"
+  - "[[Time]]"
+  - "[[Light]]"
+  - "[[Geography]]"
+  - "[[Religion]]"
+  - "[[Physics]]"
+  - "[[Animals]]"
 status: complete
-date-last-perfect: 2026-09-27
+date-last-perfect: 2026-10-31
 ---
 
 # Astronomy
 
-Astronomy vocabulary spans looking up at the night sky in two distinct registers: the true modern science of celestial objects (天文学), and the older tradition — divination by star signs (占星術) — that grew out of the very same stargazing. This domain deliberately keeps both, since Dan'a'yo speakers inherit both traditions: the Sun-Earth-Moon-planet vocabulary shared with modern astronomy worldwide, and the sexagenary cycle (六十干支) — the Ten Heavenly Stems, Twelve Earthly Branches, and twelve zodiac animals — that the East Asian calendrical and fortune-telling traditions built from the same sky.
+Astronomy vocabulary here covers the sky as East Asia has known it, together with the modern science. It holds the Sun, Moon, planets, stars and galaxies; the instruments, orbits and spaceflight of today; and the older Chinese, Daoist and Japanese traditions: the Twenty-Eight Mansions, the guest stars of the old records, the cosmogony of the *Liezi*, the Yijing trigrams, and the sexagenary cycle (六十干支) of Heavenly Stems, Earthly Branches and twelve zodiac animals that the calendar and fortune-telling built from the same sky. Astrology (占星術) is kept beside the science (天文学), since Dan'a'yo speakers inherit both traditions. The calendar proper, the days and months, is housed on the Calendar page; see See Also.
 
 ## Core Vocabulary (A1–A2)
 
-- <ruby>[星](../words/星.md)<rt>ㄙㄝㄫ</rt></ruby>: a star — also covers planets and moons in ordinary usage. See Semantic Range Notes.
-- <ruby>[牛郎](../words/牛郎.md)<rt>ㄋ⼜ㄌㄚㄫ</rt></ruby>: the Cowherd Boy of the Cowherd and Weaver Girl legend, whose name is carried by the star Altair (牛郎星) across the Milky Way from 織女 (Vega); the Qixi, Tanabata and Chilseok story.
-- <ruby>[織女](../words/織女.md)<rt>ㄐㄧㄎㄋㄜ</rt></ruby>: the Weaver Girl of the legend with [[牛郎]], whose name is carried by the star Vega (織女星); the weaving goddess of Qixi, Tanabata (Orihime) and Chilseok (직녀).
+### Sun, Moon & Earth
+
 - <ruby>[太陽](../words/太陽.md)<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby>: the sun.
 - <ruby>[太陰](../words/太陰.md)<rt>ㄊㄚㄧㄧㄇ</rt></ruby>: the moon.
+- <ruby>[日光](../words/日光.md)<rt>ㄋㄧㄊㄎ⺢ㄫ</rt></ruby>: sunlight, sunshine. See Semantic Range Notes.
+- <ruby>[月光](../words/月光.md)<rt>⼔ㄊㄎ⺢ㄫ</rt></ruby>: moonlight. See Semantic Range Notes.
+- <ruby>[新月](../words/新月.md)<rt>ㄙㄧㄋ⼔ㄊ</rt></ruby>: new moon; the first crescent. See Semantic Range Notes.
+- <ruby>[半月](../words/半月.md)<rt>ㄅㄚㄋ⼔ㄊ</rt></ruby>: half-moon. See Semantic Range Notes.
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: Earth.
+
+### Stars & Sky
+
+- <ruby>[星](../words/星.md)<rt>ㄙㄝㄫ</rt></ruby>: a star — also covers planets and moons in ordinary usage. See Semantic Range Notes.
 - <ruby>[天空](../words/天空.md)<rt>ㄊㄝㄋㄎㄛㄫ</rt></ruby>: the sky.
+- <ruby>[星空](../words/星空.md)<rt>ㄙㄝㄫㄎㄛㄫ</rt></ruby>: the starry sky, the night sky.
 - <ruby>[行星](../words/行星.md)<rt>ㄏㄚㄫㄙㄝㄫ</rt></ruby>: a planet.
-- <ruby>[宇宙](../words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>: universe, cosmos, space-time — the underlying metaphor is a house, with "eaves" (宇) and "roof beams" (宙): we are looking up at the underside of a roof.
-- <ruby>[宙](../words/宙.md)<rt>ㄐㄨㄛ</rt></ruby>: eternity, infinite time — the classical "time" half of [[宇宙]] above (宇 being infinite space); survives almost exclusively bound inside that compound in Mandarin, Cantonese, Korean, and Vietnamese.
+- <ruby>[星座](../words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>: a constellation — written 星坐, of which 星座 is an alias. See Semantic Range Notes.
 - <ruby>[銀河](../words/銀河.md)<rt>ㄧㄋㄏㄚ</rt></ruby>: the Milky Way as seen in the sky — literally "the silver river." See Semantic Range Notes.
-- <ruby>[星座](../words/星坐.md)<rt>ㄙㄝㄫㄐ⺢</rt></ruby>: a constellation — 星座 is an alias of this word's real filename, [[星坐]].
 - <ruby>[天文](../words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>: the whole culture and practice of looking up at the stars.
 - <ruby>[天文学](../words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>: astronomy, the formal modern science. See Semantic Range Notes.
+- <ruby>[宇宙](../words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>: universe, cosmos, space-time — the underlying metaphor is a house, with "eaves" (宇) and "roof beams" (宙): we are looking up at the underside of a roof.
+- <ruby>[宙](../words/宙.md)<rt>ㄐㄨㄛ</rt></ruby>: eternity, infinite time — the classical "time" half of [[宇宙]] above (宇 being infinite space); survives almost exclusively bound inside that compound in Mandarin, Cantonese, Korean, and Vietnamese.
 
 ## Intermediate (B1–B2)
-
-### Cosmology & Poetic Terms
-
-- <ruby>[天](../words/天.md)<rt>ㄊㄝㄋ</rt></ruby>: sky, heaven.
-- <ruby>[天地](../words/天地.md)<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby>: the world, heaven and earth.
-- <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind.
-- <ruby>[九天](../words/九天.md)<rt>ㄎ⼜·ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
-- <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
-- <ruby>[乾](../words/乾.md)<rt>ㄍ⼶ㄋ</rt></ruby>: the Heaven trigram (乾卦) itself, pure yang — also "dry," a unified Dan'a'yo sense distinct from the unrelated [[干]]/[[幹]].
-- <ruby>[八卦](../words/八卦.md)<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby>: the bagua, the eight trigrams — the full set of eight symbols used in Daoist cosmology and the I Ching, of which [[乾]] is one.
-- <ruby>[卦](../words/卦.md)<rt>ㄍ⺢ㄧ</rt></ruby>: a trigram — the bound root behind [[八卦]] above, naming a single trigram or hexagram of the system.
-- <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
-- <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
-- <ruby>[太始](../words/太始.md)<rt>ㄊㄚㄧㄙㄧ</rt></ruby>: the beginning of all.
-- <ruby>[無極](../words/無極.md)<rt>ㄇㄜㄍㄧㄎ</rt></ruby>: limitless, without ultimate — in Daoist cosmology, the primordial undifferentiated state that precedes even 太極, pure potentiality before any polarity arises.
-- <ruby>[太極](../words/太極.md)<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby>: the Supreme Ultimate — in Daoist and Neo-Confucian cosmology, the primordial unity from which yin and yang first differentiate.
-- <ruby>[太素](../words/太素.md)<rt>ㄊㄚㄧㄙㄛ</rt></ruby>: the Great Plainness — the fourth and final primordial stage in the *Liezi* cosmogony, the beginning of substance/matter (質).
-- <ruby>[八紘](../words/八紘.md)<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby>: the Eight Cords — a classical cosmological term for the outermost bounds of the world, the eight great cords thought to bind the corners/directions of the cosmos.
-- <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
-- <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
-- <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ·⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.
 
 ### Solar System
 
 - <ruby>[太陽系](../words/太陽系.md)<rt>ㄊㄚㄧ⼘ㄫㄏㄝㄧ</rt></ruby>: the solar system.
-- <ruby>[恒星](../words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>: a "fixed star" — the precise Dan'a'yo term matching English "star" exactly. See Semantic Range Notes.
 - <ruby>[水星](../words/水星.md)<rt>ㄙㄨㄙㄝㄫ</rt></ruby>: Mercury.
 - <ruby>[金星](../words/金星.md)<rt>ㄍㄧㄇㄙㄝㄫ</rt></ruby>: Venus.
 - <ruby>[啓明](../words/啓明.md)<rt>ㄎㄝㄧㄇ⼶ㄫ</rt></ruby>: the Morning Star.
@@ -71,52 +64,117 @@ Astronomy vocabulary spans looking up at the night sky in two distinct registers
 - <ruby>[汚璃他雲](../words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby>: the Oort Cloud, the region past Neptune most comets are believed to come from.
 - <ruby>[彗星](../words/彗星.md)<rt>ㄏㄝㄙㄝㄫ</rt></ruby>: a comet.
 - <ruby>[流星](../words/流星.md)<rt>ㄌ⼜ㄙㄝㄫ</rt></ruby>: a shooting star, meteor — what a comet or other object becomes when it burns up entering the atmosphere.
+- <ruby>[流星群](../words/流星群.md)<rt>ㄌ⼜ㄙㄝㄫㄍㄨㄋ</rt></ruby>: a meteor shower.
+- <ruby>[衛星](../words/衛星.md)<rt>ㄝㄙㄝㄫ</rt></ruby>: a satellite — a natural moon or a made one. See Semantic Range Notes.
+- <ruby>[月面](../words/月面.md)<rt>⼔ㄊㄇ⼶ㄋ</rt></ruby>: the surface of the moon.
 - <ruby>[軌道](../words/軌道.md)<rt>ㄎㄨㄧㄉㄚㄨ</rt></ruby>: an orbit.
-- <ruby>[恒星系](../words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>: a galaxy, in general.
+- <ruby>[公転](../words/公転.md)<rt>ㄍㄛㄫㄐ⼔ㄋ</rt></ruby>: orbital revolution. See Semantic Range Notes.
+- <ruby>[自転](../words/自転.md)<rt>ㄐㄧㄜㄐ⼔ㄋ</rt></ruby>: rotation on an axis. See Semantic Range Notes.
+- <ruby>[地軸](../words/地軸.md)<rt>ㄉㄧㄜㄉㄨㄎ</rt></ruby>: the Earth's axis.
+- <ruby>[重力](../words/重力.md)<rt>ㄑㄛㄫㄌㄧㄎ</rt></ruby>: gravity.
+- <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.
+
+### Stars, Galaxies & Deep Space
+
+- <ruby>[恒星](../words/恒星.md)<rt>ㄏㄨㄫㄙㄝㄫ</rt></ruby>: a "fixed star" — the precise Dan'a'yo term matching English "star" exactly. See Semantic Range Notes.
+- <ruby>[恒星系](../words/恒星系.md)<rt>ㄏㄨㄫㄙㄝㄫㄏㄝㄧ</rt></ruby>: a galaxy in general — literally a "star system," a gravitationally bound collection of stars.
 - <ruby>[銀河系](../words/銀河系.md)<rt>ㄧㄋㄏㄚㄏㄝㄧ</rt></ruby>: the Milky Way galaxy specifically, our own. See Semantic Range Notes.
 - <ruby>[星雲](../words/星雲.md)<rt>ㄙㄝㄫㄨㄋ</rt></ruby>: a nebula.
+- <ruby>[黒洞](../words/黒洞.md)<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby>: a black hole.
 - <ruby>[新星](../words/新星.md)<rt>ㄙㄧㄋㄙㄝㄫ</rt></ruby>: a nova.
+- <ruby>[超新星](../words/超新星.md)<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby>: a supernova. See Semantic Range Notes.
 - <ruby>[星群](../words/星群.md)<rt>ㄙㄝㄫㄍㄨㄋ</rt></ruby>: an asterism — an unofficial, invented grouping of stars, as opposed to an established constellation (see [[星坐]] in Core Vocabulary above).
+- <ruby>[星団](../words/星団.md)<rt>ㄙㄝㄫㄉ⺢ㄋ</rt></ruby>: a star cluster. See Semantic Range Notes.
+- <ruby>[天体](../words/天体.md)<rt>ㄊㄝㄋㄊㄝㄧ</rt></ruby>: a celestial body — any star, planet, moon or comet.
+- <ruby>[光年](../words/光年.md)<rt>ㄎ⺢ㄫㄋㄝㄋ</rt></ruby>: a light-year.
 - <ruby>[穹蒼](../words/穹蒼.md)<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby>: the night sky, poetically — "the blue dome of heaven."
+
+### Observation & Spaceflight
+
+- <ruby>[望遠鏡](../words/望遠鏡.md)<rt>ㄇㄚㄫㄛㄋㄍ⼶ㄫ</rt></ruby>: a telescope.
+- <ruby>[天文台](../words/天文台.md)<rt>ㄊㄝㄋㄇㄨㄋㄉㄚㄧ</rt></ruby>: an observatory.
 - <ruby>[宇宙船](../words/宇宙船.md)<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>: a spaceship.
-- <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>: an alien, astronaut.
+- <ruby>[宇宙飛行士](../words/宇宙飛行士.md)<rt>ㄨㄐㄨㄛㄈㄝㄧㄏㄚㄫㄙㄚㄧ</rt></ruby>: an astronaut.
+- <ruby>[宇宙人](../words/宇宙人.md)<rt>ㄨㄐㄨㄛㄋㄧㄋ</rt></ruby>: an alien, a being from space; the astronaut is the [[宇宙飛行士]].
 - <ruby>[宇宙局](../words/宇宙局.md)<rt>ㄨㄐㄨㄛㄍ⼄ㄎ</rt></ruby>: a space agency.
-- <ruby>[太陽風](../words/太陽風.md)<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby>: the solar wind.
+
+### Sky & Atmosphere
+
 - <ruby>[大気圏](../words/大気圏.md)<rt>ㄉㄚㄧㄎㄧㄜㄍ⼔ㄋ</rt></ruby>: the atmosphere.
 - <ruby>[空気](../words/空気.md)<rt>ㄎㄛㄫㄎㄧㄜ</rt></ruby>: air.
 - <ruby>[空中](../words/空中.md)<rt>ㄎㄛㄫㄐㄨㄫ</rt></ruby>: in the air, midair, the sky.
-
-### Notable Stars & Groupings
-
-- <ruby>[天狼星](../words/天狼星.md)<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby>: Sirius, the dog star.
-- <ruby>[牛郎星](../words/牛郎星.md)<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby>: Altair, the cowherd star (of the [[七夕]] legend).
-- <ruby>[七星](../words/七星.md)<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby>: the Big Dipper, "seven stars."
-- <ruby>[昴宿星団](../words/昴宿星団.md)<rt>ㄇ⼘ㄨㄙㄨㄎㄙㄝㄫㄉ⺢ㄋ</rt></ruby>: the Pleiades, the open star cluster in Taurus.
-- <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: the Dipper; also a "peck" measure.
-- <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ⼄ㄨ</rt></ruby>: the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week."
-
-### Astronomical Events
-
 - <ruby>[地平線](../words/地平線.md)<rt>ㄉㄧㄜㄅ⼶ㄫㄙ⼶ㄋ</rt></ruby>: the horizon.
 - <ruby>[天頂](../words/天頂.md)<rt>ㄊㄝㄋㄐㄝㄫ</rt></ruby>: the zenith.
 - <ruby>[天底](../words/天底.md)<rt>ㄊㄝㄋㄉㄝㄧ</rt></ruby>: the nadir.
+- <ruby>[天球](../words/天球.md)<rt>ㄊㄝㄋㄍ⼜</rt></ruby>: the celestial sphere.
+- <ruby>[黄道](../words/黄道.md)<rt>ㄏ⺢ㄫㄉㄚㄨ</rt></ruby>: the ecliptic — the sun's yearly path among the stars.
+
+### Eclipses, Solstices & Equinoxes
+
+- <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby>: a solar eclipse.
+- <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>: a lunar eclipse.
 - <ruby>[分点](../words/分点.md)<rt>ㄅㄨㄋㄉㄝㄇ</rt></ruby>: an equinox.
 - <ruby>[至点](../words/至点.md)<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby>: a solstice point; <ruby>[至日](../words/至日.md)<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby>: a solstice day.
 - <ruby>[冬至](../words/冬至.md)<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby>: the winter solstice.
 - <ruby>[夏至](../words/夏至.md)<rt>ㄏ⼘ㄐㄧㄜ</rt></ruby>: the summer solstice.
 - <ruby>[春分](../words/春分.md)<rt>ㄑㄨㄋㄅㄨㄋ</rt></ruby>: the spring equinox.
 - <ruby>[秋分](../words/秋分.md)<rt>ㄑㄨㄛㄅㄨㄋ</rt></ruby>: the autumn equinox.
-- <ruby>[日食](../words/日食.md)<rt>ㄋㄧㄊㄙㄧㄎ</rt></ruby>: a solar eclipse.
-- <ruby>[月食](../words/月食.md)<rt>⼔ㄊㄙㄧㄎ</rt></ruby>: a lunar eclipse.
 - <ruby>[夕陽](../words/夕陽.md)<rt>ㄙㄝㄎ·⼘ㄫ</rt></ruby>: the setting sun, sunset.
 - <ruby>[合](../words/合.md)<rt>ㄍㄛㄆ</rt></ruby>: a conjunction (planets aligning) — extending 合's general "join, fit together" sense.
 - <ruby>[衝](../words/衝.md)<rt>ㄑㄛㄫ</rt></ruby>: an opposition — extending 衝's general "collide" sense.
 
+### Notable Stars & Legends
+
+- <ruby>[天狼星](../words/天狼星.md)<rt>ㄊㄝㄋㄌㄚㄫㄙㄝㄫ</rt></ruby>: Sirius, the dog star.
+- <ruby>[北極星](../words/北極星.md)<rt>ㄅㄨㄎㄍㄧㄎㄙㄝㄫ</rt></ruby>: the North Star, Polaris. See Semantic Range Notes.
+- <ruby>[北辰](../words/北辰.md)<rt>ㄅㄨㄎㄙㄧㄋ</rt></ruby>: the North Star in its literary register. See Semantic Range Notes.
+- <ruby>[北斗](../words/北斗.md)<rt>ㄅㄨㄎㄉㄛㄨ</rt></ruby>: the Northern Dipper, the Big Dipper.
+- <ruby>[七星](../words/七星.md)<rt>ㄑㄧㄊㄙㄝㄫ</rt></ruby>: the Big Dipper, "seven stars."
+- <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: the Dipper; also a "peck" measure.
+- <ruby>[昴宿星団](../words/昴宿星団.md)<rt>ㄇ⼘ㄨㄙㄨㄎㄙㄝㄫㄉ⺢ㄋ</rt></ruby>: the Pleiades, the open star cluster in Taurus.
+- <ruby>[牛郎](../words/牛郎.md)<rt>ㄋ⼜ㄌㄚㄫ</rt></ruby>: the Cowherd Boy of the Cowherd and Weaver Girl legend, whose name is carried by the star Altair (牛郎星) across the Milky Way from 織女 (Vega); the Qixi, Tanabata and Chilseok story.
+- <ruby>[織女](../words/織女.md)<rt>ㄐㄧㄎㄋㄜ</rt></ruby>: the Weaver Girl of the legend with [[牛郎]], whose name is carried by the star Vega (織女星); the weaving goddess of Qixi, Tanabata (Orihime) and Chilseok (직녀).
+- <ruby>[牛郎星](../words/牛郎星.md)<rt>ㄋ⼜ㄌㄚㄫㄙㄝㄫ</rt></ruby>: Altair, the cowherd star (of the [[七夕]] legend).
+- <ruby>[織女星](../words/織女星.md)<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby>: Vega, the Weaver Girl star (of the [[七夕]] legend).
+- <ruby>[銀漢](../words/銀漢.md)<rt>ㄧㄋㄏㄚㄋ</rt></ruby>: the Milky Way, literary — the "silver Han" river.
+
+### Star Mansions & Old Records
+
+- <ruby>[二十八宿](../words/二十八宿.md)<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby>: the Twenty-Eight Mansions — the Chinese division of the sky along the moon's path. See Semantic Range Notes.
+- <ruby>[星宿](../words/星宿.md)<rt>ㄙㄝㄫㄙㄨㄎ</rt></ruby>: a star mansion; classically a constellation, or the stars. See Semantic Range Notes.
+- <ruby>[星辰](../words/星辰.md)<rt>ㄙㄝㄫㄙㄧㄋ</rt></ruby>: the stars and heavenly bodies, as a poetic whole.
+- <ruby>[客星](../words/客星.md)<rt>ㄎㄚㄎㄙㄝㄫ</rt></ruby>: a "guest star" — a nova or supernova in the old Chinese records. See Semantic Range Notes.
+- <ruby>[七曜](../words/七曜.md)<rt>ㄑㄧㄊ⼄ㄨ</rt></ruby>: the seven classical heavenly bodies (sun, moon, and the five visible planets) — the origin of the seven-day week, cf. <ruby>[曜日](../words/曜日.md)<rt>⼄ㄨㄋㄧㄊ</rt></ruby> "day of the week."
+
+### Cosmology & Daoist Origins
+
+The Chinese and Daoist account of the heavens and their origin: the cosmic stages of the *Liezi*, the Yijing trigrams, and the yin-yang principle. These belong to Asian astronomy as much as the planets do.
+
+- <ruby>[天](../words/天.md)<rt>ㄊㄝㄋ</rt></ruby>: sky, heaven.
+- <ruby>[天地](../words/天地.md)<rt>ㄊㄝㄋㄉㄧㄜ</rt></ruby>: the world, heaven and earth.
+- <ruby>[天地人](../words/天地人.md)<rt>ㄊㄝㄋㄉㄧㄜㄋㄧㄋ</rt></ruby>: heaven, earth, and humankind.
+- <ruby>[九天](../words/九天.md)<rt>ㄎ⼜·ㄊㄝㄋ</rt></ruby>: the Ninth Heaven — the highest of the traditional nine layers of the sky.
+- <ruby>[乾坤](../words/乾坤.md)<rt>ㄍ⼶ㄋㄎㄛㄋ</rt></ruby>: heaven and earth — the two primal trigrams of the Yijing.
+- <ruby>[乾](../words/乾.md)<rt>ㄍ⼶ㄋ</rt></ruby>: the Heaven trigram (乾卦) itself, pure yang — also "dry," a unified Dan'a'yo sense distinct from the unrelated [[干]]/[[幹]].
+- <ruby>[八卦](../words/八卦.md)<rt>ㄅㄚㄊㄍ⺢ㄧ</rt></ruby>: the bagua, the eight trigrams — the full set of eight symbols used in Daoist cosmology and the I Ching, of which [[乾]] is one.
+- <ruby>[卦](../words/卦.md)<rt>ㄍ⺢ㄧ</rt></ruby>: a trigram — the bound root behind [[八卦]] above, naming a single trigram or hexagram of the system.
+- <ruby>[太易](../words/太易.md)<rt>ㄊㄚㄧ⼶ㄎ</rt></ruby>: the Great Change — the first of four primordial cosmogonic stages in the *Liezi*, the state before even qi has appeared.
+- <ruby>[太初](../words/太初.md)<rt>ㄊㄚㄧㄑㄛ</rt></ruby>: the Great Beginning — the second of four primordial cosmogonic stages in the *Liezi* (列子), when qi first emerges but form has not yet appeared.
+- <ruby>[太始](../words/太始.md)<rt>ㄊㄚㄧㄙㄧ</rt></ruby>: the beginning of all.
+- <ruby>[太素](../words/太素.md)<rt>ㄊㄚㄧㄙㄛ</rt></ruby>: the Great Plainness — the fourth and final primordial stage in the *Liezi* cosmogony, the beginning of substance/matter (質).
+- <ruby>[無極](../words/無極.md)<rt>ㄇㄜㄍㄧㄎ</rt></ruby>: limitless, without ultimate — in Daoist cosmology, the primordial undifferentiated state that precedes even 太極, pure potentiality before any polarity arises.
+- <ruby>[太極](../words/太極.md)<rt>ㄊㄚㄧㄍㄧㄎ</rt></ruby>: the Supreme Ultimate — in Daoist and Neo-Confucian cosmology, the primordial unity from which yin and yang first differentiate.
+- <ruby>[八紘](../words/八紘.md)<rt>ㄅㄚㄊㄏ⼔ㄫ</rt></ruby>: the Eight Cords — a classical cosmological term for the outermost bounds of the world, the eight great cords thought to bind the corners/directions of the cosmos.
+- <ruby>[日月](../words/日月.md)<rt>ㄋㄧㄊ⼔ㄊ</rt></ruby>: sun and moon; life and times.
+- <ruby>[明月](../words/明月.md)<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby>: the bright moon; a jewel.
+- <ruby>[陰陽](../words/陰陽.md)<rt>ㄧㄇ·⼘ㄫ</rt></ruby>: yin-yang. See Semantic Range Notes.
+
 ## Advanced / Specialized (C1+)
+
 
 ### The Sexagenary Cycle (六十干支)
 
-The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten Heavenly Stems) and <ruby>[地支](../words/地支.md)<rt>ㄉㄧㄜㄐㄝ</rt></ruby> (Twelve Earthly Branches) pair together to form the sixty-year sexagenary cycle used across East Asia for calendrical reckoning, historical dating, and fortune-telling — the traditional counterpart to the modern astronomy above the fold, drawn from the same act of tracking the sky. See Semantic Range Notes.
+The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten Heavenly Stems) and <ruby>[地支](../words/地支.md)<rt>ㄉㄧㄜㄐㄝ</rt></ruby> (Twelve Earthly Branches) pair together to form the sixty-year sexagenary cycle used across East Asia for calendrical reckoning, historical dating, and fortune-telling — taken together as the <ruby>[干支](../words/干支.md)<rt>ㄍㄚㄋㄐㄝ</rt></ruby>, and the traditional counterpart to the modern astronomy above, drawn from the same act of tracking the sky. See Semantic Range Notes.
 
 **The Ten Heavenly Stems**, each paired with one of the Five Elements (木火土金水) in a yang or yin aspect:
 
@@ -178,12 +236,12 @@ The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten He
 11. <ruby>[狗](../characters/狗.md)<rt>ㄍㄛㄨ</rt></ruby> — Dog
 12. <ruby>[猪](../characters/猪.md)<rt>ㄐㄛ</rt></ruby> — Pig
 
-- <ruby>[薄命](../words/薄命.md)<rt>ㄅㄚㄎㄇ⼶ㄫ</rt></ruby>: born under an unlucky star, ill-fated — the one surviving idiom directly linking this vault's astronomy vocabulary to its 占星術 sense.
+### Astrology
 
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[織女星](../words/織女星.md)<rt>ㄐㄧㄎㄋㄜㄙㄝㄫ</rt></ruby>: Vega.
-- <ruby>[黒洞](../words/黒洞.md)<rt>ㄏㄨㄎㄉㄛㄫ</rt></ruby>: blackhole.
+- <ruby>[占星](../words/占星.md)<rt>ㄐㄝㄇㄙㄝㄫ</rt></ruby>: to divine by looking at star signs.
+- <ruby>[占星術](../words/占星術.md)<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby>: astrology, star-sign divination. See Semantic Range Notes.
+- <ruby>[十二宮](../words/十二宮.md)<rt>ㄙㄧㄆㄋㄧㄜㄍㄨㄫ</rt></ruby>: the twelve signs of the zodiac. See Semantic Range Notes.
+- <ruby>[薄命](../words/薄命.md)<rt>ㄅㄚㄎㄇ⼶ㄫ</rt></ruby>: born under an unlucky star, ill-fated — the one idiom directly linking the sky to the 占星術 sense.
 
 ## Semantic Range Notes
 
@@ -195,11 +253,37 @@ The <ruby>[天干](../words/天干.md)<rt>ㄊㄝㄋㄍㄚㄋ</rt></ruby> (Ten He
 
 **The sexagenary cycle is four systems in one, not just a zodiac**: each of its sixty stem-branch combinations simultaneously names a year (in the traditional calendar), a Five-Elements/yin-yang pairing (via the stem), a zodiac animal (via the branch), and — separately — each of the Twelve Earthly Branches on its own also divides the day into twelve two-hour blocks and marks a compass direction. A learner meeting 甲子 or 戊戌 for the first time should not assume it's "just" a zodiac-animal label; it's a compact address inside a much larger coordinate system.
 
-**猿 absorbs 猴 as an alias, rather than keeping a separate "monkey" word**: the zodiac position conventionally called 猴 ("monkey") in everyday Mandarin is filed under [[猿]] in this vault instead — 猿 more precisely means "ape," with 猴 folded in as an orthographic variant rather than kept as its own independent entry. No dedicated 猴 page exists as of this writing.
+**猿 absorbs 猴 as an alias, rather than keeping a separate "monkey" word**: the zodiac position conventionally called 猴 ("monkey") in everyday Mandarin is written 猿 here — 猿 more precisely means "ape," with 猴 folded in as an orthographic variant.
 
 **陰陽 is the abstract principle behind 太陽/太陰's own naming**: this domain's Core Vocabulary already notes that [[太陽]] ("sun") and [[太陰]] ("moon") literally mean "great yang" and "great yin" — [[陰陽]] itself names that underlying cosmological duality directly, rather than being a separate, unrelated borrowing.
+
+**新月 vs. 半月 vs. 満月 — the phases of the moon**: [[新月]] is the new moon, the start of the lunar month, with no face or only a thin crescent. [[半月]] is the half moon. The full moon [[満月]] is housed on [[Calendar]], where the lunar month is counted. The moon itself is [[太陰]].
+
+**日光 vs. 月光 vs. 陽光 — three lights of the sky**: [[日光]] is the light of the sun, and [[月光]] the light of the moon. [[陽光]] (see [[Light]]) is sunshine as a warm, bright presence. The general word is [[光]].
+
+**公転 vs. 自転 — going around and turning on**: [[公転]] is the travel of one body around another along its [[軌道]], as the earth around the sun in a year. [[自転]] is the turning of a body on its own axis, the [[地軸]], as the earth in a day.
+
+**衛星 vs. 行星 vs. 恒星 — satellite, planet and star**: [[衛星]] is a body that circles a larger one, a natural moon or a made satellite. [[行星]] circles a star, and [[恒星]] is the star itself. [[天体]] is the general word for all of them.
+
+**北極星 vs. 北辰 vs. 北斗 — the pole star and the dipper**: [[北極星]] is the ordinary name of the pole star, and [[北辰]] is its classical, literary name. [[北斗]] is the Northern Dipper, whose pointer stars lead the eye to it.
+
+**星座 vs. 星宿 vs. 二十八宿 vs. 星群 vs. 星団 — the groupings of stars**: [[星坐|星座]] is a constellation of the Western sky. [[星宿]] is a Chinese star mansion, and the [[二十八宿]] are all twenty-eight of them along the moon's path. [[星群]] is an informal asterism, and [[星団]] is a real cluster of stars bound together.
+
+**新星 vs. 超新星 vs. 客星 — the stars that flare**: [[新星]] is a nova, a star that brightens suddenly. [[超新星]] is a supernova, the far greater explosion at the end of a massive star. [[客星]] is the old Chinese record of either, a "guest star" that appeared where none was seen before and then faded.
+
+**十二宮 vs. 十二支 vs. 干支 — the zodiac and the cycle**: [[十二宮]] are the twelve signs of the Western zodiac along the [[黄道]], the ecliptic. The twelve animals belong to the Chinese branches, the [[地支]], and with the [[天干]] they form the [[干支]], the sixty-year cycle. They are separate systems that share only the name "zodiac" in English.
 
 ## See Also
 
 **Idiomatic uses**:
 - [[七夕]] — the Qixi festival, built directly on this domain's own [[牛郎星]] (Altair) and its Weaver Girl counterpart.
+
+**Related domains**:
+- [Calendar](../lexipedia/Calendar.md) — the counting of the sky into days and months: [[日]], [[月]], [[満月]], [[望月]], [[朔日]], [[望日]], [[暦]], [[太陰暦]], [[太陽暦]], [[太陰年]], [[閏月]], [[閏日]].
+- [Time](../lexipedia/Time.md) — the sun's day: [[日出]], [[日暮]], [[黄昏]], [[夜]], [[昼夜]], [[星霜]].
+- [Light](../lexipedia/Light.md) — [[光]], [[陽光]].
+- [Geography](../lexipedia/Geography.md) — [[赤道]], [[緯線]], [[経緯]], and [[宇宙観]], cosmology as a worldview.
+- [Water](../lexipedia/Water.md) — [[潮汐]], the tides raised by the moon.
+- [Nature](../lexipedia/Nature.md) — [[天気]], weather, and [[月虹]], the moonbow.
+- [Animals](../lexipedia/Animals.md) — [[天鵝]], the swan and the constellation Cygnus.
+- [Sensation](../lexipedia/Sensation.md) — [[観測]], observation.
