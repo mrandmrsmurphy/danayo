@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 12
 size: 35
 skip_number: 1-4-8
@@ -24,7 +24,7 @@ tags:
 12. <ruby>[棒](characters/棒.md)<rt>ㄅㄚㄫ</rt></ruby> "stick"
 13. <ruby>[棕](characters/棕.md)<rt>ㄐㄛㄫ</rt></ruby> "palm"
 14. <ruby>[棟](characters/棟.md)<rt>ㄉㄛㄫ</rt></ruby> "ridgepole"
-15. <ruby>[棲](characters/棲.md)<rt>ㄙㄝㄧ</rt></ruby> "loft"
+15. <ruby>[棲](characters/棲.md)<rt>ㄙㄝㄧ</rt></ruby> "perch; dwell"
 16. <ruby>[椅](characters/椅.md)<rt>ㄜㄧ</rt></ruby> "chair"
 17. <ruby>[椋](characters/椋.md)<rt>ㄌ⼘ㄫ</rt></ruby> "starling"
 18. <ruby>[植](characters/植.md)<rt>ㄙㄧㄎ</rt></ruby> "plants"

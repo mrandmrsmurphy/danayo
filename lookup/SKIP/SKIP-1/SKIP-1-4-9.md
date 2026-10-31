@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 13
 size: 37
 skip_number: 1-4-9
@@ -16,7 +16,7 @@ tags:
 4. <ruby>[楷](characters/楷%20(char).md)<rt>ㄎ⼶</rt></ruby> "model"
 5. <ruby>[槌](characters/槌%20(char).md)<rt>ㄐ⼔ㄧ</rt></ruby> "hammer"
 6. <ruby>[椰](characters/椰.md)<rt>⼘</rt></ruby> "coconut"
-7. <ruby>[椿](characters/椿.md)<rt>ㄑㄨㄋ</rt></ruby> "tree name"
+7. <ruby>[椿](characters/椿.md)<rt>ㄑㄨㄋ</rt></ruby> "Chinese mahogany; camellia"
 8. <ruby>[楊](characters/楊.md)<rt>⼘ㄫ</rt></ruby> "poplar"
 9. <ruby>[楓](characters/楓.md)<rt>ㄈㄨㄫ</rt></ruby> "maple"
 10. <ruby>[楔](characters/楔.md)<rt>ㄙㄝㄊ</rt></ruby> "wedge"
@@ -46,7 +46,7 @@ tags:
 34. <ruby>[頌](characters/頌.md)<rt>ㄙ⼄ㄫ</rt></ruby> "laud"
 35. <ruby>[頑](characters/頑.md)<rt>⺢ㄋ</rt></ruby> "stubborn"
 36. <ruby>[頒](characters/頒.md)<rt>ㄆㄚㄋ</rt></ruby> "confer"
-37. <ruby>[頓](characters/頓.md)<rt>ㄊㄛㄋ</rt></ruby> "suddenly"
+37. <ruby>[頓](characters/頓.md)<rt>ㄊㄛㄋ</rt></ruby> "kowtow"
 
 ## Datacheck
 ```dataview

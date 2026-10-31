@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 9
 size: 42
 skip_number: 1-4-5
@@ -31,7 +31,7 @@ tags:
 19. <ruby>[栃](characters/栃.md)<rt>ㄌㄝㄎ</rt></ruby> "horse chestnut"
 20. <ruby>[殃](characters/殃.md)<rt>⼘ㄫ</rt></ruby> "disaster"
 21. <ruby>[殆](characters/殆.md)<rt>ㄉㄛㄧ</rt></ruby> "danger"
-22. <ruby>[炢](characters/炢.md)<rt>ㄉㄨㄊ</rt></ruby> "dud"
+22. <ruby>[炢](characters/炢.md)<rt>ㄉㄨㄊ</rt></ruby> "produce smoke"
 23. <ruby>[炸](characters/炸.md)<rt>ㄐㄚㄎ</rt></ruby> "fried"
 24. <ruby>[牲](characters/牲.md)<rt>ㄙㄚㄫ</rt></ruby> "animal sacrifice"
 25. <ruby>[珍](characters/珍%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> "rare"
