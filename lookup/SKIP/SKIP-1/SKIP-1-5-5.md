@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 10
 size: 20
 skip_number: 1-5-5
@@ -14,7 +14,7 @@ tags:
 2. <ruby>[既](characters/既.md)<rt>ㄍㄧㄜ</rt></ruby> "already"
 3. <ruby>[玆](characters/玆.md)<rt>ㄐㄜ</rt></ruby> "here"
 4. <ruby>[畔](characters/畔%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> "ridge"
-5. <ruby>[眠](characters/眠.md)<rt>ㄇㄝㄇ</rt></ruby> "hibernate"
+5. <ruby>[眠](characters/眠.md)<rt>ㄇㄝㄇ</rt></ruby> "doze"
 6. <ruby>[矩](characters/矩%20(char).md)<rt>ㄎ⼄</rt></ruby> "moment (physics)"
 7. <ruby>[破](characters/破%20(char).md)<rt>ㄆㄜ</rt></ruby> "rend"
 8. <ruby>[砥](characters/砥.md)<rt>ㄐㄧㄜ</rt></ruby> "whetstone"

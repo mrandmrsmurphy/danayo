@@ -1,6 +1,6 @@
 ---
 stroke_count: 8
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 skip_number: 1-5-3
 size: 9
 tags: [lookup]
@@ -18,7 +18,7 @@ tags: [lookup]
 5. <ruby>[祀](characters/祀.md)<rt>ㄙㄜ</rt></ruby> "sacrifice"
 6. <ruby>[突](characters/突.md)<rt>ㄊㄛㄊ</rt></ruby> "abrupt"
 7. <ruby>[邱](characters/邱.md)<rt>ㄍㄨ</rt></ruby> "hill"
-8. <ruby>[邵](characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> "so"
+8. <ruby>[邵](characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> "surname"
 9. <ruby>[邸](characters/邸.md)<rt>ㄉㄝㄧ</rt></ruby> "residence"
 
 ## Datacheck
