@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-09-24
+date-last-perfect: 2026-10-31
 stroke_count: 8
 size: 43
 skip_number: 1-4-4
@@ -28,7 +28,7 @@ tags:
 16. <ruby>[枉](characters/枉.md)<rt>⺢ㄫ</rt></ruby> "bent"
 17. <ruby>[析](characters/析.md)<rt>ㄙㄝㄎ</rt></ruby> "parse"
 18. <ruby>[枕](characters/枕.md)<rt>ㄐㄧㄇ</rt></ruby> "pillow"
-19. <ruby>[枝](characters/枝.md)<rt>ㄐㄝ</rt></ruby> "foilage"
+19. <ruby>[枝](characters/枝.md)<rt>ㄐㄝ</rt></ruby> "branch"
 20. <ruby>[欣](characters/欣.md)<rt>ㄏㄧㄋ</rt></ruby> "happy"
 21. <ruby>[欧](characters/欧.md)<rt>ㄛㄨ</rt></ruby> "Europe"
 22. <ruby>[殴](characters/殴.md)<rt>ㄛㄨ</rt></ruby> "assault"
