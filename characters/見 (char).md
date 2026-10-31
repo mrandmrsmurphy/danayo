@@ -55,6 +55,7 @@ boundedness: 90
 - <ruby>[[見]]<rt>ㄍ⼶ㄋ</rt></ruby> "see" (stand-in for 見)
 - <ruby>[[意見]]<rt>ㄜㄍ⼶ㄋ</rt></ruby> "opinion; view"
 - <ruby>[[発見]]<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby> "discover; find out"
+- <ruby>[[偏見]]<rt>ㄆ⼶ㄋㄍ⼶ㄋ</rt></ruby> "prejudice"
 
 ## Chengyu
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"

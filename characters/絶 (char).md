@@ -60,6 +60,7 @@ boundedness: 75
 - <ruby>[[絶]]<rt>ㄐ⼔ㄊ</rt></ruby> "discontinue" (stand-in for 絶)
 - <ruby>[[絶後]]<rt>ㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "never happen again, not have children"
 - <ruby>[[絶対]]<rt>ㄐ⼔ㄊㄉㄛㄧ</rt></ruby> "absolute, total, unconditional"
+- <ruby>[[絶滅]]<rt>ㄐ⼔ㄊㄇㄝㄊ</rt></ruby> "extinction"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

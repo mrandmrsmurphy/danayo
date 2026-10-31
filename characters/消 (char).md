@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[消耗]]<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby> "consume; deplete"
 - <ruby>[[消滅]]<rt>ㄙ⼄ㄨ·ㄇㄝㄊ</rt></ruby> "vanish; die out; become extinct; annihilate"
 - <ruby>[[消防局]]<rt>ㄙ⼄ㄨㄅㄚㄫㄍ⼄ㄎ</rt></ruby> "fire department"
+- <ruby>[[消失]]<rt>ㄙ⼄ㄨㄙㄧㄊ</rt></ruby> "vanish"

@@ -49,6 +49,7 @@ boundedness: 90
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
+- <ruby>[[唯一]]<rt>⼶ㄧ·ㄧㄊ</rt></ruby> "only"
 In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 千, 百, 十, 半) to disambiguate the exact quantity.
 
 - <ruby>[[一]]<rt>ㄧㄊ</rt></ruby> "one" (stand-in for 一)

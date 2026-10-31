@@ -9,6 +9,7 @@ related_domains:
   - "[[Knowledge]]"
   - "[[Trade]]"
   - "[[Society]]"
+  - "[[Existence]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

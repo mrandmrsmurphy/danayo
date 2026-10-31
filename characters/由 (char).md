@@ -55,6 +55,7 @@ boundedness: 90
 - <ruby>[[理由]]<rt>ㄌㄧ⼜ㄛ</rt></ruby> "reason; grounds; justification"
 - <ruby>[[因由]]<rt>ㄧㄋ·⼜ㄛ</rt></ruby> "reason; cause"
 - <ruby>[[由鼠]]<rt>⼜ㄛ·ㄙ⼄</rt></ruby> "weasel"
+- <ruby>[[由来]]<rt>⼜ㄛㄌㄚㄧ</rt></ruby> "origin"
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"

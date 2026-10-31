@@ -64,6 +64,7 @@ boundedness: 100
 - <ruby>[[老鼠]]<rt>ㄌㄚㄨㄙ⼄</rt></ruby> "rat, mouse"
 - <ruby>[[老鼠人]]<rt>ㄌㄚㄨㄙ⼄·ㄋㄧㄋ</rt></ruby> "rat person"
 - <ruby>[[老街]]<rt>ㄌㄚㄨㄍ⼘ㄧ</rt></ruby> "old street; Lào Cai"
+- <ruby>[[老人]]<rt>ㄌㄚㄨㄋㄧㄋ</rt></ruby> "old person"
 
 ## Chengyu
 - <ruby>[[白頭偕老]]<rt>ㄅㄚㄎㄊㄛㄨㄍ⼶ㄌㄚㄨ</rt></ruby> "Till death do us part"

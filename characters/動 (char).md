@@ -76,3 +76,4 @@ boundedness: 90
 - <ruby>[[他動詞]]<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
 - <ruby>[[自動詞]]<rt>ㄐㄧㄜㄉㄛㄫㄙㄚ</rt></ruby> "intransitive verb"
 - <ruby>[[自動車]]<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby> "automobile"
+- <ruby>[[動机]]<rt>ㄉㄛㄫㄍㄧㄜ</rt></ruby> "motive"

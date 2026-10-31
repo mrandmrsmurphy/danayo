@@ -55,3 +55,4 @@ date-last-perfect: 2026-10-15
 ## Words
 - <ruby>[[縮]]<rt>ㄙㄨㄎ</rt></ruby> "shrink, contract" (stand-in for 縮)
 - <ruby>[[萎縮]]<rt>⼔ㄧㄙㄨㄎ</rt></ruby> "wither; atrophy; slump"
+- <ruby>[[縮小]]<rt>ㄙㄨㄎㄙㄛ</rt></ruby> "shrink"

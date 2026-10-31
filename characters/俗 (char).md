@@ -52,3 +52,4 @@ boundedness: 90
 - <ruby>[[俗]]<rt>ㄙㄛㄎ</rt></ruby> "vulgar"
 - <ruby>[[習俗]]<rt>ㄙㄜㄆㄙㄛㄎ</rt></ruby> "custom; mores; convention; cultural practices"
 - <ruby>[[世俗]]<rt>ㄙㄝㄙㄛㄎ</rt></ruby> "worldly, secular, mundane"
+- <ruby>[[風俗]]<rt>ㄈㄨㄫㄙㄛㄎ</rt></ruby> "customs"

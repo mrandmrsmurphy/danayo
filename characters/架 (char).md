@@ -57,3 +57,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[架]]<rt>ㄍㄚ</rt></ruby> "rack" (stand-in for 架)
+- <ruby>[[架空]]<rt>ㄍㄚ·ㄎㄛㄫ</rt></ruby> "imaginary"

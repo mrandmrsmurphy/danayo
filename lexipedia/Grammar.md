@@ -7,6 +7,7 @@ related_domains:
   - "[[Locatives]]"
   - "[[Mind]]"
   - "[[Knowledge]]"
+  - "[[Existence]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

@@ -122,6 +122,8 @@ boundedness: 75
 - <ruby>[[囚人]]<rt>ㄙㄨㄛㄋㄧㄋ</rt></ruby> "prisoner"
 - <ruby>[[殺人]]<rt>ㄙㄚㄊㄋㄧㄋ</rt></ruby> "murder"
 - <ruby>[[人質]]<rt>ㄋㄧㄋㄐㄧㄊ</rt></ruby> "hostage"
+- <ruby>[[老人]]<rt>ㄌㄚㄨㄋㄧㄋ</rt></ruby> "old person"
+- <ruby>[[華人]]<rt>ㄏ⺢·ㄋㄧㄋ</rt></ruby> "ethnic Chinese"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

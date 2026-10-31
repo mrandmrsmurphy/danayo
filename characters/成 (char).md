@@ -66,6 +66,10 @@ boundedness: 100
 - <ruby>[[四字成語]]<rt>ㄙㄧㄜㄐㄧㄙㄧㄫ⼄</rt></ruby> "four-character fixed expression; four-character idiom"
 - <ruby>[[養成]]<rt>⼘ㄫㄙㄧㄫ</rt></ruby> "to cultivate; train"
 - <ruby>[[成都]]<rt>ㄙㄧㄫㄉㄛ</rt></ruby> "Chengdu"
+- <ruby>[[生成]]<rt>ㄙㄚㄫㄙㄧㄫ</rt></ruby> "generate"
+- <ruby>[[成長]]<rt>ㄙㄧㄫㄐㄚㄫ</rt></ruby> "grow"
+- <ruby>[[構成]]<rt>ㄍㄛㄨㄙㄧㄫ</rt></ruby> "compose"
+- <ruby>[[成分]]<rt>ㄙㄧㄫㄅㄨㄋ</rt></ruby> "component"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

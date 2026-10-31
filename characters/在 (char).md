@@ -55,6 +55,8 @@ boundedness: 80
 - <ruby>[[存在]]<rt>ㄐㄛㄋㄐㄚㄧ</rt></ruby> "to survive; exist"
 - <ruby>[[所在]]<rt>ㄙㄜㄐㄚㄧ</rt></ruby> "place; location; whereabouts"
 - <ruby>[[自在]]<rt>ㄐㄧㄜㄐㄚㄧ</rt></ruby> "comfortable; carefree; adjustable"
+- <ruby>[[実在]]<rt>ㄙㄧㄊㄐㄚㄧ</rt></ruby> "real existence"
+- <ruby>[[不在]]<rt>ㄅㄛㄊㄐㄚㄧ</rt></ruby> "absence"
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"

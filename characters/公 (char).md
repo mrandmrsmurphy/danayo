@@ -73,6 +73,7 @@ boundedness: 100
 - <ruby>[[蒲公英]]<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby> "dandelion"
 - <ruby>[[公爵]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby> "duke"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
+- <ruby>[[公益]]<rt>ㄍㄛㄫㄝㄎ</rt></ruby> "public interest"
 
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"

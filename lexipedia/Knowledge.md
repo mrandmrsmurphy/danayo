@@ -9,6 +9,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Valuation]]"
   - "[[Law]]"
+  - "[[Society]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

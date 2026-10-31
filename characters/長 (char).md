@@ -85,6 +85,8 @@ boundedness: 75
 - <ruby>[[長子]]<rt>ㄐㄚㄫㄐㄜ</rt></ruby> "eldest son"
 - <ruby>[[家長]]<rt>ㄍㄚㄐㄚㄫ</rt></ruby> "head of household"
 - <ruby>[[校長]]<rt>ㄏ⼘ㄨㄐㄚㄫ</rt></ruby> "principal"
+- <ruby>[[成長]]<rt>ㄙㄧㄫㄐㄚㄫ</rt></ruby> "grow"
+- <ruby>[[会長]]<rt>ㄏ⼔ㄐㄚㄫ</rt></ruby> "president"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

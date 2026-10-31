@@ -75,6 +75,7 @@ boundedness: 90
 - <ruby>[[或然]]<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> "probable, contingent"
 - <ruby>[[蓋然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "highly probable, likely, plausible"
 - <ruby>[[概然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "generally so, roughly true, broadly speaking"
+- <ruby>[[超自然]]<rt>ㄊㄚㄨㄐㄧㄜㄋ⼶ㄋ</rt></ruby> "supernatural"
 
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"

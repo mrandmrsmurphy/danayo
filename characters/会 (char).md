@@ -73,6 +73,7 @@ boundedness: 75
 - <ruby>[[密会]]<rt>ㄇㄧㄊㄏ⼔</rt></ruby> "secret meeting; secret date; tryst"
 - <ruby>[[約会]]<rt>⼘ㄎㄏ⼔</rt></ruby> "date; social hangout"
 - <ruby>[[会安]]<rt>ㄏ⼔ㄚㄋ</rt></ruby> "Hoi An"
+- <ruby>[[会長]]<rt>ㄏ⼔ㄐㄚㄫ</rt></ruby> "president"
 
 ## Chengyu
 - <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"

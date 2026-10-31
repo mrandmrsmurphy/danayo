@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[風狂]]<rt>ㄈㄨㄫㄍ⺢ㄫ</rt></ruby> "crazy; insane; a lunatic"
 - <ruby>[[風采]]<rt>ㄈㄨㄫㄑㄚㄧ</rt></ruby> "demeanor; appearance; bearing"
 - <ruby>[[太陽風]]<rt>ㄊㄚㄧ⼘ㄫㄈㄨㄫ</rt></ruby> "solar wind"
+- <ruby>[[風俗]]<rt>ㄈㄨㄫㄙㄛㄎ</rt></ruby> "customs"
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"

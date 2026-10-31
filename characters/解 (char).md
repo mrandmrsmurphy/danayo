@@ -66,6 +66,7 @@ boundedness: 100
 - <ruby>[[解雇]]<rt>ㄍ⼘ㄧㄎㄛ</rt></ruby> "dismissal"
 - <ruby>[[和解]]<rt>ㄏ⺢ㄍ⼘ㄧ</rt></ruby> "settlement"
 - <ruby>[[誤解]]<rt>ㄛㄍ⼘ㄧ</rt></ruby> "misunderstanding"
+- <ruby>[[分解]]<rt>ㄅㄨㄋㄍ⼘ㄧ</rt></ruby> "decompose"
 
 ## Derived Characters
 - <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"

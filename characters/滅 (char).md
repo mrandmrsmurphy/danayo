@@ -57,6 +57,8 @@ date-last-perfect: 2026-10-20
 - <ruby>[[滅失]]<rt>ㄇㄝㄊㄙㄧㄊ</rt></ruby> "lose"
 - <ruby>[[消滅]]<rt>ㄙ⼄ㄨ·ㄇㄝㄊ</rt></ruby> "vanish; die out; become extinct; annihilate"
 - <ruby>[[隠滅]]<rt>ㄜㄋㄇㄝㄊ</rt></ruby> "destroy (evidence); vanish"
+- <ruby>[[滅亡]]<rt>ㄇㄝㄊㄇㄚㄫ</rt></ruby> "perish"
+- <ruby>[[絶滅]]<rt>ㄐ⼔ㄊㄇㄝㄊ</rt></ruby> "extinction"
 
 ## Chengyu
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"

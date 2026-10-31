@@ -63,6 +63,7 @@ boundedness: 80
 - <ruby>[[最近]]<rt>ㄐ⼔ㄍㄧㄋ</rt></ruby> "lately; recently"
 - <ruby>[[附近]]<rt>ㄅㄨㄍㄧㄋ</rt></ruby> "vicinity"
 - <ruby>[[漸近線]]<rt>ㄐㄝㄇㄍㄧㄋㄙ⼶ㄋ</rt></ruby> "asymptote"
+- <ruby>[[近所]]<rt>ㄍㄧㄋㄙㄜ</rt></ruby> "neighborhood"
 
 ## Chengyu
 - <ruby>[[遠交近攻]]<rt>ㄛㄋㄍ⼄ㄨㄍㄧㄋㄍㄛㄫ</rt></ruby> "ally with the distant, attack the near"

@@ -60,3 +60,4 @@ boundedness: 90
 - <ruby>[[厠所]]<rt>ㄑㄧㄙㄜ</rt></ruby> "toilet; bathroom"
 - <ruby>[[事務所]]<rt>ㄐㄧ·ㄇㄨㄙㄜ</rt></ruby> "office building; firm; agency"
 - <ruby>[[裁判所]]<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby> "courthouse"
+- <ruby>[[近所]]<rt>ㄍㄧㄋㄙㄜ</rt></ruby> "neighborhood"

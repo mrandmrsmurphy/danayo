@@ -56,6 +56,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[虚]]<rt>ㄏ⼄</rt></ruby> "void, emptiness" (stand-in for 虚)
 - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby> "falsehood, lie"
 - <ruby>[[空虚]]<rt>ㄎㄛㄫㄏ⼄</rt></ruby> "empty"
+- <ruby>[[虚構]]<rt>ㄏ⼄ㄍㄛㄨ</rt></ruby> "fiction"
 
 ## Derived Characters
 - <ruby>[[墟]]<rt>ㄎ⼄</rt></ruby> "ruins, wasteland"

@@ -65,6 +65,7 @@ boundedness: 80
 
 ## Words
 - <ruby>[[唯]]<rt>⼶ㄧ</rt></ruby> "only" (stand-in for 唯)
+- <ruby>[[唯一]]<rt>⼶ㄧ·ㄧㄊ</rt></ruby> "only"
 
 ## Chengyu
 - <ruby>[[選士唯賢]]<rt>ㄙ⼔ㄋㄙㄚㄧ⼶ㄧㄏㄝㄋ</rt></ruby> "select candidates solely by worthiness; meritocracy as the sole basis of authority"

@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[焉]]<rt>ㄝㄋ</rt></ruby> "therefore" (stand-in for 焉)
+- <ruby>[[終焉]]<rt>ㄐㄨㄫㄝㄋ</rt></ruby> "end"

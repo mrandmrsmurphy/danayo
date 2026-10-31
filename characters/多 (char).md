@@ -63,6 +63,7 @@ boundedness: 70
 - <ruby>[[多辺]]<rt>ㄉㄜㄅㄝㄋ</rt></ruby> "multilateral; many-sided"
 - <ruby>[[加多]]<rt>ㄍㄚㄉㄜ</rt></ruby> "to add; to augment; to increase"
 - <ruby>[[加多金]]<rt>ㄍㄚㄉㄜㄍㄧㄇ</rt></ruby> "gadolinium" — a phonosemantic coinage (加多 approximates "gado-", 多 also contributing "many, more")
+- <ruby>[[多数]]<rt>ㄉㄜㄙㄨ</rt></ruby> "majority"
 
 ## Chengyu
 - <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"

@@ -60,3 +60,4 @@ boundedness: 60
 - <ruby>[[徳素]]<rt>ㄊㄨㄎㄙㄛ</rt></ruby> "germanium"
 - <ruby>[[徳島]]<rt>ㄊㄨㄎㄊㄚㄨ</rt></ruby> "Tokushima Prefecture"
 - <ruby>[[徳]]<rt>ㄊㄨㄎ</rt></ruby> "virtue"
+- <ruby>[[道徳]]<rt>ㄉㄚㄨㄊㄨㄎ</rt></ruby> "morality"
