@@ -529,7 +529,7 @@ tags: [lookup]
 515. <ruby>[[聒]]<rt>ㄍ⺢ㄆ</rt></ruby> - noisy
 516. <ruby>[[䏜]]<rt>ㄇㄚㄆ</rt></ruby> - plump, fat, obese
 517. <ruby>[[肭]]<rt>ㄋㄨㄊ</rt></ruby> - fur seal
-518. <ruby>[[𦚖]]<rt>ㄇㄛㄆ</rt></ruby> - wink
+518. <ruby>[[𦚖 (char)|𦚖]]<rt>ㄇㄛㄆ</rt></ruby> - wink
 519. <ruby>[[肰]]<rt>ㄋㄝㄋ</rt></ruby> - dog meat
 520. <ruby>[[胡]]<rt>ㄏㄛㄨ</rt></ruby> - reckless
 521. <ruby>[[胤]]<rt>ㄧㄋ</rt></ruby> - heir, successor, progeny

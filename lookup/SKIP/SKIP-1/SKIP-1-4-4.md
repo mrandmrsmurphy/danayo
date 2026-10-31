@@ -50,7 +50,7 @@ tags:
 38. <ruby>[肥](characters/肥.md)<rt>ㄅㄨㄧ</rt></ruby> "obese"
 39. <ruby>[肭](characters/肭.md)<rt>ㄋㄨㄊ</rt></ruby> "fur seal"
 40. <ruby>[肰](characters/肰.md)<rt>ㄋㄝㄋ</rt></ruby> "dog meat"
-41. <ruby>[𦚖](characters/𦚖.md)<rt>ㄇㄛㄆ</rt></ruby> "wink"
+41. <ruby>[𦚖](characters/𦚖%20(char).md)<rt>ㄇㄛㄆ</rt></ruby> "wink"
 42. <ruby>[門](characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> "gate"
 43. <ruby>[非](characters/非%20(char).md)<rt>ㄈㄧ</rt></ruby> "ain't"
 

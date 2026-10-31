@@ -33,7 +33,7 @@ tags: [lookup]
 16. <ruby>[肰](../../characters/肰.md)<rt>ㄋㄝㄋ</rt></ruby> - dog meat
 17. <ruby>[育](../../characters/育%20(char).md)<rt>⼜ㄎ</rt></ruby> - nurture
 18. <ruby>[肴](../../characters/肴%20(char).md)<rt>ㄏ⼘ㄨ</rt></ruby> - cooked meat
-19. <ruby>[𦚖](../../characters/𦚖.md)<rt>ㄇㄛㄆ</rt></ruby> - wink
+19. <ruby>[𦚖](../../characters/𦚖%20(char).md)<rt>ㄇㄛㄆ</rt></ruby> - wink
 
 ### +3 Strokes
 20. <ruby>[肺](../../characters/肺.md)<rt>ㄈㄝ</rt></ruby> - lungs

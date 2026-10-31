@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[竦]]<rt>ㄙㄛㄫ</rt></ruby> "awe" (stand-in for 竦)
+- <ruby>[[竦肩]]<rt>ㄙㄛㄫㄍㄝㄋ</rt></ruby> "shrug"

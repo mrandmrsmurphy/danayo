@@ -30,7 +30,7 @@ hanmun_edu_level: "無"
 danayo_id: 8387
 mc_id: 0
 graphemic_classification: "乏"
-stand_in: "名専字"
+stand_in: "𦚖"
 aliases:
   - 眨
 注音: "ㄇㄛㄆ"
@@ -41,6 +41,9 @@ tags:
 boundedness: 90
 date-last-perfect: 2026-10-20
 ---
+>[!tip] This is a page about the character 𦚖.
+>For the word, see [𦚖](../words/𦚖.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
@@ -52,4 +55,4 @@ date-last-perfect: 2026-10-20
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
-- [[List of 名専字|Just a 名専字]]
+- <ruby>[[𦚖]]<rt>ㄇㄛㄆ</rt></ruby> "blink" (stand-in for 𦚖)

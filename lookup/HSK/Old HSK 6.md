@@ -648,7 +648,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 643.  [[溉]]
 644.  [晰](../../characters/析.md)
 645.  [锈](../../characters/銹%20(char).md)
-646.  [眨](../../characters/𦚖.md)
+646.  [眨](../../characters/𦚖%20(char).md)
 647.  [[晶]]
 648.  [凑](../../characters/湊.md)
 649.  [[奉]]

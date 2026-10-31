@@ -285,8 +285,10 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[懸垂](../words/懸垂.md)<rt>ㄏ⼔ㄋㄐㄨㄧ</rt></ruby>: to hang over, overhang.
 - <ruby>[招手](../words/招手.md)<rt>ㄑㄛㄨㄙ⼜</rt></ruby>: to wave, beckon — to raise the hand and move it, to call someone nearer, flag down a vehicle or say goodbye; the stand-in for the bound character 招.
 - <ruby>[点頭](../words/点頭.md)<rt>ㄉㄝㄇㄊㄛㄨ</rt></ruby>: to nod.
+- <ruby>[𦚖](../words/𦚖.md)<rt>ㄇㄛㄆ</rt></ruby>: to blink, wink. See Semantic Range Notes.
 - <ruby>[皺眉](../words/皺眉.md)<rt>ㄐㄨ·ㄇㄧㄜ</rt></ruby>: to frown — to knit the eyebrows.
 - <ruby>[伸手](../words/伸手.md)<rt>ㄙㄧㄋㄙ⼜</rt></ruby>: to reach out, extend the hand.
+- <ruby>[竦肩](../words/竦肩.md)<rt>ㄙㄛㄫㄍㄝㄋ</rt></ruby>: to shrug — to raise the shoulders.
 - <ruby>[挙](../words/挙.md)<rt>ㄍ⼄</rt></ruby>: to raise (挙手, "raise a hand") — also, by extension, "an example, instance" (挙例).
 - <ruby>[掻](../words/掻.md)<rt>ㄙㄚㄨ</rt></ruby>: to scratch.
 - <ruby>[握手](../words/握手.md)<rt>ㄚㄎㄙ⼜</rt></ruby>: to shake hands.
@@ -318,6 +320,7 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[欠](../words/欠.md)<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[欠伸](../words/欠伸.md)<rt>ㄎ⼘ㄇㄙㄧㄋ</rt></ruby> (yawn and stretch): to yawn.
 - <ruby>[咬](../words/咬.md)<rt>⼘ㄨ</rt></ruby>: to bite, chew.
 - <ruby>[且爵](../words/且爵.md)<rt>ㄑㄛㄐㄚㄎ</rt></ruby>: to chew, masticate — a more formal/literary register than [[咬]]. See Semantic Range Notes.
+- <ruby>[呑咽](../words/呑咽.md)<rt>ㄊㄚㄋ·ㄝㄋ</rt></ruby>: to swallow.
 - <ruby>[吐](../words/吐.md)<rt>ㄊㄛ</rt></ruby>, <ruby>[呕吐](../words/呕吐.md)<rt>ㄛㄨㄊㄛ</rt></ruby>: to vomit, spit.
 - <ruby>[咳漱](../words/咳漱.md)<rt>ㄏㄚㄧㄙㄛㄨ</rt></ruby>: to cough.
 - <ruby>[吸](../words/吸.md)<rt>ㄏㄧㄆ</rt></ruby>: to suck.
@@ -391,6 +394,8 @@ The egg as an animal product, housed here with the other animal body parts.
 **肥胖 vs. 肥満 vs. 肥大 vs. 脂肪 — fat as a state and as a substance**: [[肥胖]] and [[肥満]] both describe a fat body (obese, obesity), 肥満 being the usual clinical word. [[肥大]] is enlargement, of a body or of an organ. [[脂肪]] is fat as a substance, and its root [[肪]] is the bound character behind it.
 
 **腹 vs. 胃 vs. 腹部 — belly, stomach and abdomen**: [[腹]] is the belly, the part of the body. [[胃]] is the stomach, the organ inside it. [[腹部]] is the abdomen, the clinical word for the region.
+
+**𦚖 vs. 瞬 — the blink as an act and as an instant**: [[𦚖]] is the act of blinking or winking, done by the eyelid ([[眼瞼]]). The bound character [[瞬]] names the same blink as a measure of time, and appears in [[瞬間]] and [[一瞬]], "an instant".
 
 **昏倒 vs. 気絶 — fainting as a fall and as a loss of consciousness**: [[昏倒]] stresses the collapse, falling down unconscious. [[気絶]] stresses the loss of consciousness itself. Both are temporary, and the return is [[覚醒]] (see [[Mind]]).
 

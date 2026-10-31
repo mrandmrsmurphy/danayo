@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[肩]]<rt>ㄍㄝㄋ</rt></ruby> "shoulder" (stand-in for 肩)
 - <ruby>[[肩章]]<rt>ㄍㄝㄋㄐㄚㄫ</rt></ruby> "epaulet (shoulder decoration)"
 - <ruby>[[肩甲骨]]<rt>ㄍㄝㄋㄍㄚㄆㄍㄛㄊ</rt></ruby> "shoulder blade"
+- <ruby>[[竦肩]]<rt>ㄙㄛㄫㄍㄝㄋ</rt></ruby> "shrug"

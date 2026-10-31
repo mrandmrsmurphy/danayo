@@ -460,7 +460,7 @@ tags: [lookup]
 456. [閔](../../characters/閔.md)
 457. [鱏 (char)](../../characters/鱏%20(char).md)
 458. [姂](../../characters/姂.md)
-459. [𦚖](../../characters/𦚖.md)
+459. [𦚖](../../characters/𦚖%20(char).md)
 460. [姏](../../characters/姏.md)
 461. [㽉](../../characters/㽉.md)
 462. [䝙](../../characters/䝙.md)
