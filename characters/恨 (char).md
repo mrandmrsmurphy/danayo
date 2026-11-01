@@ -53,3 +53,4 @@ boundedness: 75
 ## Words
 - <ruby>[[恨]]<rt>ㄏㄚㄋ</rt></ruby> "hate; grudge" (stand-in for 恨)
 - <ruby>[[仇恨]]<rt>ㄍ⼜ㄏㄚㄋ</rt></ruby> "hatred, enmity"
+- <ruby>[[怨恨]]<rt>ㄛㄋㄏㄚㄋ</rt></ruby> "grudge"

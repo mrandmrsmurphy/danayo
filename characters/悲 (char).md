@@ -57,3 +57,5 @@ boundedness: 80
 - <ruby>[[悲劇]]<rt>ㄅㄧㄜㄍㄝㄎ</rt></ruby> "tragedy"
 - <ruby>[[悲哀]]<rt>ㄅㄧㄜㄚㄧ</rt></ruby> "sorrow"
 - <ruby>[[悲嘆]]<rt>ㄅㄧㄜㄊㄚㄋ</rt></ruby> "grief"
+- <ruby>[[悲鳴]]<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby> "scream"
+- <ruby>[[悲憤]]<rt>ㄅㄧㄜㄅㄨㄋ</rt></ruby> "grief and indignation"

@@ -52,6 +52,7 @@ boundedness: 80
 ## Words
 - <ruby>[[鳴]]<rt>ㄇ⼶ㄫ</rt></ruby> "cry, chirp" (stand-in for 鳴)
 - <ruby>[[鶏鳴]]<rt>ㄍㄝㄧㄇ⼶ㄫ</rt></ruby> "cock's crow, daybreak, 2 a.m."
+- <ruby>[[悲鳴]]<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby> "scream"
 
 ## Chengyu
 - <ruby>[[鶏鳴狗盗]]<rt>ㄍㄝㄧㄇ⼶ㄫㄍㄛㄨㄉㄚㄨ</rt></ruby> "despicable people resort to petty tricks"

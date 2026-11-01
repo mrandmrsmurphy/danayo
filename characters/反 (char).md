@@ -65,6 +65,8 @@ boundedness: 100
 - <ruby>[[違反]]<rt>ㄨㄧㄈㄛㄋ</rt></ruby> "violate; transgress; infringe"
 - <ruby>[[反駁]]<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby> "refute"
 - <ruby>[[反逆]]<rt>ㄈㄛㄋ·ㄝㄎ</rt></ruby> "treason"
+- <ruby>[[反感]]<rt>ㄈㄛㄋㄍㄚㄇ</rt></ruby> "antipathy"
+- <ruby>[[反抗]]<rt>ㄈㄛㄋㄏㄚㄫ</rt></ruby> "resistance"
 
 ## Chengyu
 - <ruby>[[創反救成]]<rt>ㄑ⺢ㄫㄈㄛㄋㄍ⼜ㄙㄧㄫ</rt></ruby> "creation, fall, redemption, consummation"

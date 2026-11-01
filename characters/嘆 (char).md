@@ -61,3 +61,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[感嘆詞]]<rt>ㄍㄚㄇㄊㄚㄋㄙㄚ</rt></ruby> "interjection (grammar)"
 - <ruby>[[賛嘆]]<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby> "admire"
 - <ruby>[[悲嘆]]<rt>ㄅㄧㄜㄊㄚㄋ</rt></ruby> "grief"
+- <ruby>[[嘆息]]<rt>ㄊㄚㄋㄙㄧㄎ</rt></ruby> "sigh"

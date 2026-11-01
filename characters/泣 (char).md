@@ -57,3 +57,4 @@ date-last-perfect: 2026-10-15
 
 ## Words
 - <ruby>[[泣]]<rt>ㄎㄧㄆ</rt></ruby> "cry, sob" (stand-in for 泣)
+- <ruby>[[号泣]]<rt>ㄏㄚㄨㄎㄧㄆ</rt></ruby> "wailing"

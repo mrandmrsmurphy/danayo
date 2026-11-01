@@ -58,6 +58,7 @@ boundedness: 65
 - <ruby>[[透視]]<rt>ㄊㄛㄨㄙㄧㄜ</rt></ruby> "see through"
 - <ruby>[[視認]]<rt>ㄙㄧㄜ·ㄋㄧㄋ</rt></ruby> "visual recognition"
 - <ruby>[[怒視]]<rt>ㄋㄛㄙㄧㄜ</rt></ruby> "glare"
+- <ruby>[[蔑視]]<rt>ㄇㄝㄊㄙㄧㄜ</rt></ruby> "contempt"
 
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"

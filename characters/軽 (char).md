@@ -65,6 +65,7 @@ boundedness: 40
 - <ruby>[[軽罪]]<rt>ㄎㄧㄫㄐㄛㄧ</rt></ruby> "misdemeanor"
 - <ruby>[[軽視]]<rt>ㄎㄧㄫㄙㄧㄜ</rt></ruby> "look down on, disdain"
 - <ruby>[[軽重]]<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby> "relative importance"
+- <ruby>[[軽蔑]]<rt>ㄎㄧㄫㄇㄝㄊ</rt></ruby> "contempt"
 
 ## Chengyu
 - <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"

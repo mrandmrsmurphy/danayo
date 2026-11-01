@@ -86,6 +86,8 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[慷慨](../words/慷慨.md)<rt>ㄎㄚㄫㄎㄚㄧ</rt></ruby>: impassioned, vehement, fervent.
 - <ruby>[昂揚](../words/昂揚.md)<rt>ㄚㄫ⼘ㄫ</rt></ruby>: high-spirited, exalted.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: to anger, enrage.
+- <ruby>[激昂](../words/激昂.md)<rt>ㄍㄝㄎ·ㄚㄫ</rt></ruby>: to be roused — stirred to high, intense feeling, in anger or in passion.
+- <ruby>[悲憤](../words/悲憤.md)<rt>ㄅㄧㄜㄅㄨㄋ</rt></ruby>: grief and indignation — anger full of sorrow, at a wrong one cannot undo.
 - <ruby>[悩](../words/悩.md)<rt>ㄋㄚㄨ</rt></ruby>: angered, mad.
 - <ruby>[煩](../words/煩.md)<rt>ㄈㄛㄇ</rt></ruby>: troublesome, annoying, vexing — a much milder irritation than [[憤怒]]/[[激怒]]'s real anger (煩悩, "vexation, worldly care"; 麻煩, "a bother, a nuisance").
 
@@ -119,6 +121,9 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[不満](../words/不満.md)<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby>: to be dissatisfied, resentful, lacking.
 - <ruby>[不平](../words/不平.md)<rt>ㄅㄛㄊㄅ⼶ㄫ</rt></ruby>: unjust, unfair; the resentment felt at injustice, complaint, grumbling (esp. Korean 불평하다, "to complain") — an undocumented near-duplicate of [[不満]], distinct from [[不当]]'s purely legal/objective "unjust" judgment on [Law](../lexipedia/Law.md).
 - <ruby>[嫉妬](../words/嫉妬.md)<rt>ㄐㄧㄊㄉㄛ</rt></ruby>, <ruby>[羨慕](../words/羨慕.md)<rt>ㄧㄜㄇㄛ</rt></ruby>: to be jealous, envious.
+- <ruby>[反感](../words/反感.md)<rt>ㄈㄛㄋㄍㄚㄇ</rt></ruby>: antipathy — an instinctive feeling set against a person, an act or a remark.
+- <ruby>[怨恨](../words/怨恨.md)<rt>ㄛㄋㄏㄚㄋ</rt></ruby>: a grudge, enmity — hatred kept alive over a wrong done to one.
+- <ruby>[反抗](../words/反抗.md)<rt>ㄈㄛㄋㄏㄚㄫ</rt></ruby>: resistance, to rebel — to push back against authority or a force.
 
 ### Shame & Disgrace
 
@@ -161,6 +166,9 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[気炎](../words/気炎.md)<rt>ㄎㄧㄜㄝㄇ</rt></ruby>: bluster, fighting spirit — a blazing show of spirit that can read as arrogance (the derogatory sense) or as high morale (the neutral sense); compare [[傲慢]].
 - <ruby>[逞](../words/逞.md)<rt>ㄑㄧㄫ</rt></ruby>: to indulge, brag, show off — flaunting one's own ability or strength (逞能, "to show off one's skill"; 逞強, "to flaunt one's strength").
 - <ruby>[蔑](../words/蔑.md)<rt>ㄇㄝㄊ</rt></ruby>: to scorn, despise — the bound root behind 侮蔑/軽蔑.
+- <ruby>[軽蔑](../words/軽蔑.md)<rt>ㄎㄧㄫㄇㄝㄊ</rt></ruby>: contempt — to look on someone as beneath one's notice.
+- <ruby>[蔑視](../words/蔑視.md)<rt>ㄇㄝㄊㄙㄧㄜ</rt></ruby>: to look down on — scorn shown in the gaze.
+- <ruby>[侮蔑](../words/侮蔑.md)<rt>ㄇㄨ·ㄇㄝㄊ</rt></ruby>: scorn, to insult — contempt made public.
 - <ruby>[吝嗇](../words/吝嗇.md)<rt>ㄌㄧㄋㄙㄧㄎ</rt></ruby>: miserly, stingy.
 - <ruby>[刻薄](../words/刻薄.md)<rt>ㄎㄨㄎㄅㄚㄎ</rt></ruby>: cruel, inhuman.
 - <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚ·ㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
@@ -185,6 +193,9 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[呻吟](../words/呻吟.md)<rt>ㄙㄧㄋ·ㄜㄇ</rt></ruby>: to moan, groan.
 - <ruby>[哭](../words/哭.md)<rt>ㄎㄛㄎ</rt></ruby>, <ruby>[泣](../words/泣.md)<rt>ㄎㄧㄆ</rt></ruby>: to cry, weep, sob.
 - <ruby>[嗚咽](../words/嗚咽.md)<rt>ㄛㄝㄋ</rt></ruby>: to sob, whimper.
+- <ruby>[嘆息](../words/嘆息.md)<rt>ㄊㄚㄋㄙㄧㄎ</rt></ruby>: a sigh, to sigh — a long breath let out in sorrow or regret.
+- <ruby>[号泣](../words/号泣.md)<rt>ㄏㄚㄨㄎㄧㄆ</rt></ruby>: to wail, wailing — to weep aloud without restraint.
+- <ruby>[悲鳴](../words/悲鳴.md)<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby>: a scream, shriek — a sharp cry of fear, pain or distress.
 
 ### Admiration & Encouragement
 

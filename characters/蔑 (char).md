@@ -58,6 +58,9 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[蔑]]<rt>ㄇㄝㄊ</rt></ruby> "scorn" (stand-in for 蔑)
+- <ruby>[[軽蔑]]<rt>ㄎㄧㄫㄇㄝㄊ</rt></ruby> "contempt"
+- <ruby>[[蔑視]]<rt>ㄇㄝㄊㄙㄧㄜ</rt></ruby> "contempt"
+- <ruby>[[侮蔑]]<rt>ㄇㄨ·ㄇㄝㄊ</rt></ruby> "scorn"
 
 ## Derived Characters
 - <ruby>[[襪]]<rt>ㄇㄝㄊ</rt></ruby> "sock, stocking"
