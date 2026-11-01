@@ -57,4 +57,5 @@ boundedness: 80
 - <ruby>[[筆画]]<rt>ㄆㄨㄊㄏ⺢ㄎ</rt></ruby> "stroke"
 - <ruby>[[鉛筆]]<rt>⼶ㄋㄆㄨㄊ</rt></ruby> "pencil"
 - <ruby>[[筆順]]<rt>ㄆㄨㄊㄙ⼜ㄋ</rt></ruby> "stroke order"
+- <ruby>[[随筆]]<rt>ㄙㄨㄧㄆㄨㄊ</rt></ruby> "essay"
 

@@ -58,3 +58,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[正弦]]<rt>ㄐㄧㄫㄏㄝㄋ</rt></ruby> "sine"
 - <ruby>[[正弦波]]<rt>ㄐㄧㄫㄏㄝㄋㄅㄚ</rt></ruby> "sine wave, sinusoid"
 - <ruby>[[余弦]]<rt>⼄ㄏㄝㄋ</rt></ruby> "cosine"
+- <ruby>[[管弦楽]]<rt>ㄍ⺢ㄋㄏㄝㄋㄌㄚㄎ</rt></ruby> "orchestra"

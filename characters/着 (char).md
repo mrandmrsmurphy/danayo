@@ -58,3 +58,5 @@ boundedness: 100
 - <ruby>[[寿着]]<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby> "hesitate, waver"
 - <ruby>[[土着]]<rt>ㄊㄛㄐ⺢ㄎ</rt></ruby> "aborigine, aboriginal, indigenous"
 - <ruby>[[着色]]<rt>ㄐ⺢ㄎㄙㄧㄎ</rt></ruby> "coloring"
+- <ruby>[[着者]]<rt>ㄐ⺢ㄎㄑㄚ</rt></ruby> "author"
+- <ruby>[[着作]]<rt>ㄐ⺢ㄎㄐㄚㄎ</rt></ruby> "written work"

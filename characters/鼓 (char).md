@@ -52,3 +52,4 @@ boundedness: 90
 - <ruby>[[鼓舞]]<rt>ㄍㄛ·ㄇㄨ</rt></ruby> "encourage, cheer"
 - <ruby>[[鞀鼓]]<rt>ㄉㄚㄨㄍㄛ</rt></ruby> "pellet drum"
 - <ruby>[[鉦鼓]]<rt>ㄐㄧㄫㄍㄛ</rt></ruby> "gong and drum; military percussion"
+- <ruby>[[太鼓]]<rt>ㄊㄚㄧㄍㄛ</rt></ruby> "drum"

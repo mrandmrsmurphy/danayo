@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[壁虱]]<rt>ㄅㄝㄎㄙㄛㄊ</rt></ruby> "tick, mite, bedbug"
 - <ruby>[[壁塁]]<rt>ㄅㄝㄎㄌㄨㄧ</rt></ruby> "rampart"
 - <ruby>[[牆壁]]<rt>ㄑ⺢ㄫㄅㄝㄎ</rt></ruby> "wall (ancient)"
+- <ruby>[[壁画]]<rt>ㄅㄝㄎㄏ⺢ㄎ</rt></ruby> "mural"

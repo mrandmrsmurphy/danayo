@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[剪]]<rt>ㄐㄝㄋ</rt></ruby> "scissors"
+- <ruby>[[剪紙]]<rt>ㄐㄝㄋㄐㄝ</rt></ruby> "paper cutting"

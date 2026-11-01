@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - [撮](../words/撮.md) "small amount; pinch" — 撮 stands alone as a word in Dan'a'yo.
 - <ruby>[[撮]]<rt>ㄐ⺢ㄊ</rt></ruby> "small amount, pinch" (stand-in for 撮)
+- <ruby>[[撮影]]<rt>ㄐ⺢ㄊ⼶ㄫ</rt></ruby> "filming"

@@ -68,3 +68,5 @@ date-last-perfect: 2026-10-15
 - <ruby>[[講演]]<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby> "lecture, give a speech"
 - <ruby>[[導演]]<rt>ㄉㄚㄨ⼶ㄋ</rt></ruby> "direct; director"
 - <ruby>[[演䋇]]<rt>⼶ㄋ·⼶ㄎ</rt></ruby> "deduction"
+- <ruby>[[演技]]<rt>⼶ㄋㄍㄨㄧ</rt></ruby> "acting"
+- <ruby>[[演劇]]<rt>⼶ㄋㄍㄝㄎ</rt></ruby> "theatre"

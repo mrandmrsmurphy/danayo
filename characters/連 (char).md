@@ -77,6 +77,7 @@ boundedness: 90
 - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby> "internet"
 - <ruby>[[大連]]<rt>ㄉㄚㄧㄌ⼶ㄋ</rt></ruby> "Dalian"
 - <ruby>[[連襟]]<rt>ㄌ⼶ㄋㄍㄧㄇ</rt></ruby> "husbands of sisters"
+- <ruby>[[連歌]]<rt>ㄌ⼶ㄋㄍㄜ</rt></ruby> "renga"
 
 ## Chengyu
 - <ruby>[[骨肉相連]]<rt>ㄍㄛㄊㄋㄨㄎㄙㄚㄫㄌ⼶ㄋ</rt></ruby> "Bone of my bone and flesh of my flesh"

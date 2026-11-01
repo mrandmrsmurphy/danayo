@@ -74,6 +74,7 @@ boundedness: 90
 - <ruby>[[太極拳]]<rt>ㄊㄚㄧㄍㄧㄎㄍ⼔ㄋ</rt></ruby> "Taijiquan; tai chi"
 - <ruby>[[太様]]<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> "greatly; exceedingly"
 - <ruby>[[太原]]<rt>ㄊㄚㄧ⼔ㄋ</rt></ruby> "Taiyuan; Thai Nguyen"
+- <ruby>[[太鼓]]<rt>ㄊㄚㄧㄍㄛ</rt></ruby> "drum"
 
 ## Derived Characters
 - <ruby>[[駄 (char)|駄]]<rt>ㄉㄚ</rt></ruby> "pack, carry"

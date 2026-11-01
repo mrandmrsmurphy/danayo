@@ -63,3 +63,6 @@ date-last-perfect: 2026-10-15
 - <ruby>[[芸術]]<rt>ㄝㄙㄨㄊ</rt></ruby> "skill, art, craft"
 - <ruby>[[占星術]]<rt>ㄐㄝㄇㄙㄝㄫㄙㄨㄊ</rt></ruby> "astrology"
 - <ruby>[[錬金術]]<rt>ㄌㄝㄋㄍㄧㄇㄙㄨㄊ</rt></ruby> "alchemy"
+- <ruby>[[芸術家]]<rt>ㄝㄙㄨㄊㄍㄚ</rt></ruby> "artist"
+- <ruby>[[美術]]<rt>ㄇㄧㄙㄨㄊ</rt></ruby> "fine art"
+- <ruby>[[美術館]]<rt>ㄇㄧㄙㄨㄊㄍ⺢ㄋ</rt></ruby> "art museum"

@@ -60,3 +60,6 @@ boundedness: 90
 - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby> "telephone"
 - <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
 - <ruby>[[話者]]<rt>ㄏ⺢ㄧ·ㄑㄚ</rt></ruby> "speaker"
+- <ruby>[[童話]]<rt>ㄉㄛㄫㄏ⺢ㄧ</rt></ruby> "children's tale"
+- <ruby>[[寓話]]<rt>ㄨㄏ⺢ㄧ</rt></ruby> "fable"
+- <ruby>[[民話]]<rt>ㄇㄧㄋㄏ⺢ㄧ</rt></ruby> "folktale"

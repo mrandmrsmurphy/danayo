@@ -56,3 +56,4 @@ boundedness: 40
 - <ruby>[[佛陀]]<rt>ㄅㄨㄊㄉㄚ</rt></ruby> "Buddha"
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium (Fl, element 114)"
 - <ruby>[[利佛素]]<rt>ㄌㄧㄜㄅㄨㄊㄙㄛ</rt></ruby> "livermorium (Lv, element 116)"
+- <ruby>[[佛像]]<rt>ㄅㄨㄊㄙ⼘ㄫ</rt></ruby> "Buddha statue"

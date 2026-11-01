@@ -64,6 +64,9 @@ boundedness: 80
 - <ruby>[[句杞]]<rt>ㄍㄨ·ㄎㄧ</rt></ruby> "wolfberry"
 - <ruby>[[詞句]]<rt>ㄙㄚㄍㄨ</rt></ruby> "words and phrases"
 - <ruby>[[句号]]<rt>ㄍㄨㄏㄚㄨ</rt></ruby> "period; full stop"
+- <ruby>[[詩句]]<rt>ㄙㄧㄍㄨ</rt></ruby> "line of verse"
+- <ruby>[[俳句]]<rt>ㄅ⼶ㄍㄨ</rt></ruby> "haiku"
+- <ruby>[[絶句]]<rt>ㄐ⼔ㄊㄍㄨ</rt></ruby> "jueju"
 
 ## Derived Characters
 - <ruby>[[鉤 (char)|鉤]]<rt>ㄍㄛㄨ</rt></ruby> "hook; barb"

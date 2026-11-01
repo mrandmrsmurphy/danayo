@@ -62,6 +62,7 @@ boundedness: 75
 - <ruby>[[絶対]]<rt>ㄐ⼔ㄊㄉㄛㄧ</rt></ruby> "absolute, total, unconditional"
 - <ruby>[[絶滅]]<rt>ㄐ⼔ㄊㄇㄝㄊ</rt></ruby> "extinction"
 - <ruby>[[気絶]]<rt>ㄎㄧㄜㄐ⼔ㄊ</rt></ruby> "faint"
+- <ruby>[[絶句]]<rt>ㄐ⼔ㄊㄍㄨ</rt></ruby> "jueju"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

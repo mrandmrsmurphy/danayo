@@ -67,6 +67,8 @@ boundedness: 95
 - <ruby>[[台湾]]<rt>ㄉㄚㄧ⺢ㄇ</rt></ruby> "Taiwan"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
 - <ruby>[[天文台]]<rt>ㄊㄝㄋㄇㄨㄋㄉㄚㄧ</rt></ruby> "observatory"
+- <ruby>[[舞台]]<rt>ㄇㄨㄉㄚㄧ</rt></ruby> "stage"
+- <ruby>[[台詞]]<rt>ㄉㄚㄧㄙㄚ</rt></ruby> "lines"
 
 ## Derived Characters
 - <ruby>[[苔 (char)|苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss"

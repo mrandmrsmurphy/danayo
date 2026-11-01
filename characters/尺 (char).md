@@ -53,6 +53,7 @@ boundedness: 90
 - <ruby>[尺蠖](../words/尺蠖.md)<rt>ㄑㄝㄎ·⺢ㄎ</rt></ruby> "inchworm"
 - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby> "meter"
 - <ruby>[[尺度]]<rt>ㄑㄝㄎㄉㄛ</rt></ruby> "measure; yardstick; criterion"
+- <ruby>[[尺八]]<rt>ㄑㄝㄎㄅㄚㄊ</rt></ruby> "shakuhachi"
 
 ## Derived Characters
 - <ruby>[[択]]<rt>ㄉㄚㄎ</rt></ruby> "choose; select"

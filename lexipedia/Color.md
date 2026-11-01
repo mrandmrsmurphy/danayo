@@ -6,6 +6,7 @@ related_domains:
   - "[[Metals]]"
   - "[[Clothing]]"
   - "[[Light]]"
+  - "[[Art]]"
 status: complete
 date-last-perfect: 2026-10-29
 ---

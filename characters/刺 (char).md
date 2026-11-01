@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[名刺]]<rt>ㄇㄧㄫㄑㄧㄎ</rt></ruby> "business card"
 - <ruby>[[風刺]]<rt>ㄈㄨㄫㄑㄧㄎ</rt></ruby> "satirize; mock"
 - <ruby>[[刺]]<rt>ㄑㄧㄎ</rt></ruby> "stab; prick; sting"
+- <ruby>[[刺繍]]<rt>ㄑㄧㄎㄙ⼜</rt></ruby> "embroidery"
 
 ## Derived Characters
 - <ruby>[[策]]<rt>ㄑㄚㄎ</rt></ruby> "scheme; plan"

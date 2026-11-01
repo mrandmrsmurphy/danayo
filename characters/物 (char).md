@@ -89,6 +89,7 @@ boundedness: 50
 - <ruby>[[人物]]<rt>ㄋㄧㄋㄇㄨㄊ</rt></ruby> "figure; personage"
 - <ruby>[[化合物]]<rt>ㄏ⺢ㄍㄛㄆㄇㄨㄊ</rt></ruby> "chemical compound"
 - <ruby>[[混合物]]<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby> "mixture"
+- <ruby>[[博物館]]<rt>ㄅㄚㄎㄇㄨㄊㄍ⺢ㄋ</rt></ruby> "museum"
 
 ## Chengyu
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"

@@ -55,6 +55,7 @@ boundedness: 75
 - <ruby>[[黄銅]]<rt>ㄏ⺢ㄫㄉㄛㄫ</rt></ruby> "brass"
 - <ruby>[[魔銅]]<rt>ㄇㄚㄉㄛㄫ</rt></ruby> "nickel"
 - <ruby>[[銅鑼]]<rt>ㄉㄛㄫㄌㄚ</rt></ruby> "gong"
+- <ruby>[[銅像]]<rt>ㄉㄛㄫㄙ⼘ㄫ</rt></ruby> "bronze statue"
 
 ## Chengyu
 - <ruby>[[金銀銅鉄]]<rt>ㄍㄧㄇ·ㄧㄋㄉㄛㄫㄊㄝㄊ</rt></ruby> "Gold, silver, copper, iron"

@@ -63,3 +63,4 @@ date-last-perfect: 2026-10-15
 ## Words
 - <ruby>[[掛]]<rt>ㄍ⺢ㄧ</rt></ruby> "hang, suspend" (stand-in for 掛)
 - <ruby>[[垂掛]]<rt>ㄐㄨㄧㄍ⺢ㄧ</rt></ruby> "to hang; to suspend; to dangle"
+- <ruby>[[掛軸]]<rt>ㄍ⺢ㄧㄉㄨㄎ</rt></ruby> "hanging scroll"

@@ -59,6 +59,14 @@ boundedness: 80
 - <ruby>[[傑作]]<rt>ㄍㄝㄊㄐㄚㄎ</rt></ruby> "masterpiece"
 - <ruby>[[始作]]<rt>ㄙㄧㄐㄚㄎ</rt></ruby> "begin, start"
 - <ruby>[[作業]]<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby> "work, operate"
+- <ruby>[[作家]]<rt>ㄐㄚㄎㄍㄚ</rt></ruby> "writer"
+- <ruby>[[作者]]<rt>ㄐㄚㄎㄑㄚ</rt></ruby> "author"
+- <ruby>[[作曲家]]<rt>ㄐㄚㄎㄎ⼄ㄎㄍㄚ</rt></ruby> "composer"
+- <ruby>[[劇作家]]<rt>ㄍㄝㄎㄐㄚㄎㄍㄚ</rt></ruby> "playwright"
+- <ruby>[[作品]]<rt>ㄐㄚㄎㄆㄨㄇ</rt></ruby> "work"
+- <ruby>[[着作]]<rt>ㄐ⺢ㄎㄐㄚㄎ</rt></ruby> "written work"
+- <ruby>[[創作]]<rt>ㄑ⺢ㄫㄐㄚㄎ</rt></ruby> "creative work"
+- <ruby>[[作曲]]<rt>ㄐㄚㄎㄎ⼄ㄎ</rt></ruby> "composition"
 
 ## Chengyu
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"

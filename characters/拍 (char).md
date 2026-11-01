@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[拍]]<rt>ㄆㄚㄎ</rt></ruby> "tap, clap, beat, pulse" (stand-in for 拍)
 - <ruby>[[拍手]]<rt>ㄆㄚㄎㄙ⼜</rt></ruby> "applaud, clap"
 - <ruby>[[脈拍]]<rt>ㄇㄚㄎㄆㄚㄎ</rt></ruby> "pulse"
+- <ruby>[[拍子]]<rt>ㄆㄚㄎㄐㄜ</rt></ruby> "beat"

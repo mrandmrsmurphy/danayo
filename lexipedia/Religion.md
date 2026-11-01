@@ -5,6 +5,7 @@ domain: Religion
 related_domains:
   - "[[Existence]]"
   - "[[Astronomy]]"
+  - "[[Art]]"
 status: partial
 ---
 

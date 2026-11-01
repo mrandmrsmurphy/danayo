@@ -60,6 +60,7 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[喝]]<rt>ㄏㄛㄊ</rt></ruby> "yell; shout" (stand-in for 喝)
 - <ruby>[[恐喝]]<rt>ㄎㄛㄫㄏㄛㄊ</rt></ruby> "blackmail"
+- <ruby>[[喝采]]<rt>ㄏㄛㄊㄑㄚㄧ</rt></ruby> "applause"
 
 ## Derived Characters
 - <ruby>[[猲]]<rt>ㄎ⺢ㄆ</rt></ruby> "hunting dog; growl"

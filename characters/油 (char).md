@@ -54,3 +54,4 @@ boundedness: 90
 - <ruby>[[醤油]]<rt>ㄐㄚㄫ⼜</rt></ruby> "soy sauce"
 - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby> "gasoline"
 - <ruby>[[精油]]<rt>ㄐㄝㄫ⼜</rt></ruby> "oil (all kinds)"
+- <ruby>[[油画]]<rt>⼜ㄏ⺢ㄎ</rt></ruby> "oil painting"

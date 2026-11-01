@@ -79,6 +79,7 @@ boundedness: 80
 - <ruby>[[十二月]]<rt>ㄙㄧㄆㄋㄧㄜ⼔ㄊ</rt></ruby> "December"
 - <ruby>[[二十八宿]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby> "Twenty-Eight Mansions"
 - <ruby>[[十二宮]]<rt>ㄙㄧㄆㄋㄧㄜㄍㄨㄫ</rt></ruby> "zodiac"
+- <ruby>[[二胡]]<rt>ㄋㄧㄜㄏㄛㄨ</rt></ruby> "erhu"
 
 ## Chengyu
 - <ruby>[[一石二鳥]]<rt>ㄧㄊㄙㄝㄎㄋㄧㄜㄑㄛㄨ</rt></ruby> "kill two birds with one stone"

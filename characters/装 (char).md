@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package"
 - <ruby>[[鞍装]]<rt>ㄚㄋㄐ⺢ㄫ</rt></ruby> "saddle"
 - <ruby>[[服装]]<rt>ㄅㄨㄎㄐ⺢ㄫ</rt></ruby> "clothing, dress, outfit, costume"
+- <ruby>[[衣装]]<rt>ㄧㄜㄐ⺢ㄫ</rt></ruby> "costume"

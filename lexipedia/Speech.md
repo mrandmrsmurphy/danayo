@@ -6,6 +6,7 @@ related_domains:
   - "[[Grammar]]"
   - "[[Mind]]"
   - "[[Conflict]]"
+  - "[[Art]]"
 status: partial
 ---
 

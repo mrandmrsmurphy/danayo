@@ -67,6 +67,7 @@ boundedness: 90
 - <ruby>[[援手]]<rt>ㄛㄋㄙ⼜</rt></ruby> "helping hand; assistance"
 - <ruby>[[手首]]<rt>ㄙ⼜ㄙ⼜</rt></ruby> "wrist"
 - <ruby>[[伸手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> "reach out"
+- <ruby>[[歌手]]<rt>ㄍㄜㄙ⼜</rt></ruby> "singer"
 
 ## Derived Characters
 - <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby> "lose"

@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[楷]]<rt>ㄎ⼶</rt></ruby> "model, pattern" (stand-in for 楷)
+- <ruby>[[楷書]]<rt>ㄎ⼶ㄙ⼄</rt></ruby> "regular script"

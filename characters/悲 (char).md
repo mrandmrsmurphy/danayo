@@ -54,3 +54,4 @@ boundedness: 80
 - <ruby>[[悲]]<rt>ㄅㄧㄜ</rt></ruby> "be sad" (stand-in for 悲)
 - <ruby>[[悲傷]]<rt>ㄅㄧㄜㄙ⼘ㄫ</rt></ruby> "sad, sorrowful, grieving"
 - <ruby>[[悲痛]]<rt>ㄅㄧㄜㄊㄛㄫ</rt></ruby> "grieved, sorrowful"
+- <ruby>[[悲劇]]<rt>ㄅㄧㄜㄍㄝㄎ</rt></ruby> "tragedy"

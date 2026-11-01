@@ -12,6 +12,7 @@ related_domains:
   - "[[Society]]"
   - "[[Speech]]"
   - "[[Government]]"
+  - "[[Art]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---
@@ -269,6 +270,12 @@ Conflict carried into play: contests with rules and scoring. There is no separat
 - <ruby>[板球](../words/板球.md)<rt>ㄆㄚㄋㄍ⼜</rt></ruby>: cricket (the sport, not the insect) — a bat-and-ball contest.
 - <ruby>[桌球](../words/桌球.md)<rt>ㄊㄚㄎㄍ⼜</rt></ruby>: table tennis, ping pong — a table-top racket-and-ball game.
 - <ruby>[橄欖球](../words/橄欖球.md)<rt>ㄍㄚㄇㄌㄚㄇㄍ⼜</rt></ruby>: rugby (lit. "olive ball," after the ball's shape).
+- <ruby>[籠球](../words/籠球.md)<rt>ㄌㄛㄫㄍ⼜</rt></ruby>: basketball.
+- <ruby>[網球](../words/網球.md)<rt>ㄇㄚㄫㄍ⼜</rt></ruby>: tennis; tennis ball; net ball.
+- <ruby>[足球](../words/足球.md)<rt>ㄐㄛㄎㄍ⼜</rt></ruby>: football.
+- <ruby>[蹴鞠](../words/蹴鞠.md)<rt>ㄑㄨㄎㄍㄨㄎ</rt></ruby>: cuju; kemari.
+- <ruby>[送球](../words/送球.md)<rt>ㄙㄛㄫㄍ⼜</rt></ruby>: handball.
+- <ruby>[鎧球](../words/鎧球.md)<rt>ㄎㄚㄧㄍ⼜</rt></ruby>: American football; gridiron football; football.
 
 ## Advanced / Specialized (C1+)
 

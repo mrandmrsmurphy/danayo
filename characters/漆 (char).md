@@ -51,3 +51,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[漆]]<rt>ㄑㄧㄊ</rt></ruby> "varnish" (stand-in for 漆 (char))
+- <ruby>[[漆器]]<rt>ㄑㄧㄊㄎㄧㄜ</rt></ruby> "lacquerware"

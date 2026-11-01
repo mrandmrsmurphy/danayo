@@ -54,3 +54,4 @@ boundedness: 90
 - <ruby>[[脚]]<rt>ㄍ⼘ㄎ</rt></ruby> "leg" (stand-in for 脚)
 - <ruby>[[脚踝]]<rt>ㄍ⼘ㄎㄏ⺢</rt></ruby> "ankle"
 - <ruby>[[馬脚]]<rt>ㄇㄚㄍ⼘ㄎ</rt></ruby> "horse feet; cloven feet; sore thumb"
+- <ruby>[[脚本]]<rt>ㄍ⼘ㄎㄅㄛㄋ</rt></ruby> "script"

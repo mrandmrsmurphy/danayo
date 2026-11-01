@@ -54,6 +54,8 @@ boundedness: 90
 - <ruby>[[短音]]<rt>ㄉ⺢ㄋ·ㄨㄇ</rt></ruby> "short vowel; short tone"
 - <ruby>[[短期]]<rt>ㄉ⺢ㄋㄎㄧ</rt></ruby> "short-term"
 - <ruby>[[長短]]<rt>ㄐㄚㄫㄉ⺢ㄋ</rt></ruby> "length; long and short"
+- <ruby>[[短編]]<rt>ㄉ⺢ㄋㄅ⼶ㄋ</rt></ruby> "short story"
+- <ruby>[[短歌]]<rt>ㄉ⺢ㄋㄍㄜ</rt></ruby> "tanka"
 
 ## Chengyu
 - <ruby>[[一長一短]]<rt>ㄧㄊㄐㄚㄫㄧㄊㄉ⺢ㄋ</rt></ruby> "one long, one short"

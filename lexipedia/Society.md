@@ -11,6 +11,7 @@ related_domains:
   - "[[Work]]"
   - "[[Emotions]]"
   - "[[Conflict]]"
+  - "[[Art]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

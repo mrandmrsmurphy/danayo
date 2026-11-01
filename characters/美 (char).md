@@ -68,3 +68,5 @@ boundedness: 65
 - <ruby>[[賛美]]<rt>ㄐㄚㄋㄇㄧ</rt></ruby> "praise"
 - <ruby>[[賛美歌]]<rt>ㄐㄚㄋㄇㄧㄍㄜ</rt></ruby> "hymn"
 - <ruby>[[邦美蜀]]<rt>ㄅㄚㄫㄇㄧㄙㄛㄎ</rt></ruby> "Buôn Ma Thuột (city)"
+- <ruby>[[美術]]<rt>ㄇㄧㄙㄨㄊ</rt></ruby> "fine art"
+- <ruby>[[美術館]]<rt>ㄇㄧㄙㄨㄊㄍ⺢ㄋ</rt></ruby> "art museum"

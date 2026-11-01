@@ -88,6 +88,8 @@ boundedness: 80
 - <ruby>[[水獺]]<rt>ㄙㄨ·ㄊ⺢ㄊ</rt></ruby> "otter"
 - <ruby>[[下水道]]<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> "sewer"
 - <ruby>[[噴水]]<rt>ㄆㄛㄋㄙㄨ</rt></ruby> "fountain"
+- <ruby>[[水彩]]<rt>ㄙㄨㄑㄚㄧ</rt></ruby> "watercolour"
+- <ruby>[[水墨画]]<rt>ㄙㄨ·ㄇㄨㄎㄏ⺢ㄎ</rt></ruby> "ink wash painting"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

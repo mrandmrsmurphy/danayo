@@ -66,6 +66,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[吹]]<rt>ㄑㄨㄧ</rt></ruby> "blow; puff; bluster" (stand-in for 吹)
+- <ruby>[[吹奏]]<rt>ㄑㄨㄧㄙㄛㄨ</rt></ruby> "to play a wind instrument"
 
 ## Derived Characters
 - <ruby>[[炊 (char)|炊]]<rt>ㄑㄨㄧ</rt></ruby> "cook"
