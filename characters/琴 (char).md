@@ -61,6 +61,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[提琴]]<rt>ㄙㄝㄍㄨㄇ</rt></ruby> "bowed string instrument; violin family"
 - <ruby>[[古琴]]<rt>ㄍㄛㄍㄨㄇ</rt></ruby> "guqin"
 - <ruby>[[錀琴]]<rt>ㄌㄛㄋㄍㄨㄇ</rt></ruby> "roentgen"
+- <ruby>[[鋼琴]]<rt>ㄍㄚㄫㄍㄨㄇ</rt></ruby> "piano"
 
 ## Chengyu
 - <ruby>[[焚琴煮鶴]]<rt>ㄅㄨㄋㄍㄨㄇㄐㄛㄏㄚㄎ</rt></ruby> "destroying beauty through philistine indifference"
