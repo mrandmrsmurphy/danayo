@@ -1091,3 +1091,4 @@ views:
 [駆 (char)](../../characters/駆%20(char).md)
 [鼾 (char)](../../characters/鼾%20(char).md)
 [愕](../../characters/愕.md)
+[蒜](../../characters/蒜.md)

@@ -81,7 +81,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[梵]] · [[牝]] · [[粕]] · [[胚]]
 
 ### Old HSK 4 + Korean Name ㅅ
-[[篩]] · [[蒜]] · [[瀉]] · [[絮]]
+[[篩]] · [[瀉]] · [[絮]]
 
 ### Old HSK 4 + Korean Name ㅎ
 [[蝗]] · [[汞]] · [[豁]] · [[洶]]

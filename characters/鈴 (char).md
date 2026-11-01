@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[鈴]]<rt>ㄌㄝㄫ</rt></ruby> "small bell" (stand-in for 鈴)
+- <ruby>[[馬鈴藷]]<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby> "potato"

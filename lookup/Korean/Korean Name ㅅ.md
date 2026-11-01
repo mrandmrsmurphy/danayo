@@ -9,7 +9,7 @@ Checked for redirects
 [數](characters/数.md) [索](characters/索.md) [[爍]] [鑠](characters/鑠.md) [朔](characters/朔.md) 
 
 ### 산  
-[珊](characters/珊.md) [傘](characters/傘.md) [刪](characters/刪.md) [[汕]] [[疝]] [[蒜]] [霰](characters/散.md) [酸 (char)](characters/酸%20(char).md) [產](characters/産.md) [[祘]] 
+[珊](characters/珊.md) [傘](characters/傘.md) [刪](characters/刪.md) [[汕]] [[疝]] [蒜](characters/蒜.md) [霰](characters/散.md) [酸 (char)](characters/酸%20(char).md) [產](characters/産.md) [[祘]] 
 
 ### 살  
 [薩](characters/薩.md) 乷! [撒](characters/散.md) [[煞]] 

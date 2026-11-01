@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[羅馬語]]<rt>ㄌㄛ·ㄇㄚ⼄</rt></ruby> "Latin"
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby> "Malaysia"
 - <ruby>[[群馬]]<rt>ㄍㄨㄋㄇㄚ</rt></ruby> "Gunma Prefecture"
+- <ruby>[[馬鈴藷]]<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby> "potato"
 
 ## Derived Characters
 - <ruby>[[碼 (char)|碼]]<rt>ㄇㄚ</rt></ruby> "yard"

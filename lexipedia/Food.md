@@ -152,14 +152,19 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
 - <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
 - <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
+- <ruby>[大蒜](../words/大蒜.md)<rt>ㄉㄚㄧㄙ⺢ㄇ</rt></ruby>: garlic — the pungent bulb of *Allium sativum*, used as seasoning and vegetable.
 - <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
 - <ruby>[菱](../words/菱.md)<rt>ㄌㄜㄫ</rt></ruby>: a water chestnut.
 - <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
 - <ruby>[山芋](../words/山芋.md)<rt>ㄙㄚㄋ·ㄨ</rt></ruby>: mountain yam — the starchy tuber of *Dioscorea*, Japanese やまいも; a different plant from the sweet potato.
+- <ruby>[馬鈴藷](../words/馬鈴藷.md)<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby>: potato — the starchy tuber of *Solanum tuberosum*; the usual spelling is 馬鈴薯 (see its aliases).
 - <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
 - <ruby>[椎菌](../words/椎菌.md)<rt>ㄑㄨㄧㄍ⼜ㄋ</rt></ruby>: the shiitake mushroom, echoing Japanese 椎茸 "shii-tree mushroom".
 - <ruby>[橘](../words/橘.md)<rt>ㄍ⼜ㄊ</rt></ruby>: a tangerine, the stand-in for the bound character 橘.
 - <ruby>[南京](../words/南京.md)<rt>ㄋㄚㄇㄍ⼶ㄫ</rt></ruby>: a pumpkin, squash — the Japanese ordinary sense of なんきん (from the Chinese city name); the same spelling is also the city of Nanjing, listed on [China](../lexipedia/China.md).
+- <ruby>[南瓜](../words/南瓜.md)<rt>ㄋㄚㄇㄍ⺢</rt></ruby>: a pumpkin, squash — the large orange-fleshed gourd.
+- <ruby>[冬瓜](../words/冬瓜.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: the winter melon — the large pale gourd eaten as a vegetable and in soup.
+- <ruby>[落花生](../words/落花生.md)<rt>ㄌㄚㄎㄏ⺢ㄙㄚㄫ</rt></ruby>: a peanut — the seed that ripens underground after the flower falls.
 
 ### Sweets & Flavorings
 

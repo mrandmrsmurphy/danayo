@@ -1,6 +1,6 @@
 ---
-date-last-perfect: 2026-10-31
-size: 3375
+date-last-perfect: 2026-11-01
+size: 3376
 language: 単亜語
 tags:
   - lookup

@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-01
 tags: [lookup]
 ---
 
@@ -192,7 +192,7 @@ __Combining or simplified radicals with 5 strokes__
 - [[Radical 137]] 舟 (10 characters)
 - [[Radical 138]] 艮 (3 characters)
 - [[Radical 139]] 色 (2 characters)
-- [[Radical 140]] 艸 or combining as 艹 (120 characters)
+- [[Radical 140]] 艸 or combining as 艹 (121 characters)
 - [[Radical 141]] 虍 (5 characters)
 - [[Radical 142]] 虫 (44 characters)
 - [[Radical 143]] 血 (3 characters)

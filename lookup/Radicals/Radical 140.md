@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-05
-size: 120
+size: 121
 radical: 艸
 tags:
   - lookup
@@ -109,59 +109,60 @@ tags:
 79. <ruby>[蓋](../../characters/蓋.md)<rt>ㄍㄚㄧ</rt></ruby> - hide
 80. <ruby>[蓬](../../characters/蓬.md)<rt>ㄅㄛㄫ</rt></ruby> - mugwort
 81. <ruby>[蓮](../../characters/蓮%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> - lotus
+82. <ruby>[蒜](../../characters/蒜.md)<rt>ㄙ⺢ㄇ</rt></ruby> - garlic
 
 ### +11 Strokes
-82. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
-83. <ruby>[蓼](../../characters/蓼.md)<rt>ㄌ⼘ㄨ</rt></ruby> - knotweed
-84. <ruby>[蔑](../../characters/蔑%20(char).md)<rt>ㄇㄝㄊ</rt></ruby> - scorn
-85. <ruby>[蔓](../../characters/蔓.md)<rt>ㄇㄚㄋ</rt></ruby> - spread
-86. <ruby>[蔡](../../characters/蔡.md)<rt>ㄑㄚㄧ</rt></ruby> - tortoise
-87. <ruby>[蔚](../../characters/蔚.md)<rt>ㄨㄊ</rt></ruby> - luxuriant
-88. <ruby>[蕉](../../characters/蕉.md)<rt>ㄐㄛㄨ</rt></ruby> - banana
+83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
+84. <ruby>[蓼](../../characters/蓼.md)<rt>ㄌ⼘ㄨ</rt></ruby> - knotweed
+85. <ruby>[蔑](../../characters/蔑%20(char).md)<rt>ㄇㄝㄊ</rt></ruby> - scorn
+86. <ruby>[蔓](../../characters/蔓.md)<rt>ㄇㄚㄋ</rt></ruby> - spread
+87. <ruby>[蔡](../../characters/蔡.md)<rt>ㄑㄚㄧ</rt></ruby> - tortoise
+88. <ruby>[蔚](../../characters/蔚.md)<rt>ㄨㄊ</rt></ruby> - luxuriant
+89. <ruby>[蕉](../../characters/蕉.md)<rt>ㄐㄛㄨ</rt></ruby> - banana
 
 ### +12 Strokes
-89. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower
-90. <ruby>[蔬](../../characters/蔬.md)<rt>ㄙㄜ</rt></ruby> - vegetables
-91. <ruby>[蔵](../../characters/蔵.md)<rt>ㄑㄚㄫ</rt></ruby> - hide
-92. <ruby>[蔽](../../characters/蔽.md)<rt>ㄆㄝ</rt></ruby> - cover
-93. <ruby>[蕃](../../characters/蕃.md)<rt>ㄈㄚㄋ</rt></ruby> - flourish
-94. <ruby>[蕎](../../characters/蕎.md)<rt>ㄍ⼘ㄨ</rt></ruby> - buckwheat
-95. <ruby>[蕩](../../characters/蕩.md)<rt>ㄉㄚㄫ</rt></ruby> - dissolute
-96. <ruby>[蕪](../../characters/蕪.md)<rt>ㄇㄨ</rt></ruby> - turnip
-97. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
+90. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower
+91. <ruby>[蔬](../../characters/蔬.md)<rt>ㄙㄜ</rt></ruby> - vegetables
+92. <ruby>[蔵](../../characters/蔵.md)<rt>ㄑㄚㄫ</rt></ruby> - hide
+93. <ruby>[蔽](../../characters/蔽.md)<rt>ㄆㄝ</rt></ruby> - cover
+94. <ruby>[蕃](../../characters/蕃.md)<rt>ㄈㄚㄋ</rt></ruby> - flourish
+95. <ruby>[蕎](../../characters/蕎.md)<rt>ㄍ⼘ㄨ</rt></ruby> - buckwheat
+96. <ruby>[蕩](../../characters/蕩.md)<rt>ㄉㄚㄫ</rt></ruby> - dissolute
+97. <ruby>[蕪](../../characters/蕪.md)<rt>ㄇㄨ</rt></ruby> - turnip
+98. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
 
 ### +13 Strokes
-98. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia
-99. <ruby>[蒼](../../characters/蒼%20(char).md)<rt>ㄑ⺢ㄫ</rt></ruby> - blue
-100. <ruby>[薄](../../characters/薄.md)<rt>ㄅㄚㄎ</rt></ruby> - thin
-101. <ruby>[薇](../../characters/薇.md)<rt>ㄇㄧㄜ</rt></ruby> - royal fern
-102. <ruby>[薔](../../characters/薔.md)<rt>ㄑ⺢ㄫ</rt></ruby> - water pepper
-103. <ruby>[薛](../../characters/薛.md)<rt>ㄙㄝㄊ</rt></ruby> - wormwood
-104. <ruby>[薦](../../characters/薦.md)<rt>ㄐㄝㄋ</rt></ruby> - recommend
-105. <ruby>[薨](../../characters/薨.md)<rt>ㄏㄛㄫ</rt></ruby> - feudal lord's death
-106. <ruby>[薪](../../characters/薪.md)<rt>ㄙㄧㄋ</rt></ruby> - firewood
-107. <ruby>[薫](../../characters/薫%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - fragrant
-108. <ruby>[薬](../../characters/薬%20(char).md)<rt>⼘ㄎ</rt></ruby> - drug
+99. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia
+100. <ruby>[蒼](../../characters/蒼%20(char).md)<rt>ㄑ⺢ㄫ</rt></ruby> - blue
+101. <ruby>[薄](../../characters/薄.md)<rt>ㄅㄚㄎ</rt></ruby> - thin
+102. <ruby>[薇](../../characters/薇.md)<rt>ㄇㄧㄜ</rt></ruby> - royal fern
+103. <ruby>[薔](../../characters/薔.md)<rt>ㄑ⺢ㄫ</rt></ruby> - water pepper
+104. <ruby>[薛](../../characters/薛.md)<rt>ㄙㄝㄊ</rt></ruby> - wormwood
+105. <ruby>[薦](../../characters/薦.md)<rt>ㄐㄝㄋ</rt></ruby> - recommend
+106. <ruby>[薨](../../characters/薨.md)<rt>ㄏㄛㄫ</rt></ruby> - feudal lord's death
+107. <ruby>[薪](../../characters/薪.md)<rt>ㄙㄧㄋ</rt></ruby> - firewood
+108. <ruby>[薫](../../characters/薫%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - fragrant
+109. <ruby>[薬](../../characters/薬%20(char).md)<rt>⼘ㄎ</rt></ruby> - drug
 
 ### +14 Strokes
-109. <ruby>[蔔](../../characters/蔔.md)<rt>ㄅㄨㄎ</rt></ruby> - radish
-110. <ruby>[薩](../../characters/薩.md)<rt>ㄙㄚㄊ</rt></ruby> - bodhisattva
-111. <ruby>[藁](../../characters/藁.md)<rt>ㄍㄚㄨ</rt></ruby> - straw
+110. <ruby>[蔔](../../characters/蔔.md)<rt>ㄅㄨㄎ</rt></ruby> - radish
+111. <ruby>[薩](../../characters/薩.md)<rt>ㄙㄚㄊ</rt></ruby> - bodhisattva
+112. <ruby>[藁](../../characters/藁.md)<rt>ㄍㄚㄨ</rt></ruby> - straw
 
 ### +15 Strokes
-112. <ruby>[薮](../../characters/薮.md)<rt>ㄙㄛㄨ</rt></ruby> - marsh
-113. <ruby>[藍](../../characters/藍%20(char).md)<rt>ㄌㄚㄇ</rt></ruby> - indigo plant
-114. <ruby>[藤](../../characters/藤.md)<rt>ㄉㄜㄫ</rt></ruby> - wisteria
-115. <ruby>[藩](../../characters/藩.md)<rt>ㄆㄛㄋ</rt></ruby> - fence
-116. <ruby>[藷](../../characters/藷.md)<rt>ㄙㄛ</rt></ruby> - potato
+113. <ruby>[薮](../../characters/薮.md)<rt>ㄙㄛㄨ</rt></ruby> - marsh
+114. <ruby>[藍](../../characters/藍%20(char).md)<rt>ㄌㄚㄇ</rt></ruby> - indigo plant
+115. <ruby>[藤](../../characters/藤.md)<rt>ㄉㄜㄫ</rt></ruby> - wisteria
+116. <ruby>[藩](../../characters/藩.md)<rt>ㄆㄛㄋ</rt></ruby> - fence
+117. <ruby>[藷](../../characters/藷.md)<rt>ㄙㄛ</rt></ruby> - potato
 
 ### +16 Strokes
-117. <ruby>[藻](../../characters/藻.md)<rt>ㄐㄛㄨ</rt></ruby> - seaweed
-118. <ruby>[蘇](../../characters/蘇.md)<rt>ㄙㄛ</rt></ruby> - revive
-119. <ruby>[蘭](../../characters/蘭.md)<rt>ㄌㄚㄋ</rt></ruby> - lily
+118. <ruby>[藻](../../characters/藻.md)<rt>ㄐㄛㄨ</rt></ruby> - seaweed
+119. <ruby>[蘇](../../characters/蘇.md)<rt>ㄙㄛ</rt></ruby> - revive
+120. <ruby>[蘭](../../characters/蘭.md)<rt>ㄌㄚㄋ</rt></ruby> - lily
 
 ### +19 Strokes
-120. <ruby>[蘿](../../characters/蘿.md)<rt>ㄌㄚ</rt></ruby> - radish
+121. <ruby>[蘿](../../characters/蘿.md)<rt>ㄌㄚ</rt></ruby> - radish
 
 ## Data check
 ```dataview

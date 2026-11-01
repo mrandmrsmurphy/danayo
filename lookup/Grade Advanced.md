@@ -1,13 +1,13 @@
 ---
 language: 単亜語
 date-last-perfect: 2026-10-29
-size: 564
+size: 565
 tags: [lookup]
 ---
-**<ruby>先進<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
+**<ruby>先進<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
 
 <ruby>種類<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>:
-- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>十八<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四十<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
@@ -443,139 +443,140 @@ tags: [lookup]
 429. <ruby>[[苟 (char)|苟]]<rt>ㄍㄛㄨ</rt></ruby> - if only
 430. <ruby>[[菲]]<rt>ㄈㄧ</rt></ruby> - fragrant, luxuriant, meager
 431. <ruby>[[葺 (char)|葺]]<rt>ㄑㄨㄆ</rt></ruby> - roofed with
-432. <ruby>[[蔬]]<rt>ㄙㄜ</rt></ruby> - vegetables, green
-433. <ruby>[[蕩]]<rt>ㄉㄚㄫ</rt></ruby> - dissolute
-434. <ruby>[[蔔]]<rt>ㄅㄨㄎ</rt></ruby> - radish
-435. <ruby>[[蘇]]<rt>ㄙㄛ</rt></ruby> - revive
-436. <ruby>[[蘿]]<rt>ㄌㄚ</rt></ruby> - vine, creeper
-437. <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby> - take captive
-438. <ruby>[[蛋]]<rt>ㄉㄚㄋ</rt></ruby> - egg white
-439. <ruby>[[螺]]<rt>ㄌㄚ</rt></ruby> - spiral, screw
-440. <ruby>[[蟄 (char)|蟄]]<rt>ㄑㄧㄆ</rt></ruby> - hibernate
-441. <ruby>[[蠢]]<rt>ㄑㄨㄋ</rt></ruby> - squirm, wiggle
-442. <ruby>[[袂 (char)|袂]]<rt>ㄇㄝ</rt></ruby> - sleeve
-443. <ruby>[[袴 (char)|袴]]<rt>ㄎㄛ</rt></ruby> - pants, trousers
-444. <ruby>[[裔]]<rt>⼶</rt></ruby> - descendant
-445. <ruby>[[襟]]<rt>ㄍㄧㄇ</rt></ruby> - lapel, collar
-446. <ruby>[[覇]]<rt>ㄅㄚ</rt></ruby> - hegemony
-447. <ruby>[[訊]]<rt>ㄙㄧㄋ</rt></ruby> - to interrogate, question, to inquire, ask, message, news
-448. <ruby>[[訣]]<rt>ㄍ⼔ㄊ</rt></ruby> - secret, trick
-449. <ruby>[[訥 (char)|訥]]<rt>ㄋㄛㄊ</rt></ruby> - mumble, stammer
-450. <ruby>[[𧦅]]<rt>ㄛㄨ</rt></ruby> - eulogize, praise, glorify
-451. <ruby>[[詛]]<rt>ㄐㄛ</rt></ruby> - curse
-452. <ruby>[[詔]]<rt>ㄐㄛㄨ</rt></ruby> - imperial edict
-453. <ruby>[[詰]]<rt>ㄎㄧㄊ</rt></ruby> - investigate, interrogate
-454. <ruby>[[詣 (char)|詣]]<rt>ㄝㄧ</rt></ruby> - visit, reach
-455. <ruby>[[誅]]<rt>ㄐㄨ</rt></ruby> - execute
-456. <ruby>[[誦 (char)|誦]]<rt>ㄙㄛㄫ</rt></ruby> - recite, chant, repeat
-457. <ruby>[[誣]]<rt>ㄇㄨ</rt></ruby> - falsely accuse
-458. <ruby>[[諒]]<rt>ㄌ⼘ㄫ</rt></ruby> - excuse, forgive
-459. <ruby>[[誼]]<rt>ㄜㄧ</rt></ruby> - friendship
-460. <ruby>[[誹]]<rt>ㄈㄧ</rt></ruby> - slander, vilify, condemn
-461. <ruby>[[諂 (char)|諂]]<rt>ㄑㄝㄇ</rt></ruby> - flatter
-462. <ruby>[[諧]]<rt>ㄏ⼶</rt></ruby> - harmonize
-463. <ruby>[[謂]]<rt>ㄨㄧ</rt></ruby> - so called
-464. <ruby>[[諮]]<rt>ㄐㄧㄜ</rt></ruby> - consult with, seek advice from
-465. <ruby>[[諭]]<rt>⼜ㄇ</rt></ruby> - issue a decree
-466. <ruby>[[諦 (char)|諦]]<rt>ㄊㄝㄧ</rt></ruby> - truth (Buddhist)
-467. <ruby>[[諱 (char)|諱]]<rt>ㄏㄨㄧ</rt></ruby> - shun, avoid saying the name of
-468. <ruby>[[諜]]<rt>ㄉㄝㄆ</rt></ruby> - spy
-469. <ruby>[[諡]]<rt>ㄙㄧㄜ</rt></ruby> - posthumous name
-470. <ruby>[[謎 (char)|謎]]<rt>ㄇㄝㄧ</rt></ruby> - riddle, mystery, enigma
-471. <ruby>[[謗]]<rt>ㄆㄚㄫ</rt></ruby> - slander, libel
-472. <ruby>[[謬]]<rt>ㄇ⼜</rt></ruby> - err, twist the truth, deceive
-473. <ruby>[[讐]]<rt>ㄙㄨ</rt></ruby> - personal grudge
-474. <ruby>[[賎]]<rt>ㄐㄝㄋ</rt></ruby> - inferior, plebeian
-475. <ruby>[[贋 (char)|贋]]<rt>ㄚㄋ</rt></ruby> - counterfeit, "false"
-476. <ruby>[[贖]]<rt>ㄙ⼄ㄎ</rt></ruby> - ransom, redeem
-477. <ruby>[[赳]]<rt>ㄍ⼜</rt></ruby> - strong, valiant
-478. <ruby>[[趨 (char)|趨]]<rt>ㄑㄨ</rt></ruby> - take many small steps towards
-479. <ruby>[[跑]]<rt>ㄅ⼘ㄨ</rt></ruby> - run, trot
-480. <ruby>[[跆]]<rt>ㄊㄛㄧ</rt></ruby> - trample
-481. <ruby>[[跋]]<rt>ㄅㄚㄊ</rt></ruby> - to stride, to trample
-482. <ruby>[[跨 (char)|跨]]<rt>ㄎ⺢</rt></ruby> - straddle, ride
-483. <ruby>[[跪 (char)|跪]]<rt>ㄎ⼔ㄧ</rt></ruby> - kneel
-484. <ruby>[[蹲 (char)|蹲]]<rt>ㄐㄛㄋ</rt></ruby> - squat, crouch
-485. <ruby>[[軌 (char)|軌]]<rt>ㄎㄨㄧ</rt></ruby> - track, path, rut
-486. <ruby>[[軛 (char)|軛]]<rt>ㄚㄎ</rt></ruby> - yoke
-487. <ruby>[[輔]]<rt>ㄅㄨ</rt></ruby> - assist
-488. <ruby>[[輿 (char)|輿]]<rt>⼄</rt></ruby> - palanquin
-489. <ruby>[[辛]]<rt>ㄙㄧㄋ</rt></ruby> - spicy
-490. <ruby>[[迂]]<rt>ㄨ</rt></ruby> - roundabout, circuitous
-491. <ruby>[[迥 (char)|迥]]<rt>ㄏㄧㄫ</rt></ruby> - distant, far
-492. <ruby>[[逝]]<rt>ㄙㄝ</rt></ruby> - pass away, die
-493. <ruby>[[逗]]<rt>ㄉㄚㄨ</rt></ruby> - pause
-494. <ruby>[[逞 (char)|逞]]<rt>ㄑㄧㄫ</rt></ruby> - indulge, brag
-495. <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby> - compel, force, pressure
-496. <ruby>[[遥]]<rt>⼄ㄨ</rt></ruby> - far away, distant, remote
-497. <ruby>[[遽]]<rt>ㄍ⼄</rt></ruby> - in a hurry
-498. <ruby>[[酩]]<rt>ㄇㄝㄫ</rt></ruby> - drunk, intoxicated
-499. <ruby>[[醤]]<rt>ㄐㄚㄫ</rt></ruby> - jam, paste, sauce
-500. <ruby>[[醸]]<rt>ㄋ⼘ㄫ</rt></ruby> - brew
-501. <ruby>[[釉]]<rt>⼜ㄛ</rt></ruby> - glaze, enamel
-502. <ruby>[[鈬 (char)|鈬]]<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
-503. <ruby>[[鉗 (char)|鉗]]<rt>ㄍㄝㄇ</rt></ruby> - vice, pliers, forceps
-504. <ruby>[[鉦]]<rt>ㄐㄧㄫ</rt></ruby> - marching gong
-505. <ruby>[[銹 (char)|銹]]<rt>ㄙ⼜</rt></ruby> - rust
-506. <ruby>[[鋏 (char)|鋏]]<rt>ㄍㄝㄆ</rt></ruby> - tongs
-507. <ruby>[[鋸 (char)|鋸]]<rt>ㄍ⼄</rt></ruby> - saw
-508. <ruby>[[錮 (char)|錮]]<rt>ㄍㄛ</rt></ruby> - confine, imprison
-509. <ruby>[[錘]]<rt>ㄑㄨㄧ</rt></ruby> - spindle
-510. <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby> - brocade
-511. <ruby>[[錐]]<rt>ㄐㄨㄧ</rt></ruby> - awl
-512. <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby> - shovel
-513. <ruby>[[鍾 (char)|鍾]]<rt>ㄐㄛㄫ</rt></ruby> - alcohol bottle
-514. <ruby>[[鍍]]<rt>ㄉㄛ</rt></ruby> - coat, gild
-515. <ruby>[[鎌 (char)|鎌]]<rt>ㄌㄝㄇ</rt></ruby> - sickle
-516. <ruby>[[鑼]]<rt>ㄌㄚ</rt></ruby> - gong
-517. <ruby>[[閃]]<rt>ㄙㄝㄇ</rt></ruby> - flash, glint
-518. <ruby>[[閏 (char)|閏]]<rt>ㄋㄨㄋ</rt></ruby> - intercalary
-519. <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby> - noisy, disturbance, quarrel
-520. <ruby>[[閻 (char)|閻]]<rt>⼶ㄇ</rt></ruby> - village gate
-521. <ruby>[[闊 (char)|闊]]<rt>ㄎ⺢ㄊ</rt></ruby> - broad, wide
-522. <ruby>[[闖]]<rt>ㄊㄨㄇ</rt></ruby> - intrude
-523. <ruby>[[陋]]<rt>ㄌ⼘ㄨ</rt></ruby> - ugly, crude, plain
-524. <ruby>[[隅 (char)|隅]]<rt>ㄨㄛ</rt></ruby> - nook, corner, side
-525. <ruby>[[雴]]<rt>ㄊㄨㄆ</rt></ruby> - heavy rain
-526. <ruby>[[霫]]<rt>ㄙㄨㄆ</rt></ruby> - heavy rain
-527. <ruby>[[靖]]<rt>ㄐㄧㄫ</rt></ruby> - pacify
-528. <ruby>[[靡]]<rt>ㄇㄧㄆ</rt></ruby> - extravagant
-529. <ruby>[[鞄 (char)|鞄]]<rt>ㄆㄚㄎ</rt></ruby> - bag, luggage
-530. <ruby>[[鞍]]<rt>ㄚㄋ</rt></ruby> - saddle
-531. <ruby>[[鞘]]<rt>ㄙㄛ</rt></ruby> - scabbard, sheath
-532. <ruby>[[鞠]]<rt>ㄍㄨㄎ</rt></ruby> - raise, bow
-533. <ruby>[[鞭]]<rt>ㄅ⼶ㄋ</rt></ruby> - whip
-534. <ruby>[[頁 (char)|頁]]<rt>ㄏㄝㄊ</rt></ruby> - page, sheet
-535. <ruby>[[頌]]<rt>ㄙ⼄ㄫ</rt></ruby> - laud, acclaim, hymn
-536. <ruby>[[頓]]<rt>ㄊㄛㄋ</rt></ruby> - kowtow
-537. <ruby>[[顆]]<rt>ㄎ⺢</rt></ruby> - granule
-538. <ruby>[[颯 (char)|颯]]<rt>ㄙㄚㄆ</rt></ruby> - sound of wind, gale
-539. <ruby>[[餌]]<rt>ㄋㄧ</rt></ruby> - bait, entice
-540. <ruby>[[餐 (char)|餐]]<rt>ㄑㄚㄋ</rt></ruby> - eat, dine
-541. <ruby>[[饅]]<rt>ㄇㄚㄋ</rt></ruby> - steamed bun
-542. <ruby>[[饉]]<rt>ㄍㄨㄋ</rt></ruby> - famine
-543. <ruby>[[饗]]<rt>ㄏ⼘ㄫ</rt></ruby> - banquet
-544. <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrant, aromatic
-545. <ruby>[[馳 (char)|馳]]<rt>ㄑㄜ</rt></ruby> - run fast, drive quickly
-546. <ruby>[[駁]]<rt>ㄅㄚㄎ</rt></ruby> - refute
-547. <ruby>[[駝]]<rt>ㄉㄚ</rt></ruby> - humpbacked
-548. <ruby>[[騙 (char)|騙]]<rt>ㄆ⼶ㄋ</rt></ruby> - deceive, defraud
-549. <ruby>[[驟]]<rt>ㄙㄚㄨ</rt></ruby> - sudden, abrupt, gallop
-550. <ruby>[[髯]]<rt>ㄋㄛㄇ</rt></ruby> - beard
-551. <ruby>[[鬚]]<rt>ㄙㄨ</rt></ruby> - beard
-552. <ruby>[[鬣 (char)|鬣]]<rt>ㄌㄛㄆ</rt></ruby> - mane, whiskers
-553. <ruby>[[魂 (char)|魂]]<rt>ㄏㄛㄋ</rt></ruby> - soul
-554. <ruby>[[魄]]<rt>ㄅㄚㄎ</rt></ruby> - yin soul, bodily spirit
-555. <ruby>[[鰭]]<rt>ㄍㄧㄜ</rt></ruby> - fish fin
-556. <ruby>[[鰥]]<rt>ㄍ⺢ㄇ</rt></ruby> - widower
-557. <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby> - scale (fish)
-558. <ruby>[[鳳]]<rt>ㄆㄨㄫ</rt></ruby> - phoenix
-559. <ruby>[[鹸 (char)|鹸]]<rt>ㄑㄝㄇ</rt></ruby> - base, alkali
-560. <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> - dethrone
-561. <ruby>[[黻]]<rt>ㄈㄨㄊ</rt></ruby> - 亞-pattern embroidery
-562. <ruby>[[黼]]<rt>ㄈㄨ</rt></ruby> - axe-pattern embroidery
-563. <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby> - tripod
-564. <ruby>[[鼾 (char)|鼾]]<rt>ㄏ⼘ㄋ</rt></ruby> - snore
+432. <ruby>[[蒜]]<rt>ㄙ⺢ㄇ</rt></ruby> - garlic
+433. <ruby>[[蔬]]<rt>ㄙㄜ</rt></ruby> - vegetables, green
+434. <ruby>[[蕩]]<rt>ㄉㄚㄫ</rt></ruby> - dissolute
+435. <ruby>[[蔔]]<rt>ㄅㄨㄎ</rt></ruby> - radish
+436. <ruby>[[蘇]]<rt>ㄙㄛ</rt></ruby> - revive
+437. <ruby>[[蘿]]<rt>ㄌㄚ</rt></ruby> - vine, creeper
+438. <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby> - take captive
+439. <ruby>[[蛋]]<rt>ㄉㄚㄋ</rt></ruby> - egg white
+440. <ruby>[[螺]]<rt>ㄌㄚ</rt></ruby> - spiral, screw
+441. <ruby>[[蟄 (char)|蟄]]<rt>ㄑㄧㄆ</rt></ruby> - hibernate
+442. <ruby>[[蠢]]<rt>ㄑㄨㄋ</rt></ruby> - squirm, wiggle
+443. <ruby>[[袂 (char)|袂]]<rt>ㄇㄝ</rt></ruby> - sleeve
+444. <ruby>[[袴 (char)|袴]]<rt>ㄎㄛ</rt></ruby> - pants, trousers
+445. <ruby>[[裔]]<rt>⼶</rt></ruby> - descendant
+446. <ruby>[[襟]]<rt>ㄍㄧㄇ</rt></ruby> - lapel, collar
+447. <ruby>[[覇]]<rt>ㄅㄚ</rt></ruby> - hegemony
+448. <ruby>[[訊]]<rt>ㄙㄧㄋ</rt></ruby> - to interrogate, question, to inquire, ask, message, news
+449. <ruby>[[訣]]<rt>ㄍ⼔ㄊ</rt></ruby> - secret, trick
+450. <ruby>[[訥 (char)|訥]]<rt>ㄋㄛㄊ</rt></ruby> - mumble, stammer
+451. <ruby>[[𧦅]]<rt>ㄛㄨ</rt></ruby> - eulogize, praise, glorify
+452. <ruby>[[詛]]<rt>ㄐㄛ</rt></ruby> - curse
+453. <ruby>[[詔]]<rt>ㄐㄛㄨ</rt></ruby> - imperial edict
+454. <ruby>[[詰]]<rt>ㄎㄧㄊ</rt></ruby> - investigate, interrogate
+455. <ruby>[[詣 (char)|詣]]<rt>ㄝㄧ</rt></ruby> - visit, reach
+456. <ruby>[[誅]]<rt>ㄐㄨ</rt></ruby> - execute
+457. <ruby>[[誦 (char)|誦]]<rt>ㄙㄛㄫ</rt></ruby> - recite, chant, repeat
+458. <ruby>[[誣]]<rt>ㄇㄨ</rt></ruby> - falsely accuse
+459. <ruby>[[諒]]<rt>ㄌ⼘ㄫ</rt></ruby> - excuse, forgive
+460. <ruby>[[誼]]<rt>ㄜㄧ</rt></ruby> - friendship
+461. <ruby>[[誹]]<rt>ㄈㄧ</rt></ruby> - slander, vilify, condemn
+462. <ruby>[[諂 (char)|諂]]<rt>ㄑㄝㄇ</rt></ruby> - flatter
+463. <ruby>[[諧]]<rt>ㄏ⼶</rt></ruby> - harmonize
+464. <ruby>[[謂]]<rt>ㄨㄧ</rt></ruby> - so called
+465. <ruby>[[諮]]<rt>ㄐㄧㄜ</rt></ruby> - consult with, seek advice from
+466. <ruby>[[諭]]<rt>⼜ㄇ</rt></ruby> - issue a decree
+467. <ruby>[[諦 (char)|諦]]<rt>ㄊㄝㄧ</rt></ruby> - truth (Buddhist)
+468. <ruby>[[諱 (char)|諱]]<rt>ㄏㄨㄧ</rt></ruby> - shun, avoid saying the name of
+469. <ruby>[[諜]]<rt>ㄉㄝㄆ</rt></ruby> - spy
+470. <ruby>[[諡]]<rt>ㄙㄧㄜ</rt></ruby> - posthumous name
+471. <ruby>[[謎 (char)|謎]]<rt>ㄇㄝㄧ</rt></ruby> - riddle, mystery, enigma
+472. <ruby>[[謗]]<rt>ㄆㄚㄫ</rt></ruby> - slander, libel
+473. <ruby>[[謬]]<rt>ㄇ⼜</rt></ruby> - err, twist the truth, deceive
+474. <ruby>[[讐]]<rt>ㄙㄨ</rt></ruby> - personal grudge
+475. <ruby>[[賎]]<rt>ㄐㄝㄋ</rt></ruby> - inferior, plebeian
+476. <ruby>[[贋 (char)|贋]]<rt>ㄚㄋ</rt></ruby> - counterfeit, "false"
+477. <ruby>[[贖]]<rt>ㄙ⼄ㄎ</rt></ruby> - ransom, redeem
+478. <ruby>[[赳]]<rt>ㄍ⼜</rt></ruby> - strong, valiant
+479. <ruby>[[趨 (char)|趨]]<rt>ㄑㄨ</rt></ruby> - take many small steps towards
+480. <ruby>[[跑]]<rt>ㄅ⼘ㄨ</rt></ruby> - run, trot
+481. <ruby>[[跆]]<rt>ㄊㄛㄧ</rt></ruby> - trample
+482. <ruby>[[跋]]<rt>ㄅㄚㄊ</rt></ruby> - to stride, to trample
+483. <ruby>[[跨 (char)|跨]]<rt>ㄎ⺢</rt></ruby> - straddle, ride
+484. <ruby>[[跪 (char)|跪]]<rt>ㄎ⼔ㄧ</rt></ruby> - kneel
+485. <ruby>[[蹲 (char)|蹲]]<rt>ㄐㄛㄋ</rt></ruby> - squat, crouch
+486. <ruby>[[軌 (char)|軌]]<rt>ㄎㄨㄧ</rt></ruby> - track, path, rut
+487. <ruby>[[軛 (char)|軛]]<rt>ㄚㄎ</rt></ruby> - yoke
+488. <ruby>[[輔]]<rt>ㄅㄨ</rt></ruby> - assist
+489. <ruby>[[輿 (char)|輿]]<rt>⼄</rt></ruby> - palanquin
+490. <ruby>[[辛]]<rt>ㄙㄧㄋ</rt></ruby> - spicy
+491. <ruby>[[迂]]<rt>ㄨ</rt></ruby> - roundabout, circuitous
+492. <ruby>[[迥 (char)|迥]]<rt>ㄏㄧㄫ</rt></ruby> - distant, far
+493. <ruby>[[逝]]<rt>ㄙㄝ</rt></ruby> - pass away, die
+494. <ruby>[[逗]]<rt>ㄉㄚㄨ</rt></ruby> - pause
+495. <ruby>[[逞 (char)|逞]]<rt>ㄑㄧㄫ</rt></ruby> - indulge, brag
+496. <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby> - compel, force, pressure
+497. <ruby>[[遥]]<rt>⼄ㄨ</rt></ruby> - far away, distant, remote
+498. <ruby>[[遽]]<rt>ㄍ⼄</rt></ruby> - in a hurry
+499. <ruby>[[酩]]<rt>ㄇㄝㄫ</rt></ruby> - drunk, intoxicated
+500. <ruby>[[醤]]<rt>ㄐㄚㄫ</rt></ruby> - jam, paste, sauce
+501. <ruby>[[醸]]<rt>ㄋ⼘ㄫ</rt></ruby> - brew
+502. <ruby>[[釉]]<rt>⼜ㄛ</rt></ruby> - glaze, enamel
+503. <ruby>[[鈬 (char)|鈬]]<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
+504. <ruby>[[鉗 (char)|鉗]]<rt>ㄍㄝㄇ</rt></ruby> - vice, pliers, forceps
+505. <ruby>[[鉦]]<rt>ㄐㄧㄫ</rt></ruby> - marching gong
+506. <ruby>[[銹 (char)|銹]]<rt>ㄙ⼜</rt></ruby> - rust
+507. <ruby>[[鋏 (char)|鋏]]<rt>ㄍㄝㄆ</rt></ruby> - tongs
+508. <ruby>[[鋸 (char)|鋸]]<rt>ㄍ⼄</rt></ruby> - saw
+509. <ruby>[[錮 (char)|錮]]<rt>ㄍㄛ</rt></ruby> - confine, imprison
+510. <ruby>[[錘]]<rt>ㄑㄨㄧ</rt></ruby> - spindle
+511. <ruby>[[錦]]<rt>ㄎㄛㄇ</rt></ruby> - brocade
+512. <ruby>[[錐]]<rt>ㄐㄨㄧ</rt></ruby> - awl
+513. <ruby>[[鍬 (char)|鍬]]<rt>ㄑㄚㄨ</rt></ruby> - shovel
+514. <ruby>[[鍾 (char)|鍾]]<rt>ㄐㄛㄫ</rt></ruby> - alcohol bottle
+515. <ruby>[[鍍]]<rt>ㄉㄛ</rt></ruby> - coat, gild
+516. <ruby>[[鎌 (char)|鎌]]<rt>ㄌㄝㄇ</rt></ruby> - sickle
+517. <ruby>[[鑼]]<rt>ㄌㄚ</rt></ruby> - gong
+518. <ruby>[[閃]]<rt>ㄙㄝㄇ</rt></ruby> - flash, glint
+519. <ruby>[[閏 (char)|閏]]<rt>ㄋㄨㄋ</rt></ruby> - intercalary
+520. <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby> - noisy, disturbance, quarrel
+521. <ruby>[[閻 (char)|閻]]<rt>⼶ㄇ</rt></ruby> - village gate
+522. <ruby>[[闊 (char)|闊]]<rt>ㄎ⺢ㄊ</rt></ruby> - broad, wide
+523. <ruby>[[闖]]<rt>ㄊㄨㄇ</rt></ruby> - intrude
+524. <ruby>[[陋]]<rt>ㄌ⼘ㄨ</rt></ruby> - ugly, crude, plain
+525. <ruby>[[隅 (char)|隅]]<rt>ㄨㄛ</rt></ruby> - nook, corner, side
+526. <ruby>[[雴]]<rt>ㄊㄨㄆ</rt></ruby> - heavy rain
+527. <ruby>[[霫]]<rt>ㄙㄨㄆ</rt></ruby> - heavy rain
+528. <ruby>[[靖]]<rt>ㄐㄧㄫ</rt></ruby> - pacify
+529. <ruby>[[靡]]<rt>ㄇㄧㄆ</rt></ruby> - extravagant
+530. <ruby>[[鞄 (char)|鞄]]<rt>ㄆㄚㄎ</rt></ruby> - bag, luggage
+531. <ruby>[[鞍]]<rt>ㄚㄋ</rt></ruby> - saddle
+532. <ruby>[[鞘]]<rt>ㄙㄛ</rt></ruby> - scabbard, sheath
+533. <ruby>[[鞠]]<rt>ㄍㄨㄎ</rt></ruby> - raise, bow
+534. <ruby>[[鞭]]<rt>ㄅ⼶ㄋ</rt></ruby> - whip
+535. <ruby>[[頁 (char)|頁]]<rt>ㄏㄝㄊ</rt></ruby> - page, sheet
+536. <ruby>[[頌]]<rt>ㄙ⼄ㄫ</rt></ruby> - laud, acclaim, hymn
+537. <ruby>[[頓]]<rt>ㄊㄛㄋ</rt></ruby> - kowtow
+538. <ruby>[[顆]]<rt>ㄎ⺢</rt></ruby> - granule
+539. <ruby>[[颯 (char)|颯]]<rt>ㄙㄚㄆ</rt></ruby> - sound of wind, gale
+540. <ruby>[[餌]]<rt>ㄋㄧ</rt></ruby> - bait, entice
+541. <ruby>[[餐 (char)|餐]]<rt>ㄑㄚㄋ</rt></ruby> - eat, dine
+542. <ruby>[[饅]]<rt>ㄇㄚㄋ</rt></ruby> - steamed bun
+543. <ruby>[[饉]]<rt>ㄍㄨㄋ</rt></ruby> - famine
+544. <ruby>[[饗]]<rt>ㄏ⼘ㄫ</rt></ruby> - banquet
+545. <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby> - fragrant, aromatic
+546. <ruby>[[馳 (char)|馳]]<rt>ㄑㄜ</rt></ruby> - run fast, drive quickly
+547. <ruby>[[駁]]<rt>ㄅㄚㄎ</rt></ruby> - refute
+548. <ruby>[[駝]]<rt>ㄉㄚ</rt></ruby> - humpbacked
+549. <ruby>[[騙 (char)|騙]]<rt>ㄆ⼶ㄋ</rt></ruby> - deceive, defraud
+550. <ruby>[[驟]]<rt>ㄙㄚㄨ</rt></ruby> - sudden, abrupt, gallop
+551. <ruby>[[髯]]<rt>ㄋㄛㄇ</rt></ruby> - beard
+552. <ruby>[[鬚]]<rt>ㄙㄨ</rt></ruby> - beard
+553. <ruby>[[鬣 (char)|鬣]]<rt>ㄌㄛㄆ</rt></ruby> - mane, whiskers
+554. <ruby>[[魂 (char)|魂]]<rt>ㄏㄛㄋ</rt></ruby> - soul
+555. <ruby>[[魄]]<rt>ㄅㄚㄎ</rt></ruby> - yin soul, bodily spirit
+556. <ruby>[[鰭]]<rt>ㄍㄧㄜ</rt></ruby> - fish fin
+557. <ruby>[[鰥]]<rt>ㄍ⺢ㄇ</rt></ruby> - widower
+558. <ruby>[[鱗 (char)|鱗]]<rt>ㄌㄧㄋ</rt></ruby> - scale (fish)
+559. <ruby>[[鳳]]<rt>ㄆㄨㄫ</rt></ruby> - phoenix
+560. <ruby>[[鹸 (char)|鹸]]<rt>ㄑㄝㄇ</rt></ruby> - base, alkali
+561. <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> - dethrone
+562. <ruby>[[黻]]<rt>ㄈㄨㄊ</rt></ruby> - 亞-pattern embroidery
+563. <ruby>[[黼]]<rt>ㄈㄨ</rt></ruby> - axe-pattern embroidery
+564. <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby> - tripod
+565. <ruby>[[鼾 (char)|鼾]]<rt>ㄏ⼘ㄋ</rt></ruby> - snore
 
 ## Base check
 ```base

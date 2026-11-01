@@ -58,6 +58,7 @@ boundedness: 80
 - <ruby>[[孟冬]]<rt>ㄇㄚㄫㄊㄛㄫ</rt></ruby> "early winter (10th month)"
 - <ruby>[[仲冬]]<rt>ㄉㄨㄫㄊㄛㄫ</rt></ruby> "mid winter (11th month)"
 - <ruby>[[季冬]]<rt>ㄍㄨㄧㄊㄛㄫ</rt></ruby> "late winter (12th month)"
+- <ruby>[[冬瓜]]<rt>ㄊㄛㄫㄍ⺢</rt></ruby> "winter melon"
 
 ## Chengyu
 - <ruby>[[春夏秋冬]]<rt>ㄑㄨㄋㄏ⼘ㄑㄨㄛㄊㄛㄫ</rt></ruby> "four seasons, all year"

@@ -663,6 +663,7 @@ tags: [lookup]
 656. [鑼](../../characters/鑼.md)
 657. [鼾](../../characters/鼾%20(char).md)
 658. [愕](../../characters/愕.md)
+659. [蒜](../../characters/蒜.md)
 
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 
