@@ -2,7 +2,7 @@
 stroke_count: 12
 date-last-perfect: 2026-10-31
 skip_number: 1-3-9
-size: 78
+size: 79
 tags:
   - lookup
 ---
@@ -69,76 +69,77 @@ tags:
 
 31. <ruby>[惰](/characters/惰.md)<rt>ㄉ⺢</rt></ruby> - lazy, indolent
 32. <ruby>[愉](/characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleased, happy, cheerful
-33. <ruby>[慌](/characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - flustered, nervous, panic
+33. <ruby>[愕](/characters/愕.md)<rt>ㄋ⼄ㄎ</rt></ruby> - startled, astonished
+34. <ruby>[慌](/characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - flustered, nervous, panic
 
 ### 手
 
-34. <ruby>[揀](/characters/揀.md)<rt>ㄍ⼘ㄋ</rt></ruby> - choose, select, pick out
-35. <ruby>[揄](/characters/揄.md)<rt>⼜ㄇ</rt></ruby> - pull; praise; mock (in 揶揄)
-36. <ruby>[提](/characters/提.md)<rt>ㄙㄝ</rt></ruby> - carry (by hand); raise, bring up
-37. <ruby>[揖](/characters/揖.md)<rt>ㄜㄆ</rt></ruby> - bow with clasped hands; salute
-38. <ruby>[揚](/characters/揚%20(char).md)<rt>⼘ㄫ</rt></ruby> - raise, hoist; spread; praise
-39. <ruby>[換](/characters/換%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - exchange, swap; change
-40. <ruby>[握](/characters/握.md)<rt>ㄚㄎ</rt></ruby> - grip, grasp, hold
-41. <ruby>[揮](/characters/揮.md)<rt>ㄏㄨㄧ</rt></ruby> - wave, brandish; direct; wipe
-42. <ruby>[援](/characters/援.md)<rt>ㄛㄋ</rt></ruby> - aid, assist; grasp, pull
-43. <ruby>[揶](/characters/揶.md)<rt>⼘</rt></ruby> - mock, ridicule (in 揶揄)
-44. <ruby>[揺](/characters/揺%20(char).md)<rt>⼄ㄨ</rt></ruby> - shake, sway, rock
-45. <ruby>[搭](/characters/搭.md)<rt>ㄊㄚㄆ</rt></ruby> - build, put up; take (transport); hang
+35. <ruby>[揀](/characters/揀.md)<rt>ㄍ⼘ㄋ</rt></ruby> - choose, select, pick out
+36. <ruby>[揄](/characters/揄.md)<rt>⼜ㄇ</rt></ruby> - pull; praise; mock (in 揶揄)
+37. <ruby>[提](/characters/提.md)<rt>ㄙㄝ</rt></ruby> - carry (by hand); raise, bring up
+38. <ruby>[揖](/characters/揖.md)<rt>ㄜㄆ</rt></ruby> - bow with clasped hands; salute
+39. <ruby>[揚](/characters/揚%20(char).md)<rt>⼘ㄫ</rt></ruby> - raise, hoist; spread; praise
+40. <ruby>[換](/characters/換%20(char).md)<rt>ㄏ⺢ㄇ</rt></ruby> - exchange, swap; change
+41. <ruby>[握](/characters/握.md)<rt>ㄚㄎ</rt></ruby> - grip, grasp, hold
+42. <ruby>[揮](/characters/揮.md)<rt>ㄏㄨㄧ</rt></ruby> - wave, brandish; direct; wipe
+43. <ruby>[援](/characters/援.md)<rt>ㄛㄋ</rt></ruby> - aid, assist; grasp, pull
+44. <ruby>[揶](/characters/揶.md)<rt>⼘</rt></ruby> - mock, ridicule (in 揶揄)
+45. <ruby>[揺](/characters/揺%20(char).md)<rt>⼄ㄨ</rt></ruby> - shake, sway, rock
+46. <ruby>[搭](/characters/搭.md)<rt>ㄊㄚㄆ</rt></ruby> - build, put up; take (transport); hang
 
 ### 水
 
-46. <ruby>[淵](/characters/淵.md)<rt>⼔ㄋ</rt></ruby> - deep pool, abyss; profound
-47. <ruby>[減](/characters/減.md)<rt>ㄍㄚㄇ</rt></ruby> - decrease, reduce; subtract
-48. <ruby>[渡](/characters/渡%20(char).md)<rt>ㄉㄛ</rt></ruby> - cross (water), ford; ferry
-49. <ruby>[渣](/characters/渣%20(char).md)<rt>ㄐ⺢</rt></ruby> - dregs, sediment, slag
-50. <ruby>[渥](/characters/渥.md)<rt>ㄛㄎ</rt></ruby> - moist, damp; deep, generous
-51. <ruby>[渦](/characters/渦.md)<rt>ㄍ⺢</rt></ruby> - whirlpool, eddy, vortex
-52. <ruby>[温](/characters/温.md)<rt>ㄛㄆ</rt></ruby> - warm; gentle; review
-53. <ruby>[測](/characters/測.md)<rt>ㄑㄜㄎ</rt></ruby> - measure, survey; fathom, predict
-54. <ruby>[港](/characters/港.md)<rt>ㄏㄛㄫ</rt></ruby> - port, harbour; Hong Kong
-55. <ruby>[湆](/characters/湆.md)<rt>ㄎㄨㄆ</rt></ruby> - broth, soup liquid
-56. <ruby>[湊](/characters/湊.md)<rt>ㄑㄛㄨ</rt></ruby> - gather, assemble; happen to; approach
-57. <ruby>[湖](/characters/湖.md)<rt>ㄏㄛㄨ</rt></ruby> - lake
-58. <ruby>[湘](/characters/湘.md)<rt>ㄙ⼘ㄫ</rt></ruby> - Xiang River; Hunan province
-59. <ruby>[湛](/characters/湛.md)<rt>ㄉㄚㄇ</rt></ruby> - clear, limpid; deep, profound
-60. <ruby>[湧](/characters/湧%20(char).md)<rt>⼄ㄫ</rt></ruby> - gush, surge, well up
-61. <ruby>[湯](/characters/湯%20(char).md)<rt>ㄊㄚㄫ</rt></ruby> - hot water; soup, broth
-62. <ruby>[湾](/characters/湾.md)<rt>⺢ㄇ</rt></ruby> - bay, gulf; bend (in a river)
-63. <ruby>[湿](/characters/湿%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - wet, damp, moist
-64. <ruby>[満](/characters/満%20(char).md)<rt>ㄇㄚㄋ</rt></ruby> - full, filled; satisfied; Manchu
-65. <ruby>[滋](/characters/滋.md)<rt>ㄐㄜ</rt></ruby> - nourish; grow; juice; more
+47. <ruby>[淵](/characters/淵.md)<rt>⼔ㄋ</rt></ruby> - deep pool, abyss; profound
+48. <ruby>[減](/characters/減.md)<rt>ㄍㄚㄇ</rt></ruby> - decrease, reduce; subtract
+49. <ruby>[渡](/characters/渡%20(char).md)<rt>ㄉㄛ</rt></ruby> - cross (water), ford; ferry
+50. <ruby>[渣](/characters/渣%20(char).md)<rt>ㄐ⺢</rt></ruby> - dregs, sediment, slag
+51. <ruby>[渥](/characters/渥.md)<rt>ㄛㄎ</rt></ruby> - moist, damp; deep, generous
+52. <ruby>[渦](/characters/渦.md)<rt>ㄍ⺢</rt></ruby> - whirlpool, eddy, vortex
+53. <ruby>[温](/characters/温.md)<rt>ㄛㄆ</rt></ruby> - warm; gentle; review
+54. <ruby>[測](/characters/測.md)<rt>ㄑㄜㄎ</rt></ruby> - measure, survey; fathom, predict
+55. <ruby>[港](/characters/港.md)<rt>ㄏㄛㄫ</rt></ruby> - port, harbour; Hong Kong
+56. <ruby>[湆](/characters/湆.md)<rt>ㄎㄨㄆ</rt></ruby> - broth, soup liquid
+57. <ruby>[湊](/characters/湊.md)<rt>ㄑㄛㄨ</rt></ruby> - gather, assemble; happen to; approach
+58. <ruby>[湖](/characters/湖.md)<rt>ㄏㄛㄨ</rt></ruby> - lake
+59. <ruby>[湘](/characters/湘.md)<rt>ㄙ⼘ㄫ</rt></ruby> - Xiang River; Hunan province
+60. <ruby>[湛](/characters/湛.md)<rt>ㄉㄚㄇ</rt></ruby> - clear, limpid; deep, profound
+61. <ruby>[湧](/characters/湧%20(char).md)<rt>⼄ㄫ</rt></ruby> - gush, surge, well up
+62. <ruby>[湯](/characters/湯%20(char).md)<rt>ㄊㄚㄫ</rt></ruby> - hot water; soup, broth
+63. <ruby>[湾](/characters/湾.md)<rt>⺢ㄇ</rt></ruby> - bay, gulf; bend (in a river)
+64. <ruby>[湿](/characters/湿%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - wet, damp, moist
+65. <ruby>[満](/characters/満%20(char).md)<rt>ㄇㄚㄋ</rt></ruby> - full, filled; satisfied; Manchu
+66. <ruby>[滋](/characters/滋.md)<rt>ㄐㄜ</rt></ruby> - nourish; grow; juice; more
 
 ### 犬
 
-66. <ruby>[猩](/characters/猩.md)<rt>ㄙㄝㄫ</rt></ruby> - orang-utan (in 猩猩)
-67. <ruby>[猲](/characters/猲.md)<rt>ㄎ⺢ㄆ</rt></ruby> - hunting dog; growl, snarl
-68. <ruby>[猶](/characters/猶%20(char).md)<rt>⼜ㄛ</rt></ruby> - still, yet; just as; hesitate
+67. <ruby>[猩](/characters/猩.md)<rt>ㄙㄝㄫ</rt></ruby> - orang-utan (in 猩猩)
+68. <ruby>[猲](/characters/猲.md)<rt>ㄎ⺢ㄆ</rt></ruby> - hunting dog; growl, snarl
+69. <ruby>[猶](/characters/猶%20(char).md)<rt>⼜ㄛ</rt></ruby> - still, yet; just as; hesitate
 
 ### 米
 
-69. <ruby>[粥](/characters/粥%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - porridge, congee, gruel
+70. <ruby>[粥](/characters/粥%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> - porridge, congee, gruel
 
 ### 行
 
-70. <ruby>[街](/characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street, avenue
+71. <ruby>[街](/characters/街.md)<rt>ㄍ⼘ㄧ</rt></ruby> - street, avenue
 
 ### 阜
 
-71. <ruby>[陽](/characters/陽%20(char).md)<rt>⼘ㄫ</rt></ruby> - sun, sunlight; yang; positive
-72. <ruby>[隅](/characters/隅%20(char).md)<rt>ㄨㄛ</rt></ruby> - corner, nook
-73. <ruby>[隊](/characters/隊%20(char).md)<rt>ㄉㄛㄧ</rt></ruby> - team, group, squad; procession
-74. <ruby>[階](/characters/階.md)<rt>ㄍ⼶ㄧ</rt></ruby> - steps, stairs; rank, grade
-75. <ruby>[随](/characters/随.md)<rt>ㄙㄨㄧ</rt></ruby> - follow, comply with; along with
+72. <ruby>[陽](/characters/陽%20(char).md)<rt>⼘ㄫ</rt></ruby> - sun, sunlight; yang; positive
+73. <ruby>[隅](/characters/隅%20(char).md)<rt>ㄨㄛ</rt></ruby> - corner, nook
+74. <ruby>[隊](/characters/隊%20(char).md)<rt>ㄉㄛㄧ</rt></ruby> - team, group, squad; procession
+75. <ruby>[階](/characters/階.md)<rt>ㄍ⼶ㄧ</rt></ruby> - steps, stairs; rank, grade
+76. <ruby>[随](/characters/随.md)<rt>ㄙㄨㄧ</rt></ruby> - follow, comply with; along with
 
 ### 頁
 
-76. <ruby>[項](/characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - item, clause; back of the neck
-77. <ruby>[須](/characters/須.md)<rt>ㄙㄨ</rt></ruby> - must, need; beard, whiskers
+77. <ruby>[項](/characters/項%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - item, clause; back of the neck
+78. <ruby>[須](/characters/須.md)<rt>ㄙㄨ</rt></ruby> - must, need; beard, whiskers
 
 ### 食
 
-78. <ruby>[飧](/characters/飧.md)<rt>ㄙㄛㄋ</rt></ruby> - evening meal; cooked grain in water
+79. <ruby>[飧](/characters/飧.md)<rt>ㄙㄛㄋ</rt></ruby> - evening meal; cooked grain in water
 
 ## Datacheck
 ```dataview

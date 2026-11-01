@@ -1090,3 +1090,4 @@ views:
 [顕](../../characters/顕.md)
 [駆 (char)](../../characters/駆%20(char).md)
 [鼾 (char)](../../characters/鼾%20(char).md)
+[愕](../../characters/愕.md)

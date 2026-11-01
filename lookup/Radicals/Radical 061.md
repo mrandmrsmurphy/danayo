@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 105
+size: 106
 radical: 心
 tags: [lookup]
 
@@ -90,69 +90,70 @@ tags: [lookup]
 59. <ruby>[惰](../../characters/惰.md)<rt>ㄉ⺢</rt></ruby> - lazy
 60. <ruby>[愉](../../characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleasure
 61. <ruby>[慌](../../characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - nervous
+62. <ruby>[愕](../../characters/愕.md)<rt>ㄋ⼄ㄎ</rt></ruby> - astonished
 
 ### +9 Strokes
-62. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
-63. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
-64. <ruby>[愁](../../characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> - worry
-65. <ruby>[愈](../../characters/愈.md)<rt>⼜ㄇ</rt></ruby> - more and more
-66. <ruby>[意](../../characters/意.md)<rt>ㄜ</rt></ruby> - significance
-67. <ruby>[愚](../../characters/愚%20(char).md)<rt>ㄨ</rt></ruby> - foolish
-68. <ruby>[愛](../../characters/愛%20(char).md)<rt>ㄚㄧ</rt></ruby> - love
-69. <ruby>[感](../../characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> - feel
-70. <ruby>[愧](../../characters/愧.md)<rt>ㄍㄨㄧ</rt></ruby> - ashamed
-71. <ruby>[慄](../../characters/慄%20(char).md)<rt>ㄌㄧㄊ</rt></ruby> - tremble
-72. <ruby>[慈](../../characters/慈.md)<rt>ㄐㄧ</rt></ruby> - kind
-73. <ruby>[慎](../../characters/慎.md)<rt>ㄙㄧㄋ</rt></ruby> - cautious
-74. <ruby>[慨](../../characters/慨%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - sigh
+63. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
+64. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
+65. <ruby>[愁](../../characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> - worry
+66. <ruby>[愈](../../characters/愈.md)<rt>⼜ㄇ</rt></ruby> - more and more
+67. <ruby>[意](../../characters/意.md)<rt>ㄜ</rt></ruby> - significance
+68. <ruby>[愚](../../characters/愚%20(char).md)<rt>ㄨ</rt></ruby> - foolish
+69. <ruby>[愛](../../characters/愛%20(char).md)<rt>ㄚㄧ</rt></ruby> - love
+70. <ruby>[感](../../characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> - feel
+71. <ruby>[愧](../../characters/愧.md)<rt>ㄍㄨㄧ</rt></ruby> - ashamed
+72. <ruby>[慄](../../characters/慄%20(char).md)<rt>ㄌㄧㄊ</rt></ruby> - tremble
+73. <ruby>[慈](../../characters/慈.md)<rt>ㄐㄧ</rt></ruby> - kind
+74. <ruby>[慎](../../characters/慎.md)<rt>ㄙㄧㄋ</rt></ruby> - cautious
+75. <ruby>[慨](../../characters/慨%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - sigh
 
 ### +10 Strokes
-75. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity
-76. <ruby>[態](../../characters/態.md)<rt>ㄊㄚㄧ</rt></ruby> - manner
-77. <ruby>[慕](../../characters/慕.md)<rt>ㄇㄛ</rt></ruby> - long for
-78. <ruby>[慢](../../characters/慢.md)<rt>ㄇㄚㄋ</rt></ruby> - slow
-79. <ruby>[慣](../../characters/慣.md)<rt>ㄍ⺢ㄋ</rt></ruby> - to be accustomed
-80. <ruby>[慷](../../characters/慷.md)<rt>ㄎㄚㄫ</rt></ruby> - ardent
-81. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
+76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity
+77. <ruby>[態](../../characters/態.md)<rt>ㄊㄚㄧ</rt></ruby> - manner
+78. <ruby>[慕](../../characters/慕.md)<rt>ㄇㄛ</rt></ruby> - long for
+79. <ruby>[慢](../../characters/慢.md)<rt>ㄇㄚㄋ</rt></ruby> - slow
+80. <ruby>[慣](../../characters/慣.md)<rt>ㄍ⺢ㄋ</rt></ruby> - to be accustomed
+81. <ruby>[慷](../../characters/慷.md)<rt>ㄎㄚㄫ</rt></ruby> - ardent
+82. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
 
 ### +11 Strokes
-82. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread
-83. <ruby>[慙](../../characters/慙.md)<rt>ㄐㄚㄇ</rt></ruby> - ashamed
-84. <ruby>[慧](../../characters/慧%20(char).md)<rt>ㄏ⼔ㄧ</rt></ruby> - bright
-85. <ruby>[慮](../../characters/慮.md)<rt>ㄌ⼄</rt></ruby> - worry
-86. <ruby>[慰](../../characters/慰.md)<rt>ㄛㄧ</rt></ruby> - comfort
-87. <ruby>[慶](../../characters/慶%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - congratulate
-88. <ruby>[憂](../../characters/憂.md)<rt>⼜</rt></ruby> - be worried
-89. <ruby>[憤](../../characters/憤.md)<rt>ㄅㄨㄋ</rt></ruby> - resent
-90. <ruby>[憧](../../characters/憧.md)<rt>ㄑㄛㄫ</rt></ruby> - restless
-91. <ruby>[憫](../../characters/憫%20(char).md)<rt>ㄇㄧㄋ</rt></ruby> - pity
-92. <ruby>[憬](../../characters/憬.md)<rt>ㄍ⼄ㄫ</rt></ruby> - awaken
+83. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread
+84. <ruby>[慙](../../characters/慙.md)<rt>ㄐㄚㄇ</rt></ruby> - ashamed
+85. <ruby>[慧](../../characters/慧%20(char).md)<rt>ㄏ⼔ㄧ</rt></ruby> - bright
+86. <ruby>[慮](../../characters/慮.md)<rt>ㄌ⼄</rt></ruby> - worry
+87. <ruby>[慰](../../characters/慰.md)<rt>ㄛㄧ</rt></ruby> - comfort
+88. <ruby>[慶](../../characters/慶%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - congratulate
+89. <ruby>[憂](../../characters/憂.md)<rt>⼜</rt></ruby> - be worried
+90. <ruby>[憤](../../characters/憤.md)<rt>ㄅㄨㄋ</rt></ruby> - resent
+91. <ruby>[憧](../../characters/憧.md)<rt>ㄑㄛㄫ</rt></ruby> - restless
+92. <ruby>[憫](../../characters/憫%20(char).md)<rt>ㄇㄧㄋ</rt></ruby> - pity
+93. <ruby>[憬](../../characters/憬.md)<rt>ㄍ⼄ㄫ</rt></ruby> - awaken
 
 ### +12 Strokes
-93. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful
-94. <ruby>[憩](../../characters/憩.md)<rt>ㄎㄝ</rt></ruby> - rest
-95. <ruby>[憲](../../characters/憲.md)<rt>ㄏㄝㄋ</rt></ruby> - constitution
-96. <ruby>[憶](../../characters/憶.md)<rt>ㄧㄎ</rt></ruby> - recollect
-97. <ruby>[憾](../../characters/憾.md)<rt>ㄏㄚㄇ</rt></ruby> - regrettable
-98. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - miss
+94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful
+95. <ruby>[憩](../../characters/憩.md)<rt>ㄎㄝ</rt></ruby> - rest
+96. <ruby>[憲](../../characters/憲.md)<rt>ㄏㄝㄋ</rt></ruby> - constitution
+97. <ruby>[憶](../../characters/憶.md)<rt>ㄧㄎ</rt></ruby> - recollect
+98. <ruby>[憾](../../characters/憾.md)<rt>ㄏㄚㄇ</rt></ruby> - regrettable
+99. <ruby>[懐](../../characters/懐%20(char).md)<rt>ㄏ⺢ㄧ</rt></ruby> - miss
 
-99. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
-100. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
+100. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
+101. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
 
 ### +13 Strokes
-101. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
+102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
 
 ### +14 Strokes
-102. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
+103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
 
 ### +15 Strokes
-103. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy
+104. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy
 
 ### +16 Strokes
-104. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
+105. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
 
 ### +18 Strokes
-105. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
+106. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
 
 ## Data check
 ```dataview

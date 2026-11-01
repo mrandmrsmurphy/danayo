@@ -94,7 +94,7 @@ __Combining or simplified radicals with 3 strokes__
 - 170. combining 阝 (on character's left side), has 3 strokes, but looks like it has 2 strokes, used for radical 阜
 
 ### 4 strokes
-- [[Radical 061]] 心 or combining as 忄 (105 characters)
+- [[Radical 061]] 心 or combining as 忄 (106 characters)
 - [[Radical 062]] 戈 (16 characters)
 - [[Radical 063]] 戶 (8 characters)
 - [[Radical 064]] 手 or combining as 扌 (138 characters)

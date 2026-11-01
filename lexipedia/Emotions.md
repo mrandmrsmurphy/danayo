@@ -57,6 +57,12 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 ### Sadness & Grief
 
+- <ruby>[悲哀](../words/悲哀.md)<rt>ㄅㄧㄜㄚㄧ</rt></ruby>: sorrow, sadness — deep, lasting sadness at the lot of human life; the quiet form of grief.
+- <ruby>[悲嘆](../words/悲嘆.md)<rt>ㄅㄧㄜㄊㄚㄋ</rt></ruby>: grief, to lament — sorrow so great that it is voiced.
+- <ruby>[哀愁](../words/哀愁.md)<rt>ㄚㄧㄙㄚㄨ</rt></ruby>: pathos — a gentle, lingering sorrow with longing in it.
+- <ruby>[憂欝](../words/憂欝.md)<rt>⼜⼜ㄊ</rt></ruby>: melancholy, depression — a heavy, gloomy low mood with no single cause; the usual spelling 憂鬱 is an alias.
+- <ruby>[感傷](../words/感傷.md)<rt>ㄍㄚㄇㄙ⼘ㄫ</rt></ruby>: sentimentality — sadness felt because one is moved, often pleasant and self-indulgent.
+- <ruby>[郷愁](../words/郷愁.md)<rt>ㄏ⼘ㄫㄙㄚㄨ</rt></ruby>: homesickness, nostalgia — longing for one's home or for a time gone by.
 - <ruby>[悲傷](../words/悲傷.md)<rt>ㄅㄧㄜㄙ⼘ㄫ</rt></ruby>, <ruby>[悲痛](../words/悲痛.md)<rt>ㄅㄧㄜㄊㄛㄫ</rt></ruby>: sad, sorrowful, grieving.
 - <ruby>[哀傷](../words/哀傷.md)<rt>ㄚㄧㄙ⼘ㄫ</rt></ruby>, <ruby>[哀戚](../words/哀戚.md)<rt>ㄚㄧㄑㄝㄎ</rt></ruby>: sad, distressed, mournful.
 - <ruby>[不幸](../words/不幸.md)<rt>ㄅㄛㄊㄏㄚㄫ</rt></ruby>: unfortunate, sad, unhappy.
@@ -68,6 +74,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[惜](../words/惜.md)<rt>ㄙㄝㄎ</rt></ruby>: to begrudge, rue — regret at losing or parting with something (惜別, "regret at parting").
 - <ruby>[後悔](../words/後悔.md)<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>: to regret.
 - <ruby>[失望](../words/失望.md)<rt>ㄙㄧㄊㄇㄚㄫ</rt></ruby>: to be disappointed — to lose hope; an expectation unmet, the reverse of [[希望]].
+- <ruby>[落胆](../words/落胆.md)<rt>ㄌㄚㄎㄉㄚㄇ</rt></ruby>: to lose heart, disappointment — disappointed and discouraged when hope fails; Japanese sense (Mandarin 落膽 is an obsolete word for fear; see [[文法 - 91疑義語]]).
 
 ### Anger
 
@@ -95,6 +102,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
 - <ruby>[懍懍](../words/懍懍.md)<rt>ㄌㄜㄇㄌㄜㄇ</rt></ruby>: a fearful appearance; stern and rigorous.
 - <ruby>[喫驚](../words/喫驚.md)<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>: to be startled.
+- <ruby>[驚愕](../words/驚愕.md)<rt>ㄍ⼶ㄫㄋ⼄ㄎ</rt></ruby>: to be stunned, astonishment — struck dumb by something sudden; stronger than [[驚異]], wonder, and than [[喫驚]], a mere start.
 - <ruby>[驚異](../words/驚異.md)<rt>ㄍ⼶ㄫㄧ</rt></ruby>: wonder, amazement — astonishment at something extraordinary, the pleasant side of being startled, where [[喫驚]] is the plain jolt.
 - <ruby>[衝撃](../words/衝撃.md)<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby>: shock, impact — the sudden hard blow of bad news or violence.
 - <ruby>[戦慄](../words/戦慄.md)<rt>ㄐㄝㄋㄌㄧㄊ</rt></ruby>: a shudder, terror — fear that has reached the body, stronger than [[恐怖]].
