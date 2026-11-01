@@ -1092,3 +1092,5 @@ views:
 [鼾 (char)](../../characters/鼾%20(char).md)
 [愕](../../characters/愕.md)
 [蒜](../../characters/蒜.md)
+[櫃 (char)](../../characters/櫃%20(char).md)
+[檻 (char)](../../characters/檻%20(char).md)

@@ -13,7 +13,7 @@ related_domains:
   - "[[Conflict]]"
   - "[[Art]]"
 status: complete
-date-last-perfect: 2026-10-31
+date-last-perfect: 2026-11-01
 ---
 
 # Society
@@ -75,6 +75,11 @@ Society vocabulary names the groups people belong to above the level of the fami
 - <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to join, participate.
 - <ruby>[加入](../words/加入.md)<rt>ㄍㄚ·ㄋㄧㄆ</rt></ruby>: to join, enroll (as a member) — a near-synonym of [[参加]].
 - <ruby>[所属](../words/所属.md)<rt>ㄙㄜㄐㄛㄎ</rt></ruby>: affiliation, membership — the body, team or organization one belongs to (所属部門, "the department one belongs to"); the fact of being attached to a group, as against [[加入]]'s act of joining it.
+- <ruby>[会員](../words/会員.md)<rt>ㄏ⼔ㄨㄋ</rt></ruby>: a member (of a club, organization or association).
+- <ruby>[議員](../words/議員.md)<rt>ㄜㄧㄨㄋ</rt></ruby>: a member of Parliament, congressman.
+- <ruby>[乗員](../words/乗員.md)<rt>ㄙㄨㄫㄨㄋ</rt></ruby>: a crew, crew member.
+- <ruby>[人員](../words/人員.md)<rt>ㄋㄧㄋ·ㄨㄋ</rt></ruby>: staff, personnel, employee — the general headcount/roster sense, broader than [[会員]]'s formal organizational membership.
+- <ruby>[会社員](../words/会社員.md)<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby>: an office worker, company employee — [[会社]] "company" + 員, naming a specific employment role rather than [[会員]]'s general organizational membership.
 - <ruby>[一同](../words/一同.md)<rt>ㄧㄊㄉㄛㄫ</rt></ruby>: together; all as one — and as a noun, everyone present; the collective counterpart to [[偕同]]'s "together with" and [[一処]]'s "in one place."
 - <ruby>[徽章](../words/徽章.md)<rt>ㄏㄨㄧㄐㄚㄫ</rt></ruby>: badge; insignia; emblem.
 - <ruby>[跆籍](../words/跆籍.md)<rt>ㄊㄛㄧㄐㄝㄎ</rt></ruby>: Taekwondo registration, martial arts membership record.

@@ -26,7 +26,7 @@ hanmun_edu_level: 名
 danayo_id: 8174
 mc_id: 10335
 graphemic_classification: 象形
-stand_in: 水壷
+stand_in: 壷
 aliases:
   - 壺
   - 壶
@@ -49,3 +49,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[水壷]]<rt>ㄙㄨㄏㄛ</rt></ruby> "kettle; water bottle"
+- <ruby>[[壷]]<rt>ㄏㄛ</rt></ruby> "pot"

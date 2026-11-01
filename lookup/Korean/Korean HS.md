@@ -675,7 +675,7 @@ tags: [lookup]
 #### 폐
  [肺](../../characters/肺.md) (허파 폐) , [廢](../../characters/廃.md) (폐할 폐) , [弊 (char)](../../characters/弊%20(char).md) (폐단 폐) , [蔽](../../characters/蔽.md) (덮을 폐) , [幣 (char)](../../characters/幣%20(char).md) (비단 폐)
 #### 포
- [包](../../characters/包.md) (쌀 포) , [胞](../../characters/胞.md) (태보 포) , [飽 (char)](../../characters/飽%20(char).md) (배부를 포) , [浦 (char)](../../characters/浦%20(char).md)(물가 포) , [捕 (char)](../../characters/捕%20(char).md)(사로잡을 포)
+ [包](../../characters/包%20(char).md) (쌀 포) , [胞](../../characters/胞.md) (태보 포) , [飽 (char)](../../characters/飽%20(char).md) (배부를 포) , [浦 (char)](../../characters/浦%20(char).md)(물가 포) , [捕 (char)](../../characters/捕%20(char).md)(사로잡을 포)
 #### 폭
  [爆](../../characters/爆.md)(터질 폭) , [幅](../../characters/幅.md)(너비 폭)
 #### 표

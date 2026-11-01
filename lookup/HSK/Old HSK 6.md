@@ -122,7 +122,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 117.  [[乳]]
 118.  [觅](../../characters/覓.md)
 119.  [[紊]]
-120.  [雹](../../characters/包.md)
+120.  [雹](../../characters/包%20(char).md)
 121.  [[摊]]
 122.  [[予]]
 123.  [舰](../../characters/艦.md)

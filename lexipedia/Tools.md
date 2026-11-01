@@ -5,6 +5,7 @@ domain: Tools
 related_domains:
   - "[[Mind]]"
   - "[[Shape]]"
+  - "[[Containers]]"
 status: partial
 ---
 

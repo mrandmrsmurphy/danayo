@@ -439,7 +439,7 @@ The following prefecture names were added in 2017:
 427. [重 (char)](../../characters/重%20(char).md) : jū;  chō , omo-i;  kasa-neru , heavy ,
 428. [鉄 (char)](../../characters/鉄%20(char).md) : tetsu , – , iron ,
 429. [銀 (char)](../../characters/銀%20(char).md) : gin , – , silver ,
-430. [開](../../characters/開.md) : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open ,
+430. [開](../../characters/開%20(char).md) : kai , hira-ku;  a-ku;  hira-keru;  a-keru , open ,
 431. [院](../../characters/院.md) : in , – , institution ,
 432. [陽 (char)](../../characters/陽%20(char).md) : yō , – , sunshine ,
 433. [階](../../characters/階.md) : kai , – , floor of a building ,
@@ -488,7 +488,7 @@ The following prefecture names were added in 2017:
 475. [努](../../characters/努.md) : do tsuto-meru toil
 476. [労](../../characters/労.md) : rō negira-u labor
 477. [勇](../../characters/勇.md) : yū isa-mu courage
-478. [包](../../characters/包.md) : hō tsutsu-mu wrap
+478. [包](../../characters/包%20(char).md) : hō tsutsu-mu wrap
 479. [卒](../../characters/卒.md) : sotsu – graduate
 480. [協](../../characters/協.md) : kyō – cooperation
 481. [単](../../characters/単.md) : tan – simple

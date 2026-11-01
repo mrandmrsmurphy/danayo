@@ -119,7 +119,7 @@ tags: [lookup]
 105. <ruby>[[埴]]<rt>ㄙㄧㄎ</rt></ruby> - clay
 106. <ruby>[[堡]]<rt>ㄅㄚㄨ</rt></ruby> - fort
 107. <ruby>[[壬]]<rt>ㄋㄧㄇ</rt></ruby> - ninth heavenly stem
-108. <ruby>[[壷]]<rt>ㄏㄛ</rt></ruby> - pot, pressure point
+108. <ruby>[[壷 (char)|壷]]<rt>ㄏㄛ</rt></ruby> - pot, pressure point
 109. <ruby>[[夌]]<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
 110. <ruby>[[夗]]<rt>⼄ㄋ</rt></ruby> - to turn over when asleep
 111. <ruby>[[夹]]<rt>ㄍ⼘ㄆ</rt></ruby> - squeeze between, clip, holder

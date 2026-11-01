@@ -11,7 +11,7 @@ tags: [lookup]
 
 ## Characters
 1. <ruby>[悶](/characters/悶.md)<rt>ㄇㄛㄋ</rt></ruby> - agony
-2. <ruby>[開](/characters/開.md)<rt>ㄎㄚㄧ</rt></ruby> - open
+2. <ruby>[開](/characters/開%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - open
 3. <ruby>[閏](/characters/閏%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - intercalary
 4. <ruby>[閑](/characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time
 5. <ruby>[間](/characters/間.md)<rt>ㄍㄚㄋ</rt></ruby> - between

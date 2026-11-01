@@ -7,6 +7,7 @@ related_domains:
   - "[[Physics]]"
   - "[[Shape]]"
   - "[[Valuation]]"
+  - "[[Containers]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

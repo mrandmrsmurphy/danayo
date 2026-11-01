@@ -27,7 +27,7 @@ tags: [lookup]
 #### 강
 [江](../../characters/江.md) (강 강) [降](../../characters/降.md) (내릴 강) [講](../../characters/講.md) (익힐 강) [强](../../characters/強%20(char).md) (굳셀 강)
 #### 개
-[改](../../characters/改%20(char).md) (고칠 개) [皆](../../characters/皆%20(char).md) (다 개) [個](../../characters/個%20(char).md) / 箇 (낱 개) [開](../../characters/開.md) (열 개)
+[改](../../characters/改%20(char).md) (고칠 개) [皆](../../characters/皆%20(char).md) (다 개) [個](../../characters/個%20(char).md) / 箇 (낱 개) [開](../../characters/開%20(char).md) (열 개)
 #### 객
 [客](../../characters/客.md) (손님 객)
 #### 갱

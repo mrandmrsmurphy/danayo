@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 160
+size: 162
 radical: 木
 tags: [lookup]
 
@@ -197,15 +197,17 @@ tags: [lookup]
 155. <ruby>[檳](../../characters/檳.md)<rt>ㄅㄧㄋ</rt></ruby> - betel
 156. <ruby>[檸](../../characters/檸.md)<rt>ㄌㄝ</rt></ruby> - lemon
 157. <ruby>[櫂](../../characters/櫂.md)<rt>ㄊㄛㄨ</rt></ruby> - oar
+158. <ruby>[櫃](../../characters/櫃%20(char).md)<rt>ㄍ⼔</rt></ruby> - cabinet
+159. <ruby>[檻](../../characters/檻%20(char).md)<rt>ㄏ⼘ㄇ</rt></ruby> - cage
 
 ### +17 Strokes
-158. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
+160. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
 
 ### +21 Strokes
-159. <ruby>[欖](../../characters/欖.md)<rt>ㄌㄚㄇ</rt></ruby> - olive
+161. <ruby>[欖](../../characters/欖.md)<rt>ㄌㄚㄇ</rt></ruby> - olive
 
 ### +22 Strokes
-160. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
+162. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
 
 ## Data check
 ```dataview

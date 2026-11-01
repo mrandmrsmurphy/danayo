@@ -28,7 +28,7 @@ tags: [lookup]
 7. <ruby>[壴](../../characters/壴%20(char).md)<rt>ㄊㄨㄛ</rt></ruby> - to drum
 
 ### +8 Strokes
-8. <ruby>[壷](../../characters/壷.md)<rt>ㄏㄛ</rt></ruby> - pot
+8. <ruby>[壷](../../characters/壷%20(char).md)<rt>ㄏㄛ</rt></ruby> - pot
 
 ## Data check
 ```dataview

@@ -11,7 +11,7 @@ tags: [lookup]
 7. [班 (char)](../../characters/班%20(char).md)
 8. [半](../../characters/半%20(char).md)
 9. [幫](../../characters/幇.md)
-10. [包](../../characters/包.md)
+10. [包](../../characters/包%20(char).md)
 11. [杯](characters/杯%20(char).md)
 12. [北](../../characters/北.md)
 13. [備](../../characters/備.md)
@@ -121,7 +121,7 @@ tags: [lookup]
 117. [[浄|淨]]
 118. [九 (char)](characters/九%20(char).md)
 119. [就 (char)](characters/就%20(char).md)
-120. [開](../../characters/開.md)
+120. [開](../../characters/開%20(char).md)
 121. [看 (char)](characters/看%20(char).md)
 122. [考](../../characters/考.md)
 123. [渴](characters/渇%20(char).md)

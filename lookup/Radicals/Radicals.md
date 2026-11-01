@@ -108,7 +108,7 @@ __Combining or simplified radicals with 3 strokes__
 - [[Radical 072]] 日 (60 characters)
 - [[Radical 073]] 曰 (11 characters)
 - [[Radical 074]] 月 (11 characters)
-- [[Radical 075]] 木 (or sometimes 朩) (160 characters)
+- [[Radical 075]] 木 (or sometimes 朩) (162 characters)
 - [[Radical 076]] 欠 (12 characters)
 - [[Radical 077]] 止 (9 characters)
 - [[Radical 078]] 歹 or combining as 歺 (8 characters)

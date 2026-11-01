@@ -4,6 +4,7 @@ type: lexipedia
 domain: Clothing
 related_domains:
   - "[[Society]]"
+  - "[[Containers]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---

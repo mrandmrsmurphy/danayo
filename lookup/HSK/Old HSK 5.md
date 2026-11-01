@@ -345,7 +345,7 @@ tags: [lookup]
 342.  [[益]]
 343.  [绪](../../characters/緒.md)
 344.  [盖](../../characters/蓋.md)
-345.  [壶](../../characters/壷.md)
+345.  [壶](../../characters/壷%20(char).md)
 346.  [兔](../../characters/兎%20(char).md)
 347.  [绳](../../characters/縄%20(char).md)
 348.  [辩](../../characters/弁%20(char).md)

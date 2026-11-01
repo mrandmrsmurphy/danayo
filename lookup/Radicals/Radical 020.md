@@ -19,7 +19,7 @@ tags: [lookup]
 4. <ruby>[勾](../../characters/勾.md)<rt>ㄍㄛㄨ</rt></ruby> - seduce
 
 ### +3 Strokes
-5. <ruby>[包](../../characters/包.md)<rt>ㄅ⼘ㄨ</rt></ruby> - wrap
+5. <ruby>[包](../../characters/包%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - wrap
 
 ### +4 Strokes
 6. <ruby>[匈](../../characters/匈.md)<rt>ㄏ⼄ㄫ</rt></ruby> - Huns

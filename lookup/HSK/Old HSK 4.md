@@ -68,7 +68,7 @@ tags: [lookup]
 
 ## 15-14
 [道 (char)](../../characters/道%20(char).md): 15
-[开](../../characters/開.md): 15
+[开](../../characters/開%20(char).md): 15
 [空 (char)](../../characters/空%20(char).md): 15
 [点 (char)](../../characters/点%20(char).md): 15
 [光 (char)](../../characters/光%20(char).md): 15
@@ -126,7 +126,7 @@ tags: [lookup]
 [[特]]: 12
 [[投 (char)]]: 12
 [假](../../characters/仮.md): 11
-[[包]]: 11
+[[包 (char)|包]]: 11
 [兒](../../characters/児%20(char).md): 11
 [[重 (char)]]: 11
 [[低]]: 11
@@ -1577,7 +1577,7 @@ tags: [lookup]
 [[綁]]: 1
 [[棒]]: 1
 [[裹]]: 1
-[雹](../../characters/包.md): 1
+[雹](../../characters/包%20(char).md): 1
 [剑](../../characters/剣%20(char).md): 1
 [劍](../../characters/剣%20(char).md): 1
 [[骤]]: 1

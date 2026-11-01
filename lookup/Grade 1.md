@@ -227,7 +227,7 @@ tags: [lookup]
 213. <ruby>[[軽 (char)|軽]]<rt>ㄎㄧㄫ</rt></ruby> - light, not heavy
 214. <ruby>[[朝 (char)|朝]]<rt>ㄐㄚㄨ</rt></ruby> - morning
 215. <ruby>[[短 (char)|短]]<rt>ㄉ⺢ㄋ</rt></ruby> - short
-216. <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby> - open
+216. <ruby>[[開 (char)|開]]<rt>ㄎㄚㄧ</rt></ruby> - open
 217. <ruby>[[雲 (char)|雲]]<rt>ㄨㄋ</rt></ruby> - cloud
 218. <ruby>[[筆 (char)|筆]]<rt>ㄆㄨㄊ</rt></ruby> - pen, stylus
 219. <ruby>[[湖]]<rt>ㄏㄛㄨ</rt></ruby> - lake

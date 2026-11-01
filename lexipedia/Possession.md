@@ -4,6 +4,7 @@ type: lexipedia
 domain: Possession
 related_domains:
   - "[[Existence]]"
+  - "[[Containers]]"
 status: new
 ---
 

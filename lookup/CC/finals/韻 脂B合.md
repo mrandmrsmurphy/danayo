@@ -1,5 +1,5 @@
 ---
-size: 7
+size: 8
 middle_chinese_final: ɣiuɪ
 date-last-perfect: 2026-10-06
 tags: [lookup]
@@ -8,7 +8,7 @@ tags: [lookup]
 > **Final 脂B合** mostly evolved into ㄨㄧ (see below)
 
 ## CJKV Evolution
-脂B合 [ɣiuɪ] lands 5 of 7 characters on **ㄨㄧ**, matching the Vowels table's documented winner (`ui`). 位, the one null-initial member, spells ⼔ㄧ instead — the same null-initial convention already confirmed across [[韻 脂A合|脂A合]] and [[韻 支B三合|支B三合]], not a new phenomenon.
+脂B合 [ɣiuɪ] lands 5 of 8 characters on **ㄨㄧ**, matching the Vowels table's documented winner (`ui`). 位, the one null-initial member, spells ⼔ㄧ instead — the same null-initial convention already confirmed across [[韻 脂A合|脂A合]] and [[韻 支B三合|支B三合]], not a new phenomenon.
 
 **水** is the more interesting case: its daughter readings (shuǐ, seoi2, 수) are entirely ordinary for this final, but it shares its resulting bopomofo initial (ㄙ) with 帥, which already occupies ㄙㄨㄧ — an exact collision. 水 dodges by dropping the -ㄧ entirely, landing on plain **ㄨ**.
 
@@ -17,6 +17,7 @@ tags: [lookup]
 - ㄨㄧ: <ruby>[[追 (char)|追]]<rt>ㄊㄨㄧ</rt></ruby>, <ruby>[[軌 (char)|軌]]<rt>ㄎㄨㄧ</rt></ruby>, <ruby>[[墜]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[帥]]<rt>ㄙㄨㄧ</rt></ruby>, <ruby>[[椎]]<rt>ㄑㄨㄧ</rt></ruby>
 - ⼔ㄧ: <ruby>[[位]]<rt>⼔ㄧ</rt></ruby>
 - ㄨ: <ruby>[[水 (char)|水]]<rt>ㄙㄨ</rt></ruby>
+- ⼔: <ruby>[[櫃 (char)|櫃]]<rt>ㄍ⼔</rt></ruby>
 
 ## Datacheck
 ```base

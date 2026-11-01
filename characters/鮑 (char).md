@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (likely from 鰒 OC \*buɡ, "abalone," influenced by 包 "to wrap"): semantic [[魚]] ("fish") + phonetic [[包]] — "abalone," referencing the shell enclosing the soft body. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
+- 形声 (likely from 鰒 OC \*buɡ, "abalone," influenced by 包 "to wrap"): semantic [[魚]] ("fish") + phonetic [[包 (char)|包]] — "abalone," referencing the shell enclosing the soft body. Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
 - [SKIP-1-11-5](../lookup/SKIP/SKIP-1/SKIP-1-11-5.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1335th most used character in Classical Chinese (exact match — `CC 1000.md`: `1335. 鮑`). Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅㄚㄨ](../syllables/ㄅㄚㄨ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅍ](../lookup/Korean/Korean%20Name%20ㅍ.md)

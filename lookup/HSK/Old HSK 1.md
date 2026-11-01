@@ -111,8 +111,8 @@ tags: [lookup]
 [后](../../characters/后.md): 4
 [回 (char)](../../characters/回%20(char).md): 4
 [解 (char)](../../characters/解%20(char).md): 4
-[開](../../characters/開.md): 4
-[开](characters/開.md): 4
+[開](../../characters/開%20(char).md): 4
+[开](characters/開%20(char).md): 4
 [玩](../../characters/玩.md): 4
 [課 (char)](../../characters/課%20(char).md): 4
 [课](characters/課%20(char).md): 4
@@ -285,7 +285,7 @@ tags: [lookup]
 [妹](../../characters/妹.md): 2
 [米 (char)](../../characters/米%20(char).md): 2
 [麵](../../characters/麺%20(char).md): 2
-[包](../../characters/包.md): 2
+[包](../../characters/包%20(char).md): 2
 [條](../../characters/条%20(char).md): 2
 [名 (char)](../../characters/名%20(char).md): 2
 [母](../../characters/母.md): 2

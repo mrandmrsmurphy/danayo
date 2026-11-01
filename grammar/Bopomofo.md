@@ -8,7 +8,7 @@ In Taiwan, the names of consonant is constrained by the phonotactics of Mandarin
 
 | 注音 | Name | **Origin** | **IPA** | <small>拼音</small> | Ex. |
 |--|--|--|--|--|--|
-|ㄅ|ㄅㄛ|From 勹, the ancient form and current top portion of 包 "to wrap up; package".|`p̬`|b|<ruby>[包](../characters/包.md)<rt>ㄅ⼘ㄨ</rt></ruby> |
+|ㄅ|ㄅㄛ|From 勹, the ancient form and current top portion of 包 "to wrap up; package".|`p̬`|b|<ruby>[包](../characters/包%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> |
 |ㄆ|ㄆㄛ|From 攵, a variant form of 攴 "to knock lightly".|`pʰ`|p|<ruby>[撲](../characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby>|
 |ㄇ|ㄇㄛ|From an old form of 冖 (*mì*, "cover"), written 冂, which gives the letter its three-sided outline; /m/ is the initial of *mì*. 門 is only a convenient mnemonic for the shape and sound, not the source.|`m`|m|<ruby>[門](../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby>|
 |ㄈ|ㄈㄛ|From the "right open box" radical 匚 (方).|`ɸ̪`|f|<ruby>[方](../characters/方.md)<rt>ㄈㄚㄫ</rt></ruby>|

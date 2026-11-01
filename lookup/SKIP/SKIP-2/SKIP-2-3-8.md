@@ -11,7 +11,7 @@ tags:
 
 ## Characters
 1. <ruby>[剪](characters/剪%20(char).md)<rt>ㄐㄝㄋ</rt></ruby> "scissors"
-2. <ruby>[壷](characters/壷.md)<rt>ㄏㄛ</rt></ruby> "pot"
+2. <ruby>[壷](characters/壷%20(char).md)<rt>ㄏㄛ</rt></ruby> "pot"
 3. <ruby>[寄](characters/寄%20(char).md)<rt>ㄍㄨㄧ</rt></ruby> "approach"
 4. <ruby>[密](characters/密%20(char).md)<rt>ㄇㄧㄊ</rt></ruby> "dense"
 5. <ruby>[宿](characters/宿.md)<rt>ㄙㄨㄎ</rt></ruby> "lodging"

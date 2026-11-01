@@ -29,7 +29,7 @@ hanmun_edu_level: 高等
 danayo_id: 4040
 mc_id: 1631
 graphemic_classification: 象形
-stand_in: 包装
+stand_in: 包
 aliases:
   - 勹
   - 雹
@@ -39,7 +39,7 @@ date-last-perfect: 2026-10-18
 kwin: false
 tags:
   - character
-boundedness: 100
+boundedness: 70
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -52,7 +52,7 @@ boundedness: 100
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
 ## Words
-- <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package" (stand-in for 包)
+- <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package"
 - <ruby>[[包括]]<rt>ㄅ⼘ㄨㄍ⺢ㄊ</rt></ruby> "include, consist of"
 - <ruby>[[包含]]<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> "have, include, contain"
 - <ruby>[[包囲]]<rt>ㄅ⼘ㄨ·ㄨㄧ</rt></ruby> "encircle, surround"
@@ -61,6 +61,7 @@ boundedness: 100
 - <ruby>[[包皮]]<rt>ㄅ⼘ㄨㄅㄧ</rt></ruby> "foreskin"
 - <ruby>[[割包皮]]<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby> "circumcision"
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail" (代用字 for 雹; from Korean 우박/雨雹)
+- <ruby>[[包]]<rt>ㄅ⼘ㄨ</rt></ruby> "wrap"
 
 ## Derived Characters
 - <ruby>[[抱]]<rt>ㄅㄚㄨ</rt></ruby> "embrace"

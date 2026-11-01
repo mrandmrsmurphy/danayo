@@ -27,7 +27,7 @@ hanmun_edu_level: 中
 danayo_id: 216
 mc_id: 679
 graphemic_classification: 开
-stand_in: 開放
+stand_in: 開
 aliases:
   - 开
   - 𫔭
@@ -36,7 +36,7 @@ date-last-perfect: 2026-10-14
 kwin: false
 tags:
   - character
-boundedness: 90
+boundedness: 70
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -49,7 +49,7 @@ boundedness: 90
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[開放]]<rt>ㄎㄚㄧㄈㄚㄫ</rt></ruby> "be open; liberalize" (stand-in for 開)
+- <ruby>[[開放]]<rt>ㄎㄚㄧㄈㄚㄫ</rt></ruby> "be open; liberalize"
 - <ruby>[[開啓]]<rt>ㄎㄚㄧㄎㄝㄧ</rt></ruby> "open; initiate"
 - <ruby>[[開示]]<rt>ㄎㄚㄧㄍㄝ</rt></ruby> "show, reveal, indicate"
 - <ruby>[[開拓]]<rt>ㄎㄚㄧㄊㄚㄎ</rt></ruby> "open up, expand"
@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[開学]]<rt>ㄎㄚㄧㄏㄚㄎ</rt></ruby> "to start school"
 - <ruby>[[開張]]<rt>ㄎㄚㄧㄑㄚㄫ</rt></ruby> "grand opening"
 - <ruby>[[開城]]<rt>ㄎㄚㄧㄙㄧㄫ</rt></ruby> "Kaesong"
+- <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby> "open"
 
 ## Chengyu
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄧㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"

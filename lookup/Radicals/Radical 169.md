@@ -19,7 +19,7 @@ tags: [lookup]
 3. <ruby>[閉](../../characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> - shut
 
 ### +4 Strokes
-4. <ruby>[開](../../characters/開.md)<rt>ㄎㄚㄧ</rt></ruby> - open
+4. <ruby>[開](../../characters/開%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - open
 5. <ruby>[間](../../characters/間.md)<rt>ㄍㄚㄋ</rt></ruby> - between
 6. <ruby>[閏](../../characters/閏%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - intercalary
 7. <ruby>[閑](../../characters/閑.md)<rt>ㄏㄚㄋ</rt></ruby> - free time

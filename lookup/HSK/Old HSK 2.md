@@ -73,7 +73,7 @@ tags: [lookup]
 [品 (char)](characters/品%20(char).md): 10
 [小 (char)](characters/小%20(char).md): 10
 [的](characters/的.md): 10
-[开](characters/開.md): 10
+[开](characters/開%20(char).md): 10
 [及 (char)](characters/及%20(char).md): 10
 [教](characters/教.md): 10
 [接 (char)](characters/接%20(char).md): 10
@@ -205,7 +205,7 @@ tags: [lookup]
 [[越 (char)]]: 6
 
 ## 5
-[[包]]: 5
+[[包 (char)|包]]: 5
 等: 5
 [隊 (char)](../../characters/隊%20(char).md): 5
 [而 (char)](../../characters/而%20(char).md): 5
@@ -995,8 +995,8 @@ tags: [lookup]
 [嘿](../../characters/黙.md): 1
 [[恨 (char)]]: 1
 [[哼]]: 1
-[壶](../../characters/壷.md): 1
-[壺](../../characters/壷.md): 1
+[壶](../../characters/壷%20(char).md): 1
+[壺](../../characters/壷%20(char).md): 1
 [户](../../characters/戸.md): 1
 [戶](../../characters/戸.md): 1
 [划](../../characters/劃%20(char).md): 1

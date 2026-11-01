@@ -53,7 +53,7 @@ tags: [lookup]
 39. <ruby>[[割 (char)|割]]<rt>ㄍㄚㄊ</rt></ruby> - cut, divide, separate
 40. <ruby>[[創]]<rt>ㄑ⺢ㄫ</rt></ruby> - originate, establish
 41. <ruby>[[努]]<rt>ㄋㄛ</rt></ruby> - endeavor, make an effort
-42. <ruby>[[包]]<rt>ㄅ⼘ㄨ</rt></ruby> - wrap, pack
+42. <ruby>[[包 (char)|包]]<rt>ㄅ⼘ㄨ</rt></ruby> - wrap, pack
 43. <ruby>[[区]]<rt>ㄎㄨ</rt></ruby> - area, ward
 44. <ruby>[[博]]<rt>ㄅㄚㄎ</rt></ruby> - broad, extensive
 45. <ruby>[[占 (char)|占]]<rt>ㄐㄝㄇ</rt></ruby> - occupy

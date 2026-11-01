@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 311
+size: 313
 tags: [lookup]
 
 ---
@@ -22,7 +22,7 @@ Left half has 4 strokes. Dominant components: 木, 火, 礻, 月.
 - [SKIP-1-4-11](lookup/SKIP/SKIP-1/SKIP-1-4-11.md): 槻, 槽, 標, 樟, 権, 横, 璃, 膣, 膝, 膠, 鴎
 - [SKIP-1-4-12](lookup/SKIP/SKIP-1/SKIP-1-4-12.md): 橋, 橘, 樹, 樽, 橄, 橙, 燃, 燐, 璣, 膨, 膳
 - [SKIP-1-4-13](lookup/SKIP/SKIP-1/SKIP-1-4-13.md): 曖, 櫛, 檀, 燥, 燦, 燭, 牆, 犠, 環, 膿, 臆
-- [SKIP-1-4-14](lookup/SKIP/SKIP-1/SKIP-1-4-14.md): 曜, 檬, 檳, 檸, 櫂, 瓊
+- [SKIP-1-4-14](lookup/SKIP/SKIP-1/SKIP-1-4-14.md): 曜, 檬, 檳, 檸, 櫂, 櫃, 檻, 瓊
 - [SKIP-1-4-15](lookup/SKIP/SKIP-1/SKIP-1-4-15.md): 爆, 臓, 臘
 - [SKIP-1-4-16](lookup/SKIP/SKIP-1/SKIP-1-4-16.md): 朧, 騰
 - [SKIP-1-4-17](lookup/SKIP/SKIP-1/SKIP-1-4-17.md): 欄

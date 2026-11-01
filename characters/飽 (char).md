@@ -46,7 +46,7 @@ boundedness: 75
 ```
 
 ## Notes
-- 形声 (OC \*pruːʔ): semantic [[Radical 184|食]] ("food") + phonetic [[包]] (OC \*pruː, "wrap") — filled up with food, to the point of being wrapped/enclosed by it.
+- 形声 (OC \*pruːʔ): semantic [[Radical 184|食]] ("food") + phonetic [[包 (char)|包]] (OC \*pruː, "wrap") — filled up with food, to the point of being wrapped/enclosed by it.
 - [SKIP-1-8-5](../lookup/SKIP/SKIP-1/SKIP-1-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1669th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅ⼘ㄨ](../syllables/ㄅ⼘ㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

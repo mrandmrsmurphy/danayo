@@ -65,13 +65,13 @@ tags: [lookup]
 [多 (char)](../../characters/多%20(char).md): 10
 [化](../../characters/化.md): 10
 [外](../../characters/外.md): 10
-[开](../../characters/開.md): 10
-[開](../../characters/開.md): 10
+[开](../../characters/開%20(char).md): 10
+[開](../../characters/開%20(char).md): 10
 [轉](../../characters/転.md): 10
 [下 (char)](../../characters/下%20(char).md): 10
 [白 (char)](../../characters/白%20(char).md): 9
 [理](../../characters/理.md): 9
-[包](../../characters/包.md): 9
+[包](../../characters/包%20(char).md): 9
 [料](../../characters/料.md): 9
 [想](../../characters/想.md): 9
 [产](../../characters/産.md): 9

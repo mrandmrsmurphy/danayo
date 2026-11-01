@@ -146,7 +146,7 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 59. <ruby>[函](/characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> - an upside-down arrow in a quiver (to contain)
 60. <ruby>[刀](/characters/刀.md)<rt>ㄊㄚㄨ</rt></ruby> - a curved blade with a handle
 61. <ruby>[力](/characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - a bending arm, or a plough
-62. <ruby>[包](/characters/包.md)<rt>ㄅ⼘ㄨ</rt></ruby> - a fetus in the womb, or a swaddled baby
+62. <ruby>[包](/characters/包%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - a fetus in the womb, or a swaddled baby
 63. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - an ancient spoon (dagger, literary)
 64. <ruby>[升](/characters/升%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - a dipper or ladle
 65. <ruby>[午](/characters/午.md)<rt>ㄛ</rt></ruby> - a pestle (original form of 杵; borrowed for noon)
@@ -356,7 +356,7 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 269. <ruby>[同](/characters/同.md)<rt>ㄉㄛㄫ</rt></ruby> - a pipe (original form of 筒)
 270. <ruby>[周](/characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - a jade artifact with carved patterns (original form of 彫; borrowed for the Zhou name)
 271. <ruby>[商](/characters/商.md)<rt>ㄙ⼘ㄫ</rt></ruby> - origin genuinely unclear (Shang dynasty name; bound in 商業)
-272. <ruby>[壷](/characters/壷.md)<rt>ㄏㄛ</rt></ruby> - a lidded pot with loop handles
+272. <ruby>[壷](/characters/壷%20(char).md)<rt>ㄏㄛ</rt></ruby> - a lidded pot with loop handles
 273. <ruby>[失](/characters/失.md)<rt>ㄙㄧㄊ</rt></ruby> - a footprint of someone who has fallen, with blood drops (to lose)
 274. <ruby>[奈](/characters/奈.md)<rt>ㄋ⼘ㄧ</rt></ruby> - a tree upon an altar (a sacrificial ceremony)
 275. <ruby>[孕](/characters/孕.md)<rt>ㄧㄫ</rt></ruby> - a pregnant woman with a fetus inside
