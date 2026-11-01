@@ -393,7 +393,7 @@ The following prefecture names were added in 2017:
 381. [究](../../characters/究.md) : kyū , – , research ,
 382. [章 (char)](../../characters/章%20(char).md) : shō , – , chapter ,
 383. [童](../../characters/童.md) : dō , – , juvenile ,
-384. [笛](../../characters/笛.md) : teki , fue , whistle ,
+384. [笛](../../characters/笛%20(char).md) : teki , fue , whistle ,
 385. [第 (char)](../../characters/第%20(char).md) : dai ,  , ordinal number prefix ,
 386. [筆 (char)](../../characters/筆%20(char).md) : hitsu , fude , writing brush ,
 387. [等 (char)](../../characters/等%20(char).md) : tō , hito-shiǝ , class ,

@@ -1717,7 +1717,7 @@ tags: [lookup]
 [[罪 (char)]]: 1
 [[灯 (char)]]: 1
 [燈](../../characters/灯%20(char).md): 1
-[[笛]]: 1
+[[笛 (char)|笛]]: 1
 [缔](../../characters/締%20(char).md): 1
 [[締 (char)]]: 1
 [[掂]]: 1

@@ -71,4 +71,4 @@ boundedness: 90
 - <ruby>[[釉]]<rt>⼜ㄛ</rt></ruby> "glaze; enamel"
 - <ruby>[[紬]]<rt>ㄑㄨㄛ</rt></ruby> "silk"
 - <ruby>[[抽]]<rt>ㄑㄨ</rt></ruby> "pluck; extract"
-- <ruby>[[笛]]<rt>ㄉㄝㄎ</rt></ruby> "flute; whistle"
+- <ruby>[[笛 (char)|笛]]<rt>ㄉㄝㄎ</rt></ruby> "flute; whistle"

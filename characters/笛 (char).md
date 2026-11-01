@@ -28,12 +28,12 @@ hanmun_edu_level: "名"
 danayo_id: 5133
 mc_id: 0
 graphemic_classification: "由"
-stand_in: "口笛"
+stand_in: "笛"
 注音: "ㄉㄝㄎ"
 kwin: false
 tags:
   - character
-boundedness: 65
+boundedness: 70
 date-last-perfect: 2026-10-20
 ---
 ```meta-bind-embed
@@ -47,6 +47,7 @@ date-last-perfect: 2026-10-20
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
 
 ## Words
-- <ruby>[[口笛]]<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby> "whistling" (stand-in for 笛)
+- <ruby>[[口笛]]<rt>ㄎㄛㄨㄉㄝㄎ</rt></ruby> "whistling"
 - <ruby>[[風笛]]<rt>ㄈㄨㄫㄉㄝㄎ</rt></ruby> "bagpipes"
+- <ruby>[[笛]]<rt>ㄉㄝㄎ</rt></ruby> "flute"
 - <ruby>[[横笛]]<rt>ㄏ⺢ㄫㄉㄝㄎ</rt></ruby> "transverse flute"

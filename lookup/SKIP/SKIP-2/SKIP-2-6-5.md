@@ -17,7 +17,7 @@ tags: [lookup]
 5. <ruby>[票](characters/票%20(char).md)<rt>ㄆ⼘ㄨ</rt></ruby> "ballot; ticket"
 6. <ruby>[祭](/characters/祭.md)<rt>ㄐㄝ</rt></ruby> "festival"
 7. <ruby>[笙](/characters/笙.md)<rt>ㄙㄚㄫ</rt></ruby> "sheng; soo"
-8. <ruby>[笛](/characters/笛.md)<rt>ㄉㄝㄎ</rt></ruby> "flute; whistle"
+8. <ruby>[笛](/characters/笛%20(char).md)<rt>ㄉㄝㄎ</rt></ruby> "flute; whistle"
 9. <ruby>[笠](/characters/笠.md)<rt>ㄌㄧㄆ</rt></ruby> "bamboo hat"
 10. <ruby>[符](/characters/符.md)<rt>ㄅㄨ</rt></ruby> "token; ID; symbol"
 11. <ruby>[第](characters/第%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> "-th"

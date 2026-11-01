@@ -24,7 +24,7 @@ tags:
 
 ### +5 Strokes
 5. <ruby>[笙](../../characters/笙.md)<rt>ㄙㄚㄫ</rt></ruby> - sheng
-6. <ruby>[笛](../../characters/笛.md)<rt>ㄉㄝㄎ</rt></ruby> - flute
+6. <ruby>[笛](../../characters/笛%20(char).md)<rt>ㄉㄝㄎ</rt></ruby> - flute
 7. <ruby>[笠](../../characters/笠.md)<rt>ㄌㄧㄆ</rt></ruby> - bamboo hat
 8. <ruby>[符](../../characters/符.md)<rt>ㄅㄨ</rt></ruby> - token
 9. <ruby>[第](../../characters/第%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - -th

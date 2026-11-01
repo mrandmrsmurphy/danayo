@@ -298,12 +298,13 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 - <ruby>[琴](../words/琴.md)<rt>ㄍㄨㄇ</rt></ruby>: the guqin, a plucked seven-string zither — by modern extension also the general root behind "piano" (鋼琴) and other keyboard/stringed instruments.
 - <ruby>[古琴](../words/古琴.md)<rt>ㄍㄛㄍㄨㄇ</rt></ruby>: the guqin, a seven-string zither.
 - <ruby>[瑟](../words/瑟.md)<rt>ㄙㄜㄊ</rt></ruby>: the se, a larger plucked zither (25 strings), [[琴]]'s classical companion instrument — 琴瑟 together is a classical idiom for marital harmony.
-- <ruby>[鋼琴](../words/鋼琴.md)<rt>ㄍㄚㄫㄍㄨㄇ</rt></ruby>: piano.
 - <ruby>[古箏](../words/古箏.md)<rt>ㄍㄛㄐㄝㄫ</rt></ruby>: the guzheng, the long multi-stringed plucked Chinese zither — the "old 箏", ancestor of a family of East Asian zithers; the stand-in for the bound character 箏, distinct from the [[琴]] and [[瑟]] above.
 - <ruby>[提琴](../words/提琴.md)<rt>ㄙㄝㄍㄨㄇ</rt></ruby>: the violin family, bowed string instruments — a "held-up" stringed instrument played at the body or shoulder (小提琴 violin, 大提琴 cello); distinct from the table-laid zither [[琴]] (the guqin), whose name it shares in 琴.
+- <ruby>[鋼琴](../words/鋼琴.md)<rt>ㄍㄚㄫㄍㄨㄇ</rt></ruby>: piano.
 - <ruby>[琵琶](../words/琵琶.md)<rt>ㄅㄧㄅㄚ</rt></ruby>: pipa.
 - <ruby>[二胡](../words/二胡.md)<rt>ㄋㄧㄜㄏㄛㄨ</rt></ruby>: erhu.
 - <ruby>[三味線](../words/三味線.md)<rt>ㄙㄚㄇㄇㄨㄧㄙ⼶ㄋ</rt></ruby>: shamisen.
+- <ruby>[笛](../words/笛.md)<rt>ㄉㄝㄎ</rt></ruby>: flute, pipe.
 - <ruby>[横笛](../words/横笛.md)<rt>ㄏ⺢ㄫㄉㄝㄎ</rt></ruby>: transverse flute.
 - <ruby>[洞簫](../words/洞簫.md)<rt>ㄉㄛㄫㄙㄛㄨ</rt></ruby>: the xiao, an end-blown bamboo flute.
 - <ruby>[尺八](../words/尺八.md)<rt>ㄑㄝㄎㄅㄚㄊ</rt></ruby>: shakuhachi.
@@ -458,7 +459,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 
 **楷書, 行書, 草書, 隷書, 篆書 — the five scripts**: the oldest is the [[篆書]], seal script, from which came the [[隷書]], clerical script, and then the [[楷書]], regular script, the standard for print. The [[行書]], semi-cursive, and [[草書]], cursive, are the flowing hands written at speed. All five are taught in [[書法]].
 
-**横笛, 洞簫, 尺八 — three flutes**: [[横笛]] is the transverse flute, held sideways. [[洞簫]] is the Chinese end-blown bamboo flute, and [[尺八]] is its Japanese relative, the end-blown flute of shakuhachi music.
+**笛, 横笛, 洞簫, 尺八 — the flutes**: [[笛]] is the flute in general, of any build. [[横笛]] is the transverse flute, held sideways. [[洞簫]] is the Chinese end-blown bamboo flute, and [[尺八]] is its Japanese relative, the end-blown flute of shakuhachi music.
 
 ## See Also
 

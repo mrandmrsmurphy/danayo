@@ -248,7 +248,7 @@ tags: [lookup]
 234. <ruby>[[穫]]<rt>ㄏ⺢ㄎ</rt></ruby> - harvest, cut grain
 235. <ruby>[[穴]]<rt>ㄏ⼔ㄊ</rt></ruby> - cave
 236. <ruby>[[窮]]<rt>ㄍㄨㄫ</rt></ruby> - poverty
-237. <ruby>[[笛]]<rt>ㄉㄝㄎ</rt></ruby> - flute, whistle
+237. <ruby>[[笛 (char)|笛]]<rt>ㄉㄝㄎ</rt></ruby> - flute, whistle
 238. <ruby>[[符]]<rt>ㄅㄨ</rt></ruby> - token, ID, symbol
 239. <ruby>[[箱 (char)|箱]]<rt>ㄙㄚㄫ</rt></ruby> - case, box, chest
 240. <ruby>[[築]]<rt>ㄐㄨㄎ</rt></ruby> - fabricate, make, build
