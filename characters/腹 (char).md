@@ -55,6 +55,7 @@ boundedness: 80
 ## Words
 - <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby> "stomach, belly, abdomen" (stand-in for 腹)
 - <ruby>[[腹部]]<rt>ㄈㄨㄎㄅㄛㄨ</rt></ruby> "abdomen"
+- <ruby>[[空腹]]<rt>ㄎㄛㄫㄈㄨㄎ</rt></ruby> "hunger"
 
 ## Chengyu
 - <ruby>[[腹行食塵]]<rt>ㄈㄨㄎㄏㄚㄫㄙㄧㄎㄐㄧㄋ</rt></ruby> "(On your) belly (shall you) go, (and) eat dust"

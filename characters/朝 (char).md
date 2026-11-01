@@ -66,6 +66,7 @@ boundedness: 100
 - <ruby>[[陳朝]]<rt>ㄐㄧㄋㄐㄚㄨ</rt></ruby> "the Chen dynasty; the Trần dynasty of Vietnam"
 - <ruby>[[黎朝]]<rt>ㄌㄝㄧㄐㄚㄨ</rt></ruby> "the Lê dynasty of Vietnam"
 - <ruby>[[阮朝]]<rt>⼔ㄋㄐㄚㄨ</rt></ruby> "the Nguyễn dynasty of Vietnam"
+- <ruby>[[朝食]]<rt>ㄐㄚㄨㄙㄧㄎ</rt></ruby> "breakfast"
 
 ## Chengyu
 - <ruby>[[一朝一夕]]<rt>ㄧㄊㄐㄚㄨ·ㄧㄊㄙㄝㄎ</rt></ruby> "overnight, a short period of time, easy"

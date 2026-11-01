@@ -52,3 +52,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[糧]]<rt>ㄌ⼘ㄫ</rt></ruby> "provisions" (stand-in for 糧)
+- <ruby>[[食糧]]<rt>ㄙㄧㄎㄌ⼘ㄫ</rt></ruby> "food supply"

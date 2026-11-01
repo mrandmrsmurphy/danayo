@@ -51,6 +51,13 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[冷麺](../words/冷麺.md)<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby>: cold noodles — a specific dish (most famously Korean naengmyeon), though the general word "noodle" itself remains uncoined.
 - <ruby>[拉麺](../words/拉麺.md)<rt>ㄌㄚㄆㄇㄝㄋ</rt></ruby>: ramen.
 - <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.
+- <ruby>[料理](../words/料理.md)<rt>ㄌ⼘ㄨㄌㄧ</rt></ruby>: cooking, cuisine, to cook — preparing food, and so a dish or a cuisine.
+- <ruby>[食品](../words/食品.md)<rt>ㄙㄧㄎㄆㄨㄇ</rt></ruby>: food, foodstuff — food as a product, an item made or sold.
+- <ruby>[食糧](../words/食糧.md)<rt>ㄙㄧㄎㄌ⼘ㄫ</rt></ruby>: provisions — the grain and food a people or an army lives on.
+- <ruby>[主食](../words/主食.md)<rt>ㄐㄨㄙㄧㄎ</rt></ruby>: staple food — the main part of a meal, such as rice or bread.
+- <ruby>[副食](../words/副食.md)<rt>ㄈㄨㄎㄙㄧㄎ</rt></ruby>: side dish, non-staple food — what is eaten with the staple.
+- <ruby>[朝食](../words/朝食.md)<rt>ㄐㄚㄨㄙㄧㄎ</rt></ruby>: breakfast — the first meal of the day.
+- <ruby>[食材](../words/食材.md)<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby>: an ingredient — a raw material of cooking.
 - <ruby>[饗宴](../words/饗宴.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a banquet, feast — a grand formal meal, a state or ceremonial dinner; elevated in register compared with an ordinary [[膳食]] meal.
 - <ruby>[井物](../words/井物.md)<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby>: a rice-bowl dish, the general category. See Semantic Range Notes.
 
@@ -70,6 +77,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a spoon, ladle.
 - <ruby>[叉勺](../words/叉勺.md)<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby>: a spork.
 - <ruby>[串](../words/串.md)<rt>ㄐ⺢ㄇ</rt></ruby>: a skewer.
+- <ruby>[食器](../words/食器.md)<rt>ㄙㄧㄎㄎㄧㄜ</rt></ruby>: tableware — the vessels and implements food is served and eaten from.
 
 ### Cooking Techniques
 
@@ -148,6 +156,8 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[甘味](../words/甘味.md)<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby>: sweetness, sweet taste.
 - <ruby>[苦味](../words/苦味.md)<rt>ㄎㄛ·ㄇㄨㄧ</rt></ruby>: bitter taste, bitterness.
 - <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
+- <ruby>[調味料](../words/調味料.md)<rt>ㄐㄨㄛㄇㄨㄧㄌ⼘ㄨ</rt></ruby>: seasoning, condiment — a substance added to give food flavor.
+- <ruby>[美味](../words/美味.md)<rt>ㄇㄧ·ㄇㄨㄧ</rt></ruby>: delicious, delicacy — tasting very good; fine food.
 - <ruby>[粘](../words/粘.md)<rt>ㄋㄝㄇ</rt></ruby>: sticky, glutinous — the texture of glutinous rice, its own etymological source (粘米, "sticky rice").
 - <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
 - <ruby>[芥子](../words/芥子.md)<rt>ㄍㄝㄐㄜ</rt></ruby>: mustard, mustard seed — the tiny seed of the mustard plant and the pungent condiment made from it; in Japanese the same characters read からし for mustard but けし for the opium poppy.
@@ -204,6 +214,7 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[大食](../words/大食.md)<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby>: to binge eat; the same spelling is the Tajik people, listed on Geography.
 - <ruby>[暴飲](../words/暴飲.md)<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby>: to binge drink.
 - <ruby>[飢餓](../words/飢餓.md)<rt>ㄍㄧㄜㄚ</rt></ruby>: hungry, starving.
+- <ruby>[空腹](../words/空腹.md)<rt>ㄎㄛㄫㄈㄨㄎ</rt></ruby>: an empty stomach, hunger — having eaten nothing.
 - <ruby>[飢饉](../words/飢饉.md)<rt>ㄍㄧㄜㄍㄨㄋ</rt></ruby>: a famine, crop failure.
 - <ruby>[食欲](../words/食欲.md)<rt>ㄙㄧㄎ·⼄ㄎ</rt></ruby>: appetite — the desire to eat.
 

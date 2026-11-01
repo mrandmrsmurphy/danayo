@@ -75,6 +75,13 @@ boundedness: 90
 - <ruby>[[大食国]]<rt>ㄉㄚㄧㄙㄧㄎㄍㄛㄎ</rt></ruby> "Tajikistan"
 - <ruby>[[腐食]]<rt>ㄆㄨㄙㄧㄎ</rt></ruby> "corrosion"
 - <ruby>[[食道]]<rt>ㄙㄧㄎㄉㄚㄨ</rt></ruby> "esophagus"
+- <ruby>[[食品]]<rt>ㄙㄧㄎㄆㄨㄇ</rt></ruby> "food"
+- <ruby>[[食糧]]<rt>ㄙㄧㄎㄌ⼘ㄫ</rt></ruby> "food supply"
+- <ruby>[[主食]]<rt>ㄐㄨㄙㄧㄎ</rt></ruby> "staple food"
+- <ruby>[[副食]]<rt>ㄈㄨㄎㄙㄧㄎ</rt></ruby> "side dish"
+- <ruby>[[食器]]<rt>ㄙㄧㄎㄎㄧㄜ</rt></ruby> "tableware"
+- <ruby>[[朝食]]<rt>ㄐㄚㄨㄙㄧㄎ</rt></ruby> "breakfast"
+- <ruby>[[食材]]<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby> "ingredient"
 
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"

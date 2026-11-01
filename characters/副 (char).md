@@ -59,3 +59,4 @@ boundedness: 90
 - <ruby>[[副業]]<rt>ㄈㄨㄎ·ㄝㄆ</rt></ruby> "side job, second job"
 - <ruby>[[副用]]<rt>ㄈㄨㄎ·⼄ㄫ</rt></ruby> "auxiliary"
 - <ruby>[[副金]]<rt>ㄈㄨㄎㄍㄧㄇ</rt></ruby> "protactinium"
+- <ruby>[[副食]]<rt>ㄈㄨㄎㄙㄧㄎ</rt></ruby> "side dish"
