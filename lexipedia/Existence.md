@@ -216,6 +216,7 @@ A real cluster in classical and religious usage, not force-differentiated where 
 - <ruby>[類似](../words/類似.md)<rt>ㄌㄨㄧㄙㄚ</rt></ruby>: to resemble, similar, analogous.
 - <ruby>[彷彿](../words/彷彿.md)<rt>ㄆㄚㄫㄈㄨㄊ</rt></ruby>: to resemble, seem like; as if, seemingly — a faint, impressionistic resemblance, closer to "as if" than to [[類似]]'s plain "similar"; the stand-in for the bound character 彿.
 - <ruby>[型式](../words/型式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: model, type, pattern — classification by kind, as with a product's model number.
+- <ruby>[形式](../words/形式.md)<rt>ㄏㄝㄫㄙㄧㄎ</rt></ruby>: form, format — the visible shape of a thing, and form as opposed to content; not [[型式]], a model or type.
 - <ruby>[相対](../words/相対.md)<rt>ㄙㄚㄫㄉㄛㄧ</rt></ruby>: relative, opposite — existence and identity considered relationally rather than absolutely.
 - <ruby>[抽象](../words/抽象.md)<rt>ㄑㄨㄙ⼘ㄫ</rt></ruby>: abstract, abstraction — drawn out from particulars into a general idea; the opposite of [[具体]] (on [[Mind]]).
 - <ruby>[唯一](../words/唯一.md)<rt>⼶ㄧ·ㄧㄊ</rt></ruby>: only, sole, unique — the single one there is; counts members of a class, where [[独特]] describes character.
