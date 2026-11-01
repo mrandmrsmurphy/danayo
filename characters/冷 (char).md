@@ -64,3 +64,4 @@ boundedness: 65
 - <ruby>[[冷笑]]<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby> "to sneer, to laugh coldly"
 - <ruby>[[冷静]]<rt>ㄌㄚㄫㄐㄝㄫ</rt></ruby> "calm"
 - <ruby>[[冷淡]]<rt>ㄌㄚㄫㄉㄚㄇ</rt></ruby> "indifferent"
+- <ruby>[[冷酷]]<rt>ㄌㄚㄫㄎㄛㄎ</rt></ruby> "heartless"

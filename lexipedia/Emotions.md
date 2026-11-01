@@ -8,19 +8,27 @@ related_domains:
   - "[[Society]]"
   - "[[Conflict]]"
   - "[[Body]]"
+  - "[[Art]]"
+  - "[[Love]]"
+  - "[[Speech]]"
+  - "[[Sensation]]"
+  - "[[Knowledge]]"
 status: partial
-date-last-perfect: 2026-09-28
+date-last-perfect: 2026-10-31
 ---
 
 # Emotions
 
-Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy). Several basic terms (alarm, bore, caution, delight, disgust, eager, experience, horror, misery, nervous, pain, pity, pleasant, pleasure, relax, relief, satisfy, sorry) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy), the words for admiration, contempt and endurance, and the traits of temperament and character. Four words here — [[落胆]], [[我慢]], [[得意]] and [[感心]] — mean different things in different source languages; they are given in their Dan'a'yo sense and listed on [[文法 - 91疑義語]].
 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[気分](../words/気分.md)<rt>ㄎㄧㄜㄅㄨㄋ</rt></ruby>: mood, feeling.
 - <ruby>[雰囲気](../words/雰囲気.md)<rt>ㄈㄨㄋ·ㄨㄧ·ㄎㄧㄜ</rt></ruby>: atmosphere, mood, ambiance — the overall feeling a place, gathering or situation gives off; the felt tone of surroundings, where [[気分]] is a person's own mood.
+- <ruby>[雰囲](../words/雰囲.md)<rt>ㄈㄨㄋ·ㄨㄧ</rt></ruby>: mood; atmosphere; ambience.
+- <ruby>[心情](../words/心情.md)<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby>: mood; frame of mind.
 - <ruby>[気](../words/気.md)<rt>ㄎㄧㄜ</rt></ruby>: feeling, spirit, energy — the broader bound root behind [[気分]]'s specific "mood" (also 元気, "vigor"; 空気, "air"); distinct from its sibling compound [[気息]]'s own separate "vital-breath" sense, housed on [[Religion]] instead.
+- <ruby>[感情](../words/感情.md)<rt>ㄍㄚㄇㄑㄧㄫ</rt></ruby>: emotions, feeling.
 - <ruby>[幸福](../words/幸福.md)<rt>ㄏㄚㄫㄈㄨㄎ</rt></ruby>: happy, blessed.
 - <ruby>[悲](../words/悲.md)<rt>ㄅㄧㄜ</rt></ruby>: to be sad.
 - <ruby>[周章](../words/周章.md)<rt>ㄐㄨㄛㄐㄚㄫ</rt></ruby>: troubled, flustered.
@@ -34,7 +42,6 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[単身](../words/単身.md)<rt>ㄉㄚㄋㄙㄧㄋ</rt></ruby>: alone, single, unaccompanied (単身赴任).
 - <ruby>[幽](../words/幽.md)<rt>⼜ㄛ</rt></ruby>: quiet, secluded, dark — a place's own quality of tranquil seclusion (幽玄, a key Japanese aesthetic concept), not [[孤独]]'s personal feeling of loneliness.
 - <ruby>[恨](../words/恨.md)<rt>ㄏㄚㄋ</rt></ruby>: to hate; a grudge.
-- <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>: to entertain, amuse oneself.
 - <ruby>[不安](../words/不安.md)<rt>ㄅㄛㄊ·ㄚㄋ</rt></ruby>: anxiety, unease, insecurity.
 - <ruby>[恥辱](../words/恥辱.md)<rt>ㄑㄧ·ㄋㄛㄎ</rt></ruby>: disgrace, shame.
 
@@ -45,7 +52,6 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[欣喜](../words/欣喜.md)<rt>ㄏㄧㄋㄏㄧ</rt></ruby>, <ruby>[歓喜](../words/歓喜.md)<rt>ㄏ⺢ㄋㄏㄧ</rt></ruby>: happy, joyful, pleased.
 - <ruby>[愉快](../words/愉快.md)<rt>⼜ㄇㄎ⺢ㄧ</rt></ruby>: happy, pleasant, enjoyable.
 - <ruby>[快楽](../words/快楽.md)<rt>ㄎ⺢ㄧㄌㄚㄎ</rt></ruby>: cheerful, pleasurable.
-- <ruby>[感情](../words/感情.md)<rt>ㄍㄚㄇㄑㄧㄫ</rt></ruby>: emotions, feeling.
 - <ruby>[痛快](../words/痛快.md)<rt>ㄊㄛㄫㄎ⺢ㄧ</rt></ruby>: joyful, thoroughly satisfying, exhilarating.
 - <ruby>[爽快](../words/爽快.md)<rt>ㄙ⺢ㄫㄎ⺢ㄧ</rt></ruby>: refreshing, invigorating — the clean, light feeling of being refreshed (cool air after a stuffy room, a problem solved); a pleasant sensation more than [[痛快]]'s thorough satisfaction; the stand-in for the bound character 爽.
 - <ruby>[発剌](../words/発剌.md)<rt>ㄈㄚㄊㄌㄚㄊ</rt></ruby>: lively, vivacious — full of energy and spirit, a fish or a person springing with vigour; most familiar as Japanese はつらつ, where the common spelling is 溌剌 (see its aliases).
@@ -54,6 +60,26 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[台悦](../words/台悦.md)<rt>ㄉㄚㄧ⼶ㄊ</rt></ruby>: happy, pleased, joyful.
 - <ruby>[踊躍](../words/踊躍.md)<rt>⼄ㄫ⼘ㄎ</rt></ruby>, <ruby>[雀躍](../words/雀躍.md)<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby>: to leap, jump for joy.
 - <ruby>[歓呼](../words/歓呼.md)<rt>ㄏ⺢ㄋㄏㄛ</rt></ruby>: to hail, cheer.
+- <ruby>[狂喜](../words/狂喜.md)<rt>ㄍ⺢ㄫㄏㄧ</rt></ruby>: ecstasy — joy so great it is wild.
+- <ruby>[微笑](../words/微笑.md)<rt>ㄇㄨㄧㄙ⼄ㄨ</rt></ruby>: a smile — a slight, quiet laugh.
+- <ruby>[笑顔](../words/笑顔.md)<rt>ㄙ⼄ㄨㄚㄋ</rt></ruby>: a smiling face — the happy look of one who smiles.
+
+### Ardor & Excitement
+
+- <ruby>[興奮](../words/興奮.md)<rt>ㄏㄜㄫㄈㄨㄋ</rt></ruby>: excitement; excited.
+- <ruby>[熱烈](../words/熱烈.md)<rt>ㄋ⼶ㄊㄌㄝㄊ</rt></ruby>: avid; fervent.
+- <ruby>[慷慨](../words/慷慨.md)<rt>ㄎㄚㄫㄎㄚㄧ</rt></ruby>: impassioned, vehement, fervent.
+- <ruby>[昂揚](../words/昂揚.md)<rt>ㄚㄫ⼘ㄫ</rt></ruby>: high-spirited, exalted.
+- <ruby>[激昂](../words/激昂.md)<rt>ㄍㄝㄎ·ㄚㄫ</rt></ruby>: to be roused — stirred to high, intense feeling, in anger or in passion.
+- <ruby>[陶酔](../words/陶酔.md)<rt>ㄉㄚㄨㄐㄨㄧ</rt></ruby>: rapture, intoxication — carried away by beauty, music or success.
+- <ruby>[振](../words/振.md)<rt>ㄐㄧㄋ</rt></ruby>: to shake; to excite, rouse (figurative).
+
+### Amusement & Interest
+
+- <ruby>[娯楽](../words/娯楽.md)<rt>ㄛㄌㄚㄎ</rt></ruby>: to entertain, amuse oneself.
+- <ruby>[可笑](../words/可笑.md)<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby>: funny; amusing; ridiculous.
+- <ruby>[有趣](../words/有趣.md)<rt>⼜ㄑㄨ</rt></ruby>: interesting; amusing; fascinating.
+- <ruby>[無聊](../words/無聊.md)<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby>: boring; bored; tedious.
 
 ### Sadness & Grief
 
@@ -73,6 +99,8 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[唉](../words/唉.md)<rt>ㄚㄧ</rt></ruby>: alas — an archaic interjection of lament.
 - <ruby>[惜](../words/惜.md)<rt>ㄙㄝㄎ</rt></ruby>: to begrudge, rue — regret at losing or parting with something (惜別, "regret at parting").
 - <ruby>[後悔](../words/後悔.md)<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>: to regret.
+- <ruby>[遺憾](../words/遺憾.md)<rt>⼶ㄧㄏㄚㄇ</rt></ruby>: regrettable; pitiable.
+- <ruby>[無然](../words/無然.md)<rt>ㄇㄜ·ㄋ⼶ㄋ</rt></ruby>: disappointed; in low spirits.
 - <ruby>[失望](../words/失望.md)<rt>ㄙㄧㄊㄇㄚㄫ</rt></ruby>: to be disappointed — to lose hope; an expectation unmet, the reverse of [[希望]].
 - <ruby>[落胆](../words/落胆.md)<rt>ㄌㄚㄎㄉㄚㄇ</rt></ruby>: to lose heart, disappointment — disappointed and discouraged when hope fails; Japanese sense (Mandarin 落膽 is an obsolete word for fear; see [[文法 - 91疑義語]]).
 
@@ -82,12 +110,11 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[怒気](../words/怒気.md)<rt>ㄋㄛ·ㄎㄧㄜ</rt></ruby>: anger.
 - <ruby>[憤怒](../words/憤怒.md)<rt>ㄅㄨㄋㄋㄛ</rt></ruby>: indignant, angry.
 - <ruby>[暴怒](../words/暴怒.md)<rt>ㄅㄛㄎㄋㄛ</rt></ruby>: rage.
+- <ruby>[震怒](../words/震怒.md)<rt>ㄐㄧㄋㄋㄛ</rt></ruby>: furious.
 - <ruby>[憤慨](../words/憤慨.md)<rt>ㄅㄨㄋㄎㄚㄧ</rt></ruby>: indignant, resentful, outraged.
 - <ruby>[憤満](../words/憤満.md)<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby>: pent-up anger, resentment — indignation that fills a person with no release; the real-world spelling is 憤懣 (see its aliases).
-- <ruby>[慷慨](../words/慷慨.md)<rt>ㄎㄚㄫㄎㄚㄧ</rt></ruby>: impassioned, vehement, fervent.
-- <ruby>[昂揚](../words/昂揚.md)<rt>ㄚㄫ⼘ㄫ</rt></ruby>: high-spirited, exalted.
 - <ruby>[激怒](../words/激怒.md)<rt>ㄍㄝㄎㄋㄛ</rt></ruby>: to anger, enrage.
-- <ruby>[激昂](../words/激昂.md)<rt>ㄍㄝㄎ·ㄚㄫ</rt></ruby>: to be roused — stirred to high, intense feeling, in anger or in passion.
+- <ruby>[遷怒](../words/遷怒.md)<rt>ㄑㄝㄋㄋㄛ</rt></ruby>: vent anger; take it out on.
 - <ruby>[悲憤](../words/悲憤.md)<rt>ㄅㄧㄜㄅㄨㄋ</rt></ruby>: grief and indignation — anger full of sorrow, at a wrong one cannot undo.
 - <ruby>[悩](../words/悩.md)<rt>ㄋㄚㄨ</rt></ruby>: angered, mad.
 - <ruby>[煩](../words/煩.md)<rt>ㄈㄛㄇ</rt></ruby>: troublesome, annoying, vexing — a much milder irritation than [[憤怒]]/[[激怒]]'s real anger (煩悩, "vexation, worldly care"; 麻煩, "a bother, a nuisance").
@@ -110,7 +137,13 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[衝撃](../words/衝撃.md)<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby>: shock, impact — the sudden hard blow of bad news or violence.
 - <ruby>[戦慄](../words/戦慄.md)<rt>ㄐㄝㄋㄌㄧㄊ</rt></ruby>: a shudder, terror — fear that has reached the body, stronger than [[恐怖]].
 - <ruby>[困惑](../words/困惑.md)<rt>ㄎㄛㄋㄏㄛㄎ</rt></ruby>: perplexity, to be bewildered — at a loss what to think or do.
+- <ruby>[狼狽](../words/狼狽.md)<rt>ㄌㄚㄫㄅㄚㄧ</rt></ruby>: flustered, in disarray — thrown into confusion; the same characters name a legendary wolf-like beast with short forelegs in classical Chinese.
 - <ruby>[寿着](../words/寿着.md)<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby>: to hesitate, waver — to pause before acting, unable to decide; the real-world spelling is 躊躇 (see its aliases).
+
+### Worry & Care
+
+- <ruby>[憂慮](../words/憂慮.md)<rt>⼜ㄌ⼄</rt></ruby>, <ruby>[焦思](../words/焦思.md)<rt>ㄐㄛㄨㄙㄚ</rt></ruby>: to worry, be anxious.
+- <ruby>[操心](../words/操心.md)<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby>: careful; cautious; to worry about.
 
 ### Hatred, Resentment & Jealousy
 
@@ -132,6 +165,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[慙愧](../words/慙愧.md)<rt>ㄐㄚㄇㄍㄨㄧ</rt></ruby>: ashamed.
 - <ruby>[無恥](../words/無恥.md)<rt>ㄇㄜㄑㄧ</rt></ruby>: shameless, brazen — lacking the Confucian sense of shame; most at home in 厚顔無恥.
 - <ruby>[厚顔](../words/厚顔.md)<rt>ㄏㄛㄨㄚㄋ</rt></ruby>: brazen-faced, shameless.
+- <ruby>[羞辱](../words/羞辱.md)<rt>ㄙㄨㄛㄋㄛㄎ</rt></ruby>: humiliate.
 
 ### Desire & Longing
 
@@ -149,6 +183,8 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[熱望](../words/熱望.md)<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby>: fervent hope — a wish held with heat.
 - <ruby>[執着](../words/執着.md)<rt>ㄐㄧㄆㄐ⺢ㄎ</rt></ruby>: to cling, obsession — to hold fast and not let go; in Buddhism the clinging that binds.
 - <ruby>[熱中](../words/熱中.md)<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby>: to be absorbed in — to throw oneself eagerly into a pursuit.
+- <ruby>[鰭好](../words/鰭好.md)<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby>: a taste, hobby — a thing one is fond of and indulges in; the real-world spelling is 嗜好 (see its aliases).
+- <ruby>[夢中](../words/夢中.md)<rt>ㄇㄨㄫㄐㄨㄫ</rt></ruby>: absorbed, off in another world — so taken up with something as to be unaware of the rest.
 - <ruby>[貪欲](../words/貪欲.md)<rt>ㄊㄚㄇ·⼄ㄎ</rt></ruby>: greed — desire that wants more than it needs.
 - <ruby>[野心](../words/野心.md)<rt>⼘ㄙㄧㄇ</rt></ruby>: ambition — a strong wish to rise to power or success.
 
@@ -160,13 +196,16 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[平穏](../words/平穏.md)<rt>ㄅ⼶ㄫㄛㄋ</rt></ruby>, <ruby>[平静](../words/平静.md)<rt>ㄅ⼶ㄫㄐㄝㄫ</rt></ruby>: calm, serene, peaceful.
 - <ruby>[和平](../words/和平.md)<rt>ㄏ⺢ㄅ⼶ㄫ</rt></ruby>: peaceful.
 - <ruby>[泰然](../words/泰然.md)<rt>ㄊㄚㄧㄋ⼶ㄋ</rt></ruby>: calm, composed, unruffled.
-- <ruby>[寂寞](../words/寂寞.md)<rt>ㄐㄝㄎㄇㄚㄎ</rt></ruby>: lonely, desolate.
 - <ruby>[冷静](../words/冷静.md)<rt>ㄌㄚㄫㄐㄝㄫ</rt></ruby>: calm, composed — calm by thought; not carried away by feeling.
 - <ruby>[沈着](../words/沈着.md)<rt>ㄑㄧㄇㄐ⺢ㄎ</rt></ruby>: composed, unruffled — staying steady when things go wrong.
 - <ruby>[沈静](../words/沈静.md)<rt>ㄑㄧㄇㄐㄝㄫ</rt></ruby>: calm and quiet — a settled, still state, or growing calm after agitation.
 - <ruby>[悠然](../words/悠然.md)<rt>⼜ㄛㄋ⼶ㄋ</rt></ruby>: unhurried, serene — calm and carefree, in no haste.
 - <ruby>[自若](../words/自若.md)<rt>ㄐㄧㄜㄋ⼘</rt></ruby>: self-possessed — unmoved by what happens, most at home in 泰然自若.
 - <ruby>[安堵](../words/安堵.md)<rt>ㄚㄋㄉㄛ</rt></ruby>: relief — the easing of the mind when a worry has passed.
+- <ruby>[自在](../words/自在.md)<rt>ㄐㄧㄜㄐㄚㄧ</rt></ruby>: comfortable; carefree; adjustable.
+- <ruby>[逍遥](../words/逍遥.md)<rt>ㄙ⼄ㄨ⼄ㄨ</rt></ruby>: free and unfettered; carefree; untroubled.
+- <ruby>[雍雍](../words/雍雍.md)<rt>ㄛㄫㄛㄫ</rt></ruby>: harmonious.
+- <ruby>[寂寞](../words/寂寞.md)<rt>ㄐㄝㄎㄇㄚㄎ</rt></ruby>: lonely, desolate.
 
 ### Satisfaction & Contentment
 
@@ -194,6 +233,8 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[寛容](../words/寛容.md)<rt>ㄎ⺢ㄋ·⼄ㄫ</rt></ruby>: tolerant, magnanimous — generous in putting up with others' faults.
 - <ruby>[冷淡](../words/冷淡.md)<rt>ㄌㄚㄫㄉㄚㄇ</rt></ruby>: indifferent, aloof — cold and uninterested; the lack of feeling.
 - <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚ·ㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
+- <ruby>[残酷](../words/残酷.md)<rt>ㄐㄚㄋㄎㄛㄎ</rt></ruby>: cruel — harsh and merciless toward the weak.
+- <ruby>[冷酷](../words/冷酷.md)<rt>ㄌㄚㄫㄎㄛㄎ</rt></ruby>: heartless — cold and hard, without feeling for others' pain.
 - <ruby>[辣](../words/辣.md)<rt>ㄌㄚㄊ</rt></ruby>: spicy, hot; cruel (figurative).
 - <ruby>[惨](../words/惨.md)<rt>ㄑㄚㄇ</rt></ruby>: wretched, cruel.
 - <ruby>[凄惨](../words/凄惨.md)<rt>ㄑㄝㄧㄑㄚㄇ</rt></ruby>: miserable.
@@ -236,39 +277,18 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[自信](../words/自信.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>: self-confidence — trust in one's own ability.
 - <ruby>[良心](../words/良心.md)<rt>ㄌ⼘ㄫㄙㄧㄇ</rt></ruby>: conscience — the inner sense of what is right.
 
-### Not Yet Coined
+### Character & Temperament
 
-Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, delight, disgust, eager, experience, horror, misery, nervous, pain (as a standalone noun), pity, pleasant, pleasure, relax, relief, satisfy (as a verb), sorry.
+- <ruby>[気質](../words/気質.md)<rt>ㄎㄧㄜㄐㄧㄊ</rt></ruby>: temperament — the lasting inborn cast of a person's feelings.
+- <ruby>[性格](../words/性格.md)<rt>ㄙㄧㄫㄍㄚㄎ</rt></ruby>: personality — the whole set of a person's lasting ways of feeling and acting.
 
 ## Advanced / Specialized (C1+)
 
 - <ruby>[瘋顚](../words/瘋顚.md)<rt>ㄈㄜㄫㄉㄝㄋ</rt></ruby>: insane, crazy, mad.
-- <ruby>[振](../words/振.md)<rt>ㄐㄧㄋ</rt></ruby>: to shake; to excite, rouse (figurative).
 - <ruby>[情態](../words/情態.md)<rt>ㄑㄧㄫㄊㄚㄧ</rt></ruby>: mood.
 - <ruby>[衷情](../words/衷情.md)<rt>ㄊㄨㄫㄑㄧㄫ</rt></ruby>: heartfelt emotion, inner feelings.
 - <ruby>[七情](../words/七情.md)<rt>ㄑㄧㄊㄑㄧㄫ</rt></ruby>: the Seven Emotions — a foundational East Asian philosophical/medical enumeration of basic emotional states, with the exact seven differing by tradition (Confucian, Buddhist, TCM); central to Korea's Four-Seven Debate.
-- <ruby>[憂慮](../words/憂慮.md)<rt>⼜ㄌ⼄</rt></ruby>, <ruby>[焦思](../words/焦思.md)<rt>ㄐㄛㄨㄙㄚ</rt></ruby>: to worry, be anxious.
 - <ruby>[憫](../words/憫.md)<rt>ㄇㄧㄋ</rt></ruby>: pity (formal/literary register).
-
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[可笑](../words/可笑.md)<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby>: funny; amusing; ridiculous.
-- <ruby>[操心](../words/操心.md)<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby>: careful; cautious; to worry about.
-- <ruby>[有趣](../words/有趣.md)<rt>⼜ㄑㄨ</rt></ruby>: interesting; amusing; fascinating.
-- <ruby>[無然](../words/無然.md)<rt>ㄇㄜ·ㄋ⼶ㄋ</rt></ruby>: disappointed; in low spirits.
-- <ruby>[無聊](../words/無聊.md)<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby>: boring; bored; tedious.
-- <ruby>[熱烈](../words/熱烈.md)<rt>ㄋ⼶ㄊㄌㄝㄊ</rt></ruby>: avid; fervent.
-- <ruby>[狼狽](../words/狼狽.md)<rt>ㄌㄚㄫㄅㄚㄧ</rt></ruby>: werewolf; flustering; confusion.
-- <ruby>[羞辱](../words/羞辱.md)<rt>ㄙㄨㄛㄋㄛㄎ</rt></ruby>: humiliate.
-- <ruby>[自在](../words/自在.md)<rt>ㄐㄧㄜㄐㄚㄧ</rt></ruby>: comfortable; carefree; adjustable.
-- <ruby>[逍遥](../words/逍遥.md)<rt>ㄙ⼄ㄨ⼄ㄨ</rt></ruby>: free and unfettered; carefree; untroubled.
-- <ruby>[遷怒](../words/遷怒.md)<rt>ㄑㄝㄋㄋㄛ</rt></ruby>: vent anger; take it out on.
-- <ruby>[遺憾](../words/遺憾.md)<rt>⼶ㄧㄏㄚㄇ</rt></ruby>: regrettable; pitiable.
-- <ruby>[雍雍](../words/雍雍.md)<rt>ㄛㄫㄛㄫ</rt></ruby>: harmonious.
-- <ruby>[雰囲](../words/雰囲.md)<rt>ㄈㄨㄋ·ㄨㄧ</rt></ruby>: mood; atmosphere; ambience.
-- <ruby>[震怒](../words/震怒.md)<rt>ㄐㄧㄋㄋㄛ</rt></ruby>: furious.
-- <ruby>[心情](../words/心情.md)<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby>: mood; frame of mind.
-- <ruby>[興奮](../words/興奮.md)<rt>ㄏㄜㄫㄈㄨㄋ</rt></ruby>: excitement; excited.
 
 ## Semantic Range Notes
 
@@ -278,6 +298,38 @@ Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, delight, disg
 
 **畏 spans fear and reverence at once**: unlike the other fear-words here, which are purely negative, 畏 covers the same ground as English "awe" — dread and reverence together, the same feeling toward something both frightening and worthy of respect.
 
+**悲哀, 悲嘆, 哀愁, 憂欝, 感傷, 郷愁 — six kinds of sadness**: [[悲哀]] is the quiet, lasting sorrow at the lot of human life, and [[悲嘆]] is grief loud enough to be voiced. [[哀愁]] is a gentle pathos with longing in it, and [[郷愁]] is that longing given a place or a past, homesickness. [[感傷]] is sadness felt because one is moved, often pleasant and self-indulgent, and [[憂欝]] is a heavy, gloomy mood with no single cause. The usual spelling of 憂欝 is 憂鬱, which is an alias.
+
+**冷静, 沈着, 沈静, 悠然, 自若, 泰然 — six kinds of calm**: [[冷静]] is calm by thought, not carried away by feeling. [[沈着]] is calm that holds when things go wrong, and [[自若]] is calm shown in the face of danger, most at home in 泰然自若. [[泰然]] is calm of bearing, [[沈静]] is calm as a settled state, and [[悠然]] is calm as leisure, in no haste.
+
+**驚異, 驚愕, 衝撃, 喫驚, 戦慄 — the steps of surprise**: [[喫驚]] is the plain start, and [[驚異]] is wonder at something extraordinary, the pleasant side of surprise. [[驚愕]] is being struck dumb, stronger than either, and [[衝撃]] is the blow of shock, bad news or violence. [[戦慄]] is fear that has reached the body, a shudder.
+
+**渇望, 切望, 願望, 熱望 — degrees of wanting**: [[願望]] is a wish, the quiet hope. [[熱望]] is hope held with heat, [[切望]] is wishing with urgency, and [[渇望]] is a thirst that is hard to bear, the strongest. The greedy extreme is [[貪欲]], and a wish with a goal is the [[野心]], ambition.
+
+**軽蔑, 蔑視, 侮蔑 — contempt in three forms**: [[軽蔑]] is the feeling, cold and settled. [[蔑視]] is that feeling shown in the gaze, looking down on someone, and [[侮蔑]] is contempt made public, an insult that is heard. All three build on the bound root [[蔑]].
+
+**残酷 vs. 冷酷 — harsh and cold**: [[残酷]] is cruelty by harshness, merciless toward the weak, and [[冷酷]] is cruelty by coldness, a heart with no feeling for others' pain. The milder [[苛酷]] is severe, and the cold-but-not-cruel is [[冷淡]], indifferent.
+
+**気質 vs. 性格 — inborn and whole**: [[気質]] is temperament, the lasting inborn cast of a person's feelings. [[性格]] is the whole character built on it, including what experience adds. A single trait is a word like [[温厚]], gentle, or [[寛容]], tolerant.
+
+**落胆, 我慢, 得意, 感心 — four words whose senses split**: each is common to several source languages but means something different in some of them. [[落胆]] is "disappointment" in Japanese and an obsolete "overwhelmed by fear" in Chinese. [[我慢]] is "endurance" in Japanese and the Buddhist "arrogance" in Chinese and Korean. [[得意]] is "proud, triumphant" in Japanese, Korean and Mandarin (where it is often "smug") but also "skilled" in Japanese. [[感心]] is "admiration" in Japanese and "touching" in literary Mandarin. Dan'a'yo takes the sense given for each here, and [[文法 - 91疑義語]] names a safer word.
+
 ## See Also
 
-*(No related domains linked yet — none of the vault's other lexipedia pages currently share enough vocabulary with this one to justify a formal cross-reference.)*
+**Related domains**:
+- [[Mind]] — [[気]] and [[感情]] here are the feeling side of what Mind treats as thought and will.
+- [[Sin]] — [[貪欲]], greed, [[傲慢]], haughtiness, and [[嫉妬]], jealousy, are emotions that Sin treats as faults.
+- [[Society]] — [[敬意]], respect, and [[恥辱]], disgrace, are feelings that depend on one's standing among others.
+- [[Conflict]] — [[反抗]], resistance, [[憎悪]], hatred, and [[軽蔑]], contempt, are the emotions that lead to the acts on that page.
+- [[Body]] — the bodily expressions of feeling, [[涙]], tears, and [[笑]], laughing, are covered there; their emotional causes are here.
+- [[Art]] — [[鑑賞]], appreciation, and [[霊感]], inspiration, are the feelings that art calls up and answers.
+- [[Love]] — [[愛情]], affection, and [[思慕]], longing, overlap with the desire words here.
+- [[Speech]] — [[悲鳴]], a scream, and [[怒号]], a roar of anger, are cries on the boundary of speech.
+- [[Sensation]] — [[爽快]], the clean feeling of being refreshed, sits between bodily sensation and mood.
+- [[Knowledge]] — [[好奇心]], curiosity, is covered there; its emotional follow-through is [[熱中]], absorption, and [[夢中]], being off in another world.
+
+**Idiomatic uses**:
+- [[喜怒哀楽]] — "joy, anger, sorrow, pleasure," the four basic feelings of a person.
+- [[欣喜雀躍]] — "leaping with joy," the bodily expression of the happiness words above.
+- [[厚顔無恥]] — "thick-faced and shameless," the standard phrase for the brazen, built on [[厚顔]] and [[無恥]].
+- [[戦戦恐恐]] — "trembling and fearful," the reduplicated phrase for dread.

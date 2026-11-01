@@ -73,3 +73,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[蘇格蘭]]<rt>ㄙㄛㄍㄚㄎㄌㄚㄋ</rt></ruby> "Scotland"
 - <ruby>[[合格]]<rt>ㄍㄛㄆㄍㄚㄎ</rt></ruby> "pass"
 - <ruby>[[格差]]<rt>ㄍㄚㄎㄑㄚ</rt></ruby> "gap"
+- <ruby>[[性格]]<rt>ㄙㄧㄫㄍㄚㄎ</rt></ruby> "personality"

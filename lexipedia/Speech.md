@@ -7,6 +7,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Conflict]]"
   - "[[Art]]"
+  - "[[Emotions]]"
 status: partial
 ---
 

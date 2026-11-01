@@ -62,3 +62,4 @@ boundedness: 50
 - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby> "dream" (stand-in for 夢)
 - <ruby>[[夢嫌]]<rt>ㄇㄨㄫㄏㄝㄇ</rt></ruby> "nightmare"
 - <ruby>[[白日夢]]<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby> "daydream"
+- <ruby>[[夢中]]<rt>ㄇㄨㄫㄐㄨㄫ</rt></ruby> "absorbed"

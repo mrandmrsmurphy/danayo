@@ -57,6 +57,8 @@ boundedness: 80
 - <ruby>[[嘲笑]]<rt>ㄑㄚㄨㄙ⼄ㄨ</rt></ruby> "to ridicule; to mock; to deride; to jeer at"
 - <ruby>[[可笑]]<rt>ㄎㄜㄙ⼄ㄨ</rt></ruby> "funny, amusing; ridiculous, laughable"
 - <ruby>[[冷笑]]<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby> "to sneer, to laugh coldly"
+- <ruby>[[微笑]]<rt>ㄇㄨㄧㄙ⼄ㄨ</rt></ruby> "smile"
+- <ruby>[[笑顔]]<rt>ㄙ⼄ㄨㄚㄋ</rt></ruby> "smiling face"
 
 ## Chengyu
 - <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to guffaw, to laugh heartily and loudly"

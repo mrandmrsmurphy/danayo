@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[残]]<rt>ㄐㄚㄋ</rt></ruby> "remaining, not broken off" (stand-in for 残)
 - <ruby>[[残害]]<rt>ㄐㄚㄋㄏㄚㄧ</rt></ruby> "damage, harm"
+- <ruby>[[残酷]]<rt>ㄐㄚㄋㄎㄛㄎ</rt></ruby> "cruel"

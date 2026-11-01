@@ -11,6 +11,7 @@ related_domains:
   - "[[Society]]"
   - "[[Conflict]]"
   - "[[Religion]]"
+  - "[[Emotions]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

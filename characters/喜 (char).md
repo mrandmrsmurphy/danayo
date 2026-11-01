@@ -65,6 +65,7 @@ boundedness: 90
 - <ruby>[[恭喜]]<rt>ㄍ⼄ㄫㄏㄧ</rt></ruby> "congratulations"
 - <ruby>[[恭喜発財]]<rt>ㄍ⼄ㄫㄏㄧㄈㄚㄊㄐㄚㄧ</rt></ruby> "happy new years"
 - <ruby>[[喜劇]]<rt>ㄏㄧㄍㄝㄎ</rt></ruby> "comedy"
+- <ruby>[[狂喜]]<rt>ㄍ⺢ㄫㄏㄧ</rt></ruby> "ecstasy"
 
 ## Chengyu
 - <ruby>[[喜怒哀楽]]<rt>ㄏㄧ·ㄋㄛㄚㄧㄌㄚㄎ</rt></ruby> "the full range of human emotion"

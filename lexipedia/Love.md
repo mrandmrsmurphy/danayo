@@ -6,6 +6,7 @@ related_domains:
   - "[[Kinship]]"
   - "[[Society]]"
   - "[[Body]]"
+  - "[[Emotions]]"
 status: partial
 ---
 

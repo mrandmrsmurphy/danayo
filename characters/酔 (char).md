@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[酔]]<rt>ㄐㄨㄧ</rt></ruby> "drunk" (stand-in for 酔)
+- <ruby>[[陶酔]]<rt>ㄉㄚㄨㄐㄨㄧ</rt></ruby> "intoxication"
