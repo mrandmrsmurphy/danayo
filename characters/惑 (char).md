@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[惑]]<rt>ㄏㄛㄎ</rt></ruby> "confusing; bewildering; doubt" (stand-in for 惑)
 - <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby> "charm; captivate"
 - <ruby>[[疑惑]]<rt>ㄧㄏㄛㄎ</rt></ruby> "suspicion"
+- <ruby>[[困惑]]<rt>ㄎㄛㄋㄏㄛㄎ</rt></ruby> "perplexity"

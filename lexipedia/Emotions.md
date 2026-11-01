@@ -14,7 +14,7 @@ date-last-perfect: 2026-09-28
 
 # Emotions
 
-Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy). Several basic terms (alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain, pity, pleasant, pleasure, relax, relief, satisfy, shock, sorry, surprise, terror) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fear, desire, calm — along with the bodily and social expressions that go with them (crying, howling, jumping for joy). Several basic terms (alarm, bore, caution, delight, disgust, eager, experience, horror, misery, nervous, pain, pity, pleasant, pleasure, relax, relief, satisfy, sorry) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -67,6 +67,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[唉](../words/唉.md)<rt>ㄚㄧ</rt></ruby>: alas — an archaic interjection of lament.
 - <ruby>[惜](../words/惜.md)<rt>ㄙㄝㄎ</rt></ruby>: to begrudge, rue — regret at losing or parting with something (惜別, "regret at parting").
 - <ruby>[後悔](../words/後悔.md)<rt>ㄏㄨㄛㄏㄛㄧ</rt></ruby>: to regret.
+- <ruby>[失望](../words/失望.md)<rt>ㄙㄧㄊㄇㄚㄫ</rt></ruby>: to be disappointed — to lose hope; an expectation unmet, the reverse of [[希望]].
 
 ### Anger
 
@@ -81,7 +82,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[悩](../words/悩.md)<rt>ㄋㄚㄨ</rt></ruby>: angered, mad.
 - <ruby>[煩](../words/煩.md)<rt>ㄈㄛㄇ</rt></ruby>: troublesome, annoying, vexing — a much milder irritation than [[憤怒]]/[[激怒]]'s real anger (煩悩, "vexation, worldly care"; 麻煩, "a bother, a nuisance").
 
-### Fear & Dread
+### Fear, Surprise & Confusion
 
 - <ruby>[恐惧](../words/恐惧.md)<rt>ㄎㄛㄫㄍㄨ</rt></ruby>: to be afraid of, have a dread or phobia of.
 - <ruby>[恐慌](../words/恐慌.md)<rt>ㄎㄛㄫㄏ⺢ㄫ</rt></ruby>: nervous, frantic, panicky.
@@ -94,6 +95,11 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
 - <ruby>[懍懍](../words/懍懍.md)<rt>ㄌㄜㄇㄌㄜㄇ</rt></ruby>: a fearful appearance; stern and rigorous.
 - <ruby>[喫驚](../words/喫驚.md)<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>: to be startled.
+- <ruby>[驚異](../words/驚異.md)<rt>ㄍ⼶ㄫㄧ</rt></ruby>: wonder, amazement — astonishment at something extraordinary, the pleasant side of being startled, where [[喫驚]] is the plain jolt.
+- <ruby>[衝撃](../words/衝撃.md)<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby>: shock, impact — the sudden hard blow of bad news or violence.
+- <ruby>[戦慄](../words/戦慄.md)<rt>ㄐㄝㄋㄌㄧㄊ</rt></ruby>: a shudder, terror — fear that has reached the body, stronger than [[恐怖]].
+- <ruby>[困惑](../words/困惑.md)<rt>ㄎㄛㄋㄏㄛㄎ</rt></ruby>: perplexity, to be bewildered — at a loss what to think or do.
+- <ruby>[寿着](../words/寿着.md)<rt>ㄙ⼜ㄐ⺢ㄎ</rt></ruby>: to hesitate, waver — to pause before acting, unable to decide; the real-world spelling is 躊躇 (see its aliases).
 
 ### Hatred, Resentment & Jealousy
 
@@ -180,7 +186,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, confuse, delight, disgust, eager, experience, horror, misery, nervous, pain (as a standalone noun), pity, pleasant, pleasure, relax, relief, satisfy (as a verb), shock, sorry, surprise, terror.
+Rosenfelder terms with no Dan'a'yo word yet: alarm, bore, caution, delight, disgust, eager, experience, horror, misery, nervous, pain (as a standalone noun), pity, pleasant, pleasure, relax, relief, satisfy (as a verb), sorry.
 
 ## Advanced / Specialized (C1+)
 

@@ -58,3 +58,4 @@ boundedness: 90
 ## Words
 - <ruby>[[衝]]<rt>ㄑㄛㄫ</rt></ruby> "collide" (stand-in for 衝 (char))
 - <ruby>[[衝突]]<rt>ㄑㄛㄫㄊㄛㄊ</rt></ruby> "clash"
+- <ruby>[[衝撃]]<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby> "shock"

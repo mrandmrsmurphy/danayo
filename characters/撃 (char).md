@@ -61,3 +61,4 @@ boundedness: 85
 - <ruby>[[進撃]]<rt>ㄐㄧㄋㄍㄝㄎ</rt></ruby> "charge"
 - <ruby>[[攻撃]]<rt>ㄍㄛㄫㄍㄝㄎ</rt></ruby> "attack"
 - <ruby>[[襲撃]]<rt>ㄙㄜㄆㄍㄝㄎ</rt></ruby> "raid"
+- <ruby>[[衝撃]]<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby> "shock"

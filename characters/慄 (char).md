@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[慄]]<rt>ㄌㄧㄊ</rt></ruby> "tremble; shudder; shiver" (stand-in for 慄)
+- <ruby>[[戦慄]]<rt>ㄐㄝㄋㄌㄧㄊ</rt></ruby> "shudder"
