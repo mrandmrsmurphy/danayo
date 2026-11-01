@@ -53,3 +53,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby> "cup, cupful" (stand-in for 杯)
+- <ruby>[[乾杯]]<rt>ㄍ⼶ㄋㄅㄛㄧ</rt></ruby> "a toast"

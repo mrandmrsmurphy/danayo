@@ -59,6 +59,9 @@ boundedness: 80
 - <ruby>[[千米]]<rt>ㄑㄝㄋㄇㄝㄧ</rt></ruby> "kilometer"
 - <ruby>[[毫米]]<rt>ㄏㄚㄨㄇㄝㄧ</rt></ruby> "millimeter"
 - <ruby>[[費米金]]<rt>ㄈㄚㄧㄇㄝㄧㄍㄧㄇ</rt></ruby> "fermium"
+- <ruby>[[米粉]]<rt>ㄇㄝㄧㄈㄨㄋ</rt></ruby> "rice flour"
+- <ruby>[[需米]]<rt>ㄙㄨ·ㄇㄝㄧ</rt></ruby> "glutinous rice"
+- <ruby>[[更米]]<rt>ㄍㄚㄫㄇㄝㄧ</rt></ruby> "non-glutinous rice"
 
 ## Derived Characters
 - <ruby>[[迷]]<rt>ㄇㄝㄧ</rt></ruby> "be lost; be confused"

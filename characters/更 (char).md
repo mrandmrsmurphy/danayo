@@ -1,7 +1,7 @@
 ---
-mandarin: "gèng"
-cantonese: "gang1"
-korean: "갱"
+mandarin: gèng
+cantonese: gang1
+korean: 갱
 korean_native: 다시
 japanese:
   - KOU
@@ -34,6 +34,8 @@ kwin: false
 tags:
   - character
 boundedness: 90
+aliases:
+  - 粳
 ---
 >[!tip] This is a page about the character 更.
 >For the word, see [更](../words/更.md)
@@ -55,6 +57,7 @@ boundedness: 90
 - <ruby>[[更新]]<rt>ㄍㄚㄫㄙㄧㄋ</rt></ruby> "renew, replace, refresh"
 - <ruby>[[更迭]]<rt>ㄍㄚㄫㄉㄚㄊ</rt></ruby> "to change; personnel reshuffle"
 - <ruby>[[更少]]<rt>ㄍㄚㄫㄙㄛㄨ</rt></ruby> "less, fewer"
+- <ruby>[[更米]]<rt>ㄍㄚㄫㄇㄝㄧ</rt></ruby> "non-glutinous rice"
 
 ## Derived Characters
 - <ruby>[[梗]]<rt>ㄍㄚㄫ</rt></ruby> "branch, stem"

@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[水牛]]<rt>ㄙㄨ·ㄋ⼜</rt></ruby> "water buffalo"
 - <ruby>[[海牛]]<rt>ㄏㄚㄧㄋ⼜</rt></ruby> "sea cow; manatee"
 - <ruby>[[蝸牛]]<rt>ㄍ⺢·ㄋ⼜</rt></ruby> "snail"
+- <ruby>[[牛肉]]<rt>ㄋ⼜·ㄋㄨㄎ</rt></ruby> "beef"
 
 ## Chengyu
 - <ruby>[[呉牛喘月]]<rt>ㄛ·ㄋ⼜ㄑㄝㄋ⼔ㄊ</rt></ruby> "excessive fear born of past trauma"

@@ -66,3 +66,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[納]]<rt>ㄋㄚㄆ</rt></ruby> "receive, accept" (stand-in for 納)
 - <ruby>[[帰納]]<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby> "induction (logic)"
 - <ruby>[[田納素]]<rt>ㄉㄝㄋㄋㄚㄆㄙㄛ</rt></ruby> "tennessine"
+- <ruby>[[納豆]]<rt>ㄋㄚㄆㄉㄛㄨ</rt></ruby> "natto"

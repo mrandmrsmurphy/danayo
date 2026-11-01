@@ -52,6 +52,9 @@ boundedness: 80
 ## Words
 - <ruby>[[豆]]<rt>ㄉㄛㄨ</rt></ruby> "bean" (stand-in for 豆)
 - <ruby>[[豆腐]]<rt>ㄉㄛㄨㄆㄨ</rt></ruby> "tofu"
+- <ruby>[[大豆]]<rt>ㄉㄚㄧㄉㄛㄨ</rt></ruby> "soybean"
+- <ruby>[[納豆]]<rt>ㄋㄚㄆㄉㄛㄨ</rt></ruby> "natto"
+- <ruby>[[豆乳]]<rt>ㄉㄛㄨㄋㄨ</rt></ruby> "soy milk"
 
 ## Derived Characters
 - <ruby>[[頭 (char)|頭]]<rt>ㄊㄛㄨ</rt></ruby> "head"

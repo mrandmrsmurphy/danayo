@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[苔]]<rt>ㄊㄛㄧ</rt></ruby> "moss, lichen" (stand-in for 苔)
+- <ruby>[[海苔]]<rt>ㄏㄚㄧㄊㄛㄧ</rt></ruby> "nori"

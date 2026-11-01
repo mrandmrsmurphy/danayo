@@ -54,6 +54,8 @@ date-last-perfect: 2026-10-15
 - <ruby>[[花粉]]<rt>ㄏ⺢ㄈㄨㄋ</rt></ruby> "pollen"
 - <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> "powder, fine powder"
 - <ruby>[[受粉]]<rt>ㄙ⼜ㄈㄨㄋ</rt></ruby> "pollination"
+- <ruby>[[小麦粉]]<rt>ㄙㄛ·ㄇㄚㄎㄈㄨㄋ</rt></ruby> "wheat flour"
+- <ruby>[[米粉]]<rt>ㄇㄝㄧㄈㄨㄋ</rt></ruby> "rice flour"
 
 ## Chengyu
 - <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

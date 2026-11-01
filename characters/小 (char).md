@@ -68,6 +68,8 @@ boundedness: 80
 - <ruby>[[微小]]<rt>ㄇㄨㄧㄙㄛ</rt></ruby> "tiny; minute; microscopic"
 - <ruby>[[縮小]]<rt>ㄙㄨㄎㄙㄛ</rt></ruby> "shrink"
 - <ruby>[[小説]]<rt>ㄙㄛㄙ⼔ㄊ</rt></ruby> "novel"
+- <ruby>[[小麦]]<rt>ㄙㄛ·ㄇㄚㄎ</rt></ruby> "wheat"
+- <ruby>[[小麦粉]]<rt>ㄙㄛ·ㄇㄚㄎㄈㄨㄋ</rt></ruby> "wheat flour"
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "sacrifice the greater for the lesser"
