@@ -72,6 +72,7 @@ boundedness: 50
 - <ruby>[[気体]]<rt>ㄎㄧㄜㄊㄝㄧ</rt></ruby> "gas"
 - <ruby>[[気管]]<rt>ㄎㄧㄜㄍ⺢ㄋ</rt></ruby> "windpipe"
 - <ruby>[[気絶]]<rt>ㄎㄧㄜㄐ⼔ㄊ</rt></ruby> "faint"
+- <ruby>[[勇気]]<rt>⼄ㄫㄎㄧㄜ</rt></ruby> "courage"
 
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"

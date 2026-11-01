@@ -72,6 +72,9 @@ boundedness: 90
 - <ruby>[[操心]]<rt>ㄑㄚㄨㄙㄧㄇ</rt></ruby> "careful, cautious; to worry about, take pains over"
 - <ruby>[[心情]]<rt>ㄙㄧㄇㄑㄧㄫ</rt></ruby> "mood; frame of mind"
 - <ruby>[[好奇心]]<rt>ㄏㄚㄨㄍㄨㄧㄙㄧㄇ</rt></ruby> "curiosity"
+- <ruby>[[良心]]<rt>ㄌ⼘ㄫㄙㄧㄇ</rt></ruby> "conscience"
+- <ruby>[[感心]]<rt>ㄍㄚㄇㄙㄧㄇ</rt></ruby> "admiration"
+- <ruby>[[野心]]<rt>⼘ㄙㄧㄇ</rt></ruby> "ambition"
 
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"

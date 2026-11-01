@@ -57,3 +57,4 @@ boundedness: 90
 - <ruby>[[負数]]<rt>ㄅ⼜ㄙㄨ</rt></ruby> "negative number"
 - <ruby>[[勝負]]<rt>ㄙㄨㄫㄅ⼜</rt></ruby> "contest"
 - <ruby>[[負傷]]<rt>ㄅ⼜ㄙ⼘ㄫ</rt></ruby> "injury"
+- <ruby>[[自負]]<rt>ㄐㄧㄜㄅ⼜</rt></ruby> "self-regard"

@@ -143,6 +143,14 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[思慕](../words/思慕.md)<rt>ㄙㄚ·ㄇㄛ</rt></ruby>: to yearn for, admire, long for — longing toward someone absent or above one, reverent rather than merely missing; the stand-in for the bound character 慕.
 - <ruby>[耽](../words/耽.md)<rt>ㄉㄛㄇ</rt></ruby>: to indulge in, be absorbed in — a fixation or craving so deep it absorbs its subject (耽耽/眈眈, "to glare covetously," as in 虎視耽耽, "to eye like a prowling tiger").
 - <ruby>[熱情](../words/熱情.md)<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby>: enthusiasm, passion, ardor.
+- <ruby>[渇望](../words/渇望.md)<rt>ㄎㄚㄊㄇㄚㄫ</rt></ruby>: to long for, craving — a thirsty want that is hard to bear.
+- <ruby>[切望](../words/切望.md)<rt>ㄑㄝㄊㄇㄚㄫ</rt></ruby>: to long for earnestly — to wish with urgency.
+- <ruby>[願望](../words/願望.md)<rt>⼔ㄋㄇㄚㄫ</rt></ruby>: a wish — something hoped will come true.
+- <ruby>[熱望](../words/熱望.md)<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby>: fervent hope — a wish held with heat.
+- <ruby>[執着](../words/執着.md)<rt>ㄐㄧㄆㄐ⺢ㄎ</rt></ruby>: to cling, obsession — to hold fast and not let go; in Buddhism the clinging that binds.
+- <ruby>[熱中](../words/熱中.md)<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby>: to be absorbed in — to throw oneself eagerly into a pursuit.
+- <ruby>[貪欲](../words/貪欲.md)<rt>ㄊㄚㄇ·⼄ㄎ</rt></ruby>: greed — desire that wants more than it needs.
+- <ruby>[野心](../words/野心.md)<rt>⼘ㄙㄧㄇ</rt></ruby>: ambition — a strong wish to rise to power or success.
 
 ### Calm & Peace
 
@@ -153,6 +161,12 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[和平](../words/和平.md)<rt>ㄏ⺢ㄅ⼶ㄫ</rt></ruby>: peaceful.
 - <ruby>[泰然](../words/泰然.md)<rt>ㄊㄚㄧㄋ⼶ㄋ</rt></ruby>: calm, composed, unruffled.
 - <ruby>[寂寞](../words/寂寞.md)<rt>ㄐㄝㄎㄇㄚㄎ</rt></ruby>: lonely, desolate.
+- <ruby>[冷静](../words/冷静.md)<rt>ㄌㄚㄫㄐㄝㄫ</rt></ruby>: calm, composed — calm by thought; not carried away by feeling.
+- <ruby>[沈着](../words/沈着.md)<rt>ㄑㄧㄇㄐ⺢ㄎ</rt></ruby>: composed, unruffled — staying steady when things go wrong.
+- <ruby>[沈静](../words/沈静.md)<rt>ㄑㄧㄇㄐㄝㄫ</rt></ruby>: calm and quiet — a settled, still state, or growing calm after agitation.
+- <ruby>[悠然](../words/悠然.md)<rt>⼜ㄛㄋ⼶ㄋ</rt></ruby>: unhurried, serene — calm and carefree, in no haste.
+- <ruby>[自若](../words/自若.md)<rt>ㄐㄧㄜㄋ⼘</rt></ruby>: self-possessed — unmoved by what happens, most at home in 泰然自若.
+- <ruby>[安堵](../words/安堵.md)<rt>ㄚㄋㄉㄛ</rt></ruby>: relief — the easing of the mind when a worry has passed.
 
 ### Satisfaction & Contentment
 
@@ -164,6 +178,10 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 
 - <ruby>[傲慢](../words/傲慢.md)<rt>ㄚㄨㄇㄚㄋ</rt></ruby>: proud, overbearing, haughty.
 - <ruby>[自尊](../words/自尊.md)<rt>ㄐㄧㄜㄐㄛㄋ</rt></ruby>: self-esteem, self-respect, dignity — respect for oneself and one's own standing; stands in for the classical 矜, which lies outside the closed character set; set against [[傲慢]]'s inflated pride.
+- <ruby>[自負](../words/自負.md)<rt>ㄐㄧㄜㄅ⼜</rt></ruby>: pride in oneself — a high opinion of one's own ability, sounder than [[傲慢]] and past [[自信]].
+- <ruby>[虚栄](../words/虚栄.md)<rt>ㄏ⼄·ㄨㄧㄫ</rt></ruby>: vanity — love of show and others' praise, glory with nothing in it.
+- <ruby>[謙虚](../words/謙虚.md)<rt>ㄎㄝㄇㄏ⼄</rt></ruby>: modest, humble — thinking little of oneself and open to learning.
+- <ruby>[得意](../words/得意.md)<rt>ㄊㄜㄎ·ㄜ</rt></ruby>: proud, triumphant — pleased with oneself at a success; Mandarin often means "smug", Japanese also "skilled" (see [[文法 - 91疑義語]]).
 - <ruby>[気炎](../words/気炎.md)<rt>ㄎㄧㄜㄝㄇ</rt></ruby>: bluster, fighting spirit — a blazing show of spirit that can read as arrogance (the derogatory sense) or as high morale (the neutral sense); compare [[傲慢]].
 - <ruby>[逞](../words/逞.md)<rt>ㄑㄧㄫ</rt></ruby>: to indulge, brag, show off — flaunting one's own ability or strength (逞能, "to show off one's skill"; 逞強, "to flaunt one's strength").
 - <ruby>[蔑](../words/蔑.md)<rt>ㄇㄝㄊ</rt></ruby>: to scorn, despise — the bound root behind 侮蔑/軽蔑.
@@ -172,6 +190,9 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[侮蔑](../words/侮蔑.md)<rt>ㄇㄨ·ㄇㄝㄊ</rt></ruby>: scorn, to insult — contempt made public.
 - <ruby>[吝嗇](../words/吝嗇.md)<rt>ㄌㄧㄋㄙㄧㄎ</rt></ruby>: miserly, stingy.
 - <ruby>[刻薄](../words/刻薄.md)<rt>ㄎㄨㄎㄅㄚㄎ</rt></ruby>: cruel, inhuman.
+- <ruby>[温厚](../words/温厚.md)<rt>ㄛㄆㄏㄛㄨ</rt></ruby>: gentle, good-natured — warm of manner, slow to anger.
+- <ruby>[寛容](../words/寛容.md)<rt>ㄎ⺢ㄋ·⼄ㄫ</rt></ruby>: tolerant, magnanimous — generous in putting up with others' faults.
+- <ruby>[冷淡](../words/冷淡.md)<rt>ㄌㄚㄫㄉㄚㄇ</rt></ruby>: indifferent, aloof — cold and uninterested; the lack of feeling.
 - <ruby>[苛酷](../words/苛酷.md)<rt>ㄏㄚ·ㄎㄛㄎ</rt></ruby>: cruel, harsh, severe.
 - <ruby>[辣](../words/辣.md)<rt>ㄌㄚㄊ</rt></ruby>: spicy, hot; cruel (figurative).
 - <ruby>[惨](../words/惨.md)<rt>ㄑㄚㄇ</rt></ruby>: wretched, cruel.
@@ -185,12 +206,14 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[厳然](../words/厳然.md)<rt>⼄ㄇㄋ⼶ㄋ</rt></ruby>: solemn, dignified — an imposing bearing, or a fact that stands undeniable; distinct from [[厳粛]]'s solemn occasion.
 - <ruby>[厳重](../words/厳重.md)<rt>⼄ㄇㄑㄛㄫ</rt></ruby>: serious, rigorous.
 - <ruby>[緊張](../words/緊張.md)<rt>ㄍㄧㄋㄑㄚㄫ</rt></ruby>: tight, tense, worried.
+- <ruby>[動揺](../words/動揺.md)<rt>ㄉㄛㄫ⼄ㄨ</rt></ruby>: agitation, to be shaken — losing one's steadiness of mind.
 
 ### Suffering & Crying
 
 - <ruby>[受難](../words/受難.md)<rt>ㄙ⼜·ㄋㄚㄋ</rt></ruby>: to suffer hardship; the Passion (Christianity).
 - <ruby>[苦](../words/苦.md)<rt>ㄎㄛ</rt></ruby>: suffering, bitter.
 - <ruby>[苦痛](../words/苦痛.md)<rt>ㄎㄛ·ㄊㄛㄫ</rt></ruby>: agony, pain, suffering.
+- <ruby>[我慢](../words/我慢.md)<rt>ㄚ·ㄇㄚㄋ</rt></ruby>: to endure, patience — to bear pain or an urge without giving way; Japanese sense (Mandarin and Korean mean the Buddhist "arrogance"; see [[文法 - 91疑義語]]).
 - <ruby>[呻吟](../words/呻吟.md)<rt>ㄙㄧㄋ·ㄜㄇ</rt></ruby>: to moan, groan.
 - <ruby>[哭](../words/哭.md)<rt>ㄎㄛㄎ</rt></ruby>, <ruby>[泣](../words/泣.md)<rt>ㄎㄧㄆ</rt></ruby>: to cry, weep, sob.
 - <ruby>[嗚咽](../words/嗚咽.md)<rt>ㄛㄝㄋ</rt></ruby>: to sob, whimper.
@@ -203,6 +226,15 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[賛嘆](../words/賛嘆.md)<rt>ㄐㄚㄋㄊㄚㄋ</rt></ruby>: to admire, gasp in admiration.
 - <ruby>[鼓舞](../words/鼓舞.md)<rt>ㄍㄛ·ㄇㄨ</rt></ruby>: to encourage, cheer, inspire.
 - <ruby>[仰望](../words/仰望.md)<rt>⼘ㄫㄇㄚㄫ</rt></ruby>: to look up to (admiringly).
+- <ruby>[敬意](../words/敬意.md)<rt>ㄍ⼶ㄫㄜ</rt></ruby>: respect, reverence — high regard shown to a person.
+- <ruby>[感服](../words/感服.md)<rt>ㄍㄚㄇㄅㄨㄎ</rt></ruby>: to admire — so impressed by someone's ability or conduct that one yields to them.
+- <ruby>[感心](../words/感心.md)<rt>ㄍㄚㄇㄙㄧㄇ</rt></ruby>: to be impressed, admiration — struck with admiration by conduct or skill; Mandarin means "touching" (see [[文法 - 91疑義語]]).
+
+### Courage & Conscience
+
+- <ruby>[勇気](../words/勇気.md)<rt>⼄ㄫㄎㄧㄜ</rt></ruby>: courage — the spirit to face danger without giving way.
+- <ruby>[自信](../words/自信.md)<rt>ㄐㄧㄜㄙㄧㄋ</rt></ruby>: self-confidence — trust in one's own ability.
+- <ruby>[良心](../words/良心.md)<rt>ㄌ⼘ㄫㄙㄧㄇ</rt></ruby>: conscience — the inner sense of what is right.
 
 ### Not Yet Coined
 

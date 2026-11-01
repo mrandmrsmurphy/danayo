@@ -62,3 +62,5 @@ boundedness: 90
 - <ruby>[[熱情]]<rt>ㄋ⼶ㄊㄑㄧㄫ</rt></ruby> "enthusiasm; passion; ardor"
 - <ruby>[[熱烈]]<rt>ㄋ⼶ㄊㄌㄝㄊ</rt></ruby> "avid; fervent"
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
+- <ruby>[[熱望]]<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby> "fervent hope"
+- <ruby>[[熱中]]<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby> "enthusiasm"

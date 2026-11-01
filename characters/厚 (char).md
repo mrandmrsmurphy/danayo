@@ -51,6 +51,7 @@ boundedness: 90
 - <ruby>[[濃厚]]<rt>ㄋㄛㄫㄏㄛㄨ</rt></ruby> "concentrated; thick; dense; strong"
 - <ruby>[[敦厚]]<rt>ㄉㄛㄋㄏㄛㄨ</rt></ruby> "honest; candid; sincere"
 - <ruby>[[厚顔]]<rt>ㄏㄛㄨㄚㄋ</rt></ruby> "brazen-faced; impudent; shameless"
+- <ruby>[[温厚]]<rt>ㄛㄆㄏㄛㄨ</rt></ruby> "gentle"
 
 ## Chengyu
 - <ruby>[[厚顔無恥]]<rt>ㄏㄛㄨㄚㄋㄇㄜㄑㄧ</rt></ruby> "utterly shameless, brazen"

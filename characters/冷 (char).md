@@ -62,3 +62,5 @@ boundedness: 65
 - <ruby>[[冷麺]]<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby> "cold noodles"
 - <ruby>[[寒冷]]<rt>ㄏㄚㄋㄌㄚㄫ</rt></ruby> "cold; freezing"
 - <ruby>[[冷笑]]<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby> "to sneer, to laugh coldly"
+- <ruby>[[冷静]]<rt>ㄌㄚㄫㄐㄝㄫ</rt></ruby> "calm"
+- <ruby>[[冷淡]]<rt>ㄌㄚㄫㄉㄚㄇ</rt></ruby> "indifferent"

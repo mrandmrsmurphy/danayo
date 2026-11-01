@@ -66,6 +66,7 @@ boundedness: 65
 - <ruby>[[我等]]<rt>ㄚㄉㄨㄫ</rt></ruby> "we, us"
 - <ruby>[[無我]]<rt>ㄇㄜㄚ</rt></ruby> "non-self, anattā"
 - <ruby>[[自我]]<rt>ㄐㄧㄜㄚ</rt></ruby> "self-conscious, self-aware"
+- <ruby>[[我慢]]<rt>ㄚ·ㄇㄚㄋ</rt></ruby> "patience"
 
 ## Chengyu
 - <ruby>[[除我莫神]]<rt>ㄐㄝㄧㄚ·ㄇㄚㄎㄙㄧㄋ</rt></ruby> "There are no other gods but me"

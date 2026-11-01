@@ -51,6 +51,7 @@ boundedness: 55
 ## Words
 - <ruby>[[若]]<rt>ㄋ⼘</rt></ruby> "if" (stand-in for 若)
 - <ruby>[[若干]]<rt>ㄋ⼘ㄍㄚㄋ</rt></ruby> "a little, somewhat"
+- <ruby>[[自若]]<rt>ㄐㄧㄜㄋ⼘</rt></ruby> "self-possessed"
 
 ## Chengyu
 - <ruby>[[傍若無人]]<rt>ㄆㄚㄫㄋ⼘·ㄇㄜ·ㄋㄧㄋ</rt></ruby> "acting as if no one else were present; brazenly disregarding others"

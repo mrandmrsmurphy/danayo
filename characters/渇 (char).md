@@ -54,6 +54,7 @@ boundedness: 55
 ## Words
 - <ruby>[[渇]]<rt>ㄎㄚㄊ</rt></ruby> "thirst; thirsty" (stand-in for 渇)
 - <ruby>[[渇金]]<rt>ㄎㄚㄊㄍㄧㄇ</rt></ruby> "tantalum"
+- <ruby>[[渇望]]<rt>ㄎㄚㄊㄇㄚㄫ</rt></ruby> "craving"
 
 ## Chengyu
 - <ruby>[[臨渇掘井]]<rt>ㄌㄧㄇㄎㄚㄊㄍㄨㄊㄐㄧㄫ</rt></ruby> "preparing only when the need is already upon you"

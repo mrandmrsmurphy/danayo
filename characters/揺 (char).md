@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[揺]]<rt>⼄ㄨ</rt></ruby> "swing, shake, rock" (stand-in for 揺)
+- <ruby>[[動揺]]<rt>ㄉㄛㄫ⼄ㄨ</rt></ruby> "agitation"

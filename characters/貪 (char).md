@@ -53,6 +53,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[貪]]<rt>ㄊㄚㄇ</rt></ruby> "greedy" (stand-in for 貪)
 - <ruby>[[貪官]]<rt>ㄊㄚㄇㄍ⺢ㄋ</rt></ruby> "corrupt official, greedy mandarin"
 - <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious"
+- <ruby>[[貪欲]]<rt>ㄊㄚㄇ·⼄ㄎ</rt></ruby> "greed"
 
 ## Chengyu
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"

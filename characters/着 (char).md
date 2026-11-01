@@ -60,3 +60,5 @@ boundedness: 100
 - <ruby>[[着色]]<rt>ㄐ⺢ㄎㄙㄧㄎ</rt></ruby> "coloring"
 - <ruby>[[着者]]<rt>ㄐ⺢ㄎㄑㄚ</rt></ruby> "author"
 - <ruby>[[着作]]<rt>ㄐ⺢ㄎㄐㄚㄎ</rt></ruby> "written work"
+- <ruby>[[沈着]]<rt>ㄑㄧㄇㄐ⺢ㄎ</rt></ruby> "composed"
+- <ruby>[[執着]]<rt>ㄐㄧㄆㄐ⺢ㄎ</rt></ruby> "attachment"

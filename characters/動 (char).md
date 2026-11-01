@@ -79,3 +79,4 @@ boundedness: 90
 - <ruby>[[動机]]<rt>ㄉㄛㄫㄍㄧㄜ</rt></ruby> "motive"
 - <ruby>[[暴動]]<rt>ㄅㄛㄎㄉㄛㄫ</rt></ruby> "riot"
 - <ruby>[[動脈]]<rt>ㄉㄛㄫㄇㄚㄎ</rt></ruby> "artery"
+- <ruby>[[動揺]]<rt>ㄉㄛㄫ⼄ㄨ</rt></ruby> "agitation"
