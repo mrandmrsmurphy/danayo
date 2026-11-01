@@ -71,3 +71,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[沙悟浄]]<rt>ㄙㄚㄛㄐㄝㄫ</rt></ruby> "Sha Wujing"
 - <ruby>[[長沙]]<rt>ㄐㄚㄫㄙㄚ</rt></ruby> "Changsha"
 - <ruby>[[沙里院]]<rt>ㄙㄚㄌㄧ⼔ㄋ</rt></ruby> "Sariwon"
+- <ruby>[[沙糖]]<rt>ㄙㄚㄉ⺢ㄫ</rt></ruby> "sugar"

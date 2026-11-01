@@ -6,6 +6,7 @@ related_domains:
   - "[[Existence]]"
   - "[[Buildings]]"
   - "[[Law]]"
+  - "[[Food]]"
 status: partial
 ---
 

@@ -7,13 +7,18 @@ related_domains:
   - "[[Sensation]]"
   - "[[Animals]]"
   - "[[Body]]"
+  - "[[Containers]]"
+  - "[[Buildings]]"
+  - "[[Water]]"
+  - "[[Substances]]"
+  - "[[Trade]]"
 status: partial
-date-last-perfect: 2026-09-28
+date-last-perfect: 2026-11-01
 ---
 
 # Food
 
-Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and textures that describe them, along with the fishing and farming that produce raw ingredients in the first place. Several basic terms (bread as a category, cup, coconut's own general "fruit" contrast, cheese as a bare general word beyond 乳酪/乾酪, wine as a general category beyond specific drinks, poison, coffee, milk, soda, cider, honey, butter, sausage, gravy as a general word beyond 肉汁, butcher, dough, pasta, noodle, spice as a general word, dessert, custard, pudding, cake as a general word beyond 餅, chocolate, broth as a general word beyond 肉湯, stew) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently. This vault's own note on a three-part technique×ingredient×cutting-style compounding pattern for Asian cuisine terms is documented in its own section below.
+Food vocabulary spans meals, dishes, ingredients, cooking techniques and utensils, the tastes and textures that describe them, drinks, and the farming and fishing that produce raw ingredients in the first place. Several Dan'a'yo food words are spelled with a stand-in character, because the usual character has no page of its own: [[沙糖]] (usually 砂糖), [[圭魚]] (usually 鮭魚), [[需米]] (usually 糯米), [[更米]] (usually 粳米) and [[馬鈴藷]] (usually 馬鈴薯); the usual spelling is each word's alias. This vault's own note on a three-part technique×ingredient×cutting-style compounding pattern for Asian cuisine terms is documented in its own section below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -34,42 +39,58 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[箸](../words/箸.md)<rt>ㄉ⺢</rt></ruby>: chopsticks.
 - <ruby>[叉](../words/叉.md)<rt>ㄑㄚㄧ</rt></ruby>: a fork; prong, tine.
 - <ruby>[食物](../words/食物.md)<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>: food, what is eaten.
+- <ruby>[料理](../words/料理.md)<rt>ㄌ⼘ㄨㄌㄧ</rt></ruby>: cooking, cuisine, to cook — preparing food, and so a dish or a cuisine.
 
 ## Intermediate (B1–B2)
 
-### Meals & Dishes
+### Meals & Banquets
 
+- <ruby>[朝食](../words/朝食.md)<rt>ㄐㄚㄨㄙㄧㄎ</rt></ruby>: breakfast — the first meal of the day.
+- <ruby>[早飯](../words/早飯.md)<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby>: breakfast (Mandarin, Cantonese, Korean); in Japanese, a fast eater.
 - <ruby>[午飯](../words/午飯.md)<rt>ㄛㄅㄛㄋ</rt></ruby>, <ruby>[午餐](../words/午餐.md)<rt>ㄛㄑㄚㄋ</rt></ruby>: lunch, noon meal.
 - <ruby>[晩飯](../words/晩飯.md)<rt>ㄇㄛㄋㄅㄛㄋ</rt></ruby>, <ruby>[正餐](../words/正餐.md)<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>: dinner, supper, evening meal.
 - <ruby>[晩餐](../words/晩餐.md)<rt>ㄇㄛㄋㄑㄚㄋ</rt></ruby>: supper.
-- <ruby>[早飯](../words/早飯.md)<rt>ㄐㄚㄨㄅㄛㄋ</rt></ruby>: breakfast (Mandarin, Cantonese, Korean); in Japanese, a fast eater.
-- <ruby>[宴会](../words/宴会.md)<rt>ㄝㄋㄏ⼔</rt></ruby>: a banquet, feast.
-- <ruby>[包子](../words/包子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>, <ruby>[饅頭](../words/饅頭.md)<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby>: a steamed bun.
+- <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.
 - <ruby>[点心](../words/点心.md)<rt>ㄉㄝㄇㄙㄧㄇ</rt></ruby>: a snack, dim sum, light dish. See Semantic Range Notes.
+- <ruby>[宴会](../words/宴会.md)<rt>ㄝㄋㄏ⼔</rt></ruby>: a banquet, feast.
+- <ruby>[饗宴](../words/饗宴.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a banquet, feast — a grand formal meal, a state or ceremonial dinner; elevated in register compared with an ordinary [[膳食]] meal.
+
+### Dishes
+
+- <ruby>[包子](../words/包子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>, <ruby>[饅頭](../words/饅頭.md)<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby>: a steamed bun.
 - <ruby>[餃子](../words/餃子.md)<rt>ㄍ⼄ㄨㄐㄜ</rt></ruby>: a jiaozi, dumpling, gyoza — filled dough folded and boiled.
 - <ruby>[臘八粥](../words/臘八粥.md)<rt>ㄌㄚㄆㄅㄚㄊㄐㄨㄎ</rt></ruby>: Laba congee — the ritual porridge of eight or more grains, beans, nuts and fruits eaten on [[臘八節]]; a specific festival dish, not congee in general ([[粥]]).
 - <ruby>[冷麺](../words/冷麺.md)<rt>ㄌㄚㄫㄇㄝㄋ</rt></ruby>: cold noodles — a specific dish (most famously Korean naengmyeon), though the general word "noodle" itself remains uncoined.
 - <ruby>[拉麺](../words/拉麺.md)<rt>ㄌㄚㄆㄇㄝㄋ</rt></ruby>: ramen.
-- <ruby>[膳食](../words/膳食.md)<rt>ㄙ⼶ㄋㄙㄧㄎ</rt></ruby>: a meal, diet, food.
-- <ruby>[料理](../words/料理.md)<rt>ㄌ⼘ㄨㄌㄧ</rt></ruby>: cooking, cuisine, to cook — preparing food, and so a dish or a cuisine.
-- <ruby>[食品](../words/食品.md)<rt>ㄙㄧㄎㄆㄨㄇ</rt></ruby>: food, foodstuff — food as a product, an item made or sold.
-- <ruby>[食糧](../words/食糧.md)<rt>ㄙㄧㄎㄌ⼘ㄫ</rt></ruby>: provisions — the grain and food a people or an army lives on.
-- <ruby>[主食](../words/主食.md)<rt>ㄐㄨㄙㄧㄎ</rt></ruby>: staple food — the main part of a meal, such as rice or bread.
-- <ruby>[副食](../words/副食.md)<rt>ㄈㄨㄎㄙㄧㄎ</rt></ruby>: side dish, non-staple food — what is eaten with the staple.
-- <ruby>[朝食](../words/朝食.md)<rt>ㄐㄚㄨㄙㄧㄎ</rt></ruby>: breakfast — the first meal of the day.
-- <ruby>[食材](../words/食材.md)<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby>: an ingredient — a raw material of cooking.
-- <ruby>[饗宴](../words/饗宴.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a banquet, feast — a grand formal meal, a state or ceremonial dinner; elevated in register compared with an ordinary [[膳食]] meal.
+- <ruby>[烏龍麺](../words/烏龍麺.md)<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby>: udon noodles.
+- <ruby>[雲呑](../words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby>: wonton.
+- <ruby>[豆腐](../words/豆腐.md)<rt>ㄉㄛㄨㄆㄨ</rt></ruby>: tofu.
 - <ruby>[井物](../words/井物.md)<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby>: a rice-bowl dish, the general category. See Semantic Range Notes.
 
 ### Rice Bowl Dishes
 
 - <ruby>[牛井](../words/牛井.md)<rt>ㄋ⼜ㄐㄧㄫ</rt></ruby>: gyudon, a beef rice bowl.
-- <ruby>[牛乳](../words/牛乳.md)<rt>ㄋ⼜·ㄋㄨ</rt></ruby>: cow's milk — "cow" + "milk."
 - <ruby>[親子井](../words/親子井.md)<rt>ㄑㄧㄋㄐㄜㄐㄧㄫ</rt></ruby>: oyakodon, a chicken and egg rice bowl.
 - <ruby>[豚井](../words/豚井.md)<rt>ㄊㄨㄋㄐㄧㄫ</rt></ruby>: butadon, a pork rice bowl.
 
-### Utensils
+### Food, Provisions & Ingredients
 
+- <ruby>[食品](../words/食品.md)<rt>ㄙㄧㄎㄆㄨㄇ</rt></ruby>: food, foodstuff — food as a product, an item made or sold.
+- <ruby>[食糧](../words/食糧.md)<rt>ㄙㄧㄎㄌ⼘ㄫ</rt></ruby>: provisions — the grain and food a people or an army lives on.
+- <ruby>[食材](../words/食材.md)<rt>ㄙㄧㄎㄑㄚㄧ</rt></ruby>: an ingredient — a raw material of cooking.
+- <ruby>[主食](../words/主食.md)<rt>ㄐㄨㄙㄧㄎ</rt></ruby>: staple food — the main part of a meal, such as rice or bread.
+- <ruby>[副食](../words/副食.md)<rt>ㄈㄨㄎㄙㄧㄎ</rt></ruby>: side dish, non-staple food — what is eaten with the staple.
+- <ruby>[飲食物](../words/飲食物.md)<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby>: foods and drinks.
+
+### Kitchen, Table & Utensils
+
+- <ruby>[厨房](../words/厨房.md)<rt>ㄑㄨㄛㄅㄚㄫ</rt></ruby>: a kitchen — the room where food is cooked.
+- <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>: a restaurant, dining hall — a place where meals are served.
+- <ruby>[食器](../words/食器.md)<rt>ㄙㄧㄎㄎㄧㄜ</rt></ruby>: tableware — the vessels and implements food is served and eaten from.
+- <ruby>[皿](../words/皿.md)<rt>ㄇ⼶ㄫ</rt></ruby>: a dish, plate — a flat vessel food is served on.
+- <ruby>[碗](../words/碗.md)<rt>⺢ㄋ</rt></ruby>: a bowl — a deep vessel for rice, soup and noodles.
+- <ruby>[鍋](../words/鍋.md)<rt>ㄍ⺢</rt></ruby>: a pot, pan — a vessel for cooking.
+- <ruby>[杯](../words/杯.md)<rt>ㄅㄛㄧ</rt></ruby>: a cup — a drinking vessel; also a measure.
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a knife blade — Rosenfelder's "knife."
 - <ruby>[刀叉](../words/刀叉.md)<rt>ㄊㄚㄨㄑㄚㄧ</rt></ruby>: fork and knife (as a set).
 - <ruby>[砥石](../words/砥石.md)<rt>ㄐㄧㄜㄙㄝㄎ</rt></ruby>: a whetstone, grindstone, for sharpening blades.
@@ -77,60 +98,106 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a spoon, ladle.
 - <ruby>[叉勺](../words/叉勺.md)<rt>ㄑㄚㄧㄐ⺢ㄎ</rt></ruby>: a spork.
 - <ruby>[串](../words/串.md)<rt>ㄐ⺢ㄇ</rt></ruby>: a skewer.
-- <ruby>[食器](../words/食器.md)<rt>ㄙㄧㄎㄎㄧㄜ</rt></ruby>: tableware — the vessels and implements food is served and eaten from.
 
 ### Cooking Techniques
 
 - <ruby>[炊](../words/炊.md)<rt>ㄑㄨㄧ</rt></ruby>: to cook.
 - <ruby>[炒](../words/炒.md)<rt>ㄑㄚㄨ</rt></ruby>: to fry, sauté.
+- <ruby>[蒸](../words/蒸.md)<rt>ㄐㄧㄫ</rt></ruby>: to steam — to cook with the heat of steam.
+- <ruby>[煮沸](../words/煮沸.md)<rt>ㄐㄛㄈㄨㄊ</rt></ruby>: boil.
 - <ruby>[拌和](../words/拌和.md)<rt>ㄅㄚㄋㄏ⺢</rt></ruby>, <ruby>[撹拌](../words/撹拌.md)<rt>ㄍ⼄ㄨㄅㄚㄋ</rt></ruby>: to stir, mix, blend, agitate.
 - <ruby>[剝皮](../words/剝皮.md)<rt>ㄅㄛㄎㄅㄧ</rt></ruby>: to skin, peel, flay.
+- <ruby>[切](../words/切.md)<rt>ㄑㄝㄊ</rt></ruby>: to cut, mince — to divide food with a blade.
 - <ruby>[漬](../words/漬.md)<rt>ㄐㄝ</rt></ruby>: to pickle, salt, soak, steep.
 - <ruby>[醸造](../words/醸造.md)<rt>ㄋ⼘ㄫㄑㄚㄨ</rt></ruby>: to brew, ferment.
 - <ruby>[沈菜](../words/沈菜.md)<rt>ㄑㄧㄇㄑㄚㄧ</rt></ruby>: kimchi — the archaic Sino-Korean term, historical etymon of modern Korean 김치.
 
-### Meat & Seafood
+### Meat
 
-- <ruby>[臘肉](../words/臘肉.md)<rt>ㄌㄚㄆㄋㄨㄎ</rt></ruby>: cured pork, preserved meat.
+- <ruby>[肉類](../words/肉類.md)<rt>ㄋㄨㄎㄌㄨㄧ</rt></ruby>: meats — meat as a category.
+- <ruby>[牛肉](../words/牛肉.md)<rt>ㄋ⼜·ㄋㄨㄎ</rt></ruby>: beef — the meat of the cow.
+- <ruby>[羊肉](../words/羊肉.md)<rt>⼘ㄫㄋㄨㄎ</rt></ruby>: mutton, lamb — the meat of the sheep.
+- <ruby>[豚肉](../words/豚肉.md)<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby>: pork.
 - <ruby>[鶏肉](../words/鶏肉.md)<rt>ㄍㄝㄧㄋㄨㄎ</rt></ruby>: chicken, chicken meat.
+- <ruby>[魚肉](../words/魚肉.md)<rt>⼄·ㄋㄨㄎ</rt></ruby>: fish meat — the flesh of fish as food.
+- <ruby>[臘肉](../words/臘肉.md)<rt>ㄌㄚㄆㄋㄨㄎ</rt></ruby>: cured pork, preserved meat.
+- <ruby>[肴](../words/肴.md)<rt>ㄏ⼘ㄨ</rt></ruby>: cooked meat, a meat dish.
+
+### Seafood
+
+- <ruby>[海産](../words/海産.md)<rt>ㄏㄚㄧㄙㄚㄋ</rt></ruby>, <ruby>[海鮮](../words/海鮮.md)<rt>ㄏㄚㄧㄙ⼶ㄇ</rt></ruby>: seafood — fish, shellfish and other food from the sea; 海産 is the preferred word and 海鮮 a synonym.
+- <ruby>[魚](../words/魚.md)<rt>⼄</rt></ruby>: a fish — fish as an animal and as food.
+- <ruby>[圭魚](../words/圭魚.md)<rt>ㄍ⼔ㄧ⼄</rt></ruby>: salmon — the usual spelling is 鮭魚 (see its aliases).
+- <ruby>[蟹](../words/蟹.md)<rt>ㄏ⼘ㄧ</rt></ruby>: a crab.
+- <ruby>[烏賊](../words/烏賊.md)<rt>ㄛㄐㄨㄎ</rt></ruby>: squid, cuttlefish.
 - <ruby>[明蝦](../words/明蝦.md)<rt>ㄇ⼶ㄫㄏㄚ</rt></ruby>: a king prawn.
 - <ruby>[毛蝦](../words/毛蝦.md)<rt>ㄇㄚㄨㄏㄚ</rt></ruby>: a shrimp.
 - <ruby>[魚翅](../words/魚翅.md)<rt>⼄ㄙㄧ</rt></ruby>: shark fin.
-- <ruby>[肴](../words/肴.md)<rt>ㄏ⼘ㄨ</rt></ruby>: cooked meat, a meat dish.
-- <ruby>[牛肉](../words/牛肉.md)<rt>ㄋ⼜·ㄋㄨㄎ</rt></ruby>: beef — the meat of the cow.
-- <ruby>[羊肉](../words/羊肉.md)<rt>⼘ㄫㄋㄨㄎ</rt></ruby>: mutton, lamb — the meat of the sheep.
-- <ruby>[肉類](../words/肉類.md)<rt>ㄋㄨㄎㄌㄨㄧ</rt></ruby>: meats — meat as a category.
-- <ruby>[魚肉](../words/魚肉.md)<rt>⼄·ㄋㄨㄎ</rt></ruby>: fish meat — the flesh of fish as food.
-- <ruby>[海産](../words/海産.md)<rt>ㄏㄚㄧㄙㄚㄋ</rt></ruby>, <ruby>[海鮮](../words/海鮮.md)<rt>ㄏㄚㄧㄙ⼶ㄇ</rt></ruby>: seafood — fish, shellfish and other food from the sea; 海産 is the preferred word and 海鮮 a synonym.
-- <ruby>[圭魚](../words/圭魚.md)<rt>ㄍ⼔ㄧ⼄</rt></ruby>: salmon — the usual spelling is 鮭魚 (see its aliases).
 
-### Grains & Starches
+### Eggs & Dairy
+
+- <ruby>[鶏卵](../words/鶏卵.md)<rt>ㄍㄝㄧㄌㄚㄋ</rt></ruby>: chicken eggs.
+- <ruby>[牛乳](../words/牛乳.md)<rt>ㄋ⼜·ㄋㄨ</rt></ruby>: cow's milk — "cow" + "milk."
+
+### Grains, Flour & Noodles
 
 - <ruby>[禾](../words/禾.md)<rt>ㄏ⺢</rt></ruby>: grain, cereal (the plant).
 - <ruby>[禾稲](../words/禾稲.md)<rt>ㄏ⺢ㄉㄚㄨ</rt></ruby>: rice (as a crop).
 - <ruby>[水稲](../words/水稲.md)<rt>ㄙㄨㄉㄚㄨ</rt></ruby>: paddy rice — rice planted in a water-logged paddy, as opposed to dry-field rice.
-- <ruby>[水田](../words/水田.md)<rt>ㄙㄨㄉㄝㄋ</rt></ruby>: a rice paddy, paddy field — the land [[水稲]] grows in.
 - <ruby>[穀物](../words/穀物.md)<rt>ㄍㄛㄎㄇㄨㄊ</rt></ruby>: grain, cereal, crops.
 - <ruby>[穣](../words/穣.md)<rt>ㄋ⼘ㄫ</rt></ruby>: stalks of grain.
 - <ruby>[米粟](../words/米粟.md)<rt>ㄇㄝㄧㄙ⼄ㄎ</rt></ruby>: grains, rice and millet.
+- <ruby>[糟糠](../words/糟糠.md)<rt>ㄐㄚㄨㄎㄚㄫ</rt></ruby>: dregs and husks.
 - <ruby>[大麦](../words/大麦.md)<rt>ㄉㄚㄧㄇㄚㄎ</rt></ruby>: barley.
 - <ruby>[小麦](../words/小麦.md)<rt>ㄙㄛ·ㄇㄚㄎ</rt></ruby>: wheat — the grain of flour, bread and noodles.
 - <ruby>[小麦粉](../words/小麦粉.md)<rt>ㄙㄛ·ㄇㄚㄎㄈㄨㄋ</rt></ruby>: wheat flour — flour ground from wheat.
 - <ruby>[米粉](../words/米粉.md)<rt>ㄇㄝㄧㄈㄨㄋ</rt></ruby>: rice flour; in Chinese also rice vermicelli.
 - <ruby>[蕎麦](../words/蕎麦.md)<rt>ㄍ⼘ㄨㄇㄚㄎ</rt></ruby>: buckwheat, soba — the grain of *Fagopyrum*, and the noodles made from it.
-- <ruby>[大豆](../words/大豆.md)<rt>ㄉㄚㄧㄉㄛㄨ</rt></ruby>: the soybean — source of tofu, soy sauce and miso.
-- <ruby>[納豆](../words/納豆.md)<rt>ㄋㄚㄆㄉㄛㄨ</rt></ruby>: natto — soybeans fermented into a sticky food.
-- <ruby>[豆乳](../words/豆乳.md)<rt>ㄉㄛㄨㄋㄨ</rt></ruby>: soy milk — a milk-like drink pressed from soybeans.
 - <ruby>[稗子](../words/稗子.md)<rt>ㄅㄚㄧㄐㄜ</rt></ruby>: barnyard millet (a specific grain species).
 - <ruby>[玄米](../words/玄米.md)<rt>ㄏ⼔ㄋㄇㄝㄧ</rt></ruby>: brown rice.
 - <ruby>[需米](../words/需米.md)<rt>ㄙㄨ·ㄇㄝㄧ</rt></ruby>: glutinous rice — short, sticky rice for rice cakes and sweets; the usual spelling is 糯米 (see its aliases).
 - <ruby>[更米](../words/更米.md)<rt>ㄍㄚㄫㄇㄝㄧ</rt></ruby>: non-glutinous rice — ordinary round-grained japonica rice; the usual spelling is 粳米 (see its aliases).
 - <ruby>[粥](../words/粥.md)<rt>ㄐㄨㄎ</rt></ruby>: congee, rice porridge.
-- <ruby>[麺](../words/麺.md)<rt>ㄇㄝㄋ</rt></ruby>: flour.
+- <ruby>[麺](../words/麺.md)<rt>ㄇㄝㄋ</rt></ruby>: flour; by metonymy, things made from flour, especially noodles.
 - <ruby>[麺包](../words/麺包.md)<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>: bread.
 - <ruby>[糧](../words/糧.md)<rt>ㄌ⼘ㄫ</rt></ruby>: provisions, grain as food supply (homophone of [[両]] and [[梁]]).
 
-### Fruits & Produce
+### Beans & Soy
+
+- <ruby>[豆](../words/豆.md)<rt>ㄉㄛㄨ</rt></ruby>: a bean — the seed of a legume.
+- <ruby>[大豆](../words/大豆.md)<rt>ㄉㄚㄧㄉㄛㄨ</rt></ruby>: the soybean — source of tofu, soy sauce and miso.
+- <ruby>[納豆](../words/納豆.md)<rt>ㄋㄚㄆㄉㄛㄨ</rt></ruby>: natto — soybeans fermented into a sticky food.
+- <ruby>[豆乳](../words/豆乳.md)<rt>ㄉㄛㄨㄋㄨ</rt></ruby>: soy milk — a milk-like drink pressed from soybeans.
+
+### Vegetables & Roots
+
+- <ruby>[野菜](../words/野菜.md)<rt>⼘ㄑㄚㄧ</rt></ruby>: vegetables — edible plants, including wild herbs.
+- <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
+- <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
+- <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
+- <ruby>[大蒜](../words/大蒜.md)<rt>ㄉㄚㄧㄙ⺢ㄇ</rt></ruby>: garlic — the pungent bulb of *Allium sativum*, used as seasoning and vegetable.
+- <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
+- <ruby>[菱](../words/菱.md)<rt>ㄌㄜㄫ</rt></ruby>: a water chestnut.
+- <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
+- <ruby>[山芋](../words/山芋.md)<rt>ㄙㄚㄋ·ㄨ</rt></ruby>: mountain yam — the starchy tuber of *Dioscorea*, Japanese やまいも; a different plant from the sweet potato.
+- <ruby>[馬鈴藷](../words/馬鈴藷.md)<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby>: potato — the starchy tuber of *Solanum tuberosum*; the usual spelling is 馬鈴薯 (see its aliases).
+- <ruby>[里芋](../words/里芋.md)<rt>ㄌㄧㄨ</rt></ruby>: taro.
+- <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
+- <ruby>[椎菌](../words/椎菌.md)<rt>ㄑㄨㄧㄍ⼜ㄋ</rt></ruby>: the shiitake mushroom, echoing Japanese 椎茸 "shii-tree mushroom".
+- <ruby>[南京](../words/南京.md)<rt>ㄋㄚㄇㄍ⼶ㄫ</rt></ruby>: a pumpkin, squash — the Japanese ordinary sense of なんきん (from the Chinese city name); the same spelling is also the city of Nanjing, listed on [China](../lexipedia/China.md).
+- <ruby>[南瓜](../words/南瓜.md)<rt>ㄋㄚㄇㄍ⺢</rt></ruby>: a pumpkin, squash — the large orange-fleshed gourd.
+- <ruby>[冬瓜](../words/冬瓜.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: the winter melon — the large pale gourd eaten as a vegetable and in soup.
+- <ruby>[胡瓜](../words/胡瓜.md)<rt>ㄏㄛㄨㄍ⺢</rt></ruby>: cucumber.
+- <ruby>[苦瓜](../words/苦瓜.md)<rt>ㄎㄛㄍ⺢</rt></ruby>: bitter melon.
+- <ruby>[茄子](../words/茄子.md)<rt>ㄍㄚㄐㄜ</rt></ruby>: eggplant; aubergine.
+- <ruby>[西瓜](../words/西瓜.md)<rt>ㄙㄝㄧㄍ⺢</rt></ruby>: watermelon.
+- <ruby>[甜瓜](../words/甜瓜.md)<rt>ㄉㄧㄇㄍ⺢</rt></ruby>: melon; muskmelon.
+- <ruby>[蕪青](../words/蕪青.md)<rt>ㄇㄨㄑㄝㄫ</rt></ruby>: turnip.
+- <ruby>[落花生](../words/落花生.md)<rt>ㄌㄚㄎㄏ⺢ㄙㄚㄫ</rt></ruby>: a peanut — the seed that ripens underground after the flower falls.
+- <ruby>[昆布](../words/昆布.md)<rt>ㄍㄛㄋㄅㄛ</rt></ruby>: kelp, seaweed — the Japanese kombu of dashi; in Chinese especially used in traditional medicine, and in Korean 곤포, the genuine Sino-Korean term recorded in the Donguibogam.
+- <ruby>[海苔](../words/海苔.md)<rt>ㄏㄚㄧㄊㄛㄧ</rt></ruby>: nori, laver — edible seaweed, especially dried in sheets.
+
+### Fruit
 
 - <ruby>[椰子](../words/椰子.md)<rt>⼘ㄐㄜ</rt></ruby>: coconut — the fruit and the palm itself.
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry.
@@ -146,106 +213,120 @@ Food vocabulary spans meals, ingredients, cooking techniques, and the tastes and
 - <ruby>[栗](../words/栗.md)<rt>ㄌㄧㄊ</rt></ruby>: a chestnut.
 - <ruby>[苺](../words/苺.md)<rt>ㄇㄚㄧ</rt></ruby>: a strawberry.
 - <ruby>[甘蕉](../words/甘蕉.md)<rt>ㄍㄚㄇㄐㄛㄨ</rt></ruby>: banana, plantain — the classical and literary word ("sweet banana"), found in older agricultural and medical texts, displaced in everyday use by 香蕉 (Chinese) and バナナ (Japanese).
-- <ruby>[玉葱](../words/玉葱.md)<rt>⼄ㄎㄑㄛㄫ</rt></ruby>: an onion — the round bulb vegetable; a Japanese coinage "ball-shaped scallion" (玉, ball, + 葱, scallion), the stand-in for the bound character 葱.
-- <ruby>[昆布](../words/昆布.md)<rt>ㄍㄛㄋㄅㄛ</rt></ruby>: kelp, seaweed — the Japanese kombu of dashi; in Chinese especially used in traditional medicine, and in Korean 곤포, the genuine Sino-Korean term recorded in the Donguibogam.
-- <ruby>[海苔](../words/海苔.md)<rt>ㄏㄚㄧㄊㄛㄧ</rt></ruby>: nori, laver — edible seaweed, especially dried in sheets.
+- <ruby>[香蕉](../words/香蕉.md)<rt>ㄏ⼘ㄫㄐㄛㄨ</rt></ruby>: banana.
 - <ruby>[石榴](../words/石榴.md)<rt>ㄙㄝㄎㄌ⼜</rt></ruby>: a pomegranate — the fruit full of seeds in red pulp, and also the tree that bears it; the stand-in for the bound character 榴.
-- <ruby>[菜蔬](../words/菜蔬.md)<rt>ㄑㄚㄧㄙㄜ</rt></ruby>: vegetables, greens.
-- <ruby>[姜](../words/姜.md)<rt>ㄍ⼘ㄋ</rt></ruby>: ginger — the pungent rhizome used widely in CJKV cuisine and medicine.
-- <ruby>[大蒜](../words/大蒜.md)<rt>ㄉㄚㄧㄙ⺢ㄇ</rt></ruby>: garlic — the pungent bulb of *Allium sativum*, used as seasoning and vegetable.
-- <ruby>[竹筍](../words/竹筍.md)<rt>ㄐㄨㄎㄙ⼜ㄊ</rt></ruby>: bamboo shoot.
-- <ruby>[菱](../words/菱.md)<rt>ㄌㄜㄫ</rt></ruby>: a water chestnut.
-- <ruby>[甘藷](../words/甘藷.md)<rt>ㄍㄚㄇㄙㄛ</rt></ruby>, <ruby>[蕃藷](../words/蕃藷.md)<rt>ㄈㄚㄋㄙㄛ</rt></ruby>: sweet potato.
-- <ruby>[山芋](../words/山芋.md)<rt>ㄙㄚㄋ·ㄨ</rt></ruby>: mountain yam — the starchy tuber of *Dioscorea*, Japanese やまいも; a different plant from the sweet potato.
-- <ruby>[馬鈴藷](../words/馬鈴藷.md)<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby>: potato — the starchy tuber of *Solanum tuberosum*; the usual spelling is 馬鈴薯 (see its aliases).
-- <ruby>[甜菜](../words/甜菜.md)<rt>ㄉㄧㄇㄑㄚㄧ</rt></ruby>: sugar beet.
-- <ruby>[椎菌](../words/椎菌.md)<rt>ㄑㄨㄧㄍ⼜ㄋ</rt></ruby>: the shiitake mushroom, echoing Japanese 椎茸 "shii-tree mushroom".
 - <ruby>[橘](../words/橘.md)<rt>ㄍ⼜ㄊ</rt></ruby>: a tangerine, the stand-in for the bound character 橘.
-- <ruby>[南京](../words/南京.md)<rt>ㄋㄚㄇㄍ⼶ㄫ</rt></ruby>: a pumpkin, squash — the Japanese ordinary sense of なんきん (from the Chinese city name); the same spelling is also the city of Nanjing, listed on [China](../lexipedia/China.md).
-- <ruby>[南瓜](../words/南瓜.md)<rt>ㄋㄚㄇㄍ⺢</rt></ruby>: a pumpkin, squash — the large orange-fleshed gourd.
-- <ruby>[冬瓜](../words/冬瓜.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: the winter melon — the large pale gourd eaten as a vegetable and in soup.
-- <ruby>[落花生](../words/落花生.md)<rt>ㄌㄚㄎㄏ⺢ㄙㄚㄫ</rt></ruby>: a peanut — the seed that ripens underground after the flower falls.
+- <ruby>[葡萄](../words/葡萄.md)<rt>ㄅㄛㄉㄚㄨ</rt></ruby>: grapes.
+- <ruby>[金柑](../words/金柑.md)<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby>: kumquat.
+- <ruby>[鰐梨](../words/鰐梨.md)<rt>ㄚㄎㄌㄧㄜ</rt></ruby>: avocado.
+- <ruby>[鳳梨](../words/鳳梨.md)<rt>ㄆㄨㄫㄌㄧㄜ</rt></ruby>: pineapple.
+- <ruby>[烏梅](../words/烏梅.md)<rt>ㄛ·ㄇㄛㄧ</rt></ruby>: smoked ume.
 
-### Sweets & Flavorings
+### Spices & Seasonings
 
+- <ruby>[調味料](../words/調味料.md)<rt>ㄐㄨㄛㄇㄨㄧㄌ⼘ㄨ</rt></ruby>: seasoning, condiment — a substance added to give food flavor.
+- <ruby>[香料](../words/香料.md)<rt>ㄏ⼘ㄫㄌ⼘ㄨ</rt></ruby>: spice — an aromatic substance used to flavor food; also perfume.
+- <ruby>[薄荷](../words/薄荷.md)<rt>ㄅㄚㄎㄏㄚ</rt></ruby>: mint (candy).
+- <ruby>[丁香](../words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>: clove.
+- <ruby>[肉桂](../words/肉桂.md)<rt>ㄋㄨㄎㄍ⼔ㄧ</rt></ruby>: cinnamon.
+- <ruby>[八角](../words/八角.md)<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby>: octagon; star anise (Illicium verum).
+- <ruby>[胡椒](../words/胡椒.md)<rt>ㄏㄛㄨㄐㄛㄨ</rt></ruby>: pepper — the pungent spice from the peppercorn; "foreign pepper" (胡, foreign, + 椒, pepper), recalling its arrival from India as an import; the stand-in for the bound character 椒.
+- <ruby>[芥子](../words/芥子.md)<rt>ㄍㄝㄐㄜ</rt></ruby>: mustard, mustard seed — the tiny seed of the mustard plant and the pungent condiment made from it; in Japanese the same characters read からし for mustard but けし for the opium poppy.
+- <ruby>[胡麻](../words/胡麻.md)<rt>ㄏㄛㄨㄇㄚ</rt></ruby>: sesame.
+- <ruby>[芝麻醤](../words/芝麻醤.md)<rt>ㄐㄧ·ㄇㄚㄐㄚㄫ</rt></ruby>: sesame paste; tahini.
+- <ruby>[食酢](../words/食酢.md)<rt>ㄙㄧㄎㄐㄚㄎ</rt></ruby>: vinegar.
+- <ruby>[油](../words/油.md)<rt>⼜</rt></ruby>: oil — cooking oil and fat.
+- <ruby>[醤油](../words/醤油.md)<rt>ㄐㄚㄫ⼜</rt></ruby>: soy sauce.
+- <ruby>[味噌](../words/味噌.md)<rt>ㄇㄨㄧㄑㄨㄫ</rt></ruby>: miso — a paste of fermented soybeans and grain.
+
+### Tastes & Textures
+
+- <ruby>[甘味](../words/甘味.md)<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby>: sweetness, sweet taste.
+- <ruby>[苦味](../words/苦味.md)<rt>ㄎㄛ·ㄇㄨㄧ</rt></ruby>: bitter taste, bitterness.
+- <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
+- <ruby>[粘](../words/粘.md)<rt>ㄋㄝㄇ</rt></ruby>: sticky, glutinous — the texture of glutinous rice, its own etymological source (粘米, "sticky rice").
+- <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
+- <ruby>[美味](../words/美味.md)<rt>ㄇㄧ·ㄇㄨㄧ</rt></ruby>: delicious, delicacy — tasting very good; fine food.
+- <ruby>[鮮美](../words/鮮美.md)<rt>ㄙ⼶ㄇㄇㄧ</rt></ruby>: delicious, tasty.
+- <ruby>[清馨](../words/清馨.md)<rt>ㄑㄧㄫㄏㄝㄫ</rt></ruby>: a delicate, pure fragrance — a literary descriptor, often of tea, flowers, or wine.
+
+### Sweets & Sweeteners
+
+- <ruby>[沙糖](../words/沙糖.md)<rt>ㄙㄚㄉ⺢ㄫ</rt></ruby>: sugar — sweet crystals refined from cane or beet, in grains; the usual spelling is 砂糖 (see its aliases).
+- <ruby>[蜂蜜](../words/蜂蜜.md)<rt>ㄈㄛㄫㄇㄧㄊ</rt></ruby>: honey — the sweet substance bees make.
+- <ruby>[麦芽](../words/麦芽.md)<rt>ㄇㄚㄎ·ㄚ</rt></ruby>: malt.
+- <ruby>[麦芽糖](../words/麦芽糖.md)<rt>ㄇㄚㄎ·ㄚㄉ⺢ㄫ</rt></ruby>: maltose.
 - <ruby>[果子](../words/果子.md)<rt>ㄍ⺢ㄐㄜ</rt></ruby>: candy, pastry.
 - <ruby>[果醤](../words/果醤.md)<rt>ㄍ⺢ㄐㄚㄫ</rt></ruby>: jam, jelly, preserves.
 - <ruby>[餅](../words/餅.md)<rt>ㄅㄧㄫ</rt></ruby>: pastry, cake, mochi.
 - <ruby>[粄](../words/粄.md)<rt>ㄅㄧㄇ</rt></ruby>: a glutinous rice cake, distinct from 餅's wheat-based sense.
-- <ruby>[薄荷](../words/薄荷.md)<rt>ㄅㄚㄎㄏㄚ</rt></ruby>: mint (candy).
-- <ruby>[丁香](../words/丁香.md)<rt>ㄉㄝㄫㄏ⼘ㄫ</rt></ruby>: clove.
-- <ruby>[甘味](../words/甘味.md)<rt>ㄍㄚㄇㄇㄨㄧ</rt></ruby>: sweetness, sweet taste.
-- <ruby>[苦味](../words/苦味.md)<rt>ㄎㄛ·ㄇㄨㄧ</rt></ruby>: bitter taste, bitterness.
-- <ruby>[清淡](../words/清淡.md)<rt>ㄑㄧㄫㄉㄚㄇ</rt></ruby>: insipid, plain, dilute.
-- <ruby>[調味料](../words/調味料.md)<rt>ㄐㄨㄛㄇㄨㄧㄌ⼘ㄨ</rt></ruby>: seasoning, condiment — a substance added to give food flavor.
-- <ruby>[美味](../words/美味.md)<rt>ㄇㄧ·ㄇㄨㄧ</rt></ruby>: delicious, delicacy — tasting very good; fine food.
-- <ruby>[粘](../words/粘.md)<rt>ㄋㄝㄇ</rt></ruby>: sticky, glutinous — the texture of glutinous rice, its own etymological source (粘米, "sticky rice").
-- <ruby>[辛辣](../words/辛辣.md)<rt>ㄙㄧㄋㄌㄚㄊ</rt></ruby>: spicy, pungent (also figuratively "biting, caustic" of speech or writing).
-- <ruby>[芥子](../words/芥子.md)<rt>ㄍㄝㄐㄜ</rt></ruby>: mustard, mustard seed — the tiny seed of the mustard plant and the pungent condiment made from it; in Japanese the same characters read からし for mustard but けし for the opium poppy.
-- <ruby>[胡椒](../words/胡椒.md)<rt>ㄏㄛㄨㄐㄛㄨ</rt></ruby>: pepper — the pungent spice from the peppercorn; "foreign pepper" (胡, foreign, + 椒, pepper), recalling its arrival from India as an import; the stand-in for the bound character 椒.
-- <ruby>[清馨](../words/清馨.md)<rt>ㄑㄧㄫㄏㄝㄫ</rt></ruby>: a delicate, pure fragrance — a literary descriptor, often of tea, flowers, or wine.
+- <ruby>[甘露](../words/甘露.md)<rt>ㄍㄚㄇㄌㄛ</rt></ruby>: honeydew; nectar; amrita.
 
-### Sauces, Broths & Juices
+### Soups & Juices
 
 - <ruby>[汁](../words/汁.md)<rt>ㄐㄜㄆ</rt></ruby>: soup, juice (the general term).
 - <ruby>[肉汁](../words/肉汁.md)<rt>ㄋㄨㄎㄐㄜㄆ</rt></ruby>, <ruby>[肉湯](../words/肉湯.md)<rt>ㄋㄨㄎㄊㄚㄫ</rt></ruby>: gravy, broth (of meat).
 - <ruby>[果汁](../words/果汁.md)<rt>ㄍ⺢ㄐㄜㄆ</rt></ruby>: fruit juice.
 - <ruby>[菜汁](../words/菜汁.md)<rt>ㄑㄚㄧㄐㄜㄆ</rt></ruby>: vegetable juice.
-- <ruby>[醤油](../words/醤油.md)<rt>ㄐㄚㄫ⼜</rt></ruby>: soy sauce.
-- <ruby>[味噌](../words/味噌.md)<rt>ㄇㄨㄧㄑㄨㄫ</rt></ruby>: miso — a paste of fermented soybeans and grain.
 
 ### Drinks
 
+- <ruby>[飲料](../words/飲料.md)<rt>ㄨㄇㄌ⼘ㄨ</rt></ruby>: a beverage — any drink.
 - <ruby>[大麦茶](../words/大麦茶.md)<rt>ㄉㄚㄧㄇㄚㄎㄑㄚ</rt></ruby>, <ruby>[麦茶](../words/麦茶.md)<rt>ㄇㄚㄎㄑㄚ</rt></ruby>: barley tea.
 - <ruby>[烏龍茶](../words/烏龍茶.md)<rt>ㄛㄌ⼄ㄫㄑㄚ</rt></ruby>: oolong tea.
 - <ruby>[紅茶](../words/紅茶.md)<rt>ㄏㄛㄫㄑㄚ</rt></ruby>: black tea, red tea.
+- <ruby>[玄米茶](../words/玄米茶.md)<rt>ㄏ⼔ㄋㄇㄝㄧㄑㄚ</rt></ruby>: genmaicha.
+- <ruby>[珈啡](../words/珈啡.md)<rt>ㄎㄚㄈㄧ</rt></ruby>: coffee.
+- <ruby>[珈啡因](../words/珈啡因.md)<rt>ㄎㄚㄈㄧㄧㄋ</rt></ruby>: caffeine, the bitter alkaloid of coffee and tea.
+- <ruby>[茉莉](../words/茉莉.md)<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby>: white jasmine (tea-flavoring).
+- <ruby>[酒精](../words/酒精.md)<rt>ㄐㄨㄛㄐㄝㄫ</rt></ruby>: alcohol — the generic term, covering the chemical and the drink; the drinks alone are 蒸餾酒精.
 - <ruby>[焼酎](../words/焼酎.md)<rt>ㄙ⼄ㄨㄐㄨㄛ</rt></ruby>: soju, shochu, rice wine.
 - <ruby>[麦酒](../words/麦酒.md)<rt>ㄇㄚㄎㄐㄨㄛ</rt></ruby>: beer.
-- <ruby>[飲料](../words/飲料.md)<rt>ㄨㄇㄌ⼘ㄨ</rt></ruby>: a beverage — any drink.
-- <ruby>[乾杯](../words/乾杯.md)<rt>ㄍ⼶ㄋㄅㄛㄧ</rt></ruby>: a toast, cheers — to raise a glass and drink to someone.
-- <ruby>[飲酒](../words/飲酒.md)<rt>ㄨㄇㄐㄨㄛ</rt></ruby>: drinking alcohol — to drink wine, beer or spirits.
+- <ruby>[清酒](../words/清酒.md)<rt>ㄑㄧㄫㄐㄨㄛ</rt></ruby>: sake.
 - <ruby>[醇酒](../words/醇酒.md)<rt>ㄙㄨㄋㄐㄨㄛ</rt></ruby>: good wine.
 - <ruby>[酌酒](../words/酌酒.md)<rt>ㄐㄚㄎㄐㄨㄛ</rt></ruby>: to pour wine.
+- <ruby>[乾杯](../words/乾杯.md)<rt>ㄍ⼶ㄋㄅㄛㄧ</rt></ruby>: a toast, cheers — to raise a glass and drink to someone.
+- <ruby>[飲酒](../words/飲酒.md)<rt>ㄨㄇㄐㄨㄛ</rt></ruby>: drinking alcohol — to drink wine, beer or spirits.
+- <ruby>[暴飲](../words/暴飲.md)<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby>: to binge drink.
 - <ruby>[酔](../words/酔.md)<rt>ㄐㄨㄧ</rt></ruby>: drunk.
 - <ruby>[酩丁](../words/酩丁.md)<rt>ㄇㄝㄫㄉㄝㄫ</rt></ruby>: dead drunk, thoroughly intoxicated — a step beyond [[酔]]; written 酩酊 in the source languages.
 - <ruby>[酒糟](../words/酒糟.md)<rt>ㄐㄨㄛㄐㄚㄨ</rt></ruby>: distiller's grain, lees.
 - <ruby>[酵母](../words/酵母.md)<rt>ㄍ⼄ㄨㄇㄛㄨ</rt></ruby>: yeast, leaven — the fermenting fungus used in brewing and baking; the agent behind the wine, beer and bread above.
 - <ruby>[渇](../words/渇.md)<rt>ㄎㄚㄊ</rt></ruby>: thirst, thirsty.
-- <ruby>[茉莉](../words/茉莉.md)<rt>ㄇㄚㄊㄌㄝㄧ</rt></ruby>: white jasmine (tea-flavoring).
-- <ruby>[珈啡因](../words/珈啡因.md)<rt>ㄎㄚㄈㄧㄧㄋ</rt></ruby>: caffeine, the bitter alkaloid of coffee and tea.
 
-### Fishing & Harvest
+### Farming
+
+- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture; farming.
+- <ruby>[水田](../words/水田.md)<rt>ㄙㄨㄉㄝㄋ</rt></ruby>: a rice paddy, paddy field — the land [[水稲]] grows in.
+- <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: to harvest; a crop, yield.
+- <ruby>[畝](../words/畝.md)<rt>ㄇㄛㄨ</rt></ruby>: a furrow — a plowed field-row.
+- <ruby>[産量](../words/産量.md)<rt>ㄙㄚㄋㄌ⼘ㄫ</rt></ruby>: output, yield.
+
+### Fishing
 
 - <ruby>[漁業](../words/漁業.md)<rt>⼄ㄝㄆ</rt></ruby>: the fishing industry, fishery.
 - <ruby>[漁夫](../words/漁夫.md)<rt>⼄ㄈㄜ</rt></ruby>: a fisherman — the individual who fishes; attested in Mandarin, Cantonese, Japanese and Korean, beside [[漁民]] for the fishing population as a whole.
 - <ruby>[漁民](../words/漁民.md)<rt>⼄·ㄇㄧㄋ</rt></ruby>: fisherfolk, fishing people — the fishing population collectively, beside [[漁夫]] (a fisherman) and [[漁業]] (the industry).
 - <ruby>[漁船](../words/漁船.md)<rt>⼄ㄙ⼔ㄇ</rt></ruby>: a fishing boat.
 - <ruby>[禁漁](../words/禁漁.md)<rt>ㄍㄧㄇ·⼄</rt></ruby>: a fishing ban.
+- <ruby>[釣漁](../words/釣漁.md)<rt>ㄑㄛㄨ⼄</rt></ruby>: to fish, angling.
 - <ruby>[釣竿](../words/釣竿.md)<rt>ㄑㄛㄨㄍㄚㄋ</rt></ruby>: a fishing pole.
 - <ruby>[網](../words/網.md)<rt>ㄇㄚㄫ</rt></ruby>: netting, a net — also, by extension, "a network" (internet senses); cited here for the fishing-net sense, the one real tool-vocabulary home this word has in this vault.
-- <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: to harvest; a crop, yield.
-- <ruby>[畝](../words/畝.md)<rt>ㄇㄛㄨ</rt></ruby>: a furrow — a plowed field-row.
-- <ruby>[産量](../words/産量.md)<rt>ㄙㄚㄋㄌ⼘ㄫ</rt></ruby>: output, yield.
 
-### Nutrition & Quality
+### Nutrition, Hunger & Appetite
 
 - <ruby>[営養](../words/営養.md)<rt>⼶ㄫ⼘ㄫ</rt></ruby>, <ruby>[栄養](../words/栄養.md)<rt>ㄨㄧㄫ⼘ㄫ</rt></ruby>: nutrition, nourishment. See Semantic Range Notes.
 - <ruby>[栄養素](../words/栄養素.md)<rt>ㄨㄧㄫ⼘ㄫㄙㄛ</rt></ruby>: a nutrient — the elemental substance of [[栄養]] (nourishment).
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh, novel.
-- <ruby>[鮮美](../words/鮮美.md)<rt>ㄙ⼶ㄇㄇㄧ</rt></ruby>: delicious, tasty.
 - <ruby>[摂食](../words/摂食.md)<rt>ㄋㄝㄆㄙㄧㄎ</rt></ruby>: to feed, ingest.
 - <ruby>[飽](../words/飽.md)<rt>ㄅ⼘ㄨ</rt></ruby>: sated, full, satisfied (after eating) — see also 飽和, "saturation," in a technical register.
 - <ruby>[喫](../words/喫.md)<rt>ㄎㄝㄎ</rt></ruby>: to devour, ingest.
 - <ruby>[大食](../words/大食.md)<rt>ㄉㄚㄧㄙㄧㄎ</rt></ruby>: to binge eat; the same spelling is the Tajik people, listed on Geography.
-- <ruby>[暴飲](../words/暴飲.md)<rt>ㄅㄛㄎ·ㄨㄇ</rt></ruby>: to binge drink.
 - <ruby>[飢餓](../words/飢餓.md)<rt>ㄍㄧㄜㄚ</rt></ruby>: hungry, starving.
 - <ruby>[空腹](../words/空腹.md)<rt>ㄎㄛㄫㄈㄨㄎ</rt></ruby>: an empty stomach, hunger — having eaten nothing.
 - <ruby>[飢饉](../words/飢饉.md)<rt>ㄍㄧㄜㄍㄨㄋ</rt></ruby>: a famine, crop failure.
+- <ruby>[断食](../words/断食.md)<rt>ㄉ⺢ㄋㄙㄧㄎ</rt></ruby>: fast.
 - <ruby>[食欲](../words/食欲.md)<rt>ㄙㄧㄎ·⼄ㄎ</rt></ruby>: appetite — the desire to eat.
-
-### Not Yet Coined
-
-Rosenfelder terms with no Dan'a'yo word yet: bread (a general category beyond [[麺包]]'s specific loaf sense), a cup, cheese (a general word beyond [[乳酪]]/[[乾酪]]'s "dairy products"/"cheese"), wine (a general category beyond the specific drinks above), poison, coffee, milk, soda, cider, honey, butter, sausage, gravy (general, beyond [[肉汁]]), butcher, dough, pasta, noodle, spice (general), candy (general, beyond [[果子]]), dessert, custard, pudding, cake (general, beyond [[餅]]), chocolate, broth (general, beyond [[肉湯]]), stew.
 
 ## Advanced / Specialized (C1+)
 
@@ -292,44 +373,6 @@ Two of the three technique characters (煎, 炸) are marked `名専字` (name/tr
 |**鶏**|<ruby>炸鶏丁<rt>ㄐㄚㄎㄍㄝㄧㄉㄝㄫ</rt></ruby>|<ruby>炸鶏片<rt>ㄐㄚㄎㄍㄝㄧㄆㄝㄋ</rt></ruby>|<ruby>炸鶏条<rt>ㄐㄚㄎㄍㄝㄧㄐㄛ</rt></ruby>|<ruby>炸鶏糸<rt>ㄐㄚㄎㄍㄝㄧㄙㄚ</rt></ruby>|<ruby>炸鶏球<rt>ㄐㄚㄎㄍㄝㄧㄍ⼜</rt></ruby>|
 |**蝦**|<ruby>炸蝦丁<rt>ㄐㄚㄎㄏㄚㄉㄝㄫ</rt></ruby>|<ruby>炸蝦片<rt>ㄐㄚㄎㄏㄚㄆㄝㄋ</rt></ruby>|<ruby>炸蝦条<rt>ㄐㄚㄎㄏㄚㄐㄛ</rt></ruby>|<ruby>炸蝦糸<rt>ㄐㄚㄎㄏㄚㄙㄚ</rt></ruby>|<ruby>炸蝦球<rt>ㄐㄚㄎㄏㄚㄍ⼜</rt></ruby>|
 
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[八角](../words/八角.md)<rt>ㄅㄚㄊㄍㄛㄎ</rt></ruby>: octagon; star anise (Illicium verum).
-- <ruby>[断食](../words/断食.md)<rt>ㄉ⺢ㄋㄙㄧㄎ</rt></ruby>: fast.
-- <ruby>[清酒](../words/清酒.md)<rt>ㄑㄧㄫㄐㄨㄛ</rt></ruby>: sake.
-- <ruby>[烏梅](../words/烏梅.md)<rt>ㄛ·ㄇㄛㄧ</rt></ruby>: smoked ume.
-- <ruby>[烏龍麺](../words/烏龍麺.md)<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby>: udon noodles.
-- <ruby>[煮沸](../words/煮沸.md)<rt>ㄐㄛㄈㄨㄊ</rt></ruby>: boil.
-- <ruby>[玄米茶](../words/玄米茶.md)<rt>ㄏ⼔ㄋㄇㄝㄧㄑㄚ</rt></ruby>: genmaicha.
-- <ruby>[珈啡](../words/珈啡.md)<rt>ㄎㄚㄈㄧ</rt></ruby>: coffee.
-- <ruby>[甘露](../words/甘露.md)<rt>ㄍㄚㄇㄌㄛ</rt></ruby>: honeydew; nectar; amrita.
-- <ruby>[甜瓜](../words/甜瓜.md)<rt>ㄉㄧㄇㄍ⺢</rt></ruby>: melon; muskmelon.
-- <ruby>[糟糠](../words/糟糠.md)<rt>ㄐㄚㄨㄎㄚㄫ</rt></ruby>: dregs and husks.
-- <ruby>[肉桂](../words/肉桂.md)<rt>ㄋㄨㄎㄍ⼔ㄧ</rt></ruby>: cinnamon.
-- <ruby>[胡瓜](../words/胡瓜.md)<rt>ㄏㄛㄨㄍ⺢</rt></ruby>: cucumber.
-- <ruby>[胡麻](../words/胡麻.md)<rt>ㄏㄛㄨㄇㄚ</rt></ruby>: sesame.
-- <ruby>[芝麻醤](../words/芝麻醤.md)<rt>ㄐㄧ·ㄇㄚㄐㄚㄫ</rt></ruby>: sesame paste; tahini.
-- <ruby>[苦瓜](../words/苦瓜.md)<rt>ㄎㄛㄍ⺢</rt></ruby>: bitter melon.
-- <ruby>[茄子](../words/茄子.md)<rt>ㄍㄚㄐㄜ</rt></ruby>: eggplant; aubergine.
-- <ruby>[葡萄](../words/葡萄.md)<rt>ㄅㄛㄉㄚㄨ</rt></ruby>: grapes.
-- <ruby>[蕪青](../words/蕪青.md)<rt>ㄇㄨㄑㄝㄫ</rt></ruby>: turnip.
-- <ruby>[西瓜](../words/西瓜.md)<rt>ㄙㄝㄧㄍ⺢</rt></ruby>: watermelon.
-- <ruby>[豆腐](../words/豆腐.md)<rt>ㄉㄛㄨㄆㄨ</rt></ruby>: tofu.
-- <ruby>[豚肉](../words/豚肉.md)<rt>ㄊㄨㄋㄋㄨㄎ</rt></ruby>: pork.
-- <ruby>[農業](../words/農業.md)<rt>ㄋㄛㄫㄝㄆ</rt></ruby>: agriculture; farming.
-- <ruby>[里芋](../words/里芋.md)<rt>ㄌㄧㄨ</rt></ruby>: taro.
-- <ruby>[金柑](../words/金柑.md)<rt>ㄍㄧㄇㄍㄚㄇ</rt></ruby>: kumquat.
-- <ruby>[釣漁](../words/釣漁.md)<rt>ㄑㄛㄨ⼄</rt></ruby>: fish.
-- <ruby>[雲呑](../words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby>: wonton.
-- <ruby>[食酢](../words/食酢.md)<rt>ㄙㄧㄎㄐㄚㄎ</rt></ruby>: vinegar.
-- <ruby>[飲食物](../words/飲食物.md)<rt>ㄨㄇㄙㄧㄎㄇㄨㄊ</rt></ruby>: foods and drinks.
-- <ruby>[香蕉](../words/香蕉.md)<rt>ㄏ⼘ㄫㄐㄛㄨ</rt></ruby>: banana.
-- <ruby>[鰐梨](../words/鰐梨.md)<rt>ㄚㄎㄌㄧㄜ</rt></ruby>: avocado.
-- <ruby>[鳳梨](../words/鳳梨.md)<rt>ㄆㄨㄫㄌㄧㄜ</rt></ruby>: pineapple.
-- <ruby>[麦芽](../words/麦芽.md)<rt>ㄇㄚㄎ·ㄚ</rt></ruby>: malt.
-- <ruby>[麦芽糖](../words/麦芽糖.md)<rt>ㄇㄚㄎ·ㄚㄉ⺢ㄫ</rt></ruby>: maltose.
-- <ruby>[麺包](../words/麺包.md)<rt>ㄇㄝㄋㄅ⼘ㄨ</rt></ruby>: bread; any baked good with a crust.
-
 ## Semantic Range Notes
 
 **井物 is filed under Japanese vocabulary, not a genuine Chinese compound**: this vault's own convention already uses 井 as a substitute glyph for the real character 丼 (donburi, "rice bowl") — 井+物 has no compositional "bowl of food" meaning of its own, the same pattern documented on [[井戸]]. It's the general category name that [[牛井]]/[[親子井]]/[[豚井]] (Rice Bowl Dishes above) are specific members of.
@@ -342,6 +385,38 @@ Two of the three technique characters (煎, 炸) are marked `名専字` (name/tr
 
 **The technique×ingredient×cutting-style grid is a generative pattern, not a word list**: unlike every other citation on this page, none of its 60 cells are individually created word files, and 名専字-status on 煎/炸 is not a barrier to their use here — a bound, name-only character can still appear productively inside a larger compound. The point of the grid is to show that the *pattern itself* is fully specified (any of 3 techniques × 4 ingredients × 5 cutting-styles yields a well-formed dish name), not to claim that all 60 specific dishes are independently attested vocabulary.
 
+**酒精 is the generic word for alcohol; the drinks are 蒸餾酒精**: [[酒精]] covers alcohol as a substance, including in chemistry, as well as the drink. The phrase 蒸餾酒精, "distilled alcohol", names the drinks alone. The character 酒 has 酒精 as its stand-in. Particular drinks are [[焼酎]], [[麦酒]], [[清酒]] and [[醇酒]], the act is [[飲酒]], and the process is [[蒸溜]], distillation.
+
+**麺 is flour, and by metonymy noodles**: [[麺]] stands alone as the original word for flour, and is allowed to mean the things made from flour, above all noodles, so there is no separate word for "noodle". The specific kinds are [[拉麺]], [[冷麺]] and [[烏龍麺]], and the grain behind it is [[小麦]], wheat, ground as [[小麦粉]].
+
+**海産 and 海鮮 — seafood**: [[海産]] is the Dan'a'yo word for seafood, and [[海鮮]] is a synonym of it. The flesh of fish is [[魚肉]], and the fish itself is [[魚]], with [[圭魚]], salmon, among the named kinds.
+
+**肉, 肉類 and the meats**: [[肉]] is meat in general, and [[肉類]] is meat as a category. The named meats are [[牛肉]], [[羊肉]], [[豚肉]], [[鶏肉]] and [[魚肉]], and the prepared kinds are [[臘肉]], cured meat, and [[肴]], a meat dish.
+
+**Rice has seven words**: [[米]] is uncooked rice and [[米飯]] cooked rice. [[玄米]] is brown rice. [[需米]], whose usual spelling is 糯米, is glutinous rice, and [[更米]], whose usual spelling is 粳米, is ordinary non-glutinous rice. [[禾稲]] is rice as a crop and [[水稲]] paddy rice, grown in the [[水田]].
+
+**食物, 食品, 食材, 食糧 and 料理 — five food words**: [[食物]] is food as what is eaten. [[食品]] is food as a product, an item made or sold, and [[食材]] is an ingredient, the raw side of cooking. [[食糧]] is provisions, the food of a whole people or army, and [[料理]] is the preparing of food, and so a dish or a cuisine.
+
+**One bean, many foods**: [[大豆]], the soybean, is the source of [[豆腐]], tofu, [[醤油]], soy sauce, [[味噌]], miso, [[納豆]], natto, and [[豆乳]], soy milk. The [[落花生]], peanut, is a legume too, but not a soybean.
+
+**Sugars and sweeteners**: [[糖]] is sugar in general, and [[沙糖]] is sugar refined in grains. [[麦芽糖]] is maltose, from [[麦芽]], malt. [[蜂蜜]] is honey, and [[果醤]] is jam.
+
+**朝食, 早飯, 午飯 and 晩飯 — the meals of the day**: [[朝食]] is the formal word for breakfast, and [[早飯]] is breakfast in Chinese and Korean but, in Japanese, a fast eater. [[午飯]] and [[午餐]] are lunch, and [[晩飯]], [[晩餐]] and [[正餐]] are dinner.
+
+**Spelled with a stand-in character**: several words here are written with a character that stands in for the usual one: [[沙糖]] for 砂糖, [[圭魚]] for 鮭魚, [[需米]] for 糯米, [[更米]] for 粳米, and [[馬鈴藷]] for 馬鈴薯. The usual spelling is recorded as an alias of each word. [[大蒜]], garlic, rests on a character, 蒜, that was created for it, read *swam*, a syllable that no other character uses.
+
 ## See Also
 
-*(No related domains linked yet — none of the vault's other lexipedia pages currently share enough vocabulary with this one to justify a formal cross-reference.)*
+**Related domains**:
+- [[Plants]] — the plants that become food: [[野菜]], vegetables, and [[豆]], beans, are listed here and there.
+- [[Animals]] — the animals that become food: [[魚]], [[蟹]], [[烏賊]], [[鶏卵]] and [[蜂蜜]] are listed here too.
+- [[Sensation]] — taste is a sense, and [[甘味]], sweetness, and [[辛辣]], pungency, belong to both.
+- [[Body]] — [[飢餓]], hunger, and [[食欲]], appetite, are the body's side of eating.
+- [[Containers]] — [[皿]], dish, [[碗]], bowl, [[鍋]], pot, and [[杯]], cup, are the vessels of food.
+- [[Buildings]] — [[厨房]], kitchen, and [[食堂]], dining hall, are the places where food is made and eaten.
+- [[Water]] — [[蒸]], to steam, is cooking by water.
+- [[Substances]] — [[油]], oil, and [[酒精]], alcohol, are substances as well as foods.
+- [[Trade]] — [[食糧]], provisions, and [[食品]], food as goods, are traded.
+
+**Idiomatic uses**:
+- [[飲食歓楽]] — "eat, drink and be merry," the Biblical phrase that sets eating and drinking beside pleasure.

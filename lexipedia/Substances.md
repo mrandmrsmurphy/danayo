@@ -4,6 +4,7 @@ type: lexipedia
 domain: Substances
 related_domains:
   - "[[Physics]]"
+  - "[[Food]]"
 status: stub
 ---
 

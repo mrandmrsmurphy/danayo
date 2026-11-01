@@ -4,6 +4,7 @@ type: lexipedia
 domain: Water
 related_domains:
   - "[[Geography]]"
+  - "[[Food]]"
 status: complete
 date-last-perfect: 2026-10-29
 ---
