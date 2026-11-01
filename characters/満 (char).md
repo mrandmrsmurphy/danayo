@@ -30,6 +30,8 @@ stand_in: 満
 aliases:
   - 滿
   - 满
+  - 懣
+  - 𢡛
 注音: ㄇㄚㄋ
 date-last-perfect: 2026-10-20
 kwin: true
@@ -59,6 +61,7 @@ boundedness: 50
 - <ruby>[[満洲]]<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> "Manchu"
 - <ruby>[[満族]]<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby> "Manchu ethnicity"
 - <ruby>[[充満]]<rt>ㄑㄨㄫㄇㄚㄋ</rt></ruby> "be filled with"
+- <ruby>[[憤満]]<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby> "resentment"
 
 ## Chengyu
 - <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄛㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"
