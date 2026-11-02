@@ -1646,7 +1646,7 @@ tags: [lookup]
 [[萄]]: 1
 [[漆 (char)]]: 1
 [[棋]]: 1
-[[袍]]: 1
+[[袍 (char)|袍]]: 1
 [帜](../../characters/幟%20(char).md): 1
 [[幟 (char)]]: 1
 [愤](../../characters/憤.md): 1

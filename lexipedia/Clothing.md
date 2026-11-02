@@ -48,6 +48,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 
 ### Garments
 
+- <ruby>[袍](../words/袍.md)<rt>ㄆ⼘ㄨ</rt></ruby>: a robe, a long gown.
 - <ruby>[袂](../words/袂.md)<rt>ㄇㄝ</rt></ruby>, <ruby>[袖](../words/袖.md)<rt>ㄙㄨㄛ</rt></ruby>: a sleeve.
 - <ruby>[衣襟](../words/衣襟.md)<rt>ㄧㄜㄍㄧㄇ</rt></ruby>: a collar.
 - <ruby>[袴](../words/袴.md)<rt>ㄎㄛ</rt></ruby>: pants.

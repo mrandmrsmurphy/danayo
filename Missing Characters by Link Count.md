@@ -31,7 +31,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 [[擠]]
 
 ### 2 Old HSKs +  Korean Name 
-[[陌]] [[辜]] [[幢]] [[氓]] [[磅]] [[哦]] [[沾]] [[袍]] [[橡]] [[捐]] [[杠]] [[碌]] [[渺]] [[稠]] [[烹]]
+[[陌]] [[辜]] [[幢]] [[氓]] [[磅]] [[哦]] [[沾]] [[橡]] [[捐]] [[杠]] [[碌]] [[渺]] [[稠]] [[烹]]
 
 ### Old HSK + Japanese + Korean Name
 [[廂]] [[訝]] [[籬]] [[薯]] [[斃]] [[瘤]] [[臂]] 

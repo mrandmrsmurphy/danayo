@@ -737,7 +737,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 732.  [[珠]]
 733.  [[滋]]
 734.  [[暴 (char)]]
-735.  [[袍]]
+735.  [[袍 (char)|袍]]
 736.  [[滔]]
 737.  [[娃]]
 738.  [娇](../../characters/嬌.md)

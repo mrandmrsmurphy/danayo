@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-10-31
 stroke_count: 10
-size: 20
+size: 21
 skip_number: 1-5-5
 tags:
   - lookup
@@ -28,8 +28,9 @@ tags:
 16. <ruby>[秩](characters/秩.md)<rt>ㄉㄧㄊ</rt></ruby> "regularity"
 17. <ruby>[称](characters/称.md)<rt>ㄑㄧㄫ</rt></ruby> "appellation"
 18. <ruby>[站](characters/站.md)<rt>ㄐㄚㄇ</rt></ruby> "station"
-19. <ruby>[袖](characters/袖%20(char).md)<rt>ㄙㄨㄛ</rt></ruby> "sleeve"
-20. <ruby>[被](characters/被%20(char).md)<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)"
+19. <ruby>[袍](characters/袍%20(char).md)<rt>ㄆ⼘ㄨ</rt></ruby> "robe"
+20. <ruby>[袖](characters/袖%20(char).md)<rt>ㄙㄨㄛ</rt></ruby> "sleeve"
+21. <ruby>[被](characters/被%20(char).md)<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)"
 
 ## Datacheck
 ```dataview

@@ -73,3 +73,4 @@ boundedness: 70
 - <ruby>[[疱]]<rt>ㄆㄚㄨ</rt></ruby> "acne"
 - <ruby>[[鞄 (char)|鞄]]<rt>ㄆㄚㄎ</rt></ruby> "bag, luggage"
 - <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby> "abalone"
+- <ruby>[[袍 (char)|袍]]<rt>ㄆ⼘ㄨ</rt></ruby> "robe"

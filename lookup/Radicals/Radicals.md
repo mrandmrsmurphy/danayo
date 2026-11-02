@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-11-01
+date-last-perfect: 2026-11-02
 tags: [lookup]
 ---
 
@@ -197,7 +197,7 @@ __Combining or simplified radicals with 5 strokes__
 - [[Radical 142]] 虫 (44 characters)
 - [[Radical 143]] 血 (3 characters)
 - [[Radical 144]] 行 (7 characters)
-- [[Radical 145]] 衣 or combining as 衤 (29 characters)
+- [[Radical 145]] 衣 or combining as 衤 (30 characters)
 - [[Radical 146]] 西 or combining as 覀 (4 characters)
 
 __Combining or simplified radicals with 6 strokes__

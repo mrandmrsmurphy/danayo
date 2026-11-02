@@ -666,6 +666,7 @@ tags: [lookup]
 659. [蒜](../../characters/蒜.md)
 660. [櫃](../../characters/櫃%20(char).md)
 661. [檻](../../characters/檻%20(char).md)
+662. [袍](../../characters/袍%20(char).md)
 
 ## Checked
 [唸](../../characters/念.md) [[囀]] [[臀]] [[鵜]] [[薙]] [[碇]] [煽](../../characters/扇.md) 
