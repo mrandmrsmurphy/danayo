@@ -1508,7 +1508,7 @@ tags: [lookup]
 [庆](../../characters/慶%20(char).md): 1
 [[慶 (char)]]: 1
 [[乏]]: 1
-[[裙」」: 1
+[[裙 (char)|裙]]: 1
 [才](../../characters/才.md): 1
 [币](../../characters/幣%20(char).md): 1
 [幣 (char)](../../characters/幣%20(char).md): 1

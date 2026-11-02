@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[兜]]<rt>ㄉㄨ</rt></ruby> "helmet" (stand-in for 兜)
+- <ruby>[[兜当布]]<rt>ㄉㄨㄉㄚㄫㄅㄛ</rt></ruby> "loincloth"

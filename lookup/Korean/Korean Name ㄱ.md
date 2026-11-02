@@ -130,7 +130,7 @@ This has been checked for redirects.
 [鞠](characters/鞠.md) [[鞫]] [麴](characters/鞠.md)
 
 ### 군 
-[[窘]] [[裙]] 
+[[窘]] [裙](../../characters/裙%20(char).md) 
 
 ### 굴 
 [窟 (char)](characters/窟%20(char).md) [堀](characters/堀.md) [掘](characters/掘%20(char).md)

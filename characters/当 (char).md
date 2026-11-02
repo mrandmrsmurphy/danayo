@@ -34,6 +34,8 @@ stand_in: 当
 aliases:
   - 當
   - 噹
+  - 襠
+  - 裆
 注音: ㄉㄚㄫ
 date-last-perfect: 2026-10-13
 kwin: true
@@ -71,3 +73,4 @@ boundedness: 100
 - <ruby>[[妥当]]<rt>ㄊㄚㄉㄚㄫ</rt></ruby> "appropriate; proper"
 - <ruby>[[正当]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> "legitimate; proper"
 - <ruby>[[当番]]<rt>ㄉㄚㄫㄈㄚㄋ</rt></ruby> "duty turn"
+- <ruby>[[兜当布]]<rt>ㄉㄨㄉㄚㄫㄅㄛ</rt></ruby> "loincloth"

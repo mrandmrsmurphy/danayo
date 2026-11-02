@@ -2,7 +2,7 @@
 stroke_count: 12
 date-last-perfect: 2026-10-31
 skip_number: 1-5-7
-size: 15
+size: 16
 tags: [lookup]
 
 ---
@@ -24,8 +24,9 @@ tags: [lookup]
 11. <ruby>[稍](characters/稍%20(char).md)<rt>ㄙ⼘ㄨ</rt></ruby> "slightly"
 12. <ruby>[税](characters/税.md)<rt>ㄙㄝ</rt></ruby> "tax"
 13. <ruby>[竦](characters/竦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> "awe"
-14. <ruby>[裕](characters/裕.md)<rt>⼜</rt></ruby> "abundant"
-15. <ruby>[補](characters/補.md)<rt>ㄅㄛ</rt></ruby> "repair"
+14. <ruby>[裕](characters/裕.md)<rt>⼜</rt></ruby>
+15. <ruby>[裙](characters/裙%20(char).md)<rt>ㄍ⼜ㄫ</rt></ruby> "skirt" "abundant"
+16. <ruby>[補](characters/補.md)<rt>ㄅㄛ</rt></ruby> "repair"
 
 ## Datacheck
 ```dataview

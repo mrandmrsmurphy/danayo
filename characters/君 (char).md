@@ -66,3 +66,4 @@ boundedness: 80
 ## Derived Characters
 - <ruby>[[郡 (char)|郡]]<rt>ㄍㄨㄋ</rt></ruby> "county; prefecture"
 - <ruby>[[群]]<rt>ㄍㄨㄋ</rt></ruby> "flock; crowd"
+- <ruby>[[裙 (char)|裙]]<rt>ㄍ⼜ㄫ</rt></ruby> "skirt"
