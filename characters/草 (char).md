@@ -64,3 +64,4 @@ boundedness: 90
 - <ruby>[[茅草]]<rt>ㄇ⼘ㄨㄑㄚㄨ</rt></ruby> "cogon grass; thatch"
 - <ruby>[[草屋]]<rt>ㄑㄚㄨㄛㄎ</rt></ruby> "thatched hut"
 - <ruby>[[草書]]<rt>ㄑㄚㄨㄙ⼄</rt></ruby> "cursive script"
+- <ruby>[[草鞋]]<rt>ㄑㄚㄨㄏ⼘ㄧ</rt></ruby> "straw sandal"

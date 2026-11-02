@@ -6,6 +6,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Shape]]"
   - "[[Containers]]"
+  - "[[Clothing]]"
 status: partial
 ---
 

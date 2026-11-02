@@ -6,6 +6,7 @@ related_domains:
   - "[[Food]]"
   - "[[Body]]"
   - "[[Astronomy]]"
+  - "[[Clothing]]"
 status: complete
 date-last-perfect: 2026-10-28
 ---

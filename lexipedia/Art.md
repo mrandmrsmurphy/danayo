@@ -12,6 +12,7 @@ related_domains:
   - "[[Conflict]]"
   - "[[Religion]]"
   - "[[Emotions]]"
+  - "[[Clothing]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

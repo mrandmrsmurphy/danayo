@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[套]]<rt>ㄊㄛㄨ</rt></ruby> "covering; case" (stand-in for 套)
+- <ruby>[[外套]]<rt>⺢ㄧㄊㄛㄨ</rt></ruby> "coat"

@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[鞋]]<rt>ㄏ⼘ㄧ</rt></ruby> "shoe" (stand-in for 鞋)
+- <ruby>[[草鞋]]<rt>ㄑㄚㄨㄏ⼘ㄧ</rt></ruby> "straw sandal"

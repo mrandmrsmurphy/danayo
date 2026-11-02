@@ -7,6 +7,7 @@ related_domains:
   - "[[Directions]]"
   - "[[Tools]]"
   - "[[Containers]]"
+  - "[[Clothing]]"
 status: partial
 ---
 

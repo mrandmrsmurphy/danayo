@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[袋鼠]]<rt>ㄉㄚㄧㄙ⼄</rt></ruby> "kangaroo"
 - <ruby>[[袋熊]]<rt>ㄉㄚㄧㄨㄫ</rt></ruby> "wombat"
 - <ruby>[[樹袋熊]]<rt>ㄙㄨㄉㄚㄧㄨㄫ</rt></ruby> "koala"
+- <ruby>[[手袋]]<rt>ㄙ⼜ㄉㄚㄧ</rt></ruby> "glove"
