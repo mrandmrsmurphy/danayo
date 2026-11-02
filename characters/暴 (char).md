@@ -33,20 +33,20 @@ stand_in: 暴
 aliases:
   - 曝
 注音: ㄅㄛㄎ
-date-last-perfect: 2026-09-29
+date-last-perfect: 2026-11-01
 kwin: false
 tags:
   - character
 boundedness: 90
 ---
 >[!tip] This is a page about the character 暴.
->For the word, see [暴](words/暴.md)
+>For the word, see [暴](../words/暴.md)
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 ## Notes
 - 会意 of [[Radical 072|日]] ("sun"), [[共 (char)|共]] ("two hands lifting"), and [[Radical 119|米]] ("rice") — rice held up to dry in the sun; the bottom component was later stylized as [[Radical 085|水]] ("water"), obscuring the original agricultural sense. The modern "violent, brutal" meaning is unrelated: it descends from a wholly different original character, 𫻺 (虎 "tiger" + 戈 "weapon"), replaced here via phonetic borrowing by the bamboo-slip-script period.
-- **Real bug found and fixed 2026-09-29**: `vietnamese` had stored bộc, the reading tied to this character's original "expose, dry in the sun" sense (as in 暴露, bộc lộ, "to expose, reveal") — but this page and every word in its own `## Words` list below (凶暴, 暴虐, 暴風, 暴政, 暴徒, etc.) are the unrelated "violent, tyrannical" sense, which takes the separate Sino-Vietnamese reading bạo (bạo lực, bạo chính, bạo đồ). Corrected to bạo.
+- English Wiktionary glosses Chinese 暴 as "sudden (especially of bad things)", a component of words for storms and other violent weather, senses of brutishness and brutality, and "to spoil, waste, squander; to damage". The rival reading pù is an alternative form of 曝, "to sun; to air in the sun".
 - [SKIP-2-4-11](../lookup/SKIP/SKIP-2/SKIP-2-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 580th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄅㄛㄎ](../syllables/ㄅㄛㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
