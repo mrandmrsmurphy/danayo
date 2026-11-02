@@ -150,6 +150,7 @@ Coined 2026-09-21 to close the "no word for cousin" gap properly, rather than le
 - <ruby>[養子](../words/養子.md)<rt>⼘ㄫㄐㄜ</rt></ruby>: an adopted or foster child.
 - <ruby>[継子](../words/継子.md)<rt>ㄍㄝㄧㄐㄜ</rt></ruby>: stepchild, stepson.
 - <ruby>[子婦](../words/子婦.md)<rt>ㄐㄜㄅ⼜</rt></ruby>: daughter-in-law — son's wife.
+- <ruby>[女女](../words/女女.md)<rt>ㄋㄜ·ㄋㄜ</rt></ruby>: little lady, little girl — a colloquial diminutive.
 
 ### Grandchildren (−2)
 

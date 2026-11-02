@@ -41,6 +41,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[株](../words/株.md)<rt>ㄉㄨ</rt></ruby>: a stump — also "stock" and "root" in other registers.
 - <ruby>[花弁](../words/花弁.md)<rt>ㄏ⺢ㄅ⼘ㄋ</rt></ruby>: a (flower) petal.
 - <ruby>[荊棘](../words/荊棘.md)<rt>ㄎ⼶ㄫㄍㄧㄎ</rt></ruby>: thorns, brambles, briers.
+- <ruby>[杪小](../words/杪小.md)<rt>ㄇ⼄ㄙㄛ</rt></ruby>: treetop, extremity — 杪 "tip of a branch" + 小 "small"; the stand-in word that legitimizes 杪.
 
 ### Grains, Crops & Vegetables
 

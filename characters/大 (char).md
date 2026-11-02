@@ -130,6 +130,8 @@ boundedness: 90
 - <ruby>[[大学院]]<rt>ㄉㄚㄧㄏㄚㄎ·⼔ㄋ</rt></ruby> "graduate school"
 - <ruby>[[大豆]]<rt>ㄉㄚㄧㄉㄛㄨ</rt></ruby> "soybean"
 - <ruby>[[大蒜]]<rt>ㄉㄚㄧㄙ⺢ㄇ</rt></ruby> "garlic"
+- <ruby>[[大量]]<rt>ㄉㄚㄧㄌ⼘ㄫ</rt></ruby> "a lot"
+- <ruby>[[大小]]<rt>ㄉㄚㄧㄙㄛ</rt></ruby> "size"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

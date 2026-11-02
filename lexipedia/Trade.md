@@ -7,6 +7,7 @@ related_domains:
   - "[[Buildings]]"
   - "[[Law]]"
   - "[[Food]]"
+  - "[[Dimensions]]"
 status: partial
 ---
 
@@ -76,6 +77,8 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[利率](../words/利率.md)<rt>ㄌㄧㄜㄌㄨㄊ</rt></ruby>: an interest rate — resolves this page's own previously-flagged "interest" gap.
 - <ruby>[保証](../words/保証.md)<rt>ㄅㄚㄨㄐㄧㄫ</rt></ruby>: to ensure, attest, stipulate, guarantee (保証人, "a guarantor").
 - <ruby>[保険](../words/保険.md)<rt>ㄅㄚㄨㄏㄝㄇ</rt></ruby>: insurance, to insure.
+- <ruby>[低廉](../words/低廉.md)<rt>ㄉㄝㄧㄌ⼶ㄇ</rt></ruby>, <ruby>[廉価](../words/廉価.md)<rt>ㄌ⼶ㄇㄍㄚ</rt></ruby>: cheap, low priced — "low" of price, not physical height.
+- <ruby>[安価](../words/安価.md)<rt>ㄚㄋㄍㄚ</rt></ruby>: cheap, inexpensive — with a hint of "crappy."
 
 ### Wealth & Poverty
 

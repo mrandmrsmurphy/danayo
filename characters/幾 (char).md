@@ -54,6 +54,7 @@ boundedness: 90
 ## Words
 - <ruby>[[幾]]<rt>ㄍㄧㄜ</rt></ruby> "several; a few; some" (stand-in for 幾)
 - <ruby>[[幾何学]]<rt>ㄍㄧㄜㄏㄚㄏㄚㄎ</rt></ruby> "geometry"
+- <ruby>[[幾乎]]<rt>ㄍㄧㄜㄏㄛ</rt></ruby> "almost"
 
 ## Derived Characters
 - <ruby>[[机]]<rt>ㄍㄧㄜ</rt></ruby> "opportunity; occasion"

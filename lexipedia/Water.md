@@ -174,6 +174,7 @@ Cross-listed from [Nature](../lexipedia/Nature.md), which carries the main rain 
 - <ruby>[港湾](../words/港湾.md)<rt>ㄏㄛㄫ⺢ㄇ</rt></ruby>: harbor.
 - <ruby>[黄海](../words/黄海.md)<rt>ㄏ⺢ㄫㄏㄚㄧ</rt></ruby>: Yellow Sea.
 - <ruby>[勃海](../words/勃海.md)<rt>ㄅㄛㄊㄏㄚㄧ</rt></ruby>: Bohai Sea, the inner gulf of the Yellow Sea.
+- <ruby>[蒼海](../words/蒼海.md)<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby>: the vast ocean.
 
 ### Islands
 

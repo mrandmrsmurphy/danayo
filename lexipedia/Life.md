@@ -62,6 +62,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[復活](../words/復活.md)<rt>ㄅㄨㄎㄏ⺢ㄊ</rt></ruby>: to revive, bring back to life.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
 - <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
+- <ruby>[適応](../words/適応.md)<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby>: adaptation, to adapt — to respond to changed circumstances by becoming suitable (適, suitable, + 応, respond).
 
 ### Decay & Death
 

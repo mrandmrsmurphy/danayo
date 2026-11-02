@@ -72,6 +72,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 **Not yet coined**: "especial" and "intense" both have no dedicated Dan'a'yo word yet.
 - <ruby>[軽重](../words/軽重.md)<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby>: relative weight or importance — literally "lightness and heaviness", the proper weighing of one thing against another.
+- <ruby>[全盛](../words/全盛.md)<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby>: flourishing, at the height of prosperity, at one's best.
 
 ### Beauty & Appearance
 

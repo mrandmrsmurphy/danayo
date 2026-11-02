@@ -70,6 +70,7 @@ boundedness: 80
 - <ruby>[[小説]]<rt>ㄙㄛㄙ⼔ㄊ</rt></ruby> "novel"
 - <ruby>[[小麦]]<rt>ㄙㄛ·ㄇㄚㄎ</rt></ruby> "wheat"
 - <ruby>[[小麦粉]]<rt>ㄙㄛ·ㄇㄚㄎㄈㄨㄋ</rt></ruby> "wheat flour"
+- <ruby>[[大小]]<rt>ㄉㄚㄧㄙㄛ</rt></ruby> "size"
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "sacrifice the greater for the lesser"

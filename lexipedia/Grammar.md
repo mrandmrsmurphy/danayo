@@ -8,6 +8,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Knowledge]]"
   - "[[Existence]]"
+  - "[[Dimensions]]"
 status: partial
 date-last-perfect: 2026-09-28
 ---
@@ -72,6 +73,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - as <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>
 - yes (formal affirmative answer) : <ruby>[爾](../words/爾.md)<rt>ㄋㄝ</rt></ruby> — [[否]]'s direct counterpart, below.
 - <ruby>[兪](../words/兪.md)<rt>⼜ㄇ</rt></ruby> "yes, agreed" — a narrower, more archaic register than [[爾]], an interjection of imperial assent most familiar from the Book of Documents (書經).
+- <ruby>[矣](../words/矣.md)<rt>⼔</rt></ruby>: indeed.
 - no (formal negative answer/negator) : <ruby>[否](../words/否.md)<rt>ㄈㄚㄨ</rt></ruby>
 - not <ruby>[不](../words/不.md)<rt>ㄅㄛㄊ</rt></ruby>
 - rather, on the contrary (concessive) : <ruby>[却](../words/却.md)<rt>ㄎ⼘ㄎ</rt></ruby>
