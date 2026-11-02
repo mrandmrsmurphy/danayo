@@ -34,18 +34,17 @@ kwin: false
 tags:
   - character
 boundedness: 55
-date-last-perfect: 2026-09-29
+date-last-perfect: 2026-11-01
 ---
 >[!tip] This is a page about the character 懐.
->For the word, see [懐](words/懐.md)
+>For the word, see [懐](../words/懐.md)
 
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 形声: semantic [[心 (char)|心]] ("heart") + phonetic 褱 (huái, "to carry inside one's clothes," no vault page) — "to hold dear in one's heart, to miss, to think of." 懷 is the traditional form.
-- **Real bug found and fixed 2026-09-29**: `vietnamese` was left completely blank — filled with hoài, the standard Sino-Vietnamese reading (as in hoài niệm, "nostalgia"; hoài bão, "aspiration"; and hoài thai, "to be pregnant" — the same "carry within" sense at work in this character's own [[懐孕]]).
+- 形声: semantic [[心 (char)|心]] ("heart") + phonetic 褱 (no vault page). 懷 is the traditional form. English Wiktionary glosses Chinese 懷 as "breast; bosom", figuratively "heart; mind; affection", and "to carry in one's bosom; to harbor in one's mind; to think of; to cherish; to remember", and literary "to miss; to long for". It glosses Japanese 懐 as "feelings; nostalgia; heart; bosom, breast; pocket".
 - [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 575th most used character in Classical Chinese (recorded under the traditional form 懷). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 皆合|ɣuɛi]] → [ㄏ⺢ㄧ](../syllables/ㄏ⺢ㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
