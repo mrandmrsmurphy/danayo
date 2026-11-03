@@ -75,6 +75,8 @@ boundedness: 75
 - <ruby>[[会安]]<rt>ㄏ⼔ㄚㄋ</rt></ruby> "Hoi An"
 - <ruby>[[会長]]<rt>ㄏ⼔ㄐㄚㄫ</rt></ruby> "president"
 - <ruby>[[展覧会]]<rt>ㄐㄝㄋㄌㄚㄇㄏ⼔</rt></ruby> "exhibition"
+- <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby> "assembly"
+- <ruby>[[国会]]<rt>ㄍㄛㄎㄏ⼔</rt></ruby> "parliament"
 
 ## Chengyu
 - <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"

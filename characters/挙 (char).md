@@ -54,3 +54,4 @@ boundedness: 60
 ## Words
 - <ruby>[[挙]]<rt>ㄍ⼄</rt></ruby> "raise; example" (stand-in for 挙)
 - <ruby>[[科挙]]<rt>ㄎ⺢ㄍ⼄</rt></ruby> "imperial examination"
+- <ruby>[[選挙]]<rt>ㄙ⼔ㄋㄍ⼄</rt></ruby> "election"

@@ -65,6 +65,9 @@ boundedness: 90
 - <ruby>[[王朝]]<rt>⺢ㄫㄐㄚㄨ</rt></ruby> "dynasty; reign; court"
 - <ruby>[[龍王]]<rt>ㄌ⼄ㄫ⺢ㄫ</rt></ruby> "Dragon King"
 - <ruby>[[国王]]<rt>ㄍㄛㄎ·⺢ㄫ</rt></ruby> "king; sovereign; monarch"
+- <ruby>[[女王]]<rt>ㄋㄜ⺢ㄫ</rt></ruby> "queen"
+- <ruby>[[王室]]<rt>⺢ㄫㄙㄧㄊ</rt></ruby> "royal family"
+- <ruby>[[王族]]<rt>⺢ㄫㄐㄛㄎ</rt></ruby> "royalty"
 
 ## Chengyu
 - <ruby>[[尊王攘夷]]<rt>ㄐㄛㄋ⺢ㄫㄋ⼘ㄫㄧㄜ</rt></ruby> "revere the king, expel the barbarians"

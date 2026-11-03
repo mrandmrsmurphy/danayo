@@ -51,6 +51,7 @@ boundedness: 90
 ## Words
 - <ruby>[[投]]<rt>ㄉㄛㄨ</rt></ruby> "to throw" (stand-in for 投)
 - <ruby>[[投票率]]<rt>ㄉㄛㄨㄆ⼘ㄨㄌㄨㄊ</rt></ruby> "voter turnout; voting rate"
+- <ruby>[[投票]]<rt>ㄉㄛㄨㄆ⼘ㄨ</rt></ruby> "vote"
 
 ## Chengyu
 - <ruby>[[珠投猪前]]<rt>ㄐㄨㄉㄛㄨㄐㄛㄐㄝㄋ</rt></ruby> "throwing pearls before swine"

@@ -55,6 +55,7 @@ date-last-perfect: 2026-10-13
 - <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
 - <ruby>[[即日]]<rt>ㄐㄜㄎㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
+- <ruby>[[即位式]]<rt>ㄐㄜㄎ·⼔ㄧㄙㄧㄎ</rt></ruby> "coronation"
 
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"

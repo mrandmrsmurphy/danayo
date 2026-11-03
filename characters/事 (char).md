@@ -85,6 +85,7 @@ boundedness: 90
 - <ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby> "every matter; each matter; in every matter"
 - <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
 - <ruby>[[叙事詩]]<rt>ㄙ⼄ㄐㄧㄙㄧ</rt></ruby> "epic"
+- <ruby>[[知事]]<rt>ㄐㄨㄧㄐㄧ</rt></ruby> "governor"
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"

@@ -65,6 +65,7 @@ boundedness: 80
 - <ruby>[[部隊]]<rt>ㄅㄛㄨㄉㄛㄧ</rt></ruby> "unit, corp"
 - <ruby>[[隊伍]]<rt>ㄉㄛㄧㄛ</rt></ruby> "rank, contingent, line of troops"
 - <ruby>[[艦隊]]<rt>ㄏㄚㄇㄉㄛㄧ</rt></ruby> "fleet"
+- <ruby>[[隊長]]<rt>ㄉㄛㄧㄐㄚㄫ</rt></ruby> "captain"
 
 ## Derived Characters
 - <ruby>[[墜]]<rt>ㄐㄨㄧ</rt></ruby> "fall; crash"

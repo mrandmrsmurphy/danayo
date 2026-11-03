@@ -71,6 +71,7 @@ boundedness: 100
 - <ruby>[[下龍]]<rt>ㄏㄚㄌ⼄ㄫ</rt></ruby> "Ha Long"
 - <ruby>[[下水道]]<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> "sewer"
 - <ruby>[[部下]]<rt>ㄅㄛㄨㄏㄚ</rt></ruby> "subordinate"
+- <ruby>[[殿下]]<rt>ㄉㄧㄋㄏㄚ</rt></ruby> "Your Highness"
 
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"

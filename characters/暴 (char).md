@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[暴力]]<rt>ㄅㄛㄎㄌㄧㄎ</rt></ruby> "violence"
 - <ruby>[[暴行]]<rt>ㄅㄛㄎㄏㄚㄫ</rt></ruby> "assault"
 - <ruby>[[暴動]]<rt>ㄅㄛㄎㄉㄛㄫ</rt></ruby> "riot"
+- <ruby>[[暴君]]<rt>ㄅㄛㄎㄍㄨㄋ</rt></ruby> "tyrant"
 
 ## Chengyu
 - <ruby>[[暴飲暴食]]<rt>ㄅㄛㄎ·ㄨㄇㄅㄛㄎㄙㄧㄎ</rt></ruby> "excessive eating and drinking; bingeing on food and drink"
