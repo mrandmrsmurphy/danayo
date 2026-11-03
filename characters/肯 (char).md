@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[肯]]<rt>ㄎㄨㄫ</rt></ruby> "agree, be willing" (stand-in for 肯)
+- <ruby>[[肯定]]<rt>ㄎㄨㄫㄐㄝㄫ</rt></ruby> "affirmation"

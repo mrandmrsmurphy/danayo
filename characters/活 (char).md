@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[復活]]<rt>ㄅㄨㄎㄏ⺢ㄊ</rt></ruby> "to revive; to bring back to life"
 - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> "to live; life; lifestyle"
 - <ruby>[[復活節]]<rt>ㄅㄨㄎㄏ⺢ㄊㄐㄝㄊ</rt></ruby> "Easter"
+- <ruby>[[活用]]<rt>ㄏ⺢ㄊ⼄ㄫ</rt></ruby> "inflection"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

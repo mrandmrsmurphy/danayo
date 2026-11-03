@@ -53,6 +53,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[屈]]<rt>ㄎㄨㄊ</rt></ruby> "bend; flex; crouch" (stand-in for 屈)
 - <ruby>[[理屈]]<rt>ㄌㄧ·ㄎㄨㄊ</rt></ruby> "reasoning; logic; argument"
 - <ruby>[[屈辱]]<rt>ㄎㄨㄊㄋㄛㄎ</rt></ruby> "humiliation, to demean"
+- <ruby>[[屈折]]<rt>ㄎㄨㄊㄐㄝㄊ</rt></ruby> "inflection"
 
 ## Derived Characters
 - <ruby>[[掘 (char)|掘]]<rt>ㄍㄨㄊ</rt></ruby> "dig"

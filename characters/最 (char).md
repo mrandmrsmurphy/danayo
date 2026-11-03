@@ -59,6 +59,7 @@ boundedness: 80
 - <ruby>[[最善]]<rt>ㄐ⼔ㄙ⼶ㄋ</rt></ruby> "best"
 - <ruby>[[最大]]<rt>ㄐ⼔ㄉㄚㄧ</rt></ruby> "maximum; greatest; largest"
 - <ruby>[[最高点]]<rt>ㄐ⼔ㄍㄚㄨㄉㄝㄇ</rt></ruby> "highest point; peak"
+- <ruby>[[最少]]<rt>ㄐ⼔ㄙㄛㄨ</rt></ruby> "least"
 
 ## Derived Characters
 - <ruby>[[撮 (char)|撮]]<rt>ㄐ⺢ㄊ</rt></ruby> "small amount; pinch"

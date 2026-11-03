@@ -953,7 +953,7 @@ The following prefecture names were added in 2017:
 938. [潮](../../characters/潮.md) : chō shio tide
 939. [激](../../characters/激.md) : geki hage-shiǝ violent
 940. [灰 (char)](../../characters/灰%20(char).md) : kai hai ashes
-941. [熟](../../characters/熟.md) : juku u-reru ripen
+941. [熟](../../characters/熟%20(char).md) : juku u-reru ripen
 942. [片 (char)](../../characters/片%20(char).md) : hen kata one-sided
 943. [班 (char)](../../characters/班%20(char).md) : han group
 944. [異](../../characters/異.md) : i koto-naru uncommon

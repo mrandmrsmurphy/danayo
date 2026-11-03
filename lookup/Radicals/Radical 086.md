@@ -65,7 +65,7 @@ tags: [lookup]
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
 
 ### +11 Strokes
-35. <ruby>[熟](../../characters/熟.md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
+35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
 36. <ruby>[熨](../../characters/熨.md)<rt>⼜ㄊ</rt></ruby> - flatiron
 37. <ruby>[熬](../../characters/熬.md)<rt>ㄚㄨ</rt></ruby> - cook
 38. <ruby>[熱](../../characters/熱%20(char).md)<rt>ㄋ⼶ㄊ</rt></ruby> - heat up

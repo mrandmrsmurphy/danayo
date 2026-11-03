@@ -56,6 +56,7 @@ boundedness: 90
 - <ruby>[[非志]]<rt>ㄈㄧㄐㄧ</rt></ruby> "Fiji"
 - <ruby>[[南非]]<rt>ㄋㄚㄇㄈㄧ</rt></ruby> "South Africa"
 - <ruby>[[非番]]<rt>ㄈㄧㄈㄚㄋ</rt></ruby> "off duty"
+- <ruby>[[除非]]<rt>ㄐㄝㄧㄈㄧ</rt></ruby> "unless"
 
 ## Derived Characters
 - <ruby>[[誹]]<rt>ㄈㄧ</rt></ruby> "slander, vilify"

@@ -74,5 +74,5 @@ boundedness: 90
 
 ## Derived Characters
 - <ruby>[[炎]]<rt>ㄝㄇ</rt></ruby> "flame, inflammation"
-- <ruby>[[熟]]<rt>ㄙㄨㄎ</rt></ruby> "ripen"
+- <ruby>[[熟 (char)|熟]]<rt>ㄙㄨㄎ</rt></ruby> "ripen"
 - <ruby>[[焚]]<rt>ㄅㄨㄋ</rt></ruby> "burn"

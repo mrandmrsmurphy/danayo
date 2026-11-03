@@ -197,7 +197,7 @@ tags: [lookup]
 183. <ruby>[[焼]]<rt>ㄙ⼄ㄨ</rt></ruby> - burn
 184. <ruby>[[照 (char)|照]]<rt>ㄐㄛㄨ</rt></ruby> - shine
 185. <ruby>[[煩 (char)|煩]]<rt>ㄈㄛㄇ</rt></ruby> - troublesome
-186. <ruby>[[熟]]<rt>ㄙㄨㄎ</rt></ruby> - ripen
+186. <ruby>[[熟 (char)|熟]]<rt>ㄙㄨㄎ</rt></ruby> - ripen
 187. <ruby>[[燃]]<rt>ㄋ⼶ㄋ</rt></ruby> - burn
 188. <ruby>[[版]]<rt>ㄆㄚㄋ</rt></ruby> - edition, version
 189. <ruby>[[牧 (char)|牧]]<rt>ㄇㄨㄎ</rt></ruby> - shepherd

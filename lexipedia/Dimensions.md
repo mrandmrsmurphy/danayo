@@ -59,6 +59,8 @@ Dimensions vocabulary covers the physical scales things are measured on — size
 - <ruby>[大部分](../words/大部分.md)<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby>: the majority, most of.
 - <ruby>[衆多](../words/衆多.md)<rt>ㄐㄨㄫㄉㄜ</rt></ruby>: numerous; multitudinous.
 - <ruby>[幾乎](../words/幾乎.md)<rt>ㄍㄧㄜㄏㄛ</rt></ruby>: almost, nearly. See Semantic Range Notes.
+- <ruby>[最少](../words/最少.md)<rt>ㄐ⼔ㄙㄛㄨ</rt></ruby>: the least, the fewest.
+- <ruby>[至少](../words/至少.md)<rt>ㄐㄧㄜㄙㄛㄨ</rt></ruby>: at least.
 - <ruby>[希少](../words/希少.md)<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby>, <ruby>[鮮少](../words/鮮少.md)<rt>ㄙ⼶ㄇㄙㄛㄨ</rt></ruby>: scarce, rare.
 
 ### Degree & Limiting Words

@@ -51,6 +51,7 @@ boundedness: 80
 - <ruby>[[是]]<rt>ㄙㄝ</rt></ruby> "is" (stand-in for 是)
 - <ruby>[[是日]]<rt>ㄙㄝ·ㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
+- <ruby>[[是否]]<rt>ㄙㄝㄈㄚㄨ</rt></ruby> "whether"
 
 ## Chengyu
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"

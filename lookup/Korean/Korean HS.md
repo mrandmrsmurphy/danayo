@@ -373,7 +373,7 @@ tags: [lookup]
 [囚](../../characters/囚.md) (가둘 수) [需](../../characters/需.md) (구할 수) [帥](../../characters/帥.md) (장수 수) [殊](../../characters/殊.md) (다를 수) [隨](../../characters/随.md) (따를 수) [輸](../../characters/輸.md) (나를 수) [獸](../../characters/獣.md) (짐승 수) [睡](../../characters/睡.md) (잘 수) [遂](../../characters/遂.md) (이를 수) [垂](../../characters/垂.md) (드리울 수) [搜](../../characters/捜.md) (찾을 수)
 
 #### 숙
-[孰](../../characters/熟.md) (누구 숙) [熟](../../characters/熟.md) (익을 숙) [肅](../../characters/粛.md) (엄숙할 숙)
+[孰](../../characters/熟%20(char).md) (누구 숙) [熟](../../characters/熟%20(char).md) (익을 숙) [肅](../../characters/粛.md) (엄숙할 숙)
 
 #### 순
 [旬](../../characters/旬.md) (열흘 순) [殉](../../characters/殉.md) (따라 죽을 순) [循 (char)](../../characters/循%20(char).md) (돌 순) [脣](../../characters/唇%20(char).md) (입술 순) [瞬](../../characters/瞬.md) (눈깜짝일 순) [巡](../../characters/巡.md) (돌 순)

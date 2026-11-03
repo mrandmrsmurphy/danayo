@@ -29,14 +29,14 @@ hanmun_edu_level: 高等
 danayo_id: 4177
 mc_id: 1504
 graphemic_classification: 会意
-stand_in: 成熟
+stand_in: 熟
 aliases:
   - 孰
 注音: ㄙㄨㄎ
 kwin: true
 tags:
   - character
-boundedness: 90
+boundedness: 70
 date-last-perfect: 2026-10-19
 ---
 >[!tip] This is a page about the character 熟.
@@ -57,6 +57,7 @@ date-last-perfect: 2026-10-19
 - <ruby>[[熟練]]<rt>ㄙㄨㄎㄌㄝㄋ</rt></ruby> "skillful, proficient"
 - <ruby>[[熟知]]<rt>ㄙㄨㄎㄐㄨㄧ</rt></ruby> "know well, well acquainted with"
 - <ruby>[[熟語]]<rt>ㄙㄨㄎ·⼄</rt></ruby> "idiom"
+- <ruby>[[熟]]<rt>ㄙㄨㄎ</rt></ruby> "which"
 
 ## Chengyu
 - <ruby>[[単語熟語]]<rt>ㄉㄚㄋ·⼄ㄙㄨㄎ·⼄</rt></ruby> "words and set phrases, Dan'a'yo's two lexical tiers"

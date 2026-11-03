@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[接尾辞]]<rt>ㄐㄛㄆㄇㄨㄧㄑㄧ</rt></ruby> "suffix"
 - <ruby>[[尾位]]<rt>ㄇㄨㄧ·⼔ㄧ</rt></ruby> "coda position (within a final)"
 - <ruby>[[韻尾]]<rt>ㄨㄋㄇㄨㄧ</rt></ruby> "coda"
+- <ruby>[[語尾]]<rt>⼄·ㄇㄨㄧ</rt></ruby> "ending"
 
 ## Chengyu
 - <ruby>[[保頭断尾]]<rt>ㄅㄚㄨㄊㄛㄨㄉ⺢ㄋㄇㄨㄧ</rt></ruby> "guard the core, prune the periphery"

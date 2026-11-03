@@ -56,6 +56,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[至点]]<rt>ㄐㄧㄜㄉㄝㄇ</rt></ruby> "solstice point"
 - <ruby>[[冬至]]<rt>ㄊㄛㄫㄐㄧㄜ</rt></ruby> "winter solstice"
 - <ruby>[[至極]]<rt>ㄐㄧㄜㄍㄧㄎ</rt></ruby> "height, extremity"
+- <ruby>[[至少]]<rt>ㄐㄧㄜㄙㄛㄨ</rt></ruby> "at least"
 
 ## Chengyu
 - <ruby>[[上由下至]]<rt>ㄙ⼘ㄫ⼜ㄛㄏㄚㄐㄧㄜ</rt></ruby> "write from the top downward"

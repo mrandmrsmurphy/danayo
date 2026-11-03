@@ -52,6 +52,8 @@ boundedness: 90
 ## Words
 - <ruby>[[否]]<rt>ㄈㄚㄨ</rt></ruby> "no" (stand-in for 否)
 - <ruby>[[否定]]<rt>ㄈㄚㄨㄐㄝㄫ</rt></ruby> "negation; denial"
+- <ruby>[[否則]]<rt>ㄈㄚㄨㄐㄨㄎ</rt></ruby> "otherwise"
+- <ruby>[[是否]]<rt>ㄙㄝㄈㄚㄨ</rt></ruby> "whether"
 
 ## Derived Characters
 - <ruby>[[咅]]<rt>ㄆ⼄ㄨ</rt></ruby> "spit"

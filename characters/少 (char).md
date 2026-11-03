@@ -61,6 +61,8 @@ boundedness: 90
 - <ruby>[[希少]]<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby> "scarce"
 - <ruby>[[減少]]<rt>ㄍㄚㄇㄙㄛㄨ</rt></ruby> "decrease"
 - <ruby>[[少数]]<rt>ㄙㄛㄨㄙㄨ</rt></ruby> "minority"
+- <ruby>[[至少]]<rt>ㄐㄧㄜㄙㄛㄨ</rt></ruby> "at least"
+- <ruby>[[最少]]<rt>ㄐ⼔ㄙㄛㄨ</rt></ruby> "least"
 ## Chengyu
 - <ruby>[[多召少選]]<rt>ㄉㄜㄙ⼄ㄨㄙㄛㄨㄙ⼔ㄋ</rt></ruby> "Many are called, few are chosen"
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"

@@ -64,6 +64,7 @@ boundedness: 100
 - <ruby>[[敢為]]<rt>ㄍㄚㄇ⼔ㄋ</rt></ruby> "dare to do"
 - <ruby>[[為以]]<rt>⼔ㄋ·ㄧ</rt></ruby> "in order that, so that"
 - <ruby>[[為人]]<rt>⼔ㄋㄋㄧㄋ</rt></ruby> "behave, conduct oneself"
+- <ruby>[[因為]]<rt>ㄧㄋ⼔ㄋ</rt></ruby> "because"
 
 ## Chengyu
 - <ruby>[[無為而治]]<rt>ㄇㄜ⼔ㄋㄋㄧㄑㄧ</rt></ruby> "Rule without action"
