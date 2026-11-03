@@ -86,6 +86,7 @@ boundedness: 55
 - <ruby>[[宇宙飛行士]]<rt>ㄨㄐㄨㄛㄈㄝㄧㄏㄚㄫㄙㄚㄧ</rt></ruby> "astronaut"
 - <ruby>[[行書]]<rt>ㄏㄚㄫㄙ⼄</rt></ruby> "semi-cursive script"
 - <ruby>[[行李]]<rt>ㄏㄚㄫㄌㄧ</rt></ruby> "luggage"
+- <ruby>[[平行]]<rt>ㄅ⼶ㄫㄏㄚㄫ</rt></ruby> "parallel"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

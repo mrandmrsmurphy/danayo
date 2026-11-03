@@ -71,6 +71,8 @@ boundedness: 100
 - <ruby>[[前世紀]]<rt>ㄐㄝㄋㄙㄝㄍㄧ</rt></ruby> "previous century"
 - <ruby>[[紀元前]]<rt>ㄍㄧ⼔ㄋㄐㄝㄋ</rt></ruby> "B.C.; B.C.E."
 - <ruby>[[前舌]]<rt>ㄐㄝㄋㄙㄝㄊ</rt></ruby> "front (of the tongue)"
+- <ruby>[[前進]]<rt>ㄐㄝㄋㄐㄧㄋ</rt></ruby> "advance"
+- <ruby>[[前方]]<rt>ㄐㄝㄋㄈㄚㄫ</rt></ruby> "front"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

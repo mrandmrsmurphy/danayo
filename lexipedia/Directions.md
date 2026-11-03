@@ -8,7 +8,7 @@ related_domains:
   - "[[Shape]]"
   - "[[Valuation]]"
 status: partial
-date-last-perfect: 2026-09-28
+date-last-perfect: 2026-11-03
 ---
 
 # Directions
@@ -23,6 +23,9 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[枢紐](../words/枢紐.md)<rt>ㄑㄨ·ㄋ⼜ㄛ</rt></ruby>: a pivot, hub — the mechanical/figurative sense (a hinge-point, a crux), distinct from 中央/中心's literal spatial center.
 - <ruby>[軸](../words/軸.md)<rt>ㄉㄨㄎ</rt></ruby>: an axis, axle, pivot — the physical rotating-shaft sense, distinct from [[枢紐]]'s abstract hinge-point/crux.
 - <ruby>[下](../words/下.md)<rt>ㄏㄚ</rt></ruby>: down, under.
+- <ruby>[上](../words/上.md)<rt>ㄙ⼘ㄫ</rt></ruby>: above, up — cross-listed from Locatives, beside [[下]].
+- <ruby>[前](../words/前.md)<rt>ㄐㄝㄋ</rt></ruby>: front, before — cross-listed from Locatives.
+- <ruby>[後](../words/後.md)<rt>ㄏㄨㄛ</rt></ruby>: after — cross-listed; the time sense sits on Time.
 - <ruby>[直](../words/直.md)<rt>ㄐㄧㄊ</rt></ruby>: straight, erect, aligned.
 - <ruby>[偏](../words/偏.md)<rt>ㄆ⼶ㄋ</rt></ruby>: slanted, tilted, off-center — [[直]]'s crooked counterpart; also figuratively "biased, partial" (偏見, "prejudice").
 - <ruby>[傾斜](../words/傾斜.md)<rt>ㄎㄝㄫㄙ⼘</rt></ruby>: a slope, gradient, incline — the measurable noun for obliqueness (傾斜角, "angle of inclination"), distinct from [[傾向]]'s own abstract drift/tendency.
@@ -53,6 +56,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北極](../words/北極.md)<rt>ㄅㄨㄎㄍㄧㄎ</rt></ruby>: North Polar.
 - <ruby>[北面](../words/北面.md)<rt>ㄅㄨㄎㄇ⼶ㄋ</rt></ruby>: the north side.
 - <ruby>[南北](../words/南北.md)<rt>ㄋㄚㄇㄅㄨㄎ</rt></ruby>: north and south.
+- <ruby>[東西南北](../words/東西南北.md)<rt>ㄉㄛㄫㄙㄝㄧㄋㄚㄇㄅㄨㄎ</rt></ruby>: east, west, south and north; figuratively "everywhere, all directions" — all four cardinal points, beside [[東西]] and [[南北]].
 - <ruby>[東北](../words/東北.md)<rt>ㄉㄛㄫㄅㄨㄎ</rt></ruby>: northeast — the intercardinal direction between 東 and 北 (also used as a region name, e.g. Japan's Tōhoku or China's northeast).
 - <ruby>[東南](../words/東南.md)<rt>ㄉㄛㄫㄋㄚㄇ</rt></ruby>: southeast — the intercardinal direction between 東 and 南, beside [[東北]]; also the root of the region name [[東南亜]].
 - <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby>: the South Pole.
@@ -61,6 +65,11 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 
 - <ruby>[側面](../words/側面.md)<rt>ㄐㄧㄎㄇ⼶ㄋ</rt></ruby>: a side, aspect, lateral side.
 - <ruby>[方面](../words/方面.md)<rt>ㄈㄚㄫㄇ⼶ㄋ</rt></ruby>: area, aspect, direction, field — the face of a direction, extended to an abstract "side."
+- <ruby>[前方](../words/前方.md)<rt>ㄐㄝㄋㄈㄚㄫ</rt></ruby>: the front, the area ahead; in the military, the frontline.
+- <ruby>[後方](../words/後方.md)<rt>ㄏㄨㄛㄈㄚㄫ</rt></ruby>: the rear, behind; in the military, behind the frontline.
+- <ruby>[外側](../words/外側.md)<rt>⺢ㄧㄐㄧㄎ</rt></ruby>: the outside, the outer side — the outside as a position, where [[側面]] is a side of a thing.
+- <ruby>[正面](../words/正面.md)<rt>ㄐㄧㄫㄇ⼶ㄋ</rt></ruby>: the front side, façade — the face that is presented, where [[背面]] is its back.
+- <ruby>[背面](../words/背面.md)<rt>ㄅㄛㄧㄇ⼶ㄋ</rt></ruby>: the back, the reverse side.
 - <ruby>[沿](../words/沿.md)<rt>⼔ㄇ</rt></ruby>: an edge, side.
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: a side, edge, border.
 - <ruby>[地境](../words/地境.md)<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby>: a land boundary — the line where one territory or plot ends; narrower than [[辺界]]'s general edge, and not [[国境]] (a national border).
@@ -75,11 +84,22 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 
 - <ruby>[直線](../words/直線.md)<rt>ㄐㄧㄊㄙ⼶ㄋ</rt></ruby>: a straight line.
 - <ruby>[直角](../words/直角.md)<rt>ㄐㄧㄊㄍㄛㄎ</rt></ruby>: a right angle.
+- <ruby>[平行](../words/平行.md)<rt>ㄅ⼶ㄫㄏㄚㄫ</rt></ruby>: parallel — two lines or ranks that run side by side without meeting (also "concurrent"); the dedicated geometric word the page was missing.
+- <ruby>[斜面](../words/斜面.md)<rt>ㄙ⼘·ㄇ⼶ㄋ</rt></ruby>: a slope, incline — the concrete counterpart of [[傾斜]]; also the inclined plane of mechanics.
+- <ruby>[水平](../words/水平.md)<rt>ㄙㄨㄅ⼶ㄫ</rt></ruby>: level, horizontal — cross-listed from Shape.
+- <ruby>[平坦](../words/平坦.md)<rt>ㄅ⼶ㄫㄊㄚㄋ</rt></ruby>: flat, even — cross-listed from Shape.
 - <ruby>[縦縞](../words/縦縞.md)<rt>ㄐㄛㄇㄍㄚㄨ</rt></ruby>: vertical stripes, pinstripes.
 - <ruby>[臥](../words/臥.md)<rt>⺢</rt></ruby>: to lie down, crouch — a change of orientation, not a fixed one.
 - <ruby>[捺](../words/捺.md)<rt>ㄋㄚㄊ</rt></ruby>: the right-down calligraphic stroke (捺, one of the eight basic brush strokes).
 
-### Forwarding & Directing
+### Advancing & Retreating
+
+- <ruby>[前進](../words/前進.md)<rt>ㄐㄝㄋㄐㄧㄋ</rt></ruby>: to advance, go forward — the spatial "forward" word, set against [[後退]].
+- <ruby>[後退](../words/後退.md)<rt>ㄏㄨㄛㄊㄧㄜ</rt></ruby>: to retreat, go backward.
+
+### Directing & Forwarding (non-spatial)
+
+These words are about "direct" and "forward" in the sense of sending, submitting and supervising, not orientation in space; they are kept here because the English headword covers both.
 
 - <ruby>[提出](../words/提出.md)<rt>ㄙㄝㄑㄨㄊ</rt></ruby>: to submit, to bring forward, to put forward.
 - <ruby>[転載](../words/転載.md)<rt>ㄐ⼔ㄋㄐㄚㄧ</rt></ruby>: to reprint, reproduce, forward.
@@ -91,7 +111,7 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: top, level, flat, forward (spatial, "toward the front" — distinct from the [[転載]]/[[逓送]] "pass along" sense above), further, oblique, a general word for "parallel" as a geometric relation (see Semantic Range Notes).
+Rosenfelder terms now covered by existing words: top ([[上]]), level ([[水平]]), flat ([[平坦]]), forward ([[前]], [[前進]]), oblique ([[傾斜]]), parallel ([[平行]]). Still open: "further" as a comparative (the base word [[遠]] sits on Dimensions), and upper/lower and inner as positions (上方, 下方, 内側 are attested in Japanese only, so they are held for an authority review).
 
 ## Advanced / Specialized (C1+)
 
@@ -137,8 +157,13 @@ Dan'a'yo inherits a real cross-linguistic pattern shared with Latin (*dexter*/*s
 
 **直角 is "right" the geometric angle, not "right" the side**: kept in Alignment & Angle rather than the moral-metaphor cluster, since it's an unrelated sense of English "right" (correct vs. a 90° angle) that happens to collide in translation, not a real semantic connection in Chinese.
 
-**A missing general word for "parallel"**: [[並列]] and [[並立]] both carry "parallel" as one sense among several (juxtaposed; coexisting), rather than being the dedicated geometric term — Dan'a'yo has no single word that means only "parallel" in the strict sense of two lines that never meet.
+**"Parallel" is now covered by 平行**: Wiktionary glosses Chinese 平行 as "concurrent; simultaneous", "parallel" in mathematics and "to run parallel". [[並列]] and [[並立]] keep their own senses (juxtaposed; coexisting).
+
+**Some right-side members are looser than the rest**: 年歳, 時宜, 権利 and 交情 connect to the right-side metaphor only loosely; the clear members are the honor and support words.
 
 ## See Also
 
-*(No related domains linked yet — none of the vault's other lexipedia pages currently share enough vocabulary with this one to justify a formal cross-reference.)*
+- [Locatives](Locatives.md)
+- [Movement](Movement.md)
+- [Shape](Shape.md)
+- [Valuation](Valuation.md)
