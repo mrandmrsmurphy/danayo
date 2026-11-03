@@ -72,6 +72,8 @@ boundedness: 100
 - <ruby>[[下水道]]<rt>ㄏㄚㄙㄨㄉㄚㄨ</rt></ruby> "sewer"
 - <ruby>[[部下]]<rt>ㄅㄛㄨㄏㄚ</rt></ruby> "subordinate"
 - <ruby>[[殿下]]<rt>ㄉㄧㄋㄏㄚ</rt></ruby> "Your Highness"
+- <ruby>[[下部]]<rt>ㄏㄚㄅㄛㄨ</rt></ruby> "lower part"
+- <ruby>[[上下]]<rt>ㄙ⼘ㄫㄏㄚ</rt></ruby> "up and down"
 
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"

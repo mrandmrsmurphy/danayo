@@ -74,3 +74,5 @@ boundedness: 90
 - <ruby>[[部位]]<rt>ㄅㄛㄨ⼔ㄧ</rt></ruby> "region, site"
 - <ruby>[[部品]]<rt>ㄅㄛㄨ·ㄆㄨㄇ</rt></ruby> "part, component"
 - <ruby>[[部下]]<rt>ㄅㄛㄨㄏㄚ</rt></ruby> "subordinate"
+- <ruby>[[上部]]<rt>ㄙ⼘ㄫㄅㄛㄨ</rt></ruby> "upper part"
+- <ruby>[[下部]]<rt>ㄏㄚㄅㄛㄨ</rt></ruby> "lower part"

@@ -76,6 +76,7 @@ boundedness: 65
 - <ruby>[[八万]]<rt>ㄅㄚㄊㄇㄛㄋ</rt></ruby> "eighty thousand"
 - <ruby>[[二十八宿]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby> "Twenty-Eight Mansions"
 - <ruby>[[尺八]]<rt>ㄑㄝㄎㄅㄚㄊ</rt></ruby> "shakuhachi"
+- <ruby>[[八方]]<rt>ㄅㄚㄊㄈㄚㄫ</rt></ruby> "all directions"
 
 ## Chengyu
 - <ruby>[[八紘一宇]]<rt>ㄅㄚㄊㄏ⼔ㄫㄧㄊ·ㄨ</rt></ruby> "Manifest Destiny of Japan"

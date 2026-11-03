@@ -73,6 +73,7 @@ boundedness: 100
 - <ruby>[[前舌]]<rt>ㄐㄝㄋㄙㄝㄊ</rt></ruby> "front (of the tongue)"
 - <ruby>[[前進]]<rt>ㄐㄝㄋㄐㄧㄋ</rt></ruby> "advance"
 - <ruby>[[前方]]<rt>ㄐㄝㄋㄈㄚㄫ</rt></ruby> "front"
+- <ruby>[[前面]]<rt>ㄐㄝㄋㄇ⼶ㄋ</rt></ruby> "front"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

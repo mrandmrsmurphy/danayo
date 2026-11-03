@@ -44,6 +44,12 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[右側](../words/右側.md)<rt>⼜ㄐㄧㄎ</rt></ruby>: right (side).
 - <ruby>[左側](../words/左側.md)<rt>ㄐㄚㄐㄧㄎ</rt></ruby>: left (side).
 - <ruby>[左右](../words/左右.md)<rt>ㄐㄚ⼜</rt></ruby>: both sides, left and right.
+- <ruby>[上下](../words/上下.md)<rt>ㄙ⼘ㄫㄏㄚ</rt></ruby>: up and down, high and low — beside [[左右]] and [[前後]].
+- <ruby>[前後](../words/前後.md)<rt>ㄐㄝㄋㄏㄨㄛ</rt></ruby>: front and rear; before and after; from beginning to end; consequences — cross-listed.
+- <ruby>[内部](../words/内部.md)<rt>ㄋㄛㄧㄅㄛㄨ</rt></ruby>: interior; inside — cross-listed.
+- <ruby>[外部](../words/外部.md)<rt>⺢ㄧㄅㄛㄨ</rt></ruby>: outside; exterior; external — cross-listed.
+- <ruby>[左翼](../words/左翼.md)<rt>ㄐㄚ·ㄧㄎ</rt></ruby>: the left wing or flank — Chinese and Japanese also use it for the political left; see the caution on the word page.
+- <ruby>[右翼](../words/右翼.md)<rt>⼜ㄧㄎ</rt></ruby>: the right wing or flank — Chinese, Japanese and Korean also use it for the political right; see the caution on the word page.
 - <ruby>[四面](../words/四面.md)<rt>ㄙㄧㄜㄇ⼶ㄋ</rt></ruby>: all sides, the four directions.
 - <ruby>[反](../words/反.md)<rt>ㄈㄛㄋ</rt></ruby>: anti-, wrong side up, reversed.
 - <ruby>[翻](../words/翻.md)<rt>ㄈㄛㄋ</rt></ruby>: to flip — a genuine Dan'a'yo homophone of [[反]], the verb counterpart to that word's adjectival "reversed" (翻訳, "to translate," literally "flip into another language," see [[Art]]; 翻身, "to turn oneself over").
@@ -57,6 +63,8 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[北面](../words/北面.md)<rt>ㄅㄨㄎㄇ⼶ㄋ</rt></ruby>: the north side.
 - <ruby>[南北](../words/南北.md)<rt>ㄋㄚㄇㄅㄨㄎ</rt></ruby>: north and south.
 - <ruby>[東西南北](../words/東西南北.md)<rt>ㄉㄛㄫㄙㄝㄧㄋㄚㄇㄅㄨㄎ</rt></ruby>: east, west, south and north; figuratively "everywhere, all directions" — all four cardinal points, beside [[東西]] and [[南北]].
+- <ruby>[八方](../words/八方.md)<rt>ㄅㄚㄊㄈㄚㄫ</rt></ruby>: all directions, the eight points of the compass — beside [[五方]].
+- <ruby>[四方](../words/四方.md)<rt>ㄙㄧㄜㄈㄚㄫ</rt></ruby>: the four directions, everywhere — see the caution on the word page; beside [[五方]].
 - <ruby>[東北](../words/東北.md)<rt>ㄉㄛㄫㄅㄨㄎ</rt></ruby>: northeast — the intercardinal direction between 東 and 北 (also used as a region name, e.g. Japan's Tōhoku or China's northeast).
 - <ruby>[東南](../words/東南.md)<rt>ㄉㄛㄫㄋㄚㄇ</rt></ruby>: southeast — the intercardinal direction between 東 and 南, beside [[東北]]; also the root of the region name [[東南亜]].
 - <ruby>[南極](../words/南極.md)<rt>ㄋㄚㄇㄍㄧㄎ</rt></ruby>: the South Pole.
@@ -70,6 +78,11 @@ Directions vocabulary covers spatial orientation — the four cardinal points, u
 - <ruby>[外側](../words/外側.md)<rt>⺢ㄧㄐㄧㄎ</rt></ruby>: the outside, the outer side — the outside as a position, where [[側面]] is a side of a thing.
 - <ruby>[正面](../words/正面.md)<rt>ㄐㄧㄫㄇ⼶ㄋ</rt></ruby>: the front side, façade — the face that is presented, where [[背面]] is its back.
 - <ruby>[背面](../words/背面.md)<rt>ㄅㄛㄧㄇ⼶ㄋ</rt></ruby>: the back, the reverse side.
+- <ruby>[前面](../words/前面.md)<rt>ㄐㄝㄋㄇ⼶ㄋ</rt></ruby>: the front, the front surface — close to [[前方]] and [[正面]].
+- <ruby>[内側](../words/内側.md)<rt>ㄋㄛㄧㄐㄧㄎ</rt></ruby>: the inside, the inner side — the counterpart of [[外側]].
+- <ruby>[内外](../words/内外.md)<rt>ㄋㄛㄧ⺢ㄧ</rt></ruby>: inside and outside — pairing [[内部]] and [[外部]].
+- <ruby>[上部](../words/上部.md)<rt>ㄙ⼘ㄫㄅㄛㄨ</rt></ruby>: the upper part, the top — the counterpart of [[下部]].
+- <ruby>[下部](../words/下部.md)<rt>ㄏㄚㄅㄛㄨ</rt></ruby>: the lower part, the bottom — see the caution on the word page.
 - <ruby>[沿](../words/沿.md)<rt>⼔ㄇ</rt></ruby>: an edge, side.
 - <ruby>[辺界](../words/辺界.md)<rt>ㄅㄝㄋㄍ⼶</rt></ruby>: a side, edge, border.
 - <ruby>[地境](../words/地境.md)<rt>ㄉㄧㄜㄍ⼶ㄫ</rt></ruby>: a land boundary — the line where one territory or plot ends; narrower than [[辺界]]'s general edge, and not [[国境]] (a national border).
@@ -111,7 +124,7 @@ These words are about "direct" and "forward" in the sense of sending, submitting
 
 ### Not Yet Coined
 
-Rosenfelder terms now covered by existing words: top ([[上]]), level ([[水平]]), flat ([[平坦]]), forward ([[前]], [[前進]]), oblique ([[傾斜]]), parallel ([[平行]]). Still open: "further" as a comparative (the base word [[遠]] sits on Dimensions), and upper/lower and inner as positions (上方, 下方, 内側 are attested in Japanese only, so they are held for an authority review).
+Rosenfelder terms now covered by existing words: top ([[上]]), level ([[水平]]), flat ([[平坦]]), forward ([[前]], [[前進]]), oblique ([[傾斜]]), parallel ([[平行]]). Still open: "further" as a comparative (the base word [[遠]] sits on Dimensions). Wiktionary lists 上方, 下方, 方角, 両側, 片側, 頂上 and 先端 only in Japanese, so they are not coined.
 
 ## Advanced / Specialized (C1+)
 
