@@ -687,9 +687,9 @@ tags: [lookup]
 [寫](../../characters/写.md): 2
 [彻](../../characters/澈.md): 2
 [徹](../../characters/澈.md): 2
-[[衬]]: 2
+[衬](../../characters/親.md): 2
 [[衫]]: 2
-[[襯]]: 2
+[襯](../../characters/親.md): 2
 [赞](../../characters/賛.md): 2
 [为](../../characters/為%20(char).md): 2
 [[為 (char)]]: 2

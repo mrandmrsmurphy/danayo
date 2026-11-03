@@ -78,6 +78,7 @@ boundedness: 70
 - <ruby>[[長上]]<rt>ㄐㄚㄫㄙ⼘ㄫ</rt></ruby> "elders and superiors"
 - <ruby>[[馬上]]<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby> "horseback"
 - <ruby>[[上司]]<rt>ㄙ⼘ㄫㄙㄚ</rt></ruby> "boss"
+- <ruby>[[上衣]]<rt>ㄙ⼘ㄫㄧㄜ</rt></ruby> "upper garment"
 
 ## Chengyu
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"

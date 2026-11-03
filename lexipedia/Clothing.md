@@ -48,6 +48,8 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 
 ### Garments
 
+- <ruby>[上衣](../words/上衣.md)<rt>ㄙ⼘ㄫㄧㄜ</rt></ruby>: an upper garment, a top — the general word, of which [[外套]] and [[親衣]] are kinds.
+- <ruby>[親衣](../words/親衣.md)<rt>ㄑㄧㄋ·ㄧㄜ</rt></ruby>: underwear, an undershirt. See Semantic Range Notes.
 - <ruby>[袍](../words/袍.md)<rt>ㄆ⼘ㄨ</rt></ruby>: a robe, a long gown.
 - <ruby>[藍婁](../words/藍婁.md)<rt>ㄌㄚㄇㄌㄨ</rt></ruby>: a rag; tattered, ragged.
 - <ruby>[兜当布](../words/兜当布.md)<rt>ㄉㄨㄉㄚㄫㄅㄛ</rt></ruby>: a loincloth, a fundoshi.
@@ -116,6 +118,8 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 **着 vs. 戴 vs. 佩戴 — wear**: [[着]] is the general verb "to wear", and [[戴]] is to wear something on top, as a hat or a crown. [[佩戴]] is to wear an accessory, or to bear a badge or ornament.
 
 **裙 — skirt in Chinese and Japanese, pants in Vietnamese**: [[裙]] is the skirt, and is a Split on [文法 - 91疑義語](../grammar/文法%20-%2091疑義語.md). Trousers are the [[袴]].
+
+**親衣 — underwear in Chinese and Japanese, shirt in Mainland China**: [[親衣]] is underwear, and is a Split on [文法 - 91疑義語](../grammar/文法%20-%2091疑義語.md). [[上衣]] is the general word for an upper garment.
 
 **手袋 — glove in Japanese, handbag in Chinese**: [[手袋]] is the Japanese sense, a glove or mitten, and is a Split on [文法 - 91疑義語](../grammar/文法%20-%2091疑義語.md). A bag in general is [[袋]], on [Containers](Containers.md).
 
