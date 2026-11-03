@@ -29,6 +29,8 @@ graphemic_classification: 監
 stand_in: 藍
 aliases:
   - 蓝
+  - 襤
+  - 褴
 注音: ㄌㄚㄇ
 kwin: true
 tags:
@@ -55,3 +57,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[藍色]]<rt>ㄌㄚㄇㄙㄧㄎ</rt></ruby> "blue, indigo"
 - <ruby>[[藍領]]<rt>ㄌㄚㄇㄌㄧㄫ</rt></ruby> "blue-collar"
 - <ruby>[[蓼藍]]<rt>ㄌ⼘ㄨㄌㄚㄇ</rt></ruby> "Japanese indigo"
+- <ruby>[[藍婁]]<rt>ㄌㄚㄇㄌㄨ</rt></ruby> "rag"

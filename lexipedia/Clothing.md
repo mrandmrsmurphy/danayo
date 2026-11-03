@@ -49,6 +49,7 @@ Clothing vocabulary covers garments, the materials they're made from, and the te
 ### Garments
 
 - <ruby>[袍](../words/袍.md)<rt>ㄆ⼘ㄨ</rt></ruby>: a robe, a long gown.
+- <ruby>[藍婁](../words/藍婁.md)<rt>ㄌㄚㄇㄌㄨ</rt></ruby>: a rag; tattered, ragged.
 - <ruby>[兜当布](../words/兜当布.md)<rt>ㄉㄨㄉㄚㄫㄅㄛ</rt></ruby>: a loincloth, a fundoshi.
 - <ruby>[裙](../words/裙.md)<rt>ㄍ⼜ㄫ</rt></ruby>: a skirt. See Semantic Range Notes.
 - <ruby>[袂](../words/袂.md)<rt>ㄇㄝ</rt></ruby>, <ruby>[袖](../words/袖.md)<rt>ㄙㄨㄛ</rt></ruby>: a sleeve.

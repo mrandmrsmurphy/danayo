@@ -16,7 +16,7 @@ All of these have been checked for redirects.
 [剌](characters/剌.md) [辣](characters/辣%20(char).md)
 
 ### 람 
-[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [[襤]] [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [婪](../../characters/林%20(char).md)
+[嵐](characters/嵐.md) [攬](characters/攬.md) [欖](characters/欖.md) [籃](characters/籃.md) [[纜]]-->[[[䌫]] [襤](../../characters/藍%20(char).md) [藍](characters/藍%20(char).md) [[㛦]] [[灆]] [婪](../../characters/林%20(char).md)
 
 ### 랍 
 [拉](characters/拉%20(char).md) [[characters/臘]] [蠟](../../characters/蠟.md)
@@ -70,7 +70,7 @@ All of these have been checked for redirects.
 [翏](../../characters/翏.md) [遼](characters/遼.md) [寮](characters/寮.md) [廖](characters/蓼.md) [[燎]] [療](characters/療.md) [瞭](characters/瞭.md) [聊](characters/聊%20(char).md) [蓼](characters/蓼.md)
 
 ### 루 
-[壘](characters/塁.md) [婁](characters/婁.md) [[瘻]] [[縷]] [[蔞]] [[褸]] [[鏤]] [陋](characters/陋.md) [[慺]] [[嶁]] 
+[壘](characters/塁.md) [婁](characters/婁.md) [[瘻]] [縷](../../characters/婁.md) [蔞](../../characters/婁.md) [褸](../../characters/婁.md) [[鏤]] [陋](characters/陋.md) [[慺]] [[嶁]] 
 
 ### 류 
 [琉](characters/瑠.md) [劉](characters/劉.md) [硫](characters/硫.md) [[瘤]] [旒](characters/㐬.md) [榴](characters/榴.md) [溜](characters/溜.md) [[瀏]] [謬](characters/謬.md) 
