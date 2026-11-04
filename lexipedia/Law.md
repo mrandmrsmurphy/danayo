@@ -11,6 +11,7 @@ related_domains:
   - "[[Society]]"
   - "[[Existence]]"
   - "[[Mind]]"
+  - "[[Measurement]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

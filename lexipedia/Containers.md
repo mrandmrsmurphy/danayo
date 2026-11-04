@@ -13,6 +13,7 @@ related_domains:
   - "[[Tools]]"
   - "[[Dimensions]]"
   - "[[Efforts]]"
+  - "[[Measurement]]"
 status: partial
 date-last-perfect: 2026-11-01
 ---

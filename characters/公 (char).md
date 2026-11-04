@@ -75,6 +75,7 @@ boundedness: 100
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
 - <ruby>[[公益]]<rt>ㄍㄛㄫㄝㄎ</rt></ruby> "public interest"
 - <ruby>[[公転]]<rt>ㄍㄛㄫㄐ⼔ㄋ</rt></ruby> "revolution (orbital)"
+- <ruby>[[公式]]<rt>ㄍㄛㄫㄙㄧㄎ</rt></ruby> "formula"
 
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"

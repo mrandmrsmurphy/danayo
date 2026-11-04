@@ -5,8 +5,21 @@ domain: Measurement
 related_domains:
   - "[[Numbers]]"
   - "[[Dimensions]]"
+  - "[[Shape]]"
+  - "[[Containers]]"
+  - "[[Geography]]"
+  - "[[Physical]]"
+  - "[[Knowledge]]"
+  - "[[Law]]"
+  - "[[Valuation]]"
+  - "[[Physics]]"
+  - "[[Movement]]"
+  - "[[Water]]"
+  - "[[Metals]]"
+  - "[[Time]]"
+  - "[[Trade]]"
 status: complete
-date-last-perfect: 2026-09-29
+date-last-perfect: 2026-11-03
 ---
 
 # Measurement
@@ -39,21 +52,71 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[公噸](../words/公噸.md)<rt>ㄍㄛㄫㄊㄛㄋ</rt></ruby>: a tonne, metric ton.
 - <ruby>[噸](../words/噸.md)<rt>ㄊㄛㄋ</rt></ruby>: a ton — the bound root behind [[公噸]] above, a deliberate phonetic coinage matching Western "ton."
 - <ruby>[坪](../words/坪.md)<rt>ㄅ⼶ㄫ</rt></ruby>: a tsubo/pyeong — a traditional East Asian area unit (36 square shaku, roughly 3.3 square meters), still in active real-estate use in Japan and Korea.
+- <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
+- <ruby>[両](../words/両.md)<rt>ㄌ⼘ㄫ</rt></ruby>: a tael — the traditional East Asian unit of weight (roughly 37.5g, still used for gold and silver in some contexts); its core sense is "both, a pair", documented on its own page; see [[Numbers]] for its own citation there.
 - <ruby>[計数](../words/計数.md)<rt>ㄍㄝㄧㄙㄨ</rt></ruby>: to count, tally.
 - <ruby>[番号](../words/番号.md)<rt>ㄈㄚㄋㄏㄚㄨ</rt></ruby>: a number, code — an assigned, identifying number (serial number, ID), distinct from [[数字]]'s abstract numeral.
 - <ruby>[総数](../words/総数.md)<rt>ㄐㄛㄫㄙㄨ</rt></ruby>: a total, grand total.
 - <ruby>[累計](../words/累計.md)<rt>ㄌㄨㄧㄍㄝㄧ</rt></ruby>: a cumulative total, running total — the sum accumulated so far up to a point in time (累計売上, "cumulative sales"), as against [[総数]]'s final overall count.
 
+### Calculating & Counting
+
+- <ruby>[計算](../words/計算.md)<rt>ㄍㄝㄧㄙ⺢ㄋ</rt></ruby>: to calculate; calculation — the general act, beside the bare [[算]].
+- <ruby>[概算](../words/概算.md)<rt>ㄍㄚㄧㄙ⺢ㄋ</rt></ruby>: a rough estimate — a rough calculation, beside [[計算]].
+- <ruby>[測定](../words/測定.md)<rt>ㄑㄜㄎㄐㄝㄫ</rt></ruby>: to measure, determine — measuring to fix a value, beside [[測量]], which is surveying.
+- <ruby>[計量](../words/計量.md)<rt>ㄍㄝㄧㄌ⼘ㄫ</rt></ruby>: to measure, gauge — measuring by quantity, such as weight or volume.
 - <ruby>[付加](../words/付加.md)<rt>ㄈㄨㄍㄚ</rt></ruby>: addition, appending.
+- <ruby>[数値](../words/数値.md)<rt>ㄙㄨㄉㄧ</rt></ruby>: a numerical value — the value a measurement or calculation gives, beside [[数字]], the digit.
+- <ruby>[点数](../words/点数.md)<rt>ㄉㄝㄇㄙㄨ</rt></ruby>: a score, points — a count of points; see [[得点]].
+- <ruby>[小数](../words/小数.md)<rt>ㄙㄛㄙㄨ</rt></ruby>: a decimal — a number with a part below one; a homophone of [[素数]].
+- <ruby>[分数](../words/分数.md)<rt>ㄅㄨㄋㄙㄨ</rt></ruby>: a fraction — see [[Numbers]] for its own citation there.
+- <ruby>[整数](../words/整数.md)<rt>ㄐㄝㄫㄙㄨ</rt></ruby>: a whole number, integer — see [[Numbers]] for its own citation there.
+- <ruby>[百分率](../words/百分率.md)<rt>ㄅㄚㄎㄅㄨㄋㄌㄨㄊ</rt></ruby>: a percentage — see [[Numbers]] for its own citation there.
+- <ruby>[割](../words/割.md)<rt>ㄍㄚㄊ</rt></ruby>: to cut, divide — see [[Numbers]] and [[Physical]] for its own citation there.
+- <ruby>[合計](../words/合計.md)<rt>ㄍㄛㄆㄍㄝㄧ</rt></ruby>: a total, sum — what is added up, beside [[総数]] and [[総計]].
+- <ruby>[総計](../words/総計.md)<rt>ㄐㄛㄫㄍㄝㄧ</rt></ruby>: a grand total — the overall sum, beside [[合計]].
+- <ruby>[単価](../words/単価.md)<rt>ㄉㄚㄋㄍㄚ</rt></ruby>: a unit price — the price of one unit, beside [[価格]].
+- <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: a price — see [[Trade]] for its own citation there.
+- <ruby>[統計](../words/統計.md)<rt>ㄊㄛㄫㄍㄝㄧ</rt></ruby>: statistics — see [[Knowledge]] for its own citation there.
+- <ruby>[平均](../words/平均.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: an average, mean — see [[Physical]] for its own citation there.
+- <ruby>[人数](../words/人数.md)<rt>ㄋㄧㄋㄙㄨ</rt></ruby>: a headcount, number of people — see [[Numbers]] for its own citation there.
+- <ruby>[平方](../words/平方.md)<rt>ㄅ⼶ㄫㄈㄚㄫ</rt></ruby>: squared, the second power — see [[Numbers]] for its own citation there.
+
+### Quantities & Properties
+
+- <ruby>[数量](../words/数量.md)<rt>ㄙㄨㄌ⼘ㄫ</rt></ruby>: amount, quantity, weight, measure.
+- <ruby>[温度](../words/温度.md)<rt>ㄛㄆㄉㄛ</rt></ruby>: temperature.
+- <ruby>[重量](../words/重量.md)<rt>ㄑㄛㄫㄌ⼘ㄫ</rt></ruby>: weight — how heavy a thing is, beside [[質量]].
+- <ruby>[質量](../words/質量.md)<rt>ㄐㄧㄊㄌ⼘ㄫ</rt></ruby>: mass — mass in physics, beside [[重量]].
+- <ruby>[重](../words/重.md)<rt>ㄑㄛㄫ</rt></ruby>: heavy — see [[Dimensions]] and [[Physics]] for its own citation there.
+- <ruby>[軽](../words/軽.md)<rt>ㄎㄧㄫ</rt></ruby>: light, not heavy — see [[Dimensions]] and [[Physics]] for its own citation there.
+- <ruby>[面積](../words/面積.md)<rt>ㄇ⼶ㄋㄐㄝㄎ</rt></ruby>: area — the size of a surface.
+- <ruby>[体積](../words/体積.md)<rt>ㄊㄝㄧㄐㄝㄎ</rt></ruby>: volume, bulk — see [[Shape]] and [[Dimensions]] for its own citation there.
+- <ruby>[容量](../words/容量.md)<rt>⼄ㄫㄌ⼘ㄫ</rt></ruby>: capacity, volume — see [[Shape]] and [[Containers]] for its own citation there.
+- <ruby>[速度](../words/速度.md)<rt>ㄙㄛㄎㄉㄛ</rt></ruby>: speed, velocity — how fast something moves.
+- <ruby>[速](../words/速.md)<rt>ㄙㄛㄎ</rt></ruby>: quick, fast — see [[Movement]] for its own citation there.
+- <ruby>[角度](../words/角度.md)<rt>ㄍㄛㄎㄉㄛ</rt></ruby>: an angle — the size of an angle.
+- <ruby>[密度](../words/密度.md)<rt>ㄇㄧㄊㄉㄛ</rt></ruby>: density — see [[Geography]] for its own citation there.
+- <ruby>[濃度](../words/濃度.md)<rt>ㄋㄛㄫㄉㄛ</rt></ruby>: concentration — how concentrated a solution or mixture is.
+- <ruby>[強度](../words/強度.md)<rt>ㄍ⼘ㄫㄉㄛ</rt></ruby>: strength, intensity — how strong something is, as a measured quantity.
+- <ruby>[硬度](../words/硬度.md)<rt>ㄚㄫㄉㄛ</rt></ruby>: hardness — see [[Metals]] for its own citation there.
+- <ruby>[湿度](../words/湿度.md)<rt>ㄙㄧㄆㄉㄛ</rt></ruby>: humidity — see [[Water]] for its own citation there.
+- <ruby>[気温](../words/気温.md)<rt>ㄎㄧㄜㄛㄆ</rt></ruby>: air temperature — the temperature of the air, beside [[温度]].
+- <ruby>[年齢](../words/年齢.md)<rt>ㄋㄝㄋㄌㄝㄫ</rt></ruby>: age — see [[Time]] for its own citation there.
 
 ### Rate & Proportion
 
 - <ruby>[倍](../words/倍.md)<rt>ㄅㄚㄧ</rt></ruby>: times, -fold — a noun, not a measure word: it multiplies a degree (三倍 聡明, "three times smarter") rather than counting objects.
 - <ruby>[比率](../words/比率.md)<rt>ㄅㄧㄜㄌㄨㄊ</rt></ruby>: a ratio, rate, proportion.
-- <ruby>[比例](../words/比例.md)<rt>ㄅㄧㄜㄌㄝ</rt></ruby>: a ratio, proportion — an undocumented near-duplicate of [[比率]]; see Semantic Range Notes.
+- <ruby>[比例](../words/比例.md)<rt>ㄅㄧㄜㄌㄝ</rt></ruby>: a ratio, proportion — a synonym of [[比率]], pronounced differently; see Semantic Range Notes.
 - <ruby>[幅度](../words/幅度.md)<rt>ㄈㄨㄎㄉㄛ</rt></ruby>: a range, extent, scope.
 - <ruby>[規模](../words/規模.md)<rt>ㄍㄨㄧㄇㄛ</rt></ruby>: scale, scope — the size or magnitude of an undertaking as a whole (大規模, "large-scale"), distinct from [[幅度]]'s "range" between two values.
 - <ruby>[指標](../words/指標.md)<rt>ㄐㄧㄜㄅ⼄</rt></ruby>: an indicator, index, metric — a quantified measure used to track a condition, as against [[目標]] (a target) and [[標準]] (a standard).
+- <ruby>[倍数](../words/倍数.md)<rt>ㄅㄚㄧㄙㄨ</rt></ruby>: a multiple — a number that another divides into evenly, beside [[約数]].
+- <ruby>[約数](../words/約数.md)<rt>⼘ㄎㄙㄨ</rt></ruby>: a divisor — a number that divides another evenly, beside [[倍数]].
+- <ruby>[公式](../words/公式.md)<rt>ㄍㄛㄫㄙㄧㄎ</rt></ruby>: a formula — a rule written in symbols.
+- <ruby>[多少](../words/多少.md)<rt>ㄉㄜㄙㄛㄨ</rt></ruby>: amount, quantity — see [[Dimensions]] for its own citation there.
+- <ruby>[大量](../words/大量.md)<rt>ㄉㄚㄧㄌ⼘ㄫ</rt></ruby>: a large amount — see [[Dimensions]] for its own citation there.
 
 ## Measure Words (量詞) — Counters and Classifiers
 
@@ -92,7 +155,6 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 
 - <ruby>[公斤](../words/公斤.md)<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby>: a kilogram.
 - <ruby>[升](../words/升.md)<rt>ㄙㄨㄫ</rt></ruby>: a liter.
-- <ruby>[数量](../words/数量.md)<rt>ㄙㄨㄌ⼘ㄫ</rt></ruby>: amount, quantity, weight, measure.
 - <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: a peck — the dry measure; also the Dipper.
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a traditional ladle-unit of volume — ten 勺 make one 合, a hundred make one 升; also a spoon, ladle (see [[Food]]).
 - <ruby>[百升](../words/百升.md)<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby>: a hectoliter — a hundred liters.
@@ -101,22 +163,28 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 ## Advanced / Specialized (C1+)
 
 - <ruby>[精度](../words/精度.md)<rt>ㄐㄝㄫㄉㄛ</rt></ruby>: precision, degree of refinement.
-- <ruby>[均](../words/均.md)<rt>ㄍ⼜ㄋ</rt></ruby>: equal, even, uniform — the bound root behind 均衡 ("balance, equilibrium") and 平均 ("average, mean"), neither of which has its own word page yet.
+- <ruby>[均](../words/均.md)<rt>ㄍ⼜ㄋ</rt></ruby>: equal, even, uniform — the bound root behind [[均衡]] ("balance, equilibrium") and [[平均]] ("average, mean"), both cited below.
 - <ruby>[誤差](../words/誤差.md)<rt>ㄛㄑㄚ</rt></ruby>: error, discrepancy — the margin between a measurement and the true value.
 - <ruby>[基準](../words/基準.md)<rt>ㄍㄧㄐㄨㄋ</rt></ruby>: a standard, criterion, baseline — what a measurement is taken against.
+- <ruby>[尺度](../words/尺度.md)<rt>ㄑㄝㄎㄉㄛ</rt></ruby>: a measure; a yardstick; a criterion.
 - <ruby>[単位](../words/単位.md)<rt>ㄉㄚㄋ⼔ㄧ</rt></ruby>: a unit (of measurement) — see [[Knowledge]] and [[Society]] for this same word's separate "academic credit" citation.
 
-### Additional Vocabulary (backfilled 2026-10-10)
+### Limits & Comparison
 
-- <ruby>[一打](../words/一打.md)<rt>ㄧㄊㄉㄚ</rt></ruby>: a dozen; twelve.
-- <ruby>[温度](../words/温度.md)<rt>ㄛㄆㄉㄛ</rt></ruby>: temperature.
-- <ruby>[尺度](../words/尺度.md)<rt>ㄑㄝㄎㄉㄛ</rt></ruby>: a measure; a yardstick; a criterion.
+- <ruby>[上限](../words/上限.md)<rt>ㄙ⼘ㄫㄏㄚㄋ</rt></ruby>: an upper limit — the highest value allowed, beside [[下限]] and [[限度]].
+- <ruby>[下限](../words/下限.md)<rt>ㄏㄚㄏㄚㄋ</rt></ruby>: a lower limit — the lowest value allowed, beside [[上限]].
+- <ruby>[限度](../words/限度.md)<rt>ㄏㄚㄋㄉㄛ</rt></ruby>: a limit — see [[Shape]] and [[Law]] for its own citation there.
+- <ruby>[以下](../words/以下.md)<rt>ㄧㄏㄚ</rt></ruby>: below, or less — marks a number or any amount lower, and includes the number named; beside [[以上]].
+- <ruby>[未満](../words/未満.md)<rt>ㄇㄨㄧㄇㄚㄋ</rt></ruby>: less than — marks a number lower, and does not include the number named.
+- <ruby>[不足](../words/不足.md)<rt>ㄅㄛㄊㄐㄛㄎ</rt></ruby>: a shortage, insufficiency — a lack of what is needed, beside [[超過]].
+- <ruby>[均衡](../words/均衡.md)<rt>ㄍ⼜ㄋㄏㄚㄫ</rt></ruby>: balance, equilibrium — see [[Physical]] for its own citation there.
+- <ruby>[精密](../words/精密.md)<rt>ㄐㄝㄫㄇㄧㄊ</rt></ruby>: precise, exact — see [[Valuation]] for its own citation there.
 
 ## Semantic Range Notes
 
-**個 is the classifier system's own default, not just one classifier among thirteen**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
+**個 is the classifier system's own default, not just one classifier among twelve**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
 
-**比率 and 比例 are an undocumented duplicate, not a confirmed split**: both independently gloss "ratio, proportion," and neither word's own Notes records any distinction between them — closer to the unresolved [[親族]]/[[親戚]] case on [[Kinship]] than to a real semantic split. [[比率]] additionally covers "rate," which is the reason it is used as this page's primary entry.
+**比率 and 比例 are synonyms, not a split**: both mean "ratio, proportion" in all the languages, and the two are not pronounced alike, so they cannot be confused. [[比率]] additionally covers "rate," which is the reason it is used as this page's primary entry.
 
 **里 and 英里 are kept apart, not conflated**: [[里]] is a genuinely traditional East Asian unit (roughly 500m in modern usage); [[英里]] ("English li") is the distinct calque Chinese uses for the Western statute mile. Their rough similarity in scale is coincidental, not etymological, and this vault follows the same distinction rather than treating 里 as simply "the Chinese word for mile." 里 also carries an unrelated administrative sense, "village, hamlet," documented on its own page rather than here. 英里 itself is a further example of the "field holds the formal reading, prose holds the living word" pattern already seen with [[墨西哥]] and [[孟加拉]]: Mandarin and Cantonese genuinely say 英里, but modern Japanese (マイル) and Korean (마일) both use direct phonetic loans from English instead, while Vietnamese anh lý is a confirmed, living Sino-Vietnamese term.
 
@@ -124,10 +192,23 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 
 **数字 and 番号 split abstract numeral from assigned identifier**: [[数字]] is a numeral or digit as a mathematical object — the abstract concept of a number. [[番号]] is a number *assigned* to something for identification — a serial number, a ticket number, a code — closer to English "number" in "what's your phone number" than to "number" in "count to ten."
 
-**Measure words are cross-cited by the thing they count, not duplicated**: seven of the eleven classifiers gathered here already have a primary home on the domain that owns what they count — [[個]] and [[杯]] on [[Containers]], [[匹]] on [[Animals]], [[条]] on [[Dimensions]], [[双]] on [[Numbers]], [[段]] on [[Grammar]], [[番]] on [[Events]]. This page cites all eleven together because the classifier system itself — the grammatical requirement that a number take *some* measure word — is a single coherent phenomenon worth seeing as a whole, the same reasoning behind gathering [[群衆]] across three of its own domains.
+**Measure words are cross-cited by the thing they count, not duplicated**: seven of the twelve classifiers gathered here already have a primary home on the domain that owns what they count — [[個]] and [[杯]] on [[Containers]], [[匹]] on [[Animals]], [[条]] on [[Dimensions]], [[双]] on [[Numbers]], [[段]] on [[Grammar]], [[番]] on [[Events]]. This page cites all twelve together because the classifier system itself — the grammatical requirement that a number take *some* measure word — is a single coherent phenomenon worth seeing as a whole, the same reasoning behind gathering [[群衆]] across three of its own domains.
 
 ## See Also
 
 **Related domains**:
 - [[Numbers]] — Numbers covers the cardinal and ordinal number system itself; Measurement covers the units and classifiers that attach to numbers when counting real things.
 - [[Dimensions]] — shares [[条]], the classifier for long thin objects, with its own length/shape vocabulary.
+- [[Shape]] — [[体積]], [[容量]], and [[限度]] name volume, capacity, and limits, cited there first.
+- [[Containers]] — [[容量]] names capacity, cited there first.
+- [[Geography]] — [[密度]] names density, cited there first.
+- [[Physical]] — [[平均]], [[均衡]], and [[割]] name averaging, balance, and division, cited there first.
+- [[Knowledge]] — [[統計]] names statistics, cited there first.
+- [[Law]] — [[限度]] names a legal or general limit, cited there first.
+- [[Valuation]] — [[精密]] names exactness, cited there first.
+- [[Physics]] — [[重]] and [[軽]] name heavy and light, cited there first.
+- [[Movement]] — [[速]] names fast, cited there first.
+- [[Water]] — [[湿度]] names humidity, cited there first.
+- [[Metals]] — [[硬度]] names hardness, cited there first.
+- [[Time]] — [[年齢]] names age, cited there first.
+- [[Trade]] — [[価格]] names price, cited there first.

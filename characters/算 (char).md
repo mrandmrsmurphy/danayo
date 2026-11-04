@@ -56,6 +56,8 @@ boundedness: 80
 - <ruby>[[打算]]<rt>ㄉㄚㄙ⺢ㄋ</rt></ruby> "to plan; intend"
 - <ruby>[[減算]]<rt>ㄍㄚㄇㄙ⺢ㄋ</rt></ruby> "to subtract"
 - <ruby>[[除算]]<rt>ㄐㄝㄧㄙ⺢ㄋ</rt></ruby> "to divide; divide by"
+- <ruby>[[計算]]<rt>ㄍㄝㄧㄙ⺢ㄋ</rt></ruby> "calculate"
+- <ruby>[[概算]]<rt>ㄍㄚㄧㄙ⺢ㄋ</rt></ruby> "rough estimate"
 
 ## Derived Characters
 - <ruby>[[纂]]<rt>ㄐ⺢ㄋ</rt></ruby> "to compile; edit"

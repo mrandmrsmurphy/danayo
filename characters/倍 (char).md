@@ -53,3 +53,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[倍]]<rt>ㄅㄚㄧ</rt></ruby> "times" (stand-in for 倍)
+- <ruby>[[倍数]]<rt>ㄅㄚㄧㄙㄨ</rt></ruby> "multiple"

@@ -9,6 +9,7 @@ related_domains:
   - "[[Government]]"
   - "[[Calendar]]"
   - "[[Astronomy]]"
+  - "[[Measurement]]"
 status: partial
 ---
 This page gathers the vocabulary of the world's geography: how the earth is divided, the generic words for landforms and borders, and the regions, with their countries, one continent at a time. Places specific to China, Japan, Korea and Vietnam are on their own pages, [China](China.md), [Japan](Japan.md), [Korea](Korea.md) and [Vietnam](Vietnam.md); this page names those countries and sends the reader there.

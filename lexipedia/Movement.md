@@ -7,6 +7,7 @@ related_domains:
   - "[[Locatives]]"
   - "[[Mind]]"
   - "[[Existence]]"
+  - "[[Measurement]]"
 status: complete
 date-last-perfect: 2026-09-30
 ---

@@ -74,6 +74,8 @@ boundedness: 100
 - <ruby>[[殿下]]<rt>ㄉㄧㄋㄏㄚ</rt></ruby> "Your Highness"
 - <ruby>[[下部]]<rt>ㄏㄚㄅㄛㄨ</rt></ruby> "lower part"
 - <ruby>[[上下]]<rt>ㄙ⼘ㄫㄏㄚ</rt></ruby> "up and down"
+- <ruby>[[下限]]<rt>ㄏㄚㄏㄚㄋ</rt></ruby> "lower limit"
+- <ruby>[[以下]]<rt>ㄧㄏㄚ</rt></ruby> "below"
 
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"

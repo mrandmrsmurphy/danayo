@@ -56,3 +56,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[大概]]<rt>ㄉㄚㄧㄍㄚㄧ</rt></ruby> "for the most part; generally" (alias: 大槪)
 - <ruby>[[概要]]<rt>ㄍㄚㄧ⼄ㄨ</rt></ruby> "overview, summary"
 - <ruby>[[概然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> "generally so, roughly true, broadly speaking"
+- <ruby>[[概算]]<rt>ㄍㄚㄧㄙ⺢ㄋ</rt></ruby> "rough estimate"

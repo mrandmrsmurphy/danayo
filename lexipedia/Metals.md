@@ -5,6 +5,7 @@ domain: Metals
 related_domains:
   - "[[Periodic Table]]"
   - "[[Color]]"
+  - "[[Measurement]]"
 status: complete
 date-last-perfect: 2026-10-29
 ---

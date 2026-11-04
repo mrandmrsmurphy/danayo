@@ -76,6 +76,7 @@ boundedness: 50
 - <ruby>[[気質]]<rt>ㄎㄧㄜㄐㄧㄊ</rt></ruby> "temperament"
 - <ruby>[[大気]]<rt>ㄉㄚㄧㄎㄧㄜ</rt></ruby> "atmosphere"
 - <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"
+- <ruby>[[気温]]<rt>ㄎㄧㄜㄛㄆ</rt></ruby> "air temperature"
 
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"

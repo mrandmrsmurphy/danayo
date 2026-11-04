@@ -62,6 +62,7 @@ boundedness: 50
 - <ruby>[[満族]]<rt>ㄇㄚㄋㄐㄛㄎ</rt></ruby> "Manchu ethnicity"
 - <ruby>[[充満]]<rt>ㄑㄨㄫㄇㄚㄋ</rt></ruby> "be filled with"
 - <ruby>[[憤満]]<rt>ㄅㄨㄋㄇㄚㄋ</rt></ruby> "resentment"
+- <ruby>[[未満]]<rt>ㄇㄨㄧㄇㄚㄋ</rt></ruby> "less than"
 
 ## Chengyu
 - <ruby>[[欲求不満]]<rt>⼄ㄎㄍ⼜ㄛㄅㄛㄊㄇㄚㄋ</rt></ruby> "frustration, dissatisfaction"

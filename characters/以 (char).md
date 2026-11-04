@@ -62,6 +62,7 @@ boundedness: 90
 - <ruby>[[以外]]<rt>ㄧ⺢ㄧ</rt></ruby> "other than; except for; outside of"
 - <ruby>[[以上]]<rt>ㄧㄙ⼘ㄫ</rt></ruby> "above; more than; and up; the above"
 - <ruby>[[以内]]<rt>ㄧㄋㄛㄧ</rt></ruby> "within; less than"
+- <ruby>[[以下]]<rt>ㄧㄏㄚ</rt></ruby> "below"
 
 ## Chengyu
 - <ruby>[[義以立名]]<rt>ㄜㄧㄧㄌㄧㄆㄇㄧㄫ</rt></ruby> "names should be established by meaning"

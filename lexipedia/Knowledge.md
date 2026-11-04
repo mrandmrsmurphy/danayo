@@ -11,6 +11,7 @@ related_domains:
   - "[[Law]]"
   - "[[Society]]"
   - "[[Emotions]]"
+  - "[[Measurement]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

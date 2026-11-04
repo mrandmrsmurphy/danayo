@@ -84,6 +84,7 @@ boundedness: 100
 - <ruby>[[合格]]<rt>ㄍㄛㄆㄍㄚㄎ</rt></ruby> "pass"
 - <ruby>[[合唱]]<rt>ㄍㄛㄆㄑ⺢ㄫ</rt></ruby> "chorus"
 - <ruby>[[合奏]]<rt>ㄍㄛㄆㄙㄛㄨ</rt></ruby> "ensemble"
+- <ruby>[[合計]]<rt>ㄍㄛㄆㄍㄝㄧ</rt></ruby> "total"
 
 ## Chengyu
 - <ruby>[[合漢再決]]<rt>ㄍㄛㄆㄏㄚㄋㄐㄚㄧㄎ⼔ㄊ</rt></ruby> "The Renewed Sinosphere chooses unity"

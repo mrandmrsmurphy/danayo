@@ -10,6 +10,7 @@ related_domains:
   - "[[Efforts]]"
   - "[[Events]]"
   - "[[Mind]]"
+  - "[[Measurement]]"
 status: partial
 ---
 

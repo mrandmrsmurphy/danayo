@@ -72,6 +72,7 @@ boundedness: 90
 - <ruby>[[三重]]<rt>ㄙㄚㄇㄑㄛㄫ</rt></ruby> "Mie Prefecture"
 - <ruby>[[体重]]<rt>ㄊㄝㄧㄑㄛㄫ</rt></ruby> "body weight"
 - <ruby>[[重力]]<rt>ㄑㄛㄫㄌㄧㄎ</rt></ruby> "gravity"
+- <ruby>[[重量]]<rt>ㄑㄛㄫㄌ⼘ㄫ</rt></ruby> "weight"
 
 ## Chengyu
 - <ruby>[[義重於音]]<rt>ㄜㄧㄑㄛㄫㄛㄨㄇ</rt></ruby> "Meaning is more important than sound"

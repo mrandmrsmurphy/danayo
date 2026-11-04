@@ -80,6 +80,7 @@ boundedness: 50
 - <ruby>[[不可不]]<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> "cannot not (do something), i.e. must"
 - <ruby>[[不復]]<rt>ㄅㄛㄊㄅㄨㄎ</rt></ruby> "no longer; no more"
 - <ruby>[[不在]]<rt>ㄅㄛㄊㄐㄚㄧ</rt></ruby> "absence"
+- <ruby>[[不足]]<rt>ㄅㄛㄊㄐㄛㄎ</rt></ruby> "shortage"
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"

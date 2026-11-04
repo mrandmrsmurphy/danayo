@@ -7,6 +7,7 @@ related_domains:
   - "[[Calendar]]"
   - "[[Astronomy]]"
   - "[[Events]]"
+  - "[[Measurement]]"
 status: partial
 ---
 

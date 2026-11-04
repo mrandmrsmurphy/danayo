@@ -81,6 +81,7 @@ boundedness: 70
 - <ruby>[[上衣]]<rt>ㄙ⼘ㄫㄧㄜ</rt></ruby> "upper garment"
 - <ruby>[[上部]]<rt>ㄙ⼘ㄫㄅㄛㄨ</rt></ruby> "upper part"
 - <ruby>[[上下]]<rt>ㄙ⼘ㄫㄏㄚ</rt></ruby> "up and down"
+- <ruby>[[上限]]<rt>ㄙ⼘ㄫㄏㄚㄋ</rt></ruby> "upper limit"
 
 ## Chengyu
 - <ruby>[[上下無偶]]<rt>ㄙ⼘ㄫㄏㄚ·ㄇㄜㄛㄨ</rt></ruby> "Above and below, no idols"

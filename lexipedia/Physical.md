@@ -5,6 +5,7 @@ domain: Physical
 related_domains:
   - "[[Conflict]]"
   - "[[Body]]"
+  - "[[Measurement]]"
 status: partial
 ---
 

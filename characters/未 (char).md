@@ -52,6 +52,7 @@ boundedness: 90
 ## Words
 - <ruby>[[未]]<rt>ㄇㄨㄧ</rt></ruby> "not yet" (stand-in for 未)
 - <ruby>[[未月]]<rt>ㄇㄨㄧ⼔ㄊ</rt></ruby> "sixth month (goat month)"
+- <ruby>[[未満]]<rt>ㄇㄨㄧㄇㄚㄋ</rt></ruby> "less than"
 
 ## Chengyu
 - <ruby>[[未雨紬謬]]<rt>ㄇㄨㄧㄨㄑㄨㄛㄇ⼜</rt></ruby> "to prepare in advance, before trouble arises"
