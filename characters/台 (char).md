@@ -20,7 +20,7 @@ middle_chinese_final: ʌi
 stroke_count: 5
 radical: 口
 skip_number: 2-2-3
-grade_level: '4'
+grade_level: "4"
 pos: 名詞
 english:
 - pedestal

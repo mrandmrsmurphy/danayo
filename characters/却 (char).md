@@ -13,7 +13,7 @@ middle_chinese_final: ɨɐk
 stroke_count: 7
 radical: 卩
 skip_number: 1-5-2
-grade_level: '5'
+grade_level: "5"
 pos: 連接詞
 english:
 - but

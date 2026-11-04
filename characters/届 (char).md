@@ -13,7 +13,7 @@ middle_chinese_final: ɣɛi
 stroke_count: 8
 radical: 尸
 skip_number: 3-3-5
-grade_level: '6'
+grade_level: "6"
 pos: 性詞
 english:
 - deliver

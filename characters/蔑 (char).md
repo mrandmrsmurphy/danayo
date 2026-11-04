@@ -21,7 +21,7 @@ middle_chinese_final: et
 stroke_count: 14
 radical: 艸
 skip_number: 2-3-11
-grade_level: '6'
+grade_level: "6"
 pos: 事詞
 english:
 - scorn

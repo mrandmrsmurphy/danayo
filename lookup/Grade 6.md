@@ -12,6 +12,8 @@ tags: [lookup]
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四十<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 
+Each entry shows at most its first three English meanings; the character page lists the rest.
+
 1. <ruby>[[串 (char)|串]]<rt>ㄐ⺢ㄇ</rt></ruby> - skewer
 2. <ruby>[[乏]]<rt>ㄅㄚㄆ</rt></ruby> - scarcity, lack
 3. <ruby>[[乞 (char)|乞]]<rt>ㄎㄧㄊ</rt></ruby> - beg

@@ -12,6 +12,8 @@ tags: [lookup]
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>七<rt>ㄑㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 
+Each entry shows at most its first three English meanings; the character page lists the rest.
+
 1. <ruby>[[丁 (char)|丁]]<rt>ㄉㄝㄫ</rt></ruby> - fourth
 2. <ruby>[[且 (char)|且]]<rt>ㄑㄛ</rt></ruby> - also
 3. <ruby>[[丙 (char)|丙]]<rt>ㄅ⼶ㄫ</rt></ruby> - third class, tertiary

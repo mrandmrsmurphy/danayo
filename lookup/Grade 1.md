@@ -12,6 +12,8 @@ tags: [lookup]
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>十五<rt>ㄙㄧㄆ·ㄛ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 
+Each entry shows at most its first three English meanings; the character page lists the rest.
+
 1. <ruby>[[一 (char)|一]]<rt>ㄧㄊ</rt></ruby> - one, unity, whole
 2. <ruby>[[七 (char)|七]]<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
 3. <ruby>[[十 (char)|十]]<rt>ㄙㄧㄆ</rt></ruby> - ten

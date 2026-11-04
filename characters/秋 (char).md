@@ -14,7 +14,7 @@ middle_chinese_final: ɨu
 stroke_count: 9
 radical: 禾
 skip_number: 1-5-4
-grade_level: '1'
+grade_level: "1"
 pos: 名詞
 english:
 - autumn

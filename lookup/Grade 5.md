@@ -12,6 +12,8 @@ tags: [lookup]
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 
+Each entry shows at most its first three English meanings; the character page lists the rest.
+
 1. <ruby>[[丈 (char)|丈]]<rt>ㄑㄚㄫ</rt></ruby> - zhang
 2. <ruby>[[丘 (char)|丘]]<rt>ㄎ⼜</rt></ruby> - hill
 3. <ruby>[[乃 (char)|乃]]<rt>ㄋㄚㄧ</rt></ruby> - but

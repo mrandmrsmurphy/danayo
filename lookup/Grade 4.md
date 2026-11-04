@@ -1,6 +1,6 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 size: 326
 tags: [lookup]
 ---
@@ -11,6 +11,8 @@ tags: [lookup]
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>二十<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby><ruby>二<rt>ㄋㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+
+Each entry shows at most its first three English meanings; the character page lists the rest.
 
 1. <ruby>[[並 (char)|並]]<rt>ㄅㄝㄫ</rt></ruby> - side by side
 2. <ruby>[[丸]]<rt>ㄏ⺢ㄋ</rt></ruby> - ball, pill

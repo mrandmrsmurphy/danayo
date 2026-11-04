@@ -17,7 +17,7 @@ middle_chinese_final: ep
 stroke_count: 9
 radical: 手
 skip_number: 1-3-6
-grade_level: '6'
+grade_level: "6"
 pos: 事詞
 english:
 - clasp
