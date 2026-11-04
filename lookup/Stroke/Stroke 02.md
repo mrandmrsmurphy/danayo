@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-03
 size: 16
 stroke_count: 2
 tags: [lookup]
