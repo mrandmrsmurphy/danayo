@@ -34,7 +34,7 @@ This curriculum guides learners from **sound → characters → basic sentences 
 ### [[Lesson 02]]: Chinese Characters 1 – Formation & Recognition (65 Pictograms)
 **Goal**: Learner recognizes the four classical character types and can parse simple compound-ideographs.
 
-- **Pictograms** (象形): 口, 木, 日, 月, 人, 水, 火, 山, 石, 金, etc. — 65 most basic characters
+- **Pictograms** (象形): 口, 木, 日, 月, 人, 水, 火, 山, 石, etc. — with the symbols below, the 65 most basic characters
 - **Ideograms/Symbols** (指事): 上, 下, 一, 二, 三
 - **Compound-ideographs** (會意): How pictograms combine (休 = 人 + 木, 明 = 日 + 月)
 - **Phono-semantic compounds** (形聲): Intro to semantic radicals vs. phonetic markers
@@ -42,9 +42,10 @@ This curriculum guides learners from **sound → characters → basic sentences 
 - **SKIP system**: Introduction to the Kodansha index (superior to radicals for learners)
 
 **Practice**:
-- Recognize pictograms in context
-- Explain 5 compound-ideographs (etymology)
-- Use SKIP to look up 10 characters
+- Say 10 characters from their ruby and guess what 10 pictures show
+- Take apart 10 compound characters and count their strokes
+- Name the radical and read the SKIP code of 6 compounds
+- Write the numbers up to 99
 
 **Reference**: `lessons/Lesson 02.md`, `grammar/文法 - 03文字法.en.md`
 

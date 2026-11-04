@@ -1,6 +1,6 @@
 ---
 language: English
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 ---
 > [[lesson-outline]]
 
@@ -11,7 +11,7 @@ By the end of this lesson you will be able to:
 - Take any syllable apart into onset, glide, vowel and final.
 - Read the ruby over characters.
 
-<ruby>今日安<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>!  Hello!  Welcome to Dan'a'yo, the pan-Asian language.  In this first lesson, we will learn the basic alphabet, those little squiggles above the complicated drawings.  This is a version of the _Bopomofo_ alphabet, in common use in Taiwan.
+<ruby>今日安<rt>ㄍㄧㄇㄋㄧㄊ·ㄚㄋ</rt></ruby>!  Hello!  Welcome to Dan'a'yo, the pan-Asian language.  In this first lesson, we will learn the basic alphabet, those little squiggles above the complicated drawings.  This is a version of the _Bopomofo_ alphabet, in common use in Taiwan.  The full chart is on the [[Bopomofo]] page, and the rules of the sound system are in [[文法 - 02音韻論.en]].
 
 ## Vowels
 The easiest place to begin is with the six vowel letters, **a**, **e**, **i**, **o**, **u**, and **ǝ**.  These are able to stand alone, so we can write them with examples:
@@ -20,7 +20,7 @@ The easiest place to begin is with the six vowel letters, **a**, **e**, **i**, *
 - ㄧ is /i/ as in "ski".  It's a monitor with a flat line, making a *beep*.
 - ㄛ is /o/ as in "coat".  I needed a hook to hang my *coat* on.
 - ㄨ is /u/ as in "rune".  It's an x-shaped *rune*, it's *true*.
-- ㄜ is /ǝ/, somewhere in between the vowel of "*butt*" and the vowel of "*soot*".  There is some leeway: anything in that range will be understood.
+- ㄜ is /ǝ/ (IPA /ɯ/), a relaxed vowel with unrounded lips, somewhere in between the vowel of "*butt*" and the vowel of "*soot*".  It is also the vowel that breaks up consonant clusters in foreign words.  There is some leeway: anything in that range will be understood.
 
 If a syllable starts with one of these, but doesn't come first in a word, it is made clear with a central dot just before it, i.e. ·ㄚ，·ㄝ，·ㄧ，·ㄛ，·ㄨ，·ㄜ。
 
@@ -45,7 +45,7 @@ In addition to on-glides, there are also off-glides.   Most combinations are pos
 
 ## Consonants
 - ㄅ is **b**
-- ㄑ is **c** (like English 'ch')
+- ㄑ is **c** (like English 'ch').  Mandarin pinyin writes this letter **q**; Dan'a'yo always writes **c**.
 - ㄉ is **d**
 - ㄈ is **f**
 - ㄍ is **g**
@@ -83,6 +83,11 @@ A syllable is, therefore,
 - Just two letters, if it is CV or VC 
 - Maximally three letters, CVC (That description is a little bit cheating, because the final consonant can technically be another vowel, in the form of an off-glide.)
 
+## The Latin spelling
+Dan'a'yo also has a Latin spelling, which the answers below use.  Two things differ from the Bopomofo:
+- At the *end* of a syllable, ㄆ ㄊ ㄎ are written with the voiced letters **b**, **d**, **g**: ㄙㄧㄆ is **sib**, ㄋㄧㄊ is **nid**, ㄇㄛㄎ is **mog**.  The sound is still the unreleased stop you learned above; only the Latin letter is voiced.
+- A syllable with no consonant at the start gets an apostrophe: ㄧㄊ is **'id**, ⼜ is **'yu**, ⼄ is **'yo**, ㄨ is **'u**.
+
 ## Drills
 
 ### Drill 1: Sound it out
@@ -110,25 +115,25 @@ Read each character aloud using only the letters above it.  Then check yourself 
 20. <ruby>東<rt>ㄉㄛㄫ</rt></ruby>
 
 >[!answer]- Answers
-> 1. 一 ㄧㄊ = **it**
+> 1. 一 ㄧㄊ = **'id**
 > 2. 二 ㄋㄧㄜ = **niǝ**
 > 3. 三 ㄙㄚㄇ = **sam**
-> 4. 十 ㄙㄧㄆ = **sip**
+> 4. 十 ㄙㄧㄆ = **sib**
 > 5. 人 ㄋㄧㄋ = **nin**
 > 6. 山 ㄙㄚㄋ = **san**
 > 7. 大 ㄉㄚㄧ = **dai**
 > 8. 口 ㄎㄛㄨ = **kou**
-> 9. 木 ㄇㄛㄎ = **mok**
+> 9. 木 ㄇㄛㄎ = **mog**
 > 10. 水 ㄙㄨ = **su**
 > 11. 火 ㄏ⺢ = **hwa**
 > 12. 上 ㄙ⼘ㄫ = **syang**
 > 13. 下 ㄏㄚ = **ha**
 > 14. 女 ㄋㄜ = **nǝ**
 > 15. 千 ㄑㄝㄋ = **cen**
-> 16. 日 ㄋㄧㄊ = **nit**
-> 17. 有 ⼜ = **yu**
-> 18. 魚 ⼄ = **yo**
-> 19. 雨 ㄨ = **u**
+> 16. 日 ㄋㄧㄊ = **nid**
+> 17. 有 ⼜ = **'yu**
+> 18. 魚 ⼄ = **'yo**
+> 19. 雨 ㄨ = **'u**
 > 20. 東 ㄉㄛㄫ = **dong**
 
 ### Drill 2: Take it apart
@@ -157,7 +162,7 @@ Write each of these in Bopomofo.
 3. hwa
 4. syang
 5. nin
-6. yu
+6. 'yu
 
 >[!answer]- Answers
 > 1. sam = ㄙㄚㄇ
@@ -165,4 +170,4 @@ Write each of these in Bopomofo.
 > 3. hwa = ㄏ⺢
 > 4. syang = ㄙ⼘ㄫ
 > 5. nin = ㄋㄧㄋ
-> 6. yu = ⼜
+> 6. 'yu = ⼜

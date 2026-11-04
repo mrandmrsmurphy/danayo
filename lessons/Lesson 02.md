@@ -1,6 +1,6 @@
 ---
 language: English
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 ---
 > [[lesson-outline]]
 
@@ -12,9 +12,9 @@ By the end of this lesson you will be able to:
 - Read and write the numbers up to 99.
 - Say what a radical is, and what SKIP is for.
 
-Now that you are able to sound out words, it's time to tackle the 3000 kilogram elephant in the room: Chinese characters.  While there are a little more than 3000 of these in Dan'a'yo, that's actually **all** of them.  In Chinese and Japanese, these are open sets.  Technically any of the ~40,000 characters that have been used over the last 4,000 years could appear at any time.  Our subset is limited in comparison.
+Now that you are able to sound out words, it's time to tackle the 3000 kilogram elephant in the room: Chinese characters.  While there are a little more than 3,300 of these in Dan'a'yo, that's actually **all** of them.  In Chinese and Japanese, these are open sets.  Technically any of the tens of thousands of characters that have been used over more than three thousand years (more than 100,000 have been catalogued) could appear at any time.  Our subset is limited in comparison.
 
-The best way to get started is to learn some of the ancient categories for <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby>.
+The best way to get started is to learn some of the ancient categories for <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby>.  The rules of the script are in [[文法 - 03文字法.en]], and the lists of each kind are [[List of 象形]], [[List of 指事]] and [[List of 会意]].  The 65 characters below all come from [[Grade 1]].
 ## Types
 ### Pictograms
 Pictograms or 象形 are drawings of real-life objects.  This is what most people think of when someone says <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby>.  However, they are a small minority of characters, around 300.
@@ -47,18 +47,18 @@ There are about 450 of these.  They are not all basic, and so need not all be ta
 For example, suppose you encountered 凍 in the wild.  Eventually, you will learn to recognize the left two dots (冫) as the "ice radical", which are only there for semantic range.  The right side is something you will quickly learn is the word for "east", 東, which is pronounced ㄉㄛㄫ.  It turns out, this is the word for "freeze" and it is also pronounced ㄉㄛㄫ!
 
 ## Radicals
-Long ago, Chinese dictionaries were organized by radical, a set of 214 symbols which appear somewhere in every Chinese character (supposedly).  For example, 言 is the word for "say" and appears as a component in almost 100 characters. If you needed to look up 𧦅, you would (ideally) spot that radical 言, turn to that section of the dictionary, and then count the total number of strokes beyond the radical, which is 4.  In the 言, under heading +4, you would find your character.
+Long ago, Chinese dictionaries were organized by radical, a set of 214 symbols which appear somewhere in every Chinese character (supposedly).  For example, 言 is the word for "say" and is the radical of 38 of Dan'a'yo's characters. If you needed to look up 𧦅, you would (ideally) spot that radical 言, turn to that section of the dictionary, and then count the total number of strokes beyond the radical, which is 4.  In the 言, under heading +4, you would find your character.
 
 ## SKIP
-In 1999, _The Kodansha Kanji Learner's Dictionary_ came up with a superior method for organizing 漢字.  Every hanji is assigned a set of three numbers.  The first is how the character is organized.  A clear left-right division is 1.  A clear top-bottom division is 2.  A surrounding or wrap around components is 3.  Miscellaneous is 4.  The stroke count of the component parts are the next two numbers, for types 1 through 3.  For type 4, the stroke count is the second number, while the third is a classification system.
+_The Kodansha Kanji Learner's Dictionary_ (1999), based on Jack Halpern's _New Japanese-English Character Dictionary_, arranges 漢字 by an original system called SKIP, a superior method for organizing them.  Every hanji is assigned a set of three numbers.  The first is how the character is organized.  A clear left-right division is 1.  A clear top-bottom division is 2.  A surrounding or wrap around components is 3.  Miscellaneous is 4.  The stroke count of the component parts are the next two numbers, for types 1 through 3.  For type 4, the stroke count is the second number, while the third is a classification system.
 
 This system vastly speeds up searching for hanji and is highly recommended.
 
 ## The 65 Characters
-These 65 characters are the pictograms (象形) and symbols (指事) of six strokes or fewer from the first grade of characters.  Learn them first: most are the building blocks of the thousands that follow.  Each is shown with the ruby you learned to read in Lesson 01.
+These 65 characters are the pictograms (象形) and symbols (指事) of six strokes or fewer from the first grade of characters, except 万, 于 and 已 (taught in Lesson 03) and 午 (left for later).  Learn them first: most are the building blocks of the thousands that follow.  Each is shown with the ruby you learned to read in Lesson 01.
 
 ### 1 stroke
-- <ruby>一<rt>ㄧㄊ</rt></ruby> - one, unity (指事)
+- <ruby>一<rt>ㄧㄊ</rt></ruby> - one, unity, whole (指事)
 
 ### 2 strokes
 - <ruby>七<rt>ㄑㄧㄊ</rt></ruby> - seven, 7
@@ -82,16 +82,16 @@ These 65 characters are the pictograms (象形) and symbols (指事) of six stro
 - <ruby>子<rt>ㄐㄜ</rt></ruby> - son, child
 - <ruby>小<rt>ㄙㄛ</rt></ruby> - small (指事)
 - <ruby>山<rt>ㄙㄚㄋ</rt></ruby> - mountain
-- <ruby>才<rt>ㄐㄚㄧ</rt></ruby> - talent, ability
+- <ruby>才<rt>ㄐㄚㄧ</rt></ruby> - ability, genius
 
 ### 4 strokes
-- <ruby>中<rt>ㄐㄨㄫ</rt></ruby> - middle, center (指事)
+- <ruby>中<rt>ㄐㄨㄫ</rt></ruby> - -ing (指事)
 - <ruby>五<rt>ㄛ</rt></ruby> - five, 5
 - <ruby>今<rt>ㄍㄧㄇ</rt></ruby> - now (指事)
-- <ruby>元<rt>⼔ㄋ</rt></ruby> - origin, element
+- <ruby>元<rt>⼔ㄋ</rt></ruby> - element
 - <ruby>六<rt>ㄌㄨㄎ</rt></ruby> - six (指事)
 - <ruby>天<rt>ㄊㄝㄋ</rt></ruby> - sky
-- <ruby>太<rt>ㄊㄚㄧ</rt></ruby> - great, extreme (指事)
+- <ruby>太<rt>ㄊㄚㄧ</rt></ruby> - great, extreme, excessive (指事)
 - <ruby>心<rt>ㄙㄧㄇ</rt></ruby> - heart
 - <ruby>手<rt>ㄙ⼜</rt></ruby> - hand
 - <ruby>文<rt>ㄇㄨㄋ</rt></ruby> - culture
@@ -122,24 +122,26 @@ These 65 characters are the pictograms (象形) and symbols (指事) of six stro
 
 ### 6 strokes
 - <ruby>交<rt>ㄍ⼄ㄨ</rt></ruby> - mix, exchange
-- <ruby>回<rt>ㄏㄛㄧ</rt></ruby> - turn, return
-- <ruby>次<rt>ㄑㄧㄜ</rt></ruby> - next, order
+- <ruby>回<rt>ㄏㄛㄧ</rt></ruby> - turns
+- <ruby>次<rt>ㄑㄧㄜ</rt></ruby> - order
 - <ruby>竹<rt>ㄐㄨㄎ</rt></ruby> - bamboo
-- <ruby>米<rt>ㄇㄝㄧ</rt></ruby> - rice
+- <ruby>米<rt>ㄇㄝㄧ</rt></ruby> - rice (uncooked)
 - <ruby>糸<rt>ㄙㄚ</rt></ruby> - silk thread
 - <ruby>羊<rt>⼘ㄫ</rt></ruby> - sheep, goat
 - <ruby>耳<rt>ㄋㄧ</rt></ruby> - ear
 - <ruby>肉<rt>ㄋㄨㄎ</rt></ruby> - meat
 - <ruby>虫<rt>ㄐㄨㄫ</rt></ruby> - bug
-- <ruby>行<rt>ㄏㄚㄫ</rt></ruby> - go, travel (指事)
+- <ruby>行<rt>ㄏㄚㄫ</rt></ruby> - attend, go to (指事)
 - <ruby>西<rt>ㄙㄝㄧ</rt></ruby> - west
+
+The glosses are the ones on each character's own page, so a few are grammatical or narrow: 中 is "-ing" (as in 中 added to a verb), 行 is "attend, go to", and 回 and 次 name a turn and an order.
 
 ## Exercises
 
 ### A. Recognize
 
 #### A1. What is the sound?
-Say each character aloud, using what you learned in Lesson 01.  Then check.
+Say each character aloud, using what you learned in Lesson 01.  Then check.  The answers use the Latin spelling from [[Lesson 01]]: final ㄆ ㄊ ㄎ are written b, d, g, and a syllable with no starting consonant gets an apostrophe.
 
 1. 人
 2. 山
@@ -157,12 +159,12 @@ Say each character aloud, using what you learned in Lesson 01.  Then check.
 > 2. 山 ㄙㄚㄋ = **san**
 > 3. 火 ㄏ⺢ = **hwa**
 > 4. 水 ㄙㄨ = **su**
-> 5. 日 ㄋㄧㄊ = **nit**
-> 6. 月 ⼔ㄊ = **wet**
-> 7. 木 ㄇㄛㄎ = **mok**
+> 5. 日 ㄋㄧㄊ = **nid**
+> 6. 月 ⼔ㄊ = **'wed**
+> 7. 木 ㄇㄛㄎ = **mog**
 > 8. 口 ㄎㄛㄨ = **kou**
 > 9. 手 ㄙ⼜ = **syu**
-> 10. 目 ㄇㄨㄎ = **muk**
+> 10. 目 ㄇㄨㄎ = **mug**
 
 #### A2. What does it mean?
 Each of these is a picture.  Guess what it shows, then check.
@@ -258,7 +260,7 @@ Each of these is a compound made of characters from the list.  Name the two part
 > 5. 林 = left **木** (tree) + right **木** (tree)
 > 6. 男 = top **田** (field) + bottom **力** (strength)
 > 7. 岩 = top **山** (mountain) + bottom **石** (rock)
-> 8. 看 = top **手** (hand) + bottom **目** (eye)
+> 8. 看 = top **手** (hand) + bottom **目** (eye).  SKIP files this one as a wrap-around (3), because the hand's strokes reach down around the eye.
 > 9. 早 = top **日** (sun) + bottom **十** (ten)
 > 10. 炎 = top **火** (fire) + bottom **火** (fire)
 
@@ -284,6 +286,24 @@ Count the strokes of the whole compound, then of each part.  What do you notice?
 > 7. 早 = **6** (日 4 + 十 2)
 > 8. 森 = **12** (木 4 + 木 4 + 木 4)
 > The strokes of the parts add up to the strokes of the whole.
+
+#### B3. Radical and SKIP
+Each compound has one radical and one SKIP code.  Name the radical, then say what the code tells you.
+
+1. 休 (SKIP 1-2-4)
+2. 明 (SKIP 1-4-4)
+3. 林 (SKIP 1-4-4)
+4. 男 (SKIP 2-5-2)
+5. 岩 (SKIP 2-3-5)
+6. 炎 (SKIP 2-4-4)
+
+>[!answer]- Answers
+> 1. 休: radical **人**.  1 = left and right, 2 strokes on the left, 4 on the right.
+> 2. 明: radical **日**.  1 = left and right, 4 strokes on the left, 4 on the right.
+> 3. 林: radical **木**.  1 = left and right, 4 strokes on the left, 4 on the right.
+> 4. 男: radical **田**.  2 = top and bottom, 5 strokes on top, 2 below.
+> 5. 岩: radical **山**.  2 = top and bottom, 3 strokes on top, 5 below.
+> 6. 炎: radical **火**.  2 = top and bottom, 4 strokes on top, 4 below.
 
 ### C. Write it
 
@@ -314,7 +334,7 @@ Write the character for each meaning.  Then check.
 > 10. field = 田
 
 #### C2. Write the sound
-Write the character for each sound.
+Write the character for each sound.  Use the 65 characters of this lesson: other characters share these sounds too.
 
 1. ㄙㄚㄋ
 2. ㄙㄨ

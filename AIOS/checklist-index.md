@@ -13,6 +13,7 @@ Distinct from `AIOS/skills/` (how to *create* something) — checklists are how 
 - [[AIOS/checklists/checklist_radicals.md|Radical lookup pages]] — stroke-grouped inventory per Kangxi radical
 - [[AIOS/checklists/checklist_cc.md|CC initials/finals pages]] — outcome-grouped character inventory per Middle Chinese initial/final, exception diagnosis categories
 - [[AIOS/checklists/checklist_lexipedia.md|Lexipedia domain pages]] — tiered vocabulary structure (A1–C1+), Semantic Range Notes, Dan'a'yo-specific divergence from source-language meaning
+- [[AIOS/checklists/checklist_lessons.md|Lesson pages]] — verified against the vault (facts, readings, answers, Latin spelling, indexes), extra checks by lesson type, staleness by source-page changes; certifies facts, not teaching
 
 ## On a future delinter
 
