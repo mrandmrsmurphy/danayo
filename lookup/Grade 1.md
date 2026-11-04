@@ -1,6 +1,6 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 size: 250
 tags: [lookup]
 ---
@@ -25,23 +25,23 @@ Each entry shows at most its first three English meanings; the character page li
 9. <ruby>[[八 (char)|八]]<rt>ㄅㄚㄊ</rt></ruby> - eight, 8
 10. <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby> - person
 11. <ruby>[[子]]<rt>ㄐㄜ</rt></ruby> - son, child
-12. <ruby>[[之 (char)|之]]<rt>ㄊㄧ</rt></ruby> - s, which
+12. <ruby>[[之 (char)|之]]<rt>ㄊㄧ</rt></ruby> - 's, which
 13. <ruby>[[已 (char)|已]]<rt>ㄜ</rt></ruby> - -ed
 14. <ruby>[[与 (char)|与]]<rt>⼄</rt></ruby> - and
 15. <ruby>[[大 (char)|大]]<rt>ㄉㄚㄧ</rt></ruby> - big
 16. <ruby>[[三 (char)|三]]<rt>ㄙㄚㄇ</rt></ruby> - three
-17. <ruby>[[才]]<rt>ㄐㄚㄧ</rt></ruby> - talent, ability
+17. <ruby>[[才]]<rt>ㄐㄚㄧ</rt></ruby> - ability, genius
 18. <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> - thousand
-19. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - myriad, ten-thousand
+19. <ruby>[[万]]<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
 20. <ruby>[[山 (char)|山]]<rt>ㄙㄚㄋ</rt></ruby> - mountain
 21. <ruby>[[上 (char)|上]]<rt>ㄙ⼘ㄫ</rt></ruby> - up, above
-22. <ruby>[[于 (char)|于]]<rt>ㄨ</rt></ruby> - to, DATIVE
+22. <ruby>[[于 (char)|于]]<rt>ㄨ</rt></ruby> - to, \<dative\>
 23. <ruby>[[小 (char)|小]]<rt>ㄙㄛ</rt></ruby> - small
 24. <ruby>[[口 (char)|口]]<rt>ㄎㄛㄨ</rt></ruby> - mouth
 25. <ruby>[[女 (char)|女]]<rt>ㄋㄜ</rt></ruby> - woman
 26. <ruby>[[下 (char)|下]]<rt>ㄏㄚ</rt></ruby> - down, below
 27. <ruby>[[土 (char)|土]]<rt>ㄊㄛ</rt></ruby> - earth
-28. <ruby>[[太 (char)|太]]<rt>ㄊㄚㄧ</rt></ruby> - great
+28. <ruby>[[太 (char)|太]]<rt>ㄊㄚㄧ</rt></ruby> - great, extreme, excessive
 29. <ruby>[[友]]<rt>⼜ㄛ</rt></ruby> - friend
 30. <ruby>[[内]]<rt>ㄋㄛㄧ</rt></ruby> - inside
 31. <ruby>[[中]]<rt>ㄐㄨㄫ</rt></ruby> - -ing
@@ -62,17 +62,17 @@ Each entry shows at most its first three English meanings; the character page li
 46. <ruby>[[王 (char)|王]]<rt>⺢ㄫ</rt></ruby> - king
 47. <ruby>[[月 (char)|月]]<rt>⼔ㄊ</rt></ruby> - month, moon
 48. <ruby>[[日 (char)|日]]<rt>ㄋㄧㄊ</rt></ruby> - day, sun
-49. <ruby>[[六 (char)|六]]<rt>ㄌㄨㄎ</rt></ruby> - six, 6
+49. <ruby>[[六 (char)|六]]<rt>ㄌㄨㄎ</rt></ruby> - six
 50. <ruby>[[元]]<rt>⼔ㄋ</rt></ruby> - element
 51. <ruby>[[少 (char)|少]]<rt>ㄙㄛㄨ</rt></ruby> - few
 52. <ruby>[[心 (char)|心]]<rt>ㄙㄧㄇ</rt></ruby> - heart
 53. <ruby>[[出 (char)|出]]<rt>ㄑㄨㄊ</rt></ruby> - exit
-54. <ruby>[[市]]<rt>ㄙㄧ</rt></ruby> - city
+54. <ruby>[[市]]<rt>ㄙㄧ</rt></ruby> - city, market
 55. <ruby>[[北]]<rt>ㄅㄨㄎ</rt></ruby> - north
 56. <ruby>[[目 (char)|目]]<rt>ㄇㄨㄎ</rt></ruby> - eye
 57. <ruby>[[田]]<rt>ㄉㄝㄋ</rt></ruby> - field
 58. <ruby>[[本 (char)|本]]<rt>ㄅㄛㄋ</rt></ruby> - foundation
-59. <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby> - another
+59. <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby> - another, additional
 60. <ruby>[[冬 (char)|冬]]<rt>ㄊㄛㄫ</rt></ruby> - winter
 61. <ruby>[[去 (char)|去]]<rt>ㄎ⼄</rt></ruby> - go
 62. <ruby>[[右]]<rt>⼜</rt></ruby> - right (direction)
@@ -120,7 +120,7 @@ Each entry shows at most its first three English meanings; the character page li
 104. <ruby>[[全 (char)|全]]<rt>ㄐ⼔ㄋ</rt></ruby> - whole
 105. <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby> - lamp
 106. <ruby>[[羊]]<rt>⼘ㄫ</rt></ruby> - sheep, goat
-107. <ruby>[[../characters/百 (char)|百]]<rt>ㄅㄚㄎ</rt></ruby> - hundred
+107. <ruby>[[百 (char)|百]]<rt>ㄅㄚㄎ</rt></ruby> - hundred
 108. <ruby>[[交 (char)|交]]<rt>ㄍ⼄ㄨ</rt></ruby> - mix, exchange
 109. <ruby>[[早 (char)|早]]<rt>ㄐㄚㄨ</rt></ruby> - early
 110. <ruby>[[足 (char)|足]]<rt>ㄐㄛㄎ</rt></ruby> - foot
@@ -140,7 +140,7 @@ Each entry shows at most its first three English meanings; the character page li
 124. <ruby>[[究]]<rt>ㄍ⼜</rt></ruby> - research, investigate
 125. <ruby>[[君 (char)|君]]<rt>ㄍㄨㄋ</rt></ruby> - you
 126. <ruby>[[見 (char)|見]]<rt>ㄍ⼶ㄋ</rt></ruby> - see
-127. <ruby>[[声]]<rt>ㄙㄧㄫ</rt></ruby> - sound
+127. <ruby>[[声]]<rt>ㄙㄧㄫ</rt></ruby> - vocalize, emit sound
 128. <ruby>[[事 (char)|事]]<rt>ㄐㄧ</rt></ruby> - thing, action
 129. <ruby>[[放]]<rt>ㄈㄚㄫ</rt></ruby> - release
 130. <ruby>[[表]]<rt>ㄅ⼘ㄨ</rt></ruby> - show, indicate
@@ -149,7 +149,7 @@ Each entry shows at most its first three English meanings; the character page li
 133. <ruby>[[国]]<rt>ㄍㄛㄎ</rt></ruby> - nation
 134. <ruby>[[明 (char)|明]]<rt>ㄇ⼶ㄫ</rt></ruby> - bright
 135. <ruby>[[東]]<rt>ㄉㄛㄫ</rt></ruby> - east
-136. <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> - nuture, educate
+136. <ruby>[[育 (char)|育]]<rt>⼜ㄎ</rt></ruby> - nurture, educate
 137. <ruby>[[長 (char)|長]]<rt>ㄐㄚㄫ</rt></ruby> - long
 138. <ruby>[[於 (char)|於]]<rt>ㄛ</rt></ruby> - in, at, during
 139. <ruby>[[姉 (char)|姉]]<rt>ㄐㄚ</rt></ruby> - elder sister
@@ -173,7 +173,7 @@ Each entry shows at most its first three English meanings; the character page li
 157. <ruby>[[重 (char)|重]]<rt>ㄑㄛㄫ</rt></ruby> - heavy
 158. <ruby>[[度]]<rt>ㄉㄛ</rt></ruby> - degree, manner
 159. <ruby>[[送 (char)|送]]<rt>ㄙㄛㄫ</rt></ruby> - give
-160. <ruby>[[音]]<rt>ㄨㄇ</rt></ruby> - sound
+160. <ruby>[[音]]<rt>ㄨㄇ</rt></ruby> - sound, music
 161. <ruby>[[思]]<rt>ㄙㄚ</rt></ruby> - think
 162. <ruby>[[発 (char)|発]]<rt>ㄈㄚㄊ</rt></ruby> - issue forth, discharge
 163. <ruby>[[研]]<rt>ㄝㄋ</rt></ruby> - research, sharpen
@@ -192,7 +192,7 @@ Each entry shows at most its first three English meanings; the character page li
 176. <ruby>[[皆 (char)|皆]]<rt>ㄍ⼶</rt></ruby> - every
 177. <ruby>[[風 (char)|風]]<rt>ㄈㄨㄫ</rt></ruby> - wind
 178. <ruby>[[点 (char)|点]]<rt>ㄉㄝㄇ</rt></ruby> - point
-179. <ruby>[[前 (char)|前]]<rt>ㄐㄝㄋ</rt></ruby> - front, before, preceeding
+179. <ruby>[[前 (char)|前]]<rt>ㄐㄝㄋ</rt></ruby> - front, before, preceding
 180. <ruby>[[流]]<rt>ㄌ⼜</rt></ruby> - flow
 181. <ruby>[[病]]<rt>ㄅ⼶ㄫ</rt></ruby> - sickness
 182. <ruby>[[馬 (char)|馬]]<rt>ㄇㄚ</rt></ruby> - horse
@@ -208,7 +208,7 @@ Each entry shows at most its first three English meanings; the character page li
 192. <ruby>[[真 (char)|真]]<rt>ㄐㄧㄋ</rt></ruby> - true
 193. <ruby>[[酒]]<rt>ㄐㄨㄛ</rt></ruby> - alcohol
 194. <ruby>[[書]]<rt>ㄙ⼄</rt></ruby> - book
-195. <ruby>[[記]]<rt>ㄍㄧ</rt></ruby> - write, document
+195. <ruby>[[記]]<rt>ㄍㄧ</rt></ruby> - remember
 196. <ruby>[[黒 (char)|黒]]<rt>ㄏㄨㄎ</rt></ruby> - black
 197. <ruby>[[雪 (char)|雪]]<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 198. <ruby>[[第 (char)|第]]<rt>ㄉㄝㄧ</rt></ruby> - -th
@@ -225,7 +225,7 @@ Each entry shows at most its first three English meanings; the character page li
 209. <ruby>[[教]]<rt>ㄍ⼄ㄨ</rt></ruby> - teach
 210. <ruby>[[黄 (char)|黄]]<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
 211. <ruby>[[章 (char)|章]]<rt>ㄐㄚㄫ</rt></ruby> - chapter
-212. <ruby>[[細 (char)|細]]<rt>ㄙㄝㄧ</rt></ruby> - fine, thin, slender, quiet (sound)
+212. <ruby>[[細 (char)|細]]<rt>ㄙㄝㄧ</rt></ruby> - fine, thin, slender
 213. <ruby>[[軽 (char)|軽]]<rt>ㄎㄧㄫ</rt></ruby> - light, not heavy
 214. <ruby>[[朝 (char)|朝]]<rt>ㄐㄚㄨ</rt></ruby> - morning
 215. <ruby>[[短 (char)|短]]<rt>ㄉ⺢ㄋ</rt></ruby> - short
@@ -233,7 +233,7 @@ Each entry shows at most its first three English meanings; the character page li
 217. <ruby>[[雲 (char)|雲]]<rt>ㄨㄋ</rt></ruby> - cloud
 218. <ruby>[[筆 (char)|筆]]<rt>ㄆㄨㄊ</rt></ruby> - pen, stylus
 219. <ruby>[[湖]]<rt>ㄏㄛㄨ</rt></ruby> - lake
-220. <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> - collect
+220. <ruby>[[集]]<rt>ㄐㄧㄆ</rt></ruby> - assemble
 221. <ruby>[[等 (char)|等]]<rt>ㄉㄨㄫ</rt></ruby> - etc., rank
 222. <ruby>[[場]]<rt>ㄐㄚㄫ</rt></ruby> - market
 223. <ruby>[[晴]]<rt>ㄑㄧㄫ</rt></ruby> - clear

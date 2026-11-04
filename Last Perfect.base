@@ -12,6 +12,7 @@ views:
       - file.folder
       - file.ctime
       - file.size
+      - size
     sort:
       - property: date-last-perfect
         direction: ASC
