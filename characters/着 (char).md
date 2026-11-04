@@ -62,3 +62,5 @@ boundedness: 100
 - <ruby>[[着作]]<rt>ㄐ⺢ㄎㄐㄚㄎ</rt></ruby> "written work"
 - <ruby>[[沈着]]<rt>ㄑㄧㄇㄐ⺢ㄎ</rt></ruby> "composed"
 - <ruby>[[執着]]<rt>ㄐㄧㄆㄐ⺢ㄎ</rt></ruby> "attachment"
+- <ruby>[[到着]]<rt>ㄉㄚㄨㄐ⺢ㄎ</rt></ruby> "arrive"
+- <ruby>[[着陸]]<rt>ㄐ⺢ㄎㄌㄨㄎ</rt></ruby> "land"

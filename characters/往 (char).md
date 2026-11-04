@@ -56,3 +56,4 @@ boundedness: 90
 - <ruby>[[往]]<rt>⺢ㄫ</rt></ruby> "to go towards" (stand-in for 往)
 - <ruby>[[往往]]<rt>⺢ㄫ⺢ㄫ</rt></ruby> "often"
 - <ruby>[[既往]]<rt>ㄍㄧㄜ⺢ㄫ</rt></ruby> "past"
+- <ruby>[[往来]]<rt>⺢ㄫㄌㄚㄧ</rt></ruby> "coming and going"

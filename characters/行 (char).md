@@ -88,6 +88,9 @@ boundedness: 55
 - <ruby>[[行李]]<rt>ㄏㄚㄫㄌㄧ</rt></ruby> "luggage"
 - <ruby>[[平行]]<rt>ㄅ⼶ㄫㄏㄚㄫ</rt></ruby> "parallel"
 - <ruby>[[遂行]]<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby> "carry out"
+- <ruby>[[走行]]<rt>ㄙㄛㄨㄏㄚㄫ</rt></ruby> "run"
+- <ruby>[[歩行]]<rt>ㄅㄛㄏㄚㄫ</rt></ruby> "walk"
+- <ruby>[[行程]]<rt>ㄏㄚㄫㄉㄧㄫ</rt></ruby> "journey"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

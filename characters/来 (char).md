@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby> "Malaysia"
 - <ruby>[[外来語]]<rt>⺢ㄧㄌㄚㄧ⼄</rt></ruby> "loanword"
 - <ruby>[[由来]]<rt>⼜ㄛㄌㄚㄧ</rt></ruby> "origin"
+- <ruby>[[往来]]<rt>⺢ㄫㄌㄚㄧ</rt></ruby> "coming and going"
 
 ## Derived Characters
 - <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley"

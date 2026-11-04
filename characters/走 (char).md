@@ -52,6 +52,8 @@ boundedness: 100
 - <ruby>[[走]]<rt>ㄙㄛㄨ</rt></ruby> "run" (stand-in for 走)
 - <ruby>[[奔走]]<rt>ㄅㄛㄋㄙㄛㄨ</rt></ruby> "run around; walk quickly"
 - <ruby>[[競走]]<rt>ㄍ⼶ㄫㄙㄛㄨ</rt></ruby> "race"
+- <ruby>[[走行]]<rt>ㄙㄛㄨㄏㄚㄫ</rt></ruby> "run"
+- <ruby>[[逃走]]<rt>ㄉㄚㄨㄙㄛㄨ</rt></ruby> "flee"
 
 ## Chengyu
 - <ruby>[[東奔西走]]<rt>ㄉㄛㄫㄅㄛㄋㄙㄝㄧㄙㄛㄨ</rt></ruby> "to rush about everywhere, to run around busily from place to place"

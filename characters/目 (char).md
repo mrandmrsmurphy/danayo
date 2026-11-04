@@ -60,6 +60,7 @@ boundedness: 90
 - <ruby>[[目階]]<rt>ㄇㄨㄎㄍ⼶ㄧ</rt></ruby> "order"
 - <ruby>[[目次]]<rt>ㄇㄨㄎㄑㄧㄜ</rt></ruby> "table of contents"
 - <ruby>[[目録]]<rt>ㄇㄨㄎㄌㄛㄎ</rt></ruby> "list"
+- <ruby>[[目的地]]<rt>ㄇㄨㄎㄉㄝㄎㄉㄧㄜ</rt></ruby> "destination"
 
 ## Chengyu
 - <ruby>[[一目瞭然]]<rt>ㄧㄊㄇㄨㄎㄌ⼘ㄨㄋ⼶ㄋ</rt></ruby> "clear at the first glance, obvious, apparent"

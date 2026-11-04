@@ -8,8 +8,13 @@ related_domains:
   - "[[Mind]]"
   - "[[Existence]]"
   - "[[Measurement]]"
+  - "[[Events]]"
+  - "[[Water]]"
+  - "[[Trade]]"
+  - "[[Society]]"
+  - "[[Speech]]"
 status: complete
-date-last-perfect: 2026-09-30
+date-last-perfect: 2026-11-04
 ---
 
 # Movement
@@ -21,15 +26,24 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[来](../words/来.md)<rt>ㄌㄚㄧ</rt></ruby>: to come — see [[Calendar]] for its own citation there.
 - <ruby>[去](../words/去.md)<rt>ㄎ⼄</rt></ruby>: to go.
 - <ruby>[往](../words/往.md)<rt>⺢ㄫ</rt></ruby>: to go towards (往復, "round trip"; 往来, "coming and going, interaction") — a near-synonym of [[去]].
+- <ruby>[往来](../words/往来.md)<rt>⺢ㄫㄌㄚㄧ</rt></ruby>: coming and going, traffic — beside [[往]] and [[来]].
+- <ruby>[行](../words/行.md)<rt>ㄏㄚㄫ</rt></ruby>: attend; go to.
 - <ruby>[入](../words/入.md)<rt>ㄋㄧㄆ</rt></ruby>: to enter.
 - <ruby>[挿入](../words/挿入.md)<rt>ㄑㄚㄆㄋㄧㄆ</rt></ruby>: to insert, stick into.
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
 - <ruby>[外出](../words/外出.md)<rt>⺢ㄧㄑㄨㄊ</rt></ruby>: to go out.
+- <ruby>[出入](../words/出入.md)<rt>ㄑㄨㄊㄋㄧㄆ</rt></ruby>: to go in and out.
 - <ruby>[入場](../words/入場.md)<rt>ㄋㄧㄆㄐㄚㄫ</rt></ruby>: to enter a venue, admission.
 - <ruby>[到達](../words/到達.md)<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby>: to arrive at, reach.
+- <ruby>[到着](../words/到着.md)<rt>ㄉㄚㄨㄐ⺢ㄎ</rt></ruby>: to arrive, arrival — beside [[到達]].
+- <ruby>[終点](../words/終点.md)<rt>ㄐㄨㄫㄉㄝㄇ</rt></ruby>: terminus; terminal.
 - <ruby>[帰還](../words/帰還.md)<rt>ㄍㄨㄧㄏ⺢ㄋ</rt></ruby>: to return home, give back, be repatriated.
 - <ruby>[動](../words/動.md)<rt>ㄉㄛㄫ</rt></ruby>: to move.
+- <ruby>[移民](../words/移民.md)<rt>⼶ㄧㄇㄧㄋ</rt></ruby>: an immigrant or emigrant — see [[Society]] for its own citation there.
+- <ruby>[移住](../words/移住.md)<rt>⼶ㄧㄐㄨ</rt></ruby>: to migrate, immigrate — see [[Society]] for its own citation there.
+- <ruby>[移動](../words/移動.md)<rt>⼶ㄧㄉㄛㄫ</rt></ruby>: mobile; moveable.
 - <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
+- <ruby>[飛](../words/飛.md)<rt>ㄈㄝㄧ</rt></ruby>: fly.
 - <ruby>[奔波](../words/奔波.md)<rt>ㄅㄛㄋㄅㄚ</rt></ruby>: to rush about, run around, toil busily.
 - <ruby>[奔走](../words/奔走.md)<rt>ㄅㄛㄋㄙㄛㄨ</rt></ruby>: to run around, walk quickly.
 - <ruby>[泳](../words/泳.md)<rt>ㄨㄧㄫ</rt></ruby>: to swim.
@@ -45,12 +59,14 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.
 - <ruby>[展翅](../words/展翅.md)<rt>ㄐㄝㄋㄙㄧ</rt></ruby>: to spread the wings, take flight.
 - <ruby>[飛行](../words/飛行.md)<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby>: to fly; flight — 飛 plus 行 for directed travel.
+- <ruby>[飛行机](../words/飛行机.md)<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>: airplane.
+- <ruby>[飛机](../words/飛机.md)<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby>: plane.
 - <ruby>[横断](../words/横断.md)<rt>ㄏ⺢ㄫㄉ⺢ㄋ</rt></ruby>: to cross over, traverse.
 - <ruby>[貫通](../words/貫通.md)<rt>ㄍ⺢ㄋㄊㄛㄫ</rt></ruby>: to thrust, pierce through.
 - <ruby>[穿](../words/穿.md)<rt>ㄑㄝㄋ</rt></ruby>: to penetrate, pierce, drill — an undocumented near-duplicate of [[貫通]], with no recorded distinction between the two.
 - <ruby>[践踏](../words/践踏.md)<rt>ㄐㄝㄋㄊㄚㄆ</rt></ruby>: to trample.
 
-**Not yet coined**: "draft" (as a current of air/movement), "hop," "lift," "pace," "slide," and "stride" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "draft" (as a current of air/movement), "hop," "lift," "pace," "slide," and "stride" all have no dedicated Dan'a'yo word yet. A 歩幅 for "stride" and a 滑走 for "slide" were left out because each has only one language on Wiktionary.
 
 ## Intermediate (B1–B2)
 
@@ -61,9 +77,11 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[赴](../words/赴.md)<rt>ㄈㄨㄛ</rt></ruby>: to attend, visit — heading to a destination with a specific purpose (赴任, "to take up a post"; 赴約, "to keep an appointment").
 - <ruby>[来臨](../words/来臨.md)<rt>ㄌㄚㄧㄌㄧㄇ</rt></ruby>: to come near, arrive.
 - <ruby>[降臨](../words/降臨.md)<rt>ㄍㄚㄫㄌㄧㄇ</rt></ruby>: to descend, arrive — a grander, often divine arrival (a god's descent), distinct from [[来臨]]'s plain arrival.
+- <ruby>[着陸](../words/着陸.md)<rt>ㄐ⺢ㄎㄌㄨㄎ</rt></ruby>: to land, a landing (of an aircraft).
 - <ruby>[届](../words/届.md)<rt>ㄍ⼶</rt></ruby>: to deliver, arrive — of a letter or package reaching its destination, not a traveler.
 - <ruby>[出発](../words/出発.md)<rt>ㄑㄨㄊㄈㄚㄊ</rt></ruby>: to depart, set off.
 - <ruby>[離別](../words/離別.md)<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby>: to depart, leave — emotionally loaded, a farewell/separation rather than [[出発]]'s neutral setting-off.
+- <ruby>[辞去](../words/辞去.md)<rt>ㄑㄧ·ㄎ⼄</rt></ruby>: take one's leave.
 
 - <ruby>[回避](../words/回避.md)<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby>: to avoid.
 - <ruby>[趨](../words/趨.md)<rt>ㄑㄨ</rt></ruby>: to take many small steps toward, to hasten.
@@ -71,6 +89,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 ### Ascending, Descending & Falling
 
 - <ruby>[下降](../words/下降.md)<rt>ㄏㄚㄍㄚㄫ</rt></ruby>: to descend, fall.
+- <ruby>[昇降](../words/昇降.md)<rt>ㄙㄨㄫㄍㄚㄫ</rt></ruby>: to go up and down — a homophone of [[乗降]].
 - <ruby>[墜落](../words/墜落.md)<rt>ㄐㄨㄧㄌㄚㄎ</rt></ruby>: to fall, crash, drop — sudden and often destructive, distinct from [[下降]]'s gradual descent.
 - <ruby>[落下](../words/落下.md)<rt>ㄌㄚㄎㄏㄚ</rt></ruby>: to fall.
 - <ruby>[勃興](../words/勃興.md)<rt>ㄅㄛㄊㄏㄜㄫ</rt></ruby>: to rise — of a movement, power, or trend, not a physical body.
@@ -83,6 +102,10 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving.
 - <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]].
 - <ruby>[速](../words/速.md)<rt>ㄙㄛㄎ</rt></ruby>: quick, fast — the bound root behind [[急速]]/[[迅速]] above, and 速度 ("speed").
+- <ruby>[速度](../words/速度.md)<rt>ㄙㄛㄎㄉㄛ</rt></ruby>: speed, velocity — see [[Measurement]] for its own citation there.
+- <ruby>[加速](../words/加速.md)<rt>ㄍㄚㄙㄛㄎ</rt></ruby>: to accelerate, speed up.
+- <ruby>[減速](../words/減速.md)<rt>ㄍㄚㄇㄙㄛㄎ</rt></ruby>: to decelerate, slow down.
+- <ruby>[速様](../words/速様.md)<rt>ㄙㄛㄎ·⼘ㄫ</rt></ruby>: quickly.
 - <ruby>[敏捷](../words/敏捷.md)<rt>ㄇㄧㄋㄐㄝㄆ</rt></ruby>: agile, nimble — quick in body and mind, swift on one's feet and quick on the uptake; the quality of a person's quickness, where [[急速]] and [[迅速]] describe swiftness of an event; the stand-in for the bound character 捷.
 - <ruby>[敏](../words/敏.md)<rt>ㄇㄧㄋ</rt></ruby>: fast, quick, clever, smart — see [[Mind]] for its own citation there.
 - <ruby>[緩慢](../words/緩慢.md)<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby>: slow, sluggish.
@@ -94,16 +117,32 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[乗](../words/乗.md)<rt>ㄙㄨㄫ</rt></ruby>: to ride.
 - <ruby>[跨](../words/跨.md)<rt>ㄎ⺢</rt></ruby>: to straddle, ride — the posture of riding (a horse, a bicycle), not the general act.
 - <ruby>[騎乗](../words/騎乗.md)<rt>ㄍㄨㄧㄙㄨㄫ</rt></ruby>: to ride, be mounted — specifically on horseback.
+- <ruby>[馬上](../words/馬上.md)<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby>: horseback.
 - <ruby>[交通](../words/交通.md)<rt>ㄍ⼄ㄨㄊㄛㄫ</rt></ruby>: traffic, transportation — the general umbrella term for the whole vehicle/transit cluster below.
+- <ruby>[鉄道](../words/鉄道.md)<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>: railroad.
 - <ruby>[運転](../words/運転.md)<rt>ㄨㄋㄐ⼔ㄋ</rt></ruby>: to operate, drive — a vehicle.
+- <ruby>[走行](../words/走行.md)<rt>ㄙㄛㄨㄏㄚㄫ</rt></ruby>: to run, travel (of a vehicle).
+- <ruby>[自転車](../words/自転車.md)<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>: bicycle.
+- <ruby>[自動車](../words/自動車.md)<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby>: automobile.
+- <ruby>[運行](../words/運行.md)<rt>ㄨㄋㄏㄚㄫ</rt></ruby>: move; operate.
 - <ruby>[輸送](../words/輸送.md)<rt>ㄙㄨㄇㄙㄛㄫ</rt></ruby>: to transport, convey — to carry goods or people from one place to another, usually on a large scale; the carrying of the load, where [[運転]] is driving the vehicle; the stand-in for the bound character 輸.
+- <ruby>[運送](../words/運送.md)<rt>ㄨㄋㄙㄛㄫ</rt></ruby>: to transport — see [[Trade]] for its own citation there.
+- <ruby>[航空](../words/航空.md)<rt>ㄏㄚㄫㄎㄛㄫ</rt></ruby>: aviation.
 - <ruby>[搬送](../words/搬送.md)<rt>ㄅㄚㄋㄙㄛㄫ</rt></ruby>: to transport, convey.
 - <ruby>[搭載](../words/搭載.md)<rt>ㄊㄚㄆㄐㄚㄧ</rt></ruby>: to load, carry on board.
+- <ruby>[艦船](../words/艦船.md)<rt>ㄏㄚㄇㄙ⼔ㄇ</rt></ruby>: seagoing vessels.
+- <ruby>[航海](../words/航海.md)<rt>ㄏㄚㄫㄏㄚㄧ</rt></ruby>: a voyage at sea.
+- <ruby>[航行](../words/航行.md)<rt>ㄏㄚㄫㄏㄚㄫ</rt></ruby>: to navigate, sail — see [[Water]] for its own citation there.
 - <ruby>[遷移](../words/遷移.md)<rt>ㄑㄝㄋ·⼶ㄧ</rt></ruby>: to shift, relocate; a transition — a move of a capital, a population or a species, or in technical writing a change of state; the shifting itself, more than [[輸送]]'s carrying of a load.
 - <ruby>[乗務](../words/乗務.md)<rt>ㄙㄨㄫㄇㄨ</rt></ruby>: crew duty, to serve as crew — the broader occupational role of staffing a vehicle (train, ship, aircraft) as conductor, attendant, or similar, not specifically [[運転]]'s "to drive."
 - <ruby>[乗客](../words/乗客.md)<rt>ㄙㄨㄫㄎㄚㄎ</rt></ruby>: a passenger — literally "riding guest," [[乗務]]'s complement on the other side of the vehicle.
+- <ruby>[列車](../words/列車.md)<rt>ㄌㄝㄊㄑ⺢</rt></ruby>: train, the general word; beside 汽車 (steam train), 電車 (tram) and 鉄道 (the railway).
+- <ruby>[電車](../words/電車.md)<rt>ㄉㄝㄋㄑ⺢</rt></ruby>: trolley; tram.
 - <ruby>[乗車](../words/乗車.md)<rt>ㄙㄨㄫㄑ⺢</rt></ruby>: to board a vehicle, get on — the productive 乗 + [vehicle] pattern (cf. [[乗船]] "board a ship," on [Water](../lexipedia/Water.md); [[乗馬]] "ride a horse," on [Animals](../lexipedia/Animals.md)); cited here since a car/bus/train has no other domain home.
+- <ruby>[乗船](../words/乗船.md)<rt>ㄙㄨㄫㄙ⼔ㄇ</rt></ruby>: to board a ship — see [[Water]] for its own citation there.
+- <ruby>[搭乗](../words/搭乗.md)<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby>: boarding; embarkation; board.
 - <ruby>[乗降](../words/乗降.md)<rt>ㄙㄨㄫㄍㄚㄫ</rt></ruby>: boarding and alighting, embarkation and disembarkation — the paired action, standard in transit infrastructure vocabulary (乗降口, "boarding/alighting door").
+- <ruby>[公車](../words/公車.md)<rt>ㄍㄛㄫㄑ⺢</rt></ruby>: bus; public vehicle.
 - <ruby>[便乗](../words/便乗.md)<rt>ㄅ⼶ㄋㄙㄨㄫ</rt></ruby>: to hitchhike, take a free ride, deadhead — also, in biology, "phoresy" (an organism riding another for transport).
 - <ruby>[停留](../words/停留.md)<rt>ㄉㄝㄫㄌ⼜</rt></ruby>: to stop, stay, stop over — a pause within continuity (停留所, "a bus/tram stop"), not the ending of a journey.
 - <ruby>[駆](../words/駆.md)<rt>ㄎㄨ</rt></ruby>: to drive, spur — an animal or, figuratively, a person onward; more literary than [[運転]].
@@ -113,6 +152,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 
 - <ruby>[浮](../words/浮.md)<rt>ㄅㄨㄛ</rt></ruby>: to float, waft.
 - <ruby>[漂](../words/漂.md)<rt>ㄆ⼄</rt></ruby>: to drift, float — aimless, at the mercy of a current, distinct from [[浮]]'s simple buoyancy.
+- <ruby>[漂流](../words/漂流.md)<rt>ㄆ⼄ㄌ⼜</rt></ruby>: to drift, adrift.
 - <ruby>[流動](../words/流動.md)<rt>ㄌ⼜ㄉㄛㄫ</rt></ruby>: to flow, spread, circulate.
 - <ruby>[没](../words/没.md)<rt>ㄇㄛㄊ</rt></ruby>: to drown, sink — see [[Water]] for its own citation there.
 - <ruby>[放出](../words/放出.md)<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby>: to release, let out, emit — set something free so that it passes *out* (cf. [[釈放]] freeing a person, [[開放]] opening up); also the release of a stop closure in phonetics.
@@ -131,6 +171,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 
 - <ruby>[入籍](../words/入籍.md)<rt>ㄋㄧㄆㄐㄝㄎ</rt></ruby>: to enter — specifically a family register (marriage, adoption), a narrower sense than plain [[入]].
 - <ruby>[参入](../words/参入.md)<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby>: to enter, join — market entry, a business sense.
+- <ruby>[潜入](../words/潜入.md)<rt>ㄐㄝㄇㄋㄧㄆ</rt></ruby>: to infiltrate, slip in.
 - <ruby>[捕捉](../words/捕捉.md)<rt>ㄅㄛㄐㄚㄎ</rt></ruby>: to catch, capture.
 - <ruby>[拿捕](../words/拿捕.md)<rt>ㄋㄚㄅㄛ</rt></ruby>: to take, grasp, seize, capture — see [[Conflict]] for its own citation there.
 - <ruby>[占領](../words/占領.md)<rt>ㄐㄝㄇㄌㄧㄫ</rt></ruby>: to capture, occupy, seize — see [[Conflict]] and [[Locatives]] for their own citations there.
@@ -139,6 +180,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 ### Accompanying
 
 - <ruby>[倶](../words/倶.md)<rt>ㄍㄨ</rt></ruby>: to accompany, be with.
+- <ruby>[随行](../words/随行.md)<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby>: accompany; go with.
 - <ruby>[添乗](../words/添乗.md)<rt>ㄊㄝㄇㄙㄨㄫ</rt></ruby>: to escort, accompany, guide — see [[Society]] for its own citation there; a professional tour-guide sense.
 - <ruby>[陪](../words/陪.md)<rt>ㄅㄛㄧ</rt></ruby>: to accompany, be with, keep company — see [[Society]] for its own citation there.
 
@@ -150,6 +192,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[徘徊](../words/徘徊.md)<rt>ㄈㄛㄧㄏㄛㄧ</rt></ruby>: to loiter, pace about — a 聯綿詞 binome; 徘 and 徊 are bound.
 - <ruby>[爬行](../words/爬行.md)<rt>ㄅㄚㄏㄚㄫ</rt></ruby>: to crawl.
 - <ruby>[散歩](../words/散歩.md)<rt>ㄙㄚㄋㄅㄛ</rt></ruby>: to walk, stroll — leisurely, not walking as opposed to running.
+- <ruby>[歩行](../words/歩行.md)<rt>ㄅㄛㄏㄚㄫ</rt></ruby>: to walk, walking.
 - <ruby>[履](../words/履.md)<rt>ㄌㄧㄜ</rt></ruby>: to tread on, tread with.
 
 ### Returning, Remaining & Passing
@@ -159,6 +202,9 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[送還](../words/送還.md)<rt>ㄙㄛㄫㄏ⺢ㄋ</rt></ruby>: to send back, repatriate — to return a person to their place or country of origin by sending them (強制送還, "deportation"); the causative of returning, where [[復帰]] and [[回帰]] are the person's own return.
 - <ruby>[逗留](../words/逗留.md)<rt>ㄉㄚㄨㄌ⼜</rt></ruby>: to stay, pause, sojourn — see [[Events]] for its own citation there; temporary, a stop along the way.
 - <ruby>[通過](../words/通過.md)<rt>ㄊㄛㄫㄍ⺢</rt></ruby>: to pass — through a place, or an exam.
+- <ruby>[経過](../words/経過.md)<rt>ㄍㄝㄫㄍ⺢</rt></ruby>: to pass through, elapse — see [[Events]] for its own citation there.
+- <ruby>[通行](../words/通行.md)<rt>ㄊㄛㄫㄏㄚㄫ</rt></ruby>: pass through; traffic across.
+- <ruby>[渡](../words/渡.md)<rt>ㄉㄛ</rt></ruby>: to cross, transit — see [[Water]] for its own citation there.
 - <ruby>[巡回](../words/巡回.md)<rt>ㄙ⼜ㄋㄏㄛㄧ</rt></ruby>: to patrol, make rounds, tour — to go around a beat, a circuit or a series of places, as a watchman, a travelling doctor or judge, or a touring troupe; a going-around, where [[通過]] is passing through; the stand-in for the bound character 巡.
 - <ruby>[通行証](../words/通行証.md)<rt>ㄊㄛㄫㄏㄚㄫㄐㄧㄫ</rt></ruby>: a permit, pass — see [[Government]] for its own citation there; the document, not the verb.
 
@@ -173,6 +219,8 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[放置](../words/放置.md)<rt>ㄈㄚㄫㄑㄧ</rt></ruby>: to put aside, abandon, shelve — neglect, leaving something unattended.
 - <ruby>[断念](../words/断念.md)<rt>ㄉ⺢ㄋㄋㄝㄇ</rt></ruby>: to give up, abandon — an ambition or hope, a resignation.
 - <ruby>[進行](../words/進行.md)<rt>ㄐㄧㄋㄏㄚㄫ</rt></ruby>: to advance, progress.
+- <ruby>[前進](../words/前進.md)<rt>ㄐㄝㄋㄐㄧㄋ</rt></ruby>: to advance — see [[Directions]] for its own citation there.
+- <ruby>[後退](../words/後退.md)<rt>ㄏㄨㄛㄊㄧㄜ</rt></ruby>: to retreat — see [[Existence]] for its own citation there.
 
 **Not yet coined or excluded as false matches**: "march" (as in marching in formation) has no dedicated word — [[三月]], which also reads "March," names the *month*, an unrelated homograph in English translation only. "Fast" (speedy) is covered by the Speed cluster above; [[斎戒]] and [[断食]], which also gloss "fast," mean to fast from food (a religious observance, see [[Religion]]), an entirely different "fast." "Race" (a running contest) is [[競走]] (above); [[種族]], which also glosses "race," means ethnicity, an unrelated sense. "Raise" (to lift) has no dedicated word — [[飼養]] and [[養育]] (see [[Kinship]]), which also gloss "raise," mean to raise a child or animal (rear), not to lift an object. "Slip" (to lose one's footing) has no dedicated word — [[過失]], which also glosses "slip," means a mistake or fault, not a physical stumble. "Rush" (hurry) is [[促]] (above); [[芦葦]], which also glosses "rush," names the plant (a reed), an unrelated homograph.
 
@@ -182,10 +230,12 @@ Pursuit vocabulary covers the vocabulary of chasing, seeking, and escaping — t
 
 - <ruby>[避](../words/避.md)<rt>ㄅㄝ</rt></ruby>: to avoid, evade, dodge.
 - <ruby>[逃亡](../words/逃亡.md)<rt>ㄉㄚㄨㄇㄚㄫ</rt></ruby>: to flee, escape.
+- <ruby>[逃走](../words/逃走.md)<rt>ㄉㄚㄨㄙㄛㄨ</rt></ruby>: to flee, run away — beside [[逃亡]].
 - <ruby>[逃遁](../words/逃遁.md)<rt>ㄉㄚㄨㄉㄛㄋ</rt></ruby>: to flee, escape, evade — an undocumented near-duplicate of [[逃亡]].
 - <ruby>[逸](../words/逸.md)<rt>ㄧㄊ</rt></ruby>: to flee, escape — a third, likewise undocumented near-synonym.
 - <ruby>[発見](../words/発見.md)<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby>: to discover, find out — see [[Knowledge]] for its own citation there.
 - <ruby>[追](../words/追.md)<rt>ㄊㄨㄧ</rt></ruby>: to follow, hunt.
+- <ruby>[追及](../words/追及.md)<rt>ㄊㄨㄧㄍㄨㄆ</rt></ruby>: to pursue and catch; to investigate and hold accountable.
 - <ruby>[追随](../words/追随.md)<rt>ㄊㄨㄧㄙㄨㄧ</rt></ruby>: to follow, pursue — someone's lead or example, distinct from [[追]]'s physical following.
 - <ruby>[狩獵](../words/狩獵.md)<rt>ㄙ⼜ㄌㄛㄆ</rt></ruby>: to hunt, hunting — see [[Animals]] for its own citation there.
 - <ruby>[獵](../words/獵.md)<rt>ㄌㄛㄆ</rt></ruby>: to hunt — see [[Animals]] for its own citation there; the bound, simpler form of [[狩獵]].
@@ -194,6 +244,7 @@ Pursuit vocabulary covers the vocabulary of chasing, seeking, and escaping — t
 - <ruby>[推](../words/推.md)<rt>ㄑㄨㄧ</rt></ruby>: to push.
 - <ruby>[捜索](../words/捜索.md)<rt>ㄙㄛㄨㄙㄚㄎ</rt></ruby>: to search for, seek, investigate.
 - <ruby>[探索](../words/探索.md)<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby>: to explore, search — see [[Society]] for its own citation there; exploratory, distinct from [[捜索]]'s investigative searching.
+- <ruby>[探検](../words/探検.md)<rt>ㄊㄚㄇㄍㄝㄇ</rt></ruby>: to explore, an expedition — beside [[探索]].
 - <ruby>[尋](../words/尋.md)<rt>ㄙㄧㄇ</rt></ruby>: to inquire for, seek.
 - <ruby>[謀求](../words/謀求.md)<rt>ㄇㄨㄛㄍ⼜ㄛ</rt></ruby>: to pursue, seek, strive for, quest after — aspirational, seeking an abstract goal rather than a physical thing.
 - <ruby>[踪影](../words/踪影.md)<rt>ㄐㄛㄫ⼶ㄫ</rt></ruby>: a trace, sign — see [[Knowledge]] for its own citation there.
@@ -210,23 +261,34 @@ Paths vocabulary covers routes, journeys, and their origins and destinations —
 
 - <ruby>[方向](../words/方向.md)<rt>ㄈㄚㄫㄏ⼘ㄫ</rt></ruby>: orientation, course, direction, goal — see [[Directions]] for its own citation there.
 - <ruby>[道路](../words/道路.md)<rt>ㄉㄚㄨㄌㄛ</rt></ruby>: a road, path, way — see [[Buildings]] for its own citation there.
+- <ruby>[通路](../words/通路.md)<rt>ㄊㄛㄫㄌㄛ</rt></ruby>: a passage, aisle.
+- <ruby>[迂回](../words/迂回.md)<rt>ㄨㄏㄛㄧ</rt></ruby>: circumvent.
 - <ruby>[国道](../words/国道.md)<rt>ㄍㄛㄎㄉㄚㄨ</rt></ruby>: a national highway.
+- <ruby>[路線](../words/路線.md)<rt>ㄌㄛㄙ⼶ㄋ</rt></ruby>: a route, a line (bus or rail).
 - <ruby>[街道](../words/街道.md)<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>: a street, road — see [[Buildings]] for its own citation there; the urban thoroughfare specifically, distinct from [[道路]]'s general road.
 - <ruby>[衢](../words/衢.md)<rt>ㄍㄨ</rt></ruby>: a crossroads, thoroughfare — a road that branches.
 - <ruby>[軌](../words/軌.md)<rt>ㄎㄨㄧ</rt></ruby>: a track, path, rut — a worn or fixed course, distinct from [[道路]]'s general path.
+- <ruby>[軌跡](../words/軌跡.md)<rt>ㄎㄨㄧㄐㄝㄎ</rt></ruby>: a trajectory, the path something traces.
+- <ruby>[足跡](../words/足跡.md)<rt>ㄐㄛㄎㄐㄝㄎ</rt></ruby>: a footprint, a trail left behind.
 - <ruby>[岐](../words/岐.md)<rt>ㄍㄝ</rt></ruby>: a fork, branching point (in a road) — and by extension, divergence generally (岐路, "crossroads," often figurative of a decisive life choice).
 - <ruby>[道](../words/道.md)<rt>ㄉㄚㄨ</rt></ruby>: a way — a route in the literal sense; compare [[方法]] and [[道理]] (already cited on [[Mind]] and [[Knowledge]]), which mean "way" in the sense of "method," not a physical route.
+- <ruby>[住所](../words/住所.md)<rt>ㄐㄨㄙㄜ</rt></ruby>: an address — the place where one lives.
+- <ruby>[小道](../words/小道.md)<rt>ㄙㄛㄉㄚㄨ</rt></ruby>: a path, trail — a small way.
+- <ruby>[途中](../words/途中.md)<rt>ㄊㄛㄐㄨㄫ</rt></ruby>: en route; on the way; midway.
 - <ruby>[本来](../words/本来.md)<rt>ㄅㄛㄋㄌㄚㄧ</rt></ruby>: an origin — see [[Existence]] for its own citation there; the original state of something.
 - <ruby>[出身](../words/出身.md)<rt>ㄑㄨㄊㄙㄧㄋ</rt></ruby>: a background; to be descended from; an origin — see [[Existence]] for its own citation there; personal origin, one's birthplace or background, distinct from [[本来]]'s abstract "original state."
 - <ruby>[根源](../words/根源.md)<rt>ㄍㄜㄋ⼔ㄋ</rt></ruby>: a root, source, origin — see [[Existence]] for its own citation there; the causal root of something, distinct from both [[本来]] and [[出身]].
 - <ruby>[源泉](../words/源泉.md)<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>: a source, fountainhead, origin — see [[Existence]] for its own citation there.
 - <ruby>[旅行](../words/旅行.md)<rt>ㄌ⼄ㄏㄚㄫ</rt></ruby>: to travel; a trip.
+- <ruby>[旅程](../words/旅程.md)<rt>ㄌ⼄ㄉㄧㄫ</rt></ruby>: a journey, itinerary.
+- <ruby>[行程](../words/行程.md)<rt>ㄏㄚㄫㄉㄧㄫ</rt></ruby>: a journey, the distance travelled.
+- <ruby>[目的地](../words/目的地.md)<rt>ㄇㄨㄎㄉㄝㄎㄉㄧㄜ</rt></ruby>: a destination.
 - <ruby>[訪問](../words/訪問.md)<rt>ㄈㄚㄫㄇㄨㄋ</rt></ruby>: to visit.
 - <ruby>[詣](../words/詣.md)<rt>ㄝㄧ</rt></ruby>: to visit, reach — a pilgrimage-visit (to a shrine or temple), a narrower register than plain [[訪問]].
 - <ruby>[謁](../words/謁.md)<rt>ㄝㄊ</rt></ruby>: to visit, pay respect — a formal audience with a superior, distinct from both [[訪問]] and [[詣]].
 - <ruby>[休暇](../words/休暇.md)<rt>ㄏ⼜ㄏㄚ</rt></ruby>: a vacation.
 
-**Not yet coined or excluded as a false match**: "address," "journey," "passage," "trail," "destination," and "exploration" (as a noun distinct from [[探索]]'s verb "to explore," above) all have no dedicated Dan'a'yo word yet. [[人道]] also glosses "path" in its frontmatter, but its own documented sense is entirely "humane, humanitarian" (人道主義, "humanitarianism") — a historical extension from "the proper path for humans," not a word actually used for a literal path or road today, so it is not cited here.
+**Excluded as a false match**: [[人道]] glosses "path" in its frontmatter, but its own documented sense is entirely "humane, humanitarian" (人道主義, "humanitarianism") — a historical extension from "the proper path for humans," not a word actually used for a literal path or road today, so it is not cited here.
 
 ## In place
 
@@ -244,6 +306,7 @@ In place vocabulary covers motion that doesn't go anywhere — bending, shaking,
 - <ruby>[敷](../words/敷.md)<rt>ㄈㄨ</rt></ruby>: to spread — laying something out flat (a mat, a cloth).
 - <ruby>[伝播](../words/伝播.md)<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby>: to propagate, disseminate, spread — figurative, of information or influence, distinct from [[敷]]'s physical spreading.
 - <ruby>[散布](../words/散布.md)<rt>ㄙㄚㄋㄅㄛ</rt></ruby>: to scatter, spread, disseminate — an undocumented near-duplicate of [[伝播]].
+- <ruby>[伝播](../words/伝播.md)<rt>ㄐ⼔ㄋㄅㄚ</rt></ruby>: to propagate, spread — see [[Speech]] for its own citation there.
 - <ruby>[伸展](../words/伸展.md)<rt>ㄙㄧㄋㄐㄝㄋ</rt></ruby>: to expand, unfold, stretch — see [[Dimensions]] for its own citation there.
 - <ruby>[伸長](../words/伸長.md)<rt>ㄙㄧㄋㄐㄚㄫ</rt></ruby>: to extend, stretch — see [[Dimensions]] for its own citation there; an undocumented near-duplicate of [[伸展]].
 - <ruby>[回転](../words/回転.md)<rt>ㄏㄛㄧㄐ⼔ㄋ</rt></ruby>: to turn, spin, rotate, revolve.
@@ -268,35 +331,10 @@ _consider these; don't accept them blindly_
 * LEADERSHIP IS MOVEMENT - "Can he move the party forward"
 * BENEFIT IS MOVEMENT - "The country isn't progressing"
 
-### Additional Vocabulary (backfilled 2026-10-10)
-
-- <ruby>[公車](../words/公車.md)<rt>ㄍㄛㄫㄑ⺢</rt></ruby>: bus; public vehicle.
-- <ruby>[搭乗](../words/搭乗.md)<rt>ㄊㄚㄆㄙㄨㄫ</rt></ruby>: boarding; embarkation; board.
-- <ruby>[移動](../words/移動.md)<rt>⼶ㄧㄉㄛㄫ</rt></ruby>: mobile; moveable.
-- <ruby>[終点](../words/終点.md)<rt>ㄐㄨㄫㄉㄝㄇ</rt></ruby>: terminus; terminal.
-- <ruby>[自動車](../words/自動車.md)<rt>ㄐㄧㄜㄉㄛㄫㄑ⺢</rt></ruby>: automobile.
-- <ruby>[自転車](../words/自転車.md)<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>: bicycle.
-- <ruby>[航空](../words/航空.md)<rt>ㄏㄚㄫㄎㄛㄫ</rt></ruby>: aviation.
-- <ruby>[艦船](../words/艦船.md)<rt>ㄏㄚㄇㄙ⼔ㄇ</rt></ruby>: seagoing vessels.
-- <ruby>[行](../words/行.md)<rt>ㄏㄚㄫ</rt></ruby>: attend; go to.
-- <ruby>[辞去](../words/辞去.md)<rt>ㄑㄧ·ㄎ⼄</rt></ruby>: take one's leave.
-- <ruby>[迂回](../words/迂回.md)<rt>ㄨㄏㄛㄧ</rt></ruby>: circumvent.
-- <ruby>[途中](../words/途中.md)<rt>ㄊㄛㄐㄨㄫ</rt></ruby>: en route; on the way; midway.
-- <ruby>[通行](../words/通行.md)<rt>ㄊㄛㄫㄏㄚㄫ</rt></ruby>: pass through; traffic across.
-- <ruby>[速様](../words/速様.md)<rt>ㄙㄛㄎ·⼘ㄫ</rt></ruby>: quickly.
-- <ruby>[運行](../words/運行.md)<rt>ㄨㄋㄏㄚㄫ</rt></ruby>: move; operate.
-- <ruby>[鉄道](../words/鉄道.md)<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>: railroad.
-- <ruby>[随行](../words/随行.md)<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby>: accompany; go with.
-- <ruby>[電車](../words/電車.md)<rt>ㄉㄝㄋㄑ⺢</rt></ruby>: trolley; tram.
-- <ruby>[列車](../words/列車.md)<rt>ㄌㄝㄊㄑ⺢</rt></ruby>: train, the general word; beside 汽車 (steam train), 電車 (tram) and 鉄道 (the railway).
-- <ruby>[飛](../words/飛.md)<rt>ㄈㄝㄧ</rt></ruby>: fly.
-- <ruby>[飛机](../words/飛机.md)<rt>ㄈㄝㄧㄍㄧㄜ</rt></ruby>: plane.
-- <ruby>[飛行机](../words/飛行机.md)<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>: airplane.
-- <ruby>[馬上](../words/馬上.md)<rt>ㄇㄚㄙ⼘ㄫ</rt></ruby>: horseback.
 
 ## Semantic Range Notes
 
-**Undocumented near-duplicates recur throughout this domain**: [[逃遁]]/[[逸]] beside [[逃亡]] ("escape"), [[散布]] beside [[伝播]] ("disseminate"), [[伸長]] beside [[伸展]] ("stretch"), and [[旋転]] beside [[回転]] ("turn") are each pairs (or trios) glossing the same core meaning with no distinction recorded in either word's own Notes — the same pattern already documented on [[Mind]] and treated the same way [[親族]]/[[親戚]] are on [[Kinship]]: flagged as likely genuine duplicates, not silently invented distinctions.
+**Synonym pairs recur throughout this domain**: [[逃遁]]/[[逸]] beside [[逃亡]] ("escape"), [[散布]] beside [[伝播]] ("disseminate"), [[伸長]] beside [[伸展]] ("stretch"), and [[旋転]] beside [[回転]] ("turn") are synonyms glossing the same core meaning; like [[比率]] and [[比例]] on [[Measurement]], they are not pronounced alike, so they are kept as separate words.
 
 **A recurring split between the physical and the figurative sense of the same English word**: [[振動]] (physical vibration) vs. [[振]] (to rouse or excite, see [[Emotions]]); [[敷]] (physically spreading a mat) vs. [[伝播]]/[[散布]] (disseminating information); [[圧]] (physical pressure) vs. [[逼迫]] (figurative coercion, see [[Efforts]]); and [[捻]] (physically twisting) vs. [[糾]] (figuratively "twisting," i.e. untangling a case, see [[Knowledge]]) all show the same pattern: one word for the literal motion, a separate word for the metaphorical extension, rather than one word doing double duty the way English "twist" or "shake" does.
 
@@ -309,6 +347,11 @@ _consider these; don't accept them blindly_
 **Related domains**:
 - [[Directions]] — Directions covers which way something moves; Movement covers the motion itself. [[方向]] is cited on both, and [[下]] ("down, under") belongs entirely to Directions.
 - [[Locatives]] — Locatives covers where something ends up (static position); Movement covers getting there. [[占領]] ("occupy, capture") is cited on both.
-- [[Mind]] — [[敏]] ("quick, clever") and the undocumented near-duplicate pattern discussed above recur across both pages.
+- [[Mind]] — [[敏]] ("quick, clever") and the synonym-pair pattern discussed above recur across both pages.
 - [[Existence]] — [[本来]], [[出身]], [[根源]], and [[源泉]] (all senses of "origin") and [[来]] (see also [[Calendar]]) are copula-adjacent existential vocabulary cited there first.
 - [[Society]], [[Conflict]], [[Kinship]], [[Events]], [[Government]], [[Religion]], [[Animals]], [[Efforts]], [[Knowledge]], [[Buildings]], [[Dimensions]], [[Clothing]], [[Water]], [[Measurement]], and [[Emotions]] each own the primary citation for one or more words gathered here for their movement-specific sense — see the relevant entry above for each individual cross-reference rather than repeating the full list here.
+- [[Measurement]] — [[速度]] and [[速]] name speed, and [[行程]] a distance travelled, cited here and there.
+- [[Events]] — [[経過]] names elapsing, cited there first.
+- [[Water]] — [[泳]], [[渡]], [[航行]], [[乗船]] and [[航海]] name moving on or through water; the first four are cited there first.
+- [[Trade]] — [[運送]] names transport as a trade, cited there first.
+- [[Speech]] — [[伝播]] names spreading, as of news, cited there first.

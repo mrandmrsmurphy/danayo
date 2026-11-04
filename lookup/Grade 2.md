@@ -1,6 +1,6 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 size: 280
 tags: [lookup]
 ---
@@ -11,6 +11,8 @@ tags: [lookup]
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五十<rt>ㄛㄙㄧㄆ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+
+Each entry shows at most its first three English meanings; the character page lists the rest.
 
 1. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not
 2. <ruby>[[久 (char)|久]]<rt>ㄍ⼜</rt></ruby> - long time (ago)

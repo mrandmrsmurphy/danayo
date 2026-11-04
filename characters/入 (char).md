@@ -73,6 +73,8 @@ boundedness: 70
 - <ruby>[[注入]]<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby> "pour into; inject"
 - <ruby>[[入学]]<rt>ㄋㄧㄆㄏㄚㄎ</rt></ruby> "enter school"
 - <ruby>[[入試]]<rt>ㄋㄧㄆㄙㄧ</rt></ruby> "entrance exam"
+- <ruby>[[出入]]<rt>ㄑㄨㄊㄋㄧㄆ</rt></ruby> "go in and out"
+- <ruby>[[潜入]]<rt>ㄐㄝㄇㄋㄧㄆ</rt></ruby> "infiltrate"
 
 ## Chengyu
 - <ruby>[[単刀直入]]<rt>ㄉㄚㄋㄊㄚㄨㄐㄧㄊㄋㄧㄆ</rt></ruby> "to go straight to the point"

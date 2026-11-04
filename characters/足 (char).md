@@ -59,6 +59,7 @@ boundedness: 70
 - <ruby>[[自足]]<rt>ㄐㄧㄜㄐㄛㄎ</rt></ruby> "be self-sufficient; be satisfied with oneself"
 - <ruby>[[飽足]]<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby> "satisfied; satiated"
 - <ruby>[[不足]]<rt>ㄅㄛㄊㄐㄛㄎ</rt></ruby> "shortage"
+- <ruby>[[足跡]]<rt>ㄐㄛㄎㄐㄝㄎ</rt></ruby> "footprint"
 
 ## Chengyu
 - <ruby>[[破頭傷足]]<rt>ㄆㄜ·ㄊㄛㄨㄙ⼘ㄫㄐㄛㄎ</rt></ruby> "crush the head, wound the heel; the protoevangelium of Genesis 3:15"

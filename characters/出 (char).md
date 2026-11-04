@@ -77,6 +77,7 @@ boundedness: 90
 - <ruby>[[出色]]<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby> "outstanding, remarkable, extraordinary"
 - <ruby>[[放出]]<rt>ㄈㄚㄫㄑㄨㄊ</rt></ruby> "release; emit; let out"
 - <ruby>[[出典]]<rt>ㄑㄨㄊㄉㄝㄋ</rt></ruby> "source (of a quotation)"
+- <ruby>[[出入]]<rt>ㄑㄨㄊㄋㄧㄆ</rt></ruby> "go in and out"
 
 ## Chengyu
 - <ruby>[[引出奴家]]<rt>ㄧㄋㄑㄨㄊㄋㄛㄍㄚ</rt></ruby> "I lead you out of slavery"

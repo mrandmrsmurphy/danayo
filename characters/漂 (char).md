@@ -60,3 +60,4 @@ date-last-perfect: 2026-10-15
 
 ## Words
 - <ruby>[[漂]]<rt>ㄆ⼄</rt></ruby> "drift, float" (stand-in for 漂)
+- <ruby>[[漂流]]<rt>ㄆ⼄ㄌ⼜</rt></ruby> "drift"

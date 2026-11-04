@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[普通話]]<rt>ㄆㄛ·ㄊㄛㄫㄏ⺢ㄧ</rt></ruby> "Mandarin"
 - <ruby>[[通告]]<rt>ㄊㄛㄫㄍㄚㄨ</rt></ruby> "to notify; a notification"
 - <ruby>[[通勤]]<rt>ㄊㄛㄫㄍㄧㄋ</rt></ruby> "commute"
+- <ruby>[[通路]]<rt>ㄊㄛㄫㄌㄛ</rt></ruby> "passage"
 
 ## Chengyu
 - <ruby>[[東亜自通]]<rt>ㄉㄛㄫㄚㄐㄧㄜㄊㄛㄫ</rt></ruby> "East Asian self-communication"

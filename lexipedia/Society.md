@@ -13,6 +13,7 @@ related_domains:
   - "[[Conflict]]"
   - "[[Art]]"
   - "[[Mind]]"
+  - "[[Movement]]"
 status: complete
 date-last-perfect: 2026-11-01
 ---

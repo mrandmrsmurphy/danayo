@@ -54,3 +54,5 @@ boundedness: 80
 - <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> "rapid; swift"
 - <ruby>[[速様]]<rt>ㄙㄛㄎ·⼘ㄫ</rt></ruby> "quickly"
 - <ruby>[[速度]]<rt>ㄙㄛㄎㄉㄛ</rt></ruby> "speed"
+- <ruby>[[加速]]<rt>ㄍㄚㄙㄛㄎ</rt></ruby> "accelerate"
+- <ruby>[[減速]]<rt>ㄍㄚㄇㄙㄛㄎ</rt></ruby> "decelerate"
