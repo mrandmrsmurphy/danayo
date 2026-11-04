@@ -9,6 +9,7 @@ related_domains:
   - "[[Existence]]"
   - "[[Efforts]]"
   - "[[Events]]"
+  - "[[Mind]]"
 status: partial
 ---
 

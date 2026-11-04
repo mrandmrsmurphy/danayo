@@ -10,6 +10,7 @@ related_domains:
   - "[[Buildings]]"
   - "[[Kinship]]"
   - "[[Geography]]"
+  - "[[Mind]]"
 status: partial
 date-last-perfect: 2026-11-02
 ---

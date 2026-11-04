@@ -7,6 +7,7 @@ related_domains:
   - "[[Food]]"
   - "[[Body]]"
   - "[[Emotions]]"
+  - "[[Mind]]"
 status: partial
 ---
 

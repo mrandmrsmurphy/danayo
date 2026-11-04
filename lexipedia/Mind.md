@@ -21,7 +21,6 @@ related_domains:
   - "[[Government]]"
   - "[[Calendar]]"
   - "[[Sin]]"
-  - "[[Valuation]]"
 status: complete
 date-last-perfect: 2026-11-03
 ---
@@ -354,6 +353,10 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 - [[Grammar]] — [[意志]] and [[将]] are both glossed "will" but serve entirely different roles, one psychological and one purely grammatical; [[似]] and [[如]] are comparison particles housed there as function words.
 - [[Art]] — [[奥秘]], [[神秘]], and [[謎]] name mystery as an aesthetic and narrative quality there, and as a state of unknowing here.
 - [[Conflict]] — [[秘訣]] and [[乱離]] name a tactical advantage and wartime chaos respectively, cited here for their broader "trick" and "disorder" senses; [[混乱]] (disorder) and [[敢為]] (to dare) are cited there first.
+- [[Movement]] — [[敏]] names quickness, cited there first.
+- [[Speech]] — [[表示]], [[陳述]], [[要求]], [[斟酌]], and [[暗示]] are acts of saying that begin as thought, cited there first.
+- [[Tools]] — [[準備]], [[措置]], [[甄選]], and [[柄]] name preparing and choosing, cited there first.
+- [[Body]] — [[脳]] is the brain, the organ behind Mind.
 - [[Valuation]] — [[一般]], [[特別]], and [[重要]] sort things by how general, special, or important they are, cited there first.
 - [[Efforts]] — [[能力]] and [[命令]] name ability and a command, cited there first.
 - [[Law]] — [[故意]] and [[法則]] name deliberate intent and a rule or law, cited there first.

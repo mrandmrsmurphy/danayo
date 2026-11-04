@@ -6,6 +6,7 @@ related_domains:
   - "[[Emotions]]"
   - "[[Law]]"
   - "[[Conflict]]"
+  - "[[Mind]]"
 status: partial
 ---
 

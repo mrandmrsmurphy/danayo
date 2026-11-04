@@ -6,6 +6,7 @@ related_domains:
   - "[[Time]]"
   - "[[Astronomy]]"
   - "[[Events]]"
+  - "[[Mind]]"
 status: complete
 tags:
   - calendar
