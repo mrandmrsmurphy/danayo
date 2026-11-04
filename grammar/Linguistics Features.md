@@ -1,7 +1,8 @@
 ---
 language: English
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 ---
+< [[単亜語之文法書.en]]
 # Typology
 ## 1. General Typological Profile
 
@@ -51,7 +52,14 @@ Reduplication is productive:
 - **Verbs**: iterative / intensifying
     - 停止 → 停停止
 
+- **Statives**: expressive maximum degree
+    - 白 → 白白 “as white as possible”
+
 Both **full and partial reduplication** occur, aligning with East and Southeast Asian typology.
+
+### 2.5 Number
+
+Number is not usually marked. The suffix **等** is an **associative plural** (“and others like them”), and only **我等** “we” and **君等** “you (plural)” are true plurals; mass nouns are inherently plural.
 
 ## 3. Lexical Categories
 
@@ -118,7 +126,7 @@ This yields a **mixed system**:
 
 ### 4.4 Verbal topics
 
-An eventive or stative cannot be a topic as it stands.  It must first be nominalized with **-事** or **-物** (a stative takes -物): 保持事 平常 “Maintaining is common.”
+An eventive or stative cannot be a topic as it stands.  It must first be nominalized with **-事** or **-物** (an eventive takes either; a stative takes only -事): 保持事 平常 “Maintaining is common.”
 
 ## 5. Case and Postpositional System
 
@@ -202,7 +210,19 @@ This is a **postpositional case-marking system**, typologically similar to:
     - **prefixal** for mood and the verbal prefixes: 可–, 不– (mood), 有–/無– (experiential) and 在–/莫– (progressive)
         
 
-### 6.3 No serial verbs
+### 6.3 Passive voice
+
+The verbal prefix **被–** marks the passive and attaches only to 事詞.  The former subject may be reintroduced as an adverbial phrase marked with **-以**: 熊猫 友以 被愛 “The panda was loved by a friend.”
+
+### 6.4 Degrees of comparison
+
+Degree is analytic, not inflectional:
+
+- equative: **如** (A B如 Adj, “as … as”)
+- comparative: **比** with 更 “more” or 少 “less” (A B比 更 Adj)
+- superlative: **第一** “first, foremost” (and 末一 for the lowest)
+
+### 6.5 No serial verbs
 
 Unlike many Sinitic and Southeast Asian languages, Dan’a’yo:
 
@@ -300,7 +320,7 @@ This is a **structurally explicit coordination system**, unlike Classical Chines
     
 - Focus is not separately grammaticalized
     
-- Four topic-retaining particles operate within the topic/comment structure: 只 (“only”, exclusive), 且 (“also”, additional), 公 (politeness suffix) and 被 (passive agent)
+- Four topic-retaining particles operate within the topic/comment structure: 只 (“only”, exclusive), 且 (“also”, additional), 就 (“just”, delimitative) and 公 (politeness suffix)
     
 
 This yields a system where:
@@ -329,6 +349,9 @@ Compact typological label:
 > **Topic-prominent, isolating–agglutinative mixed language with SVO clause structure, head-final adjunct/modifier ordering, and postpositional case marking**
 
 # History
+>[!note] A thought experiment, not the design record
+> This section and the one after it ask how a language like Dan'a'yo could have arisen in an alternate history. It is a hypothesis about the language's character, not a claim about its actual history. The real design rationale (Old Korean phonology, Japanese orthography, Classical Chinese grammar, and the aim of a simple auxiliary language) is in [[文法 - 01序文]].
+
 _"What alternate history would let a living literary language actually drift from late medieval Sinitic into Dan’a’yo under continuous use?”_
 
 The key is not ordinary sound change alone. The key is a long-lived **supranational written standard** that is read aloud, taught, glossed, reordered, and lightly vernacularized for a thousand years by elites whose native grammars are increasingly Korean-, Japanese-, Cantonese-, and Vietnamese-like. In that setting, the language does not simply descend from spoken Middle Chinese. It is continuously bent by the habits of its readers.
@@ -342,7 +365,7 @@ The best model is not “Latin becoming French.” It is more like a fusion of:
 So the history should be one of **literary continuity plus slow contact-induced restructuring**.
 
 ## 1. The central premise
-From about 1000 onward, imagine that the Sinosphere never gives up on a shared classical written medium, but that this medium is increasingly used not as frozen Classical Chinese proper, but as a **readable transregional high language**. It is still written in characters. It is still anchored in Tang literature and commentary. But over the centuries it is spoken aloud in schools, courts, monasteries, examinations, diplomatic settings, and annotated texts in ways that gradually converge.
+In this hypothesis, from about 1000 onward the Sinosphere never gives up on a shared classical written medium, but that this medium is increasingly used not as frozen Classical Chinese proper, but as a **readable transregional high language**. It is still written in characters. It is still anchored in Tang literature and commentary. But over the centuries it is spoken aloud in schools, courts, monasteries, examinations, diplomatic settings, and annotated texts in ways that gradually converge.
 
 The speakers do not natively speak it. They bring into it:
 - Korean topic marking and clause-final organization
@@ -402,7 +425,7 @@ The grammar is still written as classical, but students are increasingly taught 
 That is the beginning of the move from “loose function word” to “particle/postposition.”
 
 ### Phase III: The age of interregional reading norms, 1400 to 1600
-Instead of the Sinosphere breaking into separate national philologies, imagine stronger and more sustained scholarly exchange centered on a common “correct reading of the classics.” Not necessarily one pronunciation (yet), but one accepted **way of unpacking syntax**.
+Instead of the Sinosphere breaking into separate national philologies, there is stronger and more sustained scholarly exchange centered on a common “correct reading of the classics.” Not necessarily one pronunciation (yet), but one accepted **way of unpacking syntax**.
 
 Now kanbun-like reading is no longer a merely local Japanese technique. Similar unpacking conventions appear across the shared scholarly world:
 
@@ -426,7 +449,7 @@ Over generations, prose that fits this reading style is copied, praised, and imi
 ### Phase IV: Early modern koine drift, 1600 to 1800
 At this point the shared literary language is no longer Classical Chinese in the old sense. It still quotes the classics and still uses classical lexicon, but its active prose norm has been regularized.
 
-Now you begin to see what would look, in hindsight, like a genuine language:
+From here the result begins to look, in hindsight, like a genuine language:
 - topic-comment as default clause architecture
 - relative clauses consistently before nouns with 之
 - adverbs before verbs
@@ -446,7 +469,7 @@ That is the mark of grammaticalization under school culture.
 By this stage:
 
 - the phonology has been leveled across regional readings into a compact CGVC-style syllable canon
-- retroflexes have vanished
+- retroflex onsets are no longer part of the standard inventory (an optional retroflex realisation of sw- is tolerated, as in [[文法 - 02音韻論]])
 - medials and glides have been regularized
 - many old distinctions survive only etymologically
 
@@ -519,7 +542,7 @@ Because all four major contact zones support it.
 
 So unlike many alternate histories where prestige grammar gets pulled toward subject-centered Indo-European style, this one would be stabilized in the opposite direction. Topic prominence would not merely survive. It would become the one thing everyone across the Sinosphere agrees is natural.
 
-That gives you a very strong continuous spine:
+That gives a continuous spine:
 - ancient concise topic-comment in the early period
 - pedagogically regularized topic-comment in the middle period
 - full modern topic-comment syntax in Dan’a’yo
@@ -542,11 +565,11 @@ Japanese and Korean readers then interpret ambiguous classical clauses in ways t
 
 That is enough to give you a strongly head-final language without forcing a fully Japonic or Koreanic structure.
 
-## 8. A cleaner fictional formula
+## 8. The hypothesis in one sentence
 
-If you want a one-sentence historical claim for the language, it could be this:
+The hypothesis can be stated in one sentence:
 
-***Dan’a’yo is the uninterrupted descendant of a post-Tang transregional literary Sinitic, gradually regularized by a millennium of kanbun-style reading, examination prose, and contact with Korean, Japanese, Cantonese, and Vietnamese grammatical habits.***
+***In this thought experiment, Dan’a’yo is the uninterrupted descendant of a post-Tang transregional literary Sinitic, gradually regularized by a millennium of kanbun-style reading, examination prose, and contact with Korean, Japanese, Cantonese, and Vietnamese grammatical habits.***
 
 That gives continuity without requiring ordinary village-to-village spoken descent.
 
@@ -575,7 +598,7 @@ That lets a word or construction have:
 - a medieval commentarial use
 - a modern Dan’a’yo use
 
-Which is exactly elucidates semantic and lexical derivation.
+This is what explains semantic and lexical derivation.
 
 ## 10. The key idea
 ***A classical written civilization kept one common language alive long enough that non-native East Asian reading habits gradually regularized it into a real language.***
@@ -593,7 +616,7 @@ First, the Korean layer, especially 석독구결 and later 음독구결, contrib
 - NP + postposition
 - clause-final predicate    
 - clear topic vs subject distinction  
-    Over time, anything that consistently gets read “as if it had a particle after it” begins to behave like it actually does. That is your path from coverbs to true postpositions.
+    Over time, anything that consistently gets read “as if it had a particle after it” begins to behave like it actually does. That is the path from coverbs to true postpositions.
 
 ## Japan
 Second, the Japanese layer, through kundoku and kanbun training, contributes **ordering discipline**. Japanese readers systematically reorder to:
@@ -615,7 +638,7 @@ Third, the Vietnamese layer (chữ Nôm, đọc Hán văn) contributes **analyti
 ## Southern China
 Fourth, the southern Sinitic layer (drawing on Cantonese-like tendencies) preserves **monosyllabic morpheme integrity and topic prominence**. That prevents the system from drifting toward polysyllabic erosion or heavy morphology. It also keeps topic-comment natural rather than marked.
 
-When these operate together over a millennium, you get a very specific trajectory:
+When these operate together over a millennium, the trajectory is specific:
 - Classical flexibility becomes pedagogically intolerable
 - Pedagogical conventions become habitual parsing
 - Habitual parsing becomes expected grammar
@@ -627,7 +650,7 @@ One way to formalize this is to think in terms of **“interpretive defaults tha
 - If every reader delays the main predicate to the end when explaining a sentence, prose that already places it late will be favored and imitated.
 - If every commentary inserts a topic frame before exposition, authors begin writing with overt topic framing.
 
-That gives you a clean mechanism for grammaticalization without phonological erosion.
+That is a clean mechanism for grammaticalization without phonological erosion.
 
 Assign each region a dominant grammatical contribution:
 - Korea: case-like structure, topic vs subject distinction
@@ -635,4 +658,4 @@ Assign each region a dominant grammatical contribution:
 - Vietnam: analytic transparency, fixed categories
 - Southern Sinitic: topic continuity, compact syllable economy
 
-Dan’a’yo then looks less like an invention and more like the **intersection of their long-term compromises**.
+Under this hypothesis Dan’a’yo reads less like an invention and more like the **intersection of their long-term compromises**.

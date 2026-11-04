@@ -182,7 +182,7 @@ These are nouns (名詞) that name units of measurement. They are not classifier
 
 ## Semantic Range Notes
 
-**個 is the classifier system's own default, not just one classifier among twelve**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
+**個 is the classifier system's own default, not just one classifier among thirteen**: as documented on 個's own page, it is the most semantically bleached measure word in Dan'a'yo — usable for almost any noun when a more specific classifier is unknown or irrelevant, exactly paralleling Mandarin 个's role as the single most frequent word in the language. Japanese is the one CJKV language that doesn't fully converge here: 個 exists but is restricted to small, compact, round objects, while native つ (tsu) carries the true general-counter role that 個/个/개 carry in Chinese, Cantonese, and Korean.
 
 **比率 and 比例 are synonyms, not a split**: both mean "ratio, proportion" in all the languages, and the two are not pronounced alike, so they cannot be confused. [[比率]] additionally covers "rate," which is the reason it is used as this page's primary entry.
 
