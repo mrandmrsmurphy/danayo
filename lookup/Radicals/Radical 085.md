@@ -14,7 +14,7 @@ tags: [lookup]
 1. <ruby>[水](../../characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
 
 ### +1 Stroke
-2. <ruby>[氷](../../characters/氷.md)<rt>ㄅㄧㄫ</rt></ruby> - ice
+2. <ruby>[氷](../../characters/氷%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - ice
 3. <ruby>[永](../../characters/永.md)<rt>ㄨㄧㄫ</rt></ruby> - eternal
 4. <ruby>[氾](../../characters/氾.md)<rt>ㄈㄚㄇ</rt></ruby> - overflow
 5. <ruby>[汀](../../characters/汀%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - sand bar

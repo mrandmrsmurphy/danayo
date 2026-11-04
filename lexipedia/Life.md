@@ -5,6 +5,7 @@ domain: Life
 related_domains:
   - "[[Body]]"
   - "[[Existence]]"
+  - "[[Events]]"
 status: partial
 ---
 

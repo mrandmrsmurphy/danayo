@@ -25,7 +25,7 @@ hanmun_edu_level: "中"
 danayo_id: 2149
 mc_id: 1448
 graphemic_classification: "象形"
-stand_in: "氷水"
+stand_in: "氷"
 aliases:
   - 仌
   - 冰
@@ -34,7 +34,7 @@ date-last-perfect: 2026-10-21
 kwin: true
 tags:
   - character
-boundedness: 70
+boundedness: 40
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -51,6 +51,7 @@ boundedness: 70
 - <ruby>[[氷月]]<rt>ㄅㄧㄫ⼔ㄊ</rt></ruby> "ice month (12th month)"
 - <ruby>[[北氷洋]]<rt>ㄅㄨㄎㄅㄧㄫ⼘ㄫ</rt></ruby> "Arctic Ocean"
 - <ruby>[[南氷洋]]<rt>ㄋㄚㄇㄅㄧㄫ⼘ㄫ</rt></ruby> "Southern Ocean"
+- <ruby>[[氷]]<rt>ㄅㄧㄫ</rt></ruby> "ice"
 
 ## Derived Characters
 - <ruby>[[馮]]<rt>ㄈㄧㄫ</rt></ruby> "gallop"

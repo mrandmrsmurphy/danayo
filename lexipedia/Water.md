@@ -7,6 +7,7 @@ related_domains:
   - "[[Food]]"
   - "[[Containers]]"
   - "[[Clothing]]"
+  - "[[Elements]]"
 status: complete
 date-last-perfect: 2026-10-29
 ---
@@ -23,7 +24,7 @@ Water vocabulary in Dan'a'yo covers the substance itself and its everyday states
 - <ruby>[水中](../words/水中.md)<rt>ㄙㄨㄐㄨㄫ</rt></ruby>: underwater.
 - <ruby>[水面](../words/水面.md)<rt>ㄙㄨ·ㄇ⼶ㄋ</rt></ruby>: water surface.
 - <ruby>[氷水](../words/氷水.md)<rt>ㄅㄧㄫㄙㄨ</rt></ruby>: ice.
-  - **Note**: literally "ice water" — [[氷]] ("ice") is a bound character in Dan'a'yo, never appearing independently; 氷水 is its only legitimizing compound, and the closest thing Dan'a'yo has to a bare word for "ice" (confirmed by the same resolution already reached for Swadesh item #165).
+  - **Note**: literally "ice water" — [[氷]] ("ice") is now a word of its own; 氷水 is the compound of ice and water.
 - <ruby>[液体](../words/液体.md)<rt>⼶ㄎㄊㄝㄧ</rt></ruby>: liquid.
 - <ruby>[液化](../words/液化.md)<rt>⼶ㄎㄏ⺢</rt></ruby>: to liquefy, liquefaction — to turn into a liquid, from [[液体]]; attested in Mandarin, Cantonese, Japanese and Korean, with Vietnamese using a descriptive phrase (sự hoá lỏng).
 - <ruby>[気体](../words/気体.md)<rt>ㄎㄧㄜㄊㄝㄧ</rt></ruby>: gas — with [[液体]] and [[固体]], the three ordinary states of matter.

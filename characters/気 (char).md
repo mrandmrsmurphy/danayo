@@ -74,6 +74,8 @@ boundedness: 50
 - <ruby>[[気絶]]<rt>ㄎㄧㄜㄐ⼔ㄊ</rt></ruby> "faint"
 - <ruby>[[勇気]]<rt>⼄ㄫㄎㄧㄜ</rt></ruby> "courage"
 - <ruby>[[気質]]<rt>ㄎㄧㄜㄐㄧㄊ</rt></ruby> "temperament"
+- <ruby>[[大気]]<rt>ㄉㄚㄧㄎㄧㄜ</rt></ruby> "atmosphere"
+- <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"
 
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"

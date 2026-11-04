@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[蒸]]<rt>ㄐㄧㄫ</rt></ruby> "steam" (stand-in for 蒸 (char))
 - <ruby>[[蒸汽]]<rt>ㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam, vapor"
 - <ruby>[[蒸溜]]<rt>ㄐㄧㄫㄌ⼜</rt></ruby> "distillation"
+- <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"

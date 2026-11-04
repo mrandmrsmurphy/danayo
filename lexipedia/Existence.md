@@ -16,6 +16,7 @@ related_domains:
   - "[[Sensation]]"
   - "[[Knowledge]]"
   - "[[Dimensions]]"
+  - "[[Events]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

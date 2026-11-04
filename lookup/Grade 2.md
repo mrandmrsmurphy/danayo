@@ -163,7 +163,7 @@ tags: [lookup]
 149. <ruby>[[比 (char)|比]]<rt>ㄅㄧㄜ</rt></ruby> - than, compared to
 150. <ruby>[[民]]<rt>ㄇㄧㄋ</rt></ruby> - citizen
 151. <ruby>[[永]]<rt>ㄨㄧㄫ</rt></ruby> - eternal
-152. <ruby>[[氷]]<rt>ㄅㄧㄫ</rt></ruby> - ice
+152. <ruby>[[氷 (char)|氷]]<rt>ㄅㄧㄫ</rt></ruby> - ice
 153. <ruby>[[決 (char)|決]]<rt>ㄎ⼔ㄊ</rt></ruby> - determine, decide
 154. <ruby>[[求]]<rt>ㄍ⼜ㄛ</rt></ruby> - request
 155. <ruby>[[油 (char)|油]]<rt>⼜</rt></ruby> - oil

@@ -270,7 +270,7 @@ tags: [lookup]
 [[判]]: 5
 [[阿 (char)]]: 4
 [[按]]: 4
-[冰](../../characters/氷.md): 4
+[冰](../../characters/氷%20(char).md): 4
 [[補]]: 4
 [[采]]: 4
 [曾](../../characters/曽%20(char).md): 4

@@ -8,6 +8,7 @@ related_domains:
   - "[[Body]]"
   - "[[Valuation]]"
   - "[[Containers]]"
+  - "[[Events]]"
 status: partial
 date-last-perfect: 2026-11-03
 ---

@@ -365,7 +365,7 @@ tags: [lookup]
 [貧](../../characters/貧.md) (가난할 빈)
 
 #### 빙
-[氷](../../characters/氷.md) (얼음 빙)
+[氷](../../characters/氷%20(char).md) (얼음 빙)
 
 ## ㅅ 
 #### 사

@@ -352,7 +352,7 @@ The following prefecture names were added in 2017:
 340. [次](../../characters/次.md) : ji , tsugi;  tsu-gu , next ,
 341. [歯 (char)](../../characters/歯%20(char).md) : shi , ha , tooth ,
 342. [死](../../characters/死.md) : shi , shi-nu , death ,
-343. [氷](../../characters/氷.md) : hyō , kōri , ice ,
+343. [氷](../../characters/氷%20(char).md) : hyō , kōri , ice ,
 344. [決 (char)](../../characters/決%20(char).md) : ketsu , ki-meru;  ki-maru , decide ,
 345. [油 (char)](../../characters/油%20(char).md) : yu , abura , oil ,
 346. [波](../../characters/波.md) : ha , nami , wave ,

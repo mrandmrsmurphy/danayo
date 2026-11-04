@@ -5,6 +5,7 @@ domain: Substances
 related_domains:
   - "[[Physics]]"
   - "[[Food]]"
+  - "[[Elements]]"
 status: stub
 ---
 

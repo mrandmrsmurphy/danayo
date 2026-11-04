@@ -74,6 +74,7 @@ boundedness: 50
 - <ruby>[[乗算]]<rt>ㄙㄨㄫㄙ⺢ㄋ</rt></ruby> "to multiply"
 - <ruby>[[乗法]]<rt>ㄙㄨㄫㄈㄚㄆ</rt></ruby> "multiplication"
 - <ruby>[[階乗]]<rt>ㄍ⼶ㄧㄙㄨㄫ</rt></ruby> "factorial"
+- <ruby>[[相乗]]<rt>ㄙㄚㄫㄙㄨㄫ</rt></ruby> "multiplication"
 
 ## Derived Characters
 - <ruby>[[剰]]<rt>ㄙㄧㄫ</rt></ruby> "remainder; surplus"

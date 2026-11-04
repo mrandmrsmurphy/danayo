@@ -2,9 +2,16 @@
 language: English
 type: lexipedia
 domain: Events
-related_domains: []
+related_domains:
+  - "[[Time]]"
+  - "[[Existence]]"
+  - "[[Calendar]]"
+  - "[[Efforts]]"
+  - "[[Conflict]]"
+  - "[[Life]]"
+  - "[[Valuation]]"
 status: partial
-date-last-perfect: 2026-09-28
+date-last-perfect: 2026-11-03
 ---
 
 # Events
@@ -34,6 +41,20 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 
 ## Intermediate (B1–B2)
 
+### Opening, Ending & Occurring
+
+- <ruby>[開幕](../words/開幕.md)<rt>ㄎㄚㄧㄇㄚㄎ</rt></ruby>: to open an event, the opening — the start of a performance, ceremony or conference.
+- <ruby>[閉幕](../words/閉幕.md)<rt>ㄅㄝㄧㄇㄚㄎ</rt></ruby>: to close an event, the closing — the counterpart of [[開幕]].
+- <ruby>[終結](../words/終結.md)<rt>ㄐㄨㄫㄍㄝㄊ</rt></ruby>: to end, a conclusion.
+- <ruby>[終了](../words/終了.md)<rt>ㄐㄨㄫㄌ⼘ㄨ</rt></ruby>: to end, finish — cross-listed from Time.
+- <ruby>[完了](../words/完了.md)<rt>ㄏ⺢ㄋㄌ⼘ㄨ</rt></ruby>: to complete — cross-listed from Grammar.
+- <ruby>[連続](../words/連続.md)<rt>ㄌ⼶ㄋㄙ⼄ㄎ</rt></ruby>: to continue in succession — cross-listed from Time.
+- <ruby>[発生](../words/発生.md)<rt>ㄈㄚㄊㄙㄚㄫ</rt></ruby>: to occur, arise — cross-listed from Existence; the bare "occur" verb.
+- <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: suddenly — cross-listed from Time.
+- <ruby>[偶然](../words/偶然.md)<rt>ㄛㄨㄋ⼶ㄋ</rt></ruby>: by chance, coincidence — cross-listed from Knowledge.
+- <ruby>[現象](../words/現象.md)<rt>ㄏ⼶ㄋㄙ⼘ㄫ</rt></ruby>: a phenomenon — cross-listed from Existence.
+- <ruby>[事態](../words/事態.md)<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby>: a situation, state of affairs — beside [[事件]], the event itself.
+
 ### Frequency & Repetition
 
 - <ruby>[過程](../words/過程.md)<rt>ㄍ⺢ㄉㄧㄫ</rt></ruby>: a process, a course of change over time.
@@ -43,17 +64,35 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[重複](../words/重複.md)<rt>ㄑㄛㄫㄅㄨㄎ</rt></ruby>: to repeat, duplicate; repetitive.
 - <ruby>[誦](../words/誦.md)<rt>ㄙㄛㄫ</rt></ruby>: to recite, chant, repeat.
 - <ruby>[又](../words/又.md)<rt>ㄨㄛ</rt></ruby>: or again — a resumptive "and again" connector.
+- <ruby>[再三](../words/再三.md)<rt>ㄐㄚㄧㄙㄚㄇ</rt></ruby>: again and again, repeatedly — beside [[屢]] and [[頻]].
+- <ruby>[再度](../words/再度.md)<rt>ㄐㄚㄧㄉㄛ</rt></ruby>: once more, a second time — cross-listed from the vault.
+- <ruby>[一度](../words/一度.md)<rt>ㄧㄊㄉㄛ</rt></ruby>: once, one time.
+- <ruby>[永遠](../words/永遠.md)<rt>ㄨㄧㄫㄛㄋ</rt></ruby>: forever — cross-listed from Time.
+- <ruby>[永久](../words/永久.md)<rt>ㄨㄧㄫㄍ⼜</rt></ruby>: permanent, eternal — cross-listed from Time.
+- <ruby>[恒久](../words/恒久.md)<rt>ㄏㄨㄫㄍ⼜</rt></ruby>: lasting, enduring — cross-listed from Time.
+- <ruby>[変化](../words/変化.md)<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby>: change, to vary — cross-listed from Existence.
+- <ruby>[変動](../words/変動.md)<rt>ㄅ⼶ㄋㄉㄛㄫ</rt></ruby>: fluctuation — cross-listed from Existence.
+- <ruby>[安定](../words/安定.md)<rt>ㄚㄋㄐㄝㄫ</rt></ruby>: stable — cross-listed from Existence.
+- <ruby>[正常](../words/正常.md)<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby>: normal — cross-listed from Valuation.
+- <ruby>[普通](../words/普通.md)<rt>ㄆㄛ·ㄊㄛㄫ</rt></ruby>: ordinary, common — cross-listed from Valuation.
+- <ruby>[異常](../words/異常.md)<rt>ㄧㄙ⼘ㄫ</rt></ruby>: abnormal — cross-listed from Valuation.
+- <ruby>[臨時](../words/臨時.md)<rt>ㄌㄧㄇㄙㄧ</rt></ruby>: temporary, extraordinary — cross-listed from Time.
 - <ruby>[絶後](../words/絶後.md)<rt>ㄐ⼔ㄊㄏㄨㄛ</rt></ruby>: never to happen again — Rosenfelder's "never," in the specific sense of an event that will not recur (also, distinctly, "to have no descendants").
 
 ### Rarity, Chance & Crisis
 
 - <ruby>[希有](../words/希有.md)<rt>ㄏㄧㄜ⼜</rt></ruby>, <ruby>[珍](../words/珍.md)<rt>ㄑㄧㄋ</rt></ruby>: rare.
 - <ruby>[危机](../words/危机.md)<rt>⼔ㄧㄍㄧㄜ</rt></ruby>: a crisis, critical juncture.
+- <ruby>[緊急](../words/緊急.md)<rt>ㄍㄧㄋㄍㄧㄆ</rt></ruby>: urgent, an emergency.
+- <ruby>[時机](../words/時机.md)<rt>ㄙㄧㄍㄧㄜ</rt></ruby>: an opportunity, the right moment, timing — spelled with 机 as in [[机会]], with 時機 as the alias.
+- <ruby>[契机](../words/契机.md)<rt>ㄎㄝㄧㄍㄧㄜ</rt></ruby>: an opportunity, a turning point.
+- <ruby>[希少](../words/希少.md)<rt>ㄏㄧㄜㄙㄛㄨ</rt></ruby>: scarce, rare — cross-listed from Dimensions.
 
 ### Disaster & Calamity
 
 - <ruby>[災害](../words/災害.md)<rt>ㄐㄚㄧㄏㄚㄧ</rt></ruby>, <ruby>[災殃](../words/災殃.md)<rt>ㄐㄚㄧ⼘ㄫ</rt></ruby>, <ruby>[禍事](../words/禍事.md)<rt>ㄏ⺢ㄐㄧ</rt></ruby>, <ruby>[禍害](../words/禍害.md)<rt>ㄏ⺢ㄏㄚㄧ</rt></ruby>: a disaster, calamity.
 - <ruby>[引禍](../words/引禍.md)<rt>ㄧㄋㄏ⺢</rt></ruby>, <ruby>[招災](../words/招災.md)<rt>ㄑㄛㄨㄐㄚㄧ</rt></ruby>: to invite disaster, bring calamity on oneself.
+- <ruby>[被害](../words/被害.md)<rt>ㄆㄧㄏㄚㄧ</rt></ruby>: damage, harm suffered; a victim is 被害 plus the productive suffix [[－者]], so 被害者 is segmented, not coined.
 
 ### Ceremony, Celebration & Anniversary
 
@@ -65,12 +104,21 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 - <ruby>[生日](../words/生日.md)<rt>ㄙㄚㄫㄋㄧㄊ</rt></ruby>: a birthday.
 - <ruby>[恭賀](../words/恭賀.md)<rt>ㄍ⼄ㄫㄏㄚ</rt></ruby>, <ruby>[慶](../words/慶.md)<rt>ㄎ⼶ㄫ</rt></ruby>, <ruby>[祝賀](../words/祝賀.md)<rt>ㄐㄨㄎㄏㄚ</rt></ruby>: to congratulate, celebrate.
 - <ruby>[来賓](../words/来賓.md)<rt>ㄌㄚㄧㄅㄧㄋ</rt></ruby>: a guest, visitor (at an event).
+- <ruby>[葬儀](../words/葬儀.md)<rt>ㄐㄚㄫㄜㄧ</rt></ruby>: a funeral — the ceremony of death.
+- <ruby>[誕生](../words/誕生.md)<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby>: birth — cross-listed from Life.
+- <ruby>[死亡](../words/死亡.md)<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby>: death — cross-listed from Life.
+- <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: marriage — cross-listed from Kinship.
+- <ruby>[祝日](../words/祝日.md)<rt>ㄐㄨㄎㄋㄧㄊ</rt></ruby>: a holiday — cross-listed from Calendar.
+- <ruby>[休日](../words/休日.md)<rt>ㄏ⼜·ㄋㄧㄊ</rt></ruby>: a day off — cross-listed from Calendar.
+- <ruby>[会議](../words/会議.md)<rt>ㄏ⼔ㄜㄧ</rt></ruby>: a meeting — cross-listed from Government.
+- <ruby>[伝統](../words/伝統.md)<rt>ㄐ⼔ㄋㄊㄛㄫ</rt></ruby>: tradition — cross-listed from Society.
 
 ### Occasion & Timing
 
 - <ruby>[番](../words/番.md)<rt>ㄈㄚㄋ</rt></ruby>: a time, turn, occasion.
 - <ruby>[際](../words/際.md)<rt>ㄐㄝ</rt></ruby>: a border; an occasion.
 - <ruby>[頃](../words/頃.md)<rt>ㄎㄝㄫ</rt></ruby>: a moment, occasion.
+- <ruby>[時期](../words/時期.md)<rt>ㄙㄧ·ㄎㄧ</rt></ruby>: a period, a time, a phase.
 
 ### Engagement & Activity
 
@@ -90,7 +138,7 @@ Events vocabulary covers happenings — beginning, continuing, ending, repeating
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: again (general), always, common (as a bare adjective — 恒常 above covers "usual, constant"), forever, never (general — 絶後 above covers only the narrow "never again" sense), normal, occur (as a bare verb), once, opportunity (as a bare noun, distinct from 机会's "a chance to act"), pause (general), process (as a noun), rare (as a fully general adjective — 希有/珍 lean toward "rare and valuable"), stable, stop (general), vary, role, victim.
+Rosenfelder terms now covered: again ([[再三]], [[再度]]), always and forever ([[永遠]], [[永久]], [[恒久]]), common ([[普通]]), normal ([[正常]]), occur ([[発生]]), once ([[一度]]), opportunity ([[時机]], [[契机]]), process ([[過程]]), rare ([[希少]]), stable ([[安定]]), stop ([[停止]], [[終結]]), vary ([[変化]], [[変動]]), victim ([[被害]] plus [[－者]]). Still open: "never" in general (絶後 covers only "never again"), "pause" in general, and "role" (役割 is attested in Japanese and Korean only).
 
 ## Advanced / Specialized (C1+)
 
@@ -114,6 +162,10 @@ Rosenfelder terms with no Dan'a'yo word yet: again (general), always, common (as
 
 **間諜 fills "agent" only by narrowing it**: Rosenfelder's "agent" means anyone who acts or is empowered to act on another's behalf; 間諜 specifically means a spy or intelligence operative. It's placed here because it's the closest existing word, not because the senses truly match.
 
+**時机 and 契机 spell 機 with 机**, as [[机会]] and [[危机]] do; 時機 and 契機 are the aliases.
+
+**Some entries are only loosely about events**: 百事, 逗留, 設備, 誠意 and 間諜 sit here for historical reasons and relate to events only loosely.
+
 ## Cognitive Metaphors in Event Language
 
 This domain's original planning notes flagged three conceptual metaphors (in the Lakoff/Johnson sense) to watch for while building it out. Checked against what's actually on this page and in the vault:
@@ -126,5 +178,10 @@ This domain's original planning notes flagged three conceptual metaphors (in the
 
 ## See Also
 
-**Related domains**:
-- [[Conflict]] — [[間諜]] ("spy") is this page's closest match for "agent," but its natural home is that page's own Espionage section alongside [[偵]]/[[窺]].
+- [Time](Time.md)
+- [Existence](Existence.md)
+- [Calendar](Calendar.md)
+- [Efforts](Efforts.md)
+- [Life](Life.md)
+- [Valuation](Valuation.md)
+- [Conflict](Conflict.md) — [[間諜]] ("spy") is this page's closest match for "agent," but its natural home is that page's own Espionage section alongside [[偵]]/[[窺]].

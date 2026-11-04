@@ -90,6 +90,7 @@ boundedness: 80
 - <ruby>[[噴水]]<rt>ㄆㄛㄋㄙㄨ</rt></ruby> "fountain"
 - <ruby>[[水彩]]<rt>ㄙㄨㄑㄚㄧ</rt></ruby> "watercolour"
 - <ruby>[[水墨画]]<rt>ㄙㄨ·ㄇㄨㄎㄏ⺢ㄎ</rt></ruby> "ink wash painting"
+- <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

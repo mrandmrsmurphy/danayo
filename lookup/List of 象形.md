@@ -236,7 +236,7 @@ Practically, 象形 remains a **small, core inventory** of basic nouns and natur
 149. <ruby>[氏](/characters/氏.md)<rt>ㄙㄧㄜ</rt></ruby> - uncertain — most likely a decorated stick marking clan identity
 150. <ruby>[民](/characters/民.md)<rt>ㄇㄧㄋ</rt></ruby> - an eye pierced by a sharp implement (the people)
 151. <ruby>[水](/characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - flowing water
-152. <ruby>[氷](/characters/氷.md)<rt>ㄅㄧㄫ</rt></ruby> - cracks in frozen water (ice), from 仌
+152. <ruby>[氷](/characters/氷%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - cracks in frozen water (ice), from 仌
 153. <ruby>[永](/characters/永.md)<rt>ㄨㄧㄫ</rt></ruby> - a long, meandering watercourse (eternal)
 154. <ruby>[求](/characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - a fur coat, original form of 裘 (borrowed for 'request')
 155. <ruby>[泉](/characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - the mouth of a spring plus water

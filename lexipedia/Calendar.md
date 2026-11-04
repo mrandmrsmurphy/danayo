@@ -5,6 +5,7 @@ domain: Calendar
 related_domains:
   - "[[Time]]"
   - "[[Astronomy]]"
+  - "[[Events]]"
 status: complete
 tags:
   - calendar

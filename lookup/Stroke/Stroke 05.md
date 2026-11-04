@@ -10,7 +10,7 @@ tags:
 ## Characters
 ### In Use
 - 1-1-4: <ruby>[[旧 (char)|旧]]<rt>ㄍ⼜ㄛ</rt></ruby>, <ruby>[[必 (char)|必]]<rt>ㄅㄧㄊ</rt></ruby>
-- 1-2-3: <ruby>[[代]]<rt>ㄉㄚㄧ</rt></ruby>, <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby>, <ruby>[[氷]]<rt>ㄅㄧㄫ</rt></ruby>, <ruby>[[仗]]<rt>ㄐㄚㄫ</rt></ruby>, <ruby>[[加]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[付]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[以 (char)|以]]<rt>ㄧ</rt></ruby>, <ruby>[[仙]]<rt>ㄙ⼶ㄋ</rt></ruby>
+- 1-2-3: <ruby>[[代]]<rt>ㄉㄚㄧ</rt></ruby>, <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby>, <ruby>[[氷 (char)|氷]]<rt>ㄅㄧㄫ</rt></ruby>, <ruby>[[仗]]<rt>ㄐㄚㄫ</rt></ruby>, <ruby>[[加]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[付]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[以 (char)|以]]<rt>ㄧ</rt></ruby>, <ruby>[[仙]]<rt>ㄙ⼶ㄋ</rt></ruby>
 - 1-3-2: <ruby>[[打]]<rt>ㄉㄚ</rt></ruby>, <ruby>[[汀 (char)|汀]]<rt>ㄊㄝㄫ</rt></ruby>, <ruby>[[功]]<rt>ㄍㄛㄫ</rt></ruby>, <ruby>[[夗]]<rt>⼄ㄋ</rt></ruby>, <ruby>[[幼]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[外]]<rt>⺢ㄧ</rt></ruby>, <ruby>[[叭]]<rt>ㄅㄚㄊ</rt></ruby>, <ruby>[[叱]]<rt>ㄑㄧㄊ</rt></ruby>, <ruby>[[卯]]<rt>ㄇ⼘ㄨ</rt></ruby>, <ruby>[[叩]]<rt>ㄎㄛㄨ</rt></ruby>, <ruby>[[汁 (char)|汁]]<rt>ㄐㄜㄆ</rt></ruby>, <ruby>[[巧]]<rt>ㄎ⼘ㄨ</rt></ruby>, <ruby>[[弘]]<rt>ㄏㄛㄫ</rt></ruby>, <ruby>[[北]]<rt>ㄅㄨㄎ</rt></ruby>, <ruby>[[犯]]<rt>ㄅㄚㄇ</rt></ruby>, <ruby>[[奴]]<rt>ㄋㄛ</rt></ruby>, <ruby>[[氾]]<rt>ㄈㄚㄇ</rt></ruby>, <ruby>[[刊 (char)|刊]]<rt>ㄎㄚㄋ</rt></ruby>, <ruby>[[叫 (char)|叫]]<rt>ㄍ⼘</rt></ruby>
 - 1-4-1: <ruby>[[礼 (char)|礼]]<rt>ㄌㄝㄧ</rt></ruby>, <ruby>[[札 (char)|札]]<rt>ㄐㄚㄊ</rt></ruby>
 - 2-1-4: <ruby>[[永]]<rt>ㄨㄧㄫ</rt></ruby>, <ruby>[[主]]<rt>ㄐㄨ</rt></ruby>, <ruby>[[示]]<rt>ㄍㄝ</rt></ruby>

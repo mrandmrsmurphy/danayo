@@ -15,6 +15,7 @@ related_domains:
   - "[[Art]]"
   - "[[Containers]]"
   - "[[Efforts]]"
+  - "[[Events]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---
