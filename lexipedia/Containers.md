@@ -12,6 +12,7 @@ related_domains:
   - "[[Conflict]]"
   - "[[Tools]]"
   - "[[Dimensions]]"
+  - "[[Efforts]]"
 status: partial
 date-last-perfect: 2026-11-01
 ---

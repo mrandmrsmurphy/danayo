@@ -59,6 +59,7 @@ boundedness: 95
 - <ruby>[[海就]]<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby> "sea eagle"
 - <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
 - <ruby>[[就寝]]<rt>ㄑ⺢ㄧㄑㄧㄇ</rt></ruby> "go to bed"
+- <ruby>[[成就]]<rt>ㄙㄧㄫㄑ⺢ㄧ</rt></ruby> "achievement"
 
 ## Derived Characters
 - <ruby>[[蹴 (char)|蹴]]<rt>ㄑㄨㄎ</rt></ruby> "to kick"

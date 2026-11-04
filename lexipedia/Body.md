@@ -13,6 +13,7 @@ related_domains:
   - "[[Mind]]"
   - "[[Emotions]]"
   - "[[Dimensions]]"
+  - "[[Efforts]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---

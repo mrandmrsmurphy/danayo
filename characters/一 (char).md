@@ -50,6 +50,7 @@ boundedness: 90
 
 ## Words
 - <ruby>[[唯一]]<rt>⼶ㄧ·ㄧㄊ</rt></ruby> "only"
+- <ruby>[[一度]]<rt>ㄧㄊㄉㄛ</rt></ruby> "once"
 In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 千, 百, 十, 半) to disambiguate the exact quantity.
 
 - <ruby>[[一]]<rt>ㄧㄊ</rt></ruby> "one" (stand-in for 一)

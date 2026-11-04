@@ -86,6 +86,7 @@ boundedness: 90
 - <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
 - <ruby>[[叙事詩]]<rt>ㄙ⼄ㄐㄧㄙㄧ</rt></ruby> "epic"
 - <ruby>[[知事]]<rt>ㄐㄨㄧㄐㄧ</rt></ruby> "governor"
+- <ruby>[[事態]]<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby> "situation"
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"

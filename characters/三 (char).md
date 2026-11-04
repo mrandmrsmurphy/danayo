@@ -73,6 +73,7 @@ boundedness: 75
 - <ruby>[[三万]]<rt>ㄙㄚㄇㄇㄛㄋ</rt></ruby> "thirty thousand"
 - <ruby>[[三原色]]<rt>ㄙㄚㄇ⼔ㄋㄙㄧㄎ</rt></ruby> "three primary colors"
 - <ruby>[[三味線]]<rt>ㄙㄚㄇㄇㄨㄧㄙ⼶ㄋ</rt></ruby> "shamisen"
+- <ruby>[[再三]]<rt>ㄐㄚㄧㄙㄚㄇ</rt></ruby> "again and again"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

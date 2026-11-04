@@ -80,6 +80,8 @@ boundedness: 90
 - <ruby>[[時局]]<rt>ㄙㄧㄍ⼄ㄎ</rt></ruby> "current political situation"
 - <ruby>[[時効]]<rt>ㄙㄧㄏ⼘ㄨ</rt></ruby> "statute of limitations"
 - <ruby>[[時間表]]<rt>ㄙㄧㄍㄚㄋㄅ⼘ㄨ</rt></ruby> "timetable"
+- <ruby>[[時机]]<rt>ㄙㄧㄍㄧㄜ</rt></ruby> "opportunity"
+- <ruby>[[時期]]<rt>ㄙㄧ·ㄎㄧ</rt></ruby> "period"
 
 ## Chengyu
 - <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> "anachronism"

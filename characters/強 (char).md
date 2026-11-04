@@ -69,6 +69,7 @@ boundedness: 100
 - <ruby>[[強国]]<rt>ㄍ⼘ㄫㄍㄛㄎ</rt></ruby> "superpower (country)"
 - <ruby>[[強盗]]<rt>ㄍ⼘ㄫㄉㄚㄨ</rt></ruby> "robbery"
 - <ruby>[[強姦]]<rt>ㄍ⼘ㄫㄍㄚㄋ</rt></ruby> "rape"
+- <ruby>[[強大]]<rt>ㄍ⼘ㄫㄉㄚㄧ</rt></ruby> "powerful"
 
 ## Chengyu
 - <ruby>[[弱肉強食]]<rt>ㄋ⼘ㄎㄋㄨㄎㄍ⼘ㄫㄙㄧㄎ</rt></ruby> "survival of the fittest"

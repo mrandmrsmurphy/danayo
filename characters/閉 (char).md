@@ -56,6 +56,7 @@ boundedness: 80
 - <ruby>[[閉]]<rt>ㄅㄝㄧ</rt></ruby> "shut; close" (stand-in for 閉)
 - <ruby>[[自閉]]<rt>ㄐㄧㄜㄅㄝㄧ</rt></ruby> "autistic; self-isolating"
 - <ruby>[[自閉症]]<rt>ㄐㄧㄜㄅㄝㄧㄐㄧㄫ</rt></ruby> "autism"
+- <ruby>[[閉幕]]<rt>ㄅㄝㄧㄇㄚㄎ</rt></ruby> "closing"
 
 ## Chengyu
 - <ruby>[[先填後閉]]<rt>ㄙㄝㄋㄉㄝㄋㄏㄨㄛㄅㄝㄧ</rt></ruby> "fill first, close after"

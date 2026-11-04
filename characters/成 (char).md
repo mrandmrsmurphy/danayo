@@ -70,6 +70,9 @@ boundedness: 100
 - <ruby>[[成長]]<rt>ㄙㄧㄫㄐㄚㄫ</rt></ruby> "grow"
 - <ruby>[[構成]]<rt>ㄍㄛㄨㄙㄧㄫ</rt></ruby> "compose"
 - <ruby>[[成分]]<rt>ㄙㄧㄫㄅㄨㄋ</rt></ruby> "component"
+- <ruby>[[達成]]<rt>ㄊㄚㄊㄙㄧㄫ</rt></ruby> "achieve"
+- <ruby>[[成就]]<rt>ㄙㄧㄫㄑ⺢ㄧ</rt></ruby> "achievement"
+- <ruby>[[成果]]<rt>ㄙㄧㄫㄍ⺢</rt></ruby> "result"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

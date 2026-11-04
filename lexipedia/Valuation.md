@@ -7,6 +7,7 @@ related_domains:
   - "[[Dimensions]]"
   - "[[Knowledge]]"
   - "[[Existence]]"
+  - "[[Efforts]]"
 status: partial
 ---
 

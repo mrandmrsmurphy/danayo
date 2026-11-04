@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[全盛]]<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby> "flourishing; at the height of prosperity; at one's best"
 - <ruby>[[全羅]]<rt>ㄐ⼔ㄋㄌㄛ</rt></ruby> "Jeolla"
 - <ruby>[[全州]]<rt>ㄐ⼔ㄋㄐㄨㄛ</rt></ruby> "Jeonju"
+- <ruby>[[全力]]<rt>ㄐ⼔ㄋㄌㄧㄎ</rt></ruby> "all one's strength"
 
 ## Derived Characters
 - <ruby>[[詮]]<rt>ㄑㄝㄋ</rt></ruby> "decode; exegete"

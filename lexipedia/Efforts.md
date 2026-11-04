@@ -2,9 +2,14 @@
 language: English
 type: lexipedia
 domain: Efforts
-related_domains: []
+related_domains:
+  - "[[Work]]"
+  - "[[Conflict]]"
+  - "[[Body]]"
+  - "[[Valuation]]"
+  - "[[Containers]]"
 status: partial
-date-last-perfect: 2026-09-28
+date-last-perfect: 2026-11-03
 ---
 
 # Efforts
@@ -17,6 +22,8 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[困難](../words/困難.md)<rt>ㄎㄛㄋㄋㄚㄋ</rt></ruby>: difficult, hard.
 - <ruby>[艱難](../words/艱難.md)<rt>ㄍㄚㄋㄋㄚㄋ</rt></ruby>: arduous, hard — gruelling, sustained difficulty, hardship borne over time (艱難汝を玉にす, "adversity makes a jewel of you"); a literary doubling of two words for hard, heavier than [[困難]]'s plain difficult, and about the struggle rather than the suffering of [[苦難]].
 - <ruby>[容易](../words/容易.md)<rt>⼄ㄫ⼶ㄎ</rt></ruby>: easy, simple — the difficulty judgment.
+- <ruby>[簡単](../words/簡単.md)<rt>ㄍㄚㄋㄉㄚㄋ</rt></ruby>: simple, easy — cross-listed from Valuation.
+- <ruby>[簡易](../words/簡易.md)<rt>ㄍㄚㄋ·⼶ㄎ</rt></ruby>: simplified, easy — cross-listed from Valuation.
 - <ruby>[危険](../words/危険.md)<rt>⼔ㄧㄏㄝㄇ</rt></ruby>: dangerous, risky, perilous — 危 "dangerous" + 険 "precipitous."
 - <ruby>[危殆](../words/危殆.md)<rt>⼔ㄧㄉㄛㄧ</rt></ruby>: jeopardy, grave peril.
 - <ruby>[阻碍](../words/阻碍.md)<rt>ㄐㄛㄚㄧ</rt></ruby>: to obstruct, hinder, block — HSK-level Mandarin vocabulary, also in Cantonese; Japanese uses the parallel 阻害 (そがい), a different compound; the opposite of the effort words above.
@@ -25,9 +32,11 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[干渉](../words/干渉.md)<rt>ㄍㄚㄋㄙㄝㄆ</rt></ruby>: to interfere, intervene.
 - <ruby>[弱](../words/弱.md)<rt>ㄋ⼘ㄎ</rt></ruby>: weak.
 - <ruby>[強](../words/強.md)<rt>ㄍ⼘ㄫ</rt></ruby>: strong, powerful — [[弱]]'s direct opposite (強国, "superpower"; 弱肉強食, "survival of the fittest").
+- <ruby>[強大](../words/強大.md)<rt>ㄍ⼘ㄫㄉㄚㄧ</rt></ruby>: powerful, mighty — the "mighty" word, beside [[強]] and [[大力]].
 - <ruby>[強化](../words/強化.md)<rt>ㄍ⼘ㄫㄏ⺢</rt></ruby>: to strengthen.
 - <ruby>[実力](../words/実力.md)<rt>ㄙㄧㄊㄌㄧㄎ</rt></ruby>: power, strength, force.
 - <ruby>[大力](../words/大力.md)<rt>ㄉㄚㄧㄌㄧㄎ</rt></ruby>: great strength, mighty force; vigorously, with great effort (大力發展) — the same spelling is also Da Lat, listed on Vietnam.
+- <ruby>[全力](../words/全力.md)<rt>ㄐ⼔ㄋㄌㄧㄎ</rt></ruby>: all one's strength, utmost effort.
 - <ruby>[失敗](../words/失敗.md)<rt>ㄙㄧㄊㄅㄚㄧ</rt></ruby>: to fail, be defeated.
 - <ruby>[結果](../words/結果.md)<rt>ㄍㄝㄊㄍ⺢</rt></ruby>: a result, fruit.
 - <ruby>[効果](../words/効果.md)<rt>ㄏ⼘ㄨㄍ⺢</rt></ruby>: an effect.
@@ -51,6 +60,24 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[企図](../words/企図.md)<rt>ㄎㄝㄉㄛ</rt></ruby>: to try, attempt, plan.
 
+### Tasks, Achievement & Ability
+
+- <ruby>[任務](../words/任務.md)<rt>ㄋㄧㄇㄇㄨ</rt></ruby>: a task, mission — beside [[使命]] on Government.
+- <ruby>[課題](../words/課題.md)<rt>ㄎ⺢ㄇㄊㄝㄧ</rt></ruby>: a task, assignment, problem.
+- <ruby>[挑戦](../words/挑戦.md)<rt>ㄊㄚㄨㄐㄝㄋ</rt></ruby>: to challenge, a challenge — cross-listed from Conflict.
+- <ruby>[克服](../words/克服.md)<rt>ㄎㄨㄎㄅㄨㄎ</rt></ruby>: to overcome, conquer — the success side of [[困難]].
+- <ruby>[突破](../words/突破.md)<rt>ㄊㄛㄊㄆㄜ</rt></ruby>: to break through, a breakthrough.
+- <ruby>[遂行](../words/遂行.md)<rt>ㄙㄨㄧㄏㄚㄫ</rt></ruby>: to carry out, accomplish.
+- <ruby>[達成](../words/達成.md)<rt>ㄊㄚㄊㄙㄧㄫ</rt></ruby>: to achieve, attain.
+- <ruby>[成就](../words/成就.md)<rt>ㄙㄧㄫㄑ⺢ㄧ</rt></ruby>: achievement, to accomplish.
+- <ruby>[成果](../words/成果.md)<rt>ㄙㄧㄫㄍ⺢</rt></ruby>: a result, fruits — the achieved outcome, beside [[結果]], the plain result.
+- <ruby>[能力](../words/能力.md)<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby>: ability, capability — cross-listed from Mind.
+- <ruby>[無能](../words/無能.md)<rt>ㄇㄜ·ㄋㄜㄫ</rt></ruby>: incompetent, incompetence — the nearest multi-language word to "fallible".
+- <ruby>[熟練](../words/熟練.md)<rt>ㄙㄨㄎㄌㄝㄋ</rt></ruby>: skillful, proficient — cross-listed from Work.
+- <ruby>[練習](../words/練習.md)<rt>ㄌㄝㄋㄙㄜㄆ</rt></ruby>: practice — cross-listed from Art.
+- <ruby>[優秀](../words/優秀.md)<rt>ㄨㄛㄙㄨㄛ</rt></ruby>: excellent, outstanding — cross-listed from Valuation.
+- <ruby>[卓越](../words/卓越.md)<rt>ㄊㄚㄎ·⼔ㄊ</rt></ruby>: outstanding, excellence — cross-listed from Valuation.
+
 ### Exertion & Effort
 
 - <ruby>[勉](../words/勉.md)<rt>ㄇ⼶ㄋ</rt></ruby>: to exert, urge.
@@ -67,6 +94,12 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[施行](../words/施行.md)<rt>ㄙㄝㄏㄚㄫ</rt></ruby>: to execute, carry out.
 - <ruby>[刻苦](../words/刻苦.md)<rt>ㄎㄨㄎㄎㄛ</rt></ruby>: assiduous, working hard through hardship — an austere, self-denying diligence, stricter than plain [[努力]].
 - <ruby>[消耗](../words/消耗.md)<rt>ㄙ⼄ㄨㄏㄚㄨ</rt></ruby>: to consume, deplete, drain (energy, resources, strength).
+- <ruby>[作業](../words/作業.md)<rt>ㄐㄚㄎ·ㄝㄆ</rt></ruby>: work, a task — cross-listed from Work and Tools.
+- <ruby>[辛苦](../words/辛苦.md)<rt>ㄙㄧㄋㄎㄛ</rt></ruby>: hardship, toil — cross-listed from Work.
+- <ruby>[奮闘](../words/奮闘.md)<rt>ㄈㄨㄋㄉㄛㄨ</rt></ruby>: to struggle, fight hard — cross-listed from Conflict.
+- <ruby>[抵抗](../words/抵抗.md)<rt>ㄉㄝㄧㄏㄚㄫ</rt></ruby>: to resist — cross-listed from Conflict.
+- <ruby>[疲労](../words/疲労.md)<rt>ㄆㄧㄌㄚㄨ</rt></ruby>: fatigue — cross-listed from Body.
+- <ruby>[休息](../words/休息.md)<rt>ㄏ⼜ㄙㄧㄎ</rt></ruby>: rest — cross-listed from Work.
 - <ruby>[苦役](../words/苦役.md)<rt>ㄎㄛ⼶ㄎ</rt></ruby>: hard labor, forced labor, drudgery — painful compelled toil, as in the penal-servitude sense or a thankless chore.
 
 ### Difficulty, Danger & Trouble
@@ -80,7 +113,12 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 ### Success, Failure & Mistake
 
-- <ruby>[既遂](../words/既遂.md)<rt>ㄍㄧㄜㄙㄨㄧ</rt></ruby>: accomplished, complete — Rosenfelder's "succeed."
+- <ruby>[既遂](../words/既遂.md)<rt>ㄍㄧㄜㄙㄨㄧ</rt></ruby>: accomplished, complete — Rosenfelder's "succeed"; Wiktionary glosses Chinese "to be successful; to be accomplished" and Japanese criminal-law "completed (as opposed to attempted)", so [[成功]] is the plain word.
+- <ruby>[成功](../words/成功.md)<rt>ㄙㄧㄫㄍㄛㄫ</rt></ruby>: to succeed, success — cross-listed from Trade.
+- <ruby>[完成](../words/完成.md)<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>: to complete, finish — cross-listed from Events.
+- <ruby>[勝利](../words/勝利.md)<rt>ㄙㄨㄫㄌㄧㄜ</rt></ruby>: victory, to win — cross-listed from Conflict.
+- <ruby>[敗北](../words/敗北.md)<rt>ㄅㄚㄧㄅㄨㄎ</rt></ruby>: defeat, to be defeated — cross-listed from Conflict.
+- <ruby>[過失](../words/過失.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: a fault, error, slip — cross-listed from Society.
 - <ruby>[偶爾](../words/偶爾.md)<rt>ㄛㄨㄋㄝ</rt></ruby>: by accident, perchance.
 - <ruby>[錯誤](../words/錯誤.md)<rt>ㄑㄚㄎ·ㄛ</rt></ruby>: to err, make a mistake.
 
@@ -101,6 +139,8 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 - <ruby>[把握](../words/把握.md)<rt>ㄅㄚㄚㄎ</rt></ruby>, <ruby>[掌握](../words/掌握.md)<rt>ㄐㄚㄫㄚㄎ</rt></ruby>: to grasp, control.
 - <ruby>[支配](../words/支配.md)<rt>ㄐㄝ·ㄆㄛㄧ</rt></ruby>: to rule, control, manage, govern, dominate.
+- <ruby>[命令](../words/命令.md)<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby>: an order, command — cross-listed from Mind.
+- <ruby>[秩序](../words/秩序.md)<rt>ㄉㄧㄊㄙ⼄</rt></ruby>: order, regularity — cross-listed from Law.
 - <ruby>[収拾](../words/収拾.md)<rt>ㄙㄨㄛㄙㄧㄆ</rt></ruby>: to tidy up, sort out, bring under control — 収 "gather" + 拾 "pick up."
 - <ruby>[轄](../words/轄.md)<rt>ㄏㄚㄊ</rt></ruby>: the linchpin of a wheel; control — the metaphor "the pin holding it all together." See Semantic Range Notes.
 - <ruby>[自制](../words/自制.md)<rt>ㄐㄧㄜㄐㄝㄧ</rt></ruby>, <ruby>[自禁](../words/自禁.md)<rt>ㄐㄧㄜㄍㄧㄇ</rt></ruby>: restraint, self-control.
@@ -113,7 +153,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 
 ### Not Yet Coined
 
-Rosenfelder terms with no Dan'a'yo word yet: easy, mighty, order, practice, task, challenge, to excel, fallible, danger (as a standalone noun).
+Rosenfelder terms now covered: easy ([[容易]], [[簡単]]), mighty ([[強大]]), order ([[命令]], [[秩序]]), practice ([[実践]], [[練習]]), task ([[任務]], [[課題]]), challenge ([[挑戦]]), to excel ([[超越]], [[卓越]]), danger ([[危険]]). "Fallible" has no multi-language word; [[無能]] and [[過失]] are the nearest.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -144,7 +184,12 @@ Rosenfelder terms with no Dan'a'yo word yet: easy, mighty, order, practice, task
 
 **轄's "control" sense grows out of a literal linchpin**: the character depicts the pin that holds a cart's wheel onto its axle — without it, the wheel simply falls off. The abstract "control, jurisdiction" sense (as in 管轄, "jurisdiction") is a metaphorical extension: the thing that holds a system together and keeps it from flying apart, the same way [[主幹]] ("trunk, core") does in [[Containers]].
 
+**Some entries are only loosely about effort**: 摂, 擦, 胡乱, 偶爾, 閙事, 蠢動 and several words in "Additional Vocabulary" (捜索, 誘餌, 配列, 除外, 随意, 設置) sit here for historical reasons and relate to effort only loosely. 勉励, 激励 and 奨励 overlap, as do 妨害, 妨碍, 阻碍 and 阻止.
+
 ## See Also
 
-**Related domains**:
-- [[Containers]] — [[轄]]'s "linchpin" metaphor for control parallels that page's own [[主幹]] ("trunk, core" of an organization).
+- [Work](Work.md)
+- [Conflict](Conflict.md)
+- [Body](Body.md)
+- [Valuation](Valuation.md)
+- [Containers](Containers.md) — [[轄]]'s "linchpin" metaphor for control parallels that page's own [[主幹]].

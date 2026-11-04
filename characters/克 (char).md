@@ -58,3 +58,4 @@ boundedness: 100
 - <ruby>[[珈克敦]]<rt>ㄎㄚ·ㄎㄨㄎㄉㄛㄋ</rt></ruby> "Chalcedon"
 - <ruby>[[柏克金]]<rt>ㄅ⼘ㄎㄎㄨㄎㄍㄧㄇ</rt></ruby> "berkelium"
 - <ruby>[[相克]]<rt>ㄙㄚㄫㄎㄨㄎ</rt></ruby> "mutual overcoming (Five Elements cycle)"
+- <ruby>[[克服]]<rt>ㄎㄨㄎㄅㄨㄎ</rt></ruby> "overcome"

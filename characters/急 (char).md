@@ -60,3 +60,4 @@ boundedness: 90
 - <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> "rapid; swift"
 - <ruby>[[急流]]<rt>ㄍㄧㄆㄌ⼜</rt></ruby> "rapids"
 - <ruby>[[急進]]<rt>ㄍㄧㄆㄐㄧㄋ</rt></ruby> "radical"
+- <ruby>[[緊急]]<rt>ㄍㄧㄋㄍㄧㄆ</rt></ruby> "urgent"

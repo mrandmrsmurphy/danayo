@@ -58,3 +58,4 @@ boundedness: 90
 ## Words
 - <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby> "lesson, chapter" (stand-in for 課)
 - <ruby>[[課程]]<rt>ㄎ⺢ㄇㄉㄧㄫ</rt></ruby> "course"
+- <ruby>[[課題]]<rt>ㄎ⺢ㄇㄊㄝㄧ</rt></ruby> "task"

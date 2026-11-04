@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[到達]]<rt>ㄉㄚㄨㄊㄚㄊ</rt></ruby> "arrive at, reach"
 - <ruby>[[暢達]]<rt>ㄑㄚㄫㄊㄚㄊ</rt></ruby> "smooth, free, unrestrained"
 - <ruby>[[乾達婆]]<rt>ㄍ⼶ㄋㄊㄚㄊㄅㄚ</rt></ruby> "Gandharva"
+- <ruby>[[達成]]<rt>ㄊㄚㄊㄙㄧㄫ</rt></ruby> "achieve"
 
 ## Chengyu
 - <ruby>[[信達雅化]]<rt>ㄙㄧㄋㄊㄚㄊ·ㄚㄏ⺢</rt></ruby> "Faithful, Transparent, Elegant -ization"

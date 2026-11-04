@@ -132,6 +132,7 @@ boundedness: 90
 - <ruby>[[大蒜]]<rt>ㄉㄚㄧㄙ⺢ㄇ</rt></ruby> "garlic"
 - <ruby>[[大量]]<rt>ㄉㄚㄧㄌ⼘ㄫ</rt></ruby> "a lot"
 - <ruby>[[大小]]<rt>ㄉㄚㄧㄙㄛ</rt></ruby> "size"
+- <ruby>[[強大]]<rt>ㄍ⼘ㄫㄉㄚㄧ</rt></ruby> "powerful"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

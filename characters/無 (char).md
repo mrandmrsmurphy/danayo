@@ -81,6 +81,7 @@ boundedness: 80
 - <ruby>[[無実]]<rt>ㄇㄜㄙㄧㄊ</rt></ruby> "innocent"
 - <ruby>[[無学]]<rt>ㄇㄜㄏㄚㄎ</rt></ruby> "unlearned"
 - <ruby>[[無知]]<rt>ㄇㄜㄐㄨㄧ</rt></ruby> "ignorance"
+- <ruby>[[無能]]<rt>ㄇㄜ·ㄋㄜㄫ</rt></ruby> "incompetent"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"
