@@ -54,3 +54,5 @@ boundedness: 100
 - <ruby>[[友好]]<rt>⼜ㄛㄏㄚㄨ</rt></ruby> "friendly; amicable"
 - <ruby>[[好奇心]]<rt>ㄏㄚㄨㄍㄨㄧㄙㄧㄇ</rt></ruby> "curiosity"
 - <ruby>[[鰭好]]<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby> "hobby"
+- <ruby>[[好奇]]<rt>ㄏㄚㄨㄍㄨㄧ</rt></ruby> "curious"
+- <ruby>[[偏好]]<rt>ㄆ⼶ㄋㄏㄚㄨ</rt></ruby> "preference"

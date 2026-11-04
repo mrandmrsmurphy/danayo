@@ -26,7 +26,6 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[脳](../words/脳.md)<rt>ㄋㄚㄨ</rt></ruby>: the brain — see [[Body]] for its own citation there.
 - <ruby>[精神](../words/精神.md)<rt>ㄐㄝㄫㄙㄧㄋ</rt></ruby>: spirit, mind, psyche.
 - <ruby>[注意](../words/注意.md)<rt>ㄐㄨㄜ</rt></ruby>: to pay attention, be careful — "pour meaning" onto something.
-- <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[心](../words/心.md)<rt>ㄙㄧㄇ</rt></ruby>: heart, mind — the abstract seat of thought, feeling, and intention, in deliberate contrast to [[心臓]]'s physical organ sense.
 - <ruby>[心理](../words/心理.md)<rt>ㄙㄧㄇㄌㄧ</rt></ruby>: mentality, psychology.
 - <ruby>[心緒](../words/心緒.md)<rt>ㄙㄧㄇㄙ⼄</rt></ruby>: feelings, state of mind.
@@ -35,6 +34,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[意味](../words/意味.md)<rt>ㄜ·ㄇㄨㄧ</rt></ruby>: to signify, mean.
 - <ruby>[重要](../words/重要.md)<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>: important.
 - <ruby>[大事](../words/大事.md)<rt>ㄉㄚㄧㄐㄧ</rt></ruby>: an important matter.
+- <ruby>[主要](../words/主要.md)<rt>ㄐㄨ⼄ㄨ</rt></ruby>: principal, main, central.
 - <ruby>[優先](../words/優先.md)<rt>ㄨㄛㄙㄝㄋ</rt></ruby>: to take priority, precedence.
 - <ruby>[必要](../words/必要.md)<rt>ㄅㄧㄊ⼄ㄨ</rt></ruby>: necessary, essential — see [[Existence]] for its own citation there.
 - <ruby>[必](../words/必.md)<rt>ㄅㄧㄊ</rt></ruby>: surely, definitely — the bound root behind [[必要]] above and 必然 ("necessary, inevitable," the top of [Knowledge](../lexipedia/Knowledge.md)'s own epistemic-certainty gradient, referenced there but not yet its own word page).
@@ -48,7 +48,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[覚悟](../words/覚悟.md)<rt>ㄍㄚㄎ·ㄛ</rt></ruby>: resolve, mental preparedness; awareness, enlightenment — in Japanese and Korean the readiness to face something, in Mandarin the "waking up to" a truth, often Buddhist or ideological; beside [[準備]]'s practical preparing.
 - <ruby>[憬悟](../words/憬悟.md)<rt>ㄍ⼄ㄫㄛ</rt></ruby>: to awaken to understanding, realize.
 
-**Not yet coined**: "attention," "commit," "conscious," "curious," "dare," "expect," "mental" (as an independent adjective), "prefer," "remind," and "wait" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "attention," "commit," "dare," "mental" (as an independent adjective), "remind," and "wait" all have no dedicated Dan'a'yo word yet.
 
 ## Intermediate (B1–B2)
 
@@ -70,6 +70,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[思議](../words/思議.md)<rt>ㄙㄚㄜㄧ</rt></ruby>: to imagine, comprehend.
 - <ruby>[克明](../words/克明.md)<rt>ㄎㄨㄎㄇ⼶ㄫ</rt></ruby>: discerning, meticulous, morally clear-sighted.
 - <ruby>[認識](../words/認識.md)<rt>ㄋㄧㄋㄙㄧㄎ</rt></ruby>: to recognize, know — cognitive awareness, distinct from [[認証]]'s formal certification.
+- <ruby>[意識](../words/意識.md)<rt>ㄜㄙㄧㄎ</rt></ruby>: consciousness, awareness — fills "conscious"; beside [[認識]].
 - <ruby>[認証](../words/認証.md)<rt>ㄋㄧㄋㄐㄧㄫ</rt></ruby>: to recognize, certify — formal authentication (a signature, a credential), not cognitive recognition.
 - <ruby>[鑑定](../words/鑑定.md)<rt>ㄍㄚㄇㄐㄝㄫ</rt></ruby>: to appraise, authenticate — an expert's considered determination of what a thing is or is worth.
 - <ruby>[懸心](../words/懸心.md)<rt>ㄏ⼔ㄋㄙㄧㄇ</rt></ruby>: to bear in mind, keep in mind.
@@ -78,6 +79,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[許容](../words/許容.md)<rt>ㄏ⼄⼄ㄫ</rt></ruby>: to permit, tolerate.
 - <ruby>[容認](../words/容認.md)<rt>⼄ㄫㄋㄧㄋ</rt></ruby>: to accept.
 - <ruby>[観察](../words/観察.md)<rt>ㄍ⺢ㄋㄑㄚㄊ</rt></ruby>: to observe, inspect.
+- <ruby>[感覚](../words/感覚.md)<rt>ㄍㄚㄇㄍㄚㄎ</rt></ruby>: to feel, think, be of the opinion that — an impression-based judgment, not analytical thought.
 
 ### Desire & Will
 
@@ -85,8 +87,10 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[欲望](../words/欲望.md)<rt>⼄ㄎㄇㄚㄫ</rt></ruby>: desire, lust, appetite, craving — stronger and more visceral than [[意欲]]; see [[Emotions]] for its own citation there.
 - <ruby>[憧憬](../words/憧憬.md)<rt>ㄑㄛㄫㄍ⼄ㄫ</rt></ruby>: to long for, desire — yearning toward a distant or aspirational goal.
 - <ruby>[願意](../words/願意.md)<rt>⼔ㄋ·ㄜ</rt></ruby>: willing; to want, wish.
+- <ruby>[期待](../words/期待.md)<rt>ㄎㄧㄉㄚㄧ</rt></ruby>: to expect, look forward to.
+- <ruby>[好奇](../words/好奇.md)<rt>ㄏㄚㄨㄍㄨㄧ</rt></ruby>: curious, curiosity.
+- <ruby>[偏好](../words/偏好.md)<rt>ㄆ⼶ㄋㄏㄚㄨ</rt></ruby>: a preference, to favor — fills "prefer", beside [[喜]].
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent — willpower, the faculty of volition; see [[Grammar]] for its own citation there.
-- <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
 - <ruby>[恣意](../words/恣意.md)<rt>ㄐㄧㄜㄜ</rt></ruby>: selfish, arbitrary.
 - <ruby>[意見](../words/意見.md)<rt>ㄜㄍ⼶ㄋ</rt></ruby>: an opinion, view.
 - <ruby>[頑固](../words/頑固.md)<rt>⺢ㄋㄍㄛ</rt></ruby>: stubborn, obstinate — will hardened into refusal to yield; the stand-in that legitimizes the bound character [[頑]].
@@ -94,6 +98,12 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: will, shall — the grammatical future-tense marker, not the psychological faculty; see [[Grammar]] for its own citation there.
 - <ruby>[毅然](../words/毅然.md)<rt>ㄧㄜㄋ⼶ㄋ</rt></ruby>: resolutely, firmly.
 - <ruby>[真摯](../words/真摯.md)<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby>: sincere, genuine, earnest.
+
+### Character & Attitude
+
+- <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
+- <ruby>[個性](../words/個性.md)<rt>ㄍㄜㄙㄧㄫ</rt></ruby>: personality, individuality — what is distinctive in one person.
+- <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
 
 ### Doubt & Hesitation
 
@@ -112,7 +122,6 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[呆](../words/呆.md)<rt>ㄇㄚㄧ</rt></ruby>: dull-witted, foolish, dazed — the opposite pole from this section's cleverness words (發呆, "to space out"; 呆板, "rigid, wooden").
 - <ruby>[慧](../words/慧.md)<rt>ㄏ⼔ㄧ</rt></ruby>: bright, intelligent.
 - <ruby>[知性](../words/知性.md)<rt>ㄐㄨㄧㄙㄧㄫ</rt></ruby>: intelligent, smart, knowledgeable — see [[Knowledge]] for its own citation there.
-- <ruby>[個性](../words/個性.md)<rt>ㄍㄜㄙㄧㄫ</rt></ruby>: personality, individuality — what is distinctive in one person.
 
 ### Idea, Thought & Meaning
 
@@ -129,6 +138,8 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[妄想](../words/妄想.md)<rt>ㄇㄚㄫㄙㄚㄫ</rt></ruby>: to have a delusion, be in a fantasy.
 - <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: an ideal, a dream — an aspiration, not a sleeping vision; see [[Existence]] for its own citation there.
 - <ruby>[言及](../words/言及.md)<rt>ㄝㄋㄍㄨㄆ</rt></ruby>: to mention, refer to, touch on a topic.
+- <ruby>[含意](../words/含意.md)<rt>ㄏㄚㄇ·ㄜ</rt></ruby>: an implication, implied meaning — fills "imply", beside [[暗示]] on Speech.
+- <ruby>[荒唐](../words/荒唐.md)<rt>ㄏ⺢ㄫㄉ⺢ㄫ</rt></ruby>: absurd, nonsense.
 
 ### Indicating & Representing
 
@@ -144,8 +155,6 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[仮定](../words/仮定.md)<rt>ㄍㄚㄐㄝㄫ</rt></ruby>: to assume, suppose; a hypothesis.
 - <ruby>[打算](../words/打算.md)<rt>ㄉㄚㄙ⺢ㄋ</rt></ruby>: to plan, intend.
 - <ruby>[擬](../words/擬.md)<rt>ㄧ</rt></ruby>: to intend, plan — an undocumented near-duplicate of [[打算]].
-- <ruby>[主要](../words/主要.md)<rt>ㄐㄨ⼄ㄨ</rt></ruby>: principal, main, central.
-- <ruby>[学科](../words/学科.md)<rt>ㄏㄚㄎㄎ⺢</rt></ruby>: a major, academic subject — the "major" of a course of study specifically, not "major" in the sense of "main, greater"; see [[Knowledge]] for its own citation there.
 
 ### Mystery
 
@@ -155,14 +164,13 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby>: a riddle, mystery, enigma — a puzzle meant to be solved, distinct from [[奥秘]]/[[神秘]]'s deeper, less soluble mystery; see [[Art]] for its own citation there.
 - <ruby>[迷](../words/迷.md)<rt>ㄇㄝㄧ</rt></ruby>: to be lost, be confused — a genuine Dan'a'yo homophone of [[謎]]; the confused/disoriented state itself, rather than the puzzle that causes it (迷路, "to lose one's way, a maze").
 
-**Not yet coined**: "concern," "expect" (see also Core), and "significant" (as distinct from [[重要]]) all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "concern" and "significant" (as distinct from [[重要]]) all have no dedicated Dan'a'yo word yet.
 
 ## Advanced / Specialized (C1+)
 
 - <ruby>[忘却](../words/忘却.md)<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>: to forget.
 - <ruby>[要求](../words/要求.md)<rt>⼄ㄨㄍ⼜ㄛ</rt></ruby>: to demand, firmly request; a claim.
 - <ruby>[趣味](../words/趣味.md)<rt>ㄑㄨ·ㄇㄨㄧ</rt></ruby>: a hobby, interest, taste.
-- <ruby>[感覚](../words/感覚.md)<rt>ㄍㄚㄇㄍㄚㄎ</rt></ruby>: to feel, think, be of the opinion that — an impression-based judgment, not analytical thought.
 - <ruby>[敏感](../words/敏感.md)<rt>ㄇㄧㄋㄍㄚㄇ</rt></ruby>: sensitive.
 - <ruby>[似](../words/似.md)<rt>ㄙㄚ</rt></ruby>, <ruby>[如](../words/如.md)<rt>ㄋ⼄</rt></ruby>: like, as — the comparison particles ("X is like Y"), a distinct grammatical sense from [[喜]]'s "to like" (to enjoy); see [[Grammar]] for their own citations there.
 - <ruby>[宛然](../words/宛然.md)<rt>ㄛㄋㄋ⼶ㄋ</rt></ruby>: as if, just like — a vivid resemblance.
@@ -187,7 +195,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[帰納](../words/帰納.md)<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby>: to induce, derive.
 - <ruby>[実例](../words/実例.md)<rt>ㄙㄧㄊㄌㄝ</rt></ruby>: an example, precedent.
 
-**Not yet coined**: "case" (in the sense of an instance or example — [[格]] is the grammatical case, [[箱]] the physical box, neither fits this sense), "mess," "program," "relate," and "state" (as a pure condition or status, distinct from [[陳述]]'s "to state, declare," below) all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "mess" and "program" have no dedicated Dan'a'yo word yet.
 
 ### Intermediate (B1–B2)
 
@@ -201,6 +209,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[超](../words/超.md)<rt>ㄊㄚㄨ</rt></ruby>: to transcend, surpass, exceed — [[不及]]'s opposite pole (超越, "to exceed, transcend"; 超過, "to exceed [a limit]").
 - <ruby>[越](../words/越.md)<rt>⼔ㄊ</rt></ruby>: to exceed.
 - <ruby>[等級](../words/等級.md)<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>: a grade, level, ranking, class — hierarchical, not categorical.
+- <ruby>[学科](../words/学科.md)<rt>ㄏㄚㄎㄎ⺢</rt></ruby>: a major, academic subject — the "major" of a course of study specifically, not "major" in the sense of "main, greater"; see [[Knowledge]] for its own citation there.
 - <ruby>[一般](../words/一般.md)<rt>ㄧㄊㄅㄚㄋ</rt></ruby>: average, common, general, ordinary — see [[Existence]] for its own citation there.
 - <ruby>[普遍](../words/普遍.md)<rt>ㄆㄛㄅㄝㄋ</rt></ruby>: universal, general, widespread — see [[Existence]] for its own citation there; stronger than [[一般]]'s "ordinary."
 - <ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>: special, particular.
@@ -247,6 +256,9 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[事情](../words/事情.md)<rt>ㄐㄧㄑㄧㄫ</rt></ruby>: an affair, matter, situation.
 - <ruby>[情況](../words/情況.md)<rt>ㄑㄧㄫㄏ⺢ㄫ</rt></ruby>: circumstances, conditions.
 - <ruby>[情勢](../words/情勢.md)<rt>ㄑㄧㄫㄙㄝ</rt></ruby>: a situation, circumstances — the broader state of affairs (political, historical), distinct from [[事情]]'s everyday "matter."
+- <ruby>[状態](../words/状態.md)<rt>ㄐ⺢ㄫㄊㄚㄧ</rt></ruby>: a state, condition — the bare "state", distinct from [[陳述]], "to state".
+- <ruby>[事例](../words/事例.md)<rt>ㄐㄧㄌㄝ</rt></ruby>: a case, an instance — beside [[実例]].
+- <ruby>[関連](../words/関連.md)<rt>ㄍ⺢ㄇㄌ⼶ㄋ</rt></ruby>: relation, to be related — fills "relate"; beside [[関係]].
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to state, declare; a statement — see [[Existence]] for its own citation there.
 
 #### Separation & Difference
@@ -272,7 +284,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[命令](../words/命令.md)<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby>: a decree, order, command — "order" as a command, distinct from [[整理]]'s "order" as arrangement.
 - <ruby>[主旨](../words/主旨.md)<rt>ㄐㄨㄐㄧㄜ</rt></ruby>: a purpose, point, gist.
 
-**Not yet coined**: "imply," "induction," "nonsense," and "fallacy" all have no dedicated Dan'a'yo word yet — a real gap in this vault's formal-logic vocabulary specifically, as opposed to its practical-reasoning vocabulary ([[道理]], [[原因]]), which is well covered. "Deduce" itself is now filled by [[䋇]], above.
+**Not yet coined**: "induction" and "fallacy" have no dedicated Dan'a'yo word yet — a real gap in this vault's formal-logic vocabulary specifically, as opposed to its practical-reasoning vocabulary ([[道理]], [[原因]]), which is well covered. "Deduce" itself is now filled by [[䋇]], above.
 
 ## Advanced / Specialized (C1+)
 
@@ -298,7 +310,7 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 - <ruby>[聡明](../words/聡明.md)<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>: smart.
 - <ruby>[胸臆](../words/胸臆.md)<rt>ㄏ⼄ㄫㄧㄎ</rt></ruby>: feelings; thoughts; opinions.
 - <ruby>[能力](../words/能力.md)<rt>ㄋㄜㄫㄌㄧㄎ</rt></ruby>: ability; capability.
-- <ruby>[自分](../words/自分.md)<rt>ㄐㄧㄜㄅㄨㄋ</rt></ruby>: self-examine; assess oneself.
+- <ruby>[自分](../words/自分.md)<rt>ㄐㄧㄜㄅㄨㄋ</rt></ruby>: self-examine; assess oneself — listed as a Split on [文法 - 91疑義語](../grammar/文法%20-%2091疑義語.md): the everyday Japanese "oneself, I" is not this sense; plain "oneself" is [[自身]].
 - <ruby>[自得](../words/自得.md)<rt>ㄐㄧㄜㄊㄜㄎ</rt></ruby>: come to a realization of one's own accord.
 - <ruby>[茫然](../words/茫然.md)<rt>ㄇㄚㄫㄋ⼶ㄋ</rt></ruby>: thoughtless; clueless.
 - <ruby>[覚醒](../words/覚醒.md)<rt>ㄍㄚㄎㄙㄝㄫ</rt></ruby>: be disillusioned; sober up.
