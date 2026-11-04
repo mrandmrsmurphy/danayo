@@ -13,8 +13,17 @@ related_domains:
   - "[[Speech]]"
   - "[[Tools]]"
   - "[[Body]]"
+  - "[[Valuation]]"
+  - "[[Efforts]]"
+  - "[[Law]]"
+  - "[[Society]]"
+  - "[[Sensation]]"
+  - "[[Government]]"
+  - "[[Calendar]]"
+  - "[[Sin]]"
+  - "[[Valuation]]"
 status: complete
-date-last-perfect: 2026-09-29
+date-last-perfect: 2026-11-03
 ---
 
 # Mind
@@ -48,7 +57,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[覚悟](../words/覚悟.md)<rt>ㄍㄚㄎ·ㄛ</rt></ruby>: resolve, mental preparedness; awareness, enlightenment — in Japanese and Korean the readiness to face something, in Mandarin the "waking up to" a truth, often Buddhist or ideological; beside [[準備]]'s practical preparing.
 - <ruby>[憬悟](../words/憬悟.md)<rt>ㄍ⼄ㄫㄛ</rt></ruby>: to awaken to understanding, realize.
 
-**Not yet coined**: "attention," "commit," "dare," "mental" (as an independent adjective), "remind," and "wait" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "commit," "mental" (as an independent adjective), "remind," and "wait" all have no dedicated Dan'a'yo word yet.
 
 ## Intermediate (B1–B2)
 
@@ -88,6 +97,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[憧憬](../words/憧憬.md)<rt>ㄑㄛㄫㄍ⼄ㄫ</rt></ruby>: to long for, desire — yearning toward a distant or aspirational goal.
 - <ruby>[願意](../words/願意.md)<rt>⼔ㄋ·ㄜ</rt></ruby>: willing; to want, wish.
 - <ruby>[期待](../words/期待.md)<rt>ㄎㄧㄉㄚㄧ</rt></ruby>: to expect, look forward to.
+- <ruby>[敢為](../words/敢為.md)<rt>ㄍㄚㄇ⼔ㄋ</rt></ruby>: to dare to do — the word that fills "dare"; it stands in for the bound 敢, which is too bounded to stand alone; see [[Conflict]] for its own citation there.
 - <ruby>[好奇](../words/好奇.md)<rt>ㄏㄚㄨㄍㄨㄧ</rt></ruby>: curious, curiosity.
 - <ruby>[偏好](../words/偏好.md)<rt>ㄆ⼶ㄋㄏㄚㄨ</rt></ruby>: a preference, to favor — fills "prefer", beside [[喜]].
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent — willpower, the faculty of volition; see [[Grammar]] for its own citation there.
@@ -138,7 +148,8 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[妄想](../words/妄想.md)<rt>ㄇㄚㄫㄙㄚㄫ</rt></ruby>: to have a delusion, be in a fantasy.
 - <ruby>[理想](../words/理想.md)<rt>ㄌㄧㄙㄚㄫ</rt></ruby>: an ideal, a dream — an aspiration, not a sleeping vision; see [[Existence]] for its own citation there.
 - <ruby>[言及](../words/言及.md)<rt>ㄝㄋㄍㄨㄆ</rt></ruby>: to mention, refer to, touch on a topic.
-- <ruby>[含意](../words/含意.md)<rt>ㄏㄚㄇ·ㄜ</rt></ruby>: an implication, implied meaning — fills "imply", beside [[暗示]] on Speech.
+- <ruby>[含意](../words/含意.md)<rt>ㄏㄚㄇ·ㄜ</rt></ruby>: an implication, implied meaning — fills "imply", beside [[暗示]].
+- <ruby>[暗示](../words/暗示.md)<rt>ㄚㄇㄍㄝ</rt></ruby>: to suggest, hint — an implication given indirectly; see [[Speech]] for its own citation there.
 - <ruby>[荒唐](../words/荒唐.md)<rt>ㄏ⺢ㄫㄉ⺢ㄫ</rt></ruby>: absurd, nonsense.
 
 ### Indicating & Representing
@@ -146,6 +157,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[表示](../words/表示.md)<rt>ㄅ⼘ㄨㄍㄝ</rt></ruby>: to display, indicate, express — see [[Existence]] for its own citation there.
 - <ruby>[標誌](../words/標誌.md)<rt>ㄅ⼄ㄐㄧ</rt></ruby>: to symbolize, mark, indicate.
 - <ruby>[反映](../words/反映.md)<rt>ㄈㄛㄋ·⼶ㄫ</rt></ruby>: to reflect, indicate — a state of affairs reflecting or indicating a deeper condition, not literal light reflection (see [[Light]] for that sense, carried by a different word, [[映]]).
+- <ruby>[意義](../words/意義.md)<rt>ㄜㄜㄧ</rt></ruby>: sense, meaning, significance — see [[Existence]] for its own citation there.
 - <ruby>[体現](../words/体現.md)<rt>ㄊㄝㄧㄏ⼶ㄋ</rt></ruby>: to embody, express, incarnate — a more active, concrete realization than [[反映]]'s passive reflecting/indicating.
 - <ruby>[代表](../words/代表.md)<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>: to represent.
 
@@ -164,7 +176,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 - <ruby>[謎](../words/謎.md)<rt>ㄇㄝㄧ</rt></ruby>: a riddle, mystery, enigma — a puzzle meant to be solved, distinct from [[奥秘]]/[[神秘]]'s deeper, less soluble mystery; see [[Art]] for its own citation there.
 - <ruby>[迷](../words/迷.md)<rt>ㄇㄝㄧ</rt></ruby>: to be lost, be confused — a genuine Dan'a'yo homophone of [[謎]]; the confused/disoriented state itself, rather than the puzzle that causes it (迷路, "to lose one's way, a maze").
 
-**Not yet coined**: "concern" and "significant" (as distinct from [[重要]]) all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: none; "concern" is [[関心]], "significant" is [[意義]] (as a noun) beside [[重要]].
 
 ## Advanced / Specialized (C1+)
 
@@ -195,7 +207,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[帰納](../words/帰納.md)<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby>: to induce, derive.
 - <ruby>[実例](../words/実例.md)<rt>ㄙㄧㄊㄌㄝ</rt></ruby>: an example, precedent.
 
-**Not yet coined**: "mess" and "program" have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "program" has no dedicated Dan'a'yo word yet.
 
 ### Intermediate (B1–B2)
 
@@ -257,8 +269,10 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[情況](../words/情況.md)<rt>ㄑㄧㄫㄏ⺢ㄫ</rt></ruby>: circumstances, conditions.
 - <ruby>[情勢](../words/情勢.md)<rt>ㄑㄧㄫㄙㄝ</rt></ruby>: a situation, circumstances — the broader state of affairs (political, historical), distinct from [[事情]]'s everyday "matter."
 - <ruby>[状態](../words/状態.md)<rt>ㄐ⺢ㄫㄊㄚㄧ</rt></ruby>: a state, condition — the bare "state", distinct from [[陳述]], "to state".
+- <ruby>[混乱](../words/混乱.md)<rt>ㄏㄛㄋㄌㄚㄋ</rt></ruby>: chaotic, confused — a state of disorder, fills "mess"; see [[Conflict]] for its own citation there.
 - <ruby>[事例](../words/事例.md)<rt>ㄐㄧㄌㄝ</rt></ruby>: a case, an instance — beside [[実例]].
 - <ruby>[関連](../words/関連.md)<rt>ㄍ⺢ㄇㄌ⼶ㄋ</rt></ruby>: relation, to be related — fills "relate"; beside [[関係]].
+- <ruby>[関係](../words/関係.md)<rt>ㄍ⺢ㄇㄍㄝㄧ</rt></ruby>: relationship, related — the general tie between things, beside [[関連]]; see [[Society]] for its own citation there.
 - <ruby>[陳述](../words/陳述.md)<rt>ㄐㄧㄋㄙㄨㄊ</rt></ruby>: to state, declare; a statement — see [[Existence]] for its own citation there.
 
 #### Separation & Difference
@@ -284,7 +298,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[命令](../words/命令.md)<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby>: a decree, order, command — "order" as a command, distinct from [[整理]]'s "order" as arrangement.
 - <ruby>[主旨](../words/主旨.md)<rt>ㄐㄨㄐㄧㄜ</rt></ruby>: a purpose, point, gist.
 
-**Not yet coined**: "induction" and "fallacy" have no dedicated Dan'a'yo word yet — a real gap in this vault's formal-logic vocabulary specifically, as opposed to its practical-reasoning vocabulary ([[道理]], [[原因]]), which is well covered. "Deduce" itself is now filled by [[䋇]], above.
+**Not yet coined**: none; "induction" is [[帰納]], "fallacy" is [[誤謬]], and "deduce" is [[䋇]].
 
 ## Advanced / Specialized (C1+)
 
@@ -339,4 +353,12 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 - [[Knowledge]] — understanding, learning, and reasoning ([[了解]], [[理解]], [[知性]], [[学科]], [[比較]], [[条件]], [[理由]], [[方法]], [[問題]], [[分析]], [[解析]], [[論理]], [[道理]]) form a continuous scale from Mind's raw cognition to Knowledge's acquired learning.
 - [[Grammar]] — [[意志]] and [[将]] are both glossed "will" but serve entirely different roles, one psychological and one purely grammatical; [[似]] and [[如]] are comparison particles housed there as function words.
 - [[Art]] — [[奥秘]], [[神秘]], and [[謎]] name mystery as an aesthetic and narrative quality there, and as a state of unknowing here.
-- [[Conflict]] — [[秘訣]] and [[乱離]] name a tactical advantage and wartime chaos respectively, cited here for their broader "trick" and "disorder" senses.
+- [[Conflict]] — [[秘訣]] and [[乱離]] name a tactical advantage and wartime chaos respectively, cited here for their broader "trick" and "disorder" senses; [[混乱]] (disorder) and [[敢為]] (to dare) are cited there first.
+- [[Valuation]] — [[一般]], [[特別]], and [[重要]] sort things by how general, special, or important they are, cited there first.
+- [[Efforts]] — [[能力]] and [[命令]] name ability and a command, cited there first.
+- [[Law]] — [[故意]] and [[法則]] name deliberate intent and a rule or law, cited there first.
+- [[Society]] — [[信用]] and [[関係]] name trust and the ties between people or things, cited there first.
+- [[Sensation]] — [[観察]] is observing, where perceiving meets thinking.
+- [[Government]] — [[代表]] names representing, cited there first.
+- [[Calendar]] — [[予定]] names a plan or schedule, cited there first.
+- [[Sin]] — [[欲望]] shades from desire into craving, cited there as well.
