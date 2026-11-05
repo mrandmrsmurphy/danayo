@@ -192,6 +192,8 @@ aliases:
 ### Aliases
 - 傳 --> 伝
 - 传 --> 伝
+- 债 --> 債
+- 储 --> 儲
 
 ## Data check
 ```dataview

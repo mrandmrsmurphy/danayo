@@ -36,6 +36,7 @@ tags:
 - 栞 --> 刊
 - 笈 --> 及
 - 唤 --> 喚
+- 债 --> 債
 
 ## Data check
 ```dataview

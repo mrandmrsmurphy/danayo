@@ -35,6 +35,9 @@ tags:
 23. <ruby>[帰](characters/帰.md)<rt>ㄍㄨㄧ</rt></ruby> "return"
 24. <ruby>[凌](characters/凌.md)<rt>ㄌㄜㄫ</rt></ruby> "to surpass"
 
+### Aliases
+- 债 --> 債
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

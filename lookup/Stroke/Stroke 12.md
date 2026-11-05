@@ -43,6 +43,7 @@ tags: [lookup]
 - 惺 --> 星
 - 隈 --> 畏
 - 絕 --> 絶
+- 储 --> 儲
 
 ## Data check
 ```dataview
