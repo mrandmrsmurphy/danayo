@@ -29,6 +29,7 @@ tags:
 - 传 --> 伝
 - 导 --> 導
 - 玑 --> 璣
+- 毕 --> 畢
 
 ## Data check
 ```dataview

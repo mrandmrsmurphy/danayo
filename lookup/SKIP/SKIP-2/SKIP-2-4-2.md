@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[劣](/characters/劣.md)<rt>ㄌㄝㄊ</rt></ruby> "inferior; bad"
 5. <ruby>[早](characters/早%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> "early"
 
+### Aliases
+- 毕 --> 畢
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

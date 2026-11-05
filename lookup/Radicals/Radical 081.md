@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[比](../../characters/比%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - than
 2. <ruby>[毘](../../characters/毘.md)<rt>ㄅㄧㄜ</rt></ruby> - help
 
+### Aliases
+- 毕 --> 畢
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

@@ -58,5 +58,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 剣 | 剑 | 1-7-2 | simplified; 佥 7 + 刂 2 |
 | 龕 | 龛 | 2-2-9 | simplified; by analogy to EDRDG's 龕 (2-2-20: 𠆢 2 over the rest) |
 | 兗 | 兖 | 2-2-6 | simplified; 亠 2 over 兊 6 |
+| 畢 | 毕 | 2-4-2 | simplified; 比 4 over 十 2 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
