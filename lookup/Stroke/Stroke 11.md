@@ -36,6 +36,7 @@ tags:
 - 4-11-3: <ruby>[[粛]]<rt>ㄙㄨㄎ</rt></ruby>
 - 4-11-4: <ruby>[[爽]]<rt>ㄙ⺢ㄫ</rt></ruby>, <ruby>[[戚]]<rt>ㄑㄝㄎ</rt></ruby>
 ### Aliases
+- 梧 --> 吾
 
 ## Data check
 ```dataview

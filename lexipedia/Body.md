@@ -112,6 +112,7 @@ Body vocabulary covers the parts of the human body inside and out — limbs, tor
 - <ruby>[歯痛](../words/歯痛.md)<rt>ㄑㄧ·ㄊㄛㄫ</rt></ruby>: toothache.
 - <ruby>[含漱](../words/含漱.md)<rt>ㄏㄚㄇㄙㄛㄨ</rt></ruby>: to gargle.
 - <ruby>[舌根](../words/舌根.md)<rt>ㄙㄝㄊㄍㄜㄋ</rt></ruby>: the root of the tongue.
+- <ruby>[味雷](../words/味雷.md)<rt>ㄇㄨㄧㄌㄛㄧ</rt></ruby>: a taste bud — written with 雷 standing in for the rare 蕾 "bud"; see [[Sensation]] for its second citation there.
 - <ruby>[下顎](../words/下顎.md)<rt>ㄏㄚㄚㄎ</rt></ruby>: jaw/chin.
 
 ### Hair & Beard

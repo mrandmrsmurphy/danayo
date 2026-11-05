@@ -1561,7 +1561,7 @@ tags: [lookup]
 [襖](../../characters/襖.md): 1
 [[扒]]: 1
 [[芭]]: 1
-[[蕾]]: 1
+[蕾](../../characters/雷%20(char).md): 1
 [[疤]]: 1
 [[捌 (char)]]: 1
 [[柄 (char)]]: 1
@@ -2040,7 +2040,7 @@ tags: [lookup]
 [[挎]]: 1
 [[速 (char)]]: 1
 [[框]]: 1
-[[葵]]: 1
+[葵](../../characters/癸.md): 1
 [腊](../../characters/臘.md): 1
 [[characters/臘]]: 1
 [栏](../../characters/欄.md): 1

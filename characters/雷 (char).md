@@ -28,6 +28,8 @@ danayo_id: 5187
 mc_id: 989
 graphemic_classification: 会意
 stand_in: 雷
+aliases:
+  - 蕾
 注音: ㄌㄛㄧ
 kwin: true
 tags:
@@ -54,6 +56,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[魚雷]]<rt>⼄ㄌㄛㄧ</rt></ruby> "torpedo"
 - <ruby>[[佛雷素]]<rt>ㄅㄨㄊㄌㄛㄧㄙㄛ</rt></ruby> "flerovium"
 - <ruby>[[雷金]]<rt>ㄌㄛㄧㄍㄧㄇ</rt></ruby> "thorium"
+- <ruby>[[味雷]]<rt>ㄇㄨㄧㄌㄛㄧ</rt></ruby> "taste bud"
 
 ## Derived Characters
 - <ruby>[[儡]]<rt>ㄌㄛㄧ</rt></ruby> "puppet"

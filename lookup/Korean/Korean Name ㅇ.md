@@ -89,7 +89,7 @@ All have been checked for redirects.
 [叡](characters/叡.md) [預](characters/予.md) [芮](characters/芮.md) [乂](characters/乂.md) [[倪]] [刈](characters/刈%20(char).md) [曳](characters/曳.md) [[汭]] [[濊]] [[猊]] [穢](characters/穢.md) [[裔]] [詣](characters/詣%20(char).md) [霓](characters/霓.md) [[堄]] [[橤]] [[玴]] [[嫕]] [[蓺]] [[蕊]] [[𣫙]] [[艾]] [[㙯]] [[羿]] [[瘱]]  [[叡]]  [[蕊]] ([[蘂]])
 
 ### 오 
-[伍](characters/伍%20(char).md) [吳](characters/呉.md) [[旿]] [[珸]] [[晤]] [奧](characters/奥%20(char).md) [[俉]] [[塢]] [[墺]] [寤](characters/悟.md) [惡](characters/悪%20(char).md) [[懊]] [敖](characters/敖.md) [熬](characters/熬.md) [澳](characters/奥%20(char).md) [[獒]] 筽! [蜈](characters/呉.md) [[鼇]] [[梧]] [[浯]] [[燠]] [[鼇]] ([[鰲]]) [襖](characters/襖.md)
+[伍](characters/伍%20(char).md) [吳](characters/呉.md) [[旿]] [[珸]] [[晤]] [奧](characters/奥%20(char).md) [[俉]] [[塢]] [[墺]] [寤](characters/悟.md) [惡](characters/悪%20(char).md) [[懊]] [敖](characters/敖.md) [熬](characters/熬.md) [澳](characters/奥%20(char).md) [[獒]] 筽! [蜈](characters/呉.md) [[鼇]] [梧](../../characters/吾.md) [[浯]] [[燠]] [[鼇]] ([[鰲]]) [襖](characters/襖.md)
 
 ### 옥 
 [沃](characters/沃.md) [[鈺]] 

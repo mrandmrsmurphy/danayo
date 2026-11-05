@@ -66,6 +66,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 
 - <ruby>[視覚](../words/視覚.md)<rt>ㄙㄧㄜㄍㄚㄎ</rt></ruby>: sight, vision.
 - <ruby>[味覚](../words/味覚.md)<rt>ㄇㄨㄧㄍㄚㄎ</rt></ruby>: the sense of taste.
+- <ruby>[味雷](../words/味雷.md)<rt>ㄇㄨㄧㄌㄛㄧ</rt></ruby>: a taste bud — the organ of taste, beside [[味覚]]; see [[Body]] for its own citation there.
 - <ruby>[視](../words/視.md)<rt>ㄙㄧㄜ</rt></ruby>: to look at, inspect — the bound root behind [[視覚]] above, and this page's own previously-flagged "to look" verb.
 - <ruby>[視認](../words/視認.md)<rt>ㄙㄧㄜ·ㄋㄧㄋ</rt></ruby>: visual recognition — to see something and recognize/confirm it.
 - <ruby>[盲目](../words/盲目.md)<rt>ㄇㄚㄫㄇㄨㄎ</rt></ruby>: blind.
