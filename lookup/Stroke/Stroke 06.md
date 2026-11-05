@@ -27,6 +27,7 @@ tags:
 
 ### Aliases
 - 传 --> 伝
+- 导 --> 導
 
 ## Data check
 ```dataview

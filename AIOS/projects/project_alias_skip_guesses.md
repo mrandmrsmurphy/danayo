@@ -40,5 +40,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 嘗 | 尝 | 2-5-4 | simplified; top 龸 5 over 云 4 |
 | 冪 | 幂 | 2-9-3 | simplified; 冖旲 9 over 巾 3 |
 | 零 | 〇 | 4-1-4 | not a Han character; 1 stroke, subtype 4 (same leaf as 一); no radical |
+| 導 | 导 | 2-3-3 | simplified; 巳 3 over 寸 3 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

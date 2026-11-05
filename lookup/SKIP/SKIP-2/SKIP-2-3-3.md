@@ -33,6 +33,9 @@ tags:
 21. <ruby>[芋](characters/芋.md)<rt>ㄨ</rt></ruby> "taro"
 22. <ruby>[芝](characters/芝.md)<rt>ㄐㄧ</rt></ruby> "sesame"
 
+### Aliases
+- 导 --> 導
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

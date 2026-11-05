@@ -51,10 +51,6 @@ boundedness: 80
 - 359th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄏㄝㄫ](../syllables/ㄏㄝㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
-## Usage
-While this character can appear alone, it is somewhat rare to do so.
-- **形** tends to be more **abstract or conceptual**. It refers to the "form" or "appearance" as a category or a philosophical state. It is often used to describe the essence of how something manifests (e.g., "having form vs. being formless").
-- **[[形状]]** refers specifically to the **physical geometry or outline** of an object. If you are asking "What does it look like?" or describing a circle vs. a square, you are talking about _形状_.
 
 ## Words
 - <ruby>[[形]]<rt>ㄏㄝㄫ</rt></ruby> "shape" (stand-in for 形)
