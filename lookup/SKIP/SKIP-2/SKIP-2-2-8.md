@@ -2,7 +2,7 @@
 stroke_count: 10
 date-last-perfect: 2026-10-31
 skip_number: 2-2-8
-size: 14
+size: 15
 tags: [lookup]
 
 ---
@@ -24,6 +24,7 @@ tags: [lookup]
 12. <ruby>[衰](/characters/衰.md)<rt>ㄙ⼔ㄧ</rt></ruby> "decrease; weaken"
 13. <ruby>[釜](/characters/釜.md)<rt>ㄅㄨ</rt></ruby> "kettle; cauldron"
 14. <ruby>[高](characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby> "high"
+15. <ruby>[拿](/characters/拿.md)<rt>ㄋㄚ</rt></ruby> "take grasp"
 
 ## Datacheck
 ```dataview

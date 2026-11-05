@@ -1,7 +1,7 @@
 ---
 stroke_count: 11
 date-last-perfect: 2026-10-31
-size: 9
+size: 8
 skip_number: 3-4-7
 tags: [lookup]
 
@@ -15,10 +15,9 @@ tags: [lookup]
 3. <ruby>[虚](characters/虚%20(char).md)<rt>ㄏ⼄</rt></ruby> "void; emptiness"
 4. <ruby>[逍](/characters/逍.md)<rt>ㄙ⼄ㄨ</rt></ruby> "ramble; stroll; jaunt; loiter"
 5. <ruby>[逑](/characters/逑.md)<rt>ㄍ⼜</rt></ruby> "mate; match"
-6. <ruby>[逗](/characters/逗.md)<rt>ㄉㄚㄨ</rt></ruby> "pause"
-7. <ruby>[逞](characters/逞%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> "indulge; brag"
-8. <ruby>[速](characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> "quick; fast"
-9. <ruby>[逢](/characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> "meet; flatter"
+6. <ruby>[逞](characters/逞%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> "indulge; brag"
+7. <ruby>[速](characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> "quick; fast"
+8. <ruby>[逢](/characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> "meet; flatter"
 
 ### Aliases
 - 㲵 --> 宵

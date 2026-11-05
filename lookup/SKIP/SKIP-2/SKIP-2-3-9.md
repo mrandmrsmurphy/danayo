@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-10-31
 stroke_count: 12
-size: 25
+size: 26
 skip_number: 2-3-9
 tags:
   - lookup
@@ -35,6 +35,7 @@ tags:
 23. <ruby>[葱](characters/葱.md)<rt>ㄑㄛㄫ</rt></ruby> "onion"
 24. <ruby>[韮](characters/韮.md)<rt>ㄍ⼜</rt></ruby> "chive"
 25. <ruby>[崴](characters/崴.md)<rt>⺢ㄧ</rt></ruby> "bend in a mountain or river"
+26. <ruby>[惹](/characters/惹.md)<rt>ㄋ⼘</rt></ruby> "irritate; vex; offend"
 
 ## Datacheck
 ```dataview

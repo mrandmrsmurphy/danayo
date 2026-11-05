@@ -48,11 +48,11 @@ tags: [lookup]
 25. <ruby>[逝](../../characters/逝.md)<rt>ㄙㄝ</rt></ruby> - pass away
 26. <ruby>[造](../../characters/造.md)<rt>ㄑㄚㄨ</rt></ruby> - create
 27. <ruby>[連](../../characters/連%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> - mutual
+28. <ruby>[逗](../../characters/逗.md)<rt>ㄉㄚㄨ</rt></ruby> - pause
 
 ### +8 Strokes
-28. <ruby>[逍](../../characters/逍.md)<rt>ㄙ⼄ㄨ</rt></ruby> - ramble
-29. <ruby>[逑](../../characters/逑.md)<rt>ㄍ⼜</rt></ruby> - mate
-30. <ruby>[逗](../../characters/逗.md)<rt>ㄉㄚㄨ</rt></ruby> - pause
+29. <ruby>[逍](../../characters/逍.md)<rt>ㄙ⼄ㄨ</rt></ruby> - ramble
+30. <ruby>[逑](../../characters/逑.md)<rt>ㄍ⼜</rt></ruby> - mate
 31. <ruby>[逞](../../characters/逞%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> - indulge
 32. <ruby>[速](../../characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> - quick
 33. <ruby>[逢](../../characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> - meet

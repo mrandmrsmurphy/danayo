@@ -2,7 +2,7 @@
 stroke_count: 13
 date-last-perfect: 2026-10-31
 skip_number: 2-9-4
-size: 10
+size: 9
 tags: [lookup]
 
 ---
@@ -11,15 +11,14 @@ tags: [lookup]
 
 ## Characters
 1. <ruby>[想](/characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> "thought; concept"
-2. <ruby>[惹](/characters/惹.md)<rt>ㄋ⼘</rt></ruby> "irritate; vex; offend"
-3. <ruby>[愁](/characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> "worry; be anxious"
-4. <ruby>[愚](characters/愚%20(char).md)<rt>ㄨ</rt></ruby> "foolish"
-5. <ruby>[感](/characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> "feel; sense"
-6. <ruby>[暋](/characters/暋.md)<rt>ㄇㄧㄋ</rt></ruby> "strong; robust; tough"
-7. <ruby>[楽](/characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> "pleasure"
-8. <ruby>[照](characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> "shine"
-9. <ruby>[聖](/characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> "holy"
-10. <ruby>[腎](/characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> "kidney"
+2. <ruby>[愁](/characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> "worry; be anxious"
+3. <ruby>[愚](characters/愚%20(char).md)<rt>ㄨ</rt></ruby> "foolish"
+4. <ruby>[感](/characters/感.md)<rt>ㄍㄚㄇ</rt></ruby> "feel; sense"
+5. <ruby>[暋](/characters/暋.md)<rt>ㄇㄧㄋ</rt></ruby> "strong; robust; tough"
+6. <ruby>[楽](/characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> "pleasure"
+7. <ruby>[照](characters/照%20(char).md)<rt>ㄐㄛㄨ</rt></ruby> "shine"
+8. <ruby>[聖](/characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> "holy"
+9. <ruby>[腎](/characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> "kidney"
 
 ## Datacheck
 ```dataview

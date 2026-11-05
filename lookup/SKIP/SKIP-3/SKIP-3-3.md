@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 146
+size: 147
 tags: [lookup]
 
 ---
@@ -12,7 +12,7 @@ tags: [lookup]
 4. [SKIP-3-3-4](lookup/SKIP/SKIP-3/SKIP-3-3-4.md): 囧, 困, 囲, 図, 尾, 尿, 局, 屁, 庇, 床, 序, 廷, 応, 臣, 近, 返
 5. [SKIP-3-3-5](lookup/SKIP/SKIP-3/SKIP-3-3-5.md): 固, 国, 居, 屈, 届, 底, 店, 庚, 府, 延, 迪, 迫, 迭, 述
 6. [SKIP-3-3-6](lookup/SKIP/SKIP-3/SKIP-3-3-6.md): 屋, 屎, 屏, 度, 建, 昼, 追, 退, 送, 逃, 逆
-7. [SKIP-3-3-7](lookup/SKIP/SKIP-3/SKIP-3-3-7.md): 唐, 圃, 屑, 展, 席, 庫, 庭, 透, 逐, 逓, 途, 這, 通, 逝, 造, 連
+7. [SKIP-3-3-7](lookup/SKIP/SKIP-3/SKIP-3-3-7.md): 唐, 圃, 屑, 展, 席, 庫, 庭, 透, 逐, 逓, 途, 這, 通, 逝, 造, 連, 逗
 8. [SKIP-3-3-8](lookup/SKIP/SKIP-3/SKIP-3-3-8.md): 週, 庵, 屠, 逸, 庸, 麻, 鹿, 庶, 進, 逮, 康
 9. [SKIP-3-3-9](lookup/SKIP/SKIP-3/SKIP-3-3-9.md): 圏, 属, 庾, 廃, 廊, 犀, 貳, 逼, 遁, 遂, 遅, 遇, 運, 遍, 道, 達, 遥
 10. [SKIP-3-3-10](lookup/SKIP/SKIP-3/SKIP-3-3-10.md): 廉, 廈, 園, 圓, 遠, 遣, 遡, 遜, 違

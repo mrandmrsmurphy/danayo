@@ -2,7 +2,7 @@
 stroke_count: 13
 date-last-perfect: 2026-10-31
 skip_number: 1-8-5
-size: 18
+size: 17
 tags: [lookup]
 
 ---
@@ -23,11 +23,10 @@ tags: [lookup]
 11. <ruby>[鉀](characters/鉀%20(char).md)<rt>ㄍㄚㄆ</rt></ruby> "potassium"
 12. <ruby>[鉦](/characters/鉦.md)<rt>ㄐㄧㄫ</rt></ruby> "marching gong"
 13. <ruby>[鉱](/characters/鉱.md)<rt>ㄍ⺢ㄫ</rt></ruby> "mineral; ore"
-14. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> "heavy rain"
-15. <ruby>[飴](/characters/飴.md)<rt>ㄧ</rt></ruby> "syrup; candy"
-16. <ruby>[飼](/characters/飼.md)<rt>ㄙㄚ</rt></ruby> "raise; rear"
-17. <ruby>[飽](characters/飽%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> "sated; saturated; full"
-18. <ruby>[飾](/characters/飾.md)<rt>ㄙㄧㄎ</rt></ruby> "decorate"
+14. <ruby>[飴](/characters/飴.md)<rt>ㄧ</rt></ruby> "syrup; candy"
+15. <ruby>[飼](/characters/飼.md)<rt>ㄙㄚ</rt></ruby> "raise; rear"
+16. <ruby>[飽](characters/飽%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> "sated; saturated; full"
+17. <ruby>[飾](/characters/飾.md)<rt>ㄙㄧㄎ</rt></ruby> "decorate"
 
 ## Datacheck
 ```dataview

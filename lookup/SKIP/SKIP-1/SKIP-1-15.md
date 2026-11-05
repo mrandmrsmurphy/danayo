@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 2
+size: 1
 tags:
   - lookup
 ---
@@ -11,7 +11,7 @@ tags:
 2. no
 3. no
 4. no
-5. [SKIP-1-15-5](lookup/SKIP/SKIP-1/SKIP-1-15-5.md): 齢
+5. [SKIP-1-15-5](lookup/SKIP/SKIP-1/SKIP-1-15-5.md): ø
 6. [SKIP-1-15-6](lookup/SKIP/SKIP-1/SKIP-1-15-6.md): 齦
 7. no
 8. no

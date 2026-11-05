@@ -48,6 +48,7 @@ tags:
 - 尝 --> 嘗
 - 枽 --> 枼
 - 剑 --> 剣
+- 瓯 --> 甌
 
 ## Data check
 ```dataview

@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-31
-size: 7
+size: 8
 stroke_count: 13
 skip_number: 2-8-5
 tags: [lookup]
@@ -17,6 +17,7 @@ tags: [lookup]
 5. <ruby>[雷](characters/雷%20(char).md)<rt>ㄌㄛㄧ</rt></ruby> "thunder"
 6. <ruby>[零](characters/零%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> "zero"
 7. <ruby>[瑟](characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> "se (instrument)"
+8. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> "heavy rain"
 
 ## Datacheck
 ```dataview

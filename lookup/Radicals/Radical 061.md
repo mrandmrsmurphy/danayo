@@ -91,10 +91,10 @@ tags: [lookup]
 60. <ruby>[愉](../../characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleasure
 61. <ruby>[慌](../../characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - nervous
 62. <ruby>[愕](../../characters/愕.md)<rt>ㄋ⼄ㄎ</rt></ruby> - astonished
+63. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
 
 ### +9 Strokes
-63. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
-64. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
+64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
 65. <ruby>[愁](../../characters/愁.md)<rt>ㄙㄚㄨ</rt></ruby> - worry
 66. <ruby>[愈](../../characters/愈.md)<rt>⼜ㄇ</rt></ruby> - more and more
 67. <ruby>[意](../../characters/意.md)<rt>ㄜ</rt></ruby> - significance

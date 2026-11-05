@@ -1,7 +1,7 @@
 ---
 stroke_count: 20
 date-last-perfect: 2026-11-04
-size: 27
+size: 26
 tags:
   - lookup
 ---
@@ -17,7 +17,6 @@ tags:
 - 1-9-11: <ruby>[[饅]]<rt>ㄇㄚㄋ</rt></ruby>, <ruby>[[饉]]<rt>ㄍㄨㄋ</rt></ruby>
 - 1-10-10: <ruby>[[競]]<rt>ㄍ⼶ㄫ</rt></ruby>
 - 1-11-9: <ruby>[[鰐]]<rt>ㄚㄎ</rt></ruby>, <ruby>[[鰌]]<rt>ㄑㄨ</rt></ruby>
-- 1-15-5: <ruby>[[齢]]<rt>ㄌㄝㄫ</rt></ruby>
 - 2-6-14: <ruby>[[籍]]<rt>ㄐㄝㄎ</rt></ruby>, <ruby>[[纂]]<rt>ㄐ⺢ㄋ</rt></ruby>
 - 2-11-9: <ruby>[[響]]<rt>ㄏ⼘ㄫ</rt></ruby>, <ruby>[[馨]]<rt>ㄏㄝㄫ</rt></ruby>
 - 2-12-8: <ruby>[[礬]]<rt>ㄆㄛㄇ</rt></ruby>

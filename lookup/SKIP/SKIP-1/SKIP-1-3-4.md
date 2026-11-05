@@ -1,7 +1,7 @@
 ---
 date-last-perfect: 2026-10-31
 stroke_count: 7
-size: 56
+size: 57
 skip_number: 1-3-4
 tags:
   - lookup
@@ -66,6 +66,7 @@ tags:
 54. <ruby>[阮](characters/阮.md)<rt>⼔ㄋ</rt></ruby> "moon lute"
 55. <ruby>[防](characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> "prevent"
 56. <ruby>[址](characters/址.md)<rt>ㄐㄧ</rt></ruby> "site"
+57. <ruby>[抛](characters/抛.md)<rt>ㄆㄚㄨ</rt></ruby> "throw away, abandon, reject"
 
 ### Aliases
 - 阳 --> 陽

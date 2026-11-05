@@ -56,6 +56,7 @@ tags:
 ### Aliases
 - 烂 --> 乱
 - 昸 --> 冬
+- 瓯 --> 甌
 
 ## Datacheck
 ```dataview

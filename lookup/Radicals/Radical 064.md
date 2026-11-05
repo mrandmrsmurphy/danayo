@@ -77,21 +77,21 @@ tags: [lookup]
 
 ### +6 Strokes
 52. <ruby>[拳](../../characters/拳.md)<rt>ㄍ⼔ㄋ</rt></ruby> - fist
-53. <ruby>[拿](../../characters/拿.md)<rt>ㄋㄚ</rt></ruby> - take, grasp
-54. <ruby>[挙](../../characters/挙%20(char).md)<rt>ㄍ⼄</rt></ruby> - raise
-55. <ruby>[挨](../../characters/挨.md)<rt>ㄚㄧ</rt></ruby> - dawdle
-56. <ruby>[挫](../../characters/挫.md)<rt>ㄐ⺢</rt></ruby> - to break, crush
-57. <ruby>[振](../../characters/振%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> - shake
-58. <ruby>[挺](../../characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> - stand upright
-59. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - to pull, draw back
-60. <ruby>[挿](../../characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> - insert
-61. <ruby>[捉](../../characters/捉.md)<rt>ㄐㄚㄎ</rt></ruby> - clutch
-62. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - to break, disentangle
-63. <ruby>[捏](../../characters/捏.md)<rt>ㄋㄝㄊ</rt></ruby> - fabricate
-64. <ruby>[捕](../../characters/捕%20(char).md)<rt>ㄅㄛ</rt></ruby> - catch
-65. <ruby>[捜](../../characters/捜.md)<rt>ㄙㄛㄨ</rt></ruby> - search
-66. <ruby>[𢭏](../../characters/𢭏.md)<rt>ㄊㄚㄨ</rt></ruby> - thresh
-67. <ruby>[𢭐](../../characters/𢭐.md)<rt>ㄌㄚㄨ</rt></ruby> - dredge
+53. <ruby>[挙](../../characters/挙%20(char).md)<rt>ㄍ⼄</rt></ruby> - raise
+54. <ruby>[挨](../../characters/挨.md)<rt>ㄚㄧ</rt></ruby> - dawdle
+55. <ruby>[挫](../../characters/挫.md)<rt>ㄐ⺢</rt></ruby> - to break, crush
+56. <ruby>[振](../../characters/振%20(char).md)<rt>ㄐㄧㄋ</rt></ruby> - shake
+57. <ruby>[挺](../../characters/挺.md)<rt>ㄉㄝㄫ</rt></ruby> - stand upright
+58. <ruby>[挽](../../characters/挽.md)<rt>ㄇㄛㄋ</rt></ruby> - to pull, draw back
+59. <ruby>[挿](../../characters/挿.md)<rt>ㄑㄚㄆ</rt></ruby> - insert
+60. <ruby>[捉](../../characters/捉.md)<rt>ㄐㄚㄎ</rt></ruby> - clutch
+61. <ruby>[捌](../../characters/捌%20(char).md)<rt>ㄅㄚㄊ</rt></ruby> - to break, disentangle
+62. <ruby>[捏](../../characters/捏.md)<rt>ㄋㄝㄊ</rt></ruby> - fabricate
+63. <ruby>[捕](../../characters/捕%20(char).md)<rt>ㄅㄛ</rt></ruby> - catch
+64. <ruby>[捜](../../characters/捜.md)<rt>ㄙㄛㄨ</rt></ruby> - search
+65. <ruby>[𢭏](../../characters/𢭏.md)<rt>ㄊㄚㄨ</rt></ruby> - thresh
+66. <ruby>[𢭐](../../characters/𢭐.md)<rt>ㄌㄚㄨ</rt></ruby> - dredge
+67. <ruby>[拿](../../characters/拿.md)<rt>ㄋㄚ</rt></ruby> - take, grasp
 
 ### +7 Strokes
 68. <ruby>[捧](../../characters/捧%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - hold up in two hands

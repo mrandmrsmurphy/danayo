@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 158
+size: 159
 tags: [lookup]
 
 ---
@@ -15,7 +15,7 @@ Top component has 2 strokes. Dominant components: 亠, 𠆢, 丷, 冖, 人.
 5. [SKIP-2-2-5](lookup/SKIP/SKIP-2/SKIP-2-2-5.md): 亨, 余, 克, 免, 含, 希, 弟, 忘, 甬, 矣, 角, 谷, 辛, 兌
 6. [SKIP-2-2-6](lookup/SKIP/SKIP-2/SKIP-2-2-6.md): 享, 京, 卒, 卓, 参, 命, 夜, 尭, 斉, 盲, 育, 肴, 舎, 金, 㑒
 7. [SKIP-2-2-7](lookup/SKIP/SKIP-2/SKIP-2-2-7.md): 亭, 兪, 冠, 勇, 南, 哀, 帝, 怠, 急, 盆, 貞, 負, 軍, 面, 音, 頁, 食, 首, 兗, 酋
-8. [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md): 倉, 冤, 冥, 夏, 恋, 旁, 桑, 畜, 真, 翁, 脅, 衰, 釜, 高
+8. [SKIP-2-2-8](lookup/SKIP/SKIP-2/SKIP-2-2-8.md): 倉, 冤, 冥, 夏, 恋, 旁, 桑, 畜, 真, 翁, 脅, 衰, 釜, 高, 拿
 9. [SKIP-2-2-9](lookup/SKIP/SKIP-2/SKIP-2-2-9.md): 亀, 冕, 商, 斎, 曽, 毫, 牽, 率, 盒, 章, 貧, 貪, 魚
 10. [SKIP-2-2-10](lookup/SKIP/SKIP-2/SKIP-2-2-10.md): 傘, 無, 童, 翕, 蛮, 象
 11. [SKIP-2-2-11](lookup/SKIP/SKIP-2/SKIP-2-2-11.md): 亶, 夢, 愈, 意, 棄, 禽, 稟, 雍, 裔

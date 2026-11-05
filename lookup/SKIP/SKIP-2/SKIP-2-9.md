@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 22
+size: 21
 tags: [lookup]
 
 ---
@@ -11,7 +11,7 @@ Top component has 9 strokes. Dominant components: 心, 臣, 大.
 1. none
 2. [SKIP-2-9-2](lookup/SKIP/SKIP-2/SKIP-2-9-2.md): 兜
 3. [SKIP-2-9-3](lookup/SKIP/SKIP-2/SKIP-2-9-3.md): 喪, 堅, 堡, 奥, 幇, 尞
-4. [SKIP-2-9-4](lookup/SKIP/SKIP-2/SKIP-2-9-4.md): 想, 惹, 愁, 愚, 感, 暋, 楽, 照, 聖, 腎
+4. [SKIP-2-9-4](lookup/SKIP/SKIP-2/SKIP-2-9-4.md): 想, 愁, 愚, 感, 暋, 楽, 照, 聖, 腎
 5. [SKIP-2-9-5](lookup/SKIP/SKIP-2/SKIP-2-9-5.md): 碧
 6. [SKIP-2-9-6](lookup/SKIP/SKIP-2/SKIP-2-9-6.md): 緊
 7. [SKIP-2-9-7](lookup/SKIP/SKIP-2/SKIP-2-9-7.md): 豎, 賢

@@ -29,6 +29,9 @@ tags: [lookup]
 ### +14 Strokes
 7. <ruby>[㽉](../../characters/㽉.md)<rt>ㄏㄛㄇ</rt></ruby> - big jar
 
+### Aliases
+- 瓯 --> 甌
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
