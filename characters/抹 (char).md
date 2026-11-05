@@ -30,7 +30,7 @@ mc_id: 0
 graphemic_classification: "末"
 stand_in: "抹"
 注音: "ㄇㄚㄊ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -50,5 +50,5 @@ boundedness: 90
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
 ## Words
-- <ruby>[[抹]]<rt>ㄇㄚㄊ</rt></ruby> "rub, wipe"
+- <ruby>[[抹]]<rt>ㄇㄚㄊ</rt></ruby> "rub, wipe" (stand-in for 抹)
 - <ruby>[[塗抹]]<rt>ㄉㄛ·ㄇㄚㄊ</rt></ruby> "smear, scribble"

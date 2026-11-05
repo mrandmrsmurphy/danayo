@@ -8,7 +8,8 @@ japanese:
   - HAN
   - HEN
 japanese_native:
-  - ふん
+  - やつ
+  - よそお
 vietnamese:
   - phẫn
 middle_chinese_initial: p
@@ -30,7 +31,7 @@ mc_id: 8296
 graphemic_classification: "分"
 stand_in: "扮"
 注音: "ㄈㄧㄋ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character

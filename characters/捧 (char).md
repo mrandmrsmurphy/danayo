@@ -30,7 +30,7 @@ mc_id: 4456
 graphemic_classification: "奉"
 stand_in: "捧"
 注音: "ㄆㄛㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
