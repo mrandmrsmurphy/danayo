@@ -44,6 +44,9 @@ tags: [lookup]
 ### +9 Strokes
 16. <ruby>[兜](../../characters/兜%20(char).md)<rt>ㄉㄨ</rt></ruby> - helmet
 
+### Aliases
+- 兖 --> 兗
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

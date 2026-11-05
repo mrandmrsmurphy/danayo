@@ -46,6 +46,7 @@ tags:
 - 㲵 --> 宵
 - 㸘 --> 万
 - 淨 --> 浄
+- 龛 --> 龕
 
 ## Data check
 ```dataview

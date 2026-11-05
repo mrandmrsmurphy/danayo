@@ -32,7 +32,7 @@ graphemic_classification: 己
 stand_in: 改
 注音: ㄍㄚㄧ
 kwin: true
-date-last-perfect: 2026-10-09
+date-last-perfect: 2026-11-05
 tags:
   - character
 boundedness: 80
@@ -51,7 +51,7 @@ boundedness: 80
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[改]]<rt>ㄍㄚㄧ</rt></ruby> "to change; to redo; to renew"
+- <ruby>[[改]]<rt>ㄍㄚㄧ</rt></ruby> "to change; to redo; to renew" (stand-in for 改)
 - <ruby>[[改元]]<rt>ㄍㄚㄧ⼔ㄋ</rt></ruby> "change of era name"
 - <ruby>[[改善]]<rt>ㄍㄚㄧㄙ·⼶ㄋ</rt></ruby> "improvement; reform"
 - <ruby>[[改変]]<rt>ㄍㄚㄧㄅ⼶ㄋ</rt></ruby> "alteration; change"

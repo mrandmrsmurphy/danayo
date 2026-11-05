@@ -29,6 +29,7 @@ It occurs as a phonetic complement in some fairly common Chinese characters, for
 4. <ruby>[[龕 (char)|龕]]<rt>ㄌㄚㄇ</rt></ruby> - shrine
 
 ### Aliases
+- 龛 --> 龕
 * 龎 --> variant of 龐
 * 龏 --> variant of 恭
 * 龒 --> ancient variant of 龍 

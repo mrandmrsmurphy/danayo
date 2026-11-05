@@ -42,6 +42,7 @@ tags:
 - 诞 --> 誕
 - 闹 --> 閙
 - 拔 --> 抜
+- 兖 --> 兗
 
 ## Data check
 ```dataview

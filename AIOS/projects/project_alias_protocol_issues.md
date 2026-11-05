@@ -80,3 +80,9 @@ Suggest: a one-time check of all `3-4-N` pages against EDRDG before the loop rea
 齢 has `stroke_count: 20` and `skip_number: 1-15-5`. EDRDG gives the shinjitai 齢 (the page's own headword, U+9F62) **17 strokes and SKIP 1-12-5** (歯 12 + 令 5), and gives the alias 齡 (U+9F61) 20 strokes and SKIP 1-15-5 (齒 15 + 令 5). So the page's numbers belong to 齡, not 齢. The radical is also 齒 on the page (Radical 211, which is the same radical page for 歯/齒). Following your EDRDG-wins ruling, 齢 would move to 17 strokes and SKIP 1-12-5 (Stroke 20 → Stroke 17, SKIP-1-15-5 → SKIP-1-12-5), and 齡 would keep 20 / 1-15-5 as the alias's numbers. Neither 齢 nor 齡 is on the CC lists, so `mc_id` 4728 is a long-tail rank and is not affected.
 
 齢 was **not stamped**; nothing was changed. This is probably a pattern for any shinjitai page whose numbers were taken from the traditional form (we saw it with 冪, 惹 and 逗 in a different guise).
+
+## OPEN 2026-11-05 — 朮 and 術: the alias 术 is listed on both pages
+
+`characters/朮.md` and `characters/術 (char).md` both list **术** under `aliases:`. 术 (U+672F) is the standard simplified Chinese form of 術 ("skill, method"), and it is also the simplified/variant form of 朮 ("atractylodes", per Wiktionary and the Japanese dictionaries, which treat 术 as a form of 朮). Because 术 is a single character, it can redirect to only one page, and the new `## Aliases` redirect lines (`术 --> …`) on Stroke 05 / SKIP / Radical 075 would be ambiguous. EDRDG has no entry for 术.
+
+朮 was **not stamped** and nothing was changed. Suggestion: 术 almost certainly belongs to 術 (the common word), so remove it from 朮's `aliases:`; or, if you want people who type 术 to reach the plant, keep it on 朮 and drop it from 術. Which one?

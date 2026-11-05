@@ -29,6 +29,7 @@ tags: [lookup]
 
 ### Aliases
 - 单 --> 単
+- 兖 --> 兗
 
 ## Datacheck
 ```dataview

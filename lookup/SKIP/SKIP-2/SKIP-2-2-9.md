@@ -24,6 +24,9 @@ tags: [lookup]
 12. <ruby>[貪](characters/貪%20(char).md)<rt>ㄊㄚㄇ</rt></ruby> "greedy"
 13. <ruby>[魚](characters/魚%20(char).md)<rt>⼄</rt></ruby> "fish"
 
+### Aliases
+- 龛 --> 龕
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
