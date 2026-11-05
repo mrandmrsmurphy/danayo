@@ -47,5 +47,8 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 璣 | 玑 | 1-4-2 | simplified; 王 4 + 几 2 |
 | 硅 | 矽 | 1-5-3 | 石 5 + 夕 3; no source lists it |
 | 練 | 练 | 1-3-5 | simplified; 纟 3 + 右半 5 |
+| 詔 | 诏 | 1-2-5 | simplified; 讠 2 + 召 5 |
+| 誕 | 诞 | 1-2-6 | simplified; 讠 2 + 延 6 (Chinese stroke count of 延; the Japanese count would give 1-2-8) |
+| 賛 | 赞 | 2-12-4 | simplified; 兟 12 over 贝 4 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

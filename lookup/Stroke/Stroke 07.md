@@ -33,6 +33,7 @@ tags:
 - 阳 --> 陽
 - 鸡 --> 鶏
 - 戼 --> 卯
+- 诏 --> 詔
 
 ## Data check
 ```dataview

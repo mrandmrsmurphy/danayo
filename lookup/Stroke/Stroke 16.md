@@ -45,6 +45,7 @@ tags:
 - 燎 --> 療
 - 薙 --> 剃
 - 蕗 --> 路
+- 赞 --> 賛
 
 ## Data check
 ```dataview

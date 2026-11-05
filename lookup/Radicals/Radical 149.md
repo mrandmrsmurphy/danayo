@@ -134,6 +134,10 @@ tags: [lookup]
 
 ### Aliases
 - 䜌 --> 乱
+- 诏 --> 詔
+- 诞 --> 誕
+- 讃 --> 賛
+- 讚 --> 賛
 
 ## Data check
 ```dataview

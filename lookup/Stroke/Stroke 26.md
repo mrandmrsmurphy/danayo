@@ -11,6 +11,7 @@ tags: [lookup]
 - 2-12-14: <ruby>[[欝]]<rt>⼜ㄊ</rt></ruby>
 
 ### Aliases
+- 讚 --> 賛
 
 ## Data check
 ```dataview

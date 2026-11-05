@@ -39,6 +39,7 @@ tags:
 - 净 --> 浄
 - 矽 --> 硅
 - 练 --> 練
+- 诞 --> 誕
 
 ## Data check
 ```dataview

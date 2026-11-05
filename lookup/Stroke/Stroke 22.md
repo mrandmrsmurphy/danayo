@@ -22,6 +22,7 @@ tags:
 ### Aliases
 - 驍 --> 尭
 - 鱆 --> 章
+- 讃 --> 賛
 
 ## Data check
 ```dataview

@@ -36,6 +36,7 @@ tags:
 
 ### Aliases
 - 鸡 --> 鶏
+- 诏 --> 詔
 
 ## Datacheck
 ```dataview

@@ -88,6 +88,10 @@ tags:
 ### +15 Strokes
 44. <ruby>[贖](../../characters/贖.md)<rt>ㄙ⼄ㄎ</rt></ruby> - ransom
 
+### Aliases
+- 贊 --> 賛
+- 赞 --> 賛
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
