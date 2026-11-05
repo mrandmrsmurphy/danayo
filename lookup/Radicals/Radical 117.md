@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-05
-size: 8
+size: 9
 radical: 立
 tags: [lookup]
 
@@ -21,14 +21,15 @@ tags: [lookup]
 4. <ruby>[章](../../characters/章%20(char).md)<rt>ㄐㄚㄫ</rt></ruby> - chapter
 
 ### +7 Strokes
-5. <ruby>[童](../../characters/童.md)<rt>ㄉㄛㄫ</rt></ruby> - juvenile
-6. <ruby>[竦](../../characters/竦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - awe
+5. <ruby>[竣](../../characters/竣.md)<rt>ㄑㄨㄋ</rt></ruby> - complete
+6. <ruby>[童](../../characters/童.md)<rt>ㄉㄛㄫ</rt></ruby> - juvenile
+7. <ruby>[竦](../../characters/竦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - awe
 
 ### +9 Strokes
-7. <ruby>[端](../../characters/端.md)<rt>ㄉ⺢ㄋ</rt></ruby> - end
+8. <ruby>[端](../../characters/端.md)<rt>ㄉ⺢ㄋ</rt></ruby> - end
 
 ### +15 Strokes
-8. <ruby>[競](../../characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> - compete
+9. <ruby>[競](../../characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> - compete
 
 ## Data check
 ```dataview

@@ -159,7 +159,7 @@ __Combining or simplified radicals with 4 strokes__
 - [[Radical 114]] 禸 (4 characters)
 - [[Radical 115]] 禾 (35 characters)
 - [[Radical 116]] 穴 (21 characters)
-- [[Radical 117]] 立 (8 characters)
+- [[Radical 117]] 立 (9 characters)
 
 __Combining or simplified radicals with 5 strokes__
 - 71. combining 旡, used for radical 无

@@ -75,7 +75,7 @@ These have been checked for redirects
 [粥 (char)](characters/粥%20(char).md)
 
 ### 준
-[峻](characters/峻.md) [[浚]] [[晙]] [[焌]] [[竣]] [[畯]] 駿 --> 俊 [准](characters/準.md) [濬](characters/叡.md) [[雋]] [[儁]] [[埻]] [隼 (char)](characters/隼%20(char).md) [[寯]] [樽](characters/樽.md) [蠢](characters/蠢.md) [[逡]] 純 (done) [[葰]] [[竴]] [[僔]] [[陖]] [[睃]] [[餕]] [[迿]] [[惷]] [[𨶊]] || [[陖]] ([[埈]])
+[峻](characters/峻.md) [[浚]] [[晙]] [[焌]] [竣](../../characters/竣.md) [[畯]] 駿 --> 俊 [准](characters/準.md) [濬](characters/叡.md) [[雋]] [[儁]] [[埻]] [隼 (char)](characters/隼%20(char).md) [[寯]] [樽](characters/樽.md) [蠢](characters/蠢.md) [[逡]] 純 (done) [[葰]] [[竴]] [[僔]] [[陖]] [[睃]] [[餕]] [[迿]] [[惷]] [[𨶊]] || [[陖]] ([[埈]])
 
 ### 줄
 [[茁]] 

@@ -118,6 +118,7 @@ Efforts vocabulary covers trying, exerting oneself, and controlling outcomes —
 - <ruby>[既遂](../words/既遂.md)<rt>ㄍㄧㄜㄙㄨㄧ</rt></ruby>: accomplished, complete — Rosenfelder's "succeed"; Wiktionary glosses Chinese "to be successful; to be accomplished" and Japanese criminal-law "completed (as opposed to attempted)", so [[成功]] is the plain word.
 - <ruby>[成功](../words/成功.md)<rt>ㄙㄧㄫㄍㄛㄫ</rt></ruby>: to succeed, success — cross-listed from Trade.
 - <ruby>[完成](../words/完成.md)<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>: to complete, finish — cross-listed from Events.
+- <ruby>[竣工](../words/竣工.md)<rt>ㄑㄨㄋㄍㄛㄫ</rt></ruby>: to complete construction, completion of a building or engineering work.
 - <ruby>[勝利](../words/勝利.md)<rt>ㄙㄨㄫㄌㄧㄜ</rt></ruby>: victory, to win — cross-listed from Conflict.
 - <ruby>[敗北](../words/敗北.md)<rt>ㄅㄚㄧㄅㄨㄎ</rt></ruby>: defeat, to be defeated — cross-listed from Conflict.
 - <ruby>[過失](../words/過失.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: a fault, error, slip — cross-listed from Society.

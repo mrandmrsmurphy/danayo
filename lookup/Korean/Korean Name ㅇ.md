@@ -200,7 +200,7 @@ All have been checked for redirects.
 [溢](../../characters/溢.md) [[鎰]] [[馹]] [佾](characters/壱%20(char).md) [佚](characters/失.md) [壹](characters/壱%20(char).md)
 
 ### 임 
-[妊](characters/妊%20(char).md) [[稔]] [[恁]] [[荏]] [[䚾]]
+[妊](characters/妊%20(char).md) [稔](../../characters/念.md) [[恁]] [[荏]] [[䚾]]
 
 ### 입 
 [廿](characters/廿.md) 

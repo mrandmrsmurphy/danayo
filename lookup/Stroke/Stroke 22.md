@@ -20,6 +20,7 @@ tags:
 - 2-16-6: <ruby>[[襲]]<rt>ㄙㄜㄆ</rt></ruby>, <ruby>[[聾]]<rt>ㄌㄛㄫ</rt></ruby>, <ruby>[[龔]]<rt>ㄍㄛㄫ</rt></ruby>
 
 ### Aliases
+- 驍 --> 尭
 
 ## Data check
 ```dataview

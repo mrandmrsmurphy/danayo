@@ -110,7 +110,7 @@ This have all be checked for redirects.
 [[鐄]] [[宖]] 
 
 ### 효
-[[涍]] [[爻]] [[驍]] [[斅]] [[哮]] [[嚆]] [[梟]] [淆](../../characters/交%20(char).md) [肴](characters/肴%20(char).md) [酵](characters/酵.md) [[皛]] [[歊]] [[窙]] [謼](characters/呼%20(char).md) [傚](characters/効.md) 
+[[涍]] [[爻]] [驍](../../characters/%E5%B0%AD.md) [[斅]] [[哮]] [[嚆]] [[梟]] [淆](../../characters/交%20(char).md) [肴](characters/肴%20(char).md) [酵](characters/酵.md) [[皛]] [[歊]] [[窙]] [謼](characters/呼%20(char).md) [傚](characters/効.md) 
 
 ## ㅜ
 
