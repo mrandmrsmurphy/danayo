@@ -25,7 +25,7 @@ tags: [lookup]
 6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - grievance
 7. <ruby>[冥](../../characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> - dark
 
-### +14 Strokes
+### +13 Strokes
 8. <ruby>[冪](../../characters/冪.md)<rt>ㄇㄧㄎ</rt></ruby> - cover
 
 ## Data check

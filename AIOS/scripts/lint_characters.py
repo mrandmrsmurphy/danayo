@@ -27,7 +27,7 @@ Tier C  body and cross-file; only pages changed since their own `date-last-perfe
   C4  `## Aliases` (rolling out page by page; a page with `aliases:` and no such section is only counted as a to-do):
       sits between `## Notes` and `## Words`; has one `### X` subsection per `aliases:` entry, in the same order;
       each subsection states a SKIP number and a stroke count; the alias is an unlinked `X --> main` redirect on its
-      Stroke page, its SKIP leaf, and its radical page (the `Radical NNN` it names, else the main radical's).
+      Stroke page, its SKIP leaf, and its radical page (the `Radical NNN` it names, else the main radical's; none when the subsection says "has no radical", for a symbol such as 〇).
 Not checked: prose, Old Chinese reconstructions, whether a reading is right against sources.
 
 Ground truth is the working tree, so uncommitted edits count. Never edits except the final stamp.
@@ -393,6 +393,8 @@ if not IDS_ONLY:
                     kp = read(f'lookup/SKIP/SKIP-{sk.group(1)}/SKIP-{sk.group(1)}-{sk.group(2)}-{sk.group(3)}.md') or ''
                     if line + bare not in kp:
                         add('C4', 'alias is not an unlinked redirect on its SKIP leaf', f'{stem} / {a}')
+                if re.search(r'has no radical', txt):
+                    continue
                 rn = re.search(r'[Rr]adical (\d{3})', txt)
                 rp = f'lookup/Radicals/Radical {rn.group(1)}.md' if rn else radpage.get(get('radical'))
                 if rp is None or line + bare not in (read(rp) or ''):

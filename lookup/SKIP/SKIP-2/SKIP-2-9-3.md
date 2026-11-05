@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[幇](/characters/幇.md)<rt>ㄅㄚㄫ</rt></ruby> "help"
 6. <ruby>[尞](characters/尞%20(char).md)<rt>ㄌ⼘</rt></ruby> "bonfire"
 
+### Aliases
+- 幂 --> 冪
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

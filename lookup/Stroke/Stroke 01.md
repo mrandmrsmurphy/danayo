@@ -20,6 +20,7 @@ tags: [lookup]
 - 乚
 - 乛
 - 亅
+- 〇 --> 零
 
 ## Data check
 ```dataview

@@ -16,6 +16,7 @@ tags: [lookup]
 - 丶 is an alias of [[Radical 003]], "dot"
 * 丿 is an alias of [[Radical 004]], "slash"
 * 亅 is an alias of [[Radical 006]], "hook" 
+- 〇 --> 零
 ### Forbidden
 
 ## Datacheck

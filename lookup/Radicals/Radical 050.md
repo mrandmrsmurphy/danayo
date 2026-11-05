@@ -56,6 +56,9 @@ tags:
 23. <ruby>[幟](../../characters/幟%20(char).md)<rt>ㄑㄧ</rt></ruby> - pennant
 24. <ruby>[幣](../../characters/幣%20(char).md)<rt>ㄆㄝ</rt></ruby> - cash
 
+### Aliases
+- 幂 --> 冪
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

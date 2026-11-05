@@ -20,8 +20,8 @@ Top component has 2 strokes. Dominant components: 亠, 𠆢, 丷, 冖, 人.
 10. [SKIP-2-2-10](lookup/SKIP/SKIP-2/SKIP-2-2-10.md): 傘, 無, 童, 翕, 蛮, 象
 11. [SKIP-2-2-11](lookup/SKIP/SKIP-2/SKIP-2-2-11.md): 亶, 夢, 愈, 意, 棄, 禽, 稟, 雍, 裔
 12. [SKIP-2-2-12](lookup/SKIP/SKIP-2/SKIP-2-2-12.md): 膏, 豪
-13. [SKIP-2-2-13](lookup/SKIP/SKIP-2/SKIP-2-2-13.md): 憂, 舞, 褒, 魯
-14. [SKIP-2-2-14](lookup/SKIP/SKIP-2/SKIP-2-2-14.md): 冪, 橐
+13. [SKIP-2-2-13](lookup/SKIP/SKIP-2/SKIP-2-2-13.md): 冪, 憂, 舞, 褒, 魯
+14. [SKIP-2-2-14](lookup/SKIP/SKIP-2/SKIP-2-2-14.md): 橐
 15. [SKIP-2-2-15](lookup/SKIP/SKIP-2/SKIP-2-2-15.md): ø
 16. [SKIP-2-2-16](lookup/SKIP/SKIP-2/SKIP-2-2-16.md): 甕
 17. [SKIP-2-2-17](lookup/SKIP/SKIP-2/SKIP-2-2-17.md): 羸, 麗

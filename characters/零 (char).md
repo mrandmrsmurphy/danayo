@@ -34,7 +34,7 @@ stand_in: 零
 aliases:
   - 〇
 注音: ㄌㄝㄫ
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 100
 - [SKIP-2-8-5](../lookup/SKIP/SKIP-2/SKIP-2-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1716th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](../syllables/ㄌㄝㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 〇
+The ideographic zero, used for 零 in kanji positional numerals (二〇二六). It is a symbol, not a Han character, and has no radical. SKIP 4-1-4 (computed: EDRDG does not list it), the same leaf as 一; 1 stroke. It has no rank in the Classical Chinese lists, so the `mc_id` 1716 is 零's own.
 
 ## Words
 - <ruby>[[零]]<rt>ㄌㄝㄫ</rt></ruby> "zero"

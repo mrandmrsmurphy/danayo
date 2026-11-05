@@ -1,7 +1,7 @@
 ---
 stroke_count: 15
 date-last-perfect: 2026-11-04
-size: 204
+size: 205
 tags:
   - lookup
 ---
@@ -21,7 +21,7 @@ tags:
 - 1-11-4: <ruby>[[歓]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[戯]]<rt>ㄏㄨㄧ</rt></ruby>, <ruby>[[戮]]<rt>ㄌㄨㄎ</rt></ruby>, <ruby>[[翫]]<rt>⺢ㄋ</rt></ruby>, <ruby>[[敷 (char)|敷]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[魶 (char)|魶]]<rt>ㄋㄨㄆ</rt></ruby>, <ruby>[[毅]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[敵]]<rt>ㄉㄝㄎ</rt></ruby>
 - 1-12-3: <ruby>[[鄭]]<rt>ㄐㄝㄫ</rt></ruby>, <ruby>[[鄧]]<rt>ㄉㄨㄫ</rt></ruby>, <ruby>[[影]]<rt>⼶ㄫ</rt></ruby>
 - 1-13-2: <ruby>[[劉]]<rt>ㄌ⼜</rt></ruby>, <ruby>[[劇 (char)|劇]]<rt>ㄍㄝㄎ</rt></ruby>
-- 2-2-13: <ruby>[[舞]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[憂]]<rt>⼜</rt></ruby>, <ruby>[[魯]]<rt>ㄌㄛㄇ</rt></ruby>, <ruby>[[褒 (char)|褒]]<rt>ㄆㄚㄨ</rt></ruby>
+- 2-2-13: <ruby>[[冪]]<rt>ㄇㄧㄎ</rt></ruby>, <ruby>[[舞]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[憂]]<rt>⼜</rt></ruby>, <ruby>[[魯]]<rt>ㄌㄛㄇ</rt></ruby>, <ruby>[[褒 (char)|褒]]<rt>ㄆㄚㄨ</rt></ruby>
 - 2-3-12: <ruby>[[賓]]<rt>ㄅㄧㄋ</rt></ruby>, <ruby>[[蕩]]<rt>ㄉㄚㄫ</rt></ruby>, <ruby>[[審]]<rt>ㄙㄧㄇ</rt></ruby>, <ruby>[[蔬]]<rt>ㄙㄜ</rt></ruby>, <ruby>[[蔵]]<rt>ㄑㄚㄫ</rt></ruby>, <ruby>[[蕃]]<rt>ㄈㄚㄋ</rt></ruby>, <ruby>[[窮]]<rt>ㄍㄨㄫ</rt></ruby>, <ruby>[[寮]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[蕎]]<rt>ㄍ⼘ㄨ</rt></ruby>, <ruby>[[窯 (char)|窯]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[養]]<rt>⼘ㄫ</rt></ruby>, <ruby>[[蔽]]<rt>ㄆㄝ</rt></ruby>, <ruby>[[蕪]]<rt>ㄇㄨ</rt></ruby>, <ruby>[[蕤]]<rt>ㄋㄨㄧ</rt></ruby>
 - 2-4-11: <ruby>[[暴 (char)|暴]]<rt>ㄅㄛㄎ</rt></ruby>, <ruby>[[靠]]<rt>ㄎㄚㄨ</rt></ruby>
 - 2-5-10: <ruby>[[罷]]<rt>ㄅㄚㄧ</rt></ruby>, <ruby>[[罵]]<rt>ㄇㄚ</rt></ruby>, <ruby>[[磊]]<rt>ㄌㄛㄧ</rt></ruby>, <ruby>[[駕]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[賞 (char)|賞]]<rt>ㄙ⼘ㄫ</rt></ruby>

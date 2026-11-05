@@ -45,6 +45,7 @@ tags: [lookup]
 - 絕 --> 絶
 - 储 --> 儲
 - 單 --> 単
+- 幂 --> 冪
 
 ## Data check
 ```dataview

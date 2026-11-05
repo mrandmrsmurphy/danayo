@@ -1,7 +1,7 @@
 ---
 stroke_count: 16
 date-last-perfect: 2026-11-04
-size: 151
+size: 150
 tags:
   - lookup
 ---
@@ -21,7 +21,7 @@ tags:
 - 1-11-5: <ruby>[[鮐]]<rt>ㄊㄚㄧ</rt></ruby>, <ruby>[[鮎 (char)|鮎]]<rt>ㄋㄝㄇ</rt></ruby>, <ruby>[[鮑 (char)|鮑]]<rt>ㄅㄚㄨ</rt></ruby>, <ruby>[[甌]]<rt>ㄛㄨ</rt></ruby>
 - 1-12-4: <ruby>[[獣]]<rt>ㄙ⼜</rt></ruby>
 - 1-14-2: <ruby>[[叡]]<rt>⼶</rt></ruby>
-- 2-2-14: <ruby>[[冪]]<rt>ㄇㄧㄎ</rt></ruby>, <ruby>[[橐]]<rt>ㄊㄚㄎ</rt></ruby>
+- 2-2-14: <ruby>[[橐]]<rt>ㄊㄚㄎ</rt></ruby>
 - 2-3-13: <ruby>[[薬 (char)|薬]]<rt>⼘ㄎ</rt></ruby>, <ruby>[[蒙]]<rt>ㄇㄛㄫ</rt></ruby>, <ruby>[[薄]]<rt>ㄅㄚㄎ</rt></ruby>, <ruby>[[薪]]<rt>ㄙㄧㄋ</rt></ruby>, <ruby>[[薫 (char)|薫]]<rt>ㄏㄨㄋ</rt></ruby>, <ruby>[[奮]]<rt>ㄈㄨㄋ</rt></ruby>, <ruby>[[蒼 (char)|蒼]]<rt>ㄑ⺢ㄫ</rt></ruby>, <ruby>[[薨]]<rt>ㄏㄛㄫ</rt></ruby>, <ruby>[[薔]]<rt>ㄑ⺢ㄫ</rt></ruby>, <ruby>[[薛]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[窺 (char)|窺]]<rt>ㄎㄨㄧ</rt></ruby>, <ruby>[[薇]]<rt>ㄇㄧㄜ</rt></ruby>, <ruby>[[薦]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[憲]]<rt>ㄏㄝㄋ</rt></ruby>, <ruby>[[嬴]]<rt>⼶ㄫ</rt></ruby>
 - 2-4-12: <ruby>[[燕]]<rt>ㄝㄋ</rt></ruby>, <ruby>[[曇 (char)|曇]]<rt>ㄉㄚㄇ</rt></ruby>
 - 2-5-11: <ruby>[[罹]]<rt>ㄌㄧ</rt></ruby>, <ruby>[[鴦]]<rt>ㄚㄫ</rt></ruby>, <ruby>[[鴛]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[黛]]<rt>ㄉㄚㄧ</rt></ruby>
