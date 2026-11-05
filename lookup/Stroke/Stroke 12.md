@@ -44,6 +44,7 @@ tags: [lookup]
 - 隈 --> 畏
 - 絕 --> 絶
 - 储 --> 儲
+- 單 --> 単
 
 ## Data check
 ```dataview

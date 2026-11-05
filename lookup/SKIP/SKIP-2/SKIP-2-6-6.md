@@ -43,6 +43,9 @@ tags: [lookup]
 - 畫 --> 画
 - 筝 --> 箏
 
+### Aliases
+- 單 --> 単
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -40,6 +40,9 @@ tags: [lookup]
 ### +10 Strokes
 14. <ruby>[博](../../characters/博.md)<rt>ㄅㄚㄎ</rt></ruby> - broad
 
+### Aliases
+- 单 --> 単
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

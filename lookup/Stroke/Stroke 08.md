@@ -35,6 +35,7 @@ tags:
 - 杵 --> 午
 - 视 --> 視
 - 驶 --> 使
+- 单 --> 単
 
 ## Data check
 ```dataview

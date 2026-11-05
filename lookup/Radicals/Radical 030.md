@@ -167,6 +167,7 @@ tags: [lookup]
 
 ### Aliases
 - 唤 --> 喚
+- 單 --> 単
 
 ## Data check
 ```dataview

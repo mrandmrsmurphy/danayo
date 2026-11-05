@@ -27,6 +27,9 @@ tags: [lookup]
 14. <ruby>[金](characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> "metal"
 15. <ruby>[㑒](characters/㑒.md)<rt>ㄑㄨㄇ</rt></ruby> "unanimous"
 
+### Aliases
+- 单 --> 単
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
