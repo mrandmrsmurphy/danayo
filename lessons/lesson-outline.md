@@ -86,28 +86,28 @@ This curriculum guides learners from **sound → characters → basic sentences 
 
 ## CORE TIER: Basic Sentence Structure (Lessons 04–08)
 
-### Lesson 04: Topic-Comment Structure (The Foundation)
-**Goal**: Learner understands that Dan'a'yo is **Topic-prominent**, not subject-prominent, and can construct simple Topic-Comment sentences.
+### [[Lesson 04]]: Topic-Comment Structure (The Foundation)
+**Goal**: Learner understands that Dan'a'yo is **topic-prominent**, not subject-prominent, and can read and write simple topic–comment sentences with the 30 new words.
 
 **Why early**: This is the most alien concept for English speakers and underpins all subsequent grammar.
 
+**Rate**: 30 new words and 20 new characters (all Grade 1), in five batches; every new word is used in a worked example and an exercise in the same lesson.
+
 **Core concepts**:
-- **Topic** = what you're talking about (extra-clausal)
-- **Comment** = what you're saying about it (the predicate)
-- Topic-Comment ≠ Subject-Predicate
-- **Simultaneous topic and subject** (Japanese は vs が parallels)
+- **Topic** (主題) = what you are talking about; **comment** (述語) = what you say about it
+- Topic–comment is not subject–predicate
+- **Simultaneous topic and subject** (Japanese は vs が parallels): 市場 人 多
+- A quality (stative) needs no "is": 山 大
+- A verb (eventive) and its object are written together: 我 見雪
+- A **frame** (域, a 於 phrase) goes between the topic and the comment: 我 学校於 見先生
+- Literary style only; noun comments and copulas wait for Lesson 05
 
-**Examples**:
-- 天 高。"As for the sky, (it) is high." (Topic: 天 "sky" / Comment: 高 "high")
-- 我 市場於 行。"As for me, at the market, go." (Topic-fronting of locative phrase)
-- 荘子 智慧太。"As for Zhuangzi, his wisdom-great." (Zhuangzi is topic; 智慧 is subject within comment)
+**Practice**:
+- Find the topic and the comment in 10 sentences; spot a subject inside the comment
+- Say what each of the 30 new words means
+- Read 8 sentences and write 7 from English; put 5 mixed-up sentences in order
 
-**Exercises**:
-- Identify topic vs. comment in 10 given sentences
-- Convert 5 English sentences into Topic-Comment structure
-- Construct 5 original Topic-Comment sentences from prompts
-
-**Reference**: `grammar/文法 - 04句法.en.md` (Syntax section)
+**Reference**: `lessons/Lesson 04.md`, `grammar/文法 - 04句法.en.md`, `grammar/文法 - 97品詞.md`
 
 ---
 
