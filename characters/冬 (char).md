@@ -32,7 +32,7 @@ aliases:
   - 㫡
   - 鼕
 注音: ㄊㄛㄫ
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character
@@ -50,6 +50,17 @@ boundedness: 80
 - [SKIP-2-3-2](../lookup/SKIP/SKIP-2/SKIP-2-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 364th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 冬|uoŋ]] → [ㄊㄛㄫ](../syllables/ㄊㄛㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 昸
+Rare variant of 冬 with 日 ("sun") added at the side, glossed "winter, the 11th lunar month". Radical 072 日; SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. It has no rank in the Classical Chinese lists.
+
+### 㫡
+Rare variant of 冬 with 日 added above, glossed "winter; the period from the 10th to the 12th moon". Radical 072 日; SKIP 2-4-5 (computed: EDRDG does not list it); 9 strokes. It has no rank in the Classical Chinese lists.
+
+### 鼕
+Written as 冬 as a 代用字: 鼕 is the rattle of drums (鼕鼕), a rare character with no page of its own, built on 冬 as its phonetic. Radical 207 鼓; SKIP 2-13-5; 18 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 364 is 冬's own.
 
 ## Words
 - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby> "winter"

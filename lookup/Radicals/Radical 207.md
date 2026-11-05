@@ -11,6 +11,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[鼓](../../characters/鼓%20(char).md)<rt>ㄍㄛ</rt></ruby> - drum
 
+### Aliases
+- 鼕 --> 冬
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

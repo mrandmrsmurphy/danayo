@@ -100,6 +100,10 @@ tags: [lookup]
 ### +14 Strokes
 60. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
 
+### Aliases
+- 昸 --> 冬
+- 㫡 --> 冬
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -31,6 +31,9 @@ tags: [lookup]
 18. <ruby>[曷](characters/曷%20(char).md)<rt>ㄏㄨㄊ</rt></ruby> "what, why"
 19. <ruby>[显](characters/显.md)<rt>ㄎㄛㄆ</rt></ruby> "chrysalis"
 
+### Aliases
+- 㫡 --> 冬
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

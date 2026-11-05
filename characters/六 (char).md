@@ -7,7 +7,7 @@ japanese:
   - ROKU
   - RIKU
 japanese_native:
-  - く
+  - む
   - むつ
 vietnamese:
   - lúc
@@ -35,7 +35,7 @@ mc_id: 76
 graphemic_classification: 指事
 stand_in: 六
 注音: ㄌㄨㄎ
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character
