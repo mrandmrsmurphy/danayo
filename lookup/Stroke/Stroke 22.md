@@ -21,6 +21,7 @@ tags:
 
 ### Aliases
 - 驍 --> 尭
+- 鱆 --> 章
 
 ## Data check
 ```dataview

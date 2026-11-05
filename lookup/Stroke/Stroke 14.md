@@ -49,6 +49,7 @@ tags:
 - 蔦 --> 鳥
 - 榎 --> 夏
 - 箇 --> 個
+- 嶂 --> 章
 
 ## Data check
 ```dataview

@@ -51,6 +51,9 @@ tags: [lookup]
 22. <ruby>[屿](../../characters/屿.md)<rt>ㄙ⼄</rt></ruby> - islet
 23. <ruby>[嶺](../../characters/嶺.md)<rt>ㄌㄧㄫ</rt></ruby> - mountain range
 
+### Aliases
+- 嶂 --> 章
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

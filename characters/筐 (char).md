@@ -32,7 +32,7 @@ stand_in: "筐"
 aliases:
   - 筺
 注音: "ㄎ⺢ㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 75
 - [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2774th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄎ⺢ㄫ](../syllables/ㄎ⺢ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 筺
+Variant of 筐, written with 匤, an old form of the phonetic 匡. SKIP 2-6-7; 13 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 2774 is 筐's own.
 
 ## Words
 - <ruby>[[筐]]<rt>ㄎ⺢ㄫ</rt></ruby> "bamboo basket" (stand-in for 筐)

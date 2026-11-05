@@ -33,7 +33,7 @@ aliases:
   - 鱆
   - 鮹
 注音: "ㄐㄚㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -41,14 +41,27 @@ boundedness: 90
 ---
 >[!tip] This is a page about the character 章.
 >For the word, see [章](../words/章.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 会意 of [[辛]] ("chisel") and [[玉 (char)|玉]] ("jade", now written as 日) — incising a pattern into jade; "mark, seal," later "chapter, section."
 - [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 365th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐㄚㄫ](../syllables/ㄐㄚㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 嶂
+Written as 章 as a 代用字: 嶂 "mountain barrier, cliff" (as in 屏嶂) is a rare character with no page of its own, built on 章 as its phonetic. Radical 046 山; SKIP 1-3-11; 14 strokes. It has no rank in the Classical Chinese lists.
+
+### 鱆
+Written as 章 as a 代用字: 鱆 is "octopus" (鱆魚, the same word as 章魚 by loan), a rare character with no page of its own. Radical 195 魚; SKIP 1-11-11; 22 strokes. It has no rank in the Classical Chinese lists.
+
+### 鮹
+Written as 章 as a 代用字: 鮹 is a variant spelling of the octopus character 蛸, a rare character with no page of its own. Radical 195 魚; SKIP 1-11-7; 18 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 365 is 章's own.
 
 ## Words
 - <ruby>[[章]]<rt>ㄐㄚㄫ</rt></ruby> "chapter" (stand-in for 章)

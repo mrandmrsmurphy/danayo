@@ -46,6 +46,10 @@ tags: [lookup]
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
 18. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
 
+### Aliases
+- 鱆 --> 章
+- 鮹 --> 章
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

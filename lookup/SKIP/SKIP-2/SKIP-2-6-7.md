@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[賈](/characters/賈.md)<rt>ㄍㄚ</rt></ruby> "merchant"
 8. <ruby>[豊](/characters/豊.md)<rt>ㄆㄨㄫ</rt></ruby> "abundant; rich; plentiful"
 
+### Aliases
+- 筺 --> 筐
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

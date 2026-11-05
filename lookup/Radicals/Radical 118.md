@@ -87,6 +87,7 @@ tags:
 
 ### Aliases
 - 箇 --> 個
+- 筺 --> 筐
 
 ## Data check
 ```dataview
