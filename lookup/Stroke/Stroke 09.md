@@ -44,6 +44,7 @@ tags:
 - 昸 --> 冬
 - 㫡 --> 冬
 - 绝 --> 絶
+- 药 --> 薬
 
 ## Data check
 ```dataview

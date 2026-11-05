@@ -31,7 +31,7 @@ stand_in: "視"
 aliases:
   - 视
 注音: "ㄙㄧㄜ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 65
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 384th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄙㄧㄜ](../syllables/ㄙㄧㄜ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 视
+Simplified Chinese form of 視, with 见 for 見. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 384 is 視's own.
 
 ## Words
 - <ruby>[[視]]<rt>ㄙㄧㄜ</rt></ruby> "look at, inspect"

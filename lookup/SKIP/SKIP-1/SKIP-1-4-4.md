@@ -54,6 +54,9 @@ tags:
 42. <ruby>[門](characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> "gate"
 43. <ruby>[非](characters/非%20(char).md)<rt>ㄈㄧ</rt></ruby> "ain't"
 
+### Aliases
+- 视 --> 視
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

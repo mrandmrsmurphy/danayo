@@ -34,7 +34,7 @@ aliases:
   - 藥
   - 药
 注音: "⼘ㄎ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 tags:
   - character
 kwin: true
@@ -52,6 +52,14 @@ boundedness: 55
 - [SKIP-2-3-13](../lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1020th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [⼘ㄎ](../syllables/⼘ㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 藥
+Traditional form (kyūjitai) of 薬, written 艹 over 樂; the shinjitai 薬 uses the simplified 楽. SKIP 2-3-15; 18 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1020 is 藥's rank.
+
+### 药
+Simplified Chinese form of 藥, with 约 for 樂. SKIP 2-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[薬]]<rt>⼘ㄎ</rt></ruby> "medicine, drug" (stand-in for 薬)

@@ -33,6 +33,7 @@ tags:
 ### Aliases
 - 枇 --> 比
 - 杵 --> 午
+- 视 --> 視
 
 ## Data check
 ```dataview

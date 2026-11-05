@@ -164,6 +164,10 @@ tags:
 ### +19 Strokes
 121. <ruby>[蘿](../../characters/蘿.md)<rt>ㄌㄚ</rt></ruby> - radish
 
+### Aliases
+- 藥 --> 薬
+- 药 --> 薬
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

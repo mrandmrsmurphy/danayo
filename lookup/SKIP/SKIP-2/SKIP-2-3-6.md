@@ -33,6 +33,9 @@ tags:
 21. <ruby>[荘](characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> "villa"
 22. <ruby>[壴](/characters/壴%20(char).md)<rt>ㄊㄨㄛ</rt></ruby> "to drum"
 
+### Aliases
+- 药 --> 薬
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
