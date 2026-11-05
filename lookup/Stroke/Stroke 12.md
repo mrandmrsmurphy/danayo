@@ -46,6 +46,7 @@ tags: [lookup]
 - 储 --> 儲
 - 單 --> 単
 - 幂 --> 冪
+- 筑 --> 築
 
 ## Data check
 ```dataview

@@ -45,6 +45,7 @@ tags: [lookup]
 
 ### Aliases
 - 單 --> 単
+- 筑 --> 築
 
 ## Datacheck
 ```dataview

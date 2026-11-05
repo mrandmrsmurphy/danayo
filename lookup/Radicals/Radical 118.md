@@ -88,6 +88,7 @@ tags:
 ### Aliases
 - 箇 --> 個
 - 筺 --> 筐
+- 筑 --> 築
 
 ## Data check
 ```dataview
