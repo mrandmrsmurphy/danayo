@@ -42,6 +42,7 @@ tags: [lookup]
 - 葵 --> 癸
 - 惺 --> 星
 - 隈 --> 畏
+- 絕 --> 絶
 
 ## Data check
 ```dataview

@@ -24,6 +24,9 @@ tags: [lookup]
 12. <ruby>[群](/characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> "flock; crowd; mob"
 13. <ruby>[辟](/characters/辟.md)<rt>ㄆㄧㄎ</rt></ruby> "dispel, refute"
 
+### Aliases
+- 粮 --> 糧
+
 ## Datacheck
 ```dataview
 TABLE radical AS "Radical", 注音 AS "Sound", skip_number AS "SKIP"

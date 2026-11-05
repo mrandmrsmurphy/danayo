@@ -31,6 +31,9 @@ tags:
 19. <ruby>[蛞](characters/蛞.md)<rt>ㄎ⺢ㄊ</rt></ruby> "slug"
 20. <ruby>[蛤](characters/蛤.md)<rt>ㄍㄚㄆ</rt></ruby> "clam"
 
+### Aliases
+- 絕 --> 絶
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

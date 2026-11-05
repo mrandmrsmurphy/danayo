@@ -124,6 +124,10 @@ tags: [lookup]
 ### +15 Strokes
 84. <ruby>[纏](../../characters/纏.md)<rt>ㄐㄝㄋ</rt></ruby> - wrap
 
+### Aliases
+- 絕 --> 絶
+- 绝 --> 絶
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

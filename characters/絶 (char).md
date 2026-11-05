@@ -37,7 +37,7 @@ aliases:
   - 絕
   - 绝
 注音: "ㄐ⼔ㄊ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -55,6 +55,14 @@ boundedness: 75
 - [SKIP-1-6-6](../lookup/SKIP/SKIP-1/SKIP-1-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 332nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 薛A三合|iuᴇt]] → [ㄐ⼔ㄊ](../syllables/ㄐ⼔ㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 絕
+Traditional form of 絶, written 糸 + 刀 over 巴; the Japanese form 絶 replaced 刀巴 with 色. SKIP 1-6-6 (computed: EDRDG does not list it), the same as 絶; 12 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 332 is 絕's rank.
+
+### 绝
+Simplified Chinese form of 絕, with 纟 for 糸 and 色 for 刀巴. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[絶]]<rt>ㄐ⼔ㄊ</rt></ruby> "discontinue" (stand-in for 絶)

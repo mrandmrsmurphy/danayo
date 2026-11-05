@@ -74,6 +74,7 @@ tags:
 
 ### Aliases
 - 洼 --> 窪
+- 绝 --> 絶
 
 ## Datacheck
 ```dataview

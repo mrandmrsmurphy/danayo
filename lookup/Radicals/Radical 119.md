@@ -47,6 +47,9 @@ tags: [lookup]
 ### +12 Strokes
 19. <ruby>[糧](../../characters/糧%20(char).md)<rt>ㄌ⼘ㄫ</rt></ruby> - provisions
 
+### Aliases
+- 粮 --> 糧
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

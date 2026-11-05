@@ -27,5 +27,7 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 冬 | 昸 | 1-4-5 | 日 4 + 冬 5 |
 | 冬 | 㫡 | 2-4-5 | 日 4 over 冬 5 |
 | 喚 | 唤 | 1-3-7 | simplified; 口 3 + 奂 7 |
+| 絶 | 絕 | 1-6-6 | 糸 6 + 刀巴 6; EDRDG has no entry for this traditional form |
+| 絶 | 绝 | 1-3-6 | simplified; 纟 3 + 色 6 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

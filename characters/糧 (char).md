@@ -31,7 +31,7 @@ stand_in: "糧"
 aliases:
   - 粮
 注音: "ㄌ⼘ㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 80
 - [SKIP-1-6-12](../lookup/SKIP/SKIP-1/SKIP-1-6-12.md) ([Stroke 18](../lookup/Stroke/Stroke%2018.md))
 - 1340th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 粮
+Simplified Chinese form of 糧, with 良 for 量; it is also used as a variant in Japanese. SKIP 1-6-7; 13 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 1340 is 糧's own.
 
 ## Words
 - <ruby>[[糧]]<rt>ㄌ⼘ㄫ</rt></ruby> "provisions" (stand-in for 糧)

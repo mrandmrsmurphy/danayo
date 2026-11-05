@@ -43,6 +43,7 @@ tags:
 - 洼 --> 窪
 - 昸 --> 冬
 - 㫡 --> 冬
+- 绝 --> 絶
 
 ## Data check
 ```dataview
