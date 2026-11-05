@@ -31,6 +31,9 @@ tags: [lookup]
 ### +14 Strokes
 10. <ruby>[凝](../../characters/凝.md)<rt>ㄜㄫ</rt></ruby> - congeal
 
+### Aliases
+- 净 --> 浄
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

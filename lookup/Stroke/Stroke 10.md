@@ -38,6 +38,7 @@ tags:
 - 唤 --> 喚
 - 债 --> 債
 - 恳 --> 懇
+- 涤 --> 浄
 
 ## Data check
 ```dataview

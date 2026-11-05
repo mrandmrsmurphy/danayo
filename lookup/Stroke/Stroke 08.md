@@ -36,6 +36,7 @@ tags:
 - 视 --> 視
 - 驶 --> 使
 - 单 --> 単
+- 净 --> 浄
 
 ## Data check
 ```dataview

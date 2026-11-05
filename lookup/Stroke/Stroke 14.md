@@ -50,6 +50,7 @@ tags:
 - 榎 --> 夏
 - 箇 --> 個
 - 嶂 --> 章
+- 滌 --> 浄
 
 ## Data check
 ```dataview

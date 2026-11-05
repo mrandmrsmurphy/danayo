@@ -76,6 +76,9 @@ tags:
 ### +14 Strokes
 38. <ruby>[璽](../../characters/璽.md)<rt>ㄙㄝ</rt></ruby> - emperor's seal
 
+### Aliases
+- 玑 --> 璣
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -48,3 +48,9 @@ Question: is 抛 7 strokes (Wiktionary, EDRDG's first count, and what 九 + 力 
 Also, 拿 has three aliases and their data differ: 拏 (EDRDG: Radical 064, 9 strokes, SKIP 2-5-4; "to connect"), 挐 (EDRDG: 10 strokes, SKIP 2-6-4; CC rank **3988**), 㧱 (no EDRDG entry; Wiktionary: Radical 064, 10 strokes, ⿰合手, so a computed SKIP 1-6-4). Under the new rule `mc_id` must be the lowest rank among the character and its aliases: 挐 is 3988 and 拿 itself is not on the CC lists, so `mc_id` 5165 should probably become 3988. 拏 and 挐 are real variants people type; 㧱 is the rare kind you said you don't need.
 
 拿 was **not stamped** and nothing was changed. Questions: (1) move 拿 to SKIP-2-2-8? (2) change `mc_id` to 3988? (3) drop 㧱 from the aliases?
+
+## OPEN 2026-11-05 — 欝: the aliases need SKIP leaves and index slots that do not exist
+
+欝 (character) checks out (EDRDG: SKIP 2-12-14, strokes 26/25, radical 木). Its aliases are 鬱 (EDRDG: Radical 192 鬯, SKIP **2-14-15**, 29 strokes, CC rank 1620 = the page's `mc_id`) and 鬰 (no EDRDG entry; Radical 192, 27 strokes; SKIP by analogy to 鬱 would be **2-12-15**). Neither leaf `SKIP-2-14-15` nor `SKIP-2-12-15` exists, and the parent indexes `SKIP-2-14.md` (slots 1-5) and `SKIP-2-12.md` (slots up to 14) have no slot 15. The earlier fix for a missing leaf (a size-0 redirect-only leaf plus an `ø` index entry, as done for 亂 at 1-12-1) assumed the slot already existed as "no"; here the index itself would have to grow to 15 slots.
+
+欝 was **not stamped**. Decide: (a) extend the two indexes to slot 15 and create the two redirect-only leaves, or (b) put alias redirects for these tall SKIP codes somewhere else. Also a judgment call: 鬰 is the rare kind of alias you said you don't need; dropping it would leave only 鬱, which people do type.

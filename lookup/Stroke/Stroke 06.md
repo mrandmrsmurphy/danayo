@@ -28,6 +28,7 @@ tags:
 ### Aliases
 - 传 --> 伝
 - 导 --> 導
+- 玑 --> 璣
 
 ## Data check
 ```dataview

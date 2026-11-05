@@ -133,6 +133,9 @@ tags:
 89. <ruby>[隆](/characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous, grand; bulging
 90. <ruby>[徘](/characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - pace back and forth
 
+### Aliases
+- 淨 --> 浄
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

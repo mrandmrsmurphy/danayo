@@ -25,6 +25,9 @@ tags:
 13. <ruby>[侮](characters/侮.md)<rt>ㄇㄨ</rt></ruby> "scorn"
 14. <ruby>[協](characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> "cooperate"
 
+### Aliases
+- 净 --> 浄
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

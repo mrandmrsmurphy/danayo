@@ -21,6 +21,9 @@ tags:
 9. <ruby>[肋](characters/肋.md)<rt>ㄌㄜㄎ</rt></ruby> "rib"
 10. <ruby>[肌](characters/肌.md)<rt>ㄍㄧㄜ</rt></ruby> "skin"
 
+### Aliases
+- 玑 --> 璣
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -43,5 +43,8 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 導 | 导 | 2-3-3 | simplified; 巳 3 over 寸 3 |
 | 徴 | 徵 | 1-3-12 | three-part glyph; 彳 3 against the rest 12 |
 | 懇 | 恳 | 2-6-4 | simplified; 艮 6 over 心 4 |
+| 浄 | 净 | 1-2-6 | simplified; 冫 2 + 争 6 |
+| 浄 | 涤 | 1-3-7 | simplified; 氵 3 + 条 7 |
+| 璣 | 玑 | 1-4-2 | simplified; 王 4 + 几 2 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
