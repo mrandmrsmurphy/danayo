@@ -30,7 +30,7 @@ mc_id: 2716
 graphemic_classification: "咅"
 stand_in: "陪"
 注音: "ㄅㄛㄧ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character

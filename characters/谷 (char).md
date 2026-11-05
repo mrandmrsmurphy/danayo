@@ -32,7 +32,7 @@ mc_id: 783
 graphemic_classification: "象形"
 stand_in: "谷"
 注音: "ㄍㄛㄎ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -52,7 +52,7 @@ boundedness: 80
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby> "valley"
+- <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby> "valley" (stand-in for 谷)
 - <ruby>[[出谷記]]<rt>ㄑㄨㄊㄍㄛㄎㄍㄧ</rt></ruby> "Exodus"
 
 ## Derived Characters
