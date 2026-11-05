@@ -21,7 +21,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 宵 | 㲵 | 3-4-7 | enclosure 气 around 肖 |
 | 宵 | 䨭 | 1-12-7 | 雲 12 + 肖 7 |
 | 書 | 书 | 4-4-3 | SKIP-4 subtype 3 (prominent vertical stroke) |
-| 窪 | 洼 | 1-3-6 | 氵 3 + 圭 6 |
 | 万 | 㸘 | 2-4-7 | 父 over 𦉬 |
 | 万 | 𥝅 | 2-10-5 | glyph stacks 臼, 龱, 禸 (GlyphWiki); top 10 over 禸 5 |
 | 冬 | 昸 | 1-4-5 | 日 4 + 冬 5 |
