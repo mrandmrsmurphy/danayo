@@ -48,6 +48,9 @@ tags: [lookup]
 ### +13 Strokes
 19. <ruby>[饗](../../characters/饗.md)<rt>ㄏ⼘ㄫ</rt></ruby> - banquet
 
+### Aliases
+- 饭 --> 飯
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -28,6 +28,9 @@ tags: [lookup]
 15. <ruby>[飯](characters/飯.md)<rt>ㄅㄛㄋ</rt></ruby> "rice"
 16. <ruby>[㪘](characters/㪘%20(char).md)<rt>ㄌ⼶ㄇ</rt></ruby> "gather"
 
+### Aliases
+- 韩 --> 韓
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

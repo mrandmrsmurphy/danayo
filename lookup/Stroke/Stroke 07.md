@@ -34,6 +34,7 @@ tags:
 - 鸡 --> 鶏
 - 戼 --> 卯
 - 诏 --> 詔
+- 饭 --> 飯
 
 ## Data check
 ```dataview

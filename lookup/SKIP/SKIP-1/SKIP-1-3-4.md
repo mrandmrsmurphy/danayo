@@ -70,6 +70,7 @@ tags:
 ### Aliases
 - 阳 --> 陽
 - 戼 --> 卯
+- 饭 --> 飯
 
 ## Datacheck
 ```dataview

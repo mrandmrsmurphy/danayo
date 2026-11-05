@@ -47,6 +47,7 @@ tags: [lookup]
 - 單 --> 単
 - 幂 --> 冪
 - 筑 --> 築
+- 韩 --> 韓
 
 ## Data check
 ```dataview

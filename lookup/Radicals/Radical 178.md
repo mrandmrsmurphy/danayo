@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[韋](../../characters/韋.md)<rt>ㄨㄧ</rt></ruby> - tanned leather
 2. <ruby>[韓](../../characters/韓.md)<rt>ㄏㄚㄋ</rt></ruby> - Han Korean
 
+### Aliases
+- 韩 --> 韓
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -52,5 +52,7 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 賛 | 赞 | 2-12-4 | simplified; 兟 12 over 贝 4 |
 | 閙 | 闹 | 3-3-5 | simplified; 门 3 around 市 5 |
 | 雛 | 雏 | 1-5-8 | simplified; 刍 5 + 隹 8 |
+| 韓 | 韩 | 1-8-4 | simplified; 龺 8 + 韦 4 |
+| 飯 | 饭 | 1-3-4 | simplified; 饣 3 + 反 4 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
