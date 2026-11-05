@@ -86,6 +86,7 @@ Degree and limiting words — "only," "very," "also" — measuring the force of 
 - <ruby>[満](../words/満.md)<rt>ㄇㄚㄋ</rt></ruby>: full.
 - <ruby>[満盈](../words/満盈.md)<rt>ㄇㄚㄋ·⼶ㄫ</rt></ruby>: filled to capacity.
 - <ruby>[充満](../words/充満.md)<rt>ㄑㄨㄫㄇㄚㄋ</rt></ruby>: to be filled with; to be brimming with.
+- <ruby>[充溢](../words/充溢.md)<rt>ㄑㄨㄫㄧㄊ</rt></ruby>: to overflow, be brimming.
 - <ruby>[充分](../words/充分.md)<rt>ㄑㄨㄫㄅㄨㄋ</rt></ruby>: ample, plenty, enough.
 - <ruby>[充足](../words/充足.md)<rt>ㄑㄨㄫㄐㄛㄎ</rt></ruby>: adequate, sufficient — fully met to the point of enough (of supplies, conditions, requirements); a doubling of two words for fullness, a state rather than an amount, beside [[充分]]'s ample and plentiful.
 

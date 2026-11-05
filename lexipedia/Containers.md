@@ -93,6 +93,7 @@ Containers vocabulary covers vessels and holders of every kind — boxes, bags, 
 - <ruby>[包括](../words/包括.md)<rt>ㄅ⼘ㄨㄍ⺢ㄊ</rt></ruby>: to include, consist of.
 - <ruby>[充填](../words/充填.md)<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby>, <ruby>[填](../words/填.md)<rt>ㄉㄝㄋ</rt></ruby>: to fill.
 - <ruby>[充満](../words/充満.md)<rt>ㄑㄨㄫㄇㄚㄋ</rt></ruby>: to be filled with, to be brimming with.
+- <ruby>[充溢](../words/充溢.md)<rt>ㄑㄨㄫㄧㄊ</rt></ruby>: to overflow, be brimming.
 - <ruby>[弥漫](../words/弥漫.md)<rt>ㄇㄝ·ㄇㄚㄋ</rt></ruby>: to pervade, fill.
 - <ruby>[容量](../words/容量.md)<rt>⼄ㄫㄌ⼘ㄫ</rt></ruby>: volume, capacity — how much a vessel holds.
 - <ruby>[注入](../words/注入.md)<rt>ㄐㄨ·ㄋㄧㄆ</rt></ruby>: to pour into, to inject — filling a vessel.

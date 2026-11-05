@@ -118,7 +118,7 @@ __Combining or simplified radicals with 3 strokes__
 - [[Radical 082]] 毛 (2 characters)
 - [[Radical 083]] 氏 (3 characters)
 - [[Radical 084]] 气 (1 character)
-- [[Radical 085]] 水 or combining as 氵 (173 characters)
+- [[Radical 085]] 水 or combining as 氵 (175 characters)
 - [[Radical 086]] 火 or combining as 灬 (46 characters)
 - [[Radical 087]] 爪 or combining as 爫 (4 characters)
 - [[Radical 088]] 父 (3 characters)

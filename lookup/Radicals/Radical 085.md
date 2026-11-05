@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 173
+size: 175
 radical: 水
 tags: [lookup]
 
@@ -155,71 +155,73 @@ tags: [lookup]
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
 125. <ruby>[準](../../characters/準.md)<rt>ㄐㄨㄋ</rt></ruby> - standard
-126. <ruby>[溜](../../characters/溜.md)<rt>ㄌ⼜</rt></ruby> - slide
-127. <ruby>[溝](../../characters/溝%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - ditch
-128. <ruby>[溥](../../characters/溥.md)<rt>ㄆㄨㄛ</rt></ruby> - wide
-129. <ruby>[溶](../../characters/溶.md)<rt>⼄ㄫ</rt></ruby> - melt
-130. <ruby>[溺](../../characters/溺%20(char).md)<rt>ㄋㄧㄎ</rt></ruby> - drown
-131. <ruby>[滅](../../characters/滅%20(char).md)<rt>ㄇㄝㄊ</rt></ruby> - wipe out
-132. <ruby>[滑](../../characters/滑%20(char).md)<rt>ㄏ⺢ㄊ</rt></ruby> - slippery
-133. <ruby>[滞](../../characters/滞.md)<rt>ㄐㄝ</rt></ruby> - stagnate
-134. <ruby>[漠](../../characters/漠.md)<rt>ㄇㄚㄎ</rt></ruby> - desert
-135. <ruby>[漢](../../characters/漢.md)<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)
-136. <ruby>[潮](../../characters/潮.md)<rt>ㄑㄚㄨ</rt></ruby> - tide
+126. <ruby>[溢](../../characters/溢.md)<rt>ㄧㄊ</rt></ruby> - overflow
+127. <ruby>[溜](../../characters/溜.md)<rt>ㄌ⼜</rt></ruby> - slide
+128. <ruby>[溝](../../characters/溝%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - ditch
+129. <ruby>[溥](../../characters/溥.md)<rt>ㄆㄨㄛ</rt></ruby> - wide
+130. <ruby>[溶](../../characters/溶.md)<rt>⼄ㄫ</rt></ruby> - melt
+131. <ruby>[溺](../../characters/溺%20(char).md)<rt>ㄋㄧㄎ</rt></ruby> - drown
+132. <ruby>[滅](../../characters/滅%20(char).md)<rt>ㄇㄝㄊ</rt></ruby> - wipe out
+133. <ruby>[滑](../../characters/滑%20(char).md)<rt>ㄏ⺢ㄊ</rt></ruby> - slippery
+134. <ruby>[滞](../../characters/滞.md)<rt>ㄐㄝ</rt></ruby> - stagnate
+135. <ruby>[漠](../../characters/漠.md)<rt>ㄇㄚㄎ</rt></ruby> - desert
+136. <ruby>[漢](../../characters/漢.md)<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)
+137. <ruby>[潮](../../characters/潮.md)<rt>ㄑㄚㄨ</rt></ruby> - tide
 
 ### +10 Strokes
-137. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
-138. <ruby>[滴](../../characters/滴%20(char).md)<rt>ㄉㄝㄎ</rt></ruby> - drip
-139. <ruby>[滾](../../characters/滾%20(char).md)<rt>ㄍ⺢ㄋ</rt></ruby> - boil
-140. <ruby>[漁](../../characters/漁.md)<rt>⼄</rt></ruby> - to fish
-141. <ruby>[漂](../../characters/漂%20(char).md)<rt>ㄆ⼄</rt></ruby> - drift
-142. <ruby>[漆](../../characters/漆%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - varnish
-143. <ruby>[漏](../../characters/漏%20(char).md)<rt>ㄌㄛㄨ</rt></ruby> - leak
-144. <ruby>[漑](../../characters/漑.md)<rt>ㄍㄚㄧ</rt></ruby> - water, irrigate
-145. <ruby>[演 (char)](../../characters/演%20(char).md)<rt>⼶ㄋ</rt></ruby> - perform
-146. <ruby>[漕](../../characters/漕.md)<rt>ㄐㄚㄨ</rt></ruby> - canal transportation
-147. <ruby>[漫](../../characters/漫.md)<rt>ㄇㄚㄋ</rt></ruby> - pervade
-148. <ruby>[漬](../../characters/漬%20(char).md)<rt>ㄐㄝ</rt></ruby> - pickle
-149. <ruby>[漱](../../characters/漱.md)<rt>ㄙㄛㄨ</rt></ruby> - gargle
-150. <ruby>[漷](../../characters/漷.md)<rt>ㄎ⺢ㄎ</rt></ruby> - turbulent
-151. <ruby>[漸](../../characters/漸.md)<rt>ㄐㄝㄇ</rt></ruby> - gradually
+138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
+139. <ruby>[滴](../../characters/滴%20(char).md)<rt>ㄉㄝㄎ</rt></ruby> - drip
+140. <ruby>[滾](../../characters/滾%20(char).md)<rt>ㄍ⺢ㄋ</rt></ruby> - boil
+141. <ruby>[漁](../../characters/漁.md)<rt>⼄</rt></ruby> - to fish
+142. <ruby>[漂](../../characters/漂%20(char).md)<rt>ㄆ⼄</rt></ruby> - drift
+143. <ruby>[漆](../../characters/漆%20(char).md)<rt>ㄑㄧㄊ</rt></ruby> - varnish
+144. <ruby>[漏](../../characters/漏%20(char).md)<rt>ㄌㄛㄨ</rt></ruby> - leak
+145. <ruby>[漑](../../characters/漑.md)<rt>ㄍㄚㄧ</rt></ruby> - water, irrigate
+146. <ruby>[演 (char)](../../characters/演%20(char).md)<rt>⼶ㄋ</rt></ruby> - perform
+147. <ruby>[漕](../../characters/漕.md)<rt>ㄐㄚㄨ</rt></ruby> - canal transportation
+148. <ruby>[漫](../../characters/漫.md)<rt>ㄇㄚㄋ</rt></ruby> - pervade
+149. <ruby>[漬](../../characters/漬%20(char).md)<rt>ㄐㄝ</rt></ruby> - pickle
+150. <ruby>[漱](../../characters/漱.md)<rt>ㄙㄛㄨ</rt></ruby> - gargle
+151. <ruby>[漷](../../characters/漷.md)<rt>ㄎ⺢ㄎ</rt></ruby> - turbulent
+152. <ruby>[漸](../../characters/漸.md)<rt>ㄐㄝㄇ</rt></ruby> - gradually
 
 ### +11 Strokes
-152. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
-153. <ruby>[潗](../../characters/潗.md)<rt>ㄐㄨㄆ</rt></ruby> - friendly
-154. <ruby>[潘](../../characters/潘.md)<rt>ㄆㄚㄋ</rt></ruby> - rice milk
-155. <ruby>[潜](../../characters/潜.md)<rt>ㄐㄝㄇ</rt></ruby> - latent
-156. <ruby>[潟](../../characters/潟.md)<rt>ㄙㄝㄎ</rt></ruby> - lagoon
-157. <ruby>[潤](../../characters/潤%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - soft
-158. <ruby>[潰](../../characters/潰%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - crush
-159. <ruby>[澄](../../characters/澄.md)<rt>ㄑㄚㄫ</rt></ruby> - clear
+153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
+154. <ruby>[潗](../../characters/潗.md)<rt>ㄐㄨㄆ</rt></ruby> - friendly
+155. <ruby>[潘](../../characters/潘.md)<rt>ㄆㄚㄋ</rt></ruby> - rice milk
+156. <ruby>[潜](../../characters/潜.md)<rt>ㄐㄝㄇ</rt></ruby> - latent
+157. <ruby>[潟](../../characters/潟.md)<rt>ㄙㄝㄎ</rt></ruby> - lagoon
+158. <ruby>[潤](../../characters/潤%20(char).md)<rt>ㄋㄨㄋ</rt></ruby> - soft
+159. <ruby>[潰](../../characters/潰%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - crush
+160. <ruby>[澄](../../characters/澄.md)<rt>ㄑㄚㄫ</rt></ruby> - clear
 
-160. <ruby>[澈](../../characters/澈.md)<rt>ㄐㄝㄊ</rt></ruby> - penetrate
+161. <ruby>[澈](../../characters/澈.md)<rt>ㄐㄝㄊ</rt></ruby> - penetrate
 
 ### +12 Strokes
-161. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
-162. <ruby>[激](../../characters/激.md)<rt>ㄍㄝㄎ</rt></ruby> - incite
-163. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
-164. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
+162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
+163. <ruby>[激](../../characters/激.md)<rt>ㄍㄝㄎ</rt></ruby> - incite
+164. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
+165. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
 
 ### +13 Strokes
-165. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
+166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
+167. <ruby>[濡](../../characters/濡.md)<rt>ㄋ⼜ㄋ</rt></ruby> - moist, wet
 
 ### +14 Strokes
-166. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding
-167. <ruby>[瀑](../../characters/瀑.md)<rt>ㄅㄛㄎ</rt></ruby> - waterfall
+168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding
+169. <ruby>[瀑](../../characters/瀑.md)<rt>ㄅㄛㄎ</rt></ruby> - waterfall
 
 ### +15 Strokes
-168. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
-169. <ruby>[瀬](../../characters/瀬.md)<rt>ㄌㄚㄧ</rt></ruby> - rapids
+170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
+171. <ruby>[瀬](../../characters/瀬.md)<rt>ㄌㄚㄧ</rt></ruby> - rapids
 
 ### +16 Strokes
-170. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
-171. <ruby>[灌](../../characters/灌.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pour
+172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
+173. <ruby>[灌](../../characters/灌.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pour
 
 ### +17 Strokes
-172. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice
-173. <ruby>[灘](../../characters/灘%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - bank
+174. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice
+175. <ruby>[灘](../../characters/灘%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - bank
 
 ## Data check
 ```dataview
