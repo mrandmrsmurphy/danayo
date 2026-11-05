@@ -46,6 +46,7 @@ tags:
 - 噂 --> 尊
 - 霄 --> 宵
 - 𥝅 --> 万
+- 駛 --> 使
 
 ## Data check
 ```dataview

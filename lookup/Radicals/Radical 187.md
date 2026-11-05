@@ -53,6 +53,10 @@ tags: [lookup]
 ### +14 Strokes
 22. <ruby>[驟](../../characters/驟.md)<rt>ㄙㄚㄨ</rt></ruby> - sudden
 
+### Aliases
+- 駛 --> 使
+- 驶 --> 使
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

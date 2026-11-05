@@ -89,6 +89,9 @@ tags:
 77. <ruby>[附](characters/附%20(char).md)<rt>ㄅㄨ</rt></ruby> "affix, adhere"
 78. <ruby>[怯](characters/怯%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> "cowardly, timid, afraid"
 
+### Aliases
+- 驶 --> 使
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
