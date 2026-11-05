@@ -40,6 +40,7 @@ tags:
 - 矽 --> 硅
 - 练 --> 練
 - 诞 --> 誕
+- 闹 --> 閙
 
 ## Data check
 ```dataview

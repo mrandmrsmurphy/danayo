@@ -58,3 +58,9 @@ Also, 拿 has three aliases and their data differ: 拏 (EDRDG: Radical 064, 9 st
 ## JUDGMENT CALL 2026-11-05 — 誕 / 诞: Chinese vs Japanese stroke counting
 
 誕's page uses the Japanese count (15 strokes, SKIP 1-7-8, 延 = 8). The simplified alias 诞 was written up with the **Chinese** count (8 strokes, SKIP 1-2-6, 延 = 6) because Wiktionary gives that for 诞. Using the Japanese count instead would make 诞 10 strokes, SKIP 1-2-8. This can recur for any simplified form containing 延 or other characters whose stroke count differs between the two systems. Decide whether alias stroke counts follow the alias's own (Chinese) count or the vault's Japanese counting; the row is on `project_alias_skip_guesses.md`.
+
+## OPEN 2026-11-05 — 逗 (and a wider 辶 pattern): vault counts 辶 as 4 strokes on some pages, 3 on others
+
+逗 has `stroke_count: 11` and `skip_number: 3-4-7`. EDRDG gives **10 strokes (alternates 9 and 11) and SKIP 3-3-7**. The vault is inconsistent about 辶 / 辵: 連 is 10 / 3-3-7 and 追 is 9 / 3-3-6 (辶 = 3, matching EDRDG), while 速 (char) is 11 / 3-4-7 and 逗 is 11 / 3-4-7 (辶 = 4). A rough count shows 44 pages with `skip_number: 3-4-…` against 146 with `3-3-…`, so a good share of the 3-4 pages may be this same slip, though not all (some 3-4 codes are genuine). Following your EDRDG-wins ruling, 逗 would move to 10 strokes and SKIP 3-3-7 (Stroke 11 → Stroke 10, SKIP-3-4-7 → SKIP-3-3-7). I did **not** change it or stamp it.
+
+Suggest: a one-time check of all `3-4-N` pages against EDRDG before the loop reaches them, since each will trip the same question.

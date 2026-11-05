@@ -45,6 +45,7 @@ tags: [lookup]
 
 ### Aliases
 - 雞 --> 鶏
+- 雏 --> 雛
 
 ## Data check
 ```dataview

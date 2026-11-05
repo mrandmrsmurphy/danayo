@@ -48,6 +48,7 @@ tags:
 - 𥝅 --> 万
 - 駛 --> 使
 - 徵 --> 徴
+- 鬧 --> 閙
 
 ## Data check
 ```dataview

@@ -36,6 +36,9 @@ tags: [lookup]
 ### Forbidden
 - 碰
 
+### Aliases
+- 雏 --> 雛
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

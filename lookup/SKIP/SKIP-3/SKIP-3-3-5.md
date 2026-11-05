@@ -25,6 +25,9 @@ tags: [lookup]
 13. <ruby>[迭](/characters/迭.md)<rt>ㄉㄚㄊ</rt></ruby> "alternate; change"
 14. <ruby>[述](/characters/述.md)<rt>ㄙㄨㄊ</rt></ruby> "narrate; state; express"
 
+### Aliases
+- 闹 --> 閙
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

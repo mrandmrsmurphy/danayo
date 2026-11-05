@@ -50,5 +50,7 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 詔 | 诏 | 1-2-5 | simplified; 讠 2 + 召 5 |
 | 誕 | 诞 | 1-2-6 | simplified; 讠 2 + 延 6 (Chinese stroke count of 延; the Japanese count would give 1-2-8) |
 | 賛 | 赞 | 2-12-4 | simplified; 兟 12 over 贝 4 |
+| 閙 | 闹 | 3-3-5 | simplified; 门 3 around 市 5 |
+| 雛 | 雏 | 1-5-8 | simplified; 刍 5 + 隹 8 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

@@ -64,6 +64,7 @@ date-last-perfect: 2026-10-05
 - 鵬 --> 朋
 - 鷄 --> 鶏
 - 鸡 --> 鶏
+- 鶵 --> 雛
 
 ## Data check
 ```dataview

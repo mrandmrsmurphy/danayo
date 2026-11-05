@@ -29,6 +29,7 @@ tags:
 - 爛 --> 乱
 - 鷄 --> 鶏
 - 懼 --> 惧
+- 鶵 --> 雛
 
 ## Data check
 ```dataview

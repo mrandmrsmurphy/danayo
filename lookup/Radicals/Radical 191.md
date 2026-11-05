@@ -11,6 +11,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[䦧](../../characters/䦧%20(char).md)<rt>ㄏㄝㄎ</rt></ruby> - quarrel
 
+### Aliases
+- 鬧 --> 閙
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

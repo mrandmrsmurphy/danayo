@@ -52,6 +52,9 @@ tags: [lookup]
 ### +12 Strokes
 21. <ruby>[闡](../../characters/闡.md)<rt>ㄑㄝㄋ</rt></ruby> - clarify
 
+### Aliases
+- 闹 --> 閙
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
