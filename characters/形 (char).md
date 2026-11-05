@@ -32,15 +32,19 @@ mc_id: 359
 graphemic_classification: "井"
 stand_in: "形"
 注音: "ㄏㄝㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character
 boundedness: 80
 ---
+>[!tip] This is a page about the character 形.
+>For the word, see [形](../words/形.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC \*ɡeːŋ): semantic [[Radical 059|彡]] ("lines, pattern, decoration") + phonetic [[井]] (which later corrupted into 开/幵, as in [[刑]]) — a decorative pattern or outline; "shape, form, type."
 - [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))

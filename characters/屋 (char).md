@@ -29,7 +29,7 @@ mc_id: 1113
 graphemic_classification: "会意"
 stand_in: "屋"
 注音: "ㄛㄎ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: true
 tags:
   - character
