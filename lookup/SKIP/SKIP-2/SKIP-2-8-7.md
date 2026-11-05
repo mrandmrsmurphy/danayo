@@ -22,6 +22,7 @@ tags: [lookup]
 ### Aliases
 - 瑩 --> 瑛
 - 霄--> 肖
+- 霄 --> 宵
 
 ## Datacheck
 ```dataview

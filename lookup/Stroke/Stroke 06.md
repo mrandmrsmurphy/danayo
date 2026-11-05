@@ -26,6 +26,7 @@ tags:
 - 4-6-4: <ruby>[[舟]]<rt>ㄐㄨ</rt></ruby>, <ruby>[[夷]]<rt>ㄧㄜ</rt></ruby>, <ruby>[[成 (char)|成]]<rt>ㄙㄧㄫ</rt></ruby>, <ruby>[[吏]]<rt>ㄌㄧ</rt></ruby>, <ruby>[[戌]]<rt>ㄙㄨㄊ</rt></ruby>, <ruby>[[曳]]<rt>⼶</rt></ruby>, <ruby>[[戍]]<rt>ㄙㄨ</rt></ruby>
 
 ### Aliases
+- 传 --> 伝
 
 ## Data check
 ```dataview

@@ -44,6 +44,7 @@ tags:
 - 樋 --> 通
 - 諄 --> 純
 - 噂 --> 尊
+- 霄 --> 宵
 
 ## Data check
 ```dataview

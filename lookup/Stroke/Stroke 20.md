@@ -25,6 +25,7 @@ tags:
 - 3-8-12: <ruby>[[闡]]<rt>ㄑㄝㄋ</rt></ruby>
 
 ### Aliases
+- 瀾 --> 乱
 
 ## Data check
 ```dataview

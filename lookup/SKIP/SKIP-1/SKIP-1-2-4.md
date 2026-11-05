@@ -26,6 +26,9 @@ tags:
 14. <ruby>[州](characters/州%20(char).md)<rt>ㄐㄨㄛ</rt></ruby> "state"
 15. <ruby>[次](characters/次.md)<rt>ㄑㄧㄜ</rt></ruby> "order"
 
+### Aliases
+- 传 --> 伝
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

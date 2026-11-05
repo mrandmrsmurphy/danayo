@@ -6,7 +6,7 @@ tags: [lookup]
 ---
 > [SKIP](lookup/SKIP/SKIP.md) : 1 :
 
-1. no
+1. [SKIP-1-12-1](lookup/SKIP/SKIP-1/SKIP-1-12-1.md): ø
 2. [SKIP-1-12-2](lookup/SKIP/SKIP-1/SKIP-1-12-2.md): 劃
 3. [SKIP-1-12-3](lookup/SKIP/SKIP-1/SKIP-1-12-3.md): 影, 鄧, 鄭
 4. [SKIP-1-12-4](lookup/SKIP/SKIP-1/SKIP-1-12-4.md): 獣

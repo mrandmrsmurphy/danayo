@@ -20,6 +20,9 @@ tags: [lookup]
 7. <ruby>[毛](characters/毛%20(char).md)<rt>ㄇㄚㄨ</rt></ruby> "fur"
 8. <ruby>[牛](characters/牛%20(char).md)<rt>ㄋ⼜</rt></ruby> "cow"
 
+### Aliases
+- 书 --> 書
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

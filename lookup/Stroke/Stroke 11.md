@@ -43,6 +43,7 @@ tags:
 - 晟 --> 成
 - 掴 --> 国
 - 崚 --> 陵
+- 㲵 --> 宵
 
 ## Data check
 ```dataview

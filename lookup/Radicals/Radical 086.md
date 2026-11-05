@@ -86,6 +86,10 @@ tags: [lookup]
 ### +20 Strokes
 46. <ruby>[熊](../../characters/熊%20(char).md)<rt>ㄨㄫ</rt></ruby> - bear
 
+### Aliases
+- 爛 --> 乱
+- 烂 --> 乱
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

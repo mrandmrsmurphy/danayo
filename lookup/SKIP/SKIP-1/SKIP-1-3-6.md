@@ -72,6 +72,9 @@ tags:
 60. <ruby>[徊](characters/徊.md)<rt>ㄏㄛㄧ</rt></ruby> "hesitate"
 61. <ruby>[恍](characters/恍.md)<rt>ㄍ⺢ㄫ</rt></ruby> "vague"
 
+### Aliases
+- 洼 --> 窪
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

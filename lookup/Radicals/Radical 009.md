@@ -189,6 +189,10 @@ aliases:
 ### +19 Strokes
 144. <ruby>[儺 (char)](../../characters/儺%20(char).md)<rt>ㄋㄨㄛ</rt></ruby> - exorcism
 
+### Aliases
+- 傳 --> 伝
+- 传 --> 伝
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

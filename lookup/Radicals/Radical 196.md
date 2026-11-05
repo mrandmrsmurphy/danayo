@@ -60,6 +60,9 @@ date-last-perfect: 2026-10-05
 ### +18 Strokes
 22. <ruby>[鸛](../../characters/鸛.md)<rt>ㄍ⺢ㄋ</rt></ruby> - stork
 
+### Aliases
+- 鵬 --> 朋
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

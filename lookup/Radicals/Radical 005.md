@@ -21,6 +21,10 @@ tags: [lookup]
 ### Forbidden
 - 乜 --> Cantonese/dialects only
 
+### Aliases
+- 亂 --> 乱
+- 书 --> 書
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

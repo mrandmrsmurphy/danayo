@@ -22,6 +22,7 @@ tags: [lookup]
 - 4-4-4: <ruby>[[少 (char)|少]]<rt>ㄙㄛㄨ</rt></ruby>, <ruby>[[火 (char)|火]]<rt>ㄏ⺢</rt></ruby>, <ruby>[[片 (char)|片]]<rt>ㄆㄝㄋ</rt></ruby>, <ruby>[[戈]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[内]]<rt>ㄋㄛㄧ</rt></ruby>, <ruby>[[犬 (char)|犬]]<rt>ㄎ⼔ㄋ</rt></ruby>, <ruby>[[夭]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[夫 (char)|夫]]<rt>ㄈㄜ</rt></ruby>
 
 ### Aliases
+- 书 --> 書
 
 ## Data check
 ```dataview

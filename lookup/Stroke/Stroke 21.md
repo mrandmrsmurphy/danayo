@@ -26,6 +26,7 @@ tags:
 
 ### Aliases
 - 嚼 --> variant of 爵
+- 爛 --> 乱
 
 ## Data check
 ```dataview

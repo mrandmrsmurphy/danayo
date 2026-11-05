@@ -22,7 +22,12 @@ Tier C  body and cross-file; only pages changed since their own `date-last-perfe
   C1  the four Notes bullets exist in order; the SKIP/Stroke, CC and syllable links match the frontmatter
   C2  every word whose `characters:` names this character is in `## Words` with the word's own 注音; every
       `## Words` link resolves. The same for `## Chengyu`.
-  C3  `mc_id` equals the rank on lookup/CC/CC 0000-3000.md (only for ranks that appear there)
+  C3  `mc_id` is the lowest rank on lookup/CC/CC 0000-3000.md among the character and all its aliases (only for
+      ranks that appear there). A page without an `## Aliases` section may document an exception in its prose.
+  C4  `## Aliases` (rolling out page by page; a page with `aliases:` and no such section is only counted as a to-do):
+      sits between `## Notes` and `## Words`; has one `### X` subsection per `aliases:` entry, in the same order;
+      each subsection states a SKIP number and a stroke count; the alias is an unlinked `X --> main` redirect on its
+      Stroke page, its SKIP leaf, and its radical page (the `Radical NNN` it names, else the main radical's).
 Not checked: prose, Old Chinese reconstructions, whether a reading is right against sources.
 
 Ground truth is the working tree, so uncommitted edits count. Never edits except the final stamp.
@@ -143,6 +148,11 @@ for stem, c in chars.items():
         add('A3', 'a word of the same name exists, so the file needs the " (char)" suffix', stem)
     if suffixed and bare not in words:
         add('A3', 'has the " (char)" suffix but no word of that name exists', stem)
+
+for stem, c in chars.items():
+    al = fm_get(c['fm'], 'aliases')
+    if al and '\n## Aliases' not in c['body']:
+        todo['pages with `aliases:` but no `## Aliases` section (rolling out gradually)'] += 1
 
 # ---------------------------------------------------------------- Tier B
 JOYO = {'1', '2', '3', '4', '5', '6', '高等', '表外字', '日本人名用漢字'}
@@ -268,8 +278,16 @@ if not IDS_ONLY:
     for n in ('0000', '1000', '2000', '3000'):
         t = read(f'lookup/CC/CC {n}.md')
         if not t: continue
-        for r, ch in re.findall(r'^(\d+)\. (\S)\s*$', t, re.M):
-            ccrank[ch] = int(r)
+        for r, linked, bare_ch in re.findall(r'^>?\s*(\d+)\. (?:\[([^\]]+)\]\(.*\)|(\S))\s*$', t, re.M):
+            k = linked or bare_ch
+            ccrank[k] = min(int(r), ccrank.get(k, int(r)))
+
+    radpage = {}
+    for rf in os.listdir('lookup/Radicals'):
+        if re.match(r'Radical \d+\.md', rf):
+            rt = read(f'lookup/Radicals/{rf}') or ''
+            rm = re.search(r'^radical:\s*"?([^"\n]+)"?', rt, re.M)
+            if rm: radpage[rm.group(1).strip()] = f'lookup/Radicals/{rf}'
 
     def section(body, name):
         m = re.search(rf'^## {re.escape(name)}\s*$(.*?)(?=^## |\Z)', body, re.M | re.S)
@@ -313,6 +331,8 @@ if not IDS_ONLY:
         if not needs: continue
         checked += 1
         body = c['body']; get = lambda k: fm_get(c['fm'], k)
+        als = get('aliases'); als = als if isinstance(als, list) else ([als] if als else [])
+        asec = section(body, 'Aliases')
         notes = section(body, 'Notes')
         if notes is None:
             add('C1', 'no `## Notes` section', stem)
@@ -341,8 +361,42 @@ if not IDS_ONLY:
         mcv = get('mc_id')
         bare = stem[:-7] if stem.endswith(' (char)') else stem
         documented = bool(re.search(r'(recorded|ranked|listed|mirrored)( there| in the CC lists)? under|as its variant form|ranking lists the variant form', body))
-        if mcv and str(mcv).isdigit() and int(mcv) and bare in ccrank and ccrank[bare] != int(mcv) and not documented:
-            add('C3', f'mc_id {mcv} but lookup/CC lists it at {ccrank[bare]}', stem)
+        ranks = [ccrank[x] for x in [bare] + als if x in ccrank]
+        if ranks and mcv and str(mcv).isdigit() and int(mcv) and int(mcv) != min(ranks):
+            if asec is not None:
+                add('C3', f'mc_id {mcv} but the lowest CC rank among the character and its aliases is {min(ranks)}', stem)
+            elif bare in ccrank and ccrank[bare] != int(mcv) and not documented:
+                add('C3', f'mc_id {mcv} but lookup/CC lists it at {ccrank[bare]}', stem)
+            else:
+                todo['mc_id is above an alias\'s CC rank (settle it when the `## Aliases` section is added)'] += 1
+        if asec is not None:
+            if not als:
+                add('C4', '`## Aliases` section but no `aliases:` in the frontmatter', stem)
+            subs = re.findall(r'^### (.+?)\s*$', asec, re.M)
+            if als and subs != als:
+                add('C4', '`### X` subsections do not match `aliases:` (same entries, same order)', f'{stem}: {subs} vs {als}')
+            ni, wi = body.find('\n## Notes'), body.find('\n## Aliases')
+            wj = body.find('\n## Words')
+            if not (ni < wi and (wj < 0 or wi < wj)):
+                add('C4', '`## Aliases` must sit between `## Notes` and `## Words`', stem)
+            parts = re.split(r'^### (.+?)\s*$', asec, flags=re.M)
+            for a, txt in zip(parts[1::2], parts[2::2]):
+                sk = re.search(r'SKIP (\d+)-(\d+)-(\d+)', txt); stn = re.search(r'(\d+) strokes?', txt)
+                if not sk: add('C4', 'alias subsection states no SKIP number', f'{stem} / {a}')
+                if not stn: add('C4', 'alias subsection states no stroke count', f'{stem} / {a}')
+                line = f'- {a} --> '
+                if stn:
+                    sp = read(f'lookup/Stroke/Stroke {int(stn.group(1)):02d}.md') or ''
+                    if line + bare not in sp:
+                        add('C4', 'alias is not an unlinked redirect on its Stroke page', f'{stem} / {a}')
+                if sk:
+                    kp = read(f'lookup/SKIP/SKIP-{sk.group(1)}/SKIP-{sk.group(1)}-{sk.group(2)}-{sk.group(3)}.md') or ''
+                    if line + bare not in kp:
+                        add('C4', 'alias is not an unlinked redirect on its SKIP leaf', f'{stem} / {a}')
+                rn = re.search(r'[Rr]adical (\d{3})', txt)
+                rp = f'lookup/Radicals/Radical {rn.group(1)}.md' if rn else radpage.get(get('radical'))
+                if rp is None or line + bare not in (read(rp) or ''):
+                    add('C4', 'alias is not an unlinked redirect on its radical page (the one it names, else the main radical)', f'{stem} / {a}')
         w_sec = section(body, 'Words')
         listed = ruby_entries(w_sec) if w_sec else []
         expect = {w: zy for w, zy in word_chars.get(stem, [])}

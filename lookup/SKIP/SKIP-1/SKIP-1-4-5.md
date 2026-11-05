@@ -53,6 +53,9 @@ tags:
 41. <ruby>[胖](characters/胖.md)<rt>ㄅㄚㄋ</rt></ruby> "fat"
 42. <ruby>[胞](characters/胞.md)<rt>ㄅ⼘ㄨ</rt></ruby> "placenta"
 
+### Aliases
+- 烂 --> 乱
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

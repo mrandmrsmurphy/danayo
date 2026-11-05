@@ -31,6 +31,9 @@ tags:
 - 3-3-16: <ruby>[[廬]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[龐]]<rt>ㄅㄚㄫ</rt></ruby>, <ruby>[[靡]]<rt>ㄇㄧㄆ</rt></ruby>
 
 ### Aliases
+- 䜌 --> 乱
+- 鵬 --> 朋
+- 䨭 --> 宵
 
 ## Data check
 ```dataview

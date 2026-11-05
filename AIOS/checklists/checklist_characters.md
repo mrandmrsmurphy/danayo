@@ -84,6 +84,8 @@ The frequency rank in Classical Chinese; 351 means the 351st most-used character
 
 **`mc_id: 0` is a real, meaningful value** — it means *confirmed not present in the MC usage ranking at all*, not "unknown" and not a placeholder needing a blank. Leave it as `0` and phrase the MC bullet accordingly (e.g. "Not present in the Classical Chinese usage ranking"), rather than treating it as an error to fix.
 
+**Aliases (2026-11-04):** `mc_id` is the **lowest** rank among the character itself and all its `aliases:` that appear on the CC lists. 伝 is not ranked but its alias 傳 is, so 伝 carries 傳's rank (293). Say where the number comes from in the page's `## Aliases` subsection for that alias. The linter enforces this on pages that have an `## Aliases` section and only counts the others as a to-do.
+
 Blank (no value at all) still means "not yet checked" and is the only state that should ever be filled in or left blank during perfection work — never invent a number, but also never erase one that's already there.
 
 ---
@@ -94,6 +96,7 @@ Blank (no value at all) still means "not yet checked" and is the only state that
 [disambiguation callout — as needed]
 [meta-bind-embed block — required, must be first or directly after callout]
 ## Notes
+## Aliases       ← whenever `aliases:` is non-empty (rolling out page by page)
 ## Words
 ## Chengyu       ← as needed
 ## Derived Characters  ← as needed
@@ -223,6 +226,33 @@ Real corpus values are always the full strings above (`高等`, `表外字`, `�
 
 ---
 
+## `## Aliases` section
+
+Every page whose frontmatter has `aliases:` gets an `## Aliases` section between `## Notes` and `## Words` (user ruling 2026-11-04). It is being added **page by page, slowly**: a page without one that has aliases is a to-do, not a failure, and a page is not made to wait for it. Notes describe the character's **current shape**; the history and facts of each variant live here, with at most a little overlap.
+
+One `### X` subsection per alias, in the same order as `aliases:`. Each says, in a few sentences:
+
+- **What the form is**: Traditional (kyūjitai), Simplified, shinjitai, variant, or a 代用字 written as this character (and why it is here).
+- **Its SKIP number and its stroke count**, written as `SKIP 1-2-11` and `13 strokes`. These are the alias's own, even when they equal the main character's.
+- **Its radical, only if it differs** from the main character's, written `Radical NNN 部` (e.g. `Radical 086 火`).
+- **Its Classical Chinese rank, if it has one**, and whether the page's `mc_id` comes from it. `mc_id` is the lowest rank among the character and its aliases.
+
+```markdown
+## Aliases
+
+### 傳
+Traditional form (kyūjitai) of 伝, written 亻 + 專. The shinjitai 伝 replaced the phonetic 專 with the simpler 云 (compare 轉 → 転), and Dan'a'yo writes it as 伝. SKIP 1-2-11; 13 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 293 is 傳's rank.
+
+### 传
+Simplified Chinese form, written 亻 + 专 (the simplified 專). SKIP 1-2-4, the same as 伝; 6 strokes. It has no rank of its own in the Classical Chinese lists.
+```
+
+Each alias is also an **unlinked redirect** `X --> main` on three lookup pages, under that page's `### Aliases` heading (add the heading if the page lacks one): its **Stroke** page (by its own stroke count), its **SKIP leaf** (by its own SKIP number), and the **Radical** page of the radical the subsection names (the main character's radical if it names none). Never link the alias there.
+
+`lint_characters.py` (C4) checks the section's position, that its subsections match `aliases:`, that each states a SKIP number and a stroke count, and the three redirects.
+
+---
+
 ## `## Words` section
 
 List every Dan'a'yo word that uses this character. Format: ruby-annotated link followed by an English gloss in quotes.
@@ -281,9 +311,9 @@ Set when:
 4. All four Notes bullets are present in the correct order.
 5. Graphemic bullet correctly identifies the type and links the relevant components or list-of page.
 6. SKIP/Stroke bullet links two targets (SKIP leaf, Stroke page) — no syllable link.
-7. MC bullet states the ordinal rank, embeds both CC links with IPA display text, and links the syllable.
+7. MC bullet states the ordinal rank, embeds both CC links with IPA display text, and links the syllable. (On a page with an `## Aliases` section the rank sentence may be dropped from Notes when the rank belongs to an alias; the `Ancient […] → syllable` part stays.)
 8. Levels bullet includes all four level links and they match the frontmatter values per the mapping table.
-9. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
+9. If `aliases:` is non-empty and the page has been rolled out, its `## Aliases` section is complete (see above) and the redirects are on the lookup pages. Every Dan'a'yo word that uses this character appears in `## Words` with a gloss.
 10. Every chengyu that uses this character appears in `## Chengyu`, ruby-annotated with its own reading and a gloss.
 11. Every other character in the database that names this one as its phonetic/semantic component appears in `## Derived Characters`, ruby-annotated with its own syllable, if any such descendants exist.
 
@@ -296,7 +326,9 @@ Set when:
 - **`meta-bind-embed` not first** — the callout (if present) comes before the embed; the embed comes before everything else. No section headings, no prose, no links precede it.
 - **`stand_in` blank** — every character must have a declared `stand_in` value, even if only `名専字`.
 - **`pos` blank (`""`)** — required, not optional, and easy to miss because a blank string doesn't look broken the way a missing bullet does. Roughly a quarter of the corpus has this gap pre-existing, so don't assume a page is fine on this front just because it's otherwise well-formed — check it explicitly every time, the same as `mc_id` or `danayo_id`. See [[grammar/文法 - 97品詞]] for the real taxonomy (名詞/事詞/性詞/連接詞/etc.) — pick based on the character's actual grammatical behavior, not just "noun-ish vs verb-ish."
-- **Heading level inconsistency** — use `##` (H2) for Notes, Words, Chengyu, and Derived Characters. Using `#` (H1) or `###` (H3) for these top-level sections is a mistake.
+- **Alias facts left in Notes** — the form history, SKIP number and stroke count of a variant belong in its `### X` subsection, not in the Notes bullets.
+- **Linked aliases on lookup pages** — the redirect lines are plain `X --> main` text, never links.
+- **Heading level inconsistency** — use `##` (H2) for Notes, Aliases, Words, Chengyu, and Derived Characters. Using `#` (H1) or `###` (H3) for these top-level sections is a mistake.
 - **Words entries without glosses** — every word link should be followed by an English gloss in quotes.
 - **Chengyu entries without ruby** — despite this doc's own example historically showing plain links, established practice (see [[characters/千]], [[characters/光 (char)|光]]) always ruby-annotates `## Chengyu` entries with the chengyu's own stored `注音`, same as `## Words`. A bare `[[chengyu]] "gloss"` with no `<rt>` is a defect, not an acceptable minimal form.
 - **Notes bullets out of order or missing** — the four-bullet sequence (graphemic → SKIP/Stroke → MC → levels) is fixed. All four must be present.

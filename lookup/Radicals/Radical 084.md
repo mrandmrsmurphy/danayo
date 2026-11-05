@@ -12,6 +12,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[気](../../characters/気%20(char).md)<rt>ㄎㄧㄜ</rt></ruby> - feeling
 
+### Aliases
+- 㲵 --> 宵
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

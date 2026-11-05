@@ -54,6 +54,10 @@ tags: [lookup]
 20. <ruby>[靄](../../characters/靄.md)<rt>ㄚㄧ</rt></ruby> - hazy
 - 靈 --> 霊
 
+### Aliases
+- 霄 --> 宵
+- 䨭 --> 宵
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

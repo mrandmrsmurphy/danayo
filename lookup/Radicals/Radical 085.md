@@ -223,6 +223,10 @@ tags: [lookup]
 174. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice
 175. <ruby>[灘](../../characters/灘%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - bank
 
+### Aliases
+- 瀾 --> 乱
+- 洼 --> 窪
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

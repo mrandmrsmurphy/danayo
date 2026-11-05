@@ -132,6 +132,9 @@ tags: [lookup]
 ### +16 Strokes
 94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
 
+### Aliases
+- 䜌 --> 乱
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
