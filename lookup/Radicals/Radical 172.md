@@ -43,6 +43,9 @@ tags: [lookup]
 ### +11 Strokes
 16. <ruby>[離](../../characters/離.md)<rt>ㄌㄝㄧ</rt></ruby> - depart
 
+### Aliases
+- 雞 --> 鶏
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

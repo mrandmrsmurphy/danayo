@@ -35,7 +35,7 @@ aliases:
   - 鷄
   - 鸡
 注音: "ㄍㄝㄧ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -54,6 +54,17 @@ boundedness: 75
 - 1151st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄍㄝㄧ](../syllables/ㄍㄝㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Old spelling on [Korean MS](../lookup/Korean/Korean%20MS.md) and [HSK Beginner](../lookup/HSK/HSK%20Beginner.md); shinjitai on [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md).
+
+## Aliases
+
+### 雞
+Traditional form of 鶏, written with 隹 ("short-tailed bird") where 鶏 has 鳥. Radical 172 隹; SKIP 1-10-8; 18 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1151 is 雞's rank.
+
+### 鷄
+Traditional variant of 鶏, written 奚 + 鳥 in full. SKIP 1-10-11; 21 strokes. Ranked 3364 in the Classical Chinese lists, so it does not supply the `mc_id`.
+
+### 鸡
+Simplified Chinese form of 鶏, with 又 for 奚 and 鸟 for 鳥. SKIP 1-2-5 (computed: EDRDG does not list it); 7 strokes. It has no rank in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鶏]]<rt>ㄍㄝㄧ</rt></ruby> "chicken" (stand-in for 鶏)

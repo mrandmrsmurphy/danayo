@@ -62,6 +62,9 @@ tags: [lookup]
 ### +8 Strokes
 35. <ruby>[隣](../../characters/隣%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - neighboring
 
+### Aliases
+- 阳 --> 陽
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

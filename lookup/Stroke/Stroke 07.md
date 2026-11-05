@@ -30,6 +30,8 @@ tags:
 ### Aliases
 - 芙 --> 夫
 - 孜 --> 滋
+- 阳 --> 陽
+- 鸡 --> 鶏
 
 ## Data check
 ```dataview

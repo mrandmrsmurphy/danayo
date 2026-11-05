@@ -31,5 +31,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 絶 | 绝 | 1-3-6 | simplified; 纟 3 + 色 6 |
 | 薬 | 药 | 2-3-6 | simplified; 艹 3 over 约 6 |
 | 視 | 视 | 1-4-4 | simplified; 礻 4 + 见 4 |
+| 鶏 | 鸡 | 1-2-5 | simplified; 又 2 + 鸟 5 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

@@ -27,6 +27,7 @@ tags:
 ### Aliases
 - 嚼 --> variant of 爵
 - 爛 --> 乱
+- 鷄 --> 鶏
 
 ## Data check
 ```dataview

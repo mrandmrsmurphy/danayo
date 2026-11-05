@@ -67,6 +67,9 @@ tags:
 55. <ruby>[防](characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> "prevent"
 56. <ruby>[址](characters/址.md)<rt>ㄐㄧ</rt></ruby> "site"
 
+### Aliases
+- 阳 --> 陽
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

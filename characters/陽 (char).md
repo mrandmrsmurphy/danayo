@@ -32,7 +32,7 @@ stand_in: "陽"
 aliases:
   - 阳
 注音: "⼘ㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 80
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 66th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](../syllables/⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 阳
+Simplified Chinese form of 陽, with 日 for 昜; it is also used as a variant in Japanese. SKIP 1-3-4; 7 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 66 is 陽's own.
 
 ## Words
 - <ruby>[[太陽]]<rt>ㄊㄚㄧ⼘ㄫ</rt></ruby> "sun, Sol"

@@ -34,6 +34,9 @@ tags:
 22. <ruby>[冴](characters/冴.md)<rt>ㄏㄛ</rt></ruby> "freeze; clear, sharp"
 23. <ruby>[冶](characters/冶.md)<rt>⼘</rt></ruby> "smelt"
 
+### Aliases
+- 鸡 --> 鶏
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

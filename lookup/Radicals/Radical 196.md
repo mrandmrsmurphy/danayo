@@ -62,6 +62,8 @@ date-last-perfect: 2026-10-05
 
 ### Aliases
 - 鵬 --> 朋
+- 鷄 --> 鶏
+- 鸡 --> 鶏
 
 ## Data check
 ```dataview
