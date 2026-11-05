@@ -33,7 +33,7 @@ aliases:
   - 个
   - 箇
 注音: "ㄍㄜ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 35
 - [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 3102nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄍㄜ](../syllables/ㄍㄜ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 个
+Simplified form of 個, used in Chinese and in Japanese counters. Radical 002 丨; SKIP 2-2-1; 3 strokes. It has no rank in the Classical Chinese lists.
+
+### 箇
+Variant of 個 written with the 竹 ("bamboo") radical, the older counter for single items. Radical 118 竹; SKIP 2-6-8; 14 strokes. Ranked 3659 in the Classical Chinese lists, so the `mc_id` 3102 stays 個's own.
 
 ## Words
 - <ruby>[[個]]<rt>ㄍㄜ</rt></ruby> "individual" (stand-in for 個)

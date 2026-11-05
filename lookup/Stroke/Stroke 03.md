@@ -20,6 +20,7 @@ tags:
 - 4-3-4: <ruby>[[丈 (char)|丈]]<rt>ㄑㄚㄫ</rt></ruby>, <ruby>[[与 (char)|与]]<rt>⼄</rt></ruby>, <ruby>[[丸]]<rt>ㄏ⺢ㄋ</rt></ruby>, <ruby>[[之 (char)|之]]<rt>ㄊㄧ</rt></ruby>, <ruby>[[大 (char)|大]]<rt>ㄉㄚㄧ</rt></ruby>, <ruby>[[女 (char)|女]]<rt>ㄋㄜ</rt></ruby>
 
 ### Aliases
+- 个 --> 個
 
 ## Data check
 ```dataview

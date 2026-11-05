@@ -30,6 +30,9 @@ _no +0, because it is not a stand-alone character_
 - forbidden 丵
 - 𠁰 --> 乖
 
+### Aliases
+- 个 --> 個
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

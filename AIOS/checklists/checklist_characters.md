@@ -233,7 +233,7 @@ Every page whose frontmatter has `aliases:` gets an `## Aliases` section between
 One `### X` subsection per alias, in the same order as `aliases:`. Each says, in a few sentences:
 
 - **What the form is**: Traditional (kyūjitai), Simplified, shinjitai, variant, or a 代用字 written as this character (and why it is here).
-- **Its SKIP number and its stroke count**, written as `SKIP 1-2-11` and `13 strokes`. These are the alias's own, even when they equal the main character's.
+- **Its SKIP number and its stroke count**, written as `SKIP 1-2-11` and `13 strokes`. These are the alias's own, even when they equal the main character's. Take the SKIP number from EDRDG (`wwwjdic?1MMJ<char>`, line "SKIP code"). EDRDG lists only Japanese kanji; for any other alias, **guess** (apply the SKIP rules to its parts), write `(computed: EDRDG does not list it)` after the number, and add the row to [[AIOS/projects/project_alias_skip_guesses.md]]. If a leaf for the alias's SKIP number does not exist, create a size-0 redirect-only leaf (and give its index entry `ø`).
 - **Its radical, only if it differs** from the main character's, written `Radical NNN 部` (e.g. `Radical 086 火`).
 - **Its Classical Chinese rank, if it has one**, and whether the page's `mc_id` comes from it. `mc_id` is the lowest rank among the character and its aliases.
 

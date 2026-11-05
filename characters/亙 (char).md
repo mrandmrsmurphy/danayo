@@ -33,7 +33,7 @@ mc_id: 6537
 graphemic_classification: "指事"
 stand_in: "亙"
 注音: "ㄍㄨㄫ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character

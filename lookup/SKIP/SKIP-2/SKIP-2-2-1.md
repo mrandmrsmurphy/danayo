@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[乞](/characters/乞%20(char).md)<rt>ㄎㄧㄊ</rt></ruby> - beg
 
+### Aliases
+- 个 --> 個
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

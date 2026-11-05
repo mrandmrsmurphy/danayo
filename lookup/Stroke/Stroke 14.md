@@ -48,6 +48,7 @@ tags:
 - 瑶 --> 耀
 - 蔦 --> 鳥
 - 榎 --> 夏
+- 箇 --> 個
 
 ## Data check
 ```dataview

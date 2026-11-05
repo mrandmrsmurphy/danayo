@@ -44,6 +44,7 @@ tags:
 - 掴 --> 国
 - 崚 --> 陵
 - 㲵 --> 宵
+- 㸘 --> 万
 
 ## Data check
 ```dataview

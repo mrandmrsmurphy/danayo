@@ -45,6 +45,7 @@ tags:
 - 諄 --> 純
 - 噂 --> 尊
 - 霄 --> 宵
+- 𥝅 --> 万
 
 ## Data check
 ```dataview

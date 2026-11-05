@@ -85,6 +85,9 @@ tags:
 ### +16 Strokes
 43. <ruby>[籠](../../characters/籠%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - basket
 
+### Aliases
+- 箇 --> 個
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

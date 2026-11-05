@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[旋](/characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> "revolve"
 8. <ruby>[黄](characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> "yellow"
 
+### Aliases
+- 㸘 --> 万
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

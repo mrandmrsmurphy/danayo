@@ -20,6 +20,9 @@ tags: [lookup]
 ### +8 Strokes
 4. <ruby>[禽](../../characters/禽.md)<rt>ㄎㄧㄇ</rt></ruby> - fowl
 
+### Aliases
+- 𥝅 --> 万
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

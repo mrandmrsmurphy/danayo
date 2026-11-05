@@ -21,6 +21,9 @@ tags: [lookup]
 9. <ruby>[翠](/characters/翠.md)<rt>ㄑㄨㄧ</rt></ruby> "blue green; emerald"
 10. <ruby>[鼻](characters/鼻%20(char).md)<rt>ㄅㄧ</rt></ruby> "nose"
 
+### Aliases
+- 箇 --> 個
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
