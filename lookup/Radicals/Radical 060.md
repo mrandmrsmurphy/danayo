@@ -53,6 +53,9 @@ tags:
 ### +14 Strokes
 25. <ruby>[徽](../../characters/徽.md)<rt>ㄏㄨㄧ</rt></ruby> - badge
 
+### Aliases
+- 徵 --> 徴
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

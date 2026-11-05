@@ -51,6 +51,9 @@ tags:
 24. <ruby>[禅](../../characters/禅%20(char).md)<rt>ㄙㄝㄋ</rt></ruby> - oneness
 25. <ruby>[福](../../characters/福%20(char).md)<rt>ㄈㄨㄎ</rt></ruby> - blessing
 
+### Aliases
+- 禦 --> 御
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -47,6 +47,7 @@ tags:
 - 霄 --> 宵
 - 𥝅 --> 万
 - 駛 --> 使
+- 徵 --> 徴
 
 ## Data check
 ```dataview

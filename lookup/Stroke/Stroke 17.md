@@ -43,6 +43,7 @@ tags:
 - 檎 --> 禽
 - 曙 --> 署
 - 濱 --> 浜
+- 禦 --> 御
 
 ## Data check
 ```dataview
