@@ -139,6 +139,7 @@ tags: [lookup]
 - 讃 --> 賛
 - 讚 --> 賛
 - 讨 --> 討
+- 谈 --> 談
 
 ## Data check
 ```dataview

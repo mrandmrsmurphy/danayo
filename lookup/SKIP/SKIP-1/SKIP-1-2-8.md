@@ -37,6 +37,7 @@ tags:
 
 ### Aliases
 - 债 --> 債
+- 谈 --> 談
 
 ## Datacheck
 ```dataview

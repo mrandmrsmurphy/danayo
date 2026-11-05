@@ -43,6 +43,7 @@ tags:
 - 羔 --> 皐
 - 珪 --> 硅
 - 𫛡 --> 鴔
+- 谈 --> 談
 
 ## Data check
 ```dataview

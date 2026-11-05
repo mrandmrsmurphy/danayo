@@ -60,5 +60,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 兗 | 兖 | 2-2-6 | simplified; 亠 2 over 兊 6 |
 | 畢 | 毕 | 2-4-2 | simplified; 比 4 over 十 2 |
 | 討 | 讨 | 1-2-3 | simplified; 讠 2 + 寸 3 |
+| 談 | 谈 | 1-2-8 | simplified; 讠 2 + 炎 8 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
