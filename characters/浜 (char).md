@@ -33,7 +33,7 @@ stand_in: "浜"
 aliases:
   - 濱
 注音: "ㄅㄧㄋ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character
@@ -47,10 +47,15 @@ boundedness: 75
 ```
 
 ## Notes
-- 形声 (OC *prɯŋ): semantic [[Radical 085|水]] ("water") + phonetic [[兵]] (OC *praŋ, "soldier") — a simplified form of *濱*, the water's edge; "coast, bank, beach."
+- 形声 (OC *prɯŋ): semantic [[Radical 085|水]] ("water") + phonetic [[兵]] (OC *praŋ, "soldier") — the water's edge; "coast, bank, beach."
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 2355th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 眞A開|iɪn]] → [ㄅㄧㄋ](../syllables/ㄅㄧㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 濱
+Traditional form (kyūjitai) of 浜, written 氵 + 賓; the shinjitai 浜 replaced the phonetic 賓 with the simpler 兵. SKIP 1-3-14; 17 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 2355 is 濱's rank.
 
 ## Words
 - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby> "coast" (stand-in for 浜)

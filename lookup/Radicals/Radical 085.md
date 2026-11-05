@@ -226,6 +226,7 @@ tags: [lookup]
 ### Aliases
 - 瀾 --> 乱
 - 洼 --> 窪
+- 濱 --> 浜
 
 ## Data check
 ```dataview

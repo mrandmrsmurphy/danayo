@@ -30,7 +30,7 @@ mc_id: 5900
 graphemic_classification: "离"
 stand_in: "璃"
 注音: "ㄌㄜ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -50,7 +50,7 @@ boundedness: 80
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
 
 ## Words
-- <ruby>[[璃]]<rt>ㄌㄜ</rt></ruby> "glass"
+- <ruby>[[璃]]<rt>ㄌㄜ</rt></ruby> "glass" (stand-in for 璃)
 - <ruby>[[玻璃]]<rt>ㄆㄚㄌㄜ</rt></ruby> "glass"
 - <ruby>[[瑠璃]]<rt>ㄌ⼜ㄌㄜ</rt></ruby> "lapis lazuli"
 - <ruby>[[玻璃版]]<rt>ㄆㄚㄌㄜ·ㄆㄚㄋ</rt></ruby> "glass plate, lithograph"

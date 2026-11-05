@@ -42,6 +42,7 @@ tags:
 - 糙 --> 造
 - 檎 --> 禽
 - 曙 --> 署
+- 濱 --> 浜
 
 ## Data check
 ```dataview
