@@ -51,6 +51,7 @@ tags:
 - 箇 --> 個
 - 嶂 --> 章
 - 滌 --> 浄
+- 滯 --> 滞
 
 ## Data check
 ```dataview

@@ -22,6 +22,9 @@ tags: [lookup]
 ### +12 Strokes
 4. <ruby>[弊](../../characters/弊%20(char).md)<rt>ㄆㄝㄧ</rt></ruby> - evil
 
+### Aliases
+- 弃 --> 棄
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

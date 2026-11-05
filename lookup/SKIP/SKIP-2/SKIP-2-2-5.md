@@ -25,6 +25,9 @@ tags: [lookup]
 13. <ruby>[辛](/characters/辛.md)<rt>ㄙㄧㄋ</rt></ruby> "spicy"
 14. <ruby>[兌](/characters/兌.md)<rt>ㄉ⺢ㄧ</rt></ruby> "exchange"
 
+### Aliases
+- 弃 --> 棄
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

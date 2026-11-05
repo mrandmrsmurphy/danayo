@@ -230,6 +230,7 @@ tags: [lookup]
 - 淨 --> 浄
 - 滌 --> 浄
 - 涤 --> 浄
+- 滯 --> 滞
 
 ## Data check
 ```dataview

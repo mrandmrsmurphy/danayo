@@ -35,6 +35,7 @@ tags:
 - 戼 --> 卯
 - 诏 --> 詔
 - 饭 --> 飯
+- 弃 --> 棄
 
 ## Data check
 ```dataview
