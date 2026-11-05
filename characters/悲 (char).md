@@ -31,7 +31,7 @@ mc_id: 1033
 graphemic_classification: "非"
 stand_in: "悲"
 注音: "ㄅㄧㄜ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character

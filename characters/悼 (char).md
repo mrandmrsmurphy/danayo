@@ -30,7 +30,7 @@ mc_id: 1222
 graphemic_classification: "卓"
 stand_in: "悼"
 注音: "ㄉㄚㄨ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
