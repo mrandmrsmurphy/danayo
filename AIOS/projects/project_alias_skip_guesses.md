@@ -37,5 +37,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 儲 | 储 | 1-2-10 | simplified; 亻 2 + 诸 10 |
 | 単 | 单 | 2-2-6 | simplified; 丷 2 over 日十 6 |
 | 卯 | 戼 | 1-3-4 | ⿰ with left 匚+hook 3 and right 一丨コ 4; no source lists it |
+| 嘗 | 尝 | 2-5-4 | simplified; top 龸 5 over 云 4 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

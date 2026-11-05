@@ -30,6 +30,9 @@ tags: [lookup]
 ### +11 Strokes
 8. <ruby>[爾](../../characters/爾%20(char).md)<rt>ㄋㄝ</rt></ruby> - yes
 
+### Aliases
+- 尝 --> 嘗
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

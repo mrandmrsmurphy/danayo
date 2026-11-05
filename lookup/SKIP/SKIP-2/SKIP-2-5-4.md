@@ -36,6 +36,9 @@ tags:
 24. <ruby>[衷](characters/衷.md)<rt>ㄊㄨㄫ</rt></ruby> "inmost"
 25. <ruby>[香](characters/香.md)<rt>ㄏ⼘ㄫ</rt></ruby> "incense"
 
+### Aliases
+- 尝 --> 嘗
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
