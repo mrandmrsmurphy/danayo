@@ -46,6 +46,7 @@ tags:
 - 绝 --> 絶
 - 药 --> 薬
 - 尝 --> 嘗
+- 枽 --> 枼
 
 ## Data check
 ```dataview

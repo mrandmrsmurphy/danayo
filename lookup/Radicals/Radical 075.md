@@ -209,6 +209,9 @@ tags: [lookup]
 ### +22 Strokes
 162. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
 
+### Aliases
+- 枽 --> 枼
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
