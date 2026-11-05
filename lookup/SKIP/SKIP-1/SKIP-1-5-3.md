@@ -21,6 +21,9 @@ tags: [lookup]
 8. <ruby>[邵](characters/邵.md)<rt>ㄙ⼄ㄨ</rt></ruby> "surname"
 9. <ruby>[邸](characters/邸.md)<rt>ㄉㄝㄧ</rt></ruby> "residence"
 
+### Aliases
+- 矽 --> 硅
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

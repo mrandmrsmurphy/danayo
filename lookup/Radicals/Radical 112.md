@@ -68,6 +68,9 @@ tags: [lookup]
 ### +15 Strokes
 34. <ruby>[礬](../../characters/礬.md)<rt>ㄆㄛㄇ</rt></ruby> - alum
 
+### Aliases
+- 矽 --> 硅
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"

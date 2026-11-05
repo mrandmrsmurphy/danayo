@@ -30,6 +30,9 @@ tags: [lookup]
 
 Candidates for this SKIP code not yet present in the database: 祟.
 
+### Aliases
+- 皋 --> 皐
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

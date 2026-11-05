@@ -31,6 +31,9 @@ tags: [lookup]
 ### +13 Strokes
 9. <ruby>[羸](../../characters/羸.md)<rt>ㄌㄨㄧ</rt></ruby> - weakness
 
+### Aliases
+- 羔 --> 皐
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

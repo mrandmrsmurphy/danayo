@@ -37,6 +37,7 @@ tags:
 - 驶 --> 使
 - 单 --> 単
 - 净 --> 浄
+- 矽 --> 硅
 
 ## Data check
 ```dataview

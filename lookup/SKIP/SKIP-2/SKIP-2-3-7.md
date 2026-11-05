@@ -39,6 +39,9 @@ tags:
 27. <ruby>[韋](characters/韋.md)<rt>ㄨㄧ</rt></ruby> "tanned leather"
 28. <ruby>[莽](characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> "poisonous"
 
+### Aliases
+- 羔 --> 皐
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

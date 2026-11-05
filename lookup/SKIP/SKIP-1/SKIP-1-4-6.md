@@ -46,6 +46,9 @@ tags:
 34. <ruby>[脆](characters/脆.md)<rt>ㄑㄝ</rt></ruby> "brittle"
 35. <ruby>[脈](characters/脈.md)<rt>ㄇㄚㄎ</rt></ruby> "vein"
 
+### Aliases
+- 珪 --> 硅
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -32,6 +32,9 @@ tags: [lookup]
 ### +7 Strokes
 8. <ruby>[皓](../../characters/皓.md)<rt>ㄏㄚㄨ</rt></ruby> - luminous
 
+### Aliases
+- 皋 --> 皐
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

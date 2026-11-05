@@ -46,5 +46,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 浄 | 净 | 1-2-6 | simplified; 冫 2 + 争 6 |
 | 浄 | 涤 | 1-3-7 | simplified; 氵 3 + 条 7 |
 | 璣 | 玑 | 1-4-2 | simplified; 王 4 + 几 2 |
+| 硅 | 矽 | 1-5-3 | 石 5 + 夕 3; no source lists it |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
