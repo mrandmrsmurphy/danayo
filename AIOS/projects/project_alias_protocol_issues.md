@@ -24,3 +24,11 @@ Resolution (user): follow EDRDG. 冪 is now 15 strokes, SKIP 2-2-13; moved off S
 The alias 幂 (simplified; Wiktionary: 12 strokes, radical 巾, ⿱冖旲巾 / ⿱𠖇巾; EDRDG has no entry) could not have its `## Aliases` subsection finished until this is decided: its SKIP would be 2-2-… depending on the reading of its parts, and its strokes/radical differ from 冪's (Radical 050 巾, not 014 冖).
 
 Question for the morning: follow EDRDG (15 strokes, 2-2-13) for 冪, or keep Wiktionary's 16? The same split may recur for other characters whose phonetic has a Japanese-form stroke count lower than the traditional one.
+
+## OPEN 2026-11-05 — 惹: vault stroke count and SKIP disagree with EDRDG (same pattern as 冪)
+
+惹 has `stroke_count: 13` and `skip_number: 2-9-4`. EDRDG gives **SKIP 2-3-9** and two stroke counts, **12 and 13** (12 first). The vault counts 艹 as 3 strokes elsewhere (蕾 is 16 = 艹 3 + 雷 13), and 若 (char) is the phonetic. If 艹 is 3, 惹 is 12 strokes with 艹 over 右心 = 2-3-9, which is EDRDG's primary reading; the vault's 13 / 2-9-4 counts 艹 as 4. Following your 冪 ruling (EDRDG wins) the fix would be: stroke 12, SKIP 2-3-9, moving 惹 off Stroke 13 and SKIP-2-9-4 onto Stroke 12 and SKIP-2-3-9. I did **not** change it or stamp 惹.
+
+Worth deciding once: do other 艹-over-X characters carry the same 艹 = 4 count (so a sweep for "SKIP differs from EDRDG" would find more)? The characters lint does not compare SKIP to EDRDG, so these only surface by hand.
+
+Extra evidence for 惹: the vault's own 若 (char) is 8 strokes, SKIP 2-3-5 (艹 counted as 3), so 若 (8) + 心 (4) = 12, which matches EDRDG's 12 / 2-3-9 and contradicts the vault's 13 / 2-9-4 for 惹.

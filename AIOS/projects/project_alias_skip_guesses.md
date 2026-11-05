@@ -42,5 +42,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 零 | 〇 | 4-1-4 | not a Han character; 1 stroke, subtype 4 (same leaf as 一); no radical |
 | 導 | 导 | 2-3-3 | simplified; 巳 3 over 寸 3 |
 | 徴 | 徵 | 1-3-12 | three-part glyph; 彳 3 against the rest 12 |
+| 懇 | 恳 | 2-6-4 | simplified; 艮 6 over 心 4 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

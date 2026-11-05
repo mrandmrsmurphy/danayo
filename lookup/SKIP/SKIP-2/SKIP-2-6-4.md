@@ -32,6 +32,9 @@ tags: [lookup]
 19. <ruby>[骨](/characters/骨%20(char).md)<rt>ㄍㄛㄊ</rt></ruby> "bone"
 20. <ruby>[鬼](/characters/鬼.md)<rt>ㄍㄨㄧ</rt></ruby> "devil"
 
+### Aliases
+- 恳 --> 懇
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

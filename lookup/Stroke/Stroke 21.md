@@ -28,6 +28,7 @@ tags:
 - 嚼 --> variant of 爵
 - 爛 --> 乱
 - 鷄 --> 鶏
+- 懼 --> 惧
 
 ## Data check
 ```dataview

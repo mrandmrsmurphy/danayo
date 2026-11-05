@@ -37,6 +37,7 @@ tags:
 - 笈 --> 及
 - 唤 --> 喚
 - 债 --> 債
+- 恳 --> 懇
 
 ## Data check
 ```dataview

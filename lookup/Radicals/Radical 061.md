@@ -155,6 +155,10 @@ tags: [lookup]
 ### +18 Strokes
 106. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
 
+### Aliases
+- 懼 --> 惧
+- 恳 --> 懇
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
