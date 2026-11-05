@@ -138,6 +138,7 @@ tags: [lookup]
 - 诞 --> 誕
 - 讃 --> 賛
 - 讚 --> 賛
+- 讨 --> 討
 
 ## Data check
 ```dataview

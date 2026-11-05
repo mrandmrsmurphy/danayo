@@ -24,6 +24,7 @@ tags: [lookup]
 - [[Radical 105|癶]] (Radical 105)
 - 仞 --> 刃
 - 仔 --> 子
+- 讨 --> 討
 ### Forbidden
 - 扒
 

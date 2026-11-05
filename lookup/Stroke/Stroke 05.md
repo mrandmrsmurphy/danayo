@@ -28,6 +28,7 @@ tags:
 ### Aliases
 - 夘 --> 卯
 - 圣 --> 聖
+- 讨 --> 討
 
 ## Data check
 ```dataview
