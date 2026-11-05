@@ -29,7 +29,7 @@ mc_id: 913
 graphemic_classification: "会意"
 stand_in: "妾"
 注音: "ㄑㄛㄆ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character
