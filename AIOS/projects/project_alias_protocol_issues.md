@@ -32,3 +32,19 @@ Question for the morning: follow EDRDG (15 strokes, 2-2-13) for 冪, or keep Wik
 Worth deciding once: do other 艹-over-X characters carry the same 艹 = 4 count (so a sweep for "SKIP differs from EDRDG" would find more)? The characters lint does not compare SKIP to EDRDG, so these only surface by hand.
 
 Extra evidence for 惹: the vault's own 若 (char) is 8 strokes, SKIP 2-3-5 (艹 counted as 3), so 若 (8) + 心 (4) = 12, which matches EDRDG's 12 / 2-3-9 and contradicts the vault's 13 / 2-9-4 for 惹.
+
+## OPEN 2026-11-05 — 抛: stroke count 7 vs 8, and the alias 拋 depends on it
+
+抛 has `stroke_count: 8` and `skip_number: 1-3-5`. EDRDG lists **two stroke counts, 7 and 8**, with SKIP 1-3-5 (which implies 8: 扌 3 + 5). Wiktionary gives 抛 **7 strokes** (扌 + 𠠵, where 𠠵 is 九 + 力 at 2 + 2 = 4, so 3 + 4 = 7) and its traditional form 拋 **8 strokes** (扌 + 尢 over 力, ⿰扌⿺尢力). The vault's Notes describe 抛 as 九 + 力, which is 7. So the vault's 8 / 1-3-5 may be the count for 拋's shape rather than 抛's.
+
+The alias 拋 (traditional; EDRDG has no entry for it) cannot be written up until this is decided: if 抛 is 7 strokes, SKIP would be 1-3-4 and 拋 takes the 8-stroke / 1-3-5 slot; if 抛 stays 8, both would share Stroke 08 / SKIP-1-3-5. 抛 was **not stamped** and nothing was changed.
+
+Question: is 抛 7 strokes (Wiktionary, EDRDG's first count, and what 九 + 力 adds up to) with SKIP 1-3-4, or does the vault keep 8 / 1-3-5? I'd lean 7 / 1-3-4 if you want it to match the glyph, but EDRDG's own SKIP says 1-3-5.
+
+## OPEN 2026-11-05 — 拿: vault SKIP disagrees with EDRDG, and `mc_id` is above an alias's rank
+
+拿 has `skip_number: 2-6-4` (合 6 over 手 4). EDRDG gives **2-2-8** for 拿 (stroke count 10 agrees): it splits the top as 𠆢 (2) over 一口手 (8). Note that 2-6-4 is EDRDG's code for the alias **挐**, not for 拿, so the page may have taken its SKIP from the wrong glyph. Following your EDRDG-wins ruling the fix would move 拿 from SKIP-2-6-4 to SKIP-2-2-8 (leaf exists? not checked) and update the Notes link.
+
+Also, 拿 has three aliases and their data differ: 拏 (EDRDG: Radical 064, 9 strokes, SKIP 2-5-4; "to connect"), 挐 (EDRDG: 10 strokes, SKIP 2-6-4; CC rank **3988**), 㧱 (no EDRDG entry; Wiktionary: Radical 064, 10 strokes, ⿰合手, so a computed SKIP 1-6-4). Under the new rule `mc_id` must be the lowest rank among the character and its aliases: 挐 is 3988 and 拿 itself is not on the CC lists, so `mc_id` 5165 should probably become 3988. 拏 and 挐 are real variants people type; 㧱 is the rare kind you said you don't need.
+
+拿 was **not stamped** and nothing was changed. Questions: (1) move 拿 to SKIP-2-2-8? (2) change `mc_id` to 3988? (3) drop 㧱 from the aliases?
