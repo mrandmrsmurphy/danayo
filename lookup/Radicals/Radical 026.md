@@ -28,6 +28,9 @@ tags: [lookup]
 ### +10 Strokes
 8. <ruby>[卿](../../characters/卿%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - noble
 
+### Aliases
+- 卬 --> 卯
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

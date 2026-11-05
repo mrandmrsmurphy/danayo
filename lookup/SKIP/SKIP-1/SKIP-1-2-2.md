@@ -20,6 +20,9 @@ tags: [lookup]
 8. <ruby>[収](/characters/収.md)<rt>ㄙㄨㄛ</rt></ruby> - recover
 9. <ruby>[比](/characters/比%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - than
 
+### Aliases
+- 卬 --> 卯
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

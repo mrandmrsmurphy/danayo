@@ -32,6 +32,7 @@ tags:
 - 孜 --> 滋
 - 阳 --> 陽
 - 鸡 --> 鶏
+- 戼 --> 卯
 
 ## Data check
 ```dataview

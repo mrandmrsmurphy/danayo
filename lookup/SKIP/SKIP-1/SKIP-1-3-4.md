@@ -69,6 +69,7 @@ tags:
 
 ### Aliases
 - 阳 --> 陽
+- 戼 --> 卯
 
 ## Datacheck
 ```dataview

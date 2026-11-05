@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 书 --> 書
+- 卬 --> 卯
 
 ## Data check
 ```dataview

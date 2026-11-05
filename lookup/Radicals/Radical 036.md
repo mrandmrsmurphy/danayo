@@ -26,6 +26,9 @@ tags: [lookup]
 ### +10 Strokes
 6. <ruby>[夢](../../characters/夢%20(char).md)<rt>ㄇㄨㄫ</rt></ruby> - dream
 
+### Aliases
+- 夘 --> 卯
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

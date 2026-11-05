@@ -30,6 +30,9 @@ tags:
 18. <ruby>[氾](characters/氾.md)<rt>ㄈㄚㄇ</rt></ruby> "overflow"
 19. <ruby>[犯](characters/犯.md)<rt>ㄅㄚㄇ</rt></ruby> "crime"
 
+### Aliases
+- 夘 --> 卯
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

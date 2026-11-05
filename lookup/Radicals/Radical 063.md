@@ -32,6 +32,9 @@ tags: [lookup]
 ### +8 Strokes
 8. <ruby>[扉](../../characters/扉%20(char).md)<rt>ㄈㄨㄧ</rt></ruby> - front door
 
+### Aliases
+- 戼 --> 卯
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
