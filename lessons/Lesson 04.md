@@ -27,7 +27,7 @@ An English sentence starts with a subject: "The mountain is big."  A Dan'a'yo se
 A topic is not the same as a subject.  The topic is what the sentence is about; a subject is a part of the comment, and a sentence may have both.  You will see this in Batch 3.
 
 Three things to notice already:
-- Nothing marks the topic or the comment; position does the work.  A space follows the topic.
+- Nothing marks the topic or the comment; position does the work.  A space follows the topic, and another follows a frame (Batch 5).
 - A comment that is a quality (a **stative**, 性詞) needs no "is".  The quality 大 is the whole comment.
 - Time is not marked.  <ruby>山<rt>ㄙㄚㄋ</rt></ruby> <ruby>大<rt>ㄉㄚㄧ</rt></ruby> can be about now or about then, and the context decides.
 
@@ -112,15 +112,15 @@ New characters in this batch:
 | <ruby>場<rt>ㄐㄚㄫ</rt></ruby> | market | 12 | 1-3-9 |
 | <ruby>花<rt>ㄏ⺢</rt></ruby> | flower | 7 | 2-3-4 |
 
-Sometimes the quality belongs to a part of the topic.  The topic comes first, then the part, then the quality.  In English you would say "The market has many people", or "Dogs have long ears".  Dan'a'yo says it the way Japanese and Korean do:
+Sometimes the quality belongs to a part of the topic.  The topic comes first.  Then comes the comment, which names the part and its quality, written together.  In English you would say "The market has many people", or "Dogs have long ears".  Dan'a'yo says it the way Japanese and Korean do:
 
-- <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。  As for the market, people are many.  Topic: 市場.  Subject: 人.  Comment: 多.
-- <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby> <ruby>長<rt>ㄐㄚㄫ</rt></ruby>。  As for dogs, (their) ears are long.
-- <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>手<rt>ㄙ⼜</rt></ruby> <ruby>大<rt>ㄉㄚㄧ</rt></ruby>。  As for (my) sister, (her) hands are big.
-- <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>心<rt>ㄙㄧㄇ</rt></ruby> <ruby>大<rt>ㄉㄚㄧ</rt></ruby>。  As for the teacher, (his) heart is big (he is generous).
-- <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。  As for the school, flowers are many.
+- <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。  As for the market, people are many.  Topic: 市場.  Comment: 人多, made of the subject 人 and the quality 多.
+- <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby><ruby>長<rt>ㄐㄚㄫ</rt></ruby>。  As for dogs, (their) ears are long.
+- <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>手<rt>ㄙ⼜</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby>。  As for (my) sister, (her) hands are big.
+- <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>心<rt>ㄙㄧㄇ</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby>。  As for the teacher, (his) heart is big (he is generous).
+- <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。  As for the school, flowers are many.
 
-The topic and the subject are different parts of the sentence.  Nothing marks the subject: it is simply the word before the quality.
+The topic and the subject are different parts of the sentence.  Nothing marks the subject: it is simply the word before the quality, inside the comment.
 
 ## Batch 4: Verbs and their objects
 Eleven words: six verbs, three nouns and two pronouns.
@@ -189,8 +189,8 @@ Say what the topic is and what the comment is.
 2. <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>黒<rt>ㄏㄨㄎ</rt></ruby>。
 3. <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
 4. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>早<rt>ㄐㄚㄨ</rt></ruby>。
-5. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
-6. <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>手<rt>ㄙ⼜</rt></ruby> <ruby>大<rt>ㄉㄚㄧ</rt></ruby>。
+5. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。
+6. <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>手<rt>ㄙ⼜</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby>。
 7. <ruby>我<rt>ㄚ</rt></ruby> <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby>。
 8. <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> <ruby>持<rt>ㄉㄧ</rt></ruby><ruby>筆<rt>ㄆㄨㄊ</rt></ruby>。
 9. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>開<rt>ㄎㄚㄧ</rt></ruby><ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>。
@@ -201,8 +201,8 @@ Say what the topic is and what the comment is.
 > 2. topic 犬 | comment 黒
 > 3. topic 雪 | comment 多
 > 4. topic 先生 | comment 早
-> 5. topic 市場 | comment 人 多 (subject 人, quality 多)
-> 6. topic 姉 | comment 手 大 (subject 手, quality 大)
+> 5. topic 市場 | comment 人多 (subject 人, quality 多)
+> 6. topic 姉 | comment 手大 (subject 手, quality 大)
 > 7. topic 我 | comment 見雪
 > 8. topic 男人 | comment 持筆
 > 9. topic 先生 | comment 開学校
@@ -211,12 +211,12 @@ Say what the topic is and what the comment is.
 #### A2. Its own subject?
 Which of these have a subject of their own inside the comment?
 
-1. <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby> <ruby>長<rt>ㄐㄚㄫ</rt></ruby>。
+1. <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby><ruby>長<rt>ㄐㄚㄫ</rt></ruby>。
 2. <ruby>天<rt>ㄊㄝㄋ</rt></ruby> <ruby>高<rt>ㄍㄚㄨ</rt></ruby>。
-3. <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
+3. <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。
 4. <ruby>我<rt>ㄚ</rt></ruby> <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby>。
-5. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
-6. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>心<rt>ㄙㄧㄇ</rt></ruby> <ruby>大<rt>ㄉㄚㄧ</rt></ruby>。
+5. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>人<rt>ㄋㄧㄋ</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。
+6. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>心<rt>ㄙㄧㄇ</rt></ruby><ruby>大<rt>ㄉㄚㄧ</rt></ruby>。
 
 >[!answer]- Answers
 > 1. yes: the subject is 耳
@@ -309,7 +309,7 @@ Read each sentence and say what it means.
 4. <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby>。
 5. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>話<rt>ㄏ⺢ㄧ</rt></ruby><ruby>薬<rt>⼘ㄎ</rt></ruby>。
 6. <ruby>我<rt>ㄚ</rt></ruby> <ruby>送<rt>ㄙㄛㄫ</rt></ruby><ruby>筆<rt>ㄆㄨㄊ</rt></ruby>。
-7. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
+7. <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby> <ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。
 8. <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> <ruby>入<rt>ㄋㄧㄆ</rt></ruby><ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>。
 
 >[!answer]- Answers
@@ -337,7 +337,7 @@ Write each sentence in characters.
 
 >[!answer]- Answers
 > 1. <ruby>橋<rt>ㄍ⼘ㄨ</rt></ruby> <ruby>長<rt>ㄐㄚㄫ</rt></ruby>。
-> 2. <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby> <ruby>長<rt>ㄐㄚㄫ</rt></ruby>。
+> 2. <ruby>犬<rt>ㄎ⼔ㄋ</rt></ruby> <ruby>耳<rt>ㄋㄧ</rt></ruby><ruby>長<rt>ㄐㄚㄫ</rt></ruby>。
 > 3. <ruby>姉<rt>ㄐㄚ</rt></ruby> <ruby>持<rt>ㄉㄧ</rt></ruby><ruby>紙<rt>ㄐㄝ</rt></ruby>。
 > 4. <ruby>我<rt>ㄚ</rt></ruby> <ruby>入<rt>ㄋㄧㄆ</rt></ruby><ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>。
 > 5. <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>。
@@ -348,14 +348,14 @@ Write each sentence in characters.
 The parts of each sentence are mixed up.  Write them in the right order.
 
 1. <ruby>持<rt>ㄉㄧ</rt></ruby><ruby>薬<rt>⼘ㄎ</rt></ruby> <ruby>君<rt>ㄍㄨㄋ</rt></ruby>
-2. <ruby>多<rt>ㄉㄜ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
+2. <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby> <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 3. <ruby>高<rt>ㄍㄚㄨ</rt></ruby> <ruby>山<rt>ㄙㄚㄋ</rt></ruby>
 4. <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby>
 5. <ruby>話<rt>ㄏ⺢ㄧ</rt></ruby><ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby> <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>
 
 >[!answer]- Answers
 > 1. <ruby>君<rt>ㄍㄨㄋ</rt></ruby> <ruby>持<rt>ㄉㄧ</rt></ruby><ruby>薬<rt>⼘ㄎ</rt></ruby>。
-> 2. <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby> <ruby>多<rt>ㄉㄜ</rt></ruby>。
+> 2. <ruby>学校<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby> <ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby><ruby>多<rt>ㄉㄜ</rt></ruby>。
 > 3. <ruby>山<rt>ㄙㄚㄋ</rt></ruby> <ruby>高<rt>ㄍㄚㄨ</rt></ruby>。
 > 4. <ruby>男人<rt>ㄋㄚㄇㄋㄧㄋ</rt></ruby> <ruby>市場<rt>ㄙㄧㄐㄚㄫ</rt></ruby><ruby>於<rt>ㄛ</rt></ruby> <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby><ruby>草花<rt>ㄑㄚㄨㄏ⺢</rt></ruby>。
 > 5. <ruby>先生<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby> <ruby>話<rt>ㄏ⺢ㄧ</rt></ruby><ruby>雪<rt>ㄙ⼔ㄊ</rt></ruby>。

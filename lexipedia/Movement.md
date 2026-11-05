@@ -24,10 +24,10 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[来](../words/来.md)<rt>ㄌㄚㄧ</rt></ruby>: to come — see [[Calendar]] for its own citation there.
-- <ruby>[去](../words/去.md)<rt>ㄎ⼄</rt></ruby>: to go.
+- <ruby>[去](../words/去.md)<rt>ㄎ⼄</rt></ruby>: to depart; to go to a place.
 - <ruby>[往](../words/往.md)<rt>⺢ㄫ</rt></ruby>: to go towards (往復, "round trip"; 往来, "coming and going, interaction") — a near-synonym of [[去]].
 - <ruby>[往来](../words/往来.md)<rt>⺢ㄫㄌㄚㄧ</rt></ruby>: coming and going, traffic — beside [[往]] and [[来]].
-- <ruby>[行](../words/行.md)<rt>ㄏㄚㄫ</rt></ruby>: attend; go to.
+- <ruby>[行](../words/行.md)<rt>ㄏㄚㄫ</rt></ruby>: to walk, travel or proceed; to carry out.
 - <ruby>[入](../words/入.md)<rt>ㄋㄧㄆ</rt></ruby>: to enter.
 - <ruby>[挿入](../words/挿入.md)<rt>ㄑㄚㄆㄋㄧㄆ</rt></ruby>: to insert, stick into.
 - <ruby>[出](../words/出.md)<rt>ㄑㄨㄊ</rt></ruby>: to exit.
@@ -42,7 +42,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[移民](../words/移民.md)<rt>⼶ㄧㄇㄧㄋ</rt></ruby>: an immigrant or emigrant — see [[Society]] for its own citation there.
 - <ruby>[移住](../words/移住.md)<rt>⼶ㄧㄐㄨ</rt></ruby>: to migrate, immigrate — see [[Society]] for its own citation there.
 - <ruby>[移動](../words/移動.md)<rt>⼶ㄧㄉㄛㄫ</rt></ruby>: mobile; moveable.
-- <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run.
+- <ruby>[走](../words/走.md)<rt>ㄙㄛㄨ</rt></ruby>: to run, flee.
 - <ruby>[飛](../words/飛.md)<rt>ㄈㄝㄧ</rt></ruby>: fly.
 - <ruby>[奔波](../words/奔波.md)<rt>ㄅㄛㄋㄅㄚ</rt></ruby>: to rush about, run around, toil busily.
 - <ruby>[奔走](../words/奔走.md)<rt>ㄅㄛㄋㄙㄛㄨ</rt></ruby>: to run around, walk quickly.

@@ -23,8 +23,10 @@ skip_number: 1-3-3
 grade_level: "1"
 pos: 事詞
 english:
-  - attend
-  - go to
+  - walk
+  - travel
+  - proceed
+  - carry out
 羅馬字: hang
 諺文: 항
 joyo_level: "2"
@@ -55,7 +57,7 @@ boundedness: 55
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Words
-- <ruby>[[行]]<rt>ㄏㄚㄫ</rt></ruby> "attend; go to" (stand-in for 行)
+- <ruby>[[行]]<rt>ㄏㄚㄫ</rt></ruby> "walk; travel; proceed; carry out" (stand-in for 行)
 - <ruby>[[旅行]]<rt>ㄌ⼄ㄏㄚㄫ</rt></ruby> "travel; go on a trip; tour"
 - <ruby>[[飛行]]<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby> "fly; flight"
 - <ruby>[[銀行]]<rt>ㄧㄋㄏㄚㄫ</rt></ruby> "bank"

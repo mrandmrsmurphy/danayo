@@ -155,7 +155,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 
 ### Top and bottom (SKIP 2): 49 characters
 - <ruby>分<rt>ㄅㄨㄋ</rt></ruby> - divide (4 strokes, 2-2-2)
-- <ruby>去<rt>ㄎ⼄</rt></ruby> - go (5 strokes, 2-3-2)
+- <ruby>去<rt>ㄎ⼄</rt></ruby> - depart, go to (5 strokes, 2-3-2)
 - <ruby>号<rt>ㄏㄚㄨ</rt></ruby> - symbol (5 strokes, 2-3-2)
 - <ruby>百<rt>ㄅㄚㄎ</rt></ruby> - hundred (6 strokes, 2-2-4)
 - <ruby>而<rt>ㄋㄧ</rt></ruby> - and (6 strokes, 2-2-4)
@@ -169,7 +169,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>弟<rt>ㄉㄝ</rt></ruby> - younger brother (7 strokes, 2-2-5)
 - <ruby>声<rt>ㄙㄧㄫ</rt></ruby> - vocalize, emit sound (7 strokes, 2-3-4)
 - <ruby>足<rt>ㄐㄛㄎ</rt></ruby> - foot (7 strokes, 2-3-4)
-- <ruby>走<rt>ㄙㄛㄨ</rt></ruby> - run (7 strokes, 2-3-4)
+- <ruby>走<rt>ㄙㄛㄨ</rt></ruby> - run, flee (7 strokes, 2-3-4)
 - <ruby>見<rt>ㄍ⼶ㄋ</rt></ruby> - see (7 strokes, 2-5-2)
 - <ruby>金<rt>ㄍㄧㄇ</rt></ruby> - metal, gold (8 strokes, 2-2-6)
 - <ruby>夜<rt>⼘</rt></ruby> - night (8 strokes, 2-2-6)

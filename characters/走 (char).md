@@ -16,9 +16,10 @@ stroke_count: 7
 radical: "走"
 skip_number: 2-3-4
 grade_level: "1"
-pos: 事詞
+pos: 性詞
 english:
   - run
+  - flee
 羅馬字: sou
 諺文: "솟"
 joyo_level: "2"

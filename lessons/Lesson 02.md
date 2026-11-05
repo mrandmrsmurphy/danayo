@@ -131,10 +131,10 @@ These 65 characters are the pictograms (象形) and symbols (指事) of six stro
 - <ruby>耳<rt>ㄋㄧ</rt></ruby> - ear
 - <ruby>肉<rt>ㄋㄨㄎ</rt></ruby> - meat
 - <ruby>虫<rt>ㄐㄨㄫ</rt></ruby> - bug
-- <ruby>行<rt>ㄏㄚㄫ</rt></ruby> - attend, go to (指事)
+- <ruby>行<rt>ㄏㄚㄫ</rt></ruby> - walk, travel, proceed (指事)
 - <ruby>西<rt>ㄙㄝㄧ</rt></ruby> - west
 
-The glosses are the ones on each character's own page, so a few are grammatical or narrow: 中 is "-ing" (as in 中 added to a verb), 行 is "attend, go to", and 回 and 次 name a turn and an order.
+The glosses are the ones on each character's own page, so a few are grammatical or narrow: 中 is "-ing" (as in 中 added to a verb), and 回 and 次 name a turn and an order.
 
 ## Exercises
 

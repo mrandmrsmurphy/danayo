@@ -96,7 +96,7 @@ This curriculum guides learners from **sound → characters → basic sentences 
 **Core concepts**:
 - **Topic** (主題) = what you are talking about; **comment** (述語) = what you say about it
 - Topic–comment is not subject–predicate
-- **Simultaneous topic and subject** (Japanese は vs が parallels): 市場 人 多
+- **Simultaneous topic and subject** (Japanese は vs が parallels): 市場 人多
 - A quality (stative) needs no "is": 山 大
 - A verb (eventive) and its object are written together: 我 見雪
 - A **frame** (域, a 於 phrase) goes between the topic and the comment: 我 学校於 見先生

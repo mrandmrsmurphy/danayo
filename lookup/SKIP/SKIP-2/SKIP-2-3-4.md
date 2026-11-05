@@ -39,7 +39,7 @@ tags:
 27. <ruby>[芸](characters/芸.md)<rt>ㄝ</rt></ruby> "skill"
 28. <ruby>[芼](characters/芼.md)<rt>ㄇㄚㄨ</rt></ruby> "cook"
 29. <ruby>[赤](characters/赤%20(char).md)<rt>ㄑㄝㄎ</rt></ruby> "red"
-30. <ruby>[走](characters/走%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> "run"
+30. <ruby>[走](characters/走%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> "run, flee"
 31. <ruby>[足](characters/足%20(char).md)<rt>ㄐㄛㄎ</rt></ruby> "foot"
 32. <ruby>[邑](characters/邑.md)<rt>ㄧㄆ</rt></ruby> "township"
 33. <ruby>[宏](characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> "vast"

@@ -10,7 +10,7 @@ tags: [lookup]
 
 ## Characters
 ### Used
-1. <ruby>[去](../../characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - go
+1. <ruby>[去](../../characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - depart, go to
 2. <ruby>[参](../../characters/参.md)<rt>ㄙㄚㄇ</rt></ruby> - participate
 
 ### Other

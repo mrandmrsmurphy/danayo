@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[行](../../characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - go
+1. <ruby>[行](../../characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> - walk, travel, proceed
 
 ### +5 Strokes
 2. <ruby>[術](../../characters/術%20(char).md)<rt>ㄙㄨㄊ</rt></ruby> - skill

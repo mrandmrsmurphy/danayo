@@ -30,7 +30,7 @@ tags:
 18. <ruby>[江](characters/江.md)<rt>ㄍㄚㄫ</rt></ruby> "river"
 19. <ruby>[竹](characters/竹%20(char).md)<rt>ㄐㄨㄎ</rt></ruby> "bamboo"
 20. <ruby>[羽](characters/羽.md)<rt>ㄨ</rt></ruby> "feather"
-21. <ruby>[行](characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> "attend"
+21. <ruby>[行](characters/行%20(char).md)<rt>ㄏㄚㄫ</rt></ruby> "walk, travel, proceed"
 22. <ruby>[汐](characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> "evening tide"
 23. <ruby>[屿](characters/屿.md)<rt>ㄙ⼄</rt></ruby> "islet"
 

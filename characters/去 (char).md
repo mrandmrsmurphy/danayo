@@ -16,9 +16,10 @@ stroke_count: 5
 radical: 厶
 skip_number: 2-3-2
 grade_level: "1"
-pos: 性詞
+pos: 事詞
 english:
-  - go
+  - depart
+  - go to
 羅馬字: kyo
 諺文: 쿄
 joyo_level: "3"

@@ -14,7 +14,7 @@ More precisely:
 
 - **Morphology**: isolating core + agglutinative functional morphology
 - **Alignment**: discourse-driven (topic-prominent), not nominative–accusative or ergative in the usual sense
-- **Word order**: **topic–comment** in the Literary and Classical styles (Online style is SVO-dominant, and topic–comment is rare there), internally **SVO** — the verb precedes its object (神創造世界 “God created the world”), while adjuncts and postpositional phrases precede the verb
+- **Word order**: **topic–comment** in the Literary and Classical styles (Online style is SVO-dominant, and topic–comment is rare there), internally **SVO** — the verb precedes its object (神 創造世界 “God created the world”), while adjuncts and postpositional phrases precede the verb
 - **Marking type**: strongly **analytic**, with systematic **postpositional case marking**: required in the Literary style, and dropped where context allows in the Classical and Online styles
 
 ## 2. Morphology
@@ -273,7 +273,7 @@ Dan’a’yo has **mixed headedness**: head-final in the nominal and adpositiona
 
 ### 8.2 Head-initial domain
 
-- **The core verb phrase is VO**: the verb precedes its direct object (神創造世界 “God created the world,” not \*神世界創造)
+- **The core verb phrase is VO**: the verb precedes its direct object (神 創造世界 “God created the world,” not \*神世界創造)
 
 ### 8.3 Further exceptions
 

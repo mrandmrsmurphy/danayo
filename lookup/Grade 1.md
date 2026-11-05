@@ -74,7 +74,7 @@ Each entry shows at most its first three English meanings; the character page li
 58. <ruby>[[本 (char)|本]]<rt>ㄅㄛㄋ</rt></ruby> - foundation
 59. <ruby>[[他 (char)|他]]<rt>ㄊㄜ</rt></ruby> - another, additional
 60. <ruby>[[冬 (char)|冬]]<rt>ㄊㄛㄫ</rt></ruby> - winter
-61. <ruby>[[去 (char)|去]]<rt>ㄎ⼄</rt></ruby> - go
+61. <ruby>[[去 (char)|去]]<rt>ㄎ⼄</rt></ruby> - depart, go to
 62. <ruby>[[右]]<rt>⼜</rt></ruby> - right (direction)
 63. <ruby>[[世]]<rt>ㄙㄝ</rt></ruby> - world, society
 64. <ruby>[[打]]<rt>ㄉㄚ</rt></ruby> - hit
@@ -110,7 +110,7 @@ Each entry shows at most its first three English meanings; the character page li
 94. <ruby>[[地 (char)|地]]<rt>ㄉㄧㄜ</rt></ruby> - land
 95. <ruby>[[有 (char)|有]]<rt>⼜</rt></ruby> - have
 96. <ruby>[[当 (char)|当]]<rt>ㄉㄚㄫ</rt></ruby> - while
-97. <ruby>[[行 (char)|行]]<rt>ㄏㄚㄫ</rt></ruby> - attend, go to
+97. <ruby>[[行 (char)|行]]<rt>ㄏㄚㄫ</rt></ruby> - walk, travel, proceed
 98. <ruby>[[両 (char)|両]]<rt>ㄌ⼘ㄫ</rt></ruby> - both
 99. <ruby>[[死]]<rt>ㄙㄧㄜ</rt></ruby> - die
 100. <ruby>[[虫]]<rt>ㄐㄨㄫ</rt></ruby> - bug
@@ -124,7 +124,7 @@ Each entry shows at most its first three English meanings; the character page li
 108. <ruby>[[交 (char)|交]]<rt>ㄍ⼄ㄨ</rt></ruby> - mix, exchange
 109. <ruby>[[早 (char)|早]]<rt>ㄐㄚㄨ</rt></ruby> - early
 110. <ruby>[[足 (char)|足]]<rt>ㄐㄛㄎ</rt></ruby> - foot
-111. <ruby>[[走 (char)|走]]<rt>ㄙㄛㄨ</rt></ruby> - run
+111. <ruby>[[走 (char)|走]]<rt>ㄙㄛㄨ</rt></ruby> - run, flee
 112. <ruby>[[売]]<rt>ㄇㄚㄧ</rt></ruby> - sell
 113. <ruby>[[里 (char)|里]]<rt>ㄌㄧ</rt></ruby> - village
 114. <ruby>[[車 (char)|車]]<rt>ㄑ⺢</rt></ruby> - cart, car

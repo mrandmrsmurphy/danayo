@@ -12,7 +12,7 @@ tags: [lookup]
 ## Characters
 1. <ruby>[兄](characters/兄%20(char).md)<rt>ㄏ⼄ㄫ</rt></ruby> - older brother
 2. <ruby>[冬](characters/冬%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - winter
-3. <ruby>[去](characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - go
+3. <ruby>[去](characters/去%20(char).md)<rt>ㄎ⼄</rt></ruby> - depart, go to
 4. <ruby>[只](characters/只%20(char).md)<rt>ㄑㄝ</rt></ruby> - only, just
 5. <ruby>[号](characters/号.md)<rt>ㄏㄚㄨ</rt></ruby> - symbol, mark
 6. <ruby>[穴](characters/穴.md)<rt>ㄏ⼔ㄊ</rt></ruby> - cave

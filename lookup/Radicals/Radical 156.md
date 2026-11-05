@@ -11,7 +11,7 @@ tags: [lookup]
 ## Strokes
 
 ### +0 Strokes
-1. <ruby>[走](../../characters/走%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> - run
+1. <ruby>[走](../../characters/走%20(char).md)<rt>ㄙㄛㄨ</rt></ruby> - run, flee
 
 ### +2 Strokes
 2. <ruby>[赴](../../characters/赴%20(char).md)<rt>ㄈㄨㄛ</rt></ruby> - attend
