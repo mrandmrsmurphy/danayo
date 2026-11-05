@@ -28,6 +28,7 @@ tags: [lookup]
 15. <ruby>[玄](/characters/玄%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby>
 16. <ruby>[㐱](/characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby>
 ### Aliases
+- 圣 --> 聖
 * 尓 --> 爾
 ### Forbidden
 * 厼

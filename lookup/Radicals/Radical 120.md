@@ -127,6 +127,7 @@ tags: [lookup]
 ### Aliases
 - 絕 --> 絶
 - 绝 --> 絶
+- 练 --> 練
 
 ## Data check
 ```dataview

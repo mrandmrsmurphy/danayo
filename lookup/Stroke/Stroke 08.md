@@ -38,6 +38,7 @@ tags:
 - 单 --> 単
 - 净 --> 浄
 - 矽 --> 硅
+- 练 --> 練
 
 ## Data check
 ```dataview

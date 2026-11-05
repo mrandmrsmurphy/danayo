@@ -115,6 +115,9 @@ tags:
 ### +16 Strokes
 - 壞 --> traditional form of 壊
 
+### Aliases
+- 圣 --> 聖
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"
