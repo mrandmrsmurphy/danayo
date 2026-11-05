@@ -34,13 +34,12 @@ danayo_id: 7082
 mc_id: 8402
 graphemic_classification: "別"
 stand_in: "捌"
-aliases:
 注音: "ㄅㄚㄊ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-09
+date-last-perfect: 2026-11-05
 ---
 >[!tip] This is a page about the character 捌.
 >For the word, see [捌](../words/捌.md)

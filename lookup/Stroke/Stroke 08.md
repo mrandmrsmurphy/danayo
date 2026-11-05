@@ -41,6 +41,7 @@ tags:
 - 练 --> 練
 - 诞 --> 誕
 - 闹 --> 閙
+- 拔 --> 抜
 
 ## Data check
 ```dataview

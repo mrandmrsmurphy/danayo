@@ -92,6 +92,7 @@ tags:
 ### Aliases
 - 驶 --> 使
 - 练 --> 練
+- 拔 --> 抜
 
 ## Datacheck
 ```dataview

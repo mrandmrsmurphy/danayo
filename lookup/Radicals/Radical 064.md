@@ -188,6 +188,9 @@ tags: [lookup]
 ### +21 Strokes
 138. <ruby>[攬](../../characters/攬.md)<rt>ㄌㄚㄇ</rt></ruby> - monopolize
 
+### Aliases
+- 拔 --> 抜
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
