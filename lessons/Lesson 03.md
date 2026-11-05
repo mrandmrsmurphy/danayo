@@ -1,6 +1,6 @@
 ---
 language: English
-date-last-perfect: 2026-10-03
+date-last-perfect: 2026-11-04
 ---
 > [[lesson-outline]]
 
@@ -11,10 +11,10 @@ By the end of this lesson you will be able to:
 - Know that a character can have more than one form, and which form Dan'a'yo uses.
 - Recognize six common radicals.
 - Explain why 父 is a character but not a word.
-- Know 56 words: the 50 characters from Lesson 02 that are words on their own, and six new words.
+- Know 55 words: the 49 characters from Lesson 02 that are words on their own, and six new words.
 - Recognize, say and write 135 more characters, for 200 in all.
 
-You can now sound out the ruby, and you know the 65 basic characters.  This lesson gives you 135 more, and the tools to find any character you do not know.  The tools come first, because the list at the end is easier to learn when you can see how its characters are built.
+You can now sound out the ruby, and you know the 65 basic characters.  This lesson gives you 135 more, and the tools to find any character you do not know.  The tools come first, because the list at the end is easier to learn when you can see how its characters are built.  The rules of the script are in [[文法 - 03文字法.en]], and the lookup pages are [[SKIP]], [[Radicals]] and [[Stroke]].
 
 ## SKIP: Finding a Character by its Shape
 You cannot look up a character by its sound if you do not know the sound.  SKIP solves this.  Every character gets a code of three numbers, worked out from what you can see.
@@ -58,7 +58,7 @@ Everything in SKIP depends on counting strokes correctly.  A stroke is one line 
 - 日 has 4 strokes, 木 has 4, 火 has 4, 月 has 4.
 - 田 has 5 strokes.
 
-If you are not sure of a count, look up the code one stroke more and one less.  The SKIP index forgives small mistakes in the parts.
+If you are not sure of a count, look up the code one stroke more and one less.
 
 Once you have the three numbers, the SKIP index takes you straight to a page of every character with that code.
 
@@ -109,7 +109,7 @@ A character is a shape.  A word is something you say and understand.  Many chara
 
 These six are real words, and you now know them: <ruby>父親<rt>ㄅㄨㄑㄧㄋ</rt></ruby>, <ruby>母親<rt>ㄇㄛㄨㄑㄧㄋ</rt></ruby>, <ruby>田野<rt>ㄉㄝㄋ·⼘</rt></ruby>, <ruby>昆虫<rt>ㄍㄛㄋㄐㄨㄫ</rt></ruby>, <ruby>天才<rt>ㄊㄝㄋㄐㄚㄧ</rt></ruby> and <ruby>世界<rt>ㄙㄝㄍ⼶</rt></ruby>.
 
-Of the 65 characters in Lesson 02, 50 are words on their own and 15 are not: 世, 主, 元, 刀, 子, 才, 文, 次, 母, 父, 田, 糸, 羊, 虫 and 西.  When you meet one of these, expect it inside a longer word.  So you already know 50 words from Lesson 02, and with these six you know 56.
+Of the 65 characters in Lesson 02, 49 are words on their own and 16 are not: 世, 主, 中, 元, 刀, 子, 才, 文, 次, 母, 父, 田, 糸, 羊, 虫 and 西.  When you meet one of these, expect it inside a longer word.  So you already know 49 words from Lesson 02, and with these six you know 55.
 
 ## The 135 Characters
 These 135 bring your total to 200.  They are grouped by shape, using the first number of the SKIP code, and run from the fewest strokes to the most.  Each shows its ruby, its meaning, its stroke count and its SKIP code.
@@ -125,7 +125,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>対<rt>ㄉㄛㄧ</rt></ruby> - oppose (7 strokes, 1-4-3)
 - <ruby>使<rt>ㄙㄧ</rt></ruby> - envoy (8 strokes, 1-2-6)
 - <ruby>彼<rt>ㄅㄜ</rt></ruby> - yon (8 strokes, 1-3-5)
-- <ruby>於<rt>ㄛ</rt></ruby> - in, at (8 strokes, 1-4-4)
+- <ruby>於<rt>ㄛ</rt></ruby> - in, at, during (8 strokes, 1-4-4)
 - <ruby>非<rt>ㄈㄧ</rt></ruby> - ain't (8 strokes, 1-4-4)
 - <ruby>所<rt>ㄙㄜ</rt></ruby> - -ee (8 strokes, 1-4-4)
 - <ruby>明<rt>ㄇ⼶ㄫ</rt></ruby> - bright (8 strokes, 1-4-4)
@@ -147,7 +147,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>軽<rt>ㄎㄧㄫ</rt></ruby> - light, not heavy (12 strokes, 1-7-5)
 - <ruby>朝<rt>ㄐㄚㄨ</rt></ruby> - morning (12 strokes, 1-8-4)
 - <ruby>漢<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese) (13 strokes, 1-3-10)
-- <ruby>路<rt>ㄌㄛ</rt></ruby> - road, path (13 strokes, 1-7-6)
+- <ruby>路<rt>ㄌㄛ</rt></ruby> - road, path, journey (13 strokes, 1-7-6)
 - <ruby>数<rt>ㄙㄨ</rt></ruby> - count, number (13 strokes, 1-9-4)
 - <ruby>新<rt>ㄙㄧㄋ</rt></ruby> - new (13 strokes, 1-9-4)
 - <ruby>語<rt>⼄</rt></ruby> - language (14 strokes, 1-7-7)
@@ -182,7 +182,7 @@ These 135 bring your total to 200.  They are grouped by shape, using the first n
 - <ruby>其<rt>ㄍㄜ</rt></ruby> - this (8 strokes, 2-6-2)
 - <ruby>南<rt>ㄋㄚㄇ</rt></ruby> - south (9 strokes, 2-2-7)
 - <ruby>急<rt>ㄍㄧㄆ</rt></ruby> - quick, urgent (9 strokes, 2-2-7)
-- <ruby>前<rt>ㄐㄝㄋ</rt></ruby> - front, before (9 strokes, 2-3-6)
+- <ruby>前<rt>ㄐㄝㄋ</rt></ruby> - front, before, preceding (9 strokes, 2-3-6)
 - <ruby>草<rt>ㄑㄚㄨ</rt></ruby> - grass (9 strokes, 2-3-6)
 - <ruby>是<rt>ㄙㄝ</rt></ruby> - is (9 strokes, 2-4-5)
 - <ruby>皆<rt>ㄍ⼶</rt></ruby> - every (9 strokes, 2-5-4)
@@ -480,3 +480,41 @@ Write the character for each meaning.
 > 6. cloud = 雲
 > 7. book = 書
 > 8. horse = 馬
+
+### E. Forms, characters and words
+
+#### E1. Which form?
+Dan'a'yo writes only one of each pair.  Which one?
+
+1. 國 / 国
+2. 學 / 学
+3. 氣 / 気
+4. 见 / 見
+5. 數 / 数
+6. 聲 / 声
+
+>[!answer]- Answers
+> 1. 国 (8 strokes)
+> 2. 学 (8 strokes)
+> 3. 気 (6 strokes)
+> 4. 見 (7 strokes)
+> 5. 数 (13 strokes)
+> 6. 声 (7 strokes)
+
+#### E2. Word or not?
+Is each character a word on its own?  If not, give the word it lives in.
+
+1. 山
+2. 父
+3. 水
+4. 母
+5. 田
+6. 虫
+
+>[!answer]- Answers
+> 1. 山 = a word ("mountain")
+> 2. 父 = not a word; it lives in 父親 (father)
+> 3. 水 = a word ("water")
+> 4. 母 = not a word; it lives in 母親 (mother)
+> 5. 田 = not a word; it lives in 田野 (field)
+> 6. 虫 = not a word; it lives in 昆虫 (insect)

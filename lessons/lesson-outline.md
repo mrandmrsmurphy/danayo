@@ -78,6 +78,7 @@ This curriculum guides learners from **sound → characters → basic sentences 
 - Name the radical of a character
 - Count the strokes of a character
 - Remember and produce characters (see it, say it; hear it, write it)
+- Pick the form Dan'a'yo writes, and say whether a character is a word on its own
 
 **Reference**: `lookup/Stroke/Stroke NN.md`, `lookup/SKIP/`, `lookup/Radicals/`, `grammar/文法 - 03文字法.en.md`
 
