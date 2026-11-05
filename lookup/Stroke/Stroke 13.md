@@ -36,6 +36,7 @@ tags:
 - 3-8-5: <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby>
 - 4-13-1: <ruby>[[鼎 (char)|鼎]]<rt>ㄉㄧㄫ</rt></ruby>
 ### Aliases
+- 楯 --> 盾
 
 ### Forbidden
 - !!碰!!

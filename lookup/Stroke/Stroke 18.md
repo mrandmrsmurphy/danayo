@@ -34,6 +34,7 @@ tags:
 - 蟲
 
 ### Aliases
+- 蕨 --> 厥
 
 ### Forbidden
 - 鯎

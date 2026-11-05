@@ -3,7 +3,7 @@ tags: [lookup]
 ---
 Checked for redirects
 ### 사  
-[泗](../../characters/四%20(char).md) [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [[蓑]] [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝](characters/射.md) [[篩]] 
+[泗](../../characters/四%20(char).md) [砂](characters/沙%20(char).md) [糸](characters/糸.md) [紗](characters/紗.md) [娑](characters/沙%20(char).md) [徙](characters/徙.md) [奢](characters/奢.md) [嗣](characters/嗣.md) [赦](characters/赦.md) [乍](characters/乍.md) [些](characters/些.md) [伺](characters/伺.md) [[俟]] [[僿]] [唆](characters/唆.md) [[柶]] [[梭]] [渣 (char)](characters/渣%20(char).md) [[瀉]] [獅](characters/獅.md) [祠](characters/祠.md) [肆](characters/肆.md) [[莎]] [蓑](../../characters/%E8%A1%B0.md) [裟](characters/沙%20(char).md) [飼](characters/飼.md) [[駟]] [麝](characters/射.md) [[篩]] 
 
 ### 삭  
 [數](characters/数.md) [索](characters/索.md) [[爍]] [鑠](characters/鑠.md) [朔](characters/朔.md) 
@@ -88,7 +88,7 @@ Checked for redirects
 [塾](characters/塾.md) [[琡]] [[璹]] [[橚]] [[夙]] [[潚]] [[菽]] [尗](../../characters/尗.md)
 
 ### 순 
-[洵](characters/洵.md) [[珣]] [荀](characters/筍.md) [筍](characters/筍.md) [舜](characters/舜.md) [淳](characters/淳.md) [[焞]] [[諄]] [[錞]] [醇](characters/醇.md) [[徇]] [恂](characters/慎.md) [[栒]] [[楯]] [[橓]] [[蓴]] [[蕣]] [[詢]] [馴](characters/馴.md) [盾 (char)](characters/盾%20(char).md)
+[洵](characters/洵.md) [[珣]] [荀](characters/筍.md) [筍](characters/筍.md) [舜](characters/舜.md) [淳](characters/淳.md) [[焞]] [[諄]] [[錞]] [醇](characters/醇.md) [[徇]] [恂](characters/慎.md) [[栒]] [楯](../../characters/%E7%9B%BE%20%28char%29.md) [[橓]] [[蓴]] [[蕣]] [[詢]] [馴](characters/馴.md) [盾 (char)](characters/盾%20(char).md)
 
 ### 술 
 [[鉥]]

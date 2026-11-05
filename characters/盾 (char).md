@@ -28,6 +28,8 @@ danayo_id: 5313
 mc_id: 1700
 graphemic_classification: "象形"
 stand_in: "盾"
+aliases:
+  - 楯
 注音: "ㄐㄨㄋ"
 kwin: false
 tags:

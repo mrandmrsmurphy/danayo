@@ -30,7 +30,7 @@ These have been checked for redirects
 ## ㅓ
 
 ### 저
-[氐](../../characters/氐.md) [[苧]] [邸](characters/邸.md) [[楮]] [沮](characters/祖.md) [佇](characters/佇.md) [儲](characters/儲.md) [[咀]] [姐](characters/姉%20(char).md) [[杵]] [[樗]] [渚](characters/渚.md) [狙](characters/狙.md) [猪](characters/猪.md) [疽](characters/疽.md) [箸 (char)](characters/箸%20(char).md) [[紵]] [[菹]] [藷](characters/藷.md) [詛](characters/詛.md) [[躇]] [這](characters/這.md) [雎](characters/狙.md) [[齟]] 
+[氐](../../characters/氐.md) [[苧]] [邸](characters/邸.md) [[楮]] [沮](characters/祖.md) [佇](characters/佇.md) [儲](characters/儲.md) [[咀]] [姐](characters/姉%20(char).md) [杵](../../characters/%E5%8D%88.md) [[樗]] [渚](characters/渚.md) [狙](characters/狙.md) [猪](characters/猪.md) [疽](characters/疽.md) [箸 (char)](characters/箸%20(char).md) [[紵]] [[菹]] [藷](characters/藷.md) [詛](characters/詛.md) [[躇]] [這](characters/這.md) [雎](characters/狙.md) [[齟]] 
 
 ### 적
 [迪](characters/迪.md) [[勣]] [吊](characters/弔%20(char).md) [嫡 (char)](characters/嫡%20(char).md) [[狄]] [[炙]] [翟](characters/翟.md) [荻](characters/荻.md) [[謫]] [迹](characters/跡.md) [[鏑]] [笛](characters/笛.md) [蹟](characters/跡.md) 

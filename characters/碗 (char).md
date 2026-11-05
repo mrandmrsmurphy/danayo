@@ -27,6 +27,8 @@ danayo_id: 6267
 mc_id: 8239
 graphemic_classification: "宛"
 stand_in: "碗"
+aliases:
+  - 椀
 注音: "⺢ㄋ"
 kwin: true
 tags:

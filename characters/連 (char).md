@@ -30,6 +30,7 @@ aliases:
   - 连
   - 聯
   - 联
+  - 漣
 注音: ㄌ⼶ㄋ
 date-last-perfect: 2026-10-14
 kwin: true

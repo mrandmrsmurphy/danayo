@@ -39,6 +39,7 @@ tags:
 - 4-14-1: <ruby>[[爾 (char)|爾]]<rt>ㄋㄝ</rt></ruby>
 
 ### Aliases
+- 漣 --> 連
 
 ## Data check
 ```dataview

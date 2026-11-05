@@ -40,6 +40,7 @@ tags:
 - 4-15-4: <ruby>[[畿]]<rt>ㄍㄧㄜ</rt></ruby>
 
 ### Aliases
+- 諏 --> 取
 
 ## Data check
 ```dataview

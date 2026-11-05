@@ -33,6 +33,7 @@ aliases:
   - 譬
   - 秕
   - 粃
+  - 枇
 注音: "ㄅㄧㄜ"
 date-last-perfect: 2026-10-14
 kwin: false

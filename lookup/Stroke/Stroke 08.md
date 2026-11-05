@@ -31,6 +31,8 @@ tags:
 - 4-8-3: <ruby>[[乖]]<rt>ㄍ⺢ㄧ</rt></ruby>, <ruby>[[事 (char)|事]]<rt>ㄐㄧ</rt></ruby>, <ruby>[[東]]<rt>ㄉㄛㄫ</rt></ruby>, <ruby>[[秉]]<rt>ㄅㄧㄫ</rt></ruby>
 - 4-8-4: <ruby>[[兎 (char)|兎]]<rt>ㄊㄛ</rt></ruby>
 ### Aliases
+- 枇 --> 比
+- 杵 --> 午
 
 ## Data check
 ```dataview

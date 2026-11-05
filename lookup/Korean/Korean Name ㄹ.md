@@ -37,7 +37,7 @@ All of these have been checked for redirects.
 [瀝](../../characters/歴.md) [[礫]] [[轢]] 靂 --> 歴
 
 ### 련 
-[煉](characters/錬.md) [[璉]] [[攣]] [[漣]] [[輦]] [[孌]] [[𨏶]] 
+[煉](characters/錬.md) [[璉]] [[攣]] [漣](../../characters/%E9%80%A3%20%28char%29.md) [[輦]] [[孌]] [[𨏶]] 
 
 ### 렬 
 [洌](characters/列.md) [冽](characters/列.md) 

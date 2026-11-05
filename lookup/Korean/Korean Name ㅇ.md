@@ -110,7 +110,7 @@ All have been checked for redirects.
 [渦](characters/渦.md) [窩](characters/窩.md) [窪](characters/窪.md) [蛙](characters/蛙.md) [蝸](characters/蝸.md) [訛](characters/訛.md) [佤](characters/佤.md)
 
 ### 완 
-[玩](characters/玩.md) [[垸]] 浣 (done) [莞](characters/玩.md) [[琓]] [[琬]] [[婠]] [婉](characters/婉.md) [宛](characters/宛.md) [[梡]] [[椀]] [碗](characters/碗%20(char).md) [翫](characters/翫.md) [[脘]] [腕](characters/腕%20(char).md) [[豌]] [阮](characters/阮.md) [頑](characters/頑.md) [[妧]] [[岏]] [[鋺]] 
+[玩](characters/玩.md) [[垸]] 浣 (done) [莞](characters/玩.md) [[琓]] [[琬]] [[婠]] [婉](characters/婉.md) [宛](characters/宛.md) [[梡]] [椀](../../characters/%E7%A2%97%20%28char%29.md) [碗](characters/碗%20(char).md) [翫](characters/翫.md) [[脘]] [腕](characters/腕%20(char).md) [[豌]] [阮](characters/阮.md) [頑](characters/頑.md) [[妧]] [[岏]] [[鋺]] 
 
 ### 왕 
 [旺](characters/旺.md) [汪](characters/汪.md) [枉](characters/枉.md) 

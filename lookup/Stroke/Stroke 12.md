@@ -38,6 +38,7 @@ tags: [lookup]
 - 4-12-4: <ruby>[[幾 (char)|幾]]<rt>ㄍㄧㄜ</rt></ruby>
 
 ### Aliases
+- 椀 --> 碗
 - 葵 --> 癸
 
 ## Data check

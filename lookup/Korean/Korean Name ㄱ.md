@@ -142,7 +142,7 @@ This has been checked for redirects.
 [圈](characters/圏%20(char).md) [[眷]] [倦](characters/倦.md) 捲-->巻 [[淃]]
 
 ### 궐 
-[闕](characters/闕.md) [[獗]] [[蕨]] [蹶](characters/蹶.md) 
+[闕](characters/闕.md) [[獗]] [蕨](../../characters/%E5%8E%A5.md) [蹶](characters/蹶.md) 
 
 ### 궤 
 [机](../../characters/机.md) [櫃](../../characters/櫃%20(char).md) [潰 (char)](characters/潰%20(char).md) [[詭]] [[饋]] 

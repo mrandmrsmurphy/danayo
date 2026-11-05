@@ -40,6 +40,7 @@ tags:
 - 3-8-8: <ruby>[[䦨]]<rt>ㄌㄛㄇ</rt></ruby>, <ruby>[[䦧 (char)|䦧]]<rt>ㄏㄝㄎ</rt></ruby>
 
 ### Aliases
+- 蓑 --> 衰
 - 蕾 --> 雷
 
 ## Data check
