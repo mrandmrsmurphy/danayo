@@ -31,7 +31,7 @@ mc_id: 2784
 graphemic_classification: "矞"
 stand_in: "橘"
 注音: "ㄍ⼜ㄊ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: true
 tags:
   - character

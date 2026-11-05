@@ -29,7 +29,7 @@ mc_id: 1994
 graphemic_classification: "及"
 stand_in: "汲"
 注音: "ㄎㄨㄆ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
