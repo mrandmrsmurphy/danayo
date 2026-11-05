@@ -33,7 +33,7 @@ aliases:
   - 劔
   - 劒
 注音: "ㄍㄛㄇ"
-date-last-perfect: 2026-10-09
+date-last-perfect: 2026-11-05
 kwin: false
 tags:
   - character
@@ -41,14 +41,30 @@ boundedness: 45
 ---
 >[!tip] This is a page about the character 剣.
 >For the word, see [剣](../words/剣.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
 - 形声 (OC *kams): semantic [[Radical 018|刀]] ("knife, blade") + phonetic [[㑒]] (OC *st͡sʰjam, "unanimous") — a double-edged blade; "sword."
 - [SKIP-1-8-2](../lookup/SKIP/SKIP-1/SKIP-1-8-2.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 916th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄍㄛㄇ](../syllables/ㄍㄛㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 劍
+Traditional form (kyūjitai) of 剣, with 僉 where the shinjitai has 㑒. SKIP 1-13-2; 15 strokes. This form is the one the Classical Chinese lists rank (916), so the `mc_id` 916 is 劍's rank.
+
+### 剑
+Simplified Chinese form of 劍, with 佥 for 僉. SKIP 1-7-2 (computed: EDRDG does not list it); 9 strokes. It has no rank in the Classical Chinese lists.
+
+### 劔
+A variant of 劍 written with 刄 ("blade") for the 刂 on the right. SKIP 1-13-3; 16 strokes. It has no rank in the Classical Chinese lists.
+
+### 劒
+A variant of 劍 written with 刃 for the 刂 on the right. SKIP 1-13-3; 16 strokes. It has no rank in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[剣]]<rt>ㄍㄛㄇ</rt></ruby> "sword" (stand-in for 剣)

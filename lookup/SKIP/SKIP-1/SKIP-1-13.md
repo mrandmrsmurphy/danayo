@@ -8,7 +8,7 @@ tags: [lookup]
 
 1. No
 2. [SKIP-1-13-2](lookup/SKIP/SKIP-1/SKIP-1-13-2.md): 劇, 劉
-3. No
+3. [SKIP-1-13-3](lookup/SKIP/SKIP-1/SKIP-1-13-3.md): ø
 4. No
 5. No
 6. [SKIP-1-13-6](lookup/SKIP/SKIP-1/SKIP-1-13-6.md): 艶

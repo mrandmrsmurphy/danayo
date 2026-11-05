@@ -47,6 +47,7 @@ tags:
 - 药 --> 薬
 - 尝 --> 嘗
 - 枽 --> 枼
+- 剑 --> 剣
 
 ## Data check
 ```dataview

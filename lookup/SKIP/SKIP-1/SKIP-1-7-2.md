@@ -25,6 +25,9 @@ tags: [lookup]
 12. <ruby>[計](characters/計.md)<rt>ㄍㄝㄧ</rt></ruby> "measure"
 13. <ruby>[軌](characters/軌%20(char).md)<rt>ㄎㄨㄧ</rt></ruby> "track"
 
+### Aliases
+- 剑 --> 剣
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

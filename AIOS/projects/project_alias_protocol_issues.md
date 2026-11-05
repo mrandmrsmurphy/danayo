@@ -74,3 +74,9 @@ Suggest: a one-time check of all `3-4-N` pages against EDRDG before the loop rea
 ## OPEN 2026-11-05 — 馨: alias 馫 needs SKIP 2-9-18, the same missing-slot problem as 欝
 
 馨 itself checks out against EDRDG (Radical 186 香, SKIP 2-11-9, 20 strokes; CC rank 3974 = `mc_id`). Its alias 馫 (Wiktionary: Radical 186 香, 27 strokes, 香 over 𩡐, so SKIP **2-9-18**; EDRDG has no entry) has no leaf `SKIP-2-9-18`, and the index `SKIP-2-9.md` stops at slot 12. Same decision as 欝: extend the SKIP index to the needed slot and create a redirect-only leaf, or handle very tall SKIP codes another way. 馫 is also a very rare character (three 香), the kind you said you don't need as an alias, so dropping it from `aliases:` would remove the problem. 馨 was **not stamped**; nothing changed.
+
+## OPEN 2026-11-05 — 齢: the page carries the traditional 齡's stroke count and SKIP
+
+齢 has `stroke_count: 20` and `skip_number: 1-15-5`. EDRDG gives the shinjitai 齢 (the page's own headword, U+9F62) **17 strokes and SKIP 1-12-5** (歯 12 + 令 5), and gives the alias 齡 (U+9F61) 20 strokes and SKIP 1-15-5 (齒 15 + 令 5). So the page's numbers belong to 齡, not 齢. The radical is also 齒 on the page (Radical 211, which is the same radical page for 歯/齒). Following your EDRDG-wins ruling, 齢 would move to 17 strokes and SKIP 1-12-5 (Stroke 20 → Stroke 17, SKIP-1-15-5 → SKIP-1-12-5), and 齡 would keep 20 / 1-15-5 as the alias's numbers. Neither 齢 nor 齡 is on the CC lists, so `mc_id` 4728 is a long-tail rank and is not affected.
+
+齢 was **not stamped**; nothing was changed. This is probably a pattern for any shinjitai page whose numbers were taken from the traditional form (we saw it with 冪, 惹 and 逗 in a different guise).

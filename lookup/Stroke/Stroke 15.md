@@ -49,6 +49,7 @@ tags:
 - 駛 --> 使
 - 徵 --> 徴
 - 鬧 --> 閙
+- 劍 --> 剣
 
 ## Data check
 ```dataview

@@ -76,6 +76,12 @@ tags:
 38. <ruby>[劇](../../characters/劇%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - drama
 39. <ruby>[劉](../../characters/劉.md)<rt>ㄌ⼜</rt></ruby> - conquer
 
+### Aliases
+- 劍 --> 剣
+- 剑 --> 剣
+- 劔 --> 剣
+- 劒 --> 剣
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
