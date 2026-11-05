@@ -30,7 +30,7 @@ mc_id: 2962
 graphemic_classification: "豖"
 stand_in: "啄"
 注音: "ㄊㄛㄎ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: false
 tags:
   - character

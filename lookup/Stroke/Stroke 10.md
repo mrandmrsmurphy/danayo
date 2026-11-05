@@ -35,6 +35,7 @@ tags:
 ### Aliases
 - 栞 --> 刊
 - 笈 --> 及
+- 唤 --> 喚
 
 ## Data check
 ```dataview

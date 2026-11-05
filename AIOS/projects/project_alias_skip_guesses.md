@@ -26,5 +26,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 万 | 𥝅 | 2-10-5 | glyph stacks 臼, 龱, 禸 (GlyphWiki); top 10 over 禸 5 |
 | 冬 | 昸 | 1-4-5 | 日 4 + 冬 5 |
 | 冬 | 㫡 | 2-4-5 | 日 4 over 冬 5 |
+| 喚 | 唤 | 1-3-7 | simplified; 口 3 + 奂 7 |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

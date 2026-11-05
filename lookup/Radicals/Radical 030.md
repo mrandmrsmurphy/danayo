@@ -165,6 +165,9 @@ tags: [lookup]
 ### +15 Strokes
 123. <ruby>[嚢](../../characters/嚢.md)<rt>ㄋㄚㄫ</rt></ruby> - bag
 
+### Aliases
+- 唤 --> 喚
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -32,7 +32,7 @@ stand_in: "喚"
 aliases:
   - 唤
 注音: "ㄏ⺢ㄋ"
-date-last-perfect: 2026-10-07
+date-last-perfect: 2026-11-04
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 65
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 7867th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄏ⺢ㄋ](../syllables/ㄏ⺢ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 唤
+Simplified Chinese form of 喚, with 奂 for 奐. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank in the Classical Chinese lists, so the `mc_id` 7867 is 喚's own long-tail rank.
 
 ## Words
 - <ruby>[[喚]]<rt>ㄏ⺢ㄋ</rt></ruby> "summon, invite" (stand-in for 喚)

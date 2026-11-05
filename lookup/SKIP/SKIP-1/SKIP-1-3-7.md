@@ -79,6 +79,9 @@ tags:
 67. <ruby>[除](characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> "exclude"
 68. <ruby>[陥](characters/陥%20(char).md)<rt>ㄏㄚㄇ</rt></ruby> "submerge"
 
+### Aliases
+- 唤 --> 喚
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
