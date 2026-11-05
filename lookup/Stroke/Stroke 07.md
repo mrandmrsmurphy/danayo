@@ -28,6 +28,8 @@ tags:
 - 4-7-4: <ruby>[[寿]]<rt>ㄙ⼜</rt></ruby>, <ruby>[[夹]]<rt>ㄍ⼘ㄆ</rt></ruby>, <ruby>[[良]]<rt>ㄌ⼘ㄫ</rt></ruby>
 
 ### Aliases
+- 芙 --> 夫
+- 孜 --> 滋
 
 ## Data check
 ```dataview

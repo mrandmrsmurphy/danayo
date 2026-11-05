@@ -37,6 +37,10 @@ tags:
 - 4-11-4: <ruby>[[爽]]<rt>ㄙ⺢ㄫ</rt></ruby>, <ruby>[[戚]]<rt>ㄑㄝㄎ</rt></ruby>
 ### Aliases
 - 梧 --> 吾
+- 菖 --> 昌
+- 眸 --> 牟
+- 徠 --> 来
+- 晟 --> 成
 
 ## Data check
 ```dataview

@@ -33,7 +33,7 @@ Checked for redirects
 [牲](characters/牲.md) [甥 (char)](characters/甥%20(char).md) [省 (char)](characters/省%20(char).md) [笙](characters/笙.md) 
 
 ### 서  
-[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [[曙]] [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
+[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [曙](../../characters/%E7%BD%B2.md) [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
 [[../../characters/屿]] ([[㠘]]) [胥](characters/胥.md) ([縃](characters/胥.md)) [[諝]] ([[𧩑]])
 
 ### 석  
@@ -55,7 +55,7 @@ Checked for redirects
 [[燮]] [[㰔]] [[𦁗]] 
 
 ### 성  
-[[珹]] [[娍]] [[瑆]] [[惺]] [醒](characters/醒.md) [[宬]] [猩](characters/猩.md) [[筬]] [[腥]] [[貹]] [胜](characters/勝.md) [[晟]] [[晟]] ([[晠]])
+[[珹]] [[娍]] [[瑆]] [惺](../../characters/%E6%98%9F%20%28char%29.md) [醒](characters/醒.md) [[宬]] [猩](characters/猩.md) [[筬]] [[腥]] [[貹]] [胜](characters/勝.md) [晟](../../characters/%E6%88%90%20%28char%29.md) [晟](../../characters/%E6%88%90%20%28char%29.md) ([[晠]])
 
 ### 세 
 [貰](characters/貰.md) !笹! [說](characters/説.md) [[忕]] [洒 (char)](characters/洒%20(char).md) [[涗]] [[𡜧]] 

@@ -30,6 +30,8 @@ danayo_id: 4030
 mc_id: 3391
 graphemic_classification: 干
 stand_in: 刊
+aliases:
+  - 栞
 注音: ㄎㄚㄋ
 date-last-perfect: 2026-10-15
 kwin: false

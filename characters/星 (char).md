@@ -34,6 +34,7 @@ aliases:
   - 𤯢
   - 皨
   - 𤾪
+  - 惺
 注音: ㄙㄝㄫ
 date-last-perfect: 2026-10-20
 kwin: true

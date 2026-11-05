@@ -29,6 +29,8 @@ danayo_id: 4315
 mc_id: 34
 graphemic_classification: "象形"
 stand_in: "夫"
+aliases:
+  - 芙
 注音: "ㄈㄜ"
 date-last-perfect: 2026-10-20
 kwin: false

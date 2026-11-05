@@ -101,7 +101,7 @@ This have all be checked for redirects.
 [闊 (char)](characters/闊%20(char).md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]] [蛞](characters/蛞.md)
 
 ### 황
-[凰](characters/凰.md) [[堭]] [[媓]] [晃](characters/晃.md) [[滉]] [[榥]] [煌](characters/煌.md) [[璜]] [[熀]] [幌](characters/幌.md) [徨](characters/徨.md) [[恍]] [[惶]] [[愰]] [慌](characters/慌.md) [[湟]] [[潢]] [[篁]] [簧](characters/黄%20(char).md) [[蝗]] [[遑]] [[隍]] [[楻]] 
+[凰](characters/凰.md) [[堭]] [[媓]] [晃](characters/晃.md) [滉](../../characters/%E6%99%83.md) [[榥]] [煌](characters/煌.md) [[璜]] [[熀]] [幌](characters/幌.md) [徨](characters/徨.md) [[恍]] [[惶]] [[愰]] [慌](characters/慌.md) [[湟]] [[潢]] [[篁]] [簧](characters/黄%20(char).md) [[蝗]] [[遑]] [[隍]] [[楻]] 
 
 ### 회
 [廻](characters/回%20(char).md) [恢](characters/恢.md) [晦](characters/晦.md) [檜](characters/桧.md) [[澮]] [繪](characters/絵.md) [誨](../../characters/戒.md) [匯](characters/彙%20(char).md) [[徊]] [淮](characters/淮.md) [[獪]] [[膾]] [[茴]] [蛔](characters/回%20(char).md) [賄](characters/賄.md) [灰 (char)](characters/灰%20(char).md) [栃](characters/栃.md)
@@ -130,7 +130,7 @@ This have all be checked for redirects.
 [喙](characters/嘴.md) [[𠦄]] [卉](characters/卉.md)
 
 ### 휘
-[彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [[暉]] [[煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
+[彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [暉](../../characters/%E8%BC%9D.md) [[煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
 
 ### 휴
 [[烋]] [[畦]] [[虧]]

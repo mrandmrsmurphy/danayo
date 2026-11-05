@@ -30,6 +30,7 @@ graphemic_classification: "丁"
 stand_in: "成"
 aliases:
   - 鯎
+  - 晟
 注音: "ㄙㄧㄫ"
 date-last-perfect: 2026-10-14
 kwin: false

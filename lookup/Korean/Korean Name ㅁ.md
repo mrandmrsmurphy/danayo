@@ -42,7 +42,7 @@ These have been checked for redirects.
 [袂 (char)](characters/袂%20(char).md)
 
 ### 모 
-[摸](characters/摸.md) [牟](characters/牟.md) [[謨]] [姆](characters/母.md) [帽](characters/帽.md) [摹](characters/模.md) [牡](characters/牡.md) [瑁](characters/瑁.md) [[眸]] [耗](characters/耗.md) [芼](characters/芼.md) [茅](characters/茅.md) [矛](characters/矛.md) [[橅]] [姥](characters/姥.md)
+[摸](characters/摸.md) [牟](characters/牟.md) [[謨]] [姆](characters/母.md) [帽](characters/帽.md) [摹](characters/模.md) [牡](characters/牡.md) [瑁](characters/瑁.md) [眸](../../characters/%E7%89%9F.md) [耗](characters/耗.md) [芼](characters/芼.md) [茅](characters/茅.md) [矛](characters/矛.md) [[橅]] [姥](characters/姥.md)
 
 ### 목 
 [穆](characters/穆.md) [[鶩]] [沐](characters/沐.md)

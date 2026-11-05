@@ -30,6 +30,7 @@ graphemic_classification: "象形"
 stand_in: "来"
 aliases:
   - 來
+  - 徠
 注音: "ㄌㄚㄧ"
 date-last-perfect: 2026-10-20
 kwin: true

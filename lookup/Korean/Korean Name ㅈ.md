@@ -5,7 +5,7 @@ These have been checked for redirects
 ## ㅏ
 
 ### 자
-[滋](characters/滋.md) [磁](characters/磁.md) [藉](characters/借%20(char).md) [[瓷]] [咨](characters/諮.md) [[孜]] [[炙]] [煮](characters/煮.md) [[疵]] [茨](characters/茨.md) [[蔗]] [諮](characters/諮.md) [雌](characters/雌.md) [[秄]] [恣](characters/恣.md) 
+[滋](characters/滋.md) [磁](characters/磁.md) [藉](characters/借%20(char).md) [[瓷]] [咨](characters/諮.md) [孜](../../characters/%E6%BB%8B.md) [[炙]] [煮](characters/煮.md) [[疵]] [茨](characters/茨.md) [[蔗]] [諮](characters/諮.md) [雌](characters/雌.md) [[秄]] [恣](characters/恣.md) 
 
 ### 작
 [灼](characters/灼.md) [[芍]] [雀](characters/雀.md) [[鵲]] [勺 (char)](characters/勺%20(char).md) 嚼-->爵 [[斫]] [炸](characters/炸.md) [綽](characters/綽.md) [[舃]]
@@ -96,7 +96,7 @@ These have been checked for redirects
 [[稙]] [稷](characters/稷.md)
 
 ### 진 
-[晉](characters/晋.md) [[瑨]] [[瑱]] [津](characters/津.md) [[璡]] [秦](characters/秦.md) [[軫]] [塵](characters/塵.md) [[禛]] [診](characters/診.md) [[縝]] [塡](characters/填%20(char).md) [賑](characters/賑.md) [[溱]] [[抮]] [唇 (char)](characters/唇%20(char).md) [[嗔]] [[搢]] [[桭]] [[榛]] [[殄]] [[畛]] [[疹]] [[瞋]] [[縉]] [[臻]] [[蔯]] [[袗]] [[䑐]] [[蓁]] [[昣]] [[枃]] [槇](characters/槙.md) [[稹]] [儘](characters/尽.md) || [[瑨]] ([[𤨁]]) [㐱](characters/㐱.md)
+[晉](characters/晋.md) [[瑨]] [[瑱]] [津](characters/津.md) [[璡]] [秦](characters/秦.md) [[軫]] [塵](characters/塵.md) [[禛]] [診](characters/診.md) [[縝]] [塡](characters/填%20(char).md) [賑](characters/賑.md) [[溱]] [[抮]] [唇 (char)](characters/唇%20(char).md) [[嗔]] [[搢]] [[桭]] [榛](../../characters/%E7%A7%A6.md) [[殄]] [[畛]] [[疹]] [[瞋]] [[縉]] [[臻]] [[蔯]] [[袗]] [[䑐]] [[蓁]] [[昣]] [[枃]] [槇](characters/槙.md) [[稹]] [儘](characters/尽.md) || [[瑨]] ([[𤨁]]) [㐱](characters/㐱.md)
 
 ### 질 
 [[瓆]] [[侄]] [叱](characters/叱.md) [嫉](characters/嫉.md) [[帙]] [[桎]] [窒](characters/窒.md) [膣 (char)](characters/膣%20(char).md) [蛭 (char)](characters/蛭%20(char).md) [跌](characters/跌.md) [迭](characters/迭.md)

@@ -29,6 +29,8 @@ danayo_id: 2171
 mc_id: 377
 graphemic_classification: 象形
 stand_in: 由
+aliases:
+  - 柚
 注音: ⼜ㄛ
 date-last-perfect: 2026-10-20
 kwin: false

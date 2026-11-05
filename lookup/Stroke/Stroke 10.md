@@ -33,6 +33,7 @@ tags:
 - 3-8-2: <ruby>[[勉 (char)|勉]]<rt>ㄇ⼶ㄋ</rt></ruby>, <ruby>[[閃]]<rt>ㄙㄝㄇ</rt></ruby>
 
 ### Aliases
+- 栞 --> 刊
 
 ## Data check
 ```dataview

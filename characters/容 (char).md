@@ -36,6 +36,8 @@ danayo_id: 3087
 mc_id: 553
 graphemic_classification: "谷"
 stand_in: "容"
+aliases:
+  - 蓉
 注音: "⼄ㄫ"
 date-last-perfect: 2026-10-14
 kwin: true

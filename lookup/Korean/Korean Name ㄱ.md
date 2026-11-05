@@ -10,7 +10,7 @@ This has been checked for redirects.
 珏 恪 [殼](characters/殻.md) [愨](characters/愨.md) [擱](characters/擱.md)
 
 ### 간 
-[艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [[栞]] [奸](characters/姦.md) [柬 (char)](characters/柬%20(char).md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md) [齦](characters/齦.md)
+[艮](characters/艮.md) [侃](characters/侃.md) [[杆]] [[玕]] [竿](characters/竿.md) [揀](characters/揀.md) [諫](characters/諌.md) [墾](characters/墾.md) [栞](../../characters/%E5%88%8A%20%28char%29.md) [奸](characters/姦.md) [柬 (char)](characters/柬%20(char).md) [[澗]] [[磵]] [[稈]] [艱](characters/艱.md) [癇](characters/癇.md) [齦](characters/齦.md)
 
 ### 갈 
 [葛](characters/葛%20(char).md) 乫! [喝](characters/喝%20(char).md) [曷](characters/喝%20(char).md) [[碣]] [竭](characters/褐%20(char).md) [褐](characters/褐%20(char).md) [蝎](characters/蝎%20(char).md) [[鞨]]
@@ -171,7 +171,7 @@ This has been checked for redirects.
 [契](characters/契.md)
 
 ### 금 
-[[衾]] [襟](characters/襟.md) [[昑]] [[妗]] [[擒]] [[檎]] [芩](characters/今%20(char).md) [衿](characters/襟.md) [錦](characters/錦.md)
+[[衾]] [襟](characters/襟.md) [[昑]] [[妗]] [[擒]] [檎](../../characters/%E7%A6%BD.md) [芩](characters/今%20(char).md) [衿](characters/襟.md) [錦](characters/錦.md)
 
 ### 급 
 [汲 (char)](characters/汲%20(char).md) [[伋]] [扱 (char)](characters/扱%20(char).md) [䏜](characters/䏜.md)

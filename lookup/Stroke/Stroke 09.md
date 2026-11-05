@@ -35,6 +35,7 @@ tags:
 - 迦 --> 珈
 - 酊 --> 丁
 - 媚 --> 眉
+- 柚 --> 由
 
 ## Data check
 ```dataview

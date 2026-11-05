@@ -25,7 +25,7 @@ All of these have been checked for redirects.
 [琅](characters/瑯.md) [瑯](characters/瑯.md) [狼](characters/狼%20(char).md) [朗](characters/朗.md) [[烺]] [蜋](characters/螂.md) [榔](characters/榔.md)
 
 ### 래 
-[[崍]] [萊](characters/莱.md) [[徠]] 
+[[崍]] [萊](characters/莱.md) [徠](../../characters/%E6%9D%A5%20%28char%29.md) 
 
 ### 량 
 [亮](characters/瞭.md) [倆](characters/両%20(char).md) [樑](characters/梁%20(char).md) [[粱]] [輛](characters/両%20(char).md) [椋](characters/椋.md)
@@ -67,7 +67,7 @@ All of these have been checked for redirects.
 [瀨](characters/瀬.md) [儡](characters/儡.md) [牢](characters/牢.md) [磊](characters/磊.md) [賂](characters/賂.md) [[賚]] 
 
 ### 료 
-[翏](../../characters/翏.md) [遼](characters/遼.md) [寮](characters/寮.md) [廖](characters/蓼.md) [[燎]] [療](characters/療.md) [瞭](characters/瞭.md) [聊](characters/聊%20(char).md) [蓼](characters/蓼.md)
+[翏](../../characters/翏.md) [遼](characters/遼.md) [寮](characters/寮.md) [廖](characters/蓼.md) [燎](../../characters/%E7%99%82.md) [療](characters/療.md) [瞭](characters/瞭.md) [聊](characters/聊%20(char).md) [蓼](characters/蓼.md)
 
 ### 루 
 [壘](characters/塁.md) [婁](characters/婁.md) [[瘻]] [縷](../../characters/婁.md) [蔞](../../characters/婁.md) [褸](../../characters/婁.md) [[鏤]] [陋](characters/陋.md) [[慺]] [[嶁]] 
@@ -79,7 +79,7 @@ All of these have been checked for redirects.
 [戮](characters/戮.md)
 
 ### 륜 
-侖! [崙](characters/崙.md) [[綸]] [[淪]] [錀 (char)](characters/錀%20(char).md)
+侖! [崙](characters/崙.md) [綸](../../characters/%E5%80%AB.md) [[淪]] [錀 (char)](characters/錀%20(char).md)
 
 ### 률 
 [慄](characters/慄%20(char).md) [[嵂]] [率](characters/率.md) [栗](characters/栗%20(char).md)
@@ -91,7 +91,7 @@ All of these have been checked for redirects.
 [[廩]] [凜](characters/凜%20(char).md) [[菻]] [[澟]] [[懍]]
 
 ### 릉 
-[[綾]] [菱](characters/菱%20(char).md) [稜](characters/稜.md) [凌](characters/凌.md) [[楞]] [夌](characters/夌.md) 
+[綾](../../characters/%E5%87%8C.md) [菱](characters/菱%20(char).md) [稜](characters/稜.md) [凌](characters/凌.md) [[楞]] [夌](characters/夌.md) 
 
 ### 리 
 [[俚]] [莉](characters/莉.md) [俐](characters/俐.md) [[唎]] [浬](characters/浬%20(char).md) [[籬]] [罹](characters/罹.md) [羸](characters/羸.md) [釐](characters/厘%20(char).md) [[涖]] [[𢻠]] [犂](characters/犂.md) [[摛]] [狸](characters/狸%20(char).md) [鯉](characters/鯉.md)

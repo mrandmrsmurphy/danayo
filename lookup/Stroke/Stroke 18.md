@@ -35,6 +35,7 @@ tags:
 
 ### Aliases
 - 蕨 --> 厥
+- 燿 --> 耀
 
 ### Forbidden
 - 鯎

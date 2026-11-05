@@ -40,6 +40,8 @@ tags:
 ### Aliases
 - 窿 --> 隆
 - 糙 --> 造
+- 檎 --> 禽
+- 曙 --> 署
 
 ## Data check
 ```dataview

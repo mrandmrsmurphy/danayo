@@ -42,6 +42,7 @@ tags:
 ### Aliases
 - 蓑 --> 衰
 - 蕾 --> 雷
+- 燎 --> 療
 
 ## Data check
 ```dataview

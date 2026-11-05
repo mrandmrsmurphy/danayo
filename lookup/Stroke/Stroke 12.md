@@ -40,6 +40,7 @@ tags: [lookup]
 ### Aliases
 - 椀 --> 碗
 - 葵 --> 癸
+- 惺 --> 星
 
 ## Data check
 ```dataview

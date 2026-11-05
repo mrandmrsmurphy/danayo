@@ -40,6 +40,10 @@ tags:
 
 ### Aliases
 - 漣 --> 連
+- 瑳 --> 磋
+- 榛 --> 秦
+- 綸 --> 倫
+- 綾 --> 凌
 
 ## Data check
 ```dataview

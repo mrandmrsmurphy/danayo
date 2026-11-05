@@ -4,7 +4,7 @@ tags: [lookup]
 These have all bee checked to see which are redirects 
 
 ### 차 
-[叉](characters/叉%20(char).md) [[瑳]] [[侘]] [[嗟]] [[嵯]] [[磋]] [[箚]] [[蹉]] [[遮]] [[硨]] [[奲]] [[姹]] 
+[叉](characters/叉%20(char).md) [瑳](../../characters/%E7%A3%8B.md) [[侘]] [[嗟]] [嵯](../../characters/%E5%B7%AE.md) [[磋]] [[箚]] [[蹉]] [[遮]] [[硨]] [[奲]] [[姹]] 
 
 ### 착 
 [[搾]] [[窄]] [[鑿]] 齪 --> 窄
@@ -19,7 +19,7 @@ These have all bee checked to see which are redirects
 [[僭]] 塹<--斬 [[懺]] [斬](characters/斬%20(char).md) [[站]] [[讒]] [[讖]] 
 
 ### 창 
-[[菖]] [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [倡](../../characters/唱.md) [娼](../../characters/唱.md) [[愴]] [槍](characters/槍%20(char).md) [漲](../../characters/張.md) [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md) [錆](characters/錆.md)
+[菖](../../characters/%E6%98%8C.md) [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [倡](../../characters/唱.md) [娼](../../characters/唱.md) [[愴]] [槍](characters/槍%20(char).md) [漲](../../characters/張.md) [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md) [錆](characters/錆.md)
 
 ### 채  
 [采](characters/采.md) [埰](characters/采.md) [[寀]] [蔡](characters/蔡.md) [[綵]] [寨](characters/寨.md) [砦](characters/砦.md) [釵](characters/鈿.md) [[琗]] [責](characters/責.md) [[棌]] [[婇]] [[睬]] 
