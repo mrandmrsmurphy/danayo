@@ -88,7 +88,7 @@ Checked for redirects
 [塾](characters/塾.md) [[琡]] [[璹]] [[橚]] [[夙]] [[潚]] [[菽]] [尗](../../characters/尗.md)
 
 ### 순 
-[洵](characters/洵.md) [[珣]] [荀](characters/筍.md) [筍](characters/筍.md) [舜](characters/舜.md) [淳](characters/淳.md) [[焞]] [[諄]] [[錞]] [醇](characters/醇.md) [[徇]] [恂](characters/慎.md) [[栒]] [楯](../../characters/%E7%9B%BE%20%28char%29.md) [[橓]] [[蓴]] [[蕣]] [[詢]] [馴](characters/馴.md) [盾 (char)](characters/盾%20(char).md)
+[洵](characters/洵.md) [[珣]] [荀](characters/筍.md) [筍](characters/筍.md) [舜](characters/舜.md) [淳](characters/淳.md) [[焞]] [諄](../../characters/%E7%B4%94.md) [[錞]] [醇](characters/醇.md) [[徇]] [恂](characters/慎.md) [[栒]] [楯](../../characters/%E7%9B%BE%20%28char%29.md) [[橓]] [[蓴]] [[蕣]] [[詢]] [馴](characters/馴.md) [盾 (char)](characters/盾%20(char).md)
 
 ### 술 
 [[鉥]]

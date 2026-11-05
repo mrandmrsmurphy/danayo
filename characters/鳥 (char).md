@@ -31,6 +31,7 @@ graphemic_classification: "象形"
 stand_in: "鳥"
 aliases:
   - 鸟
+  - 蔦
 注音: "ㄑㄛㄨ"
 date-last-perfect: 2026-10-20
 kwin: false

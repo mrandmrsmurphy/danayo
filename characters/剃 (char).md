@@ -31,6 +31,7 @@ stand_in: "剃"
 aliases:
   - 鬀
   - 鬄
+  - 薙
 注音: "ㄊㄝㄧ"
 kwin: false
 tags:

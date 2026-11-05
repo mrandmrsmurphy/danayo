@@ -26,6 +26,8 @@ danayo_id: 65
 mc_id: 254
 graphemic_classification: 象形
 stand_in: 石
+aliases:
+  - 柘
 注音: ㄙㄝㄎ
 date-last-perfect: 2026-10-20
 kwin: true

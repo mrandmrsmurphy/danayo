@@ -29,6 +29,8 @@ danayo_id: 185
 mc_id: 209
 graphemic_classification: 会意
 stand_in: 夏
+aliases:
+  - 榎
 注音: ㄏ⼘
 date-last-perfect: 2026-10-13
 kwin: false

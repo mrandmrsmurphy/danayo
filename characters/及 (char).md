@@ -30,6 +30,7 @@ graphemic_classification: 会意
 stand_in: 及
 aliases:
   - 﨤
+  - 笈
 注音: ㄍㄨㄆ
 kwin: false
 date-last-perfect: 2026-10-23

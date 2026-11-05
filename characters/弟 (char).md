@@ -33,6 +33,7 @@ stand_in: 弟
 aliases:
   - 悌
   - 棣
+  - 鵜
 注音: ㄉㄝ
 date-last-perfect: 2026-10-26
 kwin: false

@@ -36,6 +36,7 @@ tags:
 ### Aliases
 - 蕨 --> 厥
 - 燿 --> 耀
+- 鵜 --> 弟
 
 ### Forbidden
 - 鯎

@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 栞 --> 刊
+- 笈 --> 及
 
 ## Data check
 ```dataview

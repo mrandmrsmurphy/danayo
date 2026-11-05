@@ -32,6 +32,8 @@ danayo_id: 6383
 mc_id: 650
 graphemic_classification: "鬼"
 stand_in: "畏"
+aliases:
+  - 隈
 注音: "ㄛㄧ"
 kwin: true
 tags:

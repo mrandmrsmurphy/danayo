@@ -38,6 +38,7 @@ aliases:
   - 𣥔
   - 𧾸
   - 𠙺
+  - 柾
 注音: "ㄐㄧㄫ"
 date-last-perfect: 2026-10-20
 kwin: false

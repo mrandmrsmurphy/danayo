@@ -30,6 +30,7 @@ mc_id: 252
 graphemic_classification: 甬
 stand_in: 通
 aliases:
+  - 樋
 注音: ㄊㄛㄫ
 date-last-perfect: 2026-10-13
 kwin: true

@@ -41,6 +41,9 @@ tags:
 
 ### Aliases
 - 諏 --> 取
+- 樋 --> 通
+- 諄 --> 純
+- 噂 --> 尊
 
 ## Data check
 ```dataview

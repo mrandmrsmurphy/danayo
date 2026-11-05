@@ -151,7 +151,7 @@ This has been checked for redirects.
 [句 (char)](characters/句%20(char).md) [[晷]] 䤥 a metal tool [龜](characters/亀%20(char).md)
 
 ### 규 
-[圭](characters/圭.md) [[奎]] [珪](characters/硅.md) [[揆]] [[逵]] [窺 (char)](characters/窺%20(char).md) [葵](../../characters/癸.md) [槻](characters/槻.md) [硅](characters/硅.md) [[竅]] [赳](characters/赳.md) [閨](characters/閨.md) [[邽]] [[嫢]] [[湀]] 
+[圭](characters/圭.md) [奎](../../characters/%E5%9C%AD.md) [珪](characters/硅.md) [[揆]] [[逵]] [窺 (char)](characters/窺%20(char).md) [葵](../../characters/癸.md) [槻](characters/槻.md) [硅](characters/硅.md) [[竅]] [赳](characters/赳.md) [閨](characters/閨.md) [[邽]] [[嫢]] [[湀]] 
 
 ### 균 
 [[畇]] 鈞 potter's wheel [[筠]] [勻](characters/勻.md) [龜](characters/亀%20(char).md)

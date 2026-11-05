@@ -41,6 +41,7 @@ tags: [lookup]
 - 椀 --> 碗
 - 葵 --> 癸
 - 惺 --> 星
+- 隈 --> 畏
 
 ## Data check
 ```dataview
