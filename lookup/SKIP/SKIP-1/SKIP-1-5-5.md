@@ -32,6 +32,9 @@ tags:
 20. <ruby>[袖](characters/袖%20(char).md)<rt>ㄙㄨㄛ</rt></ruby> "sleeve"
 21. <ruby>[被](characters/被%20(char).md)<rt>ㄆㄧ</rt></ruby> "-ee (but a prefix)"
 
+### Aliases
+- 𫛡 --> 鴔
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

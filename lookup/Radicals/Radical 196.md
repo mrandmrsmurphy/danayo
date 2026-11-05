@@ -65,6 +65,7 @@ date-last-perfect: 2026-10-05
 - 鷄 --> 鶏
 - 鸡 --> 鶏
 - 鶵 --> 雛
+- 𫛡 --> 鴔
 
 ## Data check
 ```dataview

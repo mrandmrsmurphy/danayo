@@ -70,3 +70,7 @@ Suggest: a one-time check of all `3-4-N` pages against EDRDG before the loop rea
 雴 has `skip_number: 1-8-5`, which is a left-right split. Wiktionary's decomposition is **⿱雨立** (雨 on top of 立, a top-bottom glyph), which would be **SKIP 2-8-5** (top 雨 = 8, bottom 立 = 5). EDRDG has no entry for 雴, so there is no authority to check against; 13 strokes is right either way. If the glyph is top-bottom, 雴 should move from SKIP-1-8-5 to SKIP-2-8-5. Everything else on the page checked out (Wiktionary: chì/lì, cap1, Radical 173; not ranked in the CC corpus).
 
 雴 was **not stamped** (the stamp and a blank-line fix were reverted) and nothing was changed. Question: is 雴 left-right or top-bottom? I'd lean top-bottom, 2-8-5.
+
+## OPEN 2026-11-05 — 馨: alias 馫 needs SKIP 2-9-18, the same missing-slot problem as 欝
+
+馨 itself checks out against EDRDG (Radical 186 香, SKIP 2-11-9, 20 strokes; CC rank 3974 = `mc_id`). Its alias 馫 (Wiktionary: Radical 186 香, 27 strokes, 香 over 𩡐, so SKIP **2-9-18**; EDRDG has no entry) has no leaf `SKIP-2-9-18`, and the index `SKIP-2-9.md` stops at slot 12. Same decision as 欝: extend the SKIP index to the needed slot and create a redirect-only leaf, or handle very tall SKIP codes another way. 馫 is also a very rare character (three 香), the kind you said you don't need as an alias, so dropping it from `aliases:` would remove the problem. 馨 was **not stamped**; nothing changed.

@@ -42,6 +42,7 @@ tags:
 - 皋 --> 皐
 - 羔 --> 皐
 - 珪 --> 硅
+- 𫛡 --> 鴔
 
 ## Data check
 ```dataview

@@ -54,5 +54,6 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 雛 | 雏 | 1-5-8 | simplified; 刍 5 + 隹 8 |
 | 韓 | 韩 | 1-8-4 | simplified; 龺 8 + 韦 4 |
 | 飯 | 饭 | 1-3-4 | simplified; 饣 3 + 反 4 |
+| 鴔 | 𫛡 | 1-5-5 | simplified; 乏 5 + 鸟 5; only Unihan/Wiktionary know it |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
