@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[高陽]]<rt>ㄍㄚㄨ⼘ㄫ</rt></ruby> "Goyang"
 - <ruby>[[高知]]<rt>ㄍㄚㄨㄐㄨㄧ</rt></ruby> "Kochi Prefecture"
 - <ruby>[[高原]]<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby> "plateau"
+- <ruby>[[高価]]<rt>ㄍㄚㄨㄍㄚ</rt></ruby> "expensive, high-priced"
 
 ## Derived Characters
 - <ruby>[[敲 (char)|敲]]<rt>ㄎ⼘ㄨ</rt></ruby> "to knock; tap; rap"

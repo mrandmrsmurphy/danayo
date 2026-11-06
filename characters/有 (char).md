@@ -63,6 +63,9 @@ boundedness: 50
 - <ruby>[[有罪]]<rt>⼜ㄐㄛㄧ</rt></ruby> "guilty"
 - <ruby>[[有声]]<rt>⼜ㄙㄧㄫ</rt></ruby> "voiced"
 - <ruby>[[有利]]<rt>⼜ㄌㄧㄜ</rt></ruby> "advantageous; favorable"
+- <ruby>[[所有権]]<rt>ㄙㄜ⼜ㄍ⼔ㄋ</rt></ruby> "ownership right"
+- <ruby>[[私有]]<rt>ㄙㄧㄜ⼜</rt></ruby> "privately owned"
+- <ruby>[[公有]]<rt>ㄍㄛㄫ⼜</rt></ruby> "publicly owned"
 
 ## Chengyu
 - <ruby>[[有備無患]]<rt>⼜ㄅㄧㄜㄇㄜㄏ⺢ㄇ</rt></ruby> "better safe than sorry"

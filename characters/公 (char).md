@@ -77,6 +77,7 @@ boundedness: 100
 - <ruby>[[公転]]<rt>ㄍㄛㄫㄐ⼔ㄋ</rt></ruby> "revolution (orbital)"
 - <ruby>[[公式]]<rt>ㄍㄛㄫㄙㄧㄎ</rt></ruby> "formula"
 - <ruby>[[公里]]<rt>ㄍㄛㄫㄌㄧ</rt></ruby> "kilometre"
+- <ruby>[[公有]]<rt>ㄍㄛㄫ⼜</rt></ruby> "publicly owned"
 
 ## Chengyu
 - <ruby>[[公明正大]]<rt>ㄍㄛㄫㄇ⼶ㄫㄐㄧㄫㄉㄚㄧ</rt></ruby> "fair and square, open and aboveboard"

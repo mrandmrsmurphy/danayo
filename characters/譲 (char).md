@@ -50,3 +50,4 @@ boundedness: 60
 
 ## Words
 - <ruby>[[譲]]<rt>ㄋ⼘ㄫ</rt></ruby> "permit" (stand-in for 譲)
+- <ruby>[[譲渡]]<rt>ㄋ⼘ㄫㄉㄛ</rt></ruby> "to transfer ownership"

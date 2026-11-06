@@ -57,3 +57,4 @@ date-last-perfect: 2026-10-15
 ## Words
 - <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink" (stand-in for 没)
 - <ruby>[[沈没]]<rt>ㄑㄧㄇㄇㄛㄊ</rt></ruby> "to sink; to founder"
+- <ruby>[[没収]]<rt>ㄇㄛㄊㄙㄨㄛ</rt></ruby> "to confiscate"

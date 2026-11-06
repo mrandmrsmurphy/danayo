@@ -126,6 +126,7 @@ boundedness: 75
 - <ruby>[[華人]]<rt>ㄏ⺢·ㄋㄧㄋ</rt></ruby> "ethnic Chinese"
 - <ruby>[[人権]]<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby> "human rights"
 - <ruby>[[人民幣]]<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby> "yuan, renminbi"
+- <ruby>[[商人]]<rt>ㄙ⼘ㄫㄋㄧㄋ</rt></ruby> "a merchant, trader"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

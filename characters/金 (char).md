@@ -152,6 +152,7 @@ boundedness: 90
 - <ruby>[[賞金]]<rt>ㄙ⼘ㄫㄍㄧㄇ</rt></ruby> "prize money"
 - <ruby>[[賞与金]]<rt>ㄙ⼘ㄫ⼄ㄍㄧㄇ</rt></ruby> "bonus"
 - <ruby>[[聘金]]<rt>ㄆㄧㄫㄍㄧㄇ</rt></ruby> "bride-price"
+- <ruby>[[現金]]<rt>ㄏ⼶ㄋㄍㄧㄇ</rt></ruby> "cash — money in notes and coins"
 
 ## Chengyu
 - <ruby>[[一刻千金]]<rt>ㄧㄊㄎㄨㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> "each moment is precious because time passes quickly"

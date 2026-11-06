@@ -12,6 +12,7 @@ related_domains:
   - "[[Existence]]"
   - "[[Mind]]"
   - "[[Measurement]]"
+  - "[[Possession]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---
@@ -257,6 +258,7 @@ Rosenfelder's list names one concept, "exile," but Dan'a'yo splits it by who doe
 ## See Also
 
 **Related domains**:
+- [[Possession]] — ownership, transfer and confiscation are housed there; theft, robbery and bribery as legal matters stay here.
 - [[Government]] — the institutions (courts, police) that administer the law sit at the boundary between the two domains; the judiciary ([[司法]]) is one of the branches of government.
 - [[Sin]] — guilt, execution and pardon are shared with the moral vocabulary of sin; [[赦免]] and [[暗殺]] are housed there.
 - [[Conflict]] — [[拘禁]], [[監禁]], [[禁錮]], [[脅迫]], [[誹謗]], [[調解]] and [[凶手]] are housed there for their physical or hostile side.

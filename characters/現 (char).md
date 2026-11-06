@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[現状]]<rt>ㄏ⼶ㄋㄐ⺢ㄫ</rt></ruby> "present state; status quo"
 - <ruby>[[現実]]<rt>ㄏ⼶ㄋㄙㄧㄊ</rt></ruby> "reality"
 - <ruby>[[現存]]<rt>ㄏ⼶ㄋㄐㄛㄋ</rt></ruby> "extant"
+- <ruby>[[現金]]<rt>ㄏ⼶ㄋㄍㄧㄇ</rt></ruby> "cash — money in notes and coins"
 
 ## Chengyu
 - <ruby>[[文言現代]]<rt>ㄇㄨㄋ·ㄝㄋㄏ⼶ㄋㄉㄚㄧ</rt></ruby> "Classical Chinese, Modern Day"

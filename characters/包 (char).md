@@ -62,6 +62,7 @@ boundedness: 70
 - <ruby>[[割包皮]]<rt>ㄍㄚㄊㄅ⼘ㄨㄅㄧ</rt></ruby> "circumcision"
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail" (代用字 for 雹; from Korean 우박/雨雹)
 - <ruby>[[包]]<rt>ㄅ⼘ㄨ</rt></ruby> "wrap"
+- <ruby>[[銭包]]<rt>ㄐㄝㄋㄅ⼘ㄨ</rt></ruby> "a purse, wallet"
 
 ## Derived Characters
 - <ruby>[[抱]]<rt>ㄅㄚㄨ</rt></ruby> "embrace"

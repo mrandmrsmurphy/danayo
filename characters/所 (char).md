@@ -62,3 +62,4 @@ boundedness: 90
 - <ruby>[[裁判所]]<rt>ㄑㄚㄧㄆㄚㄋㄙㄜ</rt></ruby> "courthouse"
 - <ruby>[[近所]]<rt>ㄍㄧㄋㄙㄜ</rt></ruby> "neighborhood"
 - <ruby>[[住所]]<rt>ㄐㄨㄙㄜ</rt></ruby> "address"
+- <ruby>[[所有権]]<rt>ㄙㄜ⼜ㄍ⼔ㄋ</rt></ruby> "ownership right"

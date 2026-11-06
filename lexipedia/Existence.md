@@ -17,6 +17,7 @@ related_domains:
   - "[[Knowledge]]"
   - "[[Dimensions]]"
   - "[[Events]]"
+  - "[[Possession]]"
 status: complete
 date-last-perfect: 2026-10-31
 ---
@@ -324,6 +325,7 @@ The **fate/destiny cluster** ([[運命]]/[[命運]]/[[宿命]]/[[運数]]/[[因�
 ## See Also
 
 **Related domains**:
+- [[Possession]] — [[有]], [[無]] and [[欠乏]] here are the existential side of having and lacking; ownership, lending, giving and taking are housed there.
 - [[Grammar]] — the six-way 是/非/在/有/無/莫 copula split (`pos: 系詞`) is a core grammatical topic in its own right, not just vocabulary; see [[grammar/文法 - 97品詞|文法 - 97品詞]] and this domain's own [[系詞]]/[[繋辞]] entries above.
 - [[Life]] — birth, death, and the life cycle are deliberately excluded from this domain even though they're conceptually adjacent to "existence"; Rosenfelder keeps them as a separate topic, and this vault follows that split. 生/死 and their compounds (生活, 死亡, 誕生, 出生率, 死亡率, 死亡人数, 分娩, 生育, 生死) belong there, not here.
 - [[Law]] — [[陳述]] above and [[隠滅]]'s "destroy evidence" sense border this domain's own testimony/evidence vocabulary.

@@ -29,7 +29,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * smart - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
 * real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake - <ruby>[[贋]]<rt>ㄚㄋ</rt></ruby> *or [[不真]]*
 * upper - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> , lower - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
-* expensive - <ruby>[[貴重]]<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby> , cheap - <ruby>[[../words/便|便]]<rt>ㄅ⼶ㄋ</rt></ruby>
+* expensive - <ruby>[[高価]]<rt>ㄍㄚㄨㄍㄚ</rt></ruby> , cheap - <ruby>[[../words/便|便]]<rt>ㄅ⼶ㄋ</rt></ruby>
 * sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby>
 * strong - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> , weak - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * different - <ruby>[[不同]]<rt>ㄅㄛㄊㄉㄛㄫ</rt></ruby> , same - <ruby>[[同一]]<rt>ㄉㄛㄫㄧㄊ</rt></ruby>

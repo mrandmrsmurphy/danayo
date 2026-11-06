@@ -7,6 +7,7 @@ related_domains:
   - "[[Love]]"
   - "[[Society]]"
   - "[[Reproduction]]"
+  - "[[Possession]]"
 status: complete
 date-last-perfect: 2026-10-29
 ---
@@ -269,6 +270,7 @@ The in-law words follow an Asian template rather than an English one. English "b
 ## See Also
 
 **Related domains**:
+- [[Possession]] — inheritance and the heir [[嗣子]] connect to ownership and transfer.
 - [[Government]] — [[王朝]] ("dynasty") sits at the scale where lineage and rule become the same concept; Government hasn't been migrated to this template yet, so the link isn't yet reciprocated on that page.
 - [[Love]] — romantic/affectionate vocabulary lives there rather than here; [[愛人]]'s mainland-Mandarin "spouse" sense borders this domain even though Love treats the word under its fiat "lover" sense.
 - [[Society]] — group belonging beyond the family lives there; [[新人]] ("newcomer") and [[外人]]/[[本地]]/[[../words/土着]] (stranger/local/native) all touch questions of who counts as "one of us" from the outside-the-family angle this page doesn't cover.

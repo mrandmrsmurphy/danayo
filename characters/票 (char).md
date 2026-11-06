@@ -58,6 +58,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[郵票]]<rt>ㄨㄛㄆ⼘ㄨ</rt></ruby> "stamp, postage stamp"
 - <ruby>[[投票率]]<rt>ㄉㄛㄨㄆ⼘ㄨㄌㄨㄊ</rt></ruby> "voter turnout, voting rate"
 - <ruby>[[投票]]<rt>ㄉㄛㄨㄆ⼘ㄨ</rt></ruby> "vote"
+- <ruby>[[発票]]<rt>ㄈㄚㄊㄆ⼘ㄨ</rt></ruby> "an invoice, receipt"
 
 ## Derived Characters
 - <ruby>[[漂 (char)|漂]]<rt>ㄆ⼄</rt></ruby> "drift, float"

@@ -10,12 +10,14 @@ related_domains:
   - "[[Dimensions]]"
   - "[[Measurement]]"
   - "[[Movement]]"
-status: partial
+  - "[[Possession]]"
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Trade
 
-Trade vocabulary covers buying, selling, wealth, and the institutions of commerce — banks, markets, companies — along with the display and revelation words that cluster around showing off goods or wealth. Several basic terms (account, deal, due, offer, moneylender, luxury, alms, purse, advertise, file, asset, debit, credit, and an invoice "bill") have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Trade vocabulary covers buying, selling, wealth, and the institutions of commerce — banks, markets, companies — along with the display and revelation words that cluster around showing off goods or wealth. Money, shops, merchants and customers, advertising, accounts, credit and debt are all covered, with the few English terms that Dan'a'yo says by strategy rather than a word of its own (offer, deal, due, file, luxury, moneylender) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -24,20 +26,21 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[販売](../words/販売.md)<rt>ㄈㄛㄋㄇㄚㄧ</rt></ruby>: to sell.
 - <ruby>[金銭](../words/金銭.md)<rt>ㄍㄧㄇㄐㄝㄋ</rt></ruby>: money.
 - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>: a store, shop. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
-- <ruby>[舗](../words/舗.md)<rt>ㄆㄛㄨ</rt></ruby>: a store — an undocumented near-duplicate of [[商店]], with no recorded distinction between the two.
+- <ruby>[舗](../words/舗.md)<rt>ㄆㄛㄨ</rt></ruby>: a store, shop — the bound form (as in 店舗, "storefront"), where [[商店]] is the general word.
 - <ruby>[暖簾](../words/暖簾.md)<rt>ㄋㄚㄋㄌㄝㄇ</rt></ruby>: a noren, a shop-entrance curtain — the short cloth curtain hung in a shop doorway, usually bearing the shop's name or crest; also, by extension, the shop's name, credit and reputation.
 - <ruby>[価値](../words/価値.md)<rt>ㄍㄚㄉㄧ</rt></ruby>: value, worth.
 - <ruby>[価格](../words/価格.md)<rt>ㄍㄚㄍㄚㄎ</rt></ruby>: price — distinct from [[価値]]'s abstract worth.
 - <ruby>[割引](../words/割引.md)<rt>ㄍㄚㄊ·ㄧㄋ</rt></ruby>: a discount.
 - <ruby>[国庫](../words/国庫.md)<rt>ㄍㄛㄎㄎㄛ</rt></ruby>: the national treasury, exchequer.
-- <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" remains uncoined.
+- <ruby>[便](../words/便.md)<rt>ㄅ⼶ㄋ</rt></ruby>: cheap — the price sense; "expensive" is [[高価]].
 - <ruby>[便宜](../words/便宜.md)<rt>ㄅ⼶ㄋㄜㄧ</rt></ruby>: cheap, inexpensive (in Mandarin/Cantonese) — a genuine cross-linguistic heteronym: the same compound means "convenience, expediency" in Japanese/Korean instead, not "cheap" at all.
 - <ruby>[廉](../words/廉.md)<rt>ㄌ⼶ㄇ</rt></ruby>: cheap, low-priced (廉価, "low price") — a secondary sense of the same word whose primary sense is "upright, honest," housed on [Society](../lexipedia/Society.md).
+- <ruby>[高価](../words/高価.md)<rt>ㄍㄚㄨㄍㄚ</rt></ruby>: expensive, high-priced — of a high price; the opposite of [[廉価]]'s cheap, with [[価格]] between them.
 - <ruby>[費](../words/費.md)<rt>ㄈㄚㄧ</rt></ruby>: an expense, a cost — also, as a verb, "to spend, to waste" (浪費, "to waste"; 費用, "expense, cost").
 - <ruby>[品](../words/品.md)<rt>ㄆㄨㄇ</rt></ruby>: an article, item, product (品目, "inventory entry") — the general word for a good or piece of merchandise.
 - <ruby>[品目](../words/品目.md)<rt>ㄆㄨㄇㄇㄨㄎ</rt></ruby>: an article, item, listing.
 
-**Not yet coined**: "account," "deal," "due," and "offer" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these, the CJKV way**: "account" is [[帳戸]], "advertise" is [[広告]] or [[宣伝]], "asset" is [[資産]], "credit" and "debit" are the creditor's and debtor's sides, [[債権]] and [[債務]], "purse" is [[銭包]], "alms" is [[施捨]], "bill" in the sense of an invoice is [[発票]], "luxury" is [[豪華]] (see [Valuation](../lexipedia/Valuation.md)), "offer" is [[提供]] (see [Work](../lexipedia/Work.md)), "deal" is [[契約]] or [[交易]] depending on whether a contract or a bargain is meant, and "due" is carried by [[期限]], the deadline. A "moneylender" is a creditor, [[債権]] plus the suffix [[－者]], not coined separately. "File" in the business sense is [[文書]], "document." These are strategies, not gaps.
 
 ## Intermediate (B1–B2)
 
@@ -50,12 +53,17 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>: a market. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[貿易](../words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>: trade — the international sense.
 - <ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>: the economy.
+- <ruby>[供給](../words/供給.md)<rt>ㄍ⼄ㄫㄍㄧㄆ</rt></ruby>: to supply, furnish — the producer's side of the market; see [Work](../lexipedia/Work.md) for its own citation there.
 - <ruby>[生活水準](../words/生活水準.md)<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby>: standard of living.
 - <ruby>[交易](../words/交易.md)<rt>ㄍ⼄ㄨ⼶ㄎ</rt></ruby>: trade — the plain transactional sense.
 - <ruby>[交換](../words/交換.md)<rt>ㄍ⼄ㄨㄏ⺢ㄇ</rt></ruby>: exchange, swap — the general give-and-take sense (交換留学, "exchange study"), broader than [[交易]]'s commercial trade specifically.
 - <ruby>[換](../words/換.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to exchange, interchange.
 - <ruby>[交流](../words/交流.md)<rt>ㄍ⼄ㄨㄌ⼜</rt></ruby>: exchange, interchange, mingle — the standard word for cultural/social exchange (文化交流), distinct from [[交換]]'s give-and-take of items and [[交易]]'s commercial trade.
 - <ruby>[商業](../words/商業.md)<rt>ㄙ⼘ㄫㄝㄆ</rt></ruby>: trade, commerce — the abstract institutional sense.
+- <ruby>[商人](../words/商人.md)<rt>ㄙ⼘ㄫㄋㄧㄋ</rt></ruby>: a merchant, trader — the seller's side of [[顧客]].
+- <ruby>[顧客](../words/顧客.md)<rt>ㄍㄛㄎㄚㄎ</rt></ruby>: a customer, client — the buyer's side of [[商人]].
+- <ruby>[広告](../words/広告.md)<rt>ㄍ⺢ㄫㄍㄚㄨ</rt></ruby>: an advertisement; to advertise — a public notice offering goods or services.
+- <ruby>[宣伝](../words/宣伝.md)<rt>ㄙㄝㄋㄐ⼔ㄋ</rt></ruby>: publicity; propaganda — spreading the word about a product or cause.
 
 ### Buying, Selling & Paying
 
@@ -76,7 +84,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[収入](../words/収入.md)<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>: income.
 - <ruby>[充当](../words/充当.md)<rt>ㄑㄨㄫㄉㄚㄫ</rt></ruby>: to allocate, apply funds toward — to earmark a store of money or resources for a designated use (the bureaucratic act of allocating from a budget); directing a filled store to a purpose, where [[充足]] describes the store as sufficient.
 - <ruby>[談判](../words/談判.md)<rt>ㄉㄚㄇㄆㄚㄋ</rt></ruby>: to negotiate. See [Speech](../lexipedia/Speech.md) for its own citation there.
-- <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage.
+- <ruby>[押](../words/押.md)<rt>ㄚㄆ</rt></ruby>: a mortgage; to pawn.
 - <ruby>[利率](../words/利率.md)<rt>ㄌㄧㄜㄌㄨㄊ</rt></ruby>: an interest rate — resolves this page's own previously-flagged "interest" gap.
 - <ruby>[保証](../words/保証.md)<rt>ㄅㄚㄨㄐㄧㄫ</rt></ruby>: to ensure, attest, stipulate, guarantee (保証人, "a guarantor").
 - <ruby>[保険](../words/保険.md)<rt>ㄅㄚㄨㄏㄝㄇ</rt></ruby>: insurance, to insure.
@@ -88,6 +96,12 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[富裕](../words/富裕.md)<rt>ㄈㄨㄛ⼜</rt></ruby>: rich — a person's wealth.
 - <ruby>[豊富](../words/豊富.md)<rt>ㄆㄨㄫㄈㄨㄛ</rt></ruby>: abundant, rich, plentiful — resource-richness, distinct from [[富裕]]'s personal wealth.
 - <ruby>[貧乏](../words/貧乏.md)<rt>ㄅㄧㄋㄅㄚㄆ</rt></ruby>: poor.
+- <ruby>[資産](../words/資産.md)<rt>ㄐㄧㄜㄙㄚㄋ</rt></ruby>: an asset, assets — what is owned that has value, the opposite of [[負債]] on the balance sheet.
+- <ruby>[債権](../words/債権.md)<rt>ㄐㄚㄧㄍ⼔ㄋ</rt></ruby>: a credit; a creditor's claim — the creditor's right to be repaid, the other side of [[債務]].
+- <ruby>[債務](../words/債務.md)<rt>ㄐㄚㄧㄇㄨ</rt></ruby>: a debt; a debit — the debtor's obligation to repay, where [[負債]] is the balance-sheet liability.
+
+### Success & Achievement
+
 - <ruby>[亨通](../words/亨通.md)<rt>ㄏㄚㄫㄊㄛㄫ</rt></ruby>: to prosper — the business/trade-prosperity sense.
 - <ruby>[成功](../words/成功.md)<rt>ㄙㄧㄫㄍㄛㄫ</rt></ruby>: to succeed, achieve success, prosper — broader than [[亨通]]'s commercial prosperity.
 - <ruby>[成績](../words/成績.md)<rt>ㄙㄧㄫㄐㄝㄎ</rt></ruby>: achievements, results, grades.
@@ -105,12 +119,14 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 - <ruby>[共有](../words/共有.md)<rt>ㄍ⼄ㄫ⼜</rt></ruby>: to share, hold jointly. See [Possession](../lexipedia/Possession.md) for its own citation there.
 - <ruby>[分配](../words/分配.md)<rt>ㄅㄨㄋㄆㄛㄧ</rt></ruby>: to share, distribute, allocate — the division sense, distinct from [[共有]]'s joint holding.
+- <ruby>[施捨](../words/施捨.md)<rt>ㄙㄝㄙ⼘</rt></ruby>: alms; to give alms — charity to the poor.
 
 ### Money & Currency
 
 - <ruby>[貨幣](../words/貨幣.md)<rt>ㄏ⺢·ㄆㄝ</rt></ruby>: money, currency.
+- <ruby>[現金](../words/現金.md)<rt>ㄏ⼶ㄋㄍㄧㄇ</rt></ruby>: cash — money in notes and coins, as against a cheque, card or debt.
 - <ruby>[外貨](../words/外貨.md)<rt>⺢ㄧㄏ⺢</rt></ruby>: foreign goods, foreign currency.
-- <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: money, currency — an undocumented near-duplicate of [[貨幣]].
+- <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: currency, money in circulation — the Dan'a'yo word for a country's money in use, where [[貨幣]] is money as a medium of exchange.
 - <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.
 - <ruby>[韓圓](../words/韓圓.md)<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>: the won, Korean currency.
@@ -118,16 +134,20 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[美圓](../words/美圓.md)<rt>ㄇㄧ⼔ㄋ</rt></ruby>: the dollar, American currency.
 - <ruby>[日圓](../words/日圓.md)<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>: the yen, Japanese currency.
 - <ruby>[紙幣](../words/紙幣.md)<rt>ㄐㄝ·ㄆㄝ</rt></ruby>: a banknote.
+- <ruby>[銭包](../words/銭包.md)<rt>ㄐㄝㄋㄅ⼘ㄨ</rt></ruby>: a purse, wallet.
 - <ruby>[提款机](../words/提款机.md)<rt>ㄙㄝ·ㄎ⺢ㄋㄍㄧㄜ</rt></ruby>: an ATM.
+- <ruby>[帳戸](../words/帳戸.md)<rt>ㄐ⺢ㄫㄏㄛ</rt></ruby>: an account, a bank account — the record under which a customer's money is kept.
 
 ### Work
 
 - <ruby>[職業](../words/職業.md)<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby>: a job, occupation.
 - <ruby>[工業](../words/工業.md)<rt>ㄍㄛㄫㄝㄆ</rt></ruby>: industry.
+- <ruby>[賃金](../words/賃金.md)<rt>ㄋㄧㄇㄍㄧㄇ</rt></ruby>: wages, pay for work; see [Work](../lexipedia/Work.md) for its own citation there.
 
 ### Obligations & Refusals
 
 - <ruby>[約束](../words/約束.md)<rt>⼘ㄎㄙ⼄ㄎ</rt></ruby>: a promise.
+- <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: a contract, agreement, deed — a binding [[約束]]; see [Law](../lexipedia/Law.md) and [Work](../lexipedia/Work.md) for its own citations there.
 - <ruby>[抗拒](../words/抗拒.md)<rt>ㄏㄚㄫㄍ⼄</rt></ruby>: to refuse — a stronger, resisting register.
 - <ruby>[辞退](../words/辞退.md)<rt>ㄑㄧ·ㄊㄧㄜ</rt></ruby>: to refuse — a softer, politely-declining register.
 
@@ -142,11 +162,12 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[祭典](../words/祭典.md)<rt>ㄐㄝㄉㄝㄋ</rt></ruby>: a festival. See [Events](../lexipedia/Events.md) and [Religion](../lexipedia/Religion.md) for their own citations there.
 - <ruby>[贋](../words/贋.md)<rt>ㄚㄋ</rt></ruby>: counterfeit, fake.
 - <ruby>[帳簿](../words/帳簿.md)<rt>ㄐ⺢ㄫㄅㄛ</rt></ruby>: a ledger.
+- <ruby>[発票](../words/発票.md)<rt>ㄈㄚㄊㄆ⼘ㄨ</rt></ruby>: an invoice, official receipt — the note a seller issues for a sale.
 - <ruby>[券](../words/券.md)<rt>ㄎㄛㄋ</rt></ruby>: a certificate, ticket, bond, voucher (債券, "bond, debenture"; 証券, "securities").
 - <ruby>[利潤](../words/利潤.md)<rt>ㄌㄧㄜㄋㄨㄋ</rt></ruby>: profit.
 - <ruby>[負債](../words/負債.md)<rt>ㄅ⼜ㄐㄚㄧ</rt></ruby>: a liability, debt. See [Law](../lexipedia/Law.md) for its own citation there.
 
-**Not yet coined or excluded as false matches**: "Partner" (business) has no dedicated word — [[伴侶]] and [[愛人]], which also gloss "partner," both mean a personal/romantic companion or lover. "Shop" (retail) is covered only by [[商店]] above — [[工場]], which also glosses "shop," means a workplace or factory. "Bill" (an invoice) has no dedicated word — [[鳥嘴]], which also glosses "bill," means a bird's beak, an unrelated homograph. "Moneylender," "luxury," "alms," "purse," "advertise," "file," "asset," "debit," and "credit" are all likewise genuinely uncoined.
+**Excluded as false matches**: "Partner" (business) has no dedicated word — [[伴侶]] and [[愛人]], which also gloss "partner," both mean a personal/romantic companion or lover. "Shop" (retail) is covered by [[商店]] above — [[工場]], which also glosses "shop," means a workplace or factory. "Bill" (an invoice) is [[発票]], not [[鳥嘴]], which also glosses "bill" but means a bird's beak, an unrelated homograph.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -176,13 +197,20 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 **Three false matches were caught and excluded**, more than most pages: [[伴侶]]/[[愛人]] ("partner") both mean a romantic companion, not a business partner; [[工場]] ("shop") means a factory/workplace, not a retail store; [[鳥嘴]] ("bill") means a bird's beak, not an invoice. ("Interest" itself is no longer a gap — see [[利率]], above.)
 
-**[[貨幣]] and [[通貨]] are an undocumented near-duplicate pair**, both meaning "money, currency" with no recorded distinction — the same treatment given to other such pairs elsewhere in this vault.
+**[[貨幣]] and [[通貨]] split money as a medium from money in use**: [[貨幣]] is money as a thing, the coin or note that is exchanged; [[通貨]] is the currency a country has in circulation. Both are glossed "money, currency," and a learner may use either where the difference does not matter.
+
+**[[債権]], [[債務]] and [[負債]] are the two sides of a debt and the ledger word**: [[債権]] is the creditor's claim, [[債務]] is the debtor's obligation, and [[負債]] is the liability as it appears on a balance sheet, set against [[資産]]. "Credit" in the sense of a credit card is [[信用]] plus the suffix [[－証]], and is not a use of [[債権]].
+
+**[[商人]] and [[顧客]] are the two sides of a sale**: the seller and the buyer, with [[商店]] the place and [[商業]] the trade. [[広告]] is a single advertisement, and [[宣伝]] is the wider act of publicity, which also covers propaganda.
+
+**Price words run in one line**: [[高価]] "expensive," [[価格]] "price," [[廉価]]/[[低廉]] "cheap," and [[便]]/[[便宜]] "cheap" with the heteronym warning above; [[安価]] adds a hint of poor quality.
 
 **[[大器]]'s "treasure" is a classical idiom, not a literal object** — worth flagging since its own `english` field reads simply "treasure" without that context; [[宝物]] is the plain literal word for a precious object.
 
 ## See Also
 
 **Related domains**:
+- [[Possession]] — ownership, giving, losing and inheriting are housed there; buying, selling, lending and renting stay here.
 - [Existence](../lexipedia/Existence.md) — [[陳列]], [[顕示]], [[顕現]], and [[提示]] are all primarily housed there for their broader sense of manifesting or being present, and gathered here for their market-display angle.
 - [Buildings](../lexipedia/Buildings.md) — [[銀行]], [[商店]], and [[市場]] are all primarily housed there as physical structures, and gathered here as commercial institutions.
 

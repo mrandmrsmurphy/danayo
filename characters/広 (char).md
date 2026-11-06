@@ -65,6 +65,7 @@ boundedness: 50
 - <ruby>[[広州]]<rt>ㄍ⺢ㄫㄐㄨㄛ</rt></ruby> "Guangzhou"
 - <ruby>[[広西]]<rt>ㄍ⺢ㄫㄙㄝㄧ</rt></ruby> "Guangxi"
 - <ruby>[[広島]]<rt>ㄍ⺢ㄫㄊㄚㄨ</rt></ruby> "Hiroshima Prefecture"
+- <ruby>[[広告]]<rt>ㄍ⺢ㄫㄍㄚㄨ</rt></ruby> "advertisement; to advertise"
 
 ## Derived Characters
 - <ruby>[[拡]]<rt>ㄏ⺢ㄎ</rt></ruby> "expand, enlarge, stretch"
