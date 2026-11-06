@@ -65,6 +65,8 @@ boundedness: 90
 - <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "hwacha; fire chariot"
 - <ruby>[[車庫]]<rt>ㄑ⺢·ㄎㄛ</rt></ruby> "garage"
 - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> "bus, public vehicle"
+- <ruby>[[貨車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> "truck, freight car"
+- <ruby>[[戦車]]<rt>ㄐㄝㄋㄑ⺢</rt></ruby> "tank"
 
 ## Derived Characters
 - <ruby>[[庫]]<rt>ㄎㄛ</rt></ruby> "storehouse"

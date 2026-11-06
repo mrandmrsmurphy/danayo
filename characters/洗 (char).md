@@ -57,3 +57,4 @@ boundedness: 65
 - <ruby>[[洗濯]]<rt>ㄙㄝㄋㄉㄚㄎ</rt></ruby> "launder; rinse; wash"
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"
 - <ruby>[[洗車]]<rt>ㄙㄝㄋㄑ⺢</rt></ruby> "wash a car"
+- <ruby>[[洗濯机]]<rt>ㄙㄝㄋㄉㄚㄎㄍㄧㄜ</rt></ruby> "washing machine"

@@ -33,6 +33,14 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 
 ## Intermediate (B1–B2)
 
+### Vehicles & Machines
+
+- <ruby>[貨車](../words/貨車.md)<rt>ㄏ⺢ㄑ⺢</rt></ruby>: a truck, freight car. Homophone of [[火車]], the Joseon rocket-cart.
+- <ruby>[戦車](../words/戦車.md)<rt>ㄐㄝㄋㄑ⺢</rt></ruby>: a tank, armoured fighting vehicle. See [War](../lexipedia/War.md) for its own citation there.
+- <ruby>[昇降机](../words/昇降机.md)<rt>ㄙㄨㄫㄍㄚㄫㄍㄧㄜ</rt></ruby>: an elevator, lift.
+- <ruby>[洗濯机](../words/洗濯机.md)<rt>ㄙㄝㄋㄉㄚㄎㄍㄧㄜ</rt></ruby>: a washing machine.
+- <ruby>[打字机](../words/打字机.md)<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>: a typewriter.
+
 ### Handles & Grips
 
 - <ruby>[把手](../words/把手.md)<rt>ㄅㄚㄙ⼜</rt></ruby>: a grip, handle, knob — the clean physical noun.

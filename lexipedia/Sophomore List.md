@@ -413,7 +413,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- gas station *(needs a word)*
 	- motor *(needs a word)*
 	- taxi *(needs a word)*
-	- truck *(needs a word)*
+	- truck - <ruby>[[貨車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby>
 	- gasoline - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby>
 - Other :
 	- bicycle - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>
@@ -478,7 +478,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
 	- dishwasher *(needs a word)*
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
-	- washer *(needs a word)*
+	- washer - <ruby>[[洗濯机]]<rt>ㄙㄝㄋㄉㄚㄎㄍㄧㄜ</rt></ruby>
 	- dryer *(needs a word)*
 	- furnace - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby>
 	- AC *(needs a word)*
@@ -497,14 +497,14 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Weaponry :
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
 	- rifle *(needs a word)*
-	- tank *(needs a word)*
+	- tank - <ruby>[[戦車]]<rt>ㄐㄝㄋㄑ⺢</rt></ruby>
 	- infantry *(needs a word)*
 	- cavalry *(needs a word)*
 	- artillery *(needs a word)*
 	- bomb *(needs a word)*
 - Office :
 	- copier *(needs a word)*
-	- typewriter *(needs a word)*
+	- typewriter - <ruby>[[打字机]]<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>
 	- scanner *(needs a word)*
 - Media :
 	- newspaper - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> *(in Mandarin/Cantonese 新聞 means "news," not the physical paper; see its own Notes)*
@@ -514,7 +514,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- radio *(needs a word)*
 	- comic - <ruby>[[漫画]]<rt>ㄇㄚㄋㄏ⺢ㄎ</rt></ruby> *("comic, cartoon, manga")*
 - Other :
-	- elevator *(needs a word)*
+	- elevator - <ruby>[[昇降机]]<rt>ㄙㄨㄫㄍㄚㄫㄍㄧㄜ</rt></ruby>
 	- laser *(needs a word)*
 	- light bulb - <ruby>[[電灯]]<rt>ㄉㄝㄋㄉㄨㄫ</rt></ruby> *("lamp, electric light")*
 	- watch - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
