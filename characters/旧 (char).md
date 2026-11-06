@@ -58,6 +58,7 @@ boundedness: 80
 - <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms; kyūjitai"
 - <ruby>[[旧正月]]<rt>ㄍ⼜ㄛㄐㄧㄫ⼔ㄊ</rt></ruby> "lunar new year; old new year"
 - <ruby>[[仍旧]]<rt>ㄋㄧㄫㄍ⼜ㄛ</rt></ruby> "yet; still"
+- <ruby>[[旧約]]<rt>ㄍ⼜ㄛ⼘ㄎ</rt></ruby> "the Old Testament, the old covenant"
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"

@@ -56,6 +56,7 @@ boundedness: 60
 ## Words
 - <ruby>[[日光]]<rt>ㄋㄧㄊㄎ⺢ㄫ</rt></ruby> "sunlight"
 - <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby> "yen"
+- <ruby>[[安息日]]<rt>ㄚㄋㄙㄧㄎㄋㄧㄊ</rt></ruby> "the Sabbath"
 ### Sun
 - <ruby>[[日]]<rt>ㄋㄧㄊ</rt></ruby> "day; sun" (stand-in for 日)
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"

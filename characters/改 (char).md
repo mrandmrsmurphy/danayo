@@ -58,6 +58,7 @@ boundedness: 80
 - <ruby>[[改竄]]<rt>ㄍㄚㄧㄑㄚㄋ</rt></ruby> "to falsify; to tamper with"
 - <ruby>[[改革]]<rt>ㄍㄚㄧㄎㄧㄎ</rt></ruby> "reform"
 - <ruby>[[更改]]<rt>ㄍㄚㄫㄍㄚㄧ</rt></ruby> "to change; to alter"
+- <ruby>[[悔改]]<rt>ㄏㄛㄧㄍㄚㄧ</rt></ruby> "to repent; repentance"
 
 ## Chengyu
 - <ruby>[[豹斑改乎]]<rt>ㄅ⼘ㄨㄅㄚㄋㄍㄚㄧㄏㄛ</rt></ruby> "Can a leopard change his spots?"

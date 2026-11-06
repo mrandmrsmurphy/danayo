@@ -67,6 +67,7 @@ boundedness: 100
 - <ruby>[[和解]]<rt>ㄏ⺢ㄍ⼘ㄧ</rt></ruby> "settlement"
 - <ruby>[[誤解]]<rt>ㄛㄍ⼘ㄧ</rt></ruby> "misunderstanding"
 - <ruby>[[分解]]<rt>ㄅㄨㄋㄍ⼘ㄧ</rt></ruby> "decompose"
+- <ruby>[[告解]]<rt>ㄍㄚㄨㄍ⼘ㄧ</rt></ruby> "confession, the sacrament of penance"
 
 ## Derived Characters
 - <ruby>[[蟹 (char)|蟹]]<rt>ㄏ⼘ㄧ</rt></ruby> "crab"

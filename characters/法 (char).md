@@ -91,6 +91,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[民法]]<rt>ㄇㄧㄋㄈㄚㄆ</rt></ruby> "civil law"
 - <ruby>[[法西斯主義]]<rt>ㄈㄚㄆㄙㄝㄧㄙㄧㄐㄨㄜㄧ</rt></ruby> "fascism"
 - <ruby>[[魔法]]<rt>ㄇㄚㄈㄚㄆ</rt></ruby> "magic; to enchant"
+- <ruby>[[律法]]<rt>ㄌㄨㄊㄈㄚㄆ</rt></ruby> "law; the Law, the Torah"
 
 ## Chengyu
 - <ruby>[[諸法無我]]<rt>ㄐㄚㄈㄚㄆㄇㄜㄚ</rt></ruby> "every dharma is without self"

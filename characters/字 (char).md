@@ -89,6 +89,7 @@ boundedness: 90
 - <ruby>[[用字]]<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use, character usage"
 - <ruby>[[打字机]]<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby> "typewriter"
 - <ruby>[[金字塔]]<rt>ㄍㄧㄇㄐㄧㄊㄚㄆ</rt></ruby> "a pyramid"
+- <ruby>[[十字架]]<rt>ㄙㄧㄆㄐㄧㄍㄚ</rt></ruby> "the cross, a crucifix"
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "One Character, One Sound"

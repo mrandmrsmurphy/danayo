@@ -56,6 +56,7 @@ boundedness: 80
 - <ruby>[[坐席]]<rt>ㄐ⺢ㄙㄝㄎ</rt></ruby> "seat; mat"
 - <ruby>[[結加夫坐]]<rt>ㄍㄝㄊㄍㄚㄈㄜㄐ⺢</rt></ruby> "to sit in lotus position"
 - <ruby>[[星坐]]<rt>ㄙㄝㄫㄐ⺢</rt></ruby> "constellation"
+- <ruby>[[坐堂]]<rt>ㄐ⺢ㄉㄚㄫ</rt></ruby> "a cathedral, the bishop's seat church"
 
 ## Derived Characters
 - <ruby>[[挫]]<rt>ㄐ⺢</rt></ruby> "failure; setback; frustration"

@@ -54,6 +54,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[弥]]<rt>ㄇㄝ</rt></ruby> "all the more, increasingly" (stand-in for 弥)
 - <ruby>[[弥漫]]<rt>ㄇㄝ·ㄇㄚㄋ</rt></ruby> "pervade, fill"
 - <ruby>[[弥勒]]<rt>ㄇㄝㄌㄜㄎ</rt></ruby> "Maitreya"
+- <ruby>[[弥散]]<rt>ㄇㄝㄙㄚㄋ</rt></ruby> "the Mass, the Catholic liturgy of the Eucharist"
 
 ## Derived Characters
 - <ruby>[[祢]]<rt>ㄋㄝㄧ</rt></ruby> "thou; one's deceased father"

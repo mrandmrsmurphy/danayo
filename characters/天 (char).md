@@ -119,6 +119,7 @@ boundedness: 80
 - <ruby>[[天幕]]<rt>ㄊㄝㄋㄇㄚㄎ</rt></ruby> "a tent, canopy"
 - <ruby>[[天称]]<rt>ㄊㄝㄋㄑㄧㄫ</rt></ruby> "a scale, balance"
 - <ruby>[[天使]]<rt>ㄊㄝㄋㄙㄧ</rt></ruby> "an angel"
+- <ruby>[[天国]]<rt>ㄊㄝㄋㄍㄛㄎ</rt></ruby> "heaven, the kingdom of heaven"
 
 ## Derived Characters
 - <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"

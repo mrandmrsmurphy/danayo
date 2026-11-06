@@ -91,6 +91,7 @@ boundedness: 70
 - <ruby>[[黄道]]<rt>ㄏ⺢ㄫㄉㄚㄨ</rt></ruby> "ecliptic"
 - <ruby>[[小道]]<rt>ㄙㄛㄉㄚㄨ</rt></ruby> "path"
 - <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "channel, waterway"
+- <ruby>[[伝道]]<rt>ㄐ⼔ㄋㄉㄚㄨ</rt></ruby> "to preach, evangelize"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

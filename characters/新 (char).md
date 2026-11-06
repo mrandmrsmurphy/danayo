@@ -73,6 +73,7 @@ boundedness: 90
 - <ruby>[[新月]]<rt>ㄙㄧㄋ⼔ㄊ</rt></ruby> "new moon"
 - <ruby>[[超新星]]<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby> "supernova"
 - <ruby>[[新兵]]<rt>ㄙㄧㄋㄅ⼶ㄫ</rt></ruby> "a recruit, new soldier"
+- <ruby>[[新約]]<rt>ㄙㄧㄋ⼘ㄎ</rt></ruby> "the New Testament, the new covenant"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

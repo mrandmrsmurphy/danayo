@@ -71,6 +71,7 @@ boundedness: 80
 - <ruby>[[外孫女]]<rt>⺢ㄧㄙㄛㄋㄋㄜ</rt></ruby> "granddaughter through a daughter"
 - <ruby>[[女蘿]]<rt>ㄋㄜㄌㄚ</rt></ruby> "dodder; beard moss"
 - <ruby>[[女王]]<rt>ㄋㄜ⺢ㄫ</rt></ruby> "queen"
+- <ruby>[[修女]]<rt>ㄙㄨㄛㄋㄜ</rt></ruby> "a nun"
 
 ## Derived Characters
 - <ruby>[[如 (char)|如]]<rt>ㄋ⼄</rt></ruby> "like, as"

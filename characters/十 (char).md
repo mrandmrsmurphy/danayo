@@ -104,6 +104,8 @@ boundedness: 75
 - <ruby>[[第十]]<rt>ㄉㄝㄧㄙㄧㄆ</rt></ruby> "tenth"
 - <ruby>[[二十八宿]]<rt>ㄋㄧㄜㄙㄧㄆㄅㄚㄊㄙㄨㄎ</rt></ruby> "Twenty-Eight Mansions"
 - <ruby>[[十二宮]]<rt>ㄙㄧㄆㄋㄧㄜㄍㄨㄫ</rt></ruby> "zodiac"
+- <ruby>[[十字架]]<rt>ㄙㄧㄆㄐㄧㄍㄚ</rt></ruby> "the cross, a crucifix"
+- <ruby>[[十戒]]<rt>ㄙㄧㄆㄍ⼶</rt></ruby> "the Ten Commandments"
 
 ## Chengyu
 - <ruby>[[十人不滅]]<rt>ㄙㄧㄆㄋㄧㄋㄅㄛㄊㄇㄝㄊ</rt></ruby> "for ten people I will not destroy, quorum, minyan"

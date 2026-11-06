@@ -88,6 +88,7 @@ boundedness: 90
 - <ruby>[[知事]]<rt>ㄐㄨㄧㄐㄧ</rt></ruby> "governor"
 - <ruby>[[事態]]<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby> "situation"
 - <ruby>[[事例]]<rt>ㄐㄧㄌㄝ</rt></ruby> "case"
+- <ruby>[[執事]]<rt>ㄐㄧㄆㄐㄧ</rt></ruby> "a deacon"
 
 ## Chengyu
 - <ruby>[[事事皆旧]]<rt>ㄐㄧㄐㄧㄍ⼶ㄍ⼜ㄛ</rt></ruby> "all things are old, nothing is new"
