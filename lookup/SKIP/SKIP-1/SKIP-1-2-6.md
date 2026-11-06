@@ -27,7 +27,6 @@ tags:
 
 ### Aliases
 - 净 --> 浄
-- 诞 --> 誕
 
 ## Datacheck
 ```dataview

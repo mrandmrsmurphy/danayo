@@ -39,6 +39,7 @@ tags:
 ### Aliases
 - 尝 --> 嘗
 - 枽 --> 枼
+- 拏 --> 拿
 
 ## Datacheck
 ```dataview

@@ -11,6 +11,16 @@ tags: [lookup]
 3. [SKIP-2-14-3](lookup/SKIP/SKIP-2/SKIP-2-14-3.md): 嬰
 4. [SKIP-2-14-4](lookup/SKIP/SKIP-2/SKIP-2-14-4.md): 懲
 5. [SKIP-2-14-5](lookup/SKIP/SKIP-2/SKIP-2-14-5.md): 璽, 㽉
+6. none
+7. none
+8. none
+9. none
+10. none
+11. none
+12. none
+13. none
+14. none
+15. [SKIP-2-14-15](lookup/SKIP/SKIP-2/SKIP-2-14-15.md): ø
 
 ## Base check
 ```base

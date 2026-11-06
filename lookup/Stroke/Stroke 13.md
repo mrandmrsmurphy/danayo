@@ -1,7 +1,7 @@
 ---
 stroke_count: 13
 date-last-perfect: 2026-11-04
-size: 283
+size: 281
 tags:
   - lookup
 ---
@@ -30,7 +30,7 @@ tags:
 - 2-10-3: <ruby>[[塑]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[塗]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[奨]]<rt>ㄐㄚㄫ</rt></ruby>
 - 2-11-2: <ruby>[[勢]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[準]]<rt>ㄐㄨㄋ</rt></ruby>
 - 3-3-10: <ruby>[[園]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[圓 (char)|圓]]<rt>⼔ㄋ</rt></ruby>, <ruby>[[廈]]<rt>ㄏㄚ</rt></ruby>, <ruby>[[廉 (char)|廉]]<rt>ㄌ⼶ㄇ</rt></ruby>, <ruby>[[違]]<rt>ㄨㄧ</rt></ruby>, <ruby>[[遜]]<rt>ㄙㄛㄋ</rt></ruby>, <ruby>[[遠 (char)|遠]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[遡]]<rt>ㄙㄛ</rt></ruby>, <ruby>[[遣 (char)|遣]]<rt>ㄎㄝㄋ</rt></ruby>
-- 3-4-9: <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[虞]]<rt>ㄨ</rt></ruby>, <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[遊]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[過 (char)|過]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby>
+- 3-4-9: <ruby>[[虜]]<rt>ㄌㄛ</rt></ruby>, <ruby>[[虞]]<rt>ㄨ</rt></ruby>, <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby>, <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby>
 - 3-5-8: <ruby>[[痰 (char)|痰]]<rt>ㄉㄚㄇ</rt></ruby>, <ruby>[[痴]]<rt>ㄑㄧ</rt></ruby>, <ruby>[[痺]]<rt>ㄅㄧ</rt></ruby>
 - 3-6-7: <ruby>[[載 (char)|載]]<rt>ㄐㄚㄧ</rt></ruby>
 - 3-8-5: <ruby>[[閙]]<rt>ㄋ⼘ㄨ</rt></ruby>

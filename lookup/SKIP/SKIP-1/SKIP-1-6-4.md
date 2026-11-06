@@ -41,6 +41,9 @@ tags:
 29. <ruby>[紐](characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> "knot"
 30. <ruby>[粄](/characters/粄%20(char).md)<rt>ㄅㄧㄇ</rt></ruby> "rice cake"
 
+### Aliases
+- 㧱 --> 拿
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

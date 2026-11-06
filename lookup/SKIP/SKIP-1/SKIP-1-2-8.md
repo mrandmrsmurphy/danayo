@@ -38,6 +38,7 @@ tags:
 ### Aliases
 - 债 --> 債
 - 谈 --> 談
+- 诞 --> 誕
 
 ## Datacheck
 ```dataview

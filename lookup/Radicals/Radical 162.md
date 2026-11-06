@@ -21,9 +21,9 @@ tags: [lookup]
 ### +4 Strokes
 5. <ruby>[近](../../characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby> - near
 6. <ruby>[返](../../characters/返.md)<rt>ㄈㄛㄋ</rt></ruby> - return
+7. <ruby>[迎](../../characters/迎.md)<rt>⼶ㄫ</rt></ruby> - welcome
 
 ### +5 Strokes
-7. <ruby>[迎](../../characters/迎.md)<rt>⼶ㄫ</rt></ruby> - welcome
 8. <ruby>[迪](../../characters/迪.md)<rt>ㄉㄝㄎ</rt></ruby> - follow
 9. <ruby>[迫](../../characters/迫.md)<rt>ㄅㄚㄎ</rt></ruby> - force
 10. <ruby>[迭](../../characters/迭.md)<rt>ㄉㄚㄊ</rt></ruby> - alternate
@@ -36,9 +36,9 @@ tags: [lookup]
 15. <ruby>[送](../../characters/送%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - give
 16. <ruby>[逃](../../characters/逃.md)<rt>ㄉㄚㄨ</rt></ruby> - escape
 17. <ruby>[逆](../../characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> - rebellion
+18. <ruby>[迷](../../characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - be lost
 
 ### +7 Strokes
-18. <ruby>[迷](../../characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - be lost
 19. <ruby>[透](../../characters/透%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - transparent
 20. <ruby>[逐](../../characters/逐.md)<rt>ㄉㄨㄎ</rt></ruby> - pursue
 21. <ruby>[逓](../../characters/逓.md)<rt>ㄊㄝㄧ</rt></ruby> - hand over
@@ -49,13 +49,13 @@ tags: [lookup]
 26. <ruby>[造](../../characters/造.md)<rt>ㄑㄚㄨ</rt></ruby> - create
 27. <ruby>[連](../../characters/連%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> - mutual
 28. <ruby>[逗](../../characters/逗.md)<rt>ㄉㄚㄨ</rt></ruby> - pause
+29. <ruby>[逢](../../characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> - meet
+30. <ruby>[速](../../characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> - quick
 
 ### +8 Strokes
-29. <ruby>[逍](../../characters/逍.md)<rt>ㄙ⼄ㄨ</rt></ruby> - ramble
-30. <ruby>[逑](../../characters/逑.md)<rt>ㄍ⼜</rt></ruby> - mate
-31. <ruby>[逞](../../characters/逞%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> - indulge
-32. <ruby>[速](../../characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> - quick
-33. <ruby>[逢](../../characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> - meet
+31. <ruby>[逍](../../characters/逍.md)<rt>ㄙ⼄ㄨ</rt></ruby> - ramble
+32. <ruby>[逑](../../characters/逑.md)<rt>ㄍ⼜</rt></ruby> - mate
+33. <ruby>[逞](../../characters/逞%20(char).md)<rt>ㄑㄧㄫ</rt></ruby> - indulge
 34. <ruby>[逮](../../characters/逮.md)<rt>ㄉㄚㄧ</rt></ruby> - apprehend
 35. <ruby>[週](../../characters/週.md)<rt>ㄐㄨㄛ</rt></ruby> - week
 36. <ruby>[進](../../characters/進.md)<rt>ㄐㄧㄋ</rt></ruby> - advance
@@ -72,11 +72,11 @@ tags: [lookup]
 45. <ruby>[道](../../characters/道%20(char).md)<rt>ㄉㄚㄨ</rt></ruby> - way
 46. <ruby>[達](../../characters/達%20(char).md)<rt>ㄊㄚㄊ</rt></ruby> - attain
 47. <ruby>[遥](../../characters/遥.md)<rt>⼄ㄨ</rt></ruby> - far away
+48. <ruby>[遊](../../characters/遊.md)<rt>⼜ㄛ</rt></ruby> - play
+49. <ruby>[過](../../characters/過%20(char).md)<rt>ㄍ⺢</rt></ruby> - than
 
 ### +10 Strokes
-48. <ruby>[逾](../../characters/逾.md)<rt>⼜ㄇ</rt></ruby> - transcend
-49. <ruby>[遊](../../characters/遊.md)<rt>⼜ㄛ</rt></ruby> - play
-50. <ruby>[過](../../characters/過%20(char).md)<rt>ㄍ⺢</rt></ruby> - than
+50. <ruby>[逾](../../characters/逾.md)<rt>⼜ㄇ</rt></ruby> - transcend
 51. <ruby>[遒](../../characters/遒.md)<rt>ㄑㄨㄛ</rt></ruby> - strong
 52. <ruby>[違](../../characters/違.md)<rt>ㄨㄧ</rt></ruby> - violate
 53. <ruby>[遜](../../characters/遜.md)<rt>ㄙㄛㄋ</rt></ruby> - humble
@@ -87,9 +87,9 @@ tags: [lookup]
 ### +11 Strokes
 57. <ruby>[遭](../../characters/遭.md)<rt>ㄐㄚㄨ</rt></ruby> - encounter
 58. <ruby>[遮](../../characters/遮.md)<rt>ㄐㄚ</rt></ruby> - cover
+59. <ruby>[適](../../characters/適.md)<rt>ㄙㄝㄎ</rt></ruby> - suitable
 
 ### +12 Strokes
-59. <ruby>[適](../../characters/適.md)<rt>ㄙㄝㄎ</rt></ruby> - suitable
 60. <ruby>[遵](../../characters/遵.md)<rt>ㄐㄨㄋ</rt></ruby> - abide by
 61. <ruby>[遷](../../characters/遷.md)<rt>ㄑㄝㄋ</rt></ruby> - shift
 62. <ruby>[選](../../characters/選.md)<rt>ㄙ⼔ㄋ</rt></ruby> - choose

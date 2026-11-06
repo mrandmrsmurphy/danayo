@@ -1,7 +1,7 @@
 ---
 stroke_count: 12
 date-last-perfect: 2026-10-31
-size: 17
+size: 19
 skip_number: 3-3-9
 tags: [lookup]
 
@@ -27,6 +27,8 @@ tags: [lookup]
 15. <ruby>[道](characters/道%20(char).md)<rt>ㄉㄚㄨ</rt></ruby> "way"
 16. <ruby>[達](characters/達%20(char).md)<rt>ㄊㄚㄊ</rt></ruby> "attain; achieve"
 17. <ruby>[遥](/characters/遥.md)<rt>⼄ㄨ</rt></ruby> "far away; distant"
+18. <ruby>[遊](/characters/遊.md)<rt>⼜ㄛ</rt></ruby> "play; roam; travel"
+19. <ruby>[過](characters/過%20(char).md)<rt>ㄍ⺢</rt></ruby> "than; too"
 
 ## Datacheck
 ```dataview

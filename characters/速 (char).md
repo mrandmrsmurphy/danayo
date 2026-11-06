@@ -11,9 +11,9 @@ vietnamese:
   - rốc
 middle_chinese_initial: s
 middle_chinese_final: uk
-stroke_count: 11
+stroke_count: 10
 radical: 辵
-skip_number: 3-4-7
+skip_number: 3-3-7
 grade_level: "2"
 pos: 性詞
 english:
@@ -44,7 +44,7 @@ boundedness: 80
 
 ## Notes
 - 形声 (OC \*sloːɡ): semantic [[Radical 162|辵]] ("motion") + phonetic [[束 (char)|束]] (OC \*hljoɡ) — fast, rapid motion.
-- [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
+- [SKIP-3-3-7](../lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1363rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄙㄛㄎ](../syllables/ㄙㄛㄎ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 

@@ -1,7 +1,7 @@
 ---
 stroke_count: 10
 date-last-perfect: 2026-10-31
-size: 2
+size: 1
 skip_number: 3-4-6
 tags: [lookup]
 
@@ -11,7 +11,6 @@ tags: [lookup]
 
 ## Characters
 1. <ruby>[翅](/characters/翅.md)<rt>ㄙㄧ</rt></ruby> - shark fin
-2. <ruby>[迷](/characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - confused
 
 ## Datacheck
 ```dataview

@@ -15,6 +15,9 @@ tags: [lookup]
 ### +11 Strokes
 2. <ruby>[馨](../../characters/馨.md)<rt>ㄏㄝㄫ</rt></ruby> - fragrant
 
+### Aliases
+- 馫 --> 馨
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

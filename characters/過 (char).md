@@ -14,9 +14,9 @@ vietnamese:
   - quở
 middle_chinese_initial: k
 middle_chinese_final: "uɑ"
-stroke_count: 13
+stroke_count: 12
 radical: "辵"
-skip_number: 3-4-9
+skip_number: 3-3-9
 grade_level: "2"
 pos: 修飾語
 english:
@@ -49,7 +49,7 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*kloːl, \*kloːls): semantic [[Radical 162|辵]] ("walk") + phonetic [[咼]] (OC \*kʰʷroːl) — to pass, cross through.
-- [SKIP-3-4-9](../lookup/SKIP/SKIP-3/SKIP-3-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
+- [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 194th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄍ⺢](../syllables/ㄍ⺢.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 

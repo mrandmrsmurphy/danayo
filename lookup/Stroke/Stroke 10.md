@@ -1,7 +1,7 @@
 ---
 stroke_count: 10
 date-last-perfect: 2026-11-03
-size: 325
+size: 326
 tags:
   - lookup
 ---
@@ -25,8 +25,8 @@ tags:
 - 2-7-3: <ruby>[[唇 (char)|唇]]<rt>ㄙㄨㄋ</rt></ruby>, <ruby>[[哲]]<rt>ㄐㄝㄊ</rt></ruby>, <ruby>[[辱]]<rt>ㄋㄛㄎ</rt></ruby>, <ruby>[[差]]<rt>ㄑㄚ</rt></ruby>, <ruby>[[尃]]<rt>ㄈㄛ</rt></ruby>
 - 2-8-2: <ruby>[[隼 (char)|隼]]<rt>ㄙ⼜ㄫ</rt></ruby>
 - 3-2-8: <ruby>[[原]]<rt>⼔ㄋ</rt></ruby>, <ruby>[[匿]]<rt>ㄋㄧㄎ</rt></ruby>
-- 3-3-7: <ruby>[[逐]]<rt>ㄉㄨㄎ</rt></ruby>, <ruby>[[途]]<rt>ㄊㄛ</rt></ruby>, <ruby>[[庭]]<rt>ㄉㄝㄫ</rt></ruby>, <ruby>[[透 (char)|透]]<rt>ㄊㄛㄨ</rt></ruby>, <ruby>[[通 (char)|通]]<rt>ㄊㄛㄫ</rt></ruby>, <ruby>[[造]]<rt>ㄑㄚㄨ</rt></ruby>, <ruby>[[這]]<rt>⼶ㄋ</rt></ruby>, <ruby>[[圃]]<rt>ㄅㄛ</rt></ruby>, <ruby>[[連 (char)|連]]<rt>ㄌ⼶ㄋ</rt></ruby>, <ruby>[[逝]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[唐]]<rt>ㄉ⺢ㄫ</rt></ruby>, <ruby>[[屑 (char)|屑]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[展]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[席]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[庫]]<rt>ㄎㄛ</rt></ruby>, <ruby>[[逓]]<rt>ㄊㄝㄧ</rt></ruby>, <ruby>[[逗]]<rt>ㄉㄚㄨ</rt></ruby>
-- 3-4-6: <ruby>[[迷 (char)|迷]]<rt>ㄇㄝㄧ</rt></ruby>, <ruby>[[翅]]<rt>ㄙㄧ</rt></ruby>
+- 3-3-7: <ruby>[[逐]]<rt>ㄉㄨㄎ</rt></ruby>, <ruby>[[途]]<rt>ㄊㄛ</rt></ruby>, <ruby>[[庭]]<rt>ㄉㄝㄫ</rt></ruby>, <ruby>[[透 (char)|透]]<rt>ㄊㄛㄨ</rt></ruby>, <ruby>[[通 (char)|通]]<rt>ㄊㄛㄫ</rt></ruby>, <ruby>[[造]]<rt>ㄑㄚㄨ</rt></ruby>, <ruby>[[這]]<rt>⼶ㄋ</rt></ruby>, <ruby>[[圃]]<rt>ㄅㄛ</rt></ruby>, <ruby>[[連 (char)|連]]<rt>ㄌ⼶ㄋ</rt></ruby>, <ruby>[[逝]]<rt>ㄙㄝ</rt></ruby>, <ruby>[[唐]]<rt>ㄉ⺢ㄫ</rt></ruby>, <ruby>[[屑 (char)|屑]]<rt>ㄙㄝㄊ</rt></ruby>, <ruby>[[展]]<rt>ㄐㄝㄋ</rt></ruby>, <ruby>[[席]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[庫]]<rt>ㄎㄛ</rt></ruby>, <ruby>[[逓]]<rt>ㄊㄝㄧ</rt></ruby>, <ruby>[[逗]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby>, <ruby>[[速 (char)|速]]<rt>ㄙㄛㄎ</rt></ruby>
+- 3-4-6: <ruby>[[翅]]<rt>ㄙㄧ</rt></ruby>
 - 3-5-5: <ruby>[[疾]]<rt>ㄐㄧㄊ</rt></ruby>, <ruby>[[症]]<rt>ㄐㄧㄫ</rt></ruby>, <ruby>[[疱]]<rt>ㄆㄚㄨ</rt></ruby>, <ruby>[[病]]<rt>ㄅ⼶ㄫ</rt></ruby>, <ruby>[[疲]]<rt>ㄆㄧ</rt></ruby>, <ruby>[[疽]]<rt>ㄐㄜ</rt></ruby>
 - 3-6-4: <ruby>[[栽]]<rt>ㄐㄚㄧ</rt></ruby>, <ruby>[[馬 (char)|馬]]<rt>ㄇㄚ</rt></ruby>, <ruby>[[烏]]<rt>ㄛ</rt></ruby>
 - 3-7-3: <ruby>[[島 (char)|島]]<rt>ㄊㄚㄨ</rt></ruby>, <ruby>[[起 (char)|起]]<rt>ㄎㄧ</rt></ruby>, <ruby>[[赳]]<rt>ㄍ⼜</rt></ruby>
@@ -44,6 +44,9 @@ tags:
 - 珪 --> 硅
 - 𫛡 --> 鴔
 - 谈 --> 談
+- 挐 --> 拿
+- 㧱 --> 拿
+- 诞 --> 誕
 
 ## Data check
 ```dataview

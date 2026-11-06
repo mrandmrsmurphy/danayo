@@ -48,7 +48,7 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 硅 | 矽 | 1-5-3 | 石 5 + 夕 3; no source lists it |
 | 練 | 练 | 1-3-5 | simplified; 纟 3 + 右半 5 |
 | 詔 | 诏 | 1-2-5 | simplified; 讠 2 + 召 5 |
-| 誕 | 诞 | 1-2-6 | simplified; 讠 2 + 延 6 (Chinese stroke count of 延; the Japanese count would give 1-2-8) |
+| 誕 | 诞 | 1-2-8 | simplified; 讠 2 + 延 8 (Japanese stroke count, as the user ruled) |
 | 賛 | 赞 | 2-12-4 | simplified; 兟 12 over 贝 4 |
 | 閙 | 闹 | 3-3-5 | simplified; 门 3 around 市 5 |
 | 雛 | 雏 | 1-5-8 | simplified; 刍 5 + 隹 8 |
@@ -61,5 +61,8 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 畢 | 毕 | 2-4-2 | simplified; 比 4 over 十 2 |
 | 討 | 讨 | 1-2-3 | simplified; 讠 2 + 寸 3 |
 | 談 | 谈 | 1-2-8 | simplified; 讠 2 + 炎 8 |
+| 拿 | 㧱 | 1-6-4 | ⿰合手; no source lists it |
+| 欝 | 鬰 | 2-12-15 | by analogy to 鬱 (EDRDG 2-14-15); no source lists 鬰 |
+| 馨 | 馫 | 2-9-18 | 香 9 over 18; no source lists it |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.

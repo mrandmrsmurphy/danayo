@@ -1,7 +1,7 @@
 ---
 stroke_count: 12
 date-last-perfect: 2026-11-04
-size: 344
+size: 346
 tags: [lookup]
 ---
 > [[Stroke]]
@@ -29,7 +29,7 @@ tags: [lookup]
 - 2-9-3: <ruby>[[堅]]<rt>ㄍㄝㄋ</rt></ruby>, <ruby>[[奥 (char)|奥]]<rt>ㄨㄎ</rt></ruby>, <ruby>[[喪]]<rt>ㄙㄚㄫ</rt></ruby>, <ruby>[[幇]]<rt>ㄅㄚㄫ</rt></ruby>, <ruby>[[堡]]<rt>ㄅㄚㄨ</rt></ruby>, <ruby>[[尞 (char)|尞]]<rt>ㄌ⼘</rt></ruby>
 - 2-10-2: <ruby>[[粤]]<rt>⼔ㄊ</rt></ruby>
 - 3-2-10: <ruby>[[厩]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[厨]]<rt>ㄑㄨㄛ</rt></ruby>, <ruby>[[雁 (char)|雁]]<rt>ㄚㄋ</rt></ruby>, <ruby>[[厥]]<rt>ㄎㄨㄊ</rt></ruby>
-- 3-3-9: <ruby>[[遍 (char)|遍]]<rt>ㄅㄝㄋ</rt></ruby>, <ruby>[[廃]]<rt>ㄈㄝ</rt></ruby>, <ruby>[[遂]]<rt>ㄙㄨㄧ</rt></ruby>, <ruby>[[道 (char)|道]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[達 (char)|達]]<rt>ㄊㄚㄊ</rt></ruby>, <ruby>[[庾]]<rt>⼜</rt></ruby>, <ruby>[[遇 (char)|遇]]<rt>ㄨ</rt></ruby>, <ruby>[[廊]]<rt>ㄌㄚㄫ</rt></ruby>, <ruby>[[運]]<rt>ㄨㄋ</rt></ruby>, <ruby>[[圏 (char)|圏]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[貳 (char)|貳]]<rt>ㄋㄧㄜ</rt></ruby>, <ruby>[[属]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby>, <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby>, <ruby>[[犀]]<rt>ㄙㄝㄧ</rt></ruby>, <ruby>[[遥]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[遅 (char)|遅]]<rt>ㄑㄧㄜ</rt></ruby>
+- 3-3-9: <ruby>[[遍 (char)|遍]]<rt>ㄅㄝㄋ</rt></ruby>, <ruby>[[廃]]<rt>ㄈㄝ</rt></ruby>, <ruby>[[遂]]<rt>ㄙㄨㄧ</rt></ruby>, <ruby>[[道 (char)|道]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[達 (char)|達]]<rt>ㄊㄚㄊ</rt></ruby>, <ruby>[[庾]]<rt>⼜</rt></ruby>, <ruby>[[遇 (char)|遇]]<rt>ㄨ</rt></ruby>, <ruby>[[廊]]<rt>ㄌㄚㄫ</rt></ruby>, <ruby>[[運]]<rt>ㄨㄋ</rt></ruby>, <ruby>[[圏 (char)|圏]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[貳 (char)|貳]]<rt>ㄋㄧㄜ</rt></ruby>, <ruby>[[属]]<rt>ㄐㄛㄎ</rt></ruby>, <ruby>[[逼]]<rt>ㄅㄧㄎ</rt></ruby>, <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby>, <ruby>[[犀]]<rt>ㄙㄝㄧ</rt></ruby>, <ruby>[[遥]]<rt>⼄ㄨ</rt></ruby>, <ruby>[[遅 (char)|遅]]<rt>ㄑㄧㄜ</rt></ruby>, <ruby>[[遊]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[過 (char)|過]]<rt>ㄍ⺢</rt></ruby>
 - 3-4-8: <ruby>[[量]]<rt>ㄌ⼘ㄫ</rt></ruby>
 - 3-5-7: <ruby>[[痩 (char)|痩]]<rt>ㄙ⼜</rt></ruby>, <ruby>[[痢]]<rt>ㄌㄧㄜ</rt></ruby>, <ruby>[[痛]]<rt>ㄊㄛㄫ</rt></ruby>, <ruby>[[痘]]<rt>ㄉㄛㄨ</rt></ruby>
 - 3-6-6: <ruby>[[裁]]<rt>ㄑㄚㄧ</rt></ruby>

@@ -20,6 +20,12 @@ Top component has 9 strokes. Dominant components: 心, 臣, 大.
 10. none
 11. none
 12. [SKIP-2-9-12](lookup/SKIP/SKIP-2/SKIP-2-9-12.md): 蠢
+13. none
+14. none
+15. none
+16. none
+17. none
+18. [SKIP-2-9-18](lookup/SKIP/SKIP-2/SKIP-2-9-18.md): ø
 
 ## Base check
 ```base

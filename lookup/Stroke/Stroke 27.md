@@ -12,6 +12,8 @@ tags: [lookup]
 
 ### Aliases
 - 鱸 --> 盧
+- 鬰 --> 欝
+- 馫 --> 馨
 
 ## Data check
 ```dataview

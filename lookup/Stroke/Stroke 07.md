@@ -1,7 +1,7 @@
 ---
 stroke_count: 7
 date-last-perfect: 2026-11-03
-size: 234
+size: 235
 tags:
   - lookup
 ---
@@ -20,7 +20,7 @@ tags:
 - 2-4-3: <ruby>[[弄 (char)|弄]]<rt>ㄌㄛㄫ</rt></ruby>, <ruby>[[肖]]<rt>ㄙ⼄ㄨ</rt></ruby>, <ruby>[[旱]]<rt>ㄏㄚㄋ</rt></ruby>, <ruby>[[告]]<rt>ㄍㄚㄨ</rt></ruby>, <ruby>[[㐬]]<rt>ㄌ⼜ㄛ</rt></ruby>, <ruby>[[李]]<rt>ㄌㄧ</rt></ruby>, <ruby>[[杏]]<rt>ㄏㄚㄫ</rt></ruby>, <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby>, <ruby>[[妥]]<rt>ㄊㄚ</rt></ruby>, <ruby>[[孚]]<rt>ㄈㄨ</rt></ruby>, <ruby>[[巠]]<rt>ㄍㄝㄫ</rt></ruby>, <ruby>[[忠]]<rt>ㄊㄨㄫ</rt></ruby>, <ruby>[[呑]]<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[[吾]]<rt>ㄚ</rt></ruby>, <ruby>[[否 (char)|否]]<rt>ㄈㄚㄨ</rt></ruby>
 - 2-5-2: <ruby>[[秀 (char)|秀]]<rt>ㄙㄨㄛ</rt></ruby>, <ruby>[[貝]]<rt>ㄅㄚㄧ</rt></ruby>, <ruby>[[禿 (char)|禿]]<rt>ㄊㄛㄎ</rt></ruby>, <ruby>[[労]]<rt>ㄌㄚㄨ</rt></ruby>, <ruby>[[男]]<rt>ㄋㄚㄇ</rt></ruby>, <ruby>[[努]]<rt>ㄋㄛ</rt></ruby>, <ruby>[[兵]]<rt>ㄅ⼶ㄫ</rt></ruby>, <ruby>[[皀]]<rt>ㄆㄨㄆ</rt></ruby>, <ruby>[[見 (char)|見]]<rt>ㄍ⼶ㄋ</rt></ruby>, <ruby>[[呉]]<rt>ㄛ</rt></ruby>, <ruby>[[児 (char)|児]]<rt>ㄝㄧ</rt></ruby>
 - 3-2-5: <ruby>[[医]]<rt>ㄜ</rt></ruby>, <ruby>[[辰]]<rt>ㄙㄧㄋ</rt></ruby>
-- 3-3-4: <ruby>[[囧]]<rt>ㄍ⼄ㄫ</rt></ruby>, <ruby>[[尿 (char)|尿]]<rt>ㄋ⼘ㄨ</rt></ruby>, <ruby>[[局 (char)|局]]<rt>ㄍ⼄ㄎ</rt></ruby>, <ruby>[[尾 (char)|尾]]<rt>ㄇㄨㄧ</rt></ruby>, <ruby>[[庇]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[屁 (char)|屁]]<rt>ㄆㄧㄜ</rt></ruby>, <ruby>[[近 (char)|近]]<rt>ㄍㄧㄋ</rt></ruby>, <ruby>[[困]]<rt>ㄎㄛㄋ</rt></ruby>, <ruby>[[図]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[廷]]<rt>ㄉㄝㄫ</rt></ruby>, <ruby>[[囲]]<rt>ㄨㄧ</rt></ruby>, <ruby>[[返]]<rt>ㄈㄛㄋ</rt></ruby>, <ruby>[[応 (char)|応]]<rt>ㄧㄫ</rt></ruby>, <ruby>[[臣]]<rt>ㄙㄧㄋ</rt></ruby>, <ruby>[[序]]<rt>ㄙ⼄</rt></ruby>, <ruby>[[床 (char)|床]]<rt>ㄙ⼘ㄇ</rt></ruby>
+- 3-3-4: <ruby>[[囧]]<rt>ㄍ⼄ㄫ</rt></ruby>, <ruby>[[尿 (char)|尿]]<rt>ㄋ⼘ㄨ</rt></ruby>, <ruby>[[局 (char)|局]]<rt>ㄍ⼄ㄎ</rt></ruby>, <ruby>[[尾 (char)|尾]]<rt>ㄇㄨㄧ</rt></ruby>, <ruby>[[庇]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[屁 (char)|屁]]<rt>ㄆㄧㄜ</rt></ruby>, <ruby>[[近 (char)|近]]<rt>ㄍㄧㄋ</rt></ruby>, <ruby>[[困]]<rt>ㄎㄛㄋ</rt></ruby>, <ruby>[[図]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[廷]]<rt>ㄉㄝㄫ</rt></ruby>, <ruby>[[囲]]<rt>ㄨㄧ</rt></ruby>, <ruby>[[返]]<rt>ㄈㄛㄋ</rt></ruby>, <ruby>[[応 (char)|応]]<rt>ㄧㄫ</rt></ruby>, <ruby>[[臣]]<rt>ㄙㄧㄋ</rt></ruby>, <ruby>[[序]]<rt>ㄙ⼄</rt></ruby>, <ruby>[[床 (char)|床]]<rt>ㄙ⼘ㄇ</rt></ruby>, <ruby>[[迎]]<rt>⼶ㄫ</rt></ruby>
 - 3-4-3: <ruby>[[孝 (char)|孝]]<rt>ㄏ⼘ㄨ</rt></ruby>, <ruby>[[戒]]<rt>ㄍ⼶</rt></ruby>, <ruby>[[君 (char)|君]]<rt>ㄍㄨㄋ</rt></ruby>
 - 4-7-1: <ruby>[[豕]]<rt>ㄊㄧㄎ</rt></ruby>, <ruby>[[更 (char)|更]]<rt>ㄍㄚㄫ</rt></ruby>, <ruby>[[里 (char)|里]]<rt>ㄌㄧ</rt></ruby>, <ruby>[[酉]]<rt>⼜</rt></ruby>, <ruby>[[亜]]<rt>ㄚ</rt></ruby>, <ruby>[[巫]]<rt>ㄇㄨ</rt></ruby>
 - 4-7-2: <ruby>[[坐 (char)|坐]]<rt>ㄐ⺢</rt></ruby>

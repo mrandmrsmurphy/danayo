@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 57
+size: 58
 tags: [lookup]
 
 ---
@@ -12,7 +12,7 @@ Top component has 8 strokes. Dominant components: 雨, 婁, 隹.
 2. [SKIP-2-8-2](lookup/SKIP/SKIP-2/SKIP-2-8-2.md): 隼 (char)
 3. [SKIP-2-8-3](lookup/SKIP/SKIP-2/SKIP-2-8-3.md): 啓, 堂, 堕, 娶, 婁, 婆, 彗, 雪 (char)
 4. [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md): 悲, 惑, 斐, 智, 替, 渠, 焚, 焦, 然, 煮, 犂, 琴, 琵, 琶, 集, 雰, 雲
-5. [SKIP-2-8-5](lookup/SKIP/SKIP-2/SKIP-2-8-5.md): 楚, 督, 季, 禁, 雷, 零, 瑟
+5. [SKIP-2-8-5](lookup/SKIP/SKIP-2/SKIP-2-8-5.md): 楚, 督, 季, 禁, 雷, 零, 瑟, 雴
 6. [SKIP-2-8-6](lookup/SKIP/SKIP-2/SKIP-2-8-6.md): 聚, 肇, 裴, 製, 需
 7. [SKIP-2-8-7](lookup/SKIP/SKIP-2/SKIP-2-8-7.md): 黎, 賛, 質, 震, 輩 (char), 霊, 慧 (char), 霅
 8. [SKIP-2-8-8](lookup/SKIP/SKIP-2/SKIP-2-8-8.md): 錮, 霍, 霓

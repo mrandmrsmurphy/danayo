@@ -1,7 +1,7 @@
 ---
 stroke_count: 11
 date-last-perfect: 2026-11-04
-size: 331
+size: 329
 tags:
   - lookup
 ---
@@ -27,7 +27,7 @@ tags:
 - 2-9-2: <ruby>[[兜 (char)|兜]]<rt>ㄉㄨ</rt></ruby>
 - 3-2-9: <ruby>[[凰]]<rt>ㄏ⺢ㄫ</rt></ruby>, <ruby>[[厠]]<rt>ㄑㄧ</rt></ruby>
 - 3-3-8: <ruby>[[週]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[庵]]<rt>ㄚㄇ</rt></ruby>, <ruby>[[屠]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[庸 (char)|庸]]<rt>⼄ㄫ</rt></ruby>, <ruby>[[逸 (char)|逸]]<rt>ㄧㄊ</rt></ruby>, <ruby>[[鹿 (char)|鹿]]<rt>ㄌㄛㄎ</rt></ruby>, <ruby>[[麻]]<rt>ㄇㄚ</rt></ruby>, <ruby>[[庶]]<rt>ㄙ⼄</rt></ruby>, <ruby>[[進]]<rt>ㄐㄧㄋ</rt></ruby>, <ruby>[[逮]]<rt>ㄉㄚㄧ</rt></ruby>, <ruby>[[康]]<rt>ㄎㄚㄫ</rt></ruby>
-- 3-4-7: <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby>, <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[圄]]<rt>⼄</rt></ruby>, <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby>, <ruby>[[逞 (char)|逞]]<rt>ㄑㄧㄫ</rt></ruby>, <ruby>[[虚 (char)|虚]]<rt>ㄏ⼄</rt></ruby>, <ruby>[[速 (char)|速]]<rt>ㄙㄛㄎ</rt></ruby>, <ruby>[[扈]]<rt>ㄏㄛ</rt></ruby>
+- 3-4-7: <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby>, <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby>, <ruby>[[圄]]<rt>⼄</rt></ruby>, <ruby>[[逞 (char)|逞]]<rt>ㄑㄧㄫ</rt></ruby>, <ruby>[[虚 (char)|虚]]<rt>ㄏ⼄</rt></ruby>, <ruby>[[扈]]<rt>ㄏㄛ</rt></ruby>
 - 3-5-6: <ruby>[[痕]]<rt>ㄏㄜㄋ</rt></ruby>
 - 3-6-5: <ruby>[[産]]<rt>ㄙㄚㄋ</rt></ruby>
 - 3-7-4: <ruby>[[鳥 (char)|鳥]]<rt>ㄑㄛㄨ</rt></ruby>

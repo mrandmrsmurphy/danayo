@@ -2,7 +2,7 @@
 stroke_count: 10
 date-last-perfect: 2026-10-31
 skip_number: 3-3-7
-size: 17
+size: 19
 tags: [lookup]
 
 ---
@@ -27,6 +27,8 @@ tags: [lookup]
 15. <ruby>[造](/characters/造.md)<rt>ㄑㄚㄨ</rt></ruby> "create"
 16. <ruby>[連](characters/連%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> "mutual"
 17. <ruby>[逗](/characters/逗.md)<rt>ㄉㄚㄨ</rt></ruby> "pause"
+18. <ruby>[逢](/characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> "meet; flatter"
+19. <ruby>[速](characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> "quick; fast"
 
 ## Datacheck
 ```dataview

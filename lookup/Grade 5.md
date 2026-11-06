@@ -1,7 +1,7 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-11-04
 size: 367
+date-last-perfect: 2026-11-04
 tags: [lookup]
 ---
 **<ruby>第五<rt>ㄉㄝㄧㄛ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>三<rt>ㄙㄚㄇ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>七<rt>ㄑㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.

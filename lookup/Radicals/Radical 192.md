@@ -11,6 +11,10 @@ tags: [lookup]
 ### Note
 No characters are currently filed under this radical.
 
+### Aliases
+- 鬱 --> 欝
+- 鬰 --> 欝
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

@@ -1,13 +1,13 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-10-29
 size: 569
+date-last-perfect: 2026-10-29
 tags: [lookup]
 ---
 **<ruby>先進<rt>ㄙㄝㄋㄐㄧㄋ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六十<rt>ㄌㄨㄎㄙㄧㄆ</rt></ruby><ruby>九<rt>ㄎ⼜</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
 
 <ruby>種類<rt>ㄐㄛㄫㄌㄨㄧ</rt></ruby>:
-- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
+- <ruby>形声<rt>ㄏㄝㄫㄙㄧㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>零<rt>ㄌㄝㄫ</rt></ruby><ruby>六<rt>ㄌㄨㄎ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>象形<rt>ㄙ⼘ㄫㄏㄝㄫ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>十八<rt>ㄙㄧㄆㄅㄚㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>会意<rt>ㄏ⼔ㄜ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四十<rt>ㄙㄧㄜㄙㄧㄆ</rt></ruby><ruby>一<rt>ㄧㄊ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
 - <ruby>指事<rt>ㄐㄧㄜㄐㄧ</rt></ruby><ruby>字<rt>ㄐㄧ</rt></ruby><ruby>四<rt>ㄙㄧㄜ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>
@@ -269,8 +269,8 @@ tags: [lookup]
 255. <ruby>[[槍 (char)|槍]]<rt>ㄑ⺢ㄫ</rt></ruby> - spear, lance
 256. <ruby>[[榜]]<rt>ㄆㄚㄫ</rt></ruby> - posted list, notice board
 257. <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby> - comb
-258. <ruby>[[櫃 (char)|櫃]]<rt>ㄍ⼔</rt></ruby> - cabinet
-259. <ruby>[[檻 (char)|檻]]<rt>ㄏ⼘ㄇ</rt></ruby> - cage
+258. <ruby>[[櫃 (char)|櫃]]<rt>ㄍ⼔</rt></ruby> - cabinet, cupboard, chest
+259. <ruby>[[檻 (char)|檻]]<rt>ㄏ⼘ㄇ</rt></ruby> - cage, fence, railing
 260. <ruby>[[欣]]<rt>ㄏㄧㄋ</rt></ruby> - happy, joyous, delighted
 261. <ruby>[[欽]]<rt>ㄎㄨㄇ</rt></ruby> - respect, admire
 262. <ruby>[[歇]]<rt>ㄏㄝㄊ</rt></ruby> - intermit, stop in the middle
@@ -457,7 +457,7 @@ tags: [lookup]
 443. <ruby>[[蟄 (char)|蟄]]<rt>ㄑㄧㄆ</rt></ruby> - hibernate
 444. <ruby>[[蠢]]<rt>ㄑㄨㄋ</rt></ruby> - squirm, wiggle
 445. <ruby>[[袂 (char)|袂]]<rt>ㄇㄝ</rt></ruby> - sleeve
-446. <ruby>[[袍 (char)|袍]]<rt>ㄆ⼘ㄨ</rt></ruby> - robe
+446. <ruby>[[袍 (char)|袍]]<rt>ㄆ⼘ㄨ</rt></ruby> - robe, long gown
 447. <ruby>[[袴 (char)|袴]]<rt>ㄎㄛ</rt></ruby> - pants, trousers
 448. <ruby>[[裙 (char)|裙]]<rt>ㄍ⼜ㄫ</rt></ruby> - skirt
 449. <ruby>[[裔]]<rt>⼶</rt></ruby> - descendant

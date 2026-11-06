@@ -92,6 +92,7 @@ tags:
 - 驶 --> 使
 - 练 --> 練
 - 拔 --> 抜
+- 拋 --> 抛
 
 ## Datacheck
 ```dataview

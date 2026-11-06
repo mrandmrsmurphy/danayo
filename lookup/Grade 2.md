@@ -1,6 +1,5 @@
 ---
 language: 単亜語
-date-last-perfect: 2026-11-04
 size: 280
 tags: [lookup]
 ---
@@ -287,9 +286,9 @@ Each entry shows at most its first three English meanings; the character page li
 271. <ruby>[[題]]<rt>ㄊㄝㄧ</rt></ruby> - topic, title
 272. <ruby>[[願]]<rt>⼔ㄋ</rt></ruby> - request
 273. <ruby>[[飛 (char)|飛]]<rt>ㄈㄝㄧ</rt></ruby> - fly
-274. <ruby>[[首]]<rt>ㄙ⼜</rt></ruby> - head, prime
-275. <ruby>[[飯]]<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked), food
-276. <ruby>[[養]]<rt>⼘ㄫ</rt></ruby> - foster, raise
+274. <ruby>[[飯]]<rt>ㄅㄛㄋ</rt></ruby> - rice (cooked), food
+275. <ruby>[[養]]<rt>⼘ㄫ</rt></ruby> - foster, raise
+276. <ruby>[[首]]<rt>ㄙ⼜</rt></ruby> - head, prime
 277. <ruby>[[鳥 (char)|鳥]]<rt>ㄑㄛㄨ</rt></ruby> - bird
 278. <ruby>[[鳴 (char)|鳴]]<rt>ㄇ⼶ㄫ</rt></ruby> - cry, chirp
 279. <ruby>[[麦]]<rt>ㄇㄚㄎ</rt></ruby> - wheat, barley, oats

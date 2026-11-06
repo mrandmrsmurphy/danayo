@@ -1,6 +1,6 @@
 ---
 stroke_count: 9
-size: 11
+size: 12
 date-last-perfect: 2026-10-31
 skip_number: 3-3-6
 tags: [lookup]
@@ -21,6 +21,7 @@ tags: [lookup]
 9. <ruby>[送](characters/送%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> "give"
 10. <ruby>[逃](/characters/逃.md)<rt>ㄉㄚㄨ</rt></ruby> "escape; avoid"
 11. <ruby>[逆](characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> "rebellion; betrayal; traitor"
+12. <ruby>[迷](/characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - confused
 
 ## Datacheck
 ```dataview

@@ -36,11 +36,11 @@ tags: [lookup]
 15. <ruby>[折](../../characters/折.md)<rt>ㄐㄝㄊ</rt></ruby> - fold
 16. <ruby>[抜](../../characters/抜%20(char).md)<rt>ㄆㄚㄊ</rt></ruby> - select
 17. <ruby>[択](../../characters/択.md)<rt>ㄉㄚㄎ</rt></ruby> - choose
+18. <ruby>[抛](../../characters/抛.md)<rt>ㄆㄚㄨ</rt></ruby> - throw away
 
 ### +4 Strokes
-18. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward
-19. <ruby>[承](../../characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
-20. <ruby>[抛](../../characters/抛.md)<rt>ㄆㄚㄨ</rt></ruby> - throw away
+19. <ruby>[拙](../../characters/拙.md)<rt>ㄐ⼔ㄊ</rt></ruby> - awkward
+20. <ruby>[承](../../characters/承.md)<rt>ㄙㄨㄫ</rt></ruby> - inherit
 21. <ruby>[披](../../characters/披%20(char).md)<rt>ㄆㄨㄧ</rt></ruby> - expose
 22. <ruby>[抱](../../characters/抱.md)<rt>ㄅㄚㄨ</rt></ruby> - embrace
 23. <ruby>[抵](../../characters/抵.md)<rt>ㄉㄝㄧ</rt></ruby> - resist
@@ -190,6 +190,10 @@ tags: [lookup]
 
 ### Aliases
 - 拔 --> 抜
+- 拋 --> 抛
+- 拏 --> 拿
+- 挐 --> 拿
+- 㧱 --> 拿
 
 ## Data check
 ```dataview

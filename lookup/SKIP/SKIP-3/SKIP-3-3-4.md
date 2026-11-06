@@ -1,7 +1,7 @@
 ---
 stroke_count: 7
 date-last-perfect: 2026-10-31
-size: 16
+size: 17
 skip_number: 3-3-4
 tags: [lookup]
 
@@ -27,6 +27,7 @@ tags: [lookup]
 14. <ruby>[臣](/characters/臣.md)<rt>ㄙㄧㄋ</rt></ruby> "minister"
 15. <ruby>[近](/characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby> "near"
 16. <ruby>[返](/characters/返.md)<rt>ㄈㄛㄋ</rt></ruby> "return"
+17. <ruby>[迎](/characters/迎.md)<rt>⼶ㄫ</rt></ruby> "welcome"
 
 ## Datacheck
 ```dataview

@@ -33,6 +33,7 @@ tags: [lookup]
 
 ### Aliases
 - 恳 --> 懇
+- 挐 --> 拿
 
 ## Datacheck
 ```dataview

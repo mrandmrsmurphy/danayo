@@ -1,7 +1,7 @@
 ---
 stroke_count: 9
 date-last-perfect: 2026-11-03
-size: 301
+size: 302
 tags:
   - lookup
 ---
@@ -22,7 +22,7 @@ tags:
 - 2-5-4: <ruby>[[奏]]<rt>ㄙㄛㄨ</rt></ruby>, <ruby>[[怒 (char)|怒]]<rt>ㄋㄛ</rt></ruby>, <ruby>[[思]]<rt>ㄙㄚ</rt></ruby>, <ruby>[[怨]]<rt>ㄛㄋ</rt></ruby>, <ruby>[[春 (char)|春]]<rt>ㄑㄨㄋ</rt></ruby>, <ruby>[[果]]<rt>ㄍ⺢</rt></ruby>, <ruby>[[架 (char)|架]]<rt>ㄍㄚ</rt></ruby>, <ruby>[[枼]]<rt>ㄨㄆ</rt></ruby>, <ruby>[[某 (char)|某]]<rt>ㄇㄛㄨ</rt></ruby>, <ruby>[[染]]<rt>ㄋ⼄ㄇ</rt></ruby>, <ruby>[[柴]]<rt>ㄐ⺢ㄧ</rt></ruby>, <ruby>[[栄]]<rt>ㄨㄧㄫ</rt></ruby>, <ruby>[[毘]]<rt>ㄅㄧㄜ</rt></ruby>, <ruby>[[泉]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[点 (char)|点]]<rt>ㄉㄝㄇ</rt></ruby>, <ruby>[[界]]<rt>ㄍ⼶</rt></ruby>, <ruby>[[畏 (char)|畏]]<rt>ㄛㄧ</rt></ruby>, <ruby>[[癸]]<rt>ㄍㄨㄧ</rt></ruby>, <ruby>[[発 (char)|発]]<rt>ㄈㄚㄊ</rt></ruby>, <ruby>[[皆 (char)|皆]]<rt>ㄍ⼶</rt></ruby>, <ruby>[[皇]]<rt>ㄏ⺢ㄫ</rt></ruby>, <ruby>[[胃 (char)|胃]]<rt>ㄨㄧ</rt></ruby>, <ruby>[[背 (char)|背]]<rt>ㄅㄛㄧ</rt></ruby>, <ruby>[[衷]]<rt>ㄊㄨㄫ</rt></ruby>, <ruby>[[香]]<rt>ㄏ⼘ㄫ</rt></ruby>
 - 2-6-3: <ruby>[[卑 (char)|卑]]<rt>ㄅㄝ</rt></ruby>, <ruby>[[型]]<rt>ㄏㄝㄫ</rt></ruby>, <ruby>[[変 (char)|変]]<rt>ㄅ⼶ㄋ</rt></ruby>, <ruby>[[契]]<rt>ㄎㄝㄧ</rt></ruby>, <ruby>[[姜 (char)|姜]]<rt>ㄍ⼘ㄋ</rt></ruby>, <ruby>[[姿]]<rt>ㄐㄧㄜ</rt></ruby>, <ruby>[[専]]<rt>ㄐ⼔ㄋ</rt></ruby>, <ruby>[[巻 (char)|巻]]<rt>ㄍ⼔ㄋ</rt></ruby>, <ruby>[[弯]]<rt>⺢ㄇ</rt></ruby>, <ruby>[[甚]]<rt>ㄙㄧㄇ</rt></ruby>, <ruby>[[県 (char)|県]]<rt>ㄏ⼔ㄋ</rt></ruby>, <ruby>[[竿]]<rt>ㄍㄚㄋ</rt></ruby>, <ruby>[[羿]]<rt>ㄝㄧ</rt></ruby>, <ruby>[[臭 (char)|臭]]<rt>ㄑㄨ</rt></ruby>, <ruby>[[要]]<rt>⼄ㄨ</rt></ruby>
 - 3-2-7: <ruby>[[厘 (char)|厘]]<rt>ㄌㄧ</rt></ruby>, <ruby>[[厚 (char)|厚]]<rt>ㄏㄛㄨ</rt></ruby>, <ruby>[[幽 (char)|幽]]<rt>⼜ㄛ</rt></ruby>, <ruby>[[盾 (char)|盾]]<rt>ㄐㄨㄋ</rt></ruby>, <ruby>[[風 (char)|風]]<rt>ㄈㄨㄫ</rt></ruby>
-- 3-3-6: <ruby>[[屋 (char)|屋]]<rt>ㄛㄎ</rt></ruby>, <ruby>[[屎 (char)|屎]]<rt>ㄏㄜ</rt></ruby>, <ruby>[[屏]]<rt>ㄅㄧㄫ</rt></ruby>, <ruby>[[度]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[建]]<rt>ㄍㄝㄋ</rt></ruby>, <ruby>[[昼]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[追 (char)|追]]<rt>ㄊㄨㄧ</rt></ruby>, <ruby>[[退 (char)|退]]<rt>ㄊㄧㄜ</rt></ruby>, <ruby>[[送 (char)|送]]<rt>ㄙㄛㄫ</rt></ruby>, <ruby>[[逃]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[逆 (char)|逆]]<rt>ㄝㄎ</rt></ruby>
+- 3-3-6: <ruby>[[屋 (char)|屋]]<rt>ㄛㄎ</rt></ruby>, <ruby>[[屎 (char)|屎]]<rt>ㄏㄜ</rt></ruby>, <ruby>[[屏]]<rt>ㄅㄧㄫ</rt></ruby>, <ruby>[[度]]<rt>ㄉㄛ</rt></ruby>, <ruby>[[建]]<rt>ㄍㄝㄋ</rt></ruby>, <ruby>[[昼]]<rt>ㄐㄨㄛ</rt></ruby>, <ruby>[[追 (char)|追]]<rt>ㄊㄨㄧ</rt></ruby>, <ruby>[[退 (char)|退]]<rt>ㄊㄧㄜ</rt></ruby>, <ruby>[[送 (char)|送]]<rt>ㄙㄛㄫ</rt></ruby>, <ruby>[[逃]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[逆 (char)|逆]]<rt>ㄝㄎ</rt></ruby>, <ruby>[[迷 (char)|迷]]<rt>ㄇㄝㄧ</rt></ruby>
 - 3-4-5: <ruby>[[扁]]<rt>ㄆ⼶ㄋ</rt></ruby>, <ruby>[[眉 (char)|眉]]<rt>ㄇㄧㄜ</rt></ruby>, <ruby>[[看 (char)|看]]<rt>ㄎㄚㄋ</rt></ruby>, <ruby>[[虐]]<rt>⼘ㄎ</rt></ruby>, <ruby>[[迥 (char)|迥]]<rt>ㄏㄧㄫ</rt></ruby>
 - 3-5-4: <ruby>[[疫]]<rt>⼶ㄎ</rt></ruby>
 - 3-6-3: <ruby>[[咼]]<rt>ㄎ⼶ㄧ</rt></ruby>, <ruby>[[哉 (char)|哉]]<rt>ㄐㄚㄧ</rt></ruby>, <ruby>[[彦]]<rt>ㄝㄋ</rt></ruby>
@@ -49,6 +49,7 @@ tags:
 - 枽 --> 枼
 - 剑 --> 剣
 - 瓯 --> 甌
+- 拏 --> 拿
 
 ## Data check
 ```dataview

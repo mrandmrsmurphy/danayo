@@ -1,7 +1,6 @@
 ---
 language: 単亜語
 size: 825
-date-last-perfect: 2026-11-04
 tags: [lookup]
 ---
 **<ruby>名<rt>ㄇㄧㄫ</rt></ruby><ruby>等級<rt>ㄉㄨㄫㄍㄧㄆ</rt></ruby>** <ruby>包含<rt>ㄅ⼘ㄨㄏㄚㄇ</rt></ruby> <ruby>字<rt>ㄐㄧ</rt></ruby><ruby>八<rt>ㄅㄚㄊ</rt></ruby><ruby>百<rt>ㄅㄚㄎ</rt></ruby><ruby>二十<rt>ㄋㄧㄜㄙㄧㄆ</rt></ruby><ruby>五<rt>ㄛ</rt></ruby><ruby>個<rt>ㄍㄜ</rt></ruby>.
@@ -702,9 +701,9 @@ tags: [lookup]
 688. <ruby>[[迄]]<rt>ㄏㄧㄊ</rt></ruby> - extend, reach
 689. <ruby>[[迪]]<rt>ㄉㄝㄎ</rt></ruby> - follow
 690. <ruby>[[這]]<rt>⼶ㄋ</rt></ruby> - meet
-691. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
-692. <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby> - ramble, stroll, jaunt
-693. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
+691. <ruby>[[逢]]<rt>ㄅㄛㄫ</rt></ruby> - meet, flatter
+692. <ruby>[[逑]]<rt>ㄍ⼜</rt></ruby> - mate, match
+693. <ruby>[[逍]]<rt>ㄙ⼄ㄨ</rt></ruby> - ramble, stroll, jaunt
 694. <ruby>[[遁]]<rt>ㄉㄛㄋ</rt></ruby> - evade, escape
 695. <ruby>[[遒]]<rt>ㄑㄨㄛ</rt></ruby> - strong, unyielding, forceful
 696. <ruby>[[逾]]<rt>⼜ㄇ</rt></ruby> - transcend, climb

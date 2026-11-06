@@ -15,9 +15,9 @@ vietnamese:
   - mế
 middle_chinese_initial: m
 middle_chinese_final: ei
-stroke_count: 10
+stroke_count: 9
 radical: "辵"
-skip_number: 3-4-6
+skip_number: 3-3-6
 grade_level: "4"
 pos: 性詞
 english:
@@ -48,7 +48,7 @@ boundedness: 90
 
 ## Notes
 - 形声 (OC \*miː): semantic [[Radical 162|辵]] ("movement, road") + phonetic [[米]] (OC \*miːʔ) — "to be lost, to be confused, to be bewildered."
-- [SKIP-3-4-6](../lookup/SKIP/SKIP-3/SKIP-3-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
+- [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1520th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄇㄝㄧ](../syllables/ㄇㄝㄧ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 

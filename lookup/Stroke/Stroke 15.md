@@ -1,7 +1,7 @@
 ---
 stroke_count: 15
 date-last-perfect: 2026-11-04
-size: 205
+size: 204
 tags:
   - lookup
 ---
@@ -32,7 +32,7 @@ tags:
 - 2-11-4: <ruby>[[摯]]<rt>ㄐㄧㄜ</rt></ruby>, <ruby>[[慙]]<rt>ㄐㄚㄇ</rt></ruby>, <ruby>[[黙]]<rt>ㄇㄨㄎ</rt></ruby>, <ruby>[[熨]]<rt>⼜ㄊ</rt></ruby>, <ruby>[[熬]]<rt>ㄚㄨ</rt></ruby>, <ruby>[[熱 (char)|熱]]<rt>ㄋ⼶ㄊ</rt></ruby>, <ruby>[[熟 (char)|熟]]<rt>ㄙㄨㄎ</rt></ruby>, <ruby>[[慰]]<rt>ㄛㄧ</rt></ruby>, <ruby>[[撃 (char)|撃]]<rt>ㄍㄝㄎ</rt></ruby>, <ruby>[[暫]]<rt>ㄐㄚㄇ</rt></ruby>, <ruby>[[勲 (char)|勲]]<rt>ㄏㄨㄋ</rt></ruby>
 - 2-12-3: <ruby>[[導]]<rt>ㄉㄚㄨ</rt></ruby>, <ruby>[[幣 (char)|幣]]<rt>ㄆㄝ</rt></ruby>, <ruby>[[墜]]<rt>ㄐㄨㄧ</rt></ruby>, <ruby>[[弊 (char)|弊]]<rt>ㄆㄝㄧ</rt></ruby>
 - 3-3-12: <ruby>[[慶 (char)|慶]]<rt>ㄎ⼶ㄫ</rt></ruby>, <ruby>[[履 (char)|履]]<rt>ㄌㄧㄜ</rt></ruby>, <ruby>[[廟]]<rt>ㄇ⼘ㄨ</rt></ruby>, <ruby>[[遺 (char)|遺]]<rt>⼶ㄧ</rt></ruby>, <ruby>[[遵]]<rt>ㄐㄨㄋ</rt></ruby>, <ruby>[[遷]]<rt>ㄑㄝㄋ</rt></ruby>, <ruby>[[選]]<rt>ㄙ⼔ㄋ</rt></ruby>, <ruby>[[遼]]<rt>ㄌ⼘ㄨ</rt></ruby>, <ruby>[[廠]]<rt>ㄑㄚㄫ</rt></ruby>
-- 3-4-11: <ruby>[[適]]<rt>ㄙㄝㄎ</rt></ruby>, <ruby>[[膚]]<rt>ㄈㄜ</rt></ruby>
+- 3-4-11: <ruby>[[膚]]<rt>ㄈㄜ</rt></ruby>
 - 3-5-10: <ruby>[[瘡]]<rt>ㄑ⺢ㄫ</rt></ruby>
 - 3-6-9: <ruby>[[慮]]<rt>ㄌ⼄</rt></ruby>
 - 3-7-8: <ruby>[[趣]]<rt>ㄑㄨ</rt></ruby>
