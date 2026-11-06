@@ -45,6 +45,8 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 5. <ruby>[爾等](/words/爾等.md)<rt>ㄋㄝㄉㄨㄫ</rt></ruby> - ye, you all
 6. <ruby>[汚璃他雲](/words/汚璃他雲.md)<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> - Oort Cloud
 7. <ruby>[流唾](/words/流唾.md)<rt>ㄌ⼜·ㄊㄚ</rt></ruby> - to drool
+8. <ruby>[英斤](/words/英斤.md)<rt>ㄝㄫㄍㄧㄋ</rt></ruby> - pound (weight)
+9. <ruby>[英両](/words/英両.md)<rt>ㄝㄫㄌ⼘ㄫ</rt></ruby> - ounce
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.

@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[罔両]]<rt>ㄇㄚㄫㄌ⼘ㄫ</rt></ruby> "demons and monsters, esp. of water"
 - <ruby>[[両唇]]<rt>ㄌ⼘ㄫㄙㄨㄋ</rt></ruby> "bilabial"
 - <ruby>[[両江]]<rt>ㄌ⼘ㄫㄍㄚㄫ</rt></ruby> "Ryanggang"
+- <ruby>[[英両]]<rt>ㄝㄫㄌ⼘ㄫ</rt></ruby> "ounce"
 
 ## Chengyu
 - <ruby>[[一刀両断]]<rt>ㄧㄊㄊㄚㄨㄌ⼘ㄫㄉ⺢ㄋ</rt></ruby> "swift and decisive action"

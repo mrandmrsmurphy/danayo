@@ -519,10 +519,10 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- light bulb - <ruby>[[電灯]]<rt>ㄉㄝㄋㄉㄨㄫ</rt></ruby> *("lamp, electric light")*
 	- watch - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
 - Measures :
-	- pound *(needs a word)*
+	- pound - <ruby>[[英斤]]<rt>ㄝㄫㄍㄧㄋ</rt></ruby> *(weight; neologism on the 英里 pattern)*
 	- foot - <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby> *(body-part word extended to the unit of length, uncertain if attested that way)*
 	- mile - <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> *(see [[Measurement]])*
-	- ounce *(needs a word)*
+	- ounce - <ruby>[[英両]]<rt>ㄝㄫㄌ⼘ㄫ</rt></ruby> *(neologism on the 英里 pattern)*
 	- cup - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby> *(also the measure: 一杯 "one cup," as in Chinese and Japanese)*
 	- gram - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> *(one sense among several — also "practice self-restraint, overcome")*
 	- kg - <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> *("kilogram")*
@@ -653,7 +653,7 @@ _These are for place names, not the words themselves_
 	- brook - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> *(stand-in word for the bound character 江)*
 	- channel - <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby>
 	- rapids - <ruby>[[急流]]<rt>ㄍㄧㄆㄌ⼜</rt></ruby> *("rapids, torrent")*
-	- portage *(needs a word)*
+	- portage - <ruby>[[陸上]]<rt>ㄌㄨㄎㄙ⼘ㄫ</rt></ruby><ruby>[[運送]]<rt>ㄨㄋㄙㄛㄫ</rt></ruby> *("transport on land," a phrase, not a separate word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
 	- confluence - <ruby>[[合流]]<rt>ㄍㄛㄆㄌ⼜</rt></ruby>
 	- delta - <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>

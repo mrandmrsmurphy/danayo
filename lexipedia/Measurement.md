@@ -47,6 +47,8 @@ Measurement vocabulary covers the general acts of measuring, counting, and calcu
 - <ruby>[尺](../words/尺.md)<rt>ㄑㄝㄎ</rt></ruby>: a chi — the traditional East Asian unit of length (historically around 30–33cm, varying by era and country), analogous in role, though not exact size, to the Western foot; still productive in the modern metric compound [[公尺]] ("meter").
 - <ruby>[里](../words/里.md)<rt>ㄌㄧ</rt></ruby>: a li — the traditional East Asian unit of distance (roughly 500m in modern China, though the value has varied by era and country), the closest indigenous analog to the Western mile; see Semantic Range Notes.
 - <ruby>[英里](../words/英里.md)<rt>ㄝㄫㄌㄧ</rt></ruby>: a mile — the Western statute mile specifically, named "English li" to keep it distinct from the native [[里]]; see Semantic Range Notes.
+- <ruby>[英斤](../words/英斤.md)<rt>ㄝㄫㄍㄧㄋ</rt></ruby>: a pound (weight) — "English jin," on the pattern of [[英里]]; a deliberate neologism.
+- <ruby>[英両](../words/英両.md)<rt>ㄝㄫㄌ⼘ㄫ</rt></ruby>: an ounce — "English liang," on the pattern of [[英里]] and [[英斤]]; a deliberate neologism.
 - <ruby>[浬](../words/浬.md)<rt>ㄌㄧ</rt></ruby>: a nautical mile; a knot (as a unit of speed) — a modern coinage pairing the water radical with [[里]], distinct from both it and [[英里]].
 - <ruby>[丈](../words/丈.md)<rt>ㄑㄚㄫ</rt></ruby>: a zhang — a traditional East Asian unit of length, ten chi (尺) at about 3.3m, surviving mainly in historical/literary contexts today.
 - <ruby>[公噸](../words/公噸.md)<rt>ㄍㄛㄫㄊㄛㄋ</rt></ruby>: a tonne, metric ton.
