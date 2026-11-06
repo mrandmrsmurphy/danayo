@@ -6,12 +6,13 @@ related_domains:
   - "[[Physics]]"
   - "[[Food]]"
   - "[[Elements]]"
-status: stub
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Substances
 
-Substances vocabulary covers raw physical matter — stone, sand, paper, glass, dust, and fabric — the stuff things are made of, as opposed to the finished shapes covered by [[Shape]]. This is a thin domain: "emerald," "marble," and "tar" all have no dedicated Dan'a'yo word yet.
+Substances vocabulary covers raw physical matter — stone, sand, paper, glass, dust, and fabric — the stuff things are made of, as opposed to the finished shapes covered by [[Shape]]. Emerald (<ruby>[[祖母緑]]<rt>ㄐㄜㄇㄛㄨㄌㄛㄎ</rt></ruby>), marble (<ruby>[[大理石]]<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby>), tar (<ruby>[[焦油]]<rt>ㄐㄛㄨ⼜</rt></ruby>) and jewel (<ruby>[[宝石]]<rt>ㄅㄚㄨㄙㄝㄎ</rt></ruby>) are all covered. It is a bounded domain, and several of its materials are housed on [[Metals]], [[Clothing]] and [[Food]], which it cites in short.
 
 ## Core Vocabulary (A1–A2)
 
@@ -26,12 +27,15 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 
 ### Stone & Mineral
 
-- <ruby>[石頭](../words/石頭.md)<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>: stone, rock — the colloquial compound, an undocumented near-duplicate of [[石]].
+- <ruby>[石頭](../words/石頭.md)<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>: stone, rock — the colloquial compound for a single stone or rock, where [[石]] is the plain, bound mineral word (as in [[石灰]], [[石油]]).
+- <ruby>[大理石](../words/大理石.md)<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby>: marble.
 - <ruby>[水晶](../words/水晶.md)<rt>ㄙㄨㄐㄧㄫ</rt></ruby>: rock crystal, quartz crystal — the mineral, with [[石英]] as plain quartz; manufactured glass is [[玻璃]], not 水晶.
 - <ruby>[玉](../words/玉.md)<rt>⼄ㄎ</rt></ruby>: jade.
+- <ruby>[宝石](../words/宝石.md)<rt>ㄅㄚㄨㄙㄝㄎ</rt></ruby>: a jewel, gem.
 - <ruby>[瓦](../words/瓦.md)<rt>⺢</rt></ruby>: a roof tile.
 - <ruby>[紅玉](../words/紅玉.md)<rt>ㄏㄛㄫ⼄ㄎ</rt></ruby>: ruby — colour + 玉 "gem"; also the Jonathan apple in Japanese and Korean.
 - <ruby>[緑柱石](../words/緑柱石.md)<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby>: beryl — the mineral behind emerald and aquamarine; its element is [[緑柱素]] (beryllium).
+- <ruby>[祖母緑](../words/祖母緑.md)<rt>ㄐㄜㄇㄛㄨㄌㄛㄎ</rt></ruby>: an emerald.
 - <ruby>[炉甘石](../words/炉甘石.md)<rt>ㄌㄛㄍㄚㄇㄙㄝㄎ</rt></ruby>: calamine, smithsonite — the zinc ore of traditional pharmacology and early brass-making; see [[亜鉛]].
 - <ruby>[玻璃](../words/玻璃.md)<rt>ㄆㄚㄌㄜ</rt></ruby>: glass, crystal.
 - <ruby>[塑膠](../words/塑膠.md)<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>: plastic — the modern industrial material.
@@ -58,7 +62,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[渣](../words/渣.md)<rt>ㄐ⺢</rt></ruby>: dregs, lees, sediment — leftover residue, distinct from the raw environmental dirt/dust words above.
 - <ruby>[沈淀](../words/沈淀.md)<rt>ㄑㄧㄇㄉㄝㄋ</rt></ruby>: sediment, precipitate; to settle out — particles that sink from a liquid and collect at the bottom, more specifically a settling process than [[渣]]'s general dregs; the stand-in for the bound character 淀.
 - <ruby>[粉](../words/粉.md)<rt>ㄈㄨㄋ</rt></ruby>: powder.
-- <ruby>[粉末](../words/粉末.md)<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby>: powder — a compound form, an undocumented near-duplicate of [[粉]].
+- <ruby>[粉末](../words/粉末.md)<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby>: powder — fine powder in particular, 粉 plus 末 "tip, fragment"; [[粉]] is the general word, from face powder to any fine grain.
 - <ruby>[屑](../words/屑.md)<rt>ㄙㄝㄊ</rt></ruby>: scraps, fragments — sawdust, crumbs, shavings; by extension (不屑), something too trivial to bother with.
 
 ### Material (General)
@@ -72,6 +76,7 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[膠水](../words/膠水.md)<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby>: glue, liquid adhesive — a sticky liquid used to bond surfaces; the stand-in for the bound character 膠 (glue, originally the animal-hide glue).
 - <ruby>[石灰](../words/石灰.md)<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby>: lime, quicklime — burnt limestone, also the root of the element name [[石灰素]] (calcium).
 - <ruby>[石油](../words/石油.md)<rt>ㄙㄝㄎ·⼜</rt></ruby>: petroleum, crude oil — the raw fossil substance, of which [[汽油]] below is a refined product.
+- <ruby>[焦油](../words/焦油.md)<rt>ㄐㄛㄨ⼜</rt></ruby>: tar.
 - <ruby>[麻薬](../words/麻薬.md)<rt>ㄇㄚ⼘ㄎ</rt></ruby>: drugs, narcotics.
 - <ruby>[香煙](../words/香煙.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a cigarette.
 - <ruby>[汽油](../words/汽油.md)<rt>ㄎㄧㄜ⼜</rt></ruby>: gasoline — a manufactured liquid fuel, cited here for lack of any dedicated automotive/petrochemical domain elsewhere in this vault.
@@ -104,9 +109,9 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 
 ## Semantic Range Notes
 
-**Two tempting candidates were excluded as false matches.** [[揺]], which also glosses "rock," means to swing or shake — the verb, not the mineral noun; [[石]]/[[石頭]] cover the noun instead. [[内容]], which also glosses "substance," means "content" in the abstract sense (the content of a book or argument), not physical matter — [[物質]] covers the physical sense instead. [[明月]] ("bright moon"), which also glosses "jewel," is a poetic extension already flagged elsewhere in this vault, not a dedicated gem word — "jewel," "emerald," and "marble" all remain genuinely uncoined.
+**Two tempting candidates were excluded as false matches.** [[揺]], which also glosses "rock," means to swing or shake — the verb, not the mineral noun; [[石]]/[[石頭]] cover the noun instead. [[内容]], which also glosses "substance," means "content" in the abstract sense (the content of a book or argument), not physical matter — [[物質]] covers the physical sense instead. [[明月]] ("bright moon"), which also glosses "jewel," is a poetic extension already flagged elsewhere in this vault, not a dedicated gem word — "jewel" is <ruby>[[宝石]]<rt>ㄅㄚㄨㄙㄝㄎ</rt></ruby>, "emerald" is <ruby>[[祖母緑]]<rt>ㄐㄜㄇㄛㄨㄌㄛㄎ</rt></ruby> and "marble" is <ruby>[[大理石]]<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby>.
 
-**Two undocumented near-duplicate pairs appear in this domain**: [[石]]/[[石頭]] ("rock, stone" — basic Swadesh word vs. colloquial compound) and [[粉]]/[[粉末]] ("powder" — plain word vs. compound form), the same treatment given to other such pairs elsewhere in this vault (compare [[親族]]/[[親戚]] on [Kinship](../lexipedia/Kinship.md)).
+**Two pairs split by register, not meaning**: <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby> is the colloquial word for "a stone," and <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby> is the plain word and bound mineral root; <ruby>[[粉末]]<rt>ㄈㄨㄋㄇㄚㄊ</rt></ruby> is fine powder in particular, and <ruby>[[粉]]<rt>ㄈㄨㄋ</rt></ruby> is the general word.
 
 ## See Also
 

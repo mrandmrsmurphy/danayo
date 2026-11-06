@@ -134,6 +134,7 @@ boundedness: 90
 - <ruby>[[大小]]<rt>ㄉㄚㄧㄙㄛ</rt></ruby> "size"
 - <ruby>[[強大]]<rt>ㄍ⼘ㄫㄉㄚㄧ</rt></ruby> "powerful"
 - <ruby>[[大気]]<rt>ㄉㄚㄧㄎㄧㄜ</rt></ruby> "atmosphere"
+- <ruby>[[大理石]]<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby> "marble"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

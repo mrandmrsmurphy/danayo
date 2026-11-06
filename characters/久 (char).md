@@ -54,6 +54,7 @@ boundedness: 65
 - <ruby>[[悠久]]<rt>⼜ㄛㄍ⼜</rt></ruby> "long-lasting; time-honoured"
 - <ruby>[[恒久]]<rt>ㄏㄨㄫㄍ⼜</rt></ruby> "eternal; perpetual"
 - <ruby>[[永久]]<rt>ㄨㄧㄫㄍ⼜</rt></ruby> "permanent; perpetual"
+- <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby> "soon, before long"
 
 ## Chengyu
 - <ruby>[[天長地久]]<rt>ㄊㄝㄋㄐㄚㄫㄉㄧㄜㄍ⼜</rt></ruby> "as enduring as heaven and earth"

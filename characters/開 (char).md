@@ -61,6 +61,7 @@ boundedness: 70
 - <ruby>[[開城]]<rt>ㄎㄚㄧㄙㄧㄫ</rt></ruby> "Kaesong"
 - <ruby>[[開]]<rt>ㄎㄚㄧ</rt></ruby> "open"
 - <ruby>[[開幕]]<rt>ㄎㄚㄧㄇㄚㄎ</rt></ruby> "opening"
+- <ruby>[[開関]]<rt>ㄎㄚㄧㄍ⺢ㄇ</rt></ruby> "a switch"
 
 ## Chengyu
 - <ruby>[[開天辟地]]<rt>ㄎㄚㄧㄊㄝㄋㄆㄧㄎㄉㄧㄜ</rt></ruby> "Open Heaven, Crack the Earth"

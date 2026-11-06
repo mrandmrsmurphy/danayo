@@ -8,29 +8,33 @@ related_domains:
   - "[[Containers]]"
   - "[[Clothing]]"
   - "[[War]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Tools
 
-Tools vocabulary covers implements, machines, and the parts that make them work — handles, hinges, screws — along with the farming, cutting, and household tools this vault's classical and literary sources document in depth. Several basic terms (bolt, engine, mechanical, waste, ready, switch) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Tools vocabulary covers implements, machines, and the parts that make them work — handles, hinges, screws — along with the farming, cutting, and household tools this vault's classical and literary sources document in depth. Bolts, switches, scales, engines and trains are covered, with the few English terms Dan'a'yo says by strategy (mechanical, ready) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[車](../words/車.md)<rt>ㄑ⺢</rt></ruby>: a car.
 - <ruby>[汽車](../words/汽車.md)<rt>ㄎㄧㄜㄑ⺢</rt></ruby>: a steam train, locomotive.
 - <ruby>[火車](../words/火車.md)<rt>ㄏ⺢ㄑ⺢</rt></ruby>: a "fire cart," train (hwacha).
+- <ruby>[列車](../words/列車.md)<rt>ㄌㄝㄊㄑ⺢</rt></ruby>: a train — the railway vehicle, the plain word.
 - <ruby>[机器](../words/机器.md)<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby>: a machine.
 - <ruby>[輪](../words/輪.md)<rt>ㄌㄨㄋ</rt></ruby>: a wheel. See [Shape](../lexipedia/Shape.md) for its own citation there.
 - <ruby>[使用](../words/使用.md)<rt>ㄙㄧ⼄ㄫ</rt></ruby>: to use.
 - <ruby>[工具](../words/工具.md)<rt>ㄍㄛㄫㄍㄨ</rt></ruby>: a tool, instrument, implement.
 - <ruby>[故障](../words/故障.md)<rt>ㄍㄛㄐㄚㄫ</rt></ruby>: a breakdown, malfunction, bug.
 - <ruby>[回路](../words/回路.md)<rt>ㄏㄛㄧㄌㄛ</rt></ruby>: a circuit, loop; the way back.
+- <ruby>[開関](../words/開関.md)<rt>ㄎㄚㄧㄍ⺢ㄇ</rt></ruby>: a switch.
 - <ruby>[利用](../words/利用.md)<rt>ㄌㄧㄜ⼄ㄫ</rt></ruby>: to use, utilise — "use for profit," more purposeful than 使用.
+- <ruby>[浪費](../words/浪費.md)<rt>ㄌㄚㄫㄈㄚㄧ</rt></ruby>: to waste, squander.
 - <ruby>[善用](../words/善用.md)<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby>: to put to good use.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare. See [Mind](../lexipedia/Mind.md) for its own citation there.
 
-**Not yet coined**: "bolt," "mechanical," "waste," "ready," and "switch" all have no dedicated Dan'a'yo word yet. ("Engine" is [[発動机]].)
+**How Dan'a'yo says these**: "bolt" is <ruby>[[螺栓]]<rt>ㄌㄚㄙ⼔ㄋ</rt></ruby>, "switch" is <ruby>[[開関]]<rt>ㄎㄚㄧㄍ⺢ㄇ</rt></ruby>, "waste" is <ruby>[[浪費]]<rt>ㄌㄚㄫㄈㄚㄧ</rt></ruby> (to waste) or <ruby>[[廃物]]<rt>ㄈㄝㄇㄨㄊ</rt></ruby> (waste material), "ready" is <ruby>[[準備]]<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>, "get ready," used as a state, and "mechanical" is <ruby>[[机械]]<rt>ㄍㄧㄜㄏ⼶</rt></ruby> "machine" in the genitive (机械之), not a separate adjective. "Engine" is <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby>.
 
 ## Intermediate (B1–B2)
 
@@ -78,6 +82,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[軛](../words/軛.md)<rt>ㄚㄎ</rt></ruby>: a yoke.
 - <ruby>[杆](../words/杆.md)<rt>ㄍㄚㄋ</rt></ruby>: a lever — a different angle on the same word already cited for "rod, pole" on [Shape](../lexipedia/Shape.md).
 - <ruby>[楔子](../words/楔子.md)<rt>ㄙㄝㄊㄐㄜ</rt></ruby>: a wedge — the small tapered piece of wood or metal driven into a gap to tighten a joint or fix a tool-head to its handle; also, figuratively, a prologue (see [Art](../lexipedia/Art.md)); the stand-in for the bound character 楔.
+- <ruby>[螺栓](../words/螺栓.md)<rt>ㄌㄚㄙ⼔ㄋ</rt></ruby>: a bolt.
 
 ### Machines & Apparatus
 
@@ -89,6 +94,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[充電](../words/充電.md)<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby>: to recharge, to charge a battery — to fill (充) a battery or device with electricity (電); a modern compound of old characters, transparent in every language of the sphere.
 - <ruby>[主頁](../words/主頁.md)<rt>ㄐㄨㄏㄝㄊ</rt></ruby>: a website's main page, homepage.
 - <ruby>[設備](../words/設備.md)<rt>ㄙㄝㄊㄅㄧㄜ</rt></ruby>: to equip, finish, provide. See [Work](../lexipedia/Work.md) and [Events](../lexipedia/Events.md) for their own citations there.
+- <ruby>[天称](../words/天称.md)<rt>ㄊㄝㄋㄑㄧㄫ</rt></ruby>: a scale, balance.
 
 ### Operating & Driving
 
@@ -115,10 +121,11 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 
 - <ruby>[刷子](../words/刷子.md)<rt>ㄙ⺢ㄊㄐㄜ</rt></ruby>: a brush — the tool. See [Art](../lexipedia/Art.md) for its own citation there.
 - <ruby>[擦](../words/擦.md)<rt>ㄑㄚㄊ</rt></ruby>: to wipe, scrub, rub, scour, brush — the verb, distinct from [[刷子]]'s noun. See [Efforts](../lexipedia/Efforts.md) for its own citation there.
+- <ruby>[廃物](../words/廃物.md)<rt>ㄈㄝㄇㄨㄊ</rt></ruby>: waste, discarded material.
 - <ruby>[掃帚](../words/掃帚.md)<rt>ㄙㄚㄨㄐㄨ</rt></ruby>: a broom.
 - <ruby>[手巾](../words/手巾.md)<rt>ㄙ⼜·ㄎㄧㄋ</rt></ruby>: a towel.
 - <ruby>[梳](../words/梳.md)<rt>ㄙㄛ</rt></ruby>: a comb.
-- <ruby>[櫛](../words/櫛.md)<rt>ㄐㄜㄊ</rt></ruby>: a comb — an undocumented near-duplicate of [[梳]].
+- <ruby>[櫛](../words/櫛.md)<rt>ㄐㄜㄊ</rt></ruby>: a comb — the Japanese-flavored word for the same object as [[梳]], with no recorded difference in meaning.
 - <ruby>[雨傘](../words/雨傘.md)<rt>ㄨㄙㄚㄋ</rt></ruby>: an umbrella.
 - <ruby>[扇子](../words/扇子.md)<rt>ㄙ⼶ㄋㄐㄜ</rt></ruby>: a hand-held fan.
 
@@ -138,7 +145,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 
 - <ruby>[票](../words/票.md)<rt>ㄆ⼘ㄨ</rt></ruby>: a ticket.
 - <ruby>[甄選](../words/甄選.md)<rt>ㄍ⼶ㄋㄙ⼔ㄋ</rt></ruby>: to select, screen — the verb "to screen" (vet candidates), not a physical screen/display. See [Mind](../lexipedia/Mind.md) for its own citation there.
-- <ruby>[養成](../words/養成.md)<rt>⼘ㄫㄙㄧㄫ</rt></ruby>: to cultivate, train — the verb "to train" a person or skill, distinct from the uncoined noun "a train" (locomotive). See [Efforts](../lexipedia/Efforts.md) for its own citation there.
+- <ruby>[養成](../words/養成.md)<rt>⼘ㄫㄙㄧㄫ</rt></ruby>: to cultivate, train — the verb "to train" a person or skill, distinct from the noun "a train," which is <ruby>[[列車]]<rt>ㄌㄝㄊㄑ⺢</rt></ruby> (and <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby>, the "fire cart"). See [Efforts](../lexipedia/Efforts.md) for its own citation there.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -181,11 +188,11 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 
 **"Handle" cleanly splits into a physical noun and an abstract verb, and only the noun belongs here.** [[把手]] and [[柄]] are the physical grip; [[処決]], [[扱]], and [[措置]] all mean to handle or manage a situation and were excluded as false matches for a tools-domain word.
 
-**"Scale" has a tempting but wrong candidate.** [[規模]], which also glosses "scale," means scale or scope in the sense of extent/magnitude (already housed on [Measurement](../lexipedia/Measurement.md)), not a weighing device — the physical scale remains genuinely uncoined.
+**"Scale" has a tempting but wrong candidate.** [[規模]], which also glosses "scale," means scale or scope in the sense of extent/magnitude (already housed on [Measurement](../lexipedia/Measurement.md)), not a weighing device — the physical scale is <ruby>[[天称]]<rt>ㄊㄝㄋㄑㄧㄫ</rt></ruby>, written 天秤 in Chinese and Japanese (秤 is an alias of 称).
 
-**"Train" is a real split, not an invented one.** [[養成]] means to train a person or skill (the verb), already well-documented; the noun "a train" (the locomotive/railway vehicle) remains genuinely uncoined, consistent with "train station" being flagged uncoined elsewhere in this vault's own Sophomore List.
+**"Train" is a real split, not an invented one.** [[養成]] means to train a person or skill (the verb), already well-documented; the noun "a train" is <ruby>[[列車]]<rt>ㄌㄝㄊㄑ⺢</rt></ruby>, the railway vehicle, with <ruby>[[火車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby> and <ruby>[[汽車]]<rt>ㄎㄧㄜㄑ⺢</rt></ruby> the older "fire cart" and "steam train" words; "train station" is <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby>.
 
-**Two undocumented near-duplicate pairs appear in this domain**: [[梳]]/[[櫛]] ("comb") and the overlapping, though not strictly duplicate, [[机器]]/[[机械]] ("machine").
+**Two pairs of overlapping words in this domain**: <ruby>[[梳]]<rt>ㄙㄛ</rt></ruby> and <ruby>[[櫛]]<rt>ㄐㄜㄊ</rt></ruby> both mean "comb" with no recorded difference in meaning; <ruby>[[机器]]<rt>ㄍㄧㄜㄎㄧㄜ</rt></ruby> is the broad word for a machine or device of any kind, while <ruby>[[机械]]<rt>ㄍㄧㄜㄏ⼶</rt></ruby> leans toward machinery in the more mechanical, industrial sense, with moving parts.
 
 ## See Also
 

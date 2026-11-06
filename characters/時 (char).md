@@ -82,6 +82,7 @@ boundedness: 90
 - <ruby>[[時間表]]<rt>ㄙㄧㄍㄚㄋㄅ⼘ㄨ</rt></ruby> "timetable"
 - <ruby>[[時机]]<rt>ㄙㄧㄍㄧㄜ</rt></ruby> "opportunity"
 - <ruby>[[時期]]<rt>ㄙㄧ·ㄎㄧ</rt></ruby> "period"
+- <ruby>[[即時]]<rt>ㄐㄜㄎㄙㄧ</rt></ruby> "immediately, at once"
 
 ## Chengyu
 - <ruby>[[時代錯誤]]<rt>ㄙㄧㄉㄚㄧㄑㄚㄎ·ㄛ</rt></ruby> "anachronism"

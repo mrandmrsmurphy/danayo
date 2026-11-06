@@ -8,12 +8,13 @@ related_domains:
   - "[[Astronomy]]"
   - "[[Events]]"
   - "[[Measurement]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Time
 
-Time vocabulary covers the qualitative and abstract side of time — age, duration, suddenness, and continuation — as distinct from [[Calendar]], which this vault keeps separately for the systematic naming of days, weeks, months, years, and centuries. Several basic terms (abrupt, elder, haste, immediate, meanwhile, soon, and — strikingly — the bare time units "hour," "minute," "second," and "midnight") have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Time vocabulary covers the qualitative and abstract side of time — age, duration, suddenness, and continuation — as distinct from [[Calendar]], which this vault keeps separately for the systematic naming of days, weeks, months, years, and centuries. Abruptness, speed, hour, minute, second and midnight are all covered, with the few English words Dan'a'yo says by strategy (elder, meanwhile, haste, abrupt) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -30,12 +31,13 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 - <ruby>[去年](../words/去年.md)<rt>ㄎ⼄·ㄋㄝㄋ</rt></ruby>: last year.
 - <ruby>[将来](../words/将来.md)<rt>ㄐ⺢ㄫㄌㄚㄧ</rt></ruby>: the future.
 - <ruby>[旦夕](../words/旦夕.md)<rt>ㄉㄚㄋㄙㄝㄎ</rt></ruby>: sooner or later.
+- <ruby>[不久](../words/不久.md)<rt>ㄅㄛㄊㄍ⼜</rt></ruby>: soon, before long.
 - <ruby>[旧](../words/旧.md)<rt>ㄍ⼜ㄛ</rt></ruby>: old.
 - <ruby>[新鮮](../words/新鮮.md)<rt>ㄙㄧㄋㄙ⼶ㄇ</rt></ruby>: fresh. See [Food](../lexipedia/Food.md) for its own citation there.
 - <ruby>[早](../words/早.md)<rt>ㄐㄚㄨ</rt></ruby>: early.
 - <ruby>[遅](../words/遅.md)<rt>ㄑㄧㄜ</rt></ruby>: late. See [Movement](../lexipedia/Movement.md) for its own citation there.
 
-**Not yet coined**: "abrupt," "elder," "haste," "immediate," "meanwhile," and "soon" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these, the CJKV way**: "abrupt" is <ruby>[[突然]]<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby> or <ruby>[[忽然]]<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>; "elder" is <ruby>[[老]]<rt>ㄌㄚㄨ</rt></ruby> ("old person") or <ruby>[[長老]]<rt>ㄐㄚㄫㄌㄚㄨ</rt></ruby>; "haste" is <ruby>[[急遽]]<rt>ㄍㄧㄆㄍ⼄</rt></ruby>, with <ruby>[[緊急]]<rt>ㄍㄧㄋㄍㄧㄆ</rt></ruby> for urgency; "immediate" and "immediately" are <ruby>[[即時]]<rt>ㄐㄜㄎㄙㄧ</rt></ruby>; "meanwhile" is <ruby>[[同時]]<rt>ㄉㄛㄫㄙㄧ</rt></ruby>, "at the same time"; and "soon" is <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby>.
 
 ## Intermediate (B1–B2)
 
@@ -111,12 +113,13 @@ Time vocabulary covers the qualitative and abstract side of time — age, durati
 ### Suddenness & Speed
 
 - <ruby>[忽然](../words/忽然.md)<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden.
-- <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden — an undocumented near-duplicate of [[忽然]].
+- <ruby>[突然](../words/突然.md)<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby>: sudden, abrupt — a clean parallel compound across the whole sphere, the plain word beside [[忽然]]'s literary one.
 - <ruby>[忽然様](../words/忽然様.md)<rt>ㄏㄛㄊㄋ⼶ㄋ·⼘ㄫ</rt></ruby>: suddenly.
-- <ruby>[俄然](../words/俄然.md)<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby>: suddenly — a third undocumented near-duplicate alongside [[忽然]]/[[突然]].
+- <ruby>[俄然](../words/俄然.md)<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby>: suddenly, all at once — the third of the "sudden" words, a literary adverb whose character 俄 is legitimized by this exact word.
 - <ruby>[急速](../words/急速.md)<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby>: rapid, swift, fast-moving. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[急遽](../words/急遽.md)<rt>ㄍㄧㄆㄍ⼄</rt></ruby>: hurriedly, suddenly — in great haste, typically because of a sudden change (a plan changed or a trip cut short at short notice); more about the abruptness and urgency of the action than [[急速]]'s plain speed.
-- <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — an undocumented near-duplicate of [[急速]]. See [Movement](../lexipedia/Movement.md) for its own citation there.
+- <ruby>[即時](../words/即時.md)<rt>ㄐㄜㄎㄙㄧ</rt></ruby>: immediately, at once.
+- <ruby>[迅速](../words/迅速.md)<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby>: rapid, swift, prompt — stressing promptness, an action done without delay, where [[急速]] stresses a steep rate of change. See [Movement](../lexipedia/Movement.md) for its own citation there.
 - <ruby>[促](../words/促.md)<rt>ㄑㄛㄎ</rt></ruby>: to hurry. See [Movement](../lexipedia/Movement.md) for its own citation there.
 
 ### Brevity & Instant
@@ -164,11 +167,11 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 - <ruby>[今朝](../words/今朝.md)<rt>ㄍㄧㄇㄐㄚㄨ</rt></ruby>: this morning — not to be confused with [[今朝安]] "good morning," the same-family greeting coinage.
 - <ruby>[日暮](../words/日暮.md)<rt>ㄋㄧㄊㄇㄛ</rt></ruby>: dusk.
 - <ruby>[正午](../words/正午.md)<rt>ㄐㄧㄫㄛ</rt></ruby>: noon.
-- <ruby>[五更](../words/五更.md)<rt>ㄛㄍㄚㄫ</rt></ruby>: the five traditional night watches (collectively), or the fifth watch specifically (3–5am, just before dawn) — this older water-clock/watchman system, not the modern hour, is the closest this vault comes to naming "midnight" (三更, the third watch), still genuinely uncoined as its own word.
+- <ruby>[五更](../words/五更.md)<rt>ㄛㄍㄚㄫ</rt></ruby>: the five traditional night watches (collectively), or the fifth watch specifically (3–5am, just before dawn) — this older water-clock/watchman system is not the modern hour; its third watch (三更) is the traditional middle of the night, a counterpart to [[夜半]].
 - <ruby>[昨日](../words/昨日.md)<rt>ㄐㄚㄎㄋㄧㄊ</rt></ruby>: yesterday. See [Calendar](../lexipedia/Calendar.md) for its own citation there.
 - <ruby>[日](../words/日.md)<rt>ㄋㄧㄊ</rt></ruby>: day. See [Calendar](../lexipedia/Calendar.md) for its own citation there.
 
-**Not yet coined or excluded as false matches**: "hour," "minute," and "midnight" all have no dedicated Dan'a'yo word yet — a striking, specific gap, since [[Calendar]] otherwise builds out day/week/month/year/century in full systematic detail. "Second" (the 60-second time unit) is likewise uncoined; [[乙]] and [[第二]], both of which also gloss "second," mean the ordinal "second (in a sequence)," an unrelated homograph.
+**How Dan'a'yo says the clock units, the Japanese and Korean way**: the hour is <ruby>[[時]]<rt>ㄙㄧ</rt></ruby> (三時, "three o'clock"), the minute is <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> (十分, "ten minutes") and the second is <ruby>[[秒]]<rt>ㄇ⼄ㄨ</rt></ruby>; a length of time in hours is built on <ruby>[[時間]]<rt>ㄙㄧㄍㄚㄋ</rt></ruby> (三時間). Chinese says 小時 and 分鐘 instead; those are attested in Mandarin and Cantonese only and are not coined, since 時 and 分 already carry the meaning. Midnight is <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby>. "Second" in the sense of an ordinal is a different word: [[乙]] and [[第二]] mean "second (in a sequence)," an unrelated homograph.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -201,11 +204,11 @@ English "present" splits into several genuinely distinct Dan'a'yo words, all pri
 
 ## Semantic Range Notes
 
-**This page turned up an unusually large cluster of undocumented near-duplicates**: [[忽然]]/[[突然]]/[[俄然]] ("sudden") form a three-way near-identical group, and [[急速]]/[[迅速]] ("swift, rapid") a pair, with no recorded distinction within either, the same treatment given to other such clusters elsewhere in this vault.
+**"Sudden" and "swift" each have a plain and a literary shade**: <ruby>[[突然]]<rt>ㄊㄛㄊㄋ⼶ㄋ</rt></ruby> is the plain "sudden," parallel across the sphere; <ruby>[[忽然]]<rt>ㄏㄛㄊㄋ⼶ㄋ</rt></ruby> is its literary partner; <ruby>[[俄然]]<rt>ㄚ·ㄋ⼶ㄋ</rt></ruby> is "suddenly, all at once." <ruby>[[急速]]<rt>ㄍㄧㄆㄙㄛㄎ</rt></ruby> stresses a steep rate of change (急速充電, "rapid charging"), where <ruby>[[迅速]]<rt>ㄙ⼜ㄋㄙㄛㄎ</rt></ruby> stresses promptness, an action done without delay.
 
 **"Present" required splitting into six genuinely distinct words** rather than one — attendance ([[出席]]), the bound adjective ([[現]]), immediacy ([[目前]] vs. [[現在]]), displaying ([[提示]]), and gifting ([[贈与]]/[[献上]]) are all real, separate senses of the English word, not an invented distinction.
 
-**A striking, specific gap**: this vault otherwise documents Gregorian and lunar calendrical units in exhaustive systematic detail on [[Calendar]] (every day of the month, every month, leap years, eras), yet "hour," "minute," "second," and "midnight" — some of the most basic units of a day — are all genuinely uncoined. This is a real gap worth flagging precisely because of how complete the surrounding system is.
+**The clock units follow the Japanese and Korean pattern, not a coinage**: [[Calendar]] builds the days, months and years in full detail, and the clock is covered by the existing <ruby>[[時]]<rt>ㄙㄧ</rt></ruby>, <ruby>[[分]]<rt>ㄅㄨㄋ</rt></ruby> and <ruby>[[秒]]<rt>ㄇ⼄ㄨ</rt></ruby>, with no separate words for "hour" and "minute"; Mandarin and Cantonese 小時 and 分鐘 are not coined. Midnight is <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby>.
 
 **"Still" (temporal continuation) and "still" (quiet) are unrelated homographs.** [[寂静]] ("quiet, tranquil") was excluded from the Still & Continuation cluster above for exactly this reason — it answers a different English "still" than the one this domain covers.
 

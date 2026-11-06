@@ -55,6 +55,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[焦明]]<rt>ㄐㄛㄨㄇ⼶ㄫ</rt></ruby> "Jiaoming; a legendary phoenix-like bird" (in place of 鷦明)
 - <ruby>[[焦点]]<rt>ㄐㄛㄨㄉㄝㄇ</rt></ruby> "focus, focal point"
 - <ruby>[[焦思]]<rt>ㄐㄛㄨㄙㄚ</rt></ruby> "worry, deliberate anxiously"
+- <ruby>[[焦油]]<rt>ㄐㄛㄨ⼜</rt></ruby> "tar"
 
 ## Derived Characters
 - <ruby>[[礁]]<rt>ㄐㄚㄨ</rt></ruby> "reef"

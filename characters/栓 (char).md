@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[栓]]<rt>ㄙ⼔ㄋ</rt></ruby> "peg; stopper" (stand-in for 栓)
+- <ruby>[[螺栓]]<rt>ㄌㄚㄙ⼔ㄋ</rt></ruby> "a bolt"

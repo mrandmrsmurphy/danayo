@@ -56,6 +56,7 @@ date-last-perfect: 2026-10-13
 - <ruby>[[即日]]<rt>ㄐㄜㄎㄋㄧㄊ</rt></ruby> "same day"
 - <ruby>[[即是]]<rt>ㄐㄜㄎㄙㄝ</rt></ruby> "is precisely; is none other than"
 - <ruby>[[即位式]]<rt>ㄐㄜㄎ·⼔ㄧㄙㄧㄎ</rt></ruby> "coronation"
+- <ruby>[[即時]]<rt>ㄐㄜㄎㄙㄧ</rt></ruby> "immediately, at once"
 
 ## Chengyu
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"

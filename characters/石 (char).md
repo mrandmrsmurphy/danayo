@@ -73,6 +73,8 @@ boundedness: 90
 - <ruby>[[石川]]<rt>ㄙㄝㄎㄑ⺢ㄋ</rt></ruby> "Ishikawa Prefecture"
 - <ruby>[[磁石]]<rt>ㄐㄧㄙㄝㄎ</rt></ruby> "magnet"
 - <ruby>[[員石]]<rt>ㄨㄋㄙㄝㄎ</rt></ruby> "meteorite"
+- <ruby>[[大理石]]<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby> "marble"
+- <ruby>[[宝石]]<rt>ㄅㄚㄨㄙㄝㄎ</rt></ruby> "a jewel, gem"
 
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"

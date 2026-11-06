@@ -57,3 +57,4 @@ boundedness: 50
 - <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
 - <ruby>[[緑洲]]<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby> "oasis"
 - <ruby>[[緑党]]<rt>ㄌㄛㄎㄉㄚㄫ</rt></ruby> "Green party"
+- <ruby>[[祖母緑]]<rt>ㄐㄜㄇㄛㄨㄌㄛㄎ</rt></ruby> "an emerald"

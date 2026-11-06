@@ -91,6 +91,7 @@ boundedness: 50
 - <ruby>[[混合物]]<rt>ㄏㄛㄋㄍㄛㄆㄇㄨㄊ</rt></ruby> "mixture"
 - <ruby>[[博物館]]<rt>ㄅㄚㄎㄇㄨㄊㄍ⺢ㄋ</rt></ruby> "museum"
 - <ruby>[[失物]]<rt>ㄙㄧㄊㄇㄨㄊ</rt></ruby> "lost property"
+- <ruby>[[廃物]]<rt>ㄈㄝㄇㄨㄊ</rt></ruby> "waste, discarded material"
 
 ## Chengyu
 - <ruby>[[万物生長]]<rt>ㄇㄛㄋㄇㄨㄊㄙㄚㄫㄐㄚㄫ</rt></ruby> "all the universe grows and develops"
