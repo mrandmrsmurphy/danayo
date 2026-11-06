@@ -85,6 +85,7 @@ boundedness: 60
 - <ruby>[[発表]]<rt>ㄈㄚㄊㄅ⼘ㄨ</rt></ruby> "announce; publish"
 - <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby> "motor, engine"
 - <ruby>[[発票]]<rt>ㄈㄚㄊㄆ⼘ㄨ</rt></ruby> "an invoice, receipt"
+- <ruby>[[蒸発]]<rt>ㄐㄧㄫㄈㄚㄊ</rt></ruby> "to evaporate; evaporation"
 
 ## Chengyu
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"

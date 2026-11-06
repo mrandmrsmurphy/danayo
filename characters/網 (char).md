@@ -62,6 +62,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[網語]]<rt>ㄇㄚㄫ⼄</rt></ruby> "online speak"
 - <ruby>[[網站]]<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby> "website"
 - <ruby>[[網絡]]<rt>ㄇㄚㄫㄌㄚㄎ</rt></ruby> "web, network"
+- <ruby>[[蜘蛛網]]<rt>ㄐㄧㄐㄨㄇㄚㄫ</rt></ruby> "a spider's web"
 
 ## Chengyu
 - <ruby>[[一網打尽]]<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> "roundup, wholesale arrest; rounding up the herd with one throw"

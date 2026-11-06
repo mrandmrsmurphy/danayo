@@ -63,4 +63,6 @@ boundedness: 90
 - <ruby>[[闊葉]]<rt>ㄎ⺢ㄊ⼄ㄆ</rt></ruby> "broad-leaf"
 - <ruby>[[蘭葉撇]]<rt>ㄌㄚㄋ·⼄ㄆㄆㄝㄊ</rt></ruby> "orchid-leaf left-falling stroke (calligraphy stroke)"
 - <ruby>[[千葉]]<rt>ㄑㄝㄋ·⼄ㄆ</rt></ruby> "Chiba Prefecture"
+- <ruby>[[針葉樹]]<rt>ㄐㄧㄇ⼄ㄆㄙㄨ</rt></ruby> "a conifer, softwood tree"
+- <ruby>[[針葉林]]<rt>ㄐㄧㄇ⼄ㄆㄌㄧㄇ</rt></ruby> "the taiga, a conifer forest"
 

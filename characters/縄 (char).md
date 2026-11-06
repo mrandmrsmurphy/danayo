@@ -59,3 +59,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[縄]]<rt>ㄙㄜㄫ</rt></ruby> "rope, cord" (stand-in for 縄)
 - <ruby>[[沖縄]]<rt>ㄑㄨㄫㄙㄜㄫ</rt></ruby> "Okinawa Prefecture"
+- <ruby>[[縄結]]<rt>ㄙㄜㄫㄍㄝㄊ</rt></ruby> "a knot in rope or cord"

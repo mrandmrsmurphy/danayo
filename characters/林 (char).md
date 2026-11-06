@@ -59,6 +59,8 @@ boundedness: 40
 - <ruby>[[叢林]]<rt>ㄐㄛㄫㄌㄧㄇ</rt></ruby> "jungle; bush"
 - <ruby>[[貪林]]<rt>ㄊㄚㄇㄌㄧㄇ</rt></ruby> "greedy, avaricious" (uses 林 as Dan'a'yo stand-in for its alias 婪)
 - <ruby>[[吉林]]<rt>ㄍㄧㄊㄌㄧㄇ</rt></ruby> "Jilin"
+- <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby> "a rain forest"
+- <ruby>[[針葉林]]<rt>ㄐㄧㄇ⼄ㄆㄌㄧㄇ</rt></ruby> "the taiga, a conifer forest"
 
 ## Chengyu
 - <ruby>[[水泥叢林]]<rt>ㄙㄨㄋㄝㄧㄐㄛㄫㄌㄧㄇ</rt></ruby> "concrete jungle"

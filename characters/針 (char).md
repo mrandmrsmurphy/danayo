@@ -63,4 +63,6 @@ boundedness: 90
 - <ruby>[[針言]]<rt>ㄐㄧㄇ·ㄝㄋ</rt></ruby> "proverb, maxim"
 - <ruby>[[方針]]<rt>ㄈㄚㄫㄐㄧㄇ</rt></ruby> "policy; principle"
 - <ruby>[[懸針豎]]<rt>ㄏ⼔ㄋㄐㄧㄇㄙㄨ</rt></ruby> "hanging-needle vertical (calligraphy stroke)"
+- <ruby>[[針葉樹]]<rt>ㄐㄧㄇ⼄ㄆㄙㄨ</rt></ruby> "a conifer, softwood tree"
+- <ruby>[[針葉林]]<rt>ㄐㄧㄇ⼄ㄆㄌㄧㄇ</rt></ruby> "the taiga, a conifer forest"
 

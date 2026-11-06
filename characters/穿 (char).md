@@ -53,6 +53,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[穿]]<rt>ㄑㄝㄋ</rt></ruby> "penetrate, pierce, drill" (stand-in for 穿)
 - <ruby>[[穿山甲]]<rt>ㄑㄝㄋㄙㄚㄋㄍㄚㄆ</rt></ruby> "pangolin"
 - <ruby>[[穿孔机]]<rt>ㄑㄝㄋㄎㄛㄫㄍㄧㄜ</rt></ruby> "puncher, perforator, boring machine"
+- <ruby>[[穿孔]]<rt>ㄑㄝㄋㄎㄛㄫ</rt></ruby> "to bore, perforate"
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"

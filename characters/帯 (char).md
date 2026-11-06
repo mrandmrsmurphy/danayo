@@ -66,6 +66,7 @@ boundedness: 45
 - <ruby>[[声帯]]<rt>ㄙㄧㄫㄊㄚㄧ</rt></ruby> "vocal cords"
 - <ruby>[[磁帯]]<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby> "tape"
 - <ruby>[[糸帯]]<rt>ㄙㄚㄊㄚㄧ</rt></ruby> "a ribbon"
+- <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby> "a rain forest"
 
 ## Chengyu
 - <ruby>[[一衣帯水]]<rt>ㄧㄊ·ㄧㄜㄊㄚㄧㄙㄨ</rt></ruby> "close neighbors separated only by a narrow strait"

@@ -58,6 +58,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[瞳孔]]<rt>ㄉㄛㄫㄎㄛㄫ</rt></ruby> "pupil (of eye)"
 - <ruby>[[穿孔机]]<rt>ㄑㄝㄋㄎㄛㄫㄍㄧㄜ</rt></ruby> "puncher"
 - <ruby>[[孔雀]]<rt>ㄎㄛㄫㄐㄚㄎ</rt></ruby> "peacock"
+- <ruby>[[穿孔]]<rt>ㄑㄝㄋㄎㄛㄫ</rt></ruby> "to bore, perforate"
 
 ## Derived Characters
 - <ruby>[[吼 (char)|吼]]<rt>ㄏㄛㄨ</rt></ruby> "roar"

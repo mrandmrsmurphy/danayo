@@ -64,6 +64,8 @@ boundedness: 100
 - <ruby>[[引渡]]<rt>ㄧㄋㄉㄛ</rt></ruby> "extradition"
 - <ruby>[[索引]]<rt>ㄙㄚㄎ·ㄧㄋ</rt></ruby> "index"
 - <ruby>[[引用]]<rt>ㄧㄋ·⼄ㄫ</rt></ruby> "quotation"
+- <ruby>[[引力]]<rt>ㄧㄋㄌㄧㄎ</rt></ruby> "attraction, gravitation"
+- <ruby>[[吸引]]<rt>ㄏㄧㄆㄧㄋ</rt></ruby> "to attract, draw in"
 
 ## Chengyu
 - <ruby>[[招災引禍]]<rt>ㄑㄛㄨㄐㄚㄧㄧㄋㄏ⺢</rt></ruby> "invite disaster cause trouble"

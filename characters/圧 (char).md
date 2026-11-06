@@ -56,3 +56,5 @@ boundedness: 55
 - <ruby>[[圧]]<rt>ㄚㄊ</rt></ruby> "press; control" (stand-in for 圧)
 - <ruby>[[弾圧]]<rt>ㄉㄚㄋ·ㄚㄊ</rt></ruby> "subjugate, repress"
 - <ruby>[[鎮圧]]<rt>ㄑㄧㄋ·ㄚㄊ</rt></ruby> "suppression"
+- <ruby>[[圧力]]<rt>ㄚㄊㄌㄧㄎ</rt></ruby> "pressure"
+- <ruby>[[電圧]]<rt>ㄉㄝㄋㄚㄊ</rt></ruby> "voltage"

@@ -50,3 +50,4 @@ boundedness: 100
 
 ## Words
 - <ruby>[[浮]]<rt>ㄅㄨㄛ</rt></ruby> "float, waft" (stand-in for 浮)
+- <ruby>[[浮力]]<rt>ㄅㄨㄛㄌㄧㄎ</rt></ruby> "buoyancy"

@@ -6,12 +6,13 @@ related_domains:
   - "[[Food]]"
   - "[[Elements]]"
   - "[[Nature]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Plants
 
-Plants vocabulary covers the botanical world — trees, grasses, flowers, and crops — along with their parts (root, stem, leaf, seed), the specialized medicinal and dye plants documented elsewhere in this vault's herbal tradition, and the biome vocabulary describing where plants grow. Several very basic terms, most strikingly a bare word for "flower" itself, have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Plants vocabulary covers the botanical world — trees, grasses, flowers, and crops — along with their parts (root, stem, leaf, seed), the specialized medicinal and dye plants documented elsewhere in this vault's herbal tradition, and the biome vocabulary describing where plants grow. Flower, bush, weed, herb, nut, log, thorn, rain forest, taiga and tundra are all covered, with the few English words Dan'a'yo says by strategy (twig, hardwood, temperate forest) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -20,6 +21,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[草](../words/草.md)<rt>ㄑㄚㄨ</rt></ruby>: grass.
 - <ruby>[巻耳](../words/巻耳.md)<rt>ㄍ⼔ㄋㄋㄧ</rt></ruby>: field chickweed, field mouse-ear.
 - <ruby>[果実](../words/果実.md)<rt>ㄍ⺢ㄙㄧㄊ</rt></ruby>: fruit, berry — see [Food](../lexipedia/Food.md) for its own citation there.
+- <ruby>[堅果](../words/堅果.md)<rt>ㄍㄝㄋㄍ⺢</rt></ruby>: a nut — a hard-shelled dry fruit.
 - <ruby>[種子](../words/種子.md)<rt>ㄐㄛㄫㄐㄜ</rt></ruby>: a seed.
 - <ruby>[胞子](../words/胞子.md)<rt>ㄅ⼘ㄨㄐㄜ</rt></ruby>: a spore.
 - <ruby>[新芽](../words/新芽.md)<rt>ㄙㄧㄋ·ㄚ</rt></ruby>: a bud, sprout.
@@ -27,7 +29,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[葉](../words/葉.md)<rt>⼄ㄆ</rt></ruby>: a leaf.
 - <ruby>[豆](../words/豆.md)<rt>ㄉㄛㄨ</rt></ruby>: a bean.
 
-**Not yet coined**: a bare word for "flower" itself is a striking, genuine gap — every candidate found (below) is a compound bound to the character 花, which has no independent word page of its own. "Stick" (a fallen twig or plant stick) is also uncoined; the only candidates ([[杖]], [[棍棒]]) mean a cane/staff or a club/bludgeon, tool and weapon senses unrelated to plants. "Bush," "weed," "twig," "thorn" (singular — the plural "thorns" is covered, below), "nut," "herb," and "log" likewise have no dedicated word yet.
+**How Dan'a'yo says these**: "flower" is <ruby>[[草花]]<rt>ㄑㄚㄨㄏ⺢</rt></ruby> ("flowering plants, ornamental flowers") or <ruby>[[花卉]]<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>, since the character 花 is bound by design and its `stand_in` is 草花; "stick" is <ruby>[[木棒]]<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>; "bush" is <ruby>[[灌木]]<rt>ㄍ⺢ㄋㄇㄛㄎ</rt></ruby>; "weed" is <ruby>[[雑草]]<rt>ㄐㄚㄆㄑㄚㄨ</rt></ruby>; "herb" is <ruby>[[薬草]]<rt>⼘ㄎㄑㄚㄨ</rt></ruby>; "nut" is <ruby>[[堅果]]<rt>ㄍㄝㄋㄍ⺢</rt></ruby>; "log" is <ruby>[[原木]]<rt>⼔ㄋㄇㄛㄎ</rt></ruby>; and "thorn" is <ruby>[[荊棘]]<rt>ㄎ⼶ㄫㄍㄧㄎ</rt></ruby> (thorns, brambles), with the verb <ruby>[[刺]]<rt>ㄑㄧㄎ</rt></ruby> "to prick." "Twig" is said as a small branch, 小 and 枝, since 枝 is a bound character and the Chinese 枝條 is attested in Mandarin only.
 
 ## Intermediate (B1–B2)
 
@@ -59,15 +61,19 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 ### Trees & Woody Plants
 
 - <ruby>[樹木](../words/樹木.md)<rt>ㄙㄨ·ㄇㄛㄎ</rt></ruby>: a tree; plant — the compound form, alongside plain [[木]].
+- <ruby>[灌木](../words/灌木.md)<rt>ㄍ⺢ㄋㄇㄛㄎ</rt></ruby>: a bush, shrub — a low woody plant with several stems; the X木 form for woody plants.
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree.
+- <ruby>[原木](../words/原木.md)<rt>⼔ㄋㄇㄛㄎ</rt></ruby>: a log — the unprocessed trunk, before it is sawn into lumber.
 - <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>: a palm tree.
 - <ruby>[棗椰](../words/棗椰.md)<rt>ㄐㄚㄨ⼘</rt></ruby>: the date palm (Phoenix dactylifera) — a specific palm species, beside the general [[棕枝]] "palm tree."
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
 - <ruby>[松](../words/松.md)<rt>ㄙ⼄ㄫ</rt></ruby>: pine, fir — the evergreen conifer of longevity and steadfastness (松柏, "pine and cypress"), beside [[柏]].
+- <ruby>[針葉樹](../words/針葉樹.md)<rt>ㄐㄧㄇ⼄ㄆㄙㄨ</rt></ruby>: a conifer, softwood tree — pine, cedar and the like.
+- <ruby>[針葉林](../words/針葉林.md)<rt>ㄐㄧㄇ⼄ㄆㄌㄧㄇ</rt></ruby>: the taiga, a conifer forest — the cold northern forest belt.
 - <ruby>[柳](../words/柳.md)<rt>ㄌ⼜</rt></ruby>: willow — the slender-branched tree of waterside and spring.
 - <ruby>[柿木](../words/柿木.md)<rt>ㄙㄜ·ㄇㄛㄎ</rt></ruby>: the Japanese persimmon tree (Diospyros kaki), the stand-in for the bound character 柿.
 - <ruby>[柏](../words/柏.md)<rt>ㄅ⼘ㄎ</rt></ruby>: cypress, cedar — evergreen conifer of graveyards and longevity (松柏).
-- <ruby>[檀木](../words/檀木.md)<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby>: sandalwood — a specific hardwood tree species, not a generic word for "hardwood" (which remains uncoined, alongside "softwood").
+- <ruby>[檀木](../words/檀木.md)<rt>ㄉㄚㄋㄇㄛㄎ</rt></ruby>: sandalwood — a specific hardwood tree species, not a generic word for "hardwood" (the Chinese 硬木 is attested in Mandarin only, so it is not coined); the "softwood" trees are <ruby>[[針葉樹]]<rt>ㄐㄧㄇ⼄ㄆㄙㄨ</rt></ruby>, the conifers.
 - <ruby>[檀香](../words/檀香.md)<rt>ㄉㄚㄋㄏ⼘ㄫ</rt></ruby>: sandalwood as a fragrant material — the aromatic heartwood and incense, as against [[檀木]], the tree and its wood.
 - <ruby>[桑木](../words/桑木.md)<rt>ㄙㄚㄫㄇㄛㄎ</rt></ruby>: a mulberry tree.
 - <ruby>[朴木](../words/朴木.md)<rt>ㄆㄚㄎㄇㄛㄎ</rt></ruby>: a hackberry.
@@ -97,12 +103,15 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[桜](../words/桜.md)<rt>ㄚㄫ</rt></ruby>: cherry blossom — the flower (and by extension the flowering cherry tree) celebrated in spring, beside [[桜桃]] "a cherry" (the fruit) on [Food](../lexipedia/Food.md).
 - <ruby>[梅花](../words/梅花.md)<rt>ㄇㄛㄧㄏ⺢</rt></ruby>: plum blossom — the winter-flowering plum flower, beside [[桜]] "cherry blossom"; the fruit and tree is [[実梅]].
 - <ruby>[草花](../words/草花.md)<rt>ㄑㄚㄨㄏ⺢</rt></ruby>: flowering plants, ornamental flowers.
+- <ruby>[木棒](../words/木棒.md)<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>: a stick, a plain wooden rod — see Shape.
+- <ruby>[雑草](../words/雑草.md)<rt>ㄐㄚㄆㄑㄚㄨ</rt></ruby>: a weed — a plant growing where it is not wanted.
 - <ruby>[花卉](../words/花卉.md)<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby>: flowers and plants, collectively.
 - <ruby>[盆栽](../words/盆栽.md)<rt>ㄆㄨㄋㄐㄚㄧ</rt></ruby>: bonsai, a potted dwarf tree — the art of growing miniature trees in shallow trays; the Chinese penzai is the historical source of the Japanese loanword "bonsai", attested across Mandarin, Cantonese, Japanese and Korean.
 
 ### Medicinal & Dye Plants
 
 - <ruby>[人参](../words/人参.md)<rt>ㄋㄧㄋㄙㄚㄇ</rt></ruby>: ginseng — named for the forked root's resemblance to a man's legs.
+- <ruby>[薬草](../words/薬草.md)<rt>⼘ㄎㄑㄚㄨ</rt></ruby>: a herb, medicinal herb — a plant used as medicine.
 - <ruby>[白及](../words/白及.md)<rt>ㄅㄚㄎㄍㄨㄆ</rt></ruby>: bai ji, a Chinese ground orchid (medicinal).
 - <ruby>[蒼朮](../words/蒼朮.md)<rt>ㄑ⺢ㄫㄙㄨㄊ</rt></ruby>: cangzhu, atractylodes rhizome (medicinal).
 - <ruby>[句杞](../words/句杞.md)<rt>ㄍㄨ·ㄎㄧ</rt></ruby>: wolfberry, goji — headword 句 stands in for the real 枸.
@@ -132,15 +141,18 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 ## Advanced / Specialized (C1+)
 
 - <ruby>[根源](../words/根源.md)<rt>ㄍㄜㄋ⼔ㄋ</rt></ruby>: root, source, origin — the figurative/abstract register, distinct from [[根]]'s plain literal root. See [Existence](../lexipedia/Existence.md) and [Movement](../lexipedia/Movement.md) for their own citations there.
-- <ruby>[毒](../words/毒.md)<rt>ㄉㄛㄎ</rt></ruby>: poisonous — documented only as an adjective; "poison" the noun has no dedicated word, a gap this page shares with [[Food]]'s own flagged list.
+- <ruby>[毒](../words/毒.md)<rt>ㄉㄛㄎ</rt></ruby>: poisonous — documented only as an adjective; "poison" the noun has no dedicated word, the noun "poison" is <ruby>[[毒薬]]<rt>ㄉㄛㄎ⼘ㄎ</rt></ruby>.
+- <ruby>[毒薬](../words/毒薬.md)<rt>ㄉㄛㄎ⼘ㄎ</rt></ruby>: poison, a poisonous drug — the noun, beside the adjective 毒.
 
 ## Climate & Biomes
 
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna, meadow — one broad word covering the whole open-grassland cluster. See [Nature](../lexipedia/Nature.md) for its own citation there.
+- <ruby>[熱帯雨林](../words/熱帯雨林.md)<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby>: a tropical rain forest — dense forest in hot, wet lands.
+- <ruby>[苔原](../words/苔原.md)<rt>ㄊㄛㄧ⼔ㄋ</rt></ruby>: the tundra — the cold, treeless plain of moss and lichen.
 - <ruby>[沙漠](../words/沙漠.md)<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>: a desert. See [Nature](../lexipedia/Nature.md) for its own citation there.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: lawn, grassland, meadow — a smaller-scale patch than [[草原]]'s large-scale plain, a distinction by size rather than by climate. See [Nature](../lexipedia/Nature.md) for its own citation there.
 
-**Not yet coined**: "rain forest," "temperate forest," "Mediterranean" (as a biome/climate adjective), "taiga," and "tundra" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "rain forest" is <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby>; "taiga" is <ruby>[[針葉林]]<rt>ㄐㄧㄇ⼄ㄆㄌㄧㄇ</rt></ruby>, the conifer forest; "tundra" is <ruby>[[苔原]]<rt>ㄊㄛㄧ⼔ㄋ</rt></ruby>; "Mediterranean" (as a climate or biome) is <ruby>[[地中海]]<rt>ㄉㄧㄜㄐㄨㄫㄏㄚㄧ</rt></ruby> as a modifier; and "temperate forest" is said as a phrase, 温帯 and <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby>, with no word of its own.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -171,13 +183,13 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 
 ## Semantic Range Notes
 
-**The missing bare word for "flower" is the most striking gap on this page.** Every plant vocabulary this vault has otherwise developed in real depth — trees, grasses, crops, medicinal herbs — yet the single most basic plant-part word in English has no independent Dan'a'yo word: 花 itself has no word page, appearing only bound inside compounds ([[花梗]] "flower stalk," [[花弁]] "petal," [[花卉]] "flowers and plants," [[草花]] "flowering plants"). This mirrors the pattern already noted on [[Physics]], where foundational vocabulary (energy, gravity, mass) turned out to be genuinely uncoined rather than merely hard to find.
+**"Flower" is a bound character on purpose, and <ruby>[[草花]]<rt>ㄑㄚㄨㄏ⺢</rt></ruby> is its word.** The character 花 has no word page of its own; its `stand_in` is <ruby>[[草花]]<rt>ㄑㄚㄨㄏ⺢</rt></ruby>, "flowering plants, ornamental flowers," and it appears in compounds such as <ruby>[[花梗]]<rt>ㄏ⺢ㄍㄚㄫ</rt></ruby> (flower stalk), <ruby>[[花弁]]<rt>ㄏ⺢ㄅ⼘ㄋ</rt></ruby> (petal) and <ruby>[[花卉]]<rt>ㄏ⺢ㄏㄨㄧ</rt></ruby> (flowers and plants). This is the same pattern as other bound characters in the vault, not a gap.
 
-**"Stick" has no plant-sense word; the candidates that surfaced are false matches.** [[杖]] ("staff, stick") and [[棍棒]] ("stick, bludgeon") both gloss "stick" in their `english` field, but both mean a cane/walking-staff or a club/cudgel — tool and weapon senses, better suited to an Objects or Conflict domain, not a fallen twig or plant stick.
+**"Stick" is <ruby>[[木棒]]<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>, a plain wooden rod**, and the two candidates that glossed it are the wrong sense: <ruby>[[杖]]<rt>ㄐㄚㄫ</rt></ruby> ("staff, stick") is a cane or walking staff, and <ruby>[[棍棒]]<rt>ㄏㄛㄋㄅㄚㄫ</rt></ruby> is a club or bludgeon, tool and weapon senses, not a fallen twig or plant stick.
 
 **"Grain" as the living plant and "grain" as the harvested crop are genuinely different words, not an undocumented duplicate.** [[禾]] is the cereal plant itself (the 象形 radical depicting a stalk bent under its ripening head); [[穀物]] is the harvested crop as a foodstuff or commodity. The distinction is real and documented on each word's own page, not an oversight.
 
-**"Poison" the noun and "poisonous" the adjective are not both covered.** [[毒]] is documented only as the adjective; no independent noun "poison" exists in this vault, a gap this page shares with [[Food]]'s own already-flagged list of missing terms (which separately notes "poison" as absent there too).
+**"Poison" the noun and "poisonous" the adjective are now both covered**: <ruby>[[毒]]<rt>ㄉㄛㄎ</rt></ruby> is the adjective "poisonous," and <ruby>[[毒薬]]<rt>ㄉㄛㄎ⼘ㄎ</rt></ruby> is the noun "poison."
 
 ## See Also
 

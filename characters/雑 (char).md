@@ -56,3 +56,4 @@ boundedness: 60
 - <ruby>[[雑誌]]<rt>ㄐㄚㄆㄐㄧ</rt></ruby> "magazine, periodical"
 - <ruby>[[雑交]]<rt>ㄐㄚㄆㄍ⼄ㄨ</rt></ruby> "hybridize, crossbreed"
 - <ruby>[[雑言語]]<rt>ㄐㄚㄆㄝㄋ⼄</rt></ruby> "a pidgin, mixed language"
+- <ruby>[[雑草]]<rt>ㄐㄚㄆㄑㄚㄨ</rt></ruby> "a weed"

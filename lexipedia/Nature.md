@@ -6,7 +6,8 @@ related_domains:
   - "[[Elements]]"
   - "[[Astronomy]]"
   - "[[Plants]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Nature
@@ -35,6 +36,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[緑洲](../words/緑洲.md)<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby>: an oasis.
 - <ruby>[農民](../words/農民.md)<rt>ㄋㄛㄫㄇㄧㄋ</rt></ruby>: a farmer, peasant.
 - <ruby>[田野](../words/田野.md)<rt>ㄉㄝㄋ·⼘</rt></ruby>: a field — open countryside, not a sports field.
+- <ruby>[荒野](../words/荒野.md)<rt>ㄏ⺢ㄫ⼘</rt></ruby>: the wilderness, the wild — untamed, empty land away from towns and farms.
 - <ruby>[桑田](../words/桑田.md)<rt>ㄙㄚㄫㄉㄝㄋ</rt></ruby>: a mulberry plantation — a field planted with mulberry (for silkworm leaves), a cultivated field rather than open countryside like [[田野]].
 - <ruby>[肥沃](../words/肥沃.md)<rt>ㄅㄨㄧㄛㄎ</rt></ruby>: fertile, irrigated — 肥 "fertile" + 沃 "watered."
 - <ruby>[丘](../words/丘.md)<rt>ㄎ⼜</rt></ruby>: a hill.
@@ -51,7 +53,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[露](../words/露.md)<rt>ㄌㄛ</rt></ruby>: dew.
 - <ruby>[颯](../words/颯.md)<rt>ㄙㄚㄆ</rt></ruby>: the sound of wind, a gale — by extension, a brisk, vigorous manner (颯爽, "dashing, spirited").
 
-**Not yet coined or excluded as false matches**: "cave" and "garden" have Intermediate-tier words only (see below); "yard" (a home's own plot of land), "plow," "sow," "crop," and "sleet" all have no dedicated word. [[碼]] also glosses "yard," but only as the Western length unit (see [[Measurement]]), not a plot of land. "Hail" (the weather) is [[雨包]] (Intermediate, below); [[歓呼]], which also glosses "hail," means to cheer or greet (as in "hail Caesar"), not the weather. "Field" (open countryside) is [[田野]] (above); [[球場]], which also glosses "field," means a sports field or stadium, an unrelated sense. "Wild" (untamed wilderness) has no dedicated word; [[奔放]], which glosses "wild," describes an unrestrained *personality*, not untamed land. "Plain" (the landform) is [[平原]] (Intermediate, below); [[草原]] covers the closely related savanna/steppe sense; [[普通]] and [[清淡]], which also gloss "plain," mean "ordinary" and "bland" respectively, unrelated senses.
+**How Dan'a'yo says these, and what was excluded**: "cave" and "garden" have Intermediate-tier words only (see below); "plow" is <ruby>[[耕種]]<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby> (to plow, sow, cultivate), "sow" is <ruby>[[播種]]<rt>ㄅㄚㄐㄛㄫ</rt></ruby>, and "crop" is <ruby>[[農作物]]<rt>ㄋㄛㄫㄐㄚㄎㄇㄨㄊ</rt></ruby> (the farm product) or <ruby>[[収穫]]<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby> (the harvest); "yard" (a home's own plot of land) is <ruby>[[中庭]]<rt>ㄐㄨㄫㄉㄝㄫ</rt></ruby> (a courtyard) or <ruby>[[庭園]]<rt>ㄉㄝㄫㄛㄋ</rt></ruby> (a garden), the Chinese 庭院 being attested in Mandarin only; and "sleet" is said as a phrase of <ruby>[[雨]]<rt>ㄨ</rt></ruby> and <ruby>[[雪]]<rt>ㄙ⼔ㄊ</rt></ruby>, the Chinese 雨夾雪 needing a character (夾) the vault lacks. [[碼]] also glosses "yard," but only as the Western length unit (see [[Measurement]]), not a plot of land. "Hail" (the weather) is [[雨包]] (Intermediate, below); [[歓呼]], which also glosses "hail," means to cheer or greet (as in "hail Caesar"), not the weather. "Field" (open countryside) is [[田野]] (above); [[球場]], which also glosses "field," means a sports field or stadium, an unrelated sense. "Wild" (untamed wilderness) is <ruby>[[荒野]]<rt>ㄏ⺢ㄫ⼘</rt></ruby>; [[奔放]], which glosses "wild," describes an unrestrained *personality*, not untamed land. "Plain" (the landform) is [[平原]] (Intermediate, below); [[草原]] covers the closely related savanna/steppe sense; [[普通]] and [[清淡]], which also gloss "plain," mean "ordinary" and "bland" respectively, unrelated senses.
 
 ## Intermediate (B1–B2)
 
@@ -59,7 +61,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[高峰](../words/高峰.md)<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>: a peak, summit — the top of a mountain, and figuratively the apex of anything; [[山]] is the mountain itself.
 - <ruby>[地形](../words/地形.md)<rt>ㄉㄧㄜㄏㄝㄫ</rt></ruby>: terrain, topography, landform.
-- <ruby>[山岡](../words/山岡.md)<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>: a hill, hillock — an undocumented near-duplicate of [[丘]].
+- <ruby>[山岡](../words/山岡.md)<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby>: a hill, hillock — the doubled "mountain plus hill" compound, the stand-in for 岡 and a common Japanese surname and place name, where [[丘]] is the plain "hill."
 - <ruby>[山地](../words/山地.md)<rt>ㄙㄚㄋㄉㄧㄜ</rt></ruby>: mountain, mountain area.
 - <ruby>[山岳](../words/山岳.md)<rt>ㄙㄚㄋ·ㄚㄎ</rt></ruby>: a mountain peak.
 - <ruby>[山嶺](../words/山嶺.md)<rt>ㄙㄚㄋㄌㄧㄫ</rt></ruby>: a ridge of hills, mountain range.
@@ -73,7 +75,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[平原](../words/平原.md)<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>: a plain, large flat land.
 - <ruby>[高原](../words/高原.md)<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>: a plateau.
 - <ruby>[丘陵](../words/丘陵.md)<rt>ㄎ⼜ㄌㄜㄫ</rt></ruby>: hills, rolling hills.
-- <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].
+- <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — a smaller grassy patch, where [[草原]] is the large-scale grassland, prairie or steppe; Japanese marks the split as one of scale.
 - <ruby>[陸地](../words/陸地.md)<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby>: land, dry land, landmass — land as opposed to sea, distinct from [[土地]]'s ground/soil sense.
 - <ruby>[陸上](../words/陸上.md)<rt>ㄌㄨㄎㄙ⼘ㄫ</rt></ruby>: on land, ashore, overland — set against the water.
 - <ruby>[地](../words/地.md)<rt>ㄉㄧㄜ</rt></ruby>: land — the bound, classical form.
@@ -105,7 +107,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 ### Caves
 
 - <ruby>[洞穴](../words/洞穴.md)<rt>ㄉㄛㄫㄏ⼔ㄊ</rt></ruby>: a hole, cave.
-- <ruby>[洞窟](../words/洞窟.md)<rt>ㄉㄛㄫㄎㄛㄊ</rt></ruby>: a cave, cavern — an undocumented near-duplicate of [[洞穴]].
+- <ruby>[洞窟](../words/洞窟.md)<rt>ㄉㄛㄫㄎㄛㄊ</rt></ruby>: a cave, cavern — the large, general cave, the everyday word in all five languages, where [[洞穴]] is, in Korean, a smaller opening or hollow in a cliff.
 - <ruby>[窟](../words/窟.md)<rt>ㄎㄛㄊ</rt></ruby>: a cavern — the bound, classical form.
 
 ### Farming
@@ -120,6 +122,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[化学肥料](../words/化学肥料.md)<rt>ㄏ⺢ㄏㄚㄎㄅㄨㄧㄌ⼘ㄨ</rt></ruby>: chemical fertilizer.
 - <ruby>[壅](../words/壅.md)<rt>ㄛㄫ</rt></ruby>: to bank up with earth, mound soil around (a plant) — also, more generally, "to obstruct, block up" (壅塞, "congestion, blockage").
 - <ruby>[収穫](../words/収穫.md)<rt>ㄙㄨㄛㄏ⺢ㄎ</rt></ruby>: a harvest, crop, yield — see [[Food]] for its own citation there.
+- <ruby>[農作物](../words/農作物.md)<rt>ㄋㄛㄫㄐㄚㄎㄇㄨㄊ</rt></ruby>: a crop, farm produce — the plant grown for food or sale.
 - <ruby>[採取](../words/採取.md)<rt>ㄑㄚㄧㄑㄛㄨ</rt></ruby>: to pick, harvest, collect — see [[Containers]] for its own citation there.
 
 ### Garden & Cultivated Land
@@ -128,17 +131,17 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[園丁](../words/園丁.md)<rt>ㄛㄋㄉㄝㄫ</rt></ruby>: a gardener.
 - <ruby>[園芸](../words/園芸.md)<rt>ㄛㄋ·ㄝ</rt></ruby>: gardening, horticulture.
 - <ruby>[薮沢](../words/薮沢.md)<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>: a marsh, swamp.
-- <ruby>[沼沢](../words/沼沢.md)<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>: a swamp, bog — an undocumented near-duplicate of [[薮沢]].
+- <ruby>[沼沢](../words/沼沢.md)<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby>: a swamp, bog — wet, boggy ground, where [[薮沢]] is a marsh or a lake overgrown with water plants.
 
 ## Advanced / Specialized (C1+)
 
 - <ruby>[性質](../words/性質.md)<rt>ㄙㄧㄫㄐㄧㄊ</rt></ruby>: nature, character, disposition — the abstract sense, "the nature of the problem," distinct from [[自然]]'s physical world.
-- <ruby>[質素](../words/質素.md)<rt>ㄐㄧㄊㄙㄛ</rt></ruby>: essence, nature, quality — an undocumented near-duplicate of [[性質]] in this sense.
+- <ruby>[質素](../words/質素.md)<rt>ㄐㄧㄊㄙㄛ</rt></ruby>: essence, quality — the stand-in word for the character 質; the Chinese and Japanese word 質素 itself means "plain, simple," so its "essence, nature" gloss here is the character's sense, and [[性質]] is the everyday word for nature or character.
 - <ruby>[地球](../words/地球.md)<rt>ㄉㄧㄜㄍ⼜</rt></ruby>: the earth, globe, world — see [[Astronomy]] for its own citation there; the planet specifically, distinct from [[世界]]'s human/social world.
 - <ruby>[万邦](../words/万邦.md)<rt>ㄇㄛㄋㄅㄚㄫ</rt></ruby>: the world, all the countries, myriad regions — the collective-political sense (all nations), a literary register distinct from [[世界]]'s everyday "world."
 - <ruby>[津波](../words/津波.md)<rt>ㄐㄧㄋㄅㄚ</rt></ruby>: a tsunami.
 - <ruby>[地震](../words/地震.md)<rt>ㄉㄧㄜㄐㄧㄋ</rt></ruby>: an earthquake.
-- <ruby>[海粛](../words/海粛.md)<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby>: a tsunami — an undocumented near-duplicate of [[津波]], using a phonetic-substitute graph (粛 standing in for 嘯) for the real word 海嘯.
+- <ruby>[海粛](../words/海粛.md)<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby>: a tsunami — the Chinese-form spelling beside Japanese [[津波]], using a phonetic-substitute graph (粛 standing in for 嘯) for the real word 海嘯.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -159,7 +162,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 **"Nature" itself is two unrelated concepts in Dan'a'yo, following Chinese**: [[自然]] (Core) is nature in the physical, environmental sense — mountains, forests, weather, the world outside human construction. [[性質]]/[[質素]] (Advanced) mean nature in the abstract sense — the essential character or quality of a thing, as in "the nature of the problem." English uses one word for both; this vault, like its source languages, does not.
 
-**Undocumented near-duplicates cluster around landforms and caves**: [[丘]]/[[山岡]] ("hill"), [[草原]]/[[草地]] ("grassland/meadow"), and [[洞穴]]/[[洞窟]] ("cave") are each pairs glossing the same meaning with no distinction recorded in either word's own Notes — the same pattern already documented on [[Mind]] and [[Movement]], treated the same way [[親族]]/[[親戚]] are on [[Kinship]]: flagged as likely genuine duplicates, not silently invented distinctions.
+**Several pairs split by scale or register, not by meaning**: <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> is the plain "hill" and <ruby>[[山岡]]<rt>ㄙㄚㄋㄍㄚㄫ</rt></ruby> the doubled "hill, hillock" compound; <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby> is a small grassy patch and <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby> the large-scale grassland; <ruby>[[洞窟]]<rt>ㄉㄛㄫㄎㄛㄊ</rt></ruby> is the large, general cave and <ruby>[[洞穴]]<rt>ㄉㄛㄫㄏ⼔ㄊ</rt></ruby> the smaller hollow in a cliff (a distinction Korean draws); <ruby>[[沼沢]]<rt>ㄐㄛㄨㄉㄚㄎ</rt></ruby> is a swamp or bog and <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby> a marsh; <ruby>[[質素]]<rt>ㄐㄧㄊㄙㄛ</rt></ruby> is the stand-in for the character 質, and <ruby>[[性質]]<rt>ㄙㄧㄫㄐㄧㄊ</rt></ruby> the everyday word for nature or character; and <ruby>[[海粛]]<rt>ㄏㄚㄧㄙㄨㄎ</rt></ruby> and <ruby>[[津波]]<rt>ㄐㄧㄋㄅㄚ</rt></ruby> are the Chinese-form and Japanese-form words for a tsunami.
 
 **"World" splits three ways by register and scope**: [[世界]] is the plain, everyday word — the human and social world. [[地球]] is the planet specifically, a scientific/astronomical framing shared with [[Astronomy]]. [[万邦]] is a literary, almost archaic collective — "the myriad nations" — used where [[世界]] would sound too casual.
 

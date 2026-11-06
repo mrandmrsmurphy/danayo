@@ -67,6 +67,7 @@ boundedness: 80
 - <ruby>[[着作]]<rt>ㄐ⺢ㄎㄐㄚㄎ</rt></ruby> "written work"
 - <ruby>[[創作]]<rt>ㄑ⺢ㄫㄐㄚㄎ</rt></ruby> "creative work"
 - <ruby>[[作曲]]<rt>ㄐㄚㄎㄎ⼄ㄎ</rt></ruby> "composition"
+- <ruby>[[農作物]]<rt>ㄋㄛㄫㄐㄚㄎㄇㄨㄊ</rt></ruby> "a crop, farm produce"
 
 ## Chengyu
 - <ruby>[[六作一止]]<rt>ㄌㄨㄎㄐㄚㄎ·ㄧㄊㄐㄧ</rt></ruby> "Six work, one rest"

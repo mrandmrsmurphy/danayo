@@ -6,12 +6,13 @@ related_domains:
   - "[[Conflict]]"
   - "[[Body]]"
   - "[[Measurement]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Physical
 
-Physical vocabulary covers the basic manual actions performed on objects — cutting, binding, joining, breaking, striking — the vocabulary of working with hands and tools rather than the specialized violence of [[Conflict]] or the specialized crafts this action vocabulary ultimately serves.
+Physical vocabulary covers the basic manual actions performed on objects — cutting, binding, joining, breaking, striking — the vocabulary of working with hands and tools rather than the specialized violence of [[Conflict]] or the specialized crafts this action vocabulary ultimately serves. Attract, bore, mar, snap, knot and a spider's web are all covered, with the few English words Dan'a'yo says by strategy (tear, rip) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -19,18 +20,20 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[打撃](../words/打撃.md)<rt>ㄉㄚㄍㄝㄎ</rt></ruby>: to strike, beat, hit, percuss — see [[Conflict]] for its own citation there.
 - <ruby>[束縛](../words/束縛.md)<rt>ㄙ⼄ㄎㄈㄚㄎ</rt></ruby>: to tie, bind.
 - <ruby>[破](../words/破.md)<rt>ㄆㄜ</rt></ruby>: to rend, break.
+- <ruby>[折断](../words/折断.md)<rt>ㄐㄝㄊㄉ⺢ㄋ</rt></ruby>: to snap, break off — breaking something stiff by bending until it parts.
 - <ruby>[抜](../words/抜.md)<rt>ㄆㄚㄊ</rt></ruby>: to pull out, extract — drawing something up or out of where it is fixed; its extended sense "to select" is carried by [[選抜]] and [[抜擢]], on [Government](../lexipedia/Government.md).
 - <ruby>[切](../words/切.md)<rt>ㄑㄝㄊ</rt></ruby>: to cut, mince, carve.
 - <ruby>[分](../words/分.md)<rt>ㄅㄨㄋ</rt></ruby>: to divide — see [[Numbers]] for its own citation there.
 - <ruby>[傷害](../words/傷害.md)<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby>: to wound, injure, hurt, assault — see [[Law]] and [[Life]] for their own citations there.
 - <ruby>[連接](../words/連接.md)<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby>: to link, join, connect.
+- <ruby>[吸引](../words/吸引.md)<rt>ㄏㄧㄆㄧㄋ</rt></ruby>: to attract, draw in — as a magnet draws iron or a sight draws the eye.
 - <ruby>[敲](../words/敲.md)<rt>ㄎ⼘ㄨ</rt></ruby>: to knock, tap, rap.
 - <ruby>[混合](../words/混合.md)<rt>ㄏㄛㄋㄍㄛㄆ</rt></ruby>: to mix, blend, bundle.
 - <ruby>[合成](../words/合成.md)<rt>ㄍㄛㄆㄙㄧㄫ</rt></ruby>: synthesis; compound, composite.
 - <ruby>[附](../words/附.md)<rt>ㄅㄨ</rt></ruby>: to affix, adhere.
 - <ruby>[鞭打](../words/鞭打.md)<rt>ㄅ⼶ㄋㄉㄚ</rt></ruby>: to whip, flog, lash.
 
-**Not yet coined**: "attract," "bore" (to drill a hole), "mar," and "snap" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "attract" is <ruby>[[吸引]]<rt>ㄏㄧㄆㄧㄋ</rt></ruby>; "bore" (to drill a hole) is <ruby>[[穿孔]]<rt>ㄑㄝㄋㄎㄛㄫ</rt></ruby>; "mar" is <ruby>[[損傷]]<rt>ㄙㄛㄋㄙ⼘ㄫ</rt></ruby>, to damage; and "snap" is <ruby>[[折断]]<rt>ㄐㄝㄊㄉ⺢ㄋ</rt></ruby>, to break off by bending.
 
 ## Intermediate (B1–B2)
 
@@ -43,9 +46,10 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 ### Binding & Tying
 
-- <ruby>[紮](../words/紮.md)<rt>ㄐㄚㄊ</rt></ruby>: to tie, fasten, bind — an undocumented near-duplicate of [[束縛]].
+- <ruby>[紮](../words/紮.md)<rt>ㄐㄚㄊ</rt></ruby>: to tie, fasten, bind — the plain physical tying of a bundle or fastening, where [[束縛]] is to bind or restrain, also figuratively.
 - <ruby>[綴](../words/綴.md)<rt>ㄐ⼔ㄊ</rt></ruby>: to bind, stop — specifically bookbinding (binding pages), distinct from [[束縛]]'s general tying.
 - <ruby>[結](../words/結.md)<rt>ㄍㄝㄊ</rt></ruby>: to tie, join.
+- <ruby>[縄結](../words/縄結.md)<rt>ㄙㄜㄫㄍㄝㄊ</rt></ruby>: a knot in rope or cord — the physical knot.
 - <ruby>[折畳](../words/折畳.md)<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby>: to fold, folding — to bend something over on itself into a flatter, layered, smaller form; the stand-in for the bound character 折 in this sense.
 - <ruby>[締](../words/締.md)<rt>ㄊㄝㄧ</rt></ruby>: a connection, knot, conclusion — abstract, "tying up" a deal or agreement, not a literal knot in rope.
 
@@ -61,7 +65,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 
 ### Joining, Linking & Connecting
 
-- <ruby>[連結](../words/連結.md)<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby>: to connect, link, join, combine — an undocumented near-duplicate of [[連接]].
+- <ruby>[連結](../words/連結.md)<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby>: to connect, link, join, combine — also the noun "link" (a hyperlink), where [[連接]] is the plain verb "to connect."
 - <ruby>[接](../words/接.md)<rt>ㄐㄛㄆ</rt></ruby>: to contact, connect — see [[Society]] for its own citation there.
 - <ruby>[参入](../words/参入.md)<rt>ㄙㄚㄇㄋㄧㄆ</rt></ruby>: to enter, join — see [[Movement]] for its own citation there; market entry specifically.
 - <ruby>[参加](../words/参加.md)<rt>ㄙㄚㄇㄍㄚ</rt></ruby>: to participate, join, enter — see [[Society]] for its own citation there; joining an activity or group.
@@ -80,16 +84,18 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[刺](../words/刺.md)<rt>ㄑㄧㄎ</rt></ruby>: to stab, prick, sting.
 - <ruby>[錐子](../words/錐子.md)<rt>ㄐㄨㄧㄐㄜ</rt></ruby>: an awl — the small pointed hand tool for piercing starting-holes in leather, wood or cloth; the pricking of [[刺]] done by a tool; the stand-in for the bound character 錐.
 - <ruby>[掘](../words/掘.md)<rt>ㄍㄨㄊ</rt></ruby>: to dig, excavate.
+- <ruby>[穿孔](../words/穿孔.md)<rt>ㄑㄝㄋㄎㄛㄫ</rt></ruby>: to bore, perforate — to drill or pierce right through.
 - <ruby>[射出](../words/射出.md)<rt>ㄙ⼘ㄑㄨㄊ</rt></ruby>: to eject, emit, shoot out — forceful sending outward of light, liquid or a projectile; the stand-in for the bound character 射 (see also [[射精]]).
 - <ruby>[剝皮](../words/剝皮.md)<rt>ㄅㄛㄎㄅㄧ</rt></ruby>: to skin, peel, flay — see [[Food]] for its own citation there.
 
 ### Harm & Decay
 
 - <ruby>[残害](../words/残害.md)<rt>ㄐㄚㄋㄏㄚㄧ</rt></ruby>: damage, to harm.
+- <ruby>[損傷](../words/損傷.md)<rt>ㄙㄛㄋㄙ⼘ㄫ</rt></ruby>: to damage, mar; damage — to spoil by harm.
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, corrupt — see [[Life]] for its own citation there.
 - <ruby>[磨耗](../words/磨耗.md)<rt>ㄇㄚㄏㄚㄨ</rt></ruby>: wear, abrasion — the gradual wearing away of a material through friction, in a technical or engineering register (Japanese writes it 摩耗); not "to wear" clothing.
 
-**Not yet coined or excluded as false matches**: "tear" (ripping fabric) has no dedicated word; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) has no exact dedicated word — [[締]] (above) covers only the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" in the network sense is [[網絡]]; a spider's web is not separately coined. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" has no exact dedicated word, though [[破]] (above) covers general breaking/rending loosely.
+**How Dan'a'yo says these, and what was excluded**: "tear" (ripping fabric) has no dedicated word, since the Chinese 撕裂 needs a character (撕) the vault lacks, and <ruby>[[破]]<rt>ㄆㄜ</rt></ruby> (to rend, break) covers it loosely; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) is <ruby>[[縄結]]<rt>ㄙㄜㄫㄍㄝㄊ</rt></ruby>, where [[締]] (above) covers the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" in the network sense is [[網絡]], and a spider's web is <ruby>[[蜘蛛網]]<rt>ㄐㄧㄐㄨㄇㄚㄫ</rt></ruby>. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" is likewise carried by [[破]] (above), loosely.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -106,6 +112,16 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[鈍](../words/鈍.md)<rt>ㄉㄛㄋ</rt></ruby>: dull; not sharp.
 - <ruby>[除湿](../words/除湿.md)<rt>ㄐㄝㄧㄙㄧㄆ</rt></ruby>: dehumidify.
 - <ruby>[険](../words/険.md)<rt>ㄏㄝㄇ</rt></ruby>: precipitous.
+
+## Semantic Range Notes
+
+**<ruby>[[紮]]<rt>ㄐㄚㄊ</rt></ruby> and <ruby>[[束縛]]<rt>ㄙ⼄ㄎㄈㄚㄎ</rt></ruby> are two registers of "tie"**: <ruby>[[紮]]<rt>ㄐㄚㄊ</rt></ruby> is the plain physical tying or fastening of a bundle, and <ruby>[[束縛]]<rt>ㄙ⼄ㄎㄈㄚㄎ</rt></ruby> is to bind or restrain, which extends to binding in the figurative sense.
+
+**<ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> and <ruby>[[連結]]<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby> both mean "connect"**: <ruby>[[連接]]<rt>ㄌ⼶ㄋㄐㄛㄆ</rt></ruby> is the plain verb, and <ruby>[[連結]]<rt>ㄌ⼶ㄋㄍㄝㄊ</rt></ruby> adds the noun "link," including a hyperlink.
+
+**<ruby>[[折断]]<rt>ㄐㄝㄊㄉ⺢ㄋ</rt></ruby> is not <ruby>[[破]]<rt>ㄆㄜ</rt></ruby>**: <ruby>[[折断]]<rt>ㄐㄝㄊㄉ⺢ㄋ</rt></ruby> breaks a stiff thing by bending until it parts, as a branch or a bone, while <ruby>[[破]]<rt>ㄆㄜ</rt></ruby> is the broader rending and breaking, often by force.
+
+**Four "hurt" words grade the harm**: <ruby>[[傷害]]<rt>ㄙ⼘ㄫㄏㄚㄧ</rt></ruby> wounds a person, <ruby>[[損傷]]<rt>ㄙㄛㄋㄙ⼘ㄫ</rt></ruby> damages a thing, <ruby>[[残害]]<rt>ㄐㄚㄋㄏㄚㄧ</rt></ruby> harms or ruins, and <ruby>[[腐敗]]<rt>ㄆㄨㄅㄚㄧ</rt></ruby> is decay.
 
 ## See Also
 

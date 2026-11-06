@@ -59,6 +59,7 @@ boundedness: 90
 - <ruby>[[梅雨]]<rt>ㄇㄛㄧㄨ</rt></ruby> "East Asian rainy season; summer rain"
 - <ruby>[[雨包]]<rt>ㄨㄅ⼘ㄨ</rt></ruby> "hail"
 - <ruby>[[驟雨]]<rt>ㄙㄚㄨㄨ</rt></ruby> "sudden rain shower; downpour"
+- <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby> "a rain forest"
 
 ## Chengyu
 - <ruby>[[五風十雨]]<rt>ㄛㄈㄨㄫㄙㄧㄆ·ㄨ</rt></ruby> "favorable climate leading to prosperity"

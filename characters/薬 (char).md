@@ -68,3 +68,5 @@ Simplified Chinese form of 藥, with 约 for 樂. SKIP 2-3-6 (computed: EDRDG do
 - <ruby>[[炸薬]]<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby> "explosive"
 - <ruby>[[釉薬]]<rt>⼜ㄛ⼘ㄎ</rt></ruby> "glaze, enamel"
 - <ruby>[[麻薬]]<rt>ㄇㄚ⼘ㄎ</rt></ruby> "drugs, narcotic"
+- <ruby>[[薬草]]<rt>⼘ㄎㄑㄚㄨ</rt></ruby> "a herb, medicinal herb"
+- <ruby>[[毒薬]]<rt>ㄉㄛㄎ⼘ㄎ</rt></ruby> "poison, a poisonous drug"

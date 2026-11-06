@@ -55,3 +55,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[毒]]<rt>ㄉㄛㄎ</rt></ruby> "poisonous" (stand-in for 毒)
 - <ruby>[[悪毒]]<rt>ㄚㄎㄉㄛㄎ</rt></ruby> "malicious, vicious"
 - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby> "virus"
+- <ruby>[[毒薬]]<rt>ㄉㄛㄎ⼘ㄎ</rt></ruby> "poison, a poisonous drug"

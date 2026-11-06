@@ -65,3 +65,5 @@ boundedness: 90
 - <ruby>[[草屋]]<rt>ㄑㄚㄨㄛㄎ</rt></ruby> "thatched hut"
 - <ruby>[[草書]]<rt>ㄑㄚㄨㄙ⼄</rt></ruby> "cursive script"
 - <ruby>[[草鞋]]<rt>ㄑㄚㄨㄏ⼘ㄧ</rt></ruby> "straw sandal"
+- <ruby>[[薬草]]<rt>⼘ㄎㄑㄚㄨ</rt></ruby> "a herb, medicinal herb"
+- <ruby>[[雑草]]<rt>ㄐㄚㄆㄑㄚㄨ</rt></ruby> "a weed"

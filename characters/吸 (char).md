@@ -59,3 +59,4 @@ boundedness: 80
 - <ruby>[[呼吸器]]<rt>ㄏㄛㄏㄧㄆㄎㄧㄜ</rt></ruby> "respirator, ventilator"
 - <ruby>[[吸血鬼]]<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby> "vampire"
 - <ruby>[[吸金]]<rt>ㄏㄧㄆㄍㄧㄇ</rt></ruby> "samarium"
+- <ruby>[[吸引]]<rt>ㄏㄧㄆㄧㄋ</rt></ruby> "to attract, draw in"

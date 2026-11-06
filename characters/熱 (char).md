@@ -64,3 +64,4 @@ boundedness: 90
 - <ruby>[[猩紅熱]]<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby> "scarlet fever"
 - <ruby>[[熱望]]<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby> "fervent hope"
 - <ruby>[[熱中]]<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby> "enthusiasm"
+- <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby> "a rain forest"
