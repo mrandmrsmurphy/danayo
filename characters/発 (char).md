@@ -86,6 +86,7 @@ boundedness: 60
 - <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby> "motor, engine"
 - <ruby>[[発票]]<rt>ㄈㄚㄊㄆ⼘ㄨ</rt></ruby> "an invoice, receipt"
 - <ruby>[[蒸発]]<rt>ㄐㄧㄫㄈㄚㄊ</rt></ruby> "to evaporate; evaporation"
+- <ruby>[[発光]]<rt>ㄈㄚㄊㄎ⺢ㄫ</rt></ruby> "to emit light, shine"
 
 ## Chengyu
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"

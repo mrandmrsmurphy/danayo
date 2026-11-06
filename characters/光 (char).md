@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[光年]]<rt>ㄎ⺢ㄫㄋㄝㄋ</rt></ruby> "light-year"
 - <ruby>[[光盤]]<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby> "CD, optical disc"
 - <ruby>[[激光]]<rt>ㄍㄝㄎㄎ⺢ㄫ</rt></ruby> "laser"
+- <ruby>[[発光]]<rt>ㄈㄚㄊㄎ⺢ㄫ</rt></ruby> "to emit light, shine"
 
 ## Chengyu
 - <ruby>[[電光石火]]<rt>ㄉㄝㄋㄎ⺢ㄫㄙㄝㄎㄏ⺢</rt></ruby> "gone in a flash, in the blink of an eye"

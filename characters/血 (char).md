@@ -55,6 +55,7 @@ boundedness: 80
 - <ruby>[[吸血鬼]]<rt>ㄏㄧㄆㄏ⼔ㄊㄍㄨㄧ</rt></ruby> "vampire"
 - <ruby>[[輸血]]<rt>ㄙㄨㄇㄏ⼔ㄊ</rt></ruby> "transfuse blood"
 - <ruby>[[血管]]<rt>ㄏ⼔ㄊㄍ⺢ㄋ</rt></ruby> "blood vessel"
+- <ruby>[[壊血病]]<rt>ㄏ⺢ㄧㄏ⼔ㄊㄅ⼶ㄫ</rt></ruby> "scurvy"
 
 ## Chengyu
 - <ruby>[[血誓盟約]]<rt>ㄏ⼔ㄊㄙㄝ·ㄇ⼶ㄫ⼘ㄎ</rt></ruby> "A covenant in blood, the blood of the covenant"

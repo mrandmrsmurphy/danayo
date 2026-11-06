@@ -7,7 +7,8 @@ related_domains:
   - "[[Society]]"
   - "[[Body]]"
   - "[[Emotions]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Love
@@ -26,12 +27,19 @@ Love vocabulary covers romantic and affectionate love — distinct from the fami
 - <ruby>[愛人](../words/愛人.md)<rt>ㄚㄧㄋㄧㄋ</rt></ruby>: lover, partner — see Semantic Range Notes for a real four-way cross-linguistic divergence this word papers over.
 - <ruby>[愛女](../words/愛女.md)<rt>ㄚㄧㄋㄜ</rt></ruby>: girlfriend.
 - <ruby>[愛男](../words/愛男.md)<rt>ㄚㄧㄋㄚㄇ</rt></ruby>: boyfriend.
+- <ruby>[恋人](../words/恋人.md)<rt>ㄌㄝㄋㄋㄧㄋ</rt></ruby>: the lovers — the two people who love each other, a couple in love.
+- <ruby>[情人](../words/情人.md)<rt>ㄑㄧㄫㄋㄧㄋ</rt></ruby>: a sweetheart — someone dear to one, a beloved.
+- <ruby>[親愛](../words/親愛.md)<rt>ㄑㄧㄋㄚㄧ</rt></ruby>: dear, beloved; see [Valuation](../lexipedia/Valuation.md) for its own citation there.
 
 ## Intermediate (B1–B2)
 
 ### Committed & Marital Love
 
 - <ruby>[恩愛](../words/恩愛.md)<rt>ㄜㄋ·ㄚㄧ</rt></ruby>: love — specifically marital or mutual love, deep affection paired with kindness.
+- <ruby>[結婚](../words/結婚.md)<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>: to marry; marriage — see [Kinship](../lexipedia/Kinship.md) for its own citation there.
+- <ruby>[婚約](../words/婚約.md)<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby>: an engagement, a betrothal — see [Kinship](../lexipedia/Kinship.md).
+- <ruby>[夫婦](../words/夫婦.md)<rt>ㄈㄜㄅ⼜</rt></ruby>: husband and wife, a married couple — see [Kinship](../lexipedia/Kinship.md).
+- <ruby>[離婚](../words/離婚.md)<rt>ㄌㄝㄧㄏㄛㄋ</rt></ruby>: divorce — see [Kinship](../lexipedia/Kinship.md).
 
 ### Companionship & Loyalty
 
@@ -48,6 +56,25 @@ Love vocabulary covers romantic and affectionate love — distinct from the fami
 - <ruby>[抱擁](../words/抱擁.md)<rt>ㄅㄚㄨㄛㄫ</rt></ruby>: an embrace, a hug (physical).
 - <ruby>[接吻](../words/接吻.md)<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>: a kiss.
 - <ruby>[佳人](../words/佳人.md)<rt>ㄍ⼘ㄧㄋㄧㄋ</rt></ruby>: a beautiful person (traditionally a beautiful woman) — a literary descriptor, as in the chengyu [[佳人薄命]], "a beautiful woman has an ill fate."
+
+### Courtship & Romance
+
+- <ruby>[求愛](../words/求愛.md)<rt>ㄍ⼜ㄛㄚㄧ</rt></ruby>: to court, woo — to seek someone's love.
+- <ruby>[求婚](../words/求婚.md)<rt>ㄍ⼜ㄛㄏㄛㄋ</rt></ruby>: to propose marriage — asking someone to marry you.
+- <ruby>[暗恋](../words/暗恋.md)<rt>ㄚㄇㄌㄝㄋ</rt></ruby>: to have a secret crush — loving someone without telling them.
+- <ruby>[初恋](../words/初恋.md)<rt>ㄑㄛㄌㄝㄋ</rt></ruby>: first love — the first time one falls in love.
+- <ruby>[失恋](../words/失恋.md)<rt>ㄙㄧㄊㄌㄝㄋ</rt></ruby>: to lose love, be jilted — a love that ends badly.
+- <ruby>[誘惑](../words/誘惑.md)<rt>⼜ㄛㄏㄛㄎ</rt></ruby>: to tempt, lure — see [Sin](../lexipedia/Sin.md) for its own citation there.
+
+### Passion & Devotion
+
+- <ruby>[熱愛](../words/熱愛.md)<rt>ㄋ⼶ㄊㄚㄧ</rt></ruby>: to love passionately — a deep, burning love.
+- <ruby>[愛慕](../words/愛慕.md)<rt>ㄚㄧㄇㄛ</rt></ruby>: to adore — to love and admire, often from a distance.
+- <ruby>[溺愛](../words/溺愛.md)<rt>ㄋㄧㄎㄚㄧ</rt></ruby>: to dote on — to love so much that one indulges and spoils.
+- <ruby>[思慕](../words/思慕.md)<rt>ㄙㄚ·ㄇㄛ</rt></ruby>: to long for, yearn for.
+- <ruby>[憧憬](../words/憧憬.md)<rt>ㄑㄛㄫㄍ⼄ㄫ</rt></ruby>: to yearn for, long for an ideal.
+- <ruby>[愛護](../words/愛護.md)<rt>ㄚㄧㄏㄛ</rt></ruby>: to cherish, protect lovingly.
+- <ruby>[愛惜](../words/愛惜.md)<rt>ㄚㄧㄙㄝㄎ</rt></ruby>: to cherish, treasure.
 
 ### Hatred & Aversion
 
@@ -92,6 +119,12 @@ Four independently attested near-synonyms, differing mainly by register rather t
 **秋波 is a real CJKV way to say "flirt"**: literally "autumn ripples," a poetic image for the clear, glancing beauty of a woman's eyes (Li Bai used it for the literal scenic sense; Su Shi repurposed it figuratively). The figurative sense — a flirtatious or knowing glance, an action that means more than its surface appearance — is now the dominant meaning across Mandarin, Cantonese, Japanese, and Korean alike, and living usage isn't restricted to women making eyes at men. The base verb phrase 送秋波 ("to cast a flirtatious glance") is elaborated into the fixed four-character idiom [[暗送秋波]] ("to secretly send autumn ripples") — see that page's own Source and Origin section for its documented textual history (Ming-dynasty folk song for the fixed idiom's earliest attestation, popularized by the Diaochan/Lü Bu episode in 《三國演義》).
 
 **関心 is not romance-specific**: it covers personal concern ("to care about someone"), intellectual interest, and institutional attention equally — the same word a Dan'a'yo speaker would use for "I care about you" and "an interest in astronomy" alike. Listed here because it's Rosenfelder's closest match for "care" in this domain, not because Dan'a'yo has narrowed it to romantic use.
+
+**Courtship runs in a sequence of words**: <ruby>[[秋波]]<rt>ㄑㄨㄛㄅㄚ</rt></ruby> is the first flirtatious glance, <ruby>[[暗恋]]<rt>ㄚㄇㄌㄝㄋ</rt></ruby> is love kept secret, <ruby>[[求愛]]<rt>ㄍ⼜ㄛㄚㄧ</rt></ruby> is seeking someone's love, <ruby>[[約会]]<rt>⼘ㄎㄏ⼔</rt></ruby> is the date, <ruby>[[求婚]]<rt>ㄍ⼜ㄛㄏㄛㄋ</rt></ruby> is the proposal, and <ruby>[[婚約]]<rt>ㄏㄛㄋ·⼘ㄎ</rt></ruby> and <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby> are the engagement and the marriage; <ruby>[[失恋]]<rt>ㄙㄧㄊㄌㄝㄋ</rt></ruby> is where a love ends, and <ruby>[[初恋]]<rt>ㄑㄛㄌㄝㄋ</rt></ruby> the first one.
+
+**Three "lover" words are settled by decision**: <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby> is a lover or partner, <ruby>[[恋人]]<rt>ㄌㄝㄋㄋㄧㄋ</rt></ruby> is "the lovers," the pair who love each other, and <ruby>[[情人]]<rt>ㄑㄧㄫㄋㄧㄋ</rt></ruby> is a sweetheart, someone dear to one; <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> and <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> are the girlfriend and the boyfriend.
+
+**Four ways to love hard**: <ruby>[[熱愛]]<rt>ㄋ⼶ㄊㄚㄧ</rt></ruby> is a burning passion, <ruby>[[愛慕]]<rt>ㄚㄧㄇㄛ</rt></ruby> is adoring from a distance, <ruby>[[溺愛]]<rt>ㄋㄧㄎㄚㄧ</rt></ruby> is doting and spoiling, and <ruby>[[痴情]]<rt>ㄑㄧㄑㄧㄫ</rt></ruby> is infatuation.
 
 ## See Also
 

@@ -70,6 +70,10 @@ boundedness: 80
 - <ruby>[[愛撫]]<rt>ㄚㄧㄈㄨ</rt></ruby> "caress"
 - <ruby>[[愛滋病]]<rt>ㄚㄧㄐㄜㄅ⼶ㄫ</rt></ruby> "AIDS"
 - <ruby>[[親愛]]<rt>ㄑㄧㄋㄚㄧ</rt></ruby> "dear, beloved"
+- <ruby>[[熱愛]]<rt>ㄋ⼶ㄊㄚㄧ</rt></ruby> "to love passionately"
+- <ruby>[[求愛]]<rt>ㄍ⼜ㄛㄚㄧ</rt></ruby> "to court, woo"
+- <ruby>[[愛慕]]<rt>ㄚㄧㄇㄛ</rt></ruby> "to adore, love and admire"
+- <ruby>[[溺愛]]<rt>ㄋㄧㄎㄚㄧ</rt></ruby> "to dote on, love excessively"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

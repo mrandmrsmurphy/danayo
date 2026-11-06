@@ -52,3 +52,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[溺]]<rt>ㄋㄧㄎ</rt></ruby> "drown" (stand-in for 溺)
+- <ruby>[[溺愛]]<rt>ㄋㄧㄎㄚㄧ</rt></ruby> "to dote on, love excessively"

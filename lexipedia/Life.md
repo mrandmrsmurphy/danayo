@@ -6,7 +6,8 @@ related_domains:
   - "[[Body]]"
   - "[[Existence]]"
   - "[[Events]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Life
@@ -44,7 +45,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[衛生](../words/衛生.md)<rt>ㄝㄙㄚㄫ</rt></ruby>: hygiene, sanitation — 衛 "guard" + 生 "life."
 - <ruby>[感冒](../words/感冒.md)<rt>ㄍㄚㄇㄇㄚㄨ</rt></ruby>: a cold, to catch a cold — 感 "be affected" + 冒 "expose oneself."
 
-**Not yet coined**: a bare stative word for "dead" (as opposed to the event-word [[死亡]]), "ill," "sick," and "medical" as an independent adjective all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "dead" is the event word <ruby>[[死亡]]<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> with a modifier, or 死－者 for "the dead" with the suffix [[－者]]; "ill" and "sick" are <ruby>[[生病]]<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby> (to fall ill, to get sick), with <ruby>[[病人]]<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby> for a patient and <ruby>[[患]]<rt>ㄏ⺢ㄇ</rt></ruby> for suffering from; and "medical" is <ruby>[[医学]]<rt>ㄜㄏㄚㄎ</rt></ruby> (medicine) in the genitive, 医学之.
 
 ## Intermediate (B1–B2)
 
@@ -62,6 +63,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[回生](../words/回生.md)<rt>ㄏㄛㄧㄙㄚㄫ</rt></ruby>: to resurrect, resuscitate, regenerate.
 - <ruby>[復活](../words/復活.md)<rt>ㄅㄨㄎㄏ⺢ㄊ</rt></ruby>: to revive, bring back to life.
 - <ruby>[病人](../words/病人.md)<rt>ㄅ⼶ㄫㄋㄧㄋ</rt></ruby>: a patient, invalid.
+- <ruby>[生病](../words/生病.md)<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby>: to fall ill, to get sick.
 - <ruby>[患](../words/患.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to suffer from (an illness or trouble) — the bound root behind 患者 ("patient"), a near-synonym of [[病人]].
 - <ruby>[適応](../words/適応.md)<rt>ㄙㄝㄎ·ㄧㄫ</rt></ruby>: adaptation, to adapt — to respond to changed circumstances by becoming suitable (適, suitable, + 応, respond).
 
@@ -70,6 +72,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[腐朽](../words/腐朽.md)<rt>ㄆㄨㄏ⼜</rt></ruby>: to decay, rot (organic or moral, literary register).
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, become corrupt (organic or moral, ordinary register).
 - <ruby>[瀕死](../words/瀕死.md)<rt>ㄅㄧㄋㄙㄧㄜ</rt></ruby>: near death, moribund — on the point of dying, in the last stage before death; the state of dying, between illness and [[死亡]].
+- <ruby>[葬儀](../words/葬儀.md)<rt>ㄐㄚㄫㄜㄧ</rt></ruby>: a funeral.
 - <ruby>[荒廃](../words/荒廃.md)<rt>ㄏ⺢ㄫㄈㄝ</rt></ruby>: to fall into ruin, decay (of a place).
 - <ruby>[霊柩](../words/霊柩.md)<rt>ㄌㄝㄫㄍ⼜</rt></ruby>: a coffin.
 - <ruby>[棺](../words/棺.md)<rt>ㄍ⺢ㄋ</rt></ruby>: a coffin — the plain, single-character word for the box a body is buried in, beside the compound [[霊柩]], which carries the same gloss.
@@ -79,12 +82,20 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[墓碑](../words/墓碑.md)<rt>ㄇㄛㄅㄧ</rt></ruby>: a gravestone, tombstone — the inscribed stone that marks a grave; the stand-in for the bound character 碑 (stele) in the funerary sense.
 - <ruby>[墳墓](../words/墳墓.md)<rt>ㄅㄨㄋㄇㄛ</rt></ruby>: a grave, tomb.
 
-**Not yet coined**: "funeral" and "mortal" have no dedicated Dan'a'yo word yet.
+**"Funeral"** is <ruby>[[葬儀]]<rt>ㄐㄚㄫㄜㄧ</rt></ruby>. "Mortal" has no attested compound in two or more of the five languages, so it is described with <ruby>[[死亡]]<rt>ㄙㄧㄜㄇㄚㄫ</rt></ruby> rather than coined.
 
 ### Medicine & Treatment
 
 - <ruby>[医院](../words/医院.md)<rt>ㄜ⼔ㄋ</rt></ruby>: a hospital, clinic — specifically a small private practice, Japanese/Korean usage; see [[Buildings]] for its own placement there.
 - <ruby>[医学](../words/医学.md)<rt>ㄜㄏㄚㄎ</rt></ruby>: medicine, medical science — medicine as an academic and scientific discipline (the study of the body, disease and treatment taught in medical schools), distinct from 医療 (medical care as practised) and traditional practice such as [[漢方]].
+- <ruby>[手術](../words/手術.md)<rt>ㄙ⼜ㄙㄨㄊ</rt></ruby>: surgery, a surgical operation.
+- <ruby>[看護](../words/看護.md)<rt>ㄎㄚㄋㄏㄛ</rt></ruby>: to nurse, tend the sick — the care itself.
+- <ruby>[護士](../words/護士.md)<rt>ㄏㄛㄙㄚㄧ</rt></ruby>: a nurse, the profession.
+- <ruby>[壊血病](../words/壊血病.md)<rt>ㄏ⺢ㄧㄏ⼔ㄊㄅ⼶ㄫ</rt></ruby>: scurvy — the disease from a lack of vitamin C.
+- <ruby>[関節炎](../words/関節炎.md)<rt>ㄍ⺢ㄇㄐㄝㄊㄝㄇ</rt></ruby>: arthritis — inflammation of the joints.
+- <ruby>[挫傷](../words/挫傷.md)<rt>ㄐ⺢ㄙ⼘ㄫ</rt></ruby>: a bruise, contusion.
+- <ruby>[水疱](../words/水疱.md)<rt>ㄙㄨㄆㄚㄨ</rt></ruby>: a blister — a bubble of fluid under the skin.
+- <ruby>[痘痕](../words/痘痕.md)<rt>ㄉㄛㄨㄏㄜㄋ</rt></ruby>: a pock-mark, a scar left by smallpox.
 - <ruby>[漢方](../words/漢方.md)<rt>ㄏㄚㄋㄈㄚㄫ</rt></ruby>: traditional (Sinitic) medicine — the herbal-medicine tradition of Chinese origin, in Japanese kampo and in Korean 한방, run in parallel with Western biomedicine; the field of study is [[医学]].
 - <ruby>[透析](../words/透析.md)<rt>ㄊㄛㄨㄙㄝㄎ</rt></ruby>: dialysis, to dialyze — especially renal or blood dialysis (血液透析); attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found.
 - <ruby>[薬丸](../words/薬丸.md)<rt>⼘ㄎㄏ⺢ㄋ</rt></ruby>: a pill, tablet.
@@ -97,7 +108,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[猩紅熱](../words/猩紅熱.md)<rt>ㄙㄝㄫㄏㄛㄫㄋ⼶ㄊ</rt></ruby>: scarlet fever — the streptococcal infection with a fever and a scarlet rash.
 - <ruby>[面疱](../words/面疱.md)<rt>ㄇ⼶ㄋㄆㄚㄨ</rt></ruby>: a pimple, acne.
 
-**Not yet coined**: "nurse" (as a profession, distinct from the verb [[看病]] "to nurse, tend a patient") and "surgery" have no dedicated Dan'a'yo word yet.
+**"Nurse"** the profession is <ruby>[[護士]]<rt>ㄏㄛㄙㄚㄧ</rt></ruby>, the verb is <ruby>[[看護]]<rt>ㄎㄚㄋㄏㄛ</rt></ruby> (to nurse, tend the sick) beside <ruby>[[看病]]<rt>ㄎㄚㄋㄅ⼶ㄫ</rt></ruby> (to tend a patient), and "surgery" is <ruby>[[手術]]<rt>ㄙ⼜ㄙㄨㄊ</rt></ruby>.
 
 ## Advanced / Specialized (C1+)
 
@@ -106,7 +117,7 @@ Life vocabulary covers the basic facts of being alive — birth, growth, aging, 
 - <ruby>[悪心](../words/悪心.md)<rt>ㄚㄎㄙㄧㄇ</rt></ruby>: nauseous, nauseated.
 - <ruby>[癌症](../words/癌症.md)<rt>ㄚㄇㄐㄧㄫ</rt></ruby>: cancer.
 
-**Not yet coined**: "scurvy," "arthritis," "bruise," "rash," "wart," "blister," and "pock-mark" have no dedicated Dan'a'yo word yet — a thin corner of this domain, flagged rather than skipped silently.
+**How Dan'a'yo says these**: "scurvy" is <ruby>[[壊血病]]<rt>ㄏ⺢ㄧㄏ⼔ㄊㄅ⼶ㄫ</rt></ruby>, "arthritis" is <ruby>[[関節炎]]<rt>ㄍ⺢ㄇㄐㄝㄊㄝㄇ</rt></ruby>, "bruise" is <ruby>[[挫傷]]<rt>ㄐ⺢ㄙ⼘ㄫ</rt></ruby>, "blister" is <ruby>[[水疱]]<rt>ㄙㄨㄆㄚㄨ</rt></ruby> and "pock-mark" is <ruby>[[痘痕]]<rt>ㄉㄛㄨㄏㄜㄋ</rt></ruby>; "rash" and "wart" would need the characters 疹 and 疣, which the vault lacks, so they are not coined.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 

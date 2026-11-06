@@ -71,6 +71,7 @@ boundedness: 70
 - <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, finger joint"
 - <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
 - <ruby>[[関節]]<rt>ㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "joint (anatomical)"
+- <ruby>[[関節炎]]<rt>ㄍ⺢ㄇㄐㄝㄊㄝㄇ</rt></ruby> "arthritis"
 
 ## Derived Characters
 - <ruby>[[櫛 (char)|櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

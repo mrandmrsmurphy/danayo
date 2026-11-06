@@ -65,3 +65,4 @@ boundedness: 90
 - <ruby>[[熱望]]<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby> "fervent hope"
 - <ruby>[[熱中]]<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby> "enthusiasm"
 - <ruby>[[熱帯雨林]]<rt>ㄋ⼶ㄊㄊㄚㄧㄨㄌㄧㄇ</rt></ruby> "a rain forest"
+- <ruby>[[熱愛]]<rt>ㄋ⼶ㄊㄚㄧ</rt></ruby> "to love passionately"

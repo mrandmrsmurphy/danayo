@@ -52,3 +52,7 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[恋]]<rt>ㄌㄝㄋ</rt></ruby> "romance; romantic love" (stand-in for 恋)
+- <ruby>[[失恋]]<rt>ㄙㄧㄊㄌㄝㄋ</rt></ruby> "to lose love, be jilted"
+- <ruby>[[初恋]]<rt>ㄑㄛㄌㄝㄋ</rt></ruby> "first love"
+- <ruby>[[暗恋]]<rt>ㄚㄇㄌㄝㄋ</rt></ruby> "to have a secret crush"
+- <ruby>[[恋人]]<rt>ㄌㄝㄋㄋㄧㄋ</rt></ruby> "the lovers, a couple in love"

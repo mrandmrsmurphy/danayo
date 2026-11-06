@@ -54,6 +54,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[隣]]<rt>ㄌㄧㄋ</rt></ruby> "neighboring; next door" (stand-in for 隣)
 - <ruby>[[隣人]]<rt>ㄌㄧㄋㄋㄧㄋ</rt></ruby> "neighbor; neighborhood"
 - <ruby>[[隣国]]<rt>ㄌㄧㄋㄍㄛㄎ</rt></ruby> "neighboring country"
+- <ruby>[[隣接]]<rt>ㄌㄧㄋㄐㄛㄆ</rt></ruby> "to be adjacent to, adjoin"
 
 ## Chengyu
 - <ruby>[[勿貪隣物]]<rt>ㄇㄨㄊㄊㄚㄇㄌㄧㄋㄇㄨㄊ</rt></ruby> "don't covet neighbor's things"

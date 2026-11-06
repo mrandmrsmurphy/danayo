@@ -58,6 +58,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[蒼海]]<rt>ㄑ⺢ㄫㄏㄚㄧ</rt></ruby> "vast ocean"
 - <ruby>[[蒼路]]<rt>ㄑ⺢ㄫㄌㄛ</rt></ruby> "crane"
 - <ruby>[[穹蒼]]<rt>ㄎㄨㄫㄑ⺢ㄫ</rt></ruby> "blue dome of heaven; firmament (dated)"
+- <ruby>[[蒼白]]<rt>ㄑ⺢ㄫㄅㄚㄎ</rt></ruby> "pale, wan, ashen"
 
 ## Chengyu
 - <ruby>[[蒼海桑田]]<rt>ㄑ⺢ㄫㄏㄚㄧㄙㄚㄫㄉㄝㄋ</rt></ruby> "time brings drastic changes to the world; the vicissitudes of life"

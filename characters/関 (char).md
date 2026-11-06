@@ -65,3 +65,4 @@ boundedness: 60
 - <ruby>[[玄関]]<rt>ㄏ⼔ㄋㄍ⺢ㄇ</rt></ruby> "a vestibule, entry hall"
 - <ruby>[[税関]]<rt>ㄙㄝㄍ⺢ㄇ</rt></ruby> "customs, a customs house"
 - <ruby>[[開関]]<rt>ㄎㄚㄧㄍ⺢ㄇ</rt></ruby> "a switch"
+- <ruby>[[関節炎]]<rt>ㄍ⺢ㄇㄐㄝㄊㄝㄇ</rt></ruby> "arthritis"

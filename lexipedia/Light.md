@@ -6,7 +6,8 @@ related_domains:
   - "[[Color]]"
   - "[[Physics]]"
   - "[[Astronomy]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Light
@@ -21,6 +22,8 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[圓光](../words/圓光.md)<rt>⼔ㄋㄎ⺢ㄫ</rt></ruby>: a halo, nimbus, aureole.
 - <ruby>[暗](../words/暗.md)<rt>ㄚㄇ</rt></ruby>: dark.
 - <ruby>[明](../words/明.md)<rt>ㄇ⼶ㄫ</rt></ruby>: bright.
+- <ruby>[暗淡](../words/暗淡.md)<rt>ㄚㄇㄉㄚㄇ</rt></ruby>: dim, dull, gloomy — faint light, and figuratively gloomy.
+- <ruby>[蒼白](../words/蒼白.md)<rt>ㄑ⺢ㄫㄅㄚㄎ</rt></ruby>: pale, wan, ashen — of a face, or a colour without life.
 - <ruby>[照](../words/照.md)<rt>ㄐㄛㄨ</rt></ruby>: to shine.
 - <ruby>[火](../words/火.md)<rt>ㄏ⺢</rt></ruby>: fire.
 - <ruby>[火炎](../words/火炎.md)<rt>ㄏ⺢ㄝㄇ</rt></ruby>: flame, blaze.
@@ -28,7 +31,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[熱](../words/熱.md)<rt>ㄋ⼶ㄊ</rt></ruby>: to heat up, be hot.
 - <ruby>[煙気](../words/煙気.md)<rt>ㄝㄋㄎㄧㄜ</rt></ruby>: smoke, flue gas.
 
-**Not yet coined**: "dim," "fade," "gleam," "glow," "pale," and "dull" (in the sense of muted light, not blunt [[鈍]] or boring [[無聊]]) all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "dim" is <ruby>[[暗淡]]<rt>ㄚㄇㄉㄚㄇ</rt></ruby>, the faint light between <ruby>[[暗]]<rt>ㄚㄇ</rt></ruby> and <ruby>[[明]]<rt>ㄇ⼶ㄫ</rt></ruby>; "fade" is <ruby>[[退色]]<rt>ㄊㄧㄜㄙㄧㄎ</rt></ruby>, to lose colour; "gleam" is <ruby>[[閃光]]<rt>ㄙㄝㄇㄎ⺢ㄫ</rt></ruby>, a flash or glint of light; "glow" is <ruby>[[光輝]]<rt>ㄎ⺢ㄫㄏㄨㄧ</rt></ruby> (radiant) or <ruby>[[燐光]]<rt>ㄌㄧㄋㄎ⺢ㄫ</rt></ruby> (a phosphorescent glow); "pale" is <ruby>[[蒼白]]<rt>ㄑ⺢ㄫㄅㄚㄎ</rt></ruby>; and "dull" in the sense of muted light is <ruby>[[暗淡]]<rt>ㄚㄇㄉㄚㄇ</rt></ruby>, not blunt <ruby>[[鈍]]<rt>ㄉㄛㄋ</rt></ruby> or boring <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby>. To give off light of one's own is <ruby>[[発光]]<rt>ㄈㄚㄊㄎ⺢ㄫ</rt></ruby>.
 
 ## Intermediate (B1–B2)
 
@@ -37,6 +40,8 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 - <ruby>[光輝](../words/光輝.md)<rt>ㄎ⺢ㄫㄏㄨㄧ</rt></ruby>: brilliant, radiant.
 - <ruby>[燐光](../words/燐光.md)<rt>ㄌㄧㄋㄎ⺢ㄫ</rt></ruby>: phosphorescence — the glow of phosphorus and phosphorescent matter (a physics term; also written 磷光); attested in Mandarin and Cantonese.
 - <ruby>[光明](../words/光明.md)<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby>: brightness, radiance — carries real cosmological and moral weight beyond the physical (see Semantic Range Notes).
+- <ruby>[発光](../words/発光.md)<rt>ㄈㄚㄊㄎ⺢ㄫ</rt></ruby>: to emit light, shine — light given off by the thing itself, where 照 is to shine on something.
+- <ruby>[退色](../words/退色.md)<rt>ㄊㄧㄜㄙㄧㄎ</rt></ruby>: fading, to fade — losing colour.
 - <ruby>[映](../words/映.md)<rt>⼶ㄫ</rt></ruby>: to reflect, project (of light or an image).
 - <ruby>[三稜鏡](../words/三稜鏡.md)<rt>ㄙㄚㄇㄌㄨㄫㄍ⼶ㄫ</rt></ruby>: a prism — literally "three-edge lens," the light-dispersing optical instrument.
 - <ruby>[陰影](../words/陰影.md)<rt>ㄧㄇ·⼶ㄫ</rt></ruby>: a shadow.
@@ -86,7 +91,7 @@ Light vocabulary covers the physical phenomenon of light and its absence — bri
 
 **暗黒 and 黒暗 are reversed-order doublets, with at most a tendency to split**: both are 暗 "dark" + 黒 "black" and neither word's own Notes records a firm distinction. The stored glosses lean differently, though — [[暗黒]] is "dark, pitch black" (a degree or quality), while [[黒暗]] is "pure blackness, darkness" and its Notes develop it as the counterpart of [[光明]], with Daoist, Buddhist (see [[無明]]), and moral resonance. Treat that as a learner's rule of thumb rather than a confirmed split, closer to the 火炎/火焰 case below than to the 照/昭 homophones.
 
-**火炎 and 火焰 are undocumented duplicates, not a confirmed split**: both independently gloss "flame, blaze," with no recorded distinction between them in either word's own Notes — closer to the unresolved [[親族]]/[[親戚]] case on [[Kinship]] than to a real semantic split. [[火炎]] is used as this page's own entry; [[火焰]] is flagged here rather than silently duplicated.
+**<ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby> and <ruby>[[火焰]]<rt>ㄏ⺢⼶ㄇ</rt></ruby> are two forms of "flame"**: <ruby>[[火焰]]<rt>ㄏ⺢⼶ㄇ</rt></ruby> is the vault's word for the literal, physical flame, the visible fire itself, standard across the Chinese-speaking world and the stand-in for the character 焰; <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby> is the Japanese-attested form, "flame, blaze," which this page uses as its entry, with the variant 火焔 as its alias. They mean the same thing, with no sharper split recorded.
 
 **燃焼 vs 焼灼 split general combustion from a specific technical burn**: [[燃焼]] is the general, scientific word for burning/combustion of any kind. [[焼灼]] narrows to cauterization or scorching specifically — a clinical or technical register, not simply a stronger degree of the same fire.
 

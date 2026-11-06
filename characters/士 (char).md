@@ -66,6 +66,7 @@ boundedness: 90
 - <ruby>[[学士]]<rt>ㄏㄚㄎㄙㄚㄧ</rt></ruby> "bachelor's degree"
 - <ruby>[[碩士]]<rt>ㄙㄝㄎㄙㄚㄧ</rt></ruby> "master's degree"
 - <ruby>[[宇宙飛行士]]<rt>ㄨㄐㄨㄛㄈㄝㄧㄏㄚㄫㄙㄚㄧ</rt></ruby> "astronaut"
+- <ruby>[[護士]]<rt>ㄏㄛㄙㄚㄧ</rt></ruby> "a nurse, the profession"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"

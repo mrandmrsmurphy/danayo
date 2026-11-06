@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[伸手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> "reach out"
 - <ruby>[[歌手]]<rt>ㄍㄜㄙ⼜</rt></ruby> "singer"
 - <ruby>[[手袋]]<rt>ㄙ⼜ㄉㄚㄧ</rt></ruby> "glove"
+- <ruby>[[手術]]<rt>ㄙ⼜ㄙㄨㄊ</rt></ruby> "surgery, a surgical operation"
 
 ## Derived Characters
 - <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby> "lose"

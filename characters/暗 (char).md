@@ -59,6 +59,8 @@ boundedness: 90
 - <ruby>[[暗影]]<rt>ㄚㄇ·⼶ㄫ</rt></ruby> "shadow; gloom; umbra"
 - <ruby>[[暗礁]]<rt>ㄚㄇㄐㄚㄨ</rt></ruby> "submerged reef; hidden obstacle"
 - <ruby>[[暗記]]<rt>ㄚㄇㄍㄧ</rt></ruby> "memorize"
+- <ruby>[[暗恋]]<rt>ㄚㄇㄌㄝㄋ</rt></ruby> "to have a secret crush"
+- <ruby>[[暗淡]]<rt>ㄚㄇㄉㄚㄇ</rt></ruby> "dim, dull, gloomy"
 
 ## Chengyu
 - <ruby>[[暗送秋波]]<rt>ㄚㄇㄙㄛㄫㄑㄨㄛㄅㄚ</rt></ruby> "to flirt, to convey feelings through a knowing glance"

@@ -54,3 +54,4 @@ boundedness: 100
 ## Words
 - <ruby>[[看]]<rt>ㄎㄚㄋ</rt></ruby> "watch over; look after; watch" (stand-in for 看)
 - <ruby>[[看病]]<rt>ㄎㄚㄋㄅ⼶ㄫ</rt></ruby> "nurse; see a patient"
+- <ruby>[[看護]]<rt>ㄎㄚㄋㄏㄛ</rt></ruby> "to nurse, tend the sick"

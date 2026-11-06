@@ -127,6 +127,8 @@ boundedness: 75
 - <ruby>[[人権]]<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby> "human rights"
 - <ruby>[[人民幣]]<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby> "yuan, renminbi"
 - <ruby>[[商人]]<rt>ㄙ⼘ㄫㄋㄧㄋ</rt></ruby> "a merchant, trader"
+- <ruby>[[恋人]]<rt>ㄌㄝㄋㄋㄧㄋ</rt></ruby> "the lovers, a couple in love"
+- <ruby>[[情人]]<rt>ㄑㄧㄫㄋㄧㄋ</rt></ruby> "a sweetheart"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

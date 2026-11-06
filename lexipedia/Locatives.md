@@ -8,7 +8,8 @@ related_domains:
   - "[[Movement]]"
   - "[[Dimensions]]"
   - "[[Buildings]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Locatives
@@ -25,12 +26,21 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[背後](../words/背後.md)<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>: behind, the rear.
 - <ruby>[内部](../words/内部.md)<rt>ㄋㄛㄧㄅㄛㄨ</rt></ruby>: the inside, interior.
 - <ruby>[外部](../words/外部.md)<rt>⺢ㄧㄅㄛㄨ</rt></ruby>: the outside, exterior.
+- <ruby>[内側](../words/内側.md)<rt>ㄋㄛㄧㄐㄧㄎ</rt></ruby>: the inside, inner side — see [Directions](../lexipedia/Directions.md) for its own citation there.
+- <ruby>[外側](../words/外側.md)<rt>⺢ㄧㄐㄧㄎ</rt></ruby>: the outside, outer side — see [Directions](../lexipedia/Directions.md) for its own citation there.
+- <ruby>[中央](../words/中央.md)<rt>ㄐㄨㄫ⼘ㄫ</rt></ruby>: the center, the middle — see [Directions](../lexipedia/Directions.md).
+- <ruby>[中心](../words/中心.md)<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby>: the center, the core — see [Directions](../lexipedia/Directions.md).
+- <ruby>[中間](../words/中間.md)<rt>ㄐㄨㄫㄍㄚㄋ</rt></ruby>: the middle, midway — see [Directions](../lexipedia/Directions.md).
+- <ruby>[表面](../words/表面.md)<rt>ㄅ⼘ㄨㄇ⼶ㄋ</rt></ruby>: the surface, the face — see [Shape](../lexipedia/Shape.md) for its own citation there.
+- <ruby>[底](../words/底.md)<rt>ㄉㄝㄧ</rt></ruby>: the bottom, underneath — see [Shape](../lexipedia/Shape.md) and [Dimensions](../lexipedia/Dimensions.md).
+- <ruby>[隅](../words/隅.md)<rt>ㄨㄛ</rt></ruby>: a nook, a corner — see [Shape](../lexipedia/Shape.md) and [Directions](../lexipedia/Directions.md).
+- <ruby>[奥](../words/奥.md)<rt>ㄨㄎ</rt></ruby>: deep, the inner part — see [Dimensions](../lexipedia/Dimensions.md).
 - <ruby>[周囲](../words/周囲.md)<rt>ㄐㄨㄛㄨㄧ</rt></ruby>: the area around something, surroundings.
 - <ruby>[周辺](../words/周辺.md)<rt>ㄐㄨㄛㄅㄝㄋ</rt></ruby>: the surroundings, vicinity, periphery — the area on all sides of a place or core, set apart from [[周囲]] by its sense of an outer margin (駅周辺 "around the station", 周辺機器 "peripheral devices").
 - <ruby>[窮僻](../words/窮僻.md)<rt>ㄍㄨㄫㄆㄝㄎ</rt></ruby>: remote, out-of-the-way, backward — far from the centre and from main roads, and so poor and underdeveloped (the idiom 窮郷僻壌 "a remote, poor backwater"); a literary word, opposite in direction to [[周辺]]'s periphery around a core.
 - <ruby>[於](../words/於.md)<rt>ㄛ</rt></ruby>: in, at, during — the general locative case particle.
 
-**Not yet coined**: "gap" and "frame" (in the structural, bounding sense — as opposed to [[床]]'s furniture/chassis sense) all have no dedicated Dan'a'yo word yet. ("Space" as a general abstract noun is now [[空間]].)
+**How Dan'a'yo says these**: "gap" is <ruby>[[空隙]]<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby> (housed on [Shape](../lexipedia/Shape.md)); "frame" in the structural, bounding sense is said with <ruby>[[辺縁]]<rt>ㄅㄝㄋ⼶ㄋ</rt></ruby> (rim, edge, margin) or <ruby>[[輪郭]]<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby> (outline), since the Chinese 框架 needs a character (框) the vault lacks, as distinct from <ruby>[[床]]<rt>ㄙ⼘ㄇ</rt></ruby>'s furniture or chassis sense; and "space" as a general abstract noun is <ruby>[[空間]]<rt>ㄎㄛㄫㄍㄚㄋ</rt></ruby>.
 
 ## Intermediate (B1–B2)
 
@@ -43,7 +53,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[姿態](../words/姿態.md)<rt>ㄐㄧㄜㄊㄚㄧ</rt></ruby>: a pose, position — of a body.
 - <ruby>[定位](../words/定位.md)<rt>ㄐㄝㄫ⼔ㄧ</rt></ruby>: a position — fixed or technical, the sense used for GPS-style positioning rather than a body's pose.
 
-**Not yet coined**: "locate" (as a verb, "to find the position of") has no dedicated word — none of the position/place nouns above doubles as that verb.
+**"Locate"** (as a verb, "to find the position of") is <ruby>[[定位]]<rt>ㄐㄝㄫ⼔ㄧ</rt></ruby>, which in Chinese and Japanese is both the noun "position" and the verb "to fix a position, to locate," with <ruby>[[探索]]<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby> (to search, explore) for looking for something.
 
 ### Occupying & Surrounding
 
@@ -59,6 +69,15 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[之間](../words/之間.md)<rt>ㄊㄧㄍㄚㄋ</rt></ruby>: between, among.
 - <ruby>[亙](../words/亙.md)<rt>ㄍㄨㄫ</rt></ruby>: across, athwart.
 - <ruby>[傍](../words/傍.md)<rt>ㄆㄚㄫ</rt></ruby>: beside, close to.
+- <ruby>[隣接](../words/隣接.md)<rt>ㄌㄧㄋㄐㄛㄆ</rt></ruby>: to be adjacent to, to adjoin — next to, touching.
+- <ruby>[隣](../words/隣.md)<rt>ㄌㄧㄋ</rt></ruby>: neighboring, next door — see [Society](../lexipedia/Society.md) for its own citation there.
+- <ruby>[以内](../words/以内.md)<rt>ㄧㄋㄛㄧ</rt></ruby>: within, less than — see [Grammar](../lexipedia/Grammar.md).
+- <ruby>[以外](../words/以外.md)<rt>ㄧ⺢ㄧ</rt></ruby>: other than, except for — see [Grammar](../lexipedia/Grammar.md).
+- <ruby>[以上](../words/以上.md)<rt>ㄧㄙ⼘ㄫ</rt></ruby>: above, more than — see [Grammar](../lexipedia/Grammar.md).
+- <ruby>[以下](../words/以下.md)<rt>ㄧㄏㄚ</rt></ruby>: below, or less — see [Measurement](../lexipedia/Measurement.md).
+- <ruby>[以前](../words/以前.md)<rt>ㄧㄐㄝㄋ</rt></ruby>: before, ago — see [Existence](../lexipedia/Existence.md).
+- <ruby>[以後](../words/以後.md)<rt>ㄧㄏㄨㄛ</rt></ruby>: after that, from now on — see [Time](../lexipedia/Time.md).
+- <ruby>[遠](../words/遠.md)<rt>ㄛㄋ</rt></ruby>: far — see [Dimensions](../lexipedia/Dimensions.md).
 - <ruby>[以](../words/以.md)<rt>ㄧ</rt></ruby>: by, using — the instrumental case particle.
 - <ruby>[由](../words/由.md)<rt>⼜ㄛ</rt></ruby>: from, since.
 - <ruby>[至](../words/至.md)<rt>ㄐㄧㄜ</rt></ruby>: to, until.
