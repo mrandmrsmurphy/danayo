@@ -9,12 +9,13 @@ related_domains:
   - "[[Art]]"
   - "[[Emotions]]"
   - "[[Movement]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Speech
 
-Speech vocabulary covers the acts of saying, asking, answering, reporting, and exaggerating — the full range of what a person does with their voice, from plain statement to shout to whisper. Several basic terms (speak as its own dedicated verb, term, signal, pidgin, accent, address, admit, argue, complain, mention, whisper, murmur, mutter, scream, yell) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Speech vocabulary covers the acts of saying, asking, answering, reporting, and exaggerating — the full range of what a person does with their voice, from plain statement to shout to whisper. Speak, term, signal, pidgin, accent, address, admit, argue, complain, mention, whisper, scream and yell are all covered, with the few English words Dan'a'yo says by strategy (murmur, mutter) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -25,9 +26,11 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[音声](../words/音声.md)<rt>ㄨㄇㄙㄧㄫ</rt></ruby>: voice.
 - <ruby>[大声](../words/大声.md)<rt>ㄉㄚㄧㄙㄧㄫ</rt></ruby>: a loud voice.
 - <ruby>[消息](../words/消息.md)<rt>ㄙ⼄ㄨㄙㄧㄎ</rt></ruby>: a message.
+- <ruby>[信号](../words/信号.md)<rt>ㄙㄧㄋㄏㄚㄨ</rt></ruby>: a signal.
 - <ruby>[単語](../words/単語.md)<rt>ㄉㄚㄋ·⼄</rt></ruby>: a word — see [Grammar](../lexipedia/Grammar.md) for its own citation there.
+- <ruby>[術語](../words/術語.md)<rt>ㄙㄨㄊ⼄</rt></ruby>: a (technical) term.
 
-**Not yet coined**: "speak" has no separate dedicated verb distinct from [[言]] ("say"); "term," "signal," "pidgin," and "accent" are all genuinely absent.
+**How Dan'a'yo says these**: "speak" is <ruby>[[話]]<rt>ㄏ⺢ㄧ</rt></ruby> ("talk about") or <ruby>[[言]]<rt>ㄝㄋ</rt></ruby> ("say"), with <ruby>[[言語]]<rt>ㄝㄋ·⼄</rt></ruby> the language itself; "term" is <ruby>[[術語]]<rt>ㄙㄨㄊ⼄</rt></ruby>, a technical term, and <ruby>[[単語]]<rt>ㄉㄚㄋ·⼄</rt></ruby> is a word; "signal" is <ruby>[[信号]]<rt>ㄙㄧㄋㄏㄚㄨ</rt></ruby>; "accent" is <ruby>[[口音]]<rt>ㄎㄛㄨㄨㄇ</rt></ruby>, with <ruby>[[方言]]<rt>ㄈㄚㄫㄝㄋ</rt></ruby> for a dialect; and "pidgin" is <ruby>[[雑言語]]<rt>ㄐㄚㄆㄝㄋ⼄</rt></ruby>, a neologism for a mixed trade language.
 
 ## Intermediate (B1–B2)
 
@@ -107,11 +110,14 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Discussing & Arguing
 
 - <ruby>[議論](../words/議論.md)<rt>ㄜㄧㄌㄛㄋ</rt></ruby>: to discuss, comment. See [Knowledge](../lexipedia/Knowledge.md) for its own citation there.
+- <ruby>[承認](../words/承認.md)<rt>ㄙㄨㄫㄋㄧㄋ</rt></ruby>: to admit, acknowledge.
+- <ruby>[自白](../words/自白.md)<rt>ㄐㄧㄜㄅㄚㄎ</rt></ruby>: to confess, a confession — admitting wrongdoing, where 承認 is the neutral "admit".
+- <ruby>[論争](../words/論争.md)<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby>: to dispute, an argument, a controversy.
 - <ruby>[弁](../words/弁.md)<rt>ㄅ⼘ㄋ</rt></ruby>: to discuss, distinguish.
 - <ruby>[斟酌](../words/斟酌.md)<rt>ㄐㄧㄇㄐㄚㄎ</rt></ruby>: to discuss, deliberate. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[評論](../words/評論.md)<rt>ㄅ⼶ㄫㄌㄛㄋ</rt></ruby>: to comment — a critical/polemical commentary register. See [Conflict](../lexipedia/Conflict.md) for its own citation there.
 
-**Not yet coined**: "argue" has no dedicated word yet.
+**How Dan'a'yo says it**: "argue" is <ruby>[[議論]]<rt>ㄜㄧㄌㄛㄋ</rt></ruby> (discuss) or <ruby>[[論争]]<rt>ㄌㄛㄋㄐㄚㄫ</rt></ruby> (to dispute, an argument).
 
 ### Explaining
 
@@ -120,14 +126,17 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 ### Insisting, Complaining, Mentioning
 
+- <ruby>[不満](../words/不満.md)<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby>: to be dissatisfied, to resent — the plain "complain."
+- <ruby>[不平](../words/不平.md)<rt>ㄅㄛㄊㄅ⼶ㄫ</rt></ruby>: a grievance, unfairness — complaining about what is unjust.
+- <ruby>[言及](../words/言及.md)<rt>ㄝㄋㄍㄨㄆ</rt></ruby>: to mention, refer to, touch on a topic.
 - <ruby>[堅持](../words/堅持.md)<rt>ㄍㄝㄋㄉㄧ</rt></ruby>: to insist that, persist with.
 
-**Not yet coined**: "complain," "mention," "admit," and "address" (to give a speech) all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "complain" is <ruby>[[不満]]<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby> (to be dissatisfied) or <ruby>[[不平]]<rt>ㄅㄛㄊㄅ⼶ㄫ</rt></ruby> (a grievance, unfairness); "mention" is <ruby>[[言及]]<rt>ㄝㄋㄍㄨㄆ</rt></ruby>; "admit" is <ruby>[[承認]]<rt>ㄙㄨㄫㄋㄧㄋ</rt></ruby> (to acknowledge) or <ruby>[[自白]]<rt>ㄐㄧㄜㄅㄚㄎ</rt></ruby> (to confess); and "address," to give a speech, is <ruby>[[講演]]<rt>ㄍㄚㄫ⼶ㄋ</rt></ruby>. The Chinese 抱怨, "to complain," is attested only in Mandarin and Cantonese and is not coined, since <ruby>[[不満]]<rt>ㄅㄛㄊㄇㄚㄋ</rt></ruby> already carries it.
 
 ### Deception & Exaggeration
 
 - <ruby>[誇張](../words/誇張.md)<rt>ㄎ⺢ㄑㄚㄫ</rt></ruby>: to exaggerate, overstate — the plain action verb.
-- <ruby>[誇](../words/誇.md)<rt>ㄎ⺢</rt></ruby>: to boast, brag, exaggerate — a personality-trait register, an undocumented near-duplicate alongside [[誇張]].
+- <ruby>[誇](../words/誇.md)<rt>ㄎ⺢</rt></ruby>: to boast, brag, exaggerate — boasting as a trait of character, where [[誇張]] is the act of exaggerating a claim.
 - <ruby>[法螺](../words/法螺.md)<rt>ㄈㄚㄆㄌㄚ</rt></ruby>: to boast, brag — literally the conch-shell trumpet used in Buddhist ritual (法螺を吹く, "to blow the conch"), cited here for its dominant modern figurative sense.
 - <ruby>[騙](../words/騙.md)<rt>ㄆ⼶ㄋ</rt></ruby>: to deceive, cheat, defraud.
 - <ruby>[羊狂](../words/羊狂.md)<rt>⼘ㄫㄍ⺢ㄫ</rt></ruby>: to feign madness, pretend to be insane — a classical term for a survival strategy of officials and scholars avoiding political danger; 羊 stands in for 佯 ("feign"); attested in Mandarin only so far, and a pretence, in the family of [[騙]]'s deceiving.
@@ -147,22 +156,26 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 ### Manner of Speaking
 
 - <ruby>[語気](../words/語気.md)<rt>⼄·ㄎㄧㄜ</rt></ruby>: tone, mode, connotation, mood — the manner-of-speaking sense.
-- <ruby>[訥](../words/訥.md)<rt>ㄋㄛㄊ</rt></ruby>: to mumble, stammer — halting, inarticulate speech (訥弁; 剛毅木訥, "firm, resolute, simple, and inarticulate," from the Analects), distinct from the still-uncoined "mutter," below.
+- <ruby>[口音](../words/口音.md)<rt>ㄎㄛㄨㄨㄇ</rt></ruby>: an accent.
+- <ruby>[訥](../words/訥.md)<rt>ㄋㄛㄊ</rt></ruby>: to mumble, stammer — halting, inarticulate speech (訥弁; 剛毅木訥, "firm, resolute, simple, and inarticulate," from the Analects), the nearest Dan'a'yo word to "mutter" and "murmur."
+
+- <ruby>[私語](../words/私語.md)<rt>ㄙㄧㄜ⼄</rt></ruby>: to whisper, speak privately.
 - <ruby>[流暢](../words/流暢.md)<rt>ㄌ⼜ㄑㄚㄫ</rt></ruby>: fluent, flowing — [[訥]]'s opposite pole.
 - <ruby>[喋](../words/喋.md)<rt>ㄉㄝㄆ</rt></ruby>: to chatter, babble on (喋喋不休, "to chatter on endlessly").
 
 **Excluded as a false match**: "tone" also loosely matches [[声調]], but that word means linguistic tone (the pitch contour of a tonal language), already housed on [Grammar](../lexipedia/Grammar.md) — a different homograph from the speaking-manner sense cited here.
 
-**Not yet coined**: "whisper," "murmur," "mutter," "scream," and "yell" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "whisper" is <ruby>[[私語]]<rt>ㄙㄧㄜ⼄</rt></ruby>; "scream" is <ruby>[[悲鳴]]<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby>; "yell" is <ruby>[[叫]]<rt>ㄍ⼘</rt></ruby> or <ruby>[[呼]]<rt>ㄏㄛ</rt></ruby>; and "murmur" and "mutter" are carried by <ruby>[[訥]]<rt>ㄋㄛㄊ</rt></ruby> (to mumble) and <ruby>[[私語]]<rt>ㄙㄧㄜ⼄</rt></ruby>. The Chinese 喃喃 "murmur" and 嘟囔 "mutter" are attested in Mandarin and Cantonese only, and need characters (喃, 嘟) the vault lacks, so they are not coined.
 
 ### Crying & Emotional Sounds
 
 - <ruby>[泣](../words/泣.md)<rt>ㄎㄧㄆ</rt></ruby>: to cry. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
+- <ruby>[悲鳴](../words/悲鳴.md)<rt>ㄅㄧㄜㄇ⼶ㄫ</rt></ruby>: a scream, shriek, a cry of distress.
 - <ruby>[嗚咽](../words/嗚咽.md)<rt>ㄛㄝㄋ</rt></ruby>: to sob, whimper. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby>: to exclaim. See [Body](../lexipedia/Body.md) for its own citation there.
 - <ruby>[怒号](../words/怒号.md)<rt>ㄋㄛㄏㄚㄨ</rt></ruby>: to roar, howl in anger. See [Emotions](../lexipedia/Emotions.md) for its own citation there.
 - <ruby>[呼喚](../words/呼喚.md)<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby>: to shout, cry to — the general verb.
-- <ruby>[叫](../words/叫.md)<rt>ㄍ⼘</rt></ruby>: to shout — an undocumented near-duplicate of [[呼喚]].
+- <ruby>[叫](../words/叫.md)<rt>ㄍ⼘</rt></ruby>: to shout — the plain word, where [[呼喚]] is to call out to someone.
 - <ruby>[叫喚](../words/叫喚.md)<rt>ㄍ⼘ㄏ⺢ㄋ</rt></ruby>: to cry out, call out.
 - <ruby>[喊声](../words/喊声.md)<rt>ㄏㄚㄇㄙㄧㄫ</rt></ruby>: a shout, battle cry, war cry — a specialized military register, more noun than [[呼喚]]'s verb.
 - <ruby>[喝](../words/喝.md)<rt>ㄏㄛㄊ</rt></ruby>: to yell, shout — also a cheer of acclaim (喝彩, "to cheer, applaud").
@@ -190,6 +203,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[英語](../words/英語.md)<rt>ㄝㄫ⼄</rt></ruby>: English language.
 - <ruby>[西班牙語](../words/西班牙語.md)<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ⼄</rt></ruby>: Spanish language.
 - <ruby>[言語](../words/言語.md)<rt>ㄝㄋ·⼄</rt></ruby>: language.
+- <ruby>[雑言語](../words/雑言語.md)<rt>ㄐㄚㄆㄝㄋ⼄</rt></ruby>: a pidgin, mixed language.
 - <ruby>[討論](../words/討論.md)<rt>ㄊㄚㄨㄌㄛㄋ</rt></ruby>: debate.
 - <ruby>[詞句](../words/詞句.md)<rt>ㄙㄚㄍㄨ</rt></ruby>: words and phrases.
 - <ruby>[逗号](../words/逗号.md)<rt>ㄉㄚㄨㄏㄚㄨ</rt></ruby>: comma.
@@ -215,7 +229,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 
 ## Semantic Range Notes
 
-**This page turned up an unusually dense cluster of near-synonym pairs**, more than most other lexipedia pages: [[誇張]]/[[誇]] ("exaggerate"), and a whole family of "report/inform" words ([[報]], [[報告]], [[報知]], [[通知]], [[稟告]], [[申告]]) distinguished mainly by formality and hierarchy rather than sense. None of these were treated as duplicates to be collapsed — each carries a real register distinction documented above — except [[誇張]]/[[誇]], flagged as a genuine undocumented near-duplicate.
+**Two near-synonym pairs split by register, and a dense "report" family**: <ruby>[[誇張]]<rt>ㄎ⺢ㄑㄚㄫ</rt></ruby> is the act of exaggerating a claim, and <ruby>[[誇]]<rt>ㄎ⺢</rt></ruby> is boasting as a trait of character; <ruby>[[叫]]<rt>ㄍ⼘</rt></ruby> is the plain "shout," and <ruby>[[呼喚]]<rt>ㄏㄛㄏ⺢ㄋ</rt></ruby> is calling out to someone. A whole family of "report/inform" words (<ruby>[[報]]<rt>ㄅㄚㄨ</rt></ruby>, <ruby>[[報告]]<rt>ㄅㄚㄨㄍㄚㄨ</rt></ruby>, <ruby>[[報知]]<rt>ㄅㄚㄨㄐㄨㄧ</rt></ruby>, <ruby>[[通知]]<rt>ㄊㄛㄫㄐㄨㄧ</rt></ruby>, <ruby>[[稟告]]<rt>ㄅㄨㄇㄍㄚㄨ</rt></ruby>, <ruby>[[申告]]<rt>ㄙㄝㄋㄍㄚㄨ</rt></ruby>) are distinguished mainly by formality and hierarchy rather than sense, and each carries a real register distinction documented above.
 
 **Three false matches were caught and excluded**: [[反応]] ("respond") means to react physically or chemically, not to reply in speech; [[鳴]] ("cry") means the cry or chirp of a bird or animal, not human crying; [[踪影]] ("sign") means a trace or evidence of something, not a semiotic sign. [[声調]] ("tone") is a related but distinct case — not quite a false match, but the linguistic-tone homograph of [[語気]]'s speaking-manner sense, already housed on [Grammar](../lexipedia/Grammar.md).
 

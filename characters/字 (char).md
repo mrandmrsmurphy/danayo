@@ -88,6 +88,7 @@ boundedness: 90
 - <ruby>[[旧字体]]<rt>ㄍ⼜ㄛㄐㄧ·ㄊㄝㄧ</rt></ruby> "traditional character forms, kyūjitai"
 - <ruby>[[用字]]<rt>⼄ㄫㄐㄧ</rt></ruby> "characters in use, character usage"
 - <ruby>[[打字机]]<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby> "typewriter"
+- <ruby>[[金字塔]]<rt>ㄍㄧㄇㄐㄧㄊㄚㄆ</rt></ruby> "a pyramid"
 
 ## Chengyu
 - <ruby>[[一字一音]]<rt>ㄧㄊㄐㄧㄧㄊ·ㄨㄇ</rt></ruby> "One Character, One Sound"

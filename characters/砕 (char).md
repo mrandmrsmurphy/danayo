@@ -53,6 +53,7 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[砕]]<rt>ㄙㄛㄧ</rt></ruby> "smash, break" (stand-in for 砕)
+- <ruby>[[砕片]]<rt>ㄙㄛㄧㄆㄝㄋ</rt></ruby> "a scrap, fragment"
 
 ## Chengyu
 - <ruby>[[粉骨砕身]]<rt>ㄈㄨㄋㄍㄛㄊㄙㄛㄧㄙㄧㄋ</rt></ruby> "to have one's body smashed to pieces; to die the most cruel death"

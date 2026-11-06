@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby> "charm; captivate"
 - <ruby>[[疑惑]]<rt>ㄧㄏㄛㄎ</rt></ruby> "suspicion"
 - <ruby>[[困惑]]<rt>ㄎㄛㄋㄏㄛㄎ</rt></ruby> "perplexity"
+- <ruby>[[誘惑]]<rt>⼜ㄛㄏㄛㄎ</rt></ruby> "to tempt; temptation"

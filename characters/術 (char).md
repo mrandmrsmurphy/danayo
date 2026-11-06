@@ -66,3 +66,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[芸術家]]<rt>ㄝㄙㄨㄊㄍㄚ</rt></ruby> "artist"
 - <ruby>[[美術]]<rt>ㄇㄧㄙㄨㄊ</rt></ruby> "fine art"
 - <ruby>[[美術館]]<rt>ㄇㄧㄙㄨㄊㄍ⺢ㄋ</rt></ruby> "art museum"
+- <ruby>[[術語]]<rt>ㄙㄨㄊ⼄</rt></ruby> "a (technical) term"

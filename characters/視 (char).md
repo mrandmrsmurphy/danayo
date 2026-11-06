@@ -64,6 +64,8 @@ Simplified Chinese form of 視, with 见 for 見. SKIP 1-4-4 (computed: EDRDG do
 - <ruby>[[視認]]<rt>ㄙㄧㄜ·ㄋㄧㄋ</rt></ruby> "visual recognition"
 - <ruby>[[怒視]]<rt>ㄋㄛㄙㄧㄜ</rt></ruby> "glare"
 - <ruby>[[蔑視]]<rt>ㄇㄝㄊㄙㄧㄜ</rt></ruby> "contempt"
+- <ruby>[[無視]]<rt>ㄇㄜㄙㄧㄜ</rt></ruby> "to ignore, disregard"
+- <ruby>[[凝視]]<rt>ㄜㄫㄙㄧㄜ</rt></ruby> "to gaze, stare"
 
 ## Chengyu
 - <ruby>[[虎視耽耽]]<rt>ㄏㄛㄙㄧㄜㄉㄛㄇㄉㄛㄇ</rt></ruby> "to eye covetously like a prowling tiger"

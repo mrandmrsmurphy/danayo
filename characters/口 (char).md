@@ -64,6 +64,7 @@ boundedness: 80
 - <ruby>[[海口]]<rt>ㄏㄚㄧ·ㄎㄛㄨ</rt></ruby> "Haikou; estuary"
 - <ruby>[[山口]]<rt>ㄙㄚㄋㄎㄛㄨ</rt></ruby> "Yamaguchi Prefecture"
 - <ruby>[[口論]]<rt>ㄎㄛㄨㄌㄛㄋ</rt></ruby> "quarrel"
+- <ruby>[[口音]]<rt>ㄎㄛㄨㄨㄇ</rt></ruby> "an accent"
 
 ## Derived Characters
 - <ruby>[[叩]]<rt>ㄎㄛㄨ</rt></ruby> "kowtow, knock"

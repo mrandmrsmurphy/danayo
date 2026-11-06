@@ -67,6 +67,7 @@ boundedness: 75
 - <ruby>[[高知]]<rt>ㄍㄚㄨㄐㄨㄧ</rt></ruby> "Kochi Prefecture"
 - <ruby>[[無知]]<rt>ㄇㄜㄐㄨㄧ</rt></ruby> "ignorance"
 - <ruby>[[知事]]<rt>ㄐㄨㄧㄐㄧ</rt></ruby> "governor"
+- <ruby>[[感知]]<rt>ㄍㄚㄇㄐㄨㄧ</rt></ruby> "to perceive, sense"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

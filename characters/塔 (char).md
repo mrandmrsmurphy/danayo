@@ -50,3 +50,4 @@ boundedness: 80
 
 ## Words
 - <ruby>[[塔]]<rt>ㄊㄚㄆ</rt></ruby> "pagoda" (stand-in for 塔 (char))
+- <ruby>[[金字塔]]<rt>ㄍㄧㄇㄐㄧㄊㄚㄆ</rt></ruby> "a pyramid"

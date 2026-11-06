@@ -54,6 +54,7 @@ boundedness: 100
 - <ruby>[[晶片]]<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby> "chip"
 - <ruby>[[唱片]]<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby> "record"
 - <ruby>[[膠片]]<rt>ㄍ⼄ㄨ·ㄆㄝㄋ</rt></ruby> "film (photographic)"
+- <ruby>[[砕片]]<rt>ㄙㄛㄧㄆㄝㄋ</rt></ruby> "a scrap, fragment"
 
 ## Derived Characters
 - <ruby>[[版]]<rt>ㄆㄚㄋ</rt></ruby> "edition; version"

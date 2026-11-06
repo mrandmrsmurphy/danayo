@@ -85,6 +85,7 @@ boundedness: 95
 - <ruby>[[成分]]<rt>ㄙㄧㄫㄅㄨㄋ</rt></ruby> "component"
 - <ruby>[[分解]]<rt>ㄅㄨㄋㄍ⼘ㄧ</rt></ruby> "decompose"
 - <ruby>[[分隊]]<rt>ㄅㄨㄋㄉㄛㄧ</rt></ruby> "a squad, small unit"
+- <ruby>[[分心]]<rt>ㄅㄨㄋㄙㄧㄇ</rt></ruby> "to be distracted, distract"
 
 ## Chengyu
 - <ruby>[[家分不立]]<rt>ㄍㄚㄅㄨㄋㄅㄛㄊㄌㄧㄆ</rt></ruby> "A house divided against itself cannot stand"

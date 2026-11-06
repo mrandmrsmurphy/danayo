@@ -75,6 +75,7 @@ boundedness: 90
 - <ruby>[[良心]]<rt>ㄌ⼘ㄫㄙㄧㄇ</rt></ruby> "conscience"
 - <ruby>[[感心]]<rt>ㄍㄚㄇㄙㄧㄇ</rt></ruby> "admiration"
 - <ruby>[[野心]]<rt>⼘ㄙㄧㄇ</rt></ruby> "ambition"
+- <ruby>[[分心]]<rt>ㄅㄨㄋㄙㄧㄇ</rt></ruby> "to be distracted, distract"
 
 ## Chengyu
 - <ruby>[[誠心誠意]]<rt>ㄙㄧㄫㄙㄧㄇㄙㄧㄫㄜ</rt></ruby> "in all sincerity; with one's whole heart"

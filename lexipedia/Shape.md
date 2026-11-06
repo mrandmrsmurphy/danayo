@@ -9,12 +9,13 @@ related_domains:
   - "[[Containers]]"
   - "[[Clothing]]"
   - "[[Measurement]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Shape
 
-Shape vocabulary covers the form, texture, and portions of physical objects — round and angular shapes, rigidity and texture, and the edges, spots, and parts that make up a whole. Several basic terms (a dull-edged "blunt," a generic "hole," and "band"/"bar"/"strip" as plain nouns rather than a classifier) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Shape vocabulary covers the form, texture, and portions of physical objects — round and angular shapes, rigidity and texture, and the edges, spots, and parts that make up a whole. Pyramid, ribbon, rim, scrap and stick are covered, with the few English words Dan'a'yo says by strategy (hole, blunt, bare, loose, panel, fold) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -36,7 +37,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[孔](../words/孔.md)<rt>ㄎㄛㄫ</rt></ruby>: a hole, cavity, opening (毛孔, "pore"; 鼻孔, "nostril") — a small perforation through a surface, yet another narrow sense rather than the fully generic noun.
 - <ruby>[空隙](../words/空隙.md)<rt>ㄎㄛㄫㄎㄝㄎ</rt></ruby>: a gap.
 
-**Not yet coined**: a fully generic "hole" (independent of surface or context) still has no dedicated word — [[坑]]'s ground-depression, [[孔]]'s small perforation, and the species-specific [[巣穴]] "den, burrow"/[[洞穴]] "cave, cavern" (on [Nature](../lexipedia/Nature.md)) all narrow to a particular kind of hollow rather than serving as the plain noun.
+**How Dan'a'yo says "hole"**: there is no single generic word, as in the other languages; <ruby>[[孔]]<rt>ㄎㄛㄫ</rt></ruby> is a small perforation, <ruby>[[坑]]<rt>ㄎㄚㄫ</rt></ruby> a pit or hollow in the ground, and <ruby>[[巣穴]]<rt>ㄐㄚㄨㄏ⼔ㄊ</rt></ruby> and <ruby>[[洞穴]]<rt>ㄉㄛㄫㄏ⼔ㄊ</rt></ruby> a den and a cave.
 
 ## Intermediate (B1–B2)
 
@@ -60,7 +61,8 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ### Angular & Solid Shapes
 
 - <ruby>[三角形](../words/三角形.md)<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby>: a triangle — the clean geometric noun.
-- <ruby>[三角](../words/三角.md)<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby>: a triangle — an undocumented near-duplicate of [[三角形]], the bare compositional form.
+- <ruby>[金字塔](../words/金字塔.md)<rt>ㄍㄧㄇㄐㄧㄊㄚㄆ</rt></ruby>: a pyramid.
+- <ruby>[三角](../words/三角.md)<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby>: a triangle — the bare compositional form, three angles, where [[三角形]] is the clean geometric noun with 形 "shape" added.
 - <ruby>[七角形](../words/七角形.md)<rt>ㄑㄧㄊㄍㄛㄎㄏㄝㄫ</rt></ruby>: a heptagon.
 - <ruby>[五角形](../words/五角形.md)<rt>ㄛㄍㄛㄎㄏㄝㄫ</rt></ruby>: a pentagon.
 - <ruby>[塊](../words/塊.md)<rt>ㄎㄛㄧ</rt></ruby>: a lump, piece, chunk, clump — also directly covers "piece" and "block" (a solid chunk), since no separate word for either exists.
@@ -70,19 +72,21 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[杆](../words/杆.md)<rt>ㄍㄚㄋ</rt></ruby>: a rod, pole.
 - <ruby>[筒](../words/筒.md)<rt>ㄉㄛㄫ</rt></ruby>: a tube.
 
-**Not yet coined**: "pyramid," "heap," and "ribbon" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "pyramid" is <ruby>[[金字塔]]<rt>ㄍㄧㄇㄐㄧㄊㄚㄆ</rt></ruby>, "ribbon" is <ruby>[[糸帯]]<rt>ㄙㄚㄊㄚㄧ</rt></ruby>, and "heap" is <ruby>[[堆積]]<rt>ㄉㄛㄧㄐㄝㄎ</rt></ruby> (to pile up), with <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby> for a mound.
 - <ruby>[斜辺](../words/斜辺.md)<rt>ㄙ⼘ㄅㄝㄋ</rt></ruby>: a hypotenuse — the side of a right triangle opposite the right angle ([[直角]]), the longest of the three sides of a [[三角形]].
 
 ### Linear & Elongated Objects
 
 - <ruby>[条](../words/条.md)<rt>ㄐㄛ</rt></ruby>: the Dan'a'yo classifier (量詞) for long, thin, flexible objects — ropes, rivers, roads, strips. It resolves the entire "band/bar/strip" cluster of English nouns at once, though as a classifier rather than a plain noun; see [Dimensions](../lexipedia/Dimensions.md) and [Measurement](../lexipedia/Measurement.md) for its own citations there.
+- <ruby>[木棒](../words/木棒.md)<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>: a stick, a plain wooden rod — neither a staff nor a weapon.
 - <ruby>[帯](../words/帯.md)<rt>ㄊㄚㄧ</rt></ruby>: a band, sash, belt — extends to any belt-like band or zone, the closest plain-noun match for "band" specifically.
+- <ruby>[糸帯](../words/糸帯.md)<rt>ㄙㄚㄊㄚㄧ</rt></ruby>: a ribbon.
 - <ruby>[縄](../words/縄.md)<rt>ㄙㄜㄫ</rt></ruby>: a rope, cord, string, line — the physical cord sense of "line."
 - <ruby>[排](../words/排.md)<rt>ㄆㄚㄧ</rt></ruby>: a row, line — the arrangement sense.
 - <ruby>[紋](../words/紋.md)<rt>ㄇㄨㄋ</rt></ruby>: a mark, line, symbol — a pattern-line (e.g. wood grain, a tattoo).
 - <ruby>[巴](../words/巴.md)<rt>ㄆㄚ</rt></ruby>: the tomoe, a specific comma-shaped swirl motif common in East Asian heraldry and design (三つ巴, the triple-swirl mon crest).
 
-**Not yet coined or excluded as false matches**: "stick" (a plain rod/twig) remains uncoined — [[杖]] and [[棍棒]], which also gloss "stick," mean a cane/walking-staff and a club/bludgeon respectively, tool and weapon senses unrelated to a plain stick shape.
+"Stick" (a plain rod) is <ruby>[[木棒]]<rt>ㄇㄛㄎㄅㄚㄫ</rt></ruby>, a wooden rod. **Excluded as false matches**: "stick" also loosely matches [[杖]] and [[棍棒]], which also gloss "stick," mean a cane/walking-staff and a club/bludgeon respectively, tool and weapon senses unrelated to a plain stick shape.
 
 ### Form & Representation
 
@@ -105,7 +109,9 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 ### Texture
 
 - <ruby>[粗造](../words/粗造.md)<rt>ㄐㄛㄑㄚㄨ</rt></ruby>: rough.
+- <ruby>[裸](../words/裸.md)<rt>ㄌㄚ</rt></ruby>: bare, naked, stripped — a surface with nothing on it.
 - <ruby>[鋭利](../words/鋭利.md)<rt>⼶ㄌㄧㄜ</rt></ruby>: sharp.
+- <ruby>[鈍](../words/鈍.md)<rt>ㄉㄛㄋ</rt></ruby>: dull, blunt, not sharp — the opposite of 鋭利.
 - <ruby>[鋒芒](../words/鋒芒.md)<rt>ㄈㄛㄫㄇ⼘ㄫ</rt></ruby>: the keen edge or point of a blade — and figuratively one's sharpness of talent; narrower and more concentrated than plain [[鋭利]].
 - <ruby>[平坦](../words/平坦.md)<rt>ㄅ⼶ㄫㄊㄚㄋ</rt></ruby>: smooth, flat.
 - <ruby>[扁平](../words/扁平.md)<rt>ㄆ⼶ㄋㄅ⼶ㄫ</rt></ruby>: flat, flattened — thin in one dimension and broad in the others (a flattened shape, a flat-profiled thing), distinct from [[平坦]]'s even, level surface.
@@ -116,9 +122,9 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[凹](../words/凹.md)<rt>ㄚㄨ</rt></ruby>: concave, dented, sunken — the bound root behind [[凹凸]] above.
 - <ruby>[凸](../words/凸.md)<rt>ㄉㄛㄊ</rt></ruby>: convex, protruding — [[凹]]'s direct opposite, the other bound root behind [[凹凸]].
 
-**Not yet coined**: "bare" and "loose" both have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "bare" is <ruby>[[裸]]<rt>ㄌㄚ</rt></ruby> ("strip, be naked"); "loose" is said as the opposite of firm, with 不 and the words of the Firmness section above, since the Chinese 鬆 needs a character the vault lacks and 松 here is "pine."
 
-**Not yet coined or excluded as false matches**: "sharp" also loosely matches [[快]], which actually means quick/pleased in an emotional register (already housed on [Emotions](../lexipedia/Emotions.md)), not physical sharpness — not cited here. "Blunt" (a dull edge) remains uncoined — [[唐突]], which also glosses "blunt," means abrupt or presumptuous in manner, a behavioral sense, not a physical edge. "Smooth" (fluent, flowing movement) also loosely matches [[暢達]] and [[順次]], both already housed on [Movement](../lexipedia/Movement.md) or meaning "in sequence" respectively — neither is physical texture, so neither is cited here.
+**Excluded as false matches**: "sharp" also loosely matches [[快]], which actually means quick/pleased in an emotional register (already housed on [Emotions](../lexipedia/Emotions.md)), not physical sharpness — not cited here. "Blunt" (a dull edge) is <ruby>[[鈍]]<rt>ㄉㄛㄋ</rt></ruby> ("dull, not sharp"). **Excluded as a false match**: "blunt" also loosely matches [[唐突]], which also glosses "blunt," means abrupt or presumptuous in manner, a behavioral sense, not a physical edge. "Smooth" (fluent, flowing movement) also loosely matches [[暢達]] and [[順次]], both already housed on [Movement](../lexipedia/Movement.md) or meaning "in sequence" respectively — neither is physical texture, so neither is cited here.
 
 ### Volume & Extent
 
@@ -137,7 +143,8 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[大部分](../words/大部分.md)<rt>ㄉㄚㄧㄅㄛㄨㄅㄨㄋ</rt></ruby>: the majority, most of it.
 - <ruby>[部](../words/部.md)<rt>ㄅㄛㄨ</rt></ruby>: a part — the bound root behind [[部分]] above (also 全部, "all, the whole"; 部署, "a department," on [[Government]]).
 - <ruby>[片](../words/片.md)<rt>ㄆㄝㄋ</rt></ruby>: a slice, flake — a thin flat piece, distinct from [[塊]]'s solid chunk; also one of [[Food]]'s own cutting-style morphemes (片, "sliced").
-- <ruby>[一体](../words/一体.md)<rt>ㄧㄊㄊㄝㄧ</rt></ruby>: an organic whole, unity — [[部分]]'s structural counterpart, things functioning as one rather than a mere assemblage; distinct from [[全体]]'s quantitative "all of it, the entirety" (not yet placed).
+- <ruby>[砕片](../words/砕片.md)<rt>ㄙㄛㄧㄆㄝㄋ</rt></ruby>: a scrap, fragment.
+- <ruby>[一体](../words/一体.md)<rt>ㄧㄊㄊㄝㄧ</rt></ruby>: an organic whole, unity — [[部分]]'s structural counterpart, things functioning as one rather than a mere assemblage; distinct from [[全体]]'s quantitative "all of it, the entirety" (housed on [Dimensions](../lexipedia/Dimensions.md)).
 - <ruby>[特点](../words/特点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a feature, characteristic, trait.
 - <ruby>[特徴](../words/特徴.md)<rt>ㄉㄜㄎㄉㄧㄫ</rt></ruby>: a distinguishing feature, the identifying mark — the analytic counterpart of [[特点]].
 - <ruby>[斑点](../words/斑点.md)<rt>ㄅㄚㄋㄉㄝㄇ</rt></ruby>: a spot, speck.
@@ -153,9 +160,9 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[堆積](../words/堆積.md)<rt>ㄉㄛㄧㄐㄝㄎ</rt></ruby>: to pile up.
 - <ruby>[標識](../words/標識.md)<rt>ㄅ⼄ㄙㄧㄎ</rt></ruby>: a sign, mark, symbol — a variant of [[標誌]] (already housed on [Mind](../lexipedia/Mind.md)), cited here for the physical marking sense.
 
-**Not yet coined**: "bit" (a small piece), "fold," "scrap," and "rim" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "bit" is <ruby>[[片]]<rt>ㄆㄝㄋ</rt></ruby> (a slice, flake); "scrap" is <ruby>[[砕片]]<rt>ㄙㄛㄧㄆㄝㄋ</rt></ruby>, a small broken-off piece; "fold" is <ruby>[[折畳]]<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby>, as on the Sophomore List; and "rim" is <ruby>[[辺縁]]<rt>ㄅㄝㄋ⼶ㄋ</rt></ruby>.
 
-**Not yet coined or excluded as false matches**: "point" (the abstract gist/main idea) also loosely matches [[主旨]], already housed on [Mind](../lexipedia/Mind.md) — not the geometric "point" cited here. "Thing" (the abstract affair/matter sense) also loosely matches [[事]], already housed on [Existence](../lexipedia/Existence.md) — not the concrete "thing" cited here. "Mark" (a symbolic indicator) also loosely matches [[符号]] (a linguistic/grammatical symbol, already housed on [Grammar](../lexipedia/Grammar.md)).
+**Excluded as false matches**: "point" (the abstract gist/main idea) also loosely matches [[主旨]], already housed on [Mind](../lexipedia/Mind.md) — not the geometric "point" cited here. "Thing" (the abstract affair/matter sense) also loosely matches [[事]], already housed on [Existence](../lexipedia/Existence.md) — not the concrete "thing" cited here. "Mark" (a symbolic indicator) also loosely matches [[符号]] (a linguistic/grammatical symbol, already housed on [Grammar](../lexipedia/Grammar.md)).
 
 ### Beams & Boards
 
@@ -163,7 +170,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[橋梁](../words/橋梁.md)<rt>ㄍ⼘ㄨㄌ⼘ㄫ</rt></ruby>: a beam — specifically a bridge-beam, distinct from [[桁]]'s general beam.
 - <ruby>[木板](../words/木板.md)<rt>ㄇㄛㄎㄆㄚㄋ</rt></ruby>: a board — the wooden plank. "Board" also loosely matches [[登]] ("to board," a vehicle, already housed on [Movement](../lexipedia/Movement.md)) — a different, unrelated homograph, not cited here.
 
-**Not yet coined**: "panel" has no dedicated Dan'a'yo word yet.
+**"Panel"** is not coined: the Chinese 面板 is attested in Mandarin only, so a panel is said with the word for a board or sheet as the context needs.
 
 ## Advanced / Specialized (C1+)
 
@@ -181,6 +188,8 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 - <ruby>[球体](../words/球体.md)<rt>ㄍ⼜·ㄊㄝㄧ</rt></ruby>: sphere.
 - <ruby>[菱形](../words/菱形.md)<rt>ㄌㄜㄫㄏㄝㄫ</rt></ruby>: rhombus; diamond shape.
 - <ruby>[輪郭](../words/輪郭.md)<rt>ㄌㄨㄋㄍ⺢ㄎ</rt></ruby>: outline; contour; silhouette.
+- <ruby>[折畳](../words/折畳.md)<rt>ㄐㄝㄊㄉㄝㄆ</rt></ruby>: to fold; a fold — folding something over itself.
+- <ruby>[辺縁](../words/辺縁.md)<rt>ㄅㄝㄋ⼶ㄋ</rt></ruby>: a rim, edge, margin.
 - <ruby>[頂点](../words/頂点.md)<rt>ㄐㄝㄫㄉㄝㄇ</rt></ruby>: peak; vertex; apex.
 
 ## Semantic Range Notes
@@ -189,7 +198,7 @@ Shape vocabulary covers the form, texture, and portions of physical objects — 
 
 **This page turned up an unusually large number of false-match candidates**, more than most other lexipedia pages: [[快]] ("sharp") is really "quick, pleased"; [[唐突]] ("blunt") is really "abrupt in manner"; [[順次]] and [[暢達]] ("smooth") mean "in sequence" and "fluent movement" respectively; [[郵便]] (checked for "post," the pole/pillar sense) and [[阻止]]/[[阻碍]] (checked for "block," the verb) are the postal system and "to obstruct," not physical shapes — "post" (a plain pole/stake) remains genuinely uncoined, distinct from [[柱]]'s pillar and [[杆]]'s rod; [[主旨]] ("point"), [[事]] ("thing"), and [[対象]] ("object") are all abstract/cognitive senses, already housed on [Mind](../lexipedia/Mind.md) or [Existence](../lexipedia/Existence.md); [[登]] ("board") is the movement verb "to board a vehicle." None of these were cited, and each is flagged inline above at its relevant entry.
 
-**[[三角形]] and [[三角]] are an undocumented near-duplicate pair**, both meaning "triangle" with no recorded distinction — the same treatment given to other such pairs elsewhere in this vault (compare [[親族]]/[[親戚]] on [Kinship](../lexipedia/Kinship.md)).
+**<ruby>[[三角形]]<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> and <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> are a clean word and its bare form**: <ruby>[[三角形]]<rt>ㄙㄚㄇㄍㄛㄎㄏㄝㄫ</rt></ruby> is "triangle" as a geometric figure, with 形 "shape" added; <ruby>[[三角]]<rt>ㄙㄚㄇㄍㄛㄎ</rt></ruby> is the bare "three angles," used in compounds and for a triangular thing.
 
 ## See Also
 
