@@ -116,6 +116,7 @@ boundedness: 80
 - <ruby>[[天体]]<rt>ㄊㄝㄋㄊㄝㄧ</rt></ruby> "celestial body"
 - <ruby>[[天文台]]<rt>ㄊㄝㄋㄇㄨㄋㄉㄚㄧ</rt></ruby> "observatory"
 - <ruby>[[天球]]<rt>ㄊㄝㄋㄍ⼜</rt></ruby> "celestial sphere"
+- <ruby>[[天幕]]<rt>ㄊㄝㄋㄇㄚㄎ</rt></ruby> "a tent, canopy"
 
 ## Derived Characters
 - <ruby>[[蚕 (char)|蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm"

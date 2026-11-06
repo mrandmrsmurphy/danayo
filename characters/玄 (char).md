@@ -55,6 +55,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[玄武岩]]<rt>ㄏ⼔ㄋㄇㄨㄚㄇ</rt></ruby> "basalt"
 - <ruby>[[玄米茶]]<rt>ㄏ⼔ㄋㄇㄝㄧㄑㄚ</rt></ruby> "genmaicha"
 - <ruby>[[玄暈]]<rt>ㄏ⼔ㄋ·ㄨㄋ</rt></ruby> "dizzy; blurry"
+- <ruby>[[玄関]]<rt>ㄏ⼔ㄋㄍ⺢ㄇ</rt></ruby> "a vestibule, entry hall"
 
 ## Derived Characters
 - <ruby>[[弦 (char)|弦]]<rt>ㄏㄝㄋ</rt></ruby> "bowstring; chord"

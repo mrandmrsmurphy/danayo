@@ -69,6 +69,7 @@ boundedness: 80
 - <ruby>[[六百]]<rt>ㄌㄨㄎㄅㄚㄎ</rt></ruby> "six hundred"
 - <ruby>[[九百]]<rt>ㄎ⼜ㄅㄚㄎ</rt></ruby> "nine hundred"
 - <ruby>[[百万]]<rt>ㄅㄚㄎㄇㄛㄋ</rt></ruby> "one million"
+- <ruby>[[百貨店]]<rt>ㄅㄚㄎㄏ⺢ㄉㄝㄇ</rt></ruby> "a department store"
 
 ## Chengyu
 - <ruby>[[百家共承]]<rt>ㄅㄚㄎㄍㄚㄍ⼄ㄫㄙㄨㄫ</rt></ruby> "Hundred schools jointly inherited"

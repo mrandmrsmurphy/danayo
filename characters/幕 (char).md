@@ -51,6 +51,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[幕]]<rt>ㄇㄚㄎ</rt></ruby> "curtain" (stand-in for 幕 (char))
 - <ruby>[[開幕]]<rt>ㄎㄚㄧㄇㄚㄎ</rt></ruby> "opening"
 - <ruby>[[閉幕]]<rt>ㄅㄝㄧㄇㄚㄎ</rt></ruby> "closing"
+- <ruby>[[天幕]]<rt>ㄊㄝㄋㄇㄚㄎ</rt></ruby> "a tent, canopy"
 
 ## Derived Characters
 - <ruby>[[冪]]<rt>ㄇㄧㄎ</rt></ruby> "cover; exponent"

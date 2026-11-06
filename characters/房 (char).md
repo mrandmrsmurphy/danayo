@@ -55,3 +55,4 @@ boundedness: 90
 - <ruby>[[書房]]<rt>ㄙ⼄ㄅㄚㄫ</rt></ruby> "study (room), library"
 - <ruby>[[閨房]]<rt>ㄍㄨㄧㄅㄚㄫ</rt></ruby> "boudoir, bower"
 - <ruby>[[乳房]]<rt>ㄋㄨㄅㄚㄫ</rt></ruby> "breast, udder"
+- <ruby>[[監房]]<rt>ㄍㄚㄇㄅㄚㄫ</rt></ruby> "a prison cell"

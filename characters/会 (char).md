@@ -77,6 +77,7 @@ boundedness: 75
 - <ruby>[[展覧会]]<rt>ㄐㄝㄋㄌㄚㄇㄏ⼔</rt></ruby> "exhibition"
 - <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby> "assembly"
 - <ruby>[[国会]]<rt>ㄍㄛㄎㄏ⼔</rt></ruby> "parliament"
+- <ruby>[[音楽会堂]]<rt>ㄨㄇㄌㄚㄎㄏ⼔ㄉㄚㄫ</rt></ruby> "a concert hall"
 
 ## Chengyu
 - <ruby>[[一期一会]]<rt>ㄧㄊㄎㄧㄧㄊㄏ⼔</rt></ruby> "treasure every encounter, for it will never recur"

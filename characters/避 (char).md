@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[避]]<rt>ㄅㄝ</rt></ruby> "evade, dodge" (stand-in for 避)
 - <ruby>[[逃避]]<rt>ㄉㄚㄨㄅㄝ</rt></ruby> "shirk, evade"
 - <ruby>[[回避]]<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby> "to avoid"
+- <ruby>[[避難所]]<rt>ㄅㄝㄋㄚㄋㄙㄜ</rt></ruby> "a shelter, refuge"

@@ -62,3 +62,5 @@ boundedness: 60
 - <ruby>[[指関節]]<rt>ㄐㄧㄜㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "knuckle, joint"
 - <ruby>[[関節]]<rt>ㄍ⺢ㄇㄐㄝㄊ</rt></ruby> "joint (anatomical)"
 - <ruby>[[関連]]<rt>ㄍ⺢ㄇㄌ⼶ㄋ</rt></ruby> "relation"
+- <ruby>[[玄関]]<rt>ㄏ⼔ㄋㄍ⺢ㄇ</rt></ruby> "a vestibule, entry hall"
+- <ruby>[[税関]]<rt>ㄙㄝㄍ⺢ㄇ</rt></ruby> "customs, a customs house"

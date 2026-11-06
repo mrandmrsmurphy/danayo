@@ -54,3 +54,4 @@ boundedness: 75
 - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby> "spaceship"
 - <ruby>[[宇宙観]]<rt>ㄨㄐㄨㄛㄍ⺢ㄋ</rt></ruby> "cosmology, worldview"
 - <ruby>[[宇宙飛行士]]<rt>ㄨㄐㄨㄛㄈㄝㄧㄏㄚㄫㄙㄚㄧ</rt></ruby> "astronaut"
+- <ruby>[[宇宙港湾]]<rt>ㄨㄐㄨㄛㄏㄛㄫ⺢ㄇ</rt></ruby> "a spaceport"

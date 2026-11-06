@@ -63,3 +63,5 @@ boundedness: 90
 - <ruby>[[近所]]<rt>ㄍㄧㄋㄙㄜ</rt></ruby> "neighborhood"
 - <ruby>[[住所]]<rt>ㄐㄨㄙㄜ</rt></ruby> "address"
 - <ruby>[[所有権]]<rt>ㄙㄜ⼜ㄍ⼔ㄋ</rt></ruby> "ownership right"
+- <ruby>[[避難所]]<rt>ㄅㄝㄋㄚㄋㄙㄜ</rt></ruby> "a shelter, refuge"
+- <ruby>[[醸造所]]<rt>ㄋ⼘ㄫㄑㄚㄨㄙㄜ</rt></ruby> "a brewery"
