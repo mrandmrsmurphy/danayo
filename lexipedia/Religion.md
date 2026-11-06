@@ -151,6 +151,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[加沙](../words/加沙.md)<rt>ㄍㄚㄙㄚ</rt></ruby>: kāṣāya (Buddhist robes).
 - <ruby>[基督教](../words/基督教.md)<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>: Christianity.
 - <ruby>[猶太教](../words/猶太教.md)<rt>⼜ㄛㄊㄚㄧㄍ⼄ㄨ</rt></ruby>: Judaism.
+- <ruby>[神諭](../words/神諭.md)<rt>ㄙㄧㄋ·⼜ㄇ</rt></ruby>: an oracle, divine message.
 - <ruby>[印度教](../words/印度教.md)<rt>ㄧㄋㄉㄛㄍ⼄ㄨ</rt></ruby>: Hinduism.
 - <ruby>[沙羅双樹](../words/沙羅双樹.md)<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby>: sal tree; shala; sakhua.
 - <ruby>[涅盤](../words/涅盤.md)<rt>ㄋㄝㄊㄅㄚㄋ</rt></ruby>: nirvana.

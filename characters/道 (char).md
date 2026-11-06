@@ -90,6 +90,7 @@ boundedness: 70
 - <ruby>[[食道]]<rt>ㄙㄧㄎㄉㄚㄨ</rt></ruby> "esophagus"
 - <ruby>[[黄道]]<rt>ㄏ⺢ㄫㄉㄚㄨ</rt></ruby> "ecliptic"
 - <ruby>[[小道]]<rt>ㄙㄛㄉㄚㄨ</rt></ruby> "path"
+- <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "channel, waterway"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

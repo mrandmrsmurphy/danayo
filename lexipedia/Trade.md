@@ -114,9 +114,11 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.
 - <ruby>[韓圓](../words/韓圓.md)<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>: the won, Korean currency.
+- <ruby>[人民幣](../words/人民幣.md)<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby>: the yuan, renminbi.
 - <ruby>[美圓](../words/美圓.md)<rt>ㄇㄧ⼔ㄋ</rt></ruby>: the dollar, American currency.
 - <ruby>[日圓](../words/日圓.md)<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>: the yen, Japanese currency.
 - <ruby>[紙幣](../words/紙幣.md)<rt>ㄐㄝ·ㄆㄝ</rt></ruby>: a banknote.
+- <ruby>[提款机](../words/提款机.md)<rt>ㄙㄝ·ㄎ⺢ㄋㄍㄧㄜ</rt></ruby>: an ATM.
 
 ### Work
 

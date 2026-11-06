@@ -49,3 +49,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[款]]<rt>ㄎ⺢ㄋ</rt></ruby> "item, article" (stand-in for 款)
+- <ruby>[[提款机]]<rt>ㄙㄝ·ㄎ⺢ㄋㄍㄧㄜ</rt></ruby> "ATM"

@@ -36,12 +36,14 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 ### Vehicles & Machines
 
 - <ruby>[貨車](../words/貨車.md)<rt>ㄏ⺢ㄑ⺢</rt></ruby>: a truck, freight car. Homophone of [[火車]], the Joseon rocket-cart.
+- <ruby>[馬車](../words/馬車.md)<rt>ㄇㄚㄑ⺢</rt></ruby>: a wagon, horse-drawn carriage.
 - <ruby>[戦車](../words/戦車.md)<rt>ㄐㄝㄋㄑ⺢</rt></ruby>: a tank, armoured fighting vehicle. See [War](../lexipedia/War.md) for its own citation there.
 - <ruby>[昇降机](../words/昇降机.md)<rt>ㄙㄨㄫㄍㄚㄫㄍㄧㄜ</rt></ruby>: an elevator, lift.
 - <ruby>[打字机](../words/打字机.md)<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>: a typewriter.
 - <ruby>[洗衣机](../words/洗衣机.md)<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby>: a washing machine.
 - <ruby>[乾燥机](../words/乾燥机.md)<rt>ㄍ⼶ㄋㄙㄚㄨㄍㄧㄜ</rt></ruby>: a dryer, drying machine.
 - <ruby>[複印机](../words/複印机.md)<rt>ㄅㄨㄎ·ㄧㄋㄍㄧㄜ</rt></ruby>: a photocopier.
+- <ruby>[複製](../words/複製.md)<rt>ㄅㄨㄎㄐㄝ</rt></ruby>: to copy, reproduce.
 
 ### Handles & Grips
 
@@ -143,6 +145,8 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[架](../words/架.md)<rt>ㄍㄚ</rt></ruby>: rack.
 - <ruby>[滑鼠](../words/滑鼠.md)<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>: mouse (computer).
 - <ruby>[網站](../words/網站.md)<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby>: a website.
+- <ruby>[部落格](../words/部落格.md)<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby>: a blog.
+- <ruby>[網絡](../words/網絡.md)<rt>ㄇㄚㄫㄌㄚㄎ</rt></ruby>: the web, network.
 - <ruby>[顕示器](../words/顕示器.md)<rt>ㄏㄝㄋㄍㄝ·ㄎㄧㄜ</rt></ruby>: a monitor, display screen.
 - <ruby>[掃描儀](../words/掃描儀.md)<rt>ㄙㄚㄨㄇ⼘ㄨㄜㄧ</rt></ruby>: a scanner.
 - <ruby>[発動机](../words/発動机.md)<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby>: a motor, engine.
@@ -150,9 +154,11 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[加油站](../words/加油站.md)<rt>ㄍㄚ⼜ㄐㄚㄇ</rt></ruby>: a gas station.
 - <ruby>[計程車](../words/計程車.md)<rt>ㄍㄝㄧㄉㄧㄫㄑ⺢</rt></ruby>: a taxi.
 - <ruby>[洗碗机](../words/洗碗机.md)<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby>: a dishwasher.
+- <ruby>[水槽](../words/水槽.md)<rt>ㄙㄨㄐㄚㄨ</rt></ruby>: a sink, water tank.
 - <ruby>[空調](../words/空調.md)<rt>ㄎㄛㄫㄐㄨㄛ</rt></ruby>: air conditioning.
 - <ruby>[晶片](../words/晶片.md)<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby>: a chip, microchip.
 - <ruby>[光盤](../words/光盤.md)<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby>: a CD, optical disc.
+- <ruby>[磁帯](../words/磁帯.md)<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby>: tape, magnetic tape.
 - <ruby>[磁盤](../words/磁盤.md)<rt>ㄐㄧㄅㄚㄋ</rt></ruby>: a disk, magnetic disk.
 - <ruby>[硬盤](../words/硬盤.md)<rt>ㄚㄫㄅㄚㄋ</rt></ruby>: a hard drive, hard disk.
 - <ruby>[編訳器](../words/編訳器.md)<rt>ㄅ⼶ㄋ⼶ㄎㄎㄧㄜ</rt></ruby>: a compiler, program that translates source code.

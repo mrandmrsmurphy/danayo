@@ -94,6 +94,8 @@ language: English
 - pool - *(no clean CJKV consensus — Mandarin 游泳池, Japanese loanword プール, Korean 수영장 all structured differently)*
 - tavern - *(no clean CJKV consensus)*
 - inn - [[旅館]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese りょかん (a real, culturally distinct institution), and Korean 여관. Genuinely distinct from "hotel" above. Not yet a word page.)*
+- <ruby>[磨坊](../words/磨坊.md)<rt>ㄇㄚㄈㄚㄫ</rt></ruby>: a mill.
+- <ruby>[城堡](../words/城堡.md)<rt>ㄙㄧㄫㄅㄚㄨ</rt></ruby>: a castle.
 - <ruby>[酒館](../words/酒館.md)<rt>ㄐㄨㄛㄍ⺢ㄋ</rt></ruby>: a tavern, bar, pub.
 - hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby> (same word as the Buildings section's own "hotel" above)
 - restaurant - <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>

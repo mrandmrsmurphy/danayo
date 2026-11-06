@@ -76,3 +76,4 @@ boundedness: 90
 - <ruby>[[部下]]<rt>ㄅㄛㄨㄏㄚ</rt></ruby> "subordinate"
 - <ruby>[[上部]]<rt>ㄙ⼘ㄫㄅㄛㄨ</rt></ruby> "upper part"
 - <ruby>[[下部]]<rt>ㄏㄚㄅㄛㄨ</rt></ruby> "lower part"
+- <ruby>[[部落格]]<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby> "blog"

@@ -169,7 +169,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - School :
 	- school - <ruby>[[学校]]<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 	- university - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
-	- class *(needs a word — [[等級]] "grade, ranking" is a false friend, not a school class)*
+	- class - <ruby>[[班級]]<rt>ㄆㄚㄋㄍㄧㄆ</rt></ruby>
 	- lesson - <ruby>[[課]]<rt>ㄎ⺢ㄇ</rt></ruby>
 	- teacher - <ruby>[[教師]]<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>
 	- test - <ruby>[[試験]]<rt>ㄙㄧㄝㄇ</rt></ruby>
@@ -177,7 +177,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- food - <ruby>[[食物]]<rt>ㄙㄧㄎㄇㄨㄊ</rt></ruby>
 	- lunch - <ruby>[[午餐]]<rt>ㄛㄑㄚㄋ</rt></ruby>
 	- dinner - <ruby>[[正餐]]<rt>ㄐㄧㄫㄑㄚㄋ</rt></ruby>
-	- wine *(needs a word — closest is [[醇酒]] "fine wine," but no plain "wine"; 葡萄酒 could be built from existing [[葡]]/[[萄]]/[[酒]] characters)*
+	- wine - <ruby>[[葡萄酒]]<rt>ㄅㄛㄉㄚㄨㄐㄨㄛ</rt></ruby>
 	- milk - <ruby>[[牛乳]]<rt>ㄋ⼜·ㄋㄨ</rt></ruby>
 - Clothing :
 	- clothes - <ruby>[[衣服]]<rt>ㄧㄜㄅㄨㄎ</rt></ruby>
@@ -192,7 +192,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- clock - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
 	- key - <ruby>[[鍵]]<rt>ㄍ⼶ㄋ</rt></ruby>
 	- net - <ruby>[[網]]<rt>ㄇㄚㄫ</rt></ruby>
-	- wagon *(needs a word)*
+	- wagon - <ruby>[[馬車]]<rt>ㄇㄚㄑ⺢</rt></ruby>
 	- wheel - <ruby>[[輪]]<rt>ㄌㄨㄋ</rt></ruby>
 	- wire - <ruby>[[鉄線]]<rt>ㄊㄝㄊㄙ⼶ㄋ</rt></ruby> *(the general word for physical wire; current-carrying wire is <ruby>[[電線]]<rt>ㄉㄝㄋㄙ⼶ㄋ</rt></ruby>)*
 - Containers :
@@ -263,13 +263,13 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- use - <ruby>[[使用]]<rt>ㄙㄧ⼄ㄫ</rt></ruby>
 	- grow - <ruby>[[栽培]]<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>
 - Writing :
-	- write *(needs a word)*
+	- write - <ruby>[[書写]]<rt>ㄙ⼄ㄙ⼘</rt></ruby>
 	- read - <ruby>[[読書]]<rt>ㄉㄛㄎㄙ⼄</rt></ruby>
 	- translate - <ruby>[[翻訳]]<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby>
 	- create - <ruby>[[創造]]<rt>ㄑ⺢ㄫㄑㄚㄨ</rt></ruby>
 	- study - <ruby>[[学習]]<rt>ㄏㄚㄎㄙㄜㄆ</rt></ruby>
 	- learn - <ruby>[[了解]]<rt>ㄌ⼘ㄨㄍ⼘ㄧ</rt></ruby>
-	- copy *(needs a word — [[稿]] means "manuscript, draft," not "copy" of something)*
+	- copy - <ruby>[[複製]]<rt>ㄅㄨㄎㄐㄝ</rt></ruby>
 - Affection :
 	- love - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby>
 	- hate - <ruby>[[憎悪]]<rt>ㄐㄜㄫㄚㄎ</rt></ruby>
@@ -440,11 +440,11 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Internet :
 	- internet - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby>
 	- email - <ruby>[[電子郵件]]<rt>ㄉㄝㄋㄐㄜㄨㄛㄍ⼶ㄋ</rt></ruby>
-	- web *(needs a word)*
+	- web - <ruby>[[網絡]]<rt>ㄇㄚㄫㄌㄚㄎ</rt></ruby>
 	- website - <ruby>[[網站]]<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby>
 	- download - <ruby>[[下載]]<rt>ㄏㄚㄐㄚㄧ</rt></ruby>
 	- browser *(needs a word)*
-	- blog *(needs a word)*
+	- blog - <ruby>[[部落格]]<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby>
 	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
 	- flame - <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby>
 	- lurker *(needs a word)*
@@ -475,7 +475,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- plastic - <ruby>[[塑膠]]<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>
 - Appliance :
 	- stove *(needs a word)*
-	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
+	- sink - <ruby>[[水槽]]<rt>ㄙㄨㄐㄚㄨ</rt></ruby> *(the fixture; "water tank, trough")*
 	- dishwasher - <ruby>[[洗碗机]]<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby>
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
 	- washer - <ruby>[[洗衣机]]<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby>
@@ -492,7 +492,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Recording :
 	- CD - <ruby>[[光盤]]<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby>
 	- record - <ruby>[[唱片]]<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby>
-	- tape *(needs a word)*
+	- tape - <ruby>[[磁帯]]<rt>ㄐㄧ·ㄊㄚㄧ</rt></ruby>
 	- stereo - <ruby>[[立体声]]<rt>ㄌㄧㄆㄊㄝㄧㄙㄧㄫ</rt></ruby>
 - Weaponry :
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
@@ -532,7 +532,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- l - <ruby>[[升]]<rt>ㄙㄨㄫ</rt></ruby>
 - Lifestyle :
 	- lifestyle - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> *(same word already used for "live, life" — see [[Life]])*
-	- ATM *(needs a word)*
+	- ATM - <ruby>[[提款机]]<rt>ㄙㄝ·ㄎ⺢ㄋㄍㄧㄜ</rt></ruby>
 	- suburb - <ruby>[[近郊]]<rt>ㄍㄧㄋㄍ⼄ㄨ</rt></ruby> *("suburbs, outskirts")*
 - Jobs :
 	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *(<ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>, which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
@@ -558,7 +558,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from <ruby>[[連邦]]<rt>ㄌ⼶ㄋㄅㄚㄫ</rt></ruby>'s federal "union of states")*
 	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
 	- yen - <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>
-	- yuan *(needs a word)*
+	- yuan - <ruby>[[人民幣]]<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby>
 	- won - <ruby>[[韓圓]]<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>
 	- taxes *(needs a word — distinct from the singular [[税金]] "tax," already used above)*
 - Avocations :
@@ -597,7 +597,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- fascism - <ruby>[[法西斯主義]]<rt>ㄈㄚㄆㄙㄝㄧㄙㄧㄐㄨㄜㄧ</rt></ruby>
 	- republic - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby>
 	- democracy - <ruby>[[民主]]<rt>ㄇㄧㄋㄐㄨ</rt></ruby>
-	- Green *(needs a word)*
+	- Green - <ruby>[[緑党]]<rt>ㄌㄛㄎㄉㄚㄫ</rt></ruby>
 	- human rights - <ruby>[[人権]]<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby>
 	- liberal - <ruby>[[自由主義]]<rt>ㄐㄧㄜ⼜ㄛㄐㄨㄜㄧ</rt></ruby>
 	- conservative - <ruby>[[保守]]<rt>ㄅㄚㄨㄙ⼜</rt></ruby>
@@ -621,7 +621,7 @@ _These are for place names, not the words themselves_
 
 ### Geography
 - Plains :
-	- plain *(needs a word — [[普通]]/[[清淡]], which also gloss "plain," mean "ordinary"/"bland," not the landform; see [[Shape]] and [[Plants]] for this same false-match pattern)*
+	- plain - <ruby>[[平原]]<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>
 	- savannah - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby> *(same word as "prairie" below — covers the whole open-grassland cluster; see [[Plants]])*
 	- meadow - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>
 	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby> *(<ruby>[[球場]]<rt>ㄍ⼜ㄐㄚㄫ</rt></ruby>, which also glosses "field," means a sports stadium — not cited here)*
@@ -631,11 +631,11 @@ _These are for place names, not the words themselves_
 	- grove/copse - <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby>
 - Hills:
 	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> *(same word already used above in Nouns > Geographical)*
-	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
+	- down - <ruby>[[丘陵]]<rt>ㄎ⼜ㄌㄜㄫ</rt></ruby> *("hills, rolling uplands")*
 	- mountain - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>
 	- range - <ruby>[[山脈]]<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> *("mountain range")*
 	- plateau - <ruby>[[高原]]<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>
-	- crest *(needs a word)*
+	- crest - <ruby>[[稜線]]<rt>ㄌㄨㄫㄙ⼶ㄋ</rt></ruby>
 	- peak - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>
 - Valley :
 	- valley - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby>
@@ -651,7 +651,7 @@ _These are for place names, not the words themselves_
 	- river - <ruby>[[川]]<rt>ㄑ⺢ㄋ</rt></ruby>
 	- stream - <ruby>[[小河]]<rt>ㄙㄛㄏㄚ</rt></ruby> *(stand-in word for the bound character 河)*
 	- brook - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> *(stand-in word for the bound character 江)*
-	- channel *(needs a word — [[海峡]], which also glosses "channel," is already the dedicated word for "strait" below; [[経]]'s own "channel" sense is a weaving/scriptural metaphor, not a waterway)*
+	- channel - <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby>
 	- rapids - <ruby>[[急流]]<rt>ㄍㄧㄆㄌ⼜</rt></ruby> *("rapids, torrent")*
 	- portage *(needs a word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
@@ -659,7 +659,7 @@ _These are for place names, not the words themselves_
 	- delta - <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>
 	- bank - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby>
 	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
-	- spring *(needs a word — a natural water source; [[春季]]/[[春]], already used above for the season, is an unrelated homograph)*
+	- spring - <ruby>[[泉水]]<rt>ㄐ⼔ㄋㄙㄨ</rt></ruby> *(the water source)*
 - Lake :
 	- lake - <ruby>[[湖水]]<rt>ㄏㄛㄨㄙㄨ</rt></ruby> *(stand-in word for the bound character 湖)*
 	- pond - <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby>
@@ -706,12 +706,12 @@ _These are for place names, not the words themselves_
 	- capital - <ruby>[[京城]]<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> *(stand-in word for the bound character 京)*
 - Military :
 	- fort - <ruby>[[要塞]]<rt>⼄ㄨㄙㄚㄧ</rt></ruby> *("fortress, stronghold")*
-	- castle *(needs a word — distinct from [[要塞]]'s military fortress)*
+	- castle - <ruby>[[城堡]]<rt>ㄙㄧㄫㄅㄚㄨ</rt></ruby>
 	- wall - <ruby>[[壁]]<rt>ㄅㄝㄎ</rt></ruby> *(same word already used above for a building's wall)*
 	- camp - <ruby>[[屯]]<rt>ㄉㄨㄋ</rt></ruby>
 - Religion :
 	- shrine - <ruby>[[龕]]<rt>ㄎㄚㄇ</rt></ruby> *("shrine, alcove" — a small household/niche shrine; cp. <ruby>[[精舎]]<rt>ㄐㄝㄫㄙ⼘</rt></ruby> "vihara, shrine, retreat," the larger Buddhist monastic-complex register)*
-	- oracle *(needs a word)*
+	- oracle - <ruby>[[神諭]]<rt>ㄙㄧㄋ·⼜ㄇ</rt></ruby>
 	- temple - <ruby>[[寺刹]]<rt>ㄙㄚㄑㄚㄊ</rt></ruby> *(stand-in word for the bound character 寺)*
 	- church - <ruby>[[教堂]]<rt>ㄍ⼄ㄨㄉㄚㄫ</rt></ruby>
 	- chapel *(same word as church, [[教堂]], covers both senses)*
@@ -722,7 +722,7 @@ _These are for place names, not the words themselves_
 	- stopping-point *(needs a word)*
 	- post *(needs a word — distinct from [[宿舎]] "lodge" below and [[郵便]] "postal mail")*
 	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>
-	- mill *(needs a word)*
+	- mill - <ruby>[[磨坊]]<rt>ㄇㄚㄈㄚㄫ</rt></ruby>
 	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> *(same word already used above in Nouns > Houses)*
 - Road :
 	- road - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>

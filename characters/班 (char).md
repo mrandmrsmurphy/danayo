@@ -59,6 +59,7 @@ date-last-perfect: 2026-10-15
 - <ruby>[[班長]]<rt>ㄆㄚㄋㄐㄚㄫ</rt></ruby> "squad leader"
 - <ruby>[[西班牙]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ</rt></ruby> "Spain"
 - <ruby>[[西班牙語]]<rt>ㄙㄝㄧㄆㄚㄋ·ㄚ⼄</rt></ruby> "Spanish language"
+- <ruby>[[班級]]<rt>ㄆㄚㄋㄍㄧㄆ</rt></ruby> "class (school)"
 
 ## Derived Characters
 - <ruby>[[斑]]<rt>ㄅㄚㄋ</rt></ruby> "spot; speck"

@@ -139,6 +139,7 @@ Food vocabulary spans meals, dishes, ingredients, cooking techniques and utensil
 
 - <ruby>[鶏卵](../words/鶏卵.md)<rt>ㄍㄝㄧㄌㄚㄋ</rt></ruby>: chicken eggs.
 - <ruby>[牛乳](../words/牛乳.md)<rt>ㄋ⼜·ㄋㄨ</rt></ruby>: cow's milk — "cow" + "milk."
+- <ruby>[葡萄酒](../words/葡萄酒.md)<rt>ㄅㄛㄉㄚㄨㄐㄨㄛ</rt></ruby>: wine, grape wine.
 
 ### Grains, Flour & Noodles
 

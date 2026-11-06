@@ -51,3 +51,4 @@ boundedness: 90
 
 ## Words
 - <ruby>[[絡]]<rt>ㄌㄚㄎ</rt></ruby> "enmesh; wrap around" (stand-in for 絡)
+- <ruby>[[網絡]]<rt>ㄇㄚㄫㄌㄚㄎ</rt></ruby> "web, network"

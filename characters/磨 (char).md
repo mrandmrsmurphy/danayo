@@ -57,6 +57,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[按磨]]<rt>ㄚㄋㄇㄚ</rt></ruby> "massage" (uses 磨's alias 摩 in the conventional spelling 按摩)
 - <ruby>[[磨耗]]<rt>ㄇㄚㄏㄚㄨ</rt></ruby> "wear, abrasion"
 - <ruby>[[琢磨]]<rt>ㄊㄚㄎㄇㄚ</rt></ruby> "polish jewels"
+- <ruby>[[磨坊]]<rt>ㄇㄚㄈㄚㄫ</rt></ruby> "mill"
 
 ## Chengyu
 - <ruby>[[磨穿鉄硯]]<rt>ㄇㄚㄑㄝㄋㄊㄝㄊ·ㄝㄋ</rt></ruby> "work with such relentless dedication that even iron yields"

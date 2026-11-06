@@ -74,3 +74,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[合格]]<rt>ㄍㄛㄆㄍㄚㄎ</rt></ruby> "pass"
 - <ruby>[[格差]]<rt>ㄍㄚㄎㄑㄚ</rt></ruby> "gap"
 - <ruby>[[性格]]<rt>ㄙㄧㄫㄍㄚㄎ</rt></ruby> "personality"
+- <ruby>[[部落格]]<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby> "blog"

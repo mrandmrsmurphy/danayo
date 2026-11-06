@@ -54,3 +54,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[貨幣]]<rt>ㄏ⺢·ㄆㄝ</rt></ruby> "currency; money"
 - <ruby>[[造幣局]]<rt>ㄑㄚㄨ·ㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
 - <ruby>[[紙幣]]<rt>ㄐㄝ·ㄆㄝ</rt></ruby> "banknote"
+- <ruby>[[人民幣]]<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby> "yuan, renminbi"

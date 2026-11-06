@@ -70,6 +70,7 @@ boundedness: 90
 - <ruby>[[馬来西亜]]<rt>ㄇㄚㄌㄚㄧㄙㄝㄧㄚ</rt></ruby> "Malaysia"
 - <ruby>[[群馬]]<rt>ㄍㄨㄋㄇㄚ</rt></ruby> "Gunma Prefecture"
 - <ruby>[[馬鈴藷]]<rt>ㄇㄚㄌㄝㄫㄙㄛ</rt></ruby> "potato"
+- <ruby>[[馬車]]<rt>ㄇㄚㄑ⺢</rt></ruby> "wagon, carriage"
 
 ## Derived Characters
 - <ruby>[[碼 (char)|碼]]<rt>ㄇㄚ</rt></ruby> "yard"

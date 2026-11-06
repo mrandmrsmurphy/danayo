@@ -39,6 +39,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[肥沃](../words/肥沃.md)<rt>ㄅㄨㄧㄛㄎ</rt></ruby>: fertile, irrigated — 肥 "fertile" + 沃 "watered."
 - <ruby>[丘](../words/丘.md)<rt>ㄎ⼜</rt></ruby>: a hill.
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
+- <ruby>[稜線](../words/稜線.md)<rt>ㄌㄨㄫㄙ⼶ㄋ</rt></ruby>: a crest, ridgeline.
 - <ruby>[峡谷](../words/峡谷.md)<rt>ㄏㄚㄆㄍㄛㄎ</rt></ruby>: a canyon, gorge.
 - <ruby>[崖](../words/崖.md)<rt>ㄚㄧ</rt></ruby>: a cliff.
 - <ruby>[火山](../words/火山.md)<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby>: a volcano.
@@ -69,7 +70,9 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[巫山](../words/巫山.md)<rt>ㄇㄨㄙㄚㄋ</rt></ruby>: Wushan, the Wu Mountain.
 - <ruby>[南山](../words/南山.md)<rt>ㄋㄚㄇㄙㄚㄋ</rt></ruby>: South Mountain.
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna.
+- <ruby>[平原](../words/平原.md)<rt>ㄅ⼶ㄫ⼔ㄋ</rt></ruby>: a plain, large flat land.
 - <ruby>[高原](../words/高原.md)<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>: a plateau.
+- <ruby>[丘陵](../words/丘陵.md)<rt>ㄎ⼜ㄌㄜㄫ</rt></ruby>: hills, rolling hills.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].
 - <ruby>[陸地](../words/陸地.md)<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby>: land, dry land, landmass — land as opposed to sea, distinct from [[土地]]'s ground/soil sense.
 - <ruby>[地](../words/地.md)<rt>ㄉㄧㄜ</rt></ruby>: land — the bound, classical form.

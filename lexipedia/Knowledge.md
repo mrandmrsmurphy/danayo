@@ -24,6 +24,7 @@ Knowledge vocabulary spans cognition and truth (knowing, proving, doubting), the
 
 - <ruby>[知](../words/知.md)<rt>ㄐㄨㄧ</rt></ruby>: to know; knowledge.
 - <ruby>[学校](../words/学校.md)<rt>ㄏㄚㄎㄏ⼘ㄨ</rt></ruby>: school.
+- <ruby>[班級](../words/班級.md)<rt>ㄆㄚㄋㄍㄧㄆ</rt></ruby>: a class, school class.
 - <ruby>[学生](../words/学生.md)<rt>ㄏㄚㄎㄙㄚㄫ</rt></ruby>: student.
 - <ruby>[先生](../words/先生.md)<rt>ㄙㄝㄋㄙㄚㄫ</rt></ruby>: Mr., sir; teacher.
 - <ruby>[教師](../words/教師.md)<rt>ㄍ⼄ㄨㄙㄧㄜ</rt></ruby>: teacher, master.
@@ -183,6 +184,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[復習](../words/復習.md)<rt>ㄅㄨㄎㄙㄜㄆ</rt></ruby>: to revise, review lessons already covered.
 - <ruby>[補習](../words/補習.md)<rt>ㄅㄛㄙㄜㄆ</rt></ruby>: take extra classes.
 - <ruby>[読書](../words/読書.md)<rt>ㄉㄛㄎㄙ⼄</rt></ruby>: read; study.
+- <ruby>[書写](../words/書写.md)<rt>ㄙ⼄ㄙ⼘</rt></ruby>: to write.
 - <ruby>[筆記](../words/筆記.md)<rt>ㄆㄨㄊㄍㄧ</rt></ruby>: take notes.
 - <ruby>[宿題](../words/宿題.md)<rt>ㄙㄨㄎㄊㄝㄧ</rt></ruby>: homework, an assignment — the task carried home from school; also a pending problem.
 - <ruby>[課](../words/課.md)<rt>ㄎ⺢ㄇ</rt></ruby>: lesson, chapter.

@@ -92,6 +92,9 @@ boundedness: 80
 - <ruby>[[水墨画]]<rt>ㄙㄨ·ㄇㄨㄎㄏ⺢ㄎ</rt></ruby> "ink wash painting"
 - <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"
 - <ruby>[[生活水準]]<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby> "standard of living"
+- <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "channel, waterway"
+- <ruby>[[泉水]]<rt>ㄐ⼔ㄋㄙㄨ</rt></ruby> "spring (water)"
+- <ruby>[[水槽]]<rt>ㄙㄨㄐㄚㄨ</rt></ruby> "sink, water tank"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"
