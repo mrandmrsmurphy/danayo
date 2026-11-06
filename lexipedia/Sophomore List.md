@@ -51,11 +51,11 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- lucky - <ruby>[[幸運]]<rt>ㄏㄚㄫㄨㄋ</rt></ruby>
 	- wise - <ruby>[[賢明]]<rt>ㄏㄝㄋㄇ⼶ㄫ</rt></ruby>
 	- healthy - <ruby>[[健康]]<rt>ㄍㄝㄋㄎㄚㄫ</rt></ruby>
-	- sick(ness) - <ruby>[[疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> *("disease," — see [[生病]] for the verb "to get sick")*
+	- sick(ness) - <ruby>[[疾病]]<rt>ㄐㄧㄊㄅ⼶ㄫ</rt></ruby> *("disease," — see <ruby>[[生病]]<rt>ㄙㄚㄫㄅ⼶ㄫ</rt></ruby> for the verb "to get sick")*
 - Value :
 	- important - <ruby>[[重要]]<rt>ㄑㄛㄫ⼄ㄨ</rt></ruby>
 	- interesting - <ruby>[[有趣]]<rt>⼜ㄑㄨ</rt></ruby> *(Mandarin/Cantonese only, not pan-CJKV)*
-	- boring - <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> *(pan-CJKV; cp. [[支離]], whose primary sense is "fragmented, disjointed" but which independently narrowed to "boring" in Korean 지루하다)*
+	- boring - <ruby>[[無聊]]<rt>ㄇㄜㄌ⼘ㄨ</rt></ruby> *(pan-CJKV; cp. <ruby>[[支離]]<rt>ㄐㄝㄌㄝㄧ</rt></ruby>, whose primary sense is "fragmented, disjointed" but which independently narrowed to "boring" in Korean 지루하다)*
 	- wonderful — several senses:
 		- fantastic(al) - <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby>
 		- startling/arresting - <ruby>[[喫驚]]<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>
@@ -128,8 +128,8 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - People :
 	- girl - <ruby>[[少女]]<rt>ㄙㄛㄨㄋㄜ</rt></ruby>
 	- boy - <ruby>[[少年]]<rt>ㄙㄛㄨㄋㄝㄋ</rt></ruby>
-	- girlfriend - <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> *(Dan'a'yo coinage, disambiguating from [[愛人]])*
-	- boyfriend - <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> *(Dan'a'yo coinage, disambiguating from [[愛人]])*
+	- girlfriend - <ruby>[[愛女]]<rt>ㄚㄧㄋㄜ</rt></ruby> *(Dan'a'yo coinage, disambiguating from <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby>)*
+	- boyfriend - <ruby>[[愛男]]<rt>ㄚㄧㄋㄚㄇ</rt></ruby> *(Dan'a'yo coinage, disambiguating from <ruby>[[愛人]]<rt>ㄚㄧㄋㄧㄋ</rt></ruby>)*
 	- friend - <ruby>[[朋友]]<rt>ㄅㄨㄫ⼜ㄛ</rt></ruby>
 	- baby - <ruby>[[嬰児]]<rt>ㄧㄫㄝㄧ</rt></ruby>
 - Family :
@@ -305,7 +305,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- measure - <ruby>[[測量]]<rt>ㄑㄜㄎㄌ⼘ㄫ</rt></ruby>
 	- place - <ruby>[[位置]]<rt>⼔ㄧㄑㄧ</rt></ruby>
 - Shapes :
-	- square - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> *(corrected from [[広場]], a false match — that word means "town square, plaza," not the geometric shape; see [[Shape]])*
+	- square - <ruby>[[正方形]]<rt>ㄐㄧㄫㄈㄚㄫㄏㄝㄫ</rt></ruby> *(corrected from <ruby>[[広場]]<rt>ㄍ⺢ㄫㄐㄚㄫ</rt></ruby>, a false match — that word means "town square, plaza," not the geometric shape; see [[Shape]])*
 	- circle - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>
 	- line - <ruby>[[縄]]<rt>ㄙㄜㄫ</rt></ruby>
 	- edge - <ruby>[[辺界]]<rt>ㄅㄝㄋㄍ⼶</rt></ruby>
@@ -329,7 +329,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- follow - <ruby>[[追]]<rt>ㄊㄨㄧ</rt></ruby>
 	- hide - <ruby>[[隠蔵]]<rt>ㄜㄋㄑㄚㄫ</rt></ruby>
 	- run - <ruby>[[走]]<rt>ㄙㄛㄨ</rt></ruby>
-	- roll - <ruby>[[滾]]<rt>ㄍ⺢ㄋ</rt></ruby> *(tumbling/rolling motion, as of a ball; distinct from [[巻]] "to roll up," as a scroll)*
+	- roll - <ruby>[[滾]]<rt>ㄍ⺢ㄋ</rt></ruby> *(tumbling/rolling motion, as of a ball; distinct from <ruby>[[巻]]<rt>ㄍ⼔ㄋ</rt></ruby> "to roll up," as a scroll)*
 - Bodily :
 	- dance - <ruby>[[跳舞]]<rt>ㄊㄛㄨㄇㄨ</rt></ruby>
 	- kiss - <ruby>[[接吻]]<rt>ㄐㄛㄆㄇㄨㄋ</rt></ruby>
@@ -465,7 +465,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- particle - <ruby>[[粒子]]<rt>ㄌㄨㄆㄐㄜ</rt></ruby>,
 	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
 	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
-	- neutron - [[中性子]]
+	- neutron - <ruby>[[中性子]]<rt>ㄐㄨㄫㄙㄧㄫㄐㄜ</rt></ruby>
 	- electron - <ruby>[[電子]]<rt>ㄉㄝㄋㄐㄧ</rt></ruby>
 - Biology :
 	- cell - <ruby>[[細胞]]<rt>ㄙㄝㄧㄅ⼘ㄨ</rt></ruby>,
@@ -535,13 +535,13 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- ATM *(needs a word)*
 	- suburb *(needs a word)*
 - Jobs :
-	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *([[部長]], which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
+	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *(<ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>, which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
 	- babysitter *(needs a word)*
 	- bureaucrat *(needs a word)*
 	- manager *(needs a word)*
 - Education :
 	- college - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
-	- degree - <ruby>[[学位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> *("academic degree" — resolves the gap noted below; [[程度]], which also glosses "degree," means "extent, degree" in the abstract sense, not this academic one)*
+	- degree - <ruby>[[学位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> *("academic degree" — resolves the gap noted below; <ruby>[[程度]]<rt>ㄉㄧㄫㄉㄛ</rt></ruby>, which also glosses "degree," means "extent, degree" in the abstract sense, not this academic one)*
 	- masters *(needs a word — no dedicated term for this specific degree level, distinct from [[学位]]'s general "academic degree")*
 	- Ph.D - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> *("doctor," the degree-holder, used generically for the degree itself)*
 - Economy :
@@ -555,7 +555,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- inflation *(needs a word)*
 	- standard of living *(needs a word)*
 	- unemployed *(needs a word)*
-	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from [[連邦]]'s federal "union of states")*
+	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from <ruby>[[連邦]]<rt>ㄌ⼶ㄋㄅㄚㄫ</rt></ruby>'s federal "union of states")*
 	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
 	- yen *(needs a word)*
 	- yuan *(needs a word)*
@@ -568,7 +568,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- cigarette *(needs a word)*
 	- drugs *(needs a word — distinct from [[毒]] "poisonous," already used on [[Plants]]/[[Physics]])*
 - Clothing :
-	- bikini - '''biǝginiǝ''', [[比]][[基]][[尼]]
+	- bikini *(needs a word)*
 	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>
 	- jeans *(needs a word)*
 	- T-shirt *(needs a word)*
@@ -604,7 +604,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Position :
 	- president - <ruby>[[総統]]<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>
 	- prime minister - <ruby>[[宰相]]<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>
-	- representative - <ruby>[[代表]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> *("represent," the verb, used generically for the noun; see [[Mind]]. Genuine Dan'a'yo homophone with [[大砲]] "cannon, gun")*
+	- representative - <ruby>[[代表]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> *("represent," the verb, used generically for the noun; see [[Mind]]. Genuine Dan'a'yo homophone with <ruby>[[大砲]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> "cannon, gun")*
 	- parliament *(needs a word)*
 	- council *(needs a word — same gap already noted elsewhere in this document, e.g. under "council" in Politics)*
 	- dictator *(needs a word)*
@@ -614,7 +614,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- Judaism *(needs a word)*
 	- Christianity - <ruby>[[基督教]]<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>
 	- Hinduism *(needs a word)*
-	- Buddhism - <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>
+	- Buddhism - <ruby>[[佛教]]<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>
 
 ## Place Names
 _These are for place names, not the words themselves_
@@ -624,15 +624,15 @@ _These are for place names, not the words themselves_
 	- plain *(needs a word — [[普通]]/[[清淡]], which also gloss "plain," mean "ordinary"/"bland," not the landform; see [[Shape]] and [[Plants]] for this same false-match pattern)*
 	- savannah - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby> *(same word as "prairie" below — covers the whole open-grassland cluster; see [[Plants]])*
 	- meadow - <ruby>[[草地]]<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>
-	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby> *([[球場]], which also glosses "field," means a sports stadium — not cited here)*
+	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby> *(<ruby>[[球場]]<rt>ㄍ⼜ㄐㄚㄫ</rt></ruby>, which also glosses "field," means a sports stadium — not cited here)*
 	- prairie - <ruby>[[草原]]<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>
 - Forest :
-	- forest/woods - [[森]]
-	- grove/copse - [[林 ]]
+	- forest/woods - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby> *(stand-in word for the bound character 森)*
+	- grove/copse - <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby>
 - Hills:
 	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> *(same word already used above in Nouns > Geographical)*
 	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
-	- mountain - [[山 (char)]]
+	- mountain - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>
 	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
 	- plateau *(needs a word)*
 	- crest *(needs a word)*
@@ -648,9 +648,9 @@ _These are for place names, not the words themselves_
 	- wilderness - <ruby>[[広野]]<rt>ㄍ⺢ㄫ⼘</rt></ruby>
 	- jungle - <ruby>[[森林]]<rt>ㄙㄨㄇㄌㄧㄇ</rt></ruby>
 - Rivers :
-	- river - [[川]]
-	- stream - [[河]]
-	- brook - [[江]]
+	- river - <ruby>[[川]]<rt>ㄑ⺢ㄋ</rt></ruby>
+	- stream - <ruby>[[小河]]<rt>ㄙㄛㄏㄚ</rt></ruby> *(stand-in word for the bound character 河)*
+	- brook - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> *(stand-in word for the bound character 江)*
 	- channel *(needs a word — [[海峡]], which also glosses "channel," is already the dedicated word for "strait" below; [[経]]'s own "channel" sense is a weaving/scriptural metaphor, not a waterway)*
 	- rapids *(needs a word)*
 	- portage *(needs a word)*
@@ -661,29 +661,29 @@ _These are for place names, not the words themselves_
 	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
 	- spring *(needs a word — a natural water source; [[春季]]/[[春]], already used above for the season, is an unrelated homograph)*
 - Lake :
-	- lake - [[湖]]
-	- pond - [[池]]
+	- lake - <ruby>[[湖水]]<rt>ㄏㄛㄨㄙㄨ</rt></ruby> *(stand-in word for the bound character 湖)*
+	- pond - <ruby>[[池]]<rt>ㄐㄨㄧ</rt></ruby>
 - Sea :
-	- sea - [[海洋]]
-	- ocean - [[洋]]
-	- bay - [[湾]]
-	- strait - [[../words/海峡]]
+	- sea - <ruby>[[海洋]]<rt>ㄏㄚㄧ⼘ㄫ</rt></ruby>
+	- ocean - <ruby>[[大洋]]<rt>ㄉㄚㄧ⼘ㄫ</rt></ruby> *(stand-in word for the bound character 洋)*
+	- bay - <ruby>[[海湾]]<rt>ㄏㄚㄧ⺢ㄇ</rt></ruby> *(stand-in word for the bound character 湾)*
+	- strait - <ruby>[[海峡]]<rt>ㄏㄚㄧㄏㄚㄆ</rt></ruby>
 - Coastline :
 	- coast - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby>
 	- beach - <ruby>[[海辺]]<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>
-	- peninsula - [[半島]]
+	- peninsula - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>
 	- cape *(needs a word)*
 	- point *(needs a word — not the same concept as [[点]], a geometric/abstract point)*
 - Island :
-	- island - [[島]]
-	- archipelago - [[列島]] & [[群島]]
-	- atoll - [[環礁]]
+	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
+	- archipelago - <ruby>[[列島]]<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby> & <ruby>[[群島]]<rt>ㄍㄨㄋㄊㄚㄨ</rt></ruby>
+	- atoll - <ruby>[[環礁]]<rt>ㄏ⺢ㄋㄐㄚㄨ</rt></ruby>
 - Local :
-	- rock - [[石]]
-	- tree - [[words/木]]
+	- rock - <ruby>[[石]]<rt>ㄙㄝㄎ</rt></ruby>
+	- tree - <ruby>[[木]]<rt>ㄇㄛㄎ</rt></ruby>
 	- bridge - <ruby>[[橋梁]]<rt>ㄍ⼘ㄨㄌ⼘ㄫ</rt></ruby>
 	- ford - <ruby>[[渉]]<rt>ㄙㄝㄆ</rt></ruby> *("to ford, wade across" — the verb; Rosenfelder's noun sense "a fording place" is not separately attested)*
-	- dam - [[堰堤]]
+	- dam - <ruby>[[堰堤]]<rt>ㄝㄋㄙㄝ</rt></ruby>
 	- park - <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
 	- oasis *(needs a word)*
 - Tree :
@@ -697,25 +697,25 @@ _These are for place names, not the words themselves_
 	- willow - <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby>
 ### Human
 - Settlements :
-	- city - [[市]]
-	- town *(needs a word — distinct in scale from [[市]] "city" and [[里]] "village")*
+	- city - <ruby>[[都市]]<rt>ㄉㄛㄙㄧ</rt></ruby> *(stand-in word for the bound character 市)*
+	- town *(needs a word — distinct in scale from [[都市]] "city" and [[里]] "village")*
 	- village - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby>
 	- colony - <ruby>[[植民地]]<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby>
 	- port *(needs a word)*
-	- market - [[場]]
-	- capital - [[京]]
+	- market - <ruby>[[市場]]<rt>ㄙㄧㄐㄚㄫ</rt></ruby> *(stand-in word for the bound character 場)*
+	- capital - <ruby>[[京城]]<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> *(stand-in word for the bound character 京)*
 - Military :
 	- fort - <ruby>[[要塞]]<rt>⼄ㄨㄙㄚㄧ</rt></ruby> *("fortress, stronghold")*
 	- castle *(needs a word — distinct from [[要塞]]'s military fortress)*
 	- wall - <ruby>[[壁]]<rt>ㄅㄝㄎ</rt></ruby> *(same word already used above for a building's wall)*
 	- camp - <ruby>[[屯]]<rt>ㄉㄨㄋ</rt></ruby>
 - Religion :
-	- shrine - <ruby>[[龕]]<rt>ㄎㄚㄇ</rt></ruby> *("shrine, alcove" — a small household/niche shrine; cp. [[精舎]] "vihara, shrine, retreat," the larger Buddhist monastic-complex register)*
+	- shrine - <ruby>[[龕]]<rt>ㄎㄚㄇ</rt></ruby> *("shrine, alcove" — a small household/niche shrine; cp. <ruby>[[精舎]]<rt>ㄐㄝㄫㄙ⼘</rt></ruby> "vihara, shrine, retreat," the larger Buddhist monastic-complex register)*
 	- oracle *(needs a word)*
-	- temple - [[寺]]
+	- temple - <ruby>[[寺刹]]<rt>ㄙㄚㄑㄚㄊ</rt></ruby> *(stand-in word for the bound character 寺)*
 	- church - <ruby>[[教堂]]<rt>ㄍ⼄ㄨㄉㄚㄫ</rt></ruby>
 	- chapel *(same word as church, [[教堂]], covers both senses)*
-	- monastery - [[院]]
+	- monastery - <ruby>[[院落]]<rt>⼔ㄋㄌㄚㄎ</rt></ruby> *(stand-in word for the bound character 院)*
 - Other :
 	- mine *(needs a word)*
 	- inn *(needs a word)*
@@ -732,7 +732,7 @@ _These are for place names, not the words themselves_
 ### Adjectives
 - Age:
 	- new - <ruby>[[新]]<rt>ㄙㄧㄋ</rt></ruby>
-	- old - <ruby>[[古 (char)]]<rt>ㄍㄛ</rt></ruby> *(no independent word yet, character only)*
+	- old - <ruby>[[古代]]<rt>ㄍㄛㄉㄚㄧ</rt></ruby> *(stand-in word for the bound character 古)*
 - Shapes :
 	- round - <ruby>[[圓]]<rt>⼔ㄋ</rt></ruby>
 	- flat - <ruby>[[扁平]]<rt>ㄆ⼶ㄋㄅ⼶ㄫ</rt></ruby>
@@ -745,16 +745,16 @@ _These are for place names, not the words themselves_
 	- near - <ruby>[[近]]<rt>ㄍㄧㄋ</rt></ruby>
 	- far - <ruby>[[遠]]<rt>ㄛㄋ</rt></ruby>
 - Directions :
-	- north - <ruby>[[北 (char)]]<rt>ㄅㄨㄎ</rt></ruby> *(no independent word yet, character only)*
-	- south - <ruby>[[南 (char)]]<rt>ㄋㄚㄇ</rt></ruby> *(no independent word yet, character only)*
-	- east - <ruby>[[東 (char)]]<rt>ㄉㄛㄫ</rt></ruby> *(no independent word yet, character only)*
-	- west - <ruby>[[西 (char)]]<rt>ㄙㄝㄧ</rt></ruby> *(no independent word yet, character only)*
+	- north - <ruby>[[北方]]<rt>ㄅㄨㄎㄈㄚㄫ</rt></ruby> *(stand-in word for the bound character 北)*
+	- south - <ruby>[[南方]]<rt>ㄋㄚㄇㄈㄚㄫ</rt></ruby> *(stand-in word for the bound character 南)*
+	- east - <ruby>[[東方]]<rt>ㄉㄛㄫㄈㄚㄫ</rt></ruby> *(stand-in word for the bound character 東)*
+	- west - <ruby>[[西方]]<rt>ㄙㄝㄧㄈㄚㄫ</rt></ruby> *(stand-in word for the bound character 西)*
 - Respect :
 	- great/grand - <ruby>[[太]]<rt>ㄊㄚㄧ</rt></ruby>
 	- glorious - <ruby>[[光栄]]<rt>ㄎ⺢ㄫㄨㄧㄫ</rt></ruby>
-	- noble - <ruby>[[貴 (char)]]<rt>ㄍㄨㄧ</rt></ruby> *(no independent word yet, character only)*
-	- holy - <ruby>[[聖 (char)]]<rt>ㄙㄧㄫ</rt></ruby> *(no independent word yet, character only)*
-	- royal - <ruby>[[帝 (char)]]<rt>ㄊㄝㄧ</rt></ruby> *(no independent word yet, character only)*
+	- noble - <ruby>[[貴重]]<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby> *(stand-in word for the bound character 貴)*
+	- holy - <ruby>[[神聖]]<rt>ㄙㄧㄋㄙㄧㄫ</rt></ruby> *(stand-in word for the bound character 聖)*
+	- royal - <ruby>[[帝王]]<rt>ㄊㄝㄧ⺢ㄫ</rt></ruby> *(stand-in word for the bound character 帝)*
 - Salesmanship :
 	- fertile - <ruby>[[肥沃]]<rt>ㄅㄨㄧㄛㄎ</rt></ruby>
 	- beautiful - <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
