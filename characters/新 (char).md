@@ -72,6 +72,7 @@ boundedness: 90
 - <ruby>[[新郎]]<rt>ㄙㄧㄋㄌㄚㄫ</rt></ruby> "groom"
 - <ruby>[[新月]]<rt>ㄙㄧㄋ⼔ㄊ</rt></ruby> "new moon"
 - <ruby>[[超新星]]<rt>ㄊㄚㄨㄙㄧㄋㄙㄝㄫ</rt></ruby> "supernova"
+- <ruby>[[新兵]]<rt>ㄙㄧㄋㄅ⼶ㄫ</rt></ruby> "a recruit, new soldier"
 
 ## Chengyu
 - <ruby>[[温故知新]]<rt>ㄛㄆㄍㄛㄐㄨㄧㄙㄧㄋ</rt></ruby> "review the old, discover the new"

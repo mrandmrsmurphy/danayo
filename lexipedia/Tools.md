@@ -7,6 +7,7 @@ related_domains:
   - "[[Shape]]"
   - "[[Containers]]"
   - "[[Clothing]]"
+  - "[[War]]"
 status: partial
 ---
 
@@ -189,6 +190,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 ## See Also
 
 **Related domains**:
+- [[War]] — [[戦車]], [[歩槍]] and the weapons are housed there as arms; this page covers the machines and implements of peaceful work.
 - [Mind](../lexipedia/Mind.md) — [[準備]], [[柄]], and [[甄選]] are all primarily housed there for their cognitive/judgment angle, and gathered here as physical or practical tools and acts.
 - [Shape](../lexipedia/Shape.md) — [[輪]], [[縄]], and [[杆]] are all primarily housed there for their shape/geometry angle, and gathered here as functional tool parts.
 

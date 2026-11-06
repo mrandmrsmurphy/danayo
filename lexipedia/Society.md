@@ -14,6 +14,7 @@ related_domains:
   - "[[Art]]"
   - "[[Mind]]"
   - "[[Movement]]"
+  - "[[War]]"
 status: complete
 date-last-perfect: 2026-11-01
 ---
@@ -533,6 +534,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 ## See Also
 
 **Related domains**:
+- [[War]] — armies, officers and the acts of war are housed there; this page covers civil society.
 - [[Kinship]] — family-bond vocabulary lives there; this page covers group belonging beyond the family.
 - [[Love]] — romantic/affectionate vocabulary lives there; [[外人]]'s "stranger, outsider" sense and [[愛人]]'s cross-linguistic ambiguity both touch questions of who counts as "one of us."
 - [[Law]] — [[公民]] and [[義務]] border the vocabulary of rights and duties; [[権利]] (right) and [[責任]] (liability) are housed there.

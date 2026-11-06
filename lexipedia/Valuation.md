@@ -11,7 +11,8 @@ related_domains:
   - "[[Events]]"
   - "[[Mind]]"
   - "[[Measurement]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Valuation
@@ -41,6 +42,10 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[天真](../words/天真.md)<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby>: innocent, naive, artless.
 - <ruby>[批評](../words/批評.md)<rt>ㄆㄝㄧㄅ⼶ㄫ</rt></ruby>: criticism, review, critique — 批 "criticise" + 評 "evaluate."
 - <ruby>[悪劣](../words/悪劣.md)<rt>ㄚㄎㄌㄝㄊ</rt></ruby>: nasty — inferior, vile.
+- <ruby>[邪悪](../words/邪悪.md)<rt>ㄙ⼘ㄚㄎ</rt></ruby>: wicked, evil — evil in character or intent, with a sense of something crooked.
+- <ruby>[凶悪](../words/凶悪.md)<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby>: heinous, atrocious, fiendish — wickedness in its violent, terrible degree.
+- <ruby>[汚穢](../words/汚穢.md)<rt>ㄛㄝ</rt></ruby>: filthy; foul — dirty in body or in moral tone.
+- <ruby>[頑皮](../words/頑皮.md)<rt>⺢ㄋㄅㄧ</rt></ruby>: naughty, mischievous — unruly, said mostly of children.
 - <ruby>[拙劣](../words/拙劣.md)<rt>ㄐ⼔ㄊㄌㄝㄊ</rt></ruby>: clumsy, inept, crude — poorly made or poorly done, both unskilled and of low quality (crude writing, a bungled imitation); a literary register, close to [[悪劣]]'s vile inferiority but about lack of skill rather than moral badness.
 - <ruby>[遜色](../words/遜色.md)<rt>ㄙㄛㄋㄙㄧㄎ</rt></ruby>: inferior, inferiority — falling visibly short in comparison with something else, used almost always in a comparative frame (毫不遜色, "not inferior in the slightest"); about comparison, where [[拙劣]] is plainly clumsy and poor.
 - <ruby>[弊](../words/弊.md)<rt>ㄆㄝㄧ</rt></ruby>: wrong, evil. See [Directions](../lexipedia/Directions.md) for its own citation there.
@@ -63,24 +68,28 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[高等](../words/高等.md)<rt>ㄍㄚㄨㄉㄨㄫ</rt></ruby>: higher-level, advanced — as a modifier before an institution.
 - <ruby>[繊細](../words/繊細.md)<rt>ㄙㄝㄇㄙㄝㄧ</rt></ruby>: fine — delicate, sensitive; a different sense of "fine" from [[良好]]'s quality judgment.
 
-**Not yet coined or excluded as false matches**: "awful," "dear," "fancy," "terrible," "foul," "naughty," and "wicked" all have no dedicated Dan'a'yo word yet. "Fine" also loosely matches [[罰金]], already housed on [Law](../lexipedia/Law.md) — that word means a monetary penalty, not the quality-judgment sense cited above. "Well" (in good health, satisfactorily) also loosely matches [[井戸]], which means a water well — an unrelated homograph, not cited here.
+**How Dan'a'yo says these**: "awful" and "terrible" are <ruby>[[悪劣]]<rt>ㄚㄎㄌㄝㄊ</rt></ruby> (vile, nasty) or <ruby>[[凶悪]]<rt>ㄏ⼜ㄫㄚㄎ</rt></ruby> (heinous); "dear" is <ruby>[[親愛]]<rt>ㄑㄧㄋㄚㄧ</rt></ruby> (beloved), with <ruby>[[高価]]<rt>ㄍㄚㄨㄍㄚ</rt></ruby> for the price and <ruby>[[貴重]]<rt>ㄍㄨㄧㄑㄛㄫ</rt></ruby> for the worth; "fancy" is <ruby>[[華麗]]<rt>ㄏ⺢ㄌㄝ</rt></ruby>; "foul" is <ruby>[[汚穢]]<rt>ㄛㄝ</rt></ruby>; "naughty" is <ruby>[[頑皮]]<rt>⺢ㄋㄅㄧ</rt></ruby>; and "wicked" is <ruby>[[邪悪]]<rt>ㄙ⼘ㄚㄎ</rt></ruby>. "Fine" also loosely matches [[罰金]], already housed on [Law](../lexipedia/Law.md) — that word means a monetary penalty, not the quality-judgment sense cited above. "Well" (in good health, satisfactorily) also loosely matches [[井戸]], which means a water well — an unrelated homograph, not cited here.
 
 ### Degree & Extent
 
 - <ruby>[絶対](../words/絶対.md)<rt>ㄐ⼔ㄊㄉㄛㄧ</rt></ruby>: absolute.
 - <ruby>[特別](../words/特別.md)<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>: special. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[尤其](../words/尤其.md)<rt>⼜ㄛㄍㄜ</rt></ruby>: especially, besides.
-- <ruby>[特殊](../words/特殊.md)<rt>ㄉㄜㄎㄙㄨ</rt></ruby>: special — an undocumented near-duplicate of [[特別]].
+- <ruby>[特殊](../words/特殊.md)<rt>ㄉㄜㄎㄙㄨ</rt></ruby>: special, exceptional — of an unusual kind (特殊効果, "special effects"), where [[特別]] is "special, particular," set apart from the rest.
 - <ruby>[単純](../words/単純.md)<rt>ㄉㄚㄋㄐㄨㄋ</rt></ruby>: mere — also "simple," see [[複雑]] and its own cluster under Complexity & Commonality below.
 - <ruby>[些少](../words/些少.md)<rt>ㄙㄚㄙㄛㄨ</rt></ruby>: slight. See [Dimensions](../lexipedia/Dimensions.md) for its own citation there.
+- <ruby>[強烈](../words/強烈.md)<rt>ㄍ⼘ㄫㄌㄝㄊ</rt></ruby>: intense, strong — vivid, felt with force (light, color, flavor, feeling).
+- <ruby>[猛烈](../words/猛烈.md)<rt>ㄇㄚㄫㄌㄝㄊ</rt></ruby>: fierce, strong — driving, vehement force.
+- <ruby>[激烈](../words/激烈.md)<rt>ㄍㄝㄎㄌㄝㄊ</rt></ruby>: violent, severe, acute — heated and sharp.
 
-**Not yet coined**: "especial" and "intense" both have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these**: "especial" is <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>, "special, particular" (the Japanese-only 格別 was surveyed and not coined); "intense" is <ruby>[[強烈]]<rt>ㄍ⼘ㄫㄌㄝㄊ</rt></ruby>, with <ruby>[[猛烈]]<rt>ㄇㄚㄫㄌㄝㄊ</rt></ruby> for fierce force and <ruby>[[激烈]]<rt>ㄍㄝㄎㄌㄝㄊ</rt></ruby> for violent, heated action.
 - <ruby>[軽重](../words/軽重.md)<rt>ㄎㄧㄫㄑㄛㄫ</rt></ruby>: relative weight or importance — literally "lightness and heaviness", the proper weighing of one thing against another.
 - <ruby>[全盛](../words/全盛.md)<rt>ㄐ⼔ㄋㄙㄧㄫ</rt></ruby>: flourishing, at the height of prosperity, at one's best.
 
 ### Beauty & Appearance
 
 - <ruby>[可愛](../words/可愛.md)<rt>ㄎㄜㄚㄧ</rt></ruby>: cute.
+- <ruby>[親愛](../words/親愛.md)<rt>ㄑㄧㄋㄚㄧ</rt></ruby>: dear, beloved — held close in affection; the "dear" of price is [[高価]] and of worth is [[貴重]].
 - <ruby>[絢乱](../words/絢乱.md)<rt>ㄏ⼔ㄋㄌㄚㄋ</rt></ruby>: gorgeous, dazzling — brilliantly colourful and elaborate to the eye; written with 乱 in place of the usual 爛 of 絢爛, as its Notes explain, and able to praise or tip into gaudiness.
 - <ruby>[燦乱](../words/燦乱.md)<rt>ㄑㄚㄋㄌㄚㄋ</rt></ruby>: resplendent, glittering — shining with dazzling brilliance (sunlight on water, a star-strewn sky); written with 乱 standing in for the proper 爛, and the near-twin of [[絢乱]]: 燦乱 is brilliance of light, 絢乱 is brilliance of colour and pattern.
 - <ruby>[綽約](../words/綽約.md)<rt>ㄑㄚㄎ·⼘ㄎ</rt></ruby>: graceful, willowy — a literary word for a soft, supple elegance of bearing, said especially of women; an impressionistic binome built on sound as much as sense.
@@ -88,7 +97,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[醜悪](../words/醜悪.md)<rt>ㄑㄨㄛㄚㄎ</rt></ruby>: ugly.
 - <ruby>[醜陋](../words/醜陋.md)<rt>ㄑㄨㄛㄌ⼘ㄨ</rt></ruby>: ugly, homely. See [Body](../lexipedia/Body.md) for its own citation there.
 
-**Excluded as a false match**: "grace" also loosely matches [[徳沢]], [[恩典]], and [[恩情]], but all three mean religious or moral grace — divine favor, beneficence, or kindness — already housed on this vault's own [[基督敎]] page as part of its documented "Grace cluster," not physical gracefulness. "Beauty" (the noun) and "hideous" both remain genuinely uncoined.
+**Excluded as a false match**: "grace" also loosely matches [[徳沢]], [[恩典]], and [[恩情]], but all three mean religious or moral grace — divine favor, beneficence, or kindness — already housed on this vault's own [[基督敎]] page as part of its documented "Grace cluster," not physical gracefulness. "Beauty" (the noun) is <ruby>[[美]]<rt>ㄇㄧ</rt></ruby> and "hideous" is <ruby>[[醜悪]]<rt>ㄑㄨㄛㄚㄎ</rt></ruby> or <ruby>[[醜陋]]<rt>ㄑㄨㄛㄌ⼘ㄨ</rt></ruby>.
 
 ### Wisdom
 
@@ -97,7 +106,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[愚](../words/愚.md)<rt>ㄨ</rt></ruby>: foolish — the closest available match for "fool," though the adjective rather than a dedicated noun for "a fool."
 - <ruby>[謹慎](../words/謹慎.md)<rt>ㄍㄧㄋㄙㄧㄋ</rt></ruby>: cautious — the closest available match for "prudent," though the two concepts aren't a perfect overlap.
 
-**Excluded as a false match**: "wise" also loosely matches [[英俊]], already housed on [Knowledge](../lexipedia/Knowledge.md) for its own primary sense — that word's dominant meaning is "handsome, heroic, talented," with "wise" only a secondary gloss, so it was not cited here. "Silly" remains genuinely uncoined.
+**Excluded as a false match**: "wise" also loosely matches [[英俊]], already housed on [Knowledge](../lexipedia/Knowledge.md) for its own primary sense — that word's dominant meaning is "handsome, heroic, talented," with "wise" only a secondary gloss, so it was not cited here. "Silly" is <ruby>[[愚]]<rt>ㄨ</rt></ruby> (foolish); the Chinese 愚蠢 needs a character the vault lacks, and 愚 already covers it.
 
 ### Clarity
 
@@ -110,7 +119,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[簡明](../words/簡明.md)<rt>ㄍㄚㄋㄇ⼶ㄫ</rt></ruby>: simple and clear, concise and plain — clarity through brevity; narrower than [[明白]], and distinct from [[簡単]] ("easy, simple") and [[簡潔]] ("concise").
 - <ruby>[清楚](../words/清楚.md)<rt>ㄑㄧㄫㄑㄛ</rt></ruby>: clear, distinct — in Japanese, neat and modest in demeanor.
 
-**Excluded as false matches**: "clear" also loosely matches four other words, none cited here because each names a different sense: [[晴朗]] and [[明朗]] mean clear/bright in the sense of weather or mood (a sunny sky, a cheerful disposition), not mental clarity; [[清澈]] and [[澄清]] mean clear in the sense of transparent liquid, already housed on [Water](../lexipedia/Water.md). "Direct" also loosely matches [[導演]] and [[監督]], already housed on [Directions](../lexipedia/Directions.md) — those mean to direct a film or supervise a project, not the straightforwardness sense Valuation wants, which remains genuinely uncoined.
+**Excluded as false matches**: "clear" also loosely matches four other words, none cited here because each names a different sense: [[晴朗]] and [[明朗]] mean clear/bright in the sense of weather or mood (a sunny sky, a cheerful disposition), not mental clarity; [[清澈]] and [[澄清]] mean clear in the sense of transparent liquid, already housed on [Water](../lexipedia/Water.md). "Direct" also loosely matches [[導演]] and [[監督]], already housed on [Directions](../lexipedia/Directions.md) — those mean to direct a film or supervise a project, not the straightforwardness sense Valuation wants, which is <ruby>[[直接]]<rt>ㄐㄧㄊㄐㄛㄆ</rt></ruby> for the structural sense and <ruby>[[率直]]<rt>ㄌㄨㄊㄐㄧㄊ</rt></ruby> for the frank, straightforward sense of a person.
 
 ### Suitability
 
@@ -119,8 +128,9 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[方便](../words/方便.md)<rt>ㄈㄚㄫㄅ⼶ㄋ</rt></ruby>: convenient, suitable — in Korean and Japanese also the Buddhist upāya, "expedient means."
 - <ruby>[健全](../words/健全.md)<rt>ㄍㄝㄋㄐ⼔ㄋ</rt></ruby>: sound, wholesome — soundness of body, mind, or system (a sound institution, a wholesome character), distinct from [[健康]]'s ordinary physical health.
 - <ruby>[有利](../words/有利.md)<rt>⼜ㄌㄧㄜ</rt></ruby>: advantageous, favorable, to one's benefit — the adjective for a position or condition that improves someone's chances; the noun for the gain itself is [[利益]].
+- <ruby>[適合](../words/適合.md)<rt>ㄙㄝㄎㄍㄛㄆ</rt></ruby>: to suit, to fit — to be suitable for something, or to match it; the physical fitting together is [[合]].
 
-**Not yet coined**: "suit," and "fit" in the sense of "to be suitable or appropriate" (as opposed to physically fit), both remain uncoined.
+**How Dan'a'yo says these**: "suit" and "fit" in the sense of suitability are <ruby>[[適合]]<rt>ㄙㄝㄎㄍㄛㄆ</rt></ruby>, with <ruby>[[適宜]]<rt>ㄙㄝㄎㄜㄧ</rt></ruby> for "suitable, appropriate"; the physical "fit together" is <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby>.
 
 ### Normality & Strangeness
 
@@ -135,7 +145,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[過激](../words/過激.md)<rt>ㄍ⺢ㄍㄝㄎ</rt></ruby>: extreme — specifically the radical/political register ("extremist").
 - <ruby>[非常](../words/非常.md)<rt>ㄈㄧㄙ⼘ㄫ</rt></ruby>: extreme — also "very" as a plain intensifier, and "unusual, emergency" (as in an emergency exit); a genuinely broad word, not a false match.
 
-**Not yet coined**: "queer" has no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says it**: "queer" in the sense of strange is <ruby>[[奇妙]]<rt>ㄍㄨㄧㄇ⼄ㄨ</rt></ruby> or <ruby>[[怪異]]<rt>ㄍ⺢ㄧㄧ</rt></ruby>, and <ruby>[[珍]]<rt>ㄑㄧㄋ</rt></ruby> for rare.
 
 ### Hardness
 
@@ -179,6 +189,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 - <ruby>[無義](../words/無義.md)<rt>ㄇㄜㄜㄧ</rt></ruby>: lack morals; lack meaning.
 - <ruby>[狡滑](../words/狡滑.md)<rt>ㄍ⼄ㄨㄏ⺢ㄊ</rt></ruby>: cunning; crafty.
 - <ruby>[率直](../words/率直.md)<rt>ㄌㄨㄊㄐㄧㄊ</rt></ruby>: frank; candid; straightforward.
+- <ruby>[直接](../words/直接.md)<rt>ㄐㄧㄊㄐㄛㄆ</rt></ruby>: direct, immediate.
 - <ruby>[異常](../words/異常.md)<rt>ㄧㄙ⼘ㄫ</rt></ruby>: different; weird.
 - <ruby>[福祉](../words/福祉.md)<rt>ㄈㄨㄎㄑㄧ</rt></ruby>: welfare; well-being; happiness.
 - <ruby>[秀麗](../words/秀麗.md)<rt>ㄙㄨㄛㄌㄝ</rt></ruby>: elegant; graceful.
@@ -206,7 +217,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 **"Grace" has a tempting cluster of false matches**, all real words but for an unrelated sense: [[徳沢]]/[[恩典]]/[[恩情]] are religious/moral grace, not physical gracefulness.
 
-**[[特別]]/[[特殊]] is an undocumented near-duplicate pair** ("special"), the same treatment given to other such pairs elsewhere in this vault.
+**[[特別]] and [[特殊]] both mean "special" but split by kind**: [[特別]] is "special, particular," set apart or given particular attention (the word the English "especial" lands on); [[特殊]] is "special, exceptional," of an unusual kind. A learner picks by whether the thing is set apart or unusual.
 
 **English "clear" bundles at least four genuinely distinct senses**, and this vault's vocabulary already keeps them apart rather than collapsing them: mental/logical clarity ([[明白]], [[明確]], [[明瞭]]), manifest obviousness ([[彰明]], [[瞭然]]), weather or mood brightness ([[晴朗]], [[明朗]]), and liquid transparency ([[清澈]], [[澄清]], already on [Water](../lexipedia/Water.md)). Only the first two groups belong to Valuation's quality-judgment sense of "clear."
 

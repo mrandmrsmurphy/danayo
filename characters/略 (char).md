@@ -57,3 +57,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[簡略]]<rt>ㄍㄚㄋㄌ⼘ㄎ</rt></ruby> "brief; simplified; concise"
 - <ruby>[[侵略]]<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby> "invade"
 - <ruby>[[略語]]<rt>ㄌ⼘ㄎ·⼄</rt></ruby> "abbreviation"
+- <ruby>[[戦略]]<rt>ㄐㄝㄋㄌ⼘ㄎ</rt></ruby> "strategy, a strategic plan"

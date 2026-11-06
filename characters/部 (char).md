@@ -77,3 +77,4 @@ boundedness: 90
 - <ruby>[[上部]]<rt>ㄙ⼘ㄫㄅㄛㄨ</rt></ruby> "upper part"
 - <ruby>[[下部]]<rt>ㄏㄚㄅㄛㄨ</rt></ruby> "lower part"
 - <ruby>[[部落格]]<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby> "blog"
+- <ruby>[[司令部]]<rt>ㄙㄚㄌㄝㄫㄅㄛㄨ</rt></ruby> "a headquarters, command post"

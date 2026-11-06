@@ -7,6 +7,7 @@ related_domains:
   - "[[Grammar]]"
   - "[[Movement]]"
   - "[[Dimensions]]"
+  - "[[Buildings]]"
 status: partial
 ---
 
@@ -96,5 +97,6 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 ## See Also
 
 **Related domains**:
+- [[Buildings]] — buildings and their parts, rooms and entrances, are housed there; this page covers where something is, not the structure it is in.
 - [[Directions]] — Directions covers orientation and movement (up/down, the cardinal points); Locatives covers static position and containment. [[下]] ("down, under") belongs entirely to Directions and is not re-cited here.
 - [[Grammar]] — three of Locatives' own case particles ([[之]], [[于]], [[向]]) are primarily housed there as function words; see Semantic Range Notes.

@@ -63,6 +63,7 @@ boundedness: 40
 - <ruby>[[悪魔]]<rt>ㄚㄎㄇㄚ</rt></ruby> "devil"
 - <ruby>[[悪毒]]<rt>ㄚㄎㄉㄛㄎ</rt></ruby> "malicious, vicious"
 - <ruby>[[悪鬼]]<rt>ㄚㄎㄍㄨㄧ</rt></ruby> "evil spirit, devil"
+- <ruby>[[邪悪]]<rt>ㄙ⼘ㄚㄎ</rt></ruby> "wicked, evil"
 
 ## Chengyu
 - <ruby>[[邪心常悪]]<rt>ㄙ⼘ㄙㄧㄇㄙ⼘ㄫㄚㄎ</rt></ruby> "evil hearts, evil intents"

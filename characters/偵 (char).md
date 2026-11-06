@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[偵]]<rt>ㄊㄧㄫ</rt></ruby> "spy" (stand-in for 偵)
+- <ruby>[[偵察]]<rt>ㄊㄧㄫㄑㄚㄊ</rt></ruby> "to scout, reconnoiter"

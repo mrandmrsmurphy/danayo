@@ -70,6 +70,7 @@ boundedness: 85
 - <ruby>[[命令]]<rt>ㄇ⼶ㄫㄌㄝㄫ</rt></ruby> "decree; order; command"
 - <ruby>[[禁令]]<rt>ㄍㄧㄇㄌㄝㄫ</rt></ruby> "prohibition order; ban; edict of prohibition"
 - <ruby>[[令状]]<rt>ㄌㄝㄫㄐ⺢ㄫ</rt></ruby> "warrant"
+- <ruby>[[司令部]]<rt>ㄙㄚㄌㄝㄫㄅㄛㄨ</rt></ruby> "a headquarters, command post"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

@@ -4,12 +4,15 @@ type: lexipedia
 domain: War
 related_domains:
   - "[[Conflict]]"
-status: partial
+  - "[[Tools]]"
+  - "[[Society]]"
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # War
 
-War vocabulary covers armies, weapons, and the acts of attacking, invading, and retreating — the specifically martial side of strife, as distinct from [[Conflict]], this vault's much larger page for interpersonal enmity, combat tactics, and the weapons/military vocabulary this page draws on heavily. Several basic terms (ally, captain, castle, squad, strategy, scout, parry, wield, navy, veteran, recruit, headquarters, rifle, dart, chainmail, greaves) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+War vocabulary covers armies, weapons, and the acts of attacking, invading, and retreating — the specifically martial side of strife, as distinct from [[Conflict]], this vault's much larger page for interpersonal enmity, combat tactics, and the weapons/military vocabulary this page draws on heavily.
 
 ## Core Vocabulary (A1–A2)
 
@@ -30,12 +33,15 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 
 ### Forces & Personnel
 
-- <ruby>[将兵](../words/将兵.md)<rt>ㄐ⺢ㄫㄅ⼶ㄫ</rt></ruby>: an army.
+- <ruby>[将兵](../words/将兵.md)<rt>ㄐ⺢ㄫㄅ⼶ㄫ</rt></ruby>: officers and men, the troops of a force — \"army\" as an institution is [[軍隊]].
 - <ruby>[伍](../words/伍.md)<rt>ㄛ</rt></ruby>: troops, ranks — originally a file of five soldiers, the basic unit of ancient Chinese military organization; also serves as 五's anti-forgery financial numeral (see [Numbers](../lexipedia/Numbers.md) for its own citation there).
-- <ruby>[隊](../words/隊.md)<rt>ㄉㄛㄧ</rt></ruby>: a group, team, unit (部隊, "military unit"; 軍隊, "armed forces") — covers general military unit/team territory, though not a precise equivalent of "squad" specifically, which remains uncoined below.
+- <ruby>[隊](../words/隊.md)<rt>ㄉㄛㄧ</rt></ruby>: a group, team, unit (部隊, "military unit"; 軍隊, "armed forces") — covers general military unit/team territory; a small unit, a "squad," is [[分隊]].
+- <ruby>[分隊](../words/分隊.md)<rt>ㄅㄨㄋㄉㄛㄧ</rt></ruby>: a squad, small unit.
 - <ruby>[兵卒](../words/兵卒.md)<rt>ㄅ⼶ㄫㄐㄨㄊ</rt></ruby>: a soldier — a near-synonym of [[軍人]].
 - <ruby>[兵士](../words/兵士.md)<rt>ㄅ⼶ㄫㄙㄚㄧ</rt></ruby>: a soldier — another near-synonym of [[軍人]].
 - <ruby>[哨兵](../words/哨兵.md)<rt>ㄙ⼄ㄨㄅ⼶ㄫ</rt></ruby>: a sentry, sentinel.
+- <ruby>[新兵](../words/新兵.md)<rt>ㄙㄧㄋㄅ⼶ㄫ</rt></ruby>: a recruit, new soldier.
+- <ruby>[老兵](../words/老兵.md)<rt>ㄌㄚㄨㄅ⼶ㄫ</rt></ruby>: a veteran, old soldier.
 - <ruby>[歩兵](../words/歩兵.md)<rt>ㄅㄛㄅ⼶ㄫ</rt></ruby>: infantry, foot soldier.
 - <ruby>[騎兵](../words/騎兵.md)<rt>ㄍㄨㄧㄅ⼶ㄫ</rt></ruby>: cavalry, mounted soldier.
 - <ruby>[砲兵](../words/砲兵.md)<rt>ㄅ⼘ㄨㄅ⼶ㄫ</rt></ruby>: artillery, artilleryman.
@@ -44,10 +50,12 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[干戈](../words/干戈.md)<rt>ㄍㄚㄋㄍ⺢</rt></ruby>: weapons of war, arms.
 - <ruby>[従軍](../words/従軍.md)<rt>ㄐㄛㄫㄍㄨㄋ</rt></ruby>: military service.
 - <ruby>[拠点](../words/拠点.md)<rt>ㄍ⼄ㄉㄝㄇ</rt></ruby>: a base, foothold.
+- <ruby>[司令部](../words/司令部.md)<rt>ㄙㄚㄌㄝㄫㄅㄛㄨ</rt></ruby>: a headquarters, command post.
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
-- <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
+- <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type; the navy itself is [[海軍]].
+- <ruby>[海軍](../words/海軍.md)<rt>ㄏㄚㄧㄍㄨㄋ</rt></ruby>: a navy, naval forces.
 
-**Not yet coined**: "ally," "captain," "squad," "navy," "veteran," "recruit," and "headquarters" all have no dedicated Dan'a'yo word yet.
+**How Dan'a'yo says these, the CJKV way**: "ally" is <ruby>[[同盟]]<rt>ㄉㄛㄫㄇ⼶ㄫ</rt></ruby>, "alliance" (a member of one is a 同盟 partner), "captain" is <ruby>[[隊長]]<rt>ㄉㄛㄧㄐㄚㄫ</rt></ruby>, "squad" is <ruby>[[分隊]]<rt>ㄅㄨㄋㄉㄛㄧ</rt></ruby>, "navy" is <ruby>[[海軍]]<rt>ㄏㄚㄧㄍㄨㄋ</rt></ruby>, "veteran" is <ruby>[[老兵]]<rt>ㄌㄚㄨㄅ⼶ㄫ</rt></ruby>, "recruit" is <ruby>[[新兵]]<rt>ㄙㄧㄋㄅ⼶ㄫ</rt></ruby> and "headquarters" is <ruby>[[司令部]]<rt>ㄙㄚㄌㄝㄫㄅㄛㄨ</rt></ruby>. An officer in general is <ruby>[[将校]]<rt>ㄐ⺢ㄫㄏ⼘ㄨ</rt></ruby>.
 
 ### Weapons & Armor
 
@@ -72,14 +80,14 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[歩槍](../words/歩槍.md)<rt>ㄅㄛㄑ⺢ㄫ</rt></ruby>: a rifle.
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a blade. See [Food](../lexipedia/Food.md) for its own citation there.
 
-**Not yet coined**: "dart," "chainmail," and "greaves" all have no dedicated Dan'a'yo word yet. ("Helmet" is now covered by [[兜]], above; "rifle" is [[歩槍]].)
+**Left uncoined, by design**: "dart," "chainmail" and "greaves" were surveyed and are not attested in two or more of the five languages (Mandarin and Cantonese 飛鏢 "dart" needs the character 鏢, absent from the vault; chainmail is Japanese-only 鎖帷子). They are said by describing them with existing words: a dart is a small <ruby>[[矢]]<rt>ㄙㄧㄜ</rt></ruby> (arrow), chainmail is a chain 鎖 plus <ruby>[[甲]]<rt>ㄍㄚㄆ</rt></ruby> (armor), and greaves are <ruby>[[甲]]<rt>ㄍㄚㄆ</rt></ruby> for the shin. ("Helmet" is <ruby>[[兜]]<rt>ㄉㄨ</rt></ruby>; "rifle" is <ruby>[[歩槍]]<rt>ㄅㄛㄑ⺢ㄫ</rt></ruby>.)
 
 ### Attacking & Invading
 
 - <ruby>[征伐](../words/征伐.md)<rt>ㄐㄝㄫㄈㄝㄊ</rt></ruby>: to conquer, subjugate.
 - <ruby>[侵犯](../words/侵犯.md)<rt>ㄑㄧㄇㄅㄚㄇ</rt></ruby>: to intrude upon, violate, invade.
 - <ruby>[干犯](../words/干犯.md)<rt>ㄍㄚㄋㄅㄚㄇ</rt></ruby>: to infringe, violate, encroach upon.
-- <ruby>[侵略](../words/侵略.md)<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby>: to invade — an undocumented near-duplicate of [[侵犯]].
+- <ruby>[侵略](../words/侵略.md)<rt>ㄑㄧㄇㄌ⼘ㄎ</rt></ruby>: to invade — aggression as war, a campaign of invasion; [[侵犯]] is the violation of a border or right, and [[侵入]] is the entry itself.
 - <ruby>[侵入](../words/侵入.md)<rt>ㄑㄧㄇㄋㄧㄆ</rt></ruby>: to invade, trespass, intrude — framing unwelcome entry itself as violation (crossing a border, breaching a system), a related but distinct nuance from [[侵犯]]/[[侵略]]'s own act of invading.
 
 "Attack," "battle," "combat," "raid," "revolt," "spy," and "weapon" (generic) are all primarily housed on [Conflict](../lexipedia/Conflict.md) — see that page's own Weapons, Combat & Tactics, Espionage, and Rebellion & Upheaval sections.
@@ -101,13 +109,16 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 ### Strategy, Tactics & Explosives
 
 - <ruby>[兵法](../words/兵法.md)<rt>ㄅ⼶ㄫㄈㄚㄆ</rt></ruby>: the art of war, tactics.
+- <ruby>[斥候](../words/斥候.md)<rt>ㄑㄝㄎㄏㄛㄨ</rt></ruby>: a scout, lookout.
+- <ruby>[偵察](../words/偵察.md)<rt>ㄊㄧㄫㄑㄚㄊ</rt></ruby>: to scout, reconnoiter.
+- <ruby>[戦略](../words/戦略.md)<rt>ㄐㄝㄋㄌ⼘ㄎ</rt></ruby>: strategy, a strategic plan.
 - <ruby>[斬豪](../words/斬豪.md)<rt>ㄐㄚㄇㄏㄚㄨ</rt></ruby>: a trench, entrenchment — the dug defensive position; a 代用字 spelling of 塹壕.
 - <ruby>[鉦鼓](../words/鉦鼓.md)<rt>ㄐㄧㄫㄍㄛ</rt></ruby>: gong and drum — the paired military percussion that signalled advance (the drum, 鼓) and withdrawal (the gong); the plain drum is [[鼓]] on [Art](../lexipedia/Art.md).
 - <ruby>[運動](../words/運動.md)<rt>ㄨㄋㄉㄛㄫ</rt></ruby>: a campaign — primarily a social/political movement or exercise, housed on [Society](../lexipedia/Society.md); used here loosely for a military campaign in the absence of a dedicated word.
 - <ruby>[爆発](../words/爆発.md)<rt>ㄅㄛㄎㄈㄚㄊ</rt></ruby>: a blast — to explode, an explosion. See [Light](../lexipedia/Light.md) for its own citation there.
-- <ruby>[炸薬](../words/炸薬.md)<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby>: an explosive — the closest available match for "bomb," naming the explosive substance rather than a dedicated word for the device itself.
+- <ruby>[炸薬](../words/炸薬.md)<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby>: an explosive — the explosive substance; the bomb itself is <ruby>[[爆弾]]<rt>ㄅㄛㄎㄉㄚㄋ</rt></ruby>.
 
-**Not yet coined**: "strategy" (as distinct from [[兵法]]'s tactics), "scout," "parry," and "wield" all have no dedicated Dan'a'yo word yet. "Shoot" (a weapon) is likewise uncoined — [[秀]], which also glosses "shoot," means a plant "to shoot, bear fruit, blossom," an unrelated botanical homograph. "Bow" (the gesture) is covered by [[低下]], [[拝]], and [[鞠躬]], all distinct from [[弓]], the weapon, cited above.
+**How Dan'a'yo says these**: "strategy" is <ruby>[[戦略]]<rt>ㄐㄝㄋㄌ⼘ㄎ</rt></ruby>, the broad plan, with <ruby>[[兵法]]<rt>ㄅ⼶ㄫㄈㄚㄆ</rt></ruby> the art of war and tactics; "scout" is <ruby>[[偵察]]<rt>ㄊㄧㄫㄑㄚㄊ</rt></ruby>, with <ruby>[[斥候]]<rt>ㄑㄝㄎㄏㄛㄨ</rt></ruby> as the literary word; "parry" is <ruby>[[防御]]<rt>ㄅㄚㄫ⼄</rt></ruby>, "defend," as the Mandarin 格擋 is attested in one language only; and "wield" is <ruby>[[持]]<rt>ㄉㄧ</rt></ruby>, "hold," with the weapon as its object. "Shoot" (a weapon) is a different word from [[秀]], which means a plant "to shoot, bear fruit, blossom," an unrelated botanical homograph; the weapon sense is carried by the character 射 in <ruby>[[五射]]<rt>ㄛㄙ⼘</rt></ruby> (archery). "Bow" (the gesture) is covered by [[低下]], [[拝]], and [[鞠躬]], all distinct from <ruby>[[弓]]<rt>ㄍㄨㄫ</rt></ruby>, the weapon, cited above.
 - <ruby>[綏靖](../words/綏靖.md)<rt>ㄙㄨㄧㄐㄧㄫ</rt></ruby>: pacification; appeasement — restoring order by force or by conceding to an aggressor, the same word for both.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
@@ -136,15 +147,18 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 
 **This page leans heavily on [[Conflict]]**, this vault's much larger existing page for combat vocabulary — rather than duplicate its Weapons, Combat & Tactics, Capture & Imprisonment, Espionage, and Rebellion & Upheaval sections, War cross-cites them directly and focuses on the vocabulary Conflict doesn't already cover: armies and personnel, specific weapons and armor, retreat, looting, and logistics.
 
-**Three false matches were caught**: [[秀]] ("shoot") means a plant sprouting/blossoming, not firing a weapon; [[低下]]/[[拝]]/[[鞠躬]] ("bow") all mean the gesture of bowing, an unrelated homograph to [[弓]], the weapon; [[精舎]] ("retreat") means a religious retreat or shrine, not a military withdrawal.
+**False matches were caught**: [[秀]] ("shoot") means a plant sprouting/blossoming, not firing a weapon; [[低下]]/[[拝]]/[[鞠躬]] ("bow") all mean the gesture of bowing, an unrelated homograph to [[弓]], the weapon; [[精舎]] ("retreat") means a religious retreat or shrine, not a military withdrawal.
 
-**[[侵犯]] and [[侵略]] are an undocumented near-duplicate pair** ("invade"), the same treatment given to other such pairs elsewhere in this vault.
+**[[侵犯]], [[侵略]] and [[侵入]] are three kinds of invasion**: [[侵略]] is aggression as war, the campaign of invasion; [[侵犯]] is the violation of a border, right or person; and [[侵入]] is the unwelcome entry itself, such as crossing a border or breaching a system. All three are glossed "invade," so a learner picks by which angle is meant.
 
-**"Bomb" and "campaign" are both imperfect fits, documented honestly rather than forced**: [[炸薬]] names the explosive substance, not a dedicated word for the bomb-device itself; [[運動]] is primarily a social/political movement, already housed on [Society](../lexipedia/Society.md), used here only for lack of a dedicated military-campaign word.
+**"Campaign" is still an imperfect fit, documented honestly rather than forced**: <ruby>[[運動]]<rt>ㄨㄋㄉㄛㄫ</rt></ruby> is primarily a social or political movement, already housed on [Society](../lexipedia/Society.md), and is used here loosely for a military campaign; the bomb is now <ruby>[[爆弾]]<rt>ㄅㄛㄎㄉㄚㄋ</rt></ruby>, with <ruby>[[炸薬]]<rt>ㄐㄚㄎ·⼘ㄎ</rt></ruby> the explosive substance only.
 
 ## See Also
 
 **Related domains**:
 - [Conflict](../lexipedia/Conflict.md) — this vault's much larger combat-vocabulary page; [[敵人]], [[剣]], [[槍]], [[長矛]], and [[刀剣]] are all primarily housed there, and War's own "attack," "battle," "combat," "raid," "revolt," "spy," and "weapon" entries are entirely deferred to it rather than duplicated.
+
+- [Tools](../lexipedia/Tools.md) — [[戦車]] (tank) and [[歩槍]] (rifle) are cited there as machines and implements, and gathered here as arms.
+- [Society](../lexipedia/Society.md) — [[運動]] (campaign) is housed there as a movement, and used here loosely for a military campaign.
 
 **Incidental crossovers**: [[甲]] (armor) on [Astronomy](../lexipedia/Astronomy.md); [[刀刃]] (blade) on [Food](../lexipedia/Food.md); [[屯]] (camp) on [Movement](../lexipedia/Movement.md); [[爆発]] (blast) on [Light](../lexipedia/Light.md); [[運動]] (campaign) on [Society](../lexipedia/Society.md).
