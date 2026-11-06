@@ -29,6 +29,7 @@ graphemic_classification: 会意
 stand_in: 兪
 aliases:
   - 俞
+  - 榆
 注音: ⼜ㄇ
 kwin: false
 tags:
@@ -49,6 +50,7 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[兪]]<rt>⼜ㄇ</rt></ruby> "agree to" (stand-in for 兪)
 - <ruby>[[兪允]]<rt>⼜ㄇ·⼜ㄋ</rt></ruby> "consent to, permit (of the emperor)"
+- <ruby>[[兪木]]<rt>⼜ㄇㄇㄛㄎ</rt></ruby> "elm"
 
 ## Derived Characters
 - <ruby>[[喩]]<rt>⼜ㄇ</rt></ruby> "metaphor"

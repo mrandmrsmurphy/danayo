@@ -22,7 +22,7 @@ tags:
 10. <ruby>[楔](characters/楔.md)<rt>ㄙㄝㄊ</rt></ruby> "wedge"
 11. <ruby>[楕](characters/楕.md)<rt>ㄊㄚ</rt></ruby> "oval"
 12. <ruby>[楠](characters/楠.md)<rt>ㄋㄚㄇ</rt></ruby> "camphor tree"
-13. <ruby>[楢](characters/楢.md)<rt>⼜ㄛ</rt></ruby> "oak"
+13. <ruby>[楢](characters/楢%20(char).md)<rt>⼜ㄛ</rt></ruby> "oak"
 14. <ruby>[楼](characters/楼.md)<rt>ㄌㄛㄨ</rt></ruby> "watchtower"
 15. <ruby>[榔](characters/榔.md)<rt>ㄌㄚㄫ</rt></ruby> "betel palm"
 16. <ruby>[煤](characters/煤%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> "soot"

@@ -82,6 +82,8 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[楊梅](../words/楊梅.md)<rt>⼘ㄫㄇㄛㄧ</rt></ruby>: waxfruit, the bayberry (yangmei, *Myrica rubra*), which Japanese writes 山桃; Dan'a'yo's [[山桃]] is the wild peach.
 - <ruby>[山桃](../words/山桃.md)<rt>ㄙㄚㄋㄉㄚㄨ</rt></ruby>: the Chinese wild peach (Prunus davidiana) — a peach, not the bayberry that Japanese also writes 山桃 (see [[楊梅]]).
 - <ruby>[楊樹](../words/楊樹.md)<rt>⼘ㄫㄙㄨ</rt></ruby>: a poplar or aspen tree.
+- <ruby>[楢木](../words/楢木.md)<rt>⼜ㄛ·ㄇㄛㄎ</rt></ruby>: an oak tree — the Konara oak, on the X木 tree pattern.
+- <ruby>[兪木](../words/兪木.md)<rt>⼜ㄇㄇㄛㄎ</rt></ruby>: an elm tree — 兪 stands in for 榆 (an alias), on the X木 tree pattern.
 - <ruby>[楓樹](../words/楓樹.md)<rt>ㄈㄨㄫㄙㄨ</rt></ruby>: a maple tree; the stand-in for the bound character 楓.
 - <ruby>[橄欖](../words/橄欖.md)<rt>ㄍㄚㄇㄌㄚㄇ</rt></ruby>: an olive; the stand-in for both bound characters 橄 and 欖.
 - <ruby>[檳榔](../words/檳榔.md)<rt>ㄅㄧㄋㄌㄚㄫ</rt></ruby>: the betel nut or betel palm; the stand-in for both bound characters 檳 and 榔.

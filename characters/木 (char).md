@@ -73,6 +73,8 @@ boundedness: 40
 - <ruby>[[草木]]<rt>ㄑㄚㄨㄇㄛㄎ</rt></ruby> "greenery; plants; vegetation"
 - <ruby>[[藍木]]<rt>ㄌㄚㄇㄇㄛㄎ</rt></ruby> "indigo; anil"
 - <ruby>[[木浦]]<rt>ㄇㄛㄎㄆㄛ</rt></ruby> "Mokpo"
+- <ruby>[[楢木]]<rt>⼜ㄛ·ㄇㄛㄎ</rt></ruby> "oak"
+- <ruby>[[兪木]]<rt>⼜ㄇㄇㄛㄎ</rt></ruby> "elm"
 ## Chengyu
 - <ruby>[[朽木糞牆]]<rt>ㄏ⼜·ㄇㄛㄎㄈㄨㄇㄑ⺢ㄫ</rt></ruby> "rotten wood and a dung wall; a person beyond teaching or redemption"
 ## Derived Characters

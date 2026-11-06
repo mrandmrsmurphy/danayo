@@ -47,6 +47,8 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 7. <ruby>[流唾](/words/流唾.md)<rt>ㄌ⼜·ㄊㄚ</rt></ruby> - to drool
 8. <ruby>[英斤](/words/英斤.md)<rt>ㄝㄫㄍㄧㄋ</rt></ruby> - pound (weight)
 9. <ruby>[英両](/words/英両.md)<rt>ㄝㄫㄌ⼘ㄫ</rt></ruby> - ounce
+10. <ruby>[楢木](/words/楢木.md)<rt>⼜ㄛ·ㄇㄛㄎ</rt></ruby> - oak
+11. <ruby>[兪木](/words/兪木.md)<rt>⼜ㄇㄇㄛㄎ</rt></ruby> - elm
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.

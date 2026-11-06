@@ -283,7 +283,7 @@ tags: [lookup]
 277. [棲](../../characters/棲.md)
 278. [椿](../../characters/椿.md)
 279. [楓](../../characters/楓.md)
-280. [楢](../../characters/楢.md)
+280. [楢](../../characters/楢%20(char).md)
 281. [槌 (char)](../../characters/槌%20(char).md)
 282. [樟](../../characters/樟.md)
 283. [樺](../../characters/樺.md)

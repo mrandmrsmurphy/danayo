@@ -1,5 +1,6 @@
 ---
 language: English
+date-last-perfect: 2026-11-06
 ---
 
 Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes after Swadesh, which he calls his "Sophomore List".  For more words, see [Lexipedia](lexipedia/Lexipedia.md).
@@ -690,8 +691,8 @@ _These are for place names, not the words themselves_
 	- aspen - <ruby>[[楊樹]]<rt>⼘ㄫㄙㄨ</rt></ruby> *("poplar, aspen")*
 	- birch - <ruby>[[樺木]]<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>
 	- cedar - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby>
-	- elm *(needs a word)*
-	- oak *(needs a word)*
+	- elm - <ruby>[[兪木]]<rt>⼜ㄇㄇㄛㄎ</rt></ruby> *(兪 (alias 榆) + 木, the X木 tree pattern)*
+	- oak - <ruby>[[楢木]]<rt>⼜ㄛ·ㄇㄛㄎ</rt></ruby> *(楢 + 木, the X木 tree pattern)*
 	- palm - <ruby>[[棗椰]]<rt>ㄐㄚㄨ⼘</rt></ruby> *("date palm" — the tree, not the hand's <ruby>[[手掌]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>)*
 	- pine - <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby>
 	- willow - <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby>

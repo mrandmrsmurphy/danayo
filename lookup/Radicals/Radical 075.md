@@ -148,7 +148,7 @@ tags: [lookup]
 117. <ruby>[楕](../../characters/楕.md)<rt>ㄊㄚ</rt></ruby> - oval
 118. <ruby>[楚](../../characters/楚.md)<rt>ㄑㄛ</rt></ruby> - clear
 119. <ruby>[楠](../../characters/楠.md)<rt>ㄋㄚㄇ</rt></ruby> - camphor tree
-120. <ruby>[楢](../../characters/楢.md)<rt>⼜ㄛ</rt></ruby> - oak
+120. <ruby>[楢](../../characters/楢%20(char).md)<rt>⼜ㄛ</rt></ruby> - oak
 121. <ruby>[業](../../characters/業%20(char).md)<rt>ㄝㄆ</rt></ruby> - profession
 122. <ruby>[楷](../../characters/楷%20(char).md)<rt>ㄎ⼶</rt></ruby> - model
 123. <ruby>[楼](../../characters/楼.md)<rt>ㄌㄛㄨ</rt></ruby> - watchtower
