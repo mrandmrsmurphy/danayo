@@ -71,7 +71,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- free - <ruby>[[自由]]<rt>ㄐㄧㄜ⼜ㄛ</rt></ruby>
 	- normal - <ruby>[[正常]]<rt>ㄐㄧㄫㄙ⼘ㄫ</rt></ruby>
 	- special - <ruby>[[特別]]<rt>ㄉㄜㄎㄅㄝㄊ</rt></ruby>
-	- probable *(needs a word)*
+	- probable - <ruby>[[蓋然]]<rt>ㄍㄚㄧㄋ⼶ㄋ</rt></ruby> *("highly probable, likely, plausible"; cp. <ruby>[[或然]]<rt>ㄏㄛㄎㄋ⼶ㄋ</rt></ruby> "probable, contingent")*
 	- secret - <ruby>[[密]]<rt>ㄇㄧㄊ</rt></ruby>
 
 ## Nouns
@@ -140,7 +140,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- daughter - <ruby>[[女児]]<rt>ㄋㄜㄝㄧ</rt></ruby>
 - Hierarchy :
 	- king - <ruby>[[王]]<rt>⺢ㄫ</rt></ruby>
-	- boss *(needs a word)*
+	- boss - <ruby>[[上司]]<rt>ㄙ⼘ㄫㄙㄚ</rt></ruby>
 	- leader - <ruby>[[首長]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>
 	- servant - <ruby>[[侍者]]<rt>ㄙㄧㄑㄚ</rt></ruby>
 - Religion :
@@ -194,7 +194,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- net - <ruby>[[網]]<rt>ㄇㄚㄫ</rt></ruby>
 	- wagon *(needs a word)*
 	- wheel - <ruby>[[輪]]<rt>ㄌㄨㄋ</rt></ruby>
-	- wire *(needs a word)*
+	- wire - <ruby>[[鉄線]]<rt>ㄊㄝㄊㄙ⼶ㄋ</rt></ruby> *(the general word for physical wire; current-carrying wire is <ruby>[[電線]]<rt>ㄉㄝㄋㄙ⼶ㄋ</rt></ruby>)*
 - Containers :
 	- box - <ruby>[[箱]]<rt>ㄙㄚㄫ</rt></ruby>
 	- bag - <ruby>[[袋]]<rt>ㄉㄚㄧ</rt></ruby>
@@ -245,7 +245,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- sword - <ruby>[[剣]]<rt>ㄍㄛㄇ</rt></ruby>
 	- government - <ruby>[[政府]]<rt>ㄐㄧㄫㄈㄨ</rt></ruby>
 	- law - <ruby>[[法律]]<rt>ㄈㄚㄆㄌㄨㄊ</rt></ruby>
-	- council *(needs a word)*
+	- council - <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby> *("assembly, legislature, council")*
 	- tax - <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby>
 	- prison - <ruby>[[監獄]]<rt>ㄍㄚㄇ·⼄ㄎ</rt></ruby>
 	- minister - <ruby>[[大臣]]<rt>ㄉㄚㄧㄙㄧㄋ</rt></ruby>
@@ -254,7 +254,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Life and Death :
 	- be *(needs a word)*
 	- seem *(needs a word)*
-	- born *(needs a word)*
+	- born - <ruby>[[出生]]<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby> *("be born"; <ruby>[[誕生]]<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby> is the same sense, more formal)*
 - Everyday :
 	- work - <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>
 	- wake *(needs a word)*
@@ -282,7 +282,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
 	- believe - <ruby>[[信用]]<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby>
 	- doubt - <ruby>[[懐疑]]<rt>ㄏ⺢ㄧ·ㄧ</rt></ruby>
-	- expect *(needs a word)*
+	- expect - <ruby>[[期待]]<rt>ㄎㄧㄉㄚㄧ</rt></ruby> *("expect, look forward to")*
 	- remember - <ruby>[[記憶]]<rt>ㄍㄧㄧㄎ</rt></ruby>
 	- forget - <ruby>[[忘却]]<rt>ㄇㄚㄫㄎ⼘ㄎ</rt></ruby>
 - Emotions :
@@ -317,11 +317,11 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- answer - <ruby>[[答]]<rt>ㄉㄚㄆ</rt></ruby>
 	- ask - <ruby>[[質問]]<rt>ㄐㄧㄊㄇㄨㄋ</rt></ruby>
 	- thank - <ruby>[[感謝]]<rt>ㄍㄚㄇㄙ⼘</rt></ruby>
-	- greet *(needs a word)*
+	- greet - <ruby>[[迎接]]<rt>⼶ㄫㄐㄛㄆ</rt></ruby> *("greet, welcome, receive")*
 	- lie - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby>
 	- joke *(needs a word)*
 	- call - <ruby>[[呼]]<rt>ㄏㄛ</rt></ruby>
-	- offer *(needs a word)*
+	- offer - <ruby>[[提供]]<rt>ㄙㄝㄍ⼄ㄫ</rt></ruby> *("offer, supply, provide"; <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> is the "offer as tribute" register)*
 	- choose - <ruby>[[選択]]<rt>ㄙ⼔ㄋㄉㄚㄎ</rt></ruby>
 - Movements :
 	- leave - <ruby>[[離別]]<rt>ㄌㄝㄧㄅㄝㄊ</rt></ruby>
@@ -360,7 +360,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- get - <ruby>[[獲得]]<rt>ㄏ⺢ㄎㄊㄜㄎ</rt></ruby>
 	- lose - <ruby>[[喪失]]<rt>ㄙㄚㄫㄙㄧㄊ</rt></ruby>
 	- search - <ruby>[[探索]]<rt>ㄊㄚㄇㄙㄚㄎ</rt></ruby>
-	- find *(needs a word)*
+	- find - <ruby>[[発見]]<rt>ㄈㄚㄊㄍ⼶ㄋ</rt></ruby> *("discover, find out" — the discovery sense of "find," not "locate a lost thing")*
 	- trade - <ruby>[[貿易]]<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>
 	- keep - <ruby>[[維持]]<rt>⼶ㄧㄉㄧ</rt></ruby>
 - Containers :
@@ -372,7 +372,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Conjunctions :
 	- but - <ruby>[[但]]<rt>ㄉㄚㄋ</rt></ruby>
 	- or - <ruby>[[或]]<rt>ㄏㄛㄎ</rt></ruby>
-	- though *(needs a word — confirmed absent, see [[Grammar]]'s own Conjunctions list: "because, else, nor, though, unless: not yet coined")*
+	- though - <ruby>[[雖]]<rt>ㄙㄨㄧ</rt></ruby> *(concessive linker, "although, even though")*
 	- until - <ruby>[[至]]<rt>ㄐㄧㄜ</rt></ruby>
 - Prepositions :
 	- toward - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby>
@@ -446,7 +446,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- browser *(needs a word)*
 	- blog *(needs a word)*
 	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
-	- flame *(needs a word)*
+	- flame - <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby>
 	- lurker *(needs a word)*
 	- newb *(needs a word)*
 	- chat - <ruby>[[聊]]<rt>ㄌ⼘ㄨ</rt></ruby>
@@ -507,12 +507,12 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- typewriter *(needs a word)*
 	- scanner *(needs a word)*
 - Media :
-	- newspaper *(needs a word)*
+	- newspaper - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> *(in Mandarin/Cantonese 新聞 means "news," not the physical paper; see its own Notes)*
 	- magazine - <ruby>[[雑誌]]<rt>ㄐㄚㄆㄐㄧ</rt></ruby>
 	- telephone - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>
 	- television - <ruby>[[電視]]<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby>
 	- radio *(needs a word)*
-	- comic *(needs a word)*
+	- comic - <ruby>[[漫画]]<rt>ㄇㄚㄋㄏ⺢ㄎ</rt></ruby> *("comic, cartoon, manga")*
 - Other :
 	- elevator *(needs a word)*
 	- laser *(needs a word)*
@@ -536,8 +536,8 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- suburb *(needs a word)*
 - Jobs :
 	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *(<ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>, which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
-	- babysitter *(needs a word)*
-	- bureaucrat *(needs a word)*
+	- babysitter - <ruby>[[保母]]<rt>ㄅㄚㄨㄇㄛㄨ</rt></ruby> *("governess, nanny, babysitter")*
+	- bureaucrat - <ruby>[[官僚]]<rt>ㄍ⺢ㄋㄌ⼄ㄨ</rt></ruby>
 	- manager *(needs a word)*
 - Education :
 	- college - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
@@ -552,9 +552,9 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
 	- expenses - <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>
 	- income - <ruby>[[収入]]<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>
-	- inflation *(needs a word)*
+	- inflation - <ruby>[[騰貴]]<rt>ㄉㄜㄫㄍㄨㄧ</rt></ruby> *("to soar in price, price inflation")*
 	- standard of living *(needs a word)*
-	- unemployed *(needs a word)*
+	- unemployed - <ruby>[[失業]]<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby> *(verb, "become unemployed, lose one's job")*
 	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from <ruby>[[連邦]]<rt>ㄌ⼶ㄋㄅㄚㄫ</rt></ruby>'s federal "union of states")*
 	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
 	- yen *(needs a word)*
@@ -600,15 +600,15 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- Green *(needs a word)*
 	- human rights *(needs a word)*
 	- liberal *(needs a word)*
-	- conservative *(needs a word)*
+	- conservative - <ruby>[[保守]]<rt>ㄅㄚㄨㄙ⼜</rt></ruby>
 - Position :
 	- president - <ruby>[[総統]]<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>
 	- prime minister - <ruby>[[宰相]]<rt>ㄐㄚㄧㄙㄚㄫ</rt></ruby>
 	- representative - <ruby>[[代表]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> *("represent," the verb, used generically for the noun; see [[Mind]]. Genuine Dan'a'yo homophone with <ruby>[[大砲]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> "cannon, gun")*
-	- parliament *(needs a word)*
-	- council *(needs a word — same gap already noted elsewhere in this document, e.g. under "council" in Politics)*
+	- parliament - <ruby>[[国会]]<rt>ㄍㄛㄎㄏ⼔</rt></ruby> *("national assembly, parliament, congress"; see also <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby>)*
+	- council - <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby> *(same word as under Politics above)*
 	- dictator *(needs a word)*
-	- party *(needs a word — [[班]] means "group, section," not a political party)*
+	- party - <ruby>[[政党]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> *("political party")*
 - Religions :
 	- Islam - <ruby>[[回教]]<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>
 	- Judaism *(needs a word)*
@@ -652,7 +652,7 @@ _These are for place names, not the words themselves_
 	- stream - <ruby>[[小河]]<rt>ㄙㄛㄏㄚ</rt></ruby> *(stand-in word for the bound character 河)*
 	- brook - <ruby>[[大江]]<rt>ㄉㄚㄧㄍㄚㄫ</rt></ruby> *(stand-in word for the bound character 江)*
 	- channel *(needs a word — [[海峡]], which also glosses "channel," is already the dedicated word for "strait" below; [[経]]'s own "channel" sense is a weaving/scriptural metaphor, not a waterway)*
-	- rapids *(needs a word)*
+	- rapids - <ruby>[[急流]]<rt>ㄍㄧㄆㄌ⼜</rt></ruby> *("rapids, torrent")*
 	- portage *(needs a word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
 	- confluence *(needs a word)*
@@ -672,7 +672,7 @@ _These are for place names, not the words themselves_
 	- coast - <ruby>[[浜]]<rt>ㄅㄧㄋ</rt></ruby>
 	- beach - <ruby>[[海辺]]<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>
 	- peninsula - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>
-	- cape *(needs a word)*
+	- cape - <ruby>[[海角]]<rt>ㄏㄚㄧㄍㄛㄎ</rt></ruby>
 	- point *(needs a word — not the same concept as [[点]], a geometric/abstract point)*
 - Island :
 	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
@@ -687,12 +687,12 @@ _These are for place names, not the words themselves_
 	- park - <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
 	- oasis *(needs a word)*
 - Tree :
-	- aspen *(needs a word)*
+	- aspen - <ruby>[[楊樹]]<rt>⼘ㄫㄙㄨ</rt></ruby> *("poplar, aspen")*
 	- birch - <ruby>[[樺木]]<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>
 	- cedar - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby>
 	- elm *(needs a word)*
 	- oak *(needs a word)*
-	- palm *(needs a word — [[手掌]] means the palm of a hand, not the tree)*
+	- palm - <ruby>[[棗椰]]<rt>ㄐㄚㄨ⼘</rt></ruby> *("date palm" — the tree, not the hand's <ruby>[[手掌]]<rt>ㄙ⼜ㄐㄚㄫ</rt></ruby>)*
 	- pine - <ruby>[[松]]<rt>ㄙ⼄ㄫ</rt></ruby>
 	- willow - <ruby>[[柳]]<rt>ㄌ⼜</rt></ruby>
 ### Human
@@ -717,7 +717,7 @@ _These are for place names, not the words themselves_
 	- chapel *(same word as church, [[教堂]], covers both senses)*
 	- monastery - <ruby>[[院落]]<rt>⼔ㄋㄌㄚㄎ</rt></ruby> *(stand-in word for the bound character 院)*
 - Other :
-	- mine *(needs a word)*
+	- mine - <ruby>[[鉱山]]<rt>ㄍ⺢ㄫㄙㄚㄋ</rt></ruby>
 	- inn *(needs a word)*
 	- stopping-point *(needs a word)*
 	- post *(needs a word — distinct from [[宿舎]] "lodge" below and [[郵便]] "postal mail")*
@@ -726,8 +726,8 @@ _These are for place names, not the words themselves_
 	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> *(same word already used above in Nouns > Houses)*
 - Road :
 	- road - <ruby>[[道路]]<rt>ㄉㄚㄨㄌㄛ</rt></ruby>
-	- highway *(needs a word)*
-	- trail *(needs a word)*
+	- highway - <ruby>[[国道]]<rt>ㄍㄛㄎㄉㄚㄨ</rt></ruby> *("national highway")*
+	- trail - <ruby>[[小道]]<rt>ㄙㄛㄉㄚㄨ</rt></ruby> *("path, trail")*
 	- way - <ruby>[[方法]]<rt>ㄈㄚㄫㄈㄚㄆ</rt></ruby> *(the "method, manner" sense, not necessarily a literal road)*
 ### Adjectives
 - Age:
