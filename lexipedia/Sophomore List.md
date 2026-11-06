@@ -210,7 +210,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- picture - <ruby>[[図画]]<rt>ㄉㄛㄏ⺢ㄎ</rt></ruby>
 	- game - <ruby>[[遊戯]]<rt>⼜ㄛㄏㄨㄧ</rt></ruby>
 - Language :
-	- word *(needs a word)*
+	- word - <ruby>[[単語]]<rt>ㄉㄚㄋ·⼄</rt></ruby>
 	- book - <ruby>[[書本]]<rt>ㄙ⼄ㄅㄛㄋ</rt></ruby>
 	- pen - <ruby>[[筆]]<rt>ㄆㄨㄊ</rt></ruby>
 	- paper - <ruby>[[紙]]<rt>ㄐㄝ</rt></ruby>
@@ -252,12 +252,12 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 
 ## Verbs
 - Life and Death :
-	- be *(needs a word)*
-	- seem *(needs a word)*
+	- be - <ruby>[[是]]<rt>ㄙㄝ</rt></ruby> *(the copula; existential "be" is <ruby>[[在]]<rt>ㄐㄚㄧ</rt></ruby> and <ruby>[[有]]<rt>⼜</rt></ruby>, see [[Grammar]])*
+	- seem - <ruby>[[似]]<rt>ㄙㄚ</rt></ruby> *("it's as if…" — see [[Grammar]]'s Particles)*
 	- born - <ruby>[[出生]]<rt>ㄑㄨㄊㄙㄚㄫ</rt></ruby> *("be born"; <ruby>[[誕生]]<rt>ㄉㄚㄋㄙㄚㄫ</rt></ruby> is the same sense, more formal)*
 - Everyday :
 	- work - <ruby>[[工作]]<rt>ㄍㄛㄫㄐㄚㄎ</rt></ruby>
-	- wake *(needs a word)*
+	- wake - <ruby>[[起床]]<rt>ㄎㄧㄙ⼘ㄇ</rt></ruby> *("get out of bed, rise")*
 	- dream - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby>
 	- cook - <ruby>[[炊]]<rt>ㄑㄨㄧ</rt></ruby>
 	- use - <ruby>[[使用]]<rt>ㄙㄧ⼄ㄫ</rt></ruby>
@@ -292,13 +292,13 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- surprise - <ruby>[[喫驚]]<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby> *(same word already used above for "startling/arresting")*
 - Modals :
 	- can - <ruby>[[可]]<rt>ㄎㄜ</rt></ruby>
-	- must *(needs a word)*
+	- must - <ruby>[[不可不]]<rt>ㄅㄛㄊㄎㄜㄅㄛㄊ</rt></ruby> *("cannot not" — see [[Grammar]]'s Modals)*
 	- should - <ruby>[[該]]<rt>ㄍㄛㄧ</rt></ruby>
 - Aspect :
 	- begin - <ruby>[[開始]]<rt>ㄎㄚㄧㄙㄧ</rt></ruby>
 	- finish - <ruby>[[完成]]<rt>ㄏ⺢ㄋㄙㄧㄫ</rt></ruby>
 	- intend to do - <ruby>[[擬]]<rt>ㄧ</rt></ruby> *("intend, plan" — see [[Mind]] for its own citation there)*
-	- habitually do *(needs a word — no dedicated habitual-aspect marker exists, distinct from [[－中]]'s continuous "-ing" and [[将然]]'s prospective "about to")*
+	- habitually do - <ruby>[[習慣]]<rt>ㄙㄜㄆㄍ⺢ㄋ</rt></ruby> *("be in the habit of, be accustomed to" — a lexical verb, not a dedicated aspect marker)*
 - Abstractions :
 	- cause - <ruby>[[縁故]]<rt>⼶ㄋㄍㄛ</rt></ruby>
 	- mean - <ruby>[[意味]]<rt>ㄜ·ㄇㄨㄧ</rt></ruby>
@@ -418,7 +418,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Other :
 	- bicycle - <ruby>[[自転車]]<rt>ㄐㄧㄜㄐ⼔ㄋㄑ⺢</rt></ruby>
 	- railroad - <ruby>[[鉄道]]<rt>ㄊㄝㄊㄉㄚㄨ</rt></ruby>
-	- train station *(needs a word)*
+	- train station - <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby> *("station," now the everyday word for a rail station; see also <ruby>[[列車]]<rt>ㄌㄝㄊㄑ⺢</rt></ruby>)*
 	- subway - <ruby>[[地下道]]<rt>ㄉㄧㄜㄏㄚㄉㄚㄨ</rt></ruby> *(its own gloss is "tunnel, underpass, subway" — likely the British "pedestrian underpass" sense, not confirmed for "underground train system")*
 	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>
 - Computer :
@@ -461,7 +461,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
 	- energy *(needs a word — confirmed genuinely absent, see [[Physics]])*,
-	- nuclear *(needs a word)*,
+	- nuclear - <ruby>[[核]]<rt>ㄏㄚㄎ</rt></ruby> *("nucleus," used attributively)*
 	- particle - <ruby>[[粒子]]<rt>ㄌㄨㄆㄐㄜ</rt></ruby>,
 	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
 	- proton - <ruby>[[陽子]]<rt>⼘ㄫㄐㄧ</rt></ruby>,
@@ -485,7 +485,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Film :
 	- camera *(needs a word)*
 	- film *(needs a word — distinct from [[電影]] "movie," the finished work rather than the physical/celluloid medium)*
-	- photo *(needs a word)*
+	- photo - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> *("photograph")*
 	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>
 	- animation *(needs a word)*
 	- theater - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
@@ -525,7 +525,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- ounce *(needs a word)*
 	- cup *(needs a word — distinct from the container [[杯]], a volume-measure "cup" as used in recipes)*
 	- gram - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> *(one sense among several — also "practice self-restraint, overcome")*
-	- kg *(needs a word)*
+	- kg - <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> *("kilogram")*
 	- meter - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>
 	- km *(needs a word)*
 	- ml *(needs a word)*
@@ -533,7 +533,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Lifestyle :
 	- lifestyle - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> *(same word already used for "live, life" — see [[Life]])*
 	- ATM *(needs a word)*
-	- suburb *(needs a word)*
+	- suburb - <ruby>[[近郊]]<rt>ㄍㄧㄋㄍ⼄ㄨ</rt></ruby> *("suburbs, outskirts")*
 - Jobs :
 	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *(<ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>, which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
 	- babysitter - <ruby>[[保母]]<rt>ㄅㄚㄨㄇㄛㄨ</rt></ruby> *("governess, nanny, babysitter")*
@@ -779,7 +779,7 @@ _These are for place names, not the words themselves_
 - Water :
 	- fast - <ruby>[[速]]<rt>ㄙㄛㄎ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
 	- slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
-	- clear *(needs a word — [[明確]] means abstract "clear, unambiguous," not water transparency)*
+	- clear - <ruby>[[清澈]]<rt>ㄑㄧㄫㄐㄝㄊ</rt></ruby> *("clear, limpid" (of water, sky, sound))*
 	- muddy - <ruby>[[混濁]]<rt>ㄏㄛㄋㄉㄚㄎ</rt></ruby>
 	- noisy *(needs a word)*
 	- laughing *(needs a word — i.e. a "laughing brook," babbling water; no dedicated word)*
