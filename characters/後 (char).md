@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[後舌]]<rt>ㄏㄨㄛ·ㄙㄝㄊ</rt></ruby> "back (of the tongue)"
 - <ruby>[[後退]]<rt>ㄏㄨㄛㄊㄧㄜ</rt></ruby> "retreat"
 - <ruby>[[後方]]<rt>ㄏㄨㄛㄈㄚㄫ</rt></ruby> "rear"
+- <ruby>[[後宮]]<rt>ㄏㄨㄛㄍㄨㄫ</rt></ruby> "a harem, the rear palace"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

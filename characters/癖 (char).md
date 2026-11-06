@@ -50,3 +50,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[癖]]<rt>ㄆㄝㄎ</rt></ruby> "idiosyncrasy, habit" (stand-in for 癖)
+- <ruby>[[潔癖]]<rt>ㄍㄝㄊㄆㄝㄎ</rt></ruby> "fastidious, squeamish about impurity"

@@ -56,3 +56,4 @@ boundedness: 100
 - <ruby>[[鰭好]]<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby> "hobby"
 - <ruby>[[好奇]]<rt>ㄏㄚㄨㄍㄨㄧ</rt></ruby> "curious"
 - <ruby>[[偏好]]<rt>ㄆ⼶ㄋㄏㄚㄨ</rt></ruby> "preference"
+- <ruby>[[好色]]<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby> "a womanizer; lustful"

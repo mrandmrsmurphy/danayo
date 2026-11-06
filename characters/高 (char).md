@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[高知]]<rt>ㄍㄚㄨㄐㄨㄧ</rt></ruby> "Kochi Prefecture"
 - <ruby>[[高原]]<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby> "plateau"
 - <ruby>[[高価]]<rt>ㄍㄚㄨㄍㄚ</rt></ruby> "expensive, high-priced"
+- <ruby>[[高潮]]<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby> "an orgasm; a climax"
 
 ## Derived Characters
 - <ruby>[[敲 (char)|敲]]<rt>ㄎ⼘ㄨ</rt></ruby> "to knock; tap; rap"

@@ -5,12 +5,13 @@ domain: Reproduction
 related_domains:
   - "[[Kinship]]"
   - "[[Body]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Reproduction
 
-Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orientation and gender identity, and the illicit/transgressive end of sexuality (adultery, prostitution, bondage) documented in this vault's classical, literary, and contemporary sources. This is a thin domain: several basic terms (fondle, orgasm, prude, harem, womanizer, orgy, rape, and perversion) remain completely uncoined — a genuine, notable gap rather than an oversight in searching.
+Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orientation and gender identity, and the illicit/transgressive end of sexuality (adultery, prostitution, bondage) documented in this vault's classical, literary, and contemporary sources. It is a bounded domain, with orgasm (<ruby>[[高潮]]<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>), harem (<ruby>[[後宮]]<rt>ㄏㄨㄛㄍㄨㄫ</rt></ruby>), orgy (<ruby>[[乱交]]<rt>ㄌㄚㄋㄍ⼄ㄨ</rt></ruby>), perversion (<ruby>[[変態]]<rt>ㄅ⼶ㄋㄊㄚㄧ</rt></ruby>), womanizer (<ruby>[[好色]]<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby>), fondle (<ruby>[[愛撫]]<rt>ㄚㄧㄈㄨ</rt></ruby>) and rape (<ruby>[[強姦]]<rt>ㄍ⼘ㄫㄍㄚㄋ</rt></ruby>) all covered; the few English words Dan'a'yo says by strategy (lesbian, gay) are explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -19,27 +20,41 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[雄](../words/雄.md)<rt>ㄨㄫ</rt></ruby>: manly, male — [[雌性]]'s direct counterpart, resolving this page's own previously-flagged "male" gap.
 - <ruby>[性交](../words/性交.md)<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby>: to have sex, copulate — a clinical/formal register; no crude or slang equivalent exists in this vault.
 - <ruby>[交接](../words/交接.md)<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>: to have intercourse — a euphemistic extension of this word's primary literal sense, "to link, join, connect" (e.g. Vietnamese giao tiếp, "to communicate").
-- <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal/literary euphemistic/anatomical compound, an undocumented near-synonym of [[交接]] and the clinical [[性交]].
+- <ruby>[高潮](../words/高潮.md)<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>: an orgasm; a climax — also "high tide"; the sexual sense is Chinese-first.
+- <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal, literary euphemistic compound, one of three registers of "have sex" beside the clinical [[性交]] and the euphemistic [[交接]].
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, to be pregnant — see [Body](../lexipedia/Body.md) for its own citation there.
 - <ruby>[受胎](../words/受胎.md)<rt>ㄙ⼜·ㄊㄚㄧ</rt></ruby>: conception, to conceive — the moment a womb receives new life (in Christian usage, 受胎告知 is the Annunciation); the start of what [[懐孕]] names as the state of being pregnant.
 
-**Not yet coined**: "Fuck" (the crude verb) is uncoined; only the clinical [[性交]] exists. ("Male," the biological-sex counterpart to [[雌性]], is now covered by [[雄]], above.)
+**"Fuck"** (the crude verb) is not coined: only the clinical <ruby>[[性交]]<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby> exists, with <ruby>[[交溝]]<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby> and <ruby>[[交接]]<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby> as the literary and euphemistic registers. ("Male," the counterpart to <ruby>[[雌性]]<rt>ㄑㄝㄙㄧㄫ</rt></ruby>, is <ruby>[[雄]]<rt>ㄨㄫ</rt></ruby>, above.)
 
 ## Intermediate (B1–B2)
 
 ### Chastity & Purity
 
 - <ruby>[貞潔](../words/貞潔.md)<rt>ㄊㄧㄫㄍㄝㄊ</rt></ruby>: chaste, chastity, purity.
+- <ruby>[仮正経](../words/仮正経.md)<rt>ㄍㄚㄐㄧㄫㄍㄝㄫ</rt></ruby>: a prude, a prig — one who makes a show of propriety and is shocked at anything improper.
+- <ruby>[潔癖](../words/潔癖.md)<rt>ㄍㄝㄊㄆㄝㄎ</rt></ruby>: fastidious, squeamish about impurity — extends to moral squeamishness.
+- <ruby>[拘謹](../words/拘謹.md)<rt>ㄍㄨㄍㄧㄋ</rt></ruby>: prim, stiff, overcautious — holding oneself to strict propriety.
+- <ruby>[清教徒](../words/清教徒.md)<rt>ㄑㄧㄫㄍ⼄ㄨㄉㄛ</rt></ruby>: a Puritan; figuratively a prude — see [Christianity](../lexipedia/基督敎.md) for the sect.
 - <ruby>[処女](../words/処女.md)<rt>ㄑㄛ·ㄋㄜ</rt></ruby>: a virgin, maiden — also "Virgo," the zodiac sign.
 
 ### Illicit & Transgressive
 
 - <ruby>[姦淫](../words/姦淫.md)<rt>ㄍㄚㄋ·ㄧㄇ</rt></ruby>: to fornicate; adultery.
+- <ruby>[淫](../words/淫.md)<rt>ㄧㄇ</rt></ruby>: lewd, obscene.
+- <ruby>[好色](../words/好色.md)<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby>: a womanizer, lustful — a man fond of women and of lust.
+- <ruby>[乱交](../words/乱交.md)<rt>ㄌㄚㄋㄍ⼄ㄨ</rt></ruby>: an orgy; promiscuity.
+- <ruby>[愛撫](../words/愛撫.md)<rt>ㄚㄧㄈㄨ</rt></ruby>: to caress, fondle.
+- <ruby>[強姦](../words/強姦.md)<rt>ㄍ⼘ㄫㄍㄚㄋ</rt></ruby>: to rape — sexual violence; see [Law](../lexipedia/Law.md).
+- <ruby>[暴行](../words/暴行.md)<rt>ㄅㄛㄎㄏㄚㄫ</rt></ruby>: assault, violence — see [Conflict](../lexipedia/Conflict.md).
 - <ruby>[放蕩](../words/放蕩.md)<rt>ㄈㄚㄫㄉㄚㄫ</rt></ruby>: dissolute, licentious, debauched — living without restraint in drink, sex and spending; broader than the sexual sense alone, but its sexual licence is why it sits beside [[姦淫]].
 - <ruby>[勾引](../words/勾引.md)<rt>ㄍㄛㄨ·ㄧㄋ</rt></ruby>: to seduce, entice, lure — to draw someone in with beguiling means, typically toward something illicit, sexual or criminal; in Japanese law it also means a forcible summons, a separate legal sense.
 - <ruby>[妓女](../words/妓女.md)<rt>ㄍㄧ·ㄋㄜ</rt></ruby>: a prostitute.
 - <ruby>[艶](../words/艶.md)<rt>⼶ㄇ</rt></ruby>: voluptuous, plump, beautiful — its own Notes explicitly document use "in both aesthetic and erotic registers," the closest available match for "erotic."
 - <ruby>[緊縛](../words/緊縛.md)<rt>ㄍㄧㄋㄈㄚㄎ</rt></ruby>: bondage — literally "tight binding." Japanese きんばく (kinbaku) is the real, internationally attested word for this specific rope-bondage art form; equivalent in sense to Mandarin 綁縛 (bǎngfù), a word this vault cannot yet create since its first character has no character page here.
+- <ruby>[高潮](../words/高潮.md)<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>: an orgasm; a climax.
+- <ruby>[乱交](../words/乱交.md)<rt>ㄌㄚㄋㄍ⼄ㄨ</rt></ruby>: an orgy; promiscuity.
+- <ruby>[変態](../words/変態.md)<rt>ㄅ⼶ㄋㄊㄚㄧ</rt></ruby>: a perversion; a pervert.
 
 ### Animal Mating
 
@@ -50,11 +65,12 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[同性愛](../words/同性愛.md)<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby>: homosexuality — literally "same-sex love," a clean, directly parallel compound across the whole Sinosphere with no real sense-divergence between languages.
 - <ruby>[跨性別](../words/跨性別.md)<rt>ㄎ⺢ㄙㄧㄫㄅㄝㄊ</rt></ruby>: transgender — literally "crossing/straddling sex/gender." Genuinely current in Mandarin/Cantonese usage; Japanese, Korean, and Vietnamese all prefer their own loanword or native term instead of a compositional reading (see the word's own Notes).
 
-**Not yet coined**: "lesbian" and "gay" as separate identity-words remain uncoined — [[同性愛]] names the general concept (homosexuality) but not either gender-specific identity term.
+**"Lesbian" and "gay"** have no shared set compound across the languages, so each is said as a phrase: <ruby>[[同性愛]]<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby> (homosexuality) with 女 or 男, as in 女之同性愛 and 男之同性愛. "Prude" is <ruby>[[仮正経]]<rt>ㄍㄚㄐㄧㄫㄍㄝㄫ</rt></ruby>, a prude or prig (attested in Mandarin and Cantonese as 假正經), with <ruby>[[拘謹]]<rt>ㄍㄨㄍㄧㄋ</rt></ruby> for prim and stiff, <ruby>[[潔癖]]<rt>ㄍㄝㄊㄆㄝㄎ</rt></ruby> for squeamishness about impurity, and <ruby>[[清教徒]]<rt>ㄑㄧㄫㄍ⼄ㄨㄉㄛ</rt></ruby> for a Puritan, which Mandarin also uses figuratively. Three neologisms built on the suffix 者 were considered and not coined, since attested words exist: 拘礼者 ("one bound by etiquette"), 過禁者 ("one who over-forbids") and 頑端者 ("one stubbornly upright"); 隘潔者 would need the character 隘, which the vault lacks.
 
 ## Advanced / Specialized (C1+)
 
 - <ruby>[妾](../words/妾.md)<rt>ㄑㄛㄆ</rt></ruby>: a concubine — see [Kinship](../lexipedia/Kinship.md) for its own citation there; the closest available word to the polygamous-household concept behind "harem," though not itself a match for that English word.
+- <ruby>[後宮](../words/後宮.md)<rt>ㄏㄨㄛㄍㄨㄫ</rt></ruby>: a harem, the rear palace.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 

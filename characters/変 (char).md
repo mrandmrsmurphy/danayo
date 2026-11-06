@@ -58,3 +58,4 @@ boundedness: 90
 - <ruby>[[変化]]<rt>ㄅ⼶ㄋㄏ⺢</rt></ruby> "to change; vary"
 - <ruby>[[変色]]<rt>ㄅ⼶ㄋㄙㄧㄎ</rt></ruby> "discoloration"
 - <ruby>[[変遷]]<rt>ㄅ⼶ㄋㄑㄝㄋ</rt></ruby> "change over time"
+- <ruby>[[変態]]<rt>ㄅ⼶ㄋㄊㄚㄧ</rt></ruby> "a perversion; a pervert"
