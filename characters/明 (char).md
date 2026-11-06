@@ -93,6 +93,7 @@ boundedness: 100
 - <ruby>[[昆明]]<rt>ㄍㄛㄋㄇ⼶ㄫ</rt></ruby> "Kunming"
 - <ruby>[[透明]]<rt>ㄊㄛㄨㄇ⼶ㄫ</rt></ruby> "transparent"
 - <ruby>[[明度]]<rt>ㄇ⼶ㄫㄉㄛ</rt></ruby> "lightness"
+- <ruby>[[明族]]<rt>ㄇ⼶ㄫㄐㄛㄎ</rt></ruby> "the Bright Tribe, Issachar"
 
 ## Chengyu
 - <ruby>[[旗幟鮮明]]<rt>ㄎㄧㄑㄧㄙ⼶ㄇㄇ⼶ㄫ</rt></ruby> "to take a clear and unmistakable stand"

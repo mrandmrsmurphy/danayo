@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[双節棍]]<rt>ㄙ⺢ㄫㄐㄝㄊㄏㄛㄋ</rt></ruby> "nunchucks"
 - <ruby>[[沙羅双樹]]<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby> "sal tree, shala"
 - <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
+- <ruby>[[双族]]<rt>ㄙ⺢ㄫㄐㄛㄎ</rt></ruby> "the Double Tribe, Joseph"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"

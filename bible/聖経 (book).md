@@ -8,9 +8,9 @@ tags:
 ## Torah
 1. <ruby>[[創世記]]<rt>ㄑ⺢ㄫㄙㄝㄍㄧ</rt></ruby>
 2. [[出谷記]]
-3. 附族記 _The Coming-Near Tribe Story_
-4. 民数記 _Population Size Story_
-5. 申命記 _Second Life Story_
+3. [[附族記]] _The Coming-Near Tribe Story_
+4. [[民数記]] _Population Size Story_
+5. [[申命記]]  _Second Life Story_
 ## Prophets
 6. 救偕記 (以賽亞 ， ·⼶ㄙ⼜·ㄚ)
 7. 士師記

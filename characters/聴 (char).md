@@ -53,6 +53,8 @@ boundedness: 60
 - <ruby>[[聴]]<rt>ㄑㄝㄫ</rt></ruby> "listen" (stand-in for 聴)
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"
 - <ruby>[[聴取]]<rt>ㄑㄝㄫㄑㄛㄨ</rt></ruby> "listen to; take in"
+- <ruby>[[聴族]]<rt>ㄑㄝㄫㄐㄛㄎ</rt></ruby> "the Listening Tribe, Simeon"
+- <ruby>[[神聴]]<rt>ㄙㄧㄋㄑㄝㄫ</rt></ruby> "Ishmael, the son of Abraham and Hagar"
 
 ## Derived Characters
 - <ruby>[[庁]]<rt>ㄑㄝㄫ</rt></ruby> "hall; room"

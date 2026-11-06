@@ -32,5 +32,6 @@ Counts change daily — compute them (`git ls-files characters | wc -l`) rather 
 - **How to create characters/words/chengyu:** [[AIOS/skill-index.md]]
 - **How to judge whether an existing page is complete:** [[AIOS/checklist-index.md]]
 - **What AIOS is and how this persistence system works:** [[AIOS/README.md]]
+- **Change history (newest first; log every content change in the same session, and never record history on a page):** [[Log/log.md]], convention in [[AIOS/log-convention.md]]
 
 License: CC BY-SA 4.0 for all content and code (see `LICENSE`).

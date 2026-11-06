@@ -17,5 +17,6 @@ Structure:
 - **`AIOS/checklists/`** — individual `checklist_*.md` rubrics (how to judge whether something that already exists is *complete* — the "date-last-perfect" spec)
 - **`AIOS/projects.md`** — living status document for ongoing work; read at the start of every session to see what's active and where to resume
 - **`AIOS/projects/`** — deeper history for individual projects, as `project_*.md` files linked from `projects.md`
+- **`AIOS/log-convention.md`** — how the vault's change log, `Log/log.md`, is written: newest first, one entry per logical change, authority named, history never on a content page
 
 When you discover something valuable for future sessions — architectural decisions, gotchas, corrections, project status changes — write it into the appropriate `AIOS/` file and index it. Don't wait to be asked, and don't wait for the session to end.

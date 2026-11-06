@@ -92,6 +92,7 @@ boundedness: 75
 - <ruby>[[酋長]]<rt>ㄑㄨㄛㄐㄚㄫ</rt></ruby> "chief"
 - <ruby>[[長老]]<rt>ㄐㄚㄫㄌㄚㄨ</rt></ruby> "elder"
 - <ruby>[[隊長]]<rt>ㄉㄛㄧㄐㄚㄫ</rt></ruby> "captain"
+- <ruby>[[長族]]<rt>ㄐㄚㄫㄐㄛㄎ</rt></ruby> "the Eldest Tribe, Reuben"
 
 ## Chengyu
 - <ruby>[[意味深長]]<rt>ㄜ·ㄇㄨㄧㄙㄧㄇㄐㄚㄫ</rt></ruby> "full of deep significance; profound and thought-provoking"

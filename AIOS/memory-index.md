@@ -13,6 +13,7 @@ Standing memories about 武明帥 and how to collaborate with him on this vault:
 For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project status, see `AIOS/projects.md`.
 
 ## Feedback
+- [Change log](log-convention.md) — log every content change in `Log/log.md` in the same session, newest first, naming pages and authority (Murphy: … / [AI]); history never goes on a content page (user 2026-11-06)
 - [CLAUDE.md stays thin](memory/feedback_claude_md_stays_thin.md) — CLAUDE.md is a redirect-only index; new reference content goes into `AIOS/` (vault-structure.md, README.md, or a new file), no[...]
 - [Character Notes format](memory/feedback_character_notes_format.md) — syllable link only on bullet 3, `(char)` suffix rules, blank `mc_id` when not in CC corpus
 - [Character inclusion philosophy](memory/feedback_character_inclusion_philosophy.md) — when to alias a marginal character onto its phonetic parent vs. give it its own entry vs. mark it `名専[...]

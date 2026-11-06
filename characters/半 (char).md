@@ -51,6 +51,7 @@ boundedness: 80
 - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby> "peninsula"
 - <ruby>[[夜半]]<rt>⼘ㄅㄚㄋ</rt></ruby> "midnight"
 - <ruby>[[半月]]<rt>ㄅㄚㄋ⼔ㄊ</rt></ruby> "half-moon"
+- <ruby>[[半族]]<rt>ㄅㄚㄋㄐㄛㄎ</rt></ruby> "a half-tribe"
 
 ## Derived Characters
 - <ruby>[[絆]]<rt>ㄅㄚㄋ</rt></ruby> "band, fetter"

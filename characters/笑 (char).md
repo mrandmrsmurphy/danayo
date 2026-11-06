@@ -60,6 +60,7 @@ boundedness: 80
 - <ruby>[[微笑]]<rt>ㄇㄨㄧㄙ⼄ㄨ</rt></ruby> "smile"
 - <ruby>[[笑顔]]<rt>ㄙ⼄ㄨㄚㄋ</rt></ruby> "smiling face"
 - <ruby>[[笑話]]<rt>ㄙ⼄ㄨㄏ⺢ㄧ</rt></ruby> "joke"
+- <ruby>[[笑生]]<rt>ㄙ⼄ㄨㄙㄚㄫ</rt></ruby> "Isaac, the son of Abraham"
 
 ## Chengyu
 - <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to guffaw, to laugh heartily and loudly"

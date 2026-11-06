@@ -62,3 +62,4 @@ boundedness: 80
 - <ruby>[[福岡]]<rt>ㄈㄨㄎㄍㄚㄫ</rt></ruby> "Fukuoka Prefecture"
 - <ruby>[[福音]]<rt>ㄈㄨㄎㄨㄇ</rt></ruby> "the gospel, good news"
 - <ruby>[[祝福]]<rt>ㄐㄨㄎㄈㄨㄎ</rt></ruby> "to bless; a blessing"
+- <ruby>[[福族]]<rt>ㄈㄨㄎㄐㄛㄎ</rt></ruby> "the Fortunate Tribe, Asher"

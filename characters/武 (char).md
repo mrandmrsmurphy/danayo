@@ -64,6 +64,7 @@ boundedness: 75
 - <ruby>[[武芸]]<rt>ㄇㄨㄝ</rt></ruby> "martial art skill"
 - <ruby>[[武漢]]<rt>ㄇㄨㄏㄚㄋ</rt></ruby> "Wuhan"
 - <ruby>[[武器]]<rt>ㄇㄨ·ㄎㄧㄜ</rt></ruby> "weapon"
+- <ruby>[[武族]]<rt>ㄇㄨㄐㄛㄎ</rt></ruby> "the Warring Tribe, Gad"
 
 ## Chengyu
 - <ruby>[[重文軽武]]<rt>ㄑㄛㄫㄇㄨㄋㄎㄧㄫㄇㄨ</rt></ruby> "Culture over war"

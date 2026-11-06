@@ -53,3 +53,4 @@ boundedness: 75
 - <ruby>[[附]]<rt>ㄅㄨ</rt></ruby> "affix, adhere" (stand-in for 附 (char))
 - <ruby>[[附近]]<rt>ㄅㄨㄍㄧㄋ</rt></ruby> "vicinity"
 - <ruby>[[附族記]]<rt>ㄅㄨㄐㄛㄎㄍㄧ</rt></ruby> "Leviticus — the third book of the Bible"
+- <ruby>[[附族]]<rt>ㄅㄨㄐㄛㄎ</rt></ruby> "the Attached Tribe, Levi"

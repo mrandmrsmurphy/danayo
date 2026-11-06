@@ -72,6 +72,7 @@ boundedness: 90
 - <ruby>[[無神論]]<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby> "atheism"
 - <ruby>[[神学]]<rt>ㄙㄧㄋㄏㄚㄎ</rt></ruby> "theology"
 - <ruby>[[神助]]<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "Eleazar; Lazarus"
+- <ruby>[[神聴]]<rt>ㄙㄧㄋㄑㄝㄫ</rt></ruby> "Ishmael, the son of Abraham and Hagar"
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"
