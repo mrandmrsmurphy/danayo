@@ -93,7 +93,7 @@ tags:
 ## Others
 - 高父 → 衆父 Abram->Abraham 
 - <ruby>[救偕](/words/救偕.md)<rt>ㄍ⼜ㄍ⼶</rt></ruby> Jesus/Joshua
-- 助偕 Eleazar/Lazarus 
+- 神助 Eleazar/Lazarus 
 - <ruby>[偕者](/words/偕者.md)<rt>ㄍ⼶ㄑㄚ</rt></ruby> = YHWH
 - <ruby>[上帝](/words/上帝.md)<rt>ㄙ⼘ㄫㄊㄝㄧ</rt></ruby> = Elohim
 - <ruby>[天主](/words/天主.md)<rt>ㄊㄝㄋㄐㄨ</rt></ruby> = Lord

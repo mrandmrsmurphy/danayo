@@ -71,6 +71,7 @@ boundedness: 90
 - <ruby>[[神諭]]<rt>ㄙㄧㄋ·⼜ㄇ</rt></ruby> "oracle"
 - <ruby>[[無神論]]<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby> "atheism"
 - <ruby>[[神学]]<rt>ㄙㄧㄋㄏㄚㄎ</rt></ruby> "theology"
+- <ruby>[[神助]]<rt>ㄙㄧㄋㄐㄛ</rt></ruby> "Eleazar; Lazarus"
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"

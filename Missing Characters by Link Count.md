@@ -66,7 +66,7 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 
 ### Hyōgai + Korean Name
 [[瑕]] · [[宦]] · [[屹]] · [[謔]] · [[噓]] · [[莢]] · [[畦]] · [[蹊]] · [[呟]]
-[[熾]] · [[峙]] · [[痔]] · [[贅]] · [[嗟]] · [[懺]]
+[[熾]] · [[峙]] · [[痔]] · [[贅]] · [[嗟]]
 
 ### Old HSK 4 + Korean Name ㄱ
 [[淇]] · [[饋]] · [[稈]] · [[譏]] · [[轎]] · [[譴]]

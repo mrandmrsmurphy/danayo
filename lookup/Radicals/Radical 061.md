@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-04
-size: 106
+size: 107
 radical: 心
 tags: [lookup]
 
@@ -152,8 +152,11 @@ tags: [lookup]
 ### +16 Strokes
 105. <ruby>[懸](../../characters/懸%20(char).md)<rt>ㄏ⼔ㄋ</rt></ruby> - hang
 
+### +17 Strokes
+106. <ruby>[懺](../../characters/懺.md)<rt>ㄑㄚㄇ</rt></ruby> - repent
+
 ### +18 Strokes
-106. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
+107. <ruby>[懿](../../characters/懿.md)<rt>ㄧㄜ</rt></ruby> - esteemed
 
 ### Aliases
 - 懼 --> 惧

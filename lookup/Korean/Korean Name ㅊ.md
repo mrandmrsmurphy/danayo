@@ -16,7 +16,7 @@ These have all bee checked to see which are redirects
 [札](characters/札%20(char).md) [[刹]] [擦](characters/擦%20(char).md) [紮](characters/紮%20(char).md) [拶](characters/拶.md)
 
 ### 참 
-[[僭]] 塹<--斬 [[懺]] [斬](characters/斬%20(char).md) [[站]] [[讒]] [[讖]] 
+[[僭]] 塹<--斬 [懺](characters/懺.md) [斬](characters/斬%20(char).md) [[站]] [[讒]] [[讖]] 
 
 ### 창 
 [菖](../../characters/%E6%98%8C.md) [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [倡](../../characters/唱.md) [娼](../../characters/唱.md) [[愴]] [槍](characters/槍%20(char).md) [漲](../../characters/張.md) [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md) [錆](characters/錆.md)

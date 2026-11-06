@@ -22,7 +22,7 @@ tags: [lookup]
 14. [SKIP-1-3-14](lookup/SKIP/SKIP-1/SKIP-1-3-14.md): 嚇, 徽, 擡, 擢, 擦, 擬, 擱, 濡, 濯, 鴻
 15. [SKIP-1-3-15](lookup/SKIP/SKIP-1/SKIP-1-3-15.md): 擲, 擺, 擾, 攄, 攅, 濫, 瀑
 16. [SKIP-1-3-16](lookup/SKIP/SKIP-1/SKIP-1-3-16.md): 懶, 瀧, 瀬, 獺
-17. [SKIP-1-3-17](lookup/SKIP/SKIP-1/SKIP-1-3-17.md): 瀕, 灌, 攘
+17. [SKIP-1-3-17](lookup/SKIP/SKIP-1/SKIP-1-3-17.md): 瀕, 灌, 攘, 懺
 18. [SKIP-1-3-18](lookup/SKIP/SKIP-1/SKIP-1-3-18.md): 灋, 灘
 19. [SKIP-1-3-19](lookup/SKIP/SKIP-1/SKIP-1-3-19.md): ø
 20. [SKIP-1-3-20](lookup/SKIP/SKIP-1/SKIP-1-3-20.md): 攫

@@ -760,6 +760,7 @@ tags: [lookup]
 [柿](../../characters/柿.md)
 [匙](../../characters/匙.md)
 [咸](../../characters/咸.md)
+[懺](../../characters/懺.md)
 [豹](../../characters/豹.md)
 [栗 (char)](../../characters/栗%20(char).md)
 [狸 (char)](../../characters/狸%20(char).md)
