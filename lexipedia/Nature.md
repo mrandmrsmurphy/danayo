@@ -32,12 +32,14 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[世界](../words/世界.md)<rt>ㄙㄝㄍ⼶</rt></ruby>: the world.
 - <ruby>[国家](../words/国家.md)<rt>ㄍㄛㄎㄍㄚ</rt></ruby>: a country, nation.
 - <ruby>[沙漠](../words/沙漠.md)<rt>ㄙㄚ·ㄇㄚㄎ</rt></ruby>: a desert.
+- <ruby>[緑洲](../words/緑洲.md)<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby>: an oasis.
 - <ruby>[農民](../words/農民.md)<rt>ㄋㄛㄫㄇㄧㄋ</rt></ruby>: a farmer, peasant.
 - <ruby>[田野](../words/田野.md)<rt>ㄉㄝㄋ·⼘</rt></ruby>: a field — open countryside, not a sports field.
 - <ruby>[桑田](../words/桑田.md)<rt>ㄙㄚㄫㄉㄝㄋ</rt></ruby>: a mulberry plantation — a field planted with mulberry (for silkworm leaves), a cultivated field rather than open countryside like [[田野]].
 - <ruby>[肥沃](../words/肥沃.md)<rt>ㄅㄨㄧㄛㄎ</rt></ruby>: fertile, irrigated — 肥 "fertile" + 沃 "watered."
 - <ruby>[丘](../words/丘.md)<rt>ㄎ⼜</rt></ruby>: a hill.
 - <ruby>[谷](../words/谷.md)<rt>ㄍㄛㄎ</rt></ruby>: a valley.
+- <ruby>[峡谷](../words/峡谷.md)<rt>ㄏㄚㄆㄍㄛㄎ</rt></ruby>: a canyon, gorge.
 - <ruby>[崖](../words/崖.md)<rt>ㄚㄧ</rt></ruby>: a cliff.
 - <ruby>[火山](../words/火山.md)<rt>ㄏ⺢ㄙㄚㄋ</rt></ruby>: a volcano.
 - <ruby>[噴火](../words/噴火.md)<rt>ㄆㄛㄋㄏ⺢</rt></ruby>: to erupt.
@@ -67,6 +69,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 - <ruby>[巫山](../words/巫山.md)<rt>ㄇㄨㄙㄚㄋ</rt></ruby>: Wushan, the Wu Mountain.
 - <ruby>[南山](../words/南山.md)<rt>ㄋㄚㄇㄙㄚㄋ</rt></ruby>: South Mountain.
 - <ruby>[草原](../words/草原.md)<rt>ㄑㄚㄨ⼔ㄋ</rt></ruby>: grassland, prairie, steppe, savanna.
+- <ruby>[高原](../words/高原.md)<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>: a plateau.
 - <ruby>[草地](../words/草地.md)<rt>ㄑㄚㄨㄉㄧㄜ</rt></ruby>: a lawn, grassland, meadow — an undocumented near-duplicate of [[草原]].
 - <ruby>[陸地](../words/陸地.md)<rt>ㄌㄨㄎㄉㄧㄜ</rt></ruby>: land, dry land, landmass — land as opposed to sea, distinct from [[土地]]'s ground/soil sense.
 - <ruby>[地](../words/地.md)<rt>ㄉㄧㄜ</rt></ruby>: land — the bound, classical form.
@@ -105,6 +108,7 @@ Nature vocabulary covers the physical world outside human construction — landf
 
 - <ruby>[栽培](../words/栽培.md)<rt>ㄐㄚㄧㄈㄛㄧ</rt></ruby>: to cultivate, grow — see [[Life]] for its own citation there.
 - <ruby>[耕種](../words/耕種.md)<rt>ㄍㄚㄫㄐㄛㄫ</rt></ruby>: to plow, sow, cultivate.
+- <ruby>[農場](../words/農場.md)<rt>ㄋㄛㄫㄐㄚㄫ</rt></ruby>: a farm.
 - <ruby>[開墾](../words/開墾.md)<rt>ㄎㄚㄧㄎㄚㄋ</rt></ruby>: to cultivate, open up land.
 - <ruby>[播種](../words/播種.md)<rt>ㄅㄚㄐㄛㄫ</rt></ruby>: to sow seeds; to disseminate.
 - <ruby>[土肥](../words/土肥.md)<rt>ㄊㄛㄅㄨㄧ</rt></ruby>: manure, soil fertilizer.

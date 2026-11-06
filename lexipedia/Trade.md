@@ -112,6 +112,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: money, currency — an undocumented near-duplicate of [[貨幣]].
 - <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.
+- <ruby>[紙幣](../words/紙幣.md)<rt>ㄐㄝㄆㄝ</rt></ruby>: a banknote.
 
 ### Work
 

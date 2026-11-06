@@ -9,7 +9,7 @@ status: partial
 
 # War
 
-War vocabulary covers armies, weapons, and the acts of attacking, invading, and retreating — the specifically martial side of strife, as distinct from [[Conflict]], this vault's much larger page for interpersonal enmity, combat tactics, and the weapons/military vocabulary this page draws on heavily. Several basic terms (ally, captain, castle, squad, strategy, scout, parry, wield, navy, cavalry, infantry, veteran, recruit, headquarters, rifle, dart, chainmail, greaves) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+War vocabulary covers armies, weapons, and the acts of attacking, invading, and retreating — the specifically martial side of strife, as distinct from [[Conflict]], this vault's much larger page for interpersonal enmity, combat tactics, and the weapons/military vocabulary this page draws on heavily. Several basic terms (ally, captain, castle, squad, strategy, scout, parry, wield, navy, veteran, recruit, headquarters, rifle, dart, chainmail, greaves) have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
 
 ## Core Vocabulary (A1–A2)
 
@@ -36,6 +36,9 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[兵卒](../words/兵卒.md)<rt>ㄅ⼶ㄫㄐㄨㄊ</rt></ruby>: a soldier — a near-synonym of [[軍人]].
 - <ruby>[兵士](../words/兵士.md)<rt>ㄅ⼶ㄫㄙㄚㄧ</rt></ruby>: a soldier — another near-synonym of [[軍人]].
 - <ruby>[哨兵](../words/哨兵.md)<rt>ㄙ⼄ㄨㄅ⼶ㄫ</rt></ruby>: a sentry, sentinel.
+- <ruby>[歩兵](../words/歩兵.md)<rt>ㄅㄛㄅ⼶ㄫ</rt></ruby>: infantry, foot soldier.
+- <ruby>[騎兵](../words/騎兵.md)<rt>ㄍㄨㄧㄅ⼶ㄫ</rt></ruby>: cavalry, mounted soldier.
+- <ruby>[砲兵](../words/砲兵.md)<rt>ㄅ⼘ㄨㄅ⼶ㄫ</rt></ruby>: artillery, artilleryman.
 - <ruby>[孤軍](../words/孤軍.md)<rt>ㄍㄛㄍㄨㄋ</rt></ruby>: an isolated army, lone forces.
 - <ruby>[守戍](../words/守戍.md)<rt>ㄙ⼜ㄙㄨ</rt></ruby>: a border guard.
 - <ruby>[干戈](../words/干戈.md)<rt>ㄍㄚㄋㄍ⺢</rt></ruby>: weapons of war, arms.
@@ -44,7 +47,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[補給](../words/補給.md)<rt>ㄅㄛㄍㄧㄆ</rt></ruby>: logistics — "to supply provisions."
 - <ruby>[母艦](../words/母艦.md)<rt>ㄇㄛㄨㄏㄚㄇ</rt></ruby>: a mother ship, carrier — a specific vessel type, not a resolution of "navy" below.
 
-**Not yet coined**: "ally," "captain," "squad," "navy," "cavalry," "infantry," "veteran," "recruit," and "headquarters" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "ally," "captain," "squad," "navy," "veteran," "recruit," and "headquarters" all have no dedicated Dan'a'yo word yet.
 
 ### Weapons & Armor
 
@@ -65,6 +68,7 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[銃](../words/銃.md)<rt>ㄑㄨㄫ</rt></ruby>: a gun.
 - <ruby>[大砲](../words/大砲.md)<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>: a gun — specifically a cannon, distinct from [[銃]]'s handheld firearm.
 - <ruby>[戦車](../words/戦車.md)<rt>ㄐㄝㄋㄑ⺢</rt></ruby>: a tank, armoured fighting vehicle. See [Tools](../lexipedia/Tools.md) for its own citation there.
+- <ruby>[爆弾](../words/爆弾.md)<rt>ㄅㄛㄎㄉㄚㄋ</rt></ruby>: a bomb.
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a blade. See [Food](../lexipedia/Food.md) for its own citation there.
 
 **Not yet coined**: "rifle," "dart," "chainmail," and "greaves" all have no dedicated Dan'a'yo word yet. ("Helmet" is now covered by [[兜]], above.)

@@ -14,3 +14,5 @@ Unit words (単位詞): nouns naming a standard unit of measure. They may take a
 8. <ruby>[碼](/words/碼.md)<rt>ㄇㄚ</rt></ruby> - yard
 9. <ruby>[斗](/words/斗.md)<rt>ㄉㄛㄨ</rt></ruby> - peck, the dry measure
 10. <ruby>[尺](/words/尺.md)<rt>ㄑㄝㄎ</rt></ruby> - chi, the traditional East Asian unit of length (the "foot")
+11. <ruby>[公里](/words/公里.md)<rt>ㄍㄛㄫㄌㄧ</rt></ruby> - kilometre
+12. <ruby>[毫升](/words/毫升.md)<rt>ㄏㄚㄨㄙㄨㄫ</rt></ruby> - millilitre

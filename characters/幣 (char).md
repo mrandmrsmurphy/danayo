@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[幣]]<rt>ㄆㄝ</rt></ruby> "cash" (stand-in for 幣)
 - <ruby>[[貨幣]]<rt>ㄏ⺢·ㄆㄝ</rt></ruby> "currency; money"
 - <ruby>[[造幣局]]<rt>ㄑㄚㄨ·ㄆㄝㄍ⼄ㄎ</rt></ruby> "mint"
+- <ruby>[[紙幣]]<rt>ㄐㄝㄆㄝ</rt></ruby> "banknote"

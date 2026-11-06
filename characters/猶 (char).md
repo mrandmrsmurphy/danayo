@@ -55,3 +55,4 @@ boundedness: 90
 - <ruby>[[猶]]<rt>⼜ㄛ</rt></ruby> "furthermore; still; yet" (stand-in for 猶)
 - <ruby>[[猶予]]<rt>⼜ㄛ⼄</rt></ruby> "hesitate"
 - <ruby>[[猶太]]<rt>⼜ㄛㄊㄚㄧ</rt></ruby> "Jewish"
+- <ruby>[[猶太教]]<rt>⼜ㄛㄊㄚㄧㄍ⼄ㄨ</rt></ruby> "Judaism"

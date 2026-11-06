@@ -100,7 +100,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- winter - <ruby>[[冬]]<rt>ㄊㄛㄫ</rt></ruby>
 - Geographical : 
 	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby>, 
-	- farm *(needs a word)*, 
+	- farm - <ruby>[[農場]]<rt>ㄋㄛㄫㄐㄚㄫ</rt></ruby>
 	- field - <ruby>[[田野]]<rt>ㄉㄝㄋ·⼘</rt></ruby>, 
 	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
 - Body Parts : 
@@ -154,7 +154,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 - Settlement :
 	- city - <ruby>[[都市]]<rt>ㄉㄛㄙㄧ</rt></ruby>
 	- street - <ruby>[[街道]]<rt>ㄍ⼘ㄧㄉㄚㄨ</rt></ruby>
-	- tavern *(needs a word)*
+	- tavern - <ruby>[[酒館]]<rt>ㄐㄨㄛㄍ⺢ㄋ</rt></ruby>
 - Houses :
 	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby>
 	- room - <ruby>[[房]]<rt>ㄅㄚㄫ</rt></ruby>
@@ -478,8 +478,8 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
 	- dishwasher *(needs a word)*
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
-	- washer - <ruby>[[洗濯机]]<rt>ㄙㄝㄋㄉㄚㄎㄍㄧㄜ</rt></ruby>
-	- dryer *(needs a word)*
+	- washer - <ruby>[[洗衣机]]<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby>
+	- dryer - <ruby>[[乾燥机]]<rt>ㄍ⼶ㄋㄙㄚㄨㄍㄧㄜ</rt></ruby>
 	- furnace - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby>
 	- AC *(needs a word)*
 - Film :
@@ -498,12 +498,12 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
 	- rifle *(needs a word)*
 	- tank - <ruby>[[戦車]]<rt>ㄐㄝㄋㄑ⺢</rt></ruby>
-	- infantry *(needs a word)*
-	- cavalry *(needs a word)*
-	- artillery *(needs a word)*
-	- bomb *(needs a word)*
+	- infantry - <ruby>[[歩兵]]<rt>ㄅㄛㄅ⼶ㄫ</rt></ruby>
+	- cavalry - <ruby>[[騎兵]]<rt>ㄍㄨㄧㄅ⼶ㄫ</rt></ruby>
+	- artillery - <ruby>[[砲兵]]<rt>ㄅ⼘ㄨㄅ⼶ㄫ</rt></ruby>
+	- bomb - <ruby>[[爆弾]]<rt>ㄅㄛㄎㄉㄚㄋ</rt></ruby>
 - Office :
-	- copier *(needs a word)*
+	- copier - <ruby>[[複印机]]<rt>ㄅㄨㄎ·ㄧㄋㄍㄧㄜ</rt></ruby>
 	- typewriter - <ruby>[[打字机]]<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>
 	- scanner *(needs a word)*
 - Media :
@@ -527,9 +527,9 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- gram - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> *(one sense among several — also "practice self-restraint, overcome")*
 	- kg - <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> *("kilogram")*
 	- meter - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>
-	- km *(needs a word)*
-	- ml *(needs a word)*
-	- l *(needs a word)*
+	- km - <ruby>[[公里]]<rt>ㄍㄛㄫㄌㄧ</rt></ruby>
+	- ml - <ruby>[[毫升]]<rt>ㄏㄚㄨㄙㄨㄫ</rt></ruby>
+	- l - <ruby>[[升]]<rt>ㄙㄨㄫ</rt></ruby>
 - Lifestyle :
 	- lifestyle - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> *(same word already used for "live, life" — see [[Life]])*
 	- ATM *(needs a word)*
@@ -546,7 +546,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- Ph.D - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> *("doctor," the degree-holder, used generically for the degree itself)*
 - Economy :
 	- economy - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>
-	- banknote *(needs a word)*
+	- banknote - <ruby>[[紙幣]]<rt>ㄐㄝㄆㄝ</rt></ruby>
 	- credit card *(needs a word)*
 	- dollar *(needs a word)*
 	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
@@ -574,14 +574,14 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- T-shirt *(needs a word)*
 	- lipstick - <ruby>[[口紅]]<rt>ㄎㄛㄨㄏㄛㄫ</rt></ruby>
 - Health :
-	- AIDS/HIV *(needs a word)*
+	- AIDS/HIV - <ruby>[[愛滋病]]<rt>ㄚㄧㄐㄜㄅ⼶ㄫ</rt></ruby>
 	- allergy - <ruby>[[過敏]]<rt>ㄍ⺢·ㄇㄧㄋ</rt></ruby> *("oversensitive, allergic, hypersensitive" — the adjective; see [[Society]])*
 	- addict *(needs a word)*
-	- antibiotics *(needs a word)*
+	- antibiotics - <ruby>[[抗生素]]<rt>ㄏㄚㄫㄙㄚㄫㄙㄛ</rt></ruby>
 	- bacteria - <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>
-	- vaccine *(needs a word)*
+	- vaccine - <ruby>[[疫苗]]<rt>⼶ㄎㄇ⼘ㄨ</rt></ruby>
 	- virus - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>
-	- vitamin *(needs a word)*
+	- vitamin - <ruby>[[維他命]]<rt>⼶ㄧㄊㄜㄇ⼶ㄫ</rt></ruby>
 - Food :
 	- candy - <ruby>[[果子]]<rt>ㄍ⺢ㄐㄜ</rt></ruby>
 	- hamburger *(needs a word)*
@@ -592,14 +592,14 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- tofu - <ruby>[[豆腐]]<rt>ㄉㄛㄨㄆㄨ</rt></ruby>
 	- tomato *(needs a word)*
 - Belief :
-	- communism *(needs a word)*
+	- communism - <ruby>[[共産主義]]<rt>ㄍ⼄ㄫㄙㄚㄋㄐㄨㄜㄧ</rt></ruby>
 	- socialism - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>
 	- fascism *(needs a word)*
 	- republic - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby>
 	- democracy - <ruby>[[民主]]<rt>ㄇㄧㄋㄐㄨ</rt></ruby>
 	- Green *(needs a word)*
-	- human rights *(needs a word)*
-	- liberal *(needs a word)*
+	- human rights - <ruby>[[人権]]<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby>
+	- liberal - <ruby>[[自由主義]]<rt>ㄐㄧㄜ⼜ㄛㄐㄨㄜㄧ</rt></ruby>
 	- conservative - <ruby>[[保守]]<rt>ㄅㄚㄨㄙ⼜</rt></ruby>
 - Position :
 	- president - <ruby>[[総統]]<rt>ㄐㄛㄫㄊㄛㄫ</rt></ruby>
@@ -607,13 +607,13 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- representative - <ruby>[[代表]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> *("represent," the verb, used generically for the noun; see [[Mind]]. Genuine Dan'a'yo homophone with <ruby>[[大砲]]<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby> "cannon, gun")*
 	- parliament - <ruby>[[国会]]<rt>ㄍㄛㄎㄏ⼔</rt></ruby> *("national assembly, parliament, congress"; see also <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby>)*
 	- council - <ruby>[[議会]]<rt>ㄜㄧㄏ⼔</rt></ruby> *(same word as under Politics above)*
-	- dictator *(needs a word)*
+	- dictator - <ruby>[[独裁者]]<rt>ㄉㄛㄎㄑㄚㄧㄑㄚ</rt></ruby>
 	- party - <ruby>[[政党]]<rt>ㄐㄧㄫㄉㄚㄫ</rt></ruby> *("political party")*
 - Religions :
 	- Islam - <ruby>[[回教]]<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>
-	- Judaism *(needs a word)*
+	- Judaism - <ruby>[[猶太教]]<rt>⼜ㄛㄊㄚㄧㄍ⼄ㄨ</rt></ruby>
 	- Christianity - <ruby>[[基督教]]<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>
-	- Hinduism *(needs a word)*
+	- Hinduism - <ruby>[[印度教]]<rt>ㄧㄋㄉㄛㄍ⼄ㄨ</rt></ruby>
 	- Buddhism - <ruby>[[佛教]]<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>
 
 ## Place Names
@@ -634,12 +634,12 @@ _These are for place names, not the words themselves_
 	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
 	- mountain - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>
 	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
-	- plateau *(needs a word)*
+	- plateau - <ruby>[[高原]]<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>
 	- crest *(needs a word)*
 	- peak - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>
 - Valley :
 	- valley - <ruby>[[谷]]<rt>ㄍㄛㄎ</rt></ruby>
-	- canyon *(needs a word)*
+	- canyon - <ruby>[[峡谷]]<rt>ㄏㄚㄆㄍㄛㄎ</rt></ruby>
 	- cliff - <ruby>[[崖]]<rt>ㄚㄧ</rt></ruby>
 - Harsh :
 	- marsh - <ruby>[[薮沢]]<rt>ㄙㄛㄨㄉㄚㄎ</rt></ruby>
@@ -656,7 +656,7 @@ _These are for place names, not the words themselves_
 	- portage *(needs a word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
 	- confluence *(needs a word)*
-	- delta *(needs a word)*
+	- delta - <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>
 	- bank - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby>
 	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
 	- spring *(needs a word — a natural water source; [[春季]]/[[春]], already used above for the season, is an unrelated homograph)*
@@ -685,7 +685,7 @@ _These are for place names, not the words themselves_
 	- ford - <ruby>[[渉]]<rt>ㄙㄝㄆ</rt></ruby> *("to ford, wade across" — the verb; Rosenfelder's noun sense "a fording place" is not separately attested)*
 	- dam - <ruby>[[堰堤]]<rt>ㄝㄋㄙㄝ</rt></ruby>
 	- park - <ruby>[[公園]]<rt>ㄍㄛㄫㄛㄋ</rt></ruby>
-	- oasis *(needs a word)*
+	- oasis - <ruby>[[緑洲]]<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby>
 - Tree :
 	- aspen - <ruby>[[楊樹]]<rt>⼘ㄫㄙㄨ</rt></ruby> *("poplar, aspen")*
 	- birch - <ruby>[[樺木]]<rt>ㄏ⺢·ㄇㄛㄎ</rt></ruby>
@@ -718,7 +718,7 @@ _These are for place names, not the words themselves_
 	- monastery - <ruby>[[院落]]<rt>⼔ㄋㄌㄚㄎ</rt></ruby> *(stand-in word for the bound character 院)*
 - Other :
 	- mine - <ruby>[[鉱山]]<rt>ㄍ⺢ㄫㄙㄚㄋ</rt></ruby>
-	- inn *(needs a word)*
+	- inn - <ruby>[[旅館]]<rt>ㄌ⼄ㄍ⺢ㄋ</rt></ruby>
 	- stopping-point *(needs a word)*
 	- post *(needs a word — distinct from [[宿舎]] "lodge" below and [[郵便]] "postal mail")*
 	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>

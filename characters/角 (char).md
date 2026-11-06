@@ -70,3 +70,4 @@ boundedness: 100
 - <ruby>[[金角]]<rt>ㄍㄧㄇㄍㄛㄎ</rt></ruby> "Jinjiao, the demon king of Journey to the West"
 - <ruby>[[海角]]<rt>ㄏㄚㄧㄍㄛㄎ</rt></ruby> "cape"
 - <ruby>[[角度]]<rt>ㄍㄛㄎㄉㄛ</rt></ruby> "angle"
+- <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby> "delta"

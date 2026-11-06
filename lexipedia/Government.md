@@ -158,6 +158,9 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[大統領](../words/大統領.md)<rt>ㄉㄚㄧㄊㄛㄫㄌㄧㄫ</rt></ruby>: president.
 - <ruby>[国務領](../words/国務領.md)<rt>ㄍㄛㄎㄇㄨㄌㄧㄫ</rt></ruby>: State Affairs Director — the head-of-state title of the Korean Provisional Government in 1925–1927; a specific historical office, not a general term.
 - <ruby>[社会主義](../words/社会主義.md)<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>: socialism.
+- <ruby>[共産主義](../words/共産主義.md)<rt>ㄍ⼄ㄫㄙㄚㄋㄐㄨㄜㄧ</rt></ruby>: communism.
+- <ruby>[自由主義](../words/自由主義.md)<rt>ㄐㄧㄜ⼜ㄛㄐㄨㄜㄧ</rt></ruby>: liberalism.
+- <ruby>[独裁者](../words/独裁者.md)<rt>ㄉㄛㄎㄑㄚㄧㄑㄚ</rt></ruby>: a dictator, autocrat.
 - <ruby>[立憲](../words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby>: constitutional governance; constitutionalism.
 - <ruby>[無政府](../words/無政府.md)<rt>ㄇㄜㄐㄧㄫㄈㄨ</rt></ruby>: anarchy.
 - <ruby>[保守](../words/保守.md)<rt>ㄅㄚㄨㄙ⼜</rt></ruby>: conservative, conservatism.

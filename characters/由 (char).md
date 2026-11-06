@@ -58,6 +58,7 @@ boundedness: 90
 - <ruby>[[因由]]<rt>ㄧㄋ·⼜ㄛ</rt></ruby> "reason; cause"
 - <ruby>[[由鼠]]<rt>⼜ㄛ·ㄙ⼄</rt></ruby> "weasel"
 - <ruby>[[由来]]<rt>⼜ㄛㄌㄚㄧ</rt></ruby> "origin"
+- <ruby>[[自由主義]]<rt>ㄐㄧㄜ⼜ㄛㄐㄨㄜㄧ</rt></ruby> "liberalism"
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"

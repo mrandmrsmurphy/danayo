@@ -150,6 +150,8 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[修道院](../words/修道院.md)<rt>ㄙㄨㄛㄉㄚㄨ⼔ㄋ</rt></ruby>: monastery; abbey; convent.
 - <ruby>[加沙](../words/加沙.md)<rt>ㄍㄚㄙㄚ</rt></ruby>: kāṣāya (Buddhist robes).
 - <ruby>[基督教](../words/基督教.md)<rt>ㄍㄧㄉㄛㄎㄍ⼄ㄨ</rt></ruby>: Christianity.
+- <ruby>[猶太教](../words/猶太教.md)<rt>⼜ㄛㄊㄚㄧㄍ⼄ㄨ</rt></ruby>: Judaism.
+- <ruby>[印度教](../words/印度教.md)<rt>ㄧㄋㄉㄛㄍ⼄ㄨ</rt></ruby>: Hinduism.
 - <ruby>[沙羅双樹](../words/沙羅双樹.md)<rt>ㄙㄚㄌㄛㄙ⺢ㄫㄙㄨ</rt></ruby>: sal tree; shala; sakhua.
 - <ruby>[涅盤](../words/涅盤.md)<rt>ㄋㄝㄊㄅㄚㄋ</rt></ruby>: nirvana.
 - <ruby>[炎帝](../words/炎帝.md)<rt>ㄝㄇㄊㄝㄧ</rt></ruby>: Yan emperor.

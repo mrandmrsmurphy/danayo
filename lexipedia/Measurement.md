@@ -154,6 +154,8 @@ Chinese, and Dan'a'yo after it, cannot place a number directly before a noun the
 These are nouns (名詞) that name units of measurement. They are not classifiers, but they belong to the closed list of unit words ([[List of 単位詞]]), which may take a numeral directly on their left without 個 — 三里, 二升 — a position otherwise reserved for classifiers. 人 and 名 are the two nouns that also serve as true classifiers (for counting people).
 
 - <ruby>[公斤](../words/公斤.md)<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby>: a kilogram.
+- <ruby>[公里](../words/公里.md)<rt>ㄍㄛㄫㄌㄧ</rt></ruby>: a kilometre.
+- <ruby>[毫升](../words/毫升.md)<rt>ㄏㄚㄨㄙㄨㄫ</rt></ruby>: a millilitre.
 - <ruby>[升](../words/升.md)<rt>ㄙㄨㄫ</rt></ruby>: a liter.
 - <ruby>[斗](../words/斗.md)<rt>ㄉㄛㄨ</rt></ruby>: a peck — the dry measure; also the Dipper.
 - <ruby>[勺](../words/勺.md)<rt>ㄐ⺢ㄎ</rt></ruby>: a traditional ladle-unit of volume — ten 勺 make one 合, a hundred make one 升; also a spoon, ladle (see [[Food]]).

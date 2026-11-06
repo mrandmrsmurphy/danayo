@@ -181,6 +181,7 @@ Law vocabulary spans the whole apparatus of legal order: the abstract concepts (
 - <ruby>[榜文](../words/榜文.md)<rt>ㄆㄚㄫㄇㄨㄋ</rt></ruby>: an official proclamation, a publicly posted notice.
 - <ruby>[越境](../words/越境.md)<rt>⼔ㄊㄍ⼶ㄫ</rt></ruby>: to cross a border, trespass beyond a boundary.
 - <ruby>[権利](../words/権利.md)<rt>ㄍ⼔ㄋㄌㄧㄜ</rt></ruby>: a right, an entitlement recognized by law — the counterpart of an obligation. It is also listed on [Directions](../lexipedia/Directions.md) as the Rosenfelder "right" entry, but its own sense is the legal one.
+- <ruby>[人権](../words/人権.md)<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby>: human rights.
 
 
 ## Advanced / Specialized (C1+)

@@ -51,6 +51,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[升]]<rt>ㄙㄨㄫ</rt></ruby> "litre, liter" (stand-in for 升)
 - <ruby>[[百升]]<rt>ㄅㄚㄎㄙㄨㄫ</rt></ruby> "hectoliter"
 - <ruby>[[晋升]]<rt>ㄐㄧㄋㄙㄨㄫ</rt></ruby> "promote, advance in rank"
+- <ruby>[[毫升]]<rt>ㄏㄚㄨㄙㄨㄫ</rt></ruby> "millilitre"
 
 ## Derived Characters
 - <ruby>[[昇]]<rt>ㄙㄨㄫ</rt></ruby> "ascend"

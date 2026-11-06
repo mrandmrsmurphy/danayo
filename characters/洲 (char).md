@@ -60,3 +60,5 @@ date-last-perfect: 2026-10-20
 - <ruby>[[満洲]]<rt>ㄇㄚㄋㄐㄨㄛ</rt></ruby> "Manchu"
 - <ruby>[[美洲]]<rt>ㄇㄧㄐㄨㄛ</rt></ruby> "Americas"
 - <ruby>[[豪洲]]<rt>ㄏㄚㄨㄐㄨㄛ</rt></ruby> "Australia"
+- <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby> "delta"
+- <ruby>[[緑洲]]<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby> "oasis"

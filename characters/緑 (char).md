@@ -55,3 +55,4 @@ boundedness: 50
 - <ruby>[[緑色]]<rt>ㄌㄛㄎㄙㄧㄎ</rt></ruby> "green"
 - <ruby>[[緑柱石]]<rt>ㄌㄛㄎㄐㄨㄙㄝㄎ</rt></ruby> "beryl"
 - <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
+- <ruby>[[緑洲]]<rt>ㄌㄛㄎㄐㄨㄛ</rt></ruby> "oasis"

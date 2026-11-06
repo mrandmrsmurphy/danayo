@@ -38,8 +38,10 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[貨車](../words/貨車.md)<rt>ㄏ⺢ㄑ⺢</rt></ruby>: a truck, freight car. Homophone of [[火車]], the Joseon rocket-cart.
 - <ruby>[戦車](../words/戦車.md)<rt>ㄐㄝㄋㄑ⺢</rt></ruby>: a tank, armoured fighting vehicle. See [War](../lexipedia/War.md) for its own citation there.
 - <ruby>[昇降机](../words/昇降机.md)<rt>ㄙㄨㄫㄍㄚㄫㄍㄧㄜ</rt></ruby>: an elevator, lift.
-- <ruby>[洗濯机](../words/洗濯机.md)<rt>ㄙㄝㄋㄉㄚㄎㄍㄧㄜ</rt></ruby>: a washing machine.
 - <ruby>[打字机](../words/打字机.md)<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>: a typewriter.
+- <ruby>[洗衣机](../words/洗衣机.md)<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby>: a washing machine.
+- <ruby>[乾燥机](../words/乾燥机.md)<rt>ㄍ⼶ㄋㄙㄚㄨㄍㄧㄜ</rt></ruby>: a dryer, drying machine.
+- <ruby>[複印机](../words/複印机.md)<rt>ㄅㄨㄎ·ㄧㄋㄍㄧㄜ</rt></ruby>: a photocopier.
 
 ### Handles & Grips
 

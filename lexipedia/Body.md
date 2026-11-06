@@ -371,6 +371,10 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[盲人](../words/盲人.md)<rt>ㄇㄚㄫㄋㄧㄋ</rt></ruby>: a blind person.
 - <ruby>[厉病](../words/厉病.md)<rt>ㄌㄝㄅ⼶ㄫ</rt></ruby>: leprosy.
 - <ruby>[疫病](../words/疫病.md)<rt>⼶ㄎㄅ⼶ㄫ</rt></ruby>: epidemic, plague.
+- <ruby>[疫苗](../words/疫苗.md)<rt>⼶ㄎㄇ⼘ㄨ</rt></ruby>: a vaccine.
+- <ruby>[抗生素](../words/抗生素.md)<rt>ㄏㄚㄫㄙㄚㄫㄙㄛ</rt></ruby>: antibiotics.
+- <ruby>[維他命](../words/維他命.md)<rt>⼶ㄧㄊㄜㄇ⼶ㄫ</rt></ruby>: a vitamin.
+- <ruby>[愛滋病](../words/愛滋病.md)<rt>ㄚㄧㄐㄜㄅ⼶ㄫ</rt></ruby>: AIDS.
 - <ruby>[猿痘](../words/猿痘.md)<rt>ㄛㄋㄉㄛㄨ</rt></ruby>: monkeypox (mpox).
 - <ruby>[病毒](../words/病毒.md)<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>: virus.
 - <ruby>[病菌](../words/病菌.md)<rt>ㄅ⼶ㄫㄍ⼜ㄋ</rt></ruby>: pathogenic bacteria.

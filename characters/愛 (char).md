@@ -68,6 +68,7 @@ boundedness: 80
 - <ruby>[[同性愛]]<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby> "homosexuality"
 - <ruby>[[愛知]]<rt>ㄚㄧㄐㄨㄧ</rt></ruby> "Aichi Prefecture"
 - <ruby>[[愛撫]]<rt>ㄚㄧㄈㄨ</rt></ruby> "caress"
+- <ruby>[[愛滋病]]<rt>ㄚㄧㄐㄜㄅ⼶ㄫ</rt></ruby> "AIDS"
 
 ## Chengyu
 - <ruby>[[愛偕者神]]<rt>ㄚㄧㄍ⼶ㄑㄚㄙㄧㄋ</rt></ruby> "Love YHWH your God"

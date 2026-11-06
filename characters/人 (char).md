@@ -124,6 +124,7 @@ boundedness: 75
 - <ruby>[[人質]]<rt>ㄋㄧㄋㄐㄧㄊ</rt></ruby> "hostage"
 - <ruby>[[老人]]<rt>ㄌㄚㄨㄋㄧㄋ</rt></ruby> "old person"
 - <ruby>[[華人]]<rt>ㄏ⺢·ㄋㄧㄋ</rt></ruby> "ethnic Chinese"
+- <ruby>[[人権]]<rt>ㄋㄧㄋㄍ⼔ㄋ</rt></ruby> "human rights"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

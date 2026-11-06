@@ -55,6 +55,7 @@ boundedness: 100
 - <ruby>[[居里金]]<rt>ㄍㄧㄌㄧㄍㄧㄇ</rt></ruby> "curium"
 - <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> "mile"
 - <ruby>[[沙里院]]<rt>ㄙㄚㄌㄧ⼔ㄋ</rt></ruby> "Sariwon"
+- <ruby>[[公里]]<rt>ㄍㄛㄫㄌㄧ</rt></ruby> "kilometre"
 
 ## Chengyu
 - <ruby>[[不遠千里]]<rt>ㄅㄛㄊ·ㄛㄋㄑㄝㄋㄌㄧ</rt></ruby> "not far is a thousand miles"

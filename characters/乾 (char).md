@@ -65,6 +65,7 @@ boundedness: 100
 - <ruby>[[乾芻]]<rt>ㄍ⼶ㄋㄑㄨ</rt></ruby> "hay; dried fodder"
 - <ruby>[[乾酪]]<rt>ㄍ⼶ㄋㄌㄚㄎ</rt></ruby> "cheese"
 - <ruby>[[乾杯]]<rt>ㄍ⼶ㄋㄅㄛㄧ</rt></ruby> "a toast"
+- <ruby>[[乾燥机]]<rt>ㄍ⼶ㄋㄙㄚㄨㄍㄧㄜ</rt></ruby> "dryer, drying machine"
 
 ## Chengyu
 - <ruby>[[乾坤一擲]]<rt>ㄍ⼶ㄋㄎㄛㄋ·ㄧㄊㄐㄝㄎ</rt></ruby> "all in, all or nothing, bet it all"

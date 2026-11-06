@@ -91,6 +91,7 @@ Cross-listed from [Movement](../lexipedia/Movement.md) and [Sin](../lexipedia/Si
 - <ruby>[流域](../words/流域.md)<rt>ㄌ⼜ㄨㄧㄎ</rt></ruby>: a river basin, watershed.
 - <ruby>[小河](../words/小河.md)<rt>ㄙㄛㄏㄚ</rt></ruby>: stream.
 - <ruby>[河川](../words/河川.md)<rt>ㄏㄚㄑ⺢ㄋ</rt></ruby>: rivers.
+- <ruby>[三角洲](../words/三角洲.md)<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>: a river delta.
 - <ruby>[小川](../words/小川.md)<rt>ㄙㄛㄑ⺢ㄋ</rt></ruby>: small stream, brook.
 - <ruby>[川口](../words/川口.md)<rt>ㄑ⺢ㄋㄎㄛㄨ</rt></ruby>: river mouth, estuary.
 - <ruby>[渓流](../words/渓流.md)<rt>ㄎㄝㄧㄌ⼜</rt></ruby>: mountain stream.

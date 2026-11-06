@@ -93,6 +93,7 @@ language: English
 - pool - *(no clean CJKV consensus — Mandarin 游泳池, Japanese loanword プール, Korean 수영장 all structured differently)*
 - tavern - *(no clean CJKV consensus)*
 - inn - [[旅館]] *(reserved — full three-way exact match: identical compound in Mandarin, Japanese りょかん (a real, culturally distinct institution), and Korean 여관. Genuinely distinct from "hotel" above. Not yet a word page.)*
+- <ruby>[酒館](../words/酒館.md)<rt>ㄐㄨㄛㄍ⺢ㄋ</rt></ruby>: a tavern, bar, pub.
 - hotel - <ruby>[飯店](../words/飯店.md)<rt>ㄅㄛㄋㄉㄝㄇ</rt></ruby> (same word as the Buildings section's own "hotel" above)
 - restaurant - <ruby>[食堂](../words/食堂.md)<rt>ㄙㄧㄎㄉㄚㄫ</rt></ruby>
 - brothel - <ruby>[妓院](../words/妓院.md)<rt>ㄍㄧ⼔ㄋ</rt></ruby>
@@ -120,6 +121,7 @@ language: English
 
 ### Commercial 
 - market - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>
+- <ruby>[旅館](../words/旅館.md)<rt>ㄌ⼄ㄍ⺢ㄋ</rt></ruby>: an inn, hotel.
 - shop - <ruby>[商店](../words/商店.md)<rt>ㄙ⼘ㄫㄉㄝㄇ</rt></ruby>
 - bank - <ruby>[銀行](../words/銀行.md)<rt>ㄧㄋㄏㄚㄫ</rt></ruby>
 - brokerage - *(no clean consensus — more an abstract business type than a building across CJKV)*
