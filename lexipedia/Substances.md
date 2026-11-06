@@ -72,6 +72,8 @@ Substances vocabulary covers raw physical matter — stone, sand, paper, glass, 
 - <ruby>[膠水](../words/膠水.md)<rt>ㄍ⼄ㄨㄙㄨ</rt></ruby>: glue, liquid adhesive — a sticky liquid used to bond surfaces; the stand-in for the bound character 膠 (glue, originally the animal-hide glue).
 - <ruby>[石灰](../words/石灰.md)<rt>ㄙㄝㄎㄏㄛㄧ</rt></ruby>: lime, quicklime — burnt limestone, also the root of the element name [[石灰素]] (calcium).
 - <ruby>[石油](../words/石油.md)<rt>ㄙㄝㄎ·⼜</rt></ruby>: petroleum, crude oil — the raw fossil substance, of which [[汽油]] below is a refined product.
+- <ruby>[麻薬](../words/麻薬.md)<rt>ㄇㄚ⼘ㄎ</rt></ruby>: drugs, narcotics.
+- <ruby>[香煙](../words/香煙.md)<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>: a cigarette.
 - <ruby>[汽油](../words/汽油.md)<rt>ㄎㄧㄜ⼜</rt></ruby>: gasoline — a manufactured liquid fuel, cited here for lack of any dedicated automotive/petrochemical domain elsewhere in this vault.
 - <ruby>[液晶](../words/液晶.md)<rt>⼶ㄎㄐㄧㄫ</rt></ruby>: liquid crystal — as in LCD displays (液晶顯示器, 액정 디스플레이); attested in Mandarin, Cantonese, Japanese and Korean, with no Vietnamese attestation found.
 - <ruby>[樟脳](../words/樟脳.md)<rt>ㄐㄚㄫㄋㄚㄨ</rt></ruby>: camphor, the aromatic crystalline substance from the camphor tree.

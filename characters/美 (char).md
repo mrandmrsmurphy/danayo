@@ -71,3 +71,4 @@ boundedness: 65
 - <ruby>[[美術]]<rt>ㄇㄧㄙㄨㄊ</rt></ruby> "fine art"
 - <ruby>[[美術館]]<rt>ㄇㄧㄙㄨㄊㄍ⺢ㄋ</rt></ruby> "art museum"
 - <ruby>[[美味]]<rt>ㄇㄧ·ㄇㄨㄧ</rt></ruby> "delicious"
+- <ruby>[[美圓]]<rt>ㄇㄧ⼔ㄋ</rt></ruby> "dollar"

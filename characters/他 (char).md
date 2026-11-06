@@ -63,4 +63,4 @@ boundedness: 50
 - <ruby>[[他国]]<rt>ㄊㄜㄍㄛㄎ</rt></ruby> "another country; other countries"
 - <ruby>[[他動詞]]<rt>ㄊㄜㄉㄛㄫㄙㄚ</rt></ruby> "transitive verb"
 - <ruby>[[汚璃他雲]]<rt>ㄛㄌㄜ·ㄊㄜㄨㄋ</rt></ruby> "Oort Cloud"
-- <ruby>[[維他命]]<rt>⼶ㄧㄊㄜㄇ⼶ㄫ</rt></ruby> "vitamin"
+- <ruby>[[維他命]]<rt>⼶ㄧ·ㄊㄜ·ㄇ⼶ㄫ</rt></ruby> "vitamin"

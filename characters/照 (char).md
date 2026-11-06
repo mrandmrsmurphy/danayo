@@ -55,3 +55,5 @@ date-last-perfect: 2026-10-15
 - <ruby>[[照耀]]<rt>ㄐㄛㄨ⼄ㄨ</rt></ruby> "to shine upon, to illuminate"
 - <ruby>[[対照]]<rt>ㄉㄛㄧㄐㄛㄨ</rt></ruby> "contrast; compare"
 - <ruby>[[照顧]]<rt>ㄐㄛㄨㄍㄛ</rt></ruby> "care for, look after"
+- <ruby>[[照相机]]<rt>ㄐㄛㄨㄙㄚㄫㄍㄧㄜ</rt></ruby> "camera"
+- <ruby>[[駕照]]<rt>ㄍㄚㄐㄛㄨ</rt></ruby> "driver's license"

@@ -103,6 +103,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Film & Broadcast
 
 - <ruby>[映画](../words/映画.md)<rt>⼶ㄫㄏ⺢ㄎ</rt></ruby>: film, movie.
+- <ruby>[動画](../words/動画.md)<rt>ㄉㄛㄫㄏ⺢ㄎ</rt></ruby>: animation, moving pictures.
 - <ruby>[映画館](../words/映画館.md)<rt>⼶ㄫㄏ⺢ㄎㄍ⺢ㄋ</rt></ruby>: cinema, movie theatre.
 - <ruby>[撮影](../words/撮影.md)<rt>ㄐ⺢ㄊ⼶ㄫ</rt></ruby>: filming, photography, to shoot.
 - <ruby>[電影](../words/電影.md)<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>: video.
@@ -239,6 +240,9 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Prints & Photography
 
 - <ruby>[写真](../words/写真.md)<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby>: a photograph.
+- <ruby>[立体声](../words/立体声.md)<rt>ㄌㄧㄆㄊㄝㄧㄙㄧㄫ</rt></ruby>: stereo, stereophonic sound.
+- <ruby>[唱片](../words/唱片.md)<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby>: a record, phonograph disc.
+- <ruby>[照相机](../words/照相机.md)<rt>ㄐㄛㄨㄙㄚㄫㄍㄧㄜ</rt></ruby>: a camera.
 - <ruby>[複写](../words/複写.md)<rt>ㄅㄨㄎㄙ⼘</rt></ruby>: a copy, photocopy, carbon copy — a duplicate made from a document or image; not [[写真]] (a photograph).
 - <ruby>[画像](../words/画像.md)<rt>ㄏ⺢ㄎㄙ⼘ㄫ</rt></ruby>: image, picture, portrait.
 - <ruby>[版画](../words/版画.md)<rt>ㄆㄚㄋㄏ⺢ㄎ</rt></ruby>: a print (picture copied from painting/photography).

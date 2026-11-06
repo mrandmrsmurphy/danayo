@@ -227,7 +227,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- event - <ruby>[[事件]]<rt>ㄐㄧㄍ⼶ㄋ</rt></ruby>
 	- reason - <ruby>[[原因]]<rt>⼔ㄋ·ㄧㄋ</rt></ruby>
 	- fact - <ruby>[[事実]]<rt>ㄐㄧㄙㄧㄊ</rt></ruby>
-	- space *(needs a word)*
+	- space - <ruby>[[空間]]<rt>ㄎㄛㄫㄍㄚㄋ</rt></ruby>
 	- time - <ruby>[[期]]<rt>ㄎㄧ</rt></ruby>
 	- map - <ruby>[[地図]]<rt>ㄉㄧㄜㄉㄛ</rt></ruby>
 - Money :
@@ -319,7 +319,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- thank - <ruby>[[感謝]]<rt>ㄍㄚㄇㄙ⼘</rt></ruby>
 	- greet - <ruby>[[迎接]]<rt>⼶ㄫㄐㄛㄆ</rt></ruby> *("greet, welcome, receive")*
 	- lie - <ruby>[[虚偽]]<rt>ㄏ⼄⼔ㄧ</rt></ruby>
-	- joke *(needs a word)*
+	- joke - <ruby>[[笑話]]<rt>ㄙ⼄ㄨㄏ⺢ㄧ</rt></ruby>
 	- call - <ruby>[[呼]]<rt>ㄏㄛ</rt></ruby>
 	- offer - <ruby>[[提供]]<rt>ㄙㄝㄍ⼄ㄫ</rt></ruby> *("offer, supply, provide"; <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> is the "offer as tribute" register)*
 	- choose - <ruby>[[選択]]<rt>ㄙ⼔ㄋㄉㄚㄎ</rt></ruby>
@@ -409,10 +409,10 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Cars :
 	- car - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby>
 	- bus - <ruby>[[公車]]<rt>ㄍㄛㄫㄑ⺢</rt></ruby> *(literally "public vehicle")*
-	- license *(needs a word)*
-	- gas station *(needs a word)*
-	- motor *(needs a word)*
-	- taxi *(needs a word)*
+	- license - <ruby>[[駕照]]<rt>ㄍㄚㄐㄛㄨ</rt></ruby> *(driver's license)*
+	- gas station - <ruby>[[加油站]]<rt>ㄍㄚ⼜ㄐㄚㄇ</rt></ruby>
+	- motor - <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby>
+	- taxi - <ruby>[[計程車]]<rt>ㄍㄝㄧㄉㄧㄫㄑ⺢</rt></ruby>
 	- truck - <ruby>[[貨車]]<rt>ㄏ⺢ㄑ⺢</rt></ruby>
 	- gasoline - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby>
 - Other :
@@ -423,26 +423,26 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- spaceship - <ruby>[[宇宙船]]<rt>ㄨㄐㄨㄛㄙ⼔ㄇ</rt></ruby>
 - Computer :
 	- computer - <ruby>[[電脳]]<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>
-	- disk *(needs a word)*
-	- chip *(needs a word)*
-	- CPU *(needs a word)*
+	- disk - <ruby>[[磁盤]]<rt>ㄐㄧㄅㄚㄋ</rt></ruby>
+	- chip - <ruby>[[晶片]]<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby>
+	- CPU - <ruby>[[中央処理器]]<rt>ㄐㄨㄫ⼘ㄫㄑㄛㄌㄧ·ㄎㄧㄜ</rt></ruby>
 - Accessories :
 	- DVD *(needs a word)*
-	- hard drive *(needs a word)*
+	- hard drive - <ruby>[[硬盤]]<rt>ㄚㄫㄅㄚㄋ</rt></ruby>
 	- keyboard - <ruby>[[鍵盤]]<rt>ㄍ⼶ㄋㄅㄚㄋ</rt></ruby>
 	- mouse - <ruby>[[滑鼠]]<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>
-	- monitor *(needs a word)*
+	- monitor - <ruby>[[顕示器]]<rt>ㄏㄝㄋㄍㄝ·ㄎㄧㄜ</rt></ruby>
 - Programs :
-	- program *(needs a word)*
+	- program - <ruby>[[程序]]<rt>ㄉㄧㄫㄙ⼄</rt></ruby>
 	- game *(needs a word — distinct from [[遊戯]] "game" in the play/avocation sense, already used above)*
 	- word processor *(needs a word)*
-	- compiler *(needs a word)*
+	- compiler - <ruby>[[編訳器]]<rt>ㄅ⼶ㄋ⼶ㄎㄎㄧㄜ</rt></ruby>
 - Internet :
 	- internet - <ruby>[[互連網]]<rt>ㄏㄛㄌ⼶ㄋㄇㄚㄫ</rt></ruby>
-	- email *(needs a word)*
+	- email - <ruby>[[電子郵件]]<rt>ㄉㄝㄋㄐㄜㄨㄛㄍ⼶ㄋ</rt></ruby>
 	- web *(needs a word)*
-	- website *(needs a word)*
-	- download *(needs a word)*
+	- website - <ruby>[[網站]]<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby>
+	- download - <ruby>[[下載]]<rt>ㄏㄚㄐㄚㄧ</rt></ruby>
 	- browser *(needs a word)*
 	- blog *(needs a word)*
 	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
@@ -460,7 +460,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Physics
 	- atom - <ruby>[[原子]]<rt>⼔ㄋㄐㄧ</rt></ruby>,
 	- molecule - <ruby>[[分子]]<rt>ㄅㄨㄋㄐㄚ</rt></ruby>,
-	- energy *(needs a word — confirmed genuinely absent, see [[Physics]])*,
+	- energy - <ruby>[[能量]]<rt>ㄋㄜㄫㄌ⼘ㄫ</rt></ruby>
 	- nuclear - <ruby>[[核]]<rt>ㄏㄚㄎ</rt></ruby> *("nucleus," used attributively)*
 	- particle - <ruby>[[粒子]]<rt>ㄌㄨㄆㄐㄜ</rt></ruby>,
 	- photon - <ruby>[[光子]]<rt>ㄍ⺢ㄫㄐㄧ</rt></ruby>,
@@ -476,24 +476,24 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Appliance :
 	- stove *(needs a word)*
 	- sink *(needs a word — [[没]] means "to sink," a verb, not the kitchen fixture)*
-	- dishwasher *(needs a word)*
+	- dishwasher - <ruby>[[洗碗机]]<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby>
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
 	- washer - <ruby>[[洗衣机]]<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby>
 	- dryer - <ruby>[[乾燥机]]<rt>ㄍ⼶ㄋㄙㄚㄨㄍㄧㄜ</rt></ruby>
 	- furnace - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby>
-	- AC *(needs a word)*
+	- AC - <ruby>[[空調]]<rt>ㄎㄛㄫㄐㄨㄛ</rt></ruby>
 - Film :
-	- camera *(needs a word)*
+	- camera - <ruby>[[照相机]]<rt>ㄐㄛㄨㄙㄚㄫㄍㄧㄜ</rt></ruby>
 	- film *(needs a word — distinct from [[電影]] "movie," the finished work rather than the physical/celluloid medium)*
 	- photo - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> *("photograph")*
 	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>
-	- animation *(needs a word)*
+	- animation - <ruby>[[動画]]<rt>ㄉㄛㄫㄏ⺢ㄎ</rt></ruby>
 	- theater - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby>
 - Recording :
-	- CD *(needs a word)*
-	- record *(needs a word — [[記載]] means "to record, write down," a verb, not a noun for a music/audio recording)*
+	- CD - <ruby>[[光盤]]<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby>
+	- record - <ruby>[[唱片]]<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby>
 	- tape *(needs a word)*
-	- stereo *(needs a word)*
+	- stereo - <ruby>[[立体声]]<rt>ㄌㄧㄆㄊㄝㄧㄙㄧㄫ</rt></ruby>
 - Weaponry :
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
 	- rifle *(needs a word)*
@@ -505,17 +505,17 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Office :
 	- copier - <ruby>[[複印机]]<rt>ㄅㄨㄎ·ㄧㄋㄍㄧㄜ</rt></ruby>
 	- typewriter - <ruby>[[打字机]]<rt>ㄉㄚㄐㄧㄍㄧㄜ</rt></ruby>
-	- scanner *(needs a word)*
+	- scanner - <ruby>[[掃描儀]]<rt>ㄙㄚㄨㄇ⼘ㄨㄜㄧ</rt></ruby>
 - Media :
 	- newspaper - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> *(in Mandarin/Cantonese 新聞 means "news," not the physical paper; see its own Notes)*
 	- magazine - <ruby>[[雑誌]]<rt>ㄐㄚㄆㄐㄧ</rt></ruby>
 	- telephone - <ruby>[[電話]]<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>
 	- television - <ruby>[[電視]]<rt>ㄉㄝㄋㄙㄧㄜ</rt></ruby>
-	- radio *(needs a word)*
+	- radio - <ruby>[[収音机]]<rt>ㄙㄨㄛㄨㄇㄍㄧㄜ</rt></ruby>
 	- comic - <ruby>[[漫画]]<rt>ㄇㄚㄋㄏ⺢ㄎ</rt></ruby> *("comic, cartoon, manga")*
 - Other :
 	- elevator - <ruby>[[昇降机]]<rt>ㄙㄨㄫㄍㄚㄫㄍㄧㄜ</rt></ruby>
-	- laser *(needs a word)*
+	- laser - <ruby>[[激光]]<rt>ㄍㄝㄎㄎ⺢ㄫ</rt></ruby>
 	- light bulb - <ruby>[[電灯]]<rt>ㄉㄝㄋㄉㄨㄫ</rt></ruby> *("lamp, electric light")*
 	- watch - <ruby>[[時計]]<rt>ㄙㄧㄍㄝㄧ</rt></ruby>
 - Measures :
@@ -538,7 +538,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- secretary - <ruby>[[書記]]<rt>ㄙ⼄ㄍㄧ</rt></ruby> *(<ruby>[[部長]]<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>, which also glosses "secretary," means "department head, chief, minister" — a leadership title, not the clerical job)*
 	- babysitter - <ruby>[[保母]]<rt>ㄅㄚㄨㄇㄛㄨ</rt></ruby> *("governess, nanny, babysitter")*
 	- bureaucrat - <ruby>[[官僚]]<rt>ㄍ⺢ㄋㄌ⼄ㄨ</rt></ruby>
-	- manager *(needs a word)*
+	- manager - <ruby>[[経理]]<rt>ㄍㄝㄫㄌㄧ</rt></ruby>
 - Education :
 	- college - <ruby>[[大学校]]<rt>ㄉㄚㄧㄏㄚㄎㄏ⼘ㄨ</rt></ruby>
 	- degree - <ruby>[[学位]]<rt>ㄏㄚㄎ·⼔ㄧ</rt></ruby> *("academic degree" — resolves the gap noted below; <ruby>[[程度]]<rt>ㄉㄧㄫㄉㄛ</rt></ruby>, which also glosses "degree," means "extent, degree" in the abstract sense, not this academic one)*
@@ -546,27 +546,27 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- Ph.D - <ruby>[[博士]]<rt>ㄅㄚㄎㄙㄚㄧ</rt></ruby> *("doctor," the degree-holder, used generically for the degree itself)*
 - Economy :
 	- economy - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>
-	- banknote - <ruby>[[紙幣]]<rt>ㄐㄝㄆㄝ</rt></ruby>
+	- banknote - <ruby>[[紙幣]]<rt>ㄐㄝ·ㄆㄝ</rt></ruby>
 	- credit card *(needs a word)*
-	- dollar *(needs a word)*
+	- dollar - <ruby>[[美圓]]<rt>ㄇㄧ⼔ㄋ</rt></ruby>
 	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
 	- expenses - <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>
 	- income - <ruby>[[収入]]<rt>ㄙㄨㄛㄋㄧㄆ</rt></ruby>
 	- inflation - <ruby>[[騰貴]]<rt>ㄉㄜㄫㄍㄨㄧ</rt></ruby> *("to soar in price, price inflation")*
-	- standard of living *(needs a word)*
+	- standard of living - <ruby>[[生活水準]]<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby>
 	- unemployed - <ruby>[[失業]]<rt>ㄙㄧㄊ·ㄝㄆ</rt></ruby> *(verb, "become unemployed, lose one's job")*
 	- union - <ruby>[[連合]]<rt>ㄌ⼶ㄋㄍㄛㄆ</rt></ruby> *("unite, ally with, alliance, union" — the general political/labor sense; distinct from <ruby>[[連邦]]<rt>ㄌ⼶ㄋㄅㄚㄫ</rt></ruby>'s federal "union of states")*
 	- welfare - <ruby>[[福祉]]<rt>ㄈㄨㄎㄑㄧ</rt></ruby>
-	- yen *(needs a word)*
+	- yen - <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>
 	- yuan *(needs a word)*
-	- won *(needs a word)*
+	- won - <ruby>[[韓圓]]<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>
 	- taxes *(needs a word — distinct from the singular [[税金]] "tax," already used above)*
 - Avocations :
 	- chess - <ruby>[[将棋]]<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>
 	- rock - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>
 	- soccer - <ruby>[[蹴球]]<rt>ㄑㄨㄎㄍ⼜</rt></ruby>
-	- cigarette *(needs a word)*
-	- drugs *(needs a word — distinct from [[毒]] "poisonous," already used on [[Plants]]/[[Physics]])*
+	- cigarette - <ruby>[[香煙]]<rt>ㄏ⼘ㄫㄝㄋ</rt></ruby>
+	- drugs - <ruby>[[麻薬]]<rt>ㄇㄚ⼘ㄎ</rt></ruby>
 - Clothing :
 	- bikini *(needs a word)*
 	- bra - <ruby>[[乳押]]<rt>ㄋㄨ·ㄚㄆ</rt></ruby>
@@ -581,7 +581,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- bacteria - <ruby>[[細菌]]<rt>ㄙㄝㄧㄍ⼜ㄋ</rt></ruby>
 	- vaccine - <ruby>[[疫苗]]<rt>⼶ㄎㄇ⼘ㄨ</rt></ruby>
 	- virus - <ruby>[[病毒]]<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>
-	- vitamin - <ruby>[[維他命]]<rt>⼶ㄧㄊㄜㄇ⼶ㄫ</rt></ruby>
+	- vitamin - <ruby>[[維他命]]<rt>⼶ㄧ·ㄊㄜ·ㄇ⼶ㄫ</rt></ruby>
 - Food :
 	- candy - <ruby>[[果子]]<rt>ㄍ⺢ㄐㄜ</rt></ruby>
 	- hamburger *(needs a word)*
@@ -590,11 +590,11 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- sushi - <ruby>[[寿司]]<rt>ㄙ⼜ㄙㄚ</rt></ruby>
 	- taco *(needs a word)*
 	- tofu - <ruby>[[豆腐]]<rt>ㄉㄛㄨㄆㄨ</rt></ruby>
-	- tomato *(needs a word)*
+	- tomato - <ruby>[[番茄]]<rt>ㄈㄚㄋㄍㄚ</rt></ruby>
 - Belief :
 	- communism - <ruby>[[共産主義]]<rt>ㄍ⼄ㄫㄙㄚㄋㄐㄨㄜㄧ</rt></ruby>
 	- socialism - <ruby>[[社会主義]]<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>
-	- fascism *(needs a word)*
+	- fascism - <ruby>[[法西斯主義]]<rt>ㄈㄚㄆㄙㄝㄧㄙㄧㄐㄨㄜㄧ</rt></ruby>
 	- republic - <ruby>[[共和国]]<rt>ㄍ⼄ㄫㄏ⺢ㄍㄛㄎ</rt></ruby>
 	- democracy - <ruby>[[民主]]<rt>ㄇㄧㄋㄐㄨ</rt></ruby>
 	- Green *(needs a word)*
@@ -633,7 +633,7 @@ _These are for place names, not the words themselves_
 	- hill - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> *(same word already used above in Nouns > Geographical)*
 	- down *(needs a word — a grassy upland landform; [[下]], which also glosses "down," is the unrelated directional adverb "below")*
 	- mountain - <ruby>[[山]]<rt>ㄙㄚㄋ</rt></ruby>
-	- range *(needs a word — [[幅度]] means abstract "range, extent," not a mountain range)*
+	- range - <ruby>[[山脈]]<rt>ㄙㄚㄋㄇㄚㄎ</rt></ruby> *("mountain range")*
 	- plateau - <ruby>[[高原]]<rt>ㄍㄚㄨ⼔ㄋ</rt></ruby>
 	- crest *(needs a word)*
 	- peak - <ruby>[[高峰]]<rt>ㄍㄚㄨㄈㄛㄫ</rt></ruby>
@@ -655,7 +655,7 @@ _These are for place names, not the words themselves_
 	- rapids - <ruby>[[急流]]<rt>ㄍㄧㄆㄌ⼜</rt></ruby> *("rapids, torrent")*
 	- portage *(needs a word)*
 	- source - <ruby>[[源泉]]<rt>⼔ㄋㄐ⼔ㄋ</rt></ruby>
-	- confluence *(needs a word)*
+	- confluence - <ruby>[[合流]]<rt>ㄍㄛㄆㄌ⼜</rt></ruby>
 	- delta - <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>
 	- bank - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby>
 	- waterfall - <ruby>[[瀑布]]<rt>ㄅㄛㄎㄅㄛ</rt></ruby>
@@ -698,10 +698,10 @@ _These are for place names, not the words themselves_
 ### Human
 - Settlements :
 	- city - <ruby>[[都市]]<rt>ㄉㄛㄙㄧ</rt></ruby> *(stand-in word for the bound character 市)*
-	- town *(needs a word — distinct in scale from [[都市]] "city" and [[里]] "village")*
+	- town - <ruby>[[市鎮]]<rt>ㄙㄧㄑㄧㄋ</rt></ruby>
 	- village - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby>
 	- colony - <ruby>[[植民地]]<rt>ㄙㄧㄎㄇㄧㄋㄉㄧㄜ</rt></ruby>
-	- port *(needs a word)*
+	- port - <ruby>[[港湾]]<rt>ㄏㄛㄫ⺢ㄇ</rt></ruby> *("harbor, port")*
 	- market - <ruby>[[市場]]<rt>ㄙㄧㄐㄚㄫ</rt></ruby> *(stand-in word for the bound character 場)*
 	- capital - <ruby>[[京城]]<rt>ㄍ⼶ㄫㄙㄧㄫ</rt></ruby> *(stand-in word for the bound character 京)*
 - Military :

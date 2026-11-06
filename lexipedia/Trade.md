@@ -50,6 +50,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[市場](../words/市場.md)<rt>ㄙㄧㄐㄚㄫ</rt></ruby>: a market. See [Buildings](../lexipedia/Buildings.md) for its own citation there.
 - <ruby>[貿易](../words/貿易.md)<rt>ㄇㄛㄨ⼶ㄎ</rt></ruby>: trade — the international sense.
 - <ruby>[経済](../words/経済.md)<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>: the economy.
+- <ruby>[生活水準](../words/生活水準.md)<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby>: standard of living.
 - <ruby>[交易](../words/交易.md)<rt>ㄍ⼄ㄨ⼶ㄎ</rt></ruby>: trade — the plain transactional sense.
 - <ruby>[交換](../words/交換.md)<rt>ㄍ⼄ㄨㄏ⺢ㄇ</rt></ruby>: exchange, swap — the general give-and-take sense (交換留学, "exchange study"), broader than [[交易]]'s commercial trade specifically.
 - <ruby>[換](../words/換.md)<rt>ㄏ⺢ㄇ</rt></ruby>: to exchange, interchange.
@@ -112,7 +113,10 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 - <ruby>[通貨](../words/通貨.md)<rt>ㄊㄛㄫㄏ⺢</rt></ruby>: money, currency — an undocumented near-duplicate of [[貨幣]].
 - <ruby>[幣](../words/幣.md)<rt>ㄆㄝ</rt></ruby>: cash — the bound root behind [[貨幣]] above.
 - <ruby>[欧圓](../words/欧圓.md)<rt>ㄛㄨ⼔ㄋ</rt></ruby>: the Euro — a specific named currency.
-- <ruby>[紙幣](../words/紙幣.md)<rt>ㄐㄝㄆㄝ</rt></ruby>: a banknote.
+- <ruby>[韓圓](../words/韓圓.md)<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>: the won, Korean currency.
+- <ruby>[美圓](../words/美圓.md)<rt>ㄇㄧ⼔ㄋ</rt></ruby>: the dollar, American currency.
+- <ruby>[日圓](../words/日圓.md)<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>: the yen, Japanese currency.
+- <ruby>[紙幣](../words/紙幣.md)<rt>ㄐㄝ·ㄆㄝ</rt></ruby>: a banknote.
 
 ### Work
 

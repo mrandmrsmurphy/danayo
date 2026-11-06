@@ -65,6 +65,7 @@ boundedness: 70
 - <ruby>[[日番]]<rt>ㄋㄧㄊㄈㄚㄋ</rt></ruby> "day shift"
 - <ruby>[[勤番]]<rt>ㄍㄧㄋㄈㄚㄋ</rt></ruby> "serving a duty shift"
 - <ruby>[[番次]]<rt>ㄈㄚㄋㄑㄧㄜ</rt></ruby> "order of duty"
+- <ruby>[[番茄]]<rt>ㄈㄚㄋㄍㄚ</rt></ruby> "tomato"
 
 ## Derived Characters
 - <ruby>[[翻 (char)|翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip"

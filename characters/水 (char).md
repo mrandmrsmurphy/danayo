@@ -91,6 +91,7 @@ boundedness: 80
 - <ruby>[[水彩]]<rt>ㄙㄨㄑㄚㄧ</rt></ruby> "watercolour"
 - <ruby>[[水墨画]]<rt>ㄙㄨ·ㄇㄨㄎㄏ⺢ㄎ</rt></ruby> "ink wash painting"
 - <ruby>[[水蒸気]]<rt>ㄙㄨㄐㄧㄫㄎㄧㄜ</rt></ruby> "steam"
+- <ruby>[[生活水準]]<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby> "standard of living"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

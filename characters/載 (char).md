@@ -56,3 +56,4 @@ boundedness: 100
 - <ruby>[[記載]]<rt>ㄍㄧㄐㄚㄧ</rt></ruby> "record, write down"
 - <ruby>[[転載]]<rt>ㄐ⼔ㄋㄐㄚㄧ</rt></ruby> "reprint, reproduce, forward"
 - <ruby>[[搭載]]<rt>ㄊㄚㄆㄐㄚㄧ</rt></ruby> "transport"
+- <ruby>[[下載]]<rt>ㄏㄚㄐㄚㄧ</rt></ruby> "download"

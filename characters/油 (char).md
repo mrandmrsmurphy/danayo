@@ -55,3 +55,4 @@ boundedness: 90
 - <ruby>[[汽油]]<rt>ㄎㄧㄜ⼜</rt></ruby> "gasoline"
 - <ruby>[[精油]]<rt>ㄐㄝㄫ⼜</rt></ruby> "oil (all kinds)"
 - <ruby>[[油画]]<rt>⼜ㄏ⺢ㄎ</rt></ruby> "oil painting"
+- <ruby>[[加油站]]<rt>ㄍㄚ⼜ㄐㄚㄇ</rt></ruby> "gas station"

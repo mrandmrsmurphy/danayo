@@ -48,6 +48,7 @@ Work vocabulary in Dan'a'yo spans the whole life cycle of labor: making and buil
 - <ruby>[漁民](../words/漁民.md)<rt>⼄·ㄇㄧㄋ</rt></ruby>: fisherfolk, fishing people.
 - <ruby>[記者](../words/記者.md)<rt>ㄍㄧㄑㄚ</rt></ruby>: reporter, journalist.
 - <ruby>[書記](../words/書記.md)<rt>ㄙ⼄ㄍㄧ</rt></ruby>: secretary.
+- <ruby>[経理](../words/経理.md)<rt>ㄍㄝㄫㄌㄧ</rt></ruby>: a manager.
 - <ruby>[会社員](../words/会社員.md)<rt>ㄏ⼔ㄙ⼘ㄨㄋ</rt></ruby>: office worker.
 - <ruby>[人員](../words/人員.md)<rt>ㄋㄧㄋ·ㄨㄋ</rt></ruby>: staff, personnel.
 - <ruby>[雇員](../words/雇員.md)<rt>ㄎㄛㄨㄋ</rt></ruby>: employee.

@@ -76,6 +76,7 @@ boundedness: 100
 - <ruby>[[上下]]<rt>ㄙ⼘ㄫㄏㄚ</rt></ruby> "up and down"
 - <ruby>[[下限]]<rt>ㄏㄚㄏㄚㄋ</rt></ruby> "lower limit"
 - <ruby>[[以下]]<rt>ㄧㄏㄚ</rt></ruby> "below"
+- <ruby>[[下載]]<rt>ㄏㄚㄐㄚㄧ</rt></ruby> "download"
 
 ## Chengyu
 - <ruby>[[李下瓜田]]<rt>ㄌㄧㄏㄚㄍ⺢ㄉㄝㄋ</rt></ruby> "avoid even the appearance of impropriety"

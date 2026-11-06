@@ -60,6 +60,9 @@ date-last-perfect: 2026-10-20
 - <ruby>[[胎盤]]<rt>ㄊㄚㄧㄅㄚㄋ</rt></ruby> "placenta"
 - <ruby>[[基盤]]<rt>ㄍㄧㄅㄚㄋ</rt></ruby> "foundation"
 - <ruby>[[骨盤]]<rt>ㄍㄛㄊㄅㄚㄋ</rt></ruby> "pelvis"
+- <ruby>[[硬盤]]<rt>ㄚㄫㄅㄚㄋ</rt></ruby> "hard drive"
+- <ruby>[[磁盤]]<rt>ㄐㄧㄅㄚㄋ</rt></ruby> "disk"
+- <ruby>[[光盤]]<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby> "CD, optical disc"
 
 ## Chengyu
 - <ruby>[[涅盤寂静]]<rt>ㄋㄝㄊㄅㄚㄋㄐㄝㄎㄐㄝㄫ</rt></ruby> "nirvana is peace"

@@ -102,6 +102,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[申告](../words/申告.md)<rt>ㄙㄝㄋㄍㄚㄨ</rt></ruby>: to report, a declaration — the bureaucratic/legal register (e.g. a tax declaration).
 - <ruby>[放送局](../words/放送局.md)<rt>ㄈㄚㄫㄙㄛㄫㄍ⼄ㄎ</rt></ruby>: a broadcasting station or company — the institution that transmits radio or television to a public audience.
 - <ruby>[放送](../words/放送.md)<rt>ㄈㄚㄫㄙㄛㄫ</rt></ruby>: broadcast.
+- <ruby>[収音机](../words/収音机.md)<rt>ㄙㄨㄛㄨㄇㄍㄧㄜ</rt></ruby>: a radio receiver.
 
 ### Discussing & Arguing
 
@@ -197,6 +198,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[逸話](../words/逸話.md)<rt>ㄧㄊㄏ⺢ㄧ</rt></ruby>: anecdote.
 - <ruby>[阿](../words/阿.md)<rt>ㄚ</rt></ruby>: ah.
 - <ruby>[電話](../words/電話.md)<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>: telephone.
+- <ruby>[電子郵件](../words/電子郵件.md)<rt>ㄉㄝㄋㄐㄜㄨㄛㄍ⼶ㄋ</rt></ruby>: email.
 - <ruby>[露斯亜語](../words/露斯亜語.md)<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby>: Russian language.
 - <ruby>[露語](../words/露語.md)<rt>ㄌㄛ⼄</rt></ruby>: Russian language.
 - <ruby>[音素](../words/音素.md)<rt>ㄨㄇㄙㄛ</rt></ruby>: phoneme.

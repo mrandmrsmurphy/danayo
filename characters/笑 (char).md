@@ -59,6 +59,7 @@ boundedness: 80
 - <ruby>[[冷笑]]<rt>ㄌㄚㄫㄙ⼄ㄨ</rt></ruby> "to sneer, to laugh coldly"
 - <ruby>[[微笑]]<rt>ㄇㄨㄧㄙ⼄ㄨ</rt></ruby> "smile"
 - <ruby>[[笑顔]]<rt>ㄙ⼄ㄨㄚㄋ</rt></ruby> "smiling face"
+- <ruby>[[笑話]]<rt>ㄙ⼄ㄨㄏ⺢ㄧ</rt></ruby> "joke"
 
 ## Chengyu
 - <ruby>[[呵呵大笑]]<rt>ㄏㄚㄏㄚㄉㄚㄧㄙ⼄ㄨ</rt></ruby> "to guffaw, to laugh heartily and loudly"

@@ -83,6 +83,7 @@ boundedness: 60
 - <ruby>[[恭喜発財]]<rt>ㄍ⼄ㄫㄏㄧㄈㄚㄊㄐㄚㄧ</rt></ruby> "happy new year"
 - <ruby>[[発揮]]<rt>ㄈㄚㄊㄏㄨㄧ</rt></ruby> "bring into play; exert"
 - <ruby>[[発表]]<rt>ㄈㄚㄊㄅ⼘ㄨ</rt></ruby> "announce; publish"
+- <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby> "motor, engine"
 
 ## Chengyu
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"

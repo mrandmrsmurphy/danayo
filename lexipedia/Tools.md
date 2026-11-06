@@ -81,6 +81,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[机械](../words/机械.md)<rt>ㄍㄧㄜㄏ⼶</rt></ruby>: a machine — a near-synonym of [[机器]].
 - <ruby>[机関](../words/机関.md)<rt>ㄍㄧㄜㄍ⺢ㄇ</rt></ruby>: a machine, organ, organization — an institutional/mechanism register, distinct from the plain physical machine. See [Government](../lexipedia/Government.md) for its own citation there.
 - <ruby>[電脳](../words/電脳.md)<rt>ㄉㄝㄋㄋㄚㄨ</rt></ruby>: a computer.
+- <ruby>[中央処理器](../words/中央処理器.md)<rt>ㄐㄨㄫ⼘ㄫㄑㄛㄌㄧ·ㄎㄧㄜ</rt></ruby>: a CPU, the central processor of a computer.
 - <ruby>[半導体](../words/半導体.md)<rt>ㄅㄚㄋㄉㄚㄨㄊㄝㄧ</rt></ruby>: a semiconductor — "half-conducting body."
 - <ruby>[充電](../words/充電.md)<rt>ㄑㄨㄫㄉㄝㄋ</rt></ruby>: to recharge, to charge a battery — to fill (充) a battery or device with electricity (電); a modern compound of old characters, transparent in every language of the sphere.
 - <ruby>[主頁](../words/主頁.md)<rt>ㄐㄨㄏㄝㄊ</rt></ruby>: a website's main page, homepage.
@@ -141,6 +142,22 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[厉](../words/厉.md)<rt>ㄌㄝ</rt></ruby>: whetstone.
 - <ruby>[架](../words/架.md)<rt>ㄍㄚ</rt></ruby>: rack.
 - <ruby>[滑鼠](../words/滑鼠.md)<rt>ㄏ⺢ㄊㄙ⼄</rt></ruby>: mouse (computer).
+- <ruby>[網站](../words/網站.md)<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby>: a website.
+- <ruby>[顕示器](../words/顕示器.md)<rt>ㄏㄝㄋㄍㄝ·ㄎㄧㄜ</rt></ruby>: a monitor, display screen.
+- <ruby>[掃描儀](../words/掃描儀.md)<rt>ㄙㄚㄨㄇ⼘ㄨㄜㄧ</rt></ruby>: a scanner.
+- <ruby>[発動机](../words/発動机.md)<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby>: a motor, engine.
+- <ruby>[駕照](../words/駕照.md)<rt>ㄍㄚㄐㄛㄨ</rt></ruby>: a driver's license.
+- <ruby>[加油站](../words/加油站.md)<rt>ㄍㄚ⼜ㄐㄚㄇ</rt></ruby>: a gas station.
+- <ruby>[計程車](../words/計程車.md)<rt>ㄍㄝㄧㄉㄧㄫㄑ⺢</rt></ruby>: a taxi.
+- <ruby>[洗碗机](../words/洗碗机.md)<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby>: a dishwasher.
+- <ruby>[空調](../words/空調.md)<rt>ㄎㄛㄫㄐㄨㄛ</rt></ruby>: air conditioning.
+- <ruby>[晶片](../words/晶片.md)<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby>: a chip, microchip.
+- <ruby>[光盤](../words/光盤.md)<rt>ㄎ⺢ㄫㄅㄚㄋ</rt></ruby>: a CD, optical disc.
+- <ruby>[磁盤](../words/磁盤.md)<rt>ㄐㄧㄅㄚㄋ</rt></ruby>: a disk, magnetic disk.
+- <ruby>[硬盤](../words/硬盤.md)<rt>ㄚㄫㄅㄚㄋ</rt></ruby>: a hard drive, hard disk.
+- <ruby>[編訳器](../words/編訳器.md)<rt>ㄅ⼶ㄋ⼶ㄎㄎㄧㄜ</rt></ruby>: a compiler, program that translates source code.
+- <ruby>[程序](../words/程序.md)<rt>ㄉㄧㄫㄙ⼄</rt></ruby>: a program; a procedure, sequence of steps.
+- <ruby>[下載](../words/下載.md)<rt>ㄏㄚㄐㄚㄧ</rt></ruby>: to download.
 - <ruby>[無線](../words/無線.md)<rt>ㄇㄜㄙ⼶ㄋ</rt></ruby>: wireless.
 - <ruby>[穿孔机](../words/穿孔机.md)<rt>ㄑㄝㄋㄎㄛㄫㄍㄧㄜ</rt></ruby>: puncher; perforator; boring machine.
 - <ruby>[竿竹](../words/竿竹.md)<rt>ㄍㄚㄋㄐㄨㄎ</rt></ruby>: bamboo pole.

@@ -57,6 +57,7 @@ Subatomic particles — this vocabulary is shared directly with [[Periodic Table
 - <ruby>[中性子](../words/中性子.md)<rt>ㄐㄨㄫㄙㄧㄫㄐㄜ</rt></ruby>: a neutron.
 - <ruby>[電子](../words/電子.md)<rt>ㄉㄝㄋㄐㄜ</rt></ruby>: an electron.
 - <ruby>[光子](../words/光子.md)<rt>ㄎ⺢ㄫㄐㄜ</rt></ruby>: a photon.
+- <ruby>[激光](../words/激光.md)<rt>ㄍㄝㄎㄎ⺢ㄫ</rt></ruby>: a laser.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 
@@ -65,6 +66,7 @@ Subatomic particles — this vocabulary is shared directly with [[Periodic Table
 - <ruby>[陰極](../words/陰極.md)<rt>ㄧㄇㄍㄧㄎ</rt></ruby>: cathode.
 - <ruby>[陽極](../words/陽極.md)<rt>⼘ㄫㄍㄧㄎ</rt></ruby>: anode.
 - <ruby>[電気](../words/電気.md)<rt>ㄉㄝㄋㄎㄧㄜ</rt></ruby>: electricity; electrify.
+- <ruby>[能量](../words/能量.md)<rt>ㄋㄜㄫㄌ⼘ㄫ</rt></ruby>: energy, the capacity to do work.
 - <ruby>[音波](../words/音波.md)<rt>ㄨㄇㄅㄚ</rt></ruby>: soundwave.
 
 ## Semantic Range Notes

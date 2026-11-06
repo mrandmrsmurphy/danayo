@@ -81,3 +81,5 @@ boundedness: 90
 - <ruby>[[動脈]]<rt>ㄉㄛㄫㄇㄚㄎ</rt></ruby> "artery"
 - <ruby>[[動揺]]<rt>ㄉㄛㄫ⼄ㄨ</rt></ruby> "agitation"
 - <ruby>[[助動詞]]<rt>ㄐㄛㄉㄛㄫㄙㄚ</rt></ruby> "auxiliary verb"
+- <ruby>[[発動机]]<rt>ㄈㄚㄊㄉㄛㄫㄍㄧㄜ</rt></ruby> "motor, engine"
+- <ruby>[[動画]]<rt>ㄉㄛㄫㄏ⺢ㄎ</rt></ruby> "animation"

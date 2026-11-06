@@ -60,6 +60,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[網球場]]<rt>ㄇㄚㄫㄍ⼜ㄐㄚㄫ</rt></ruby> "tennis court"
 - <ruby>[[網語体]]<rt>ㄇㄚㄫ⼄·ㄊㄝㄧ</rt></ruby> "internet-language register"
 - <ruby>[[網語]]<rt>ㄇㄚㄫ⼄</rt></ruby> "online speak"
+- <ruby>[[網站]]<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby> "website"
 
 ## Chengyu
 - <ruby>[[一網打尽]]<rt>ㄧㄊㄇㄚㄫㄉㄚㄐㄧㄋ</rt></ruby> "roundup, wholesale arrest; rounding up the herd with one throw"

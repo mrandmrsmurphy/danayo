@@ -321,6 +321,7 @@ The egg as an animal product, housed here with the other animal body parts.
 ### Mouth, Breath & Face Actions
 
 - <ruby>[笑](../words/笑.md)<rt>ㄙ⼄ㄨ</rt></ruby>: to laugh, smile.
+- <ruby>[笑話](../words/笑話.md)<rt>ㄙ⼄ㄨㄏ⺢ㄧ</rt></ruby>: a joke.
 - <ruby>[哄笑](../words/哄笑.md)<rt>ㄏㄛㄫㄙ⼄ㄨ</rt></ruby>: to burst out laughing, roar with laughter.
 - <ruby>[嘆](../words/嘆.md)<rt>ㄊㄚㄋ</rt></ruby>, <ruby>[感嘆](../words/感嘆.md)<rt>ㄍㄚㄇㄊㄚㄋ</rt></ruby> (sigh, exclaim), <ruby>[慨](../words/慨.md)<rt>ㄎㄚㄧ</rt></ruby>: to sigh.
 - <ruby>[欠](../words/欠.md)<rt>ㄎ⼘ㄇ</rt></ruby>, <ruby>[欠伸](../words/欠伸.md)<rt>ㄎ⼘ㄇㄙㄧㄋ</rt></ruby> (yawn and stretch): to yawn.
@@ -373,7 +374,7 @@ The egg as an animal product, housed here with the other animal body parts.
 - <ruby>[疫病](../words/疫病.md)<rt>⼶ㄎㄅ⼶ㄫ</rt></ruby>: epidemic, plague.
 - <ruby>[疫苗](../words/疫苗.md)<rt>⼶ㄎㄇ⼘ㄨ</rt></ruby>: a vaccine.
 - <ruby>[抗生素](../words/抗生素.md)<rt>ㄏㄚㄫㄙㄚㄫㄙㄛ</rt></ruby>: antibiotics.
-- <ruby>[維他命](../words/維他命.md)<rt>⼶ㄧㄊㄜㄇ⼶ㄫ</rt></ruby>: a vitamin.
+- <ruby>[維他命](../words/維他命.md)<rt>⼶ㄧ·ㄊㄜ·ㄇ⼶ㄫ</rt></ruby>: a vitamin.
 - <ruby>[愛滋病](../words/愛滋病.md)<rt>ㄚㄧㄐㄜㄅ⼶ㄫ</rt></ruby>: AIDS.
 - <ruby>[猿痘](../words/猿痘.md)<rt>ㄛㄋㄉㄛㄨ</rt></ruby>: monkeypox (mpox).
 - <ruby>[病毒](../words/病毒.md)<rt>ㄅ⼶ㄫㄉㄛㄎ</rt></ruby>: virus.

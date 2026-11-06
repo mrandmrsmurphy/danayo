@@ -57,6 +57,7 @@ boundedness: 90
 - <ruby>[[生活]]<rt>ㄙㄚㄫㄏ⺢ㄊ</rt></ruby> "to live; life; lifestyle"
 - <ruby>[[復活節]]<rt>ㄅㄨㄎㄏ⺢ㄊㄐㄝㄊ</rt></ruby> "Easter"
 - <ruby>[[活用]]<rt>ㄏ⺢ㄊ⼄ㄫ</rt></ruby> "inflection"
+- <ruby>[[生活水準]]<rt>ㄙㄚㄫㄏ⺢ㄊㄙㄨㄐㄨㄋ</rt></ruby> "standard of living"
 
 ## Chengyu
 - <ruby>[[道活墨殺]]<rt>ㄉㄚㄨㄏ⺢ㄊㄇㄨㄎㄙㄚㄊ</rt></ruby> "The Spirit gives life, but the Letter Kills"

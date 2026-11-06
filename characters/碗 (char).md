@@ -51,3 +51,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[碗]]<rt>⺢ㄋ</rt></ruby> "bowl, dish" (stand-in for 碗)
+- <ruby>[[洗碗机]]<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby> "dishwasher"

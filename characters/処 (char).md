@@ -67,3 +67,4 @@ boundedness: 65
 - <ruby>[[毎処]]<rt>ㄇㄛㄧㄑㄛ</rt></ruby> "at each place, per location"
 - <ruby>[[皆処]]<rt>ㄍ⼶ㄑㄛ</rt></ruby> "everywhere, at all places"
 - <ruby>[[近処]]<rt>ㄍㄧㄋㄑㄛ</rt></ruby> "vicinity, neighborhood"
+- <ruby>[[中央処理器]]<rt>ㄐㄨㄫ⼘ㄫㄑㄛㄌㄧ·ㄎㄧㄜ</rt></ruby> "CPU"

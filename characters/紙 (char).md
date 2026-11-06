@@ -54,4 +54,4 @@ boundedness: 75
 - <ruby>[[紙]]<rt>ㄐㄝ</rt></ruby> "paper" (stand-in for 紙)
 - <ruby>[[紙鳶]]<rt>ㄐㄝ⼶ㄋ</rt></ruby> "kite (paper)"
 - <ruby>[[剪紙]]<rt>ㄐㄝㄋㄐㄝ</rt></ruby> "paper cutting"
-- <ruby>[[紙幣]]<rt>ㄐㄝㄆㄝ</rt></ruby> "banknote"
+- <ruby>[[紙幣]]<rt>ㄐㄝ·ㄆㄝ</rt></ruby> "banknote"

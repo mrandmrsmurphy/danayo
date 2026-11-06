@@ -51,6 +51,8 @@ boundedness: 100
 ## Words
 - <ruby>[[片]]<rt>ㄆㄝㄋ</rt></ruby> "slice; flake" (stand-in for 片)
 - <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby> "katakana"
+- <ruby>[[晶片]]<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby> "chip"
+- <ruby>[[唱片]]<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby> "record"
 
 ## Derived Characters
 - <ruby>[[版]]<rt>ㄆㄚㄋ</rt></ruby> "edition; version"

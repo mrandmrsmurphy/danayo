@@ -65,6 +65,7 @@ Food vocabulary spans meals, dishes, ingredients, cooking techniques and utensil
 - <ruby>[烏龍麺](../words/烏龍麺.md)<rt>ㄛㄌ⼄ㄫㄇㄝㄋ</rt></ruby>: udon noodles.
 - <ruby>[雲呑](../words/雲呑.md)<rt>ㄨㄋㄊㄚㄋ</rt></ruby>: wonton.
 - <ruby>[豆腐](../words/豆腐.md)<rt>ㄉㄛㄨㄆㄨ</rt></ruby>: tofu.
+- <ruby>[番茄](../words/番茄.md)<rt>ㄈㄚㄋㄍㄚ</rt></ruby>: a tomato.
 - <ruby>[井物](../words/井物.md)<rt>ㄐㄧㄫㄇㄨㄊ</rt></ruby>: a rice-bowl dish, the general category. See Semantic Range Notes.
 
 ### Rice Bowl Dishes

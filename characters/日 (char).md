@@ -55,6 +55,7 @@ boundedness: 60
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 ## Words
 - <ruby>[[日光]]<rt>ㄋㄧㄊㄎ⺢ㄫ</rt></ruby> "sunlight"
+- <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby> "yen"
 ### Sun
 - <ruby>[[日]]<rt>ㄋㄧㄊ</rt></ruby> "day; sun" (stand-in for 日)
 - <ruby>[[至日]]<rt>ㄐㄧㄜㄋㄧㄊ</rt></ruby> "solstice"

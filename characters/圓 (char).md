@@ -67,6 +67,9 @@ boundedness: 90
 - <ruby>[[圓融]]<rt>⼔ㄋ·⼜ㄫ</rt></ruby> "tact, tactful, diplomatically harmonious"
 - <ruby>[[圓滑]]<rt>⼔ㄋㄏ⺢ㄊ</rt></ruby> "slick, glib, smooth (of a person)"
 - <ruby>[[圓頭捺]]<rt>⼔ㄋㄊㄛㄨ·ㄋㄚㄊ</rt></ruby> "round-headed right-falling stroke (calligraphy stroke)"
+- <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby> "yen"
+- <ruby>[[美圓]]<rt>ㄇㄧ⼔ㄋ</rt></ruby> "dollar"
+- <ruby>[[韓圓]]<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby> "won"
 
 ## Chengyu
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"

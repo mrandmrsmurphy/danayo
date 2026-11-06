@@ -58,3 +58,4 @@ boundedness: 65
 - <ruby>[[洗礼]]<rt>ㄙㄝㄋㄌㄝㄧ</rt></ruby> "baptism"
 - <ruby>[[洗車]]<rt>ㄙㄝㄋㄑ⺢</rt></ruby> "wash a car"
 - <ruby>[[洗衣机]]<rt>ㄙㄝㄋ·ㄧㄜㄍㄧㄜ</rt></ruby> "washing machine"
+- <ruby>[[洗碗机]]<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby> "dishwasher"

@@ -63,3 +63,4 @@ boundedness: 90
 - <ruby>[[童話]]<rt>ㄉㄛㄫㄏ⺢ㄧ</rt></ruby> "children's tale"
 - <ruby>[[寓話]]<rt>ㄨㄏ⺢ㄧ</rt></ruby> "fable"
 - <ruby>[[民話]]<rt>ㄇㄧㄋㄏ⺢ㄧ</rt></ruby> "folktale"
+- <ruby>[[笑話]]<rt>ㄙ⼄ㄨㄏ⺢ㄧ</rt></ruby> "joke"

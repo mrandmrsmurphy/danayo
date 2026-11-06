@@ -72,6 +72,8 @@ boundedness: 100
 - <ruby>[[架空]]<rt>ㄍㄚ·ㄎㄛㄫ</rt></ruby> "imaginary"
 - <ruby>[[星空]]<rt>ㄙㄝㄫㄎㄛㄫ</rt></ruby> "starry sky"
 - <ruby>[[空腹]]<rt>ㄎㄛㄫㄈㄨㄎ</rt></ruby> "hunger"
+- <ruby>[[空調]]<rt>ㄎㄛㄫㄐㄨㄛ</rt></ruby> "air conditioning"
+- <ruby>[[空間]]<rt>ㄎㄛㄫㄍㄚㄋ</rt></ruby> "space"
 
 ## Chengyu
 - <ruby>[[空前絶後]]<rt>ㄎㄛㄫㄐㄝㄋㄐ⼔ㄊㄏㄨㄛ</rt></ruby> "unprecedented and unrepeatable; without parallel before or after"

@@ -160,6 +160,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[社会主義](../words/社会主義.md)<rt>ㄙ⼘ㄏ⼔ㄐㄨㄜㄧ</rt></ruby>: socialism.
 - <ruby>[共産主義](../words/共産主義.md)<rt>ㄍ⼄ㄫㄙㄚㄋㄐㄨㄜㄧ</rt></ruby>: communism.
 - <ruby>[自由主義](../words/自由主義.md)<rt>ㄐㄧㄜ⼜ㄛㄐㄨㄜㄧ</rt></ruby>: liberalism.
+- <ruby>[法西斯主義](../words/法西斯主義.md)<rt>ㄈㄚㄆㄙㄝㄧㄙㄧㄐㄨㄜㄧ</rt></ruby>: fascism.
 - <ruby>[独裁者](../words/独裁者.md)<rt>ㄉㄛㄎㄑㄚㄧㄑㄚ</rt></ruby>: a dictator, autocrat.
 - <ruby>[立憲](../words/立憲.md)<rt>ㄌㄧㄆㄏㄝㄋ</rt></ruby>: constitutional governance; constitutionalism.
 - <ruby>[無政府](../words/無政府.md)<rt>ㄇㄜㄐㄧㄫㄈㄨ</rt></ruby>: anarchy.

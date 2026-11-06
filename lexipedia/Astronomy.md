@@ -43,6 +43,7 @@ Astronomy vocabulary here covers the sky as East Asia has known it, together wit
 - <ruby>[天文](../words/天文.md)<rt>ㄊㄝㄋㄇㄨㄋ</rt></ruby>: the whole culture and practice of looking up at the stars.
 - <ruby>[天文学](../words/天文学.md)<rt>ㄊㄝㄋㄇㄨㄋㄏㄚㄎ</rt></ruby>: astronomy, the formal modern science. See Semantic Range Notes.
 - <ruby>[宇宙](../words/宇宙.md)<rt>ㄨㄐㄨㄛ</rt></ruby>: universe, cosmos, space-time — the underlying metaphor is a house, with "eaves" (宇) and "roof beams" (宙): we are looking up at the underside of a roof.
+- <ruby>[空間](../words/空間.md)<rt>ㄎㄛㄫㄍㄚㄋ</rt></ruby>: space, an empty extent or room.
 - <ruby>[宙](../words/宙.md)<rt>ㄐㄨㄛ</rt></ruby>: eternity, infinite time — the classical "time" half of [[宇宙]] above (宇 being infinite space); survives almost exclusively bound inside that compound in Mandarin, Cantonese, Korean, and Vietnamese.
 
 ## Intermediate (B1–B2)
