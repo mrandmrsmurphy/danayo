@@ -6,16 +6,18 @@ related_domains:
   - "[[Existence]]"
   - "[[Astronomy]]"
   - "[[Art]]"
-status: partial
+status: complete
+date-last-perfect: 2026-11-06
 ---
 
 # Religion
 
-Religion vocabulary covers general cross-cultural religious concepts — gods, souls, worship, fate, magic, and ritual — spanning Buddhist, Daoist, and folk-religious registers across the Sinosphere. This vault also keeps a separate, denser page, [[基督敎]], for Christian theological and ecclesiastical vocabulary specifically (creeds, clergy ranks, scripture book-names); several words below are shared between the two pages, cited here for their general-religion sense and there for their Christian-specific one. Several very basic terms — hell, angel, prophecy, a generic (non-denominational) word for "priest," "temple," or "cleric" — have no dedicated Dan'a'yo word yet, flagged inline below rather than skipped silently.
+Religion vocabulary covers general cross-cultural religious concepts — gods, souls, worship, fate, magic, and ritual — spanning Buddhist, Daoist, and folk-religious registers across the Sinosphere. This vault also keeps a separate, denser page, [[基督敎]], for Christian theological and ecclesiastical vocabulary specifically (creeds, clergy ranks, scripture book-names); several words below are shared between the two pages, cited here for their general-religion sense and there for their Christian-specific one. Hell, angel, prophecy, priest, hermit, pilgrimage, offering, blasphemy, atheism, magic and spiritual discipline are all covered, with the few English words Dan'a'yo says by strategy (damn, cleric, temple) explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
 - <ruby>[宗教](../words/宗教.md)<rt>ㄐㄛㄫㄍ⼄ㄨ</rt></ruby>: religion.
+- <ruby>[無神論](../words/無神論.md)<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby>: atheism — the doctrine that there is no god; an atheist is 無神論－者.
 - <ruby>[回教](../words/回教.md)<rt>ㄏㄛㄧㄍ⼄ㄨ</rt></ruby>: Islam.
 - <ruby>[回教徒](../words/回教徒.md)<rt>ㄏㄛㄧㄍ⼄ㄨㄉㄛ</rt></ruby>: a Muslim.
 - <ruby>[神](../words/神.md)<rt>ㄙㄧㄋ</rt></ruby>: a god, deity; spirit.
@@ -28,13 +30,14 @@ Religion vocabulary covers general cross-cultural religious concepts — gods, s
 - <ruby>[悪魔](../words/悪魔.md)<rt>ㄚㄎㄇㄚ</rt></ruby>: a devil — see [[基督敎]] for its own citation there.
 - <ruby>[天](../words/天.md)<rt>ㄊㄝㄋ</rt></ruby>: sky; heaven — see [Astronomy](../lexipedia/Astronomy.md) for its own citation there.
 
-**Not yet coined**: "hell," "angel," and "prophecy" are all reserved placeholders on this vault's own [[基督敎]] page, confirmed still uncoined there too. A generic, non-denominational word for "priest," "temple," or "cleric" is likewise missing — only denomination-specific compounds exist (below). "Damn," "blasphemy," "atheist," "hermit," and "pilgrim" have no dedicated word yet either.
+**How Dan'a'yo says these**: "hell" is <ruby>[[地獄]]<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>; "angel" is <ruby>[[天使]]<rt>ㄊㄝㄋㄙㄧ</rt></ruby>; "prophecy" is <ruby>[[予言]]<rt>⼄ㄝㄋ</rt></ruby>; "priest" is <ruby>[[祭司]]<rt>ㄐㄝㄙㄚ</rt></ruby>, the generic word, and a Buddhist monk is <ruby>[[僧侶]]<rt>ㄙㄜㄫㄌ⼄</rt></ruby>; "temple" is <ruby>[[寺院]]<rt>ㄙㄚ⼔ㄋ</rt></ruby>; "damn" and "curse" are <ruby>[[呪詛]]<rt>ㄐㄨㄛㄐㄛ</rt></ruby>; "blasphemy" is <ruby>[[冒涜]]<rt>ㄇㄚㄨㄉㄛㄎ</rt></ruby>; "atheist" is 無神論－者, from <ruby>[[無神論]]<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby> and the suffix [[－者]]; "hermit" is <ruby>[[隠者]]<rt>ㄜㄋㄑㄚ</rt></ruby>; and "pilgrim" is 巡礼－者, from <ruby>[[巡礼]]<rt>ㄙ⼜ㄋㄌㄝㄧ</rt></ruby> and the same suffix.
 
 ## Intermediate (B1–B2)
 
 ### Fate & Destiny
 
 - <ruby>[因縁](../words/因縁.md)<rt>ㄧㄋ·⼶ㄋ</rt></ruby>: fate, karma, a predestined bond — the specifically Buddhist causal-fate concept.
+- <ruby>[予言](../words/予言.md)<rt>⼄ㄝㄋ</rt></ruby>: a prophecy; to foretell — spelled 預言 in Chinese, an alias of 予.
 - <ruby>[宿命](../words/宿命.md)<rt>ㄙㄨㄎㄇ⼶ㄫ</rt></ruby>: destiny, fate — a predetermined, inescapable destiny fixed from birth.
 - <ruby>[天祐](../words/天祐.md)<rt>ㄊㄝㄋ·⼜</rt></ruby>: divine aid, heaven's help.
 - <ruby>[天運](../words/天運.md)<rt>ㄊㄝㄋ·ㄨㄋ</rt></ruby>: fate from heaven (dated).
@@ -45,6 +48,8 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Spirits & Souls
 
 - <ruby>[霊魂](../words/霊魂.md)<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby>: spirit, ghost, soul — a broad umbrella term covering Christian, Buddhist, and secular usages of "soul" alike.
+- <ruby>[地獄](../words/地獄.md)<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>: hell — the Buddhist hell of punishment; see [基督敎](../lexipedia/基督敎.md) for its Christian use.
+- <ruby>[天使](../words/天使.md)<rt>ㄊㄝㄋㄙㄧ</rt></ruby>: an angel, a messenger of heaven; see [基督敎](../lexipedia/基督敎.md).
 - <ruby>[魂魄](../words/魂魄.md)<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby>: soul, spirit — specifically the paired hún (魂, the thinking/vital soul-component) and 魄 (the physical/bodily soul-component) of classical Chinese cosmology.
 - <ruby>[神霊](../words/神霊.md)<rt>ㄙㄧㄋㄌㄝㄫ</rt></ruby>: a spirit, divine/numinous force — an impersonal spiritual presence or efficacy, distinct from [[霊魂]]'s personal soul.
 - <ruby>[天神地祇](../words/天神地祇.md)<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby>: the gods of heaven and earth, all the gods — 天神 (heavenly deities) and 地祇 (earthly spirits of mountains, rivers and soil) together, a merism for the totality of divine beings, used in oaths and prayers (in Japanese Shinto in ritual norito); heavenly and earthly subsets of [[神霊]].
@@ -54,6 +59,9 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 ### Magic & Ritual
 
 - <ruby>[巫術](../words/巫術.md)<rt>ㄇㄨㄙㄨㄊ</rt></ruby>: shamanism, magic, sorcery, witchcraft — the folk-shamanic register.
+- <ruby>[魔法](../words/魔法.md)<rt>ㄇㄚㄈㄚㄆ</rt></ruby>: magic, sorcery; to enchant.
+- <ruby>[供養](../words/供養.md)<rt>ㄍ⼄ㄫ⼘ㄫ</rt></ruby>: a religious offering — food, incense or prayer given to the Buddha, to monks or to the dead; also, in Chinese, to support one's parents.
+- <ruby>[冒涜](../words/冒涜.md)<rt>ㄇㄚㄨㄉㄛㄎ</rt></ruby>: blasphemy, profanation — insulting what is held sacred.
 - <ruby>[法術](../words/法術.md)<rt>ㄈㄚㄆㄙㄨㄊ</rt></ruby>: magic, magic arts — the Daoist ritual register, distinct from [[巫術]]'s shamanic one.
 - <ruby>[占卜](../words/占卜.md)<rt>ㄐㄝㄇㄅㄛㄎ</rt></ruby>: to divine, tell fortunes.
 - <ruby>[呪文](../words/呪文.md)<rt>ㄐㄨㄛㄇㄨㄋ</rt></ruby>: an incantation, spell — the recited or written formula itself.
@@ -70,24 +78,28 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[禁忌](../words/禁忌.md)<rt>ㄍㄧㄇㄍㄧ</rt></ruby>: a taboo, forbidden thing — the religious/cultural register (also, in medicine, "contraindication"), distinct from [[忌諱]]'s social-etiquette sense.
 - <ruby>[風水](../words/風水.md)<rt>ㄈㄨㄫㄙㄨ</rt></ruby>: feng shui, the geomantic practice of siting buildings and graves (homophone of [[楓樹]]).
 
-**Not yet coined or excluded as false matches**: "offer" (making a religious offering) has no exact dedicated word — [[献上]], which also glosses "offer," means presenting tribute upward to a human superior, a secular register explicitly distinct from religious offering (whose everyday Vietnamese equivalent is the unrelated loan cúng dường); the closest real matches are [[祭祀]] and [[犠牲]] (below), which name the sacrifice/offering ritual and its object rather than the bare verb. "Enchant" (to cast a magical spell on) is likewise uncoined — [[魅惑]], which also glosses "enchant," means to charm or captivate a person romantically/socially, not to work magic.
+"Offer" (making a religious offering) is <ruby>[[供養]]<rt>ㄍ⼄ㄫ⼘ㄫ</rt></ruby>; <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby>, which also glosses "offer," means presenting tribute upward to a human superior, a secular register distinct from religious offering, and <ruby>[[祭祀]]<rt>ㄐㄝㄙㄜ</rt></ruby> and <ruby>[[犠牲]]<rt>ㄏㄨㄧㄙㄚㄫ</rt></ruby> name the sacrifice ritual and its object. "Enchant" (to cast a magical spell on) is <ruby>[[魔法]]<rt>ㄇㄚㄈㄚㄆ</rt></ruby>; <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby>, which also glosses "enchant," means to charm or captivate a person romantically or socially, not to work magic.
 
 ### Practitioners
 
 - <ruby>[神巫](../words/神巫.md)<rt>ㄙㄧㄋㄇㄨ</rt></ruby>: a shaman, wizard.
+- <ruby>[祭司](../words/祭司.md)<rt>ㄐㄝㄙㄚ</rt></ruby>: a priest — the generic, non-denominational word; 僧侶 is specifically a Buddhist monk.
+- <ruby>[隠者](../words/隠者.md)<rt>ㄜㄋㄑㄚ</rt></ruby>: a hermit, recluse — one who withdraws from society.
+- <ruby>[修行](../words/修行.md)<rt>ㄙㄨㄛㄏㄚㄫ</rt></ruby>: spiritual discipline, ascetic practice — the training of a monk or ascetic.
 - <ruby>[魔女](../words/魔女.md)<rt>ㄇㄚ·ㄋㄜ</rt></ruby>: a witch, sorceress.
 - <ruby>[巫女](../words/巫女.md)<rt>ㄇㄨ·ㄋㄜ</rt></ruby>: a shrine maiden, miko, shamaness — 巫 with 女; the bare 巫 is bound.
 - <ruby>[僧侶](../words/僧侶.md)<rt>ㄙㄜㄫㄌ⼄</rt></ruby>: a Buddhist monk.
 - <ruby>[尼僧](../words/尼僧.md)<rt>ㄋㄧㄜㄙㄜㄫ</rt></ruby>: a nun.
 - <ruby>[和尚](../words/和尚.md)<rt>ㄏ⺢ㄙ⼘ㄫ</rt></ruby>: an abbot, monk — a specific monastic rank, distinct from [[僧侶]]'s general monk.
 - <ruby>[僧伽](../words/僧伽.md)<rt>ㄙㄜㄫㄍ⼘</rt></ruby>: the sangha, the Buddhist monastic community — the Sanskrit-transliterating source compound (saṃgha) that [[僧]] itself derives from; also loosely "a Buddhist monk" by extension.
-- <ruby>[僧家](../words/僧家.md)<rt>ㄙㄜㄫㄍㄚ</rt></ruby>: a Buddhist monk — an undocumented near-duplicate of [[僧侶]], treating the monastic community as a household/order.
+- <ruby>[僧家](../words/僧家.md)<rt>ㄙㄜㄫㄍㄚ</rt></ruby>: a Buddhist monk — the same person as [[僧侶]], seen as a member of the monastic household or order.
 
 **Denomination-specific, no generic word**: "priest" has only <ruby>[司鈬](../words/司鈬.md)<rt>ㄙㄚㄉㄚㄎ</rt></ruby> (Catholic) and <ruby>[神父](../words/神父.md)<rt>ㄙㄧㄋㄅㄨ</rt></ruby> (Eastern Orthodox; also "father") — see [[基督敎]] for both their own citations there. "Witch" also loosely matches [[妖精]] and its "devil" also loosely matches [[妖怪]], but both of those words are primarily folkloric creature words housed on [Animals](../lexipedia/Animals.md), not cited here again.
 
 ### Sacred Places & Rites
 
 - <ruby>[寺院](../words/寺院.md)<rt>ㄙㄚ⼔ㄋ</rt></ruby>: a temple (Buddhist) — no generic, non-denominational "temple" word exists.
+- <ruby>[巡礼](../words/巡礼.md)<rt>ㄙ⼜ㄋㄌㄝㄧ</rt></ruby>: a pilgrimage; to go on pilgrimage — the pilgrim is 巡礼－者.
 - <ruby>[廟堂](../words/廟堂.md)<rt>ㄇ⼘ㄨㄉㄚㄫ</rt></ruby>: an ancestral temple; the imperial court.
 - <ruby>[参拝](../words/参拝.md)<rt>ㄙㄚㄇㄅ⼶</rt></ruby>: to visit a temple or shrine and pay respects.
 - <ruby>[寺刹](../words/寺刹.md)<rt>ㄙㄚㄑㄚㄊ</rt></ruby>: a Buddhist temple — the formal, written word for a temple (寺, "temple", + 刹, from Sanskrit kṣetra, "field, sacred domain"); the same thing as [[寺院]] in a more institutional, scholarly register.
@@ -123,7 +135,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[諦](../words/諦.md)<rt>ㄊㄝㄧ</rt></ruby>: truth, in the specifically Buddhist philosophical sense (四諦, "the Four Noble Truths" — suffering, its cause, its cessation, and the path).
 - <ruby>[蓬莱](../words/蓬莱.md)<rt>ㄅㄛㄫㄌㄚㄧ</rt></ruby>: Penglai, the mythical isle of immortals.
 - <ruby>[嬴洲](../words/嬴洲.md)<rt>⼶ㄫㄐㄨㄛ</rt></ruby>: Yingzhou, one of the three legendary island-mountains of the Bohai Sea (with [[蓬莱]] and 方丈), home of the immortals and the elixir of life; often written 瀛洲, and a poetic image of Japan in later Chinese literature.
-- <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which remains uncoined.
+- <ruby>[九泉](../words/九泉.md)<rt>ㄎ⼜ㄐ⼔ㄋ</rt></ruby>: the Nine Springs — the classical Chinese netherworld where the dead dwell, forming a cosmic pair with [[九天]] (the Ninth Heaven, on [Astronomy](../lexipedia/Astronomy.md)); not equivalent to the Christian "hell" of punishment, which is <ruby>[[地獄]]<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>.
 - <ruby>[人間](../words/人間.md)<rt>ㄋㄧㄋㄍㄚㄋ</rt></ruby>: the human world, this mortal realm — completing the three-tier cosmology with [[九天]] (heaven) above and [[九泉]] (the underworld) below.
 - <ruby>[冥](../words/冥.md)<rt>ㄇㄝㄫ</rt></ruby>: dark, gloomy — leaning toward the underworld specifically (冥界/冥府, "the underworld, the afterlife"; [[冥王]], "King of the Underworld"), distinct from [Light](../lexipedia/Light.md)'s own plain [[暗]] for literal darkness.
 - <ruby>[冥王](../words/冥王.md)<rt>ㄇㄝㄫ⺢ㄫ</rt></ruby>: the king of the underworld — a generic title spanning Hades, Pluto and Yama; its planet is [[冥王星]] on [Astronomy](../lexipedia/Astronomy.md).
@@ -187,9 +199,9 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 **The old placeholder "soul: hún / pò" is directly resolved by [[魂魄]]**, the compound naming that exact paired concept — hún (魂) as the vital, thinking soul-component and 魄 as the more physical, bodily one, historically paired in Chinese cosmology. [[霊魂]] sits alongside it as the broader umbrella term, general enough to translate Christian, Buddhist, and secular "soul/spirit" alike, rather than a duplicate of the same concept.
 
-**"Offer" and "enchant" both have tempting false-match candidates that were excluded rather than cited.** [[献上]] ("offer as tribute") is a secular register for presenting gifts to a human superior, not a religious offering to a deity; [[魅惑]] ("enchant") means personal charm and captivation, not the casting of a magic spell. Both real senses remain genuinely uncoined in this vault.
+**"Offer" and "enchant" each had a tempting false match, now resolved**: <ruby>[[献上]]<rt>ㄏㄝㄋㄙ⼘ㄫ</rt></ruby> ("offer as tribute") is a secular register for presenting gifts to a human superior, and <ruby>[[魅惑]]<rt>ㄇㄧㄜㄏㄛㄎ</rt></ruby> ("enchant") is personal charm, so the religious offering is <ruby>[[供養]]<rt>ㄍ⼄ㄫ⼘ㄫ</rt></ruby> and the casting of a spell is <ruby>[[魔法]]<rt>ㄇㄚㄈㄚㄆ</rt></ruby>.
 
-**"Discipline" in the religious sense (ascetic practice, spiritual training) is not covered by either candidate found.** [[処分]] ("discipline") means punishment, already housed on [Law](../lexipedia/Law.md); [[規律]] ("discipline") means rule or regularity, already housed on [Government](../lexipedia/Government.md). Neither was cited here, since neither carries the religious-asceticism sense; that sense remains uncoined.
+**"Discipline" in the religious sense is <ruby>[[修行]]<rt>ㄙㄨㄛㄏㄚㄫ</rt></ruby>**, the ascetic practice and spiritual training of a monk; [[処分]] ("discipline") means punishment, already housed on [Law](../lexipedia/Law.md), and [[規律]] means rule or regularity, housed on [Government](../lexipedia/Government.md), so neither is cited.
 
 **"Devil" and "witch" split across two unrelated registers.** The theological/Christian-specific words ([[悪魔]], [[悪鬼]]) are cited here and on [[基督敎]]; the folkloric-creature words that also gloss "devil" and "witch" ([[妖怪]], [[魔女]]'s own near-synonym [[妖精]]) are primarily housed on [Animals](../lexipedia/Animals.md) as mythical-creature vocabulary and were not re-cited here, since the creature-cataloguing angle belongs fully to that page.
 

@@ -87,6 +87,7 @@ boundedness: 90
 - <ruby>[[本地]]<rt>ㄅㄛㄋㄉㄧㄜ</rt></ruby> "local, of this locality"
 - <ruby>[[地軸]]<rt>ㄉㄧㄜㄉㄨㄎ</rt></ruby> "Earth's axis"
 - <ruby>[[目的地]]<rt>ㄇㄨㄎㄉㄝㄎㄉㄧㄜ</rt></ruby> "destination"
+- <ruby>[[地獄]]<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby> "hell"
 
 ## Chengyu
 - <ruby>[[塩地光世]]<rt>⼶ㄇㄉㄧㄜㄎ⺢ㄫㄙㄝ</rt></ruby> "salt of the earth and light of the world"

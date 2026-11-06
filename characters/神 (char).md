@@ -69,6 +69,7 @@ boundedness: 90
 - <ruby>[[天神地祇]]<rt>ㄊㄝㄋㄙㄧㄋㄉㄧㄜㄍㄧ</rt></ruby> "the gods of heaven and earth"
 - <ruby>[[神奈川]]<rt>ㄙㄧㄋㄋ⼘ㄧㄑ⺢ㄋ</rt></ruby> "Kanagawa Prefecture"
 - <ruby>[[神諭]]<rt>ㄙㄧㄋ·⼜ㄇ</rt></ruby> "oracle"
+- <ruby>[[無神論]]<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby> "atheism"
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"

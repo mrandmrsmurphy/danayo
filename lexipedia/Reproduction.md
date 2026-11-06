@@ -11,7 +11,7 @@ date-last-perfect: 2026-11-06
 
 # Reproduction
 
-Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orientation and gender identity, and the illicit/transgressive end of sexuality (adultery, prostitution, bondage) documented in this vault's classical, literary, and contemporary sources. It is a bounded domain, with orgasm (<ruby>[[高潮]]<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>), harem (<ruby>[[後宮]]<rt>ㄏㄨㄛㄍㄨㄫ</rt></ruby>), orgy (<ruby>[[乱交]]<rt>ㄌㄚㄋㄍ⼄ㄨ</rt></ruby>), perversion (<ruby>[[変態]]<rt>ㄅ⼶ㄋㄊㄚㄧ</rt></ruby>), womanizer (<ruby>[[好色]]<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby>), fondle (<ruby>[[愛撫]]<rt>ㄚㄧㄈㄨ</rt></ruby>) and rape (<ruby>[[強姦]]<rt>ㄍ⼘ㄫㄍㄚㄋ</rt></ruby>) all covered; the few English words Dan'a'yo says by strategy (lesbian, gay) are explained in the notes below.
+Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orientation and gender identity, and the illicit/transgressive end of sexuality (adultery, prostitution, bondage) documented in this vault's classical, literary, and contemporary sources. It is a bounded domain, with orgasm (<ruby>[[高潮]]<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>), harem (<ruby>[[後宮]]<rt>ㄏㄨㄛㄍㄨㄫ</rt></ruby>), orgy (<ruby>[[乱交]]<rt>ㄌㄚㄋㄍ⼄ㄨ</rt></ruby>), perversion (<ruby>[[変態]]<rt>ㄅ⼶ㄋㄊㄚㄧ</rt></ruby>), womanizer (<ruby>[[好色]]<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby>), fondle (<ruby>[[愛撫]]<rt>ㄚㄧㄈㄨ</rt></ruby>), rape (<ruby>[[強姦]]<rt>ㄍ⼘ㄫㄍㄚㄋ</rt></ruby>) and the crude verb (<ruby>[[犯肉]]<rt>ㄅㄚㄇㄋㄨㄎ</rt></ruby>) all covered; the few English words Dan'a'yo says by strategy (lesbian, gay) are explained in the notes below.
 
 ## Core Vocabulary (A1–A2)
 
@@ -22,10 +22,11 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[交接](../words/交接.md)<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>: to have intercourse — a euphemistic extension of this word's primary literal sense, "to link, join, connect" (e.g. Vietnamese giao tiếp, "to communicate").
 - <ruby>[高潮](../words/高潮.md)<rt>ㄍㄚㄨㄑㄚㄨ</rt></ruby>: an orgasm; a climax — also "high tide"; the sexual sense is Chinese-first.
 - <ruby>[交溝](../words/交溝.md)<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby>: to have sex, copulate — a formal, literary euphemistic compound, one of three registers of "have sex" beside the clinical [[性交]] and the euphemistic [[交接]].
+- <ruby>[犯肉](../words/犯肉.md)<rt>ㄅㄚㄇㄋㄨㄎ</rt></ruby>: to fuck, the crude verb — a vulgar neologism, "violate flesh"; see the note on its grammar.
 - <ruby>[懐孕](../words/懐孕.md)<rt>ㄏ⺢ㄧ·ㄧㄫ</rt></ruby>: pregnant, to be pregnant — see [Body](../lexipedia/Body.md) for its own citation there.
 - <ruby>[受胎](../words/受胎.md)<rt>ㄙ⼜·ㄊㄚㄧ</rt></ruby>: conception, to conceive — the moment a womb receives new life (in Christian usage, 受胎告知 is the Annunciation); the start of what [[懐孕]] names as the state of being pregnant.
 
-**"Fuck"** (the crude verb) is not coined: only the clinical <ruby>[[性交]]<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby> exists, with <ruby>[[交溝]]<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby> and <ruby>[[交接]]<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby> as the literary and euphemistic registers. ("Male," the counterpart to <ruby>[[雌性]]<rt>ㄑㄝㄙㄧㄫ</rt></ruby>, is <ruby>[[雄]]<rt>ㄨㄫ</rt></ruby>, above.)
+**"Fuck"** (the crude verb) is <ruby>[[犯肉]]<rt>ㄅㄚㄇㄋㄨㄎ</rt></ruby>, a vulgar neologism ("violate flesh") on the model of <ruby>[[臭膣]]<rt>ㄑㄨㄐㄧㄊ</rt></ruby>; the registers above it are the clinical <ruby>[[性交]]<rt>ㄙㄧㄫㄍ⼄ㄨ</rt></ruby>, the literary <ruby>[[交溝]]<rt>ㄍ⼄ㄨㄍㄛㄨ</rt></ruby> and the euphemistic <ruby>[[交接]]<rt>ㄍ⼄ㄨㄐㄛㄆ</rt></ruby>. As a verb-object compound it takes its partner through the comitative <ruby>[[共]]<rt>ㄍ⼄ㄫ</rt></ruby> (共彼犯肉), or has a plural subject. ("Male," the counterpart to <ruby>[[雌性]]<rt>ㄑㄝㄙㄧㄫ</rt></ruby>, is <ruby>[[雄]]<rt>ㄨㄫ</rt></ruby>, above.)
 
 ## Intermediate (B1–B2)
 

@@ -74,6 +74,7 @@ boundedness: 90
 - <ruby>[[失礼]]<rt>ㄙㄧㄊㄌㄝㄧ</rt></ruby> "rude; discourteous; excuse me"
 - <ruby>[[結婚礼]]<rt>ㄍㄝㄊㄏㄛㄋㄌㄝㄧ</rt></ruby> "wedding ceremony"
 - <ruby>[[礼儀]]<rt>ㄌㄝㄧㄜㄧ</rt></ruby> "etiquette"
+- <ruby>[[巡礼]]<rt>ㄙ⼜ㄋㄌㄝㄧ</rt></ruby> "a pilgrimage; to go on pilgrimage"
 
 ## Derived Characters
 - <ruby>[[醴]]<rt>ㄌㄝㄧ</rt></ruby> "sweet water"

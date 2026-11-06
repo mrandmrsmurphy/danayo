@@ -93,6 +93,7 @@ boundedness: 55
 - <ruby>[[走行]]<rt>ㄙㄛㄨㄏㄚㄫ</rt></ruby> "run"
 - <ruby>[[歩行]]<rt>ㄅㄛㄏㄚㄫ</rt></ruby> "walk"
 - <ruby>[[行程]]<rt>ㄏㄚㄫㄉㄧㄫ</rt></ruby> "journey"
+- <ruby>[[修行]]<rt>ㄙㄨㄛㄏㄚㄫ</rt></ruby> "spiritual discipline, ascetic practice"
 
 ## Chengyu
 - <ruby>[[令行禁止]]<rt>ㄌㄝㄫㄏㄚㄫㄍㄧㄇㄐㄧ</rt></ruby> "total command discipline"

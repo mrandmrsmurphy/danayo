@@ -68,6 +68,7 @@ boundedness: 80
 - <ruby>[[方言]]<rt>ㄈㄚㄫㄝㄋ</rt></ruby> "dialect"
 - <ruby>[[原言語]]<rt>⼔ㄋ·ㄝㄋ·⼄</rt></ruby> "source language; proto-language"
 - <ruby>[[雑言語]]<rt>ㄐㄚㄆㄝㄋ⼄</rt></ruby> "a pidgin, mixed language"
+- <ruby>[[予言]]<rt>⼄ㄝㄋ</rt></ruby> "a prophecy; to foretell"
 
 ## Chengyu
 - <ruby>[[不言不語]]<rt>ㄅㄛㄊ·ㄝㄋㄅㄛㄊ⼄</rt></ruby> "total silence"

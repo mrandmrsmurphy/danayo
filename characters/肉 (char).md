@@ -63,6 +63,7 @@ boundedness: 90
 - <ruby>[[羊肉]]<rt>⼘ㄫㄋㄨㄎ</rt></ruby> "mutton"
 - <ruby>[[肉類]]<rt>ㄋㄨㄎㄌㄨㄧ</rt></ruby> "meats"
 - <ruby>[[魚肉]]<rt>⼄·ㄋㄨㄎ</rt></ruby> "fish meat"
+- <ruby>[[犯肉]]<rt>ㄅㄚㄇㄋㄨㄎ</rt></ruby> "to fuck (vulgar) — a Dan'a'yo-original neologism"
 
 ## Chengyu
 - <ruby>[[羊頭狗肉]]<rt>⼘ㄫㄊㄛㄨㄍㄛㄨㄋㄨㄎ</rt></ruby> "false advertising; cry up wine and sell vinegar"
