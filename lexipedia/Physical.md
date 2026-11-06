@@ -30,7 +30,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[附](../words/附.md)<rt>ㄅㄨ</rt></ruby>: to affix, adhere.
 - <ruby>[鞭打](../words/鞭打.md)<rt>ㄅ⼶ㄋㄉㄚ</rt></ruby>: to whip, flog, lash.
 
-**Not yet coined**: "attract," "bore" (to drill a hole), "mar," "snap," and "web" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "attract," "bore" (to drill a hole), "mar," and "snap" all have no dedicated Dan'a'yo word yet.
 
 ## Intermediate (B1–B2)
 
@@ -89,7 +89,7 @@ Physical vocabulary covers the basic manual actions performed on objects — cut
 - <ruby>[腐敗](../words/腐敗.md)<rt>ㄆㄨㄅㄚㄧ</rt></ruby>: to rot, spoil, corrupt — see [[Life]] for its own citation there.
 - <ruby>[磨耗](../words/磨耗.md)<rt>ㄇㄚㄏㄚㄨ</rt></ruby>: wear, abrasion — the gradual wearing away of a material through friction, in a technical or engineering register (Japanese writes it 摩耗); not "to wear" clothing.
 
-**Not yet coined or excluded as false matches**: "tear" (ripping fabric) has no dedicated word; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) has no exact dedicated word — [[締]] (above) covers only the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" has no dedicated word. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" has no exact dedicated word, though [[破]] (above) covers general breaking/rending loosely.
+**Not yet coined or excluded as false matches**: "tear" (ripping fabric) has no dedicated word; [[涙]], which also glosses "tear," means a tear-drop from crying, an unrelated homograph. "Knot" (physical, in rope or string) has no exact dedicated word — [[締]] (above) covers only the abstract "tying up" sense; [[浬]], which also glosses "knot," means the nautical-mile speed unit, an unrelated homograph. "Web" in the network sense is [[網絡]]; a spider's web is not separately coined. "Chop" (the verb) is covered by [[斬]] (above); [[印章]], which also glosses "chop," means a seal or rubber stamp, an unrelated homograph (the "chop" used to authenticate a document, not a cutting motion). "Rip" has no exact dedicated word, though [[破]] (above) covers general breaking/rending loosely.
 
 ### Additional Vocabulary (backfilled 2026-10-10)
 

@@ -95,6 +95,7 @@ boundedness: 80
 - <ruby>[[水道]]<rt>ㄙㄨㄉㄚㄨ</rt></ruby> "channel, waterway"
 - <ruby>[[泉水]]<rt>ㄐ⼔ㄋㄙㄨ</rt></ruby> "spring (water)"
 - <ruby>[[水槽]]<rt>ㄙㄨㄐㄚㄨ</rt></ruby> "sink, water tank"
+- <ruby>[[潜水]]<rt>ㄐㄝㄇㄙㄨ</rt></ruby> "to dive; to lurk"
 
 ## Chengyu
 - <ruby>[[千山萬水]]<rt>ㄑㄝㄋㄙㄚㄋㄇㄛㄋㄙㄨ</rt></ruby> "countless mountains and rivers; a long, arduous journey"

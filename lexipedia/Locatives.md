@@ -29,7 +29,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[窮僻](../words/窮僻.md)<rt>ㄍㄨㄫㄆㄝㄎ</rt></ruby>: remote, out-of-the-way, backward — far from the centre and from main roads, and so poor and underdeveloped (the idiom 窮郷僻壌 "a remote, poor backwater"); a literary word, opposite in direction to [[周辺]]'s periphery around a core.
 - <ruby>[於](../words/於.md)<rt>ㄛ</rt></ruby>: in, at, during — the general locative case particle.
 
-**Not yet coined**: "gap," "space" (as a general abstract noun), and "frame" (in the structural, bounding sense — as opposed to [[床]]'s furniture/chassis sense) all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "gap" and "frame" (in the structural, bounding sense — as opposed to [[床]]'s furniture/chassis sense) all have no dedicated Dan'a'yo word yet. ("Space" as a general abstract noun is now [[空間]].)
 
 ## Intermediate (B1–B2)
 
@@ -65,7 +65,7 @@ Locatives vocabulary covers static spatial relation — where something is, rath
 - <ruby>[于](../words/于.md)<rt>ㄨ</rt></ruby>: to — the dative case particle; see [[Grammar]], its primary home as a function word.
 - <ruby>[向](../words/向.md)<rt>ㄏ⼘ㄫ</rt></ruby>: toward, -ward; see [[Grammar]], its primary home as a function word.
 
-**Not yet coined**: "against," "ahead," "amid," "apart," "aside," "away," "below," "beneath," "beyond," "except," "forth," "into," "off," "onto," "out," "overhead," "through," "upon," "upper," and "without" all have no dedicated Dan'a'yo word yet — most of these spatial relations that Dan'a'yo doesn't mark with a distinct word are instead absorbed into [[於]]'s broad "in/at/during" range or left to context, the way Classical Chinese itself does.
+**How Dan'a'yo says these, the CJKV way**: Chinese, Japanese, Korean and Vietnamese rarely have a separate preposition for each spatial relation. They put a *relational noun* after the landmark ("the top of the desk," "the inside of the box") and attach one case particle to the whole phrase, which is exactly Dan'a'yo's strategy: the relational noun is followed by [[於]], and since a noun phrase takes at most one case particle, the relation lives in the noun, not in a preposition. So "on," "upon," "onto," "overhead" and "upper" are all [[上]] (with [[表面]] "surface" when contact must be explicit: 机之表面於); "below" and "beneath" are [[下]]; "into" and "out" are the interior and exterior nouns [[内部]] and [[外部]] with [[向]] or [[至]]; "ahead" is [[前]]; "amid" is [[之間]]; "aside" is [[傍]]; "off," "away" and "apart" are [[離別]]'s idea of separation; "beyond" and "except" are [[以外]] and [[除外]]; "against" is [[反対]], "facing" in the sense of opposition; and "without" is [[無]], "lack." "Through" and "forth" are carried by the movement verb itself, as in Chinese and Japanese. These are strategies, not gaps.
 
 ## Advanced / Specialized (C1+)
 

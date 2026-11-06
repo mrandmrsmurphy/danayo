@@ -199,6 +199,7 @@ Speech vocabulary covers the acts of saying, asking, answering, reporting, and e
 - <ruby>[阿](../words/阿.md)<rt>ㄚ</rt></ruby>: ah.
 - <ruby>[電話](../words/電話.md)<rt>ㄉㄝㄋㄏ⺢ㄧ</rt></ruby>: telephone.
 - <ruby>[電子郵件](../words/電子郵件.md)<rt>ㄉㄝㄋㄐㄜㄨㄛㄍ⼶ㄋ</rt></ruby>: email.
+- <ruby>[投稿](../words/投稿.md)<rt>ㄉㄛㄨㄍㄚㄨ</rt></ruby>: to post, submit a piece of writing.
 - <ruby>[露斯亜語](../words/露斯亜語.md)<rt>ㄌㄛㄙㄧㄚ⼄</rt></ruby>: Russian language.
 - <ruby>[露語](../words/露語.md)<rt>ㄌㄛ⼄</rt></ruby>: Russian language.
 - <ruby>[音素](../words/音素.md)<rt>ㄨㄇㄙㄛ</rt></ruby>: phoneme.

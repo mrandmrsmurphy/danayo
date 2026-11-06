@@ -80,7 +80,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - <ruby>[勿](../words/勿.md)<rt>ㄇㄨㄊ</rt></ruby>: do not ever (a more emphatic, formal/classical prohibition than [[不要]])
 - <ruby>[該](../words/該.md)<rt>ㄍㄛㄧ</rt></ruby>: ought, should, have to
 - <ruby>[将](../words/将.md)<rt>ㄐ⺢ㄫ</rt></ruby>: shall/will
-- could, would: not yet coined.
+- could, would: not coined, by design. CJKV verbs carry no tense or past-modal forms; "could" is [[可]] and "would" is [[将]], with [[若]] marking the conditional or counterfactual (see Moods in 文法 - 97品詞).
 - <ruby>[意志](../words/意志.md)<rt>ㄜㄐㄧ</rt></ruby>: will, intent (noun)
 
 ### Particles

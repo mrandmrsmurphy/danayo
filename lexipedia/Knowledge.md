@@ -184,6 +184,7 @@ A deliberately coined epistemic-modality gradient — see Semantic Range Notes f
 - <ruby>[復習](../words/復習.md)<rt>ㄅㄨㄎㄙㄜㄆ</rt></ruby>: to revise, review lessons already covered.
 - <ruby>[補習](../words/補習.md)<rt>ㄅㄛㄙㄜㄆ</rt></ruby>: take extra classes.
 - <ruby>[読書](../words/読書.md)<rt>ㄉㄛㄎㄙ⼄</rt></ruby>: read; study.
+- <ruby>[閲覧](../words/閲覧.md)<rt>⼶ㄊㄌㄚㄇ</rt></ruby>: to browse, peruse, look over.
 - <ruby>[書写](../words/書写.md)<rt>ㄙ⼄ㄙ⼘</rt></ruby>: to write.
 - <ruby>[筆記](../words/筆記.md)<rt>ㄆㄨㄊㄍㄧ</rt></ruby>: take notes.
 - <ruby>[宿題](../words/宿題.md)<rt>ㄙㄨㄎㄊㄝㄧ</rt></ruby>: homework, an assignment — the task carried home from school; also a pending problem.

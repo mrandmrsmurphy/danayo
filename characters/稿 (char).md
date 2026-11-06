@@ -53,3 +53,4 @@ date-last-perfect: 2026-10-20
 ## Words
 - <ruby>[[稿]]<rt>ㄍㄚㄨ</rt></ruby> "manuscript, copy, rough draft" (stand-in for 稿)
 - <ruby>[[脱稿]]<rt>ㄉ⺢ㄊㄍㄚㄨ</rt></ruby> "complete a manuscript"
+- <ruby>[[投稿]]<rt>ㄉㄛㄨㄍㄚㄨ</rt></ruby> "to post, submit writing"

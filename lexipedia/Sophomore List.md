@@ -276,7 +276,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- like - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby>
 	- care - <ruby>[[関心]]<rt>ㄍ⺢ㄇㄙㄧㄇ</rt></ruby>
 	- want - <ruby>[[願意]]<rt>⼔ㄋ·ㄜ</rt></ruby>
-	- wish *(needs a word distinct from [[願意]]/[[希望]])*
+	- wish - <ruby>[[願意]]<rt>⼔ㄋ·ㄜ</rt></ruby> *(CJKV do not split want, wish and hope; the stronger form is <ruby>[[切望]]<rt>ㄑㄝㄊㄇㄚㄫ</rt></ruby>, the noun is <ruby>[[願望]]<rt>⼔ㄋㄇㄚㄫ</rt></ruby>)*
 	- marry - <ruby>[[結婚]]<rt>ㄍㄝㄊㄏㄛㄋ</rt></ruby>
 - Knowledge :
 	- understand - <ruby>[[理解]]<rt>ㄌㄧㄍ⼘ㄧ</rt></ruby>
@@ -376,10 +376,10 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- until - <ruby>[[至]]<rt>ㄐㄧㄜ</rt></ruby>
 - Prepositions :
 	- toward - <ruby>[[向]]<rt>ㄏ⼘ㄫ</rt></ruby>
-	- for *(needs a word — the benefactive sense is absorbed into the dative case particle [[与格]] rather than a standalone preposition; see [[Grammar]])*
-	- without *(needs a word — confirmed absent, see [[Locatives]]'s own "Not yet coined" list)*
-	- against *(needs a word — confirmed absent, see [[Locatives]]'s own "Not yet coined" list)*
-	- on *(needs a word — likely absorbed into [[於]]'s broad "in/at/during" range, the same treatment as the confirmed-absent "onto"/"upon"; see [[Locatives]])*
+	- for - <ruby>[[為]]<rt>⼔ㄋ</rt></ruby> *(the co-verb "for, because of," as in Japanese 為 and Korean 위하여; the plain recipient is the dative 于 — see [[Grammar]])*
+	- without - <ruby>[[無]]<rt>ㄇㄜ</rt></ruby> *("lack, not have": 無X, as in Japanese なし, Korean 없이 and Chinese 無/沒有 — see [[Locatives]])*
+	- against - <ruby>[[反対]]<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby> *("be opposite, oppose," the stand-in for 対; CJKV say "facing" rather than a separate preposition — see [[Locatives]])*
+	- on - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> *(CJKV make no on/above split: the relational noun 上 follows the landmark and the whole phrase takes 於, as in 机之上於. Contact is made explicit with <ruby>[[表面]]<rt>ㄅ⼘ㄨㄇ⼶ㄋ</rt></ruby> "surface, face": 机之表面於 — see [[Locatives]])*
 	- about - <ruby>[[就]]<rt>ㄑ⺢ㄧ</rt></ruby>
 	- behind - <ruby>[[背後]]<rt>ㄅㄛㄧㄏㄨㄛ</rt></ruby>
 	- across - <ruby>[[亙]]<rt>ㄍㄨㄫ</rt></ruby>
@@ -393,7 +393,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 	- now - <ruby>[[現在]]<rt>ㄏ⼶ㄋㄐㄚㄧ</rt></ruby>
 	- then - <ruby>[[然後]]<rt>ㄋ⼶ㄋㄏㄨㄛ</rt></ruby>
 	- again - <ruby>[[再度]]<rt>ㄐㄚㄧㄉㄛ</rt></ruby>
-	- next *(needs a word — only compounds exist, e.g. [[来年]] "next year," [[隣]] "next door"; no plain generic "next")*
+	- next - 次– *(the prefix 次, whose stand-in is <ruby>[[次第]]<rt>ㄑㄧㄜㄉㄝㄧ</rt></ruby>, as in <ruby>[[次日]]<rt>ㄑㄧㄜㄋㄧㄊ</rt></ruby> "next day"; <ruby>[[隣]]<rt>ㄌㄧㄋ</rt></ruby> "adjacent, next door" for position)*
 - Degree :
 	- very - <ruby>[[頗]]<rt>ㄈㄚ</rt></ruby>
 	- too - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby>
@@ -434,7 +434,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- monitor - <ruby>[[顕示器]]<rt>ㄏㄝㄋㄍㄝ·ㄎㄧㄜ</rt></ruby>
 - Programs :
 	- program - <ruby>[[程序]]<rt>ㄉㄧㄫㄙ⼄</rt></ruby>
-	- game *(needs a word — distinct from [[遊戯]] "game" in the play/avocation sense, already used above)*
+	- game - <ruby>[[遊戯]]<rt>⼜ㄛㄏㄨㄧ</rt></ruby> *(same word as above; CJKV call a video game by the same word as a game)*
 	- word processor *(needs a word)*
 	- compiler - <ruby>[[編訳器]]<rt>ㄅ⼶ㄋ⼶ㄎㄎㄧㄜ</rt></ruby>
 - Internet :
@@ -443,12 +443,12 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- web - <ruby>[[網絡]]<rt>ㄇㄚㄫㄌㄚㄎ</rt></ruby>
 	- website - <ruby>[[網站]]<rt>ㄇㄚㄫㄐㄚㄇ</rt></ruby>
 	- download - <ruby>[[下載]]<rt>ㄏㄚㄐㄚㄧ</rt></ruby>
-	- browser *(needs a word)*
+	- browser - <ruby>[[閲覧]]<rt>⼶ㄊㄌㄚㄇ</rt></ruby> *(the act: 閲覧; a browser is the 閲覧 software, 閲覧 + 器 on the 顕示器 pattern, not coined separately)*
 	- blog - <ruby>[[部落格]]<rt>ㄅㄛㄨㄌㄚㄎㄍㄚㄎ</rt></ruby>
-	- post *(needs a word — [[郵便]] means "postal mail," not an internet post)*
+	- post - <ruby>[[投稿]]<rt>ㄉㄛㄨㄍㄚㄨ</rt></ruby> *(to post writing online; <ruby>[[郵便]]<rt>ㄨㄛㄅ⼶ㄋ</rt></ruby> is postal mail)*
 	- flame - <ruby>[[火炎]]<rt>ㄏ⺢ㄝㄇ</rt></ruby>
-	- lurker *(needs a word)*
-	- newb *(needs a word)*
+	- lurker - <ruby>[[潜水]]<rt>ㄐㄝㄇㄙㄨ</rt></ruby> *(to dive; to lurk — read a forum without posting)*
+	- newb - <ruby>[[新手]]<rt>ㄙㄧㄋㄙ⼜</rt></ruby> *("beginner, novice, newcomer")*
 	- chat - <ruby>[[聊]]<rt>ㄌ⼘ㄨ</rt></ruby>
 - Disciplines :
 	- physics - <ruby>[[物理学]]<rt>ㄇㄨㄊㄌㄧㄏㄚㄎ</rt></ruby>
@@ -474,7 +474,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Substance :
 	- plastic - <ruby>[[塑膠]]<rt>ㄙㄛㄍ⼄ㄨ</rt></ruby>
 - Appliance :
-	- stove *(needs a word)*
+	- stove - <ruby>[[火炉]]<rt>ㄏ⺢ㄌㄛ</rt></ruby> *(furnace, boiler; CJKV use one word for stove, hearth and furnace)*
 	- sink - <ruby>[[水槽]]<rt>ㄙㄨㄐㄚㄨ</rt></ruby> *(the fixture; "water tank, trough")*
 	- dishwasher - <ruby>[[洗碗机]]<rt>ㄙㄝㄋ·⺢ㄋㄍㄧㄜ</rt></ruby>
 	- refrigerator - <ruby>[[冷蔵庫]]<rt>ㄌㄚㄫㄑㄚㄫㄎㄛ</rt></ruby>
@@ -484,7 +484,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- AC - <ruby>[[空調]]<rt>ㄎㄛㄫㄐㄨㄛ</rt></ruby>
 - Film :
 	- camera - <ruby>[[照相机]]<rt>ㄐㄛㄨㄙㄚㄫㄍㄧㄜ</rt></ruby>
-	- film *(needs a word — distinct from [[電影]] "movie," the finished work rather than the physical/celluloid medium)*
+	- film - <ruby>[[膠片]]<rt>ㄍ⼄ㄨ·ㄆㄝㄋ</rt></ruby> *(the physical film; the finished movie is 映画)*
 	- photo - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> *("photograph")*
 	- movie/video - <ruby>[[電影]]<rt>ㄉㄝㄋ·⼶ㄫ</rt></ruby>
 	- animation - <ruby>[[動画]]<rt>ㄉㄛㄫㄏ⺢ㄎ</rt></ruby>
@@ -496,7 +496,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- stereo - <ruby>[[立体声]]<rt>ㄌㄧㄆㄊㄝㄧㄙㄧㄫ</rt></ruby>
 - Weaponry :
 	- gun - <ruby>[[銃]]<rt>ㄑㄨㄫ</rt></ruby>
-	- rifle *(needs a word)*
+	- rifle - <ruby>[[歩槍]]<rt>ㄅㄛㄑ⺢ㄫ</rt></ruby>
 	- tank - <ruby>[[戦車]]<rt>ㄐㄝㄋㄑ⺢</rt></ruby>
 	- infantry - <ruby>[[歩兵]]<rt>ㄅㄛㄅ⼶ㄫ</rt></ruby>
 	- cavalry - <ruby>[[騎兵]]<rt>ㄍㄨㄧㄅ⼶ㄫ</rt></ruby>
@@ -523,7 +523,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- foot - <ruby>[[足]]<rt>ㄐㄛㄎ</rt></ruby> *(body-part word extended to the unit of length, uncertain if attested that way)*
 	- mile - <ruby>[[英里]]<rt>ㄝㄫㄌㄧ</rt></ruby> *(see [[Measurement]])*
 	- ounce *(needs a word)*
-	- cup *(needs a word — distinct from the container [[杯]], a volume-measure "cup" as used in recipes)*
+	- cup - <ruby>[[杯]]<rt>ㄅㄛㄧ</rt></ruby> *(also the measure: 一杯 "one cup," as in Chinese and Japanese)*
 	- gram - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> *(one sense among several — also "practice self-restraint, overcome")*
 	- kg - <ruby>[[公斤]]<rt>ㄍㄛㄫㄍㄧㄋ</rt></ruby> *("kilogram")*
 	- meter - <ruby>[[公尺]]<rt>ㄍㄛㄫㄑㄝㄎ</rt></ruby>
@@ -547,7 +547,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 - Economy :
 	- economy - <ruby>[[経済]]<rt>ㄍㄝㄫㄐㄝㄧ</rt></ruby>
 	- banknote - <ruby>[[紙幣]]<rt>ㄐㄝ·ㄆㄝ</rt></ruby>
-	- credit card *(needs a word)*
+	- credit card - <ruby>[[信用]]<rt>ㄙㄧㄋ·⼄ㄫ</rt></ruby><ruby>[[－証]]<rt>ㄐㄧㄫ</rt></ruby> *("credit" + the productive suffix －証 "card, certificate"; segmented, not coined)*
 	- dollar - <ruby>[[美圓]]<rt>ㄇㄧ⼔ㄋ</rt></ruby>
 	- euro - <ruby>[[欧圓]]<rt>ㄛㄨ⼔ㄋ</rt></ruby>
 	- expenses - <ruby>[[経費]]<rt>ㄍㄝㄫㄈㄚㄧ</rt></ruby>
@@ -560,7 +560,7 @@ please - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> (SFP), thank you - <ruby>[[感�
 	- yen - <ruby>[[日圓]]<rt>ㄋㄧㄊ·⼔ㄋ</rt></ruby>
 	- yuan - <ruby>[[人民幣]]<rt>ㄋㄧㄋㄇㄧㄋㄆㄝ</rt></ruby>
 	- won - <ruby>[[韓圓]]<rt>ㄏㄚㄋ·⼔ㄋ</rt></ruby>
-	- taxes *(needs a word — distinct from the singular [[税金]] "tax," already used above)*
+	- taxes - <ruby>[[税金]]<rt>ㄙㄝㄍㄧㄇ</rt></ruby> *(CJKV do not mark the plural)*
 - Avocations :
 	- chess - <ruby>[[将棋]]<rt>ㄐ⺢ㄫㄍㄧ</rt></ruby>
 	- rock - <ruby>[[石頭]]<rt>ㄙㄝㄎㄊㄛㄨ</rt></ruby>
@@ -673,7 +673,7 @@ _These are for place names, not the words themselves_
 	- beach - <ruby>[[海辺]]<rt>ㄏㄚㄧㄅㄝㄋ</rt></ruby>
 	- peninsula - <ruby>[[半島]]<rt>ㄅㄚㄋㄊㄚㄨ</rt></ruby>
 	- cape - <ruby>[[海角]]<rt>ㄏㄚㄧㄍㄛㄎ</rt></ruby>
-	- point *(needs a word — not the same concept as [[点]], a geometric/abstract point)*
+	- point - <ruby>[[海角]]<rt>ㄏㄚㄧㄍㄛㄎ</rt></ruby> *(a headland, "sea corner"; Japanese 岬)*
 - Island :
 	- island - <ruby>[[島]]<rt>ㄊㄚㄨ</rt></ruby>
 	- archipelago - <ruby>[[列島]]<rt>ㄌㄝㄊㄊㄚㄨ</rt></ruby> & <ruby>[[群島]]<rt>ㄍㄨㄋㄊㄚㄨ</rt></ruby>
@@ -719,8 +719,8 @@ _These are for place names, not the words themselves_
 - Other :
 	- mine - <ruby>[[鉱山]]<rt>ㄍ⺢ㄫㄙㄚㄋ</rt></ruby>
 	- inn - <ruby>[[旅館]]<rt>ㄌ⼄ㄍ⺢ㄋ</rt></ruby>
-	- stopping-point *(needs a word)*
-	- post *(needs a word — distinct from [[宿舎]] "lodge" below and [[郵便]] "postal mail")*
+	- stopping-point - <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby> *("station," originally a courier post-station where travellers changed horses)*
+	- post - <ruby>[[駅]]<rt>⼶ㄎ</rt></ruby> *(a courier post-station)*
 	- lodge - <ruby>[[宿舎]]<rt>ㄙㄨㄎㄙ⼘</rt></ruby>
 	- mill - <ruby>[[磨坊]]<rt>ㄇㄚㄈㄚㄫ</rt></ruby>
 	- house - <ruby>[[房室]]<rt>ㄅㄚㄫㄙㄧㄊ</rt></ruby> *(same word already used above in Nouns > Houses)*
@@ -765,7 +765,7 @@ _These are for place names, not the words themselves_
 	- silver - <ruby>[[words/銀]]<rt>ㄧㄋ</rt></ruby>
 	- jewel - <ruby>[[明月]]<rt>ㄇ⼶ㄫ⼔ㄊ</rt></ruby> *(literally "bright moon" — a poetic extension, not a dedicated word for "gem/jewel")*
 - Descriptive :
-	- windy *(needs a word)*
+	- windy - 風強 *(a clause, not an adjective: CJKV say "the wind is strong," Chinese 風大, Japanese 風が強い — [[風]] + [[強]])*
 	- stinky - <ruby>[[臭]]<rt>ㄑㄨ</rt></ruby>
 - Color : 
 	- white - <ruby>[[白]]<rt>ㄅㄚㄎ</rt></ruby>
@@ -781,9 +781,9 @@ _These are for place names, not the words themselves_
 	- slow - <ruby>[[緩慢]]<rt>ㄏ⺢ㄋㄇㄚㄋ</rt></ruby> *(same word already used above in Adjectives > Opposites)*
 	- clear - <ruby>[[清澈]]<rt>ㄑㄧㄫㄐㄝㄊ</rt></ruby> *("clear, limpid" (of water, sky, sound))*
 	- muddy - <ruby>[[混濁]]<rt>ㄏㄛㄋㄉㄚㄎ</rt></ruby>
-	- noisy *(needs a word)*
-	- laughing *(needs a word — i.e. a "laughing brook," babbling water; no dedicated word)*
-	- reedy *(needs a word — [[芦葦]] is the noun "reed, rush," not an adjective "full of reeds")*
+	- noisy - <ruby>[[騒]]<rt>ㄙㄚㄨ</rt></ruby> *("boisterous, noisy"; also <ruby>[[喧嘩]]<rt>ㄏㄛㄋㄏ⺢</rt></ruby> "commotion")*
+	- laughing - <ruby>[[湧]]<rt>⼄ㄫ</rt></ruby> *(the idea is the "bubbling brook": 湧 "gush, bubble up"; the babbling sound is an ideophone — see [[Grammar]])*
+	- reedy - 多<ruby>[[芦葦]]<rt>"ㄌㄛㄏㄨㄧ"</rt></ruby> *("many reeds": 多 + noun is the CJKV way to say "full of X," not a separate adjective)*
 - Animals :
 	- horse - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby>
 	- ox - <ruby>[[牛]]<rt>ㄋ⼜</rt></ruby>

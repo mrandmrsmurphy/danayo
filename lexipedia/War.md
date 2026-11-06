@@ -69,9 +69,10 @@ War vocabulary covers armies, weapons, and the acts of attacking, invading, and 
 - <ruby>[大砲](../words/大砲.md)<rt>ㄉㄚㄧㄅ⼘ㄨ</rt></ruby>: a gun — specifically a cannon, distinct from [[銃]]'s handheld firearm.
 - <ruby>[戦車](../words/戦車.md)<rt>ㄐㄝㄋㄑ⺢</rt></ruby>: a tank, armoured fighting vehicle. See [Tools](../lexipedia/Tools.md) for its own citation there.
 - <ruby>[爆弾](../words/爆弾.md)<rt>ㄅㄛㄎㄉㄚㄋ</rt></ruby>: a bomb.
+- <ruby>[歩槍](../words/歩槍.md)<rt>ㄅㄛㄑ⺢ㄫ</rt></ruby>: a rifle.
 - <ruby>[刀刃](../words/刀刃.md)<rt>ㄊㄚㄨㄋㄧㄋ</rt></ruby>: a blade. See [Food](../lexipedia/Food.md) for its own citation there.
 
-**Not yet coined**: "rifle," "dart," "chainmail," and "greaves" all have no dedicated Dan'a'yo word yet. ("Helmet" is now covered by [[兜]], above.)
+**Not yet coined**: "dart," "chainmail," and "greaves" all have no dedicated Dan'a'yo word yet. ("Helmet" is now covered by [[兜]], above; "rifle" is [[歩槍]].)
 
 ### Attacking & Invading
 

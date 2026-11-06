@@ -240,6 +240,7 @@ Art vocabulary spans the whole range of aesthetic and cultural production: perfo
 ### Prints & Photography
 
 - <ruby>[写真](../words/写真.md)<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby>: a photograph.
+- <ruby>[膠片](../words/膠片.md)<rt>ㄍ⼄ㄨ·ㄆㄝㄋ</rt></ruby>: film, the photographic or cinema medium.
 - <ruby>[立体声](../words/立体声.md)<rt>ㄌㄧㄆㄊㄝㄧㄙㄧㄫ</rt></ruby>: stereo, stereophonic sound.
 - <ruby>[唱片](../words/唱片.md)<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby>: a record, phonograph disc.
 - <ruby>[照相机](../words/照相机.md)<rt>ㄐㄛㄨㄙㄚㄫㄍㄧㄜ</rt></ruby>: a camera.

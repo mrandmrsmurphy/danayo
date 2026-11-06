@@ -28,7 +28,7 @@ Physics vocabulary covers temperature, weight, and the material substance of thi
 - <ruby>[物質](../words/物質.md)<rt>ㄇㄨㄊㄐㄧㄊ</rt></ruby>: material, substance — the physical-matter sense specifically.
 - <ruby>[衡量](../words/衡量.md)<rt>ㄏㄚㄫㄌ⼘ㄫ</rt></ruby>: to weigh, measure, evaluate — see [[Existence]] for its own citation there.
 
-**Not yet coined**: "energy," "gravity," and "mass" (the measurable physical quantity, distinct from [[物質]]'s general "substance") all have no dedicated Dan'a'yo word yet — a real, notable gap in this vault's physics vocabulary, not an oversight in searching.
+**Not yet coined**: "gravity" and "mass" (the measurable physical quantity, distinct from [[物質]]'s general "substance") both have no dedicated Dan'a'yo word yet. ("Energy" is now [[能量]].)
 
 ## Intermediate (B1–B2)
 

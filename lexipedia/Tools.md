@@ -29,7 +29,7 @@ Tools vocabulary covers implements, machines, and the parts that make them work 
 - <ruby>[善用](../words/善用.md)<rt>ㄙ·⼶ㄋ·⼄ㄫ</rt></ruby>: to put to good use.
 - <ruby>[準備](../words/準備.md)<rt>ㄐㄨㄋㄅㄧㄜ</rt></ruby>: to prepare. See [Mind](../lexipedia/Mind.md) for its own citation there.
 
-**Not yet coined**: "bolt," "engine," "mechanical," "waste," "ready," and "switch" all have no dedicated Dan'a'yo word yet.
+**Not yet coined**: "bolt," "mechanical," "waste," "ready," and "switch" all have no dedicated Dan'a'yo word yet. ("Engine" is [[発動机]].)
 
 ## Intermediate (B1–B2)
 

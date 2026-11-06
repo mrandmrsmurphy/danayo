@@ -206,7 +206,7 @@ Analysis vocabulary covers the more deliberate, structured operations of the min
 - <ruby>[帰納](../words/帰納.md)<rt>ㄍㄨㄧㄋㄚㄆ</rt></ruby>: to induce, derive.
 - <ruby>[実例](../words/実例.md)<rt>ㄙㄧㄊㄌㄝ</rt></ruby>: an example, precedent.
 
-**Not yet coined**: "program" has no dedicated Dan'a'yo word yet.
+"Program" (the computer sense) is [[程序]]; see [[Tools]].
 
 ### Intermediate (B1–B2)
 

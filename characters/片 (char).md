@@ -53,6 +53,7 @@ boundedness: 100
 - <ruby>[[片仮名]]<rt>ㄆㄝㄋㄍㄚ·ㄇㄧㄫ</rt></ruby> "katakana"
 - <ruby>[[晶片]]<rt>ㄐㄧㄫㄆㄝㄋ</rt></ruby> "chip"
 - <ruby>[[唱片]]<rt>ㄑ⺢ㄫㄆㄝㄋ</rt></ruby> "record"
+- <ruby>[[膠片]]<rt>ㄍ⼄ㄨ·ㄆㄝㄋ</rt></ruby> "film (photographic)"
 
 ## Derived Characters
 - <ruby>[[版]]<rt>ㄆㄚㄋ</rt></ruby> "edition; version"

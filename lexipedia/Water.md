@@ -93,6 +93,7 @@ Cross-listed from [Movement](../lexipedia/Movement.md) and [Sin](../lexipedia/Si
 - <ruby>[河川](../words/河川.md)<rt>ㄏㄚㄑ⺢ㄋ</rt></ruby>: rivers.
 - <ruby>[水道](../words/水道.md)<rt>ㄙㄨㄉㄚㄨ</rt></ruby>: a channel, waterway.
 - <ruby>[三角洲](../words/三角洲.md)<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby>: a river delta.
+- <ruby>[潜水](../words/潜水.md)<rt>ㄐㄝㄇㄙㄨ</rt></ruby>: to dive; to lurk unseen.
 - <ruby>[泉水](../words/泉水.md)<rt>ㄐ⼔ㄋㄙㄨ</rt></ruby>: a spring, natural water source.
 - <ruby>[合流](../words/合流.md)<rt>ㄍㄛㄆㄌ⼜</rt></ruby>: a confluence; to flow together.
 - <ruby>[小川](../words/小川.md)<rt>ㄙㄛㄑ⺢ㄋ</rt></ruby>: small stream, brook.
