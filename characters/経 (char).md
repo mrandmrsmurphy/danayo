@@ -74,7 +74,6 @@ boundedness: 60
 - <ruby>[[四書五経]]<rt>ㄙㄧㄜㄙ⼄ㄛㄍㄝㄫ</rt></ruby> "Four Books and Five Classics"
 - <ruby>[[麟経]]<rt>ㄌㄧㄋㄍㄝㄫ</rt></ruby> "the Spring and Autumn Annals (alternative name)"
 - <ruby>[[経理]]<rt>ㄍㄝㄫㄌㄧ</rt></ruby> "manager"
-- <ruby>[[仮正経]]<rt>ㄍㄚㄐㄧㄫㄍㄝㄫ</rt></ruby> "a prude, a prig"
 
 ## Chengyu
 - <ruby>[[神経衰弱]]<rt>ㄙㄧㄋㄍㄝㄫㄙ⼔ㄧㄋ⼘ㄎ</rt></ruby> "neurasthenia"

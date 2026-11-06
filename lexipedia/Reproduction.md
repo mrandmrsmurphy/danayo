@@ -32,9 +32,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 ### Chastity & Purity
 
 - <ruby>[貞潔](../words/貞潔.md)<rt>ㄊㄧㄫㄍㄝㄊ</rt></ruby>: chaste, chastity, purity.
-- <ruby>[仮正経](../words/仮正経.md)<rt>ㄍㄚㄐㄧㄫㄍㄝㄫ</rt></ruby>: a prude, a prig — one who makes a show of propriety and is shocked at anything improper.
 - <ruby>[潔癖](../words/潔癖.md)<rt>ㄍㄝㄊㄆㄝㄎ</rt></ruby>: fastidious, squeamish about impurity — extends to moral squeamishness.
-- <ruby>[拘謹](../words/拘謹.md)<rt>ㄍㄨㄍㄧㄋ</rt></ruby>: prim, stiff, overcautious — holding oneself to strict propriety.
 - <ruby>[清教徒](../words/清教徒.md)<rt>ㄑㄧㄫㄍ⼄ㄨㄉㄛ</rt></ruby>: a Puritan; figuratively a prude — see [Christianity](../lexipedia/基督敎.md) for the sect.
 - <ruby>[処女](../words/処女.md)<rt>ㄑㄛ·ㄋㄜ</rt></ruby>: a virgin, maiden — also "Virgo," the zodiac sign.
 
@@ -65,7 +63,7 @@ Reproduction vocabulary covers biological sex, pregnancy, chastity, sexual orien
 - <ruby>[同性愛](../words/同性愛.md)<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby>: homosexuality — literally "same-sex love," a clean, directly parallel compound across the whole Sinosphere with no real sense-divergence between languages.
 - <ruby>[跨性別](../words/跨性別.md)<rt>ㄎ⺢ㄙㄧㄫㄅㄝㄊ</rt></ruby>: transgender — literally "crossing/straddling sex/gender." Genuinely current in Mandarin/Cantonese usage; Japanese, Korean, and Vietnamese all prefer their own loanword or native term instead of a compositional reading (see the word's own Notes).
 
-**"Lesbian" and "gay"** have no shared set compound across the languages, so each is said as a phrase: <ruby>[[同性愛]]<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby> (homosexuality) with 女 or 男, as in 女之同性愛 and 男之同性愛. "Prude" is <ruby>[[仮正経]]<rt>ㄍㄚㄐㄧㄫㄍㄝㄫ</rt></ruby>, a prude or prig (attested in Mandarin and Cantonese as 假正經), with <ruby>[[拘謹]]<rt>ㄍㄨㄍㄧㄋ</rt></ruby> for prim and stiff, <ruby>[[潔癖]]<rt>ㄍㄝㄊㄆㄝㄎ</rt></ruby> for squeamishness about impurity, and <ruby>[[清教徒]]<rt>ㄑㄧㄫㄍ⼄ㄨㄉㄛ</rt></ruby> for a Puritan, which Mandarin also uses figuratively. Three neologisms built on the suffix 者 were considered and not coined, since attested words exist: 拘礼者 ("one bound by etiquette"), 過禁者 ("one who over-forbids") and 頑端者 ("one stubbornly upright"); 隘潔者 would need the character 隘, which the vault lacks.
+**"Lesbian" and "gay"** have no shared set compound across the languages, so each is said as a phrase: <ruby>[[同性愛]]<rt>ㄉㄛㄫㄙㄧㄫㄚㄧ</rt></ruby> (homosexuality) with 女 or 男, as in 女之同性愛 and 男之同性愛. "Prude" is not yet settled: the nearest existing words are [[禁欲]] (abstinent), [[貞潔]] (chaste), [[潔癖]] (fastidious, squeamish about impurity) and [[清教徒]] (a Puritan, used figuratively in Mandarin for a prude), and candidate neologisms built on the suffix 者 are under discussion.
 
 ## Advanced / Specialized (C1+)
 
