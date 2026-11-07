@@ -56,6 +56,7 @@ tags:
 
 ### Aliases
 - 视 --> 視
+- 杵 --> 午
 
 ## Datacheck
 ```dataview

@@ -28,6 +28,7 @@ tags: [lookup]
 - 內 --> 内
 - 车 --> 車
 - 风 --> 風
+- 㕛 --> 友
 
 ## Data check
 ```dataview

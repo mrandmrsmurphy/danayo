@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 受 perfected to the current standard:** no aliases; rank 185 verified in `CC 0000`; all 11 words and 授 listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 収 perfected to the current standard:** `## Aliases` section for 收 (the traditional form, whose rank 586 is the `mc_id`), redirects added; rank sentence dropped from Notes; eight words verified. [AI]
+
+- **Character loop, 友 perfected to the current standard:** `## Aliases` section for 㕛 (variant form per Wiktionary; bare mention; SKIP 1-2-2 computed), redirects added; rank 796 and four words verified. [AI]
+
+- **Character loop, 南 perfected to the current standard:** `## Aliases` section for 喃 (the Chữ Nôm character, written 字南 here) and 娚, redirects added; rank 121, 34 words and 楠 verified. [AI]
+
+- **Character loop, 午 perfected to the current standard:** `## Aliases` section for 杵 (the later pestle form; ranks 2577, so `mc_id` stays 917), redirects added; six words and three derived characters verified. [AI]
+
 - **Character loop, 千 perfected to the current standard:** `## Aliases` section for 韆 (the traditional form of which 千 is the simplified form, in 鞦韆 "swing"), redirects added, with one new redirect-only SKIP leaf (1-9-15) and its index entry on `SKIP-1-9` (which also gained `none` rows for 12 to 14); rank 119, 15 words, seven chengyu and 年 verified. [AI]
 
 - **Character loop, 北 perfected to the current standard:** no aliases; rank 167 verified in `CC 0000`; all 24 words and 背 listed; no edits beyond the stamp. [AI]

@@ -216,6 +216,7 @@ tags: [lookup]
 - 檯 --> 台
 - 榎 --> 夏
 - 樋 --> 通
+- 杵 --> 午
 
 ## Data check
 ```dataview

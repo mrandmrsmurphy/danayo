@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### Aliases
 - 卬 --> 卯
+- 㕛 --> 友
 
 ## Datacheck
 ```dataview

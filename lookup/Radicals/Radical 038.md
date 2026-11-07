@@ -103,6 +103,7 @@ tags: [lookup]
 
 ### Aliases
 - 她 --> 他
+- 娚 --> 南
 
 ## Data check
 ```dataview

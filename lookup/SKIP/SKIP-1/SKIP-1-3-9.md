@@ -146,6 +146,7 @@ tags:
 - 𫝼 --> 発
 - 溌 --> 発
 - 渢 --> 風
+- 喃 --> 南
 
 ## Datacheck
 ```dataview

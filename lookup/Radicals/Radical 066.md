@@ -57,6 +57,9 @@ tags: [lookup]
 - 肇 has this radical as a component, but is not listed under this radical.
 - 赦 has this radical as a component, but is not listed under this radical.
 
+### Aliases
+- 收 --> 収
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

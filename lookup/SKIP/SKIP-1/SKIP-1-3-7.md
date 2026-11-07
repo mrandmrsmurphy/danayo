@@ -85,6 +85,7 @@ tags:
 - 骏 --> 俊
 - 𣴠 --> 活
 - 哩 --> 里
+- 娚 --> 南
 
 ## Datacheck
 ```dataview

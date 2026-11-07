@@ -57,6 +57,7 @@ tags: [lookup]
 - 溌 --> 発
 - 䢠 --> 送
 - 渢 --> 風
+- 喃 --> 南
 
 ## Data check
 ```dataview

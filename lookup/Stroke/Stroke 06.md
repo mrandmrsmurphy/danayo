@@ -36,6 +36,7 @@ tags:
 - 𠀝 --> 空
 - 艸 --> 草
 - 讽 --> 風
+- 收 --> 収
 
 ## Data check
 ```dataview

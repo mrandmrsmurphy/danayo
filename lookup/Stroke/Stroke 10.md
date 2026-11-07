@@ -57,6 +57,7 @@ tags:
 - 𥎵 --> 知
 - 谄 --> 諂
 - 哩 --> 里
+- 娚 --> 南
 
 ## Data check
 ```dataview
