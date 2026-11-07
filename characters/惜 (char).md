@@ -31,7 +31,7 @@ graphemic_classification: "昔"
 stand_in: "惜"
 aliases:
 注音: "ㄙㄝㄎ"
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: true
 tags:
   - character

@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 惜 perfected:** rank 1961 verified in `CC 1000`; both words listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 彙 perfected:** level links reordered to the standard Grade, HSK, Jōyō, Korean sequence; long-tail `mc_id` 4850 kept; four words and the chengyu listed. [AI]
+
 - **Character loop, 劃 perfected:** the Japanese-usage note moved after the four standard Notes bullets; `mc_id` 5823 kept as a trusted long-tail rank; both words listed. [AI]
 
 - **Character loop, 別 perfected:** rank 657 verified in `CC 0000` (neither alias ranks); all words, the chengyu and the one derived character (捌) listed; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
