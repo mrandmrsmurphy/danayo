@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 穢 perfected:** level links reordered to Grade, HSK, Jōyō, Korean; rank 1935 and its one word checked. [AI]
+
+- **Character loop, 煌 perfected:** rank 2063 verified in `CC 2000`; name-only character on `List of 名専字`, no words; no edits beyond the stamp. [AI]
+
 - **Character loop, 括 perfected:** rank 1919 verified in `CC 1000`; its word listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 徨 perfected:** added the missing Old Chinese reconstruction (*ɡʷaːŋ, the same as its phonetic 皇, per Zhengzhang's table on en.Wiktionary); long-tail `mc_id` 4520 kept; its word listed. [AI]
