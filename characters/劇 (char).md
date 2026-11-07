@@ -34,7 +34,7 @@ stand_in: 劇
 aliases:
   - 剧
 注音: ㄍㄝㄎ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

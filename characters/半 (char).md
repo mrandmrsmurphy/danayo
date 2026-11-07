@@ -27,7 +27,7 @@ mc_id: 711
 graphemic_classification: "会意"
 stand_in: "半"
 注音: "ㄅㄚㄋ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
