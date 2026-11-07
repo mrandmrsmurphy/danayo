@@ -198,6 +198,7 @@ aliases:
 - 做 --> 作
 - 脩 --> 修
 - 佰 --> 百
+- 傢 --> 家
 
 ## Data check
 ```dataview

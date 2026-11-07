@@ -41,6 +41,9 @@ tags: [lookup]
 ### +10 Strokes
 13. <ruby>[季](../../characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> - season
 
+### Aliases
+- 學 --> 学
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

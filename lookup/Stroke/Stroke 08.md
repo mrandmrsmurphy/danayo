@@ -56,6 +56,7 @@ tags:
 - 泼 --> 発
 - 佰 --> 百
 - 靑 --> 青
+- 卖 --> 売
 
 ## Data check
 ```dataview

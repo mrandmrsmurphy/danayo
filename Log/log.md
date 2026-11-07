@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 家 perfected to the current standard:** `## Aliases` section for 傢 (a separate character that Chinese simplified to 家; 傢具 is 家具 here), redirects added; frontmatter field order fixed (`hanmun_edu_level` moved to its place); rank 148, 34 words, four chengyu and both derived characters verified. [AI]
+
+- **Character loop, 学 perfected to the current standard:** `## Aliases` section for 學 (traditional; its rank 314 is the `mc_id`), redirects added; rank sentence dropped from Notes; all 68 words and 覚 verified. [AI]
+
+- **Character loop, 嫂 perfected to the current standard:** level links reordered to Grade, HSK, Jōyō, Korean; no aliases; rank 3100 and its one word verified. [AI]
+
+- **Character loop, 外 perfected to the current standard:** no aliases; rank 176 verified in `CC 0000`; all 24 words and both chengyu listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 売 perfected to the current standard:** `## Aliases` section for 賣 (traditional; its rank 1477 is the `mc_id`) and 卖 (simplified; SKIP 2-2-6 computed), redirects added; rank sentence dropped from Notes; its one word verified. Wiktionary gives 売 only as a simplification of 賣, so the existing 出 + 買 analysis stands. [AI]
+
 - **Character loop, 声 perfected to the current standard:** the notes had analysed the traditional 聲 (殸 + 耳); Wiktionary treats 声 itself as a pictograph of a stone chime, so `graphemic_classification` changed from 会意 to 象形 and the graphemic bullet rewritten. `## Aliases` section for 聲 (orthodox traditional form; its rank 84 is the `mc_id`) with redirects; 15 words and two chengyu verified. [AI]
 
 - **Character loop, 堡 perfected to the current standard:** no aliases; `mc_id` 0 confirmed (not in the Classical Chinese lists); all four words listed; no edits beyond the stamp. [AI]

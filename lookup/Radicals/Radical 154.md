@@ -91,6 +91,7 @@ tags:
 ### Aliases
 - 贊 --> 賛
 - 赞 --> 賛
+- 賣 --> 売
 
 ## Data check
 ```dataview

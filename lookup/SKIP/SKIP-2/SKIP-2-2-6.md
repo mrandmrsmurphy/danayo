@@ -31,6 +31,7 @@ tags: [lookup]
 - 单 --> 単
 - 兖 --> 兗
 - 兔 --> 兎
+- 卖 --> 売
 
 ## Datacheck
 ```dataview

@@ -42,6 +42,7 @@ tags: [lookup]
 
 ### Aliases
 - 单 --> 単
+- 卖 --> 売
 
 ## Data check
 ```dataview

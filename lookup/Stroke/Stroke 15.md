@@ -55,6 +55,7 @@ tags:
 - 撥 --> 発
 - 𣉻 --> 知
 - 鴈 --> 雁
+- 賣 --> 売
 
 ## Data check
 ```dataview

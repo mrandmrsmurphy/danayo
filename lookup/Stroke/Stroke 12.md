@@ -59,6 +59,7 @@ tags: [lookup]
 - 渢 --> 風
 - 喃 --> 南
 - 圍 --> 囲
+- 傢 --> 家
 
 ## Data check
 ```dataview
