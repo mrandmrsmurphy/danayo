@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### Aliases
 - 书 --> 書
+- 车 --> 車
 
 ## Datacheck
 ```dataview

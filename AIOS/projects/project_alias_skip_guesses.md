@@ -117,3 +117,10 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 空 | 𢦉 | 1-3-25 | computed from its parts |
 | 紙 | 纸 | 1-3-4 | computed from its parts |
 | 諂 | 谄 | 1-2-8 | computed from its parts |
+| 車 | 车 | 4-4-3 | computed from its parts |
+| 送 | 䢠 | 3-4-8 | computed from its parts |
+| 青 | 靑 | 2-5-3 | computed from its parts |
+| 青 | 𤯞 | 2-5-4 | computed from its parts |
+| 風 | 风 | 3-2-2 | computed from its parts |
+| 風 | 讽 | 1-2-4 | computed from its parts |
+| 馬 | 马 | 3-2-1 | computed from its parts |

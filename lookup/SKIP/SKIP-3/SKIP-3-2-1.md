@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[寸](/characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> - inch
 5. <ruby>[山](/characters/山%20(char).md)<rt>ㄙㄚㄋ</rt></ruby> - mountain
 
+### Aliases
+- 马 --> 馬
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

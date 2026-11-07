@@ -240,6 +240,7 @@ tags: [lookup]
 - 潑 --> 発
 - 溌 --> 発
 - 泼 --> 発
+- 渢 --> 風
 
 ## Data check
 ```dataview

@@ -145,6 +145,7 @@ tags:
 - 揃 --> 前
 - 𫝼 --> 発
 - 溌 --> 発
+- 渢 --> 風
 
 ## Datacheck
 ```dataview

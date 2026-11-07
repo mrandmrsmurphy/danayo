@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 颱 --> 台
+- 风 --> 風
 
 ## Data check
 ```dataview

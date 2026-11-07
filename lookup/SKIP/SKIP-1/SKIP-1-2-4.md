@@ -28,6 +28,7 @@ tags:
 
 ### Aliases
 - 传 --> 伝
+- 讽 --> 風
 
 ## Datacheck
 ```dataview

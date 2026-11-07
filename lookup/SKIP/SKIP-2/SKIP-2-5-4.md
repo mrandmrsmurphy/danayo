@@ -40,6 +40,7 @@ tags:
 - 尝 --> 嘗
 - 枽 --> 枼
 - 拏 --> 拿
+- 𤯞 --> 青
 
 ## Datacheck
 ```dataview

@@ -33,7 +33,7 @@ stand_in: 車
 aliases:
   - 车
 注音: ㄑ⺢
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 90
 - 198th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄑ⺢](../syllables/ㄑ⺢.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Had two Middle Chinese pronunciations: kɨʌ (literary) and tɕʰia (colloquial); Dan'a'yo's own pronunciation was altered from the expected derivation to secure a free syllable.
+
+## Aliases
+
+### 车
+Simplified Chinese form of 車 (Wiktionary). SKIP 4-4-3 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[車]]<rt>ㄑ⺢</rt></ruby> "cart; car" (stand-in for 車)

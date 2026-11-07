@@ -55,6 +55,8 @@ tags: [lookup]
 - 發 --> 発
 - 𫝼 --> 発
 - 溌 --> 発
+- 䢠 --> 送
+- 渢 --> 風
 
 ## Data check
 ```dataview

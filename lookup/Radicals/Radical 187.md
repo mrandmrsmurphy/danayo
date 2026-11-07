@@ -58,6 +58,7 @@ tags: [lookup]
 - 驶 --> 使
 - 駿 --> 俊
 - 骏 --> 俊
+- 马 --> 馬
 
 ## Data check
 ```dataview

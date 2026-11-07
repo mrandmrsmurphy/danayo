@@ -142,6 +142,8 @@ tags: [lookup]
 - 谈 --> 談
 - 詹 --> 旦
 - 谄 --> 諂
+- 讽 --> 風
+- 諷 --> 風
 
 ## Data check
 ```dataview

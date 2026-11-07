@@ -43,6 +43,7 @@ tags:
 ### Aliases
 - 奛 --> 明
 - 萅 --> 春
+- 菁 --> 青
 
 ## Datacheck
 ```dataview

@@ -54,6 +54,7 @@ tags:
 - 潑 --> 発
 - 撥 --> 発
 - 𣉻 --> 知
+- 鴈 --> 雁
 
 ## Data check
 ```dataview

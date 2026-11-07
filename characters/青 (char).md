@@ -32,7 +32,7 @@ aliases:
   - 𤯞
   - 菁
 注音: ㄑㄝㄫ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -51,6 +51,17 @@ boundedness: 90
 - 674th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄑㄝㄫ](../syllables/ㄑㄝㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "caesium": <ruby>[[青素]]<rt>ㄑㄝㄫㄙㄛ</rt></ruby>
+
+## Aliases
+
+### 靑
+The orthodox form of 青 in the Kangxi dictionary, and Kangxi radical 174 (Wiktionary), with 月 where 青 has 円. SKIP 2-5-3 (computed: EDRDG does not list it); 8 strokes. Radical 174 靑. It has no rank of its own in the Classical Chinese lists.
+
+### 𤯞
+Variant of 青 inspired by the Shuowen reading of it as 生 + 丹 (Wiktionary); a rare glyph with no use of its own. SKIP 2-5-4 (computed: EDRDG does not list it); 9 strokes. Radical 100 生. It has no rank of its own in the Classical Chinese lists.
+
+### 菁
+A separate character, 菁 (艹 + 青, "leek flower; turnip"), built with 青 as its phonetic (Wiktionary). SKIP 2-3-8; 11 strokes. Radical 140 艸. It ranks 3501 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[青]]<rt>ㄑㄝㄫ</rt></ruby> "blue" (stand-in for 青)

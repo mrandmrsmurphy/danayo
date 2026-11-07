@@ -58,6 +58,7 @@ tags:
 - 嘖 --> 責
 - 臺 --> 台
 - 颱 --> 台
+- 樋 --> 通
 
 ## Data check
 ```dataview

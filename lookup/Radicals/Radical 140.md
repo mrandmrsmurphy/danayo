@@ -170,6 +170,7 @@ tags:
 - 芩 --> 今
 - 萅 --> 春
 - 艸 --> 草
+- 菁 --> 青
 
 ## Data check
 ```dataview

@@ -37,6 +37,7 @@ tags:
 
 ### Aliases
 - 醗 --> 発
+- 諷 --> 風
 
 ## Datacheck
 ```dataview

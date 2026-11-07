@@ -29,7 +29,7 @@ stand_in: "送"
 aliases:
   - 䢠
 注音: "ㄙㄛㄫ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 80
 - [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 781st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄙㄛㄫ](../syllables/ㄙㄛㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 䢠
+Alternative form of 送 (Wiktionary); a rare glyph with no use of its own. SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[送]]<rt>ㄙㄛㄫ</rt></ruby> "give" (stand-in for 送)

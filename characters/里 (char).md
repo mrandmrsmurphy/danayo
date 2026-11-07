@@ -29,7 +29,7 @@ stand_in: 里
 aliases:
   - 哩
 注音: ㄌㄧ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 100
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Because of 毎字明意, we cannot accept the merger of 里 and 裏/裡, as Chinese does.
 - 里 is the traditional East Asian unit of distance; for the Western mile, use 英里.
+
+## Aliases
+
+### 哩
+A separate character, 哩 (口 + 里, archaic "mile"), built with 里 as its phonetic (Wiktionary); the mile is 英里 in Dan'a'yo. SKIP 1-3-7; 10 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[里]]<rt>ㄌㄧ</rt></ruby> "village" (stand-in for 里)

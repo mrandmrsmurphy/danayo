@@ -55,6 +55,7 @@ tags:
 - 拨 --> 発
 - 泼 --> 発
 - 佰 --> 百
+- 靑 --> 青
 
 ## Data check
 ```dataview

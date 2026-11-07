@@ -22,6 +22,7 @@ tags:
 ### Aliases
 - 个 --> 個
 - 𠀃 --> 且
+- 马 --> 馬
 
 ## Data check
 ```dataview

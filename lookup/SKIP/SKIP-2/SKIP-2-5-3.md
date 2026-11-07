@@ -21,6 +21,9 @@ tags: [lookup]
 9. <ruby>[夌](/characters/夌.md)<rt>ㄌ⼜ㄫ</rt></ruby> "dawdle"
 10. <ruby>[咅](/characters/咅.md)<rt>ㄆ⼄ㄨ</rt></ruby> "spit"
 
+### Aliases
+- 靑 --> 青
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

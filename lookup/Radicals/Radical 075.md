@@ -215,6 +215,7 @@ tags: [lookup]
 - 槕 --> 桌
 - 檯 --> 台
 - 榎 --> 夏
+- 樋 --> 通
 
 ## Data check
 ```dataview

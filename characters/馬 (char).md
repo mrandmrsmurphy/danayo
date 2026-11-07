@@ -31,7 +31,7 @@ stand_in: 馬
 aliases:
   - 马
 注音: ㄇㄚ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-3-6-4](../lookup/SKIP/SKIP-3/SKIP-3-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 145th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄇㄚ](../syllables/ㄇㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 马
+Simplified Chinese form of 馬, from the cursive script form (Wiktionary). SKIP 3-2-1 (computed: EDRDG does not list it); 3 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[馬]]<rt>ㄇㄚ</rt></ruby> "horse" (stand-in for 馬)

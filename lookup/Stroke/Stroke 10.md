@@ -56,6 +56,7 @@ tags:
 - 眞 --> 真
 - 𥎵 --> 知
 - 谄 --> 諂
+- 哩 --> 里
 
 ## Data check
 ```dataview

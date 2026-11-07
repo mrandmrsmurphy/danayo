@@ -19,6 +19,9 @@ tags: [lookup]
 ### +7 Strokes
 3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - nephew
 
+### Aliases
+- 𤯞 --> 青
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

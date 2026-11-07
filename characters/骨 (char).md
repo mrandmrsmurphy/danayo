@@ -31,7 +31,7 @@ mc_id: 718
 graphemic_classification: 冎
 stand_in: 骨
 注音: ㄍㄛㄊ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

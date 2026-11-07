@@ -34,7 +34,7 @@ aliases:
   - 讽
   - 諷
 注音: "ㄈㄨㄫ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,20 @@ boundedness: 90
 - [SKIP-3-2-7](../lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 279th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄈㄨㄫ](../syllables/ㄈㄨㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 风
+Simplified Chinese form of 風, with 㐅 inside 几 in place of 䖝 (Wiktionary). SKIP 3-2-2 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 渢
+A separate character, 渢 (氵 + 風, "sound of water"), built with 風 as its phonetic. SKIP 1-3-9; 12 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+
+### 讽
+Simplified Chinese form of 諷 (讠 + 风) (Wiktionary). SKIP 1-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 149 言. It has no rank of its own in the Classical Chinese lists.
+
+### 諷
+A separate character, 諷 (言 + 風, "to satirize, to criticize indirectly"), built with 風 as its phonetic (Wiktionary); 風刺 is the Dan'a'yo word for satire. SKIP 1-7-9; 16 strokes. Radical 149 言. It ranks 2232 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[風]]<rt>ㄈㄨㄫ</rt></ruby> "wind" (stand-in for 風)

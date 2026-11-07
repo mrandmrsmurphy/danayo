@@ -109,6 +109,7 @@ tags: [lookup]
 
 ### Aliases
 - 迴 --> 回
+- 䢠 --> 送
 
 ## Data check
 ```dataview

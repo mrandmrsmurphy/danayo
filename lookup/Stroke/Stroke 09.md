@@ -60,6 +60,7 @@ tags:
 - 眀 --> 明
 - 宥 --> 有
 - 秌 --> 秋
+- 𤯞 --> 青
 
 ## Data check
 ```dataview

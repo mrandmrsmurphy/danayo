@@ -69,6 +69,8 @@ date-last-perfect: 2026-10-05
 - 䳟 --> 明
 - 鷆 --> 真
 - 鷏 --> 真
+- 鴈 --> 雁
+- 鳫 --> 雁
 
 ## Data check
 ```dataview

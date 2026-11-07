@@ -84,6 +84,7 @@ tags:
 - 涤 --> 浄
 - 骏 --> 俊
 - 𣴠 --> 活
+- 哩 --> 里
 
 ## Datacheck
 ```dataview

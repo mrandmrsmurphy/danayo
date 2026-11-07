@@ -4,6 +4,24 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 骨 perfected to the current standard:** no aliases; rank 718 verified in `CC 0000`; all 18 words, both chengyu and both derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 馬 perfected to the current standard:** `## Aliases` section for 马 (simplified from the cursive form; SKIP 3-2-1 computed), redirects added; rank 145, 19 words and seven derived characters verified. [AI]
+
+- **Character loop, 風 perfected to the current standard:** `## Aliases` section for 风, 渢, 讽 and 諷 (simplified forms and two separate characters built on 風; two SKIP numbers computed), redirects added; rank 279, 15 words, four chengyu and both derived characters verified. [AI]
+
+- **Character loop, 青 perfected to the current standard:** `## Aliases` section for 靑 (the Kangxi orthodox form), 𤯞 and 菁 (Wiktionary on both pages; two SKIP numbers computed), redirects added; rank 674, 12 words and ten derived characters verified. [AI]
+
+- **Character loop, 雁 perfected to the current standard:** `mc_id` changed from 2451 to 1843, the rank of its alias 鴈 (`CC 1000`), per the lowest-alias-rank rule; `## Aliases` section for 鴈 and 鳫 with redirects; rank sentence dropped from Notes; one word and the chengyu verified. [AI]
+
+- **Character loop, 里 perfected to the current standard:** `## Aliases` section for 哩 (口 + 里, archaic "mile"), redirects added; rank 212, six words, the chengyu and seven derived characters verified. [AI]
+
+- **Character loop, 通 perfected to the current standard:** `## Aliases` section for 樋 (no Wiktionary link found beyond its shape; says so), redirects added; 甬's Old Chinese reading added (*loŋʔ, Zhengzhang via en.Wiktionary); rank 252, 15 words and the chengyu verified. [AI]
+
+- **Character loop, 送 perfected to the current standard:** `## Aliases` section for 䢠 (alternative form per Wiktionary; bare mention; SKIP 3-4-8 computed), redirects added; rank 781, ten words and the chengyu verified. [AI]
+
+- **Character loop, 車 perfected to the current standard:** `## Aliases` section for 车 (simplified; SKIP 4-4-3 computed), redirects added; rank 198, 15 words and eight derived characters verified. [AI]
+
 - **Character loop, 起 perfected to the current standard:** no aliases; filled in 巳's Old Chinese reading (*ljɯʔ, *lɯs, Zhengzhang via en.Wiktionary) where the page said uncertain; rank 247, seven words and the chengyu verified. [AI]
 
 - **Character loop, 走 perfected to the current standard:** no aliases; rank 525 verified in `CC 0000`; five words, the chengyu and three semantic derived characters listed; no edits beyond the stamp. [AI]

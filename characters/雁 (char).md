@@ -24,7 +24,7 @@ joyo_level: "日本人名用漢字"
 hsk_level: "無"
 hanmun_edu_level: "高等"
 danayo_id: 8165
-mc_id: 2451
+mc_id: 1843
 graphemic_classification: "厂"
 stand_in: "雁"
 aliases:
@@ -32,7 +32,7 @@ aliases:
   - 鳫
 注音: "ㄚㄋ"
 kwin: true
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 65
@@ -48,8 +48,16 @@ boundedness: 65
 ## Notes
 - 形声 (OC \*ŋraːns): phonetic [[Radical 027|厂]] (OC \*hŋaːnʔ, \*hŋaːns) + semantic [[Radical 009|人]] ("person") and [[Radical 172|隹]] ("bird") — the bird radical marks the meaning "wild goose," while 人 contributes a further semantic nuance alongside 厂's sound. 
 - [SKIP-3-2-10](../lookup/SKIP/SKIP-3/SKIP-3-2-10.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 2451st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 刪開|ɣan]] → [ㄚㄋ](../syllables/ㄚㄋ.md)
+- Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 刪開|ɣan]] → [ㄚㄋ](../syllables/ㄚㄋ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 鴈
+Variant of 雁 with 鳥 in place of 隹 (Wiktionary); Japanese uses it as an alternative spelling. SKIP 3-2-13; 15 strokes. Radical 196 鳥. This form is the one the Classical Chinese lists rank, so the `mc_id` 1843 is 鴈's rank.
+
+### 鳫
+Variant of 雁 (Wiktionary), written 厂 + 人 + 鳥; in Japanese an alternative form of 鴈 and 雁. SKIP 3-2-11; 13 strokes. Radical 196 鳥. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[雁]]<rt>ㄚㄋ</rt></ruby> "wild goose" (stand-in for 雁)

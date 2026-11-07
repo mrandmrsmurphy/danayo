@@ -28,6 +28,7 @@ tags: [lookup]
 
 ### Aliases
 - 內 --> 内
+- 风 --> 風
 
 ## Datacheck
 ```dataview

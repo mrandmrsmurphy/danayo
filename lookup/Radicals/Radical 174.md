@@ -18,6 +18,9 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[静](../../characters/静.md)<rt>ㄐㄝㄫ</rt></ruby> - quiet
 
+### Aliases
+- 靑 --> 青
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -53,6 +53,9 @@ tags: [lookup]
 20. <ruby>[輿](../../characters/輿%20(char).md)<rt>⼄</rt></ruby> - palanquin
 21. <ruby>[轄](../../characters/轄%20(char).md)<rt>ㄏㄚㄊ</rt></ruby> - linchpin of a wheel
 
+### Aliases
+- 车 --> 車
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

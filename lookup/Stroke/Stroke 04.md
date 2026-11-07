@@ -26,6 +26,8 @@ tags: [lookup]
 - 卬 --> 卯
 - 𠀇 --> 且
 - 內 --> 内
+- 车 --> 車
+- 风 --> 風
 
 ## Data check
 ```dataview

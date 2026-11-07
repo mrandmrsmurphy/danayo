@@ -56,6 +56,7 @@ tags:
 - 萅 --> 春
 - 猟 --> 獵
 - 猎 --> 獵
+- 菁 --> 青
 
 ## Data check
 ```dataview

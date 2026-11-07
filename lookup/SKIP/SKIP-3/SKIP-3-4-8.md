@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[量](/characters/量.md)<rt>ㄌ⼘ㄫ</rt></ruby> - measure
 
+### Aliases
+- 䢠 --> 送
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
