@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 劃 perfected:** the Japanese-usage note moved after the four standard Notes bullets; `mc_id` 5823 kept as a trusted long-tail rank; both words listed. [AI]
+
 - **Character loop, 別 perfected:** rank 657 verified in `CC 0000` (neither alias ranks); all words, the chengyu and the one derived character (捌) listed; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
 
 - **Character loop, 兎 perfected:** `mc_id` changed from 9935 to 1725, the rank of its alias 兔 (`CC 1000`), per the lowest-alias-rank rule; MC bullet reworded. Word and chengyu complete. No `## Aliases` section yet (to-do; it would also hold the 兔 redirects). [AI]
