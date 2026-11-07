@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 指 perfected to the current standard:** no aliases; rank 807 verified in `CC 0000`; all 18 words and the chengyu listed, no derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 打 perfected to the current standard:** `mc_id` changed from 0 to 3428, the lowest rank among its aliases 奕 (3428) and 弈 (3830), per the lowest-alias-rank rule; `## Aliases` section for 奕 and 弈 with redirects, both saying that Wiktionary shows no connection to 打 (open question for Murphy: they look like mistaken aliases); seven words and two chengyu verified. [AI]
+
+- **Character loop, 憂 perfected to the current standard:** `## Aliases` section for 忧 (simplified; SKIP 1-3-4 computed), redirects added; rank 390, two words and both derived characters verified. [AI]
+
+- **Character loop, 影 perfected to the current standard:** `## Aliases` section for 翳 (a separate character, no Wiktionary link found; ranks 2413, so `mc_id` stays 2397), redirects added; rank and seven words verified. [AI]
+
 - **Character loop, 彬 perfected to the current standard:** `## Aliases` section for 霦 (only in 璘霦, written 燐彬 here; SKIP 2-8-11 computed), redirects added; rank 3714, two words and the chengyu verified. [AI]
 
 - **Character loop, 廠 perfected to the current standard:** `mc_id` changed from 0 to 3593, the rank of its alias 厂 (`CC 3000`), per the lowest-alias-rank rule, though that rank belongs to 厂's cliff sense; `## Aliases` section for 厰 and 厂 with redirects; rank sentence dropped from Notes; its one word verified. [AI]

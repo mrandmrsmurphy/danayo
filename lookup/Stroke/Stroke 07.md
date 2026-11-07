@@ -49,6 +49,7 @@ tags:
 - 帋 --> 紙
 - 呙 --> 咼
 - 围 --> 囲
+- 忧 --> 憂
 
 ## Data check
 ```dataview

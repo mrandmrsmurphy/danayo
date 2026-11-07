@@ -132,3 +132,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 師 | 师 | 1-1-5 | computed from its parts |
 | 幸 | 㚔 | 2-3-5 | computed from its parts |
 | 彬 | 霦 | 2-8-11 | computed from its parts |
+| 憂 | 忧 | 1-3-4 | computed from its parts |

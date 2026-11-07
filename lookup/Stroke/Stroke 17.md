@@ -48,6 +48,7 @@ tags:
 - 膽 --> 胆
 - 點 --> 点
 - 聲 --> 声
+- 翳 --> 影
 
 ## Data check
 ```dataview

@@ -48,6 +48,9 @@ tags: [lookup]
 ### +14 Strokes
 16. <ruby>[耀](../../characters/耀.md)<rt>⼄ㄨ</rt></ruby> - shine
 
+### Aliases
+- 翳 --> 影
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

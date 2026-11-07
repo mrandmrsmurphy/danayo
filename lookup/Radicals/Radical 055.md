@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Aliases
 - 弃 --> 棄
+- 弈 --> 打
 
 ## Data check
 ```dataview

@@ -162,6 +162,7 @@ tags: [lookup]
 - 懼 --> 惧
 - 恳 --> 懇
 - 𢦉 --> 空
+- 忧 --> 憂
 
 ## Data check
 ```dataview

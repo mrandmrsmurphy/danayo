@@ -26,6 +26,9 @@ tags: [lookup]
 14. <ruby>[要](/characters/要.md)<rt>⼄ㄨ</rt></ruby> "important; need"
 15. <ruby>[竿](/characters/竿.md)<rt>ㄍㄚㄋ</rt></ruby> "bamboo pole"
 
+### Aliases
+- 弈 --> 打
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

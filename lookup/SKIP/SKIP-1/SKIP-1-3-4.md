@@ -73,6 +73,7 @@ tags:
 - 戼 --> 卯
 - 饭 --> 飯
 - 纸 --> 紙
+- 忧 --> 憂
 
 ## Datacheck
 ```dataview
