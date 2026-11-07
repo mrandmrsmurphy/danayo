@@ -21,6 +21,9 @@ tags: [lookup]
 10. <ruby>[逮](/characters/逮.md)<rt>ㄉㄚㄧ</rt></ruby> "apprehend; catch"
 11. <ruby>[康](/characters/康.md)<rt>ㄎㄚㄫ</rt></ruby> "healthy"
 
+### Aliases
+- 國 --> 国
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

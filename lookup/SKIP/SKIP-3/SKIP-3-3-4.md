@@ -29,6 +29,9 @@ tags: [lookup]
 16. <ruby>[返](/characters/返.md)<rt>ㄈㄛㄋ</rt></ruby> "return"
 17. <ruby>[迎](/characters/迎.md)<rt>⼶ㄫ</rt></ruby> "welcome"
 
+### Aliases
+- 围 --> 囲
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

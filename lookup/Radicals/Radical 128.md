@@ -46,6 +46,9 @@ tags: [lookup]
 ### +16 Strokes
 14. <ruby>[聾](../../characters/聾.md)<rt>ㄌㄛㄫ</rt></ruby> - deaf
 
+### Aliases
+- 聲 --> 声
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

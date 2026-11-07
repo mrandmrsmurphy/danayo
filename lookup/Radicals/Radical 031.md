@@ -42,6 +42,11 @@ tags: [lookup]
 15. <ruby>[圓](../../characters/圓%20(char).md)<rt>⼔ㄋ</rt></ruby> - circle
 16. <ruby>[園](../../characters/園.md)<rt>ㄛㄋ</rt></ruby> - garden
 
+### Aliases
+- 圍 --> 囲
+- 围 --> 囲
+- 國 --> 国
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -176,6 +176,7 @@ tags: [lookup]
 - 噹 --> 当
 - 哩 --> 里
 - 喃 --> 南
+- 呙 --> 咼
 
 ## Data check
 ```dataview

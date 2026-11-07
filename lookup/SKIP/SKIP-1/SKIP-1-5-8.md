@@ -38,6 +38,7 @@ tags: [lookup]
 
 ### Aliases
 - 雏 --> 雛
+- 號 --> 号
 
 ## Datacheck
 ```dataview

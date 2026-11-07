@@ -198,6 +198,8 @@ tags: [lookup]
 - 撥 --> 発
 - 𫝼 --> 発
 - 拨 --> 発
+- 摑 --> 国
+- 掴 --> 国
 
 ## Data check
 ```dataview

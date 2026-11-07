@@ -125,3 +125,6 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 風 | 讽 | 1-2-4 | computed from its parts |
 | 馬 | 马 | 3-2-1 | computed from its parts |
 | 友 | 㕛 | 1-2-2 | computed from its parts |
+| 咼 | 呙 | 2-3-4 | computed from its parts |
+| 囲 | 围 | 3-3-4 | computed from its parts |
+| 国 | 帼 | 1-3-8 | computed from its parts |

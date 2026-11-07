@@ -60,6 +60,7 @@ tags:
 - 詹 --> 旦
 - 滚 --> 滾
 - 鳫 --> 雁
+- 號 --> 号
 
 ## Data check
 ```dataview

@@ -47,6 +47,7 @@ tags:
 - 駿 --> 俊
 - 膽 --> 胆
 - 點 --> 点
+- 聲 --> 声
 
 ## Data check
 ```dataview

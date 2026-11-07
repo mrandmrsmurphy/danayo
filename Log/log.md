@@ -4,6 +4,22 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 声 perfected to the current standard:** the notes had analysed the traditional 聲 (殸 + 耳); Wiktionary treats 声 itself as a pictograph of a stone chime, so `graphemic_classification` changed from 会意 to 象形 and the graphemic bullet rewritten. `## Aliases` section for 聲 (orthodox traditional form; its rank 84 is the `mc_id`) with redirects; 15 words and two chengyu verified. [AI]
+
+- **Character loop, 堡 perfected to the current standard:** no aliases; `mc_id` 0 confirmed (not in the Classical Chinese lists); all four words listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 国 perfected to the current standard:** `## Aliases` section for 國 (traditional; its rank 30 is the `mc_id`), 幗, 帼, 摑 and 掴 (SKIP of 帼 computed), redirects added; rank sentence dropped from Notes; 65 words and the chengyu verified. Wiktionary gives 国 only as a simplification (或 replaced by 玉), so the 或 phonetic stands. [AI]
+
+- **Character loop, 囲 perfected to the current standard:** `## Aliases` section for 圍 (traditional; its rank 660 is the `mc_id`) and 围 (simplified; SKIP 3-3-4 computed), redirects added; rank sentence dropped from Notes; six words verified. Wiktionary gives no separate analysis of 囲, so the 韋 phonetic stands. [AI]
+
+- **Character loop, 囚 perfected to the current standard:** no aliases; rank 1246 verified in `CC 1000`; both words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 咼 perfected to the current standard:** `## Aliases` section for 呙 (simplified; SKIP 2-3-4 computed), redirects added; long-tail `mc_id` 5304 kept; name-only character on `List of 名専字`; six derived characters verified. [AI]
+
+- **Character loop, 和 perfected to the current standard:** no aliases; rank 266 verified in `CC 0000`; all 17 words and both chengyu listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 号 perfected to the current standard:** `## Aliases` section for 號 (the traditional form, whose rank 521 is the `mc_id`), redirects added; rank sentence dropped from Notes; 12 words verified. [AI]
+
 - **Character loop, 受 perfected to the current standard:** no aliases; rank 185 verified in `CC 0000`; all 11 words and 授 listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 収 perfected to the current standard:** `## Aliases` section for 收 (the traditional form, whose rank 586 is the `mc_id`), redirects added; rank sentence dropped from Notes; eight words verified. [AI]

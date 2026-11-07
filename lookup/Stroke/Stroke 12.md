@@ -58,6 +58,7 @@ tags: [lookup]
 - 䢠 --> 送
 - 渢 --> 風
 - 喃 --> 南
+- 圍 --> 囲
 
 ## Data check
 ```dataview

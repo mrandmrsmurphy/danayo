@@ -59,6 +59,7 @@ tags:
 - 臺 --> 台
 - 颱 --> 台
 - 樋 --> 通
+- 幗 --> 国
 
 ## Data check
 ```dataview

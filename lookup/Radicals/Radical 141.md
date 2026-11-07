@@ -23,6 +23,9 @@ tags: [lookup]
 4. <ruby>[虞](../../characters/虞.md)<rt>ㄨ</rt></ruby> - anxious
 5. <ruby>[虜](../../characters/虜.md)<rt>ㄌㄛ</rt></ruby> - take captive
 
+### Aliases
+- 號 --> 号
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

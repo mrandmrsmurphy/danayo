@@ -59,6 +59,8 @@ tags:
 ### Aliases
 - 幂 --> 冪
 - 帋 --> 紙
+- 幗 --> 国
+- 帼 --> 国
 
 ## Data check
 ```dataview

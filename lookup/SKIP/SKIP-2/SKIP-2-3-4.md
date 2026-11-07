@@ -47,6 +47,7 @@ tags:
 
 ### Aliases
 - 芩 --> 今
+- 呙 --> 咼
 
 ## Datacheck
 ```dataview
