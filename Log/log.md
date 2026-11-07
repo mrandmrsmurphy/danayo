@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 草 perfected to the current standard:** `## Aliases` section for 艸 (archaic form and Kangxi radical 140; ranks 1139, so `mc_id` stays 590), redirects added; the alias remark moved out of Notes; 16 words verified. [AI]
+
+- **Character loop, 苦 perfected to the current standard:** no aliases; rank 622 verified in `CC 0000`; all 14 words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 育 perfected to the current standard:** no aliases; rank 1270 verified in `CC 1000`; all seven words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 紙 perfected to the current standard:** `## Aliases` section for 纸 (simplified; SKIP 1-3-4 computed) and 帋 (variant), redirects added; long-tail `mc_id` 4708 kept; four words verified. [AI]
+
 - **Character loop, 米 perfected to the current standard:** no aliases; rank 1319 verified in `CC 1000`; all ten words and nine derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 竹 perfected to the current standard:** no aliases; rank 1130 verified in `CC 1000`; all five words listed and both characters with 竹 as phonetic (竺, 篤) are in Derived Characters; the bamboo-radical family (43 characters) stays on `Radical 118`; no edits beyond the stamp. [AI]

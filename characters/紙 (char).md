@@ -31,7 +31,7 @@ aliases:
   - 纸
   - 帋
 注音: ㄐㄝ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -49,6 +49,14 @@ boundedness: 75
 - [SKIP-1-6-4](../lookup/SKIP/SKIP-1/SKIP-1-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 4708th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄐㄝ](../syllables/ㄐㄝ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 纸
+Simplified Chinese form of 紙 (纟 + 氏) (Wiktionary). SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 帋
+Variant form of 紙 (Wiktionary), written 巾 + 氏. SKIP 2-4-3; 7 strokes. Radical 050 巾. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[紙]]<rt>ㄐㄝ</rt></ruby> "paper" (stand-in for 紙)

@@ -115,3 +115,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 秋 | 秌 | 1-5-4 | computed from its parts |
 | 空 | 𠀝 | 2-2-4 | computed from its parts |
 | 空 | 𢦉 | 1-3-25 | computed from its parts |
+| 紙 | 纸 | 1-3-4 | computed from its parts |

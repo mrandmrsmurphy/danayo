@@ -58,6 +58,7 @@ tags:
 
 ### Aliases
 - 幂 --> 冪
+- 帋 --> 紙
 
 ## Data check
 ```dataview

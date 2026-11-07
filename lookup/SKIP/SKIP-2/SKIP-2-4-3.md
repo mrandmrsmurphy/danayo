@@ -28,6 +28,7 @@ tags: [lookup]
 
 ### Aliases
 - 夋 --> 酸
+- 帋 --> 紙
 
 ## Datacheck
 ```dataview

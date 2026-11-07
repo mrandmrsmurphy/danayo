@@ -129,6 +129,7 @@ tags: [lookup]
 - 绝 --> 絶
 - 练 --> 練
 - 綾 --> 凌
+- 纸 --> 紙
 
 ## Data check
 ```dataview

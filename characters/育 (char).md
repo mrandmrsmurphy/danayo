@@ -31,7 +31,7 @@ graphemic_classification: 肉
 stand_in: 育
 aliases:
 注音: ⼜ㄎ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

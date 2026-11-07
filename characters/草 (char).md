@@ -31,7 +31,7 @@ stand_in: 草
 aliases:
   - 艸
 注音: ㄑㄚㄨ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -45,10 +45,15 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC \*sʰuːʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[早 (char)|早]] (OC \*ʔsuːʔ) — originally the name of a specific bitter plant (and a loan for 皂), 草 later displaced 艸 itself as the general word for "grass" (艸 survives here only as this character's own listed alias, not a separate page).
+- 形声 (OC \*sʰuːʔ): semantic [[Radical 140|艸]] ("grass") + phonetic [[早 (char)|早]] (OC \*ʔsuːʔ) — originally the name of a specific bitter plant (and a loan for 皂).
 - [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 590th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 艸
+Archaic form of 草 (Wiktionary) and Kangxi radical 140, 草's own radical; 草 displaced it as the general word for "grass". SKIP 1-3-3; 6 strokes. It ranks 1139 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[草]]<rt>ㄑㄚㄨ</rt></ruby> "grass" (stand-in for 草)

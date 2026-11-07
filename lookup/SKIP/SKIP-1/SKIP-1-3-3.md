@@ -36,6 +36,7 @@ tags:
 
 ### Aliases
 - 她 --> 他
+- 艸 --> 草
 
 ## Datacheck
 ```dataview

@@ -34,6 +34,7 @@ tags:
 - 划 --> 劃
 - 𠂤 --> 堆
 - 𠀝 --> 空
+- 艸 --> 草
 
 ## Data check
 ```dataview

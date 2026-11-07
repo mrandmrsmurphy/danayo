@@ -169,6 +169,7 @@ tags:
 - 药 --> 薬
 - 芩 --> 今
 - 萅 --> 春
+- 艸 --> 草
 
 ## Data check
 ```dataview
