@@ -31,7 +31,7 @@ aliases:
   - 芩
 注音: ㄍㄧㄇ
 kwin: false
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 tags:
   - character
 boundedness: 90
@@ -67,3 +67,11 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[古今東西]]<rt>ㄍㄛㄍㄧㄇㄉㄛㄫㄙㄝㄧ</rt></ruby> "at all times and in all places"
+
+## Derived Characters
+- <ruby>[[吟]]<rt>ㄜㄇ</rt></ruby> "hum"
+- <ruby>[[含]]<rt>ㄏㄚㄇ</rt></ruby> "include"
+- <ruby>[[禽]]<rt>ㄎㄧㄇ</rt></ruby> "fowl"
+- <ruby>[[貪 (char)|貪]]<rt>ㄊㄚㄇ</rt></ruby> "greedy"
+- <ruby>[[金 (char)|金]]<rt>ㄍㄧㄇ</rt></ruby> "metal"
+- <ruby>[[龕 (char)|龕]]<rt>ㄎㄚㄇ</rt></ruby> "shrine"

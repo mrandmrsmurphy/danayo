@@ -28,7 +28,7 @@ danayo_id: 108
 mc_id: 498
 graphemic_classification: 象形
 stand_in: 交
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 aliases:
   - 胶
   - 淆
@@ -89,3 +89,8 @@ boundedness: 80
 - <ruby>[[咬 (char)|咬]]<rt>⼘ㄨ</rt></ruby> "bite"
 - <ruby>[[校]]<rt>ㄏ⼘ㄨ</rt></ruby> "school"
 - <ruby>[[狡]]<rt>ㄍ⼄ㄨ</rt></ruby> "cunning"
+- <ruby>[[効]]<rt>ㄏ⼘ㄨ</rt></ruby> "effect"
+- <ruby>[[較]]<rt>ㄍㄚㄎ</rt></ruby> "compare"
+- <ruby>[[郊]]<rt>ㄍ⼄ㄨ</rt></ruby> "outskirts"
+- <ruby>[[餃]]<rt>ㄍ⼄ㄨ</rt></ruby> "gyoza"
+- <ruby>[[鮫]]<rt>ㄍ⼄ㄨ</rt></ruby> "shark"
