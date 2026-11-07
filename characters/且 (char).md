@@ -33,7 +33,7 @@ aliases:
   - 𠀇
   - 𠀃
 注音: ㄑㄛ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

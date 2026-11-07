@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 且 perfected:** rank 231 verified in `CC 0000`; four words and eleven derived characters complete; no edits beyond the stamp. [AI]
+
+- **Character loop, 髄 perfected:** added the missing Old Chinese reconstruction (*slolʔ, Zhengzhang via en.Wiktionary's entry for 髓); rank 2466 (alias 髓) verified in `CC 2000`; both words listed. [AI]
+
 - **Character loop, 責 perfected:** rank 863 verified in `CC 0000`; three words and four derived characters complete; no edits beyond the stamp. [AI]
 
 - **Character loop, 貌 perfected:** rank 1192 verified in `CC 1000` (alias 皃 ranks 1724, lower); its word listed; no edits beyond the stamp. [AI]
