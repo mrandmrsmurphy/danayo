@@ -33,7 +33,7 @@ stand_in: "前"
 aliases:
   - 揃
 注音: "ㄐㄝㄋ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

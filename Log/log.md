@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 前 perfected:** rank 235 verified in `CC 0000`; all 21 words, both chengyu and the three derived characters listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 刈 perfected:** rank 3233 verified in `CC 3000`; its word listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 出 perfected:** rank 73 verified in `CC 0000`; words and chengyu complete; missing derived character 屈 added. [AI]
