@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 亀 perfected:** `mc_id` 1059 is the rank of its alias 龜 (`CC 1000`), consistent with the lowest-alias-rank rule; all five words listed; no edits beyond the stamp. No `## Aliases` section yet (to-do, and it is where the 龜 rank would be explained). [AI]
+
+- **Character loop, 乃 perfected:** rank 63 checked against `CC 0000`; its one derived character (仍) and one word confirmed; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
+
 - **Character loop, 下 perfected:** rank 21 checked against `CC 0000`; every word and chengyu using it is listed; no edits beyond the stamp. It lacks an `## Aliases` section (to-do) and its alias 丅 has no Stroke or SKIP redirect yet. [AI]
 
 - **Character loop, 蜆 perfected:** `mc_id` set to 0 (absent from the ranking, as is its alias 蚬), MC bullet reworded, homophones checked against the vault. [AI]

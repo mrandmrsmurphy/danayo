@@ -36,7 +36,7 @@ aliases:
   - 𪚦
 注音: ㄍㄨㄛ
 kwin: false
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 tags:
   - character
 boundedness: 65
