@@ -16,6 +16,7 @@ date-last-perfect: 2026-10-31
 
 ### Aliases
 - 丅 --> 下
+- 厂 --> 廠
 
 ## Datacheck
 ```dataview

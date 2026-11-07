@@ -199,6 +199,7 @@ aliases:
 - 脩 --> 修
 - 佰 --> 百
 - 傢 --> 家
+- 倖 --> 幸
 
 ## Data check
 ```dataview

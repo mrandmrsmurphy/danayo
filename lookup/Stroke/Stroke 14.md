@@ -60,6 +60,7 @@ tags:
 - 颱 --> 台
 - 樋 --> 通
 - 幗 --> 国
+- 厰 --> 廠
 
 ## Data check
 ```dataview

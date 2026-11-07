@@ -40,6 +40,7 @@ tags:
 - 谈 --> 談
 - 诞 --> 誕
 - 谄 --> 諂
+- 倖 --> 幸
 
 ## Datacheck
 ```dataview

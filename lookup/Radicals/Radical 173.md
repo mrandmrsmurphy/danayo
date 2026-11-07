@@ -57,6 +57,7 @@ tags: [lookup]
 ### Aliases
 - 霄 --> 宵
 - 䨭 --> 宵
+- 霦 --> 彬
 
 ## Data check
 ```dataview

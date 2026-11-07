@@ -37,6 +37,7 @@ tags:
 - 贊 --> 賛
 - 䳟 --> 明
 - 醱 --> 発
+- 霦 --> 彬
 
 ## Data check
 ```dataview

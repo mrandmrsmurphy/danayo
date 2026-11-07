@@ -96,7 +96,7 @@ def main():
         if r:
             if mc.isdigit() and int(mc)==r and (mainrank is None or r<mainrank): txt+=f" This form is the one the Classical Chinese lists rank, so the `mc_id` {r} is {a}'s rank."
             elif mc.isdigit() and int(mc) and int(mc)<r: txt+=f" It ranks {r} in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank."
-            else: txt+=f" It ranks {r} in the Classical Chinese lists; the page's `mc_id` should be {min(r,*( [mainrank] if mainrank else []))}."
+            else: txt+=f" It ranks {r} in the Classical Chinese lists; the page's `mc_id` should be {min([r]+([mainrank] if mainrank else []))}."
         else: txt+=" It has no rank of its own in the Classical Chinese lists."
         secs.append((a,txt,skip,strokes,rn if rn and rn!=mrad else None))
         if s.get("guess"): guesses.append((a,skip,s["text"]))

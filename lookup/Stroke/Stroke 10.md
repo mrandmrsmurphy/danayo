@@ -58,6 +58,7 @@ tags:
 - 谄 --> 諂
 - 哩 --> 里
 - 娚 --> 南
+- 倖 --> 幸
 
 ## Data check
 ```dataview

@@ -57,6 +57,7 @@ tags:
 - 佰 --> 百
 - 靑 --> 青
 - 卖 --> 売
+- 㚔 --> 幸
 
 ## Data check
 ```dataview

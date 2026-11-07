@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 彬 perfected to the current standard:** `## Aliases` section for 霦 (only in 璘霦, written 燐彬 here; SKIP 2-8-11 computed), redirects added; rank 3714, two words and the chengyu verified. [AI]
+
+- **Character loop, 廠 perfected to the current standard:** `mc_id` changed from 0 to 3593, the rank of its alias 厂 (`CC 3000`), per the lowest-alias-rank rule, though that rank belongs to 厂's cliff sense; `## Aliases` section for 厰 and 厂 with redirects; rank sentence dropped from Notes; its one word verified. [AI]
+
+- **Character loop, 庭 perfected to the current standard:** no aliases; rank 992 verified in `CC 0000`; all four words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 度 perfected to the current standard:** no aliases; rank 312 verified in `CC 0000`; all 29 words and both derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 幸 perfected to the current standard:** `## Aliases` section for 㚔 (variant; bare mention; SKIP 2-3-5 computed) and 倖 (simplified to 幸), redirects added; rank 487, three words and 睾 verified. [AI]
+
 - **Character loop, 師 perfected to the current standard:** `## Aliases` section for 师 (simplified, 刂 for 𠂤; SKIP 1-1-5 computed), redirects added, with one new redirect-only SKIP leaf (1-1-5) and its index entry on `SKIP-1-1`; rank 141, six words and 獅 verified. [AI]
 
 - **Character loop, 市 perfected to the current standard:** the note about 巿 moved after the four standard Notes bullets; no aliases; rank 668, six words and two derived characters verified. [AI]

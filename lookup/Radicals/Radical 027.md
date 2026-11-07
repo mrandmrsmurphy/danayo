@@ -40,6 +40,8 @@ tags: [lookup]
 ### Aliases
 - 厕 --> 厠
 - 㕑 --> 厨
+- 厰 --> 廠
+- 厂 --> 廠
 
 ## Data check
 ```dataview

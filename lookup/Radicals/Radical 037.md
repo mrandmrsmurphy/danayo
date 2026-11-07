@@ -59,6 +59,7 @@ tags: [lookup]
 ### Aliases
 - 奛 --> 明
 - 奌 --> 点
+- 㚔 --> 幸
 
 ## Data check
 ```dataview
