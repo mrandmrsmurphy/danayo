@@ -34,7 +34,7 @@ stand_in: 全
 aliases:
   - 㒰
 注音: ㄐ⼔ㄋ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

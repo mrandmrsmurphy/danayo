@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 全 perfected:** rank 872 verified in `CC 0000`; all 11 words and the derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 光 perfected:** rank 264 verified in `CC 0000`; all 19 words, three chengyu and six derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 会 perfected:** `mc_id` 248 is the rank of its alias 會 (`CC 0000`), consistent with the alias rule; all 25 words, the chengyu and both derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 事 perfected:** rank 42 verified in `CC 0000`; all 38 words and the chengyu listed (including 禍事); no edits beyond the stamp. [AI]
+
 - **Character loop, 丘 perfected:** rank 511 verified in `CC 0000`; three words and both derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 且 perfected:** rank 231 verified in `CC 0000`; four words and eleven derived characters complete; no edits beyond the stamp. [AI]

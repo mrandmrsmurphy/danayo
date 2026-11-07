@@ -31,7 +31,7 @@ graphemic_classification: "会意"
 stand_in: "光"
 注音: "ㄎ⺢ㄫ"
 kwin: false
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 90

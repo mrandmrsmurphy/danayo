@@ -31,7 +31,7 @@ stand_in: "事"
 aliases:
   - 亊
 注音: "ㄐㄧ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
