@@ -33,7 +33,7 @@ stand_in: 桌
 aliases:
   - 槕
 注音: ㄊㄚㄎ
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: true
 tags:
   - character

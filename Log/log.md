@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 桌 perfected:** `mc_id` 0 confirmed (neither 桌 nor its alias 槕 is in the ranking); both words listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 撞 perfected:** rank 3136 verified in `CC 3000`; both words listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 惜 perfected:** rank 1961 verified in `CC 1000`; both words listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 彙 perfected:** level links reordered to the standard Grade, HSK, Jōyō, Korean sequence; long-tail `mc_id` 4850 kept; four words and the chengyu listed. [AI]
