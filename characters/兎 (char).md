@@ -25,14 +25,14 @@ joyo_level: 日本人名用漢字
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 5347
-mc_id: 9935
+mc_id: 1725
 graphemic_classification: 象形
 stand_in: 兎
 aliases:
   - 兔
 注音: ㄊㄛ
 kwin: true
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 tags:
   - character
 boundedness: 45
@@ -47,7 +47,7 @@ boundedness: 45
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): depicts a crouching hare — long ears, rounded body, and the prominent short tail (the right-hand stroke); 兎 and 兔 are variant forms, 兔 retaining the tail-stroke more explicitly. Dropped from the Korean high-school hanmun list in 2000.
 - [SKIP-4-8-4](../lookup/SKIP/SKIP-4/SKIP-4-8-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
-- 9,935th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
+- 1,725th most used character in Classical Chinese, the rank of its alias 兔 (兎 itself is not in the top 4000). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
 
 ## Words
