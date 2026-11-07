@@ -54,10 +54,10 @@ boundedness: 80
 ## Aliases
 
 ### 胶
-A separate character, simplified 胶 (月 + 交, "glue"), kept as a search alias because it contains 交 as its phonetic. SKIP 1-4-6; 10 strokes. Radical 130 肉. It has no rank of its own in the Classical Chinese lists.
+The simplified form of 膠 ("glue"), with 交 replacing the phonetic 翏; Wiktionary also lists it as a variant of 交 and in 交's phonetic series. SKIP 1-4-6; 10 strokes. Radical 130 肉. It has no rank of its own in the Classical Chinese lists.
 
 ### 淆
-A separate character, 淆 (氵 + 肴, "confused, mixed"), kept as a search alias for the sense "mix" that 交 shares. SKIP 1-3-8; 11 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+淆 (氵 + 肴, "confused, mixed") is an endopassive derivative of 交 with initial voicing, per Schuessler (Wiktionary). SKIP 1-3-8; 11 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[交]]<rt>ㄍ⼄ㄨ</rt></ruby> "mix; exchange"

@@ -55,7 +55,7 @@ boundedness: 100
 ## Aliases
 
 ### 揃
-A separate Japanese character, 揃 (手 + 前, "to be complete, to line up"), kept as a search alias because it contains 前. SKIP 1-3-9; 12 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
+揃 (手 + 前, "to line up, to be complete") is built with 前 as its phonetic (Wiktionary). SKIP 1-3-9; 12 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[前]]<rt>ㄐㄝㄋ</rt></ruby> "front; before" (stand-in for 前)

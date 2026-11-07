@@ -56,7 +56,7 @@ boundedness: 100
 ## Aliases
 
 ### 划
-Simplified Chinese form of 劃; 划 is also an older character in its own right ("to row"). SKIP 1-4-2; 6 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 劃 (Wiktionary); 划 is also a character in its own right ("to row"). SKIP 1-4-2; 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[劃]]<rt>ㄏ⺢ㄎ</rt></ruby> "divide; mark off; delimit"

@@ -55,10 +55,10 @@ boundedness: 90
 ## Aliases
 
 ### 柰
-A separate character, 柰 (木 + 示, the crabapple, also a variant of 奈), kept as a search alias. 乃 is not a variant of it. SKIP 2-4-5; 9 strokes. Radical 075 木. It ranks 1409 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+No connection to 乃 found on Wiktionary; 柰 (木 + 示) is the crabapple, also a variant of 奈. SKIP 2-4-5; 9 strokes. Radical 075 木. It ranks 1409 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ### 𠄎
-Archaic form from which 乃 descends. SKIP 2-1-1 (computed: EDRDG does not list it); 2 strokes. Radical 006 亅. It has no rank of its own in the Classical Chinese lists.
+The original form of 乃 (Wiktionary). SKIP 2-1-1 (computed: EDRDG does not list it); 2 strokes. Radical 006 亅. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[乃]]<rt>ㄋㄚㄧ</rt></ruby> "but; then; as it turned out"

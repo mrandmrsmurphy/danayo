@@ -63,7 +63,7 @@ Traditional form (kyūjitai) of 亀. SKIP 2-2-16; 18 strokes. This form is the o
 Simplified Chinese form of 龜. SKIP 4-7-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 𪚦
-Rare Extension B variant of 龜. SKIP 2-2-14 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 龜 (Wiktionary); a rare glyph with no use of its own. SKIP 2-2-14 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby> "turtle"

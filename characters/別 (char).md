@@ -57,7 +57,7 @@ boundedness: 80
 ## Aliases
 
 ### 别
-Simplified Chinese form of 別 (另 + 刂). SKIP 1-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Variant of 別 with 另 replacing 𠮠, now the Chinese simplified form (Wiktionary). SKIP 1-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 彆
 A separate character, 彆 (敝 over 弓, "awkward"), merged into 别 in simplified Chinese. SKIP 2-11-3 (computed: EDRDG does not list it); 14 strokes. Radical 057 弓. It has no rank of its own in the Classical Chinese lists.

@@ -55,10 +55,10 @@ boundedness: 75
 ## Aliases
 
 ### 會
-Traditional form (kyūjitai) of 会. SKIP 2-2-11; 13 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 248 is 會's rank.
+Traditional form (kyūjitai) of 会; Wiktionary calls 会 an unorthodox variant of 會 that comes from cursive script. SKIP 2-2-11; 13 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 248 is 會's rank.
 
 ### 屶
-A rare character, 屶 (山 + 刀, "lofty"), kept as a search alias. SKIP 2-3-2; 5 strokes. Radical 046 山. It has no rank of its own in the Classical Chinese lists.
+Listed among 會's alternative forms (Wiktionary); a rare character (山 + 刀, "lofty") with no use of its own. SKIP 2-3-2; 5 strokes. Radical 046 山. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby> "meet; gather" (stand-in for 会)

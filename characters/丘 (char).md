@@ -54,10 +54,10 @@ boundedness: 90
 ## Aliases
 
 ### 㐀
-Rare variant form of 丘 (Unihan lists it as a semantic variant), written 卝 over 一. SKIP 2-4-1 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 丘 (Wiktionary); a rare glyph with no use of its own. SKIP 2-4-1 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 蚯
-A different character, 蚯 (虫 + 丘), the first half of 蚯蚓 "earthworm"; Dan'a'yo writes that word 丘引, so 蚯 appears here as the character 丘 stands in for (代用字). SKIP 1-6-5; 11 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+The traditional form of which 丘 is the PRC second-round simplified form (二簡字): 蚯 (虫 + 丘) is the first half of 蚯蚓 "earthworm", which Dan'a'yo writes 丘引. SKIP 1-6-5; 11 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> "hill"

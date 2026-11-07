@@ -51,7 +51,7 @@ boundedness: 80
 ## Aliases
 
 ### 做
-Variant form of 作 (亻 + 故), the usual written form of "to do, to make" in modern Chinese. SKIP 1-2-9; 11 strokes. It has no rank of its own in the Classical Chinese lists.
+Originally a vulgar variant of 作, now the colloquial departing-tone form of "to do" (Wiktionary). SKIP 1-2-9; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[作]]<rt>ㄐㄚㄎ</rt></ruby> "make, do" (stand-in for 作)

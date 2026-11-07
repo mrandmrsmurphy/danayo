@@ -54,10 +54,10 @@ boundedness: 90
 ## Aliases
 
 ### 𠀇
-Rare Extension B glyph kept as a search alias for 且; it has no use of its own in Dan'a'yo. SKIP 3-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 且 (Wiktionary); a rare glyph with no use of its own. SKIP 3-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 𠀃
-Rare Extension B glyph, a component of 且 (冂 over 一), kept as a search alias; it has no use of its own in Dan'a'yo. SKIP 2-2-1 (computed: EDRDG does not list it); 3 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 且 (Wiktionary); a rare glyph with no use of its own. SKIP 2-2-1 (computed: EDRDG does not list it); 3 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> "also" (stand-in for 且)

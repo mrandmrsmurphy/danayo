@@ -57,13 +57,13 @@ boundedness: 75
 ## Aliases
 
 ### 汇
-Simplified Chinese form of 匯, which Chinese also uses for 彙. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 彙 (Wiktionary), and of 匯. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ### 彚
-Variant form of 彙. SKIP 2-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
+Variant form of 彙 with 彑 in place of 彐 (Wiktionary). SKIP 2-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 匯
-A separate character, 匯 (匚 + 淮, "to converge, to remit"), merged with 彙 as 汇 in simplified Chinese. SKIP 3-2-11; 13 strokes. Radical 022 匚. It has no rank of its own in the Classical Chinese lists.
+A separate character (匚 + 淮, "to converge, to remit"); it shares the simplified form 汇 with 彙. SKIP 3-2-11; 13 strokes. Radical 022 匚. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[彙]]<rt>ㄏㄨ</rt></ruby> "category; class" (stand-in for 彙)

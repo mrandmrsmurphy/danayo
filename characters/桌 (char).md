@@ -55,7 +55,7 @@ boundedness: 80
 ## Aliases
 
 ### 槕
-Variant form of 桌, written 木 + 桌. SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 桌 (Wiktionary), written 木 + 桌. SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[桌]]<rt>ㄊㄚㄎ</rt></ruby> "table" (stand-in for 桌)

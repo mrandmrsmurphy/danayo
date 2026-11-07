@@ -55,7 +55,7 @@ boundedness: 90
 ## Aliases
 
 ### 㒰
-Variant form of 全 (Unihan lists it as a semantic variant), written 入 over 工. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 全 (Wiktionary), written 入 over 工. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[全]]<rt>ㄐ⼔ㄋ</rt></ruby> "whole" (stand-in for 全)

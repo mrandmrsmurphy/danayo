@@ -52,7 +52,7 @@ boundedness: 90
 ## Aliases
 
 ### 亊
-Variant form of 事 (Unihan lists it as a semantic variant). SKIP 4-7-3; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Alternative form of 事 (Wiktionary). SKIP 4-7-3; 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[－事|事]]<rt>ㄐㄧ</rt></ruby> "act of; matter of" (fully productive affix)

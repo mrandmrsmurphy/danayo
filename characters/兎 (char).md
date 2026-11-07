@@ -53,7 +53,7 @@ boundedness: 45
 ## Aliases
 
 ### 兔
-The form of 兎 with the dot on the tail, standard in Chinese; the Japanese form 兎, which Dan'a'yo writes, drops the dot. SKIP 2-2-6; 8 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1725 is 兔's rank.
+The Kangxi dictionary lists 兎 as an unorthodox form of 兔, but 兎 is the form modern Japanese prefers, and the one Dan'a'yo writes. SKIP 2-2-6; 8 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1725 is 兔's rank.
 
 ## Words
 - <ruby>[[兎]]<rt>ㄊㄛ</rt></ruby> "rabbit; hare"

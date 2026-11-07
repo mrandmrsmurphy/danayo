@@ -52,7 +52,7 @@ boundedness: 90
 ## Aliases
 
 ### 芩
-A separate character, 芩 (艹 + 今, a plant name), kept as a search alias because it contains 今 as its phonetic. SKIP 2-3-4; 7 strokes. Radical 140 艸. It ranks 3432 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+芩 (艹 + 今, a salt-marsh plant) is in 今's phonetic series (Wiktionary). SKIP 2-3-4; 7 strokes. Radical 140 艸. It ranks 3432 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby> "now"

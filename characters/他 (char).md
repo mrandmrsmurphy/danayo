@@ -69,10 +69,10 @@ The Chinese character for an animal "it" (牛 + 也); kept as an alias of 他. S
 The Chinese character for a deity "He" (礻 + 也); kept as an alias of 他. SKIP 1-4-3 (computed: EDRDG does not list it); 7 strokes. Radical 113 示. It has no rank of its own in the Classical Chinese lists.
 
 ### 沱
-A separate character, 沱 (氵 + 它, a river branch), kept as a search alias. SKIP 1-3-5; 8 strokes. Radical 085 水. It ranks 3175 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+No connection to 他 found on Wiktionary; 沱 (氵 + 它) is a small bay in a river. SKIP 1-3-5; 8 strokes. Radical 085 水. It ranks 3175 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ### 沲
-Rare variant of 沱 (氵 + 也), kept as a search alias. SKIP 1-3-5; 8 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+No connection to 他 found on Wiktionary; 沲 (氵 + 也) means "ripple". SKIP 1-3-5; 8 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> "another; other" (stand-in for 他)
