@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 厠 perfected:** `mc_id` corrected from 2786 (which is 熏) to 2787, the rank of its alias 廁 (`CC 2000`); MC bullet reworded; its word listed. [AI]
+
+- **Character loop, 厄 perfected:** rank 2206 verified in `CC 2000`; its word and derived 軛 listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 刪 perfected:** rank 3589 verified in `CC 3000`; its word listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 凌 perfected:** level links reordered to Grade, HSK, Jōyō, Korean; rank and both words checked. [AI]
 
 - **Character loop, 内 perfected:** `mc_id` 151 is the rank of its alias 內 (`CC 0000`), consistent with the alias rule; 16 words, 2 chengyu and 7 derived characters all listed; no edits beyond the stamp. [AI]
