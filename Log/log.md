@@ -4,6 +4,9 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Stale homophone callouts removed (Murphy: "Fix false homophone warnings"):** nine words carried `>[!warning] Homophones` callouts naming words that no longer share their 注音: 傍 (紡, 肪), 故障 and 姑丈, 大釜 and 大夫, 自家 and 指甲, 防火 and 放火. All nine callouts removed, since none had a true homophone left. A scan of every character page's Homophones bullet found none stale. [AI]
+- **Character loop paused (Murphy: "pause the loop"):** 47 characters perfected this session, 芹 through 半; 卑 was read but not stamped. [AI]
+
 - **Character loop, 半 perfected:** rank 711 verified in `CC 0000`; eight words (including 半族) and six derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 劇 perfected:** rank 1969 verified in `CC 1000`; all 11 words listed; no edits beyond the stamp. [AI]
