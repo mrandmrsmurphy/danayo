@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 俊 perfected:** rank 1549 verified in `CC 1000` (alias 駿 ranks 2168, lower); three words and the derived 竣 listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 侘 perfected:** long-tail `mc_id` 6543 kept; listed on `List of 名専字`, no words use it (only a mention in the notes of 茶道); no edits beyond the stamp. [AI]
 
 - **Character loop, 仰 perfected:** rank 1117 verified in `CC 1000`; all five words listed; no edits beyond the stamp (昂 and 迎 share the phonetic 卬 but are siblings, not descendants). [AI]
