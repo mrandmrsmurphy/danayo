@@ -27,7 +27,7 @@ mc_id: 1434
 graphemic_classification: 良
 stand_in: 狼
 注音: ㄌㄚㄫ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -39,12 +39,13 @@ boundedness: 75
 ```meta-bind-embed
 [[nav/char_info]]
 ```
+
 ## Notes
-- abbreviation for <ruby>[[狼金]]<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby> "tungsten" in periodic-table formulae — see [[Periodic Table]]
 - 形声 (OC \*raːŋ): semantic [[Radical 094|犬]] ("dog") + phonetic [[良]] (OC \*raŋ) — a wolf, wild canine.
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1434th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄌㄚㄫ](../syllables/ㄌㄚㄫ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+- abbreviation for <ruby>[[狼金]]<rt>ㄌㄚㄫㄍㄧㄇ</rt></ruby> "tungsten" in periodic-table formulae — see [[Periodic Table]]
 
 ## Words
 - <ruby>[[狼]]<rt>ㄌㄚㄫ</rt></ruby> "wolf" (stand-in for 狼)

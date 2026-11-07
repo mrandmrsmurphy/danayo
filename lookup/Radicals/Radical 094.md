@@ -89,6 +89,10 @@ tags:
 30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter
 - 獭 --> simplified of 獺
 
+### Aliases
+- 猟 --> 獵
+- 猎 --> 獵
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

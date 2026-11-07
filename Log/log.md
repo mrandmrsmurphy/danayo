@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 王 perfected to the current standard:** no aliases; rank 14 verified in `CC 0000`; 20 words, the chengyu and seven derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 玉 perfected to the current standard:** no aliases; rank 463 verified in `CC 0000`; nine words, the chengyu and four derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 獵 perfected to the current standard:** `## Aliases` section for 猟 (shinjitai, not followed) and 猎 (simplified; SKIP 1-3-8 computed), redirects added; the shinjitai remark moved out of the prose into the 猟 subsection; rank 1334, three words verified. [AI]
+
+- **Character loop, 狼 perfected to the current standard:** no aliases; the tungsten abbreviation note moved after the four standard Notes bullets and a missing blank line before `## Notes` added; rank 1434, four words and two chengyu verified. [AI]
+
 - **Character loop, 牛 perfected to the current standard:** no aliases; rank 503 verified in `CC 0000`; 11 words, two chengyu and six derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 点 perfected to the current standard:** `## Aliases` section for 點 and 奌 (Wiktionary on both pages; 奌's SKIP 2-3-5 computed), redirects added; Old Chinese reconstructions filled in (點 *teːmʔ, 占 *ʔljem, *tjems, Zhengzhang via en.Wiktionary); rank sentence dropped since 3957 is 點's; 24 words and two chengyu verified. [AI]

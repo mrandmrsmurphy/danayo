@@ -136,6 +136,8 @@ tags:
 ### Aliases
 - 淨 --> 浄
 - 淆 --> 交
+- 猟 --> 獵
+- 猎 --> 獵
 
 ## Datacheck
 ```dataview

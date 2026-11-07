@@ -33,7 +33,7 @@ aliases:
   - 猟
   - 猎
 注音: ㄌㄛㄆ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -51,7 +51,15 @@ boundedness: 65
 - 1334th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄌㄛㄆ](../syllables/ㄌㄛㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
-Added to the Korean HS (hanmun_edu_level) list in 2000. Note that this vault does not follow Shinjitai here — the simplification of [[鼠]]/巤 to 鼡 is unintelligible to non-Japanese readers.
+Added to the Korean HS (hanmun_edu_level) list in 2000.
+
+## Aliases
+
+### 猟
+Japanese shinjitai of 獵, with 鼡 in place of 巤 (Wiktionary). Dan'a'yo does not follow it: the simplification of 鼠/巤 to 鼡 is unintelligible to non-Japanese readers. SKIP 1-3-8; 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 猎
+Simplified Chinese form of 獵, with 昔 in place of 巤 (Wiktionary). SKIP 1-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[獵]]<rt>ㄌㄛㄆ</rt></ruby> "hunt" (stand-in for 獵)
