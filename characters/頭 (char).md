@@ -59,7 +59,7 @@ boundedness: 100
 - <ruby>[[埠頭]]<rt>ㄅㄨ·ㄊㄛㄨ</rt></ruby> "pier; wharf"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨㄛㄫ</rt></ruby> "white-haired old man; grey starling"
 - <ruby>[[断頭台]]<rt>ㄉ⺢ㄋㄊㄛㄨㄉㄚㄧ</rt></ruby> "guillotine"
-- <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
+- <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄑ⺢ㄧ</rt></ruby> "bald eagle"
 - <ruby>[[乳頭]]<rt>ㄋㄨ·ㄊㄛㄨ</rt></ruby> "nipple"
 - <ruby>[[額頭]]<rt>ㄚㄎㄊㄛㄨ</rt></ruby> "forehead; plaque"
 - <ruby>[[饅頭]]<rt>ㄇㄚㄋㄊㄛㄨ</rt></ruby> "steamed bun"

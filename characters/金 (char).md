@@ -138,7 +138,7 @@ boundedness: 90
 - <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby> "darmstadtium"
 - <ruby>[[邁金]]<rt>ㄇㄚㄧㄍㄧㄇ</rt></ruby> "meitnerium"
 - <ruby>[[金]]<rt>ㄍㄧㄇ</rt></ruby> "metal; gold"
-- <ruby>[[釩金]]<rt>ㄪㄚㄋㄍㄧㄇ</rt></ruby> "vanadium"
+- <ruby>[[釩金]]<rt>ㄈㄚㄋㄍㄧㄇ</rt></ruby> "vanadium"
 - <ruby>[[霓金]]<rt>ㄝㄧㄍㄧㄇ</rt></ruby> "iridium"
 - <ruby>[[露金]]<rt>ㄌㄛㄍㄧㄇ</rt></ruby> "ruthenium"
 - <ruby>[[韮金]]<rt>ㄍ⼜ㄍㄧㄇ</rt></ruby> "praseodymium"

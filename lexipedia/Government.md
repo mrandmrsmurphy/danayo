@@ -232,7 +232,7 @@ Government vocabulary spans monarchy and titles of rank, officials and bureaucra
 - <ruby>[主従](../words/主従.md)<rt>ㄐㄨㄐㄛㄫ</rt></ruby>: master and servant, lord and retainer.
 - <ruby>[君臣](../words/君臣.md)<rt>ㄍㄨㄋㄙㄧㄋ</rt></ruby>: ruler and minister; fealty.
 - <ruby>[主掌](../words/主掌.md)<rt>ㄐㄨㄐㄚㄫ</rt></ruby>: to be in charge of, administer.
-- <ruby>[統率](../words/統率.md)<rt>ㄊㄛㄫㄙㄨㄊ</rt></ruby>: to command, lead.
+- <ruby>[統率](../words/統率.md)<rt>ㄊㄛㄫㄌㄨㄊ</rt></ruby>: to command, lead.
 - <ruby>[統治](../words/統治.md)<rt>ㄊㄛㄫㄑㄧ</rt></ruby>: govern; rule.
 - <ruby>[統一](../words/統一.md)<rt>ㄊㄛㄫㄧㄊ</rt></ruby>: unite.
 - <ruby>[権力](../words/権力.md)<rt>ㄍ⼔ㄋㄌㄧㄎ</rt></ruby>: power, authority.

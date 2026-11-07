@@ -181,7 +181,7 @@ Valuation vocabulary covers quality judgments — good, bad, perfect, nasty — 
 
 - <ruby>[出色](../words/出色.md)<rt>ㄑㄨㄊㄙㄧㄎ</rt></ruby>: outstanding; remarkable; extraordinary.
 - <ruby>[大正](../words/大正.md)<rt>ㄉㄚㄧㄐㄧㄫ</rt></ruby>: just; fair; Taisho era.
-- <ruby>[杜選](../words/杜選.md)<rt>ㄉㄛㄐ⼶ㄋ</rt></ruby>: careless; sloppy; unsubstantiated.
+- <ruby>[杜選](../words/杜選.md)<rt>ㄉㄛㄙ⼔ㄋ</rt></ruby>: careless; sloppy; unsubstantiated.
 - <ruby>[正](../words/正.md)<rt>ㄐㄧㄫ</rt></ruby>: correct.
 - <ruby>[無効](../words/無効.md)<rt>ㄇㄜㄏ⼘ㄨ</rt></ruby>: ineffective; invalid.
 - <ruby>[無双](../words/無双.md)<rt>ㄇㄜㄙ⺢ㄫ</rt></ruby>: matchless; peerless; unparalleled.

@@ -185,7 +185,7 @@ Conflict vocabulary runs from quarrel to war: enmity and dispute, violence and c
 
 ### Rebellion & Upheaval
 
-- <ruby>[反乱](../words/反乱.md)<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
+- <ruby>[反乱](../words/反乱.md)<rt>ㄈㄛㄋㄌㄚㄋ</rt></ruby>: to rebel, revolt.
 - <ruby>[暴動](../words/暴動.md)<rt>ㄅㄛㄎㄉㄛㄫ</rt></ruby>: a riot, uprising — disorder made by a crowd. See Semantic Range Notes.
 - <ruby>[鎮圧](../words/鎮圧.md)<rt>ㄑㄧㄋ·ㄚㄊ</rt></ruby>: to suppress, quell (a riot or revolt).
 - <ruby>[反対](../words/反対.md)<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby>: to oppose, be opposite.

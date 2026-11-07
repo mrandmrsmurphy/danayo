@@ -110,7 +110,7 @@ Mind vocabulary covers the mental faculties and their ordinary operation — tho
 
 ### Character & Attitude
 
-- <ruby>[率性](../words/率性.md)<rt>ㄙㄨㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
+- <ruby>[率性](../words/率性.md)<rt>ㄌㄨㄊㄙㄧㄫ</rt></ruby>: to follow one's nature — from the Doctrine of the Mean (《中庸》).
 - <ruby>[個性](../words/個性.md)<rt>ㄍㄜㄙㄧㄫ</rt></ruby>: personality, individuality — what is distinctive in one person.
 - <ruby>[態度](../words/態度.md)<rt>ㄊㄚㄧㄉㄛ</rt></ruby>: attitude, behaviour, manner.
 
@@ -317,7 +317,7 @@ Also relevant here without their own new entries: [[謎]] ("riddle, mystery, eni
 - <ruby>[疎忽](../words/疎忽.md)<rt>ㄙㄜㄏㄛㄊ</rt></ruby>: negligent; neglect.
 - <ruby>[白日夢](../words/白日夢.md)<rt>ㄅㄚㄎㄋㄧㄊㄇㄨㄫ</rt></ruby>: daydream.
 - <ruby>[直観](../words/直観.md)<rt>ㄐㄧㄊㄍ⺢ㄋ</rt></ruby>: intuition.
-- <ruby>[瞻妄](../words/瞻妄.md)<rt>ㄙㄝㄇㄇㄚㄫ</rt></ruby>: delirium.
+- <ruby>[瞻妄](../words/瞻妄.md)<rt>ㄐㄝㄇㄇㄚㄫ</rt></ruby>: delirium.
 - <ruby>[確定](../words/確定.md)<rt>ㄎㄚㄎㄐㄝㄫ</rt></ruby>: fix; establish.
 - <ruby>[糊塗](../words/糊塗.md)<rt>ㄏㄛㄨㄉㄛ</rt></ruby>: muddled; confused.
 - <ruby>[聡明](../words/聡明.md)<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>: smart.

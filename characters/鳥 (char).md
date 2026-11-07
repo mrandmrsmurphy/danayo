@@ -61,7 +61,7 @@ boundedness: 90
 - <ruby>[[鳩鳥]]<rt>ㄎ⼜ㄑㄛㄨ</rt></ruby> "pigeon"
 - <ruby>[[鵝鳥]]<rt>ㄚㄑㄛㄨ</rt></ruby> "domestic goose"
 - <ruby>[[雛鳥]]<rt>ㄑㄨㄛㄑㄛㄨ</rt></ruby> "chick"
-- <ruby>[[就鳥]]<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby> "vulture"
+- <ruby>[[就鳥]]<rt>ㄑ⺢ㄧㄑㄛㄨ</rt></ruby> "vulture"
 - <ruby>[[椋鳥]]<rt>ㄌ⼘ㄫㄑㄛㄨ</rt></ruby> "starling"
 - <ruby>[[堅鳥]]<rt>ㄍㄝㄋㄑㄛㄨ</rt></ruby> "booby" (代用字 for 鰹鳥)
 - <ruby>[[啄木鳥]]<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby> "woodpecker"

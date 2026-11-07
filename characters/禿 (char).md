@@ -54,4 +54,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[禿]]<rt>ㄊㄛㄎ</rt></ruby> "bald" (stand-in for 禿)
-- <ruby>[[禿就]]<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby> "old world vulture"
+- <ruby>[[禿就]]<rt>ㄊㄛㄎㄑ⺢ㄧ</rt></ruby> "old world vulture"

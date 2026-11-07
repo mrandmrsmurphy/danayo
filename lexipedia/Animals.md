@@ -83,9 +83,9 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[禽鳥](../words/禽鳥.md)<rt>ㄎㄧㄇㄑㄛㄨ</rt></ruby>: birds, fowl (collective).
 - <ruby>[猛禽](../words/猛禽.md)<rt>ㄇㄚㄫㄎㄧㄇ</rt></ruby>: bird of prey.
 - <ruby>[隼](../words/隼.md)<rt>ㄙ⼜ㄫ</rt></ruby>: a peregrine falcon — and, more broadly, falcons in general.
-- <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄐㄨㄛ</rt></ruby>: old world vulture.
-- <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧ·ㄐㄨㄛ</rt></ruby>: sea eagle.
-- <ruby>[就鳥](../words/就鳥.md)<rt>ㄐㄨㄛㄑㄛㄨ</rt></ruby>: a vulture.
+- <ruby>[禿就](../words/禿就.md)<rt>ㄊㄛㄎㄑ⺢ㄧ</rt></ruby>: old world vulture.
+- <ruby>[海就](../words/海就.md)<rt>ㄏㄚㄧㄑ⺢ㄧ</rt></ruby>: sea eagle.
+- <ruby>[就鳥](../words/就鳥.md)<rt>ㄑ⺢ㄧㄑㄛㄨ</rt></ruby>: a vulture.
 - <ruby>[鷹](../words/鷹.md)<rt>ㄧㄫ</rt></ruby>: a hawk.
 - <ruby>[鵰](../words/鵰.md)<rt>ㄑㄨㄛ</rt></ruby>: an eagle — a near-synonym of [海就](../words/海就.md), without that word's specifically maritime sense.
 - <ruby>[鳶](../words/鳶.md)<rt>⼶ㄋ</rt></ruby>: a kite — the bird of prey (黒鳶, "black kite"); secondarily, the flying toy.
@@ -95,7 +95,7 @@ Classical Sinitic culture organizes domesticated animals around a fixed traditio
 - <ruby>[啄木鳥](../words/啄木鳥.md)<rt>ㄊㄛㄎㄇㄛㄎㄑㄛㄨ</rt></ruby>: woodpecker.
 - <ruby>[斑鳩](../words/斑鳩.md)<rt>ㄅㄚㄋㄎ⼜</rt></ruby>: turtledove.
 - <ruby>[燕子](../words/燕子.md)<rt>ㄝㄋㄐㄜ</rt></ruby>: swallow — a culturally loaded bird across the Sinosphere (spring, homecoming, conjugal fidelity); secondarily used regionally for a badminton shuttlecock.
-- <ruby>[白頭就](../words/白頭就.md)<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby>: bald eagle.
+- <ruby>[白頭就](../words/白頭就.md)<rt>ㄅㄚㄎㄊㄛㄨㄑ⺢ㄧ</rt></ruby>: bald eagle.
 - <ruby>[椋鳥](../words/椋鳥.md)<rt>ㄌ⼘ㄫㄑㄛㄨ</rt></ruby>: a starling, a small gregarious songbird (Japanese むくどり).
 - <ruby>[鶴](../words/鶴.md)<rt>ㄏㄚㄎ</rt></ruby>: a crane, the long-legged bird.
 

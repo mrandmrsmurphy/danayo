@@ -64,7 +64,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[灌木](../words/灌木.md)<rt>ㄍ⺢ㄋㄇㄛㄎ</rt></ruby>: a bush, shrub — a low woody plant with several stems; the X木 form for woody plants.
 - <ruby>[材木](../words/材木.md)<rt>ㄑㄚㄧㄇㄛㄎ</rt></ruby>: lumber, timber — wood as a material, not the living tree.
 - <ruby>[原木](../words/原木.md)<rt>⼔ㄋㄇㄛㄎ</rt></ruby>: a log — the unprocessed trunk, before it is sawn into lumber.
-- <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄌ⼄</rt></ruby>: a palm tree.
+- <ruby>[棕枝](../words/棕枝.md)<rt>ㄐㄛㄫㄐㄝ</rt></ruby>: a palm tree.
 - <ruby>[棗椰](../words/棗椰.md)<rt>ㄐㄚㄨ⼘</rt></ruby>: the date palm (Phoenix dactylifera) — a specific palm species, beside the general [[棕枝]] "palm tree."
 - <ruby>[杉木](../words/杉木.md)<rt>ㄙㄚㄇㄇㄛㄎ</rt></ruby>: a Chinese fir.
 - <ruby>[松](../words/松.md)<rt>ㄙ⼄ㄫ</rt></ruby>: pine, fir — the evergreen conifer of longevity and steadfastness (松柏, "pine and cypress"), beside [[柏]].
@@ -171,7 +171,7 @@ Plants vocabulary covers the botanical world — trees, grasses, flowers, and cr
 - <ruby>[茅草](../words/茅草.md)<rt>ㄇ⼘ㄨㄑㄚㄨ</rt></ruby>: cogon grass; thatch.
 - <ruby>[落花](../words/落花.md)<rt>ㄌㄚㄎㄏ⺢</rt></ruby>: falling blossoms.
 - <ruby>[蒲公英](../words/蒲公英.md)<rt>ㄅㄛㄍㄛㄫㄝㄫ</rt></ruby>: dandelion.
-- <ruby>[蓬藁](../words/蓬藁.md)<rt>ㄅㄛㄫㄏㄚㄨ</rt></ruby>: mugwort; artemisia; wormwood.
+- <ruby>[蓬藁](../words/蓬藁.md)<rt>ㄅㄛㄫㄍㄚㄨ</rt></ruby>: mugwort; artemisia; wormwood.
 - <ruby>[藍木](../words/藍木.md)<rt>ㄌㄚㄇㄇㄛㄎ</rt></ruby>: indigo; anil.
 - <ruby>[蘭花](../words/蘭花.md)<rt>ㄌㄚㄋㄏ⺢</rt></ruby>: orchid; lily.
 - <ruby>[離枝](../words/離枝.md)<rt>ㄌㄝㄧㄐㄝ</rt></ruby>: lychee; kingdom of Lizhi.

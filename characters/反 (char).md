@@ -48,7 +48,7 @@ boundedness: 100
 
 ## Notes
 - 会意 (OC \*panʔ, \*pʰan): [[Radical 029|又]] ("hand") + [[Radical 027|厂]] ("a cliff, an overhang") — a hand reaching up against a cliff face, i.e. climbing, or turning something over on it; "to overturn, to invert" (Shuowen: 覆也, "从又，厂反形"). Duan Yucai's commentary instead reads 厂 as a phonetic ("厂聲"), which would make this 形声, but that is a minority revisionist view — mainstream paleography keeps the associative reading, and the vault follows it.
-- We follow Japanese and fold 叛 into this character — "anti-" and "rebel" are close enough, and although 叛's MC reading differed slightly from 反's, the merge is a deliberate choice (per user, 2026-07-19). Words conventionally written with 叛 keep its original sound: [[反乱]] is ㄅㄚㄋㄌㄚㄋ (from pàn), not 反's own ㄈㄛㄋ.
+- We follow Japanese and fold 叛 into this character — "anti-" and "rebel" are close enough, and although 叛's MC reading differed slightly from 反's, the merge is a deliberate choice (per user, 2026-07-19). Words conventionally written with 叛 use 反's sound: [[反乱]] is ㄈㄛㄋㄌㄚㄋ.
 - [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 186th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄋ](../syllables/ㄈㄛㄋ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
@@ -61,7 +61,7 @@ boundedness: 100
 - <ruby>[[反対]]<rt>ㄈㄛㄋㄉㄛㄧ</rt></ruby> "be opposite; oppose"
 - <ruby>[[反哺]]<rt>ㄈㄛㄋㄅㄛ</rt></ruby> "take care of one's parents"
 - <ruby>[[反響]]<rt>ㄈㄛㄋㄏ⼘ㄫ</rt></ruby> "echo"
-- <ruby>[[反乱]]<rt>ㄅㄚㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
+- <ruby>[[反乱]]<rt>ㄈㄛㄋㄌㄚㄋ</rt></ruby> "rebel; revolt"
 - <ruby>[[違反]]<rt>ㄨㄧㄈㄛㄋ</rt></ruby> "violate; transgress; infringe"
 - <ruby>[[反駁]]<rt>ㄈㄛㄋㄅㄚㄎ</rt></ruby> "refute"
 - <ruby>[[反逆]]<rt>ㄈㄛㄋ·ㄝㄎ</rt></ruby> "treason"

@@ -69,7 +69,7 @@ boundedness: 100
 - <ruby>[[白亜紀]]<rt>ㄅㄚㄎ·ㄚㄍㄧ</rt></ruby> "Cretaceous Period"
 - <ruby>[[白止]]<rt>ㄅㄚㄎㄐㄧ</rt></ruby> "Angelica dahurica"
 - <ruby>[[白頭翁]]<rt>ㄅㄚㄎㄊㄛㄨㄛㄫ</rt></ruby> "white-haired old man; grey starling"
-- <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄐㄨㄛ</rt></ruby> "bald eagle"
+- <ruby>[[白頭就]]<rt>ㄅㄚㄎㄊㄛㄨㄑ⺢ㄧ</rt></ruby> "bald eagle"
 - <ruby>[[自白]]<rt>ㄐㄧㄜㄅㄚㄎ</rt></ruby> "confession"
 - <ruby>[[蒼白]]<rt>ㄑ⺢ㄫㄅㄚㄎ</rt></ruby> "pale, wan, ashen"
 ## Chengyu

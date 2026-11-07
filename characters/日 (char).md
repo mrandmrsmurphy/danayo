@@ -97,7 +97,7 @@ boundedness: 60
 - <ruby>[[記念日]]<rt>ㄍㄧ·ㄋㄝㄇㄋㄧㄊ</rt></ruby> "commemorative day; anniversary"
 - <ruby>[[元日]]<rt>⼔ㄋㄋㄧㄊ</rt></ruby> "New Year's Day"
 - <ruby>[[主日]]<rt>ㄐㄨ·ㄋㄧㄊ</rt></ruby> "Lord's Day; Sunday"
-- <ruby>[[棕枝主日]]<rt>ㄐㄛㄫㄌ⼄ㄐㄨ·ㄋㄧㄊ</rt></ruby> "Palm Sunday"
+- <ruby>[[棕枝主日]]<rt>ㄐㄛㄫㄐㄝㄐㄨ·ㄋㄧㄊ</rt></ruby> "Palm Sunday"
 - <ruby>[[閏日]]<rt>ㄋㄨㄋㄋㄧㄊ</rt></ruby> "leap day"
 - <ruby>[[日用]]<rt>ㄋㄧㄊ⼄ㄫ</rt></ruby> "daily use; everyday"
 - <ruby>[[日常]]<rt>ㄋㄧㄊㄙ⼘ㄫ</rt></ruby> "everyday; routine; ordinary"

@@ -444,7 +444,7 @@ Rosenfelder's "cynical" is a distinctly Greek philosophical evolution (from the 
 - <ruby>[撞球](../words/撞球.md)<rt>ㄊ⺢ㄫㄍ⼜</rt></ruby>: billiards.
 - <ruby>[排球](../words/排球.md)<rt>ㄆㄚㄧㄍ⼜</rt></ruby>: volleyball.
 - <ruby>[捕手](../words/捕手.md)<rt>ㄅㄛㄙ⼜</rt></ruby>: a catcher (baseball).
-- <ruby>[得点](../words/得点.md)<rt>ㄉㄨㄎㄉㄝㄇ</rt></ruby>: a score.
+- <ruby>[得点](../words/得点.md)<rt>ㄊㄜㄎㄉㄝㄇ</rt></ruby>: a score.
 - <ruby>[玩具](../words/玩具.md)<rt>⺢ㄋㄍㄨ</rt></ruby>: a toy.
 - <ruby>[娃娃](../words/娃娃.md)<rt>⼘ㄧ⼘ㄧ</rt></ruby>: a doll.
 - <ruby>[傀儡](../words/傀儡.md)<rt>ㄎㄛㄧㄌㄛㄧ</rt></ruby>: a puppet.
