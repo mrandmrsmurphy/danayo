@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 作 perfected:** rank 199 verified in `CC 0000`; all 19 words and the one chengyu listed; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
+
+- **Character loop, 佛 perfected:** rank 3403 verified in `CC 3000`; all six words listed; the periodic-table abbreviation note moved after the four standard Notes bullets so the graphemic bullet comes first. [AI]
+
 - **Character loop, 他 perfected:** rank 1055 checked in `CC 1000` (its alias 沱, 3175, ranks lower); all six words listed, no descendants; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
 
 - **Character loop, 今 perfected:** rank 80 checked (its alias 芩 ranks 3432, higher, so `mc_id` stands); words and chengyu complete; new `## Derived Characters` section with six characters that name 今 as their phonetic (吟, 含, 禽, 貪, 金, 龕). [AI]
