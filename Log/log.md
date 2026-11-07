@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 幻 perfected:** long-tail `mc_id` 4746 kept per policy; its one word listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 幌 perfected:** long-tail `mc_id` 9813 kept per policy; name-only character on `List of 名専字`, no words; no edits beyond the stamp. [AI]
+
 - **Character loop, 奏 perfected:** rank 518 verified in `CC 0000`; five words and derived 湊 listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 堆 perfected:** long-tail `mc_id` 5262 kept (neither 堆 nor 𠂤 is on the local lists); both words and the derived 帥 listed; no edits beyond the stamp. [AI]
