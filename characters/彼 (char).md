@@ -27,7 +27,7 @@ mc_id: 529
 graphemic_classification: "皮"
 stand_in: "彼"
 注音: "ㄅㄜ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -41,7 +41,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: semantic [[Radical 060|彳]] ("step, road") + phonetic [[皮]] — movement toward a distant point; "that, yonder."
+- 形声 (OC *pralʔ): semantic [[Radical 060|彳]] ("step, road") + phonetic [[皮]] (OC *bral) — movement toward a distant point; "that, yonder."
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 529th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄅㄜ](../syllables/ㄅㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

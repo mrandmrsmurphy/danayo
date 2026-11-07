@@ -140,6 +140,7 @@ tags: [lookup]
 - 讚 --> 賛
 - 讨 --> 討
 - 谈 --> 談
+- 詹 --> 旦
 
 ## Data check
 ```dataview

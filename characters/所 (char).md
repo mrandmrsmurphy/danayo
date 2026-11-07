@@ -31,7 +31,7 @@ graphemic_classification: "戸"
 stand_in: "所"
 aliases:
 注音: "ㄙㄜ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

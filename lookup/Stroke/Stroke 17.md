@@ -45,6 +45,7 @@ tags:
 - 濱 --> 浜
 - 禦 --> 御
 - 駿 --> 俊
+- 膽 --> 胆
 
 ## Data check
 ```dataview

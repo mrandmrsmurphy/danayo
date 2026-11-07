@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 所 perfected to the current standard:** no aliases; rank 19 verified in `CC 0000`; all 15 words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **詹 links updated after the 旦 decision (Murphy: notes that mention 詹 are out of date):** the 膽 subsection on 胆 and the phonetic bullet on 瞻 now link 詹 to 旦; 胆 removed from 瞻's Derived Characters, since 胆's phonetic is 旦 and not 詹. Open: 詹 was already an alias of 瞻 (with 譫), so it is now an alias of two characters; not resolved. [AI]
+
+- **Character loop, 急 perfected to the current standard:** no aliases; rank 588 verified in `CC 0000`; all six words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 後 perfected to the current standard:** no aliases; rank 60 verified in `CC 0000`; all 20 words and eight chengyu listed; no edits beyond the stamp. [AI]
+
+- **詹 added as an alias of 旦 (Murphy: "extend the shinjitai and Simplified thinking and say 旦 is the new form of 詹"):** by fiat, on the pattern of 膽 → 胆, where 旦 replaces the phonetic 詹; Wiktionary records no direct link. 旦 gained `aliases: 詹` and its first `## Aliases` section (SKIP 3-4-9 from EDRDG, 13 strokes, Radical 149 言; 詹 ranks 2309, below 旦's 853, so `mc_id` stays), with redirects on the Stroke, SKIP and Radical pages. The 瞻 and 瞻妄 pages, whose phonetic 詹 had no page, now resolve it to 旦. [AI]
+
+- **胆 brought to the standard (Murphy: "Can you do 胆? Its notes are based on the alias"):** the notes had analysed the traditional 膽 (phonetic 詹); Wiktionary analyses 胆 itself as 肉 + 旦. `graphemic_classification` changed from 詹 to 旦, the graphemic bullet rewritten with 胆's own reconstruction (*daːn) and 旦's (*taːns, Zhengzhang via en.Wiktionary), 胆 added to 旦's Derived Characters, and the rank sentence dropped from Notes since 2315 is 膽's. New `## Aliases` section for 膽 (SKIP 1-4-13 from EDRDG, 17 strokes), with redirects. Words and chengyu verified. [AI]
+
+- **Character loop, 彼 perfected to the current standard:** no aliases; added the missing Old Chinese reconstructions (彼 *pralʔ, 皮 *bral, Zhengzhang via en.Wiktionary); rank 529 and its ten words verified. [AI]
+
 - **Character loop, 当 perfected to the current standard:** `## Aliases` section for 當, 噹, 襠 and 裆 (Wiktionary, EDRDG, Unihan; two SKIP numbers computed), redirects added; rank 152 (the rank of 當), 17 words and derived list verified. [AI]
 
 - **Character loop, 尾 perfected to the current standard:** no aliases; rank 1232 verified in `CC 1000`; nine words, two chengyu and four derived characters listed; no edits beyond the stamp. [AI]

@@ -35,7 +35,7 @@ graphemic_classification: 及
 stand_in: 急
 aliases:
 注音: ㄍㄧㄆ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

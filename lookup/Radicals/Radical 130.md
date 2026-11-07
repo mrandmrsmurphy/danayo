@@ -107,6 +107,7 @@ tags: [lookup]
 
 ### Aliases
 - 胶 --> 交
+- 膽 --> 胆
 
 ## Data check
 ```dataview

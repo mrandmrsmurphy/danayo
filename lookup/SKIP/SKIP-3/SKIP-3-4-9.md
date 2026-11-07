@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[逾](/characters/逾.md)<rt>⼜ㄇ</rt></ruby> "transcend; climb"
 4. <ruby>[遒](/characters/遒.md)<rt>ㄑㄨㄛ</rt></ruby> "strong; unyielding; forceful"
 
+### Aliases
+- 詹 --> 旦
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
