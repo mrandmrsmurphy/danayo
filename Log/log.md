@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 千 perfected to the current standard:** `## Aliases` section for 韆 (the traditional form of which 千 is the simplified form, in 鞦韆 "swing"), redirects added, with one new redirect-only SKIP leaf (1-9-15) and its index entry on `SKIP-1-9` (which also gained `none` rows for 12 to 14); rank 119, 15 words, seven chengyu and 年 verified. [AI]
+
+- **Character loop, 北 perfected to the current standard:** no aliases; rank 167 verified in `CC 0000`; all 24 words and 背 listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 住 perfected to the current standard:** no aliases; rank 3650 verified in `CC 3000`; all five words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 高 perfected to the current standard:** no aliases; rank 150 verified in `CC 0000`; all 22 words and nine derived characters listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 骨 perfected to the current standard:** no aliases; rank 718 verified in `CC 0000`; all 18 words, both chengyu and both derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 馬 perfected to the current standard:** `## Aliases` section for 马 (simplified from the cursive form; SKIP 3-2-1 computed), redirects added; rank 145, 19 words and seven derived characters verified. [AI]

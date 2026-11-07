@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 鱧 --> 豊
+- 韆 --> 千
 
 ## Data check
 ```dataview

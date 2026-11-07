@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### Aliases
 - 鞦 --> 秋
+- 韆 --> 千
 
 ## Data check
 ```dataview
