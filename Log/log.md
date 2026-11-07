@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 他 perfected:** rank 1055 checked in `CC 1000` (its alias 沱, 3175, ranks lower); all six words listed, no descendants; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
+
 - **Character loop, 今 perfected:** rank 80 checked (its alias 芩 ranks 3432, higher, so `mc_id` stands); words and chengyu complete; new `## Derived Characters` section with six characters that name 今 as their phonetic (吟, 含, 禽, 貪, 金, 龕). [AI]
 
 - **Character loop, 交 perfected:** rank 498 checked; words and chengyu complete; five missing derived characters added (効, 較, 郊, 餃, 鮫). [AI]
