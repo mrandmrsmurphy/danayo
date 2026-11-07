@@ -197,6 +197,7 @@ aliases:
 - 會 --> 会
 - 做 --> 作
 - 脩 --> 修
+- 佰 --> 百
 
 ## Data check
 ```dataview

@@ -34,7 +34,7 @@ aliases:
   - 𣉻
   - 𥏼
 注音: ㄐㄨㄧ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,17 @@ boundedness: 75
 - [SKIP-1-5-3](../lookup/SKIP/SKIP-1/SKIP-1-5-3.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 54th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄐㄨㄧ](../syllables/ㄐㄨㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𥎵
+A rare glyph kept as a search alias; no connection to 知 found on Wiktionary, and it has no use of its own in Dan'a'yo. SKIP 1-5-5 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𣉻
+A rare glyph kept as a search alias; no connection to 知 found on Wiktionary, and it has no use of its own in Dan'a'yo. SKIP 2-4-11 (computed: EDRDG does not list it); 15 strokes. Radical 072 日. It has no rank of its own in the Classical Chinese lists.
+
+### 𥏼
+A rare glyph kept as a search alias; no connection to 知 found on Wiktionary, and it has no use of its own in Dan'a'yo. SKIP 1-5-11 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[知]]<rt>ㄐㄨㄧ</rt></ruby> "know; knowledge" (stand-in for 知)

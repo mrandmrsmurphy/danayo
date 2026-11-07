@@ -31,7 +31,7 @@ mc_id: 218
 graphemic_classification: "申"
 stand_in: "神"
 注音: "ㄙㄧㄋ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

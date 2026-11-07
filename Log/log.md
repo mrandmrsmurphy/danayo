@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 神 perfected to the current standard:** no aliases; rank 218 verified in `CC 0000`; all 22 words (including the new 神助 and 神聴) and three chengyu listed; no edits beyond the stamp. [AI]
+
+- **愕 moved from nyog (ㄋ⼄ㄎ) to 'ag (ㄚㄎ) (Murphy: "I'm starting to regret having 愕 be pronounced nyog"; "delete it"):** 愕 now reads like its relatives 鄂, 顎 and 鰐 (MC ŋ + ɑk, Korean 악, Japanese GAKU, Vietnamese ngạc, Cantonese ngok6). 愕 and 驚愕 changed in 注音, 諺文 and 羅馬字 (驚愕 is now ㄍ⼶ㄫㄚㄎ, 경악), both `kwin` now true; the rubies on `驚`, `Emotions`, `Grade Advanced`, `Radical 061`, `SKIP-1-3-9` and `Stroke 12` updated; the `ㄋ⼄ㄎ` syllable page deleted (its entry on `Syllables` is now plain text like the other unused syllables), and 愕 added to `ㄚㄎ`. The `韻 鈬開` page is now uniform (34 of 34 on ㄚㄎ) and `聲 疑` has one ㄋ exception, 牛, instead of two. [AI]
+
+- **Character loop, 知 perfected to the current standard:** `## Aliases` section for the rare glyphs 𥎵, 𣉻 and 𥏼 (no Wiktionary connection found; bare mentions; three SKIP numbers computed), redirects added; rank 54, 14 words, the chengyu and three derived characters verified. [AI]
+
+- **Character loop, 真 perfected to the current standard:** `## Aliases` section for 眞 (the original form), 鷆 and 鷏 (bird characters built on 真), redirects added; missing derived character 顚 added; rank 924, eight words and the chengyu verified. [AI]
+
+- **硫 derived from 㐬 (Murphy: "硫 should be a derived character from 㐬, not 流"):** `graphemic_classification` changed from 流 to 㐬, the graphemic bullet now names 㐬 as the phonetic (the abbreviated form of 流, as Wiktionary says), and 硫 moved from 流's Derived Characters (which is now empty, so the section is gone) to 㐬's. 硫 is not yet stamped: it still lacks its `## Aliases` section for 磂 and a rank check, which the loop will do. [AI]
+
+- **Character loop, 百 perfected to the current standard:** added the missing disambiguation callout and the Old Chinese reconstructions (百 *praːɡ, 白 *braːɡ, Zhengzhang via en.Wiktionary); `## Aliases` section for 佰 (formal financial form) with redirects; rank 64, 22 words, two chengyu and 弼 verified. [AI]
+
+- **Character loop, 発 perfected to the current standard:** `## Aliases` section for ten aliases (发, 發, 醗, 醱, 潑, 撥, 𫝼, 拨, 溌, 泼; Wiktionary, EDRDG, Unihan; five SKIP numbers computed), redirects added; 發 ranks 226, which is `mc_id`; 24 words and the chengyu verified. [AI]
+
 - **Character loop, 王 perfected to the current standard:** no aliases; rank 14 verified in `CC 0000`; 20 words, the chengyu and seven derived characters listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 玉 perfected to the current standard:** no aliases; rank 463 verified in `CC 0000`; nine words, the chengyu and four derived characters listed; no edits beyond the stamp. [AI]

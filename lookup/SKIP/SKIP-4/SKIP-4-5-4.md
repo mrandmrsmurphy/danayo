@@ -18,6 +18,9 @@ tags: [lookup]
 5. <ruby>[戊](characters/戊.md)<rt>ㄇㄛㄨ</rt></ruby> "fifth heavenly stem"
 6. <ruby>[犮](characters/犮.md)<rt>ㄅ⼘ㄊ</rt></ruby> "shape of running dog"
 
+### Aliases
+- 发 --> 発
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

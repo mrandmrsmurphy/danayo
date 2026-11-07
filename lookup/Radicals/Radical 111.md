@@ -31,6 +31,10 @@ tags: [lookup]
 ### +12 Strokes
 7. <ruby>[矯](../../characters/矯.md)<rt>ㄍ⼘ㄨ</rt></ruby> - rectify
 
+### Aliases
+- 𥎵 --> 知
+- 𥏼 --> 知
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

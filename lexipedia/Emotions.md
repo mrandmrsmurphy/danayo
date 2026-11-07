@@ -132,7 +132,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[忌惮](../words/忌惮.md)<rt>ㄍㄧㄉㄚㄋ</rt></ruby>: fear, restraint, hesitation.
 - <ruby>[懍懍](../words/懍懍.md)<rt>ㄌㄜㄇㄌㄜㄇ</rt></ruby>: a fearful appearance; stern and rigorous.
 - <ruby>[喫驚](../words/喫驚.md)<rt>ㄎㄝㄎㄍ⼶ㄫ</rt></ruby>: to be startled.
-- <ruby>[驚愕](../words/驚愕.md)<rt>ㄍ⼶ㄫㄋ⼄ㄎ</rt></ruby>: to be stunned, astonishment — struck dumb by something sudden; stronger than [[驚異]], wonder, and than [[喫驚]], a mere start.
+- <ruby>[驚愕](../words/驚愕.md)<rt>ㄍ⼶ㄫㄚㄎ</rt></ruby>: to be stunned, astonishment — struck dumb by something sudden; stronger than [[驚異]], wonder, and than [[喫驚]], a mere start.
 - <ruby>[驚異](../words/驚異.md)<rt>ㄍ⼶ㄫㄧ</rt></ruby>: wonder, amazement — astonishment at something extraordinary, the pleasant side of being startled, where [[喫驚]] is the plain jolt.
 - <ruby>[衝撃](../words/衝撃.md)<rt>ㄑㄛㄫㄍㄝㄎ</rt></ruby>: shock, impact — the sudden hard blow of bad news or violence.
 - <ruby>[戦慄](../words/戦慄.md)<rt>ㄐㄝㄋㄌㄧㄊ</rt></ruby>: a shudder, terror — fear that has reached the body, stronger than [[恐怖]].

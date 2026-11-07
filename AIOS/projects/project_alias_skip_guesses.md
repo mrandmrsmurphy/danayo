@@ -105,3 +105,10 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 滾 | 滚 | 1-3-10 | computed from its parts |
 | 点 | 奌 | 2-3-5 | computed from its parts |
 | 獵 | 猎 | 1-3-8 | computed from its parts |
+| 発 | 发 | 4-5-4 | computed from its parts |
+| 発 | 𫝼 | 1-3-9 | computed from its parts |
+| 発 | 拨 | 1-3-5 | computed from its parts |
+| 発 | 泼 | 1-3-5 | computed from its parts |
+| 知 | 𥎵 | 1-5-5 | computed from its parts |
+| 知 | 𣉻 | 2-4-11 | computed from its parts |
+| 知 | 𥏼 | 1-5-11 | computed from its parts |

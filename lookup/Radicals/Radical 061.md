@@ -90,7 +90,7 @@ tags: [lookup]
 59. <ruby>[惰](../../characters/惰.md)<rt>ㄉ⺢</rt></ruby> - lazy
 60. <ruby>[愉](../../characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleasure
 61. <ruby>[慌](../../characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - nervous
-62. <ruby>[愕](../../characters/愕.md)<rt>ㄋ⼄ㄎ</rt></ruby> - astonished
+62. <ruby>[愕](../../characters/愕.md)<rt>ㄚㄎ</rt></ruby> - astonished
 63. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
 
 ### +9 Strokes

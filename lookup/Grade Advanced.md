@@ -181,7 +181,7 @@ tags: [lookup]
 167. <ruby>[[恕]]<rt>ㄙ⼄</rt></ruby> - to forgive, pardon, to show consideration for others
 168. <ruby>[[惚]]<rt>ㄏㄛㄊ</rt></ruby> - confused
 169. <ruby>[[悶]]<rt>ㄇㄛㄋ</rt></ruby> - agony
-170. <ruby>[[愕]]<rt>ㄋ⼄ㄎ</rt></ruby> - astonished, startled
+170. <ruby>[[愕]]<rt>ㄚㄎ</rt></ruby> - astonished, startled
 171. <ruby>[[愈]]<rt>⼜ㄇ</rt></ruby> - more and more, even more
 172. <ruby>[[愧]]<rt>ㄍㄨㄧ</rt></ruby> - ashamed, conscience-stricken
 173. <ruby>[[慙]]<rt>ㄐㄚㄇ</rt></ruby> - ashamed, humiliated, shameful

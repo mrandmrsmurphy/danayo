@@ -43,7 +43,7 @@ aliases:
   - 溌
   - 泼
 注音: ㄈㄚㄊ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -57,10 +57,42 @@ boundedness: 60
 ```
 
 ## Notes
-- 形声 (OC \*pod, \*pods): originally a pictogram of a bow firing an arrow; a hand (攴) was added, forming 㢭, whose hand component later became the phonetic [[癹]] (OC \*pʰaːd, \*baːd) — semantic [[Radical 057|弓]] ("bow") + phonetic 癹, to shoot forth, to issue, to discharge. The shinjitai 発 simplifies 癹 to [[Radical 105|癶]] (the character's own assigned Kangxi radical, though not the true etymological phonetic).
+- 形声 (OC \*pod, \*pods): originally a pictogram of a bow firing an arrow; a hand (攴) was added, forming 㢭, whose hand component later became the phonetic [[癹]] (OC \*pʰaːd, \*baːd) — semantic [[Radical 057|弓]] ("bow") + phonetic 癹, to shoot forth, to issue, to discharge. The modern 発 writes 癹 as [[Radical 105|癶]], the character's own Kangxi radical.
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 226th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [ㄈㄚㄊ](../syllables/ㄈㄚㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 发
+Simplified Chinese form of 發 (Wiktionary). SKIP 4-5-4 (computed: EDRDG does not list it); 5 strokes. Radical 029 又. It has no rank of its own in the Classical Chinese lists.
+
+### 發
+Traditional form of 発; 発 is its Japanese shinjitai, which simplifies the phonetic 癹 to 癶 (Wiktionary). SKIP 2-5-7; 12 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 226 is 發's rank.
+
+### 醗
+Japanese shinjitai of 醱 (酉 + 発, "to ferment"); a separate character sharing the phonetic. SKIP 1-7-9; 16 strokes. Radical 164 酉. It has no rank of its own in the Classical Chinese lists.
+
+### 醱
+A separate character, 醱 (酉 + 發, "to ferment a second time"), also an alternative to 發 in 發酵 "to ferment". SKIP 1-7-12; 19 strokes. Radical 164 酉. It has no rank of its own in the Classical Chinese lists.
+
+### 潑
+A separate character, 潑 (氵 + 發, "to splash, to pour"), sharing the phonetic; 溌 is its shinjitai and 泼 its simplified form. SKIP 1-3-12; 15 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+
+### 撥
+A separate character, 撥 (扌 + 發, "to wave, to turn"), sharing the phonetic; 𫝼 is its shinjitai and 拨 its simplified form. SKIP 1-3-12; 15 strokes. Radical 064 手. It ranks 2896 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+
+### 𫝼
+Japanese shinjitai of 撥 (扌 + 発). SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
+
+### 拨
+Simplified Chinese form of 撥 (扌 + 发). SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
+
+### 溌
+Japanese shinjitai of 潑 (氵 + 発). SKIP 1-3-9; 12 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+
+### 泼
+Simplified Chinese form of 潑 (氵 + 发). SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[発]]<rt>ㄈㄚㄊ</rt></ruby> "issue forth; discharge" (stand-in for 発)

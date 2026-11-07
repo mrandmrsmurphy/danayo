@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 𫛡 --> 鴔
+- 𥎵 --> 知
 
 ## Datacheck
 ```dataview

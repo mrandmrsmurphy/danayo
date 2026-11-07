@@ -36,6 +36,7 @@ tags:
 - 䨭 --> 宵
 - 贊 --> 賛
 - 䳟 --> 明
+- 醱 --> 発
 
 ## Data check
 ```dataview

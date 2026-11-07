@@ -27,6 +27,7 @@ tags:
 
 ### Aliases
 - 净 --> 浄
+- 佰 --> 百
 
 ## Datacheck
 ```dataview

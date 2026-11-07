@@ -35,6 +35,7 @@ tags:
 - 汇 --> 彙
 - 业 --> 業
 - 囘 --> 回
+- 发 --> 発
 
 ## Data check
 ```dataview

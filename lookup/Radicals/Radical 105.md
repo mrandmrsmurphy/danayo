@@ -18,6 +18,9 @@ tags: [lookup]
 ### +7 Strokes
 3. <ruby>[登](../../characters/登%20(char).md)<rt>ㄉㄨㄫ</rt></ruby> - mount
 
+### Aliases
+- 發 --> 発
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

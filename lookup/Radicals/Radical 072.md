@@ -103,6 +103,7 @@ tags: [lookup]
 ### Aliases
 - 昸 --> 冬
 - 㫡 --> 冬
+- 𣉻 --> 知
 
 ## Data check
 ```dataview

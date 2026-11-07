@@ -69,7 +69,7 @@ tags:
 
 31. <ruby>[惰](/characters/惰.md)<rt>ㄉ⺢</rt></ruby> - lazy, indolent
 32. <ruby>[愉](/characters/愉.md)<rt>⼜ㄇ</rt></ruby> - pleased, happy, cheerful
-33. <ruby>[愕](/characters/愕.md)<rt>ㄋ⼄ㄎ</rt></ruby> - startled, astonished
+33. <ruby>[愕](/characters/愕.md)<rt>ㄚㄎ</rt></ruby> - startled, astonished
 34. <ruby>[慌](/characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - flustered, nervous, panic
 
 ### 手
@@ -143,6 +143,8 @@ tags:
 
 ### Aliases
 - 揃 --> 前
+- 𫝼 --> 発
+- 溌 --> 発
 
 ## Datacheck
 ```dataview

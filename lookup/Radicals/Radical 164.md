@@ -54,6 +54,10 @@ tags: [lookup]
 21. <ruby>[醴](../../characters/醴.md)<rt>ㄌㄝㄧ</rt></ruby> - sweet water
 22. <ruby>[醸](../../characters/醸.md)<rt>ㄋ⼘ㄫ</rt></ruby> - brew
 
+### Aliases
+- 醗 --> 発
+- 醱 --> 発
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

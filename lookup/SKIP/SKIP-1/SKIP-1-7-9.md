@@ -35,6 +35,9 @@ tags:
 23. <ruby>[頼](characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> "trust, rely upon, depend on"
 24. <ruby>[諺](characters/諺.md)<rt>ㄝㄋ</rt></ruby> "proverb"
 
+### Aliases
+- 醗 --> 発
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

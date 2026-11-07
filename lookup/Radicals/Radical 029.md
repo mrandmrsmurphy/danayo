@@ -41,6 +41,7 @@ tags: [lookup]
 
 ### Aliases
 - 叛 --> 反
+- 发 --> 発
 
 ## Data check
 ```dataview

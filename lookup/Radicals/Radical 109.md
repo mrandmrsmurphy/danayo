@@ -61,6 +61,7 @@ tags:
 
 ### Aliases
 - 眀 --> 明
+- 眞 --> 真
 
 ## Data check
 ```dataview

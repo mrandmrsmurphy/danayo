@@ -26,6 +26,9 @@ tags: [lookup]
 13. <ruby>[賁](characters/賁.md)<rt>ㄅㄨㄋ</rt></ruby> "energetic"
 14. <ruby>[黍](characters/黍.md)<rt>ㄙ⼄</rt></ruby> "millet"
 
+### Aliases
+- 發 --> 発
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

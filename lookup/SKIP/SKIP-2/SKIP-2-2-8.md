@@ -26,6 +26,9 @@ tags: [lookup]
 14. <ruby>[高](characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby> "high"
 15. <ruby>[拿](/characters/拿.md)<rt>ㄋㄚ</rt></ruby> "take grasp"
 
+### Aliases
+- 眞 --> 真
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
