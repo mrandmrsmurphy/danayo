@@ -37,6 +37,7 @@ tags:
 - 艸 --> 草
 - 讽 --> 風
 - 收 --> 収
+- 师 --> 師
 
 ## Data check
 ```dataview

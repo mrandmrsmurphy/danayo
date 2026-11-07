@@ -129,3 +129,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 囲 | 围 | 3-3-4 | computed from its parts |
 | 国 | 帼 | 1-3-8 | computed from its parts |
 | 売 | 卖 | 2-2-6 | computed from its parts |
+| 師 | 师 | 1-1-5 | computed from its parts |

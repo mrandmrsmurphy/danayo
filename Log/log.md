@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 師 perfected to the current standard:** `## Aliases` section for 师 (simplified, 刂 for 𠂤; SKIP 1-1-5 computed), redirects added, with one new redirect-only SKIP leaf (1-1-5) and its index entry on `SKIP-1-1`; rank 141, six words and 獅 verified. [AI]
+
+- **Character loop, 市 perfected to the current standard:** the note about 巿 moved after the four standard Notes bullets; no aliases; rank 668, six words and two derived characters verified. [AI]
+
+- **Character loop, 巧 perfected to the current standard:** no aliases; rank 1004 verified in `CC 1000`; all four words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 崴 perfected to the current standard:** the four level links were broken (missing `../`, capital `Lookup/`) and now resolve; Old Chinese readings filled in where the page said uncertain (崴 *qruːl, 威 *qul, Zhengzhang via en.Wiktionary); name-only character on `List of 名専字`, `mc_id` 0 and its one word verified; no aliases. [AI]
+
 - **Character loop, 家 perfected to the current standard:** `## Aliases` section for 傢 (a separate character that Chinese simplified to 家; 傢具 is 家具 here), redirects added; frontmatter field order fixed (`hanmun_edu_level` moved to its place); rank 148, 34 words, four chengyu and both derived characters verified. [AI]
 
 - **Character loop, 学 perfected to the current standard:** `## Aliases` section for 學 (traditional; its rank 314 is the `mc_id`), redirects added; rank sentence dropped from Notes; all 68 words and 覚 verified. [AI]

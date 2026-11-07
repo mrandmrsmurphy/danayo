@@ -12,7 +12,7 @@ These are pages about <ruby>漢字<rt>ㄏㄚㄋㄐㄧ</rt></ruby> defined by a l
 - [SKIP-1-1-2](lookup/SKIP/SKIP-1/SKIP-1-1-2.md): 小, 川
 - [SKIP-1-1-3](lookup/SKIP/SKIP-1/SKIP-1-1-3.md): 心, 水
 - [SKIP-1-1-4](lookup/SKIP/SKIP-1/SKIP-1-1-4.md): 必, 旧
-- SKIP/1/1/5 - none
+- [SKIP-1-1-5](lookup/SKIP/SKIP-1/SKIP-1-1-5.md): ø
 - SKIP/1/1/6 - none
 - [SKIP-1-1-7](lookup/SKIP/SKIP-1/SKIP-1-1-7.md): 承
 - [SKIP-1-1-8](lookup/SKIP/SKIP-1/SKIP-1-1-8.md): 胤

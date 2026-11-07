@@ -61,6 +61,7 @@ tags:
 - 帋 --> 紙
 - 幗 --> 国
 - 帼 --> 国
+- 师 --> 師
 
 ## Data check
 ```dataview
