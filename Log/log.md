@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 艮 perfected:** rank 2147 verified in `CC 2000`; name-only character on `List of 名専字`; all eight derived characters present; no edits beyond the stamp. [AI]
+
 - **Character loop, 穢 perfected:** level links reordered to Grade, HSK, Jōyō, Korean; rank 1935 and its one word checked. [AI]
 
 - **Character loop, 煌 perfected:** rank 2063 verified in `CC 2000`; name-only character on `List of 名専字`, no words; no edits beyond the stamp. [AI]
