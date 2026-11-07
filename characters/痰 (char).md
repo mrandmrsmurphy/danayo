@@ -30,7 +30,7 @@ graphemic_classification: "炎"
 stand_in: "痰"
 aliases:
 注音: "ㄉㄚㄇ"
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: true
 tags:
   - character
