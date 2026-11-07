@@ -17,24 +17,24 @@ skip_number: 1-5-4
 grade_level: "1"
 pos: 名詞
 english:
-- autumn
-- fall
+  - autumn
+  - fall
 羅馬字: cuo
 諺文: 춧
-joyo_level: '2'
-hsk_level: '1'
+joyo_level: "2"
+hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 156
 mc_id: 229
 graphemic_classification: 会意
 stand_in: 秋
 aliases:
-- 鞦
-- 龝
-- 穐
-- 秌
+  - 鞦
+  - 龝
+  - 穐
+  - 秌
 注音: ㄑㄨㄛ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,20 @@ boundedness: 65
 - [SKIP-1-5-4](../lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 229th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄑㄨㄛ](../syllables/ㄑㄨㄛ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鞦
+A separate character, 鞦 (革 + 秋, "swing"; also a crupper), built with 秋 as its phonetic and simplified to 秋 in Chinese (Wiktionary). SKIP 1-9-9; 18 strokes. Radical 177 革. It has no rank of its own in the Classical Chinese lists.
+
+### 龝
+Archaic form of 秋, which Japanese lists as an alternative form (Wiktionary), written 禾 + 龜. SKIP 1-5-16; 21 strokes. Radical 213 龜. It has no rank of its own in the Classical Chinese lists.
+
+### 穐
+Alternative form of 秋 in Japanese (Wiktionary), written 禾 + 亀. SKIP 1-5-11; 16 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 秌
+Variant form of 秋 (Wiktionary), with 禾 and 火 swapped. SKIP 1-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[秋]]<rt>ㄑㄨㄛ</rt></ruby> "autumn" (stand-in for 秋)

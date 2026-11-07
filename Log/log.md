@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 米 perfected to the current standard:** no aliases; rank 1319 verified in `CC 1000`; all ten words and nine derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 竹 perfected to the current standard:** no aliases; rank 1130 verified in `CC 1000`; all five words listed and both characters with 竹 as phonetic (竺, 篤) are in Derived Characters; the bamboo-radical family (43 characters) stays on `Radical 118`; no edits beyond the stamp. [AI]
+
+- **Character loop, 空 perfected to the current standard:** `## Aliases` section for the rare glyphs 𠀝 and 𢦉 (variant forms per Wiktionary; bare mentions; both SKIP numbers computed), redirects added, with a new redirect-only SKIP leaf 1-3-25 and its index entry on `SKIP-1-3` (which also gained `No` rows for 23 and 24); rank 632, 20 words, four chengyu and two derived characters verified. [AI]
+
+- **Character loop, 秋 perfected to the current standard:** `## Aliases` section for 鞦, 龝, 穐 and 秌 (Wiktionary, EDRDG, Unihan; 秌's SKIP 1-5-4 computed), redirects added with one new redirect-only SKIP leaf (1-5-16, for 龝) and its index entry on `SKIP-1-5`; frontmatter lists indented to the vault style; rank 229, ten words, four chengyu and two derived characters verified. [AI]
+
 - **Character loop, 神 perfected to the current standard:** no aliases; rank 218 verified in `CC 0000`; all 22 words (including the new 神助 and 神聴) and three chengyu listed; no edits beyond the stamp. [AI]
 
 - **愕 moved from nyog (ㄋ⼄ㄎ) to 'ag (ㄚㄎ) (Murphy: "I'm starting to regret having 愕 be pronounced nyog"; "delete it"):** 愕 now reads like its relatives 鄂, 顎 and 鰐 (MC ŋ + ɑk, Korean 악, Japanese GAKU, Vietnamese ngạc, Cantonese ngok6). 愕 and 驚愕 changed in 注音, 諺文 and 羅馬字 (驚愕 is now ㄍ⼶ㄫㄚㄎ, 경악), both `kwin` now true; the rubies on `驚`, `Emotions`, `Grade Advanced`, `Radical 061`, `SKIP-1-3-9` and `Stroke 12` updated; the `ㄋ⼄ㄎ` syllable page deleted (its entry on `Syllables` is now plain text like the other unused syllables), and 愕 added to `ㄚㄎ`. The `韻 鈬開` page is now uniform (34 of 34 on ㄚㄎ) and `聲 疑` has one ㄋ exception, 牛, instead of two. [AI]

@@ -112,3 +112,6 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 知 | 𥎵 | 1-5-5 | computed from its parts |
 | 知 | 𣉻 | 2-4-11 | computed from its parts |
 | 知 | 𥏼 | 1-5-11 | computed from its parts |
+| 秋 | 秌 | 1-5-4 | computed from its parts |
+| 空 | 𠀝 | 2-2-4 | computed from its parts |
+| 空 | 𢦉 | 1-3-25 | computed from its parts |

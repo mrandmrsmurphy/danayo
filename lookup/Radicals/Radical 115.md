@@ -70,6 +70,10 @@ tags: [lookup]
 ### +17 Strokes
 35. <ruby>[穣](../../characters/穣%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - stalks of grain
 
+### Aliases
+- 穐 --> 秋
+- 秌 --> 秋
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"

@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[占](../../characters/占%20(char).md)<rt>ㄐㄝㄇ</rt></ruby> - occupy
 4. <ruby>[卦](../../characters/卦%20(char).md)<rt>ㄍ⺢ㄧ</rt></ruby> - trigram
 
+### Aliases
+- 𠀝 --> 空
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

@@ -35,7 +35,7 @@ aliases:
   - 𠀝
   - 𢦉
 注音: ㄎㄛㄫ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,14 @@ boundedness: 100
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 632nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄎㄛㄫ](../syllables/ㄎㄛㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𠀝
+Variant form of 空 (Wiktionary); a rare glyph with no use of its own. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 025 卜. It has no rank of its own in the Classical Chinese lists.
+
+### 𢦉
+Variant form of 空 (Wiktionary); a rare glyph with no use of its own. SKIP 1-3-25 (computed: EDRDG does not list it); 28 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby> "empty" (stand-in for 空)

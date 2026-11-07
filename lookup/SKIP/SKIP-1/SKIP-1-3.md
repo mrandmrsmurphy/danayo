@@ -28,6 +28,9 @@ tags: [lookup]
 20. [SKIP-1-3-20](lookup/SKIP/SKIP-1/SKIP-1-3-20.md): 攫
 21. [SKIP-1-3-21](lookup/SKIP/SKIP-1/SKIP-1-3-21.md): 衢
 22. [SKIP-1-3-22](lookup/SKIP/SKIP-1/SKIP-1-3-22.md): 攬
+23. No
+24. No
+25. [SKIP-1-3-25](lookup/SKIP/SKIP-1/SKIP-1-3-25.md): ø
 
 ## Base check
 ```base

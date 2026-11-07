@@ -59,6 +59,7 @@ tags:
 - 廻 --> 回
 - 眀 --> 明
 - 宥 --> 有
+- 秌 --> 秋
 
 ## Data check
 ```dataview

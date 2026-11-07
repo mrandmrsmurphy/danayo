@@ -161,6 +161,7 @@ tags: [lookup]
 ### Aliases
 - 懼 --> 惧
 - 恳 --> 懇
+- 𢦉 --> 空
 
 ## Data check
 ```dataview

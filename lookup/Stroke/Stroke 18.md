@@ -50,6 +50,7 @@ tags:
 - 龜 --> 亀
 - 檯 --> 台
 - 襠 --> 当
+- 鞦 --> 秋
 
 ## Data check
 ```dataview

@@ -30,6 +30,7 @@ tags:
 ### Aliases
 - 叛 --> 反
 - 眀 --> 明
+- 秌 --> 秋
 
 ## Datacheck
 ```dataview

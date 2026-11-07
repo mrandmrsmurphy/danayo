@@ -32,6 +32,9 @@ tags: [lookup]
 19. <ruby>[色](/characters/色.md)<rt>ㄙㄧㄎ</rt></ruby> "color"
 20. <ruby>[衣](/characters/衣.md)<rt>ㄧㄜ</rt></ruby> "clothing"
 
+### Aliases
+- 𠀝 --> 空
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

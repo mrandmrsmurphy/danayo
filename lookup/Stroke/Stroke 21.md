@@ -32,6 +32,7 @@ tags:
 - 鶵 --> 雛
 - 鷆 --> 真
 - 鷏 --> 真
+- 龝 --> 秋
 
 ## Data check
 ```dataview

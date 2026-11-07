@@ -53,6 +53,7 @@ tags:
 - 燈 --> 灯
 - 醗 --> 発
 - 𥏼 --> 知
+- 穐 --> 秋
 
 ## Data check
 ```dataview

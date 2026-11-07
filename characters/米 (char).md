@@ -31,7 +31,7 @@ graphemic_classification: "象形"
 stand_in: "米"
 aliases:
 注音: "ㄇㄝㄧ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

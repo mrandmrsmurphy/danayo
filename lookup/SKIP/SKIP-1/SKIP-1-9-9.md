@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[顕](/characters/顕.md)<rt>ㄏㄝㄋ</rt></ruby> "prominent; clear"
 6. <ruby>[類](/characters/類.md)<rt>ㄌㄨㄧ</rt></ruby> "kind; sort; category"
 
+### Aliases
+- 鞦 --> 秋
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

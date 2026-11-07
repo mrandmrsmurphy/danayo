@@ -19,6 +19,9 @@ tags: [lookup]
 8. <ruby>[鞠](../../characters/鞠.md)<rt>ㄍㄨㄎ</rt></ruby> - raise, bow
 9. <ruby>[鞭](../../characters/鞭.md)<rt>ㄅ⼶ㄋ</rt></ruby> - whip
 
+### Aliases
+- 鞦 --> 秋
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -33,6 +33,7 @@ tags:
 - 她 --> 他
 - 划 --> 劃
 - 𠂤 --> 堆
+- 𠀝 --> 空
 
 ## Data check
 ```dataview

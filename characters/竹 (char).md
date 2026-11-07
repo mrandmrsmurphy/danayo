@@ -27,7 +27,7 @@ mc_id: 1130
 graphemic_classification: "象形"
 stand_in: "竹"
 注音: "ㄐㄨㄎ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
