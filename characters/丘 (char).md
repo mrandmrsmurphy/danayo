@@ -32,7 +32,7 @@ aliases:
   - 㐀
   - 蚯
 注音: ㄎ⼜
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
