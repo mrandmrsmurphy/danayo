@@ -32,7 +32,7 @@ stand_in: 出
 aliases:
   - 齣
 注音: ㄑㄨㄊ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 tags:
   - character
 kwin: true
@@ -85,3 +85,4 @@ boundedness: 90
 ## Derived Characters
 - <ruby>[[拙]]<rt>ㄐ⼔ㄊ</rt></ruby> "awkward, clumsy"
 - <ruby>[[黜]]<rt>ㄊㄨㄊ</rt></ruby> "dethrone"
+- <ruby>[[屈 (char)|屈]]<rt>ㄎㄨㄊ</rt></ruby> "bend"

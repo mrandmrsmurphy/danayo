@@ -29,7 +29,7 @@ graphemic_classification: 乂
 stand_in: 刈
 注音: ⼘ㄧ
 kwin: false
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 65
