@@ -32,7 +32,7 @@ stand_in: 下
 aliases:
   - 丅
 注音: ㄏㄚ
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: true
 tags:
   - character

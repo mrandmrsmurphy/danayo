@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 下 perfected:** rank 21 checked against `CC 0000`; every word and chengyu using it is listed; no edits beyond the stamp. It lacks an `## Aliases` section (to-do) and its alias 丅 has no Stroke or SKIP redirect yet. [AI]
+
+- **Character loop, 蜆 perfected:** `mc_id` set to 0 (absent from the ranking, as is its alias 蚬), MC bullet reworded, homophones checked against the vault. [AI]
+
 - **Character loop, 蔚 perfected:** rank 3849 checked against `CC 3000`, homophone (尉) and all links verified; no edits needed beyond the stamp. [AI]
 
 - **Character loop resumed (Murphy: "resume the loop perfecting characters"):** oldest-stamped character is 芹 (2026-10-11), now perfected: `mc_id` set to 0 (absent from the Classical Chinese ranking and from its aliases' ranks) with the MC bullet reworded, homophones checked against `syllables/ㄍㄧㄋ`. It lacks an `## Aliases` section, which is a to-do and not a failure. [AI]
