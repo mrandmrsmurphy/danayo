@@ -74,21 +74,7 @@ tags:
 25. 恵偕丙書
 26. 獅偕書
 27. 啟示錄
-# Names
-- 長族 Eldest Tribe = Reuben
-- 聽族 Listening Tribe = Simeon
-- 獅族 Lion Tribe = Judah
-- 判族 Judging Tribe = Dan
-- 捷族 Swift Tribe = Naphtali
-- 武族 Warring Tribe = Gad
-- 福族 Fortunate Tribe = Asher
-- 明族 Bright Tribe = Issachar
-- 港族 Harbor Tribe = Zebulun
-- 右族 Right Tribe = Benjamin
-- 附族 Attached Tribe = Levi
-- 雙族 Double Tribe = Joseph
-	- 忘族 Forget Tribe = Manasseh (半族)
-	- 豐族 Abundant Tribe = Ephraim (半族)
+
 
 ## Others
 - 高父 → 衆父 Abram->Abraham 
@@ -108,15 +94,9 @@ tags:
 榮光不息，永世弗替。
 如是。
 
-Hepburn
-Verbeck
-Taisho Revised Version Committee
-新改訳
+Hepburn; Verbeck; Taisho Revised Version Committee ; 新改訳
 
 Be sure to use [[結]] for Genesis 2:24, Matthew 19:6, 1 Samuel 18:1, Dt 6:6-8, mt 16:19, 12:29; 11:29-30
-Naomi ...直霊?
-defilement/טֻמְאָה - 穢
-transgression/עֲבֵירָה - 罪
 sin/חֵטְא - 業力 power of sin vs 業報 result of sin
 disaster/רָע - 禍
 John 10:9 - 鳥居

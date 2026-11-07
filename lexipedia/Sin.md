@@ -123,6 +123,8 @@ Pride is already covered above (<ruby>[[傲慢]]<rt>ㄚㄨㄇㄚㄋ</rt></ruby>)
 
 **<ruby>[[屠殺]]<rt>ㄉㄛㄙㄚㄊ</rt></ruby> and <ruby>[[殺戮]]<rt>ㄙㄚㄊㄌㄨㄎ</rt></ruby> are two shades of "slaughter"**: <ruby>[[屠殺]]<rt>ㄉㄛㄙㄚㄊ</rt></ruby> covers both the literal butchering of livestock and, by extension, the mass killing of people; <ruby>[[殺戮]]<rt>ㄙㄚㄊㄌㄨㄎ</rt></ruby> is slaughter as bloodshed, with no butchering sense.
 
+**業力 and 業報 are the power of sin and the result of sin.** <ruby>[[業報]]<rt>ㄝㄆㄅㄚㄨ</rt></ruby> is the result, the consequence a sin brings back on the one who did it ("the wages of sin is death," Romans 6:23). 業力 would be the power: sin as a force that grips a person and drives the deed (Genesis 4:7, "sin is crouching at the door," and Romans 6). The power comes before the deed and the result after it. 業力 is not yet a word, because Wiktionary attests it for Chinese only; until it is coined, the power of sin is said as [[罪業]] ("a sin as a weighty deed") with the context carrying the sense. See [基督敎](../lexipedia/基督敎.md) for the Hebrew senses.
+
 **Shame splits cleanly into external and internal registers**: [[恥辱]] is disgrace as others perceive it; [[羞恥]] is the felt, internal sense of shame. Both genuinely distinct, not a duplicate pair.
 
 ## See Also
