@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 活 perfected to the current standard:** `## Aliases` section for 𣴠 (the conservative variant per Wiktionary; bare mention; SKIP 1-3-7 computed), redirects added; rank 1850, seven words, the chengyu and 闊 verified. [AI]
+
+- **Character loop, 汁 perfected to the current standard:** no aliases; rank 2313 verified in `CC 2000`; all four words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
+
+- **Character loop, 某 perfected to the current standard:** no aliases; rank 1332 verified in `CC 1000`; all ten words and three derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 本 perfected to the current standard:** no aliases; the nihonium abbreviation note moved after the four standard Notes bullets; rank 302, 20 words, the chengyu and both derived characters verified. [AI]
+
 - **Character loop, 有 perfected to the current standard:** `## Aliases` section for 宥 (a separate character, "forgive"; no link found on Wiktionary beyond its shape), redirects added; rank 12, 17 words, the chengyu and three derived characters verified. [AI]
 
 - **Character loop, 春 perfected to the current standard:** `## Aliases` section for 萅 (archaic form per Wiktionary; SKIP 2-3-8 computed), redirects added; rank 211, 12 words, two chengyu and both derived characters verified. [AI]

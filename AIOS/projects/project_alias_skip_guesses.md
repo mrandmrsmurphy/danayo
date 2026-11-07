@@ -101,3 +101,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 当 | 裆 | 1-5-6 | computed from its parts |
 | 明 | 䳟 | 1-8-11 | computed from its parts |
 | 春 | 萅 | 2-3-8 | computed from its parts |
+| 活 | 𣴠 | 1-3-7 | computed from its parts |

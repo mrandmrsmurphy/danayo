@@ -31,7 +31,7 @@ stand_in: "活"
 aliases:
   - 𣴠
 注音: "ㄏ⺢ㄊ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 90
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1850th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄏ⺢ㄊ](../syllables/ㄏ⺢ㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𣴠
+The conservative variant of 活 (Wiktionary), written 氵 + 𠯑 before 𠯑 turned into 舌; a rare glyph with no use of its own. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[活]]<rt>ㄏ⺢ㄊ</rt></ruby> "alive" (stand-in for 活)

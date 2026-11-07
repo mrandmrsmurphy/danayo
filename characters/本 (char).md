@@ -35,7 +35,7 @@ mc_id: 302
 graphemic_classification: "指事"
 stand_in: "本"
 注音: "ㄅㄛㄋ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -48,11 +48,11 @@ boundedness: 45
 ```
 
 ## Notes
-- abbreviation for <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium" in periodic-table formulae — see [[Periodic Table]]
 - [List of 指事](../lookup/List%20of%20指事.md): a horizontal stroke added at the base of [[木]] ("tree"), marking the root; "origin, foundation."
 - [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 302nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄅㄛㄋ](../syllables/ㄅㄛㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+- abbreviation for <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium" in periodic-table formulae — see [[Periodic Table]]
 
 ## Words
 - <ruby>[[本]]<rt>ㄅㄛㄋ</rt></ruby> "foundation" (stand-in for 本)

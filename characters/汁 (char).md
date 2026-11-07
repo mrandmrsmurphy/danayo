@@ -30,7 +30,7 @@ graphemic_classification: 十
 stand_in: 汁
 aliases:
 注音: ㄐㄜㄆ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
