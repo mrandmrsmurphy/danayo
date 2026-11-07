@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[㒼](../../characters/㒼.md)<rt>ㄇㄚㄇ</rt></ruby> - cover
 6. <ruby>[冕](../../characters/冕.md)<rt>ㄇ⼶ㄋ</rt></ruby> - crown
 
+### Aliases
+- 囘 --> 回
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "English"

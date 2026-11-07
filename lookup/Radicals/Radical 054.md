@@ -14,6 +14,9 @@ tags:
 2. <ruby>[廷](../../characters/廷.md)<rt>ㄉㄝㄫ</rt></ruby> - imperial court
 3. <ruby>[建](../../characters/建.md)<rt>ㄍㄝㄋ</rt></ruby> - build
 
+### Aliases
+- 廻 --> 回
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

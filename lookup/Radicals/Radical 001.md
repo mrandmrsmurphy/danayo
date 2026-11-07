@@ -82,6 +82,7 @@ Radical 1 is 一, the number one.
 - 𠀃 --> 且
 - 㐀 --> 丘
 - 业 --> 業
+- 𠁈 --> 君
 
 ## Data check
 ```dataview

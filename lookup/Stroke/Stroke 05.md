@@ -34,6 +34,7 @@ tags:
 - 㒰 --> 全
 - 汇 --> 彙
 - 业 --> 業
+- 囘 --> 回
 
 ## Data check
 ```dataview

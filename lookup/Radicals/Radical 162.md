@@ -107,6 +107,9 @@ tags: [lookup]
 ### +20 Strokes
 69. <ruby>[邏](../../characters/邏.md)<rt>ㄌㄚ</rt></ruby> - patrol
 
+### Aliases
+- 迴 --> 回
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

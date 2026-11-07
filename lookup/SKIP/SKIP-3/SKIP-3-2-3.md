@@ -23,6 +23,9 @@ tags: [lookup]
 11. <ruby>[用](/characters/用.md)<rt>⼄ㄫ</rt></ruby> - use
 12. <ruby>[石](/characters/石%20(char).md)<rt>ㄙㄝㄎ</rt></ruby> - rock
 
+### Aliases
+- 囘 --> 回
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -96,6 +96,7 @@ tags:
 - 沱 --> 他
 - 沲 --> 他
 - 饱 --> 飽
+- 坮 --> 台
 
 ## Datacheck
 ```dataview

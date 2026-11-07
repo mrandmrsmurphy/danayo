@@ -33,6 +33,7 @@ tags:
 
 ### Aliases
 - 絕 --> 絶
+- 蛔 --> 回
 
 ## Datacheck
 ```dataview

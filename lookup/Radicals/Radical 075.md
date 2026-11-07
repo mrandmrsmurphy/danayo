@@ -213,6 +213,7 @@ tags: [lookup]
 - 枽 --> 枼
 - 柰 --> 乃
 - 槕 --> 桌
+- 檯 --> 台
 
 ## Data check
 ```dataview

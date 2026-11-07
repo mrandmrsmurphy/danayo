@@ -50,6 +50,8 @@ tags: [lookup]
 - 韩 --> 韓
 - 揃 --> 前
 - 廁 --> 厠
+- 𠁈 --> 君
+- 蛔 --> 回
 
 ## Data check
 ```dataview

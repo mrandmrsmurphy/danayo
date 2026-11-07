@@ -50,6 +50,7 @@ tags:
 - 厕 --> 厠
 - 责 --> 責
 - 饱 --> 飽
+- 坮 --> 台
 
 ## Data check
 ```dataview

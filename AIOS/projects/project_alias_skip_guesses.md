@@ -92,3 +92,8 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 責 | 责 | 2-4-4 | 龶 4 over 贝 4 |
 | 飽 | 饱 | 1-3-5 | 饣 3 + 包 5 |
 | 即 | 卽 | 1-7-2 | computed from its parts |
+| 君 | 𠺞 | 1-3-10 | computed from its parts |
+| 君 | 𠁈 | 2-1-11 | computed from its parts |
+| 君 | 𠱩 | 1-3-6 | computed from its parts |
+| 君 | 𠱭 | 1-3-6 | computed from its parts |
+| 君 | 𠱰 | 1-3-6 | computed from its parts |

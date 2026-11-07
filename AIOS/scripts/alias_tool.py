@@ -45,7 +45,7 @@ def cpath(c): return f"characters/{c} (char).md" if os.path.exists(f"characters/
 def fm(t,k):
     m=re.search(rf"^{k}:\s*(.*)$",t,re.M); return m.group(1).strip().strip('"') if m else None
 def aliases(t):
-    m=re.search(r"^aliases:\n((?:\s+- .*\n?)+)",t,re.M); return [a.strip() for a in re.findall(r"^\s+- (.+)$",m.group(1),re.M)] if m else []
+    m=re.search(r"^aliases:\n((?:\s*- .*\n?)+)",t,re.M); return [a.strip() for a in re.findall(r"^\s*- (.+)$",m.group(1),re.M)] if m else []
 def ccranks():
     r={}
     for p in glob.glob("lookup/CC/CC *.md"):

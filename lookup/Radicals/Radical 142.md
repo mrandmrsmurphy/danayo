@@ -85,6 +85,7 @@ tags:
 ### Aliases
 - 蚯 --> 丘
 - 蚬 --> 蜆
+- 蛔 --> 回
 
 ## Data check
 ```dataview

@@ -34,7 +34,7 @@ aliases:
   - 廻
   - 蛔
 注音: "ㄏㄛㄧ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -51,6 +51,20 @@ boundedness: 90
 - [SKIP-3-3-3](../lookup/SKIP/SKIP-3/SKIP-3-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 1120th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](../syllables/ㄏㄛㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 囘
+Alternative form of 回 (Wiktionary). SKIP 3-2-3; 5 strokes. Radical 013 冂. It has no rank of its own in the Classical Chinese lists.
+
+### 迴
+Traditional form of 回 in the sense "to revolve" (辶 + 回); Chinese simplified it to 回. SKIP 3-4-6; 10 strokes. Radical 162 辵. It ranks 3335 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+
+### 廻
+Alternative form of 迴 (Unihan), which Japanese lists with 回 (Wiktionary). SKIP 3-3-6; 9 strokes. Radical 054 廴. It has no rank of its own in the Classical Chinese lists.
+
+### 蛔
+A separate character, 蛔 (虫 + 回), the first character of 蛔虫 "roundworm", which Dan'a'yo writes 回虫. SKIP 1-6-6; 12 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[回]]<rt>ㄏㄛㄧ</rt></ruby> "turns" (stand-in for 回)

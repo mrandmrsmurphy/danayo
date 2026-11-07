@@ -23,6 +23,9 @@ tags: [lookup]
 11. <ruby>[逆](characters/逆%20(char).md)<rt>ㄝㄎ</rt></ruby> "rebellion; betrayal; traitor"
 12. <ruby>[迷](/characters/迷%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - confused
 
+### Aliases
+- 廻 --> 回
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

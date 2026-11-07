@@ -48,6 +48,7 @@ tags:
 - 鯑
 - 𩸽
 - 龜 --> 亀
+- 檯 --> 台
 
 ## Data check
 ```dataview

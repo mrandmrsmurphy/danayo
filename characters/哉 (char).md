@@ -28,7 +28,7 @@ mc_id: 272
 graphemic_classification: "𢦏"
 stand_in: "哉"
 注音: "ㄐㄚㄧ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

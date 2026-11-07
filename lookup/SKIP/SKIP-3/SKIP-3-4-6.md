@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[翅](/characters/翅.md)<rt>ㄙㄧ</rt></ruby> - shark fin
 
+### Aliases
+- 迴 --> 回
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

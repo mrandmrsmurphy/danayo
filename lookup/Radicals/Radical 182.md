@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[風](../../characters/風%20(char).md)<rt>ㄈㄨㄫ</rt></ruby> - wind
 2. <ruby>[颯](../../characters/颯%20(char).md)<rt>ㄙㄚㄆ</rt></ruby> - gale
 
+### Aliases
+- 颱 --> 台
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

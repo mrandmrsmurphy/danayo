@@ -25,7 +25,7 @@ One bullet per logical change, not per file:
 ```
 
 1. **Bold summary first**, a clause: "Lexipedia Trade perfected", "New word 犯肉", "Typo fixes on Sensation".
-2. **Name the authority.** `(Murphy: …)` when the owner directed or decided the change, `[AI]` when the agent proposed the content. The log must be able to answer "which parts did a human decide?".
+2. **Name the authority.** `(user: …)` when the owner directed or decided the change, `[AI]` when the agent proposed the content. The log must be able to answer "which parts did a human decide?".
 3. **Backtick vault-relative paths** for pages: `lexipedia/Trade`, `words/犯肉`.
 4. **Report substance, not just actions**: name the words coined, the readings chosen, the rule applied, not "updated the page".
 5. **Report verification**: the Wiktionary survey and the two-language rule for each coinage, lints run, claims checked; flag anything left unverified.

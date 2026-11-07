@@ -117,6 +117,7 @@ tags:
 
 ### Aliases
 - 圣 --> 聖
+- 坮 --> 台
 
 ## Data check
 ```dataview

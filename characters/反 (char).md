@@ -55,7 +55,7 @@ boundedness: 100
 ## Aliases
 
 ### 叛
-A separate character, 叛 (半 as phonetic + 反 as semantic, "to rebel, to betray"). Dan'a'yo folds it into 反, as Japanese does: "anti-" and "rebel" are close enough (Murphy, 2026-07-19), and words conventionally written with 叛, such as 反乱, are read with 反's own sound. SKIP 1-5-4; 9 strokes. It ranks 1111 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+A separate character, 叛 (半 as phonetic + 反 as semantic, "to rebel, to betray"). Dan'a'yo folds it into 反, as Japanese does: "anti-" and "rebel" are close enough (2026-07-19), and words conventionally written with 叛, such as 反乱, are read with 反's own sound. SKIP 1-5-4; 9 strokes. It ranks 1111 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[反]]<rt>ㄈㄛㄋ</rt></ruby> "anti-; wrong side up" (stand-in for 反)

@@ -51,6 +51,7 @@ tags:
 - 骏 --> 俊
 - 剧 --> 劇
 - 蚬 --> 蜆
+- 迴 --> 回
 
 ## Data check
 ```dataview

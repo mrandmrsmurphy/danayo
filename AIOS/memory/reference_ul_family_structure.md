@@ -4,9 +4,9 @@ description: Dan'a'yo is the flagship of the Universal Languages (UL) project; s
 type: reference
 ---
 
-The UL vault (`/Users/robertmarshallmurphy/Documents/UL`) is the parent node of the Universal Languages project: fifteen regional auxiliary languages plus the cross-language comparison pages. Dan'a'yo is the flagship language: the first and furthest along, and the model the other languages follow. (User, 2026-10-29.)
+The UL vault (`~/Documents/UL`) is the parent node of the Universal Languages project: fifteen regional auxiliary languages plus the cross-language comparison pages. Dan'a'yo is the flagship language: the first and furthest along, and the model the other languages follow. (User, 2026-10-29.)
 
-Sibling vaults: UL (parent), danayo (this vault, flagship), middle-semitic (`/Users/robertmarshallmurphy/Documents/middle-semitic`).
+Sibling vaults: UL (parent), danayo (this vault, flagship), middle-semitic (`~/Documents/middle-semitic`).
 
 Inter-vault communication is uncommon, but must be painless and consistently formatted:
 
