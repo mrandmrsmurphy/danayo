@@ -60,3 +60,4 @@ date-last-perfect: 2026-10-20
 - <ruby>[[駝背]]<rt>ㄉㄚㄅㄛㄧ</rt></ruby> "hunchbacked, humpbacked"
 - <ruby>[[舌背]]<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"
 - <ruby>[[背面]]<rt>ㄅㄛㄧㄇ⼶ㄋ</rt></ruby> "back"
+- <ruby>[[背信]]<rt>ㄅㄛㄧㄙㄧㄋ</rt></ruby> "to break faith; breach of faith"

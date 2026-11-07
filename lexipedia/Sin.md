@@ -74,6 +74,18 @@ Sin vocabulary covers moral transgression and its consequences — killing, lyin
 
 **Excluded as a false match**: "excuse" also loosely matches [[免除]], already housed on [Government](../lexipedia/Government.md) — that word means to be exempted from an administrative obligation (e.g. a tax or duty), not to excuse a moral wrongdoing, so it was not cited here.
 
+### Kinds of Sin
+
+- <ruby>[罪業](../words/罪業.md)<rt>ㄐㄛㄧㄝㄆ</rt></ruby>: sin as a deed that carries weight; a sinful act.
+- <ruby>[業報](../words/業報.md)<rt>ㄝㄆㄅㄚㄨ</rt></ruby>: the consequence a deed, especially a sin, brings back on the doer.
+- <ruby>[罪悪](../words/罪悪.md)<rt>ㄐㄛㄧㄚㄎ</rt></ruby>: iniquity, guilt, wrongdoing.
+- <ruby>[不義](../words/不義.md)<rt>ㄅㄛㄊㄜㄧ</rt></ruby>: injustice, unrighteousness.
+- <ruby>[不敬](../words/不敬.md)<rt>ㄅㄛㄊㄍ⼶ㄫ</rt></ruby>: irreverence, lack of respect, especially toward what is sacred.
+- <ruby>[背信](../words/背信.md)<rt>ㄅㄛㄧㄙㄧㄋ</rt></ruby>: to break faith, be unfaithful; a breach of trust.
+- <ruby>[大罪](../words/大罪.md)<rt>ㄉㄚㄧㄐㄛㄧ</rt></ruby>: a grave or mortal sin.
+- <ruby>[罪人](../words/罪人.md)<rt>ㄐㄛㄧㄋㄧㄋ</rt></ruby>: a sinner, wrongdoer.
+- <ruby>[天罰](../words/天罰.md)<rt>ㄊㄝㄋㄅㄝㄊ</rt></ruby>: divine punishment, punishment sent from heaven.
+
 ### The Seven Deadly Sins
 
 - <ruby>[情欲](../words/情欲.md)<rt>ㄑㄧㄫ⼄ㄎ</rt></ruby>: lust, sexual desire — the specifically sexual sense. See [Emotions](../lexipedia/Emotions.md) for its own citation there.

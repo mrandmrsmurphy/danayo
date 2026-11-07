@@ -129,6 +129,7 @@ boundedness: 75
 - <ruby>[[商人]]<rt>ㄙ⼘ㄫㄋㄧㄋ</rt></ruby> "a merchant, trader"
 - <ruby>[[恋人]]<rt>ㄌㄝㄋㄋㄧㄋ</rt></ruby> "the lovers, a couple in love"
 - <ruby>[[情人]]<rt>ㄑㄧㄫㄋㄧㄋ</rt></ruby> "a sweetheart"
+- <ruby>[[罪人]]<rt>ㄐㄛㄧㄋㄧㄋ</rt></ruby> "sinner"
 
 - <ruby>[[聖人]]<rt>ㄙㄧㄫㄋㄧㄋ</rt></ruby> "sage; saint"
 - <ruby>[[詩人]]<rt>ㄙㄧ·ㄋㄧㄋ</rt></ruby> "poet"

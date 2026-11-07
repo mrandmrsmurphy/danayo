@@ -59,6 +59,10 @@ boundedness: 90
 - <ruby>[[有罪]]<rt>⼜ㄐㄛㄧ</rt></ruby> "guilty"
 - <ruby>[[冤罪]]<rt>ㄛㄋㄐㄛㄧ</rt></ruby> "wrongful conviction"
 - <ruby>[[謝罪]]<rt>ㄙ⼘ㄐㄛㄧ</rt></ruby> "apology"
+- <ruby>[[罪人]]<rt>ㄐㄛㄧㄋㄧㄋ</rt></ruby> "sinner"
+- <ruby>[[大罪]]<rt>ㄉㄚㄧㄐㄛㄧ</rt></ruby> "grave sin, mortal sin"
+- <ruby>[[罪悪]]<rt>ㄐㄛㄧㄚㄎ</rt></ruby> "iniquity, wrongdoing"
+- <ruby>[[罪業]]<rt>ㄐㄛㄧㄝㄆ</rt></ruby> "sin as a deed; a sinful act"
 
 ## Chengyu
 - <ruby>[[世間罪盛]]<rt>ㄙㄝㄍㄚㄋㄐㄛㄧㄙㄧㄫ</rt></ruby> "the world is sinful"

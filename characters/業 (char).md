@@ -68,6 +68,8 @@ boundedness: 100
 - <ruby>[[職業]]<rt>ㄐㄧㄎ·ㄝㄆ</rt></ruby> "career; job"
 - <ruby>[[事業]]<rt>ㄐㄧㄝㄆ</rt></ruby> "project"
 - <ruby>[[卒業証書]]<rt>ㄐㄨㄊ·ㄝㄆㄐㄧㄫㄙ⼄</rt></ruby> "diploma"
+- <ruby>[[業報]]<rt>ㄝㄆㄅㄚㄨ</rt></ruby> "the consequence of a sin"
+- <ruby>[[罪業]]<rt>ㄐㄛㄧㄝㄆ</rt></ruby> "sin as a deed; a sinful act"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

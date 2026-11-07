@@ -64,6 +64,7 @@ boundedness: 90
 - <ruby>[[報道]]<rt>ㄅㄚㄨㄉㄚㄨ</rt></ruby> "to cover news; report on"
 - <ruby>[[画報]]<rt>ㄏ⺢ㄎㄅㄚㄨ</rt></ruby> "pictorial; picture magazine"
 - <ruby>[[報復]]<rt>ㄅㄚㄨㄅㄨㄎ</rt></ruby> "retaliation"
+- <ruby>[[業報]]<rt>ㄝㄆㄅㄚㄨ</rt></ruby> "the consequence of a sin"
 
 ## Chengyu
 - <ruby>[[因果報応]]<rt>ㄧㄋㄍ⺢ㄅㄚㄨ·ㄧㄫ</rt></ruby> "karmic retribution"

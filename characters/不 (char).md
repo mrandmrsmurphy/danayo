@@ -82,6 +82,8 @@ boundedness: 50
 - <ruby>[[不在]]<rt>ㄅㄛㄊㄐㄚㄧ</rt></ruby> "absence"
 - <ruby>[[不足]]<rt>ㄅㄛㄊㄐㄛㄎ</rt></ruby> "shortage"
 - <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby> "soon, before long"
+- <ruby>[[不敬]]<rt>ㄅㄛㄊㄍ⼶ㄫ</rt></ruby> "irreverence, impiety"
+- <ruby>[[不義]]<rt>ㄅㄛㄊㄜㄧ</rt></ruby> "injustice, unrighteousness"
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"
