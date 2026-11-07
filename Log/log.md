@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **Character loop, 莫 perfected:** rank 221 verified; the periodic-table note moved after the four standard Notes bullets; seven missing derived characters added (募, 墓, 幕, 慕, 暮, 漠, 膜). [AI]
+
+- **Character loop, 苟 perfected:** rank 898 verified in `CC 0000`; its word and one derived character (敬, a 会意 link) listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 秀 perfected:** rank 2139 verified in `CC 2000`; the 禾 + 引 analysis confirmed against en.Wiktionary (Chi 2010); three words and three derived characters all listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 痰 perfected:** long-tail `mc_id` 6374 kept (痰 is not in the local CC lists); its single word is listed; no edits beyond the stamp. [AI]

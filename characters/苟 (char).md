@@ -32,7 +32,7 @@ graphemic_classification: "句"
 stand_in: "苟"
 aliases:
 注音: "ㄍㄛㄨ"
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: false
 tags:
   - character
