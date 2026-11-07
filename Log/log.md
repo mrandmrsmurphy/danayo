@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 代 perfected:** rank 405 verified in `CC 0000`; words and chengyu complete; new `## Derived Characters` section (玳, 袋, 貸, 黛). [AI]
+
+- **Character loop, 乏 perfected:** rank 1416 verified; both words listed; seven missing derived characters added (䒦, 姂, 柉, 砭, 窆, 鴔, 𦚖). [AI]
+
+- **Character loop, 主 perfected:** rank 98 verified in `CC 0000`; all 37 words, both chengyu and the four derived characters listed; no edits beyond the stamp. No `## Aliases` section yet (to-do). [AI]
+
+- **Character loop, 飽 perfected:** rank 1669 verified in `CC 1000`; both words listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 酸 perfected:** rank 1717 verified in `CC 1000`; both words and the three derived characters (俊, 唆, 峻) listed; no edits beyond the stamp. [AI]
 
 ## 2026-11-06
