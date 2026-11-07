@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 奏 perfected:** rank 518 verified in `CC 0000`; five words and derived 湊 listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 堆 perfected:** long-tail `mc_id` 5262 kept (neither 堆 nor 𠂤 is on the local lists); both words and the derived 帥 listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 啖 perfected:** rank 3808 verified in `CC 3000`; name-only character on `List of 名専字`, no words; no edits beyond the stamp. [AI]
