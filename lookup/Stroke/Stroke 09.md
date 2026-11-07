@@ -52,6 +52,7 @@ tags:
 - 拏 --> 拿
 - 柰 --> 乃
 - 卽 --> 即
+- 叛 --> 反
 
 ## Data check
 ```dataview

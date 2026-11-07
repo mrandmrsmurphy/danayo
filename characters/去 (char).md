@@ -30,7 +30,7 @@ mc_id: 159
 graphemic_classification: 会意
 stand_in: 去
 注音: ㄎ⼄
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

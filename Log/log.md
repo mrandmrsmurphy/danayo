@@ -4,6 +4,13 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 可 perfected to the current standard:** no aliases; rank 35 verified in `CC 0000`; all 12 words, the chengyu and ten derived characters listed; no edits beyond the stamp. [AI]
+
+- **Loop pacing set to five minutes (Murphy: "up the /loop to 5 minutes"):** recurring cron `*/5 * * * *` (job 8d86c18e), replacing the ten-minute dynamic wakeups. [AI]
+- **Character loop, 反 perfected to the current standard:** `## Aliases` section for 叛 (a separate character, 半 + 反; folded into 反 by decision of 2026-07-19), with its Stroke, SKIP and Radical redirects; the alias note moved out of Notes; rank 186, words, chengyu and seven derived characters verified. Fixed `alias_tool.py` to prefer Unihan for the radical (EDRDG's field is the Nelson number). [AI]
+
+- **Character loop, 去 perfected to the current standard:** no aliases; rank 159 verified in `CC 0000`; all five words and four derived characters listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 即 perfected to the current standard:** `## Aliases` section for 卽 (kyūjitai; SKIP 1-7-2 computed, 9 strokes) built with `alias_tool.py`, Stroke, SKIP and Radical redirects added, missing blank line before Derived Characters fixed; rank 242, words, chengyu and derived list verified. First real run of the tool; it worked as written. [AI]
 
 - **Character loop resumed (Murphy: "Make sure you are clear about the purpose of it: we have updated the description of a good character page and are slowly bringing all ~3300 into compliance"):** each round now brings one character fully to the current standard (all checklist criteria, including the `## Aliases` section with Wiktionary read on both pages, the Stroke/SKIP/Radical redirects, `mc_id`, and complete word, chengyu and derived lists). New helper `AIOS/scripts/alias_tool.py` (`evidence` and `apply`) automates the lookups and the redirects. 卑 perfected: no aliases, rank 690 and its six derived characters verified. [AI]

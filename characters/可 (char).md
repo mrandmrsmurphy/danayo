@@ -33,7 +33,7 @@ mc_id: 35
 graphemic_classification: 丂
 stand_in: 可
 注音: ㄎㄜ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

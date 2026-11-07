@@ -39,6 +39,9 @@ tags: [lookup]
 ### +16 Strokes
 14. <ruby>[叢](../../characters/叢.md)<rt>ㄐㄛㄫ</rt></ruby> - collection
 
+### Aliases
+- 叛 --> 反
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

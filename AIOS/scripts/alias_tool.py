@@ -88,7 +88,7 @@ def main():
     for a in als:
         s=spec[a]; u=uni.get(a,{}); sk,st,rd=edrdg(a)
         skip=s.get("skip") or sk; strokes=s.get("strokes") or st or u.get("kTotalStrokes")
-        rn=int(rd) if rd and rd.isdigit() else (int(re.match(r"(\d+)",u["kRSUnicode"]).group(1)) if u.get("kRSUnicode") else None)
+        rn=int(re.match(r"(\d+)",u["kRSUnicode"]).group(1)) if u.get("kRSUnicode") else (int(rd) if rd and rd.isdigit() else None)  # Unihan first: EDRDG's radical field is often the Nelson number
         assert skip and strokes,(a,"no skip/strokes: give them in the spec")
         txt=s["text"]+f" SKIP {skip}"+(" (computed: EDRDG does not list it)" if s.get("guess") else "")+f"; {strokes} stroke"+("" if str(strokes)=="1" else "s")+"."
         if rn and rn!=mrad: txt+=f" Radical {rn:03d} {radchar(rn)}."
