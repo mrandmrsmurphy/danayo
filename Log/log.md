@@ -2,6 +2,10 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-07
+
+- **Character loop, 酸 perfected:** rank 1717 verified in `CC 1000`; both words and the three derived characters (俊, 唆, 峻) listed; no edits beyond the stamp. [AI]
+
 ## 2026-11-06
 
 - **Character loop, 莫 perfected:** rank 221 verified; the periodic-table note moved after the four standard Notes bullets; seven missing derived characters added (募, 墓, 幕, 慕, 暮, 漠, 膜). [AI]
