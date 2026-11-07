@@ -32,7 +32,7 @@ stand_in: 業
 aliases:
   - 业
 注音: ㄝㄆ
-date-last-perfect: 2026-10-12
+date-last-perfect: 2026-11-06
 kwin: true
 tags:
   - character
