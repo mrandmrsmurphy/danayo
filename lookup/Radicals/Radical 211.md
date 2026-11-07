@@ -22,6 +22,7 @@ tags: [lookup]
 - 齧 --> 咬
 - 齩 --> 咬
 - 龈 --> 齦
+- 齣 --> 出
 
 ## Data check
 ```dataview

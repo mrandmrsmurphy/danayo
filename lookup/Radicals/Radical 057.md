@@ -46,6 +46,9 @@ tags: [lookup]
 15. <ruby>[弾](../../characters/弾.md)<rt>ㄉㄚㄋ</rt></ruby> - bullet
 16. <ruby>[弼](../../characters/弼.md)<rt>ㄅㄧㄊ</rt></ruby> - assistant to the emperor
 
+### Aliases
+- 彆 --> 別
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

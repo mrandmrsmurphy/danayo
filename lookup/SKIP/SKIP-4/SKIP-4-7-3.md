@@ -20,6 +20,9 @@ tags: [lookup]
 7. <ruby>[我](characters/我%20(char).md)<rt>ㄚ</rt></ruby> "I"
 8. <ruby>[串](characters/串%20(char).md)<rt>ㄐ⺢ㄇ</rt></ruby> "skewer"
 
+### Aliases
+- 亊 --> 事
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

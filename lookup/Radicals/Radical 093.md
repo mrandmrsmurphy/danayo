@@ -40,6 +40,9 @@ tags: [lookup]
 ### +13 Strokes
 12. <ruby>[犠](../../characters/犠.md)<rt>ㄏㄨㄧ</rt></ruby> - sacrifice
 
+### Aliases
+- 牠 --> 他
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

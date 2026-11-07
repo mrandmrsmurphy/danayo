@@ -27,6 +27,10 @@ tags:
 15. <ruby>[頃](characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> "moment"
 16. <ruby>[頂](characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> "peak"
 
+### Aliases
+- 做 --> 作
+- 脩 --> 修
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

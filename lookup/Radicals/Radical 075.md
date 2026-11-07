@@ -211,6 +211,8 @@ tags: [lookup]
 
 ### Aliases
 - 枽 --> 枼
+- 柰 --> 乃
+- 槕 --> 桌
 
 ## Data check
 ```dataview

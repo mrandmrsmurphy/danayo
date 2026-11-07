@@ -30,6 +30,7 @@ tags: [lookup]
 ### Aliases
 - 单 --> 単
 - 兖 --> 兗
+- 兔 --> 兎
 
 ## Datacheck
 ```dataview

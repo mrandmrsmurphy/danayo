@@ -26,6 +26,9 @@ tags: [lookup]
 14. <ruby>[麦](/characters/麦.md)<rt>ㄇㄚㄎ</rt></ruby> "wheat; barley; oats"
 15. <ruby>[㐬](/characters/㐬.md)<rt>ㄌ⼜ㄛ</rt></ruby> "strings of jade hanging from a crown; ornamental streamers beneath a banner or flag"
 
+### Aliases
+- 夋 --> 酸
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

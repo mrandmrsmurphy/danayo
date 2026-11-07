@@ -47,6 +47,7 @@ tags:
 - 鯏
 - 鯑
 - 𩸽
+- 龜 --> 亀
 
 ## Data check
 ```dataview

@@ -51,6 +51,11 @@ boundedness: 75
 - 1669th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅ⼘ㄨ](../syllables/ㄅ⼘ㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 饱
+Simplified Chinese form of 飽. SKIP 1-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[飽]]<rt>ㄅ⼘ㄨ</rt></ruby> "sated, full" (stand-in for 飽)
 - <ruby>[[飽足]]<rt>ㄅ⼘ㄨㄐㄛㄎ</rt></ruby> "satisfied, satiated"

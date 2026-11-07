@@ -66,3 +66,28 @@ EDRDG lists only Japanese kanji, so simplified Chinese and rare variant aliases 
 | 馨 | 馫 | 2-9-18 | 香 9 over 18; no source lists it |
 
 Confirmed on EDRDG by the user: 亂 is 1-12-1.
+| 且 | 𠀇 | 3-3-1 | ⿴ 𠀃 around 一 |
+| 且 | 𠀃 | 2-2-1 | 冂 over 一 |
+| 丘 | 㐀 | 2-4-1 | 卝 over 一 |
+| 乃 | 𠄎 | 2-1-1 | 乛 over 𠃌 |
+| 亀 | 龟 | 4-7-4 | SKIP-4, 7 strokes, subtype 4 (other) |
+| 亀 | 𪚦 | 2-2-14 | top 2 as in 龜, rest 14 |
+| 他 | 祂 | 1-4-3 | 礻 4 + 也 3 (Japanese count of 礻) |
+| 俊 | 骏 | 1-3-7 | 马 3 + 夋 7 |
+| 全 | 㒰 | 2-2-3 | 入 over 工 |
+| 内 | 內 | 3-2-2 | 冂 enclosing 人 |
+| 別 | 别 | 1-5-2 | 另 5 + 刂 2 |
+| 別 | 彆 | 2-11-3 | 敝 11 over 弓 3 |
+| 刪 | 删 | 1-5-2 | 册 5 + 刂 2 |
+| 劇 | 剧 | 1-8-2 | 居 8 + 刂 2 |
+| 厠 | 厕 | 3-2-6 | 厂 enclosing 则 6 |
+| 厨 | 㕑 | 3-2-12 | 厂 enclosing 尌 12 |
+| 厨 | 𢊍 | 3-3-10 | 广 enclosing 10 strokes |
+| 堆 | 𠂤 | 2-1-5 | 丿 over a 5-stroke body |
+| 彙 | 汇 | 1-3-2 | 氵 3 + 匚 2 |
+| 彙 | 彚 | 2-3-10 | as 彙: 彐 3 over 10 |
+| 桌 | 槕 | 1-4-10 | 木 4 + 桌 10 |
+| 業 | 业 | 2-4-1 | 4 over 一, as 㐀 |
+| 蜆 | 蚬 | 1-6-4 | 虫 6 + 见 4 |
+| 責 | 责 | 2-4-4 | 龶 4 over 贝 4 |
+| 飽 | 饱 | 1-3-5 | 饣 3 + 包 5 |

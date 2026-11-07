@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[寿](characters/寿.md)<rt>ㄙ⼜</rt></ruby> - lifespan
 3. <ruby>[良](characters/良.md)<rt>ㄌ⼘ㄫ</rt></ruby> - kind, type
 
+### Aliases
+- 龟 --> 亀
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

@@ -49,6 +49,9 @@ tags:
 37. <ruby>[茅](characters/茅.md)<rt>ㄇ⼘ㄨ</rt></ruby> "thatch"
 38. <ruby>[茉](characters/茉.md)<rt>ㄇㄚㄊ</rt></ruby> "white jasmin"
 
+### Aliases
+- 宔 --> 主
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -34,6 +34,9 @@ tags:
 22. <ruby>[汐](characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> "evening tide"
 23. <ruby>[屿](characters/屿.md)<rt>ㄙ⼄</rt></ruby> "islet"
 
+### Aliases
+- 她 --> 他
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

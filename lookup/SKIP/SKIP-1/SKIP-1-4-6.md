@@ -48,6 +48,7 @@ tags:
 
 ### Aliases
 - 珪 --> 硅
+- 胶 --> 交
 
 ## Datacheck
 ```dataview

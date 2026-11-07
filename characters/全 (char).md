@@ -52,6 +52,11 @@ boundedness: 90
 - 872nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄐ⼔ㄋ](../syllables/ㄐ⼔ㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 㒰
+Variant form of 全 (Unihan lists it as a semantic variant), written 入 over 工. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[全]]<rt>ㄐ⼔ㄋ</rt></ruby> "whole" (stand-in for 全)
 - <ruby>[[全体]]<rt>ㄐ⼔ㄋㄊㄝㄧ</rt></ruby> "whole; entirety"

@@ -36,6 +36,10 @@ tags: [lookup]
 ### +7 Strokes
 3. <ruby>[兪](../../characters/兪%20(char).md)<rt>⼜ㄇ</rt></ruby> - agree to
 
+### Aliases
+- 㒰 --> 全
+- 內 --> 内
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical"

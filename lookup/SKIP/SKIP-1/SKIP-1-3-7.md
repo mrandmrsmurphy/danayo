@@ -82,6 +82,7 @@ tags:
 ### Aliases
 - 唤 --> 喚
 - 涤 --> 浄
+- 骏 --> 俊
 
 ## Datacheck
 ```dataview

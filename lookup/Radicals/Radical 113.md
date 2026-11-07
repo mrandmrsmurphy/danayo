@@ -53,6 +53,7 @@ tags:
 
 ### Aliases
 - 禦 --> 御
+- 祂 --> 他
 
 ## Data check
 ```dataview

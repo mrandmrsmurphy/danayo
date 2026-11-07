@@ -22,6 +22,9 @@ tags: [lookup]
 10. <ruby>[見](characters/見%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> "see"
 11. <ruby>[貝](/characters/貝.md)<rt>ㄅㄚㄧ</rt></ruby> "shellfish"
 
+### Aliases
+- 皃 --> 貌
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

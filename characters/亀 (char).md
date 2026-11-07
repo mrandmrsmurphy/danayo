@@ -36,7 +36,7 @@ aliases:
   - 𪚦
 注音: ㄍㄨㄛ
 kwin: false
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 65
@@ -53,6 +53,17 @@ boundedness: 65
 - [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1,059th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍㄨㄛ](../syllables/ㄍㄨㄛ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 龜
+Traditional form (kyūjitai) of 亀. SKIP 2-2-16; 18 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1059 is 龜's rank.
+
+### 龟
+Simplified Chinese form of 龜. SKIP 4-7-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𪚦
+Rare Extension B variant of 龜. SKIP 2-2-14 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[亀]]<rt>ㄍㄨㄛ</rt></ruby> "turtle"

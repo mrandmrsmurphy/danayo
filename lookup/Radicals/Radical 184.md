@@ -50,6 +50,7 @@ tags: [lookup]
 
 ### Aliases
 - 饭 --> 飯
+- 饱 --> 飽
 
 ## Data check
 ```dataview

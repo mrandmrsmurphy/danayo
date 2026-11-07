@@ -37,6 +37,10 @@ tags: [lookup]
 ### +15 Strokes
 11. <ruby>[厳](../../characters/厳%20(char).md)<rt>⼄ㄇ</rt></ruby> - strict
 
+### Aliases
+- 厕 --> 厠
+- 㕑 --> 厨
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

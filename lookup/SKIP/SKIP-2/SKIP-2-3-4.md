@@ -45,6 +45,9 @@ tags:
 33. <ruby>[宏](characters/宏.md)<rt>ㄏ⼔ㄫ</rt></ruby> "vast"
 34. <ruby>[芹](characters/芹.md)<rt>ㄍㄧㄋ</rt></ruby> "celery"
 
+### Aliases
+- 芩 --> 今
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

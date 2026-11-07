@@ -34,6 +34,7 @@ tags: [lookup]
 
 ### Aliases
 - 皋 --> 皐
+- 皃 --> 貌
 
 ## Data check
 ```dataview

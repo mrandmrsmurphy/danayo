@@ -18,6 +18,7 @@ tags: [lookup]
 * 亅 is an alias of [[Radical 006]], "hook" 
 - 〇 --> 零
 ### Forbidden
+- 丶 --> 主
 
 ## Datacheck
 ```dataview

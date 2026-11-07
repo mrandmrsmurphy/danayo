@@ -24,6 +24,8 @@ tags: [lookup]
 ### Aliases
 - 书 --> 書
 - 卬 --> 卯
+- 𠀇 --> 且
+- 內 --> 内
 
 ## Data check
 ```dataview

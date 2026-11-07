@@ -25,6 +25,10 @@ tags: [lookup]
 12. <ruby>[町](characters/町.md)<rt>ㄊㄝㄫ</rt></ruby> "ridge between fields"
 13. <ruby>[私](characters/私.md)<rt>ㄙㄧㄜ</rt></ruby> "personal"
 
+### Aliases
+- 别 --> 別
+- 删 --> 刪
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

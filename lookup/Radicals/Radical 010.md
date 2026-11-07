@@ -46,6 +46,7 @@ tags: [lookup]
 
 ### Aliases
 - 兖 --> 兗
+- 兔 --> 兎
 
 ## Data check
 ```dataview

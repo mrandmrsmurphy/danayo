@@ -12,6 +12,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[夏](../../characters/夏%20(char).md)<rt>ㄏ⼘</rt></ruby> - summer
 
+### Aliases
+- 夋 --> 酸
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

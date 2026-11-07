@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[亘](/characters/亘%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby>
 
+### Aliases
+- 𠂤 --> 堆
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

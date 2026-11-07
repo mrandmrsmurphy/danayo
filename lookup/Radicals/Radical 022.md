@@ -12,6 +12,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[匡](../../characters/匡.md)<rt>ㄎ⺢ㄫ</rt></ruby> - correct
 
+### Aliases
+- 匯 --> 彙
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

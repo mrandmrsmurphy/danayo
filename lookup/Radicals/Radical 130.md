@@ -105,6 +105,9 @@ tags: [lookup]
 68. <ruby>[臓](../../characters/臓.md)<rt>ㄐㄚㄫ</rt></ruby> - organ
 69. <ruby>[臘](../../characters/臘.md)<rt>ㄌㄚㄆ</rt></ruby> - Laba
 
+### Aliases
+- 胶 --> 交
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

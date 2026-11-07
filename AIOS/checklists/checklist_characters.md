@@ -228,7 +228,7 @@ Real corpus values are always the full strings above (`高等`, `表外字`, `�
 
 ## `## Aliases` section
 
-Every page whose frontmatter has `aliases:` gets an `## Aliases` section between `## Notes` and `## Words` (user ruling 2026-11-04). It is being added **page by page, slowly**: a page without one that has aliases is a to-do, not a failure, and a page is not made to wait for it. Notes describe the character's **current shape**; the history and facts of each variant live here, with at most a little overlap.
+Every page whose frontmatter has `aliases:` gets an `## Aliases` section between `## Notes` and `## Words` (user ruling 2026-11-04). A page that has aliases is **not perfected until it has this section** (user ruling 2026-11-07): the perfecting loop builds it for every character it touches, together with the alias redirects on the Stroke, SKIP and Radical pages. A page that has not been through the loop yet and lacks one is only a to-do. Notes describe the character's **current shape**; the history and facts of each variant live here, with at most a little overlap.
 
 One `### X` subsection per alias, in the same order as `aliases:`. Each says, in a few sentences:
 
@@ -248,6 +248,8 @@ Simplified Chinese form, written 亻 + 专 (the simplified 專). SKIP 1-2-4, the
 ```
 
 Each alias is also an **unlinked redirect** `X --> main` on three lookup pages, under that page's `### Aliases` heading (add the heading if the page lacks one): its **Stroke** page (by its own stroke count), its **SKIP leaf** (by its own SKIP number), and the **Radical** page of the radical the subsection names (the main character's radical if it names none). Never link the alias there. Count an alias's strokes and SKIP the Japanese way, as the main page does, wherever the Chinese and Japanese counts differ (user ruling 2026-11-05). An alias that is a symbol rather than a Han character (such as 〇 for 零) has no radical: say "has no radical" in its subsection, give it 1 stroke and a guessed SKIP, and put its redirects on the Stroke page and SKIP leaf only.
+
+**How to build it:** for each alias, take the SKIP number and stroke count from EDRDG (`wwwjdic?1MMJ<char>`), falling back to Unihan (`kTotalStrokes`, `kRSUnicode`) for strokes and the radical; count 礻 and similar radicals the Japanese way; guess a SKIP number from the parts when neither lists it and add the row to [[AIOS/projects/project_alias_skip_guesses.md]]; take the Classical Chinese rank from the CC lists and settle `mc_id` as the lowest rank among the character and its aliases (the linter's C3 check then enforces it). Describe each form honestly: traditional, simplified, variant, a separate character kept for search, or a rare glyph with no use of its own.
 
 `lint_characters.py` (C4) checks the section's position, that its subsections match `aliases:`, that each states a SKIP number and a stroke count, and the three redirects.
 

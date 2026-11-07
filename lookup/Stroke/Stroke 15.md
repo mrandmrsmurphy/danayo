@@ -50,6 +50,7 @@ tags:
 - 徵 --> 徴
 - 鬧 --> 閙
 - 劍 --> 剣
+- 廚 --> 厨
 
 ## Data check
 ```dataview

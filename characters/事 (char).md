@@ -49,6 +49,11 @@ boundedness: 90
 - 42nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 崇|d͡ʒ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄐㄧ](../syllables/ㄐㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 亊
+Variant form of 事 (Unihan lists it as a semantic variant). SKIP 4-7-3; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[－事|事]]<rt>ㄐㄧ</rt></ruby> "act of; matter of" (fully productive affix)
 - <ruby>[[事]]<rt>ㄐㄧ</rt></ruby> "thing; action" (stand-in for 事)

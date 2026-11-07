@@ -24,6 +24,9 @@ tags: [lookup]
 ### Other
 - [孔](../../characters/孔%20(char).md) has a falling stroke in it, but is listed under 子.
 
+### Aliases
+- 𠂤 --> 堆
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

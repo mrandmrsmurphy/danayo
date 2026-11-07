@@ -32,7 +32,7 @@ stand_in: 業
 aliases:
   - 业
 注音: ㄝㄆ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 100
 - [SKIP-2-5-8](../lookup/SKIP/SKIP-2/SKIP-2-5-8.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 601st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 業|ɨɐp]] → [ㄝㄆ](../syllables/ㄝㄆ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 业
+Simplified Chinese form of 業. SKIP 2-4-1 (computed: EDRDG does not list it); 5 strokes. Radical 001 一. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[業]]<rt>ㄝㄆ</rt></ruby> "profession; business" (stand-in for 業)

@@ -28,7 +28,7 @@ danayo_id: 108
 mc_id: 498
 graphemic_classification: 象形
 stand_in: 交
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 aliases:
   - 胶
   - 淆
@@ -50,6 +50,14 @@ boundedness: 80
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 498th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄍ⼄ㄨ](../syllables/ㄍ⼄ㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 胶
+A separate character, simplified 胶 (月 + 交, "glue"), kept as a search alias because it contains 交 as its phonetic. SKIP 1-4-6; 10 strokes. Radical 130 肉. It has no rank of its own in the Classical Chinese lists.
+
+### 淆
+A separate character, 淆 (氵 + 肴, "confused, mixed"), kept as a search alias for the sense "mix" that 交 shares. SKIP 1-3-8; 11 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[交]]<rt>ㄍ⼄ㄨ</rt></ruby> "mix; exchange"

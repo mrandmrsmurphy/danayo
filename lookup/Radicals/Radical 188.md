@@ -18,6 +18,9 @@ tags: [lookup]
 ### +9 Strokes
 3. <ruby>[髄](../../characters/髄.md)<rt>ㄙㄨㄧ</rt></ruby> - marrow
 
+### Aliases
+- 髓 --> 髄
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

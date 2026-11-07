@@ -51,6 +51,10 @@ tags:
 
 ### Forbidden
 - !!碰!!
+- 會 --> 会
+- 𢊍 --> 厨
+- 彚 --> 彙
+- 匯 --> 彙
 
 ## Data check
 ```dataview

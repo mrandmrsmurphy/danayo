@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[画](/characters/画.md)<rt>ㄏ⺢ㄎ</rt></ruby> "draw"
 6. <ruby>[罔](/characters/罔.md)<rt>ㄇㄚㄫ</rt></ruby> "accuse"
 
+### Aliases
+- 厕 --> 厠
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

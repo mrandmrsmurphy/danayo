@@ -35,7 +35,7 @@ aliases:
   - 彚
   - 匯
 注音: ㄏㄨ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -53,6 +53,17 @@ boundedness: 75
 - [SKIP-2-3-10](../lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 4850th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄏㄨ](../syllables/ㄏㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 汇
+Simplified Chinese form of 匯, which Chinese also uses for 彙. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+
+### 彚
+Variant form of 彙. SKIP 2-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 匯
+A separate character, 匯 (匚 + 淮, "to converge, to remit"), merged with 彙 as 汇 in simplified Chinese. SKIP 3-2-11; 13 strokes. Radical 022 匚. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[彙]]<rt>ㄏㄨ</rt></ruby> "category; class" (stand-in for 彙)

@@ -16,6 +16,7 @@ tags: [lookup]
 - 龟 --> 亀
 - 龝 --> 秋 (ancient variant)
 - 龞 --> 鼈 (ancient variant; also of 鱉)
+- 𪚦 --> 亀
 
 ## Data check
 ```dataview

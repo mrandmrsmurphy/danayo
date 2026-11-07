@@ -33,7 +33,7 @@ stand_in: 桌
 aliases:
   - 槕
 注音: ㄊㄚㄎ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 80
 - [SKIP-2-6-4](../lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 覺|ɣʌk]] → [ㄊㄚㄎ](../syllables/ㄊㄚㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 槕
+Variant form of 桌, written 木 + 桌. SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[桌]]<rt>ㄊㄚㄎ</rt></ruby> "table" (stand-in for 桌)

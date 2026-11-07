@@ -31,7 +31,7 @@ stand_in: "作"
 aliases:
   - 做
 注音: "ㄐㄚㄎ"
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 80
 - [SKIP-1-2-5](../lookup/SKIP/SKIP-1/SKIP-1-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 199th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄐㄚㄎ](../syllables/ㄐㄚㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 做
+Variant form of 作 (亻 + 故), the usual written form of "to do, to make" in modern Chinese. SKIP 1-2-9; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[作]]<rt>ㄐㄚㄎ</rt></ruby> "make, do" (stand-in for 作)

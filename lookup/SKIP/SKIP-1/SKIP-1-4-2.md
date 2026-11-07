@@ -23,6 +23,7 @@ tags:
 
 ### Aliases
 - 玑 --> 璣
+- 划 --> 劃
 
 ## Datacheck
 ```dataview

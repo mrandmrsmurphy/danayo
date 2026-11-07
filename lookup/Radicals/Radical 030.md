@@ -168,6 +168,7 @@ tags: [lookup]
 ### Aliases
 - 唤 --> 喚
 - 單 --> 単
+- 嘖 --> 責
 
 ## Data check
 ```dataview

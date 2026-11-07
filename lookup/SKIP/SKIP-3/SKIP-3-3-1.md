@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[曰](characters/曰%20(char).md)<rt>⼔ㄊ</rt></ruby> "saith"
 5. <ruby>[爪](characters/爪%20(char).md)<rt>ㄐ⺢ㄨ</rt></ruby> "animal foot; claw"
 
+### Aliases
+- 𠀇 --> 且
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

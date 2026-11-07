@@ -32,6 +32,7 @@ tags: [lookup]
 * 尓 --> 爾
 ### Forbidden
 * 厼
+- 㒰 --> 全
 
 ## Datacheck
 ```dataview

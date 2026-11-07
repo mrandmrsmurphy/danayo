@@ -15,6 +15,10 @@ tags: [lookup]
 3. <ruby>[争](../../characters/争.md)<rt>ㄐㄚㄫ</rt></ruby> - fight
 4. <ruby>[事](../../characters/事%20(char).md)<rt>ㄐㄧ</rt></ruby> - thing
 
+### Aliases
+- 𠄎 --> 乃
+- 亊 --> 事
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", english AS "EN"

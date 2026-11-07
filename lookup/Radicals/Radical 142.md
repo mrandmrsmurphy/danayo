@@ -82,6 +82,10 @@ tags:
 ### +15 Strokes
 44. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
 
+### Aliases
+- 蚯 --> 丘
+- 蚬 --> 蜆
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

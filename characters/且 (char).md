@@ -51,6 +51,14 @@ boundedness: 90
 - 231st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄑㄛ](../syllables/ㄑㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 𠀇
+Rare Extension B glyph kept as a search alias for 且; it has no use of its own in Dan'a'yo. SKIP 3-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠀃
+Rare Extension B glyph, a component of 且 (冂 over 一), kept as a search alias; it has no use of its own in Dan'a'yo. SKIP 2-2-1 (computed: EDRDG does not list it); 3 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[且]]<rt>ㄑㄛ</rt></ruby> "also" (stand-in for 且)
 - <ruby>[[且爵]]<rt>ㄑㄛㄐㄚㄎ</rt></ruby> "chew, masticate" (stand-in for 嚼)

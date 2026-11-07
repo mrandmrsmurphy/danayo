@@ -54,6 +54,11 @@ tags:
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack
 
+### Aliases
+- 廁 --> 厠
+- 廚 --> 厨
+- 𢊍 --> 厨
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

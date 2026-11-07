@@ -34,6 +34,9 @@ tags: [lookup]
 - 蝋 --> 蠟
 - 綜
 
+### Aliases
+- 綾 --> 凌
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

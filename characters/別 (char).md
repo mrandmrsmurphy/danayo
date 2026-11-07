@@ -35,7 +35,7 @@ aliases:
   - 别
   - 彆
 注音: ㄅㄝㄊ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -53,6 +53,14 @@ boundedness: 80
 - [SKIP-1-5-2](../lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 657th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 薛B三開|ɣiᴇt]] → [ㄅㄝㄊ](../syllables/ㄅㄝㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 别
+Simplified Chinese form of 別 (另 + 刂). SKIP 1-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 彆
+A separate character, 彆 (敝 over 弓, "awkward"), merged into 别 in simplified Chinese. SKIP 2-11-3 (computed: EDRDG does not list it); 14 strokes. Radical 057 弓. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[別]]<rt>ㄅㄝㄊ</rt></ruby> "don't; distinct; other"

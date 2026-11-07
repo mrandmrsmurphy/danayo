@@ -34,7 +34,7 @@ stand_in: 劃
 aliases:
   - 划
 注音: ㄏ⺢ㄎ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 100
 - 5823rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 麥合|ɣwɛk]] → [ㄏ⺢ㄎ](../syllables/ㄏ⺢ㄎ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 - In Japanese, this character is sometimes replaced with 画 (daiyōji).
+
+## Aliases
+
+### 划
+Simplified Chinese form of 劃; 划 is also an older character in its own right ("to row"). SKIP 1-4-2; 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[劃]]<rt>ㄏ⺢ㄎ</rt></ruby> "divide; mark off; delimit"

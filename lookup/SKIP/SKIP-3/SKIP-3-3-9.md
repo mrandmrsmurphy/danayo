@@ -30,6 +30,9 @@ tags: [lookup]
 18. <ruby>[遊](/characters/遊.md)<rt>⼜ㄛ</rt></ruby> "play; roam; travel"
 19. <ruby>[過](characters/過%20(char).md)<rt>ㄍ⺢</rt></ruby> "than; too"
 
+### Aliases
+- 廁 --> 厠
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

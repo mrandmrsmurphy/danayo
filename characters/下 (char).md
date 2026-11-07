@@ -32,7 +32,7 @@ stand_in: 下
 aliases:
   - 丅
 注音: ㄏㄚ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 100
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 21st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄏㄚ](../syllables/ㄏㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 丅
+Ancient variant form of 下. SKIP 4-2-1; 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby> "down, under"

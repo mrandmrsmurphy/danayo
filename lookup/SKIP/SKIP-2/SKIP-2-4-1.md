@@ -14,6 +14,10 @@ tags: [lookup]
 2. <ruby>[旦](/characters/旦.md)<rt>ㄉㄚㄋ</rt></ruby> "daybreak"
 3. <ruby>[氐](/characters/氐.md)<rt>ㄉㄝ</rt></ruby> "root"
 
+### Aliases
+- 㐀 --> 丘
+- 业 --> 業
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

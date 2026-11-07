@@ -14,6 +14,9 @@ date-last-perfect: 2026-10-31
 2. <ruby>[了](/characters/了%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> "over"
 3. <ruby>[又](/characters/又%20(char).md)<rt>ㄨㄛ</rt></ruby> "or again"
 
+### Aliases
+- 丅 --> 下
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

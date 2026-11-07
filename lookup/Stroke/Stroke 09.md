@@ -50,6 +50,7 @@ tags:
 - 剑 --> 剣
 - 瓯 --> 甌
 - 拏 --> 拿
+- 柰 --> 乃
 
 ## Data check
 ```dataview

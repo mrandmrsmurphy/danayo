@@ -32,6 +32,9 @@ tags:
 20. <ruby>[蛇](characters/蛇%20(char).md)<rt>ㄊㄚ</rt></ruby> "snake"
 21. <ruby>[蛉](characters/蛉.md)<rt>ㄌㄝㄫ</rt></ruby> "dragonfly"
 
+### Aliases
+- 蚯 --> 丘
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

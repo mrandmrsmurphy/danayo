@@ -128,6 +128,7 @@ tags: [lookup]
 - 絕 --> 絶
 - 绝 --> 絶
 - 练 --> 練
+- 綾 --> 凌
 
 ## Data check
 ```dataview

@@ -19,6 +19,7 @@ tags: [lookup]
 - 鱒 --> 尊
 - 鷲 --> 就
 - 鷺 --> 路
+- 髓 --> 髄
 
 ## Data check
 ```dataview

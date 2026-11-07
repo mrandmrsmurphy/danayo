@@ -13,6 +13,9 @@ tags: [lookup]
 Only one:
 1. <ruby>[二](/characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two
 
+### Aliases
+- 𠄎 --> 乃
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

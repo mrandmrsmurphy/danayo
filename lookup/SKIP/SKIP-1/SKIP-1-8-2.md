@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[剛](/characters/剛.md)<rt>ㄍㄚㄫ</rt></ruby> "rigid; firm; unyielding"
 7. <ruby>[針](characters/針%20(char).md)<rt>ㄐㄧㄇ</rt></ruby> "needle; pin; tack"
 
+### Aliases
+- 剧 --> 劇
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

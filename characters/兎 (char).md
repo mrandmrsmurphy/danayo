@@ -32,7 +32,7 @@ aliases:
   - 兔
 注音: ㄊㄛ
 kwin: true
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 45
@@ -49,6 +49,11 @@ boundedness: 45
 - [SKIP-4-8-4](../lookup/SKIP/SKIP-4/SKIP-4-8-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 1,725th most used character in Classical Chinese, the rank of its alias 兔 (兎 itself is not in the top 4000). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄊㄛ](../syllables/ㄊㄛ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 兔
+The form of 兎 with the dot on the tail, standard in Chinese; the Japanese form 兎, which Dan'a'yo writes, drops the dot. SKIP 2-2-6; 8 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 1725 is 兔's rank.
 
 ## Words
 - <ruby>[[兎]]<rt>ㄊㄛ</rt></ruby> "rabbit; hare"

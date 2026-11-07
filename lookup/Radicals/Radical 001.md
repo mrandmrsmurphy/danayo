@@ -76,6 +76,13 @@ Radical 1 is 一, the number one.
 
 *All other forms are missing from dictionary or are chữ Nôm inventions.*
 
+### Aliases
+- 丅 --> 下
+- 𠀇 --> 且
+- 𠀃 --> 且
+- 㐀 --> 丘
+- 业 --> 業
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

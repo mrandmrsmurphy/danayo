@@ -21,6 +21,7 @@ tags:
 
 ### Aliases
 - 个 --> 個
+- 𠀃 --> 且
 
 ## Data check
 ```dataview

@@ -39,7 +39,7 @@ aliases:
   - 沱
   - 沲
 注音: ㄊㄜ
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -56,6 +56,23 @@ boundedness: 50
 - [SKIP-1-2-3](../lookup/SKIP/SKIP-1/SKIP-1-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1055th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄊㄜ](../syllables/ㄊㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 她
+The Chinese character for "she" (女 + 也), coined to tell she from he; kept as an alias of 他, which Dan'a'yo uses for all genders. SKIP 1-3-3; 6 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
+
+### 牠
+The Chinese character for an animal "it" (牛 + 也); kept as an alias of 他. SKIP 1-4-3; 7 strokes. Radical 093 牛. It has no rank of its own in the Classical Chinese lists.
+
+### 祂
+The Chinese character for a deity "He" (礻 + 也); kept as an alias of 他. SKIP 1-4-3 (computed: EDRDG does not list it); 7 strokes. Radical 113 示. It has no rank of its own in the Classical Chinese lists.
+
+### 沱
+A separate character, 沱 (氵 + 它, a river branch), kept as a search alias. SKIP 1-3-5; 8 strokes. Radical 085 水. It ranks 3175 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+
+### 沲
+Rare variant of 沱 (氵 + 也), kept as a search alias. SKIP 1-3-5; 8 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[他]]<rt>ㄊㄜ</rt></ruby> "another; other" (stand-in for 他)

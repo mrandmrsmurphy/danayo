@@ -53,6 +53,11 @@ boundedness: 80
 - 1969th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陌三開|ɣiæk]] → [ㄍㄝㄎ](../syllables/ㄍㄝㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 剧
+Simplified Chinese form of 劇. SKIP 1-8-2 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[劇]]<rt>ㄍㄝㄎ</rt></ruby> "drama; theatre" (stand-in for 劇)
 - <ruby>[[劇場]]<rt>ㄍㄝㄎㄐㄚㄫ</rt></ruby> "cinema; theater"

@@ -48,6 +48,7 @@ tags:
 - 赞 --> 賛
 - 劔 --> 剣
 - 劒 --> 剣
+- 𪚦 --> 亀
 
 ## Data check
 ```dataview

@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[穴](characters/穴.md)<rt>ㄏ⼔ㄊ</rt></ruby> - cave
 7. <ruby>[艾](characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 
+### Aliases
+- 屶 --> 会
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

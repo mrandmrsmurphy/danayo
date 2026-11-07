@@ -85,6 +85,9 @@ tags:
 ## Other
 - [字](../../characters/字%20(char).md) has 宀 in it, but is listed under 子.
 
+### Aliases
+- 宔 --> 主
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

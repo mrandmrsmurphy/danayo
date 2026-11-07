@@ -33,6 +33,10 @@ tags:
 21. <ruby>[邦](characters/邦.md)<rt>ㄅㄚㄫ</rt></ruby> "federation"
 22. <ruby>[邪](characters/邪.md)<rt>ㄙ⼘</rt></ruby> "evil thoughts"
 
+### Aliases
+- 牠 --> 他
+- 祂 --> 他
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

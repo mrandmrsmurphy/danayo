@@ -32,6 +32,9 @@ tags:
 20. <ruby>[采](characters/采.md)<rt>ㄑㄚㄧ</rt></ruby> "form"
 21. <ruby>[青](characters/青%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> "blue"
 
+### Aliases
+- 责 --> 責
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

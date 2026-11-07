@@ -31,7 +31,7 @@ aliases:
   - 芩
 注音: ㄍㄧㄇ
 kwin: false
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 90
@@ -48,6 +48,11 @@ boundedness: 90
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 80th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄧㄇ](../syllables/ㄍㄧㄇ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 芩
+A separate character, 芩 (艹 + 今, a plant name), kept as a search alias because it contains 今 as its phonetic. SKIP 2-3-4; 7 strokes. Radical 140 艸. It ranks 3432 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[今]]<rt>ㄍㄧㄇ</rt></ruby> "now"

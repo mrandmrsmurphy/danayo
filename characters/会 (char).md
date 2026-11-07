@@ -52,6 +52,14 @@ boundedness: 75
 - 248th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 泰合|uɑi]] → [ㄏ⼔](../syllables/ㄏ⼔.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 會
+Traditional form (kyūjitai) of 会. SKIP 2-2-11; 13 strokes. This form is the one the Classical Chinese lists rank, so the `mc_id` 248 is 會's rank.
+
+### 屶
+A rare character, 屶 (山 + 刀, "lofty"), kept as a search alias. SKIP 2-3-2; 5 strokes. Radical 046 山. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[会]]<rt>ㄏ⼔</rt></ruby> "meet; gather" (stand-in for 会)
 - <ruby>[[宴会]]<rt>ㄝㄋㄏ⼔</rt></ruby> "banquet; feast"

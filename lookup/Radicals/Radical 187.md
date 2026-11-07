@@ -56,6 +56,8 @@ tags: [lookup]
 ### Aliases
 - 駛 --> 使
 - 驶 --> 使
+- 駿 --> 俊
+- 骏 --> 俊
 
 ## Data check
 ```dataview

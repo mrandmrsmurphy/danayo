@@ -194,6 +194,7 @@ tags: [lookup]
 - 拏 --> 拿
 - 挐 --> 拿
 - 㧱 --> 拿
+- 揃 --> 前
 
 ## Data check
 ```dataview

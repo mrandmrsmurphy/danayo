@@ -50,6 +50,11 @@ boundedness: 90
 - 73rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄑㄨㄊ](../syllables/ㄑㄨㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 齣
+Traditional form of 出 in its "scene of a play" sense; Chinese simplified it to 出. SKIP 1-15-5; 20 strokes. Radical 211 齒. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[出]]<rt>ㄑㄨㄊ</rt></ruby> "exit"
 - <ruby>[[引出]]<rt>ㄧㄋㄑㄨㄊ</rt></ruby> "to lead out; to extract"

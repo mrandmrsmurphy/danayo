@@ -101,6 +101,9 @@ tags: [lookup]
 ### +14 Strokes
 62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - infant
 
+### Aliases
+- 她 --> 他
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

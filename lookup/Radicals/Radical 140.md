@@ -167,6 +167,7 @@ tags:
 ### Aliases
 - 藥 --> 薬
 - 药 --> 薬
+- 芩 --> 今
 
 ## Data check
 ```dataview

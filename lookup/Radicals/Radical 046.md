@@ -53,6 +53,7 @@ tags: [lookup]
 
 ### Aliases
 - 嶂 --> 章
+- 屶 --> 会
 
 ## Data check
 ```dataview

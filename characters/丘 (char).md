@@ -51,6 +51,14 @@ boundedness: 90
 - 511th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄎ⼜](../syllables/ㄎ⼜.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 㐀
+Rare variant form of 丘 (Unihan lists it as a semantic variant), written 卝 over 一. SKIP 2-4-1 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 蚯
+A different character, 蚯 (虫 + 丘), the first half of 蚯蚓 "earthworm"; Dan'a'yo writes that word 丘引, so 蚯 appears here as the character 丘 stands in for (代用字). SKIP 1-6-5; 11 strokes. Radical 142 虫. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[丘]]<rt>ㄎ⼜</rt></ruby> "hill"
 - <ruby>[[丘引]]<rt>ㄎ⼜ㄧㄋ</rt></ruby> "earthworm"

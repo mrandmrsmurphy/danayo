@@ -135,6 +135,7 @@ tags:
 
 ### Aliases
 - 淨 --> 浄
+- 淆 --> 交
 
 ## Datacheck
 ```dataview

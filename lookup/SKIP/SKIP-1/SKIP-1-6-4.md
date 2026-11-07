@@ -43,6 +43,7 @@ tags:
 
 ### Aliases
 - 㧱 --> 拿
+- 蚬 --> 蜆
 
 ## Datacheck
 ```dataview

@@ -21,6 +21,7 @@ tags: [lookup]
 - 乛
 - 亅
 - 〇 --> 零
+- 丶 --> 主
 
 ## Data check
 ```dataview

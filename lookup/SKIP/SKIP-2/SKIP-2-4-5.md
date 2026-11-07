@@ -33,6 +33,7 @@ tags: [lookup]
 
 ### Aliases
 - 㫡 --> 冬
+- 柰 --> 乃
 
 ## Datacheck
 ```dataview

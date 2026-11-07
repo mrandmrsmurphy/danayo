@@ -20,6 +20,8 @@ tags: [lookup]
 
 ### Forbidden
 - 乜 - Cantonese/dialects only
+- 丅 --> 下
+- 𠄎 --> 乃
 
 ## Data check
 ```dataview

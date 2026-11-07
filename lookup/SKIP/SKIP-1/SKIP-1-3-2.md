@@ -32,6 +32,7 @@ tags:
 
 ### Aliases
 - 夘 --> 卯
+- 汇 --> 彙
 
 ## Datacheck
 ```dataview

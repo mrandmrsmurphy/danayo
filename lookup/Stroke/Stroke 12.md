@@ -48,6 +48,8 @@ tags: [lookup]
 - 幂 --> 冪
 - 筑 --> 築
 - 韩 --> 韓
+- 揃 --> 前
+- 廁 --> 厠
 
 ## Data check
 ```dataview

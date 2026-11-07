@@ -48,6 +48,11 @@ boundedness: 100
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
 - Dropped from the Korean HS list in 2000.
 
+## Aliases
+
+### 夋
+The phonetic component of 酸, also its PRC second-round simplified form (二簡字). SKIP 2-4-3; 7 strokes. Radical 035 夊. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby> "acidic; sour" (stand-in for 酸)
 - <ruby>[[胃酸]]<rt>ㄨㄧㄙ⺢ㄋ</rt></ruby> "stomach acid; gastric acid"

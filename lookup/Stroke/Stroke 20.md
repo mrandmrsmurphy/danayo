@@ -26,6 +26,7 @@ tags:
 ### Aliases
 - 瀾 --> 乱
 - 齡 --> 齢
+- 齣 --> 出
 
 ## Data check
 ```dataview

@@ -141,6 +141,9 @@ tags:
 
 79. <ruby>[飧](/characters/飧.md)<rt>ㄙㄛㄋ</rt></ruby> - evening meal; cooked grain in water
 
+### Aliases
+- 揃 --> 前
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

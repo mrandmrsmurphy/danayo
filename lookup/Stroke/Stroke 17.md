@@ -44,6 +44,7 @@ tags:
 - 曙 --> 署
 - 濱 --> 浜
 - 禦 --> 御
+- 駿 --> 俊
 
 ## Data check
 ```dataview

@@ -34,7 +34,7 @@ aliases:
   - 𠄎
 注音: ㄋㄚㄧ
 kwin: true
-date-last-perfect: 2026-11-06
+date-last-perfect: 2026-11-07
 tags:
   - character
 boundedness: 90
@@ -51,6 +51,14 @@ boundedness: 90
 - [SKIP-3-1-1](../lookup/SKIP/SKIP-3/SKIP-3-1-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 63rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄋㄚㄧ](../syllables/ㄋㄚㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 柰
+A separate character, 柰 (木 + 示, the crabapple, also a variant of 奈), kept as a search alias. 乃 is not a variant of it. SKIP 2-4-5; 9 strokes. Radical 075 木. It ranks 1409 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
+
+### 𠄎
+Archaic form from which 乃 descends. SKIP 2-1-1 (computed: EDRDG does not list it); 2 strokes. Radical 006 亅. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[乃]]<rt>ㄋㄚㄧ</rt></ruby> "but; then; as it turned out"
