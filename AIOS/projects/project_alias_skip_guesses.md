@@ -91,3 +91,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 蜆 | 蚬 | 1-6-4 | 虫 6 + 见 4 |
 | 責 | 责 | 2-4-4 | 龶 4 over 贝 4 |
 | 飽 | 饱 | 1-3-5 | 饣 3 + 包 5 |
+| 即 | 卽 | 1-7-2 | computed from its parts |

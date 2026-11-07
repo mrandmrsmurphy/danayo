@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 ---
 >[!tip] This is a page about the character 即.
 >For the word, see [即](../words/即.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-13
 - 242nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄐㄜㄎ](../syllables/ㄐㄜㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 卽
+Traditional form (kyūjitai) of 即, written 皀 + 卩; Wiktionary lists it as an alternative form of 即 and Unihan gives 即 as its Japanese new variant. SKIP 1-7-2 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[即]]<rt>ㄐㄜㄎ</rt></ruby> "namely; in other words" (stand-in for 即)
 - <ruby>[[即位]]<rt>ㄐㄜㄎ·⼔ㄧ</rt></ruby> "to ascend the throne"
@@ -62,5 +67,6 @@ date-last-perfect: 2026-10-13
 - <ruby>[[少即是多]]<rt>ㄙㄛㄨㄐㄜㄎㄙㄝㄉㄜ</rt></ruby> "less is more"
 - <ruby>[[色即是空]]<rt>ㄙㄧㄎㄐㄜㄎㄙㄝ·ㄎㄛㄫ</rt></ruby> "form is emptiness; form is precisely emptiness; appearances have no inherent existence"
 - <ruby>[[一触即発]]<rt>ㄧㄊㄑㄛㄎㄐㄜㄎㄈㄚㄊ</rt></ruby> "volatile, critical, dangerous, touch-and-go"
+
 ## Derived Characters
 - <ruby>[[節 (char)|節]]<rt>ㄐㄝㄊ</rt></ruby> "node"

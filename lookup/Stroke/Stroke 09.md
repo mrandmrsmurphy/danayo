@@ -51,6 +51,7 @@ tags:
 - 瓯 --> 甌
 - 拏 --> 拿
 - 柰 --> 乃
+- 卽 --> 即
 
 ## Data check
 ```dataview

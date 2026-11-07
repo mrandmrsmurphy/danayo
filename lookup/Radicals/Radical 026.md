@@ -30,6 +30,7 @@ tags: [lookup]
 
 ### Aliases
 - 卬 --> 卯
+- 卽 --> 即
 
 ## Data check
 ```dataview

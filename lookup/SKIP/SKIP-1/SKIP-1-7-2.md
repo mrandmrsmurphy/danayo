@@ -27,6 +27,7 @@ tags: [lookup]
 
 ### Aliases
 - 剑 --> 剣
+- 卽 --> 即
 
 ## Datacheck
 ```dataview
