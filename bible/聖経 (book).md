@@ -97,6 +97,4 @@ tags:
 Hepburn; Verbeck; Taisho Revised Version Committee ; 新改訳
 
 Be sure to use [[結]] for Genesis 2:24, Matthew 19:6, 1 Samuel 18:1, Dt 6:6-8, mt 16:19, 12:29; 11:29-30
-sin/חֵטְא - 業力 power of sin vs 業報 result of sin
-disaster/רָע - 禍
 John 10:9 - 鳥居

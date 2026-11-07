@@ -70,6 +70,7 @@ boundedness: 100
 - <ruby>[[卒業証書]]<rt>ㄐㄨㄊ·ㄝㄆㄐㄧㄫㄙ⼄</rt></ruby> "diploma"
 - <ruby>[[業報]]<rt>ㄝㄆㄅㄚㄨ</rt></ruby> "the consequence of a sin"
 - <ruby>[[罪業]]<rt>ㄐㄛㄧㄝㄆ</rt></ruby> "sin as a deed; a sinful act"
+- <ruby>[[業力]]<rt>ㄝㄆㄌㄧㄎ</rt></ruby> "the power of sin"
 
 ## Chengyu
 - <ruby>[[成家立業]]<rt>ㄙㄧㄫㄍㄚㄌㄧㄆ·ㄝㄆ</rt></ruby> "Get married and start a job"

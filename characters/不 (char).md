@@ -84,6 +84,7 @@ boundedness: 50
 - <ruby>[[不久]]<rt>ㄅㄛㄊㄍ⼜</rt></ruby> "soon, before long"
 - <ruby>[[不敬]]<rt>ㄅㄛㄊㄍ⼶ㄫ</rt></ruby> "irreverence, impiety"
 - <ruby>[[不義]]<rt>ㄅㄛㄊㄜㄧ</rt></ruby> "injustice, unrighteousness"
+- <ruby>[[不浄]]<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby> "unclean, ritually unclean"
 
 ## Chengyu
 - <ruby>[[弱不禁風]]<rt>ㄋ⼘ㄎㄅㄛㄊㄍㄧㄇㄈㄨㄫ</rt></ruby> "so frail as to be unable to withstand the wind"

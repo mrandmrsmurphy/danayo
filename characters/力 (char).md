@@ -68,6 +68,7 @@ boundedness: 90
 - <ruby>[[圧力]]<rt>ㄚㄊㄌㄧㄎ</rt></ruby> "pressure"
 - <ruby>[[引力]]<rt>ㄧㄋㄌㄧㄎ</rt></ruby> "attraction, gravitation"
 - <ruby>[[浮力]]<rt>ㄅㄨㄛㄌㄧㄎ</rt></ruby> "buoyancy"
+- <ruby>[[業力]]<rt>ㄝㄆㄌㄧㄎ</rt></ruby> "the power of sin"
 
 ## Chengyu
 - <ruby>[[心性意力]]<rt>ㄙㄧㄇㄙㄧㄫㄜㄌㄧㄎ</rt></ruby> "heart, soul, mind, and strength"

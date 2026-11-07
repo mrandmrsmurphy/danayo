@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **New neologisms 業力, 不浄 and 清浄 (Murphy: "yes, create the neologisms"):** 業力 (the power of sin; Genesis 4:7, Romans 6; attested in Chinese only), 不浄 (*ṭāmēʾ*, ritually unclean; Japanese) and 清浄 (*ṭāhôr*, ritually clean; Japanese, with Chinese qīngjìng meaning "peaceful"). All tagged `neologism`, listed on `List of 新語`, placed on `Sin` and `基督敎`. The 業報 note and the `Sin` 業力-versus-業報 note, and the `基督敎` "not yet coined" line, now point to the words. Still not coined: 冒瀆, which needs 瀆. [AI]
+
 - **Lexipedia `Sin`, 業力 versus 業報 (Murphy: "add a little spot for 業力 vs 業報"):** a short note in Semantic Range Notes setting the power of sin (業力, not yet a word) against its result (業報). [AI]
 
 - **New word 直霊 (Murphy: "Create 直霊"):** "upright spirit," a `neologism` from 直 and 霊, taking over the Shinto *naohi*, the spirit that straightens what the crooked spirit bent. It is attested in Japanese only, so it is a compositional coinage and not an attested word; the Mandarin, Cantonese and Korean fields are the readings of the two characters. Placed on `Religion` and `基督敎` and listed on `List of 新語`. It is not yet assigned to Naomi or to any other use. [AI]

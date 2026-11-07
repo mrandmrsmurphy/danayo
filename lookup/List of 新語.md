@@ -51,6 +51,9 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 11. <ruby>[兪木](/words/兪木.md)<rt>⼜ㄇㄇㄛㄎ</rt></ruby> - elm
 12. <ruby>[犯肉](/words/犯肉.md)<rt>ㄅㄚㄇㄋㄨㄎ</rt></ruby> - to fuck (vulgar)
 13. <ruby>[直霊](/words/直霊.md)<rt>ㄐㄧㄊㄌㄝㄫ</rt></ruby> - upright spirit (Shinto *naohi*)
+14. <ruby>[業力](/words/業力.md)<rt>ㄝㄆㄌㄧㄎ</rt></ruby> - the power of sin
+15. <ruby>[不浄](/words/不浄.md)<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby> - unclean (ritual)
+16. <ruby>[清浄](/words/清浄.md)<rt>ㄑㄧㄫㄐㄝㄫ</rt></ruby> - pure, ritually clean
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.
