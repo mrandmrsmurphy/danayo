@@ -173,6 +173,7 @@ tags: [lookup]
 - 𠱩 --> 君
 - 𠱭 --> 君
 - 𠱰 --> 君
+- 噹 --> 当
 
 ## Data check
 ```dataview

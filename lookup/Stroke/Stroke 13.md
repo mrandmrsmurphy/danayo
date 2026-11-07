@@ -56,6 +56,7 @@ tags:
 - 彚 --> 彙
 - 匯 --> 彙
 - 𠺞 --> 君
+- 當 --> 当
 
 ## Data check
 ```dataview

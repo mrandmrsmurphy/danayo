@@ -51,6 +51,7 @@ tags:
 - 淆 --> 交
 - 做 --> 作
 - 脩 --> 修
+- 裆 --> 当
 
 ## Data check
 ```dataview

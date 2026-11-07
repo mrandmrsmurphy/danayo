@@ -29,7 +29,7 @@ mc_id: 86
 graphemic_classification: "也"
 stand_in: "地"
 注音: "ㄉㄧㄜ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

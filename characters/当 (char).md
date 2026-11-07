@@ -37,7 +37,7 @@ aliases:
   - 襠
   - 裆
 注音: ㄉㄚㄫ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -55,6 +55,20 @@ boundedness: 100
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 152nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄉㄚㄫ](../syllables/ㄉㄚㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 當
+Traditional form of 当; Wiktionary calls 当 an unorthodox variant of 當 that comes from cursive script, simplified the same way in mainland China and Japan. SKIP 2-5-8; 13 strokes. Radical 102 田. This form is the one the Classical Chinese lists rank, so the `mc_id` 152 is 當's rank.
+
+### 噹
+A separate character, 噹 (口 + 當, the sound of bells), which Chinese simplified to 当. SKIP 1-3-13 (computed: EDRDG does not list it); 16 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
+
+### 襠
+A separate character, 襠 (衤 + 當 as phonetic, "crotch"); Dan'a'yo writes it with 当 in 兜当布 (兜襠布), a loincloth. SKIP 1-5-13; 18 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
+
+### 裆
+Simplified Chinese form of 襠 (衤 + 当). SKIP 1-5-6 (computed: EDRDG does not list it); 11 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[当]]<rt>ㄉㄚㄫ</rt></ruby> "while; current" (stand-in for 当)

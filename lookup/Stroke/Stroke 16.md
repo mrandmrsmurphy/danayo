@@ -49,6 +49,7 @@ tags:
 - 劔 --> 剣
 - 劒 --> 剣
 - 𪚦 --> 亀
+- 噹 --> 当
 
 ## Data check
 ```dataview

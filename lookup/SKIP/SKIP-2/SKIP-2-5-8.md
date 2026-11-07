@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[蜀](/characters/蜀.md)<rt>ㄙㄛㄎ</rt></ruby> "Shu kingdom"
 6. <ruby>[電](/characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> "electricity"
 
+### Aliases
+- 當 --> 当
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

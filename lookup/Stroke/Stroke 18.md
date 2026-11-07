@@ -49,6 +49,7 @@ tags:
 - 𩸽
 - 龜 --> 亀
 - 檯 --> 台
+- 襠 --> 当
 
 ## Data check
 ```dataview

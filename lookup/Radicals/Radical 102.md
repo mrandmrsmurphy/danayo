@@ -49,6 +49,9 @@ tags: [lookup]
 ### +14 Strokes
 21. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary
 
+### Aliases
+- 當 --> 当
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

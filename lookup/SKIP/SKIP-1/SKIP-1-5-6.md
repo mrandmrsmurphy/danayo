@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[移](/characters/移.md)<rt>⼶ㄧ</rt></ruby> "change"
 8. <ruby>[袴](characters/袴%20(char).md)<rt>ㄎㄛ</rt></ruby> "pants; trousers"
 
+### Aliases
+- 裆 --> 当
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

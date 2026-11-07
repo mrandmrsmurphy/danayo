@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 当 perfected to the current standard:** `## Aliases` section for 當, 噹, 襠 and 裆 (Wiktionary, EDRDG, Unihan; two SKIP numbers computed), redirects added; rank 152 (the rank of 當), 17 words and derived list verified. [AI]
+
+- **Character loop, 尾 perfected to the current standard:** no aliases; rank 1232 verified in `CC 1000`; nine words, two chengyu and four derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 夏 perfected to the current standard:** `## Aliases` section for 榎 (no connection found on Wiktionary beyond the shape; says so), redirects added; rank 209, six words, the chengyu and 廈 verified. [AI]
+
+- **Character loop, 地 perfected to the current standard:** no aliases; rank 86 verified in `CC 0000`; all 40 words and seven chengyu listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 回 perfected to the current standard:** `## Aliases` section for 囘, 迴, 廻 and 蛔 (Wiktionary, EDRDG and Unihan; 迴 counted ten strokes the Japanese way), redirects added; rank 1120, 20 words, the chengyu and 徊 verified. [AI]
 
 - **Character loop, 哉 perfected to the current standard:** no aliases; rank 272 verified in `CC 0000`; its one word listed, no derived characters; no edits beyond the stamp. [AI]

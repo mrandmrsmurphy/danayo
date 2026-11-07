@@ -214,6 +214,7 @@ tags: [lookup]
 - 柰 --> 乃
 - 槕 --> 桌
 - 檯 --> 台
+- 榎 --> 夏
 
 ## Data check
 ```dataview

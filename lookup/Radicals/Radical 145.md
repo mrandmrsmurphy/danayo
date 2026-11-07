@@ -72,6 +72,10 @@ tags:
 ### +16 Strokes
 31. <ruby>[襲](../../characters/襲.md)<rt>ㄙㄜㄆ</rt></ruby> - attack
 
+### Aliases
+- 襠 --> 当
+- 裆 --> 当
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
