@@ -57,3 +57,4 @@ date-last-perfect: 2026-10-15
 - <ruby>[[翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip" (stand-in for 翻)
 - <ruby>[[翻訳]]<rt>ㄈㄛㄋ·⼶ㄎ</rt></ruby> "translate"
 - <ruby>[[翻身]]<rt>ㄈㄛㄋㄙㄧㄋ</rt></ruby> "emancipate"
+- <ruby>[[翻飛]]<rt>ㄈㄛㄋㄈㄝㄧ</rt></ruby> "to flutter; to hover with beating wings"

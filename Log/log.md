@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-06
 
+- **New neologism 翻飛 and its use in `造化記` v2 (Murphy: "Let's go with it being a neologism, coin it, and use it"):** 翻飛, "to flutter, hover," for the hovering of *meraḥepet* in Genesis 1:2. A real Chinese word that could not be confirmed in a second language, so tagged `neologism`; the Japanese and Korean fields are character readings. Placed on `Movement` and listed on `List of 新語`. In v2, 揺 is replaced by 翻飛. [AI]
+
+- **`造化記` (Genesis 1), verse 2 reviewed (Murphy: 神霊 on purpose, to appropriate the CJKV religious term; verbs are tenseless; "remove the dot"):** the dot removed from every 於 ruby on the page (4 places, ·ㄛ to ㄛ), so 於 now reads ㄛ throughout. 神霊 kept as the deliberate rendering of *rûaḥ ʾĕlōhîm*. 翻飛 proposed for *meraḥepet*, "hovers"; not applied yet, because 翻飛 is not in the vault and could not be confirmed in a second language (it is Chinese; Jisho has no entry for Japanese). 揺 still stands in v2. [AI]
+
+- **`造化記` (Genesis 1), verse 1 reviewed (Murphy: 太始 for John 1:1 as well, and 創造 for Genesis 1:27):** v27 draft changed from 造 to 創造 in all three lines, matching *bārāʾ* in v1; 作 stays for *ʿāśāh* (v7). John 1:1 in `恵偕記01` already reads 太始於, so it needed no change. The ruby on 於 (ㄛ against ·ㄛ) is still inconsistent on the page and left for a single pass at the end. [AI]
+
 - **New neologisms 業力, 不浄 and 清浄 (Murphy: "yes, create the neologisms"):** 業力 (the power of sin; Genesis 4:7, Romans 6; attested in Chinese only), 不浄 (*ṭāmēʾ*, ritually unclean; Japanese) and 清浄 (*ṭāhôr*, ritually clean; Japanese, with Chinese qīngjìng meaning "peaceful"). All tagged `neologism`, listed on `List of 新語`, placed on `Sin` and `基督敎`. The 業報 note and the `Sin` 業力-versus-業報 note, and the `基督敎` "not yet coined" line, now point to the words. Still not coined: 冒瀆, which needs 瀆. [AI]
 
 - **Lexipedia `Sin`, 業力 versus 業報 (Murphy: "add a little spot for 業力 vs 業報"):** a short note in Semantic Range Notes setting the power of sin (業力, not yet a word) against its result (業報). [AI]

@@ -54,6 +54,7 @@ The full 7×9 grid of Dan'a'yo correlative-pronoun coinages (何/其/彼/某/此
 14. <ruby>[業力](/words/業力.md)<rt>ㄝㄆㄌㄧㄎ</rt></ruby> - the power of sin
 15. <ruby>[不浄](/words/不浄.md)<rt>ㄅㄛㄊㄐㄝㄫ</rt></ruby> - unclean (ritual)
 16. <ruby>[清浄](/words/清浄.md)<rt>ㄑㄧㄫㄐㄝㄫ</rt></ruby> - pure, ritually clean
+17. <ruby>[翻飛](/words/翻飛.md)<rt>ㄈㄛㄋㄈㄝㄧ</rt></ruby> - to flutter, hover
 
 ## Periodic Table
 See [[Periodic Table]] for the full system and Formula Notation rules.

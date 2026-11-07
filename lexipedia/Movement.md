@@ -57,6 +57,7 @@ Movement vocabulary covers the ordinary verbs of getting from one place to anoth
 - <ruby>[留](../words/留.md)<rt>ㄌ⼜</rt></ruby>: to remain, stay.
 - <ruby>[嵌入](../words/嵌入.md)<rt>ㄎㄚㄇㄋㄧㄆ</rt></ruby>: to embed, inlay, insert into.
 - <ruby>[飛翔](../words/飛翔.md)<rt>ㄈㄝㄧㄙ⼘ㄫ</rt></ruby>: to fly, soar.
+- <ruby>[翻飛](../words/翻飛.md)<rt>ㄈㄛㄋㄈㄝㄧ</rt></ruby>: to flutter, to hover with beating wings.
 - <ruby>[展翅](../words/展翅.md)<rt>ㄐㄝㄋㄙㄧ</rt></ruby>: to spread the wings, take flight.
 - <ruby>[飛行](../words/飛行.md)<rt>ㄈㄝㄧㄏㄚㄫ</rt></ruby>: to fly; flight — 飛 plus 行 for directed travel.
 - <ruby>[飛行机](../words/飛行机.md)<rt>ㄈㄝㄧㄏㄚㄫㄍㄧㄜ</rt></ruby>: airplane.
