@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 先 perfected:** rank 111 verified in `CC 0000`; words and eight chengyu complete; new `## Derived Characters` section (洗, 銑). [AI]
+
+- **Character loop, 允 perfected:** rank 1508 verified in `CC 1000`; both words and the derived 兗 listed; no edits beyond the stamp. [AI]
+
 - **Character loop, 俯 perfected:** level links reordered to Grade, HSK, Jōyō, Korean; rank and both words checked. [AI]
 
 - **Character loop, 修 perfected:** rank 523 verified in `CC 0000` (alias 脩 ranks 891, lower); nine words and the chengyu listed; no edits beyond the stamp. [AI]
