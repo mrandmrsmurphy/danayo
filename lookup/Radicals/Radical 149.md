@@ -141,6 +141,7 @@ tags: [lookup]
 - 讨 --> 討
 - 谈 --> 談
 - 詹 --> 旦
+- 谄 --> 諂
 
 ## Data check
 ```dataview

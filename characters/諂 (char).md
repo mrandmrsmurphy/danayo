@@ -30,7 +30,7 @@ stand_in: "諂"
 aliases:
   - 谄
 注音: "ㄑㄝㄇ"
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 75
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1904th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 徹|ʈʰ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄑㄝㄇ](../syllables/ㄑㄝㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 谄
+Simplified Chinese form of 諂, with 讠 in place of 言 (Wiktionary). SKIP 1-2-8 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[諂]]<rt>ㄑㄝㄇ</rt></ruby> "flatter" (stand-in for 諂)

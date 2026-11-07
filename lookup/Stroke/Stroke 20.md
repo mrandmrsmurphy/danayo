@@ -27,6 +27,7 @@ tags:
 - 瀾 --> 乱
 - 齡 --> 齢
 - 齣 --> 出
+- 矍 --> 衢
 
 ## Data check
 ```dataview

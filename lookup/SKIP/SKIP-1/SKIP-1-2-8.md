@@ -39,6 +39,7 @@ tags:
 - 债 --> 債
 - 谈 --> 談
 - 诞 --> 誕
+- 谄 --> 諂
 
 ## Datacheck
 ```dataview

@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 起 perfected to the current standard:** no aliases; filled in 巳's Old Chinese reading (*ljɯʔ, *lɯs, Zhengzhang via en.Wiktionary) where the page said uncertain; rank 247, seven words and the chengyu verified. [AI]
+
+- **Character loop, 走 perfected to the current standard:** no aliases; rank 525 verified in `CC 0000`; five words, the chengyu and three semantic derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 諂 perfected to the current standard:** `## Aliases` section for 谄 (simplified; SKIP 1-2-8 computed), redirects added; rank 1904 and its one word verified. [AI]
+
+- **Character loop, 衢 perfected to the current standard:** `## Aliases` section for 矍 (no Wiktionary link found; says so), redirects added; `hanmun_edu_level` changed from 無 to 名 because 衢 is listed on `Korean Name ㄱ` and not on `Korean Missing`, and the HSK No link added to the levels bullet; rank 2523 and its one word verified. [AI]
+
 - **Character loop, 草 perfected to the current standard:** `## Aliases` section for 艸 (archaic form and Kangxi radical 140; ranks 1139, so `mc_id` stays 590), redirects added; the alias remark moved out of Notes; 16 words verified. [AI]
 
 - **Character loop, 苦 perfected to the current standard:** no aliases; rank 622 verified in `CC 0000`; all 14 words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]

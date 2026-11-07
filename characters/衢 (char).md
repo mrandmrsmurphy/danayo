@@ -23,7 +23,7 @@ english:
 諺文: 구
 joyo_level: 表外字
 hsk_level: 無
-hanmun_edu_level: 無
+hanmun_edu_level: 名
 danayo_id: 8814
 mc_id: 2523
 graphemic_classification: 瞿
@@ -31,7 +31,7 @@ stand_in: 衢
 aliases:
   - 矍
 注音: ㄍㄨ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -44,10 +44,15 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: semantic [[Radical 144|行]] ("road, go") + phonetic 瞿 (no vault page — the entire 瞿/矍 phonetic family is unattested in this vault) — a road that branches, a crossroads.
+- 形声: semantic [[Radical 144|行]] ("road, go") + phonetic 瞿 (no vault page; 矍 is its only relative listed here) — a road that branches, a crossroads.
 - [SKIP-1-3-21](../lookup/SKIP/SKIP-1/SKIP-1-3-21.md) ([Stroke 24](../lookup/Stroke/Stroke%2024.md))
 - 2523rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
-- [Grade Name](../lookup/Grade%20Name.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 矍
+No connection to 衢 found on Wiktionary; 矍 ("to look about in fright") is a separate character that this page's phonetic note places in the same 瞿 family. SKIP 2-10-10; 20 strokes. Radical 109 目. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[衢]]<rt>ㄍㄨ</rt></ruby> "crossroads, thoroughfare"
