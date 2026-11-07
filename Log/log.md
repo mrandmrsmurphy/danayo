@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 括 perfected:** rank 1919 verified in `CC 1000`; its word listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 徨 perfected:** added the missing Old Chinese reconstruction (*ɡʷaːŋ, the same as its phonetic 皇, per Zhengzhang's table on en.Wiktionary); long-tail `mc_id` 4520 kept; its word listed. [AI]
+
 - **Character loop, 幻 perfected:** long-tail `mc_id` 4746 kept per policy; its one word listed; no edits beyond the stamp. [AI]
 
 - **Character loop, 幌 perfected:** long-tail `mc_id` 9813 kept per policy; name-only character on `List of 名専字`, no words; no edits beyond the stamp. [AI]
