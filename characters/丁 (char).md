@@ -72,3 +72,4 @@ boundedness: 80
 - <ruby>[[汀 (char)|汀]]<rt>ㄊㄝㄫ</rt></ruby> "sand bar"
 - <ruby>[[釘 (char)|釘]]<rt>ㄉㄝㄫ</rt></ruby> "nail"
 - <ruby>[[町]]<rt>ㄊㄝㄫ</rt></ruby> "ridge between fields"
+- <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby> "lamp"

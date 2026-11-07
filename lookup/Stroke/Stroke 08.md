@@ -51,6 +51,7 @@ tags:
 - 责 --> 責
 - 饱 --> 飽
 - 坮 --> 台
+- 奌 --> 点
 
 ## Data check
 ```dataview

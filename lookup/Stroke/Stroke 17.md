@@ -46,6 +46,7 @@ tags:
 - 禦 --> 御
 - 駿 --> 俊
 - 膽 --> 胆
+- 點 --> 点
 
 ## Data check
 ```dataview

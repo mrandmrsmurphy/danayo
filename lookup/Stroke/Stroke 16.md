@@ -50,6 +50,7 @@ tags:
 - 劒 --> 剣
 - 𪚦 --> 亀
 - 噹 --> 当
+- 燈 --> 灯
 
 ## Data check
 ```dataview

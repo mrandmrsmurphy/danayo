@@ -14,6 +14,9 @@ tags: [lookup]
 3. <ruby>[黛](../../characters/黛.md)<rt>ㄉㄚㄧ</rt></ruby> - eyebrow pencil
 4. <ruby>[黜](../../characters/黜.md)<rt>ㄊㄨㄊ</rt></ruby> - dethrone
 
+### Aliases
+- 點 --> 点
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

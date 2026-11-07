@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 牛 perfected to the current standard:** no aliases; rank 503 verified in `CC 0000`; 11 words, two chengyu and six derived characters listed; no edits beyond the stamp. [AI]
+
+- **Character loop, 点 perfected to the current standard:** `## Aliases` section for 點 and 奌 (Wiktionary on both pages; 奌's SKIP 2-3-5 computed), redirects added; Old Chinese reconstructions filled in (點 *teːmʔ, 占 *ʔljem, *tjems, Zhengzhang via en.Wiktionary); rank sentence dropped since 3957 is 點's; 24 words and two chengyu verified. [AI]
+
+- **Character loop, 灯 perfected to the current standard:** like 胆, the notes had analysed the traditional form: Wiktionary analyses 灯 as 火 + 丁, not 登. `graphemic_classification` changed from 登 to 丁, 灯 moved from 登's Derived Characters to 丁's, new `## Aliases` section for 燈 (SKIP 1-4-12 from EDRDG, 16 strokes) with redirects; `mc_id` 0 confirmed; four words listed. [AI]
+
+- **Character loop, 滾 perfected to the current standard:** `## Aliases` section for 滚 (simplified form; SKIP 1-3-10 computed), redirects added; `mc_id` 0 confirmed (neither 滾 nor 滚 is ranked); its one word listed. [AI]
+
 - **Character loop, 活 perfected to the current standard:** `## Aliases` section for 𣴠 (the conservative variant per Wiktionary; bare mention; SKIP 1-3-7 computed), redirects added; rank 1850, seven words, the chengyu and 闊 verified. [AI]
 
 - **Character loop, 汁 perfected to the current standard:** no aliases; rank 2313 verified in `CC 2000`; all four words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]

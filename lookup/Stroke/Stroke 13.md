@@ -58,6 +58,7 @@ tags:
 - 𠺞 --> 君
 - 當 --> 当
 - 詹 --> 旦
+- 滚 --> 滾
 
 ## Data check
 ```dataview

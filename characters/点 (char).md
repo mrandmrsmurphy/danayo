@@ -32,7 +32,7 @@ aliases:
   - 點
   - 奌
 注音: ㄉㄝㄇ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -46,10 +46,18 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声 (OC uncertain): semantic [[Radical 086|火]] ("fire; dot") + phonetic [[占 (char)|占]] (OC uncertain). (Traditional 點 uses 黑 as semantic; shinjitai 点 substitutes 火.)
+- 形声 (OC *teːmʔ): semantic [[Radical 086|火]] ("fire; dot") + phonetic [[占 (char)|占]] (OC *ʔljem, *tjems) — a dot or point; 点 is the shinjitai and simplified form, with 灬 where the traditional 點 has 黑.
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
-- 3957th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 添|em]] → [ㄉㄝㄇ](../syllables/ㄉㄝㄇ.md)
+- Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 添|em]] → [ㄉㄝㄇ](../syllables/ㄉㄝㄇ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 點
+Traditional form (kyūjitai) of 点, which replaced 黑 with 灬 beneath 占 (Wiktionary); 點 is the form the Classical Chinese lists rank. SKIP 1-12-5; 17 strokes. Radical 203 黑. This form is the one the Classical Chinese lists rank, so the `mc_id` 3957 is 點's rank.
+
+### 奌
+Alternative form of 点 in Japanese (Wiktionary), written 大 over 占. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. Radical 037 大. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[点]]<rt>ㄉㄝㄇ</rt></ruby> "point" (stand-in for 点)

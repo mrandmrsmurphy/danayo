@@ -89,6 +89,7 @@ tags: [lookup]
 ### Aliases
 - 爛 --> 乱
 - 烂 --> 乱
+- 燈 --> 灯
 
 ## Data check
 ```dataview

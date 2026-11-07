@@ -58,4 +58,3 @@ boundedness: 90
 - <ruby>[[橙]]<rt>ㄉㄨㄫ</rt></ruby> "orange"
 - <ruby>[[澄]]<rt>ㄑㄚㄫ</rt></ruby> "clear; pure"
 - <ruby>[[証]]<rt>ㄐㄧㄫ</rt></ruby> "prove; confirm; verify"
-- <ruby>[[灯 (char)|灯]]<rt>ㄉㄨㄫ</rt></ruby> "lamp"

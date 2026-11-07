@@ -51,6 +51,7 @@ tags:
 
 ### Aliases
 - 宔 --> 主
+- 奌 --> 点
 
 ## Datacheck
 ```dataview

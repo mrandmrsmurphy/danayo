@@ -29,7 +29,7 @@ mc_id: 503
 graphemic_classification: 象形
 stand_in: 牛
 注音: ㄋ⼜
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

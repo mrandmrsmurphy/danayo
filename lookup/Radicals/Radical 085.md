@@ -236,6 +236,7 @@ tags: [lookup]
 - 沲 --> 他
 - 汇 --> 彙
 - 𣴠 --> 活
+- 滚 --> 滾
 
 ## Data check
 ```dataview

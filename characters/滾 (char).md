@@ -33,7 +33,7 @@ stand_in: 滾
 aliases:
   - 滚
 注音: ㄍ⺢ㄋ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 80
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄍ⺢ㄋ](../syllables/ㄍ⺢ㄋ.md). Note: this Middle Chinese derivation is an editorial best guess, not independently sourced.
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 滚
+Simplified Chinese form of 滾 (氵 + 衮) (Wiktionary). SKIP 1-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[滾]]<rt>ㄍ⺢ㄋ</rt></ruby> "boil; roll" (stand-in for 滾)
