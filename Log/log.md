@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 有 perfected to the current standard:** `## Aliases` section for 宥 (a separate character, "forgive"; no link found on Wiktionary beyond its shape), redirects added; rank 12, 17 words, the chengyu and three derived characters verified. [AI]
+
+- **Character loop, 春 perfected to the current standard:** `## Aliases` section for 萅 (archaic form per Wiktionary; SKIP 2-3-8 computed), redirects added; rank 211, 12 words, two chengyu and both derived characters verified. [AI]
+
+- **Character loop, 明 perfected to the current standard:** `## Aliases` section for 奛, 䳟 and 眀 (Wiktionary on both pages; 䳟's SKIP 1-8-11 computed), redirects added; rank 83, 35 words, four chengyu and both derived characters verified. [AI]
+
+- **Character loop, 早 perfected to the current standard:** no aliases; rank 1350 verified in `CC 1000`; three words and derived 草 listed; no edits beyond the stamp. [AI]
+
+- **詹 moved to 旦 only (Murphy: option 2; "List 胆 and 瞻 as derived characters of 旦, because 詹 is its alias"):** 詹 removed from 瞻's aliases (譫 stays); the Korean name list `Korean Name ㅊ` now links 詹 to 旦; 瞻 added to 旦's Derived Characters beside 胆. The word aliases 詹妄 (瞻妄) and 詹余 (瞻余) are kept as search spellings. [AI]
+
 - **Character loop, 所 perfected to the current standard:** no aliases; rank 19 verified in `CC 0000`; all 15 words listed, no chengyu or derived characters; no edits beyond the stamp. [AI]
 
 - **詹 links updated after the 旦 decision (Murphy: notes that mention 詹 are out of date):** the 膽 subsection on 胆 and the phonetic bullet on 瞻 now link 詹 to 旦; 胆 removed from 瞻's Derived Characters, since 胆's phonetic is 旦 and not 詹. Open: 詹 was already an alias of 瞻 (with 譫), so it is now an alias of two characters; not resolved. [AI]

@@ -30,7 +30,7 @@ stand_in: 有
 aliases:
   - 宥
 注音: ⼜
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 50
 - [SKIP-3-2-4](../lookup/SKIP/SKIP-3/SKIP-3-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 12th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [⼜](../syllables/⼜.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 宥
+No connection to 有 found on Wiktionary beyond its shape: 宥 (宀 over 有) is a separate character meaning "to forgive, to pardon". SKIP 2-3-6; 9 strokes. Radical 040 宀. It ranks 2351 in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank.
 
 ## Words
 - <ruby>[[有]]<rt>⼜</rt></ruby> "have" (stand-in for 有)

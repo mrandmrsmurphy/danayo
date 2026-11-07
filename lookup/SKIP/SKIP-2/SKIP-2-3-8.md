@@ -40,6 +40,10 @@ tags:
 28. <ruby>[萎](characters/萎.md)<rt>⼔ㄧ</rt></ruby> "wither"
 29. <ruby>[菲](characters/菲.md)<rt>ㄈㄧ</rt></ruby> "fragrant"
 
+### Aliases
+- 奛 --> 明
+- 萅 --> 春
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

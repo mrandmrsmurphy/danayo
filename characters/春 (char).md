@@ -31,7 +31,7 @@ stand_in: 春
 aliases:
   - 萅
 注音: ㄑㄨㄋ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 90
 - [SKIP-2-5-4](../lookup/SKIP/SKIP-2/SKIP-2-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 211th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄑㄨㄋ](../syllables/ㄑㄨㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 萅
+Archaic form of 春 (Wiktionary), written 艸 over 旾. SKIP 2-3-8 (computed: EDRDG does not list it); 11 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[春]]<rt>ㄑㄨㄋ</rt></ruby> "springtime" (stand-in for 春)

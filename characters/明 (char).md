@@ -39,7 +39,7 @@ aliases:
   - 䳟
   - 眀
 注音: ㄇ⼶ㄫ
-date-last-perfect: 2026-10-13
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -56,6 +56,17 @@ boundedness: 100
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 83rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄇ⼶ㄫ](../syllables/ㄇ⼶ㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 奛
+No connection to 明 found on Wiktionary beyond its shape: 奛 (大 over 明) means "opening; radiant". SKIP 2-3-8; 11 strokes. Radical 037 大. It has no rank of its own in the Classical Chinese lists.
+
+### 䳟
+A separate character, 䳟 (明 + 鳥), a legendary bird like the fenghuang; Dan'a'yo writes it with 明 in 焦明, an alternate form of 鷦䳟. SKIP 1-8-11 (computed: EDRDG does not list it); 19 strokes. Radical 196 鳥. It has no rank of its own in the Classical Chinese lists.
+
+### 眀
+Variant form of 明 (Wiktionary), 目 + 月, attested only in the oracle bone collection Heji (19411). SKIP 1-5-4; 9 strokes. Radical 109 目. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[明]]<rt>ㄇ⼶ㄫ</rt></ruby> "bright" (stand-in for 明)

@@ -87,6 +87,7 @@ tags:
 
 ### Aliases
 - 宔 --> 主
+- 宥 --> 有
 
 ## Data check
 ```dataview

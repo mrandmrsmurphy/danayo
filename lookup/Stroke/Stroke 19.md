@@ -35,6 +35,7 @@ tags:
 - 鵬 --> 朋
 - 䨭 --> 宵
 - 贊 --> 賛
+- 䳟 --> 明
 
 ## Data check
 ```dataview

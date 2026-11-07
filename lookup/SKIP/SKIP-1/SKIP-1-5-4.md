@@ -29,6 +29,7 @@ tags:
 
 ### Aliases
 - 叛 --> 反
+- 眀 --> 明
 
 ## Datacheck
 ```dataview

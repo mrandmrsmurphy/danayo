@@ -56,6 +56,9 @@ tags: [lookup]
 ### +13 Strokes
 23. <ruby>[奮](../../characters/奮.md)<rt>ㄈㄨㄋ</rt></ruby> - stirred up
 
+### Aliases
+- 奛 --> 明
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"
