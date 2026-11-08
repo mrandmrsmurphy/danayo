@@ -76,6 +76,8 @@ tags:
 - 课 --> 課
 - 倡 --> 唱
 - 倝 --> 幹
+- 剔 --> 剃
+- 烉 --> 煥
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -21,6 +21,7 @@ tags: [lookup]
 ### Aliases
 - 剧 --> 劇
 - 倝 --> 幹
+- 剔 --> 剃
 
 ## Datacheck
 ```dataview

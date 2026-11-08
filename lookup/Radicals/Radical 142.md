@@ -65,6 +65,7 @@ tags:
 34. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
 35. <ruby>[融](../../characters/融%20(char).md)<rt>⼜ㄫ</rt></ruby> - melt
 36. <ruby>[螟](../../characters/螟.md)<rt>ㄇㄝㄫ</rt></ruby> - larva
+- 螢 --> 蛍
 
 ### +11 Strokes
 37. <ruby>[螳](../../characters/螳.md)<rt>ㄉㄚㄫ</rt></ruby> - mantis

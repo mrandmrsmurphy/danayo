@@ -23,3 +23,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 戸 | 戶 | 2-1-3 | computed from its parts |
 | 戸 | 户 | 2-1-3 | computed from its parts |
 | 教 | 敎 | 1-7-4 | computed from its parts |
+| 煥 | 烉 | 1-4-6 | computed from its parts |
+| 煥 | 焕 | 1-4-7 | computed from its parts |
+| 蛍 (char) | 萤 | 2-3-8 | computed from its parts |

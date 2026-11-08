@@ -184,9 +184,6 @@ Characters not yet in `characters/` that are referenced by lookup pages, grouped
 ### Old HSK 6 + Korean Name ㅁ
 [[紊]]
 
-### Old HSK 6 + Korean Name ㅊ
-[[剔]]
-
 ### Hyōgai + Korean Name ㄴ
 [[撚]]
 

@@ -19,6 +19,8 @@ tags: [lookup]
 
 ### Aliases
 - 鬆 --> 松
+- 鬀 --> 剃
+- 鬄 --> 剃
 
 ## Data check
 ```dataview

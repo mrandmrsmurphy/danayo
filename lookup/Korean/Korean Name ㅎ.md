@@ -66,7 +66,7 @@ This have all be checked for redirects.
 [俠](characters/侠.md) [挾](characters/挟%20(char).md) [峽](characters/峡.md) [[浹]] [夾](characters/夹.md) [狹](characters/狭.md) [[莢]] [鋏 (char)](characters/鋏%20(char).md) [頰](characters/頬%20(char).md) [[冾]] [劦](characters/劦.md)
 
 ### 형
-[型](characters/型.md) [邢](characters/邢.md) [[珩]] [[泂]] [[炯]] 瑩-->瑛 [[瀅]] [馨](characters/馨.md) [[熒]] [[滎]] [[灐]] [荊](characters/荊.md) [[鎣]] [迥 (char)](characters/迥%20(char).md)
+[型](characters/型.md) [邢](characters/邢.md) [[珩]] [[泂]] [[炯]] 瑩-->瑛 [[瀅]] [馨](characters/馨.md) [[蛍 (char)|熒]] [[滎]] [[灐]] [荊](characters/荊.md) [[鎣]] [迥 (char)](characters/迥%20(char).md)
 
 ### 혜
 [[蕙]] [彗](characters/彗.md) [[譿]] [[寭]] [[憓]] [[暳]] [[蹊]] [[醯]] [鞋 (char)](characters/鞋%20(char).md) [[譓]] [[鏸]] 
@@ -95,7 +95,7 @@ This have all be checked for redirects.
 [廓](../../characters/郭%20(char).md) [[攫]] [蠖](characters/蠖.md)
 
 ### 환
-[喚 (char)](characters/喚%20(char).md) [[奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
+[喚 (char)](characters/喚%20(char).md) [[煥|奐]] [[渙]] [煥](characters/煥.md) [[晥]] [幻](characters/幻.md) [桓](characters/桓.md) [[鐶]] [[驩]] [[宦]] [[紈]] [[鰥]] [[圜]] 
 
 ### 활
 [闊 (char)](characters/闊%20(char).md) [滑 (char)](characters/滑%20(char).md) [猾](characters/滑%20(char).md) [[豁]] [蛞](characters/蛞.md)

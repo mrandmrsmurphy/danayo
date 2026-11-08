@@ -38,6 +38,7 @@ tags: [lookup]
 14. <ruby>[奏](../../characters/奏.md)<rt>ㄙㄛㄨ</rt></ruby> - play music
 15. <ruby>[契](../../characters/契.md)<rt>ㄎㄝㄧ</rt></ruby> - deed
 16. <ruby>[奔](../../characters/奔.md)<rt>ㄅㄛㄋ</rt></ruby> - run around
+- 奐 --> 煥
 
 ### +7 Strokes
 17. <ruby>[套](../../characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - covering

@@ -77,6 +77,8 @@ tags:
 - 蛊 --> 古
 - 娼 --> 唱
 - 敎 --> 教
+- 焕 --> 煥
+- 萤 --> 蛍
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

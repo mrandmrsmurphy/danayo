@@ -49,6 +49,7 @@ tags:
 30. <ruby>[茎](../../characters/茎%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> - stem
 
 31. <ruby>[菲](../../characters/菲.md)<rt>ㄈㄧ</rt></ruby> - fragrant
+- 萤 --> 蛍
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -111,6 +112,7 @@ tags:
 81. <ruby>[蓮](../../characters/蓮%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> - lotus
 82. <ruby>[蒜](../../characters/蒜.md)<rt>ㄙ⺢ㄇ</rt></ruby> - garlic
 - 蕾 --> 雷
+- 薙 --> 剃
 
 ### +11 Strokes
 83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao

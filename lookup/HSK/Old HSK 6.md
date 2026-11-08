@@ -774,7 +774,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 769.  [剂](../../characters/剤.md)
 770.  [[削 (char)]]
 771.  [婪](../../characters/林%20(char).md)
-772.  [[剔]]
+772.  [[剃 (char)|剔]]
 773.  [[剖]]
 774.  [[挎]]
 775.  [婴](../../characters/嬰.md)

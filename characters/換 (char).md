@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-15
 ```
 
 ## Notes
-- 形声 (OC *ɢʷaːns): semantic [[Radical 064|手]] ("hand") + phonetic 奐 (OC *qʰʷaːns; no character page of its own in this vault) — to exchange, to change.
+- 形声 (OC *ɢʷaːns): semantic [[Radical 064|手]] ("hand") + phonetic [[煥|奐]] (OC *qʰʷaːns) — to exchange, to change.
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 4851st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄏ⺢ㄇ](../syllables/ㄏ⺢ㄇ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

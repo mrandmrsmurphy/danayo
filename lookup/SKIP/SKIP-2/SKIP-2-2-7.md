@@ -35,6 +35,9 @@ tags: [lookup]
 ### Forbidden
 - 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
 
+### Aliases
+- 奐 --> 煥
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

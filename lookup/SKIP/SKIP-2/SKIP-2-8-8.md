@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[霍](/characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - quick
 3. <ruby>[霓](/characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
 
+### Aliases
+- 螢 --> 蛍
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

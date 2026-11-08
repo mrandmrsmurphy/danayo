@@ -51,6 +51,7 @@ tags:
 - 胶 --> 交
 - 桥 --> 橋
 - 烧 --> 熱
+- 烉 --> 煥
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

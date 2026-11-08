@@ -46,7 +46,7 @@ boundedness: 65
 ```
 
 ## Notes
-- 形声 (OC \*qʰʷaːns): semantic [[Radical 030|口]] ("mouth") + phonetic [[奐]] (OC \*qʰʷaːns, "lavish, splendid") — to call out loudly with the mouth; "summon, shout."
+- 形声 (OC \*qʰʷaːns): semantic [[Radical 030|口]] ("mouth") + phonetic [[煥|奐]] (OC \*qʰʷaːns, "lavish, splendid") — to call out loudly with the mouth; "summon, shout."
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 7867th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄏ⺢ㄋ](../syllables/ㄏ⺢ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)

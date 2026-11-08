@@ -44,6 +44,7 @@ tags:
 - 辆 --> 両
 - 將 --> 将
 - 䢁 --> 朝
+- 焕 --> 煥
 
 ## Datacheck
 ```dataview

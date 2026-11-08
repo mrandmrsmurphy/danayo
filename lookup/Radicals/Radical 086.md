@@ -39,9 +39,11 @@ tags: [lookup]
 16. <ruby>[烈](../../characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> - fiery
 17. <ruby>[烏](../../characters/烏.md)<rt>ㄛ</rt></ruby> - crow
 18. <ruby>[烝](../../characters/烝.md)<rt>ㄙㄧㄫ</rt></ruby> - masses
+- 烉 --> 煥
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
+- 焕 --> 煥
 
 ### +8 Strokes
 20. <ruby>[焚](../../characters/焚.md)<rt>ㄅㄨㄋ</rt></ruby> - burn
@@ -63,6 +65,7 @@ tags: [lookup]
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
+- 熒 --> 蛍
 
 ### +11 Strokes
 35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
