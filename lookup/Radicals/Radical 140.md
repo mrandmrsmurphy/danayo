@@ -110,6 +110,7 @@ tags:
 80. <ruby>[蓬](../../characters/蓬.md)<rt>ㄅㄛㄫ</rt></ruby> - mugwort
 81. <ruby>[蓮](../../characters/蓮%20(char).md)<rt>ㄌ⼶ㄋ</rt></ruby> - lotus
 82. <ruby>[蒜](../../characters/蒜.md)<rt>ㄙ⺢ㄇ</rt></ruby> - garlic
+- 蕾 --> 雷
 
 ### +11 Strokes
 83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao

@@ -169,6 +169,8 @@ Open with a link to [[lookup/List of 指事]]. Describe what the indicator marks
 ```
 Open with a link to [[lookup/List of 象形]]. Describe what the character depicts, referencing seal-script or oracle-bone forms. For uncertain origins lead with "uncertain" and give the prevailing scholarly interpretation.
 
+**No links from a content page to AIOS or to an assistant memory note.** Content pages (characters, words, chengyu, syllables, lookup, grammar, lexipedia, bible, lessons, translation, nav) never contain `[[AIOS/…]]`, `[[feedback_…]]` or any other pointer to process material, and never carry process history such as "corrected", "reverted" or "per feedback…" (history goes in `Log/log.md`). Repository documents (`README.md`, `CONTRIBUTING.md`) may point contributors to AIOS. User ruling 2026-11-08.
+
 **No red links for components that have no page.** When the etymology names an obscure component or ancestor character that does not exist in `characters/` (and is not worth a page, e.g. 柎 in 不's bullet), write it as plain text, as the vault already does for 厃 and 𠂤 ("no vault page"). Never leave a `[[X]]` that points nowhere, and never link a known alias directly (link its parent as `[[Parent|X]]`). User ruling 2026-11-08.
 
 **This radical-linking rule applies to every bullet type, not just 会意** — if the character's own `radical` frontmatter value (or any depicted/named component) is itself a Kangxi radical, link it as `[[Radical NNN|char]]` wherever it's mentioned in the graphemic bullet, including 指事 and 象形 descriptions. Don't just describe the depicted shape in prose without linking the radical it corresponds to.

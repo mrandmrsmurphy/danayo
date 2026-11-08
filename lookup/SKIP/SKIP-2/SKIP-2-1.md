@@ -19,6 +19,7 @@ Top component has 1 stroke. Dominant components: 一, 丶.
 9. [SKIP-2-1-9](lookup/SKIP/SKIP-2/SKIP-2-1-9.md): 扇
 10. ø
 11. [SKIP-2-1-11](lookup/SKIP/SKIP-2/SKIP-2-1-11.md): 扉, 雇
+12. [SKIP-2-1-12](lookup/SKIP/SKIP-2/SKIP-2-1-12.md): ø
 
 ## Base check
 ```base

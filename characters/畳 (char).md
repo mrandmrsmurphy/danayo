@@ -50,7 +50,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 會意: 畾 ("piled-up fields/thunder," no character page exists for it in this vault) + [[宜]] — "to pile up, stack, overlap," extended in Japanese to the specific sense "tatami mat" (a stackable floor mat).
+- 會意: [[雷 (char)|畾]] ("piled-up fields; thunder") + [[宜]] — "to pile up, stack, overlap," extended in Japanese to the specific sense "tatami mat" (a stackable floor mat).
 - [SKIP-2-5-7](../lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 3563rd most used character in Classical Chinese (recorded in the corpus under its traditional form 疊). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](../syllables/ㄉㄝㄆ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)

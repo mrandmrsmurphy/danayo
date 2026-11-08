@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **畾 made an alias of 雷, and 雷 the derived-character hub for 畾:** 雷 (char) gained `## Aliases` for 畾 (SKIP 2-5-10 from EDRDG, 15 strokes, Radical 102 +10) and for its existing alias 蕾 (a separate character, 2-3-13), with redirects; `## Derived Characters` extended to 儡, 塁, 累, 畳; the "no vault page" notes on 儡, 塁, 累, 畳 and the List of 会意 now link `[[雷 (char)|畾]]`. Reason: Wiktionary lists 畾 as an alternate form of 雷 (same reading léi). Authority: 武明帥.
+
+- **畺 made an alias of 疆, and 疆 the derived-character hub for 畺:** 疆 gained `aliases: 畺`, `## Aliases` (SKIP 2-1-12 from EDRDG, 13 strokes, Radical 102 +5, redirects on Stroke 13, SKIP-2-1-12 and Radical 102) and `## Derived Characters` (僵, 強 via its alias 彊, 姜 via its alias 薑); `[[畺]]` red links in 僵, 疆 and Korean Name ㄱ now `[[疆|畺]]`. Reason: 畺 is the original form of 疆, same reading, and the phonetic of 僵. 疆's other fields not re-perfected, stamp untouched. Authority: 武明帥.
+
 - **No links from human pages to AIOS or to assistant memory notes:** removed `feedback_cranberry_transitivity` links and the dated "Reading overridden (2026-07-12)" history bullets from 檬 and 檸; removed links to `AIOS/memory/…` from `韻 東一` and `聲 娘`; removed `[[feedback_character_inclusion_philosophy]]` from 恐恐; removed AIOS checklist links from `Kinship`, `Lexipedia` and `Design Philosophy`. Left as is for now: `README.md` and `CONTRIBUTING.md`, which are repository documents that point contributors at AIOS. Authority: 武明帥.
 
 - **Leaked memory references removed:** five pages (権 歓 灌 私 鸛) carried `[[feedback_alias_parent_form]]`, the name of an assistant memory note, plus "correction to a correction" history, in their Notes; the process commentary and history were deleted, and 灌 now links its phonetic as `[[鸛|雚]]`. 鸛's one-line Derived Characters preface removed. Authority: 武明帥.
