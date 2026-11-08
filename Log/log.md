@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Alias SKIP guesses confirmed:** 武明帥 spot-checked and eyeballed every computed alias SKIP number listed in `AIOS/projects/project_alias_skip_guesses.md` and found them sound; the table was cleared so it holds only unconfirmed rows from now on. Authority: 武明帥.
+
 - **Character loop, 害 perfected to the current standard:** added OC \*ɡaːds (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 356 confirmed; word verified. [AI]
 
 - **Character loop, 室 perfected to the current standard:** corrected the OC on the graphemic bullet to 室's own \*hliɡ per en.Wiktionary (the page had \*hli[t]s, \*tjiɡs, mixing in the phonetic), with 至's \*tjiɡs now beside the phonetic; no aliases, so no `## Aliases` section; `mc_id` 333 confirmed; word verified. [AI]
