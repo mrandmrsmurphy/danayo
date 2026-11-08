@@ -31,6 +31,7 @@ tags: [lookup]
 ### Aliases
 - 卬 --> 卯
 - 卽 --> 即
+- 卷 --> 巻
 
 ### Forbidden
 - 卪 - 口訣: Korean 구결 for '절'

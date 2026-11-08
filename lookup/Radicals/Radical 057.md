@@ -48,6 +48,8 @@ tags: [lookup]
 
 ### Aliases
 - 彆 --> 別
+- 彊 --> 強
+- 强 --> 強
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

@@ -21,6 +21,9 @@ tags: [lookup]
 - 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
 - 凩 - 国字: 国字 for 'wintry wind', こがらし
 
+### Aliases
+- 几 --> 幾
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

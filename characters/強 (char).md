@@ -32,14 +32,14 @@ joyo_level: "2"
 hsk_level: "2"
 hanmun_edu_level: 中
 danayo_id: 2092
-mc_id: "496"
+mc_id: 496
 graphemic_classification: 弘
 stand_in: 強
 aliases:
   - 彊
   - 强
 注音: ㄍ⼘ㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -53,10 +53,18 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声 (Shuowen): phonetic [[弘]] (OC \*ɡʷɯːŋ) + semantic [[Radical 142|虫]] ("insect") — the character likely originally referred to the rice weevil, before being phonetically borrowed for "strong, powerful."
+- 形声 (OC \*ɡaŋ; Shuowen): phonetic [[弘]] (OC \*ɡʷɯːŋ) + semantic [[Radical 142|虫]] ("insect") — the character likely originally referred to the rice weevil, before being phonetically borrowed for "strong, powerful."
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 496th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄍ⼘ㄫ](../syllables/ㄍ⼘ㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 彊
+An archaic alternative form of 強 (弓 + 畺, "strong"); Wiktionary's 彊 page marks 強 as the modern form, and 強's page lists 彊 among its forms. Its rank of 539 is a higher number than 496. SKIP 1-3-13; 16 strokes. It ranks 539 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 强
+The simplified Chinese form of 強 and a variant form of it since the Han dynasty; Wiktionary calls 強 the orthodox traditional form, and 强 is also an alternative form in Japanese, Korean and Vietnamese. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[強]]<rt>ㄍ⼘ㄫ</rt></ruby> "strong; powerful" (stand-in for 強)

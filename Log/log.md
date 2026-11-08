@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 強 perfected to the current standard:** added OC \*ɡaŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet and unquoted `mc_id: "496"` to 496; `## Aliases` section for 彊 (archaic form; EDRDG SKIP 1-3-13, 16 strokes; rank 539 is above 496) and 强 (simplified; SKIP 1-3-9 computed, 12 strokes), redirects added; rank 496 confirmed in CC 0000, thirteen words and 弱肉強食 verified. [AI]
+
+- **Character loop, 弱 perfected to the current standard:** added OC \*njewɢ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 鶸 (siskin, 弱 + 鳥; no Wiktionary link; EDRDG SKIP 1-10-11, 21 strokes), redirects added; rank 550 confirmed in CC 0000, four words, three chengyu and 溺 verified. [AI]
+
+- **Character loop, 引 perfected to the current standard:** added OC \*linʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 569 confirmed in CC 0000, thirteen words and two chengyu verified. [AI]
+
+- **Character loop, 弓 perfected to the current standard:** added OC \*kʷɯŋ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 887 confirmed in CC 0000, two words and three derived characters verified. [AI]
+
+- **Character loop, 幾 perfected to the current standard:** added OC \*kɯlʔ, \*kɯl (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 几 (simplified form and Kangxi radical 16; EDRDG SKIP 4-2-1, 2 strokes; rank 2109 is above 幾's 678), redirects added; rank 678 confirmed in CC 0000, three words and six derived characters verified. [AI]
+
+- **Character loop, 巻 perfected to the current standard:** `## Aliases` section for 卷 (traditional form; EDRDG SKIP 2-6-2, 8 strokes; its rank 1229 is the page's `mc_id`, bullet reworded to credit it) and 捲 ('to roll up', an alternative of 卷; EDRDG 1-3-8, 11 strokes), redirects added; OC present, three words and three derived characters verified. [AI]
+
+- **Character loop, 島 perfected to the current standard:** added OC \*tuːwʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 岛 (simplified form; SKIP 2-4-3 computed, 7 strokes), redirects added; rank 4188 (trusted long tail) and thirteen words verified; Wiktionary's other forms 嶋, 嶌 and the rest left off the aliases. [AI]
+
 - **Character loop, 局 stamped to the current standard:** no change needed; no aliases, rank 3117 confirmed in CC 3000, OC \*ɡoɡ matches Wiktionary, eight words verified. [AI]
 
 - **Character loop, 就 perfected to the current standard:** added OC \*zuɡs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 鷲 (eagle; 就 is a variant on its page and the vault's 代用字 for it; EDRDG SKIP 2-12-11, 23 strokes) and 鹫 (simplified; SKIP 2-12-5 computed, 17 strokes), redirects added; new redirect-only SKIP leaf 2-12-11 with its ø entry on SKIP-2-12; rank 552 confirmed in CC 0000, seven words and 蹴 verified. [AI]

@@ -54,6 +54,7 @@ tags: [lookup]
 ### Aliases
 - 嶂 --> 章
 - 屶 --> 会
+- 岛 --> 島
 
 ### Forbidden
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.

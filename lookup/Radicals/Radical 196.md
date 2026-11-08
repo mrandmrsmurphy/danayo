@@ -72,6 +72,7 @@ date-last-perfect: 2026-10-05
 - 鴈 --> 雁
 - 鳫 --> 雁
 - 鹫 --> 就
+- 鶸 --> 弱
 
 ### Forbidden
 - 鳰 - 国字: 'grebe'.  Use 鸊鷉 or 浮巣鳥 or 息長鳥?

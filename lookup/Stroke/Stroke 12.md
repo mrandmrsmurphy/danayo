@@ -64,6 +64,7 @@ tags: [lookup]
 - 渾 --> 混
 - 畫 --> 画
 - 禄 --> 祿
+- 强 --> 強
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

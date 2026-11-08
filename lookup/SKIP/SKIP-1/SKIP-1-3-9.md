@@ -148,6 +148,7 @@ tags:
 - 渢 --> 風
 - 喃 --> 南
 - 渾 --> 混
+- 强 --> 強
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

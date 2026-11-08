@@ -20,6 +20,7 @@ tags: [lookup]
 - 丅 --> 下
 - 𠄎 --> 乃
 - 厂 --> 廠
+- 几 --> 幾
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

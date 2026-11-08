@@ -143,6 +143,7 @@ tags:
 - 渮 --> 河
 - 渊 --> 淵
 - 渔 --> 漁
+- 捲 --> 巻
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

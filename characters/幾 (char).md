@@ -32,7 +32,7 @@ stand_in: "幾"
 aliases:
   - 几
 注音: "ㄍㄧㄜ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -46,10 +46,15 @@ boundedness: 90
 ```
 
 ## Notes
-- 会意 of 𢆶 ("silk threads; little things") and 戍 ("to guard against") — watching over the fine details: "how many; a few," extending to "subtle sign." (Neither component has its own character page in this vault; both cited bare.)
+- 会意 (OC \*kɯlʔ, \*kɯl) of 𢆶 ("silk threads; little things") and 戍 ("to guard against") — watching over the fine details: "how many; a few," extending to "subtle sign." (Neither component has its own character page in this vault; both cited bare.)
 - [SKIP-4-12-4](../lookup/SKIP/SKIP-4/SKIP-4-12-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 678th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄍㄧㄜ](../syllables/ㄍㄧㄜ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 几
+The simplified Chinese form of 幾, and also a traditional character in its own right (Kangxi radical 16, "small table"); Wiktionary's 几 page marks 幾 as its traditional form, and 幾's page lists 几 as its simplified form. Its rank of 2109 is a higher number than 678. SKIP 4-2-1; 2 strokes. Radical 016 几. It ranks 2109 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[幾]]<rt>ㄍㄧㄜ</rt></ruby> "several; a few; some" (stand-in for 幾)
