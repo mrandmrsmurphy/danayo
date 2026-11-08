@@ -36,7 +36,7 @@ stand_in: 句
 aliases:
   - 枸
 注音: ㄍㄨ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -54,6 +54,11 @@ boundedness: 80
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1075th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 枸
+No link to 句 found on Wiktionary beyond its structure (木 + 句, with 句 as the phonetic); 枸 is a separate tree character used in 枸杞 (wolfberry), whose Dan'a'yo word is 句杞, so it is kept as an alias for searchers. SKIP 1-4-5; 9 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[句]]<rt>ㄍㄨ</rt></ruby> "phrase; sentence; stanza" (stand-in for 句)

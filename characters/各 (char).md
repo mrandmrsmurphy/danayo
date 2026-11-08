@@ -31,9 +31,8 @@ danayo_id: 2047
 mc_id: 316
 graphemic_classification: 会意
 stand_in: 各
-aliases:
 注音: ㄍㄚㄎ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -47,7 +46,7 @@ boundedness: 75
 ```
 
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): 夂 ("sole of foot," no vault page) + [[Radical 030|口]] ("mouth, opening") — to come, to enter; original form of 𢓜 and 格; "each, individually."
+- [List of 会意](../lookup/List%20of%20会意.md) (OC \*klaːɡ): 夂 ("sole of foot," no vault page) + [[Radical 030|口]] ("mouth, opening") — to come, to enter; original form of 𢓜 and 格; "each, individually."
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 316th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄍㄚㄎ](../syllables/ㄍㄚㄎ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

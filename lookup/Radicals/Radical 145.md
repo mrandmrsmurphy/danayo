@@ -74,6 +74,7 @@ tags:
 ### Aliases
 - 襠 --> 当
 - 裆 --> 当
+- 衹 --> 只
 
 ### Forbidden
 - 裹 - 官话: HSK/3.  Used in words like 包裹, but only in Mandarin.

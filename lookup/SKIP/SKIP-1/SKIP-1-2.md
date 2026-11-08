@@ -23,9 +23,10 @@ tags: [lookup]
 14. [SKIP-1-2-14](lookup/SKIP/SKIP-1/SKIP-1-2-14.md): 儒, 凝
 15. [SKIP-1-2-15](lookup/SKIP/SKIP-1/SKIP-1-2-15.md): 償, 儡, 儧, 優, 儲
 16. no
-17. no
+17. [SKIP-1-2-17](lookup/SKIP/SKIP-1/SKIP-1-2-17.md): ø
 18. no
 19. [SKIP-1-2-19](lookup/SKIP/SKIP-1/SKIP-1-2-19.md): 儺
+20. [SKIP-1-2-20](lookup/SKIP/SKIP-1/SKIP-1-2-20.md): ø
 
 ## Base check
 ```base

@@ -20,6 +20,7 @@ tags:
 ### Aliases
 - 两 --> 両
 - 㒳 --> 両
+- 严 --> 厳
 
 ## Datacheck
 ```dataview

@@ -2,7 +2,23 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-08
+
+- **Character loop, 在 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 71 confirmed in CC 0000, OC present, nine words, 自由自在 and three derived characters verified. [AI]
+
+- **Character loop, 品 perfected to the current standard:** added OC \*pʰrɯmʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1854 confirmed in CC 1000, nine words and 臨 verified. [AI]
+
+- **Character loop, 吹 perfected to the current standard:** added OC \*kʰjol (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1838 confirmed in CC 1000, two words and 炊 verified. [AI]
+
+- **Character loop, 各 perfected to the current standard:** added OC \*klaːɡ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 316 confirmed in CC 0000, three words and eleven derived characters verified. [AI]
+
+- **Character loop, 只 perfected to the current standard:** added OC \*klje (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 衹 (alternate traditional form; EDRDG SKIP 1-5-4, 9 strokes) and 隻 (distinct character merged into 只 only by simplification; EDRDG 2-8-2, 10 strokes), redirects added; rank 2110 confirmed in CC 2000, one word verified. [AI]
+
+- **Character loop, 句 perfected to the current standard:** `## Aliases` section for 枸 (木 + 句, used in 枸杞, whose Dan'a'yo word is 句杞; EDRDG SKIP 1-4-5, 9 strokes; no Wiktionary link back to 句), redirects added; rank 1075 confirmed in CC 1000, OC present, eleven words and six derived characters verified. [AI]
+
 ## 2026-11-07
+
+- **Character loop, 厳 perfected to the current standard:** `## Aliases` section for 嚴 (traditional form; EDRDG SKIP 2-6-14, 20 strokes; its rank 817 is the page's `mc_id`, bullet reworded to credit it), 严 (simplified; SKIP 4-7-1 computed, 7 strokes), 儼 (separate literary character, source of the alias 儼然; EDRDG 1-2-20, 21 strokes; rank 3663 is above 817) and 𠑊 (extended shinjitai of 儼; SKIP 1-2-17 computed, 19 strokes), redirects added; new redirect-only SKIP leaves 1-2-17 and 1-2-20 with their ø entries on SKIP-1-2; OC present, six words verified. [AI]
 
 - **Character loop, 匹 perfected to the current standard:** `## Aliases` section for 疋 (Kangxi radical 103, alternative form; EDRDG SKIP 4-5-1, 5 strokes; rank 3095 is above 匹's 1079), redirects added; rank 1079 confirmed in CC 1000, OC present, the word 匹 and three derived characters verified. [AI]
 

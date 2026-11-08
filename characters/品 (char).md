@@ -29,7 +29,7 @@ mc_id: 1854
 graphemic_classification: 会意
 stand_in: 品
 注音: ㄆㄨㄇ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -43,7 +43,7 @@ boundedness: 75
 ```
 
 ## Notes
-- 会意: Triplication of [[Radical 030|口]] ("mouth"), representing various objects — a multiplicity of items/things, underlying the later senses "article, product" and "grade, rank" (things sorted into categories). Also occurs in 區 (no vault page).
+- 会意 (OC \*pʰrɯmʔ): Triplication of [[Radical 030|口]] ("mouth"), representing various objects — a multiplicity of items/things, underlying the later senses "article, product" and "grade, rank" (things sorted into categories). Also occurs in 區 (no vault page).
 - [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1,854th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄆㄨㄇ](../syllables/ㄆㄨㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

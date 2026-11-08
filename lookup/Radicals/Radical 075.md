@@ -218,6 +218,7 @@ tags: [lookup]
 - 樋 --> 通
 - 杵 --> 午
 - 榮 --> 栄
+- 枸 --> 句
 
 ### Forbidden
 - 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'

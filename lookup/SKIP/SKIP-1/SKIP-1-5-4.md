@@ -31,6 +31,7 @@ tags:
 - 叛 --> 反
 - 眀 --> 明
 - 秌 --> 秋
+- 衹 --> 只
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.
