@@ -87,6 +87,7 @@ A separate character, 蛔 (虫 + 回), the first character of 蛔虫 "roundworm"
 - <ruby>[[回紇]]<rt>ㄏㄛㄧㄏㄜㄊ</rt></ruby> "Uighur"
 - <ruby>[[回族]]<rt>ㄏㄛㄧㄐㄛㄎ</rt></ruby> "Hui ethnicity"
 - <ruby>[[回避]]<rt>ㄏㄛㄧ·ㄅㄝ</rt></ruby> "to avoid"
+- <ruby>[[迂回語]]<rt>ㄨㄏㄛㄧ⼄</rt></ruby> "periphrasis, circumlocution"
 
 ## Chengyu
 - <ruby>[[起死回生]]<rt>ㄎㄧㄙㄧㄜㄏㄛㄧㄙㄚㄫ</rt></ruby> "to rescue a hopeless situation, to revive what seemed already lost"

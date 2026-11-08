@@ -4,6 +4,22 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **辶 linked to Radical 162:** the red link `[[辶]]` (the walking-radical form of 辵) on 連 now reads `[[Radical 162|辶]]`. Authority: 武明帥.
+
+- **衤 linked to Radical 145:** the red link `[[衤]]` (the clothing-radical form of 衣) on 補 now reads `[[Radical 145|衤]]`. Authority: 武明帥.
+
+- **Forbidden-character note added for 𠂇 on 卑 and 差:** the plain-text 𠂇 now carries "a forbidden character, 違法字", as on 左; on 卑 it replaces "no character page of its own in this vault". Authority: 武明帥.
+
+- **𠂇 de-linked on 左:** the red link `[[𠂇]]` is plain text with a parenthetical noting it is a forbidden character (違法字; on 文法 - 98違法字). Authority: 武明帥.
+
+- **艹 linked to Radical 140:** the red link `[[艹]]` (the abbreviated form of the grass radical 艸) on 芦, 芼, 茶, 荇, 菱, 葦 and 蘭 now reads `[[Radical 140|艹]]`, as on nine other pages. Authority: 武明帥.
+
+- **指小詞, 最高級, 迂回語 coined; grammar-term red links resolved:** `words/指小詞.md` (diminutive; 指+小+詞, ㄐㄧㄜㄙㄛㄙㄚ), `words/最高級.md` (superlative; 最+高+級, ㄐ⼔ㄍㄚㄨㄍㄧㄆ; alias 最高级) and `words/迂回語.md` (periphrasis; 迂+回+語, ㄨㄏㄛㄧ⼄; alias 迂迴語; neologism); readings compositional, 指小詞 and 最高級 attested on Wiktionary as Chinese grammar terms. Each added to `## Words` on its three characters and to lexipedia/Grammar; stamped. In 文法 - 05形態 the red links 小辭, 最極, 迂言 now point to them, 韓國語 to 韓国語, and 形助顯理 is plain text. Rule applied: -法 names the rule or mechanism, -語 the actual form or expression (hence 迂回語, not 迂回法). Authority: 武明帥.
+
+- **Red-link cleanup from the broken-links list:** `著者` in 作者 repointed to 着者 (where 著者 is an alias); the history note on 復活祭 removed from lexipedia/基督敎; 不真 (Sophomore List), 長庚 (庚) and 芝罘 (芝) made plain text. Authority: 武明帥.
+
+- **処理 coined (words/処理.md):** "to handle, process, deal with" (事詞); 処 + 理; 注音 ㄑㄛㄌㄧ, 羅馬字 coli, 諺文 초리; aliases 處理, 处理; readings from en.Wiktionary 處理 (chǔlǐ, cyu2 lei5, しょり, 처리, xử lí). Added to `## Words` on 処 (char) and 理 and to lexipedia/Work; stamped. Gap check: 管理, 整理, 処決, 処分 do not cover the general sense, and 中央処理器 already used it. `[[煙草]]` in 香煙 made plain text. Authority: user go 2026-11-08.
+
 - **Twelve obscure etymology components de-linked (batch):** 牚 (撐), 匛 (柩), 刅 (梁), 矞 (橘), 烕 (滅), 舀 (稲), 畟 (稷), 㣎 (穆), 咠 (揖, 葺), 甹 (聘), 灷 (送) and 㚒 (陝): each `[[X]]` red link, used only as a phonetic or semantic component in a 形声/会意 note, is now plain text, per the rule for obscure page-less components. Chosen as cases with no variant relationship, no alias, and no mention on any list. Authority: 武明帥.
 
 - **㝱 de-linked on 寐:** the red link `[[㝱]]` (abbreviated semantic component, "dream") is now plain text. Authority: 武明帥.

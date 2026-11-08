@@ -66,6 +66,7 @@ The traditional form (虍 added); Wiktionary lists 處, 処 and 处 together as 
 - <ruby>[[処女]]<rt>ㄑㄛ·ㄋㄜ</rt></ruby> "virgin, maiden"
 - <ruby>[[処決]]<rt>ㄑㄛ·ㄎ⼔ㄊ</rt></ruby> "handle, resolve, execute"
 - <ruby>[[処分]]<rt>ㄑㄛㄅㄨㄋ</rt></ruby> "punish, discipline"
+- <ruby>[[処理]]<rt>ㄑㄛㄌㄧ</rt></ruby> "handle, process, deal with"
 - <ruby>[[処格]]<rt>ㄑㄛㄍㄚㄎ</rt></ruby> "locative case"
 - <ruby>[[何処]]<rt>ㄏㄚㄑㄛ</rt></ruby> "where"
 - <ruby>[[其処]]<rt>ㄍㄜㄑㄛ</rt></ruby> "there (medial)"

@@ -46,7 +46,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声 (OC *rlaː): semantic [[艹]] ("grass") + phonetic [[余]] — a graphical modification of the archaic character 荼 ("bitter plant"), narrowed specifically to the sense of "tea."
+- 形声 (OC *rlaː): semantic [[Radical 140|艹]] ("grass") + phonetic [[余]] — a graphical modification of the archaic character 荼 ("bitter plant"), narrowed specifically to the sense of "tea."
 - [SKIP-2-3-6](../lookup/SKIP/SKIP-2/SKIP-2-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 8436th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄑㄚ](../syllables/ㄑㄚ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

@@ -29,6 +29,7 @@ Grammar vocabulary describes Dan'a'yo's own structure: the closed-class function
 - <ruby>[最](../words/最.md)<rt>ㄐ⼔</rt></ruby>: most
 - <ruby>[最少](../words/最少.md)<rt>ㄐ⼔ㄙㄛㄨ</rt></ruby>: least, the fewest
 - <ruby>[至少](../words/至少.md)<rt>ㄐㄧㄜㄙㄛㄨ</rt></ruby>: at least
+- <ruby>[最高級](../words/最高級.md)<rt>ㄐ⼔ㄍㄚㄨㄍㄧㄆ</rt></ruby>: superlative (the grammatical term for the highest degree of comparison)
 - <ruby>[比](../words/比.md)<rt>ㄅㄧㄜ</rt></ruby>: than, compared to
 
 ### Conjunctions
@@ -260,6 +261,8 @@ Terms of grammatical description. Dan'a'yo itself may not have every feature the
 - <ruby>[語幹](../words/語幹.md)<rt>⼄ㄍㄚㄋ</rt></ruby>: stem, word stem
 - <ruby>[語根](../words/語根.md)<rt>⼄ㄍㄜㄋ</rt></ruby>: root, word root
 - <ruby>[語尾](../words/語尾.md)<rt>⼄·ㄇㄨㄧ</rt></ruby>: ending, word ending
+- <ruby>[指小詞](../words/指小詞.md)<rt>ㄐㄧㄜㄙㄛㄙㄚ</rt></ruby>: diminutive (the form made by reduplicating a noun)
+- <ruby>[迂回語](../words/迂回語.md)<rt>ㄨㄏㄛㄧ⼄</rt></ruby>: periphrasis, circumlocution (the expression used where a word cannot be reduplicated)
 - <ruby>[活用](../words/活用.md)<rt>ㄏ⺢ㄊ⼄ㄫ</rt></ruby>: inflection, conjugation
 - <ruby>[屈折](../words/屈折.md)<rt>ㄎㄨㄊㄐㄝㄊ</rt></ruby>: inflection
 - <ruby>[派生辞](../words/派生辞.md)<rt>ㄆㄚㄧㄙㄚㄫㄑㄧ</rt></ruby>: derivational affix, fully productive (a bound element that derives a new lexical item from a stem; any transparent stem + affix is valid without its own page; filed under the fullwidth hyphen, －X)

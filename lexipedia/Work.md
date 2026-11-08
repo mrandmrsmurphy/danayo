@@ -192,6 +192,7 @@ The 番 family is a systematic schema for shift work: 番 is the root, and each 
 - <ruby>[分掌](../words/分掌.md)<rt>ㄅㄨㄋㄐㄚㄫ</rt></ruby>: to divide up duties, division of responsibilities — each person or department holding its own share of a larger task (業務分掌, "division of business duties"); the parceling out of the charge that [[掌管]] holds as a whole.
 - <ruby>[経営](../words/経営.md)<rt>ㄍㄝㄫ⼶ㄫ</rt></ruby>: to run, manage (a business).
 - <ruby>[管理](../words/管理.md)<rt>ㄍ⺢ㄋㄌㄧ</rt></ruby>: to supervise, administer, manage.
+- <ruby>[処理](../words/処理.md)<rt>ㄑㄛㄌㄧ</rt></ruby>: to handle, process, deal with — to work a matter or material through to a result; narrower than [[管理]] (ongoing charge) and wider than [[処分]] (to punish).
 - <ruby>[部長](../words/部長.md)<rt>ㄅㄛㄨㄐㄚㄫ</rt></ruby>: head, chief — a department head.
 - <ruby>[責任](../words/責任.md)<rt>ㄐㄚㄎㄋㄧㄇ</rt></ruby>: responsibility, duty.
 - <ruby>[契約](../words/契約.md)<rt>ㄎㄝㄧ⼘ㄎ</rt></ruby>: contract, agreement.

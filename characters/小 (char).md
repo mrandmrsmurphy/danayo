@@ -74,6 +74,7 @@ boundedness: 80
 - <ruby>[[小数]]<rt>ㄙㄛㄙㄨ</rt></ruby> "decimal"
 - <ruby>[[小道]]<rt>ㄙㄛㄉㄚㄨ</rt></ruby> "path"
 - <ruby>[[小屋]]<rt>ㄙㄛㄛㄎ</rt></ruby> "a shed, hut"
+- <ruby>[[指小詞]]<rt>ㄐㄧㄜㄙㄛㄙㄚ</rt></ruby> "diminutive"
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"
 - <ruby>[[因小失大]]<rt>ㄧㄋㄙㄛㄙㄧㄊㄉㄚㄧ</rt></ruby> "sacrifice the greater for the lesser"

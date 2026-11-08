@@ -48,7 +48,7 @@ date-last-perfect: 2026-10-20
 - <ruby>[[三菱]]<rt>ㄙㄚㄇㄌㄜㄫ</rt></ruby> "Mitsubishi"
 
 ## Notes
-- 形声: semantic [[艹]] ("plant") + phonetic [[夌]] — "water chestnut; water caltrop."
+- 形声: semantic [[Radical 140|艹]] ("plant") + phonetic [[夌]] — "water chestnut; water caltrop."
 - [SKIP-2-3-8](../lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - mc_id 5223 (trusted long-tail, rank >4000). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄌㄜㄫ](../syllables/ㄌㄜㄫ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
