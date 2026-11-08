@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **`文法 - 98違法字`: SKIP notation unified to dashes:** 209 `- SKIP:` lines written `a/b/c` now read `a-b-c` (29 Chinese, 84 Japanese, all 96 Korean), matching the rest of the vault; also removed a stray trailing slash on 乺. Unknown values (`1-11-?` on 𫠍, blanks) are left as they were. First step of putting `### Forbidden` sections on the Stroke, Radical and SKIP pages. Authority: Murphy. [AI]
+
+- **`alias_tool.py apply` now sets `mc_id` itself:** Murphy ruled that `mc_id` is the minimum rank among the character and all its aliases, with no "should be" sentences. The script writes that minimum into the frontmatter, rewrites the Notes rank bullet when an alias supplies it (warning if the bullet's wording is unusual), and the alias paragraphs now state plainly whether the alias sets the rank. [AI]
+
 - **Character loop, 狂 stamped to the current standard:** added the missing blank line before `## Notes`; no aliases (Wiktionary lists none), rank 1217 confirmed, six words verified, OC already present. [AI]
 
 - **Character loop, 熙 perfected to the current standard:** `## Aliases` section for 熈 (variant form; EDRDG SKIP 2-11-4, 14 strokes), redirects added; rank 2173 verified, no words beyond the 名専字 marker. [AI]

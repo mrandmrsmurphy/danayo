@@ -85,6 +85,9 @@ def main():
         return
     spec=json.load(open(args[2],encoding="utf-8")); radnum={radchar(n):n for n in range(1,215)}; radnum.update({"龜":213,"亀":213})
     mrad=radnum.get(fm(t,"radical")); secs=[]; mainrank=cc.get(ch); guesses=[]
+    ranks=[int(mc)] if mc and mc.isdigit() and int(mc)>0 else []
+    ranks+=[cc[a] for a in als if cc.get(a)]
+    newmc=min(ranks) if ranks else 0
     for a in als:
         s=spec[a]; u=uni.get(a,{}); sk,st,rd=edrdg(a)
         skip=s.get("skip") or sk; strokes=s.get("strokes") or st or u.get("kTotalStrokes")
@@ -94,15 +97,22 @@ def main():
         if rn and rn!=mrad: txt+=f" Radical {rn:03d} {radchar(rn)}."
         r=cc.get(a)
         if r:
-            if mc.isdigit() and int(mc)==r and (mainrank is None or r<mainrank): txt+=f" This form is the one the Classical Chinese lists rank, so the `mc_id` {r} is {a}'s rank."
-            elif mc.isdigit() and int(mc) and int(mc)<r: txt+=f" It ranks {r} in the Classical Chinese lists, a higher number than the page's `mc_id`, so the page keeps its own rank."
-            else: txt+=f" It ranks {r} in the Classical Chinese lists; the page's `mc_id` should be {min([r]+([mainrank] if mainrank else []))}."
+            if r==newmc and r<(mainrank or 10**9): txt+=f" It ranks {r} in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`."
+            else: txt+=f" It ranks {r} in the Classical Chinese lists, a higher number than the page's `mc_id`."
         else: txt+=" It has no rank of its own in the Classical Chinese lists."
         secs.append((a,txt,skip,strokes,rn if rn and rn!=mrad else None))
         if s.get("guess"): guesses.append((a,skip,s["text"]))
     i=t.find("\n## Words"); assert i>0 and "\n## Aliases" not in t
     block="## Aliases\n\n"+"\n\n".join(f"### {a}\n{x}" for a,x,*_ in secs)+"\n"
-    open(p,"w",encoding="utf-8").write(t[:i].rstrip("\n")+"\n\n"+block+t[i:])
+    t2=t[:i].rstrip("\n")+"\n\n"+block+t[i:]
+    if str(newmc)!=mc:
+        t2=re.sub(r"^mc_id:.*$",f"mc_id: {newmc}",t2,count=1,flags=re.M)
+        who=[a for a in als if cc.get(a)==newmc]
+        if who:
+            sent=f"{newmc}{'st' if newmc%10==1 and newmc%100!=11 else 'nd' if newmc%10==2 and newmc%100!=12 else 'rd' if newmc%10==3 and newmc%100!=13 else 'th'} most used character in Classical Chinese, the rank of its alias {who[0]}"+(f" ({ch} itself ranks {mainrank})" if mainrank else f" ({ch} itself is not on the lists)")+"."
+            t2,n=re.subn(r"^- (?:\d+(?:st|nd|rd|th) most used character in Classical Chinese[^.\n]*(?:\([^)]*\))?[^.\n]*\.|Not (?:present in|among)[^\n]*?(?:ranking|lists|Classical Chinese)[^.\n]*\.)",lambda m:"- "+sent,t2,count=1,flags=re.M)
+            if not n: print("WARNING: rank bullet not rewritten; edit it by hand to:",sent)
+    open(p,"w",encoding="utf-8").write(t2)
     for a,x,skip,strokes,rn in secs:
         add_redirect(f"lookup/Stroke/Stroke {int(strokes):02d}.md",a,ch)
         sa,sb,sc=skip.split("-"); lp=f"lookup/SKIP/SKIP-{sa}/SKIP-{sa}-{sb}-{sc}.md"
@@ -113,5 +123,5 @@ def main():
         gp="AIOS/projects/project_alias_skip_guesses.md"; g=open(gp,encoding="utf-8").read().rstrip("\n")
         for a,skip,why in guesses: g+=f"\n| {ch} | {a} | {skip} | computed from its parts |"
         open(gp,"w",encoding="utf-8").write(g+"\n")
-    print("written; mc_id now",mc,"- check C3 in lint_characters.py")
+    print("written; mc_id now",newmc)
 main()
