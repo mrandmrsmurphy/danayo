@@ -69,6 +69,7 @@ tags: [lookup]
 
 ### Aliases
 - 矽 --> 硅
+- 硏 --> 研
 
 ### Forbidden
 - 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)

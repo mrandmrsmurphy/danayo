@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 研 perfected to the current standard:** `## Aliases` section for 硏 (original form; SKIP 1-5-6 computed, 11 strokes), redirects added; rank 2969 confirmed in CC 2000 and OC present, two words verified. [AI]
+
+- **Character loop, 皮 perfected to the current standard:** added OC \*bral (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 805 confirmed in CC 0000, eleven words and eight derived characters verified. [AI]
+
+- **Character loop, 画 perfected to the current standard:** `## Aliases` section for 畵 (variant; SKIP 2-6-7 computed from 聿 over 𰢵, 13 strokes) and 畫 (traditional form; EDRDG SKIP 2-6-6, 12 strokes; its rank 1268 is the page's `mc_id`), redirects added; moved the existing `畫 --> 画` on SKIP-2-6-6 from the Forbidden list into Aliases; eight-plus words, three chengyu and 劃 verified. [AI]
+
+- **Character loop, 田 perfected to the current standard:** added OC \*l'iːŋ (Zhengzhang via en.Wiktionary); `## Aliases` section for 畠 (Japanese 国字 for a dry field, which the vault already redirects to 田; EDRDG SKIP 2-5-5, 10 strokes) and 甸 (separate literary character sharing 田; EDRDG 3-2-5, 7 strokes; rank 2641 is above 田's 255), redirects added; rank 255 verified, eight words and two chengyu verified. Tidied SKIP-2-5-5: removed the bare `畠` from its Forbidden list (it is an alias, not forbidden) and moved a stray "Candidates" line out of that list. [AI]
+
+- **Character loop, 琢 stamped to the current standard:** no change needed; no aliases, rank 2713 confirmed in CC 2000, OC present, one word and 切磋琢磨 verified. [AI]
+
+- **Character loop, 珂 stamped to the current standard:** no change needed; no aliases, OC already present, rank 7558 is in the trusted long tail, and it is a 名専字 with no words of its own. [AI]
+
+- **Character loop, 獅 perfected to the current standard:** `## Aliases` section for 狮 (simplified form; SKIP 1-3-6 computed, 9 strokes), redirects added; rank 9683 (alias unranked) and four words verified. [AI]
+
 - **Character loop resumed (new five-minute cron), 猪 perfected to the current standard:** `## Aliases` section for 豬 (traditional form; EDRDG SKIP 1-7-9, 16 strokes), redirects added; `mc_id` 2601 already is 豬's rank and `alias_tool.py` left it alone; three words and 珠投猪前 verified. [AI]
 
 - **`文法 - 98違法字`: date-last-perfect stamp added:** the page had no frontmatter; added `date-last-perfect: 2026-11-07`, since every one of its 441 entries is now complete and listed on the Stroke, Radical and SKIP pages. Murphy noted that future decisions (a 国字 we choose to use, or a character better banned) will add to or remove from this page. Authority: Murphy. [AI]

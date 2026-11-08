@@ -63,6 +63,7 @@ tags:
 - 渮 --> 河
 - 渊 --> 淵
 - 渔 --> 漁
+- 硏 --> 研
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

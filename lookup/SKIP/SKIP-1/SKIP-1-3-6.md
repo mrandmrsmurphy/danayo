@@ -78,6 +78,7 @@ tags:
 - 𠱩 --> 君
 - 𠱭 --> 君
 - 𠱰 --> 君
+- 狮 --> 獅
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

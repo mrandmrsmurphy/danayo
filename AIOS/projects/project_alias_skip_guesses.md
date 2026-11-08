@@ -140,3 +140,6 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 河 | 𢀎 | 2-8-16 | computed from its parts |
 | 漁 | 渔 | 1-3-8 | computed from its parts |
 | 瀧 | 泷 | 1-3-5 | computed from its parts |
+| 獅 | 狮 | 1-3-6 | computed from its parts |
+| 画 | 畵 | 2-6-7 | computed from its parts |
+| 研 | 硏 | 1-5-6 | computed from its parts |

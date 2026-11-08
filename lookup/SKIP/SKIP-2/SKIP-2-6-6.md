@@ -40,12 +40,12 @@ tags: [lookup]
 - 單 --> 単
 - 朞 --> 期
 - 棊 --> 棋
-- 畫 --> 画
 - 筝 --> 箏
 
 ### Aliases
 - 單 --> 単
 - 筑 --> 築
+- 畫 --> 画
 
 ## Datacheck
 ```dataview

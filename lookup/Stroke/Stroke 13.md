@@ -60,6 +60,7 @@ tags:
 - 號 --> 号
 - 辐 --> 放
 - 滝 --> 瀧
+- 畵 --> 画
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

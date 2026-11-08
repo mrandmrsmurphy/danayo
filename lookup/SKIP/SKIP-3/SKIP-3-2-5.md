@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[医](/characters/医.md)<rt>ㄜ</rt></ruby> "doctor; medicine"
 2. <ruby>[辰](/characters/辰.md)<rt>ㄙㄧㄋ</rt></ruby> "fifth heavenly stem; dragon"
 
+### Aliases
+- 甸 --> 田
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

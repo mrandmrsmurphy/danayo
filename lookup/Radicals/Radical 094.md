@@ -92,6 +92,7 @@ tags:
 ### Aliases
 - 猟 --> 獵
 - 猎 --> 獵
+- 狮 --> 獅
 
 ### Forbidden
 - 獤 - 국자: 돈 (“hide of a marten”)

@@ -62,6 +62,7 @@ tags: [lookup]
 - 傢 --> 家
 - 註 --> 注
 - 渾 --> 混
+- 畫 --> 画
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

@@ -35,6 +35,7 @@ tags: [lookup]
 ### Aliases
 - 皋 --> 皐
 - 皃 --> 貌
+- 畠 --> 田
 
 ## Data check
 ```dataview

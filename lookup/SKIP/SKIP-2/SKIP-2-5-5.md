@@ -20,19 +20,22 @@ tags: [lookup]
 7. <ruby>[留](/characters/留%20(char).md)<rt>ㄌ⼜</rt></ruby> - remain
 8. <ruby>[祠](/characters/祠.md)<rt>ㄙㄚ</rt></ruby> - ancestor shrine
 9. <ruby>[秦](/characters/秦.md)<rt>ㄐㄧㄋ</rt></ruby> - Qin
+
+Candidates for this SKIP code not yet present in the database: 祟.
+
 ### Redirects
 - 冓 --> 勾
 - 皋 --> 皐
-### Forbidden
-- 畠
-- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
 
-Candidates for this SKIP code not yet present in the database: 祟.
+### Forbidden
+- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
 - 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
 - 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
 - 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
+
 ### Aliases
 - 皋 --> 皐
+- 畠 --> 田
 
 ## Datacheck
 ```dataview

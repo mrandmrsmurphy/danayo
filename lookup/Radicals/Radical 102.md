@@ -52,6 +52,9 @@ tags: [lookup]
 ### Aliases
 - 當 --> 当
 - 㽬 --> 放
+- 甸 --> 田
+- 畵 --> 画
+- 畫 --> 画
 
 ### Forbidden
 - 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
