@@ -32,9 +32,6 @@ tags: [lookup]
 19. <ruby>[兗](/characters/兗.md)<rt>⼶ㄋ</rt></ruby> "Yanzhou (place name)"
 20. <ruby>[酋](/characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> "chieftain"
 
-### Aliases
-- 奕 --> 打
-
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

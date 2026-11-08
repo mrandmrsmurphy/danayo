@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 狂 stamped to the current standard:** added the missing blank line before `## Notes`; no aliases (Wiktionary lists none), rank 1217 confirmed, six words verified, OC already present. [AI]
+
+- **Character loop, 熙 perfected to the current standard:** `## Aliases` section for 熈 (variant form; EDRDG SKIP 2-11-4, 14 strokes), redirects added; rank 2173 verified, no words beyond the 名専字 marker. [AI]
+
+- **Character loop, 瀧 perfected to the current standard:** `## Aliases` section for 滝 (shinjitai; EDRDG SKIP 1-3-10, 13 strokes) and 泷 (simplified; SKIP 1-3-5 computed, 8 strokes), redirects added; rank 7113 (unranked aliases) and the one word 瀧川 verified. [AI]
+
+- **Character loop, 漁 perfected to the current standard:** `## Aliases` section for 渔 (simplified form; SKIP 1-3-8 computed, 11 strokes), redirects added; rank 1453 and six words verified. [AI]
+
 - **Character loop, 混 perfected to the current standard:** `mc_id` corrected from 2623 to 1883, the rank of its alias 渾; `## Aliases` section for 渾 (EDRDG SKIP 1-3-9, 12 strokes; Wiktionary redirects it to 混), redirects added; six words and 混然一体 verified. [AI]
 
 - **Character loop, 淵 perfected to the current standard:** added OC \*qʷiːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 渊 (simplified form; EDRDG SKIP 1-3-8, 11 strokes), redirects added; rank 969 and the one word verified. [AI]
@@ -32,7 +40,7 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 - **Character loop, 指 perfected to the current standard:** no aliases; rank 807 verified in `CC 0000`; all 18 words and the chengyu listed, no derived characters; no edits beyond the stamp. [AI]
 
-- **Character loop, 打 perfected to the current standard:** `mc_id` changed from 0 to 3428, the lowest rank among its aliases 奕 (3428) and 弈 (3830), per the lowest-alias-rank rule; `## Aliases` section for 奕 and 弈 with redirects, both saying that Wiktionary shows no connection to 打 (open question for Murphy: they look like mistaken aliases); seven words and two chengyu verified. [AI]
+- **Character loop, 打 stamped to the current standard, with its aliases 奕 and 弈 removed:** Murphy ruled that neither 奕 nor 弈 relates to 打 (Wiktionary shows no connection; the only trace was a `奕-->打` line in `Korean Name ㅎ` from 2025-09-19). Removed both from 打's `aliases:` and its `## Aliases` section, deleted their redirects on Stroke 09, Radical 037, Radical 055, SKIP-2-2-7 and SKIP-2-6-3, and deleted `奕-->打` from `Korean Name ㅎ`; `mc_id` back to 0 and the rank bullet now says 打 is not in the Classical Chinese ranking; seven words and two chengyu verified. [AI]
 
 - **Character loop, 憂 perfected to the current standard:** `## Aliases` section for 忧 (simplified; SKIP 1-3-4 computed), redirects added; rank 390, two words and both derived characters verified. [AI]
 

@@ -90,6 +90,7 @@ tags: [lookup]
 - 爛 --> 乱
 - 烂 --> 乱
 - 燈 --> 灯
+- 熈 --> 熙
 
 ## Data check
 ```dataview

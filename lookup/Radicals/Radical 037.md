@@ -60,7 +60,6 @@ tags: [lookup]
 - 奛 --> 明
 - 奌 --> 点
 - 㚔 --> 幸
-- 奕 --> 打
 
 ## Data check
 ```dataview

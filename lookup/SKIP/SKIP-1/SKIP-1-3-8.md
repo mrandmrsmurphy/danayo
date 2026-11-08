@@ -142,6 +142,7 @@ tags:
 - 掴 --> 国
 - 渮 --> 河
 - 渊 --> 淵
+- 渔 --> 漁
 
 ## Datacheck
 ```dataview

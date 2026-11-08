@@ -58,6 +58,7 @@ tags:
 - 靑 --> 青
 - 卖 --> 売
 - 㚔 --> 幸
+- 泷 --> 瀧
 
 ## Data check
 ```dataview

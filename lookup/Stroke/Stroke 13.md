@@ -62,6 +62,7 @@ tags:
 - 鳫 --> 雁
 - 號 --> 号
 - 辐 --> 放
+- 滝 --> 瀧
 
 ## Data check
 ```dataview

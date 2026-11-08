@@ -99,6 +99,7 @@ tags:
 - 坮 --> 台
 - 拨 --> 発
 - 泼 --> 発
+- 泷 --> 瀧
 
 ## Datacheck
 ```dataview
