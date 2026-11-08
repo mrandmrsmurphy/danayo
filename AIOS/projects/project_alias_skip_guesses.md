@@ -173,3 +173,6 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 愛 | 爱 | 2-4-6 | computed from its parts |
 | 愛 | 㤅 | 2-4-4 | computed from its parts |
 | 挙 | 举 | 2-5-4 | computed from its parts |
+| 朝 | 䢁 | 1-4-7 | computed from its parts |
+| 朝 | 𦩻 | 1-6-10 | computed from its parts |
+| 橋 | 桥 | 1-4-6 | computed from its parts |

@@ -38,6 +38,9 @@ tags: [lookup]
 ### Forbidden
 - 膤 - 国字: 月+雪; 国字 for 'snow', 'snow-white flesh'
 
+### Aliases
+- 朞 --> 期
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

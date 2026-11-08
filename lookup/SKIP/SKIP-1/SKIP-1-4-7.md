@@ -43,6 +43,7 @@ tags:
 ### Aliases
 - 辆 --> 両
 - 將 --> 将
+- 䢁 --> 朝
 
 ## Datacheck
 ```dataview

@@ -68,6 +68,7 @@ tags:
 - 座 --> 坐
 - 浆 --> 将
 - 爱 --> 愛
+- 桥 --> 橋
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

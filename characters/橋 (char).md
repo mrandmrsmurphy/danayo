@@ -34,7 +34,7 @@ stand_in: 橋
 aliases:
   - 桥
 注音: ㄍ⼘ㄨ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 75
 - [SKIP-1-4-12](../lookup/SKIP/SKIP-1/SKIP-1-4-12.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1825th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄍ⼘ㄨ](../syllables/ㄍ⼘ㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 桥
+The simplified Chinese form of 橋 (木 + 乔); Wiktionary's 桥 page redirects to 橋, and 橋 lists it as its simplified form. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[橋]]<rt>ㄍ⼘ㄨ</rt></ruby> "bridge" (stand-in for 橋)

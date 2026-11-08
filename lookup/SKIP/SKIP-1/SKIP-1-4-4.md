@@ -57,6 +57,7 @@ tags:
 ### Aliases
 - 视 --> 視
 - 杵 --> 午
+- 极 --> 極
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

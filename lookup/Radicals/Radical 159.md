@@ -60,6 +60,7 @@ tags: [lookup]
 - 輛 --> 両
 - 辆 --> 両
 - 輌 --> 両
+- 䢁 --> 朝
 
 ### Forbidden
 - 𨋳 - 国字: 'seat of a carriage'

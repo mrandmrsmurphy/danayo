@@ -35,7 +35,7 @@ stand_in: 極
 aliases:
   - 极
 注音: ㄍㄧㄎ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 80
 - [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 500th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 職開|ɨk]] → [ㄍㄧㄎ](../syllables/ㄍㄧㄎ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 极
+The simplified Chinese form of 極 (木 + 及), also a historical-dictionary character in its own right ("wooden rack on a donkey"); Wiktionary's 极 page redirects to 極, and 極 lists it as its simplified form. EDRDG records it with 8 strokes. SKIP 1-4-4; 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[極]]<rt>ㄍㄧㄎ</rt></ruby> "extreme; of the highest degree; utmost" (stand-in for 極)

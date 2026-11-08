@@ -35,7 +35,7 @@ stand_in: "期"
 aliases:
   - 朞
 注音: "ㄎㄧ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,10 +49,15 @@ boundedness: 100
 ```
 
 ## Notes
-- 形声: semantic [[Radical 074|月]] ("moon") + phonetic [[其]] — the moon's phases mark periods of time.
+- 形声 (OC \*ɡɯ): semantic [[Radical 074|月]] ("moon") + phonetic [[其]] — the moon's phases mark periods of time.
 - [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 675th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄎㄧ](../syllables/ㄎㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 朞
+A variant of 期 for "an entire year or month; mourning garment", from which 期 itself developed (the sun in the earlier variants was replaced by the moon); Wiktionary's 朞 page redirects to 期, and 期 lists it among its forms. SKIP 2-6-6; 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[期]]<rt>ㄎㄧ</rt></ruby> "period; time; season" (stand-in for 期)

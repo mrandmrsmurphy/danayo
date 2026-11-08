@@ -49,6 +49,7 @@ tags:
 ### Aliases
 - 珪 --> 硅
 - 胶 --> 交
+- 桥 --> 橋
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

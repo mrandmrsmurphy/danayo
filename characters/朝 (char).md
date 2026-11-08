@@ -33,7 +33,7 @@ aliases:
   - 䢁
   - 𦩻
 注音: ㄐㄚㄨ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -47,10 +47,18 @@ boundedness: 100
 ```
 
 ## Notes
-- 会意 (oracle-bone form): 屮/木 ("grass, tree") + 日 ("sun") + [[Radical 074|月]] ("moon") — the sun rising above the ground while the waning moon is still in the sky; morning. The clerical-script form condensed the grass-and-sun elements into [[卓|龺]]. "Morning" extended to "perform the morning ceremony" and then "to go to court, to have an audience" — hence the modern senses of dynasty and court.
+- 会意 (OC \*ʔr'ew; oracle-bone form): 屮/木 ("grass, tree") + 日 ("sun") + [[Radical 074|月]] ("moon") — the sun rising above the ground while the waning moon is still in the sky; morning. The clerical-script form condensed the grass-and-sun elements into [[卓|龺]]. "Morning" extended to "perform the morning ceremony" and then "to go to court, to have an audience" — hence the modern senses of dynasty and court.
 - [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 210th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄐㄚㄨ](../syllables/ㄐㄚㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 䢁
+A rare second-round simplified form ("tire of a wheel") built on 朝; Wiktionary's 䢁 page redirects to 朝, and 朝 lists it among its forms. Kept as a bare mention. SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. Radical 159 車. It has no rank of its own in the Classical Chinese lists.
+
+### 𦩻
+A rare variant form of 朝 listed on its Wiktionary page, with no definition of its own; kept as a bare mention. SKIP 1-6-10 (computed: EDRDG does not list it); 16 strokes. Radical 137 舟. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[朝]]<rt>ㄐㄚㄨ</rt></ruby> "morning" (stand-in for 朝)

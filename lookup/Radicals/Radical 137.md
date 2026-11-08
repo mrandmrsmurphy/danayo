@@ -25,6 +25,9 @@ tags: [lookup]
 - 艘 - 官话: HSK/3.
 - 艠 - 国字: Rare Japanese character; Wiktionary records no definition; on-reading トウ
 
+### Aliases
+- 𦩻 --> 朝
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

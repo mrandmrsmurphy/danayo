@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 橋 perfected to the current standard:** `## Aliases` section for 桥 (simplified form; SKIP 1-4-6 computed, 10 strokes), redirects added; rank 1825 confirmed in CC 1000, OC \*ɡrew matches Wiktionary, two words verified. [AI]
+
+- **Character loop, 極 perfected to the current standard:** `## Aliases` section for 极 (simplified form; EDRDG SKIP 1-4-4 and 8 strokes, which EDRDG records though Unihan says 7), redirects added; rank 500 confirmed in CC 0000, OC \*ɡɯɡ matches Wiktionary, twenty-one words verified, the forbidden-list citation of 亟 still accurate. [AI]
+
+- **Character loop, 松 perfected to the current standard:** `## Aliases` section for 鬆 ('loose', 髟 + 松; 松 is its simplified form; EDRDG SKIP 2-10-8, 18 strokes), redirects added; rank 1728 confirmed in CC 1000, OC present, two words verified. [AI]
+
+- **Character loop, 未 perfected to the current standard:** added OC \*mɯds (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 103 confirmed in CC 0000, three words, 未雨紬謬 and five derived characters verified. [AI]
+
+- **Character loop, 期 perfected to the current standard:** added OC \*ɡɯ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 朞 (the variant 期 developed from, 'entire year; mourning garment'; EDRDG SKIP 2-6-6, 12 strokes), redirects added; rank 675 confirmed in CC 0000, twelve words and 一期一会 verified. [AI]
+
+- **Character loop, 朝 perfected to the current standard:** added OC \*ʔr'ew (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the rare forms 䢁 (SKIP 1-4-7 computed, 11 strokes) and 𦩻 (SKIP 1-6-10 computed, 16 strokes), bare mentions, redirects added; rank 210 confirmed in CC 0000, fourteen words, three chengyu and three derived characters verified. [AI]
+
+- **Character loop, 最 perfected to the current standard:** added OC \*zloːds (Zhengzhang via en.Wiktionary), wrote the classification as 会意 instead of 會意, and removed an empty `aliases:` key; no aliases; rank 1207 confirmed in CC 1000, eight words and 撮 verified. [AI]
+
 - **Character loop, 暗 perfected to the current standard:** `mc_id` changed from 2372 to 1736, the rank of its alias 闇 (written by `alias_tool.py`, which also reworded the rank bullet); `## Aliases` section for 闇 (an alternative form on 暗's page; EDRDG SKIP 3-8-9, 17 strokes), redirects added; OC present, twelve words and 暗送秋波 verified. [AI]
 
 - **Character loop, 暑 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 1374 confirmed in CC 1000, OC \*hjaʔ matches Wiktionary, the one word verified. [AI]

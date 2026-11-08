@@ -17,6 +17,9 @@ tags: [lookup]
 ### Forbidden
 - 髭 - 国字: Use 鬚 instead -- this character is deemed too Japanese.
 
+### Aliases
+- 鬆 --> 松
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
