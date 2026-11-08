@@ -26,7 +26,6 @@ tags: [lookup]
 - 仔 --> 子
 - 讨 --> 討
 ### Forbidden
-- 扒
 
 ## Datacheck
 ```dataview

@@ -203,6 +203,13 @@ tags: [lookup]
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)
+- 找 - 中国制造: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
+- 扒 - 官话: HSK/3 and 4, but Chinese only.
+- 拆 - 官话: HSK/2, but not used elsewhere.
+- 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
+- 挖 - 官话: HSK/2.
+- 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
+- 掉 - 官话: HSK/1 and Korean Name.
 
 ## Data check
 ```dataview

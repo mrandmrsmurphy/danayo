@@ -30,10 +30,11 @@ tags: [lookup]
 ### Aliases
 - 圣 --> 聖
 * 尓 --> 爾
+- 㒰 --> 全
 ### Forbidden
 * 厼
-- 㒰 --> 全
 - 厼 - 口訣: Korean 구결 for '이', '며' and '너'
+- 㒱 - 국자: Korean variant of 夢 'dream'
 
 ## Datacheck
 ```dataview

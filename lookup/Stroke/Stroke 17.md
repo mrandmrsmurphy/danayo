@@ -52,6 +52,9 @@ tags:
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
+- 臉 - 官话: HSK/2, 'cheek', 'face' --> 頬, 面; radical ⺼ (肉)
+- 鮨 - 国字: 'sushi'; an old Chinese character (minced fish) that Japan reused for sushi, and Chinese now borrows back
+- 𬧬 - 国字: Variant of 躾, 国字 for 'discipline, teaching manners'
 
 ## Data check
 ```dataview

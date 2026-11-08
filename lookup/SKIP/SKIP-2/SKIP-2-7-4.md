@@ -22,6 +22,9 @@ tags: [lookup]
 9. <ruby>[悠](characters/悠.md)<rt>⼜ㄛ</rt></ruby> "remote"
 10. <ruby>[悉](characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> "entirely"
 
+### Forbidden
+- 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

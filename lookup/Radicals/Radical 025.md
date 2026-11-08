@@ -18,6 +18,9 @@ tags: [lookup]
 ### Aliases
 - 𠀝 --> 空
 
+### Forbidden
+- 卡 - 混乱: HSK/2, but use 牌
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

@@ -20,6 +20,9 @@ tags: [lookup]
 7. <ruby>[艮](/characters/艮.md)<rt>ㄍㄚㄋ</rt></ruby> "mountain trigram"
 8. <ruby>[西](/characters/西.md)<rt>ㄙㄝㄧ</rt></ruby> "west"
 
+### Forbidden
+- 丟 - 中国制造: HSK/1, but mainly Chinese.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

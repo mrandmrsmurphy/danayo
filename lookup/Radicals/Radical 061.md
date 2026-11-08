@@ -166,6 +166,11 @@ tags: [lookup]
 
 ### Forbidden
 - 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
+- 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
+- 懂 - 官话: HSK/1, but Chinese only.
+- 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
+- 怎 - 混乱: HSK/1, but too close to 何
+- 慍 - 混乱: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
 
 ## Data check
 ```dataview

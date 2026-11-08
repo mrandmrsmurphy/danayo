@@ -21,7 +21,7 @@ tags: [lookup]
 - 勹
 - 厶
 - 乄 - variant of 〆, an ancient scribal mark for "closed"
-- 乜 - Cantonese/dialects only for "what"
+- 乜 - 方言: Cantonese/dialects only
 
 ## Datacheck
 ```dataview

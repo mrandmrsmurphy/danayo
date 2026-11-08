@@ -53,6 +53,8 @@ tags:
 - 乒 - 中国制造: Onomatopoeia, 'ping', used with 乓 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
 - 乓 - 中国制造: Onomatopoeia, 'pong', used with 乒 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
 - 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
+- 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
+- 丟 - 中国制造: HSK/1, but mainly Chinese.
 
 ## Data check
 ```dataview

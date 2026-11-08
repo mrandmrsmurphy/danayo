@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[病](/characters/病.md)<rt>ㄅ⼶ㄫ</rt></ruby> - sickness
 6. <ruby>[症](/characters/症.md)<rt>ㄐㄧㄫ</rt></ruby> - disease
 
+### Forbidden
+- 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

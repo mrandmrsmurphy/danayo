@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.
+- 另 - 中国制造: On HSK/2 only.  We use 他 or 彼 instead
 
 ## Datacheck
 ```dataview

@@ -113,6 +113,7 @@ tags: [lookup]
 
 ### Forbidden
 - 迲 - 국자: 한문교육용기초한자/이름 - '겁'
+- 逛 - 官话: HSK/2 but Chinese only
 
 ## Data check
 ```dataview

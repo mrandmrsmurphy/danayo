@@ -68,6 +68,7 @@ tags: [lookup]
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
 - 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
 - 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
+- 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
 
 ## Data check
 ```dataview

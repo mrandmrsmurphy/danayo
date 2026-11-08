@@ -17,6 +17,9 @@ tags: [lookup]
 ### Aliases
 - 㸘 --> 万
 
+### Forbidden
+- 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

@@ -44,6 +44,12 @@ tags:
 - 乧 - 국자: Korean-coined hanja for '둘', used for transliteration. On 単亜語/敎育用基礎漢字/名
 - 厼 - 口訣: Korean 구결 for '이', '며' and '너'
 - 㪳 - 국자: Korean-coined hanja for '둥', seen in names of slaves and maidservants in ancient documents
+- 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.
+- 另 - 中国制造: On HSK/2 only.  We use 他 or 彼 instead
+- 卡 - 混乱: HSK/2, but use 牌
+- 扒 - 官话: HSK/3 and 4, but Chinese only.
+- 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
+- 㒱 - 국자: Korean variant of 夢 'dream'
 
 ## Data check
 ```dataview

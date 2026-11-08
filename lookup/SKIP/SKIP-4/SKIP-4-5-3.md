@@ -21,6 +21,9 @@ tags: [lookup]
 8. <ruby>[朮](characters/朮.md)<rt>ㄙㄨㄊ</rt></ruby> "atractylodes"
 9. <ruby>[申](characters/申.md)<rt>ㄙㄝㄋ</rt></ruby> "report"
 
+### Forbidden
+- 卡 - 混乱: HSK/2, but use 牌
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

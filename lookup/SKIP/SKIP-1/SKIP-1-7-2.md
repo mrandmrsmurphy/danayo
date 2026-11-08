@@ -29,6 +29,9 @@ tags: [lookup]
 - 剑 --> 剣
 - 卽 --> 即
 
+### Forbidden
+- 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

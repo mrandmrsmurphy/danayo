@@ -35,6 +35,9 @@ tags:
 ### Aliases
 - 蚯 --> 丘
 
+### Forbidden
+- 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

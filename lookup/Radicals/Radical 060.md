@@ -58,6 +58,7 @@ tags:
 
 ### Forbidden
 - 㣴 - 국자: Korean-coined hanja for '황' ('the first note, 황종 (黃鐘, hwangjong) of the Shí-èr-lǜ musical scale')
+- 很 - 官话: HSK/1, but we use 頗 instead.  It's use as a meaningless filler in Mandarin makes it unsuitable as "very".
 
 ## Data check
 ```dataview

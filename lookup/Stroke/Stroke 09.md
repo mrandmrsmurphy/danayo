@@ -77,6 +77,13 @@ tags:
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 㸴 - 국자: 소 a rare surname
 - 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
+- 瓰 - 国字: 国字 for the decigram (瓦 + 分)
+- 很 - 官话: HSK/1, but we use 頗 instead.  It's use as a meaningless filler in Mandarin makes it unsuitable as "very".
+- 挖 - 官话: HSK/2.
+- 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
+- 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
+- 怎 - 混乱: HSK/1, but too close to 何
+- 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
 
 ## Data check
 ```dataview

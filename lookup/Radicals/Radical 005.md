@@ -19,7 +19,7 @@ tags: [lookup]
 7. <ruby>[乾](../../characters/乾%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - heavenly
 
 ### Forbidden
-- 乜 --> Cantonese/dialects only
+- 乜 - 方言: Cantonese/dialects only
 - 㐉 - 국자: Korean-coined hanja for "slave" or "maid", 절.
 - 乥 - 口訣: Korean 구결 for '홀'
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

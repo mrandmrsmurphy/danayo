@@ -71,6 +71,9 @@ tags:
 - 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
 - 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
 - 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
+- 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
+- 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
+- 掉 - 官话: HSK/1 and Korean Name.
 
 ## Data check
 ```dataview

@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'
+- 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
 
 ## Datacheck
 ```dataview

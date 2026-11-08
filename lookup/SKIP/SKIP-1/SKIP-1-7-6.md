@@ -43,6 +43,10 @@ tags:
 31. <ruby>[酪](characters/酪.md)<rt>ㄌㄚㄎ</rt></ruby> "cream, cheese, dairy"
 32. <ruby>[酬](characters/酬.md)<rt>ㄙㄨㄛ</rt></ruby> "reward"
 
+### Forbidden
+- 跟 - 中国制造: HSK/1, Use 踵 instead
+- 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

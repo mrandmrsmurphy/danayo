@@ -192,6 +192,15 @@ tags: [lookup]
 - 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
 - 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
 - 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
+- 另 - 中国制造: On HSK/2 only.  We use 他 or 彼 instead
+- 吶 - 混乱: Used for sound, but we'd never agree.  Use 叫 for the meaning and 那 for the sound.
+- 嗎 - 中国制造: Chinese SFP.  Use 乎 instead.  HSK/1
+- 吵 - 中国制造: "to argue" Use 弁論.  HSK/2
+- 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻
+- 呀 - 官话: HSK/1 and 한문교육용기초한자/이름.  Even in Mandarin, equivalent to 啊.
+- 呢 - 混乱: HSK/1
+- 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
+- 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
 
 ## Data check
 ```dataview

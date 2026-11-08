@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[疫](/characters/疫.md)<rt>⼶ㄎ</rt></ruby> - plague
 
+### Forbidden
+- 瓰 - 国字: 国字 for the decigram (瓦 + 分)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

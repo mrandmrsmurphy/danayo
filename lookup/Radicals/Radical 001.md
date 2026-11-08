@@ -18,7 +18,6 @@ Radical 1 is 一, the number one.
 - 丂 --> ancient variant of 于 and of 考
 - 丄 --> ancient variant of 上
 - 丅 --> ancient variant of 下
-- 丆 --> ancient variant of [[Radical 027]] (厂) "cliff", 口訣 form of 면
 
 ### +2 Strokes
 4. <ruby>[万](../../characters/万.md)<rt>ㄇㄛㄋ</rt></ruby> - ten-thousand
@@ -85,7 +84,8 @@ Radical 1 is 一, the number one.
 - 𠁈 --> 君
 
 ### Forbidden
-- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl)
+- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl); an ancient variant of 厂 'cliff' (Radical 027)
+- 丟 - 中国制造: HSK/1, but mainly Chinese.
 
 ## Data check
 ```dataview

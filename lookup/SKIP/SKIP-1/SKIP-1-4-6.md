@@ -50,6 +50,9 @@ tags:
 - 珪 --> 硅
 - 胶 --> 交
 
+### Forbidden
+- 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

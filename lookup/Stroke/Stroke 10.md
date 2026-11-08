@@ -70,6 +70,11 @@ tags:
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘
 - 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
 - 莻 - 국자: 'late' - 늦
+- 們 - 中国制造: HSK/1 and Korean Name but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
+- 逛 - 官话: HSK/2 but Chinese only
+- 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
+- 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
+- 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
 
 ## Data check
 ```dataview

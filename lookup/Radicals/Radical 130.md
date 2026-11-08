@@ -109,6 +109,9 @@ tags: [lookup]
 - 胶 --> 交
 - 膽 --> 胆
 
+### Forbidden
+- 臉 - 官话: HSK/2, 'cheek', 'face' --> 頬, 面; radical ⺼ (肉)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

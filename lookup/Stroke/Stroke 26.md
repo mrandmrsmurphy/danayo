@@ -13,6 +13,9 @@ tags: [lookup]
 ### Aliases
 - 讚 --> 賛
 
+### Forbidden
+- 鱶 - 国字: 国字 for 'shark', ふか
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

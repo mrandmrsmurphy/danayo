@@ -30,6 +30,9 @@ tags: [lookup]
 18. <ruby>[逢](/characters/逢.md)<rt>ㄅㄛㄫ</rt></ruby> "meet; flatter"
 19. <ruby>[速](characters/速%20(char).md)<rt>ㄙㄛㄎ</rt></ruby> "quick; fast"
 
+### Forbidden
+- 逛 - 官话: HSK/2 but Chinese only
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -119,6 +119,10 @@ tags:
 - 圣 --> 聖
 - 坮 --> 台
 
+### Forbidden
+- 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
+- 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"

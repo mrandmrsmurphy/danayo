@@ -38,6 +38,9 @@ tags:
 - 鸡 --> 鶏
 - 诏 --> 詔
 
+### Forbidden
+- 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

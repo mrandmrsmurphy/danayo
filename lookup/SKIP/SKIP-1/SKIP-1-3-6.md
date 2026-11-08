@@ -81,6 +81,10 @@ tags:
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 很 - 官话: HSK/1, but we use 頗 instead.  It's use as a meaningless filler in Mandarin makes it unsuitable as "very".
+- 挖 - 官话: HSK/2.
+- 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
+- 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
 
 ## Datacheck
 ```dataview

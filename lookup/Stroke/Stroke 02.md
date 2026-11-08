@@ -17,15 +17,15 @@ tags: [lookup]
 - 4-2-4: <ruby>[[乂]]<rt>⼘ㄧ</rt></ruby>, <ruby>[[九 (char)|九]]<rt>ㄎ⼜</rt></ruby>, <ruby>[[人 (char)|人]]<rt>ㄋㄧㄋ</rt></ruby>, <ruby>[[入 (char)|入]]<rt>ㄋㄧㄆ</rt></ruby>, <ruby>[[力 (char)|力]]<rt>ㄌㄧㄎ</rt></ruby>, <ruby>[[卜]]<rt>ㄅㄛㄎ</rt></ruby>
 
 ### Aliases
-
-### Forbidden
-- 乜 - Cantonese/dialects only
 - 丅 --> 下
 - 𠄎 --> 乃
 - 厂 --> 廠
+
+### Forbidden
+- 乜 - 方言: Cantonese/dialects only
 - 丷 - 口訣: Korean 구결 for '하다'
 - 𰆊 - 口訣: Korean 구결 for 'ㄴ'
-- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl)
+- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl); an ancient variant of 厂 'cliff' (Radical 027)
 
 ## Data check
 ```dataview

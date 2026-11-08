@@ -34,7 +34,7 @@ tags: [lookup]
 21. <ruby>[睫](/characters/睫.md)<rt>ㄑㄝㄆ</rt></ruby> "eyelash"
 
 ### Forbidden
-- 碰
+- 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
 
 ### Aliases
 - 雏 --> 雛

@@ -32,6 +32,9 @@ tags: [lookup]
 ### Aliases
 - 瓯 --> 甌
 
+### Forbidden
+- 瓰 - 国字: 国字 for the decigram (瓦 + 分)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -105,6 +105,10 @@ tags:
 - 㢱 - 국자: Korean place-name character; same as 旀
 - 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
 - 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
+- 呢 - 混乱: HSK/1
+- 拆 - 官话: HSK/2, but not used elsewhere.
+- 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
+- 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
 
 ## Datacheck
 ```dataview

@@ -15,6 +15,9 @@ tags: [lookup]
 2. <ruby>[超](characters/超%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> "transcend"
 3. <ruby>[越](characters/越%20(char).md)<rt>⼔ㄊ</rt></ruby> "exceed"
 
+### Forbidden
+- 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

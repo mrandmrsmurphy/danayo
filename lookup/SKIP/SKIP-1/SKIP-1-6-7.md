@@ -27,6 +27,9 @@ tags: [lookup]
 ### Aliases
 - 粮 --> 糧
 
+### Forbidden
+- 綁 - 官话: HSK 3, but used in no other country
+
 ## Datacheck
 ```dataview
 TABLE radical AS "Radical", 注音 AS "Sound", skip_number AS "SKIP"

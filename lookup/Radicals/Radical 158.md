@@ -13,6 +13,10 @@ tags: [lookup]
 1. <ruby>[身](../../characters/身.md)<rt>ㄙㄧㄋ</rt></ruby> - body
 2. <ruby>[躬](../../characters/躬.md)<rt>ㄍㄨㄫ</rt></ruby> - emperor's body
 
+### Forbidden
+- 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
+- 𬧬 - 国字: Variant of 躾, 国字 for 'discipline, teaching manners'
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

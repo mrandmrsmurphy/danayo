@@ -41,17 +41,17 @@ tags:
 - 鮹 --> 章
 - 藥 --> 薬
 - 雞 --> 鶏
+- 龜 --> 亀
+- 檯 --> 台
+- 襠 --> 当
+- 鞦 --> 秋
+- 㽬 --> 放
 
 ### Forbidden
 - 鯎
 - 鯏
 - 鯑
 - 𩸽
-- 龜 --> 亀
-- 檯 --> 台
-- 襠 --> 当
-- 鞦 --> 秋
-- 㽬 --> 放
 - 㶂 - 국자: 황 (“the first note, 황종 (黃鍾, hwangjong) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 䆆 - 국자: dry rice

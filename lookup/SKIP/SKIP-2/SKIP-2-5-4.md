@@ -46,6 +46,7 @@ tags:
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')
 - 巭 - 국자: Variant of 巬, 부 ('worker')
 - 㸴 - 국자: 소 a rare surname
+- 怎 - 混乱: HSK/1, but too close to 何
 
 ## Datacheck
 ```dataview

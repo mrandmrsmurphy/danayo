@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### Forbidden
 - 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
+- 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
 
 ## Data check
 ```dataview

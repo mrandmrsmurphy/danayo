@@ -92,6 +92,9 @@ tags: [lookup]
 - 燈 --> 灯
 - 熈 --> 熙
 
+### Forbidden
+- 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

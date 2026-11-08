@@ -61,7 +61,7 @@ def add_redirect(path,alias,main):
     t=open(path,encoding="utf-8").read(); line=f"- {alias} --> {main}"
     if line in t: return
     if "### Aliases" in t:
-        i=t.index("### Aliases"); j=t.find("\n## ",i)
+        i=t.index("### Aliases"); j=re.search(r"\n#{2,3} ",t[i+3:]); j=i+3+j.start() if j else -1
         if j<0: t=t.rstrip("\n")+"\n"+line+"\n"
         else: t=t[:i]+t[i:j].rstrip("\n")+"\n"+line+"\n"+t[j:]
     else:

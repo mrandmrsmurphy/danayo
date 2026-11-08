@@ -33,6 +33,9 @@ tags: [lookup]
 ### +10 Strokes
 9. <ruby>[趨](../../characters/趨%20(char).md)<rt>ㄑㄨ</rt></ruby> - hasten
 
+### Forbidden
+- 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -48,9 +48,6 @@ tags:
 - 筺 --> 筐
 - 粮 --> 糧
 - 雏 --> 雛
-
-### Forbidden
-- !!碰!!
 - 會 --> 会
 - 𢊍 --> 厨
 - 彚 --> 彙
@@ -63,12 +60,20 @@ tags:
 - 號 --> 号
 - 辐 --> 放
 - 滝 --> 瀧
+
+### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name
 - 嗭 - 국자: Korean-coined hanja for '짓' (proto-Hangǔl); place name
 - 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
 - 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
 - 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker
+- 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
+- 綁 - 官话: HSK 3, but used in no other country
+- 跟 - 中国制造: HSK/1, Use 踵 instead
+- 嗎 - 中国制造: Chinese SFP.  Use 乎 instead.  HSK/1
+- 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
+- 慍 - 混乱: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
 
 ## Data check
 ```dataview

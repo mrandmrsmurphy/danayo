@@ -71,6 +71,12 @@ tags:
 - 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
 - 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
 - 迲 - 국자: 한문교육용기초한자/이름 - '겁'
+- 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+- 呢 - 混乱: HSK/1
+- 拆 - 官话: HSK/2, but not used elsewhere.
+- 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
+- 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
+- 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
 
 ## Data check
 ```dataview

@@ -53,6 +53,10 @@ tags:
 ### +14 Strokes
 23. <ruby>[躍](../../characters/躍.md)<rt>⼘ㄎ</rt></ruby> - leap
 
+### Forbidden
+- 跟 - 中国制造: HSK/1, Use 踵 instead
+- 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

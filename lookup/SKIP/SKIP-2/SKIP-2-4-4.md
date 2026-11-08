@@ -35,6 +35,9 @@ tags:
 ### Aliases
 - 责 --> 責
 
+### Forbidden
+- 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

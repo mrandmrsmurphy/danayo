@@ -39,7 +39,6 @@ tags: [lookup]
 17. <ruby>[碁](../../characters/碁.md)<rt>ㄍㄧ</rt></ruby> - Go (game)
 18. <ruby>[碍](../../characters/碍.md)<rt>ㄚㄧ</rt></ruby> - obstruct
 19. <ruby>[碗](../../characters/碗%20(char).md)<rt>⺢ㄋ</rt></ruby> - bowl
-- 碰 --> forbidden; the character means "bump" but is not internationally recognized
 
 ### +9 Strokes
 20. <ruby>[碑](../../characters/碑.md)<rt>ㄅㄧ</rt></ruby> - tombstone
@@ -70,6 +69,9 @@ tags: [lookup]
 
 ### Aliases
 - 矽 --> 硅
+
+### Forbidden
+- 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
 
 ## Data check
 ```dataview

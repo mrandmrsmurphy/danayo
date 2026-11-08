@@ -61,6 +61,8 @@ tags:
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名
 - 橴 - 국자: Korean-coined hanja for '자'; place name
+- 懂 - 官话: HSK/1, but Chinese only.
+- 澡 - 官话: Replace with 沐浴, HSK/2
 
 ## Data check
 ```dataview

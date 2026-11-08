@@ -50,6 +50,10 @@ tags: [lookup]
 - 鱆 --> 章
 - 鮹 --> 章
 
+### Forbidden
+- 鱶 - 国字: 国字 for 'shark', ふか
+- 鮨 - 国字: 'sushi'; an old Chinese character (minced fish) that Japan reused for sushi, and Chinese now borrows back
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

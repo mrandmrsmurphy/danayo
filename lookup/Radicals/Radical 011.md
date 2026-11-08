@@ -40,6 +40,9 @@ tags: [lookup]
 - 㒰 --> 全
 - 內 --> 内
 
+### Forbidden
+- 㒱 - 국자: Korean variant of 夢 'dream'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical"
