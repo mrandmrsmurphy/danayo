@@ -62,6 +62,7 @@ tags:
 - 滝 --> 瀧
 - 畵 --> 画
 - 缚 --> 縛
+- 谬 --> 謬
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

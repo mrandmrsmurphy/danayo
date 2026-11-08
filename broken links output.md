@@ -3,10 +3,9 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Loop Work]] in [[AIOS/projects/project_character_sweeps]]
 - [[broken links output]] in [[AIOS/projects/project_character_sweeps]]
 - [[大不列顛]] in [[AIOS/projects/project_geography_history_words_2026-06]]
-- [[feedback_syllable_placement_override]] in [[AIOS/projects/project_syllables_lint]]
-- [[feedback_alias_parent_form]] in [[AIOS/projects/project_syllables_lint]], [[characters/権]], [[characters/歓]], [[characters/灌]], [[characters/私]], [[characters/鸛]]
-- [[feedback_korean_reading_north]] in [[AIOS/projects/project_syllables_lint]], [[AIOS/skills/skill_lint]]
-- [[feedback_alias_fiat_declaration]] in [[AIOS/skills/skill_mediawiki_migration]]
+- [[feedback_syllable_placement_override]]
+- [[feedback_alias_parent_form]] in [[characters/権]], [[characters/歓]], [[characters/灌]], [[characters/私]], [[characters/鸛]]
+- [[feedback_korean_reading_north]] in [[AIOS/skills/skill_lint]]
 
 
 

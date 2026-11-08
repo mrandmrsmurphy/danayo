@@ -24,7 +24,6 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Stand-in note on word pages](memory/feedback_standin_note.md) — explicitly flag when a word legitimizes a bound character
 - [Stroke/Radical link zero-padding](memory/feedback_stroke_link_format.md) — `Stroke 02` (2-digit), `Radical 085` (3-digit), never unpadded
 - [Syllable completion on word creation](memory/feedback_syllable_completion.md) — unblocking a syllable means finishing its page in the same pass (ruby + date-last-perfect)
-- [Syllable data-check bug](memory/feedback_syllable_datacheck.md) — broken `WHERE 諺文` queries hide characters; always cross-check by grepping 注音
 - [Session pacing](memory/feedback_session_pacing.md) — pause autonomous batch work at natural set boundaries (e.g. a completed syllable), not just at the end of the whole backlog
 - [Word pronunciation derivation](memory/feedback_word_pronunciation_derivation.md) — 羅馬字/諺文/注音 = direct concatenation of `characters/` bound-form values; no sound-shift rules exis[...]
 - [Idiom-component attestation](memory/feedback_idiom_component_attestation.md) — before calling a 2-char candidate "unattested," check if it's the head of a longer idiom, and check Japanese dic[...]
@@ -35,10 +34,8 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Graphemic substitution words](memory/feedback_graphemic_substitution_words.md) — 代用字 words (e.g. 且爵 for 咀嚼): foreign-language fields carry the real target word's readings, 羅馬字[...]
 - [Variant word check](memory/feedback_variant_word_check.md) — before creating a word, grep `words/` for the same compound spelled with a character alias (shinjitai/traditional) — don't dupli[...]
 - [Translation kanbun origin](memory/feedback_translation_kanbun_origin.md) — old `translation/` pages were transcribed from a kanbun-style calligraphy piece; reversed word order and stray ㄹ's[...]
-- [Romaji spelling](memory/feedback_romaji_spelling.md) — one capital only: "Romaji," never "ROmaji" (user's typo habit)
 - [Homophone warning callout](memory/feedback_homophone_warning.md) — words with Dan'a'yo homophones need a `>[!warning] Homophones` callout after meta-bind-embed, before Notes
 - [Character backlinks required](memory/feedback_character_backlinks.md) — when perfecting a word, update every constituent character's `## Words` section immediately; this is criterion 9 and ca[...]
-- [kwin paragraph length](memory/feedback_kwin_length.md) — SUPERSEDED: no kwin prose at all, kwin is a bare boolean (see notes-prose-rules)
 - [Notes prose rules](memory/feedback_notes_prose_rules.md) — keep stand-in and dual-source notes; drop kwin, no-homophone and sweep/changelog commentary; every link must resolve (`../` prefix)
 - [Lexipedia semantic differentiation](memory/feedback_lexipedia_semantic_differentiation.md) — lexipedia placement is now a required (2026-09-18+, prospective-only) checklist criterion; D-specific sense[...]
 - [Cranberry/transitivity](memory/feedback_cranberry_transitivity.md) — #cranberry marks a shared stand_in only when both characters mean literally the same thing; can also license overriding MC[...]
@@ -47,6 +44,5 @@ For step-by-step workflow guides, see `AIOS/skill-index.md`. For ongoing project
 - [Affix naming & productivity tiers](memory/feedback_affix_naming_and_productivity.md) — `－X.md` (U+FF0D) word file = fully productive affix; semi-productive = character-page note only; every fullwidth-hyphen word gets an ASCII `-` alias; pos 派生辞 decided; 物/事 pages, 接頭辞, semi-notes, case-stacking ban done
 
 ## Reference
-- [conlang.org wiki](memory/reference_conlang_wiki.md) — legacy MediaWiki site being migrated into the vault; self-signed cert, use curl not WebFetch
 - [Documentation sufficiency analysis](memory/analysis_documentation_sufficiency_2026_09_13.md) — comprehensive assessment of what is well-documented (grammar, character system, cross-linguistic grounding) vs. what's missing (pedagogy, pragmatics, discourse structure). **Key finding**: reference use 85% sufficient; learner use 40% sufficient. **User has begun addressing this with lessons/ content.** See Lesson 01 (phonology/Bopomofo), Lesson 02 (character types and radical/SKIP systems). Focus: graded progression, examples in use, discourse context.
 - [UL family structure](memory/reference_ul_family_structure.md) — Dan'a'yo is the flagship of the Universal Languages project; sibling vaults (UL, middle-semitic) and inter-vault rules: `AIOS/facts.yaml` reportage + dated request notes in the target's `AIOS/`

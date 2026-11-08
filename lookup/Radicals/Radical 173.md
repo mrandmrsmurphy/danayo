@@ -58,6 +58,7 @@ tags: [lookup]
 - 霄 --> 宵
 - 䨭 --> 宵
 - 霦 --> 彬
+- 霹 --> 辟
 
 ### Forbidden
 - 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨

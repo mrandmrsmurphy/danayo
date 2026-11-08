@@ -18,6 +18,9 @@ tags: [lookup]
 5. <ruby>[女](characters/女%20(char).md)<rt>ㄋㄜ</rt></ruby> "woman"
 6. <ruby>[丸](characters/丸.md)<rt>ㄏ⺢ㄋ</rt></ruby> "ball"
 
+### Aliases
+- 门 --> 門
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

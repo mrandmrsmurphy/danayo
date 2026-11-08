@@ -144,3 +144,9 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 画 | 畵 | 2-6-7 | computed from its parts |
 | 研 | 硏 | 1-5-6 | computed from its parts |
 | 縛 | 缚 | 1-3-10 | computed from its parts |
+| 記 | 记 | 1-2-3 | computed from its parts |
+| 謬 | 谬 | 1-2-11 | computed from its parts |
+| 謬 | 缪 | 1-3-11 | computed from its parts |
+| 門 | 閅 | 3-8-2 | computed from its parts |
+| 門 | 门 | 4-3-4 | computed from its parts |
+| 闡 | 阐 | 3-3-8 | computed from its parts |

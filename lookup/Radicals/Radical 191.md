@@ -13,6 +13,7 @@ tags: [lookup]
 
 ### Aliases
 - 鬧 --> 閙
+- 鬥 --> 門
 
 ## Data check
 ```dataview

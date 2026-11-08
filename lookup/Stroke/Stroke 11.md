@@ -64,6 +64,7 @@ tags:
 - 渊 --> 淵
 - 渔 --> 漁
 - 硏 --> 研
+- 阐 --> 闡
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[勉](/characters/勉%20(char).md)<rt>ㄇ⼶ㄋ</rt></ruby> - urge
 2. <ruby>[閃](/characters/閃.md)<rt>ㄙㄝㄇ</rt></ruby> - glint
 
+### Aliases
+- 閅 --> 門
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

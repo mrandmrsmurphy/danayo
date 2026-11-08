@@ -60,6 +60,8 @@ tags:
 - 娚 --> 南
 - 倖 --> 幸
 - 畠 --> 田
+- 閅 --> 門
+- 鬥 --> 門
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

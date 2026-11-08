@@ -25,6 +25,8 @@ tags: [lookup]
 - 仞 --> 刃
 - 仔 --> 子
 - 讨 --> 討
+- 记 --> 記
+
 ### Forbidden
 
 ## Datacheck

@@ -12,7 +12,7 @@ User rulings of 2026-10-21, given after a long perfecting loop had been strippin
 - **Dual-source confirmation.** A sentence that says a character's analysis or reading was confirmed in two sources (en.Wiktionary and zh.Wiktionary) is welcome on character pages. Keep it, and add it when it is true.
 
 **Leave out**
-- **`kwin` prose.** `kwin` is a bare boolean; verify the value but write no Notes sentence or paragraph explaining it. This supersedes the older short-kwin-paragraph rule in [[AIOS/memory/feedback_kwin_length.md]].
+- **`kwin` prose.** `kwin` is a bare boolean; verify the value but write no Notes sentence or paragraph explaining it.
 - **"No homophones" remarks.** The absence of a homophone callout already says it. Do not add (or keep) a sentence saying a word has no homophones. A real homophone still gets the `>[!warning] Homophones` callout, and nothing more in prose.
 - **Sweep / session history.** "This sweep," "already perfected," "awaiting its own turn," "now fully cross-linked," "added reciprocal callouts," "root-cause fix," "corrected," "formerly," "previously missing" and similar changelog or process sentences. State the fact, not how it was found or fixed.
 

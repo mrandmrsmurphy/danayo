@@ -16,7 +16,7 @@ Run from the vault root.
 """
 import re,os,sys,unicodedata
 SRC="grammar/文法 - 98違法字.md"
-# Provisional until agreed with Murphy (2026-11-07): the limited set of classifications.
+# Provisional until agreed with 武明帥 (2026-11-07): the limited set of classifications.
 ALLOWED=["官话","方言","中国制造","国字","국자","口訣","異体字","幽霊文字","混乱"]
 RADNUM={unicodedata.normalize("NFKC",chr(0x2F00+i)):i+1 for i in range(214)}
 def parse():

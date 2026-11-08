@@ -63,6 +63,7 @@ tags:
 - 厰 --> 廠
 - 榮 --> 栄
 - 熈 --> 熙
+- 缪 --> 謬
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

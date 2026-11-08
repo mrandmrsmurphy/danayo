@@ -131,6 +131,8 @@ tags: [lookup]
 - 綾 --> 凌
 - 纸 --> 紙
 - 缚 --> 縛
+- 繆 --> 謬
+- 缪 --> 謬
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

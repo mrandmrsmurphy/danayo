@@ -54,6 +54,10 @@ tags: [lookup]
 
 ### Aliases
 - 闹 --> 閙
+- 闢 --> 辟
+- 閅 --> 門
+- 门 --> 門
+- 阐 --> 闡
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
