@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Aliases
 - 弃 --> 棄
+- 开 --> 開
 
 ## Data check
 ```dataview

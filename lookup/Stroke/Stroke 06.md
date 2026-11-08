@@ -43,6 +43,8 @@ tags:
 - 节 --> 節
 - 兴 --> 興
 - 过 --> 過
+- 达 --> 達
+- 关 --> 関
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

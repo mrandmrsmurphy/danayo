@@ -32,7 +32,7 @@ aliases:
   - 關
   - 关
 注音: ㄍ⺢ㄇ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,8 +48,16 @@ boundedness: 60
 ## Notes
 - 形声 (OC \*kroːn): semantic [[Radical 169|門]] ("door") + phonetic 丱 (also written 卝, guàn/luǎn — no vault page; the bronze-script form depicted a door locked with two wooden sticks).
 - [SKIP-3-8-6](../lookup/SKIP/SKIP-3/SKIP-3-8-6.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
-- 424th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 刪合|ɣuan]] → [ㄍ⺢ㄇ](../syllables/ㄍ⺢ㄇ.md)
+- 424th most used character in Classical Chinese, the rank of its alias 關 (関 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 刪合|ɣuan]] → [ㄍ⺢ㄇ](../syllables/ㄍ⺢ㄇ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 關
+The traditional form ("frontier pass; to close"); Wiktionary lists 關, 関 and 关 together as one character, and 関 is an unorthodox form of it listed in the Kangxi dictionary. It carries the classical rank of 424, which is the page's `mc_id`. SKIP 3-8-11; 19 strokes. It ranks 424 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 关
+The simplified Chinese form of 關 (丷 over 天); Wiktionary lists 關, 関 and 关 together as one character. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 012 八. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[関]]<rt>ㄍ⺢ㄇ</rt></ruby> "close" (stand-in for 関)

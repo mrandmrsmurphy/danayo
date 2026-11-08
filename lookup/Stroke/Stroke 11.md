@@ -72,6 +72,8 @@ tags:
 - 䢁 --> 朝
 - 淺 --> 浅
 - 著 --> 着
+- 银 --> 銀
+- 颇 --> 頗
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -100,6 +100,7 @@ tags:
 - 拨 --> 発
 - 泼 --> 発
 - 泷 --> 瀧
+- 鸣 --> 鳴
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

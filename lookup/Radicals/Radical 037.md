@@ -61,6 +61,7 @@ tags: [lookup]
 - 奌 --> 点
 - 㚔 --> 幸
 - 夬 --> 決
+- 头 --> 頭
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

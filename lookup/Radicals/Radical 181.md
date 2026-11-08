@@ -62,6 +62,7 @@ tags: [lookup]
 
 ### Aliases
 - 頽 --> 退
+- 颇 --> 頗
 
 ## Data check
 ```dataview

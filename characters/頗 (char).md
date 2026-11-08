@@ -29,7 +29,7 @@ stand_in: "頗"
 aliases:
   - 颇
 注音: "ㄈㄚ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,7 +48,11 @@ boundedness: 90
 - [SKIP-1-5-9](../lookup/SKIP/SKIP-1/SKIP-1-5-9.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1176th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄈㄚ](../syllables/ㄈㄚ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
-- Vietnamese pronunciation chosen to fill a vacant syllable
+
+## Aliases
+
+### 颇
+The simplified Chinese form of 頗 (皮 + 页); Wiktionary's 颇 page names 頗 as its traditional form, and 頗 lists it as its simplified form. SKIP 1-5-6 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[頗]]<rt>ㄈㄚ</rt></ruby> "very" (stand-in for 頗)

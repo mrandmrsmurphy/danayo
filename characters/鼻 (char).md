@@ -28,7 +28,7 @@ mc_id: 1643
 graphemic_classification: "畀"
 stand_in: "鼻"
 注音: "ㄅㄧ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character

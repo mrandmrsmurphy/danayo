@@ -34,6 +34,7 @@ tags: [lookup]
 - 夬 --> 決
 - 无 --> 無
 - 㐧 --> 第
+- 开 --> 開
 
 ### Forbidden
 - 仒 - 口訣: Korean 구결 for '샤'

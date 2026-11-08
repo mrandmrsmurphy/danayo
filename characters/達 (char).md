@@ -40,7 +40,7 @@ aliases:
   - 逹
   - 达
 注音: ㄊㄚㄊ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -59,6 +59,14 @@ boundedness: 90
 - 746th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄊㄚㄊ](../syllables/ㄊㄚㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for "darmstadtium": <ruby>[[達金]]<rt>ㄊㄚㄊㄍㄧㄇ</rt></ruby>
+
+## Aliases
+
+### 逹
+A variant of 達 ("to arrive at, to reach; intelligent"); Wiktionary's 逹 page redirects to 達, and 達 lists it among its forms. SKIP 3-4-8; 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 达
+The simplified Chinese form of 達 (辶 + 大); Wiktionary's 达 page names 達 as its traditional form, and 達 lists it as its simplified form. EDRDG records it with 6 strokes. SKIP 3-3-3; 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[達]]<rt>ㄊㄚㄊ</rt></ruby> "attain, achieve" (stand-in for 達)

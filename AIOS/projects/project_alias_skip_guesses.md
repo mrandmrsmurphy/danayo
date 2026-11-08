@@ -190,3 +190,11 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 連 | 连 | 3-3-4 | computed from its parts |
 | 連 | 联 | 1-6-6 | computed from its parts |
 | 過 | 过 | 3-3-3 | computed from its parts |
+| 銀 | 银 | 1-5-6 | computed from its parts |
+| 開 | 开 | 4-4-1 | computed from its parts |
+| 開 | 𫔭 | 3-3-4 | computed from its parts |
+| 関 | 关 | 2-2-4 | computed from its parts |
+| 頗 | 颇 | 1-5-6 | computed from its parts |
+| 頭 | 头 | 2-2-3 | computed from its parts |
+| 飛 | 飞 | 4-3-4 | computed from its parts |
+| 鳴 | 鸣 | 1-3-5 | computed from its parts |

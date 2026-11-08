@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Aliases
 - 门 --> 門
+- 飞 --> 飛
 
 ## Datacheck
 ```dataview

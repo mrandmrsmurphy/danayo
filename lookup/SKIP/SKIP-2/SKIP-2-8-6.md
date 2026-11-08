@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### Aliases
 - 榮 --> 栄
+- 蜚 --> 飛
 
 ## Datacheck
 ```dataview

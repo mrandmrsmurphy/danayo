@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Aliases
 - 髓 --> 髄
+- 體 --> 体
 
 ## Data check
 ```dataview

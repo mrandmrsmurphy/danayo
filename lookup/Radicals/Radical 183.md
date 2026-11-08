@@ -13,6 +13,7 @@ tags: [lookup]
 
 ### Aliases
 - 䬡 --> 翻
+- 飞 --> 飛
 
 ## Data check
 ```dataview

@@ -32,21 +32,32 @@ aliases:
   - 开
   - 𫔭
 注音: ㄎㄚㄧ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
 boundedness: 70
 ---
+>[!tip] This is a page about the character 開.
+>For the word, see [開](../words/開.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 会意 of [[Radical 169|門]] ("door") + 开 (a fusion, since the Small Seal script, of 一 "latch/pole" and 廾 "a pair of hands"; the conservative variant 𨵑 still keeps these two components distinct) — a pair of hands opening a latched door.
+- 会意 (OC \*kʰɯːl) of [[Radical 169|門]] ("door") + 开 (a fusion, since the Small Seal script, of 一 "latch/pole" and 廾 "a pair of hands"; the conservative variant 𨵑 still keeps these two components distinct) — a pair of hands opening a latched door.
 - [SKIP-3-8-4](../lookup/SKIP/SKIP-3/SKIP-3-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 679th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄎㄚㄧ](../syllables/ㄎㄚㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 开
+The simplified Chinese form of 開 and also an alternative form in Japanese; the same glyph is the component 开 inside 開, which the page's graphemic note describes. Wiktionary's 开 page names 開 as its traditional form. SKIP 4-4-1 (computed: EDRDG does not list it); 4 strokes. Radical 055 廾. It has no rank of its own in the Classical Chinese lists.
+
+### 𫔭
+An obsolete Singapore simplified form of 開 (门 + 开), kept as a bare mention; Wiktionary's 𫔭 page redirects to 開. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[開放]]<rt>ㄎㄚㄧㄈㄚㄫ</rt></ruby> "be open; liberalize"

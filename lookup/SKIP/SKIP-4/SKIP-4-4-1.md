@@ -33,6 +33,7 @@ tags: [lookup]
 ### Aliases
 - 韦 --> 韋
 - 无 --> 無
+- 开 --> 開
 
 ## Datacheck
 ```dataview

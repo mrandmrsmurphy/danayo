@@ -22,6 +22,8 @@ tags: [lookup]
 ### Aliases
 - 裆 --> 当
 - 硏 --> 研
+- 银 --> 銀
+- 颇 --> 頗
 
 ### Forbidden
 - 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.

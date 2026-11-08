@@ -4,6 +4,34 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 体 perfected to the current standard:** added OC \*r̥ʰiːʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 體 (traditional form; EDRDG SKIP 1-10-13, counted 23 strokes the Japanese way; its rank 595 is the page's `mc_id`, bullet reworded to credit it), redirects added; forty-one words and three chengyu verified. [AI]
+
+- **Character loop, 低 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 2908 confirmed in CC 2000, OC \*tiːl matches Wiktionary, three words verified. [AI]
+
+- **Character loop, 位 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 204 confirmed in CC 0000, OC \*ɢʷrɯbs matches Wiktionary, twenty-five words verified. [AI]
+
+- **Character loop, 伝 stamped to the current standard:** added the missing rank bullet (293rd, the rank of its alias 傳); the `## Aliases` section and redirects were already in place; OC present, eight words verified. [AI]
+
+- **Character loop, 争 perfected to the current standard:** added OC \*ʔsreːŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 爭 (traditional; EDRDG SKIP 2-4-4, 8 strokes; its rank 486 is the page's `mc_id`, bullet reworded to credit it), redirects added; seven words and three derived characters verified. [AI]
+
+- **Character loop, 鼻 stamped to the current standard:** no change needed; no aliases, rank 1643 confirmed in CC 1000, OC \*blids matches Wiktionary, five words and 阿鼻叫喚 verified. [AI]
+
+- **Character loop, 鳴 perfected to the current standard:** added OC \*mreŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 鸣 (simplified form; SKIP 1-3-5 computed, 8 strokes), redirects added; rank 865 confirmed in CC 0000, three words and 鶏鳴狗盗 verified. [AI]
+
+- **Character loop, 飛 perfected to the current standard:** added OC \*pɯl (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 飞 (simplified; SKIP 4-3-4 computed, 3 strokes) and 蜚 (separate, no Wiktionary link; EDRDG 2-8-6, 14 strokes; rank 2387 is above 835), redirects added; rank 835 confirmed in CC 0000, eleven words and 流言飛語 verified. [AI]
+
+- **Character loop, 頭 perfected to the current standard:** `## Aliases` section for 头 (simplified form; SKIP 2-2-3 computed, 5 strokes), redirects added; rank 680 confirmed in CC 0000, OC \*doː matches Wiktionary, twenty-three words and five chengyu verified. [AI]
+
+- **Character loop, 頗 perfected to the current standard:** deleted the history bullet "Vietnamese pronunciation chosen to fill a vacant syllable" (history belongs in the log); `## Aliases` section for 颇 (simplified form; SKIP 1-5-6 computed, 11 strokes), redirects added; rank 1176 confirmed in CC 1000, OC present, the one word verified. [AI]
+
+- **Character loop, 関 perfected to the current standard:** `## Aliases` section for 關 (traditional; EDRDG SKIP 3-8-11, 19 strokes; its rank 424 is the page's `mc_id`, bullet reworded to credit it) and 关 (simplified; SKIP 2-2-4 computed, 6 strokes), redirects added with a new redirect-only SKIP leaf 3-8-11 and its ø entry on SKIP-3-8; OC present, fourteen words verified. [AI]
+
+- **Character loop, 開 perfected to the current standard:** added the missing "page about the character / for the word" callout (the word 開 exists), added OC \*kʰɯːl (Zhengzhang via en.Wiktionary); `## Aliases` section for 开 (simplified and Japanese alternative; SKIP 4-4-1 computed, 4 strokes) and 𫔭 (obsolete Singapore form; SKIP 3-3-4 computed, 7 strokes), redirects added; rank 679 confirmed in CC 0000, thirteen words and 開天辟地 verified. [AI]
+
+- **Character loop, 銀 perfected to the current standard:** `## Aliases` section for 银 (simplified form; SKIP 1-5-6 computed, 11 strokes), redirects added; rank 2121 confirmed in CC 2000, OC \*ŋrɯn matches Wiktionary, nine words and two chengyu verified. [AI]
+
+- **Character loop, 達 perfected to the current standard:** `## Aliases` section for 逹 (variant; EDRDG SKIP 3-4-8, 12 strokes) and 达 (simplified; EDRDG 3-3-3, 6 strokes), redirects added; rank 746 confirmed in CC 0000, OC present, six words and 信達雅化 verified. [AI]
+
 - **Character loop, 過 perfected to the current standard:** `## Aliases` section for 过 (simplified form; SKIP 3-3-3 computed, 6 strokes with 辶 as 3), redirects added; rank 194 confirmed in CC 0000, OC \*kloːl matches Wiktionary, twelve words verified. [AI]
 
 - **Character loop, 連 perfected to the current standard:** added OC \*ren (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 连 (simplified; SKIP 3-3-4 computed, 7 strokes), 聯 (merged into 連 by vault rule; EDRDG 1-6-11, 17 strokes; rank 3683 is above 703), 联 (simplified of 聯; SKIP 1-6-6 computed, 12 strokes) and 漣 ('ripple', phonetic 連; EDRDG 1-3-10, 13 strokes), redirects added; rank 703 confirmed in CC 0000, twenty-six words and the chengyu verified; the page's merge note left as it was. [AI]

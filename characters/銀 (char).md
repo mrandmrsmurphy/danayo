@@ -31,7 +31,7 @@ stand_in: 銀
 aliases:
   - 银
 注音: ㄧㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 80
 - 2121st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 眞B開|ɣiɪn]] → [ㄧㄋ](../syllables/ㄧㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - the element word 銀 itself doubles as the periodic table abbreviation for "silver"
+
+## Aliases
+
+### 银
+The simplified Chinese form of 銀 (钅 + 艮); Wiktionary's 银 page names 銀 as its traditional form. SKIP 1-5-6 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[銀]]<rt>ㄧㄋ</rt></ruby> "silver" (stand-in for 銀)

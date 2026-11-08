@@ -119,6 +119,7 @@ tags: [lookup]
 - 錶 --> 表
 - 鏘 --> 将
 - 𨪙 --> 将
+- 银 --> 銀
 
 ## Data check
 ```dataview

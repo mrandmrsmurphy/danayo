@@ -35,6 +35,7 @@ tags: [lookup]
 ### Aliases
 - 𠀝 --> 空
 - 兴 --> 興
+- 关 --> 関
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

@@ -33,6 +33,7 @@ tags: [lookup]
 - 围 --> 囲
 - 应 --> 応
 - 连 --> 連
+- 𫔭 --> 開
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)
