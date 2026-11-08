@@ -161,6 +161,7 @@ Trade vocabulary covers buying, selling, wealth, and the institutions of commerc
 
 - <ruby>[祭典](../words/祭典.md)<rt>ㄐㄝㄉㄝㄋ</rt></ruby>: a festival. See [Events](../lexipedia/Events.md) and [Religion](../lexipedia/Religion.md) for their own citations there.
 - <ruby>[贋](../words/贋.md)<rt>ㄚㄋ</rt></ruby>: counterfeit, fake.
+- <ruby>[不真](../words/不真.md)<rt>ㄅㄛㄊㄐㄧㄋ</rt></ruby>: not genuine, inauthentic — the plain negation of [[真]], reaching claims and appearances as well as objects.
 - <ruby>[帳簿](../words/帳簿.md)<rt>ㄐ⺢ㄫㄅㄛ</rt></ruby>: a ledger.
 - <ruby>[発票](../words/発票.md)<rt>ㄈㄚㄊㄆ⼘ㄨ</rt></ruby>: an invoice, official receipt — the note a seller issues for a sale.
 - <ruby>[券](../words/券.md)<rt>ㄎㄛㄋ</rt></ruby>: a certificate, ticket, bond, voucher (債券, "bond, debenture"; 証券, "securities").

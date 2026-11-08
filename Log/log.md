@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **彔 on 録 linked to its forbidden-list entry:** the red link `[[彔]]` is now `[[文法 - 98違法字#彔|彔]]`, the form 剝 already uses. Authority: user request 2026-11-08.
+
+- **Dead `> [[Lookup]]` breadcrumb removed from lookup/Characters and lookup/Words:** no `Lookup` page exists, and the other lookup index pages carry no up-link. Authority: 武明帥.
+
+- **不真 coined (words/不真.md):** "not genuine, inauthentic" (性詞, neologism); 不 + 真; 注音 ㄅㄛㄊㄐㄧㄋ, 羅馬字 bodjin, 諺文 볻진; readings compositional (no Wiktionary entry; Korean 부진 by the 不-before-ㅈ rule). Added to `## Words` on 不 (char) and 真 (char), to lexipedia/Trade beside 贋, and relinked from the Sophomore List ("fake — 贋 or 不真"). Authority: user request 2026-11-08.
+
+- **腹行食塵 character links fixed:** the links to 行 and 食 pointed at `characters/行.md` and `characters/食.md`, which do not exist; they now point to `行 (char)` and `食 (char)`, and the frontmatter `characters:` list uses the same names. Authority: 武明帥.
+
+- **連 etymology bullet repaired:** the opening "[List of 会意](…) (OC \*ren) of" is now "会意 (OC \*ren):". Authority: 武明帥.
+
 - **辶 linked to Radical 162:** the red link `[[辶]]` (the walking-radical form of 辵) on 連 now reads `[[Radical 162|辶]]`. Authority: 武明帥.
 
 - **衤 linked to Radical 145:** the red link `[[衤]]` (the clothing-radical form of 衣) on 補 now reads `[[Radical 145|衤]]`. Authority: 武明帥.

@@ -55,6 +55,7 @@ boundedness: 50
 - <ruby>[[不]]<rt>ㄅㄛㄊ</rt></ruby> "not" (stand-in for 不)
 - <ruby>[[不及]]<rt>ㄅㄛㄊㄍㄨㄆ</rt></ruby> "to not reach; to be inferior to"
 - <ruby>[[不丹]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "Bhutan"
+- <ruby>[[不真]]<rt>ㄅㄛㄊㄐㄧㄋ</rt></ruby> "not genuine, inauthentic"
 - <ruby>[[不亦V乎]]<rt>ㄅㄛㄊ·ㄜㄎㄏㄛ</rt></ruby> "circumfix for rhetorical questions"
 - <ruby>[[不但]]<rt>ㄅㄛㄊㄉㄚㄋ</rt></ruby> "not only"
 - <ruby>[[不可]]<rt>ㄅㄛㄊㄎㄜ</rt></ruby> "cannot"

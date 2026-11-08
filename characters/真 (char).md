@@ -68,6 +68,7 @@ A separate character, 鷏 (真 + 鳥, the jungle nightjar), a variant of 鷆. SK
 - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> "true" (stand-in for 真)
 - <ruby>[[真正]]<rt>ㄐㄧㄋㄐㄧㄫ</rt></ruby> "genuine; real"
 - <ruby>[[真実]]<rt>ㄐㄧㄋㄙㄧㄊ</rt></ruby> "truth, reality"
+- <ruby>[[不真]]<rt>ㄅㄛㄊㄐㄧㄋ</rt></ruby> "not genuine, inauthentic"
 - <ruby>[[真摯]]<rt>ㄐㄧㄋㄐㄧㄜ</rt></ruby> "sincere; earnest"
 - <ruby>[[天真]]<rt>ㄊㄝㄋㄐㄧㄋ</rt></ruby> "innocent; naive; artless"
 - <ruby>[[写真]]<rt>ㄙ⼘ㄐㄧㄋ</rt></ruby> "photograph"

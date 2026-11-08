@@ -27,7 +27,7 @@ Mark Rosenfelder, in his ''Language Construction Kit'', has a list that comes af
 * hard - <ruby>[[硬]]<rt>ㄚㄫ</rt></ruby>, soft - <ruby>[[柔]]<rt>ㄋ⼜</rt></ruby>
 * full - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby>, empty - <ruby>[[空]]<rt>ㄎㄛㄫ</rt></ruby>
 * smart - <ruby>[[聡明]]<rt>ㄑㄛㄫㄇ⼶ㄫ</rt></ruby>, stupid - <ruby>[[愚]]<rt>ㄨ</rt></ruby>
-* real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake - <ruby>[[贋]]<rt>ㄚㄋ</rt></ruby> *or 不真*
+* real - <ruby>[[真]]<rt>ㄐㄧㄋ</rt></ruby> , fake - <ruby>[[贋]]<rt>ㄚㄋ</rt></ruby> *or [[不真]]*
 * upper - <ruby>[[上]]<rt>ㄙ⼘ㄫ</rt></ruby> , lower - <ruby>[[下]]<rt>ㄏㄚ</rt></ruby>
 * expensive - <ruby>[[高価]]<rt>ㄍㄚㄨㄍㄚ</rt></ruby> , cheap - <ruby>[[../words/便|便]]<rt>ㄅ⼶ㄋ</rt></ruby>
 * sweet - <ruby>[[甘]]<rt>ㄍㄚㄇ</rt></ruby> , sour - <ruby>[[酸]]<rt>ㄙ⺢ㄋ</rt></ruby>
