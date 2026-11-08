@@ -20,6 +20,9 @@ tags: [lookup]
 - 乭 - 국자: Korean-coined hanja for '돌' (rock), used mainly in personal names. On 単亜語/敎育用基礎漢字/名
 - 㔖 - 국자: Korean-coined hanja for 덕 or 각 (proto-Hangǔl), used for transliteration
 - 㔔 - 국자: Korean-coined hanja for 덩 or 강 (proto-Hangǔl), used for transliteration
+- 巪 - 국자: Personal name: 꺽 from 1562
+- 乒 - 中国制造: Onomatopoeia, 'ping', used with 乓 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
+- 乓 - 中国制造: Onomatopoeia, 'pong', used with 乒 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
 
 ## Datacheck
 ```dataview

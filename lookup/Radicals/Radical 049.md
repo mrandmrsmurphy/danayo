@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[巻](../../characters/巻%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - roll
 7. <ruby>[巽](../../characters/巽.md)<rt>ㄙㄛㄋ</rt></ruby> - southeast
 
+### Forbidden
+- 巼 - 국자: Korean-coined hanja for '팟'; place name
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

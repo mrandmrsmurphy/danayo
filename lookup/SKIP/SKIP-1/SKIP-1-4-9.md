@@ -51,6 +51,9 @@ tags:
 ### Aliases
 - 辐 --> 放
 
+### Forbidden
+- 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

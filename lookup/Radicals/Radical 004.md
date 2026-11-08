@@ -27,6 +27,11 @@ tags: [lookup]
 ### Aliases
 - 𠂤 --> 堆
 
+### Forbidden
+- 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)
+- 乒 - 中国制造: Onomatopoeia, 'ping', used with 乓 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
+- 乓 - 中国制造: Onomatopoeia, 'pong', used with 乒 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

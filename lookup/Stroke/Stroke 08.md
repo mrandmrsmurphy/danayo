@@ -65,6 +65,12 @@ tags:
 - 乷 - 국자: Korean-coined hanja for '살', used for transliteration. On 単亜語/敎育用基礎漢字/名
 - 侤 - 국자: Korean for '고'
 - 㢱 - 국자: Korean place-name character; same as 旀
+- 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name
+- 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
+- 彔 - 국자: 'to carve wood' 한문교육용기초한자/이름.  Descendants: 祿 , 緑 , 録
+- 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
+- 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
+- 迲 - 국자: 한문교육용기초한자/이름 - '겁'
 
 ## Data check
 ```dataview

@@ -42,6 +42,11 @@ tags:
 - 拏 --> 拿
 - 𤯞 --> 青
 
+### Forbidden
+- 巬 - 국자: Korean-coined hanja for '부' ('worker')
+- 巭 - 국자: Variant of 巬, 부 ('worker')
+- 㸴 - 국자: 소 a rare surname
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

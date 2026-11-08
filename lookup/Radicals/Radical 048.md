@@ -24,6 +24,11 @@ tags: [lookup]
 ### +7 Strokes
 6. <ruby>[差](../../characters/差.md)<rt>ㄑㄚ</rt></ruby> - discriminate
 
+### Forbidden
+- 巪 - 국자: Personal name: 꺽 from 1562
+- 巬 - 국자: Korean-coined hanja for '부' ('worker')
+- 巭 - 국자: Variant of 巬, 부 ('worker')
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

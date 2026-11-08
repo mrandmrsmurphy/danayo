@@ -53,6 +53,9 @@ tags: [lookup]
 - 當 --> 当
 - 㽬 --> 放
 
+### Forbidden
+- 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

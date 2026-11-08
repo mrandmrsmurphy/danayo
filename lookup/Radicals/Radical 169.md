@@ -55,6 +55,9 @@ tags: [lookup]
 ### Aliases
 - 闹 --> 閙
 
+### Forbidden
+- 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

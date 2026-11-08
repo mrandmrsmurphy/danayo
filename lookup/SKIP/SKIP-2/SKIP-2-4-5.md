@@ -35,6 +35,10 @@ tags: [lookup]
 - 㫡 --> 冬
 - 柰 --> 乃
 
+### Forbidden
+- 巼 - 국자: Korean-coined hanja for '팟'; place name
+- 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

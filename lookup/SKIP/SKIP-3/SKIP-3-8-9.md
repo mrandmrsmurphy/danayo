@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[闊](/characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad
 
+### Forbidden
+- 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

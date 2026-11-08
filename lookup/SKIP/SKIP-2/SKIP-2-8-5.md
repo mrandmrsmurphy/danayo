@@ -19,6 +19,11 @@ tags: [lookup]
 7. <ruby>[瑟](characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> "se (instrument)"
 8. <ruby>[雴](/characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> "heavy rain"
 
+### Forbidden
+- 嗭 - 국자: Korean-coined hanja for '짓' (proto-Hangǔl); place name
+- 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
+- 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

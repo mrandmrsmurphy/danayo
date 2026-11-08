@@ -61,6 +61,9 @@ tags: [lookup]
 - 奌 --> 点
 - 㚔 --> 幸
 
+### Forbidden
+- 夻 - 국자: Invented character for 'cod', 구
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

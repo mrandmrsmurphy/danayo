@@ -29,6 +29,9 @@ tags: [lookup]
 ### Aliases
 - 夘 --> 卯
 
+### Forbidden
+- 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -219,6 +219,16 @@ tags: [lookup]
 - 杵 --> 午
 - 榮 --> 栄
 
+### Forbidden
+- 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'
+- 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
+- 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
+- 橴 - 국자: Korean-coined hanja for '자'; place name
+- 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름
+- 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)
+- 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)
+- 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

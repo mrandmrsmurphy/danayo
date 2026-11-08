@@ -17,6 +17,7 @@ tags: [lookup]
 - 乻 - 국자: Korean-coined hanja for '얼' and '늘', used for names and place names
 - 㐠 - 口訣: Korean 구결 for '율'
 - 乼 - 국자: Korean-coined hanja for '줄' (rope), used mainly in place names
+- 㫈 - 국자: Korean-coined hanja for '엉', used for transliteration
 
 ## Datacheck
 ```dataview

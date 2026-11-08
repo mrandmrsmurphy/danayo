@@ -54,6 +54,11 @@ tags:
 - 奌 --> 点
 - 㚔 --> 幸
 
+### Forbidden
+- 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name
+- 彔 - 국자: 'to carve wood' 한문교육용기초한자/이름.  Descendants: 祿 , 緑 , 録
+- 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -36,6 +36,9 @@ tags:
 ### Aliases
 - 导 --> 導
 
+### Forbidden
+- 夻 - 국자: Invented character for 'cod', 구
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

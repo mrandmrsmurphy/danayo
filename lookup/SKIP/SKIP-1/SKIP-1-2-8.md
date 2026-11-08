@@ -42,6 +42,9 @@ tags:
 - 谄 --> 諂
 - 倖 --> 幸
 
+### Forbidden
+- 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

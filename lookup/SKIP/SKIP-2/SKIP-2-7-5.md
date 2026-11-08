@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[禼](/characters/禼.md)<rt>ㄙㄝㄊ</rt></ruby> - insect
 4. <ruby>[貿](/characters/貿.md)<rt>ㄇㄛㄨ</rt></ruby> - commerce
 
+### Forbidden
+- 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

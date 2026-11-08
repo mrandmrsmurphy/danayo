@@ -46,6 +46,9 @@ tags:
 34. <ruby>[𦜝](characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> "navel"
 35. <ruby>[雄](characters/雄%20(char).md)<rt>ㄨㄫ</rt></ruby> "manly"
 
+### Forbidden
+- 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

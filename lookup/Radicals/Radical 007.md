@@ -45,6 +45,9 @@ Note: 三 is organized under Radical 1.
 - 亞 --> variant of 亜
 - forbidden 亟
 
+### Forbidden
+- 亍 - 국자: Korean place names 촉
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

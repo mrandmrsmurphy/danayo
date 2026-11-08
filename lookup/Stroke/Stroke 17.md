@@ -50,6 +50,9 @@ tags:
 - 聲 --> 声
 - 翳 --> 影
 
+### Forbidden
+- 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

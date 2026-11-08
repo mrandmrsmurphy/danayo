@@ -24,6 +24,9 @@ tags:
 - 鱆 --> 章
 - 讃 --> 賛
 
+### Forbidden
+- 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

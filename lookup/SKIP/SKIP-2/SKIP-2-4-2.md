@@ -19,6 +19,9 @@ tags: [lookup]
 ### Aliases
 - 毕 --> 畢
 
+### Forbidden
+- 㪲 - 국자: Korean-coined hanja for '둑', used in personal and place names
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

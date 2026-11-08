@@ -248,6 +248,14 @@ tags: [lookup]
 - 滝 --> 瀧
 - 泷 --> 瀧
 
+### Forbidden
+- 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
+- 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘
+- 㵜 - 국자: 남 (“the tenth note, 남려 (南呂, namnyeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 㶂 - 국자: 황 (“the first note, 황종 (黃鍾, hwangjong) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

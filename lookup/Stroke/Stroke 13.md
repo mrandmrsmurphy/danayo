@@ -64,6 +64,11 @@ tags:
 - 辐 --> 放
 - 滝 --> 瀧
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name
+- 嗭 - 국자: Korean-coined hanja for '짓' (proto-Hangǔl); place name
+- 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
+- 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
+- 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
+- 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker
 
 ## Data check
 ```dataview

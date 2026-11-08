@@ -205,6 +205,8 @@ aliases:
 - 亽 - 口訣: Korean 구결 for '라/다'
 - 仒 - 口訣: Korean 구결 for '샤'
 - 侤 - 국자: Korean for '고'
+- 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
+- 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
 
 ## Data check
 ```dataview

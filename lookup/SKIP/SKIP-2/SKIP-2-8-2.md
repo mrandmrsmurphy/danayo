@@ -16,6 +16,7 @@ tags: [lookup]
 - 鬯 --> 暢
 ### Forbidden
 - 叟 - appears on [[Hyōgai]], but is really just a component in many, many other characters
+- 㫇 - 국자: Korean-coined hanja for '억', used for transliteration
 
 ## Datacheck
 ```dataview

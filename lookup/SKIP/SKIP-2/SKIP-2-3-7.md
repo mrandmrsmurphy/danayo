@@ -42,6 +42,9 @@ tags:
 ### Aliases
 - 羔 --> 皐
 
+### Forbidden
+- 莻 - 국자: 'late' - 늦
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

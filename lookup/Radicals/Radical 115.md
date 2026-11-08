@@ -74,6 +74,9 @@ tags: [lookup]
 - 穐 --> 秋
 - 秌 --> 秋
 
+### Forbidden
+- 䆆 - 국자: dry rice
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN", skip_number AS "SKIP"

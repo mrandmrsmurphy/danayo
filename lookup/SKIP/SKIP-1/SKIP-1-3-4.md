@@ -75,6 +75,9 @@ tags:
 - 纸 --> 紙
 - 忧 --> 憂
 
+### Forbidden
+- 扭 - 官话: Used only in Chinese (Mandarin)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

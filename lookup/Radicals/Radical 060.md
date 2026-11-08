@@ -56,6 +56,9 @@ tags:
 ### Aliases
 - 徵 --> 徴
 
+### Forbidden
+- 㣴 - 국자: Korean-coined hanja for '황' ('the first note, 황종 (黃鐘, hwangjong) of the Shí-èr-lǜ musical scale')
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

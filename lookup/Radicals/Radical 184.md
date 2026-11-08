@@ -52,6 +52,9 @@ tags: [lookup]
 - 饭 --> 飯
 - 饱 --> 飽
 
+### Forbidden
+- 䭏 - 국자: '편'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

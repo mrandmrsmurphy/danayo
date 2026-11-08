@@ -60,6 +60,7 @@ tags:
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+- 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'
 
 ## Datacheck
 ```dataview

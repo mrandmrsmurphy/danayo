@@ -63,6 +63,13 @@ tags:
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan
 - 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
+- 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
+- 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
+- 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
+- 㫇 - 국자: Korean-coined hanja for '억', used for transliteration
+- 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘
+- 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
+- 莻 - 국자: 'late' - 늦
 
 ## Data check
 ```dataview

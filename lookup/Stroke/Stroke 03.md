@@ -33,6 +33,8 @@ tags:
 - 㐉 - 국자: Korean-coined hanja for "slave" or "maid", 절.
 - 㐇 - 국자: Korean-coined hanja for '굴', a personal name; also the name of a dried fish
 - 㐈 - 국자: Korean-coined hanja for '둘'
+- 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)
+- 亍 - 국자: Korean place names 촉
 
 ## Data check
 ```dataview

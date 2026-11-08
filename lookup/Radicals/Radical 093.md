@@ -43,6 +43,9 @@ tags: [lookup]
 ### Aliases
 - 牠 --> 他
 
+### Forbidden
+- 㸴 - 국자: 소 a rare surname
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

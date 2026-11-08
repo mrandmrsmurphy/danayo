@@ -164,6 +164,9 @@ tags: [lookup]
 - 𢦉 --> 空
 - 忧 --> 憂
 
+### Forbidden
+- 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

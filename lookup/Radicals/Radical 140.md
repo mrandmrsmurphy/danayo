@@ -174,6 +174,10 @@ tags:
 - 荣 --> 栄
 - 菏 --> 河
 
+### Forbidden
+- 莻 - 국자: 'late' - 늦
+- 虄 - 국자: '살'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

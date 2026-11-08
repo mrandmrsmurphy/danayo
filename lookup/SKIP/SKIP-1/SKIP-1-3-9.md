@@ -149,6 +149,10 @@ tags:
 - 喃 --> 南
 - 渾 --> 混
 
+### Forbidden
+- 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
+- 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

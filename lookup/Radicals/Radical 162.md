@@ -111,6 +111,9 @@ tags: [lookup]
 - 迴 --> 回
 - 䢠 --> 送
 
+### Forbidden
+- 迲 - 국자: 한문교육용기초한자/이름 - '겁'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

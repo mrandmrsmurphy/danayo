@@ -20,6 +20,9 @@ tags: [lookup]
 ### Aliases
 - 鞦 --> 秋
 
+### Forbidden
+- 䭏 - 국자: '편'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

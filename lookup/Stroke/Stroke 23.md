@@ -21,6 +21,9 @@ tags: [lookup]
 - 鷺 --> 路
 - 髓 --> 髄
 
+### Forbidden
+- 虄 - 국자: '살'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

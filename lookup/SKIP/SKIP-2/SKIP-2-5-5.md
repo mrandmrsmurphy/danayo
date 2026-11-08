@@ -29,7 +29,9 @@ tags: [lookup]
 - 丵
 
 Candidates for this SKIP code not yet present in the database: 祟.
-
+- 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
+- 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
+- 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
 ### Aliases
 - 皋 --> 皐
 

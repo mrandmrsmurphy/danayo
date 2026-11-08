@@ -32,6 +32,9 @@ tags: [lookup]
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+- 㫇 - 국자: Korean-coined hanja for '억', used for transliteration
+- 㫈 - 국자: Korean-coined hanja for '엉', used for transliteration
+- 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
 
 ## Data check
 ```dataview

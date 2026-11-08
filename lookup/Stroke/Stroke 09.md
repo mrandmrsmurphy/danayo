@@ -69,6 +69,14 @@ tags:
 - 㐠 - 口訣: Korean 구결 for '율'
 - 乼 - 국자: Korean-coined hanja for '줄' (rope), used mainly in place names
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+- 巬 - 국자: Korean-coined hanja for '부' ('worker')
+- 巭 - 국자: Variant of 巬, 부 ('worker')
+- 巼 - 국자: Korean-coined hanja for '팟'; place name
+- 㫈 - 국자: Korean-coined hanja for '엉', used for transliteration
+- 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'
+- 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 㸴 - 국자: 소 a rare surname
+- 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
 
 ## Data check
 ```dataview

@@ -103,6 +103,8 @@ tags:
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀
+- 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지
+- 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
 
 ## Datacheck
 ```dataview

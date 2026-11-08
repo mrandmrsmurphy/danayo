@@ -25,6 +25,10 @@ tags: [lookup]
 ### +10 Strokes
 5. <ruby>[斡](../../characters/斡.md)<rt>⺢ㄊ</rt></ruby> - revolve
 
+### Forbidden
+- 㪲 - 국자: Korean-coined hanja for '둑', used in personal and place names
+- 㪳 - 국자: Korean-coined hanja for '둥', seen in names of slaves and maidservants in ancient documents
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

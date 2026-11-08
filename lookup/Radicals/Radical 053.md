@@ -59,6 +59,9 @@ tags:
 - 廚 --> 厨
 - 𢊍 --> 厨
 
+### Forbidden
+- 廤 - 국자: Korean-coined hanja for '곶' ('to place')
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

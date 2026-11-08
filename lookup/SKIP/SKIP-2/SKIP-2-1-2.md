@@ -17,8 +17,8 @@ tags: [lookup]
 - [[Radical 060|彳]] 
 These are both radicals, not characters per se.  
 ### Forbidden
-- 乊 
-- 亍 
+- 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)
+- 亍 - 국자: Korean place names 촉
 
 ## Datacheck
 ```dataview

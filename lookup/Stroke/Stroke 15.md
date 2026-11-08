@@ -57,6 +57,12 @@ tags:
 - 鴈 --> 雁
 - 賣 --> 売
 
+### Forbidden
+- 廤 - 국자: Korean-coined hanja for '곶' ('to place')
+- 㣴 - 국자: Korean-coined hanja for '황' ('the first note, 황종 (黃鐘, hwangjong) of the Shí-èr-lǜ musical scale')
+- 㵜 - 국자: 남 (“the tenth note, 남려 (南呂, namnyeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
+- 獤 - 국자: 돈 (“hide of a marten”)
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

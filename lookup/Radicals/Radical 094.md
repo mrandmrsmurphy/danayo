@@ -93,6 +93,9 @@ tags:
 - 猟 --> 獵
 - 猎 --> 獵
 
+### Forbidden
+- 獤 - 국자: 돈 (“hide of a marten”)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

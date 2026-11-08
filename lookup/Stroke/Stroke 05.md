@@ -43,6 +43,7 @@ tags:
 - 㐏 - 口訣: Korean 구결 for '올'
 - 乧 - 국자: Korean-coined hanja for '둘', used for transliteration. On 単亜語/敎育用基礎漢字/名
 - 厼 - 口訣: Korean 구결 for '이', '며' and '너'
+- 㪳 - 국자: Korean-coined hanja for '둥', seen in names of slaves and maidservants in ancient documents
 
 ## Data check
 ```dataview

@@ -105,6 +105,9 @@ tags: [lookup]
 - 她 --> 他
 - 娚 --> 南
 
+### Forbidden
+- 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

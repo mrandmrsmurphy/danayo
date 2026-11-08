@@ -84,6 +84,9 @@ Radical 1 is 一, the number one.
 - 业 --> 業
 - 𠁈 --> 君
 
+### Forbidden
+- 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl)
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

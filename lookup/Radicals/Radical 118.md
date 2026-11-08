@@ -90,6 +90,9 @@ tags:
 - 筺 --> 筐
 - 筑 --> 築
 
+### Forbidden
+- 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

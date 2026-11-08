@@ -17,6 +17,9 @@ tags:
 ### Aliases
 - 彚 --> 彙
 
+### Forbidden
+- 彔 - 국자: 'to carve wood' 한문교육용기초한자/이름.  Descendants: 祿 , 緑 , 録
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

@@ -63,6 +63,12 @@ tags: [lookup]
 - 註 --> 注
 - 渾 --> 混
 
+### Forbidden
+- 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
+- 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
+- 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
+- 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

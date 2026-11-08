@@ -185,6 +185,13 @@ tags: [lookup]
 - 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
 - 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
 - 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
+- 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
+- 嗭 - 국자: Korean-coined hanja for '짓' (proto-Hangǔl); place name
+- 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name
+- 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
+- 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
+- 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
+- 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
 
 ## Data check
 ```dataview

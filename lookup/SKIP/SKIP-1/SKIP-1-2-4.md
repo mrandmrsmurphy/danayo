@@ -31,6 +31,9 @@ tags:
 - 讽 --> 風
 - 收 --> 収
 
+### Forbidden
+- 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
