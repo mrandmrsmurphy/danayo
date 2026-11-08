@@ -8,7 +8,7 @@ tags: [lookup]
 
 Top component has 6 strokes. Dominant components: 竹, 糸, 艸, 言.
 
-1. none
+1. [SKIP-2-6-1](lookup/SKIP/SKIP-2/SKIP-2-6-1.md): ø
 2. [SKIP-2-6-2](lookup/SKIP/SKIP-2/SKIP-2-6-2.md): 些, 竺, 其, 典, 阜, 券
 3. [SKIP-2-6-3](lookup/SKIP/SKIP-2/SKIP-2-6-3.md): 卑, 型, 変, 契, 姜, 姿, 専, 巻, 弯, 甚, 県, 羿, 臭, 要, 竿
 4. [SKIP-2-6-4](lookup/SKIP/SKIP-2/SKIP-2-6-4.md): 哭, 恐, 恕, 恣, 恩, 恭, 息, 恵, 拳, 晋, 書, 栗, 栾, 桌, 烈, 笑, 脊, 骨, 鬼

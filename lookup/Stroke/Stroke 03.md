@@ -25,6 +25,10 @@ tags:
 - 马 --> 馬
 - 𠃓 --> 昜
 
+### Forbidden
+- 亽 - 口訣: Korean 구결 for '라/다'
+- 卪 - 口訣: Korean 구결 for '절'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

@@ -26,6 +26,9 @@ tags: [lookup]
 - 罗 --> simplified form of 羅
 - 罢 --> simplified form of 罷
 
+### Forbidden
+- 罖 - 口訣: Korean 구결 for '라'
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

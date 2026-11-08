@@ -60,6 +60,9 @@ tags:
 - 㚔 --> 幸
 - 泷 --> 瀧
 
+### Forbidden
+- 罖 - 口訣: Korean 구결 for '라'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

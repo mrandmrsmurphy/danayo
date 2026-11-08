@@ -16,6 +16,9 @@ tags: [lookup]
 - 个 --> 個
 - 𠀃 --> 且
 
+### Forbidden
+- 亽 - 口訣: Korean 구결 for '라/다'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

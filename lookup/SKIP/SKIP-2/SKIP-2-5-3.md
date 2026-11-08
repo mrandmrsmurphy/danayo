@@ -24,6 +24,9 @@ tags: [lookup]
 ### Aliases
 - 靑 --> 青
 
+### Forbidden
+- 罖 - 口訣: Korean 구결 for '라'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

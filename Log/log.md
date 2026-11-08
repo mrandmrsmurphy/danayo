@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Forbidden list, Korean 口訣, first five (亽 仒 罖 亪 卪):** checked each block's strokes, SKIP and radical against Unihan and the Wiktionary IDS; 亪 corrected from 8 strokes / SKIP 2-6-2 to 7 strokes / SKIP 2-6-1 (⿱亦乁); the other four were right. Their `### Forbidden` lines written on Stroke 03, 04, 07, 08, Radical 008, 009, 026, 122 and SKIP 2-2-1, 2-2-2, 2-5-3, 3-2-1; new redirect-only leaf SKIP-2-6-1 (for 亪) with its ø index entry on SKIP-2-6. Authority: Murphy. [AI]
+
+- **New `AIOS/scripts/forbidden_tool.py`, and 丷 as the first Forbidden demo:** the helper parses `文法 - 98違法字`, reports incomplete entries and class labels, and writes `- X - CLASS: comment` lines (no replacement arrow) into the `### Forbidden` section of the Stroke, Radical and SKIP pages, refusing any entry with a blank, `?` or `check` field or a class outside its provisional ALLOWED list. 丷 demo: confirmed 2 strokes, radical 丶 (#3) via Unihan and SKIP 1-1-1, cleared its two `check` marks, and wrote `丷 - 口訣: Korean 구결 for '하다'` on Stroke 02, Radical 003 and SKIP-1-1-1 (Stroke 02 had no entry before). The class list is not yet agreed. Authority: Murphy. [AI]
+
 - **`文法 - 98違法字`: SKIP notation unified to dashes:** 209 `- SKIP:` lines written `a/b/c` now read `a-b-c` (29 Chinese, 84 Japanese, all 96 Korean), matching the rest of the vault; also removed a stray trailing slash on 乺. Unknown values (`1-11-?` on 𫠍, blanks) are left as they were. First step of putting `### Forbidden` sections on the Stroke, Radical and SKIP pages. Authority: Murphy. [AI]
 
 - **`alias_tool.py apply` now sets `mc_id` itself:** Murphy ruled that `mc_id` is the minimum rank among the character and all its aliases, with no "should be" sentences. The script writes that minimum into the frontmatter, rewrites the Notes rank bullet when an alias supplies it (warning if the bullet's wording is unusual), and the alias paragraphs now state plainly whether the alias sets the rank. [AI]

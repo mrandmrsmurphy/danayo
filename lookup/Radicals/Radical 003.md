@@ -16,7 +16,7 @@ tags: [lookup]
 ### Aliases
 - 丼 --> 井
 ### Forbidden
-- 丷 --> Korean 구결 for '하다'
+- 丷 - 口訣: Korean 구결 for '하다'
 ### Other
 - [叉](../../characters/叉%20(char).md) has a 'dot' in it, but isn't listed under this radical.
 - 丶 --> 主

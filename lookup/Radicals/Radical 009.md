@@ -201,6 +201,10 @@ aliases:
 - 傢 --> 家
 - 倖 --> 幸
 
+### Forbidden
+- 亽 - 口訣: Korean 구결 for '라/다'
+- 仒 - 口訣: Korean 구결 for '샤'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

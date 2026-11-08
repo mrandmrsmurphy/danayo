@@ -52,6 +52,9 @@ tags:
 - 忧 --> 憂
 - 邨 --> 村
 
+### Forbidden
+- 亪 - 口訣: Korean 구결 for '란/난/역'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

@@ -32,6 +32,9 @@ tags: [lookup]
 - 卬 --> 卯
 - 卽 --> 即
 
+### Forbidden
+- 卪 - 口訣: Korean 구결 for '절'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

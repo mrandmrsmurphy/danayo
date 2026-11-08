@@ -35,6 +35,9 @@ tags: [lookup]
 ### +11 Strokes
 11. <ruby>[亶](../../characters/亶.md)<rt>ㄉㄚㄋ</rt></ruby> - sincere
 
+### Forbidden
+- 亪 - 口訣: Korean 구결 for '란/난/역'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

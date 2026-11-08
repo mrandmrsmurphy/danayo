@@ -31,6 +31,9 @@ tags: [lookup]
 - 㕛 --> 友
 - 攵 --> 攴
 
+### Forbidden
+- 仒 - 口訣: Korean 구결 for '샤'
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

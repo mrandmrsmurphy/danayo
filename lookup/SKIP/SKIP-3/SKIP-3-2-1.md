@@ -19,6 +19,9 @@ tags: [lookup]
 ### Aliases
 - 马 --> 馬
 
+### Forbidden
+- 卪 - 口訣: Korean 구결 for '절'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

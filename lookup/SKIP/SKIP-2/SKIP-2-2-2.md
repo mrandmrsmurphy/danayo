@@ -33,6 +33,9 @@ tags: [lookup]
 ### Aliases
 - 攵 --> 攴
 
+### Forbidden
+- 仒 - 口訣: Korean 구결 for '샤'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

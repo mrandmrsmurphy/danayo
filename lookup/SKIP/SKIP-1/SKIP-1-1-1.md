@@ -16,7 +16,7 @@ tags: [lookup]
 - 刂 --> Radical 018, from 刀
 - 儿 --> 児
 ### Forbidden
-- 丷 --> A Korean 口訣 for '하다'.
+- 丷 - 口訣: Korean 구결 for '하다'
 
 ## Datacheck
 ```dataview
