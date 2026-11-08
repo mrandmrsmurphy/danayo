@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **No links from human pages to AIOS or to assistant memory notes:** removed `feedback_cranberry_transitivity` links and the dated "Reading overridden (2026-07-12)" history bullets from 檬 and 檸; removed links to `AIOS/memory/…` from `韻 東一` and `聲 娘`; removed `[[feedback_character_inclusion_philosophy]]` from 恐恐; removed AIOS checklist links from `Kinship`, `Lexipedia` and `Design Philosophy`. Left as is for now: `README.md` and `CONTRIBUTING.md`, which are repository documents that point contributors at AIOS. Authority: 武明帥.
+
+- **Leaked memory references removed:** five pages (権 歓 灌 私 鸛) carried `[[feedback_alias_parent_form]]`, the name of an assistant memory note, plus "correction to a correction" history, in their Notes; the process commentary and history were deleted, and 灌 now links its phonetic as `[[鸛|雚]]`. 鸛's one-line Derived Characters preface removed. Authority: 武明帥.
+
+- **倝 made an alias of 幹, and 幹 the derived-character hub for 倝:** 幹 gained `## Aliases` (倝: SKIP 1-8-2 from EDRDG, 10 strokes, Radical 009 +8, redirects on Stroke 10, SKIP-1-8-2 and Radical 009) and `## Derived Characters` (乾, 戟, 斡, 韓); the four `[[倝]]` red links now read `[[幹|倝]]`. Reason: 倝 reads gàn like 幹, is its phonetic (幹 was originally 榦 = 倝 + 木), and 戟's bullet already glosses 倝 as an abbreviation of 榦. 幹's other fields not yet re-perfected, date-last-perfect untouched. Authority: 武明帥.
+
+- **Broken-link cleanup, first genuine missing character:** `[[柎]]` in 不 made plain text. New rule in `checklist_characters.md`: an obscure etymology component with no page is plain text, never a red link. Authority: 武明帥.
+
+- **Broken-link cleanup, third pass (aliases listed on two characters):** 睪 in 釈 → [[睾|睪]]; 鎚 in Hyōgai → [[槌 (char)|鎚]]; 柰 in Korean Name ㄴ (2 links) → [[奈|柰]]. Each parent chosen by context. The double alias listings themselves were left in place. Authority: 武明帥.
+
 - **Broken-link cleanup, second pass ((char) suffix):** 64 targets of the form `[[X (char)]]` whose file is plain `characters/X.md` were repointed to `[[X]]` (display text kept): 77 links in 76 pages. Authority: 武明帥.
 
 - **Broken-link cleanup, first pass (aliases and radicals):** every red link in `broken links output.md` that pointed at a known alias was repointed to the parent with the glyph kept as display text (`[[殺 (char)|杀]]`, 134 targets), and every bare radical glyph went to its Radical page (`[[Radical 191|鬥]]`, 22 targets): 243 links across 242 page-edits. Left alone: `Sorted Missing Characters` (a list of missing characters by design) and 3 ambiguous aliases (睪, 鎚, 柰). Authority: 武明帥.

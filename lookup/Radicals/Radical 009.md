@@ -151,6 +151,7 @@ aliases:
 - 倡 --> 唱
 - ¡倻! - 違法字
 - ¡們! - 違法字
+- 倝 --> 幹
 
 ### +9 Strokes
 102. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary

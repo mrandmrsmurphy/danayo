@@ -34,7 +34,7 @@ The character base follows the intersection of three educational standards: Japa
 
 ## Characters are building blocks, words are the vocabulary
 
-A character is a bound unit with readings, strokes and a radical; it is not itself a lexical entry. The vocabulary lives in `words/`, and words are mostly compounds, though a word may be as small as one character. A character that cannot stand alone is given a stand-in word that carries its meaning, so that every character has a usable form. See [vault-structure](AIOS/vault-structure.md).
+A character is a bound unit with readings, strokes and a radical; it is not itself a lexical entry. The vocabulary lives in `words/`, and words are mostly compounds, though a word may be as small as one character. A character that cannot stand alone is given a stand-in word that carries its meaning, so that every character has a usable form.
 
 ## One authority for each reading
 

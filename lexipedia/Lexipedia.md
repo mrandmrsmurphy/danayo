@@ -4,7 +4,6 @@ language: English
 ## Lexipedia
 Rosenfelder's helpful book
 
-See [[AIOS/checklists/checklist_lexipedia|the lexipedia checklist]] for the standard template and completion rubric before creating or expanding a domain page below.
 
 * [[lexipedia/Animals]]
 * [[lexipedia/Art]]
