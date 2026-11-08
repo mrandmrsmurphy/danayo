@@ -4,6 +4,22 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **淹 entry removed from 奄's Derived Characters:** 淹 is already 奄's alias (the HSK, Korean Name and CC lists point it at 奄), so the red-link entry was circular. Authority: 武明帥.
+
+- **妟 de-linked on 堰:** the red link `[[妟]]` (obsolete "bright sunrise"; root of the 妟→匽→偃→堰 phonetic series) is now plain text, matching 宴. Authority: 武明帥.
+
+- **臤 de-linked on 堅 and 賢:** the red links `[[臤]]` (obsolete "firm"; phonetic of 堅, 賢, 腎, 緊, 豎) are now plain text, matching 腎, 緊 and 豎; "no vault page" tag dropped on 堅. Authority: 武明帥.
+
+- **㯻 de-linked on 嚢:** the red link `[[㯻]]` (the abbreviated semantic component, "bag") is now plain text, per the rule for obscure page-less etymology components. Authority: 武明帥.
+
+- **觜 de-linked on 嘴:** the red link `[[觜]]` (phonetic of 嘴; a live character, "beak") is now plain text, with no page created. Authority: 武明帥.
+
+- **㐭 de-linked on 嗇 and 稟:** the red links `[[㐭]]` (original form of 廩, "granary") are now plain text, matching 亶 and the List of 会意; no page exists for 廩/廪 to serve as a hub. Authority: 武明帥.
+
+- **㲃 de-linked on 厩:** the red link `[[㲃]]` (obscure phonetic of 廄) is now plain text, per the rule for obscure page-less etymology components. Authority: 武明帥.
+
+- **歬 de-linked on 前 (char):** the red link `[[歬]]` (original form of 前: 止 + 舟) is now plain text, per the rule for obscure page-less etymology components. Authority: 武明帥.
+
 - **畾 made an alias of 雷, and 雷 the derived-character hub for 畾:** 雷 (char) gained `## Aliases` for 畾 (SKIP 2-5-10 from EDRDG, 15 strokes, Radical 102 +10) and for its existing alias 蕾 (a separate character, 2-3-13), with redirects; `## Derived Characters` extended to 儡, 塁, 累, 畳; the "no vault page" notes on 儡, 塁, 累, 畳 and the List of 会意 now link `[[雷 (char)|畾]]`. Reason: Wiktionary lists 畾 as an alternate form of 雷 (same reading léi). Authority: 武明帥.
 
 - **畺 made an alias of 疆, and 疆 the derived-character hub for 畺:** 疆 gained `aliases: 畺`, `## Aliases` (SKIP 2-1-12 from EDRDG, 13 strokes, Radical 102 +5, redirects on Stroke 13, SKIP-2-1-12 and Radical 102) and `## Derived Characters` (僵, 強 via its alias 彊, 姜 via its alias 薑); `[[畺]]` red links in 僵, 疆 and Korean Name ㄱ now `[[疆|畺]]`. Reason: 畺 is the original form of 疆, same reading, and the phonetic of 僵. 疆's other fields not re-perfected, stamp untouched. Authority: 武明帥.
