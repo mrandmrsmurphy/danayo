@@ -21,7 +21,7 @@ Checked for redirects
 [插](characters/挿.md) [[澁]] [[鈒]] [颯 (char)](characters/颯%20(char).md) [霅](characters/霅.md)
 
 ### 상  
-[[庠]] [湘](characters/湘.md) [箱 (char)](characters/箱%20(char).md) [翔](characters/翔.md) [爽](characters/爽.md) [[塽]] [[孀]] [[峠]] [[廂]] [[橡]] [[觴]] [樣](characters/様%20(char).md) [[牀]] [[慡]] [[潒]] 
+[[庠]] [湘](characters/湘.md) [箱 (char)](characters/箱%20(char).md) [翔](characters/翔.md) [爽](characters/爽.md) [[塽]] [[孀]] 峠 [[廂]] [[橡]] [[觴]] [樣](characters/様%20(char).md) [[牀]] [[慡]] [[潒]] 
 
 ### 새 
 [璽](characters/璽.md) [賽](characters/賽.md) 

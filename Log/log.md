@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Radical 075 migrated to the in-group standard and its dead link fixed:** the link to 楢 pointed at `楢 (char).md` (the file is `楢.md`); the bottom `### Aliases` (12) and `### Forbidden` (39) sections were moved into the `+N Strokes` groups, and the forbidden lines shortened from the long class-and-comment form to `- ¡X! - 違法字` (class and notes remain on 文法 - 98違法字). The 162 numbered entries are unchanged. Authority: 武明帥.
+
+- **Four more obscure etymology components de-linked:** 𥁑 (謐), 肁 (肇), 鬳 (献) and 兟 (賛): each `[[X]]` red link, a bare phonetic component in a 形声 note, is now plain text. Authority: 武明帥.
+
+- **Forbidden characters removed from Sorted Missing Characters:** the 99 characters on 文法 - 98違法字 are deleted from the page (with their separators and any emptied groups); every other entry is untouched. They are not missing, being forbidden by design. Authority: 武明帥.
+
+- **No links to forbidden characters:** the 266 red links to characters on 文法 - 98違法字 are now plain text: Old HSK 2 (40), 3 (37), 4 (29), 5 (18) and 6 (23); Hyōgai (15); Korean Name ㄷ, ㅁ, ㅅ and ㅈ (5); and Sorted Missing Characters (99). Rule: a forbidden character is never linked (it has no page and never will). Authority: 武明帥.
+
+- **"護 not checked" flags deleted from 文法 - 91疑義語:** 護 has a character page ("safeguard, protect") and the vault word 看護 already uses 看 + 護 for "to nurse", so the component is confirmed. Authority: 武明帥.
+
+- **Mis-pointed links fixed:** in 文法 - 91疑義語 the links to 護 and 診 went to non-existent `words/護` and `words/診` and now go to `characters/護` and `characters/診`; in Korean Name ㅈ the link to 笛 now goes to `笛 (char)`; in lessons/lesson-outline the link to the `translation/` folder (not a page) is plain text. Authority: 武明帥.
+
+- **Links from character pages to 文法 - 98違法字 removed:** the heading links of the form `[[文法 - 98違法字#X|X]]` and the "see/per [[文法 - 98違法字]]" pointers on 22 character pages (並, 剝, 叢, 哉, 嫂, 復, 捜, 極, 歴, 痩, 獲, 穫, 腹, 虱, 裁, 複, 訊, 載, 迅, 迥, 麻, 録) are now plain text that simply says the character is forbidden; 録 gained "a forbidden character" on 彔. Rule: character pages say a character is forbidden without linking the list. Authority: 武明帥.
+
 - **彔 on 録 linked to its forbidden-list entry:** the red link `[[彔]]` is now `[[文法 - 98違法字#彔|彔]]`, the form 剝 already uses. Authority: user request 2026-11-08.
 
 - **Dead `> [[Lookup]]` breadcrumb removed from lookup/Characters and lookup/Words:** no `Lookup` page exists, and the other lookup index pages carry no up-link. Authority: 武明帥.

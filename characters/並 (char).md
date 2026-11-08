@@ -64,4 +64,4 @@ boundedness: 90
 - <ruby>[[拼]]<rt>ㄅㄚㄫ</rt></ruby> "spell; piece together"
 - <ruby>[[瓶 (char)|瓶]]<rt>ㄅㄝㄫ</rt></ruby> "jug; bottle; pot"
 - <ruby>[[餅 (char)|餅]]<rt>ㄅㄧㄫ</rt></ruby> "pastry; cake"
-- 碰 is a permanently forbidden character (see [[文法 - 98違法字]]) despite its 石+並 composition and valid SKIP/stroke/radical data — a recent colloquial coinage, not admitted.
+- 碰 is a permanently forbidden character despite its 石+並 composition and valid SKIP/stroke/radical data — a recent colloquial coinage, not admitted.

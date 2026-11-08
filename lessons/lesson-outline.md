@@ -598,4 +598,4 @@ This curriculum guides learners from **sound → characters → basic sentences 
 
 ## PLANNED: The Reader
 
-The reader will be part of the lessons, not a separate book. Once the lessons are complete, it will serve as a roadmap for advanced learners to navigate the [`translation/`](../translation) folder (Analects, Zhuangzi, Dao De Jing, Art of War, Shijing, modern essays, etc.), ordering the texts by difficulty. Not yet started.
+The reader will be part of the lessons, not a separate book. Once the lessons are complete, it will serve as a roadmap for advanced learners to navigate the `translation/` folder (Analects, Zhuangzi, Dao De Jing, Art of War, Shijing, modern essays, etc.), ordering the texts by difficulty. Not yet started.

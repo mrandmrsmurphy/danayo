@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[木](../../characters/木%20(char).md)<rt>ㄇㄛㄎ</rt></ruby> - tree
+- ¡朩! - 違法字
 
 ### +1 Stroke
 2. <ruby>[未](../../characters/未%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> - not yet
@@ -26,6 +27,7 @@ tags: [lookup]
 9. <ruby>[朶](../../characters/朶.md)<rt>ㄉㄚ</rt></ruby> - flower blossom
 10. <ruby>[机](../../characters/机.md)<rt>ㄍㄧㄜ</rt></ruby> - opportunity
 11. <ruby>[朽](../../characters/朽.md)<rt>ㄏ⼜</rt></ruby> - decay
+- ¡杁! - 違法字
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod
@@ -40,6 +42,9 @@ tags: [lookup]
 21. <ruby>[束](../../characters/束%20(char).md)<rt>ㄙ⼄ㄎ</rt></ruby> - bundle
 22. <ruby>[条](../../characters/条%20(char).md)<rt>ㄐㄛ</rt></ruby> - long, thin object (classifier)
 23. <ruby>[来](../../characters/来%20(char).md)<rt>ㄌㄚㄧ</rt></ruby> - come
+- ¡杣! - 違法字
+- ¡𣏒! - 違法字
+- ¡杢! - 違法字
 
 ### +4 Strokes
 24. <ruby>[杪](../../characters/杪.md)<rt>ㄇ⼄</rt></ruby> - treetop
@@ -55,6 +60,12 @@ tags: [lookup]
 34. <ruby>[枚](../../characters/枚%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> - sheets of
 35. <ruby>[枝](../../characters/枝.md)<rt>ㄐㄝ</rt></ruby> - branch
 36. <ruby>[枢](../../characters/枢%20(char).md)<rt>ㄑㄨ</rt></ruby> - hinge
+- 杵 --> 午
+- 极 --> 極
+- 枇 --> 比
+- ¡㭐! - 違法字
+- ¡枡! - 違法字
+- ¡枠! - 違法字
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
@@ -80,6 +91,12 @@ tags: [lookup]
 57. <ruby>[柿](../../characters/柿.md)<rt>ㄙㄜ</rt></ruby> - persimmon
 58. <ruby>[栃](../../characters/栃.md)<rt>ㄌㄝㄎ</rt></ruby> - horse chestnut
 59. <ruby>[栄](../../characters/栄.md)<rt>ㄨㄧㄫ</rt></ruby> - honorable
+- 枽 --> 枼
+- 柰 --> 乃
+- 枸 --> 句
+- ¡栍! - 違法字
+- ¡栊! - 違法字
+- ¡𪱻! - 違法字
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -104,6 +121,9 @@ tags: [lookup]
 79. <ruby>[桟](../../characters/桟.md)<rt>ㄐㄚㄋ</rt></ruby> - inn
 80. <ruby>[桧](../../characters/桧.md)<rt>ㄍ⺢ㄧ</rt></ruby> - tree kind
 81. <ruby>[梅](../../characters/梅.md)<rt>ㄇㄛㄧ</rt></ruby> - plum
+- 桥 --> 橋
+- ¡桛! - 違法字
+- ¡桝! - 違法字
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail
@@ -117,6 +137,9 @@ tags: [lookup]
 90. <ruby>[械](../../characters/械.md)<rt>ㄏ⼶</rt></ruby> - tool
 91. <ruby>[梳](../../characters/梳%20(char).md)<rt>ㄙㄛ</rt></ruby> - comb
 92. <ruby>[梶](../../characters/梶.md)<rt>ㄇㄨㄧ</rt></ruby> - oar
+- ¡梻! - 違法字
+- ¡梺! - 違法字
+- ¡椛! - 違法字
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -137,6 +160,13 @@ tags: [lookup]
 108. <ruby>[椒](../../characters/椒.md)<rt>ㄐㄛㄨ</rt></ruby> - pepper
 109. <ruby>[検](../../characters/検.md)<rt>ㄍㄝㄇ</rt></ruby> - examine
 110. <ruby>[極](../../characters/極%20(char).md)<rt>ㄍㄧㄎ</rt></ruby> - extreme
+- ¡椧! - 違法字
+- ¡棵! - 違法字
+- ¡椦! - 違法字
+- ¡椙! - 違法字
+- ¡椣! - 違法字
+- ¡椥! - 違法字
+- ¡﨓! - 違法字
 
 ### +9 Strokes
 111. <ruby>[棄](../../characters/棄.md)<rt>ㄎㄧㄜ</rt></ruby> - abandon
@@ -148,13 +178,16 @@ tags: [lookup]
 117. <ruby>[楕](../../characters/楕.md)<rt>ㄊㄚ</rt></ruby> - oval
 118. <ruby>[楚](../../characters/楚.md)<rt>ㄑㄛ</rt></ruby> - clear
 119. <ruby>[楠](../../characters/楠.md)<rt>ㄋㄚㄇ</rt></ruby> - camphor tree
-120. <ruby>[楢](../../characters/楢%20(char).md)<rt>⼜ㄛ</rt></ruby> - oak
+120. <ruby>[楢](../../characters/楢.md)<rt>⼜ㄛ</rt></ruby> - oak
 121. <ruby>[業](../../characters/業%20(char).md)<rt>ㄝㄆ</rt></ruby> - profession
 122. <ruby>[楷](../../characters/楷%20(char).md)<rt>ㄎ⼶</rt></ruby> - model
 123. <ruby>[楼](../../characters/楼.md)<rt>ㄌㄛㄨ</rt></ruby> - watchtower
 124. <ruby>[楽](../../characters/楽.md)<rt>ㄌㄚㄎ</rt></ruby> - pleasure
 125. <ruby>[榔](../../characters/榔.md)<rt>ㄌㄚㄫ</rt></ruby> - betel
 126. <ruby>[槌](../../characters/槌%20(char).md)<rt>ㄐ⼔ㄧ</rt></ruby> - hammer
+- ¡榌! - 違法字
+- ¡榁! - 違法字
+- ¡榊! - 違法字
 
 ### +10 Strokes
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea
@@ -168,6 +201,12 @@ tags: [lookup]
 135. <ruby>[樺](../../characters/樺.md)<rt>ㄏ⺢</rt></ruby> - birch
 
 136. <ruby>[榜](../../characters/榜.md)<rt>ㄆㄚㄫ</rt></ruby> - posted list
+- 槕 --> 桌
+- 榎 --> 夏
+- 樋 --> 通
+- 榮 --> 栄
+- ¡槞! - 違法字
+- ¡𪳤! - 違法字
 
 ### +11 Strokes
 137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
@@ -176,6 +215,7 @@ tags: [lookup]
 140. <ruby>[樟](../../characters/樟.md)<rt>ㄐㄚㄫ</rt></ruby> - camphor tree
 141. <ruby>[権](../../characters/権.md)<rt>ㄍ⼔ㄋ</rt></ruby> - power
 142. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - crossing horizontally
+- ¡樰! - 違法字
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant
@@ -185,12 +225,17 @@ tags: [lookup]
 147. <ruby>[橐](../../characters/橐.md)<rt>ㄊㄚㄎ</rt></ruby> - bag open at both ends
 148. <ruby>[橘](../../characters/橘%20(char).md)<rt>ㄍ⼜ㄊ</rt></ruby> - tangerine
 149. <ruby>[橙](../../characters/橙.md)<rt>ㄉㄨㄫ</rt></ruby> - orange
+- ¡橴! - 違法字
+- ¡橳! - 違法字
+- ¡樫! - 違法字
+- ¡橸! - 違法字
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
 151. <ruby>[檗](../../characters/檗.md)<rt>ㄅㄚㄎ</rt></ruby> - amur cork tree
 152. <ruby>[檠](../../characters/檠.md)<rt>ㄍㄧㄫ</rt></ruby> - lampstand
 153. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
+- ¡檪! - 違法字
 
 ### +14 Strokes
 154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄋ</rt></ruby> - lemon
@@ -199,9 +244,20 @@ tags: [lookup]
 157. <ruby>[櫂](../../characters/櫂.md)<rt>ㄊㄛㄨ</rt></ruby> - oar
 158. <ruby>[櫃](../../characters/櫃%20(char).md)<rt>ㄍ⼔</rt></ruby> - cabinet
 159. <ruby>[檻](../../characters/檻%20(char).md)<rt>ㄏ⼘ㄇ</rt></ruby> - cage
+- 檯 --> 台
+
+### +16 Strokes
+- ¡櫳! - 違法字
 
 ### +17 Strokes
 160. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
+- ¡欌! - 違法字
+
+### +18 Strokes
+- ¡櫷! - 違法字
+
+### +20 Strokes
+- ¡欕! - 違法字
 
 ### +21 Strokes
 161. <ruby>[欖](../../characters/欖.md)<rt>ㄌㄚㄇ</rt></ruby> - olive
@@ -209,60 +265,8 @@ tags: [lookup]
 ### +22 Strokes
 162. <ruby>[欝](../../characters/欝.md)<rt>⼜ㄊ</rt></ruby> - dense
 
-### Aliases
-- 枽 --> 枼
-- 柰 --> 乃
-- 槕 --> 桌
-- 檯 --> 台
-- 榎 --> 夏
-- 樋 --> 通
-- 杵 --> 午
-- 榮 --> 栄
-- 枸 --> 句
-- 极 --> 極
-- 桥 --> 橋
-- 枇 --> 比
-
-### Forbidden
-- 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'
-- 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
-- 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
-- 橴 - 국자: Korean-coined hanja for '자'; place name
-- 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름
-- 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)
-- 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)
-- 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
-- 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
-- 朩 - 国字: Origin of katakana ホ.
-- 杁 - 国字: Only used for place names in Aichi prefecture, such as 杁中 (Irinaka). The original meaning is a gutter buried in an embankment to adjust the amount of water.
-- 杣 - 国字: 'lumberjack' Use 樵夫.
-- 椦 - 幽霊文字: 'bowl' also 棬
-- 槞 - 幽霊文字: A ghost character, present in the original JIS X 0208 through bad digitization
-- 櫳 - 異体字: cage, lattice (㰍)
-- 栊 - 異体字: cage, lattice
-- 梻 - 国字: Japanese-coined; a tree whose branches are placed on Buddhist graves.
-- 榁 - 国字: Juniperus rigida.
-- 樰 - 国字: Japanese tree name.
-- 橳 - 国字: Japanese only.  Use 勝 for place names.
-- 檪 - 異体字: Variant of 櫟, 'chestnut-leaved oak'; the oak used for charcoal
-- 欟 - 異体字: Zelkova tree; a rare form
-- 𣏒 - 国字: Name of a place in Nakayamamoto, Tanagura, Fukushima; the reading comes from くるみ, 'walnut'
-- 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝
-- 𪱻 - 国字: An alternative form of 榎
-- 桛 - 国字: 'reel, hank, skein'; an alternative form of 綛
-- 梺 - 国字: 'foot of a hill', 'foothill'
-- 椙 - 国字: 'Japanese cedar' (Cryptomeria japonica)
-- 椣 - 国字: 'hornbeam'; also used in the place name Shidehara, Nara Prefecture
-- 椥 - 国字: 'Nageia nagi'; used in place names in Kyoto Prefecture
-- 﨓 - 国字: An alternative form of 椨
-- 𪳤 - 国字: 国字 (木 + 造); Wiktionary records no definition
-- 杢 - 国字: "Woodworker."
-- 枠 - 国字: Japanese-coined character.  常用漢字/高等.
-- 桝 - 国字: A 'masu', a Japanese measuring box.
-- 椛 - 国字: A Japanese-coined character for a type of birch.  Substitute 花.  Variants 樺, 桦.  On 日本人名用漢字
-- 榊 - 国字: Japanese-invented character, "sakaki".
-- 樫 - 国字: "evergreen oak" , variant 㭴, sound from 堅, on 人名用漢字
-- 橸 - 国字: Straight-grained wood.
+### +24 Strokes
+- ¡欟! - 違法字
 
 ## Data check
 ```dataview

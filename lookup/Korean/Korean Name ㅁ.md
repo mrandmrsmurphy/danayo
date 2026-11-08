@@ -66,7 +66,7 @@ These have been checked for redirects.
 [[沕]]
 
 ### 미 
-[[渼]] [薇](characters/薇.md) [彌](characters/弥%20(char).md) [[嵄]] [[媄]] [媚](characters/眉%20(char).md) [嵋](characters/眉%20(char).md) [梶](characters/梶.md) [[楣]] [[湄]] [謎 (char)](characters/謎%20(char).md) [靡](characters/靡.md) [[黴]] [[躾]] [[媺]] [[濔]] [[煝]] [[娓]] [[洣]] [[侎]] [[瑂]]  
+[[渼]] [薇](characters/薇.md) [彌](characters/弥%20(char).md) [[嵄]] [[媄]] [媚](characters/眉%20(char).md) [嵋](characters/眉%20(char).md) [梶](characters/梶.md) [[楣]] [[湄]] [謎 (char)](characters/謎%20(char).md) [靡](characters/靡.md) [[黴]] 躾 [[媺]] [[濔]] [[煝]] [[娓]] [[洣]] [[侎]] [[瑂]]  
 
 ### 민 
 [[玟]] [旻](characters/旻.md) [旼](characters/旻.md) [閔](characters/閔.md) [珉](characters/珉.md) [[民|岷]] [[忞]] [[慜]] [[敃]] [[憫 (char)|愍]] [[潣]] [暋](characters/暋.md) [[䪸]] [[泯]] [悶](characters/悶.md) [[緡]] [[𩔉]] [[鍲]] [[吻|脗]] [[閩]] [[盿]]

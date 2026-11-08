@@ -32,6 +32,7 @@ aliases:
   - 鬀
   - 鬄
   - 薙
+  - 剔
 注音: "ㄊㄝㄧ"
 kwin: false
 tags:

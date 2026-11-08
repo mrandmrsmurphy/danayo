@@ -33,7 +33,7 @@ These have been checked for redirects
 [氐](../../characters/氐.md) [[苧]] [邸](characters/邸.md) [[楮]] [沮](characters/祖.md) [佇](characters/佇.md) [儲](characters/儲.md) [[嘴|咀]] [姐](characters/姉%20(char).md) [杵](../../characters/%E5%8D%88.md) [[樗]] [渚](characters/渚.md) [狙](characters/狙.md) [猪](characters/猪.md) [疽](characters/疽.md) [箸 (char)](characters/箸%20(char).md) [[紵]] [[菹]] [藷](characters/藷.md) [詛](characters/詛.md) [[着 (char)|躇]] [這](characters/這.md) [雎](characters/狙.md) [[齟]] 
 
 ### 적
-[迪](characters/迪.md) [[勣]] [吊](characters/弔%20(char).md) [嫡 (char)](characters/嫡%20(char).md) [[狄]] [[炙]] [翟](characters/翟.md) [荻](characters/荻.md) [[謫]] [迹](characters/跡.md) [[鏑]] [笛](characters/笛.md) [蹟](characters/跡.md) 
+[迪](characters/迪.md) [[勣]] [吊](characters/弔%20(char).md) [嫡 (char)](characters/嫡%20(char).md) [[狄]] [[炙]] [翟](characters/翟.md) [荻](characters/荻.md) [[謫]] [迹](characters/跡.md) [[鏑]] [笛 (char)](characters/笛%20(char).md) [蹟](characters/跡.md) 
 
 ### 전
 [[佺]] [栓 (char)](characters/栓%20(char).md) [詮](characters/詮.md) [銓](characters/選.md) [[琠]] [甸](characters/田.md) [塡](characters/填%20(char).md) [奠](characters/鄭.md) [[荃]] [[雋]] [顚](characters/顚.md) [佃](characters/佃.md) [剪 (char)](characters/剪%20(char).md) [塼](characters/磚.md) [[廛]] [磚](characters/磚.md) [[悛]] [[氈]] [澱](characters/淀.md) [煎](characters/煎.md) !畑! [癲](characters/顚.md) [[筌]] [箋](characters/箋.md) [箭](characters/箭.md) [篆](characters/篆.md) [纏](characters/纏.md) [[輾]] [鈿](characters/鈿.md) [[鐫]] [顫](../../characters/振%20(char).md) [[餞]] 
@@ -42,7 +42,7 @@ These have been checked for redirects
 [[晢]] [截](characters/截.md) [[浙]] [[癤]] 
 
 ### 점
-[[岾]] [粘 (char)](characters/粘%20(char).md) [[霑]]-->沾 [鮎 (char)](characters/鮎%20(char).md) [墊 (char)](characters/墊%20(char).md)
+岾 [粘 (char)](characters/粘%20(char).md) [[霑]]-->沾 [鮎 (char)](characters/鮎%20(char).md) [墊 (char)](characters/墊%20(char).md)
 
 ### 접
 [摺](characters/折.md) 
