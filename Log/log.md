@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 害 perfected to the current standard:** added OC \*ɡaːds (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 356 confirmed; word verified. [AI]
+
+- **Character loop, 室 perfected to the current standard:** corrected the OC on the graphemic bullet to 室's own \*hliɡ per en.Wiktionary (the page had \*hli[t]s, \*tjiɡs, mixing in the phonetic), with 至's \*tjiɡs now beside the phonetic; no aliases, so no `## Aliases` section; `mc_id` 333 confirmed; word verified. [AI]
+
 - **Character loop, 定 perfected to the current standard:** added OC \*teːŋs, \*deːŋs (and the phonetic 正's \*tjeŋ, \*tjeŋs) from en.Wiktionary to the graphemic bullet; `## Aliases` section for the rare variant 㝎 (SKIP 2-3-4 computed, 7 strokes, bare mention) with redirects; `mc_id` 250 confirmed. [AI]
 
 - **Character loop, 官 perfected to the current standard:** added OC \*koːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 177 confirmed; word verified. [AI]
