@@ -61,6 +61,8 @@ tags: [lookup]
 - 辆 --> 両
 - 輌 --> 両
 - 䢁 --> 朝
+- 輕 --> 軽
+- 轻 --> 軽
 
 ### Forbidden
 - 𨋳 - 国字: 'seat of a carriage'

@@ -60,6 +60,9 @@ tags: [lookup]
 ### +12 Strokes
 29. <ruby>[顧](../../characters/顧.md)<rt>ㄍㄛ</rt></ruby> - look after
 
+### Aliases
+- 頽 --> 退
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

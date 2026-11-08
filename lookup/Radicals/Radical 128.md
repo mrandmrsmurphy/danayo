@@ -48,6 +48,8 @@ tags: [lookup]
 
 ### Aliases
 - 聲 --> 声
+- 聯 --> 連
+- 联 --> 連
 
 ## Data check
 ```dataview

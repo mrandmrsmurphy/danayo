@@ -29,7 +29,7 @@ mc_id: 1371
 graphemic_classification: "象形"
 stand_in: "豆"
 注音: "ㄉㄛㄨ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -44,7 +44,7 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): some kind of container. Borrowed phonetically for the plant name; displaced Old Chinese 菽 (shū). Unrelated to the bottom part of [[豊]].
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*doːs): some kind of container. Borrowed phonetically for the plant name; displaced Old Chinese 菽 (shū). Unrelated to the bottom part of [[豊]].
 - [SKIP-2-1-6](../lookup/SKIP/SKIP-2/SKIP-2-1-6.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1371st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄉㄛㄨ](../syllables/ㄉㄛㄨ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

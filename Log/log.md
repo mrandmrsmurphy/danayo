@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 過 perfected to the current standard:** `## Aliases` section for 过 (simplified form; SKIP 3-3-3 computed, 6 strokes with 辶 as 3), redirects added; rank 194 confirmed in CC 0000, OC \*kloːl matches Wiktionary, twelve words verified. [AI]
+
+- **Character loop, 連 perfected to the current standard:** added OC \*ren (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 连 (simplified; SKIP 3-3-4 computed, 7 strokes), 聯 (merged into 連 by vault rule; EDRDG 1-6-11, 17 strokes; rank 3683 is above 703), 联 (simplified of 聯; SKIP 1-6-6 computed, 12 strokes) and 漣 ('ripple', phonetic 連; EDRDG 1-3-10, 13 strokes), redirects added; rank 703 confirmed in CC 0000, twenty-six words and the chengyu verified; the page's merge note left as it was. [AI]
+
+- **Character loop, 速 stamped to the current standard:** no change needed; no aliases, rank 1363 confirmed in CC 1000, OC \*sloːɡ matches Wiktionary, seven words verified. [AI]
+
+- **Character loop, 退 perfected to the current standard:** added OC \*n̥ʰuːbs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 頽 ('ruined', no Wiktionary link; EDRDG SKIP 1-7-9, 16 strokes), redirects added; rank 528 confirmed in CC 0000, six words and 腿 verified. [AI]
+
+- **Character loop, 追 stamped to the current standard:** no change needed; no aliases, rank 752 confirmed in CC 0000, OC matches Wiktionary, seven words and 槌 verified. [AI]
+
+- **Character loop, 軽 perfected to the current standard:** `## Aliases` section for 輕 (traditional; EDRDG SKIP 1-7-7, 14 strokes; its rank 475 is the page's `mc_id`, bullet reworded to credit it) and 轻 (simplified; SKIP 1-4-5 computed, 9 strokes), redirects added; OC present, nine words and 重文軽武 verified. [AI]
+
+- **Character loop, 豆 perfected to the current standard:** added OC \*doːs (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1371 confirmed in CC 1000, five words and five derived characters verified. [AI]
+
 - **Character loop, 課 perfected to the current standard:** fixed the callout link to the word (`../words/課.md`) and deleted the history bullet "pronunciation altered to get a free syllable" (history belongs in the log); `## Aliases` section for 课 (simplified; SKIP 1-2-8 computed, 10 strokes), redirects added; rank 2401 confirmed in CC 2000, OC present, three words verified. [AI]
 
 - **Character loop, 話 perfected to the current standard:** `## Aliases` section for 话 (simplified; SKIP 1-2-6 computed, 8 strokes) and 䛡 (rare variant, bare mention; SKIP 1-7-7 computed, 14 strokes), redirects added; rank 4322 (trusted long tail), OC \*ɡroːds matching Wiktionary, twelve words verified. [AI]

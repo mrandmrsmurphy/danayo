@@ -30,7 +30,7 @@ mc_id: 752
 graphemic_classification: 𠂤
 stand_in: 追
 注音: ㄊㄨㄧ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character

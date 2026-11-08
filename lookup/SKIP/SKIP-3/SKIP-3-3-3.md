@@ -26,6 +26,9 @@ tags: [lookup]
 - 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
 - 﨤 - 国字: 国字 (辶 + 及); Wiktionary records no definition in Japanese
 
+### Aliases
+- 过 --> 過
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

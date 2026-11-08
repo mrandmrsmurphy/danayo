@@ -64,6 +64,7 @@ tags:
 - 缚 --> 縛
 - 谬 --> 謬
 - 輌 --> 両
+- 漣 --> 連
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

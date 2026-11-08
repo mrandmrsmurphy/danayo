@@ -66,6 +66,7 @@ tags:
 - 缪 --> 謬
 - 鄱 --> 番
 - 䛡 --> 話
+- 輕 --> 軽
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

@@ -29,7 +29,7 @@ mc_id: 1363
 graphemic_classification: 束
 stand_in: 速
 注音: ㄙㄛㄎ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character

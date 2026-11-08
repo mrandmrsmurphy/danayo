@@ -40,6 +40,7 @@ tags:
 - 諷 --> 風
 - 輻 --> 放
 - 豬 --> 猪
+- 頽 --> 退
 
 ### Forbidden
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"

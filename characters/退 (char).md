@@ -38,7 +38,7 @@ stand_in: "退"
 aliases:
   - 頽
 注音: "ㄊㄧㄜ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -52,10 +52,15 @@ boundedness: 80
 ```
 
 ## Notes
-- 会意 of [[Radical 162|辶]] ("to walk") and [[艮]] (originally 皀, "food vessel" — visually merged with the unrelated character 艮 in the modern glyph, the same shape-drift pattern seen in 即/既/郷) — to leave the table after eating; extended to "to retreat, withdraw." The Shuowen instead reads 彳 ("move") + 夊 ("walk") + 日 ("sun") — "to walk away from the sun."
+- 会意 (OC \*n̥ʰuːbs) of [[Radical 162|辶]] ("to walk") and [[艮]] (originally 皀, "food vessel" — visually merged with the unrelated character 艮 in the modern glyph, the same shape-drift pattern seen in 即/既/郷) — to leave the table after eating; extended to "to retreat, withdraw." The Shuowen instead reads 彳 ("move") + 夊 ("walk") + 日 ("sun") — "to walk away from the sun."
 - [SKIP-3-3-6](../lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 528th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄊㄧㄜ](../syllables/ㄊㄧㄜ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 頽
+No link to 退 found on either Wiktionary page; 頽 (禿 + 頁, "ruined, decayed") is a separate character kept as an alias for searchers because 退 is used for decline and decay in 衰退. SKIP 1-7-9; 16 strokes. Radical 181 頁. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[退]]<rt>ㄊㄧㄜ</rt></ruby> "retreat, recede, withdraw" (stand-in for 退)

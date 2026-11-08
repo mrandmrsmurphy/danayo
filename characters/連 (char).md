@@ -32,7 +32,7 @@ aliases:
   - 联
   - 漣
 注音: ㄌ⼶ㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -46,11 +46,25 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md) of [[辶]] ("to walk") + [[車]] ("chariot") — man-drawn carriage.
+- [List of 会意](../lookup/List%20of%20会意.md) (OC \*ren) of [[辶]] ("to walk") + [[車]] ("chariot") — man-drawn carriage.
 - [SKIP-3-3-7](../lookup/SKIP/SKIP-3/SKIP-3-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 703rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄌ⼶ㄋ](../syllables/ㄌ⼶ㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - As in Japanese, we officially merge 聯/联 into this character — hence 連合 not 聯合, 連盟 not 聯盟, 国連 not 國聯, 連邦 not 聯邦.
+
+## Aliases
+
+### 连
+The simplified Chinese form of 連 (辶 + 车); Wiktionary's 连 page redirects to 連. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 聯
+A separate traditional character ("to connect, to ally") that the vault merges into 連, as in Japanese, so 連合 and 国連 are written with 連 (see the page's note). No Wiktionary link between the two pages. Its rank of 3683 is a higher number than 703. SKIP 1-6-11; 17 strokes. Radical 128 耳. It ranks 3683 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 联
+The simplified Chinese form of 聯, merged into 連 by the same rule as 聯; no Wiktionary link to 連. SKIP 1-6-6 (computed: EDRDG does not list it); 12 strokes. Radical 128 耳. It has no rank of its own in the Classical Chinese lists.
+
+### 漣
+No link to 連 found on Wiktionary beyond its structure (氵 + 連, "ripple"); 漣 is a separate character built on 連 as its phonetic, kept as an alias for searchers. SKIP 1-3-10; 13 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[連]]<rt>ㄌ⼶ㄋ</rt></ruby> "mutual, successive" (stand-in for 連)
