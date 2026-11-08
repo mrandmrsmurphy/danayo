@@ -43,7 +43,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC *raŋ): semantic [[Radical 085|水]] ("water") + [[Radical 075|木]] ("wood") + phonetic [[刅]] — a wooden bridge over water; a girder.
+- 形声 (OC *raŋ): semantic [[Radical 085|水]] ("water") + [[Radical 075|木]] ("wood") + phonetic 刅 — a wooden bridge over water; a girder.
 - [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

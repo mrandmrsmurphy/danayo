@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Twelve obscure etymology components de-linked (batch):** 牚 (撐), 匛 (柩), 刅 (梁), 矞 (橘), 烕 (滅), 舀 (稲), 畟 (稷), 㣎 (穆), 咠 (揖, 葺), 甹 (聘), 灷 (送) and 㚒 (陝): each `[[X]]` red link, used only as a phonetic or semantic component in a 形声/会意 note, is now plain text, per the rule for obscure page-less components. Chosen as cases with no variant relationship, no alias, and no mention on any list. Authority: 武明帥.
+
+- **㝱 de-linked on 寐:** the red link `[[㝱]]` (abbreviated semantic component, "dream") is now plain text. Authority: 武明帥.
+
+- **夃 de-linked on 嬴 and 盈:** the red links `[[夃]]` (original form of 股; phonetic of 盈, 嬴) are now plain text, matching 股, 股 (word) and the List of 会意; not made an alias of 股 because the Old Chinese readings differ. Authority: 武明帥.
+
+- **賏 de-linked on 嬰:** the red link `[[賏]]` (phonetic of 嬰; "shells strung together") is now plain text. Authority: 武明帥.
+
+- **幵 de-linked on 妍 and 研:** the red links `[[幵]]` (obsolete "even, level"; phonetic of 妍, 研, 羿) are now plain text, matching 羿; "pageless in this vault" tag dropped on 羿. Authority: 武明帥.
+
 - **淹 entry removed from 奄's Derived Characters:** 淹 is already 奄's alias (the HSK, Korean Name and CC lists point it at 奄), so the red-link entry was circular. Authority: 武明帥.
 
 - **妟 de-linked on 堰:** the red link `[[妟]]` (obsolete "bright sunrise"; root of the 妟→匽→偃→堰 phonetic series) is now plain text, matching 宴. Authority: 武明帥.
