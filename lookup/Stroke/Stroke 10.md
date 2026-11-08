@@ -65,6 +65,7 @@ tags:
 - 倆 --> 両
 - 乘 --> 乗
 - 隻 --> 只
+- 座 --> 坐
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

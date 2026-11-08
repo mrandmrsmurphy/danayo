@@ -30,7 +30,7 @@ mc_id: 1164
 graphemic_classification: 勻
 stand_in: 均
 注音: ㄍ⼜ㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character

@@ -33,6 +33,9 @@ tags: [lookup]
 ### Forbidden
 - 逛 - 官话: HSK/2 but Chinese only
 
+### Aliases
+- 座 --> 坐
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

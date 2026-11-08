@@ -58,6 +58,7 @@ tags:
 - 廁 --> 厠
 - 廚 --> 厨
 - 𢊍 --> 厨
+- 座 --> 坐
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

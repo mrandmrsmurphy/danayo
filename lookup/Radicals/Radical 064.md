@@ -200,6 +200,7 @@ tags: [lookup]
 - 拨 --> 発
 - 摑 --> 国
 - 掴 --> 国
+- 报 --> 報
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

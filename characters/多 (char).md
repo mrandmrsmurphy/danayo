@@ -27,7 +27,7 @@ mc_id: 137
 graphemic_classification: 会意
 stand_in: 多
 注音: ㄉㄜ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -35,12 +35,13 @@ boundedness: 70
 ---
 >[!tip] This is a page about the character 多.
 >For the word, see [多](../words/多.md)
+
 ```meta-bind-embed
 [[nav/char_info]]
 ```
 
 ## Notes
-- 会意: originally two pieces of [[肉 (char)|肉]] ("meat") — abundance of meat suggesting plenty. In the bronze script, 肉 was visually corrupted into [[Radical 036|夕]] ("evening") due to their graphic similarity, making 多 look like a duplication of 夕 instead; this corrupted form was inherited in all later scripts.
+- 会意 (OC \*ʔl'aːl): originally two pieces of [[肉 (char)|肉]] ("meat") — abundance of meat suggesting plenty. In the bronze script, 肉 was visually corrupted into [[Radical 036|夕]] ("evening") due to their graphic similarity, making 多 look like a duplication of 夕 instead; this corrupted form was inherited in all later scripts.
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 137th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄉㄜ](../syllables/ㄉㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

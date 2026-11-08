@@ -31,7 +31,7 @@ stand_in: "坐"
 aliases:
   - 座
 注音: "ㄐ⺢"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -45,10 +45,15 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground; "to sit."
+- [List of 会意](../lookup/List%20of%20会意.md) (OC \*zoːlʔ): [[留 (char)|留]] ("to stay") + [[Radical 032|土]] ("ground") — to remain stationary on the ground; "to sit."
 - [SKIP-4-7-2](../lookup/SKIP/SKIP-4/SKIP-4-7-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 306th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄐ⺢](../syllables/ㄐ⺢.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 座
+No link to 坐 found on either Wiktionary page beyond its structure (广 + 坐, with 坐 as the phonetic); 座 ("seat; stand, base") is the noun counterpart of 坐's verb "to sit", kept as an alias because they are so often confused. Its rank of 3216 is a higher number than 坐's 306. SKIP 3-3-7; 10 strokes. Radical 053 广. It ranks 3216 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[坐]]<rt>ㄐ⺢</rt></ruby> "to sit" (stand-in for 坐)

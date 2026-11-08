@@ -160,3 +160,5 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 処 | 处 | 2-3-2 | computed from its parts |
 | 厳 | 严 | 4-7-1 | computed from its parts |
 | 厳 | 𠑊 | 1-2-17 | computed from its parts |
+| 報 | 报 | 1-3-4 | computed from its parts |
+| 変 | 变 | 2-6-2 | computed from its parts |

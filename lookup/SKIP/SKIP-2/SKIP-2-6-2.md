@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[阜](/characters/阜.md)<rt>ㄅ⼜</rt></ruby> "mound"
 6. <ruby>[券](characters/券%20(char).md)<rt>ㄎㄛㄋ</rt></ruby> "bond; certificate"
 
+### Aliases
+- 变 --> 変
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -74,6 +74,7 @@ tags:
 - 饭 --> 飯
 - 纸 --> 紙
 - 忧 --> 憂
+- 报 --> 報
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

@@ -147,6 +147,7 @@ tags: [lookup]
 - 註 --> 注
 - 记 --> 記
 - 谬 --> 謬
+- 變 --> 変
 
 ### Forbidden
 - 諚 - 国字: "the lord's command" じょう, not used in modern times

@@ -1,6 +1,6 @@
 ---
-date-last-perfect: 2026-11-04
-size: 3383
+date-last-perfect: 2026-11-08
+size: 3384
 language: 単亜語
 tags:
   - lookup
@@ -49,6 +49,9 @@ These are characters with a clear top-bottom dichotomy.  The following are the p
 14. [SKIP-2-14](lookup/SKIP/SKIP-2/SKIP-2-14.md)
 15. [SKIP-2-15](lookup/SKIP/SKIP-2/SKIP-2-15.md)
 16. [SKIP-2-16](lookup/SKIP/SKIP-2/SKIP-2-16.md)
+17. none
+18. none
+19. [SKIP-2-19](lookup/SKIP/SKIP-2/SKIP-2-19.md)
 
 ## First Number 3
 These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:

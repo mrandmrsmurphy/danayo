@@ -27,7 +27,7 @@ mc_id: 3286
 graphemic_classification: "由"
 stand_in: "宙"
 注音: "ㄐㄨㄛ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character

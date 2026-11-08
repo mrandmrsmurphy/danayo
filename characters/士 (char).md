@@ -33,7 +33,7 @@ stand_in: 士
 aliases:
   - 仕
 注音: ㄙㄚㄧ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,10 +48,15 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): a war axe; itself the Kangxi radical [[Radical 033|士]]. Later, it took the meaning of "soldier" and eventually "officer, intellectual". Partly related to 王 since in at least two characters it should represent a ritual axe, perhaps made of jade: in fact, it is related to 圭 and 金 despite their appearance.
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*zrɯʔ): a war axe; itself the Kangxi radical [[Radical 033|士]]. Later, it took the meaning of "soldier" and eventually "officer, intellectual". Partly related to 王 since in at least two characters it should represent a ritual axe, perhaps made of jade: in fact, it is related to 圭 and 金 despite their appearance.
 - [SKIP-4-3-2](../lookup/SKIP/SKIP-4/SKIP-4-3-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 104th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 崇|d͡ʒ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄙㄚㄧ](../syllables/ㄙㄚㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 仕
+Wiktionary's 士 page lists the sense "to be an official" as an obsolete alternative form of 仕; 仕 (亻 + 士, "to serve in the government") is the verb built on 士. Its rank of 1194 is a higher number than 士's 104. SKIP 1-2-3; 5 strokes. Radical 009 人. It ranks 1194 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[士]]<rt>ㄙㄚㄧ</rt></ruby> "scholar" (stand-in for 士)

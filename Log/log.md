@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 宙 stamped to the current standard:** no change needed; no aliases, rank 3286 confirmed in CC 3000, OC \*l'ɯwɢs matches Wiktionary, eight words verified. [AI]
+
+- **Character loop, 多 perfected to the current standard:** added OC \*ʔl'aːl (Zhengzhang via en.Wiktionary) to the graphemic bullet and the missing blank line between the callout and the embed; no aliases; rank 137 confirmed in CC 0000, seventeen words, two chengyu and three derived characters verified. [AI]
+
+- **Character loop, 変 perfected to the current standard:** added the alias 变 (simplified Chinese form, listed with 變 and 変 as one character on Wiktionary); `## Aliases` section for 變 (traditional; EDRDG SKIP 2-19-4, 23 strokes; its rank 318 is the page's `mc_id`, bullet reworded to credit it) and 变 (SKIP 2-6-2 computed, 8 strokes), redirects added; new SKIP index page 2-19 (listed on `SKIP`, with rows 17 and 18 as none) and new redirect-only leaf 2-19-4 with its ø entry; OC present, eight words verified. Ran `lint_skip.py`, which found three stale counts: linked the earlier 4-10-4 leaf (丵) from `SKIP-4-0-4`, raised the `SKIP-1-3` stem size from 635 to 636 and the `SKIP` total from 3383 to 3384 to match the 636 and 3384 characters on disk, and it stamped `SKIP.md` (the extra character was added earlier and is not identified). [AI]
+
+- **Character loop, 士 perfected to the current standard:** added OC \*zrɯʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 仕 (the 'serve in government' verb, an obsolete alternative on 士's page; EDRDG SKIP 1-2-3, 5 strokes; rank 1194 is above 士's 104), redirects added; rank 104 confirmed in CC 0000, fourteen words, two chengyu and three derived characters verified. [AI]
+
+- **Character loop, 報 perfected to the current standard:** added OC \*puːɡs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 报 (simplified form, 1956; SKIP 1-3-4 computed, 7 strokes), redirects added; rank 559 confirmed in CC 0000, fifteen words and 因果報応 verified. [AI]
+
+- **Character loop, 坐 perfected to the current standard:** added OC \*zoːlʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 座 (noun 'seat', 广 + 坐; no Wiktionary link; EDRDG SKIP 3-3-7, 10 strokes; rank 3216 is above 坐's 306), redirects added; rank 306 confirmed in CC 0000, six words and 挫 verified. [AI]
+
+- **Character loop, 均 stamped to the current standard:** no change needed; no aliases, rank 1164 confirmed in CC 1000, OC \*kʷin matches Wiktionary, four words verified. [AI]
+
 - **Character loop, 在 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 71 confirmed in CC 0000, OC present, nine words, 自由自在 and three derived characters verified. [AI]
 
 - **Character loop, 品 perfected to the current standard:** added OC \*pʰrɯmʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1854 confirmed in CC 1000, nine words and 臨 verified. [AI]
