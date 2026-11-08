@@ -40,6 +40,7 @@ tags:
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
+- 杣 - 国字: 'lumberjack' Use 樵夫.
 
 ## Datacheck
 ```dataview

@@ -57,6 +57,10 @@ tags:
 - 䆆 - 국자: dry rice
 - 䭏 - 국자: '편'
 - 濺 - 官话: HSK/3.
+- 鵤 - 国字: 'grosbeak'. Use 斑鳩
+- 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
+- 簱 - 国字: Rare Japanese character; Wiktionary records no definition
+- 艠 - 国字: Rare Japanese character; Wiktionary records no definition; on-reading トウ
 
 ## Data check
 ```dataview

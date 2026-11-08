@@ -56,6 +56,18 @@ tags: [lookup]
 - 鮓 - 官话: Salted and fermented fish (the precursor of narezushi); Cantonese 'of poor quality'
 - 鮖 - 国字: Japanese fluvial sculpin (Cottus pollux).  Use 杜父魚
 - 鰯 - 国字: 'sardines'.  Use 沙丁魚 instead.  In the 日本人名用漢字.
+- 鱛 - 国字: 'lizardfish'.  Use 狗母魚.
+- 魞 - 国字: 'weir, trap'.  Use 漁具
+- 鯛 - 混乱: Sea bream, a real character that can be broken into parts; variant 鲷
+- 𫠍 - 国字: 'Japanese needlefish'
+- 魸 - 国字: Amur catfish (Silurus asotus). なまず (namazu).  Use 鮎
+- 鮗 - 国字: Japanese-invented character for dotted gizzard shad, Konosirus punctatus, Use 鱅!  Ignore C's 鿴!
+- 鱰 - 国字: Japanese-invented character. Mahi-mahi
+- 鯥 - 国字: 'gnome fish'
+- 鯰 - 国字: 'cat fish' Use 鮎
+- 鯱 - 国字: 'killer whale', 'orca', 'shachihoko' -> [[虎鯨]]
+- 鮱 - 国字: 'adult flathead mullet'
+- 𫙕 - 国字: conger.  Just use 弸長魚
 
 ## Data check
 ```dataview

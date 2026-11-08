@@ -107,6 +107,10 @@ tags: [lookup]
 - 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
 - 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
 - 鏟 - 官话: HSK/3. "Shovel" -- others use 鍬 instead. No existing vault citations.
+- 錺 - 国字: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
+- 鑓 - 国字: lance, spear, javelin --> 鎗/槍
+- 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
+- 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
 
 ## Data check
 ```dataview

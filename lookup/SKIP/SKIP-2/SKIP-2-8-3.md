@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### Forbidden
 - 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
+- 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
 
 ## Datacheck
 ```dataview

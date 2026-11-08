@@ -36,6 +36,7 @@ tags:
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.
+- 躵 - 国字: ねらう (nerau)、しのぶ (shinobu)
 
 ## Datacheck
 ```dataview

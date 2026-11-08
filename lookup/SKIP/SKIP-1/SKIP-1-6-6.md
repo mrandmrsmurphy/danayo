@@ -35,6 +35,9 @@ tags:
 - 絕 --> 絶
 - 蛔 --> 回
 
+### Forbidden
+- 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

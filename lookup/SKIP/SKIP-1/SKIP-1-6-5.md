@@ -37,6 +37,7 @@ tags:
 
 ### Forbidden
 - 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
+- 﨡 - 国字: 国字 for the jewel beetle
 
 ## Datacheck
 ```dataview

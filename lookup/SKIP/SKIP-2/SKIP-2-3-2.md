@@ -25,6 +25,7 @@ tags: [lookup]
 - 壭 - 口訣: Korean 구결 for '산'.
 - 另 - 中国制造: On HSK/2 only.  We use 他 or 彼 instead
 - 龸 - 幽霊文字: Zero notes, zero real citations in this vault -- a bare decomposition-component glyph.
+- 屶 - 国字: For the meaning, use 会.
 
 ## Datacheck
 ```dataview

@@ -53,6 +53,7 @@ tags:
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비
+- 榁 - 国字: Juniperus rigida.
 
 ## Datacheck
 ```dataview

@@ -45,6 +45,7 @@ tags: [lookup]
 - 乼 - 국자: Korean-coined hanja for '줄' (rope), used mainly in place names
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan
 - 㐢 - 국자: Korean-coined hanja for '뜰'
+- 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'
 ### Aliases
 - 亂 --> 乱
 - 书 --> 書

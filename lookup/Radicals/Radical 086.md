@@ -96,6 +96,8 @@ tags: [lookup]
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
 - 焊 - 官话: HSK/3.
 - 燙 - 官话: HSK/2.
+- 熕 - 国字: kou, おおずつ (a type of cannon).
+- 燵 - 国字: 国字 for the 'kotatsu' (foot warmer)
 
 ## Data check
 ```dataview

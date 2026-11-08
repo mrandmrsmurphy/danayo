@@ -40,6 +40,9 @@ tags:
 - 諷 --> 風
 - 輻 --> 放
 
+### Forbidden
+- 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

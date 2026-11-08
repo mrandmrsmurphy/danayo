@@ -35,6 +35,9 @@ tags: [lookup]
 ### +16 Strokes
 11. <ruby>[朧](../../characters/朧.md)<rt>ㄌㄛㄫ</rt></ruby> - hazy
 
+### Forbidden
+- 膤 - 国字: 月+雪; 国字 for 'snow', 'snow-white flesh'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

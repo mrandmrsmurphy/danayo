@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[森](/characters/森.md)<rt>ㄙㄨㄇ</rt></ruby> "forest" 
 8. <ruby>[喬](/characters/喬.md)<rt>ㄎ⼘ㄨ</rt></ruby> "tall, lofty" 
 
+### Forbidden
+- 暃 - 幽霊文字: "the color of the sun"
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

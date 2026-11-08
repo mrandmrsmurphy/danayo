@@ -27,6 +27,9 @@ tags:
 15. <ruby>[信](characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> "trust"
 16. <ruby>[俟](characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> "wait (literary)"
 
+### Forbidden
+- 俧 - 国字: 国字; Wiktionary gives no definition
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

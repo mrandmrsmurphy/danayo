@@ -33,6 +33,9 @@ tags: [lookup]
 ### Aliases
 - 廁 --> 厠
 
+### Forbidden
+- 遖 - 国字: 国字 for 'appare' (excellent)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

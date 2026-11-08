@@ -29,6 +29,9 @@ tags: [lookup]
 16. <ruby>[裙](characters/裙%20(char).md)<rt>ㄍ⼜ㄫ</rt></ruby> "skirt" "abundant"
 17. <ruby>[補](characters/補.md)<rt>ㄅㄛ</rt></ruby> "repair"
 
+### Forbidden
+- 硴 - 国字: Stone + flower = oyster
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

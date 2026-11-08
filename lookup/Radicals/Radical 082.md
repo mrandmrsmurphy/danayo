@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[毛](../../characters/毛%20(char).md)<rt>ㄇㄚㄨ</rt></ruby> - fur
 2. <ruby>[毫](../../characters/毫%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - fine hair
 
+### Forbidden
+- 毟 - 国字: "Pluck."
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

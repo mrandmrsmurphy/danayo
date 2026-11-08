@@ -69,6 +69,10 @@ tags:
 - 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
 - 竍 - 国字: 'decaliter' --> 十升
+- 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女
+- 杣 - 国字: 'lumberjack' Use 樵夫.
+- 瓧 - 国字: 国字 for the decagram; a dated symbol for ten grams
+- 苆 - 国字: Rare Japanese character; Wiktionary records no definition
 
 ## Data check
 ```dataview

@@ -20,7 +20,7 @@ tags: [lookup]
 ### Forbidden
 - 勹
 - 厶
-- 乄 - variant of 〆, an ancient scribal mark for "closed"
+- 乄 - 異体字: Variant of 〆, an ancient scribal mark for "closed"
 - 乜 - 方言: Cantonese/dialects only
 
 ## Datacheck

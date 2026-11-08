@@ -50,6 +50,7 @@ tags:
 - 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
 - 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
 - 掰 - 官话: HSK/4, recent Mandarin coinage.
+- 椦 - 幽霊文字: 'bowl' also 棬
 
 ## Datacheck
 ```dataview

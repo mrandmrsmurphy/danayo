@@ -19,6 +19,7 @@ tags: [lookup]
 - 〇 --> 零
 ### Forbidden
 - 丶 --> 主
+- 〆 - 国字: Ancient scribal mark for "closed"
 
 ## Datacheck
 ```dataview

@@ -89,6 +89,15 @@ tags:
 - 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.
 - 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
+- 挧 - 幽霊文字: Japanese horse chestnut
+- 俧 - 国字: 国字; Wiktionary gives no definition
+- 栊 - 異体字: cage, lattice
+- 垰 - 国字: 'mountain pass'
+- 粁 - 国字: kilometer, Use 千米
+- 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
+- 粂 - 国字: surname
+- 畑 - 国字: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
+- 峠 - 国字: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
 
 ## Data check
 ```dataview

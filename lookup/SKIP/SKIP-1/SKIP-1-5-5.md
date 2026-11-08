@@ -38,6 +38,7 @@ tags:
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.
+- 瓴 - 混乱: Classical: an earthenware jar for water; also concave roof tiles
 
 ## Datacheck
 ```dataview

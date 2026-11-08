@@ -32,6 +32,8 @@ tags: [lookup]
 - 乒 - 中国制造: Onomatopoeia, 'ping', used with 乓 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
 - 乓 - 中国制造: Onomatopoeia, 'pong', used with 乒 in 乒乓 (ping-pong). It's cute, but not international at all. Ming onward
 - 𠂇 - 幽霊文字: Component in 冇/厷/友/右/在/存/左/布/有/灰 and others; zero real citations in this vault.
+- 乄 - 異体字: Variant of 〆, an ancient scribal mark for "closed"
+- 〆 - 国字: Ancient scribal mark for "closed"
 
 ## Data check
 ```dataview

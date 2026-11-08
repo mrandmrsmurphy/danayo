@@ -80,6 +80,14 @@ tags:
 - 掀 - 官话: HSK/2.
 - 笨 - 官话: 'stupid; clumsy; heavy'
 - 掂 - 官话: HSK/4.
+- 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
+- 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.
+- 𪮇 - 国字: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
+- 﨡 - 国字: 国字 for the jewel beetle
+- 梻 - 国字: Japanese-coined; a tree whose branches are placed on Buddhist graves.
+- 畩 - 国字: A Japanese-invented character.
+- 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
+- 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
 
 ## Data check
 ```dataview

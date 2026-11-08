@@ -17,6 +17,9 @@ tags: [lookup]
 2. <ruby>[触](../../characters/触.md)<rt>ㄑㄛㄎ</rt></ruby> - contact
 3. <ruby>[解](../../characters/解%20(char).md)<rt>ㄍ⼘ㄧ</rt></ruby> - explain
 
+### Forbidden
+- 鵤 - 国字: 'grosbeak'. Use 斑鳩
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -23,6 +23,9 @@ tags: [lookup]
 - 〇 --> 零
 - 丶 --> 主
 
+### Forbidden
+- 〆 - 国字: Ancient scribal mark for "closed"
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

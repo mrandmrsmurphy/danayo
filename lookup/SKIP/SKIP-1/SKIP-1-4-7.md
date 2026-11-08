@@ -37,6 +37,7 @@ tags:
 ### Forbidden
 - 焊 - 官话: HSK/3.
 - 脖 - 官话: HSK/2.
+- 梻 - 国字: Japanese-coined; a tree whose branches are placed on Buddhist graves.
 
 ## Datacheck
 ```dataview

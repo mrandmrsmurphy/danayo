@@ -74,6 +74,7 @@ tags: [lookup]
 - 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.
+- 硴 - 国字: Stone + flower = oyster
 
 ## Data check
 ```dataview

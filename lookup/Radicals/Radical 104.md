@@ -54,6 +54,7 @@ tags: [lookup]
 ### Forbidden
 - 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
 - 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
+- 癪 - 国字: Originally 'menstrual cramps', then 'anger', then 'spasm'
 
 ## Data check
 ```dataview

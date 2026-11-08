@@ -116,6 +116,10 @@ tags: [lookup]
 - 逛 - 官话: HSK/2 but Chinese only
 - 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
 - 辿 - 国字: On 日本人名用漢字, but relatively unused
+- 込 - 国字: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.
+- 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
+- 遖 - 国字: 国字 for 'appare' (excellent)
+- 𨕫 - 国字: Used only in the place name 𨕫ノ尾 (Shime-no-o) on Iki Island, Nagasaki
 
 ## Data check
 ```dataview

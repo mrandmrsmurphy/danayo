@@ -230,6 +230,18 @@ tags: [lookup]
 - 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
 - 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
 - 朩 - 国字: Origin of katakana ホ.
+- 杁 - 国字: Only used for place names in Aichi prefecture, such as 杁中 (Irinaka). The original meaning is a gutter buried in an embankment to adjust the amount of water.
+- 杣 - 国字: 'lumberjack' Use 樵夫.
+- 椦 - 幽霊文字: 'bowl' also 棬
+- 槞 - 幽霊文字: A ghost character, present in the original JIS X 0208 through bad digitization
+- 櫳 - 異体字: cage, lattice (㰍)
+- 栊 - 異体字: cage, lattice
+- 梻 - 国字: Japanese-coined; a tree whose branches are placed on Buddhist graves.
+- 榁 - 国字: Juniperus rigida.
+- 樰 - 国字: Japanese tree name.
+- 橳 - 国字: Japanese only.  Use 勝 for place names.
+- 檪 - 異体字: Variant of 櫟, 'chestnut-leaved oak'; the oak used for charcoal
+- 欟 - 異体字: Zelkova tree; a rare form
 
 ## Data check
 ```dataview

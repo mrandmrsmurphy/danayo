@@ -33,6 +33,9 @@ tags:
 - 嚷 - 官话: HSK/2.
 - 攔 - 官话: HSK/2.
 - 贏 - 官话: HSK/1, but use 勝 instead for "to win".
+- 櫳 - 異体字: cage, lattice (㰍)
+- 籏 - 異体字: 'flag'; a rare form beside 旗
+- 蘰 - 国字: Used only as a surname (かずら)
 
 ## Data check
 ```dataview

@@ -19,6 +19,7 @@ tags: [lookup]
 ### Forbidden
 - 凧 - 国字: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
 - 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
+- 凩 - 国字: 国字 for 'wintry wind', こがらし
 
 ## Data check
 ```dataview

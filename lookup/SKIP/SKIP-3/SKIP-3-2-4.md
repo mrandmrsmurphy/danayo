@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Forbidden
 - 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
+- 凩 - 国字: 国字 for 'wintry wind', こがらし
 
 ## Datacheck
 ```dataview

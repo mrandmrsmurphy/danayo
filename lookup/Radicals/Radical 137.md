@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Forbidden
 - 艘 - 官话: HSK/3.
+- 艠 - 国字: Rare Japanese character; Wiktionary records no definition; on-reading トウ
 
 ## Data check
 ```dataview

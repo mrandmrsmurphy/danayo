@@ -37,6 +37,7 @@ tags:
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.
+- 毟 - 国字: "Pluck."
 
 ## Datacheck
 ```dataview

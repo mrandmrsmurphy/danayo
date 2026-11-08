@@ -37,6 +37,9 @@ tags:
 25. <ruby>[崴](characters/崴.md)<rt>⺢ㄧ</rt></ruby> "bend in a mountain or river"
 26. <ruby>[惹](/characters/惹.md)<rt>ㄋ⼘</rt></ruby> "irritate; vex; offend"
 
+### Forbidden
+- 颪 - 国字: おろし, oroshi; 国字 for the wind that blows down from a mountain (bora)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

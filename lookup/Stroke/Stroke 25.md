@@ -15,6 +15,9 @@ tags: [lookup]
 
 ### Aliases
 
+### Forbidden
+- 鱰 - 国字: Japanese-invented character. Mahi-mahi
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

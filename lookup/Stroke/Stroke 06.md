@@ -62,6 +62,12 @@ tags:
 - 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
 - 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
 - 辿 - 国字: On 日本人名用漢字, but relatively unused
+- 圷 - 国字: 'low lands'.  For the sound, use 下.  For the meaning, use 低地.
+- 𭛝 - 異体字: A handwritten (ゲバ字) form used for 衛
+- 杁 - 国字: Only used for place names in Aichi prefecture, such as 杁中 (Irinaka). The original meaning is a gutter buried in an embankment to adjust the amount of water.
+- 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'
+- 凩 - 国字: 国字 for 'wintry wind', こがらし
+- 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
 
 ## Data check
 ```dataview

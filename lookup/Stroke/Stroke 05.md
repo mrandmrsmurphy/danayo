@@ -56,6 +56,9 @@ tags:
 - 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.
 - 凧 - 国字: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
 - 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
+- 屶 - 国字: For the meaning, use 会.
+- 込 - 国字: 'crowded'.  Appears on 常用漢字/高等.  For the sound, use 入, for the meaning 複雜.
+- 圦 - 国字: 'underground sluice' Use 水門
 
 ## Data check
 ```dataview

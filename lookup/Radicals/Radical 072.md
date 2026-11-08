@@ -105,6 +105,9 @@ tags: [lookup]
 - 㫡 --> 冬
 - 𣉻 --> 知
 
+### Forbidden
+- 暃 - 幽霊文字: "the color of the sun"
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

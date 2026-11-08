@@ -16,6 +16,10 @@ tags: [lookup]
 ### Forbidden
 - 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
 - 𬧬 - 国字: Variant of 躾, 国字 for 'discipline, teaching manners'
+- 軈 - 国字: "not before long", var:軅
+- 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"
+- 躵 - 国字: ねらう (nerau)、しのぶ (shinobu)
+- 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
 
 ## Data check
 ```dataview

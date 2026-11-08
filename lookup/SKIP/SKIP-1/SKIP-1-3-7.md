@@ -93,6 +93,7 @@ tags:
 - 捡 - 官话: Simplified form of 撿, 'to pick up'; Mandarin
 - 陡 - 官话: HSK/3.
 - 捆 - 官话: HSK/2, but no international pedigree.
+- 陦 - 異体字: Alternative form of 島, 'island'
 
 ## Datacheck
 ```dataview

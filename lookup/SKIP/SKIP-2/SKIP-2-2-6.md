@@ -33,6 +33,9 @@ tags: [lookup]
 - 兔 --> 兎
 - 卖 --> 売
 
+### Forbidden
+- 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

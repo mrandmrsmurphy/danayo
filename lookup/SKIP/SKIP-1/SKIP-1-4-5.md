@@ -61,6 +61,8 @@ tags:
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
 - 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'
+- 栊 - 異体字: cage, lattice
+- 畑 - 国字: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
 
 ## Datacheck
 ```dataview

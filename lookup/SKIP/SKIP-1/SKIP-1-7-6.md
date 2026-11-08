@@ -46,6 +46,7 @@ tags:
 ### Forbidden
 - 跟 - 中国制造: HSK/1, Use 踵 instead
 - 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
+- 𨋳 - 国字: 'seat of a carriage'
 
 ## Datacheck
 ```dataview

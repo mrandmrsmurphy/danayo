@@ -230,6 +230,9 @@ tags: [lookup]
 - 掀 - 官话: HSK/2.
 - 掰 - 官话: HSK/4, recent Mandarin coinage.
 - 掂 - 官话: HSK/4.
+- 挧 - 幽霊文字: Japanese horse chestnut
+- 𪮇 - 国字: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
+- 𪮷 - 国字: 扌+合+辛.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
 
 ## Data check
 ```dataview

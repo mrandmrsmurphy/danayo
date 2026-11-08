@@ -72,6 +72,10 @@ tags:
 - 摟 - 官话: HSK/3.
 - 趕 - 官话: HSK/2, Mandarin only.
 - 裹 - 官话: HSK/3.  Used in words like 包裹, but only in Mandarin.
+- 槞 - 幽霊文字: A ghost character, present in the original JIS X 0208 through bad digitization
+- 躵 - 国字: ねらう (nerau)、しのぶ (shinobu)
+- 熕 - 国字: kou, おおずつ (a type of cannon).
+- 褝 - 異体字: 'unlined garment'; a rare Chinese-Japanese form, on-reading タン
 
 ## Data check
 ```dataview

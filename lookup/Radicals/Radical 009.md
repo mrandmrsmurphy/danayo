@@ -210,6 +210,8 @@ aliases:
 - 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
 - 們 - 中国制造: HSK/1 and Korean Name but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
 - 傻 - 官话: HSK/2.
+- 俧 - 国字: 国字; Wiktionary gives no definition
+- 𠏹 - 国字: Buddha
 
 ## Data check
 ```dataview

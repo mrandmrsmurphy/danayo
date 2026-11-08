@@ -83,6 +83,8 @@ tags:
 - 叟 - 混乱: Real word ("old man"), listed on 表外字 (Hyōgai) only, no other list. Component in [[嫂]]/[[捜]]/[[痩 (char)|痩]].
 - 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.
 - 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
+- 瓴 - 混乱: Classical: an earthenware jar for water; also concave roof tiles
+- 陦 - 異体字: Alternative form of 島, 'island'
 
 ## Data check
 ```dataview

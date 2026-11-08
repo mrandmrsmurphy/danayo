@@ -86,6 +86,9 @@ tags:
 - 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
 - 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
 - 垮 - 官话: HSK/4, but novel.
+- 挧 - 幽霊文字: Japanese horse chestnut
+- 垰 - 国字: 'mountain pass'
+- 峠 - 国字: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
 
 ## Datacheck
 ```dataview

@@ -37,6 +37,9 @@ tags:
 25. <ruby>[野](characters/野.md)<rt>⼘</rt></ruby> "wild, countryside, field"
 26. <ruby>[𧦅](characters/𧦅.md)<rt>ㄛㄨ</rt></ruby> "eulogize, praise, glorify"
 
+### Forbidden
+- 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

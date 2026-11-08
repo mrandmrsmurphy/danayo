@@ -51,6 +51,8 @@ tags: [lookup]
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀
+- 彁 - 幽霊文字: Likely to be an error of 彊
+- 弖 - 国字: phonetic for 'te'
 
 ## Data check
 ```dataview

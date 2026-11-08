@@ -30,6 +30,9 @@ Left half has 4 strokes. Dominant components: 木, 火, 礻, 月.
 - SKIP-1-4-19: none
 - [SKIP-1-4-20](lookup/SKIP/SKIP-1/SKIP-1-4-20.md): ø
 - [SKIP-1-4-21](lookup/SKIP/SKIP-1/SKIP-1-4-21.md): 欖
+- SKIP-1-4-22: none
+- SKIP-1-4-23: none
+- [SKIP-1-4-24](lookup/SKIP/SKIP-1/SKIP-1-4-24.md): ø
 
 ## Base check
 ```base

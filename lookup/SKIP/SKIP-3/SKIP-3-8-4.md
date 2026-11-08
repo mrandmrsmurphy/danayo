@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[間](/characters/間.md)<rt>ㄍㄚㄋ</rt></ruby> - between
 6. <ruby>[閔](/characters/閔.md)<rt>ㄇㄧㄇ</rt></ruby> - grieve
 
+### Forbidden
+- 閖 - 国字: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

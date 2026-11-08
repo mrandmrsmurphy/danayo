@@ -87,6 +87,10 @@ tags:
 - 蚬 --> 蜆
 - 蛔 --> 回
 
+### Forbidden
+- 﨡 - 国字: 国字 for the jewel beetle
+- 蟎 - 国字: 'mite' Use 壁虱
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

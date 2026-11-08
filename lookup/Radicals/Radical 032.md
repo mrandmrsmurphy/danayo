@@ -125,6 +125,10 @@ tags:
 - 垮 - 官话: HSK/4, but novel.
 - 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.
 - 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
+- 圷 - 国字: 'low lands'.  For the sound, use 下.  For the meaning, use 低地.
+- 塰 - 国字: title of a Noh play
+- 垰 - 国字: 'mountain pass'
+- 圦 - 国字: 'underground sluice' Use 水門
 
 ## Data check
 ```dataview

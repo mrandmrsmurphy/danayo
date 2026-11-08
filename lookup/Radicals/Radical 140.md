@@ -179,6 +179,9 @@ tags:
 - 虄 - 국자: '살'
 - 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
 - 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
+- 苆 - 国字: Rare Japanese character; Wiktionary records no definition
+- 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
+- 蘰 - 国字: Used only as a surname (かずら)
 
 ## Data check
 ```dataview

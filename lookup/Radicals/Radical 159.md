@@ -58,6 +58,10 @@ tags: [lookup]
 - 輻 --> 放
 - 辐 --> 放
 
+### Forbidden
+- 𨋳 - 国字: 'seat of a carriage'
+- 𨏍 - 国字: 'souvenir' (alternative spelling of 家苞)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

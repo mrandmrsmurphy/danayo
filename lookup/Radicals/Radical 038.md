@@ -109,6 +109,9 @@ tags: [lookup]
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.
 - 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
+- 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女
+- 媸 - 異体字: Use 蚩 + 女.
+- 嬶 - 国字: 'overbearing wife' 嬶天下
 
 ## Data check
 ```dataview

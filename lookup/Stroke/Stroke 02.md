@@ -27,6 +27,7 @@ tags: [lookup]
 - 𰆊 - 口訣: Korean 구결 for 'ㄴ'
 - 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl); an ancient variant of 厂 'cliff' (Radical 027)
 - 𠂇 - 幽霊文字: Component in 冇/厷/友/右/在/存/左/布/有/灰 and others; zero real citations in this vault.
+- 乄 - 異体字: Variant of 〆, an ancient scribal mark for "closed"
 
 ## Data check
 ```dataview

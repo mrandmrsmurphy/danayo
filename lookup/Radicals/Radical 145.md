@@ -77,6 +77,9 @@ tags:
 
 ### Forbidden
 - 裹 - 官话: HSK/3.  Used in words like 包裹, but only in Mandarin.
+- 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.
+- 褝 - 異体字: 'unlined garment'; a rare Chinese-Japanese form, on-reading タン
+- 襅 - 国字: Historical sleeveless overgarment, the Shinto 'chihaya' worn by shrine maidens; also a kabuki vest
 
 ## Data check
 ```dataview

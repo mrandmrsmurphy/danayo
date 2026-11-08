@@ -50,6 +50,13 @@ tags: [lookup]
 ### Aliases
 - 粮 --> 糧
 
+### Forbidden
+- 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff
+- 粁 - 国字: kilometer, Use 千米
+- 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
+- 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
+- 粂 - 国字: surname
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

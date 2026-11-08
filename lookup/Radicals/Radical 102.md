@@ -55,6 +55,8 @@ tags: [lookup]
 
 ### Forbidden
 - 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
+- 畑 - 国字: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
+- 畩 - 国字: A Japanese-invented character.
 
 ## Data check
 ```dataview

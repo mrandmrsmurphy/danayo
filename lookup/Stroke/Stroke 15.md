@@ -69,6 +69,11 @@ tags:
 - 踩 - 官话: HSK/2.
 - 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
 - 諚 - 国字: "the lord's command" じょう, not used in modern times
+- 錺 - 国字: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
+- 魸 - 国字: Amur catfish (Silurus asotus). なまず (namazu).  Use 鮎
+- 膵 - 国字: A recent Japanese invention.  Use 胰 for 'pancreas'
+- 膤 - 国字: 月+雪; 国字 for 'snow', 'snow-white flesh'
+- 樰 - 国字: Japanese tree name.
 
 ## Data check
 ```dataview

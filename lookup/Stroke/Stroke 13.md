@@ -86,6 +86,15 @@ tags:
 - 搞 - 官话: HSK/1.
 - 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
 - 靹 - 国字: Archer's arm protector.  Poss same as 䪏
+- 魞 - 国字: 'weir, trap'.  Use 漁具
+- 媸 - 異体字: Use 蚩 + 女.
+- 彁 - 幽霊文字: Likely to be an error of 彊
+- 鳰 - 国字: 'grebe'.  Use 鸊鷉 or 浮巣鳥 or 息長鳥?
+- 塰 - 国字: title of a Noh play
+- 榁 - 国字: Juniperus rigida.
+- 筺 - 異体字: Variant of 筐, 'bamboo basket or chest'
+- 𨋳 - 国字: 'seat of a carriage'
+- 𨕫 - 国字: Used only in the place name 𨕫ノ尾 (Shime-no-o) on Iki Island, Nagasaki
 
 ## Data check
 ```dataview

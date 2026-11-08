@@ -80,6 +80,8 @@ tags:
 - 咋 - 官话: HSK/2, but Chinese only.
 - 亟 - 混乱: "Urgently, repeatedly, extremely" in Classical Chinese. Component only -- phonetic component of [[極 (char)|極]].
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
+- 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff
+- 毟 - 国字: "Pluck."
 
 ## Data check
 ```dataview

@@ -46,6 +46,9 @@ tags:
 - 菁 --> 青
 - 菏 --> 河
 
+### Forbidden
+- 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

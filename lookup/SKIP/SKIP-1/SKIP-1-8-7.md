@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Forbidden
 - 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
+- 錺 - 国字: ornamental metal fixtures (esp. on furniture, temples, shrines, etc,.) 'kazari'
 
 ## Datacheck
 ```dataview

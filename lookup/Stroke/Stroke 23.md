@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Forbidden
 - 虄 - 국자: '살'
+- 鱛 - 国字: 'lizardfish'.  Use 狗母魚.
 
 ## Data check
 ```dataview

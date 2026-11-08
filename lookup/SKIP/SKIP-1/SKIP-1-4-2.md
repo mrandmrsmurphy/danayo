@@ -27,6 +27,7 @@ tags:
 
 ### Forbidden
 - 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.
+- 杁 - 国字: Only used for place names in Aichi prefecture, such as 杁中 (Irinaka). The original meaning is a gutter buried in an embankment to adjust the amount of water.
 
 ## Datacheck
 ```dataview

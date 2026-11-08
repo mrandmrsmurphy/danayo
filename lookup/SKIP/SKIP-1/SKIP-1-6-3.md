@@ -29,6 +29,10 @@ tags: [lookup]
 16. <ruby>[郎](characters/郎.md)<rt>ㄌㄚㄫ</rt></ruby> "youthful man"
 17. <ruby>[紇](characters/紇.md)<rt>ㄏㄜㄊ</rt></ruby> "Uigur"
 
+### Forbidden
+- 粁 - 国字: kilometer, Use 千米
+- 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

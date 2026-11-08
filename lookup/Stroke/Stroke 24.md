@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Forbidden
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)
+- 軈 - 国字: "not before long", var:軅
 
 ## Data check
 ```dataview

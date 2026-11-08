@@ -149,6 +149,7 @@ tags:
 - 啦 - 官话: Mandarin colloquial sentence-final particle, a contraction of 了啊 (le a)
 - 掀 - 官话: HSK/2.
 - 掂 - 官话: HSK/4.
+- 𪮇 - 国字: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
 
 ## Datacheck
 ```dataview

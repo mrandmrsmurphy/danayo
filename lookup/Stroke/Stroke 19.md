@@ -45,6 +45,10 @@ tags:
 - 蹬 - 官话: HSK/3.
 - 蹭 - 官话: HSK/4.
 - 鏟 - 官话: HSK/3. "Shovel" -- others use 鍬 instead. No existing vault citations.
+- 鯛 - 混乱: Sea bream, a real character that can be broken into parts; variant 鲷
+- 鯥 - 国字: 'gnome fish'
+- 鯰 - 国字: 'cat fish' Use 鮎
+- 鯱 - 国字: 'killer whale', 'orca', 'shachihoko' -> [[虎鯨]]
 
 ## Data check
 ```dataview

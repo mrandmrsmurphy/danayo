@@ -8,7 +8,7 @@ tags: [lookup]
 
 Every single one is the sickness radical!
 1. no
-2. no
+2. [SKIP-3-5-2](lookup/SKIP/SKIP-3/SKIP-3-5-2.md): ø
 3. no
 4. [SKIP-3-5-4](lookup/SKIP/SKIP-3/SKIP-3-5-4.md): 疫
 5. [SKIP-3-5-5](lookup/SKIP/SKIP-3/SKIP-3-5-5.md): 疱, 疲, 疽, 疾, 病, 症
@@ -20,6 +20,9 @@ Every single one is the sickness radical!
 11. no
 12. [SKIP-3-5-12](lookup/SKIP/SKIP-3/SKIP-3-5-12.md): 厳, 療, 癇, 癌
 13. [SKIP-3-5-13](lookup/SKIP/SKIP-3/SKIP-3-5-13.md): 癒, 癖
+14. no
+15. no
+16. [SKIP-3-5-16](lookup/SKIP/SKIP-3/SKIP-3-5-16.md): ø
 
 
 ## Base check

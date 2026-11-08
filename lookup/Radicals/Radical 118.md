@@ -94,6 +94,11 @@ tags:
 - 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker
 - 筷 - 官话: 'chopsticks' --> 箸.  HSK/2
 - 笨 - 官话: 'stupid; clumsy; heavy'
+- 筺 - 異体字: Variant of 筐, 'bamboo basket or chest'
+- 簗 - 国字: 'fish weir, fish trap' (やな); also a surname
+- 簱 - 国字: Rare Japanese character; Wiktionary records no definition
+- 籏 - 異体字: 'flag'; a rare form beside 旗
+- 籡 - 国字: Rare Japanese character; Wiktionary records no definition
 
 ## Data check
 ```dataview

@@ -58,6 +58,13 @@ tags:
 - 擠 - 官话: HSK/1.
 - 瞧 - 官话: HSK/2, Chinese only.
 - 瞪 - 官话: HSK/3.
+- 嬶 - 国字: 'overbearing wife' 嬶天下
+- 鮱 - 国字: 'adult flathead mullet'
+- 蟎 - 国字: 'mite' Use 壁虱
+- 檪 - 異体字: Variant of 櫟, 'chestnut-leaved oak'; the oak used for charcoal
+- 簗 - 国字: 'fish weir, fish trap' (やな); also a surname
+- 襅 - 国字: Historical sleeveless overgarment, the Shinto 'chihaya' worn by shrine maidens; also a kabuki vest
+- 𨵱 - 国字: Used only in the place name 野𨵱 (Nokazuki) in Asakita-ku, Hiroshima
 
 ## Data check
 ```dataview

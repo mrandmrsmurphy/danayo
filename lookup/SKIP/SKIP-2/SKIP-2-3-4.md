@@ -49,6 +49,10 @@ tags:
 - 芩 --> 今
 - 呙 --> 咼
 
+### Forbidden
+- 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女
+- 苆 - 国字: Rare Japanese character; Wiktionary records no definition
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

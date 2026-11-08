@@ -60,6 +60,9 @@ tags: [lookup]
 - 骏 --> 俊
 - 马 --> 馬
 
+### Forbidden
+- 駲 - 幽霊文字: A ghost character
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

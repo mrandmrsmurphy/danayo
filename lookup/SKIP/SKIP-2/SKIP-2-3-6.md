@@ -38,6 +38,9 @@ tags:
 - 宥 --> 有
 - 荣 --> 栄
 
+### Forbidden
+- 粂 - 国字: surname
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

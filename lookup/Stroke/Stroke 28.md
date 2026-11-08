@@ -13,6 +13,9 @@ tags: [lookup]
 ### Aliases
 - 𢦉 --> 空
 
+### Forbidden
+- 欟 - 異体字: Zelkova tree; a rare form
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

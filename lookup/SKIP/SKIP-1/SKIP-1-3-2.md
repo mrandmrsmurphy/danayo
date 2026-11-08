@@ -39,6 +39,7 @@ tags:
 - 扒 - 官话: HSK/3 and 4, but Chinese only.
 - 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
 - 叼 - 官话: HSK/4, but very made-up.
+- 圦 - 国字: 'underground sluice' Use 水門
 
 ## Datacheck
 ```dataview

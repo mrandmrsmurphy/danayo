@@ -57,6 +57,8 @@ tags: [lookup]
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
+- 閖 - 国字: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
+- 𨵱 - 国字: Used only in the place name 野𨵱 (Nokazuki) in Asakita-ku, Hiroshima
 
 ## Data check
 ```dataview

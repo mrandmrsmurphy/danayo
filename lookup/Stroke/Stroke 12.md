@@ -75,6 +75,13 @@ tags: [lookup]
 - 揪 - 官话: HSK/3.
 - 掰 - 官话: HSK/4, recent Mandarin coinage.
 - 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).
+- 閖 - 国字: Coined by Date Tsunamura when he was looking at the sea through the gate of Dainenji Temple in Sendai.
+- 暃 - 幽霊文字: "the color of the sun"
+- 椦 - 幽霊文字: 'bowl' also 棬
+- 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
+- 硴 - 国字: Stone + flower = oyster
+- 遖 - 国字: 国字 for 'appare' (excellent)
+- 颪 - 国字: おろし, oroshi; 国字 for the wind that blows down from a mountain (bora)
 
 ## Data check
 ```dataview

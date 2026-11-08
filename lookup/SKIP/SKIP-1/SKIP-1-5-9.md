@@ -24,6 +24,9 @@ tags: [lookup]
 11. <ruby>[颯](characters/颯%20(char).md)<rt>ㄙㄚㄆ</rt></ruby> "sound of wind"
 12. <ruby>[𥈞](characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> "conceal"
 
+### Forbidden
+- 褝 - 異体字: 'unlined garment'; a rare Chinese-Japanese form, on-reading タン
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

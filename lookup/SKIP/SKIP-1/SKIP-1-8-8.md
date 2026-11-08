@@ -27,6 +27,9 @@ tags: [lookup]
 14. <ruby>[隷](characters/隷.md)<rt>ㄌㄝㄧ</rt></ruby> "slave"
 15. <ruby>[館](characters/館.md)<rt>ㄍ⺢ㄋ</rt></ruby> "hall"
 
+### Forbidden
+- 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

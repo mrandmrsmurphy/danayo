@@ -16,6 +16,9 @@ tags: [lookup]
 - 颱 --> 台
 - 风 --> 風
 
+### Forbidden
+- 颪 - 国字: おろし, oroshi; 国字 for the wind that blows down from a mountain (bora)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

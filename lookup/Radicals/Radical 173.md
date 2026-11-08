@@ -59,6 +59,9 @@ tags: [lookup]
 - 䨭 --> 宵
 - 霦 --> 彬
 
+### Forbidden
+- 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

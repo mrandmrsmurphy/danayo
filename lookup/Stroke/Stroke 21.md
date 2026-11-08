@@ -37,6 +37,10 @@ tags:
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름
 - 鰯 - 国字: 'sardines'.  Use 沙丁魚 instead.  In the 日本人名用漢字.
+- 𫠍 - 国字: 'Japanese needlefish'
+- 癪 - 国字: Originally 'menstrual cramps', then 'anger', then 'spasm'
+- 鑓 - 国字: lance, spear, javelin --> 鎗/槍
+- 𨏍 - 国字: 'souvenir' (alternative spelling of 家苞)
 
 ## Data check
 ```dataview

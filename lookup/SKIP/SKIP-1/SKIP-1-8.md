@@ -21,7 +21,7 @@ Left half has 8 strokes. Dominant components: 金, 食, 阜, 兼, 喬.
 - [SKIP-1-8-10](lookup/SKIP/SKIP-1/SKIP-1-8-10.md): 鎌, 鎖, 鎧, 鎬, 鎮, 韓, 魏
 - [SKIP-1-8-11](lookup/SKIP/SKIP-1/SKIP-1-8-11.md): 鏡, 鵡, 鵰, 鶏
 - [SKIP-1-8-12](lookup/SKIP/SKIP-1/SKIP-1-8-12.md): 鐘
-- SKIP-1-8-13: none
+- [SKIP-1-8-13](lookup/SKIP/SKIP-1/SKIP-1-8-13.md): ø
 - SKIP-1-8-14: none
 - [SKIP-1-8-15](lookup/SKIP/SKIP-1/SKIP-1-8-15.md): 鑑, 鑠
 - SKIP-1-8-16: none

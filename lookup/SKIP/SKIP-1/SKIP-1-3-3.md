@@ -43,6 +43,8 @@ tags:
 - 扛 - 官话: 'to lift with both hands; to carry on the shoulder'
 - 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
 - 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
+- 圷 - 国字: 'low lands'.  For the sound, use 下.  For the meaning, use 低地.
+- 𭛝 - 異体字: A handwritten (ゲバ字) form used for 衛
 
 ## Datacheck
 ```dataview
