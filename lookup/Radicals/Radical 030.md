@@ -60,6 +60,7 @@ tags: [lookup]
 41. <ruby>[呑](../../characters/呑.md)<rt>ㄊㄚㄋ</rt></ruby> - swallow
 
 42. <ruby>[吠](../../characters/吠.md)<rt>ㄈㄝ</rt></ruby> - bark
+- 𠯑 --> 括
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference

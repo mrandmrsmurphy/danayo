@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **𤅍 made an alias of 漕 (fiat):** by the project owner's decision, although the only evidence is en.Wiktionary's `alt=𤅍` on 漕 (no entry of its own, no zh.Wiktionary corroboration); it would share 漕's sound, ㄐㄚㄨ. 漕 gained `aliases: 𤅍` and its first `## Aliases` section (redirects on Stroke 23, SKIP-1-3-20 and Radical 085; SKIP computed). `mc_id` unchanged (2598). The note on 漕 now says the page keeps 𤅍 as its alias. Authority: 武明帥.
+
+- **冓 made an alias of 構, and 構 the derived-character hub for 冓:** by the project owner's decision, on the derived Dan'a'yo sound (冓 would read ㄍㄛㄨ like 構, 溝 and 購, MC `k` + `əu`) and because 構 keeps 冓's "interlocked timbers" sense. 構 gained `aliases: 冓`, its first `## Aliases` section (构 and 冓; redirects on Stroke 08 and 10, SKIP-1-4-4 and SKIP-2-5-5, Radicals 075 and 013) and `## Derived Characters` with a short explanation (溝, 購, 講). `mc_id` unchanged (2327, 構's own rank). The 冓 links and "no vault page" notes on 溝, 購, 講, 構 and the List of 会意 (再) now point to 構. SKIP-2-5-5: the leftover `### Redirects` section (including the wrong `冓 --> 勾`) removed, and its four forbidden lines shortened to `- ¡X! - 違法字`. Authority: 武明帥.
+
+- **𠯑 made an alias of 括, and 括 the derived-character hub for 𠯑:** by the project owner's decision, on the derived Dan'a'yo sound (𠯑 would read ㄍ⺢ㄊ like 括 and 刮, MC `k` + `uɑt`) and the direct etymology 手 + 𠯑. 括 gained `aliases: 𠯑` (the key was blank), its first `## Aliases` section (redirects on Stroke 07, SKIP-2-4-3 and Radical 030; SKIP computed) and `## Derived Characters` with a short explanation (活, 刮, 話). `mc_id` unchanged (1919). The 𠯑 links and "no vault page" notes on 活, 刮, 話 and 舌 now point to 括. Authority: 武明帥.
+
 - **汮 de-linked on 洵:** the red link `[[汮]]` (an ancient river name; derived sound ㄍ⼜ㄋ, like 均) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
 
 - **㐆 made an alias of 隠, and 隠 the derived-character hub for 㐆:** by the project owner's decision, on the derived Dan'a'yo sound (㐆 would read ㄜㄋ like 隠 and 殷, MC `ʔ` + `ɨn`) and because Wiktionary records 㐆 as an alternative form of 隱. 隠 gained `aliases: 㐆`, its first `## Aliases` section for 隱, 㐆 and 乚 (redirects on Stroke 01, 05 and 16, SKIP-1-3-14, SKIP-3-1-4 and SKIP-4-1-4, Radicals 004, 005 and 170; 㐆's SKIP computed) and `## Derived Characters` with a short explanation (殷). `mc_id` unchanged (687, the rank of 隱). The 㐆 links on 殷 and the List of 会意 (the "no vault page" note removed) now point to 隠. Authority: 武明帥.
@@ -72,7 +78,7 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 - **腹行食塵 character links fixed:** the links to 行 and 食 pointed at `characters/行.md` and `characters/食.md`, which do not exist; they now point to `行 (char)` and `食 (char)`, and the frontmatter `characters:` list uses the same names. Authority: 武明帥.
 
-- **連 etymology bullet repaired:** the opening "[List of 会意](…) (OC \*ren) of" is now "会意 (OC \*ren):". Authority: 武明帥.
+- **連 etymology bullet repaired:** "(OC \*ren) of" is now "(OC \*ren):", keeping the opening link to the List of 会意, which is the vault's convention for 会意 characters (72 pages). Authority: 武明帥.
 
 - **辶 linked to Radical 162:** the red link `[[辶]]` (the walking-radical form of 辵) on 連 now reads `[[Radical 162|辶]]`. Authority: 武明帥.
 

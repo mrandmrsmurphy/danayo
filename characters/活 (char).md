@@ -45,7 +45,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC \*koːd, \*ɡoːd): semantic [[Radical 085|水]] ("water") + phonetic [[𠯑]] (later written as [[舌 (char)|舌]] in the modern glyph) — flowing water; by extension, living, alive.
+- 形声 (OC \*koːd, \*ɡoːd): semantic [[Radical 085|水]] ("water") + phonetic [[括|𠯑]] (later written as [[舌 (char)|舌]] in the modern glyph) — flowing water; by extension, living, alive.
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1850th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄏ⺢ㄊ](../syllables/ㄏ⺢ㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

@@ -23,19 +23,16 @@ tags: [lookup]
 
 Candidates for this SKIP code not yet present in the database: 祟.
 
-### Redirects
-- 冓 --> 勾
-- 皋 --> 皐
-
 ### Forbidden
-- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
-- 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete
-- 唜 - 국자: Korean-coined hanja for '말' (proto-Hangǔl), used only in Korean place names; Korean Name list
-- 夞 - 口訣: Korean 구결 for '욋' (proto-Hangǔl)
+- ¡唟! - 違法字
+- ¡㖙! - 違法字
+- ¡唜! - 違法字
+- ¡夞! - 違法字
 
 ### Aliases
 - 皋 --> 皐
 - 畠 --> 田
+- 冓 --> 構
 
 ## Datacheck
 ```dataview

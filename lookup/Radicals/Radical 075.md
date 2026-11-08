@@ -66,6 +66,7 @@ tags: [lookup]
 - ¡㭐! - 違法字
 - ¡枡! - 違法字
 - ¡枠! - 違法字
+- 构 --> 構
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit

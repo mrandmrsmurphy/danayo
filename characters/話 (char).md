@@ -46,7 +46,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC \*ɡroːds): semantic [[Radical 149|言]] ("word") + phonetic 𠯑 — explicitly not related to [[舌 (char)|舌]] ("tongue," OC \*ɦbljed) despite the visual resemblance; cognate with [[曰 (char)|曰]]. To speak, to talk.
+- 形声 (OC \*ɡroːds): semantic [[Radical 149|言]] ("word") + phonetic [[括|𠯑]] — explicitly not related to [[舌 (char)|舌]] ("tongue," OC \*ɦbljed) despite the visual resemblance; cognate with [[曰 (char)|曰]]. To speak, to talk.
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 4322nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 夬合|ɣuai]] → [ㄏ⺢ㄧ](../syllables/ㄏ⺢ㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

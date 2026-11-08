@@ -58,7 +58,7 @@ boundedness: 35
 - <ruby>[[後舌]]<rt>ㄏㄨㄛ·ㄙㄝㄊ</rt></ruby> "back (of the tongue)"
 
 ## Derived Characters
-Each of these descends from 𠯑 (no character page in this vault), which visually evolved into the modern glyph 舌 shared by all — the same "recognizable descendant of an unlinkable ancestor" pattern as 悟/五 or 栽/才.
+Each of these descends from [[括|𠯑]], which visually evolved into the modern glyph 舌 shared by all — the same "recognizable descendant of an unlinkable ancestor" pattern as 悟/五 or 栽/才.
 - <ruby>[[活 (char)|活]]<rt>ㄏ⺢ㄊ</rt></ruby> "alive"
 - <ruby>[[刮]]<rt>ㄍ⺢ㄊ</rt></ruby> "scrape"
 - <ruby>[[括]]<rt>ㄍ⺢ㄊ</rt></ruby> "embrace; include"

@@ -264,6 +264,9 @@ tags: [lookup]
 ### +18 Strokes
 - ¡𪸉! - 違法字
 
+### +19 Strokes
+- 𤅍 --> 漕
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

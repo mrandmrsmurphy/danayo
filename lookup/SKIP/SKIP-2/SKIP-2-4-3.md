@@ -31,6 +31,7 @@ tags: [lookup]
 - 帋 --> 紙
 - 岛 --> 島
 - 吿 --> 告
+- 𠯑 --> 括
 
 ### Forbidden
 - 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
