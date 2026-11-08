@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 局 stamped to the current standard:** no change needed; no aliases, rank 3117 confirmed in CC 3000, OC \*ɡoɡ matches Wiktionary, eight words verified. [AI]
+
+- **Character loop, 就 perfected to the current standard:** added OC \*zuɡs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 鷲 (eagle; 就 is a variant on its page and the vault's 代用字 for it; EDRDG SKIP 2-12-11, 23 strokes) and 鹫 (simplified; SKIP 2-12-5 computed, 17 strokes), redirects added; new redirect-only SKIP leaf 2-12-11 with its ø entry on SKIP-2-12; rank 552 confirmed in CC 0000, seven words and 蹴 verified. [AI]
+
+- **Character loop, 尚 perfected to the current standard:** `## Aliases` section for 尙 (kyūjitai form; SKIP 2-3-5 computed as for 尚, 8 strokes), redirects added; rank 313 confirmed in CC 0000, OC \*djaŋs matches Wiktionary, four words and six derived characters verified. [AI]
+
+- **Character loop, 将 perfected to the current standard:** corrected the Old Chinese reconstruction from \*t͡saŋ, \*t͡saŋs to Zhengzhang's \*ʔsaŋ, \*ʔsaŋs (en.Wiktionary); `## Aliases` section for five aliases with redirects: 將 (traditional; EDRDG SKIP 1-4-7, 11 strokes; its rank 41 is the page's `mc_id`, bullet reworded to credit it), 鏘 (EDRDG 1-8-11, 19 strokes), 𨪙 (shinjitai of 鏘; SKIP 1-8-10 computed, 18 strokes), 漿 (EDRDG 2-11-4, 15 strokes) and 浆 (simplified of 漿; SKIP 2-6-4 computed, 10 strokes); nine words and five derived characters verified. [AI]
+
+- **Character loop, 寸 perfected to the current standard:** added OC \*sʰuːns (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 666 confirmed in CC 0000, the word 寸 and two derived characters verified. [AI]
+
+- **Character loop, 密 stamped to the current standard:** no change needed; no aliases, rank 1125 confirmed in CC 1000, OC \*mriɡ matches Wiktionary, eight words verified. [AI]
+
+- **Character loop, 容 perfected to the current standard:** `## Aliases` section for 蓉 (艹 + 容, only in 芙蓉 and 蓯蓉; no Wiktionary link back to 容; EDRDG SKIP 2-3-10, 13 strokes), redirects added; rank 553 confirmed in CC 0000, OC present, eleven words, two chengyu and 溶 verified. [AI]
+
 - **Character loop, 宙 stamped to the current standard:** no change needed; no aliases, rank 3286 confirmed in CC 3000, OC \*l'ɯwɢs matches Wiktionary, eight words verified. [AI]
 
 - **Character loop, 多 perfected to the current standard:** added OC \*ʔl'aːl (Zhengzhang via en.Wiktionary) to the graphemic bullet and the missing blank line between the callout and the embed; no aliases; rank 137 confirmed in CC 0000, seventeen words, two chengyu and three derived characters verified. [AI]

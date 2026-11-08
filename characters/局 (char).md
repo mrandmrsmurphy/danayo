@@ -31,7 +31,7 @@ mc_id: 3117
 graphemic_classification: 句
 stand_in: 局
 注音: ㄍ⼄ㄎ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character

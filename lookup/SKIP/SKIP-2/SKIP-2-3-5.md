@@ -53,6 +53,7 @@ tags:
 - 宔 --> 主
 - 奌 --> 点
 - 㚔 --> 幸
+- 尙 --> 尚
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

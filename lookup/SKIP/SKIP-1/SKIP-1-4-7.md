@@ -42,6 +42,7 @@ tags:
 
 ### Aliases
 - 辆 --> 両
+- 將 --> 将
 
 ## Datacheck
 ```dataview

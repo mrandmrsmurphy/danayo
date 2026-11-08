@@ -117,6 +117,8 @@ tags: [lookup]
 
 ### Aliases
 - 錶 --> 表
+- 鏘 --> 将
+- 𨪙 --> 将
 
 ## Data check
 ```dataview

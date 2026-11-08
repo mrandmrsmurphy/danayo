@@ -39,7 +39,7 @@ stand_in: "容"
 aliases:
   - 蓉
 注音: "⼄ㄫ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -57,6 +57,11 @@ boundedness: 90
 - [SKIP-2-3-7](../lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 553rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [⼄ㄫ](../syllables/⼄ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 蓉
+No link to 容 found on either Wiktionary page beyond its structure (艹 + 容, with 容 as the phonetic); 蓉 occurs only in 芙蓉 (hibiscus, lotus) and 蓯蓉, kept as an alias for searchers. EDRDG counts 艹 as 3. SKIP 2-3-10; 13 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[容]]<rt>⼄ㄫ</rt></ruby> "look; appearance; form; figure" (stand-in for 容)

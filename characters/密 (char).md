@@ -32,7 +32,7 @@ mc_id: 1125
 graphemic_classification: "宓"
 stand_in: "密"
 注音: "ㄇㄧㄊ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character

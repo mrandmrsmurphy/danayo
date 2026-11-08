@@ -34,6 +34,7 @@ tags: [lookup]
 ### Aliases
 - 恳 --> 懇
 - 挐 --> 拿
+- 浆 --> 将
 
 ### Forbidden
 - 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.

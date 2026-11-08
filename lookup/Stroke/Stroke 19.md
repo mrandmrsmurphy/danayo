@@ -39,6 +39,7 @@ tags:
 - 醱 --> 発
 - 霦 --> 彬
 - 𠑊 --> 厳
+- 鏘 --> 将
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

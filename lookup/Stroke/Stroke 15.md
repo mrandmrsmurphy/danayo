@@ -58,6 +58,7 @@ tags:
 - 賣 --> 売
 - 嘿 --> 黙
 - 輛 --> 両
+- 漿 --> 将
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

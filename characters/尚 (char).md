@@ -33,7 +33,7 @@ stand_in: 尚
 aliases:
   - 尙
 注音: ㄙ⼘ㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 80
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 313th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄙ⼘ㄫ](../syllables/ㄙ⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 尙
+The Japanese kyūjitai form of 尚 (the 向 inside has a closed top); Wiktionary's 尙 page redirects to 尚, and 尚 lists it as its traditional variant. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[尚]]<rt>ㄙ⼘ㄫ</rt></ruby> "still; even more" (stand-in for 尚)
