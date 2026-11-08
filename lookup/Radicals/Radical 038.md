@@ -104,6 +104,7 @@ tags: [lookup]
 ### Aliases
 - 她 --> 他
 - 娚 --> 南
+- 娼 --> 唱
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

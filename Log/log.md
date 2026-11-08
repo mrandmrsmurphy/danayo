@@ -4,6 +4,18 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 基 perfected to the current standard:** added OC \*kɯ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 1612 confirmed; word verified. [AI]
+
+- **Character loop, 城 perfected to the current standard:** OC \*djeŋ already present and confirmed against en.Wiktionary; no aliases, so no `## Aliases` section; `mc_id` 181 confirmed; word verified. [AI]
+
+- **Character loop, 固 perfected to the current standard:** added OC \*kaːs (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 357 confirmed; word verified. [AI]
+
+- **Character loop, 図 perfected to the current standard:** added OC \*daː (Zhengzhang via en.Wiktionary, the value for traditional 圖) to the graphemic bullet; `## Aliases` section for 圖 (SKIP 3-3-11 from EDRDG, 14 strokes) and 图 (SKIP 3-3-5 computed, 8 strokes) with redirects; `mc_id` 763 confirmed against 圖's rank. [AI]
+
+- **Character loop, 問 perfected to the current standard:** added OC \*mɯns (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the simplified form 问 (SKIP 3-3-3 computed, 6 strokes) with redirects; `mc_id` 161 confirmed. [AI]
+
+- **Character loop, 唱 perfected to the current standard:** OC \*tʰjaŋs already present and confirmed; `## Aliases` section for 倡 (SKIP 1-2-8, 10 strokes, CC rank 2144) and 娼 (SKIP 1-3-8, 11 strokes) from EDRDG with redirects; `mc_id` lowered from 2742 to 2144 (倡's rank, the minimum). [AI]
+
 - **Character loop, 告 perfected to the current standard:** added OC \*kuːɡs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the variant 吿 (SKIP 2-4-3 computed, 7 strokes, bare mention) with redirects; `mc_id` 301 confirmed. [AI]
 
 - **Character loop, 同 perfected to the current standard:** added 同's own OC \*doːŋ to the graphemic bullet; `## Aliases` section for 衕 (SKIP 1-3-9 from EDRDG, 12 strokes) and 仝 (SKIP 2-2-3 computed, 5 strokes) with redirects; `mc_id` 184 confirmed. [AI]

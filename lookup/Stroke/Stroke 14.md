@@ -68,6 +68,7 @@ tags:
 - 䛡 --> 話
 - 輕 --> 軽
 - 蜚 --> 飛
+- 圖 --> 図
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

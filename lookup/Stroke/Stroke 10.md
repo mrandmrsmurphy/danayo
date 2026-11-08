@@ -74,6 +74,7 @@ tags:
 - 烧 --> 熱
 - 荅 --> 答
 - 课 --> 課
+- 倡 --> 唱
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -46,6 +46,8 @@ tags: [lookup]
 - 圍 --> 囲
 - 围 --> 囲
 - 國 --> 国
+- 圖 --> 図
+- 图 --> 図
 
 ### Forbidden
 - 圕 - 中国制造: Ligature for 図書館 'library'; uncommon in Chinese, obscure or obsolete in Japanese

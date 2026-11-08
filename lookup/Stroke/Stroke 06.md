@@ -45,6 +45,7 @@ tags:
 - 过 --> 過
 - 达 --> 達
 - 关 --> 関
+- 问 --> 問
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

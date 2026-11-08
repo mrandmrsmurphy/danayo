@@ -27,6 +27,7 @@ tags: [lookup]
 
 ### Aliases
 - 闹 --> 閙
+- 图 --> 図
 
 ### Forbidden
 - 迲 - 국자: 한문교육용기초한자/이름 - '겁'

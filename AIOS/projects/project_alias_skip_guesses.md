@@ -207,3 +207,5 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 古 | 蛊 | 2-6-5 | computed from its parts |
 | 同 | 仝 | 2-2-3 | computed from its parts |
 | 告 | 吿 | 2-4-3 | computed from its parts |
+| 問 | 问 | 3-3-3 | computed from its parts |
+| 図 | 图 | 3-3-5 | computed from its parts |

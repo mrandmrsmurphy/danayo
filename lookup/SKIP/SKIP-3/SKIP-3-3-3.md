@@ -29,6 +29,7 @@ tags: [lookup]
 ### Aliases
 - 过 --> 過
 - 达 --> 達
+- 问 --> 問
 
 ## Datacheck
 ```dataview
