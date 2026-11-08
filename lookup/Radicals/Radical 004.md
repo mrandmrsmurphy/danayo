@@ -26,6 +26,9 @@ tags: [lookup]
 
 ### Aliases
 - 𠂤 --> 堆
+- 𠂞 --> 乎
+- 𠂠 --> 乎
+- 乘 --> 乗
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

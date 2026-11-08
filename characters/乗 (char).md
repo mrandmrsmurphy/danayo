@@ -33,7 +33,7 @@ stand_in: 乗
 aliases:
   - 乘
 注音: ㄙㄨㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -47,11 +47,16 @@ boundedness: 50
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): a person 大 climbing a tree 木, with the feet visible; etymology clearer in the alternative form 椉. Originally meant "to ascend"; extended to "to ride" and, later, to arithmetic multiplication.
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*ɦljɯŋ): a person 大 climbing a tree 木, with the feet visible; etymology clearer in the alternative form 椉. Originally meant "to ascend"; extended to "to ride" and, later, to arithmetic multiplication.
 - [SKIP-4-9-3](../lookup/SKIP/SKIP-4/SKIP-4-9-3.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
-- 269th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄙㄨㄫ](../syllables/ㄙㄨㄫ.md)
+- 269th most used character in Classical Chinese, the rank of its alias 乘 (乗 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄙㄨㄫ](../syllables/ㄙㄨㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Open question, not yet resolved: how to express "exponentiation" — candidates considered include 累乘/冪乗/指数乗, none yet created as word files.
+
+## Aliases
+
+### 乘
+The traditional form and the preferred form in modern Chinese; Wiktionary's 乗 page marks 乗 as the Japanese shinjitai (kyūjitai form 乘), and 乘's page lists 乗 among its forms. It carries the classical rank of 269, which is the page's `mc_id`. SKIP 4-10-3; 10 strokes. It ranks 269 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[乗]]<rt>ㄙㄨㄫ</rt></ruby> "to ride" (stand-in for 乗)

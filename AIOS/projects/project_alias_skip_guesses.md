@@ -150,3 +150,9 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 門 | 閅 | 3-8-2 | computed from its parts |
 | 門 | 门 | 4-3-4 | computed from its parts |
 | 闡 | 阐 | 3-3-8 | computed from its parts |
+| 韋 | 韦 | 4-4-1 | computed from its parts |
+| 両 | 辆 | 1-4-7 | computed from its parts |
+| 両 | 㒳 | 4-7-1 | computed from its parts |
+| 両 | 魉 | 3-10-6 | computed from its parts |
+| 乎 | 𠂞 | 4-5-3 | computed from its parts |
+| 乎 | 𠂠 | 4-5-3 | computed from its parts |

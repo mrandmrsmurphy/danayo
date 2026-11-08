@@ -17,6 +17,10 @@ tags:
 5. <ruby>[巫](/characters/巫.md)<rt>ㄇㄨ</rt></ruby> "shaman"
 6. <ruby>[亜](/characters/亜.md)<rt>ㄚ</rt></ruby> "Asia"
 
+### Aliases
+- 两 --> 両
+- 㒳 --> 両
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

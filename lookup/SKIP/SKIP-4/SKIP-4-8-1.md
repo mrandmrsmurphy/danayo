@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[雨](/characters/雨%20(char).md)<rt>ㄨ</rt></ruby> - rain
 
+### Aliases
+- 兩 --> 両
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

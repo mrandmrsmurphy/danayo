@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 韩 --> 韓
+- 韦 --> 韋
 
 ## Data check
 ```dataview

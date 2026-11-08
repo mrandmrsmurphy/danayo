@@ -30,6 +30,7 @@ tags: [lookup]
 - 风 --> 風
 - 㕛 --> 友
 - 攵 --> 攴
+- 韦 --> 韋
 
 ### Forbidden
 - 仒 - 口訣: Korean 구결 for '샤'

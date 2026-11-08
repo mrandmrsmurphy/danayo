@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 乗 perfected to the current standard:** added OC \*ɦljɯŋ (Zhengzhang via en.Wiktionary); `## Aliases` section for 乘 (traditional form; EDRDG SKIP 4-10-3, 10 strokes; its rank 269 is the page's `mc_id`, bullet reworded to credit it), redirects added; replaced the old duplicate `乘 --> 乗` under Characters on SKIP-4-10-3; twenty words and 剰 verified; the open exponentiation question on the page is left as it was. [AI]
+
+- **Character loop, 乎 perfected to the current standard:** `## Aliases` section for the rare variants 𠂞 and 𠂠 (bare mentions; SKIP 4-5-3 computed by analogy with 乎, 5 strokes), redirects added; rank 69 confirmed in CC 0000, OC present, two words, 豹斑改乎 and 呼 verified. [AI]
+
+- **Character loop, 久 perfected to the current standard:** added OC \*kʷlɯʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 411 confirmed in CC 0000, six words, 天長地久 and three derived characters verified. [AI]
+
+- **Character loop, 両 perfected to the current standard:** `## Aliases` section for nine aliases with redirects: 两 and 兩 (simplified and traditional; EDRDG 4-7-1 and 4-8-1; 兩's rank 349 is the page's `mc_id`, bullet reworded to credit it), 倆 (colloquial 'a few'; no Wiktionary link), 輛 (vehicle classifier), 辆 (SKIP 1-4-7 computed), 輌 (extended shinjitai), 㒳 (archaic component; SKIP 4-7-1 computed), 魎 (魍魎 monster, EDRDG 3-10-8) and 魉 (SKIP 3-10-6 computed, 16 strokes); new redirect-only SKIP leaf 3-10-6 with its ø entry on SKIP-3-10; OC already present, seven words and three chengyu verified. [AI]
+
+- **Character loop, 丙 perfected to the current standard:** added OC \*pqraŋʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 843 confirmed in CC 0000, the word 丙 and two derived characters verified. [AI]
+
+- **Character loop, 黙 perfected to the current standard:** `## Aliases` section for 默 (traditional form; EDRDG SKIP 1-12-4, 16 strokes; its rank 1649 is the page's `mc_id`) and 嘿 (listed as an alternative form on 默's page; EDRDG 1-3-12, 15 strokes; rank 3304 is above 1649), redirects added; reworded the rank bullet to credit 默; OC present, four words verified. [AI]
+
+- **Character loop, 韋 perfected to the current standard:** added OC \*ɢʷɯl (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 韦 (simplified form; SKIP 4-4-1 computed, 4 strokes), redirects added; rank 1464 confirmed in CC 1000, seven derived characters verified, 名専字 with no words. [AI]
+
 - **Stale project `project_syllables_lint` removed:** 武明帥 identified it as an old closed project (the syllables lint sweep and 2026-05 batch audits, closed 2026-07-17). Deleted `AIOS/projects/project_syllables_lint.md`, its entry in `AIOS/projects.md`, and its mentions in `broken links output.md`; nothing else referred to it. Authority: 武明帥.
 
 - **Character loop, 闡 perfected to the current standard:** `## Aliases` section for 阐 (simplified form; SKIP 3-3-8 computed, 11 strokes), redirects added; rank 0 (unranked, alias unranked) and OC present, one word verified. [AI]

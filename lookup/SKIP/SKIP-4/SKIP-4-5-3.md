@@ -24,6 +24,10 @@ tags: [lookup]
 ### Forbidden
 - 卡 - 混乱: HSK/2, but use 牌
 
+### Aliases
+- 𠂞 --> 乎
+- 𠂠 --> 乎
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

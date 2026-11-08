@@ -18,6 +18,10 @@ tags: [lookup]
 7. <ruby>[魑](../../characters/魑.md)<rt>ㄑㄧ</rt></ruby> - mountain demon
 8. <ruby>[魔](../../characters/魔.md)<rt>ㄇㄚ</rt></ruby> - demon
 
+### Aliases
+- 魎 --> 両
+- 魉 --> 両
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

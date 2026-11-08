@@ -13,7 +13,7 @@ Below are the number of strokes for the other material, that is, that which is s
 3. none
 4. [SKIP-3-10-4](lookup/SKIP/SKIP-3/SKIP-3-10-4.md): 魁
 5. [SKIP-3-10-5](lookup/SKIP/SKIP-3/SKIP-3-10-5.md): ø
-6. none
+6. [SKIP-3-10-6](lookup/SKIP/SKIP-3/SKIP-3-10-6.md): ø
 7. [SKIP-3-10-7](lookup/SKIP/SKIP-3/SKIP-3-10-7.md): 趨
 8. [SKIP-3-10-8](lookup/SKIP/SKIP-3/SKIP-3-10-8.md): ø
 9. none

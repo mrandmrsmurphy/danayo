@@ -177,6 +177,7 @@ tags: [lookup]
 - 哩 --> 里
 - 喃 --> 南
 - 呙 --> 咼
+- 嘿 --> 黙
 
 ### Forbidden
 - 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name

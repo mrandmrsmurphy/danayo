@@ -39,6 +39,8 @@ tags: [lookup]
 ### Aliases
 - 㒰 --> 全
 - 內 --> 内
+- 兩 --> 両
+- 㒳 --> 両
 
 ### Forbidden
 - 㒱 - 국자: Korean variant of 夢 'dream'

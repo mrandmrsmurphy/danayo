@@ -30,6 +30,9 @@ tags: [lookup]
 * 无 which is Radical 071
 * 毋 which is Radical 080
 
+### Aliases
+- 韦 --> 韋
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

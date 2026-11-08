@@ -37,7 +37,7 @@ aliases:
   - 魎
   - 魉
 注音: ㄌ⼘ㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 tags:
   - character
 kwin: true
@@ -53,8 +53,37 @@ boundedness: 90
 ## Notes
 - 会意 of [[Radical 001|一]] ("one") and 㒳 (an archaic glyph for a joined pair, no vault page) — two things joined together, "both, a pair." Bronze-script forms also resemble two [[丙 (char)|丙]] (OC \*praŋʔ) joined (Baxter 1992), from which 丙 is sometimes cited as an incidental phonetic; whole-character OC reconstructions: \*raŋʔ (Zhengzhang), \*p.raŋʔ (Baxter–Sagart).
 - [SKIP-4-6-1](../lookup/SKIP/SKIP-4/SKIP-4-6-1.md) ([Stroke 6](../lookup/Stroke/Stroke%2006.md))
-- 349th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
+- 349th most used character in Classical Chinese, the rank of its alias 兩 (両 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 两
+The simplified Chinese form of 兩 ("two; both"); Wiktionary lists 兩, 両 and 两 together as one character and records 两 as an alternative form of 両 in Japanese. SKIP 4-7-1; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 兩
+The traditional form ("two; both"); both Wiktionary pages list 兩, 両 and 两 together, and 両 is its Japanese shinjitai. It carries the classical rank of 349, which is the page's `mc_id`. SKIP 4-8-1; 8 strokes. Radical 011 入. It ranks 349 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 倆
+No link to 両 found on Wiktionary; 倆 (亻 + 兩) is a colloquial Mainland Chinese contraction of "two" plus a classifier, meaning "a few; some", and is kept as an alias because it is built on 兩. SKIP 1-2-8; 10 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+
+### 輛
+The classifier for wheeled vehicles (車 + 兩); Wiktionary's 輛 page sends Japanese readers to 両, since modern Japanese writes 両 for it (一両車, one car). SKIP 1-7-8; 15 strokes. Radical 159 車. It has no rank of its own in the Classical Chinese lists.
+
+### 辆
+The simplified Chinese form of 輛 (车 + 两), not linked to 両 on either Wiktionary page. SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. Radical 159 車. It has no rank of its own in the Classical Chinese lists.
+
+### 輌
+An extended shinjitai form of 輛, which Wiktionary says modern Japanese usually replaces with 両. SKIP 1-7-6; 13 strokes. Radical 159 車. It has no rank of its own in the Classical Chinese lists.
+
+### 㒳
+A rare archaic glyph for a joined pair, the component of 両 named in its graphemic note; Wiktionary lists no definition for it. Kept as a bare mention. SKIP 4-7-1 (computed: EDRDG does not list it); 7 strokes. Radical 011 入. It has no rank of its own in the Classical Chinese lists.
+
+### 魎
+Used only in 魍魎, a kind of monster (鬼 + 兩); Wiktionary's 魎 page shows its simplified form as 鬼 around 両, but 両's page does not list it. Kept because it is built on 兩. SKIP 3-10-8; 17 strokes. Radical 194 鬼. It has no rank of its own in the Classical Chinese lists.
+
+### 魉
+The simplified Chinese form of 魎 (鬼 around 両), used in 魍魉; not linked to 両 on Wiktionary. SKIP 3-10-6 (computed: EDRDG does not list it); 16 strokes. Radical 194 鬼. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[両]]<rt>ㄌ⼘ㄫ</rt></ruby> "both"

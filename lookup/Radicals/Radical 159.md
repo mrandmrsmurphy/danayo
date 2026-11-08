@@ -57,6 +57,9 @@ tags: [lookup]
 - 车 --> 車
 - 輻 --> 放
 - 辐 --> 放
+- 輛 --> 両
+- 辆 --> 両
+- 輌 --> 両
 
 ### Forbidden
 - 𨋳 - 国字: 'seat of a carriage'

@@ -39,6 +39,9 @@ tags:
 - 踩 - 官话: HSK/2.
 - 諚 - 国字: "the lord's command" じょう, not used in modern times
 
+### Aliases
+- 輛 --> 両
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -82,6 +82,7 @@ Radical 1 is 一, the number one.
 - 㐀 --> 丘
 - 业 --> 業
 - 𠁈 --> 君
+- 两 --> 両
 
 ### Forbidden
 - 丆 - 口訣: Korean 구결 for '면' (proto-Hangǔl); an ancient variant of 厂 'cliff' (Radical 027)

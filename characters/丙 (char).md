@@ -29,9 +29,8 @@ danayo_id: 3004
 mc_id: 843
 graphemic_classification: "象形"
 stand_in: "丙"
-aliases:
 注音: "ㄅ⼶ㄫ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -45,7 +44,7 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): origin uncertain — proposed depictions include a fish's tail (*Erya*), a person's shoulders (Shuowen), or a small table/pedestal; no theory has settled consensus. Used from oracle-bone times onward as the third of the Ten Heavenly Stems ([[甲 (char)|甲]], [[乙 (char)|乙]], 丙...), with no reliably recoverable original meaning of its own.
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*pqraŋʔ): origin uncertain — proposed depictions include a fish's tail (*Erya*), a person's shoulders (Shuowen), or a small table/pedestal; no theory has settled consensus. Used from oracle-bone times onward as the third of the Ten Heavenly Stems ([[甲 (char)|甲]], [[乙 (char)|乙]], 丙...), with no reliably recoverable original meaning of its own.
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 843rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 庚三開|ɣiæŋ]] → [ㄅ⼶ㄫ](../syllables/ㄅ⼶ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

@@ -65,6 +65,7 @@ tags:
 - 渔 --> 漁
 - 硏 --> 研
 - 阐 --> 闡
+- 辆 --> 両
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

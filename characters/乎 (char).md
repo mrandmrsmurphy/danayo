@@ -32,7 +32,7 @@ aliases:
   - 𠂞
   - 𠂠
 注音: ㄏㄛ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 tags:
   - character
 kwin: true
@@ -49,6 +49,14 @@ boundedness: 90
 - [SKIP-4-5-3](../lookup/SKIP/SKIP-4/SKIP-4-5-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 69th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𠂞
+A rare variant form of 乎; Wiktionary's 𠂞 page redirects to 乎, and 乎 lists it among its forms. Kept as a bare mention. SKIP 4-5-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠂠
+A rare variant form of 乎, listed beside 𠂞 on 乎's Wiktionary page. Kept as a bare mention. SKIP 4-5-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[乎]]<rt>ㄏㄛ</rt></ruby> "did; do" (stand-in for 乎)

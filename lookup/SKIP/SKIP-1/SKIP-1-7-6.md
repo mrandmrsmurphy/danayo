@@ -48,6 +48,9 @@ tags:
 - 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
 - 𨋳 - 国字: 'seat of a carriage'
 
+### Aliases
+- 輌 --> 両
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
