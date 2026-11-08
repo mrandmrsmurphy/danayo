@@ -66,6 +66,7 @@ tags:
 
 ### +11 Strokes
 35. <ruby>[篠](../../characters/篠.md)<rt>ㄙㄛㄨ</rt></ruby> - dwarf bamboo
+- 簧 --> 黄
 
 ### +12 Strokes
 36. <ruby>[簞](../../characters/簞.md)<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket

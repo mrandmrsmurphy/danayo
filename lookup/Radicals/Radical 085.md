@@ -19,6 +19,7 @@ tags: [lookup]
 4. <ruby>[氾](../../characters/氾.md)<rt>ㄈㄚㄇ</rt></ruby> - overflow
 5. <ruby>[汀](../../characters/汀%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - sand bar
 6. <ruby>[汁](../../characters/汁%20(char).md)<rt>ㄐㄜㄆ</rt></ruby> - soup
+- 汇 --> 彙
 
 ### +2 Strokes
 7. <ruby>[汎](../../characters/汎%20(char).md)<rt>ㄈㄚㄇ</rt></ruby> - pan-
@@ -29,6 +30,7 @@ tags: [lookup]
 12. <ruby>[池](../../characters/池%20(char).md)<rt>ㄐㄨㄧ</rt></ruby> - pond
 
 13. <ruby>[汐](../../characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> - evening tide
+- ¡汢! - 違法字
 
 ### +3 Strokes
 14. <ruby>[求](../../characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - request
@@ -68,6 +70,11 @@ tags: [lookup]
 46. <ruby>[注](../../characters/注.md)<rt>ㄐㄨ</rt></ruby> - pour
 47. <ruby>[泳](../../characters/泳%20(char).md)<rt>ㄨㄧㄫ</rt></ruby> - swim
 48. <ruby>[洩](../../characters/洩.md)<rt>ㄙㄝㄊ</rt></ruby> - vent
+- 沱 --> 他
+- 沲 --> 他
+- 泼 --> 発
+- 泷 --> 瀧
+- ¡㳓! - 違法字
 
 ### +5 Strokes
 49. <ruby>[泉](../../characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - fountain
@@ -87,6 +94,9 @@ tags: [lookup]
 63. <ruby>[浄](../../characters/浄.md)<rt>ㄐㄝㄫ</rt></ruby> - clean
 64. <ruby>[浅](../../characters/浅%20(char).md)<rt>ㄑㄝㄋ</rt></ruby> - shallow
 65. <ruby>[海](../../characters/海.md)<rt>ㄏㄚㄧ</rt></ruby> - sea
+- 洼 --> 窪
+- 洌 --> 列
+- ¡𣴘! - 違法字
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -106,6 +116,10 @@ tags: [lookup]
 80. <ruby>[涙](../../characters/涙%20(char).md)<rt>ㄌㄨㄧ</rt></ruby> - tear
 81. <ruby>[涛](../../characters/涛.md)<rt>ㄉㄚㄨ</rt></ruby> - wave
 82. <ruby>[涜](../../characters/涜.md)<rt>ㄉㄛㄎ</rt></ruby> - ditch
+- 涤 --> 浄
+- 𣴠 --> 活
+- 浆 --> 将
+- ¡㳲! - 違法字
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -128,6 +142,12 @@ tags: [lookup]
 100. <ruby>[渋](../../characters/渋.md)<rt>ㄙㄧㄆ</rt></ruby> - astringent
 101. <ruby>[渓](../../characters/渓.md)<rt>ㄎㄝㄧ</rt></ruby> - mountain stream
 102. <ruby>[渚](../../characters/渚.md)<rt>ㄐㄛ</rt></ruby> - sand bank
+- 淨 --> 浄
+- 淆 --> 交
+- 渮 --> 河
+- 渊 --> 淵
+- 渔 --> 漁
+- 淺 --> 浅
 
 ### +8 Strokes
 103. <ruby>[淵](../../characters/淵.md)<rt>⼔ㄋ</rt></ruby> - abyss
@@ -151,6 +171,9 @@ tags: [lookup]
 121. <ruby>[湿](../../characters/湿%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - wet
 122. <ruby>[満](../../characters/満%20(char).md)<rt>ㄇㄚㄋ</rt></ruby> - full
 123. <ruby>[滋](../../characters/滋.md)<rt>ㄐㄜ</rt></ruby> - thrive
+- 溌 --> 発
+- 渢 --> 風
+- 渾 --> 混
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
@@ -167,6 +190,8 @@ tags: [lookup]
 135. <ruby>[漠](../../characters/漠.md)<rt>ㄇㄚㄎ</rt></ruby> - desert
 136. <ruby>[漢](../../characters/漢.md)<rt>ㄏㄚㄋ</rt></ruby> - Han (Chinese)
 137. <ruby>[潮](../../characters/潮.md)<rt>ㄑㄚㄨ</rt></ruby> - tide
+- 滚 --> 滾
+- 滝 --> 瀧
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -184,6 +209,10 @@ tags: [lookup]
 150. <ruby>[漱](../../characters/漱.md)<rt>ㄙㄛㄨ</rt></ruby> - gargle
 151. <ruby>[漷](../../characters/漷.md)<rt>ㄎ⺢ㄎ</rt></ruby> - turbulent
 152. <ruby>[漸](../../characters/漸.md)<rt>ㄐㄝㄇ</rt></ruby> - gradually
+- 潢 --> 黄
+- 滌 --> 浄
+- 滯 --> 滞
+- 漣 --> 連
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
@@ -196,20 +225,28 @@ tags: [lookup]
 160. <ruby>[澄](../../characters/澄.md)<rt>ㄑㄚㄫ</rt></ruby> - clear
 
 161. <ruby>[澈](../../characters/澈.md)<rt>ㄐㄝㄊ</rt></ruby> - penetrate
+- 潑 --> 発
+- 漿 --> 将
+- ¡㵜! - 違法字
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
 163. <ruby>[激](../../characters/激.md)<rt>ㄍㄝㄎ</rt></ruby> - incite
 164. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
 165. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
+- ¡澡! - 違法字
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
 167. <ruby>[濡](../../characters/濡.md)<rt>ㄋ⼜ㄋ</rt></ruby> - moist, wet
+- 濱 --> 浜
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding
 169. <ruby>[瀑](../../characters/瀑.md)<rt>ㄅㄛㄎ</rt></ruby> - waterfall
+- ¡㶂! - 違法字
+- ¡㶃! - 違法字
+- ¡濺! - 違法字
 
 ### +15 Strokes
 170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
@@ -218,52 +255,14 @@ tags: [lookup]
 ### +16 Strokes
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
 173. <ruby>[灌](../../characters/灌.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pour
+- 瀾 --> 乱
 
 ### +17 Strokes
 174. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice
 175. <ruby>[灘](../../characters/灘%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - bank
 
-### Aliases
-- 瀾 --> 乱
-- 洼 --> 窪
-- 濱 --> 浜
-- 淨 --> 浄
-- 滌 --> 浄
-- 涤 --> 浄
-- 滯 --> 滞
-- 淆 --> 交
-- 沱 --> 他
-- 沲 --> 他
-- 汇 --> 彙
-- 𣴠 --> 活
-- 滚 --> 滾
-- 潑 --> 発
-- 溌 --> 発
-- 泼 --> 発
-- 渢 --> 風
-- 渮 --> 河
-- 渊 --> 淵
-- 渾 --> 混
-- 渔 --> 漁
-- 滝 --> 瀧
-- 泷 --> 瀧
-- 漿 --> 将
-- 浆 --> 将
-- 淺 --> 浅
-- 漣 --> 連
-- 洌 --> 列
-
-### Forbidden
-- 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)
-- 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘
-- 㵜 - 국자: 남 (“the tenth note, 남려 (南呂, namnyeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 㶂 - 국자: 황 (“the first note, 황종 (黃鍾, hwangjong) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 澡 - 官话: Replace with 沐浴, HSK/2
-- 濺 - 官话: HSK/3.
-- 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
-- 𪸉 - 国字: An alternative form of 鬨, 'war cry'
+### +18 Strokes
+- ¡𪸉! - 違法字
 
 ## Data check
 ```dataview

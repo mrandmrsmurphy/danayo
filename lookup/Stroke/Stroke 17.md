@@ -60,6 +60,7 @@ tags:
 - 邇 --> 爾
 - 聯 --> 連
 - 鬀 --> 剃
+- 簧 --> 黄
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

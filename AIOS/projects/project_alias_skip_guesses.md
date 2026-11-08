@@ -27,3 +27,4 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 煥 | 焕 | 1-4-7 | computed from its parts |
 | 蛍 (char) | 萤 | 2-3-8 | computed from its parts |
 | 庾 | 斞 | 1-8-4 | computed from its parts |
+| 黄 (char) | 黃 | 2-4-8 | computed from its parts |

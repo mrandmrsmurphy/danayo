@@ -11,6 +11,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[黄](../../characters/黄%20(char).md)<rt>ㄏ⺢ㄫ</rt></ruby> - yellow
 
+### Aliases
+- 黃 --> 黄
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

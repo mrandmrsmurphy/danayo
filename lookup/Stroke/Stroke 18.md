@@ -57,21 +57,21 @@ tags:
 - 鬄 --> 剃
 
 ### Forbidden
-- 鯎
-- 鯏
-- 鯑
-- 𩸽
-- 㶂 - 국자: 황 (“the first note, 황종 (黃鍾, hwangjong) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
-- 䆆 - 국자: dry rice
-- 䭏 - 국자: '편'
-- 濺 - 官话: HSK/3.
-- 鵤 - 国字: 'grosbeak'. Use 斑鳩
-- 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
-- 簱 - 国字: Rare Japanese character; Wiktionary records no definition
-- 艠 - 国字: Rare Japanese character; Wiktionary records no definition; on-reading トウ
-- 麿 - 国字: A ligature of 麻呂 (maro), used for 'I'
-- 鎹 - 国字: clamp
+- ¡鯎! - 違法字
+- ¡鯏! - 違法字
+- ¡鯑! - 違法字
+- ¡𩸽! - 違法字
+- ¡㶂! - 違法字
+- ¡㶃! - 違法字
+- ¡䆆! - 違法字
+- ¡䭏! - 違法字
+- ¡濺! - 違法字
+- ¡鵤! - 違法字
+- ¡鎺! - 違法字
+- ¡簱! - 違法字
+- ¡艠! - 違法字
+- ¡麿! - 違法字
+- ¡鎹! - 違法字
 
 ## Data check
 ```dataview

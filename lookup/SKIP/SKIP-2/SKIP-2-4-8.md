@@ -22,6 +22,9 @@ tags: [lookup]
 ### Forbidden
 - 暃 - 幽霊文字: "the color of the sun"
 
+### Aliases
+- 黃 --> 黄
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
