@@ -50,6 +50,7 @@ tags:
 
 ### Aliases
 - 輌 --> 両
+- 貇 --> 懇
 
 ## Datacheck
 ```dataview

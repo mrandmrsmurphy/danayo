@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **貇 made an alias of 懇, and 懇 the derived-character hub for 貇:** by the project owner's decision, on the derived Dan'a'yo sound (貇 would read ㄎㄚㄋ like 懇 and 墾, MC `kʰ` + `ən`) and because Wiktionary records 貇 as a variant of 懇 and it is the phonetic of 懇 and 墾. 懇 gained `aliases: 貇`, 貇 in its `## Aliases` section beside 恳 (redirects on Stroke 13, SKIP-1-7-6 and Radical 153) and `## Derived Characters` (墾). `mc_id` unchanged (4033). The note on 墾 now links 貇 to 懇. Authority: 武明帥.
+
+- **囟 de-linked on 思:** the red link `[[囟]]` (fontanelle; phonetic of 思; derived sound ㄙㄧㄋ against 思's ㄙㄚ) is plain text; no alias candidate fits sound and meaning. Authority: 武明帥.
+
+- **歁 de-linked on 嵌:** the red link `[[歁]]` (abbreviated phonetic of 嵌; "not satiated") is plain text; same derived sound as 嵌 (ㄎㄚㄇ) but no variant or meaning link. Authority: 武明帥.
+
+- **屆 de-linked on 届 (char):** the red link `[[屆]]` pointed at the page's own alias; it is plain text ("traditional 屆, this page's alias"). Authority: 武明帥.
+
+- **萈 de-linked on 寛:** the red link `[[萈]]` (obsolete "goat", the phonetic of 寛; derived sound ㄏ⺢ㄋ against 寛's ㄎ⺢ㄋ) is now plain text; no alias candidate fits sound and meaning. Authority: 武明帥.
+
 - **痒 made an alias of 羊, and 掻羊 coined for "itch":** by the project owner's decision, 痒 (疒 + phonetic 羊, "itchy") would only occur in compounds and ⼘ㄫ is already crowded, so it is an alias of 羊 and gets no page. 羊 gained `aliases: 痒` and its first `## Aliases` section (𦍌, 佯, 痒; redirects on Stroke 06, 08 and 11, SKIP-2-3-3, SKIP-1-2-6 and SKIP-3-5-6, Radicals 123, 009 and 104; 𦍌's SKIP computed); `mc_id` unchanged (681). The `[[痒]]` links on Old HSK 4 and Korean Name ㅇ now point to 羊, and the wrong redirect `痒 --> 瘍` on Hyōgai is now `痒 --> 羊`; the "removed 痒" history clause on 瘍 is deleted. New word `words/掻羊.md` (名詞, "itch"; 掻 + 羊; ㄙㄚㄨ⼘ㄫ, `sau'yang`, 삿양; readings from en.Wiktionary 搔癢, 掻痒 and 搔痒, Vietnamese omitted; aliases 搔羊, 搔癢, 搔痒, 掻痒, 掻癢, 瘙癢, 瘙痒), added to `## Words` on 掻 and 羊 and to lexipedia/Sensation. Authority: 武明帥.
 
 - **粲 made an alias of 燦:** by the project owner's decision, on the derived Dan'a'yo sound (粲 would read ㄑㄚㄋ like 燦, MC `t͡sʰ` + `ɑn`) and because Wiktionary says they are the same word (燦 is 粲 + 火). 燦 gained `aliases: 粲` and its first `## Aliases` section (灿 and 粲; redirects on Stroke 07 and 13, SKIP-1-4-3 and SKIP-2-7-6, Radicals 086 and 119; 灿's SKIP computed). `mc_id` is now 3105, 粲's Classical Chinese rank (燦 itself is not on the lists). No other vault character is built on 粲, so no Derived Characters section. The `[[粲]]` links on 燦 and Korean Name ㅊ now point to 燦. Authority: 武明帥.
