@@ -79,6 +79,7 @@ tags:
 ### Aliases
 - 玑 --> 璣
 - 珪 --> 硅
+- 现 --> 現
 
 ## Data check
 ```dataview

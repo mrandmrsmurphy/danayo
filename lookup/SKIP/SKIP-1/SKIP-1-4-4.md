@@ -59,6 +59,7 @@ tags:
 - 杵 --> 午
 - 极 --> 極
 - 枇 --> 比
+- 现 --> 現
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

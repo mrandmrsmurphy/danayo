@@ -91,6 +91,8 @@ tags: [lookup]
 - 烂 --> 乱
 - 燈 --> 灯
 - 熈 --> 熙
+- 热 --> 熱
+- 烧 --> 熱
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

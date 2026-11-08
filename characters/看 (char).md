@@ -32,7 +32,7 @@ mc_id: 6498
 graphemic_classification: 会意
 stand_in: 看
 注音: ㄎㄚㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -46,7 +46,7 @@ boundedness: 100
 ```
 
 ## Notes
-- 会意 of [[Radical 064|手]] ("hand") and [[Radical 109|目]] ("eye") — a hand held above the eyes to gaze afar.
+- 会意 (OC \*kʰaːns, \*kʰaːn) of [[Radical 064|手]] ("hand") and [[Radical 109|目]] ("eye") — a hand held above the eyes to gaze afar.
 - [SKIP-3-4-5](../lookup/SKIP/SKIP-3/SKIP-3-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 6498th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄎㄚㄋ](../syllables/ㄎㄚㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

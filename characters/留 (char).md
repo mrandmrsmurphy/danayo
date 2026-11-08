@@ -34,7 +34,7 @@ aliases:
   - 畱
   - 霤
 注音: ㄌ⼜
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -48,10 +48,18 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声: semantic [[Radical 102|田]] ("field") + phonetic 丣 — to stay put in one place.
+- 形声 (OC \*m·ru): semantic [[Radical 102|田]] ("field") + phonetic 丣 — to stay put in one place.
 - [SKIP-2-5-5](../lookup/SKIP/SKIP-2/SKIP-2-5-5.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 541st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄌ⼜](../syllables/ㄌ⼜.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 畱
+The traditional form of 留 ("to detain; to stay"); Wiktionary's 畱 page redirects to 留, and 留 lists it among its forms. SKIP 2-7-5; 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 霤
+No link to 留 found on Wiktionary beyond its structure (雨 + 留, "eaves; raindrops"); 霤 is a separate character built on 留 as its phonetic, kept as an alias for searchers. Its rank of 3495 is a higher number than 541. SKIP 2-8-10; 18 strokes. Radical 173 雨. It ranks 3495 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[留]]<rt>ㄌ⼜</rt></ruby> "remain; stay" (stand-in for 留)

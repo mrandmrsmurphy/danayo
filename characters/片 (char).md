@@ -29,7 +29,7 @@ mc_id: 3661
 graphemic_classification: 象形
 stand_in: 片
 注音: ㄆㄝㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -43,7 +43,7 @@ boundedness: 100
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): a mirror image of 爿 ("piece," the pictograph of a bed); the Shuowen instead analyzes it as half of 木 ("wood") — "to pare; to slice."
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*pʰeːns): a mirror image of 爿 ("piece," the pictograph of a bed); the Shuowen instead analyzes it as half of 木 ("wood") — "to pare; to slice."
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 3661st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄆㄝㄋ](../syllables/ㄆㄝㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

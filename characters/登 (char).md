@@ -31,7 +31,7 @@ mc_id: 767
 graphemic_classification: "会意"
 stand_in: "登"
 注音: "ㄉㄨㄫ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -45,7 +45,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 会意 of [[Radical 105|癶]] ("left and right feet") and [[Radical 151|豆]] ("raised object; stepping stone") — stepping up with both feet: to ascend.
+- 会意 (OC \*tɯːŋ) of [[Radical 105|癶]] ("left and right feet") and [[Radical 151|豆]] ("raised object; stepping stone") — stepping up with both feet: to ascend.
 - [SKIP-2-5-7](../lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 767th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄉㄨㄫ](../syllables/ㄉㄨㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

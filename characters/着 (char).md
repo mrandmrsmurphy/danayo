@@ -32,7 +32,7 @@ aliases:
   - 著
   - 躇
 注音: ㄐ⺢ㄎ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,9 +48,17 @@ boundedness: 100
 ## Notes
 - 形声 (OC \*taʔ, \*tas, \*da, \*taɡ, \*daɡ): original form 著, semantic [[Radical 140|艸]] ("grass") + phonetic [[－者|者]] (OC \*tjaːʔ) — to put, to place; the modern variant 着's assigned Kangxi radical, [[Radical 109|目]] ("eye"), reflects the shinjitai's loss of the 艸 top rather than the true etymology.
 - [SKIP-3-7-5](../lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 664th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄐ⺢ㄎ](../syllables/ㄐ⺢ㄎ.md)
+- 664th most used character in Classical Chinese, the rank of its alias 著 (着 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄐ⺢ㄎ](../syllables/ㄐ⺢ㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - 躇 (足 + 著) is aliased here, not given its own page: it's the phonetic host for the 聯綿詞 [[躊躇]] (Dan'a'yo [[寿着]]), where 足 was added purely as a category marker (pacing/hesitation) and never occurs independently of that one word.
+
+## Aliases
+
+### 著
+The original and preferred traditional form (艹 + 者); Wiktionary's 著 page lists 着 as an unorthodox variant that is also the standard form for some senses, while mainland China treats 著 (zhù) as a separate character. It carries the classical rank of 664, which is the page's `mc_id`. Counted as 11 strokes, the Japanese way. SKIP 2-3-8; 11 strokes. Radical 140 艸. It ranks 664 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 躇
+The phonetic host for the 聯綿詞 躊躇 (Dan'a'yo 寿着), where 足 was added only as a category marker; it never occurs independently of that word. EDRDG gives its own SKIP. SKIP 1-7-12; 18 strokes. Radical 157 足. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[着]]<rt>ㄐ⺢ㄎ</rt></ruby> "to wear" (stand-in for 着)

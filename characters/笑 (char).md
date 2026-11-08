@@ -31,7 +31,7 @@ stand_in: "笑"
 aliases:
   - 咲
 注音: "ㄙ⼄ㄨ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -45,10 +45,15 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: semantic [[Radical 118|竹]] ("bamboo") + phonetic 夭 — as bamboo sways in the wind: the body shaking with laughter.
+- 形声 (OC \*sqʰows): semantic [[Radical 118|竹]] ("bamboo") + phonetic 夭 — as bamboo sways in the wind: the body shaking with laughter.
 - [SKIP-2-6-4](../lookup/SKIP/SKIP-2/SKIP-2-6-4.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 882nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙ⼄ㄨ](../syllables/ㄙ⼄ㄨ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 咲
+The original form of 笑 (口 + 关, "to laugh"); Wiktionary's 咲 page redirects to 笑, and 笑 lists it among its forms. In Japan it is used for flowers blooming, and as a given name. SKIP 1-3-6; 9 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[笑]]<rt>ㄙ⼄ㄨ</rt></ruby> "laugh; smile" (stand-in for 笑)

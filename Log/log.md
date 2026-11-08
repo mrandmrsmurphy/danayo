@@ -4,6 +4,34 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 第 perfected to the current standard:** `## Aliases` section for the rare variant 㐧 (bare mention; SKIP 4-4-4 computed, 4 strokes), redirects added; rank 902 confirmed in CC 0000, OC \*diːls present, fourteen words verified. [AI]
+
+- **Character loop, 笑 perfected to the current standard:** added OC \*sqʰows (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 咲 (original form of 笑; EDRDG SKIP 1-3-6, 9 strokes), redirects added; rank 882 confirmed in CC 0000, ten words and 呵呵大笑 verified. [AI]
+
+- **Character loop, 破 perfected to the current standard:** added OC \*pʰaːls (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 385 confirmed in CC 0000, eleven words and 破頭傷足 verified. [AI]
+
+- **Character loop, 着 perfected to the current standard:** `## Aliases` section for 著 (original and preferred traditional form; EDRDG SKIP 2-3-8, counted 11 strokes the Japanese way; its rank 664 is the page's `mc_id`, bullet reworded to credit it) and 躇 (phonetic host of 躊躇; EDRDG 1-7-12, 18 strokes), redirects added; OC present, eleven words verified. [AI]
+
+- **Character loop, 看 perfected to the current standard:** added OC \*kʰaːns, \*kʰaːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 6498 (trusted long tail), three words verified. [AI]
+
+- **Character loop, 省 perfected to the current standard:** added OC \*sleŋʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 671 confirmed in CC 0000, two words verified. [AI]
+
+- **Character loop, 登 perfected to the current standard:** added OC \*tɯːŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 767 confirmed in CC 0000, the word 登 and four derived characters verified. [AI]
+
+- **Character loop, 番 perfected to the current standard:** added OC \*pʰan to the graphemic bullet (the Zhengzhang value for the fān reading among several readings on en.Wiktionary; not independently confirmed); `## Aliases` section for 鄱 (Jiangxi place name, phonetic 番; no Wiktionary link; EDRDG SKIP 1-12-3, 14 strokes), redirects added; rank 2135 confirmed in CC 2000, twelve words and five derived characters verified. [AI]
+
+- **Character loop, 留 perfected to the current standard:** added OC \*m·ru (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 畱 (traditional form; EDRDG SKIP 2-7-5, 12 strokes) and 霤 ('eaves', phonetic 留; EDRDG 2-8-10, 18 strokes; rank 3495 is above 541), redirects added; rank 541 confirmed in CC 0000, six words and three derived characters verified. [AI]
+
+- **Character loop, 現 perfected to the current standard:** `## Aliases` section for 现 (simplified form; SKIP 1-4-4 computed, 8 strokes), redirects added; rank 7052 (trusted long tail), OC \*ɡeːns matching Wiktionary, fourteen words and two chengyu verified. [AI]
+
+- **Character loop, 片 perfected to the current standard:** added OC \*pʰeːns (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 3661 confirmed in CC 3000, six words and two derived characters verified. [AI]
+
+- **Character loop, 爾 perfected to the current standard:** added OC \*njelʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 尓 (Japanese variant; EDRDG SKIP 2-2-3, 5 strokes), 邇 ('near', phonetic 爾; EDRDG 3-4-14, 17 strokes; rank 2049 is above 572) and 尔 (simplified, 1956; SKIP 2-2-3 computed, 5 strokes), redirects added; rank 572 confirmed in CC 0000, five words and three derived characters verified; the 'yes' gloss left as ruled. [AI]
+
+- **Character loop, 熱 perfected to the current standard:** added OC \*ŋjed (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 热 (simplified; SKIP 2-6-4 computed, 10 strokes) and 烧 (simplified of 燒 'to burn'; SKIP 1-4-6 computed, 10 strokes; no Wiktionary link to 熱), redirects added; rank 641 confirmed in CC 0000, eleven words verified. [AI]
+
+- **Character loop, 然 perfected to the current standard:** added OC \*njen (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 81 confirmed in CC 0000, twenty-eight words, three chengyu and 燃 verified. [AI]
+
 - **Character loop, 無 perfected to the current standard:** added OC \*ma (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 无 (Kangxi radical 71 and simplified form; EDRDG SKIP 4-4-1, 4 strokes; rank 825 is above 18) and 憮 (behind the word 無然; EDRDG 1-3-12, 15 strokes), redirects added; rank 18 confirmed in CC 0000, thirty-two words, eleven chengyu and three derived characters verified. [AI]
 
 - **Character loop, 浅 perfected to the current standard:** added OC \*sʰlenʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet and put the rank bullet in the standard wording crediting 淺; `## Aliases` section for 淺 (traditional; EDRDG SKIP 1-3-8, 11 strokes; its rank 1412 is the page's `mc_id`), redirects added; two words verified. [AI]

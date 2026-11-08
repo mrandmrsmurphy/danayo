@@ -57,6 +57,7 @@ tags:
 - 鯎 --> 成
 - 舊 --> 旧
 - 闇 --> 暗
+- 邇 --> 爾
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

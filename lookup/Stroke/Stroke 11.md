@@ -71,6 +71,7 @@ tags:
 - 捲 --> 巻
 - 䢁 --> 朝
 - 淺 --> 浅
+- 著 --> 着
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

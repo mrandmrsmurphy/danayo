@@ -33,6 +33,8 @@ tags: [lookup]
 ### Aliases
 - 尝 --> 嘗
 - 尙 --> 尚
+- 尓 --> 爾
+- 尔 --> 爾
 
 ### Forbidden
 - 龸 - 幽霊文字: Zero notes, zero real citations in this vault -- a bare decomposition-component glyph.

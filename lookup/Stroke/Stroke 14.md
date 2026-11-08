@@ -64,6 +64,7 @@ tags:
 - 榮 --> 栄
 - 熈 --> 熙
 - 缪 --> 謬
+- 鄱 --> 番
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

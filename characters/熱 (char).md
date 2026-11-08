@@ -35,7 +35,7 @@ aliases:
   - 热
   - 烧
 注音: ㄋ⼶ㄊ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,10 +49,18 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声: semantic [[Radical 086|火]] ("fire") + phonetic 埶 — heat.
+- 形声 (OC \*ŋjed): semantic [[Radical 086|火]] ("fire") + phonetic 埶 — heat.
 - [SKIP-2-11-4](../lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 641st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄋ⼶ㄊ](../syllables/ㄋ⼶ㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 热
+The simplified Chinese form of 熱 (执 over 灬); Wiktionary's 热 page names 熱 as its traditional form, and 熱 lists it as its simplified form. SKIP 2-6-4 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 烧
+No link to 熱 found on either Wiktionary page; 烧 (火 + 尧) is the simplified form of 燒, "to burn", a separate character kept as an alias for searchers because the two are used together in words about heat. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[熱]]<rt>ㄋ⼶ㄊ</rt></ruby> "heat up; be hot" (stand-in for 熱)

@@ -70,6 +70,8 @@ tags:
 - 爱 --> 愛
 - 桥 --> 橋
 - 粃 --> 比
+- 热 --> 熱
+- 烧 --> 熱
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

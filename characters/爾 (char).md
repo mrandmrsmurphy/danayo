@@ -35,7 +35,7 @@ aliases:
   - 邇
   - 尔
 注音: "ㄋㄝ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,10 +49,21 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): cloth on a loom with threads crossing — the original form of 檷 ("loom"); phonetically borrowed for 爾 ("you").
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*njelʔ): cloth on a loom with threads crossing — the original form of 檷 ("loom"); phonetically borrowed for 爾 ("you").
 - [SKIP-4-14-1](../lookup/SKIP/SKIP-4/SKIP-4-14-1.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 572nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄋㄝ](../syllables/ㄋㄝ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 尓
+An unorthodox Japanese variant (俗字) of 爾; Wiktionary lists 爾, 尓 and 尔 together as one character and redirects 尓 to 爾. SKIP 2-2-3; 5 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 邇
+No link to 爾 found on Wiktionary; 邇 (辶 + 爾, "near, close; to approach") is a separate character built on 爾 as its phonetic, kept as an alias for searchers. Its rank of 2049 is a higher number than 572. SKIP 3-4-14; 17 strokes. Radical 162 辵. It ranks 2049 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 尔
+The simplified Chinese form of 爾, officially adopted in 1956; Wiktionary lists 爾, 尓 and 尔 together as one character. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[爾]]<rt>ㄋㄝ</rt></ruby> "yes" (stand-in for 爾)

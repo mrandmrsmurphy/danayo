@@ -63,6 +63,7 @@ tags:
 
 ### Aliases
 - 蹶 --> 決
+- 躇 --> 着
 
 ## Data check
 ```dataview

@@ -54,6 +54,7 @@ tags:
 
 ### Aliases
 - 邨 --> 村
+- 鄱 --> 番
 
 ### Forbidden
 - 𨛗 - 国字: 国字 (邑 + 阝, 7 + 2 strokes); Wiktionary records no definition

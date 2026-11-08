@@ -30,7 +30,7 @@ stand_in: "第"
 aliases:
   - 㐧
 注音: "ㄉㄝㄧ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 90
 - [SKIP-2-6-5](../lookup/SKIP/SKIP-2/SKIP-2-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 902nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄉㄝㄧ](../syllables/ㄉㄝㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 㐧
+A rare simplified variant of 第 (Wiktionary's 㐧 page marks 第 as its orthodox form and gives it as an alternative form of 第 in Japanese); kept as a bare mention. SKIP 4-4-4 (computed: EDRDG does not list it); 4 strokes. Radical 006 亅. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[第]]<rt>ㄉㄝㄧ</rt></ruby> "-th" (stand-in for 第)

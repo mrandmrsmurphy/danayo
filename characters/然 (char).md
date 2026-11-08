@@ -30,7 +30,7 @@ mc_id: 81
 graphemic_classification: "肰"
 stand_in: "然"
 注音: "ㄋ⼶ㄋ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -44,7 +44,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声: semantic [[Radical 086|火]] ("fire") + phonetic [[肰]] ("dog meat") — "to burn" (the original form of 燃), phonetically borrowed for "so; thus."
+- 形声 (OC \*njen): semantic [[Radical 086|火]] ("fire") + phonetic [[肰]] ("dog meat") — "to burn" (the original form of 燃), phonetically borrowed for "so; thus."
 - [SKIP-2-8-4](../lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 81st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄋ⼶ㄋ](../syllables/ㄋ⼶ㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

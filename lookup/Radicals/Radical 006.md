@@ -18,6 +18,7 @@ tags: [lookup]
 ### Aliases
 - 𠄎 --> 乃
 - 亊 --> 事
+- 㐧 --> 第
 
 ### Forbidden
 - 亇 - 국자: 'hammer'/마/망치, use 槌

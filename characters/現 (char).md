@@ -33,7 +33,7 @@ stand_in: "現"
 aliases:
   - 现
 注音: "ㄏ⼶ㄋ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 90
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 7052nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏ⼶ㄋ](../syllables/ㄏ⼶ㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 现
+The simplified Chinese form of 現 (王 + 见); Wiktionary's 现 page redirects to 現, and 現 lists it as its simplified form. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[現]]<rt>ㄏ⼶ㄋ</rt></ruby> "present; revealed" (stand-in for 現)

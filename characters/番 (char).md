@@ -34,7 +34,7 @@ stand_in: 番
 aliases:
   - 鄱
 注音: ㄈㄚㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,10 +48,15 @@ boundedness: 70
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): an animal's paw print (釆) in a field ([[Radical 102|田]]) — originally "footprint"; the counting sense is a borrowing.
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*pʰan): an animal's paw print (釆) in a field ([[Radical 102|田]]) — originally "footprint"; the counting sense is a borrowing.
 - [SKIP-2-7-5](../lookup/SKIP/SKIP-2/SKIP-2-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2135th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄈㄚㄋ](../syllables/ㄈㄚㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鄱
+No link to 番 found on either Wiktionary page beyond its structure (番 + 阝, a county and lake in Jiangxi); 鄱 is a separate place-name character built on 番 as its phonetic, kept as an alias for searchers. SKIP 1-12-3; 14 strokes. Radical 163 邑. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[番]]<rt>ㄈㄚㄋ</rt></ruby> "time; turn; occasion" (stand-in for 番)
