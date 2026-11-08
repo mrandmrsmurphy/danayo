@@ -141,6 +141,7 @@ tags: [lookup]
 108. <ruby>[嘆](../../characters/嘆%20(char).md)<rt>ㄊㄚㄋ</rt></ruby> - moan
 
 109. <ruby>[嗇](../../characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - stingy
+- ¡嗮! - 違法字
 
 ### +11 Strokes
 110. <ruby>[呕](../../characters/呕.md)<rt>ㄛㄨ</rt></ruby> - vomit

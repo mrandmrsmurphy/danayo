@@ -106,6 +106,7 @@ tags:
 - 𨕫 - 国字: Used only in the place name 𨕫ノ尾 (Shime-no-o) on Iki Island, Nagasaki
 - 榊 - 国字: Japanese-invented character, "sakaki".
 - 碓 - 国字: 日本人名用漢字.  Use 杵 instead.
+- ¡嗮! - 違法字
 
 ## Data check
 ```dataview

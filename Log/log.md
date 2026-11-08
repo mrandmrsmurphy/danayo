@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **嗮 made a forbidden character, 澌 plain text; 晒 cleaned:** 嗮 (口 + 晒, a Cantonese-only aspect marker, "completely, all") added to 文法 - 98違法字 as 方言 (Chinese 135 → 136, total 441 → 442) with Stroke 13, SKIP-1-3-10 and Radical 030 lines `- ¡嗮! - 違法字`. On 晒 (char) the links to 嗮 and 澌 are plain text (嗮 with its forbidden note, 澌 "to drain dry"), and the unsupported claim that 嗮 is "etymologically tied to 澌" is deleted. Authority: 武明帥.
+
 - **樊 made an alias of 藩, and 藩 the derived-character hub for 樊:** by the project owner's decision, on meaning (both are "fence, hedge") and the same Middle Chinese slot (附袁切, `v` + `ʉɐn`; the vault's characters in that slot read ㄆㄛㄋ, ㄆㄛㄇ or ㄈㄛㄇ, so the derived sound is a range). 藩 gained `aliases: 樊`, its first `## Aliases` section (redirects on Stroke 15, SKIP-2-12-3 and Radical 075) and `## Derived Characters` with a short explanation (攀, 礬). `mc_id` is now 1336, 樊's Classical Chinese rank (藩 was 1786). The 樊 links on 攀 and 礬 now point to 藩 (Korean Name ㅂ already did). Authority: 武明帥.
 
 - **敝 made an alias of 蔽, and 蔽 the derived-character hub for 敝:** by the project owner's decision, on the derived Dan'a'yo sound (敝 is 毗祭切 like 蔽 and 幣, ㄆㄝ) and because Wiktionary records 敝 as an alternative form of 蔽 and 弊; 蔽 chosen over 弊, whose sound (ㄆㄝㄧ) differs. 蔽 gained `aliases: 敝`, its first `## Aliases` section (redirects on Stroke 11, SKIP-1-8-4 and Radical 066) and `## Derived Characters` with a short explanation (幣, 弊, 撇, 瞥). `mc_id` unchanged (1127). The 敝 links and "pageless" notes on 撇, 瞥, 弊 and 幣 now point to 蔽. Authority: 武明帥.
