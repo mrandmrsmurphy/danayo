@@ -89,6 +89,10 @@ tags:
 - 㔔 - 국자: Korean-coined hanja for 덩 or 강 (proto-Hangǔl), used for transliteration
 - 𪟧 - 国字: 国字 (男 + 𤲶); Wiktionary records no definition
 
+### Aliases
+- 勞 --> 労
+- 劳 --> 労
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

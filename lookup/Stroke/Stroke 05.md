@@ -26,6 +26,7 @@ tags:
 - 4-5-4: <ruby>[[央]]<rt>⼘ㄫ</rt></ruby>, <ruby>[[弗]]<rt>ㄈㄨㄊ</rt></ruby>, <ruby>[[戊]]<rt>ㄇㄛㄨ</rt></ruby>, <ruby>[[犮]]<rt>ㄅ⼘ㄊ</rt></ruby>, <ruby>[[史]]<rt>ㄙㄧ</rt></ruby>, <ruby>[[失]]<rt>ㄙㄧㄊ</rt></ruby>
 
 ### Aliases
+- 仝 --> 同
 - 夘 --> 卯
 - 圣 --> 聖
 - 讨 --> 討
@@ -48,6 +49,7 @@ tags:
 - 尓 --> 爾
 - 尔 --> 爾
 - 头 --> 頭
+- 㐶 --> 化
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.

@@ -57,6 +57,7 @@ tags: [lookup]
 ### Aliases
 - 醗 --> 発
 - 醱 --> 発
+- 醫 --> 医
 
 ## Data check
 ```dataview

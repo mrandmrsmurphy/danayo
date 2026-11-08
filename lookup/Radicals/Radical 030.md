@@ -180,6 +180,7 @@ tags: [lookup]
 - 嘿 --> 黙
 - 嚴 --> 厳
 - 咲 --> 笑
+- 吿 --> 告
 
 ### Forbidden
 - 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name

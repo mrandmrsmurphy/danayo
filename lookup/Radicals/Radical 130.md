@@ -108,6 +108,7 @@ tags: [lookup]
 ### Aliases
 - 胶 --> 交
 - 膽 --> 胆
+- 胜 --> 勝
 
 ### Forbidden
 - 臉 - 官话: HSK/2, 'cheek', 'face' --> 頬, 面; radical ⺼ (肉)

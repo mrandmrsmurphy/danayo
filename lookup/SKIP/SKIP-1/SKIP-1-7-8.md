@@ -41,6 +41,7 @@ tags:
 
 ### Aliases
 - 輛 --> 両
+- 諏 --> 取
 
 ## Datacheck
 ```dataview

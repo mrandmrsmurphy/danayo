@@ -87,6 +87,8 @@ tags:
 - 蚬 --> 蜆
 - 蛔 --> 回
 - 蜚 --> 飛
+- 蠱 --> 古
+- 蛊 --> 古
 
 ### Forbidden
 - 﨡 - 国字: 国字 for the jewel beetle

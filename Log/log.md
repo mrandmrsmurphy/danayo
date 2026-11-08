@@ -4,6 +4,34 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 告 perfected to the current standard:** added OC \*kuːɡs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the variant 吿 (SKIP 2-4-3 computed, 7 strokes, bare mention) with redirects; `mc_id` 301 confirmed. [AI]
+
+- **Character loop, 同 perfected to the current standard:** added 同's own OC \*doːŋ to the graphemic bullet; `## Aliases` section for 衕 (SKIP 1-3-9 from EDRDG, 12 strokes) and 仝 (SKIP 2-2-3 computed, 5 strokes) with redirects; `mc_id` 184 confirmed. [AI]
+
+- **Character loop, 古 perfected to the current standard:** added OC \*kaːʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 蠱 (SKIP 2-6-17 from EDRDG, 23 strokes) and 蛊 (SKIP 2-6-5 computed, 11 strokes), no Wiktionary link to 古 claimed, redirects added; `mc_id` 305 confirmed. [AI]
+
+- **Character loop, 取 perfected to the current standard:** added OC \*sʰloːʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the jinmeiyō kanji 諏 (SKIP 1-7-8 from EDRDG, 15 strokes) with redirects on Stroke 15 (existing), SKIP and Radical 149; `mc_id` 179 confirmed; words verified. [AI]
+
+- **Character loop, 危 perfected to the current standard:** added OC \*ŋrol (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases on Wiktionary or in the vault, so no `## Aliases` section; `mc_id` 453 confirmed; three words verified. [AI]
+
+- **Character loop, 印 perfected to the current standard:** added OC \*qiŋs (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases found on either Wiktionary or the vault, so no `## Aliases` section; `mc_id` 1149 confirmed; eleven words verified. [AI]
+
+- **Character loop, 医 perfected to the current standard:** added OC \*qiːs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 醫 (OC \*qɯ, SKIP 2-11-7, 18 strokes from EDRDG/Unihan) with redirects; `mc_id` 1349 confirmed against 醫's CC rank; four words verified. [AI]
+
+- **Character loop, 化 perfected to the current standard:** added OC \*hŋʷraːls (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for the rare variants 㐶 (SKIP 1-2-3 computed, 5 strokes) and 𠏁 (1-2-13 computed, 15 strokes), bare mentions, redirects added; rank 367 confirmed in CC 0000, twenty-two words, 信達雅化 and four derived characters verified. [AI]
+
+- **Character loop, 勝 perfected to the current standard:** corrected the Old Chinese reconstruction from \*l'ɯmʔ (a form of 朕's) to Zhengzhang's \*hljɯŋ, \*hljɯŋs for 勝 itself (en.Wiktionary); `## Aliases` section for 胜 (simplified form; SKIP 1-4-5 computed, 9 strokes), redirects added; rank 239 confirmed in CC 0000, three words verified. [AI]
+
+- **Character loop, 勇 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 728 confirmed in CC 0000, OC \*loŋʔ matches Wiktionary, two words verified. [AI]
+
+- **Character loop, 労 perfected to the current standard:** added OC \*raːw (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 勞 (traditional; EDRDG SKIP 2-8-4, 12 strokes; its rank 542 is the page's `mc_id`, bullet reworded to credit it) and 劳 (simplified; SKIP 2-6-2 computed, 8 strokes), redirects added; two words and 𢭐 verified. [AI]
+
+- **Character loop, 功 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 164 confirmed in CC 0000, OC \*koːŋ matches Wiktionary, three words and 論功行賞 verified. [AI]
+
+- **Character loop, 初 perfected to the current standard:** added OC \*sʰra (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 296 confirmed in CC 0000, eleven words verified. [AI]
+
+- **Character loop, 列 perfected to the current standard:** added OC \*red (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 冽 ('cold'; EDRDG SKIP 1-2-6, 8 strokes) and 洌 ('clear'; 1-3-6, 9 strokes), both built on 列 as phonetic with no Wiktionary link back, redirects added; rank 490 confirmed in CC 0000, seven words and three derived characters verified. [AI]
+
 - **Character loop, 再 perfected to the current standard:** added OC \*ʔsɯːs (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 662 confirmed in CC 0000, two words and 合漢再決 verified. [AI]
 
 - **Character loop, 典 perfected to the current standard:** added OC \*tɯːnʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 838 confirmed in CC 0000, twelve words verified. [AI]

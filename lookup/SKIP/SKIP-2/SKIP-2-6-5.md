@@ -34,6 +34,9 @@ tags: [lookup]
 - 笨 - 官话: 'stupid; clumsy; heavy'
 - 笹 - 国字: "bamboo grass",  竹 (“bamboo”) + abbreviated 葉 (“leaf”).   Use 世 for sound
 
+### Aliases
+- 蛊 --> 古
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

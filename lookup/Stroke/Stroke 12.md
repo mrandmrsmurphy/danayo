@@ -69,6 +69,8 @@ tags: [lookup]
 - 畱 --> 留
 - 联 --> 連
 - 逹 --> 達
+- 勞 --> 労
+- 衕 --> 同
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

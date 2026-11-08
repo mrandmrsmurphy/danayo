@@ -74,6 +74,7 @@ tags:
 - 著 --> 着
 - 银 --> 銀
 - 颇 --> 頗
+- 蛊 --> 古
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -34,6 +34,7 @@ tags: [lookup]
 ### Aliases
 - 净 --> 浄
 - 决 --> 決
+- 冽 --> 列
 
 ## Data check
 ```dataview

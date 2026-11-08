@@ -29,6 +29,9 @@ tags: [lookup]
 ### +18 Strokes
 7. <ruby>[衢](../../characters/衢%20(char).md)<rt>ㄍㄨ</rt></ruby> - crossroads
 
+### Aliases
+- 衕 --> 同
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

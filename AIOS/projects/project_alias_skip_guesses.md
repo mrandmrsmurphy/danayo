@@ -200,3 +200,10 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 鳴 | 鸣 | 1-3-5 | computed from its parts |
 | 備 | 备 | 2-3-5 | computed from its parts |
 | 億 | 亿 | 1-2-1 | computed from its parts |
+| 労 | 劳 | 2-6-2 | computed from its parts |
+| 勝 | 胜 | 1-4-5 | computed from its parts |
+| 化 | 㐶 | 1-2-3 | computed from its parts |
+| 化 | 𠏁 | 1-2-13 | computed from its parts |
+| 古 | 蛊 | 2-6-5 | computed from its parts |
+| 同 | 仝 | 2-2-3 | computed from its parts |
+| 告 | 吿 | 2-4-3 | computed from its parts |

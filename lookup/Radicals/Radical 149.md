@@ -152,6 +152,7 @@ tags: [lookup]
 - 话 --> 話
 - 䛡 --> 話
 - 课 --> 課
+- 諏 --> 取
 
 ### Forbidden
 - 諚 - 国字: "the lord's command" じょう, not used in modern times

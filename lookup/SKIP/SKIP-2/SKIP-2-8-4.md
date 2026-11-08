@@ -29,6 +29,9 @@ tags: [lookup]
 16. <ruby>[雰](characters/雰.md)<rt>ㄈㄨㄋ</rt></ruby> "atmosphere"
 17. <ruby>[雲](characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> "cloud"
 
+### Aliases
+- 勞 --> 労
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

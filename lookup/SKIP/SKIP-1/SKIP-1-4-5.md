@@ -59,6 +59,7 @@ tags:
 - 瓯 --> 甌
 - 枸 --> 句
 - 轻 --> 軽
+- 胜 --> 勝
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

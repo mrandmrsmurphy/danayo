@@ -20,6 +20,7 @@ tags: [lookup]
 ### Aliases
 - 变 --> 変
 - 卷 --> 巻
+- 劳 --> 労
 
 ## Datacheck
 ```dataview
