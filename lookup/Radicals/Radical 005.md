@@ -50,6 +50,7 @@ tags: [lookup]
 - 亂 --> 乱
 - 书 --> 書
 - 𠃓 --> 昜
+- 乚 --> 隠
 
 ## Data check
 ```dataview

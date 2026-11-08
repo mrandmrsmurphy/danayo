@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[司](/characters/司.md)<rt>ㄙㄚ</rt></ruby> - company
 
+### Aliases
+- 㐆 --> 隠
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

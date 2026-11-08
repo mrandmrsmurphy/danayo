@@ -22,6 +22,7 @@ tags: [lookup]
 - 亅
 - 〇 --> 零
 - 丶 --> 主
+- 乚 --> 隠
 
 ### Forbidden
 - 〆 - 国字: Ancient scribal mark for "closed"

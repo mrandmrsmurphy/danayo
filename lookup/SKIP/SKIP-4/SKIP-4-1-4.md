@@ -17,6 +17,8 @@ tags: [lookup]
 * 丿 is an alias of [[Radical 004]], "slash"
 * 亅 is an alias of [[Radical 006]], "hook" 
 - 〇 --> 零
+- 乚 --> 隠
+
 ### Forbidden
 - 丶 --> 主
 - 〆 - 国字: Ancient scribal mark for "closed"

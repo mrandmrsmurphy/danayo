@@ -61,6 +61,7 @@ tags: [lookup]
 
 ### +8 Strokes
 35. <ruby>[隣](../../characters/隣%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - neighboring
+- 隱 --> 隠
 
 ### Aliases
 - 阳 --> 陽
