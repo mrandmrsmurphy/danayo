@@ -72,6 +72,8 @@ tags:
 - 塲 --> 場
 - 熒 --> 蛍
 - 潢 --> 黄
+- 榦 --> 幹
+- 毄 --> 撃
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

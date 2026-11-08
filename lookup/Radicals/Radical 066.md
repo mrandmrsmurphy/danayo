@@ -33,6 +33,7 @@ tags: [lookup]
 10. <ruby>[敗](../../characters/敗.md)<rt>ㄅㄚㄧ</rt></ruby> - be defeated
 11. <ruby>[教](../../characters/教.md)<rt>ㄍ⼄ㄨ</rt></ruby> - teach
 12. <ruby>[敬](../../characters/敬.md)<rt>ㄍ⼶ㄫ</rt></ruby> - respect
+- 敝 --> 蔽
 
 ### +8 Strokes
 13. <ruby>[敢](../../characters/敢.md)<rt>ㄍㄚㄇ</rt></ruby> - dare to

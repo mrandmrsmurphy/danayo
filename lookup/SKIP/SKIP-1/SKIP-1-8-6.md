@@ -22,6 +22,9 @@ tags: [lookup]
 ### Forbidden
 - 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
 
+### Aliases
+- 榦 --> 幹
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

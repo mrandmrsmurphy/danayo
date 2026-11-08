@@ -69,6 +69,7 @@ tags:
 - 冀 --> 希
 - 戰 --> 戦
 - 螢 --> 蛍
+- 據 --> 拠
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

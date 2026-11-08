@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 詹 --> 旦
+- 豦 --> 拠
 
 ## Datacheck
 ```dataview

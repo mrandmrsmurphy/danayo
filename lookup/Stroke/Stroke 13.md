@@ -68,6 +68,7 @@ tags:
 - 畺 --> 疆
 - 粲 --> 燦
 - 貇 --> 懇
+- 豦 --> 拠
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

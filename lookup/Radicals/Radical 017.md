@@ -16,6 +16,9 @@ radical: 凵
 4. <ruby>[出](../../characters/出%20(char).md)<rt>ㄑㄨㄊ</rt></ruby> - exit
 5. <ruby>[函](../../characters/函.md)<rt>ㄏㄚㄇ</rt></ruby> - contain
 
+### Aliases
+- 击 --> 撃
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "en", radical AS "Radical", stroke_count AS "SC"

@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*beds/\*bed): semantic [[Radical 050|巾]] ("cloth") + phonetic 敝 (no character page in this vault, OC \*beds/\*bed) — originally silk offered as a gift/sacrifice, extended to "currency; cash."
+- 形聲 (OC \*beds/\*bed): semantic [[Radical 050|巾]] ("cloth") + phonetic [[蔽|敝]] (OC \*beds/\*bed) — originally silk offered as a gift/sacrifice, extended to "currency; cash."
 - [SKIP-2-12-3](../lookup/SKIP/SKIP-2/SKIP-2-12-3.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1022nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 祭A三開|iᴇi]] → [ㄆㄝ](../syllables/ㄆㄝ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

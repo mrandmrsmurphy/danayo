@@ -22,6 +22,9 @@ tags: [lookup]
 ### +5 Strokes
 4. <ruby>[象](../../characters/象.md)<rt>ㄙ⼘ㄫ</rt></ruby> - elephant
 
+### +6 Strokes
+- 豦 --> 拠
+
 ### +7 Strokes
 5. <ruby>[豪](../../characters/豪.md)<rt>ㄏㄚㄨ</rt></ruby> - magnificent
 6. <ruby>[貌](../../characters/貌.md)<rt>ㄇ⼘</rt></ruby> - appearance

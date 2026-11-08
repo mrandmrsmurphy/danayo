@@ -207,6 +207,7 @@ tags: [lookup]
 - 榮 --> 栄
 - ¡槞! - 違法字
 - ¡𪳤! - 違法字
+- 榦 --> 幹
 
 ### +11 Strokes
 137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
@@ -216,6 +217,7 @@ tags: [lookup]
 141. <ruby>[権](../../characters/権.md)<rt>ㄍ⼔ㄋ</rt></ruby> - power
 142. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - crossing horizontally
 - ¡樰! - 違法字
+- 樊 --> 藩
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant

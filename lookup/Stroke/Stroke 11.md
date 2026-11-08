@@ -80,6 +80,8 @@ tags:
 - 焕 --> 煥
 - 萤 --> 蛍
 - 痒 --> 羊
+- 据 --> 拠
+- 敝 --> 蔽
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

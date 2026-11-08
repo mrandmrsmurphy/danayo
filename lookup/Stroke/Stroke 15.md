@@ -63,6 +63,7 @@ tags:
 - 𠏁 --> 化
 - 撒 --> 散
 - 畾 --> 雷
+- 樊 --> 藩
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

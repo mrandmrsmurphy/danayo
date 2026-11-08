@@ -118,6 +118,7 @@ tags: [lookup]
 88. <ruby>[掻](../../characters/掻%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - scratch
 89. <ruby>[描](../../characters/描.md)<rt>ㄇ⼘ㄨ</rt></ruby> - sketch
 90. <ruby>[掩](../../characters/掩.md)<rt>ㄝㄇ</rt></ruby> - cover
+- 据 --> 拠
 
 ### +8 Strokes
 91. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm
@@ -162,6 +163,7 @@ tags: [lookup]
 122. <ruby>[擁](../../characters/擁.md)<rt>ㄛㄫ</rt></ruby> - embrace
 123. <ruby>[擅](../../characters/擅.md)<rt>ㄙㄝㄋ</rt></ruby> - monopolize
 124. <ruby>[操](../../characters/操.md)<rt>ㄑㄚㄨ</rt></ruby> - operate
+- 據 --> 拠
 
 ### +13 Strokes
 125. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry
@@ -169,6 +171,7 @@ tags: [lookup]
 127. <ruby>[擦](../../characters/擦%20(char).md)<rt>ㄑㄚㄊ</rt></ruby> - wipe
 128. <ruby>[擬](../../characters/擬%20(char).md)<rt>ㄧ</rt></ruby> - intend
 129. <ruby>[擱](../../characters/擱.md)<rt>ㄍㄚㄎ</rt></ruby> - stop writing
+- 擊 --> 撃
 
 ### +14 Strokes
 130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw

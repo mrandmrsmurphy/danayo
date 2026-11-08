@@ -146,6 +146,7 @@ tags:
 - 捲 --> 巻
 - 淺 --> 浅
 - 娼 --> 唱
+- 据 --> 拠
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

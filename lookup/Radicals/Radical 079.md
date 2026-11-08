@@ -27,6 +27,9 @@ tags: [lookup]
 6. <ruby>[毀](../../characters/毀%20(char).md)<rt>ㄏ⼔ㄧ</rt></ruby> - destroy
 7. <ruby>[殿](../../characters/殿.md)<rt>ㄉㄧㄋ</rt></ruby> - palace
 
+### +10 Strokes
+- 毄 --> 撃
+
 ### +11 Strokes
 8. <ruby>[毅](../../characters/毅.md)<rt>ㄧㄜ</rt></ruby> - strongly
 
