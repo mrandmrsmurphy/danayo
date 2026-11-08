@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 混 perfected to the current standard:** `mc_id` corrected from 2623 to 1883, the rank of its alias 渾; `## Aliases` section for 渾 (EDRDG SKIP 1-3-9, 12 strokes; Wiktionary redirects it to 混), redirects added; six words and 混然一体 verified. [AI]
+
+- **Character loop, 淵 perfected to the current standard:** added OC \*qʷiːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 渊 (simplified form; EDRDG SKIP 1-3-8, 11 strokes), redirects added; rank 969 and the one word verified. [AI]
+
+- **Character loop, 液 stamped to the current standard:** no change needed; no aliases (Wiktionary lists none), rank 2072 confirmed in CC 2000, ten words verified, OC already present. [AI]
+
+- **Character loop, 注 perfected to the current standard:** added OC \*tjos (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 註 (variant traditional form on both Wiktionary pages; EDRDG SKIP 1-7-5, 12 strokes), redirects added; rank 943 and six words verified. [AI]
+
 - **Character loop, 治 stamped to the current standard:** no change needed; no aliases (Wiktionary lists none), rank 123 confirmed in CC 0000, nine words and two chengyu verified, OC already present. [AI]
 
 - **Character loop, 河 perfected to the current standard:** `## Aliases` section for 𢀎 (alternative form per Wiktionary; bare mention; SKIP 2-8-16 computed), 菏 (艸 + 河, EDRDG 2-3-8) and 渮 (EDRDG 1-3-8), redirects added; rank 265 and thirteen words verified. [AI]

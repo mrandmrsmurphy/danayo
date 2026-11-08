@@ -60,6 +60,8 @@ tags: [lookup]
 - 喃 --> 南
 - 圍 --> 囲
 - 傢 --> 家
+- 註 --> 注
+- 渾 --> 混
 
 ## Data check
 ```dataview

@@ -141,6 +141,7 @@ tags:
 - 帼 --> 国
 - 掴 --> 国
 - 渮 --> 河
+- 渊 --> 淵
 
 ## Datacheck
 ```dataview

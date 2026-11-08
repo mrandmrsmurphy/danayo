@@ -144,6 +144,7 @@ tags: [lookup]
 - 谄 --> 諂
 - 讽 --> 風
 - 諷 --> 風
+- 註 --> 注
 
 ## Data check
 ```dataview

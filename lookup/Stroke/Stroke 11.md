@@ -61,6 +61,7 @@ tags:
 - 帼 --> 国
 - 菏 --> 河
 - 渮 --> 河
+- 渊 --> 淵
 
 ## Data check
 ```dataview

@@ -32,6 +32,9 @@ tags:
 20. <ruby>[釉](characters/釉.md)<rt>⼜ㄛ</rt></ruby> "glaze, enamel"
 21. <ruby>[跋](characters/跋.md)<rt>ㄅㄚㄊ</rt></ruby> "to stride"
 
+### Aliases
+- 註 --> 注
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

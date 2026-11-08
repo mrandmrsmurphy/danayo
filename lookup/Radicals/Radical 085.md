@@ -242,6 +242,8 @@ tags: [lookup]
 - 泼 --> 発
 - 渢 --> 風
 - 渮 --> 河
+- 渊 --> 淵
+- 渾 --> 混
 
 ## Data check
 ```dataview

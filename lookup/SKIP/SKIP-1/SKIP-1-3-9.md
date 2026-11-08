@@ -147,6 +147,7 @@ tags:
 - 溌 --> 発
 - 渢 --> 風
 - 喃 --> 南
+- 渾 --> 混
 
 ## Datacheck
 ```dataview
