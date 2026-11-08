@@ -36,7 +36,7 @@ stand_in: 興
 aliases:
   - 兴
 注音: ㄏㄜㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 tags:
   - character
 kwin: true
@@ -50,10 +50,15 @@ boundedness: 100
 ```
 
 ## Notes
-- 会意 of 舁 ("four hands lifting," no vault page) + [[凡]] ("a frame or litter") — originally a pictograph of four hands raising a stretcher; the Shuowen's small-seal analysis instead reads the lower component as [[同]] ("shared strength"). "To rise, raise; to prosper."
+- 会意 (OC \*qʰɯŋs) of 舁 ("four hands lifting," no vault page) + [[凡]] ("a frame or litter") — originally a pictograph of four hands raising a stretcher; the Shuowen's small-seal analysis instead reads the lower component as [[同]] ("shared strength"). "To rise, raise; to prosper."
 - [SKIP-2-14-2](../lookup/SKIP/SKIP-2/SKIP-2-14-2.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 315th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄏㄜㄫ](../syllables/ㄏㄜㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 兴
+The simplified Chinese form of 興 (and an alternative form in Japanese); Wiktionary's 兴 page names 興 as its traditional form, and 興 lists it as its simplified form. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 012 八. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[興]]<rt>ㄏㄜㄫ</rt></ruby> "entertain" (stand-in for 興)

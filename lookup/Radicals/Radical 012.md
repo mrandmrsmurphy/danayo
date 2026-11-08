@@ -42,6 +42,9 @@ tags: [lookup]
 ### Forbidden
 - 兯 - 口訣: Korean 구결 for '한'.
 
+### Aliases
+- 兴 --> 興
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

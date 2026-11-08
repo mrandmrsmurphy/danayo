@@ -34,7 +34,7 @@ stand_in: 答
 aliases:
   - 荅
 注音: ㄉㄚㄆ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 80
 - 1066th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄉㄚㄆ](../syllables/ㄉㄚㄆ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - don't use 對答
+
+## Aliases
+
+### 荅
+The older form (艹 + 合, "small bean" in an obsolete sense, also "to answer") from which 答 developed; Wiktionary's 荅 page redirects to 答, and 答's page notes that the grass radical was later mistakenly replaced by bamboo. Its rank of 1563 is a higher number than 1066. SKIP 2-3-6; 10 strokes. Radical 140 艸. It ranks 1563 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[答]]<rt>ㄉㄚㄆ</rt></ruby> "answer, reply" (stand-in for 答)

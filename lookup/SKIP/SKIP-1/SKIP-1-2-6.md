@@ -28,6 +28,7 @@ tags:
 ### Aliases
 - 净 --> 浄
 - 佰 --> 百
+- 话 --> 話
 
 ### Forbidden
 - 侤 - 국자: Korean for '고'

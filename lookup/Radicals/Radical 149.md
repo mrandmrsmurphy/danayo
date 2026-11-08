@@ -149,6 +149,9 @@ tags: [lookup]
 - 谬 --> 謬
 - 變 --> 変
 - 譬 --> 比
+- 话 --> 話
+- 䛡 --> 話
+- 课 --> 課
 
 ### Forbidden
 - 諚 - 国字: "the lord's command" じょう, not used in modern times

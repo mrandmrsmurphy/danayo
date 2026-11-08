@@ -40,6 +40,8 @@ tags:
 - 师 --> 師
 - 兇 --> 凶
 - 决 --> 決
+- 节 --> 節
+- 兴 --> 興
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

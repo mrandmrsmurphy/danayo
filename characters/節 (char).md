@@ -38,7 +38,7 @@ stand_in: 節
 aliases:
   - 节
 注音: ㄐㄝㄊ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -56,6 +56,11 @@ boundedness: 70
 - [SKIP-2-6-7](../lookup/SKIP/SKIP-2/SKIP-2-6-7.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 295th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄐㄝㄊ](../syllables/ㄐㄝㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 节
+The simplified Chinese form of 節 (艹 over 卩); Wiktionary's 节 page names 節 as its traditional form, and 節 lists it as its simplified form. SKIP 2-3-3 (computed: EDRDG does not list it); 6 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[節]]<rt>ㄐㄝㄊ</rt></ruby> "node, joint, festival" (stand-in for 節)

@@ -33,6 +33,7 @@ tags:
 
 ### Aliases
 - 說 --> 説
+- 䛡 --> 話
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.

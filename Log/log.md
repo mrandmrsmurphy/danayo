@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 課 perfected to the current standard:** fixed the callout link to the word (`../words/課.md`) and deleted the history bullet "pronunciation altered to get a free syllable" (history belongs in the log); `## Aliases` section for 课 (simplified; SKIP 1-2-8 computed, 10 strokes), redirects added; rank 2401 confirmed in CC 2000, OC present, three words verified. [AI]
+
+- **Character loop, 話 perfected to the current standard:** `## Aliases` section for 话 (simplified; SKIP 1-2-6 computed, 8 strokes) and 䛡 (rare variant, bare mention; SKIP 1-7-7 computed, 14 strokes), redirects added; rank 4322 (trusted long tail), OC \*ɡroːds matching Wiktionary, twelve words verified. [AI]
+
+- **Character loop, 被 perfected to the current standard:** added OC \*bralʔ, \*brals (Zhengzhang via en.Wiktionary) to the graphemic bullet and escaped the unescaped asterisk in 皮's reconstruction; no aliases; rank 627 confirmed in CC 0000, four words verified. [AI]
+
+- **Character loop, 興 perfected to the current standard:** added OC \*qʰɯŋs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 兴 (simplified form; SKIP 2-2-4 computed, 6 strokes), redirects added; rank 315 confirmed in CC 0000, seven words verified. [AI]
+
+- **Character loop, 節 perfected to the current standard:** `## Aliases` section for 节 (simplified form; SKIP 2-3-3 computed, 6 strokes), redirects added; rank 295 confirmed in CC 0000, OC \*ʔsiːɡ matches Wiktionary, fourteen words and 櫛 verified. [AI]
+
+- **Character loop, 算 perfected to the current standard:** added OC \*sloːnʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1984 confirmed in CC 1000, nine words and 纂 verified. [AI]
+
+- **Character loop, 答 perfected to the current standard:** `## Aliases` section for 荅 (the form 答 varied from; EDRDG SKIP 2-3-6, 10 strokes; rank 1563 is above 1066), redirects added; rank 1066 confirmed in CC 1000, OC present, three words and two derived characters verified; the page's note 'don't use 對答' left as it was. [AI]
+
 - **Character loop, 第 perfected to the current standard:** `## Aliases` section for the rare variant 㐧 (bare mention; SKIP 4-4-4 computed, 4 strokes), redirects added; rank 902 confirmed in CC 0000, OC \*diːls present, fourteen words verified. [AI]
 
 - **Character loop, 笑 perfected to the current standard:** added OC \*sqʰows (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 咲 (original form of 笑; EDRDG SKIP 1-3-6, 9 strokes), redirects added; rank 882 confirmed in CC 0000, ten words and 呵呵大笑 verified. [AI]

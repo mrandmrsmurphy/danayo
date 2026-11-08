@@ -32,7 +32,7 @@ aliases:
   - 话
   - 䛡
 注音: "ㄏ⺢ㄧ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 90
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 4322nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 夬合|ɣuai]] → [ㄏ⺢ㄧ](../syllables/ㄏ⺢ㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 话
+The simplified Chinese form of 話 (讠 + 舌); Wiktionary's 话 page names 話 as its traditional form, and 話 lists it as its simplified form. SKIP 1-2-6 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 䛡
+A rare variant form of 話 that Wiktionary's 䛡 page redirects to 話; kept as a bare mention. SKIP 1-7-7 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[話]]<rt>ㄏ⺢ㄧ</rt></ruby> "to speak on; talk about" (stand-in for 話)

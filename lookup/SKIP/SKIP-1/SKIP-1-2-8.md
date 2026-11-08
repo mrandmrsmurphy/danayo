@@ -42,6 +42,7 @@ tags:
 - 谄 --> 諂
 - 倖 --> 幸
 - 倆 --> 両
+- 课 --> 課
 
 ### Forbidden
 - 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
