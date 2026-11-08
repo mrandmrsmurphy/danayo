@@ -50,6 +50,7 @@ tags: [lookup]
 - 鱆 --> 章
 - 鮹 --> 章
 - 鯎 --> 成
+- 鯑 --> 希
 
 ### Forbidden
 - 鱶 - 国字: 国字 for 'shark', ふか

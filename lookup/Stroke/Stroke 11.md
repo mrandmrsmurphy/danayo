@@ -76,6 +76,7 @@ tags:
 - 颇 --> 頗
 - 蛊 --> 古
 - 娼 --> 唱
+- 敎 --> 教
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

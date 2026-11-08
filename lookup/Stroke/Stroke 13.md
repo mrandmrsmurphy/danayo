@@ -82,7 +82,7 @@ tags:
 - 筷 - 官话: 'chopsticks' --> 箸.  HSK/2
 - 嗯 - 官话: HSK/1.  Chinese SFP of recent coinage.
 - 睜 - 官话: HSK/2.
-- 傻 - 官话: HSK/2.
+- ¡傻! - 違法字
 - 搶 - 官话: HSK/2.  "Plunder, rob."
 - 圕 - 中国制造: Ligature for 図書館 'library'; uncommon in Chinese, obscure or obsolete in Japanese
 - 嗡 - 官话: HSK/3.

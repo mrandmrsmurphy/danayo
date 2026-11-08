@@ -28,7 +28,7 @@ tags:
 16. <ruby>[俟](characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> "wait (literary)"
 
 ### Forbidden
-- 俧 - 国字: 国字; Wiktionary gives no definition
+- ¡俧! - 違法字
 
 ## Datacheck
 ```dataview

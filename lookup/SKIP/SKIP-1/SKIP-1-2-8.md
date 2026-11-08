@@ -46,8 +46,8 @@ tags:
 - 倡 --> 唱
 
 ### Forbidden
-- 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
-- 們 - 中国制造: HSK/1 and Korean Name but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
+- ¡倻! - 違法字
+- ¡們! - 違法字
 
 ## Datacheck
 ```dataview

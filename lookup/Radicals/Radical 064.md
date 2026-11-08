@@ -203,6 +203,7 @@ tags: [lookup]
 - 报 --> 報
 - 捲 --> 巻
 - 擧 --> 挙
+- 撒 --> 散
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

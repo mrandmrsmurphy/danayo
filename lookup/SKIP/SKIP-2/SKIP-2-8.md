@@ -19,7 +19,7 @@ Top component has 8 strokes. Dominant components: 雨, 婁, 隹.
 9. [SKIP-2-8-9](lookup/SKIP/SKIP-2/SKIP-2-8-9.md): 霜, 霞
 10. [SKIP-2-8-10](lookup/SKIP/SKIP-2/SKIP-2-8-10.md): ø
 11. [SKIP-2-8-11](lookup/SKIP/SKIP-2/SKIP-2-8-11.md): 霧, 霫, 麓
-12. none
+12. [SKIP-2-8-12](lookup/SKIP/SKIP-2/SKIP-2-8-12.md): ø
 13. [SKIP-2-8-13](lookup/SKIP/SKIP-2/SKIP-2-8-13.md): 露
 14. none
 15. none

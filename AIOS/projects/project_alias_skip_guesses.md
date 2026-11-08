@@ -18,3 +18,8 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 
 | Page | Alias | SKIP used | Why it is a guess |
 |---|---|---|---|
+| 帰 | 归 | 1-2-3 | computed from its parts |
+| 戦 | 战 | 1-5-4 | computed from its parts |
+| 戸 | 戶 | 2-1-3 | computed from its parts |
+| 戸 | 户 | 2-1-3 | computed from its parts |
+| 教 | 敎 | 1-7-4 | computed from its parts |

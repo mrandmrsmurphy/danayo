@@ -104,6 +104,13 @@ N. <ruby>[X](../../characters/X%20(char).md)<rt>注音</rt></ruby> - english glo
 
 ### Non-numbered entries within stroke groups
 
+**Aliases and Forbidden entries live inside the stroke groups, not in a bottom section** (user ruling 2026-11-08; the rule for all new work, with older pages migrated only when they are touched). A reader finds a character on a Radical page by counting the strokes beyond the radical, and an alias or forbidden glyph is looked up the same way, so it is filed in the `### +N Strokes` group where it would sit if it were a real entry, after that group's numbered entries and unnumbered (the numbering and `size` count only real entries). Grouped-style pages have no `### Aliases` or `### Forbidden` section at the bottom. The prosaic style, which has no stroke groups, keeps its `### Aliases` and `### Forbidden` subsections.
+
+- **Which group:** N = the glyph's own stroke count, counted the Japanese way as on its Stroke page, minus the radical's Kangxi stroke count (人 is 2, 水 is 4 even though 氵 is written with 3, 手 is 4). 倆 has 10 strokes, so it is filed under 人 at `+8`; 河 has 8 and sits at `+4` under 水. Create the `### +N Strokes` heading, in numeric order, if the group does not yet exist (`### +1 Stroke` when N is 1).
+- **Alias line:** `- X --> main`, as on the Stroke and SKIP pages.
+- **Forbidden line:** `- ¡X! - 違法字`, nothing more: the glyph between inverted and ordinary exclamation marks, then the label. The Stroke and SKIP pages carry the same line. The class and comment live only on the master list `文法 - 98違法字.md` (user ruling 2026-11-08).
+- **Tools:** `alias_tool.py` and `forbidden_tool.py` already file Radical-page lines this way. An unmigrated page that still has a bottom `### Aliases` or `### Forbidden` keeps those lines until someone migrates it (move each line into its group, delete the empty heading); new lines go into the groups straight away, so such a page is temporarily mixed.
+
 Three types of entries appear as unnumbered bullets inside stroke groups, mixed in with the numbered ones:
 
 **Aliases** — alternate written forms that redirect to a proper character. Use `-->`:
@@ -215,7 +222,7 @@ Set when, for **grouped-style** pages:
 1. All three frontmatter fields are filled in.
 2. Every character returned by the data check query has a numbered entry in the correct `+N Strokes` group.
 3. No character in the numbered list is absent from the data check results.
-4. All known aliases and forbidden glyphs for this radical are listed.
+4. All known aliases and forbidden glyphs for this radical are listed, each inside its `+N Strokes` group (no bottom `### Aliases` / `### Forbidden` on a grouped page).
 5. `size` matches the actual count of numbered entries.
 
 Set when, for **prosaic-style** pages:

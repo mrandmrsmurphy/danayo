@@ -35,6 +35,9 @@ tags: [lookup]
 ### +10 Strokes
 9. <ruby>[歴](../../characters/歴.md)<rt>ㄌㄝㄎ</rt></ruby> - history
 
+### Aliases
+- 歸 --> 帰
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

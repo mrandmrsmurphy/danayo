@@ -14,6 +14,10 @@ tags: [lookup]
 2. <ruby>[元](/characters/元.md)<rt>⼔ㄋ</rt></ruby> - element
 3. <ruby>[戸](/characters/戸.md)<rt>ㄏㄛ</rt></ruby> - door
 
+### Aliases
+- 戶 --> 戸
+- 户 --> 戸
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

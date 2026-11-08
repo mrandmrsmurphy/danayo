@@ -92,8 +92,10 @@ If any glyphs at this stroke count resemble 漢字 but are not — Korean 口訣
 
 ```markdown
 ### Forbidden
-- 乜 - Cantonese/dialects only
+- ¡乜! - 違法字
 ```
+
+Each entry is `- ¡X! - 違法字`, nothing more: the glyph between inverted and ordinary exclamation marks, then the label. The class and comment live only on the master list `文法 - 98違法字.md`, and `forbidden_tool.py` writes this line (user ruling 2026-11-08, the rule for all new work; older long-form lines are converted when their page is touched).
 
 Omit this subsection entirely if there are no forbidden entries.
 

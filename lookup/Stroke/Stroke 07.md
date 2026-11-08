@@ -63,6 +63,7 @@ tags:
 - 吿 --> 告
 - 佚 --> 失
 - 㝎 --> 定
+- 佈 --> 布
 
 ### Forbidden
 - 亪 - 口訣: Korean 구결 for '란/난/역'
@@ -70,7 +71,7 @@ tags:
 - 㐘 - 국자: Korean-coined hanja for '쌀' (rice)
 - 扭 - 官话: Used only in Chinese (Mandarin)
 - 吶 - 混乱: Used for sound, but we'd never agree.  Use 叫 for the meaning and 那 for the sound.
-- 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
+- ¡你! - 違法字
 - 找 - 中国制造: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
 - 吵 - 中国制造: "to argue" Use 弁論.  HSK/2
 - 呀 - 官话: HSK/1 and 한문교육용기초한자/이름.  Even in Mandarin, equivalent to 啊.

@@ -40,6 +40,9 @@ tags:
 ### Forbidden
 - 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
 
+### Aliases
+- 敎 --> 教
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -29,7 +29,7 @@ tags:
 - 亿 --> 億
 
 ### Forbidden
-- 亽 - 口訣: Korean 구결 for '라/다'
+- ¡亽! - 違法字
 - 卪 - 口訣: Korean 구결 for '절'
 - 亇 - 국자: 'hammer'/마/망치, use 槌
 - 㐃 - 국자: Variant of 亇, 'hammer'/마/망치, use 槌

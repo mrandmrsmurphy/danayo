@@ -45,6 +45,7 @@ tags: [lookup]
 ### Aliases
 - 兴 --> 興
 - 关 --> 関
+- 冀 --> 希
 
 ## Data check
 ```dataview

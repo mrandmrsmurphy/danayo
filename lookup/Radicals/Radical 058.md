@@ -16,6 +16,7 @@ tags:
 
 ### Aliases
 - 彚 --> 彙
+- 归 --> 帰
 
 ### Forbidden
 - 彔 - 국자: 'to carve wood' 한문교육용기초한자/이름.  Descendants: 祿 , 緑 , 録

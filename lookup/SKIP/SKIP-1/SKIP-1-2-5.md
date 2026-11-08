@@ -38,9 +38,10 @@ tags:
 - 鸡 --> 鶏
 - 诏 --> 詔
 - 佚 --> 失
+- 佈 --> 布
 
 ### Forbidden
-- 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
+- ¡你! - 違法字
 
 ## Datacheck
 ```dataview

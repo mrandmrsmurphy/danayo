@@ -34,7 +34,7 @@ tags: [lookup]
 - 攵 --> 攴
 
 ### Forbidden
-- 仒 - 口訣: Korean 구결 for '샤'
+- ¡仒! - 違法字
 - 兯 - 口訣: Korean 구결 for '한'.
 
 ## Datacheck

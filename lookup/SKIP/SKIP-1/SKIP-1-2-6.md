@@ -32,7 +32,7 @@ tags:
 - 冽 --> 列
 
 ### Forbidden
-- 侤 - 국자: Korean for '고'
+- ¡侤! - 違法字
 
 ## Datacheck
 ```dataview

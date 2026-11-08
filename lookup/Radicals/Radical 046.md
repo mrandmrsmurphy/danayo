@@ -55,6 +55,8 @@ tags: [lookup]
 - 嶂 --> 章
 - 屶 --> 会
 - 岛 --> 島
+- 巖 --> 岩
+- 巌 --> 岩
 
 ### Forbidden
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.

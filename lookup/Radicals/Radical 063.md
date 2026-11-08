@@ -34,6 +34,8 @@ tags: [lookup]
 
 ### Aliases
 - 戼 --> 卯
+- 戶 --> 戸
+- 户 --> 戸
 
 ## Data check
 ```dataview

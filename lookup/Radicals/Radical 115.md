@@ -74,6 +74,8 @@ tags: [lookup]
 - 穐 --> 秋
 - 秌 --> 秋
 - 秕 --> 比
+- 稀 --> 希
+- 稔 --> 念
 
 ### Forbidden
 - 䆆 - 국자: dry rice

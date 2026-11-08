@@ -71,6 +71,7 @@ tags:
 - 轻 --> 軽
 - 洌 --> 列
 - 胜 --> 勝
+- 战 --> 戦
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名
@@ -99,7 +100,7 @@ tags:
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.
 - 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
 - 挧 - 幽霊文字: Japanese horse chestnut
-- 俧 - 国字: 国字; Wiktionary gives no definition
+- ¡俧! - 違法字
 - 栊 - 異体字: cage, lattice
 - 垰 - 国字: 'mountain pass'
 - 粁 - 国字: kilometer, Use 千米

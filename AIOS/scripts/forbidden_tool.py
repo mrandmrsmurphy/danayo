@@ -44,18 +44,22 @@ def radnum(r):
     m=re.search(r"#(\d+)",r)
     if m: return int(m.group(1))
     c=r.strip()[:1]; return RADNUM.get(c)
-def line(ch,e): return f"- {ch} - {e['class']}: {e['notes']}"
+def line(ch,e): return f"- ¡{ch}! - 違法字"   # lookup pages carry only this; class and comment stay on the master list (user 2026-11-08)
 def pages(e):
     a,b,c=e["skip"].split("-"); rn=radnum(e["radical"])
     return [f"lookup/Stroke/Stroke {int(e['strokes']):02d}.md",f"lookup/Radicals/Radical {rn:03d}.md",f"lookup/SKIP/SKIP-{a}/SKIP-{a}-{b}-{c}.md"]
-def put(path,ch,ln):
+import os as _o; sys.path.insert(0,_o.path.dirname(_o.path.abspath(__file__)))
+from radical_fmt import radical_put
+def put(path,ch,ln,e=None):
+    if e is not None and '/Radicals/' in path:
+        radical_put(path,ln,e['strokes'],radnum(e['radical']),'Forbidden'); return
     t=open(path,encoding="utf-8").read(); L=t.split("\n")
     if "### Forbidden" in t:
         i=L.index("### Forbidden"); j=i+1
         while j<len(L) and not L[j].startswith("#"): j+=1
         body=L[i+1:j]
         for k,x in enumerate(body):
-            if re.match(rf"^- {re.escape(ch)}(\s|$)",x): body[k]=ln; break
+            if re.match(rf"^- ¡?{re.escape(ch)}(!|\s|$)",x): body[k]=ln; break
         else:
             while body and not body[-1].strip(): body.pop()
             body.append(ln)
@@ -95,7 +99,7 @@ def main():
             if p: print("SKIP",ch,"-",p); continue
             for pg in pages(e):
                 if not os.path.exists(pg): print("MISSING PAGE",pg,"for",ch); continue
-                put(pg,ch,line(ch,e)); print("wrote",ch,"->",pg)
+                put(pg,ch,line(ch,e),e); print("wrote",ch,"->",pg)
         return
     print(__doc__)
 main()

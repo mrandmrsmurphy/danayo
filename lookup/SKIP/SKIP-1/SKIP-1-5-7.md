@@ -33,6 +33,9 @@ tags: [lookup]
 - 硴 - 国字: Stone + flower = oyster
 - 硲 - 国字: 'ravine, gap, gorge'; also the surname はざま
 
+### Aliases
+- 稀 --> 希
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -40,6 +40,7 @@ tags: [lookup]
 ### Aliases
 - 雏 --> 雛
 - 號 --> 号
+- 稔 --> 念
 
 ## Datacheck
 ```dataview

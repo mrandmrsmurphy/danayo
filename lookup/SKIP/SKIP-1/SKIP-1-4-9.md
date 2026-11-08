@@ -50,6 +50,7 @@ tags:
 
 ### Aliases
 - 辐 --> 放
+- 腱 --> 建
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

@@ -35,9 +35,11 @@ tags: [lookup]
 - 无 --> 無
 - 㐧 --> 第
 - 开 --> 開
+- 戶 --> 戸
+- 户 --> 戸
 
 ### Forbidden
-- 仒 - 口訣: Korean 구결 for '샤'
+- ¡仒! - 違法字
 - 兯 - 口訣: Korean 구결 for '한'.
 - 乥 - 口訣: Korean 구결 for '홀'
 - 㐊 - 국자: Korean-coined hanja for '살', used for transliteration

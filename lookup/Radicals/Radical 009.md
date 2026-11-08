@@ -16,6 +16,10 @@ aliases:
 ### +0 Strokes
 1. <ruby>[人](../../characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
 
+### +1 Stroke
+- 亿 --> 億
+- ¡亽! - 違法字
+
 ### +2 Strokes
 2. <ruby>[仁](../../characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby> - benevolence
 3. <ruby>[仄](../../characters/仄.md)<rt>ㄐㄧㄎ</rt></ruby> - slanting
@@ -23,6 +27,7 @@ aliases:
 5. <ruby>[今](../../characters/今%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - now
 6. <ruby>[介](../../characters/介.md)<rt>ㄍ⼶</rt></ruby> - mediator
 7. <ruby>[仍](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet
+- ¡仒! - 違法字
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair
@@ -33,6 +38,9 @@ aliases:
 13. <ruby>[代](../../characters/代.md)<rt>ㄉㄚㄧ</rt></ruby> - replace
 14. <ruby>[令](../../characters/令%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - cause (causative)
 15. <ruby>[以](../../characters/以%20(char).md)<rt>ㄧ</rt></ruby> - by
+- 仕 --> 士
+- 㐶 --> 化
+- 仝 --> 同
 
 ### +4 Strokes
 16. <ruby>[仮](../../characters/仮.md)<rt>ㄍㄚ</rt></ruby> - borrow
@@ -50,6 +58,8 @@ aliases:
 28. <ruby>[会](../../characters/会%20(char).md)<rt>ㄏ⼔</rt></ruby> - meet
 29. <ruby>[伝](../../characters/伝.md)<rt>ㄐ⼔ㄋ</rt></ruby> - transmit
 30. <ruby>[佤](../../characters/佤.md)<rt>⺢ㄊ</rt></ruby> - Wa people
+- 传 --> 伝
+- ¡伙! - 違法字
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle
@@ -73,6 +83,9 @@ aliases:
 49. <ruby>[佛](../../characters/佛%20(char).md)<rt>ㄅㄨㄊ</rt></ruby> - Buddha
 50. <ruby>[作](../../characters/作%20(char).md)<rt>ㄐㄚㄎ</rt></ruby> - make
 51. <ruby>[佞](../../characters/佞.md)<rt>ㄋㄝㄫ</rt></ruby> - flattery
+- 佚 --> 失
+- 佈 --> 布
+- ¡你! - 違法字
 
 ### +6 Strokes
 52. <ruby>[㑒](../../characters/㑒.md)<rt>ㄑㄨㄇ</rt></ruby> - unanimous
@@ -89,6 +102,8 @@ aliases:
 63. <ruby>[依](../../characters/依%20(char).md)<rt>ㄧㄜ</rt></ruby> - rely on
 64. <ruby>[価](../../characters/価.md)<rt>ㄍㄚ</rt></ruby> - price
 65. <ruby>[侮](../../characters/侮.md)<rt>ㄇㄨ</rt></ruby> - scorn
+- 佰 --> 百
+- ¡侤! - 違法字
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -108,6 +123,7 @@ aliases:
 80. <ruby>[保](../../characters/保.md)<rt>ㄅㄚㄨ</rt></ruby> - defend
 81. <ruby>[信](../../characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> - trust
 82. <ruby>[俟](../../characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> - wait (literary)
+- ¡俧! - 違法字
 
 ### +8 Strokes
 83. <ruby>[修](../../characters/修.md)<rt>ㄙㄨㄛ</rt></ruby> - repair
@@ -129,6 +145,12 @@ aliases:
 99. <ruby>[倭](../../characters/倭.md)<rt>⼔ㄧ</rt></ruby> - dwarf
 100. <ruby>[倶](../../characters/倶%20(char).md)<rt>ㄍㄨ</rt></ruby> - accompany
 101. <ruby>[倹](../../characters/倹.md)<rt>ㄍㄝㄇ</rt></ruby> - temperate
+- 债 --> 債
+- 倖 --> 幸
+- 倆 --> 両
+- 倡 --> 唱
+- ¡倻! - 違法字
+- ¡們! - 違法字
 
 ### +9 Strokes
 102. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary
@@ -145,6 +167,8 @@ aliases:
 113. <ruby>[偶](../../characters/偶.md)<rt>ㄛㄨ</rt></ruby> - image
 114. <ruby>[偷](../../characters/偷.md)<rt>ㄊㄛㄇ</rt></ruby> - steal
 115. <ruby>[偽](../../characters/偽%20(char).md)<rt>⼔ㄧ</rt></ruby> - false
+- 做 --> 作
+- 脩 --> 修
 
 ### +10 Strokes
 116. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great
@@ -154,6 +178,8 @@ aliases:
 120. <ruby>[傘](../../characters/傘.md)<rt>ㄙㄚㄋ</rt></ruby> - umbrella
 121. <ruby>[備](../../characters/備.md)<rt>ㄅㄧㄜ</rt></ruby> - prepare
 122. <ruby>[僅](../../characters/僅.md)<rt>ㄍㄧㄋ</rt></ruby> - only
+- 储 --> 儲
+- 傢 --> 家
 
 ### +11 Strokes
 123. <ruby>[傑](../../characters/傑.md)<rt>ㄍㄝㄊ</rt></ruby> - masterful
@@ -163,6 +189,9 @@ aliases:
 127. <ruby>[傷](../../characters/傷.md)<rt>ㄙ⼘ㄫ</rt></ruby> - wound
 128. <ruby>[傾](../../characters/傾.md)<rt>ㄎㄝㄫ</rt></ruby> - lean
 129. <ruby>[僧](../../characters/僧.md)<rt>ㄙㄜㄫ</rt></ruby> - priest
+- 傳 --> 伝
+- 會 --> 会
+- ¡傻! - 違法字
 
 ### +12 Strokes
 130. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue
@@ -175,9 +204,11 @@ aliases:
 135. <ruby>[僻](../../characters/僻.md)<rt>ㄆㄝㄎ</rt></ruby> - remote
 136. <ruby>[儀](../../characters/儀.md)<rt>ㄜㄧ</rt></ruby> - ceremonial
 137. <ruby>[億](../../characters/億.md)<rt>ㄧㄎ</rt></ruby> - hundred million
+- 𠏁 --> 化
 
 ### +14 Strokes
 138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
+- ¡𠏹! - 違法字
 
 ### +15 Strokes
 139. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay
@@ -186,42 +217,12 @@ aliases:
 142. <ruby>[優](../../characters/優.md)<rt>ㄨㄛ</rt></ruby> - excellent
 143. <ruby>[儲](../../characters/儲.md)<rt>ㄐㄛ</rt></ruby> - store
 
+### +17 Strokes
+- 𠑊 --> 厳
+
 ### +19 Strokes
 144. <ruby>[儺 (char)](../../characters/儺%20(char).md)<rt>ㄋㄨㄛ</rt></ruby> - exorcism
-
-### Aliases
-- 傳 --> 伝
-- 传 --> 伝
-- 债 --> 債
-- 储 --> 儲
-- 會 --> 会
-- 做 --> 作
-- 脩 --> 修
-- 佰 --> 百
-- 傢 --> 家
-- 倖 --> 幸
-- 倆 --> 両
 - 儼 --> 厳
-- 𠑊 --> 厳
-- 仕 --> 士
-- 亿 --> 億
-- 㐶 --> 化
-- 𠏁 --> 化
-- 仝 --> 同
-- 倡 --> 唱
-- 佚 --> 失
-
-### Forbidden
-- 亽 - 口訣: Korean 구결 for '라/다'
-- 仒 - 口訣: Korean 구결 for '샤'
-- 侤 - 국자: Korean for '고'
-- 倻 - 국자: 한문교육용기초한자/이름, used in Korean place names. 야
-- 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
-- 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
-- 們 - 中国制造: HSK/1 and Korean Name but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
-- 傻 - 官话: HSK/2.
-- 俧 - 国字: 国字; Wiktionary gives no definition
-- 𠏹 - 国字: Buddha
 
 ## Data check
 ```dataview

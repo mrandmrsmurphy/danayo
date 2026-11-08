@@ -77,7 +77,7 @@ tags:
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'
 - 乷 - 국자: Korean-coined hanja for '살', used for transliteration. On 単亜語/敎育用基礎漢字/名
-- 侤 - 국자: Korean for '고'
+- ¡侤! - 違法字
 - 㢱 - 국자: Korean place-name character; same as 旀
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name
 - 怾 - 국자: Korean-coined hanja for a Korean mountain name, 기 or 지

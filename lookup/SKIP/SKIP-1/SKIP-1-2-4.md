@@ -33,7 +33,7 @@ tags:
 - 决 --> 決
 
 ### Forbidden
-- 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
+- ¡伙! - 違法字
 
 ## Datacheck
 ```dataview

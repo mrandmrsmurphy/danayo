@@ -57,6 +57,8 @@ def radchar(n): return unicodedata.normalize("NFKC",chr(0x2F00+n-1))
 def ctx(t,w):
     pat=r"variant|simplified|traditional|alternative|archaic|obsolete|ancient|form of|Han compound|Han simp|zh-see|zh-forms|ja-see|phonetic series|derivative|original"
     return [l.strip()[:220] for l in t.split("\n") if w in l and re.search(pat,l,re.I)][:6]
+import sys as _s; _s.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
+from radical_fmt import radical_put
 def add_redirect(path,alias,main):
     t=open(path,encoding="utf-8").read(); line=f"- {alias} --> {main}"
     if line in t: return
@@ -118,7 +120,7 @@ def main():
         sa,sb,sc=skip.split("-"); lp=f"lookup/SKIP/SKIP-{sa}/SKIP-{sa}-{sb}-{sc}.md"
         if not os.path.exists(lp): print("MISSING LEAF",lp,"- create a size-0 redirect leaf and an index entry with ø")
         else: add_redirect(lp,a,ch)
-        add_redirect(f"lookup/Radicals/Radical {(rn or mrad):03d}.md",a,ch)
+        rr=rn or mrad; radical_put(f"lookup/Radicals/Radical {rr:03d}.md",f"- {a} --> {ch}",strokes,rr,"Aliases")
     if guesses:
         gp="AIOS/projects/project_alias_skip_guesses.md"; g=open(gp,encoding="utf-8").read().rstrip("\n")
         for a,skip,why in guesses: g+=f"\n| {ch} | {a} | {skip} | computed from its parts |"

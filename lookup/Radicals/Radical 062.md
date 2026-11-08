@@ -51,6 +51,10 @@ tags: [lookup]
 ### Forbidden
 - 𢦏 - 幽霊文字: Wiki's own note: "not really a word ever, anywhere." Component in 戴/載/裁/截/臷/蛓/哉/胾/栽/烖/酨/𨚵.
 
+### Aliases
+- 戰 --> 戦
+- 战 --> 戦
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

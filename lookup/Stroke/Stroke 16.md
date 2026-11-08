@@ -66,6 +66,8 @@ tags:
 - 舉 --> 挙
 - 𦩻 --> 朝
 - 頽 --> 退
+- 冀 --> 希
+- 戰 --> 戦
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名
@@ -80,7 +82,7 @@ tags:
 - 鮖 - 国字: Japanese fluvial sculpin (Cottus pollux).  Use 杜父魚
 - 𪮷 - 国字: 扌+合+辛.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
 - 鮗 - 国字: Japanese-invented character for dotted gizzard shad, Konosirus punctatus, Use 鱅!  Ignore C's 鿴!
-- 𠏹 - 国字: Buddha
+- ¡𠏹! - 違法字
 - 駲 - 幽霊文字: A ghost character
 - 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"
