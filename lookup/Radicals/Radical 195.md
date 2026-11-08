@@ -49,6 +49,7 @@ tags: [lookup]
 ### Aliases
 - 鱆 --> 章
 - 鮹 --> 章
+- 鯎 --> 成
 
 ### Forbidden
 - 鱶 - 国字: 国字 for 'shark', ふか

@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 成 perfected to the current standard:** `## Aliases` section for 鯎 (Japanese dace, 魚 + 成; EDRDG SKIP 1-11-7, 17 strokes) and 晟 ('bright', 日 + 成; EDRDG 2-4-6, 11 strokes), neither linked to 成 on Wiktionary, redirects added; rank 93 confirmed in CC 0000, OC \*djeŋ matches Wiktionary, twenty-two words, four chengyu and three derived characters verified. [AI]
+
+- **Character loop, 愛 perfected to the current standard:** added OC \*qɯːds (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 爱 (simplified; SKIP 2-4-6 computed, 10 strokes), 㤅 (original form; SKIP 2-4-4 computed, 8 strokes) and 薆 (archaic alternative per 愛's page; EDRDG 2-3-13, 16 strokes), redirects added; rank 362 confirmed in CC 0000, twenty-one words, four chengyu and 曖 verified. [AI]
+
+- **Character loop, 怒 perfected to the current standard:** fixed the callout link to the word (`../words/怒.md`) and escaped the Old Chinese asterisks; no aliases; rank 400 confirmed in CC 0000, OC matches Wiktionary, ten words and 喜怒哀楽 verified. [AI]
+
+- **Character loop, 快 perfected to the current standard:** corrected the Old Chinese reconstruction from \*kʷraːds to Zhengzhang's \*kʰʷraːds (en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 1968 confirmed in CC 1000, five words verified. [AI]
+
+- **Character loop, 応 perfected to the current standard:** `## Aliases` section for 應 (traditional; EDRDG SKIP 3-3-14, 17 strokes; its rank 327 is the page's `mc_id`, bullet reworded to credit it), 𤻮 (rare variant; SKIP 3-5-14 computed, 19 strokes) and 应 (simplified; SKIP 3-3-4 computed, 7 strokes), redirects added; new redirect-only SKIP leaf 3-5-14 for 𤻮 with its ø entry on SKIP-3-5; escaped the Old Chinese asterisks in the graphemic bullet; OC present, six words and two chengyu verified. [AI]
+
+- **Character loop, 必 perfected to the current standard:** added OC \*pliɡ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 79 confirmed in CC 0000, five words, two chengyu and three derived characters verified. [AI]
+
+- **Character loop, 往 perfected to the current standard:** added OC \*ɢʷaŋʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 335 confirmed in CC 0000, four words verified. [AI]
+
 - **Character loop, 強 perfected to the current standard:** added OC \*ɡaŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet and unquoted `mc_id: "496"` to 496; `## Aliases` section for 彊 (archaic form; EDRDG SKIP 1-3-13, 16 strokes; rank 539 is above 496) and 强 (simplified; SKIP 1-3-9 computed, 12 strokes), redirects added; rank 496 confirmed in CC 0000, thirteen words and 弱肉強食 verified. [AI]
 
 - **Character loop, 弱 perfected to the current standard:** added OC \*njewɢ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 鶸 (siskin, 弱 + 鳥; no Wiktionary link; EDRDG SKIP 1-10-11, 21 strokes), redirects added; rank 550 confirmed in CC 0000, four words, three chengyu and 溺 verified. [AI]

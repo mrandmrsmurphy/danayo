@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### Aliases
 - 围 --> 囲
+- 应 --> 応
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

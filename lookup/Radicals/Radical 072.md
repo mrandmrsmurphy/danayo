@@ -104,6 +104,7 @@ tags: [lookup]
 - 昸 --> 冬
 - 㫡 --> 冬
 - 𣉻 --> 知
+- 晟 --> 成
 
 ### Forbidden
 - 暃 - 幽霊文字: "the color of the sun"

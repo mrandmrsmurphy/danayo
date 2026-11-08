@@ -19,6 +19,9 @@ tags: [lookup]
 - [舜](../../characters/舜.md) has 爪 as its top component, but is listed under 舛.
 
 
+### Aliases
+- 爱 --> 愛
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

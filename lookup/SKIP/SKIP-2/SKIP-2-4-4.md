@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 责 --> 責
+- 㤅 --> 愛
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

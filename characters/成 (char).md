@@ -32,7 +32,7 @@ aliases:
   - 鯎
   - 晟
 注音: "ㄙㄧㄫ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 100
 - [SKIP-4-6-4](../lookup/SKIP/SKIP-4/SKIP-4-6-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 93rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄙㄧㄫ](../syllables/ㄙㄧㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鯎
+No link to 成 found on either Wiktionary page beyond its structure (魚 + 成, the Japanese dace); 鯎 is a separate fish character built on 成 as the phonetic, kept as an alias for searchers. SKIP 1-11-7; 17 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
+
+### 晟
+No link to 成 found on either Wiktionary page beyond its structure (日 + 成, "bright, clear"); 晟 is a separate character that uses 成 as its phonetic, used in names, and is kept as an alias for searchers. SKIP 2-4-6; 11 strokes. Radical 072 日. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[成]]<rt>ㄙㄧㄫ</rt></ruby> "to become" (stand-in for 成)

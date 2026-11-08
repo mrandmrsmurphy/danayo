@@ -20,7 +20,7 @@ Every single one is the sickness radical!
 11. no
 12. [SKIP-3-5-12](lookup/SKIP/SKIP-3/SKIP-3-5-12.md): 厳, 療, 癇, 癌
 13. [SKIP-3-5-13](lookup/SKIP/SKIP-3/SKIP-3-5-13.md): 癒, 癖
-14. no
+14. [SKIP-3-5-14](lookup/SKIP/SKIP-3/SKIP-3-5-14.md): ø
 15. no
 16. [SKIP-3-5-16](lookup/SKIP/SKIP-3/SKIP-3-5-16.md): ø
 

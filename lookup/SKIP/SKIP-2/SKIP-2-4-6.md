@@ -21,6 +21,10 @@ tags: [lookup]
 9. <ruby>[蚤](/characters/蚤.md)<rt>ㄐㄚㄨ</rt></ruby> "flea"
 10. <ruby>[䍃](/characters/䍃.md)<rt>⼜</rt></ruby> "pitcher; earthenware"
 
+### Aliases
+- 爱 --> 愛
+- 晟 --> 成
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -32,7 +32,7 @@ aliases:
   - 㤅
   - 薆
 注音: ㄚㄧ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 tags:
   - character
 kwin: true
@@ -46,10 +46,21 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: originally written 㤅, phonetic 旡 (no vault page) + semantic [[Radical 061|心]] ("heart"). During the Qin dynasty a redundant component 夊 ("foot") was added at the bottom; the original phonetic 旡 later corrupted into ⿱爫冖. "To love; to treasure, value; to like, be fond of."
+- 形声 (OC \*qɯːds): originally written 㤅, phonetic 旡 (no vault page) + semantic [[Radical 061|心]] ("heart"). During the Qin dynasty a redundant component 夊 ("foot") was added at the bottom; the original phonetic 旡 later corrupted into ⿱爫冖. "To love; to treasure, value; to like, be fond of."
 - [SKIP-2-4-9](../lookup/SKIP/SKIP-2/SKIP-2-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 362nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄚㄧ](../syllables/ㄚㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 爱
+The simplified Chinese form of 愛, which replaces the lower component with 友 ("friend"); Wiktionary's 爱 page names 愛 as its traditional form, and 愛 lists it as its simplified form. SKIP 2-4-6 (computed: EDRDG does not list it); 10 strokes. Radical 087 爪. It has no rank of its own in the Classical Chinese lists.
+
+### 㤅
+The original form of 愛 (旡 + 心), as the page's graphemic note records, before 夊 was added in the Qin dynasty; Wiktionary's 㤅 page redirects to 愛 and 愛 lists it among its forms. Kept as a bare mention. SKIP 2-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 薆
+A separate literary character (艹 + 愛, "to hide; lush"); Wiktionary's 愛 page lists it as an archaic alternative form of 愛, though 薆's own page does not mention 愛. SKIP 2-3-13; 16 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[愛]]<rt>ㄚㄧ</rt></ruby> "love" (stand-in for 愛)

@@ -30,7 +30,7 @@ mc_id: 79
 graphemic_classification: 象形
 stand_in: 必
 注音: ㄅㄧㄊ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -44,7 +44,7 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): likely a pictograph of the handle on a weapon such as 戊/戈, with two decorative strokes added to the sides; the original "weapon-handle" sense was later written 柲 once 必 itself was borrowed (仮借) for the abstract sense "must, necessarily." The modern glyph's resemblance to [[Radical 061|心]] plus an extra stroke is purely graphic, not a real semantic component, but is why the character is filed under that Kangxi radical.
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*pliɡ): likely a pictograph of the handle on a weapon such as 戊/戈, with two decorative strokes added to the sides; the original "weapon-handle" sense was later written 柲 once 必 itself was borrowed (仮借) for the abstract sense "must, necessarily." The modern glyph's resemblance to [[Radical 061|心]] plus an extra stroke is purely graphic, not a real semantic component, but is why the character is filed under that Kangxi radical.
 - [SKIP-1-1-4](../lookup/SKIP/SKIP-1/SKIP-1-1-4.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 79th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄅㄧㄊ](../syllables/ㄅㄧㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

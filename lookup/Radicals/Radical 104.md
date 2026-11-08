@@ -56,6 +56,9 @@ tags: [lookup]
 - 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
 - 癪 - 国字: Originally 'menstrual cramps', then 'anger', then 'spasm'
 
+### Aliases
+- 𤻮 --> 応
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

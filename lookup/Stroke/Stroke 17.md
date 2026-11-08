@@ -53,6 +53,8 @@ tags:
 - 魎 --> 両
 - 藉 --> 借
 - 鹫 --> 就
+- 應 --> 応
+- 鯎 --> 成
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
