@@ -73,6 +73,7 @@ tags: [lookup]
 - 衕 --> 同
 - 稀 --> 希
 - 腱 --> 建
+- 斞 --> 庾
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

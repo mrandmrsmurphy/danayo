@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[威](/characters/威.md)<rt>ㄛㄧ</rt></ruby> - power
 3. <ruby>[為](/characters/為%20(char).md)<rt>⼔ㄋ</rt></ruby> - namely
 
+### Aliases
+- 臾 --> 庾
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -17,6 +17,7 @@ date-last-perfect: 2026-10-05
 ### Aliases
 - 舉 --> 挙
 - 舊 --> 旧
+- 臾 --> 庾
 
 ## Data check
 ```dataview

@@ -30,6 +30,7 @@ tags: [lookup]
 
 ### Aliases
 - 韩 --> 韓
+- 斞 --> 庾
 
 ## Datacheck
 ```dataview

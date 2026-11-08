@@ -19,6 +19,9 @@ tags: [lookup]
 ### +7 Strokes
 3. <ruby>[斜](../../characters/斜.md)<rt>ㄙ⼘</rt></ruby> - slant
 
+### +8 Strokes
+- 斞 --> 庾
+
 ### +9 Strokes
 4. <ruby>[斟](../../characters/斟.md)<rt>ㄐㄧㄇ</rt></ruby> - pour wine
 
