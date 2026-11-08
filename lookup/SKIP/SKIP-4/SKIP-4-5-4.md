@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Aliases
 - 发 --> 発
+- 㠯 --> 以
 
 ### Forbidden
 - 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.

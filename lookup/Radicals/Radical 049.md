@@ -21,6 +21,9 @@ tags: [lookup]
 ### Forbidden
 - 巼 - 국자: Korean-coined hanja for '팟'; place name
 
+### Aliases
+- 㠯 --> 以
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

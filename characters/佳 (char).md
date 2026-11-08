@@ -31,9 +31,8 @@ danayo_id: 3015
 mc_id: 3380
 graphemic_classification: 圭
 stand_in: 佳
-aliases:
 注音: ㄍ⼘ㄧ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character

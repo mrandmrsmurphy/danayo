@@ -34,9 +34,8 @@ danayo_id: 3011
 mc_id: 1241
 graphemic_classification: "旦"
 stand_in: "但"
-aliases:
 注音: "ㄉㄚㄋ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

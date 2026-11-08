@@ -27,9 +27,8 @@ danayo_id: 3018
 mc_id: 560
 graphemic_classification: "谷"
 stand_in: "俗"
-aliases:
 注音: "ㄙㄛㄎ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

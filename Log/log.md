@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 倍 stamped to the current standard:** no change needed; no aliases, rank 997 confirmed in CC 0000, OC present, two words verified. [AI]
+
+- **Character loop, 俗 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 560 confirmed in CC 0000, OC present, four words verified. [AI]
+
+- **Character loop, 便 perfected to the current standard:** added OC \*ben (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 653 confirmed in CC 0000, nine words and 鞭 verified. [AI]
+
+- **Character loop, 佳 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 3380 confirmed in CC 3000, OC present, two words and 佳人薄命 verified. [AI]
+
+- **Character loop, 但 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 1241 confirmed in CC 1000, OC present, two words verified. [AI]
+
+- **Character loop, 以 perfected to the current standard:** added OC \*lɯʔ (Zhengzhang via en.Wiktionary); `## Aliases` section for 㠯 (ancient simplified form; SKIP 4-5-4 computed, 5 strokes), redirects added; rank 4 confirmed in CC 0000, thirteen words, 義以立名 and four derived characters verified. [AI]
+
+- **Character loop, 也 perfected to the current standard:** added OC \*laːlʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 3 confirmed in CC 0000, the word 也 and six derived characters verified. [AI]
+
 - **Character loop, 乗 perfected to the current standard:** added OC \*ɦljɯŋ (Zhengzhang via en.Wiktionary); `## Aliases` section for 乘 (traditional form; EDRDG SKIP 4-10-3, 10 strokes; its rank 269 is the page's `mc_id`, bullet reworded to credit it), redirects added; replaced the old duplicate `乘 --> 乗` under Characters on SKIP-4-10-3; twenty words and 剰 verified; the open exponentiation question on the page is left as it was. [AI]
 
 - **Character loop, 乎 perfected to the current standard:** `## Aliases` section for the rare variants 𠂞 and 𠂠 (bare mentions; SKIP 4-5-3 computed by analogy with 乎, 5 strokes), redirects added; rank 69 confirmed in CC 0000, OC present, two words, 豹斑改乎 and 呼 verified. [AI]

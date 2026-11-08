@@ -32,7 +32,7 @@ mc_id: 997
 graphemic_classification: "咅"
 stand_in: "倍"
 注音: "ㄅㄚㄧ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

@@ -156,3 +156,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 両 | 魉 | 3-10-6 | computed from its parts |
 | 乎 | 𠂞 | 4-5-3 | computed from its parts |
 | 乎 | 𠂠 | 4-5-3 | computed from its parts |
+| 以 | 㠯 | 4-5-4 | computed from its parts |
