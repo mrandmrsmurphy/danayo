@@ -24,6 +24,7 @@ tags: [lookup]
 ### Aliases
 - 亂 --> 乱
 - 书 --> 書
+- 𠃓 --> 昜
 
 ## Data check
 ```dataview

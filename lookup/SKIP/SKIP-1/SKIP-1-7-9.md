@@ -38,6 +38,7 @@ tags:
 ### Aliases
 - 醗 --> 発
 - 諷 --> 風
+- 輻 --> 放
 
 ## Datacheck
 ```dataview

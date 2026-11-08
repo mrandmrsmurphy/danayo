@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[刀](/characters/刀.md)<rt>ㄊㄚㄨ</rt></ruby> - knife
 3. <ruby>[匕](/characters/匕.md)<rt>ㄆㄧㄜ</rt></ruby> - spoon
 
+### Aliases
+- 𠃓 --> 昜
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

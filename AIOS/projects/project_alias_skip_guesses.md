@@ -133,3 +133,6 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 幸 | 㚔 | 2-3-5 | computed from its parts |
 | 彬 | 霦 | 2-8-11 | computed from its parts |
 | 憂 | 忧 | 1-3-4 | computed from its parts |
+| 放 | 辐 | 1-4-9 | computed from its parts |
+| 放 | 㽬 | 2-9-9 | computed from its parts |
+| 昜 | 𠃓 | 3-1-1 | computed from its parts |

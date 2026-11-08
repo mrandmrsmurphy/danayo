@@ -61,6 +61,7 @@ tags:
 - 滚 --> 滾
 - 鳫 --> 雁
 - 號 --> 号
+- 辐 --> 放
 
 ## Data check
 ```dataview

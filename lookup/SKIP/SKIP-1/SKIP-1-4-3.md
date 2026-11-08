@@ -36,6 +36,7 @@ tags:
 ### Aliases
 - 牠 --> 他
 - 祂 --> 他
+- 邨 --> 村
 
 ## Datacheck
 ```dataview

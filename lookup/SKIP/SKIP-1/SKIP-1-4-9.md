@@ -48,6 +48,9 @@ tags:
 36. <ruby>[頒](characters/頒.md)<rt>ㄆㄚㄋ</rt></ruby> "confer"
 37. <ruby>[頓](characters/頓.md)<rt>ㄊㄛㄋ</rt></ruby> "kowtow"
 
+### Aliases
+- 辐 --> 放
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

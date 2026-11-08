@@ -52,6 +52,9 @@ tags:
 23. <ruby>[鄧](../../characters/鄧.md)<rt>ㄉㄨㄫ</rt></ruby> - Teng
 24. <ruby>[鄭](../../characters/鄭.md)<rt>ㄐㄝㄫ</rt></ruby> - Zheng
 
+### Aliases
+- 邨 --> 村
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 村 perfected to the current standard:** added OC \*sʰuːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 邨 (alternative form on both Wiktionary pages; EDRDG SKIP 1-4-3, 7 strokes), redirects added; rank 0, two words verified. [AI]
+
+- **Character loop, 暹 perfected to the current standard:** added the Old Chinese reconstruction (\*sem, Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases (Wiktionary lists none), words 暹羅 and 暹京 verified as the only two, rank 0 confirmed. [AI]
+
+- **Character loop, 昜 perfected to the current standard:** `## Aliases` section for 𠃓 (cursive-script form per Wiktionary; bare mention; SKIP 3-1-1 computed by analogy with 乃), redirects added; rank 4423 is above 𠃓's (unranked), words and derived list verified. [AI]
+
+- **Character loop, 放 perfected to the current standard:** `## Aliases` section for 輻, 辐 and 㽬 (no Wiktionary link to 放 found for any; two SKIP numbers computed), redirects added; new redirect-only SKIP leaf 2-9-9 (for 㽬) with its ø index entry on SKIP-2-9; rank 959, 17 words and 倣 verified. [AI]
+
+- **Character loop, 攴 perfected to the current standard:** level links reordered to Grade, HSK, Jōyō, Korean; `## Aliases` section for 攵 (the right-hand radical form) with redirects; rank 2777 verified; name-only character on `List of 名専字`. [AI]
+
 - **Character loop, 指 perfected to the current standard:** no aliases; rank 807 verified in `CC 0000`; all 18 words and the chengyu listed, no derived characters; no edits beyond the stamp. [AI]
 
 - **Character loop, 打 perfected to the current standard:** `mc_id` changed from 0 to 3428, the lowest rank among its aliases 奕 (3428) and 弈 (3830), per the lowest-alias-rank rule; `## Aliases` section for 奕 and 弈 with redirects, both saying that Wiktionary shows no connection to 打 (open question for Murphy: they look like mistaken aliases); seven words and two chengyu verified. [AI]

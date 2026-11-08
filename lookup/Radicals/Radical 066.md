@@ -59,6 +59,7 @@ tags: [lookup]
 
 ### Aliases
 - 收 --> 収
+- 攵 --> 攴
 
 ## Data check
 ```dataview

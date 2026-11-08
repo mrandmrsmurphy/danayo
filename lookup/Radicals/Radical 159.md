@@ -55,6 +55,8 @@ tags: [lookup]
 
 ### Aliases
 - 车 --> 車
+- 輻 --> 放
+- 辐 --> 放
 
 ## Data check
 ```dataview

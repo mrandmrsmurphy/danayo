@@ -50,6 +50,7 @@ tags:
 - 呙 --> 咼
 - 围 --> 囲
 - 忧 --> 憂
+- 邨 --> 村
 
 ## Data check
 ```dataview

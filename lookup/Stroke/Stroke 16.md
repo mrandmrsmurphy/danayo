@@ -56,6 +56,7 @@ tags:
 - 穐 --> 秋
 - 諷 --> 風
 - 學 --> 学
+- 輻 --> 放
 
 ## Data check
 ```dataview

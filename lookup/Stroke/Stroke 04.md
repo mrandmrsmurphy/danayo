@@ -29,6 +29,7 @@ tags: [lookup]
 - 车 --> 車
 - 风 --> 風
 - 㕛 --> 友
+- 攵 --> 攴
 
 ## Data check
 ```dataview

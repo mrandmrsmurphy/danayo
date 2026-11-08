@@ -51,6 +51,7 @@ tags: [lookup]
 
 ### Aliases
 - 當 --> 当
+- 㽬 --> 放
 
 ## Data check
 ```dataview

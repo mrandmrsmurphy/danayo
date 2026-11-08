@@ -51,6 +51,7 @@ tags:
 - 檯 --> 台
 - 襠 --> 当
 - 鞦 --> 秋
+- 㽬 --> 放
 
 ## Data check
 ```dataview

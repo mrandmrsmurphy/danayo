@@ -23,6 +23,7 @@ tags:
 - 个 --> 個
 - 𠀃 --> 且
 - 马 --> 馬
+- 𠃓 --> 昜
 
 ## Data check
 ```dataview

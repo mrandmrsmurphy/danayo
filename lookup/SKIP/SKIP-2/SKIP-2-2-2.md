@@ -30,6 +30,9 @@ tags: [lookup]
 17. <ruby>[父](/characters/父.md)<rt>ㄅㄨ</rt></ruby> "father"
 18. <ruby>[攴](/characters/攴.md)<rt>ㄆㄨㄎ</rt></ruby> "to knock, to strike"
 
+### Aliases
+- 攵 --> 攴
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
