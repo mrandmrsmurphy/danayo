@@ -52,6 +52,7 @@ tags: [lookup]
 28. <ruby>[悔](../../characters/悔.md)<rt>ㄏㄛㄧ</rt></ruby> - repent
 
 29. <ruby>[恍](../../characters/恍.md)<rt>ㄍ⺢ㄫ</rt></ruby> - vague
+- 恬 --> 甜
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance

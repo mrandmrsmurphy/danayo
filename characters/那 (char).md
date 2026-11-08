@@ -33,6 +33,7 @@ graphemic_classification: 冉
 stand_in: 那
 aliases:
   - 哪
+  - 挪
 注音: ㄋㄚ
 kwin: true
 tags:
@@ -52,6 +53,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 3626th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 歌|ɑ]] → [ㄋㄚ](../syllables/ㄋㄚ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)
+
+## Aliases
+
+### 哪
+口 + 那, the interrogative "which; where", historically the same word as 那 (see Notes); kept as an alias so a search for 哪 lands here. SKIP 1-3-7 (EDRDG); 10 strokes (Japanese count, 那 being 7). It has no rank of its own in the Classical Chinese lists. SKIP 1-3-7; 10 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
+
+### 挪
+扌 + 那 as phonetic, "to move, to shift". Wiktionary lists 那 as an obsolete alternative form of 挪, and Dan'a'yo would give 挪 the same sound as 那, ㄋㄚ (MC `n` + `ɑ`), so it is kept as an alias of 那 by the project owner's decision, with 那 as the hub for the characters built on it (see Derived Characters). SKIP 1-3-7 (EDRDG); 10 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 3626. SKIP 1-3-7; 10 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[那]]<rt>ㄋㄚ</rt></ruby> "then; in that case" (stand-in for 那)

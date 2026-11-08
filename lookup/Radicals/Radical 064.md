@@ -92,6 +92,7 @@ tags: [lookup]
 65. <ruby>[𢭏](../../characters/𢭏.md)<rt>ㄊㄚㄨ</rt></ruby> - thresh
 66. <ruby>[𢭐](../../characters/𢭐.md)<rt>ㄌㄚㄨ</rt></ruby> - dredge
 67. <ruby>[拿](../../characters/拿.md)<rt>ㄋㄚ</rt></ruby> - take, grasp
+- 挪 --> 那
 
 ### +7 Strokes
 68. <ruby>[捧](../../characters/捧%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - hold up in two hands

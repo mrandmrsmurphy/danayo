@@ -100,6 +100,7 @@ tags: [lookup]
 74. <ruby>[唖](../../characters/唖.md)<rt>ㄚ</rt></ruby> - dumb
 75. <ruby>[唳](../../characters/唳%20(char).md)<rt>ㄌ⼶</rt></ruby> - bird cry
 76. <ruby>[啄](../../characters/啄%20(char).md)<rt>ㄊㄛㄎ</rt></ruby> - peck at
+- 哪 --> 那
 
 ### +8 Strokes
 77. <ruby>[唯](../../characters/唯%20(char).md)<rt>⼶ㄧ</rt></ruby> - only
