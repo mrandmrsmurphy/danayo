@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*bom): semantic [[巾]] ("cloth") + phonetic [[凡 (char)|凡]] — "sail." Mandarin also has a Taiwan-specific verb reading fán ("to sail"), not reflected in this noun-sense entry.
+- 形声 (OC \*bom): semantic [[巾]] ("cloth") + phonetic [[凡]] — "sail." Mandarin also has a Taiwan-specific verb reading fán ("to sail"), not reflected in this noun-sense entry.
 - [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 8613th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 凡|ɨɐm]] → [ㄆㄚㄇ](../syllables/ㄆㄚㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)

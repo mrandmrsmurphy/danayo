@@ -46,7 +46,7 @@ boundedness: 70
 ```
 
 ## Notes
-- 会意 of [[Radical 162|辵]] ("walk, road") and [[首 (char)|首]] ("head") — the head leading the way; "path, way, doctrine."
+- 会意 of [[Radical 162|辵]] ("walk, road") and [[首]] ("head") — the head leading the way; "path, way, doctrine."
 - [SKIP-3-3-9](../lookup/SKIP/SKIP-3/SKIP-3-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 57th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄉㄚㄨ](../syllables/ㄉㄚㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (2), [Korean MS](../lookup/Korean/Korean%20MS.md)

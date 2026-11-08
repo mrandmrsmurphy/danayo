@@ -43,7 +43,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声/會意: semantic [[鬥]] ("to fight") + phonetic [[児]] — "to quarrel." Dual-source confirmed (en.Wiktionary and zh.Wiktionary); the radical is 鬥 ("fight"), not the visually similar 門 ("gate"). Alias 鬩 is the traditional/kyūjitai form; 阋 is the simplified form.
+- 形声/會意: semantic [[Radical 191|鬥]] ("to fight") + phonetic [[児]] — "to quarrel." Dual-source confirmed (en.Wiktionary and zh.Wiktionary); the radical is 鬥 ("fight"), not the visually similar 門 ("gate"). Alias 鬩 is the traditional/kyūjitai form; 阋 is the simplified form.
 - [SKIP-3-8-8](../lookup/SKIP/SKIP-3/SKIP-3-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Not attested in the Classical Chinese frequency corpus (genuine `mc_id: 0` sentinel). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄏㄝㄎ](../syllables/ㄏㄝㄎ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)

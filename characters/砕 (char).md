@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*suːds): semantic [[Radical 112|石]] ("stone") + phonetic [[卒 (char)|卒]] (OC \*ʔsuːd, \*sʰuːd, \*ʔsud) — "to smash, break into pieces."
+- 形声 (OC \*suːds): semantic [[Radical 112|石]] ("stone") + phonetic [[卒]] (OC \*ʔsuːd, \*sʰuːd, \*ʔsud) — "to smash, break into pieces."
 - [SKIP-1-5-4](../lookup/SKIP/SKIP-1/SKIP-1-5-4.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 2805th most used character in Classical Chinese (recorded in the corpus under its traditional form 碎). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄙㄛㄧ](../syllables/ㄙㄛㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)

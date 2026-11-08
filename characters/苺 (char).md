@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声: semantic [[艸]] ("grass") + phonetic [[母]] — "strawberry." Dual-source confirmed (en.Wiktionary and zh.Wiktionary); both explicitly identify 莓 as a true variant form of this same character (not a distinct character), added to `aliases` accordingly.
+- 形声: semantic [[Radical 140|艸]] ("grass") + phonetic [[母]] — "strawberry." Dual-source confirmed (en.Wiktionary and zh.Wiktionary); both explicitly identify 莓 as a true variant form of this same character (not a distinct character), added to `aliases` accordingly.
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 7402nd most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄚㄧ](../syllables/ㄇㄚㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)

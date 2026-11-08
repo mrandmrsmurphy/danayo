@@ -22,7 +22,7 @@ This has been checked for redirects.
 [鉀](characters/鉀%20(char).md) 匣 [岬](characters/岬.md) [[胛]] [[閘]]
 
 ### 강 
-[[杠]] [[堈]] [岡](characters/岡.md) [姜](characters/姜%20(char).md) [[橿]] [彊](characters/強%20(char).md) [慷](characters/慷.md) [[畺]] [疆](characters/疆.md) [糠](characters/糠.md) [絳](characters/降.md) [羌](characters/羌.md) [腔](characters/腔.md) [[舡]] [薑](characters/姜%20(char).md) [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 
+[[杠]] [[缸|堈]] [岡](characters/岡.md) [姜](characters/姜%20(char).md) [[橿]] [彊](characters/強%20(char).md) [慷](characters/慷.md) [[畺]] [疆](characters/疆.md) [糠](characters/糠.md) [絳](characters/降.md) [羌](characters/羌.md) [腔](characters/腔.md) [[舡]] [薑](characters/姜%20(char).md) [鱇](characters/康.md) [[嫝]] [[跭]] [[襁]] [[玒]] 
 
 ### 개 
  [价](characters/価.md) [凱](characters/凱.md) [[愷]] [漑](characters/漑.md) [[塏]] [[愾]] [[疥]] [芥](characters/芥.md) [豈](characters/豈.md) [鎧](characters/鎧.md) [[玠]] 
@@ -31,7 +31,7 @@ This has been checked for redirects.
 [喀](characters/喀.md)
 
 ### 갱 
-[坑 (char)](characters/坑%20(char).md) [[粳]] [[羹]] 
+[坑 (char)](characters/坑%20(char).md) [[更 (char)|粳]] [[羹]] 
 
 ### 갹 
 [[醵]] 
@@ -42,7 +42,7 @@ This has been checked for redirects.
 [渠](characters/渠.md) [遽](characters/遽.md) 鉅-->巨金 [[炬]] [[倨]] [据](characters/拠.md) [[祛]] [[踞]] [鋸 (char)](characters/鋸%20(char).md) [裾](characters/裾.md)
 
 ### 건 
-[巾](characters/巾.md) [[虔]] [[楗]] [鍵 (char)](characters/鍵%20(char).md) [[愆]] [[腱]] [[蹇]] [騫](characters/鍵%20(char).md) 
+[巾](characters/巾.md) [[虔]] [[楗]] [鍵 (char)](characters/鍵%20(char).md) [[愆]] [[建|腱]] [[蹇]] [騫](characters/鍵%20(char).md) 
 
 ### 걸 
 [桀](characters/傑.md) 
@@ -66,10 +66,10 @@ This has been checked for redirects.
 [訣](characters/訣.md) [[抉]]
 
 ### 겸 
-[鎌 (char)](characters/鎌%20(char).md) [[慊]] [[箝]] [鉗 (char)](characters/鉗%20(char).md) [[嗛]] [[槏]] 
+[鎌 (char)](characters/鎌%20(char).md) [[慊]] [[鉗 (char)|箝]] [鉗 (char)](characters/鉗%20(char).md) [[嗛]] [[槏]] 
 
 ### 경 
-[巠](../../characters/巠.md) [[倞]] [鯨](characters/鯨.md) [[坰]] [[耿]] [[炅]] [更 (char)](characters/更%20(char).md) [梗](characters/梗.md) [憬](characters/憬.md) [[璟]] [瓊](characters/瓊.md) [[擎]] [[儆]] [[俓]] [[涇]] [莖](characters/茎%20(char).md) [勁](characters/勁.md) [[逕]] [[熲]] [[冏]] [[勍]] [[烱]] [[璥]] [[痙]] [磬](characters/響.md) [[絅]] [脛](characters/脛.md) [頸](characters/頚%20(char).md) [[鶊]] [檠](characters/檠.md) [[冂]] kweng? [[𠗊]] [[憼]] [[璟]] ([[璄]])
+[巠](../../characters/巠.md) [[倞]] [鯨](characters/鯨.md) [[坰]] [[耿]] [[炅]] [更 (char)](characters/更%20(char).md) [梗](characters/梗.md) [憬](characters/憬.md) [[璟]] [瓊](characters/瓊.md) [[檠|擎]] [[儆]] [[俓]] [[涇]] [莖](characters/茎%20(char).md) [勁](characters/勁.md) [[逕]] [[熲]] [[囧|冏]] [[勍]] [[烱]] [[璥]] [[痙]] [磬](characters/響.md) [[絅]] [脛](characters/脛.md) [頸](characters/頚%20(char).md) [[鶊]] [檠](characters/檠.md) [[Radical 013|冂]] kweng? [[𠗊]] [[憼]] [[璟]] ([[璄]])
 
 ### 계 
 [誡](../../characters/戒.md) [[烓]] [屆](characters/届%20(char).md) [悸](characters/悸.md) [[棨]] [稽](characters/稽.md) [[谿]]  [[谿]] ([[磎]]) [契](characters/契.md) [桂](characters/桂.md)
@@ -77,7 +77,7 @@ This has been checked for redirects.
 ## ㅗ
 
 ### 고 
-[叩](characters/叩.md) [敲 (char)](characters/敲%20(char).md) [皐](characters/皐.md) [[暠]] [[呱]] [尻 (char)](characters/尻%20(char).md) [拷](characters/拷.md) [[槁]] [沽](characters/賈.md) [[痼]] [睾](characters/睾.md) [羔](characters/皐.md) [股 (char)](characters/股%20(char).md) [膏](characters/膏.md) [[苽]] [[菰]] [藁](characters/藁.md) [[蠱]] [袴 (char)](characters/袴%20(char).md) [[誥]] [賈](characters/賈.md) [[辜]] [錮 (char)](characters/錮%20(char).md) [雇](characters/雇.md) [[杲]] [靠](characters/靠.md)
+[叩](characters/叩.md) [敲 (char)](characters/敲%20(char).md) [皐](characters/皐.md) [[皓|暠]] [[呱]] [尻 (char)](characters/尻%20(char).md) [拷](characters/拷.md) [[槁]] [沽](characters/賈.md) [[痼]] [睾](characters/睾.md) [羔](characters/皐.md) [股 (char)](characters/股%20(char).md) [膏](characters/膏.md) [[苽]] [[菰]] [藁](characters/藁.md) [[古|蠱]] [袴 (char)](characters/袴%20(char).md) [[誥]] [賈](characters/賈.md) [[辜]] [錮 (char)](characters/錮%20(char).md) [雇](characters/雇.md) [[杲]] [靠](characters/靠.md)
 
 ### 곡 
 [[斛]] [[梏]] [鵠](characters/鵠.md)
@@ -124,7 +124,7 @@ This has been checked for redirects.
 ## ㅜ
 
 ### 구 
-[玖](characters/玖.md) [矩 (char)](characters/矩%20(char).md) [邱](characters/邱.md) 銶 metal-chisel [溝 (char)](characters/溝%20(char).md) [購](characters/購.md) [鳩](characters/鳩.md) [[軀]] [[枸]] [仇](characters/仇.md) [勾](characters/勾.md) [咎](characters/咎.md) [嘔](characters/呕.md) [垢](characters/垢.md) [寇](characters/寇.md) [嶇](characters/区.md) [柩](characters/柩.md) [歐](characters/𧦅.md) [毆](characters/殴.md) [毬](characters/球%20(char).md) [灸](characters/灸.md) [[瞿]] [[絿]] [臼 (char)](characters/臼%20(char).md) [舅](characters/舅.md) [[../../characters/衢 (char)]] [謳](characters/𧦅.md) [逑](characters/逑.md) [鉤](characters/鉤%20(char).md) [駒](characters/駒.md) [鷗](characters/鴎%20(char).md) [[玽]] [[耇]] [廏](characters/厩.md) [[颶]]  ([廐](characters/厩.md)) [韮](characters/韮.md)
+[玖](characters/玖.md) [矩 (char)](characters/矩%20(char).md) [邱](characters/邱.md) 銶 metal-chisel [溝 (char)](characters/溝%20(char).md) [購](characters/購.md) [鳩](characters/鳩.md) [[軀]] [[句 (char)|枸]] [仇](characters/仇.md) [勾](characters/勾.md) [咎](characters/咎.md) [嘔](characters/呕.md) [垢](characters/垢.md) [寇](characters/寇.md) [嶇](characters/区.md) [柩](characters/柩.md) [歐](characters/𧦅.md) [毆](characters/殴.md) [毬](characters/球%20(char).md) [灸](characters/灸.md) [[瞿]] [[絿]] [臼 (char)](characters/臼%20(char).md) [舅](characters/舅.md) [[../../characters/衢 (char)]] [謳](characters/𧦅.md) [逑](characters/逑.md) [鉤](characters/鉤%20(char).md) [駒](characters/駒.md) [鷗](characters/鴎%20(char).md) [[玽]] [[耇]] [廏](characters/厩.md) [[颶]]  ([廐](characters/厩.md)) [韮](characters/韮.md)
 
 ### 국 
 [鞠](characters/鞠.md) [[鞫]] [麴](characters/鞠.md)
@@ -182,7 +182,7 @@ This has been checked for redirects.
 ## ㅣ
 
 ### 기 
-[[淇]] [[琪]] [[璂]] [棋](characters/棋.md) [[祺]] [[錤]] [[騏]] [麒](characters/麒.md) [[玘]] [杞](characters/杞.md) [埼](characters/埼.md) [崎](characters/埼.md) [[琦]] [綺](../../characters/奇.md) [[錡]] [箕](characters/箕.md) [岐 (char)](characters/岐%20(char).md) [汽](characters/汽.md) [沂](characters/祈.md) [[圻]] [[耆]] [璣](characters/璣.md) [磯](characters/磯.md) [[譏]] [冀](characters/希.md) [[驥]] [[嗜]] [[暣]] [伎](characters/伎.md) [[夔]] [妓](characters/妓.md) [朞](characters/期%20(char).md) [[畸]] [祁](characters/祁.md) [祇](characters/祇.md) [[羈]] [[耭]] [肌](characters/肌.md) [饑](characters/飢.md) [[稘]] [鰭](characters/鰭.md)
+[[淇]] [[琪]] [[璂]] [棋](characters/棋.md) [[祺]] [[錤]] [[騏]] [麒](characters/麒.md) [[玘]] [杞](characters/杞.md) [埼](characters/埼.md) [崎](characters/埼.md) [[琦]] [綺](../../characters/奇.md) [[錡]] [箕](characters/箕.md) [岐 (char)](characters/岐%20(char).md) [汽](characters/汽.md) [沂](characters/祈.md) [[圻]] [[耆]] [璣](characters/璣.md) [磯](characters/磯.md) [[譏]] [冀](characters/希.md) [[驥]] [[鰭|嗜]] [[暣]] [伎](characters/伎.md) [[夔]] [妓](characters/妓.md) [朞](characters/期%20(char).md) [[畸]] [祁](characters/祁.md) [祇](characters/祇.md) [[羈]] [[耭]] [肌](characters/肌.md) [饑](characters/飢.md) [[稘]] [鰭](characters/鰭.md)
 
 ### 길 
 [佶](characters/吉%20(char).md) [桔](characters/桔.md) [[姞]] [[拮]]

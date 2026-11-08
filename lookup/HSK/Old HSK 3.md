@@ -846,7 +846,7 @@ tags: [lookup]
 [[僚]]: 2
 [[灌]]: 2
 [[矩 (char)]]: 2
-[[柜]]: 2
+[[櫃|柜]]: 2
 [贵](../../characters/貴.md): 2
 [宾](../../characters/賓.md): 2
 [[貴]]: 2
@@ -1235,7 +1235,7 @@ tags: [lookup]
 [[檔]]: 1
 [屿](../../characters/屿.md): 1
 [[../../characters/屿]]: 1
-[[霉]]: 1
+[[梅|霉]]: 1
 [[蹬]]: 1
 [[凳]]: 1
 [[瞪]]: 1
@@ -1261,7 +1261,7 @@ tags: [lookup]
 [读](../../characters/読.md): 1
 [讀](../../characters/読.md): 1
 積: 1
-[[兑]]: 1
+[[兌|兑]]: 1
 [换](../../characters/換%20(char).md): 1
 [[兌]]: 1
 [[換 (char)]]: 1
@@ -1335,7 +1335,7 @@ tags: [lookup]
 [雇](../../characters/雇.md): 1
 [僱](../../characters/雇.md): 1
 [[乖]]: 1
-[[溉]]: 1
+[[漑|溉]]: 1
 [罐](../../characters/缶.md): 1
 [归](../../characters/帰.md): 1
 [歸](../../characters/帰.md): 1
@@ -1641,7 +1641,7 @@ tags: [lookup]
 [凭](../../characters/憑%20(char).md): 1
 [[憑]]: 1
 [泼](../../characters/発%20(char).md): 1
-[[潑]]: 1
+[[発 (char)|潑]]: 1
 [[葡]]: 1
 [[萄]]: 1
 [[漆 (char)]]: 1

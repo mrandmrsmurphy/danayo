@@ -43,7 +43,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声: semantic [[Radical 130|肉]] ("meat") + phonetic [[爻]] (OC *ɢraːw, Zhengzhang; *N-kˤraw for 爻 alone in Baxter–Sagart) — meat dishes, prepared food; the whole character's own OC reconstruction (*ɢraːw, Zhengzhang; *[ɡ]ˤraw, Baxter–Sagart) matches 爻's Zhengzhang value exactly, an unusually clean phonetic borrowing.
+- 形声: semantic [[Radical 130|肉]] ("meat") + phonetic [[Radical 089|爻]] (OC *ɢraːw, Zhengzhang; *N-kˤraw for 爻 alone in Baxter–Sagart) — meat dishes, prepared food; the whole character's own OC reconstruction (*ɢraːw, Zhengzhang; *[ɡ]ˤraw, Baxter–Sagart) matches 爻's Zhengzhang value exactly, an unusually clean phonetic borrowing.
 - [SKIP-2-2-6](../lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 3245th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄏ⼘ㄨ](../syllables/ㄏ⼘ㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)

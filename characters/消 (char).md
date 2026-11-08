@@ -45,7 +45,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声: semantic [[Radical 085|水]] ("water") + phonetic [[肖 (char)|肖]] — "to melt away (as ice in water), to vanish, to die out," extended to "to consume, use up."
+- 形声: semantic [[Radical 085|水]] ("water") + phonetic [[肖]] — "to melt away (as ice in water), to vanish, to die out," extended to "to consume, use up."
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1281st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄙ⼄ㄨ](../syllables/ㄙ⼄ㄨ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (3), [Korean MS](../lookup/Korean/Korean%20MS.md)

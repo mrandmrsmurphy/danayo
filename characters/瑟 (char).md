@@ -42,7 +42,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声: semantic [[珡]] ("stringed instrument," now conflated with the unrelated [[玨]]) + phonetic [[必 (char)]] — "se," a 25-string plucked zither historically paired with 琴 (cf. 琴瑟相和, "harmonious as qin and se," an idiom for marital harmony).
+- 形声: semantic [[琴 (char)|珡]] ("stringed instrument," now conflated with the unrelated [[玨]]) + phonetic [[必 (char)]] — "se," a 25-string plucked zither historically paired with 琴 (cf. 琴瑟相和, "harmonious as qin and se," an idiom for marital harmony).
 - [SKIP-2-8-5](../lookup/SKIP/SKIP-2/SKIP-2-8-5.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1585th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄙㄜㄊ](../syllables/ㄙㄜㄊ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)

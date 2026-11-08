@@ -44,7 +44,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*paŋ, \*baŋ): semantic [[肉 (char)|肉]] ("flesh") + phonetic [[方 (char)|方]] — "fat, obese."
+- 形声 (OC \*paŋ, \*baŋ): semantic [[肉 (char)|肉]] ("flesh") + phonetic [[方]] — "fat, obese."
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 9251st most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 陽合|ʉɐŋ]] → [ㄈㄚㄫ](../syllables/ㄈㄚㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)

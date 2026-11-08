@@ -39,7 +39,7 @@ Redirected checked for
 [曝](../../characters/暴%20(char).md) [瀑](characters/瀑.md) [輻](../../characters/放.md) 
 
 ### 표 
-[[杓]] [豹](characters/豹.md) [彪](characters/彪.md) [[驃]] [俵](characters/俵.md) [[剽]] [慓](characters/票%20(char).md) [瓢](characters/瓢.md) [[飄]] [[飆]] 
+[[杓]] [豹](characters/豹.md) [彪](characters/彪.md) [[票 (char)|驃]] [俵](characters/俵.md) [[剽]] [慓](characters/票%20(char).md) [瓢](characters/瓢.md) [[飄]] [[飆]] 
 
 ### 품 
 [稟](characters/稟.md)

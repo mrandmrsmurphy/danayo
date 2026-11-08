@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*kʰo/\*kʰos): semantic [[Radical 187|馬]] ("horse") + phonetic [[区 (char)|区]] (OC \*qoː/\*kʰo) — "to drive horses forward; to drive; to spur; to expel." Shinjitai for traditional 驅 (listed among this character's `aliases`); recorded under that alias's rank in `CC 1000.md`, since 駆/驅 itself doesn't appear independently.
+- 形聲 (OC \*kʰo/\*kʰos): semantic [[Radical 187|馬]] ("horse") + phonetic [[区]] (OC \*qoː/\*kʰo) — "to drive horses forward; to drive; to spur; to expel." Shinjitai for traditional 驅 (listed among this character's `aliases`); recorded under that alias's rank in `CC 1000.md`, since 駆/驅 itself doesn't appear independently.
 - [SKIP-1-10-4](../lookup/SKIP/SKIP-1/SKIP-1-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1345th most used character in Classical Chinese, recorded under the alias 驅. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄎㄨ](../syllables/ㄎㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

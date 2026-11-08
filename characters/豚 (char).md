@@ -41,7 +41,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 會意 (OC \*duːn): [[肉 (char)|肉]] ("meat, flesh") + [[豕 (char)|豕]] ("pig") — a pig raised for meat, specifically a piglet or suckling pig, distinct from the more general 豬/猪.
+- 會意 (OC \*duːn): [[肉 (char)|肉]] ("meat, flesh") + [[豕]] ("pig") — a pig raised for meat, specifically a piglet or suckling pig, distinct from the more general 豬/猪.
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2201st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄊㄨㄋ](../syllables/ㄊㄨㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

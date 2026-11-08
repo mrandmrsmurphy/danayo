@@ -4,7 +4,7 @@ tags: [lookup]
 Eventually, this will be only the characters not covered by previous HSK levels:
 
 1. [赴 (char)](../../characters/赴%20(char).md)
-2.  [[阐]]
+2.  [[闡|阐]]
 3.  [[砸]]
 4.  [[烁]]
 5.  [[枉]]
@@ -72,7 +72,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 67.  [[丐]]
 68.  [[匪]]
 69.  [[丘 (char)]]
-70.  [[碳]]
+70.  [[炭素|碳]]
 71.  [丛](../../characters/叢.md)
 72.  [[恩]]
 73.  [[孔 (char)]]
@@ -228,7 +228,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 223.  [[霞]]
 224.  [[虫]]
 225.  [[躁]]
-226.  [[躇]]
+226.  [[着 (char)|躇]]
 227.  [仓](../../characters/倉.md)
 228.  [[叭]]
 229.  [[叮]]
@@ -254,7 +254,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 249.  [[擅]]
 250.  [[泡]]
 251.  [[波]]
-252.  [[擎]]
+252.  [[檠|擎]]
 253.  [[泥 (char)]]
 254.  [祸](../../characters/禍.md)
 255.  [[泰]]
@@ -354,7 +354,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 349.  [[堂]]
 350.  [浊](../../characters/濁.md)
 351.  [[牢]]
-352.  [[咀]]
+352.  [[嘴|咀]]
 353.  [[牧 (char)]]
 354.  [浑](../../characters/混.md)
 355.  [[攻 (char)]]
@@ -522,7 +522,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 517.  [壳](../../characters/殻.md)
 518.  [[榨]]
 519.  [[盗]]
-520.  [[兑]]
+520.  [[兌|兑]]
 521.  [钻](../../characters/鑽.md)
 522.  [[盛]]
 523.  [[盟]]
@@ -566,7 +566,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 561.  [[扛]]
 562.  [猎](../../characters/獵%20(char).md)
 563.  [[嵌]]
-564.  [[扣]]
+564.  [[叩|扣]]
 565.  [[猖]]
 566.  [[猛]]
 567.  [聋](../../characters/聾.md)
@@ -645,7 +645,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 640.  [酿](../../characters/醸.md)
 641.  [[溅]]
 642.  [[凌]]
-643.  [[溉]]
+643.  [[漑|溉]]
 644.  [晰](../../characters/析.md)
 645.  [锈](../../characters/銹%20(char).md)
 646.  [眨](../../characters/𦚖%20(char).md)
@@ -694,7 +694,7 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 689.  [[肪 (char)]]
 690.  [[拌]]
 691.  [[蠢]]
-692.  [[妒]]
+692.  [[妬|妒]]
 693.  [[睹]]
 694.  [[肴 (char)]]
 695.  [[拓]]
@@ -819,13 +819,13 @@ Eventually, this will be only the characters not covered by previous HSK levels:
 814.  [捞](../../characters/𢭐.md)
 815.  [[歹]]
 816.  [[嘲]]
-817.  [[捣]]
+817.  [[𢭏|捣]]
 818.  [[捧 (char)]]
 819.  [[漆 (char)]]
 820.  [[殃]]
 821.  [嘿](../../characters/黙.md)
 822.  [簸](../../characters/波.md)
-823.  [[裳]]
+823.  [[装 (char)|裳]]
 824.  [[琢]]
 825.  [[腔]]
 826.  [[捷]]

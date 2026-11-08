@@ -44,7 +44,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC \*maːd): semantic [[Radical 064|手]] ("hand") + phonetic [[末 (char)|末]] (OC \*maːd) — to pass the hand over the tip/end of something, i.e. to rub or wipe.
+- 形声 (OC \*maːd): semantic [[Radical 064|手]] ("hand") + phonetic [[末]] (OC \*maːd) — to pass the hand over the tip/end of something, i.e. to rub or wipe.
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - Not ranked in the Classical Chinese frequency corpus. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 末|uɑt]] → [ㄇㄚㄊ](../syllables/ㄇㄚㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)

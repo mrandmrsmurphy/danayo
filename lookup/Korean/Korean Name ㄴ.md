@@ -4,7 +4,7 @@ tags: [lookup]
 These have all been checked for redirects.
 
 ### 나  
-[[../../characters/奈]] [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[挐]] [[挪]] [[𡖔]] [梛](characters/梛.md) [[糯]] 
+[[../../characters/奈]] [[柰]] [[娜]] [拏](characters/拿.md) [[儺]] [喇](characters/喇.md) [[懦]] [拿](characters/拿.md) [[𣃽]] [[䏧]] [[拿|挐]] [[挪]] [[𡖔]] [梛](characters/梛.md) [[需|糯]] 
 
 ### 난  
 [煖](characters/暖%20(char).md)
@@ -13,7 +13,7 @@ These have all been checked for redirects.
 [捺](characters/捺%20(char).md) [捏](characters/捏.md)
 
 ### 남  
-[楠](characters/楠.md) 湳 [[枏]]
+[楠](characters/楠.md) 湳 [[楠|枏]]
 
 ### 납  
 [衲](characters/衲.md) [魶 (char)](characters/魶%20(char).md)

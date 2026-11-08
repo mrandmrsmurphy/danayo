@@ -50,7 +50,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声 (OC \*seːŋ): semantic [[Radical 072|日]] ("sun") + phonetic [[生 (char)|生]] (OC \*sʰraːŋ) — the bright bodies in the sky shining like a sun.
+- 形声 (OC \*seːŋ): semantic [[Radical 072|日]] ("sun") + phonetic [[生]] (OC \*sʰraːŋ) — the bright bodies in the sky shining like a sun.
 - [SKIP-2-4-5](../lookup/SKIP/SKIP-2/SKIP-2-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 437th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄙㄝㄫ](../syllables/ㄙㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

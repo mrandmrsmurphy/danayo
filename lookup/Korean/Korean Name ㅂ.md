@@ -7,10 +7,10 @@ These have all been checked for redirects.
  [珀](characters/珀.md) [撲 (char)](characters/撲%20(char).md) [[璞]] 鉑 [舶](characters/舶.md) [剝](characters/剝.md) [樸](characters/朴.md) [箔](characters/箔.md) [[粕]] [縛](characters/縛.md) [[膊]] [雹](characters/包%20(char).md) [駁](characters/駁.md) 
 
 ### 반 
- [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [礬](../../characters/礬.md) [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
+ [畔 (char)](characters/畔%20(char).md) [頒](characters/頒.md) [潘](characters/潘.md) [磐](characters/磐.md) [拌](characters/拌.md) [搬](characters/搬.md) [攀](characters/攀.md) [斑](characters/斑.md) [[盤 (char)|槃]] [[泮]] [[瘢]] [盼](characters/盼.md) [[磻]] [礬](../../characters/礬.md) [絆](characters/絆.md) [蟠](characters/盤%20(char).md) [[豳]] 
 
 ### 발 
- [犮](../../characters/犮.md) [[潑]] [鉢 (char)](characters/鉢%20(char).md) [[渤]] [勃](characters/勃.md) [撥](../../characters/発%20(char).md) [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) [哱](characters/哱.md) 
+ [犮](../../characters/犮.md) [[発 (char)|潑]] [鉢 (char)](characters/鉢%20(char).md) [[勃|渤]] [勃](characters/勃.md) [撥](../../characters/発%20(char).md) [[跋]] [醱](characters/発%20(char).md) [魃](characters/災.md) [哱](characters/哱.md) 
 
 ### 방 
  [坊](characters/坊.md) [彷](characters/彷.md) [[昉]] [龐](characters/龐.md) [[榜]] [[尨]] [旁](characters/旁.md) [[枋]] [[滂]] [[磅]] [紡 (char)](characters/紡%20(char).md) [肪 (char)](characters/肪%20(char).md) [[膀]] [[舫]] [[蒡]] [蚌](characters/蜂%20(char).md) [謗](characters/謗.md) [幫](characters/幇.md) 
@@ -19,10 +19,10 @@ These have all been checked for redirects.
  [陪 (char)](characters/陪%20(char).md) [裴](characters/裴.md) [[湃]] [俳](characters/俳.md) [[徘]] [[焙]] [[胚]] [[褙]] [賠](characters/賠.md) [北](characters/北.md)
 
 ### 백 
- [佰](../../characters/百%20(char).md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[苩]] 
+ [佰](../../characters/百%20(char).md) [帛](characters/帛.md) [[魄]] [柏 (char)](characters/柏%20(char).md) [[葩|苩]] 
 
 ### 번 
- [蕃](characters/蕃.md) [幡](characters/幡.md) [樊](characters/藩.md) [[燔]] [[磻]] [藩](characters/藩.md)
+ [蕃](characters/蕃.md) [幡](characters/幡.md) [樊](characters/藩.md) [[焚|燔]] [[磻]] [藩](characters/藩.md)
 
 ### 벌 
  [閥](characters/閥.md) [[筏]]
@@ -37,7 +37,7 @@ These have all been checked for redirects.
  [璧](characters/璧.md) [闢](characters/辟.md) [僻](characters/僻.md) [[劈]] [[擘]] [檗](characters/檗.md) [癖 (char)](characters/癖%20(char).md) [霹](characters/辟.md) [辟](characters/辟.md) 
 
 ### 변 
- [卞](characters/卞.md) [弁 (char)](characters/弁%20(char).md) [便 (char)](characters/便%20(char).md) [[釆]] 
+ [卞](characters/卞.md) [弁 (char)](characters/弁%20(char).md) [便 (char)](characters/便%20(char).md) [[Radical 165|釆]] 
 
 ### 별 
  [瞥](characters/瞥.md) [鼈 (char)](characters/鼈%20(char).md) [襒](characters/撇%20(char).md) [[𩠻]] [[莂]] [[鷩]] [撇 (char)](characters/撇%20(char).md)
@@ -70,7 +70,7 @@ These have all been checked for redirects.
  [鵬](characters/朋.md) [棚 (char)](characters/棚%20(char).md) [硼](characters/硼.md) [繃](characters/繃.md) 
 
 ### 비 
- [庇](characters/庇.md) [枇](../../characters/%E6%AF%94%20%28char%29.md) [琵](characters/琵.md) [扉 (char)](characters/扉%20(char).md) [譬](characters/比%20(char).md) [丕](characters/丕.md) [匕](characters/匕.md) [[匪]] [[憊]] [斐](characters/斐.md) [[榧]] [[毖]] [毗](characters/毘.md) [沸](characters/沸.md) [泌](characters/泌.md) [[痺]] [砒](characters/砒.md) [[秕]] [[粃]] [緋](characters/緋.md) [[翡]] [脾](characters/脾.md) [[臂]] [[菲]] [蜚](../../characters/飛%20(char).md) [[裨]] [誹](characters/誹.md) [鄙](characters/鄙.md) [[棐]] [[庀]] [[奜]] [屁 (char)](characters/屁%20(char).md) [啡](characters/啡.md)
+ [庇](characters/庇.md) [枇](../../characters/%E6%AF%94%20%28char%29.md) [琵](characters/琵.md) [扉 (char)](characters/扉%20(char).md) [譬](characters/比%20(char).md) [丕](characters/丕.md) [匕](characters/匕.md) [[匪]] [[憊]] [斐](characters/斐.md) [[榧]] [[毖]] [毗](characters/毘.md) [沸](characters/沸.md) [泌](characters/泌.md) [[痺]] [砒](characters/砒.md) [[比 (char)|秕]] [[比 (char)|粃]] [緋](characters/緋.md) [[翡]] [脾](characters/脾.md) [[臂]] [[菲]] [蜚](../../characters/飛%20(char).md) [[裨]] [誹](characters/誹.md) [鄙](characters/鄙.md) [[棐]] [[庀]] [[奜]] [屁 (char)](characters/屁%20(char).md) [啡](characters/啡.md)
 
 ### 빈 
  [彬](characters/彬.md) [[斌]] [濱](characters/浜%20(char).md) [[嬪]] [[穦]] [[儐]] [[璸]] [[玭]] [[嚬]] [檳](characters/檳.md) [[殯]] [浜 (char)](characters/浜%20(char).md) [瀕](characters/瀕.md) [[牝]] [[邠]] [[繽]] [[豳]] [霦](characters/彬.md) [[贇]] [[鑌]]-->繽   [[擯]]

@@ -44,7 +44,7 @@ boundedness: 75
 ```
 
 ## Notes
-- 形声 (OC \*deːwɢs): semantic [[Radical 061|心]] ("heart") + phonetic [[卓 (char)|卓]] (OC *m-traːwk, "tall, outstanding") — the heart struck with grief; "mourn, lament."
+- 形声 (OC \*deːwɢs): semantic [[Radical 061|心]] ("heart") + phonetic [[卓]] (OC *m-traːwk, "tall, outstanding") — the heart struck with grief; "mourn, lament."
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1222nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄉㄚㄨ](../syllables/ㄉㄚㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)

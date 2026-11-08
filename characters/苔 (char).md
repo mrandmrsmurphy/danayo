@@ -52,7 +52,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*l̥ʰɯː, \*l'ɯː): semantic [[艸]] ("grass") + phonetic [[台 (char)]] — "moss; lichen," also "tongue coating" (medical sense, tāi reading) and "nori" (seaweed). Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
+- 形声 (OC \*l̥ʰɯː, \*l'ɯː): semantic [[Radical 140|艸]] ("grass") + phonetic [[台 (char)]] — "moss; lichen," also "tongue coating" (medical sense, tāi reading) and "nori" (seaweed). Dual-source confirmed (en.Wiktionary and zh.Wiktionary).
 - [SKIP-2-3-5](../lookup/SKIP/SKIP-2/SKIP-2-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 7750th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄊㄛㄧ](../syllables/ㄊㄛㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)

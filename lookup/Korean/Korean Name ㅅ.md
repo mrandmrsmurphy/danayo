@@ -33,7 +33,7 @@ Checked for redirects
 [牲](characters/牲.md) [甥 (char)](characters/甥%20(char).md) [省 (char)](characters/省%20(char).md) [笙](characters/笙.md) 
 
 ### 서  
-[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [曙](../../characters/%E7%BD%B2.md) [[壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
+[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [曙](../../characters/%E7%BD%B2.md) [[婿 (char)|壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[藷|薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
 [[../../characters/屿]] ([[㠘]]) [胥](characters/胥.md) ([縃](characters/胥.md)) [[諝]] ([[𧩑]])
 
 ### 석  
@@ -43,7 +43,7 @@ Checked for redirects
 - [晳](../../characters/析.md) ([晰](../../characters/析.md))
 
 ### 선 
-[扇](characters/扇.md) [[渲]] [[瑄]] [[愃]] [[墡]] [膳](characters/膳.md) [繕](characters/繕.md) [[琁]] [[璿]] [[璇]] [羨](characters/羨.md) [[嬋]] [銑](characters/銑.md) [[珗]] [[嫙]] [[僊]] !敾! [煽](../../characters/扇.md) [癬](characters/鮮.md) [腺](characters/腺.md) [蘚](characters/鮮.md) [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] samarium [洒 (char)](characters/洒%20(char).md) [亘 (char)](characters/亘%20(char).md) 
+[扇](characters/扇.md) [[渲]] [[瑄]] [[愃]] [[墡]] [膳](characters/膳.md) [繕](characters/繕.md) [[瓊|琁]] [[璿]] [[璇]] [羨](characters/羨.md) [[嬋]] [銑](characters/銑.md) [[珗]] [[嫙]] [[僊]] !敾! [煽](../../characters/扇.md) [癬](characters/鮮.md) [腺](characters/腺.md) [蘚](characters/鮮.md) [蟬](characters/蝉%20(char).md) [[詵]] [[跣]] [[鐥]] samarium [洒 (char)](characters/洒%20(char).md) [亘 (char)](characters/亘%20(char).md) 
 
 ### 설  
 [薛](characters/薛.md) [楔](characters/楔.md) [屑 (char)](characters/屑%20(char).md) [泄](characters/洩.md) [洩](characters/洩.md) [[渫]] [[褻]] [齧](characters/咬%20(char).md) [禼](characters/禼.md) [[蔎]] [偰](characters/偰.md)
@@ -61,7 +61,7 @@ Checked for redirects
 [貰](characters/貰.md) !笹! [說](characters/説.md) [[忕]] [洒 (char)](characters/洒%20(char).md) [[涗]] [[𡜧]] 
 
 ### 소 
-[沼](characters/沼.md) [[炤]] [紹](characters/紹.md) [邵](characters/邵.md) [[韶]] [巢](characters/巣.md) [遡](characters/遡.md) [[柖]] [[玿]] [嘯](characters/粛.md) [塑](characters/塑.md) [宵](characters/宵.md) [搔](characters/掻%20(char).md) [梳 (char)](characters/梳%20(char).md) [[瀟]] [[瘙]] [篠](characters/篠.md) [簫](characters/簫.md) [蕭](characters/䔥.md) [逍](characters/逍.md) [[銷]] [[愫]] [[穌]] [[卲]] [霄](characters/肖.md) [劭](characters/劭.md)  [穌](characters/蘇.md) ([甦](characters/蘇.md)) [霄](characters/宵.md) ([䨭](characters/宵.md))
+[沼](characters/沼.md) [[炤]] [紹](characters/紹.md) [邵](characters/邵.md) [[韶]] [巢](characters/巣.md) [遡](characters/遡.md) [[柖]] [[玿]] [嘯](characters/粛.md) [塑](characters/塑.md) [宵](characters/宵.md) [搔](characters/掻%20(char).md) [梳 (char)](characters/梳%20(char).md) [[瀟]] [[瘙]] [篠](characters/篠.md) [簫](characters/簫.md) [蕭](characters/䔥.md) [逍](characters/逍.md) [[銷]] [[愫]] [[蘇|穌]] [[卲]] [霄](characters/肖.md) [劭](characters/劭.md)  [穌](characters/蘇.md) ([甦](characters/蘇.md)) [霄](characters/宵.md) ([䨭](characters/宵.md))
 
 ### 속 
 [[涑]] [[謖]] [贖](characters/贖.md) 
@@ -94,7 +94,7 @@ Checked for redirects
 [[鉥]]
 
 ### 숭 
-[嵩](characters/嵩.md) [[崧]]
+[嵩](characters/嵩.md) [[嵩|崧]]
 
 ### 슬 
 [瑟 (char)](characters/瑟%20(char).md) [膝](characters/膝.md) [[璱]] [蝨](characters/虱%20(char).md)
@@ -107,7 +107,7 @@ Checked for redirects
 [[陞]] ([[阩]])
 
 ### 시 
-[柴](characters/柴.md) [恃](characters/持%20(char).md) [匙](characters/匙.md) [[嘶]] !媤! [尸](characters/屍.md) [屎 (char)](characters/屎%20(char).md) [屍](characters/屍.md) [弒](characters/弒.md) [猜](characters/猜.md) [翅](characters/翅.md) [[蒔]] [[蓍]] [諡](characters/諡.md) [豕](characters/豕.md) [[豺]] [偲](characters/偲.md) [[毸]] [[諟]] [[媞]] [[柹]] [[愢]] [[禔]] [柿](characters/柿.md)
+[柴](characters/柴.md) [恃](characters/持%20(char).md) [匙](characters/匙.md) [[嘶]] !媤! [尸](characters/屍.md) [屎 (char)](characters/屎%20(char).md) [屍](characters/屍.md) [弒](characters/弒.md) [猜](characters/猜.md) [翅](characters/翅.md) [[時 (char)|蒔]] [[蓍]] [諡](characters/諡.md) [豕](characters/豕.md) [[豺]] [偲](characters/偲.md) [[毸]] [[諟]] [[媞]] [[柹]] [[偲|愢]] [[禔]] [柿](characters/柿.md)
 
 ### 식 
 [[栻]] [埴](characters/埴.md) [殖](characters/殖.md) [[湜]] [[軾]] [[寔]] [拭](characters/拭.md) [[熄]] [[篒]] [蝕](characters/食%20(char).md)

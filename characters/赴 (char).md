@@ -42,7 +42,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*pʰoɡs): semantic [[Radical 156|走]] ("running") + phonetic [[卜 (char)|卜]] (OC \*poːɡ) — "to attend; to visit; to head toward."
+- 形聲 (OC \*pʰoɡs): semantic [[Radical 156|走]] ("running") + phonetic [[卜]] (OC \*poːɡ) — "to attend; to visit; to head toward."
 - [SKIP-3-7-2](../lookup/SKIP/SKIP-3/SKIP-3-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1531st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄈㄨㄛ](../syllables/ㄈㄨㄛ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

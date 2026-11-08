@@ -47,7 +47,7 @@ boundedness: 60
 ```
 
 ## Notes
-- 形声 (OC *laŋs): semantic [[Radical 075|木]] ("tree, wood") + phonetic 羕 (no character page exists for it in this vault; part of the same broad *laŋ phonetic series as [[羊 (char)|羊]] itself, whose own Dan'a'yo syllable ⼘ㄫ matches 様's exactly, so the stored field cites 羊 directly) — a kind of tree, later borrowed for "appearance, manner, way," and (in this vault) the -ly adverbializer / manner-case marker.
+- 形声 (OC *laŋs): semantic [[Radical 075|木]] ("tree, wood") + phonetic 羕 (no character page exists for it in this vault; part of the same broad *laŋ phonetic series as [[羊]] itself, whose own Dan'a'yo syllable ⼘ㄫ matches 様's exactly, so the stored field cites 羊 directly) — a kind of tree, later borrowed for "appearance, manner, way," and (in this vault) the -ly adverbializer / manner-case marker.
 - [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 9173rd most used character in Classical Chinese (outside the locally-checkable `CC 0000–3000` range, trusted verbatim per the checklist's own policy). Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](../syllables/⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

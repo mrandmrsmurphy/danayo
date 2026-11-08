@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*djan): semantic [[示 (char)|示]] ("to show, spirit") + phonetic [[単 (char)|單]] — originally "to offer sacrifices to nature" and "to abdicate, pass the throne," now used for Buddhist "dhyana, meditation, Zen."
+- 形声 (OC \*djan): semantic [[示]] ("to show, spirit") + phonetic [[単|單]] — originally "to offer sacrifices to nature" and "to abdicate, pass the throne," now used for Buddhist "dhyana, meditation, Zen."
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1474th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-15
 ```
 
 ## Notes
-- 形声 (OC \*kʰa, \*qʰa): semantic [[丘 (char)|丘]] ("hill") + phonetic [[虍]] (OC \*qʰaː).
+- 形声 (OC \*kʰa, \*qʰa): semantic [[丘 (char)|丘]] ("hill") + phonetic [[Radical 141|虍]] (OC \*qʰaː).
 - [SKIP-3-4-7](../lookup/SKIP/SKIP-3/SKIP-3-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 398th most used character in Classical Chinese (ranked there under 虛, this character's own stored alias). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄏ⼄](../syllables/ㄏ⼄.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

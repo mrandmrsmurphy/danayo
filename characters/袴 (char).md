@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (Zhengzhang OC \*kʰʷaːs): semantic [[Radical 145|衣]] ("clothing") + phonetic [[夸]] (OC \*kʰʷraː) — a variant/relative of [[絝]], another 夸-phonetic word for trousers.
+- 形声 (Zhengzhang OC \*kʰʷaːs): semantic [[Radical 145|衣]] ("clothing") + phonetic [[誇 (char)|夸]] (OC \*kʰʷraː) — a variant/relative of [[絝]], another 夸-phonetic word for trousers.
 - [SKIP-1-5-6](../lookup/SKIP/SKIP-1/SKIP-1-5-6.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 4149th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄎㄛ](../syllables/ㄎㄛ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)

@@ -41,7 +41,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (Zhengzhang OC \*sŋra): semantic [[Radical 075|木]] ("wood") + abbreviated phonetic [[疏]] (OC \*sŋra, \*sŋras).
+- 形声 (Zhengzhang OC \*sŋra): semantic [[Radical 075|木]] ("wood") + abbreviated phonetic [[疎|疏]] (OC \*sŋra, \*sŋras).
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 6271st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄙㄛ](../syllables/ㄙㄛ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](Lookup/Korean/Korean%20Name%20ㅅ.md)

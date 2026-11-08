@@ -74,7 +74,7 @@ This have all be checked for redirects.
 ## ㅗ
 
 ### 호
-晧-->皓 [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[壕]] [壺](characters/壷%20(char).md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] [醐](characters/醐.md)
+晧-->皓 [皓](characters/皓.md) [昊](characters/昊.md) [[淏]] [濠](characters/豪.md) [[灝]] [[祜]] [琥](characters/琥.md) [瑚](characters/瑚.md) [[頀]] [[顥]] [扈](characters/扈.md) [鎬](characters/鎬.md) [[豪|壕]] [壺](characters/壷%20(char).md) [[濩]] [滸](characters/許%20(char).md) [[岵]] [弧](characters/弧.md) [狐](characters/狐.md) [瓠](characters/胡.md) [糊](characters/糊.md) [縞](characters/縞.md) [葫](characters/胡.md) 蒿-->藁 [蝴](characters/胡.md) [[皞]] [[婋]] [[芐]] [[犒]] [醐](characters/醐.md)
 
 ### 혹
 [酷](characters/酷.md)
@@ -89,7 +89,7 @@ This have all be checked for redirects.
 [[泓]] [[烘]] [虹](characters/虹.md) [[鉷]] [哄](characters/哄.md) [[汞]] [[訌]] [鴻](characters/鴻.md) 
 
 ### 화
-[[嬅]] [樺](characters/樺.md) [[譁]] [靴](characters/靴.md) [[澕]] 
+[[嬅]] [樺](characters/樺.md) [[嘩|譁]] [靴](characters/靴.md) [[澕]] 
 
 ### 확
 [廓](../../characters/郭%20(char).md) [[攫]] [蠖](characters/蠖.md)
@@ -110,7 +110,7 @@ This have all be checked for redirects.
 [[鐄]] [[宖]] 
 
 ### 효
-[[涍]] [[爻]] [驍](../../characters/%E5%B0%AD.md) [[斅]] [[哮]] [[嚆]] [[梟]] [淆](../../characters/交%20(char).md) [肴](characters/肴%20(char).md) [酵](characters/酵.md) [[皛]] [[歊]] [[窙]] [謼](characters/呼%20(char).md) [傚](characters/効.md) 
+[[涍]] [[Radical 089|爻]] [驍](../../characters/%E5%B0%AD.md) [[斅]] [[哮]] [[嚆]] [[梟]] [淆](../../characters/交%20(char).md) [肴](characters/肴%20(char).md) [酵](characters/酵.md) [[皛]] [[歊]] [[窙]] [謼](characters/呼%20(char).md) [傚](characters/効.md) 
 
 ## ㅜ
 
@@ -130,7 +130,7 @@ This have all be checked for redirects.
 [喙](characters/嘴.md) [[𠦄]] [卉](characters/卉.md)
 
 ### 휘
-[彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [暉](../../characters/%E8%BC%9D.md) [[煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
+[彙 (char)](characters/彙%20(char).md) [徽](characters/徽.md) [暉](../../characters/%E8%BC%9D.md) [[暈|煇]] [諱 (char)](characters/諱%20(char).md) [[麾]] [[煒]] 
 
 ### 휴
 [[烋]] [[畦]] [[虧]]
@@ -158,7 +158,7 @@ This have all be checked for redirects.
 ## ㅣ
 
 ### 희
-[姬](characters/姫%20(char).md) [[晞]] [[僖]] [[橲]] [禧](characters/喜%20(char).md) [嬉](characters/嬉.md) [熙](characters/熙.md) [[憙]] [[熹]] [[凞]] [[羲]] [[爔]] [[曦]] [[俙]] [[𡅕]] [[憘]] [犧](characters/犠.md) [噫](characters/噫.md) [[煕]] [[烯]] [[暿]] [[熹]] ([[熺]]) [姫](characters/姫%20(char).md)
+[姬](characters/姫%20(char).md) [[晞]] [[喜 (char)|僖]] [[橲]] [禧](characters/喜%20(char).md) [嬉](characters/嬉.md) [熙](characters/熙.md) [[憙]] [[熹]] [[凞]] [[羲]] [[爔]] [[曦]] [[俙]] [[𡅕]] [[憘]] [犧](characters/犠.md) [噫](characters/噫.md) [[煕]] [[烯]] [[暿]] [[熹]] ([[熺]]) [姫](characters/姫%20(char).md)
 
 ### 히
 [屎 (char)](characters/屎%20(char).md)

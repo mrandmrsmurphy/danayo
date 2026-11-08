@@ -44,7 +44,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声 (OC \*reːl): semantic [[Radical 096|玉]] ("jade, precious stone") + phonetic [[离]] (OC \*lral) — a translucent mineral resembling jade, used in 玻璃 "glass" and 瑠璃 "lapis lazuli."
+- 形声 (OC \*reːl): semantic [[Radical 096|玉]] ("jade, precious stone") + phonetic [[離|离]] (OC \*lral) — a translucent mineral resembling jade, used in 玻璃 "glass" and 瑠璃 "lapis lazuli."
 - [SKIP-1-4-11](../lookup/SKIP/SKIP-1/SKIP-1-4-11.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 5900th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄌㄜ](../syllables/ㄌㄜ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)

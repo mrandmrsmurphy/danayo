@@ -50,7 +50,7 @@ boundedness: 100
 - [SKIP-3-7-5](../lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 664th most used character in Classical Chinese, the rank of its alias 著 (着 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄐ⺢ㄎ](../syllables/ㄐ⺢ㄎ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
-- 躇 (足 + 著) is aliased here, not given its own page: it's the phonetic host for the 聯綿詞 [[躊躇]] (Dan'a'yo [[寿着]]), where 足 was added purely as a category marker (pacing/hesitation) and never occurs independently of that one word.
+- 躇 (足 + 著) is aliased here, not given its own page: it's the phonetic host for the 聯綿詞 [[寿着|躊躇]] (Dan'a'yo [[寿着]]), where 足 was added purely as a category marker (pacing/hesitation) and never occurs independently of that one word.
 
 ## Aliases
 

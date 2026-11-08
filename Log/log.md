@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Broken-link cleanup, second pass ((char) suffix):** 64 targets of the form `[[X (char)]]` whose file is plain `characters/X.md` were repointed to `[[X]]` (display text kept): 77 links in 76 pages. Authority: 武明帥.
+
+- **Broken-link cleanup, first pass (aliases and radicals):** every red link in `broken links output.md` that pointed at a known alias was repointed to the parent with the glyph kept as display text (`[[殺 (char)|杀]]`, 134 targets), and every bare radical glyph went to its Radical page (`[[Radical 191|鬥]]`, 22 targets): 243 links across 242 page-edits. Left alone: `Sorted Missing Characters` (a list of missing characters by design) and 3 ambiguous aliases (睪, 鎚, 柰). Authority: 武明帥.
+
 - **Forbidden-line standard extended to Stroke and SKIP pages:** `checklist_stroke.md` and `checklist_skip.md` now specify `- ¡X! - 違法字` (no class, no comment) for every Forbidden entry, matching Radical pages; applies going forward, older long-form lines converted when touched. Authority: 武明帥.
 
 - **Forbidden lines on lookup pages shortened to `- ¡X! - 違法字`.** The ten forbidden glyphs of 人 (亽 仒 侤 倻 伙 你 們 傻 俧 𠏹) were rewritten on their Radical 009, Stroke and SKIP pages; `forbidden_tool.py` now writes only this line, its matcher and `radical_fmt.py` accept it, and `checklist_radicals.md` states the rule. Class and comment stay on `文法 - 98違法字.md`. The other ~431 forbidden lines keep the old long form until they are touched. Authority: 武明帥.

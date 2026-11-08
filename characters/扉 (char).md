@@ -42,7 +42,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲 (OC \*pɯl): semantic [[戶]] ("door") + phonetic [[非 (char)|非]] (a loose match) — a door panel, a door leaf; a door-like thing.
+- 形聲 (OC \*pɯl): semantic [[Radical 063|戶]] ("door") + phonetic [[非 (char)|非]] (a loose match) — a door panel, a door leaf; a door-like thing.
 - [SKIP-2-1-11](../lookup/SKIP/SKIP-2/SKIP-2-1-11.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 4811th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 微合|ʉi]] → [ㄈㄨㄧ](../syllables/ㄈㄨㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)

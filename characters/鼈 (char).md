@@ -49,7 +49,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*beds, \*bed): semantic [[黽]] ("frog/toad-like creature") + phonetic 敝 (no independent vault page, not an alias) — "softshell turtle, *Pelodiscus sinensis*." Dual-source confirmed (en.Wiktionary and zh.Wiktionary). Stand-in for the word [[words/鼈|鼈]], which shares the exact same reading and spelling.
+- 形声 (OC \*beds, \*bed): semantic [[Radical 205|黽]] ("frog/toad-like creature") + phonetic 敝 (no independent vault page, not an alias) — "softshell turtle, *Pelodiscus sinensis*." Dual-source confirmed (en.Wiktionary and zh.Wiktionary). Stand-in for the word [[words/鼈|鼈]], which shares the exact same reading and spelling.
 - [SKIP-2-12-13](../lookup/SKIP/SKIP-2/SKIP-2-12-13.md) ([Stroke 25](../lookup/Stroke/Stroke%2025.md))
 - 5345th most used character in Classical Chinese (trusted long-tail value, >4000, not cross-checked per policy). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄅㄝㄊ](../syllables/ㄅㄝㄊ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)

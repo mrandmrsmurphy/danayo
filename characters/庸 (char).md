@@ -46,7 +46,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形聲/會意 (OC \*loŋ): abbreviated semantic 庚 + phonetic [[用 (char)|用]] (alternately 同) — probably the original graph of 鏞 ("large bell"), later extended through "capacity" to "to use" and "ordinary; commonplace."
+- 形聲/會意 (OC \*loŋ): abbreviated semantic 庚 + phonetic [[用]] (alternately 同) — probably the original graph of 鏞 ("large bell"), later extended through "capacity" to "to use" and "ordinary; commonplace."
 - [SKIP-3-3-8](../lookup/SKIP/SKIP-3/SKIP-3-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1093rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [⼄ㄫ](../syllables/⼄ㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)

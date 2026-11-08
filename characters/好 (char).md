@@ -42,7 +42,7 @@ boundedness: 100
 ```
 
 ## Notes
-- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 038|女]] ("woman") + [[子 (char)|子]] ("child") — it was good for a woman to have a child; extended to the mutual affection between mother and child, and eventually "good."
+- [List of 会意](../lookup/List%20of%20会意.md): [[Radical 038|女]] ("woman") + [[子]] ("child") — it was good for a woman to have a child; extended to the mutual affection between mother and child, and eventually "good."
 - [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 268th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄏㄚㄨ](../syllables/ㄏㄚㄨ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

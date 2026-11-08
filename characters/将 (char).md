@@ -50,7 +50,7 @@ boundedness: 95
 ```
 
 ## Notes
-- 形声 (OC \*ʔsaŋ, \*ʔsaŋs): phonetic [[爿]] (no vault page) + semantic ⺼ ("meat," no vault page) + semantic [[Radical 041|寸]] ("hand") — to offer meat as tribute (爿 also suggesting a cutting board or sacrificial table); extended to "to take, to hold, to carry," and eventually "will, be going to." Also used for the aliased 漿 — "thick fluid."
+- 形声 (OC \*ʔsaŋ, \*ʔsaŋs): phonetic [[Radical 090|爿]] (no vault page) + semantic ⺼ ("meat," no vault page) + semantic [[Radical 041|寸]] ("hand") — to offer meat as tribute (爿 also suggesting a cutting board or sacrificial table); extended to "to take, to hold, to carry," and eventually "will, be going to." Also used for the aliased 漿 — "thick fluid."
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 41st most used character in Classical Chinese, the rank of its alias 將 (将 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐ⺢ㄫ](../syllables/ㄐ⺢ㄫ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

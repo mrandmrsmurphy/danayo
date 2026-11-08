@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*deːɡs): semantic [[糸]] ("silk, thread") + phonetic [[帝 (char)|帝]] (OC \*teːɡs) — "connection, knot, conclusion."
+- 形声 (OC \*deːɡs): semantic [[糸]] ("silk, thread") + phonetic [[帝]] (OC \*teːɡs) — "connection, knot, conclusion."
 - [SKIP-1-6-9](../lookup/SKIP/SKIP-1/SKIP-1-6-9.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Frequency rank not found in the vault's available CC lookup range (`CC 0000`–`CC 3000`, ranks 1–4000). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄊㄝㄧ](../syllables/ㄊㄝㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)

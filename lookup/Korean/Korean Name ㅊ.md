@@ -10,7 +10,7 @@ These have all bee checked to see which are redirects
 [[搾]] [[窄]] [[鑿]] 齪 --> 窄
 
 ### 찬 
-撰 --> 選 [[纂]] [[粲]] [[澯]] [[燦]] [[璨]] [[瓚]] [[纘]] [鑽](characters/鑽.md) [[竄]] [餐](characters/餐%20(char).md) [[饌]] [攢](characters/攅.md) [[巑]] [儹](characters/儧.md) [[篡]] [[欑]] 
+撰 --> 選 [[纂]] [[粲]] [[澯]] [[燦]] [[璨]] [[瓚]] [[纘]] [鑽](characters/鑽.md) [[竄]] [餐](characters/餐%20(char).md) [[饌]] [攢](characters/攅.md) [[巑]] [儹](characters/儧.md) [[竄|篡]] [[欑]] 
 
 ### 찰 
 [札](characters/札%20(char).md) [[刹]] [擦](characters/擦%20(char).md) [紮](characters/紮%20(char).md) [拶](characters/拶.md)
@@ -22,7 +22,7 @@ These have all bee checked to see which are redirects
 [菖](../../characters/%E6%98%8C.md) [[昶]] [彰](characters/彰.md) [[敞]] [廠](characters/廠.md) [倡](../../characters/唱.md) [娼](../../characters/唱.md) [[愴]] [槍](characters/槍%20(char).md) [漲](../../characters/張.md) [[猖]] [瘡](characters/瘡.md) [脹](characters/脹.md) [艙](characters/艙.md) [滄](characters/蒼%20(char).md) [錆](characters/錆.md)
 
 ### 채  
-[采](characters/采.md) [埰](characters/采.md) [[寀]] [蔡](characters/蔡.md) [[綵]] [寨](characters/寨.md) [砦](characters/砦.md) [釵](characters/鈿.md) [[琗]] [責](characters/責.md) [[棌]] [[婇]] [[睬]] 
+[采](characters/采.md) [埰](characters/采.md) [[寀]] [蔡](characters/蔡.md) [[彩|綵]] [寨](characters/寨.md) [砦](characters/砦.md) [釵](characters/鈿.md) [[琗]] [責](characters/責.md) [[棌]] [[婇]] [[睬]] 
 
 ### 책 
 [柵](characters/柵%20(char).md)
@@ -31,7 +31,7 @@ These have all bee checked to see which are redirects
 [凄](characters/凄.md) [悽](characters/凄.md)
 
 ### 척  
-[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [滌](../../characters/浄.md) [[瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](../../characters/戚.md)
+[[陟]] [[倜]] [刺](characters/刺%20(char).md) [[剔]] [擲](characters/擲.md) [滌](../../characters/浄.md) [[脊|瘠]] [脊](characters/脊.md) [蹠](characters/蹠.md) 隻 --> 只 [[墌]] [慼](../../characters/戚.md)
 
 ### 천 
 [[仟]] [[阡]] [喘](characters/喘.md) [擅](characters/擅.md) [玔](characters/釧.md) [穿](characters/穿%20(char).md) [舛](characters/舛.md) [釧](characters/釧.md) [[闡]] [韆](characters/千.md) [[../../characters/茜]]
@@ -40,7 +40,7 @@ These have all bee checked to see which are redirects
 [澈](characters/澈.md) [撤](characters/撤%20(char).md) [轍](characters/綴%20(char).md) [綴](characters/綴%20(char).md) [凸](characters/凸%20(char).md) [輟](characters/綴%20(char).md) [[悊]] [[瞮]] [屮](characters/屮.md)
 
 ### 첨 
-[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[籤]] [詹](characters/旦.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md) [鹸 (char)](characters/鹸%20(char).md) [忝](characters/忝.md)
+[僉](characters/㑒.md) [瞻](characters/瞻.md) [[沾]] [[簽]] [[選|籤]] [詹](characters/旦.md) [諂](characters/諂%20(char).md) [甜](characters/甜.md) [鹸 (char)](characters/鹸%20(char).md) [忝](characters/忝.md)
 
 ### 첩 
 [耴](../../characters/耴.md) [帖](characters/帖%20(char).md) [捷](characters/捷.md) [[堞]] [牒](characters/牒.md) [疊](characters/畳%20(char).md) [[睫]] [諜](characters/諜.md) [貼](characters/貼%20(char).md) [輒](characters/輒.md) [怗](characters/怗.md) 
@@ -61,7 +61,7 @@ These have all bee checked to see which are redirects
 [[忖]]
 
 ### 총 
-[寵](characters/寵.md) [叢](characters/叢.md) [[悤]] [[憁]] [[摠]] [蔥](characters/葱.md) [[冢]]
+[寵](characters/寵.md) [叢](characters/叢.md) [[悤]] [[憁]] [[摠]] [蔥](characters/葱.md) [[塚 (char)|冢]]
 
 ### 촬 
 [撮](characters/撮%20(char).md)

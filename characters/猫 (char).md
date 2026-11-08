@@ -47,7 +47,7 @@ date-last-perfect: 2026-10-20
 ```
 
 ## Notes
-- 形声 (OC \*mrew): semantic [[Radical 094|犬]] ("dog, animal") + phonetic [[苗 (char)|苗]] — "cat."
+- 形声 (OC \*mrew): semantic [[Radical 094|犬]] ("dog, animal") + phonetic [[苗]] — "cat."
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 6393rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄇ⼘ㄨ](../syllables/ㄇ⼘ㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
