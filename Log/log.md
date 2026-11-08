@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 再 perfected to the current standard:** added OC \*ʔsɯːs (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 662 confirmed in CC 0000, two words and 合漢再決 verified. [AI]
+
+- **Character loop, 典 perfected to the current standard:** added OC \*tɯːnʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 838 confirmed in CC 0000, twelve words verified. [AI]
+
+- **Character loop, 兵 perfected to the current standard:** added OC \*praŋ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 97 confirmed in CC 0000, twelve words and 浜 verified. [AI]
+
+- **Character loop, 億 perfected to the current standard:** added OC \*qɯɡ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 亿 (simplified form; SKIP 1-2-1 computed, 3 strokes), redirects added with a new redirect-only SKIP leaf 1-2-1 and its ø entry on SKIP-1-2; rank 1889 confirmed in CC 1000, the one word verified. [AI]
+
+- **Character loop, 備 perfected to the current standard:** added OC \*brɯɡs (Zhengzhang via en.Wiktionary) and wrote the classification as 会意 instead of 會意; `## Aliases` section for 备 (simplified form, 1956; SKIP 2-3-5 computed, 8 strokes), redirects added; rank 488 confirmed in CC 0000, three words and two chengyu verified. [AI]
+
+- **Character loop, 停 perfected to the current standard:** corrected the Old Chinese reconstruction from \*deŋ to Zhengzhang's \*deːŋ (en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 3316 confirmed in CC 3000, five words verified. [AI]
+
+- **Character loop, 信 perfected to the current standard:** corrected the Old Chinese reconstruction from \*sŋi[n]s to Zhengzhang's \*hljins (en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 205 confirmed in CC 0000, fifteen words and 信達雅化 verified. [AI]
+
 - **Character loop, 体 perfected to the current standard:** added OC \*r̥ʰiːʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 體 (traditional form; EDRDG SKIP 1-10-13, counted 23 strokes the Japanese way; its rank 595 is the page's `mc_id`, bullet reworded to credit it), redirects added; forty-one words and three chengyu verified. [AI]
 
 - **Character loop, 低 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 2908 confirmed in CC 2000, OC \*tiːl matches Wiktionary, three words verified. [AI]

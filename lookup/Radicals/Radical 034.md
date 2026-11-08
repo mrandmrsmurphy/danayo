@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### Aliases
 - 处 --> 処
+- 备 --> 備
 
 ## Data check
 ```dataview

@@ -198,3 +198,5 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 頭 | 头 | 2-2-3 | computed from its parts |
 | 飛 | 飞 | 4-3-4 | computed from its parts |
 | 鳴 | 鸣 | 1-3-5 | computed from its parts |
+| 備 | 备 | 2-3-5 | computed from its parts |
+| 億 | 亿 | 1-2-1 | computed from its parts |
