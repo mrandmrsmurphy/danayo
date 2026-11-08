@@ -19,6 +19,9 @@ tags: [lookup]
 ### +9 Strokes
 3. <ruby>[疑](../../characters/疑.md)<rt>ㄧ</rt></ruby> - doubt
 
+### Aliases
+- 疋 --> 匹
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

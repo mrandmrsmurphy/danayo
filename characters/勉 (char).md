@@ -31,7 +31,7 @@ mc_id: 1454
 graphemic_classification: "免"
 stand_in: "勉"
 注音: "ㄇ⼶ㄋ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character

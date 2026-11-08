@@ -4,6 +4,18 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 匹 perfected to the current standard:** `## Aliases` section for 疋 (Kangxi radical 103, alternative form; EDRDG SKIP 4-5-1, 5 strokes; rank 3095 is above 匹's 1079), redirects added; rank 1079 confirmed in CC 1000, OC present, the word 匹 and three derived characters verified. [AI]
+
+- **Character loop, 勉 stamped to the current standard:** no change needed; no aliases, rank 1454 confirmed in CC 1000, OC \*mronʔ matches Wiktionary, four words verified. [AI]
+
+- **Character loop, 凶 perfected to the current standard:** added OC \*qʰoŋ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 兇 ('terrible, ferocious'; 凶 is its simplified form; EDRDG SKIP 2-4-2, 6 strokes), redirects added; rank 682 confirmed in CC 0000, seven words and 匈 verified. [AI]
+
+- **Character loop, 処 perfected to the current standard:** added OC \*kʰljaʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 处 (simplified; SKIP 2-3-2 computed, 5 strokes) and 處 (traditional; EDRDG 3-4-7, 11 strokes; its rank 323 is the page's `mc_id`, bullet reworded to credit it), redirects added; fifteen words verified. [AI]
+
+- **Character loop, 冊 perfected to the current standard:** `## Aliases` section for 册 (simplified and Nôm variant; EDRDG SKIP 4-5-1, 5 strokes), redirects added; rank 2941 confirmed in CC 2000, OC present, four words and five derived characters verified. [AI]
+
+- **Character loop, 借 perfected to the current standard:** `mc_id` changed from 1986 to 1635, the rank of its alias 藉 (written by `alias_tool.py`, which also reworded the rank bullet); `## Aliases` section for 藉 ('mat; rely on'; 借 is its simplified form for that sense; EDRDG SKIP 2-3-14, 17 strokes), redirects added; OC present, three words and three derived characters verified. [AI]
+
 - **Character loop, 倍 stamped to the current standard:** no change needed; no aliases, rank 997 confirmed in CC 0000, OC present, two words verified. [AI]
 
 - **Character loop, 俗 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 560 confirmed in CC 0000, OC present, four words verified. [AI]

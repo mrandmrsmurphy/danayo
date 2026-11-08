@@ -30,7 +30,7 @@ stand_in: "冊"
 aliases:
   - 册
 注音: "ㄑㄚㄎ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 80
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 2,941st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 麥開|ɣɛk]] → [ㄑㄚㄎ](../syllables/ㄑㄚㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 册
+The stylized variant form used in simplified Chinese and Vietnamese Nôm; Wiktionary's 册 page redirects to 冊 as its orthodox traditional form, and 冊 lists 册 as its variant. The page's own note records that 册 is unrelated to 朋. SKIP 4-5-1; 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[冊]]<rt>ㄑㄚㄎ</rt></ruby> "bound volumes" (stand-in for 冊)

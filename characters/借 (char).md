@@ -26,13 +26,13 @@ joyo_level: "4"
 hsk_level: "1"
 hanmun_edu_level: 中
 danayo_id: 2016
-mc_id: 1986
+mc_id: 1635
 graphemic_classification: 昔
 stand_in: 借
 aliases:
   - 藉
 注音: ㄐㄚ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -48,8 +48,13 @@ boundedness: 65
 ## Notes
 - 形声 (OC \*ʔsjaːɡs, \*ʔsjaːɡ): semantic [[Radical 009|人]] ("person") + phonetic [[昔]] (OC \*sjaːɡ) — "to lend, to borrow"; also "to make use of, to take advantage of" as an alternate form of 藉.
 - [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
-- 1986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
+- 1635th most used character in Classical Chinese, the rank of its alias 藉 (借 itself ranks 1986). Ancient [[Lookup/CC/initials/聲 精|t͡s]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [ㄐㄚ](../syllables/ㄐㄚ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 藉
+A separate character (艹 + 耤, "mat, pad; to rely on"); Wiktionary's 藉 page lists 借 as its simplified form for the sense "rely on", and 借's page redirects to 藉 for that sense, which 借's own note records. It is the commoner of the two in the Classical Chinese lists. SKIP 2-3-14; 17 strokes. Radical 140 艸. It ranks 1635 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[借]]<rt>ㄐㄚ</rt></ruby> "to borrow; lend" (stand-in for 借)

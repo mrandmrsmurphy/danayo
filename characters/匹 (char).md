@@ -35,7 +35,7 @@ stand_in: "匹"
 aliases:
   - 疋
 注音: "ㄆㄧㄊ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -53,6 +53,11 @@ boundedness: 65
 - [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 1,079th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄆㄧㄊ](../syllables/ㄆㄧㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 疋
+Kangxi radical 103 ("foot; bolt of cloth"), an alternative form of 匹 that is directly relevant to its etymology, as the page's graphemic note says; Wiktionary's 疋 page redirects to 匹 and 匹 lists it as a form. In Japanese it is an alternative counter for small animals. Its rank of 3095 is a higher number than 匹's 1079. SKIP 4-5-1; 5 strokes. Radical 103 疋. It ranks 3095 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[匹]]<rt>ㄆㄧㄊ</rt></ruby> "animals" (stand-in for 匹)

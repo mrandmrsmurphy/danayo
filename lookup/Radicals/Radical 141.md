@@ -25,6 +25,7 @@ tags: [lookup]
 
 ### Aliases
 - 號 --> 号
+- 處 --> 処
 
 ## Data check
 ```dataview

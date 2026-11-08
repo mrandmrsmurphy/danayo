@@ -28,6 +28,8 @@ tags: [lookup]
 ### Aliases
 - 册, an alias of 冊
 - 旡 a.k.a. Radical 071
+- 册 --> 冊
+- 疋 --> 匹
 
 ## Datacheck
 ```dataview

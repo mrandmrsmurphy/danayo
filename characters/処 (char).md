@@ -33,7 +33,7 @@ aliases:
   - 处
   - 處
 注音: ㄑㄛ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: false
 tags:
   - character
@@ -47,10 +47,18 @@ boundedness: 65
 ```
 
 ## Notes
-- 会意 of 夂 ("foot," originally 人) and [[Radical 016|几]] ("table, stool") — to arrive at a table and stop; "to dwell, to be at a place." Per Shuowen, 処 (this form) is actually the standard/original character; 處 (with 虍 added) is the later variant that came to dominate — the reverse of the usual assumption that 処 is merely a simplification of 處.
+- 会意 (OC \*kʰljaʔ) of 夂 ("foot," originally 人) and [[Radical 016|几]] ("table, stool") — to arrive at a table and stop; "to dwell, to be at a place." Per Shuowen, 処 (this form) is actually the standard/original character; 處 (with 虍 added) is the later variant that came to dominate — the reverse of the usual assumption that 処 is merely a simplification of 處.
 - [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
-- 323rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄑㄛ](../syllables/ㄑㄛ.md)
+- 323rd most used character in Classical Chinese, the rank of its alias 處 (処 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [ㄑㄛ](../syllables/ㄑㄛ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 处
+The simplified Chinese form of 處; Wiktionary lists 處, 処 and 处 together as one character. SKIP 2-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 034 夂. It has no rank of its own in the Classical Chinese lists.
+
+### 處
+The traditional form (虍 added); Wiktionary lists 處, 処 and 处 together as forms of one character, and 處 carries the classical rank of 323, which is the page's `mc_id`. SKIP 3-4-7; 11 strokes. Radical 141 虍. It ranks 323 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[処]]<rt>ㄑㄛ</rt></ruby> "place" (stand-in for 処)

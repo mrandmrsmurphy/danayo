@@ -66,6 +66,7 @@ tags:
 - 硏 --> 研
 - 阐 --> 闡
 - 辆 --> 両
+- 處 --> 処
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

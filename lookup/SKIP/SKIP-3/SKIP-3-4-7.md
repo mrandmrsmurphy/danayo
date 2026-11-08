@@ -19,6 +19,7 @@ tags: [lookup]
 
 ### Aliases
 - 㲵 --> 宵
+- 處 --> 処
 
 ## Datacheck
 ```dataview

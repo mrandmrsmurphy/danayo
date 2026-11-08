@@ -47,6 +47,7 @@ tags: [lookup]
 ### Aliases
 - 兖 --> 兗
 - 兔 --> 兎
+- 兇 --> 凶
 
 ### Forbidden
 - 𪞄 - 国字: An alternative form of 魁

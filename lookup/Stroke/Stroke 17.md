@@ -51,6 +51,7 @@ tags:
 - 翳 --> 影
 - 繆 --> 謬
 - 魎 --> 両
+- 藉 --> 借
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

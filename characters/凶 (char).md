@@ -31,7 +31,7 @@ stand_in: 凶
 aliases:
   - 兇
 注音: ㄏ⼜ㄫ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-07
 kwin: true
 tags:
   - character
@@ -46,10 +46,15 @@ boundedness: 90
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md) (also analyzed as [指事](../lookup/List%20of%20指事.md) — Wiktionary presents both as an open dual reading rather than a settled consensus): [[Radical 017|凵]] represents a hole in the ground; 㐅 (no vault page) either — under the 指事 reading — indicates the hole's existence, or — under the 象形 reading — depicts rock, mud, stone, or bamboo inside the hole. Alternately, the glyph may derive from the upper component of 㚇 (no vault page).
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*qʰoŋ; also analyzed as [指事](../lookup/List%20of%20指事.md) — Wiktionary presents both as an open dual reading rather than a settled consensus): [[Radical 017|凵]] represents a hole in the ground; 㐅 (no vault page) either — under the 指事 reading — indicates the hole's existence, or — under the 象形 reading — depicts rock, mud, stone, or bamboo inside the hole. Alternately, the glyph may derive from the upper component of 㚇 (no vault page).
 - [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 682nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄏ⼜ㄫ](../syllables/ㄏ⼜ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 兇
+The traditional character (儿 + 凶) for "terrible; ferocious", while 凶 itself carries "bad luck"; Wiktionary's 兇 page marks 凶 as its simplified form (and sends the "bad luck" sense to 凶), and 凶's page points back to 兇 for the senses "terrible; ferocious". Chinese and Japanese now merge the two. SKIP 2-4-2; 6 strokes. Radical 010 儿. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[凶]]<rt>ㄏ⼜ㄫ</rt></ruby> "unlucky; calamitous; sinister" (stand-in for 凶)
