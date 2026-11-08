@@ -143,3 +143,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 獅 | 狮 | 1-3-6 | computed from its parts |
 | 画 | 畵 | 2-6-7 | computed from its parts |
 | 研 | 硏 | 1-5-6 | computed from its parts |
+| 縛 | 缚 | 1-3-10 | computed from its parts |

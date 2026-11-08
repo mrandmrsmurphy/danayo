@@ -130,6 +130,7 @@ tags: [lookup]
 - 练 --> 練
 - 綾 --> 凌
 - 纸 --> 紙
+- 缚 --> 縛
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

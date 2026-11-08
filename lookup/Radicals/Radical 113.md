@@ -54,6 +54,7 @@ tags:
 ### Aliases
 - 禦 --> 御
 - 祂 --> 他
+- 禄 --> 祿
 
 ## Data check
 ```dataview

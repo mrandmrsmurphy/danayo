@@ -57,6 +57,9 @@ tags:
 - 椥 - 国字: 'Nageia nagi'; used in place names in Kyoto Prefecture
 - 﨓 - 国字: An alternative form of 椨
 
+### Aliases
+- 禄 --> 祿
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

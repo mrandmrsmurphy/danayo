@@ -20,7 +20,7 @@ For more information, see <ruby>[単亜語之文法書](grammar/単亜語之文�
 
 Copyright (c) 2025 Robert Marshall Murphy.
 
-This project, both its text and its code, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Derivatives must use the same license. See [LICENSE](LICENSE) for the full legal text.
+This project, both its text and its code, is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Derivatives must use the same license. See [LICENSE](LICENSE.md) for the full legal text.
 
 ---
 

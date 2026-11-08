@@ -115,6 +115,9 @@ tags: [lookup]
 - 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
 - 鎹 - 国字: clamp
 
+### Aliases
+- 錶 --> 表
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

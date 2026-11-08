@@ -4,6 +4,22 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 西 perfected to the current standard:** added OC \*sɯːl (Zhengzhang via en.Wiktionary) to the graphemic bullet and removed an empty `aliases:` key; no aliases; rank 143 confirmed in CC 0000, thirty words, two chengyu and 茜 verified. [AI]
+
+- **`LICENSE` renamed to `LICENSE.md`:** at Murphy's direction the license file is a Markdown file (an earlier reversal of the extension was wrong). Used the committed CC BY-SA 4.0 text unchanged, and repointed the references in `AGENTS.md`, `CONTRIBUTING.md` and `README.md`. Authority: Murphy. [AI]
+
+- **Character loop, 表 perfected to the current standard:** added OC \*prawʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 錶 (watch; simplified into 表 in 1956; EDRDG SKIP 1-8-8, 16 strokes), redirects added; rank 810 confirmed in CC 0000, semi-productive affix block, twelve words and 俵 verified. [AI]
+
+- **Character loop, 縛 perfected to the current standard:** `## Aliases` section for 缚 (simplified form; SKIP 1-3-10 computed, 13 strokes), redirects added; rank 1996 confirmed in CC 1000, OC present, two words verified. [AI]
+
+- **Character loop, 籍 stamped to the current standard:** no change needed; no aliases, rank 962 confirmed in CC 0000, OC \*zjaːɡ matches Wiktionary, eight words verified. [AI]
+
+- **Character loop, 符 stamped to the current standard:** no change needed; no aliases, rank 1091 confirmed in CC 1000, OC \*bo matches Wiktionary, four words verified. [AI]
+
+- **Character loop, 究 stamped to the current standard:** no change needed; no aliases, rank 1950 confirmed in CC 1000, OC \*kus matches Wiktionary, two words verified. [AI]
+
+- **Character loop, 祿 perfected to the current standard:** `## Aliases` section for 禄 (simplified and shinjitai; EDRDG SKIP 1-4-8, counted 12 strokes with 礻 as 4), redirects added; rank 457 confirmed in CC 0000, OC present, two words verified, forbidden-list citation of 彔 still accurate. [AI]
+
 - **Character loop, 研 perfected to the current standard:** `## Aliases` section for 硏 (original form; SKIP 1-5-6 computed, 11 strokes), redirects added; rank 2969 confirmed in CC 2000 and OC present, two words verified. [AI]
 
 - **Character loop, 皮 perfected to the current standard:** added OC \*bral (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 805 confirmed in CC 0000, eleven words and eight derived characters verified. [AI]

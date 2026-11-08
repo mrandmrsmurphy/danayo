@@ -34,4 +34,4 @@ Counts change daily — compute them (`git ls-files characters | wc -l`) rather 
 - **What AIOS is and how this persistence system works:** [[AIOS/README.md]]
 - **Change history (newest first; log every content change in the same session, and never record history on a page):** [[Log/log.md]], convention in [[AIOS/log-convention.md]]
 
-License: CC BY-SA 4.0 for all content and code (see `LICENSE`).
+License: CC BY-SA 4.0 for all content and code (see [[LICENSE]]).

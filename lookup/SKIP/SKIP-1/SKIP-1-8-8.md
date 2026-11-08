@@ -30,6 +30,9 @@ tags: [lookup]
 ### Forbidden
 - 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
 
+### Aliases
+- 錶 --> 表
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

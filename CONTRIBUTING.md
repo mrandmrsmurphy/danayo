@@ -31,4 +31,4 @@ Corrections, sources and design discussion for Dan'a'yo (単亜語) are welcome.
 
 ## Licence
 
-By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](LICENSE), like the rest of the repository. Do not contribute text or images you do not have the right to share under that license.
+By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](LICENSE.md), like the rest of the repository. Do not contribute text or images you do not have the right to share under that license.
