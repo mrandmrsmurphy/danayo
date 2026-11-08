@@ -79,6 +79,7 @@ tags:
 - 敎 --> 教
 - 焕 --> 煥
 - 萤 --> 蛍
+- 痒 --> 羊
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

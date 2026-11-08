@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[痕](/characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
 
+### Aliases
+- 痒 --> 羊
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

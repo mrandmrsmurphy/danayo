@@ -10,7 +10,7 @@ These have all bee checked to see which are redirects
 [[搾]] [[窄]] [[鑿]] 齪 --> 窄
 
 ### 찬 
-撰 --> 選 [[纂]] [[粲]] [[澯]] [[燦]] [[璨]] [[瓚]] [[纘]] [鑽](characters/鑽.md) [[竄]] [餐](characters/餐%20(char).md) [[饌]] [攢](characters/攅.md) [[巑]] [儹](characters/儧.md) [[竄|篡]] [[欑]] 
+撰 --> 選 [[纂]] [[燦|粲]] [[澯]] [[燦]] [[璨]] [[瓚]] [[纘]] [鑽](characters/鑽.md) [[竄]] [餐](characters/餐%20(char).md) [[饌]] [攢](characters/攅.md) [[巑]] [儹](characters/儧.md) [[竄|篡]] [[欑]] 
 
 ### 찰 
 [札](characters/札%20(char).md) [[刹]] [擦](characters/擦%20(char).md) [紮](characters/紮%20(char).md) [拶](characters/拶.md)

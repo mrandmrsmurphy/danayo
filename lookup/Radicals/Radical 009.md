@@ -104,6 +104,7 @@ aliases:
 65. <ruby>[侮](../../characters/侮.md)<rt>ㄇㄨ</rt></ruby> - scorn
 - 佰 --> 百
 - ¡侤! - 違法字
+- 佯 --> 羊
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant

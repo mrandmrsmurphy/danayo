@@ -36,6 +36,7 @@ tags:
 ### Aliases
 - 导 --> 導
 - 节 --> 節
+- 𦍌 --> 羊
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

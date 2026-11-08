@@ -58,3 +58,4 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[掻]]<rt>ㄙㄚㄨ</rt></ruby> "scratch" (stand-in for 掻)
+- <ruby>[[掻羊]]<rt>ㄙㄚㄨ⼘ㄫ</rt></ruby> "itch"

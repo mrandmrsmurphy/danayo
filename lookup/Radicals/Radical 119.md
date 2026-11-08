@@ -30,6 +30,9 @@ tags: [lookup]
 11. <ruby>[粟](../../characters/粟.md)<rt>ㄙ⼄ㄎ</rt></ruby> - millet
 12. <ruby>[粧](../../characters/粧.md)<rt>ㄐ⺢ㄫ</rt></ruby> - put on make up
 
+### +7 Strokes
+- 粲 --> 燦
+
 ### +8 Strokes
 13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit
 

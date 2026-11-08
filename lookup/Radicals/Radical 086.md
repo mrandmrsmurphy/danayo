@@ -21,6 +21,7 @@ tags: [lookup]
 4. <ruby>[灸](../../characters/灸.md)<rt>ㄍ⼜</rt></ruby> - moxibustion
 5. <ruby>[灼](../../characters/灼.md)<rt>ㄐㄚㄎ</rt></ruby> - cauterize
 6. <ruby>[災](../../characters/災.md)<rt>ㄐㄚㄧ</rt></ruby> - disaster
+- 灿 --> 燦
 
 ### +4 Strokes
 7. <ruby>[炉](../../characters/炉.md)<rt>ㄌㄛ</rt></ruby> - stove

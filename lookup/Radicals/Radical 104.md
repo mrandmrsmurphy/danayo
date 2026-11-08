@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### +6 Strokes
 8. <ruby>[痕](../../characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
+- 痒 --> 羊
 
 ### +7 Strokes
 9. <ruby>[痘](../../characters/痘.md)<rt>ㄉㄛㄨ</rt></ruby> - pox

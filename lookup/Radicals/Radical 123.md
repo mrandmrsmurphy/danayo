@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[羊](../../characters/羊.md)<rt>⼘ㄫ</rt></ruby> - sheep
+- 𦍌 --> 羊
 
 ### +3 Strokes
 2. <ruby>[美](../../characters/美%20(char).md)<rt>ㄇㄧ</rt></ruby> - beautiful

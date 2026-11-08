@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[資](/characters/資.md)<rt>ㄐㄧㄜ</rt></ruby> - property
 2. <ruby>[嗇](/characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - stingy
 
+### Aliases
+- 粲 --> 燦
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -31,6 +31,7 @@ Sensation vocabulary covers the five senses and general perception — appearing
 - <ruby>[出現](../words/出現.md)<rt>ㄑㄨㄊㄏ⼶ㄋ</rt></ruby>: to appear, emerge, be revealed — the clean general verb. See [Existence](../lexipedia/Existence.md) for its own citation there.
 - <ruby>[観察](../words/観察.md)<rt>ㄍ⺢ㄋㄑㄚㄊ</rt></ruby>: to observe, inspect. See [Mind](../lexipedia/Mind.md) for its own citation there.
 - <ruby>[感知](../words/感知.md)<rt>ㄍㄚㄇㄐㄨㄧ</rt></ruby>: to perceive, sense — taking something in through the senses.
+- <ruby>[掻羊](../words/掻羊.md)<rt>ㄙㄚㄨ⼘ㄫ</rt></ruby>: itch — the skin sensation that calls for scratching; the compound of 掻 "scratch" and 羊, which stands in for the rare 痒 (an alias of 羊).
 - <ruby>[自覚](../words/自覚.md)<rt>ㄐㄧㄜㄍㄚㄎ</rt></ruby>: to be aware, realize.
 - <ruby>[察覚](../words/察覚.md)<rt>ㄑㄚㄊㄍㄚㄎ</rt></ruby>: to notice, detect.
 - <ruby>[分心](../words/分心.md)<rt>ㄅㄨㄋㄙㄧㄇ</rt></ruby>: to be distracted, distract.
