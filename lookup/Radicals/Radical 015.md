@@ -33,6 +33,7 @@ tags: [lookup]
 
 ### Aliases
 - 净 --> 浄
+- 决 --> 決
 
 ## Data check
 ```dataview

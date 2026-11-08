@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 無 perfected to the current standard:** added OC \*ma (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 无 (Kangxi radical 71 and simplified form; EDRDG SKIP 4-4-1, 4 strokes; rank 825 is above 18) and 憮 (behind the word 無然; EDRDG 1-3-12, 15 strokes), redirects added; rank 18 confirmed in CC 0000, thirty-two words, eleven chengyu and three derived characters verified. [AI]
+
+- **Character loop, 浅 perfected to the current standard:** added OC \*sʰlenʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet and put the rank bullet in the standard wording crediting 淺; `## Aliases` section for 淺 (traditional; EDRDG SKIP 1-3-8, 11 strokes; its rank 1412 is the page's `mc_id`), redirects added; two words verified. [AI]
+
+- **Character loop, 洗 perfected to the current standard:** added OC \*sɯːlʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 1307 confirmed in CC 1000, six words verified. [AI]
+
+- **Character loop, 油 perfected to the current standard:** added OC \*lɯw (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases; rank 3745 confirmed in CC 3000, eight words verified. [AI]
+
+- **Character loop, 決 perfected to the current standard:** `## Aliases` section for 决 (simplified; EDRDG SKIP 1-2-4, 6 strokes), 叏 (variant of the phonetic; 2-3-2, 5), 夬 (the phonetic; 4-4-4, 4; rank 2599 is above 742) and 蹶 ('stumble', no Wiktionary link, kept as a sound-alike jué; 1-7-12, 19; rank 2431 is above 742), redirects added; rank 742 confirmed in CC 0000, OC present, six words, four derived characters and four chengyu verified. [AI]
+
+- **Character loop, 比 perfected to the current standard:** added OC \*piʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 譬 (EDRDG SKIP 2-13-7, 20 strokes; rank 1326 is above 426), 秕 (1-5-4, 9), 粃 (1-6-4, 10) and 枇 (1-4-4, 8), none linked to 比 on Wiktionary (秕 and 粃 stand behind the word 比糠), redirects added with a new redirect-only SKIP leaf 2-13-7 for 譬 and its ø entry on SKIP-2-13; rank 426 confirmed in CC 0000, seven words and six derived characters verified. [AI]
+
+- **Character loop, 此 perfected to the current standard:** added OC \*sʰeʔ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 51 confirmed in CC 0000, ten words and five derived characters verified. [AI]
+
 - **Character loop, 橋 perfected to the current standard:** `## Aliases` section for 桥 (simplified form; SKIP 1-4-6 computed, 10 strokes), redirects added; rank 1825 confirmed in CC 1000, OC \*ɡrew matches Wiktionary, two words verified. [AI]
 
 - **Character loop, 極 perfected to the current standard:** `## Aliases` section for 极 (simplified form; EDRDG SKIP 1-4-4 and 8 strokes, which EDRDG records though Unihan says 7), redirects added; rank 500 confirmed in CC 0000, OC \*ɡɯɡ matches Wiktionary, twenty-one words verified, the forbidden-list citation of 亟 still accurate. [AI]

@@ -28,9 +28,8 @@ danayo_id: 2143
 mc_id: 51
 graphemic_classification: "会意"
 stand_in: "此"
-aliases:
 注音: "ㄑㄜ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -44,7 +43,7 @@ boundedness: 65
 ```
 
 ## Notes
-- 会意 of [[Radical 077|止]] ("feet; to stop") and [[Radical 021|匕]] ("person turned around") — where a person stops; here. Possibly the original form of 跐 ("to stamp, to stand").
+- 会意 (OC \*sʰeʔ) of [[Radical 077|止]] ("feet; to stop") and [[Radical 021|匕]] ("person turned around") — where a person stops; here. Possibly the original form of 跐 ("to stamp, to stand").
 - [SKIP-1-4-2](../lookup/SKIP/SKIP-1/SKIP-1-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 51st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄑㄜ](../syllables/ㄑㄜ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

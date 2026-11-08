@@ -32,6 +32,7 @@ tags:
 - 眀 --> 明
 - 秌 --> 秋
 - 衹 --> 只
+- 秕 --> 比
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

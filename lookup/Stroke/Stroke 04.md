@@ -31,6 +31,8 @@ tags: [lookup]
 - 㕛 --> 友
 - 攵 --> 攴
 - 韦 --> 韋
+- 夬 --> 決
+- 无 --> 無
 
 ### Forbidden
 - 仒 - 口訣: Korean 구결 for '샤'

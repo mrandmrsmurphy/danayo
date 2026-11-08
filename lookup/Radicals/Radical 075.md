@@ -221,6 +221,7 @@ tags: [lookup]
 - 枸 --> 句
 - 极 --> 極
 - 桥 --> 橋
+- 枇 --> 比
 
 ### Forbidden
 - 栍 - 국자: Korean-coined hanja for 'a slip of bamboo engraved with signs', 'tag', 'lot'

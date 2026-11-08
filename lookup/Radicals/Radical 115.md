@@ -73,6 +73,7 @@ tags: [lookup]
 ### Aliases
 - 穐 --> 秋
 - 秌 --> 秋
+- 秕 --> 比
 
 ### Forbidden
 - 䆆 - 국자: dry rice

@@ -60,6 +60,7 @@ tags: [lookup]
 - 奛 --> 明
 - 奌 --> 点
 - 㚔 --> 幸
+- 夬 --> 決
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

@@ -33,7 +33,7 @@ mc_id: 1307
 graphemic_classification: 先
 stand_in: 洗
 注音: ㄙㄝㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 tags:
   - character
 kwin: false
@@ -47,7 +47,7 @@ boundedness: 65
 ```
 
 ## Notes
-- 形声: semantic [[Radical 085|氵]] ("water") + phonetic [[先]] — to wash with water.
+- 形声 (OC \*sɯːlʔ): semantic [[Radical 085|氵]] ("water") + phonetic [[先]] — to wash with water.
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1307th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄙㄝㄋ](../syllables/ㄙㄝㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

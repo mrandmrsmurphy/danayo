@@ -30,7 +30,7 @@ stand_in: 浅
 aliases:
   - 淺
 注音: ㄑㄝㄋ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -44,10 +44,15 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: semantic [[Radical 085|氵]] ("water") + phonetic 㦮 — shallow water.
+- 形声 (OC \*sʰlenʔ): semantic [[Radical 085|氵]] ("water") + phonetic 㦮 — shallow water.
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
-- 1412th most used character in Classical Chinese (ranked under the traditional form 淺). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄑㄝㄋ](../syllables/ㄑㄝㄋ.md)
+- 1412th most used character in Classical Chinese, the rank of its alias 淺 (浅 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄑㄝㄋ](../syllables/ㄑㄝㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 淺
+The traditional form ("shallow; superficial"); Wiktionary lists 淺 and 浅 together as one character, with 浅 as the Japanese shinjitai (戔 replaced by 㦮) and a Chinese simplification (戋). It carries the classical rank of 1412, which is the page's `mc_id`. SKIP 1-3-8; 11 strokes. It ranks 1412 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[浅]]<rt>ㄑㄝㄋ</rt></ruby> "shallow" (stand-in for 浅)

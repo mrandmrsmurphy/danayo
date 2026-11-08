@@ -30,6 +30,7 @@ tags:
 - 传 --> 伝
 - 讽 --> 風
 - 收 --> 収
+- 决 --> 決
 
 ### Forbidden
 - 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character

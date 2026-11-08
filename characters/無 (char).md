@@ -32,7 +32,7 @@ aliases:
   - 无
   - 憮
 注音: ㄇㄜ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -46,10 +46,18 @@ boundedness: 80
 ```
 
 ## Notes
-- [List of 象形](../lookup/List%20of%20象形.md): a person dancing with oxtails held in both hands to pray for rain — the original form of 舞 ("dance"), phonetically borrowed for "not have."
+- [List of 象形](../lookup/List%20of%20象形.md) (OC \*ma): a person dancing with oxtails held in both hands to pray for rain — the original form of 舞 ("dance"), phonetically borrowed for "not have."
 - [SKIP-2-2-10](../lookup/SKIP/SKIP-2/SKIP-2-2-10.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 18th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄇㄜ](../syllables/ㄇㄜ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 无
+Kangxi radical 71 and the simplified Chinese form of 無; Wiktionary's 无 page names 無 as its orthodox traditional form, and 無 lists it as its simplified form. Its rank of 825 is a higher number than 18. SKIP 4-4-1; 4 strokes. Radical 071 无. It ranks 825 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 憮
+No link to 無 found on Wiktionary beyond its structure (忄 + 無, "regretful, disappointed"); 憮 is the character behind the vault's word 無然, whose alias is 憮然, and is kept as an alias for that reason. SKIP 1-3-12; 15 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[無]]<rt>ㄇㄜ</rt></ruby> "lack" (stand-in for 無)

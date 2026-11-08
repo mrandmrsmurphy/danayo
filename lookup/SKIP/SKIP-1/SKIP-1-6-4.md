@@ -44,6 +44,7 @@ tags:
 ### Aliases
 - 㧱 --> 拿
 - 蚬 --> 蜆
+- 粃 --> 比
 
 ### Forbidden
 - 粍 - 国字: Japanese-invented character for 毫米 (millimeter).

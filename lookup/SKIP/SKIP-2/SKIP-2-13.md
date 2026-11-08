@@ -12,7 +12,7 @@ tags: [lookup]
 4. [SKIP-2-13-4](lookup/SKIP/SKIP-2/SKIP-2-13-4.md): 懇, 檗, 檠
 5. [SKIP-2-13-5](lookup/SKIP/SKIP-2/SKIP-2-13-5.md): 璧
 6. none
-7. none
+7. [SKIP-2-13-7](lookup/SKIP/SKIP-2/SKIP-2-13-7.md): ø
 8. none
 9. [SKIP-2-13-9](lookup/SKIP/SKIP-2/SKIP-2-13-9.md): 饗
 

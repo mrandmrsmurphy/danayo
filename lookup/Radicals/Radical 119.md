@@ -49,6 +49,7 @@ tags: [lookup]
 
 ### Aliases
 - 粮 --> 糧
+- 粃 --> 比
 
 ### Forbidden
 - 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff

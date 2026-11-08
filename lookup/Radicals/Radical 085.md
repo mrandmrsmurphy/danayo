@@ -249,6 +249,7 @@ tags: [lookup]
 - 泷 --> 瀧
 - 漿 --> 将
 - 浆 --> 将
+- 淺 --> 浅
 
 ### Forbidden
 - 㳓 - 국자: 우 (mul ireum u) Taedong River (대동강)

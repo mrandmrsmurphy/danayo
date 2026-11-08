@@ -61,6 +61,9 @@ tags:
 - 蹭 - 官话: HSK/4.
 - 踩 - 官话: HSK/2.
 
+### Aliases
+- 蹶 --> 決
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

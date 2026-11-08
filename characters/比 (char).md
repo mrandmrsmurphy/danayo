@@ -35,7 +35,7 @@ aliases:
   - 粃
   - 枇
 注音: "ㄅㄧㄜ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,10 +49,24 @@ boundedness: 90
 ```
 
 ## Notes
-- 会意: two [[Radical 021|匕]] ("person") side by side — people standing next to each other: to compare.
+- 会意 (OC \*piʔ): two [[Radical 021|匕]] ("person") side by side — people standing next to each other: to compare.
 - [SKIP-1-2-2](../lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 426th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄅㄧㄜ](../syllables/ㄅㄧㄜ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 譬
+No link to 比 found on either Wiktionary page; 譬 (言 + 辟, "to make an analogy") is a separate character kept as an alias because 比 also carries comparison, as in 比喩. Its rank of 1326 is a higher number than 426. SKIP 2-13-7; 20 strokes. Radical 149 言. It ranks 1326 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 秕
+No link to 比 found on Wiktionary beyond its structure (禾 + 比, "empty or unplump grain"); 秕 is the character the vault's word 比糠 stands in for, and is kept as an alias for that reason. SKIP 1-5-4; 9 strokes. Radical 115 禾. It has no rank of its own in the Classical Chinese lists.
+
+### 粃
+A variant of 秕 (米 + 比, "empty grain husk"), also standing behind 比糠; no Wiktionary link to 比. SKIP 1-6-4; 10 strokes. Radical 119 米. It has no rank of its own in the Classical Chinese lists.
+
+### 枇
+No link to 比 found on Wiktionary beyond its structure (木 + 比); 枇 occurs in 枇杷 (loquat), kept as an alias for searchers. SKIP 1-4-4; 8 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[比]]<rt>ㄅㄧㄜ</rt></ruby> "than; compared to" (stand-in for 比)

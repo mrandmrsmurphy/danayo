@@ -12,6 +12,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[既](../../characters/既.md)<rt>ㄍㄧㄜ</rt></ruby> - already
 
+### Aliases
+- 无 --> 無
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

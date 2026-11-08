@@ -24,6 +24,9 @@ tags: [lookup]
 - 卅 - 混乱: Classical ligature for "thirty" (= 三十). No existing vault citations; redundant with the compositional 三十.
 - 匁 - 国字: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
 
+### Aliases
+- 夬 --> 決
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -21,6 +21,7 @@ tags: [lookup]
 ### Aliases
 - 屶 --> 会
 - 处 --> 処
+- 叏 --> 決
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.
