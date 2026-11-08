@@ -26,6 +26,9 @@ tags: [lookup]
 ### Aliases
 - 廻 --> 回
 
+### Forbidden
+- 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

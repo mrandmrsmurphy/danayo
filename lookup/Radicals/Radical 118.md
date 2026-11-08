@@ -99,6 +99,9 @@ tags:
 - 簱 - 国字: Rare Japanese character; Wiktionary records no definition
 - 籏 - 異体字: 'flag'; a rare form beside 旗
 - 籡 - 国字: Rare Japanese character; Wiktionary records no definition
+- 𥫤 - 国字: 国字 (竹 + 弓); Wiktionary records no definition
+- 簓 - 国字: 'bamboo whisk' (ささら); also a folk instrument
+- 笹 - 国字: "bamboo grass",  竹 (“bamboo”) + abbreviated 葉 (“leaf”).   Use 世 for sound
 
 ## Data check
 ```dataview

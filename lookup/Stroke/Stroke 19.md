@@ -49,6 +49,11 @@ tags:
 - 鯥 - 国字: 'gnome fish'
 - 鯰 - 国字: 'cat fish' Use 鮎
 - 鯱 - 国字: 'killer whale', 'orca', 'shachihoko' -> [[虎鯨]]
+- 饂 - 国字: Used only in 饂飩 (udon)
+- 鶎 - 国字: 国字 (宗 + 鳥); Wiktionary records no definition
+- 鯳 - 国字: Alaska pollock; 魚 + 底 ('bottom, pelagic')
+- 𩸕 - 国字: Silver-stripe round herring, daggertooth pike conger; 魚 + 長 ('long')
+- 軅 - 国字: やがて ("soon, before long").
 
 ## Data check
 ```dataview

@@ -37,6 +37,7 @@ tags:
 
 ### Forbidden
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
+- 粫 - 国字: 'nonglutinous grain'
 
 ## Datacheck
 ```dataview

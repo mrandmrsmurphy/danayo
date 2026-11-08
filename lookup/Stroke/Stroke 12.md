@@ -82,6 +82,16 @@ tags: [lookup]
 - 硴 - 国字: Stone + flower = oyster
 - 遖 - 国字: 国字 for 'appare' (excellent)
 - 颪 - 国字: おろし, oroshi; 国字 for the wind that blows down from a mountain (bora)
+- 𪰪 - 国字: 'dawn' (日 + 來)
+- 椙 - 国字: 'Japanese cedar' (Cryptomeria japonica)
+- 椣 - 国字: 'hornbeam'; also used in the place name Shidehara, Nara Prefecture
+- 椥 - 国字: 'Nageia nagi'; used in place names in Kyoto Prefecture
+- 﨓 - 国字: An alternative form of 椨
+- 硲 - 国字: 'ravine, gap, gorge'; also the surname はざま
+- 𫌷 - 国字: 'telegram', from 電信
+- 𮘁 - 国字: 'telegram'
+- 粫 - 国字: 'nonglutinous grain'
+- 塀 - 国字: 常用漢字/高等.  Meaning synonymous with 壁.
 
 ## Data check
 ```dataview

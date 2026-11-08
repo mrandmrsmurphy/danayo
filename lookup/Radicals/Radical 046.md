@@ -59,6 +59,7 @@ tags: [lookup]
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
 - 屶 - 国字: For the meaning, use 会.
 - 峠 - 国字: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
+- 峅 - 国字: Used only in place names in Toyama Prefecture
 
 ## Data check
 ```dataview

@@ -57,6 +57,7 @@ tags:
 - 諷 --> 風
 - 學 --> 学
 - 輻 --> 放
+- 豬 --> 猪
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名
@@ -78,6 +79,15 @@ tags:
 - 𫙕 - 国字: conger.  Just use 弸長魚
 - 橳 - 国字: Japanese only.  Use 勝 for place names.
 - 燵 - 国字: 国字 for the 'kotatsu' (foot warmer)
+- 噺 - 国字: An alternative form of 話, 'story' (はなし)
+- 𦻙 - 国字: 'oral traditions left out of the official history'
+- 𫏮 - 国字: 'to topple'
+- 糘 - 国字: 'chaff'
+- 𩛰 - 国字: Japanese-invented character.
+- 鴫 - 国字: Japanese-invented character, snipe or sandpiper.
+- 樫 - 国字: "evergreen oak" , variant 㭴, sound from 堅, on 人名用漢字
+- 髭 - 国字: Use 鬚 instead -- this character is deemed too Japanese.
+- 橸 - 国字: Straight-grained wood.
 
 ## Data check
 ```dataview

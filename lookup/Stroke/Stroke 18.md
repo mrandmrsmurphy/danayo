@@ -61,6 +61,8 @@ tags:
 - 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
 - 簱 - 国字: Rare Japanese character; Wiktionary records no definition
 - 艠 - 国字: Rare Japanese character; Wiktionary records no definition; on-reading トウ
+- 麿 - 国字: A ligature of 麻呂 (maro), used for 'I'
+- 鎹 - 国字: clamp
 
 ## Data check
 ```dataview

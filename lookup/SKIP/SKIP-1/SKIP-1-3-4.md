@@ -84,6 +84,7 @@ tags:
 - 扯 - 官话: HSK/3, but not used elsewhere.
 - 抖 - 官话: HSK/3.
 - 抓 - 官话: HSK/2, but too Mandarin, and the Japanese meaning is different.  For "grab" use 捕; for "pinch" use 捏.
+- 狆 - 国字: The Japanese Chin, a breed of dog
 
 ## Datacheck
 ```dataview

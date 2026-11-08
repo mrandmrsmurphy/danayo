@@ -68,6 +68,8 @@ tags:
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'
 - 凩 - 国字: 国字 for 'wintry wind', こがらし
 - 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
+- 𪩣 - 国字: A ligature of 大工, 'carpenter'
+- 﨤 - 国字: 国字 (辶 + 及); Wiktionary records no definition in Japanese
 
 ## Data check
 ```dataview

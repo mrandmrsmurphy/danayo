@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### Forbidden
 - 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
+- 𨛗 - 国字: 国字 (邑 + 阝, 7 + 2 strokes); Wiktionary records no definition
 
 ## Datacheck
 ```dataview

@@ -111,6 +111,9 @@ tags: [lookup]
 - 鑓 - 国字: lance, spear, javelin --> 鎗/槍
 - 鎺 - 国字: habaki: a metal collar mounted in between a sword's blade and the guard to keep the guard firmly fixed in place
 - 錻 - 国字: tinplate (used in the word 錻力 (buriki, “tinplate”))
+- 釺 - 国字: 金 (“money”) + 千 (“thousand”), representing Portuguese mil réis (literally “thousand reals”).
+- 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
+- 鎹 - 国字: clamp
 
 ## Data check
 ```dataview

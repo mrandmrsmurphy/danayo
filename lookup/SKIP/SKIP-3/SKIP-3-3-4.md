@@ -32,6 +32,9 @@ tags: [lookup]
 ### Aliases
 - 围 --> 囲
 
+### Forbidden
+- 迚 - 国字: 'very, exceedingly, awfully' (とても)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

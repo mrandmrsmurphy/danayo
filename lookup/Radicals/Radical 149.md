@@ -148,6 +148,9 @@ tags: [lookup]
 
 ### Forbidden
 - 諚 - 国字: "the lord's command" じょう, not used in modern times
+- 𫌷 - 国字: 'telegram', from 電信
+- 𮘁 - 国字: 'telegram'
+- 𬣐 - 国字: 'gentle', 'fun'
 
 ## Data check
 ```dataview

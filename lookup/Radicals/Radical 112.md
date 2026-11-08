@@ -75,6 +75,8 @@ tags: [lookup]
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.
 - 硴 - 国字: Stone + flower = oyster
+- 硲 - 国字: 'ravine, gap, gorge'; also the surname はざま
+- 碓 - 国字: 日本人名用漢字.  Use 杵 instead.
 
 ## Data check
 ```dataview

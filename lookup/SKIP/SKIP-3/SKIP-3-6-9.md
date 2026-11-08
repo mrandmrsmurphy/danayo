@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[慮](/characters/慮.md)<rt>ㄌ⼄</rt></ruby> - anxious
 
+### Forbidden
+- 𪞄 - 国字: An alternative form of 魁
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

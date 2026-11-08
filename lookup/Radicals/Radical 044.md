@@ -53,6 +53,9 @@ tags: [lookup]
 ### +12 Strokes
 21. <ruby>[履](../../characters/履%20(char).md)<rt>ㄌㄧㄜ</rt></ruby> - tread on/with
 
+### Forbidden
+- 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -36,6 +36,12 @@ tags:
 - 櫳 - 異体字: cage, lattice (㰍)
 - 籏 - 異体字: 'flag'; a rare form beside 旗
 - 蘰 - 国字: Used only as a surname (かずら)
+- 鶫 - 国字: 'thrush' (つぐみ), a slight simplification of 鶇
+- 纃 - 国字: 'splashed pattern dyeing or weaving'
+- 蘒 - 国字: An alternative form of 萩, mainly used for some surnames
+- 𬣐 - 国字: 'gentle', 'fun'
+- 鰘 - 国字: むろあじ (a Japanese fish name).
+- 鰚 - 国字: Japanese-invented character.
 
 ## Data check
 ```dataview

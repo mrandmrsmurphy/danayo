@@ -94,6 +94,7 @@ tags:
 - 陡 - 官话: HSK/3.
 - 捆 - 官话: HSK/2, but no international pedigree.
 - 陦 - 異体字: Alternative form of 島, 'island'
+- 﨏 - 国字: 国字 (土 + 谷); Wiktionary records no definition in Japanese
 
 ## Datacheck
 ```dataview

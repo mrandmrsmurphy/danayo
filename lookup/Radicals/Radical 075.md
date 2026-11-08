@@ -242,6 +242,23 @@ tags: [lookup]
 - 橳 - 国字: Japanese only.  Use 勝 for place names.
 - 檪 - 異体字: Variant of 櫟, 'chestnut-leaved oak'; the oak used for charcoal
 - 欟 - 異体字: Zelkova tree; a rare form
+- 𣏒 - 国字: Name of a place in Nakayamamoto, Tanagura, Fukushima; the reading comes from くるみ, 'walnut'
+- 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝
+- 𪱻 - 国字: An alternative form of 榎
+- 桛 - 国字: 'reel, hank, skein'; an alternative form of 綛
+- 梺 - 国字: 'foot of a hill', 'foothill'
+- 椙 - 国字: 'Japanese cedar' (Cryptomeria japonica)
+- 椣 - 国字: 'hornbeam'; also used in the place name Shidehara, Nara Prefecture
+- 椥 - 国字: 'Nageia nagi'; used in place names in Kyoto Prefecture
+- 﨓 - 国字: An alternative form of 椨
+- 𪳤 - 国字: 国字 (木 + 造); Wiktionary records no definition
+- 杢 - 国字: "Woodworker."
+- 枠 - 国字: Japanese-coined character.  常用漢字/高等.
+- 桝 - 国字: A 'masu', a Japanese measuring box.
+- 椛 - 国字: A Japanese-coined character for a type of birch.  Substitute 花.  Variants 樺, 桦.  On 日本人名用漢字
+- 榊 - 国字: Japanese-invented character, "sakaki".
+- 樫 - 国字: "evergreen oak" , variant 㭴, sound from 堅, on 人名用漢字
+- 橸 - 国字: Straight-grained wood.
 
 ## Data check
 ```dataview

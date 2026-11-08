@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### Forbidden
 - 硴 - 国字: Stone + flower = oyster
+- 硲 - 国字: 'ravine, gap, gorge'; also the surname はざま
 
 ## Datacheck
 ```dataview

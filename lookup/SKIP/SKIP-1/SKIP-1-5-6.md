@@ -25,6 +25,7 @@ tags: [lookup]
 ### Forbidden
 - 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.
 - 畩 - 国字: A Japanese-invented character.
+- 竡 - 国字: 立 + 百.  Abbreviation for 'hectolitre'.   We use [[百升]].
 
 ## Datacheck
 ```dataview

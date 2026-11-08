@@ -32,6 +32,8 @@ tags: [lookup]
 
 ### Forbidden
 - 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
+- 𬀧 - 国字: Abbreviation for 日下; used only in old place names such as 𬀧部 (Kusakabe)
+- 杢 - 国字: "Woodworker."
 
 ## Datacheck
 ```dataview

@@ -174,6 +174,8 @@ tags: [lookup]
 - 愣 - 官话: HSK/3.
 - 憋 - 官话: HSK/4.
 - 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.
+- 怺 - 国字: 'to endure' (こらえる)
+- 𪫧 - 国字: A rare spelling of 面白い, 'interesting'
 
 ## Data check
 ```dataview

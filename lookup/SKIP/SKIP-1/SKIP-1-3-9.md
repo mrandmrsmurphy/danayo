@@ -155,6 +155,7 @@ tags:
 - 喂 - 官话: HSK/1, but not international -- used for the phone-answering "hello" sound in Chinese.
 - 愣 - 官话: HSK/3.
 - 揪 - 官话: HSK/3.
+- 塀 - 国字: 常用漢字/高等.  Meaning synonymous with 壁.
 
 ## Datacheck
 ```dataview

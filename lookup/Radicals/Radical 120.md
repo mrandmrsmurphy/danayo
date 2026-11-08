@@ -134,6 +134,7 @@ tags: [lookup]
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)
 - 綁 - 官话: HSK 3, but used in no other country
+- 纃 - 国字: 'splashed pattern dyeing or weaving'
 
 ## Data check
 ```dataview

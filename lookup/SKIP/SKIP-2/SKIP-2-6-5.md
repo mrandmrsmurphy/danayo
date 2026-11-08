@@ -32,6 +32,7 @@ tags: [lookup]
 - 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
 - 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
 - 笨 - 官话: 'stupid; clumsy; heavy'
+- 笹 - 国字: "bamboo grass",  竹 (“bamboo”) + abbreviated 葉 (“leaf”).   Use 世 for sound
 
 ## Datacheck
 ```dataview

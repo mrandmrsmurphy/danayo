@@ -29,6 +29,9 @@ tags:
 17. <ruby>[輝](/characters/輝.md)<rt>ㄏㄨㄧ</rt></ruby> - brilliant
 18. <ruby>[頬](/characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
 
+### Forbidden
+- 糎 - 国字: Japanese-invented character for centimeter, 厘米.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

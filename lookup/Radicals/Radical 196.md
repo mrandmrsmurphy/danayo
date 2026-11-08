@@ -74,6 +74,11 @@ date-last-perfect: 2026-10-05
 
 ### Forbidden
 - 鳰 - 国字: 'grebe'.  Use 鸊鷉 or 浮巣鳥 or 息長鳥?
+- 鶫 - 国字: 'thrush' (つぐみ), a slight simplification of 鶇
+- 鶎 - 国字: 国字 (宗 + 鳥); Wiktionary records no definition
+- 鴫 - 国字: Japanese-invented character, snipe or sandpiper.
+- 鵆 - 国字: Plover.
+- 鵇 - 国字: Japanese-invented.
 
 ## Data check
 ```dataview

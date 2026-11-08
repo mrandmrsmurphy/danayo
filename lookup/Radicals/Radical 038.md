@@ -112,6 +112,7 @@ tags: [lookup]
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女
 - 媸 - 異体字: Use 蚩 + 女.
 - 嬶 - 国字: 'overbearing wife' 嬶天下
+- 𪥽 - 国字: An alternative form of 嫗, 'old woman'
 
 ## Data check
 ```dataview

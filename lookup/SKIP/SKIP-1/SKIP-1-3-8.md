@@ -150,6 +150,7 @@ tags:
 - 掀 - 官话: HSK/2.
 - 掂 - 官话: HSK/4.
 - 𪮇 - 国字: 扌+包+口.  Only used in Samuhara Jinja, the name of a Shinto shrine in Osaka City, Japan.
+- 𪥽 - 国字: An alternative form of 嫗, 'old woman'
 
 ## Datacheck
 ```dataview

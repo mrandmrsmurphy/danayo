@@ -82,6 +82,15 @@ tags:
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
 - 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff
 - 毟 - 国字: "Pluck."
+- 峅 - 国字: Used only in place names in Toyama Prefecture
+- 怺 - 国字: 'to endure' (こらえる)
+- 𪫧 - 国字: A rare spelling of 面白い, 'interesting'
+- 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝
+- 瓩 - 国字: 国字 for the kilogram (瓦 + 千), from the Meiji period; a symbol for kilogram
+- 𨸶 - 国字: 国字 (阝 + 平); Wiktionary records no definition
+- 枠 - 国字: Japanese-coined character.  常用漢字/高等.
+- 竏 - 国字: Japanese-invented character for 千升 (kiloliter).
+- 籵 - 国字: Japanese-invented character for 十米 (decameter).
 
 ## Data check
 ```dataview

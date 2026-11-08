@@ -16,6 +16,9 @@ tags: [lookup]
 3. <ruby>[痢](characters/痢.md)<rt>ㄌㄧㄜ</rt></ruby> "diarrhea"
 4. <ruby>[痩](characters/痩%20(char).md)<rt>ㄙ⼜</rt></ruby> "thin"
 
+### Forbidden
+- 𫌷 - 国字: 'telegram', from 電信
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

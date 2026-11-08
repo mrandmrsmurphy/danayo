@@ -21,6 +21,10 @@ tags: [lookup]
 ### Forbidden
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)
 - 軈 - 国字: "not before long", var:軅
+- 鱫 - 国字: 国字 (魚 + 愛); Wiktionary records no definition
+- 鱜 - 国字: きょう.
+- 鱩 - 国字: hatahata, Sailfin Sandfish.
+- 鱪 - 国字: mahi-mahi, dolphinfish.
 
 ## Data check
 ```dataview

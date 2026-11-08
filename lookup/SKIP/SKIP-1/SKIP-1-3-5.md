@@ -111,6 +111,10 @@ tags:
 - 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
 - 咋 - 官话: HSK/2, but Chinese only.
 - 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
+- 峅 - 国字: Used only in place names in Toyama Prefecture
+- 怺 - 国字: 'to endure' (こらえる)
+- 𪫧 - 国字: A rare spelling of 面白い, 'interesting'
+- 𨸶 - 国字: 国字 (阝 + 平); Wiktionary records no definition
 
 ## Datacheck
 ```dataview

@@ -95,6 +95,7 @@ tags:
 
 ### Forbidden
 - 獤 - 국자: 돈 (“hide of a marten”)
+- 狆 - 国字: The Japanese Chin, a breed of dog
 
 ## Data check
 ```dataview

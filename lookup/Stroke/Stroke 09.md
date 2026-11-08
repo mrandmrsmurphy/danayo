@@ -98,6 +98,13 @@ tags:
 - 粂 - 国字: surname
 - 畑 - 国字: 'dry field' On 常用/3 and 敎育用基礎漢字/名, but just use 田
 - 峠 - 国字: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
+- 𨛗 - 国字: 国字 (邑 + 阝, 7 + 2 strokes); Wiktionary records no definition
+- 哘 - 国字: 国字 (口 + 行); Wiktionary records no definition
+- 垳 - 国字: 'cliff'; used in place names
+- 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition
+- 𪱻 - 国字: An alternative form of 榎
+- 𬇐 - 国字: 'electricity', an abbreviated ligature of 電気
+- 𥫤 - 国字: 国字 (竹 + 弓); Wiktionary records no definition
 
 ## Data check
 ```dataview

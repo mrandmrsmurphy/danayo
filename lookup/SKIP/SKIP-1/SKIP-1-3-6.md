@@ -89,6 +89,8 @@ tags:
 - 挧 - 幽霊文字: Japanese horse chestnut
 - 垰 - 国字: 'mountain pass'
 - 峠 - 国字: Use 関 or 山口 instead for 'mountain pass'.  On 常用漢字/高等.
+- 哘 - 国字: 国字 (口 + 行); Wiktionary records no definition
+- 垳 - 国字: 'cliff'; used in place names
 
 ## Datacheck
 ```dataview

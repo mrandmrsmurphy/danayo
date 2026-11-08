@@ -74,6 +74,10 @@ tags:
 - 膵 - 国字: A recent Japanese invention.  Use 胰 for 'pancreas'
 - 膤 - 国字: 月+雪; 国字 for 'snow', 'snow-white flesh'
 - 樰 - 国字: Japanese tree name.
+- 𪚲 - 国字: Used only in the surname 集𪚲 (Shūwaki)
+- 𪞄 - 国字: An alternative form of 魁
+- 墹 - 国字: 'cliff'; used only in place names in Shizuoka Prefecture
+- 糎 - 国字: Japanese-invented character for centimeter, 厘米.
 
 ## Data check
 ```dataview

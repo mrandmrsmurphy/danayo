@@ -107,6 +107,8 @@ tags: [lookup]
 
 ### Forbidden
 - 暃 - 幽霊文字: "the color of the sun"
+- 𬀧 - 国字: Abbreviation for 日下; used only in old place names such as 𬀧部 (Kusakabe)
+- 𪰪 - 国字: 'dawn' (日 + 來)
 
 ## Data check
 ```dataview

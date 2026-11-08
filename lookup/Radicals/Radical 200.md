@@ -14,6 +14,7 @@ tags: [lookup]
 ### Forbidden
 - 麼 - 官话: HSK/1, but use 何
 - 麽 --> variant of 麼, forbidden with it
+- 麿 - 国字: A ligature of 麻呂 (maro), used for 'I'
 
 ## Data check
 ```dataview

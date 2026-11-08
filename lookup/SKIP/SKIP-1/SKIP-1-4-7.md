@@ -38,6 +38,7 @@ tags:
 - 焊 - 官话: HSK/3.
 - 脖 - 官话: HSK/2.
 - 梻 - 国字: Japanese-coined; a tree whose branches are placed on Buddhist graves.
+- 椛 - 国字: A Japanese-coined character for a type of birch.  Substitute 花.  Variants 樺, 桦.  On 日本人名用漢字
 
 ## Datacheck
 ```dataview

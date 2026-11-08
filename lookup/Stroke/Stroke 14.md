@@ -76,6 +76,9 @@ tags:
 - 躵 - 国字: ねらう (nerau)、しのぶ (shinobu)
 - 熕 - 国字: kou, おおずつ (a type of cannon).
 - 褝 - 異体字: 'unlined garment'; a rare Chinese-Japanese form, on-reading タン
+- 𪳤 - 国字: 国字 (木 + 造); Wiktionary records no definition
+- 𤭯 - 国字: 国字 (瓦 + 泉); Wiktionary records no definition
+- 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
 
 ## Data check
 ```dataview

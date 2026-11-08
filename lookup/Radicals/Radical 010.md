@@ -48,6 +48,9 @@ tags: [lookup]
 - 兖 --> 兗
 - 兔 --> 兎
 
+### Forbidden
+- 𪞄 - 国字: An alternative form of 魁
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

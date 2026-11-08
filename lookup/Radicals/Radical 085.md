@@ -258,6 +258,7 @@ tags: [lookup]
 - 澡 - 官话: Replace with 沐浴, HSK/2
 - 濺 - 官话: HSK/3.
 - 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
+- 𪸉 - 国字: An alternative form of 鬨, 'war cry'
 
 ## Data check
 ```dataview

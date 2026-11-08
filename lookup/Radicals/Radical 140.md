@@ -182,6 +182,8 @@ tags:
 - 苆 - 国字: Rare Japanese character; Wiktionary records no definition
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
 - 蘰 - 国字: Used only as a surname (かずら)
+- 𦻙 - 国字: 'oral traditions left out of the official history'
+- 蘒 - 国字: An alternative form of 萩, mainly used for some surnames
 
 ## Data check
 ```dataview

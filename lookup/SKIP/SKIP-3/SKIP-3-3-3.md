@@ -24,6 +24,7 @@ tags: [lookup]
 ### Forbidden
 - 辿 - 国字: On 日本人名用漢字, but relatively unused
 - 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
+- 﨤 - 国字: 国字 (辶 + 及); Wiktionary records no definition in Japanese
 
 ## Datacheck
 ```dataview

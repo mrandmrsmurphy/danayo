@@ -36,6 +36,8 @@ tags: [lookup]
 - 瓰 - 国字: 国字 for the decigram (瓦 + 分)
 - 瓧 - 国字: 国字 for the decagram; a dated symbol for ten grams
 - 瓴 - 混乱: Classical: an earthenware jar for water; also concave roof tiles
+- 瓩 - 国字: 国字 for the kilogram (瓦 + 千), from the Meiji period; a symbol for kilogram
+- 𤭯 - 国字: 国字 (瓦 + 泉); Wiktionary records no definition
 
 ## Data check
 ```dataview

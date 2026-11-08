@@ -35,6 +35,9 @@ tags:
 ### Aliases
 - 註 --> 注
 
+### Forbidden
+- 𮘁 - 国字: 'telegram'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

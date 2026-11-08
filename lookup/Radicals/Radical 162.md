@@ -120,6 +120,9 @@ tags: [lookup]
 - 𨑕 - 国字: Used only in the rare surname 𨑕田 (Hazada)
 - 遖 - 国字: 国字 for 'appare' (excellent)
 - 𨕫 - 国字: Used only in the place name 𨕫ノ尾 (Shime-no-o) on Iki Island, Nagasaki
+- 辷 - 国字: 'to glide, skate, slip' (すべる)
+- 迚 - 国字: 'very, exceedingly, awfully' (とても)
+- 﨤 - 国字: 国字 (辶 + 及); Wiktionary records no definition in Japanese
 
 ## Data check
 ```dataview

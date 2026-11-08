@@ -51,6 +51,11 @@ tags:
 - 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
 - 掰 - 官话: HSK/4, recent Mandarin coinage.
 - 椦 - 幽霊文字: 'bowl' also 棬
+- 𪰪 - 国字: 'dawn' (日 + 來)
+- 椙 - 国字: 'Japanese cedar' (Cryptomeria japonica)
+- 椣 - 国字: 'hornbeam'; also used in the place name Shidehara, Nara Prefecture
+- 椥 - 国字: 'Nageia nagi'; used in place names in Kyoto Prefecture
+- 﨓 - 国字: An alternative form of 椨
 
 ## Datacheck
 ```dataview

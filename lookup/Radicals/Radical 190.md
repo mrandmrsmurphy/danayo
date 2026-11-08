@@ -14,6 +14,9 @@ tags: [lookup]
 3. <ruby>[鬚](../../characters/鬚.md)<rt>ㄙㄨ</rt></ruby> - beard
 4. <ruby>[鬣](../../characters/鬣%20(char).md)<rt>ㄌㄛㄆ</rt></ruby> - mane
 
+### Forbidden
+- 髭 - 国字: Use 鬚 instead -- this character is deemed too Japanese.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

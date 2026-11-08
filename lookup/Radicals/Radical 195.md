@@ -68,6 +68,15 @@ tags: [lookup]
 - 鯱 - 国字: 'killer whale', 'orca', 'shachihoko' -> [[虎鯨]]
 - 鮱 - 国字: 'adult flathead mullet'
 - 𫙕 - 国字: conger.  Just use 弸長魚
+- 鰰 - 国字: 'sailfin sandfish' (はたはた)
+- 鱫 - 国字: 国字 (魚 + 愛); Wiktionary records no definition
+- 鰘 - 国字: むろあじ (a Japanese fish name).
+- 鰚 - 国字: Japanese-invented character.
+- 鱜 - 国字: きょう.
+- 鱩 - 国字: hatahata, Sailfin Sandfish.
+- 鱪 - 国字: mahi-mahi, dolphinfish.
+- 鯳 - 国字: Alaska pollock; 魚 + 底 ('bottom, pelagic')
+- 𩸕 - 国字: Silver-stripe round herring, daggertooth pike conger; 魚 + 長 ('long')
 
 ## Data check
 ```dataview

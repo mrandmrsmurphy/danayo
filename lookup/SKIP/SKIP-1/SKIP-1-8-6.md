@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[静](/characters/静.md)<rt>ㄐㄝㄫ</rt></ruby> "quiet"
 8. <ruby>[餌](/characters/餌.md)<rt>ㄋㄧ</rt></ruby> "bait; entice"
 
+### Forbidden
+- 𨦈 - 国字: rake, anchor, hatchet; 金 (“metal”) and 曲 (“to bend”), from the sense of working metal into various
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

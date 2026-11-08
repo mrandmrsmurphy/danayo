@@ -52,6 +52,8 @@ tags:
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
+- 桛 - 国字: 'reel, hank, skein'; an alternative form of 綛
+- 桝 - 国字: A 'masu', a Japanese measuring box.
 
 ## Datacheck
 ```dataview

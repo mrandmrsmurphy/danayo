@@ -47,6 +47,7 @@ tags: [lookup]
 - 匂 - 国字: A "new" Japanese character.  <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.
 - 朩 - 国字: Origin of katakana ホ.
 - 弖 - 国字: phonetic for 'te'
+- 辷 - 国字: 'to glide, skate, slip' (すべる)
 
 ## Data check
 ```dataview

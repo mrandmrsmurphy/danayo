@@ -11,6 +11,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[餐](/characters/餐%20(char).md)<rt>ㄑㄚㄋ</rt></ruby> - dine
 
+### Forbidden
+- 𩛰 - 国字: Japanese-invented character.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -65,6 +65,11 @@ tags:
 - 簗 - 国字: 'fish weir, fish trap' (やな); also a surname
 - 襅 - 国字: Historical sleeveless overgarment, the Shinto 'chihaya' worn by shrine maidens; also a kabuki vest
 - 𨵱 - 国字: Used only in the place name 野𨵱 (Nokazuki) in Asakita-ku, Hiroshima
+- 𪐷 - 国字: Used only in 𪐷い, an alternative spelling of 黒い and 玄い
+- 𪩩 - 国字: An alternative form of 一 'one'
+- 簓 - 国字: 'bamboo whisk' (ささら); also a folk instrument
+- 鵆 - 国字: Plover.
+- 鵇 - 国字: Japanese-invented.
 
 ## Data check
 ```dataview

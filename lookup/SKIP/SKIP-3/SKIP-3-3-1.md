@@ -19,6 +19,9 @@ tags: [lookup]
 ### Aliases
 - 𠀇 --> 且
 
+### Forbidden
+- 辷 - 国字: 'to glide, skate, slip' (すべる)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

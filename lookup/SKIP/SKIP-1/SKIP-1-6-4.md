@@ -45,6 +45,9 @@ tags:
 - 㧱 --> 拿
 - 蚬 --> 蜆
 
+### Forbidden
+- 粍 - 国字: Japanese-invented character for 毫米 (millimeter).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -20,6 +20,8 @@ tags: [lookup]
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"
 - 躵 - 国字: ねらう (nerau)、しのぶ (shinobu)
 - 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
+- 𫏮 - 国字: 'to topple'
+- 軅 - 国字: やがて ("soon, before long").
 
 ## Data check
 ```dataview

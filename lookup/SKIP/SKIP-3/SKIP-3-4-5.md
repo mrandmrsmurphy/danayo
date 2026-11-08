@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[虐](/characters/虐.md)<rt>⼘ㄎ</rt></ruby> "tyrannical; oppressive"
 5. <ruby>[迥](characters/迥%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> "distant; far"
 
+### Forbidden
+- 𬇐 - 国字: 'electricity', an abbreviated ligature of 電気
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

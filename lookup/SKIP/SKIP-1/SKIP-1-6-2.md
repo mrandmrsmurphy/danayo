@@ -21,6 +21,9 @@ tags: [lookup]
 9. <ruby>[刹](/characters/刹.md)<rt>ㄑㄚㄊ</rt></ruby> "moment"
 10. <ruby>[劾](/characters/劾.md)<rt>ㄏㄚㄧ</rt></ruby> "accuse"
 
+### Forbidden
+- 籵 - 国字: Japanese-invented character for 十米 (decameter).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

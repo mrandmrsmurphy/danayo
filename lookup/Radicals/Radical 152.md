@@ -26,6 +26,9 @@ tags: [lookup]
 5. <ruby>[豪](../../characters/豪.md)<rt>ㄏㄚㄨ</rt></ruby> - magnificent
 6. <ruby>[貌](../../characters/貌.md)<rt>ㄇ⼘</rt></ruby> - appearance
 
+### Aliases
+- 豬 --> 猪
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

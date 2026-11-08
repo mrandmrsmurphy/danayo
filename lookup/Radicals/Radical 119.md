@@ -56,6 +56,11 @@ tags: [lookup]
 - 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture
 - 粂 - 国字: surname
+- 粫 - 国字: 'nonglutinous grain'
+- 糘 - 国字: 'chaff'
+- 糎 - 国字: Japanese-invented character for centimeter, 厘米.
+- 籵 - 国字: Japanese-invented character for 十米 (decameter).
+- 粍 - 国字: Japanese-invented character for 毫米 (millimeter).
 
 ## Data check
 ```dataview

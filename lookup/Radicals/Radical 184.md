@@ -54,6 +54,8 @@ tags: [lookup]
 
 ### Forbidden
 - 䭏 - 국자: '편'
+- 饂 - 国字: Used only in 饂飩 (udon)
+- 𩛰 - 国字: Japanese-invented character.
 
 ## Data check
 ```dataview

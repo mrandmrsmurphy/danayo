@@ -28,6 +28,8 @@ tags: [lookup]
 - 巪 - 국자: Personal name: 꺽 from 1562
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')
 - 巭 - 국자: Variant of 巬, 부 ('worker')
+- 𪩣 - 国字: A ligature of 大工, 'carpenter'
+- 𪩩 - 国字: An alternative form of 一 'one'
 
 ## Data check
 ```dataview

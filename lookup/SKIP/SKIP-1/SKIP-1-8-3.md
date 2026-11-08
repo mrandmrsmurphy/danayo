@@ -24,6 +24,9 @@ tags: [lookup]
 12. <ruby>[釧](/characters/釧.md)<rt>ㄑㄝㄋ</rt></ruby> "bracelet; armlet"
 13. <ruby>[釩](/characters/釩.md)<rt>ㄈㄚㄋ</rt></ruby> "vanadium"
 
+### Forbidden
+- 釺 - 国字: 金 (“money”) + 千 (“thousand”), representing Portuguese mil réis (literally “thousand reals”).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

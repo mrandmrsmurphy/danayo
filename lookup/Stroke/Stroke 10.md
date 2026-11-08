@@ -85,6 +85,10 @@ tags:
 - 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
 - 瓴 - 混乱: Classical: an earthenware jar for water; also concave roof tiles
 - 陦 - 異体字: Alternative form of 島, 'island'
+- 﨏 - 国字: 国字 (土 + 谷); Wiktionary records no definition in Japanese
+- 桛 - 国字: 'reel, hank, skein'; an alternative form of 綛
+- 桝 - 国字: A 'masu', a Japanese measuring box.
+- 粍 - 国字: Japanese-invented character for 毫米 (millimeter).
 
 ## Data check
 ```dataview

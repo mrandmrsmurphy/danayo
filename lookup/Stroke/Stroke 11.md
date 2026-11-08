@@ -88,6 +88,12 @@ tags:
 - 畩 - 国字: A Japanese-invented character.
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'
 - 躮 - 国字: 国字, a ligature of 分身 'offspring'; 'son'
+- 𪥽 - 国字: An alternative form of 嫗, 'old woman'
+- 梺 - 国字: 'foot of a hill', 'foothill'
+- 竡 - 国字: 立 + 百.  Abbreviation for 'hectolitre'.   We use [[百升]].
+- 椛 - 国字: A Japanese-coined character for a type of birch.  Substitute 花.  Variants 樺, 桦.  On 日本人名用漢字
+- 笹 - 国字: "bamboo grass",  竹 (“bamboo”) + abbreviated 葉 (“leaf”).   Use 世 for sound
+- 釺 - 国字: 金 (“money”) + 千 (“thousand”), representing Portuguese mil réis (literally “thousand reals”).
 
 ## Data check
 ```dataview

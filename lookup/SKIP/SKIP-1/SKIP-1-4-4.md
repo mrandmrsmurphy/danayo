@@ -58,6 +58,10 @@ tags:
 - 视 --> 視
 - 杵 --> 午
 
+### Forbidden
+- 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝
+- 枠 - 国字: Japanese-coined character.  常用漢字/高等.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

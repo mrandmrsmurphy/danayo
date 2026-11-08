@@ -87,6 +87,7 @@ tags:
 ### Forbidden
 - 㔖 - 국자: Korean-coined hanja for 덕 or 각 (proto-Hangǔl), used for transliteration
 - 㔔 - 국자: Korean-coined hanja for 덩 or 강 (proto-Hangǔl), used for transliteration
+- 𪟧 - 国字: 国字 (男 + 𤲶); Wiktionary records no definition
 
 ## Data check
 ```dataview

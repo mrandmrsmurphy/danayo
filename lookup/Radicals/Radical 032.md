@@ -129,6 +129,10 @@ tags:
 - 塰 - 国字: title of a Noh play
 - 垰 - 国字: 'mountain pass'
 - 圦 - 国字: 'underground sluice' Use 水門
+- 垳 - 国字: 'cliff'; used in place names
+- 﨏 - 国字: 国字 (土 + 谷); Wiktionary records no definition in Japanese
+- 墹 - 国字: 'cliff'; used only in place names in Shizuoka Prefecture
+- 塀 - 国字: 常用漢字/高等.  Meaning synonymous with 壁.
 
 ## Data check
 ```dataview

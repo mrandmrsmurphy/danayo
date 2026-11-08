@@ -41,6 +41,8 @@ tags:
 - 癪 - 国字: Originally 'menstrual cramps', then 'anger', then 'spasm'
 - 鑓 - 国字: lance, spear, javelin --> 鎗/槍
 - 𨏍 - 国字: 'souvenir' (alternative spelling of 家苞)
+- 鰰 - 国字: 'sailfin sandfish' (はたはた)
+- 𪟧 - 国字: 国字 (男 + 𤲶); Wiktionary records no definition
 
 ## Data check
 ```dataview

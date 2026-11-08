@@ -209,6 +209,9 @@ tags: [lookup]
 - 咋 - 官话: HSK/2, but Chinese only.
 - 嗡 - 官话: HSK/3.
 - 嘍 - 官话: HSK/3, but not used outside of China.
+- 哘 - 国字: 国字 (口 + 行); Wiktionary records no definition
+- 噺 - 国字: An alternative form of 話, 'story' (はなし)
+- 囎 - 国字: Used only in the place name 囎唹 (Sōo)
 
 ## Data check
 ```dataview

@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Forbidden
 - 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).
+- 𬇐 - 国字: 'electricity', an abbreviated ligature of 電気
 
 ## Data check
 ```dataview

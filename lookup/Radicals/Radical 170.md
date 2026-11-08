@@ -68,6 +68,7 @@ tags: [lookup]
 ### Forbidden
 - 陡 - 官话: HSK/3.
 - 陦 - 異体字: Alternative form of 島, 'island'
+- 𨸶 - 国字: 国字 (阝 + 平); Wiktionary records no definition
 
 ## Data check
 ```dataview

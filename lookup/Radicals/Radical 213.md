@@ -18,6 +18,9 @@ tags: [lookup]
 - 龞 --> 鼈 (ancient variant; also of 鱉)
 - 𪚦 --> 亀
 
+### Forbidden
+- 𪚲 - 国字: Used only in the surname 集𪚲 (Shūwaki)
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

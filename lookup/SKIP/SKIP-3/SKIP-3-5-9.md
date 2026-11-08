@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[瘋](/characters/瘋.md)<rt>ㄈㄜㄫ</rt></ruby> - crazy
 2. <ruby>[瘍](/characters/瘍.md)<rt>⼘ㄫ</rt></ruby> - ulcer
 
+### Forbidden
+- 𤭯 - 国字: 国字 (瓦 + 泉); Wiktionary records no definition
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -73,6 +73,11 @@ tags:
 - 杣 - 国字: 'lumberjack' Use 樵夫.
 - 瓧 - 国字: 国字 for the decagram; a dated symbol for ten grams
 - 苆 - 国字: Rare Japanese character; Wiktionary records no definition
+- 𬀧 - 国字: Abbreviation for 日下; used only in old place names such as 𬀧部 (Kusakabe)
+- 𣏒 - 国字: Name of a place in Nakayamamoto, Tanagura, Fukushima; the reading comes from くるみ, 'walnut'
+- 狆 - 国字: The Japanese Chin, a breed of dog
+- 迚 - 国字: 'very, exceedingly, awfully' (とても)
+- 杢 - 国字: "Woodworker."
 
 ## Data check
 ```dataview

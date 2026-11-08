@@ -33,6 +33,8 @@ tags: [lookup]
 
 ### Forbidden
 - 竍 - 国字: 'decaliter' --> 十升
+- 竡 - 国字: 立 + 百.  Abbreviation for 'hectolitre'.   We use [[百升]].
+- 竏 - 国字: Japanese-invented character for 千升 (kiloliter).
 
 ## Data check
 ```dataview

@@ -41,6 +41,7 @@ tags:
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
 - 杣 - 国字: 'lumberjack' Use 樵夫.
+- 𣏒 - 国字: Name of a place in Nakayamamoto, Tanagura, Fukushima; the reading comes from くるみ, 'walnut'
 
 ## Datacheck
 ```dataview

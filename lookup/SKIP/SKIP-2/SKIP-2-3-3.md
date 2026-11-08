@@ -38,6 +38,7 @@ tags:
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구
+- 𪩣 - 国字: A ligature of 大工, 'carpenter'
 
 ## Datacheck
 ```dataview

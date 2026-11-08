@@ -24,6 +24,9 @@ tags: [lookup]
 ### Aliases
 - 矽 --> 硅
 
+### Forbidden
+- 竏 - 国字: Japanese-invented character for 千升 (kiloliter).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
