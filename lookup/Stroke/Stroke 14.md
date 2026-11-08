@@ -61,6 +61,7 @@ tags:
 - 樋 --> 通
 - 幗 --> 国
 - 厰 --> 廠
+- 榮 --> 栄
 
 ## Data check
 ```dataview

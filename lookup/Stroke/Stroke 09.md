@@ -63,6 +63,7 @@ tags:
 - 𤯞 --> 青
 - 奕 --> 打
 - 弈 --> 打
+- 荣 --> 栄
 
 ## Data check
 ```dataview

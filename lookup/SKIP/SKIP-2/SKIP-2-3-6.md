@@ -36,6 +36,7 @@ tags:
 ### Aliases
 - 药 --> 薬
 - 宥 --> 有
+- 荣 --> 栄
 
 ## Datacheck
 ```dataview

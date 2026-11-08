@@ -241,6 +241,7 @@ tags: [lookup]
 - 溌 --> 発
 - 泼 --> 発
 - 渢 --> 風
+- 渮 --> 河
 
 ## Data check
 ```dataview

@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-07
 
+- **Character loop, 治 stamped to the current standard:** no change needed; no aliases (Wiktionary lists none), rank 123 confirmed in CC 0000, nine words and two chengyu verified, OC already present. [AI]
+
+- **Character loop, 河 perfected to the current standard:** `## Aliases` section for 𢀎 (alternative form per Wiktionary; bare mention; SKIP 2-8-16 computed), 菏 (艸 + 河, EDRDG 2-3-8) and 渮 (EDRDG 1-3-8), redirects added; rank 265 and thirteen words verified. [AI]
+
+- **Character loop, 次 perfected to the current standard:** added OC \*sn̥ʰis (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases (Wiktionary lists none); rank 402, eight words and six derived characters verified. [AI]
+
+- **Character loop, 栄 perfected to the current standard:** `## Aliases` section for 榮 (EDRDG SKIP 2-8-6) and 荣 (SKIP 2-3-6 computed), redirects added; rank 764 matches 榮, six words and one chengyu verified. [AI]
+
 - **Character loop, 村 perfected to the current standard:** added OC \*sʰuːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 邨 (alternative form on both Wiktionary pages; EDRDG SKIP 1-4-3, 7 strokes), redirects added; rank 0, two words verified. [AI]
 
 - **Character loop, 暹 perfected to the current standard:** added the Old Chinese reconstruction (\*sem, Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases (Wiktionary lists none), words 暹羅 and 暹京 verified as the only two, rank 0 confirmed. [AI]

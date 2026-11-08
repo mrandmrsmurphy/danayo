@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[製](/characters/製.md)<rt>ㄐㄝ</rt></ruby> "manufacture; produce"
 5. <ruby>[需](/characters/需.md)<rt>ㄙㄨ</rt></ruby> "need"
 
+### Aliases
+- 榮 --> 栄
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

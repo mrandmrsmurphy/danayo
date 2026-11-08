@@ -217,6 +217,7 @@ tags: [lookup]
 - 榎 --> 夏
 - 樋 --> 通
 - 杵 --> 午
+- 榮 --> 栄
 
 ## Data check
 ```dataview

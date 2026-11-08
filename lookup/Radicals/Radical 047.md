@@ -26,6 +26,9 @@ tags: [lookup]
 ### +8 Strokes
 6. <ruby>[巣](../../characters/巣.md)<rt>ㄐㄚㄨ</rt></ruby> - nest
 
+### Aliases
+- 𢀎 --> 河
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"
