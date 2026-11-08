@@ -21,6 +21,9 @@ tags: [lookup]
 ### Aliases
 - 屶 --> 会
 
+### Forbidden
+- 壭 - 口訣: Korean 구결 for '산'.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

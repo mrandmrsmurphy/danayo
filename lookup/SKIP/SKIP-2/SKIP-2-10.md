@@ -8,7 +8,7 @@ tags: [lookup]
 
 Top component has 10 strokes. Dominant components: 髟, 能, 莫, 般.
 
-1. ø
+1. [SKIP-2-10-1](lookup/SKIP/SKIP-2/SKIP-2-10-1.md): ø
 2. [SKIP-2-10-2](lookup/SKIP/SKIP-2/SKIP-2-10-2.md): 粤
 3. [SKIP-2-10-3](lookup/SKIP/SKIP-2/SKIP-2-10-3.md): 奨, 塑, 塗
 4. [SKIP-2-10-4](lookup/SKIP/SKIP-2/SKIP-2-10-4.md): 愨, 態, 慕, 敲, 熙, 熊, 髪

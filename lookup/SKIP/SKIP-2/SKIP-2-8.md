@@ -8,7 +8,7 @@ tags: [lookup]
 
 Top component has 8 strokes. Dominant components: 雨, 婁, 隹.
 
-1. none
+1. [SKIP-2-8-1](lookup/SKIP/SKIP-2/SKIP-2-8-1.md): ø
 2. [SKIP-2-8-2](lookup/SKIP/SKIP-2/SKIP-2-8-2.md): 隼 (char)
 3. [SKIP-2-8-3](lookup/SKIP/SKIP-2/SKIP-2-8-3.md): 啓, 堂, 堕, 娶, 婁, 婆, 彗, 雪 (char)
 4. [SKIP-2-8-4](lookup/SKIP/SKIP-2/SKIP-2-8-4.md): 悲, 惑, 斐, 智, 替, 渠, 焚, 焦, 然, 煮, 犂, 琴, 琵, 琶, 集, 雰, 雲

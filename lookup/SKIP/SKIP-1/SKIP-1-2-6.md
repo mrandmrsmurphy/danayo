@@ -29,6 +29,9 @@ tags:
 - 净 --> 浄
 - 佰 --> 百
 
+### Forbidden
+- 侤 - 국자: Korean for '고'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -204,6 +204,7 @@ aliases:
 ### Forbidden
 - 亽 - 口訣: Korean 구결 for '라/다'
 - 仒 - 口訣: Korean 구결 for '샤'
+- 侤 - 국자: Korean for '고'
 
 ## Data check
 ```dataview

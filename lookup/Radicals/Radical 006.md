@@ -19,6 +19,9 @@ tags: [lookup]
 - 𠄎 --> 乃
 - 亊 --> 事
 
+### Forbidden
+- 亇 - 국자: 'hammer'/마/망치, use 槌
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", english AS "EN"

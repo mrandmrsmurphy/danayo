@@ -27,6 +27,11 @@ tags: [lookup]
 15. <ruby>[習](/characters/習.md)<rt>ㄙㄜㄆ</rt></ruby> "practice"
 16. <ruby>[苟](characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> "if only"
 
+### Forbidden
+- 㖯 - 국자: Korean-coined hanja for '똥'/shit (proto-Hangǔl)
+- 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
+- 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

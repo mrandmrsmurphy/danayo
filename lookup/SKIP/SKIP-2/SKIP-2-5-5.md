@@ -25,7 +25,7 @@ tags: [lookup]
 - 皋 --> 皐
 ### Forbidden
 - 畠
-- 唟
+- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
 - 丵
 
 Candidates for this SKIP code not yet present in the database: 祟.

@@ -18,6 +18,9 @@ date-last-perfect: 2026-10-31
 - 丅 --> 下
 - 厂 --> 廠
 
+### Forbidden
+- 𰆊 - 口訣: Korean 구결 for 'ㄴ'
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

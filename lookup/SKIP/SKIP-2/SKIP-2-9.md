@@ -8,7 +8,7 @@ tags: [lookup]
 
 Top component has 9 strokes. Dominant components: 心, 臣, 大.
 
-1. none
+1. [SKIP-2-9-1](lookup/SKIP/SKIP-2/SKIP-2-9-1.md): ø
 2. [SKIP-2-9-2](lookup/SKIP/SKIP-2/SKIP-2-9-2.md): 兜
 3. [SKIP-2-9-3](lookup/SKIP/SKIP-2/SKIP-2-9-3.md): 喪, 堅, 堡, 奥, 幇, 尞
 4. [SKIP-2-9-4](lookup/SKIP/SKIP-2/SKIP-2-9-4.md): 想, 愁, 愚, 感, 暋, 楽, 照, 聖, 腎

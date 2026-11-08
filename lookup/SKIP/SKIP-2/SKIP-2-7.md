@@ -8,7 +8,7 @@ tags: [lookup]
 
 Top component has 7 strokes. Dominant components: 辰, 里, 亜, 釆.
 
-1. ø
+1. [SKIP-2-7-1](lookup/SKIP/SKIP-2/SKIP-2-7-1.md): ø
 2. ø
 3. [SKIP-2-7-3](lookup/SKIP/SKIP-2/SKIP-2-7-3.md): 哲, 唇, 尃, 差, 辱
 4. [SKIP-2-7-4](lookup/SKIP/SKIP-2/SKIP-2-7-4.md): 黒, 軣, 梨, 梁, 望, 曹, 悪, 患, 悠, 悉

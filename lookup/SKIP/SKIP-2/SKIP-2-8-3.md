@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[彗](/characters/彗.md)<rt>ㄏㄝ</rt></ruby> - comet
 8. <ruby>[雪](/characters/雪%20(char).md)<rt>ㄙ⼔ㄊ</rt></ruby> - snow
 
+### Forbidden
+- 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -49,6 +49,9 @@ tags: [lookup]
 ### Aliases
 - 彆 --> 別
 
+### Forbidden
+- 㢱 - 국자: Korean place-name character; same as 旀
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

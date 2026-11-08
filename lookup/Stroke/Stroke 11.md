@@ -64,6 +64,14 @@ tags:
 - 渊 --> 淵
 - 渔 --> 漁
 
+### Forbidden
+- 㐢 - 국자: Korean-coined hanja for '뜰'
+- 㖯 - 국자: Korean-coined hanja for '똥'/shit (proto-Hangǔl)
+- 㖰 - 異体字: Variant of 㖯, '똥'/shit (proto-Hangǔl)
+- 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
+- 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
+- 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

@@ -30,6 +30,9 @@ tags: [lookup]
 ### +10 Strokes
 8. <ruby>[旗](../../characters/旗.md)<rt>ㄎㄧ</rt></ruby> - banner
 
+### Forbidden
+- 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

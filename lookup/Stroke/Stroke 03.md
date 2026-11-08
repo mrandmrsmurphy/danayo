@@ -28,6 +28,11 @@ tags:
 ### Forbidden
 - 亽 - 口訣: Korean 구결 for '라/다'
 - 卪 - 口訣: Korean 구결 for '절'
+- 亇 - 국자: 'hammer'/마/망치, use 槌
+- 㐃 - 국자: Variant of 亇, 'hammer'/마/망치, use 槌
+- 㐉 - 국자: Korean-coined hanja for "slave" or "maid", 절.
+- 㐇 - 국자: Korean-coined hanja for '굴', a personal name; also the name of a dried fish
+- 㐈 - 국자: Korean-coined hanja for '둘'
 
 ## Data check
 ```dataview

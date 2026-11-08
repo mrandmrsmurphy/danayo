@@ -14,7 +14,8 @@ tags: [lookup]
 
 ### Forbidden
 - 亪 - 口訣: Korean 구결 for '란/난/역'
-
+- 乲 - 口訣: Korean 구결 for '잘'
+- 㐘 - 국자: Korean-coined hanja for '쌀' (rice)
 
 ## Datacheck
 ```dataview

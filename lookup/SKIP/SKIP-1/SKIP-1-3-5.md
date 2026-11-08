@@ -101,6 +101,9 @@ tags:
 - 泼 --> 発
 - 泷 --> 瀧
 
+### Forbidden
+- 㢱 - 국자: Korean place-name character; same as 旀
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

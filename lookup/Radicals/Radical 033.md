@@ -30,6 +30,9 @@ tags: [lookup]
 ### +8 Strokes
 8. <ruby>[壷](../../characters/壷%20(char).md)<rt>ㄏㄛ</rt></ruby> - pot
 
+### Forbidden
+- 壭 - 口訣: Korean 구결 for '산'.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

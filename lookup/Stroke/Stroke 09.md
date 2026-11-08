@@ -63,6 +63,13 @@ tags:
 - 𤯞 --> 青
 - 荣 --> 栄
 
+### Forbidden
+- 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名
+- 乻 - 국자: Korean-coined hanja for '얼' and '늘', used for names and place names
+- 㐠 - 口訣: Korean 구결 for '율'
+- 乼 - 국자: Korean-coined hanja for '줄' (rope), used mainly in place names
+- 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

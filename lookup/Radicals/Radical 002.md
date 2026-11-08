@@ -33,6 +33,9 @@ _no +0, because it is not a stand-alone character_
 ### Aliases
 - 个 --> 個
 
+### Forbidden
+- 㐃 - 국자: Variant of 亇, 'hammer'/마/망치, use 槌
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

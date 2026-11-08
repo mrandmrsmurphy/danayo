@@ -60,6 +60,10 @@ tags:
 - 娚 --> 南
 - 倖 --> 幸
 
+### Forbidden
+- 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan
+- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

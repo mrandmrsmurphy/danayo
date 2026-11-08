@@ -12,6 +12,13 @@ tags: [lookup]
 ## Characters
 1. <ruby>[太](/characters/太%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - great
 
+### Forbidden
+- 乥 - 口訣: Korean 구결 for '홀'
+- 㐊 - 국자: Korean-coined hanja for '살', used for transliteration
+- 㐋 - 국자: Korean-coined hanja for '톨', used for transliteration
+- 𠃗 - 국자: Korean-coined hanja for '울', used for transliteration. On 単亜語/敎育用基礎漢字/名
+- 乤 - 국자: Korean-coined hanja for '할', first character of the place name 乤浦 (Halpho)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

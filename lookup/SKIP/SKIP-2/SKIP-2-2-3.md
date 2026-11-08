@@ -33,6 +33,7 @@ tags: [lookup]
 ### Forbidden
 * 厼
 - 㒰 --> 全
+- 厼 - 口訣: Korean 구결 for '이', '며' and '너'
 
 ## Datacheck
 ```dataview

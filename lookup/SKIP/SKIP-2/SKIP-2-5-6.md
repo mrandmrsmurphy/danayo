@@ -22,6 +22,9 @@ tags: [lookup]
 10. <ruby>[異](/characters/異.md)<rt>ㄧ</rt></ruby> "different; strange"
 11. <ruby>[焉](characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> "therefore"
 
+### Forbidden
+- 㖰 - 異体字: Variant of 㖯, '똥'/shit (proto-Hangǔl)
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

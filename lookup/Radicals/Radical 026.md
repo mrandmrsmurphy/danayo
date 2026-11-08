@@ -34,6 +34,8 @@ tags: [lookup]
 
 ### Forbidden
 - 卪 - 口訣: Korean 구결 for '절'
+- 𰆊 - 口訣: Korean 구결 for 'ㄴ'
+- 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name
 
 ## Data check
 ```dataview

@@ -39,6 +39,9 @@ tags: [lookup]
 ## Other
 - 分 has this radical as a component, but is not listed under this radical.
 
+### Forbidden
+- 兯 - 口訣: Korean 구결 for '한'.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

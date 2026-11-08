@@ -35,6 +35,7 @@ tags: [lookup]
 
 ### Forbidden
 - 仒 - 口訣: Korean 구결 for '샤'
+- 兯 - 口訣: Korean 구결 for '한'.
 
 ## Datacheck
 ```dataview

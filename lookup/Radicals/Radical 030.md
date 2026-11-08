@@ -178,6 +178,14 @@ tags: [lookup]
 - 喃 --> 南
 - 呙 --> 咼
 
+### Forbidden
+- 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
+- 㖯 - 국자: Korean-coined hanja for '똥'/shit (proto-Hangǔl)
+- 㖰 - 異体字: Variant of 㖯, '똥'/shit (proto-Hangǔl)
+- 㖱 - 口訣: Korean 구결 for '뱀/얌' (proto-Hangǔl)
+- 㖲 - 국자: Korean-coined hanja for '엿', used for transliteration (proto-Hangǔl)
+- 㖳 - 異体字: Variant of 㖲, '엿' (proto-Hangǔl)
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

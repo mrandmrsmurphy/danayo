@@ -24,6 +24,7 @@ tags: [lookup]
 - 𠄎 --> 乃
 - 厂 --> 廠
 - 丷 - 口訣: Korean 구결 for '하다'
+- 𰆊 - 口訣: Korean 구결 for 'ㄴ'
 
 ## Data check
 ```dataview

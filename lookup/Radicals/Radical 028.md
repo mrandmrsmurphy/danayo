@@ -16,6 +16,9 @@ tags: [lookup]
 ### Other
 - [公 (char)](../../characters/公%20(char).md) has this in it, but isn't listed by this radical.
 
+### Forbidden
+- 厼 - 口訣: Korean 구결 for '이', '며' and '너'
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

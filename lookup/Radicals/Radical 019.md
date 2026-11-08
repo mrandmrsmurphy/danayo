@@ -84,6 +84,10 @@ tags:
 - 勋 --> variant of 勲
 - 勳 --> variant of 勲
 
+### Forbidden
+- 㔖 - 국자: Korean-coined hanja for 덕 or 각 (proto-Hangǔl), used for transliteration
+- 㔔 - 국자: Korean-coined hanja for 덩 or 강 (proto-Hangǔl), used for transliteration
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

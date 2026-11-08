@@ -58,6 +58,9 @@ tags:
 - 昸 --> 冬
 - 瓯 --> 甌
 
+### Forbidden
+- 旀 - 국자: Korean place-name character, an element in place names; same as 㢱
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
