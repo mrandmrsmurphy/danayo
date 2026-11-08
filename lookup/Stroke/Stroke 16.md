@@ -63,6 +63,7 @@ tags:
 - 魉 --> 両
 - 彊 --> 強
 - 薆 --> 愛
+- 舉 --> 挙
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

@@ -23,13 +23,13 @@ joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "中"
 danayo_id: 2128
-mc_id: 2372
+mc_id: 1736
 graphemic_classification: "音"
 stand_in: "暗"
 aliases:
   - 闇
 注音: "ㄚㄇ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -45,8 +45,13 @@ boundedness: 90
 ## Notes
 - 形声 (OC \*qɯːms): semantic [[Radical 072|日]] ("sun") + phonetic [[音]] (OC \*qrɯm).
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
-- 2372nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄚㄇ](../syllables/ㄚㄇ.md)
+- 1736th most used character in Classical Chinese, the rank of its alias 闇 (暗 itself ranks 2372). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄚㄇ](../syllables/ㄚㄇ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 闇
+Listed as an alternative form of 暗 on 暗's Wiktionary page; 闇 (門 + 音, "dark, dismal; to shut") is the older and commoner form in the Classical Chinese lists, and Japanese keeps it for "darkness", though its own page does not mention 暗. SKIP 3-8-9; 17 strokes. Radical 169 門. It ranks 1736 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[暗]]<rt>ㄚㄇ</rt></ruby> "dark" (stand-in for 暗)

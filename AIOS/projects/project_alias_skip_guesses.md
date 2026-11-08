@@ -172,3 +172,4 @@ Confirmed on EDRDG by the user: 亂 is 1-12-1.
 | 応 | 应 | 3-3-4 | computed from its parts |
 | 愛 | 爱 | 2-4-6 | computed from its parts |
 | 愛 | 㤅 | 2-4-4 | computed from its parts |
+| 挙 | 举 | 2-5-4 | computed from its parts |

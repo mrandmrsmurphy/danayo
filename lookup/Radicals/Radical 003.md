@@ -15,6 +15,8 @@ tags: [lookup]
 3. <ruby>[[主]]<rt>ㄐㄨ</rt></ruby> - master, lord
 ### Aliases
 - 丼 --> 井
+- 举 --> 挙
+
 ### Forbidden
 - 丷 - 口訣: Korean 구결 for '하다'
 ### Other

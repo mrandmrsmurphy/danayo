@@ -41,6 +41,7 @@ tags:
 - 枽 --> 枼
 - 拏 --> 拿
 - 𤯞 --> 青
+- 举 --> 挙
 
 ### Forbidden
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')

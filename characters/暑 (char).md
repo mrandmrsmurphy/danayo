@@ -26,9 +26,8 @@ danayo_id: 2126
 mc_id: 1374
 graphemic_classification: "者"
 stand_in: "暑"
-aliases:
 注音: "ㄙ⼄"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character

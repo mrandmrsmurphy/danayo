@@ -58,6 +58,7 @@ tags: [lookup]
 - 閅 --> 門
 - 门 --> 門
 - 阐 --> 闡
+- 闇 --> 暗
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

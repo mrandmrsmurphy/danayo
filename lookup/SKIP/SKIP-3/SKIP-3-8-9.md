@@ -16,6 +16,9 @@ tags: [lookup]
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)
 - 𨵱 - 国字: Used only in the place name 野𨵱 (Nokazuki) in Asakita-ku, Hiroshima
 
+### Aliases
+- 闇 --> 暗
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

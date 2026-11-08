@@ -202,6 +202,7 @@ tags: [lookup]
 - 掴 --> 国
 - 报 --> 報
 - 捲 --> 巻
+- 擧 --> 挙
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

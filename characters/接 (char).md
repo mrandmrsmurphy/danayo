@@ -27,9 +27,8 @@ danayo_id: 2111
 mc_id: 1047
 graphemic_classification: "妾"
 stand_in: "接"
-aliases:
 注音: "ㄐㄛㄆ"
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character

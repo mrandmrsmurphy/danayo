@@ -14,6 +14,10 @@ date-last-perfect: 2026-10-05
 2. <ruby>[興](../../characters/興%20(char).md)<rt>ㄏㄜㄫ</rt></ruby> - entertain
 3. <ruby>[舅](../../characters/舅.md)<rt>ㄍ⼜ㄛ</rt></ruby> - maternal uncle
 
+### Aliases
+- 舉 --> 挙
+- 舊 --> 旧
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

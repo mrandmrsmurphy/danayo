@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 暗 perfected to the current standard:** `mc_id` changed from 2372 to 1736, the rank of its alias 闇 (written by `alias_tool.py`, which also reworded the rank bullet); `## Aliases` section for 闇 (an alternative form on 暗's page; EDRDG SKIP 3-8-9, 17 strokes), redirects added; OC present, twelve words and 暗送秋波 verified. [AI]
+
+- **Character loop, 暑 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 1374 confirmed in CC 1000, OC \*hjaʔ matches Wiktionary, the one word verified. [AI]
+
+- **Character loop, 昨 perfected to the current standard:** added OC \*zaːɡ (Zhengzhang via en.Wiktionary) and removed an empty `aliases:` key; no aliases; rank 3844 confirmed in CC 3000, six words verified. [AI]
+
+- **Character loop, 旧 perfected to the current standard:** added OC \*ɡʷɯs (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 舊 (traditional form; EDRDG SKIP 2-3-14, 17 strokes; its rank 873 is the page's `mc_id`, bullet reworded to credit it), redirects added; seven words and 事事皆旧 verified. [AI]
+
+- **Character loop, 接 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 1047 confirmed in CC 1000, OC \*ʔseb matches Wiktionary, twenty words verified. [AI]
+
+- **Character loop, 挙 perfected to the current standard:** added OC \*klaʔ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 舉 (traditional; EDRDG SKIP 2-11-5, 16 strokes; its rank 227 is the page's `mc_id`, bullet reworded to credit it), 擧 (kyūjitai; EDRDG 2-11-6, 18 strokes) and 举 (simplified; SKIP 2-5-4 computed, 9 strokes), redirects added; three words verified. [AI]
+
+- **Character loop, 投 stamped to the current standard:** removed an empty `aliases:` key; no aliases; rank 1287 confirmed in CC 1000, OC \*doː matches Wiktionary, four words and 珠投猪前 verified. [AI]
+
 - **Character loop, 成 perfected to the current standard:** `## Aliases` section for 鯎 (Japanese dace, 魚 + 成; EDRDG SKIP 1-11-7, 17 strokes) and 晟 ('bright', 日 + 成; EDRDG 2-4-6, 11 strokes), neither linked to 成 on Wiktionary, redirects added; rank 93 confirmed in CC 0000, OC \*djeŋ matches Wiktionary, twenty-two words, four chengyu and three derived characters verified. [AI]
 
 - **Character loop, 愛 perfected to the current standard:** added OC \*qɯːds (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 爱 (simplified; SKIP 2-4-6 computed, 10 strokes), 㤅 (original form; SKIP 2-4-4 computed, 8 strokes) and 薆 (archaic alternative per 愛's page; EDRDG 2-3-13, 16 strokes), redirects added; rank 362 confirmed in CC 0000, twenty-one words, four chengyu and 曖 verified. [AI]

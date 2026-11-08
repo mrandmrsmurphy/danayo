@@ -32,7 +32,7 @@ stand_in: 旧
 aliases:
   - 舊
 注音: ㄍ⼜ㄛ
-date-last-perfect: 2026-10-14
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -46,10 +46,15 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声: semantic 雈 ("owl," no vault page) + phonetic [[臼 (char)|臼]] (OC \*ɡuʔ) — originally a type of owl, later phonetically borrowed for a homophonous word meaning "old."
+- 形声 (OC \*ɡʷɯs): semantic 雈 ("owl," no vault page) + phonetic [[臼 (char)|臼]] (OC \*ɡuʔ) — originally a type of owl, later phonetically borrowed for a homophonous word meaning "old."
 - [SKIP-1-1-4](../lookup/SKIP/SKIP-1/SKIP-1-1-4.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
-- 873rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜ㄛ](../syllables/ㄍ⼜ㄛ.md)
+- 873rd most used character in Classical Chinese, the rank of its alias 舊 (旧 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜ㄛ](../syllables/ㄍ⼜ㄛ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 舊
+The traditional form ("old; former"); Wiktionary's 舊 page lists 旧 as the Japanese shinjitai and simplified Chinese form, and 旧's page explains the simplification. It carries the classical rank of 873, which is the page's `mc_id`. SKIP 2-3-14; 17 strokes. Radical 134 臼. It ranks 873 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[旧]]<rt>ㄍ⼜ㄛ</rt></ruby> "paleo-; former; old" (stand-in for 旧)
