@@ -256,6 +256,8 @@ tags: [lookup]
 - 㶂 - 국자: 황 (“the first note, 황종 (黃鍾, hwangjong) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 澡 - 官话: Replace with 沐浴, HSK/2
+- 濺 - 官话: HSK/3.
+- 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
 
 ## Data check
 ```dataview

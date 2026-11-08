@@ -29,6 +29,10 @@ tags: [lookup]
 - 别 --> 別
 - 删 --> 刪
 
+### Forbidden
+- 盯 - 官话: HSK/3, Chinese only.
+- 竍 - 国字: 'decaliter' --> 十升
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

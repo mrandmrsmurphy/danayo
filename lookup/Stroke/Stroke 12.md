@@ -69,6 +69,12 @@ tags: [lookup]
 - 椧 - 국자: Korean-coined hanja for 'gutter' (we use 排水溝), 명
 - 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
 - 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
+- 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
+- 喂 - 官话: HSK/1, but not international -- used for the phone-answering "hello" sound in Chinese.
+- 愣 - 官话: HSK/3.
+- 揪 - 官话: HSK/3.
+- 掰 - 官话: HSK/4, recent Mandarin coinage.
+- 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).
 
 ## Data check
 ```dataview

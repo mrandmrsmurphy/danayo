@@ -63,6 +63,7 @@ tags: [lookup]
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구
+- 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.
 
 ## Data check
 ```dataview

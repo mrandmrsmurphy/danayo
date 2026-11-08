@@ -75,6 +75,14 @@ tags:
 - 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
 - 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.
+- 捡 - 官话: Simplified form of 撿, 'to pick up'; Mandarin
+- 砸 - 官话: HSK/3.  Modern Mandarin coinage.
+- 陡 - 官话: HSK/3.
+- 捆 - 官话: HSK/2, but no international pedigree.
+- 丵 - 混乱: Component only -- semantic component of [[叢]] (alongside phonetic 取). Its real Middle Chinese placement would fall in the already heavily-populated ㄐㄚㄎ/ㄐㄛㄎ syllables, so it isn't being elevated to its own Dan'a'yo character; no independent meaning needed.
+- 叟 - 混乱: Real word ("old man"), listed on 表外字 (Hyōgai) only, no other list. Component in [[嫂]]/[[捜]]/[[痩 (char)|痩]].
+- 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.
+- 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
 
 ## Data check
 ```dataview

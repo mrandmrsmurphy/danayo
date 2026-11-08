@@ -50,6 +50,12 @@ tags:
 - 扒 - 官话: HSK/3 and 4, but Chinese only.
 - 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
 - 㒱 - 국자: Korean variant of 夢 'dream'
+- 叼 - 官话: HSK/4, but very made-up.
+- 冋 - 混乱: "Distant borders; the wilderness beyond the city" (Shuowen). Component only -- phonetic component of [[迥]], though 迥 uses 冋's voiced OC variant (ɡʷeːŋʔ), not its own primary voiceless-initial reading (modern jiōng vs 迥's jiǒng) -- real placement would need separate research, not a simple match to 迥's own syllable.
+- 龸 - 幽霊文字: Zero notes, zero real citations in this vault -- a bare decomposition-component glyph.
+- 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.
+- 凧 - 国字: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
+- 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
 
 ## Data check
 ```dataview

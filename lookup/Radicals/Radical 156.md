@@ -35,6 +35,8 @@ tags: [lookup]
 
 ### Forbidden
 - 趁 - 官话: HSK/2, but Chinese only.  Vars: 趂 , 𧼇, 賺 , 赚.
+- 趟 - 官话: HSK/2.
+- 趕 - 官话: HSK/2, Mandarin only.
 
 ## Data check
 ```dataview

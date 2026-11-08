@@ -62,6 +62,13 @@ tags:
 - 㣴 - 국자: Korean-coined hanja for '황' ('the first note, 황종 (黃鐘, hwangjong) of the Shí-èr-lǜ musical scale')
 - 㵜 - 국자: 남 (“the tenth note, 남려 (南呂, namnyeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 獤 - 국자: 돈 (“hide of a marten”)
+- 踢 - 官话: HSK/1, but use 蹴 instead.
+- 撕 - 官话: HSK/2.
+- 趟 - 官话: HSK/2.
+- 瞇 - 官话: HSK/3.
+- 踩 - 官话: HSK/2.
+- 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
+- 諚 - 国字: "the lord's command" じょう, not used in modern times
 
 ## Data check
 ```dataview

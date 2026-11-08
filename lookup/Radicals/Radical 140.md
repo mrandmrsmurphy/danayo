@@ -177,6 +177,8 @@ tags:
 ### Forbidden
 - 莻 - 국자: 'late' - 늦
 - 虄 - 국자: '살'
+- 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
+- 获 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[獲]] ("seize, obtain, capture") and [[穫]] ("harvest, cut grain"), both built on the shared phonetic 蒦 but semantically unrelated. Rather than pick one to claim it as an alias, it's simply forbidden.
 
 ## Data check
 ```dataview

@@ -64,6 +64,13 @@ tags:
 - 眞 --> 真
 - 矍 --> 衢
 
+### Forbidden
+- 睜 - 官话: HSK/2.
+- 盯 - 官话: HSK/3, Chinese only.
+- 瞇 - 官话: HSK/3.
+- 瞧 - 官话: HSK/2, Chinese only.
+- 瞪 - 官话: HSK/3.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

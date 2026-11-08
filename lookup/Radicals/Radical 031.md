@@ -47,6 +47,9 @@ tags: [lookup]
 - 围 --> 囲
 - 國 --> 国
 
+### Forbidden
+- 圕 - 中国制造: Ligature for 図書館 'library'; uncommon in Chinese, obscure or obsolete in Japanese
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

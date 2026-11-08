@@ -25,6 +25,9 @@ tags:
 - 玑 --> 璣
 - 划 --> 劃
 
+### Forbidden
+- 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

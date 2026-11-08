@@ -55,6 +55,9 @@ tags: [lookup]
 - 嶂 --> 章
 - 屶 --> 会
 
+### Forbidden
+- 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

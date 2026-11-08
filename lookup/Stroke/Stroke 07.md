@@ -62,6 +62,13 @@ tags:
 - 找 - 中国制造: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
 - 吵 - 中国制造: "to argue" Use 弁論.  HSK/2
 - 呀 - 官话: HSK/1 and 한문교육용기초한자/이름.  Even in Mandarin, equivalent to 啊.
+- 扯 - 官话: HSK/3, but not used elsewhere.
+- 抖 - 官话: HSK/3.
+- 盯 - 官话: HSK/3, Chinese only.
+- 抓 - 官话: HSK/2, but too Mandarin, and the Japanese meaning is different.  For "grab" use 捕; for "pinch" use 捏.
+- 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
+- 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
+- 竍 - 国字: 'decaliter' --> 十升
 
 ## Data check
 ```dataview

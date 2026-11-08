@@ -90,6 +90,9 @@ tags:
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘
 - 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
+- 捡 - 官话: Simplified form of 撿, 'to pick up'; Mandarin
+- 陡 - 官话: HSK/3.
+- 捆 - 官话: HSK/2, but no international pedigree.
 
 ## Datacheck
 ```dataview

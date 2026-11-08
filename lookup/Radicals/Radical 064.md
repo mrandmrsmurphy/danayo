@@ -210,6 +210,26 @@ tags: [lookup]
 - 挖 - 官话: HSK/2.
 - 捗 - 国字: Added to Jōyō 常用漢字/高等 in 2010.  Does not appear on the HSK or Korean name characters list -- exclusively Japanese.
 - 掉 - 官话: HSK/1 and Korean Name.
+- 擋 - 官话: HSK/2, but unknown elsewhere.
+- 擠 - 官话: HSK/1.
+- 摔 - 官话: HSK/2.
+- 撕 - 官话: HSK/2.
+- 捡 - 官话: Simplified form of 撿, 'to pick up'; Mandarin
+- 搶 - 官话: HSK/2.  "Plunder, rob."
+- 扯 - 官话: HSK/3, but not used elsewhere.
+- 抖 - 官话: HSK/3.
+- 揪 - 官话: HSK/3.
+- 搓 - 官话: HSK/3.
+- 摟 - 官话: HSK/3.
+- 攏 - 官话: HSK/3.
+- 攔 - 官话: HSK/2.
+- 扛 - 官话: 'to lift with both hands; to carry on the shoulder'
+- 抓 - 官话: HSK/2, but too Mandarin, and the Japanese meaning is different.  For "grab" use 捕; for "pinch" use 捏.
+- 捆 - 官话: HSK/2, but no international pedigree.
+- 搞 - 官话: HSK/1.
+- 掀 - 官话: HSK/2.
+- 掰 - 官话: HSK/4, recent Mandarin coinage.
+- 掂 - 官话: HSK/4.
 
 ## Data check
 ```dataview

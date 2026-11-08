@@ -40,6 +40,9 @@ tags:
 
 ### Forbidden
 - 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
+- 扛 - 官话: 'to lift with both hands; to carry on the shoulder'
+- 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
+- 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
 
 ## Datacheck
 ```dataview

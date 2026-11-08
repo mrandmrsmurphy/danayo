@@ -109,6 +109,8 @@ tags:
 - 拆 - 官话: HSK/2, but not used elsewhere.
 - 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
 - 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
+- 咋 - 官话: HSK/2, but Chinese only.
+- 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
 
 ## Datacheck
 ```dataview

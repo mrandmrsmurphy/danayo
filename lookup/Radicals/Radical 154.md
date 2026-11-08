@@ -93,6 +93,9 @@ tags:
 - 赞 --> 賛
 - 賣 --> 売
 
+### Forbidden
+- 贏 - 官话: HSK/1, but use 勝 instead for "to win".
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

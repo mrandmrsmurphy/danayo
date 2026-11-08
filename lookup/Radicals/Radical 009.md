@@ -209,6 +209,7 @@ aliases:
 - 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
 - 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person
 - 們 - 中国制造: HSK/1 and Korean Name but solely Chinese.  Use 等 to make plural personal pronouns.  First attested in the Song dynasty.
+- 傻 - 官话: HSK/2.
 
 ## Data check
 ```dataview

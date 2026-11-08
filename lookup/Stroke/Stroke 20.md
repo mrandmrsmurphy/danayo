@@ -29,6 +29,11 @@ tags:
 - 齣 --> 出
 - 矍 --> 衢
 
+### Forbidden
+- 嚷 - 官话: HSK/2.
+- 攔 - 官话: HSK/2.
+- 贏 - 官话: HSK/1, but use 勝 instead for "to win".
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", 注音 AS "Sound", skip_number AS "SKIP"

@@ -30,6 +30,9 @@ tags: [lookup]
 - 夋 --> 酸
 - 帋 --> 紙
 
+### Forbidden
+- 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

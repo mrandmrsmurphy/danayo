@@ -15,6 +15,9 @@ tags: [lookup]
 ### Aliases
 - 䢠 --> 送
 
+### Forbidden
+- 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

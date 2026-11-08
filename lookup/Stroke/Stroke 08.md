@@ -77,6 +77,9 @@ tags:
 - 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
 - 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
 - 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
+- 咋 - 官话: HSK/2, but Chinese only.
+- 亟 - 混乱: "Urgently, repeatedly, extremely" in Classical Chinese. Component only -- phonetic component of [[極 (char)|極]].
+- 岾 - 国字: Both J and K invented this?!  On 敎育用基礎漢字/名.
 
 ## Data check
 ```dataview

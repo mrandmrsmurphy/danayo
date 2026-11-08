@@ -74,6 +74,12 @@ tags:
 - 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
 - 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.
 - 掉 - 官话: HSK/1 and Korean Name.
+- 啦 - 官话: Mandarin colloquial sentence-final particle, a contraction of 了啊 (le a)
+- 焊 - 官话: HSK/3.
+- 脖 - 官话: HSK/2.
+- 掀 - 官话: HSK/2.
+- 笨 - 官话: 'stupid; clumsy; heavy'
+- 掂 - 官话: HSK/4.
 
 ## Data check
 ```dataview

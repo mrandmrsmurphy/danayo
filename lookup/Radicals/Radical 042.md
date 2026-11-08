@@ -33,6 +33,9 @@ tags: [lookup]
 ### Aliases
 - 尝 --> 嘗
 
+### Forbidden
+- 龸 - 幽霊文字: Zero notes, zero real citations in this vault -- a bare decomposition-component glyph.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

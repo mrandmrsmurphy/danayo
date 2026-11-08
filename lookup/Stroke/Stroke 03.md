@@ -35,6 +35,7 @@ tags:
 - 㐈 - 국자: Korean-coined hanja for '둘'
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)
 - 亍 - 국자: Korean place names 촉
+- 卂 - 混乱: "To fly swiftly" (Shuowen). Purely archaic, never used standalone. Component only -- phonetic component of [[虱 (char)|虱]], [[訊]], and [[迅]].
 
 ## Data check
 ```dataview

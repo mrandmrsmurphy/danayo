@@ -56,6 +56,10 @@ tags:
 ### Forbidden
 - 跟 - 中国制造: HSK/1, Use 踵 instead
 - 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'
+- 踢 - 官话: HSK/1, but use 蹴 instead.
+- 蹬 - 官话: HSK/3.
+- 蹭 - 官话: HSK/4.
+- 踩 - 官话: HSK/2.
 
 ## Data check
 ```dataview

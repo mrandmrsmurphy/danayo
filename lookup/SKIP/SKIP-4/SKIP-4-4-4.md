@@ -20,6 +20,10 @@ tags: [lookup]
 7. <ruby>[夭](characters/夭.md)<rt>⼄ㄨ</rt></ruby> "to die young"
 8. <ruby>[戈](characters/戈.md)<rt>ㄍ⺢</rt></ruby> "dagger-axe"
 
+### Forbidden
+- 卅 - 混乱: Classical ligature for "thirty" (= 三十). No existing vault citations; redundant with the compositional 三十.
+- 匁 - 国字: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

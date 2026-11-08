@@ -20,6 +20,9 @@ tags: [lookup]
 ### Aliases
 - 當 --> 当
 
+### Forbidden
+- 罩 - 官话: HSK/3.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

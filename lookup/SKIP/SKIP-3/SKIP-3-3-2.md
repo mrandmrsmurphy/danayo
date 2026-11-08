@@ -30,6 +30,7 @@ tags: [lookup]
 
 ### Forbidden
 - 込 --> Japanese 国字 "crowded", [[文法 - 98違法字|forbidden]]; use 入 for the sound, 複雜 for the meaning
+- 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
 
 ## Datacheck
 ```dataview

@@ -44,6 +44,10 @@ tags: [lookup]
 - 单 --> 単
 - 卖 --> 売
 
+### Forbidden
+- 卂 - 混乱: "To fly swiftly" (Shuowen). Purely archaic, never used standalone. Component only -- phonetic component of [[虱 (char)|虱]], [[訊]], and [[迅]].
+- 卅 - 混乱: Classical ligature for "thirty" (= 三十). No existing vault citations; redundant with the compositional 三十.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

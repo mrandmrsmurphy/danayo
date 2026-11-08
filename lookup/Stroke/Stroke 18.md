@@ -56,6 +56,7 @@ tags:
 - 㶃 - 국자: 무 (“the eleventh note, 무역 (無射, muyeok) of the Shí-èr-lǜ musical scale that is two octaves higher”)
 - 䆆 - 국자: dry rice
 - 䭏 - 국자: '편'
+- 濺 - 官话: HSK/3.
 
 ## Data check
 ```dataview

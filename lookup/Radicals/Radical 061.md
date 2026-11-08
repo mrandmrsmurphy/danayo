@@ -171,6 +171,9 @@ tags: [lookup]
 - 怕 - 官话: HSK/1, Grade 2.  Use 恐 instead.
 - 怎 - 混乱: HSK/1, but too close to 何
 - 慍 - 混乱: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
+- 愣 - 官话: HSK/3.
+- 憋 - 官话: HSK/4.
+- 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.
 
 ## Data check
 ```dataview

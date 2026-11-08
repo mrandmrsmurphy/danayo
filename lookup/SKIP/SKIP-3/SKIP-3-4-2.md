@@ -17,6 +17,9 @@ tags: [lookup]
 5. <ruby>[考](/characters/考.md)<rt>ㄎㄚㄨ</rt></ruby> "consider; regard"
 6. <ruby>[肉](characters/肉%20(char).md)<rt>ㄋㄨㄎ</rt></ruby> "meat"
 
+### Forbidden
+- 𢦏 - 幽霊文字: Wiki's own note: "not really a word ever, anywhere." Component in 戴/載/裁/截/臷/蛓/哉/胾/栽/烖/酨/𨚵.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

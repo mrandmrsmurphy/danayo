@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[甫](../../characters/甫.md)<rt>ㄆㄨ</rt></ruby> - just now
 3. <ruby>[甬](../../characters/甬.md)<rt>⼄ㄫ</rt></ruby> - Yong River
 
+### Forbidden
+- 甭 - 官话: HSK/3.  A northern Mandarin colloquial contraction of 不 + 用 (needn't).
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

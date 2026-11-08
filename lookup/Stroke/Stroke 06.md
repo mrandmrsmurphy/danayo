@@ -55,6 +55,13 @@ tags:
 - 伙 - 異体字: Used only in simplified Chinese (for 夥), though it is an ancient character
 - 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.
 - 丟 - 中国制造: HSK/1, but mainly Chinese.
+- 扛 - 官话: 'to lift with both hands; to carry on the shoulder'
+- 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.
+- 𢦏 - 幽霊文字: Wiki's own note: "not really a word ever, anywhere." Component in 戴/載/裁/截/臷/蛓/哉/胾/栽/烖/酨/𨚵.
+- 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
+- 汢 - 国字: Abbreviation of 浄土 (jōdo, “the Pure Land”) found in esoteric <ruby>佛教<rt>ㄅㄨㄊㄍ⼄ㄨ</rt></ruby>. Otherwise used only in the place name 汢の川 (Nutanogawa).
+- 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
+- 辿 - 国字: On 日本人名用漢字, but relatively unused
 
 ## Data check
 ```dataview

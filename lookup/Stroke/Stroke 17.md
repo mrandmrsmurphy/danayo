@@ -55,6 +55,9 @@ tags:
 - 臉 - 官话: HSK/2, 'cheek', 'face' --> 頬, 面; radical ⺼ (肉)
 - 鮨 - 国字: 'sushi'; an old Chinese character (minced fish) that Japan reused for sushi, and Chinese now borrows back
 - 𬧬 - 国字: Variant of 躾, 国字 for 'discipline, teaching manners'
+- 擠 - 官话: HSK/1.
+- 瞧 - 官话: HSK/2, Chinese only.
+- 瞪 - 官话: HSK/3.
 
 ## Data check
 ```dataview

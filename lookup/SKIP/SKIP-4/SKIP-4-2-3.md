@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[十](/characters/十%20(char).md)<rt>ㄙㄧㄆ</rt></ruby> - ten
 
+### Forbidden
+- 𠂇 - 幽霊文字: Component in 冇/厷/友/右/在/存/左/布/有/灰 and others; zero real citations in this vault.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

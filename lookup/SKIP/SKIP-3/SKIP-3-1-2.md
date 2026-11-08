@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[刃](/characters/刃.md)<rt>ㄋㄧㄋ</rt></ruby> - blade
 
+### Forbidden
+- 卂 - 混乱: "To fly swiftly" (Shuowen). Purely archaic, never used standalone. Component only -- phonetic component of [[虱 (char)|虱]], [[訊]], and [[迅]].
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

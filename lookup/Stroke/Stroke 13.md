@@ -74,6 +74,18 @@ tags:
 - 嗎 - 中国制造: Chinese SFP.  Use 乎 instead.  HSK/1
 - 躲 - 官话: HSK/2.  'dodge, evade'  Use 避 instead
 - 慍 - 混乱: While common enough in ancient works, it has fallen out of use across the region.  Replace with 怒. var 愠
+- 筷 - 官话: 'chopsticks' --> 箸.  HSK/2
+- 嗯 - 官话: HSK/1.  Chinese SFP of recent coinage.
+- 睜 - 官话: HSK/2.
+- 傻 - 官话: HSK/2.
+- 搶 - 官话: HSK/2.  "Plunder, rob."
+- 圕 - 中国制造: Ligature for 図書館 'library'; uncommon in Chinese, obscure or obsolete in Japanese
+- 嗡 - 官话: HSK/3.
+- 搓 - 官话: HSK/3.
+- 罩 - 官话: HSK/3.
+- 搞 - 官话: HSK/1.
+- 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
+- 靹 - 国字: Archer's arm protector.  Poss same as 䪏
 
 ## Data check
 ```dataview

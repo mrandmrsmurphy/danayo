@@ -122,6 +122,9 @@ tags:
 ### Forbidden
 - 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대
 - 垉 - 混乱: Rare; Wiktionary gives only 'collapse, break'
+- 垮 - 官话: HSK/4, but novel.
+- 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.
+- 圸 - 国字: 国字 for 'cliff', used only in place names in Yamagata Prefecture
 
 ## Data check
 ```dataview

@@ -22,6 +22,9 @@ tags: [lookup]
 10. <ruby>[有](characters/有%20(char).md)<rt>⼜</rt></ruby> "have"
 11. <ruby>[灰](characters/灰%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> "ashes"
 
+### Forbidden
+- 凪 - 国字: Invented character in Japan for 'calm, lull'.  On 日本人名用漢字.  Just use 和
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

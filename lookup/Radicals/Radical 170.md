@@ -65,6 +65,9 @@ tags: [lookup]
 ### Aliases
 - 阳 --> 陽
 
+### Forbidden
+- 陡 - 官话: HSK/3.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

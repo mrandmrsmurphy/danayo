@@ -35,6 +35,7 @@ _no +0, because it is not a stand-alone character_
 
 ### Forbidden
 - 㐃 - 국자: Variant of 亇, 'hammer'/마/망치, use 槌
+- 丵 - 混乱: Component only -- semantic component of [[叢]] (alongside phonetic 取). Its real Middle Chinese placement would fall in the already heavily-populated ㄐㄚㄎ/ㄐㄛㄎ syllables, so it isn't being elevated to its own Dan'a'yo character; no independent meaning needed.
 
 ## Data check
 ```dataview

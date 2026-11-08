@@ -21,6 +21,9 @@ tags: [lookup]
 9. <ruby>[艙](../../characters/艙.md)<rt>ㄑ⺢ㄫ</rt></ruby> - cabin
 10. <ruby>[艦](../../characters/艦.md)<rt>ㄏㄚㄇ</rt></ruby> - warship
 
+### Forbidden
+- 艘 - 官话: HSK/3.
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

@@ -30,6 +30,10 @@ tags: [lookup]
 - 內 --> 内
 - 风 --> 風
 
+### Forbidden
+- 历 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[暦]] ("calendar, almanac") and [[歴]] ("past, experience, history"). Rather than pick one to claim it as an alias, or split its meaning across both, it's simply forbidden.
+- 匂 - 国字: A "new" Japanese character.  <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

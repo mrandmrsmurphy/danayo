@@ -103,6 +103,11 @@ tags: [lookup]
 62. <ruby>[鑼](../../characters/鑼.md)<rt>ㄌㄚ</rt></ruby> - gong
 63. <ruby>[鑽](../../characters/鑽.md)<rt>ㄐㄚㄋ</rt></ruby> - diamond (jewel)
 
+### Forbidden
+- 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
+- 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
+- 鏟 - 官话: HSK/3. "Shovel" -- others use 鍬 instead. No existing vault citations.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

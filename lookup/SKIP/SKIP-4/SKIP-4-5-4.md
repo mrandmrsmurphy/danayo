@@ -21,6 +21,9 @@ tags: [lookup]
 ### Aliases
 - 发 --> 発
 
+### Forbidden
+- 𡗗 - 幽霊文字: Component in 春/奉/奏/秦/泰; zero real citations in this vault.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

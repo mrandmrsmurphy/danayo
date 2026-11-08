@@ -26,6 +26,10 @@ tags: [lookup]
 ### Aliases
 - 囘 --> 回
 
+### Forbidden
+- 冋 - 混乱: "Distant borders; the wilderness beyond the city" (Shuowen). Component only -- phonetic component of [[迥]], though 迥 uses 冋's voiced OC variant (ɡʷeːŋʔ), not its own primary voiceless-initial reading (modern jiōng vs 迥's jiǒng) -- real placement would need separate research, not a simple match to 迥's own syllable.
+- 凧 - 国字: Invented character in Japan for 'kite'.  We use 鳶 for the bird and 紙鳶 for the paper.  On the 日本人名用漢字.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -47,6 +47,7 @@ Note: 三 is organized under Radical 1.
 
 ### Forbidden
 - 亍 - 국자: Korean place names 촉
+- 亟 - 混乱: "Urgently, repeatedly, extremely" in Classical Chinese. Component only -- phonetic component of [[極 (char)|極]].
 
 ## Data check
 ```dataview

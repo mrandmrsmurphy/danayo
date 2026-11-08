@@ -23,6 +23,9 @@ tags: [lookup]
 - 鞦 --> 秋
 - 韆 --> 千
 
+### Forbidden
+- 靹 - 国字: Archer's arm protector.  Poss same as 䪏
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

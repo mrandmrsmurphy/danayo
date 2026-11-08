@@ -114,6 +114,8 @@ tags: [lookup]
 ### Forbidden
 - 迲 - 국자: 한문교육용기초한자/이름 - '겁'
 - 逛 - 官话: HSK/2 but Chinese only
+- 辻 - 国字: "Crossroads" - replace with 十 or 汁.  On 日本人名用漢字.
+- 辿 - 国字: On 日本人名用漢字, but relatively unused
 
 ## Data check
 ```dataview

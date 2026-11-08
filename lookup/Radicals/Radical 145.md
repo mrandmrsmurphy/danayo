@@ -55,7 +55,6 @@ tags:
 25. <ruby>[製](../../characters/製.md)<rt>ㄐㄝ</rt></ruby> - manufacture
 - 制 --> variant of 製
 26. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
-- 复 --> simplified of 複
 
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
@@ -75,6 +74,9 @@ tags:
 ### Aliases
 - 襠 --> 当
 - 裆 --> 当
+
+### Forbidden
+- 裹 - 官话: HSK/3.  Used in words like 包裹, but only in Mandarin.
 
 ## Data check
 ```dataview

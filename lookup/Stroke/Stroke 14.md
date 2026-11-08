@@ -66,6 +66,12 @@ tags:
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻
+- 麼 - 官话: HSK/1, but use 何
+- 摔 - 官话: HSK/2.
+- 嘍 - 官话: HSK/3, but not used outside of China.
+- 摟 - 官话: HSK/3.
+- 趕 - 官话: HSK/2, Mandarin only.
+- 裹 - 官话: HSK/3.  Used in words like 包裹, but only in Mandarin.
 
 ## Data check
 ```dataview

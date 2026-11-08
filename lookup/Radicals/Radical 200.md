@@ -12,7 +12,7 @@ tags: [lookup]
 1. <ruby>[麻](../../characters/麻.md)<rt>ㄇㄚ</rt></ruby> - hemp
 
 ### Forbidden
-- 麼 --> HSK/1 but not a Dan'a'yo character; use 何
+- 麼 - 官话: HSK/1, but use 何
 - 麽 --> variant of 麼, forbidden with it
 
 ## Data check

@@ -32,6 +32,9 @@ tags: [lookup]
 19. <ruby>[兗](/characters/兗.md)<rt>⼶ㄋ</rt></ruby> "Yanzhou (place name)"
 20. <ruby>[酋](/characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> "chieftain"
 
+### Forbidden
+- 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

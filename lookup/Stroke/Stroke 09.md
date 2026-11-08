@@ -84,6 +84,11 @@ tags:
 - 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
 - 怎 - 混乱: HSK/1, but too close to 何
 - 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
+- 垮 - 官话: HSK/4, but novel.
+- 甭 - 官话: HSK/3.  A northern Mandarin colloquial contraction of 不 + 用 (needn't).
+- 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
+- 砍 - 官话: HSK/2. "To chop." No existing vault citations.
+- 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
 
 ## Data check
 ```dataview

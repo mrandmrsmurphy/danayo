@@ -36,6 +36,9 @@ tags:
 - 𫛡 --> 鴔
 - 𥎵 --> 知
 
+### Forbidden
+- 砸 - 官话: HSK/3.  Modern Mandarin coinage.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

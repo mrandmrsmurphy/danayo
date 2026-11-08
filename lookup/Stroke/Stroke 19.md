@@ -41,6 +41,10 @@ tags:
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)
+- 攏 - 官话: HSK/3.
+- 蹬 - 官话: HSK/3.
+- 蹭 - 官话: HSK/4.
+- 鏟 - 官话: HSK/3. "Shovel" -- others use 鍬 instead. No existing vault citations.
 
 ## Data check
 ```dataview

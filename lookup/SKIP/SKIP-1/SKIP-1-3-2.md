@@ -38,6 +38,7 @@ tags:
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.
 - 扒 - 官话: HSK/3 and 4, but Chinese only.
 - 扔 - 官话: HSK/2, Chinese only.  "Throw/hurl" -- use 投 instead.
+- 叼 - 官话: HSK/4, but very made-up.
 
 ## Datacheck
 ```dataview

@@ -53,6 +53,9 @@ tags: [lookup]
 ### Forbidden
 - 鱶 - 国字: 国字 for 'shark', ふか
 - 鮨 - 国字: 'sushi'; an old Chinese character (minced fish) that Japan reused for sushi, and Chinese now borrows back
+- 鮓 - 官话: Salted and fermented fish (the precursor of narezushi); Cantonese 'of poor quality'
+- 鮖 - 国字: Japanese fluvial sculpin (Cottus pollux).  Use 杜父魚
+- 鰯 - 国字: 'sardines'.  Use 沙丁魚 instead.  In the 日本人名用漢字.
 
 ## Data check
 ```dataview

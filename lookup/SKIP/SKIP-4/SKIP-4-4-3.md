@@ -24,6 +24,10 @@ tags: [lookup]
 - 书 --> 書
 - 车 --> 車
 
+### Forbidden
+- 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.
+- 朩 - 国字: Origin of katakana ホ.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

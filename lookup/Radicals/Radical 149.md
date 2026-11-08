@@ -146,6 +146,9 @@ tags: [lookup]
 - 諷 --> 風
 - 註 --> 注
 
+### Forbidden
+- 諚 - 国字: "the lord's command" じょう, not used in modern times
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

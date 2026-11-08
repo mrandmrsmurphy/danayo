@@ -15,7 +15,7 @@ tags: [lookup]
 - 隻 --> 只
 - 鬯 --> 暢
 ### Forbidden
-- 叟 - appears on [[Hyōgai]], but is really just a component in many, many other characters
+- 叟 - 混乱: Real word ("old man"), listed on 表外字 (Hyōgai) only, no other list. Component in [[嫂]]/[[捜]]/[[痩 (char)|痩]].
 - 㫇 - 국자: Korean-coined hanja for '억', used for transliteration
 
 ## Datacheck

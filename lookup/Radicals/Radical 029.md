@@ -44,6 +44,9 @@ tags: [lookup]
 - 发 --> 発
 - 㕛 --> 友
 
+### Forbidden
+- 叟 - 混乱: Real word ("old man"), listed on 表外字 (Hyōgai) only, no other list. Component in [[嫂]]/[[捜]]/[[痩 (char)|痩]].
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

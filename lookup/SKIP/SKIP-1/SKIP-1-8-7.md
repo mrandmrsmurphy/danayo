@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[鋳](/characters/鋳.md)<rt>ㄐㄨ</rt></ruby> "cast (metal); mint"
 7. <ruby>[餓](/characters/餓.md)<rt>ㄚ</rt></ruby> "hungry"
 
+### Forbidden
+- 鋁 - 官话: HSK/3. Aluminum -- Dan'a'yo uses 礬素 instead (see [[礬]]).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

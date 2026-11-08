@@ -21,6 +21,9 @@ tags: [lookup]
 9. <ruby>[迄](/characters/迄.md)<rt>ㄏㄧㄊ</rt></ruby> "extend; reach"
 10. <ruby>[迅](/characters/迅.md)<rt>ㄙ⼜ㄋ</rt></ruby> "swift"
 
+### Forbidden
+- 辿 - 国字: On 日本人名用漢字, but relatively unused
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

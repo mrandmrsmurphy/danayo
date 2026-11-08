@@ -28,6 +28,7 @@ tags: [lookup]
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'
+- 罩 - 官话: HSK/3.
 
 ## Data check
 ```dataview

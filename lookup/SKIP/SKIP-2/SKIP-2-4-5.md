@@ -38,6 +38,7 @@ tags: [lookup]
 ### Forbidden
 - 巼 - 국자: Korean-coined hanja for '팟'; place name
 - 畓 - 국자: 한문교육용기초한자/고등. Same sound as 沓, same meaning as 田.
+- 甭 - 官话: HSK/3.  A northern Mandarin colloquial contraction of 不 + 用 (needn't).
 
 ## Datacheck
 ```dataview

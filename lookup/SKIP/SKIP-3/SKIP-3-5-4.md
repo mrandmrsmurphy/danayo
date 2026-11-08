@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Forbidden
 - 瓰 - 国字: 国字 for the decigram (瓦 + 分)
+- 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
 
 ## Datacheck
 ```dataview

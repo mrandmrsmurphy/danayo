@@ -28,6 +28,9 @@ tags: [lookup]
 16. <ruby>[飽](characters/飽%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> "sated; saturated; full"
 17. <ruby>[飾](/characters/飾.md)<rt>ㄙㄧㄎ</rt></ruby> "decorate"
 
+### Forbidden
+- 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

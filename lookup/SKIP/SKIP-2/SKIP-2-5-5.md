@@ -26,7 +26,6 @@ tags: [lookup]
 ### Forbidden
 - 畠
 - 唟 - 국자: Korean-coined hanja for '것' (proto-Hangǔl); place name
-- 丵
 
 Candidates for this SKIP code not yet present in the database: 祟.
 - 㖙 - 국자: Korean-coined hanja for '갓' (proto-Hangǔl), used for transliteration; obsolete

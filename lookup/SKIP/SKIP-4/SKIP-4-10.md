@@ -11,7 +11,7 @@ size: 0
 1. No
 2. [SKIP-4-10-2](lookup/SKIP/SKIP-4/SKIP-4-10-2.md): _only redirect_
 3. [SKIP-4-10-3](lookup/SKIP/SKIP-4/SKIP-4-10-3.md): ø
-4. No
+4. [SKIP-4-10-4](lookup/SKIP/SKIP-4/SKIP-4-10-4.md): ø
 
 ## Base check
 ```base

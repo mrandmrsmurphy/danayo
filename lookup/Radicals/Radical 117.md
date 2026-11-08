@@ -31,6 +31,9 @@ tags: [lookup]
 ### +15 Strokes
 9. <ruby>[競](../../characters/競.md)<rt>ㄍ⼶ㄫ</rt></ruby> - compete
 
+### Forbidden
+- 竍 - 国字: 'decaliter' --> 十升
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

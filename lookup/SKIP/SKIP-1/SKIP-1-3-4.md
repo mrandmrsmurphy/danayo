@@ -81,6 +81,9 @@ tags:
 - 找 - 中国制造: HSK/1, but mainly Chinese.  Please use 捜 or 探 or 尋 instead.
 - 吵 - 中国制造: "to argue" Use 弁論.  HSK/2
 - 呀 - 官话: HSK/1 and 한문교육용기초한자/이름.  Even in Mandarin, equivalent to 啊.
+- 扯 - 官话: HSK/3, but not used elsewhere.
+- 抖 - 官话: HSK/3.
+- 抓 - 官话: HSK/2, but too Mandarin, and the Japanese meaning is different.  For "grab" use 捕; for "pinch" use 捏.
 
 ## Datacheck
 ```dataview

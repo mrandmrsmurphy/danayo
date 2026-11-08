@@ -34,6 +34,9 @@ tags:
 ### Aliases
 - 說 --> 説
 
+### Forbidden
+- 趕 - 官话: HSK/2, Mandarin only.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

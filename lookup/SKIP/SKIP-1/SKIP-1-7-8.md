@@ -33,6 +33,12 @@ tags:
 21. <ruby>[醇](characters/醇.md)<rt>ㄙㄨㄋ</rt></ruby> "good wine"
 22. <ruby>[鋒](characters/鋒.md)<rt>ㄈㄛㄫ</rt></ruby> "point of a spear"
 
+### Forbidden
+- 踢 - 官话: HSK/1, but use 蹴 instead.
+- 趟 - 官话: HSK/2.
+- 踩 - 官话: HSK/2.
+- 諚 - 国字: "the lord's command" じょう, not used in modern times
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

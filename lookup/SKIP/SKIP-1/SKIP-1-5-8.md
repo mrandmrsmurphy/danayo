@@ -35,7 +35,7 @@ tags: [lookup]
 
 ### Forbidden
 - 碰 - 中国制造: Recent coinage/adoption; probably a recent colloquial form of 逢. Radical 石 (+並)
-
+- 睜 - 官话: HSK/2.
 ### Aliases
 - 雏 --> 雛
 - 號 --> 号

@@ -24,6 +24,9 @@ tags: [lookup]
 11. <ruby>[歆](characters/歆.md)<rt>ㄏㄨㄇ</rt></ruby> "be pleased"
 12. <ruby>[飲](characters/飲%20(char).md)<rt>ㄨㄇ</rt></ruby> "drink"
 
+### Forbidden
+- 靹 - 国字: Archer's arm protector.  Poss same as 䪏
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

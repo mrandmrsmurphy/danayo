@@ -32,6 +32,9 @@ tags:
 - 眀 --> 明
 - 秌 --> 秋
 
+### Forbidden
+- 砍 - 官话: HSK/2. "To chop." No existing vault citations.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

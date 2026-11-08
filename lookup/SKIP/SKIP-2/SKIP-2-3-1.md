@@ -18,6 +18,7 @@ tags: [lookup]
 - 㐋 - 국자: Korean-coined hanja for '톨', used for transliteration
 - 𠃗 - 국자: Korean-coined hanja for '울', used for transliteration. On 単亜語/敎育用基礎漢字/名
 - 乤 - 국자: Korean-coined hanja for '할', first character of the place name 乤浦 (Halpho)
+- 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
 
 ## Datacheck
 ```dataview

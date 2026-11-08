@@ -152,6 +152,9 @@ tags:
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름
 - 啤 - 方言: Cantonese coinage of 1828 in Canton ('beer'), now HSK 1
+- 喂 - 官话: HSK/1, but not international -- used for the phone-answering "hello" sound in Chinese.
+- 愣 - 官话: HSK/3.
+- 揪 - 官话: HSK/3.
 
 ## Datacheck
 ```dataview

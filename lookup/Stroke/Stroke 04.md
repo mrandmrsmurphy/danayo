@@ -39,6 +39,13 @@ tags: [lookup]
 - 㐋 - 국자: Korean-coined hanja for '톨', used for transliteration
 - 𠃗 - 국자: Korean-coined hanja for '울', used for transliteration. On 単亜語/敎育用基礎漢字/名
 - 乤 - 국자: Korean-coined hanja for '할', first character of the place name 乤浦 (Halpho)
+- 卅 - 混乱: Classical ligature for "thirty" (= 三十). No existing vault citations; redundant with the compositional 三十.
+- 龶 - 幽霊文字: Not a character, not listed as a radical in traditional tables. Component in 𦤳/毒/责/靑/青/素/責/麦; zero real citations in this vault.
+- 龷 - 幽霊文字: Component in 共/散/昔/黄/龶 and others; zero real citations in this vault.
+- 历 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[暦]] ("calendar, almanac") and [[歴]] ("past, experience, history"). Rather than pick one to claim it as an alias, or split its meaning across both, it's simply forbidden.
+- 匁 - 国字: A native Japanese unit of weight (momme).  It was a former Jōyō character, but since 2010, it is merely 日本人名用漢字.
+- 匂 - 国字: A "new" Japanese character.  <ruby>単亜語<rt>ㄉㄚㄋ·ㄚ⼄</rt></ruby> uses 味覚 for "smell".  This character was added to the 常用/高等 in 2010.
+- 朩 - 国字: Origin of katakana ホ.
 
 ## Data check
 ```dataview

@@ -34,6 +34,10 @@ tags:
 22. <ruby>[規](characters/規.md)<rt>ㄍㄨㄧ</rt></ruby> "rules"
 23. <ruby>[豚](characters/豚%20(char).md)<rt>ㄊㄨㄋ</rt></ruby> "pig"
 
+### Forbidden
+- 焊 - 官话: HSK/3.
+- 脖 - 官话: HSK/2.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

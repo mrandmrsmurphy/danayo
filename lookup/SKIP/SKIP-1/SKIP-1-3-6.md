@@ -85,6 +85,7 @@ tags:
 - 挖 - 官话: HSK/2.
 - 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
 - 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
+- 垮 - 官话: HSK/4, but novel.
 
 ## Datacheck
 ```dataview

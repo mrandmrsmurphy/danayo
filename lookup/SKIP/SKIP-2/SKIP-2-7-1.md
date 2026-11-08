@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Forbidden
 - 乷 - 국자: Korean-coined hanja for '살', used for transliteration. On 単亜語/敎育用基礎漢字/名
+- 亟 - 混乱: "Urgently, repeatedly, extremely" in Classical Chinese. Component only -- phonetic component of [[極 (char)|極]].
 
 ## Datacheck
 ```dataview

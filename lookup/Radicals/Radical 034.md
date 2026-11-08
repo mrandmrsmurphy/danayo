@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[変](../../characters/変%20(char).md)<rt>ㄅ⼶ㄋ</rt></ruby> - change
 2. <ruby>[夌](../../characters/夌.md)<rt>ㄌ⼜ㄫ</rt></ruby> - dawdle
 
+### Forbidden
+- 复 - 官话: The ancient shared phonetic root of [[復]] and [[複]] -- legitimately cited by both. But Mandarin also uses bare 复 as the Mainland Chinese simplification for *both* characters, which is ambiguous (they're semantically distinct: "return" vs. "complex/duplicate"). Forbidden as a standalone character for that reason; not claimed as an alias of either.
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

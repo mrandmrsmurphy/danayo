@@ -201,6 +201,14 @@ tags: [lookup]
 - 呢 - 混乱: HSK/1
 - 哎 - 官话: HSK/2.  Mandarin-specific exclamation sound, never shared internationally.
 - 咱 - 官话: HSK/1.  Mandarin-specific inclusive/exclusive first-person-plural system.  Use 我等 instead.
+- 啦 - 官话: Mandarin colloquial sentence-final particle, a contraction of 了啊 (le a)
+- 喂 - 官话: HSK/1, but not international -- used for the phone-answering "hello" sound in Chinese.
+- 嗯 - 官话: HSK/1.  Chinese SFP of recent coinage.
+- 嚷 - 官话: HSK/2.
+- 叼 - 官话: HSK/4, but very made-up.
+- 咋 - 官话: HSK/2, but Chinese only.
+- 嗡 - 官话: HSK/3.
+- 嘍 - 官话: HSK/3, but not used outside of China.
 
 ## Data check
 ```dataview

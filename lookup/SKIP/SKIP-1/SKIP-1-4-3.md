@@ -38,6 +38,9 @@ tags:
 - 祂 --> 他
 - 邨 --> 村
 
+### Forbidden
+- 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

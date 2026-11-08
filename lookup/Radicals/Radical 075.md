@@ -228,6 +228,8 @@ tags: [lookup]
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)
 - 㭐 - 국자: daenama (대나마, 大奈麻) – the tenth (10th) rank in the class system of the ancient Silla dynasty
+- 棵 - 官话: Measure word for trees in Chinese, but unused elsewhere.
+- 朩 - 国字: Origin of katakana ホ.
 
 ## Data check
 ```dataview
