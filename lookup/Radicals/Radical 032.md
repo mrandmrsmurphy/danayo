@@ -118,6 +118,8 @@ tags:
 ### Aliases
 - 圣 --> 聖
 - 坮 --> 台
+- 场 --> 場
+- 塲 --> 場
 
 ### Forbidden
 - 垈 - 国字: 한문교육용기초한자/이름, surprisingly; Japanese 国字 for a house site, also Korean 대

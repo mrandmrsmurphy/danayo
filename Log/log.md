@@ -4,6 +4,20 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Character loop, 定 perfected to the current standard:** added OC \*teːŋs, \*deːŋs (and the phonetic 正's \*tjeŋ, \*tjeŋs) from en.Wiktionary to the graphemic bullet; `## Aliases` section for the rare variant 㝎 (SKIP 2-3-4 computed, 7 strokes, bare mention) with redirects; `mc_id` 250 confirmed. [AI]
+
+- **Character loop, 官 perfected to the current standard:** added OC \*koːn (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 177 confirmed; word verified. [AI]
+
+- **Character loop, 完 perfected to the current standard:** OC \*ɦŋoːn already present and confirmed against en.Wiktionary; no aliases, so no `## Aliases` section; `mc_id` 1467 confirmed; word verified. [AI]
+
+- **Character loop, 守 perfected to the current standard:** added OC \*qʰljuʔ, \*qʰljus (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 155 confirmed; word verified. [AI]
+
+- **Character loop, 失 perfected to the current standard:** added OC \*hliɡ (Zhengzhang via en.Wiktionary) to the graphemic bullet; `## Aliases` section for 佚 (SKIP 1-2-5 from EDRDG, 7 strokes, CC rank 1589) with redirects; `mc_id` 180 confirmed (lower than 佚's rank). [AI]
+
+- **Character loop, 場 perfected to the current standard:** OC \*l'aŋ already present and confirmed; `## Aliases` section for 场 (SKIP 1-3-3 computed, 6 strokes) and 塲 (SKIP 1-3-11 from EDRDG, 14 strokes) with redirects; `mc_id` 2695 confirmed. [AI]
+
+- **Character loop, 堂 perfected to the current standard:** corrected the OC on the graphemic bullet to 堂's own \*daːŋ (the page had given the phonetic 尚's \*djaŋ, \*djaŋs, which now appears as 尚's value) per en.Wiktionary; no aliases, so no `## Aliases` section; `mc_id` 720 confirmed; word verified. [AI]
+
 - **Character loop, 基 perfected to the current standard:** added OC \*kɯ (Zhengzhang via en.Wiktionary) to the graphemic bullet; no aliases, so no `## Aliases` section; `mc_id` 1612 confirmed; word verified. [AI]
 
 - **Character loop, 城 perfected to the current standard:** OC \*djeŋ already present and confirmed against en.Wiktionary; no aliases, so no `## Aliases` section; `mc_id` 181 confirmed; word verified. [AI]

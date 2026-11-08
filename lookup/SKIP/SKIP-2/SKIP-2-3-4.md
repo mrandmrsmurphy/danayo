@@ -48,6 +48,7 @@ tags:
 ### Aliases
 - 芩 --> 今
 - 呙 --> 咼
+- 㝎 --> 定
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

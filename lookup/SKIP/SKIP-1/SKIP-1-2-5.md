@@ -37,6 +37,7 @@ tags:
 ### Aliases
 - 鸡 --> 鶏
 - 诏 --> 詔
+- 佚 --> 失
 
 ### Forbidden
 - 你 - 中国制造: HSK/1, but solely Chinese.  Use 君 for second-person

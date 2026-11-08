@@ -88,6 +88,7 @@ tags:
 ### Aliases
 - 宔 --> 主
 - 宥 --> 有
+- 㝎 --> 定
 
 ## Data check
 ```dataview
