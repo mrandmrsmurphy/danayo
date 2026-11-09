@@ -33,19 +33,13 @@ stand_in: 屎
 aliases:
   - 𦳊
   - 宩
-  - 𡱁
-  - 𡲑
-  - 𡲔
-  - 𡲖
-  - 𥺶
-  - 𥻐
 注音: ㄏㄜ
 kwin: false
 tags:
   - character
   - hapax
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 屎.
 >For the word, see [屎](../words/屎.md)
@@ -59,6 +53,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-3-6](Lookup/SKIP/SKIP-3/SKIP-3-3-6.md) ([Stroke 09](Lookup/Stroke/Stroke%2009.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 4079`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄏㄜ](../syllables/ㄏㄜ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 4](Lookup/HSK/Old%20HSK%204.md), [Hyōgai](Lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](Lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 𦳊
+The small seal script form of 屎, "dung". SKIP 2-3-9 (computed: EDRDG does not list it); 13 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
+### 宩
+A variant form of 屎. SKIP 2-3-6; 9 strokes. Radical 040 宀. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[屎]]<rt>ㄏㄜ</rt></ruby> "excrement"

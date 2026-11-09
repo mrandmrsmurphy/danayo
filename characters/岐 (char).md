@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 岐.
 >For the word, see [岐](../words/岐.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 982nd most used character in Classical Chinese (recorded under the traditional form 歧). Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄍㄝ](../syllables/ㄍㄝ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 歧
+止 + 支, "fork in a road"; a variant of 岐 and kept as an alias. SKIP 1-4-4; 8 strokes. Radical 077 止. It ranks 982 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[岐]]<rt>ㄍㄝ</rt></ruby> "fork (in road)" (stand-in for 岐)

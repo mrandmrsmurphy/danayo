@@ -130,6 +130,10 @@ tags:
 - 娱 --> 娯
 - 宼 --> 寇
 - 冦 --> 寇
+- 峽 --> 峡
+- 峩 --> 峨
+- 峯 --> 峰
+- 埈 --> 峻
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -51,6 +51,8 @@ tags:
 - 菠 --> 波
 - 寃 --> 冤
 - 萋 --> 妻
+- 崗 --> 岡
+- 崧 --> 嵩
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

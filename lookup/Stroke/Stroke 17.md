@@ -91,6 +91,7 @@ tags:
 - 薶 --> 埋
 - 隳 --> 堕
 - 䩊 --> 婉
+- 嶽 --> 岳
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

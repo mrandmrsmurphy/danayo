@@ -62,6 +62,7 @@ tags:
 23. <ruby>[埋](../../characters/埋.md)<rt>ㄇ⼶</rt></ruby> - bury
 24. <ruby>[培](../../characters/培.md)<rt>ㄈㄛㄧ</rt></ruby> - cultivate
 - 埗 --> 埠
+- 埈 --> 峻
 
 ### +8 Strokes
 25. <ruby>[域](../../characters/域%20(char).md)<rt>ㄨㄧㄎ</rt></ruby> - domain

@@ -48,6 +48,7 @@ tags:
 18. <ruby>[宣](../../characters/宣.md)<rt>ㄙㄝㄋ</rt></ruby> - announce
 19. <ruby>[室](../../characters/室.md)<rt>ㄙㄧㄊ</rt></ruby> - room
 - 宫 --> 宮
+- 宩 --> 屎
 
 ### +7 Strokes
 20. <ruby>[宮](../../characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> - royal court

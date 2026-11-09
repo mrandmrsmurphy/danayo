@@ -146,6 +146,9 @@ tags:
 - 隄 --> 堤
 - 偃 --> 堰
 - 萋 --> 妻
+- 屛 --> 屏
+- 崗 --> 岡
+- 崧 --> 嵩
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

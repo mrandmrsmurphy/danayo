@@ -29,11 +29,8 @@ danayo_id: 20
 mc_id: 117
 graphemic_classification: "象形"
 stand_in: "山"
-aliases:
-  - 𠙸
-  - 𡶸
 注音: "ㄙㄚㄋ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

@@ -51,6 +51,7 @@ tags:
 18. <ruby>[幅](../../characters/幅.md)<rt>ㄈㄨㄎ</rt></ruby> - breadth
 19. <ruby>[幇](../../characters/幇.md)<rt>ㄅㄚㄫ</rt></ruby> - help
 - 幄 --> 帳
+- 幈 --> 屏
 
 ### +10 Strokes
 20. <ruby>[幌](../../characters/幌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - curtain

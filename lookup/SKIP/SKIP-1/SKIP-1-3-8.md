@@ -163,6 +163,7 @@ tags:
 - 啞 --> 唖
 - 啑 --> 喋
 - 崎 --> 埼
+- 幈 --> 屏
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

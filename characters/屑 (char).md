@@ -27,14 +27,12 @@ danayo_id: 7355
 mc_id: 3099
 graphemic_classification: "肖"
 stand_in: "屑"
-aliases:
-  - 㞕
 注音: "ㄙㄝㄊ"
 kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 屑.
 >For the word, see [屑](../words/屑.md)

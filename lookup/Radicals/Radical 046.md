@@ -16,6 +16,8 @@ tags: [lookup]
 ### +4 Strokes
 2. <ruby>[岐](../../characters/岐%20(char).md)<rt>ㄍㄝ</rt></ruby> - fork (in road)
 - 岖 --> 区
+- 岗 --> 岡
+- 岚 --> 嵐
 
 ### +5 Strokes
 3. <ruby>[岡](../../characters/岡.md)<rt>ㄍㄚㄫ</rt></ruby> - hill
@@ -24,6 +26,8 @@ tags: [lookup]
 6. <ruby>[岳](../../characters/岳.md)<rt>ㄚㄎ</rt></ruby> - mountain peak
 7. <ruby>[岸](../../characters/岸%20(char).md)<rt>ㄚㄋ</rt></ruby> - bank
 - 岷 --> 民
+- 岭 --> 嶺
+- 岺 --> 嶺
 
 ### +6 Strokes
 8. <ruby>[峡](../../characters/峡.md)<rt>ㄏㄚㄆ</rt></ruby> - gorge
@@ -33,6 +37,9 @@ tags: [lookup]
 10. <ruby>[峰](../../characters/峰.md)<rt>ㄈㄛㄫ</rt></ruby> - summit
 11. <ruby>[島](../../characters/島%20(char).md)<rt>ㄊㄚㄨ</rt></ruby> - island
 12. <ruby>[峻](../../characters/峻.md)<rt>ㄙ⼜ㄋ</rt></ruby> - steep
+- 峽 --> 峡
+- 峩 --> 峨
+- 峯 --> 峰
 
 ### +8 Strokes
 13. <ruby>[崇](../../characters/崇.md)<rt>ㄐㄨㄫ</rt></ruby> - lofty
@@ -42,6 +49,8 @@ tags: [lookup]
 17. <ruby>[崩](../../characters/崩%20(char).md)<rt>ㄅㄨㄫ</rt></ruby> - crumble
 - 崎 --> 区
 - 崎 --> 埼
+- 崗 --> 岡
+- 崧 --> 嵩
 
 ### +9 Strokes
 18. <ruby>[嵌](../../characters/嵌.md)<rt>ㄎㄚㄇ</rt></ruby> - inlay
@@ -56,10 +65,15 @@ tags: [lookup]
 
 ### +11 Strokes
 - 嶇 --> 区
+- 㠀 --> 屿
+
+### +13 Strokes
+- 嶼 --> 屿
 
 ### +14 Strokes
 22. <ruby>[屿](../../characters/屿.md)<rt>ㄙ⼄</rt></ruby> - islet
 23. <ruby>[嶺](../../characters/嶺.md)<rt>ㄌㄧㄫ</rt></ruby> - mountain range
+- 嶽 --> 岳
 
 ### Aliases
 - 嶂 --> 章

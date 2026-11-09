@@ -35,6 +35,9 @@ tags: [lookup]
 9. <ruby>[盟](../../characters/盟.md)<rt>ㄇ⼶ㄫ</rt></ruby> - alliance
 10. <ruby>[盞](../../characters/盞.md)<rt>ㄐㄚㄋ</rt></ruby> - sake cup
 
+### +9 Strokes
+- 盡 --> 尽
+
 ### +10 Strokes
 11. <ruby>[盤](../../characters/盤%20(char).md)<rt>ㄅㄚㄋ</rt></ruby> - tray
 12. <ruby>[監](../../characters/監.md)<rt>ㄍㄚㄇ</rt></ruby> - oversee

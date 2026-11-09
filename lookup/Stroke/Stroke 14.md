@@ -120,6 +120,8 @@ tags:
 - 聟 --> 婿
 - 寢 --> 寝
 - 對 --> 対
+- 盡 --> 尽
+- 㠀 --> 屿
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

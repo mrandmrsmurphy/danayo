@@ -27,6 +27,7 @@ tags: [lookup]
 4. <ruby>[武](../../characters/武%20(char).md)<rt>ㄇㄨ</rt></ruby> - military
 5. <ruby>[歩](../../characters/歩.md)<rt>ㄅㄛ</rt></ruby> - walk
 - 歨 --> 歩
+- 歧 --> 岐
 
 ### +5 Strokes
 6. <ruby>[歪](../../characters/歪.md)<rt>⺢ㄧ</rt></ruby> - crooked

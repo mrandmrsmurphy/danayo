@@ -98,6 +98,9 @@ tags:
 - 姬 --> 姫
 - 娛 --> 娯
 - 娱 --> 娯
+- 峽 --> 峡
+- 埈 --> 峻
+- 陖 --> 峻
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

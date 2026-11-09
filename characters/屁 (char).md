@@ -27,14 +27,12 @@ danayo_id: 7278
 mc_id: 0
 graphemic_classification: "比"
 stand_in: "屁"
-aliases:
-  - 䊧
 注音: "ㄆㄧㄜ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 屁.
 >For the word, see [屁](../words/屁.md)

@@ -134,6 +134,7 @@ aliases:
 - 侖 --> 倫
 - 侦 --> 偵
 - 侨 --> 僑
+- 侭 --> 尽
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -257,6 +258,7 @@ aliases:
 ### +14 Strokes
 138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
 - ¡𠏹! - 違法字
+- 儘 --> 尽
 
 ### +15 Strokes
 139. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay

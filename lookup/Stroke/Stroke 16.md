@@ -96,6 +96,8 @@ tags:
 - 憻 --> 坦
 - 薑 --> 姜
 - 嬢 --> 娘
+- 儘 --> 尽
+- 嶼 --> 屿
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

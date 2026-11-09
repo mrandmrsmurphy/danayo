@@ -27,6 +27,7 @@ tags: [lookup]
 - 阋 --> 䦧
 - 圉 --> 圄
 - 圈 --> 圏
+- 屛 --> 屏
 
 ## Datacheck
 ```dataview

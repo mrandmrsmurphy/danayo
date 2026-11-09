@@ -100,6 +100,7 @@ tags:
 - 䛷 --> 婉
 - 魇 --> 嫌
 - 寬 --> 寛
+- 廞 --> 嵌
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

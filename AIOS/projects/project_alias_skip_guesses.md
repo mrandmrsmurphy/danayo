@@ -344,3 +344,11 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 対 | 对 | 1-4-2 | computed from its parts |
 | 尋 (char) | 寻 | 2-3-3 | computed from its parts |
 | 尻 (char) | 㞍 | 3-2-4 | computed from its parts |
+| 屎 (char) | 𦳊 | 2-3-9 | computed from its parts |
+| 屏 | 屛 | 3-3-8 | computed from its parts |
+| 屏 | 幈 | 1-3-8 | computed from its parts |
+| 屿 | 㠀 | 1-3-11 | computed from its parts |
+| 岡 | 岗 | 1-3-4 | computed from its parts |
+| 岡 | 冈 | 3-2-2 | computed from its parts |
+| 嵐 | 岚 | 2-3-4 | computed from its parts |
+| 嶺 | 岭 | 2-3-5 | computed from its parts |

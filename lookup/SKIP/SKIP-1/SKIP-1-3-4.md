@@ -93,6 +93,7 @@ tags:
 - 坟 --> 墳
 - 坛 --> 壇
 - 妒 --> 妬
+- 岗 --> 岡
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

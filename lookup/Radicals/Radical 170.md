@@ -28,6 +28,7 @@ tags: [lookup]
 8. <ruby>[陋](../../characters/陋.md)<rt>ㄌ⼘ㄨ</rt></ruby> - ugly
 9. <ruby>[限](../../characters/限.md)<rt>ㄏㄚㄋ</rt></ruby> - limit
 - 陨 --> 員
+- 陖 --> 峻
 
 ### +2 Strokes
 10. <ruby>[降](../../characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> - descend

@@ -36,6 +36,7 @@ tags: [lookup]
 - 遗 --> 遺
 - 廄 --> 厩
 - 庽 --> 寓
+- 屡 --> 屢
 
 ### Forbidden
 - 遖 - 国字: 国字 for 'appare' (excellent)

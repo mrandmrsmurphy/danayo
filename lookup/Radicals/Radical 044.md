@@ -32,6 +32,7 @@ tags: [lookup]
 9. <ruby>[居](../../characters/居.md)<rt>ㄍㄧ</rt></ruby> - reside
 10. <ruby>[屈](../../characters/屈%20(char).md)<rt>ㄎㄨㄊ</rt></ruby> - bend
 11. <ruby>[届](../../characters/届%20(char).md)<rt>ㄍ⼶</rt></ruby> - deliver
+- 屆 --> 届
 
 ### +6 Strokes
 12. <ruby>[屋](../../characters/屋%20(char).md)<rt>ㄛㄎ</rt></ruby> - roof
@@ -44,9 +45,11 @@ tags: [lookup]
 
 ### +8 Strokes
 17. <ruby>[屠](../../characters/屠.md)<rt>ㄉㄛ</rt></ruby> - butcher
+- 屛 --> 屏
 
 ### +9 Strokes
 18. <ruby>[属](../../characters/属.md)<rt>ㄐㄛㄎ</rt></ruby> - belong
+- 屡 --> 屢
 
 ### +11 Strokes
 19. <ruby>[屢](../../characters/屢%20(char).md)<rt>ㄌㄨ</rt></ruby> - frequently

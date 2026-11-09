@@ -143,6 +143,8 @@ tags: [lookup]
 - 庽 --> 寓
 - 甯 --> 寧
 - 堯 --> 尭
+- 幈 --> 屏
+- 屡 --> 屢
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

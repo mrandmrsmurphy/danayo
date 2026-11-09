@@ -41,7 +41,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 屢.
 >For the word, see [屢](../words/屢.md)
@@ -55,6 +55,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-3-11](../lookup/SKIP/SKIP-3/SKIP-3-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 2131st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄌㄨ](../syllables/ㄌㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 屡
+The Japanese simplified form of 屢, "repeatedly". SKIP 3-3-9; 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[屢]]<rt>ㄌㄨ</rt></ruby> "frequently, often, repeatedly" (stand-in for 屢)

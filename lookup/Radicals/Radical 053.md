@@ -62,6 +62,7 @@ tags:
 ### +12 Strokes
 22. <ruby>[廟](../../characters/廟.md)<rt>ㄇ⼘ㄨ</rt></ruby> - ancestral temple
 23. <ruby>[廠](../../characters/廠.md)<rt>ㄑㄚㄫ</rt></ruby> - factory
+- 廞 --> 嵌
 
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack

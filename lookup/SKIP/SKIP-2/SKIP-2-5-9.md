@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 裳 --> 装
+- 盡 --> 尽
 
 ## Datacheck
 ```dataview

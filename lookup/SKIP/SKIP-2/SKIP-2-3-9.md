@@ -51,6 +51,7 @@ tags:
 - 壺 --> 壷
 - 甯 --> 寧
 - 堯 --> 尭
+- 𦳊 --> 屎
 
 ## Datacheck
 ```dataview
