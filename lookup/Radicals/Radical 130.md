@@ -48,6 +48,7 @@ tags: [lookup]
 28. <ruby>[胤](../../characters/胤.md)<rt>ㄧㄋ</rt></ruby> - heir
 29. <ruby>[胥](../../characters/胥.md)<rt>ㄙ⼄</rt></ruby> - mutually
 - 脉 --> 脈
+- 胧 --> 朧
 
 ### +4 Strokes
 30. <ruby>[胰](../../characters/胰.md)<rt>ㄧㄜ</rt></ruby> - pancreas

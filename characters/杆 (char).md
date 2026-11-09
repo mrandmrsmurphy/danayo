@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 杆.
 >For the word, see [杆](../words/杆.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6224`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄍㄚㄋ](../syllables/ㄍㄚㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 桿
+Traditional form of 杆, "pole, rod". SKIP 1-4-7; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[杆]]<rt>ㄍㄚㄋ</rt></ruby> "rod; pole; lever" (stand-in for 杆)

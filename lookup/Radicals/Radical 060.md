@@ -37,6 +37,7 @@ tags:
 15. <ruby>[得](../../characters/得.md)<rt>ㄊㄜㄎ</rt></ruby> - get
 16. <ruby>[徙](../../characters/徙.md)<rt>ㄙㄝ</rt></ruby> - migrate
 17. <ruby>[徘](../../characters/徘.md)<rt>ㄈㄛㄧ</rt></ruby> - loiter
+- 徠 --> 来
 
 ### +9 Strokes
 18. <ruby>[御](../../characters/御.md)<rt>⼄</rt></ruby> - defend

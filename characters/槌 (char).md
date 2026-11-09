@@ -50,5 +50,10 @@ date-last-perfect: 2026-10-20
 - 5656th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄐ⼔ㄧ](../syllables/ㄐ⼔ㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
 
+## Aliases
+
+### 鎚
+金 + 追, "hammer, mallet"; a variant of 槌 and kept as an alias. SKIP 1-8-9; 17 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[槌]]<rt>ㄐ⼔ㄧ</rt></ruby> "hammer"

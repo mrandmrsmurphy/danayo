@@ -86,6 +86,7 @@ tags: [lookup]
 46. <ruby>[暑](../../characters/暑%20(char).md)<rt>ㄙ⼄</rt></ruby> - hot (weather)
 - 𣈆 --> 晋
 - 暂 --> 暫
+- 晽 --> 林
 
 ### +9 Strokes
 47. <ruby>[暇](../../characters/暇.md)<rt>ㄏㄚ</rt></ruby> - spare time

@@ -41,6 +41,7 @@ tags: [lookup]
 - 雏 --> 雛
 - 號 --> 号
 - 稔 --> 念
+- 锨 --> 杴
 
 ## Datacheck
 ```dataview

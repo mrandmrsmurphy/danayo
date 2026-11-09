@@ -26,6 +26,7 @@ tags: [lookup]
 - 颇 --> 頗
 - 旣 --> 既
 - 领 --> 領
+- 硃 --> 朱
 
 ### Forbidden
 - 裃 - 国字: Alternative spelling of 上下: the haori and hakama as a set; especially, one using a sleeveless haori with flared shoulders worn by certain samurai during the Edo Period.

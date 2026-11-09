@@ -57,6 +57,7 @@ tags:
 - 菷 --> 帚
 - 菴 --> 庵
 - 菖 --> 昌
+- 菻 --> 林
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

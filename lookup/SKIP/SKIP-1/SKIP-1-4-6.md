@@ -61,6 +61,8 @@ tags:
 - 预 --> 予
 - 烣 --> 恢
 - 晄 --> 晃
+- 栢 --> 柏
+- 栖 --> 棲
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

@@ -40,6 +40,7 @@ tags: [lookup]
 ### +8 Strokes
 13. <ruby>[霍](../../characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - sudden
 14. <ruby>[霓](../../characters/霓.md)<rt>ㄝㄧ</rt></ruby> - rainbow
+- 霖 --> 林
 
 ### +9 Strokes
 15. <ruby>[霜](../../characters/霜%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - frost

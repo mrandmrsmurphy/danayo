@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 枢.
 >For the word, see [枢](../words/枢.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 2155th most used character in Classical Chinese (as its traditional form 樞). Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄑㄨ](../syllables/ㄑㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 樞
+Traditional form (kyūjitai) of 枢, "pivot". SKIP 1-4-11; 15 strokes. It ranks 2155 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[枢]]<rt>ㄑㄨ</rt></ruby> "hinge; pivot" (stand-in for 枢)

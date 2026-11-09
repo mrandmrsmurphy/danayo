@@ -28,6 +28,7 @@ tags: [lookup]
 ### +6 Strokes
 10. <ruby>[砦](../../characters/砦.md)<rt>ㄐㄚㄧ</rt></ruby> - abatis
 11. <ruby>[硅](../../characters/硅.md)<rt>ㄍ⼜ㄎ</rt></ruby> - silicon
+- 硃 --> 朱
 
 ### +7 Strokes
 12. <ruby>[硝](../../characters/硝.md)<rt>ㄙ⼄ㄨ</rt></ruby> - saltpetre

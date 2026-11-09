@@ -52,6 +52,14 @@ date-last-perfect: 2026-10-20
 - 4006th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄑ⺢ㄫ](../syllables/ㄑ⺢ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
 
+## Aliases
+
+### 枪
+Simplified Chinese form of 槍. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 鎗
+金 + 倉, "sound of metal"; a variant of 槍 and kept as an alias. SKIP 1-8-10; 18 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - [槍](../words/槍.md) "spear; lance" — 槍 stands alone as a word in Dan'a'yo.
 - <ruby>[[槍]]<rt>ㄑ⺢ㄫ</rt></ruby> "spear, lance" (stand-in for 槍)

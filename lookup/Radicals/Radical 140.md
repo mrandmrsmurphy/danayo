@@ -27,6 +27,7 @@ tags:
 4. <ruby>[芒](../../characters/芒.md)<rt>ㄇ⼘ㄫ</rt></ruby> - ray
 - 荫 --> 陰
 - 范 --> 範
+- 茮 --> 椒
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -65,6 +66,7 @@ tags:
 - 萋 --> 妻
 - 菷 --> 帚
 - 菖 --> 昌
+- 菻 --> 林
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -82,6 +84,7 @@ tags:
 - 萧 --> 䔥
 - 菆 --> 叢
 - 菴 --> 庵
+- 萷 --> 梢
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay

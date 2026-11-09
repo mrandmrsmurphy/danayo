@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 桜.
 >For the word, see [桜](../words/桜.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-6](../lookup/SKIP/SKIP-1/SKIP-1-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 5888th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 耕開|ɣɛŋ]] → [ㄚㄫ](../syllables/ㄚㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 櫻
+Traditional form (kyūjitai) of 桜, "cherry". SKIP 1-4-17; 21 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[桜]]<rt>ㄚㄫ</rt></ruby> "cherry blossom" (stand-in for 桜)

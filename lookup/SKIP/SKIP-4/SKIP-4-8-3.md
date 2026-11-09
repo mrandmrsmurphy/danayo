@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[東](/characters/東.md)<rt>ㄉㄛㄫ</rt></ruby> - east
 4. <ruby>[秉](/characters/秉.md)<rt>ㄅㄧㄫ</rt></ruby> - bundle
 
+### Aliases
+- 來 --> 来
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

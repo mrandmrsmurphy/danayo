@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 柏.
 >For the word, see [柏](../words/柏.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-5](../lookup/SKIP/SKIP-1/SKIP-1-4-5.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1594th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 陌二開|ɣæk]] → [ㄅ⼘ㄎ](../syllables/ㄅ⼘ㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 栢
+A variant form of 柏, "cypress". SKIP 1-4-6; 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[柏]]<rt>ㄅ⼘ㄎ</rt></ruby> “cypress, cedar” (stand-in for 柏)

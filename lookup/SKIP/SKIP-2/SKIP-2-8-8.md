@@ -17,6 +17,7 @@ tags: [lookup]
 ### Aliases
 - 螢 --> 蛍
 - 樷 --> 叢
+- 霖 --> 林
 
 ## Datacheck
 ```dataview

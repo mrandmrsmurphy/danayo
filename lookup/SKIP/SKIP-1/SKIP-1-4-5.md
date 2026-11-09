@@ -66,6 +66,9 @@ tags:
 - 爼 --> 俎
 - 昿 --> 広
 - 𫞂 --> 旺
+- 胧 --> 朧
+- 栅 --> 柵
+- 栋 --> 棟
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

@@ -433,3 +433,20 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 曇 (char) | 昙 | 2-4-4 | computed from its parts |
 | 曖 | 暧 | 1-4-10 | computed from its parts |
 | 曼 | 鳗 | 1-8-11 | computed from its parts |
+| 朧 | 胧 | 1-4-5 | computed from its parts |
+| 朶 | 朵 | 2-2-4 | computed from its parts |
+| 杴 | 锨 | 1-5-8 | computed from its parts |
+| 杴 | 㸝 | 1-4-4 | computed from its parts |
+| 林 (char) | 晽 | 1-4-8 | computed from its parts |
+| 柵 (char) | 栅 | 1-4-5 | computed from its parts |
+| 梢 | 萷 | 1-4-8 | computed from its parts |
+| 棗 | 枣 | 2-4-4 | computed from its parts |
+| 棟 | 栋 | 1-4-5 | computed from its parts |
+| 椰 | 枒 | 1-4-4 | computed from its parts |
+| 椰 | 㭨 | 1-4-7 | computed from its parts |
+| 椿 | 櫄 | 1-4-14 | computed from its parts |
+| 楊 | 杨 | 1-4-4 | computed from its parts |
+| 楓 | 枫 | 1-4-4 | computed from its parts |
+| 楕 | 椭 | 1-4-8 | computed from its parts |
+| 楚 | 椘 | 2-8-3 | computed from its parts |
+| 槍 (char) | 枪 | 1-4-4 | computed from its parts |

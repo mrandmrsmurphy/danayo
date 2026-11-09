@@ -166,6 +166,8 @@ tags:
 - 幈 --> 屏
 - 㥃 --> 悶
 - 掷 --> 擲
+- 徠 --> 来
+- 捿 --> 棲
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

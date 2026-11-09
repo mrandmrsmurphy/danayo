@@ -146,6 +146,7 @@ tags: [lookup]
 90. <ruby>[掩](../../characters/掩.md)<rt>ㄝㄇ</rt></ruby> - cover
 - 据 --> 拠
 - 掷 --> 擲
+- 捿 --> 棲
 
 ### +8 Strokes
 91. <ruby>[掌](../../characters/掌.md)<rt>ㄐㄚㄫ</rt></ruby> - palm

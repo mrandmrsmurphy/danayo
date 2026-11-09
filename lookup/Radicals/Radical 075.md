@@ -31,6 +31,7 @@ tags: [lookup]
 - ¡杁! - 違法字
 - 权 --> 権
 - 朿 --> 刺
+- 朵 --> 朶
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod
@@ -48,6 +49,7 @@ tags: [lookup]
 - ¡杣! - 違法字
 - ¡𣏒! - 違法字
 - ¡杢! - 違法字
+- 杨 --> 楊
 
 ### +4 Strokes
 24. <ruby>[杪](../../characters/杪.md)<rt>ㄇ⼄</rt></ruby> - treetop
@@ -72,6 +74,12 @@ tags: [lookup]
 - 构 --> 構
 - 杰 --> 傑
 - 杭 --> 抗
+- 枣 --> 棗
+- 枒 --> 椰
+- 杶 --> 椿
+- 枫 --> 楓
+- 枏 --> 楠
+- 枪 --> 槍
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
@@ -106,6 +114,8 @@ tags: [lookup]
 - 树 --> 樹
 - 柰 --> 奈
 - 查 --> 査
+- 栅 --> 柵
+- 栋 --> 棟
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -137,6 +147,8 @@ tags: [lookup]
 - 栞 --> 刊
 - 样 --> 様
 - 桀 --> 傑
+- 栢 --> 柏
+- 栖 --> 棲
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail
@@ -158,6 +170,9 @@ tags: [lookup]
 - 检 --> 検
 - 梧 --> 吾
 - 㭰 --> 嘴
+- 桿 --> 杆
+- 㭨 --> 椰
+- 椘 --> 楚
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -185,6 +200,11 @@ tags: [lookup]
 - ¡椣! - 違法字
 - ¡椥! - 違法字
 - ¡﨓! - 違法字
+- 椙 --> 杉
+- 棧 --> 桟
+- 棊 --> 棋
+- 棓 --> 棒
+- 椭 --> 楕
 
 ### +9 Strokes
 111. <ruby>[棄](../../characters/棄.md)<rt>ㄎㄧㄜ</rt></ruby> - abandon
@@ -241,6 +261,9 @@ tags: [lookup]
 - 樣 --> 様
 - 樓 --> 楼
 - 橢 --> 堕
+- 樞 --> 枢
+- 樑 --> 梁
+- 橢 --> 楕
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant
@@ -258,6 +281,7 @@ tags: [lookup]
 - 機 --> 机
 - 橫 --> 横
 - 樷 --> 叢
+- 橊 --> 榴
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
@@ -266,6 +290,7 @@ tags: [lookup]
 153. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
 - ¡檪! - 違法字
 - 檢 --> 検
+- 檜 --> 桧
 
 ### +14 Strokes
 154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄋ</rt></ruby> - lemon
@@ -275,6 +300,8 @@ tags: [lookup]
 158. <ruby>[櫃](../../characters/櫃%20(char).md)<rt>ㄍ⼔</rt></ruby> - cabinet
 159. <ruby>[檻](../../characters/檻%20(char).md)<rt>ㄏ⼘ㄇ</rt></ruby> - cage
 - 檯 --> 台
+- 櫔 --> 栃
+- 櫄 --> 椿
 
 ### +16 Strokes
 - ¡櫳! - 違法字
@@ -283,10 +310,14 @@ tags: [lookup]
 160. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
 - ¡欌! - 違法字
 - 權 --> 権
+- 櫻 --> 桜
 
 ### +18 Strokes
 - ¡櫷! - 違法字
 - 欉 --> 叢
+
+### +19 Strokes
+- 欒 --> 栾
 
 ### +20 Strokes
 - ¡欕! - 違法字

@@ -169,6 +169,13 @@ tags: [lookup]
 - 䖵 --> 昆
 - 𣈆 --> 晋
 - 暂 --> 暫
+- 椙 --> 杉
+- 晽 --> 林
+- 棧 --> 桟
+- 萷 --> 梢
+- 棊 --> 棋
+- 棓 --> 棒
+- 椭 --> 楕
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

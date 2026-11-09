@@ -41,6 +41,7 @@ tags: [lookup]
 - 负 --> 負
 - 军 --> 軍
 - 众 --> 衆
+- 朵 --> 朶
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

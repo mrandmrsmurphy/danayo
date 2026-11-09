@@ -45,6 +45,7 @@ tags:
 - 戾 --> 戻
 - 旼 --> 旻
 - 昙 --> 曇
+- 枣 --> 棗
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

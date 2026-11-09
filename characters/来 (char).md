@@ -32,7 +32,7 @@ aliases:
   - 來
   - 徠
 注音: "ㄌㄚㄧ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,14 @@ boundedness: 90
 - [SKIP-4-7-3](../lookup/SKIP/SKIP-4/SKIP-4-7-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 168th most used character in Classical Chinese (ranked under the traditional form 來). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄌㄚㄧ](../syllables/ㄌㄚㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 來
+Traditional form (kyūjitai) of 来, "to come". SKIP 4-8-3; 8 strokes. Radical 009 人. It ranks 168 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 徠
+彳 + 來, "to induce to come"; built on 來 and kept as an alias. SKIP 1-3-8; 11 strokes. Radical 060 彳. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[来]]<rt>ㄌㄚㄧ</rt></ruby> "come" (stand-in for 来)

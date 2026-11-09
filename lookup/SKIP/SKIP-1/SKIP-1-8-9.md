@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Aliases
 - 鍼 --> 針
+- 鎚 --> 槌
 
 ## Datacheck
 ```dataview

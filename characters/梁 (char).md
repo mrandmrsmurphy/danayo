@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 梁.
 >For the word, see [梁](../words/梁.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄌ⼘ㄫ](../syllables/ㄌ⼘ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 樑
+木 + 梁, "bridge, roof beam"; a variant of 梁 and kept as an alias. SKIP 1-4-11; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[梁]]<rt>ㄌ⼘ㄫ</rt></ruby> "girder"

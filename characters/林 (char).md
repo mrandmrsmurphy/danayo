@@ -29,11 +29,10 @@ stand_in: 林
 aliases:
   - 晽
   - 霖
-  - 碄
   - 婪
   - 菻
 注音: ㄌㄧㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +49,20 @@ boundedness: 40
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 649th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄧㄇ](../syllables/ㄌㄧㄇ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 晽
+日 + 林, in 晽晽; built on 林 and kept as an alias. SKIP 1-4-8 (computed: EDRDG does not list it); 12 strokes. Radical 072 日. It has no rank of its own in the Classical Chinese lists.
+
+### 霖
+雨 + 林, "long spell of rain"; built on 林 and kept as an alias. SKIP 2-8-8; 16 strokes. Radical 173 雨. It ranks 3449 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 婪
+林 + 女, "greedy"; built on 林 and kept as an alias. SKIP 2-8-3; 11 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
+
+### 菻
+艹 + 林, "artemisia"; built on 林 and kept as an alias. SKIP 2-3-8; 11 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[林]]<rt>ㄌㄧㄇ</rt></ruby> "grove" (stand-in for 林)

@@ -47,6 +47,7 @@ tags: [lookup]
 18. <ruby>[鉤](../../characters/鉤%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - hook
 19. <ruby>[鉦](../../characters/鉦.md)<rt>ㄐㄧㄫ</rt></ruby> - marching gong
 20. <ruby>[鉱](../../characters/鉱.md)<rt>ㄍ⺢ㄫ</rt></ruby> - mineral
+- 锨 --> 杴
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver
@@ -90,6 +91,7 @@ tags: [lookup]
 50. <ruby>[鍵](../../characters/鍵%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - key
 51. <ruby>[鍾](../../characters/鍾%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - alcohol bottle
 - 鍼 --> 針
+- 鎚 --> 槌
 
 ### +10 Strokes
 52. <ruby>[鎌](../../characters/鎌%20(char).md)<rt>ㄌㄝㄇ</rt></ruby> - sickle
@@ -97,6 +99,7 @@ tags: [lookup]
 54. <ruby>[鎧](../../characters/鎧.md)<rt>ㄎㄚㄧ</rt></ruby> - armor
 55. <ruby>[鎬](../../characters/鎬.md)<rt>ㄏㄚㄨ</rt></ruby> - stove
 56. <ruby>[鎮](../../characters/鎮%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> - tranquilize
+- 鎗 --> 槍
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror

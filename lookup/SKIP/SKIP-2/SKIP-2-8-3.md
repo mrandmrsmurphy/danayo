@@ -31,6 +31,8 @@ tags: [lookup]
 - 專 --> 専
 - 堊 --> 亜
 - 啟 --> 啓
+- 婪 --> 林
+- 椘 --> 楚
 
 ## Datacheck
 ```dataview

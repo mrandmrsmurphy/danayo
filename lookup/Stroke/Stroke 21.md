@@ -60,6 +60,7 @@ tags:
 - 攜 --> 携
 - 攝 --> 摂
 - 䵘 --> 晒
+- 櫻 --> 桜
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

@@ -135,6 +135,7 @@ aliases:
 - 侦 --> 偵
 - 侨 --> 僑
 - 侭 --> 尽
+- 來 --> 来
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant

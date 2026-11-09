@@ -84,6 +84,7 @@ tags: [lookup]
 47. <ruby>[婢](../../characters/婢.md)<rt>ㄅㄧ</rt></ruby> - servant girl
 48. <ruby>[婦](../../characters/婦%20(char).md)<rt>ㄅ⼜</rt></ruby> - lady
 - 婴 --> 嬰
+- 婪 --> 林
 
 ### +9 Strokes
 49. <ruby>[婿](../../characters/婿%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - bridegroom
