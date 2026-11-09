@@ -36,6 +36,7 @@ tags: [lookup]
 
 ### +9 Strokes
 8. <ruby>[歳](../../characters/歳.md)<rt>ㄙㄝ</rt></ruby> - age
+- 歲 --> 歳
 
 ### +10 Strokes
 9. <ruby>[歴](../../characters/歴.md)<rt>ㄌㄝㄎ</rt></ruby> - history

@@ -32,6 +32,7 @@ tags:
 - 脩 --> 修
 - 條 --> 条
 - 匘 --> 脳
+- 减 --> 減
 
 ## Datacheck
 ```dataview

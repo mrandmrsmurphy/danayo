@@ -90,7 +90,7 @@ def main():
     mrad=radnum.get(fm(t,"radical")); secs=[]; mainrank=cc.get(ch); guesses=[]
     ranks=[int(mc)] if mc and mc.isdigit() and int(mc)>0 else []
     ranks+=[cc[a] for a in als if cc.get(a)]
-    newmc=min(ranks) if ranks else 0
+    newmc=min(ranks) if ranks else ""
     for a in als:
         s=spec[a]; u=uni.get(a,{}); sk,st,rd=edrdg(a)
         skip=s.get("skip") or sk; strokes=s.get("strokes") or st or u.get("kTotalStrokes")
@@ -109,7 +109,7 @@ def main():
     block="## Aliases\n\n"+"\n\n".join(f"### {a}\n{x}" for a,x,*_ in secs)+"\n"
     t2=t[:i].rstrip("\n")+"\n\n"+block+t[i:]
     if str(newmc)!=mc:
-        t2=re.sub(r"^mc_id:.*$",f"mc_id: {newmc}",t2,count=1,flags=re.M)
+        t2=re.sub(r"^mc_id:.*$",f"mc_id: {newmc}".rstrip(),t2,count=1,flags=re.M)
         who=[a for a in als if cc.get(a)==newmc]
         if who:
             sent=f"{newmc}{'st' if newmc%10==1 and newmc%100!=11 else 'nd' if newmc%10==2 and newmc%100!=12 else 'rd' if newmc%10==3 and newmc%100!=13 else 'th'} most used character in Classical Chinese, the rank of its alias {who[0]}"+(f" ({ch} itself ranks {mainrank})" if mainrank else f" ({ch} itself is not on the lists)")+"."

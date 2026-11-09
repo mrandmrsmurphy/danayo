@@ -27,6 +27,7 @@ tags: [lookup]
 6. <ruby>[級](../../characters/級.md)<rt>ㄍㄧㄆ</rt></ruby> - level
 7. <ruby>[紇](../../characters/紇.md)<rt>ㄏㄜㄊ</rt></ruby> - Uigur
 - 给 --> 給
+- 统 --> 統
 
 ### +4 Strokes
 8. <ruby>[紋](../../characters/紋%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - mark

@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[舜](/characters/舜.md)<rt>ㄙ⼜ㄇ</rt></ruby> "a legendary ruler"
 7. <ruby>[誉](/characters/誉.md)<rt>⼄</rt></ruby> "reputation; fame"
 
+### Aliases
+- 歲 --> 歳
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -29,6 +29,7 @@ tags: [lookup]
 10. <ruby>[机](../../characters/机.md)<rt>ㄍㄧㄜ</rt></ruby> - opportunity
 11. <ruby>[朽](../../characters/朽.md)<rt>ㄏ⼜</rt></ruby> - decay
 - ¡杁! - 違法字
+- 权 --> 権
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod
@@ -241,6 +242,7 @@ tags: [lookup]
 - ¡橳! - 違法字
 - ¡樫! - 違法字
 - ¡橸! - 違法字
+- 樸 --> 朴
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
@@ -264,6 +266,7 @@ tags: [lookup]
 ### +17 Strokes
 160. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
 - ¡欌! - 違法字
+- 權 --> 権
 
 ### +18 Strokes
 - ¡櫷! - 違法字

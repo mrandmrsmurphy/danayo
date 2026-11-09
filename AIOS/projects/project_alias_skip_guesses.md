@@ -201,3 +201,12 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 敵 | 敌 | 1-6-4 | computed from its parts |
 | 既 | 旣 | 1-5-6 | computed from its parts |
 | 曲 | 𡆪 | 3-3-3 | computed from its parts |
+| 権 | 权 | 1-4-2 | computed from its parts |
+| 歓 | 欢 | 1-2-4 | computed from its parts |
+| 歳 | 歲 | 2-4-9 | computed from its parts |
+| 潔 | 洁 | 1-3-6 | computed from its parts |
+| 税 | 稅 | 1-5-7 | computed from its parts |
+| 統 | 统 | 1-3-6 | computed from its parts |
+| 華 | 华 | 2-4-2 | computed from its parts |
+| 認 | 认 | 1-2-2 | computed from its parts |
+| 誠 | 诚 | 1-2-6 | computed from its parts |

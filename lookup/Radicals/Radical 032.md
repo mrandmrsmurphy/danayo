@@ -78,6 +78,7 @@ tags:
 43. <ruby>[塁](../../characters/塁.md)<rt>ㄌㄨㄧ</rt></ruby> - rampart
 44. <ruby>[塔](../../characters/塔%20(char).md)<rt>ㄊㄚㄆ</rt></ruby> - pagoda
 45. <ruby>[塚](../../characters/塚%20(char).md)<rt>ㄑㄛㄫ</rt></ruby> - hillock
+- 堺 --> 界
 
 ### +10 Strokes
 46. <ruby>[塊](../../characters/塊%20(char).md)<rt>ㄎㄛㄧ</rt></ruby> - lump

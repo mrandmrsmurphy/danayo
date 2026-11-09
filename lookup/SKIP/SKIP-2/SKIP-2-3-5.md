@@ -58,6 +58,7 @@ tags:
 - 幷 --> 並
 - 实 --> 実
 - 奋 --> 奮
+- 范 --> 範
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

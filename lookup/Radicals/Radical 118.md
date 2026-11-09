@@ -76,6 +76,7 @@ tags:
 38. <ruby>[簫](../../characters/簫.md)<rt>ㄙㄛㄨ</rt></ruby> - xiao
 39. <ruby>[簾](../../characters/簾.md)<rt>ㄌㄝㄇ</rt></ruby> - blind
 40. <ruby>[簿](../../characters/簿.md)<rt>ㄅㄛ</rt></ruby> - register
+- 簸 --> 波
 
 ### +14 Strokes
 41. <ruby>[籍](../../characters/籍.md)<rt>ㄐㄝㄎ</rt></ruby> - record

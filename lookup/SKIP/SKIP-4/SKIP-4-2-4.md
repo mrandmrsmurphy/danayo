@@ -25,6 +25,7 @@ tags: [lookup]
 
 ### Aliases
 - 勹 --> 包
+- 厶 --> 私
 
 ## Datacheck
 ```dataview

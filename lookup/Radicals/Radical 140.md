@@ -21,6 +21,7 @@ tags:
 3. <ruby>[芝](../../characters/芝.md)<rt>ㄐㄧ</rt></ruby> - sesame
 4. <ruby>[芒](../../characters/芒.md)<rt>ㄇ⼘ㄫ</rt></ruby> - ray
 - 荫 --> 陰
+- 范 --> 範
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -55,6 +56,7 @@ tags:
 31. <ruby>[菲](../../characters/菲.md)<rt>ㄈㄧ</rt></ruby> - fragrant
 - 萤 --> 蛍
 - 菓 --> 果
+- 菠 --> 波
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant

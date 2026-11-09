@@ -102,6 +102,7 @@ tags:
 - 徑 --> 径
 - 悅 --> 悦
 - 敌 --> 敵
+- 凉 --> 涼
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

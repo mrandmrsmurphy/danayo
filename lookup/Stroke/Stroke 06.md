@@ -80,6 +80,11 @@ tags:
 - 团 --> 団
 - 𢖽 --> 志
 - 𡆪 --> 曲
+- 权 --> 権
+- 欢 --> 歓
+- 冲 --> 沖
+- 异 --> 異
+- 华 --> 華
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

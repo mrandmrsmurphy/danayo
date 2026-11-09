@@ -13,6 +13,9 @@ tags: [lookup]
 ### +3 Strokes
 1. <ruby>[冬](../../characters/冬%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - winter
 
+### +4 Strokes
+- 冲 --> 沖
+
 ### +5 Strokes
 2. <ruby>[冷](../../characters/冷%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - cool
 3. <ruby>[冴](../../characters/冴.md)<rt>ㄏㄛ</rt></ruby> - freeze
@@ -24,6 +27,10 @@ tags: [lookup]
 6. <ruby>[凍](../../characters/凍.md)<rt>ㄉㄛㄫ</rt></ruby> - freeze
 7. <ruby>[凌](../../characters/凌.md)<rt>ㄌㄜㄫ</rt></ruby> - to surpass
 8. <ruby>[准](../../characters/准.md)<rt>ㄐㄨㄋ</rt></ruby> - allow, permit
+- 凉 --> 涼
+
+### +9 Strokes
+- 减 --> 減
 
 ### +13 Strokes
 9. <ruby>[凜](../../characters/凜%20(char).md)<rt>ㄌㄨㄇ</rt></ruby> - cold

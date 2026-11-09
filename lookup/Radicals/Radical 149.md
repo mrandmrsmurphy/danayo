@@ -31,12 +31,16 @@ tags: [lookup]
 ### +-2 Strokes
 - 议 --> 議
 
+### +-3 Strokes
+- 认 --> 認
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 
 ### +1 Stroke
 - 试 --> 試
 - 该 --> 該
+- 诚 --> 誠
 
 ### +2 Strokes
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise
@@ -156,6 +160,7 @@ tags: [lookup]
 89. <ruby>[譜](../../characters/譜.md)<rt>ㄅㄛ</rt></ruby> - musical score
 90. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
 - 𧬆 --> 善
+- 證 --> 証
 
 ### +13 Strokes
 91. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment
@@ -171,6 +176,7 @@ tags: [lookup]
 
 ### +17 Strokes
 - 讓 --> 譲
+- 讙 --> 歓
 
 ### +20 Strokes
 - 𧮟 --> 善

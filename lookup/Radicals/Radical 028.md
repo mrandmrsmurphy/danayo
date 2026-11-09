@@ -24,6 +24,7 @@ tags: [lookup]
 - 县 --> 県
 - 參 --> 参
 - 叁 --> 参
+- 厶 --> 私
 
 ## Data check
 ```dataview

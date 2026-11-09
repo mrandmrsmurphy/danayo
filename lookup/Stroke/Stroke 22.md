@@ -30,6 +30,7 @@ tags:
 - 竸 --> 競
 - 鰺 --> 参
 - 鱇 --> 康
+- 歡 --> 歓
 
 ### Forbidden
 - 櫷 - 국자: Korean-coined hanja for Styphnolobium japonicum (회화나무, 槐花, 槐树, Hoa hòe)

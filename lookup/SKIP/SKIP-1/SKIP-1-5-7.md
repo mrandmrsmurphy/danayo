@@ -37,6 +37,7 @@ tags: [lookup]
 ### Aliases
 - 稀 --> 希
 - 睏 --> 困
+- 稅 --> 税
 
 ## Datacheck
 ```dataview

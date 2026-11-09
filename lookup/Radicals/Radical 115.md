@@ -40,6 +40,7 @@ tags: [lookup]
 15. <ruby>[税](../../characters/税.md)<rt>ㄙㄝ</rt></ruby> - duty
 16. <ruby>[程](../../characters/程.md)<rt>ㄉㄧㄫ</rt></ruby> - extent
 17. <ruby>[稍](../../characters/稍%20(char).md)<rt>ㄙ⼘ㄨ</rt></ruby> - slightly
+- 稅 --> 税
 
 ### +8 Strokes
 18. <ruby>[稗](../../characters/稗.md)<rt>ㄅㄚㄧ</rt></ruby> - millet

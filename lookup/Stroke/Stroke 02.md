@@ -23,6 +23,7 @@ tags: [lookup]
 - 几 --> 幾
 - 丂 --> 考
 - 勹 --> 包
+- 厶 --> 私
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

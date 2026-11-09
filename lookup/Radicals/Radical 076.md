@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[次](../../characters/次.md)<rt>ㄑㄧㄜ</rt></ruby> - order
+- 欢 --> 歓
 
 ### +4 Strokes
 3. <ruby>[欣](../../characters/欣.md)<rt>ㄏㄧㄋ</rt></ruby> - happy
@@ -38,6 +39,9 @@ tags: [lookup]
 
 ### +11 Strokes
 12. <ruby>[歓](../../characters/歓.md)<rt>ㄏ⺢ㄋ</rt></ruby> - glad
+
+### +18 Strokes
+- 歡 --> 歓
 
 ## Data check
 ```dataview

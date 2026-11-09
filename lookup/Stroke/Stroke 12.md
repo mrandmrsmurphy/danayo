@@ -103,6 +103,8 @@ tags: [lookup]
 - 嵯 --> 差
 - 幄 --> 帳
 - 腑 --> 府
+- 堺 --> 界
+- 稅 --> 税
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

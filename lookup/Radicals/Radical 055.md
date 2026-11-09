@@ -16,6 +16,9 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[弁](../../characters/弁%20(char).md)<rt>ㄅ⼘ㄋ</rt></ruby> - discuss
 
+### +3 Strokes
+- 异 --> 異
+
 ### +4 Strokes
 3. <ruby>[弄](../../characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - tamper with
 

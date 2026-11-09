@@ -27,6 +27,7 @@ tags:
 - 则 --> 則
 - 刚 --> 剛
 - 创 --> 創
+- 权 --> 権
 
 ### Forbidden
 - 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.

@@ -108,6 +108,8 @@ tags:
 - 惯 --> 慣
 - 旣 --> 既
 - 晝 --> 昼
+- 菠 --> 波
+- 减 --> 減
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'
