@@ -86,6 +86,7 @@ tags: [lookup]
 52. <ruby>[暢](../../characters/暢.md)<rt>ㄑㄚㄫ</rt></ruby> - smooth
 53. <ruby>[暦](../../characters/暦%20(char).md)<rt>ㄌㄝㄎ</rt></ruby> - calendar
 54. <ruby>[暮](../../characters/暮.md)<rt>ㄇㄛ</rt></ruby> - sunset
+- 暝 --> 冥
 
 ### +11 Strokes
 55. <ruby>[暫](../../characters/暫.md)<rt>ㄐㄚㄇ</rt></ruby> - temporary

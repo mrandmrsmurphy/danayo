@@ -87,6 +87,9 @@ tags:
 - 慾 --> 欲
 - 𣽣 --> 港
 - 豫 --> 予
+- 儉 --> 倹
+- 瞑 --> 冥
+- 凛 --> 凜
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

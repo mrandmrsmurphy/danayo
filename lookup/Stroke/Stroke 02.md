@@ -30,6 +30,7 @@ tags: [lookup]
 - 𠆢 --> 人
 - ⺈ --> 人
 - 𠂉 --> 人
+- 儿 --> 児
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

@@ -11,6 +11,9 @@ tags: [lookup]
 ## Characters
 ### Used
 1. <ruby>[爽](../../characters/爽.md)<rt>ㄙ⺢ㄫ</rt></ruby> - refreshing
+### Aliases
+- 爼 --> 俎
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

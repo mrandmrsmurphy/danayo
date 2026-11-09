@@ -288,3 +288,23 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 人 (char) | 𠂉 | 4-2-4 | computed from its parts |
 | 仇 | 㐜 | 1-2-7 | computed from its parts |
 | 佇 | 伫 | 1-2-4 | computed from its parts |
+| 侶 | 侣 | 1-2-6 | computed from its parts |
+| 俎 | 𤕲 | 1-4-5 | computed from its parts |
+| 俎 | 𮀀 | 1-5-5 | computed from its parts |
+| 倚 (char) | 𠋣 | 1-2-9 | computed from its parts |
+| 倫 | 伦 | 1-2-4 | computed from its parts |
+| 偵 (char) | 侦 | 1-2-6 | computed from its parts |
+| 偷 | 媮 | 1-3-9 | computed from its parts |
+| 偽 (char) | 伪 | 1-2-4 | computed from its parts |
+| 傘 | 伞 | 2-3-3 | computed from its parts |
+| 傾 | 倾 | 1-2-8 | computed from its parts |
+| 僅 | 仅 | 1-2-2 | computed from its parts |
+| 僑 | 侨 | 1-2-6 | computed from its parts |
+| 儀 | 仪 | 1-2-3 | computed from its parts |
+| 償 | 偿 | 1-2-9 | computed from its parts |
+| 優 | 优 | 1-2-4 | computed from its parts |
+| 兪 (char) | 俞 | 1-2-7 | computed from its parts |
+| 兪 (char) | 榆 | 1-4-9 | computed from its parts |
+| 冗 (char) | 宂 | 2-3-2 | computed from its parts |
+| 冥 (char) | 慏 | 1-3-10 | computed from its parts |
+| 凍 | 冻 | 1-2-5 | computed from its parts |

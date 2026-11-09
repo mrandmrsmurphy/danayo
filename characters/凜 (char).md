@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 凜.
 >For the word, see [凜](../words/凜.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-2-13](Lookup/SKIP/SKIP-1/SKIP-1-2-13.md) ([Stroke 15](Lookup/Stroke/Stroke%2015.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 6213`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄌㄨㄇ](../syllables/ㄌㄨㄇ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 凛
+A variant form of 凜, "to shiver with cold". SKIP 1-2-13; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[凜]]<rt>ㄌㄨㄇ</rt></ruby> "cold, stern, dignified"

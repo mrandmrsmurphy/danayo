@@ -80,6 +80,8 @@ tags:
 - 斂 --> 㪘
 - 歛 --> 㪘
 - 闌 --> 䦨
+- 殭 --> 僵
+- 孺 --> 儒
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

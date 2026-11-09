@@ -69,6 +69,7 @@ tags: [lookup]
 - ¡枡! - 違法字
 - ¡枠! - 違法字
 - 构 --> 構
+- 杰 --> 傑
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
@@ -133,6 +134,7 @@ tags: [lookup]
 - 桉 --> 案
 - 栞 --> 刊
 - 样 --> 様
+- 桀 --> 傑
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail
@@ -200,6 +202,7 @@ tags: [lookup]
 - ¡榌! - 違法字
 - ¡榁! - 違法字
 - ¡榊! - 違法字
+- 榆 --> 兪
 
 ### +10 Strokes
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea

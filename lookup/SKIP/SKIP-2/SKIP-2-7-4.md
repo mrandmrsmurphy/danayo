@@ -25,6 +25,9 @@ tags: [lookup]
 ### Forbidden
 - 您 - 中国制造: HSK/1, but solely Chinese.  First attested in the Yuan era.  Use 君 for 'you'.
 
+### Aliases
+- 桀 --> 傑
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

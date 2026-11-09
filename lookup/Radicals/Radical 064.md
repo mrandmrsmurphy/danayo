@@ -153,6 +153,7 @@ tags: [lookup]
 - 摺 --> 折
 - 摹 --> 模
 - 摸 --> 模
+- 摧 --> 催
 
 ### +11 Strokes
 110. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere

@@ -15,6 +15,8 @@ tags: [lookup]
 ### Aliases
 - 刂 --> Radical 018, from 刀
 - 儿 --> 児
+- 儿 --> 児
+
 ### Forbidden
 - 丷 - 口訣: Korean 구결 for '하다'
 

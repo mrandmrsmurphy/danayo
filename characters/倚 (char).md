@@ -36,7 +36,7 @@ tags:
   - character
 kwin: true
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 倚.
 >For the word, see [倚](../words/倚.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1528th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 支B三開|ɣiᴇ]] → [ㄜㄧ](../syllables/ㄜㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 猗
+犭 + 奇, an exclamation of admiration; built on 奇 as phonetic and kept as an alias of 倚. SKIP 1-3-8; 11 strokes. Radical 094 犬. It ranks 2936 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 𠋣
+A rare variant form of 倚; Wiktionary gives no definition. SKIP 1-2-9 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[倚]]<rt>ㄜㄧ</rt></ruby> "rely on; depend upon" (stand-in for 倚)

@@ -58,6 +58,7 @@ tags:
 
 ### +8 Strokes
 18. <ruby>[勉](../../characters/勉%20(char).md)<rt>ㄇ⼶ㄋ</rt></ruby> - exert
+- 勌 --> 倦
 
 ### +9 Strokes
 19. <ruby>[勒](../../characters/勒.md)<rt>ㄌㄜㄎ</rt></ruby> - rein in

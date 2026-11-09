@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- 儿 --> 児
+
 ### +1 Stroke
 1. <ruby>[兀](../../characters/兀.md)<rt>ㄛㄊ</rt></ruby> - cut off feet
 
@@ -34,6 +37,7 @@ tags: [lookup]
 
 ### +6 Strokes
 13. <ruby>[兎](../../characters/兎%20(char).md)<rt>ㄊㄛ</rt></ruby> - rabbit
+- 兒 --> 児
 
 ### +7 Strokes
 14. <ruby>[兗](../../characters/兗.md)<rt>⼶ㄋ</rt></ruby> - Yanzhou (place name)

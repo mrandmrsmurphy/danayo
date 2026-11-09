@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,8 +44,16 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 会意: [[Radical 011|入]] ("enter") over 舟 ("boat," historically corrupted from 凡) — an early form later reused as the phonetic basis for its whole descendant family; by vault fiat, this character and its descendants all end in -m, to reduce homophony.
 - [SKIP-2-2-7](../lookup/SKIP/SKIP-2/SKIP-2-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
-- 1536th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [⼜ㄇ](../syllables/⼜ㄇ.md)
+- 1536th most used character in Classical Chinese (rank belongs to the variant form 俞). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [⼜ㄇ](../syllables/⼜ㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 俞
+Variant form of 兪 (a surname and "to hollow a tree for a boat"). SKIP 1-2-7 (computed: EDRDG does not list it); 9 strokes. Radical 009 人. It ranks 1536 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 榆
+木 + 兪, "elm"; built on 兪 as phonetic and kept as an alias. SKIP 1-4-9 (computed: EDRDG does not list it); 13 strokes. Radical 075 木. It ranks 2269 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[兪]]<rt>⼜ㄇ</rt></ruby> "agree to" (stand-in for 兪)

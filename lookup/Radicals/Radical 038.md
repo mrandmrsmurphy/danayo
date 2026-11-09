@@ -82,6 +82,8 @@ tags: [lookup]
 49. <ruby>[婿](../../characters/婿%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - bridegroom
 50. <ruby>[媒](../../characters/媒.md)<rt>ㄇㄛㄧ</rt></ruby> - mediator
 51. <ruby>[媛](../../characters/媛.md)<rt>ㄛㄋ</rt></ruby> - beautiful woman
+- 媮 --> 偷
+- 婾 --> 偷
 
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant

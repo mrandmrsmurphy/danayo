@@ -104,6 +104,9 @@ tags:
 - 綜 --> 総
 - 臧 --> 臓
 - 與 --> 与
+- 僞 --> 偽
+- 摧 --> 催
+- 暝 --> 冥
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

@@ -13,6 +13,9 @@ tags:
 ### +0 Strokes
 - 宀 — roof/shelter component; no standalone character file
 
+### +2 Strokes
+- 宂 --> 冗
+
 ### +3 Strokes
 1. <ruby>[宅](../../characters/宅.md)<rt>ㄐㄚㄎ</rt></ruby> - house
 2. <ruby>[宇](../../characters/宇.md)<rt>ㄨ</rt></ruby> - universe
@@ -59,6 +62,7 @@ tags:
 30. <ruby>[寅](../../characters/寅.md)<rt>ㄧㄋ</rt></ruby> - respect
 31. <ruby>[密](../../characters/密%20(char).md)<rt>ㄇㄧㄊ</rt></ruby> - dense
 32. <ruby>[寇](../../characters/寇.md)<rt>ㄎㄛㄨ</rt></ruby> - bandit
+- 寃 --> 冤
 
 ### +9 Strokes
 33. <ruby>[富](../../characters/富.md)<rt>ㄈㄨㄛ</rt></ruby> - abundance

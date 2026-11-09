@@ -96,6 +96,12 @@ tags:
 - 亚 --> 亜
 - 𠅃 --> 亦
 - 伫 --> 佇
+- 仿 --> 倣
+- 伦 --> 倫
+- 伪 --> 偽
+- 伞 --> 傘
+- 优 --> 優
+- 冱 --> 冴
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

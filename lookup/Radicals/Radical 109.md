@@ -51,6 +51,9 @@ tags:
 22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal
 - 𥈪 --> 尊
 
+### +10 Strokes
+- 瞑 --> 冥
+
 ### +11 Strokes
 - 瞢 --> 夢
 

@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 倶.
 >For the word, see [倶](../words/倶.md)
@@ -48,8 +48,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声: semantic [[人 (char)|人]] ("person") + phonetic [[具]] (OC \*ɡos) — "accompany, be with; together, all/both."
 - [SKIP-1-2-8](../lookup/SKIP/SKIP-1/SKIP-1-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
-- 568th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
+- 568th most used character in Classical Chinese (rank belongs to the traditional form 俱). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄍㄨ](../syllables/ㄍㄨ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 俱
+Traditional form (kyūjitai) of 倶, "together, all". SKIP 1-2-8; 10 strokes. It ranks 568 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[倶]]<rt>ㄍㄨ</rt></ruby> "accompany, be with" (stand-in for 倶)

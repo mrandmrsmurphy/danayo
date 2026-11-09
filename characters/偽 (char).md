@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 偽.
 >For the word, see [偽](../words/偽.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-2-9](../lookup/SKIP/SKIP-1/SKIP-1-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1144th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [⼔ㄧ](../syllables/⼔ㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 僞
+Traditional form (kyūjitai) of 偽, "false". SKIP 1-2-12; 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 伪
+Simplified Chinese form of 僞. SKIP 1-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[偽]]<rt>⼔ㄧ</rt></ruby> "false; artificial" (stand-in for 偽)

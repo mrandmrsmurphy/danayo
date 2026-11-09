@@ -106,6 +106,7 @@ tags: [lookup]
 57. <ruby>[練](../../characters/練.md)<rt>ㄌㄝㄋ</rt></ruby> - practice
 - 缩 --> 縮
 - 綜 --> 総
+- 綸 --> 倫
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense

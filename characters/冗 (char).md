@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 冗.
 >For the word, see [冗](../words/冗.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-2](../lookup/SKIP/SKIP-2/SKIP-2-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 3707th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄋ⼄ㄫ](../syllables/ㄋ⼄ㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 宂
+A variant form of 冗, "superfluous". SKIP 2-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 040 宀. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[冗]]<rt>ㄋ⼄ㄫ</rt></ruby> "superfluous; excessive" (stand-in for 冗)

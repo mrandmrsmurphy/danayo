@@ -31,6 +31,7 @@ Radical 1 is 一, the number one.
 - 亐 --> ancient variant of 于
 - 卄 --> ancient variant of 廿
 - 亐 --> 于
+- 丌 --> 其
 
 ### +3 Strokes
 10. <ruby>[[不 (char)|不]]<rt>ㄅㄛㄊ</rt></ruby> - not

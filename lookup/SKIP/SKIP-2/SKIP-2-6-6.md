@@ -47,6 +47,7 @@ tags: [lookup]
 - 筑 --> 築
 - 畫 --> 画
 - 茻 --> 莽
+- 奡 --> 傲
 
 ## Datacheck
 ```dataview

@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 𪺠 --> 窓
+- 𤕲 --> 俎
 
 ## Data check
 ```dataview

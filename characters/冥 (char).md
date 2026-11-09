@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 冥.
 >For the word, see [冥](../words/冥.md)
@@ -51,6 +51,20 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-8](../lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1191st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄇㄝㄫ](../syllables/ㄇㄝㄫ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 溟
+氵 + 冥, "sea, drizzling rain"; built on 冥 as phonetic and kept as an alias. SKIP 1-3-10; 13 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
+
+### 暝
+日 + 冥, "night"; built on 冥 as phonetic and kept as an alias. SKIP 1-4-10; 14 strokes. Radical 072 日. It has no rank of its own in the Classical Chinese lists.
+
+### 瞑
+目 + 冥, "to close the eyes"; built on 冥 as phonetic and kept as an alias. SKIP 1-5-10; 15 strokes. Radical 109 目. It ranks 2646 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 慏
+A rare variant form of 冥; Wiktionary gives no definition. SKIP 1-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[冥]]<rt>ㄇㄝㄫ</rt></ruby> "dark, gloomy" (stand-in for 冥)

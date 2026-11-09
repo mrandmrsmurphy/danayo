@@ -61,6 +61,7 @@ tags:
 20. <ruby>[獵](../../characters/獵%20(char).md)<rt>ㄌㄛㄆ</rt></ruby> - hunt
 - 猟 --> variant of 獵
 - 猎 --> simplified of 獵
+- 猗 --> 倚
 
 ### +8 Strokes
 21. <ruby>[猩](../../characters/猩.md)<rt>ㄙㄝㄫ</rt></ruby> - orangutan

@@ -22,6 +22,7 @@ tags: [lookup]
 - 剧 --> 劇
 - 倝 --> 幹
 - 剔 --> 剃
+- 勌 --> 倦
 
 ## Datacheck
 ```dataview

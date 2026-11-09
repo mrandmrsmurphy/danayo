@@ -32,6 +32,9 @@ tags: [lookup]
 8. <ruby>[殖](../../characters/殖.md)<rt>ㄙㄧㄎ</rt></ruby> - breed
 - 殘 --> 残
 
+### +13 Strokes
+- 殭 --> 僵
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

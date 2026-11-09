@@ -95,6 +95,9 @@ tags:
 - 旒 --> 㐬
 - 僉 --> 㑒
 - 預 --> 予
+- 榆 --> 兪
+- 溟 --> 冥
+- 慏 --> 冥
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

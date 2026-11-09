@@ -157,6 +157,7 @@ tags: [lookup]
 - 渔 --> 漁
 - 淺 --> 浅
 - 淸 --> 清
+- 淒 --> 凄
 
 ### +8 Strokes
 103. <ruby>[淵](../../characters/淵.md)<rt>⼔ㄋ</rt></ruby> - abyss
@@ -205,6 +206,7 @@ tags: [lookup]
 - 滝 --> 瀧
 - 溪 --> 渓
 - 溫 --> 温
+- 溟 --> 冥
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through

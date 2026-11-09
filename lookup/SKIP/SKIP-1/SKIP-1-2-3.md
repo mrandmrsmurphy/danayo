@@ -30,6 +30,7 @@ tags:
 - 归 --> 帰
 - 训 --> 訓
 - 议 --> 議
+- 仪 --> 儀
 
 ## Datacheck
 ```dataview

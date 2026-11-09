@@ -49,6 +49,7 @@ tags: [lookup]
 ### +9 Strokes
 19. <ruby>[奢](../../characters/奢.md)<rt>ㄙ⼘</rt></ruby> - extravagant
 20. <ruby>[奥](../../characters/奥%20(char).md)<rt>ㄨㄎ</rt></ruby> - deep
+- 奡 --> 傲
 
 ### +10 Strokes
 21. <ruby>[奨](../../characters/奨.md)<rt>ㄐㄚㄫ</rt></ruby> - award

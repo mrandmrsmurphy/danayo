@@ -26,6 +26,8 @@ tags: [lookup]
 - 劝 --> 勧
 - 计 --> 計
 - 认 --> 認
+- 仅 --> 僅
+- 仆 --> 僕
 
 ## Datacheck
 ```dataview

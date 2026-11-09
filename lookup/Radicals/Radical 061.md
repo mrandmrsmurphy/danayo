@@ -75,6 +75,7 @@ tags: [lookup]
 42. <ruby>[悦](../../characters/悦.md)<rt>⼶ㄊ</rt></ruby> - ecstatic
 43. <ruby>[悩](../../characters/悩%20(char).md)<rt>ㄋㄚㄨ</rt></ruby> - angered
 - 悅 --> 悦
+- 悧 --> 俐
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -92,6 +93,7 @@ tags: [lookup]
 - 惟 --> 唯
 - 惯 --> 慣
 - 惊 --> 驚
+- 悽 --> 凄
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad
@@ -103,6 +105,7 @@ tags: [lookup]
 62. <ruby>[愕](../../characters/愕.md)<rt>ㄚㄎ</rt></ruby> - astonished
 63. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
 - 惣 --> 総
+- 愢 --> 偲
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
@@ -117,6 +120,7 @@ tags: [lookup]
 73. <ruby>[慈](../../characters/慈.md)<rt>ㄐㄧ</rt></ruby> - kind
 74. <ruby>[慎](../../characters/慎.md)<rt>ㄙㄧㄋ</rt></ruby> - cautious
 75. <ruby>[慨](../../characters/慨%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - sigh
+- 慏 --> 冥
 
 ### +10 Strokes
 76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity

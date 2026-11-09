@@ -56,6 +56,7 @@ tags:
 - 腦 --> 脳
 - 旒 --> 㐬
 - 預 --> 予
+- 榆 --> 兪
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

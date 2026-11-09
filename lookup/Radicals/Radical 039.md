@@ -45,6 +45,9 @@ tags: [lookup]
 ### +10 Strokes
 13. <ruby>[季](../../characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> - season
 
+### +14 Strokes
+- 孺 --> 儒
+
 ### Aliases
 - 學 --> 学
 

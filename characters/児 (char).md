@@ -32,7 +32,7 @@ aliases:
   - 兒
   - 儿
 注音: ㄝㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,8 +48,16 @@ boundedness: 60
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): an infant with an imperfect cranium (i.e. the fontanelle); "child, offspring."
 - [SKIP-2-5-2](../lookup/SKIP/SKIP-2/SKIP-2-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 1068th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄝㄧ](../syllables/ㄝㄧ.md)
+- 1068th most used character in Classical Chinese (rank belongs to the traditional form 兒). Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄝㄧ](../syllables/ㄝㄧ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 兒
+Traditional form (kyūjitai) of 児, "child". SKIP 2-6-2; 8 strokes. It ranks 1068 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 儿
+The Kangxi radical 10, the simplified form of 兒 and the lower part of 児; kept as an alias. SKIP 1-1-1; 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[児]]<rt>ㄝㄧ</rt></ruby> "baby" (stand-in for 児)

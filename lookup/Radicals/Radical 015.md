@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +4 Strokes
 - 冲 --> 沖
+- 冱 --> 冴
 
 ### +5 Strokes
 2. <ruby>[冷](../../characters/冷%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - cool
@@ -22,6 +23,7 @@ tags: [lookup]
 
 4. <ruby>[冶](../../characters/冶.md)<rt>⼘</rt></ruby> - smelt
 - 况 --> 況
+- 冻 --> 凍
 
 ### +8 Strokes
 5. <ruby>[凄](../../characters/凄.md)<rt>ㄑㄝㄧ</rt></ruby> - miserable
@@ -38,6 +40,7 @@ tags: [lookup]
 
 ### +13 Strokes
 9. <ruby>[凜](../../characters/凜%20(char).md)<rt>ㄌㄨㄇ</rt></ruby> - cold
+- 凛 --> 凜
 
 ### +14 Strokes
 10. <ruby>[凝](../../characters/凝.md)<rt>ㄜㄫ</rt></ruby> - congeal

@@ -156,6 +156,9 @@ tags:
 - 堺 --> 界
 - 游 --> 遊
 - 编 --> 編
+- 愢 --> 偲
+- 媮 --> 偷
+- 婾 --> 偷
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

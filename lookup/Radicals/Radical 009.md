@@ -34,6 +34,8 @@ aliases:
 7. <ruby>[仍](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet
 - ¡仒! - 違法字
 - 仓 --> 倉
+- 仅 --> 僅
+- 仆 --> 僕
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair
@@ -47,6 +49,7 @@ aliases:
 - 仕 --> 士
 - 㐶 --> 化
 - 仝 --> 同
+- 仪 --> 儀
 
 ### +4 Strokes
 16. <ruby>[仮](../../characters/仮.md)<rt>ㄍㄚ</rt></ruby> - borrow
@@ -71,6 +74,11 @@ aliases:
 - 伤 --> 傷
 - 众 --> 衆
 - 伫 --> 佇
+- 仿 --> 倣
+- 伦 --> 倫
+- 伪 --> 偽
+- 伞 --> 傘
+- 优 --> 優
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle
@@ -121,6 +129,11 @@ aliases:
 - 侈 --> 済
 - 侌 --> 陰
 - 佻 --> 兆
+- 侫 --> 佞
+- 侣 --> 侶
+- 侖 --> 倫
+- 侦 --> 偵
+- 侨 --> 僑
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -141,6 +154,9 @@ aliases:
 81. <ruby>[信](../../characters/信.md)<rt>ㄙㄧㄋ</rt></ruby> - trust
 82. <ruby>[俟](../../characters/俟.md)<rt>ㄐㄧㄜ</rt></ruby> - wait (literary)
 - ¡俧! - 違法字
+- 俠 --> 侠
+- 俣 --> 俁
+- 俞 --> 兪
 
 ### +8 Strokes
 83. <ruby>[修](../../characters/修.md)<rt>ㄙㄨㄛ</rt></ruby> - repair
@@ -170,6 +186,8 @@ aliases:
 - ¡們! - 違法字
 - 倝 --> 幹
 - 值 --> 値
+- 俱 --> 倶
+- 倾 --> 傾
 
 ### +9 Strokes
 102. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary
@@ -189,6 +207,9 @@ aliases:
 - 做 --> 作
 - 脩 --> 修
 - 假 --> 仮
+- 𠋣 --> 倚
+- 偸 --> 偷
+- 偿 --> 償
 
 ### +10 Strokes
 116. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great
@@ -221,6 +242,7 @@ aliases:
 132. <ruby>[僕](../../characters/僕.md)<rt>ㄅㄛㄎ</rt></ruby> - slave
 133. <ruby>[僚](../../characters/僚.md)<rt>ㄌ⼄ㄨ</rt></ruby> - colleague
 - 僖 --> 喜
+- 僞 --> 偽
 
 ### +13 Strokes
 134. <ruby>[僵](../../characters/僵.md)<rt>ㄍ⼘ㄫ</rt></ruby> - stiff corpse
@@ -229,6 +251,7 @@ aliases:
 137. <ruby>[億](../../characters/億.md)<rt>ㄧㄎ</rt></ruby> - hundred million
 - 𠏁 --> 化
 - 價 --> 価
+- 儉 --> 倹
 
 ### +14 Strokes
 138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
@@ -247,6 +270,7 @@ aliases:
 ### +19 Strokes
 144. <ruby>[儺 (char)](../../characters/儺%20(char).md)<rt>ㄋㄨㄛ</rt></ruby> - exorcism
 - 儼 --> 厳
+- 儹 --> 儧
 
 ## Data check
 ```dataview

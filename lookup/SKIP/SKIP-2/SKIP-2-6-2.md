@@ -22,6 +22,7 @@ tags: [lookup]
 - 卷 --> 巻
 - 劳 --> 労
 - 势 --> 勢
+- 兒 --> 児
 
 ## Datacheck
 ```dataview

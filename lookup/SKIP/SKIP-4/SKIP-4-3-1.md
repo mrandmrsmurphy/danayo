@@ -38,6 +38,7 @@ tags: [lookup]
 - 为 --> 為
 - 𠀋 --> 丈
 - 亐 --> 于
+- 丌 --> 其
 
 ## Datacheck
 ```dataview
