@@ -49,3 +49,6 @@ date-last-perfect: 2026-10-20
 
 ## Words
 - <ruby>[[瑟]]<rt>ㄙㄜㄊ</rt></ruby> "se (instrument)"
+
+## Chengyu
+- <ruby>[[膠柱鼓瑟]]<rt>ㄍ⼄ㄨㄐㄨㄍㄛㄙㄜㄊ</rt></ruby> "rigid and inflexible"

@@ -74,3 +74,6 @@ The original form of 刺, "thorn". SKIP 4-6-3; 6 strokes. Radical 075 木. It ha
 - <ruby>[[策]]<rt>ㄑㄚㄎ</rt></ruby> "scheme; plan"
 - <ruby>[[脊]]<rt>ㄐㄝㄎ</rt></ruby> "spine; ridge"
 - <ruby>[[責]]<rt>ㄐㄚㄎ</rt></ruby> "responsibility; duty"
+
+## Chengyu
+- <ruby>[[芒刺在背]]<rt>ㄇ⼘ㄫㄑㄧㄎㄐㄚㄧㄅㄛㄧ</rt></ruby> "thorns on one's back"

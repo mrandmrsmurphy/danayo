@@ -1,6 +1,6 @@
 ---
-date-last-perfect: 2026-10-29
-size: 151
+date-last-perfect: 2026-11-09
+size: 154
 tags:
   - chengyu
 ---
@@ -11,6 +11,9 @@ tags:
 - <ruby>[五臓六府](chengyu/五臓六府.md)<rt>ㄛㄐㄚㄫㄌㄨㄎㄈㄨ</rt></ruby> - internal organs
 - <ruby>[優柔不断](chengyu/優柔不断.md)<rt>ㄨㄛㄋ⼜ㄅㄛㄊㄉ⺢ㄋ</rt></ruby> - indecisive; undetermined; shilly-shally
 - <ruby>[切磋琢磨](chengyu/切磋琢磨.md)<rt>ㄑㄝㄊㄑㄚ·ㄊㄚㄎㄇㄚ</rt></ruby> - iron sharpens iron, friendly competition
+- <ruby>[一気化三清](chengyu/一気化三清.md)<rt>ㄧㄊㄎㄧㄜㄏ⺢ㄙㄚㄇㄑㄧㄫ</rt></ruby> - one breath becomes the Three Pure Ones
+- <ruby>[膠柱鼓瑟](chengyu/膠柱鼓瑟.md)<rt>ㄍ⼄ㄨㄐㄨㄍㄛㄙㄜㄊ</rt></ruby> - rigid and inflexible
+- <ruby>[芒刺在背](chengyu/芒刺在背.md)<rt>ㄇ⼘ㄫㄑㄧㄎㄐㄚㄧㄅㄛㄧ</rt></ruby> - thorns on one's back
 - <ruby>[一帆風順](chengyu/一帆風順.md)<rt>ㄧㄊㄆㄚㄇㄈㄨㄫㄙ⼜ㄋ</rt></ruby> - smooth sailing
 - <ruby>[一攫千金](chengyu/一攫千金.md)<rt>ㄧㄊㄈㄛㄎㄑㄝㄋㄍㄧㄇ</rt></ruby> - make a fortune in an instant
 - <ruby>[一日三秋](chengyu/一日三秋.md)<rt>ㄧㄊㄋㄧㄊㄙㄚㄇㄑㄨㄛ</rt></ruby> - one day is like three autumns

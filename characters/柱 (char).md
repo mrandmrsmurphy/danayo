@@ -52,3 +52,5 @@ boundedness: 75
 - <ruby>[[緑柱素]]<rt>ㄌㄛㄎㄐㄨㄙㄛ</rt></ruby> "beryllium"
 - <ruby>[[鉄柱]]<rt>ㄊㄝㄊㄐㄨ</rt></ruby> "iron pillar"
 
+## Chengyu
+- <ruby>[[膠柱鼓瑟]]<rt>ㄍ⼄ㄨㄐㄨㄍㄛㄙㄜㄊ</rt></ruby> "rigid and inflexible"

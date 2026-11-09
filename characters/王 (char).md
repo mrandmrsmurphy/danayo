@@ -51,6 +51,7 @@ boundedness: 90
 - <ruby>[[王]]<rt>⺢ㄫ</rt></ruby> "king" (stand-in for 王)
 - <ruby>[[連合王国]]<rt>ㄌ⼶ㄋㄍㄛㄆ⺢ㄫㄍㄛㄎ</rt></ruby> "United Kingdom"
 - <ruby>[[王位]]<rt>⺢ㄫ⼔ㄧ</rt></ruby> "throne"
+- <ruby>[[西王母]]<rt>ㄙㄝㄧ⺢ㄫㄇㄛㄨ</rt></ruby> "Queen Mother of the West"
 - <ruby>[[王畿]]<rt>⺢ㄫㄍㄧㄜ</rt></ruby> "royal domain"
 - <ruby>[[大王]]<rt>ㄉㄚㄧ⺢ㄫ</rt></ruby> "great king"
 - <ruby>[[王冠]]<rt>⺢ㄫㄍ⺢ㄋ</rt></ruby> "crown"

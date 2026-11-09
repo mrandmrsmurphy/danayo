@@ -59,6 +59,7 @@ boundedness: 80
 
 ## Chengyu
 - <ruby>[[自由自在]]<rt>ㄐㄧㄜ⼜ㄛㄐㄧㄜㄐㄚㄧ</rt></ruby> "footloose and fancy free"
+- <ruby>[[芒刺在背]]<rt>ㄇ⼘ㄫㄑㄧㄎㄐㄚㄧㄅㄛㄧ</rt></ruby> "thorns on one's back"
 
 ## Derived Characters
 - <ruby>[[財]]<rt>ㄐㄚㄧ</rt></ruby> "wealth"

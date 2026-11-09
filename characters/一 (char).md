@@ -117,6 +117,7 @@ In compounds, 一 is often prefixed to a large-number unit (溝, 兆, 億, 万, 
 - <ruby>[[言行一致]]<rt>ㄝㄋㄏㄚㄫㄧㄊㄑㄧㄜ</rt></ruby> "true to one's word; consistency of word and action"
 - <ruby>[[混然一体]]<rt>ㄏㄛㄋㄋ⼶ㄋ·ㄧㄊㄊㄝㄧ</rt></ruby> "monad, utterly unified"
 - <ruby>[[百聞不如一見]]<rt>ㄅㄚㄎㄇㄨㄋㄅㄛㄊㄋ⼄ㄧㄊㄍ⼶ㄋ</rt></ruby> "Hearing something one hundred times is not as good as seeing it once"
+- <ruby>[[一気化三清]]<rt>ㄧㄊㄎㄧㄜㄏ⺢ㄙㄚㄇㄑㄧㄫ</rt></ruby> "one breath becomes the Three Pure Ones"
 
 ## Derived Characters
 This character is also Radical 001; fifteen other characters in this vault (七, 丁, 丈, 三, 上, 下, 与, 不, 且, 丘, 両, 丐, 丑, 丞, 世) are indexed under it for Kangxi radical purposes without being true etymological descendants. Two genuine compositional descendants:

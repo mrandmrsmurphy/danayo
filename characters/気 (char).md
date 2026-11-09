@@ -89,5 +89,7 @@ The Kangxi radical 84 and the original form of 気, "air". SKIP 2-2-2; 4 strokes
 
 ## Chengyu
 - <ruby>[[意気揚揚]]<rt>ㄜ·ㄎㄧㄜ⼘ㄫ⼘ㄫ</rt></ruby> "triumphalism; proud; complacent"
+- <ruby>[[一気化三清]]<rt>ㄧㄊㄎㄧㄜㄏ⺢ㄙㄚㄇㄑㄧㄫ</rt></ruby> "one breath becomes the Three Pure Ones"
+
 ## Derived Characters
 - <ruby>[[汽]]<rt>ㄎㄧㄜ</rt></ruby> "vapor, steam"

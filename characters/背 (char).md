@@ -61,3 +61,6 @@ date-last-perfect: 2026-10-20
 - <ruby>[[舌背]]<rt>ㄙㄝㄊ·ㄅㄛㄧ</rt></ruby> "dorsal; tongue-back"
 - <ruby>[[背面]]<rt>ㄅㄛㄧㄇ⼶ㄋ</rt></ruby> "back"
 - <ruby>[[背信]]<rt>ㄅㄛㄧㄙㄧㄋ</rt></ruby> "to break faith; breach of faith"
+
+## Chengyu
+- <ruby>[[芒刺在背]]<rt>ㄇ⼘ㄫㄑㄧㄎㄐㄚㄧㄅㄛㄧ</rt></ruby> "thorns on one's back"
