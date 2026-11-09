@@ -53,6 +53,8 @@ tags:
 - 烧 --> 熱
 - 烉 --> 煥
 - 桉 --> 案
+- 样 --> 様
+- 烦 --> 煩
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

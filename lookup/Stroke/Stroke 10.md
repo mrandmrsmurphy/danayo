@@ -86,6 +86,10 @@ tags:
 - 读 --> 読
 - 竝 --> 並
 - 效 --> 効
+- 换 --> 換
+- 鬥 --> 斗
+- 样 --> 様
+- 烦 --> 煩
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

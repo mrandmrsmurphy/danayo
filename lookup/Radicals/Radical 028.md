@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### Aliases
 - 厷 --> 宏
+- 县 --> 県
 
 ## Data check
 ```dataview

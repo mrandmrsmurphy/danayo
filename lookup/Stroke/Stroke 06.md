@@ -63,6 +63,8 @@ tags:
 - 𡚴 --> 安
 - 庆 --> 慶
 - 扬 --> 揚
+- 汤 --> 湯
+- 产 --> 産
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

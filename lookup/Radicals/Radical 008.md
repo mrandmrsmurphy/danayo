@@ -20,6 +20,7 @@ tags: [lookup]
 3. <ruby>[交](../../characters/交%20(char).md)<rt>ㄍ⼄ㄨ</rt></ruby> - mix
 4. <ruby>[亥](../../characters/亥.md)<rt>ㄏㄚㄧ</rt></ruby> - dozen
 5. <ruby>[亦](../../characters/亦%20(char).md)<rt>ㄜㄎ</rt></ruby> - too
+- 产 --> 産
 
 ### +5 Strokes
 6. <ruby>[亨](../../characters/亨.md)<rt>ㄏㄚㄫ</rt></ruby> - go well

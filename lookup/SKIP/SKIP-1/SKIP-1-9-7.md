@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 餘 --> 余
+- 縣 --> 県
 
 ## Datacheck
 ```dataview

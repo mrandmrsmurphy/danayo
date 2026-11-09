@@ -29,7 +29,7 @@ mc_id: 399
 graphemic_classification: 会意
 stand_in: 更
 注音: ㄍㄚㄫ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ aliases:
 - [SKIP-4-7-1](../lookup/SKIP/SKIP-4/SKIP-4-7-1.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 399th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 庚二開|ɣæŋ]] → [ㄍㄚㄫ](../syllables/ㄍㄚㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 粳
+米 + 更, "non-glutinous rice"; a separate character kept as an alias of 更 for search. SKIP 1-6-7 (EDRDG); 13 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-7; 13 strokes. Radical 119 米. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[更]]<rt>ㄍㄚㄫ</rt></ruby> "more" (stand-in for 更)

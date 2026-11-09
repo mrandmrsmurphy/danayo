@@ -77,6 +77,8 @@ tags:
 - 报 --> 報
 - 狄 --> 翟
 - 块 --> 塊
+- 沒 --> 没
+- 犹 --> 猶
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

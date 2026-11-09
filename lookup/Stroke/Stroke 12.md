@@ -86,6 +86,10 @@ tags: [lookup]
 - 雳 --> 歴
 - 傚 --> 効
 - 睏 --> 困
+- 曾 --> 曽
+- 絛 --> 条
+- 渴 --> 渇
+- 爲 --> 為
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

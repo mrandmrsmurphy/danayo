@@ -30,6 +30,7 @@ tags:
 ### Aliases
 - 做 --> 作
 - 脩 --> 修
+- 條 --> 条
 
 ## Datacheck
 ```dataview

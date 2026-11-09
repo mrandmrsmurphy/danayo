@@ -31,7 +31,7 @@ stand_in: "球"
 aliases:
   - 毬
 注音: "ㄍ⼜"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 90
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2648th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄍ⼜](../syllables/ㄍ⼜.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 毬
+毛 + 求, "ball"; a variant of 球 kept as an alias for search. SKIP 3-4-7 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2648 is 球's own. SKIP 3-4-7; 11 strokes. Radical 082 毛. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[球]]<rt>ㄍ⼜</rt></ruby> "sphere; ball" (stand-in for 球)

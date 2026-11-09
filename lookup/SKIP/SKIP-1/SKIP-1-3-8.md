@@ -148,6 +148,7 @@ tags:
 - 娼 --> 唱
 - 据 --> 拠
 - 惟 --> 唯
+- 淸 --> 清
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

@@ -31,7 +31,7 @@ stand_in: "武"
 aliases:
   - 㱐
 注音: "ㄇㄨ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 75
 - [SKIP-3-4-4](../lookup/SKIP/SKIP-3/SKIP-3-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 134th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄇㄨ](../syllables/ㄇㄨ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 㱐
+A rare form of 武 (止 over a shortened 戈) that Wiktionary glosses only as the Japanese "hoban" military-officer rank; kept as an alias so it has somewhere to be written. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[武]]<rt>ㄇㄨ</rt></ruby> "military" (stand-in for 武)

@@ -100,3 +100,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 帯 (char) | 带 | 2-6-3 | computed from its parts |
 | 慶 (char) | 庆 | 3-3-3 | computed from its parts |
 | 揚 (char) | 扬 | 1-3-3 | computed from its parts |
+| 換 (char) | 换 | 1-3-7 | computed from its parts |
+| 様 (char) | 样 | 1-4-6 | computed from its parts |
+| 武 (char) | 㱐 | 3-4-3 | computed from its parts |
+| 清 | 淸 | 1-3-8 | computed from its parts |
+| 済 (char) | 济 | 1-3-6 | computed from its parts |
+| 湯 (char) | 汤 | 1-3-3 | computed from its parts |
+| 為 (char) | 为 | 4-3-1 | computed from its parts |
+| 煩 (char) | 烦 | 1-4-6 | computed from its parts |
+| 産 | 產 | 3-6-5 | computed from its parts |
+| 産 | 产 | 2-2-4 | computed from its parts |
+| 県 (char) | 县 | 2-5-2 | computed from its parts |
+| 礼 (char) | 𥜪 | 1-5-17 | computed from its parts |

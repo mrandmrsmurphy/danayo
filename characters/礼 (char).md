@@ -43,7 +43,7 @@ aliases:
   - 禮
   - 𥜪
 注音: "ㄌㄝㄧ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -59,8 +59,16 @@ boundedness: 90
 ## Notes
 - 形声 (OC *riːʔ): semantic [[Radical 113|示]] ("altar") + phonetic [[豊]] (OC *riːʔ, an exact match) — performing rites at the altar; rites, courtesy, manners.
 - [SKIP-1-4-1](../lookup/SKIP/SKIP-1/SKIP-1-4-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
-- 115th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄌㄝㄧ](../syllables/ㄌㄝㄧ.md)
+- 115th most used character in Classical Chinese (rank belongs to the traditional form 禮). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄌㄝㄧ](../syllables/ㄌㄝㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 禮
+Traditional form of 礼 (kyūjitai), "ritual, courtesy". SKIP 1-5-13 (EDRDG); 18 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 115 is 禮's rank. SKIP 1-5-13; 18 strokes. It ranks 115 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 𥜪
+A rare form of 禮; Wiktionary gives no definition. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[礼]]<rt>ㄌㄝㄧ</rt></ruby> "manners" (stand-in for 礼)

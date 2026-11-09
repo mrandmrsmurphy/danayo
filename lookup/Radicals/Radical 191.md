@@ -14,6 +14,7 @@ tags: [lookup]
 ### Aliases
 - 鬧 --> 閙
 - 鬥 --> 門
+- 鬥 --> 斗
 
 ## Data check
 ```dataview

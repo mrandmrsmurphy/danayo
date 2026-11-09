@@ -91,6 +91,10 @@ tags:
 - 惟 --> 唯
 - 𠵊 --> 善
 - 帶 --> 帯
+- 條 --> 条
+- 淸 --> 清
+- 毬 --> 球
+- 產 --> 産
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

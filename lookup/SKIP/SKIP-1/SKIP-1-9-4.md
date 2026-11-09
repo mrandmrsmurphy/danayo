@@ -29,6 +29,7 @@ tags: [lookup]
 
 ### Aliases
 - 䩗 --> 覇
+- 猷 --> 猶
 
 ## Datacheck
 ```dataview

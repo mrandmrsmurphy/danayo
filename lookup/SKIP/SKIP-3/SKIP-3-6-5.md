@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[産](/characters/産.md)<rt>ㄙㄚㄋ</rt></ruby> - give birth
 
+### Aliases
+- 產 --> 産
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

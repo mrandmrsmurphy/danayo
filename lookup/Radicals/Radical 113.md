@@ -54,6 +54,12 @@ tags:
 ### +11 Strokes
 - 禧 --> 喜
 
+### +13 Strokes
+- 禮 --> 礼
+
+### +17 Strokes
+- 𥜪 --> 礼
+
 ### Aliases
 - 禦 --> 御
 - 祂 --> 他

@@ -33,7 +33,7 @@ aliases:
   - 樣
   - 样
 注音: ⼘ㄫ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 60
 - [SKIP-1-4-10](../lookup/SKIP/SKIP-1/SKIP-1-4-10.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 9173rd most used character in Classical Chinese (outside the locally-checkable `CC 0000–3000` range, trusted verbatim per the checklist's own policy). Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [⼘ㄫ](../syllables/⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 樣
+Traditional form (kyūjitai) of 様, "appearance, form". SKIP 1-4-11 (EDRDG); 15 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 9173 is 様's own. SKIP 1-4-11; 15 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 样
+木 + 羊, the Chinese simplified form of 樣 (Wiktionary's own entry is an obsolete "wooden pillar"). SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[様]]<rt>⼘ㄫ</rt></ruby> "-ly (adverbializer)" (stand-in for 様)

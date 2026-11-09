@@ -32,7 +32,7 @@ stand_in: 渇
 aliases:
   - 渴
 注音: ㄎㄚㄊ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -48,8 +48,13 @@ boundedness: 55
 ## Notes
 - 形声 (OC *kʰaːd): semantic [[Radical 085|氵]] ("water") + phonetic [[曷 (char)|曷]] — water exhausted, dried up; thirst.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 1694th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄎㄚㄊ](../syllables/ㄎㄚㄊ.md)
+- 1694th most used character in Classical Chinese (rank belongs to the traditional form 渴). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 曷|ɑt]] → [ㄎㄚㄊ](../syllables/ㄎㄚㄊ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 渴
+Traditional form of 渇 (kyūjitai), "thirsty". SKIP 1-3-9 (EDRDG); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1694 is 渴's rank. SKIP 1-3-9; 12 strokes. It ranks 1694 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[渇]]<rt>ㄎㄚㄊ</rt></ruby> "thirst; thirsty" (stand-in for 渇)

@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +6 Strokes
 2. <ruby>[産](../../characters/産.md)<rt>ㄙㄚㄋ</rt></ruby> - give birth
+- 產 --> 産
 
 ### +7 Strokes
 3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - nephew

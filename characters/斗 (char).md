@@ -34,7 +34,7 @@ stand_in: 斗
 aliases:
   - 鬥
 注音: ㄉㄛㄨ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -52,6 +52,11 @@ boundedness: 100
 - [SKIP-3-2-2](../lookup/SKIP/SKIP-3/SKIP-3-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 944th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄉㄛㄨ](../syllables/ㄉㄛㄨ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 鬥
+Traditional form of the radical 191 (門 with 斗 inside), "to fight, to struggle"; a separate character from 斗 ("dipper") that the Japanese and Chinese simplifications merge into 斗. SKIP 1-5-5 (EDRDG); 10 strokes. It ranks 1298 in the Classical Chinese lists, worse than 斗's own 944, so the `mc_id` stays 944. SKIP 1-5-5; 10 strokes. Radical 191 鬥. It ranks 1298 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[斗]]<rt>ㄉㄛㄨ</rt></ruby> "peck; Dipper" (stand-in for 斗)

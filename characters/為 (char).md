@@ -39,7 +39,7 @@ aliases:
   - 爲
   - 为
 注音: ⼔ㄋ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -58,6 +58,14 @@ boundedness: 100
 - 7th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [⼔ㄋ](../syllables/⼔ㄋ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - 為 is a "copulative particle," a prefix for a verbal complement, as in <ruby>[[謂之]]<rt>ㄨㄧ·ㄊㄧ</rt></ruby><ruby>光明<rt>ㄎ⺢ㄫㄇ⼶ㄫ</rt></ruby><ruby>為<rt>⼔ㄋ</rt></ruby><ruby>日<rt>ㄋㄧㄊ</rt></ruby> — "he named the light 'day'."
+
+## Aliases
+
+### 爲
+Variant (kyūjitai) form of 為, "to do, to perform". SKIP 2-4-8 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 7 is 為's own. SKIP 2-4-8; 12 strokes. Radical 087 爪. It has no rank of its own in the Classical Chinese lists.
+
+### 为
+Simplified Chinese form of 為. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 7 is 為's own. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. Radical 003 丶. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[為]]<rt>⼔ㄋ</rt></ruby> "namely" (stand-in for 為)

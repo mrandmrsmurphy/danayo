@@ -41,6 +41,7 @@ tags: [lookup]
 17. <ruby>[烏](../../characters/烏.md)<rt>ㄛ</rt></ruby> - crow
 18. <ruby>[烝](../../characters/烝.md)<rt>ㄙㄧㄫ</rt></ruby> - masses
 - 烉 --> 煥
+- 烦 --> 煩
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore

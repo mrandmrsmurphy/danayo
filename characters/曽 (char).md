@@ -33,7 +33,7 @@ stand_in: 曽
 aliases:
   - 曾
 注音: ㄐㄜㄫ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 tags:
   - character
 kwin: true
@@ -49,8 +49,13 @@ boundedness: 70
 ## Notes
 - [List of 象形](../lookup/List%20of%20象形.md): originally depicted a cooker for steaming food, later phonetically borrowed for the temporal/genealogical sense "once, already" and (in this vault) "great-" as in ancestral generations. In bronze inscriptions a decorative 口 was added, which evolved into the modern glyph's [[Radical 073|曰]] — a coincidence of Kangxi radical filing, not a real semantic component.
 - [SKIP-2-2-9](../lookup/SKIP/SKIP-2/SKIP-2-2-9.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 753rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄐㄜㄫ](../syllables/ㄐㄜㄫ.md)
+- 753rd most used character in Classical Chinese (rank belongs to the traditional form 曾). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 登開|əŋ]] → [ㄐㄜㄫ](../syllables/ㄐㄜㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 曾
+Traditional form (kyūjitai) of 曽; Unihan lists 曽 as its Japanese new variant. "Already, once". SKIP 2-2-10 (EDRDG); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 753 is 曾's rank. SKIP 2-2-10; 12 strokes. It ranks 753 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[曽]]<rt>ㄐㄜㄫ</rt></ruby> "great-" (stand-in for 曽)

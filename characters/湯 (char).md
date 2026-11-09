@@ -31,7 +31,7 @@ stand_in: "湯"
 aliases:
   - 汤
 注音: "ㄊㄚㄫ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 90
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 409th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄊㄚㄫ](../syllables/ㄊㄚㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 汤
+Simplified Chinese form of 湯. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 409 is 湯's own. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[湯]]<rt>ㄊㄚㄫ</rt></ruby> "hot water" (stand-in for 湯)

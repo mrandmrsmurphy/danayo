@@ -16,6 +16,9 @@ tags: [lookup]
 ### Forbidden
 - 毟 - 国字: "Pluck."
 
+### Aliases
+- 毬 --> 球
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

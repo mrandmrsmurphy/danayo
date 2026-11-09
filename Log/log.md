@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **Loop batch 7 (alias protocol), next ten oldest characters with aliases:** 渇, 済, 湯, 為, 煩, 猶, 球, 産, 県, 礼 gained their first `## Aliases` section (渴; 濟, 侈 and 济; 汤; 爲 and 为; 烦; 猷 and 犹; 毬; 產 and 产; 縣 and 县; 禮 and 𥜪), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (渇 1694 under 渴, 済 579 under 濟, 産 858 under 產, 県 392 under 縣, 礼 115 under 禮). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
+- **Loop batch 6 (alias protocol), next ten oldest characters with aliases:** 換, 斗, 更, 曽, 条, 様, 武, 民, 没, 清 gained their first `## Aliases` section (换; 鬥; 粳; 曾; 條, 縧 and 絛; 樣 and 样; 㱐; 岷; 沒 and 歿; 淸), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers (换, 样, 㱐, 淸) added to the guess list, and `mc_id` set to the lowest rank (曽 753 under 曾, 条 1294 under 條, 没 1158 under 沒). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
 - **Loop batch 5 (alias protocol), next ten oldest characters with aliases:** 壮, 孫, 安, 宗, 層, 帯, 慶, 拝, 掛, 揚 gained their first `## Aliases` section (壯; 孙; 侒, 𠕷, 𡚴 and 鮟; 㚇; 层; 帶 and 带; 庆; 拜; 挂; 扬), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (壮 1035 under 壯, 帯 1061 under 帶, 拝 294 under 拜). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
 
 - **Loop batch 4 (alias protocol), next ten oldest characters with aliases:** 唯, 善, 喜, 喪, 困, 園, 圧, 執, 堅, 塊 gained their first `## Aliases` section (惟; 譱 and nine rare Unicode-completeness forms of 善; 禧 and 僖; 丧; 睏; 园; 壓 and 压; 执; 鏗, 坚, 鰹 and 鲣; 块), with Stroke, SKIP and Radical redirects, and `mc_id` set to the lowest rank (唯 515 from 惟, 圧 ranked under 壓). New redirect-only SKIP leaves SKIP-2-6-21 (𦏯), SKIP-2-7-12 (𧬆) and SKIP-2-7-20 (𧮟), indexed with ø in the SKIP-2-6 and SKIP-2-7 stems. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.

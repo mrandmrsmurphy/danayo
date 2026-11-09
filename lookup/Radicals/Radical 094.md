@@ -25,6 +25,7 @@ tags:
 - 狀 --> traditional form of 状
 5. <ruby>[狂](../../characters/狂.md)<rt>ㄍ⺢ㄫ</rt></ruby> - crazy
 - 狄 --> 翟
+- 犹 --> 猶
 
 ### +4 Strokes
 6. <ruby>[狐](../../characters/狐.md)<rt>ㄏㄛ</rt></ruby> - fox
@@ -75,6 +76,7 @@ tags:
 - 猴 --> variant of 猿
 26. <ruby>[獅](../../characters/獅.md)<rt>ㄙㄧㄜ</rt></ruby> - lion
 - 狮 --> simplified of 獅
+- 猷 --> 猶
 
 ### +10 Strokes
 27. <ruby>[獄](../../characters/獄.md)<rt>⼄ㄎ</rt></ruby> - prison

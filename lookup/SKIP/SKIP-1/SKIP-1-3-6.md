@@ -83,6 +83,7 @@ tags:
 - 洌 --> 列
 - 恬 --> 甜
 - 挂 --> 掛
+- 济 --> 済
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

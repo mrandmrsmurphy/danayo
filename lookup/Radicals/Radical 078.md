@@ -16,6 +16,9 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[死](../../characters/死.md)<rt>ㄙㄧㄜ</rt></ruby> - die
 
+### +4 Strokes
+- 歿 --> 没
+
 ### +5 Strokes
 3. <ruby>[殃](../../characters/殃.md)<rt>⼘ㄫ</rt></ruby> - disaster
 4. <ruby>[殆](../../characters/殆.md)<rt>ㄉㄛㄧ</rt></ruby> - danger

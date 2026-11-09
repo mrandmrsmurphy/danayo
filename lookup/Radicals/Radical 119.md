@@ -32,6 +32,7 @@ tags: [lookup]
 
 ### +7 Strokes
 - 粲 --> 燦
+- 粳 --> 更
 
 ### +8 Strokes
 13. <ruby>[精](../../characters/精.md)<rt>ㄐㄝㄫ</rt></ruby> - spirit

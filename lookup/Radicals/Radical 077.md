@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 步 --> 歩
+- 㱐 --> 武
 
 ### +4 Strokes
 4. <ruby>[武](../../characters/武%20(char).md)<rt>ㄇㄨ</rt></ruby> - military

@@ -22,6 +22,7 @@ tags: [lookup]
 5. <ruby>[岬](../../characters/岬.md)<rt>ㄍㄚㄆ</rt></ruby> - headland
 6. <ruby>[岳](../../characters/岳.md)<rt>ㄚㄎ</rt></ruby> - mountain peak
 7. <ruby>[岸](../../characters/岸%20(char).md)<rt>ㄚㄋ</rt></ruby> - bank
+- 岷 --> 民
 
 ### +6 Strokes
 8. <ruby>[峡](../../characters/峡.md)<rt>ㄏㄚㄆ</rt></ruby> - gorge

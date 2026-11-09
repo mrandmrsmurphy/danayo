@@ -36,6 +36,7 @@ tags: [lookup]
 ### +8 Strokes
 10. <ruby>[最](../../characters/最%20(char).md)<rt>ㄐ⼔</rt></ruby> - most
 11. <ruby>[替](../../characters/替.md)<rt>ㄑㄝㄧ</rt></ruby> - replace
+- 曾 --> 曽
 
 ## Data check
 ```dataview

@@ -39,7 +39,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 没.
 >For the word, see [没](../words/没.md)
@@ -51,8 +51,16 @@ date-last-perfect: 2026-10-15
 ## Notes
 - 形声 (OC \*mɯːd): semantic [[Radical 085|氵]] ("water") + phonetic 𠬛 (no character page of its own in this vault) — to sink, to drown, to disappear beneath the water. Wiktionary's fuller account notes the stored field value [[勿 (char)|勿]] is a closely related, phonetically similar form (both m-initial, -t-final) sometimes cited colloquially alongside 𠬛, rather than the formal phonetic component itself; kept the vault's existing `勿` field since it is the linkable, phonetically-plausible member of the pair.
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 1158th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄇㄛㄊ](../syllables/ㄇㄛㄊ.md)
+- 1158th most used character in Classical Chinese (rank belongs to the traditional form 沒). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄇㄛㄊ](../syllables/ㄇㄛㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 沒
+Traditional form (kyūjitai) of 没, "not have". SKIP 1-3-4 (EDRDG); 7 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1158 is 沒's rank. SKIP 1-3-4; 7 strokes. It ranks 1158 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 歿
+歹 + 殳, "to die" (literary), also an alternative form of 沒. SKIP 1-4-4 (EDRDG); 8 strokes. It ranks 2420 in the Classical Chinese lists, worse than 沒's 1158, so the `mc_id` stays 1158. SKIP 1-4-4; 8 strokes. Radical 078 歹. It ranks 2420 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink" (stand-in for 没)

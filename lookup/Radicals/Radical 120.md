@@ -64,6 +64,7 @@ tags: [lookup]
 41. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
 - 絝 --> 袴
 - 䋝 --> 嬰
+- 絛 --> 条
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -102,6 +103,8 @@ tags: [lookup]
 69. <ruby>[縦](../../characters/縦%20(char).md)<rt>ㄐㄛㄇ</rt></ruby> - selfish
 70. <ruby>[縫](../../characters/縫.md)<rt>ㄅㄛㄫ</rt></ruby> - sew
 71. <ruby>[繁](../../characters/繁.md)<rt>ㄆㄚㄋ</rt></ruby> - lush
+- 縧 --> 条
+- 縣 --> 県
 
 ### +11 Strokes
 72. <ruby>[縮](../../characters/縮%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - shrink

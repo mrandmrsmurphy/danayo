@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 煩.
 >For the word, see [煩](../words/煩.md)
@@ -52,6 +52,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1037th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 奉|v]] + [[Lookup/CC/finals/韻 元合|ʉɐn]] → [ㄈㄛㄇ](../syllables/ㄈㄛㄇ.md) (pronunciation deliberately altered to a final -m to keep this syllable unique)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 烦
+Simplified Chinese form of 煩. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 1037 is 煩's own. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome" (stand-in for 煩)

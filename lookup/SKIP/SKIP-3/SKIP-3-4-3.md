@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 㦮 --> 残
+- 㱐 --> 武
 
 ## Datacheck
 ```dataview

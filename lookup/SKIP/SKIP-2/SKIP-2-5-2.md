@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Aliases
 - 皃 --> 貌
+- 县 --> 県
 
 ## Datacheck
 ```dataview

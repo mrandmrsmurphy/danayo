@@ -27,6 +27,7 @@ tags: [lookup]
 ### Aliases
 - 粮 --> 糧
 - 蜍 --> 余
+- 粳 --> 更
 
 ### Forbidden
 - 綁 - 官话: HSK 3, but used in no other country

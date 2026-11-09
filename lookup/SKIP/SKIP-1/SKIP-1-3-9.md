@@ -150,6 +150,7 @@ tags:
 - 渾 --> 混
 - 强 --> 強
 - 衕 --> 同
+- 渴 --> 渇
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

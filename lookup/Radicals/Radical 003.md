@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 丼 --> 井
 - 举 --> 挙
+- 为 --> 為
 
 ### Forbidden
 - 丷 - 口訣: Korean 구결 for '하다'

@@ -128,6 +128,7 @@ tags: [lookup]
 - ¡桝! - 違法字
 - 桉 --> 案
 - 栞 --> 刊
+- 样 --> 様
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail
@@ -145,6 +146,7 @@ tags: [lookup]
 - ¡梺! - 違法字
 - ¡椛! - 違法字
 - 梦 --> 夢
+- 條 --> 条
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -223,6 +225,7 @@ tags: [lookup]
 142. <ruby>[横](../../characters/横.md)<rt>ㄏ⺢ㄫ</rt></ruby> - crossing horizontally
 - ¡樰! - 違法字
 - 樊 --> 藩
+- 樣 --> 様
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant

@@ -20,6 +20,7 @@ tags: [lookup]
 ### Aliases
 - 㲵 --> 宵
 - 處 --> 処
+- 毬 --> 球
 
 ## Datacheck
 ```dataview

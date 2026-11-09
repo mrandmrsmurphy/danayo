@@ -32,6 +32,7 @@ tags: [lookup]
 
 13. <ruby>[汐](../../characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> - evening tide
 - ¡汢! - 違法字
+- 汤 --> 湯
 
 ### +3 Strokes
 14. <ruby>[求](../../characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - request
@@ -50,6 +51,7 @@ tags: [lookup]
 27. <ruby>[没](../../characters/没%20(char).md)<rt>ㄇㄛㄊ</rt></ruby> - drown
 28. <ruby>[沢](../../characters/沢.md)<rt>ㄉㄚㄎ</rt></ruby> - stream
 29. <ruby>[泛](../../characters/泛.md)<rt>ㄈㄧㄇ</rt></ruby> - flood
+- 沒 --> 没
 
 ### +4 Strokes
 30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous
@@ -98,6 +100,7 @@ tags: [lookup]
 - 洼 --> 窪
 - 洌 --> 列
 - ¡𣴘! - 違法字
+- 济 --> 済
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -149,6 +152,7 @@ tags: [lookup]
 - 渊 --> 淵
 - 渔 --> 漁
 - 淺 --> 浅
+- 淸 --> 清
 
 ### +8 Strokes
 103. <ruby>[淵](../../characters/淵.md)<rt>⼔ㄋ</rt></ruby> - abyss
@@ -175,6 +179,7 @@ tags: [lookup]
 - 溌 --> 発
 - 渢 --> 風
 - 渾 --> 混
+- 渴 --> 渇
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
@@ -241,6 +246,7 @@ tags: [lookup]
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
 167. <ruby>[濡](../../characters/濡.md)<rt>ㄋ⼜ㄋ</rt></ruby> - moist, wet
 - 濱 --> 浜
+- 濟 --> 済
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding

@@ -23,6 +23,7 @@ tags: [lookup]
 - 爱 --> 愛
 - 爭 --> 争
 - 爯 --> 称
+- 爲 --> 為
 
 ## Data check
 ```dataview

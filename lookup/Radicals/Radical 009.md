@@ -111,6 +111,7 @@ aliases:
 - 佯 --> 羊
 - 佶 --> 吉
 - 侒 --> 安
+- 侈 --> 済
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant

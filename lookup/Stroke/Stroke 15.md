@@ -73,6 +73,7 @@ tags:
 - 寫 --> 写
 - 𠾄 --> 善
 - 鲣 --> 堅
+- 樣 --> 様
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

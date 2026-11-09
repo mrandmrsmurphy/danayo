@@ -35,6 +35,7 @@ tags: [lookup]
 - 夊, i.e. Radical 035
 - 夂, i.e. Radical 034
 - 囗, i.e. Radical 031
+- 为 --> 為
 
 ## Datacheck
 ```dataview
