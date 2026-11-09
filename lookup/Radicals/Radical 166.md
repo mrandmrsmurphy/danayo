@@ -22,6 +22,9 @@ tags: [lookup]
 ### +5 Strokes
 4. <ruby>[量](../../characters/量.md)<rt>ㄌ⼘ㄫ</rt></ruby> - measure
 
+### +11 Strokes
+- 釐 --> 厘
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -27,6 +27,7 @@ tags: [lookup]
 
 ### +7 Strokes
 7. <ruby>[卸](../../characters/卸%20(char).md)<rt>ㄙ⼘</rt></ruby> - retire
+- 卻 --> 却
 
 ### +10 Strokes
 8. <ruby>[卿](../../characters/卿%20(char).md)<rt>ㄎ⼶ㄫ</rt></ruby> - noble

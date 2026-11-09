@@ -46,6 +46,7 @@ tags:
 - 𢍜 --> 尊
 - 䓣 --> 㒼
 - 萧 --> 䔥
+- 菆 --> 叢
 
 ## Datacheck
 ```dataview

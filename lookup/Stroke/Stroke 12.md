@@ -126,6 +126,9 @@ tags: [lookup]
 - 𨔝 --> 動
 - 㣫 --> 動
 - 勛 --> 勲
+- 廄 --> 厩
+- 廐 --> 厩
+- 菆 --> 叢
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

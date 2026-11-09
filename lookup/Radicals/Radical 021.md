@@ -17,6 +17,7 @@ tags: [lookup]
 
 ### Aliases
 - 匘 --> 脳
+- 㔬 --> 卓
 
 ## Data check
 ```dataview

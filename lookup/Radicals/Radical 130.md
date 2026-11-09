@@ -69,6 +69,7 @@ tags: [lookup]
 42. <ruby>[脱](../../characters/脱%20(char).md)<rt>ㄉ⺢ㄊ</rt></ruby> - undress
 43. <ruby>[脳](../../characters/脳%20(char).md)<rt>ㄋㄚㄨ</rt></ruby> - brain
 - 脫 --> 脱
+- 脗 --> 吻
 
 ### +6 Strokes
 44. <ruby>[脹](../../characters/脹.md)<rt>ㄑㄚㄫ</rt></ruby> - swell

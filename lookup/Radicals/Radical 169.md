@@ -44,6 +44,7 @@ tags: [lookup]
 11. <ruby>[閣](../../characters/閣.md)<rt>ㄍㄚㄎ</rt></ruby> - pavilion
 12. <ruby>[閥](../../characters/閥.md)<rt>ㄅㄝㄊ</rt></ruby> - clan
 13. <ruby>[閨](../../characters/閨.md)<rt>ㄍㄨㄧ</rt></ruby> - women's bedroom
+- 閤 --> 合
 
 ### +7 Strokes
 14. <ruby>[閲](../../characters/閲.md)<rt>⼶ㄊ</rt></ruby> - inspect

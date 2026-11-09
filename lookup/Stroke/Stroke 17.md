@@ -85,6 +85,7 @@ tags:
 - 賸 --> 剰
 - 勵 --> 励
 - 𢣛 --> 動
+- 藂 --> 叢
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

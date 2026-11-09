@@ -17,6 +17,9 @@ tags: [lookup]
 4. <ruby>[閥](characters/閥.md)<rt>ㄅㄝㄊ</rt></ruby> "clan"
 5. <ruby>[閨](characters/閨.md)<rt>ㄍㄨㄧ</rt></ruby> "women's bedroom"
 
+### Aliases
+- 閤 --> 合
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -85,6 +85,7 @@ tags:
 - 岖 --> 区
 - 坏 --> 壊
 - 帐 --> 帳
+- 吽 --> 吼
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

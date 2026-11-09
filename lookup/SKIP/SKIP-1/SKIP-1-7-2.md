@@ -30,6 +30,7 @@ tags: [lookup]
 - 卽 --> 即
 - 酊 --> 丁
 - 勋 --> 勲
+- 卻 --> 却
 
 ### Forbidden
 - 趴 - 官话: Mandarin colloquial, 'to lie on one's stomach'; also Taiwan 'percent' and informal 'party'

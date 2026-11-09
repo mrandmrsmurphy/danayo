@@ -109,6 +109,9 @@ tags:
 - 暝 --> 冥
 - 𬸛 --> 凰
 - 慟 --> 動
+- 廏 --> 厩
+- 睿 --> 叡
+- 閤 --> 合
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

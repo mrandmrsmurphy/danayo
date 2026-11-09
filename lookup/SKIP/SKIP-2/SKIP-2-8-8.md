@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 螢 --> 蛍
+- 樷 --> 叢
 
 ## Datacheck
 ```dataview

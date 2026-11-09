@@ -252,6 +252,7 @@ tags: [lookup]
 - 樸 --> 朴
 - 機 --> 机
 - 橫 --> 横
+- 樷 --> 叢
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
@@ -280,6 +281,7 @@ tags: [lookup]
 
 ### +18 Strokes
 - ¡櫷! - 違法字
+- 欉 --> 叢
 
 ### +20 Strokes
 - ¡欕! - 違法字

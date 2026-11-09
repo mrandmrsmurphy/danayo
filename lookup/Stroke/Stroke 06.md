@@ -105,6 +105,7 @@ tags:
 - 朿 --> 刺
 - 刘 --> 劉
 - 动 --> 動
+- 扣 --> 叩
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

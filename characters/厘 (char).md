@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 厘.
 >For the word, see [厘](../words/厘.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-2-7](../lookup/SKIP/SKIP-3/SKIP-3-2-7.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1517th most used character in Classical Chinese (recorded in the corpus under its traditional form 釐). Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄌㄧ](../syllables/ㄌㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄹ](../lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 釐
+Traditional form of 厘, "a hundredth part". SKIP 2-9-9; 18 strokes. Radical 166 里. It ranks 1517 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[厘]]<rt>ㄌㄧ</rt></ruby> "centi-" (stand-in for 厘)

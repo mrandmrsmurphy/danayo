@@ -41,6 +41,8 @@ tags: [lookup]
 - 敝 --> 蔽
 - 敛 --> 㪘
 - 敕 --> 勅
+- 敍 --> 叙
+- 敘 --> 叙
 
 ### +8 Strokes
 13. <ruby>[敢](../../characters/敢.md)<rt>ㄍㄚㄇ</rt></ruby> - dare to

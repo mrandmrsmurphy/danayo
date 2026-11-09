@@ -48,10 +48,15 @@ tags:
 18. <ruby>[廃](../../characters/廃.md)<rt>ㄈㄝ</rt></ruby> - abrogate
 19. <ruby>[廊](../../characters/廊.md)<rt>ㄌㄚㄫ</rt></ruby> - corridor
 - 廂 --> 箱
+- 廄 --> 厩
+- 廐 --> 厩
 
 ### +10 Strokes
 20. <ruby>[廈](../../characters/廈.md)<rt>ㄏㄚ</rt></ruby> - building
 21. <ruby>[廉](../../characters/廉%20(char).md)<rt>ㄌ⼶ㄇ</rt></ruby> - upright
+
+### +11 Strokes
+- 廏 --> 厩
 
 ### +12 Strokes
 22. <ruby>[廟](../../characters/廟.md)<rt>ㄇ⼘ㄨ</rt></ruby> - ancestral temple

@@ -26,7 +26,7 @@ joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 5293
-mc_id: 9007
+mc_id: 1275
 graphemic_classification: 𧮫
 stand_in: 却
 aliases:
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 却.
 >For the word, see [却](../words/却.md)
@@ -48,8 +48,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声: semantic 卩 ("seal, kneeling figure"; no vault page) + phonetic 𧮫 (unencoded, no vault page) — OC \*kaɡ, \*kʰaɡ; "to withdraw, retreat," extended to contrastive "but, yet, however."
 - [SKIP-1-5-2](../lookup/SKIP/SKIP-1/SKIP-1-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 9007th most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄎ⼘ㄎ](../syllables/ㄎ⼘ㄎ.md)
+- 1275th most used character in Classical Chinese, the rank of its alias 卻 (却 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄎ⼘ㄎ](../syllables/ㄎ⼘ㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 卻
+Traditional form (kyūjitai) of 却, "to withdraw". SKIP 1-7-2; 9 strokes. It ranks 1275 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[却]]<rt>ㄎ⼘ㄎ</rt></ruby> "but, still, rather, all the more" (stand-in for 却)

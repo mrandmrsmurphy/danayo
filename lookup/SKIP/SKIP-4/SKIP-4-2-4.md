@@ -30,6 +30,8 @@ tags: [lookup]
 - 𠆢 --> 人
 - ⺈ --> 人
 - 𠂉 --> 人
+- 𠁡 --> 卜
+- 𠁢 --> 卜
 
 ## Datacheck
 ```dataview

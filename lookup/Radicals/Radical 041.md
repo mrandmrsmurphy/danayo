@@ -20,6 +20,9 @@ tags: [lookup]
 3. <ruby>[寿](../../characters/寿.md)<rt>ㄙ⼜</rt></ruby> - old age
 4. <ruby>[対](../../characters/対.md)<rt>ㄉㄛㄧ</rt></ruby> - oppose
 
+### +5 Strokes
+- 尀 --> 叵
+
 ### +6 Strokes
 5. <ruby>[封](../../characters/封%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - seal
 6. <ruby>[専](../../characters/専.md)<rt>ㄐ⼔ㄋ</rt></ruby> - special

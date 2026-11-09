@@ -24,6 +24,7 @@ tags: [lookup]
 - 势 --> 勢
 - 兒 --> 児
 - 劵 --> 券
+- 龺 --> 卓
 
 ## Datacheck
 ```dataview

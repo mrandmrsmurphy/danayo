@@ -19,6 +19,8 @@ tags: [lookup]
 ### +2 Strokes
 3. <ruby>[升](../../characters/升%20(char).md)<rt>ㄙㄨㄫ</rt></ruby> - litre
 4. <ruby>[午](../../characters/午.md)<rt>ㄛ</rt></ruby> - noon
+- 卐 --> 卍
+- 卆 --> 卒
 
 ### +3 Strokes
 5. <ruby>[卉](../../characters/卉.md)<rt>ㄏㄨㄧ</rt></ruby> - flowering plant
@@ -34,6 +36,7 @@ tags: [lookup]
 8. <ruby>[協](../../characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> - cooperate
 9. <ruby>[卒](../../characters/卒.md)<rt>ㄐㄨㄊ</rt></ruby> - soldier
 10. <ruby>[卓](../../characters/卓.md)<rt>ㄊㄚㄎ</rt></ruby> - profound
+- 龺 --> 卓
 
 ### +7 Strokes
 11. <ruby>[卑](../../characters/卑%20(char).md)<rt>ㄅㄝ</rt></ruby> - lowly

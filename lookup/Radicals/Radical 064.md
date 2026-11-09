@@ -23,6 +23,7 @@ tags: [lookup]
 4. <ruby>[扱](../../characters/扱%20(char).md)<rt>ㄑㄚㄆ</rt></ruby> - handle
 - 执 --> 執
 - 扬 --> 揚
+- 扣 --> 叩
 
 ### +3 Strokes
 5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up

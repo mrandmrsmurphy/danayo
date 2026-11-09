@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 38 (alias protocol), next ten oldest characters with aliases:** 叚, 叡, 叢, 叩, 叱, 叵, 合, 名, 吻, 吼 gained their first `## Aliases` section (𠭊; 睿; 丛, 樷, 欉, 菆 and 藂; 扣; 𠮟 and 咜; 尀; 閤; 洺; 脗; 吽), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
+- **Loop batch 37 (alias protocol), next ten oldest characters with aliases:** 卍, 卒, 卓, 卜, 却, 卸, 厘, 厥, 厩, 叙 gained their first `## Aliases` section (卐; 卆; 㔬 and 龺; 佔, 𠁡 and 𠁢; 卻; 缷; 釐; 蕨; 廄, 廐 and 廏; 敍 and 敘), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (却 now 1275 from 卻; 厘 1517 from 釐; 厩 2186 from 廄; 叙 1995 from 敘; 卍 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
 - **Loop batch 36 (alias protocol), next ten oldest characters with aliases:** 剰, 劉, 加, 励, 勁, 勃, 勅, 動, 勲, 勻 gained their first `## Aliases` section (剩 and 賸; 刘; 痂, 哿, 跏 and 袈; 勵; 劲; 渤; 敕 and 勑; 动, 𨔝, 㣫, 働, 仂, 慟, 恸 and 𢣛; 勛, 勋 and 勳; 匀), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (勲 1285 from 勳, with its missing rank bullet added; 勅 1557 under 敕; 剰 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
 
 - **Loop batch 35 (alias protocol), next ten oldest characters with aliases:** 凰, 凱, 函, 刃, 刮, 券, 刹, 刺, 剤, 剪 gained their first `## Aliases` section (䳨 and 𬸛; 凯; 圅 and 凾; 仞; 颳; 劵; 剎; 朿; 劑; 翦), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (剪 now 2182 from 翦; 剤 3360 under 劑; 刹 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.

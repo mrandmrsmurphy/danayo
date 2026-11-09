@@ -73,6 +73,7 @@ tags:
 - 茻 --> 莽
 - 䓣 --> 㒼
 - 萧 --> 䔥
+- 菆 --> 叢
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
@@ -114,6 +115,7 @@ tags:
 70. <ruby>[葱](../../characters/葱.md)<rt>ㄑㄛㄫ</rt></ruby> - onion
 71. <ruby>[葺](../../characters/葺%20(char).md)<rt>ㄑㄨㄆ</rt></ruby> - roofed with
 - 蕓 --> 芸
+- 蕨 --> 厥
 
 ### +10 Strokes
 72. <ruby>[莫](../../characters/莫%20(char).md)<rt>ㄇㄚㄎ</rt></ruby> - not exist
@@ -140,6 +142,7 @@ tags:
 87. <ruby>[蔡](../../characters/蔡.md)<rt>ㄑㄚㄧ</rt></ruby> - tortoise
 88. <ruby>[蔚](../../characters/蔚.md)<rt>ㄨㄊ</rt></ruby> - luxuriant
 89. <ruby>[蕉](../../characters/蕉.md)<rt>ㄐㄛㄨ</rt></ruby> - banana
+- 藂 --> 叢
 
 ### +12 Strokes
 90. <ruby>[葩](../../characters/葩.md)<rt>ㄆㄚ</rt></ruby> - flower

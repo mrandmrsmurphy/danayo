@@ -134,6 +134,9 @@ tags:
 - 悽 --> 凄
 - 袈 --> 加
 - 敕 --> 勅
+- 敍 --> 叙
+- 敘 --> 叙
+- 脗 --> 吻
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

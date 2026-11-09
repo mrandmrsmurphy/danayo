@@ -321,3 +321,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 動 (char) | 恸 | 1-3-6 | computed from its parts |
 | 動 (char) | 𢣛 | 1-3-14 | computed from its parts |
 | 勲 (char) | 勋 | 1-7-2 | computed from its parts |
+| 卍 | 卐 | 4-4-1 | computed from its parts |
+| 卓 | 㔬 | 2-2-6 | computed from its parts |
+| 卓 | 龺 | 2-6-2 | computed from its parts |
+| 卜 | 𠁡 | 4-2-4 | computed from its parts |
+| 卜 | 𠁢 | 4-2-4 | computed from its parts |
+| 卸 (char) | 缷 | 1-6-2 | computed from its parts |
+| 厩 | 廄 | 3-3-9 | computed from its parts |
+| 叚 | 𠭊 | 1-6-4 | computed from its parts |
+| 叢 | 丛 | 2-1-4 | computed from its parts |
+| 叢 | 菆 | 2-3-9 | computed from its parts |
+| 叱 | 𠮟 | 1-3-2 | computed from its parts |
+| 叵 | 尀 | 3-3-5 | computed from its parts |
+| 名 (char) | 洺 | 1-3-6 | computed from its parts |

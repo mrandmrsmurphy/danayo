@@ -43,7 +43,7 @@ stand_in: 合
 aliases:
   - 閤
 注音: ㄍㄛㄆ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -61,6 +61,11 @@ boundedness: 100
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 260th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 合|ʌp]] → [ㄍㄛㄆ](../syllables/ㄍㄛㄆ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 閤
+門 + 合, "side door"; built on 合 as phonetic and kept as an alias. SKIP 3-8-6; 14 strokes. Radical 169 門. It ranks 3078 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[合]]<rt>ㄍㄛㄆ</rt></ruby> "join; fit together; combine" (stand-in for 合)

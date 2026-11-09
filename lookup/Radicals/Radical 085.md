@@ -105,6 +105,7 @@ tags: [lookup]
 - 浒 --> 許
 - 洁 --> 潔
 - 测 --> 測
+- 洺 --> 名
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful

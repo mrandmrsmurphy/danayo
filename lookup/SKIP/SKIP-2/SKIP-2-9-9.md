@@ -16,6 +16,7 @@ tags: [lookup]
 - 㽬 --> 放
 - 㽬 --> 副
 - 䩯 --> 革
+- 釐 --> 厘
 
 ## Datacheck
 ```dataview

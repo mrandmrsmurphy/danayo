@@ -13,6 +13,7 @@ _no +0, because it is not a stand-alone character_
 ### +1 Stroke
 - forbidden 丩
 - 𠁡 --> 卜
+- 𠁢 --> 卜
 ### +2 Strokes
 - 个 --> 個
 - forbidden 㐃

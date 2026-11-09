@@ -121,6 +121,7 @@ tags:
 - 痂 --> 加
 - 哿 --> 加
 - 勑 --> 勅
+- 𠭊 --> 叚
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

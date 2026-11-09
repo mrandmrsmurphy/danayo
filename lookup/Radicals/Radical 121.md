@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[缶](../../characters/缶.md)<rt>ㄍ⺢ㄋ</rt></ruby> - jar
 
+### +2 Strokes
+- 缷 --> 卸
+
 ### +3 Strokes
 2. <ruby>[缸](../../characters/缸.md)<rt>ㄏㄚㄫ</rt></ruby> - jug
 

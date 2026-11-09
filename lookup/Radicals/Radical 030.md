@@ -29,6 +29,7 @@ tags: [lookup]
 14. <ruby>[叵](../../characters/叵.md)<rt>ㄆㄚ</rt></ruby> - cannot
 15. <ruby>[号](../../characters/号.md)<rt>ㄏㄚㄨ</rt></ruby> - symbol
 16. <ruby>[司](../../characters/司.md)<rt>ㄙㄚ</rt></ruby> - company
+- 𠮟 --> 叱
 
 ### +3 Strokes
 17. <ruby>[各](../../characters/各%20(char).md)<rt>ㄍㄚㄎ</rt></ruby> - each
@@ -62,6 +63,7 @@ tags: [lookup]
 42. <ruby>[吠](../../characters/吠.md)<rt>ㄈㄝ</rt></ruby> - bark
 - 𠯑 --> 括
 - 员 --> 員
+- 吽 --> 吼
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference
@@ -74,6 +76,7 @@ tags: [lookup]
 50. <ruby>[咅](../../characters/咅.md)<rt>ㄆ⼄ㄨ</rt></ruby> - spit
 51. <ruby>[和](../../characters/和.md)<rt>ㄏ⺢</rt></ruby> - peaceful
 - 咐 --> 付
+- 咜 --> 叱
 
 ### +6 Strokes
 52. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite

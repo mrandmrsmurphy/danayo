@@ -33,6 +33,9 @@ tags: [lookup]
 11. <ruby>[叙](../../characters/叙.md)<rt>ㄙ⼄</rt></ruby> - express, state
 12. <ruby>[叚](../../characters/叚.md)<rt>ㄎㄚ</rt></ruby> - false
 
+### +8 Strokes
+- 𠭊 --> 叚
+
 ### +14 Strokes
 13. <ruby>[叡](../../characters/叡.md)<rt>⼶</rt></ruby> - astute, profound
 

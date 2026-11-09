@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[永](/characters/永.md)<rt>ㄨㄧㄫ</rt></ruby> - eternal
 3. <ruby>[示](/characters/示.md)<rt>ㄍㄝ</rt></ruby> - reveal
 
+### Aliases
+- 丛 --> 叢
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

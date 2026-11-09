@@ -30,7 +30,7 @@ stand_in: "名"
 aliases:
   - 洺
 注音: "ㄇㄧㄫ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 90
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 128th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄇㄧㄫ](../syllables/ㄇㄧㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 洺
+氵 + 名, a river in Hebei; built on 名 and kept as an alias. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[名]]<rt>ㄇㄧㄫ</rt></ruby> "name" (stand-in for 名)

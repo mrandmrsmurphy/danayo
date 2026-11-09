@@ -49,6 +49,7 @@ tags:
 - 脫 --> 脱
 - 检 --> 検
 - 焔 --> 炎
+- 脗 --> 吻
 
 ## Datacheck
 ```dataview

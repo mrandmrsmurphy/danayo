@@ -35,6 +35,7 @@ tags: [lookup]
 - 廂 --> 箱
 - 遗 --> 遺
 - 𨔝 --> 動
+- 廄 --> 厩
 
 ### Forbidden
 - 遖 - 国字: 国字 for 'appare' (excellent)

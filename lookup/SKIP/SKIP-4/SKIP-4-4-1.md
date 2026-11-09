@@ -36,6 +36,7 @@ tags: [lookup]
 - 开 --> 開
 - 电 --> 電
 - 𠄡 --> 五
+- 卐 --> 卍
 
 ## Datacheck
 ```dataview
