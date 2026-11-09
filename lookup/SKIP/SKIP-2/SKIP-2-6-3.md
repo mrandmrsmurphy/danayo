@@ -34,6 +34,7 @@ tags: [lookup]
 - 类 --> 類
 - 垦 --> 墾
 - 奖 --> 奨
+- 巺 --> 巽
 
 ## Datacheck
 ```dataview

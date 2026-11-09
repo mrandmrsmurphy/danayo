@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +4 Strokes
 4. <ruby>[耽](../../characters/耽%20(char).md)<rt>ㄉㄛㄇ</rt></ruby> - indulge in
+- 耻 --> 恥
 
 ### +5 Strokes
 5. <ruby>[聊](../../characters/聊%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> - chat

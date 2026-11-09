@@ -131,6 +131,7 @@ tags: [lookup]
 - 浆 --> 将
 - ¡㳲! - 違法字
 - 涂 --> 塗
+- 浵 --> 彤
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -282,6 +283,7 @@ tags: [lookup]
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
 173. <ruby>[灌](../../characters/灌.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pour
 - 瀾 --> 乱
+- 瀰 --> 弥
 
 ### +17 Strokes
 174. <ruby>[灋](../../characters/灋.md)<rt>ㄆㄛㄆ</rt></ruby> - natural law justice

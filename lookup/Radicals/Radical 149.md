@@ -116,6 +116,7 @@ tags: [lookup]
 50. <ruby>[説](../../characters/説.md)<rt>ㄙ⼔ㄊ</rt></ruby> - theory
 51. <ruby>[読](../../characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
 - 說 --> 説
+- 誖 --> 悖
 
 ### +8 Strokes
 52. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born

@@ -352,3 +352,24 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 岡 | 冈 | 3-2-2 | computed from its parts |
 | 嵐 | 岚 | 2-3-4 | computed from its parts |
 | 嶺 | 岭 | 2-3-5 | computed from its parts |
+| 巠 | 坙 | 2-4-3 | computed from its parts |
+| 巣 | 巢 | 2-3-8 | computed from its parts |
+| 巽 | 巺 | 2-6-3 | computed from its parts |
+| 帥 | 帅 | 1-6-3 | computed from its parts |
+| 幟 (char) | 帜 | 1-3-5 | computed from its parts |
+| 幣 (char) | 币 | 2-1-3 | computed from its parts |
+| 広 (char) | 旷 | 1-4-3 | computed from its parts |
+| 廟 | 庙 | 3-3-5 | computed from its parts |
+| 廬 | 庐 | 3-3-4 | computed from its parts |
+| 彤 | 浵 | 1-3-7 | computed from its parts |
+| 彦 | 彥 | 3-6-3 | computed from its parts |
+| 征 | 徵 | 1-3-12 | computed from its parts |
+| 徳 (char) | 德 | 1-3-12 | computed from its parts |
+| 忌 | 㤅 | 2-3-5 | computed from its parts |
+| 忝 | 㤁 | 2-3-5 | computed from its parts |
+| 恢 | 㷇 | 1-4-8 | computed from its parts |
+| 恢 | 烣 | 1-4-6 | computed from its parts |
+| 悉 | 怸 | 1-3-6 | computed from its parts |
+| 悪 (char) | 恶 | 2-7-3 | computed from its parts |
+| 悶 | 闷 | 3-3-4 | computed from its parts |
+| 悶 | 㥃 | 1-3-8 | computed from its parts |

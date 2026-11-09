@@ -35,6 +35,9 @@ tags: [lookup]
 ### +6 Strokes
 12. <ruby>[雑](../../characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> - miscellaneous
 
+### +8 Strokes
+- 雕 --> 彫
+
 ### +9 Strokes
 13. <ruby>[雖](../../characters/雖%20(char).md)<rt>ㄙㄨㄧ</rt></ruby> - although
 

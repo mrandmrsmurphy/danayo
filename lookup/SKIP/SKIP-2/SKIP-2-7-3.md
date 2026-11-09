@@ -17,6 +17,10 @@ tags: [lookup]
 4. <ruby>[差](characters/差.md)<rt>ㄑㄚ</rt></ruby> "discriminate"
 5. <ruby>[辱](characters/辱.md)<rt>ㄋㄛㄎ</rt></ruby> "humiliate"
 
+### Aliases
+- 帮 --> 幇
+- 恶 --> 悪
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

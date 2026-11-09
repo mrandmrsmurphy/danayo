@@ -44,6 +44,7 @@ tags: [lookup]
 
 ### +11 Strokes
 13. <ruby>[盧](../../characters/盧.md)<rt>ㄌㄛ</rt></ruby> - cottage
+- 盦 --> 庵
 
 ## Data check
 ```dataview

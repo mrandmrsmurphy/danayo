@@ -13,9 +13,13 @@ tags:
 ### +0 Strokes
 1. <ruby>[巾](../../characters/巾.md)<rt>ㄎㄧㄋ</rt></ruby> - towel
 
+### +1 Stroke
+- 币 --> 幣
+
 ### +2 Strokes
 2. <ruby>[市](../../characters/市.md)<rt>ㄙㄧ</rt></ruby> - city
 3. <ruby>[布](../../characters/布.md)<rt>ㄅㄛ</rt></ruby> - linen
+- 帅 --> 帥
 
 ### +3 Strokes
 4. <ruby>[帆](../../characters/帆%20(char).md)<rt>ㄆㄚㄇ</rt></ruby> - sail
@@ -28,6 +32,7 @@ tags:
 6. <ruby>[帚](../../characters/帚.md)<rt>ㄐㄨ</rt></ruby> - broom
 7. <ruby>[帛](../../characters/帛.md)<rt>ㄅㄚㄎ</rt></ruby> - silk
 8. <ruby>[帖](../../characters/帖%20(char).md)<rt>ㄊㄛㄆ</rt></ruby> - invitation
+- 帜 --> 幟
 
 ### +6 Strokes
 9. <ruby>[帝](../../characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> - emperor
@@ -39,6 +44,7 @@ tags:
 12. <ruby>[席](../../characters/席.md)<rt>ㄙㄝㄎ</rt></ruby> - seat
 13. <ruby>[帰](../../characters/帰.md)<rt>ㄍㄨㄧ</rt></ruby> - return
 14. <ruby>[帯](../../characters/帯%20(char).md)<rt>ㄊㄚㄧ</rt></ruby> - sash
+- 帮 --> 幇
 
 ### +8 Strokes
 15. <ruby>[帳](../../characters/帳.md)<rt>ㄐ⺢ㄫ</rt></ruby> - tent
@@ -61,6 +67,9 @@ tags:
 22. <ruby>[幡](../../characters/幡.md)<rt>ㄈㄛㄋ</rt></ruby> - flag
 23. <ruby>[幟](../../characters/幟%20(char).md)<rt>ㄑㄧ</rt></ruby> - pennant
 24. <ruby>[幣](../../characters/幣%20(char).md)<rt>ㄆㄝ</rt></ruby> - cash
+
+### +14 Strokes
+- 幫 --> 幇
 
 ### Aliases
 - 幂 --> 冪

@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[哉](/characters/哉%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - O
 3. <ruby>[彦](/characters/彦.md)<rt>ㄝㄋ</rt></ruby> - nobleman
 
+### Aliases
+- 彥 --> 彦
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

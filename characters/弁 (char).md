@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 弁.
 >For the word, see [弁](../words/弁.md)
@@ -52,6 +52,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 910th most used character in Classical Chinese — recorded under the alias *辯*, the traditional "debate" donor form. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 山開|ɣɛn]] → [ㄅ⼘ㄋ](../syllables/ㄅ⼘ㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 辯
+Traditional form of 弁 in the sense "to debate"; Japanese merged it with 辨 and 瓣 into 弁. SKIP 1-7-14; 21 strokes. Radical 160 辛. It ranks 910 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 瓣
+"Petal"; Japanese merged it into 弁, so it is kept as an alias. SKIP 1-7-13; 19 strokes. Radical 097 瓜. It has no rank of its own in the Classical Chinese lists.
+
+### 辨
+"To distinguish"; Japanese merged it into 弁, so it is kept as an alias. SKIP 1-7-9; 16 strokes. Radical 160 辛. It ranks 1180 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[弁]]<rt>ㄅ⼘ㄋ</rt></ruby> "discuss; distinguish" (stand-in for 弁)

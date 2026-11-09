@@ -52,6 +52,7 @@ date-last-perfect: 2026-10-05
 
 ### +11 Strokes
 - 鹳 --> 鸛
+- 鷓 --> 庶
 
 ### +12 Strokes
 - 鷲 --> 就

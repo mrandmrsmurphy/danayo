@@ -18,6 +18,9 @@ tags: [lookup]
 ### +-1 Strokes
 - 闲 --> 閑
 
+### +-1 Strokes
+- 闷 --> 悶
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 

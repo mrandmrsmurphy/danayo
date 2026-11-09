@@ -13,6 +13,10 @@ tags:
 ### +-1 Strokes
 - 艺 --> 芸
 
+### +1 Stroke
+- 芯 --> 心
+- 芴 --> 忽
+
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 - 芙 --> 夫
@@ -59,6 +63,7 @@ tags:
 - 菓 --> 果
 - 菠 --> 波
 - 萋 --> 妻
+- 菷 --> 帚
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -75,6 +80,7 @@ tags:
 - 䓣 --> 㒼
 - 萧 --> 䔥
 - 菆 --> 叢
+- 菴 --> 庵
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay

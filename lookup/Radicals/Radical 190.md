@@ -22,6 +22,7 @@ tags: [lookup]
 - 鬀 --> 剃
 - 鬄 --> 剃
 - 鬒 --> 㐱
+- 髴 --> 彿
 
 ## Data check
 ```dataview

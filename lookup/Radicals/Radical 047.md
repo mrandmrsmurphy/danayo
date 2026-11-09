@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[川](../../characters/川%20(char).md)<rt>ㄑ⺢ㄋ</rt></ruby> - river
+- 巛 --> 川
 
 ### +3 Strokes
 2. <ruby>[州](../../characters/州%20(char).md)<rt>ㄐㄨㄛ</rt></ruby> - state
@@ -25,6 +26,7 @@ tags: [lookup]
 
 ### +8 Strokes
 6. <ruby>[巣](../../characters/巣.md)<rt>ㄐㄚㄨ</rt></ruby> - nest
+- 巢 --> 巣
 
 ### +12 Strokes
 - 巤 --> 鬣

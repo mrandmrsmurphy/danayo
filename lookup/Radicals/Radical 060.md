@@ -51,6 +51,10 @@ tags:
 23. <ruby>[徴](../../characters/徴.md)<rt>ㄉㄧㄫ</rt></ruby> - summon
 24. <ruby>[徳](../../characters/徳%20(char).md)<rt>ㄊㄨㄎ</rt></ruby> - virtue
 
+### +12 Strokes
+- 徵 --> 征
+- 德 --> 徳
+
 ### +14 Strokes
 25. <ruby>[徽](../../characters/徽.md)<rt>ㄏㄨㄧ</rt></ruby> - badge
 

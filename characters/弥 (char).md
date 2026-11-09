@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 弥.
 >For the word, see [弥](../words/弥.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 1184th most used character in Classical Chinese (as 彌). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 支三開|iᴇ]] → [ㄇㄝ](../syllables/ㄇㄝ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 彌
+Traditional form (kyūjitai) of 弥, "to fill". SKIP 1-3-14; 17 strokes. It ranks 1184 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 瀰
+氵 + 彌, "full, overflowing"; built on 彌 and kept as an alias. SKIP 1-3-17; 20 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[弥]]<rt>ㄇㄝ</rt></ruby> "all the more, increasingly" (stand-in for 弥)

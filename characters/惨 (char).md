@@ -32,7 +32,7 @@ stand_in: 惨
 aliases:
   - 慘
 注音: ㄑㄚㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2649th most used character in Classical Chinese (recorded under the traditional form 慘). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄑㄚㄇ](../syllables/ㄑㄚㄇ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 慘
+Traditional form (kyūjitai) of 惨, "cruel, miserable". SKIP 1-3-11; 14 strokes. It ranks 2649 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[惨]]<rt>ㄑㄚㄇ</rt></ruby> "wretched, cruel" (stand-in for 惨 (char))

@@ -32,7 +32,7 @@ aliases:
   - 惡
   - 恶
 注音: ㄚㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,8 +48,16 @@ boundedness: 40
 ## Notes
 - 形声 (OC *qaːɡ): semantic [[Radical 061|心]] ("heart") + phonetic [[亜]] ("second, sub-," OC *ʔˤrah) — moral negativity of the heart; bad, evil.
 - [SKIP-2-7-4](../lookup/SKIP/SKIP-2/SKIP-2-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 220th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄚㄎ](../syllables/ㄚㄎ.md)
+- 220th most used character in Classical Chinese (rank belongs to the traditional form 惡). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 鈬開|ɑk]] → [ㄚㄎ](../syllables/ㄚㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 惡
+Traditional form (kyūjitai) of 悪, "evil". SKIP 2-8-4; 12 strokes. It ranks 220 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 恶
+Simplified Chinese form of 惡. SKIP 2-7-3 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[悪]]<rt>ㄚㄎ</rt></ruby> "bad, evil" (stand-in for 悪)

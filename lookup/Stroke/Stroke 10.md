@@ -134,6 +134,13 @@ tags:
 - 峩 --> 峨
 - 峯 --> 峰
 - 埈 --> 峻
+- 笆 --> 巴
+- 帮 --> 幇
+- 浵 --> 彤
+- 烣 --> 恢
+- 耻 --> 恥
+- 猂 --> 悍
+- 恶 --> 悪
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

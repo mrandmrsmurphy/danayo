@@ -44,6 +44,7 @@ tags: [lookup]
 - 烉 --> 煥
 - 烦 --> 煩
 - 烙 --> 落
+- 烣 --> 恢
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
@@ -58,6 +59,7 @@ tags: [lookup]
 24. <ruby>[然](../../characters/然%20(char).md)<rt>ㄋ⼶ㄋ</rt></ruby> - so
 25. <ruby>[焼](../../characters/焼.md)<rt>ㄙ⼄ㄨ</rt></ruby> - burn
 26. <ruby>[煮](../../characters/煮.md)<rt>ㄐㄛ</rt></ruby> - boil
+- 㷇 --> 恢
 
 ### +9 Strokes
 27. <ruby>[煌](../../characters/煌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - bright

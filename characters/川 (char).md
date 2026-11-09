@@ -30,7 +30,7 @@ stand_in: 川
 aliases:
   - 巛
 注音: ㄑ⺢ㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 70
 - [SKIP-1-1-2](../lookup/SKIP/SKIP-1/SKIP-1-1-2.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 656th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄑ⺢ㄋ](../syllables/ㄑ⺢ㄋ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 巛
+The Kangxi radical 47, "river"; the original form of 川 and kept as an alias. SKIP 1-1-2; 3 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[川]]<rt>ㄑ⺢ㄋ</rt></ruby> "river" (stand-in for 川)

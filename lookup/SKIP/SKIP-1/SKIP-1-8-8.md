@@ -34,6 +34,7 @@ tags: [lookup]
 - 錶 --> 表
 - 錢 --> 銭
 - 靜 --> 静
+- 雕 --> 彫
 
 ## Datacheck
 ```dataview

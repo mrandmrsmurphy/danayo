@@ -25,6 +25,7 @@ tags: [lookup]
 
 ### +3 Strokes
 8. <ruby>[旱](../../characters/旱.md)<rt>ㄏㄚㄋ</rt></ruby> - drought
+- 旷 --> 広
 
 ### +4 Strokes
 9. <ruby>[旺](../../characters/旺.md)<rt>⺢ㄫ</rt></ruby> - flourish
@@ -52,6 +53,7 @@ tags: [lookup]
 29. <ruby>[昴](../../characters/昴.md)<rt>ㄇ⼘ㄨ</rt></ruby> - Pleiades
 30. <ruby>[昷](../../characters/昷.md)<rt>ㄛㄆ</rt></ruby> - feed a prisoner
 31. <ruby>[昼](../../characters/昼.md)<rt>ㄐㄨㄛ</rt></ruby> - daytime
+- 昿 --> 広
 
 ### +6 Strokes
 32. <ruby>[時](../../characters/時%20(char).md)<rt>ㄙㄧ</rt></ruby> - when
@@ -101,6 +103,7 @@ tags: [lookup]
 
 ### +14 Strokes
 60. <ruby>[曜](../../characters/曜.md)<rt>⼄ㄨ</rt></ruby> - day of the week
+- 曠 --> 広
 
 ### Aliases
 - 昸 --> 冬

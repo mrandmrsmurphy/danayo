@@ -64,6 +64,7 @@ tags: [lookup]
 30. <ruby>[経](../../characters/経%20(char).md)<rt>ㄍㄝㄫ</rt></ruby> - classic
 - 续 --> 続
 - 绩 --> 績
+- 絃 --> 弦
 
 ### +6 Strokes
 31. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist

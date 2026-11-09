@@ -20,6 +20,9 @@ tags: [lookup]
 8. <ruby>[聖](/characters/聖.md)<rt>ㄙㄧㄫ</rt></ruby> "holy"
 9. <ruby>[腎](/characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> "kidney"
 
+### Aliases
+- 愂 --> 悖
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 蚯 --> 丘
+- 絃 --> 弦
 
 ### Forbidden
 - 夠 - 中国制造: HSK/1, but Chinese only.  Use 充分 for 'enough'.

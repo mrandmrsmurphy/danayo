@@ -21,6 +21,7 @@ tags:
 
 ### +4 Strokes
 4. <ruby>[笑](../../characters/笑%20(char).md)<rt>ㄙ⼄ㄨ</rt></ruby> - laugh
+- 笆 --> 巴
 
 ### +5 Strokes
 5. <ruby>[笙](../../characters/笙.md)<rt>ㄙㄚㄫ</rt></ruby> - sheng
@@ -52,6 +53,7 @@ tags:
 24. <ruby>[箕](../../characters/箕.md)<rt>ㄍㄧ</rt></ruby> - sieve
 25. <ruby>[算](../../characters/算%20(char).md)<rt>ㄙ⺢ㄋ</rt></ruby> - calculate
 26. <ruby>[管](../../characters/管.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pipe
+- 箒 --> 帚
 
 ### +9 Strokes
 27. <ruby>[箭](../../characters/箭.md)<rt>ㄐㄝㄋ</rt></ruby> - arrow

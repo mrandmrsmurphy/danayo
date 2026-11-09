@@ -30,13 +30,12 @@ graphemic_classification: 𡿺
 stand_in: 悩
 aliases:
   - 惱
-  - 㛴
 注音: ㄋㄚㄨ
 kwin: false
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 悩.
 >For the word, see [悩](../words/悩.md)
@@ -50,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7693`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄋㄚㄨ](../syllables/ㄋㄚㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 惱
+Traditional form (kyūjitai) of 悩, "to be vexed". SKIP 1-3-9; 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[悩]]<rt>ㄋㄚㄨ</rt></ruby> "angered; mad" (stand-in for 悩)

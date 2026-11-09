@@ -22,6 +22,10 @@ tags: [lookup]
 
 ### +9 Strokes
 5. <ruby>[辦](../../characters/辦.md)<rt>ㄅㄚㄋ</rt></ruby> - manage
+- 辨 --> 弁
+
+### +14 Strokes
+- 辯 --> 弁
 
 ## Data check
 ```dataview

@@ -37,6 +37,7 @@ tags: [lookup]
 - 廄 --> 厩
 - 庽 --> 寓
 - 屡 --> 屢
+- 庿 --> 廟
 
 ### Forbidden
 - 遖 - 国字: 国字 for 'appare' (excellent)

@@ -15,6 +15,7 @@ tags: [lookup]
 2. <ruby>[小](characters/小%20(char).md)<rt>ㄙㄛ</rt></ruby> - small
 ### Aliases
 - 巛 is [[Radical 047]]
+- 巛 --> 川
 
 ## Datacheck
 ```dataview

@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 弔.
 >For the word, see [弔](../words/弔.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 1571st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄐㄝㄎ](../syllables/ㄐㄝㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md) (not present in the Old HSK lists)
+
+## Aliases
+
+### 吊
+The Chinese and common form of 弔, "to condole, to hang". SKIP 2-3-3; 6 strokes. Radical 030 口. It ranks 2142 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[弔]]<rt>ㄐㄝㄎ</rt></ruby> "condol, mourn, pity" (stand-in for 弔)

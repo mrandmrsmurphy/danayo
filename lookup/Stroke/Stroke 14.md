@@ -122,6 +122,9 @@ tags:
 - 對 --> 対
 - 盡 --> 尽
 - 㠀 --> 屿
+- 箒 --> 帚
+- 誖 --> 悖
+- 慘 --> 惨
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

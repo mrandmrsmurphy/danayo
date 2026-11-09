@@ -35,6 +35,7 @@ tags:
 - 說 --> 説
 - 䛡 --> 話
 - 輕 --> 軽
+- 誖 --> 悖
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.

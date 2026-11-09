@@ -43,6 +43,8 @@ tags: [lookup]
 - 运 --> 運
 - 库 --> 庫
 - 闲 --> 閑
+- 庐 --> 廬
+- 闷 --> 悶
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

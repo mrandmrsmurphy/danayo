@@ -47,6 +47,7 @@ tags: [lookup]
 - 吃 --> 喫
 - 吓 --> 嚇
 - 㕦 --> 天
+- 吊 --> 弔
 
 ### +4 Strokes
 27. <ruby>[君](../../characters/君%20(char).md)<rt>ㄍㄨㄋ</rt></ruby> - you

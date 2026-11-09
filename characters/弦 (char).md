@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 弦.
 >For the word, see [弦](../words/弦.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 1291st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄏㄝㄋ](../syllables/ㄏㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 絃
+糸 + 玄, "string"; an alternative form of 弦 and kept as an alias. SKIP 1-6-5; 11 strokes. Radical 120 糸. It ranks 2794 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[弦]]<rt>ㄏㄝㄋ</rt></ruby> "bowstring; chord; string; hypotenuse" (stand-in for 弦)

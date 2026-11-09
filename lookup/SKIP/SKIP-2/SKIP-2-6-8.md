@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 箇 --> 個
+- 箒 --> 帚
 
 ## Datacheck
 ```dataview

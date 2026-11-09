@@ -145,6 +145,13 @@ tags: [lookup]
 - 堯 --> 尭
 - 幈 --> 屏
 - 屡 --> 屢
+- 菴 --> 庵
+- 厦 --> 廈
+- 弑 --> 弒
+- 弻 --> 弼
+- 㷇 --> 恢
+- 惱 --> 悩
+- 惡 --> 悪
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

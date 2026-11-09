@@ -40,6 +40,7 @@ tags:
 - 坠 --> 墜
 - 坟 --> 墳
 - 坛 --> 壇
+- 坙 --> 巠
 
 ### +5 Strokes
 13. <ruby>[坤](../../characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> - eighth trigram

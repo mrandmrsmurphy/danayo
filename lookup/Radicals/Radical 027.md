@@ -37,6 +37,7 @@ tags: [lookup]
 8. <ruby>[厩](../../characters/厩.md)<rt>ㄍ⼜</rt></ruby> - stable
 9. <ruby>[厥](../../characters/厥.md)<rt>ㄎㄨㄊ</rt></ruby> - they
 10. <ruby>[厨](../../characters/厨.md)<rt>ㄑㄨㄛ</rt></ruby> - kitchen
+- 厦 --> 廈
 
 ### +12 Strokes
 - 厭 --> 嫌

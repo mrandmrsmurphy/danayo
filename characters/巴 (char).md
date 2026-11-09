@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 95
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 巴.
 >For the word, see [巴](../words/巴.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 1565th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄆㄚ](../syllables/ㄆㄚ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅍ](Lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Aliases
+
+### 笆
+竹 + 巴, "bamboo fence"; built on 巴 as phonetic and kept as an alias. SKIP 2-6-4; 10 strokes. Radical 118 竹. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[巴]]<rt>ㄆㄚ</rt></ruby> "tomoe"

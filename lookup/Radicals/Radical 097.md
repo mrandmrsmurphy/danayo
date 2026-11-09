@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[瓜](../../characters/瓜.md)<rt>ㄍ⺢</rt></ruby> - cucumber
 2. <ruby>[瓢](../../characters/瓢.md)<rt>ㄅ⼄ㄨ</rt></ruby> - ladle
 
+### Aliases
+- 瓣 --> 弁
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

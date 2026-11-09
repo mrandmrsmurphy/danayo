@@ -50,6 +50,7 @@ tags:
 - 貉 --> variant of 狸
 14. <ruby>[狼](../../characters/狼%20(char).md)<rt>ㄌㄚㄫ</rt></ruby> - wolf
 15. <ruby>[狽](../../characters/狽.md)<rt>ㄅㄚㄧ</rt></ruby> - mythical wolf-like beast
+- 猂 --> 悍
 
 ### +7 Strokes
 16. <ruby>[猛](../../characters/猛.md)<rt>ㄇㄚㄫ</rt></ruby> - fierce

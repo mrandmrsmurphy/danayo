@@ -53,6 +53,9 @@ tags:
 - 萋 --> 妻
 - 崗 --> 岡
 - 崧 --> 嵩
+- 巢 --> 巣
+- 菷 --> 帚
+- 菴 --> 庵
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 恋.
 >For the word, see [恋](../words/恋.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-8](../lookup/SKIP/SKIP-2/SKIP-2-2-8.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 3591st most used character in Classical Chinese, recorded under the alias *戀*. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 仙A三合|iuᴇn]] → [ㄌㄝㄋ](../syllables/ㄌㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 戀
+Traditional form (kyūjitai) of 恋, "to love". SKIP 2-19-4; 23 strokes. It ranks 3591 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[恋]]<rt>ㄌㄝㄋ</rt></ruby> "romance; romantic love" (stand-in for 恋)

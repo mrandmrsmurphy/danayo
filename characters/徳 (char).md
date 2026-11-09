@@ -29,7 +29,7 @@ stand_in: "徳"
 aliases:
   - 德
 注音: "ㄊㄨㄎ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -45,8 +45,13 @@ boundedness: 60
 ## Notes
 - 形声 (OC *tɯːɡ): semantic [[Radical 060|彳]] ("walk, road") + phonetic 惪 (OC *tɯːɡ, "virtue" — per Wiktionary, corrupted into 𢛳 in later seal-script forms; no separate character page exists for it in this vault, so left unlinked) — moral virtue as the path one walks.
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
-- 102nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄊㄨㄎ](../syllables/ㄊㄨㄎ.md)
+- 102nd most used character in Classical Chinese (rank belongs to the traditional form 德). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄊㄨㄎ](../syllables/ㄊㄨㄎ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 德
+Traditional form of 徳, "virtue". SKIP 1-3-12 (computed: EDRDG does not list it); 15 strokes. It ranks 102 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[美徳]]<rt>ㄇㄧ·ㄊㄨㄎ</rt></ruby> "virtue"

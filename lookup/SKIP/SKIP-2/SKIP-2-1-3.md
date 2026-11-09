@@ -18,6 +18,7 @@ tags: [lookup]
 - 戶 --> 戸
 - 户 --> 戸
 - 亖 --> 四
+- 币 --> 幣
 
 ## Datacheck
 ```dataview

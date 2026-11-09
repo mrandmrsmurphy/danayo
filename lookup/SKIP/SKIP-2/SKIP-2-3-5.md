@@ -63,6 +63,8 @@ tags:
 - 宠 --> 寵
 - 岭 --> 嶺
 - 岺 --> 嶺
+- 㤅 --> 忌
+- 㤁 --> 忝
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

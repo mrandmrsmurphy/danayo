@@ -40,6 +40,7 @@ tags:
 - 灿 --> 燦
 - 壯 --> 壮
 - 肠 --> 腸
+- 旷 --> 広
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.

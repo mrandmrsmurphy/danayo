@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### +6 Strokes
 3. <ruby>[彦](../../characters/彦.md)<rt>ㄝㄋ</rt></ruby> - nobleman
+- 彥 --> 彦
 
 ### +8 Strokes
 4. <ruby>[彩](../../characters/彩.md)<rt>ㄑㄚㄧ</rt></ruby> - vibrant

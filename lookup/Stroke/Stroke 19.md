@@ -58,6 +58,7 @@ tags:
 - 嚥 --> 咽
 - 謿 --> 嘲
 - 瀛 --> 嬴
+- 瓣 --> 弁
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

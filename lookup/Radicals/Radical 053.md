@@ -10,6 +10,9 @@ tags:
 
 ## Strokes
 
+### +0 Strokes
+- 广 --> 広
+
 ### +2 Strokes
 1. <ruby>[庁](../../characters/庁.md)<rt>ㄑㄝㄫ</rt></ruby> - hall
 2. <ruby>[広](../../characters/広%20(char).md)<rt>ㄍ⺢ㄫ</rt></ruby> - wide
@@ -22,6 +25,7 @@ tags:
 4. <ruby>[序](../../characters/序.md)<rt>ㄙ⼄</rt></ruby> - series
 5. <ruby>[床](../../characters/床%20(char).md)<rt>ㄙ⼘ㄇ</rt></ruby> - bed
 - 库 --> 庫
+- 庐 --> 廬
 
 ### +5 Strokes
 6. <ruby>[店](../../characters/店.md)<rt>ㄉㄝㄇ</rt></ruby> - shop
@@ -29,6 +33,7 @@ tags:
 8. <ruby>[府](../../characters/府.md)<rt>ㄈㄨ</rt></ruby> - government
 9. <ruby>[底](../../characters/底%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - bottom
 - 庖 --> 包
+- 庙 --> 廟
 
 ### +6 Strokes
 10. <ruby>[度](../../characters/度.md)<rt>ㄉㄛ</rt></ruby> - degree
@@ -42,6 +47,7 @@ tags:
 14. <ruby>[庶](../../characters/庶.md)<rt>ㄙ⼄</rt></ruby> - commoner
 15. <ruby>[康](../../characters/康.md)<rt>ㄎㄚㄫ</rt></ruby> - healthy
 16. <ruby>[庸](../../characters/庸%20(char).md)<rt>⼄ㄫ</rt></ruby> - commonplace
+- 庿 --> 廟
 
 ### +9 Strokes
 17. <ruby>[庾](../../characters/庾.md)<rt>⼜</rt></ruby> - granary
@@ -63,6 +69,8 @@ tags:
 22. <ruby>[廟](../../characters/廟.md)<rt>ㄇ⼘ㄨ</rt></ruby> - ancestral temple
 23. <ruby>[廠](../../characters/廠.md)<rt>ㄑㄚㄫ</rt></ruby> - factory
 - 廞 --> 嵌
+- 廣 --> 広
+- 廢 --> 廃
 
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack

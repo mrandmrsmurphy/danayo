@@ -28,14 +28,12 @@ danayo_id: 3293
 mc_id: 407
 graphemic_classification: 象形
 stand_in: 州
-aliases:
-  - 𠄓
 注音: ㄐㄨㄛ
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 州.
 >For the word, see [州](../words/州.md)

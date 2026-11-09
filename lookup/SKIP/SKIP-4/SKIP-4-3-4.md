@@ -21,6 +21,7 @@ tags: [lookup]
 ### Aliases
 - 门 --> 門
 - 飞 --> 飛
+- 广 --> 広
 
 ## Datacheck
 ```dataview

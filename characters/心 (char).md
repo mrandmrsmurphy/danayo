@@ -31,7 +31,7 @@ stand_in: 心
 aliases:
   - 芯
 注音: ㄙㄧㄇ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -49,6 +49,12 @@ boundedness: 90
 - [SKIP-1-1-3](../lookup/SKIP/SKIP-1/SKIP-1-1-3.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 118th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄙㄧㄇ](../syllables/ㄙㄧㄇ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 芯
+艹 + 心, "pith, core"; built on 心 and kept as an alias. SKIP 2-3-4; 7 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[心]]<rt>ㄙㄧㄇ</rt></ruby> "heart" (stand-in for 心)
 - <ruby>[[中心]]<rt>ㄐㄨㄫㄙㄧㄇ</rt></ruby> "center; core; crux"

@@ -164,6 +164,7 @@ tags:
 - 啑 --> 喋
 - 崎 --> 埼
 - 幈 --> 屏
+- 㥃 --> 悶
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

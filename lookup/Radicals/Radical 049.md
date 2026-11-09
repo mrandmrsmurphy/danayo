@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 㠯 --> 以
+- 巺 --> 巽
 
 ## Data check
 ```dataview

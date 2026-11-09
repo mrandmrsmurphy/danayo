@@ -103,6 +103,7 @@ tags:
 - 垫 --> 墊
 - 姸 --> 妍
 - 娇 --> 嬌
+- 怸 --> 悉
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)
