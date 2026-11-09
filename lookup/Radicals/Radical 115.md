@@ -31,6 +31,7 @@ tags: [lookup]
 11. <ruby>[秩](../../characters/秩.md)<rt>ㄉㄧㄊ</rt></ruby> - regularity
 12. <ruby>[秦](../../characters/秦.md)<rt>ㄐㄧㄋ</rt></ruby> - Qin
 13. <ruby>[称](../../characters/称.md)<rt>ㄑㄧㄫ</rt></ruby> - appellation
+- 秤 --> 称
 
 ### +6 Strokes
 14. <ruby>[移](../../characters/移.md)<rt>⼶ㄧ</rt></ruby> - change
@@ -50,6 +51,7 @@ tags: [lookup]
 22. <ruby>[稲](../../characters/稲.md)<rt>ㄉㄚㄨ</rt></ruby> - rice plant
 23. <ruby>[種](../../characters/種.md)<rt>ㄐㄛㄫ</rt></ruby> - kind
 24. <ruby>[穀](../../characters/穀.md)<rt>ㄍㄛㄎ</rt></ruby> - cereal
+- 稱 --> 称
 
 ### +10 Strokes
 25. <ruby>[稷](../../characters/稷.md)<rt>ㄐㄧㄎ</rt></ruby> - god of cereals

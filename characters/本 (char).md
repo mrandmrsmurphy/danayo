@@ -34,6 +34,8 @@ danayo_id: 58
 mc_id: 302
 graphemic_classification: "指事"
 stand_in: "本"
+aliases:
+  - 夲
 注音: "ㄅㄛㄋ"
 date-last-perfect: 2026-11-07
 kwin: true
@@ -53,6 +55,11 @@ boundedness: 45
 - 302nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄅㄛㄋ](../syllables/ㄅㄛㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - abbreviation for <ruby>[[日本素]]<rt>ㄋㄧㄊㄅㄛㄋㄙㄛ</rt></ruby> "nihonium" in periodic-table formulae — see [[Periodic Table]]
+
+## Aliases
+
+### 夲
+大 over 十, a variant (handwriting) form of 本: Wiktionary records it as a variant of 本 in Chinese and Vietnamese and as an alternative form of 本 in Japanese. It is also a rare classical character of its own, tāo, "to advance quickly", and the phonetic that 皐 cites. Kept as an alias of 本, with which it shares its sound and meaning as a variant. SKIP 2-3-2 (EDRDG); 5 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 302. SKIP 2-3-2; 5 strokes. Radical 037 大. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[本]]<rt>ㄅㄛㄋ</rt></ruby> "foundation" (stand-in for 本)
@@ -80,5 +87,7 @@ boundedness: 45
 - <ruby>[[舎本逐末]]<rt>ㄙ⼘ㄅㄛㄋㄉㄨㄎㄇㄚㄊ</rt></ruby> "neglecting the fundamentals while chasing the trivial"
 
 ## Derived Characters
+本 also serves as the hub for the character that cites its variant 夲 as a phonetic; 夲 is kept here as this page's alias, so 皐 links to this page.
 - <ruby>[[鉢 (char)|鉢]]<rt>ㄅㄚㄊ</rt></ruby> "bowl"
 - <ruby>[[体]]<rt>ㄊㄝㄧ</rt></ruby> "group" (as the 会意 semantic component "root, base," not a phonetic borrowing)
+- <ruby>[[皐]]<rt>ㄍㄚㄨ</rt></ruby> "river highland" (cites the variant 夲 as its phonetic)

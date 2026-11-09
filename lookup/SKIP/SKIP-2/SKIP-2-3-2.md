@@ -22,6 +22,7 @@ tags: [lookup]
 - 屶 --> 会
 - 处 --> 処
 - 叏 --> 決
+- 夲 --> 本
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.

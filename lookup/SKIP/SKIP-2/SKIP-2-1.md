@@ -15,7 +15,7 @@ Top component has 1 stroke. Dominant components: 一, 丶.
 5. [SKIP-2-1-5](lookup/SKIP/SKIP-2/SKIP-2-1-5.md): 亘
 6. [SKIP-2-1-6](lookup/SKIP/SKIP-2/SKIP-2-1-6.md): 戻, 系, 言, 豆
 7. [SKIP-2-1-7](lookup/SKIP/SKIP-2/SKIP-2-1-7.md): 房, 肩
-8. ø
+8. [SKIP-2-1-8](lookup/SKIP/SKIP-2/SKIP-2-1-8.md): ø
 9. [SKIP-2-1-9](lookup/SKIP/SKIP-2/SKIP-2-1-9.md): 扇
 10. ø
 11. [SKIP-2-1-11](lookup/SKIP/SKIP-2/SKIP-2-1-11.md): 扉, 雇

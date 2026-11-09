@@ -29,6 +29,8 @@ danayo_id: 8117
 mc_id: 7655
 graphemic_classification: "矣"
 stand_in: "唉"
+aliases:
+  - 欸
 注音: "ㄚㄧ"
 kwin: true
 tags:
@@ -48,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 7655th most used character in Classical Chinese (trusted long-tail). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 咍|ʌi]] → [ㄚㄧ](../syllables/ㄚㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [Old HSK 5](../lookup/HSK/Old%20HSK%205.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 欸
+矣 + 欠 ("breath"), an interjection ("hey", "why", "all right", "huh") that Wiktionary lists as an alternative form of 唉, with the same sound, ㄚㄧ (MC `ʔ` + `ʌi`), and the same kind of meaning; it also has a historical sense "to scold loudly". Kept as an alias of 唉. SKIP 1-7-4 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 7655. SKIP 1-7-4; 11 strokes. Radical 076 欠. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[唉]]<rt>ㄚㄧ</rt></ruby> "alas (ancient)"

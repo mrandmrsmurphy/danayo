@@ -44,7 +44,7 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC *ɡʷɯŋ): semantic [[Radical 172|隹]] ("bird") + phonetic 厷 (OC *kʷɯːŋ) — male (of animals); manly, grand.
+- 形声 (OC *ɡʷɯŋ): semantic [[Radical 172|隹]] ("bird") + phonetic [[宏|厷]] (OC *kʷɯːŋ) — male (of animals); manly, grand.
 - [SKIP-1-4-8](../lookup/SKIP/SKIP-1/SKIP-1-4-8.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1106th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 東三|ɨuŋ]] → [ㄨㄫ](../syllables/ㄨㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

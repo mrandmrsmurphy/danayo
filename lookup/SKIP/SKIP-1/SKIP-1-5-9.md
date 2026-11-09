@@ -27,6 +27,9 @@ tags: [lookup]
 ### Forbidden
 - 褝 - 異体字: 'unlined garment'; a rare Chinese-Japanese form, on-reading タン
 
+### Aliases
+- 稱 --> 称
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

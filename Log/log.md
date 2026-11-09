@@ -4,6 +4,26 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **茻 made an alias of 莽:** by the project owner's decision, on the identical sound (ㄇㄚㄫ, MC `m` + `ɑŋ`) and the same sense (thick grass; 莽 is 犬 in 茻). 莽 gained `aliases: 茻` and its first `## Aliases` section (redirects on Stroke 12, SKIP-2-6-6 and Radical 140; SKIP computed). `mc_id` unchanged (624). No other vault character builds on 茻, so no Derived Characters section. The 茻 link on 莽 is now "this page's alias", and the List of 会意 entry for 寒 links 茻 to 莽 with the "no vault page" note removed. Authority: 武明帥.
+
+- **厷 made an alias of 宏, and 宏 the derived-character hub for 厷:** by the project owner's decision, because Wiktionary records 厷 (the original form of 肱) as a variant of 宏 and its derived sound is close (MC 古弘切, `k` + `wəŋ`, against 宏's `ɣ` + `ɣwɛŋ`). 宏 gained `aliases: 厷`, its first `## Aliases` section (redirects on Stroke 04, SKIP-3-2-2 and Radical 028) and `## Derived Characters` with a short explanation (紘, 雄). `mc_id` unchanged (2160). The 厷 mentions on 紘, 宏 and 雄 now point to 宏. Authority: 武明帥.
+
+- **爯 made an alias of 称:** by the project owner's decision, on the identical sound (ㄑㄧㄫ, MC `t͡ɕʰ` + `ɨŋ`) and because 爯 is the ancient form of 稱 and 称's phonetic. 称 gained `aliases: 爯` and its first `## Aliases` section for 稱, 秤 and 爯 (redirects on Stroke 09, 10 and 14, SKIP-1-5-9, SKIP-1-5-5 and the new redirect-only leaf SKIP-2-1-8, Radicals 087 and 115; 秤 already had Jinmeiyō). `mc_id` unchanged (274, the rank of 稱). New leaf `SKIP-2-1-8` indexed with `ø` in SKIP-2-1. The 爯 note on 称 says "this page's alias". Authority: 武明帥.
+
+- **禱 de-linked on 祷:** the red link `[[禱]]` pointed at the page's own alias; it is plain text. Authority: 武明帥.
+
+- **欸 made an alias of 唉:** by the project owner's decision, on the identical sound (ㄚㄧ, MC `ʔ` + `ʌi`) and meaning (an interjection), and Wiktionary's "alternative form of 唉". 唉 (char) gained `aliases: 欸` and its first `## Aliases` section (redirects on Stroke 11, SKIP-1-7-4 and Radical 076). `mc_id` unchanged (7655). On 矣 (char) the note on 欸 is now plain (with the history sentence about a leaked `english` field deleted) and the Derived Characters entry for 欸 is replaced by 唉. Authority: 武明帥.
+
+- **夲 made an alias of 本:** by the project owner's decision, because Wiktionary records 夲 as a variant of 本 (Chinese, Vietnamese) and an alternative form of 本 (Japanese), with identical sound and meaning for that reading; its own rare reading (tāo, "to advance quickly") is the phonetic 皐 cites. 本 (char) gained `aliases: 夲`, its first `## Aliases` section (redirects on Stroke 05, SKIP-2-3-2 and Radical 037) and a line about 皐 under Derived Characters. `mc_id` unchanged (302). The 夲 link on 皐 now points to 本. Authority: 武明帥.
+
+- **癹 de-linked on 発 (char):** the red link `[[癹]]` (the phonetic of 発, "to level grass with the feet") is plain text; not aliased, as nothing needs it. Authority: 武明帥.
+
+- **嵒 made an alias of 岩, and 岩 the derived-character hub for 嵒:** by the project owner's decision, on the identical sound (ㄚㄇ) and meaning (嵒 is a variant of 岩 and 巖) and because it is the phonetic of 癌. 岩 gained `aliases: 嵒`, 嵒 in its `## Aliases` section beside 巖 and 巌 (redirects on Stroke 12, SKIP-2-3-9 and Radical 046) and `## Derived Characters` with a short explanation (癌). `mc_id` unchanged (2209, 巖's rank). The 嵒 link on 癌 now points to 岩. Authority: 武明帥.
+
+- **玨 de-linked on 瑟:** the red link `[[玨]]` ("two jades", mentioned only to say it is unrelated to 珡) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
+
+- **𩕨 de-linked on 瀕:** the red link `[[𩕨]]` (a zh.Wiktionary-only variant, Extension B, no definition) is plain text; not aliased, for lack of corroboration. Authority: 武明帥.
+
 - **𤅍 made an alias of 漕 (fiat):** by the project owner's decision, although the only evidence is en.Wiktionary's `alt=𤅍` on 漕 (no entry of its own, no zh.Wiktionary corroboration); it would share 漕's sound, ㄐㄚㄨ. 漕 gained `aliases: 𤅍` and its first `## Aliases` section (redirects on Stroke 23, SKIP-1-3-20 and Radical 085; SKIP computed). `mc_id` unchanged (2598). The note on 漕 now says the page keeps 𤅍 as its alias. Authority: 武明帥.
 
 - **冓 made an alias of 構, and 構 the derived-character hub for 冓:** by the project owner's decision, on the derived Dan'a'yo sound (冓 would read ㄍㄛㄨ like 構, 溝 and 購, MC `k` + `əu`) and because 構 keeps 冓's "interlocked timbers" sense. 構 gained `aliases: 冓`, its first `## Aliases` section (构 and 冓; redirects on Stroke 08 and 10, SKIP-1-4-4 and SKIP-2-5-5, Radicals 075 and 013) and `## Derived Characters` with a short explanation (溝, 購, 講). `mc_id` unchanged (2327, 構's own rank). The 冓 links and "no vault page" notes on 溝, 購, 講, 構 and the List of 会意 (再) now point to 構. SKIP-2-5-5: the leftover `### Redirects` section (including the wrong `冓 --> 勾`) removed, and its four forbidden lines shortened to `- ¡X! - 違法字`. Authority: 武明帥.

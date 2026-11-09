@@ -35,3 +35,4 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 隠 | 㐆 | 3-1-4 | computed from its parts |
 | 括 | 𠯑 | 2-4-3 | computed from its parts |
 | 漕 | 𤅍 | 1-3-20 | computed from its parts |
+| 莽 | 茻 | 2-6-6 | computed from its parts |

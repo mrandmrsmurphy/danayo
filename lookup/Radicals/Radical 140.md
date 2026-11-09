@@ -62,6 +62,7 @@ tags:
 39. <ruby>[荒](../../characters/荒.md)<rt>ㄏ⺢ㄫ</rt></ruby> - laid waste
 40. <ruby>[荘](../../characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> - villa
 41. <ruby>[莽](../../characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> - poisonous
+- 茻 --> 莽
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay

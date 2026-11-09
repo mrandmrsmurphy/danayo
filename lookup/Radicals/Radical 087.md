@@ -22,6 +22,7 @@ tags: [lookup]
 ### Aliases
 - 爱 --> 愛
 - 爭 --> 争
+- 爯 --> 称
 
 ## Data check
 ```dataview

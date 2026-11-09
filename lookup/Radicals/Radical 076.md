@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### +7 Strokes
 5. <ruby>[欲](../../characters/欲.md)<rt>⼄ㄎ</rt></ruby> - desire
+- 欸 --> 唉
 
 ### +8 Strokes
 6. <ruby>[欺](../../characters/欺.md)<rt>ㄎㄧ</rt></ruby> - deceive

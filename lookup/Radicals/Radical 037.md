@@ -21,6 +21,7 @@ tags: [lookup]
 ### +2 Strokes
 6. <ruby>[央](../../characters/央.md)<rt>⼘ㄫ</rt></ruby> - center
 7. <ruby>[失](../../characters/失.md)<rt>ㄙㄧㄊ</rt></ruby> - lose
+- 夲 --> 本
 
 ### +3 Strokes
 8. <ruby>[夷](../../characters/夷.md)<rt>ㄧㄜ</rt></ruby> - barbarian

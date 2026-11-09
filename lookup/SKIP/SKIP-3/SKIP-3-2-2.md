@@ -29,6 +29,7 @@ tags: [lookup]
 ### Aliases
 - 內 --> 内
 - 风 --> 風
+- 厷 --> 宏
 
 ### Forbidden
 - 历 - 官话: Simplified Chinese ambiguously merges *two* distinct characters into this one glyph -- [[暦]] ("calendar, almanac") and [[歴]] ("past, experience, history"). Rather than pick one to claim it as an alias, or split its meaning across both, it's simply forbidden.

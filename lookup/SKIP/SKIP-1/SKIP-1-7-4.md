@@ -42,6 +42,7 @@ tags:
 
 ### Aliases
 - 敎 --> 教
+- 欸 --> 唉
 
 ## Datacheck
 ```dataview

@@ -46,6 +46,7 @@ tags: [lookup]
 - 單 --> 単
 - 筑 --> 築
 - 畫 --> 画
+- 茻 --> 莽
 
 ## Datacheck
 ```dataview

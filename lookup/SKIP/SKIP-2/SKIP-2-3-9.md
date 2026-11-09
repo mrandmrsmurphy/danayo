@@ -40,6 +40,9 @@ tags:
 ### Forbidden
 - 颪 - 国字: おろし, oroshi; 国字 for the wind that blows down from a mountain (bora)
 
+### Aliases
+- 嵒 --> 岩
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"
