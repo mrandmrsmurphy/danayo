@@ -33,7 +33,7 @@ Checked for redirects
 [牲](characters/牲.md) [甥 (char)](characters/甥%20(char).md) [省 (char)](characters/省%20(char).md) [笙](characters/笙.md) 
 
 ### 서  
-[抒](characters/抒.md) [[舒]] [[../../characters/瑞]] [棲](characters/棲.md) [曙](../../characters/%E7%BD%B2.md) [[婿 (char)|壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[藷|薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
+[抒](characters/抒.md) [[抒|舒]] [[../../characters/瑞]] [棲](characters/棲.md) [曙](../../characters/%E7%BD%B2.md) [[婿 (char)|壻]] [[㥠]] [[諝]] [墅](characters/野.md) [[../../characters/屿]] [犀](characters/犀.md) [[筮]] [[絮]] [胥](characters/胥.md) [[藷|薯]] [鋤](characters/鋤.md) [黍](characters/黍.md) [鼠](characters/鼠.md) [[藇]] [[揟]] [[悆]] [[湑]] [[偦]] 
 [[../../characters/屿]] ([[㠘]]) [胥](characters/胥.md) ([縃](characters/胥.md)) [[諝]] ([[𧩑]])
 
 ### 석  

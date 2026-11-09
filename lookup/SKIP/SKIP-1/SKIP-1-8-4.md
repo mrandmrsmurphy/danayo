@@ -32,6 +32,7 @@ tags: [lookup]
 - 韩 --> 韓
 - 斞 --> 庾
 - 敝 --> 蔽
+- 舒 --> 抒
 
 ## Datacheck
 ```dataview

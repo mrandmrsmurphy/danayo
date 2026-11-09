@@ -16,6 +16,9 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[舎](../../characters/舎.md)<rt>ㄙ⼘</rt></ruby> - inn
 
+### +6 Strokes
+- 舒 --> 抒
+
 ### +9 Strokes
 3. <ruby>[舗](../../characters/舗%20(char).md)<rt>ㄆㄛㄨ</rt></ruby> - store
 

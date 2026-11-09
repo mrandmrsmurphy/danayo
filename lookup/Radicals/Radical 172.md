@@ -29,6 +29,7 @@ tags: [lookup]
 9. <ruby>[雉](../../characters/雉%20(char).md)<rt>ㄉㄧㄜ</rt></ruby> - green pheasant
 10. <ruby>[雌](../../characters/雌.md)<rt>ㄑㄝ</rt></ruby> - female
 11. <ruby>[雍](../../characters/雍.md)<rt>ㄛㄫ</rt></ruby> - harmonious
+- 䧹 --> 鷹
 
 ### +6 Strokes
 12. <ruby>[雑](../../characters/雑%20(char).md)<rt>ㄐㄚㄆ</rt></ruby> - miscellaneous

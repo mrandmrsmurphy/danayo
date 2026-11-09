@@ -38,6 +38,7 @@ date-last-perfect: 2026-10-05
 13. <ruby>[鵖](../../characters/鵖.md)<rt>ㄅㄨㄆ</rt></ruby> - hoopoe
 14. <ruby>[鵝](../../characters/鵝.md)<rt>ㄚ</rt></ruby> - domestic goose
 15. <ruby>[鵠](../../characters/鵠.md)<rt>ㄏㄛㄎ</rt></ruby> - swan
+- 鹰 --> 鷹
 
 ### +8 Strokes
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot
