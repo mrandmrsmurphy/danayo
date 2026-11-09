@@ -36,6 +36,8 @@ danayo_id: 5021
 mc_id: 336
 graphemic_classification: 戉
 stand_in: 越
+aliases:
+  - 戉
 注音: ⼔ㄊ
 date-last-perfect: 2026-10-20
 kwin: true
@@ -51,10 +53,15 @@ boundedness: 90
 ```
 
 ## Notes
-- 形声 (OC \*ɢʷaːd, \*ɢʷad): semantic [[Radical 156|走]] ("to walk or run") + phonetic [[戉]] (OC \*ɢʷad, originally "large battle-axe," the ancient name of the State of Yue) — "to go over, to cross, to exceed"; also the ethnonym Yue/Việt, the Baiyue peoples of ancient southern China.
+- 形声 (OC \*ɢʷaːd, \*ɢʷad): semantic [[Radical 156|走]] ("to walk or run") + phonetic 戉 (this page's alias; OC \*ɢʷad, originally "large battle-axe," the ancient name of the State of Yue) — "to go over, to cross, to exceed"; also the ethnonym Yue/Việt, the Baiyue peoples of ancient southern China.
 - [SKIP-3-7-5](../lookup/SKIP/SKIP-3/SKIP-3-7-5.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 336th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 月合|ʉɐt]] → [⼔ㄊ](../syllables/⼔ㄊ.md)
 - [Grade 5](../lookup/Grade%205.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 戉
+A battle axe (𠄌 + 戈), the original form of 鉞, and the ancient name of the State of Yue; it is the phonetic of 越 and of 歳. It has the same derived Dan'a'yo sound as 越, ⼔ㄊ (MC `ø` + `ʉɐt`), and 越 is the character that carries the name Yue, so it is an alias of 越, which is the hub for the characters built on it (see Derived Characters). SKIP 4-5-4 (EDRDG); 5 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 336. SKIP 4-5-4; 5 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[越]]<rt>⼔ㄊ</rt></ruby> "exceed" (stand-in for 越 (char))
@@ -72,3 +79,7 @@ boundedness: 90
 
 ## Chengyu
 - <ruby>[[呉越同舟]]<rt>ㄛ⼔ㄊㄉㄛㄫㄐㄨ</rt></ruby> "bitter enemies meet and have to work together"
+
+## Derived Characters
+越 is the hub for the characters built on the phonetic 戉. 戉 (the battle axe, and the ancient name of the State of Yue) is kept here as this page's alias, because it reads the same (⼔ㄊ) and 越 is the character that carries the name, so 歳, which cites 戉, links to this page.
+- <ruby>[[歳]]<rt>ㄙㄝ</rt></ruby> "age; year"

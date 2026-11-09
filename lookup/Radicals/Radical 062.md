@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +1 Stroke
 2. <ruby>[戊](../../characters/戊.md)<rt>ㄇㄛㄨ</rt></ruby> - fifth heavenly stem
+- 戉 --> 越
 
 ### +2 Strokes
 3. <ruby>[成](../../characters/成%20(char).md)<rt>ㄙㄧㄫ</rt></ruby> - become

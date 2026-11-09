@@ -27,6 +27,9 @@ tags: [lookup]
 ### Forbidden
 - 靹 - 国字: Archer's arm protector.  Poss same as 䪏
 
+### Aliases
+- 䩗 --> 覇
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

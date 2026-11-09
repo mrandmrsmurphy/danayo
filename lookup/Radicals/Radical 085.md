@@ -267,6 +267,9 @@ tags: [lookup]
 ### +19 Strokes
 - 𤅍 --> 漕
 
+### +20 Strokes
+- 灞 --> 覇
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

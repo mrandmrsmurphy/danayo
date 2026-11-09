@@ -22,6 +22,8 @@ tags: [lookup]
 ### Aliases
 - 鞦 --> 秋
 - 韆 --> 千
+- 䩗 --> 覇
+- 䩻 --> 覇
 
 ### Forbidden
 - 靹 - 国字: Archer's arm protector.  Poss same as 䪏

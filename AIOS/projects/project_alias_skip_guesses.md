@@ -37,3 +37,7 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 漕 | 𤅍 | 1-3-20 | computed from its parts |
 | 莽 | 茻 | 2-6-6 | computed from its parts |
 | 夢 (char) | 㒱 | 2-2-3 | computed from its parts |
+| 覇 | 䨣 | 2-8-9 | computed from its parts |
+| 覇 | 䩗 | 1-9-4 | computed from its parts |
+| 覇 | 䩻 | 1-9-10 | computed from its parts |
+| 覇 | 𧈉 | 2-6-13 | computed from its parts |

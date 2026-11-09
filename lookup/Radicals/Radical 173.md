@@ -41,6 +41,7 @@ tags: [lookup]
 ### +9 Strokes
 15. <ruby>[霜](../../characters/霜%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - frost
 16. <ruby>[霞](../../characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
+- 䨣 --> 覇
 
 ### +11 Strokes
 17. <ruby>[霧](../../characters/霧%20(char).md)<rt>ㄇㄨ</rt></ruby> - fog

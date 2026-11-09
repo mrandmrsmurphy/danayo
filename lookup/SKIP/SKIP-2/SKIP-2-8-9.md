@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[霜](/characters/霜%20(char).md)<rt>ㄙ⺢ㄫ</rt></ruby> - frost
 2. <ruby>[霞](/characters/霞.md)<rt>ㄏㄚ</rt></ruby> - mist
 
+### Aliases
+- 䨣 --> 覇
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

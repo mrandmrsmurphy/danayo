@@ -44,6 +44,8 @@ tags:
 - 蹶 --> 決
 - 關 --> 関
 - 巌 --> 岩
+- 䩻 --> 覇
+- 𧈉 --> 覇
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

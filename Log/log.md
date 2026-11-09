@@ -4,6 +4,14 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **戉 made an alias of 越, and 越 the derived-character hub for 戉:** by the project owner's decision, on the identical sound (⼔ㄊ, MC `ø` + `ʉɐt`) and because 戉, the battle axe and ancient name of the State of Yue, is 越's phonetic and the name 越 carries. 越 (char) gained `aliases: 戉`, its first `## Aliases` section (redirects on Stroke 05, SKIP-4-5-4 and Radical 062) and `## Derived Characters` with a short explanation (歳). `mc_id` unchanged (336). The 戉 mentions on 越 and 歳 now point to 越 (the 歳 "no character page" note removed). Authority: 武明帥.
+
+- **𧶠 de-linked on 贖:** the red link `[[𧶠]]` (the original of 鬻 "to sell", phonetic of 贖, 続, 読; derived sound ⼄ㄎ) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
+
+- **雔 de-linked on 讐:** the red link `[[雔]]` ("a pair of birds", the phonetic of 讐; derived sound ㄙㄨ) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
+
+- **灞 made an alias of 覇, and 覇's `## Aliases` section built:** by the project owner's decision (a river-name character, 氵 + 霸, used only in 灞河; kept on the identical sound ㄅㄚ). 覇 gained `aliases: 灞` and its first `## Aliases` section for 霸, 灞, 䨣, 䩗, 䩻 and 𧈉 (redirects on Stroke 13, 17, 19, 21 and 24, SKIP-2-8-13, SKIP-1-3-21, SKIP-2-8-9, SKIP-1-9-4, SKIP-1-9-10 and SKIP-2-6-13, Radicals 085, 141, 173 and 177; the SKIP numbers of 䨣, 䩗, 䩻 and 𧈉 are computed). `mc_id` unchanged (712, the rank of 霸). The Derived Characters entry for 灞 (and the section, now empty) removed. 覊 and 羈 deferred. Authority: 武明帥.
+
 - **絝 made an alias of 袴:** by the project owner's decision, on the identical sound (ㄎㄛ, MC `kʰ` + `uo`) and meaning ("pants"; Wiktionary: 絝 is an alternative form of 褲). 袴 (char) gained `aliases: 絝` and its first `## Aliases` section for 褲 and 絝 (redirects on Stroke 12 and 15, SKIP-1-5-10 and SKIP-1-6-6, Radicals 120 and 145). `mc_id` unchanged (4149). The 絝 link on 袴 now says "this page's alias". Authority: 武明帥.
 
 - **巤 made an alias of 鬣, and 鬣 the derived-character hub for 巤:** by the project owner's decision, on the identical sound (ㄌㄛㄆ, MC `l` + `iᴇp`) and meaning (Wiktionary: 巤 is an alternative form of 鬣, "mane"). 鬣 (char) gained `aliases: 巤`, its first `## Aliases` section (redirects on Stroke 15, SKIP-2-3-12 and Radical 047) and `## Derived Characters` with a short explanation (獵, 蠟, 臘). `mc_id` unchanged (3632). The 巤 notes on 蠟, 鬣, 臘 and 獵 now point to 鬣; on 獵 the earlier `[[鼠|巤]]` link and its claim that 巤 is "an ancient variant of 鼠" (unsupported in the vault) are replaced. Authority: 武明帥.
