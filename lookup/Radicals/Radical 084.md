@@ -14,6 +14,8 @@ tags: [lookup]
 
 ### Aliases
 - 㲵 --> 宵
+- 氣 --> 気
+- 气 --> 気
 
 ### Forbidden
 - 氮 - 官话: HSK/4, made-up.  Dan'a'yo uses 窒素 for "nitrogen" instead (see [[素]]).

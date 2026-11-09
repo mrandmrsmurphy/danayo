@@ -122,6 +122,7 @@ tags: [lookup]
 - 栉 --> 櫛
 - 栏 --> 欄
 - 柾 --> 正
+- 柢 --> 氐
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg

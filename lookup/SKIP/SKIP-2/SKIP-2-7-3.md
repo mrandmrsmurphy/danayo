@@ -20,6 +20,7 @@ tags: [lookup]
 ### Aliases
 - 帮 --> 幇
 - 恶 --> 悪
+- 娑 --> 沙
 
 ## Datacheck
 ```dataview

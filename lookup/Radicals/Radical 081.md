@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 毕 --> 畢
+- 毗 --> 毘
 
 ## Data check
 ```dataview

@@ -53,6 +53,7 @@ tags:
 
 23. <ruby>[裔](../../characters/裔.md)<rt>⼶</rt></ruby> - descendant
 - 裝 --> 装
+- 裟 --> 沙
 
 ### +8 Strokes
 24. <ruby>[裴](../../characters/裴.md)<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown

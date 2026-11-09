@@ -14,6 +14,9 @@ tags:
 2. <ruby>[毎](../../characters/毎%20(char).md)<rt>ㄇㄛㄧ</rt></ruby> - each
 3. <ruby>[毒](../../characters/毒%20(char).md)<rt>ㄉㄛㄎ</rt></ruby> - poisonous
 
+### Aliases
+- 每 --> 毎
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

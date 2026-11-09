@@ -35,7 +35,7 @@ stand_in: "正"
 aliases:
   - 柾
 注音: "ㄐㄧㄫ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character

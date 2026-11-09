@@ -114,6 +114,7 @@ tags:
 - 蓝 --> 藍
 - 蔘 --> 参
 - 蒔 --> 時
+- 䓾 --> 沙
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn

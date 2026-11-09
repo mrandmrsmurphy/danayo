@@ -44,7 +44,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 沙.
 >For the word, see [沙](../words/沙.md)
@@ -58,6 +58,20 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 1146th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 麻二開|ɣa]] → [ㄙㄚ](../syllables/ㄙㄚ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 裟
+衣 + 沙, in 袈裟; built on 沙 and kept as an alias. SKIP 2-7-6; 13 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
+
+### 砂
+石 + 少, "sand"; an alternative form of 沙 and kept as an alias. SKIP 1-5-4; 9 strokes. Radical 112 石. It has no rank of its own in the Classical Chinese lists.
+
+### 娑
+沙 + 女, in 婆娑; built on 沙 and kept as an alias. SKIP 2-7-3; 10 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
+
+### 䓾
+艹 + 沙, "lush"; built on 沙 and kept as an alias. SKIP 2-3-7 (computed: EDRDG does not list it); 14 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[沙]]<rt>ㄙㄚ</rt></ruby> "sand; gravel; pebbles" (stand-in for 沙)

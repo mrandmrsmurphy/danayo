@@ -117,6 +117,8 @@ tags:
 - 齐 --> 斉
 - 朵 --> 朶
 - 杀 --> 殺
+- 汙 --> 汚
+- 污 --> 汚
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

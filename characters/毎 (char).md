@@ -30,7 +30,7 @@ stand_in: 毎
 aliases:
   - 每
 注音: ㄇㄛㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - adverbial
@@ -49,6 +49,12 @@ boundedness: 50
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 1025th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄛㄧ](../syllables/ㄇㄛㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 每
+Traditional form (kyūjitai) of 毎, "every". SKIP 2-2-5 (computed: EDRDG does not list it); 7 strokes. It ranks 1025 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
 ## Words
 - <ruby>[[毎週]]<rt>ㄇㄛㄧㄐㄨㄛ</rt></ruby> "every week, weekly"
 - <ruby>[[毎事]]<rt>ㄇㄛㄧㄐㄧ</rt></ruby> "every matter; each matter; in every matter"

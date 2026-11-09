@@ -16,6 +16,7 @@ tags: [lookup]
 2. <ruby>[砒](../../characters/砒.md)<rt>ㄆㄧ</rt></ruby> - arsenic
 3. <ruby>[砕](../../characters/砕%20(char).md)<rt>ㄙㄛㄧ</rt></ruby> - smash
 4. <ruby>[研](../../characters/研.md)<rt>ㄝㄋ</rt></ruby> - research
+- 砂 --> 沙
 
 ### +5 Strokes
 5. <ruby>[砧](../../characters/砧.md)<rt>ㄉㄨㄇ</rt></ruby> - anvil

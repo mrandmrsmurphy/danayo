@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 浦.
 >For the word, see [浦](../words/浦.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 2506th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄆㄛ](../syllables/ㄆㄛ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 坡
+土 + 皮, "slope, bank"; kept as an alias of 浦 for its meaning of a shore or bank. SKIP 1-3-5; 8 strokes. Radical 032 土. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[浦]]<rt>ㄆㄛ</rt></ruby> "riverbank, shore" (stand-in for 浦)

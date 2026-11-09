@@ -143,6 +143,9 @@ tags:
 - 槇 --> 槙
 - 槖 --> 橐
 - 槟 --> 檳
+- 䓾 --> 沙
+- 滼 --> 泛
+- 㵆 --> 浩
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

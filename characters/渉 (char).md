@@ -32,7 +32,7 @@ kwin: true
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 渉.
 >For the word, see [渉](../words/渉.md)
@@ -46,6 +46,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1087th most used character in Classical Chinese (recorded under the form 涉). Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄙㄝㄆ](../syllables/ㄙㄝㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 涉
+Traditional form of 渉, "to wade". SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It ranks 1087 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[渉]]<rt>ㄙㄝㄆ</rt></ruby> "ford" (stand-in for 渉 (char))

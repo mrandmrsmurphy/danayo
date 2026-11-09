@@ -38,6 +38,7 @@ tags: [lookup]
 14. <ruby>[陣](../../characters/陣.md)<rt>ㄑㄧㄋ</rt></ruby> - camp (army)
 15. <ruby>[陥](../../characters/陥%20(char).md)<rt>ㄏㄚㄇ</rt></ruby> - submerge
 16. <ruby>[除](../../characters/除.md)<rt>ㄐㄝㄧ</rt></ruby> - exclude
+- 陼 --> 渚
 
 ### +3 Strokes
 17. <ruby>[陪](../../characters/陪%20(char).md)<rt>ㄅㄛㄧ</rt></ruby> - accompany

@@ -48,6 +48,8 @@ tags:
 15. <ruby>[坪](../../characters/坪%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - level ground
 16. <ruby>[垂](../../characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - hang
 - 坸 --> 垢
+- 坭 --> 泥
+- 坡 --> 浦
 
 ### +6 Strokes
 17. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model

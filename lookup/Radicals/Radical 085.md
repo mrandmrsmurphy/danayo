@@ -33,6 +33,8 @@ tags: [lookup]
 13. <ruby>[汐](../../characters/汐.md)<rt>ㄙㄝㄎ</rt></ruby> - evening tide
 - ¡汢! - 違法字
 - 汤 --> 湯
+- 汙 --> 汚
+- 污 --> 汚
 
 ### +3 Strokes
 14. <ruby>[求](../../characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - request
@@ -53,6 +55,7 @@ tags: [lookup]
 29. <ruby>[泛](../../characters/泛.md)<rt>ㄈㄧㄇ</rt></ruby> - flood
 - 沒 --> 没
 - 汶 --> 文
+- 沉 --> 沈
 
 ### +4 Strokes
 30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous
@@ -81,6 +84,8 @@ tags: [lookup]
 - ¡㳓! - 違法字
 - 沮 --> 祖
 - 泗 --> 四
+- 沬 --> 沫
+- 泄 --> 洩
 
 ### +5 Strokes
 49. <ruby>[泉](../../characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - fountain
@@ -133,6 +138,7 @@ tags: [lookup]
 - ¡㳲! - 違法字
 - 涂 --> 塗
 - 浵 --> 彤
+- 涉 --> 渉
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -163,6 +169,8 @@ tags: [lookup]
 - 淺 --> 浅
 - 淸 --> 清
 - 淒 --> 凄
+- 淚 --> 涙
+- 渎 --> 涜
 
 ### +8 Strokes
 103. <ruby>[淵](../../characters/淵.md)<rt>⼔ㄋ</rt></ruby> - abyss
@@ -215,6 +223,7 @@ tags: [lookup]
 - 溫 --> 温
 - 溟 --> 冥
 - 滉 --> 晃
+- 滛 --> 淫
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -237,6 +246,8 @@ tags: [lookup]
 - 滯 --> 滞
 - 漣 --> 連
 - 滸 --> 許
+- 滼 --> 泛
+- 㵆 --> 浩
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
@@ -253,6 +264,7 @@ tags: [lookup]
 - 漿 --> 将
 - ¡㵜! - 違法字
 - 澳 --> 奥
+- 澔 --> 浩
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
@@ -260,6 +272,8 @@ tags: [lookup]
 164. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
 165. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
 - ¡澡! - 違法字
+- 澣 --> 浣
+- 澱 --> 淀
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
@@ -267,6 +281,8 @@ tags: [lookup]
 - 濱 --> 浜
 - 濟 --> 済
 - 濠 --> 豪
+- 濤 --> 涛
+- 澀 --> 渋
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding
@@ -274,6 +290,8 @@ tags: [lookup]
 - ¡㶂! - 違法字
 - ¡㶃! - 違法字
 - ¡濺! - 違法字
+- 瀋 --> 沈
+- 瀆 --> 涜
 
 ### +15 Strokes
 170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
@@ -293,6 +311,7 @@ tags: [lookup]
 
 ### +18 Strokes
 - ¡𪸉! - 違法字
+- 灑 --> 洒
 
 ### +19 Strokes
 - 𤅍 --> 漕

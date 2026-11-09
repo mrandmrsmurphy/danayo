@@ -155,6 +155,10 @@ tags:
 - 栢 --> 柏
 - 栖 --> 棲
 - 桦 --> 樺
+- 氣 --> 気
+- 娑 --> 沙
+- 涉 --> 渉
+- 陼 --> 渚
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -16,6 +16,7 @@ tags: [lookup]
 - 粲 --> 燦
 - 裝 --> 装
 - 羣 --> 群
+- 裟 --> 沙
 
 ## Datacheck
 ```dataview

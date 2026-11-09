@@ -30,14 +30,14 @@ joyo_level: "高等"
 hsk_level: "2"
 hanmun_edu_level: "高等"
 danayo_id: 3280
-mc_id: 2432
+mc_id: 1695
 graphemic_classification: "于"
 stand_in: "汚"
 aliases:
   - 汙
   - 污
 注音: "ㄛ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -52,8 +52,17 @@ boundedness: 50
 ## Notes
 - 形声: semantic [[Radical 085|水]] ("water") + phonetic [[于 (char)|于]] — stagnant, dirty water; filth.
 - [SKIP-1-3-3](../lookup/SKIP/SKIP-1/SKIP-1-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
-- 2432nd most used character in Classical Chinese (ranking lists the variant form 污). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](../syllables/ㄛ.md)
+- 1695th most used character in Classical Chinese, the rank of its alias 汙 (汚 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](../syllables/ㄛ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 汙
+A variant form of 汚, "filthy". SKIP 1-3-3; 6 strokes. It ranks 1695 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 污
+A variant form of 汚, "dirt, filth". SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It ranks 2432 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
 ## Words
 - <ruby>[[汚]]<rt>ㄛ</rt></ruby> "dirty" (stand-in for 汚)
 - <ruby>[[汚染]]<rt>ㄛ·ㄋ⼄ㄇ</rt></ruby> "pollute, contaminate"

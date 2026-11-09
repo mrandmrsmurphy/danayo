@@ -74,6 +74,7 @@ tags: [lookup]
 - 姬 --> 姫
 - 娛 --> 娯
 - 娱 --> 娯
+- 娑 --> 沙
 
 ### +8 Strokes
 42. <ruby>[娶](../../characters/娶.md)<rt>ㄑㄨ</rt></ruby> - marry
@@ -85,6 +86,7 @@ tags: [lookup]
 48. <ruby>[婦](../../characters/婦%20(char).md)<rt>ㄅ⼜</rt></ruby> - lady
 - 婴 --> 嬰
 - 婪 --> 林
+- 婬 --> 淫
 
 ### +9 Strokes
 49. <ruby>[婿](../../characters/婿%20(char).md)<rt>ㄙㄝㄧ</rt></ruby> - bridegroom

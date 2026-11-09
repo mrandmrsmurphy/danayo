@@ -122,6 +122,10 @@ tags:
 - 拣 --> 揀
 - 拥 --> 擁
 - 抬 --> 擡
+- 沬 --> 沫
+- 坭 --> 泥
+- 泄 --> 洩
+- 坡 --> 浦
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

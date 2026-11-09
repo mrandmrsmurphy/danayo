@@ -31,7 +31,7 @@ aliases:
   - 氣
   - 气
 注音: ㄎㄧㄜ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +48,15 @@ boundedness: 50
 - [SKIP-3-4-2](../lookup/SKIP/SKIP-3/SKIP-3-4-2.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 126th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 微開|ɨi]] → [ㄎㄧㄜ](../syllables/ㄎㄧㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 氣
+Traditional form (kyūjitai) of 気, "air, spirit". SKIP 3-4-6; 10 strokes. It ranks 126 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 气
+The Kangxi radical 84 and the original form of 気, "air". SKIP 2-2-2; 4 strokes. It ranks 2443 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
 ## Words
 - <ruby>[[気]]<rt>ㄎㄧㄜ</rt></ruby> "feeling" (stand-in for 気)
 - <ruby>[[気息]]<rt>ㄎㄧㄜㄙㄧㄎ</rt></ruby> "breath, smell, spirit"

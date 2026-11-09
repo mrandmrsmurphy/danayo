@@ -37,7 +37,7 @@ stand_in: "殺"
 aliases:
   - 杀
 注音: "ㄙㄚㄊ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

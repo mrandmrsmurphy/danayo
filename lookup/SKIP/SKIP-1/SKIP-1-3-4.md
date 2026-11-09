@@ -102,6 +102,7 @@ tags:
 - 汶 --> 文
 - 扵 --> 於
 - 忻 --> 欣
+- 沉 --> 沈
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

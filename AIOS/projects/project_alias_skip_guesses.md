@@ -465,3 +465,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 歹 | 歺 | 4-5-1 | computed from its parts |
 | 殺 (char) | 杀 | 2-2-4 | computed from its parts |
 | 毀 (char) | 毁 | 1-9-4 | computed from its parts |
+| 毎 (char) | 每 | 2-2-5 | computed from its parts |
+| 毘 | 毗 | 1-5-4 | computed from its parts |
+| 汚 (char) | 污 | 1-3-3 | computed from its parts |
+| 沙 (char) | 䓾 | 2-3-7 | computed from its parts |
+| 沫 (char) | 沬 | 1-3-5 | computed from its parts |
+| 泛 | 滼 | 1-3-11 | computed from its parts |
+| 浩 | 㬶 | 1-4-7 | computed from its parts |
+| 浩 | 㵆 | 1-3-11 | computed from its parts |
+| 涙 (char) | 淚 | 1-3-8 | computed from its parts |
+| 涜 | 渎 | 1-3-8 | computed from its parts |
+| 淫 (char) | 滛 | 1-3-10 | computed from its parts |
+| 渉 (char) | 涉 | 1-3-7 | computed from its parts |

@@ -54,6 +54,7 @@ tags:
 - 桿 --> 杆
 - 㭨 --> 椰
 - 梹 --> 檳
+- 㬶 --> 浩
 
 ## Datacheck
 ```dataview

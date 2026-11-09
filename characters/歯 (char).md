@@ -31,7 +31,7 @@ aliases:
   - 齒
   - 齿
 注音: ㄑㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

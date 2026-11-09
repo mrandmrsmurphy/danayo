@@ -27,6 +27,7 @@ tags: [lookup]
 
 ### +7 Strokes
 8. <ruby>[望](../../characters/望.md)<rt>ㄇㄚㄫ</rt></ruby> - hope
+- 㬶 --> 浩
 
 ### +8 Strokes
 9. <ruby>[朝](../../characters/朝%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - morning
