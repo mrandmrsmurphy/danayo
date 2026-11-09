@@ -51,6 +51,7 @@ tags: [lookup]
 - 书 --> 書
 - 𠃓 --> 昜
 - 乚 --> 隠
+- 买 --> 買
 
 ## Data check
 ```dataview

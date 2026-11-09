@@ -98,6 +98,7 @@ tags: [lookup]
 - ¡栍! - 違法字
 - ¡栊! - 違法字
 - ¡𪱻! - 違法字
+- 树 --> 樹
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -125,6 +126,7 @@ tags: [lookup]
 - 桥 --> 橋
 - ¡桛! - 違法字
 - ¡桝! - 違法字
+- 桉 --> 案
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail

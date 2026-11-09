@@ -50,6 +50,7 @@ tags: [lookup]
 ### +11 Strokes
 19. <ruby>[敵](../../characters/敵.md)<rt>ㄉㄝㄎ</rt></ruby> - enemy
 20. <ruby>[敷](../../characters/敷%20(char).md)<rt>ㄈㄨ</rt></ruby> - spread
+- 數 --> 数
 
 ### +12 Strokes
 21. <ruby>[整](../../characters/整%20(char).md)<rt>ㄐㄝㄫ</rt></ruby> - orderly

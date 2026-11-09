@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### Aliases
 - 勞 --> 労
+- 雳 --> 歴
 
 ## Datacheck
 ```dataview

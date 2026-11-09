@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 𠂤 --> 堆
+- 买 --> 買
 
 ## Datacheck
 ```dataview

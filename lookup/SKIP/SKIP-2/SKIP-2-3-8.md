@@ -47,6 +47,7 @@ tags:
 - 菏 --> 河
 - 著 --> 着
 - 萤 --> 蛍
+- 菓 --> 果
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

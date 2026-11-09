@@ -47,3 +47,14 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 嬰 | 婴 | 2-8-3 | computed from its parts |
 | 鷹 (char) | 鹰 | 3-3-15 | computed from its parts |
 | 鷹 (char) | 䧹 | 3-3-10 | computed from its parts |
+| 案 | 桉 | 1-4-6 | computed from its parts |
+| 樹 | 树 | 1-4-5 | computed from its parts |
+| 歩 | 步 | 2-4-3 | computed from its parts |
+| 歩 | 歨 | 2-4-4 | computed from its parts |
+| 歴 | 歷 | 3-2-14 | computed from its parts |
+| 歴 | 雳 | 2-8-4 | computed from its parts |
+| 漢 | 汉 | 1-3-2 | computed from its parts |
+| 語 | 语 | 1-2-7 | computed from its parts |
+| 読 | 读 | 1-2-8 | computed from its parts |
+| 買 | 买 | 2-1-5 | computed from its parts |
+| 買 | 𧹒 | 2-5-4 | computed from its parts |

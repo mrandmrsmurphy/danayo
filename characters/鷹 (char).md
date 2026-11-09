@@ -43,6 +43,12 @@ date-last-perfect: 2026-10-20
 [[nav/char_info]]
 ```
 
+## Notes
+- 形声: semantic [[鳥 (char)]] ("bird") + phonetic 䧹 (this page's alias) — "hawk; eagle."
+- [SKIP-3-3-21](../lookup/SKIP/SKIP-3/SKIP-3-3-21.md) ([Stroke 24](../lookup/Stroke/Stroke%2024.md))
+- 2452nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄧㄫ](../syllables/ㄧㄫ.md)
+- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
 ## Aliases
 
 ### 鹰
@@ -56,12 +62,6 @@ Simplified Chinese form of 鷹, written 广 + 亻 + 鸟. SKIP 3-3-15 (computed: 
 - <ruby>[[単鷹国]]<rt>ㄉㄚㄋ·ㄧㄫㄍㄛㄎ</rt></ruby> "Prussia"
 - <ruby>[[双鷹国]]<rt>ㄙ⺢ㄫㄧㄫㄍㄛㄎ</rt></ruby> "Austria"
 - <ruby>[[猫頭鷹]]<rt>ㄇ⼘ㄨ·ㄊㄛㄨ·ㄧㄫ</rt></ruby> "owl"
-
-## Notes
-- 形声: semantic [[鳥 (char)]] ("bird") + phonetic 䧹 (this page's alias) — "hawk; eagle."
-- [SKIP-3-3-21](../lookup/SKIP/SKIP-3/SKIP-3-3-21.md) ([Stroke 24](../lookup/Stroke/Stroke%2024.md))
-- 2452nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄧㄫ](../syllables/ㄧㄫ.md)
-- [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
 
 ## Derived Characters
 鷹 is the hub for the character built on 䧹. 䧹 (a bird's chest, the original form of 膺) is kept here as this page's alias, because Wiktionary records it as a variant of 鷹 and it reads the same (ㄧㄫ), so 応, which cites 䧹, links to this page.

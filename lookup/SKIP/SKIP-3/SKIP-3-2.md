@@ -19,7 +19,7 @@ tags: [lookup]
 11. [SKIP-3-2-11](lookup/SKIP/SKIP-3/SKIP-3-2-11.md): ø
 12. [SKIP-3-2-12](lookup/SKIP/SKIP-3/SKIP-3-2-12.md): 歴, 鳳, 暦
 13. [SKIP-3-2-13](lookup/SKIP/SKIP-3/SKIP-3-2-13.md): ø
-14. none
+14. [SKIP-3-2-14](lookup/SKIP/SKIP-3/SKIP-3-2-14.md): ø
 15. [SKIP-3-2-15](lookup/SKIP/SKIP-3/SKIP-3-2-15.md): ø
 16. none
 17. [SKIP-3-2-17](lookup/SKIP/SKIP-3/SKIP-3-2-17.md): 贋

@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[彭](/characters/彭.md)<rt>ㄅㄚㄫ</rt></ruby> - ancient country
 2. <ruby>[鄂](/characters/鄂.md)<rt>ㄚㄎ</rt></ruby> - E
 
+### Aliases
+- 尌 --> 樹
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

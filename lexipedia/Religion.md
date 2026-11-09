@@ -50,6 +50,9 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[霊魂](../words/霊魂.md)<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby>: spirit, ghost, soul — a broad umbrella term covering Christian, Buddhist, and secular usages of "soul" alike.
 - <ruby>[地獄](../words/地獄.md)<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>: hell — the Buddhist hell of punishment; see [基督敎](../lexipedia/基督敎.md) for its Christian use.
 - <ruby>[天使](../words/天使.md)<rt>ㄊㄝㄋㄙㄧ</rt></ruby>: an angel, a messenger of heaven; see [基督敎](../lexipedia/基督敎.md).
+- <ruby>[玉皇](../words/玉皇.md)<rt>⼄ㄎㄏ⺢ㄫ</rt></ruby>: the Jade Emperor — the ruler of heaven and supreme god of Daoism and Chinese folk religion; the full name 玉皇大帝 is 玉皇 plus [[大帝]].
+- <ruby>[大帝](../words/大帝.md)<rt>ㄉㄚㄧㄊㄝㄧ</rt></ruby>: the Great — a title of honour for some Daoist deities, and the epithet "the Great" for monarchs (漢武大帝, 彼得大帝).
+- <ruby>[天公](../words/天公.md)<rt>ㄊㄝㄋㄍㄛㄫ</rt></ruby>: Lord of Heaven — God, the Jade Emperor by his popular name, and (literary) the heavens and the weather.
 - <ruby>[霊宝](../words/霊宝.md)<rt>ㄌㄝㄫㄅㄚㄨ</rt></ruby>: numinous treasure — the Daoist Lingbao (靈寶) school and scriptures, and in Japanese the sacred treasures of a temple or shrine; with [[天尊]] it makes the name of one of the Three Pure Ones.
 - <ruby>[天尊](../words/天尊.md)<rt>ㄊㄝㄋㄐㄛㄋ</rt></ruby>: Heavenly Venerable — the title of honour for a high deity: the Buddha (an early rendering of *Bhagavān*), the Daoist Three Pure Ones, and, in the Tang-dynasty Church of the East, God the Father.
 - <ruby>[魂魄](../words/魂魄.md)<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby>: soul, spirit — specifically the paired hún (魂, the thinking/vital soul-component) and 魄 (the physical/bodily soul-component) of classical Chinese cosmology.

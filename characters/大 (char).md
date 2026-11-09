@@ -136,6 +136,7 @@ boundedness: 90
 - <ruby>[[大気]]<rt>ㄉㄚㄧㄎㄧㄜ</rt></ruby> "atmosphere"
 - <ruby>[[大理石]]<rt>ㄉㄚㄧㄌㄧㄙㄝㄎ</rt></ruby> "marble"
 - <ruby>[[大罪]]<rt>ㄉㄚㄧㄐㄛㄧ</rt></ruby> "grave sin, mortal sin"
+- <ruby>[[大帝]]<rt>ㄉㄚㄧㄊㄝㄧ</rt></ruby> "the Great; great emperor"
 
 ## Chengyu
 - <ruby>[[大同小異]]<rt>ㄉㄚㄧㄉㄛㄫㄙㄛㄧ</rt></ruby> "broadly the same with minor differences; essentially alike"

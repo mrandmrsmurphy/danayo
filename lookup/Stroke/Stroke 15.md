@@ -66,6 +66,7 @@ tags:
 - 樊 --> 藩
 - 巤 --> 鬣
 - 褲 --> 袴
+- 數 --> 数
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

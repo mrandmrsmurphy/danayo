@@ -87,6 +87,7 @@ tags:
 - 啚 --> 鄙
 - 婴 --> 嬰
 - 匐 --> 伏
+- 菓 --> 果
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

@@ -17,6 +17,7 @@ tags: [lookup]
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise
 3. <ruby>[訃](../../characters/訃.md)<rt>ㄈㄨㄛ</rt></ruby> - obituary
 4. <ruby>[計](../../characters/計.md)<rt>ㄍㄝㄧ</rt></ruby> - measure
+- 语 --> 語
 
 ### +3 Strokes
 5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - inquire
@@ -24,6 +25,7 @@ tags: [lookup]
 7. <ruby>[訓](../../characters/訓%20(char).md)<rt>ㄏㄨㄋ</rt></ruby> - interpret
 8. <ruby>[託](../../characters/託.md)<rt>ㄊㄚㄎ</rt></ruby> - entrust
 9. <ruby>[記](../../characters/記.md)<rt>ㄍㄧ</rt></ruby> - remember
+- 读 --> 読
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -128,6 +130,9 @@ tags: [lookup]
 91. <ruby>[議](../../characters/議.md)<rt>ㄜㄧ</rt></ruby> - comment
 92. <ruby>[譲](../../characters/譲%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - permit
 93. <ruby>[護](../../characters/護.md)<rt>ㄏㄛ</rt></ruby> - safeguard
+
+### +15 Strokes
+- 讀 --> 読
 
 ### +16 Strokes
 94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge

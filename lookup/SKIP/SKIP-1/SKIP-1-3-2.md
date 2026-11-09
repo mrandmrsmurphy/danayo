@@ -33,6 +33,7 @@ tags:
 ### Aliases
 - 夘 --> 卯
 - 汇 --> 彙
+- 汉 --> 漢
 
 ### Forbidden
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.

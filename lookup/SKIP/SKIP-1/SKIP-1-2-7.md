@@ -30,6 +30,9 @@ tags:
 ### Forbidden
 - ¡俧! - 違法字
 
+### Aliases
+- 语 --> 語
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

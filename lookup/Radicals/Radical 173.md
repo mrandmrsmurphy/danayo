@@ -18,6 +18,7 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[雰](../../characters/雰.md)<rt>ㄈㄨㄋ</rt></ruby> - ambience
 4. <ruby>[雲](../../characters/雲%20(char).md)<rt>ㄨㄋ</rt></ruby> - cloud
+- 雳 --> 歴
 
 ### +5 Strokes
 5. <ruby>[雴](../../characters/雴.md)<rt>ㄊㄨㄆ</rt></ruby> - heavy rain
@@ -54,6 +55,7 @@ tags: [lookup]
 ### +16 Strokes
 20. <ruby>[靄](../../characters/靄.md)<rt>ㄚㄧ</rt></ruby> - hazy
 - 靈 --> 霊
+- 靂 --> 歴
 
 ### Aliases
 - 霄 --> 宵

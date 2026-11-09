@@ -52,6 +52,7 @@ tags:
 - 桥 --> 橋
 - 烧 --> 熱
 - 烉 --> 煥
+- 桉 --> 案
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

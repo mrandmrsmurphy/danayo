@@ -20,6 +20,7 @@ tags:
 - 贞 --> 貞
 - 负 --> 負
 - 贠 --> 員
+- 𧹒 --> 買
 
 ### +3 Strokes
 4. <ruby>[財](../../characters/財.md)<rt>ㄐㄚㄧ</rt></ruby> - wealth

@@ -19,9 +19,13 @@ tags: [lookup]
 ### +2 Strokes
 3. <ruby>[此](../../characters/此%20(char).md)<rt>ㄑㄜ</rt></ruby> - this
 
+### +3 Strokes
+- 步 --> 歩
+
 ### +4 Strokes
 4. <ruby>[武](../../characters/武%20(char).md)<rt>ㄇㄨ</rt></ruby> - military
 5. <ruby>[歩](../../characters/歩.md)<rt>ㄅㄛ</rt></ruby> - walk
+- 歨 --> 歩
 
 ### +5 Strokes
 6. <ruby>[歪](../../characters/歪.md)<rt>⺢ㄧ</rt></ruby> - crooked
@@ -34,6 +38,9 @@ tags: [lookup]
 
 ### +10 Strokes
 9. <ruby>[歴](../../characters/歴.md)<rt>ㄌㄝㄎ</rt></ruby> - history
+
+### +12 Strokes
+- 歷 --> 歴
 
 ### Aliases
 - 歸 --> 帰

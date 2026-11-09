@@ -50,6 +50,7 @@ tags:
 
 31. <ruby>[菲](../../characters/菲.md)<rt>ㄈㄧ</rt></ruby> - fragrant
 - 萤 --> 蛍
+- 菓 --> 果
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant

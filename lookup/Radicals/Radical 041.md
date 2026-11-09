@@ -35,6 +35,7 @@ tags: [lookup]
 ### +9 Strokes
 11. <ruby>[尋](../../characters/尋%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - inquire for
 12. <ruby>[尊](../../characters/尊.md)<rt>ㄐㄛㄋ</rt></ruby> - respect
+- 尌 --> 樹
 
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide

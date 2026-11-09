@@ -20,6 +20,7 @@ tags: [lookup]
 5. <ruby>[汀](../../characters/汀%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - sand bar
 6. <ruby>[汁](../../characters/汁%20(char).md)<rt>ㄐㄜㄆ</rt></ruby> - soup
 - 汇 --> 彙
+- 汉 --> 漢
 
 ### +2 Strokes
 7. <ruby>[汎](../../characters/汎%20(char).md)<rt>ㄈㄚㄇ</rt></ruby> - pan-
@@ -251,6 +252,7 @@ tags: [lookup]
 ### +15 Strokes
 170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
 171. <ruby>[瀬](../../characters/瀬.md)<rt>ㄌㄚㄧ</rt></ruby> - rapids
+- 瀝 --> 歴
 
 ### +16 Strokes
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
