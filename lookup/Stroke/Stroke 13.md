@@ -124,6 +124,8 @@ tags:
 - 毁 --> 毀
 - 裟 --> 沙
 - 滛 --> 淫
+- 媾 --> 溝
+- 猾 --> 滑
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

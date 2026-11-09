@@ -47,6 +47,9 @@ tags: [lookup]
 ### +8 Strokes
 16. <ruby>[餅](../../characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - pastry
 
+### +9 Strokes
+- 餾 --> 溜
+
 ### +11 Strokes
 17. <ruby>[饉](../../characters/饉.md)<rt>ㄍㄨㄋ</rt></ruby> - famine
 18. <ruby>[饅](../../characters/饅.md)<rt>ㄇㄚㄋ</rt></ruby> - steamed bun

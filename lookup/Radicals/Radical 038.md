@@ -104,6 +104,7 @@ tags: [lookup]
 55. <ruby>[嫌](../../characters/嫌.md)<rt>ㄏㄝㄇ</rt></ruby> - detest
 
 56. <ruby>[嫂](../../characters/嫂.md)<rt>ㄙㄚㄨ</rt></ruby> - sister-in-law
+- 媾 --> 溝
 
 ### +11 Strokes
 57. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife

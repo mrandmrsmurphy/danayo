@@ -37,6 +37,7 @@ tags:
 - 偸 --> 偷
 - 偿 --> 償
 - 偃 --> 堰
+- 凑 --> 湊
 
 ## Datacheck
 ```dataview

@@ -103,6 +103,10 @@ tags:
 - 扵 --> 於
 - 忻 --> 欣
 - 沉 --> 沈
+- 洰 --> 渠
+- 沟 --> 溝
+- 孜 --> 滋
+- 彻 --> 澈
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

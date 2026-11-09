@@ -175,6 +175,7 @@ tags: [lookup]
 - 慤 --> 愨
 - 憇 --> 憩
 - 慼 --> 戚
+- 𢡛 --> 満
 
 ### +12 Strokes
 94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful
@@ -194,6 +195,7 @@ tags: [lookup]
 
 ### +14 Strokes
 103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish
+- 懣 --> 満
 
 ### +15 Strokes
 104. <ruby>[懶](../../characters/懶.md)<rt>ㄌㄚㄋ</rt></ruby> - lazy

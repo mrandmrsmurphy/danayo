@@ -13,6 +13,7 @@ tags:
 ### +4 Strokes
 1. <ruby>[彷](../../characters/彷.md)<rt>ㄆㄚㄫ</rt></ruby> - resemble
 2. <ruby>[役](../../characters/役.md)<rt>⼶ㄎ</rt></ruby> - serve
+- 彻 --> 澈
 
 ### +5 Strokes
 3. <ruby>[彿](../../characters/彿.md)<rt>ㄈㄨㄊ</rt></ruby> - resemble
@@ -55,6 +56,7 @@ tags:
 ### +12 Strokes
 - 徵 --> 征
 - 德 --> 徳
+- 徹 --> 澈
 
 ### +14 Strokes
 25. <ruby>[徽](../../characters/徽.md)<rt>ㄏㄨㄧ</rt></ruby> - badge

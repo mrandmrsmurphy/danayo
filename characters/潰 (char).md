@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 30
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 潰.
 >For the word, see [潰](../words/潰.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄏㄛㄧ](../syllables/ㄏㄛㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 溃
+Simplified Chinese form of 潰. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [潰](../words/潰.md) "crush; breakdown" — 潰 stands alone as a word in Dan'a'yo.

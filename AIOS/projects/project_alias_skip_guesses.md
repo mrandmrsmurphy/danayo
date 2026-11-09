@@ -477,3 +477,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 涜 | 渎 | 1-3-8 | computed from its parts |
 | 淫 (char) | 滛 | 1-3-10 | computed from its parts |
 | 渉 (char) | 涉 | 1-3-7 | computed from its parts |
+| 渠 | 洰 | 1-3-4 | computed from its parts |
+| 渦 | 涡 | 1-3-7 | computed from its parts |
+| 満 (char) | 满 | 1-3-10 | computed from its parts |
+| 満 (char) | 𢡛 | 1-3-12 | computed from its parts |
+| 滅 (char) | 灭 | 2-1-4 | computed from its parts |
+| 滲 | 渗 | 1-3-8 | computed from its parts |
+| 滲 | 㵕 | 1-3-12 | computed from its parts |
+| 漑 | 溉 | 1-3-9 | computed from its parts |
+| 漬 (char) | 渍 | 1-3-8 | computed from its parts |
+| 漸 | 渐 | 1-3-8 | computed from its parts |
+| 潜 | 汘 | 1-3-3 | computed from its parts |
+| 潤 (char) | 润 | 1-3-7 | computed from its parts |
+| 潰 (char) | 溃 | 1-3-9 | computed from its parts |
+| 澈 | 彻 | 1-3-4 | computed from its parts |

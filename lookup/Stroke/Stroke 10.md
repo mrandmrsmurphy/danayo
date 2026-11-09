@@ -159,6 +159,8 @@ tags:
 - 娑 --> 沙
 - 涉 --> 渉
 - 陼 --> 渚
+- 涡 --> 渦
+- 润 --> 潤
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

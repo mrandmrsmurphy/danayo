@@ -33,7 +33,7 @@ aliases:
   - 懣
   - 𢡛
 注音: ㄇㄚㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,20 @@ boundedness: 50
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 697th most used character in Classical Chinese (ranked under the traditional form 滿). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 桓|uɑn]] → [ㄇㄚㄋ](../syllables/ㄇㄚㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 滿
+Traditional form (kyūjitai) of 満, "full". SKIP 1-3-11; 14 strokes. It ranks 697 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 满
+Simplified Chinese form of 滿. SKIP 1-3-10 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 懣
+滿 + 心, "sorrowful"; built on 滿 and kept as an alias. SKIP 2-14-4; 18 strokes. Radical 061 心. It ranks 3468 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 𢡛
+The Japanese form of 懣, "worry, anger". SKIP 1-3-12 (computed: EDRDG does not list it); 15 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[満]]<rt>ㄇㄚㄋ</rt></ruby> "full" (stand-in for 満)

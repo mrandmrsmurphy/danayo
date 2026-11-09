@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 潤.
 >For the word, see [潤](../words/潤.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 1793rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 諄|iuɪn]] → [ㄋㄨㄋ](../syllables/ㄋㄨㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 润
+Simplified Chinese form of 潤. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[潤]]<rt>ㄋㄨㄋ</rt></ruby> "soft, smooth, wet, increasing" (stand-in for 潤 (char))

@@ -80,6 +80,7 @@ tags:
 26. <ruby>[獅](../../characters/獅.md)<rt>ㄙㄧㄜ</rt></ruby> - lion
 - 狮 --> simplified of 獅
 - 猷 --> 猶
+- 猾 --> 滑
 
 ### +10 Strokes
 27. <ruby>[獄](../../characters/獄.md)<rt>⼄ㄎ</rt></ruby> - prison

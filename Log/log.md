@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 73 (alias protocol), next twelve oldest characters with aliases:** 滋, 滑, 滲, 漆, 漑, 漬, 漱, 漸, 潜, 潤, 潰, 澈 processed. Gained `## Aliases` (孜; 猾; 渗 and 㵕; 桼; 溉; 渍; 嗽; 渐; 潛, 濳 and 汘; 润; 溃; 徹 and 彻), with redirects and computed SKIP numbers in the guess list, and `mc_id` 漑 now 2557 from 溉 and 澈 now 1591 from 徹. Per the 2026-11-09 decision, dropped the definition-less 潄 from 漱's `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
+- **Loop batch 72 (alias protocol), next twelve oldest characters with aliases:** 渠, 渦, 湆, 湊, 湛, 湾, 湿, 満, 溜, 溝, 溶, 滅 processed. Gained `## Aliases` (洰; 涡; 凑; 覃 and 潭; 灣; 濕; 滿, 满, 懣 and 𢡛; 餾; 沟 and 媾; 熔 and 鎔; 灭), with redirects and computed SKIP numbers in the guess list. Corrected 湛's `mc_id` from 3353 (the rank of 覃) to its own rank 1741. 渦 and 湾 stay blank, no rank found. Per the 2026-11-09 decision, dropped the definition-less 湇 from 湆's `aliases:`; 湆 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 71 (alias protocol), next twelve oldest characters with aliases:** 浣, 浦, 浩, 涅, 涙, 涛, 涜, 淀, 淫, 渉, 渋, 渚 processed. Gained `## Aliases` (澣; 坡; 澔, 㬶 and 㵆; 淚; 濤; 瀆 and 渎; 澱; 婬 and 滛; 涉; 澀; 陼), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (淀 stays blank). Per the 2026-11-09 decision, dropped the definition-less 湼 and 㘿 from 涅's `aliases:`; 涅 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 70 (alias protocol), next twelve oldest characters with aliases:** 毎, 毘, 氐, 気, 汚, 沈, 沙, 沫, 泛, 泥, 洒, 洩 gained their first `## Aliases` section (每; 毗; 柢; 氣 and 气; 汙 and 污; 沉 and 瀋; 裟, 砂, 娑 and 䓾; 沬; 滼; 坭; 灑; 泄), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (汚 now 1695 from 汙; 洒 now 2873 from 灑). No definition-less forms needed dropping. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

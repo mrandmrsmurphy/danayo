@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 丛 --> 叢
+- 灭 --> 滅
 
 ## Datacheck
 ```dataview

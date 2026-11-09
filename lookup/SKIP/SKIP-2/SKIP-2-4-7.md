@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### Aliases
 - 㸘 --> 万
+- 桼 --> 漆
 
 ## Datacheck
 ```dataview

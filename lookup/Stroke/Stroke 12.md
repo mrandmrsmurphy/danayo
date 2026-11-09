@@ -179,6 +179,9 @@ tags: [lookup]
 - 棖 --> 橙
 - 棹 --> 櫂
 - 殼 --> 殻
+- 覃 --> 湛
+- 溉 --> 漑
+- 溃 --> 潰
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

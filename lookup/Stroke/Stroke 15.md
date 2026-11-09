@@ -122,6 +122,11 @@ tags:
 - 齒 --> 歯
 - 毆 --> 殴
 - 澔 --> 浩
+- 潭 --> 湛
+- 𢡛 --> 満
+- 㵕 --> 滲
+- 潛 --> 潜
+- 徹 --> 澈
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

@@ -34,7 +34,7 @@ tags:
   - character
 kwin: false
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 湿.
 >For the word, see [湿](../words/湿.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1630th most used character in Classical Chinese (ranked under the traditional form 濕). Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 緝A三|iɪp]] → [ㄙㄧㄆ](../syllables/ㄙㄧㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 濕
+Traditional form (kyūjitai) of 湿, "wet". SKIP 1-3-14; 17 strokes. It ranks 1630 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[湿]]<rt>ㄙㄧㄆ</rt></ruby> "wet, damp" (stand-in for 湿)

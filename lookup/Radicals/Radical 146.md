@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[覆](../../characters/覆.md)<rt>ㄈㄨㄎ</rt></ruby> - cover
 4. <ruby>[覇](../../characters/覇.md)<rt>ㄅㄚ</rt></ruby> - hegemony
 
+### Aliases
+- 覃 --> 湛
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

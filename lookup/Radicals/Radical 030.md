@@ -187,6 +187,7 @@ tags: [lookup]
 112. <ruby>[嘗](../../characters/嘗.md)<rt>ㄙ⼘ㄫ</rt></ruby> - taste
 113. <ruby>[噌](../../characters/噌.md)<rt>ㄑㄨㄫ</rt></ruby> - whoosh
 - 嘔 --> 呕
+- 嗽 --> 漱
 
 ### +12 Strokes
 114. <ruby>[嘩](../../characters/嘩.md)<rt>ㄏ⺢</rt></ruby> - thump

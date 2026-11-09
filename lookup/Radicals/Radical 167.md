@@ -101,6 +101,7 @@ tags: [lookup]
 55. <ruby>[鎬](../../characters/鎬.md)<rt>ㄏㄚㄨ</rt></ruby> - stove
 56. <ruby>[鎮](../../characters/鎮%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> - tranquilize
 - 鎗 --> 槍
+- 鎔 --> 溶
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror

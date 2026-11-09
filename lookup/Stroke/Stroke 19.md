@@ -63,6 +63,7 @@ tags:
 - 𢸪 --> 掻
 - 鏇 --> 旋
 - 鳗 --> 曼
+- 濳 --> 潜
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

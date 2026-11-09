@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[火](../../characters/火%20(char).md)<rt>ㄏ⺢</rt></ruby> - fire
 
+### +1 Stroke
+- 灭 --> 滅
+
 ### +2 Strokes
 2. <ruby>[灯](../../characters/灯%20(char).md)<rt>ㄉㄨㄫ</rt></ruby> - lamp
 3. <ruby>[灰](../../characters/灰%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - ashes
@@ -76,6 +79,7 @@ tags: [lookup]
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
 - 熒 --> 蛍
 - 煽 --> 扇
+- 熔 --> 溶
 
 ### +11 Strokes
 35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen

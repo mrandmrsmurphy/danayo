@@ -28,6 +28,7 @@ tags: [lookup]
 6. <ruby>[孚](../../characters/孚.md)<rt>ㄈㄨ</rt></ruby> - confident
 7. <ruby>[孝](../../characters/孝%20(char).md)<rt>ㄏ⼘ㄨ</rt></ruby> - filial piety
 - 孛 --> 悖
+- 孜 --> 滋
 
 ### +5 Strokes
 8. <ruby>[孟](../../characters/孟.md)<rt>ㄇㄚㄫ</rt></ruby> - first

@@ -17,6 +17,7 @@ tags: [lookup]
 - 觀 --> 観
 - 鱶 --> 養
 - 廳 --> 庁
+- 灣 --> 湾
 
 ### Forbidden
 - 鱰 - 国字: Japanese-invented character. Mahi-mahi

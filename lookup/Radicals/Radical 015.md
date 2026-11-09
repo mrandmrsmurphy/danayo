@@ -34,6 +34,7 @@ tags: [lookup]
 
 ### +9 Strokes
 - 减 --> 減
+- 凑 --> 湊
 
 ### +10 Strokes
 - 凖 --> 準

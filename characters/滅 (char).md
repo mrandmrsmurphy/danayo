@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 滅.
 >For the word, see [滅](../words/滅.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 422nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄇㄝㄊ](../syllables/ㄇㄝㄊ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 灭
+Simplified Chinese form of 滅. SKIP 2-1-4 (computed: EDRDG does not list it); 5 strokes. Radical 086 火. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[滅]]<rt>ㄇㄝㄊ</rt></ruby> "wipe out" (stand-in for 滅)

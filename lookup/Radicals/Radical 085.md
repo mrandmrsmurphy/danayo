@@ -35,6 +35,7 @@ tags: [lookup]
 - 汤 --> 湯
 - 汙 --> 汚
 - 污 --> 汚
+- 汘 --> 潜
 
 ### +3 Strokes
 14. <ruby>[求](../../characters/求.md)<rt>ㄍ⼜ㄛ</rt></ruby> - request
@@ -56,6 +57,8 @@ tags: [lookup]
 - 沒 --> 没
 - 汶 --> 文
 - 沉 --> 沈
+- 洰 --> 渠
+- 沟 --> 溝
 
 ### +4 Strokes
 30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous
@@ -139,6 +142,8 @@ tags: [lookup]
 - 涂 --> 塗
 - 浵 --> 彤
 - 涉 --> 渉
+- 涡 --> 渦
+- 润 --> 潤
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -171,6 +176,9 @@ tags: [lookup]
 - 淒 --> 凄
 - 淚 --> 涙
 - 渎 --> 涜
+- 渗 --> 滲
+- 渍 --> 漬
+- 渐 --> 漸
 
 ### +8 Strokes
 103. <ruby>[淵](../../characters/淵.md)<rt>⼔ㄋ</rt></ruby> - abyss
@@ -201,6 +209,8 @@ tags: [lookup]
 - 游 --> 遊
 - 渤 --> 勃
 - 渧 --> 啼
+- 溉 --> 漑
+- 溃 --> 潰
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin
@@ -248,6 +258,8 @@ tags: [lookup]
 - 滸 --> 許
 - 滼 --> 泛
 - 㵆 --> 浩
+- 滿 --> 満
+- 满 --> 満
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
@@ -265,6 +277,9 @@ tags: [lookup]
 - ¡㵜! - 違法字
 - 澳 --> 奥
 - 澔 --> 浩
+- 潭 --> 湛
+- 㵕 --> 滲
+- 潛 --> 潜
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
@@ -283,6 +298,7 @@ tags: [lookup]
 - 濠 --> 豪
 - 濤 --> 涛
 - 澀 --> 渋
+- 濕 --> 湿
 
 ### +14 Strokes
 168. <ruby>[濫](../../characters/濫.md)<rt>ㄌㄚㄇ</rt></ruby> - flooding
@@ -298,6 +314,7 @@ tags: [lookup]
 171. <ruby>[瀬](../../characters/瀬.md)<rt>ㄌㄚㄧ</rt></ruby> - rapids
 - 瀝 --> 歴
 - 瀛 --> 嬴
+- 濳 --> 潜
 
 ### +16 Strokes
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death
@@ -318,6 +335,9 @@ tags: [lookup]
 
 ### +20 Strokes
 - 灞 --> 覇
+
+### +21 Strokes
+- 灣 --> 湾
 
 ## Data check
 ```dataview

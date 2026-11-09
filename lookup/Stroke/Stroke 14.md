@@ -146,6 +146,10 @@ tags:
 - 䓾 --> 沙
 - 滼 --> 泛
 - 㵆 --> 浩
+- 滿 --> 満
+- 满 --> 満
+- 熔 --> 溶
+- 嗽 --> 漱
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

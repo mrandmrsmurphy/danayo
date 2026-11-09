@@ -30,7 +30,7 @@ stand_in: "漆"
 aliases:
   - 桼
 注音: "ㄑㄧㄊ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 80
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 1720th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄑㄧㄊ](../syllables/ㄑㄧㄊ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 桼
+The original form of 漆, "lacquer". SKIP 2-4-7; 11 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[漆]]<rt>ㄑㄧㄊ</rt></ruby> "varnish" (stand-in for 漆 (char))

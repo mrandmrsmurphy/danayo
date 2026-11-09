@@ -182,6 +182,7 @@ tags: [lookup]
 - 㭨 --> 椰
 - 椘 --> 楚
 - 梹 --> 檳
+- 桼 --> 漆
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess

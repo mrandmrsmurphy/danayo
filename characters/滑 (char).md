@@ -34,7 +34,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 滑.
 >For the word, see [滑](../words/滑.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1496th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 鎋合|ɣuɛt]] → [ㄏ⺢ㄊ](../syllables/ㄏ⺢ㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 猾
+犭 + 骨, "crafty"; built on 骨, the phonetic of 滑, and kept as an alias. SKIP 1-3-10; 13 strokes. Radical 094 犬. It ranks 2292 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[滑]]<rt>ㄏ⺢ㄊ</rt></ruby> “slippery” (stand-in for 滑)

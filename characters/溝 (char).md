@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 溝.
 >For the word, see [溝](../words/溝.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1502nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄍㄛㄨ](../syllables/ㄍㄛㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 沟
+The Chinese simplified form of 溝, "ditch". SKIP 1-3-4; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 媾
+女 + 冓, "to marry"; built on 冓, the phonetic of 溝, and kept as an alias. SKIP 1-3-10; 13 strokes. Radical 038 女. It ranks 3292 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[溝]]<rt>ㄍㄛㄨ</rt></ruby> "ditch, drain" (stand-in for 溝)
