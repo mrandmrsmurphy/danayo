@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **虒 de-linked on 逓:** the red link `[[虒]]` (a compound-only character, the phonetic of 逓; derived sound ㄙㄧ) is plain text; no candidate fits sound and meaning. Authority: 武明帥.
+
+- **戔 and 㦮 made aliases of 残, and 残 the derived-character hub:** by the project owner's decision (戔, two spears, is the original form of 殘, "to injure", and carries both readings of its series; 㦮 is its Japanese shinjitai form). 残 (char) gained `aliases: 戔, 㦮` and its first `## Aliases` section for 殘, 戔 and 㦮 (redirects on Stroke 07, 08 and 12, SKIP-1-4-8, SKIP-2-4-4 and SKIP-3-4-3, Radicals 062 and 078; 㦮's SKIP computed) and `## Derived Characters` with an explanation (践, 浅, 銭, 賎, 桟, 箋, 盞). `mc_id` unchanged (1260, the rank of 殘). The 戔 and 㦮 notes on 桟, 浅, 盞, 箋, 賎, 践 and 銭 now point to 残, and the "no vault page" notes are removed. Radical 078: the old duplicate redirect `殘 --> traditional form of 残` (at +6) removed in favour of the +8 line. Authority: 武明帥.
+
+- **History note deleted on 歳:** the "**Corrected here**: the field previously stored 戌…" sentence is replaced by the plain fact that the phonetic is 戉, not the look-alike 戌. Authority: 武明帥.
+
 - **戉 made an alias of 越, and 越 the derived-character hub for 戉:** by the project owner's decision, on the identical sound (⼔ㄊ, MC `ø` + `ʉɐt`) and because 戉, the battle axe and ancient name of the State of Yue, is 越's phonetic and the name 越 carries. 越 (char) gained `aliases: 戉`, its first `## Aliases` section (redirects on Stroke 05, SKIP-4-5-4 and Radical 062) and `## Derived Characters` with a short explanation (歳). `mc_id` unchanged (336). The 戉 mentions on 越 and 歳 now point to 越 (the 歳 "no character page" note removed). Authority: 武明帥.
 
 - **𧶠 de-linked on 贖:** the red link `[[𧶠]]` (the original of 鬻 "to sell", phonetic of 贖, 続, 読; derived sound ⼄ㄎ) is plain text; no candidate fits sound and meaning. Authority: 武明帥.

@@ -59,6 +59,7 @@ tags:
 
 ### Aliases
 - 禄 --> 祿
+- 殘 --> 残
 
 ## Datacheck
 ```dataview

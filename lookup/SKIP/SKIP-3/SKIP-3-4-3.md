@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[孝](characters/孝%20(char).md)<rt>ㄏ⼘ㄨ</rt></ruby> "filial piety"
 3. <ruby>[戒](/characters/戒.md)<rt>ㄍ⼶</rt></ruby> "warn; caution; admonish"
 
+### Aliases
+- 㦮 --> 残
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

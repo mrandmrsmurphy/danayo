@@ -44,7 +44,7 @@ boundedness: 80
 ```
 
 ## Notes
-- 形声 (OC \*sʰlenʔ): semantic [[Radical 085|氵]] ("water") + phonetic 㦮 — shallow water.
+- 形声 (OC \*sʰlenʔ): semantic [[Radical 085|氵]] ("water") + phonetic [[残 (char)|㦮]] — shallow water.
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1412th most used character in Classical Chinese, the rank of its alias 淺 (浅 itself is not on the lists). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 仙A三開|iᴇn]] → [ㄑㄝㄋ](../syllables/ㄑㄝㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)

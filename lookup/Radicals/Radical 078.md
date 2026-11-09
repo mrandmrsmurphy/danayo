@@ -24,10 +24,10 @@ tags: [lookup]
 5. <ruby>[残](../../characters/残%20(char).md)<rt>ㄐㄚㄋ</rt></ruby> - remaining
 6. <ruby>[殉](../../characters/殉.md)<rt>ㄙ⼜ㄋ</rt></ruby> - be martyred
 7. <ruby>[殊](../../characters/殊.md)<rt>ㄙㄨ</rt></ruby> - special
-- 殘 --> traditional form of 残
 
 ### +8 Strokes
 8. <ruby>[殖](../../characters/殖.md)<rt>ㄙㄧㄎ</rt></ruby> - breed
+- 殘 --> 残
 
 ## Data check
 ```dataview

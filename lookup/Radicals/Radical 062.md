@@ -26,9 +26,11 @@ tags: [lookup]
 ### +3 Strokes
 7. <ruby>[我](../../characters/我%20(char).md)<rt>ㄚ</rt></ruby> - I
 8. <ruby>[戒](../../characters/戒.md)<rt>ㄍ⼶</rt></ruby> - warn
+- 㦮 --> 残
 
 ### +4 Strokes
 9. <ruby>[或](../../characters/或%20(char).md)<rt>ㄏㄛㄎ</rt></ruby> - or
+- 戔 --> 残
 
 ### +7 Strokes
 10. <ruby>[戚](../../characters/戚.md)<rt>ㄑㄝㄎ</rt></ruby> - grieving

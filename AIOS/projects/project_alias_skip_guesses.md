@@ -41,3 +41,4 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 覇 | 䩗 | 1-9-4 | computed from its parts |
 | 覇 | 䩻 | 1-9-10 | computed from its parts |
 | 覇 | 𧈉 | 2-6-13 | computed from its parts |
+| 残 (char) | 㦮 | 3-4-3 | computed from its parts |

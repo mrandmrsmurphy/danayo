@@ -1,11 +1,5 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[絝]] in [[characters/袴 (char)]]
 - [[覊]] in [[characters/覇]]
-- [[灞]] in [[characters/覇]]
-- [[雔]] in [[characters/讐]]
-- [[𧶠]] in [[characters/贖]]
-- [[戉]] in [[characters/越 (char)]]
-- [[戔]] in [[characters/践]]
 - [[虒]] in [[characters/逓]]
 - [[啚]] in [[characters/鄙]]
 - [[連綿詞]] in [[lookup/List of 連綿詞]]
