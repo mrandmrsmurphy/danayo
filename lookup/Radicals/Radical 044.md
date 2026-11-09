@@ -19,6 +19,7 @@ tags: [lookup]
 
 ### +3 Strokes
 4. <ruby>[尽](../../characters/尽.md)<rt>ㄐㄧㄋ</rt></ruby> - exhaust
+- 㞍 --> 尻
 
 ### +4 Strokes
 5. <ruby>[尾](../../characters/尾%20(char).md)<rt>ㄇㄨㄧ</rt></ruby> - tail

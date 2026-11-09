@@ -24,11 +24,13 @@ tags: [lookup]
 ### +7 Strokes
 4. <ruby>[冒](../../characters/冒.md)<rt>ㄇㄚㄨ</rt></ruby> - take a risk
 5. <ruby>[冠](../../characters/冠.md)<rt>ㄍ⺢ㄋ</rt></ruby> - crown
+- 㓂 --> 寇
 
 ### +8 Strokes
 6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - grievance
 7. <ruby>[冥](../../characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> - dark
 - 冢 --> 塚
+- 冦 --> 寇
 
 ### +13 Strokes
 8. <ruby>[冪](../../characters/冪.md)<rt>ㄇㄧㄎ</rt></ruby> - cover

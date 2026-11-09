@@ -22,6 +22,8 @@ tags: [lookup]
 - 魎 --> 両
 - 魉 --> 両
 - 魃 --> 災
+- 魘 --> 嫌
+- 魇 --> 嫌
 
 ## Data check
 ```dataview

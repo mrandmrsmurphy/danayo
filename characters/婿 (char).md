@@ -31,14 +31,13 @@ graphemic_classification: "胥"
 stand_in: "婿"
 aliases:
   - 壻
-  - 聓
   - 聟
 注音: "ㄙㄝㄧ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 婿.
 >For the word, see [婿](../words/婿.md)
@@ -52,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2566th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄙㄝㄧ](../syllables/ㄙㄝㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 壻
+An alternative form of 婿, "son-in-law". SKIP 1-3-9; 12 strokes. Radical 033 士. It has no rank of its own in the Classical Chinese lists.
+
+### 聟
+An alternative form of 婿, "son-in-law" (Japanese). SKIP 2-8-6; 14 strokes. Radical 128 耳. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[婿]]<rt>ㄙㄝㄧ</rt></ruby> "son-in-law" (stand-in for 婿)

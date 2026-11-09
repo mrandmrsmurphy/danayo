@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 寝.
 >For the word, see [寝](../words/寝.md)
@@ -47,8 +47,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声/会意 (OC \*sʰimʔ): semantic 宀 ("roof") + 爿 ("bed") + phonetic [[侵]] (OC \*sʰim, a near-exact match differing only by tone) — "to sleep, lie down," extended to "bedroom" and (historical) "imperial tomb." Wiktionary's own etymology instead names the archaic, pageless 𠬶 ("broom and hand") as the traditional phonetic; [[侵]] is used here as the vault's phonetically-equivalent, actually-attested substitute.
 - [SKIP-2-3-10](../lookup/SKIP/SKIP-2/SKIP-2-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
-- 1076th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄑㄧㄇ](../syllables/ㄑㄧㄇ.md)
+- 1076th most used character in Classical Chinese (rank belongs to the traditional form 寢). Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 侵A|iɪm]] → [ㄑㄧㄇ](../syllables/ㄑㄧㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 寢
+Traditional form (kyūjitai) of 寝, "to sleep". SKIP 2-3-11; 14 strokes. It ranks 1076 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[寝]]<rt>ㄑㄧㄇ</rt></ruby> "sleep, lie down, rest" (stand-in for 寝)

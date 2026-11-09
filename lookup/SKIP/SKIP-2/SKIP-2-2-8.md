@@ -29,6 +29,7 @@ tags: [lookup]
 ### Aliases
 - 眞 --> 真
 - 冢 --> 塚
+- 冦 --> 寇
 
 ## Datacheck
 ```dataview

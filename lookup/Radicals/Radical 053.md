@@ -50,6 +50,7 @@ tags:
 - 廂 --> 箱
 - 廄 --> 厩
 - 廐 --> 厩
+- 庽 --> 寓
 
 ### +10 Strokes
 20. <ruby>[廈](../../characters/廈.md)<rt>ㄏㄚ</rt></ruby> - building

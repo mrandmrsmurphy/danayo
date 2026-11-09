@@ -331,3 +331,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 娯 | 娱 | 1-3-7 | computed from its parts |
 | 婉 | 䛷 | 1-7-8 | computed from its parts |
 | 婉 | 䩊 | 1-9-8 | computed from its parts |
+| 媽 | 妈 | 1-3-3 | computed from its parts |
+| 嫌 | 魇 | 3-2-13 | computed from its parts |
+| 嫩 (char) | 嫰 | 1-3-11 | computed from its parts |
+| 嫩 (char) | 媆 | 1-3-9 | computed from its parts |
+| 嬌 | 娇 | 1-3-6 | computed from its parts |
+| 寇 | 㓂 | 2-3-6 | computed from its parts |
+| 寛 | 寬 | 2-3-12 | computed from its parts |
+| 審 | 审 | 2-3-5 | computed from its parts |
+| 寵 | 𫳭 | 2-3-10 | computed from its parts |
+| 寵 | 宠 | 2-3-5 | computed from its parts |
+| 対 | 对 | 1-4-2 | computed from its parts |
+| 尋 (char) | 寻 | 2-3-3 | computed from its parts |
+| 尻 (char) | 㞍 | 3-2-4 | computed from its parts |

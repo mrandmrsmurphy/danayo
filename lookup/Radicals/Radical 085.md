@@ -276,6 +276,7 @@ tags: [lookup]
 170. <ruby>[瀧](../../characters/瀧.md)<rt>ㄌㄛㄫ</rt></ruby> - cascade
 171. <ruby>[瀬](../../characters/瀬.md)<rt>ㄌㄚㄧ</rt></ruby> - rapids
 - 瀝 --> 歴
+- 瀛 --> 嬴
 
 ### +16 Strokes
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death

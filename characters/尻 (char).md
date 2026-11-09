@@ -27,16 +27,13 @@ mc_id: 3578
 graphemic_classification: "九"
 stand_in: "尻"
 aliases:
-  - 𡰼
-  - 𡱧
-  - 𡱂
   - 㞍
 注音: "ㄎㄚㄨ"
 kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 尻.
 >For the word, see [尻](../words/尻.md)
@@ -50,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-3-2](../lookup/SKIP/SKIP-3/SKIP-3-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 3578th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄎㄚㄨ](../syllables/ㄎㄚㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 㞍
+A variant form of 尻, "end of the spine, buttocks". SKIP 3-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[尻]]<rt>ㄎㄚㄨ</rt></ruby> "buttocks" (stand-in for 尻)

@@ -30,6 +30,7 @@ tags:
 - 权 --> 権
 - 刘 --> 劉
 - 动 --> 動
+- 对 --> 対
 
 ### Forbidden
 - 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.

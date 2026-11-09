@@ -36,6 +36,7 @@ tags: [lookup]
 9. <ruby>[聚](../../characters/聚.md)<rt>ㄑㄨㄧ</rt></ruby> - assemble
 10. <ruby>[聞](../../characters/聞%20(char).md)<rt>ㄇㄨㄋ</rt></ruby> - hear
 11. <ruby>[聡](../../characters/聡.md)<rt>ㄑㄛㄫ</rt></ruby> - clever
+- 聟 --> 婿
 
 ### +11 Strokes
 12. <ruby>[聴](../../characters/聴%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - listen

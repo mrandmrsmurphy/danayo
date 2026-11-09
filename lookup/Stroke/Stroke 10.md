@@ -128,6 +128,8 @@ tags:
 - 姬 --> 姫
 - 娛 --> 娯
 - 娱 --> 娯
+- 宼 --> 寇
+- 冦 --> 寇
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

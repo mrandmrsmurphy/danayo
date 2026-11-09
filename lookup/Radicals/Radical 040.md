@@ -15,6 +15,7 @@ tags:
 
 ### +2 Strokes
 - 宂 --> 冗
+- 宁 --> 寧
 
 ### +3 Strokes
 1. <ruby>[宅](../../characters/宅.md)<rt>ㄐㄚㄎ</rt></ruby> - house
@@ -39,6 +40,8 @@ tags:
 15. <ruby>[宝](../../characters/宝.md)<rt>ㄅㄚㄨ</rt></ruby> - treasure
 16. <ruby>[実](../../characters/実.md)<rt>ㄙㄧㄊ</rt></ruby> - true
 - 实 --> 実
+- 审 --> 審
+- 宠 --> 寵
 
 ### +6 Strokes
 17. <ruby>[客](../../characters/客.md)<rt>ㄎㄚㄎ</rt></ruby> - guest
@@ -55,6 +58,7 @@ tags:
 25. <ruby>[家](../../characters/家.md)<rt>ㄍㄚ</rt></ruby> - house
 26. <ruby>[容](../../characters/容%20(char).md)<rt>⼄ㄫ</rt></ruby> - look
 - 𡨄 --> 塞
+- 宼 --> 寇
 
 ### +8 Strokes
 27. <ruby>[宿](../../characters/宿.md)<rt>ㄙㄨㄎ</rt></ruby> - lodging
@@ -75,6 +79,7 @@ tags:
 37. <ruby>[寛](../../characters/寛.md)<rt>ㄎ⺢ㄋ</rt></ruby> - lenient
 38. <ruby>[寝](../../characters/寝%20(char).md)<rt>ㄑㄧㄇ</rt></ruby> - sleep
 39. <ruby>[寞](../../characters/寞.md)<rt>ㄇㄚㄎ</rt></ruby> - lonely
+- 𫳭 --> 寵
 
 ### +11 Strokes
 40. <ruby>[察](../../characters/察.md)<rt>ㄑㄚㄊ</rt></ruby> - examine
@@ -83,14 +88,19 @@ tags:
 43. <ruby>[寨](../../characters/寨.md)<rt>ㄐㄚㄧ</rt></ruby> - fortress
 - 實 --> 実
 - 寤 --> 悟
+- 寢 --> 寝
 
 ### +12 Strokes
 44. <ruby>[審](../../characters/審.md)<rt>ㄙㄧㄇ</rt></ruby> - examine
 45. <ruby>[寮](../../characters/寮.md)<rt>ㄌ⼘ㄨ</rt></ruby> - dormitory
 - 寫 --> 写
+- 寬 --> 寛
 
 ### +16 Strokes
 46. <ruby>[寵](../../characters/寵.md)<rt>ㄑㄛㄫ</rt></ruby> - pet
+
+### +17 Strokes
+- 寶 --> 宝
 
 ## Other
 - [字](../../characters/字%20(char).md) has 宀 in it, but is listed under 子.

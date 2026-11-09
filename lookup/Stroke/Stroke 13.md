@@ -104,6 +104,7 @@ tags:
 - 塐 --> 塑
 - 塡 --> 填
 - 奧 --> 奥
+- 𫳭 --> 寵
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

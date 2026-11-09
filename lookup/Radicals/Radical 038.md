@@ -23,6 +23,7 @@ tags: [lookup]
 6. <ruby>[妄](../../characters/妄.md)<rt>ㄇㄚㄫ</rt></ruby> - delusion
 - 𰋷 --> 嬰
 - 奸 --> 姦
+- 妈 --> 媽
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant
@@ -62,6 +63,7 @@ tags: [lookup]
 35. <ruby>[威](../../characters/威.md)<rt>ㄛㄧ</rt></ruby> - power
 36. <ruby>[娃](../../characters/娃.md)<rt>⼘ㄧ</rt></ruby> - beautiful
 - 姸 --> 妍
+- 娇 --> 嬌
 
 ### +7 Strokes
 37. <ruby>[娘](../../characters/娘%20(char).md)<rt>ㄋㄚㄫ</rt></ruby> - young woman
@@ -89,6 +91,7 @@ tags: [lookup]
 51. <ruby>[媛](../../characters/媛.md)<rt>ㄛㄋ</rt></ruby> - beautiful woman
 - 媮 --> 偷
 - 婾 --> 偷
+- 媆 --> 嫩
 
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant
@@ -103,6 +106,7 @@ tags: [lookup]
 58. <ruby>[嫩](../../characters/嫩%20(char).md)<rt>ㄋㄛㄋ</rt></ruby> - delicate
 - 嫖 --> 票
 - 嫗 --> 区
+- 嫰 --> 嫩
 
 ### +12 Strokes
 59. <ruby>[嬉](../../characters/嬉.md)<rt>ㄏㄧ</rt></ruby> - enjoy

@@ -38,6 +38,9 @@ tags: [lookup]
 9. <ruby>[厥](../../characters/厥.md)<rt>ㄎㄨㄊ</rt></ruby> - they
 10. <ruby>[厨](../../characters/厨.md)<rt>ㄑㄨㄛ</rt></ruby> - kitchen
 
+### +12 Strokes
+- 厭 --> 嫌
+
 ### +15 Strokes
 11. <ruby>[厳](../../characters/厳%20(char).md)<rt>⼄ㄇ</rt></ruby> - strict
 

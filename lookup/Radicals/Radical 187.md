@@ -55,6 +55,9 @@ tags: [lookup]
 - 驂 --> 参
 - 騾 --> 累
 
+### +12 Strokes
+- 驍 --> 尭
+
 ### +13 Strokes
 21. <ruby>[驚](../../characters/驚.md)<rt>ㄍ⼶ㄫ</rt></ruby> - startle
 

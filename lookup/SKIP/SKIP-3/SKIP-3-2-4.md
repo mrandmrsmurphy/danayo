@@ -28,6 +28,7 @@ tags: [lookup]
 
 ### Aliases
 - 压 --> 圧
+- 㞍 --> 尻
 
 ## Datacheck
 ```dataview

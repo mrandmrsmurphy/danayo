@@ -98,6 +98,8 @@ tags:
 - 澳 --> 奥
 - 獎 --> 奨
 - 䛷 --> 婉
+- 魇 --> 嫌
+- 寬 --> 寛
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 嫩.
 >For the word, see [嫩](../words/嫩.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-11](../lookup/SKIP/SKIP-1/SKIP-1-3-11.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 9163rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 魂|uən]] → [ㄋㄛㄋ](../syllables/ㄋㄛㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)
+
+## Aliases
+
+### 嫰
+A variant form of 嫩, "tender". SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 媆
+A variant form of 嫩, "young, tender". SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [嫩](../words/嫩.md) "delicate; tender" — 嫩 stands alone as a word in Dan'a'yo.

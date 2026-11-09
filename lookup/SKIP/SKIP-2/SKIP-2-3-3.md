@@ -43,6 +43,7 @@ tags:
 - 伞 --> 傘
 - 吕 --> 呂
 - 夺 --> 奪
+- 寻 --> 尋
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

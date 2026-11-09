@@ -17,6 +17,9 @@ tags: [lookup]
 ### Forbidden
 - 甭 - 官话: HSK/3.  A northern Mandarin colloquial contraction of 不 + 用 (needn't).
 
+### Aliases
+- 甯 --> 寧
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

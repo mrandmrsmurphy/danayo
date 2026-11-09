@@ -13,8 +13,12 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[寸](../../characters/寸%20(char).md)<rt>ㄑㄛㄋ</rt></ruby> - inch
 
+### +2 Strokes
+- 对 --> 対
+
 ### +3 Strokes
 2. <ruby>[寺](../../characters/寺.md)<rt>ㄙㄚ</rt></ruby> - temple (Buddhist)
+- 寻 --> 尋
 
 ### +4 Strokes
 3. <ruby>[寿](../../characters/寿.md)<rt>ㄙ⼜</rt></ruby> - old age
@@ -40,6 +44,9 @@ tags: [lookup]
 11. <ruby>[尋](../../characters/尋%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - inquire for
 12. <ruby>[尊](../../characters/尊.md)<rt>ㄐㄛㄋ</rt></ruby> - respect
 - 尌 --> 樹
+
+### +11 Strokes
+- 對 --> 対
 
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide

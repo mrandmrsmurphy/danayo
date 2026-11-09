@@ -115,6 +115,11 @@ tags:
 - 墖 --> 塔
 - 奬 --> 奨
 - 㢡 --> 奨
+- 厭 --> 嫌
+- 嫰 --> 嫩
+- 聟 --> 婿
+- 寢 --> 寝
+- 對 --> 対
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

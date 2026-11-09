@@ -37,6 +37,7 @@ tags: [lookup]
 ### +9 Strokes
 - 壹 --> 壱
 - 壺 --> 壷
+- 壻 --> 婿
 
 ### +11 Strokes
 - 壽 --> 寿

@@ -27,10 +27,8 @@ danayo_id: 23
 mc_id: 140
 graphemic_classification: 指事
 stand_in: 小
-aliases:
-  - 𡮐
 注音: ㄙㄛ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

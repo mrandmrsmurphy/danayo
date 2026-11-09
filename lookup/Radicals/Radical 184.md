@@ -50,6 +50,7 @@ tags: [lookup]
 ### +11 Strokes
 17. <ruby>[饉](../../characters/饉.md)<rt>ㄍㄨㄋ</rt></ruby> - famine
 18. <ruby>[饅](../../characters/饅.md)<rt>ㄇㄚㄋ</rt></ruby> - steamed bun
+- 饒 --> 尭
 
 ### +13 Strokes
 19. <ruby>[饗](../../characters/饗.md)<rt>ㄏ⼘ㄫ</rt></ruby> - banquet

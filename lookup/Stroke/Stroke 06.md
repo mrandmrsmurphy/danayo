@@ -108,6 +108,9 @@ tags:
 - 㕦 --> 天
 - 夺 --> 奪
 - 奸 --> 姦
+- 妈 --> 媽
+- 寻 --> 尋
+- 㞍 --> 尻
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names
