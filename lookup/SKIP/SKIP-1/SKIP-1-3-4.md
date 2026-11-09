@@ -118,6 +118,7 @@ tags:
 - 纬 --> 緯
 - 听 --> 聴
 - 沧 --> 蒼
+- 吪 --> 訛
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

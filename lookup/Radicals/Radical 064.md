@@ -29,6 +29,7 @@ tags: [lookup]
 - 扣 --> 叩
 - 扡 --> 拖
 - 扫 --> 掃
+- 托 --> 託
 
 ### +3 Strokes
 5. <ruby>[扮](../../characters/扮%20(char).md)<rt>ㄈㄧㄋ</rt></ruby> - dress up

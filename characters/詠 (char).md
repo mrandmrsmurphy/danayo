@@ -32,7 +32,6 @@ graphemic_classification: "永"
 stand_in: "詠"
 aliases:
   - 咏
-  - 𰵞
 kwin: false
 tags:
   - character

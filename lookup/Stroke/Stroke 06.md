@@ -128,6 +128,10 @@ tags:
 - 汒 --> 茫
 - 庄 --> 荘
 - 冲 --> 衝
+- 托 --> 託
+- 讹 --> 訛
+- 讼 --> 訟
+- 诀 --> 訣
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

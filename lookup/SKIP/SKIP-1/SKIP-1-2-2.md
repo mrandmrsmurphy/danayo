@@ -29,6 +29,8 @@ tags: [lookup]
 - 仅 --> 僅
 - 仆 --> 僕
 - 仂 --> 動
+- 订 --> 訂
+- 讣 --> 訃
 
 ## Datacheck
 ```dataview

@@ -766,3 +766,18 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 襟 | 衿 | 1-5-4 | computed from its parts |
 | 襪 | 袜 | 1-5-5 | computed from its parts |
 | 襲 | 袭 | 2-5-6 | computed from its parts |
+| 見 (char) | 见 | 4-4-1 | computed from its parts |
+| 覓 | 觅 | 2-4-4 | computed from its parts |
+| 覓 | 覔 | 2-4-7 | computed from its parts |
+| 触 | 觸 | 1-7-13 | computed from its parts |
+| 訂 (char) | 订 | 1-2-2 | computed from its parts |
+| 訃 | 讣 | 1-2-2 | computed from its parts |
+| 訊 | 讯 | 1-2-3 | computed from its parts |
+| 託 | 讬 | 1-2-3 | computed from its parts |
+| 託 | 托 | 1-3-3 | computed from its parts |
+| 託 | 乇 | 4-3-2 | computed from its parts |
+| 訛 | 讹 | 1-2-4 | computed from its parts |
+| 訛 | 吪 | 1-3-4 | computed from its parts |
+| 訛 | 䚰 | 1-7-2 | computed from its parts |
+| 訟 (char) | 讼 | 1-2-4 | computed from its parts |
+| 訣 | 诀 | 1-2-4 | computed from its parts |

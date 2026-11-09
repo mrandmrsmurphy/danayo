@@ -32,7 +32,7 @@ aliases:
   - 见
 注音: ㄍ⼶ㄋ
 kwin: true
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 tags:
   - character
 boundedness: 90
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-2-5-2](../lookup/SKIP/SKIP-2/SKIP-2-5-2.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 61st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄍ⼶ㄋ](../syllables/ㄍ⼶ㄋ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 见
+Simplified Chinese form of 見. SKIP 4-4-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[見]]<rt>ㄍ⼶ㄋ</rt></ruby> "see" (stand-in for 見)

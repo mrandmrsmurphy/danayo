@@ -30,7 +30,6 @@ stand_in: 訥
 aliases:
   - 讷
   - 吶
-  - 㕯
 注音: ㄋㄛㄊ
 kwin: false
 tags:

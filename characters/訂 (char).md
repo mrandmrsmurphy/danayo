@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 訂.
 >For the word, see [訂](../words/訂.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-2](../lookup/SKIP/SKIP-1/SKIP-1-7-2.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 5273rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄊㄝㄫ](../syllables/ㄊㄝㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 订
+Simplified Chinese form of 訂. SKIP 1-2-2 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[訂]]<rt>ㄊㄝㄫ</rt></ruby> "revise, correct" (stand-in for 訂)

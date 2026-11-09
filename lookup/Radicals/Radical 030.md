@@ -79,6 +79,7 @@ tags: [lookup]
 - 呜 --> 嗚
 - 吨 --> 噸
 - 听 --> 聴
+- 吪 --> 訛
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference

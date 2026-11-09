@@ -17,6 +17,9 @@ tags: [lookup]
 4. <ruby>[士](characters/士%20(char).md)<rt>ㄙㄚㄧ</rt></ruby> "scholar"
 5. <ruby>[亡](characters/亡.md)<rt>ㄇㄚㄫ</rt></ruby> "die"
 
+### Aliases
+- 乇 --> 託
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -48,6 +48,7 @@ tags:
 - 枣 --> 棗
 - 齿 --> 歯
 - 肾 --> 腎
+- 觅 --> 覓
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

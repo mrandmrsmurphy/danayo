@@ -38,6 +38,7 @@ tags: [lookup]
 - 𠄡 --> 五
 - 卐 --> 卍
 - 乌 --> 烏
+- 见 --> 見
 
 ## Datacheck
 ```dataview

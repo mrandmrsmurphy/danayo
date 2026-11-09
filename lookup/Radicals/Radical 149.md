@@ -37,6 +37,27 @@ tags: [lookup]
 ### +-1 Strokes
 - 论 --> 論
 
+### +-3 Strokes
+- 订 --> 訂
+
+### +-3 Strokes
+- 讣 --> 訃
+
+### +-2 Strokes
+- 讯 --> 訊
+
+### +-2 Strokes
+- 讬 --> 託
+
+### +-1 Strokes
+- 讹 --> 訛
+
+### +-1 Strokes
+- 讼 --> 訟
+
+### +-1 Strokes
+- 诀 --> 訣
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 - 译 --> 訳
@@ -55,6 +76,7 @@ tags: [lookup]
 4. <ruby>[計](../../characters/計.md)<rt>ㄍㄝㄧ</rt></ruby> - measure
 - 语 --> 語
 - 说 --> 説
+- 䚰 --> 訛
 
 ### +3 Strokes
 5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - inquire
