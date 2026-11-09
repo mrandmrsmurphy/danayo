@@ -77,6 +77,9 @@ tags:
 - 玪 --> 琳
 - 环 --> 環
 - 肱 --> 肘
+- 胁 --> 脅
+- 胀 --> 脹
+- 肿 --> 腫
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

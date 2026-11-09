@@ -43,6 +43,7 @@ tags: [lookup]
 ### +7 Strokes
 14. <ruby>[餐](../../characters/餐%20(char).md)<rt>ㄑㄚㄋ</rt></ruby> - eat
 15. <ruby>[館](../../characters/館.md)<rt>ㄍ⺢ㄋ</rt></ruby> - hall
+- 餚 --> 肴
 
 ### +8 Strokes
 16. <ruby>[餅](../../characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - pastry

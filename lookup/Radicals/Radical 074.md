@@ -24,6 +24,7 @@ tags: [lookup]
 5. <ruby>[朕](../../characters/朕%20(char).md)<rt>ㄐㄨㄇ</rt></ruby> - we (royal)
 6. <ruby>[朔](../../characters/朔.md)<rt>ㄙㄚㄎ</rt></ruby> - first day of the lunar month
 7. <ruby>[朗](../../characters/朗.md)<rt>ㄌㄚㄫ</rt></ruby> - clear
+- 朒 --> 肭
 
 ### +7 Strokes
 8. <ruby>[望](../../characters/望.md)<rt>ㄇㄚㄫ</rt></ruby> - hope

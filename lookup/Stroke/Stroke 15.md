@@ -146,6 +146,7 @@ tags:
 - 遶 --> 繞
 - 聪 --> 聡
 - 㠮 --> 肛
+- 瘠 --> 脊
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

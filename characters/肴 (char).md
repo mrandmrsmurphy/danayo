@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 肴.
 >For the word, see [肴](../words/肴.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-6](../lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 3245th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄏ⼘ㄨ](../syllables/ㄏ⼘ㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 6](../lookup/HSK/Old%20HSK%206.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 餚
+食 + 肴, "meat dish"; the traditional form for 肴 and kept as an alias. SKIP 1-9-7 (computed: EDRDG does not list it); 16 strokes. Radical 184 食. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [肴](../words/肴.md) "cooked meat" — 肴 stands alone as a word in Dan'a'yo.

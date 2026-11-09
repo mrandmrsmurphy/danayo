@@ -33,7 +33,7 @@ stand_in: "腹"
 aliases:
   - 鰒
 注音: "ㄈㄨㄎ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 80
 - [SKIP-1-4-9](../lookup/SKIP/SKIP-1/SKIP-1-4-9.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 886th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄈㄨㄎ](../syllables/ㄈㄨㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 鰒
+魚 + 复, "abalone"; built on 复, the phonetic of 腹, and kept as an alias. SKIP 1-11-9 (computed: EDRDG does not list it); 20 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[腹]]<rt>ㄈㄨㄎ</rt></ruby> "stomach, belly, abdomen" (stand-in for 腹)

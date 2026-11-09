@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### +6 Strokes
 2. <ruby>[骸](../../characters/骸.md)<rt>ㄏ⼶</rt></ruby> - corpse
+- 骽 --> 腿
 
 ### +9 Strokes
 3. <ruby>[髄](../../characters/髄.md)<rt>ㄙㄨㄧ</rt></ruby> - marrow

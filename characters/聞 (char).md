@@ -30,7 +30,7 @@ stand_in: "聞"
 aliases:
   - 闻
 注音: "ㄇㄨㄋ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

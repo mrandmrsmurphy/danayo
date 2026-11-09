@@ -58,6 +58,7 @@ tags: [lookup]
 ### +10 Strokes
 18. <ruby>[瘡](../../characters/瘡.md)<rt>ㄑ⺢ㄫ</rt></ruby> - wound
 - 瘦 --> 痩
+- 瘠 --> 脊
 
 ### +12 Strokes
 19. <ruby>[療](../../characters/療.md)<rt>ㄌ⼄ㄨ</rt></ruby> - treat

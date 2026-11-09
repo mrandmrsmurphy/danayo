@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 93 (alias protocol), next twelve oldest characters with aliases:** 肭, 肴, 脅, 脊, 脚, 脛, 脹, 腎, 腫, 腹, 腽, 腿 gained their first `## Aliases` section (朒; 餚; 胁 and 脇; 瘠 and 鶺; 腳; 胫 and 踁; 胀; 肾; 肿; 鰒; 膃; 骽), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed; 腽 and 腿 stay blank). Moved 腽's `## Notes` ahead of `## Aliases`. No definition-less forms needed dropping. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
+- **Loop batch 92 (alias protocol), next twelve oldest characters with aliases:** 翠, 耴, 耽, 聘, 聞, 聡, 聴, 聾, 肆, 肇, 肘, 肛 processed. Gained `## Aliases` (翆; 耷; 躭; 娉; 闻; 聰 and 聪; 聽 and 听; 聋 and 䏊; 肈; 肱; 疘 and 㠮), with redirects and computed SKIP numbers in the guess list, and `mc_id` 肘 now 2016 from 肱 (耴 stays blank, no rank found). Per the 2026-11-09 decision, dropped the definition-less 𦔮, 䎲 and 𦕿 (耴), 𰭹 (聾) and 𨽸 (肆) from `aliases:`; 肆 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 91 (alias protocol), next twelve oldest characters with aliases:** 缸, 置, 罰, 署, 罵, 罷, 羅, 羌, 羚, 羨, 翅, 習 processed. Gained `## Aliases` (堈 and 罁; 寘; 罚; 曙; 骂; 罢; 罗; 羗 and 猐; 羡; 习), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed apart from 習 (828). Per the 2026-11-09 decision, dropped the definition-less 麢 (羚) and 翄 (翅) from `aliases:`; both now have none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 90 (alias protocol), next twelve oldest characters with aliases:** 縞, 縦, 縫, 繃, 繊, 繍, 繕, 繞, 繭, 繰, 纏, 缶 processed. Gained `## Aliases` (缟; 縱; 缝; 绷 and 綳; 纖 and 纤; 繡 and 绣; 缮; 绕 and 遶; 茧; 缲, 繅 and 璪; 缠 and 纒; 罐 and 缻), with redirects and computed SKIP numbers in the guess list, and `mc_id` 繰 now 3629 from 繅. Per the 2026-11-09 decision, dropped the definition-less 緾 and 繵 (纏) and 𦈢 (缶) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

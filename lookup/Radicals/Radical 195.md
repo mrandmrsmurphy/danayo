@@ -49,6 +49,7 @@ tags: [lookup]
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
 14. <ruby>[鰐](../../characters/鰐.md)<rt>ㄚㄎ</rt></ruby> - alligator
 - 鳟 --> 尊
+- 鰒 --> 腹
 
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin

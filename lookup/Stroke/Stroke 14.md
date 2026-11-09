@@ -168,6 +168,8 @@ tags:
 - 綳 --> 繃
 - 罁 --> 缸
 - 肈 --> 肇
+- 踁 --> 脛
+- 膃 --> 腽
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

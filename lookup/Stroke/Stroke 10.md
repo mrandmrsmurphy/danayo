@@ -188,6 +188,8 @@ tags:
 - 猐 --> 羌
 - 翆 --> 翠
 - 娉 --> 聘
+- 朒 --> 肭
+- 脇 --> 脅
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -80,6 +80,7 @@ tags:
 - 柘 --> 石
 - 炮 --> 砲
 - 祯 --> 禎
+- 胫 --> 脛
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

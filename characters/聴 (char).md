@@ -30,7 +30,7 @@ aliases:
   - 聽
   - 听
 注音: ㄑㄝㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 聘.
 >For the word, see [聘](../words/聘.md)

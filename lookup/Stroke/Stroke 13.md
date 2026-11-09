@@ -149,6 +149,7 @@ tags:
 - 缝 --> 縫
 - 缠 --> 纏
 - 寘 --> 置
+- 腳 --> 脚
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

@@ -650,3 +650,18 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 肘 (char) | 肱 | 1-4-4 | computed from its parts |
 | 肛 | 疘 | 3-5-3 | computed from its parts |
 | 肛 | 㠮 | 1-3-12 | computed from its parts |
+| 肭 | 朒 | 1-4-6 | computed from its parts |
+| 肴 (char) | 餚 | 1-9-7 | computed from its parts |
+| 脅 | 胁 | 1-4-4 | computed from its parts |
+| 脅 | 脇 | 1-4-6 | computed from its parts |
+| 脊 | 瘠 | 3-5-10 | computed from its parts |
+| 脊 | 鶺 | 2-10-11 | computed from its parts |
+| 脚 (char) | 腳 | 1-4-9 | computed from its parts |
+| 脛 | 胫 | 1-4-5 | computed from its parts |
+| 脛 | 踁 | 1-7-7 | computed from its parts |
+| 脹 | 胀 | 1-4-4 | computed from its parts |
+| 腎 | 肾 | 2-4-4 | computed from its parts |
+| 腫 | 肿 | 1-4-4 | computed from its parts |
+| 腹 (char) | 鰒 | 1-11-9 | computed from its parts |
+| 腽 | 膃 | 1-4-10 | computed from its parts |
+| 腿 | 骽 | 1-10-6 | computed from its parts |

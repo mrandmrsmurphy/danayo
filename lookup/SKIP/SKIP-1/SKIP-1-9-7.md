@@ -18,6 +18,7 @@ tags: [lookup]
 ### Aliases
 - 餘 --> 余
 - 縣 --> 県
+- 餚 --> 肴
 
 ## Datacheck
 ```dataview

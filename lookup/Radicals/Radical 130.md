@@ -36,6 +36,10 @@ tags: [lookup]
 18. <ruby>[肴](../../characters/肴%20(char).md)<rt>ㄏ⼘ㄨ</rt></ruby> - cooked meat
 19. <ruby>[𦚖](../../characters/𦚖%20(char).md)<rt>ㄇㄛㄆ</rt></ruby> - wink
 - 肱 --> 肘
+- 胁 --> 脅
+- 胀 --> 脹
+- 肾 --> 腎
+- 肿 --> 腫
 
 ### +3 Strokes
 20. <ruby>[肺](../../characters/肺.md)<rt>ㄈㄝ</rt></ruby> - lungs
@@ -50,6 +54,7 @@ tags: [lookup]
 29. <ruby>[胥](../../characters/胥.md)<rt>ㄙ⼄</rt></ruby> - mutually
 - 脉 --> 脈
 - 胧 --> 朧
+- 胫 --> 脛
 
 ### +4 Strokes
 30. <ruby>[胰](../../characters/胰.md)<rt>ㄧㄜ</rt></ruby> - pancreas
@@ -64,6 +69,7 @@ tags: [lookup]
 39. <ruby>[脊](../../characters/脊.md)<rt>ㄐㄝㄎ</rt></ruby> - spine
 - 脑 --> 脳
 - 脏 --> 臓
+- 脇 --> 脅
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
@@ -91,6 +97,7 @@ tags: [lookup]
 54. <ruby>[腺](../../characters/腺.md)<rt>ㄙ⼶ㄋ</rt></ruby> - gland
 55. <ruby>[腿](../../characters/腿.md)<rt>ㄊㄧㄜ</rt></ruby> - thigh
 - 腦 --> 脳
+- 腳 --> 脚
 
 ### +8 Strokes
 56. <ruby>[腐](../../characters/腐.md)<rt>ㄆㄨ</rt></ruby> - rotten
@@ -98,6 +105,7 @@ tags: [lookup]
 58. <ruby>[膏](../../characters/膏.md)<rt>ㄍㄚㄨ</rt></ruby> - grease
 59. <ruby>[膜](../../characters/膜.md)<rt>ㄇㄚㄎ</rt></ruby> - membrane
 - 膎 --> 圭
+- 膃 --> 腽
 
 ### +9 Strokes
 60. <ruby>[膚](../../characters/膚.md)<rt>ㄈㄜ</rt></ruby> - skin

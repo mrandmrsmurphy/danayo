@@ -31,7 +31,7 @@ stand_in: 脚
 aliases:
   - 腳
 注音: ㄍ⼘ㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 90
 - [SKIP-1-4-7](../lookup/SKIP/SKIP-1/SKIP-1-4-7.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 3047th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 藥開|ɨɐk]] → [ㄍ⼘ㄎ](../syllables/ㄍ⼘ㄎ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 腳
+Traditional form of 脚, "foot". SKIP 1-4-9 (computed: EDRDG does not list it); 13 strokes. It ranks 3047 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[脚]]<rt>ㄍ⼘ㄎ</rt></ruby> "leg" (stand-in for 脚)

@@ -37,6 +37,7 @@ tags:
 13. <ruby>[踊](../../characters/踊.md)<rt>⼄ㄫ</rt></ruby> - jump
 14. <ruby>[踝](../../characters/踝.md)<rt>ㄏ⺢</rt></ruby> - ankle
 - 䟺 --> 狽
+- 踁 --> 脛
 
 ### +8 Strokes
 15. <ruby>[踏](../../characters/踏.md)<rt>ㄊㄚㄆ</rt></ruby> - step on
