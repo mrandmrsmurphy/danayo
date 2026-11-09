@@ -88,6 +88,11 @@ tags:
 - 說 --> 説
 - 銓 --> 選
 - 愿 --> 願
+- 實 --> 実
+- 嫗 --> 区
+- 嶇 --> 区
+- 蔘 --> 参
+- 團 --> 団
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

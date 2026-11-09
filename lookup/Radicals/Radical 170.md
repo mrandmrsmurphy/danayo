@@ -24,6 +24,7 @@ tags: [lookup]
 ### +1 Stroke
 8. <ruby>[陋](../../characters/陋.md)<rt>ㄌ⼘ㄨ</rt></ruby> - ugly
 9. <ruby>[限](../../characters/限.md)<rt>ㄏㄚㄋ</rt></ruby> - limit
+- 陨 --> 員
 
 ### +2 Strokes
 10. <ruby>[降](../../characters/降.md)<rt>ㄍㄚㄫ</rt></ruby> - descend
@@ -50,6 +51,7 @@ tags: [lookup]
 27. <ruby>[隊](../../characters/隊%20(char).md)<rt>ㄉㄛㄧ</rt></ruby> - group
 28. <ruby>[階](../../characters/階.md)<rt>ㄍ⼶ㄧ</rt></ruby> - storey
 29. <ruby>[随](../../characters/随.md)<rt>ㄙㄨㄧ</rt></ruby> - accompany
+- 隕 --> 員
 
 ### +5 Strokes
 30. <ruby>[隙](../../characters/隙%20(char).md)<rt>ㄎㄝㄎ</rt></ruby> - fissure

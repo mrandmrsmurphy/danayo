@@ -19,6 +19,7 @@ tags: [lookup]
 4. <ruby>[回](../../characters/回%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - turns
 5. <ruby>[団](../../characters/団.md)<rt>ㄉ⺢ㄋ</rt></ruby> - group
 - 𡆧 --> 窓
+- 团 --> 団
 
 ### +4 Strokes
 6. <ruby>[囲](../../characters/囲.md)<rt>ㄨㄧ</rt></ruby> - encircle
@@ -45,6 +46,9 @@ tags: [lookup]
 ### +10 Strokes
 15. <ruby>[圓](../../characters/圓%20(char).md)<rt>⼔ㄋ</rt></ruby> - circle
 16. <ruby>[園](../../characters/園.md)<rt>ㄛㄋ</rt></ruby> - garden
+
+### +11 Strokes
+- 團 --> 団
 
 ### Aliases
 - 圍 --> 囲

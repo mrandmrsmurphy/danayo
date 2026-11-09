@@ -32,6 +32,8 @@ tags: [lookup]
 - 问 --> 問
 - 庆 --> 慶
 - 𡆧 --> 窓
+- 弎 --> 参
+- 团 --> 団
 
 ## Datacheck
 ```dataview

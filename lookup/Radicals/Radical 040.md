@@ -35,6 +35,7 @@ tags:
 14. <ruby>[宜](../../characters/宜.md)<rt>ㄜㄧ</rt></ruby> - suitable
 15. <ruby>[宝](../../characters/宝.md)<rt>ㄅㄚㄨ</rt></ruby> - treasure
 16. <ruby>[実](../../characters/実.md)<rt>ㄙㄧㄊ</rt></ruby> - true
+- 实 --> 実
 
 ### +6 Strokes
 17. <ruby>[客](../../characters/客.md)<rt>ㄎㄚㄎ</rt></ruby> - guest
@@ -74,6 +75,7 @@ tags:
 41. <ruby>[寡](../../characters/寡.md)<rt>ㄍ⺢</rt></ruby> - widow
 42. <ruby>[寧](../../characters/寧.md)<rt>ㄋㄝㄫ</rt></ruby> - peaceful
 43. <ruby>[寨](../../characters/寨.md)<rt>ㄐㄚㄧ</rt></ruby> - fortress
+- 實 --> 実
 
 ### +12 Strokes
 44. <ruby>[審](../../characters/審.md)<rt>ㄙㄧㄇ</rt></ruby> - examine

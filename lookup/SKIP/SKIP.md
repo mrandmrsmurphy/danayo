@@ -1,5 +1,5 @@
 ---
-date-last-perfect: 2026-11-08
+date-last-perfect: 2026-11-09
 size: 3386
 language: 単亜語
 tags:

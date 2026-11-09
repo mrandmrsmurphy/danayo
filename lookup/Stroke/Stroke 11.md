@@ -99,6 +99,10 @@ tags:
 - 续 --> 続
 - 脫 --> 脱
 - 匘 --> 脳
+- 麥 --> 麦
+- 區 --> 区
+- 崎 --> 区
+- 參 --> 参
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

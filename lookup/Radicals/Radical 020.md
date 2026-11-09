@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- 勹 --> 包
+
 ### +1 Stroke
 1. <ruby>[勺](../../characters/勺%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - spoon
 

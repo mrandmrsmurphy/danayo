@@ -22,6 +22,7 @@ tags: [lookup]
 4. <ruby>[鮎](../../characters/鮎%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sweetfish
 5. <ruby>[鮐](../../characters/鮐.md)<rt>ㄊㄚㄧ</rt></ruby> - blowfish
 6. <ruby>[鮑](../../characters/鮑%20(char).md)<rt>ㄅㄚㄨ</rt></ruby> - abalone
+- 𬵑 --> 免
 
 ### +6 Strokes
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark
@@ -31,11 +32,13 @@ tags: [lookup]
 
 ### +7 Strokes
 9. <ruby>[鯉](../../characters/鯉.md)<rt>ㄌㄧ</rt></ruby> - koi
+- 鮸 --> 免
 
 ### +8 Strokes
 10. <ruby>[鯖](../../characters/鯖.md)<rt>ㄑㄝㄫ</rt></ruby> - mackerel
 11. <ruby>[鯤](../../characters/鯤.md)<rt>ㄍㄛㄋ</rt></ruby> - mythical fish
 12. <ruby>[鯨](../../characters/鯨.md)<rt>ㄍ⼶ㄫ</rt></ruby> - whale
+- 鯛 --> 周
 
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
@@ -48,6 +51,7 @@ tags: [lookup]
 ### +11 Strokes
 - 鰹 --> 堅
 - 鰾 --> 票
+- 鰺 --> 参
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
@@ -55,6 +59,9 @@ tags: [lookup]
 
 ### +13 Strokes
 - 鱧 --> 豊
+
+### +14 Strokes
+- 鱶 --> 養
 
 ### Aliases
 - 鱆 --> 章

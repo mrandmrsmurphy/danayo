@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[式](../../characters/式.md)<rt>ㄙㄧㄎ</rt></ruby> - style
 2. <ruby>[弒](../../characters/弒.md)<rt>ㄊㄧ</rt></ruby> - assassinate
 
+### Aliases
+- 弎 --> 参
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

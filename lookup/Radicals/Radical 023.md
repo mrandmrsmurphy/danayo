@@ -23,6 +23,9 @@ tags: [lookup]
 ### +8 Strokes
 5. <ruby>[匿](../../characters/匿.md)<rt>ㄋㄧㄎ</rt></ruby> - hide
 
+### +9 Strokes
+- 區 --> 区
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -49,6 +49,7 @@ tags: [lookup]
 
 ### +11 Strokes
 - 驃 --> 票
+- 驂 --> 参
 
 ### +13 Strokes
 21. <ruby>[驚](../../characters/驚.md)<rt>ㄍ⼶ㄫ</rt></ruby> - startle

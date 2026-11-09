@@ -61,6 +61,7 @@ tags: [lookup]
 
 42. <ruby>[吠](../../characters/吠.md)<rt>ㄈㄝ</rt></ruby> - bark
 - 𠯑 --> 括
+- 员 --> 員
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference
@@ -72,6 +73,7 @@ tags: [lookup]
 49. <ruby>[命](../../characters/命.md)<rt>ㄇ⼶ㄫ</rt></ruby> - life
 50. <ruby>[咅](../../characters/咅.md)<rt>ㄆ⼄ㄨ</rt></ruby> - spit
 51. <ruby>[和](../../characters/和.md)<rt>ㄏ⺢</rt></ruby> - peaceful
+- 咐 --> 付
 
 ### +6 Strokes
 52. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite

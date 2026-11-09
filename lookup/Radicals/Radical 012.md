@@ -30,6 +30,9 @@ tags: [lookup]
 
 8. <ruby>[典](../../characters/典.md)<rt>ㄉㄝㄋ</rt></ruby> - dictionary
 
+### +7 Strokes
+- 养 --> 養
+
 ### +8 Strokes
 9. <ruby>[兼](../../characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> - double as
 

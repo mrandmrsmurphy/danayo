@@ -94,6 +94,9 @@ tags:
 - 荫 --> 陰
 - 顺 --> 順
 - 类 --> 類
+- 养 --> 養
+- 剏 --> 創
+- 陨 --> 員
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

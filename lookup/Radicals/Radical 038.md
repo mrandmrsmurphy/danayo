@@ -33,6 +33,7 @@ tags: [lookup]
 12. <ruby>[妠](../../characters/妠.md)<rt>ㄋㄨㄇ</rt></ruby> - seize
 13. <ruby>[妥](../../characters/妥.md)<rt>ㄊㄚ</rt></ruby> - appropriate
 14. <ruby>[妨](../../characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> - hinder
+- 妪 --> 区
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous
@@ -94,6 +95,7 @@ tags: [lookup]
 57. <ruby>[嫡](../../characters/嫡%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - legitimate wife
 58. <ruby>[嫩](../../characters/嫩%20(char).md)<rt>ㄋㄛㄋ</rt></ruby> - delicate
 - 嫖 --> 票
+- 嫗 --> 区
 
 ### +12 Strokes
 59. <ruby>[嬉](../../characters/嬉.md)<rt>ㄏㄧ</rt></ruby> - enjoy

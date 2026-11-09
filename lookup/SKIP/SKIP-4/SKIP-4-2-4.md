@@ -23,6 +23,9 @@ tags: [lookup]
 - 乄 - 異体字: Variant of 〆, an ancient scribal mark for "closed"
 - 乜 - 方言: Cantonese/dialects only
 
+### Aliases
+- 勹 --> 包
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

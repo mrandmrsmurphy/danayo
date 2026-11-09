@@ -24,6 +24,9 @@ tags: [lookup]
 - 㗠 - 국자: Korean-coined hanja for '비롯' (proto-Hangǔl), 'to originate'
 - 旕 - 국자: Korean-coined hanja for '엇', used for transliteration; place name
 
+### Aliases
+- 雹 --> 包
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

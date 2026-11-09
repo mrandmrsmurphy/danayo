@@ -93,6 +93,7 @@ tags:
 58. <ruby>[萌](../../characters/萌.md)<rt>ㄇㄜㄫ</rt></ruby> - bud
 59. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
 - 蓝 --> 藍
+- 蔘 --> 参
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn

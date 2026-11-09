@@ -2,6 +2,12 @@
 
 Changes to the vault, newest first. History lives here and nowhere else — pages hold only the working content.
 
+## 2026-11-09
+
+- **Loop batch 15 (alias protocol), next ten oldest characters with aliases:** 剛, 創, 努, 包, 区, 参, 周, 員, 団, 壊 gained their first `## Aliases` section (刚; 剏 and 创; 弩; 勹, 雹 and 庖; 區, 嫗, 妪, 嶇, 岖 and 崎; 參, 叁, 蔘, 弎, 鰺 and 驂; 鯛; 员, 隕 and 陨; 團 and 团; 壞 and 坏), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (努 now 1447 from 弩). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
+- **Loop batch 14 (alias protocol), next ten oldest characters with aliases:** 飲, 養, 麦, 実, 付, 倉, 値, 兆, 免, 党 gained their first `## Aliases` section (飮 and 饮; 养 and 鱶; 麥; 實 and 实; 咐; 仓; 值; 佻; 鮸 and 𬵑; 黨), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (値 now 2616 from 值; 麦 and 実 rank under 麥 and 實). Fixed the unindented `aliases:` list on 党. Re-stamped the four syllable pages ㄅㄚㄊ, ㄆㄚㄊ, ㄙㄜㄆ and ㄙㄧㄆ, which had passed the 30-day limit. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
 ## 2026-11-08
 
 - **Loop batch 13 (alias protocol), next ten oldest characters with aliases:** 銭, 鐘, 陰, 難, 静, 面, 順, 題, 願, 類 gained their first `## Aliases` section (錢; 钟; 阴, 蔭, 荫 and 侌; 难; 靜; 麵 and 緬; 顺; 题; 愿 and 𫖸; 类), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (銭 709 under 錢, 静 852 under 靜). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.

@@ -33,6 +33,9 @@ tags: [lookup]
 - 粁 - 国字: kilometer, Use 千米
 - 籾 - 国字: 'unhulled rice'. On 日本人名用漢字
 
+### Aliases
+- 剏 --> 創
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

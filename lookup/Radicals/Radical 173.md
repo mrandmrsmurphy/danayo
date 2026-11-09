@@ -26,6 +26,7 @@ tags: [lookup]
 7. <ruby>[雷](../../characters/雷%20(char).md)<rt>ㄌㄛㄧ</rt></ruby> - thunder
 8. <ruby>[電](../../characters/電.md)<rt>ㄉㄝㄋ</rt></ruby> - electricity
 - 雾 --> 霧
+- 雹 --> 包
 
 ### +6 Strokes
 9. <ruby>[需](../../characters/需.md)<rt>ㄙㄨ</rt></ruby> - need

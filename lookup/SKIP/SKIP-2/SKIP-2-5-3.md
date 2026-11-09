@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 靑 --> 青
+- 弩 --> 努
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'

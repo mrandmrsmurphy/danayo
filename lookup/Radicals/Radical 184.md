@@ -9,6 +9,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +-2 Strokes
+- 饮 --> 飲
+
 ### +0 Strokes
 1. <ruby>[食](../../characters/食%20(char).md)<rt>ㄙㄧㄎ</rt></ruby> - eat
 
@@ -25,6 +28,7 @@ tags: [lookup]
 7. <ruby>[飼](../../characters/飼.md)<rt>ㄙㄚ</rt></ruby> - raise
 8. <ruby>[飾](../../characters/飾.md)<rt>ㄙㄧㄎ</rt></ruby> - decorate
 9. <ruby>[飴](../../characters/飴.md)<rt>ㄧ</rt></ruby> - syrup
+- 飮 --> 飲
 
 ### +5 Strokes
 10. <ruby>[餌](../../characters/餌.md)<rt>ㄋㄧ</rt></ruby> - bait

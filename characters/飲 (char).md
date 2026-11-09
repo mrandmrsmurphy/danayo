@@ -35,7 +35,7 @@ aliases:
   - 飮
   - 饮
 注音: ㄨㄇ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -53,6 +53,14 @@ boundedness: 75
 - [SKIP-1-9-4](../lookup/SKIP/SKIP-1/SKIP-1-9-4.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 472nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄨㄇ](../syllables/ㄨㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 飮
+Variant form of 飲 (the Korean hanja form of 음, "to drink"). SKIP 1-9-4; 13 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 饮
+Simplified Chinese form of 飲. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[飲]]<rt>ㄨㄇ</rt></ruby> "drink" (stand-in for 飲)

@@ -35,7 +35,7 @@ aliases:
   - 雹
   - 庖
 注音: ㄅ⼘ㄨ
-date-last-perfect: 2026-10-18
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,17 @@ boundedness: 70
 - [SKIP-3-2-3](../lookup/SKIP/SKIP-3/SKIP-3-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 1631st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄅ⼘ㄨ](../syllables/ㄅ⼘ㄨ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 勹
+The Kangxi radical 20, "to wrap", the original form of 包's upper part; kept as an alias of 包. SKIP 4-2-4; 2 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 雹
+雨 + 包, "hail"; built on 包 and kept as an alias of 包. SKIP 2-8-5; 13 strokes. Radical 173 雨. It ranks 2279 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 庖
+广 + 包, "kitchen, cooking"; built on 包 and kept as an alias of 包. SKIP 3-3-5; 8 strokes. Radical 053 广. It ranks 2639 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[包装]]<rt>ㄅ⼘ㄨㄐ⺢ㄫ</rt></ruby> "wrap, package"

@@ -32,6 +32,7 @@ tags: [lookup]
 
 ### Aliases
 - 攵 --> 攴
+- 仓 --> 倉
 
 ### Forbidden
 - ¡仒! - 違法字

@@ -105,6 +105,7 @@ tags:
 - 沮 --> 祖
 - 终 --> 終
 - 线 --> 線
+- 咐 --> 付
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

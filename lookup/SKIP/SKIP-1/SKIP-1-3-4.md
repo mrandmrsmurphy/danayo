@@ -80,6 +80,10 @@ tags:
 - 沒 --> 没
 - 犹 --> 猶
 - 阴 --> 陰
+- 饮 --> 飲
+- 妪 --> 区
+- 岖 --> 区
+- 坏 --> 壊
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

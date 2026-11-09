@@ -31,6 +31,7 @@ tags: [lookup]
 8. <ruby>[弦](../../characters/弦%20(char).md)<rt>ㄏㄝㄋ</rt></ruby> - bowstring
 9. <ruby>[弥](../../characters/弥%20(char).md)<rt>ㄇㄝ</rt></ruby> - increasingly
 10. <ruby>[弧](../../characters/弧.md)<rt>ㄏㄛ</rt></ruby> - arc
+- 弩 --> 努
 
 ### +6 Strokes
 11. <ruby>[弯](../../characters/弯.md)<rt>⺢ㄇ</rt></ruby> - bend

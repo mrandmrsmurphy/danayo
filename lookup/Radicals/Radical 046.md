@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +4 Strokes
 2. <ruby>[岐](../../characters/岐%20(char).md)<rt>ㄍㄝ</rt></ruby> - fork (in road)
+- 岖 --> 区
 
 ### +5 Strokes
 3. <ruby>[岡](../../characters/岡.md)<rt>ㄍㄚㄫ</rt></ruby> - hill
@@ -39,6 +40,7 @@ tags: [lookup]
 15. <ruby>[崖](../../characters/崖%20(char).md)<rt>ㄚㄧ</rt></ruby> - cliff
 16. <ruby>[崙](../../characters/崙.md)<rt>ㄌㄛㄋ</rt></ruby> - Lun
 17. <ruby>[崩](../../characters/崩%20(char).md)<rt>ㄅㄨㄫ</rt></ruby> - crumble
+- 崎 --> 区
 
 ### +9 Strokes
 18. <ruby>[嵌](../../characters/嵌.md)<rt>ㄎㄚㄇ</rt></ruby> - inlay
@@ -48,6 +50,9 @@ tags: [lookup]
 
 ### +10 Strokes
 21. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high
+
+### +11 Strokes
+- 嶇 --> 区
 
 ### +14 Strokes
 22. <ruby>[屿](../../characters/屿.md)<rt>ㄙ⼄</rt></ruby> - islet

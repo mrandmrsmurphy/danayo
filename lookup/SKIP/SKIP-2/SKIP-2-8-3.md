@@ -28,6 +28,7 @@ tags: [lookup]
 - 梦 --> 夢
 - 婴 --> 嬰
 - 𠵊 --> 善
+- 麥 --> 麦
 
 ## Datacheck
 ```dataview

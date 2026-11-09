@@ -25,6 +25,8 @@ tags:
 - 玑 --> 璣
 - 划 --> 劃
 - 则 --> 則
+- 刚 --> 剛
+- 创 --> 創
 
 ### Forbidden
 - 刖 - 混乱: "To amputate the feet" (an ancient punishment). Related to 前's early form; no existing vault citations at all.

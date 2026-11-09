@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### Aliases
 - 龛 --> 龕
+- 參 --> 参
 
 ## Datacheck
 ```dataview

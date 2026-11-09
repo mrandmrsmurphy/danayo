@@ -29,6 +29,7 @@ aliases:
 6. <ruby>[介](../../characters/介.md)<rt>ㄍ⼶</rt></ruby> - mediator
 7. <ruby>[仍](../../characters/仍%20(char).md)<rt>ㄋㄧㄫ</rt></ruby> - yet
 - ¡仒! - 違法字
+- 仓 --> 倉
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair
@@ -113,6 +114,7 @@ aliases:
 - 侒 --> 安
 - 侈 --> 済
 - 侌 --> 陰
+- 佻 --> 兆
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -161,6 +163,7 @@ aliases:
 - ¡倻! - 違法字
 - ¡們! - 違法字
 - 倝 --> 幹
+- 值 --> 値
 
 ### +9 Strokes
 102. <ruby>[倦](../../characters/倦.md)<rt>ㄍ⼔ㄋ</rt></ruby> - weary

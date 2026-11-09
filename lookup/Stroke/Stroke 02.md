@@ -22,6 +22,7 @@ tags: [lookup]
 - 厂 --> 廠
 - 几 --> 幾
 - 丂 --> 考
+- 勹 --> 包
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

@@ -29,6 +29,8 @@ tags:
 7. <ruby>[刑](../../characters/刑.md)<rt>ㄏㄝㄫ</rt></ruby> - punishment
 8. <ruby>[列](../../characters/列.md)<rt>ㄌㄝㄊ</rt></ruby> - arrange
 - 则 --> 則
+- 刚 --> 剛
+- 创 --> 創
 
 ### +5 Strokes
 9. <ruby>[初](../../characters/初.md)<rt>ㄑㄛ</rt></ruby> - beginning
@@ -51,6 +53,7 @@ tags:
 22. <ruby>[剌](../../characters/剌.md)<rt>ㄌㄚㄊ</rt></ruby> - lively
 23. <ruby>[前](../../characters/前%20(char).md)<rt>ㄐㄝㄋ</rt></ruby> - front
 - 剋 --> 克
+- 剏 --> 創
 
 ### +8 Strokes
 24. <ruby>[剖](../../characters/剖.md)<rt>ㄈㄛㄨ</rt></ruby> - dissect

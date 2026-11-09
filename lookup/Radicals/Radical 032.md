@@ -34,6 +34,7 @@ tags:
 12. <ruby>[址](../../characters/址.md)<rt>ㄐㄧ</rt></ruby> - site
 - 坚 --> 堅
 - 块 --> 塊
+- 坏 --> 壊
 
 ### +5 Strokes
 13. <ruby>[坤](../../characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> - eighth trigram
@@ -117,6 +118,7 @@ tags:
 
 ### +16 Strokes
 - 壞 --> traditional form of 壊
+- 壞 --> 壊
 
 ### Aliases
 - 圣 --> 聖

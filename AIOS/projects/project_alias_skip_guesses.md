@@ -168,3 +168,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 題 | 题 | 1-9-6 | computed from its parts |
 | 願 | 𫖸 | 1-10-6 | computed from its parts |
 | 類 | 类 | 2-6-3 | computed from its parts |
+| 飲 (char) | 饮 | 1-3-4 | computed from its parts |
+| 養 | 养 | 2-3-6 | computed from its parts |
+| 実 | 实 | 2-3-5 | computed from its parts |
+| 倉 | 仓 | 2-2-2 | computed from its parts |
+| 値 | 值 | 1-2-8 | computed from its parts |
+| 免 | 𬵑 | 1-11-5 | computed from its parts |
+| 剛 | 刚 | 1-4-2 | computed from its parts |
+| 創 | 创 | 1-4-2 | computed from its parts |
+| 区 | 妪 | 1-3-4 | computed from its parts |
+| 区 | 岖 | 1-3-4 | computed from its parts |
+| 参 | 叁 | 2-2-6 | computed from its parts |
+| 員 | 员 | 2-3-4 | computed from its parts |
+| 員 | 陨 | 1-3-6 | computed from its parts |
+| 団 | 团 | 3-3-3 | computed from its parts |

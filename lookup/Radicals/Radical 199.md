@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 麵 --> 面
+- 麥 --> 麦
 
 ## Data check
 ```dataview

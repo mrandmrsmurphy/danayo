@@ -27,6 +27,7 @@ tags:
 7. <ruby>[庚](../../characters/庚.md)<rt>ㄍㄚㄫ</rt></ruby> - seventh heavenly stem
 8. <ruby>[府](../../characters/府.md)<rt>ㄈㄨ</rt></ruby> - government
 9. <ruby>[底](../../characters/底%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - bottom
+- 庖 --> 包
 
 ### +6 Strokes
 10. <ruby>[度](../../characters/度.md)<rt>ㄉㄛ</rt></ruby> - degree

@@ -98,6 +98,7 @@ tags: [lookup]
 - 辈 --> 輩
 - 啻 --> 適
 - 遗 --> 遺
+- 隕 --> 員
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
