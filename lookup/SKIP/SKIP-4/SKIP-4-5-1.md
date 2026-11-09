@@ -30,6 +30,7 @@ tags: [lookup]
 - 旡 a.k.a. Radical 071
 - 册 --> 冊
 - 疋 --> 匹
+- 歺 --> 歹
 
 ## Datacheck
 ```dataview

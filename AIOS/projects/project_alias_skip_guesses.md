@@ -450,3 +450,18 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 楕 | 椭 | 1-4-8 | computed from its parts |
 | 楚 | 椘 | 2-8-3 | computed from its parts |
 | 槍 (char) | 枪 | 1-4-4 | computed from its parts |
+| 標 | 标 | 1-4-5 | computed from its parts |
+| 樺 | 桦 | 1-4-6 | computed from its parts |
+| 檠 | 擏 | 1-3-12 | computed from its parts |
+| 檠 | 㯳 | 1-4-13 | computed from its parts |
+| 檳 | 槟 | 1-4-10 | computed from its parts |
+| 檸 | 柠 | 1-4-5 | computed from its parts |
+| 櫛 (char) | 栉 | 1-4-5 | computed from its parts |
+| 欄 | 栏 | 1-4-5 | computed from its parts |
+| 欖 | 榄 | 1-4-9 | computed from its parts |
+| 欖 | 㰖 | 1-4-16 | computed from its parts |
+| 欽 | 钦 | 1-5-4 | computed from its parts |
+| 歯 (char) | 齿 | 2-4-4 | computed from its parts |
+| 歹 | 歺 | 4-5-1 | computed from its parts |
+| 殺 (char) | 杀 | 2-2-4 | computed from its parts |
+| 毀 (char) | 毁 | 1-9-4 | computed from its parts |

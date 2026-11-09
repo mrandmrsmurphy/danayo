@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[歹](../../characters/歹.md)<rt>ㄚㄊ</rt></ruby> - bad
 
+### +1 Stroke
+- 歺 --> 歹
+
 ### +2 Strokes
 2. <ruby>[死](../../characters/死.md)<rt>ㄙㄧㄜ</rt></ruby> - die
 

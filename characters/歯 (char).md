@@ -49,6 +49,14 @@ boundedness: 40
 - 1083rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 昌|t͡ɕʰ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄑㄧ](../syllables/ㄑㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 齒
+Traditional form (kyūjitai) of 歯, "tooth"; also Kangxi radical 211. SKIP 2-4-11; 15 strokes. Radical 211 齒. It ranks 1083 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 齿
+Simplified Chinese form of 齒. SKIP 2-4-4 (computed: EDRDG does not list it); 8 strokes. Radical 211 齒. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[歯]]<rt>ㄑㄧ</rt></ruby> "teeth; gear" (stand-in for 歯)
 - <ruby>[[歯齦]]<rt>ㄑㄧ·ㄎㄚㄋ</rt></ruby> "gingiva, gums"

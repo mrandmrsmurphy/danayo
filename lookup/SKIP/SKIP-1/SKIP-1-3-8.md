@@ -168,6 +168,7 @@ tags:
 - 掷 --> 擲
 - 徠 --> 来
 - 捿 --> 棲
+- 惞 --> 欣
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

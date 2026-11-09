@@ -38,6 +38,7 @@ tags:
 - 钣 --> 板
 - 临 --> 臨
 - 玅 --> 妙
+- 钦 --> 欽
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

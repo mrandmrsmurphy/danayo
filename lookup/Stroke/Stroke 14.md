@@ -140,6 +140,9 @@ tags:
 - 㬐 --> 晋
 - 畼 --> 暢
 - 暧 --> 曖
+- 槇 --> 槙
+- 槖 --> 橐
+- 槟 --> 檳
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

@@ -55,6 +55,11 @@ boundedness: 80
 - 133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 鎋開|ɣɛt]] → [ㄙㄚㄊ](../syllables/ㄙㄚㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 杀
+Simplified Chinese form of 殺. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[殺]]<rt>ㄙㄚㄊ</rt></ruby> "kill" (stand-in for 殺)
 - <ruby>[[暗殺]]<rt>ㄚㄇㄙㄚㄊ</rt></ruby> "assassinate; murder"

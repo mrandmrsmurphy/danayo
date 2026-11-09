@@ -154,6 +154,7 @@ tags:
 - 晕 --> 暈
 - 栢 --> 柏
 - 栖 --> 棲
+- 桦 --> 樺
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

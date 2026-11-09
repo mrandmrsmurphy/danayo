@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 68 (alias protocol), next twelve oldest characters with aliases:** 槻, 標, 樺, 橐, 橙, 檗, 檠, 檳, 檸, 櫂, 櫛, 欄 processed. Gained `## Aliases` (标; 桦; 槖; 棖; 蘗; 擎, 擏 and 㯳; 槟 and 梹; 柠; 棹; 栉; 栏), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (槻 and 檸 stay blank). Per the 2026-11-09 decision, dropped the definition-less 𬃀 from 槻's `aliases:`; 槻 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
+- **Loop batch 67 (alias protocol), next twelve oldest characters with aliases:** 椒, 椰, 椿, 楊, 楓, 楕, 楚, 楠, 榴, 槌, 槍, 槙 processed. Gained `## Aliases` (茮; 枒 and 㭨; 杶 and 櫄; 杨; 枫; 橢 and 椭; 椘; 枏; 橊; 鎚; 枪 and 鎗; 槇), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (椰 and 槙 stay blank). Per the 2026-11-09 decision, dropped the definition-less 䠂, 𣕑 and 𣗂 (楚) and 柟 (楠) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 66 (alias protocol), next twelve oldest characters with aliases:** 栾, 桜, 桟, 桧, 梁, 梓, 梢, 棋, 棒, 棗, 棟, 棲 processed. Gained `## Aliases` (欒; 櫻; 棧; 檜; 樑; 萷; 棊; 棓; 枣; 栋; 栖 and 捿), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed. Per the 2026-11-09 decision, dropped the definition-less 杍 from 梓's `aliases:`; 梓 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 65 (alias protocol), next twelve oldest characters with aliases:** 朧, 朱, 朶, 杆, 杉, 来, 杴, 林, 枢, 柏, 柵, 栃 processed. Gained `## Aliases` (胧; 硃; 朵; 桿; 椙; 來 and 徠; 锨 and 㸝; 晽, 霖, 婪 and 菻; 樞; 栢; 栅; 櫔), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (杉, 杴 and 栃 stay blank). Per the 2026-11-09 decision, dropped the definition-less 檶 and 鍁 (杴), 碄 (林) and 𣑭 (柵) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

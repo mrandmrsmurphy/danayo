@@ -19,6 +19,7 @@ tags: [lookup]
 ### +1 Stroke
 - 钟 --> 鐘
 - 钣 --> 板
+- 钦 --> 欽
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail

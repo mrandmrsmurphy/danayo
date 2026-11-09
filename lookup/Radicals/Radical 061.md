@@ -30,6 +30,7 @@ tags: [lookup]
 10. <ruby>[忠](../../characters/忠.md)<rt>ㄊㄨㄫ</rt></ruby> - loyalty
 11. <ruby>[快](../../characters/快%20(char).md)<rt>ㄎ⺢ㄧ</rt></ruby> - sharp
 - 忼 --> 慷
+- 忻 --> 欣
 
 ### +4 Strokes
 12. <ruby>[念](../../characters/念.md)<rt>ㄋㄝㄇ</rt></ruby> - thought
@@ -108,6 +109,7 @@ tags: [lookup]
 - 㥃 --> 悶
 - 悫 --> 愨
 - 悬 --> 懸
+- 惞 --> 欣
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad

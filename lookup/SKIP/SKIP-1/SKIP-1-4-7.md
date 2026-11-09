@@ -53,6 +53,7 @@ tags:
 - 㭰 --> 嘴
 - 桿 --> 杆
 - 㭨 --> 椰
+- 梹 --> 檳
 
 ## Datacheck
 ```dataview

@@ -165,6 +165,9 @@ tags:
 - 捿 --> 棲
 - 㭨 --> 椰
 - 椘 --> 楚
+- 梹 --> 檳
+- 訢 --> 欣
+- 惞 --> 欣
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

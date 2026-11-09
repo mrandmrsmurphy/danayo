@@ -36,6 +36,7 @@ tags: [lookup]
 - 鈑 --> 板
 - 㰶 --> 呕
 - 㦸 --> 戟
+- 殼 --> 殻
 
 ## Datacheck
 ```dataview

@@ -101,6 +101,7 @@ tags:
 - 扳 --> 攀
 - 汶 --> 文
 - 扵 --> 於
+- 忻 --> 欣
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

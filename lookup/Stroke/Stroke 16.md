@@ -110,6 +110,7 @@ tags:
 - 曆 --> 暦
 - 霖 --> 林
 - 橊 --> 榴
+- 擎 --> 檠
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

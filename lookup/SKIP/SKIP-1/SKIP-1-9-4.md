@@ -33,6 +33,7 @@ tags: [lookup]
 - 飮 --> 飲
 - 尠 --> 鮮
 - 戠 --> 埴
+- 毁 --> 毀
 
 ## Datacheck
 ```dataview

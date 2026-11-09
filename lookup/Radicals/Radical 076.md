@@ -41,6 +41,7 @@ tags: [lookup]
 ### +11 Strokes
 12. <ruby>[歓](../../characters/歓.md)<rt>ㄏ⺢ㄋ</rt></ruby> - glad
 - 歎 --> 嘆
+- 歐 --> 欧
 
 ### +13 Strokes
 - 歛 --> 㪘

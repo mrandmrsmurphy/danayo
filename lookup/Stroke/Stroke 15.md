@@ -117,6 +117,10 @@ tags:
 - 樞 --> 枢
 - 樑 --> 梁
 - 橢 --> 楕
+- 擏 --> 檠
+- 歐 --> 欧
+- 齒 --> 歯
+- 毆 --> 殴
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

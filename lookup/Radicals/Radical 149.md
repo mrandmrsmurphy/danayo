@@ -76,6 +76,7 @@ tags: [lookup]
 16. <ruby>[許](../../characters/許%20(char).md)<rt>ㄏ⼄</rt></ruby> - permit
 17. <ruby>[訳](../../characters/訳.md)<rt>⼶ㄎ</rt></ruby> - translate
 18. <ruby>[𧦅](../../characters/𧦅.md)<rt>ㄛㄨ</rt></ruby> - eulogize
+- 訢 --> 欣
 
 ### +5 Strokes
 19. <ruby>[訴](../../characters/訴.md)<rt>ㄙㄛ</rt></ruby> - sue

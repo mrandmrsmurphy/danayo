@@ -208,6 +208,7 @@ tags: [lookup]
 - 㨼 --> 掠
 - 撆 --> 撇
 - 撑 --> 撐
+- 擏 --> 檠
 
 ### +12 Strokes
 121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon
@@ -217,6 +218,7 @@ tags: [lookup]
 - 據 --> 拠
 - 擔 --> 担
 - 撿 --> 揀
+- 擎 --> 檠
 
 ### +13 Strokes
 125. <ruby>[擡](../../characters/擡.md)<rt>ㄉㄚㄧ</rt></ruby> - carry

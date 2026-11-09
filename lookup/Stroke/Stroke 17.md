@@ -99,6 +99,7 @@ tags:
 - 㬠 --> 晒
 - 檜 --> 桧
 - 鎚 --> 槌
+- 㯳 --> 檠
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

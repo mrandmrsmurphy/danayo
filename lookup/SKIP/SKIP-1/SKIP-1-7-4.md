@@ -47,6 +47,7 @@ tags:
 - 敕 --> 勅
 - 敍 --> 叙
 - 敘 --> 叙
+- 訢 --> 欣
 
 ## Datacheck
 ```dataview

@@ -33,7 +33,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 櫛.
 >For the word, see [櫛](../words/櫛.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-13](../lookup/SKIP/SKIP-1/SKIP-1-4-13.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - 3240th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 櫛|ɪt]] → [ㄐㄜㄊ](../syllables/ㄐㄜㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 栉
+Simplified Chinese form of 櫛. SKIP 1-4-5 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[櫛]]<rt>ㄐㄜㄊ</rt></ruby> "comb"

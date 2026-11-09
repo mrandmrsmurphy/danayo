@@ -69,6 +69,11 @@ tags:
 - 胧 --> 朧
 - 栅 --> 柵
 - 栋 --> 棟
+- 标 --> 標
+- 柠 --> 檸
+- 栉 --> 櫛
+- 栏 --> 欄
+- 柾 --> 正
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

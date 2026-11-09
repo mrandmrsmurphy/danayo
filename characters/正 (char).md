@@ -33,11 +33,6 @@ mc_id: 136
 graphemic_classification: "丁"
 stand_in: "正"
 aliases:
-  - 𤴓
-  - 㱏
-  - 𣥔
-  - 𧾸
-  - 𠙺
   - 柾
 注音: "ㄐㄧㄫ"
 date-last-perfect: 2026-10-20
@@ -57,6 +52,12 @@ boundedness: 100
 - [SKIP-4-5-1](../lookup/SKIP/SKIP-4/SKIP-4-5-1.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 136th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄐㄧㄫ](../syllables/ㄐㄧㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 柾
+木 + 正, "straight-grained wood"; built on 正 and kept as an alias. SKIP 1-4-5; 9 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[正]]<rt>ㄐㄧㄫ</rt></ruby> "correct" (stand-in for 正)
 - <ruby>[[正義]]<rt>ㄐㄧㄫㄜㄧ</rt></ruby> "justice"

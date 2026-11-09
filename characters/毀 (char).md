@@ -48,5 +48,10 @@ date-last-perfect: 2026-10-20
 - 855th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 支B三合|ɣiuᴇ]] → [ㄏ⼔ㄧ](../syllables/ㄏ⼔ㄧ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 毁
+A variant form of 毀, "to destroy". SKIP 1-9-4 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[毀]]<rt>ㄏ⼔ㄧ</rt></ruby> "destroy, slander" (stand-in for 毀 (char))

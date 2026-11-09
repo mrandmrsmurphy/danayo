@@ -32,6 +32,7 @@ tags: [lookup]
 - 权 --> 権
 - 朿 --> 刺
 - 朵 --> 朶
+- 杀 --> 殺
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod
@@ -116,6 +117,11 @@ tags: [lookup]
 - 查 --> 査
 - 栅 --> 柵
 - 栋 --> 棟
+- 标 --> 標
+- 柠 --> 檸
+- 栉 --> 櫛
+- 栏 --> 欄
+- 柾 --> 正
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -149,6 +155,7 @@ tags: [lookup]
 - 桀 --> 傑
 - 栢 --> 柏
 - 栖 --> 棲
+- 桦 --> 樺
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail
@@ -173,6 +180,7 @@ tags: [lookup]
 - 桿 --> 杆
 - 㭨 --> 椰
 - 椘 --> 楚
+- 梹 --> 檳
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -205,6 +213,8 @@ tags: [lookup]
 - 棊 --> 棋
 - 棓 --> 棒
 - 椭 --> 楕
+- 棖 --> 橙
+- 棹 --> 櫂
 
 ### +9 Strokes
 111. <ruby>[棄](../../characters/棄.md)<rt>ㄎㄧㄜ</rt></ruby> - abandon
@@ -227,6 +237,7 @@ tags: [lookup]
 - ¡榁! - 違法字
 - ¡榊! - 違法字
 - 榆 --> 兪
+- 榄 --> 欖
 
 ### +10 Strokes
 127. <ruby>[概](../../characters/概%20(char).md)<rt>ㄍㄚㄧ</rt></ruby> - rough idea
@@ -248,6 +259,9 @@ tags: [lookup]
 - ¡𪳤! - 違法字
 - 榦 --> 幹
 - 㮻 --> 掻
+- 槇 --> 槙
+- 槖 --> 橐
+- 槟 --> 檳
 
 ### +11 Strokes
 137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree
@@ -291,6 +305,7 @@ tags: [lookup]
 - ¡檪! - 違法字
 - 檢 --> 検
 - 檜 --> 桧
+- 㯳 --> 檠
 
 ### +14 Strokes
 154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄋ</rt></ruby> - lemon
@@ -305,6 +320,7 @@ tags: [lookup]
 
 ### +16 Strokes
 - ¡櫳! - 違法字
+- 㰖 --> 欖
 
 ### +17 Strokes
 160. <ruby>[欄](../../characters/欄.md)<rt>ㄌㄚㄋ</rt></ruby> - railing
