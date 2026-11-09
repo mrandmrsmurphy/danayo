@@ -39,7 +39,7 @@ stand_in: 于
 aliases:
   - 亐
 注音: ㄨ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -58,6 +58,11 @@ boundedness: 70
 - [SKIP-4-3-1](../lookup/SKIP/SKIP-4/SKIP-4-3-1.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 70th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 云|ø]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄨ](../syllables/ㄨ.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 亐
+A variant form of 于. SKIP 4-3-1 (computed: EDRDG does not list it); 3 strokes. Radical 001 一. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[于]]<rt>ㄨ</rt></ruby> "to; dative" (stand-in for 于)

@@ -24,6 +24,12 @@ tags: [lookup]
 - 丂 --> 考
 - 勹 --> 包
 - 厶 --> 私
+- 𠄠 --> 二
+- 㐅 --> 五
+- 亻 --> 人
+- 𠆢 --> 人
+- ⺈ --> 人
+- 𠂉 --> 人
 
 ### Forbidden
 - 乜 - 方言: Cantonese/dialects only

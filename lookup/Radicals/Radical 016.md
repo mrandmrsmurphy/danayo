@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 几 --> 幾
+- 𠙐 --> 不
 
 ## Data check
 ```dataview

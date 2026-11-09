@@ -63,6 +63,7 @@ tags:
 - 构 --> 構
 - 歿 --> 没
 - 狀 --> 状
+- 规 --> 規
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝

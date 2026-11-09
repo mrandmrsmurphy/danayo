@@ -252,3 +252,39 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 績 | 绩 | 1-3-8 | computed from its parts |
 | 織 | 织 | 1-3-5 | computed from its parts |
 | 腸 | 肠 | 1-4-3 | computed from its parts |
+| 臓 | 脏 | 1-4-6 | computed from its parts |
+| 臨 | 临 | 1-5-4 | computed from its parts |
+| 衛 | 卫 | 2-1-2 | computed from its parts |
+| 補 | 补 | 1-5-3 | computed from its parts |
+| 規 | 规 | 1-4-4 | computed from its parts |
+| 覚 | 觉 | 2-5-4 | computed from its parts |
+| 覧 | 览 | 2-5-4 | computed from its parts |
+| 訳 | 译 | 1-2-5 | computed from its parts |
+| 訴 | 诉 | 1-2-5 | computed from its parts |
+| 評 | 评 | 1-2-5 | computed from its parts |
+| 詞 | 词 | 1-2-5 | computed from its parts |
+| 㒼 | 䓣 | 2-3-9 | computed from its parts |
+| 㒼 | 𬜯 | 2-3-8 | computed from its parts |
+| 㪘 (char) | 敛 | 1-7-4 | computed from its parts |
+| 䋇 (char) | 绎 | 1-3-5 | computed from its parts |
+| 䔥 | 萧 | 2-3-9 | computed from its parts |
+| 䦧 (char) | 阋 | 3-3-8 | computed from its parts |
+| 丁 (char) | 𠆤 | 2-2-1 | computed from its parts |
+| 丈 (char) | 𠀋 | 4-3-1 | computed from its parts |
+| 不 (char) | 𠀚 | 2-1-5 | computed from its parts |
+| 不 (char) | 𠙐 | 2-2-7 | computed from its parts |
+| 世 | 㔺 | 2-2-4 | computed from its parts |
+| 乖 | 𠂯 | 4-7-3 | computed from its parts |
+| 予 | 预 | 1-4-6 | computed from its parts |
+| 二 (char) | 𠄠 | 2-1-1 | computed from its parts |
+| 于 (char) | 亐 | 4-3-1 | computed from its parts |
+| 五 (char) | 㐅 | 4-2-1 | computed from its parts |
+| 五 (char) | 𠄡 | 4-4-1 | computed from its parts |
+| 亜 | 亚 | 4-6-1 | computed from its parts |
+| 亦 (char) | 𠅃 | 2-2-4 | computed from its parts |
+| 人 (char) | 亻 | 4-2-4 | computed from its parts |
+| 人 (char) | 𠆢 | 4-2-4 | computed from its parts |
+| 人 (char) | ⺈ | 4-2-4 | computed from its parts |
+| 人 (char) | 𠂉 | 4-2-4 | computed from its parts |
+| 仇 | 㐜 | 1-2-7 | computed from its parts |
+| 佇 | 伫 | 1-2-4 | computed from its parts |

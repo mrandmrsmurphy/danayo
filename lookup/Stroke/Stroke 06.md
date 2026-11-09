@@ -90,6 +90,12 @@ tags:
 - 𠂢 --> 派
 - 纪 --> 紀
 - 级 --> 級
+- 众 --> 衆
+- 𠀚 --> 不
+- 㔺 --> 世
+- 亚 --> 亜
+- 𠅃 --> 亦
+- 伫 --> 佇
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

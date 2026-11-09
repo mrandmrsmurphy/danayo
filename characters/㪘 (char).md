@@ -38,7 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 㪘.
 >For the word, see [[㪘]].
@@ -51,6 +51,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-8-4](../lookup/SKIP/SKIP-1/SKIP-1-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1153rd most used character in Classical Chinese, indexed there under its traditional form 斂. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 鹽A三|iᴇm]] → [ㄌ⼶ㄇ](../syllables/ㄌ⼶ㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄹ](Lookup/Korean/Korean%20Name%20ㄹ.md)
+
+## Aliases
+
+### 斂
+Traditional form of 㪘, "to gather". SKIP 1-13-4; 17 strokes. It ranks 1153 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 敛
+Simplified Chinese form of 斂. SKIP 1-7-4 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 歛
+A variant form of 斂 (also "to desire"); kept as an alias of 㪘. SKIP 1-13-4; 17 strokes. Radical 076 欠. It ranks 2721 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[㪘]]<rt>ㄌ⼶ㄇ</rt></ruby> "to gather, collect, restrain"

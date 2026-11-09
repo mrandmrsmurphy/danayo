@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +1 Stroke
+- 卫 --> 衛
+
 ### +3 Strokes
 1. <ruby>[卯](../../characters/卯.md)<rt>ㄇ⼘ㄨ</rt></ruby> - fourth earthly branch
 

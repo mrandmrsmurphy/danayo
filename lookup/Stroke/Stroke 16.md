@@ -90,6 +90,8 @@ tags:
 - 𣿑 --> 港
 - 獨 --> 独
 - 噤 --> 禁
+- 衞 --> 衛
+- 蕭 --> 䔥
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

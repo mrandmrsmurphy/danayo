@@ -57,6 +57,8 @@ tags:
 - 烦 --> 煩
 - 脑 --> 脳
 - 烙 --> 落
+- 脏 --> 臓
+- 预 --> 予
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

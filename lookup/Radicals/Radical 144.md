@@ -28,6 +28,7 @@ tags: [lookup]
 ### +10 Strokes
 5. <ruby>[衡](../../characters/衡.md)<rt>ㄏㄚㄫ</rt></ruby> - weigh
 6. <ruby>[衛](../../characters/衛.md)<rt>ㄝ</rt></ruby> - guard
+- 衞 --> 衛
 
 ### +18 Strokes
 7. <ruby>[衢](../../characters/衢%20(char).md)<rt>ㄍㄨ</rt></ruby> - crossroads

@@ -61,6 +61,7 @@ tags: [lookup]
 38. <ruby>[脈](../../characters/脈.md)<rt>ㄇㄚㄎ</rt></ruby> - vein
 39. <ruby>[脊](../../characters/脊.md)<rt>ㄐㄝㄎ</rt></ruby> - spine
 - 脑 --> 脳
+- 脏 --> 臓
 
 ### +5 Strokes
 40. <ruby>[脚](../../characters/脚%20(char).md)<rt>ㄍ⼘ㄎ</rt></ruby> - leg
@@ -111,6 +112,9 @@ tags: [lookup]
 ### +13 Strokes
 68. <ruby>[臓](../../characters/臓.md)<rt>ㄐㄚㄫ</rt></ruby> - organ
 69. <ruby>[臘](../../characters/臘.md)<rt>ㄌㄚㄆ</rt></ruby> - Laba
+
+### +15 Strokes
+- 臟 --> 臓
 
 ### Aliases
 - 胶 --> 交

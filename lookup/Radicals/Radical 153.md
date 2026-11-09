@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +11 Strokes
 3. <ruby>[䝙](../../characters/䝙.md)<rt>ㄊㄨ</rt></ruby> - mythical tiger-beast
+- 貙 --> 䝙
 
 ## Data check
 ```dataview

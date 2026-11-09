@@ -28,6 +28,7 @@ tags: [lookup]
 7. <ruby>[卍](../../characters/卍.md)<rt>ㄇㄛㄋ</rt></ruby> - swastika
 - 协 --> 協
 - 华 --> 華
+- 㔺 --> 世
 
 ### +6 Strokes
 8. <ruby>[協](../../characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> - cooperate

@@ -114,6 +114,8 @@ tags: [lookup]
 - 确 --> 確
 - 惣 --> 総
 - 编 --> 編
+- 䓣 --> 㒼
+- 萧 --> 䔥
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

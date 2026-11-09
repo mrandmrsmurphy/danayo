@@ -31,7 +31,7 @@ stand_in: 二
 aliases:
   - 弍
   - 𠄠
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 注音: ㄋㄧㄜ
 kwin: false
 tags:
@@ -49,6 +49,14 @@ boundedness: 80
 - [SKIP-2-1-1](../lookup/SKIP/SKIP-2/SKIP-2-1-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 27th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 脂A三開|iɪ]] → [ㄋㄧㄜ](../syllables/ㄋㄧㄜ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 弍
+A formal (financial) numeral "two"; kept as an alias of 二. SKIP 3-3-2; 5 strokes. Radical 056 弋. It has no rank of its own in the Classical Chinese lists.
+
+### 𠄠
+A rare variant form of 二; Wiktionary gives no definition. SKIP 2-1-1 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two" (stand-in for 二)

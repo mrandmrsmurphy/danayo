@@ -24,6 +24,7 @@ tags: [lookup]
 ### Aliases
 - 國 --> 国
 - 阐 --> 闡
+- 阋 --> 䦧
 
 ## Datacheck
 ```dataview

@@ -57,6 +57,7 @@ tags:
 - 萤 --> 蛍
 - 菓 --> 果
 - 菠 --> 波
+- 𬜯 --> 㒼
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -70,6 +71,8 @@ tags:
 40. <ruby>[荘](../../characters/荘.md)<rt>ㄐ⺢ㄫ</rt></ruby> - villa
 41. <ruby>[莽](../../characters/莽.md)<rt>ㄇㄚㄫ</rt></ruby> - poisonous
 - 茻 --> 莽
+- 䓣 --> 㒼
+- 萧 --> 䔥
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
@@ -127,6 +130,7 @@ tags:
 - 蕾 --> 雷
 - 薙 --> 剃
 - 蕗 --> 路
+- 蕭 --> 䔥
 
 ### +11 Strokes
 83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao
@@ -148,6 +152,7 @@ tags:
 97. <ruby>[蕪](../../characters/蕪.md)<rt>ㄇㄨ</rt></ruby> - turnip
 98. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
 - 藝 --> 芸
+- 藏 --> 蔵
 
 ### +13 Strokes
 99. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia

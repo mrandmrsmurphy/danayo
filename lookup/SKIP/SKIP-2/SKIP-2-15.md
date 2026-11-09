@@ -10,6 +10,11 @@ Top component has 15 strokes.
 
 1. none
 2. [SKIP-2-15-2](lookup/SKIP/SKIP-2/SKIP-2-15-2.md): 輿
+3. none
+4. none
+5. none
+6. none
+7. [SKIP-2-15-7](lookup/SKIP/SKIP-2/SKIP-2-15-7.md): ø
 
 ## Base check
 ```base

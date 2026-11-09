@@ -47,6 +47,8 @@ tags:
 - 贵 --> 貴
 - 贺 --> 賀
 - 总 --> 総
+- 觉 --> 覚
+- 览 --> 覧
 
 ### Forbidden
 - 巬 - 국자: Korean-coined hanja for '부' ('worker')

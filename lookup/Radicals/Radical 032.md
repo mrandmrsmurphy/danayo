@@ -66,6 +66,7 @@ tags:
 33. <ruby>[堆](../../characters/堆.md)<rt>ㄉㄛㄧ</rt></ruby> - piled up
 34. <ruby>[堕](../../characters/堕.md)<rt>ㄉ⺢</rt></ruby> - degenerate
 35. <ruby>[堵](../../characters/堵.md)<rt>ㄉㄛ</rt></ruby> - wall
+- 堊 --> 亜
 
 ### +9 Strokes
 36. <ruby>[堅](../../characters/堅.md)<rt>ㄍㄝㄋ</rt></ruby> - hard

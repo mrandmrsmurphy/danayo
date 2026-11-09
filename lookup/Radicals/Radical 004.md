@@ -32,6 +32,9 @@ tags: [lookup]
 - 㐆 --> 隠
 - 乕 --> 虎
 - 𠂢 --> 派
+- 𠂯 --> 乖
+- 㐅 --> 五
+- 𠂉 --> 人
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

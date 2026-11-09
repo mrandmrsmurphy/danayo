@@ -34,7 +34,7 @@ aliases:
   - ⺈
   - 𠂉
 注音: ㄋㄧㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -57,6 +57,21 @@ boundedness: 75
 - <ruby>[[信]]<rt>ㄙㄧㄋ</rt></ruby> "trust, believe"
 - <ruby>[[千]]<rt>ㄑㄝㄋ</rt></ruby> "thousand"
 - <ruby>[[仁]]<rt>ㄋㄧㄋ</rt></ruby> "benevolence"
+
+## Aliases
+
+### 亻
+The side form of 人 and Kangxi radical 9; kept as an alias of 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠆢
+A rare variant form of 人; Wiktionary gives no definition. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### ⺈
+The component form of 刀 (Kangxi radical 18), written like a small 人 at the top of characters; kept as an alias of 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠂉
+An older "person" component, similar to 亻 and 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[人]]<rt>ㄋㄧㄋ</rt></ruby> "person; humanity" (stand-in for 人)
 - <ruby>[[丈人]]<rt>ㄑㄚㄫㄋㄧㄋ</rt></ruby> "father-in-law"

@@ -33,6 +33,7 @@ tags:
 - 條 --> 条
 - 匘 --> 脳
 - 减 --> 減
+- 假 --> 仮
 
 ## Datacheck
 ```dataview

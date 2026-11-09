@@ -30,7 +30,7 @@ stand_in: 丈
 aliases:
   - 𠀋
 注音: ㄑㄚㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -47,6 +47,11 @@ boundedness: 80
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 881st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄑㄚㄫ](../syllables/ㄑㄚㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 𠀋
+An alternative form of 丈 in Japanese. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[丈]]<rt>ㄑㄚㄫ</rt></ruby> "zhang; an ancient unit of length (~3.3m)" (stand-in for 丈)

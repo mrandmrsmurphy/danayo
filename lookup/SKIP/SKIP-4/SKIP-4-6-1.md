@@ -23,6 +23,10 @@ tags: [lookup]
 ### Forbidden
 - 丟 - 中国制造: HSK/1, but mainly Chinese.
 
+### Aliases
+- ⿱卄両 --> 㒼
+- 亚 --> 亜
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

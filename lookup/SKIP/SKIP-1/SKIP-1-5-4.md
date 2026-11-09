@@ -36,6 +36,7 @@ tags:
 - 战 --> 戦
 - 钟 --> 鐘
 - 钣 --> 板
+- 临 --> 臨
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

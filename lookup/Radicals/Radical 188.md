@@ -18,6 +18,9 @@ tags: [lookup]
 ### +9 Strokes
 3. <ruby>[髄](../../characters/髄.md)<rt>ㄙㄨㄧ</rt></ruby> - marrow
 
+### +11 Strokes
+- 髒 --> 臓
+
 ### Aliases
 - 髓 --> 髄
 - 體 --> 体

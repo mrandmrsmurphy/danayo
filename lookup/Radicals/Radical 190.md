@@ -21,6 +21,7 @@ tags: [lookup]
 - 鬆 --> 松
 - 鬀 --> 剃
 - 鬄 --> 剃
+- 鬒 --> 㐱
 
 ## Data check
 ```dataview

@@ -39,6 +39,10 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
+- 译 --> 訳
+- 诉 --> 訴
+- 评 --> 評
+- 词 --> 詞
 
 ### +1 Stroke
 - 试 --> 試
@@ -170,6 +174,7 @@ tags: [lookup]
 92. <ruby>[譲](../../characters/譲%20(char).md)<rt>ㄋ⼘ㄫ</rt></ruby> - permit
 93. <ruby>[護](../../characters/護.md)<rt>ㄏㄛ</rt></ruby> - safeguard
 - 譱 --> 善
+- 譯 --> 訳
 
 ### +15 Strokes
 - 讀 --> 読

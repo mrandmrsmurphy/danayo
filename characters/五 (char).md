@@ -31,7 +31,7 @@ aliases:
   - 㐅
   - 𠄡
 注音: ㄛ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -49,6 +49,14 @@ boundedness: 75
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 38th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄛ](../syllables/ㄛ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 㐅
+An alternative form of 五, "five". SKIP 4-2-1 (computed: EDRDG does not list it); 2 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.
+
+### 𠄡
+An alternative form of 五 in Japanese. SKIP 4-4-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[五]]<rt>ㄛ</rt></ruby> "five" (stand-in for 五)

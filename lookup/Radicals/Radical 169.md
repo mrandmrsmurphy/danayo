@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### +3 Strokes
 3. <ruby>[閉](../../characters/閉%20(char).md)<rt>ㄅㄝㄧ</rt></ruby> - shut
+- 阋 --> 䦧
 
 ### +4 Strokes
 4. <ruby>[開](../../characters/開%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - open
@@ -54,6 +55,7 @@ tags: [lookup]
 ### +9 Strokes
 17. <ruby>[闊](../../characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad
 - 闆 --> 板
+- 闌 --> 䦨
 
 ### +10 Strokes
 18. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude

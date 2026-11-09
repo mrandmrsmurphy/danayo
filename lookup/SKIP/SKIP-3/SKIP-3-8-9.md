@@ -19,6 +19,7 @@ tags: [lookup]
 ### Aliases
 - 闇 --> 暗
 - 闆 --> 板
+- 闌 --> 䦨
 
 ## Datacheck
 ```dataview

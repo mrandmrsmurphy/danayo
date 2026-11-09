@@ -30,7 +30,7 @@ stand_in: 与
 aliases:
   - 與
 注音: ⼄
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -45,8 +45,13 @@ boundedness: 80
 ## Notes
 - 会意: originally a picture of 牙 ("ivory tusk") being carried on the shoulders (舁, itself made up of [[Radical 134|臼]] "hands" + 廾 "hands"). In the historical Kangxi dictionary, this character is written with four strokes: ⿱⺊⿹𠃌一. In modern Japanese (and hence, Dan'a'yo), the character is written slightly differently, with the final 一 stroke extending across ㇉.
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
-- 32nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](../syllables/⼄.md)
+- 32nd most used character in Classical Chinese (rank belongs to the traditional form 與). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 魚|ɨʌ]] → [⼄](../syllables/⼄.md)
 - [Grade 1](../lookup/Grade%201.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 與
+Traditional form (kyūjitai) of 与, "to give, to join". SKIP 2-11-2; 14 strokes. Radical 134 臼. It ranks 32 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[与]]<rt>⼄</rt></ruby> "and" (stand-in for 与)

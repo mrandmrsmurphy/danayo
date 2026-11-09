@@ -107,6 +107,10 @@ tags:
 - 积 --> 積
 - 继 --> 継
 - 紧 --> 緊
+- 脏 --> 臓
+- ⿱卄両 --> 㒼
+- 预 --> 予
+- 竚 --> 佇
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

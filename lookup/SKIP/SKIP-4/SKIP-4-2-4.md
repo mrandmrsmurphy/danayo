@@ -26,6 +26,10 @@ tags: [lookup]
 ### Aliases
 - 勹 --> 包
 - 厶 --> 私
+- 亻 --> 人
+- 𠆢 --> 人
+- ⺈ --> 人
+- 𠂉 --> 人
 
 ## Datacheck
 ```dataview

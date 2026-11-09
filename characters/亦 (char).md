@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 亦.
 >For the word, see [亦](../words/亦.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-2-4](../lookup/SKIP/SKIP-2/SKIP-2-2-4.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 120th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄜㄎ](../syllables/ㄜㄎ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𠅃
+A rare variant form of 亦; Wiktionary gives no definition. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[亦]]<rt>ㄜㄎ</rt></ruby> "too; also" (stand-in for 亦)

@@ -16,6 +16,7 @@ tags: [lookup]
 - 𠂤 --> 堆
 - 买 --> 買
 - 𠂢 --> 派
+- 𠀚 --> 不
 
 ## Datacheck
 ```dataview

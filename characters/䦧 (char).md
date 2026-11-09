@@ -25,7 +25,7 @@ joyo_level: 表外字
 hsk_level: 無
 hanmun_edu_level: 無
 danayo_id: 8680
-mc_id: 0
+mc_id:
 graphemic_classification: 児
 stand_in: 䦧
 aliases:
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -47,6 +47,15 @@ date-last-perfect: 2026-10-20
 - [SKIP-3-8-8](../lookup/SKIP/SKIP-3/SKIP-3-8-8.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Not attested in the Classical Chinese frequency corpus (genuine `mc_id: 0` sentinel). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄏㄝㄎ](../syllables/ㄏㄝㄎ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 鬩
+Traditional form of 䦧, "to quarrel". SKIP 3-10-8; 18 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 阋
+Simplified Chinese form of 鬩. SKIP 3-3-8 (computed: EDRDG does not list it); 11 strokes. Radical 169 門. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[䦧]]<rt>ㄏㄝㄎ</rt></ruby> "quarrel" (stand-in for 䦧)
 - <ruby>[[䦧神星]]<rt>ㄏㄝㄎㄙㄧㄋㄙㄝㄫ</rt></ruby> "Eris (dwarf planet)"

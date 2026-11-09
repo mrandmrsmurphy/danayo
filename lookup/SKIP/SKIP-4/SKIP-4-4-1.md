@@ -35,6 +35,7 @@ tags: [lookup]
 - 无 --> 無
 - 开 --> 開
 - 电 --> 電
+- 𠄡 --> 五
 
 ## Datacheck
 ```dataview

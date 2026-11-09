@@ -40,6 +40,9 @@ tags: [lookup]
 - 产 --> 産
 - 负 --> 負
 - 军 --> 軍
+- 众 --> 衆
+- 㔺 --> 世
+- 𠅃 --> 亦
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

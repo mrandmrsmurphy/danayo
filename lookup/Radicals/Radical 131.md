@@ -17,6 +17,9 @@ tags: [lookup]
 ### Other
 - [頤](../../characters/頤.md) has this radical as a component, but is not listed under this radical.
 
+### Aliases
+- 臧 --> 臓
+
 ## Data check
 ```dataview
 TABLE english AS "English", stand_in AS "SI", 注音 AS "Sound"

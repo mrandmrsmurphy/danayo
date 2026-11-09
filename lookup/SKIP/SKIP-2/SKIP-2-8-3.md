@@ -30,6 +30,7 @@ tags: [lookup]
 - 𠵊 --> 善
 - 麥 --> 麦
 - 專 --> 専
+- 堊 --> 亜
 
 ## Datacheck
 ```dataview

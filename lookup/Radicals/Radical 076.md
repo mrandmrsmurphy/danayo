@@ -40,6 +40,9 @@ tags: [lookup]
 ### +11 Strokes
 12. <ruby>[歓](../../characters/歓.md)<rt>ㄏ⺢ㄋ</rt></ruby> - glad
 
+### +13 Strokes
+- 歛 --> 㪘
+
 ### +18 Strokes
 - 歡 --> 歓
 

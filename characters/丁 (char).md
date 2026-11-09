@@ -35,7 +35,7 @@ aliases:
   - 𠆤
   - 酊
 注音: ㄉㄝㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -52,6 +52,14 @@ boundedness: 80
 - [SKIP-4-2-1](../lookup/SKIP/SKIP-4/SKIP-4-2-1.md) ([Stroke 02](../lookup/Stroke/Stroke%2002.md))
 - 705th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄉㄝㄫ](../syllables/ㄉㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𠆤
+A rare variant form of 丁; Wiktionary gives no definition. SKIP 2-2-1 (computed: EDRDG does not list it); 3 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+
+### 酊
+酉 + 丁, "heavily intoxicated" (酩酊); built on 丁 as phonetic and kept as an alias. SKIP 1-7-2; 9 strokes. Radical 164 酉. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[丁]]<rt>ㄉㄝㄫ</rt></ruby> "fourth on a list of four" (stand-in for 丁)

@@ -19,6 +19,9 @@ tags: [lookup]
 6. <ruby>[世](characters/世.md)<rt>ㄙㄝ</rt></ruby> "world"
 7. <ruby>[生](characters/生.md)<rt>ㄙㄚㄫ</rt></ruby> "life"
 
+### Aliases
+- 丗 --> 世
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

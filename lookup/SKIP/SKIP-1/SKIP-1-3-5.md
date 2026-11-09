@@ -108,6 +108,7 @@ tags:
 - 咐 --> 付
 - 组 --> 組
 - 织 --> 織
+- 绎 --> 䋇
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

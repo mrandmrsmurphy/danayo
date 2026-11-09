@@ -17,6 +17,7 @@ tags: [lookup]
 - [[Radical 060|彳]] 
 These are both radicals, not characters per se.  
 - 义 --> 義
+- 卫 --> 衛
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

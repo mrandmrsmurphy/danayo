@@ -15,11 +15,15 @@ aliases:
 
 ### +0 Strokes
 1. <ruby>[人](../../characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
+- 亻 --> 人
+- 𠆢 --> 人
+- ⺈ --> 人
 
 ### +1 Stroke
 - 亿 --> 億
 - ¡亽! - 違法字
 - 亼 --> 集
+- 𠆤 --> 丁
 
 ### +2 Strokes
 2. <ruby>[仁](../../characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby> - benevolence
@@ -65,6 +69,8 @@ aliases:
 - 价 --> 価
 - 伟 --> 偉
 - 伤 --> 傷
+- 众 --> 衆
+- 伫 --> 佇
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle
@@ -182,6 +188,7 @@ aliases:
 115. <ruby>[偽](../../characters/偽%20(char).md)<rt>⼔ㄧ</rt></ruby> - false
 - 做 --> 作
 - 脩 --> 修
+- 假 --> 仮
 
 ### +10 Strokes
 116. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great
@@ -206,6 +213,7 @@ aliases:
 - 傳 --> 伝
 - 會 --> 会
 - ¡傻! - 違法字
+- 僉 --> 㑒
 
 ### +12 Strokes
 130. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue

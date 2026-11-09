@@ -33,6 +33,7 @@ tags:
 ### Aliases
 - 语 --> 語
 - 说 --> 説
+- 㐜 --> 仇
 
 ## Datacheck
 ```dataview

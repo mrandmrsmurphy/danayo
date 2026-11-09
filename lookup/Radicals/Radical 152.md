@@ -29,6 +29,9 @@ tags: [lookup]
 5. <ruby>[豪](../../characters/豪.md)<rt>ㄏㄚㄨ</rt></ruby> - magnificent
 6. <ruby>[貌](../../characters/貌.md)<rt>ㄇ⼘</rt></ruby> - appearance
 
+### +8 Strokes
+- 豫 --> 予
+
 ### Aliases
 - 豬 --> 猪
 

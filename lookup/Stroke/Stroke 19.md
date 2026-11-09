@@ -55,6 +55,7 @@ tags:
 - 壞 --> 壊
 - 簸 --> 波
 - 證 --> 証
+- 繹 --> 䋇
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

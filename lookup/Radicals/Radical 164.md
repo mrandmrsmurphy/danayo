@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[酋](../../characters/酋.md)<rt>ㄑㄨㄛ</rt></ruby> - chieftain
+- 酊 --> 丁
 
 ### +3 Strokes
 3. <ruby>[酌](../../characters/酌.md)<rt>ㄐㄚㄎ</rt></ruby> - serve wine

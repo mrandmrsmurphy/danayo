@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[二](../../characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two, and its variants 𠄞, 𠄟, 𠄠
+- 𠄠 --> 二
 
 ### +1 Stroke
 2. <ruby>[于](../../characters/于%20(char).md)<rt>ㄨ</rt></ruby> - to
@@ -27,6 +28,7 @@ Note: 三 is organized under Radical 1.
 - 亖 --> variant of 四
 - 亓 --> variant of 其
 - 云 --> variant of 雲
+- 𠄡 --> 五
 
 ### +3 Strokes
 - 亗 --> variant of 歳
@@ -35,6 +37,7 @@ Note: 三 is organized under Radical 1.
 6. <ruby>[亘](../../characters/亘%20(char).md)<rt>ㄏ⺢ㄋ</rt></ruby> - swirl
 7. <ruby>[亙](../../characters/亙%20(char).md)<rt>ㄍㄨㄫ</rt></ruby> - across
 - 亚 --> variant of 亜
+- 亚 --> 亜
 
 ### +5 Strokes
 8. <ruby>[亜](../../characters/亜.md)<rt>ㄚ</rt></ruby> - secondary
@@ -44,6 +47,7 @@ Note: 三 is organized under Radical 1.
 - 亝 --> variant of 斉
 - 亞 --> variant of 亜
 - forbidden 亟
+- 亞 --> 亜
 
 ### Forbidden
 - 亍 - 국자: Korean place names 촉

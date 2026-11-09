@@ -54,6 +54,8 @@ tags:
 - 辑 --> 集
 - 牎 --> 窓
 - 腦 --> 脳
+- 旒 --> 㐬
+- 預 --> 予
 
 ### Forbidden
 - 榌 - 국자: Korean-coined hanja for 'wooden ladder', 비

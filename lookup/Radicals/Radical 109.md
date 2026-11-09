@@ -33,6 +33,7 @@ tags:
 ### +6 Strokes
 13. <ruby>[眺](../../characters/眺.md)<rt>ㄊㄛㄨ</rt></ruby> - stare
 14. <ruby>[眼](../../characters/眼.md)<rt>ㄚㄋ</rt></ruby> - eyeball
+- 眾 --> 衆
 
 ### +7 Strokes
 15. <ruby>[着](../../characters/着%20(char).md)<rt>ㄐ⺢ㄎ</rt></ruby> - wear

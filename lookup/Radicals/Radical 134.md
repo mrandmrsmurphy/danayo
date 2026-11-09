@@ -18,6 +18,7 @@ date-last-perfect: 2026-10-05
 - 舉 --> 挙
 - 舊 --> 旧
 - 臾 --> 庾
+- 與 --> 与
 
 ## Data check
 ```dataview

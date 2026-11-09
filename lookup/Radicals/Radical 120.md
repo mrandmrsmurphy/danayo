@@ -23,6 +23,7 @@ tags: [lookup]
 - 线 --> 線
 - 组 --> 組
 - 织 --> 織
+- 绎 --> 䋇
 
 ### +3 Strokes
 3. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
@@ -145,6 +146,7 @@ tags: [lookup]
 
 ### +13 Strokes
 82. <ruby>[繰](../../characters/繰%20(char).md)<rt>ㄐㄚㄨ</rt></ruby> - reel
+- 繹 --> 䋇
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile

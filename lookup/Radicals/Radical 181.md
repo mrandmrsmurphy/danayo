@@ -17,6 +17,9 @@ tags: [lookup]
 - 顺 --> 順
 - 须 --> 須
 
+### +1 Stroke
+- 预 --> 予
+
 ### +2 Strokes
 2. <ruby>[頂](../../characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> - peak
 3. <ruby>[頃](../../characters/頃%20(char).md)<rt>ㄎㄝㄫ</rt></ruby> - moment
@@ -32,6 +35,7 @@ tags: [lookup]
 8. <ruby>[頑](../../characters/頑.md)<rt>⺢ㄋ</rt></ruby> - stubborn
 9. <ruby>[頒](../../characters/頒.md)<rt>ㄆㄚㄋ</rt></ruby> - confer
 10. <ruby>[頓](../../characters/頓.md)<rt>ㄊㄛㄋ</rt></ruby> - suddenly
+- 預 --> 予
 
 ### +5 Strokes
 11. <ruby>[領](../../characters/領.md)<rt>ㄌㄧㄫ</rt></ruby> - territory

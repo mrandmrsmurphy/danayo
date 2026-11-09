@@ -27,6 +27,9 @@ tags: [lookup]
 6. <ruby>[旋](../../characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> - revolve
 7. <ruby>[族](../../characters/族.md)<rt>ㄐㄛㄎ</rt></ruby> - tribe
 
+### +9 Strokes
+- 旒 --> 㐬
+
 ### +10 Strokes
 8. <ruby>[旗](../../characters/旗.md)<rt>ㄎㄧ</rt></ruby> - banner
 

@@ -39,6 +39,7 @@ tags: [lookup]
 11. <ruby>[教](../../characters/教.md)<rt>ㄍ⼄ㄨ</rt></ruby> - teach
 12. <ruby>[敬](../../characters/敬.md)<rt>ㄍ⼶ㄫ</rt></ruby> - respect
 - 敝 --> 蔽
+- 敛 --> 㪘
 
 ### +8 Strokes
 13. <ruby>[敢](../../characters/敢.md)<rt>ㄍㄚㄇ</rt></ruby> - dare to
@@ -59,6 +60,9 @@ tags: [lookup]
 
 ### +12 Strokes
 21. <ruby>[整](../../characters/整%20(char).md)<rt>ㄐㄝㄫ</rt></ruby> - orderly
+
+### +13 Strokes
+- 斂 --> 㪘
 
 ### +14 Strokes
 - 斃 --> 蔽

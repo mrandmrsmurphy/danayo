@@ -16,6 +16,13 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[見](../../characters/見%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - see
 
+### +1 Stroke
+- 规 --> 規
+
+### +2 Strokes
+- 觉 --> 覚
+- 览 --> 覧
+
 ### +4 Strokes
 2. <ruby>[規](../../characters/規.md)<rt>ㄍㄨㄧ</rt></ruby> - rules
 3. <ruby>[視](../../characters/視%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - look at
@@ -32,6 +39,12 @@ tags: [lookup]
 
 ### +11 Strokes
 8. <ruby>[観](../../characters/観.md)<rt>ㄍ⺢ㄋ</rt></ruby> - observe
+
+### +13 Strokes
+- 覺 --> 覚
+
+### +14 Strokes
+- 覽 --> 覧
 
 ### +18 Strokes
 - 觀 --> 観

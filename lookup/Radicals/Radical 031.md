@@ -34,6 +34,7 @@ tags: [lookup]
 ### +5 Strokes
 10. <ruby>[固](../../characters/固.md)<rt>ㄍㄛ</rt></ruby> - solid
 11. <ruby>[国](../../characters/国.md)<rt>ㄍㄛㄎ</rt></ruby> - nation
+- 囹 --> 令
 
 ### +7 Strokes
 12. <ruby>[圃](../../characters/圃.md)<rt>ㄅㄛ</rt></ruby> - seedbed

@@ -41,7 +41,7 @@ aliases:
   - 囹
 注音: "ㄌㄝㄫ"
 kwin: false
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 tags:
   - character
 boundedness: 85
@@ -58,6 +58,11 @@ boundedness: 85
 - [SKIP-2-2-3](../lookup/SKIP/SKIP-2/SKIP-2-2-3.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 88th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄌㄝㄫ](../syllables/ㄌㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 囹
+囗 + 令, "prison" (囹圄); built on 令 as phonetic and kept as an alias. SKIP 3-3-5; 8 strokes. Radical 031 囗. It ranks 3207 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[令]]<rt>ㄌㄝㄫ</rt></ruby> "cause"

@@ -28,7 +28,7 @@ danayo_id: 2001
 mc_id: 2
 graphemic_classification: 象形
 stand_in: 不
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 aliases:
   - 𠀚
   - 𠙐
@@ -50,6 +50,14 @@ boundedness: 50
 - [SKIP-4-4-1](../lookup/SKIP/SKIP-4/SKIP-4-4-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 2nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄅㄛㄊ](../syllables/ㄅㄛㄊ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 𠀚
+A rare variant form of 不; Wiktionary gives no definition. SKIP 2-1-5 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𠙐
+A rare variant form of 不; Wiktionary gives no definition. SKIP 2-2-7 (computed: EDRDG does not list it); 9 strokes. Radical 016 几. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[不]]<rt>ㄅㄛㄊ</rt></ruby> "not" (stand-in for 不)
