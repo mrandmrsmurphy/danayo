@@ -29,8 +29,6 @@ danayo_id: 15
 mc_id: 15
 graphemic_classification: "象形"
 stand_in: "大"
-aliases:
-  - 亣
 注音: "ㄉㄚㄧ"
 date-last-perfect: 2026-11-09
 kwin: true
@@ -49,11 +47,6 @@ boundedness: 90
 - [SKIP-4-3-4](../lookup/SKIP/SKIP-4/SKIP-4-3-4.md) ([Stroke 03](../lookup/Stroke/Stroke%2003.md))
 - 15th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄉㄚㄧ](../syllables/ㄉㄚㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md) (1), [Korean MS](../lookup/Korean/Korean%20MS.md)
-
-## Aliases
-
-### 亣
-A rare variant form of 大; Wiktionary gives no definition. SKIP 4-4-1 (computed: EDRDG does not list it); 4 strokes. Radical 008 亠. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[大]]<rt>ㄉㄚㄧ</rt></ruby> "big" (stand-in for 大)

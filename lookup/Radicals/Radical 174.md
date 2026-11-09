@@ -12,10 +12,6 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[青](../../characters/青%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - blue
 
-### +4 Strokes
-- 𩇗 --> 天
-- 靔 --> 天
-
 ### +5 Strokes
 2. <ruby>[靖](../../characters/靖.md)<rt>ㄐㄧㄫ</rt></ruby> - pacify
 
@@ -24,7 +20,6 @@ tags: [lookup]
 
 ### +8 Strokes
 - 靜 --> 静
-- 𩇞 --> 天
 
 ### +10 Strokes
 - 靝 --> 天

@@ -16,12 +16,10 @@ tags: [lookup]
 
 ### +3 Strokes
 3. <ruby>[写](../../characters/写.md)<rt>ㄙ⼘</rt></ruby> - copy
-- 𠕷 --> 安
 
 ### +4 Strokes
 - 农 --> 農
 - 军 --> 軍
-- 𠕹 --> 天
 
 ### +7 Strokes
 4. <ruby>[冒](../../characters/冒.md)<rt>ㄇㄚㄨ</rt></ruby> - take a risk

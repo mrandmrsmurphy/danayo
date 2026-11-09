@@ -30,7 +30,6 @@ graphemic_classification: 指事
 stand_in: 二
 aliases:
   - 弍
-  - 𠄠
 date-last-perfect: 2026-11-09
 注音: ㄋㄧㄜ
 kwin: false
@@ -54,9 +53,6 @@ boundedness: 80
 
 ### 弍
 A formal (financial) numeral "two"; kept as an alias of 二. SKIP 3-3-2; 5 strokes. Radical 056 弋. It has no rank of its own in the Classical Chinese lists.
-
-### 𠄠
-A rare variant form of 二; Wiktionary gives no definition. SKIP 2-1-1 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[二]]<rt>ㄋㄧㄜ</rt></ruby> "two" (stand-in for 二)

@@ -32,7 +32,7 @@ aliases:
   - 孃
   - 嬢
 注音: ㄋㄚㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -51,6 +51,14 @@ boundedness: 80
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 5193rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 娘|ɳ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋㄚㄫ](../syllables/ㄋㄚㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md) — similar in sense to [[処女]] (virgin), but not identical.
+
+## Aliases
+
+### 孃
+女 + 襄, "mother"; a variant of 娘 and kept as an alias. SKIP 1-3-17; 20 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 嬢
+The Japanese form of 孃, "young lady". SKIP 1-3-13; 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[娘]]<rt>ㄋㄚㄫ</rt></ruby> "young woman" (stand-in for 娘 (char))

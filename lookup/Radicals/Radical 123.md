@@ -28,17 +28,10 @@ tags: [lookup]
 6. <ruby>[群](../../characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> - flock
 7. <ruby>[羨](../../characters/羨.md)<rt>ㄧㄜ</rt></ruby> - envy
 8. <ruby>[義](../../characters/義.md)<rt>ㄜㄧ</rt></ruby> - meaning
-- 𦎍 --> 善
 - 羣 --> 群
 
 ### +13 Strokes
 9. <ruby>[羸](../../characters/羸.md)<rt>ㄌㄨㄧ</rt></ruby> - weakness
-
-### +14 Strokes
-- 𦏟 --> 善
-
-### +21 Strokes
-- 𦏯 --> 善
 
 ### Aliases
 - 羔 --> 皐

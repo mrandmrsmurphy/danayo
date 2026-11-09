@@ -77,15 +77,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 勢 | 势 | 2-6-2 | computed from its parts |
 | 勧 | 劝 | 1-2-2 | computed from its parts |
 | 協 | 协 | 1-2-4 | computed from its parts |
-| 善 (char) | 𠲘 | 2-6-3 | computed from its parts |
-| 善 (char) | 𠵊 | 2-8-3 | computed from its parts |
-| 善 (char) | 𠾄 | 2-12-3 | computed from its parts |
-| 善 (char) | 𦎍 | 2-6-7 | computed from its parts |
-| 善 (char) | 𦏟 | 2-6-14 | computed from its parts |
-| 善 (char) | 𦏯 | 2-6-21 | computed from its parts |
-| 善 (char) | 𧨅 | 2-7-7 | computed from its parts |
-| 善 (char) | 𧬆 | 2-7-12 | computed from its parts |
-| 善 (char) | 𧮟 | 2-7-20 | computed from its parts |
 | 喪 | 丧 | 2-1-7 | computed from its parts |
 | 圧 (char) | 压 | 3-2-4 | computed from its parts |
 | 執 | 执 | 1-3-3 | computed from its parts |
@@ -93,8 +84,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 堅 | 鲣 | 1-8-7 | computed from its parts |
 | 塊 (char) | 块 | 1-3-4 | computed from its parts |
 | 孫 | 孙 | 1-3-3 | computed from its parts |
-| 安 | 𠕷 | 2-2-3 | computed from its parts |
-| 安 | 𡚴 | 2-3-3 | computed from its parts |
 | 宗 | 㚇 | 2-3-6 | computed from its parts |
 | 層 (char) | 层 | 3-3-4 | computed from its parts |
 | 帯 (char) | 带 | 2-6-3 | computed from its parts |
@@ -111,14 +100,7 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 産 | 產 | 3-6-5 | computed from its parts |
 | 産 | 产 | 2-2-4 | computed from its parts |
 | 県 (char) | 县 | 2-5-2 | computed from its parts |
-| 礼 (char) | 𥜪 | 1-5-17 | computed from its parts |
-| 窓 | 䆫 | 2-3-11 | computed from its parts |
 | 窓 | 囪 | 3-3-4 | computed from its parts |
-| 窓 | 𤗄 | 1-4-7 | computed from its parts |
-| 窓 | 𪺠 | 1-4-11 | computed from its parts |
-| 窓 | 𤗉 | 1-4-8 | computed from its parts |
-| 窓 | 𮈾 | 1-6-11 | computed from its parts |
-| 窓 | 𡆧 | 3-3-3 | computed from its parts |
 | 競 | 竞 | 2-5-5 | computed from its parts |
 | 終 | 终 | 1-3-5 | computed from its parts |
 | 給 | 给 | 1-3-6 | computed from its parts |
@@ -166,14 +148,12 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 難 | 难 | 1-2-8 | computed from its parts |
 | 順 | 顺 | 1-3-6 | computed from its parts |
 | 題 | 题 | 1-9-6 | computed from its parts |
-| 願 | 𫖸 | 1-10-6 | computed from its parts |
 | 類 | 类 | 2-6-3 | computed from its parts |
 | 飲 (char) | 饮 | 1-3-4 | computed from its parts |
 | 養 | 养 | 2-3-6 | computed from its parts |
 | 実 | 实 | 2-3-5 | computed from its parts |
 | 倉 | 仓 | 2-2-2 | computed from its parts |
 | 値 | 值 | 1-2-8 | computed from its parts |
-| 免 | 𬵑 | 1-11-5 | computed from its parts |
 | 剛 | 刚 | 1-4-2 | computed from its parts |
 | 創 | 创 | 1-4-2 | computed from its parts |
 | 区 | 妪 | 1-3-4 | computed from its parts |
@@ -185,22 +165,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 奮 | 奋 | 2-3-5 | computed from its parts |
 | 宮 | 宫 | 2-3-6 | computed from its parts |
 | 専 | 专 | 2-2-2 | computed from its parts |
-| 尊 | 𡭆 | 2-3-12 | computed from its parts |
-| 尊 | 𢍜 | 2-3-9 | computed from its parts |
-| 尊 | 𥈪 | 1-5-9 | computed from its parts |
 | 尊 | 鳟 | 1-8-12 | computed from its parts |
 | 帳 | 帐 | 1-3-4 | computed from its parts |
 | 幼 | 㓜 | 1-3-2 | computed from its parts |
 | 庁 | 厅 | 3-2-2 | computed from its parts |
 | 庫 | 库 | 3-3-4 | computed from its parts |
-| 志 | 𢖽 | 2-3-3 | computed from its parts |
 | 悦 | 悅 | 1-3-7 | computed from its parts |
 | 態 | 态 | 2-4-4 | computed from its parts |
 | 慣 | 惯 | 1-3-8 | computed from its parts |
 | 憶 | 忆 | 1-3-1 | computed from its parts |
 | 敵 | 敌 | 1-6-4 | computed from its parts |
 | 既 | 旣 | 1-5-6 | computed from its parts |
-| 曲 | 𡆪 | 3-3-3 | computed from its parts |
 | 権 | 权 | 1-4-2 | computed from its parts |
 | 歓 | 欢 | 1-2-4 | computed from its parts |
 | 歳 | 歲 | 2-4-9 | computed from its parts |
@@ -235,8 +210,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 派 | 𠂢 | 2-1-5 | computed from its parts |
 | 温 | 溫 | 1-3-10 | computed from its parts |
 | 測 | 测 | 1-3-6 | computed from its parts |
-| 港 | 𣽣 | 1-3-12 | computed from its parts |
-| 港 | 𣿑 | 1-3-13 | computed from its parts |
 | 状 | 狀 | 1-4-4 | computed from its parts |
 | 礎 | 础 | 1-5-5 | computed from its parts |
 | 積 | 积 | 1-5-5 | computed from its parts |
@@ -246,7 +219,6 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 組 | 组 | 1-3-5 | computed from its parts |
 | 継 | 继 | 1-3-7 | computed from its parts |
 | 緊 | 紧 | 2-4-6 | computed from its parts |
-| 総 | 𰬥 | 1-3-8 | computed from its parts |
 | 総 | 总 | 2-5-4 | computed from its parts |
 | 編 | 编 | 1-3-9 | computed from its parts |
 | 績 | 绩 | 1-3-8 | computed from its parts |
@@ -264,34 +236,21 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 評 | 评 | 1-2-5 | computed from its parts |
 | 詞 | 词 | 1-2-5 | computed from its parts |
 | 㒼 | 䓣 | 2-3-9 | computed from its parts |
-| 㒼 | 𬜯 | 2-3-8 | computed from its parts |
 | 㪘 (char) | 敛 | 1-7-4 | computed from its parts |
 | 䋇 (char) | 绎 | 1-3-5 | computed from its parts |
 | 䔥 | 萧 | 2-3-9 | computed from its parts |
 | 䦧 (char) | 阋 | 3-3-8 | computed from its parts |
-| 丁 (char) | 𠆤 | 2-2-1 | computed from its parts |
 | 丈 (char) | 𠀋 | 4-3-1 | computed from its parts |
-| 不 (char) | 𠀚 | 2-1-5 | computed from its parts |
-| 不 (char) | 𠙐 | 2-2-7 | computed from its parts |
-| 世 | 㔺 | 2-2-4 | computed from its parts |
-| 乖 | 𠂯 | 4-7-3 | computed from its parts |
 | 予 | 预 | 1-4-6 | computed from its parts |
-| 二 (char) | 𠄠 | 2-1-1 | computed from its parts |
 | 于 (char) | 亐 | 4-3-1 | computed from its parts |
 | 五 (char) | 㐅 | 4-2-1 | computed from its parts |
 | 五 (char) | 𠄡 | 4-4-1 | computed from its parts |
 | 亜 | 亚 | 4-6-1 | computed from its parts |
-| 亦 (char) | 𠅃 | 2-2-4 | computed from its parts |
 | 人 (char) | 亻 | 4-2-4 | computed from its parts |
-| 人 (char) | 𠆢 | 4-2-4 | computed from its parts |
-| 人 (char) | ⺈ | 4-2-4 | computed from its parts |
 | 人 (char) | 𠂉 | 4-2-4 | computed from its parts |
 | 仇 | 㐜 | 1-2-7 | computed from its parts |
 | 佇 | 伫 | 1-2-4 | computed from its parts |
 | 侶 | 侣 | 1-2-6 | computed from its parts |
-| 俎 | 𤕲 | 1-4-5 | computed from its parts |
-| 俎 | 𮀀 | 1-5-5 | computed from its parts |
-| 倚 (char) | 𠋣 | 1-2-9 | computed from its parts |
 | 倫 | 伦 | 1-2-4 | computed from its parts |
 | 偵 (char) | 侦 | 1-2-6 | computed from its parts |
 | 偷 | 媮 | 1-3-9 | computed from its parts |
@@ -306,111 +265,69 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 兪 (char) | 俞 | 1-2-7 | computed from its parts |
 | 兪 (char) | 榆 | 1-4-9 | computed from its parts |
 | 冗 (char) | 宂 | 2-3-2 | computed from its parts |
-| 冥 (char) | 慏 | 1-3-10 | computed from its parts |
 | 凍 | 冻 | 1-2-5 | computed from its parts |
-| 凰 | 䳨 | 1-9-11 | computed from its parts |
-| 凰 | 𬸛 | 1-9-5 | computed from its parts |
 | 凱 | 凯 | 1-6-2 | computed from its parts |
-| 函 | 圅 | 3-3-7 | computed from its parts |
 | 刮 | 颳 | 1-6-9 | computed from its parts |
 | 刹 | 剎 | 1-6-3 | computed from its parts |
 | 勁 | 劲 | 1-5-2 | computed from its parts |
 | 動 (char) | 动 | 1-4-2 | computed from its parts |
-| 動 (char) | 𨔝 | 3-3-9 | computed from its parts |
-| 動 (char) | 㣫 | 1-3-9 | computed from its parts |
 | 動 (char) | 恸 | 1-3-6 | computed from its parts |
-| 動 (char) | 𢣛 | 1-3-14 | computed from its parts |
 | 勲 (char) | 勋 | 1-7-2 | computed from its parts |
 | 卍 | 卐 | 4-4-1 | computed from its parts |
 | 卓 | 㔬 | 2-2-6 | computed from its parts |
-| 卓 | 龺 | 2-6-2 | computed from its parts |
-| 卜 | 𠁡 | 4-2-4 | computed from its parts |
-| 卜 | 𠁢 | 4-2-4 | computed from its parts |
 | 卸 (char) | 缷 | 1-6-2 | computed from its parts |
 | 厩 | 廄 | 3-3-9 | computed from its parts |
-| 叚 | 𠭊 | 1-6-4 | computed from its parts |
 | 叢 | 丛 | 2-1-4 | computed from its parts |
 | 叢 | 菆 | 2-3-9 | computed from its parts |
 | 叱 | 𠮟 | 1-3-2 | computed from its parts |
 | 叵 | 尀 | 3-3-5 | computed from its parts |
 | 名 (char) | 洺 | 1-3-6 | computed from its parts |
-| 吾 | 𠮣 | 1-3-2 | computed from its parts |
-| 吾 | 𭇁 | 1-3-3 | computed from its parts |
 | 呂 | 吕 | 2-3-3 | computed from its parts |
 | 呉 | 吳 | 2-3-4 | computed from its parts |
 | 呑 | 吞 | 2-4-3 | computed from its parts |
 | 呕 | 㰶 | 1-8-4 | computed from its parts |
-| 呻 | 𣢘 | 1-4-5 | computed from its parts |
-| 呻 | 㕥 | 1-3-2 | computed from its parts |
-| 呻 | 𠲳 | 1-3-7 | computed from its parts |
-| 呻 | 𤶴 | 3-5-7 | computed from its parts |
 | 咬 (char) | 啮 | 1-3-8 | computed from its parts |
-| 咬 (char) | 𪘂 | 1-8-10 | computed from its parts |
 | 唄 (char) | 呗 | 1-3-4 | computed from its parts |
 | 唖 | 哑 | 1-3-6 | computed from its parts |
 | 唖 | 痖 | 3-5-6 | computed from its parts |
 | 啓 | 啟 | 2-8-3 | computed from its parts |
-| 啼 | 㖒 | 1-3-7 | computed from its parts |
 | 啼 | 㖷 | 1-3-9 | computed from its parts |
 | 喀 | 䘔 | 1-6-9 | computed from its parts |
-| 喊 | 㘕 | 1-3-18 | computed from its parts |
-| 喧 | 吅 | 2-3-3 | computed from its parts |
 | 喩 | 喻 | 1-3-9 | computed from its parts |
 | 喬 | 乔 | 2-4-2 | computed from its parts |
 | 営 | 营 | 2-3-10 | computed from its parts |
 | 嗇 | 啬 | 2-5-6 | computed from its parts |
 | 嗚 | 呜 | 1-3-4 | computed from its parts |
-| 嗣 | 孠 | 2-3-5 | computed from its parts |
 | 嘆 (char) | 叹 | 1-3-2 | computed from its parts |
 | 嘩 | 哗 | 1-3-6 | computed from its parts |
 | 嘲 | 謿 | 1-7-12 | computed from its parts |
 | 嘴 | 㭰 | 1-4-7 | computed from its parts |
 | 噴 | 喷 | 1-3-9 | computed from its parts |
-| 四 (char) | 龱 | 3-3-2 | computed from its parts |
-| 四 (char) | 𠁤 | 3-3-2 | computed from its parts |
-| 四 (char) | 𠃢 | 2-1-4 | computed from its parts |
-| 四 (char) | 𦉭 | 2-2-3 | computed from its parts |
 | 囧 | 臦 | 1-6-6 | computed from its parts |
-| 囧 | 臩 | 1-6-11 | computed from its parts |
 | 圓 (char) | 圆 | 3-3-7 | computed from its parts |
 | 土 (char) | 圡 | 2-3-1 | computed from its parts |
-| 土 (char) | 𡈽 | 2-1-3 | computed from its parts |
 | 圭 | 鲑 | 1-8-6 | computed from its parts |
 | 坦 | 憻 | 1-3-13 | computed from its parts |
 | 垢 | 坸 | 1-3-5 | computed from its parts |
-| 垢 | 𡊦 | 1-3-5 | computed from its parts |
 | 埠 | 埗 | 1-3-7 | computed from its parts |
 | 塔 (char) | 㙮 | 1-3-12 | computed from its parts |
-| 塔 (char) | 𩫊 | 1-10-5 | computed from its parts |
 | 塞 | 𡨄 | 2-3-7 | computed from its parts |
 | 塩 (char) | 盐 | 2-6-4 | computed from its parts |
 | 墊 (char) | 垫 | 1-3-6 | computed from its parts |
 | 墜 | 坠 | 2-4-3 | computed from its parts |
 | 墳 | 坟 | 1-3-4 | computed from its parts |
 | 墾 | 垦 | 2-6-3 | computed from its parts |
-| 壅 (char) | 㙲 | 1-3-13 | computed from its parts |
 | 壇 (char) | 坛 | 1-3-4 | computed from its parts |
 | 壷 (char) | 壶 | 2-3-7 | computed from its parts |
 | 夜 (char) | 亱 | 2-2-7 | computed from its parts |
-| 大 (char) | 亣 | 4-4-1 | computed from its parts |
-| 天 (char) | 𠀘 | 2-1-5 | computed from its parts |
-| 天 (char) | 𠀡 | 2-1-6 | computed from its parts |
-| 天 (char) | 𠑺 | 2-2-4 | computed from its parts |
-| 天 (char) | 兲 | 2-2-4 | computed from its parts |
-| 天 (char) | 𠕹 | 2-2-4 | computed from its parts |
 | 天 (char) | 㕦 | 1-3-3 | computed from its parts |
-| 天 (char) | 䒶 | 2-3-7 | computed from its parts |
-| 天 (char) | 𦴞 | 2-3-10 | computed from its parts |
-| 天 (char) | 𩇗 | 2-8-4 | computed from its parts |
-| 天 (char) | 𩇞 | 2-8-8 | computed from its parts |
 | 天 (char) | 靝 | 1-8-10 | computed from its parts |
-| 天 (char) | 靔 | 1-8-4 | computed from its parts |
-| 天 (char) | 𠀑 | 2-1-4 | computed from its parts |
-| 套 (char) | 㚐 | 2-3-3 | computed from its parts |
-| 套 (char) | 𡘷 | 2-3-8 | computed from its parts |
 | 奨 | 奖 | 2-6-3 | computed from its parts |
 | 奨 | 㢡 | 2-3-11 | computed from its parts |
 | 奪 | 夺 | 2-3-3 | computed from its parts |
-| 奴 | 㚢 | 1-3-2 | computed from its parts |
 | 妍 | 姸 | 1-3-6 | computed from its parts |
-| 妍 | 蔅 | 2-3-11 | computed from its parts |
+| 姫 (char) | 姬 | 1-3-7 | computed from its parts |
+| 娯 | 娛 | 1-3-7 | computed from its parts |
+| 娯 | 娱 | 1-3-7 | computed from its parts |
+| 婉 | 䛷 | 1-7-8 | computed from its parts |
+| 婉 | 䩊 | 1-9-8 | computed from its parts |

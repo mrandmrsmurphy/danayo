@@ -21,9 +21,6 @@ tags: [lookup]
 3. <ruby>[欣](../../characters/欣.md)<rt>ㄏㄧㄋ</rt></ruby> - happy
 4. <ruby>[欧](../../characters/欧.md)<rt>ㄛㄨ</rt></ruby> - Europe
 
-### +5 Strokes
-- 𣢘 --> 呻
-
 ### +7 Strokes
 5. <ruby>[欲](../../characters/欲.md)<rt>⼄ㄎ</rt></ruby> - desire
 - 欸 --> 唉

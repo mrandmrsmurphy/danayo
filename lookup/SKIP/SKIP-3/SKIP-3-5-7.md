@@ -20,7 +20,6 @@ tags: [lookup]
 - 𫌷 - 国字: 'telegram', from 電信
 
 ### Aliases
-- 𤶴 --> 呻
 
 ## Datacheck
 ```dataview

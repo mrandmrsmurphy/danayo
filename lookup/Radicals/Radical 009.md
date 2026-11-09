@@ -16,14 +16,11 @@ aliases:
 ### +0 Strokes
 1. <ruby>[人](../../characters/人%20(char).md)<rt>ㄋㄧㄋ</rt></ruby> - person
 - 亻 --> 人
-- 𠆢 --> 人
-- ⺈ --> 人
 
 ### +1 Stroke
 - 亿 --> 億
 - ¡亽! - 違法字
 - 亼 --> 集
-- 𠆤 --> 丁
 
 ### +2 Strokes
 2. <ruby>[仁](../../characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby> - benevolence
@@ -210,7 +207,6 @@ aliases:
 - 做 --> 作
 - 脩 --> 修
 - 假 --> 仮
-- 𠋣 --> 倚
 - 偸 --> 偷
 - 偿 --> 償
 - 偃 --> 堰

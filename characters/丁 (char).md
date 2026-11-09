@@ -32,7 +32,6 @@ mc_id: 705
 graphemic_classification: 象形
 stand_in: 丁
 aliases:
-  - 𠆤
   - 酊
 注音: ㄉㄝㄫ
 date-last-perfect: 2026-11-09
@@ -54,9 +53,6 @@ boundedness: 80
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
 ## Aliases
-
-### 𠆤
-A rare variant form of 丁; Wiktionary gives no definition. SKIP 2-2-1 (computed: EDRDG does not list it); 3 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ### 酊
 酉 + 丁, "heavily intoxicated" (酩酊); built on 丁 as phonetic and kept as an alias. SKIP 1-7-2; 9 strokes. Radical 164 酉. It has no rank of its own in the Classical Chinese lists.

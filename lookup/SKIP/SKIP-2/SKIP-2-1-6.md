@@ -17,7 +17,6 @@ tags: [lookup]
 4. <ruby>[豆](characters/豆%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> "bean"
 
 ### Aliases
-- 𠀡 --> 天
 
 ## Datacheck
 ```dataview

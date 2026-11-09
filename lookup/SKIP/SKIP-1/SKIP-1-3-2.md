@@ -36,11 +36,8 @@ tags:
 - 汉 --> 漢
 - 㓜 --> 幼
 - 𠮟 --> 叱
-- 𠮣 --> 吾
-- 㕥 --> 呻
 - 叹 --> 嘆
 - 夘 --> 夗
-- 㚢 --> 奴
 
 ### Forbidden
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.

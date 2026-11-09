@@ -43,7 +43,6 @@ tags: [lookup]
 
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide
-- 𡭆 --> 尊
 
 ### Aliases
 - 导 --> 導

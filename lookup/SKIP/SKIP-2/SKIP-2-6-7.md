@@ -22,7 +22,6 @@ tags: [lookup]
 ### Aliases
 - 筺 --> 筐
 - 畵 --> 画
-- 𦎍 --> 善
 - 简 --> 簡
 
 ### Forbidden

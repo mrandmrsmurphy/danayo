@@ -29,8 +29,6 @@ danayo_id: 28
 mc_id: 53
 graphemic_classification: 指事
 stand_in: 太
-aliases:
-  - 冭
 注音: ㄊㄚㄧ
 kwin: true
 date-last-perfect: 2026-11-09
@@ -49,11 +47,6 @@ boundedness: 90
 - [SKIP-2-3-1](../lookup/SKIP/SKIP-2/SKIP-2-3-1.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 53rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 泰開|ɑi]] → [ㄊㄚㄧ](../syllables/ㄊㄚㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
-
-## Aliases
-
-### 冭
-A variant form of 太; Wiktionary gives no definition. SKIP 2-3-2; 5 strokes. Radical 015 冫. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[太]]<rt>ㄊㄚㄧ</rt></ruby> "very; extremely; excessively"

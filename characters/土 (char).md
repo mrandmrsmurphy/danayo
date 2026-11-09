@@ -29,7 +29,6 @@ graphemic_classification: 象形
 stand_in: 土
 aliases:
   - 圡
-  - 𡈽
 注音: ㄊㄛ
 date-last-perfect: 2026-11-09
 kwin: true
@@ -55,9 +54,6 @@ boundedness: 90
 
 ### 圡
 A variant form of 土, "soil". SKIP 2-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𡈽
-A rare variant form of 土; Wiktionary gives no definition. SKIP 2-1-3 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[土]]<rt>ㄊㄛ</rt></ruby> "earth" (stand-in for 土)

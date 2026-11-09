@@ -32,7 +32,6 @@ tags: [lookup]
 10. <ruby>[痛](../../characters/痛.md)<rt>ㄊㄛㄫ</rt></ruby> - torment
 11. <ruby>[痢](../../characters/痢.md)<rt>ㄌㄧㄜ</rt></ruby> - diarrhea
 12. <ruby>[痩](../../characters/痩%20(char).md)<rt>ㄙ⼜</rt></ruby> - thin
-- 𤶴 --> 呻
 
 ### +8 Strokes
 13. <ruby>[痰](../../characters/痰%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - phlegm

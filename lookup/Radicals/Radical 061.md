@@ -19,7 +19,6 @@ tags: [lookup]
 
 ### +2 Strokes
 3. <ruby>[忙](../../characters/忙.md)<rt>ㄇㄚㄫ</rt></ruby> - busy
-- 𢖽 --> 志
 
 ### +3 Strokes
 4. <ruby>[忌](../../characters/忌.md)<rt>ㄍㄧ</rt></ruby> - taboo
@@ -121,7 +120,6 @@ tags: [lookup]
 73. <ruby>[慈](../../characters/慈.md)<rt>ㄐㄧ</rt></ruby> - kind
 74. <ruby>[慎](../../characters/慎.md)<rt>ㄙㄧㄋ</rt></ruby> - cautious
 75. <ruby>[慨](../../characters/慨%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - sigh
-- 慏 --> 冥
 
 ### +10 Strokes
 76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity
@@ -163,7 +161,6 @@ tags: [lookup]
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
-- 𢣛 --> 動
 
 ### +14 Strokes
 103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish

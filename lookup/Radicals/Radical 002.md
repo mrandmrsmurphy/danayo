@@ -12,8 +12,6 @@ Radical 2 is 丨, a vertical bar, 1 stroke; it is a component only and is not a 
 _no +0, because it is not a stand-alone character_
 ### +1 Stroke
 - forbidden 丩
-- 𠁡 --> 卜
-- 𠁢 --> 卜
 ### +2 Strokes
 - 个 --> 個
 - forbidden 㐃

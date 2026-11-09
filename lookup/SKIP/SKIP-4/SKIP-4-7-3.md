@@ -22,7 +22,6 @@ tags: [lookup]
 
 ### Aliases
 - 亊 --> 事
-- 𠂯 --> 乖
 
 ## Datacheck
 ```dataview

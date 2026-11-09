@@ -31,7 +31,6 @@ aliases:
   - 溟
   - 暝
   - 瞑
-  - 慏
 注音: ㄇㄝㄫ
 kwin: false
 tags:
@@ -62,9 +61,6 @@ date-last-perfect: 2026-11-09
 
 ### 瞑
 目 + 冥, "to close the eyes"; built on 冥 as phonetic and kept as an alias. SKIP 1-5-10; 15 strokes. Radical 109 目. It ranks 2646 in the Classical Chinese lists, a higher number than the page's `mc_id`.
-
-### 慏
-A rare variant form of 冥; Wiktionary gives no definition. SKIP 1-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[冥]]<rt>ㄇㄝㄫ</rt></ruby> "dark, gloomy" (stand-in for 冥)

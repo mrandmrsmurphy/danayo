@@ -14,7 +14,6 @@ tags: [lookup]
 2. <ruby>[墨](/characters/墨.md)<rt>ㄇㄨㄎ</rt></ruby> - ink
 
 ### Aliases
-- 𧨅 --> 善
 
 ## Datacheck
 ```dataview

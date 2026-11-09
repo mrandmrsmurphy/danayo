@@ -30,7 +30,6 @@ tags: [lookup]
 - 𥫤 - 国字: 国字 (竹 + 弓); Wiktionary records no definition
 
 ### Aliases
-- 𠲘 --> 善
 - 带 --> 帯
 - 类 --> 類
 - 垦 --> 墾

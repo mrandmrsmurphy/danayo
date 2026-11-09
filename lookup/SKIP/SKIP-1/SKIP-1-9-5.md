@@ -15,7 +15,6 @@ tags: [lookup]
 3. <ruby>[鞄](characters/鞄%20(char).md)<rt>ㄆㄚㄎ</rt></ruby> "bag; luggage"
 
 ### Aliases
-- 𬸛 --> 凰
 
 ## Datacheck
 ```dataview

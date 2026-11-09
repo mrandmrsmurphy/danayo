@@ -43,7 +43,6 @@ tags:
 19. <ruby>[徨](../../characters/徨.md)<rt>ㄏ⺢ㄫ</rt></ruby> - wander
 20. <ruby>[復](../../characters/復.md)<rt>ㄅㄨㄎ</rt></ruby> - restore
 21. <ruby>[循](../../characters/循%20(char).md)<rt>ㄙ⼜ㄋ</rt></ruby> - to abide by
-- 㣫 --> 動
 
 ### +10 Strokes
 22. <ruby>[微](../../characters/微.md)<rt>ㄇㄨㄧ</rt></ruby> - miniature

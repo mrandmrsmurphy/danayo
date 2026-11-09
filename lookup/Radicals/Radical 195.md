@@ -26,7 +26,6 @@ tags: [lookup]
 4. <ruby>[鮎](../../characters/鮎%20(char).md)<rt>ㄋㄝㄇ</rt></ruby> - sweetfish
 5. <ruby>[鮐](../../characters/鮐.md)<rt>ㄊㄚㄧ</rt></ruby> - blowfish
 6. <ruby>[鮑](../../characters/鮑%20(char).md)<rt>ㄅㄚㄨ</rt></ruby> - abalone
-- 𬵑 --> 免
 
 ### +6 Strokes
 7. <ruby>[鮫](../../characters/鮫.md)<rt>ㄍ⼄ㄨ</rt></ruby> - shark

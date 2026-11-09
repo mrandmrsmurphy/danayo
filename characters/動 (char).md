@@ -29,13 +29,10 @@ graphemic_classification: 重
 stand_in: 動
 aliases:
   - 动
-  - 𨔝
-  - 㣫
   - 働
   - 仂
   - 慟
   - 恸
-  - 𢣛
 注音: ㄉㄛㄫ
 date-last-perfect: 2026-11-09
 kwin: true
@@ -61,12 +58,6 @@ boundedness: 90
 ### 动
 Simplified Chinese form of 動. SKIP 1-4-2 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
-### 𨔝
-A rare variant form of 動; Wiktionary gives no definition. SKIP 3-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 162 辵. It has no rank of its own in the Classical Chinese lists.
-
-### 㣫
-A rare variant form of 動; Wiktionary gives no definition. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 060 彳. It has no rank of its own in the Classical Chinese lists.
-
 ### 働
 A Japanese-made character (kokuji) for "to work", built on 動 and kept as an alias. SKIP 1-2-11; 13 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
@@ -78,9 +69,6 @@ A Japanese-made character (kokuji) for "to work", built on 動 and kept as an al
 
 ### 恸
 Simplified Chinese form of 慟. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
-
-### 𢣛
-A rare variant form of 動; Wiktionary gives no definition. SKIP 1-3-14 (computed: EDRDG does not list it); 17 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[動]]<rt>ㄉㄛㄫ</rt></ruby> "to move" (stand-in for 動)

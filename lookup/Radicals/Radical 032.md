@@ -16,7 +16,6 @@ tags:
 ### +1 Stroke
 2. <ruby>[𡈼](../../characters/𡈼.md)<rt>ㄊㄧㄋ</rt></ruby> - stalk
 - 圡 --> 土
-- 𡈽 --> 土
 
 ### +2 Strokes
 3. <ruby>[圧](../../characters/圧%20(char).md)<rt>ㄚㄊ</rt></ruby> - press
@@ -48,7 +47,6 @@ tags:
 15. <ruby>[坪](../../characters/坪%20(char).md)<rt>ㄅ⼶ㄫ</rt></ruby> - level ground
 16. <ruby>[垂](../../characters/垂.md)<rt>ㄐㄨㄧ</rt></ruby> - hang
 - 坸 --> 垢
-- 𡊦 --> 垢
 
 ### +6 Strokes
 17. <ruby>[型](../../characters/型.md)<rt>ㄏㄝㄫ</rt></ruby> - model
@@ -127,7 +125,6 @@ tags:
 65. <ruby>[壇](../../characters/壇%20(char).md)<rt>ㄉㄚㄋ</rt></ruby> - altar
 66. <ruby>[壊](../../characters/壊.md)<rt>ㄏ⺢ㄧ</rt></ruby> - demolish
 67. <ruby>[壌](../../characters/壌.md)<rt>ㄋ⼘ㄫ</rt></ruby> - soil
-- 㙲 --> 壅
 
 ### +14 Strokes
 - 壓 --> traditional form of 圧

@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[頻](characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> "frequent; again and again"
 4. <ruby>[餅](characters/餅%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> "pastry; cake; mochi"
 
+### Aliases
+- 䩊 --> 婉
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

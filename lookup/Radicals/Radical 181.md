@@ -51,7 +51,6 @@ tags: [lookup]
 16. <ruby>[頭](../../characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - head
 17. <ruby>[頴](../../characters/頴.md)<rt>⼶ㄫ</rt></ruby> - rice tassel
 18. <ruby>[頼](../../characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> - trust
-- 𫖸 --> 願
 
 ### +8 Strokes
 19. <ruby>[頻](../../characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> - frequent

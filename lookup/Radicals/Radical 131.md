@@ -20,7 +20,6 @@ tags: [lookup]
 ### Aliases
 - 臧 --> 臓
 - 臦 --> 囧
-- 臩 --> 囧
 
 ## Data check
 ```dataview

@@ -35,10 +35,6 @@ graphemic_classification: 象形
 stand_in: 四
 aliases:
   - 亖
-  - 龱
-  - 𠁤
-  - 𠃢
-  - 𦉭
   - 泗
 date-last-perfect: 2026-11-09
 注音: ㄙㄧㄜ
@@ -65,18 +61,6 @@ boundedness: 75
 
 ### 亖
 An archaic form of 四, "four" (four horizontal strokes). SKIP 2-1-3; 4 strokes. Radical 007 二. It has no rank of its own in the Classical Chinese lists.
-
-### 龱
-A rare variant form of 四; Wiktionary gives no definition. SKIP 3-3-2 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𠁤
-A rare variant form of 四; Wiktionary gives no definition. SKIP 3-3-2 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𠃢
-A rare variant form of 四; Wiktionary gives no definition. SKIP 2-1-4 (computed: EDRDG does not list it); 5 strokes. Radical 005 乙. It has no rank of its own in the Classical Chinese lists.
-
-### 𦉭
-A rare variant form of 四; Wiktionary gives no definition. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. Radical 122 网. It has no rank of its own in the Classical Chinese lists.
 
 ### 泗
 氵 + 四, "nasal mucus" and a river name; built on 四 as phonetic and kept as an alias. SKIP 1-3-5; 8 strokes. Radical 085 水. It ranks 2018 in the Classical Chinese lists, a higher number than the page's `mc_id`.

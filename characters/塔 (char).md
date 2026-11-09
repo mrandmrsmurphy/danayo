@@ -27,7 +27,6 @@ stand_in: 塔
 aliases:
   - 㙮
   - 墖
-  - 𩫊
 注音: ㄊㄚㄆ
 date-last-perfect: 2026-11-09
 kwin: true
@@ -55,9 +54,6 @@ A variant form of 塔, "tower, pagoda". SKIP 1-3-12 (computed: EDRDG does not li
 
 ### 墖
 A variant form of 塔, "pagoda". SKIP 1-3-11; 14 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𩫊
-A rare variant form of 塔; Wiktionary gives no definition. SKIP 1-10-5 (computed: EDRDG does not list it); 15 strokes. Radical 189 高. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[塔]]<rt>ㄊㄚㄆ</rt></ruby> "pagoda" (stand-in for 塔 (char))

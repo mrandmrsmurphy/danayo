@@ -25,7 +25,6 @@ tags: [lookup]
 
 ### +3 Strokes
 8. <ruby>[夷](../../characters/夷.md)<rt>ㄧㄜ</rt></ruby> - barbarian
-- 㚐 --> 套
 - 夺 --> 奪
 
 ### +4 Strokes
@@ -51,9 +50,6 @@ tags: [lookup]
 ### +7 Strokes
 17. <ruby>[套](../../characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - covering
 18. <ruby>[奚](../../characters/奚%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> - how
-
-### +8 Strokes
-- 𡘷 --> 套
 
 ### +9 Strokes
 19. <ruby>[奢](../../characters/奢.md)<rt>ㄙ⼘</rt></ruby> - extravagant

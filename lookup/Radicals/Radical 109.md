@@ -49,7 +49,6 @@ tags:
 ### +9 Strokes
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
 22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal
-- 𥈪 --> 尊
 - 睿 --> 叡
 
 ### +10 Strokes

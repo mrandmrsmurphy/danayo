@@ -30,7 +30,7 @@ stand_in: 妻
 aliases:
   - 萋
 注音: ㄑㄝㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 50
 - [SKIP-2-5-3](../lookup/SKIP/SKIP-2/SKIP-2-5-3.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 491st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄑㄝㄧ](../syllables/ㄑㄝㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 萋
+艹 + 妻, "luxuriant (of vegetation)"; built on 妻 as phonetic and kept as an alias. SKIP 2-3-8; 11 strokes. Radical 140 艸. It ranks 3904 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[妻]]<rt>ㄑㄝㄧ</rt></ruby> "wife" (stand-in for 妻)

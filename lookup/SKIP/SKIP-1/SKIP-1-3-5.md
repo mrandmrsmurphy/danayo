@@ -113,7 +113,6 @@ tags:
 - 咀 --> 嘴
 - 泗 --> 四
 - 坸 --> 垢
-- 𡊦 --> 垢
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

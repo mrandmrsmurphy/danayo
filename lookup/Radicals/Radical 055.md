@@ -22,9 +22,6 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[弄](../../characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - tamper with
 
-### +9 Strokes
-- 𢍜 --> 尊
-
 ### +11 Strokes
 - 㢡 --> 奨
 

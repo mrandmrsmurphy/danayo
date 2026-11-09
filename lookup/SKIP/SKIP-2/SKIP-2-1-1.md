@@ -15,7 +15,6 @@ Only one:
 
 ### Aliases
 - 𠄎 --> 乃
-- 𠄠 --> 二
 
 ## Datacheck
 ```dataview

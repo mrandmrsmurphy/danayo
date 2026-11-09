@@ -30,8 +30,6 @@ graphemic_classification: 象形
 stand_in: 人
 aliases:
   - 亻
-  - 𠆢
-  - ⺈
   - 𠂉
 注音: ㄋㄧㄋ
 date-last-perfect: 2026-11-09
@@ -62,12 +60,6 @@ boundedness: 75
 
 ### 亻
 The side form of 人 and Kangxi radical 9; kept as an alias of 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𠆢
-A rare variant form of 人; Wiktionary gives no definition. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### ⺈
-The component form of 刀 (Kangxi radical 18), written like a small 人 at the top of characters; kept as an alias of 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 𠂉
 An older "person" component, similar to 亻 and 人. SKIP 4-2-4 (computed: EDRDG does not list it); 2 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.

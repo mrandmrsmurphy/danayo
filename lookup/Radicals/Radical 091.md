@@ -16,12 +16,8 @@ tags: [lookup]
 ### +4 Strokes
 2. <ruby>[版](../../characters/版.md)<rt>ㄆㄚㄋ</rt></ruby> - edition
 
-### +7 Strokes
-- 𤗄 --> 窓
-
 ### +8 Strokes
 3. <ruby>[牌](../../characters/牌%20(char).md)<rt>ㄅㄚㄧ</rt></ruby> - playing card
-- 𤗉 --> 窓
 
 ### +9 Strokes
 - 牎 --> 窓

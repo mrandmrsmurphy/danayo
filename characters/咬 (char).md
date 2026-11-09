@@ -38,7 +38,6 @@ aliases:
   - 嚙
   - 囓
   - 啮
-  - 𪘂
 注音: ⼘ㄨ
 date-last-perfect: 2026-11-09
 kwin: false
@@ -78,9 +77,6 @@ A variant form of 咬, "to gnaw". SKIP 1-3-21; 24 strokes. It has no rank of its
 
 ### 啮
 Simplified Chinese form of 嚙. SKIP 1-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
-
-### 𪘂
-A rare variant form of 咬; Wiktionary gives no definition. SKIP 1-8-10 (computed: EDRDG does not list it); 18 strokes. Radical 211 齒. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[咬]]<rt>⼘ㄨ</rt></ruby> "bite; gnaw; chew" (stand-in for 咬)

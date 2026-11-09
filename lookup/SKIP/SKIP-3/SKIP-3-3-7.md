@@ -36,7 +36,6 @@ tags: [lookup]
 ### Aliases
 - 座 --> 坐
 - 选 --> 選
-- 圅 --> 函
 - 圆 --> 圓
 
 ## Datacheck

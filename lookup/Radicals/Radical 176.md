@@ -11,6 +11,9 @@ tags: [lookup]
 ### Used
 1. <ruby>[面](../../characters/面.md)<rt>ㄇ⼶ㄋ</rt></ruby> - surface
 
+### Aliases
+- 䩊 --> 婉
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

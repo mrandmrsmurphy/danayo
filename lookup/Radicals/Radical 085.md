@@ -249,7 +249,6 @@ tags: [lookup]
 - 潑 --> 発
 - 漿 --> 将
 - ¡㵜! - 違法字
-- 𣽣 --> 港
 - 澳 --> 奥
 
 ### +12 Strokes
@@ -258,7 +257,6 @@ tags: [lookup]
 164. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
 165. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
 - ¡澡! - 違法字
-- 𣿑 --> 港
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder

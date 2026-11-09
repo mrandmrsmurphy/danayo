@@ -30,13 +30,11 @@ tags: [lookup]
 7. <ruby>[卍](../../characters/卍.md)<rt>ㄇㄛㄋ</rt></ruby> - swastika
 - 协 --> 協
 - 华 --> 華
-- 㔺 --> 世
 
 ### +6 Strokes
 8. <ruby>[協](../../characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> - cooperate
 9. <ruby>[卒](../../characters/卒.md)<rt>ㄐㄨㄊ</rt></ruby> - soldier
 10. <ruby>[卓](../../characters/卓.md)<rt>ㄊㄚㄎ</rt></ruby> - profound
-- 龺 --> 卓
 
 ### +7 Strokes
 11. <ruby>[卑](../../characters/卑%20(char).md)<rt>ㄅㄝ</rt></ruby> - lowly
@@ -45,9 +43,6 @@ tags: [lookup]
 
 ### +10 Strokes
 14. <ruby>[博](../../characters/博.md)<rt>ㄅㄚㄎ</rt></ruby> - broad
-
-### +19 Strokes
-- 卛 --> 率
 
 ### Aliases
 - 单 --> 単

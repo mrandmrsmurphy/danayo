@@ -20,7 +20,6 @@ date-last-perfect: 2026-10-05
 3. <ruby>[鳳](../../characters/鳳.md)<rt>ㄆㄨㄫ</rt></ruby> - phoenix
 4. <ruby>[鳴](../../characters/鳴%20(char).md)<rt>ㄇ⼶ㄫ</rt></ruby> - chirp
 5. <ruby>[鳶](../../characters/鳶%20(char).md)<rt>⼶ㄋ</rt></ruby> - kite
-- 𬸛 --> 凰
 
 ### +4 Strokes
 6. <ruby>[鴎](../../characters/鴎%20(char).md)<rt>ㄛㄨ</rt></ruby> - seagull
@@ -46,9 +45,6 @@ date-last-perfect: 2026-10-05
 16. <ruby>[鵡](../../characters/鵡.md)<rt>ㄇㄨ</rt></ruby> - parrot
 17. <ruby>[鵰](../../characters/鵰%20(char).md)<rt>ㄑㄨㄛ</rt></ruby> - eagle
 18. <ruby>[鶏](../../characters/鶏%20(char).md)<rt>ㄍㄝㄧ</rt></ruby> - chicken
-
-### +9 Strokes
-- 䳨 --> 凰
 
 ### +10 Strokes
 19. <ruby>[鶴](../../characters/鶴%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - crane

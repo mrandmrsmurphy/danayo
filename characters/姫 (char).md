@@ -34,7 +34,7 @@ tags:
   - character
 kwin: false
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 姫.
 >For the word, see [姫](../words/姫.md)
@@ -48,6 +48,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 780th most used character in Classical Chinese, recorded under the traditional glyph 姬 (CC 0000.md: `> 779. 恭`, `> 780. 姬`, `> 781. 送`). Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄍㄧ](../syllables/ㄍㄧ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 姬
+Traditional form of 姫, "princess". SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. It ranks 780 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[姫]]<rt>ㄍㄧ</rt></ruby> "princess"

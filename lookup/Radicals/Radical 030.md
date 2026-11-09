@@ -30,8 +30,6 @@ tags: [lookup]
 15. <ruby>[号](../../characters/号.md)<rt>ㄏㄚㄨ</rt></ruby> - symbol
 16. <ruby>[司](../../characters/司.md)<rt>ㄙㄚ</rt></ruby> - company
 - 𠮟 --> 叱
-- 𠮣 --> 吾
-- 㕥 --> 呻
 - 叹 --> 嘆
 
 ### +3 Strokes
@@ -45,9 +43,7 @@ tags: [lookup]
 24. <ruby>[吐](../../characters/吐%20(char).md)<rt>ㄊㄛ</rt></ruby> - spit
 25. <ruby>[向](../../characters/向%20(char).md)<rt>ㄏ⼘ㄫ</rt></ruby> - toward
 26. <ruby>[吸](../../characters/吸%20(char).md)<rt>ㄏㄧㄆ</rt></ruby> - suck
-- 𭇁 --> 吾
 - 吕 --> 呂
-- 吅 --> 喧
 - 吃 --> 喫
 - 吓 --> 嚇
 - 㕦 --> 天
@@ -107,7 +103,6 @@ tags: [lookup]
 59. <ruby>[哄](../../characters/哄.md)<rt>ㄏㄛㄫ</rt></ruby> - resound with laughter
 60. <ruby>[哇](../../characters/哇%20(char).md)<rt>⺢ㄨ</rt></ruby> - wow
 61. <ruby>[哉](../../characters/哉%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - O
-- 𠲘 --> 善
 - 哈 --> 呵
 - 哑 --> 唖
 - 哗 --> 嘩
@@ -130,8 +125,6 @@ tags: [lookup]
 76. <ruby>[啄](../../characters/啄%20(char).md)<rt>ㄊㄛㄎ</rt></ruby> - peck at
 - 哪 --> 那
 - 哿 --> 加
-- 𠲳 --> 呻
-- 㖒 --> 啼
 
 ### +8 Strokes
 77. <ruby>[唯](../../characters/唯%20(char).md)<rt>⼶ㄧ</rt></ruby> - only
@@ -145,7 +138,6 @@ tags: [lookup]
 85. <ruby>[啡](../../characters/啡.md)<rt>ㄈㄧ</rt></ruby> - morphine
 86. <ruby>[喝](../../characters/喝%20(char).md)<rt>ㄏㄛㄊ</rt></ruby> - yell
 - 啚 --> 鄙
-- 𠵊 --> 善
 - 啮 --> 咬
 - 啞 --> 唖
 - 啑 --> 喋
@@ -200,7 +192,6 @@ tags: [lookup]
 116. <ruby>[嘲](../../characters/嘲.md)<rt>ㄑㄚㄨ</rt></ruby> - ridicule
 117. <ruby>[器](../../characters/器.md)<rt>ㄎㄧㄜ</rt></ruby> - container
 118. <ruby>[噴](../../characters/噴.md)<rt>ㄆㄛㄋ</rt></ruby> - erupt
-- 𠾄 --> 善
 - 噂 --> 尊
 - 噛 --> 咬
 
@@ -219,9 +210,6 @@ tags: [lookup]
 
 ### +16 Strokes
 - 嚥 --> 咽
-
-### +18 Strokes
-- 㘕 --> 喊
 
 ### +19 Strokes
 - 囊 --> 嚢

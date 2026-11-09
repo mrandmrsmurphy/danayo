@@ -35,7 +35,6 @@ tags: [lookup]
 10. <ruby>[迭](../../characters/迭.md)<rt>ㄉㄚㄊ</rt></ruby> - alternate
 11. <ruby>[述](../../characters/述.md)<rt>ㄙㄨㄊ</rt></ruby> - narrate
 - 遗 --> 遺
-- 𨔝 --> 動
 
 ### +6 Strokes
 12. <ruby>[迥](../../characters/迥%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - distant

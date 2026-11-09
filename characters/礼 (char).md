@@ -41,7 +41,6 @@ graphemic_classification: "豊"
 stand_in: "礼"
 aliases:
   - 禮
-  - 𥜪
 注音: "ㄌㄝㄧ"
 date-last-perfect: 2026-11-08
 kwin: false
@@ -66,9 +65,6 @@ boundedness: 90
 
 ### 禮
 Traditional form of 礼 (kyūjitai), "ritual, courtesy". SKIP 1-5-13; 18 strokes. It ranks 115 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
-
-### 𥜪
-A rare form of 禮; Wiktionary gives no definition. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[礼]]<rt>ㄌㄝㄧ</rt></ruby> "manners" (stand-in for 礼)

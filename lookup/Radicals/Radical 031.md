@@ -13,16 +13,12 @@ tags: [lookup]
 ### +2 Strokes
 1. <ruby>[四](../../characters/四%20(char).md)<rt>ㄙㄧㄜ</rt></ruby> - four
 2. <ruby>[囚](../../characters/囚.md)<rt>ㄙㄨㄛ</rt></ruby> - prisoner
-- 龱 --> 四
-- 𠁤 --> 四
 
 ### +3 Strokes
 3. <ruby>[因](../../characters/因.md)<rt>ㄧㄋ</rt></ruby> - cause
 4. <ruby>[回](../../characters/回%20(char).md)<rt>ㄏㄛㄧ</rt></ruby> - turns
 5. <ruby>[団](../../characters/団.md)<rt>ㄉ⺢ㄋ</rt></ruby> - group
-- 𡆧 --> 窓
 - 团 --> 団
-- 𡆪 --> 曲
 
 ### +4 Strokes
 6. <ruby>[囲](../../characters/囲.md)<rt>ㄨㄧ</rt></ruby> - encircle
@@ -40,7 +36,6 @@ tags: [lookup]
 
 ### +7 Strokes
 12. <ruby>[圃](../../characters/圃.md)<rt>ㄅㄛ</rt></ruby> - seedbed
-- 圅 --> 函
 - 圆 --> 圓
 
 ### +8 Strokes

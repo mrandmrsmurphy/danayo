@@ -14,8 +14,6 @@ tags: [lookup]
 2. <ruby>[牒](../../characters/牒.md)<rt>ㄉㄝㄆ</rt></ruby> - documents
 
 ### Aliases
-- 𪺠 --> 窓
-- 𤕲 --> 俎
 
 ## Data check
 ```dataview

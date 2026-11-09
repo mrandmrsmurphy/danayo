@@ -10,7 +10,7 @@ tags: [lookup]
 Top half has 19 strokes.
 
 - SKIP-2-19-1: none
-- [SKIP-2-19-2](lookup/SKIP/SKIP-2/SKIP-2-19-2.md): ø
+- SKIP-2-19-2: none
 - SKIP-2-19-3: none
 - [SKIP-2-19-4](lookup/SKIP/SKIP-2/SKIP-2-19-4.md): ø
 

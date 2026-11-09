@@ -48,7 +48,6 @@ tags:
 - 屬 --> 属
 - 權 --> 権
 - 鷁 --> 益
-- 卛 --> 率
 - 纍 --> 累
 - 騾 --> 累
 - 臟 --> 臓
@@ -57,7 +56,6 @@ tags:
 - 儹 --> 儧
 - 齩 --> 咬
 - 齧 --> 咬
-- 㘕 --> 喊
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

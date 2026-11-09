@@ -34,7 +34,6 @@ tags: [lookup]
 - 雳 --> 歴
 - 辈 --> 輩
 - 惣 --> 総
-- 𩇗 --> 天
 
 ## Datacheck
 ```dataview

@@ -45,11 +45,11 @@ tags:
 - 纪 --> 紀
 - 级 --> 級
 - 扣 --> 叩
-- 𭇁 --> 吾
 - 吃 --> 喫
 - 吓 --> 嚇
 - 圩 --> 墟
 - 㕦 --> 天
+- 奸 --> 姦
 
 ### Forbidden
 - 她 - 中国制造: On 単亜語/HSK/1 only.  No 3rd person pronoun in D.  Originally a variant of 姐 (jiě, “elder sister”). Later repurposed as a feminine third-person pronoun influenced by European languages.  Linguist Liu Bannong is credited with coining this use around the 1910s.

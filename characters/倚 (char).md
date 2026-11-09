@@ -30,7 +30,6 @@ graphemic_classification: 奇
 stand_in: 倚
 aliases:
   - 猗
-  - 𠋣
 注音: ㄜㄧ
 tags:
   - character
@@ -55,9 +54,6 @@ date-last-perfect: 2026-11-09
 
 ### 猗
 犭 + 奇, an exclamation of admiration; built on 奇 as phonetic and kept as an alias of 倚. SKIP 1-3-8; 11 strokes. Radical 094 犬. It ranks 2936 in the Classical Chinese lists, a higher number than the page's `mc_id`.
-
-### 𠋣
-A rare variant form of 倚; Wiktionary gives no definition. SKIP 1-2-9 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[倚]]<rt>ㄜㄧ</rt></ruby> "rely on; depend upon" (stand-in for 倚)

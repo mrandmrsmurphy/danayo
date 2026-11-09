@@ -37,7 +37,6 @@ tags: [lookup]
 
 ### Aliases
 - 奐 --> 煥
-- 𠙐 --> 不
 - 亱 --> 夜
 
 ## Datacheck

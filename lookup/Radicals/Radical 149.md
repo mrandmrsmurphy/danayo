@@ -115,7 +115,6 @@ tags: [lookup]
 49. <ruby>[誦](../../characters/誦%20(char).md)<rt>ㄙㄛㄫ</rt></ruby> - recite
 50. <ruby>[説](../../characters/説.md)<rt>ㄙ⼔ㄊ</rt></ruby> - theory
 51. <ruby>[読](../../characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
-- 𧨅 --> 善
 - 說 --> 説
 
 ### +8 Strokes
@@ -132,6 +131,7 @@ tags: [lookup]
 62. <ruby>[論](../../characters/論.md)<rt>ㄌㄛㄋ</rt></ruby> - theory
 63. <ruby>[諸](../../characters/諸%20(char).md)<rt>ㄐㄚ</rt></ruby> - various
 64. <ruby>[謁](../../characters/謁%20(char).md)<rt>ㄝㄊ</rt></ruby> - visit
+- 䛷 --> 婉
 
 ### +9 Strokes
 65. <ruby>[諌](../../characters/諌.md)<rt>ㄍ⼘ㄋ</rt></ruby> - admonish
@@ -168,7 +168,6 @@ tags: [lookup]
 88. <ruby>[譚](../../characters/譚.md)<rt>ㄉㄚㄇ</rt></ruby> - talented
 89. <ruby>[譜](../../characters/譜.md)<rt>ㄅㄛ</rt></ruby> - musical score
 90. <ruby>[警](../../characters/警.md)<rt>ㄍ⼶ㄫ</rt></ruby> - watch out
-- 𧬆 --> 善
 - 證 --> 証
 - 謿 --> 嘲
 
@@ -188,9 +187,6 @@ tags: [lookup]
 ### +17 Strokes
 - 讓 --> 譲
 - 讙 --> 歓
-
-### +20 Strokes
-- 𧮟 --> 善
 
 ### Aliases
 - 䜌 --> 乱

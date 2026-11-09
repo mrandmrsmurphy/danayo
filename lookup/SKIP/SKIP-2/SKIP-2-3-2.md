@@ -25,7 +25,6 @@ tags: [lookup]
 - 夲 --> 本
 - 艺 --> 芸
 - 宂 --> 冗
-- 冭 --> 太
 
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.

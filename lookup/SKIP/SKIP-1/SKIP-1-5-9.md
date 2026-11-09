@@ -30,7 +30,6 @@ tags: [lookup]
 ### Aliases
 - 稱 --> 称
 - 褔 --> 副
-- 𥈪 --> 尊
 
 ## Datacheck
 ```dataview

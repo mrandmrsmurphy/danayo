@@ -63,7 +63,6 @@ tags: [lookup]
 29. <ruby>[絆](../../characters/絆.md)<rt>ㄅㄚㄋ</rt></ruby> - band
 30. <ruby>[経](../../characters/経%20(char).md)<rt>ㄍㄝㄫ</rt></ruby> - classic
 - 续 --> 続
-- 𰬥 --> 総
 - 绩 --> 績
 
 ### +6 Strokes
@@ -136,7 +135,6 @@ tags: [lookup]
 75. <ruby>[繊](../../characters/繊.md)<rt>ㄙㄝㄇ</rt></ruby> - fine
 76. <ruby>[繋](../../characters/繋.md)<rt>ㄏㄝㄧ</rt></ruby> - fasten
 77. <ruby>[繍](../../characters/繍.md)<rt>ㄙ⼜</rt></ruby> - embroidery
-- 𮈾 --> 窓
 - 總 --> 総
 
 ### +12 Strokes

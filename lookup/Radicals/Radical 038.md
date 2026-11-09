@@ -15,7 +15,6 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[奴](../../characters/奴.md)<rt>ㄋㄛ</rt></ruby> - slave
-- 㚢 --> 奴
 
 ### +3 Strokes
 3. <ruby>[好](../../characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - good
@@ -23,7 +22,7 @@ tags: [lookup]
 5. <ruby>[妃](../../characters/妃.md)<rt>ㄈㄧ</rt></ruby> - emperor's wife
 6. <ruby>[妄](../../characters/妄.md)<rt>ㄇㄚㄫ</rt></ruby> - delusion
 - 𰋷 --> 嬰
-- 𡚴 --> 安
+- 奸 --> 姦
 
 ### +4 Strokes
 7. <ruby>[妊](../../characters/妊%20(char).md)<rt>ㄋㄧㄇ</rt></ruby> - be pregnant
@@ -35,6 +34,7 @@ tags: [lookup]
 13. <ruby>[妥](../../characters/妥.md)<rt>ㄊㄚ</rt></ruby> - appropriate
 14. <ruby>[妨](../../characters/妨.md)<rt>ㄈㄚㄫ</rt></ruby> - hinder
 - 妪 --> 区
+- 妒 --> 妬
 
 ### +5 Strokes
 15. <ruby>[妬](../../characters/妬.md)<rt>ㄉㄛ</rt></ruby> - jealous
@@ -69,6 +69,9 @@ tags: [lookup]
 39. <ruby>[娥](../../characters/娥.md)<rt>ㄚ</rt></ruby> - beautiful
 40. <ruby>[娩](../../characters/娩.md)<rt>ㄇㄚㄋ</rt></ruby> - give birth
 41. <ruby>[娯](../../characters/娯.md)<rt>ㄛ</rt></ruby> - entertainment
+- 姬 --> 姫
+- 娛 --> 娯
+- 娱 --> 娯
 
 ### +8 Strokes
 42. <ruby>[娶](../../characters/娶.md)<rt>ㄑㄨ</rt></ruby> - marry
@@ -107,9 +110,13 @@ tags: [lookup]
 
 ### +13 Strokes
 61. <ruby>[嬴](../../characters/嬴.md)<rt>⼶ㄫ</rt></ruby> - Yingzhou
+- 嬢 --> 娘
 
 ### +14 Strokes
 62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - infant
+
+### +17 Strokes
+- 孃 --> 娘
 
 ### Aliases
 - 她 --> 他

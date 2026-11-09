@@ -12,7 +12,6 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[二](../../characters/二%20(char).md)<rt>ㄋㄧㄜ</rt></ruby> - two, and its variants 𠄞, 𠄟, 𠄠
-- 𠄠 --> 二
 
 ### +1 Stroke
 2. <ruby>[于](../../characters/于%20(char).md)<rt>ㄨ</rt></ruby> - to

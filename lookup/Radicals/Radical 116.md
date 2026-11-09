@@ -44,7 +44,6 @@ tags: [lookup]
 ### +9 Strokes
 15. <ruby>[窩](../../characters/窩.md)<rt>ㄍ⺢</rt></ruby> - fossa
 16. <ruby>[窪](../../characters/窪.md)<rt>⺢</rt></ruby> - hollow
-- 䆫 --> 窓
 
 ### +10 Strokes
 17. <ruby>[窮](../../characters/窮.md)<rt>ㄍㄨㄫ</rt></ruby> - poverty
