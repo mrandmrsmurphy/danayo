@@ -34,6 +34,7 @@ tags: [lookup]
 - 廁 --> 厠
 - 廂 --> 箱
 - 遗 --> 遺
+- 𨔝 --> 動
 
 ### Forbidden
 - 遖 - 国字: 国字 for 'appare' (excellent)

@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 36 (alias protocol), next ten oldest characters with aliases:** 剰, 劉, 加, 励, 勁, 勃, 勅, 動, 勲, 勻 gained their first `## Aliases` section (剩 and 賸; 刘; 痂, 哿, 跏 and 袈; 勵; 劲; 渤; 敕 and 勑; 动, 𨔝, 㣫, 働, 仂, 慟, 恸 and 𢣛; 勛, 勋 and 勳; 匀), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (勲 1285 from 勳, with its missing rank bullet added; 勅 1557 under 敕; 剰 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
+- **Loop batch 35 (alias protocol), next ten oldest characters with aliases:** 凰, 凱, 函, 刃, 刮, 券, 刹, 刺, 剤, 剪 gained their first `## Aliases` section (䳨 and 𬸛; 凯; 圅 and 凾; 仞; 颳; 劵; 剎; 朿; 劑; 翦), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (剪 now 2182 from 翦; 剤 3360 under 劑; 刹 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
+
 - **Loop batch 34 (alias protocol), next ten oldest characters with aliases:** 児, 兪, 其, 冗, 冤, 冥, 冴, 凄, 凍, 凜 gained their first `## Aliases` section (兒 and 儿; 俞 and 榆; 丌; 宂; 寃; 溟, 暝, 瞑 and 慏; 冱; 淒 and 悽; 冻; 凛), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` set to the lowest rank (凄 now 3291 from 悽; 児 1068 under 兒; 兪 1536 under 俞; 冴 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.
 
 - **Loop batch 33 (alias protocol), next ten oldest characters with aliases:** 傾, 僅, 僑, 僕, 僵, 儀, 儒, 償, 儧, 優 gained their first `## Aliases` section (倾; 仅; 侨; 仆; 殭; 仪; 孺; 偿; 儹; 优), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (儧 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all ten stamped.

@@ -27,6 +27,7 @@ tags:
 ### +4 Strokes
 4. <ruby>[劣](../../characters/劣.md)<rt>ㄌㄝㄊ</rt></ruby> - inferior
 5. <ruby>[劦](../../characters/劦.md)<rt>ㄎㄝㄆ</rt></ruby> - same force
+- 动 --> 動
 
 ### +5 Strokes
 6. <ruby>[助](../../characters/助.md)<rt>ㄐㄛ</rt></ruby> - rescue
@@ -39,6 +40,7 @@ tags:
 11. <ruby>[労](../../characters/労.md)<rt>ㄌㄚㄨ</rt></ruby> - labour
 - 勞 --> traditional form of 労
 - 劳 --> simplified of 労
+- 劲 --> 勁
 
 ### +6 Strokes
 12. <ruby>[効](../../characters/効.md)<rt>ㄏ⼘ㄨ</rt></ruby> - effect
@@ -47,6 +49,7 @@ tags:
 13. <ruby>[劾](../../characters/劾.md)<rt>ㄏㄚㄧ</rt></ruby> - accuse
 - 势 --> 勢
 - 劼 --> 吉
+- 劵 --> 券
 
 ### +7 Strokes
 14. <ruby>[勁](../../characters/勁.md)<rt>ㄍㄧㄫ</rt></ruby> - strong
@@ -55,10 +58,12 @@ tags:
 16. <ruby>[勅](../../characters/勅.md)<rt>ㄑㄧㄎ</rt></ruby> - imperial decree
 - 敕 --> variant of 勅
 17. <ruby>[勇](../../characters/勇.md)<rt>⼄ㄫ</rt></ruby> - courageous
+- 勋 --> 勲
 
 ### +8 Strokes
 18. <ruby>[勉](../../characters/勉%20(char).md)<rt>ㄇ⼶ㄋ</rt></ruby> - exert
 - 勌 --> 倦
+- 勑 --> 勅
 
 ### +9 Strokes
 19. <ruby>[勒](../../characters/勒.md)<rt>ㄌㄜㄎ</rt></ruby> - rein in
@@ -77,6 +82,7 @@ tags:
 - 胜 --> simplified of 勝
 24. <ruby>[募](../../characters/募.md)<rt>ㄇㄛ</rt></ruby> - recruit
 25. <ruby>[勤](../../characters/勤.md)<rt>ㄍㄧㄋ</rt></ruby> - diligent
+- 勛 --> 勲
 
 ### +11 Strokes
 26. <ruby>[勢](../../characters/勢.md)<rt>ㄙㄝ</rt></ruby> - power
@@ -89,6 +95,12 @@ tags:
 - 勛 --> variant of 勲
 - 勋 --> variant of 勲
 - 勳 --> variant of 勲
+
+### +14 Strokes
+- 勳 --> 勲
+
+### +15 Strokes
+- 勵 --> 励
 
 ### +18 Strokes
 - 勸 --> 勧

@@ -23,6 +23,7 @@ tags: [lookup]
 - 倝 --> 幹
 - 剔 --> 剃
 - 勌 --> 倦
+- 勑 --> 勅
 
 ## Datacheck
 ```dataview

@@ -90,6 +90,8 @@ tags:
 - 儉 --> 倹
 - 瞑 --> 冥
 - 凛 --> 凜
+- 颳 --> 刮
+- 翦 --> 剪
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

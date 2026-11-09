@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 緬 --> 面
+- 颳 --> 刮
 
 ## Datacheck
 ```dataview

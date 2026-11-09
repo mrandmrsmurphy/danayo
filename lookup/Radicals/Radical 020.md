@@ -20,6 +20,7 @@ tags: [lookup]
 2. <ruby>[勿](../../characters/勿%20(char).md)<rt>ㄇㄨㄊ</rt></ruby> - do not ever
 3. <ruby>[勻](../../characters/勻.md)<rt>⼜ㄋ</rt></ruby> - equal
 4. <ruby>[勾](../../characters/勾.md)<rt>ㄍㄛㄨ</rt></ruby> - seduce
+- 匀 --> 勻
 
 ### +3 Strokes
 5. <ruby>[包](../../characters/包%20(char).md)<rt>ㄅ⼘ㄨ</rt></ruby> - wrap

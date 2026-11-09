@@ -107,6 +107,8 @@ tags:
 - 僞 --> 偽
 - 摧 --> 催
 - 暝 --> 冥
+- 𬸛 --> 凰
+- 慟 --> 動
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

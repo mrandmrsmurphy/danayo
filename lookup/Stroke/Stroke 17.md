@@ -82,6 +82,9 @@ tags:
 - 闌 --> 䦨
 - 殭 --> 僵
 - 孺 --> 儒
+- 賸 --> 剰
+- 勵 --> 励
+- 𢣛 --> 動
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

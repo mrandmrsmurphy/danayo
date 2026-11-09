@@ -117,6 +117,10 @@ tags:
 - 俱 --> 倶
 - 桀 --> 傑
 - 倾 --> 傾
+- 圅 --> 函
+- 痂 --> 加
+- 哿 --> 加
+- 勑 --> 勅
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

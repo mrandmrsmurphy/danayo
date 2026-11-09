@@ -19,6 +19,7 @@ tags:
 4. <ruby>[跑](../../characters/跑.md)<rt>ㄅ⼘ㄨ</rt></ruby> - run
 5. <ruby>[距](../../characters/距.md)<rt>ㄍ⼄</rt></ruby> - long-distance
 6. <ruby>[跋](../../characters/跋.md)<rt>ㄅㄚㄊ</rt></ruby> - stride
+- 跏 --> 加
 
 ### +6 Strokes
 7. <ruby>[跡](../../characters/跡.md)<rt>ㄐㄝㄎ</rt></ruby> - tracks

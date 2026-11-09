@@ -36,6 +36,7 @@ aliases:
 - 仓 --> 倉
 - 仅 --> 僅
 - 仆 --> 僕
+- 仂 --> 動
 
 ### +3 Strokes
 8. <ruby>[㐱](../../characters/㐱.md)<rt>ㄐㄧㄋ</rt></ruby> - black hair
@@ -50,6 +51,7 @@ aliases:
 - 㐶 --> 化
 - 仝 --> 同
 - 仪 --> 儀
+- 仞 --> 刃
 
 ### +4 Strokes
 16. <ruby>[仮](../../characters/仮.md)<rt>ㄍㄚ</rt></ruby> - borrow
@@ -235,6 +237,7 @@ aliases:
 - 會 --> 会
 - ¡傻! - 違法字
 - 僉 --> 㑒
+- 働 --> 動
 
 ### +12 Strokes
 130. <ruby>[像](../../characters/像.md)<rt>ㄙ⼘ㄫ</rt></ruby> - statue

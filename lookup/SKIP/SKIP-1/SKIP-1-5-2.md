@@ -29,6 +29,7 @@ tags: [lookup]
 - 别 --> 別
 - 删 --> 刪
 - 针 --> 針
+- 劲 --> 勁
 
 ### Forbidden
 - 盯 - 官话: HSK/3, Chinese only.

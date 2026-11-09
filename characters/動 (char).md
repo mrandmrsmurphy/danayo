@@ -37,7 +37,7 @@ aliases:
   - 恸
   - 𢣛
 注音: ㄉㄛㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -55,6 +55,32 @@ boundedness: 90
 - [SKIP-1-9-2](../lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 338th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 東一|uŋ]] → [ㄉㄛㄫ](../syllables/ㄉㄛㄫ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 动
+Simplified Chinese form of 動. SKIP 1-4-2 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𨔝
+A rare variant form of 動; Wiktionary gives no definition. SKIP 3-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 162 辵. It has no rank of its own in the Classical Chinese lists.
+
+### 㣫
+A rare variant form of 動; Wiktionary gives no definition. SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. Radical 060 彳. It has no rank of its own in the Classical Chinese lists.
+
+### 働
+A Japanese-made character (kokuji) for "to work", built on 動 and kept as an alias. SKIP 1-2-11; 13 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+
+### 仂
+"Surplus, remainder"; kept as an alias of 動 for its shared 力. SKIP 1-2-2; 4 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+
+### 慟
+忄 + 動, "to grieve"; built on 動 as phonetic and kept as an alias. SKIP 1-3-11; 14 strokes. Radical 061 心. It ranks 3926 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 恸
+Simplified Chinese form of 慟. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
+
+### 𢣛
+A rare variant form of 動; Wiktionary gives no definition. SKIP 1-3-14 (computed: EDRDG does not list it); 17 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[動]]<rt>ㄉㄛㄫ</rt></ruby> "to move" (stand-in for 動)

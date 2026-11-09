@@ -18,6 +18,7 @@ radical: 凵
 
 ### Aliases
 - 击 --> 撃
+- 凾 --> 函
 
 ## Data check
 ```dataview

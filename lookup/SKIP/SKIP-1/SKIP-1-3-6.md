@@ -95,6 +95,7 @@ tags:
 - 须 --> 須
 - 挥 --> 揮
 - 测 --> 測
+- 恸 --> 動
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

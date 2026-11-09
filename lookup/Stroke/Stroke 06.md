@@ -102,6 +102,9 @@ tags:
 - 伞 --> 傘
 - 优 --> 優
 - 冱 --> 冴
+- 朿 --> 刺
+- 刘 --> 劉
+- 动 --> 動
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

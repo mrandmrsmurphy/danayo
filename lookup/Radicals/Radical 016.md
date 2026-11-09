@@ -24,6 +24,7 @@ tags: [lookup]
 ### Aliases
 - 几 --> 幾
 - 𠙐 --> 不
+- 凯 --> 凱
 
 ## Data check
 ```dataview

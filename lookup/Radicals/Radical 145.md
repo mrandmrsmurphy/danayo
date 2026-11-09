@@ -34,6 +34,7 @@ tags:
 ### +5 Strokes
 11. <ruby>[袋](../../characters/袋%20(char).md)<rt>ㄉㄚㄧ</rt></ruby> - sack
 12. <ruby>[袴](../../characters/袴%20(char).md)<rt>ㄎㄛ</rt></ruby> - pants
+- 袈 --> 加
 
 ### +6 Strokes
 13. <ruby>[裁](../../characters/裁.md)<rt>ㄑㄚㄧ</rt></ruby> - tailor

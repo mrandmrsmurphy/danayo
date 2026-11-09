@@ -132,6 +132,8 @@ tags:
 - 寃 --> 冤
 - 淒 --> 凄
 - 悽 --> 凄
+- 袈 --> 加
+- 敕 --> 勅
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

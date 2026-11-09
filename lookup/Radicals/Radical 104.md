@@ -20,6 +20,7 @@ tags: [lookup]
 5. <ruby>[疾](../../characters/疾.md)<rt>ㄐㄧㄊ</rt></ruby> - disease
 6. <ruby>[病](../../characters/病.md)<rt>ㄅ⼶ㄫ</rt></ruby> - sickness
 7. <ruby>[症](../../characters/症.md)<rt>ㄐㄧㄫ</rt></ruby> - disease
+- 痂 --> 加
 
 ### +6 Strokes
 8. <ruby>[痕](../../characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace

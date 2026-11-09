@@ -308,3 +308,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 冗 (char) | 宂 | 2-3-2 | computed from its parts |
 | 冥 (char) | 慏 | 1-3-10 | computed from its parts |
 | 凍 | 冻 | 1-2-5 | computed from its parts |
+| 凰 | 䳨 | 1-9-11 | computed from its parts |
+| 凰 | 𬸛 | 1-9-5 | computed from its parts |
+| 凱 | 凯 | 1-6-2 | computed from its parts |
+| 函 | 圅 | 3-3-7 | computed from its parts |
+| 刮 | 颳 | 1-6-9 | computed from its parts |
+| 刹 | 剎 | 1-6-3 | computed from its parts |
+| 勁 | 劲 | 1-5-2 | computed from its parts |
+| 動 (char) | 动 | 1-4-2 | computed from its parts |
+| 動 (char) | 𨔝 | 3-3-9 | computed from its parts |
+| 動 (char) | 㣫 | 1-3-9 | computed from its parts |
+| 動 (char) | 恸 | 1-3-6 | computed from its parts |
+| 動 (char) | 𢣛 | 1-3-14 | computed from its parts |
+| 勲 (char) | 勋 | 1-7-2 | computed from its parts |

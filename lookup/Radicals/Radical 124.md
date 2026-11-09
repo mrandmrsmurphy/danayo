@@ -38,6 +38,7 @@ tags: [lookup]
 
 ### +9 Strokes
 13. <ruby>[翫](../../characters/翫.md)<rt>⺢ㄋ</rt></ruby> - slack off
+- 翦 --> 剪
 
 ### +11 Strokes
 14. <ruby>[翼](../../characters/翼.md)<rt>ㄧㄎ</rt></ruby> - wing

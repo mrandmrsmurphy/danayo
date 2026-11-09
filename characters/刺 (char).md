@@ -37,7 +37,7 @@ stand_in: 刺
 aliases:
   - 朿
 注音: ㄑㄧㄎ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -55,6 +55,11 @@ boundedness: 90
 - 497th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 昔開|iᴇk]] → [ㄑㄧㄎ](../syllables/ㄑㄧㄎ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 - Also attested in Middle Chinese as tsʰiᴇ, an alternate reading alongside the departing-tone form used for the Dan'a'yo derivation.
+
+## Aliases
+
+### 朿
+The original form of 刺, "thorn". SKIP 4-6-3; 6 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[刺客]]<rt>ㄑㄧㄎㄎㄚㄎ</rt></ruby> "assassin"

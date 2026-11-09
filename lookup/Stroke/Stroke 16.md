@@ -92,6 +92,8 @@ tags:
 - 噤 --> 禁
 - 衞 --> 衛
 - 蕭 --> 䔥
+- 劑 --> 剤
+- 勳 --> 勲
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

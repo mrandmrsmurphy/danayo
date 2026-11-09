@@ -15,6 +15,9 @@ tags: [lookup]
 2. <ruby>[朱](characters/朱.md)<rt>ㄐㄨ</rt></ruby> "cinnabar"
 3. <ruby>[虫](characters/虫.md)<rt>ㄐㄨㄫ</rt></ruby> "bug"
 
+### Aliases
+- 朿 --> 刺
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

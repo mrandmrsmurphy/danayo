@@ -28,6 +28,7 @@ tags: [lookup]
 ### Aliases
 - 啚 --> 鄙
 - 眾 --> 衆
+- 袈 --> 加
 
 ## Datacheck
 ```dataview

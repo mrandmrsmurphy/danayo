@@ -16,6 +16,9 @@ tags: [lookup]
 4. <ruby>[盾](characters/盾%20(char).md)<rt>ㄐㄨㄋ</rt></ruby> "shield"
 5. <ruby>[風](characters/風%20(char).md)<rt>ㄈㄨㄫ</rt></ruby> "wind"
 
+### Aliases
+- 凾 --> 函
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

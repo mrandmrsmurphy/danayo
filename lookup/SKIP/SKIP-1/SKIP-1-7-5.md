@@ -34,6 +34,7 @@ tags:
 
 ### Aliases
 - 註 --> 注
+- 跏 --> 加
 
 ### Forbidden
 - 𮘁 - 国字: 'telegram'

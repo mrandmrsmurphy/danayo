@@ -35,6 +35,7 @@ tags: [lookup]
 
 ### Aliases
 - 剏 --> 創
+- 剎 --> 刹
 
 ## Datacheck
 ```dataview

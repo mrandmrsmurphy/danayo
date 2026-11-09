@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### Aliases
 - 劼 --> 吉
+- 凯 --> 凱
 
 ## Datacheck
 ```dataview

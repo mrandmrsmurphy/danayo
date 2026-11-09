@@ -44,6 +44,7 @@ tags:
 - 敎 --> 教
 - 欸 --> 唉
 - 敛 --> 㪘
+- 敕 --> 勅
 
 ## Datacheck
 ```dataview

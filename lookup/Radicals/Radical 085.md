@@ -186,6 +186,7 @@ tags: [lookup]
 - 渾 --> 混
 - 渴 --> 渇
 - 游 --> 遊
+- 渤 --> 勃
 
 ### +9 Strokes
 124. <ruby>[源](../../characters/源.md)<rt>⼔ㄋ</rt></ruby> - origin

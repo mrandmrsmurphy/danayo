@@ -32,6 +32,7 @@ tags:
 - 则 --> 則
 - 刚 --> 剛
 - 创 --> 創
+- 刘 --> 劉
 
 ### +5 Strokes
 9. <ruby>[初](../../characters/初.md)<rt>ㄑㄛ</rt></ruby> - beginning
@@ -55,6 +56,7 @@ tags:
 23. <ruby>[前](../../characters/前%20(char).md)<rt>ㄐㄝㄋ</rt></ruby> - front
 - 剋 --> 克
 - 剏 --> 創
+- 剎 --> 刹
 
 ### +8 Strokes
 24. <ruby>[剖](../../characters/剖.md)<rt>ㄈㄛㄨ</rt></ruby> - dissect
@@ -75,6 +77,7 @@ tags:
 34. <ruby>[刺](../../characters/刺%20(char).md)<rt>ㄑㄧㄎ</rt></ruby> - stab
 35. <ruby>[割](../../characters/割%20(char).md)<rt>ㄍㄚㄊ</rt></ruby> - cut
 36. <ruby>[創](../../characters/創.md)<rt>ㄑ⺢ㄫ</rt></ruby> - originate
+- 剩 --> 剰
 
 ### +12 Strokes
 37. <ruby>[劃](../../characters/劃%20(char).md)<rt>ㄏ⺢ㄎ</rt></ruby> - divide
@@ -82,6 +85,9 @@ tags:
 ### +13 Strokes
 38. <ruby>[劇](../../characters/劇%20(char).md)<rt>ㄍㄝㄎ</rt></ruby> - drama
 39. <ruby>[劉](../../characters/劉.md)<rt>ㄌ⼜</rt></ruby> - conquer
+
+### +14 Strokes
+- 劑 --> 剤
 
 ### Aliases
 - 劍 --> 剣

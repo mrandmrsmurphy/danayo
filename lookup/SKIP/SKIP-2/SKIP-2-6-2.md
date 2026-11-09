@@ -23,6 +23,7 @@ tags: [lookup]
 - 劳 --> 労
 - 势 --> 勢
 - 兒 --> 児
+- 劵 --> 券
 
 ## Datacheck
 ```dataview

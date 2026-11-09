@@ -58,6 +58,7 @@ tags: [lookup]
 - 恬 --> 甜
 - 恆 --> 恒
 - 总 --> 総
+- 恸 --> 動
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance
@@ -132,6 +133,7 @@ tags: [lookup]
 82. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
 - 慓 --> 票
 - 愿 --> 願
+- 慟 --> 動
 
 ### +11 Strokes
 83. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread
@@ -160,6 +162,7 @@ tags: [lookup]
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere
+- 𢣛 --> 動
 
 ### +14 Strokes
 103. <ruby>[懲](../../characters/懲.md)<rt>ㄑㄧㄫ</rt></ruby> - punish

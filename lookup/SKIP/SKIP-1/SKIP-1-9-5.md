@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[鞀](/characters/鞀.md)<rt>ㄉㄚㄨ</rt></ruby> "pellet drum"
 3. <ruby>[鞄](characters/鞄%20(char).md)<rt>ㄆㄚㄎ</rt></ruby> "bag; luggage"
 
+### Aliases
+- 𬸛 --> 凰
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

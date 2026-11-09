@@ -87,6 +87,7 @@ tags:
 ### +10 Strokes
 40. <ruby>[購](../../characters/購.md)<rt>ㄍㄛㄨ</rt></ruby> - buy
 41. <ruby>[賽](../../characters/賽.md)<rt>ㄙㄚㄧ</rt></ruby> - compete
+- 賸 --> 剰
 
 ### +11 Strokes
 42. <ruby>[贈](../../characters/贈.md)<rt>ㄐㄜㄫ</rt></ruby> - present

@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 勲.
 >For the word, see [勲](../words/勲.md)
@@ -48,8 +48,19 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形聲 (OC \*qʰun): semantic [[Radical 019|力]] ("strength") + phonetic [[薫 (char)|熏]] (OC \*qʰun, an exact match; an alias of [[薫 (char)|薫]], per its own `aliases` field) — a meritorious deed; merit, achievement earned through effort. The true phonetic is 熏 (confirmed in English and Chinese Wiktionary), not the visually similar [[黒 (char)|黒]] ("black"). Variants *勛*, *勋*, and traditional *勳* all confirmed via English Wiktionary (this vault's primary form, 勲, is itself the Japanese shinjitai of 勳).
 - [SKIP-2-11-4](../lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
-- Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄏㄨㄋ](../syllables/ㄏㄨㄋ.md)
+- 1285th most used character in Classical Chinese (rank belongs to the traditional form 勳). Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄏㄨㄋ](../syllables/ㄏㄨㄋ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 勛
+A variant form of 勲, "meritorious deed". SKIP 1-10-2; 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 勋
+Simplified Chinese form of 勳. SKIP 1-7-2 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 勳
+Traditional form (kyūjitai) of 勲, "merit". SKIP 1-14-2; 16 strokes. It ranks 1285 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[勲]]<rt>ㄏㄨㄋ</rt></ruby> "meritorious deed; merit" (stand-in for 勲)

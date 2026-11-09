@@ -38,6 +38,7 @@ tags: [lookup]
 
 ### +7 Strokes
 12. <ruby>[圃](../../characters/圃.md)<rt>ㄅㄛ</rt></ruby> - seedbed
+- 圅 --> 函
 
 ### +8 Strokes
 13. <ruby>[圄](../../characters/圄.md)<rt>⼄</rt></ruby> - prison

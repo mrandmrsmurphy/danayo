@@ -28,6 +28,7 @@ tags: [lookup]
 - 认 --> 認
 - 仅 --> 僅
 - 仆 --> 僕
+- 仂 --> 動
 
 ## Datacheck
 ```dataview

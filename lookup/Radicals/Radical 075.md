@@ -30,6 +30,7 @@ tags: [lookup]
 11. <ruby>[朽](../../characters/朽.md)<rt>ㄏ⼜</rt></ruby> - decay
 - ¡杁! - 違法字
 - 权 --> 権
+- 朿 --> 刺
 
 ### +3 Strokes
 12. <ruby>[杆](../../characters/杆%20(char).md)<rt>ㄍㄚㄋ</rt></ruby> - rod

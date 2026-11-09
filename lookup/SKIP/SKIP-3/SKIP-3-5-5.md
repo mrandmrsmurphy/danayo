@@ -20,6 +20,9 @@ tags: [lookup]
 ### Forbidden
 - 疼 - 官话: HSK/1 and 한문교육용기초한자/이름, but best to keep one main suffix for "pain" -- use 痛 instead.
 
+### Aliases
+- 痂 --> 加
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

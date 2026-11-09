@@ -120,6 +120,12 @@ tags: [lookup]
 - 媮 --> 偷
 - 婾 --> 偷
 - 奡 --> 傲
+- 剩 --> 剰
+- 跏 --> 加
+- 渤 --> 勃
+- 𨔝 --> 動
+- 㣫 --> 動
+- 勛 --> 勲
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

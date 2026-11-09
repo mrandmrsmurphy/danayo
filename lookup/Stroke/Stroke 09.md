@@ -123,6 +123,10 @@ tags:
 - 爼 --> 俎
 - 𤕲 --> 俎
 - 俞 --> 兪
+- 凾 --> 函
+- 剎 --> 刹
+- 恸 --> 動
+- 勋 --> 勲
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

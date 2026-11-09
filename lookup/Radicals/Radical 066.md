@@ -40,6 +40,7 @@ tags: [lookup]
 12. <ruby>[敬](../../characters/敬.md)<rt>ㄍ⼶ㄫ</rt></ruby> - respect
 - 敝 --> 蔽
 - 敛 --> 㪘
+- 敕 --> 勅
 
 ### +8 Strokes
 13. <ruby>[敢](../../characters/敢.md)<rt>ㄍㄚㄇ</rt></ruby> - dare to
