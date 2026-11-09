@@ -29,6 +29,7 @@ tags: [lookup]
 7. <ruby>[羨](../../characters/羨.md)<rt>ㄧㄜ</rt></ruby> - envy
 8. <ruby>[義](../../characters/義.md)<rt>ㄜㄧ</rt></ruby> - meaning
 - 𦎍 --> 善
+- 羣 --> 群
 
 ### +13 Strokes
 9. <ruby>[羸](../../characters/羸.md)<rt>ㄌㄨㄧ</rt></ruby> - weakness

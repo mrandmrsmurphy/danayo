@@ -32,6 +32,7 @@ tags: [lookup]
 12. <ruby>[秦](../../characters/秦.md)<rt>ㄐㄧㄋ</rt></ruby> - Qin
 13. <ruby>[称](../../characters/称.md)<rt>ㄑㄧㄫ</rt></ruby> - appellation
 - 秤 --> 称
+- 积 --> 積
 
 ### +6 Strokes
 14. <ruby>[移](../../characters/移.md)<rt>⼶ㄧ</rt></ruby> - change

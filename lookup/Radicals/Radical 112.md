@@ -23,6 +23,7 @@ tags: [lookup]
 7. <ruby>[砥](../../characters/砥.md)<rt>ㄐㄧㄜ</rt></ruby> - whetstone
 8. <ruby>[砲](../../characters/砲.md)<rt>ㄅ⼘ㄨ</rt></ruby> - cannon
 9. <ruby>[破](../../characters/破%20(char).md)<rt>ㄆㄜ</rt></ruby> - rend
+- 础 --> 礎
 
 ### +6 Strokes
 10. <ruby>[砦](../../characters/砦.md)<rt>ㄐㄚㄧ</rt></ruby> - abatis
@@ -33,6 +34,7 @@ tags: [lookup]
 13. <ruby>[硫](../../characters/硫.md)<rt>ㄌ⼜</rt></ruby> - sulphur
 14. <ruby>[硬](../../characters/硬%20(char).md)<rt>ㄚㄫ</rt></ruby> - hard
 15. <ruby>[硯](../../characters/硯.md)<rt>ㄝㄋ</rt></ruby> - inkstone
+- 确 --> 確
 
 ### +8 Strokes
 16. <ruby>[硼](../../characters/硼.md)<rt>ㄅㄛㄫ</rt></ruby> - borax

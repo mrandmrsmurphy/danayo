@@ -62,6 +62,7 @@ tags:
 - 胜 --> 勝
 - 树 --> 樹
 - 拜 --> 拝
+- 脉 --> 脈
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

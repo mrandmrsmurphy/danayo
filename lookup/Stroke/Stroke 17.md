@@ -76,6 +76,7 @@ tags:
 - 壕 --> 豪
 - 闆 --> 板
 - 檢 --> 検
+- 總 --> 総
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

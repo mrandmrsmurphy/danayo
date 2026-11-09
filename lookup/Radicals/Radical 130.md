@@ -20,6 +20,7 @@ tags: [lookup]
 5. <ruby>[肘](../../characters/肘%20(char).md)<rt>ㄐㄨㄇ</rt></ruby> - elbow
 6. <ruby>[肛](../../characters/肛.md)<rt>ㄍㄚㄫ</rt></ruby> - anus
 7. <ruby>[肝](../../characters/肝.md)<rt>ㄍㄚㄋ</rt></ruby> - liver
+- 肠 --> 腸
 
 ### +2 Strokes
 8. <ruby>[䏜](../../characters/䏜.md)<rt>ㄇㄚㄆ</rt></ruby> - plump
@@ -46,6 +47,7 @@ tags: [lookup]
 27. <ruby>[胡](../../characters/胡.md)<rt>ㄏㄛㄨ</rt></ruby> - reckless
 28. <ruby>[胤](../../characters/胤.md)<rt>ㄧㄋ</rt></ruby> - heir
 29. <ruby>[胥](../../characters/胥.md)<rt>ㄙ⼄</rt></ruby> - mutually
+- 脉 --> 脈
 
 ### +4 Strokes
 30. <ruby>[胰](../../characters/胰.md)<rt>ㄧㄜ</rt></ruby> - pancreas

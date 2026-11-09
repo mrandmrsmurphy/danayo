@@ -38,6 +38,7 @@ tags: [lookup]
 - 稀 --> 希
 - 睏 --> 困
 - 稅 --> 税
+- 确 --> 確
 
 ## Datacheck
 ```dataview

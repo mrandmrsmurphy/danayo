@@ -170,6 +170,7 @@ tags: [lookup]
 119. <ruby>[嘴](../../characters/嘴.md)<rt>ㄑㄨㄧ</rt></ruby> - bill
 120. <ruby>[噫](../../characters/噫.md)<rt>ㄜ</rt></ruby> - belch
 121. <ruby>[噸](../../characters/噸%20(char).md)<rt>ㄊㄛㄋ</rt></ruby> - ton
+- 噤 --> 禁
 
 ### +14 Strokes
 122. <ruby>[嚇](../../characters/嚇%20(char).md)<rt>ㄏㄚㄎ</rt></ruby> - scare

@@ -117,6 +117,8 @@ tags:
 - 检 --> 検
 - 焔 --> 炎
 - 孰 --> 熟
+- 𰬥 --> 総
+- 绩 --> 績
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

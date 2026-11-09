@@ -36,6 +36,7 @@ tags: [lookup]
 
 ### Aliases
 - 綾 --> 凌
+- 綜 --> 総
 
 ## Datacheck
 ```dataview

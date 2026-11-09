@@ -15,6 +15,7 @@ tags: [lookup]
 ### Aliases
 - 粲 --> 燦
 - 裝 --> 装
+- 羣 --> 群
 
 ## Datacheck
 ```dataview

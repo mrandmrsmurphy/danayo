@@ -57,6 +57,7 @@ tags: [lookup]
 29. <ruby>[恍](../../characters/恍.md)<rt>ㄍ⺢ㄫ</rt></ruby> - vague
 - 恬 --> 甜
 - 恆 --> 恒
+- 总 --> 総
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance
@@ -101,6 +102,7 @@ tags: [lookup]
 61. <ruby>[慌](../../characters/慌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - nervous
 62. <ruby>[愕](../../characters/愕.md)<rt>ㄚㄎ</rt></ruby> - astonished
 63. <ruby>[惹](../../characters/惹.md)<rt>ㄋ⼘</rt></ruby> - irritate
+- 惣 --> 総
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought

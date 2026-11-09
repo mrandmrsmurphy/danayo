@@ -155,6 +155,8 @@ tags:
 - 惯 --> 慣
 - 馆 --> 館
 - 惊 --> 驚
+- 𰬥 --> 総
+- 绩 --> 績
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

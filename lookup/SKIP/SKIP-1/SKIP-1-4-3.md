@@ -39,6 +39,7 @@ tags:
 - 邨 --> 村
 - 灿 --> 燦
 - 壯 --> 壮
+- 肠 --> 腸
 
 ### Forbidden
 - 肚 - 官话: Mandarin only. "Belly." Use 腹 instead. No existing vault citations.

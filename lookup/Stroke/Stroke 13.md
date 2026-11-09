@@ -90,6 +90,8 @@ tags:
 - 尠 --> 鮮
 - 溪 --> 渓
 - 溫 --> 温
+- 简 --> 簡
+- 羣 --> 群
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

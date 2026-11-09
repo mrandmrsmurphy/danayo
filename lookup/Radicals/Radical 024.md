@@ -42,6 +42,9 @@ tags: [lookup]
 ### +10 Strokes
 14. <ruby>[博](../../characters/博.md)<rt>ㄅㄚㄎ</rt></ruby> - broad
 
+### +19 Strokes
+- 卛 --> 率
+
 ### Aliases
 - 单 --> 単
 - 卖 --> 売

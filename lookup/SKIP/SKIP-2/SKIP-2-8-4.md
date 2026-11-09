@@ -33,6 +33,7 @@ tags: [lookup]
 - 勞 --> 労
 - 雳 --> 歴
 - 辈 --> 輩
+- 惣 --> 総
 
 ## Datacheck
 ```dataview

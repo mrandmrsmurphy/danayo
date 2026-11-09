@@ -39,6 +39,8 @@ tags:
 - 秤 --> 称
 - 竝 --> 並
 - 鬥 --> 斗
+- 础 --> 礎
+- 积 --> 積
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.

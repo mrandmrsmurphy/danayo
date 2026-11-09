@@ -88,6 +88,7 @@ tags:
 50. <ruby>[塩](../../characters/塩%20(char).md)<rt>⼶ㄇ</rt></ruby> - salt
 51. <ruby>[填](../../characters/填%20(char).md)<rt>ㄉㄝㄋ</rt></ruby> - fill in
 52. <ruby>[墓](../../characters/墓.md)<rt>ㄇㄛ</rt></ruby> - grave
+- 塙 --> 確
 
 ### +11 Strokes
 53. <ruby>[塵](../../characters/塵.md)<rt>ㄐㄧㄋ</rt></ruby> - dirt

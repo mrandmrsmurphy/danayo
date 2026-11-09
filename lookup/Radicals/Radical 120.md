@@ -12,6 +12,8 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[糸](../../characters/糸.md)<rt>ㄙㄚ</rt></ruby> - silk thread
+- 纪 --> 紀
+- 级 --> 級
 
 ### +1 Stroke
 2. <ruby>[系](../../characters/系.md)<rt>ㄏㄝㄧ</rt></ruby> - system
@@ -19,6 +21,8 @@ tags: [lookup]
 ### +2 Strokes
 - 终 --> 終
 - 线 --> 線
+- 组 --> 組
+- 织 --> 織
 
 ### +3 Strokes
 3. <ruby>[紀](../../characters/紀.md)<rt>ㄍㄧ</rt></ruby> - century
@@ -42,6 +46,8 @@ tags: [lookup]
 17. <ruby>[索](../../characters/索.md)<rt>ㄙㄚㄎ</rt></ruby> - search
 18. <ruby>[紐](../../characters/紐.md)<rt>ㄋ⼜ㄛ</rt></ruby> - knot
 19. <ruby>[䋇](../../characters/䋇%20(char).md)<rt>⼶ㄎ</rt></ruby> - unravel
+- 继 --> 継
+- 紧 --> 緊
 
 ### +5 Strokes
 20. <ruby>[紬](../../characters/紬.md)<rt>ㄑㄨㄛ</rt></ruby> - silk
@@ -56,6 +62,8 @@ tags: [lookup]
 29. <ruby>[絆](../../characters/絆.md)<rt>ㄅㄚㄋ</rt></ruby> - band
 30. <ruby>[経](../../characters/経%20(char).md)<rt>ㄍㄝㄫ</rt></ruby> - classic
 - 续 --> 続
+- 𰬥 --> 総
+- 绩 --> 績
 
 ### +6 Strokes
 31. <ruby>[糾](../../characters/糾%20(char).md)<rt>ㄍ⼜ㄛ</rt></ruby> - twist
@@ -74,6 +82,7 @@ tags: [lookup]
 - 絛 --> 条
 - 缐 --> 線
 - 絳 --> 降
+- 编 --> 編
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk
@@ -95,6 +104,7 @@ tags: [lookup]
 56. <ruby>[緒](../../characters/緒.md)<rt>ㄙ⼄</rt></ruby> - state of mind
 57. <ruby>[練](../../characters/練.md)<rt>ㄌㄝㄋ</rt></ruby> - practice
 - 缩 --> 縮
+- 綜 --> 総
 
 ### +9 Strokes
 58. <ruby>[緊](../../characters/緊.md)<rt>ㄍㄧㄋ</rt></ruby> - tense
@@ -125,6 +135,7 @@ tags: [lookup]
 76. <ruby>[繋](../../characters/繋.md)<rt>ㄏㄝㄧ</rt></ruby> - fasten
 77. <ruby>[繍](../../characters/繍.md)<rt>ㄙ⼜</rt></ruby> - embroidery
 - 𮈾 --> 窓
+- 總 --> 総
 
 ### +12 Strokes
 78. <ruby>[織](../../characters/織.md)<rt>ㄐㄧㄎ</rt></ruby> - weave
@@ -137,10 +148,12 @@ tags: [lookup]
 
 ### +14 Strokes
 83. <ruby>[纂](../../characters/纂.md)<rt>ㄐ⺢ㄋ</rt></ruby> - compile
+- 繼 --> 継
 
 ### +15 Strokes
 84. <ruby>[纏](../../characters/纏.md)<rt>ㄐㄝㄋ</rt></ruby> - wrap
 - 續 --> 続
+- 纍 --> 累
 
 ### +17 Strokes
 - 纓 --> 嬰

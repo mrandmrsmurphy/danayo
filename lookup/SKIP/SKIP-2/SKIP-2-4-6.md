@@ -24,6 +24,7 @@ tags: [lookup]
 ### Aliases
 - 爱 --> 愛
 - 晟 --> 成
+- 紧 --> 緊
 
 ## Datacheck
 ```dataview

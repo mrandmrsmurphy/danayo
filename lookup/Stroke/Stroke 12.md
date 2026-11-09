@@ -111,6 +111,9 @@ tags: [lookup]
 - 鈑 --> 板
 - 凖 --> 準
 - 琰 --> 炎
+- 确 --> 確
+- 惣 --> 総
+- 编 --> 編
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

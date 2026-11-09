@@ -43,6 +43,7 @@ tags:
 
 ### +7 Strokes
 20. <ruby>[節](../../characters/節%20(char).md)<rt>ㄐㄝㄊ</rt></ruby> - node
+- 简 --> 簡
 
 ### +8 Strokes
 21. <ruby>[箋](../../characters/箋.md)<rt>ㄐㄝㄋ</rt></ruby> - memo

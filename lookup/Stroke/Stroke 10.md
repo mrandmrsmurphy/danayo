@@ -103,6 +103,10 @@ tags:
 - 悅 --> 悦
 - 敌 --> 敵
 - 凉 --> 涼
+- 础 --> 礎
+- 积 --> 積
+- 继 --> 継
+- 紧 --> 緊
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

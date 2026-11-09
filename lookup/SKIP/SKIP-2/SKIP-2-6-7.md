@@ -23,6 +23,7 @@ tags: [lookup]
 - 筺 --> 筐
 - 畵 --> 画
 - 𦎍 --> 善
+- 简 --> 簡
 
 ### Forbidden
 - 筽 - 국자: 한문교육용기초한자/이름, 버들고리 오 (beodeulgori o), a willow trunk; also a hamper made of wicker

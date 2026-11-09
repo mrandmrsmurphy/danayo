@@ -238,3 +238,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 港 | 𣽣 | 1-3-12 | computed from its parts |
 | 港 | 𣿑 | 1-3-13 | computed from its parts |
 | 状 | 狀 | 1-4-4 | computed from its parts |
+| 礎 | 础 | 1-5-5 | computed from its parts |
+| 積 | 积 | 1-5-5 | computed from its parts |
+| 簡 | 简 | 2-6-7 | computed from its parts |
+| 紀 | 纪 | 1-3-3 | computed from its parts |
+| 級 | 级 | 1-3-3 | computed from its parts |
+| 組 | 组 | 1-3-5 | computed from its parts |
+| 継 | 继 | 1-3-7 | computed from its parts |
+| 緊 | 紧 | 2-4-6 | computed from its parts |
+| 総 | 𰬥 | 1-3-8 | computed from its parts |
+| 総 | 总 | 2-5-4 | computed from its parts |
+| 編 | 编 | 1-3-9 | computed from its parts |
+| 績 | 绩 | 1-3-8 | computed from its parts |
+| 織 | 织 | 1-3-5 | computed from its parts |
+| 腸 | 肠 | 1-4-3 | computed from its parts |
