@@ -36,6 +36,7 @@ tags: [lookup]
 - 靜 --> 静
 - 雕 --> 彫
 - 錕 --> 昆
+- 燄 --> 焰
 
 ## Datacheck
 ```dataview

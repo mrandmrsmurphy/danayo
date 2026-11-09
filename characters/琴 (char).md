@@ -28,12 +28,7 @@ graphemic_classification: 象形
 stand_in: 琴
 aliases:
   - 珡
-  - 𤦡
-  - 𤩟
   - 琹
-  - 𨨖
-  - 𩰔
-  - 䦦
   - 䥅
   - 䥆
 注音: ㄍㄨㄇ
@@ -41,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 琴.
 >For the word, see [琴](../words/琴.md)
@@ -55,6 +50,20 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-8-4](../lookup/SKIP/SKIP-2/SKIP-2-8-4.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1396th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 群|g]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄍㄨㄇ](../syllables/ㄍㄨㄇ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 珡
+A variant form of 琴, "zither". SKIP 2-8-2; 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 琹
+A variant form of 琴. SKIP 2-8-4; 12 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 䥅
+An ancient form of 琴, "a musical instrument". SKIP 1-8-10 (computed: EDRDG does not list it); 18 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
+
+### 䥆
+An ancient form of 琴, "a musical instrument". SKIP 1-8-10 (computed: EDRDG does not list it); 18 strokes. Radical 167 金. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[琴]]<rt>ㄍㄨㄇ</rt></ruby> "zither" (stand-in for 琴 (char))

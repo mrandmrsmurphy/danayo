@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 灘.
 >For the word, see [灘](../words/灘.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-18](Lookup/SKIP/SKIP-1/SKIP-1-3-18.md) ([Stroke 21](Lookup/Stroke/Stroke%2021.md))
 - 5301st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄊㄚㄋ](../syllables/ㄊㄚㄋ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [Old HSK 3](Lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](Lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 滩
+Simplified Chinese form of 灘. SKIP 1-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 潬
+A variant form of 灘, "sandbank". SKIP 1-3-12; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[灘]]<rt>ㄊㄚㄋ</rt></ruby> "bank, shoal"

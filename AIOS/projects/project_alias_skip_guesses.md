@@ -491,3 +491,32 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 潤 (char) | 润 | 1-3-7 | computed from its parts |
 | 潰 (char) | 溃 | 1-3-9 | computed from its parts |
 | 澈 | 彻 | 1-3-4 | computed from its parts |
+| 濃 | 浓 | 1-3-6 | computed from its parts |
+| 濫 | 滥 | 1-3-10 | computed from its parts |
+| 瀕 | 濒 | 1-3-13 | computed from its parts |
+| 瀬 | 瀨 | 1-3-16 | computed from its parts |
+| 瀬 | 濑 | 1-3-13 | computed from its parts |
+| 灌 | 浂 | 1-3-6 | computed from its parts |
+| 灘 (char) | 滩 | 1-3-10 | computed from its parts |
+| 炒 (char) | 煼 | 1-4-10 | computed from its parts |
+| 炒 (char) | 𩱦 | 1-10-16 | computed from its parts |
+| 烏 | 乌 | 4-4-1 | computed from its parts |
+| 焚 | 炃 | 1-4-4 | computed from its parts |
+| 燭 | 烛 | 1-4-6 | computed from its parts |
+| 爬 | 𧿆 | 1-7-3 | computed from its parts |
+| 爺 | 爷 | 2-4-2 | computed from its parts |
+| 牆 | 墙 | 1-3-11 | computed from its parts |
+| 牽 | 牵 | 2-3-6 | computed from its parts |
+| 犠 | 牺 | 1-4-6 | computed from its parts |
+| 狗 | 豿 | 1-7-5 | computed from its parts |
+| 狗 | 㺃 | 1-3-9 | computed from its parts |
+| 狽 | 狈 | 1-3-4 | computed from its parts |
+| 狽 | 䟺 | 1-7-7 | computed from its parts |
+| 獄 | 狱 | 1-3-6 | computed from its parts |
+| 玆 | 兹 | 2-3-6 | computed from its parts |
+| 琴 (char) | 䥅 | 1-8-10 | computed from its parts |
+| 琴 (char) | 䥆 | 1-8-10 | computed from its parts |
+| 琺 | 珐 | 1-4-5 | computed from its parts |
+| 環 (char) | 环 | 1-4-4 | computed from its parts |
+| 璽 | 玺 | 2-5-5 | computed from its parts |
+| 璽 | 鈢 | 1-8-4 | computed from its parts |

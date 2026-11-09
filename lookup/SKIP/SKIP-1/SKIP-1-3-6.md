@@ -106,6 +106,9 @@ tags:
 - 怸 --> 悉
 - 恃 --> 持
 - 𢫼 --> 掻
+- 浓 --> 濃
+- 浂 --> 灌
+- 狱 --> 獄
 
 ### Forbidden
 - 𣴘 - 국자: 대 (“the second note, 대려 (大呂, daeryeo) of the Shí-èr-lǜ musical scale that is two octaves higher”)

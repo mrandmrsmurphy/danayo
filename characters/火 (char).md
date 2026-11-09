@@ -30,7 +30,7 @@ stand_in: 火
 aliases:
   - 灬
 注音: ㄏ⺢
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -48,6 +48,12 @@ boundedness: 90
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 388th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 戈一合|uɑ]] → [ㄏ⺢](../syllables/ㄏ⺢.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 灬
+The Kangxi radical 86 in its lower form; kept as an alias of 火. SKIP 1-1-3; 4 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[火]]<rt>ㄏ⺢</rt></ruby> "fire" (stand-in for 火)
 - <ruby>[[火鼠]]<rt>ㄏ⺢ㄙ⼄</rt></ruby> "fire rat (mythological)"

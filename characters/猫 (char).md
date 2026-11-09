@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 猫.
 >For the word, see [猫](../words/猫.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 6393rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 宵B|ɣiᴇu]] → [ㄇ⼘ㄨ](../syllables/ㄇ⼘ㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 貓
+Traditional form of 猫, "cat". SKIP 1-7-9; 15 strokes. Radical 153 豸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[猫]]<rt>ㄇ⼘ㄨ</rt></ruby> "cat" (stand-in for 猫)

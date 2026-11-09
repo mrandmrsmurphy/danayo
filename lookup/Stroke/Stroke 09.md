@@ -162,6 +162,12 @@ tags:
 - 毗 --> 毘
 - 柢 --> 氐
 - 砂 --> 沙
+- 浓 --> 濃
+- 浂 --> 灌
+- 牵 --> 牽
+- 狱 --> 獄
+- 兹 --> 玆
+- 珐 --> 琺
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

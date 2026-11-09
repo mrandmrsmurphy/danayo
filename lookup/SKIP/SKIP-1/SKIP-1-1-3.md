@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[水](characters/水%20(char).md)<rt>ㄙㄨ</rt></ruby> - water
 2. <ruby>[心](characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
 
+### Aliases
+- 灬 --> 火
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

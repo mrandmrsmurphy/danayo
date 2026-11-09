@@ -23,6 +23,7 @@ date-last-perfect: 2026-10-05
 
 ### +4 Strokes
 6. <ruby>[鴎](../../characters/鴎%20(char).md)<rt>ㄛㄨ</rt></ruby> - seagull
+- 鴉 --> 烏
 
 ### +5 Strokes
 7. <ruby>[鴔](../../characters/鴔.md)<rt>ㄅㄧㄆ</rt></ruby> - hoopoe
@@ -57,6 +58,7 @@ date-last-perfect: 2026-10-05
 ### +12 Strokes
 - 鷲 --> 就
 - 鷺 --> 路
+- 鷦 --> 焦
 
 ### +13 Strokes
 20. <ruby>[鷹](../../characters/鷹%20(char).md)<rt>ㄧㄫ</rt></ruby> - hawk

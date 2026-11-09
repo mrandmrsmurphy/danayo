@@ -127,6 +127,10 @@ tags:
 - 㵕 --> 滲
 - 潛 --> 潜
 - 徹 --> 澈
+- 潬 --> 灘
+- 鴉 --> 烏
+- 貓 --> 猫
+- 瑩 --> 瑛
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

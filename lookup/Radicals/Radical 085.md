@@ -89,6 +89,7 @@ tags: [lookup]
 - 泗 --> 四
 - 沬 --> 沫
 - 泄 --> 洩
+- 泠 --> 澪
 
 ### +5 Strokes
 49. <ruby>[泉](../../characters/泉.md)<rt>ㄐ⼔ㄋ</rt></ruby> - fountain
@@ -116,6 +117,8 @@ tags: [lookup]
 - 洁 --> 潔
 - 测 --> 測
 - 洺 --> 名
+- 浓 --> 濃
+- 浂 --> 灌
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -234,6 +237,8 @@ tags: [lookup]
 - 溟 --> 冥
 - 滉 --> 晃
 - 滛 --> 淫
+- 滥 --> 濫
+- 滩 --> 灘
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -260,6 +265,7 @@ tags: [lookup]
 - 㵆 --> 浩
 - 滿 --> 満
 - 满 --> 満
+- 潅 --> 灌
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean
@@ -280,6 +286,7 @@ tags: [lookup]
 - 潭 --> 湛
 - 㵕 --> 滲
 - 潛 --> 潜
+- 潬 --> 灘
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
@@ -289,6 +296,8 @@ tags: [lookup]
 - ¡澡! - 違法字
 - 澣 --> 浣
 - 澱 --> 淀
+- 濒 --> 瀕
+- 濑 --> 瀬
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder
@@ -315,6 +324,7 @@ tags: [lookup]
 - 瀝 --> 歴
 - 瀛 --> 嬴
 - 濳 --> 潜
+- 瀨 --> 瀬
 
 ### +16 Strokes
 172. <ruby>[瀕](../../characters/瀕.md)<rt>ㄅㄧㄋ</rt></ruby> - near death

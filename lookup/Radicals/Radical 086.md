@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[火](../../characters/火%20(char).md)<rt>ㄏ⺢</rt></ruby> - fire
+- 灬 --> 火
 
 ### +1 Stroke
 - 灭 --> 滅
@@ -32,6 +33,7 @@ tags: [lookup]
 8. <ruby>[炊](../../characters/炊%20(char).md)<rt>ㄑㄨㄧ</rt></ruby> - cook
 9. <ruby>[炎](../../characters/炎.md)<rt>ㄝㄇ</rt></ruby> - flame
 10. <ruby>[炒](../../characters/炒%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - fry
+- 炃 --> 焚
 
 ### +5 Strokes
 11. <ruby>[炢](../../characters/炢.md)<rt>ㄉㄨㄊ</rt></ruby> - produce smoke
@@ -48,11 +50,13 @@ tags: [lookup]
 - 烦 --> 煩
 - 烙 --> 落
 - 烣 --> 恢
+- 烛 --> 燭
 
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
 - 焕 --> 煥
 - 焔 --> 炎
+- 焔 --> 焰
 
 ### +8 Strokes
 20. <ruby>[焚](../../characters/焚.md)<rt>ㄅㄨㄋ</rt></ruby> - burn
@@ -74,12 +78,14 @@ tags: [lookup]
 33. <ruby>[煩](../../characters/煩%20(char).md)<rt>ㄈㄛㄇ</rt></ruby> - troublesome
 - 煇 --> 暈
 - 煖 --> 暖
+- 煠 --> 炸
 
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
 - 熒 --> 蛍
 - 煽 --> 扇
 - 熔 --> 溶
+- 煼 --> 炒
 
 ### +11 Strokes
 35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen
@@ -91,6 +97,10 @@ tags: [lookup]
 39. <ruby>[燃](../../characters/燃.md)<rt>ㄋ⼶ㄋ</rt></ruby> - burn
 40. <ruby>[燐](../../characters/燐.md)<rt>ㄌㄧㄋ</rt></ruby> - phosphorus
 41. <ruby>[燕](../../characters/燕.md)<rt>ㄝㄋ</rt></ruby> - swallow (bird)
+- 燌 --> 焚
+- 燓 --> 焚
+- 燔 --> 焚
+- 燄 --> 焰
 
 ### +13 Strokes
 42. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched
@@ -100,6 +110,10 @@ tags: [lookup]
 
 ### +15 Strokes
 45. <ruby>[爆](../../characters/爆.md)<rt>ㄅㄛㄎ</rt></ruby> - explode
+
+### +16 Strokes
+- 爐 --> 炉
+- 爓 --> 焰
 
 ### +20 Strokes
 46. <ruby>[熊](../../characters/熊%20(char).md)<rt>ㄨㄫ</rt></ruby> - bear

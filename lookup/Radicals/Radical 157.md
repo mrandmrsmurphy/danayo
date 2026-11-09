@@ -13,6 +13,9 @@ tags:
 ### +0 Strokes
 1. <ruby>[足](../../characters/足%20(char).md)<rt>ㄐㄛㄎ</rt></ruby> - foot
 
+### +3 Strokes
+- 𧿆 --> 爬
+
 ### +5 Strokes
 2. <ruby>[跆](../../characters/跆.md)<rt>ㄊㄛㄧ</rt></ruby> - trample
 3. <ruby>[跌](../../characters/跌.md)<rt>ㄉㄝㄊ</rt></ruby> - fall down
@@ -32,6 +35,7 @@ tags:
 ### +7 Strokes
 13. <ruby>[踊](../../characters/踊.md)<rt>⼄ㄫ</rt></ruby> - jump
 14. <ruby>[踝](../../characters/踝.md)<rt>ㄏ⺢</rt></ruby> - ankle
+- 䟺 --> 狽
 
 ### +8 Strokes
 15. <ruby>[踏](../../characters/踏.md)<rt>ㄊㄚㄆ</rt></ruby> - step on

@@ -107,6 +107,7 @@ tags:
 - 沟 --> 溝
 - 孜 --> 滋
 - 彻 --> 澈
+- 狈 --> 狽
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

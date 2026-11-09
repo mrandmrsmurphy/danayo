@@ -116,6 +116,7 @@ tags:
 58. <ruby>[墨](../../characters/墨.md)<rt>ㄇㄨㄎ</rt></ruby> - ink
 - 墖 --> 塔
 - 塹 --> 斬
+- 墙 --> 牆
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall
@@ -131,6 +132,7 @@ tags:
 65. <ruby>[壇](../../characters/壇%20(char).md)<rt>ㄉㄚㄋ</rt></ruby> - altar
 66. <ruby>[壊](../../characters/壊.md)<rt>ㄏ⺢ㄧ</rt></ruby> - demolish
 67. <ruby>[壌](../../characters/壌.md)<rt>ㄋ⼘ㄫ</rt></ruby> - soil
+- 墻 --> 牆
 
 ### +14 Strokes
 - 壓 --> traditional form of 圧

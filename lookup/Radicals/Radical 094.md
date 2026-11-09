@@ -26,6 +26,7 @@ tags:
 5. <ruby>[狂](../../characters/狂.md)<rt>ㄍ⺢ㄫ</rt></ruby> - crazy
 - 狄 --> 翟
 - 犹 --> 猶
+- 狈 --> 狽
 
 ### +4 Strokes
 6. <ruby>[狐](../../characters/狐.md)<rt>ㄏㄛ</rt></ruby> - fox
@@ -33,6 +34,7 @@ tags:
 8. <ruby>[狙](../../characters/狙.md)<rt>ㄑㄛ</rt></ruby> - spy
 - 雎 --> variant of 狙
 - 狀 --> 状
+- 狌 --> 猩
 
 ### +5 Strokes
 9. <ruby>[狩](../../characters/狩.md)<rt>ㄙ⼜</rt></ruby> - hunt
@@ -42,6 +44,7 @@ tags:
 - 狹 --> traditional form of 狭
 
 12. <ruby>[狡](../../characters/狡.md)<rt>ㄍ⼄ㄨ</rt></ruby> - cunning
+- 狱 --> 獄
 
 ### +6 Strokes
 13. <ruby>[狸](../../characters/狸%20(char).md)<rt>ㄌㄜ</rt></ruby> - tanuki
@@ -71,6 +74,7 @@ tags:
 23. <ruby>[猶](../../characters/猶%20(char).md)<rt>⼜ㄛ</rt></ruby> - furthermore
 - 猷 --> variant of 猶
 - 犹 --> simplified of 猶
+- 㺃 --> 狗
 
 ### +9 Strokes
 24. <ruby>[献](../../characters/献.md)<rt>ㄏㄝㄋ</rt></ruby> - offer
@@ -101,6 +105,9 @@ tags:
 ### +15 Strokes
 30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter
 - 獭 --> simplified of 獺
+
+### +16 Strokes
+- 獻 --> 献
 
 ### Aliases
 - 猟 --> 獵

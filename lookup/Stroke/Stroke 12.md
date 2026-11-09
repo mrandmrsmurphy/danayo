@@ -182,6 +182,10 @@ tags: [lookup]
 - 覃 --> 湛
 - 溉 --> 漑
 - 溃 --> 潰
+- 豿 --> 狗
+- 㺃 --> 狗
+- 琹 --> 琴
+- 鈢 --> 璽
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

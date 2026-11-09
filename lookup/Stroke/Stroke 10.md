@@ -161,6 +161,13 @@ tags:
 - 陼 --> 渚
 - 涡 --> 渦
 - 润 --> 潤
+- 烛 --> 燭
+- 𧿆 --> 爬
+- 牺 --> 犠
+- 茲 --> 玆
+- 莞 --> 玩
+- 珡 --> 琴
+- 玺 --> 璽
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

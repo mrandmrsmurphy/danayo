@@ -32,16 +32,13 @@ graphemic_classification: "少"
 stand_in: "炒"
 aliases:
   - 煼
-  - 㷅
   - 𩱦
-  - 𩱈
-  - 㶤
 注音: "ㄑㄚㄨ"
 kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 炒.
 >For the word, see [炒](../words/炒.md)
@@ -55,6 +52,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-4-4](../lookup/SKIP/SKIP-1/SKIP-1-4-4.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 7495`, not independently verifiable against a lookup page). Ancient [[Lookup/CC/initials/聲 初|t͡ʃʰ]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄑㄚㄨ](../syllables/ㄑㄚㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 煼
+An alternative form of 炒, "to stir-fry". SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𩱦
+A dialect form of a fried, dried pastry; kept as an alias of 炒. SKIP 1-10-16 (computed: EDRDG does not list it); 26 strokes. Radical 193 鬲. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[炒]]<rt>ㄑㄚㄨ</rt></ruby> "fry; sauté" (stand-in for 炒)

@@ -34,6 +34,8 @@ tags: [lookup]
 ### Aliases
 - 㪟 --> 敦
 - 䯨 --> 敲
+- 鉩 --> 璽
+- 鉨 --> 璽
 
 ## Datacheck
 ```dataview

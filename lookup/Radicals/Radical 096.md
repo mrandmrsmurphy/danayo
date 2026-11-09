@@ -19,6 +19,8 @@ tags:
 
 ### +3 Strokes
 4. <ruby>[玩](../../characters/玩.md)<rt>⺢ㄋ</rt></ruby> - toy
+- 玪 --> 琳
+- 环 --> 環
 
 ### +4 Strokes
 5. <ruby>[玲](../../characters/玲.md)<rt>ㄌㄝㄫ</rt></ruby> - tinkling of jade
@@ -30,16 +32,21 @@ tags:
 11. <ruby>[珉](../../characters/珉.md)<rt>ㄇㄧㄋ</rt></ruby> - jade-like stone
 12. <ruby>[珊](../../characters/珊.md)<rt>ㄙㄚㄋ</rt></ruby> - coral
 13. <ruby>[珍](../../characters/珍%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> - rare
+- 珐 --> 琺
 
 ### +5 Strokes
 14. <ruby>[珠](../../characters/珠.md)<rt>ㄐㄨ</rt></ruby> - pearl
 15. <ruby>[班](../../characters/班%20(char).md)<rt>ㄆㄚㄋ</rt></ruby> - group
+- 珡 --> 琴
+- 玺 --> 璽
 
 ### +6 Strokes
 16. <ruby>[現](../../characters/現%20(char).md)<rt>ㄏ⼶ㄋ</rt></ruby> - present
 17. <ruby>[球](../../characters/球%20(char).md)<rt>ㄍ⼜</rt></ruby> - sphere
 18. <ruby>[理](../../characters/理.md)<rt>ㄌㄧ</rt></ruby> - -ology
 19. <ruby>[琢](../../characters/琢.md)<rt>ㄊㄚㄎ</rt></ruby> - polish jewels
+- 琉 --> 瑠
+- 琅 --> 瑯
 
 ### +7 Strokes
 20. <ruby>[琥](../../characters/琥.md)<rt>ㄏㄛ</rt></ruby> - amber
@@ -50,12 +57,14 @@ tags:
 25. <ruby>[琺](../../characters/琺.md)<rt>ㄈㄚㄆ</rt></ruby> - enamel
 26. <ruby>[瑛](../../characters/瑛.md)<rt>ㄝㄫ</rt></ruby> - luster
 - 琰 --> 炎
+- 琹 --> 琴
 
 ### +8 Strokes
 27. <ruby>[瑁](../../characters/瑁.md)<rt>ㄇㄚㄨ</rt></ruby> - jade
 28. <ruby>[瑚](../../characters/瑚.md)<rt>ㄏㄛㄨ</rt></ruby> - coral
 29. <ruby>[瑞](../../characters/瑞.md)<rt>ㄙ⼔</rt></ruby> - auspicious
 30. <ruby>[瑟](../../characters/瑟%20(char).md)<rt>ㄙㄜㄊ</rt></ruby> - se (instrument)
+- 瑇 --> 玳
 
 ### +9 Strokes
 31. <ruby>[瑠](../../characters/瑠.md)<rt>ㄌ⼜</rt></ruby> - lapis lazuli
@@ -63,6 +72,7 @@ tags:
 
 ### +10 Strokes
 33. <ruby>[璃](../../characters/璃%20(char).md)<rt>ㄌㄜ</rt></ruby> - glass
+- 瑩 --> 瑛
 
 ### +11 Strokes
 34. <ruby>[璣](../../characters/璣.md)<rt>ㄍㄧㄜ</rt></ruby> - pearl that is not quite round

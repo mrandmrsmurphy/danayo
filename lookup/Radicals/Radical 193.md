@@ -13,6 +13,7 @@ No characters are currently filed under this radical. 鬲 itself is an alias of 
 
 ### Aliases
 - 鬲 --> 隔
+- 𩱦 --> 炒
 
 ## Data check
 ```dataview

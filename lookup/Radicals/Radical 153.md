@@ -12,9 +12,16 @@ tags: [lookup]
 
 ### +5 Strokes
 1. <ruby>[貂](../../characters/貂.md)<rt>ㄑㄛ</rt></ruby> - mink
+- 豿 --> 狗
 
 ### +6 Strokes
 - 貇 --> 懇
+
+### +7 Strokes
+- 貍 --> 狸
+
+### +8 Strokes
+- 貓 --> 猫
 
 ### +9 Strokes
 2. <ruby>[貒](../../characters/貒%20(char).md)<rt>ㄊ⺢ㄋ</rt></ruby> - wild boar

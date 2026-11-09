@@ -29,6 +29,9 @@ tags: [lookup]
 16. <ruby>[配](/characters/配%20(char).md)<rt>ㄆㄛㄧ</rt></ruby> "match"
 17. <ruby>[酎](/characters/酎.md)<rt>ㄐㄨㄛ</rt></ruby> "saké"
 
+### Aliases
+- 𧿆 --> 爬
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

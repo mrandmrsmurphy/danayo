@@ -14,6 +14,9 @@ tags: [lookup]
 - 进 --> 進
 - 运 --> 運
 
+### +1 Stroke
+- 迦 --> 珈
+
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
 

@@ -37,6 +37,7 @@ tags: [lookup]
 - 惡 --> 悪
 - 惩 --> 懲
 - 暂 --> 暫
+- 琹 --> 琴
 
 ## Datacheck
 ```dataview

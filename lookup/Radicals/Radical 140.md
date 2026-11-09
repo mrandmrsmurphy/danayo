@@ -41,6 +41,8 @@ tags:
 13. <ruby>[芸](../../characters/芸.md)<rt>ㄝ</rt></ruby> - skill
 14. <ruby>[芼](../../characters/芼.md)<rt>ㄇㄚㄨ</rt></ruby> - cook
 15. <ruby>[芹](../../characters/芹.md)<rt>ㄍㄧㄋ</rt></ruby> - celery
+- 茲 --> 玆
+- 莞 --> 玩
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water

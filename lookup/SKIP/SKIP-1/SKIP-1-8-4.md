@@ -37,6 +37,7 @@ tags: [lookup]
 - 㰶 --> 呕
 - 㦸 --> 戟
 - 殼 --> 殻
+- 鈢 --> 璽
 
 ## Datacheck
 ```dataview

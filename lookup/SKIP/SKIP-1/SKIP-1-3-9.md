@@ -184,6 +184,7 @@ tags:
 - 陼 --> 渚
 - 溉 --> 漑
 - 溃 --> 潰
+- 㺃 --> 狗
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

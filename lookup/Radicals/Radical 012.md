@@ -32,6 +32,7 @@ tags: [lookup]
 
 ### +7 Strokes
 - 养 --> 養
+- 兹 --> 玆
 
 ### +8 Strokes
 9. <ruby>[兼](../../characters/兼%20(char).md)<rt>ㄍㄝㄇ</rt></ruby> - double as

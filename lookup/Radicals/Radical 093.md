@@ -26,12 +26,15 @@ tags: [lookup]
 
 ### +5 Strokes
 7. <ruby>[牲](../../characters/牲.md)<rt>ㄙㄚㄫ</rt></ruby> - animal sacrifice
+- 牵 --> 牽
 
 ### +6 Strokes
 8. <ruby>[特](../../characters/特.md)<rt>ㄉㄜㄎ</rt></ruby> - special
+- 牺 --> 犠
 
 ### +7 Strokes
 9. <ruby>[牽](../../characters/牽.md)<rt>ㄎㄝㄋ</rt></ruby> - tow
+- 犁 --> 犂
 
 ### +8 Strokes
 10. <ruby>[犂](../../characters/犂.md)<rt>ㄌㄝㄧ</rt></ruby> - plough
@@ -40,6 +43,9 @@ tags: [lookup]
 
 ### +13 Strokes
 12. <ruby>[犠](../../characters/犠.md)<rt>ㄏㄨㄧ</rt></ruby> - sacrifice
+
+### +16 Strokes
+- 犧 --> 犠
 
 ### Aliases
 - 牠 --> 他

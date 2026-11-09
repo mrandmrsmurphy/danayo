@@ -36,6 +36,7 @@ tags: [lookup]
 9. <ruby>[鈩](../../characters/鈩.md)<rt>ㄌㄛ</rt></ruby> - fireplace
 10. <ruby>[鈬](../../characters/鈬%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
 - 鈑 --> 板
+- 鈢 --> 璽
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell
@@ -49,6 +50,8 @@ tags: [lookup]
 19. <ruby>[鉦](../../characters/鉦.md)<rt>ㄐㄧㄫ</rt></ruby> - marching gong
 20. <ruby>[鉱](../../characters/鉱.md)<rt>ㄍ⺢ㄫ</rt></ruby> - mineral
 - 锨 --> 杴
+- 鉩 --> 璽
+- 鉨 --> 璽
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver
@@ -102,6 +105,8 @@ tags: [lookup]
 56. <ruby>[鎮](../../characters/鎮%20(char).md)<rt>ㄑㄧㄋ</rt></ruby> - tranquilize
 - 鎗 --> 槍
 - 鎔 --> 溶
+- 䥅 --> 琴
+- 䥆 --> 琴
 
 ### +11 Strokes
 57. <ruby>[鏡](../../characters/鏡%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - mirror

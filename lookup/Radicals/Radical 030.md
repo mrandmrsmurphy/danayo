@@ -214,6 +214,9 @@ tags: [lookup]
 ### +16 Strokes
 - 嚥 --> 咽
 
+### +17 Strokes
+- 嚼 --> 爵
+
 ### +19 Strokes
 - 囊 --> 嚢
 

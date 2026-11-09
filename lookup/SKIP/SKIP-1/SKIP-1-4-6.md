@@ -64,6 +64,8 @@ tags:
 - 栢 --> 柏
 - 栖 --> 棲
 - 桦 --> 樺
+- 烛 --> 燭
+- 牺 --> 犠
 
 ### Forbidden
 - 烤 - 官话: HSK/2, but not used anywhere else.  Use 燃焼 instead.

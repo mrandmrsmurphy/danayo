@@ -16,6 +16,7 @@ tags: [lookup]
 8. no
 9. [SKIP-1-12-9](lookup/SKIP/SKIP-1/SKIP-1-12-9.md): 顧
 10. [SKIP-1-12-10](lookup/SKIP/SKIP-1/SKIP-1-12-10.md): 懿
+11. [SKIP-1-12-11](lookup/SKIP/SKIP-1/SKIP-1-12-11.md): ø
 
 ## Base check
 ```base

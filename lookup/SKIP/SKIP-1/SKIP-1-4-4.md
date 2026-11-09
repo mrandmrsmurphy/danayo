@@ -73,6 +73,9 @@ tags:
 - 枫 --> 楓
 - 枏 --> 楠
 - 枪 --> 槍
+- 炃 --> 焚
+- 玪 --> 琳
+- 环 --> 環
 
 ### Forbidden
 - 枡 - 国字: A 'masu', a square wooden measuring box; also a cell of a grid. Variant of 桝
