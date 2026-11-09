@@ -102,6 +102,7 @@ tags: [lookup]
 - ¡𪱻! - 違法字
 - 树 --> 樹
 - 柰 --> 奈
+- 查 --> 査
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg
@@ -150,6 +151,7 @@ tags: [lookup]
 - ¡椛! - 違法字
 - 梦 --> 夢
 - 條 --> 条
+- 检 --> 検
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess
@@ -229,6 +231,7 @@ tags: [lookup]
 - ¡樰! - 違法字
 - 樊 --> 藩
 - 樣 --> 様
+- 樓 --> 楼
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant
@@ -244,6 +247,7 @@ tags: [lookup]
 - ¡橸! - 違法字
 - 樸 --> 朴
 - 機 --> 机
+- 橫 --> 横
 
 ### +13 Strokes
 150. <ruby>[檀](../../characters/檀.md)<rt>ㄉㄚㄋ</rt></ruby> - sandalwood
@@ -251,6 +255,7 @@ tags: [lookup]
 152. <ruby>[檠](../../characters/檠.md)<rt>ㄍㄧㄫ</rt></ruby> - lampstand
 153. <ruby>[櫛](../../characters/櫛%20(char).md)<rt>ㄐㄜㄊ</rt></ruby> - comb
 - ¡檪! - 違法字
+- 檢 --> 検
 
 ### +14 Strokes
 154. <ruby>[檬](../../characters/檬.md)<rt>ㄇㄛㄋ</rt></ruby> - lemon

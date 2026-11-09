@@ -227,3 +227,14 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 鮮 | 鲜 | 1-8-6 | computed from its parts |
 | 鸛 | 鹳 | 1-17-5 | computed from its parts |
 | 揮 | 挥 | 1-3-6 | computed from its parts |
+| 板 | 钣 | 1-5-4 | computed from its parts |
+| 査 | 查 | 2-4-5 | computed from its parts |
+| 検 | 检 | 1-4-7 | computed from its parts |
+| 模 | 摹 | 2-11-3 | computed from its parts |
+| 横 | 橫 | 1-4-12 | computed from its parts |
+| 派 | 𠂢 | 2-1-5 | computed from its parts |
+| 温 | 溫 | 1-3-10 | computed from its parts |
+| 測 | 测 | 1-3-6 | computed from its parts |
+| 港 | 𣽣 | 1-3-12 | computed from its parts |
+| 港 | 𣿑 | 1-3-13 | computed from its parts |
+| 状 | 狀 | 1-4-4 | computed from its parts |

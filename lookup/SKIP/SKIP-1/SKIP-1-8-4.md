@@ -33,6 +33,7 @@ tags: [lookup]
 - 斞 --> 庾
 - 敝 --> 蔽
 - 舒 --> 抒
+- 鈑 --> 板
 
 ## Datacheck
 ```dataview

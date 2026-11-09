@@ -27,6 +27,9 @@ tags: [lookup]
 ### Forbidden
 - 釺 - 国字: 金 (“money”) + 千 (“thousand”), representing Portuguese mil réis (literally “thousand reals”).
 
+### Aliases
+- 孰 --> 熟
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

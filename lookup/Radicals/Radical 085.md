@@ -104,6 +104,7 @@ tags: [lookup]
 - 济 --> 済
 - 浒 --> 許
 - 洁 --> 潔
+- 测 --> 測
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -202,6 +203,8 @@ tags: [lookup]
 137. <ruby>[潮](../../characters/潮.md)<rt>ㄑㄚㄨ</rt></ruby> - tide
 - 滚 --> 滾
 - 滝 --> 瀧
+- 溪 --> 渓
+- 溫 --> 温
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -239,6 +242,7 @@ tags: [lookup]
 - 潑 --> 発
 - 漿 --> 将
 - ¡㵜! - 違法字
+- 𣽣 --> 港
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway
@@ -246,6 +250,7 @@ tags: [lookup]
 164. <ruby>[濁](../../characters/濁.md)<rt>ㄉㄚㄎ</rt></ruby> - muddy
 165. <ruby>[濃](../../characters/濃.md)<rt>ㄋㄛㄫ</rt></ruby> - concentrated
 - ¡澡! - 違法字
+- 𣿑 --> 港
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder

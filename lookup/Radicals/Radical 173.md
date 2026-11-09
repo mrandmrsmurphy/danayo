@@ -35,6 +35,7 @@ tags: [lookup]
 10. <ruby>[震](../../characters/震.md)<rt>ㄐㄧㄋ</rt></ruby> - shake
 11. <ruby>[霊](../../characters/霊.md)<rt>ㄌㄝㄫ</rt></ruby> - ghost
 12. <ruby>[霅](../../characters/霅.md)<rt>ㄙㄛㄆ</rt></ruby> - thunder
+- 霉 --> 梅
 
 ### +8 Strokes
 13. <ruby>[霍](../../characters/霍.md)<rt>ㄍ⺢ㄎ</rt></ruby> - sudden

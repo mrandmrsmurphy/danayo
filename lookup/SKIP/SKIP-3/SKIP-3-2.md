@@ -28,6 +28,12 @@ tags: [lookup]
 20. none
 21. none
 22. [SKIP-3-2-22](lookup/SKIP/SKIP-3/SKIP-3-2-22.md): ø
+23. none
+24. none
+25. none
+26. none
+27. none
+28. [SKIP-3-2-28](lookup/SKIP/SKIP-3/SKIP-3-2-28.md): ø
 
 ## Base check
 ```base

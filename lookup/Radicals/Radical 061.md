@@ -139,6 +139,7 @@ tags: [lookup]
 91. <ruby>[憧](../../characters/憧.md)<rt>ㄑㄛㄫ</rt></ruby> - restless
 92. <ruby>[憫](../../characters/憫%20(char).md)<rt>ㄇㄧㄋ</rt></ruby> - pity
 93. <ruby>[憬](../../characters/憬.md)<rt>ㄍ⼄ㄫ</rt></ruby> - awaken
+- 慾 --> 欲
 
 ### +12 Strokes
 94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful

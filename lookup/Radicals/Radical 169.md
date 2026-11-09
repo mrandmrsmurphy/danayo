@@ -53,6 +53,7 @@ tags: [lookup]
 
 ### +9 Strokes
 17. <ruby>[闊](../../characters/闊%20(char).md)<rt>ㄎ⺢ㄊ</rt></ruby> - broad
+- 闆 --> 板
 
 ### +10 Strokes
 18. <ruby>[闖](../../characters/闖.md)<rt>ㄊㄨㄇ</rt></ruby> - intrude

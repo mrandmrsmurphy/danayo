@@ -39,6 +39,9 @@ tags: [lookup]
 ### +7 Strokes
 12. <ruby>[孫](../../characters/孫.md)<rt>ㄙㄛㄋ</rt></ruby> - grandchild
 
+### +8 Strokes
+- 孰 --> 熟
+
 ### +10 Strokes
 13. <ruby>[季](../../characters/季.md)<rt>ㄍㄨㄧ</rt></ruby> - season
 

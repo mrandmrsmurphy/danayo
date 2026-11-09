@@ -32,6 +32,7 @@ tags:
 7. <ruby>[狗](../../characters/狗.md)<rt>ㄍㄛㄨ</rt></ruby> - hound
 8. <ruby>[狙](../../characters/狙.md)<rt>ㄑㄛ</rt></ruby> - spy
 - 雎 --> variant of 狙
+- 狀 --> 状
 
 ### +5 Strokes
 9. <ruby>[狩](../../characters/狩.md)<rt>ㄙ⼜</rt></ruby> - hunt

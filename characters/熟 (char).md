@@ -27,7 +27,7 @@ joyo_level: "6"
 hsk_level: "1"
 hanmun_edu_level: 高等
 danayo_id: 4177
-mc_id: 1504
+mc_id: 733
 graphemic_classification: 会意
 stand_in: 熟
 aliases:
@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-10-19
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 熟.
 >For the word, see [成熟](../words/成熟.md)
@@ -49,8 +49,13 @@ date-last-perfect: 2026-10-19
 ## Notes
 - 会意, also analyzable as 形声 (OC \*djɯwɢ): semantic [[Radical 086|灬]] ("fire") + phonetic 孰 (OC \*djɯwɢ, itself "cooked, ripe"; no character page of its own in this vault) — cooked with fire; ripe, ripened.
 - [SKIP-2-11-4](../lookup/SKIP/SKIP-2/SKIP-2-11-4.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
-- 1504th most used character in Classical Chinese (孰 itself ranks 733rd — the two ranks are tracked separately in the source corpus). Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄙㄨㄎ](../syllables/ㄙㄨㄎ.md)
+- 733rd most used character in Classical Chinese, the rank of its alias 孰 (熟 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄙㄨㄎ](../syllables/ㄙㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 孰
+"Which, who"; the original form of 熟 and the phonetic that 熟 is built on, kept as an alias. SKIP 1-8-3; 11 strokes. Radical 039 子. It ranks 733 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[成熟]]<rt>ㄙㄧㄫㄙㄨㄎ</rt></ruby> "ripen, mature" (stand-in for 熟)

@@ -108,6 +108,9 @@ tags:
 - 贺 --> 賀
 - 须 --> 須
 - 挥 --> 揮
+- 钣 --> 板
+- 查 --> 査
+- 测 --> 測
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

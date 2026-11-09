@@ -22,6 +22,7 @@ tags: [lookup]
 5. <ruby>[灼](../../characters/灼.md)<rt>ㄐㄚㄎ</rt></ruby> - cauterize
 6. <ruby>[災](../../characters/災.md)<rt>ㄐㄚㄧ</rt></ruby> - disaster
 - 灿 --> 燦
+- 灾 --> 災
 
 ### +4 Strokes
 7. <ruby>[炉](../../characters/炉.md)<rt>ㄌㄛ</rt></ruby> - stove
@@ -47,6 +48,7 @@ tags: [lookup]
 ### +7 Strokes
 19. <ruby>[焉](../../characters/焉%20(char).md)<rt>ㄝㄋ</rt></ruby> - therefore
 - 焕 --> 煥
+- 焔 --> 炎
 
 ### +8 Strokes
 20. <ruby>[焚](../../characters/焚.md)<rt>ㄅㄨㄋ</rt></ruby> - burn

@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### +1 Stroke
 - 钟 --> 鐘
+- 钣 --> 板
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
@@ -33,6 +34,7 @@ tags: [lookup]
 8. <ruby>[鈍](../../characters/鈍%20(char).md)<rt>ㄉㄛㄋ</rt></ruby> - dull
 9. <ruby>[鈩](../../characters/鈩.md)<rt>ㄌㄛ</rt></ruby> - fireplace
 10. <ruby>[鈬](../../characters/鈬%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - bronze bell
+- 鈑 --> 板
 
 ### +5 Strokes
 11. <ruby>[鈴](../../characters/鈴%20(char).md)<rt>ㄌㄝㄫ</rt></ruby> - small bell

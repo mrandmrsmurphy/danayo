@@ -41,6 +41,9 @@ tags: [lookup]
 ### +15 Strokes
 11. <ruby>[厳](../../characters/厳%20(char).md)<rt>⼄ㄇ</rt></ruby> - strict
 
+### +28 Strokes
+- 厵 --> 源
+
 ### Aliases
 - 厕 --> 厠
 - 㕑 --> 厨

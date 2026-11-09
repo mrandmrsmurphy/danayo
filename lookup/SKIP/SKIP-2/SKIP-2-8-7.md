@@ -24,6 +24,7 @@ tags: [lookup]
 - 霄--> 肖
 - 霄 --> 宵
 - 辳 --> 農
+- 霉 --> 梅
 
 ## Datacheck
 ```dataview

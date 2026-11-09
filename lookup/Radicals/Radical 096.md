@@ -49,6 +49,7 @@ tags:
 24. <ruby>[琶](../../characters/琶.md)<rt>ㄅㄚ</rt></ruby> - pipa
 25. <ruby>[琺](../../characters/琺.md)<rt>ㄈㄚㄆ</rt></ruby> - enamel
 26. <ruby>[瑛](../../characters/瑛.md)<rt>ㄝㄫ</rt></ruby> - luster
+- 琰 --> 炎
 
 ### +8 Strokes
 27. <ruby>[瑁](../../characters/瑁.md)<rt>ㄇㄚㄨ</rt></ruby> - jade

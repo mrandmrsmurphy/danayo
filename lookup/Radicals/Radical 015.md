@@ -21,6 +21,7 @@ tags: [lookup]
 3. <ruby>[冴](../../characters/冴.md)<rt>ㄏㄛ</rt></ruby> - freeze
 
 4. <ruby>[冶](../../characters/冶.md)<rt>⼘</rt></ruby> - smelt
+- 况 --> 況
 
 ### +8 Strokes
 5. <ruby>[凄](../../characters/凄.md)<rt>ㄑㄝㄧ</rt></ruby> - miserable
@@ -31,6 +32,9 @@ tags: [lookup]
 
 ### +9 Strokes
 - 减 --> 減
+
+### +10 Strokes
+- 凖 --> 準
 
 ### +13 Strokes
 9. <ruby>[凜](../../characters/凜%20(char).md)<rt>ㄌㄨㄇ</rt></ruby> - cold

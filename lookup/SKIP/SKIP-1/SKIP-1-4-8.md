@@ -62,6 +62,7 @@ tags:
 - 殘 --> 残
 - 𤗉 --> 窓
 - 腑 --> 府
+- 琰 --> 炎
 
 ## Datacheck
 ```dataview

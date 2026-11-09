@@ -151,6 +151,8 @@ tags: [lookup]
 ### +10 Strokes
 109. <ruby>[摘](../../characters/摘%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - pinch
 - 摺 --> 折
+- 摹 --> 模
+- 摸 --> 模
 
 ### +11 Strokes
 110. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere

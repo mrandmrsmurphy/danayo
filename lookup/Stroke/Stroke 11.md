@@ -114,6 +114,9 @@ tags:
 - 领 --> 領
 - 馆 --> 館
 - 惊 --> 驚
+- 检 --> 検
+- 焔 --> 炎
+- 孰 --> 熟
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

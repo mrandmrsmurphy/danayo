@@ -51,6 +51,7 @@ tags:
 - 㝎 --> 定
 - 夆 --> 豊
 - 员 --> 員
+- 灾 --> 災
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

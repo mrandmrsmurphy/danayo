@@ -21,6 +21,7 @@ tags: [lookup]
 ### Aliases
 - 魎 --> 両
 - 魉 --> 両
+- 魃 --> 災
 
 ## Data check
 ```dataview

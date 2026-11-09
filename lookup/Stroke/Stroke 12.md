@@ -108,6 +108,9 @@ tags: [lookup]
 - 游 --> 遊
 - 閒 --> 閑
 - 絳 --> 降
+- 鈑 --> 板
+- 凖 --> 準
+- 琰 --> 炎
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

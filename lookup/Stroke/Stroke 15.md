@@ -82,6 +82,10 @@ tags:
 - 緬 --> 面
 - 题 --> 題
 - 𡭆 --> 尊
+- 霉 --> 梅
+- 樓 --> 楼
+- 慾 --> 欲
+- 𣽣 --> 港
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')
