@@ -717,3 +717,23 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 蕤 | 甤 | 2-6-6 | computed from its parts |
 | 蕩 | 荡 | 2-3-6 | computed from its parts |
 | 蕩 | 盪 | 2-12-5 | computed from its parts |
+| 蕪 | 芜 | 2-3-4 | computed from its parts |
+| 薄 | 鉑 | 1-8-5 | computed from its parts |
+| 薄 | 铂 | 1-5-5 | computed from its parts |
+| 薔 | 蔷 | 2-3-11 | computed from its parts |
+| 薛 | 辥 | 2-9-7 | computed from its parts |
+| 薦 | 荐 | 2-3-6 | computed from its parts |
+| 薩 | 萨 | 2-3-8 | computed from its parts |
+| 薫 (char) | 熏 | 2-5-9 | computed from its parts |
+| 薫 (char) | 薰 | 2-3-15 | computed from its parts |
+| 薮 | 藪 | 2-3-15 | computed from its parts |
+| 藤 | 籐 | 2-6-15 | computed from its parts |
+| 藷 | 薯 | 2-3-15 | computed from its parts |
+| 蘇 | 苏 | 2-3-5 | computed from its parts |
+| 蘇 | 穌 | 1-5-11 | computed from its parts |
+| 蘇 | 甦 | 2-5-7 | computed from its parts |
+| 蘭 | 兰 | 4-5-1 | computed from its parts |
+| 蘿 | 萝 | 2-3-8 | computed from its parts |
+| 虜 | 虏 | 3-3-5 | computed from its parts |
+| 虱 (char) | 蝨 | 1-6-9 | computed from its parts |
+| 蚕 (char) | 蠶 | 2-12-12 | computed from its parts |

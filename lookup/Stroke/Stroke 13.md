@@ -153,6 +153,7 @@ tags:
 - 腟 --> 膣
 - 蒨 --> 茜
 - 滄 --> 蒼
+- 鉑 --> 薄
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

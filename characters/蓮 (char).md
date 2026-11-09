@@ -38,7 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蓮.
 >For the word, see [蓮](../words/蓮.md)

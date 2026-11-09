@@ -31,6 +31,7 @@ tags: [lookup]
 - 册 --> 冊
 - 疋 --> 匹
 - 歺 --> 歹
+- 兰 --> 蘭
 
 ## Datacheck
 ```dataview

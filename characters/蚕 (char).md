@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蚕.
 >For the word, see [蚕](../words/蚕.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-4-6](../lookup/SKIP/SKIP-2/SKIP-2-4-6.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1906th most used character in Classical Chinese (recorded under the traditional form 蠶). Ancient [[Lookup/CC/initials/聲 從|d͡z]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄐㄚㄇ](../syllables/ㄐㄚㄇ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 蠶
+Traditional form of 蚕, "silkworm". SKIP 2-12-12 (computed: EDRDG does not list it); 24 strokes. It ranks 1906 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[蚕]]<rt>ㄐㄚㄇ</rt></ruby> "silkworm" (stand-in for 蚕 (char))

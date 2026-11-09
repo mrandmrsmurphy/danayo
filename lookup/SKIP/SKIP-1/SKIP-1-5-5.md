@@ -44,6 +44,7 @@ tags:
 - 竚 --> 佇
 - 皰 --> 疱
 - 皱 --> 皺
+- 铂 --> 薄
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.

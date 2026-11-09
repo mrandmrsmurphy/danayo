@@ -40,6 +40,7 @@ tags:
 - 緣 --> 縁
 - 聪 --> 聡
 - 舖 --> 舗
+- 蝨 --> 虱
 
 ## Datacheck
 ```dataview

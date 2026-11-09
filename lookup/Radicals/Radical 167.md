@@ -25,6 +25,7 @@ tags: [lookup]
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
 3. <ruby>[釜](../../characters/釜.md)<rt>ㄅㄨ</rt></ruby> - kettle
 4. <ruby>[針](../../characters/針%20(char).md)<rt>ㄐㄧㄇ</rt></ruby> - needle
+- 铂 --> 薄
 
 ### +3 Strokes
 5. <ruby>[釣](../../characters/釣.md)<rt>ㄑㄛㄨ</rt></ruby> - angling
@@ -53,6 +54,7 @@ tags: [lookup]
 - 锨 --> 杴
 - 鉩 --> 璽
 - 鉨 --> 璽
+- 鉑 --> 薄
 
 ### +6 Strokes
 21. <ruby>[銀](../../characters/銀%20(char).md)<rt>ㄧㄋ</rt></ruby> - silver

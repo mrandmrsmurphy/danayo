@@ -88,6 +88,7 @@ tags: [lookup]
 - 煽 --> 扇
 - 熔 --> 溶
 - 煼 --> 炒
+- 熏 --> 薫
 
 ### +11 Strokes
 35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen

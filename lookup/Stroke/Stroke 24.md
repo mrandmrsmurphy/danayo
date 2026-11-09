@@ -24,6 +24,7 @@ tags: [lookup]
 - 讙 --> 歓
 - 囓 --> 咬
 - 鹽 --> 塩
+- 蠶 --> 蚕
 
 ### Forbidden
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)

@@ -41,7 +41,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蔑.
 >For the word, see [蔑](../words/蔑.md)

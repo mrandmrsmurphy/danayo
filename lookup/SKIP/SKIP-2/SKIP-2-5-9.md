@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 裳 --> 装
 - 盡 --> 尽
+- 熏 --> 薫
 
 ## Datacheck
 ```dataview

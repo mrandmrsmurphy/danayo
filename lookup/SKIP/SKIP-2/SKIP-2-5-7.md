@@ -30,6 +30,7 @@ tags: [lookup]
 - 發 --> 発
 - 赏 --> 賞
 - 窜 --> 竄
+- 甦 --> 蘇
 
 ## Datacheck
 ```dataview

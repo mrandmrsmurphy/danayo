@@ -65,6 +65,8 @@ tags:
 - 堇 --> 菫
 - 萠 --> 萌
 - 盖 --> 蓋
+- 萨 --> 薩
+- 萝 --> 蘿
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

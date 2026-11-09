@@ -100,6 +100,7 @@ tags:
 
 ### +15 Strokes
 42. <ruby>[籃](../../characters/籃.md)<rt>ㄌㄚㄇ</rt></ruby> - basket
+- 籐 --> 藤
 
 ### +16 Strokes
 43. <ruby>[籠](../../characters/籠%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - basket

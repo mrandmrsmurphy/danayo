@@ -18,11 +18,13 @@ tags:
 - 芴 --> 忽
 - 苇 --> 葦
 - 苍 --> 蒼
+- 芜 --> 蕪
 
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 - 芙 --> 夫
 - 苩 --> 葩
+- 苏 --> 蘇
 
 ### +3 Strokes
 2. <ruby>[芋](../../characters/芋.md)<rt>ㄨ</rt></ruby> - taro
@@ -36,6 +38,7 @@ tags:
 - 荞 --> 蕎
 - 荍 --> 蕎
 - 荡 --> 蕩
+- 荐 --> 薦
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -86,6 +89,8 @@ tags:
 - 莊 --> 荘
 - 萊 --> 莱
 - 萠 --> 萌
+- 萨 --> 薩
+- 萝 --> 蘿
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -137,6 +142,7 @@ tags:
 - 蒔 --> 時
 - 䓾 --> 沙
 - 蔣 --> 蒋
+- 蔷 --> 薔
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn
@@ -196,6 +202,9 @@ tags:
 98. <ruby>[蕤](../../characters/蕤.md)<rt>ㄋㄨㄧ</rt></ruby> - hanging fruit
 - 藝 --> 芸
 - 藏 --> 蔵
+- 薰 --> 薫
+- 藪 --> 薮
+- 薯 --> 藷
 
 ### +13 Strokes
 99. <ruby>[蒙](../../characters/蒙.md)<rt>ㄇㄛㄫ</rt></ruby> - Mongolia

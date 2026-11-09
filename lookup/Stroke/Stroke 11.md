@@ -215,6 +215,8 @@ tags:
 - 萠 --> 萌
 - 谖 --> 萱
 - 盖 --> 蓋
+- 萨 --> 薩
+- 萝 --> 蘿
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

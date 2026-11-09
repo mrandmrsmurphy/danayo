@@ -19,6 +19,9 @@ tags: [lookup]
 3. <ruby>[兮](../../characters/兮%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> - pshaw
 4. <ruby>[六](../../characters/六%20(char).md)<rt>ㄌㄨㄎ</rt></ruby> - six
 
+### +3 Strokes
+- 兰 --> 蘭
+
 ### +4 Strokes
 5. <ruby>[共](../../characters/共%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - with
 

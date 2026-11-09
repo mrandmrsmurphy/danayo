@@ -151,6 +151,7 @@ tags:
 - 槿 --> 菫
 - 瑾 --> 菫
 - 蔥 --> 葱
+- 蝨 --> 虱
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

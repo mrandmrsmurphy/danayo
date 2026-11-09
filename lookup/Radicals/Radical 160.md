@@ -23,6 +23,7 @@ tags: [lookup]
 ### +9 Strokes
 5. <ruby>[辦](../../characters/辦.md)<rt>ㄅㄚㄋ</rt></ruby> - manage
 - 辨 --> 弁
+- 辥 --> 薛
 
 ### +14 Strokes
 - 辯 --> 弁

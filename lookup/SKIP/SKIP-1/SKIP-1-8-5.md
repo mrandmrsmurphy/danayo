@@ -36,6 +36,7 @@ tags: [lookup]
 - 䯨 --> 敲
 - 鉩 --> 璽
 - 鉨 --> 璽
+- 鉑 --> 薄
 
 ## Datacheck
 ```dataview

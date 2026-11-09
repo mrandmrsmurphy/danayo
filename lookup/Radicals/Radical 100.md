@@ -20,6 +20,7 @@ tags: [lookup]
 ### +7 Strokes
 3. <ruby>[甥](../../characters/甥%20(char).md)<rt>ㄙㄚㄫ</rt></ruby> - nephew
 - 甤 --> 蕤
+- 甦 --> 蘇
 
 ### Aliases
 - 𤯞 --> 青

@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 瞢 --> 夢
+- 辥 --> 薛
 
 ## Datacheck
 ```dataview

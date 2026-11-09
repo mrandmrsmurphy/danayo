@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +2 Strokes
 1. <ruby>[虎](../../characters/虎%20(char).md)<rt>ㄏㄛ</rt></ruby> - tiger
+- 虏 --> 虜
 
 ### +3 Strokes
 2. <ruby>[虐](../../characters/虐.md)<rt>⼘ㄎ</rt></ruby> - tyrannical

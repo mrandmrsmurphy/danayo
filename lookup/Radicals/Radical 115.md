@@ -70,6 +70,7 @@ tags: [lookup]
 31. <ruby>[穆](../../characters/穆.md)<rt>ㄇㄨㄎ</rt></ruby> - standing grain
 32. <ruby>[穏](../../characters/穏.md)<rt>ㄛㄋ</rt></ruby> - calm
 - 穅 --> 糟
+- 穌 --> 蘇
 
 ### +12 Strokes
 - 穗 --> 穂

@@ -63,6 +63,7 @@ tags:
 31. <ruby>[蝶](../../characters/蝶.md)<rt>ㄉㄝㄆ</rt></ruby> - butterfly
 32. <ruby>[蝸](../../characters/蝸.md)<rt>ㄍ⺢</rt></ruby> - snail
 33. <ruby>[蝿](../../characters/蝿.md)<rt>ㄧㄫ</rt></ruby> - fly
+- 蝨 --> 虱
 
 ### +10 Strokes
 34. <ruby>[螂](../../characters/螂.md)<rt>ㄌㄚㄫ</rt></ruby> - mantis
@@ -88,6 +89,9 @@ tags:
 
 ### +15 Strokes
 44. <ruby>[蠢](../../characters/蠢.md)<rt>ㄑㄨㄋ</rt></ruby> - squirm
+
+### +18 Strokes
+- 蠶 --> 蚕
 
 ### Aliases
 - 蚯 --> 丘
