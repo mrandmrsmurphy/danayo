@@ -12,6 +12,9 @@ tags: [lookup]
 ## Characters
 1. <ruby>[赴](/characters/赴%20(char).md)<rt>ㄈㄨㄛ</rt></ruby> - attend
 
+### Aliases
+- 剋 --> 克
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +5 Strokes
 2. <ruby>[站](../../characters/站.md)<rt>ㄐㄚㄇ</rt></ruby> - station
+- 竝 --> 並
 
 ### +6 Strokes
 3. <ruby>[竟](../../characters/竟%20(char).md)<rt>ㄍ⼶ㄫ</rt></ruby> - finally

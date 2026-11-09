@@ -33,7 +33,7 @@ stand_in: 克
 aliases:
   - 剋
 注音: ㄎㄨㄎ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 100
 - [SKIP-2-2-5](../lookup/SKIP/SKIP-2/SKIP-2-2-5.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 729th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 德開|ək]] → [ㄎㄨㄎ](../syllables/ㄎㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 剋
+刂 + 克 as phonetic, "to counteract, to subdue, to overcome"; Unihan lists 克 as its simplified form and the two are interchangeable in the sense "to overcome". SKIP 3-7-2 (EDRDG); 9 strokes. It ranks 2242 in the Classical Chinese lists, lower than 克's 729, so `mc_id` stays 729. SKIP 3-7-2; 9 strokes. Radical 018 刀. It ranks 2242 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> "practice self-restraint; overcome; gram (unit of mass)" (stand-in for 克)

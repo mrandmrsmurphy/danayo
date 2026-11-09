@@ -37,7 +37,7 @@ stand_in: 双
 aliases:
   - 雙
 注音: ㄙ⺢ㄫ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -55,6 +55,11 @@ boundedness: 90
 - [SKIP-1-2-2](../lookup/SKIP/SKIP-1/SKIP-1-2-2.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 2183rd most used character in Classical Chinese (ranking lists the traditional form 雙). Ancient [[Lookup/CC/initials/聲 生|ʃ]] + [[Lookup/CC/finals/韻 江|ɣʌŋ]] → [ㄙ⺢ㄫ](../syllables/ㄙ⺢ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 雙
+Traditional form (kyūjitai) of 双; Unihan lists 双 as its Japanese new variant. SKIP 2-16-2 (EDRDG); 18 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 2183 is 雙's rank. SKIP 2-16-2; 18 strokes. Radical 172 隹. It ranks 2183 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[双]]<rt>ㄙ⺢ㄫ</rt></ruby> "pair; double; twin; even" (stand-in for 双)

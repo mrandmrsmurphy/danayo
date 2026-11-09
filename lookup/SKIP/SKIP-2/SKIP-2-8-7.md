@@ -23,6 +23,7 @@ tags: [lookup]
 - 瑩 --> 瑛
 - 霄--> 肖
 - 霄 --> 宵
+- 辳 --> 農
 
 ## Datacheck
 ```dataview

@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +0 Strokes
+- 进 --> 進
+
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
 

@@ -24,6 +24,9 @@ tags: [lookup]
 ### Forbidden
 - 籵 - 国字: Japanese-invented character for 十米 (decameter).
 
+### Aliases
+- 劼 --> 吉
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

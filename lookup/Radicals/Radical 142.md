@@ -44,6 +44,7 @@ tags:
 19. <ruby>[蜀](../../characters/蜀.md)<rt>ㄙㄛㄎ</rt></ruby> - Shu kingdom
 20. <ruby>[蜂](../../characters/蜂%20(char).md)<rt>ㄈㄛㄫ</rt></ruby> - bee
 21. <ruby>[蜆](../../characters/蜆.md)<rt>ㄏㄝㄋ</rt></ruby> - basket clam
+- 蜍 --> 余
 
 ### +8 Strokes
 22. <ruby>[蜘](../../characters/蜘.md)<rt>ㄐㄧ</rt></ruby> - spider

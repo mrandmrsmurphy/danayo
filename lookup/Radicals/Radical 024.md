@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### +4 Strokes
 7. <ruby>[卍](../../characters/卍.md)<rt>ㄇㄛㄋ</rt></ruby> - swastika
+- 协 --> 協
 
 ### +6 Strokes
 8. <ruby>[協](../../characters/協.md)<rt>ㄏㄝㄆ</rt></ruby> - cooperate

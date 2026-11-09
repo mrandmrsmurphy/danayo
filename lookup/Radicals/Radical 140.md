@@ -116,6 +116,7 @@ tags:
 82. <ruby>[蒜](../../characters/蒜.md)<rt>ㄙ⺢ㄇ</rt></ruby> - garlic
 - 蕾 --> 雷
 - 薙 --> 剃
+- 蕗 --> 路
 
 ### +11 Strokes
 83. <ruby>[䔥](../../characters/䔥.md)<rt>ㄙ⼘ㄨ</rt></ruby> - Xiao

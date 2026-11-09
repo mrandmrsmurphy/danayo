@@ -18,9 +18,11 @@ tags: [lookup]
 
 ### +3 Strokes
 3. <ruby>[年](../../characters/年%20(char).md)<rt>ㄋㄝㄋ</rt></ruby> - year
+- 并 --> 並
 
 ### +5 Strokes
 4. <ruby>[幸](../../characters/幸.md)<rt>ㄏㄚㄫ</rt></ruby> - lucky
+- 幷 --> 並
 
 ### +10 Strokes
 5. <ruby>[幹](../../characters/幹.md)<rt>ㄍㄚㄋ</rt></ruby> - trunk

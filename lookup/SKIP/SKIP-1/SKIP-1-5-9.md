@@ -29,6 +29,7 @@ tags: [lookup]
 
 ### Aliases
 - 稱 --> 称
+- 褔 --> 副
 
 ## Datacheck
 ```dataview

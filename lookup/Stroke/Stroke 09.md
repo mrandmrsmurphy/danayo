@@ -78,6 +78,7 @@ tags:
 - 树 --> 樹
 - 语 --> 語
 - 𧹒 --> 買
+- 剋 --> 克
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

@@ -19,6 +19,7 @@ aliases:
 ### +1 Stroke
 - 亿 --> 億
 - ¡亽! - 違法字
+- 亼 --> 集
 
 ### +2 Strokes
 2. <ruby>[仁](../../characters/仁.md)<rt>ㄋㄧㄋ</rt></ruby> - benevolence
@@ -60,6 +61,9 @@ aliases:
 30. <ruby>[佤](../../characters/佤.md)<rt>⺢ㄊ</rt></ruby> - Wa people
 - 传 --> 伝
 - ¡伙! - 違法字
+- 价 --> 価
+- 伟 --> 偉
+- 伤 --> 傷
 
 ### +5 Strokes
 31. <ruby>[伯](../../characters/伯.md)<rt>ㄅㄚㄎ</rt></ruby> - uncle
@@ -105,6 +109,7 @@ aliases:
 - 佰 --> 百
 - ¡侤! - 違法字
 - 佯 --> 羊
+- 佶 --> 吉
 
 ### +7 Strokes
 66. <ruby>[侠](../../characters/侠.md)<rt>ㄏㄝㄆ</rt></ruby> - knight-errant
@@ -182,6 +187,7 @@ aliases:
 122. <ruby>[僅](../../characters/僅.md)<rt>ㄍㄧㄋ</rt></ruby> - only
 - 储 --> 儲
 - 傢 --> 家
+- 傚 --> 効
 
 ### +11 Strokes
 123. <ruby>[傑](../../characters/傑.md)<rt>ㄍㄝㄊ</rt></ruby> - masterful
@@ -207,6 +213,7 @@ aliases:
 136. <ruby>[儀](../../characters/儀.md)<rt>ㄜㄧ</rt></ruby> - ceremonial
 137. <ruby>[億](../../characters/億.md)<rt>ㄧㄎ</rt></ruby> - hundred million
 - 𠏁 --> 化
+- 價 --> 価
 
 ### +14 Strokes
 138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar

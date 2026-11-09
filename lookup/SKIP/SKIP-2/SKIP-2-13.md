@@ -15,6 +15,8 @@ tags: [lookup]
 7. [SKIP-2-13-7](lookup/SKIP/SKIP-2/SKIP-2-13-7.md): ø
 8. none
 9. [SKIP-2-13-9](lookup/SKIP/SKIP-2/SKIP-2-13-9.md): 饗
+10. none
+11. [SKIP-2-13-11](lookup/SKIP/SKIP-2/SKIP-2-13-11.md): ø
 
 ## Base check
 ```base

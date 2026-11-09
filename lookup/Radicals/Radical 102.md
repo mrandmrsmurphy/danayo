@@ -15,6 +15,7 @@ tags: [lookup]
 2. <ruby>[甲](../../characters/甲%20(char).md)<rt>ㄍㄚㄆ</rt></ruby> - armor
 3. <ruby>[由](../../characters/由%20(char).md)<rt>⼜ㄛ</rt></ruby> - from
 4. <ruby>[申](../../characters/申.md)<rt>ㄙㄝㄋ</rt></ruby> - report
+- 电 --> 電
 
 ### +2 Strokes
 5. <ruby>[町](../../characters/町.md)<rt>ㄊㄝㄫ</rt></ruby> - ridge between fields
@@ -50,6 +51,9 @@ tags: [lookup]
 ### +10 Strokes
 21. <ruby>[畿](../../characters/畿.md)<rt>ㄍㄧㄜ</rt></ruby> - capital district
 - 畾 --> 雷
+
+### +13 Strokes
+- 㽬 --> 副
 
 ### +14 Strokes
 22. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary

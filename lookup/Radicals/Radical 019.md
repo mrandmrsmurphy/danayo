@@ -14,6 +14,9 @@ tags:
 1. <ruby>[力](../../characters/力%20(char).md)<rt>ㄌㄧㄎ</rt></ruby> - power
 - 𠠲 --> variant of 力
 
+### +2 Strokes
+- 劝 --> 勧
+
 ### +3 Strokes
 2. <ruby>[功](../../characters/功.md)<rt>ㄍㄛㄫ</rt></ruby> - achievement
 3. <ruby>[加](../../characters/加.md)<rt>ㄍㄚ</rt></ruby> - increase
@@ -42,6 +45,8 @@ tags:
 - 效 --> variant of 効
 - 傚 --> variant of 効
 13. <ruby>[劾](../../characters/劾.md)<rt>ㄏㄚㄧ</rt></ruby> - accuse
+- 势 --> 勢
+- 劼 --> 吉
 
 ### +7 Strokes
 14. <ruby>[勁](../../characters/勁.md)<rt>ㄍㄧㄫ</rt></ruby> - strong
@@ -83,6 +88,9 @@ tags:
 - 勛 --> variant of 勲
 - 勋 --> variant of 勲
 - 勳 --> variant of 勲
+
+### +18 Strokes
+- 勸 --> 勧
 
 ### Forbidden
 - 㔖 - 국자: Korean-coined hanja for 덕 or 각 (proto-Hangǔl), used for transliteration

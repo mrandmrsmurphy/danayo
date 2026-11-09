@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +1 Stroke
 - 𠓛 --> ancient variant of 集
+- 𠓛 --> 集
 
 ### +2 Strokes
 - 內 --> simplified/variant form of 内

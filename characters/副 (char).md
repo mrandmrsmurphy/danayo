@@ -34,7 +34,7 @@ aliases:
   - 㽬
   - 褔
 注音: ㄈㄨㄎ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -52,6 +52,14 @@ boundedness: 90
 - [SKIP-1-9-2](../lookup/SKIP/SKIP-1/SKIP-1-9-2.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1533rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄈㄨㄎ](../syllables/ㄈㄨㄎ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 㽬
+A rare character glossed "a lot; dense" (Wiktionary); a variant of the 畐 family. SKIP 2-9-9 (computed: EDRDG does not list it); 18 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-9-9 (computed: EDRDG does not list it); 18 strokes. Radical 102 田. It has no rank of its own in the Classical Chinese lists.
+
+### 褔
+衤 + 畐, "to be filled with, to brim with" and a classifier for sets of clothing (Wiktionary); a variant of 副's phonetic family. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-" (stand-in for 副)

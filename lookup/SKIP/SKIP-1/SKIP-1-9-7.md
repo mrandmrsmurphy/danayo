@@ -15,6 +15,9 @@ tags: [lookup]
 3. <ruby>[頤](/characters/頤.md)<rt>ㄧ</rt></ruby> "chin"
 4. <ruby>[龍](characters/龍%20(char).md)<rt>ㄌ⼄ㄫ</rt></ruby> "dragon; reptile"
 
+### Aliases
+- 餘 --> 余
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

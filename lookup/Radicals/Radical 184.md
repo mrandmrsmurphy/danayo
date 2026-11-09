@@ -33,6 +33,7 @@ tags: [lookup]
 11. <ruby>[養](../../characters/養.md)<rt>⼘ㄫ</rt></ruby> - foster
 12. <ruby>[餃](../../characters/餃.md)<rt>ㄍ⼄ㄨ</rt></ruby> - gyoza
 13. <ruby>[餓](../../characters/餓.md)<rt>ㄚ</rt></ruby> - hungry
+- 餘 --> 余
 
 ### +7 Strokes
 14. <ruby>[餐](../../characters/餐%20(char).md)<rt>ㄑㄚㄋ</rt></ruby> - eat

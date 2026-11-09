@@ -17,6 +17,9 @@ tags: [lookup]
 ### +3 Strokes
 3. <ruby>[写](../../characters/写.md)<rt>ㄙ⼘</rt></ruby> - copy
 
+### +4 Strokes
+- 农 --> 農
+
 ### +7 Strokes
 4. <ruby>[冒](../../characters/冒.md)<rt>ㄇㄚㄨ</rt></ruby> - take a risk
 5. <ruby>[冠](../../characters/冠.md)<rt>ㄍ⺢ㄋ</rt></ruby> - crown

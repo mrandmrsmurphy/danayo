@@ -55,6 +55,7 @@ tags:
 25. <ruby>[製](../../characters/製.md)<rt>ㄐㄝ</rt></ruby> - manufacture
 - 制 --> variant of 製
 26. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
+- 褔 --> 副
 
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise

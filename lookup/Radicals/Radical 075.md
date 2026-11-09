@@ -127,6 +127,7 @@ tags: [lookup]
 - ¡桛! - 違法字
 - ¡桝! - 違法字
 - 桉 --> 案
+- 栞 --> 刊
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail

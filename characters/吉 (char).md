@@ -34,7 +34,7 @@ aliases:
   - 劼
   - 佶
 注音: ㄍㄧㄊ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -52,6 +52,14 @@ boundedness: 80
 - [SKIP-2-3-3](../lookup/SKIP/SKIP-2/SKIP-2-3-3.md) ([Stroke 06](../lookup/Stroke/Stroke%2006.md))
 - 514th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄍㄧㄊ](../syllables/ㄍㄧㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 劼
+吉 + 力, "to be discreet, prudent, cautious" and a surname; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-6-2 (EDRDG); 8 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-2; 8 strokes. Radical 019 力. It has no rank of its own in the Classical Chinese lists.
+
+### 佶
+亻 + 吉, "strong, robust; exact, correct"; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-2-6 (EDRDG); 8 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-2-6; 8 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[吉]]<rt>ㄍㄧㄊ</rt></ruby> "lucky" (stand-in for 吉)

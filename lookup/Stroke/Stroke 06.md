@@ -50,6 +50,13 @@ tags:
 - 𦍌 --> 羊
 - 𰋷 --> 嬰
 - 买 --> 買
+- 农 --> 農
+- 并 --> 並
+- 价 --> 価
+- 伟 --> 偉
+- 伤 --> 傷
+- 则 --> 則
+- 协 --> 協
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

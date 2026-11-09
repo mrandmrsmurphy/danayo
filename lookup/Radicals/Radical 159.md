@@ -36,6 +36,7 @@ tags: [lookup]
 ### +6 Strokes
 12. <ruby>[較](../../characters/較.md)<rt>ㄍㄚㄎ</rt></ruby> - compare
 13. <ruby>[載](../../characters/載%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - carry
+- 辑 --> 集
 
 ### +7 Strokes
 14. <ruby>[輒](../../characters/輒.md)<rt>ㄐㄛㄆ</rt></ruby> - then
@@ -48,6 +49,7 @@ tags: [lookup]
 
 ### +9 Strokes
 19. <ruby>[輸](../../characters/輸.md)<rt>ㄙㄨㄇ</rt></ruby> - transport
+- 輯 --> 集
 
 ### +10 Strokes
 20. <ruby>[輿](../../characters/輿%20(char).md)<rt>⼄</rt></ruby> - palanquin

@@ -34,6 +34,7 @@ tags: [lookup]
 - 韦 --> 韋
 - 无 --> 無
 - 开 --> 開
+- 电 --> 電
 
 ## Datacheck
 ```dataview

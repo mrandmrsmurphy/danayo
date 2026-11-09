@@ -19,6 +19,7 @@ tags: [lookup]
 - 𢀎 --> 河
 - 灞 --> 覇
 - 靂 --> 歴
+- 鷺 --> 路
 
 ### Forbidden
 - 欕 - 국자: Korean 엄. prickly castor oil tree (Kalopanax septemlobus)

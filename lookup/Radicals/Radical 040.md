@@ -78,6 +78,7 @@ tags:
 ### +12 Strokes
 44. <ruby>[審](../../characters/審.md)<rt>ㄙㄧㄇ</rt></ruby> - examine
 45. <ruby>[寮](../../characters/寮.md)<rt>ㄌ⼘ㄨ</rt></ruby> - dormitory
+- 寫 --> 写
 
 ### +16 Strokes
 46. <ruby>[寵](../../characters/寵.md)<rt>ㄑㄛㄫ</rt></ruby> - pet

@@ -9,6 +9,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 间 --> 間
+
 ### +0 Strokes
 1. <ruby>[門](../../characters/門.md)<rt>ㄇㄛㄋ</rt></ruby> - gate
 

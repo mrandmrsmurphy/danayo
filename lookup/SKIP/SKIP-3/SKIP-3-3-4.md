@@ -34,6 +34,8 @@ tags: [lookup]
 - 应 --> 応
 - 连 --> 連
 - 𫔭 --> 開
+- 进 --> 進
+- 间 --> 間
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

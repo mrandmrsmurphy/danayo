@@ -19,6 +19,12 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[農](../../characters/農.md)<rt>ㄋㄛㄫ</rt></ruby> - farming
 
+### +8 Strokes
+- 辳 --> 農
+
+### +13 Strokes
+- 䢉 --> 農
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

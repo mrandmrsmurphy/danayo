@@ -58,3 +58,22 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 読 | 读 | 1-2-8 | computed from its parts |
 | 買 | 买 | 2-1-5 | computed from its parts |
 | 買 | 𧹒 | 2-5-4 | computed from its parts |
+| 路 | 鹭 | 2-13-5 | computed from its parts |
+| 農 | 农 | 2-2-4 | computed from its parts |
+| 農 | 辳 | 2-8-7 | computed from its parts |
+| 農 | 䢉 | 2-13-7 | computed from its parts |
+| 進 | 进 | 3-3-4 | computed from its parts |
+| 間 | 间 | 3-3-4 | computed from its parts |
+| 集 | 辑 | 1-4-9 | computed from its parts |
+| 集 | 亼 | 2-2-1 | computed from its parts |
+| 集 | 𠓛 | 2-2-1 | computed from its parts |
+| 電 | 电 | 4-4-1 | computed from its parts |
+| 並 (char) | 幷 | 2-3-5 | computed from its parts |
+| 偉 | 伟 | 1-2-4 | computed from its parts |
+| 傷 | 伤 | 1-2-4 | computed from its parts |
+| 則 | 则 | 1-4-2 | computed from its parts |
+| 副 (char) | 㽬 | 2-9-9 | computed from its parts |
+| 副 (char) | 褔 | 1-5-9 | computed from its parts |
+| 勢 | 势 | 2-6-2 | computed from its parts |
+| 勧 | 劝 | 1-2-2 | computed from its parts |
+| 協 | 协 | 1-2-4 | computed from its parts |

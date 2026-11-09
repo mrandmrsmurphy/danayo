@@ -33,7 +33,7 @@ stand_in: 刊
 aliases:
   - 栞
 注音: ㄎㄚㄋ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -51,6 +51,11 @@ boundedness: 100
 - [SKIP-1-3-2](../lookup/SKIP/SKIP-1/SKIP-1-3-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 3391st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄎㄚㄋ](../syllables/ㄎㄚㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 栞
+木 over 幵, a Japanese character read しおり ("bookmark", "guide") that Wiktionary also glosses "publication, periodical"; kept as an alias of 刊. SKIP 2-6-4 (EDRDG); 10 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-4; 10 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[刊]]<rt>ㄎㄚㄋ</rt></ruby> "publication; periodical" (stand-in for 刊)

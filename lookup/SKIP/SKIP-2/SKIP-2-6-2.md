@@ -21,6 +21,7 @@ tags: [lookup]
 - 变 --> 変
 - 卷 --> 巻
 - 劳 --> 労
+- 势 --> 勢
 
 ## Datacheck
 ```dataview

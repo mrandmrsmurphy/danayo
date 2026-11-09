@@ -67,6 +67,10 @@ tags:
 - 巤 --> 鬣
 - 褲 --> 袴
 - 數 --> 数
+- 辳 --> 農
+- 餘 --> 余
+- 價 --> 価
+- 寫 --> 写
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

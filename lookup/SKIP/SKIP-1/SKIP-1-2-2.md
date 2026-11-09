@@ -23,6 +23,7 @@ tags: [lookup]
 ### Aliases
 - 卬 --> 卯
 - 㕛 --> 友
+- 劝 --> 勧
 
 ## Datacheck
 ```dataview

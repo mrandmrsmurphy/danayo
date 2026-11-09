@@ -37,6 +37,7 @@ tags:
 - 𥎵 --> 知
 - 鬥 --> 門
 - 秤 --> 称
+- 竝 --> 並
 
 ### Forbidden
 - 砸 - 官话: HSK/3.  Modern Mandarin coinage.

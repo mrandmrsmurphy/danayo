@@ -84,6 +84,7 @@ tags: [lookup]
 - 廂 --> 箱
 - 尌 --> 樹
 - 雳 --> 歴
+- 傚 --> 効
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

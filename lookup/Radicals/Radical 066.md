@@ -26,6 +26,7 @@ tags: [lookup]
 
 ### +6 Strokes
 7. <ruby>[敏](../../characters/敏%20(char).md)<rt>ㄇㄧㄋ</rt></ruby> - fast
+- 效 --> 効
 
 ### +7 Strokes
 8. <ruby>[救](../../characters/救.md)<rt>ㄍ⼜</rt></ruby> - rescue

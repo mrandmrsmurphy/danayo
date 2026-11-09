@@ -15,6 +15,8 @@ tags: [lookup]
 ### Aliases
 - 个 --> 個
 - 𠀃 --> 且
+- 亼 --> 集
+- 𠓛 --> 集
 
 ### Forbidden
 - ¡亽! - 違法字
