@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 挟.
 >For the word, see [挟](../words/挟.md)
@@ -52,6 +52,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 1492nd most used character in Classical Chinese (as 挾). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄏㄝㄆ](../syllables/ㄏㄝㄆ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 挾
+Traditional form (kyūjitai) of 挟, "to clasp". SKIP 1-3-7; 10 strokes. It ranks 1492 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[挟]]<rt>ㄏㄝㄆ</rt></ruby> "clasp, hold" (stand-in for 挟)

@@ -143,6 +143,9 @@ tags:
 - 恶 --> 悪
 - 虑 --> 慮
 - 悯 --> 憫
+- 挾 --> 挟
+- 剠 --> 掠
+- 损 --> 損
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

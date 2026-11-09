@@ -19,6 +19,7 @@ tags: [lookup]
 
 ### Aliases
 - 厕 --> 厠
+- 匊 --> 掬
 
 ## Datacheck
 ```dataview

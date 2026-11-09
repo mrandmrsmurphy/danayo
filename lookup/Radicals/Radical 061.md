@@ -66,6 +66,7 @@ tags: [lookup]
 - 总 --> 総
 - 恸 --> 動
 - 怸 --> 悉
+- 恃 --> 持
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance

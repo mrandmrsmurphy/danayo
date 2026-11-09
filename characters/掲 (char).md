@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 掲.
 >For the word, see [掲](../words/掲.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 2472nd most used character in Classical Chinese (recorded in the corpus under its traditional form 揭). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 薛B三開|ɣiᴇt]] → [ㄎㄝㄊ](../syllables/ㄎㄝㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 揭
+Traditional form of 掲, "to raise, to lift up". SKIP 1-3-9 (computed: EDRDG does not list it); 12 strokes. It ranks 2472 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[掲]]<rt>ㄎㄝㄊ</rt></ruby> "set up, install, put up" (stand-in for 掲)

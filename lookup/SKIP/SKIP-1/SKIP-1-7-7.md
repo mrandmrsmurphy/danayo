@@ -37,6 +37,7 @@ tags:
 - 輕 --> 軽
 - 誖 --> 悖
 - 誡 --> 戒
+- 輓 --> 挽
 
 ### Forbidden
 - 趕 - 官话: HSK/2, Mandarin only.

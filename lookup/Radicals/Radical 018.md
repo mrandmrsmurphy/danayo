@@ -65,6 +65,7 @@ tags:
 27. <ruby>[剣](../../characters/剣%20(char).md)<rt>ㄍㄛㄇ</rt></ruby> - sword
 28. <ruby>[剤](../../characters/剤.md)<rt>ㄐㄝㄧ</rt></ruby> - dose
 - 剔 --> 剃
+- 剠 --> 掠
 
 ### +9 Strokes
 29. <ruby>[削](../../characters/削%20(char).md)<rt>ㄙ⼘ㄎ</rt></ruby> - scrape

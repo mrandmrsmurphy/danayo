@@ -28,6 +28,9 @@ tags: [lookup]
 ### +4 Strokes
 6. <ruby>[匈](../../characters/匈.md)<rt>ㄏ⼄ㄫ</rt></ruby> - Huns
 
+### +6 Strokes
+- 匊 --> 掬
+
 ### +9 Strokes
 - 匐 --> 伏
 

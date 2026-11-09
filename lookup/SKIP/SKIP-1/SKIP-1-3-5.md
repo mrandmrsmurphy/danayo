@@ -117,6 +117,9 @@ tags:
 - 怳 --> 恍
 - 怫 --> 悖
 - 怜 --> 憐
+- 拕 --> 拖
+- 拚 --> 拼
+- 拣 --> 揀
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

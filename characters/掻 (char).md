@@ -32,7 +32,6 @@ stand_in: 掻
 aliases:
   - 搔
   - 𢸪
-  - 𲢴
   - 𢫼
   - 𤔢
   - 㮻
@@ -41,7 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 掻.
 >For the word, see [掻](../words/掻.md)
@@ -55,6 +54,23 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 3326th most used character in Classical Chinese (tracked under the traditional form *搔*). Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 豪|ɑu]] → [ㄙㄚㄨ](../syllables/ㄙㄚㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 搔
+A variant form of 掻, "to scratch". SKIP 1-3-9; 12 strokes. It ranks 3326 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 𢸪
+A variant form of 掻, "to scratch". SKIP 1-3-16 (computed: EDRDG does not list it); 19 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𢫼
+A variant form of 掻 (also a Vietnamese Nôm form). SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𤔢
+A variant form of 掻, "to scratch". SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. Radical 087 爪. It has no rank of its own in the Classical Chinese lists.
+
+### 㮻
+A variant form of 掻, "to scratch". SKIP 1-4-10 (computed: EDRDG does not list it); 14 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[掻]]<rt>ㄙㄚㄨ</rt></ruby> "scratch" (stand-in for 掻)

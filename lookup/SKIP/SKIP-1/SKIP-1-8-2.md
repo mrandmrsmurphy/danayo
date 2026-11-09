@@ -24,6 +24,7 @@ tags: [lookup]
 - 剔 --> 剃
 - 勌 --> 倦
 - 勑 --> 勅
+- 剠 --> 掠
 
 ## Datacheck
 ```dataview

@@ -71,6 +71,7 @@ tags: [lookup]
 - ¡枠! - 違法字
 - 构 --> 構
 - 杰 --> 傑
+- 杭 --> 抗
 
 ### +5 Strokes
 37. <ruby>[果](../../characters/果.md)<rt>ㄍ⺢</rt></ruby> - fruit
@@ -226,6 +227,7 @@ tags: [lookup]
 - ¡槞! - 違法字
 - ¡𪳤! - 違法字
 - 榦 --> 幹
+- 㮻 --> 掻
 
 ### +11 Strokes
 137. <ruby>[槻](../../characters/槻.md)<rt>ㄍㄨㄧ</rt></ruby> - zelkova tree

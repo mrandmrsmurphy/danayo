@@ -30,7 +30,7 @@ stand_in: 持
 aliases:
   - 恃
 注音: ㄉㄧ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 90
 - [SKIP-1-3-6](../lookup/SKIP/SKIP-1/SKIP-1-3-6.md) ([Stroke 09](../lookup/Stroke/Stroke%2009.md))
 - 566th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 澄|ɖ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄉㄧ](../syllables/ㄉㄧ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 恃
+忄 + 寺, "to rely on"; built on 寺, the phonetic of 持, and kept as an alias. SKIP 1-3-6; 9 strokes. Radical 061 心. It ranks 1310 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[持]]<rt>ㄉㄧ</rt></ruby> "to hold" (stand-in for 持)

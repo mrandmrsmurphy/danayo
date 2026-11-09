@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 60 (alias protocol), next twelve oldest characters with aliases:** 掏, 掠, 措, 掬, 掲, 掻, 揀, 揶, 揺, 損, 携, 摂 processed. Gained `## Aliases` (搯; 剠 and 㨼; 匊; 揭; 搔, 𢸪, 𢫼, 𤔢 and 㮻; 拣 and 撿; 捓; 搖 and 摇; 损; 攜; 攝), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed (揶 stays blank). Per the 2026-11-09 decision, dropped the definition-less 稤 and 䅫 (掠), 𢵄 (措) and 𲢴 (掻) from `aliases:`; 措 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
+- **Loop batch 59 (alias protocol), next twelve oldest characters with aliases:** 抗, 拂, 担, 拖, 拼, 持, 挟, 挽, 挿, 捏, 捜, 掃 gained their first `## Aliases` section (杭; 払; 擔; 拕 and 扡; 拚; 恃; 挾; 輓; 插 and 揷; 揑; 搜; 扫), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed; 捏 stays blank, no rank found). lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 58 (alias protocol), next twelve oldest characters with aliases:** 憲, 懲, 懶, 懸, 我, 戒, 戚, 戟, 戮, 戻, 扁, 扇 processed. Gained `## Aliases` (宪; 惩; 嬾 and 懒; 悬; 誡; 慼; 㦸; 剹; 戾; 煽), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed. Per the 2026-11-09 decision, dropped the definition-less 𠨂, 𢦐, 𢦓, 𢦖, 𢦠, 𨈟 and 𩇶 (我) and 𡈯 (扁) from `aliases:`; 我 and 扁 now have none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 57 (alias protocol), next twelve oldest characters with aliases:** 愈, 愧, 愨, 慎, 慨, 慮, 慷, 憐, 憑, 憤, 憩, 憫 processed. Gained `## Aliases` (媿; 悫 and 慤; 愼; 嘅; 虑; 忼; 怜; 凭; 忿 and 愤; 憇; 悯 and 愍), with redirects and computed SKIP numbers in the guess list, and `mc_id` 憤 now 1615 from 忿 and 憫 now 2204 from 愍. Per the 2026-11-09 decision, dropped the definition-less 𠃄 from 愈's `aliases:`; 愈 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

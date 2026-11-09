@@ -384,3 +384,14 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 懸 (char) | 悬 | 2-7-4 | computed from its parts |
 | 戟 | 㦸 | 1-8-4 | computed from its parts |
 | 戻 | 戾 | 2-4-4 | computed from its parts |
+| 拖 | 扡 | 1-3-3 | computed from its parts |
+| 挿 | 揷 | 1-3-9 | computed from its parts |
+| 掃 | 扫 | 1-3-3 | computed from its parts |
+| 掠 | 㨼 | 1-3-12 | computed from its parts |
+| 掲 (char) | 揭 | 1-3-9 | computed from its parts |
+| 掻 (char) | 𢸪 | 1-3-16 | computed from its parts |
+| 掻 (char) | 𢫼 | 1-3-6 | computed from its parts |
+| 掻 (char) | 𤔢 | 1-4-10 | computed from its parts |
+| 掻 (char) | 㮻 | 1-4-10 | computed from its parts |
+| 揀 | 拣 | 1-3-5 | computed from its parts |
+| 損 | 损 | 1-3-7 | computed from its parts |

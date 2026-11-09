@@ -40,7 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 拂.
 >For the word, see [拂](../words/拂.md)
@@ -54,6 +54,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-5](../lookup/SKIP/SKIP-1/SKIP-1-3-5.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 2020th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 敷|fʰ]] + [[Lookup/CC/finals/韻 物|ɨut]] → [ㄈㄨㄊ](../syllables/ㄈㄨㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 払
+The Japanese simplified form of 拂, "to brush off, to pay". SKIP 1-3-2; 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[拂]]<rt>ㄈㄨㄊ</rt></ruby> "shake off, brush off" (stand-in for 拂)

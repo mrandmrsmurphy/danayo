@@ -24,6 +24,7 @@ tags: [lookup]
 - 爭 --> 争
 - 爯 --> 称
 - 爲 --> 為
+- 𤔢 --> 掻
 
 ## Data check
 ```dataview

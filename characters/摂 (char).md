@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 70
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 摂.
 >For the word, see [摂](../words/摂.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1382nd most used character in Classical Chinese (recorded under the traditional form 攝). Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄋㄝㄆ](../syllables/ㄋㄝㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 5](../lookup/HSK/Old%20HSK%205.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 攝
+Traditional form (kyūjitai) of 摂, "to take in". SKIP 1-3-18; 21 strokes. It ranks 1382 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[摂]]<rt>ㄋㄝㄆ</rt></ruby> "vicarious" (stand-in for 摂 (char))

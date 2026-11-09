@@ -171,6 +171,11 @@ tags:
 - 弻 --> 弼
 - 惱 --> 悩
 - 愤 --> 憤
+- 插 --> 挿
+- 揷 --> 挿
+- 揑 --> 捏
+- 揭 --> 掲
+- 搔 --> 掻
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

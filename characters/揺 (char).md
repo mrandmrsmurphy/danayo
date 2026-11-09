@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 揺.
 >For the word, see [揺](../words/揺.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1443rd most used character in Classical Chinese (ranked under the traditional form 搖). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [⼄ㄨ](../syllables/⼄ㄨ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 搖
+Traditional form of 揺, "to shake". SKIP 1-3-10; 13 strokes. It ranks 1443 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 摇
+The Chinese simplified form of 搖. SKIP 1-3-10; 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[揺]]<rt>⼄ㄨ</rt></ruby> "swing, shake, rock" (stand-in for 揺)
