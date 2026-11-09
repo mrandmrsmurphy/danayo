@@ -29,7 +29,7 @@ stand_in: 譲
 aliases:
   - 讓
 注音: ㄋ⼘ㄫ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -45,8 +45,13 @@ boundedness: 60
 ## Notes
 - 形声 (OC *njaŋs): semantic [[言 (char)|言]] ("speech, words") + phonetic 襄 (OC *snaŋ — no character page in this vault) — to yield, concede, permit.
 - [SKIP-1-7-13](../lookup/SKIP/SKIP-1/SKIP-1-7-13.md) ([Stroke 20](../lookup/Stroke/Stroke%2020.md))
-- 616th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](../syllables/ㄋ⼘ㄫ.md)
+- 616th most used character in Classical Chinese (rank belongs to the traditional form 讓). Ancient [[Lookup/CC/initials/聲 日|ȵ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄋ⼘ㄫ](../syllables/ㄋ⼘ㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 讓
+Traditional form (kyūjitai) of 譲, "to allow, to yield". SKIP 1-7-17; 24 strokes. It ranks 616 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[譲]]<rt>ㄋ⼘ㄫ</rt></ruby> "permit" (stand-in for 譲)

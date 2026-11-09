@@ -55,7 +55,7 @@ boundedness: 100
 ## Aliases
 
 ### 栞
-木 over 幵, a Japanese character read しおり ("bookmark", "guide") that Wiktionary also glosses "publication, periodical"; kept as an alias of 刊. SKIP 2-6-4 (EDRDG); 10 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-4; 10 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+木 over 幵, a Japanese character read しおり ("bookmark", "guide") that Wiktionary also glosses "publication, periodical"; kept as an alias of 刊. SKIP 2-6-4; 10 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[刊]]<rt>ㄎㄚㄋ</rt></ruby> "publication; periodical" (stand-in for 刊)

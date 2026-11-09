@@ -133,3 +133,38 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 藍 (char) | 蓝 | 2-3-11 | computed from its parts |
 | 藍 (char) | 褴 | 1-5-10 | computed from its parts |
 | 虚 (char) | 虛 | 3-4-8 | computed from its parts |
+| 術 (char) | 术 | 1-4-1 | computed from its parts |
+| 親 | 亲 | 2-5-4 | computed from its parts |
+| 親 | 衬 | 1-5-3 | computed from its parts |
+| 観 | 观 | 1-2-4 | computed from its parts |
+| 計 | 计 | 1-2-2 | computed from its parts |
+| 訓 (char) | 训 | 1-2-3 | computed from its parts |
+| 訪 | 访 | 1-2-4 | computed from its parts |
+| 設 | 设 | 1-2-4 | computed from its parts |
+| 許 (char) | 许 | 1-2-4 | computed from its parts |
+| 許 (char) | 浒 | 1-3-6 | computed from its parts |
+| 試 | 试 | 1-2-6 | computed from its parts |
+| 該 (char) | 该 | 1-2-6 | computed from its parts |
+| 説 | 說 | 1-7-7 | computed from its parts |
+| 説 | 说 | 1-2-7 | computed from its parts |
+| 調 | 调 | 1-2-8 | computed from its parts |
+| 請 (char) | 请 | 1-2-8 | computed from its parts |
+| 講 | 讲 | 1-2-4 | computed from its parts |
+| 議 | 议 | 1-2-3 | computed from its parts |
+| 負 (char) | 负 | 2-2-4 | computed from its parts |
+| 貨 | 货 | 2-4-4 | computed from its parts |
+| 貴 | 贵 | 2-5-4 | computed from its parts |
+| 賞 (char) | 赏 | 2-5-7 | computed from its parts |
+| 軍 | 军 | 2-2-4 | computed from its parts |
+| 輩 (char) | 辈 | 2-8-4 | computed from its parts |
+| 選 | 选 | 3-3-7 | computed from its parts |
+| 遺 (char) | 遗 | 3-3-9 | computed from its parts |
+| 針 (char) | 针 | 1-5-2 | computed from its parts |
+| 鐘 (char) | 钟 | 1-5-4 | computed from its parts |
+| 陰 (char) | 阴 | 1-3-4 | computed from its parts |
+| 陰 (char) | 荫 | 2-3-6 | computed from its parts |
+| 難 | 难 | 1-2-8 | computed from its parts |
+| 順 | 顺 | 1-3-6 | computed from its parts |
+| 題 | 题 | 1-9-6 | computed from its parts |
+| 願 | 𫖸 | 1-10-6 | computed from its parts |
+| 類 | 类 | 2-6-3 | computed from its parts |

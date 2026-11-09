@@ -56,10 +56,10 @@ boundedness: 90
 ## Aliases
 
 ### 㽬
-A rare character glossed "a lot; dense" (Wiktionary); a variant of the 畐 family. SKIP 2-9-9 (computed: EDRDG does not list it); 18 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-9-9 (computed: EDRDG does not list it); 18 strokes. Radical 102 田. It has no rank of its own in the Classical Chinese lists.
+A rare character glossed "a lot; dense" (Wiktionary); a variant of the 畐 family. SKIP 2-9-9 (computed: EDRDG does not list it); 18 strokes. Radical 102 田. It has no rank of its own in the Classical Chinese lists.
 
 ### 褔
-衤 + 畐, "to be filled with, to brim with" and a classifier for sets of clothing (Wiktionary); a variant of 副's phonetic family. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
+衤 + 畐, "to be filled with, to brim with" and a classifier for sets of clothing (Wiktionary); a variant of 副's phonetic family. SKIP 1-5-9 (computed: EDRDG does not list it); 14 strokes. Radical 145 衣. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[副]]<rt>ㄈㄨㄎ</rt></ruby> "vice-" (stand-in for 副)

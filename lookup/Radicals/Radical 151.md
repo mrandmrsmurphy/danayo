@@ -22,6 +22,9 @@ tags: [lookup]
 ### +9 Strokes
 4. <ruby>[豎](../../characters/豎.md)<rt>ㄙㄨ</rt></ruby> - vertical line
 
+### +11 Strokes
+- 豐 --> 豊
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

@@ -55,7 +55,7 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 缩
-Simplified Chinese form of 縮. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2100 is 縮's own. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 縮. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[縮]]<rt>ㄙㄨㄎ</rt></ruby> "shrink, contract" (stand-in for 縮)

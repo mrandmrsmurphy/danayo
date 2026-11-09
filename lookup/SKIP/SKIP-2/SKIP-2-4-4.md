@@ -38,6 +38,7 @@ tags:
 - 爭 --> 争
 - 戔 --> 残
 - 歨 --> 歩
+- 货 --> 貨
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

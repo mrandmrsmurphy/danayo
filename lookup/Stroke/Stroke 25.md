@@ -14,6 +14,7 @@ tags: [lookup]
 - 2-12-13: <ruby>[[鼈 (char)|鼈]]<rt>ㄅㄝㄊ</rt></ruby>
 
 ### Aliases
+- 觀 --> 観
 
 ### Forbidden
 - 鱰 - 国字: Japanese-invented character. Mahi-mahi

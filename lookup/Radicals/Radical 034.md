@@ -19,6 +19,7 @@ tags: [lookup]
 ### Aliases
 - 处 --> 処
 - 备 --> 備
+- 夆 --> 豊
 
 ## Data check
 ```dataview

@@ -102,6 +102,7 @@ tags: [lookup]
 - 洌 --> 列
 - ¡𣴘! - 違法字
 - 济 --> 済
+- 浒 --> 許
 
 ### +6 Strokes
 66. <ruby>[泰](../../characters/泰.md)<rt>ㄊㄚㄧ</rt></ruby> - peaceful
@@ -220,6 +221,7 @@ tags: [lookup]
 - 滌 --> 浄
 - 滯 --> 滞
 - 漣 --> 連
+- 滸 --> 許
 
 ### +11 Strokes
 153. <ruby>[潔](../../characters/潔.md)<rt>ㄍㄝㄊ</rt></ruby> - clean

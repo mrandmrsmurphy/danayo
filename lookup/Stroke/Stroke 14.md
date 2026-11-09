@@ -83,6 +83,11 @@ tags:
 - 䆫 --> 窓
 - 缩 --> 縮
 - 蓝 --> 藍
+- 裳 --> 装
+- 滸 --> 許
+- 說 --> 説
+- 銓 --> 選
+- 愿 --> 願
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

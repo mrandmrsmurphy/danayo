@@ -14,6 +14,9 @@ tags:
 1. <ruby>[貝](../../characters/貝.md)<rt>ㄅㄚㄧ</rt></ruby> - shellfish
 - 贝 --> 貝
 
+### +1 Stroke
+- 货 --> 貨
+
 ### +2 Strokes
 2. <ruby>[貞](../../characters/貞.md)<rt>ㄊㄧㄫ</rt></ruby> - chaste
 3. <ruby>[負](../../characters/負%20(char).md)<rt>ㄅ⼜</rt></ruby> - carry
@@ -21,6 +24,7 @@ tags:
 - 负 --> 負
 - 贠 --> 員
 - 𧹒 --> 買
+- 贵 --> 貴
 
 ### +3 Strokes
 4. <ruby>[財](../../characters/財.md)<rt>ㄐㄚㄧ</rt></ruby> - wealth
@@ -50,6 +54,7 @@ tags:
 20. <ruby>[貿](../../characters/貿.md)<rt>ㄇㄛㄨ</rt></ruby> - trade
 21. <ruby>[賀](../../characters/賀.md)<rt>ㄏㄚ</rt></ruby> - congratulate
 22. <ruby>[賁](../../characters/賁.md)<rt>ㄅㄨㄋ</rt></ruby> - energetic
+- 赏 --> 賞
 
 ### +6 Strokes
 23. <ruby>[賂](../../characters/賂.md)<rt>ㄌㄛ</rt></ruby> - bribe

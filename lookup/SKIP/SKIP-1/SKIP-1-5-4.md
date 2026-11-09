@@ -34,6 +34,7 @@ tags:
 - 衹 --> 只
 - 秕 --> 比
 - 战 --> 戦
+- 钟 --> 鐘
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

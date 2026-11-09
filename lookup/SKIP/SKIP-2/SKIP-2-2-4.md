@@ -38,6 +38,8 @@ tags: [lookup]
 - 关 --> 関
 - 农 --> 農
 - 产 --> 産
+- 负 --> 負
+- 军 --> 軍
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

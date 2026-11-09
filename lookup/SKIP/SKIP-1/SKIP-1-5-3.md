@@ -23,6 +23,7 @@ tags: [lookup]
 
 ### Aliases
 - 矽 --> 硅
+- 衬 --> 親
 
 ### Forbidden
 - 竏 - 国字: Japanese-invented character for 千升 (kiloliter).

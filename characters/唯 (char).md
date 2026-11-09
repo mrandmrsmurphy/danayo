@@ -66,7 +66,7 @@ boundedness: 80
 ## Aliases
 
 ### 惟
-忄 + 隹, "but, however; only" (also "to think"); a separate character, nearly interchangeable with 唯, that ranks 515 in the Classical Chinese lists, better than 唯's own 520, so it sets the page's `mc_id`. SKIP 1-3-8 (EDRDG); 11 strokes. SKIP 1-3-8; 11 strokes. Radical 061 心. It ranks 515 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+忄 + 隹, "but, however; only" (also "to think"); a separate character, nearly interchangeable with 唯, that ranks 515 in the Classical Chinese lists, better than 唯's own 520, so it sets the page's `mc_id`. SKIP 1-3-8; 11 strokes. Radical 061 心. It ranks 515 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[唯]]<rt>⼶ㄧ</rt></ruby> "only" (stand-in for 唯)

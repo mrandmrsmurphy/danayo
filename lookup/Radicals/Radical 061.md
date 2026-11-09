@@ -118,6 +118,7 @@ tags: [lookup]
 81. <ruby>[慷](../../characters/慷.md)<rt>ㄎㄚㄫ</rt></ruby> - ardent
 82. <ruby>[憎](../../characters/憎.md)<rt>ㄐㄜㄫ</rt></ruby> - hate
 - 慓 --> 票
+- 愿 --> 願
 
 ### +11 Strokes
 83. <ruby>[惮](../../characters/惮.md)<rt>ㄉㄚㄋ</rt></ruby> - dread

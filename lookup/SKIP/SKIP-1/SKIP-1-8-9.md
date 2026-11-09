@@ -18,6 +18,9 @@ tags: [lookup]
 6. <ruby>[鍾](characters/鍾%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> "alcohol bottle"
 7. <ruby>[顆](/characters/顆.md)<rt>ㄎ⺢</rt></ruby> "granule"
 
+### Aliases
+- 鍼 --> 針
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

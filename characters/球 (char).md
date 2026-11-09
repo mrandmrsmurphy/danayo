@@ -53,7 +53,7 @@ boundedness: 90
 ## Aliases
 
 ### 毬
-毛 + 求, "ball"; a variant of 球 kept as an alias for search. SKIP 3-4-7 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2648 is 球's own. SKIP 3-4-7; 11 strokes. Radical 082 毛. It has no rank of its own in the Classical Chinese lists.
+毛 + 求, "ball"; a variant of 球 kept as an alias for search. SKIP 3-4-7; 11 strokes. Radical 082 毛. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[球]]<rt>ㄍ⼜</rt></ruby> "sphere; ball" (stand-in for 球)

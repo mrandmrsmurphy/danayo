@@ -57,10 +57,10 @@ boundedness: 45
 ## Aliases
 
 ### 帶
-Traditional form (kyūjitai) of 帯; Unihan lists 帯 as its Japanese new variant and 带 as its simplified form. SKIP 2-6-5 (EDRDG); 11 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1061 is 帶's rank. SKIP 2-6-5; 11 strokes. It ranks 1061 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 帯; Unihan lists 帯 as its Japanese new variant and 带 as its simplified form. SKIP 2-6-5; 11 strokes. It ranks 1061 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 带
-Simplified Chinese form of 帶. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 帶. SKIP 2-6-3 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[帯]]<rt>ㄊㄚㄧ</rt></ruby> "sash; belt" (stand-in for 帯)

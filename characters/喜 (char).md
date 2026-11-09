@@ -60,10 +60,10 @@ boundedness: 90
 ## Aliases
 
 ### 禧
-示 + 喜, "favourable luck, good fortune, blessings"; a separate character built on 喜, kept as an alias for search. SKIP 1-5-12 (EDRDG); 16 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-12; 16 strokes. Radical 113 示. It has no rank of its own in the Classical Chinese lists.
+示 + 喜, "favourable luck, good fortune, blessings"; a separate character built on 喜, kept as an alias for search. SKIP 1-5-12; 16 strokes. Radical 113 示. It has no rank of its own in the Classical Chinese lists.
 
 ### 僖
-亻 + 喜, "joy, gladness" and a surname; a separate character built on 喜, kept as an alias for search. SKIP 1-2-12 (EDRDG); 14 strokes. It ranks 1770 in the Classical Chinese lists, lower than 喜's 506, so `mc_id` stays 506. SKIP 1-2-12; 14 strokes. Radical 009 人. It ranks 1770 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+亻 + 喜, "joy, gladness" and a surname; a separate character built on 喜, kept as an alias for search. SKIP 1-2-12; 14 strokes. Radical 009 人. It ranks 1770 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[喜]]<rt>ㄏㄧ</rt></ruby> "like; love; enjoy" (stand-in for 喜)

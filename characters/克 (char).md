@@ -55,7 +55,7 @@ boundedness: 100
 ## Aliases
 
 ### 剋
-刂 + 克 as phonetic, "to counteract, to subdue, to overcome"; Unihan lists 克 as its simplified form and the two are interchangeable in the sense "to overcome". SKIP 3-7-2 (EDRDG); 9 strokes. It ranks 2242 in the Classical Chinese lists, lower than 克's 729, so `mc_id` stays 729. SKIP 3-7-2; 9 strokes. Radical 018 刀. It ranks 2242 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+刂 + 克 as phonetic, "to counteract, to subdue, to overcome"; Unihan lists 克 as its simplified form and the two are interchangeable in the sense "to overcome". SKIP 3-7-2; 9 strokes. Radical 018 刀. It ranks 2242 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[克]]<rt>ㄎㄨㄎ</rt></ruby> "practice self-restraint; overcome; gram (unit of mass)" (stand-in for 克)

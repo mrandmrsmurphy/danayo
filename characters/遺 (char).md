@@ -31,7 +31,7 @@ stand_in: "遺"
 aliases:
   - 遗
 注音: "⼶ㄧ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 30
 - [SKIP-3-3-12](../lookup/SKIP/SKIP-3/SKIP-3-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 600th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [⼶ㄧ](../syllables/⼶ㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 遗
+Simplified Chinese form of 遺. SKIP 3-3-9 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[遺]]<rt>⼶ㄧ</rt></ruby> "lose, leave behind" (stand-in for 遺)

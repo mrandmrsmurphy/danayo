@@ -18,6 +18,9 @@ tags: [lookup]
 ### +6 Strokes
 3. <ruby>[静](../../characters/静.md)<rt>ㄐㄝㄫ</rt></ruby> - quiet
 
+### +8 Strokes
+- 靜 --> 静
+
 ### Aliases
 - 靑 --> 青
 

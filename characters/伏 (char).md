@@ -58,10 +58,10 @@ boundedness: 100
 ## Aliases
 
 ### 鮲
-魚 + 伏, a rare character (a fish name) that Wiktionary lists without a definition, kept as an alias of 伏, which is its phonetic. SKIP 1-11-6 (EDRDG); 17 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-11-6; 17 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
+魚 + 伏, a rare character (a fish name) that Wiktionary lists without a definition, kept as an alias of 伏, which is its phonetic. SKIP 1-11-6; 17 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
 
 ### 匐
-勹 around 畐, "to crawl", found only in 匍匐 (匍匐前進, "to crawl forward"); Wiktionary lists 伏 as its simplified form, and it is the phonetic of 蔔. It has the same derived Dan'a'yo sound as 伏, ㄅㄨㄎ (MC `b` + `ək`), and nearly the same meaning (to lie prone, to crawl), so it is an alias of 伏, which is the hub for the characters built on it (see Derived Characters). SKIP 3-2-9 (EDRDG); 11 strokes. It has rank 3694 in the Classical Chinese lists, lower than 伏's 561, so `mc_id` stays 561. SKIP 3-2-9; 11 strokes. Radical 020 勹. It ranks 3694 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+勹 around 畐, "to crawl", found only in 匍匐 (匍匐前進, "to crawl forward"); Wiktionary lists 伏 as its simplified form, and it is the phonetic of 蔔. It has the same derived Dan'a'yo sound as 伏, ㄅㄨㄎ (MC `b` + `ək`), and nearly the same meaning (to lie prone, to crawl), so it is an alias of 伏, which is the hub for the characters built on it (see Derived Characters). SKIP 3-2-9; 11 strokes. Radical 020 勹. It ranks 3694 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[伏]]<rt>ㄅㄨㄎ</rt></ruby> "crouch; prostrate; surrender" (stand-in for 伏)

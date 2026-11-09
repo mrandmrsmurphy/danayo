@@ -102,6 +102,7 @@ tags: [lookup]
 62. <ruby>[緩](../../characters/緩.md)<rt>ㄏ⺢ㄋ</rt></ruby> - sluggish
 63. <ruby>[縁](../../characters/縁.md)<rt>⼶ㄋ</rt></ruby> - fate
 64. <ruby>[縄](../../characters/縄%20(char).md)<rt>ㄙㄜㄫ</rt></ruby> - rope
+- 緬 --> 面
 
 ### +10 Strokes
 65. <ruby>[緯](../../characters/緯.md)<rt>ㄨㄧ</rt></ruby> - lines of latitude

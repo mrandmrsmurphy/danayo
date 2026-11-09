@@ -62,10 +62,10 @@ boundedness: 100
 ## Aliases
 
 ### 爲
-Variant (kyūjitai) form of 為, "to do, to perform". SKIP 2-4-8 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 7 is 為's own. SKIP 2-4-8; 12 strokes. Radical 087 爪. It has no rank of its own in the Classical Chinese lists.
+Variant (kyūjitai) form of 為, "to do, to perform". SKIP 2-4-8; 12 strokes. Radical 087 爪. It has no rank of its own in the Classical Chinese lists.
 
 ### 为
-Simplified Chinese form of 為. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 7 is 為's own. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. Radical 003 丶. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 為. SKIP 4-3-1 (computed: EDRDG does not list it); 4 strokes. Radical 003 丶. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[為]]<rt>⼔ㄋ</rt></ruby> "namely" (stand-in for 為)

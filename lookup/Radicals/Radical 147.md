@@ -10,6 +10,9 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 观 --> 観
+
 ### +0 Strokes
 1. <ruby>[見](../../characters/見%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - see
 
@@ -29,6 +32,9 @@ tags: [lookup]
 
 ### +11 Strokes
 8. <ruby>[観](../../characters/観.md)<rt>ㄍ⺢ㄋ</rt></ruby> - observe
+
+### +18 Strokes
+- 觀 --> 観
 
 ### Aliases
 - 视 --> 視

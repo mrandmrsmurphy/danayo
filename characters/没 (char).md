@@ -57,10 +57,10 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 沒
-Traditional form (kyūjitai) of 没, "not have". SKIP 1-3-4 (EDRDG); 7 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1158 is 沒's rank. SKIP 1-3-4; 7 strokes. It ranks 1158 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 没, "not have". SKIP 1-3-4; 7 strokes. It ranks 1158 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 歿
-歹 + 殳, "to die" (literary), also an alternative form of 沒. SKIP 1-4-4 (EDRDG); 8 strokes. It ranks 2420 in the Classical Chinese lists, worse than 沒's 1158, so the `mc_id` stays 1158. SKIP 1-4-4; 8 strokes. Radical 078 歹. It ranks 2420 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+歹 + 殳, "to die" (literary), also an alternative form of 沒. SKIP 1-4-4; 8 strokes. Radical 078 歹. It ranks 2420 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[没]]<rt>ㄇㄛㄊ</rt></ruby> "drown, sink" (stand-in for 没)

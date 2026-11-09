@@ -80,6 +80,8 @@ tags:
 - 猷 --> 猶
 - 牎 --> 窓
 - 腦 --> 脳
+- 裝 --> 装
+- 蔭 --> 陰
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

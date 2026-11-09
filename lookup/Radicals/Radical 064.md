@@ -162,6 +162,7 @@ tags: [lookup]
 118. <ruby>[撮](../../characters/撮%20(char).md)<rt>ㄐ⺢ㄊ</rt></ruby> - small amount
 119. <ruby>[撲](../../characters/撲%20(char).md)<rt>ㄆㄛㄎ</rt></ruby> - rush at
 120. <ruby>[撹](../../characters/撹.md)<rt>ㄍ⼄ㄨ</rt></ruby> - stir up
+- 撰 --> 選
 
 ### +12 Strokes
 121. <ruby>[拠](../../characters/拠.md)<rt>ㄍ⼄</rt></ruby> - depend upon

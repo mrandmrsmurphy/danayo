@@ -56,7 +56,7 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 飜
-Traditional form (kyūjitai) of 翻, "to flip, to translate". SKIP 1-12-9 (EDRDG); 21 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4924 is 翻's own. SKIP 1-12-9; 21 strokes. Radical 183 飛. It has no rank of its own in the Classical Chinese lists.
+Traditional form (kyūjitai) of 翻, "to flip, to translate". SKIP 1-12-9; 21 strokes. Radical 183 飛. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[翻]]<rt>ㄈㄛㄋ</rt></ruby> "flip" (stand-in for 翻)

@@ -10,8 +10,14 @@ tags: [lookup]
 
 ## Strokes
 
+### +-1 Strokes
+- 针 --> 針
+
 ### +0 Strokes
 1. <ruby>[金](../../characters/金%20(char).md)<rt>ㄍㄧㄇ</rt></ruby> - metal
+
+### +1 Stroke
+- 钟 --> 鐘
 
 ### +2 Strokes
 2. <ruby>[釘](../../characters/釘%20(char).md)<rt>ㄉㄝㄫ</rt></ruby> - nail
@@ -47,6 +53,7 @@ tags: [lookup]
 24. <ruby>[銑](../../characters/銑.md)<rt>ㄙㄝㄋ</rt></ruby> - mill
 25. <ruby>[銘](../../characters/銘.md)<rt>ㄇㄝㄫ</rt></ruby> - inscription
 26. <ruby>[銭](../../characters/銭.md)<rt>ㄐㄝㄋ</rt></ruby> - coin
+- 銓 --> 選
 
 ### +7 Strokes
 27. <ruby>[銹](../../characters/銹%20(char).md)<rt>ㄙ⼜</rt></ruby> - rust
@@ -70,6 +77,7 @@ tags: [lookup]
 43. <ruby>[錮](../../characters/錮%20(char).md)<rt>ㄍㄛ</rt></ruby> - confine
 44. <ruby>[錯](../../characters/錯.md)<rt>ㄑㄚㄎ</rt></ruby> - mistake
 45. <ruby>[録](../../characters/録.md)<rt>ㄌㄛㄎ</rt></ruby> - record
+- 錢 --> 銭
 
 ### +9 Strokes
 46. <ruby>[鍋](../../characters/鍋%20(char).md)<rt>ㄍ⺢</rt></ruby> - pot
@@ -78,6 +86,7 @@ tags: [lookup]
 49. <ruby>[鍬](../../characters/鍬%20(char).md)<rt>ㄑㄚㄨ</rt></ruby> - shovel
 50. <ruby>[鍵](../../characters/鍵%20(char).md)<rt>ㄍ⼶ㄋ</rt></ruby> - key
 51. <ruby>[鍾](../../characters/鍾%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - alcohol bottle
+- 鍼 --> 針
 
 ### +10 Strokes
 52. <ruby>[鎌](../../characters/鎌%20(char).md)<rt>ㄌㄝㄇ</rt></ruby> - sickle

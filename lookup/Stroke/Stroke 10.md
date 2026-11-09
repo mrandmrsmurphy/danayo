@@ -93,6 +93,11 @@ tags:
 - 竞 --> 競
 - 脑 --> 脳
 - 烙 --> 落
+- 调 --> 調
+- 请 --> 請
+- 适 --> 適
+- 选 --> 選
+- 难 --> 難
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

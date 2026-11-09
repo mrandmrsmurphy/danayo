@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### +4 Strokes
 - 农 --> 農
+- 军 --> 軍
 
 ### +7 Strokes
 4. <ruby>[冒](../../characters/冒.md)<rt>ㄇㄚㄨ</rt></ruby> - take a risk

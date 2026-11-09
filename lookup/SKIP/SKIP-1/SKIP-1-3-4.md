@@ -79,6 +79,7 @@ tags:
 - 块 --> 塊
 - 沒 --> 没
 - 犹 --> 猶
+- 阴 --> 陰
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

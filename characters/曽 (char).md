@@ -55,7 +55,7 @@ boundedness: 70
 ## Aliases
 
 ### 曾
-Traditional form (kyūjitai) of 曽; Unihan lists 曽 as its Japanese new variant. "Already, once". SKIP 2-2-10 (EDRDG); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 753 is 曾's rank. SKIP 2-2-10; 12 strokes. It ranks 753 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 曽; Unihan lists 曽 as its Japanese new variant. "Already, once". SKIP 2-2-10; 12 strokes. It ranks 753 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[曽]]<rt>ㄐㄜㄫ</rt></ruby> "great-" (stand-in for 曽)

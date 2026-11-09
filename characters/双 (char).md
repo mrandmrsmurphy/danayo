@@ -59,7 +59,7 @@ boundedness: 90
 ## Aliases
 
 ### 雙
-Traditional form (kyūjitai) of 双; Unihan lists 双 as its Japanese new variant. SKIP 2-16-2 (EDRDG); 18 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 2183 is 雙's rank. SKIP 2-16-2; 18 strokes. Radical 172 隹. It ranks 2183 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 双; Unihan lists 双 as its Japanese new variant. SKIP 2-16-2; 18 strokes. Radical 172 隹. It ranks 2183 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[双]]<rt>ㄙ⺢ㄫ</rt></ruby> "pair; double; twin; even" (stand-in for 双)

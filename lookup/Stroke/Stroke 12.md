@@ -94,6 +94,10 @@ tags: [lookup]
 - 𤗉 --> 窓
 - 缐 --> 線
 - 虛 --> 虚
+- 赏 --> 賞
+- 辈 --> 輩
+- 啻 --> 適
+- 遗 --> 遺
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

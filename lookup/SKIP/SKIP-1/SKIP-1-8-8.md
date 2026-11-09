@@ -32,6 +32,8 @@ tags: [lookup]
 
 ### Aliases
 - 錶 --> 表
+- 錢 --> 銭
+- 靜 --> 静
 
 ## Datacheck
 ```dataview

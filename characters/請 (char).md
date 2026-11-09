@@ -37,7 +37,7 @@ stand_in: "請"
 aliases:
   - 请
 注音: "ㄑㄧㄫ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -55,6 +55,11 @@ boundedness: 90
 - [SKIP-1-7-8](../lookup/SKIP/SKIP-1/SKIP-1-7-8.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 219th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄑㄧㄫ](../syllables/ㄑㄧㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 请
+Simplified Chinese form of 請. SKIP 1-2-8 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[請]]<rt>ㄑㄧㄫ</rt></ruby> "ask, invite, request, please" (stand-in for 請)

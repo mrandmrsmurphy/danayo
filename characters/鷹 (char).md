@@ -52,10 +52,10 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 鹰
-Simplified Chinese form of 鷹, written 广 + 亻 + 鸟. SKIP 3-3-15 (computed: EDRDG does not list it); 18 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 2452 is 鷹's own rank. SKIP 3-3-15 (computed: EDRDG does not list it); 18 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 鷹, written 广 + 亻 + 鸟. SKIP 3-3-15 (computed: EDRDG does not list it); 18 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 䧹
-广 over 倠 (a stroke marking the chest of a bird, 隹), the original form of 膺 ("chest"), which Wiktionary records as a variant of 鷹; it is the phonetic of 鷹 and 応. It has the same derived Dan'a'yo sound as 鷹, ㄧㄫ (MC `ʔ` + `ɨŋ`), and the same bird in the picture, so it is an alias of 鷹, which is the hub for the characters built on it (see Derived Characters). SKIP 3-3-10 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 2452. SKIP 3-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 172 隹. It has no rank of its own in the Classical Chinese lists.
+广 over 倠 (a stroke marking the chest of a bird, 隹), the original form of 膺 ("chest"), which Wiktionary records as a variant of 鷹; it is the phonetic of 鷹 and 応. It has the same derived Dan'a'yo sound as 鷹, ㄧㄫ (MC `ʔ` + `ɨŋ`), and the same bird in the picture, so it is an alias of 鷹, which is the hub for the characters built on it (see Derived Characters). SKIP 3-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 172 隹. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鷹]]<rt>ㄧㄫ</rt></ruby> "hawk"

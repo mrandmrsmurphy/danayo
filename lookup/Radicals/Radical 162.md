@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +0 Strokes
 - 进 --> 進
+- 运 --> 運
 
 ### +2 Strokes
 1. <ruby>[辺](../../characters/辺.md)<rt>ㄅㄝㄋ</rt></ruby> - side
@@ -20,6 +21,8 @@ tags: [lookup]
 2. <ruby>[迂](../../characters/迂.md)<rt>ㄨ</rt></ruby> - roundabout
 3. <ruby>[迄](../../characters/迄.md)<rt>ㄏㄧㄊ</rt></ruby> - extend
 4. <ruby>[迅](../../characters/迅.md)<rt>ㄙ⼜ㄋ</rt></ruby> - swift
+- 适 --> 適
+- 选 --> 選
 
 ### +4 Strokes
 5. <ruby>[近](../../characters/近%20(char).md)<rt>ㄍㄧㄋ</rt></ruby> - near
@@ -31,6 +34,7 @@ tags: [lookup]
 9. <ruby>[迫](../../characters/迫.md)<rt>ㄅㄚㄎ</rt></ruby> - force
 10. <ruby>[迭](../../characters/迭.md)<rt>ㄉㄚㄊ</rt></ruby> - alternate
 11. <ruby>[述](../../characters/述.md)<rt>ㄙㄨㄊ</rt></ruby> - narrate
+- 遗 --> 遺
 
 ### +6 Strokes
 12. <ruby>[迥](../../characters/迥%20(char).md)<rt>ㄏㄧㄫ</rt></ruby> - distant

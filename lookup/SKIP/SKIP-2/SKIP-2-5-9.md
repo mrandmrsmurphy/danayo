@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[嘗](/characters/嘗.md)<rt>ㄙ⼘ㄫ</rt></ruby> "taste; experience"
 2. <ruby>[罰](/characters/罰.md)<rt>ㄅㄝㄊ</rt></ruby> "penalty"
 
+### Aliases
+- 裳 --> 装
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

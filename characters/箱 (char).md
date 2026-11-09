@@ -57,7 +57,7 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 廂
-广 + 相, "wing, side room; theatre box; train carriage, compartment" (as in 車廂, 包廂); Wiktionary lists 箱 as an alternative form and 厢 as the simplified form. It shares 箱's phonetic 相 and its Dan'a'yo sound, ㄙㄚㄫ (MC `s` + `ɨɐŋ`), and the senses "box, compartment" overlap, so it is an alias of 箱. It is on the Korean Name and HSK lists, and is Hyōgai in Japanese. SKIP 3-3-9 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 3910. SKIP 3-3-9; 12 strokes. Radical 053 广. It has no rank of its own in the Classical Chinese lists.
+广 + 相, "wing, side room; theatre box; train carriage, compartment" (as in 車廂, 包廂); Wiktionary lists 箱 as an alternative form and 厢 as the simplified form. It shares 箱's phonetic 相 and its Dan'a'yo sound, ㄙㄚㄫ (MC `s` + `ɨɐŋ`), and the senses "box, compartment" overlap, so it is an alias of 箱. It is on the Korean Name and HSK lists, and is Hyōgai in Japanese. SKIP 3-3-9; 12 strokes. Radical 053 广. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[箱]]<rt>ㄙㄚㄫ</rt></ruby> "case, box, chest, trunk" (stand-in for 箱)

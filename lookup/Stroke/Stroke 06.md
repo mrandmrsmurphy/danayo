@@ -67,6 +67,13 @@ tags:
 - 产 --> 産
 - 𡆧 --> 窓
 - 攷 --> 考
+- 观 --> 観
+- 访 --> 訪
+- 设 --> 設
+- 许 --> 許
+- 讲 --> 講
+- 负 --> 負
+- 军 --> 軍
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

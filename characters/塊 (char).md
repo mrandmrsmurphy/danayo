@@ -60,7 +60,7 @@ boundedness: 80
 ## Aliases
 
 ### 块
-Simplified Chinese form of 塊. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 3137 is 塊's own rank. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 塊. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[塊]]<rt>ㄎㄛㄧ</rt></ruby> "lump; piece; chunk; clump" (stand-in for 塊)

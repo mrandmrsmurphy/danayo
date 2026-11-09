@@ -31,7 +31,7 @@ stand_in: "解"
 aliases:
   - 獬
 注音: "ㄍ⼘ㄧ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 100
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 466th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 見|k]] + [[Lookup/CC/finals/韻 佳開|ɣɛ]] → [ㄍ⼘ㄧ](../syllables/ㄍ⼘ㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 獬
+犭 + 解, "fabulous monster" (獬豸); built on 解 as phonetic and kept as an alias. SKIP 1-3-13; 16 strokes. Radical 094 犬. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[解]]<rt>ㄍ⼘ㄧ</rt></ruby> "explain" (stand-in for 解)

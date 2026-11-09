@@ -16,6 +16,7 @@ tags:
 ### +2 Strokes
 2. <ruby>[表](../../characters/表.md)<rt>ㄅ⼘ㄨ</rt></ruby> - show
 - 錶 --> variant of 表
+- 衬 --> 親
 
 ### +3 Strokes
 3. <ruby>[衷](../../characters/衷.md)<rt>ㄊㄨㄫ</rt></ruby> - inmost
@@ -49,6 +50,7 @@ tags:
 22. <ruby>[褐](../../characters/褐%20(char).md)<rt>ㄏㄚㄊ</rt></ruby> - brown
 
 23. <ruby>[裔](../../characters/裔.md)<rt>⼶</rt></ruby> - descendant
+- 裝 --> 装
 
 ### +8 Strokes
 24. <ruby>[裴](../../characters/裴.md)<rt>ㄅㄨㄧ</rt></ruby> - look of a flowing gown
@@ -56,6 +58,7 @@ tags:
 - 制 --> variant of 製
 26. <ruby>[複](../../characters/複.md)<rt>ㄅㄨㄎ</rt></ruby> - repeat
 - 褔 --> 副
+- 裳 --> 装
 
 ### +9 Strokes
 27. <ruby>[褒](../../characters/褒%20(char).md)<rt>ㄆㄚㄨ</rt></ruby> - praise
@@ -71,6 +74,9 @@ tags:
 ### +13 Strokes
 30. <ruby>[襪](../../characters/襪.md)<rt>ㄇㄝㄊ</rt></ruby> - sock
 - 襤 --> 藍
+
+### +15 Strokes
+- 襯 --> 親
 
 ### +16 Strokes
 31. <ruby>[襲](../../characters/襲.md)<rt>ㄙㄜㄆ</rt></ruby> - attack

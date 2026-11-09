@@ -57,13 +57,13 @@ boundedness: 85
 ## Aliases
 
 ### 擊
-Traditional form (kyūjitai) of 撃, written 毄 + 手; the shinjitai 撃 is its Japanese simplification. SKIP 2-13-4 (EDRDG); 17 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 259 is 擊's rank. SKIP 2-13-4; 17 strokes. It ranks 259 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 撃, written 毄 + 手; the shinjitai 撃 is its Japanese simplification. SKIP 2-13-4; 17 strokes. It ranks 259 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 毄
-軎 + 殳, "to hit against, to collide, to strike"; 擊 is 毄 with 手 added, so 毄 is the older form of 撃 and the phonetic of 繋. It has the same derived Dan'a'yo sound as 撃, ㄍㄝㄎ (MC `k` + `ek`), and the same meaning, so it is an alias of 撃, which is the hub for the characters built on it (see Derived Characters). SKIP 1-10-4 (EDRDG); 14 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 259. SKIP 1-10-4; 14 strokes. Radical 079 殳. It has no rank of its own in the Classical Chinese lists.
+軎 + 殳, "to hit against, to collide, to strike"; 擊 is 毄 with 手 added, so 毄 is the older form of 撃 and the phonetic of 繋. It has the same derived Dan'a'yo sound as 撃, ㄍㄝㄎ (MC `k` + `ek`), and the same meaning, so it is an alias of 撃, which is the hub for the characters built on it (see Derived Characters). SKIP 1-10-4; 14 strokes. Radical 079 殳. It has no rank of its own in the Classical Chinese lists.
 
 ### 击
-Simplified Chinese form of 擊, written 二 over 山. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. Radical 017 凵. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 擊, written 二 over 山. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. Radical 017 凵. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[撃]]<rt>ㄍㄝㄎ</rt></ruby> "strike" (stand-in for 撃)

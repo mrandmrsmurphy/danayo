@@ -62,13 +62,13 @@ boundedness: 50
 ## Aliases
 
 ### 梦
-Simplified Chinese form of 夢, written 林 over 夕; Wiktionary also lists it as a Japanese alternative form and a Vietnamese variant. SKIP 2-8-3 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 1041 is 夢's own rank. SKIP 2-8-3; 11 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 夢, written 林 over 夕; Wiktionary also lists it as a Japanese alternative form and a Vietnamese variant. SKIP 2-8-3; 11 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ### 瞢
-艹 over 罒, 冖 and 目 ("obscured eyesight"), the phonetic of 夢 in the Shuowen analysis and of 薨; Wiktionary records it as a variant of both 夢 and 盲. It has the same derived Dan'a'yo sound as 夢, ㄇㄨㄫ (MC `m` + `ɨuŋ`), so it is an alias of 夢, which is the hub for the characters built on it (see Derived Characters). SKIP 2-9-7 (EDRDG); 16 strokes. It has rank 3223 in the Classical Chinese lists, lower than 夢's 1041, so `mc_id` stays 1041. SKIP 2-9-7; 16 strokes. Radical 109 目. It ranks 3223 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+艹 over 罒, 冖 and 目 ("obscured eyesight"), the phonetic of 夢 in the Shuowen analysis and of 薨; Wiktionary records it as a variant of both 夢 and 盲. It has the same derived Dan'a'yo sound as 夢, ㄇㄨㄫ (MC `m` + `ɨuŋ`), so it is an alias of 夢, which is the hub for the characters built on it (see Derived Characters). SKIP 2-9-7; 16 strokes. Radical 109 目. It ranks 3223 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ### 㒱
-A Korean alternative form of 夢 (Wiktionary). SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. Radical 011 入. It has no rank of its own in the Classical Chinese lists.
+A Korean alternative form of 夢 (Wiktionary). SKIP 2-2-3 (computed: EDRDG does not list it); 5 strokes. Radical 011 入. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[夢]]<rt>ㄇㄨㄫ</rt></ruby> "dream" (stand-in for 夢)

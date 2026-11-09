@@ -59,10 +59,10 @@ boundedness: 45
 ## Aliases
 
 ### 縣
-Traditional form of 県 (kyūjitai), "county". SKIP 1-9-7 (EDRDG); 16 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 392 is 縣's rank. SKIP 1-9-7; 16 strokes. Radical 120 糸. It ranks 392 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form of 県 (kyūjitai), "county". SKIP 1-9-7; 16 strokes. Radical 120 糸. It ranks 392 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 县
-Simplified Chinese form of 縣. SKIP 2-5-2 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-5-2 (computed: EDRDG does not list it); 7 strokes. Radical 028 厶. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 縣. SKIP 2-5-2 (computed: EDRDG does not list it); 7 strokes. Radical 028 厶. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[県]]<rt>ㄏ⼔ㄋ</rt></ruby> "county, district, prefecture, subdivision" (stand-in for 県)

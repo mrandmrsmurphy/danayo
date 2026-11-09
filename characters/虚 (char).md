@@ -55,7 +55,7 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 虛
-Traditional form (kyūjitai) of 虚, "empty, false". SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 398 is 虛's rank. SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. It ranks 398 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 虚, "empty, false". SKIP 3-4-8 (computed: EDRDG does not list it); 12 strokes. It ranks 398 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[虚]]<rt>ㄏ⼄</rt></ruby> "void, emptiness" (stand-in for 虚)

@@ -32,7 +32,7 @@ stand_in: 輩
 aliases:
   - 辈
 注音: ㄈㄛㄧ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-2-8-7](../lookup/SKIP/SKIP-2/SKIP-2-8-7.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - Not found in the local mirrors of the Classical Chinese usage ranking (which cover only the top ~4000 ranks; `mc_id` left blank rather than invented). Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄈㄛㄧ](../syllables/ㄈㄛㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 辈
+Simplified Chinese form of 輩. SKIP 2-8-4 (computed: EDRDG does not list it); 12 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[輩]]<rt>ㄈㄛㄧ</rt></ruby> "generation" (stand-in for 輩)

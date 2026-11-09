@@ -53,7 +53,7 @@ boundedness: 75
 ## Aliases
 
 ### 㱐
-A rare form of 武 (止 over a shortened 戈) that Wiktionary glosses only as the Japanese "hoban" military-officer rank; kept as an alias so it has somewhere to be written. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+A rare form of 武 (止 over a shortened 戈) that Wiktionary glosses only as the Japanese "hoban" military-officer rank; kept as an alias so it has somewhere to be written. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[武]]<rt>ㄇㄨ</rt></ruby> "military" (stand-in for 武)

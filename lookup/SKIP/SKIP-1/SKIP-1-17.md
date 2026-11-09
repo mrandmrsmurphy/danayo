@@ -15,7 +15,7 @@ Left half has 17 strokes.
 - SKIP-1-17-4: none
 - SKIP-1-17-5: none
 - SKIP-1-17-6: none
-- SKIP-1-17-7: none
+- [SKIP-1-17-7](lookup/SKIP/SKIP-1/SKIP-1-17-7.md): ø
 - SKIP-1-17-8: none
 - SKIP-1-17-9: none
 - SKIP-1-17-10: none

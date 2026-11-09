@@ -52,7 +52,7 @@ boundedness: 55
 ## Aliases
 
 ### 拜
-Traditional form (kyūjitai) of 拝; Unihan lists 拝 as its Japanese new variant. SKIP 1-4-5 (EDRDG); 9 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 294 is 拜's rank. SKIP 1-4-5; 9 strokes. It ranks 294 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 拝; Unihan lists 拝 as its Japanese new variant. SKIP 1-4-5; 9 strokes. It ranks 294 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[拝]]<rt>ㄅ⼶</rt></ruby> "bow; kowtow" (stand-in for 拝)

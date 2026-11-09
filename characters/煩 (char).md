@@ -56,7 +56,7 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 烦
-Simplified Chinese form of 煩. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 1037 is 煩's own. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 煩. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[煩]]<rt>ㄈㄛㄇ</rt></ruby> "troublesome" (stand-in for 煩)

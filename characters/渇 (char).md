@@ -54,7 +54,7 @@ boundedness: 55
 ## Aliases
 
 ### 渴
-Traditional form of 渇 (kyūjitai), "thirsty". SKIP 1-3-9 (EDRDG); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1694 is 渴's rank. SKIP 1-3-9; 12 strokes. It ranks 1694 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form of 渇 (kyūjitai), "thirsty". SKIP 1-3-9; 12 strokes. It ranks 1694 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[渇]]<rt>ㄎㄚㄊ</rt></ruby> "thirst; thirsty" (stand-in for 渇)

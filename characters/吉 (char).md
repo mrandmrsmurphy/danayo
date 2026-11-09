@@ -56,10 +56,10 @@ boundedness: 80
 ## Aliases
 
 ### 劼
-吉 + 力, "to be discreet, prudent, cautious" and a surname; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-6-2 (EDRDG); 8 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-2; 8 strokes. Radical 019 力. It has no rank of its own in the Classical Chinese lists.
+吉 + 力, "to be discreet, prudent, cautious" and a surname; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-6-2; 8 strokes. Radical 019 力. It has no rank of its own in the Classical Chinese lists.
 
 ### 佶
-亻 + 吉, "strong, robust; exact, correct"; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-2-6 (EDRDG); 8 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-2-6; 8 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
+亻 + 吉, "strong, robust; exact, correct"; a separate character built on 吉 as phonetic, kept as an alias for search. SKIP 1-2-6; 8 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[吉]]<rt>ㄍㄧㄊ</rt></ruby> "lucky" (stand-in for 吉)

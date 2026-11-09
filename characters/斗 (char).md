@@ -56,7 +56,7 @@ boundedness: 100
 ## Aliases
 
 ### 鬥
-Traditional form of the radical 191 (門 with 斗 inside), "to fight, to struggle"; a separate character from 斗 ("dipper") that the Japanese and Chinese simplifications merge into 斗. SKIP 1-5-5 (EDRDG); 10 strokes. It ranks 1298 in the Classical Chinese lists, worse than 斗's own 944, so the `mc_id` stays 944. SKIP 1-5-5; 10 strokes. Radical 191 鬥. It ranks 1298 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+Traditional form of the radical 191 (門 with 斗 inside), "to fight, to struggle"; a separate character from 斗 ("dipper") that the Japanese and Chinese simplifications merge into 斗. SKIP 1-5-5; 10 strokes. Radical 191 鬥. It ranks 1298 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[斗]]<rt>ㄉㄛㄨ</rt></ruby> "peck; Dipper" (stand-in for 斗)

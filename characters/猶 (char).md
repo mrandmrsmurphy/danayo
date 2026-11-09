@@ -54,10 +54,10 @@ boundedness: 90
 ## Aliases
 
 ### 猷
-犬 + 酋, "to plan, to scheme"; a separate character kept as an alias of 猶 (it is the alternative form in the compound 猶猷). SKIP 1-9-4 (EDRDG); 13 strokes. It ranks 3104 in the Classical Chinese lists, worse than 猶's own 271, so the `mc_id` stays 271. SKIP 1-9-4; 13 strokes. It ranks 3104 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+犬 + 酋, "to plan, to scheme"; a separate character kept as an alias of 猶 (it is the alternative form in the compound 猶猷). SKIP 1-9-4; 13 strokes. It ranks 3104 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ### 犹
-Simplified Chinese form of 猶, written 犭 + 尤. SKIP 1-3-4 (EDRDG); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 271 is 猶's own. SKIP 1-3-4; 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 猶, written 犭 + 尤. SKIP 1-3-4; 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[猶]]<rt>⼜ㄛ</rt></ruby> "furthermore; still; yet" (stand-in for 猶)

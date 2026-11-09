@@ -55,10 +55,10 @@ boundedness: 60
 ## Aliases
 
 ### 樣
-Traditional form (kyūjitai) of 様, "appearance, form". SKIP 1-4-11 (EDRDG); 15 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 9173 is 様's own. SKIP 1-4-11; 15 strokes. It has no rank of its own in the Classical Chinese lists.
+Traditional form (kyūjitai) of 様, "appearance, form". SKIP 1-4-11; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 样
-木 + 羊, the Chinese simplified form of 樣 (Wiktionary's own entry is an obsolete "wooden pillar"). SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+木 + 羊, the Chinese simplified form of 樣 (Wiktionary's own entry is an obsolete "wooden pillar"). SKIP 1-4-6 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[様]]<rt>⼘ㄫ</rt></ruby> "-ly (adverbializer)" (stand-in for 様)

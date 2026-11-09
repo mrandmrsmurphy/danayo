@@ -54,7 +54,7 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 欸
-矣 + 欠 ("breath"), an interjection ("hey", "why", "all right", "huh") that Wiktionary lists as an alternative form of 唉, with the same sound, ㄚㄧ (MC `ʔ` + `ʌi`), and the same kind of meaning; it also has a historical sense "to scold loudly". Kept as an alias of 唉. SKIP 1-7-4 (EDRDG); 11 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 7655. SKIP 1-7-4; 11 strokes. Radical 076 欠. It has no rank of its own in the Classical Chinese lists.
+矣 + 欠 ("breath"), an interjection ("hey", "why", "all right", "huh") that Wiktionary lists as an alternative form of 唉, with the same sound, ㄚㄧ (MC `ʔ` + `ʌi`), and the same kind of meaning; it also has a historical sense "to scold loudly". Kept as an alias of 唉. SKIP 1-7-4; 11 strokes. Radical 076 欠. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[唉]]<rt>ㄚㄧ</rt></ruby> "alas (ancient)"

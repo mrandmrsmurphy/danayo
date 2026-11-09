@@ -59,7 +59,7 @@ boundedness: 45
 ## Aliases
 
 ### 夲
-大 over 十, a variant (handwriting) form of 本: Wiktionary records it as a variant of 本 in Chinese and Vietnamese and as an alternative form of 本 in Japanese. It is also a rare classical character of its own, tāo, "to advance quickly", and the phonetic that 皐 cites. Kept as an alias of 本, with which it shares its sound and meaning as a variant. SKIP 2-3-2 (EDRDG); 5 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 302. SKIP 2-3-2; 5 strokes. Radical 037 大. It has no rank of its own in the Classical Chinese lists.
+大 over 十, a variant (handwriting) form of 本: Wiktionary records it as a variant of 本 in Chinese and Vietnamese and as an alternative form of 本 in Japanese. It is also a rare classical character of its own, tāo, "to advance quickly", and the phonetic that 皐 cites. Kept as an alias of 本, with which it shares its sound and meaning as a variant. SKIP 2-3-2; 5 strokes. Radical 037 大. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[本]]<rt>ㄅㄛㄋ</rt></ruby> "foundation" (stand-in for 本)

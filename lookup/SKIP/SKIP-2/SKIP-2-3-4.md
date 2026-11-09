@@ -49,6 +49,7 @@ tags:
 - 芩 --> 今
 - 呙 --> 咼
 - 㝎 --> 定
+- 夆 --> 豊
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

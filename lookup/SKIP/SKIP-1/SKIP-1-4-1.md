@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[札](/characters/札%20(char).md)<rt>ㄐㄚㄊ</rt></ruby> - letter, note
 2. <ruby>[礼](/characters/礼%20(char).md)<rt>ㄌㄝㄧ</rt></ruby> - manners
 
+### Aliases
+- 术 --> 術
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", skip_number AS "SKIP", english AS "en"

@@ -54,13 +54,13 @@ boundedness: 80
 ## Aliases
 
 ### 黃
-Traditional form (kyūjitai) of 黄, written with the fuller 廿 + 田 + 八 below; the shinjitai 黄 simplifies the bottom. SKIP 2-4-8 (computed: EDRDG does not list it); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 228 is 黃's rank. SKIP 2-4-8 (computed: EDRDG does not list it); 12 strokes. Radical 201 黃. It ranks 228 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 黄, written with the fuller 廿 + 田 + 八 below; the shinjitai 黄 simplifies the bottom. SKIP 2-4-8 (computed: EDRDG does not list it); 12 strokes. Radical 201 黃. It ranks 228 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 簧
-竹 + phonetic 黄, "reed of a musical instrument; spring, coil", a separate character that shares 黄's sound and phonetic. SKIP 2-6-12 (EDRDG); 17 strokes. It has rank 3774 in the Classical Chinese lists, lower than 黃's 228. SKIP 2-6-12; 17 strokes. Radical 118 竹. It ranks 3774 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+竹 + phonetic 黄, "reed of a musical instrument; spring, coil", a separate character that shares 黄's sound and phonetic. SKIP 2-6-12; 17 strokes. Radical 118 竹. It ranks 3774 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ### 潢
-氵 + phonetic 黃, "expanse of water, pond; to dye paper". It is a separate word, not a form of 黄, but Dan'a'yo would give it the same sound, ㄏ⺢ㄫ (MC `ɣ` + `wɑŋ`), and 黄 is its phonetic source, so it is kept as an alias of 黄 by the project owner's decision (黄 is already the hub for the characters built on it). SKIP 1-3-12 (EDRDG); 14 strokes. It has rank 3554 in the Classical Chinese lists, lower than 黃's 228, so `mc_id` stays 228. SKIP 1-3-12; 14 strokes. Radical 085 水. It ranks 3554 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+氵 + phonetic 黃, "expanse of water, pond; to dye paper". It is a separate word, not a form of 黄, but Dan'a'yo would give it the same sound, ㄏ⺢ㄫ (MC `ɣ` + `wɑŋ`), and 黄 is its phonetic source, so it is kept as an alias of 黄 by the project owner's decision (黄 is already the hub for the characters built on it). SKIP 1-3-12; 14 strokes. Radical 085 水. It ranks 3554 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[黄]]<rt>ㄏ⺢ㄫ</rt></ruby> "yellow" (stand-in for 黄)

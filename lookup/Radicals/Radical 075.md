@@ -20,6 +20,7 @@ tags: [lookup]
 4. <ruby>[本](../../characters/本%20(char).md)<rt>ㄅㄛㄋ</rt></ruby> - foundation
 5. <ruby>[札](../../characters/札%20(char).md)<rt>ㄐㄚㄊ</rt></ruby> - letter
 6. <ruby>[朮](../../characters/朮.md)<rt>ㄙㄨㄊ</rt></ruby> - atractylodes
+- 术 --> 術
 
 ### +2 Strokes
 7. <ruby>[朱](../../characters/朱.md)<rt>ㄐㄨ</rt></ruby> - cinnabar

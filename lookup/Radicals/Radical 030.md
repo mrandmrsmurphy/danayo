@@ -135,6 +135,7 @@ tags: [lookup]
 100. <ruby>[喫](../../characters/喫%20(char).md)<rt>ㄎㄝㄎ</rt></ruby> - devour
 101. <ruby>[喬](../../characters/喬.md)<rt>ㄎ⼘ㄨ</rt></ruby> - tall
 102. <ruby>[営](../../characters/営.md)<rt>⼶ㄫ</rt></ruby> - operate
+- 啻 --> 適
 
 ### +10 Strokes
 103. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity

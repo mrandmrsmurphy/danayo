@@ -10,14 +10,40 @@ tags: [lookup]
 
 ## Strokes
 
+### +-3 Strokes
+- 计 --> 計
+
+### +-2 Strokes
+- 训 --> 訓
+
+### +-1 Strokes
+- 访 --> 訪
+
+### +-1 Strokes
+- 设 --> 設
+
+### +-1 Strokes
+- 许 --> 許
+
+### +-1 Strokes
+- 讲 --> 講
+
+### +-2 Strokes
+- 议 --> 議
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
+
+### +1 Stroke
+- 试 --> 試
+- 该 --> 該
 
 ### +2 Strokes
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise
 3. <ruby>[訃](../../characters/訃.md)<rt>ㄈㄨㄛ</rt></ruby> - obituary
 4. <ruby>[計](../../characters/計.md)<rt>ㄍㄝㄧ</rt></ruby> - measure
 - 语 --> 語
+- 说 --> 説
 
 ### +3 Strokes
 5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - inquire
@@ -26,6 +52,8 @@ tags: [lookup]
 8. <ruby>[託](../../characters/託.md)<rt>ㄊㄚㄎ</rt></ruby> - entrust
 9. <ruby>[記](../../characters/記.md)<rt>ㄍㄧ</rt></ruby> - remember
 - 读 --> 読
+- 调 --> 調
+- 请 --> 請
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -77,6 +105,7 @@ tags: [lookup]
 50. <ruby>[説](../../characters/説.md)<rt>ㄙ⼔ㄊ</rt></ruby> - theory
 51. <ruby>[読](../../characters/読.md)<rt>ㄉㄛㄎ</rt></ruby> - read
 - 𧨅 --> 善
+- 說 --> 説
 
 ### +8 Strokes
 52. <ruby>[誕](../../characters/誕.md)<rt>ㄉㄚㄋ</rt></ruby> - be born
@@ -139,6 +168,9 @@ tags: [lookup]
 
 ### +16 Strokes
 94. <ruby>[讐](../../characters/讐.md)<rt>ㄙㄨ</rt></ruby> - personal grudge
+
+### +17 Strokes
+- 讓 --> 譲
 
 ### +20 Strokes
 - 𧮟 --> 善

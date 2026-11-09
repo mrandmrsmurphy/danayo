@@ -13,6 +13,9 @@ tags: [lookup]
 ### +0 Strokes
 1. <ruby>[米](../../characters/米%20(char).md)<rt>ㄇㄝㄧ</rt></ruby> - rice (uncooked)
 
+### +3 Strokes
+- 类 --> 類
+
 ### +4 Strokes
 2. <ruby>[粉](../../characters/粉%20(char).md)<rt>ㄈㄨㄋ</rt></ruby> - powder
 3. <ruby>[粋](../../characters/粋.md)<rt>ㄙㄨㄧ</rt></ruby> - pure

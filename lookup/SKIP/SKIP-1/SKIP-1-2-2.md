@@ -24,6 +24,7 @@ tags: [lookup]
 - 卬 --> 卯
 - 㕛 --> 友
 - 劝 --> 勧
+- 计 --> 計
 
 ## Datacheck
 ```dataview

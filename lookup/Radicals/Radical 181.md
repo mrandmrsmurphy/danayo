@@ -11,6 +11,7 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[頁](../../characters/頁%20(char).md)<rt>ㄏㄝㄊ</rt></ruby> - page
+- 顺 --> 順
 
 ### +2 Strokes
 2. <ruby>[頂](../../characters/頂.md)<rt>ㄐㄝㄫ</rt></ruby> - peak
@@ -33,6 +34,7 @@ tags: [lookup]
 
 ### +6 Strokes
 13. <ruby>[頬](../../characters/頬%20(char).md)<rt>ㄍㄝㄆ</rt></ruby> - cheek
+- 题 --> 題
 
 ### +7 Strokes
 14. <ruby>[頤](../../characters/頤.md)<rt>ㄧ</rt></ruby> - chin
@@ -40,6 +42,7 @@ tags: [lookup]
 16. <ruby>[頭](../../characters/頭%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - head
 17. <ruby>[頴](../../characters/頴.md)<rt>⼶ㄫ</rt></ruby> - rice tassel
 18. <ruby>[頼](../../characters/頼.md)<rt>ㄌㄚㄧ</rt></ruby> - trust
+- 𫖸 --> 願
 
 ### +8 Strokes
 19. <ruby>[頻](../../characters/頻%20(char).md)<rt>ㄆㄧㄇ</rt></ruby> - frequent

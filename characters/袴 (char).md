@@ -56,10 +56,10 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 褲
-衣 + 庫, the usual written form of "pants, trousers" in Chinese; 袴 is the variant with 夸 for 庫. SKIP 1-5-10 (EDRDG); 15 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-10; 15 strokes. It has no rank of its own in the Classical Chinese lists.
+衣 + 庫, the usual written form of "pants, trousers" in Chinese; 袴 is the variant with 夸 for 庫. SKIP 1-5-10; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ### 絝
-糸 + 夸, "pants, trousers" (Wiktionary: an alternative form of 褲), as in 紈絝 ("fine silk pants; rich kid"). It has the same derived Dan'a'yo sound as 袴, ㄎㄛ (MC `kʰ` + `uo`), and the same meaning, so it is an alias of 袴. SKIP 1-6-6 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-6; 12 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
+糸 + 夸, "pants, trousers" (Wiktionary: an alternative form of 褲), as in 紈絝 ("fine silk pants; rich kid"). It has the same derived Dan'a'yo sound as 袴, ㄎㄛ (MC `kʰ` + `uo`), and the same meaning, so it is an alias of 袴. SKIP 1-6-6; 12 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[袴]]<rt>ㄎㄛ</rt></ruby> "pants; trousers"

@@ -32,6 +32,7 @@ tags: [lookup]
 
 ### +7 Strokes
 10. <ruby>[亭](../../characters/亭.md)<rt>ㄉㄝㄫ</rt></ruby> - pavilion
+- 亲 --> 親
 
 ### +11 Strokes
 11. <ruby>[亶](../../characters/亶.md)<rt>ㄉㄚㄋ</rt></ruby> - sincere

@@ -87,6 +87,7 @@ tags:
 - 獸 --> traditional form of 獣
 - 兽 --> simplified of 獣
 29. <ruby>[獲](../../characters/獲.md)<rt>ㄏ⺢ㄎ</rt></ruby> - seize
+- 獬 --> 解
 
 ### +15 Strokes
 30. <ruby>[獺](../../characters/獺.md)<rt>ㄊ⺢ㄊ</rt></ruby> - otter

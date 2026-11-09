@@ -56,7 +56,7 @@ boundedness: 90
 ## Aliases
 
 ### 层
-Simplified Chinese form of 層, written 尸 around 云. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4098 is 層's own. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 層, written 尸 around 云. SKIP 3-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[層]]<rt>ㄑㄜㄫ</rt></ruby> "stratum" (stand-in for 層)

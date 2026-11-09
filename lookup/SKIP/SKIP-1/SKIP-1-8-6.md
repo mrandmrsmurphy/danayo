@@ -24,6 +24,7 @@ tags: [lookup]
 
 ### Aliases
 - 榦 --> 幹
+- 銓 --> 選
 
 ## Datacheck
 ```dataview

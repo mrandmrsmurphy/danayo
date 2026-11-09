@@ -38,7 +38,7 @@ aliases:
   - 荫
   - 侌
 注音: ㄧㄇ
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: false
 tags:
   - character
@@ -56,6 +56,20 @@ boundedness: 100
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 158th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 侵B|ɣiɪm]] → [ㄧㄇ](../syllables/ㄧㄇ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 阴
+Simplified Chinese form of 陰. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 蔭
+艹 + 陰, "shade, shelter"; built on 陰 and kept as an alias of 陰 for its meaning. SKIP 2-3-11; 13 strokes. Radical 140 艸. It ranks 3777 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 荫
+Simplified Chinese form of 蔭. SKIP 2-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
+### 侌
+An old variant form of 陰 that Wiktionary glosses as Korean 그늘, "shade". SKIP 2-2-6; 8 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[陰]]<rt>ㄧㄇ</rt></ruby> "Yin; shade" (stand-in for 陰)

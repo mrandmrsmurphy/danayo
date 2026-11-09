@@ -53,13 +53,13 @@ boundedness: 90
 ## Aliases
 
 ### 并
-Simplified Chinese form of 並 and a character of its own (Bing Province, an old name of Taiyuan); rank 652. SKIP 2-3-3 (EDRDG); 6 strokes. Ranked lower than 並's 610, so `mc_id` stays 610. SKIP 2-3-3; 6 strokes. Radical 051 干. It ranks 652 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+Simplified Chinese form of 並 and a character of its own (Bing Province, an old name of Taiyuan); rank 652. SKIP 2-3-3; 6 strokes. Radical 051 干. It ranks 652 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ### 竝
-Traditional form (kyūjitai) of 並 (Wiktionary: the Japanese kyūjitai spelling; Korean hanja 병, "side by side"). SKIP 1-5-5 (EDRDG); 10 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-5; 10 strokes. Radical 117 立. It has no rank of its own in the Classical Chinese lists.
+Traditional form (kyūjitai) of 並 (Wiktionary: the Japanese kyūjitai spelling; Korean hanja 병, "side by side"). SKIP 1-5-5; 10 strokes. Radical 117 立. It has no rank of its own in the Classical Chinese lists.
 
 ### 幷
-A variant form of 並 and 并 (Unihan: semantic variant); Wiktionary gives no definition. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. Radical 051 干. It has no rank of its own in the Classical Chinese lists.
+A variant form of 並 and 并 (Unihan: semantic variant); Wiktionary gives no definition. SKIP 2-3-5 (computed: EDRDG does not list it); 8 strokes. Radical 051 干. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[並]]<rt>ㄅㄝㄫ</rt></ruby> "side by side" (stand-in for 並)

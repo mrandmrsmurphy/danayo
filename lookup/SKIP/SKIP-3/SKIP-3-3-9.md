@@ -33,6 +33,7 @@ tags: [lookup]
 ### Aliases
 - 廁 --> 厠
 - 廂 --> 箱
+- 遗 --> 遺
 
 ### Forbidden
 - 遖 - 国字: 国字 for 'appare' (excellent)

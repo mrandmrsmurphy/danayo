@@ -86,6 +86,14 @@ tags:
 - 挂 --> 掛
 - 济 --> 済
 - 给 --> 給
+- 亲 --> 親
+- 浒 --> 許
+- 说 --> 説
+- 贵 --> 貴
+- 钟 --> 鐘
+- 荫 --> 陰
+- 顺 --> 順
+- 类 --> 類
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

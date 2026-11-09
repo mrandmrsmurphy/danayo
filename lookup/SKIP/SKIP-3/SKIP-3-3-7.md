@@ -35,6 +35,7 @@ tags: [lookup]
 
 ### Aliases
 - 座 --> 坐
+- 选 --> 選
 
 ## Datacheck
 ```dataview

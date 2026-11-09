@@ -53,7 +53,7 @@ aliases:
 ## Aliases
 
 ### 粳
-米 + 更, "non-glutinous rice"; a separate character kept as an alias of 更 for search. SKIP 1-6-7 (EDRDG); 13 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-7; 13 strokes. Radical 119 米. It has no rank of its own in the Classical Chinese lists.
+米 + 更, "non-glutinous rice"; a separate character kept as an alias of 更 for search. SKIP 1-6-7; 13 strokes. Radical 119 米. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[更]]<rt>ㄍㄚㄫ</rt></ruby> "more" (stand-in for 更)

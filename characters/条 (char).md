@@ -53,13 +53,13 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 條
-Traditional form (kyūjitai) of 条, "strip, twig". SKIP 1-2-9 (EDRDG); 11 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1294 is 條's rank. SKIP 1-2-9; 11 strokes. It ranks 1294 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 条, "strip, twig". SKIP 1-2-9; 11 strokes. It ranks 1294 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 縧
-糸 + 條, a variant of 絛 ("silk braid, sash"); a separate character kept as an alias of 条 for search. SKIP 1-6-11 (EDRDG); 16 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-6-11; 16 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
+糸 + 條, a variant of 絛 ("silk braid, sash"); a separate character kept as an alias of 条 for search. SKIP 1-6-11; 16 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
 
 ### 絛
-糸 + 攸, "silk braid, sash"; a separate character kept as an alias of 条 for search. SKIP 1-2-11 (EDRDG); 12 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-2-11; 12 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
+糸 + 攸, "silk braid, sash"; a separate character kept as an alias of 条 for search. SKIP 1-2-11; 12 strokes. Radical 120 糸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[条]]<rt>ㄐㄛ</rt></ruby> "long thin objects (classifier)" (stand-in for 条)

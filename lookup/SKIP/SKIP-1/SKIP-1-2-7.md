@@ -32,6 +32,7 @@ tags:
 
 ### Aliases
 - 语 --> 語
+- 说 --> 説
 
 ## Datacheck
 ```dataview

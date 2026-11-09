@@ -51,7 +51,7 @@ boundedness: 75
 ## Aliases
 
 ### 乕
-An alternative form of 虎 in Japanese. SKIP 3-2-5 (EDRDG); 7 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 577 is 虎's own. SKIP 3-2-5; 7 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.
+An alternative form of 虎 in Japanese. SKIP 3-2-5; 7 strokes. Radical 004 丿. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[虎]]<rt>ㄏㄛ</rt></ruby> "tiger" (stand-in for 虎)

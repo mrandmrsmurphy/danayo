@@ -32,6 +32,7 @@ tags: [lookup]
 ### +5 Strokes
 10. <ruby>[軸](../../characters/軸%20(char).md)<rt>ㄉㄨㄎ</rt></ruby> - axis
 11. <ruby>[軽](../../characters/軽%20(char).md)<rt>ㄎㄧㄫ</rt></ruby> - light
+- 辈 --> 輩
 
 ### +6 Strokes
 12. <ruby>[較](../../characters/較.md)<rt>ㄍㄚㄎ</rt></ruby> - compare

@@ -28,6 +28,7 @@ tags: [lookup]
 
 ### Aliases
 - 發 --> 発
+- 赏 --> 賞
 
 ## Datacheck
 ```dataview

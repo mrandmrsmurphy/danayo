@@ -26,7 +26,7 @@ joyo_level: "6"
 hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 4244
-mc_id: 2585
+mc_id: 1618
 graphemic_classification: 壮
 stand_in: 装
 aliases:
@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 装.
 >For the word, see [装](../words/装.md)
@@ -49,8 +49,16 @@ date-last-perfect: 2026-10-15
 ## Notes
 - 形声 (OC \*ʔsraŋ, \*ʔsraŋs): semantic [[衣]] ("clothes") + phonetic [[壮]] (OC \*ʔsraŋs).
 - [SKIP-2-6-6](../lookup/SKIP/SKIP-2/SKIP-2-6-6.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
-- 2585th most used character in Classical Chinese (ranked there under 裝, this character's own stored alias). Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐ⺢ㄫ](../syllables/ㄐ⺢ㄫ.md)
+- 1618th most used character in Classical Chinese, the rank of its alias 裳 (装 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 陽開|ɨɐŋ]] → [ㄐ⺢ㄫ](../syllables/ㄐ⺢ㄫ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 裝
+Traditional form (kyūjitai) of 装, "outfit, clothing". SKIP 2-7-6; 13 strokes. It ranks 2585 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 裳
+尚 over 衣, "lower garment, clothes"; a separate character kept as an alias of 装 for its meaning. SKIP 2-5-9; 14 strokes. It ranks 1618 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[装]]<rt>ㄐ⺢ㄫ</rt></ruby> "dress up, clothe" (stand-in for 装)

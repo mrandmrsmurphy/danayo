@@ -32,6 +32,7 @@ tags: [lookup]
 ### Aliases
 - 𠲘 --> 善
 - 带 --> 帯
+- 类 --> 類
 
 ## Datacheck
 ```dataview

@@ -61,7 +61,7 @@ boundedness: 90
 ## Aliases
 
 ### 戉
-A battle axe (𠄌 + 戈), the original form of 鉞, and the ancient name of the State of Yue; it is the phonetic of 越 and of 歳. It has the same derived Dan'a'yo sound as 越, ⼔ㄊ (MC `ø` + `ʉɐt`), and 越 is the character that carries the name Yue, so it is an alias of 越, which is the hub for the characters built on it (see Derived Characters). SKIP 4-5-4 (EDRDG); 5 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 336. SKIP 4-5-4; 5 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
+A battle axe (𠄌 + 戈), the original form of 鉞, and the ancient name of the State of Yue; it is the phonetic of 越 and of 歳. It has the same derived Dan'a'yo sound as 越, ⼔ㄊ (MC `ø` + `ʉɐt`), and 越 is the character that carries the name Yue, so it is an alias of 越, which is the hub for the characters built on it (see Derived Characters). SKIP 4-5-4; 5 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[越]]<rt>⼔ㄊ</rt></ruby> "exceed" (stand-in for 越 (char))

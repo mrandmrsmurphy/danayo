@@ -58,13 +58,13 @@ boundedness: 60
 ## Aliases
 
 ### 濟
-Traditional form of 済 (kyūjitai), "to cross; to help". SKIP 1-3-14 (EDRDG); 17 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 579 is 濟's rank. SKIP 1-3-14; 17 strokes. It ranks 579 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form of 済 (kyūjitai), "to cross; to help". SKIP 1-3-14; 17 strokes. It ranks 579 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 侈
-亻 + 多, "extravagant, wasteful"; a separate character kept as an alias of 済 so it has a place to be written. SKIP 1-2-6 (EDRDG); 8 strokes. It ranks 1362 in the Classical Chinese lists, worse than 濟's 579, so the `mc_id` stays 579. SKIP 1-2-6; 8 strokes. Radical 009 人. It ranks 1362 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+亻 + 多, "extravagant, wasteful"; a separate character kept as an alias of 済 so it has a place to be written. SKIP 1-2-6; 8 strokes. Radical 009 人. It ranks 1362 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ### 济
-Simplified Chinese form of 濟. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 579 is 濟's rank. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 濟. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[済]]<rt>ㄐㄝㄧ</rt></ruby> "help, ferry" (stand-in for 済)

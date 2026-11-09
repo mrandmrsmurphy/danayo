@@ -12,6 +12,7 @@ tags: [lookup]
 ### -1 Stroke
 1. <ruby>[防](../../characters/防.md)<rt>ㄅㄚㄫ</rt></ruby> - prevent
 2. <ruby>[阮](../../characters/阮.md)<rt>⼔ㄋ</rt></ruby> - moon lute
+- 阴 --> 陰
 
 ### +0 Strokes
 3. <ruby>[阜](../../characters/阜.md)<rt>ㄅ⼜</rt></ruby> - mound

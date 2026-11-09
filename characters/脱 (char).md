@@ -57,7 +57,7 @@ boundedness: 80
 ## Aliases
 
 ### 脫
-Traditional form (kyūjitai) of 脱, "to take off, to escape". SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1282 is 脫's rank. SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. It ranks 1282 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 脱, "to take off, to escape". SKIP 1-4-7 (computed: EDRDG does not list it); 11 strokes. It ranks 1282 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[脱]]<rt>ㄉ⺢ㄊ</rt></ruby> "undress" (stand-in for 脱)

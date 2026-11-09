@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[鞍](/characters/鞍.md)<rt>ㄚㄋ</rt></ruby> "saddle"
 3. <ruby>[餃](/characters/餃.md)<rt>ㄍ⼄ㄨ</rt></ruby> "gyoza"
 
+### Aliases
+- 题 --> 題
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -20,6 +20,7 @@ tags:
 2. <ruby>[芋](../../characters/芋.md)<rt>ㄨ</rt></ruby> - taro
 3. <ruby>[芝](../../characters/芝.md)<rt>ㄐㄧ</rt></ruby> - sesame
 4. <ruby>[芒](../../characters/芒.md)<rt>ㄇ⼘ㄫ</rt></ruby> - ray
+- 荫 --> 陰
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -77,6 +78,7 @@ tags:
 47. <ruby>[茜](../../characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
 48. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
 - 蒦 --> 獲
+- 蔭 --> 陰
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only

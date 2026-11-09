@@ -30,7 +30,7 @@ stand_in: "鐘"
 aliases:
   - 钟
 注音: "ㄐㄛㄫ"
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 kwin: true
 tags:
   - character
@@ -48,6 +48,11 @@ boundedness: 80
 - [SKIP-1-8-12](../lookup/SKIP/SKIP-1/SKIP-1-8-12.md) ([Stroke 20](../lookup/Stroke/Stroke%2020.md))
 - 1289th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 章|t͡ɕ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄐㄛㄫ](../syllables/ㄐㄛㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 钟
+Simplified Chinese form of 鐘. SKIP 1-5-4 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鐘]]<rt>ㄐㄛㄫ</rt></ruby> "bell" (stand-in for 鐘)

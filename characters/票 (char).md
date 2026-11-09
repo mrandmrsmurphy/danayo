@@ -56,16 +56,16 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 嫖
-女 + 票, "to visit prostitutes" (also obsolete "nimble"); built on 票 as phonetic and kept as an alias of 票. SKIP 1-3-11 (EDRDG); 14 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-3-11; 14 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
+女 + 票, "to visit prostitutes" (also obsolete "nimble"); built on 票 as phonetic and kept as an alias of 票. SKIP 1-3-11; 14 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
 
 ### 慓
-忄 + 票, "fast, swift"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-3-11 (EDRDG); 14 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-3-11; 14 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
+忄 + 票, "fast, swift"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-3-11; 14 strokes. Radical 061 心. It has no rank of its own in the Classical Chinese lists.
 
 ### 鰾
-魚 + 票, "swim bladder, fish glue"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-11-11 (EDRDG); 22 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-11-11; 22 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
+魚 + 票, "swim bladder, fish glue"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-11-11; 22 strokes. Radical 195 魚. It has no rank of its own in the Classical Chinese lists.
 
 ### 驃
-馬 + 票, "charger, valiant"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-10-11 (EDRDG); 21 strokes. It ranks 2161 in the Classical Chinese lists, better than 票's own 2508, so it sets the page's `mc_id`. SKIP 1-10-11; 21 strokes. Radical 187 馬. It ranks 2161 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+馬 + 票, "charger, valiant"; built on 票 as phonetic and kept as an alias of 票. SKIP 1-10-11; 21 strokes. Radical 187 馬. It ranks 2161 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[票]]<rt>ㄆ⼘ㄨ</rt></ruby> "ballot, ticket" (stand-in for 票)

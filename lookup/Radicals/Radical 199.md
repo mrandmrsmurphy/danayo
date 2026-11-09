@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[麦](../../characters/麦.md)<rt>ㄇㄚㄎ</rt></ruby> - wheat
 2. <ruby>[麺](../../characters/麺%20(char).md)<rt>ㄇㄝㄋ</rt></ruby> - noodles
 
+### Aliases
+- 麵 --> 面
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

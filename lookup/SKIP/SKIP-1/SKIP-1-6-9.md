@@ -32,6 +32,9 @@ tags:
 ### Forbidden
 - 糎 - 国字: Japanese-invented character for centimeter, 厘米.
 
+### Aliases
+- 緬 --> 面
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

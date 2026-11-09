@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 術.
 >For the word, see [術](../words/術.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 522nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 禪|d͡ʑ]] + [[Lookup/CC/finals/韻 術|iuɪt]] → [ㄙㄨㄊ](../syllables/ㄙㄨㄊ.md)
 - [Grade 4](../lookup/Grade%204.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 术
+Chinese simplified form of 術 (Wiktionary lists it as a Japanese alternative form of 朮, a medicinal herb). SKIP 1-4-1 (computed: EDRDG does not list it); 5 strokes. Radical 075 木. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[術]]<rt>ㄙㄨㄊ</rt></ruby> "skill, method, technique" (stand-in for 術)

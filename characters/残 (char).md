@@ -55,13 +55,13 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 殘
-Traditional form (kyūjitai) of 残, written 歹 + 戔; the shinjitai 残 replaces 戔 with 㦮. SKIP 1-4-8 (EDRDG); 12 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 1260 is 殘's rank. SKIP 1-4-8; 12 strokes. It ranks 1260 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form (kyūjitai) of 残, written 歹 + 戔; the shinjitai 残 replaces 戔 with 㦮. SKIP 1-4-8; 12 strokes. It ranks 1260 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 戔
-戈 written twice ("two spears facing each other"), the original form of 殘 ("to harm, to injure"), also "small" in 戔戔; it is the phonetic of 残, 践, 銭, 賎, 浅, 桟, 箋, 盞 and some thirty more. It carries both readings of the series, jiān (ㄐㄝㄋ, as in 践 and 銭) and the 残 reading (ㄐㄚㄋ), and it is the same word as 殘, so it is an alias of 残, which is the hub for the characters built on it (see Derived Characters). SKIP 2-4-4 (EDRDG); 8 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 1260. SKIP 2-4-4; 8 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
+戈 written twice ("two spears facing each other"), the original form of 殘 ("to harm, to injure"), also "small" in 戔戔; it is the phonetic of 残, 践, 銭, 賎, 浅, 桟, 箋, 盞 and some thirty more. It carries both readings of the series, jiān (ㄐㄝㄋ, as in 践 and 銭) and the 残 reading (ㄐㄚㄋ), and it is the same word as 殘, so it is an alias of 残, which is the hub for the characters built on it (see Derived Characters). SKIP 2-4-4; 8 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
 
 ### 㦮
-The Japanese shinjitai form of 戔 (⿻戈二), the phonetic that 残, 銭, 浅, 桟, 賎 and 践 write in Japan; Wiktionary also lists it, obsolete, as an alternative form of 銭. It is an alias of 残 together with 戔. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
+The Japanese shinjitai form of 戔 (⿻戈二), the phonetic that 残, 銭, 浅, 桟, 賎 and 践 write in Japan; Wiktionary also lists it, obsolete, as an alternative form of 銭. It is an alias of 残 together with 戔. SKIP 3-4-3 (computed: EDRDG does not list it); 7 strokes. Radical 062 戈. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[残]]<rt>ㄐㄚㄋ</rt></ruby> "remaining, not broken off" (stand-in for 残)

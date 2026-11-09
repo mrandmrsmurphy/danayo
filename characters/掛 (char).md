@@ -63,7 +63,7 @@ date-last-perfect: 2026-11-08
 ## Aliases
 
 ### 挂
-扌 + 圭, a Hokkien "to hang" and the simplified form of 掛. SKIP 1-3-6 (EDRDG); 9 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 4330 is 掛's own. SKIP 1-3-6; 9 strokes. It has no rank of its own in the Classical Chinese lists.
+扌 + 圭, a Hokkien "to hang" and the simplified form of 掛. SKIP 1-3-6; 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[掛]]<rt>ㄍ⺢ㄧ</rt></ruby> "hang, suspend" (stand-in for 掛)

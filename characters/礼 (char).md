@@ -65,10 +65,10 @@ boundedness: 90
 ## Aliases
 
 ### 禮
-Traditional form of 礼 (kyūjitai), "ritual, courtesy". SKIP 1-5-13 (EDRDG); 18 strokes. This is the form the Classical Chinese lists rank, so the `mc_id` 115 is 禮's rank. SKIP 1-5-13; 18 strokes. It ranks 115 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+Traditional form of 礼 (kyūjitai), "ritual, courtesy". SKIP 1-5-13; 18 strokes. It ranks 115 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ### 𥜪
-A rare form of 禮; Wiktionary gives no definition. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists.
+A rare form of 禮; Wiktionary gives no definition. SKIP 1-5-17 (computed: EDRDG does not list it); 22 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[礼]]<rt>ㄌㄝㄧ</rt></ruby> "manners" (stand-in for 礼)

@@ -58,7 +58,7 @@ boundedness: 90
 ## Aliases
 
 ### 扬
-Simplified Chinese form of 揚. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists; the `mc_id` 921 is 揚's own. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
+Simplified Chinese form of 揚. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[揚]]<rt>⼘ㄫ</rt></ruby> "scatter; hurl" (stand-in for 揚)

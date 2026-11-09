@@ -52,7 +52,7 @@ date-last-perfect: 2026-10-20
 ## Aliases
 
 ### 巤
-巛 over 龱 and a pair of 𠄌 forms, "mane, bristles" (Wiktionary: an alternative form of 鬣), and the phonetic of 鬣, 獵, 蠟 and 臘. It has the same derived Dan'a'yo sound as 鬣, ㄌㄛㄆ (MC `l` + `iᴇp`), and the same meaning, so it is an alias of 鬣, which is the hub for the characters built on it (see Derived Characters). SKIP 2-3-12 (EDRDG); 15 strokes. It has no rank of its own in the Classical Chinese lists, so `mc_id` stays 3632. SKIP 2-3-12; 15 strokes. Radical 047 巛. It has no rank of its own in the Classical Chinese lists.
+巛 over 龱 and a pair of 𠄌 forms, "mane, bristles" (Wiktionary: an alternative form of 鬣), and the phonetic of 鬣, 獵, 蠟 and 臘. It has the same derived Dan'a'yo sound as 鬣, ㄌㄛㄆ (MC `l` + `iᴇp`), and the same meaning, so it is an alias of 鬣, which is the hub for the characters built on it (see Derived Characters). SKIP 2-3-12; 15 strokes. Radical 047 巛. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[鬣]]<rt>ㄌㄛㄆ</rt></ruby> "mane, whiskers"

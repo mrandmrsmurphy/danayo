@@ -40,7 +40,7 @@ kwin: true
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-15
+date-last-perfect: 2026-11-08
 ---
 >[!tip] This is a page about the character 訓.
 >For the word, see [訓](../words/訓.md)
@@ -54,6 +54,11 @@ date-last-perfect: 2026-10-15
 - [SKIP-1-7-3](../lookup/SKIP/SKIP-1/SKIP-1-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1273rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 曉|x]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄏㄨㄋ](../syllables/ㄏㄨㄋ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 训
+Simplified Chinese form of 訓. SKIP 1-2-3 (computed: EDRDG does not list it); 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[訓]]<rt>ㄏㄨㄋ</rt></ruby> "interpret; translate; explicate" (stand-in for 訓)
