@@ -4,6 +4,16 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **絝 made an alias of 袴:** by the project owner's decision, on the identical sound (ㄎㄛ, MC `kʰ` + `uo`) and meaning ("pants"; Wiktionary: 絝 is an alternative form of 褲). 袴 (char) gained `aliases: 絝` and its first `## Aliases` section for 褲 and 絝 (redirects on Stroke 12 and 15, SKIP-1-5-10 and SKIP-1-6-6, Radicals 120 and 145). `mc_id` unchanged (4149). The 絝 link on 袴 now says "this page's alias". Authority: 武明帥.
+
+- **巤 made an alias of 鬣, and 鬣 the derived-character hub for 巤:** by the project owner's decision, on the identical sound (ㄌㄛㄆ, MC `l` + `iᴇp`) and meaning (Wiktionary: 巤 is an alternative form of 鬣, "mane"). 鬣 (char) gained `aliases: 巤`, its first `## Aliases` section (redirects on Stroke 15, SKIP-2-3-12 and Radical 047) and `## Derived Characters` with a short explanation (獵, 蠟, 臘). `mc_id` unchanged (3632). The 巤 notes on 蠟, 鬣, 臘 and 獵 now point to 鬣; on 獵 the earlier `[[鼠|巤]]` link and its claim that 巤 is "an ancient variant of 鼠" (unsupported in the vault) are replaced. Authority: 武明帥.
+
+- **蒦 made an alias of 獲, and 獲 the derived-character hub for 蒦:** by the project owner's decision, on the identical sound (ㄏ⺢ㄎ, MC `ɣ` + `wɑk`) and sense ("to catch"; 蒦 is the original of 獲). 獲 gained `aliases: 蒦`, its first `## Aliases` section (redirects on Stroke 13, SKIP-2-3-10 and Radical 140) and `## Derived Characters` with a short explanation (穫, 蠖, 護). `mc_id` unchanged (631). The 蒦 notes on 蠖, 護, 穫 and 獲 now point to 獲 ("no vault page" removed). Authority: 武明帥.
+
+- **隡 de-linked on 薩:** the red link `[[隡]]` (a rare CNS 11643 form, 阝 + 產) is plain text; not aliased, as nothing needs it. Authority: 武明帥.
+
+- **瞢 made an alias of 夢, and 夢 the derived-character hub for 瞢:** by the project owner's decision, on the identical sound (ㄇㄨㄫ, MC `m` + `ɨuŋ`) and because Wiktionary records 瞢 as a variant of 夢 (and of 盲) and it is 夢's Shuowen phonetic. 夢 (char) gained `aliases: 瞢` and its first `## Aliases` section for 梦, 瞢 and 㒱 (redirects on Stroke 05, 11 and 16, SKIP-2-8-3, SKIP-2-9-7 and SKIP-2-2-3, Radicals 011, 075 and 109; 㒱's SKIP computed) and `## Derived Characters` with a short explanation (薨). `mc_id` unchanged (1041). The 瞢 links on 夢 and 薨 now point to 夢. Authority: 武明帥.
+
 - **茻 made an alias of 莽:** by the project owner's decision, on the identical sound (ㄇㄚㄫ, MC `m` + `ɑŋ`) and the same sense (thick grass; 莽 is 犬 in 茻). 莽 gained `aliases: 茻` and its first `## Aliases` section (redirects on Stroke 12, SKIP-2-6-6 and Radical 140; SKIP computed). `mc_id` unchanged (624). No other vault character builds on 茻, so no Derived Characters section. The 茻 link on 莽 is now "this page's alias", and the List of 会意 entry for 寒 links 茻 to 莽 with the "no vault page" note removed. Authority: 武明帥.
 
 - **厷 made an alias of 宏, and 宏 the derived-character hub for 厷:** by the project owner's decision, because Wiktionary records 厷 (the original form of 肱) as a variant of 宏 and its derived sound is close (MC 古弘切, `k` + `wəŋ`, against 宏's `ɣ` + `ɣwɛŋ`). 宏 gained `aliases: 厷`, its first `## Aliases` section (redirects on Stroke 04, SKIP-3-2-2 and Radical 028) and `## Derived Characters` with a short explanation (紘, 雄). `mc_id` unchanged (2160). The 厷 mentions on 紘, 宏 and 雄 now point to 宏. Authority: 武明帥.

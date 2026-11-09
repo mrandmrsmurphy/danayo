@@ -35,6 +35,7 @@ tags:
 - 絕 --> 絶
 - 蛔 --> 回
 - 联 --> 連
+- 絝 --> 袴
 
 ### Forbidden
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture

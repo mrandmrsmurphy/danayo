@@ -48,6 +48,9 @@ tags:
 21. <ruby>[睾](../../characters/睾.md)<rt>ㄍㄚㄨ</rt></ruby> - testicle
 22. <ruby>[𥈞](../../characters/𥈞.md)<rt>ㄇㄚㄋ</rt></ruby> - conceal
 
+### +11 Strokes
+- 瞢 --> 夢
+
 ### +12 Strokes
 23. <ruby>[瞥](../../characters/瞥.md)<rt>ㄆㄝㄊ</rt></ruby> - glance
 24. <ruby>[瞬](../../characters/瞬.md)<rt>ㄙ⼜ㄋ</rt></ruby> - wink

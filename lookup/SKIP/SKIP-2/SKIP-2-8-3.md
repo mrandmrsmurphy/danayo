@@ -24,6 +24,9 @@ tags: [lookup]
 - 雫 - 国字: 'Raindrop'.  Appears only in the Longkan Shoujian. Use 滴 and/or 雨
 - 梺 - 国字: 'foot of a hill', 'foothill'
 
+### Aliases
+- 梦 --> 夢
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

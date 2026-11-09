@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[豎](/characters/豎.md)<rt>ㄙㄨ</rt></ruby> "vertical line"
 2. <ruby>[賢](/characters/賢.md)<rt>ㄏㄝㄋ</rt></ruby> "wise"
 
+### Aliases
+- 瞢 --> 夢
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

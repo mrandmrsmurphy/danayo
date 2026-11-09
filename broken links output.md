@@ -1,8 +1,4 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[瞢]] in [[characters/薨]]
-- [[隡]] in [[characters/薩]]
-- [[蒦]] in [[characters/蠖]], [[characters/護]]
-- [[巤]] in [[characters/蠟]], [[characters/鬣 (char)]]
 - [[絝]] in [[characters/袴 (char)]]
 - [[覊]] in [[characters/覇]]
 - [[灞]] in [[characters/覇]]

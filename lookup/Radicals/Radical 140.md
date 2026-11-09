@@ -72,6 +72,7 @@ tags:
 46. <ruby>[莱](../../characters/莱.md)<rt>ㄌㄚㄧ</rt></ruby> - Penglai
 47. <ruby>[茜](../../characters/茜.md)<rt>ㄑㄝㄋ</rt></ruby> - madder
 48. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
+- 蒦 --> 獲
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only

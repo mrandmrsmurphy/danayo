@@ -141,6 +141,7 @@ tags: [lookup]
 - ¡梻! - 違法字
 - ¡梺! - 違法字
 - ¡椛! - 違法字
+- 梦 --> 夢
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess

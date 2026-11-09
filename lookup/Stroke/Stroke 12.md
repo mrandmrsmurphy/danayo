@@ -77,6 +77,7 @@ tags: [lookup]
 - 黃 --> 黄
 - 嵒 --> 岩
 - 茻 --> 莽
+- 絝 --> 袴
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

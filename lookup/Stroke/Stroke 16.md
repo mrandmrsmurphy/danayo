@@ -71,6 +71,7 @@ tags:
 - 螢 --> 蛍
 - 據 --> 拠
 - 隱 --> 隠
+- 瞢 --> 夢
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

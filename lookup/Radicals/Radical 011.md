@@ -22,6 +22,7 @@ tags: [lookup]
 ### +3 Strokes
 - 㒰 --> ancient variant of 全
 - forbidden 㒱
+- 㒱 --> 夢
 
 ### +4 Strokes
 2. <ruby>[全](../../characters/全%20(char).md)<rt>ㄐ⼔ㄋ</rt></ruby> - whole

@@ -62,6 +62,7 @@ tags: [lookup]
 39. <ruby>[統](../../characters/統.md)<rt>ㄊㄛㄫ</rt></ruby> - command
 40. <ruby>[絵](../../characters/絵.md)<rt>ㄏ⺢ㄧ</rt></ruby> - draw
 41. <ruby>[絶](../../characters/絶%20(char).md)<rt>ㄐ⼔ㄊ</rt></ruby> - discontinue
+- 絝 --> 袴
 
 ### +7 Strokes
 42. <ruby>[絹](../../characters/絹%20(char).md)<rt>ㄍ⼔ㄋ</rt></ruby> - silk

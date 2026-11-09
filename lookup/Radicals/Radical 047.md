@@ -26,6 +26,9 @@ tags: [lookup]
 ### +8 Strokes
 6. <ruby>[巣](../../characters/巣.md)<rt>ㄐㄚㄨ</rt></ruby> - nest
 
+### +12 Strokes
+- 巤 --> 鬣
+
 ### Aliases
 - 𢀎 --> 河
 

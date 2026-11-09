@@ -64,6 +64,8 @@ tags:
 - 撒 --> 散
 - 畾 --> 雷
 - 樊 --> 藩
+- 巤 --> 鬣
+- 褲 --> 袴
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

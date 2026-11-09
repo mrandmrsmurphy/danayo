@@ -46,7 +46,7 @@ boundedness: 65
 [[nav/char_info]]
 ```
 ## Notes
-- 形声 (OC \*rab): semantic [[Radical 094|犬]] ("dog") + phonetic [[鼠|巤]] (OC \*rab, an ancient variant of 鼠 — no character page of its own in this vault) — to hunt with dogs.
+- 形声 (OC \*rab): semantic [[Radical 094|犬]] ("dog") + phonetic [[鬣 (char)|巤]] (OC \*rab) — to hunt with dogs.
 - [SKIP-1-3-8](../lookup/SKIP/SKIP-1/SKIP-1-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 1334th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 來|l]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [ㄌㄛㄆ](../syllables/ㄌㄛㄆ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
