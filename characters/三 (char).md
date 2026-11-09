@@ -75,6 +75,7 @@ boundedness: 75
 - <ruby>[[三味線]]<rt>ㄙㄚㄇㄇㄨㄧㄙ⼶ㄋ</rt></ruby> "shamisen"
 - <ruby>[[再三]]<rt>ㄐㄚㄧㄙㄚㄇ</rt></ruby> "again and again"
 - <ruby>[[三角洲]]<rt>ㄙㄚㄇㄍㄛㄎㄐㄨㄛ</rt></ruby> "delta"
+- <ruby>[[三界]]<rt>ㄙㄚㄇㄍ⼶</rt></ruby> "three realms; Trailokya"
 
 ## Chengyu
 - <ruby>[[三綱五常]]<rt>ㄙㄚㄇㄍㄚㄫㄛㄙ⼘ㄫ</rt></ruby> "three relationships and five virtues"

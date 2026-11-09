@@ -92,6 +92,7 @@ No link to 無 found on Wiktionary beyond its structure (忄 + 無, "regretful, 
 - <ruby>[[無能]]<rt>ㄇㄜ·ㄋㄜㄫ</rt></ruby> "incompetent"
 - <ruby>[[無視]]<rt>ㄇㄜㄙㄧㄜ</rt></ruby> "to ignore, disregard"
 - <ruby>[[無神論]]<rt>ㄇㄜㄙㄧㄋㄌㄛㄋ</rt></ruby> "atheism"
+- <ruby>[[無色界]]<rt>ㄇㄜㄙㄧㄎㄍ⼶</rt></ruby> "formless realm"
 
 ## Chengyu
 - <ruby>[[国士無双]]<rt>ㄍㄛㄎㄙㄚㄧㄇㄜㄙ⺢ㄫ</rt></ruby> "exceptional gentleman"

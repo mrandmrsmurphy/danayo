@@ -4,6 +4,12 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-08
 
+- **欲界, 色界 and 無色界 coined:** "desire realm; Kāmadhātu" (注音 ⼄ㄎㄍ⼶, `'yoggye`, 욕겨), "form realm; Rūpadhātu" (ㄙㄧㄎㄍ⼶, `siggye`, 식겨) and "formless realm; Ārūpyadhātu" (ㄇㄜㄙㄧㄎㄍ⼶, `mǝsiggye`, 므식겨), the three realms of 三界 (the three words now linked from its Notes). Sense from zh.Wikipedia and ja.Wikipedia (Abhidharmakośa account: the six desire heavens, the four meditation heavens, the four formless stages); readings: Japanese よくかい / しきかい / むしきかい, Korean 욕계 / 색계 / 무색계, Vietnamese dục giới / sắc giới / vô sắc giới (Mandarin and Cantonese compositional-attested). Added to `## Words` on 欲, 色, 界 and 無 and to lexipedia/Religion; stamped. Authority: user request 2026-11-08.
+
+- **三界 coined (words/三界.md):** "three realms; Trailokya" (名詞); 三 + 界; 注音 ㄙㄚㄇㄍ⼶, 羅馬字 samgye, 諺文 삼겨; Wiktionary (trailokya), ja.Wikipedia and zh.Wikipedia for the three realms (欲界, 色界, 無色界), their ranking, the Daoist 三界二十八天 and 三世; Japanese さんがい, Korean 삼계, Vietnamese tam giới. Added to `## Words` on 三 and 界 and to lexipedia/Religion (Buddhist & Cosmological Concepts); stamped. Authority: user request 2026-11-08.
+
+- **霊宝 coined (words/霊宝.md):** "numinous treasure; Lingbao" (名詞); 霊 + 宝, the shinjitai spelling of 靈寶 (aliases 靈寶, 灵宝); 注音 ㄌㄝㄫㄅㄚㄨ, 羅馬字 lengbau, 諺文 렁밧. Sense from en.Wikipedia (the Lingbao school) and ja.Wikipedia (れいほう, a temple's sacred treasure); the Daoist deity 靈寶天尊 composed as 霊宝 + 天尊, so no four-character entry. Added to `## Words` on 霊 and 宝 and to lexipedia/Religion; stamped. Authority: user request 2026-11-08.
+
 - **元始 made an alias of 原始:** by the project owner's decision (Wiktionary lists 元始 as an alternative form of 原始 in Japanese, as in 元始に神天地を創造たまへり, Genesis 1:1; in Chinese it is the "Primordial" of 元始天尊). `words/原始.md` gained `aliases: 元始` and a sentence in its Notes. Authority: 武明帥.
 
 - **天尊 coined (words/天尊.md):** "Heavenly Venerable; Honoured One; high deity" (名詞); 天 + 尊; 注音 ㄊㄝㄋㄐㄛㄋ, 羅馬字 tenjon, 諺文 턴존; Mandarin and Cantonese from en.Wiktionary (tiānzūn, tin1 zyun1), Japanese てんそん, Korean 천존 and Vietnamese thiên tôn compositional. Three uses recorded in the Notes (Buddhist, early rendering of Bhagavān; Daoist, the Three Pure Ones; Church of the East, God the Father), with its Zhang Hua origin and its relation to 天主, 神 and 佛. Added to `## Words` on 天 and 尊 and to lexipedia/Religion (Spirits & Souls); stamped. Authority: user request 2026-11-08.

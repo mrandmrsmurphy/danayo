@@ -50,6 +50,7 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 - <ruby>[霊魂](../words/霊魂.md)<rt>ㄌㄝㄫㄏㄛㄋ</rt></ruby>: spirit, ghost, soul — a broad umbrella term covering Christian, Buddhist, and secular usages of "soul" alike.
 - <ruby>[地獄](../words/地獄.md)<rt>ㄉㄧㄜ⼄ㄎ</rt></ruby>: hell — the Buddhist hell of punishment; see [基督敎](../lexipedia/基督敎.md) for its Christian use.
 - <ruby>[天使](../words/天使.md)<rt>ㄊㄝㄋㄙㄧ</rt></ruby>: an angel, a messenger of heaven; see [基督敎](../lexipedia/基督敎.md).
+- <ruby>[霊宝](../words/霊宝.md)<rt>ㄌㄝㄫㄅㄚㄨ</rt></ruby>: numinous treasure — the Daoist Lingbao (靈寶) school and scriptures, and in Japanese the sacred treasures of a temple or shrine; with [[天尊]] it makes the name of one of the Three Pure Ones.
 - <ruby>[天尊](../words/天尊.md)<rt>ㄊㄝㄋㄐㄛㄋ</rt></ruby>: Heavenly Venerable — the title of honour for a high deity: the Buddha (an early rendering of *Bhagavān*), the Daoist Three Pure Ones, and, in the Tang-dynasty Church of the East, God the Father.
 - <ruby>[魂魄](../words/魂魄.md)<rt>ㄏㄛㄋㄅㄚㄎ</rt></ruby>: soul, spirit — specifically the paired hún (魂, the thinking/vital soul-component) and 魄 (the physical/bodily soul-component) of classical Chinese cosmology.
 - <ruby>[神霊](../words/神霊.md)<rt>ㄙㄧㄋㄌㄝㄫ</rt></ruby>: a spirit, divine/numinous force — an impersonal spiritual presence or efficacy, distinct from [[霊魂]]'s personal soul.
@@ -119,6 +120,10 @@ The broader fate/destiny/luck cluster ([[命運]], [[運命]], [[運数]]) is pr
 
 - <ruby>[大乗](../words/大乗.md)<rt>ㄉㄚㄧㄙㄨㄫ</rt></ruby>: Mahayana, "Great Vehicle" Buddhism.
 - <ruby>[観音](../words/観音.md)<rt>ㄍ⺢ㄋ·ㄨㄇ</rt></ruby>: Guanyin, Avalokiteśvara, the bodhisattva of mercy — short for 観世音, a translation ("the one who observes the sounds [of suffering beings]") rather than a transliteration of the Sanskrit; Japanese かんのん, Korean 관음, Vietnamese Quan Âm.
+- <ruby>[欲界](../words/欲界.md)<rt>⼄ㄎㄍ⼶</rt></ruby>: the realm of desire — the lowest of the [[三界]], from the hells to the six heavens of desire.
+- <ruby>[色界](../words/色界.md)<rt>ㄙㄧㄎㄍ⼶</rt></ruby>: the realm of form — the middle realm, of beings free of craving but still bound to matter.
+- <ruby>[無色界](../words/無色界.md)<rt>ㄇㄜㄙㄧㄎㄍ⼶</rt></ruby>: the formless realm — the highest realm, of beings that have only a mind.
+- <ruby>[三界](../words/三界.md)<rt>ㄙㄚㄇㄍ⼶</rt></ruby>: the three realms (Trailokya) of Buddhist cosmology — the realms of desire, form and formlessness, within which beings are reborn.
 - <ruby>[弥勒](../words/弥勒.md)<rt>ㄇㄝㄌㄜㄎ</rt></ruby>: Maitreya, the future Buddha.
 - <ruby>[禅](../words/禅.md)<rt>ㄙㄝㄋ</rt></ruby>: Zen, Chán — the meditative Buddhist school and practice; also, more abstractly, "oneness." The source of the English loanword "Zen" itself (via Japanese ぜん).
 - <ruby>[揄伽](../words/揄伽.md)<rt>⼜ㄇㄍ⼘</rt></ruby>: yoga.
