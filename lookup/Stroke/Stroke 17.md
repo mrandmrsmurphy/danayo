@@ -92,6 +92,7 @@ tags:
 - 臩 --> 囧
 - 鮭 --> 圭
 - 薶 --> 埋
+- 隳 --> 堕
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

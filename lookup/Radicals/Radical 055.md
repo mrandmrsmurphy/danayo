@@ -25,6 +25,9 @@ tags: [lookup]
 ### +9 Strokes
 - 𢍜 --> 尊
 
+### +11 Strokes
+- 㢡 --> 奨
+
 ### +12 Strokes
 4. <ruby>[弊](../../characters/弊%20(char).md)<rt>ㄆㄝㄧ</rt></ruby> - evil
 

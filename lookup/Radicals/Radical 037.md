@@ -25,9 +25,12 @@ tags: [lookup]
 
 ### +3 Strokes
 8. <ruby>[夷](../../characters/夷.md)<rt>ㄧㄜ</rt></ruby> - barbarian
+- 㚐 --> 套
+- 夺 --> 奪
 
 ### +4 Strokes
 9. <ruby>[夹](../../characters/夹.md)<rt>ㄍ⼘ㄆ</rt></ruby> - clip
+- 夾 --> 夹
 
 ### +5 Strokes
 10. <ruby>[奈](../../characters/奈.md)<rt>ㄋ⼘ㄧ</rt></ruby> - apple tree
@@ -42,10 +45,15 @@ tags: [lookup]
 16. <ruby>[奔](../../characters/奔.md)<rt>ㄅㄛㄋ</rt></ruby> - run around
 - 奐 --> 煥
 - 奎 --> 圭
+- 奓 --> 奢
+- 奖 --> 奨
 
 ### +7 Strokes
 17. <ruby>[套](../../characters/套%20(char).md)<rt>ㄊㄛㄨ</rt></ruby> - covering
 18. <ruby>[奚](../../characters/奚%20(char).md)<rt>ㄏㄝㄧ</rt></ruby> - how
+
+### +8 Strokes
+- 𡘷 --> 套
 
 ### +9 Strokes
 19. <ruby>[奢](../../characters/奢.md)<rt>ㄙ⼘</rt></ruby> - extravagant
@@ -54,9 +62,11 @@ tags: [lookup]
 
 ### +10 Strokes
 21. <ruby>[奨](../../characters/奨.md)<rt>ㄐㄚㄫ</rt></ruby> - award
+- 奧 --> 奥
 
 ### +11 Strokes
 22. <ruby>[奪](../../characters/奪.md)<rt>ㄉ⺢ㄊ</rt></ruby> - snatch
+- 奬 --> 奨
 
 ### +13 Strokes
 23. <ruby>[奮](../../characters/奮.md)<rt>ㄈㄨㄋ</rt></ruby> - stirred up

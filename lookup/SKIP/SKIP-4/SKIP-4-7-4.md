@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 龟 --> 亀
+- 夾 --> 夹
 
 ## Datacheck
 ```dataview

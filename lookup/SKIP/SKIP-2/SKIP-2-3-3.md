@@ -45,6 +45,8 @@ tags:
 - 伞 --> 傘
 - 吕 --> 呂
 - 吅 --> 喧
+- 㚐 --> 套
+- 夺 --> 奪
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

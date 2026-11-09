@@ -102,6 +102,11 @@ tags:
 - 瘂 --> 唖
 - 嗁 --> 啼
 - 营 --> 営
+- 戠 --> 埴
+- 塐 --> 塑
+- 塡 --> 填
+- 𦴞 --> 天
+- 奧 --> 奥
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

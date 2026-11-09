@@ -33,6 +33,8 @@ tags: [lookup]
 - 𠲘 --> 善
 - 带 --> 帯
 - 类 --> 類
+- 垦 --> 墾
+- 奖 --> 奨
 
 ## Datacheck
 ```dataview

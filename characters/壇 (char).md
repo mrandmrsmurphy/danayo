@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 壇.
 >For the word, see [壇](../words/壇.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1742nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 寒|ɑn]] → [ㄉㄚㄋ](../syllables/ㄉㄚㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 坛
+Simplified Chinese form of 壇. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[壇]]<rt>ㄉㄚㄋ</rt></ruby> "altar" (stand-in for 壇)

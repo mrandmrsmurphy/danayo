@@ -213,6 +213,7 @@ aliases:
 - 𠋣 --> 倚
 - 偸 --> 偷
 - 偿 --> 償
+- 偃 --> 堰
 
 ### +10 Strokes
 116. <ruby>[偉](../../characters/偉.md)<rt>ㄨㄧ</rt></ruby> - great

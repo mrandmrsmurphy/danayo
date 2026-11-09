@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 壱.
 >For the word, see [壱](../words/壱.md)
@@ -48,8 +48,16 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声 (OC *qlid): semantic 壺 ("jar") + phonetic [[吉 (char)|吉]] — single-minded, wholehearted, unified in purpose, loyal; also the dedicated anti-forgery financial-numeral variant of 一.
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 1256th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](../syllables/ㄧㄊ.md)
+- 1256th most used character in Classical Chinese (rank belongs to the traditional form 壹). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 質三|iɪt]] → [ㄧㄊ](../syllables/ㄧㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 壹
+Traditional form of 壱, the formal (financial) numeral "one". SKIP 2-3-9; 12 strokes. It ranks 1256 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 弌
+An archaic formal numeral "one"; kept as an alias of 壱. SKIP 3-3-1; 4 strokes. Radical 056 弋. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[壱]]<rt>ㄧㄊ</rt></ruby> "loyal; faithful" (stand-in for 壱 (char); 壹 was dropped from the Korean MS hanja list in 2000)

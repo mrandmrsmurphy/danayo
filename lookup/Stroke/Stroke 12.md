@@ -138,6 +138,13 @@ tags: [lookup]
 - 喻 --> 喩
 - 喷 --> 噴
 - 臦 --> 囧
+- 嵜 --> 埼
+- 隋 --> 堕
+- 壹 --> 壱
+- 壺 --> 壷
+- 𩇗 --> 天
+- 靔 --> 天
+- 犇 --> 奔
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

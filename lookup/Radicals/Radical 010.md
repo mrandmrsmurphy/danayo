@@ -28,6 +28,7 @@ tags: [lookup]
 6. <ruby>[充](../../characters/充.md)<rt>ㄑㄨㄫ</rt></ruby> - fill
 7. <ruby>[先](../../characters/先.md)<rt>ㄙㄝㄋ</rt></ruby> - prior
 8. <ruby>[兆](../../characters/兆.md)<rt>ㄐㄚㄨ</rt></ruby> - omen
+- 𠑺 --> 天
 
 ### +5 Strokes
 9. <ruby>[克](../../characters/克%20(char).md)<rt>ㄎㄨㄎ</rt></ruby> - practice self-restraint

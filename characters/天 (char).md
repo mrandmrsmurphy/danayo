@@ -41,7 +41,7 @@ aliases:
   - 靔
   - 𠀑
 注音: ㄊㄝㄋ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -71,6 +71,47 @@ boundedness: 80
 - <ruby>[[不共戴天]]<rt>ㄅㄛㄊㄍ⼄ㄫㄊㄚㄧㄊㄝㄋ</rt></ruby> "absolutely irreconcilable"
 - <ruby>[[天圓地方]]<rt>ㄊㄝㄋ⼔ㄋㄉㄧㄜㄈㄚㄫ</rt></ruby> "Heaven is Round, Earth is Square"
 - <ruby>[[瑠璃清天]]<rt>ㄌ⼜ㄌㄜㄑㄧㄫㄊㄝㄋ</rt></ruby> "Lapis Lazuli"
+
+## Aliases
+
+### 𠀘
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-1-5 (computed: EDRDG does not list it); 6 strokes. Radical 001 一. It has no rank of its own in the Classical Chinese lists.
+
+### 𠀡
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-1-6 (computed: EDRDG does not list it); 7 strokes. Radical 001 一. It has no rank of its own in the Classical Chinese lists.
+
+### 𠑺
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 010 儿. It has no rank of its own in the Classical Chinese lists.
+
+### 兲
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 012 八. It has no rank of its own in the Classical Chinese lists.
+
+### 𠕹
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-2-4 (computed: EDRDG does not list it); 6 strokes. Radical 014 冖. It has no rank of its own in the Classical Chinese lists.
+
+### 㕦
+"Loud sound, clamor"; kept as an alias of 天. SKIP 1-3-3 (computed: EDRDG does not list it); 6 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
+
+### 䒶
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-3-7 (computed: EDRDG does not list it); 10 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
+### 𦴞
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
+
+### 𩇗
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-8-4 (computed: EDRDG does not list it); 12 strokes. Radical 174 靑. It has no rank of its own in the Classical Chinese lists.
+
+### 𩇞
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-8-8 (computed: EDRDG does not list it); 16 strokes. Radical 174 靑. It has no rank of its own in the Classical Chinese lists.
+
+### 靝
+"Heaven" (Taoist term); a variant of 天 and kept as an alias. SKIP 1-8-10 (computed: EDRDG does not list it); 18 strokes. Radical 174 靑. It has no rank of its own in the Classical Chinese lists.
+
+### 靔
+A rare variant form of 天; Wiktionary gives no definition. SKIP 1-8-4 (computed: EDRDG does not list it); 12 strokes. Radical 174 靑. It has no rank of its own in the Classical Chinese lists.
+
+### 𠀑
+A rare variant form of 天; Wiktionary gives no definition. SKIP 2-1-4 (computed: EDRDG does not list it); 5 strokes. Radical 001 一. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[天]]<rt>ㄊㄝㄋ</rt></ruby> "sky, heaven" (stand-in for 天)

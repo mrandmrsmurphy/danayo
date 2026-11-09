@@ -24,7 +24,7 @@ joyo_level: 表外字
 hsk_level: "5"
 hanmun_edu_level: 名
 danayo_id: 8174
-mc_id: 10335
+mc_id: 1764
 graphemic_classification: 象形
 stand_in: 壷
 aliases:
@@ -35,7 +35,7 @@ kwin: true
 tags:
   - character
 boundedness: 40
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 ```meta-bind-embed
 [[nav/char_info]]
@@ -44,8 +44,16 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 象形 (per 說文解字: "壺，昆吾圜器也。象形。"): depicts a lidded pot with loop handles — "pot." 壷 is the Japanese extended shinjitai / former ROC-era simplified variant of 壺/壶, which retain the same etymology.
 - [SKIP-2-3-8](../lookup/SKIP/SKIP-2/SKIP-2-3-8.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
-- 10335th most used character in Classical Chinese (trusted long-tail). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
+- 1764th most used character in Classical Chinese, the rank of its alias 壺 (壷 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 模|uo]] → [ㄏㄛ](../syllables/ㄏㄛ.md)
 - [Grade Name](../lookup/Grade%20Name.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅎ](../lookup/Korean/Korean%20Name%20ㅎ.md)
+
+## Aliases
+
+### 壺
+Traditional form of 壷, "pot, jar". SKIP 2-3-9; 12 strokes. It ranks 1764 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 壶
+Simplified Chinese form of 壺. SKIP 2-3-7 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[水壷]]<rt>ㄙㄨㄏㄛ</rt></ruby> "kettle; water bottle"

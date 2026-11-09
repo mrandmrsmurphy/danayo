@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[奴](../../characters/奴.md)<rt>ㄋㄛ</rt></ruby> - slave
+- 㚢 --> 奴
 
 ### +3 Strokes
 3. <ruby>[好](../../characters/好%20(char).md)<rt>ㄏㄚㄨ</rt></ruby> - good
@@ -60,6 +61,7 @@ tags: [lookup]
 34. <ruby>[姿](../../characters/姿.md)<rt>ㄐㄧㄜ</rt></ruby> - manner
 35. <ruby>[威](../../characters/威.md)<rt>ㄛㄧ</rt></ruby> - power
 36. <ruby>[娃](../../characters/娃.md)<rt>⼘ㄧ</rt></ruby> - beautiful
+- 姸 --> 妍
 
 ### +7 Strokes
 37. <ruby>[娘](../../characters/娘%20(char).md)<rt>ㄋㄚㄫ</rt></ruby> - young woman

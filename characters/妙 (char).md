@@ -42,7 +42,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 妙.
 >For the word, see [妙](../words/妙.md)
@@ -56,6 +56,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-4](../lookup/SKIP/SKIP-1/SKIP-1-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - 2130th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄇ⼄ㄨ](../syllables/ㄇ⼄ㄨ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 玅
+A variant form of 妙, "mysterious, exquisite". SKIP 1-5-4; 9 strokes. Radical 095 玄. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[妙]]<rt>ㄇ⼄ㄨ</rt></ruby> "mysterious, subtle, exquisite" (stand-in for 妙)

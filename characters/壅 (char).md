@@ -36,7 +36,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 壅.
 >For the word, see [壅](../words/壅.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-13](../lookup/SKIP/SKIP-1/SKIP-1-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄛㄫ](../syllables/ㄛㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 㙲
+A rare variant form of 壅; Wiktionary gives no definition. SKIP 1-3-13 (computed: EDRDG does not list it); 16 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [壅](../words/壅.md) "obstruct" — 壅 stands alone as a word in Dan'a'yo.

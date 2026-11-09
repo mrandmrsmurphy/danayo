@@ -36,6 +36,7 @@ tags: [lookup]
 ### +8 Strokes
 10. <ruby>[犂](../../characters/犂.md)<rt>ㄌㄝㄧ</rt></ruby> - plough
 11. <ruby>[犀](../../characters/犀.md)<rt>ㄙㄝㄧ</rt></ruby> - rhinoceros
+- 犇 --> 奔
 
 ### +13 Strokes
 12. <ruby>[犠](../../characters/犠.md)<rt>ㄏㄨㄧ</rt></ruby> - sacrifice

@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### +5 Strokes
 5. <ruby>[益](../../characters/益.md)<rt>ㄝㄎ</rt></ruby> - benefit
+- 盐 --> 塩
 
 ### +6 Strokes
 6. <ruby>[盒](../../characters/盒.md)<rt>ㄏㄛㄆ</rt></ruby> - box

@@ -125,6 +125,13 @@ tags:
 - 𠲳 --> 呻
 - 㖒 --> 啼
 - 圆 --> 圓
+- 埗 --> 埠
+- 涂 --> 塗
+- 冢 --> 塚
+- 𡨄 --> 塞
+- 盐 --> 塩
+- 壶 --> 壷
+- 䒶 --> 天
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

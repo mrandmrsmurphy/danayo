@@ -43,6 +43,9 @@ tags: [lookup]
 - 众 --> 衆
 - 㔺 --> 世
 - 𠅃 --> 亦
+- 𠑺 --> 天
+- 兲 --> 天
+- 𠕹 --> 天
 
 ### Forbidden
 - 𫡤 - 国字: Triplication of 九 (“nine”); Wiktionary glosses it 'to collect'

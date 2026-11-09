@@ -95,6 +95,8 @@ tags:
 - 悧 --> 俐
 - 𠲳 --> 呻
 - 㖒 --> 啼
+- 埗 --> 埠
+- 涂 --> 塗
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

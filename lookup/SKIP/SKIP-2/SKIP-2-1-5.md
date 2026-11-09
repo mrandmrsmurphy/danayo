@@ -17,6 +17,7 @@ tags: [lookup]
 - 买 --> 買
 - 𠂢 --> 派
 - 𠀚 --> 不
+- 𠀘 --> 天
 
 ## Datacheck
 ```dataview

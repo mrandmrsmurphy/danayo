@@ -32,6 +32,7 @@ tags: [lookup]
 - 猷 --> 猶
 - 飮 --> 飲
 - 尠 --> 鮮
+- 戠 --> 埴
 
 ## Datacheck
 ```dataview

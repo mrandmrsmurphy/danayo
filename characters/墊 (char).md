@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 墊.
 >For the word, see [墊](../words/墊.md)
@@ -52,6 +52,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-11-3](../lookup/SKIP/SKIP-2/SKIP-2-11-3.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 4368th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄧㄆ](../syllables/ㄉㄧㄆ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅈ](Lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 垫
+Simplified Chinese form of 墊. SKIP 1-3-6 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[墊]]<rt>ㄉㄧㄆ</rt></ruby> "mat, pad, cushion" (stand-in for 墊)

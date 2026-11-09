@@ -21,7 +21,7 @@ joyo_level: 高等
 hsk_level: "2"
 hanmun_edu_level: 高等
 danayo_id: 4111
-mc_id: 0
+mc_id:
 graphemic_classification: 荅
 stand_in: 塔
 aliases:
@@ -29,7 +29,7 @@ aliases:
   - 墖
   - 𩫊
 注音: ㄊㄚㄆ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -47,6 +47,17 @@ boundedness: 80
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - Not present in the Classical Chinese usage ranking. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 盍|ɑp]] → [ㄊㄚㄆ](../syllables/ㄊㄚㄆ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 㙮
+A variant form of 塔, "tower, pagoda". SKIP 1-3-12 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 墖
+A variant form of 塔, "pagoda". SKIP 1-3-11; 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𩫊
+A rare variant form of 塔; Wiktionary gives no definition. SKIP 1-10-5 (computed: EDRDG does not list it); 15 strokes. Radical 189 高. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[塔]]<rt>ㄊㄚㄆ</rt></ruby> "pagoda" (stand-in for 塔 (char))

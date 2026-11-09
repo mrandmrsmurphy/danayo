@@ -35,6 +35,7 @@ tags: [lookup]
 - 舒 --> 抒
 - 鈑 --> 板
 - 㰶 --> 呕
+- 靔 --> 天
 
 ## Datacheck
 ```dataview

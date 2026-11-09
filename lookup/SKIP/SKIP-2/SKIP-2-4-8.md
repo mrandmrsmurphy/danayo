@@ -25,6 +25,7 @@ tags: [lookup]
 ### Aliases
 - 黃 --> 黄
 - 爲 --> 為
+- 犇 --> 奔
 
 ## Datacheck
 ```dataview

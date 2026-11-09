@@ -165,6 +165,8 @@ tags:
 - 渧 --> 啼
 - 喻 --> 喩
 - 喷 --> 噴
+- 隋 --> 堕
+- 隄 --> 堤
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

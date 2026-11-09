@@ -47,6 +47,7 @@ tags: [lookup]
 22. <ruby>[陸](../../characters/陸.md)<rt>ㄌㄨㄎ</rt></ruby> - continent
 23. <ruby>[険](../../characters/険%20(char).md)<rt>ㄏㄝㄇ</rt></ruby> - precipitous
 24. <ruby>[隆](../../characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous
+- 隄 --> 堤
 
 ### +4 Strokes
 25. <ruby>[陽](../../characters/陽%20(char).md)<rt>⼘ㄫ</rt></ruby> - shine
@@ -55,6 +56,7 @@ tags: [lookup]
 28. <ruby>[階](../../characters/階.md)<rt>ㄍ⼶ㄧ</rt></ruby> - storey
 29. <ruby>[随](../../characters/随.md)<rt>ㄙㄨㄧ</rt></ruby> - accompany
 - 隕 --> 員
+- 隋 --> 堕
 
 ### +5 Strokes
 30. <ruby>[隙](../../characters/隙%20(char).md)<rt>ㄎㄝㄎ</rt></ruby> - fissure
@@ -68,6 +70,9 @@ tags: [lookup]
 ### +8 Strokes
 35. <ruby>[隣](../../characters/隣%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - neighboring
 - 隱 --> 隠
+
+### +9 Strokes
+- 隳 --> 堕
 
 ### Aliases
 - 阳 --> 陽

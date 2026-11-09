@@ -21,6 +21,7 @@ tags: [lookup]
 
 ### +4 Strokes
 5. <ruby>[共](../../characters/共%20(char).md)<rt>ㄍ⼄ㄫ</rt></ruby> - with
+- 兲 --> 天
 
 ### +5 Strokes
 6. <ruby>[兵](../../characters/兵.md)<rt>ㄅ⼶ㄫ</rt></ruby> - soldier

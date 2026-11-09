@@ -97,6 +97,8 @@ tags:
 - 樷 --> 叢
 - 鬨 --> 哄
 - 憻 --> 坦
+- 㙲 --> 壅
+- 𩇞 --> 天
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

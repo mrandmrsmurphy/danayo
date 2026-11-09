@@ -17,6 +17,7 @@ tags: [lookup]
 ### Aliases
 - 丛 --> 叢
 - 𠃢 --> 四
+- 𠀑 --> 天
 
 ## Datacheck
 ```dataview

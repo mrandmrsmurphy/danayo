@@ -21,6 +21,7 @@ tags: [lookup]
 ### +4 Strokes
 - 农 --> 農
 - 军 --> 軍
+- 𠕹 --> 天
 
 ### +7 Strokes
 4. <ruby>[冒](../../characters/冒.md)<rt>ㄇㄚㄨ</rt></ruby> - take a risk
@@ -29,6 +30,7 @@ tags: [lookup]
 ### +8 Strokes
 6. <ruby>[冤](../../characters/冤.md)<rt>ㄛㄋ</rt></ruby> - grievance
 7. <ruby>[冥](../../characters/冥%20(char).md)<rt>ㄇㄝㄫ</rt></ruby> - dark
+- 冢 --> 塚
 
 ### +13 Strokes
 8. <ruby>[冪](../../characters/冪.md)<rt>ㄇㄧㄎ</rt></ruby> - cover

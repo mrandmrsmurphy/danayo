@@ -25,6 +25,7 @@ tags:
 4. <ruby>[在](../../characters/在%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - exist
 5. <ruby>[圭](../../characters/圭.md)<rt>ㄍ⼔ㄧ</rt></ruby> - jade tablet
 6. <ruby>[地](../../characters/地%20(char).md)<rt>ㄉㄧㄜ</rt></ruby> - land
+- 圩 --> 墟
 
 ### +4 Strokes
 7. <ruby>[坂](../../characters/坂.md)<rt>ㄅㄛㄋ</rt></ruby> - slope
@@ -37,6 +38,9 @@ tags:
 - 坚 --> 堅
 - 块 --> 塊
 - 坏 --> 壊
+- 坠 --> 墜
+- 坟 --> 墳
+- 坛 --> 壇
 
 ### +5 Strokes
 13. <ruby>[坤](../../characters/坤.md)<rt>ㄎㄛㄋ</rt></ruby> - eighth trigram
@@ -52,11 +56,14 @@ tags:
 19. <ruby>[垢](../../characters/垢.md)<rt>ㄍㄛㄨ</rt></ruby> - dirt
 20. <ruby>[垣](../../characters/垣%20(char).md)<rt>ㄛㄋ</rt></ruby> - low wall
 21. <ruby>[城](../../characters/城.md)<rt>ㄙㄧㄫ</rt></ruby> - castle
+- 垫 --> 墊
+- 垦 --> 墾
 
 ### +7 Strokes
 22. <ruby>[埃](../../characters/埃.md)<rt>ㄚㄧ</rt></ruby> - fine dirt
 23. <ruby>[埋](../../characters/埋.md)<rt>ㄇ⼶</rt></ruby> - bury
 24. <ruby>[培](../../characters/培.md)<rt>ㄈㄛㄧ</rt></ruby> - cultivate
+- 埗 --> 埠
 
 ### +8 Strokes
 25. <ruby>[域](../../characters/域%20(char).md)<rt>ㄨㄧㄎ</rt></ruby> - domain
@@ -94,6 +101,8 @@ tags:
 51. <ruby>[填](../../characters/填%20(char).md)<rt>ㄉㄝㄋ</rt></ruby> - fill in
 52. <ruby>[墓](../../characters/墓.md)<rt>ㄇㄛ</rt></ruby> - grave
 - 塙 --> 確
+- 塐 --> 塑
+- 塡 --> 填
 
 ### +11 Strokes
 53. <ruby>[塵](../../characters/塵.md)<rt>ㄐㄧㄋ</rt></ruby> - dirt
@@ -102,11 +111,14 @@ tags:
 56. <ruby>[墊](../../characters/墊%20(char).md)<rt>ㄉㄧㄆ</rt></ruby> - mat
 57. <ruby>[増](../../characters/増.md)<rt>ㄐㄜㄫ</rt></ruby> - increase
 58. <ruby>[墨](../../characters/墨.md)<rt>ㄇㄨㄎ</rt></ruby> - ink
+- 墖 --> 塔
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall
 60. <ruby>[墟](../../characters/墟.md)<rt>ㄎ⼄</rt></ruby> - ruins
 61. <ruby>[墳](../../characters/墳.md)<rt>ㄅㄨㄋ</rt></ruby> - tomb
+- 墮 --> 堕
+- 㙮 --> 塔
 
 ### +13 Strokes
 62. <ruby>[墾](../../characters/墾.md)<rt>ㄎㄚㄋ</rt></ruby> - cultivate
@@ -115,6 +127,7 @@ tags:
 65. <ruby>[壇](../../characters/壇%20(char).md)<rt>ㄉㄚㄋ</rt></ruby> - altar
 66. <ruby>[壊](../../characters/壊.md)<rt>ㄏ⺢ㄧ</rt></ruby> - demolish
 67. <ruby>[壌](../../characters/壌.md)<rt>ㄋ⼘ㄫ</rt></ruby> - soil
+- 㙲 --> 壅
 
 ### +14 Strokes
 - 壓 --> traditional form of 圧
@@ -123,10 +136,14 @@ tags:
 
 ### +15 Strokes
 - 壘 --> traditional form of 塁
+- 壘 --> 塁
 
 ### +16 Strokes
 - 壞 --> traditional form of 壊
 - 壞 --> 壊
+
+### +17 Strokes
+- 壤 --> 壌
 
 ### Aliases
 - 圣 --> 聖

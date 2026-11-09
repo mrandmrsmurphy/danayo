@@ -32,7 +32,7 @@ stand_in: "夫"
 aliases:
   - 芙
 注音: "ㄈㄜ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-4-4-4](../lookup/SKIP/SKIP-4/SKIP-4-4-4.md) ([Stroke 04](../lookup/Stroke/Stroke%2004.md))
 - 34th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 非|f]] + [[Lookup/CC/finals/韻 虞|ɨo]] → [ㄈㄜ](../syllables/ㄈㄜ.md)
 - [Grade 4](../lookup/Grade%204.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 芙
+艹 + 夫, "lotus" (芙蓉); built on 夫 as phonetic and kept as an alias. SKIP 2-3-4; 8 strokes. Radical 140 艸. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[夫]]<rt>ㄈㄜ</rt></ruby> "man; husband; laborer" (stand-in for 夫 (char))

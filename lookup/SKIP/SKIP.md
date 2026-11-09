@@ -52,6 +52,7 @@ These are characters with a clear top-bottom dichotomy.  The following are the p
 17. none
 18. none
 19. [SKIP-2-19](lookup/SKIP/SKIP-2/SKIP-2-19.md)
+20. [SKIP-2-20](lookup/SKIP/SKIP-2/SKIP-2-20.md)
 
 ## First Number 3
 These are character where there is a "surround-er", a box or loop which does more than just hover above or to the left, but hems in the rest of the character on two-or-more sides.  Below are the number of strokes possible for the surrounding material:

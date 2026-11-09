@@ -133,6 +133,13 @@ tags:
 - 𣢘 --> 呻
 - 哑 --> 唖
 - 哗 --> 嘩
+- 垫 --> 墊
+- 垦 --> 墾
+- 亱 --> 夜
+- 奓 --> 奢
+- 奖 --> 奨
+- 姸 --> 妍
+- 玅 --> 妙
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

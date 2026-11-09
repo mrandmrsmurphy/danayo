@@ -38,6 +38,7 @@ tags: [lookup]
 - 浆 --> 将
 - 热 --> 熱
 - 栞 --> 刊
+- 盐 --> 塩
 
 ### Forbidden
 - 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.

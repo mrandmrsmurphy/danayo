@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +3 Strokes
 1. <ruby>[冬](../../characters/冬%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - winter
+- 冭 --> 太
 
 ### +4 Strokes
 - 冲 --> 沖

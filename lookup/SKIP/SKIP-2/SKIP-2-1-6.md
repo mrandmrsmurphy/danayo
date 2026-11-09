@@ -16,6 +16,9 @@ tags: [lookup]
 3. <ruby>[言](characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> "say"
 4. <ruby>[豆](characters/豆%20(char).md)<rt>ㄉㄛㄨ</rt></ruby> "bean"
 
+### Aliases
+- 𠀡 --> 天
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

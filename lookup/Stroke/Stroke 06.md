@@ -113,6 +113,14 @@ tags:
 - 乔 --> 喬
 - 吓 --> 嚇
 - 阪 --> 坂
+- 圩 --> 墟
+- 𠀘 --> 天
+- 𠑺 --> 天
+- 兲 --> 天
+- 𠕹 --> 天
+- 㕦 --> 天
+- 㚐 --> 套
+- 夺 --> 奪
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

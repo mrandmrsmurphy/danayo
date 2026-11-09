@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +4 Strokes
 - 玅 --> variant of 妙
+- 玅 --> 妙
 
 ### +5 Strokes
 2. <ruby>[玆](../../characters/玆.md)<rt>ㄐㄜ</rt></ruby> - here

@@ -56,6 +56,7 @@ Radical 1 is 一, the number one.
 - 㐀 --> ancient variant of 丘 
 - 丗 --> 世
 - 丛 --> 叢
+- 𠀑 --> 天
 
 ### +5 Strokes
 18. <ruby>[丞](../../characters/丞.md)<rt>ㄙㄜㄫ</rt></ruby> - rescue
@@ -64,6 +65,7 @@ Radical 1 is 一, the number one.
 - 丠 --> ancient variant of 丘 and 冀
 * ¡丟/丢! - **違法字** - HSK/1 but not internationally known.  Means "to lose, to reject".
 - 𠀚 --> 不
+- 𠀘 --> 天
 
 ### +6 Strokes
 - 丣 --> ancient variant of 酉 and 卯
@@ -73,6 +75,7 @@ Radical 1 is 一, the number one.
 - 鿖 --> ancient contraction
 - 𠀡 --> ancient variant of 天
 - 𠀧 --> V variant of 三
+- 𠀡 --> 天
 
 ### +7 Strokes
 20. <ruby>[並](../../characters/並%20(char).md)<rt>ㄅㄝㄫ</rt></ruby> - side-by-side

@@ -238,6 +238,7 @@ tags: [lookup]
 - 樊 --> 藩
 - 樣 --> 様
 - 樓 --> 楼
+- 橢 --> 堕
 
 ### +12 Strokes
 143. <ruby>[樹](../../characters/樹.md)<rt>ㄙㄨ</rt></ruby> - plant

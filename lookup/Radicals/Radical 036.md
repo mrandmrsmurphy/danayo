@@ -16,6 +16,7 @@ tags: [lookup]
 ### +2 Strokes
 2. <ruby>[外](../../characters/外.md)<rt>⺢ㄧ</rt></ruby> - outside
 3. <ruby>[夗](../../characters/夗.md)<rt>⼄ㄋ</rt></ruby> - to turn over when asleep
+- 夘 --> 夗
 
 ### +3 Strokes
 4. <ruby>[多](../../characters/多%20(char).md)<rt>ㄉㄜ</rt></ruby> - many

@@ -31,7 +31,7 @@ stand_in: 夜
 aliases:
   - 亱
 注音: ⼘
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 65
 - [SKIP-2-2-6](../lookup/SKIP/SKIP-2/SKIP-2-2-6.md) ([Stroke 08](../lookup/Stroke/Stroke%2008.md))
 - 510th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 麻三開|ia]] → [⼘](../syllables/⼘.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 亱
+A variant form of 夜, "night". SKIP 2-2-7 (computed: EDRDG does not list it); 9 strokes. Radical 008 亠. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[夜]]<rt>⼘</rt></ruby> "night" (stand-in for 夜)

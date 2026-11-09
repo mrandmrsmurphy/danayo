@@ -15,6 +15,7 @@ tags:
 
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
+- 芙 --> 夫
 
 ### +3 Strokes
 2. <ruby>[芋](../../characters/芋.md)<rt>ㄨ</rt></ruby> - taro
@@ -35,6 +36,7 @@ tags:
 13. <ruby>[芸](../../characters/芸.md)<rt>ㄝ</rt></ruby> - skill
 14. <ruby>[芼](../../characters/芼.md)<rt>ㄇㄚㄨ</rt></ruby> - cook
 15. <ruby>[芹](../../characters/芹.md)<rt>ㄍㄧㄋ</rt></ruby> - celery
+- 䒶 --> 天
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
@@ -86,6 +88,7 @@ tags:
 - 蒦 --> 獲
 - 蔭 --> 陰
 - 营 --> 営
+- 𦴞 --> 天
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only
@@ -101,6 +104,7 @@ tags:
 59. <ruby>[萎](../../characters/萎.md)<rt>⼔ㄧ</rt></ruby> - wither
 - 蓝 --> 藍
 - 蔘 --> 参
+- 蔅 --> 妍
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn

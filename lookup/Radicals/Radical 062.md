@@ -40,6 +40,7 @@ tags: [lookup]
 
 ### +9 Strokes
 12. <ruby>[戦](../../characters/戦.md)<rt>ㄐㄝㄋ</rt></ruby> - war
+- 戠 --> 埴
 
 ### +10 Strokes
 13. <ruby>[截](../../characters/截.md)<rt>ㄐㄛㄊ</rt></ruby> - cut off

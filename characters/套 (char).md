@@ -25,7 +25,7 @@ joyo_level: "日本人名用漢字"
 hsk_level: "2"
 hanmun_edu_level: "名"
 danayo_id: 7102
-mc_id: 0
+mc_id:
 graphemic_classification: "会意"
 stand_in: "套"
 aliases:
@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 100
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 套.
 >For the word, see [套](../words/套.md)
@@ -50,6 +50,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-7](../lookup/SKIP/SKIP-2/SKIP-2-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [ㄊㄛㄨ](../syllables/ㄊㄛㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
+
+## Aliases
+
+### 㚐
+A rare variant form of 套; Wiktionary gives no definition. SKIP 2-3-3 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 𡘷
+A rare variant form of 套; Wiktionary gives no definition. SKIP 2-3-8 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[套]]<rt>ㄊㄛㄨ</rt></ruby> "covering; case" (stand-in for 套)

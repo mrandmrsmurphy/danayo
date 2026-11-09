@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 弎 --> 参
 - 弍 --> 二
+- 弌 --> 壱
 
 ## Data check
 ```dataview

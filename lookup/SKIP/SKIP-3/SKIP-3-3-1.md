@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### Aliases
 - 𠀇 --> 且
+- 弌 --> 壱
 
 ### Forbidden
 - 辷 - 国字: 'to glide, skate, slip' (すべる)

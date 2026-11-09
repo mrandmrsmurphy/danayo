@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 填.
 >For the word, see [填](../words/填.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-10](../lookup/SKIP/SKIP-1/SKIP-1-3-10.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 2019th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 先開|en]] → [ㄉㄝㄋ](../syllables/ㄉㄝㄋ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄷ](../lookup/Korean/Korean%20Name%20ㄷ.md)
+
+## Aliases
+
+### 塡
+A variant form of 填, "to fill in". SKIP 1-3-10; 13 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[填]]<rt>ㄉㄝㄋ</rt></ruby> "fill in; make good on" (stand-in for 填)

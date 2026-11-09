@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 50
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 奥.
 >For the word, see [奥](../words/奥.md)
@@ -48,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-9-3](../lookup/SKIP/SKIP-2/SKIP-2-9-3.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 2369th most used character in Classical Chinese (recorded in the corpus under its traditional form 奧). Ancient [[Lookup/CC/initials/聲 影|ʔ]] + [[Lookup/CC/finals/韻 屋三|ɨuk]] → [ㄨㄎ](../syllables/ㄨㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 奧
+Traditional form (kyūjitai) of 奥, "inner, depths". SKIP 2-10-3; 13 strokes. It ranks 2369 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 澳
+氵 + 奧, "bay, inlet"; built on 奧 as phonetic and kept as an alias. SKIP 1-3-13; 15 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[奥]]<rt>ㄨㄎ</rt></ruby> "deep" (stand-in for 奥)

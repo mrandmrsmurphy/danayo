@@ -54,6 +54,7 @@ tags:
 - 灾 --> 災
 - 吳 --> 呉
 - 吴 --> 呉
+- 芙 --> 夫
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

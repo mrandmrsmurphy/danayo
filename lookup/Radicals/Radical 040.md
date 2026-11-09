@@ -54,6 +54,7 @@ tags:
 24. <ruby>[宵](../../characters/宵.md)<rt>ㄙ⼄ㄨ</rt></ruby> - night
 25. <ruby>[家](../../characters/家.md)<rt>ㄍㄚ</rt></ruby> - house
 26. <ruby>[容](../../characters/容%20(char).md)<rt>⼄ㄫ</rt></ruby> - look
+- 𡨄 --> 塞
 
 ### +8 Strokes
 27. <ruby>[宿](../../characters/宿.md)<rt>ㄙㄨㄎ</rt></ruby> - lodging

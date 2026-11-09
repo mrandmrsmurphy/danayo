@@ -51,6 +51,7 @@ tags:
 - 菠 --> 波
 - 𬜯 --> 㒼
 - 寃 --> 冤
+- 𡘷 --> 套
 
 ### Forbidden
 - 萙 - 国字: 国字 (艹 + 枕, 'grass' + 'pillow') for 'very tired'

@@ -130,6 +130,7 @@ tags: [lookup]
 - 𣴠 --> 活
 - 浆 --> 将
 - ¡㳲! - 違法字
+- 涂 --> 塗
 
 ### +7 Strokes
 83. <ruby>[涯](../../characters/涯%20(char).md)<rt>⼘ㄧ</rt></ruby> - horizon
@@ -249,6 +250,7 @@ tags: [lookup]
 - 漿 --> 将
 - ¡㵜! - 違法字
 - 𣽣 --> 港
+- 澳 --> 奥
 
 ### +12 Strokes
 162. <ruby>[澪](../../characters/澪.md)<rt>ㄌㄝㄫ</rt></ruby> - waterway

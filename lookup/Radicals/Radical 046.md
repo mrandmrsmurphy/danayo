@@ -41,6 +41,7 @@ tags: [lookup]
 16. <ruby>[崙](../../characters/崙.md)<rt>ㄌㄛㄋ</rt></ruby> - Lun
 17. <ruby>[崩](../../characters/崩%20(char).md)<rt>ㄅㄨㄫ</rt></ruby> - crumble
 - 崎 --> 区
+- 崎 --> 埼
 
 ### +9 Strokes
 18. <ruby>[嵌](../../characters/嵌.md)<rt>ㄎㄚㄇ</rt></ruby> - inlay
@@ -48,6 +49,7 @@ tags: [lookup]
 20. <ruby>[崴](../../characters/崴.md)<rt>⺢ㄧ</rt></ruby> - bend in a mountain or river
 - 嵒 --> 岩
 - 嵯 --> 差
+- 嵜 --> 埼
 
 ### +10 Strokes
 21. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high

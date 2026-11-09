@@ -379,3 +379,38 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 坦 | 憻 | 1-3-13 | computed from its parts |
 | 垢 | 坸 | 1-3-5 | computed from its parts |
 | 垢 | 𡊦 | 1-3-5 | computed from its parts |
+| 埠 | 埗 | 1-3-7 | computed from its parts |
+| 塔 (char) | 㙮 | 1-3-12 | computed from its parts |
+| 塔 (char) | 𩫊 | 1-10-5 | computed from its parts |
+| 塞 | 𡨄 | 2-3-7 | computed from its parts |
+| 塩 (char) | 盐 | 2-6-4 | computed from its parts |
+| 墊 (char) | 垫 | 1-3-6 | computed from its parts |
+| 墜 | 坠 | 2-4-3 | computed from its parts |
+| 墳 | 坟 | 1-3-4 | computed from its parts |
+| 墾 | 垦 | 2-6-3 | computed from its parts |
+| 壅 (char) | 㙲 | 1-3-13 | computed from its parts |
+| 壇 (char) | 坛 | 1-3-4 | computed from its parts |
+| 壷 (char) | 壶 | 2-3-7 | computed from its parts |
+| 夜 (char) | 亱 | 2-2-7 | computed from its parts |
+| 大 (char) | 亣 | 4-4-1 | computed from its parts |
+| 天 (char) | 𠀘 | 2-1-5 | computed from its parts |
+| 天 (char) | 𠀡 | 2-1-6 | computed from its parts |
+| 天 (char) | 𠑺 | 2-2-4 | computed from its parts |
+| 天 (char) | 兲 | 2-2-4 | computed from its parts |
+| 天 (char) | 𠕹 | 2-2-4 | computed from its parts |
+| 天 (char) | 㕦 | 1-3-3 | computed from its parts |
+| 天 (char) | 䒶 | 2-3-7 | computed from its parts |
+| 天 (char) | 𦴞 | 2-3-10 | computed from its parts |
+| 天 (char) | 𩇗 | 2-8-4 | computed from its parts |
+| 天 (char) | 𩇞 | 2-8-8 | computed from its parts |
+| 天 (char) | 靝 | 1-8-10 | computed from its parts |
+| 天 (char) | 靔 | 1-8-4 | computed from its parts |
+| 天 (char) | 𠀑 | 2-1-4 | computed from its parts |
+| 套 (char) | 㚐 | 2-3-3 | computed from its parts |
+| 套 (char) | 𡘷 | 2-3-8 | computed from its parts |
+| 奨 | 奖 | 2-6-3 | computed from its parts |
+| 奨 | 㢡 | 2-3-11 | computed from its parts |
+| 奪 | 夺 | 2-3-3 | computed from its parts |
+| 奴 | 㚢 | 1-3-2 | computed from its parts |
+| 妍 | 姸 | 1-3-6 | computed from its parts |
+| 妍 | 蔅 | 2-3-11 | computed from its parts |

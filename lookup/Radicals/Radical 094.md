@@ -85,6 +85,9 @@ tags:
 - 狱 --> simplified of 獄
 - 獃 --> 呆
 
+### +11 Strokes
+- 獎 --> 奨
+
 ### +12 Strokes
 28. <ruby>[獣](../../characters/獣.md)<rt>ㄙ⼜</rt></ruby> - animal
 - 獸 --> traditional form of 獣
