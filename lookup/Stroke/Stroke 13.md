@@ -140,6 +140,9 @@ tags:
 - 椹 --> 砧
 - 瑳 --> 磋
 - 禀 --> 稟
+- 窥 --> 窺
+- 筩 --> 筒
+- 筱 --> 篠
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

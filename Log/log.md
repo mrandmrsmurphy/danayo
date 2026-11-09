@@ -4,6 +4,10 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **Loop batch 85 (alias protocol), next twelve oldest characters with aliases:** 箏, 篠, 篤, 簞, 簫, 簾, 籃, 籠, 粋, 粘, 粛, 粟 processed. Gained `## Aliases` (筝; 筱; 笃; 箪; 箫 and 簘; 帘; 篮; 笼; 粹; 黏; 肅 and 肃), with redirects and computed SKIP numbers in the guess list; no `mc_id` changed. Per the 2026-11-09 decision, dropped the definition-less 𥴽 and 𥭪 (篠), 箾 (簫) and 𥻆 (粟) from `aliases:`; 粟 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
+- **Loop batch 84 (alias protocol), next twelve oldest characters with aliases:** 窮, 窯, 窺, 竃, 竄, 站, 竦, 筆, 筈, 筍, 筒, 箋 gained their first `## Aliases` section (穷; 窑 and 窰; 窥 and 闚; 竈 and 灶; 窜, 䞼, 窾, 躥, 篡 and 簒; 跕; 聳 and 捒; 笔; 栝; 笋 and 荀; 筩; 笺), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` 竃 now 2145 from 灶, 竄 now 1674 from 篡, 筈 now 3867 from 栝 and 筍 now 1411 from 荀. No definition-less forms needed dropping. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
+
 - **Loop batch 83 (alias protocol), next twelve oldest characters with aliases:** 禿, 秦, 稗, 稜, 稟, 稲, 稽, 穂, 穏, 穣, 窃, 窩 processed. Gained `## Aliases` (秃, 秂 and 痜; 榛; 粺; 棱; 禀; 稻; 穗; 穩; 穰; 竊; 窝), with redirects and computed SKIP numbers in the guess list, and `mc_id` 稜 now 3506 from 棱 (稗 and 窩 stay blank, no rank found). Per the 2026-11-09 decision, dropped the definition-less 𣬜 (禿) and 𥡴 (稽) from `aliases:`; 稽 now has none. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 82 (alias protocol), next twelve oldest characters with aliases:** 磋, 磐, 磚, 磨, 磯, 祀, 祢, 祷, 禅, 禍, 禎, 禽 gained their first `## Aliases` section (瑳; 䃑; 砖, 塼 and 甎; 摩; 矶; 禩; 禰; 禱; 禪; 祸; 祯; 檎), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` 磨 now 2356 from 摩. Per the 2026-11-09 decision, dropped the definition-less 磗 from 磚's `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

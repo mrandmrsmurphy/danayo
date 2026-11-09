@@ -548,3 +548,17 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 禎 | 祯 | 1-4-5 | computed from its parts |
 | 禿 (char) | 秃 | 2-5-2 | computed from its parts |
 | 窩 | 窝 | 2-3-9 | computed from its parts |
+| 窮 | 穷 | 2-3-4 | computed from its parts |
+| 窺 (char) | 窥 | 2-5-8 | computed from its parts |
+| 竄 | 窜 | 2-5-7 | computed from its parts |
+| 竄 | 䞼 | 1-7-9 | computed from its parts |
+| 竄 | 窾 | 2-5-12 | computed from its parts |
+| 竄 | 躥 | 1-7-18 | computed from its parts |
+| 竄 | 篡 | 2-6-10 | computed from its parts |
+| 箋 | 笺 | 2-6-5 | computed from its parts |
+| 篤 | 笃 | 2-6-5 | computed from its parts |
+| 簫 | 箫 | 2-6-8 | computed from its parts |
+| 簫 | 簘 | 2-6-12 | computed from its parts |
+| 籃 | 篮 | 2-6-10 | computed from its parts |
+| 籠 (char) | 笼 | 2-6-5 | computed from its parts |
+| 粛 | 肃 | 4-8-1 | computed from its parts |

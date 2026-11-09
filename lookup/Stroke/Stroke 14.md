@@ -160,6 +160,9 @@ tags:
 - 碪 --> 砧
 - 塼 --> 磚
 - 粺 --> 稗
+- 箪 --> 簞
+- 箫 --> 簫
+- 粹 --> 粋
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

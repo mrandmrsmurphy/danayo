@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 䵘 --> 晒
+- 黏 --> 粘
 
 ## Data check
 ```dataview

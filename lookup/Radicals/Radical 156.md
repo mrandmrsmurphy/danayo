@@ -30,6 +30,9 @@ tags: [lookup]
 ### +8 Strokes
 8. <ruby>[趣](../../characters/趣.md)<rt>ㄑㄨ</rt></ruby> - interest
 
+### +9 Strokes
+- 䞼 --> 竄
+
 ### +10 Strokes
 9. <ruby>[趨](../../characters/趨%20(char).md)<rt>ㄑㄨ</rt></ruby> - hasten
 

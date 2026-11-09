@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 窯.
 >For the word, see [窯](../words/窯.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-12](../lookup/SKIP/SKIP-2/SKIP-2-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 6273rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 宵A|iᴇu]] → [⼄ㄨ](../syllables/⼄ㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 窑
+The Chinese simplified form of 窯, "kiln". SKIP 2-3-8; 11 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 窰
+An alternative form of 窯, "kiln". SKIP 2-3-12; 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[窯]]<rt>⼄ㄨ</rt></ruby> "kiln" (stand-in for 窯)

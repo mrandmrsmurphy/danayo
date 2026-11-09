@@ -22,6 +22,8 @@ tags:
 ### +4 Strokes
 4. <ruby>[笑](../../characters/笑%20(char).md)<rt>ㄙ⼄ㄨ</rt></ruby> - laugh
 - 笆 --> 巴
+- 笔 --> 筆
+- 笋 --> 筍
 
 ### +5 Strokes
 5. <ruby>[笙](../../characters/笙.md)<rt>ㄙㄚㄫ</rt></ruby> - sheng
@@ -30,6 +32,9 @@ tags:
 8. <ruby>[符](../../characters/符.md)<rt>ㄅㄨ</rt></ruby> - token
 9. <ruby>[第](../../characters/第%20(char).md)<rt>ㄉㄝㄧ</rt></ruby> - -th
 10. <ruby>[笭](../../characters/笭.md)<rt>ㄌ⼶ㄫ</rt></ruby> - bamboo screen
+- 笺 --> 箋
+- 笃 --> 篤
+- 笼 --> 籠
 
 ### +6 Strokes
 11. <ruby>[筆](../../characters/筆%20(char).md)<rt>ㄆㄨㄊ</rt></ruby> - pen
@@ -41,10 +46,13 @@ tags:
 17. <ruby>[筒](../../characters/筒%20(char).md)<rt>ㄉㄛㄫ</rt></ruby> - cylinder
 18. <ruby>[答](../../characters/答%20(char).md)<rt>ㄉㄚㄆ</rt></ruby> - answer
 19. <ruby>[策](../../characters/策.md)<rt>ㄑㄚㄎ</rt></ruby> - scheme
+- 筝 --> 箏
 
 ### +7 Strokes
 20. <ruby>[節](../../characters/節%20(char).md)<rt>ㄐㄝㄊ</rt></ruby> - node
 - 简 --> 簡
+- 筩 --> 筒
+- 筱 --> 篠
 
 ### +8 Strokes
 21. <ruby>[箋](../../characters/箋.md)<rt>ㄐㄝㄋ</rt></ruby> - memo
@@ -54,6 +62,8 @@ tags:
 25. <ruby>[算](../../characters/算%20(char).md)<rt>ㄙ⺢ㄋ</rt></ruby> - calculate
 26. <ruby>[管](../../characters/管.md)<rt>ㄍ⺢ㄋ</rt></ruby> - pipe
 - 箒 --> 帚
+- 箪 --> 簞
+- 箫 --> 簫
 
 ### +9 Strokes
 27. <ruby>[箭](../../characters/箭.md)<rt>ㄐㄝㄋ</rt></ruby> - arrow
@@ -66,10 +76,14 @@ tags:
 ### +10 Strokes
 33. <ruby>[築](../../characters/築.md)<rt>ㄐㄨㄎ</rt></ruby> - fabricate
 34. <ruby>[篤](../../characters/篤.md)<rt>ㄉㄛㄎ</rt></ruby> - sincere
+- 篡 --> 竄
+- 篮 --> 籃
 
 ### +11 Strokes
 35. <ruby>[篠](../../characters/篠.md)<rt>ㄙㄛㄨ</rt></ruby> - dwarf bamboo
 - 簧 --> 黄
+- 簒 --> 竄
+- 簘 --> 簫
 
 ### +12 Strokes
 36. <ruby>[簞](../../characters/簞.md)<rt>ㄉㄚㄋ</rt></ruby> - bamboo basket

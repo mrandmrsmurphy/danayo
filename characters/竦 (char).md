@@ -37,7 +37,7 @@ kwin: true
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 竦.
 >For the word, see [竦](../words/竦.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-5-7](../lookup/SKIP/SKIP-1/SKIP-1-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - Ancient [[Lookup/CC/initials/聲 心|s]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙㄛㄫ](../syllables/ㄙㄛㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅅ](../lookup/Korean/Korean%20Name%20ㅅ.md)
+
+## Aliases
+
+### 聳
+"To urge on; deaf"; a variant of 竦 and kept as an alias. SKIP 2-11-6; 17 strokes. Radical 128 耳. It ranks 3981 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 捒
+扌 + 束, "to arrange, to pack"; built on 束, the phonetic of 竦, and kept as an alias. SKIP 1-3-7; 10 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[竦]]<rt>ㄙㄛㄫ</rt></ruby> "awe" (stand-in for 竦)

@@ -20,6 +20,7 @@ tags: [lookup]
 ### Aliases
 - 當 --> 当
 - 睪 --> 睾
+- 窥 --> 窺
 
 ### Forbidden
 - 罩 - 官话: HSK/3.

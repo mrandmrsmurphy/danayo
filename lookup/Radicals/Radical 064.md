@@ -119,6 +119,7 @@ tags: [lookup]
 - 挾 --> 挟
 - 损 --> 損
 - 挚 --> 摯
+- 捒 --> 竦
 
 ### +7 Strokes
 68. <ruby>[捧](../../characters/捧%20(char).md)<rt>ㄆㄛㄫ</rt></ruby> - hold up in two hands

@@ -30,7 +30,7 @@ stand_in: 筆
 aliases:
   - 笔
 注音: ㄆㄨㄊ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -49,6 +49,11 @@ boundedness: 80
 - 2106th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 幫|p]] + [[Lookup/CC/finals/韻 質開|ɣiɪt]] → [ㄆㄨㄊ](../syllables/ㄆㄨㄊ.md)
 - [Grade 1](../lookup/Grade%201.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 - Altered to take advantage of a vacant syllable.
+
+## Aliases
+
+### 笔
+The Chinese simplified form of 筆, "brush, pen". SKIP 2-6-4; 10 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[筆]]<rt>ㄆㄨㄊ</rt></ruby> "pen; stylus" (stand-in for 筆)

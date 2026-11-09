@@ -15,6 +15,7 @@ tags: [lookup]
 ### Aliases
 - 兩 --> 両
 - 亞 --> 亜
+- 肃 --> 粛
 
 ## Datacheck
 ```dataview

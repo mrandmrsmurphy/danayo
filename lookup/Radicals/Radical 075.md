@@ -159,6 +159,7 @@ tags: [lookup]
 - 栢 --> 柏
 - 栖 --> 棲
 - 桦 --> 樺
+- 栝 --> 筈
 
 ### +7 Strokes
 82. <ruby>[桶](../../characters/桶%20(char).md)<rt>ㄊㄛㄫ</rt></ruby> - pail

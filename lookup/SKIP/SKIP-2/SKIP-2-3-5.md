@@ -66,6 +66,7 @@ tags:
 - 㤅 --> 忌
 - 㤁 --> 忝
 - 壳 --> 殻
+- 帘 --> 簾
 
 ### Forbidden
 - 㕾 - 국자: Korean-coined hanja for '솟' (proto-Hangǔl); a personal name

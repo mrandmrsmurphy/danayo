@@ -34,7 +34,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 窺.
 >For the word, see [窺](../words/窺.md)
@@ -48,6 +48,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-13](Lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](Lookup/Stroke/Stroke%2016.md))
 - 2133rd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 支三合|iuᴇ]] → [ㄎㄨㄧ](../syllables/ㄎㄨㄧ.md)
 - [Grade Advanced](Lookup/Grade%20Advanced.md), [HSK No](Lookup/HSK/HSK%20No.md), [Jinmeiyō](Lookup/Japanese/Jinmeiyō.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 窥
+Simplified Chinese form of 窺. SKIP 2-5-8 (computed: EDRDG does not list it); 13 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 闚
+A variant form of 窺, "to peep" (also "flash"). SKIP 3-8-10; 19 strokes. Radical 169 門. It ranks 2836 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[窺]]<rt>ㄎㄨㄧ</rt></ruby> "spy on" (stand-in for 窺)

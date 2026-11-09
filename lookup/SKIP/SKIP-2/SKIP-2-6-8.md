@@ -24,6 +24,7 @@ tags: [lookup]
 ### Aliases
 - 箇 --> 個
 - 箒 --> 帚
+- 箫 --> 簫
 
 ## Datacheck
 ```dataview

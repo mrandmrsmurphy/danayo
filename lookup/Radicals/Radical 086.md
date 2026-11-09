@@ -27,6 +27,7 @@ tags: [lookup]
 6. <ruby>[災](../../characters/災.md)<rt>ㄐㄚㄧ</rt></ruby> - disaster
 - 灿 --> 燦
 - 灾 --> 災
+- 灶 --> 竃
 
 ### +4 Strokes
 7. <ruby>[炉](../../characters/炉.md)<rt>ㄌㄛ</rt></ruby> - stove

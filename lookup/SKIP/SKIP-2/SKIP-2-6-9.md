@@ -19,6 +19,9 @@ tags: [lookup]
 7. <ruby>[葩](/characters/葩.md)<rt>ㄆㄚ</rt></ruby> "flower; beautiful"
 8. <ruby>[蝎](characters/蝎%20(char).md)<rt>ㄏ⼶ㄊ</rt></ruby> "scorpion"
 
+### Aliases
+- 箪 --> 簞
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

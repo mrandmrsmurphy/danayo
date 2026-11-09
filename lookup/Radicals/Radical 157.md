@@ -23,6 +23,7 @@ tags:
 5. <ruby>[距](../../characters/距.md)<rt>ㄍ⼄</rt></ruby> - long-distance
 6. <ruby>[跋](../../characters/跋.md)<rt>ㄅㄚㄊ</rt></ruby> - stride
 - 跏 --> 加
+- 跕 --> 站
 
 ### +6 Strokes
 7. <ruby>[跡](../../characters/跡.md)<rt>ㄐㄝㄎ</rt></ruby> - tracks
@@ -58,6 +59,9 @@ tags:
 ### +14 Strokes
 23. <ruby>[躍](../../characters/躍.md)<rt>⼘ㄎ</rt></ruby> - leap
 - 躊 --> 寿
+
+### +18 Strokes
+- 躥 --> 竄
 
 ### Forbidden
 - 跟 - 中国制造: HSK/1, Use 踵 instead

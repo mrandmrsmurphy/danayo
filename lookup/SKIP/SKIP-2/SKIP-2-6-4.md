@@ -42,6 +42,8 @@ tags: [lookup]
 - 笆 --> 巴
 - 虑 --> 慮
 - 挚 --> 摯
+- 笔 --> 筆
+- 笋 --> 筍
 
 ### Forbidden
 - 恷 - 幽霊文字: "Sometimes a mistake for 烋 or 恘" (per the wiki's own note) -- likely a ghost/scribal-error character. No existing vault citations.

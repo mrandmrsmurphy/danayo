@@ -39,6 +39,7 @@ tags: [lookup]
 - 綜 --> 総
 - 綸 --> 倫
 - 粺 --> 稗
+- 粹 --> 粋
 
 ## Datacheck
 ```dataview

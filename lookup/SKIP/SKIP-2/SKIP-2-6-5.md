@@ -39,6 +39,9 @@ tags: [lookup]
 - 帶 --> 帯
 - 晝 --> 昼
 - 盘 --> 盤
+- 笺 --> 箋
+- 笃 --> 篤
+- 笼 --> 籠
 
 ## Datacheck
 ```dataview

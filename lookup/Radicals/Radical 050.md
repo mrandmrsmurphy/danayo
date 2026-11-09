@@ -33,6 +33,7 @@ tags:
 7. <ruby>[帛](../../characters/帛.md)<rt>ㄅㄚㄎ</rt></ruby> - silk
 8. <ruby>[帖](../../characters/帖%20(char).md)<rt>ㄊㄛㄆ</rt></ruby> - invitation
 - 帜 --> 幟
+- 帘 --> 簾
 
 ### +6 Strokes
 9. <ruby>[帝](../../characters/帝.md)<rt>ㄊㄝㄧ</rt></ruby> - emperor

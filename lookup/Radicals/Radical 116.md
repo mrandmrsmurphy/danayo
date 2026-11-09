@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +2 Strokes
 2. <ruby>[究](../../characters/究.md)<rt>ㄍ⼜</rt></ruby> - research
+- 穷 --> 窮
 
 ### +3 Strokes
 3. <ruby>[空](../../characters/空%20(char).md)<rt>ㄎㄛㄫ</rt></ruby> - empty
@@ -34,13 +35,16 @@ tags: [lookup]
 11. <ruby>[窒](../../characters/窒.md)<rt>ㄉㄝㄊ</rt></ruby> - suffocate
 12. <ruby>[窓](../../characters/窓.md)<rt>ㄑ⺢ㄫ</rt></ruby> - window
 13. <ruby>[窕](../../characters/窕.md)<rt>ㄉㄛㄨ</rt></ruby> - elegant
+- 窑 --> 窯
 
 ### +7 Strokes
 - 窗 --> 窓
 - 窝 --> 窩
+- 窜 --> 竄
 
 ### +8 Strokes
 14. <ruby>[窟](../../characters/窟%20(char).md)<rt>ㄎㄛㄊ</rt></ruby> - cavern
+- 窥 --> 窺
 
 ### +9 Strokes
 15. <ruby>[窩](../../characters/窩.md)<rt>ㄍ⺢</rt></ruby> - fossa
@@ -49,6 +53,7 @@ tags: [lookup]
 ### +10 Strokes
 17. <ruby>[窮](../../characters/窮.md)<rt>ㄍㄨㄫ</rt></ruby> - poverty
 18. <ruby>[窯](../../characters/窯%20(char).md)<rt>⼄ㄨ</rt></ruby> - kiln
+- 窰 --> 窯
 
 ### +11 Strokes
 19. <ruby>[窺](../../characters/窺%20(char).md)<rt>ㄎㄨㄧ</rt></ruby> - spy on
@@ -57,9 +62,13 @@ tags: [lookup]
 
 ### +12 Strokes
 20. <ruby>[竃](../../characters/竃.md)<rt>ㄐ⺢</rt></ruby> - kitchen stove
+- 窾 --> 竄
 
 ### +13 Strokes
 21. <ruby>[竄](../../characters/竄.md)<rt>ㄑㄚㄋ</rt></ruby> - flee
+
+### +16 Strokes
+- 竈 --> 竃
 
 ### +17 Strokes
 - 竊 --> 窃

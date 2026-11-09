@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 粘.
 >For the word, see [粘](../words/粘.md)
@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-6-5](../lookup/SKIP/SKIP-1/SKIP-1-6-5.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 8493rd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 娘|ɳ]] + [[Lookup/CC/finals/韻 鹽B三|ɣiᴇm]] → [ㄋㄝㄇ](../syllables/ㄋㄝㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 黏
+黍 + 占, "sticky"; a variant of 粘 and kept as an alias. SKIP 1-12-5; 17 strokes. Radical 202 黍. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[粘]]<rt>ㄋㄝㄇ</rt></ruby> "sticky" (stand-in for 粘)

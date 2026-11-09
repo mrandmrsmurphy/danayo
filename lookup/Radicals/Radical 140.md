@@ -43,6 +43,7 @@ tags:
 15. <ruby>[芹](../../characters/芹.md)<rt>ㄍㄧㄋ</rt></ruby> - celery
 - 茲 --> 玆
 - 莞 --> 玩
+- 荀 --> 筍
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water

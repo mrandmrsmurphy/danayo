@@ -139,6 +139,7 @@ tags:
 - 摩 --> 磨
 - 禩 --> 祀
 - 稻 --> 稲
+- 窰 --> 窯
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

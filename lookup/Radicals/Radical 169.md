@@ -66,6 +66,9 @@ tags: [lookup]
 19. <ruby>[闕](../../characters/闕.md)<rt>ㄎ⺢ㄊ</rt></ruby> - imperial palace
 20. <ruby>[闘](../../characters/闘.md)<rt>ㄉㄛㄨ</rt></ruby> - fight
 
+### +11 Strokes
+- 闚 --> 窺
+
 ### +12 Strokes
 21. <ruby>[闡](../../characters/闡.md)<rt>ㄑㄝㄋ</rt></ruby> - clarify
 

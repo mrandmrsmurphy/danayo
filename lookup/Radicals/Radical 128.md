@@ -41,6 +41,7 @@ tags: [lookup]
 
 ### +11 Strokes
 12. <ruby>[聴](../../characters/聴%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - listen
+- 聳 --> 竦
 
 ### +12 Strokes
 13. <ruby>[職](../../characters/職.md)<rt>ㄐㄧㄎ</rt></ruby> - duty
