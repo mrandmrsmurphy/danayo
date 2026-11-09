@@ -23,6 +23,9 @@ tags: [lookup]
 - 𫏮 - 国字: 'to topple'
 - 軅 - 国字: やがて ("soon, before long").
 
+### Aliases
+- 躭 --> 耽
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

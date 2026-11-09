@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +3 Strokes
 - 疡 --> 瘍
+- 疘 --> 肛
 
 ### +4 Strokes
 1. <ruby>[疫](../../characters/疫.md)<rt>⼶ㄎ</rt></ruby> - pestilence

@@ -49,6 +49,14 @@ boundedness: 60
 - 282nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 透|tʰ]] + [[Lookup/CC/finals/韻 青開|eŋ]] → [ㄑㄝㄫ](../syllables/ㄑㄝㄫ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 聽
+Traditional form (kyūjitai) of 聴, "to listen". SKIP 1-6-16 (computed: EDRDG does not list it); 22 strokes. It ranks 282 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 听
+The Chinese form of 聽 (and an obsolete form meaning "laughing"). SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[聴]]<rt>ㄑㄝㄫ</rt></ruby> "listen" (stand-in for 聴)
 - <ruby>[[聴衆]]<rt>ㄑㄝㄫㄐㄨㄫ</rt></ruby> "audience"

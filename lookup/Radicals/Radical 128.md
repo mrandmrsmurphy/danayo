@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### +3 Strokes
 3. <ruby>[耶](../../characters/耶%20(char).md)<rt>⼶</rt></ruby> - yes? mm?
+- 耷 --> 耴
 
 ### +4 Strokes
 4. <ruby>[耽](../../characters/耽%20(char).md)<rt>ㄉㄛㄇ</rt></ruby> - indulge in
@@ -25,6 +26,7 @@ tags: [lookup]
 
 ### +5 Strokes
 5. <ruby>[聊](../../characters/聊%20(char).md)<rt>ㄌ⼘ㄨ</rt></ruby> - chat
+- 聋 --> 聾
 
 ### +6 Strokes
 6. <ruby>[聒](../../characters/聒.md)<rt>ㄍ⺢ㄆ</rt></ruby> - noisy
@@ -39,15 +41,21 @@ tags: [lookup]
 11. <ruby>[聡](../../characters/聡.md)<rt>ㄑㄛㄫ</rt></ruby> - clever
 - 聟 --> 婿
 
+### +9 Strokes
+- 聪 --> 聡
+
 ### +11 Strokes
 12. <ruby>[聴](../../characters/聴%20(char).md)<rt>ㄑㄝㄫ</rt></ruby> - listen
 - 聳 --> 竦
+- 聰 --> 聡
 
 ### +12 Strokes
 13. <ruby>[職](../../characters/職.md)<rt>ㄐㄧㄎ</rt></ruby> - duty
 
 ### +16 Strokes
 14. <ruby>[聾](../../characters/聾.md)<rt>ㄌㄛㄫ</rt></ruby> - deaf
+- 聽 --> 聴
+- 䏊 --> 聾
 
 ### Aliases
 - 聲 --> 声

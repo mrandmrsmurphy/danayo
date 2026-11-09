@@ -184,6 +184,10 @@ tags:
 - 䋄 --> 網
 - 绣 --> 繍
 - 缻 --> 缶
+- 罢 --> 罷
+- 猐 --> 羌
+- 翆 --> 翠
+- 娉 --> 聘
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -36,6 +36,7 @@ tags: [lookup]
 - 奖 --> 奨
 - 巺 --> 巽
 - 骂 --> 罵
+- 羗 --> 羌
 
 ## Datacheck
 ```dataview

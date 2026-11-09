@@ -30,6 +30,7 @@ tags: [lookup]
 - 眾 --> 衆
 - 袈 --> 加
 - 啬 --> 嗇
+- 聋 --> 聾
 
 ## Datacheck
 ```dataview

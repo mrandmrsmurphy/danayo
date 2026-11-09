@@ -39,6 +39,7 @@ Candidates for this SKIP code not yet present in the database: 祟.
 - 玺 --> 璽
 - 罢 --> 疲
 - 皋 --> 睾
+- 罢 --> 罷
 
 ## Datacheck
 ```dataview

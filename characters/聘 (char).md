@@ -51,6 +51,11 @@ date-last-perfect: 2026-10-20
 - 1171st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 清開|iᴇŋ]] → [ㄆㄧㄫ](../syllables/ㄆㄧㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 娉
+女 + 甹 element, "beautiful, graceful"; built on 聘 and kept as an alias. SKIP 1-3-7 (computed: EDRDG does not list it); 10 strokes. Radical 038 女. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[聘]]<rt>ㄆㄧㄫ</rt></ruby> "engage; betroth" (stand-in for 聘)
 - <ruby>[[聘金]]<rt>ㄆㄧㄫㄍㄧㄇ</rt></ruby> "bride-price"

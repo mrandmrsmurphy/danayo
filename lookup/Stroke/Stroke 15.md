@@ -144,6 +144,8 @@ tags:
 - 緣 --> 縁
 - 缮 --> 繕
 - 遶 --> 繞
+- 聪 --> 聡
+- 㠮 --> 肛
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

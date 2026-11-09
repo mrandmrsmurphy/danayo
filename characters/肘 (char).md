@@ -24,7 +24,7 @@ joyo_level: "高等"
 hsk_level: "無"
 hanmun_edu_level: "名"
 danayo_id: 6061
-mc_id: 2578
+mc_id: 2016
 graphemic_classification: "寸"
 stand_in: "肘"
 aliases:
@@ -46,8 +46,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声 (OC \*tkuʔ): semantic [[肉 (char)|肉]] ("flesh") + phonetic [[寸 (char)|寸]] (originally written as bare 寸 depicting a hand with a stroke marking the elbow; 肉 added later to distinguish it from the homograph 寸) — "elbow." 肱 ("upper arm") is documented as an alternative spelling specifically in Japanese usage, though it is fundamentally a distinct character.
 - [SKIP-1-4-3](../lookup/SKIP/SKIP-1/SKIP-1-4-3.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
-- 2578th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄇ](../syllables/ㄐㄨㄇ.md)
+- 2016th most used character in Classical Chinese, the rank of its alias 肱 (肘 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 知|ʈ]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [ㄐㄨㄇ](../syllables/ㄐㄨㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅈ](../lookup/Korean/Korean%20Name%20ㅈ.md)
+
+## Aliases
+
+### 肱
+月 + 厷, "upper arm"; a related body part, kept as an alias of 肘. SKIP 1-4-4 (computed: EDRDG does not list it); 8 strokes. It ranks 2016 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[肘]]<rt>ㄐㄨㄇ</rt></ruby> "elbow" (stand-in for 肘)

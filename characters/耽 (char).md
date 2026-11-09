@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - 3012th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 端|t]] + [[Lookup/CC/finals/韻 覃|ʌm]] → [ㄉㄛㄇ](../syllables/ㄉㄛㄇ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Name ㅌ](../lookup/Korean/Korean%20Name%20ㅌ.md)
 
+## Aliases
+
+### 躭
+A variant form of 耽, "to indulge". SKIP 1-7-4 (computed: EDRDG does not list it); 11 strokes. Radical 158 身. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[耽]]<rt>ㄉㄛㄇ</rt></ruby> "indulge in" (stand-in for 耽)
 - <ruby>[[耽耽]]<rt>ㄉㄛㄇㄉㄛㄇ</rt></ruby> "glaring covetously" (alias: 眈眈)

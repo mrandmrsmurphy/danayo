@@ -39,6 +39,7 @@ tags: [lookup]
 - 𠀋 --> 丈
 - 亐 --> 于
 - 丌 --> 其
+- 习 --> 習
 
 ## Datacheck
 ```dataview

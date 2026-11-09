@@ -629,3 +629,24 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 罰 | 罚 | 2-5-4 | computed from its parts |
 | 署 | 曙 | 1-4-14 | computed from its parts |
 | 罵 | 骂 | 2-6-3 | computed from its parts |
+| 罷 | 罢 | 2-5-5 | computed from its parts |
+| 羅 | 罗 | 2-5-3 | computed from its parts |
+| 羌 | 羗 | 2-6-3 | computed from its parts |
+| 羌 | 猐 | 1-3-7 | computed from its parts |
+| 羨 | 羡 | 2-6-6 | computed from its parts |
+| 習 | 习 | 4-3-1 | computed from its parts |
+| 翠 | 翆 | 2-6-4 | computed from its parts |
+| 耴 | 耷 | 2-3-6 | computed from its parts |
+| 耽 (char) | 躭 | 1-7-4 | computed from its parts |
+| 聘 (char) | 娉 | 1-3-7 | computed from its parts |
+| 聞 (char) | 闻 | 3-3-6 | computed from its parts |
+| 聡 | 聰 | 1-6-11 | computed from its parts |
+| 聡 | 聪 | 1-6-9 | computed from its parts |
+| 聴 (char) | 聽 | 1-6-16 | computed from its parts |
+| 聴 (char) | 听 | 1-3-4 | computed from its parts |
+| 聾 | 聋 | 2-5-6 | computed from its parts |
+| 聾 | 䏊 | 1-6-16 | computed from its parts |
+| 肇 | 肈 | 2-8-6 | computed from its parts |
+| 肘 (char) | 肱 | 1-4-4 | computed from its parts |
+| 肛 | 疘 | 3-5-3 | computed from its parts |
+| 肛 | 㠮 | 1-3-12 | computed from its parts |

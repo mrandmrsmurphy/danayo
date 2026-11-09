@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### +3 Strokes
 2. <ruby>[美](../../characters/美%20(char).md)<rt>ㄇㄧ</rt></ruby> - beautiful
+- 羗 --> 羌
 
 ### +5 Strokes
 3. <ruby>[羚](../../characters/羚.md)<rt>ㄌㄝㄫ</rt></ruby> - antelope
@@ -23,6 +24,7 @@ tags: [lookup]
 
 ### +6 Strokes
 5. <ruby>[羌](../../characters/羌.md)<rt>ㄎ⼘ㄫ</rt></ruby> - Qiang
+- 羡 --> 羨
 
 ### +7 Strokes
 6. <ruby>[群](../../characters/群.md)<rt>ㄍㄨㄋ</rt></ruby> - flock

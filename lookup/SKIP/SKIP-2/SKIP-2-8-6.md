@@ -21,6 +21,7 @@ tags: [lookup]
 - 蜚 --> 飛
 - 熒 --> 蛍
 - 聟 --> 婿
+- 肈 --> 肇
 
 ## Datacheck
 ```dataview

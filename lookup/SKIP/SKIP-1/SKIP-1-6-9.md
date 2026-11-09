@@ -38,6 +38,7 @@ tags:
 - 䘔 --> 喀
 - 緖 --> 緒
 - 緣 --> 縁
+- 聪 --> 聡
 
 ## Datacheck
 ```dataview

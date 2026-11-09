@@ -19,6 +19,7 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[翁](../../characters/翁%20(char).md)<rt>ㄛㄫ</rt></ruby> - venerable old man
 4. <ruby>[翅](../../characters/翅.md)<rt>ㄙㄧ</rt></ruby> - shark fin
+- 翆 --> 翠
 
 ### +5 Strokes
 5. <ruby>[翌](../../characters/翌%20(char).md)<rt>ㄧㄎ</rt></ruby> - the following

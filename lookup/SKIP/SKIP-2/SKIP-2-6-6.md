@@ -49,6 +49,7 @@ tags: [lookup]
 - 茻 --> 莽
 - 奡 --> 傲
 - 粪 --> 糞
+- 羡 --> 羨
 
 ## Datacheck
 ```dataview

@@ -26,6 +26,7 @@ tags: [lookup]
 ### Aliases
 - 廻 --> 回
 - 适 --> 適
+- 闻 --> 聞
 
 ### Forbidden
 - 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition

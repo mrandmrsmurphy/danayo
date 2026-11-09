@@ -28,6 +28,8 @@ tags: [lookup]
 - 罢 --> 疲
 - 网 --> 網
 - 罚 --> 罰
+- 罢 --> 罷
+- 罗 --> 羅
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'

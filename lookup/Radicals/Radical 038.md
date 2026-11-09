@@ -76,6 +76,7 @@ tags: [lookup]
 - 娛 --> 娯
 - 娱 --> 娯
 - 娑 --> 沙
+- 娉 --> 聘
 
 ### +8 Strokes
 42. <ruby>[娶](../../characters/娶.md)<rt>ㄑㄨ</rt></ruby> - marry

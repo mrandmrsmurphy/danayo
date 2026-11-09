@@ -49,6 +49,11 @@ boundedness: 90
 - 99th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 微|ɱ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄇㄨㄋ](../syllables/ㄇㄨㄋ.md)
 - [Grade 2](../lookup/Grade%202.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 闻
+Simplified Chinese form of 聞. SKIP 3-3-6 (computed: EDRDG does not list it); 9 strokes. Radical 169 門. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[聞]]<rt>ㄇㄨㄋ</rt></ruby> "hear" (stand-in for 聞)
 - <ruby>[[新聞]]<rt>ㄙㄧㄋㄇㄨㄋ</rt></ruby> "news (Mandarin/Cantonese); newspaper (Japanese/Korean)"

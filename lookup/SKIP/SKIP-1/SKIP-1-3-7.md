@@ -115,6 +115,8 @@ tags:
 - 绥 --> 綏
 - 䋄 --> 網
 - 绣 --> 繍
+- 猐 --> 羌
+- 娉 --> 聘
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

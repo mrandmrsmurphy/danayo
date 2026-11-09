@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 肅 --> 粛
 - 肃 --> 粛
+- 肈 --> 肇
 
 ## Data check
 ```dataview

@@ -206,6 +206,8 @@ tags:
 - 绳 --> 縄
 - 绷 --> 繃
 - 堈 --> 缸
+- 躭 --> 耽
+- 聋 --> 聾
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

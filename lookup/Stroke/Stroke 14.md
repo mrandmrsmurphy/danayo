@@ -167,6 +167,7 @@ tags:
 - 綠 --> 緑
 - 綳 --> 繃
 - 罁 --> 缸
+- 肈 --> 肇
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻
