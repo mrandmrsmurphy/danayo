@@ -46,6 +46,7 @@ tags:
 - 蚬 --> 蜆
 - 粃 --> 比
 - 效 --> 効
+- 敌 --> 敵
 
 ### Forbidden
 - 粍 - 国字: Japanese-invented character for 毫米 (millimeter).

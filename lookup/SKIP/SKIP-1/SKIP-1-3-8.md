@@ -151,6 +151,8 @@ tags:
 - 淸 --> 清
 - 续 --> 続
 - 崎 --> 区
+- 帷 --> 帳
+- 惯 --> 慣
 
 ### Forbidden
 - 掉 - 官话: HSK/1 and Korean Name.

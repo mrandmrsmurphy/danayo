@@ -52,6 +52,7 @@ tags:
 
 ### +14 Strokes
 23. <ruby>[躍](../../characters/躍.md)<rt>⼘ㄎ</rt></ruby> - leap
+- 躊 --> 寿
 
 ### Forbidden
 - 跟 - 中国制造: HSK/1, Use 踵 instead

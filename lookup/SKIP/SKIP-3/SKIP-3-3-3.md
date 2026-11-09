@@ -34,6 +34,7 @@ tags: [lookup]
 - 𡆧 --> 窓
 - 弎 --> 参
 - 团 --> 団
+- 𡆪 --> 曲
 
 ## Datacheck
 ```dataview

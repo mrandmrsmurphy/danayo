@@ -35,7 +35,7 @@ mc_id: 2221
 graphemic_classification: 会意
 stand_in: 蔑
 aliases:
-- 衊
+  - 衊
 注音: ㄇㄝㄊ
 kwin: false
 tags:

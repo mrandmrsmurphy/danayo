@@ -15,6 +15,9 @@ tags: [lookup]
 4. <ruby>[麗](../../characters/麗.md)<rt>ㄌㄝ</rt></ruby> - beautiful
 5. <ruby>[麟](../../characters/麟.md)<rt>ㄌㄧㄋ</rt></ruby> - qilin
 
+### Aliases
+- 麝 --> 射
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

@@ -27,7 +27,7 @@ mc_id: 1110
 graphemic_classification: 羊
 stand_in: 姜
 aliases:
-- 薑
+  - 薑
 注音: ㄍ⼘ㄋ
 kwin: false
 tags:

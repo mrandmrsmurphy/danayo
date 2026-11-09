@@ -61,6 +61,7 @@ tags:
 - 禄 --> 祿
 - 殘 --> 残
 - 𤗉 --> 窓
+- 腑 --> 府
 
 ## Datacheck
 ```dataview

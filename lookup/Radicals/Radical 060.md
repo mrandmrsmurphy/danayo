@@ -31,6 +31,7 @@ tags:
 12. <ruby>[徐](../../characters/徐.md)<rt>ㄙ⼄</rt></ruby> - slowly
 13. <ruby>[徒](../../characters/徒.md)<rt>ㄉㄛ</rt></ruby> - disciple
 14. <ruby>[従](../../characters/従%20(char).md)<rt>ㄐㄛㄫ</rt></ruby> - obey
+- 徑 --> 径
 
 ### +8 Strokes
 15. <ruby>[得](../../characters/得.md)<rt>ㄊㄜㄎ</rt></ruby> - get

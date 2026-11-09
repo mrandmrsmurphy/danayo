@@ -41,6 +41,7 @@ tags: [lookup]
 - 囪 --> 窓
 - 囱 --> 窓
 - 运 --> 運
+- 库 --> 庫
 
 ### Forbidden
 - 迚 - 国字: 'very, exceedingly, awfully' (とても)

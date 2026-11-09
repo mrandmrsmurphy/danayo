@@ -81,6 +81,7 @@ tags:
 - 撰 --> 選
 - 緬 --> 面
 - 题 --> 題
+- 𡭆 --> 尊
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

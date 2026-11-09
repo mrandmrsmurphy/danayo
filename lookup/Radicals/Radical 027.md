@@ -12,6 +12,7 @@ tags: [lookup]
 
 ### +2 Strokes
 1. <ruby>[厄](../../characters/厄.md)<rt>ㄜㄎ</rt></ruby> - burden
+- 厅 --> 庁
 
 ### +3 Strokes
 2. <ruby>[厉](../../characters/厉%20(char).md)<rt>ㄌㄝ</rt></ruby> - whetstone

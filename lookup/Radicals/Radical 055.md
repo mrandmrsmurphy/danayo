@@ -19,6 +19,9 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[弄](../../characters/弄%20(char).md)<rt>ㄌㄛㄫ</rt></ruby> - tamper with
 
+### +9 Strokes
+- 𢍜 --> 尊
+
 ### +12 Strokes
 4. <ruby>[弊](../../characters/弊%20(char).md)<rt>ㄆㄝㄧ</rt></ruby> - evil
 

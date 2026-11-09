@@ -41,6 +41,7 @@ tags:
 17. <ruby>[客](../../characters/客.md)<rt>ㄎㄚㄎ</rt></ruby> - guest
 18. <ruby>[宣](../../characters/宣.md)<rt>ㄙㄝㄋ</rt></ruby> - announce
 19. <ruby>[室](../../characters/室.md)<rt>ㄙㄧㄊ</rt></ruby> - room
+- 宫 --> 宮
 
 ### +7 Strokes
 20. <ruby>[宮](../../characters/宮.md)<rt>ㄍㄨㄫ</rt></ruby> - royal court
@@ -76,6 +77,7 @@ tags:
 42. <ruby>[寧](../../characters/寧.md)<rt>ㄋㄝㄫ</rt></ruby> - peaceful
 43. <ruby>[寨](../../characters/寨.md)<rt>ㄐㄚㄧ</rt></ruby> - fortress
 - 實 --> 実
+- 寤 --> 悟
 
 ### +12 Strokes
 44. <ruby>[審](../../characters/審.md)<rt>ㄙㄧㄇ</rt></ruby> - examine

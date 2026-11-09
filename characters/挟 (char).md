@@ -32,7 +32,7 @@ mc_id: 1492
 graphemic_classification: 夹
 stand_in: 挟
 aliases:
-- 挾
+  - 挾
 注音: ㄏㄝㄆ
 kwin: false
 tags:

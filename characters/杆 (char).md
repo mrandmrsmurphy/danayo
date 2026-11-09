@@ -30,7 +30,7 @@ mc_id: 6224
 graphemic_classification: 干
 stand_in: 杆
 aliases:
-- 桿
+  - 桿
 注音: ㄍㄚㄋ
 kwin: true
 tags:

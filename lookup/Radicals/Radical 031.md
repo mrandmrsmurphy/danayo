@@ -20,6 +20,7 @@ tags: [lookup]
 5. <ruby>[団](../../characters/団.md)<rt>ㄉ⺢ㄋ</rt></ruby> - group
 - 𡆧 --> 窓
 - 团 --> 団
+- 𡆪 --> 曲
 
 ### +4 Strokes
 6. <ruby>[囲](../../characters/囲.md)<rt>ㄨㄧ</rt></ruby> - encircle

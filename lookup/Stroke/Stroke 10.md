@@ -99,6 +99,9 @@ tags:
 - 选 --> 選
 - 难 --> 難
 - 值 --> 値
+- 徑 --> 径
+- 悅 --> 悦
+- 敌 --> 敵
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

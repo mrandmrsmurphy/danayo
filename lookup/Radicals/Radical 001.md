@@ -38,6 +38,7 @@ Radical 1 is 一, the number one.
 12. <ruby>[丑](../../characters/丑.md)<rt>ㄑㄨ</rt></ruby> - second of 12 earthly branches
 - 专 --> ancient variant of 専
 - 丗 --> ancient variant of 世
+- 专 --> 専
 
 ### +4 Strokes
 13. <ruby>[且](../../characters/且%20(char).md)<rt>ㄑㄛ</rt></ruby> - also

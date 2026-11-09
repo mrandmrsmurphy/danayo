@@ -12,12 +12,14 @@ tags: [lookup]
 
 ### +0 Strokes
 1. <ruby>[心](../../characters/心%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - heart
+- 忆 --> 憶
 
 ### +1 Stroke
 2. <ruby>[必](../../characters/必%20(char).md)<rt>ㄅㄧㄊ</rt></ruby> - surely
 
 ### +2 Strokes
 3. <ruby>[忙](../../characters/忙.md)<rt>ㄇㄚㄫ</rt></ruby> - busy
+- 𢖽 --> 志
 
 ### +3 Strokes
 4. <ruby>[忌](../../characters/忌.md)<rt>ㄍㄧ</rt></ruby> - taboo
@@ -38,6 +40,7 @@ tags: [lookup]
 17. <ruby>[怪](../../characters/怪.md)<rt>ㄍ⺢ㄧ</rt></ruby> - strange
 
 18. <ruby>[怯](../../characters/怯%20(char).md)<rt>ㄎㄚㄆ</rt></ruby> - cowardly
+- 态 --> 態
 
 ### +5 Strokes
 19. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry
@@ -53,6 +56,7 @@ tags: [lookup]
 
 29. <ruby>[恍](../../characters/恍.md)<rt>ㄍ⺢ㄫ</rt></ruby> - vague
 - 恬 --> 甜
+- 恆 --> 恒
 
 ### +6 Strokes
 30. <ruby>[恋](../../characters/恋%20(char).md)<rt>ㄌㄝㄋ</rt></ruby> - romance
@@ -69,6 +73,7 @@ tags: [lookup]
 41. <ruby>[悟](../../characters/悟.md)<rt>ㄛ</rt></ruby> - realize
 42. <ruby>[悦](../../characters/悦.md)<rt>⼶ㄊ</rt></ruby> - ecstatic
 43. <ruby>[悩](../../characters/悩%20(char).md)<rt>ㄋㄚㄨ</rt></ruby> - angered
+- 悅 --> 悦
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -84,6 +89,7 @@ tags: [lookup]
 54. <ruby>[惧](../../characters/惧.md)<rt>ㄍㄨ</rt></ruby> - fear
 55. <ruby>[惨](../../characters/惨%20(char).md)<rt>ㄑㄚㄇ</rt></ruby> - wretched
 - 惟 --> 唯
+- 惯 --> 慣
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad

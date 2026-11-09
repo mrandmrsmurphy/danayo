@@ -89,6 +89,8 @@ tags:
 - 哪 --> 那
 - 挪 --> 那
 - 换 --> 換
+- 徑 --> 径
+- 悅 --> 悦
 
 ### Forbidden
 - 㳲 - 국자: 태 (“the third note, 태주 (太簇, taeju) of the Shí-èr-lǜ musical scale that is two octaves higher”), also 𣴘

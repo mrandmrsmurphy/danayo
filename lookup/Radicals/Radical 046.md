@@ -47,6 +47,7 @@ tags: [lookup]
 19. <ruby>[嵐](../../characters/嵐.md)<rt>ㄌㄚㄇ</rt></ruby> - storm
 20. <ruby>[崴](../../characters/崴.md)<rt>⺢ㄧ</rt></ruby> - bend in a mountain or river
 - 嵒 --> 岩
+- 嵯 --> 差
 
 ### +10 Strokes
 21. <ruby>[嵩](../../characters/嵩.md)<rt>ㄙㄨㄫ</rt></ruby> - high

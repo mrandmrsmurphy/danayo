@@ -24,6 +24,7 @@ tags:
 
 ### +3 Strokes
 6. <ruby>[刊](../../characters/刊%20(char).md)<rt>ㄎㄚㄋ</rt></ruby> - publication
+- 㓜 --> 幼
 
 ### +4 Strokes
 7. <ruby>[刑](../../characters/刑.md)<rt>ㄏㄝㄫ</rt></ruby> - punishment

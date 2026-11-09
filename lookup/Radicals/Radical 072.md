@@ -63,6 +63,7 @@ tags: [lookup]
 
 ### +7 Strokes
 38. <ruby>[晨](../../characters/晨.md)<rt>ㄙㄧㄋ</rt></ruby> - early morning
+- 晝 --> 昼
 
 ### +8 Strokes
 39. <ruby>[晩](../../characters/晩%20(char).md)<rt>ㄇㄛㄋ</rt></ruby> - evening

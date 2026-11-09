@@ -31,6 +31,9 @@ tags: [lookup]
 ### +8 Strokes
 8. <ruby>[壷](../../characters/壷%20(char).md)<rt>ㄏㄛ</rt></ruby> - pot
 
+### +11 Strokes
+- 壽 --> 寿
+
 ### Forbidden
 - 壭 - 口訣: Korean 구결 for '산'.
 

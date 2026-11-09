@@ -30,7 +30,7 @@ mc_id: 9007
 graphemic_classification: 𧮫
 stand_in: 却
 aliases:
-- 卻
+  - 卻
 注音: ㄎ⼘ㄎ
 kwin: false
 tags:

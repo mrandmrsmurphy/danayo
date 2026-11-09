@@ -73,6 +73,7 @@ tags: [lookup]
 46. <ruby>[腔](../../characters/腔.md)<rt>ㄎㄚㄫ</rt></ruby> - chest cavity
 47. <ruby>[腕](../../characters/腕%20(char).md)<rt>⺢ㄋ</rt></ruby> - arm
 48. <ruby>[𦜝](../../characters/𦜝.md)<rt>ㄐㄝㄧ</rt></ruby> - navel
+- 腑 --> 府
 
 ### +7 Strokes
 49. <ruby>[腎](../../characters/腎.md)<rt>ㄙㄧㄋ</rt></ruby> - kidney

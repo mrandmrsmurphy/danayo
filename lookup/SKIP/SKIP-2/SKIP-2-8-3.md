@@ -29,6 +29,7 @@ tags: [lookup]
 - 婴 --> 嬰
 - 𠵊 --> 善
 - 麥 --> 麦
+- 專 --> 専
 
 ## Datacheck
 ```dataview

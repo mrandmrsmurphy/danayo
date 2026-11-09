@@ -22,6 +22,7 @@ tags:
 
 ### +4 Strokes
 5. <ruby>[希](../../characters/希.md)<rt>ㄏㄧㄜ</rt></ruby> - rare
+- 帐 --> 帳
 
 ### +5 Strokes
 6. <ruby>[帚](../../characters/帚.md)<rt>ㄐㄨ</rt></ruby> - broom
@@ -43,11 +44,13 @@ tags:
 15. <ruby>[帳](../../characters/帳.md)<rt>ㄐ⺢ㄫ</rt></ruby> - tent
 16. <ruby>[常](../../characters/常.md)<rt>ㄙ⼘ㄫ</rt></ruby> - common
 - 帶 --> 帯
+- 帷 --> 帳
 
 ### +9 Strokes
 17. <ruby>[帽](../../characters/帽.md)<rt>ㄇㄚㄨ</rt></ruby> - cap
 18. <ruby>[幅](../../characters/幅.md)<rt>ㄈㄨㄎ</rt></ruby> - breadth
 19. <ruby>[幇](../../characters/幇.md)<rt>ㄅㄚㄫ</rt></ruby> - help
+- 幄 --> 帳
 
 ### +10 Strokes
 20. <ruby>[幌](../../characters/幌.md)<rt>ㄏ⺢ㄫ</rt></ruby> - curtain

@@ -43,6 +43,9 @@ tags:
 - 飜 --> 翻
 - 襯 --> 親
 - 驂 --> 参
+- 躊 --> 寿
+- 麝 --> 射
+- 屬 --> 属
 
 ### Forbidden
 - 欌 - 국자: Korean-coined hanja for '장' ('wardrobe; cabinet'; the sound is 蔵). 한문교육용기초한자/이름

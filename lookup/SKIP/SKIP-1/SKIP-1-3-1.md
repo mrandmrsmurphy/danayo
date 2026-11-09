@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[幻](/characters/幻.md)<rt>ㄏ⺢ㄋ</rt></ruby> - delusion
 3. <ruby>[引](/characters/引%20(char).md)<rt>ㄧㄋ</rt></ruby> - pull
 
+### Aliases
+- 忆 --> 憶
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

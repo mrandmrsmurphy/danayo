@@ -164,6 +164,7 @@ tags: [lookup]
 117. <ruby>[器](../../characters/器.md)<rt>ㄎㄧㄜ</rt></ruby> - container
 118. <ruby>[噴](../../characters/噴.md)<rt>ㄆㄛㄋ</rt></ruby> - erupt
 - 𠾄 --> 善
+- 噂 --> 尊
 
 ### +13 Strokes
 119. <ruby>[嘴](../../characters/嘴.md)<rt>ㄑㄨㄧ</rt></ruby> - bill

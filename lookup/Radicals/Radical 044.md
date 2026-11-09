@@ -54,6 +54,9 @@ tags: [lookup]
 ### +12 Strokes
 21. <ruby>[履](../../characters/履%20(char).md)<rt>ㄌㄧㄜ</rt></ruby> - tread on/with
 
+### +18 Strokes
+- 屬 --> 属
+
 ### Forbidden
 - 𡱖 - 国字: 国字 (尸 + 朱); Wiktionary records no definition
 

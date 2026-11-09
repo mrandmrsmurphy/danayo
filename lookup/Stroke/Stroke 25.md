@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 觀 --> 観
 - 鱶 --> 養
+- 廳 --> 庁
 
 ### Forbidden
 - 鱰 - 国字: Japanese-invented character. Mahi-mahi

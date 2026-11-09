@@ -21,6 +21,7 @@ tags:
 3. <ruby>[庇](../../characters/庇.md)<rt>ㄅㄧㄜ</rt></ruby> - shield
 4. <ruby>[序](../../characters/序.md)<rt>ㄙ⼄</rt></ruby> - series
 5. <ruby>[床](../../characters/床%20(char).md)<rt>ㄙ⼘ㄇ</rt></ruby> - bed
+- 库 --> 庫
 
 ### +5 Strokes
 6. <ruby>[店](../../characters/店.md)<rt>ㄉㄝㄇ</rt></ruby> - shop
@@ -58,6 +59,9 @@ tags:
 
 ### +16 Strokes
 24. <ruby>[廬](../../characters/廬.md)<rt>ㄌㄛ</rt></ruby> - shack
+
+### +22 Strokes
+- 廳 --> 庁
 
 ### Aliases
 - 廁 --> 厠

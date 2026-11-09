@@ -43,6 +43,7 @@ tags: [lookup]
 ### +9 Strokes
 13. <ruby>[鰌](../../characters/鰌.md)<rt>ㄑㄨ</rt></ruby> - loach
 14. <ruby>[鰐](../../characters/鰐.md)<rt>ㄚㄎ</rt></ruby> - alligator
+- 鳟 --> 尊
 
 ### +10 Strokes
 15. <ruby>[鰭](../../characters/鰭.md)<rt>ㄍㄧㄜ</rt></ruby> - fish fin
@@ -52,10 +53,12 @@ tags: [lookup]
 - 鰹 --> 堅
 - 鰾 --> 票
 - 鰺 --> 参
+- 鱇 --> 康
 
 ### +12 Strokes
 17. <ruby>[鱏](../../characters/鱏%20(char).md)<rt>ㄏㄧㄇ</rt></ruby> - ray
 18. <ruby>[鱗](../../characters/鱗%20(char).md)<rt>ㄌㄧㄋ</rt></ruby> - fish scale
+- 鱒 --> 尊
 
 ### +13 Strokes
 - 鱧 --> 豊

@@ -34,6 +34,7 @@ tags: [lookup]
 11. <ruby>[奄](../../characters/奄.md)<rt>⼶ㄇ</rt></ruby> - castrated person
 12. <ruby>[奇](../../characters/奇.md)<rt>ㄍㄨㄧ</rt></ruby> - strange
 13. <ruby>[奉](../../characters/奉.md)<rt>ㄅㄛㄫ</rt></ruby> - serve
+- 奋 --> 奮
 
 ### +6 Strokes
 14. <ruby>[奏](../../characters/奏.md)<rt>ㄙㄛㄨ</rt></ruby> - play music

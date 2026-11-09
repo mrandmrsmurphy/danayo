@@ -31,6 +31,7 @@ tags: [lookup]
 
 ### +8 Strokes
 10. <ruby>[尉](../../characters/尉%20(char).md)<rt>ㄨㄊ</rt></ruby> - officer
+- 專 --> 専
 
 ### +9 Strokes
 11. <ruby>[尋](../../characters/尋%20(char).md)<rt>ㄙㄧㄇ</rt></ruby> - inquire for
@@ -39,6 +40,7 @@ tags: [lookup]
 
 ### +12 Strokes
 13. <ruby>[導](../../characters/導.md)<rt>ㄉㄚㄨ</rt></ruby> - guide
+- 𡭆 --> 尊
 
 ### Aliases
 - 导 --> 導

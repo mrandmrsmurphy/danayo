@@ -100,6 +100,7 @@ tags: [lookup]
 - ¡栊! - 違法字
 - ¡𪱻! - 違法字
 - 树 --> 樹
+- 柰 --> 奈
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg

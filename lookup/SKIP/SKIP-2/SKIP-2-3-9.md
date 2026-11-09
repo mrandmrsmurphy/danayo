@@ -43,6 +43,7 @@ tags:
 ### Aliases
 - 嵒 --> 岩
 - 窗 --> 窓
+- 𢍜 --> 尊
 
 ## Datacheck
 ```dataview

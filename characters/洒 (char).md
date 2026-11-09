@@ -38,7 +38,7 @@ mc_id: 2915
 graphemic_classification: 麗
 stand_in: 洒
 aliases:
-- 灑
+  - 灑
 注音: ㄙ⺢ㄧ
 kwin: true
 tags:

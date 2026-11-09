@@ -93,6 +93,10 @@ tags:
 - 嶇 --> 区
 - 蔘 --> 参
 - 團 --> 団
+- 壽 --> 寿
+- 𥈪 --> 尊
+- 寤 --> 悟
+- 摺 --> 折
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

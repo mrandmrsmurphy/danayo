@@ -70,6 +70,8 @@ tags:
 - 濟 --> 済
 - 𮈾 --> 窓
 - 鍼 --> 針
+- 擴 --> 拡
+- 麯 --> 曲
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

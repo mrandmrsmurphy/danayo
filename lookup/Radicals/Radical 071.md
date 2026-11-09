@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 无 --> 無
+- 旣 --> 既
 
 ## Data check
 ```dataview

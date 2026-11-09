@@ -149,6 +149,7 @@ tags: [lookup]
 
 ### +10 Strokes
 109. <ruby>[摘](../../characters/摘%20(char).md)<rt>ㄉㄚㄎ</rt></ruby> - pinch
+- 摺 --> 折
 
 ### +11 Strokes
 110. <ruby>[摯](../../characters/摯.md)<rt>ㄐㄧㄜ</rt></ruby> - sincere
@@ -178,6 +179,7 @@ tags: [lookup]
 128. <ruby>[擬](../../characters/擬%20(char).md)<rt>ㄧ</rt></ruby> - intend
 129. <ruby>[擱](../../characters/擱.md)<rt>ㄍㄚㄎ</rt></ruby> - stop writing
 - 擊 --> 撃
+- 擴 --> 拡
 
 ### +14 Strokes
 130. <ruby>[擲](../../characters/擲.md)<rt>ㄐㄝㄎ</rt></ruby> - throw

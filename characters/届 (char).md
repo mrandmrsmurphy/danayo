@@ -28,7 +28,7 @@ mc_id: 5908
 graphemic_classification: 凷
 stand_in: 届
 aliases:
-- 屆
+  - 屆
 注音: ㄍ⼶
 kwin: false
 tags:

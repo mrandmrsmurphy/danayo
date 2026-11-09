@@ -33,6 +33,7 @@ tags: [lookup]
 ### Aliases
 - 攵 --> 攴
 - 仓 --> 倉
+- 专 --> 専
 
 ### Forbidden
 - ¡仒! - 違法字
