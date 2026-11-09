@@ -26,6 +26,7 @@ tags: [lookup]
 ### +7 Strokes
 6. <ruby>[旋](../../characters/旋.md)<rt>ㄙ⼔ㄋ</rt></ruby> - revolve
 7. <ruby>[族](../../characters/族.md)<rt>ㄐㄛㄎ</rt></ruby> - tribe
+- 旉 --> 敷
 
 ### +9 Strokes
 - 旒 --> 㐬

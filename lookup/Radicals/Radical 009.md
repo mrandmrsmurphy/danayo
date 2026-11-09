@@ -259,6 +259,7 @@ aliases:
 138. <ruby>[儒](../../characters/儒.md)<rt>ㄋㄨ</rt></ruby> - Confucian scholar
 - ¡𠏹! - 違法字
 - 儘 --> 尽
+- 儗 --> 擬
 
 ### +15 Strokes
 139. <ruby>[償](../../characters/償.md)<rt>ㄙ⼘ㄫ</rt></ruby> - repay

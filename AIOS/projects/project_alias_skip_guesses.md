@@ -395,3 +395,21 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 掻 (char) | 㮻 | 1-4-10 | computed from its parts |
 | 揀 | 拣 | 1-3-5 | computed from its parts |
 | 損 | 损 | 1-3-7 | computed from its parts |
+| 摯 | 挚 | 2-6-4 | computed from its parts |
+| 撇 (char) | 撆 | 1-3-12 | computed from its parts |
+| 撫 | 抚 | 1-3-4 | computed from its parts |
+| 撹 | 搅 | 1-3-9 | computed from its parts |
+| 擁 | 拥 | 1-3-5 | computed from its parts |
+| 擬 (char) | 拟 | 1-3-4 | computed from its parts |
+| 擱 | 搁 | 1-3-9 | computed from its parts |
+| 擲 | 掷 | 1-3-8 | computed from its parts |
+| 擺 | 摆 | 1-3-10 | computed from its parts |
+| 擾 | 扰 | 1-3-4 | computed from its parts |
+| 攄 | 摅 | 1-3-10 | computed from its parts |
+| 攬 | 揽 | 1-3-9 | computed from its parts |
+| 敦 | 㪟 | 1-8-5 | computed from its parts |
+| 敲 (char) | 㪣 | 1-10-4 | computed from its parts |
+| 敲 (char) | 䯨 | 1-8-5 | computed from its parts |
+| 敲 (char) | 摮 | 1-3-11 | computed from its parts |
+| 斉 | 齐 | 2-2-6 | computed from its parts |
+| 斬 (char) | 斩 | 1-7-1 | computed from its parts |

@@ -114,6 +114,7 @@ tags:
 - 吊 --> 弔
 - 扡 --> 拖
 - 扫 --> 掃
+- 齐 --> 斉
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

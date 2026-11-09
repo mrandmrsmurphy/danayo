@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 敲.
 >For the word, see [敲](../words/敲.md)
@@ -52,6 +52,20 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-10-4](../lookup/SKIP/SKIP-2/SKIP-2-10-4.md) ([Stroke 14](../lookup/Stroke/Stroke%2014.md))
 - 6526th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 肴|ɣau]] → [ㄎ⼘ㄨ](../syllables/ㄎ⼘ㄨ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄱ](Lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 㪣
+A rare character, the name of a place in the Han dynasty; kept as an alias of 敲. SKIP 1-10-4 (computed: EDRDG does not list it); 14 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 䯨
+An ancient form of 敲, "to tap". SKIP 1-8-5 (computed: EDRDG does not list it); 13 strokes. Radical 189 高. It has no rank of its own in the Classical Chinese lists.
+
+### 摮
+扌 + 殸, "to rattle, to shake"; a variant of 敲 and kept as an alias. SKIP 1-3-11 (computed: EDRDG does not list it); 14 strokes. Radical 064 手. It has no rank of its own in the Classical Chinese lists.
+
+### 毃
+A variant form of 敲. SKIP 1-10-4; 14 strokes. Radical 079 殳. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[敲]]<rt>ㄎ⼘ㄨ</rt></ruby> "knock, tap, rap"

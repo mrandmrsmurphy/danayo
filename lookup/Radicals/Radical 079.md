@@ -29,6 +29,7 @@ tags: [lookup]
 
 ### +10 Strokes
 - 毄 --> 撃
+- 毃 --> 敲
 
 ### +11 Strokes
 8. <ruby>[毅](../../characters/毅.md)<rt>ㄧㄜ</rt></ruby> - strongly

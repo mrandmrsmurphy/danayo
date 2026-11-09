@@ -120,6 +120,8 @@ tags:
 - 拕 --> 拖
 - 拚 --> 拼
 - 拣 --> 揀
+- 拥 --> 擁
+- 抬 --> 擡
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

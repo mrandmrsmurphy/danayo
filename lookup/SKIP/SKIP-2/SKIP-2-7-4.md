@@ -30,6 +30,7 @@ tags: [lookup]
 - 脣 --> 唇
 - 悫 --> 愨
 - 悬 --> 懸
+- 旉 --> 敷
 
 ## Datacheck
 ```dataview

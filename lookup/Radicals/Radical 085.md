@@ -52,6 +52,7 @@ tags: [lookup]
 28. <ruby>[沢](../../characters/沢.md)<rt>ㄉㄚㄎ</rt></ruby> - stream
 29. <ruby>[泛](../../characters/泛.md)<rt>ㄈㄧㄇ</rt></ruby> - flood
 - 沒 --> 没
+- 汶 --> 文
 
 ### +4 Strokes
 30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous

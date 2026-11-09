@@ -39,7 +39,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 撲.
 >For the word, see [撲](../words/撲.md)
@@ -53,6 +53,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 2959th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 屋一|uk]] → [ㄆㄛㄎ](../syllables/ㄆㄛㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 扑
+The Chinese simplified form of 撲, "to hit, to whip". SKIP 1-3-2; 5 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[撲]]<rt>ㄆㄛㄎ</rt></ruby> "rush at" (stand-in for 撲)

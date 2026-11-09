@@ -163,6 +163,9 @@ tags: [lookup]
 - 搜 --> 捜
 - 揭 --> 掲
 - 搔 --> 掻
+- 搅 --> 撹
+- 搁 --> 擱
+- 揽 --> 攬
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

@@ -130,6 +130,11 @@ tags:
 - 輓 --> 挽
 - 𤔢 --> 掻
 - 㮻 --> 掻
+- 㪣 --> 敲
+- 摮 --> 敲
+- 毃 --> 敲
+- 齊 --> 斉
+- 塹 --> 斬
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

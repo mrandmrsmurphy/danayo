@@ -30,15 +30,12 @@ danayo_id: 7216
 mc_id: 3967
 graphemic_classification: "最"
 stand_in: "撮"
-aliases:
-  - 𢲻
-  - 𤑧
 注音: "ㄐ⺢ㄊ"
 kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 撮.
 >For the word, see [撮](../words/撮.md)

@@ -12,6 +12,7 @@ tags: [lookup]
 1. <ruby>[高](../../characters/高%20(char).md)<rt>ㄍㄚㄨ</rt></ruby> - high
 
 ### Aliases
+- 䯨 --> 敲
 
 ## Data check
 ```dataview

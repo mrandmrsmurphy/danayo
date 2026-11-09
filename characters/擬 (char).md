@@ -37,7 +37,7 @@ tags:
   - character
 kwin: false
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 擬.
 >For the word, see [擬](../words/擬.md)
@@ -51,6 +51,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-14](../lookup/SKIP/SKIP-1/SKIP-1-3-14.md) ([Stroke 17](../lookup/Stroke/Stroke%2017.md))
 - Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 之|ɨ]] → [ㄧ](../syllables/ㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 拟
+Simplified Chinese form of 擬. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 儗
+亻 + 疑, "to usurp authority"; a variant of 擬 and kept as an alias. SKIP 1-2-14; 16 strokes. Radical 009 人. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - [擬](../words/擬.md) "intend, plan" — 擬 stands alone as a word in Dan'a'yo.

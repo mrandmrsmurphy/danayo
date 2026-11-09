@@ -112,6 +112,8 @@ tags:
 - 憇 --> 憩
 - 慼 --> 戚
 - 㨼 --> 掠
+- 撆 --> 撇
+- 撑 --> 撐
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

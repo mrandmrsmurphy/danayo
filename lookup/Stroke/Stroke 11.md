@@ -156,6 +156,8 @@ tags:
 - 㥃 --> 悶
 - 悫 --> 愨
 - 悬 --> 懸
+- 掷 --> 擲
+- 旉 --> 敷
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

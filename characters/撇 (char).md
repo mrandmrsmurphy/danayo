@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 90
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 撇.
 >For the word, see [撇](../words/撇.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-12](../lookup/SKIP/SKIP-1/SKIP-1-3-12.md) ([Stroke 15](../lookup/Stroke/Stroke%2015.md))
 - 9478th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 滂|pʰ]] + [[Lookup/CC/finals/韻 薛A三開|iᴇt]] → [ㄆㄝㄊ](../syllables/ㄆㄝㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 4](../lookup/HSK/Old%20HSK%204.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](Lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 撆
+A Hokkien variant of 撇, "to fan". SKIP 1-3-12 (computed: EDRDG does not list it); 15 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[撇]]<rt>ㄆㄝㄊ</rt></ruby> "throw away"

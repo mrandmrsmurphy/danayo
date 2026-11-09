@@ -113,6 +113,10 @@ tags:
 - 搯 --> 掏
 - 搖 --> 揺
 - 摇 --> 揺
+- 摆 --> 擺
+- 摅 --> 攄
+- 㪟 --> 敦
+- 䯨 --> 敲
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

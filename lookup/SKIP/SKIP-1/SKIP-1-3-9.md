@@ -176,6 +176,9 @@ tags:
 - 揑 --> 捏
 - 揭 --> 掲
 - 搔 --> 掻
+- 搅 --> 撹
+- 搁 --> 擱
+- 揽 --> 攬
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

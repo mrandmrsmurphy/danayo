@@ -18,6 +18,7 @@ tags: [lookup]
 
 ### +4 Strokes
 3. <ruby>[斧](../../characters/斧.md)<rt>ㄈㄨ</rt></ruby> - axe
+- 斩 --> 斬
 
 ### +7 Strokes
 4. <ruby>[断](../../characters/断.md)<rt>ㄉ⺢ㄋ</rt></ruby> - cut off

@@ -38,7 +38,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 斬.
 >For the word, see [斬](../words/斬.md)
@@ -52,6 +52,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 617th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 莊|t͡ʃ]] + [[Lookup/CC/finals/韻 咸|ɣɛm]] → [ㄐㄚㄇ](../syllables/ㄐㄚㄇ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 斩
+Simplified Chinese form of 斬. SKIP 1-7-1 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 塹
+土 + 斬, "moat, trench"; built on 斬 and kept as an alias. SKIP 2-11-3; 14 strokes. Radical 032 土. It ranks 2965 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[斬]]<rt>ㄐㄚㄇ</rt></ruby> "cut, chop, sever" (stand-in for 斬)

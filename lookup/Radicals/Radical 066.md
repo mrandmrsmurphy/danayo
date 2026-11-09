@@ -53,9 +53,11 @@ tags: [lookup]
 
 ### +9 Strokes
 17. <ruby>[数](../../characters/数.md)<rt>ㄙㄨ</rt></ruby> - count
+- 㪟 --> 敦
 
 ### +10 Strokes
 18. <ruby>[敲](../../characters/敲%20(char).md)<rt>ㄎ⼘ㄨ</rt></ruby> - knock
+- 㪣 --> 敲
 
 ### +11 Strokes
 19. <ruby>[敵](../../characters/敵.md)<rt>ㄉㄝㄎ</rt></ruby> - enemy

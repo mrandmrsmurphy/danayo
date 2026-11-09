@@ -31,6 +31,10 @@ tags: [lookup]
 ### Forbidden
 - 鈾 - 官话: HSK/4. Uranium -- Dan'a'yo uses 天金 instead (see [[天 (char)|天]]).
 
+### Aliases
+- 㪟 --> 敦
+- 䯨 --> 敲
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

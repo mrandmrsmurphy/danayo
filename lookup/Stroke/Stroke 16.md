@@ -104,6 +104,7 @@ tags:
 - 懒 --> 懶
 - 擔 --> 担
 - 撿 --> 揀
+- 儗 --> 擬
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

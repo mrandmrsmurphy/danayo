@@ -113,6 +113,7 @@ tags:
 57. <ruby>[増](../../characters/増.md)<rt>ㄐㄜㄫ</rt></ruby> - increase
 58. <ruby>[墨](../../characters/墨.md)<rt>ㄇㄨㄎ</rt></ruby> - ink
 - 墖 --> 塔
+- 塹 --> 斬
 
 ### +12 Strokes
 59. <ruby>[墜](../../characters/墜.md)<rt>ㄐㄨㄧ</rt></ruby> - fall

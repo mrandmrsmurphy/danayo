@@ -13,6 +13,9 @@ tags: [lookup]
 1. <ruby>[乳](/characters/乳.md)<rt>ㄋㄨ</rt></ruby> - milk
 2. <ruby>[軋](/characters/軋.md)<rt>ㄚㄊ</rt></ruby> - crush
 
+### Aliases
+- 斩 --> 斬
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

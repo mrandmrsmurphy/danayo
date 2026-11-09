@@ -95,6 +95,11 @@ tags:
 - 妒 --> 妬
 - 岗 --> 岡
 - 忼 --> 慷
+- 抚 --> 撫
+- 拟 --> 擬
+- 扰 --> 擾
+- 扳 --> 攀
+- 汶 --> 文
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)
