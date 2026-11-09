@@ -53,5 +53,10 @@ date-last-perfect: 2026-10-20
 - Ancient [[Lookup/CC/initials/聲 邪|z]] + [[Lookup/CC/finals/韻 鍾|ɨoŋ]] → [ㄙㄛㄫ](../syllables/ㄙㄛㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
 
+## Aliases
+
+### 诵
+Simplified Chinese form of 誦. SKIP 1-2-7 (computed: EDRDG does not list it); 9 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[誦]]<rt>ㄙㄛㄫ</rt></ruby> "recite; chant; repeat" (stand-in for 誦)

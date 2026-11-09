@@ -202,6 +202,9 @@ tags:
 - 蚌 --> 蜂
 - 衄 --> 衂
 - 袜 --> 襪
+- 谁 --> 誰
+- 谊 --> 誼
+- 谅 --> 諒
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

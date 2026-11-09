@@ -49,5 +49,10 @@ boundedness: 75
 - 908th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 船|ʑ]] + [[Lookup/CC/finals/韻 脂A合|iuɪ]] → [ㄙ⼶ㄧ](../syllables/ㄙ⼶ㄧ.md)
 - [Grade 3](../lookup/Grade%203.md), [HSK Beginner](../lookup/HSK/HSK%20Beginner.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
 
+## Aliases
+
+### 谁
+Simplified Chinese form of 誰. SKIP 1-2-8 (computed: EDRDG does not list it); 10 strokes. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[誰]]<rt>ㄙ⼶ㄧ</rt></ruby> "who" (stand-in for 誰)

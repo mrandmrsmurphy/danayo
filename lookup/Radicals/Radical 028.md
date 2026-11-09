@@ -25,6 +25,7 @@ tags: [lookup]
 - 參 --> 参
 - 叁 --> 参
 - 厶 --> 私
+- 㕗 --> 誘
 
 ## Data check
 ```dataview

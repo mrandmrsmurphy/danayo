@@ -4,6 +4,8 @@ Changes to the vault, newest first. History lives here and nowhere else — page
 
 ## 2026-11-09
 
+- **New word 常娥 (Chang'e, the moon goddess):** created `words/常娥.md` (aliases 嫦娥 and 姮娥; 注音 ㄙ⼘ㄫㄚ, dotless since ㄫ is coda-only; Mandarin cháng'é, other fields compositional), with `## Words` backlinks on 常 and 娥 and an entry in `lexipedia/Religion.md` under Spirits & Souls. The 姮→常 Han taboo history and the 항아 / Hằng Nga note are written from memory and not yet verified online.
+
 - **Loop batch 102 (alias protocol), next twelve oldest characters with aliases:** 訣, 訥, 診, 詐, 詛, 詠, 詣, 詫, 詮, 詰, 詳, 誅 gained their first `## Aliases` section (诀; 讷 and 吶; 诊; 诈; 诅; 咏; 诣; 诧; 诠; 诘; 详; 诛), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed). Per the 2026-11-09 decision, dropped the Shuowen radical 㕯 (訥) and the definition-less 謯 (詛) and 𰵞 (詠) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.
 
 - **Loop batch 101 (alias protocol), next twelve oldest characters with aliases:** 襟, 襪, 襲, 見, 覓, 触, 訂, 訃, 訊, 託, 訛, 訟 gained their first `## Aliases` section (衿; 袜; 袭; 见; 觅 and 覔; 觸; 订; 讣; 讯; 讬, 托 and 乇; 讹, 吪 and 䚰; 讼), with Stroke, SKIP and Radical redirects into existing leaves, computed SKIP numbers added to the guess list, and `mc_id` kept at the lowest rank (no value changed; 覓 stays blank). Per the 2026-11-09 decision, dropped the definition-less 訙 (訊) and the Shuowen radical 吅 (訟) from `aliases:`. lint_characters, lint_skip, lint_stroke and lint_syllables pass; all stamped.

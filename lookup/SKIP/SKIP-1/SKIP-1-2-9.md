@@ -39,6 +39,7 @@ tags:
 - 偃 --> 堰
 - 凑 --> 湊
 - 谖 --> 萱
+- 谏 --> 諌
 
 ## Datacheck
 ```dataview

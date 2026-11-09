@@ -793,3 +793,16 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 詰 | 诘 | 1-2-6 | computed from its parts |
 | 詳 | 详 | 1-2-6 | computed from its parts |
 | 誅 | 诛 | 1-2-6 | computed from its parts |
+| 誌 | 𰵧 | 1-2-7 | computed from its parts |
+| 誘 | 诱 | 1-2-7 | computed from its parts |
+| 誘 | 䛻 | 1-7-9 | computed from its parts |
+| 誘 | 㕗 | 2-2-9 | computed from its parts |
+| 誣 | 诬 | 1-2-7 | computed from its parts |
+| 誤 | 误 | 1-2-7 | computed from its parts |
+| 誦 (char) | 诵 | 1-2-7 | computed from its parts |
+| 誰 (char) | 谁 | 1-2-8 | computed from its parts |
+| 誼 | 谊 | 1-2-8 | computed from its parts |
+| 諌 | 諫 | 1-7-9 | computed from its parts |
+| 諌 | 谏 | 1-2-9 | computed from its parts |
+| 諒 | 谅 | 1-2-8 | computed from its parts |
+| 諜 | 谍 | 1-2-7 | computed from its parts |

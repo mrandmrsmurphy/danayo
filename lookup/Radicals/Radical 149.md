@@ -89,6 +89,12 @@ tags: [lookup]
 - 语 --> 語
 - 说 --> 説
 - 䚰 --> 訛
+- 𰵧 --> 誌
+- 诱 --> 誘
+- 诬 --> 誣
+- 误 --> 誤
+- 诵 --> 誦
+- 谍 --> 諜
 
 ### +3 Strokes
 5. <ruby>[訊](../../characters/訊.md)<rt>ㄙㄧㄋ</rt></ruby> - inquire
@@ -99,6 +105,9 @@ tags: [lookup]
 - 读 --> 読
 - 调 --> 調
 - 请 --> 請
+- 谁 --> 誰
+- 谊 --> 誼
+- 谅 --> 諒
 
 ### +4 Strokes
 10. <ruby>[訛](../../characters/訛.md)<rt>⺢</rt></ruby> - error
@@ -112,6 +121,7 @@ tags: [lookup]
 18. <ruby>[𧦅](../../characters/𧦅.md)<rt>ㄛㄨ</rt></ruby> - eulogize
 - 訢 --> 欣
 - 谖 --> 萱
+- 谏 --> 諌
 
 ### +5 Strokes
 19. <ruby>[訴](../../characters/訴.md)<rt>ㄙㄛ</rt></ruby> - sue
@@ -185,6 +195,8 @@ tags: [lookup]
 75. <ruby>[謀](../../characters/謀%20(char).md)<rt>ㄇㄨㄛ</rt></ruby> - conspire
 76. <ruby>[謂](../../characters/謂.md)<rt>ㄨㄧ</rt></ruby> - so called
 - 諼 --> 萱
+- 䛻 --> 誘
+- 諫 --> 諌
 
 ### +10 Strokes
 77. <ruby>[謄](../../characters/謄.md)<rt>ㄉㄜㄫ</rt></ruby> - copy

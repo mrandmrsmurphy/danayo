@@ -219,6 +219,8 @@ tags:
 - 萝 --> 蘿
 - 袭 --> 襲
 - 覔 --> 覓
+- 㕗 --> 誘
+- 谏 --> 諌
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

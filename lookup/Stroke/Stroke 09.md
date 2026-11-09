@@ -198,6 +198,12 @@ tags:
 - 袄 --> 襖
 - 衿 --> 襟
 - 䚰 --> 訛
+- 𰵧 --> 誌
+- 诱 --> 誘
+- 诬 --> 誣
+- 误 --> 誤
+- 诵 --> 誦
+- 谍 --> 諜
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名
