@@ -144,6 +144,7 @@ tags: [lookup]
 
 109. <ruby>[嗇](../../characters/嗇.md)<rt>ㄙㄧㄎ</rt></ruby> - stingy
 - ¡嗮! - 違法字
+- 嗜 --> 耆
 
 ### +11 Strokes
 110. <ruby>[呕](../../characters/呕.md)<rt>ㄛㄨ</rt></ruby> - vomit

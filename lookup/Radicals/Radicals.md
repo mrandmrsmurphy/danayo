@@ -177,7 +177,7 @@ __Combining or simplified radicals with 5 strokes__
 - [[Radical 122]] 网 or combining as 罒 (9 characters)
 - [[Radical 123]] 羊 (9 characters)
 - [[Radical 124]] 羽 (16 characters)
-- [[Radical 125]] 老 (3 characters)
+- [[Radical 125]] 老 (4 characters)
 - [[Radical 126]] 而 (2 characters)
 - [[Radical 127]] 耒 (2 characters)
 - [[Radical 128]] 耳 (14 characters)

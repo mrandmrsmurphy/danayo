@@ -75,6 +75,7 @@ tags:
 - 纸 --> 紙
 - 忧 --> 憂
 - 报 --> 報
+- 狄 --> 翟
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

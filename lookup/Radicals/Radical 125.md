@@ -1,6 +1,6 @@
 ---
 date-last-perfect: 2026-10-05
-size: 3
+size: 4
 radical: 老
 tags: [lookup]
 
@@ -16,6 +16,9 @@ tags: [lookup]
 
 ### +2 Strokes
 3. <ruby>[者](../../characters/者.md)<rt>ㄑㄚ</rt></ruby> - -er
+
+### +4 Strokes
+4. <ruby>[耆](../../characters/耆.md)<rt>ㄍㄧㄜ</rt></ruby> - aged
 
 ## Data check
 ```dataview

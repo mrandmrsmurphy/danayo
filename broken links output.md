@@ -1,9 +1,6 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
 - [[覊]] in [[characters/覇]]
 - [[羈]] in [[characters/覇]], [[lookup/Korean/Korean Name ㄱ]]
-- [[匐]] in [[characters/蔔]], [[lookup/Korean/Korean Name ㅂ]]
-- [[狄]] in [[characters/荻]], [[lookup/Korean/Korean Name ㅈ]]
-- [[耆]] in [[characters/鰭]], [[lookup/Japanese/Hyōgai]], [[lookup/Korean/Korean Name ㄱ]], [[Sorted Missing Characters]]
 - [[䧹]] in [[characters/鷹 (char)]]
 - [[文法 - 07読本]] in [[grammar/単亜語之文法書.en]], [[grammar/単亜語之文法書]]
 - [[舒]] in [[lookup/HSK/HSK Beginner]], [[lookup/HSK/Old HSK 1]], [[lookup/HSK/Old HSK 2]], [[lookup/HSK/Old HSK 3]], [[lookup/HSK/Old HSK 4]], [[lookup/Korean/Korean Name ㅅ]]

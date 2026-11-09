@@ -183,7 +183,7 @@ Emotions vocabulary spans the full range of feeling — joy, sadness, anger, fea
 - <ruby>[熱望](../words/熱望.md)<rt>ㄋ⼶ㄊㄇㄚㄫ</rt></ruby>: fervent hope — a wish held with heat.
 - <ruby>[執着](../words/執着.md)<rt>ㄐㄧㄆㄐ⺢ㄎ</rt></ruby>: to cling, obsession — to hold fast and not let go; in Buddhism the clinging that binds.
 - <ruby>[熱中](../words/熱中.md)<rt>ㄋ⼶ㄊㄐㄨㄫ</rt></ruby>: to be absorbed in — to throw oneself eagerly into a pursuit.
-- <ruby>[鰭好](../words/鰭好.md)<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby>: a taste, hobby — a thing one is fond of and indulges in; the real-world spelling is 嗜好 (see its aliases).
+- <ruby>[耆好](../words/耆好.md)<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby>: a taste, hobby — a thing one is fond of and indulges in; the real-world spelling is 嗜好 (see its aliases).
 - <ruby>[夢中](../words/夢中.md)<rt>ㄇㄨㄫㄐㄨㄫ</rt></ruby>: absorbed, off in another world — so taken up with something as to be unaware of the rest.
 - <ruby>[貪欲](../words/貪欲.md)<rt>ㄊㄚㄇ·⼄ㄎ</rt></ruby>: greed — desire that wants more than it needs.
 - <ruby>[野心](../words/野心.md)<rt>⼘ㄙㄧㄇ</rt></ruby>: ambition — a strong wish to rise to power or success.

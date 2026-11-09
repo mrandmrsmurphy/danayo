@@ -24,6 +24,7 @@ tags:
 4. <ruby>[状](../../characters/状.md)<rt>ㄐ⺢ㄫ</rt></ruby> - form
 - 狀 --> traditional form of 状
 5. <ruby>[狂](../../characters/狂.md)<rt>ㄍ⺢ㄫ</rt></ruby> - crazy
+- 狄 --> 翟
 
 ### +4 Strokes
 6. <ruby>[狐](../../characters/狐.md)<rt>ㄏㄛ</rt></ruby> - fox

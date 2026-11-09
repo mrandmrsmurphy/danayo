@@ -53,7 +53,7 @@ boundedness: 100
 - <ruby>[[愛好]]<rt>ㄚㄧㄏㄚㄨ</rt></ruby> "to like"
 - <ruby>[[友好]]<rt>⼜ㄛㄏㄚㄨ</rt></ruby> "friendly; amicable"
 - <ruby>[[好奇心]]<rt>ㄏㄚㄨㄍㄨㄧㄙㄧㄇ</rt></ruby> "curiosity"
-- <ruby>[[鰭好]]<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby> "hobby"
+- <ruby>[[耆好]]<rt>ㄍㄧㄜㄏㄚㄨ</rt></ruby> "hobby"
 - <ruby>[[好奇]]<rt>ㄏㄚㄨㄍㄨㄧ</rt></ruby> "curious"
 - <ruby>[[偏好]]<rt>ㄆ⼶ㄋㄏㄚㄨ</rt></ruby> "preference"
 - <ruby>[[好色]]<rt>ㄏㄚㄨㄙㄧㄎ</rt></ruby> "a womanizer; lustful"

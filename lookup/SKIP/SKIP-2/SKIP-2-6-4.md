@@ -2,7 +2,7 @@
 stroke_count: 10
 date-last-perfect: 2026-10-31
 skip_number: 2-6-4
-size: 19
+size: 20
 tags: [lookup]
 
 ---
@@ -27,9 +27,10 @@ tags: [lookup]
 14. <ruby>[桌](/characters/桌%20(char).md)<rt>ㄊㄚㄎ</rt></ruby> "table, desk, stand"
 15. <ruby>[烈](/characters/烈.md)<rt>ㄌㄝㄊ</rt></ruby> "fiery"
 16. <ruby>[笑](/characters/笑%20(char).md)<rt>ㄙ⼄ㄨ</rt></ruby> "laugh"
-17. <ruby>[脊](/characters/脊.md)<rt>ㄐㄝㄎ</rt></ruby> "spine"
-18. <ruby>[骨](/characters/骨%20(char).md)<rt>ㄍㄛㄊ</rt></ruby> "bone"
-19. <ruby>[鬼](/characters/鬼.md)<rt>ㄍㄨㄧ</rt></ruby> "devil"
+17. <ruby>[耆](/characters/耆.md)<rt>ㄍㄧㄜ</rt></ruby> "aged"
+18. <ruby>[脊](/characters/脊.md)<rt>ㄐㄝㄎ</rt></ruby> "spine"
+19. <ruby>[骨](/characters/骨%20(char).md)<rt>ㄍㄛㄊ</rt></ruby> "bone"
+20. <ruby>[鬼](/characters/鬼.md)<rt>ㄍㄨㄧ</rt></ruby> "devil"
 
 ### Aliases
 - 恳 --> 懇
