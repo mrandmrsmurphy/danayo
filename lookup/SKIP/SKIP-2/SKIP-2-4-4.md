@@ -42,6 +42,7 @@ tags:
 - 态 --> 態
 - 质 --> 質
 - 杰 --> 傑
+- 戾 --> 戻
 
 ### Forbidden
 - 爸 - 中国制造: HSK/1, but solely Chinese.  Use 父 instead.  巴 has the sound.

@@ -373,3 +373,14 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 悪 (char) | 恶 | 2-7-3 | computed from its parts |
 | 悶 | 闷 | 3-3-4 | computed from its parts |
 | 悶 | 㥃 | 1-3-8 | computed from its parts |
+| 愨 | 悫 | 2-7-4 | computed from its parts |
+| 愨 | 慤 | 1-3-12 | computed from its parts |
+| 慮 | 虑 | 2-6-4 | computed from its parts |
+| 憤 | 愤 | 1-3-9 | computed from its parts |
+| 憫 (char) | 悯 | 1-3-7 | computed from its parts |
+| 憲 | 宪 | 2-3-6 | computed from its parts |
+| 懲 | 惩 | 2-8-4 | computed from its parts |
+| 懶 | 懒 | 1-3-13 | computed from its parts |
+| 懸 (char) | 悬 | 2-7-4 | computed from its parts |
+| 戟 | 㦸 | 1-8-4 | computed from its parts |
+| 戻 | 戾 | 2-4-4 | computed from its parts |

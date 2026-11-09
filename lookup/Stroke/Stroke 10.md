@@ -141,6 +141,8 @@ tags:
 - 耻 --> 恥
 - 猂 --> 悍
 - 恶 --> 悪
+- 虑 --> 慮
+- 悯 --> 憫
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

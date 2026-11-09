@@ -32,7 +32,7 @@ stand_in: "懸"
 aliases:
   - 悬
 注音: "ㄏ⼔ㄋ"
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-2-16-4](../lookup/SKIP/SKIP-2/SKIP-2-16-4.md) ([Stroke 20](../lookup/Stroke/Stroke%2020.md))
 - 1574th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 匣|ɣ]] + [[Lookup/CC/finals/韻 先合|wen]] → [ㄏ⼔ㄋ](../syllables/ㄏ⼔ㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 悬
+Simplified Chinese form of 懸. SKIP 2-7-4 (computed: EDRDG does not list it); 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[懸]]<rt>ㄏ⼔ㄋ</rt></ruby> "hang; suspend; hoist" (stand-in for 懸 (char))

@@ -73,6 +73,7 @@ tags: [lookup]
 ### +10 Strokes
 34. <ruby>[熙](../../characters/熙.md)<rt>ㄏㄧ</rt></ruby> - splendid
 - 熒 --> 蛍
+- 煽 --> 扇
 
 ### +11 Strokes
 35. <ruby>[熟](../../characters/熟%20(char).md)<rt>ㄙㄨㄎ</rt></ruby> - ripen

@@ -37,6 +37,7 @@ tags: [lookup]
 - 叁 --> 参
 - 侖 --> 倫
 - 㔬 --> 卓
+- 忿 --> 憤
 
 ### Forbidden
 - 𫂲 - 国字: 乃+米.   もみがら momigara, rice chaff

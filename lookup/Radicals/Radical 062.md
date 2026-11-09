@@ -37,6 +37,7 @@ tags: [lookup]
 
 ### +8 Strokes
 11. <ruby>[戟](../../characters/戟.md)<rt>ㄍㄝㄎ</rt></ruby> - halberd with crescent blade
+- 㦸 --> 戟
 
 ### +9 Strokes
 12. <ruby>[戦](../../characters/戦.md)<rt>ㄐㄝㄋ</rt></ruby> - war

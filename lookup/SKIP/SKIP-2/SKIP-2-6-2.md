@@ -25,6 +25,7 @@ tags: [lookup]
 - 兒 --> 児
 - 劵 --> 券
 - 咒 --> 呪
+- 凭 --> 憑
 
 ## Datacheck
 ```dataview

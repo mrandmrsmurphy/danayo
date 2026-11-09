@@ -35,6 +35,7 @@ tags: [lookup]
 - 辈 --> 輩
 - 惣 --> 総
 - 惡 --> 悪
+- 惩 --> 懲
 
 ## Datacheck
 ```dataview

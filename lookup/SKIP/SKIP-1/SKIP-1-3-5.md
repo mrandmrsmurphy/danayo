@@ -116,6 +116,7 @@ tags:
 - 帜 --> 幟
 - 怳 --> 恍
 - 怫 --> 悖
+- 怜 --> 憐
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

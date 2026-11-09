@@ -16,6 +16,9 @@ tags: [lookup]
 ### +3 Strokes
 2. <ruby>[虐](../../characters/虐.md)<rt>⼘ㄎ</rt></ruby> - tyrannical
 
+### +4 Strokes
+- 虑 --> 慮
+
 ### +5 Strokes
 3. <ruby>[虚](../../characters/虚%20(char).md)<rt>ㄏ⼄</rt></ruby> - void
 

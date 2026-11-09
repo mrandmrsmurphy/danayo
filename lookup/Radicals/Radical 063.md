@@ -19,6 +19,7 @@ tags: [lookup]
 ### +4 Strokes
 3. <ruby>[房](../../characters/房%20(char).md)<rt>ㄅㄚㄫ</rt></ruby> - room
 4. <ruby>[所](../../characters/所%20(char).md)<rt>ㄙㄜ</rt></ruby> - -ee
+- 戾 --> 戻
 
 ### +5 Strokes
 5. <ruby>[扁](../../characters/扁.md)<rt>ㄆ⼶ㄋ</rt></ruby> - flat

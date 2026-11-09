@@ -79,6 +79,9 @@ tags:
 36. <ruby>[創](../../characters/創.md)<rt>ㄑ⺢ㄫ</rt></ruby> - originate
 - 剩 --> 剰
 
+### +11 Strokes
+- 剹 --> 戮
+
 ### +12 Strokes
 37. <ruby>[劃](../../characters/劃%20(char).md)<rt>ㄏ⺢ㄎ</rt></ruby> - divide
 

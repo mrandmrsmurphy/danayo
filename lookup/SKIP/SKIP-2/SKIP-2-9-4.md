@@ -22,6 +22,7 @@ tags: [lookup]
 
 ### Aliases
 - 愂 --> 悖
+- 愍 --> 憫
 
 ## Datacheck
 ```dataview

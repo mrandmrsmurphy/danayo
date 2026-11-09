@@ -29,6 +29,7 @@ tags: [lookup]
 9. <ruby>[忝](../../characters/忝.md)<rt>ㄊㄧㄇ</rt></ruby> - shame
 10. <ruby>[忠](../../characters/忠.md)<rt>ㄊㄨㄫ</rt></ruby> - loyalty
 11. <ruby>[快](../../characters/快%20(char).md)<rt>ㄎ⺢ㄧ</rt></ruby> - sharp
+- 忼 --> 慷
 
 ### +4 Strokes
 12. <ruby>[念](../../characters/念.md)<rt>ㄋㄝㄇ</rt></ruby> - thought
@@ -44,6 +45,8 @@ tags: [lookup]
 - 㤁 --> 忝
 - 怳 --> 恍
 - 怫 --> 悖
+- 怜 --> 憐
+- 忿 --> 憤
 
 ### +5 Strokes
 19. <ruby>[怒](../../characters/怒%20(char).md)<rt>ㄋㄛ</rt></ruby> - angry
@@ -82,6 +85,7 @@ tags: [lookup]
 - 悅 --> 悦
 - 悧 --> 俐
 - 恶 --> 悪
+- 悯 --> 憫
 
 ### +7 Strokes
 44. <ruby>[悉](../../characters/悉.md)<rt>ㄙㄧㄊ</rt></ruby> - comprehend
@@ -101,6 +105,8 @@ tags: [lookup]
 - 惊 --> 驚
 - 悽 --> 凄
 - 㥃 --> 悶
+- 悫 --> 愨
+- 悬 --> 懸
 
 ### +8 Strokes
 56. <ruby>[悲](../../characters/悲%20(char).md)<rt>ㄅㄧㄜ</rt></ruby> - be sad
@@ -115,6 +121,8 @@ tags: [lookup]
 - 愢 --> 偲
 - 惱 --> 悩
 - 惡 --> 悪
+- 愤 --> 憤
+- 惩 --> 懲
 
 ### +9 Strokes
 64. <ruby>[想](../../characters/想.md)<rt>ㄙㄚㄫ</rt></ruby> - thought
@@ -130,6 +138,8 @@ tags: [lookup]
 74. <ruby>[慎](../../characters/慎.md)<rt>ㄙㄧㄋ</rt></ruby> - cautious
 75. <ruby>[慨](../../characters/慨%20(char).md)<rt>ㄎㄚㄧ</rt></ruby> - sigh
 - 愂 --> 悖
+- 愼 --> 慎
+- 愍 --> 憫
 
 ### +10 Strokes
 76. <ruby>[愨](../../characters/愨.md)<rt>ㄎㄚㄎ</rt></ruby> - sincerity
@@ -158,6 +168,9 @@ tags: [lookup]
 93. <ruby>[憬](../../characters/憬.md)<rt>ㄍ⼄ㄫ</rt></ruby> - awaken
 - 慾 --> 欲
 - 憚 --> 惮
+- 慤 --> 愨
+- 憇 --> 憩
+- 慼 --> 戚
 
 ### +12 Strokes
 94. <ruby>[憐](../../characters/憐.md)<rt>ㄌㄝㄋ</rt></ruby> - pitiful
@@ -170,6 +183,7 @@ tags: [lookup]
 100. <ruby>[憑](../../characters/憑%20(char).md)<rt>ㄅㄧㄫ</rt></ruby> - rely on
 101. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
 - 憻 --> 坦
+- 懒 --> 懶
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere

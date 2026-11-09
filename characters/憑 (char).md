@@ -32,7 +32,7 @@ stand_in: 憑
 aliases:
   - 凭
 注音: ㄅㄧㄫ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 70
 - [SKIP-2-12-4](../lookup/SKIP/SKIP-2/SKIP-2-12-4.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 2986th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 蒸|ɨŋ]] → [ㄅㄧㄫ](../syllables/ㄅㄧㄫ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㅂ](../lookup/Korean/Korean%20Name%20ㅂ.md)
+
+## Aliases
+
+### 凭
+The Chinese simplified form of 憑, "to lean on". SKIP 2-6-2; 8 strokes. Radical 016 几. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[憑]]<rt>ㄅㄧㄫ</rt></ruby> "to rely on; evidence" (stand-in for 憑)

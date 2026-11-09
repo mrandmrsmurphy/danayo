@@ -94,6 +94,7 @@ tags:
 - 坛 --> 壇
 - 妒 --> 妬
 - 岗 --> 岡
+- 忼 --> 慷
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

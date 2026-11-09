@@ -32,17 +32,9 @@ danayo_id: 2105
 mc_id: 113
 graphemic_classification: 会意
 stand_in: 我
-aliases:
-  - 𠨂
-  - 𢦐
-  - 𢦓
-  - 𢦖
-  - 𢦠
-  - 𨈟
-  - 𩇶
 注音: ㄚ
 swadesh: 1
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: true
 tags:
   - character

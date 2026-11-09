@@ -166,6 +166,7 @@ tags: [lookup]
 - 㖷 --> 啼
 - 喻 --> 喩
 - 喷 --> 噴
+- 嘅 --> 慨
 
 ### +10 Strokes
 103. <ruby>[咎](../../characters/咎.md)<rt>ㄍ⼜</rt></ruby> - calamity

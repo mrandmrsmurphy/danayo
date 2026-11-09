@@ -101,6 +101,7 @@ tags:
 - 盦 --> 庵
 - 辨 --> 弁
 - 雕 --> 彫
+- 懒 --> 懶
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

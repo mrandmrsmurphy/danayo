@@ -92,6 +92,7 @@ tags: [lookup]
 - 媮 --> 偷
 - 婾 --> 偷
 - 媆 --> 嫩
+- 媿 --> 愧
 
 ### +10 Strokes
 52. <ruby>[媽](../../characters/媽.md)<rt>ㄇㄚ</rt></ruby> - maidservant
@@ -118,6 +119,9 @@ tags: [lookup]
 
 ### +14 Strokes
 62. <ruby>[嬰](../../characters/嬰.md)<rt>ㄧㄫ</rt></ruby> - infant
+
+### +16 Strokes
+- 嬾 --> 懶
 
 ### +17 Strokes
 - 孃 --> 娘

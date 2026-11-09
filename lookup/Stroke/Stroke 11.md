@@ -154,6 +154,8 @@ tags:
 - 庿 --> 廟
 - 絃 --> 弦
 - 㥃 --> 悶
+- 悫 --> 愨
+- 悬 --> 懸
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

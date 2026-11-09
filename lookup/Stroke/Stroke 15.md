@@ -108,6 +108,9 @@ tags:
 - 徵 --> 征
 - 德 --> 徳
 - 憚 --> 惮
+- 慤 --> 愨
+- 憇 --> 憩
+- 慼 --> 戚
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

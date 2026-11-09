@@ -125,6 +125,8 @@ tags:
 - 箒 --> 帚
 - 誖 --> 悖
 - 慘 --> 惨
+- 誡 --> 戒
+- 煽 --> 扇
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

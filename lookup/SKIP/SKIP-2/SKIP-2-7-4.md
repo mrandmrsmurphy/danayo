@@ -28,6 +28,8 @@ tags: [lookup]
 ### Aliases
 - 桀 --> 傑
 - 脣 --> 唇
+- 悫 --> 愨
+- 悬 --> 懸
 
 ## Datacheck
 ```dataview

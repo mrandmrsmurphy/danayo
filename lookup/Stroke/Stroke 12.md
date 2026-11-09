@@ -152,6 +152,11 @@ tags: [lookup]
 - 㷇 --> 恢
 - 惱 --> 悩
 - 惡 --> 悪
+- 媿 --> 愧
+- 嘅 --> 慨
+- 愤 --> 憤
+- 惩 --> 懲
+- 㦸 --> 戟
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name
