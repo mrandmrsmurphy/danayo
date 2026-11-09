@@ -170,6 +170,7 @@ tags:
 - 肈 --> 肇
 - 踁 --> 脛
 - 膃 --> 腽
+- 蔣 --> 蒋
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

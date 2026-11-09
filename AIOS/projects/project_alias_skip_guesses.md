@@ -691,3 +691,29 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 荘 | 莊 | 2-3-8 | computed from its parts |
 | 荘 | 庄 | 3-3-3 | computed from its parts |
 | 莱 | 萊 | 2-3-8 | computed from its parts |
+| 菫 | 堇 | 2-3-8 | computed from its parts |
+| 菫 | 槿 | 1-4-11 | computed from its parts |
+| 菫 | 瑾 | 1-4-11 | computed from its parts |
+| 萌 | 萠 | 2-3-8 | computed from its parts |
+| 萱 | 諼 | 1-7-9 | computed from its parts |
+| 萱 | 谖 | 1-2-9 | computed from its parts |
+| 葉 (char) | 叶 | 1-3-2 | computed from its parts |
+| 葦 | 苇 | 2-3-4 | computed from its parts |
+| 葩 | 皅 | 1-5-4 | computed from its parts |
+| 葩 | 苩 | 2-3-5 | computed from its parts |
+| 葱 | 蔥 | 2-3-12 | computed from its parts |
+| 蒋 | 蔣 | 2-3-11 | computed from its parts |
+| 蒙 | 懞 | 1-3-13 | computed from its parts |
+| 蒙 | 濛 | 1-3-13 | computed from its parts |
+| 蒙 | 矇 | 1-5-13 | computed from its parts |
+| 蒼 (char) | 苍 | 2-3-4 | computed from its parts |
+| 蒼 (char) | 滄 | 1-3-10 | computed from its parts |
+| 蒼 (char) | 沧 | 1-3-4 | computed from its parts |
+| 蓋 | 盖 | 2-3-8 | computed from its parts |
+| 蓮 (char) | 莲 | 2-3-7 | computed from its parts |
+| 蔑 (char) | 衊 | 1-6-14 | computed from its parts |
+| 蕎 | 荞 | 2-3-6 | computed from its parts |
+| 蕎 | 荍 | 2-3-6 | computed from its parts |
+| 蕤 | 甤 | 2-6-6 | computed from its parts |
+| 蕩 | 荡 | 2-3-6 | computed from its parts |
+| 蕩 | 盪 | 2-12-5 | computed from its parts |

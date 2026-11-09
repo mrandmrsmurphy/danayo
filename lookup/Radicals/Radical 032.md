@@ -82,6 +82,7 @@ tags:
 35. <ruby>[堵](../../characters/堵.md)<rt>ㄉㄛ</rt></ruby> - wall
 - 堊 --> 亜
 - 堈 --> 缸
+- 堇 --> 菫
 
 ### +9 Strokes
 36. <ruby>[堅](../../characters/堅.md)<rt>ㄍㄝㄋ</rt></ruby> - hard

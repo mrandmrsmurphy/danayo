@@ -23,6 +23,9 @@ tags: [lookup]
 ### +9 Strokes
 - 䘔 --> 喀
 
+### +14 Strokes
+- 衊 --> 蔑
+
 ## Data check
 ```dataview
 TABLE 注音 AS "Sound", english AS "EN"

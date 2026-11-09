@@ -60,6 +60,7 @@ tags: [lookup]
 - 沉 --> 沈
 - 洰 --> 渠
 - 沟 --> 溝
+- 沧 --> 蒼
 
 ### +4 Strokes
 30. <ruby>[沓](../../characters/沓.md)<rt>ㄉㄛㄆ</rt></ruby> - numerous
@@ -240,6 +241,7 @@ tags: [lookup]
 - 滛 --> 淫
 - 滥 --> 濫
 - 滩 --> 灘
+- 滄 --> 蒼
 
 ### +10 Strokes
 138. <ruby>[滲](../../characters/滲.md)<rt>ㄙㄛㄇ</rt></ruby> - soak through
@@ -299,6 +301,7 @@ tags: [lookup]
 - 澱 --> 淀
 - 濒 --> 瀕
 - 濑 --> 瀬
+- 濛 --> 蒙
 
 ### +13 Strokes
 166. <ruby>[濯](../../characters/濯.md)<rt>ㄉㄚㄎ</rt></ruby> - launder

@@ -71,6 +71,7 @@ tags:
 28. <ruby>[瞻](../../characters/瞻.md)<rt>ㄐㄝㄇ</rt></ruby> - look with reverence
 29. <ruby>[瞼](../../characters/瞼.md)<rt>ㄍㄝㄇ</rt></ruby> - eyelid
 - 瞹 --> 曖
+- 矇 --> 蒙
 
 ### Aliases
 - 眀 --> 明

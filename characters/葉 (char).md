@@ -38,7 +38,7 @@ stand_in: 葉
 aliases:
   - 叶
 注音: ⼄ㄆ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -56,6 +56,11 @@ boundedness: 90
 - [SKIP-2-3-9](../lookup/SKIP/SKIP-2/SKIP-2-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 1145th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 葉三|iᴇp]] → [⼄ㄆ](../syllables/⼄ㄆ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 叶
+口 + 十, "to match, to accord"; the Chinese form of 葉 and kept as an alias. SKIP 1-3-2 (computed: EDRDG does not list it); 5 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[葉]]<rt>⼄ㄆ</rt></ruby> "leaf" (stand-in for 葉)

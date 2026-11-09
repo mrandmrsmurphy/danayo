@@ -76,6 +76,7 @@ tags:
 ### +10 Strokes
 33. <ruby>[璃](../../characters/璃%20(char).md)<rt>ㄌㄜ</rt></ruby> - glass
 - 瑩 --> 瑛
+- 瑾 --> 菫
 
 ### +11 Strokes
 34. <ruby>[璣](../../characters/璣.md)<rt>ㄍㄧㄜ</rt></ruby> - pearl that is not quite round

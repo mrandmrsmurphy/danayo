@@ -30,6 +30,7 @@ tags: [lookup]
 6. <ruby>[盒](../../characters/盒.md)<rt>ㄏㄛㄆ</rt></ruby> - box
 7. <ruby>[盗](../../characters/盗.md)<rt>ㄉㄚㄨ</rt></ruby> - burgle
 - 盘 --> 盤
+- 盖 --> 蓋
 
 ### +7 Strokes
 8. <ruby>[盛](../../characters/盛.md)<rt>ㄙㄧㄫ</rt></ruby> - flourish
@@ -49,6 +50,9 @@ tags: [lookup]
 ### +11 Strokes
 13. <ruby>[盧](../../characters/盧.md)<rt>ㄌㄛ</rt></ruby> - cottage
 - 盦 --> 庵
+
+### +12 Strokes
+- 盪 --> 蕩
 
 ## Data check
 ```dataview

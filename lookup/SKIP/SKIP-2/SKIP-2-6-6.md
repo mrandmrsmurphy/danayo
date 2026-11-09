@@ -50,6 +50,7 @@ tags: [lookup]
 - 奡 --> 傲
 - 粪 --> 糞
 - 羡 --> 羨
+- 甤 --> 蕤
 
 ## Datacheck
 ```dataview

@@ -42,6 +42,7 @@ tags:
 - 扑 --> 撲
 - 圢 --> 町
 - 纠 --> 糾
+- 叶 --> 葉
 
 ### Forbidden
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.

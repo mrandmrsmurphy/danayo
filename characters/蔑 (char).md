@@ -56,6 +56,11 @@ date-last-perfect: 2026-10-20
 - 2221st most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 屑開|et]] → [ㄇㄝㄊ](../syllables/ㄇㄝㄊ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
 
+## Aliases
+
+### 衊
+血 + 蔑, "to smear"; built on 蔑 and kept as an alias. SKIP 1-6-14 (computed: EDRDG does not list it); 20 strokes. Radical 143 血. It has no rank of its own in the Classical Chinese lists.
+
 ## Words
 - <ruby>[[蔑]]<rt>ㄇㄝㄊ</rt></ruby> "scorn" (stand-in for 蔑)
 - <ruby>[[軽蔑]]<rt>ㄎㄧㄫㄇㄝㄊ</rt></ruby> "contempt"

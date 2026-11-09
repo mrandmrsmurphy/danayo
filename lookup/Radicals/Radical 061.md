@@ -189,6 +189,7 @@ tags: [lookup]
 101. <ruby>[懍](../../characters/懍.md)<rt>ㄌㄜㄇ</rt></ruby> - fear
 - 憻 --> 坦
 - 懒 --> 懶
+- 懞 --> 蒙
 
 ### +13 Strokes
 102. <ruby>[懇](../../characters/懇.md)<rt>ㄎㄚㄋ</rt></ruby> - sincere

@@ -43,6 +43,7 @@ tags:
 - 砂 --> 沙
 - 砚 --> 硯
 - 砖 --> 磚
+- 皅 --> 葩
 
 ### Forbidden
 - 砍 - 官话: HSK/2. "To chop." No existing vault citations.

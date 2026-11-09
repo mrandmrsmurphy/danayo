@@ -31,6 +31,7 @@ tags: [lookup]
 16. <ruby>[司](../../characters/司.md)<rt>ㄙㄚ</rt></ruby> - company
 - 𠮟 --> 叱
 - 叹 --> 嘆
+- 叶 --> 葉
 
 ### +3 Strokes
 17. <ruby>[各](../../characters/各%20(char).md)<rt>ㄍㄚㄎ</rt></ruby> - each

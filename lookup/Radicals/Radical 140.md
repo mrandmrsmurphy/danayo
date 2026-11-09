@@ -16,10 +16,13 @@ tags:
 ### +1 Stroke
 - 芯 --> 心
 - 芴 --> 忽
+- 苇 --> 葦
+- 苍 --> 蒼
 
 ### +2 Strokes
 1. <ruby>[艾](../../characters/艾.md)<rt>ㄚㄧ</rt></ruby> - mugwort
 - 芙 --> 夫
+- 苩 --> 葩
 
 ### +3 Strokes
 2. <ruby>[芋](../../characters/芋.md)<rt>ㄨ</rt></ruby> - taro
@@ -30,6 +33,9 @@ tags:
 - 茮 --> 椒
 - 茧 --> 繭
 - 荆 --> 荊
+- 荞 --> 蕎
+- 荍 --> 蕎
+- 荡 --> 蕩
 
 ### +4 Strokes
 5. <ruby>[芡](../../characters/芡.md)<rt>ㄍ⼘ㄇ</rt></ruby> - prickly waterlily
@@ -49,6 +55,7 @@ tags:
 - 莓 --> 苺
 - 莖 --> 茎
 - 莕 --> 荇
+- 莲 --> 蓮
 
 ### +5 Strokes
 16. <ruby>[䒦](../../characters/䒦.md)<rt>ㄈㄛㄇ</rt></ruby> - grass floating on water
@@ -78,6 +85,7 @@ tags:
 - 菭 --> 苔
 - 莊 --> 荘
 - 萊 --> 莱
+- 萠 --> 萌
 
 ### +6 Strokes
 32. <ruby>[茄](../../characters/茄.md)<rt>ㄍㄚ</rt></ruby> - eggplant
@@ -128,6 +136,7 @@ tags:
 - 蔘 --> 参
 - 蒔 --> 時
 - 䓾 --> 沙
+- 蔣 --> 蒋
 
 ### +9 Strokes
 60. <ruby>[茨](../../characters/茨.md)<rt>ㄐㄧㄜ</rt></ruby> - thorn
@@ -144,6 +153,7 @@ tags:
 71. <ruby>[葺](../../characters/葺%20(char).md)<rt>ㄑㄨㄆ</rt></ruby> - roofed with
 - 蕓 --> 芸
 - 蕨 --> 厥
+- 蔥 --> 葱
 
 ### +10 Strokes
 72. <ruby>[莫](../../characters/莫%20(char).md)<rt>ㄇㄚㄎ</rt></ruby> - not exist

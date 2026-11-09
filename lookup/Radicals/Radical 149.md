@@ -77,6 +77,7 @@ tags: [lookup]
 17. <ruby>[訳](../../characters/訳.md)<rt>⼶ㄎ</rt></ruby> - translate
 18. <ruby>[𧦅](../../characters/𧦅.md)<rt>ㄛㄨ</rt></ruby> - eulogize
 - 訢 --> 欣
+- 谖 --> 萱
 
 ### +5 Strokes
 19. <ruby>[訴](../../characters/訴.md)<rt>ㄙㄛ</rt></ruby> - sue
@@ -149,6 +150,7 @@ tags: [lookup]
 74. <ruby>[諾](../../characters/諾%20(char).md)<rt>ㄋㄚㄎ</rt></ruby> - consent
 75. <ruby>[謀](../../characters/謀%20(char).md)<rt>ㄇㄨㄛ</rt></ruby> - conspire
 76. <ruby>[謂](../../characters/謂.md)<rt>ㄨㄧ</rt></ruby> - so called
+- 諼 --> 萱
 
 ### +10 Strokes
 77. <ruby>[謄](../../characters/謄.md)<rt>ㄉㄜㄫ</rt></ruby> - copy

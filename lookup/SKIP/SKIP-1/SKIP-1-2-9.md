@@ -38,6 +38,7 @@ tags:
 - 偿 --> 償
 - 偃 --> 堰
 - 凑 --> 湊
+- 谖 --> 萱
 
 ## Datacheck
 ```dataview

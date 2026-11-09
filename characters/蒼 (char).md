@@ -37,7 +37,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 蒼.
 >For the word, see [蒼](../words/蒼.md)
@@ -50,6 +50,17 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-13](../lookup/SKIP/SKIP-2/SKIP-2-3-13.md) ([Stroke 16](../lookup/Stroke/Stroke%2016.md))
 - 1142nd most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 清|t͡sʰ]] + [[Lookup/CC/finals/韻 唐開|ɑŋ]] → [ㄑ⺢ㄫ](../syllables/ㄑ⺢ㄫ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 苍
+Simplified Chinese form of 蒼. SKIP 2-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 滄
+氵 + 倉, "dark green (of water)"; kept as an alias of 蒼 for its shared meaning. SKIP 1-3-10 (computed: EDRDG does not list it); 13 strokes. Radical 085 水. It ranks 3716 in the Classical Chinese lists, a higher number than the page's `mc_id`.
+
+### 沧
+Simplified Chinese form of 滄. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. Radical 085 水. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[蒼]]<rt>ㄑ⺢ㄫ</rt></ruby> "blue, green, grey" (stand-in for 蒼)

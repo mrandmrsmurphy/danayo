@@ -25,6 +25,7 @@ tags: [lookup]
 ### +4 Strokes
 5. <ruby>[皆](../../characters/皆%20(char).md)<rt>ㄍ⼶</rt></ruby> - every
 6. <ruby>[皇](../../characters/皇.md)<rt>ㄏ⺢ㄫ</rt></ruby> - emperor
+- 皅 --> 葩
 
 ### +5 Strokes
 - 皋 --> 睾

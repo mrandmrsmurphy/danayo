@@ -117,6 +117,7 @@ tags:
 - 纲 --> 綱
 - 纬 --> 緯
 - 听 --> 聴
+- 沧 --> 蒼
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

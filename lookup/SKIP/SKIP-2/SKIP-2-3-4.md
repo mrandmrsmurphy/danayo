@@ -59,6 +59,8 @@ tags:
 - 芯 --> 心
 - 芴 --> 忽
 - 穷 --> 窮
+- 苇 --> 葦
+- 苍 --> 蒼
 
 ### Forbidden
 - 妛 - 幽霊文字: Misspelling of 𡚴.  Use 蚩 + 女

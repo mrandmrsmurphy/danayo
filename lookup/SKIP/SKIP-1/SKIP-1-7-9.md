@@ -45,6 +45,7 @@ tags:
 - 辨 --> 弁
 - 貓 --> 猫
 - 䞼 --> 竄
+- 諼 --> 萱
 
 ### Forbidden
 - 躾 - 国字: 한문교육용기초한자/이름 "training, rearing"
