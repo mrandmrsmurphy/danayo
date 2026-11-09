@@ -35,6 +35,7 @@ tags: [lookup]
 - 𠂯 --> 乖
 - 㐅 --> 五
 - 𠂉 --> 人
+- 乔 --> 喬
 
 ### Forbidden
 - 乊 - 口訣: Korean 구결 for '호' (proto-Hangǔl)

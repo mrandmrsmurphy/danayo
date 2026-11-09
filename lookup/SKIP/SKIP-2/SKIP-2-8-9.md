@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### Aliases
 - 䨣 --> 覇
+- 營 --> 営
 
 ## Datacheck
 ```dataview

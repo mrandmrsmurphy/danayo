@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 25
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 喋.
 >For the word, see [喋](../words/喋.md)
@@ -50,6 +50,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 4282nd most used character in Classical Chinese (beyond the top ~4000 locally mirrored, trusted long-tail rank). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](../syllables/ㄉㄝㄆ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jinmeiyō](../lookup/Japanese/Jinmeiyō.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 啑
+口 + 疌 element, "to eat (of fish or waterbirds)"; a variant of 喋 and kept as an alias. SKIP 1-3-8; 11 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[喋]]<rt>ㄉㄝㄆ</rt></ruby> "chatter" (stand-in for 喋)

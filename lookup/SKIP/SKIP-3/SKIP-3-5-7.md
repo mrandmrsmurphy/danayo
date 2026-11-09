@@ -19,6 +19,9 @@ tags: [lookup]
 ### Forbidden
 - 𫌷 - 国字: 'telegram', from 電信
 
+### Aliases
+- 𤶴 --> 呻
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

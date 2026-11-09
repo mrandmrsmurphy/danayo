@@ -36,6 +36,9 @@ tags: [lookup]
 ### +6 Strokes
 15. <ruby>[駱](../../characters/駱.md)<rt>ㄌㄚㄎ</rt></ruby> - camel
 
+### +7 Strokes
+- 騃 --> 呆
+
 ### +8 Strokes
 16. <ruby>[騎](../../characters/騎.md)<rt>ㄍㄨㄧ</rt></ruby> - ride horseback
 17. <ruby>[騒](../../characters/騒%20(char).md)<rt>ㄙㄚㄨ</rt></ruby> - boisterous

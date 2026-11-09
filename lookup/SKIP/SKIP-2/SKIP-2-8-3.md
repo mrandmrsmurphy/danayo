@@ -31,6 +31,7 @@ tags: [lookup]
 - 麥 --> 麦
 - 專 --> 専
 - 堊 --> 亜
+- 啟 --> 啓
 
 ## Datacheck
 ```dataview

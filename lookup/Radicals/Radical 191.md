@@ -16,6 +16,7 @@ tags: [lookup]
 - 鬥 --> 門
 - 鬥 --> 斗
 - 鬩 --> 䦧
+- 鬨 --> 哄
 
 ## Data check
 ```dataview

@@ -23,7 +23,7 @@ joyo_level: 高等
 hsk_level: 無
 hanmun_edu_level: 名
 danayo_id: 6055
-mc_id: 0
+mc_id:
 graphemic_classification: 貝
 stand_in: 唄
 aliases:
@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 60
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is about the character.
 >For the word, see [唄](../words/唄.md)
@@ -47,6 +47,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-7](../lookup/SKIP/SKIP-1/SKIP-1-3-7.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - Not found in Classical Chinese — a Buddhist loan transliteration, not native vocabulary. Ancient [[Lookup/CC/initials/聲 並|b]] + [[Lookup/CC/finals/韻 夬開|ɣai]] → [ㄅㄚㄧ](../syllables/ㄅㄚㄧ.md)
 - [Grade 6](../lookup/Grade%206.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅍ](../lookup/Korean/Korean%20Name%20ㅍ.md)
+
+## Aliases
+
+### 呗
+Simplified Chinese form of 唄. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[唄]]<rt>ㄅㄚㄧ</rt></ruby> "Buddhist chant; hymn" (stand-in for 唄)

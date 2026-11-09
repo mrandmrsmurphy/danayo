@@ -86,6 +86,8 @@ tags:
 - 坏 --> 壊
 - 帐 --> 帳
 - 吽 --> 吼
+- 呗 --> 唄
+- 呜 --> 嗚
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)

@@ -34,6 +34,7 @@ tags: [lookup]
 - 𠯑 --> 括
 - 步 --> 歩
 - 坚 --> 堅
+- 吞 --> 呑
 
 ### Forbidden
 - 寽 - 混乱: "To seize, grasp with the hand" (ancient). Component in 埒/蜉, neither of which exist in this vault either. Zero existing citations.

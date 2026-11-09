@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 喫.
 >For the word, see [喫](../words/喫.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-3-9](../lookup/SKIP/SKIP-1/SKIP-1-3-9.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - Not among the top 4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 9302`, not independently verifiable against a lookup page; neither 喫 nor 吃 appears in any of the four lists). Ancient [[Lookup/CC/initials/聲 溪|kʰ]] + [[Lookup/CC/finals/韻 錫開|ek]] → [ㄎㄝㄎ](../syllables/ㄎㄝㄎ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 1](../lookup/HSK/Old%20HSK%201.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㄱ](../lookup/Korean/Korean%20Name%20ㄱ.md)
+
+## Aliases
+
+### 吃
+口 + 乞, "to eat"; the Chinese form of 喫 and kept as an alias. SKIP 1-3-3; 6 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[喫]]<rt>ㄎㄝㄎ</rt></ruby> "devour; ingest" (stand-in for 喫)

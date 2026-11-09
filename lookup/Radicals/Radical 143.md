@@ -18,6 +18,10 @@ tags: [lookup]
 
 ### +6 Strokes
 3. <ruby>[衆](../../characters/衆.md)<rt>ㄐㄨㄫ</rt></ruby> - public
+- 衉 --> 喀
+
+### +9 Strokes
+- 䘔 --> 喀
 
 ## Data check
 ```dataview

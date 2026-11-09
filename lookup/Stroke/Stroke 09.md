@@ -129,6 +129,9 @@ tags:
 - 勋 --> 勲
 - 卻 --> 却
 - 洺 --> 名
+- 哈 --> 呵
+- 𣢘 --> 呻
+- 哑 --> 唖
 
 ### Forbidden
 - 乺 - 국자: Korean-coined hanja for '솔', a painting tool and a place name; the sound is foreign, i.e. 소르. 単亜語/敎育用基礎漢字/名

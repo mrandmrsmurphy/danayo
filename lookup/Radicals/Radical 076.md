@@ -21,6 +21,9 @@ tags: [lookup]
 3. <ruby>[欣](../../characters/欣.md)<rt>ㄏㄧㄋ</rt></ruby> - happy
 4. <ruby>[欧](../../characters/欧.md)<rt>ㄛㄨ</rt></ruby> - Europe
 
+### +5 Strokes
+- 𣢘 --> 呻
+
 ### +7 Strokes
 5. <ruby>[欲](../../characters/欲.md)<rt>⼄ㄎ</rt></ruby> - desire
 - 欸 --> 唉
@@ -29,6 +32,7 @@ tags: [lookup]
 6. <ruby>[欺](../../characters/欺.md)<rt>ㄎㄧ</rt></ruby> - deceive
 7. <ruby>[欽](../../characters/欽.md)<rt>ㄎㄨㄇ</rt></ruby> - respect
 8. <ruby>[款](../../characters/款%20(char).md)<rt>ㄎ⺢ㄋ</rt></ruby> - item
+- 㰶 --> 呕
 
 ### +9 Strokes
 9. <ruby>[歆](../../characters/歆.md)<rt>ㄏㄨㄇ</rt></ruby> - be pleased

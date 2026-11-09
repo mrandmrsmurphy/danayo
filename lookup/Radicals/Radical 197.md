@@ -12,6 +12,9 @@ tags: [lookup]
 1. <ruby>[鹵](../../characters/鹵.md)<rt>ㄌㄛㄊ</rt></ruby> - saline soil
 2. <ruby>[鹸](../../characters/鹸%20(char).md)<rt>ㄑㄝㄇ</rt></ruby> - alkali
 
+### Aliases
+- 鹹 --> 咸
+
 ## Data check
 ```dataview
 TABLE file.link AS "Character", radical AS "Radical", 注音 AS "Sound"

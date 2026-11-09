@@ -16,6 +16,7 @@ tags: [lookup]
 ### Aliases
 - 甸 --> 田
 - 乕 --> 虎
+- 启 --> 啓
 
 ## Datacheck
 ```dataview

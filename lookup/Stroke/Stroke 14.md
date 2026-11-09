@@ -112,6 +112,8 @@ tags:
 - 廏 --> 厩
 - 睿 --> 叡
 - 閤 --> 合
+- 獃 --> 呆
+- 嘔 --> 呕
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

@@ -129,6 +129,13 @@ tags: [lookup]
 - 廄 --> 厩
 - 廐 --> 厩
 - 菆 --> 叢
+- 㰶 --> 呕
+- 𤶴 --> 呻
+- 喆 --> 哲
+- 㖷 --> 啼
+- 渧 --> 啼
+- 衉 --> 喀
+- 喻 --> 喩
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

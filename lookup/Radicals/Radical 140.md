@@ -85,6 +85,7 @@ tags:
 48. <ruby>[華](../../characters/華.md)<rt>ㄏ⺢</rt></ruby> - gorgeous
 - 蒦 --> 獲
 - 蔭 --> 陰
+- 营 --> 営
 
 ### +8 Strokes
 49. <ruby>[苟](../../characters/苟%20(char).md)<rt>ㄍㄛㄨ</rt></ruby> - if only

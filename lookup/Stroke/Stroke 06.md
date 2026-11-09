@@ -106,6 +106,11 @@ tags:
 - 刘 --> 劉
 - 动 --> 動
 - 扣 --> 叩
+- 𭇁 --> 吾
+- 吕 --> 呂
+- 吅 --> 喧
+- 吃 --> 喫
+- 乔 --> 喬
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

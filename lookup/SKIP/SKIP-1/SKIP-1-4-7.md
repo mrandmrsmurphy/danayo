@@ -50,6 +50,7 @@ tags:
 - 检 --> 検
 - 焔 --> 炎
 - 脗 --> 吻
+- 梧 --> 吾
 
 ## Datacheck
 ```dataview

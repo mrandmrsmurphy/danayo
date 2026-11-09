@@ -25,17 +25,20 @@ tags: [lookup]
 ### +6 Strokes
 8. <ruby>[痕](../../characters/痕.md)<rt>ㄏㄜㄋ</rt></ruby> - trace
 - 痒 --> 羊
+- 痖 --> 唖
 
 ### +7 Strokes
 9. <ruby>[痘](../../characters/痘.md)<rt>ㄉㄛㄨ</rt></ruby> - pox
 10. <ruby>[痛](../../characters/痛.md)<rt>ㄊㄛㄫ</rt></ruby> - torment
 11. <ruby>[痢](../../characters/痢.md)<rt>ㄌㄧㄜ</rt></ruby> - diarrhea
 12. <ruby>[痩](../../characters/痩%20(char).md)<rt>ㄙ⼜</rt></ruby> - thin
+- 𤶴 --> 呻
 
 ### +8 Strokes
 13. <ruby>[痰](../../characters/痰%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - phlegm
 14. <ruby>[痴](../../characters/痴.md)<rt>ㄑㄧ</rt></ruby> - stupid
 15. <ruby>[痺](../../characters/痺.md)<rt>ㄅㄧ</rt></ruby> - numb
+- 瘂 --> 唖
 
 ### +9 Strokes
 16. <ruby>[瘋](../../characters/瘋.md)<rt>ㄈㄜㄫ</rt></ruby> - crazy

@@ -334,3 +334,29 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 叱 | 𠮟 | 1-3-2 | computed from its parts |
 | 叵 | 尀 | 3-3-5 | computed from its parts |
 | 名 (char) | 洺 | 1-3-6 | computed from its parts |
+| 吾 | 𠮣 | 1-3-2 | computed from its parts |
+| 吾 | 𭇁 | 1-3-3 | computed from its parts |
+| 呂 | 吕 | 2-3-3 | computed from its parts |
+| 呉 | 吳 | 2-3-4 | computed from its parts |
+| 呑 | 吞 | 2-4-3 | computed from its parts |
+| 呕 | 㰶 | 1-8-4 | computed from its parts |
+| 呻 | 𣢘 | 1-4-5 | computed from its parts |
+| 呻 | 㕥 | 1-3-2 | computed from its parts |
+| 呻 | 𠲳 | 1-3-7 | computed from its parts |
+| 呻 | 𤶴 | 3-5-7 | computed from its parts |
+| 咬 (char) | 啮 | 1-3-8 | computed from its parts |
+| 咬 (char) | 𪘂 | 1-8-10 | computed from its parts |
+| 唄 (char) | 呗 | 1-3-4 | computed from its parts |
+| 唖 | 哑 | 1-3-6 | computed from its parts |
+| 唖 | 痖 | 3-5-6 | computed from its parts |
+| 啓 | 啟 | 2-8-3 | computed from its parts |
+| 啼 | 㖒 | 1-3-7 | computed from its parts |
+| 啼 | 㖷 | 1-3-9 | computed from its parts |
+| 喀 | 䘔 | 1-6-9 | computed from its parts |
+| 喊 | 㘕 | 1-3-18 | computed from its parts |
+| 喧 | 吅 | 2-3-3 | computed from its parts |
+| 喩 | 喻 | 1-3-9 | computed from its parts |
+| 喬 | 乔 | 2-4-2 | computed from its parts |
+| 営 | 营 | 2-3-10 | computed from its parts |
+| 嗇 | 啬 | 2-5-6 | computed from its parts |
+| 嗚 | 呜 | 1-3-4 | computed from its parts |

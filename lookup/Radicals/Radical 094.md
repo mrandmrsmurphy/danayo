@@ -83,6 +83,7 @@ tags:
 ### +10 Strokes
 27. <ruby>[獄](../../characters/獄.md)<rt>⼄ㄎ</rt></ruby> - prison
 - 狱 --> simplified of 獄
+- 獃 --> 呆
 
 ### +12 Strokes
 28. <ruby>[獣](../../characters/獣.md)<rt>ㄙ⼜</rt></ruby> - animal

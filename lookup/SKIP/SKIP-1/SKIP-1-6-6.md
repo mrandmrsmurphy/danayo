@@ -37,6 +37,8 @@ tags:
 - 联 --> 連
 - 絝 --> 袴
 - 䋝 --> 嬰
+- 喆 --> 哲
+- 衉 --> 喀
 
 ### Forbidden
 - 粭 - 国字: used in the placename 粭島 (Sukumo-jima), "Sukumo Island" in Yamaguchi prefecture

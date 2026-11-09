@@ -87,6 +87,7 @@ tags: [lookup]
 42. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched
 43. <ruby>[燦](../../characters/燦.md)<rt>ㄑㄚㄋ</rt></ruby> - bright
 44. <ruby>[燭](../../characters/燭.md)<rt>ㄑㄛㄎ</rt></ruby> - candle
+- 營 --> 営
 
 ### +15 Strokes
 45. <ruby>[爆](../../characters/爆.md)<rt>ㄅㄛㄎ</rt></ruby> - explode

@@ -23,7 +23,7 @@ joyo_level: 高等
 hsk_level: "3"
 hanmun_edu_level: 高等
 danayo_id: 5082
-mc_id: 2907
+mc_id: 2890
 graphemic_classification: 辰
 stand_in: 唇
 aliases:
@@ -33,7 +33,7 @@ kwin: false
 tags:
   - character
 boundedness: 65
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 唇.
 >For the word, see [唇](../words/唇.md)
@@ -45,8 +45,13 @@ date-last-perfect: 2026-10-20
 ## Notes
 - 形声: semantic [[Radical 030|口]] ("mouth") + phonetic [[辰]] — "lips." 脣 (肉 semantic "flesh" instead of 口) is the traditional form, with its own separate Classical Chinese corpus entry, but no distinct vault page — kept as an alias.
 - [SKIP-2-7-3](../lookup/SKIP/SKIP-2/SKIP-2-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
-- 2907th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄙㄨㄋ](../syllables/ㄙㄨㄋ.md)
+- 2890th most used character in Classical Chinese, the rank of its alias 脣 (唇 (char) itself is not on the lists). Ancient [[Lookup/CC/initials/聲 書|ɕ]] + [[Lookup/CC/finals/韻 文|ɨun]] → [ㄙㄨㄋ](../syllables/ㄙㄨㄋ.md)
 - [Grade 5](../lookup/Grade%205.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean HS](../lookup/Korean/Korean%20HS.md)
+
+## Aliases
+
+### 脣
+月 + 辰, "lip"; a variant of 唇 and kept as an alias. SKIP 2-7-4; 11 strokes. Radical 130 肉. It ranks 2890 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
 
 ## Words
 - <ruby>[[唇]]<rt>ㄙㄨㄋ</rt></ruby> "lips" (stand-in for 唇 (char))

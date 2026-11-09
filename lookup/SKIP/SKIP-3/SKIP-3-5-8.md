@@ -14,6 +14,9 @@ tags: [lookup]
 2. <ruby>[痴](/characters/痴.md)<rt>ㄑㄧ</rt></ruby> - stupid
 3. <ruby>[痺](/characters/痺.md)<rt>ㄅㄧ</rt></ruby> - numb
 
+### Aliases
+- 瘂 --> 唖
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

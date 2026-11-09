@@ -155,6 +155,7 @@ tags: [lookup]
 - 梦 --> 夢
 - 條 --> 条
 - 检 --> 検
+- 梧 --> 吾
 
 ### +8 Strokes
 93. <ruby>[棋](../../characters/棋.md)<rt>ㄍㄧ</rt></ruby> - chess

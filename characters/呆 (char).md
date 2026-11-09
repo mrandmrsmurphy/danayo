@@ -27,7 +27,7 @@ joyo_level: "表外字"
 hsk_level: "2"
 hanmun_edu_level: "無"
 danayo_id: 7031
-mc_id: 0
+mc_id:
 graphemic_classification: "会意"
 stand_in: "呆"
 aliases:
@@ -38,7 +38,7 @@ kwin: true
 tags:
   - character
 boundedness: 80
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 呆.
 >For the word, see [呆](../words/呆.md)
@@ -52,6 +52,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-3-4](../lookup/SKIP/SKIP-2/SKIP-2-3-4.md) ([Stroke 07](../lookup/Stroke/Stroke%2007.md))
 - Not among the top ~4000 most-used characters in Classical Chinese tracked by this vault's `CC 0000`–`CC 3000` lookup lists (`mc_id: 0`, confirmed not present in the ranking). Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 灰|uʌi]] → [ㄇㄚㄧ](../syllables/ㄇㄚㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Missing](../lookup/Korean/Korean%20Missing.md)
+
+## Aliases
+
+### 獃
+犭 + 呆, "dull-minded"; a variant of 呆 and kept as an alias. SKIP 1-10-4; 14 strokes. Radical 094 犬. It has no rank of its own in the Classical Chinese lists.
+
+### 騃
+馬 + 疑 element, "stupid, foolish"; a variant of 呆 and kept as an alias. SKIP 1-10-7; 17 strokes. Radical 187 馬. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[呆]]<rt>ㄇㄚㄧ</rt></ruby> "confused; dazed; foolish" (stand-in for 呆)

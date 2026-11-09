@@ -14,6 +14,7 @@ tags: [lookup]
 
 ### Aliases
 - 痒 --> 羊
+- 痖 --> 唖
 
 ## Datacheck
 ```dataview

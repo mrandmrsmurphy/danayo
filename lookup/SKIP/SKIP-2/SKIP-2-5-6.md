@@ -29,6 +29,7 @@ tags: [lookup]
 - 啚 --> 鄙
 - 眾 --> 衆
 - 袈 --> 加
+- 啬 --> 嗇
 
 ## Datacheck
 ```dataview

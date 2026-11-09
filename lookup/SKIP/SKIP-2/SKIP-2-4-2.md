@@ -20,6 +20,7 @@ tags: [lookup]
 - 毕 --> 畢
 - 兇 --> 凶
 - 华 --> 華
+- 乔 --> 喬
 
 ### Forbidden
 - 㪲 - 국자: Korean-coined hanja for '둑', used in personal and place names

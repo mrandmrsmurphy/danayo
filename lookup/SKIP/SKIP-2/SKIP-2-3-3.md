@@ -43,6 +43,8 @@ tags:
 - 𢖽 --> 志
 - 异 --> 異
 - 伞 --> 傘
+- 吕 --> 呂
+- 吅 --> 喧
 
 ### Forbidden
 - 夻 - 국자: Invented character for 'cod', 구

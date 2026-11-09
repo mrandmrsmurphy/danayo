@@ -34,6 +34,7 @@ tags: [lookup]
 - 敝 --> 蔽
 - 舒 --> 抒
 - 鈑 --> 板
+- 㰶 --> 呕
 
 ## Datacheck
 ```dataview

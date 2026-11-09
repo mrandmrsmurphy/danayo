@@ -27,6 +27,7 @@ tags: [lookup]
 
 ### Aliases
 - 桀 --> 傑
+- 脣 --> 唇
 
 ## Datacheck
 ```dataview

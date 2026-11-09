@@ -161,6 +161,9 @@ tags:
 - 婾 --> 偷
 - 渤 --> 勃
 - 㣫 --> 動
+- 㖷 --> 啼
+- 渧 --> 啼
+- 喻 --> 喩
 
 ### Forbidden
 - 媤 - 국자: Korean-coined hanja for '시' ('husband's family'). 한문교육용기초한자/이름

@@ -160,6 +160,7 @@ tags: [lookup]
 ### +11 Strokes
 85. <ruby>[謬](../../characters/謬.md)<rt>ㄇ⼜</rt></ruby> - err
 86. <ruby>[謹](../../characters/謹.md)<rt>ㄍㄧㄋ</rt></ruby> - prudent
+- 謼 --> 呼
 
 ### +12 Strokes
 87. <ruby>[識](../../characters/識.md)<rt>ㄙㄧㄎ</rt></ruby> - recognize
