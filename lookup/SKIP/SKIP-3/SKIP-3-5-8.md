@@ -16,6 +16,7 @@ tags: [lookup]
 
 ### Aliases
 - 瘂 --> 唖
+- 痹 --> 痺
 
 ## Datacheck
 ```dataview

@@ -32,7 +32,7 @@ stand_in: 由
 aliases:
   - 柚
 注音: ⼜ㄛ
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 kwin: false
 tags:
   - character
@@ -50,6 +50,11 @@ boundedness: 90
 - [SKIP-4-5-2](../lookup/SKIP/SKIP-4/SKIP-4-5-2.md) ([Stroke 05](../lookup/Stroke/Stroke%2005.md))
 - 377th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 以|j]] + [[Lookup/CC/finals/韻 尤|ɨu]] → [⼜ㄛ](../syllables/⼜ㄛ.md)
 - [Grade 2](../lookup/Grade%202.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kyōiku](../lookup/Japanese/Jōyō%20-%20Kyōiku.md), [Korean MS](../lookup/Korean/Korean%20MS.md)
+
+## Aliases
+
+### 柚
+木 + 由, "pomelo"; built on 由 and kept as an alias. SKIP 1-4-5; 9 strokes. Radical 075 木. It ranks 3561 in the Classical Chinese lists, a higher number than the page's `mc_id`.
 
 ## Words
 - <ruby>[[由]]<rt>⼜ㄛ</rt></ruby> "from; since" (stand-in for 由)

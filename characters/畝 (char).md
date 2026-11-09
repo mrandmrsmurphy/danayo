@@ -29,14 +29,13 @@ mc_id: 1376
 graphemic_classification: "久"
 stand_in: "畝"
 aliases:
-  - 畮
   - 亩
 注音: "ㄇㄛㄨ"
 kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 畝.
 >For the word, see [畝](../words/畝.md)
@@ -50,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-3](../lookup/SKIP/SKIP-1/SKIP-1-7-3.md) ([Stroke 10](../lookup/Stroke/Stroke%2010.md))
 - 1376th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 明|m]] + [[Lookup/CC/finals/韻 侯|əu]] → [ㄇㄛㄨ](../syllables/ㄇㄛㄨ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 2](../lookup/HSK/Old%20HSK%202.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅁ](../lookup/Korean/Korean%20Name%20ㅁ.md)
+
+## Aliases
+
+### 亩
+Simplified Chinese form of 畝. SKIP 2-2-5 (computed: EDRDG does not list it); 7 strokes. Radical 008 亠. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[畝]]<rt>ㄇㄛㄨ</rt></ruby> "furrow" (stand-in for 畝)

@@ -15,6 +15,9 @@ tags: [lookup]
 ### Forbidden
 - 瓩 - 国字: 国字 for the kilogram (瓦 + 千), from the Meiji period; a symbol for kilogram
 
+### Aliases
+- 疡 --> 瘍
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -120,6 +120,7 @@ tags:
 - 燔 --> 焚
 - 燄 --> 焰
 - 墻 --> 牆
+- 䵺 --> 町
 
 ### Forbidden
 - 敾 - 국자: Korean-coined hanja for '선'. 単亜語/敎育用基礎漢字/名

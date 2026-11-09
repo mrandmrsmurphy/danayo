@@ -13,6 +13,10 @@ tags:
 1. <ruby>[皮](../../characters/皮.md)<rt>ㄅㄧ</rt></ruby> - hide
 2. <ruby>[皺](../../characters/皺.md)<rt>ㄐㄨ</rt></ruby> - wrinkles
 
+### Aliases
+- 皰 --> 疱
+- 皱 --> 皺
+
 ## Data check
 ```dataview
 TABLE english AS "English", radical AS "Radical", 注音 AS "Sound"

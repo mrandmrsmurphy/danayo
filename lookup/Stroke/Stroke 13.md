@@ -132,6 +132,8 @@ tags:
 - 瑇 --> 玳
 - 鉩 --> 璽
 - 鉨 --> 璽
+- 叠 --> 畳
+- 痹 --> 痺
 
 ### Forbidden
 - 厁 - 국자: Korean-coined hanja for '산' (proto-Hangǔl), used in a place name

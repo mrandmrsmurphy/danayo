@@ -25,6 +25,7 @@ tags: [lookup]
 - 罓 --> variant form (component-only)
 - 罗 --> simplified form of 羅
 - 罢 --> simplified form of 罷
+- 罢 --> 疲
 
 ### Forbidden
 - 罖 - 口訣: Korean 구결 for '라'

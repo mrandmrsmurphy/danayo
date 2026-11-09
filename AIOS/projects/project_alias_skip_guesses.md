@@ -520,3 +520,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 環 (char) | 环 | 1-4-4 | computed from its parts |
 | 璽 | 玺 | 2-5-5 | computed from its parts |
 | 璽 | 鈢 | 1-8-4 | computed from its parts |
+| 瓊 | 琼 | 1-4-8 | computed from its parts |
+| 町 | 䵺 | 1-13-3 | computed from its parts |
+| 畝 (char) | 亩 | 2-2-5 | computed from its parts |
+| 疲 | 罢 | 2-5-5 | computed from its parts |
+| 瘋 | 疯 | 3-5-4 | computed from its parts |
+| 瘍 | 疡 | 3-5-3 | computed from its parts |
+| 瘡 | 疮 | 3-5-4 | computed from its parts |
+| 療 | 疗 | 3-5-2 | computed from its parts |
+| 癇 | 痫 | 3-5-7 | computed from its parts |
+| 癇 | 癎 | 3-5-12 | computed from its parts |
+| 皺 | 皱 | 1-5-5 | computed from its parts |
+| 盞 | 盏 | 2-4-6 | computed from its parts |

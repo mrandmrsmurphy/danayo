@@ -71,6 +71,7 @@ tags:
 - 椭 --> 楕
 - 棖 --> 橙
 - 棹 --> 櫂
+- 琼 --> 瓊
 
 ## Datacheck
 ```dataview

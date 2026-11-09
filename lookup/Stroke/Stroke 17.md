@@ -103,6 +103,7 @@ tags:
 - 濤 --> 涛
 - 澀 --> 渋
 - 濕 --> 湿
+- 癎 --> 癇
 
 ### Forbidden
 - 闏 - 국자: 팽 (“wind that enters a door or through a gap in a door”)

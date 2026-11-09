@@ -40,6 +40,7 @@ tags:
 - 夘 --> 夗
 - 払 --> 拂
 - 扑 --> 撲
+- 圢 --> 町
 
 ### Forbidden
 - 奶 - 中国制造: Not in Kangxi.  HSK/1.  Replace with 乳.

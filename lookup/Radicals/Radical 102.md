@@ -63,6 +63,9 @@ tags: [lookup]
 22. <ruby>[疆](../../characters/疆.md)<rt>ㄍ⼘ㄋ</rt></ruby> - boundary
 - 疇 --> 畴
 
+### +17 Strokes
+- 疊 --> 畳
+
 ### Aliases
 - 當 --> 当
 - 㽬 --> 放

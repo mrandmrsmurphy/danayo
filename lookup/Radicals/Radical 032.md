@@ -19,6 +19,7 @@ tags:
 
 ### +2 Strokes
 3. <ruby>[圧](../../characters/圧%20(char).md)<rt>ㄚㄊ</rt></ruby> - press
+- 圢 --> 町
 
 ### +3 Strokes
 4. <ruby>[在](../../characters/在%20(char).md)<rt>ㄐㄚㄧ</rt></ruby> - exist

@@ -168,6 +168,10 @@ tags:
 - 莞 --> 玩
 - 珡 --> 琴
 - 玺 --> 璽
+- 皰 --> 疱
+- 罢 --> 疲
+- 皱 --> 皺
+- 盏 --> 盞
 
 ### Forbidden
 - 乽 - 국자: Korean-coined hanja for '잘', an honorific title for members of the imperial clan

@@ -101,6 +101,7 @@ tags: [lookup]
 - 燓 --> 焚
 - 燔 --> 焚
 - 燄 --> 焰
+- 燎 --> 療
 
 ### +13 Strokes
 42. <ruby>[燥](../../characters/燥.md)<rt>ㄙㄚㄨ</rt></ruby> - parched

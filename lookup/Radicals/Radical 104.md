@@ -10,8 +10,16 @@ tags: [lookup]
 
 ## Strokes
 
+### +2 Strokes
+- 疗 --> 療
+
+### +3 Strokes
+- 疡 --> 瘍
+
 ### +4 Strokes
 1. <ruby>[疫](../../characters/疫.md)<rt>⼶ㄎ</rt></ruby> - pestilence
+- 疯 --> 瘋
+- 疮 --> 瘡
 
 ### +5 Strokes
 2. <ruby>[疱](../../characters/疱.md)<rt>ㄆㄚㄨ</rt></ruby> - acne
@@ -32,12 +40,14 @@ tags: [lookup]
 10. <ruby>[痛](../../characters/痛.md)<rt>ㄊㄛㄫ</rt></ruby> - torment
 11. <ruby>[痢](../../characters/痢.md)<rt>ㄌㄧㄜ</rt></ruby> - diarrhea
 12. <ruby>[痩](../../characters/痩%20(char).md)<rt>ㄙ⼜</rt></ruby> - thin
+- 痫 --> 癇
 
 ### +8 Strokes
 13. <ruby>[痰](../../characters/痰%20(char).md)<rt>ㄉㄚㄇ</rt></ruby> - phlegm
 14. <ruby>[痴](../../characters/痴.md)<rt>ㄑㄧ</rt></ruby> - stupid
 15. <ruby>[痺](../../characters/痺.md)<rt>ㄅㄧ</rt></ruby> - numb
 - 瘂 --> 唖
+- 痹 --> 痺
 
 ### +9 Strokes
 16. <ruby>[瘋](../../characters/瘋.md)<rt>ㄈㄜㄫ</rt></ruby> - crazy
@@ -45,15 +55,23 @@ tags: [lookup]
 
 ### +10 Strokes
 18. <ruby>[瘡](../../characters/瘡.md)<rt>ㄑ⺢ㄫ</rt></ruby> - wound
+- 瘦 --> 痩
 
 ### +12 Strokes
 19. <ruby>[療](../../characters/療.md)<rt>ㄌ⼄ㄨ</rt></ruby> - treat
 20. <ruby>[癇](../../characters/癇.md)<rt>ㄏㄚㄋ</rt></ruby> - epilepsy
 21. <ruby>[癌](../../characters/癌.md)<rt>ㄚㄇ</rt></ruby> - cancer
+- 癎 --> 癇
 
 ### +13 Strokes
 22. <ruby>[癒](../../characters/癒.md)<rt>⼜</rt></ruby> - get well
 23. <ruby>[癖](../../characters/癖%20(char).md)<rt>ㄆㄝㄎ</rt></ruby> - idiosyncrasy
+
+### +14 Strokes
+- 癡 --> 痴
+
+### +15 Strokes
+- 癥 --> 症
 
 ### +17 Strokes
 - 癬 --> 鮮

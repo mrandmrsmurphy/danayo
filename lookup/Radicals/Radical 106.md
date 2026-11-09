@@ -32,6 +32,9 @@ tags: [lookup]
 ### +7 Strokes
 8. <ruby>[皓](../../characters/皓.md)<rt>ㄏㄚㄨ</rt></ruby> - luminous
 
+### +10 Strokes
+- 皜 --> 皓
+
 ### +13 Strokes
 - 皨 --> 星
 

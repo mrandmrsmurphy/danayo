@@ -186,6 +186,10 @@ tags: [lookup]
 - 㺃 --> 狗
 - 琹 --> 琴
 - 鈢 --> 璽
+- 琼 --> 瓊
+- 疏 --> 疎
+- 痫 --> 癇
+- 盜 --> 盗
 
 ### Forbidden
 - 喸 - 국자: Korean-coined hanja for '폿' (proto-Hangǔl); place name

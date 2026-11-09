@@ -131,6 +131,8 @@ tags:
 - 鴉 --> 烏
 - 貓 --> 猫
 - 瑩 --> 瑛
+- 瘦 --> 痩
+- 皜 --> 皓
 
 ### Forbidden
 - 廤 - 국자: Korean-coined hanja for '곶' ('to place')

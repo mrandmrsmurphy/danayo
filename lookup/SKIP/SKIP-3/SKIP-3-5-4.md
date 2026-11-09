@@ -16,6 +16,10 @@ tags: [lookup]
 - 瓰 - 国字: 国字 for the decigram (瓦 + 分)
 - 疤 - 官话: HSK/4, but not used elsewhere.  Use 痕跡 for "scar".
 
+### Aliases
+- 疯 --> 瘋
+- 疮 --> 瘡
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

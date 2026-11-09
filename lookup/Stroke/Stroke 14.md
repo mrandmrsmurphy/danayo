@@ -155,6 +155,7 @@ tags:
 - 墙 --> 牆
 - 貍 --> 狸
 - 䟺 --> 狽
+- 暠 --> 皓
 
 ### Forbidden
 - 嘛 - 中国制造: HSK/1, but Chinese only.  SFP.  Sound of 麻

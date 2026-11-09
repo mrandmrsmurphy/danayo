@@ -181,6 +181,9 @@ tags:
 - 犁 --> 犂
 - 琉 --> 瑠
 - 琅 --> 瑯
+- 琁 --> 瓊
+- 隈 --> 畏
+- 晧 --> 皓
 
 ### Forbidden
 - 㐢 - 국자: Korean-coined hanja for '뜰'

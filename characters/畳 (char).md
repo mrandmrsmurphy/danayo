@@ -40,7 +40,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 畳.
 >For the word, see [畳](../words/畳.md)
@@ -54,6 +54,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-2-5-7](../lookup/SKIP/SKIP-2/SKIP-2-5-7.md) ([Stroke 12](../lookup/Stroke/Stroke%2012.md))
 - 3563rd most used character in Classical Chinese (recorded in the corpus under its traditional form 疊). Ancient [[Lookup/CC/initials/聲 定|d]] + [[Lookup/CC/finals/韻 帖|ep]] → [ㄉㄝㄆ](../syllables/ㄉㄝㄆ.md)
 - [Grade 6](../lookup/Grade%206.md), [Old HSK 3](../lookup/HSK/Old%20HSK%203.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅊ](../lookup/Korean/Korean%20Name%20ㅊ.md)
+
+## Aliases
+
+### 疊
+Traditional form (kyūjitai) of 畳, "to fold". SKIP 2-5-17; 22 strokes. It ranks 3563 in the Classical Chinese lists, the lowest among the page's forms, so it sets the page's `mc_id`.
+
+### 叠
+The Chinese simplified form of 疊, "to fold". SKIP 2-2-11; 13 strokes. Radical 029 又. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[畳]]<rt>ㄉㄝㄆ</rt></ruby> "folding mat, tatami mat" (stand-in for 畳)

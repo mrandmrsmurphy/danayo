@@ -65,6 +65,7 @@ tags:
 - 鳗 --> 曼
 - 濳 --> 潜
 - 瀨 --> 瀬
+- 癡 --> 痴
 
 ### Forbidden
 - 繳 - 官话: Too modern: the 'hand over; pay' sense is not used in the other languages, despite being HSK 4 (缴)

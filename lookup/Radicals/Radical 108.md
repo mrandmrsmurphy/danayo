@@ -24,6 +24,7 @@ tags: [lookup]
 5. <ruby>[益](../../characters/益.md)<rt>ㄝㄎ</rt></ruby> - benefit
 - 盐 --> 塩
 - 𥁕 --> 昷
+- 盏 --> 盞
 
 ### +6 Strokes
 6. <ruby>[盒](../../characters/盒.md)<rt>ㄏㄛㄆ</rt></ruby> - box
@@ -31,6 +32,7 @@ tags: [lookup]
 
 ### +7 Strokes
 8. <ruby>[盛](../../characters/盛.md)<rt>ㄙㄧㄫ</rt></ruby> - flourish
+- 盜 --> 盗
 
 ### +8 Strokes
 9. <ruby>[盟](../../characters/盟.md)<rt>ㄇ⼶ㄫ</rt></ruby> - alliance

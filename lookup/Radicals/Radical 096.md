@@ -47,6 +47,7 @@ tags:
 19. <ruby>[琢](../../characters/琢.md)<rt>ㄊㄚㄎ</rt></ruby> - polish jewels
 - 琉 --> 瑠
 - 琅 --> 瑯
+- 琁 --> 瓊
 
 ### +7 Strokes
 20. <ruby>[琥](../../characters/琥.md)<rt>ㄏㄛ</rt></ruby> - amber
@@ -58,6 +59,7 @@ tags:
 26. <ruby>[瑛](../../characters/瑛.md)<rt>ㄝㄫ</rt></ruby> - luster
 - 琰 --> 炎
 - 琹 --> 琴
+- 琼 --> 瓊
 
 ### +8 Strokes
 27. <ruby>[瑁](../../characters/瑁.md)<rt>ㄇㄚㄨ</rt></ruby> - jade

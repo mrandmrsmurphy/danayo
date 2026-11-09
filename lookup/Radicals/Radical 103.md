@@ -15,6 +15,7 @@ tags: [lookup]
 
 ### +7 Strokes
 2. <ruby>[疎](../../characters/疎.md)<rt>ㄙㄜ</rt></ruby> - loose
+- 疏 --> 疎
 
 ### +9 Strokes
 3. <ruby>[疑](../../characters/疑.md)<rt>ㄧ</rt></ruby> - doubt

@@ -50,6 +50,7 @@ tags: [lookup]
 23. <ruby>[険](../../characters/険%20(char).md)<rt>ㄏㄝㄇ</rt></ruby> - precipitous
 24. <ruby>[隆](../../characters/隆%20(char).md)<rt>ㄌㄨㄫ</rt></ruby> - prosperous
 - 隄 --> 堤
+- 隈 --> 畏
 
 ### +4 Strokes
 25. <ruby>[陽](../../characters/陽%20(char).md)<rt>⼘ㄫ</rt></ruby> - shine

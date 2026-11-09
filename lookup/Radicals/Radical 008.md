@@ -25,6 +25,7 @@ tags: [lookup]
 ### +5 Strokes
 6. <ruby>[亨](../../characters/亨.md)<rt>ㄏㄚㄫ</rt></ruby> - go well
 7. <ruby>[㐬](../../characters/㐬.md)<rt>ㄌ⼜ㄛ</rt></ruby> - strings of jade hanging from a crown
+- 亩 --> 畝
 
 ### +6 Strokes
 8. <ruby>[享](../../characters/享.md)<rt>ㄏ⼘ㄫ</rt></ruby> - enjoy

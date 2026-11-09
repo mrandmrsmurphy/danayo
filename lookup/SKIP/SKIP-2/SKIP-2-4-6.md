@@ -26,6 +26,7 @@ tags: [lookup]
 - 晟 --> 成
 - 紧 --> 緊
 - 晕 --> 暈
+- 盏 --> 盞
 
 ## Datacheck
 ```dataview

@@ -52,6 +52,7 @@ tags:
 - 甯 --> 寧
 - 堯 --> 尭
 - 𦳊 --> 屎
+- 葵 --> 癸
 
 ## Datacheck
 ```dataview

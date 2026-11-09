@@ -123,6 +123,7 @@ tags: [lookup]
 - 栏 --> 欄
 - 柾 --> 正
 - 柢 --> 氐
+- 柚 --> 由
 
 ### +6 Strokes
 60. <ruby>[栓](../../characters/栓%20(char).md)<rt>ㄙ⼔ㄋ</rt></ruby> - peg

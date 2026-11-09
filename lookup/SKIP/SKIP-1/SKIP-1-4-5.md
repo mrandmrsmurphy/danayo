@@ -76,6 +76,7 @@ tags:
 - 柾 --> 正
 - 柢 --> 氐
 - 珐 --> 琺
+- 柚 --> 由
 
 ### Forbidden
 - 旀 - 국자: Korean place-name character, an element in place names; same as 㢱

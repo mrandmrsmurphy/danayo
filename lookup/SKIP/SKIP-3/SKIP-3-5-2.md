@@ -15,6 +15,9 @@ tags: [lookup]
 ### Forbidden
 - 瓧 - 国字: 国字 for the decagram; a dated symbol for ten grams
 
+### Aliases
+- 疗 --> 療
+
 ## Datacheck
 ```dataview
 TABLE 注音 AS "Sound", english AS "en"

@@ -20,6 +20,7 @@ tags: [lookup]
 
 ### Aliases
 - 畱 --> 留
+- 盜 --> 盗
 
 ## Datacheck
 ```dataview

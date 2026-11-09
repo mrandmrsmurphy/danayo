@@ -28,6 +28,7 @@ tags: [lookup]
 ### Aliases
 - 弃 --> 棄
 - 每 --> 毎
+- 亩 --> 畝
 
 ## Datacheck
 ```dataview

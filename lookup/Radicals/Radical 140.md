@@ -87,6 +87,7 @@ tags:
 - 菆 --> 叢
 - 菴 --> 庵
 - 萷 --> 梢
+- 葵 --> 癸
 
 ### +7 Strokes
 42. <ruby>[芻](../../characters/芻.md)<rt>ㄑㄨ</rt></ruby> - hay
