@@ -58,17 +58,29 @@ tags: [lookup]
 ### +-1 Strokes
 - 诀 --> 訣
 
+### +-1 Strokes
+- 讷 --> 訥
+
 ### +0 Strokes
 1. <ruby>[言](../../characters/言%20(char).md)<rt>ㄝㄋ</rt></ruby> - say
 - 译 --> 訳
 - 诉 --> 訴
 - 评 --> 評
 - 词 --> 詞
+- 诊 --> 診
+- 诈 --> 詐
+- 诅 --> 詛
 
 ### +1 Stroke
 - 试 --> 試
 - 该 --> 該
 - 诚 --> 誠
+- 诣 --> 詣
+- 诧 --> 詫
+- 诠 --> 詮
+- 诘 --> 詰
+- 详 --> 詳
+- 诛 --> 誅
 
 ### +2 Strokes
 2. <ruby>[訂](../../characters/訂%20(char).md)<rt>ㄊㄝㄫ</rt></ruby> - revise

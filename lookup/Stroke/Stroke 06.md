@@ -132,6 +132,7 @@ tags:
 - 讹 --> 訛
 - 讼 --> 訟
 - 诀 --> 訣
+- 讷 --> 訥
 
 ### Forbidden
 - 乫 - 국자: Korean-coined hanja for '갈', from 加 + ㄹ; used only in Korean place names

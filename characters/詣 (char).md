@@ -36,7 +36,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is about the character.
 >For the word, see [詣](../words/詣.md)
@@ -49,6 +49,11 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-6](../lookup/SKIP/SKIP-1/SKIP-1-7-6.md) ([Stroke 13](../lookup/Stroke/Stroke%2013.md))
 - 1027th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 疑|ŋ]] + [[Lookup/CC/finals/韻 齊開|ei]] → [ㄝㄧ](../syllables/ㄝㄧ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Jōyō - Kōtō](../lookup/Japanese/Jōyō%20-%20Kōtō.md), [Korean Name ㅇ](../lookup/Korean/Korean%20Name%20ㅇ.md)
+
+## Aliases
+
+### 诣
+Simplified Chinese form of 詣. SKIP 1-2-6 (computed: EDRDG does not list it); 8 strokes. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[詣]]<rt>ㄝㄧ</rt></ruby> "visit, reach" (stand-in for 詣)

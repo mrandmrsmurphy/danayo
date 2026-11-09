@@ -134,6 +134,7 @@ tags:
 - 绀 --> 紺
 - 绊 --> 絆
 - 经 --> 経
+- 咏 --> 詠
 
 ### Forbidden
 - 㢱 - 국자: Korean place-name character; same as 旀

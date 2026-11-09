@@ -80,6 +80,7 @@ tags: [lookup]
 - 吨 --> 噸
 - 听 --> 聴
 - 吪 --> 訛
+- 吶 --> 訥
 
 ### +5 Strokes
 43. <ruby>[周](../../characters/周.md)<rt>ㄐㄨㄛ</rt></ruby> - circumference
@@ -95,6 +96,7 @@ tags: [lookup]
 - 咜 --> 叱
 - 咒 --> 呪
 - 咀 --> 嘴
+- 咏 --> 詠
 
 ### +6 Strokes
 52. <ruby>[咬](../../characters/咬%20(char).md)<rt>⼘ㄨ</rt></ruby> - bite

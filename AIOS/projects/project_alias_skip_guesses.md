@@ -781,3 +781,15 @@ The user confirmed every row up to 2026-11-08 (spot-checked and eyeballed; no of
 | 訛 | 䚰 | 1-7-2 | computed from its parts |
 | 訟 (char) | 讼 | 1-2-4 | computed from its parts |
 | 訣 | 诀 | 1-2-4 | computed from its parts |
+| 訥 (char) | 讷 | 1-2-4 | computed from its parts |
+| 訥 (char) | 吶 | 1-3-4 | computed from its parts |
+| 診 | 诊 | 1-2-5 | computed from its parts |
+| 詐 | 诈 | 1-2-5 | computed from its parts |
+| 詛 | 诅 | 1-2-5 | computed from its parts |
+| 詠 (char) | 咏 | 1-3-5 | computed from its parts |
+| 詣 (char) | 诣 | 1-2-6 | computed from its parts |
+| 詫 | 诧 | 1-2-6 | computed from its parts |
+| 詮 | 诠 | 1-2-6 | computed from its parts |
+| 詰 | 诘 | 1-2-6 | computed from its parts |
+| 詳 | 详 | 1-2-6 | computed from its parts |
+| 誅 | 诛 | 1-2-6 | computed from its parts |

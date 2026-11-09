@@ -35,7 +35,7 @@ kwin: false
 tags:
   - character
 boundedness: 75
-date-last-perfect: 2026-10-20
+date-last-perfect: 2026-11-09
 ---
 >[!tip] This is a page about the character 訥.
 >For the word, see [訥](../words/訥.md)
@@ -49,6 +49,14 @@ date-last-perfect: 2026-10-20
 - [SKIP-1-7-4](../lookup/SKIP/SKIP-1/SKIP-1-7-4.md) ([Stroke 11](../lookup/Stroke/Stroke%2011.md))
 - 3924th most used character in Classical Chinese. Ancient [[Lookup/CC/initials/聲 泥|n]] + [[Lookup/CC/finals/韻 沒|uət]] → [ㄋㄛㄊ](../syllables/ㄋㄛㄊ.md)
 - [Grade Advanced](../lookup/Grade%20Advanced.md), [HSK No](../lookup/HSK/HSK%20No.md), [Hyōgai](../lookup/Japanese/Hyōgai.md), [Korean Name ㄴ](../lookup/Korean/Korean%20Name%20ㄴ.md)
+
+## Aliases
+
+### 讷
+Simplified Chinese form of 訥. SKIP 1-2-4 (computed: EDRDG does not list it); 6 strokes. It has no rank of its own in the Classical Chinese lists.
+
+### 吶
+口 + 内, "to shout"; an alternative form of 訥 and kept as an alias. SKIP 1-3-4 (computed: EDRDG does not list it); 7 strokes. Radical 030 口. It has no rank of its own in the Classical Chinese lists.
 
 ## Words
 - <ruby>[[訥]]<rt>ㄋㄛㄊ</rt></ruby> "mumble; stammer" (stand-in for 訥 (char))

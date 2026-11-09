@@ -119,6 +119,7 @@ tags:
 - 听 --> 聴
 - 沧 --> 蒼
 - 吪 --> 訛
+- 吶 --> 訥
 
 ### Forbidden
 - 扭 - 官话: Used only in Chinese (Mandarin)
